@@ -1,4 +1,4 @@
-baseURL = 'https://bg3.wiki.cn/'
+baseURL = 'https://jimbozhang.github.io/bg3-wiki-zh/'
 title = '博德之门3 中文维基'
 theme = 'hugo-book'
 
@@ -37,7 +37,7 @@ ignoreFiles = ['\.py$', '\.sh$', '\.json$', '\.xml$', '\.glo\.txt$']
   BookSearch = false
   BookComments = false
   BookPortableLinks = true
-  BookDateFormat = '2006年1月2日'
+  BookDateFormat = '2026年4月3日'
   BookRepo = 'https://github.com/jimbozhang/bg3-wiki-zh'
 
 [menu]
