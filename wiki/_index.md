@@ -5,6 +5,8 @@ type: docs
 
 # 博德之门3 中文维基
 
+[![Star this project](https://img.shields.io/badge/⭐_Star_this_project-6e5494?style=for-the-badge&logo=github)](https://github.com/jimbozhang/bg3-wiki-zh)
+
 本项目为 [bg3.wiki](https://bg3.wiki) 的**非官方中文翻译**，共 14,000+ 页面。
 
 ---
