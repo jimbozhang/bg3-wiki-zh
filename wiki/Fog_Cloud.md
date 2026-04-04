@@ -20,16 +20,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当此法术以2级或更高法术位施放时，其作用区域每比1级法术位高一级，增加2米（7英尺）。
 
-## 技术细节
-
-UID
-
-`Target_FogCloud`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 区域：雾
 
 **[雾](Fog.md "雾")**

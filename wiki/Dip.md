@@ -14,16 +14,6 @@
 射程：3米（10英尺）
 目标：可蘸取的地表或[燃烧](Burning_(Condition).md "燃烧（状态）")的物体
 
-## 技术细节
-
-UID
-
-`Target_Dip`
-
-法术标志
-
-`[隐形](Invisible_(spell_flag).md)`, `[近战](IsMelee_(spell_flag).md)`, `[隐匿](Stealth_(spell_flag).md)`, `[目标最近的等高地表](https://bg3.wiki/w/index.php?title=TargetClosestEqualGroundSurface_\(spell_flag\)&action=edit&redlink=1) "目标最近的等高地表（法术标志）（页面不存在）")`
-
 ## 状态：浸入火焰
 
 **[浸入火焰](Dipped_in_Fire_(Condition).md "浸入火焰（状态）")**

@@ -18,12 +18,6 @@
 范围：自身
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_ChargedLightning_LightningBlast`
-
 ## 状态：闪电释能
 
 **[闪电释能](Lightning_Blast_(Condition).md "闪电释能（状态）")**

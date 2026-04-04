@@ -19,16 +19,6 @@
 范围：6米（20英尺）锥形
 目标：锥形范围内所有非盟友生物
 
-## 技术细节
-
-UID
-
-`Zone_TrumpetOfSparkles_Hollyphant`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[瓦莱里亚](Valeria.md "瓦莱里亚")

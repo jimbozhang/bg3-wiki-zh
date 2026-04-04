@@ -16,16 +16,6 @@
 范围：30米（100英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Fly_Dragon_Skeletal_EnterFlightState`
-
-法术标志
-
-`[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：囤积能量
 
 **[囤积能量](Hoarding_Energy_(Condition).md "囤积能量 (状态)")**

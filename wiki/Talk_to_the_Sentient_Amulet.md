@@ -6,16 +6,6 @@
 
 与感知护符内残留的意识交谈。
 
-## 技术细节
-
-UID
-
-`Shout_UND_MonkAmulet_TalkToAmulet`
-
-法术标志
-
-`[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由物品授予：

@@ -11,16 +11,6 @@
 消耗
 [附赠动作](Actions.md#Resources "动作")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Dismiss_CircuitryInterface`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 由法术授予：

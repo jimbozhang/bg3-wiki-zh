@@ -17,16 +17,6 @@
 
 在10级时，拥有[精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")，攻击掷骰加值提升至1d10。
 
-## 技术细节
-
-UID
-
-`Shout_PrecisionAttack`
-
-法术标志
-
-`[Invisible](Invisible_(spell_flag\>).md)`, `[Stealth](Stealth_(spell_flag\>).md)`
-
 ## 状态：精准攻击
 
 **[精准攻击](Precision_Attack_(Condition).md "精准攻击 (状态)")**

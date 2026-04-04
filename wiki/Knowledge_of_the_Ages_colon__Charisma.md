@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_KnowledgeOfTheAges_Charisma`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：岁月知识：魅力
 
 **[岁月知识：魅力](Knowledge_of_the_Ages_colon__Charisma_(Condition).md "岁月知识：魅力（状态）")**

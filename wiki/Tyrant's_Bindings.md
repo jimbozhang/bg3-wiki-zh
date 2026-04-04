@@ -25,16 +25,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_WYR_ChainsOfTyranny_Gortash`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：暴君锁链
 
 **[暴君锁链](Chain_of_Tyranny_(Condition).md "暴君锁链 (状态)")**

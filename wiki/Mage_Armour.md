@@ -21,16 +21,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_MageArmor`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：魔法护甲
 
 **[魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")**

@@ -25,16 +25,6 @@
 范围：29 米（97 英尺）
 范围效果：2 米（7 英尺）半径
 
-## 技术细节
-
-UID
-
-`Throw_GOB_Ogre_Throw`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[InventorySelection](https://bg3.wiki/w/index.php?title=InventorySelection_\(spell_flag\)&action=edit&redlink=1) "InventorySelection \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 如何学习
 
 被以下生物使用：[食人魔蛮兵](Ogre_Brute.md "食人魔蛮兵")

@@ -23,16 +23,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_UND_Nere_ShieldOfScreams`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：呓语护盾
 
 **[呓语护盾](Shield_of_Screams_(Condition).md "呓语护盾 (状态)")**

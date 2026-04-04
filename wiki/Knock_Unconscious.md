@@ -23,16 +23,6 @@
 近战：1.5 米（5 英尺）
 目标：仅限[伊索贝尔](Isobel.md "伊索贝尔")
 
-## 技术细节
-
-UID
-
-`Target_HAV_TakingIsobel_KidnapperKO`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒地
 
 **[倒地](Knocked_Out_(Condition).md "倒地（状态）")**

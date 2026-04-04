@@ -14,16 +14,6 @@
 范围：24米（80英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_MOO_Ketheric_CommandTroops`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：死亡指令
 
 **[死亡指令](Deadly_Orders_(Condition).md "死亡指令 (状态)")**

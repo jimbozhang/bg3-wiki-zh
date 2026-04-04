@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_ProduceFlame_Dismiss`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 通过法术获得：

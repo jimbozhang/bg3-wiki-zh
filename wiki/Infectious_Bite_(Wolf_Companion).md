@@ -20,16 +20,6 @@
 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_InfectiousBite_Wolf`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：败血症
 
 **[败血症](Septic_(Condition).md "败血症 (状态)")**

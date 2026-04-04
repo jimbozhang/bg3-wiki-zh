@@ -20,16 +20,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Slow`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：减速
 
 **[减速](Slowed_(Condition).md "减速 (状态)")**

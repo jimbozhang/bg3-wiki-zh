@@ -30,16 +30,6 @@
 
 在 10 等级并拥有 [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技") 时，伤害加值从 1d8 提升至 1d10。
 
-## 技术细节
-
-UID
-
-`Target_DisarmingAttack`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：武器掉落
 
 **[武器掉落！](Weapon_Dropped!_(Condition).md "武器掉落！ (状态)")**

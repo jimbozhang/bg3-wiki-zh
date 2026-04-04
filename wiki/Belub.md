@@ -1,96 +1,18 @@
 # 贝卢布
 
-## 侍僧贝卢布
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/)
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "至上真神教")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[矮人](Dwarf.md "矮人")
-
-### 亚种
-
-[灰矮人](Duergar.md "灰矮人")
-
-### 原型
-
-[至上真神侍僧](Acolyte_of_the_Absolute.md "至上真神侍僧")
-
-### 职业
-
-[牧师](Cleric.md "牧师")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-27
-
-### 护甲等级
-
-11
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 11 / (0) | 10 / (0) | 12 / (+1) | 8 / (-1) | 14 / (+2) | 9 / (-1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [矮人](Dwarf.md "矮人") |
+| 等级 | 4 |
+| 生命值 | 27 |
+| 护甲等级 | 11 |
+| 先攻 | 0 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 110 |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -118,47 +40,31 @@
 
 可在黑暗中看到 24 米 / 80 英尺。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "抗性")
 
-### 等级
+- ## 额外资源
 
-4
+- - - ## 特性
 
-### 生命值
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
-18
+对[幻术学派](Illusion.md "幻术学派")和[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-### 护甲等级
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-11
+对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-### 先攻
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-0
+攻击离开攻击范围的敌人。
 
-### 熟练项
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-+4
+在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
 
-### 移动
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | +1 | -1 | +4 | +1 |
+可在黑暗中看到 24 米 / 80 英尺。
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -186,89 +92,7 @@
 
 可在黑暗中看到 24 米 / 80 英尺。
 
-## 硬核难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-35
-
-### 护甲等级
-
-11
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 运动 | 体操 | 察觉 |
-| --- | --- | --- | --- |
-|  | 0 | 0 | 2 |
-
-## 抗性 [(info)](Resistances.md "抗性")
-
-- ## 额外资源
-
-- - - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-## 技术信息
-
-###
-
-UID
-
-`S_MOO_BazEntranceGuard_001` ###
-
-UUID
-
-`8fdd2eba-9e1e-48b6-a201-787616541dd9` ###
-
-属性
-
-`MOO_AcolyteOfTheAbsolute_Duergar` **侍僧贝卢布**在[第二幕](Act_Two.md "第二幕")的[月出之塔](Moonrise_Towers.md "月出之塔")看守一群新的[至上真神信徒](Absolute.md "至上真神信徒")。
+**侍僧贝卢布**在[第二幕](Act_Two.md "第二幕")的[月出之塔](Moonrise_Towers.md "月出之塔")看守一群新的[至上真神信徒](Absolute.md "至上真神信徒")。
 
 > “
 >

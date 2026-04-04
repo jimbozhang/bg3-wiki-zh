@@ -6,12 +6,6 @@
 
 在战斗外完全恢复[生命值](Hit_Points.md "生命值")和法术位。
 
-## 技术细节
-
-UID
-
-`Shout_RegainHP_Peace_NPC`
-
 ## 备注
 
 - 此能力的使用不会记录在战斗日志中。

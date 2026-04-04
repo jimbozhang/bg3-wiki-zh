@@ -23,26 +23,6 @@
 推开：3米（10英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_Berserk_FleshGolem`
-
-由反应触发的主动能力
-
-`Interrupt_Berserk_FleshGolem`
-
-在40%生命值时触发的反应
-
-`SHA_FleshGolem_Berserk`
-
-授予该反应的被动特性
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 授予
 
 - [多重攻击（肉肉）](Multiattack_(Flesh).md "多重攻击（肉肉）")

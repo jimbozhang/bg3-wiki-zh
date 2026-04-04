@@ -23,16 +23,6 @@
 - 等级6时，伤害提升至1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")。
 - 等级10时，伤害提升至1d8⁠⁠[黯蚀](Necrotic.md "黯蚀")。
 
-## 技术细节
-
-UID
-
-`Target_HaloOfSpores`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

@@ -27,16 +27,6 @@
 
 在9级时，若拥有[精通元素施法](Improved_Elemental_Casting.md "精通元素施法")，则获得一道额外的射线，造成2d6⁠[火焰](Fire.md "火焰")伤害。
 
-## 技术细节
-
-UID
-
-`Projectile_ScorchingRay_Monk`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 赠予
 
 - [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")

@@ -16,12 +16,6 @@
 
 在11级时，[强力蜂群](Mighty_Swarm.md "强力蜂群")会将此能力升级为[云水母：强力电刺](Cloud_of_Jellyfish_colon__Mighty_Shocking_Sting.md "云水母：强力电刺")，该能力会额外[缴械](Disarmed_(Condition).md "缴械（状态）")目标。
 
-## 技术细节
-
-UID
-
-`Interrupt_GatheredSwarm_Jellyfish_Shock`
-
 ## 状态：感电
 
 **[感电](Shocked_(Condition).md "感电（状态）")**

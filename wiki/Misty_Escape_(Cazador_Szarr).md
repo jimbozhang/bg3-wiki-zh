@@ -21,16 +21,6 @@
 充能：每回合
 持续时间：1回合
 
-## 技术细节
-
-UID
-
-`Shout_LOW_MistyEscape_Vampire_Cazador`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：雾形态
 
 **[雾形态](Mist_Form_(Condition).md "雾形态 (状态)")**

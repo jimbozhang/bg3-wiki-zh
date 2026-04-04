@@ -18,12 +18,6 @@
 范围：自身
 持续时间：10 驱散
 
-## 技术细节
-
-UID
-
-`Shout_ElementalCleaver_Cold`
-
 ## 状态：元素切肉刀：寒冷
 
 **[元素切肉刀：寒冷](Elemental_Cleaver_colon__Cold_(Condition).md "元素切肉刀：寒冷（状态）")**

@@ -20,16 +20,6 @@
 范围效果：4米（13英尺）半径
 目标：半径内所有其他生物
 
-## 技术细节
-
-UID
-
-`Shout_Whirlwind_Elemental_Air`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`
-
 ## 状态：感电
 
 **[感电](Shocked_(Condition).md "感电（状态）")**

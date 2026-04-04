@@ -19,16 +19,6 @@
 [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_Bite_Wolf_Summon`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "Prone (Condition)")**

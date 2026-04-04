@@ -17,16 +17,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_ConjureElementals_Minor_IceMephit`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：冰魔蝠
 
 | [力量](Strength.md "力量") 7 (-2) | [敏捷](Dexterity.md "敏捷") 13 (+1) | [体质](Constitution.md "体质") 12 (+1) | [智力](Intelligence.md "智力") 9 (-1) | [感知](Wisdom.md "感知") 11 | [魅力](Charisma.md "魅力") 12 (+1) |

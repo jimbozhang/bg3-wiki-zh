@@ -29,16 +29,6 @@
 - 等级8时：+1d6⁠[钝击](Bludgeoning.md "钝击")
 - 等级12时：+1d8⁠[钝击](Bludgeoning.md "钝击")
 
-## 技术细节
-
-UID
-
-`Shout_Owlbear_Wildshape_Smash`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[荒野形态：枭熊](Wild_Shape_colon__Owlbear.md "荒野形态：枭熊")

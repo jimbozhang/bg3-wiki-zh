@@ -19,16 +19,6 @@
 近战：1.5米（5英尺）
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_HypnoticGaze`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 赋予
 
 - [维持催眠凝视](Maintain_Hypnotic_Gaze.md "维持催眠凝视")

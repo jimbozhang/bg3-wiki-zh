@@ -30,12 +30,6 @@
 - 在德鲁伊10级时，以[荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon.md "荒野形态：水元素执政官")形态，此能力额外+1d6⁠⁠[治疗](Healing.md "治疗")治疗或+1d6⁠⁠[中毒](Poison.md "中毒")伤害。
 - 在德鲁伊12级时，此额外伤害或治疗增加至1d8。
 
-## 技术细节
-
-UID
-
-`Shout_HealingMist_Myrmidon_Water`
-
 ## 区域：水
 
 **[水](Water_(surface).md "水（地表）")**

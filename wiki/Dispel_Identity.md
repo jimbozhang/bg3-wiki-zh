@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-唯一标识符
-
-`Shout_InfiltrationExpertise_Cancel`
-
-法术标志
-
-`[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 通过法术获得：

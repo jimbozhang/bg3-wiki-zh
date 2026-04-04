@@ -19,16 +19,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当以2级或更高法术位施放该法术时，你可创造水的区域会比1级法术位时每高1环增加2米（7英尺）。
 
-## 技术细节
-
-UID
-
-`Target_CreateWater`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：濡湿
 
 **[濡湿](Wet_(Condition).md "濡湿 (状态)")**

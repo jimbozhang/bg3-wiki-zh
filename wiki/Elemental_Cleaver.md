@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_ElementalCleaver`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag\>).md)`
-
 ## 变体
 
 - [元素劈砍（强酸）](Elemental_Cleaver_(acid).md "元素劈砍（强酸）")

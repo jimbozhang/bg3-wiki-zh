@@ -1,125 +1,19 @@
 # 努巴尔丁
 
-## 努巴尔丁
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Graham Hoadly](https://www.imdb.com/name/nm0387422/) |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [侏儒](Gnome.md "Gnome") |
+| 等级 | 12 |
+| 生命值 | 26 |
+| 护甲等级 | 12 |
+| 先攻 | +2 |
+| 经验值 | 400 |
 
-- 游戏内
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Graham Hoadly](https://www.imdb.com/name/nm0387422/)
-
-### 家乡
-
-[希望之邸](House_of_Hope.md "House of Hope"), [九层地狱](Nine_Hells.md "Nine Hells")
-
-### 职业
-
-监工
-
-## 属性
-
-### 体型
-
-[小型](Small.md "Small")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[侏儒](Gnome.md "Gnome")
-
-### 亚种
-
-[岩侏儒](Rock_Gnome.md "Rock gnome")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-26
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 14 / (+2) | 15 / (+2) | 15 / (+2) | 12 / (+1) | 13 / (+1) | 13 / (+1) |
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-
-你在智力、感知和魅力的[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
-
-- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
-
-主手武器攻击后可进行两次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [小步奔行](Shortened_Stride.md "小步奔行")
-
-你的移动速度为 7.5 米 (25 英尺)。
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_HouseOfHope_Nubaldin` ###
-
-UUID
-
-`046f67d9-d477-42d5-8b70-fd0a7911caf4` ###
-
-属性
-
-`Gnome_Melee` **努巴尔丁**是受雇于[拉斐尔](Raphael.md "Raphael")的[岩侏儒](Rock_Gnome.md "Rock Gnome")，担任[希望之邸](House_of_Hope.md "House of Hope")出口大厅的看守。他自视甚高且易怒，怀念曾负责希望之邸监狱的日子，那时他犯了一个错误并被调离。
+**努巴尔丁**是受雇于[拉斐尔](Raphael.md "Raphael")的[岩侏儒](Rock_Gnome.md "Rock Gnome")，担任[希望之邸](House_of_Hope.md "House of Hope")出口大厅的看守。他自视甚高且易怒，怀念曾负责希望之邸监狱的日子，那时他犯了一个错误并被调离。
 
 > “
 >

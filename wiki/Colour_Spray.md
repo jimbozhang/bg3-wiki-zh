@@ -18,16 +18,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高环位施放此法术时，每比1环高1环，生命值总和增加11点。
 
-## 技术细节
-
-UID
-
-`Zone_ColorSpray`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：七彩喷射
 
 **[七彩喷射](Colour_Spray_(Condition).md "七彩喷射（状态）")**

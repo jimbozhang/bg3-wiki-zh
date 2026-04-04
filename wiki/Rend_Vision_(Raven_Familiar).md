@@ -20,16 +20,6 @@
 近战 徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战: 1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_RendVision_RavenFamiliar_Summon`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态: 目盲
 
 **[目盲](Blinded_(Condition).md "目盲 (状态)")**

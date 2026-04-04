@@ -27,16 +27,6 @@
 - 在8级时，此额外伤害变为1d6[钝击](Bludgeoning.md "钝击")。
 - 在12级时，此额外伤害变为1d8[钝击](Bludgeoning.md "钝击")。
 
-## 技术细节
-
-UID
-
-`Projectile_Jump_Owlbear_Wildshape_Lunge`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(页面不存在\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell flag\) \(页面不存在\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(页面不存在\)")`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

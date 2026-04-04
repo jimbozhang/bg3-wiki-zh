@@ -22,16 +22,6 @@
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
 范围：2 米（7 英尺）
 
-## 技术细节
-
-UID
-
-`Target_HAG_MaskOfVengeance`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由特性提供：

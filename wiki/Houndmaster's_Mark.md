@@ -13,16 +13,6 @@
 详情
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_LOW_Houndmaster_HoundmastersMark`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：训犬师的猎物
 
 **[训犬师的猎物](Houndmaster's_Prey_(Condition).md "训犬师的猎物（状态）")**

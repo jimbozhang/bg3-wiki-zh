@@ -1,147 +1,17 @@
 # Jara
 
-## Fist Jara
-
-- In-game
-- Model
-- Transforming
-- Portrait
-
-### Voice / Actor
-
-- [Liane-Rose Bunce](https://www.imdb.com/name/nm3332140/)
-
-### Faction
-
-[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## Stats
-
-### Size
-
-[中级](Medium.md "Medium")
-
-### Type
-
-[类人生物](Humanoid.md "Humanoid")
-
-### Race
-
-[人类](Human.md "Human")
-
-### Archetype
-
-[焰拳法师](Flaming_Fist_Wizard.md "Flaming Fist Wizard")
-
-### Class
-
-[法师](Wizard.md "Wizard")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## Balanced Difficulty Stats
-
-### Level
-
-10
-
-### HP
-
-43
-
-### AC
-
-11
-
-### Initiative
-
-+1
-
-### Proficiency
-
-+4
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-75 kg (150 lb)
-
-### Darkvision
-
-0 m (0 ft)
-
-### XP reward
-
-250
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 8 / (-1) | 13 / (+1) | 16 / (+3) | 20 / (+5) | 10 / (0) | 12 / (+1) |
-
-## Additional Resources
-
-- - - - - ## Features
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击一个正在离开攻击范围的敌人。
-
-## Explorer Difficulty Stats
-
-### Level
-
-10
-
-### HP
-
-40
-
-### AC
-
-11
-
-### Initiative
-
-+1
-
-### Proficiency
-
-+6
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-75 kg (150 lb)
-
-### Darkvision
-
-0 m (0 ft)
-
-### XP reward
-
-250
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | -1 | +1 | +3 | +5 | 0 | +1 |
-
-## Additional Resources
-
-- - - - - ## Features
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击一个正在离开攻击范围的敌人。
+| | |
+| --- | --- |
+| 配音 | - [Liane-Rose Bunce](https://www.imdb.com/name/nm3332140/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 10 |
+| 生命值 | 43 |
+| 护甲等级 | 11 |
+| 先攻 | +1 |
+| 移动速度 | 9 m (30 ft) |
+| 经验值 | 250 |
 
 ## Tactician Difficulty Stats
 
@@ -184,38 +54,6 @@
 | Ability scores | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 8 / (-1) | 13 / (+1) | 16 / (+3) | 20 / (+5) | 10 / (0) | 12 / (+1) |
-
-## Additional Resources
-
-- - - - - ## Features
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击一个正在离开攻击范围的敌人。
-
-## Technical
-
-###
-
-UID
-
-`S_WYR_SharessCaress_NymphRoom_FlamingFist` ###
-
-UUID
-
-`b5cb7f36-6ab8-48fb-9ddb-0bcb67807e44` ###
-
-Stats
-
-`FlamingFist_Human_Caster` **Fist Jara** 是 [夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress") 的 [人类](Human.md "Human") [焰拳](Flaming_Fist.md "Flaming Fist") 顾客，位于 [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")。她体内有蝌蚪，并会在遭遇队伍时转变为 [夺心魔](Mind_flayer.md "Mind flayer")。
-
-> “
->
-> 告诉我。我美吗？
->
-> „
-
-— Jara
 
 ## Involvement
 

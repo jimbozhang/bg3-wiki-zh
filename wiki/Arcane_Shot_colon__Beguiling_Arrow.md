@@ -23,16 +23,6 @@
 [感知](Wisdom.md "感知")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：普通武器射程
 
-## 技术细节
-
-UID
-
-`Projectile_ArcaneShot_BeguilingArrow`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：魅惑
 
 **[魅惑](Charmed_(Condition).md "魅惑（状态）")**

@@ -15,16 +15,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_Shillelagh_Dryad`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：橡棍术（强化）
 
 **\_(状态)[橡棍术](Shillelagh_(Strengthened)_(Condition).md "橡棍术（强化）（状态）")**

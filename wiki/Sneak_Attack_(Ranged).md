@@ -34,16 +34,6 @@
 - 9 级时：5d6⁠⁠[武器](Weapon.md "武器")
 - 11 级时：6d6⁠⁠[武器](Weapon.md "武器")
 
-## 技术细节
-
-UID
-
-`Projectile_SneakAttack`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell_flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell_flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 职业：

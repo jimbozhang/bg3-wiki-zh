@@ -22,16 +22,6 @@
 
 以此法术升环施法不会获得额外效果。
 
-## 技术细节
-
-UID
-
-`Target_MindSpike_MindMaster`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：心灵冲击
 
 **[心灵冲击](Mindstruck_(Condition).md "心灵冲击 (状态)")**

@@ -17,12 +17,6 @@
 详情
 范围：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_TAD_PsionicBacklash`
-
 ## 如何习得
 
 其他习得方式：

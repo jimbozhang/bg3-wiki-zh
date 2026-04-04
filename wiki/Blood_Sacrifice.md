@@ -14,16 +14,6 @@
 范围：自身
 创造区域：血
 
-## 技术细节
-
-UID
-
-`Shout_GOB_PainPriest_DaggerSpell`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 状态：痛苦女神的祝福
 
 **[痛苦女神的祝福](The_Pain_Maiden's_Blessing_(Condition).md "痛苦女神的祝福 (状态)")**

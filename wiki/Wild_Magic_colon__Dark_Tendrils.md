@@ -15,12 +15,6 @@
 范围：自身
 范围效果：9米（30英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_WildMagicBarbarian_ShadowyTendrils`
-
 ## 状态：狂野魔法：暗影触须
 
 **[狂野魔法：暗影触须](Wild_Magic_colon__Dark_Tendrils_(Condition).md "狂野魔法：暗影触须（状态）")**

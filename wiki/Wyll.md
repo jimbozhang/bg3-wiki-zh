@@ -1,174 +1,19 @@
 # 威尔
 
-## 威尔
-
-边境之刃
-阿弗纳斯之刃
-
-- 封面插图
-- 肖像画
-
-### 全名
-
-威尔·雷文伽德
-
-### 性别
-
-男性
-
-### 配音 / 演员
-
-- [西奥·所罗门](https://www.imdb.com/name/nm5156273/)
-
-### 主要编剧
-
-凯文·范奥德
-
-### 角色
-
-[出身角色](Origin_characters.md "出身角色")
-[伙伴](Companion.md "伙伴")
-
-### 家庭
-
-[乌尔德·雷文伽德](Ulder_Ravengard.md "乌尔德·雷文伽德") (父亲)
-弗朗西斯卡·雷文伽德 (母亲，已故)
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类")
-
-### 职业
-
-[邪术师](Warlock.md "邪术师")
-
-### 副职
-
-[邪魔](The_Fiend.md "邪魔") ([米佐拉](Mizora.md "米佐拉"))
-
-### 背景
-
-[平民英雄](Folk_Hero.md "平民英雄")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-10
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 8 / (-1) | 13 / (+1) | 14 / (+2) | 13 / (+1) | 10 / (0) | 17 / (+3) |
-
-## 额外资源
+| | |
+| --- | --- |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
+| 等级 | 1 |
+| 生命值 | 10 |
+| 护甲等级 | 12 |
+| 先攻 | +1 |
+| 移动速度 | 9 米 (30 英尺) |
 
 - **表达式错误：意外的 > 运算符。**[1级邪术师法术位.png](https://bg3.wiki/w/index.php?title=Special:Upload&wpDestFile=Level_1_Warlock_Spell_Slots.png "文件:1级邪术师法术位.png")**表达式错误：意外的 > 运算符。**
 
-## 特性
-
-- [民兵](Civil_Militia.md "民兵")
-
-[熟练项](Proficiency.md "熟练项")于[短矛](Spears.md "短矛")、[长矛](Pikes.md "长矛")、[长戟](Halberds.md "长戟")、[长柄刀](Glaives.md "长柄刀")、[轻甲](Light_Armour.md "轻甲")和[盾牌](Shields.md "盾牌")。
-
-- [人类通才](Human_Versatility.md "人类通才")
-
-[熟练项](Proficiency.md "熟练项")于一项额外的[技能](Skill.md "技能")，且[负重](Carrying_capacity.md "负重")增加四分之一。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**边境之刃**](The_Blade_of_Frontiers_(passive_feature).md "边境之刃 (被动特性)")
-
-[熟练项](Proficiency.md "熟练项")于[刺剑](Rapiers.md "刺剑")。
-
-## 技术信息
-
-###
-
-UID
-
-`S_Player_Wyll` ###
-
-UUID
-
-`c774d764-4a17-48dc-b470-32ace9ce447d` ###
-
-属性
-
-`POC_Player_Warlock` ## 变体 1
-
-###
-
-UID
-
-`ORIGIN_Wyll` ###
-
-UUID
-
-`159cdf9e-6665-4450-9375-8494e233b0e4` ###
-
-属性
-
-`POC_Player_Warlock` ## 变体 2
-
-###
-
-UID
-
-`ORIGIN_Wyll_Devil` ###
-
-UUID
-
-`7ea87604-e604-4a6d-a7ac-b7b2f293c000` ###
-
-属性
-
-`POC_Player_Warlock` **威尔·雷文伽德**是一位[出身角色](Origin_characters.md "出身角色")，也是一位可招募的[伙伴](Companion.md "伙伴")<sup>[\[1\]](#cite_note-1)</sup>，可被任何性别的角色[追求](Romance.md "追求")。他是一名[人类](Human.md "人类")和[邪魔](The_Fiend.md "邪魔")[邪术师](Warlock.md "邪术师")，拥有[平民英雄](Folk_Hero.md "平民英雄")背景。威尔可以在[第一幕](Act_One.md "第一幕")期间在[翠绿林地](Emerald_Grove.md "翠绿林地")首次找到（或者如果在招募他之前招募了[卡菈克](Karlach.md "卡菈克")，则在[营地](Campsite.md "营地")）。
+**威尔·雷文伽德**是一位[出身角色](Origin_characters.md "出身角色")，也是一位可招募的[伙伴](Companion.md "伙伴")<sup>[\[1\]](#cite_note-1)</sup>，可被任何性别的角色[追求](Romance.md "追求")。他是一名[人类](Human.md "人类")和[邪魔](The_Fiend.md "邪魔")[邪术师](Warlock.md "邪术师")，拥有[平民英雄](Folk_Hero.md "平民英雄")背景。威尔可以在[第一幕](Act_One.md "第一幕")期间在[翠绿林地](Emerald_Grove.md "翠绿林地")首次找到（或者如果在招募他之前招募了[卡菈克](Karlach.md "卡菈克")，则在[营地](Campsite.md "营地")）。
 
 在[博德之门](Baldur's_Gate.md "博德之门")的边境地区，威尔被称为“边境之刃”，他是一位英勇的英雄，无论怪物藏身何处，他都会与之战斗并追猎不公。尽管永远受制于他的地狱庇护者[米佐拉](Mizora.md "米佐拉")，他仍将毕生奉献于保护他所热爱的城市。
 

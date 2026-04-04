@@ -33,16 +33,6 @@
 
 \+ 4d4 + [力量调整值](Strength.md#Strength_modifier_chart "力量")⁠[钝击](Bludgeoning.md "钝击")
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Elemental_Earth`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[土元素](Earth_Elemental.md "土元素")

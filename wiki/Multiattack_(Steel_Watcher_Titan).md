@@ -24,16 +24,6 @@
 目标：处于[倒伏](Prone_(status_group).md)、[束缚](Restrained_(status_group).md)或[跛足](Maimed_(Condition)状态的生物.md)
 必须[熟练](Proficiency.md#Weapon_proficiency "熟练项")使用该武器
 
-## 技术细节
-
-UID
-
-`Target_SteelWatcher_Greatsword_Quadruped_Multiattack`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏 (状态)")**

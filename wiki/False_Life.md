@@ -19,16 +19,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：以更高的法术位施放此法术时，每比1环高1环，额外获得5点[临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")。
 
-## 技术细节
-
-UID
-
-`Shout_FalseLife`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：虚假生命
 
 **[虚假生命](False_Life_(Condition).md "False Life (Condition)")**

@@ -11,12 +11,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_MagicAllergy_GremishkaSpawn`
-
 ## 生物：小法妖
 
 | [力量](Strength.md "力量") 8 (-1) | [敏捷](Dexterity.md "敏捷") 16 (+3) | [体质](Constitution.md "体质") 10 | [智力](Intelligence.md "智力") 12 (+1) | [感知](Wisdom.md "感知") 11 | [魅力](Charisma.md "魅力") 4 (-3) |

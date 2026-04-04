@@ -17,16 +17,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_PlanarAlly_Djinni`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：气巨灵
 
 | [力量](Strength.md "Strength") 21 (+5) | [敏捷](Dexterity.md "Dexterity") 15 (+2) | [体质](Constitution.md "Constitution") 22 (+6) | [智力](Intelligence.md "Intelligence") 15 (+2) | [感知](Wisdom.md "Wisdom") 16 (+3) | [魅力](Charisma.md "Charisma") 20 (+5) |

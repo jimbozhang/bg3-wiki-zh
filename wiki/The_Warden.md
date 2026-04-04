@@ -1,96 +1,17 @@
 # 典狱长
 
-## 典狱长
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Hara Yannas](https://www.imdb.com/name/nm3925968/)
-
-### 阵营
-
-[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")
-
-### 职业
-
-[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")典狱长
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[提夫林](Tiefling.md "提夫林")
-
-### 亚种
-
-[阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "阿斯蒙蒂斯提夫林")
-
-### 职业
-
-[游侠](Ranger.md "游侠")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-96
-
-### 护甲等级
-
-17
-
-### 先攻
-
-+4
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 14 / (+2) | 18 / (+4) | 15 / (+2) | 9 / (-1) | 16 / (+3) | 14 / (+2) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Hara Yannas](https://www.imdb.com/name/nm3925968/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [提夫林](Tiefling.md "提夫林") |
+| 等级 | 9 |
+| 生命值 | 96 |
+| 护甲等级 | 17 |
+| 先攻 | +4 |
+| 经验值 | 200 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -114,7 +35,7 @@
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
-- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
@@ -122,55 +43,13 @@
 
 你的移动速度增加 3 米。
 
-- [**灵活移动：回避劣势地形**](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：回避劣势地形")
+- [灵活移动：回避劣势地形](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：回避劣势地形")
 
 当你[疾走](Dash.md "疾走")时，[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不会使你减速。
 
-- [**灵活移动：躲避借机攻击**](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：躲避借机攻击")
+- [灵活移动：躲避借机攻击](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：躲避借机攻击")
 
 如果你在近战攻击后移动，你不会引发目标的[借机攻击](Opportunity_Attack.md "借机攻击")。
-
-## 探索者难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-67
-
-### 护甲等级
-
-17
-
-### 先攻
-
-+4
-
-### 熟练项
-
-+6
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +6 | +8 | +2 | -1 | +3 | +2 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -194,7 +73,7 @@
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
-- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
@@ -202,55 +81,13 @@
 
 你的移动速度增加 3 米。
 
-- [**灵活移动：回避劣势地形**](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：回避劣势地形")
+- [灵活移动：回避劣势地形](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：回避劣势地形")
 
 当你[疾走](Dash.md "疾走")时，[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不会使你减速。
 
-- [**灵活移动：躲避借机攻击**](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：躲避借机攻击")
+- [灵活移动：躲避借机攻击](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：躲避借机攻击")
 
 如果你在近战攻击后移动，你不会引发目标的[借机攻击](Opportunity_Attack.md "借机攻击")。
-
-## 硬核难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-124
-
-### 护甲等级
-
-17
-
-### 先攻
-
-+4
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 14 / (+2) | 18 / (+4) | 15 / (+2) | 9 / (-1) | 16 / (+3) | 14 / (+2) |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -282,7 +119,7 @@
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
-- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
@@ -290,29 +127,15 @@
 
 你的移动速度增加 3 米。
 
-- [**灵活移动：回避劣势地形**](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：回避劣势地形")
+- [灵活移动：回避劣势地形](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：回避劣势地形")
 
 当你[疾走](Dash.md "疾走")时，[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不会使你减速。
 
-- [**灵活移动：躲避借机攻击**](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：躲避借机攻击")
+- [灵活移动：躲避借机攻击](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：躲避借机攻击")
 
 如果你在近战攻击后移动，你不会引发目标的[借机攻击](Opportunity_Attack.md "借机攻击")。
 
-## 技术细节
-
-###
-
-UID
-
-`S_MOO_PrisonWarden` ###
-
-UUID
-
-`66b3e4c0-2f82-4c0a-9333-73a5194f88c7` ###
-
-Stats
-
-`MOO_PrisonWarden` **典狱长**在[月出之塔](Moonrise_Towers.md "月出之塔")期间出现，她在那里担任[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")的典狱长。
+**典狱长**在[月出之塔](Moonrise_Towers.md "月出之塔")期间出现，她在那里担任[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")的典狱长。
 
 > “
 >

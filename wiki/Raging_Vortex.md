@@ -19,16 +19,6 @@
 创造区域：狂暴漩涡
 持续时间：10回合
 
-## 技术细节
-
-UID
-
-`Target_RagingVortex_Myrmidon_Air`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "荒野形态（法术标志）（页面不存在）")`
-
 ## 区域：狂暴漩涡
 
 **[狂暴漩涡](Raging_Vortex_(area).md "狂暴漩涡（区域）")**

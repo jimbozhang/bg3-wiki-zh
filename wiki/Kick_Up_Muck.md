@@ -15,16 +15,6 @@
 范围区域：9米（30英尺）锥形
 创造区域：泥巴
 
-## 技术细节
-
-UID
-
-`Zone_Kickup_Boar`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：浑身泥泞
 
 **[浑身泥泞](Mud-Drenched_(Condition).md "浑身泥泞 (状态)")**

@@ -24,22 +24,6 @@
 范围：2米（7英尺）半径
 创造区域：冰
 
-## 技术细节
-
-UID
-
-`Projectile_ExplosiveIcicle_Myrmidon_Water`
-
-NPC和召唤元素执政官使用的版本
-
-`Projectile_ExplosiveIcicle_Wildshape_Myrmidon_Water`
-
-荒野形态中使用的版本，造成魔法伤害
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell_flag\) \(页面不存在\)")`
-
 ## 区域：冰
 
 **[冰](Ice_(surface).md "冰（地表）")**

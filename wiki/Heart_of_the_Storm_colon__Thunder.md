@@ -16,16 +16,6 @@
 范围效果：6 米（20 英尺）半径
 目标：半径内的所有敌人
 
-## 技术细节
-
-UID
-
-`Projectile_HeartOfTheStorm_Thunder`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 此法术是以下法术的变体：

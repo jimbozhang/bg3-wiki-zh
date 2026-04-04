@@ -17,16 +17,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_PlanarAlly_Container`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [异界誓盟：气巨灵](Planar_Ally_colon__Djinni.md "Planar Ally: Djinni")

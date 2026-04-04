@@ -14,16 +14,6 @@
 范围：自身
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Shout_HAG_Frog_ReflectiveMucus`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：反射粘液
 
 **[反射粘液](Reflective_Mucus_(Condition).md "反射粘液 (状态)")**

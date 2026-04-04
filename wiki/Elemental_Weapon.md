@@ -18,16 +18,6 @@
 
 - [升环施法](Upcasting.md "升环施法")：使用5级或6级[法术位](Spell_Slot.md "法术位")施放此法术时，[攻击掷骰](Attack_roll.md "攻击掷骰")加值提高1点，并额外造成**1d4**点你选择的伤害。
 
-## 技术细节
-
-UID
-
-`Target_ElementalWeapon`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [元素武器：强酸](Elemental_Weapon_colon__Acid.md "元素武器：强酸")

@@ -19,16 +19,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比1环高1环，影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_Bless`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：祝福术
 
 **[祝福术](Bless_(Condition).md "祝福术（状态）")**

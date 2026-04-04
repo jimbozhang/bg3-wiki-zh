@@ -21,18 +21,6 @@
 范围：12 米（40 英尺）
 范围效果：3 米（10 英尺）半径
 
-## 技术细节
-
-UID
-
-`Target_Burrow_Myrmidon_Earth`
-
-被召唤的执政官使用的版本
-
-`Target_Burrow_Wildshape_Myrmidon_Earth`
-
-荒野形态形态下使用的版本
-
 ## 如何习得
 
 生物使用：[土元素执政官](Earth_Myrmidon.md "土元素执政官") 和 [荒野形态：土元素执政官](Wild_Shape_colon__Earth_Myrmidon.md "荒野形态：土元素执政官")

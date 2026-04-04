@@ -23,7 +23,7 @@ This page is a [modding page](Modding_colon_Modding_resources.md "Modding:Moddin
 
 ## 常见模组教程
 
-## [**创建发型模组**](Modding_colon_Creating_Hair_Mods.md "Modding:Creating Hair Mods") | **[创建头部模组](Modding_colon_Head_Modding.md "Modding:Head Modding")** | [**创建护甲模组**](Modding_colon_Creating_Armor_Mods.md "Modding:Creating Armor Mods") | [**创建种族模组**](Modding_colon_Creating_Race_Mods.md "Modding:Creating Race Mods")bg3.wiki modding
+## [创建发型模组](Modding_colon_Creating_Hair_Mods.md "Modding:Creating Hair Mods") | **[创建头部模组](Modding_colon_Head_Modding.md "Modding:Head Modding")** | [创建护甲模组](Modding_colon_Creating_Armor_Mods.md "Modding:Creating Armor Mods") | [创建种族模组](Modding_colon_Creating_Race_Mods.md "Modding:Creating Race Mods")bg3.wiki modding
 
 模组主页
 

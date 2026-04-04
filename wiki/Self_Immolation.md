@@ -18,12 +18,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Fire_SelfImmolation`
-
 ## 状态：灼热
 
 **[灼热](Heat_(Condition).md "灼热（状态）")**

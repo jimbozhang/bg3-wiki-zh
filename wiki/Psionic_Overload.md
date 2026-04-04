@@ -21,12 +21,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：10回合
 
-## 技术细节
-
-UID
-
-`Shout_TAD_PsionicOverload`
-
 ## 状态：突触能量过载
 
 **[突触能量过载](Overloaded_With_Synaptic_Power_(Condition).md "突触能量过载 (状态)")**

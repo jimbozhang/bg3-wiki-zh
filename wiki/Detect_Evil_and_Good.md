@@ -19,16 +19,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_DetectEvilAndGood`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：侦测善恶
 
 **[侦测善恶](Detect_Evil_and_Good_(Condition).md "侦测善恶 (状态)")**

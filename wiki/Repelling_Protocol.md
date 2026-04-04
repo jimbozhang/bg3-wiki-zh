@@ -20,16 +20,6 @@
 范围效果：10米（33英尺）半径
 推开：8米（27英尺）
 
-## 技术细节
-
-UID
-
-`Shout_SteelWatcher_Quadruped_Repel`
-
-法术标志
-
-`[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell_flag\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏 (状态)")**

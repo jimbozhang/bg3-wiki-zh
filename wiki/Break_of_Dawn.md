@@ -20,16 +20,6 @@
 范围：20米（67英尺）锥形
 推开距离：8米（27英尺）
 
-## 技术细节
-
-UID
-
-`Zone_CRE_PulseTrap_Blast`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏 (状态)")**

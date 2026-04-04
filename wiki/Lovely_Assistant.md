@@ -20,16 +20,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_AnimateDead_Surgeon`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 如何学习
 
 被生物使用：[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")

@@ -23,16 +23,6 @@
 - 在 [角色等级](Character_level.md "Character level") 5时，伤害增加至 2d8⁠⁠[火焰](Fire.md "Fire")。
 - 在角色等级 10时，伤害增加至 3d8⁠⁠[火焰](Fire.md "Fire")。
 
-## 技术细节
-
-UID
-
-`Projectile_ProduceFlame_Hurl`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 通过法术获得：

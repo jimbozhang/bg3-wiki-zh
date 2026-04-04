@@ -13,22 +13,6 @@
 详情
 充能：每轮
 
-## 技术细节
-
-UID
-
-`Interrupt_LOW_BhaalsRetribution_Melee_Sarevok`
-
-`Interrupt_LOW_BhaalsRetribution_Ranged_Sarevok`
-
-传送至远处攻击者的版本
-
-`Interrupt_LOW_BhaalsRetribution_Melee_Orin`
-
-`Interrupt_LOW_BhaalsRetribution_Ranged_Orin`
-
-传送至远处攻击者的版本
-
 ## 学习方式
 
 通过特性获得：

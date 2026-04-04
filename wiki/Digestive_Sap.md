@@ -14,16 +14,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
 范围：5米（17英尺）锥形
 
-## 技术细节
-
-UID
-
-`Zone_DigestiveSap_ShadowMound`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：消化液
 
 **[消化液](Digestive_Juices_(Condition).md "消化液 (状态)")**

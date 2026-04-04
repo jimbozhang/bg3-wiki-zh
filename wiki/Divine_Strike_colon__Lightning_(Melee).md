@@ -23,16 +23,6 @@
 近战：1.5 米（5 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_DivineStrike_Melee_Nature_Lightning`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag\>).md)`, `[IsMelee](IsMelee_(spell_flag\>).md)`
-
 ## 如何习得
 
 此法术是以下法术的变体：

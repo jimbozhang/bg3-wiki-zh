@@ -17,12 +17,6 @@
 消耗
 [反应](Actions.md#Reactions "动作")
 
-## 技术细节
-
-UID
-
-`Interrupt_MAG_MissileSnaring`
-
 ## 如何习得
 
 由物品提供：

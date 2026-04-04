@@ -19,16 +19,6 @@
 详情
 范围：2米（7英尺）半径
 
-## 技术细节
-
-UID
-
-`Projectile_MineExplosion_Orthon`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[DisplayInItemTooltip](https://bg3.wiki/w/index.php?title=DisplayInItemTooltip_\(spell_flag\)&action=edit&redlink=1) "DisplayInItemTooltip \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：燃烧（血甲魔）
 
 **\_(状态)[燃烧](Burning_(Orthonic)_(Condition).md "燃烧 (血甲魔) (状态)")**

@@ -26,16 +26,6 @@
 - 在 8 等级时，此额外伤害变为 1d6⁠⁠[挥砍](Slashing.md "挥砍") 伤害。
 - 在 12 等级时，额外伤害变为 1d8⁠⁠[挥砍](Slashing.md "挥砍") 伤害。
 
-## 技术细节
-
-UID
-
-`Target_Claws_Bear_Brown`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[布斯克](Bosk.md "布斯克")、[洞熊](Cave_Bear.md "洞熊")、[奥姆](Ormn.md "奥姆")、[奥苏](Orsu.md "奥苏") 和 [塔菲特](Tuffet.md "塔菲特")

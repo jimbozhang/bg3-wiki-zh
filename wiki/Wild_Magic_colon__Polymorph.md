@@ -6,12 +6,6 @@
 
 你被变形为野兽。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Polymorph`
-
 ## 状态：变形
 
 **[变形](Polymorphed_(Condition).md "变形（状态）")**

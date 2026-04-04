@@ -14,12 +14,6 @@
 范围：自身
 持续时间：10 驱散
 
-## 技术细节
-
-UID
-
-`Shout_SacredWeapon`
-
 ## 状态：神圣武器
 
 **[神圣武器](Sacred_Weapon_(Condition).md "神圣武器（状态）")**

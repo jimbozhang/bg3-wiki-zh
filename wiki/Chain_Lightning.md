@@ -23,16 +23,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Projectile_ChainLightning`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

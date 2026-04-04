@@ -19,16 +19,6 @@
 近战：1.5 米（5 英尺）
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Target_MAG_TheDueller_BonusAttack`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[Temporary](IsTemporary_(spell_flag).md)`
-
 ## 学习方式
 
 由物品赠予：

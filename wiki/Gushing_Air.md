@@ -20,16 +20,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）（豁免成功时：目标仍承受一半伤害。）
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_AirBlast_Elemental_Air`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由生物使用：[风元素](Air_Elemental.md "风元素")

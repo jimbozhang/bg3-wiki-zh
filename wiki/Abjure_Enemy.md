@@ -16,16 +16,6 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（若豁免成功：目标变为[减速](Abjure_Enemy_colon__Slow_(Condition).md "破胆斥喝：减速（状态）")。）
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_AbjureEnemy`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：破胆斥喝：恐慌
 
 **[破胆斥喝：恐慌](Abjure_Enemy_colon__Frightened_(Condition).md "破胆斥喝：恐慌（状态）")**

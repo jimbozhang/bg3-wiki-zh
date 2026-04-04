@@ -25,16 +25,6 @@
 
 以更高法术等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_Raphael_RepelDivinity_SoulDrain`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 如何学习
 
 由以下生物使用：[拉斐尔](Raphael.md "Raphael")

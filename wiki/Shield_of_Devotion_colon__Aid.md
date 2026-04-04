@@ -22,16 +22,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Aid3_Self`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：支援术
 
 **[支援术](Aid_(Condition).md "Aid (Condition)")**

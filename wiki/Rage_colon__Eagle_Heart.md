@@ -28,12 +28,6 @@
 
 在 9 级时，狂暴提供的攻击额外伤害增加至 **+3**。
 
-## 技术细节
-
-UID
-
-`Shout_Rage_Totem_Eagle`
-
 ## 赋予
 
 - [俯冲突袭](Diving_Strike.md "俯冲突袭")

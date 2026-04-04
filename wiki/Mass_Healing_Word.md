@@ -24,16 +24,6 @@
 
 当使用4级或更高法术位施放此法术时，目标每比3环高一级，就额外恢复1d4⁠⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-唯一标识符
-
-`Shout_HealingWord_Mass`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

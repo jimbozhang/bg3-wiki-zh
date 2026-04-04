@@ -1,209 +1,27 @@
 # 达塔尔
 
-## 达塔尔
-
-至上真神学徒
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Jodie Steele](https://www.imdb.com/name/nm7632738/)
-
-### 阵营
-
-[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[矮人](Dwarf.md "矮人")
-
-### 亚种
-
-[灰矮人](Duergar.md "灰矮人")
-
-### 职业
-
-[游侠](Ranger.md "游侠")
-
-- 平衡
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-44
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Jodie Steele](https://www.imdb.com/name/nm7632738/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [矮人](Dwarf.md "矮人") |
+| 等级 | 5 |
+| 生命值 | 44 |
+| 护甲等级 | 13 |
+| 先攻 | +2 |
+| 经验值 | 75 |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，[攻击掷骰](Attack_Roll.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-57
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | +5 | +1 | 0 | +1 | +1 |
-
 ## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，[攻击掷骰](Attack_Roll.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-## 技术信息
-
-###
-
-UID
-
-`S_UND_DuergarLoyalGuard_02` ###
-
-UUID
-
-`cc942779-3d2d-4327-9704-c6c385c12c82` ###
-
-属性
-
-`UND_KC_Duergar_Ranger` **达塔尔**是[复仇之炉](Grymforge.md "复仇之炉")的一名灰矮人，位于[第一幕](Act_One.md "第一幕")。
+**达塔尔**是[复仇之炉](Grymforge.md "复仇之炉")的一名灰矮人，位于[第一幕](Act_One.md "第一幕")。
 
 > “
 >

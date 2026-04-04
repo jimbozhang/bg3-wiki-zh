@@ -19,16 +19,6 @@
 范围：5米（17英尺）锥形
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Zone_WYR_Incinerator_Gortash`
-
-法术标志
-
-`[忽略视野阻挡](IgnoreVisionBlock_(spell_flag).md)`，`[立即施放](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "立即施放 \(法术标志\) \(页面不存在\)")`
-
 ## 状态：过热
 
 **[过热](Overheating_(Condition).md "过热 (状态)")**

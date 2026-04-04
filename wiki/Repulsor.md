@@ -21,16 +21,6 @@
 射程：6 米（20 英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_Repulsor`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 其他学习方式：

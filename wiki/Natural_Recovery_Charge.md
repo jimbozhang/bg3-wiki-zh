@@ -24,38 +24,6 @@
 - 在7级时，解锁消耗1个[动作](Actions.md#Resources "动作") + 4点自然恢复充能来补充一个[4级法术位](Spells.md#Spell_slots "法术位")的能力。
 - 在9级时，解锁消耗1个[动作](Actions.md#Resources "动作") + 5点自然恢复充能来补充一个[5级法术位](Spells.md#Spell_slots "法术位")的能力。
 
-## 技术细节
-
-UID
-
-`Shout_NaturalRecovery`
-
-容器能力
-
-`Shout_NaturalRecovery_1`
-
-恢复1级法术位的版本
-
-`Shout_NaturalRecovery_2`
-
-恢复2级法术位的版本
-
-`Shout_NaturalRecovery_3`
-
-恢复3级法术位的版本
-
-`Shout_NaturalRecovery_4`
-
-恢复4级法术位的版本
-
-`Shout_NaturalRecovery_5`
-
-恢复5级法术位的版本
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

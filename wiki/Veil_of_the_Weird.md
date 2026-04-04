@@ -17,16 +17,6 @@
 射程：24米（80英尺）
 目标：5个盟友
 
-## 技术细节
-
-UID
-
-`Target_END_AllyAbility_HagInvisibility`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：高等隐形术
 
 **[高等隐形术](Greater_Invisibility_(Condition).md "高等隐形术（状态）")**

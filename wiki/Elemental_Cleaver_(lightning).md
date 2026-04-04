@@ -18,12 +18,6 @@
 范围：自身
 持续时间：10驱散
 
-## 技术细节
-
-UID
-
-`Shout_ElementalCleaver_Lightning`
-
 ## 状态：元素切肉刀：闪电
 
 **[元素切肉刀：闪电](Elemental_Cleaver_colon__Lightning_(Condition).md "元素切肉刀：闪电（状态）")**

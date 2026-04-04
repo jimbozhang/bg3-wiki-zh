@@ -17,16 +17,6 @@
 
 以更高环级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_ArcaneLock`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell_flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 赋予
 
 - [解除秘法锁](Dismiss_Arcane_Lock.md "Dismiss Arcane Lock")

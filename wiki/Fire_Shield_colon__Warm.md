@@ -21,16 +21,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_FireShield_Warm`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：火焰护盾：温暖
 
 **[火焰护盾：温暖](Fire_Shield_colon__Warm_(Condition).md "火焰护盾：温暖 (状态)")**

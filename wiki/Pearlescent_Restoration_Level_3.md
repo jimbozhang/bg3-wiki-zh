@@ -14,12 +14,6 @@
 范围：自身
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_SpellSlotRestoration_PearlOfPower_3`
-
 ## 学习方式
 
 由物品授予：

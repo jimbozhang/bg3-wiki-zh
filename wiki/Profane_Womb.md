@@ -12,7 +12,7 @@
 
 ## 状态
 
-- [**亵渎子宫-誓缚**](Profane_Womb-Bound_(Condition).md "Profane Womb-Bound (Condition)")
+- [亵渎子宫-誓缚](Profane_Womb-Bound_(Condition).md "Profane Womb-Bound (Condition)")
 
 - [沉默](Silenced_(Condition).md "Silenced (Condition)") 并被亵渎子宫固定在原地。
 

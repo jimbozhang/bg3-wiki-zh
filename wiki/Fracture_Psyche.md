@@ -19,16 +19,6 @@
 射程：9米（30英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_TAD_Imperil`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(页面不存在\)")`, `[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell flag\) \(页面不存在\)")`
-
 ## 授予
 
 - [灵魂破碎](Shatter_Psyche.md "灵魂破碎")

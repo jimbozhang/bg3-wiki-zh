@@ -1,193 +1,45 @@
 # 臃肿的鬣狗
 
-## 臃肿的鬣狗
-
-### 声音 / 演员
-
-- [Clare Corbett](https://www.imdb.com/name/nm1352940/)
-- [Harriet Kershaw](https://www.imdb.com/name/nm8830109/)
-- [Liane-Rose Bunce](https://www.imdb.com/name/nm3332140/)
-- [Penelope Rawlins](https://www.imdb.com/name/nm2857799/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[野兽](Beast.md "Beast")
-
-### 种族
-
-[鬣狗](Hyena.md "Hyena")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-12
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-0 米 (0 英尺)
-
-### 重量
-
-50 千克 (100 磅)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 11 / (0) | 13 / (+1) | 12 / (+1) | 2 / (-4) | 12 / (+1) | 5 / (-3) |
+| | |
+| --- | --- |
+| 配音 | - [Clare Corbett](https://www.imdb.com/name/nm1352940/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [野兽](Beast.md "Beast") |
+| 种族 | [鬣狗](Hyena.md "Hyena") |
+| 等级 | 1 |
+| 生命值 | 12 |
+| 护甲等级 | 12 |
+| 先攻 | +1 |
+| 移动速度 | 0 米 (0 英尺) |
+| 经验值 | 20 |
 
 ## 状态
 
-- [**臃肿**](Bloated_(Condition).md "Bloated (Condition)")
+- [臃肿](Bloated_(Condition).md "Bloated (Condition)")
 
 因疾病和肿胀而被束缚。
 
-- [**伊诺胡的渴望**](Yeenoghu's_Hunger_(Condition).md "Yeenoghu's Hunger (Condition)")
+- [伊诺胡的渴望](Yeenoghu's_Hunger_(Condition).md "Yeenoghu's Hunger (Condition)")
 
 即将产下一只[豺狼人](Gnoll.md "Gnoll")。
-
-## 特性
-
-- [伊诺胡的渴望](Yeenoghu's_Hunger.md "伊诺胡的渴望")
-
-即将产下一只[豺狼人](Gnoll.md "Gnoll")。
-
-## 探索者难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-8
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 移动
-
-0 米 (0 英尺)
-
-### 重量
-
-50 千克 (100 磅)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +1 | +1 | -4 | +1 | -3 |
 
 ## 状态
 
-- [**臃肿**](Bloated_(Condition).md "Bloated (Condition)")
+- [臃肿](Bloated_(Condition).md "Bloated (Condition)")
 
 因疾病和肿胀而被束缚。
 
-- [**伊诺胡的渴望**](Yeenoghu's_Hunger_(Condition).md "Yeenoghu's Hunger (Condition)")
+- [伊诺胡的渴望](Yeenoghu's_Hunger_(Condition).md "Yeenoghu's Hunger (Condition)")
 
 即将产下一只[豺狼人](Gnoll.md "Gnoll")。
-
-## 特性
-
-- [伊诺胡的渴望](Yeenoghu's_Hunger.md "伊诺胡的渴望")
-
-即将产下一只[豺狼人](Gnoll.md "Gnoll")。
-
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-15
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-0 米 (0 英尺)
-
-### 重量
-
-50 千克 (100 磅)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 0 | 1 | 3 |
 
 ## 状态
 
-- [**臃肿**](Bloated_(Condition).md "Bloated (Condition)")
+- [臃肿](Bloated_(Condition).md "Bloated (Condition)")
 
 因疾病和肿胀而被束缚。
 
-- [**伊诺胡的渴望**](Yeenoghu's_Hunger_(Condition).md "Yeenoghu's Hunger (Condition)")
-
-即将产下一只[豺狼人](Gnoll.md "Gnoll")。
-
-## 特性
-
-- [伊诺胡的渴望](Yeenoghu's_Hunger.md "伊诺胡的渴望")
+- [伊诺胡的渴望](Yeenoghu's_Hunger_(Condition).md "Yeenoghu's Hunger (Condition)")
 
 即将产下一只[豺狼人](Gnoll.md "Gnoll")。
 

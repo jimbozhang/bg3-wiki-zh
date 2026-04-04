@@ -25,16 +25,6 @@
 近战：1.5 米（5 英尺）
 目标：1 个 [倒地](Knocked_Out_(Condition).md "倒地（状态）")、[倒伏](Prone_(Condition).md "倒伏（状态）") 或 [沉睡](Sleeping_(Condition).md "沉睡（状态）") 目标
 
-## 技术细节
-
-UID
-
-`Target_Devour_Ghoul_AnimateDead`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[食尸鬼（操纵死尸）](Ghoul_(Animate_Dead).md) 和 [食尸鬼（死亡之舞）](Ghoul_(Danse_Macabre).md)

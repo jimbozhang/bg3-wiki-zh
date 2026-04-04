@@ -15,16 +15,6 @@
 目标：已装备手术器械的[狂热助手](Zealous_Assistant.md "狂热助手")
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_SurgeryInstruRequest_Surgeon`
-
-法术标志
-
-`[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell flag\) \(page does not exist\)")`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 授予
 
 - [把锯子给我](Hand_Me_My_Saw.md "把锯子给我")

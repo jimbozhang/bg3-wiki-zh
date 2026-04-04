@@ -25,16 +25,6 @@
 范围：18米（60英尺）
 充能：每回合
 
-## 技术细节
-
-唯一标识符
-
-`Projectile_Multiattack_Gnoll_Flind_Ranged`
-
-法术标志
-
-`[CanDualWield](https://bg3.wiki/w/index.php?title=CanDualWield_\(spell_flag\)&action=edit&redlink=1) "CanDualWield \(spell_flag\) \(页面不存在\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell_flag\) \(页面不存在\)")`
-
 ## 学习方式
 
 由法术授予：

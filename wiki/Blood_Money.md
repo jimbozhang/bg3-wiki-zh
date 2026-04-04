@@ -18,16 +18,6 @@
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_MAG_WeaponAction_Taxblade`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由物品赋予：

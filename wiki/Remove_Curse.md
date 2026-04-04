@@ -17,16 +17,6 @@
 
 以此法术升环施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_RemoveCurse`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

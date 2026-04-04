@@ -28,16 +28,6 @@
 
 在10级时，拥有[精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")后，伤害加成从1d8提升至1d10。
 
-## 技术细节
-
-UID
-
-`Projectile_ManeuveringAttack`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 授予
 
 - [强制策动](Forced_Manoeuvre.md "强制策动")

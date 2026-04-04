@@ -1,124 +1,20 @@
 # 苍白汤姆博特
 
-## 苍白汤姆博特
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Anton Browne](https://www.imdb.com/name/nm7819894/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [卓尔](Drow.md "卓尔") |
+| 等级 | 9 |
+| 生命值 | 58 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 250 |
 
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Anton Browne](https://www.imdb.com/name/nm7819894/)
-
-### 阵营
-
-[灾祸神教](Cult_of_Bane.md "灾祸神教")
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[卓尔](Drow.md "卓尔")
-
-### 亚种
-
-[罗丝誓约卓尔](Lolth-Sworn_Drow.md "罗丝誓约卓尔")
-
-### 职业
-
-[法师](Wizard.md "法师")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-58
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 11 / (0) | 16 / (+3) | 20 / (+5) | 17 / (+3) | 16 / (+3) |
-
-## 额外资源
-
-- - - - - ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-在对抗[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，且不会被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_FireworksHouse_BaniteWizard` ###
-
-UUID
-
-`8844fff4-b1a7-499b-9c63-0ceb581672cc` ###
-
-属性
-
-`LOW_Elf_FelogyrFireworks_AlchemichalManager` **苍白汤姆博特**是一位[罗丝誓约卓尔](Lolth-Sworn_Drow.md "罗丝誓约卓尔")。他位于[博德之门](Baldur's_Gate.md "博德之门")[下城区](Lower_City.md "下城区")的[费洛杰尔烟花铺](Felogyr's_Fireworks.md "费洛杰尔烟花铺")工坊二楼，在游戏[第三章](Act_Three.md "第三章")中，玩家在进行任务⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")时可以遇到他。
+**苍白汤姆博特**是一位[罗丝誓约卓尔](Lolth-Sworn_Drow.md "罗丝誓约卓尔")。他位于[博德之门](Baldur's_Gate.md "博德之门")[下城区](Lower_City.md "下城区")的[费洛杰尔烟花铺](Felogyr's_Fireworks.md "费洛杰尔烟花铺")工坊二楼，在游戏[第三章](Act_Three.md "第三章")中，玩家在进行任务⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")时可以遇到他。
 
 > “
 >

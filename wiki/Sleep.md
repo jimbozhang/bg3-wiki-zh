@@ -20,16 +20,6 @@
 
 [升环施法](Upcasting.md "升环施法")：在更高环级时，可影响生命值更高的生物。该法术可影响的生物总生命值每升1环增加8点。
 
-## 技术细节
-
-UID
-
-`Target_Sleep`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：沉睡
 
 **[沉睡](Sleeping_(Condition).md "沉睡 (状态)")**

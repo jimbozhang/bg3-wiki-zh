@@ -14,16 +14,6 @@
 范围：自身
 持续时间：1驱散
 
-## 技术细节
-
-UID
-
-`Shout_SuddenRush_Gnoll`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：突然冲刺
 
 **[突然冲刺](Sudden_Rush_(Condition).md "突然冲刺 (状态)")**

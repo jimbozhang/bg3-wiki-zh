@@ -16,16 +16,6 @@
 范围：9米（30英尺）半径
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_InspiringLeader`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：坚定决心
 
 **[坚定决心](Inspiring_Resolve_(Condition).md "Inspiring Resolve (Condition)")**

@@ -17,16 +17,6 @@
 充能：[长休](Long_Rest.md "长休")
 持续时间：直到[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_SeeInvisibility_ThirdEye`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：识破隐形
 
 **[识破隐形](See_Invisibility_(Condition).md "识破隐形（状态）")**

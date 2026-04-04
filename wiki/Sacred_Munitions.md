@@ -15,16 +15,6 @@
 充能：[短休](短休.md "短休")
 持续时间：1 回合
 
-## 技术细节
-
-UID
-
-`Shout_MAG_WeaponAction_UndeadTurningBolt`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`
-
 ## 状态：神圣弹药
 
 **[神圣弹药](神圣弹药_(状态).md "神圣弹药 (状态)")**

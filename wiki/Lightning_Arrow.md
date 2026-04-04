@@ -26,16 +26,6 @@
 
 当法术以 4 级或更高法术位施放时，主要箭矢伤害和爆裂伤害都会比 3 级法术位高 1d8⁠⁠[闪电](Lightning.md "闪电")。
 
-## 技术细节
-
-UID
-
-`Projectile_LightningArrow`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 职业：

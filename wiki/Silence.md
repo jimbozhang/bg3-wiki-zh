@@ -24,16 +24,6 @@
 
 以此法术的更高等级施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Silence`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 区域：沉默
 
 **[沉默](Silence_(area).md "沉默 (区域)")**

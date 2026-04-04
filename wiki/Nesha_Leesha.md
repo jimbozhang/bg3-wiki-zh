@@ -1,111 +1,19 @@
 # 内莎·里夏
 
-## 内莎·里夏
+| | |
+| --- | --- |
+| 配音 | - [Rai Endah](https://www.imdb.com/name/nm12181149/) |
+| 体型 | 中级 |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 1 |
+| 生命值 | 4 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 1 |
 
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [Rai Endah](https://www.imdb.com/name/nm12181149/)
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-## 属性
-
-### 体型
-
-中级
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-4
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_BlushingMermaid_Patron_08` ###
-
-UUID
-
-`40dcda0b-7891-414f-8aeb-f742d842207d` ###
-
-属性
-
-`Human_Commoner` ## 变体 1
-
-###
-
-UID
-
-`UNI_LOW_BlushingMermaid_Patron_08_NoHandTemplate` ###
-
-UUID
-
-`b1ddd3fe-c55d-454f-ba70-c625344e1f80` ###
-
-属性
-
-`Human_Commoner` **内莎·里夏**是博德之门的一位市民。她正在[脸红的美人鱼](Blushing_Mermaid.md "Blushing Mermaid")酒馆等待一位朋友加入。
+**内莎·里夏**是博德之门的一位市民。她正在[脸红的美人鱼](Blushing_Mermaid.md "Blushing Mermaid")酒馆等待一位朋友加入。
 
 > “
 >

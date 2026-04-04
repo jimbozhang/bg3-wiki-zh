@@ -27,16 +27,6 @@
 近战：1.5 米（5 英尺）
 目标：[倒伏](Prone_(status_group).md)> 生物
 
-## 技术细节
-
-UID
-
-`Target_UND_Multiattack_Myconid_Glut`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag\>).md)`, `[IsMelee](IsMelee_(spell_flag\>).md)`
-
 ## 如何习得
 
 由生物使用：[格拉特](Glut.md "格拉特")

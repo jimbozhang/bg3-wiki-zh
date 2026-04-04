@@ -18,16 +18,6 @@
 射程：9米（30英尺）
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_Friends`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：交友术
 
 **[交友术](Friends_(Condition).md "交友术（状态）")**

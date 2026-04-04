@@ -24,16 +24,6 @@
 
 以此法术升环施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_FatherCarrion_GreaterCurse`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：秘术师卡里翁的中毒诅咒
 
 **[秘术师卡里翁的中毒诅咒](Mystic_Carrion's_Poisoned_Curse_(Condition).md "秘术师卡里翁的中毒诅咒 (状态)")**

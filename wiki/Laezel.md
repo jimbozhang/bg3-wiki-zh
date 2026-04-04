@@ -1,147 +1,17 @@
 # 莱埃泽尔
 
-## 莱埃泽尔
-
-吉斯洋基战士
-
-- 封面插画
-- 模型
-- 肖像画
-
-### 全名
-
-伊雷珂养育间的莱埃泽尔
-
-### 性别
-
-女性
-
-### 配音 / 演员
-
-- [Devora Wilde](https://www.imdb.com/name/nm4959536/)
-
-### 主要编剧
-
-Kevin VanOrd
-
-### 角色
-
-[出身角色](Origin_characters.md "出身角色")
-[伙伴](Companion.md "伙伴")
-
-### 家乡
-
-[伊雷珂养育间](Cr%C3%A8che_K'liir.md "伊雷珂养育间")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[吉斯洋基人](Githyanki.md "吉斯洋基人")
-
-### 职业
-
-[战士](Fighter.md "战士")
-
-### 副职
-
-[战斗大师](Battle_Master.md "战斗大师") (默认)
-
-### 背景
-
-[士兵](Soldier.md "士兵")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-16
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 17 / (+3) | 13 / (+1) | 15 / (+2) | 10 / (0) | 12 / (+1) | 8 / (-1) |
-
-## 特性
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当使用[双手](Two-Handed.md "双手")近战武器伤害掷骰时，任何掷出1或2的骰子可重掷一次。
-
-- [军事奇才](Martial_Prodigy.md "军事奇才")
-
-获得[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")、[短剑](Shortswords.md "短剑")、[长剑](Longswords.md "长剑")和[巨剑](Greatswords.md "巨剑")的熟练项。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术信息
-
-###
-
-UID
-
-`S_Player_Laezel` ###
-
-UUID
-
-`58a69333-40bf-8358-1d17-fff240d7fb12` ###
-
-属性
-
-`POC_Player_Fighter` ## 变体 1
-
-###
-
-UID
-
-`ORIGIN_Laezel` ###
-
-UUID
-
-`3a0351bd-0b2f-4fbf-84a6-30ad80bb3100` ###
-
-属性
-
-`POC_Player_Fighter` **伊雷珂养育间的莱埃泽尔**是一位[出身角色](Origin_characters.md "出身角色")和可招募的[伙伴](Companion.md "伙伴")，可被任何性别的角色[浪漫追求](Romance.md "浪漫追求")。她是一位拥有[士兵](Soldier.md "士兵")背景的[吉斯洋基人](Githyanki.md "吉斯洋基人")[战士](Fighter.md "战士")。除非作为出身角色游玩，莱埃泽尔首次出现在[鹦鹉螺](Nautiloid.md "鹦鹉螺")的[序幕](Prologue.md "序幕")中，作为临时伙伴，并可在[Act One](Act_One.md "Act One")的[荒野](Wilderness.md "荒野")被正式招募。
+| | |
+| --- | --- |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
+| 等级 | 1 |
+| 生命值 | 16 |
+| 护甲等级 | 16 |
+| 先攻 | +1 |
+| 移动速度 | 9 米 (30 英尺) |
+
+**伊雷珂养育间的莱埃泽尔**是一位[出身角色](Origin_characters.md "出身角色")和可招募的[伙伴](Companion.md "伙伴")，可被任何性别的角色[浪漫追求](Romance.md "浪漫追求")。她是一位拥有[士兵](Soldier.md "士兵")背景的[吉斯洋基人](Githyanki.md "吉斯洋基人")[战士](Fighter.md "战士")。除非作为出身角色游玩，莱埃泽尔首次出现在[鹦鹉螺](Nautiloid.md "鹦鹉螺")的[序幕](Prologue.md "序幕")中，作为临时伙伴，并可在[Act One](Act_One.md "Act One")的[荒野](Wilderness.md "荒野")被正式招募。
 
 这位凶猛的战士狂热地效忠于巫妖女王[维拉基斯](Vlaakith.md "维拉基斯")，莱埃泽尔会不惜一切代价终结[灵吸怪](Illithid.md "Illithid")的恐怖，并向她的女王证明自己的价值。
 

@@ -20,14 +20,14 @@
 
 | 护甲类型 | 自然护甲 | +1 效果 | +2 效果 |
 | --- | --- | --- | --- |
-| [皮甲](Leather_Armour.md "Leather Armour") | 11 + [敏](DEX.md "DEX") | [隐匿](Stealth.md "Stealth") [检定](Checks.md "Checks") +1 | [敏捷](Dexterity.md "Dexterity") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 |
-| [布甲](Padded_Armour.md "Padded Armour") | 11 + [敏](DEX.md "DEX") | 承受 [钝击](Bludgeoning.md "Bludgeoning") 伤害减少 1 | 承受 [钝击](Bludgeoning.md "Bludgeoning") 伤害减少 1（总计 2） |
-| [镶钉皮甲](Studded_Leather_Armour.md "Studded Leather Armour") | 12 + [敏](DEX.md "DEX") | 承受 [钝击](Bludgeoning.md "Bludgeoning") 伤害减少 1 | [先攻](Initiative.md "Initiative") +1 |
-| [兽皮甲](Hide_Armour.md "Hide Armour") | 12 + [敏](DEX.md "DEX")（最大 2） | [敏捷](Dexterity.md "Dexterity") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 | [先攻](Initiative.md "Initiative") +1 |
-| [链甲衫](Chain_Shirt.md "Chain Shirt") | 13 + [敏](DEX.md "DEX")（最大 2） | 承受 [挥砍](Slashing.md "Slashing") 伤害减少 1 | [敏捷](Dexterity.md "Dexterity") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 |
-| [胸甲](Breastplate.md "Breastplate") | 14 + [敏](DEX.md "DEX")（最大 2） | 承受 [穿刺](Piercing.md "Piercing") 伤害减少 1 | [敏捷](Dexterity.md "Dexterity") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 |
-| [鳞甲](Scale_Mail.md "Scale Mail") | 14 + [敏](DEX.md "DEX")（最大 2） | 承受 [挥砍](Slashing.md "Slashing") 伤害减少 1 | [先攻](Initiative.md "Initiative") +1 |
-| [半身甲](Half_Plate_Armour.md "Half Plate Armour") | 15 + [敏](DEX.md "DEX")（最大 2） | 承受 [穿刺](Piercing.md "Piercing") 伤害减少 1 | 承受 [穿刺](Piercing.md "Piercing") 伤害减少 1（总计 2） |
+| [皮甲](Leather_Armour.md "Leather Armour") | 11 + [敏捷](DEX.md "敏捷") | [隐匿](Stealth.md "Stealth") [检定](Checks.md "Checks") +1 | [敏捷](Dexterity.md "Dexterity") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 |
+| [布甲](Padded_Armour.md "Padded Armour") | 11 + [敏捷](DEX.md "敏捷") | 承受 [钝击](Bludgeoning.md "Bludgeoning") 伤害减少 1 | 承受 [钝击](Bludgeoning.md "Bludgeoning") 伤害减少 1（总计 2） |
+| [镶钉皮甲](Studded_Leather_Armour.md "Studded Leather Armour") | 12 + [敏捷](DEX.md "敏捷") | 承受 [钝击](Bludgeoning.md "Bludgeoning") 伤害减少 1 | [先攻](Initiative.md "Initiative") +1 |
+| [兽皮甲](Hide_Armour.md "Hide Armour") | 12 + [敏捷](DEX.md "敏捷")（最大 2） | [敏捷](Dexterity.md "Dexterity") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 | [先攻](Initiative.md "Initiative") +1 |
+| [链甲衫](Chain_Shirt.md "Chain Shirt") | 13 + [敏捷](DEX.md "敏捷")（最大 2） | 承受 [挥砍](Slashing.md "Slashing") 伤害减少 1 | [敏捷](Dexterity.md "Dexterity") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 |
+| [胸甲](Breastplate.md "Breastplate") | 14 + [敏捷](DEX.md "敏捷")（最大 2） | 承受 [穿刺](Piercing.md "Piercing") 伤害减少 1 | [敏捷](Dexterity.md "Dexterity") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 |
+| [鳞甲](Scale_Mail.md "Scale Mail") | 14 + [敏捷](DEX.md "敏捷")（最大 2） | 承受 [挥砍](Slashing.md "Slashing") 伤害减少 1 | [先攻](Initiative.md "Initiative") +1 |
+| [半身甲](Half_Plate_Armour.md "Half Plate Armour") | 15 + [敏捷](DEX.md "敏捷")（最大 2） | 承受 [穿刺](Piercing.md "Piercing") 伤害减少 1 | 承受 [穿刺](Piercing.md "Piercing") 伤害减少 1（总计 2） |
 | [环甲](Ring_Mail_Armour.md "Ring Mail Armour") | 14 | [力量](Strength.md "Strength") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 | 承受 [挥砍](Slashing.md "Slashing") 伤害减少 1 |
 | [链甲](Chain_Mail.md "Chain Mail") | 16 | 承受 [挥砍](Slashing.md "Slashing") 伤害减少 1 | 承受 [挥砍](Slashing.md "Slashing") 伤害减少 1（总计 2） |
 | [板条甲](Splint_Armour.md "Splint Armour") | 17 | 承受 [穿刺](Piercing.md "Piercing") 伤害减少 1 | [力量](Strength.md "Strength") [豁免](Saves.md "Saves") 和 [检定](Checks.md "Checks") +1 |

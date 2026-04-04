@@ -19,16 +19,6 @@
 范围：12 米（40 英尺）
 范围效果：3 米（10 英尺）半径
 
-## 技术细节
-
-UID
-
-`Target_SCL_Oliver_InflictWounds_Shadow_Parents`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[父亲](Daddy.md "父亲")

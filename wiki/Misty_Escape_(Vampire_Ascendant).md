@@ -20,16 +20,6 @@
 充能：[短休](Short_rest.md "短休")
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Shout_LOW_MistyEscape_Astarion`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 状态：气化形体
 
 **[气化形体](Gaseous_Form_(Condition).md "气化形体 (状态)")**

@@ -1,99 +1,18 @@
 # 凯瑟里克·索姆
 
-## 凯瑟里克·索姆
-
-肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [J.K. Simmons](https://www.imdb.com/name/nm0799777/)
-
-### 家族
-
-[梅洛迪亚·索姆](Melodia_Thorm.md "梅洛迪亚·索姆") (妻子，已故)
-[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆") [叔叔]<sup>[\[1\]](#cite_note-1)</sup>
-[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")<sup>[\[2\]](#cite_note-2)</sup>
-[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")<sup>[\[3\]](#cite_note-3)</sup>
-[伊索贝尔·索姆](Isobel_Thorm.md "伊索贝尔·索姆") (女儿)
-
-### 家乡
-
-[月出之塔](Moonrise_Towers.md "月出之塔")
-[雷斯文小镇](Reithwin_Town.md "雷斯文小镇") (原)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[不死生物](Undead.md "不死生物")
-
-### 种族
-
-[不死生物](Undead.md "不死生物") [半高精灵](High_Half-Elf.md "半高精灵") [可能]<sup>[\[4\]](#cite_note-ancestry-4)</sup>
-
-### 职业
-
-[圣武士](Paladin.md "圣武士")
-
-### 副职
-
-[弃誓者](Oathbreaker.md "弃誓者")
-
-### 神祇
-
-[塞伦涅](Sel%C3%BBne.md "塞伦涅") / [莎尔](Shar.md "莎尔") / [米尔寇](Myrkul.md "米尔寇")
-
-## 技术
-
-###
-
-UID
-
-`MOO_Ketheric` ###
-
-UUID
-
-`bc4b5efc-cbd3-4f8f-a31e-d37f801a038c` ###
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [J.K. Simmons](https://www.imdb.com/name/nm0799777/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [不死生物](Undead.md "不死生物") |
+| 种族 | [不死生物](Undead.md "不死生物") [半高精灵](High_Half-Elf.md "半高精灵") [可能]<sup>[\[4\]](#cite_note-ancestry-4)</sup> |
 
 属性
 
-`SCL_Ketheric` ## 变体 1
-
-###
-
-UID
-
-`S_MOO_Ketheric` ###
-
-UUID
-
-`e9918f3e-5b87-40a3-a9bd-61545151573f` ###
-
 属性
 
-`SCL_Ketheric` ## 变体 2
-
-###
-
-UID
-
-`S_MOO_Ketheric_Transforming` ###
-
-UUID
-
-`5222b192-2ea3-4ecc-8434-79c9f28169f8` ###
-
-属性
-
-`SCL_Ketheric` 概述 **凯瑟里克·索姆**<sup>[\[5\]](#cite_note-5)</sup> 是一名具有精灵血统和外貌的[不死生物](Undead.md "不死生物")，<sup>[\[4\]](#cite_note-ancestry-4)</sup> [米尔寇](Myrkul.md "米尔寇")的选民，也是神秘的[绝对真神教](Cult_of_the_Absolute.md "绝对真神教")的领袖之一。他是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的主要反派之一。
+概述 **凯瑟里克·索姆**<sup>[\[5\]](#cite_note-5)</sup> 是一名具有精灵血统和外貌的[不死生物](Undead.md "不死生物")，<sup>[\[4\]](#cite_note-ancestry-4)</sup> [米尔寇](Myrkul.md "米尔寇")的选民，也是神秘的[绝对真神教](Cult_of_the_Absolute.md "绝对真神教")的领袖之一。他是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的主要反派之一。
 
 > “
 >

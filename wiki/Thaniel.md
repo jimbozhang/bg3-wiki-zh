@@ -1,143 +1,39 @@
 # Thaniel
 
-## Thaniel
-
-- In-game
-- Portrait
-
-### Identity
-
-Male
-
-### Voice / Actor
-
-- [Clare Corbett](https://www.imdb.com/name/nm1352940/)
-
-### Family
-
-[Oliver](Oliver.md "Oliver")
-
-### Hometown
-
-[Shadow-Cursed Lands](Shadow-Cursed_Lands.md "幽影诅咒之地")
-
-## Stats
-
-### Size
-
-[Medium](Medium.md "中级")
-
-### Type
-
-[Humanoid](Humanoid.md "类人生物")
-
-### Race
-
-[Tiefling](Tiefling.md "提夫林")
-
-- Balanced
-
-- Explorer
-
-- Tactician
-
-## Balanced Difficulty Stats
-
-### Level
-
-1
-
-### HP
-
-5
-
-### AC
-
-12
-
-### Initiative
-
-0
-
-### Proficiency
-
-+2
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-25 kg (50 lb)
-
-### Darkvision
-
-12 m (40 ft)
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | Male |
+| 配音 | - [Clare Corbett](https://www.imdb.com/name/nm1352940/) |
+| 体型 | [Medium](Medium.md "中级") |
+| 类型 | [Humanoid](Humanoid.md "类人生物") |
+| 种族 | [Tiefling](Tiefling.md "提夫林") |
+| 等级 | 1 |
+| 生命值 | 5 |
+| 护甲等级 | 12 |
+| 先攻 | 0 |
+| 移动速度 | 9 m (30 ft) |
 
 ## Resistances [(info)](Resistances.md "抗性")
 
 - ## Features
 
-- [**Darkvision**](Darkvision.md "高级黑暗视觉")
+- [Darkvision](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**Hellish Resistance**](Hellish_Resistance.md "炎狱抗性")
+- [Hellish Resistance](Hellish_Resistance.md "炎狱抗性")
 
 [Resistant](Resistant.md "抗性") to all [Fire](Fire.md "火焰").
 
-## Explorer Difficulty Stats
-
-### Level
-
-1
-
-### HP
-
-3
-
-### AC
-
-12
-
-### Initiative
-
-0
-
-### Proficiency
-
-+4
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-25 kg (50 lb)
-
-### Darkvision
-
-12 m (40 ft)
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
-
 ## Resistances [(info)](Resistances.md "抗性")
 
 - ## Features
 
-- [**Darkvision**](Darkvision.md "高级黑暗视觉")
+- [Darkvision](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**Hellish Resistance**](Hellish_Resistance.md "炎狱抗性")
+- [Hellish Resistance](Hellish_Resistance.md "炎狱抗性")
 
 [Resistant](Resistant.md "抗性") to all [Fire](Fire.md "火焰").
 
@@ -183,29 +79,13 @@ Can see in the dark up to a certain distance.
 
 - ## Features
 
-- [**Darkvision**](Darkvision.md "高级黑暗视觉")
+- [Darkvision](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**Hellish Resistance**](Hellish_Resistance.md "炎狱抗性")
+- [Hellish Resistance](Hellish_Resistance.md "炎狱抗性")
 
 [Resistant](Resistant.md "抗性") to all [Fire](Fire.md "火焰").
-
-## Technical
-
-###
-
-UID
-
-`S_HAV_SpiritOfTheLand` ###
-
-UUID
-
-`1403cdfd-0660-4592-90c6-bfe4607ccd3a` ###
-
-Stats
-
-`Tiefling_Child` **Thaniel** is an unaging nature-spirit, appearing as a [tiefling](Tiefling.md "提夫林") child, who embodies the spirit of the [Shadow-Cursed Lands](Shadow-Cursed_Lands.md "幽影诅咒之地").
 
 ## Contents
 

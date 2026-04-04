@@ -1,32 +1,10 @@
 # 我们 (Us)
 
-## 我们 (Us)
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 配音 / 演员
-
-- [Clare Corbett](https://www.imdb.com/name/nm1352940/)
-
-### 角色
-
-[依附追随者](Attached_Follower.md "依附追随者"), [获得魔宠](Familiar.md "获得魔宠")
-
-## 属性
-
-### 体型
-
-[小型](Small.md "小型")
-
-### 类型
-
-[异怪](Aberration.md "异怪")
-
-### 种族
-
-[噬脑怪](Intellect_Devourer.md "噬脑怪")
+| | |
+| --- | --- |
+| 体型 | [小型](Small.md "小型") |
+| 类型 | [异怪](Aberration.md "异怪") |
+| 种族 | [噬脑怪](Intellect_Devourer.md "噬脑怪") |
 
 **我们 (Us)** 是一只[噬脑怪](Intellect_Devourer.md "噬脑怪")，也是可能的[依附追随者](Attached_Follower.md "依附追随者")，可在 _[博德之门3](Baldur's_Gate_3.md "博德之门3")_ 的[序幕](Prologue.md "序幕")期间，在[鹦鹉螺](Nautiloid.md "鹦鹉螺")上，被困在名为[米纳斯](Myrnath.md "米纳斯")的精灵头部时遭遇。
 
@@ -258,15 +236,9 @@
 
 ### 技术细节
 
-#### UID
-
-`S_TUT_Lab_TrappedDevourer`
-#### UUID
-
-`6ca92237-eb1e-4ed8-a1ee-18b3bef21558`
+#
 #### 属性
 
-`TUT_IntellectDevourer_Companion`
 #### 攻击与能力
 
 [爪击](Claws_(Intellect_Devourer).md "爪击 (噬脑怪)") ()
@@ -397,15 +369,9 @@
 
 ### 技术细节
 
-#### UID
-
-`Intellect_Devourer_PlayerWildshape`
-#### UUID
-
-`27b9089b-9aef-44e9-aaf7-100e3e320823`
+#
 #### 属性
 
-`IntellectDevourer_US`
 #### 攻击与能力
 
 [爪击](Claws_(Us).md "爪击 (我们)") ()
@@ -486,7 +452,7 @@
 
 ### 状态
 
-- [**脑叶切除**](Lobotomised_(Condition).md "脑叶切除 (状态)")
+- [脑叶切除](Lobotomised_(Condition).md "脑叶切除 (状态)")
 
 - 我们 (Us) 仍在遭受你很久以前造成的致残伤害...
 
@@ -544,7 +510,7 @@
 
 ### 状态
 
-- [**脑叶切除**](Lobotomised_(Condition).md "脑叶切除 (状态)")
+- [脑叶切除](Lobotomised_(Condition).md "脑叶切除 (状态)")
 
 - 我们 (Us) 仍在遭受你很久以前造成的致残伤害...
 
@@ -564,15 +530,9 @@
 
 ### 技术细节
 
-#### UID
-
-`Intellect_Devourer_PlayerWildshape`
-#### UUID
-
-`27b9089b-9aef-44e9-aaf7-100e3e320823`
+#
 #### 属性
 
-`IntellectDevourer_US`
 #### 攻击与能力
 
 如果我们在序幕中被[脑叶切除](Lobotomised_(Condition).md "脑叶切除 (状态)")，在第二幕中作为魔宠召唤时会显著削弱；其属性值、生命值、移动速度、抗性和动作都会受到影响。

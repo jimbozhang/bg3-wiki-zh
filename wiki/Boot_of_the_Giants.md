@@ -19,16 +19,6 @@
 详情
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_BootOfTheGiants`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)>`, `[CombatLogSetSingleLineRoll](https://bg3.wiki/w/index.php?title=CombatLogSetSingleLineRoll_\(spell_flag\)&action=edit&redlink=1) "CombatLogSetSingleLineRoll \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)>`, `[IsMelee](IsMelee_(spell_flag).md)>`
-
 ## 学习方式
 
 职业：

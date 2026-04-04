@@ -1,42 +1,12 @@
 # 钢铁卫士泰坦
 
-## 钢铁卫士泰坦
+| | |
+| --- | --- |
+| 体型 | [大型](Large.md "Large") |
+| 类型 | [构装生物](Construct.md "Construct") |
+| 种族 | [钢铁卫士](Steel_Watcher.md "Steel_Watcher") |
 
-戈塔什的杰作
-
-### 全名
-
-钢铁卫士泰坦
-
-## 属性
-
-### 体型
-
-[大型](Large.md "Large")
-
-### 类型
-
-[构装生物](Construct.md "Construct")
-
-### 种族
-
-[钢铁卫士](Steel_Watcher.md "Steel_Watcher")
-
-## 技术信息
-
-###
-
-UID
-
-`SteelWatcher_Quadruped_A` ###
-
-UUID
-
-`26fa3fe9-608c-4113-99a6-727781351ea4` ###
-
-属性
-
-`Steel_Watcher_Quadruped` **钢铁卫士泰坦**是一种强大的[构装生物](Construct.md "Construct")，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel_Watch_Foundry")的[第三幕](Act_Three.md "Act_Three")中遭遇。
+**钢铁卫士泰坦**是一种强大的[构装生物](Construct.md "Construct")，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel_Watch_Foundry")的[第三幕](Act_Three.md "Act_Three")中遭遇。
 
 ## 概述
 

@@ -8,12 +8,6 @@
 
 获得理解并与野兽沟通的能力。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_SpeakWithAnimals`
-
 ## 状态：动物交谈
 
 **[动物交谈](Speak_with_Animals_(condition).md "动物交谈（状态）")**

@@ -14,30 +14,6 @@
 范围：100米（333英尺）
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Target_Cloaker_Phantasms`
-
-召唤1个幻影的初始动作
-
-`Target_Cloaker_Phantasms2`
-
-召唤第二个幻影的免费后续动作
-
-`Target_Cloaker_Phantasms3`
-
-召唤第三个幻影的免费后续动作
-
-`Target_Cloaker_Phantasms4_Hardcore`
-
-硬核专属的召唤第四个幻影的免费后续动作
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`
-
 ## 生物：幻影
 
 | [力量](Strength.md "力量") 18 (+4) | [敏捷](Dexterity.md "敏捷") 16 (+3) | [体质](Constitution.md "体质") 15 (+2) | [智力](Intelligence.md "智力") 12 (+1) | [感知](Wisdom.md "感知") 13 (+1) | [魅力](Charisma.md "魅力") 14 (+2) |

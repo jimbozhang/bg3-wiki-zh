@@ -17,12 +17,6 @@
 详情
 目标：圆圈内的所有生物
 
-## 技术细节
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[鹦鹉螺（生物）](Nautiloid_(Creature).md)

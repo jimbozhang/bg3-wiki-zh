@@ -26,7 +26,7 @@ Race/class modding
 
 ## 所需工具
 
-您只需要 **[BG3 Modder's Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool)** 即可，您将使用它从游戏中提取现有的 Equipment.txt 文件。您还需要一个文本编辑器，[**VSCode**](https://code.visualstudio.com/) 或 [**Notepad++**](https://notepad-plus-plus.org/) 都是不错的选择。
+您只需要 **[BG3 Modder's Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool)** 即可，您将使用它从游戏中提取现有的 Equipment.txt 文件。您还需要一个文本编辑器，[VSCode](https://code.visualstudio.com/) 或 [Notepad++](https://notepad-plus-plus.org/) 都是不错的选择。
 
 ## 提取并放置 Equipment.txt
 

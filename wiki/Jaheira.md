@@ -1,155 +1,21 @@
 # 贾希拉
 
-## 贾希拉
-
-博德之门高阶竖琴手
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Tracy Wiles](https://www.imdb.com/name/nm1518695/)
-
-### 主要编剧
-
-Ruairí Moore
-
-### 角色
-
-[伙伴](Companions.md "Companions")
-
-### 家庭
-
-- [卡利德](Khalid.md "Khalid")（配偶，已故）
-- [菲格](Fig.md "菲格")（养子）
-- [哲塞姆](Jhessem.md "哲塞姆")（养子）
-- [乔迪](Jord.md "乔迪")（养子）
-- [里翁](Rion.md "里翁")（养子）
-- [塔特](Tate.md "塔特")（养子）
-
-### 家乡
-
-- [博德之门](Baldur's_Gate.md "博德之门")
-- [泰瑟尔](https://forgottenrealms.fandom.com/wiki/Tethyr)，诡诈之地（前）
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[半精灵](Half-Elf.md "半精灵")
-
-### 亚种
-
-[半高精灵](High_Half-Elf.md "半高精灵")
-
-### 职业
-
-[德鲁伊](Druid.md "德鲁伊")
-
-### 副职
-
-[大地结社](Circle_of_the_Land.md "大地结社")
-
-### 背景
-
-[士兵](Soldier.md "士兵")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-17
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 14 / (+2) | 14 / (+2) | 8 / (-1) | 17 / (+3) | 12 / (+1) |
-
-## 额外资源
-
-- - - - - 2
-
-## 特性
-
-- [近战施法者](Melee_Caster.md "近战施法者")
-
-受影响实体使用其[施法关键属性调整值](Ability_Scores.md#Spellcasting_ability "属性值")代替其敏捷[调整值](Ability_Scores.md#Ability_score_modifiers "属性值")来添加到[攻击掷骰](Attack_roll.md "攻击掷骰")中。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术数据
-
-###
-
-UID
-
-`S_Player_Jaheira` ###
-
-UUID
-
-`91b6b200-7d00-4d62-8dc9-99e8339dfa1a` ###
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Tracy Wiles](https://www.imdb.com/name/nm1518695/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [半精灵](Half-Elf.md "半精灵") |
+| 等级 | 1 |
+| 生命值 | 17 |
+| 护甲等级 | 13 |
+| 先攻 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
 
 属性
 
-`HAV_Jaheira` ## 变体 1
-
-###
-
-UID
-
-`HalfElves_Female_High_Jaheira` ###
-
-UUID
-
-`7c7e6552-3fc0-4495-bb11-4b9f9a8e71fc` ###
-
-属性
-
-`HeroHalfElfFemale` **贾希拉**是一位可招募的[伙伴](Companion.md "伙伴")。她和[明斯克](Minsc.md "明斯克")从《博德之门》和《博德之门II：安姆的阴影》中回归，是仅有的两位无法被[追求](Romance.md "追求")的可招募伙伴。<sup>[\[1\]](#cite_note-1)</sup> 她是一位[半高精灵](High_Half-Elf.md "半高精灵")和[德鲁伊](Druid.md "德鲁伊")<sup>[\[2\]](#cite_note-2)</sup>，拥有[士兵](Soldier.md "士兵")背景，可以在[第二幕](Act_Two.md "第二幕")期间于[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")首次找到。
+**贾希拉**是一位可招募的[伙伴](Companion.md "伙伴")。她和[明斯克](Minsc.md "明斯克")从《博德之门》和《博德之门II：安姆的阴影》中回归，是仅有的两位无法被[追求](Romance.md "追求")的可招募伙伴。<sup>[\[1\]](#cite_note-1)</sup> 她是一位[半高精灵](High_Half-Elf.md "半高精灵")和[德鲁伊](Druid.md "德鲁伊")<sup>[\[2\]](#cite_note-2)</sup>，拥有[士兵](Soldier.md "士兵")背景，可以在[第二幕](Act_Two.md "第二幕")期间于[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")首次找到。
 
 在她首次冒险的一个世纪后，她的丈夫[卡利德](Khalid.md "卡利德")被杀，贾希拉已成为高阶[竖琴手](Harpers.md "竖琴手")，她决心维护她的竖琴手网络，击垮[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")，并最终与她最亲密的朋友[明斯克](Minsc.md "明斯克")重聚。贾希拉以其敏锐的机智和冷幽默而闻名，并担任队伍中其他成员的导师角色。
 

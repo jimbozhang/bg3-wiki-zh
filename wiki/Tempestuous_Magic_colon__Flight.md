@@ -15,16 +15,6 @@
 详情
 范围：9 米（30 英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_Fly_TempestuousMagic`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreAoO](https://bg3.wiki/w/index.php?title=IgnoreAoO_\(spell_flag\)&action=edit&redlink=1) "IgnoreAoO \(spell flag\) \(page does not exist\)")`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell flag\) \(page does not exist\)")`, `[NoAOEDamageOnLand](https://bg3.wiki/w/index.php?title=NoAOEDamageOnLand_\(spell_flag\)&action=edit&redlink=1) "NoAOEDamageOnLand \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Stealth](Stealth_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

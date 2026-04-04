@@ -13,16 +13,6 @@
 详情
 范围：30米（100英尺）
 
-## 技术细节
-
-UID
-
-`Target_ObliterationOrb_Netherbrain`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell flag\) \(page does not exist\)")`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：被标记为否决目标
 
 **[被标记为否决目标](Marked_for_Negation_(Condition).md "被标记为否决目标 (状态)")**

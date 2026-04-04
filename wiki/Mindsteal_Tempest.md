@@ -22,26 +22,6 @@
 区域效果：40米（133英尺）半径
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_CRE_GithyankiInquisitor_Mindsteal_Tempest`
-
-实际动作
-
-`Projectile_CRE_GithyankiInquisitor_Mindsteal_Tempest`
-
-影响敌人的区域效果
-
-`Projectile_CRE_GithyankiInquisitor_Mindsteal_Tempest_Allies`
-
-影响盟友的区域效果
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：夺心连接（来源）
 
 **\_(状态)[夺心连接](Mindsteal_Link_(Source)_(Condition).md "夺心连接（来源）（状态）")**

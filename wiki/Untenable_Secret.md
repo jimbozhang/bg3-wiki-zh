@@ -24,16 +24,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_SHA_Justiciar_UntenableSecret`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：难守秘密
 
 **[难守秘密](Untenable_Secret_(Condition).md "难守秘密 (状态)")**

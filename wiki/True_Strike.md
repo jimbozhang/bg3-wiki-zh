@@ -16,16 +16,6 @@
 射程：18米（60英尺）
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_TrueStrike`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：克敌机先
 
 **[克敌机先](True_Strike_(Condition).md "克敌机先（状态）")**

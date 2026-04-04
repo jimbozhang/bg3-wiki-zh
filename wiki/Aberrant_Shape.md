@@ -19,12 +19,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_AberrantShape`
-
 ## 状态：异化变身
 
 | [力量](Strength.md "Strength") 6 (-2) | [敏捷](Dexterity.md "Dexterity") 14 (+2) | [体质](Constitution.md "Constitution") 13 (+1) |

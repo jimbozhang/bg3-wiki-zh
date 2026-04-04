@@ -11,16 +11,6 @@
 详情
 范围：半径 25 米（83 英尺）
 
-## 技术细节
-
-UID
-
-`Shout_LuringSong_Harpy`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：吟唱
 
 **[吟唱](Singing_(Condition).md "吟唱（状态）")**

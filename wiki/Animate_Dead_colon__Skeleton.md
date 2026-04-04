@@ -20,16 +20,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_AnimateDead_Skeleton`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：骷髅（操纵死尸）
 
 | [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 16 (+3) | [体质](Constitution.md "体质") 8 (-1) | [智力](Intelligence.md "智力") 6 (-2) | [感知](Wisdom.md "感知") 8 (-1) | [魅力](Charisma.md "魅力") 5 (-3) |

@@ -16,12 +16,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_ActionSurge`
-
 ## 状态：动作如潮
 
 **[动作如潮](Action_Surge_(Condition).md "动作如潮 (状态)")**

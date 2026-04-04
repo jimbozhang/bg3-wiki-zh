@@ -1,76 +1,17 @@
 # 军团魔囤宝者
 
-## 军团魔囤宝者
-
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [Adam Diggle](https://www.imdb.com/name/nm7920962/)
-
-### 角色
-
-[商人](Trader.md "Trader")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[邪魔](Fiend.md "Fiend")
-
-### 种族
-
-[军团魔](Merregon.md "Merregon")
-
-- 平衡
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-45
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-24 m (80 ft)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 12 / (+1) | 17 / (+3) | 6 / (-2) | 12 / (+1) | 8 / (-1) |
+| | |
+| --- | --- |
+| 配音 | - [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [邪魔](Fiend.md "Fiend") |
+| 种族 | [军团魔](Merregon.md "Merregon") |
+| 等级 | 5 |
+| 生命值 | 45 |
+| 护甲等级 | 16 |
+| 先攻 | +1 |
+| 移动速度 | 9 m (30 ft) |
+| 经验值 | 110 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -92,48 +33,6 @@
 
 攻击离开攻击范围的敌人。
 
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-58
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-24 m (80 ft)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | +1 | +3 | -2 | +1 | -1 |
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - - - ## 特性
@@ -154,33 +53,19 @@
 
 攻击离开攻击范围的敌人。
 
-- [**哨兵：借机优势**](Sentinel_colon__Opportunity_Advantage.md "Sentinel: Opportunity Advantage")
+- [哨兵：借机优势](Sentinel_colon__Opportunity_Advantage.md "Sentinel: Opportunity Advantage")
 
 你对[借机攻击](Opportunity_Attack.md "Opportunity Attack")获得[优势](Advantage.md "Advantage")。
 
-- [**哨兵：诱捕**](Sentinel_colon__Snare.md "Sentinel: Snare")
+- [哨兵：诱捕](Sentinel_colon__Snare.md "Sentinel: Snare")
 
 当你用[借机攻击](Opportunity_Attack.md "Opportunity Attack")命中一个生物时，它在本回合剩余时间内无法移动。
 
-- [**哨兵：复仇**](Sentinel_colon__Vengeance.md "Sentinel: Vengeance")
+- [哨兵：复仇](Sentinel_colon__Vengeance.md "Sentinel: Vengeance")
 
 当近战范围内的敌人攻击你的盟友时，你可以使用[反应](Reaction.md "Reaction")对该敌人进行一次武器攻击。目标盟友不能拥有哨兵专长。
 
-## 技术信息
-
-###
-
-UID
-
-`S_SHA_Merregon_000` ###
-
-UUID
-
-`fbbf364f-5da0-4d60-86e4-ecf68da8fb25` ###
-
-属性
-
-`Merregon` **军团魔囤宝者**是居住在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet of Shar")中[尤格](Yurgir.md "Yurgir")房间内的[军团魔步兵](Merregon_Legionnaire.md "Merregon Legionnaire")和[商人](Trader.md "Trader")。它担任[奥隆](Orthon.md "Orthon")的[军需官](Quartermaster.md "Quartermaster")。
+**军团魔囤宝者**是居住在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet of Shar")中[尤格](Yurgir.md "Yurgir")房间内的[军团魔步兵](Merregon_Legionnaire.md "Merregon Legionnaire")和[商人](Trader.md "Trader")。它担任[奥隆](Orthon.md "Orthon")的[军需官](Quartermaster.md "Quartermaster")。
 
 ## 目录
 

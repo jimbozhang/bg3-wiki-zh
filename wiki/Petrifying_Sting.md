@@ -18,16 +18,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）（豁免成功：目标仍承受一半伤害。）
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_LOW_DevilsFee_Gold`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsSwarmAttack](https://bg3.wiki/w/index.php?title=IsSwarmAttack_\(spell_flag\)&action=edit&redlink=1) "IsSwarmAttack \(spell flag\) \(page does not exist\)")`
-
 ## 状态：玛门的掌控
 
 **[玛门的掌控](Mammon's_Hold_(Condition).md "玛门的掌控 (状态)")**

@@ -24,16 +24,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_SHA_Justiciar_BeckoningDarkness`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：召唤黑暗
 
 **[召唤黑暗](Beckoning_Darkness_(Condition).md "召唤黑暗 (状态)")**

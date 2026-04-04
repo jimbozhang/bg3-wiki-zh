@@ -28,16 +28,6 @@
 - [升环施法](Upcasting.md "升环施法")：当你使用3级或4级法术位施放此法术时，伤害增加至3d8[心灵](Psychic.md "心灵")。
 - [升环施法](Upcasting.md "升环施法")：当你使用5级或6级法术位施放此法术时，伤害增加至4d8[心灵](Psychic.md "心灵")。
 
-## 技术细节
-
-UID
-
-`Shout_ShadowBlade_Class`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag\>).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag\>).md)`, `[IsSpell](IsSpell_(spell_flag\>).md)`
-
 ## 物品：破影利刃（武器）
 
 [破影利刃](Shadow_Blade_(weapon).md "破影利刃（武器）") – 持续时间：直至[长休](Long_Rest.md "长休")

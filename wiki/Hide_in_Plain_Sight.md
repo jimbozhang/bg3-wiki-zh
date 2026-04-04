@@ -18,16 +18,6 @@
 范围：自身
 持续时间：直至[长休](Long_Rest.md "Long rest")
 
-## 技术细节
-
-UID
-
-`Shout_HideInPlainSight`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 状态：环境融合
 
 **[环境融合](Hide_in_Plain_Sight_(Condition).md "Hide in Plain Sight (Condition)")**

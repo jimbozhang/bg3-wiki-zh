@@ -19,16 +19,6 @@
 充能：[短休](短休.md "短休")
 持续时间：5 驱散
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Harpers_SingingSword_Sing`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：歌唱之剑：吟唱
 
 **[歌唱之剑：吟唱](歌唱之剑_colon__吟唱_(状态).md "歌唱之剑：吟唱 (状态)")**

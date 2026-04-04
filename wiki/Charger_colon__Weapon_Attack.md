@@ -23,16 +23,6 @@
 范围：9米（30英尺）
 目标：冲锋路径上的第一个生物或物体
 
-## 技术细节
-
-UID
-
-`Rush_Charger_Attack`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 由特性授予：

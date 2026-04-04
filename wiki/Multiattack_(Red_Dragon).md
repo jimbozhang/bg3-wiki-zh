@@ -25,16 +25,6 @@
 范围：4 米（13 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Dragon`
-
-法术标志
-
-`[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell flag\) \(page does not exist\)")`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：燃烧
 
 **[燃烧](Burning_(Condition).md "燃烧（状态）")**

@@ -20,26 +20,6 @@
 目标：锥形区域内的所有生物
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Zone_TAD_MindBlast`
-
-部分灵吸怪版本，具有每次长休冷却
-
-`Zone_MF_MindBlast`
-
-完整灵吸怪版本，具有每次回合冷却
-
-`Zone_MindBlast_MindFlayer`
-
-NPC版本，无冷却
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：震慑
 
 **[震慑](Stunned_(Condition).md "震慑（状态）")**

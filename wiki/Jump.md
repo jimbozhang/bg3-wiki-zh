@@ -17,16 +17,6 @@
 详情
 范围：4.5米（15英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_Jump`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell flag\) \(page does not exist\)")`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 备注
 
 - **跳跃**的基础范围为4.5米（15英尺），每超过10点[力量](Strength.md "力量")2点，范围增加1米（3英尺）。

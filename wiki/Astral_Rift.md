@@ -20,16 +20,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_OpenGate`
-
-法术标志
-
-`[Invisible](Invisible_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 赋予
 
 - [跨位面召唤](Extraplanar_Summons.md "Extraplanar Summons")

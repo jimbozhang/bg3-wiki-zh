@@ -1,26 +1,14 @@
 # 共鸣水晶
 
-## 共鸣水晶
-
-- 游戏内
-
-- 模型
-
-- 肖像画
-
-- 平衡
-
-## 平衡难度属性
-
-### 生命值
-
-25
+| | |
+| --- | --- |
+| 生命值 | 25 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - - - - - - ## 状态
 
-- [**强韧**](Sturdy_(Condition).md "Sturdy (Condition)")
+- [强韧](Sturdy_(Condition).md "Sturdy (Condition)")
 
   - 这种材料相当坚固。只有造成至少10点伤害的攻击才能对其造成伤害。
 

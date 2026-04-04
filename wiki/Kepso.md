@@ -1,185 +1,18 @@
 # Kepso
 
-## Kepso
-
-- In-game
-- Portrait
-
-### Identity
-
-Male
-
-### Voice / Actor
-
-- [Danny Rahim](https://www.imdb.com/name/nm3281039/)
-
-### Faction
-
-[焰拳](Flaming_Fist.md "Flaming Fist")
-
-## Stats
-
-### Size
-
-[中级](Medium.md "Medium")
-
-### Type
-
-[类人生物](Humanoid.md "Humanoid")
-
-### Race
-
-[人类](Human.md "Human")
-
-### Archetype
-
-[焰拳镰钩手](Flaming_Fist_Guisarmier.md "Flaming Fist Guisarmier")
-
-### Class
-
-[战士](Fighter.md "Fighter")
-
-- Balanced
-
-- Explorer
-
-- Tactician
-
-## Balanced Difficulty Stats
-
-### Level
-
-8
-
-### HP
-
-62
-
-### AC
-
-16
-
-### Initiative
-
-+1
-
-### Proficiency
-
-+3
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-75 kg (150 lb)
-
-### Darkvision
-
-0 m (0 ft)
-
-### XP reward
-
-200
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
-
-## Additional Resources
-
-- 5
-
-## Features
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-Can make an additional attack after an unarmed or weapon attack.
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-When rolling [双手](Two-Handed.md "Two-Handed") melee damage, any die rolling 1 or 2 is rerolled once.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-[优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack rolls") within 3 m / 10 ft of an ally with a shield who isn't [失能](Incapacitated_(Condition)..md)
-
-- [**反击**](Riposte_(passive_feature).md "Riposte (passive feature)")
-
-Upon being missed with a melee attack, can expend a [卓越骰子](Superiority_Die.md "Superiority Die") to retaliate.
-
-## Explorer Difficulty Stats
-
-### Level
-
-8
-
-### HP
-
-59
-
-### AC
-
-16
-
-### Initiative
-
-+1
-
-### Proficiency
-
-+5
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-75 kg (150 lb)
-
-### Darkvision
-
-0 m (0 ft)
-
-### XP reward
-
-200
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +8 | +1 | +7 | 0 | +1 | -1 |
-
-## Additional Resources
-
-- 5
-
-## Features
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-Can make an additional attack after an unarmed or weapon attack.
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-When rolling [双手](Two-Handed.md "Two-Handed") melee damage, any die rolling 1 or 2 is rerolled once.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-[优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack rolls") within 3 m / 10 ft of an ally with a shield who isn't [失能](Incapacitated_(Condition)..md)
-
-- [**反击**](Riposte_(passive_feature).md "Riposte (passive feature)")
-
-Upon being missed with a melee attack, can expend a [卓越骰子](Superiority_Die.md "Superiority Die") to retaliate.
+| | |
+| --- | --- |
+| 身份 | Male |
+| 配音 | - [Danny Rahim](https://www.imdb.com/name/nm3281039/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 8 |
+| 生命值 | 62 |
+| 护甲等级 | 16 |
+| 先攻 | +1 |
+| 移动速度 | 9 m (30 ft) |
+| 经验值 | 200 |
 
 ## Tactician Difficulty Stats
 
@@ -222,56 +55,6 @@ Upon being missed with a melee attack, can expend a [卓越骰子](Superiority_D
 | Ability scores | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
-
-## Additional Resources
-
-- 5
-
-## Features
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-Can make an additional attack after an unarmed or weapon attack.
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-When rolling [双手](Two-Handed.md "Two-Handed") melee damage, any die rolling 1 or 2 is rerolled once.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-[优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack rolls") within 3 m / 10 ft of an ally with a shield who isn't [失能](Incapacitated_(Condition)..md)
-
-- [**反击**](Riposte_(passive_feature).md "Riposte (passive feature)")
-
-Upon being missed with a melee attack, can expend a [卓越骰子](Superiority_Die.md "Superiority Die") to retaliate.
-
-## Technical
-
-###
-
-UID
-
-`S_WYR_South_Guard_002` ###
-
-UUID
-
-`2df4c38e-db78-4a08-b78f-68882ef55a6c` ###
-
-Stats
-
-`FlamingFist_Human_Melee_Attacker` **Fist Kepso** is a [人类](Human.md "Human") [战士](Fighter.md "Fighter") and a member of the [焰拳](Flaming_Fist.md "Flaming Fist"). He can be found in [利文顿](Rivington.md "Rivington") in [Act Three](Act_Three.md "Act Three").
-
-> “
->
-> Wail all you want - we've got enough mouths to feed. We don't need your kind.
->
-> „
-
-— Kepso, to Horys Crysst
 
 ## Contents
 

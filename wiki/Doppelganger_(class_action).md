@@ -14,16 +14,6 @@
 范围：自身
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Shout_Shapechanger_Doppelganger`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：变形
 
 **[变形](Shapechanged_(Condition).md "变形 (状态)")**

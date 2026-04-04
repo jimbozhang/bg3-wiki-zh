@@ -32,16 +32,6 @@
 
 [升环施法](Upcasting.md "升环施法")：\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕（诱捕打击）（状态）") 状态每环额外造成 1d6⁠⁠[穿刺](Piercing.md "穿刺") 伤害。
 
-## 技术细节
-
-UID
-
-`Target_EnsnaringStrike`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：诱捕（诱捕打击）
 
 **\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕（诱捕打击）（状态）")**

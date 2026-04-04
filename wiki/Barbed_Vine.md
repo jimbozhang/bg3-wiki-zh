@@ -18,16 +18,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 范围：6 米（20 英尺）
 
-## 技术细节
-
-UID
-
-`Target_BarbedVine_DarkVine`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 被以下生物使用：[幽影潜行者](Shadow_Creeper.md "幽影潜行者")

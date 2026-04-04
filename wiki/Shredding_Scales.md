@@ -19,18 +19,6 @@
 范围：3米（10英尺）半径
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Shout_DiamondScalesBurst_Bulette`
-
-由反应触发的动作
-
-`Interrupt_DiamondScalesBurst_Bulette`
-
-触发动作的反应
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血（状态）")**

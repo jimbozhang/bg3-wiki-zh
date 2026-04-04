@@ -14,12 +14,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_CRE_MAG_Githborn_Aberrations_Hunt`
-
 ## 状态：长年怀恨
 
 **[长年怀恨](Ancient_Grudges_(Condition).md "长年怀恨 (状态)")**

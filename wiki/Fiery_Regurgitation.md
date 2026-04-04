@@ -21,16 +21,6 @@
 创建区域：火焰
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_Belch_Fire_Brewer`
-
-法术标志
-
-`[忽略沉默](IgnoreSilence_(spell_flag).md)`, `[是敌方法术](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(页面不存在\)")`, `[是有害的](IsHarmful_(spell_flag).md)`
-
 ## 状态：中度醉酒
 
 **[中度醉酒](Moderately_Inebriated_(Condition).md "中度醉酒（状态）")**

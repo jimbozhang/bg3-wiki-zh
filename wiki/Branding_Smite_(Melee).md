@@ -27,16 +27,6 @@
 
 每提升一个环位，额外造成1d6⁠⁠[光耀](Radiant.md "Radiant")伤害。
 
-## 技术细节
-
-UID
-
-`Target_Smite_Branding`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：印记斩
 
 **[印记斩](Branding_Smite_(Condition).md "Branding Smite (Condition)")**

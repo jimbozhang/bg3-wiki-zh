@@ -25,16 +25,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高法术位施放此法术时，每比2环高一环，额外造成2d4⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 
-## 技术细节
-
-UID
-
-`Target_LOW_BhaalCultist_CloudOfDaggers`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 区域：残暴匕首之云
 
 **[残暴匕首之云](Murderous_Cloud_of_Daggers_(area).md "残暴匕首之云 (区域)")**

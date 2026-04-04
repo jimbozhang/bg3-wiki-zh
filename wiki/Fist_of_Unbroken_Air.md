@@ -23,16 +23,6 @@
 
 在 9 级时，拥有[精通元素施法](Improved_Elemental_Casting.md "精通元素施法")，伤害增加至 4d10⁠[钝击](Bludgeoning.md "钝击")。
 
-## 技术细节
-
-UID
-
-`Target_FistOfUnbrokenAir`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 授予
 
 - [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")

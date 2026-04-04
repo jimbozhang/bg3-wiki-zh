@@ -22,16 +22,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：目标承受全额伤害，但不会被[妖火](Faerie_Fire_(Condition).md "妖火（状态）")标记。）
 射程：正常武器射程
 
-## 技术细节
-
-UID
-
-`Projectile_ArcaneShot_SeekingArrow`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：妖火
 
 **[妖火](Faerie_Fire_(Condition).md "妖火（状态）")**

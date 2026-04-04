@@ -1,149 +1,18 @@
 # 邦特·恰格雷
 
-## 邦特·恰格雷
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Frazer Blaxland](https://www.imdb.com/name/nm7257504/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-6
-
-### 护甲等级
-
-10
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-4
-
-### 护甲等级
-
-10
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-8
-
-### 护甲等级
-
-10
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_BaldursMouth_Wanderer_01` ###
-
-UUID
-
-`94043793-2bea-4a6c-8ef3-4bc9c72e0593` ###
-
-属性
-
-`Human_Commoner` **邦特·恰格雷**可以在[第三幕](Act_Three.md "Act Three")期间，在[下城区](Lower_City.md "Lower City")的[精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")附近区域找到。
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 1 |
+| 生命值 | 6 |
+| 护甲等级 | 10 |
+| 移动速度 | 9 米 (30 英尺) |
+
+**邦特·恰格雷**可以在[第三幕](Act_Three.md "Act Three")期间，在[下城区](Lower_City.md "Lower City")的[精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")附近区域找到。
 
 > “
 >

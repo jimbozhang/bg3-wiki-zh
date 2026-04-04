@@ -1,58 +1,12 @@
 # 马鲁斯·索姆
 
-## 马鲁斯·索姆
-
-莎尔的手术刀
-
-- 肖像画
-- 模型
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Sean Baker](https://www.imdb.com/name/nm0048917/)
-
-### 家族
-
-[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆") [侄子]<sup>[\[1\]](#cite_note-1)</sup>
-[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")
-[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")
-[伊索贝尔·索姆](Isobel_Thorm.md "伊索贝尔·索姆") (侄孙女)
-
-### 家乡
-
-[雷斯文小镇](Reithwin_Town.md "雷斯文小镇")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[不死生物](Undead.md "不死生物")
-
-### 种族
-
-[不死生物](Undead.md "不死生物")
-
-## 技术信息
-
-###
-
-UID
-
-`S_TWN_Hospital_Surgeon` ###
-
-UUID
-
-`e58b8b34-038b-4858-b817-c2a8096a9381` ###
-
-属性
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Sean Baker](https://www.imdb.com/name/nm0048917/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [不死生物](Undead.md "不死生物") |
+| 种族 | [不死生物](Undead.md "不死生物") |
 
 **马鲁斯**是[治疗中心](House_of_Healing.md "治疗中心")的亡灵主刀外科医生，[莎尔](Shar.md "莎尔")的扭曲追随者，也是索姆家族的成员。<sup>[\[2\]](#cite_note-2)</sup>
 

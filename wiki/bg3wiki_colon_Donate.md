@@ -21,7 +21,7 @@
 
 ## 捐赠者的匿名性缺失
 
-请注意，[**Ko-fi捐赠并非匿名**](https://help.ko-fi.com/hc/en-us/articles/12284014348189)：
+请注意，[Ko-fi捐赠并非匿名](https://help.ko-fi.com/hc/en-us/articles/12284014348189)：
 
 1. 您不是将钱发送给Ko-fi，而是通过Ko-fi界面发送到Taylan的PayPal账户。
 1. 在撰写本文时，Ko-fi支持PayPal和Stripe作为实际支付处理器。

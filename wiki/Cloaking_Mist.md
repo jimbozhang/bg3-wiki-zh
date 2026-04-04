@@ -11,12 +11,6 @@
 详情
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Shout_Invisibility_MistyEscape`
-
 ## 状态：隐形 (雾遁)
 
 **\_(状态)[隐形](Invisible_(Misty_Escape)_(Condition).md "隐形 (雾遁) (状态)")**

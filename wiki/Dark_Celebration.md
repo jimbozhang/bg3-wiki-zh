@@ -24,16 +24,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_SHA_Skeleton_DarkCelebration`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：不灭残酷
 
 **[不灭残酷](Undying_Cruelty_(Condition).md "不灭残酷 (状态)")**

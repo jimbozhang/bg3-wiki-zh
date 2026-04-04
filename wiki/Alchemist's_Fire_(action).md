@@ -18,16 +18,6 @@
 射程：30 米（100 英尺）
 创建区域：火焰
 
-## 技术细节
-
-UID
-
-`Projectile_PLA_FakeAlchemistFire`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：燃烧
 
 **[燃烧](Burning_(Condition).md "燃烧 (状态)")**

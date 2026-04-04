@@ -17,16 +17,6 @@
 创造区域：黑暗术
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_Darkness_Monk`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 区域：黑暗术
 
 **[黑暗术](Darkness_(cloud).md "黑暗术 (云)")**

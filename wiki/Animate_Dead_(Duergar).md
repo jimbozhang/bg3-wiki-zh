@@ -20,16 +20,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_UND_LoneDuergar_AnimateDead`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：复活的尸体
 
 | [力量](Strength.md "Strength") 16 (+3) | [敏捷](Dexterity.md "Dexterity") 6 (-2) | [体质](Constitution.md "Constitution") 16 (+3) | [智力](Intelligence.md "Intelligence") 13 (+1) | [感知](Wisdom.md "Wisdom") 6 (-2) | [魅力](Charisma.md "Charisma") 5 (-3) |

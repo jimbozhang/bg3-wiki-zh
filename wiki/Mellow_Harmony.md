@@ -15,16 +15,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：10 [驱散](Turn.md "驱散")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Harpers_HarmonizingRapier_Perfrom`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：调谐
 
 **[调谐](Harmonised_(Condition).md "调谐 (状态)")**

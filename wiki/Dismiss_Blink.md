@@ -6,16 +6,6 @@
 
 提前解除 [闪现](Blink.md "闪现") 的效果。
 
-## 技术细节
-
-UID
-
-`Shout_Blink_Dismiss`
-
-法术标志
-
-`[Temporary](Temporary_(spell_flag\>).md)`
-
 ## 如何学习
 
 由法术授予：

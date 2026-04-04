@@ -13,14 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Interrupt_GuidedStrike`
-
-`Shout_GuidedStrike`
-
 ## 学习方式
 
 职业：

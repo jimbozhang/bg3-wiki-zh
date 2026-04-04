@@ -17,16 +17,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_MAG_ElementalWeapon_Lightning`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：元素武器：闪电
 
 **[元素武器：闪电](Elemental_Weapon_colon__Lightning_(Condition).md "元素武器：闪电（状态）")**

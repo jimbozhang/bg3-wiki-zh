@@ -13,12 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_MetalCoating_Myrmidon_Earth`
-
 ## 状态：钢铁转化
 
 **[钢铁转化](Transmuted_To_Steel_(Condition).md "钢铁转化 (状态)")**

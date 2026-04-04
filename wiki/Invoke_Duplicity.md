@@ -19,16 +19,6 @@
 
 持续时间：10驱散
 
-## 技术细节
-
-UID
-
-`Target_InvokeDuplicity`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 如何习得
 
 职业：

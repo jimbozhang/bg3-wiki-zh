@@ -21,22 +21,6 @@
 创造区域：火焰
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_MAG_Legendary_HellCrawler`
-
-传送动作
-
-`Projectile_MAG_Infernal_MistyStep_Fireball`
-
-传送后触发的爆炸
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 区域：火焰
 
 **[火焰](Fire_(surface).md "火焰（地表）")**

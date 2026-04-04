@@ -15,16 +15,6 @@
 范围效果：3米（10英尺）半径
 充能：[短休](Short_rest.md "Short rest")
 
-## 技术细节
-
-UID
-
-`Shout_MOO_MAG_Ketheric_HowlOfTheDead`
-
-法术标志
-
-`[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：麻木
 
 **[麻木](Numbed_(Condition).md "Numbed (Condition)")**

@@ -18,16 +18,6 @@
 远程武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_MAG_Automaton_LightTagging_Shot`
-
-法术标志
-
-`[CanDualWield](https://bg3.wiki/w/index.php?title=CanDualWield_\(spell_flag\)&action=edit&redlink=1) "CanDualWield \(spell_flag\) \(页面不存在\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell_flag\) \(页面不存在\)")`
-
 ## 状态：光耀法球
 
 **[光耀法球](Radiating_Orb_(Condition).md "光耀法球 (状态)")**

@@ -28,16 +28,6 @@
 - 德鲁伊等级 8 或驯兽师伙伴等级 11 时，额外 +1d6⁠[穿刺](Piercing.md "穿刺")（[神速鸦](Corvus_Celer.md "神速鸦")）
 - 德鲁伊等级 12 时，额外 +1d8⁠[穿刺](Piercing.md "穿刺")
 
-## 技术细节
-
-UID
-
-`Target_RendVision_Raven_Summon`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：目盲
 
 **[目盲](Blinded_(Condition).md "目盲 (状态)")**

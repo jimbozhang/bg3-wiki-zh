@@ -14,12 +14,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_Fiendish_Resilience_Radiant`
-
 ## 状态：邪魔体魄：光耀
 
 **[邪魔体魄：光耀](Fiendish_Resilience_colon__Radiant_(Condition).md "邪魔体魄：光耀 (状态)")**

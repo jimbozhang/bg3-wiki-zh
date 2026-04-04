@@ -23,16 +23,6 @@
 目标：由[目标协议](Targeting_Protocol_colon__Hellfire_Missiles.md "目标协议：地狱火飞弹")选择的24个随机点
 创造区域：地狱火
 
-## 技术细节
-
-UID
-
-`ProjectileStrike_SteelWatcher_Quadruped_HellfireMissiles`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell flag\) \(page does not exist\)")`
-
 ## 区域：地狱火
 
 **[地狱火](Hellfire.md "地狱火")**

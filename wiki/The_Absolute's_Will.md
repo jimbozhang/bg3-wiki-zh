@@ -15,16 +15,6 @@
 拉动距离：9 米（30 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_GOB_Priestess_Telekinesis_Pull`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 由生物使用：[古特](Gut.md "古特")

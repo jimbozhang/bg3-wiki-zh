@@ -13,16 +13,6 @@
 详情
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_HarmonyOfFireAndWater`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 如何习得
 
 职业：

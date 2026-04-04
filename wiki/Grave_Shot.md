@@ -29,42 +29,6 @@
 - 拥有[捕食者精华：5](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成21d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复20d10⁠⁠[治疗](Healing.md "治疗")。
 - 拥有[捕食者精华：6](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成25d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复24d10⁠⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-UID
-
-`Projectile_LOW_Houndmaster_GraveShot`
-
-无捕食者精华的基础版本
-
-`Projectile_LOW_Houndmaster_GraveShot_1`
-
-解锁1层精华的版本
-
-`Projectile_LOW_Houndmaster_GraveShot_2`
-
-解锁2层精华的版本
-
-`Projectile_LOW_Houndmaster_GraveShot_3`
-
-解锁3层精华的版本
-
-`Projectile_LOW_Houndmaster_GraveShot_4`
-
-解锁4层精华的版本
-
-`Projectile_LOW_Houndmaster_GraveShot_5`
-
-解锁5层精华的版本
-
-`Projectile_LOW_Houndmaster_GraveShot_6`
-
-解锁6层精华的版本
-
-法术标志
-
-`[DisplayInItemTooltip](https://bg3.wiki/w/index.php?title=DisplayInItemTooltip_\(spell_flag\)&action=edit&redlink=1) "DisplayInItemTooltip \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由生物使用：[训犬师波尔](Houndmaster_Pol.md "训犬师波尔")

@@ -22,16 +22,6 @@
 
 - [升环施法](Upcasting.md "Upcasting")：以更高的法术位等级施放此法术时，每比1环高一环，额外造成 1d8⁠⁠[雷鸣](Thunder.md "Thunder") 伤害。
 
-## 技术细节
-
-UID
-
-`Projectile_ChromaticOrb_Thunder`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 此法术是以下法术的变体：

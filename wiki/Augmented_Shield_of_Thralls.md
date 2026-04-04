@@ -20,16 +20,6 @@
 范围：9 米（30 英尺）
 目标：2 个盟友
 
-## 技术细节
-
-UID
-
-`Target_MF_ShieldOfThralls`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(法术标志\) \(页面不存在\)")`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(法术标志\) \(页面不存在\)")`
-
 ## 状态：易爆护盾
 
 **[易爆护盾](Volatile_Shield_(Condition).md "易爆护盾 (状态)")**

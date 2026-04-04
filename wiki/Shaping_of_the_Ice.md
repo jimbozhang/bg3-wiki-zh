@@ -13,16 +13,6 @@
 详情
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_ShapeTheFlowingRiver_IceBlock`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 物品：大冰块
 
 [大冰块](Ice_Cube.md "大冰块") – 持续时间：10驱散

@@ -11,12 +11,6 @@
 详情
 范围效果：9米（30英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_CatsAndDogs`
-
 ## 状态：狂野魔法：猫形态
 
 **[狂野魔法：猫形态](Wild_Magic_colon__Cat_Form_(Condition).md "狂野魔法：猫形态（状态）")**

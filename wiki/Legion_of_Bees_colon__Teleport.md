@@ -16,12 +16,6 @@
 
 在11级时，[强力蜂群](Mighty_Swarm.md "强力蜂群")会将此能力升级为[蜂群军团：强力传送](Legion_of_Bees_colon__Mighty_Teleport.md "蜂群军团：强力传送")，该能力额外提供持续1驱散的+2[护甲等级](Armour_Class.md "护甲等级")。
 
-## 技术细节
-
-UID
-
-`Target_GatheredSwarm_Bee_Teleport`
-
 ## 如何习得
 
 职业：

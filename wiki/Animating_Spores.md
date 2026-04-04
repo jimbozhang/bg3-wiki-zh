@@ -20,16 +20,6 @@
 目标：[怪兽](Monstrosity.md "怪兽")、[类人生物](Humanoid.md "Humanoid") 或 [野兽](Beast.md "Beast") 的尸体
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_AnimatingSpores`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：孢子仆从
 
 **[孢子仆从](Spore_Servant_(Condition).md "孢子仆从 (状态)")**

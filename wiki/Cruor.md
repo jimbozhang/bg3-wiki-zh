@@ -1,31 +1,10 @@
 # Cruor
 
-## Cruor
-
-奥林的管家
-
-- In-game
-- Portrait
-
-## Stats
-
-### Size
-
-[小型](Small.md "Small")
-
-### Type
-
-[邪魔](Fiend.md "Fiend")
-
-### Race
-
-[小魔鬼](Imp.md "Imp")
-
-- 平衡
-
-- 探索者
-
-- 硬核
+| | |
+| --- | --- |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [邪魔](Fiend.md "Fiend") |
+| 种族 | [小魔鬼](Imp.md "Imp") |
 
 ## 平衡难度 Stats
 
@@ -69,23 +48,9 @@
 
 - - - - - - ## Conditions
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 This creature is dead.
-
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-Can see in the dark, including magical darkness, up to 24 m (80 ft).
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
 
 ## 探索者难度 Stats
 
@@ -129,23 +94,9 @@ Attack an enemy moving out of reach.
 
 - - - - - - ## Conditions
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 This creature is dead.
-
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-Can see in the dark, including magical darkness, up to 24 m (80 ft).
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
 
 ## 硬核难度 Stats
 
@@ -189,39 +140,9 @@ Attack an enemy moving out of reach.
 
 - - - - - - ## Conditions
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 This creature is dead.
-
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-Can see in the dark, including magical darkness, up to 24 m (80 ft).
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
-
-## Technical
-
-###
-
-UID
-
-`S_LOW_BhaalTemple_ButlerOrin` ###
-
-UUID
-
-`c4197c67-9fbf-4ac3-8a24-7902ea573c68` ###
-
-Stats
-
-`Imp` **Cruor** is an imp that can be found dead in the Chosen's Room in the [Bhaal Temple](Bhaal_Temple.md "Bhaal Temple") within the [Undercity](Undercity.md "Undercity"). He was sent to [Orin](Orin.md "Orin") to become her butler but instead, she experimented on him leading to his death.
 
 ## Involvement
 

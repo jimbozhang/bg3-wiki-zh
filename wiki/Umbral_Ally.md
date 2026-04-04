@@ -20,16 +20,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_CreateShadow_Wraith`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 生物：暗影
 
 | [力量](Strength.md "Strength") 6 (-2) | [敏捷](Dexterity.md "Dexterity") 16 (+3) | [体质](Constitution.md "Constitution") 13 (+1) | [智力](Intelligence.md "Intelligence") 6 (-2) | [感知](Wisdom.md "Wisdom") 10 | [魅力](Charisma.md "Charisma") 8 (-1) |

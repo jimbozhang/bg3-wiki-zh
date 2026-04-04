@@ -16,16 +16,6 @@
 范围：自身
 充能：[短休](Short_rest.md "Short rest")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_ZOC_ImmovableShout`
-
-法术标志
-
-`[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：导力坚韧不拔
 
 **[导力坚韧不拔](Force_Steadfast_(Condition).md "Force Steadfast (Condition)")**

@@ -21,16 +21,6 @@
 射程：12米（40英尺）
 拉动距离：6米（20英尺）
 
-## 技术细节
-
-UID
-
-`Target_Tongue_Mimic`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：强酸
 
 **[强酸](Acid_(Condition).md "强酸 (状态)")**

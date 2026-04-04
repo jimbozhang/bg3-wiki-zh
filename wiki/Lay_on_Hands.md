@@ -15,16 +15,6 @@
 详情
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_LayOnHands`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 变体
 
 - [圣疗：治愈](Lay_on_Hands_colon__Cure.md "圣疗：治愈")

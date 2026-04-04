@@ -1,209 +1,38 @@
 # 受控红龙
 
-## 受控红龙
-
-吉斯洋基龙骑兵
-
-- 模型
-- 肖像画
-
-## 属性
-
-### 体型
-
-[巨型](Huge.md "Huge")
-
-### 类型
-
-[龙](Dragon.md "Dragon")
-
-### 种族
-
-[龙](Dragon.md "Dragon")
-
-- 平衡
-- 探索者
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-17
-
-### 生命值
-
-400
-
-### 护甲等级
-
-19
-
-### 先攻
-
-0
-
-### 熟练项
-
-+6
-
-### 施法DC
-
-17 (智力)
-
-### 重量
-
-6000 千克 (12000 磅)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 27 / (+8) | 10 / (0) | 25 / (+7) | 16 / (+3) | 13 / (+1) | 21 / (+5) |
+| | |
+| --- | --- |
+| 体型 | [巨型](Huge.md "Huge") |
+| 类型 | [龙](Dragon.md "Dragon") |
+| 种族 | [龙](Dragon.md "Dragon") |
+| 等级 | 17 |
+| 生命值 | 400 |
+| 护甲等级 | 19 |
+| 先攻 | 0 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- [**心灵受控**](Psychically_Dominated_(Condition).md "Psychically Dominated (Condition)")
+- [心灵受控](Psychically_Dominated_(Condition).md "Psychically Dominated (Condition)")
 
 - 这条龙正被耐色脑的心灵力量所控制。
-
-## 特性
-
-  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [**古龙鳞甲**](Great_Wyrm's_Scales.md "Great Wyrm's Scales")
-
-所有受到的伤害减少2点。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-17
-
-### 生命值
-
-280
-
-### 护甲等级
-
-19
-
-### 先攻
-
-0
-
-### 熟练项
-
-+8
-
-### 施法DC
-
-19 (智力)
-
-### 重量
-
-6000 千克 (12000 磅)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +8 | +6 | +13 | +3 | +7 | +11 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- [**心灵受控**](Psychically_Dominated_(Condition).md "Psychically Dominated (Condition)")
+- [心灵受控](Psychically_Dominated_(Condition).md "Psychically Dominated (Condition)")
 
 - 这条龙正被耐色脑的心灵力量所控制。
-
-## 特性
-
-  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-17
-
-### 生命值
-
-520
-
-### 护甲等级
-
-19
-
-### 先攻
-
-0
-
-### 熟练项
-
-+6
-
-### 施法DC
-
-19 (智力)
-
-### 重量
-
-6000 千克 (12000 磅)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 27 / (+8) | 10 / (0) | 25 / (+7) | 16 / (+3) | 13 / (+1) | 21 / (+5) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- [**心灵受控**](Psychically_Dominated_(Condition).md "Psychically Dominated (Condition)")
+- [心灵受控](Psychically_Dominated_(Condition).md "Psychically Dominated (Condition)")
 
 - 这条龙正被耐色脑的心灵力量所控制。
-
-## 特性
-
-  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [**巨龙鳞甲**](Greater_Wyrm's_Scales.md "Greater Wyrm's Scales")
-
-所有受到的伤害减少4点。
-
-- [**传奇动作：龙之狂怒**](Legendary_Action_colon__Draconic_Fury.md "Legendary Action: Draconic Fury")
-
-龙每回合可以使用一次吐息武器反击攻击者。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
 
 一条**受控红龙**可以在[耐色脑顶部](Confront_the_Elder_Brain.md#Atop_the_Netherbrain "与主脑对峙")遭遇，位于[第三幕](Act_Three.md "Act Three")。
 

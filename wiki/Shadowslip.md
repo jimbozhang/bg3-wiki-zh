@@ -16,16 +16,6 @@
 范围：18米（60英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_MistyEscape_ShadarKai_GloomWeaver`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 由生物使用：[影灵（类人生物）](Shadar-Kai.md "Shadar-Kai")

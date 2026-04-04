@@ -19,16 +19,6 @@
 范围效果：50米（167英尺）半径
 拉动：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Shout_CallOfTheDamned_Apostle`
-
-法术标志
-
-`[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒")

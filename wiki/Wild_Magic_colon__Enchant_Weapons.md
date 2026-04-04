@@ -11,12 +11,6 @@
 详情
 范围效果：6 米（20 英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Enchant`
-
 ## 状态：狂野魔法：武器附魔
 
 **[狂野魔法：武器附魔](Wild_Magic_colon__Enchant_Weapons_(Condition).md "狂野魔法：武器附魔（状态）")**

@@ -1,307 +1,50 @@
 # 马'利切
 
-## 巴尔的死亡牧首马'利切
-
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Madeleine Akua](https://www.imdb.com/name/nm12471663/)
-
-### 阵营
-
-[巴尔](Bhaal.md "巴尔")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-### 原型
-
-[巴尔的死亡牧首](Death's_Head_of_Bhaal.md "Death's Head of Bhaal")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-76
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+5
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 20 / (+5) | 20 / (+5) | 20 / (+5) | 14 / (+2) | 13 / (+1) | 16 / (+3) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Madeleine Akua](https://www.imdb.com/name/nm12471663/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 8 |
+| 生命值 | 76 |
+| 护甲等级 | 15 |
+| 先攻 | +5 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 250 |
 
 ## 状态
 
-- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-- [**不可撼动**](Unstoppable_(Condition).md "Unstoppable (Condition)")
+- [不可撼动](Unstoppable_(Condition).md "Unstoppable (Condition)")
 
 将下一次受到的伤害降低至 1 点，并消耗一层不可撼动。无法被外力移动。
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [谋杀渴求](Murder_Hungry.md "谋杀渴求")
-
-每次杀死一个生物，获得 1 层不可撼动。
-
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
-
-生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-53
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+5
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +5 | +5 | +5 | +2 | +1 | +3 |
 
 ## 状态
 
-- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-- [**不可撼动**](Unstoppable_(Condition).md "Unstoppable (Condition)")
+- [不可撼动](Unstoppable_(Condition).md "Unstoppable (Condition)")
 
 将下一次受到的伤害降低至 1 点，并消耗一层不可撼动。无法被外力移动。
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [谋杀渴求](Murder_Hungry.md "谋杀渴求")
-
-每次杀死一个生物，获得 1 层不可撼动。
-
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
-
-生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-98
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+5
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 5 | 5 | 4 |
 
 ## 状态
 
-- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-- [**不可撼动**](Unstoppable_(Condition).md "Unstoppable (Condition)")
+- [不可撼动](Unstoppable_(Condition).md "Unstoppable (Condition)")
 
 将下一次受到的伤害降低至 1 点，并消耗一层不可撼动。无法被外力移动。
 
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [谋杀渴求](Murder_Hungry.md "谋杀渴求")
-
-每次杀死一个生物，获得 1 层不可撼动。
-
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
-
-生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
-
-- [**哨兵：借机优势**](Sentinel_colon__Opportunity_Advantage.md "Sentinel: Opportunity Advantage")
-
-你对[借机攻击](Opportunity_Attack.md "Opportunity Attack")具有[优势](Advantage.md "Advantage")。
-
-- [**哨兵：诱捕**](Sentinel_colon__Snare.md "Sentinel: Snare")
-
-当你用[借机攻击](Opportunity_Attack.md "Opportunity Attack")命中一个生物时，它在本回合剩余时间内无法移动。
-
-- [**哨兵：复仇**](Sentinel_colon__Vengeance.md "Sentinel: Vengeance")
-
-当近战范围内的敌人攻击盟友时，你可以使用[反应](Reaction.md "Reaction")对该敌人进行一次武器攻击。目标盟友不得拥有哨兵专长。
-
-## 技术细节
-
-###
-
-UID
-
-`S_LOW_CountingHouse_Cultist_04` ###
-
-UUID
-
-`725e41cf-6e8c-4b64-be4d-6932c07b3d7b` ###
-
-属性
-
-`Human_Cultist_Bhaal_DeathsHead` **巴尔的死亡牧首马'利切**是[巴尔教团](Cult_of_Bhaal.md "Cult of Bhaal")的成员，可在[下城区](Lower_City.md "Lower City")的[清账屋](The_Counting_House.md "The Counting House")的高安全金库中找到。
+**巴尔的死亡牧首马'利切**是[巴尔教团](Cult_of_Bhaal.md "Cult of Bhaal")的成员，可在[下城区](Lower_City.md "Lower City")的[清账屋](The_Counting_House.md "The Counting House")的高安全金库中找到。
 
 ## 参与
 

@@ -14,12 +14,6 @@
 范围：自身
 充能：[短休](短休.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_Fiendish_Resilience_Bludgeoning`
-
 ## 状态：邪魔体魄：钝击
 
 **[邪魔体魄：钝击](邪魔体魄_colon__钝击_(状态).md "邪魔体魄：钝击 (状态)")**

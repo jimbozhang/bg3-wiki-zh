@@ -27,16 +27,6 @@
 击退：1.5米（5英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Owlbear`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

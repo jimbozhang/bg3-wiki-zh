@@ -20,16 +20,6 @@
 范围：3米（10英尺）半径
 创造区域：火焰
 
-## 技术细节
-
-UID
-
-`Projectile_EruptingCinder_Elemental_Fire`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`
-
 ## 区域：火焰
 
 **[火焰](Fire_(surface).md "火焰（地表）")**

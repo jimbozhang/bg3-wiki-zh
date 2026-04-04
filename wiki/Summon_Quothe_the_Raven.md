@@ -22,16 +22,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_MAG_FindFamiliar_Raven`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：科斯
 
 | [力量](Strength.md "力量") 2 (-4) | [敏捷](Dexterity.md "敏捷") 14 (+2) | [体质](Constitution.md "体质") 8 (-1) | [智力](Intelligence.md "智力") 2 (-4) | [感知](Wisdom.md "感知") 12 (+1) | [魅力](Charisma.md "魅力") 6 (-2) |

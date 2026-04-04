@@ -1,108 +1,21 @@
 # 君主
 
-## 君主
-
-- 过场动画
-- 模型
-- 肖像画
-
-### 声音 / 演员
-
-- [Scott Joseph](https://www.imdb.com/name/nm1517710/)
-
-### 角色
-
-[依附的追随者](Attached_Follower.md "依附的追随者")
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[异怪](Aberration.md "异怪")
-
-### 种族
-
-[夺心魔](Mind_flayer.md "夺心魔")
-
-## 技术数据
-
-###
-
-UID
-
-`S_GLO_Emperor` ###
-
-UUID
-
-`73d49dc5-8b8b-45dc-a98c-927bb4e3169b` ###
+| | |
+| --- | --- |
+| 配音 | - [Scott Joseph](https://www.imdb.com/name/nm1517710/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [异怪](Aberration.md "异怪") |
+| 种族 | [夺心魔](Mind_flayer.md "夺心魔") |
 
 属性
 
-`INT_Emperor` ## 变体 1
-
-###
-
-UID
-
-`S_GLO_Emperor_Dream1` ###
-
-UUID
-
-`16d9b440-d51c-469d-9739-2f4be068bdf1` ###
+属性
 
 属性
 
-`MindFlayer` ## 变体 2
-
-###
-
-UID
-
-`S_GLO_Emperor_Dream2` ###
-
-UUID
-
-`780fc58b-e9ec-42d7-9551-7e19f3b8902b` ###
-
 属性
 
-`MindFlayer` ## 变体 3
-
-###
-
-UID
-
-`S_GLO_Emperor_Dream3` ###
-
-UUID
-
-`271bfbb2-52a3-4f54-a766-5178057ed167` ###
-
-属性
-
-`MindFlayer` ## 变体 4
-
-###
-
-UID
-
-`S_GLO_Emperor_Dream4` ###
-
-UUID
-
-`bc39b001-3813-44d8-b5fc-47130b78b5ab` ###
-
-属性
-
-`MindFlayer` **君主**是出现在[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一个[夺心魔](Mind_flayer.md "夺心魔")。它<sup>[\[1\]](#cite_note-1)</sup>在主线故事中扮演关键角色，但其身份在游戏后期之前被有意隐藏，允许玩家角色最终自行决定是否想了解更多关于它的信息，以及它是否值得信任。
+**君主**是出现在[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一个[夺心魔](Mind_flayer.md "夺心魔")。它<sup>[\[1\]](#cite_note-1)</sup>在主线故事中扮演关键角色，但其身份在游戏后期之前被有意隐藏，允许玩家角色最终自行决定是否想了解更多关于它的信息，以及它是否值得信任。
 
 > “
 >

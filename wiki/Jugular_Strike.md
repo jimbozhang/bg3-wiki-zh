@@ -26,16 +26,6 @@
 - 在 8 等级时，此额外伤害变为 1d8⁠⁠[穿刺](Piercing.md "穿刺")。
 - 在 12 等级时，此额外伤害变为 1d10⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Target_JugularStrike_Panther`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[荒野形态：黑豹](Wild_Shape_colon__Panther.md "荒野形态：黑豹")、[荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger.md "荒野形态：剑齿虎")和[小法妖](Gremishka.md "小法妖")

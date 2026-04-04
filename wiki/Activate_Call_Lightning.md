@@ -23,16 +23,6 @@
 
 如果[召雷术](Call_Lightning.md "Call_Lightning")是使用 4 级或更高等级的法术位施放的，则每比 3 级法术位高一级，额外造成 1d10⁠⁠[闪电](Lightning.md "Lightning")伤害。
 
-## 技术细节
-
-UID
-
-`Target_CallLightning_LightningBolt`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 由法术授予：

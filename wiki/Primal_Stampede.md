@@ -24,16 +24,6 @@
 范围：9米（30英尺）直线
 目标：路径上所有非盟友生物
 
-## 技术细节
-
-UID
-
-`Rush_Primal_Stampede`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

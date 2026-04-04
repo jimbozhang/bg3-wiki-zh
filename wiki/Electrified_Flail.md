@@ -20,16 +20,6 @@
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_LightningStrike_Myrmidon_Air`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 状态：震慑
 
 **[震慑](Stunned_(Condition).md "震慑（状态）")**

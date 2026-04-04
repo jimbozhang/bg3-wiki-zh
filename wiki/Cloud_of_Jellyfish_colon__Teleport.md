@@ -15,12 +15,6 @@
 
 在11级时，[强力虫群](Mighty_Swarm.md "强力虫群")会将此能力升级为[云水母：强力传送](Cloud_of_Jellyfish_colon__Mighty_Teleport.md "云水母：强力传送")，该能力额外提供+2[护甲等级](Armour_Class.md "护甲等级")，持续1驱散。
 
-## 技术细节
-
-UID
-
-`Interrupt_GatheredSwarm_Jellyfish_Teleport`
-
 ## 如何学习
 
 职业：

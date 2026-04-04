@@ -14,16 +14,6 @@
 范围：自身
 作用区域：3米（10英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_SeeInvisibility_Seek`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`
-
 ## 状态：探测存在
 
 **[探测存在](Detecting_Presence_(Condition).md "探测存在（状态）")**

@@ -14,16 +14,6 @@
 近战：1.5米（5英尺）
 目标：训犬师波尔的尸体
 
-## 技术细节
-
-唯一标识符
-
-`Target_LOW_Dog_Ghost_Mourn`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[戈迪斯](Gordis.md "戈迪斯")、[洛奇](Rocky.md "洛奇")和[吉娜](Zina.md "吉娜")

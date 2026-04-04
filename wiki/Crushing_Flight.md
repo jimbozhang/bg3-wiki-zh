@@ -17,16 +17,6 @@
 范围：21米（70英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_Jump_Owlbear`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(页面不存在\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(页面不存在\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell_flag\) \(页面不存在\)")`, `[NoAOEDamageOnLand](https://bg3.wiki/w/index.php?title=NoAOEDamageOnLand_\(spell_flag\)&action=edit&redlink=1) "NoAOEDamageOnLand \(spell_flag\) \(页面不存在\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell_flag\) \(页面不存在\)")`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

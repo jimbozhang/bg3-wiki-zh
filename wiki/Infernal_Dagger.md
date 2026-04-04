@@ -24,16 +24,6 @@
 射程：正常武器射程
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_InfernalDagger`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：中毒
 
 **[中毒](Poisoned_(Condition).md "中毒 (状态)")**

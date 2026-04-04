@@ -1,60 +1,14 @@
 # 耶娜
 
-## 耶娜
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Rebecca Hanssen](https://www.imdb.com/name/nm5336712/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
 
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Rebecca Hanssen](https://www.imdb.com/name/nm5336712/)
-
-### 角色
-
-[营地追随者](Camp_Follower.md "营地追随者")
-
-### 家庭
-
-[格鲁布](Grub.md "格鲁布") (宠物)
-埃默里 (母亲，已故)
-
-### 家乡
-
-[利文顿](Rivington.md "利文顿")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类")
-
-## 技术
-
-###
-
-UID
-
-`S_GLO_Yenna` ###
-
-UUID
-
-`d496d903-d3d6-4314-a324-18542de77b0f` ###
-
-Stats
-
-`Human_Child` **耶娜**是一位[人类](Human.md "人类")，是潜在的[营地追随者](Camp_Follower.md "营地追随者")，与她的母亲和她的猫[格鲁布](Grub.md "格鲁布")一起居住在[利文顿](Rivington.md "Rivington")。
+**耶娜**是一位[人类](Human.md "人类")，是潜在的[营地追随者](Camp_Follower.md "营地追随者")，与她的母亲和她的猫[格鲁布](Grub.md "格鲁布")一起居住在[利文顿](Rivington.md "Rivington")。
 
 ## 目录
 

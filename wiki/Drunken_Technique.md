@@ -20,16 +20,6 @@
 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_DrunkenTechnique`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：醉拳技法
 
 **[醉拳技法](Drunken_Technique_(Condition).md "醉拳技法 (状态)")**

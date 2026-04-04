@@ -18,12 +18,6 @@
 近战 挥击 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_WYR_Fist_Gortash_ManifestationOfTyranny`
-
 ## 如何习得
 
 由以下生物使用：[暴虐化身](Manifestation_of_Tyranny.md "暴虐化身")

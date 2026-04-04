@@ -13,16 +13,6 @@
 详情
 范围：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_CommandersStrike`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 授予
 
 - [指挥官奇袭（攻击）](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）")

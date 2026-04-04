@@ -16,16 +16,6 @@
 范围：99 米（330 英尺）
 区域：12 米（40 英尺）半径
 
-## 技术细节
-
-UID
-
-`ProjectileStrike_WYR_LightningStrike_Spawner`
-
-法术标志
-
-`[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell_flag\) \(page does not exist\)")`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[安苏](Ansur.md "安苏")

@@ -22,22 +22,6 @@
 区域效果：3 米（10 英尺）半径
 创建区域：冰
 
-## 技术细节
-
-UID
-
-`Shout_DeathBurst_Chosen_IceMephit`
-
-触发爆炸的动作
-
-`Projectile_DeathBurst_Died_IceMephit`
-
-由动作触发的爆炸
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 区域：冰
 
 **[冰](Ice_(surface).md "冰（地表）")**

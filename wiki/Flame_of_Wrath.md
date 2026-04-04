@@ -26,16 +26,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_MAG_TheChromatic_FireAttunement`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](HasIsSpell_(spell_flag).md)`
-
 ## 状态：克雷斯卡的火焰擒握
 
 **[克雷斯卡的火焰擒握](Gripped_by_Kereska's_Flame_(Condition).md "克雷斯卡的火焰擒握（状态）")**

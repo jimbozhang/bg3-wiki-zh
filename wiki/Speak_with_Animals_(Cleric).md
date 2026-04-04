@@ -16,16 +16,6 @@
 范围：自身
 持续时间：直至 [长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_SpeakWithAnimals_KnowledgeCleric`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：动物交谈
 
 **[动物交谈](Speak_with_Animals_(condition).md "动物交谈 (状态)")**

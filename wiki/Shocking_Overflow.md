@@ -18,12 +18,6 @@
 范围：自身
 范围效果：5米（17英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_MixChangeExplosion_Lightning_Brewer`
-
 ## 状态：闪电酿造
 
 **[闪电酿造](Shocking_Brew_(Condition).md "闪电酿造（状态）")**

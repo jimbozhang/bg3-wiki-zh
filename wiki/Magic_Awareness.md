@@ -16,12 +16,6 @@
 目标：范围内的所有生物
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_MagicAwareness`
-
 ## 状态：魔法感知
 
 **[魔法感知](Magic_Awareness_(Condition).md "魔法感知（状态）")**

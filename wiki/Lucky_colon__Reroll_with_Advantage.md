@@ -11,12 +11,6 @@
 消耗
 [幸运](Lucky.md "幸运")
 
-## 技术细节
-
-UID
-
-`Interrupt_Lucky_RollAdditionalDie`
-
 ## 如何学习
 
 由以下特性授予：

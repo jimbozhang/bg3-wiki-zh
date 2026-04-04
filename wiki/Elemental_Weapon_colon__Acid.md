@@ -18,16 +18,6 @@
 
 - [升环施法](Upcasting.md "Upcasting")：使用 5级或 6级 [法术位](Spell_Slot.md "Spell Slot") 施放此法术时，[攻击掷骰](Attack_roll.md "Attack Roll") 加值将提高 1，并额外造成 1d4⁠⁠[强酸](Acid.md "Acid") 伤害。
 
-## 技术细节
-
-UID
-
-`Target_ElementalWeapon_Acid`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：元素武器：强酸
 
 **[元素武器：强酸](Elemental_Weapon_colon__Acid_(Condition).md "元素武器：强酸 (状态)")**

@@ -22,16 +22,6 @@
 射程：18米（60英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_MAG_Illithid_MindTax`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：临时生命值 (8)
 
 **\_(状态)[临时生命值](Temporary_Hit_Points_(8)_(Condition).md "临时生命值 (8)（状态）")**

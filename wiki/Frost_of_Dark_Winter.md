@@ -26,16 +26,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_MAG_TheChromatic_ColdAttunement`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：克雷斯卡之冰的导管
 
 **[克雷斯卡之冰的导管](Conduit_of_Kereska's_Ice_(Condition).md "克雷斯卡之冰的导管（状态）")**

@@ -21,16 +21,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_AuraOfVitality_Activate`
-
-法术标志
-
-`[Temporary](Temporary_(spell_flag).md)`
-
 ## 如何习得
 
 由以下法术授予：

@@ -14,16 +14,6 @@
 范围：3米（10英尺）
 充能：每2回合
 
-## 技术细节
-
-UID
-
-`Target_FOR_SpiderQueen_HatchEggs`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 生物：相位幼蛛
 
 | [力量](Strength.md "力量") 6 (-2) | [敏捷](Dexterity.md "敏捷") 8 (-1) | [体质](Constitution.md "体质") 6 (-2) | [智力](Intelligence.md "智力") 8 (-1) | [感知](Wisdom.md "感知") 4 (-3) | [魅力](Charisma.md "魅力") 4 (-3) |

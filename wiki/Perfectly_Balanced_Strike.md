@@ -19,16 +19,6 @@
 范围：普通武器范围
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_MAG_PHB_ScimitarOfSpeed_BonusAttack`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[Temporary](IsTemporary_(spell_flag).md)`
-
 ## 学习方式
 
 由物品提供：

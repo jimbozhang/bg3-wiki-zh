@@ -18,16 +18,6 @@
 [专注](Concentration.md "专注")
 持续时间：2 驱散
 
-## 技术细节
-
-UID
-
-`Shout_UND_Invisibility_ShadowOfMenzoberranzan`
-
-法术标志
-
-`[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 状态：隐形
 
 **[隐形](Invisible_(Condition).md "隐形（状态）")**

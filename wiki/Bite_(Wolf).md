@@ -20,16 +20,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Bite_Wolf`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由以下生物使用：[天狼座](Lupus.md "天狼座")、[天狼座](Lupus_Major.md "天狼座")、[天狼座](Lupus_Optumus.md "天狼座")和[座狼](Worg.md "座狼")

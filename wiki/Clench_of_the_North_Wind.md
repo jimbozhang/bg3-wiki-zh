@@ -19,16 +19,6 @@
 
 在等级9时，可定住最多2个类人生物。
 
-## 技术细节
-
-UID
-
-`Target_HoldPerson_Monk`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：人类定身术
 
 **[人类定身术](Hold_Person_(Condition).md "人类定身术 (状态)")**

@@ -14,12 +14,6 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：9米（30英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_Champion_Challenge`
-
 ## 状态：冠军勇士挑战
 
 **[冠军勇士挑战](Champion_Challenge_(Condition).md "冠军勇士挑战（状态）")**

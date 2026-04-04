@@ -14,16 +14,6 @@
 范围：自身
 重置：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_Fury_Gnoll_Boss`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 授予
 
 - [怒气冲天](Frenzied_Fury.md "怒气冲天")

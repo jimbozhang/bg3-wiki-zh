@@ -1,90 +1,17 @@
 # 萨德
 
-## 萨德
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Frazer Blaxland](https://www.imdb.com/name/nm7257504/)
-
-### 阵营
-
-[烈焰氏族](Clan_Flameshade.md "Clan Flameshade")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[灰矮人](Duergar.md "Duergar")
-
-### 职业
-
-[野蛮人](Barbarian.md "Barbarian")
-
-- 平衡
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-80
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 5 |
+| 生命值 | 80 |
+| 护甲等级 | 13 |
+| 先攻 | +1 |
+| 经验值 | 75 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -92,153 +19,13 @@
 
 - 3
 
-## 特性
-
-- [危机感知](Danger_Sense.md "危机感知")
-
-对陷阱、法术、地表的敏捷豁免具有优势。不能被目盲或失能。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [快速移动](Fast_Movement.md "快速移动")
-
-当不穿着[重甲](Heavy_Armour.md "Heavy Armour")时，你的[移动速度](Movement_speed.md "Movement Speed")增加 3 米 / 10 英尺。
-
-- [背水一战](Last_Stand.md "背水一战")
-
-在战斗中，当穿戴者在其回合开始时生命值为 50% [生命值](Hit_Points.md "Hit Points")或更低时，他们获得[怒火](Wrath_(Condition).md "Wrath (Condition)")，持续 2 回合。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-- [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
-
-近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最小值为 1 的[钝击](Bludgeoning.md "Bludgeoning")伤害。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-80
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +6 | +1 | +6 | 0 | +1 | +1 |
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 额外资源
 
 - 3
 
-## 特性
-
-- [危机感知](Danger_Sense.md "危机感知")
-
-对陷阱、法术、地表的敏捷豁免具有优势。不能被目盲或失能。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [快速移动](Fast_Movement.md "快速移动")
-
-当不穿着[重甲](Heavy_Armour.md "Heavy Armour")时，你的[移动速度](Movement_speed.md "Movement Speed")增加 3 米 / 10 英尺。
-
-- [背水一战](Last_Stand.md "背水一战")
-
-在战斗中，当穿戴者在其回合开始时生命值为 50% [生命值](Hit_Points.md "Hit Points")或更低时，他们获得[怒火](Wrath_(Condition).md "Wrath (Condition)")，持续 2 回合。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-- [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
-
-近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最小值为 1 的[钝击](Bludgeoning.md "Bludgeoning")伤害。
-
-## 技术
-
-###
-
-UID
-
-`S_UND_DuergarRebelGuard_03` ###
-
-UUID
-
-`baac0ae3-7b2e-47e6-85e4-579f70d4b4fa` ###
-
-Stats
-
-`UND_KC_Thudd` **萨德**是一名[烈焰氏族](Clan_Flameshade.md "Clan Flameshade")灰矮人野蛮人，可以在[复仇之炉](Grymforge.md "Grymforge")的[第一幕](Act_One.md "Act_One")中找到。
+**萨德**是一名[烈焰氏族](Clan_Flameshade.md "Clan Flameshade")灰矮人野蛮人，可以在[复仇之炉](Grymforge.md "Grymforge")的[第一幕](Act_One.md "Act_One")中找到。
 
 > “
 >

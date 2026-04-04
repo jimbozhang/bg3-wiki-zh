@@ -26,16 +26,6 @@
 
 [升环施法](Upcasting.md "升环施法")：此攻击的伤害增加 1d8⁠⁠[力场](Force.md "力场") 伤害，每比 2 环高 2 个法术位等级（用于施放 [灵体武器](Spiritual_Weapon.md "灵体武器")）。
 
-## 技术细节
-
-UID
-
-`Target_ConcussiveSmash_SpiritualWeapon_Maul`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：眩晕
 
 **[眩晕](Dazed_(Condition).md "眩晕 (状态)")**

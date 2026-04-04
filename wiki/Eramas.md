@@ -1,88 +1,18 @@
 # 厄拉马斯
 
-## 厄拉马斯
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Holly-Marie Michael](https://www.imdb.com/name/nm3997487/)
-
-### 阵营
-
-[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-### 亚种
-
-[阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-8
-
-### 护甲等级
-
-11
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Holly-Marie Michael](https://www.imdb.com/name/nm3997487/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 1 |
+| 生命值 | 8 |
+| 护甲等级 | 11 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 1 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -100,47 +30,21 @@
 
 攻击离开攻击范围的敌人。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 等级
+- ## 特性
 
-1
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 生命值
+可以在黑暗中看到一定距离。
 
-5
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-### 护甲等级
+对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
 
-11
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
+攻击离开攻击范围的敌人。
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -158,79 +62,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-10
-
-### 护甲等级
-
-11
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_DEN_TieflingRefugee_RangerTrader_001` ###
-
-UUID
-
-`637d8d68-2a04-409e-a77d-cf31ac9478ee` ###
-
-属性
-
-`Tiefling_Commoner` **厄拉马斯**是[第一幕](Act_One.md "Act One")中在[翠绿林地](Emerald_Grove.md "Emerald Grove")避难的提夫林难民之一。她正在[临时监狱](Makeshift_Prison.md "Makeshift Prison")入口处打包她的物品。
+**厄拉马斯**是[第一幕](Act_One.md "Act One")中在[翠绿林地](Emerald_Grove.md "Emerald Grove")避难的提夫林难民之一。她正在[临时监狱](Makeshift_Prison.md "Makeshift Prison")入口处打包她的物品。
 
 > “
 >

@@ -18,12 +18,6 @@
 范围：自身
 范围效果：5米（17英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_MixChangeExplosion_Acid_Brewer`
-
 ## 状态：腐蚀酿造
 
 **[腐蚀酿造](Caustic_Brew_(Condition).md "腐蚀酿造（状态）")**

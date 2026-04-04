@@ -20,16 +20,6 @@
 
 以此法术升环施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Contagion_FleshRot`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：疫病术中毒
 
 **[疫病术中毒](Contagion_Poisoned_(Condition).md "疫病术中毒 (状态)")**

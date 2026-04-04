@@ -18,16 +18,6 @@
 远程 非武装 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：14 米 (47 英尺)
 
-## 技术细节
-
-UID
-
-`Projectile_MudFling_MudMephit`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由生物使用：[泥魔蝠](Mud_Mephit.md "泥魔蝠")

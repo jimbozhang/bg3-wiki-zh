@@ -22,16 +22,6 @@
 [感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功：法术被抵消)
 射程：26米（87英尺）
 
-## 技术细节
-
-UID
-
-`Target_EPI_DivineViciousMockery`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：恶毒嘲笑
 
 **[恶毒嘲笑](Vicious_Mockery_(Condition).md "恶毒嘲笑（状态）")**

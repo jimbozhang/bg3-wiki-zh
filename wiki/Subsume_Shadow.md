@@ -14,22 +14,6 @@
 范围：自身
 区域效果：半径 14 米 (47 英尺)
 
-## 技术细节
-
-UID
-
-`Shout_SHA_Justiciar_UmbralFury`
-
-莎尔铁手神殿中不死生物审判十字军使用的版本
-
-`Shout_LOW_HouseOfGrief_UmbralFury`
-
-哀伤之邸中审判十字军使用的版本
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(页面不存在\)")`
-
 ## 赋予
 
 - [额外攻击](Extra_Attack.md "额外攻击")

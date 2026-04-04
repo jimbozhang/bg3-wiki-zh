@@ -28,18 +28,6 @@
 
 [升环施法](Upcasting.md "升环施法")：此攻击的伤害增加 1d8⁠⁠[力场](Force.md "力场") 伤害，每比 2 环高 2 级法术位施放 [灵体武器](Spiritual_Weapon.md "灵体武器") 时增加一次。
 
-## 技术细节
-
-UID
-
-`Target_PiercingThrust_SpiritualWeapon_Trident`
-
-`Target_PiercingThrust_SpiritualWeapon_Spear`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：开放伤口
 
 **[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")**

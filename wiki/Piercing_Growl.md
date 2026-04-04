@@ -18,16 +18,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功时：目标仍承受全额伤害。)
 范围：9米（30英尺）锥形
 
-## 技术细节
-
-UID
-
-`Zone_Slayer_DeathGrowl`
-
-法术标志
-
-`[有害](IsHarmful_(spell_flag).md)`, `[野兽形态](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "野兽形态 \(法术标志\) \(页面不存在\)")`
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血 (状态)")**

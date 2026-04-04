@@ -23,16 +23,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰"))
 射程：正常武器射程
 
-## 技术细节
-
-UID
-
-`Target_StunningStrike_Unarmed`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：震慑
 
 **[震慑](Stunned_(Condition).md "震慑（状态）")**

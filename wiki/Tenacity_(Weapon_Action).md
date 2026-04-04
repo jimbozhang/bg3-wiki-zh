@@ -16,12 +16,6 @@
 
 [力量调整值](Strength.md#Strength_modifier_chart "力量")[钝击](Bludgeoning.md "钝击")
 
-## 技术细节
-
-UID
-
-`Interrupt_Overwhelm`
-
 ## 学习方式
 
 通过熟练装备以下武器类型获得：

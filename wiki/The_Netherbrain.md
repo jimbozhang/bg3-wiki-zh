@@ -1,74 +1,17 @@
 # 耐色脑
 
-## 耐色脑
-
-至上真神
-
-- 图像
-- 模型
-- 肖像画
-
-### 声音 / 演员
-
-- [Cissy Jones](https://www.imdb.com/name/nm4047315/)
-
-## 属性
-
-### 体型
-
-[巨型](Huge.md "Huge")
-
-### 类型
-
-[异怪](Aberration.md "Aberration")
-
-### 种族
-
-[主脑](Elder_Brain.md "Elder Brain")
-
-## 技术
-
-###
-
-UID
-
-`Netherbrain` ###
-
-UUID
-
-`4e260805-35e8-4b8d-9af6-5f73cd1fc63c` ###
+| | |
+| --- | --- |
+| 配音 | - [Cissy Jones](https://www.imdb.com/name/nm4047315/) |
+| 体型 | [巨型](Huge.md "Huge") |
+| 类型 | [异怪](Aberration.md "Aberration") |
+| 种族 | [主脑](Elder_Brain.md "Elder Brain") |
 
 属性
 
-`Netherbrain` ## 变体 1
-
-###
-
-UID
-
-`S_END_MindBrain` ###
-
-UUID
-
-`f8bb04a3-22e5-41b0-aed7-5dcf852343d1` ###
-
 属性
 
-`END_Netherbrain` ## 变体 2
-
-###
-
-UID
-
-`S_END_MindBattleHelper` ###
-
-UUID
-
-`be50f7cd-c14a-4131-82d3-29337f3a4759` ###
-
-属性
-
-`END_Netherbrain_Face` **耐色脑**是一种体型庞大的[异怪](Aberration.md "Aberration")，作为游戏的最终首领。它是一个被古代[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")奴役并强化的[主脑](Elder_Brain.md "Elder Brain")，耐色脑是游戏的终极反派，其险恶计划推动了故事事件的发生。
+**耐色脑**是一种体型庞大的[异怪](Aberration.md "Aberration")，作为游戏的最终首领。它是一个被古代[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")奴役并强化的[主脑](Elder_Brain.md "Elder Brain")，耐色脑是游戏的终极反派，其险恶计划推动了故事事件的发生。
 
 > “
 >

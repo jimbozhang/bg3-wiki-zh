@@ -17,16 +17,6 @@
 充能：每场战斗
 持续时间：直至 [长休](Long_Rest.md "Long rest")
 
-## 技术细节
-
-UID
-
-`Target_RangersCompanion_GiantRangedSpider_NPC`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`
-
 ## 生物：魔宠：蜘蛛（射击蜘蛛伙伴）
 
 | [力量](Strength.md "Strength") 12 (+1) | [敏捷](Dexterity.md "Dexterity") 18 (+4) | [体质](Constitution.md "Constitution") 11 | [智力](Intelligence.md "Intelligence") 2 (-4) | [感知](Wisdom.md "Wisdom") 11 | [魅力](Charisma.md "Charisma") 4 (-3) |

@@ -23,16 +23,6 @@
 - 当[角色等级](Character_level.md "Character level")达到5级时，伤害增加至 2d12⁠⁠[中毒](Poison.md "Poison")。
 - 当角色等级达到10级时，伤害增加至 3d12⁠⁠[中毒](Poison.md "Poison")。
 
-## 技术细节
-
-UID
-
-`Projectile_PoisonSpray`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

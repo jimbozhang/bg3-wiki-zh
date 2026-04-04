@@ -13,30 +13,6 @@
 详情
 范围：18 米（60 英尺）
 
-## 技术细节
-
-UID
-
-`Target_MistyStep_Myrmidon_Air`
-
-`Target_MistyStep_Myrmidon_Earth`
-
-`Target_MistyStep_Myrmidon_Fire`
-
-`Target_MistyStep_Myrmidon_Water`
-
-`Target_MistyStep_Elemental_Air`
-
-`Target_MistyStep_Elemental_Earth`
-
-`Target_MistyStep_Elemental_Fire`
-
-`Target_MistyStep_Elemental_Water`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由以下生物使用：[风元素](Air_Elemental.md "风元素")、[风元素执政官](Air_Myrmidon.md "风元素执政官")、[土元素](Earth_Elemental.md "土元素")、[土元素执政官](Earth_Myrmidon.md "土元素执政官")、[火元素](Fire_Elemental.md "火元素")、[火元素执政官](Fire_Myrmidon.md "火元素执政官")、[水元素](Water_Elemental.md "水元素")和[水元素执政官](Water_Myrmidon.md "水元素执政官")

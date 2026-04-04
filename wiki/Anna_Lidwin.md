@@ -1,219 +1,27 @@
 # 安娜·丽德雯
 
-## 丽德雯姐妹
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [珍妮·德莱尼](https://www.imdb.com/name/nm9860537/)
-
-### 角色
-
-[商人](Trader.md "Trader")
-
-### 家乡
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [珍妮·德莱尼](https://www.imdb.com/name/nm9860537/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [不死生物](Undead.md "Undead") |
+| 种族 | [不死生物](Undead.md "Undead") |
+| 等级 | 6 |
+| 生命值 | 48 |
+| 护甲等级 | 13 |
+| 先攻 | +3 |
+| 移动速度 | 9 米 (30 英尺) |
 
 [治疗中心](House_of_Healing.md "House of Healing"), [雷斯文小镇](Reithwin_Town.md "Reithwin Town")
 
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[不死生物](Undead.md "Undead")
-
-### 种族
-
-[不死生物](Undead.md "Undead")
-
-### 原型
-
-[狂热助手](Zealous_Assistant.md "Zealous Assistant")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-6
-
-### HP
-
-48
-
-### AC
-
-13
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-65 千克 (130 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### XP 奖励
-
-90
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 14 / (+2) | 16 / (+3) | 12 / (+1) | 10 / (0) | 10 / (0) | 10 / (0) |
+## 抗性 [(info)](Resistances.md "Resistances")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-6
-
-### HP
-
-33
-
-### AC
-
-13
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-65 千克 (130 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### XP 奖励
-
-90
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +2 | +6 | +1 | 0 | 0 | 0 |
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-6
-
-### HP
-
-62
-
-### AC
-
-13
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-65 千克 (130 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### XP 奖励
-
-90
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 2 | 3 | 0 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- - ## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [永久武装](Permanently_Armed.md "永久武装")
-
-无法被缴械。
-
-## 技术信息
-
-###
-
-UID
-
-`S_TWN_Hospital_Reception_CorpseTender` ###
-
-UUID
-
-`64198bb1-d575-4b7b-bcf9-0c58d24020f1` ###
-
-属性
-
-`Surgeon_Nurse` **安娜·丽德雯**，也被称为**丽德雯姐妹**，是[第二幕](Act_Two.md "Act Two")中[治疗中心](House_of_Healing.md "House of Healing")的一位智能[狂热助手](Zealous_Assistant.md "Zealous Assistant")商人。
+**安娜·丽德雯**，也被称为**丽德雯姐妹**，是[第二幕](Act_Two.md "Act Two")中[治疗中心](House_of_Healing.md "House of Healing")的一位智能[狂热助手](Zealous_Assistant.md "Zealous Assistant")商人。
 
 > “
 >

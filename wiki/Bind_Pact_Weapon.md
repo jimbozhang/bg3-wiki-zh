@@ -19,12 +19,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_PactOfTheBlade_Bind`
-
 ## 状态：魔契武器
 
 **[魔契武器](Pact_Weapon_(Condition).md "魔契武器 (状态)")**

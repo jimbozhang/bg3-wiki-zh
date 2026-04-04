@@ -12,12 +12,6 @@
 范围：自身
 范围效果：18米（60英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_AspectOfTheElk`
-
 ## 状态：驼鹿面貌光环
 
 **[驼鹿面貌光环](Aspect_of_the_Elk_Aura_(Condition).md "驼鹿面貌光环（状态）")**

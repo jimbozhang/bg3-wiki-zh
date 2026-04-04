@@ -21,16 +21,6 @@
 射程：9 米 (30 英尺)
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_BadOmen_Raven`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：恐鸦诅咒
 
 **[恐鸦诅咒](Curse_of_the_Dire_Raven_(Condition).md "恐鸦诅咒 (状态)")**

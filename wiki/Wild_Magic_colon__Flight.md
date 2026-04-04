@@ -6,12 +6,6 @@
 
 你可以在驱散结束前[飞行](Fly_(class_action).md "飞行（职业动作）")。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Fly`
-
 ## 状态：飞行术
 
 **[飞行术](Flight_(Condition).md "飞行术（状态）")**

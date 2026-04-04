@@ -20,16 +20,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Bite_Dog_Ghost`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[戈迪斯](Gordis.md "戈迪斯")、[吉娜](Zina.md "吉娜") 和 [洛奇](Rocky.md "洛奇")

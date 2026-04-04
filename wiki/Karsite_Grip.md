@@ -24,16 +24,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Projectile_EnnervationRay`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreBlindness](https://bg3.wiki/w/index.php?title=RangeIgnoreBlindness_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreBlindness \(spell flag\) \(page does not exist\)")`
-
 ## 状态：眩晕
 
 **[眩晕](Dazed_(Condition).md "眩晕 (状态)")**

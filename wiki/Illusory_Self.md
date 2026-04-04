@@ -15,12 +15,6 @@
 详情
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Interrupt_IllusorySelf`
-
 ## 如何习得
 
 职业：

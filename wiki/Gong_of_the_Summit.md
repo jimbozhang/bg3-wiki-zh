@@ -23,16 +23,6 @@
 
 在 9 级并拥有 [精通元素施法](Improved_Elemental_Casting.md "精通元素施法") 时，伤害增加至 4d8⁠[雷鸣](Thunder.md "雷鸣")。
 
-## 技术细节
-
-UID
-
-`Target_Shatter_Monk`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 赠予
 
 - [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")

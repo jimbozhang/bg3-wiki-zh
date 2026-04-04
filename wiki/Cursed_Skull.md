@@ -1,120 +1,22 @@
 # 诅咒头骨
 
-## 诅咒头骨
-
-- 游戏内
-
-- 肖像画
-
-- 平衡
-
-## 平衡难度属性
-
-### 生命值
-
-12
-
-### 重量
-
-60 千克 (120 磅)
+| | |
+| --- | --- |
+| 生命值 | 12 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - - - - ## 状态
 
-- [**中级健壮**](Medium_Toughness_(Condition).md "中级健壮 (状态)")
+- [中级健壮](Medium_Toughness_(Condition).md "中级健壮 (状态)")
 
   - 此材质异常坚固。只有造成至少 22 点伤害的攻击才能对其造成伤害。
 
-- [**诅咒头骨**](Cursed_Skull_(Condition).md "诅咒头骨 (状态)")
+- [诅咒头骨](Cursed_Skull_(Condition).md "诅咒头骨 (状态)")
 
   - 此头骨被死灵力量诅咒，会发射 [雷鸣波](Thunderwave.md "雷鸣波")。
 
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_OskarsBeloved_Thunderwave_001_Caster` ###
-
-UUID
-
-`83f6f5fb-8382-4348-bcae-4d3c543bac9e` ###
-
-属性
-
-`LOW_OskarsBeloved_CursedSkull` ## 变体 1
-
-###
-
-UID
-
-`S_LOW_OskarsBeloved_Thunderwave_002_Caster` ###
-
-UUID
-
-`dee914e1-3452-450d-91f7-ed3429cf494f` ###
-
-属性
-
-`LOW_OskarsBeloved_CursedSkull` ## 变体 2
-
-###
-
-UID
-
-`S_LOW_OskarsBeloved_Thunderwave_003_Caster` ###
-
-UUID
-
-`1da5019d-31b7-4562-b3e1-e826ceceb140` ###
-
-属性
-
-`LOW_OskarsBeloved_CursedSkull` ## 变体 3
-
-###
-
-UID
-
-`S_LOW_OskarsBeloved_Thunderwave_004_Caster` ###
-
-UUID
-
-`b07d0d52-a819-41a1-8ecd-9322c1c2b2d6` ###
-
-属性
-
-`LOW_OskarsBeloved_CursedSkull` ## 变体 4
-
-###
-
-UID
-
-`S_LOW_OskarsBeloved_Thunderwave_005_Caster` ###
-
-UUID
-
-`11c871b7-59bf-4ae7-aa17-4b7a2ad20102` ###
-
-属性
-
-`LOW_OskarsBeloved_CursedSkull` ## 变体 5
-
-###
-
-UID
-
-`S_LOW_OskarsBeloved_Thunderwave_006_Caster` ###
-
-UUID
-
-`81a61e17-c4be-4fa3-8765-02852dc5fb58` ###
-
-属性
-
-`LOW_OskarsBeloved_CursedSkull` **诅咒头骨**可在 [迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "迦纳斯夫人的宅邸") 的上层找到。
+**诅咒头骨**可在 [迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "迦纳斯夫人的宅邸") 的上层找到。
 
 ## 涉及内容
 

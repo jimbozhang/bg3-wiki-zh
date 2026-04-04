@@ -24,16 +24,6 @@
 
 以此法术升环施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_HuntersMark_Reapply`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 状态：猎人印记猎物
 
 **[猎人印记猎物](Hunter's_Mark_Quarry_(Condition).md "猎人印记猎物 (状态)")**

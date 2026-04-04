@@ -21,16 +21,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Darkness`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 区域：黑暗术
 
 **[黑暗术](Darkness_(cloud).md "黑暗术（云）")**

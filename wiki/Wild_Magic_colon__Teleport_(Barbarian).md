@@ -16,12 +16,6 @@
 范围：18 米 (60 英尺) 半径
 充能：每 [驱散](Turn.md "驱散")
 
-## 技术细节
-
-UID
-
-`Shout_WildMagicBarbarian_Teleport_Activate`
-
 ## 状态：狂野魔法：传送 (野蛮人)
 
 **\_(状态)[狂野魔法：传送](Wild_Magic_colon__Teleport_(Barbarian)_(Condition).md "狂野魔法：传送 (野蛮人) (状态)")**

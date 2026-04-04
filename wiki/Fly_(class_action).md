@@ -15,40 +15,6 @@
 详情
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_Fly`
-
-`Projectile_Fly_Spell`
-
-`Projectile_Jump_Harpy`
-
-`Projectile_Jump_Imp`
-
-`Projectile_Jump_Mephit`
-
-`Projectile_Jump_Spectator`
-
-`Projectile_Fly_Dog_Ghost`
-
-`Projectile_Fly_Bat`
-
-`Projectile_Jump_Ghoul_Flying`
-
-`Projectile_Jump_AnimateDead_Ghoul_Flying`
-
-`Projectile_Jump_Cloaker`
-
-`Projectile_Jump_GiantEagle`
-
-`Projectile_Jump_Vampire_Bats`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell flag\) \(page does not exist\)")`, `[NoAOEDamageOnLand](https://bg3.wiki/w/index.php?title=NoAOEDamageOnLand_\(spell_flag\)&action=edit&redlink=1) "NoAOEDamageOnLand \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

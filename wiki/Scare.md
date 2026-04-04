@@ -16,12 +16,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：2回合
 
-## 技术细节
-
-UID
-
-`Target_Scare_Quasit_Summon`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "恐慌（状态）")**

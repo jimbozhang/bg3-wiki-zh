@@ -1,240 +1,47 @@
 # 杜尔维尔
 
-## 追踪者杜尔维尔
-
-至上真神学徒
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [George Taylor](https://www.imdb.com/name/nm4122118/)
-
-### 阵营
-
-[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-[小型](Small.md "Small")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[地精](Goblin.md "Goblin")
-
-### 原型
-
-[地精追踪者](Goblin_Tracker.md "Goblin Tracker")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-- 荣誉
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-7
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 8 / (-1) | 14 / (+2) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [George Taylor](https://www.imdb.com/name/nm4122118/) |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [地精](Goblin.md "Goblin") |
+| 等级 | 1 |
+| 生命值 | 7 |
+| 护甲等级 | 13 |
+| 先攻 | +2 |
+| 经验值 | 20 |
 
 ## 状态
 
-- [**醉酒**](Drunk_(Condition).md "Drunk (Condition)")
+- [醉酒](Drunk_(Condition).md "Drunk (Condition)")
 
 敏捷和魅力检定具有劣势。
 
-- [**沉睡**](Sleeping_(Condition).md "Sleeping (Condition)")
+- [沉睡](Sleeping_(Condition).md "Sleeping (Condition)")
 
 无法移动或行动，并自动在[力量](Strength.md "Strength")/[敏捷](Dexterity.md "Dexterity")豁免检定中失败。对其的攻击具有[优势](Advantage.md "Advantage")，且在近战距离内自动重击。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-4
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | -1 | +2 | 0 | 0 | -1 | -1 |
 
 ## 状态
 
-- [**醉酒**](Drunk_(Condition).md "Drunk (Condition)")
+- [醉酒](Drunk_(Condition).md "Drunk (Condition)")
 
 敏捷和魅力检定具有劣势。
 
-- [**沉睡**](Sleeping_(Condition).md "Sleeping (Condition)")
+- [沉睡](Sleeping_(Condition).md "Sleeping (Condition)")
 
 无法移动或行动，并自动在[力量](Strength.md "Strength")/[敏捷](Dexterity.md "Dexterity")豁免检定中失败。对其的攻击具有[优势](Advantage.md "Advantage")，且在近战距离内自动重击。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-9
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | -1 | 2 | -1 |
 
 ## 状态
 
-- [**醉酒**](Drunk_(Condition).md "Drunk (Condition)")
+- [醉酒](Drunk_(Condition).md "Drunk (Condition)")
 
 敏捷和魅力检定具有劣势。
 
-- [**沉睡**](Sleeping_(Condition).md "Sleeping (Condition)")
+- [沉睡](Sleeping_(Condition).md "Sleeping (Condition)")
 
 无法移动或行动，并自动在[力量](Strength.md "Strength")/[敏捷](Dexterity.md "Dexterity")豁免检定中失败。对其的攻击具有[优势](Advantage.md "Advantage")，且在近战距离内自动重击。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [小型之怒](Fury_of_the_Small.md "小型之怒")
-
-当你对体型大于你的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical")伤害。每场战斗限一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
 
 ## 荣誉难度属性
 
@@ -280,43 +87,15 @@
 
 ## 状态
 
-- [**醉酒**](Drunk_(Condition).md "Drunk (Condition)")
+- [醉酒](Drunk_(Condition).md "Drunk (Condition)")
 
 敏捷和魅力检定具有劣势。
 
-- [**沉睡**](Sleeping_(Condition).md "Sleeping (Condition)")
+- [沉睡](Sleeping_(Condition).md "Sleeping (Condition)")
 
 无法移动或行动，并自动在[力量](Strength.md "Strength")/[敏捷](Dexterity.md "Dexterity")豁免检定中失败。对其的攻击具有[优势](Advantage.md "Advantage")，且在近战距离内自动重击。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [小型之怒](Fury_of_the_Small.md "小型之怒")
-
-当你对体型大于你的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical")伤害。每场战斗限一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_GOB_Festivities_GoblinSleeper_01` ###
-
-UUID
-
-`494cd83b-2621-4e95-8629-f9df17e1ae5a` ###
-
-属性
-
-`Goblin_Ranger` **追踪者杜尔维尔**是[地精](Goblin.md "Goblin")，驻扎在[第一幕](Act_One.md "Act One")的[地精营地](Goblin_Camp.md "Goblin Camp")中。
+**追踪者杜尔维尔**是[地精](Goblin.md "Goblin")，驻扎在[第一幕](Act_One.md "Act One")的[地精营地](Goblin_Camp.md "Goblin Camp")中。
 
 > “
 >

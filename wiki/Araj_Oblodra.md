@@ -1,59 +1,12 @@
 # 阿拉吉·欧布罗扎
 
-## 阿拉吉·欧布罗扎
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Hanako Footman](https://www.imdb.com/name/nm5427256/)
-
-### 角色
-
-[商人](Trader.md "商人")
-
-### 家族
-
-魔索布莱城欧布罗扎家族（已消亡）
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")，
-⁠[魔索布莱城](https://forgottenrealms.fandom.com/wiki/Menzoberranzan) 位于 ⁠[北地幽暗地域](https://forgottenrealms.fandom.com/wiki/Northdark)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[卓尔](Drow.md "卓尔")
-
-### 亚种
-
-[罗丝誓约卓尔](Lolth-Sworn_Drow.md "罗丝誓约卓尔")
-
-### 职业
-
-[游荡者](Rogue.md "游荡者")
-
-- 平衡模式
-
-- 探索者模式
-
-- 硬核模式
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Hanako Footman](https://www.imdb.com/name/nm5427256/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [卓尔](Drow.md "卓尔") |
 
 ## 平衡模式难度属性
 
@@ -116,28 +69,6 @@
 | [人类](Human.md "人类") | [人类通才灵药](Elixir_of_Human_Versatility.md "人类通才灵药") |
 | [提夫林](Tiefling.md "提夫林") | [提夫林罪恶灵药](Elixir_of_Tiefling_Vice.md "提夫林罪恶灵药") |
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
-
-- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
-
-可以使用[反应](Reaction.md "反应")将即将到来的攻击伤害减半。
-
 ## 探索者模式难度属性
 
 ### 等级
@@ -180,28 +111,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 0 | +6 | +1 | +4 | 0 | +1 |
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
-
-- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
-
-可以使用[反应](Reaction.md "反应")将即将到来的攻击伤害减半。
-
 ## 硬核模式难度属性
 
 ### 等级
@@ -240,47 +149,9 @@
 
 110
 
-| 属性值 | 运动 | 体操 | 察觉技能 |
+| 属性值 | 运动 | 体操 | 察觉 |
 | --- | --- | --- | --- |
 |  | 0 | 3 | 0 |
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
-
-- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
-
-可以使用[反应](Reaction.md "反应")将即将到来的攻击伤害减半。
-
-## 技术信息
-
-###
-
-UID
-
-`S_MOO_InfernalVendor` ###
-
-UUID
-
-`511c9413-25fe-449c-a81d-4b09bc20745a` ###
-
-属性
-
-`MOO_InfernalVendor`
 
 **阿拉吉·欧布罗扎**是一位[卓尔](Drow.md "卓尔")[商人](Traders.md "商人")和血液炼金术士，可以在[月出之塔](Moonrise_Towers.md "月出之塔")和博德之门的[下城区](Lower_City.md "下城区")找到。除了她出售的物品外，她还提供独特的药水以换取血液样本，并要求与[阿斯代伦](Astarion.md "阿斯代伦")交谈。
 

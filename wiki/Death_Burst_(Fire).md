@@ -20,16 +20,6 @@
 区域效果：2 米（7 英尺）半径
 创建区域：火焰
 
-## 技术细节
-
-UID
-
-`Projectile_DeathBurst_MagmaMephit`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 区域：火焰
 
 **[火焰](Fire_(surface).md "火焰（地表）")**

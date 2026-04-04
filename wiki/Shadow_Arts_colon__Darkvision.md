@@ -17,16 +17,6 @@
 目标：自身或盟友
 持续时间：直至 [长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_Darkvision_Monk`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag\>).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag\>).md)`, `[IsMelee](IsMelee_(spell_flag\>).md)`
-
 ## 状态：高级黑暗视觉
 
 **[高级黑暗视觉](Darkvision_(Condition).md "高级黑暗视觉（状态）")**

@@ -1,60 +1,14 @@
 # 尤格
 
-## 尤格
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Stewart Scudamore](https://www.imdb.com/name/nm1270132/) |
+| 体型 | [Large](Large.md "Large") |
+| 类型 | [Fiend](Fiend.md "Fiend") |
+| 种族 | ⁠[血甲魔](https://forgottenrealms.fandom.com/wiki/Orthon) |
 
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Stewart Scudamore](https://www.imdb.com/name/nm1270132/)
-
-### 角色
-
-[Attached Follower](Attached_Follower.md "Attached Follower")
-
-### 家庭
-
-[内萨](Nessa.md "Nessa")（伴侣）
-
-### 家乡
-
-[阿弗纳斯](Avernus.md "Avernus")
-
-## 属性
-
-### 体型
-
-[Large](Large.md "Large")
-
-### 类型
-
-[Fiend](Fiend.md "Fiend")
-
-### 种族
-
-⁠[血甲魔](https://forgottenrealms.fandom.com/wiki/Orthon)
-
-## 技术
-
-###
-
-UID
-
-`S_GLO_Orthon` ###
-
-UUID
-
-`1dc8091d-2af6-4d33-9268-998ef266d19c` ###
-
-Stats
-
-`Orthon` **尤格**是一名血甲魔，一种来自九层地狱的强大[邪魔](Fiend.md "Fiend")。他和他的[军团魔](Merregon.md "军团魔")小队可以在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet_of_Shar")中找到，他们因与[拉斐尔](Raphael.md "Raphael")签订的契约而被困在那里。
+**尤格**是一名血甲魔，一种来自九层地狱的强大[邪魔](Fiend.md "Fiend")。他和他的[军团魔](Merregon.md "军团魔")小队可以在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet_of_Shar")中找到，他们因与[拉斐尔](Raphael.md "Raphael")签订的契约而被困在那里。
 
 > “
 >

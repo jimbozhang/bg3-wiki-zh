@@ -11,16 +11,6 @@
 消耗
 [动作](Actions.md#Resources "动作")
 
-## 技术细节
-
-UID
-
-`Target_HAG_ClearIllusion`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")

@@ -21,16 +21,6 @@
 充能：[短休](Short_rest.md "短休")
 必须[熟练](Proficiency.md#Weapon_proficiency "熟练项")使用该武器
 
-## 技术细节
-
-UID
-
-`Target_Topple`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

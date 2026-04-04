@@ -1,92 +1,18 @@
 # 格拉尼特达特
 
-## 拳手格拉尼特达特
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [克莱尔·莱西](https://www.imdb.com/name/nm3165161/)
-
-### 阵营
-
-[焰拳](Flaming_Fist.md "Flaming Fist")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[黄金矮人](Gold_Dwarf.md "Gold Dwarf")
-
-### 原型
-
-[焰拳镰钩手](Flaming_Fist_Guisarmier.md "Flaming Fist Guisarmier")
-
-### 职业
-
-[战士](Fighter.md "Fighter")
-
-- 平衡
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-63
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [克莱尔·莱西](https://www.imdb.com/name/nm3165161/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 8 |
+| 生命值 | 63 |
+| 护甲等级 | 16 |
+| 先攻 | +1 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 250 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -94,129 +20,13 @@
 
 - 5
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，且对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "Attack rolls")具有[优势](Advantage.md "Advantage")。
-
-- [**反击**](Riposte_(passive_feature).md "Riposte (passive feature)")
-
-当被近战攻击未命中时，可消耗一枚[卓越骰子](Superiority_Die.md "Superiority Die")进行反击。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-65
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +8 | +1 | +7 | 0 | +1 | -1 |
-
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - 5
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，且对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "Attack rolls")具有[优势](Advantage.md "Advantage")。
-
-- [**反击**](Riposte_(passive_feature).md "Riposte (passive feature)")
-
-当被近战攻击未命中时，可消耗一枚[卓越骰子](Superiority_Die.md "Superiority Die")进行反击。
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_BaldursGate_FlamingFist_Melee_002` ###
-
-UUID
-
-`7fbbdc48-5a94-4fc3-bf75-2bc9427d53b9` ###
-
-属性
-
-`FlamingFist_Dwarf_Melee_Attacker` **拳手格拉尼特达特**是一名[矮人](Dwarf.md "Dwarf") [战士](Fighter.md "Fighter")，也是[焰拳](Flaming_Fist.md "Flaming Fist")的成员。她可以在[下城区](Lower_City.md "Lower City")的[第三幕](Act_Three.md "Act Three")中找到。
+**拳手格拉尼特达特**是一名[矮人](Dwarf.md "Dwarf") [战士](Fighter.md "Fighter")，也是[焰拳](Flaming_Fist.md "Flaming Fist")的成员。她可以在[下城区](Lower_City.md "Lower City")的[第三幕](Act_Three.md "Act Three")中找到。
 
 > “
 >

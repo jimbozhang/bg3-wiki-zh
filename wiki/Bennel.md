@@ -1,280 +1,38 @@
 # 本内尔
 
-## 狂热信徒本内尔
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Stefan Chanyaem](https://www.imdb.com/name/nm9175408/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 8 |
+| 生命值 | 70 |
+| 护甲等级 | 18 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 140 |
 
-- 游戏内
-- 模型
-- 肖像画
+## 状态
 
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Stefan Chanyaem](https://www.imdb.com/name/nm9175408/)
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-### 职业
-
-守卫
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-### 原型
-
-[至上真神狂热信徒](Zealot_of_the_Absolute.md "Zealot of the Absolute")
-
-### 职业
-
-[圣武士](Paladin.md "Paladin")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-70
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
-## 特性
+## 状态
 
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "Disease")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-49
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +7 | +3 | +6 | +2 | +6 | +9 |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
-## 特性
+## 状态
 
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "Disease")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-91
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 4 | 0 | 0 |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
-## 特性
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "Disease")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术信息
-
-###
-
-UID
-
-`S_MOO_UpperGuard_001` ###
-
-UUID
-
-`3b5ad058-c872-4b1c-933b-2d8767b28aed` ###
-
-属性
-
-`MOO_ZealotOfTheAbsolute_Human` **狂热信徒本内尔**是一位经验丰富的[人类](Human.md "Human") [至上真神狂热信徒](Zealot_of_the_Absolute.md "Zealot of the Absolute")和军官<sup>[\[1\]](#cite_note-1)</sup>，出现在[第二幕](Act_Two.md "Act Two")。他可以在[月出之塔](Moonrise_Towers.md "Moonrise Towers")一楼东侧的阳台上找到。
+**狂热信徒本内尔**是一位经验丰富的[人类](Human.md "Human") [至上真神狂热信徒](Zealot_of_the_Absolute.md "Zealot of the Absolute")和军官<sup>[\[1\]](#cite_note-1)</sup>，出现在[第二幕](Act_Two.md "Act Two")。他可以在[月出之塔](Moonrise_Towers.md "Moonrise Towers")一楼东侧的阳台上找到。
 
 > “
 >

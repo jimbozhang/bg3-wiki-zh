@@ -16,16 +16,6 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
 射程：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_MAG_Legendary_CompelledDuel`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：强令对决
 
 **[强令对决](Compelled_to_Duel_(Condition).md "强令对决（状态）")**

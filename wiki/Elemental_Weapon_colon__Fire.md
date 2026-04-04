@@ -18,16 +18,6 @@
 
 - [升环施法](Upcasting.md "Upcasting")：使用 5 级或 6 级 [法术位](Spell_Slot.md "Spell Slot") 施放此法术，会使 [攻击掷骰](Attack_roll.md "Attack Roll") 加值提高 1，并额外造成 1d4⁠⁠[火焰](Fire.md "Fire") 伤害。
 
-## 技术细节
-
-UID
-
-`Target_ElementalWeapon_Fire`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：元素武器：火焰
 
 **[元素武器：火焰](Elemental_Weapon_colon__Fire_(Condition).md "元素武器：火焰 (状态)")**

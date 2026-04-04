@@ -23,16 +23,6 @@
 - 在[角色等级](Character_level.md "角色等级") 5时，伤害增加至2d10⁠⁠[火焰](Fire.md "火焰")。
 - 在角色等级 10时，伤害增加至3d10⁠⁠[火焰](Fire.md "火焰")。
 
-## 技术细节
-
-UID
-
-`Projectile_FireBolt`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 职业：

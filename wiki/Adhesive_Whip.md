@@ -16,18 +16,6 @@
 拉拽距离：15米（50英尺）
 目标：至少距离6米（20英尺）的1个敌人。
 
-## 技术细节
-
-UID
-
-`Target_ThornWhip_ShadowMound_ExtraRange`
-
-`Target_ThornWhip_ShadowMound`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

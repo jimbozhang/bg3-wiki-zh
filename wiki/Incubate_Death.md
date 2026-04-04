@@ -19,18 +19,6 @@
 射程：24米（80英尺）
 持续时间：直至[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_MOO_MasterOfSouls_SpawnDeathBloom`
-
-`Target_MOO_Ketheric_SpawnDeathBloom`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 生物：死灵侍僧
 
 | [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 11 | [体质](Constitution.md "体质") 15 (+2) | [智力](Intelligence.md "智力") 15 (+2) | [感知](Wisdom.md "感知") 7 (-2) | [魅力](Charisma.md "魅力") 6 (-2) |

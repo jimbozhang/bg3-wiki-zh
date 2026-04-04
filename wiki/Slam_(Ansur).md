@@ -22,16 +22,6 @@
 范围效果：3 米（10 英尺）半径
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Slam_Dragon_Skeletal`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

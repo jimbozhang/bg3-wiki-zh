@@ -20,16 +20,6 @@
 
 以此法术的更高环阶施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_DispelMagic`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 其他学习途径：

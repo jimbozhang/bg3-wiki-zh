@@ -23,16 +23,6 @@
 射程：正常武器射程
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_DivineStrike_Life_Container`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 变体
 
 - [神圣打击：光耀（近战）](Divine_Strike_colon__Radiant_(Melee).md "神圣打击：光耀（近战）")

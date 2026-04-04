@@ -1,83 +1,16 @@
 # 沙洛佛克·安基夫
 
-## 沙洛佛克·安基夫
-
-谋杀裁判所法官
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Redd Pepper](https://www.imdb.com/name/nm1005611/)
-
-### 阵营
-
-[巴尔](Bhaal.md "巴尔")
-
-### 家族
-
-[巴尔](Bhaal.md "Bhaal")（始祖）
-[奥林](Orin.md "Orin")（孙女，女儿）
-[海伦娜·安基夫](Helena_Anchev.md "Helena_Anchev")（女儿）
-[邪念](The_Dark_Urge.md "The Dark Urge")（亲属）
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-### 职业
-
-[战士](Fighter.md "Fighter")
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_MurderTribunal_Sarevok` ###
-
-UUID
-
-`ae9f784a-ea64-4297-95a7-8377e85231b6` ###
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Redd Pepper](https://www.imdb.com/name/nm1005611/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
 
 属性
 
-`LOW_Sarevok` ## 变体 1
-
-###
-
-UID
-
-`S_LOW_MurderTribunal_Sarevok` ###
-
-UUID
-
-`187952ff-f290-417d-8108-652d9bb61a52` ###
-
-属性
-
-`LOW_Sarevok` **沙洛佛克·安基夫**是一位传奇的[巴尔后裔](Bhaalspawn.md "Bhaalspawn")。他曾是《博德之门》的主要反派，并在《博德之门II：巴尔王座》中作为可能的伙伴出现。他可以在[谋杀裁判所](Murder_Tribunal.md "Murder Tribunal")中被找到，该地点位于[坎德哈洛墓碑店](Candulhallow's_Tombstones.md "Candulhallow's Tombstones")下方，发生在[第三幕](Act_Three.md "Act Three")期间。
+**沙洛佛克·安基夫**是一位传奇的[巴尔后裔](Bhaalspawn.md "Bhaalspawn")。他曾是《博德之门》的主要反派，并在《博德之门II：巴尔王座》中作为可能的伙伴出现。他可以在[谋杀裁判所](Murder_Tribunal.md "Murder Tribunal")中被找到，该地点位于[坎德哈洛墓碑店](Candulhallow's_Tombstones.md "Candulhallow's Tombstones")下方，发生在[第三幕](Act_Three.md "Act Three")期间。
 
 > “
 >

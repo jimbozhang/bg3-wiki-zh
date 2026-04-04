@@ -1,90 +1,18 @@
 # 维斯
 
-## 维斯
-
-至上真神学徒
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [David Monteith](https://www.imdb.com/name/nm4109548/)
-
-### 阵营
-
-[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[灰矮人](Duergar.md "Duergar")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-54
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [David Monteith](https://www.imdb.com/name/nm4109548/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 5 |
+| 生命值 | 54 |
+| 护甲等级 | 12 |
+| 先攻 | +1 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 75 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -114,47 +42,33 @@
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 等级
+- ## 特性
 
-5
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
-### 生命值
+对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-37
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-### 护甲等级
+对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-12
+- [额外攻击](Extra_Attack.md "额外攻击")
 
-### 先攻
+在徒手或武器攻击后可以进行一次额外攻击。
 
-+1
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 熟练项
+攻击离开攻击范围的敌人。
 
-+5
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-### 移动
+在阳光下时，[攻击掷骰](Attack_Roll.md "Attack Roll")和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
 
-7.5 米 (25 英尺)
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | +1 | +2 | 0 | +1 | +1 |
+可以在黑暗中看到 24 米 / 80 英尺。
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -184,91 +98,7 @@
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-70
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，[攻击掷骰](Attack_Roll.md "Attack Roll")和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 技术
-
-###
-
-UID
-
-`S_UND_CorpseDisposer_000` ###
-
-UUID
-
-`e63c75ba-8e0a-4292-a04a-a5d4c8a2816c` ###
-
-属性
-
-`UND_KC_Duergar_Melee` **维斯**在[复仇之炉](Grymforge.md "Grymforge")的[第一幕](Act_One.md "Act One")期间清理[地底侏儒](Deep_Gnome.md "Deep gnome")尸体。
+**维斯**在[复仇之炉](Grymforge.md "Grymforge")的[第一幕](Act_One.md "Act One")期间清理[地底侏儒](Deep_Gnome.md "Deep gnome")尸体。
 
 > “
 >

@@ -21,16 +21,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当此法术以4环或更高环级施放时，每比2环高两个法术位等级，伤害增加1d6⁠⁠[火焰](Fire.md "火焰")。
 
-## 技术细节
-
-UID
-
-`Shout_FlameBlade`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 物品：火焰刀（武器）
 
 [火焰刀](Flame_Blade_(weapon).md "火焰刀（武器）") – 持续时间：10回合

@@ -26,22 +26,6 @@
 
 在等级 10 时，拥有[精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")，伤害加成从 1d8 增加到 1d10。
 
-## 技术细节
-
-UID
-
-`Target_Riposte`
-
-由反应触发的攻击
-
-`Interrupt_Riposte`
-
-触发攻击的反应
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何学习
 
 职业：

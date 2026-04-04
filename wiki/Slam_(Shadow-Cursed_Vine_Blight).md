@@ -22,16 +22,6 @@
 近战 徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 范围：3米（10英尺）
 
-## 技术细节
-
-UID
-
-`Target_Slam_Blight_Vine`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[幽影诅咒枯藤怪](Shadow-Cursed_Vine_Blight.md "幽影诅咒枯藤怪")

@@ -18,16 +18,6 @@
 
 以此法术的更高环阶施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_ProtectionFromEnergy_Fire`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：防护能量伤害：火焰
 
 **[防护能量伤害：火焰](Protection_from_Energy_colon__Fire_(Condition).md "防护能量伤害：火焰 (状态)")**

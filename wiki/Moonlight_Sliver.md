@@ -1,245 +1,46 @@
 # 月光碎片
 
-## 月光碎片
-
-- 模型
-- 肖像画
-
-## 属性
-
-### 体型
-
-中级
-
-### 类型
-
-天界生物
-
-### 种族
-
-[天界生物](Celestial.md "天界生物")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-200
-
-### 护甲等级
-
-24
-
-### 先攻
-
-+7
-
-### 熟练项
-
-+4
-
-### 重量
-
-75 kg (150 lb)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 16 / (+3) | 14 / (+2) | 12 / (+1) | 14 / (+2) | 18 / (+4) |
+| | |
+| --- | --- |
+| 体型 | 中级 |
+| 类型 | 天界生物 |
+| 种族 | [天界生物](Celestial.md "天界生物") |
+| 等级 | 11 |
+| 生命值 | 200 |
+| 护甲等级 | 24 |
+| 先攻 | +7 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - ## 状态
 
-- [**银光烙印**](Brand_of_the_Silverlight_(Condition).md "银光烙印 (状态)")
+- [银光烙印](Brand_of_the_Silverlight_(Condition).md "银光烙印 (状态)")
 
 武器攻击造成 +5d8 [光耀](Radiant.md "光耀") 伤害。
 
-- [**月光军团**](Lunar_Legionary_(Condition).md "月光军团 (状态)")
+- [月光军团](Lunar_Legionary_(Condition).md "月光军团 (状态)")
 
 为所有盟友施加 [银光烙印](Brand_of_the_Silverlight_(Condition).md)，并为 18 m (60 ft) 范围内的所有敌人施加 [月光光耀](Lunar_Radiance_(Condition).md)。
 
-- [**塞伦涅之怒**](Sel%C3%BBne's_Ire_(Condition).md "塞伦涅之怒 (状态)")
+- [塞伦涅之怒](Sel%C3%BBne's_Ire_(Condition).md "塞伦涅之怒 (状态)")
 
 可以作为对攻击者的 [反应](Reaction.md "反应") 造成 12d12 [光耀](Radiant.md "光耀") 伤害。
-
-## 特性
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "疾病") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可以在徒手或武器攻击后进行一次额外攻击。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [永久武装](Permanently_Armed.md "永久武装")
-
-无法被缴械。
-
-- [**塞伦涅之怒**](Sel%C3%BBne's_Ire.md "塞伦涅之怒")
-
-可以作为对攻击者的 [反应](Reaction.md "反应") 造成 12d12 [光耀](Radiant.md "光耀") 伤害。
-
-## 探索者难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-139
-
-### 护甲等级
-
-24
-
-### 先攻
-
-+7
-
-### 熟练项
-
-+6
-
-### 重量
-
-75 kg (150 lb)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | +3 | +2 | +1 | +6 | +8 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - ## 状态
 
-- [**银光烙印**](Brand_of_the_Silverlight_(Condition).md "银光烙印 (状态)")
+- [银光烙印](Brand_of_the_Silverlight_(Condition).md "银光烙印 (状态)")
 
 武器攻击造成 +5d8 [光耀](Radiant.md "光耀") 伤害。
 
-- [**月光军团**](Lunar_Legionary_(Condition).md "月光军团 (状态)")
+- [月光军团](Lunar_Legionary_(Condition).md "月光军团 (状态)")
 
 为所有盟友施加 [银光烙印](Brand_of_the_Silverlight_(Condition).md)，并为 18 m (60 ft) 范围内的所有敌人施加 [月光光耀](Lunar_Radiance_(Condition).md)。
 
-- [**塞伦涅之怒**](Sel%C3%BBne's_Ire_(Condition).md "塞伦涅之怒 (状态)")
+- [塞伦涅之怒](Sel%C3%BBne's_Ire_(Condition).md "塞伦涅之怒 (状态)")
 
 可以作为对攻击者的 [反应](Reaction.md "反应") 造成 12d12 [光耀](Radiant.md "光耀") 伤害。
-
-## 特性
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "疾病") 效果。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [永久武装](Permanently_Armed.md "永久武装")
-
-无法被缴械。
-
-- [**塞伦涅之怒**](Sel%C3%BBne's_Ire.md "塞伦涅之怒")
-
-可以作为对攻击者的 [反应](Reaction.md "反应") 造成 12d12 [光耀](Radiant.md "光耀") 伤害。
-
-## 硬核难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-260
-
-### 护甲等级
-
-24
-
-### 先攻
-
-+7
-
-### 熟练项
-
-+4
-
-### 重量
-
-75 kg (150 lb)
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 4 | 3 | 2 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- - - - ## 状态
-
-- [**银光烙印**](Brand_of_the_Silverlight_(Condition).md "银光烙印 (状态)")
-
-武器攻击造成 +5d8 [光耀](Radiant.md "光耀") 伤害。
-
-- [**月光军团**](Lunar_Legionary_(Condition).md "月光军团 (状态)")
-
-为所有盟友施加 [银光烙印](Brand_of_the_Silverlight_(Condition).md)，并为 18 m (60 ft) 范围内的所有敌人施加 [月光光耀](Lunar_Radiance_(Condition).md)。
-
-- [**塞伦涅之怒**](Sel%C3%BBne's_Ire_(Condition).md "塞伦涅之怒 (状态)")
-
-可以作为对攻击者的 [反应](Reaction.md "反应") 造成 12d12 [光耀](Radiant.md "光耀") 伤害。
-
-## 特性
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "疾病") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可以在徒手或武器攻击后进行一次额外攻击。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [永久武装](Permanently_Armed.md "永久武装")
-
-无法被缴械。
-
-- [**塞伦涅之怒**](Sel%C3%BBne's_Ire.md "塞伦涅之怒")
-
-可以作为对攻击者的 [反应](Reaction.md "反应") 造成 12d12 [光耀](Radiant.md "光耀") 伤害。
-
-- [**战地施法者：专注**](War_Caster_colon__Concentration.md "战地施法者：专注")
-
-你在维持 [法术](Spells.md "法术") [专注](Concentration.md "专注") 的 [豁免检定](Saving_throw.md "豁免检定") 上获得 [优势](Advantage.md "优势")。
 
 **月光碎片**是一种 [天界生物](Celestial.md "天界生物")，可以在 [第三幕](Act_Three.md "第三幕") 作为 [寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌") 任务的一部分遇到。
 

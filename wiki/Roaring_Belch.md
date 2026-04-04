@@ -23,16 +23,6 @@
 推动：5米（17英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Zone_Belch_Physical_Brewer`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")

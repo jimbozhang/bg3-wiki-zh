@@ -23,16 +23,6 @@
 近战：1.5 米 (5 英尺)
 范围效果：1.5 米 (5 英尺) 半径
 
-## 技术细节
-
-UID
-
-`Target_Slam_Elemental_Lava`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 生物使用：[岩浆元素](Lava_Elemental.md "岩浆元素")

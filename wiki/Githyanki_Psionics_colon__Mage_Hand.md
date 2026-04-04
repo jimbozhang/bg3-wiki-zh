@@ -16,16 +16,6 @@
 范围：18 米（60 英尺）
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_MageHand_GithyankiPsionics`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：法师之手（生物）
 
 | [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 3 (-4) | [智力](Intelligence.md "智力") 2 (-4) | [感知](Wisdom.md "感知") 1 (-5) | [魅力](Charisma.md "魅力") 1 (-5) |

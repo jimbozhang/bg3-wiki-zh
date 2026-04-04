@@ -15,16 +15,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_Hide`
-
-法术标志
-
-`[AllowMoveAndCast](https://bg3.wiki/w/index.php?title=AllowMoveAndCast_\(spell_flag\)&action=edit&redlink=1) "AllowMoveAndCast \(spell flag\) \(page does not exist\)")`, `[CombatLogSetSingleLineRoll](https://bg3.wiki/w/index.php?title=CombatLogSetSingleLineRoll_\(spell_flag\)&action=edit&redlink=1) "CombatLogSetSingleLineRoll \(spell flag\) \(page does not exist\)")`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`, `[Invisible](Invisible_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`, `[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(spell flag\) \(page does not exist\)")`
-
 ## 状态：隐藏
 
 **[隐藏](Hiding_(Condition).md "隐藏 (状态)")**

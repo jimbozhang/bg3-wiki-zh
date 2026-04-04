@@ -15,16 +15,6 @@
 范围效果：6米（20英尺）半径
 目标：生命值总和不超过120的生物
 
-## 技术细节
-
-UID
-
-`Target_SCL_Oliver_Sleep_Shadow_Parents`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag\>).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag\>).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag\>).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag\>).md)`, `[IsHarmful](IsHarmful_(spell_flag\>).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：沉睡
 
 **[沉睡](Sleeping_(Condition).md "沉睡（状态）")**

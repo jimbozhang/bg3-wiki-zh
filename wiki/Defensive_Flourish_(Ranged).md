@@ -31,16 +31,6 @@
 - 在5级时，拥有[精通诗人激励](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励（被动特性）")，额外伤害提高至1d8。
 - 在10级时，拥有[精通诗人激励](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励（被动特性）")，额外伤害提高至1d10。
 
-## 技术细节
-
-UID
-
-`Projectile_BladeFlourish_Defensive`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 变体
 
 - [防御华舞（近战）](Defensive_Flourish_(Melee).md "防御华舞（近战）")

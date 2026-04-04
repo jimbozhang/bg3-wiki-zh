@@ -14,16 +14,6 @@
 范围：自身
 创造区域：熔岩
 
-## 技术细节
-
-UID
-
-`Shout_CreateLava`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：融化大地
 
 **[融化大地](Melt_the_Earth_(Condition).md "融化大地（状态）")**

@@ -1,78 +1,14 @@
 # 弃誓骑士
 
-## 弃誓骑士
-
-堕落者的守护者
-
-- 过场动画
-- 模型
-- 肖像画
-
-### 声音 / 演员
-
-- [Gordon Cooper](https://www.imdb.com/name/nm2090228/)
-
-### 角色
-
-[营地随从](Camp_Follower.md "营地随从")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[不死生物](Undead.md "不死生物")
-
-### 职业
-
-[圣武士](Paladin.md "圣武士")
-
-### 副职
-
-[弃誓者](Oathbreaker.md "弃誓者")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-234
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+4
-
-### 重量
-
-50 kg (100 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### 经验值奖励
-
-640
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 19 / (+4) | 16 / (+3) | 17 / (+3) | 10 / (0) | 16 / (+3) | 20 / (+5) |
+| | |
+| --- | --- |
+| 配音 | - [Gordon Cooper](https://www.imdb.com/name/nm2090228/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [不死生物](Undead.md "不死生物") |
+| 等级 | 12 |
+| 生命值 | 234 |
+| 先攻 | +3 |
+| 经验值 | 640 |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -82,81 +18,17 @@
 
 - - - ## 状态
 
-- \_(状态)[**仇恨灵光**](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光 (光环) (状态)")
+- \_(状态)[仇恨灵光](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光 (光环) (状态)")
 
 此生物及 3 m (10 ft) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力](Charisma.md "魅力")作为其近战武器伤害的加值。
 
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
 此生物及其 3 m (10 ft) 范围内的盟友获得此生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
-- \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
 
 圣武士及附近盟友不会被[恐慌](Frightened_(status_group).md)
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中视物至特定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可在徒手或武器攻击后进行一次额外攻击。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "疾病")效果。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [驱散抗性](Turn_Resistance.md "驱散抗性")
-
-对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-## 探索者难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-156
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+6
-
-### 重量
-
-50 kg (100 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### 经验值奖励
-
-640
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +9 | +8 | +8 | +5 | +12 | +14 |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -166,81 +38,17 @@
 
 - - - ## 状态
 
-- \_(状态)[**仇恨灵光**](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光 (光环) (状态)")
+- \_(状态)[仇恨灵光](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光 (光环) (状态)")
 
 此生物及 3 m (10 ft) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力](Charisma.md "魅力")作为其近战武器伤害的加值。
 
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
 此生物及其 3 m (10 ft) 范围内的盟友获得此生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
-- \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
 
 圣武士及附近盟友不会被[恐慌](Frightened_(status_group).md)
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中视物至特定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可在徒手或武器攻击后进行一次额外攻击。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "疾病")效果。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [驱散抗性](Turn_Resistance.md "驱散抗性")
-
-对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-## 硬核难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-291
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+4
-
-### 重量
-
-50 kg (100 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### 经验值奖励
-
-640
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 19 / (+4) | 16 / (+3) | 17 / (+3) | 10 / (0) | 16 / (+3) | 20 / (+5) |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -250,63 +58,19 @@
 
 - - - ## 状态
 
-- \_(状态)[**仇恨灵光**](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光 (光环) (状态)")
+- \_(状态)[仇恨灵光](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光 (光环) (状态)")
 
 此生物及 3 m (10 ft) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力](Charisma.md "魅力")作为其近战武器伤害的加值。
 
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
 此生物及其 3 m (10 ft) 范围内的盟友获得此生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
-- \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
 
 圣武士及附近盟友不会被[恐慌](Frightened_(status_group).md)
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中视物至特定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可在徒手或武器攻击后进行一次额外攻击。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "疾病")效果。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [驱散抗性](Turn_Resistance.md "驱散抗性")
-
-对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-## 技术
-
-###
-
-UID
-
-`S_GLO_OathbreakerKnight` ###
-
-UUID
-
-`3939625d-86cc-4395-9d50-4f8b846c4231` ###
-
-Stats
-
-`GLO_Oathbreaker_Paladin` **弃誓骑士**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一名[不死生物](Undead.md "不死生物")[弃誓者](Oathbreaker.md "弃誓者")，他会在[圣武士](Paladin.md "圣武士")玩家违背誓言后出现，成为临时的[营地随从](Camp_Follower.md "营地随从")。
+**弃誓骑士**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一名[不死生物](Undead.md "不死生物")[弃誓者](Oathbreaker.md "弃誓者")，他会在[圣武士](Paladin.md "圣武士")玩家违背誓言后出现，成为临时的[营地随从](Camp_Follower.md "营地随从")。
 
 > “
 >

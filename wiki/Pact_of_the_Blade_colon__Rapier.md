@@ -16,16 +16,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_PactOfTheBlade_Rapier`
-
-法术标志
-
-`[UNUSED_D](https://bg3.wiki/w/index.php?title=UNUSED_D_\(spell_flag\)&action=edit&redlink=1) "UNUSED D \(spell_flag\) \(page does not exist\)")`
-
 ## 物品：魔契刺剑
 
 [魔契刺剑](Pactbound_Rapier.md "魔契刺剑") – 持续时间：永久

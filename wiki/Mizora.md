@@ -1,85 +1,16 @@
 # 米佐拉
 
-## 米佐拉
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [塔玛琳·佩恩](https://www.imdb.com/name/nm2568196/)
-
-### 角色
-
-[邪魔](The_Fiend.md "邪魔") [威尔](Wyll.md "威尔")的契约主，[附属追随者](Attached_Follower.md "附属追随者")
-
-### 家乡
-
-[九层地狱](Nine_Hells.md "九层地狱")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[邪魔](Fiend.md "邪魔")
-
-### 种族
-
-[坎比翁](Cambion.md "坎比翁")
-
-### 职业
-
-[术士](Sorcerer.md "术士")
-
-- 平衡
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-75
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-18 米 (60 英尺)
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 14 / (+2) | 15 / (+2) | 16 / (+3) | 14 / (+2) | 12 / (+1) | 20 / (+5) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [塔玛琳·佩恩](https://www.imdb.com/name/nm2568196/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [邪魔](Fiend.md "邪魔") |
+| 种族 | [坎比翁](Cambion.md "坎比翁") |
+| 等级 | 12 |
+| 生命值 | 75 |
+| 护甲等级 | 12 |
+| 先攻 | +2 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -89,79 +20,9 @@
 
 ## 状态
 
-- [**扎瑞尔的保护**](Zariel's_Protection_(Condition).md "扎瑞尔的保护 (状态)")
+- [扎瑞尔的保护](Zariel's_Protection_(Condition).md "扎瑞尔的保护 (状态)")
 
   - 当被攻击时，米佐拉会消失到地狱，并在一分钟后返回。
-
-## 特性
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [**超魔：远距法术**](Metamagic_colon__Distant_Spell.md "超魔：远距法术")
-
-法术的施法距离增加 50%。近战法术的施法距离增加至 9 米 (30 英尺)。
-
-- [**超魔：延长法术**](Metamagic_colon__Extended_Spell.md "超魔：延长法术")
-
-法术造成的[状态](Condition.md "状态")、召唤物和地表的持续时间翻倍。
-
-- [**超魔：高强法术**](Metamagic_colon__Heightened_Spell.md "超魔：高强法术")
-
-需要[豁免检定](Saving_throws.md "豁免检定")的法术目标在首次豁免检定上具有[劣势](Disadvantage.md "劣势")。
-
-- [**超魔：瞬发法术**](Metamagic_colon__Quickened_Spell.md "超魔：瞬发法术")
-
-需要[动作](Actions.md#Resources "动作")施放的法术改为使用[附赠动作](Actions.md#Resources "动作")。
-
-- [**超魔：成双法术**](Metamagic_colon__Twinned_Spell.md "超魔：成双法术")
-
-仅以 1 个生物为目标的法术可以额外以 1 个生物为目标。
-
-每使用 1 个[法术位](Sorcerer.md#Spell_Slots "术士")等级消耗 1 个[术法点](Sorcery_Point.md "术法点")。[戏法](Spells.md#Cantrips "法术")也消耗 1 个[术法点](Sorcery_Point.md "术法点")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-97
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-18 米 (60 英尺)
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +2 | +2 | +3 | +6 | +5 | +5 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -171,75 +32,13 @@
 
 ## 状态
 
-- [**扎瑞尔的保护**](Zariel's_Protection_(Condition).md "扎瑞尔的保护 (状态)")
+- [扎瑞尔的保护](Zariel's_Protection_(Condition).md "扎瑞尔的保护 (状态)")
 
   - 当被攻击时，米佐拉会消失到地狱，并在一分钟后返回。
 
-## 特性
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [**超魔：远距法术**](Metamagic_colon__Distant_Spell.md "超魔：远距法术")
-
-法术的施法距离增加 50%。近战法术的施法距离增加至 9 米 (30 英尺)。
-
-- [**超魔：延长法术**](Metamagic_colon__Extended_Spell.md "超魔：延长法术")
-
-法术造成的[状态](Condition.md "状态")、召唤物和地表的持续时间翻倍。
-
-- [**超魔：高强法术**](Metamagic_colon__Heightened_Spell.md "超魔：高强法术")
-
-需要[豁免检定](Saving_throws.md "豁免检定")的法术目标在首次豁免检定上具有[劣势](Disadvantage.md "劣势")。
-
-- [**超魔：瞬发法术**](Metamagic_colon__Quickened_Spell.md "超魔：瞬发法术")
-
-需要[动作](Actions.md#Resources "动作")施放的法术改为使用[附赠动作](Actions.md#Resources "动作")。
-
-- [**超魔：成双法术**](Metamagic_colon__Twinned_Spell.md "超魔：成双法术")
-
-仅以 1 个生物为目标的法术可以额外以 1 个生物为目标。
-
-每使用 1 个[法术位](Sorcerer.md#Spell_Slots "术士")等级消耗 1 个[术法点](Sorcery_Point.md "术法点")。[戏法](Spells.md#Cantrips "法术")也消耗 1 个[术法点](Sorcery_Point.md "术法点")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_GLO_Wyll_Cambion` ###
-
 UUID
 
-`491a7686-3081-405b-983c-289ec8781e0a` ###
-
-属性
-
-`GLO_Mizora` ## 变体 1
-
-###
-
-UID
-
-`S_GLO_Wyll_Cambion_CambionForm_Naked` ###
-
-UUID
-
-`080a7d08-11a3-4a07-973e-0c48c1bcacca` ## 变体 2
-
-###
-
-UID
-
-`S_GLO_Wyll_Cambion_HumanForm` ###
-
-UUID
+`080a7d08-11a3-4a07-973e-0c48c1bcacca` UUID
 
 `303f8bbc-0a71-4c85-a82f-6be9b92b8336` **米佐拉**<sup>[\[1\]](#cite_note-1)</sup> 是一名[坎比翁](Cambion.md "坎比翁")，侍奉着大魔鬼[扎瑞尔](Zariel.md "扎瑞尔")，同时也是[威尔](Wyll.md "威尔")的地狱契约主。她在威尔的背景故事以及他贯穿整个游戏的角色弧线中扮演着重要角色。她善于操纵、顽皮且总是试图从交易中获得最大利益，她可能是队伍的资产或对手，但总是为她自己和扎瑞尔的最佳利益着想。
 

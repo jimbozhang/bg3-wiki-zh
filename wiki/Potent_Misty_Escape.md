@@ -21,16 +21,6 @@
 充能：每回合
 持续时间：1驱散
 
-## 技术细节
-
-UID
-
-`Shout_LOW_MistyEscape_Vampire_Cazador_Tactician`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：强力雾形态
 
 **[强力雾形态](Potent_Mist_Form_(Condition).md "强力雾形态（状态）")**

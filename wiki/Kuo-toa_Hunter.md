@@ -1,211 +1,34 @@
 # 猎人鱼人
 
-## 猎人鱼人
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 声音 / 演员
-
-- [Colm Gleeson](https://www.imdb.com/name/nm5896769/)
-- [Katy Brittain](https://www.imdb.com/name/nm1433038/)
-- [Mitra Djalili](https://www.imdb.com/name/nm3296446/)
-- [Rebecca Hanssen](https://www.imdb.com/name/nm5336712/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[猎人鱼人](Kuo-toa.md "Kuo-toa")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-2
-
-### HP
-
-16
-
-### AC
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-60 千克 (120 磅)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 11 / (0) | 13 / (+1) | 11 / (0) | 11 / (0) | 10 / (0) | 8 / (-1) |
+| | |
+| --- | --- |
+| 配音 | - [Colm Gleeson](https://www.imdb.com/name/nm5896769/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [猎人鱼人](Kuo-toa.md "Kuo-toa") |
+| 等级 | 2 |
+| 生命值 | 16 |
+| 护甲等级 | 12 |
+| 先攻 | +1 |
+| 移动速度 | 9 米 (30 英尺) |
 
 ## 状态
 
-- [**波尔的忠诚**](BOOOAL's_Faithful_(Condition).md "波尔的忠诚 (状态)")
+- [波尔的忠诚](BOOOAL's_Faithful_(Condition).md "波尔的忠诚 (状态)")
 
 有几率对目标施加[流血](Bleeding_(Condition).md "流血 (状态)")。
-
-## 特性
-
-- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
-
-有几率对目标施加流血。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉技能具有劣势。
-
-## 探索者难度属性
-
-### 等级
-
-2
-
-### HP
-
-11
-
-### AC
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-60 千克 (120 磅)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +1 | 0 | 0 | 0 | -1 |
 
 ## 状态
 
-- [**波尔的忠诚**](BOOOAL's_Faithful_(Condition).md "波尔的忠诚 (状态)")
+- [波尔的忠诚](BOOOAL's_Faithful_(Condition).md "波尔的忠诚 (状态)")
 
 有几率对目标施加[流血](Bleeding_(Condition).md "流血 (状态)")。
-
-## 特性
-
-- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
-
-有几率对目标施加流血。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉技能具有劣势。
-
-## 硬核难度属性
-
-### 等级
-
-2
-
-### HP
-
-20
-
-### AC
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-60 千克 (120 磅)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 11 / (0) | 13 / (+1) | 11 / (0) | 11 / (0) | 10 / (0) | 8 / (-1) |
 
 ## 状态
 
-- [**波尔的忠诚**](BOOOAL's_Faithful_(Condition).md "波尔的忠诚 (状态)")
+- [波尔的忠诚](BOOOAL's_Faithful_(Condition).md "波尔的忠诚 (状态)")
 
 有几率对目标施加[流血](Bleeding_(Condition).md "流血 (状态)")。
-
-## 特性
-
-- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
-
-有几率对目标施加流血。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉技能具有劣势。
 
 **猎人鱼人**是[幽暗地域](Underdark.md "幽暗地域")的[溃烂洞穴](The_Festering_Cove.md "溃烂洞穴")中出现的一种[猎人鱼人](Kuo-toa.md "Kuo-toa")生物，出现在[第一幕](Act_One.md "第一幕")。
 

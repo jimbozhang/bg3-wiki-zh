@@ -23,16 +23,6 @@
 击退：2米（7英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_SuperNova_Dragon_Skeletal`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreSourceBounds](https://bg3.wiki/w/index.php?title=RangeIgnoreSourceBounds_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreSourceBounds \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreTargetBounds](https://bg3.wiki/w/index.php?title=RangeIgnoreTargetBounds_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreTargetBounds \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：感电
 
 **[感电](Shocked_(Condition).md "感电（状态）")**

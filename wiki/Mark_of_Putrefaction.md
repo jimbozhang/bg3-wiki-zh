@@ -19,16 +19,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_SHA_Skeleton_WitheringMark`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：腐化印记
 
 **[腐化印记](Mark_of_Putrefaction_(Condition).md "腐化印记 (状态)")**

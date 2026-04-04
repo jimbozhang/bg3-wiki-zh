@@ -20,16 +20,6 @@
 
 以更高法术等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Contagion_Mindfire`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：疫病中毒
 
 **[疫病中毒](Contagion_Poisoned_(Condition).md "Contagion Poisoned (Condition)")**

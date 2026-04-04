@@ -11,12 +11,6 @@
 详情
 范围效果：6米（20英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Burning`
-
 ## 状态：狂野魔法：燃烧
 
 **[狂野魔法：燃烧](Wild_Magic_colon__Burning_(Condition).md "狂野魔法：燃烧 (状态)")**

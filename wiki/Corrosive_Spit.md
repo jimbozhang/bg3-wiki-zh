@@ -32,12 +32,6 @@
 
 \+ 1d10⁠[强酸](Acid.md "强酸")（每回合）
 
-## 技术细节
-
-UID
-
-`Projectile_CorrosiveSpit_Dilophosaurus`
-
 ## 状态：腐蚀唾液：溶解中
 
 **[腐蚀唾液：溶解中](Corrosive_Spit_colon__Dissolving_(Condition).md "腐蚀唾液：溶解中（状态）")**

@@ -17,16 +17,6 @@
 作用范围：2米（7英尺）半径
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_MOO_Nightsong_RadiantConsumption`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 状态：月火
 
 **[月火](Moonfire_(Condition).md "月火（状态）")**

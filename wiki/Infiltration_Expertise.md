@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_InfiltrationExpertise`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 状态：专业渗透
 
 **[专业渗透](Infiltration_Expertise_(Condition).md "专业渗透 (状态)")**

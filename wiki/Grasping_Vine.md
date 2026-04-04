@@ -20,16 +20,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_GraspingVine`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：贪婪藤蔓（生物）
 
 | [力量](Strength.md "Strength") 16 (+3) | [敏捷](Dexterity.md "Dexterity") 16 (+3) | [体质](Constitution.md "Constitution") 10 | [智力](Intelligence.md "Intelligence") 2 (-4) | [感知](Wisdom.md "Wisdom") 2 (-4) | [魅力](Charisma.md "Charisma") 2 (-4) |

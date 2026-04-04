@@ -14,16 +14,6 @@
 范围：自身
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_SpellSlotRestoration_PearlOfPower`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 变体
 
 - [1环珠光复原术](Pearlescent_Restoration_Level_1.md "1环珠光复原术")

@@ -20,16 +20,6 @@
 近战：1.5米（5英尺）
 推动：2米（7英尺）
 
-## 技术细节
-
-UID
-
-`Target_Headbutt_TollCollector_Face`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[阴森面容](Grim_Visage.md "阴森面容")

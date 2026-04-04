@@ -23,16 +23,6 @@
 射程：正常武器射程
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_DivineStrike_Melee_Trickery`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 此法术是以下法术的变体：

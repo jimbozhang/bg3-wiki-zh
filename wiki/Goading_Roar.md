@@ -14,14 +14,6 @@
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 范围效果：9米（30英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_GoadingRoar_Bear_Summon`
-
-`Shout_Roar_Bear_Polar`
-
 ## 状态：被挑衅
 
 **[被挑衅](Goaded_(Condition).md "被挑衅（状态）")**

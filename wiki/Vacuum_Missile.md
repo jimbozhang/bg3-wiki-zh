@@ -21,16 +21,6 @@
 牵引：5米（17英尺）（朝向范围中心，力量豁免失败时）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_LOW_GithyankiProdigy_VacuumMissile`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由生物使用：[潘塔利斯](Ptaris.md "潘塔利斯")

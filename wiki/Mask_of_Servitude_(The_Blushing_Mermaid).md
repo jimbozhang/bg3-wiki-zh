@@ -1,134 +1,18 @@
 # 奴役面具（脸红的美人鱼）
 
-## 奴役面具
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [夏洛特·韦克菲尔德](https://www.imdb.com/name/nm1229260/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[矮人](Dwarf.md "矮人")
-
-### 亚种
-
-[黄金矮人](Gold_Dwarf.md "黄金矮人")
-
-### 职业
-
-[吟游诗人](Bard.md "吟游诗人")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-75
-
-### 护甲等级
-
-11
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米（25 英尺）
-
-### 重量
-
-75 千克（150 磅）
-
-### 高级黑暗视觉
-
-0 米（0 英尺）
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 10 / (0) | 10 / (0) | 16 / (+3) | 12 / (+1) | 18 / (+4) |
-
-## 额外资源
-
-- 3
-
-- - - - ## 状态
-
-- [**低语幻影**](Ephemeral_Whispers_(Condition).md "低语幻影 (状态)")
-
-  - 被埃赛尔的低语所诱惑。
-
-  - 该生物必须在回合开始时通过 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 13 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则将被施加 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")。
-
-## 特性
-
-- [**诗人激励**](Bardic_Inspiration_(passive_feature).md "诗人激励 (被动特性)")
-
-可以使用 [诗人激励](Bardic_Inspiration_(class_action)..md)
-
-- [激励之泉](Font_of_Inspiration.md "激励之泉")
-
-在长休或短休后恢复所有 [诗人激励](Bardic_Inspiration_(resource).md)。
-
-- [**精通诗人激励**](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励 (被动特性)")
-
-增加 [诗人激励](Bardic_Inspiration_(class_action).md) 的加值。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [羊群一员](Part_of_the_Flock.md "羊群一员")
-
-埃赛尔婶婶欢迎你，亲爱的。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_BlushingMermaid_MaskedVictim_01` ###
-
-UUID
-
-`453e3292-b7ff-4a13-873a-82da3bfc2511` ###
-
-属性
-
-`LOW_Masked_Bard` 不要与 [奴役面具（蔓生地道）](Mask_of_Servitude_(Overgrown_Tunnel).md) 混淆
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [夏洛特·韦克菲尔德](https://www.imdb.com/name/nm1229260/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [矮人](Dwarf.md "矮人") |
+| 等级 | 8 |
+| 生命值 | 75 |
+| 护甲等级 | 11 |
+| 先攻 | 0 |
+| 移动速度 | 7.5 米（25 英尺） |
+| 经验值 | 320 |
 
 **奴役面具**是 [埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶") 羊群中的一名 [矮人](Dwarf.md "矮人") 成员。她可以在 [脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼") 与 [复仇面具](Mask_of_Vengeance_(The_Blushing_Mermaid).md "复仇面具（脸红的美人鱼）")、[恐惧面具](Mask_of_Terror_(The_Blushing_Mermaid).md "恐惧面具（脸红的美人鱼）") 以及真正的 [格雷斯利船长](Grisly.md "格雷斯利船长") 一起找到。
 

@@ -15,16 +15,6 @@
 详情
 射程：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_IntimidatingPresence_Maintain`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 状态：恐惧
 
 **[恐惧](Fearful_(Condition).md "恐惧（状态）")**

@@ -19,16 +19,6 @@
 
 以此法术的更高法术位施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_CalmEmotions`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：安定
 
 **[安定](Calmed_(Condition).md "安定（状态）")**

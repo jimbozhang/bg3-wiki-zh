@@ -11,22 +11,6 @@
 详情
 充能：每场战斗两次
 
-## 技术细节
-
-UID
-
-`Shout_SteelWatcher_Quadruped_ActivateBulwarkMode`
-
-首次使用在生命值低于75%时解锁
-
-`Shout_SteelWatcher_Quadruped_ActivateBulwarkMode2`
-
-第二次使用在生命值低于50%时解锁
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 赋予
 
 - [地狱火飞弹](Hellfire_Missiles.md "地狱火飞弹")

@@ -18,16 +18,6 @@
 范围：自身
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Shout_MAG_SoulCatching_Heal`
-
-法术标志
-
-`[临时](Temporary_(spell_flag).md)`
-
 ## 如何习得
 
 由物品提供：

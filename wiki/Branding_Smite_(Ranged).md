@@ -27,16 +27,6 @@
 
 每提升一级，额外造成1d6⁠⁠[光耀](Radiant.md "光耀")伤害。
 
-## 技术细节
-
-UID
-
-`Projectile_Smite_Branding`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：印记斩
 
 **[印记斩](Branding_Smite_(Condition).md "印记斩（状态）")**

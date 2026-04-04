@@ -17,16 +17,6 @@
 详情
 范围：18 米（60 英尺）
 
-## 技术细节
-
-UID
-
-`Target_MinorIllusion`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 生物：猫（初级幻影）
 
 | [力量](Strength.md "力量") 0 (-5) | [敏捷](Dexterity.md "敏捷") 0 (-5) | [体质](Constitution.md "体质") 0 (-5) | [智力](Intelligence.md "智力") 0 (-5) | [感知](Wisdom.md "感知") 0 (-5) | [魅力](Charisma.md "魅力") 0 (-5) |

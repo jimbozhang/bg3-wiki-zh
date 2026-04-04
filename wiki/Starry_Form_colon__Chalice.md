@@ -19,16 +19,6 @@
 - 在2级时，圣杯治疗恢复1d8 + [感知调整值](Wisdom.md#Wisdom_modifier_chart "感知")⁠[治疗](Healing.md "治疗")。
 - 在10级时，拥有[闪烁星座](Twinkling_Constellations.md "闪烁星座")后，圣杯治疗恢复2d8 + [感知调整值](Wisdom.md#Wisdom_modifier_chart "感知")⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-UID
-
-`Shout_Wildshape_Star_Chalice`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(spell flag\) \(page does not exist\)")`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 状态：星型：圣杯
 
 **[星型：圣杯](Starry_Form_colon__Chalice_(Condition).md "星型：圣杯（状态）")**

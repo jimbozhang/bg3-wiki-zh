@@ -22,16 +22,6 @@
 近战 徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Pseudopod_Ooze_Gray`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(页面不存在\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 生物使用：[土黄果冻怪](Ochre_Jelly.md "土黄果冻怪")和[恶臭软泥](Fetid_Ooze.md "恶臭软泥")

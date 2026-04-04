@@ -1,95 +1,18 @@
 # 莫伽耶
 
-## 莫伽耶
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Jacqui Bardelang](https://www.imdb.com/name/nm11624408/)
-
-### 阵营
-
-[焰须氏族](Clan_Flameshade.md "Clan Flameshade")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[灰矮人](Duergar.md "Duergar")
-
-### 职业
-
-[野蛮人](Barbarian.md "Barbarian")
-
-### 副职
-
-[狂战士](Berserker.md "Berserker")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-62
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 12 / (+1) | 10 / (0) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Jacqui Bardelang](https://www.imdb.com/name/nm11624408/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 4 |
+| 生命值 | 62 |
+| 护甲等级 | 14 |
+| 先攻 | +1 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 75 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -97,81 +20,11 @@
 
 - 3
 
-## 特性
+## 抗性 [抗性](Resistances.md "抗性")
 
-- [危机感知](Danger_Sense.md "危机感知")
+- ## 额外资源
 
-对陷阱、法术、地表的敏捷豁免具有优势。不能是目盲或失能状态。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-- [**无甲防御**](Unarmoured_Defence_(Barbarian).md "Unarmoured Defence (Barbarian)")
-
-未穿护甲时，将[体质](Constitution.md "Constitution")调整值加到[护甲等级](AC.md "AC")上。
-
-## 探索者难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-43
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +5 | +1 | +5 | +1 | 0 | +1 |
+- 3
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -179,137 +32,7 @@
 
 - 3
 
-## 特性
-
-- [危机感知](Danger_Sense.md "危机感知")
-
-对陷阱、法术、地表的敏捷豁免具有优势。不能是目盲或失能状态。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-- [**无甲防御**](Unarmoured_Defence_(Barbarian).md "Unarmoured Defence (Barbarian)")
-
-未穿护甲时，将[体质](Constitution.md "Constitution")调整值加到[护甲等级](AC.md "AC")上。
-
-## 硬核难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-80
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 3 | 1 | 1 |
-
-## 抗性 [抗性](Resistances.md "抗性")
-
-- ## 额外资源
-
-- 3
-
-## 特性
-
-- [危机感知](Danger_Sense.md "危机感知")
-
-对陷阱、法术、地表的敏捷豁免具有优势。不能是目盲或失能状态。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-- [**无甲防御**](Unarmoured_Defence_(Barbarian).md "Unarmoured Defence (Barbarian)")
-
-未穿护甲时，将[体质](Constitution.md "Constitution")调整值加到[护甲等级](AC.md "AC")上。
-
-## 技术数据
-
-###
-
-UID
-
-`S_UND_FearfulRothe_Guard_003` ###
-
-UUID
-
-`3d27ceb8-30b2-4ce2-ad73-8ebeea0a48bb` ###
-
-Stats
-
-`UND_KC_Duergar_Barbarian` **莫伽耶**是[复仇之炉](Grymforge.md "Grymforge")的一名灰矮人野蛮人，出现在[第一章](Act_One.md "Act One")。
+**莫伽耶**是[复仇之炉](Grymforge.md "Grymforge")的一名灰矮人野蛮人，出现在[第一章](Act_One.md "Act One")。
 
 > “
 >

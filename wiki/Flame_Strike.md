@@ -25,16 +25,6 @@
 
 每比5环高一环，额外造成1d6⁠⁠[火焰](Fire.md "Fire")伤害和1d6⁠⁠[光耀](Radiant.md "Radiant")伤害。
 
-## 技术细节
-
-UID
-
-`Target_FlameStrike`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

@@ -23,16 +23,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比2级法术位高2级，武器获得8点[生命值](Hit_Points.md "生命值")并造成额外1d8⁠⁠[力场](Force.md "力场")伤害。
 
-## 技术细节
-
-UID
-
-`Target_SpiritualWeapon_Maul`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：灵体武器（巨锤）
 
 | [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 10 | [智力](Intelligence.md "智力") 10 | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |

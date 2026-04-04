@@ -18,16 +18,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：当此法术在3环或更高环级施放时，你可以为每个高于2环的法术位环级额外指定一个目标。
 
-## 技术细节
-
-UID
-
-`Target_EnhanceAbility_CatsGrace`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：猫之轻灵
 
 **[猫之轻灵](Cat's_Grace_(Condition).md "猫之轻灵 (状态)")**

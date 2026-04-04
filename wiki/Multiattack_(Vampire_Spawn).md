@@ -24,16 +24,6 @@
 目标：具有6+回合[吸过血](Blood-Sapped_(Condition).md "吸过血 (状态)")状态或生命值低于50%的生物
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_LOW_Vampire_Multiattack_NoAstarion_Spawn`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由以下生物使用：[吸血鬼衍体](Vampire_spawn.md "吸血鬼衍体")

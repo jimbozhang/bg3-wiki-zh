@@ -15,12 +15,6 @@
 充能：[长休](Long_Rest.md "长休")
 持续时间：直到 [长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_Darkvision_ThirdEye`
-
 ## 状态：黑暗视觉（第三只眼）
 
 **\_(状态)[黑暗视觉](Darkvision_(Third_Eye)_(Condition).md "黑暗视觉（第三只眼）（状态）")**

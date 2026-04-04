@@ -16,12 +16,6 @@
 范围：自身
 充能：每次战斗
 
-## 技术细节
-
-UID
-
-`Shout_PactOfTheBlade_Hexblade_Sickle`
-
 ## 物品：誓缚镰刀
 
 [誓缚镰刀](Pactbound_Sickle.md "誓缚镰刀") – 持续时间：永久

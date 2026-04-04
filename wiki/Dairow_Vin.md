@@ -1,260 +1,43 @@
 # 戴罗文
 
-本文包含[敏感内容](Help_colon_Style_Guide.md#Content_warnings "Help:Style Guide")，包括提及或暗示自残和自杀。
-
-## 戴罗文
-
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 阵营
-
-[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
-
-### 家庭
-
-无名丈夫（已故）
-[加勒特](Garrett.md "Garrett")（姐夫）
-
-### 家乡
-
-[艾尔图瑞尔](Elturel.md "Elturel")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-### 亚种
-
-[梅菲斯特提夫林](Mephistopheles_Tiefling.md "Mephistopheles tiefling")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-8
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 1 |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 1 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- [**不可唤醒的沉睡**](Impenetrable_slumber_(Condition).md "Impenetrable slumber (Condition)")
+- [不可唤醒的沉睡](Impenetrable_slumber_(Condition).md "Impenetrable slumber (Condition)")
 
   - 此人受到大量睡眠药水的影响。无法唤醒他们。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-5
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- [**不可唤醒的沉睡**](Impenetrable_slumber_(Condition).md "Impenetrable slumber (Condition)")
+- [不可唤醒的沉睡](Impenetrable_slumber_(Condition).md "Impenetrable slumber (Condition)")
 
   - 此人受到大量睡眠药水的影响。无法唤醒他们。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-10
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- [**不可唤醒的沉睡**](Impenetrable_slumber_(Condition).md "Impenetrable slumber (Condition)")
+- [不可唤醒的沉睡](Impenetrable_slumber_(Condition).md "Impenetrable slumber (Condition)")
 
   - 此人受到大量睡眠药水的影响。无法唤醒他们。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术细节
-
-###
-
-UID
-
-`S_LOW_Overdose_Unconscious` ###
-
-UUID
-
-`5da78446-ff91-4432-b838-ac721160f6d4` ###
-
-属性
-
-`Tiefling_Commoner` **戴罗文**是一名提夫林，可以在[第三幕](Act_Three.md "Act Three")找到。
+**戴罗文**是一名提夫林，可以在[第三幕](Act_Three.md "Act Three")找到。
 
 ## 参与
 

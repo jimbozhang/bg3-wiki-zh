@@ -20,16 +20,6 @@
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 射程：26 米 (87 英尺)
 
-## 技术细节
-
-UID
-
-`Target_HAG_ViciousMockery`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：恶毒嘲笑
 
 **[恶毒嘲笑](Vicious_Mockery_(Condition).md "恶毒嘲笑 (状态)")**

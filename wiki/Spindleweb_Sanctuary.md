@@ -26,16 +26,6 @@
 
 以更高法术等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Sanctuary_Drider_Hardcore`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：纺丝庇护术
 
 **[纺丝庇护术](Spindleweb_Sanctuary_(Condition).md "纺丝庇护术（状态）")**

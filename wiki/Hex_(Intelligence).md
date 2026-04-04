@@ -22,16 +22,6 @@
 
 以此法术升环施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Hex_Intelligence`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 赋予
 
 - [再度施展脆弱诅咒](Reapply_Hex.md "Reapply Hex")

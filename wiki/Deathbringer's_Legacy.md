@@ -13,18 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_LOW_MurderTribunal_DeathbringerLegacy`
-
-AI在沙洛佛克回合使用的版本
-
-`Shout_LOW_MurderTribunal_DeathbringerLegacy_OutsideOwnTurn`
-
-通过脚本自动触发的版本
-
 ## 赋予
 
 - [死亡使者袭击](Deathbringer_Assault.md "死亡使者袭击")

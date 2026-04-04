@@ -15,16 +15,6 @@
 目标：马鲁斯·索姆
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Target_SurgeryEnabler_Bonesaw_Nurse`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 授予
 
 - [骨锯术](Bloody_Bonesaw.md "骨锯术")

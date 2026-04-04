@@ -13,12 +13,6 @@
 详情
 范围：12 米 (40 英尺)
 
-## 技术细节
-
-UID
-
-`Target_WYR_Dribbles_Dog_Blink`
-
 ## 状态：伏击啃咬
 
 **[伏击啃咬](Ambushing_Bite_(Condition).md "伏击啃咬 (状态)")**

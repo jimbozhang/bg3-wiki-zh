@@ -1,91 +1,18 @@
 # 梅诺尼
 
-## 梅诺尼
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Siobhan Hewlett](https://www.imdb.com/name/nm1305192/)
-
-### 阵营
-
-[扎尔宅邸](Szarr_Palace.md "Szarr Palace")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[黄金矮人](Gold_Dwarf.md "Gold Dwarf")
-
-### 职业
-
-[游侠](Ranger.md "Ranger")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-76
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Siobhan Hewlett](https://www.imdb.com/name/nm1305192/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 11 |
+| 生命值 | 76 |
+| 护甲等级 | 14 |
+| 先攻 | +2 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 320 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -93,73 +20,9 @@
 
 - - - ## 状态
 
-- [**魅惑**](Charmed_(Condition).md "魅惑 (状态)")
+- [魅惑](Charmed_(Condition).md "魅惑 (状态)")
 
   - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗[中毒](Poisoned_(Condition)状态时进.md)行[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
-
-你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
-
-## 探索者难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-54
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +5 | +6 | +1 | 0 | +1 | +1 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -167,73 +30,9 @@
 
 - - - ## 状态
 
-- [**魅惑**](Charmed_(Condition).md "魅惑 (状态)")
+- [魅惑](Charmed_(Condition).md "魅惑 (状态)")
 
   - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗[中毒](Poisoned_(Condition)状态时进.md)行[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
-
-你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
-
-## 硬核难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-98
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 1 | 2 | 1 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -241,53 +40,9 @@
 
 - - - ## 状态
 
-- [**魅惑**](Charmed_(Condition).md "魅惑 (状态)")
+- [魅惑](Charmed_(Condition).md "魅惑 (状态)")
 
   - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗[中毒](Poisoned_(Condition)状态时进.md)行[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
-
-你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_CazadorsPalace_GuardTower_Guard_001` ###
-
-UUID
-
-`e0f6ebdc-e19a-4ae4-a487-f192b9edcfac` ###
-
-属性
-
-`LOW_CazadorsPalace_GuardTower_Dwarf_Ranger` > “
-
-> 当然，无论主人想要什么。请自由进入，全凭自愿。<sup>[\[1\]](#cite_note-1)</sup>
->
-> „
-
-— 梅诺尼，如果被成功欺瞒<sup>[\[2\]](#cite_note-2)</sup>
 
 **梅诺尼**是一名[黄金矮人](Gold_Dwarf.md "黄金矮人")守卫，驻扎在[博德之门](Baldur's_Gate.md "博德之门")[下城区](Lower_City.md "下城区")[中央瞭望塔](Central_Watch_Tower.md "中央瞭望塔")的梯子顶部。
 

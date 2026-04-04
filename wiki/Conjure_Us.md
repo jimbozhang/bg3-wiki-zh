@@ -14,16 +14,6 @@
 范围：18 米（60 英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_ConjureIntellectDevour`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：我们（第二幕）
 
 | [STR](Strength.md "力量") 6 (-2) | [DEX](Dexterity.md "敏捷") 14 (+2) | [CON](Constitution.md "体质") 13 (+1) | [INT](Intelligence.md "智力") 12 (+1) | [WIS](Wisdom.md "感知") 11 | [CHA](Charisma.md "魅力") 10 |

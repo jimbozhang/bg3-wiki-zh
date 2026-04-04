@@ -1,26 +1,9 @@
 # 梅菲斯特
 
-## 梅菲斯特
-
-卡尼亚的魔鬼大公
-
-### 家族
-
-[拉斐尔](Raphael.md "拉斐尔") (儿子)
-
-### 家乡
-
-卡尼亚, [九狱](Nine_Hells.md "九狱")
-
-## 属性
-
-### 类型
-
-[邪魔](Fiend.md "邪魔")
-
-### 种族
-
-魔鬼大公
+| | |
+| --- | --- |
+| 类型 | [邪魔](Fiend.md "邪魔") |
+| 种族 | 魔鬼大公 |
 
 **梅菲斯特**是[九狱](Nine_Hells.md "九狱")第八层[卡尼亚](https://forgottenrealms.fandom.com/wiki/Cania)的魔鬼大公统治者。<sup>[\[1\]](#cite_note-1)</sup> 拥有其血脉的[提夫林](Tiefling.md "Tiefling")，即[梅菲斯特提夫林](Tiefling.md#Mephistopheles_tiefling "Tiefling")，被赋予了他部分著名的魔法技能。
 

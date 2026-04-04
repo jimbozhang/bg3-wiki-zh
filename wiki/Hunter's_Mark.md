@@ -24,16 +24,6 @@
 
 以更高环阶施法此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_HuntersMark`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 赠予
 
 - [重新施展猎人印记](Reapply_Hunter's_Mark.md "重新施展猎人印记")

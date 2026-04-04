@@ -16,12 +16,6 @@
 范围：自身
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Monk_Restore_Ki`
-
 ## 如何习得
 
 由物品授予：

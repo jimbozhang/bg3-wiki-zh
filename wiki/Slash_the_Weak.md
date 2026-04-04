@@ -20,16 +20,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_MAG_Gish_WeaknessBranding_Slashing`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：弱点挥砍
 
 **[弱点挥砍](Slash_the_Weak_(Condition).md "弱点挥砍 (状态)")**

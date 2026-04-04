@@ -19,16 +19,6 @@
 射程：18米（60英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_LOW_DevilsFee_Coin`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由生物使用：[赫尔希克](Helsik.md "赫尔希克")

@@ -17,12 +17,6 @@
 
 以此法术升环施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_DarkUrge_PowerWordKill`
-
 ## 如何习得
 
 其他习得方式：

@@ -29,16 +29,6 @@
 
 在 10 等级时，拥有 [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")，伤害加成从 1d8 增加到 1d10。
 
-## 技术细节
-
-UID
-
-`Target_DistractingStrike`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：分心
 
 **[分心](Distracted_(Condition).md "分心 (状态)")**

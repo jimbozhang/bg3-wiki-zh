@@ -18,22 +18,6 @@
 近战：1.5米（5英尺）
 目标：仅限[肉肉](Flesh.md "肉肉")
 
-## 技术细节
-
-UID
-
-`Target_SHA_Ghoul_ExpertStitching`
-
-普通版本，治疗33点生命值
-
-`Target_SHA_Ghoul_ExpertStitching_Hardcore`
-
-硬核版本，仅治疗22点生命值
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[食尸鬼医生](Ghoul_Medic.md "食尸鬼医生")

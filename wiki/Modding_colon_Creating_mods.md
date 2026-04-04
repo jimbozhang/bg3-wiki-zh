@@ -12,7 +12,7 @@
 
 ## 介绍
 
-[**在此处请求一个与模组相关的维基页面！**](https://forms.gle/eEhyfzsY5hmvVTRV8)
+[在此处请求一个与模组相关的维基页面！](https://forms.gle/eEhyfzsY5hmvVTRV8)
 
 您是否对成为《博德之门3》模组制作者感到兴奋，但完全不知道从哪里开始？
 

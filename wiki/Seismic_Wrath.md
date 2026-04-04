@@ -16,22 +16,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_UND_Phase2_AdamantineGolem`
-
-消耗动作的普通版本
-
-`Shout_UND_Phase2_AdamantineGolem_Hardcore`
-
-免费的硬核版本
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 生物：岩浆魔蝠
 
 | [力量](Strength.md "力量") 8 (-1) | [敏捷](Dexterity.md "敏捷") 12 (+1) | [体质](Constitution.md "体质") 12 (+1) | [智力](Intelligence.md "智力") 7 (-2) | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |

@@ -23,16 +23,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_PLA_ShieldOfFaith_SwordOfJustice`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：虔诚护盾
 
 **[虔诚护盾](Shield_of_Faith_(Condition).md "虔诚护盾 (状态)")**

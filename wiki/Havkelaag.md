@@ -1,97 +1,17 @@
 # 哈克拉格
 
-## 哈克拉格
-
-光耀会
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Marcel McCalla](https://www.imdb.com/name/nm0565561/)
-
-### 阵营
-
-[光耀会](Society_of_Brilliance.md "Society of Brilliance")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[灰矮人](Duergar.md "Duergar")
-
-### 职业
-
-[术士](Sorcerer.md "Sorcerer")
-
-### 副职
-
-[龙族血脉](Draconic_Bloodline.md "Draconic Bloodline")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-90
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 11 / (0) | 14 / (+2) | 13 / (+1) | 18 / (+4) | 13 / (+1) | 11 / (0) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Marcel McCalla](https://www.imdb.com/name/nm0565561/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 10 |
+| 生命值 | 90 |
+| 护甲等级 | 15 |
+| 先攻 | +2 |
+| 经验值 | 250 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -101,81 +21,13 @@
 
 - 5
 
-- - ## 特性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-- [**龙族血统：银龙（寒冷）**](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
+- ## 额外资源
 
-在 6 级时：[寒冷](Cold.md "Cold") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
+- 6
 
-- [龙族韧性](Draconic_Resilience.md "龙族韧性")
-
-不穿护甲时，基础 [护甲等级](Armour_Class.md "Armour Class") 为 13。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对抗 [幻术学派](Illusion.md "Illusion") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害具有 [抗性](Resistance.md "Resistance")。
-
-- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
-
-当你施放与你的龙族血统相关的伤害类型的法术时，你会将你的 [魅力](Charisma.md "Charisma") [调整值](Ability_score_modifier.md "Ability Score Modifier") 加到伤害上。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和 [察觉技能](Perception.md "Perception") 检定具有 [劣势](Disadvantage.md "Disadvantage")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 探索者难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-63
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +2 | +1 | +4 | +1 | 0 |
+- 5
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -185,139 +37,7 @@
 
 - 5
 
-- - ## 特性
-
-- [**龙族血统：银龙（寒冷）**](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
-
-在 6 级时：[寒冷](Cold.md "Cold") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
-
-- [龙族韧性](Draconic_Resilience.md "龙族韧性")
-
-不穿护甲时，基础 [护甲等级](Armour_Class.md "Armour Class") 为 13。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对抗 [幻术学派](Illusion.md "Illusion") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害具有 [抗性](Resistance.md "Resistance")。
-
-- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
-
-当你施放与你的龙族血统相关的伤害类型的法术时，你会将你的 [魅力](Charisma.md "Charisma") [调整值](Ability_score_modifier.md "Ability Score Modifier") 加到伤害上。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和 [察觉技能](Perception.md "Perception") 检定具有 [劣势](Disadvantage.md "Disadvantage")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 硬核难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-117
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 0 | 2 | 1 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 额外资源
-
-- 6
-
-- 5
-
-- - ## 特性
-
-- [**龙族血统：银龙（寒冷）**](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
-
-在 6 级时：[寒冷](Cold.md "Cold") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
-
-- [龙族韧性](Draconic_Resilience.md "龙族韧性")
-
-不穿护甲时，基础 [护甲等级](Armour_Class.md "Armour Class") 为 13。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对抗 [幻术学派](Illusion.md "Illusion") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害具有 [抗性](Resistance.md "Resistance")。
-
-- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
-
-当你施放与你的龙族血统相关的伤害类型的法术时，你会将你的 [魅力](Charisma.md "Charisma") [调整值](Ability_score_modifier.md "Ability Score Modifier") 加到伤害上。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和 [察觉技能](Perception.md "Perception") 检定具有 [劣势](Disadvantage.md "Disadvantage")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_Havkelaag` ###
-
-UUID
-
-`8f24c3d5-33cd-4e4f-8c34-4fbc8863862d` ###
-
-Stats
-
-`LOW_TheLodge_Havkelaag` **哈克拉格**是 [博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3") 中 [下城区](Lower_City.md "Lower City") [光耀会](Society_of_Brilliance.md "Society of Brilliance") 的一名成员。他可以在 [第三幕](Act_Three.md "Act Three") 的 [会馆](The_Lodge.md "The Lodge") 内找到。
+**哈克拉格**是 [博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3") 中 [下城区](Lower_City.md "Lower City") [光耀会](Society_of_Brilliance.md "Society of Brilliance") 的一名成员。他可以在 [第三幕](Act_Three.md "Act Three") 的 [会馆](The_Lodge.md "The Lodge") 内找到。
 
 > “
 >

@@ -1,77 +1,17 @@
 # 达利瑞亚
 
-## 达利瑞亚
-
-- 游戏内
-- 模型
-- 裸体
-- 肖像画
-
-### 声音 / 演员
-
-- [Sofia Zervudachi](https://www.imdb.com/name/nm10343093/)
-
-### 家乡
-
-[扎尔宅邸](Szarr_Palace.md "Szarr_Palace"), [博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-## 属性
-
-### 体型
-
-中级
-
-### 类型
-
-[不死生物](Undead.md "Undead")
-
-### 种族
-
-[吸血鬼衍体](Vampire_spawn.md "Vampire_spawn")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-82
-
-### 护甲等级
-
-18
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 16 / (+3) | 16 / (+3) | 11 / (0) | 10 / (0) | 12 / (+1) |
+| | |
+| --- | --- |
+| 配音 | - [Sofia Zervudachi](https://www.imdb.com/name/nm10343093/) |
+| 体型 | 中级 |
+| 类型 | [不死生物](Undead.md "Undead") |
+| 种族 | [吸血鬼衍体](Vampire_spawn.md "Vampire_spawn") |
+| 等级 | 11 |
+| 生命值 | 82 |
+| 护甲等级 | 18 |
+| 先攻 | +3 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 320 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -89,21 +29,7 @@
 
 每回合恢复 10 [生命值](HP.md "HP")，除非处于阳光下或最近受到[光耀](Radiant.md "Radiant")伤害。
 
-## 技术信息
-
-###
-
-UID
-
-`S_WYR_VampireSpawns_Dalyria` ###
-
-UUID
-
-`204a74d2-e6ad-4e9b-a275-f03cb5f3d975` ###
-
-属性
-
-`Vampire_Spawn` **达利瑞亚**是[卡扎多尔](Cazador.md "Cazador")奴役的[吸血鬼衍体](Vampire_spawn.md "Vampire Spawn")，也是[阿斯代伦](Astarion.md "Astarion")的兄弟姐妹之一。
+**达利瑞亚**是[卡扎多尔](Cazador.md "Cazador")奴役的[吸血鬼衍体](Vampire_spawn.md "Vampire Spawn")，也是[阿斯代伦](Astarion.md "Astarion")的兄弟姐妹之一。
 
 ## 目录
 

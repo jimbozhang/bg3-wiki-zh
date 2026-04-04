@@ -25,16 +25,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_MAG_Myrkulites_GhoulTouch`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：麻痹
 
 **[麻痹](Paralysed_(Condition).md "麻痹（状态）")**

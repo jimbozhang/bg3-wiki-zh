@@ -25,16 +25,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当法术以3环或更高环级施放时，每比2环高1环，伤害增加1d10⁠⁠[光耀](Radiant.md "光耀")。
 
-## 技术细节
-
-UID
-
-`Target_Moonbeam`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(页面不存在\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 赋予
 
 - [移动月华之光](Move_Moonbeam.md "移动月华之光")

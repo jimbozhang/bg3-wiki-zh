@@ -1,25 +1,5 @@
 # 杰里斯 (Jerris)
 
-## 杰里斯 (Jerris)
-
-至上真神学徒 (Novice of the Absolute)
-
-- 游戏内 (In-game)
-- 模型 (Model)
-- 肖像画 (Portrait)
-
-### 身份 (Identity)
-
-女性 (Female)
-
-### 声音 / 演员 (Voice / Actor)
-
-- [Jodie Steele](https://www.imdb.com/name/nm7632738/)
-
-### 阵营 (Faction)
-
-[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")
-
 ## 属性 (Stats)
 
 ### 体型 (Size)
@@ -94,7 +74,7 @@
 
 - ## 额外资源 (Additional Resources)
 
-- - ## 特性 (Features)
+## 特性 (Features)
 
 - [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
@@ -166,7 +146,7 @@
 
 - ## 额外资源 (Additional Resources)
 
-- - ## 特性 (Features)
+## 特性 (Features)
 
 - [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
@@ -238,7 +218,7 @@
 
 - ## 额外资源 (Additional Resources)
 
-- - ## 特性 (Features)
+## 特性 (Features)
 
 - [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
@@ -263,22 +243,6 @@
 - [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到24 m / 80 ft。
-
-## 技术信息 (Technical)
-
-###
-
-UID
-
-`S_UND_DuergarSquadDilligent` ###
-
-UUID
-
-`a7338653-4d88-440e-aee6-4d5b3e611a2d` ###
-
-Stats
-
-`UND_KC_Duergar_Ranger`
 
 **杰里斯 (Jerris)** 是一名灰矮人游侠，是[海盗格雷蒙](Greymon.md "Greymon")在[幽暗地域](Underdark.md "Underdark")的船员之一，出现在[第一幕](Act_One.md "Act_One")。
 

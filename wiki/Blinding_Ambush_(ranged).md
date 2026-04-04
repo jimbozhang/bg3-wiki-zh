@@ -19,22 +19,6 @@
 射程：18 米（60 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_SHA_Orthon_BlindingPursuit_Ranged`
-
-实际攻击
-
-`Interrupt_SHA_Orthon_BlindingPursuit_Ranged`
-
-触发攻击的反应
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：目盲
 
 **[目盲](Blinded_(Condition).md "目盲（状态）")**

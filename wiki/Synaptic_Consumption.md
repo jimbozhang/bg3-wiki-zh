@@ -29,16 +29,6 @@
 范围：9 米 (30 英尺)
 持续时间：5 驱散
 
-## 技术细节
-
-UID
-
-`Target_MF_AbsorbIntellect`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell flag\) \(page does not exist\)")`, `[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 状态：至上吞噬
 
 **[至上吞噬](Absolute_Consumption_(Condition).md "至上吞噬 (状态)")**

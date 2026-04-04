@@ -1,79 +1,21 @@
 # 游荡的灵魂
 
-## 游荡的灵魂
-
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [Clare Corbett](https://www.imdb.com/name/nm1352940/)
-- [Amina Koroma](https://www.imdb.com/name/nm13339876/)
-- [Beth Park](https://www.imdb.com/name/nm5977770/)
-- [Bryony Corrigan](https://www.imdb.com/name/nm6790622/)
-- [Charles Armstrong](https://www.imdb.com/name/nm1084394/)
-- [Corey Montague-Sholay](https://www.imdb.com/name/nm4692725/)
-- [Crispin Redman](https://www.imdb.com/name/nm0714995/)
-- [Diana Croft](https://www.imdb.com/name/nm12019171/)
-- [Eilidh Beaton](https://www.imdb.com/name/nm10627247/)
-- [George Naylor](https://www.imdb.com/name/nm8385028/)
-- [Jack Maddison](https://www.imdb.com/name/nm13354855/)
-- [James Alexander](https://www.imdb.com/name/nm9298458/)
-- [Natasha Atherton](https://www.imdb.com/name/nm5442932/)
-- [Olivia Chappell](https://www.imdb.com/name/nm3165271/)
-- [Rishi Manuel](https://www.imdb.com/name/nm11062938/)
-
-## 属性
-
-### 体型
-
-不定
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-不定
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-6
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) | 8 / (-1) |
+| | |
+| --- | --- |
+| 配音 | - [Clare Corbett](https://www.imdb.com/name/nm1352940/) |
+| 体型 | 不定 |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | 不定 |
+| 等级 | 1 |
+| 生命值 | 6 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 特性
 
-- [**永恒债务**](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
+- [永恒债务](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
 死亡时，会爆炸成火球术术，然后转生为受拉斐尔誓缚的邪魔生物。
 
@@ -81,37 +23,11 @@
 
 攻击离开触及范围的敌人。
 
-## 探索者难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-4
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | -1 | -1 | -1 |
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 特性
 
-- [**永恒债务**](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
+- [永恒债务](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
 死亡时，会爆炸成火球术术，然后转生为受拉斐尔誓缚的邪魔生物。
 
@@ -119,37 +35,11 @@
 
 攻击离开触及范围的敌人。
 
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-7
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) | 8 / (-1) |
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 特性
 
-- [**永恒债务**](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
+- [永恒债务](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
 死亡时，会爆炸成火球术术，然后转生为受拉斐尔誓缚的邪魔生物。
 

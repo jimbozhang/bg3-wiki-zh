@@ -28,16 +28,6 @@
 - 在8级时，此额外伤害变为1d8[穿刺](Piercing.md "穿刺")伤害。
 - 在12级时，此额外伤害变为1d10[穿刺](Piercing.md "穿刺")伤害。
 
-## 技术细节
-
-UID
-
-`Target_Bite_Dilophosaurus`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[荒野形态：双脊龙](Wild_Shape_colon__Dilophosaurus.md "荒野形态：双脊龙")

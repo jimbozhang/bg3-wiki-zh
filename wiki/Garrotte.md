@@ -22,16 +22,6 @@
 充能：[短休](Short_rest.md "短休")
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_MAG_Bhaalist_Garrote`
-
-法术标志
-
-`[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：绞杀
 
 **[绞杀](Garrotted_(Condition).md "绞杀（状态）")**

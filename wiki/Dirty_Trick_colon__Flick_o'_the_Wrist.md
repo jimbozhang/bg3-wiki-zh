@@ -26,16 +26,6 @@
 近战：1.5米（5英尺）
 目标：持有武器的生物
 
-## 技术细节
-
-UID
-
-`Target_DirtyTrick_Disarm`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：武器掉落
 
 **[武器掉落！](Weapon_Dropped!_(Condition).md "武器掉落！（状态）")**

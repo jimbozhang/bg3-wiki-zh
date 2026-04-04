@@ -11,16 +11,6 @@
 消耗
 [动作](Actions.md#Resources "动作")
 
-## 技术细节
-
-UID
-
-`Shout_AstralKnowledge`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 变体
 
 - [星界知识：力量](Astral_Knowledge_colon__Strength.md "星界知识：力量")

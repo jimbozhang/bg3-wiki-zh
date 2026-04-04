@@ -1,92 +1,18 @@
 # 克里斯
 
-## 教士克里斯
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [哈里特·黑尔](https://www.imdb.com/name/nm9839003/)
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[卓尔](Drow.md "Drow")
-
-### 亚种
-
-[罗丝誓约卓尔](Lolth-Sworn_Drow.md "Lolth-sworn drow")
-
-### 原型
-
-[至上真神的教士](Adept_of_the_Absolute.md "Adept of the Absolute")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-58
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 13 / (+1) | 12 / (+1) | 16 / (+3) | 10 / (0) | 18 / (+4) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [哈里特·黑尔](https://www.imdb.com/name/nm9839003/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [卓尔](Drow.md "Drow") |
+| 等级 | 8 |
+| 生命值 | 58 |
+| 护甲等级 | 15 |
+| 先攻 | +1 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 140 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -96,69 +22,9 @@
 
 - - - - ## 状态
 
-- [**死亡防护**](Death_Ward_(Condition).md "Death Ward (Condition)")
+- [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)")
 
 如果此角色倒地，立即以 1 点生命值复活。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-40
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | +1 | +3 | 0 | +7 | +3 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -168,69 +34,9 @@
 
 - - - - ## 状态
 
-- [**死亡防护**](Death_Ward_(Condition).md "Death Ward (Condition)")
+- [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)")
 
 如果此角色倒地，立即以 1 点生命值复活。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-75
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 1 | 1 | 4 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -240,47 +46,11 @@
 
 - - - - ## 状态
 
-- [**死亡防护**](Death_Ward_(Condition).md "Death Ward (Condition)")
+- [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)")
 
 如果此角色倒地，立即以 1 点生命值复活。
 
-## 特性
-
-- [**引导神力：战神赐福**](Channel_Divinity_colon__War_God's_Blessing.md "Channel Divinity: War God's Blessing")
-
-赋予附近盟友你神祇的荣耀，使其[攻击掷骰](Attack_roll.md "Attack Roll")获得 +10 加值。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 技术信息
-
-###
-
-UID
-
-`S_MOO_PrisonGuard_002` ###
-
-UUID
-
-`0cf357ec-268c-4779-92ad-8d6c7de437d1` ###
-
-属性
-
-`MOO_FanaticOfTheAbsolute_Drow` **克里斯**在[第二幕](Act_Two.md "Act Two")巡逻于[月出之塔监狱](Moonrise_Towers_Prison.md "Moonrise Towers Prison")的牢房。
+**克里斯**在[第二幕](Act_Two.md "Act Two")巡逻于[月出之塔监狱](Moonrise_Towers_Prison.md "Moonrise Towers Prison")的牢房。
 
 > “
 >

@@ -14,16 +14,6 @@
 近战：1.5米（5英尺）
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_BolsteringMagic_Boost`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：强化魔法：恩赐
 
 **[强化魔法：恩赐](Bolstering_Magic_colon__Boon_(Condition).md "强化魔法：恩赐 (状态)")**

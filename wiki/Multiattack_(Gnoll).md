@@ -24,16 +24,6 @@
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Gnoll`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由法术授予：

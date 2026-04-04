@@ -1,9 +1,5 @@
 # 木乃伊
 
-另见：[木乃伊领主](Mummy_Lord.md "木乃伊领主")
-
-注意不要与[木乃伊（缚灵）](Mummy_(wraith).md)>混淆
-
 **木乃伊**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中一种不可游玩的[不死生物](Undead.md "Undead")种族。
 
 > “

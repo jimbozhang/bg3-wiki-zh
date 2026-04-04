@@ -20,16 +20,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-唯一标识符
-
-`Target_Bite_Cloaker`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：开放伤口
 
 **[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")**

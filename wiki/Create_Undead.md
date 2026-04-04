@@ -20,16 +20,6 @@
 
 以更高环阶施法此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_CreateUndead`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：木乃伊（唤起死灵）
 
 | [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 14 (+2) | [体质](Constitution.md "体质") 15 (+2) | [智力](Intelligence.md "智力") 6 (-2) | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 12 (+1) |

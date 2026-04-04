@@ -51,16 +51,6 @@ _向你的神祇祈求，为你提供丰富的药水和[营地补给](Camp_suppl
 
 此能力在牧师旁边的地面上生成一个名为“赐予的赏赐”的箱子，内含[营地补给](Camp_supplies.md "营地补给")、[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")或[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")，以及六到七瓶灵药。如果你重新分配牧师的属性点，赐予的赏赐箱子会消失，但其中的任何物品都会掉落在同一位置的地面上。
 
-## 技术细节
-
-UID
-
-`Shout_DivineIntervention`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 变体
 
 - [神圣干预：击破异端](Divine_Intervention_colon__Sunder_the_Heretical.md "神圣干预：击破异端")

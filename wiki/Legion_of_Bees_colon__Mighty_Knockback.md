@@ -12,12 +12,6 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Interrupt_GatheredSwarm_Bee_Prone`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

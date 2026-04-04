@@ -20,16 +20,6 @@
 目标：锥形范围内最多3个敌人
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Zone_Cleave_Brewer`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")

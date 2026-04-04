@@ -33,22 +33,6 @@
 
 \+ 2d6 + [力量调整值](Strength.md#Strength_modifier_chart "力量")⁠[钝击](Bludgeoning.md "钝击")
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_FleshGolem`
-
-平衡难度版本
-
-`Target_Multiattack_FleshGolem_EasyMode`
-
-伤害降低的探索者版本
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏 (状态)")**

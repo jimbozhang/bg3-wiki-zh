@@ -18,16 +18,6 @@
 作用区域：9 米 (30 英尺) 半径
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_SeeInvisibility_TrainedEye`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：识破隐形
 
 **[识破隐形](See_Invisibility_(Condition).md "识破隐形 (状态)")**

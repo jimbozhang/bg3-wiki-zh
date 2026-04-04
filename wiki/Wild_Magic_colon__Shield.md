@@ -6,12 +6,6 @@
 
 [护甲等级](Armour_Class.md "护甲等级")提高5点，并且你免疫[魔法飞弹](Magic_Missile.md "魔法飞弹")的效果。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Shield`
-
 ## 状态：护盾术
 
 **[护盾术](Shield_(Condition).md "护盾术")**

@@ -21,16 +21,6 @@
 射程：18 米（60 英尺）
 推动：1 米（3 英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_StoneThrow_Ogre`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 由以下生物使用：[布锡尔](Buthir.md "Buthir")、[契克](Chock.md "Chock")、[范克](Fank.md "Fank")、[格洛瑞克](Glourik.md "Glourik")、[Gurgon](Gurgon.md "Gurgon")、[米格](Mig.md "Mig") 和 [波尔玛](Polma.md "Polma")

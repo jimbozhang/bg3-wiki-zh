@@ -14,16 +14,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：1驱散
 
-## 技术细节
-
-UID
-
-`Shout_MAG_WeaponAction_TelekineticBolt`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`
-
 ## 状态：奥术弹药
 
 **[奥术弹药](Arcane_Ammunition_(Condition).md "奥术弹药 (状态)")**

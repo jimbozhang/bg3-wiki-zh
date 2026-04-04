@@ -14,7 +14,7 @@
 
 - - - - - - ## 状态
 
-- [**燃烧**](Burning_(Condition).md "燃烧 (状态)")
+- [燃烧](Burning_(Condition).md "燃烧 (状态)")
 
   - 每回合受到 1d4⁠⁠[火焰](Fire.md "火焰") 伤害。
 
@@ -24,7 +24,7 @@
 
   - [蘸取](Dip.md "蘸取") 动作可用于燃烧的角色或物体。
 
-- [**不灭明焰**](Continual_Flame_(Condition).md "不灭明焰 (状态)")
+- [不灭明焰](Continual_Flame_(Condition).md "不灭明焰 (状态)")
 
   - 被火焰包裹，但不产生热量且永不熄灭。
 

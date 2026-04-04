@@ -23,16 +23,6 @@
 - 在[角色等级](Character_level.md "角色等级") 5 时，伤害增加至 2d12[黯蚀](Necrotic.md "黯蚀")（如果未受伤，则为 2d8[黯蚀](Necrotic.md "黯蚀")）。
 - 在角色等级 10 时，伤害增加至 3d12[黯蚀](Necrotic.md "黯蚀")（如果未受伤，则为 3d8[黯蚀](Necrotic.md "黯蚀")）。
 
-## 技术细节
-
-UID
-
-`Target_TollTheDead`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

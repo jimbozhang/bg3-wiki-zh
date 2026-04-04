@@ -25,16 +25,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：以更高环位施放此法术时，每比3环高一环，额外造成1d6⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-## 技术细节
-
-UID
-
-`Target_VampiricTouch`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：吸血鬼之触
 
 **[吸血鬼之触](Vampiric_Touch_(Condition).md "吸血鬼之触 (状态)")**

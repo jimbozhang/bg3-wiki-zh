@@ -15,16 +15,6 @@
 范围效果：16米（53英尺）半径
 目标：半径内所有[小型](Small.md "小型")或[中级](Medium.md "中级")尸体
 
-## 技术细节
-
-UID
-
-`Shout_LOW_LivingSacrifice_Slayer`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 生物：血髓骷髅
 
 | [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 16 (+3) | [智力](Intelligence.md "智力") 6 (-2) | [感知](Wisdom.md "感知") 8 (-1) | [魅力](Charisma.md "魅力") 5 (-3) |

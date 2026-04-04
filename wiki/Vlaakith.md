@@ -1,42 +1,10 @@
 # 维拉基斯
 
-## 维拉基斯
+| | |
+| --- | --- |
+| 种族 | [不死生物](Undead.md "Undead")，前[吉斯洋基人](Githyanki.md "Githyanki") |
 
-巫妖女王
-
-- 过场动画
-- 肖像画
-- 模型
-
-### 全名
-
-维拉基斯 CLVII
-
-### 声优 / 演员
-
-- [贝珊·迪克森·贝特](https://www.imdb.com/name/nm4971258)
-
-## 属性
-
-### 种族
-
-[不死生物](Undead.md "Undead")，前[吉斯洋基人](Githyanki.md "Githyanki")
-
-## 技术信息
-
-###
-
-UID
-
-`S_GLO_Vlaakith` ###
-
-UUID
-
-`6b00f9fb-b932-4ac9-8ed8-1ca89dd7d247` ###
-
-属性
-
-`Githyanki_Melee` **维拉基斯 CLVII** 是当前的[不死](Lich.md "Lich")统治者，统治着[吉斯洋基人](Githyanki.md "Githyanki")。她监督着他们在所有位面的行动，并且在_[博德之门3](Baldur's_Gate_3.md "博德之门3")_事件发生期间，正积极寻找从她那里被盗的[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")。吉斯洋基[牧师](Cleric.md "Cleric")也可以选择她作为守护[神祇](Deities.md "Deities")。
+**维拉基斯 CLVII** 是当前的[不死](Lich.md "Lich")统治者，统治着[吉斯洋基人](Githyanki.md "Githyanki")。她监督着他们在所有位面的行动，并且在_[博德之门3](Baldur's_Gate_3.md "博德之门3")_事件发生期间，正积极寻找从她那里被盗的[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")。吉斯洋基[牧师](Cleric.md "Cleric")也可以选择她作为守护[神祇](Deities.md "Deities")。
 
 > “
 >

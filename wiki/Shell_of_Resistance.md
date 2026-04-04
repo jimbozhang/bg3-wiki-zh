@@ -13,16 +13,6 @@
 充能：每驱散
 持续时间：1驱散
 
-## 技术细节
-
-UID
-
-`Target_WYR_Shield_Capacitor_Gortash`
-
-法术标志
-
-`[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell_flag\) \(page does not exist\)")`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell_flag\) \(page does not exist\)")`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 状态：抗性外壳
 
 **[抗性外壳](Shell_of_Resistance_(Condition).md "抗性外壳（状态）")**

@@ -26,12 +26,6 @@
 
 在等级 9 时，狂暴提供的攻击额外伤害增加至 **+3**。
 
-## 技术细节
-
-UID
-
-`Shout_Rage_Totem_Wolf`
-
 ## 赋予
 
 - [激励咆哮](Inciting_Howl.md "激励咆哮")

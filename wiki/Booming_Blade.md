@@ -47,16 +47,6 @@
 
 \+ 3d8⁠[雷鸣](Thunder.md "雷鸣")（当目标移动时）
 
-## 技术细节
-
-UID
-
-`Target_BoomingBlade_ClassSpell`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：轰鸣剑
 
 **[轰鸣剑](Booming_Blade_(Condition).md "轰鸣剑（状态）")**

@@ -22,16 +22,6 @@
 拉动：3 米（10 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_MAG_ThornWhip_Sorrow`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 由物品提供：

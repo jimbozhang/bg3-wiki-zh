@@ -17,16 +17,6 @@
 范围效果：3 米（10 英尺）半径
 创建区域：黑暗
 
-## 技术细节
-
-UID
-
-`Projectile_Fly_Darkness_Raven`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(法术标志\) \(页面不存在\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(法术标志\) \(页面不存在\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(法术标志\) \(页面不存在\)")`, `[NoAOEDamageOnLand](https://bg3.wiki/w/index.php?title=NoAOEDamageOnLand_\(spell_flag\)&action=edit&redlink=1) "NoAOEDamageOnLand \(法术标志\) \(页面不存在\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(法术标志\) \(页面不存在\)")`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 区域：黑暗
 
 **[黑暗](Darkness_(cloud).md "黑暗 (云)")**

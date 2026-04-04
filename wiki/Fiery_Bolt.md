@@ -20,16 +20,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：8米（27英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_Generic_Imp`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 如何学习
 
 被以下生物使用：[次级小魔鬼](Lesser_Imp.md "次级小魔鬼")

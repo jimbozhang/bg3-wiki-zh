@@ -14,26 +14,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_SteelWatcher_Biped_SelfDestruct_Begin`
-
-普通钢铁卫士版本
-
-`Interrupt_SteelWatcher_Biped_SelfDestruct_Begin`
-
-自动触发动作的反应
-
-`Shout_SteelWatcher_Quadruped_SelfDestruct_Begin`
-
-泰坦版本
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：即将引爆
 
 **[即将引爆！](Detonation_Impending!_(Condition).md "即将引爆！ (状态)")**

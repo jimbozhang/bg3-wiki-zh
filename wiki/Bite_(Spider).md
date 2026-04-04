@@ -25,16 +25,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Bite_TinySpider_Familiar`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用： [魔宠：蜘蛛 (获得魔宠)](Conjured_Spider_(Find_Familiar).md)

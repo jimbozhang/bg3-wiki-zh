@@ -16,16 +16,6 @@
 范围效果：16米（53英尺）半径
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Shout_FrightfulPresence_Dragon`
-
-法术标志
-
-`[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell flag\) \(page does not exist\)")`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[RangeIgnoreSourceBounds](https://bg3.wiki/w/index.php?title=RangeIgnoreSourceBounds_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreSourceBounds \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreTargetBounds](https://bg3.wiki/w/index.php?title=RangeIgnoreTargetBounds_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreTargetBounds \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由以下生物使用：[受控红龙](Dominated_Red_Dragon.md "受控红龙")和[安苏](Ansur.md "安苏")

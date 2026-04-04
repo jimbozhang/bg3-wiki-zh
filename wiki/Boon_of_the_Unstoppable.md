@@ -11,22 +11,6 @@
 详情
 范围：50 米（167 英尺）
 
-## 技术细节
-
-UID
-
-`Target_LOW_BhaalTemple_OrinBuff`
-
-普通版本，提供 7 层
-
-`Target_LOW_BhaalTemple_OrinBuff_Hardcore`
-
-硬核版本，提供 12 层
-
-法术标志
-
-`[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreBlindness](https://bg3.wiki/w/index.php?title=RangeIgnoreBlindness_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreBlindness \(spell flag\) \(page does not exist\)")`
-
 ## 状态：不可撼动
 
 **[不可撼动](Unstoppable_(Condition).md "不可撼动 (状态)")**

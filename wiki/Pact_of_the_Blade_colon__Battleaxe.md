@@ -16,16 +16,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_PactOfTheBlade_Battleaxe`
-
-法术标志
-
-`[UNUSED_D](https://bg3.wiki/w/index.php?title=UNUSED_D_\(spell_flag\)&action=edit&redlink=1) "UNUSED D \(spell flag\) \(页面不存在\)")`
-
 ## 物品：魔契战斧
 
 [魔契战斧](Pactbound_Battleaxe.md "魔契战斧") – 持续时间：永久

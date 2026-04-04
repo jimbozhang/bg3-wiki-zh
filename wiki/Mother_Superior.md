@@ -1,75 +1,14 @@
 # 维康妮亚·迪佛
 
-## 维康妮亚·迪佛
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Jess Nesling](https://www.imdb.com/name/nm7754405/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [卓尔](Drow.md "Drow") |
 
-莎尔的女院长
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Jess Nesling](https://www.imdb.com/name/nm7754405/)
-
-### 阵营
-
-[莎尔](Shar.md "莎尔")
-
-### 家乡
-
-[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace"), [博德之门](Baldur's_Gate.md "Baldur's Gate"),
-[魔索布莱城](https://forgottenrealms.fandom.com/wiki/Menzoberranzan) 位于 [幽暗地域](https://forgottenrealms.fandom.com/wiki/Northdark)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[卓尔](Drow.md "Drow")
-
-### 亚种
-
-[罗丝誓约卓尔](Lolth-Sworn_Drow.md "Lolth-sworn drow")
-
-### 职业
-
-[牧师](Cleric.md "Cleric")
-
-### 副职
-
-[诡术领域](Trickery_Domain.md "Trickery Domain")
-
-### 神祇
-
-[莎尔](Shar.md "Shar")
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_Viconia` ###
-
-UUID
-
-`b1ea974d-96fb-47ca-b6d9-9c85fcb69313` ###
-
-Stats
-
-`LOW_HouseOfGrief_Viconia` **维康妮亚·迪佛** 是一名 [卓尔](Drow.md "Drow") [牧师](Cleric.md "Cleric")，信奉莎尔。她是 [博德之门](Baldur's_Gate.md "Baldur's Gate") 莎尔教派的女院长。她是《博德之门》和《博德之门II：冰风谷》中回归的角色，在前作中曾是伙伴。<sup>[\[1\]](#cite_note-1)</sup>
+**维康妮亚·迪佛** 是一名 [卓尔](Drow.md "Drow") [牧师](Cleric.md "Cleric")，信奉莎尔。她是 [博德之门](Baldur's_Gate.md "Baldur's Gate") 莎尔教派的女院长。她是《博德之门》和《博德之门II：冰风谷》中回归的角色，在前作中曾是伙伴。<sup>[\[1\]](#cite_note-1)</sup>
 
 > “
 >

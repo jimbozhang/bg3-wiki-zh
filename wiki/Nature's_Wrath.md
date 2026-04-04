@@ -14,16 +14,6 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：3米（10英尺）
 
-## 技术细节
-
-UID
-
-`Target_NaturesWrath`
-
-法术标志
-
-`[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(spell_flag\) \(page does not exist\)")`
-
 ## 状态：自然之怒
 
 **[自然之怒](Nature's_Wrath_(Condition).md "自然之怒（状态）")**

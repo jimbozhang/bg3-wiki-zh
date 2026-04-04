@@ -20,16 +20,6 @@
 范围效果：3米（10英尺）锥形
 目标：锥形范围内的所有敌人
 
-## 技术细节
-
-UID
-
-`Zone_Ferocious_Slash_Wolf`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

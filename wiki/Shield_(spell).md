@@ -19,26 +19,6 @@
 
 以此法术的更高环阶施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_Shield_Wizard`
-
-法师版本
-
-`Shout_Shield_Sorcerer`
-
-术士版本
-
-`Shout_Shield_Warlock`
-
-邪术师版本
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：护盾
 
 **[护盾](Shield_(Condition).md "护盾 (状态)")**

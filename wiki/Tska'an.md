@@ -1,264 +1,34 @@
 # 茨卡'安
 
-## 审判官茨卡'安
-
-维拉基斯的化身
-
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Jodie Steele](https://www.imdb.com/name/nm7632738/)
-
-### 阵营
-
-维拉基斯忠诚派
-
-### 职业
-
-吉斯洋基审判官
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[吉斯洋基人](Githyanki.md "吉斯洋基人")
-
-### 职业
-
-[邪术师](Warlock.md "邪术师")
-
-### 副职
-
-不死生物宗主 ([维拉基斯](Vlaakith.md "维拉基斯"))
-
-- 平衡
-- 探索者
-- 硬核
-- 荣耀
-
-## 平衡难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-127
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+4
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-24 m (80 ft)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 16 / (+3) | 14 / (+2) | 14 / (+2) | 14 / (+2) | 18 / (+4) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Jodie Steele](https://www.imdb.com/name/nm7632738/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
+| 等级 | 9 |
+| 生命值 | 127 |
+| 先攻 | +3 |
+| 经验值 | 200 |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
+## 抗性 [(info)](Resistances.md "抗性")
 
-- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
-
-将[魅力](Charisma.md "魅力")调整值加入[魔能爆](Eldritch_Blast.md "魔能爆")伤害。
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-可在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
-
-- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
-
-在施放[法术](Spells.md "法术")后，可进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**灵能守御**](Psionic_Ward_(passive_feature).md "灵能守御（被动特性）")
-
-对[心灵](Psychic.md "心灵")伤害具有[抗性](Resistance.md "抗性")。在成功通过针对法术的[豁免检定](Saving_throw.md "豁免检定")时，恢复 1d4 [生命值](Hit_Points.md "生命值")。
-
-- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
-
-[魔能爆](Eldritch_Blast.md "魔能爆")可将生物推开最多 4.5 m (15 ft)。
-
-## 探索者难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-88
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+6
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-24 m (80 ft)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | +3 | +2 | +2 | +2 | +4 |
+- ## 额外资源
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
+## 状态
 
-- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
-
-将[魅力](Charisma.md "魅力")调整值加入[魔能爆](Eldritch_Blast.md "魔能爆")伤害。
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-可在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
-
-- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
-
-在施放[法术](Spells.md "法术")后，可进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**灵能守御**](Psionic_Ward_(passive_feature).md "灵能守御（被动特性）")
-
-对[心灵](Psychic.md "心灵")伤害具有[抗性](Resistance.md "抗性")。在成功通过针对法术的[豁免检定](Saving_throw.md "豁免检定")时，恢复 1d4 [生命值](Hit_Points.md "生命值")。
-
-- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
-
-[魔能爆](Eldritch_Blast.md "魔能爆")可将生物推开最多 4.5 m (15 ft)。
-
-## 硬核难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-165
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+4
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-24 m (80 ft)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 16 / (+3) | 14 / (+2) | 14 / (+2) | 14 / (+2) | 18 / (+4) |
-
-## 抗性 [(info)](Resistances.md "抗性")
-
-- ## 额外资源
-
-- - ## 状态
-
-- [**传奇抗性**](Legendary_Resistance_(Condition).md "传奇抗性（状态）")
+- [传奇抗性](Legendary_Resistance_(Condition).md "传奇抗性（状态）")
 
 其下三次[豁免检定](Saving_throw.md "豁免检定")具有 +10 加值。
-
-## 特性
-
-- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
-
-将[魅力](Charisma.md "魅力")调整值加入[魔能爆](Eldritch_Blast.md "魔能爆")伤害。
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-可在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
-
-- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
-
-在施放[法术](Spells.md "法术")后，可进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**灵能守御**](Psionic_Ward_(passive_feature).md "灵能守御（被动特性）")
-
-对[心灵](Psychic.md "心灵")伤害具有[抗性](Resistance.md "抗性")。在成功通过针对法术的[豁免检定](Saving_throw.md "豁免检定")时，恢复 1d4 [生命值](Hit_Points.md "生命值")。
-
-- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
-
-你的攻击造成额外 1d6 [心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深入骨髓。
-
-- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
-
-[魔能爆](Eldritch_Blast.md "魔能爆")可将生物推开最多 4.5 m (15 ft)。
-
-- [**战地施法者：专注**](War_Caster_colon__Concentration.md "战地施法者：专注")
-
-你在维持[法术](Spells.md "法术")[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。
-
-- [**战地施法者：借机施法**](War_Caster_colon__Opportunity_Spell.md "战地施法者：借机施法")
-
-你还可以使用[反应](Reaction.md "反应")对离开近战范围的目标施放[电爪](Shocking_Grasp.md "电爪")。
 
 ## 荣耀难度属性
 
@@ -298,87 +68,19 @@
 
 - ## 额外资源
 
-- - ## 状态
+## 状态
 
-- [**传奇动作：灵魂献祭**](Legendary_Action_colon__Soul_Sacrifice_(Condition).md "传奇动作：灵魂献祭（状态）")
+- [传奇动作：灵魂献祭](Legendary_Action_colon__Soul_Sacrifice_(Condition).md "传奇动作：灵魂献祭（状态）")
 
 可向维拉基斯献祭灵魂以换取强大力量。
 
-- [**传奇抗性**](Legendary_Resistance_(Condition).md "传奇抗性（状态）")
+- [传奇抗性](Legendary_Resistance_(Condition).md "传奇抗性（状态）")
 
 其下三次[豁免检定](Saving_throw.md "豁免检定")具有 +10 加值。
 
-## 特性
-
-- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
-
-将[魅力](Charisma.md "魅力")调整值加入[魔能爆](Eldritch_Blast.md "魔能爆")伤害。
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-可在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
-
-- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
-
-在施放[法术](Spells.md "法术")后，可进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
-
-- [**传奇动作：灵魂献祭**](Legendary_Action_colon__Soul_Sacrifice.md "传奇动作：灵魂献祭")
-
-每回合一次，向维拉基斯献祭灵魂以换取力量。献祭 3 个灵魂后，获得[维拉基斯的不朽形态](Vlaakith's_Undying_Aspect_(Condition).md)
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**灵能守御**](Psionic_Ward_(passive_feature).md "灵能守御（被动特性）")
-
-对[心灵](Psychic.md "心灵")伤害具有[抗性](Resistance.md "抗性")。在成功通过针对法术的[豁免检定](Saving_throw.md "豁免检定")时，恢复 1d4 [生命值](Hit_Points.md "生命值")。
-
-- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
-
-你的攻击造成额外 1d6 [心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深入骨髓。
-
-- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
-
-[魔能爆](Eldritch_Blast.md "魔能爆")可将生物推开最多 4.5 m (15 ft)。
-
-- [**战地施法者：专注**](War_Caster_colon__Concentration.md "战地施法者：专注")
-
-你在维持[法术](Spells.md "法术")[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。
-
-- [**战地施法者：借机施法**](War_Caster_colon__Opportunity_Spell.md "战地施法者：借机施法")
-
-你还可以使用[反应](Reaction.md "反应")对离开近战范围的目标施放[电爪](Shocking_Grasp.md "电爪")。
-
-## 技术
-
-###
-
-UID
-
-`S_TWN_VlaakithAttack_Caster_000` ###
-
-UUID
-
-`e4141a02-f5e7-4a0c-a7af-d3dda6610c1b` ###
-
 属性
 
-`TWN_Githyanki_Warlock` ## 变体 1
-
-###
-
-UID
-
-`TWN_VlaakithAttack_VlaakithForm` ###
-
-UUID
-
-`69f4c031-8d4e-41c5-997b-4d39a763ac66` ###
-
-属性
-
-`TWN_Githyanki_Warlock` **审判官茨卡'安**是一名[吉斯洋基人](Githyanki.md "吉斯洋基人")[邪术师](Warlock.md "邪术师")<sup>[\[1\]](#cite_note-1)</sup>，在[第二章](Act_Two.md "第二章")遭遇。
+**审判官茨卡'安**是一名[吉斯洋基人](Githyanki.md "吉斯洋基人")[邪术师](Warlock.md "邪术师")<sup>[\[1\]](#cite_note-1)</sup>，在[第二章](Act_Two.md "第二章")遭遇。
 
 > “
 >

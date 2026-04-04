@@ -22,12 +22,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（豁免成功时：目标仍承受一半伤害。）
 范围：9米（30英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_RadianceOfTheDawn`
-
 ## 学习方式
 
 职业：

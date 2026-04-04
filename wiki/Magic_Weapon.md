@@ -18,16 +18,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：使用4级或5级[法术位](Spells.md#Spell_Slots "Spells")施放此法术时，加值将增加2；使用6级法术位时，加值将增加3。
 
-## 技术细节
-
-UID
-
-`Target_MagicWeapon`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：魔法武器
 
 **[魔法武器](Magic_Weapon_(Condition).md "Magic Weapon (Condition)")**

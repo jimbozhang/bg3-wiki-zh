@@ -15,22 +15,6 @@
 范围效果：3米（10英尺）立方体
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Zone_LOW_FatherCarrion_SpiritParade`
-
-由反应触发的动作
-
-`Interrupt_LOW_FatherCarrion_SpiritParade`
-
-触发动作的反应
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：守卫缚灵
 
 **[守卫缚灵](Guardian_Wraiths_(Condition).md "守卫缚灵（状态）")**

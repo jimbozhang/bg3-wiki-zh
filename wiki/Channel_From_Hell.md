@@ -1,6 +1,6 @@
 本文介绍的是YouTube频道。您可能正在寻找[社区更新](Community_Updates.md "社区更新")或[补丁说明](Patch_notes.md "补丁说明")。
 
-[**Larian: Channel From Hell**](https://www.youtube.com/@LarianCFH)，或简称为**Channel From Hell**，是由[Larian Studios](Larian_Studios.md "Larian Studios")创建的一个以社区为中心的YouTube频道，在[Baldur's Gate 3](Baldur's_Gate_3.md "博德之门3")的一周年纪念日上宣布。
+[Larian: Channel From Hell](https://www.youtube.com/@LarianCFH)，或简称为**Channel From Hell**，是由[Larian Studios](Larian_Studios.md "Larian Studios")创建的一个以社区为中心的YouTube频道，在[Baldur's Gate 3](Baldur's_Gate_3.md "博德之门3")的一周年纪念日上宣布。
 
 “
 |

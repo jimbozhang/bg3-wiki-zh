@@ -18,16 +18,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当此法术以3级或更高法术位施放时，你可以为每个高于2级的法术位等级额外指定一个目标。
 
-## 技术细节
-
-UID
-
-`Target_EnhanceAbility_OwlsWisdom`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：枭之感知
 
 **[枭之感知](Owl's_Wisdom_(Condition).md "枭之感知 (状态)")**

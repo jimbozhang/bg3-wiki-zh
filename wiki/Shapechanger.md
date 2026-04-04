@@ -18,16 +18,6 @@
 [专注](Concentration.md "专注")
 持续时间：5驱散
 
-## 技术细节
-
-UID
-
-`Target_Polymorph_Shapechanger`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 状态：自我变形
 
 **[自我变形](Polymorph_Self_(Condition).md "自我变形（状态）")**

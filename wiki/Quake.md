@@ -28,12 +28,6 @@
 
 3d4 + 2d8⁠[钝击](Bludgeoning.md "钝击")
 
-## 技术细节
-
-UID
-
-`Shout_Stomp_AdamantineGolem`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

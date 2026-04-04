@@ -27,16 +27,6 @@
 - 当[角色等级](Character_level.md "角色等级")为6时，伤害增加至3d6⁠⁠[闪电](Lightning.md "闪电")。
 - 当角色等级为11时，伤害增加至4d6⁠⁠[闪电](Lightning.md "闪电")。
 
-## 技术细节
-
-UID
-
-`Zone_BreathWeapon_Lightning`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`
-
 ## 如何习得
 
 种族：

@@ -22,16 +22,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：30 米（100 英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_FOR_SpiderQueen_SilkTomb`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 状态：蛛丝墓穴
 
 **[蛛丝墓穴](Gossamer_Tomb_(Condition).md "蛛丝墓穴（状态）")**

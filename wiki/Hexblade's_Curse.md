@@ -20,16 +20,6 @@
 范围：18米（60英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_HexbladesCurse`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：脆弱诅咒
 
 **[脆弱诅咒](Hexblade's_Curse_(Condition).md "脆弱诅咒 (状态)")**

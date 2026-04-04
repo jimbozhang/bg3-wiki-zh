@@ -14,16 +14,6 @@
 [专注](Concentration.md "专注")
 持续时间：直至[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_ReadThoughts`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 状态：侦测思想
 
 **[侦测思想](Detect_Thoughts_(Condition).md "侦测思想 (状态)")**

@@ -14,16 +14,6 @@
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰"))
 范围：9 米 (30 英尺)
 
-## 技术细节
-
-UID
-
-`Target_MF_Imperil_Recast`
-
-法术标志
-
-`[临时](Temporary_(spell_flag).md)`, `[野兽形态](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "野兽形态 \(法术标志\) \(页面不存在\)")`
-
 ## 状态：灵魂破碎 (完整的灵吸怪)
 
 **\_(状态)[灵魂破碎](Shattered_Psyche_(Full-illithid)_(Condition).md "灵魂破碎 (完整的灵吸怪) (状态)")**

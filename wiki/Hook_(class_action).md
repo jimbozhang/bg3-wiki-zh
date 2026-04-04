@@ -24,16 +24,6 @@
 近战：1.5 米（5 英尺）
 推动：2 米（7 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Hook`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血 (状态)")**

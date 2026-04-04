@@ -16,12 +16,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_PactOfTheBlade_Hexblade_Flail`
-
 ## 物品：魔契连枷
 
 [魔契连枷](Pactbound_Flail.md "魔契连枷") – 持续时间：永久

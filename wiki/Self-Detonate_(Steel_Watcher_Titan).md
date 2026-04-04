@@ -21,16 +21,6 @@
 范围：自身
 区域效果：10米（33英尺）半径
 
-## 技术细节
-
-UID
-
-`Projectile_SteelWatcher_Quadruped_SelfDestructExplosion`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[钢铁卫士泰坦](Steel_Watcher_Titan.md "钢铁卫士泰坦")

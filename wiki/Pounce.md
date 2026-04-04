@@ -27,16 +27,6 @@
 - 在等级 8 时，此额外伤害变为 1d8⁠⁠[钝击](Bludgeoning.md "Bludgeoning")。
 - 在等级 12 时，此额外伤害变为 1d10⁠⁠[钝击](Bludgeoning.md "Bludgeoning")。
 
-## 技术细节
-
-UID
-
-`Projectile_Pounce_Panther_Summon`
-
-法术标志
-
-`[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell flag\) \(page does not exist\)")`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "Prone (Condition)")**

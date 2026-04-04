@@ -1,166 +1,17 @@
 # 比利根·英迪格
 
-## 比利根·英迪格
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-男性
-
-### 声优 / 演员
-
-- [Okezie Morro](https://www.imdb.com/name/nm2768619/)
-
-### 家庭
-
-[Sammia Indigo](Sammia_Indigo.md "Sammia Indigo") _(妻子)_
-[Dannbo Indigo](Dannbo_Indigo.md "Dannbo Indigo") _(儿子)_
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 生命值
-
-8
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 探索者难度属性
-
-### 生命值
-
-5
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 硬核难度属性
-
-### 生命值
-
-10
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 技术信息
-
-###
-
-UID
-
-`S_WYR_South_Civilian_002` ###
-
-UUID
-
-`b6a8b4ee-87a1-4129-b8f0-5d2ef7ec76ea` ###
-
-属性
-
-`Human_Commoner` **比利根·英迪格**是[人类](Human.md "Human")难民，正与家人一起在[利文顿](Rivington.md "Rivington")的[南翼检查点](South_Span_Checkpoint.md "South_Span Checkpoint")等待进入[博德之门](Baldur's_Gate.md "Baldur's Gate")，期间处于[第三幕](Act_Three.md "Act Three")。
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+
+**比利根·英迪格**是[人类](Human.md "Human")难民，正与家人一起在[利文顿](Rivington.md "Rivington")的[南翼检查点](South_Span_Checkpoint.md "South_Span Checkpoint")等待进入[博德之门](Baldur's_Gate.md "Baldur's Gate")，期间处于[第三幕](Act_Three.md "Act Three")。
 
 > “
 >

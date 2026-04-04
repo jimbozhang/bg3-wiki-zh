@@ -17,16 +17,6 @@
 详情
 范围：3 米（10 英尺）
 
-## 技术细节
-
-UID
-
-`Target_FungalInfestation`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 生物：真菌僵尸
 
 | [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 6 (-2) | [体质](Constitution.md "体质") 16 (+3) | [智力](Intelligence.md "智力") 3 (-4) | [感知](Wisdom.md "感知") 6 (-2) | [魅力](Charisma.md "魅力") 5 (-3) |

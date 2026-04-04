@@ -1,15 +1,8 @@
 # 洛山达
 
-## 洛山达
-
-晨曦之主
-黎明使者
-
-## 属性
-
-### 种族
-
-[神祇](Deity.md "神祇")
+| | |
+| --- | --- |
+| 种族 | [神祇](Deity.md "神祇") |
 
 **洛山达**（Lathander），又名_晨曦之主_，是[神祇](God.md "God")，掌管诞生、黎明与新生，守序善良。他与[生命领域](Life_Domain.md "Life Domain")和[光明领域](Light_Domain.md "Light Domain")相关。
 

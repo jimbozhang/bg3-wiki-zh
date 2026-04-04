@@ -13,18 +13,6 @@
 详情
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_ProjectedWard_Interrupt`
-
-由反应触发的动作
-
-`Interrupt_ProjectedWard`
-
-施放该动作的反应
-
 ## 学习方式
 
 职业：

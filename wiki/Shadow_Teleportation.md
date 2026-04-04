@@ -17,16 +17,6 @@
 目标：[隐蔽](Obscured.md "隐蔽")地点
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_MAG_Shadow_Shadowstep`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由物品授予：

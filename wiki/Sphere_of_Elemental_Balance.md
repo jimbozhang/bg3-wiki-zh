@@ -16,16 +16,6 @@
 远程法术 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_ChromaticOrb_Monk`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 变体
 
 - [元素平衡球：强酸](Sphere_of_Elemental_Balance_colon__Acid.md "元素平衡球：强酸")

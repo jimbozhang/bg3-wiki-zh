@@ -1,33 +1,9 @@
 # 巴尔
 
-## 巴尔
-
-谋杀之主
-
-- 壁画
-- 符号
-
-### 声音 / 演员
-
-- [Doug Cockle](https://www.imdb.com/name/nm0168339/)
-
-### 阵营
-
-[三神](Dead_Three.md "三神") & [至上真神教](Cult_of_the_Absolute.md "至上真神教")
-
-### 家庭
-
-[邪念](The_Dark_Urge.md "邪念") (子嗣/造物)
-[沙洛佛克·安基夫](Sarevok_Anchev.md "沙洛佛克·安基夫") (子嗣)
-[海伦娜·安基夫](Helena_Anchev.md "海伦娜·安基夫") (孙女)
-[腥红奥林](Orin_the_Red.md "腥红奥林") (孙女及曾孙女)
-巴尔后裔
-
-## 属性
-
-### 种族
-
-[神祇](Deity.md "神祇")
+| | |
+| --- | --- |
+| 配音 | - [Doug Cockle](https://www.imdb.com/name/nm0168339/) |
+| 种族 | [神祇](Deity.md "神祇") |
 
 **巴尔**是谋杀之神，[三神](Dead_Three.md "三神")之一，也是所有[巴尔后裔](Bhaalspawn.md "巴尔后裔")的始祖，这些后裔皆是他的子嗣。他与死亡领域相关联。巴尔不能作为[牧师](Cleric.md "牧师")玩家角色的神祇。他在《博德之门3》中的崇拜者——[巴尔教团](Cult_of_Bhaal.md "巴尔教团")——在[第三幕](Act_Three.md "第三幕")中也扮演着重要角色。
 

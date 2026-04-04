@@ -1,245 +1,28 @@
 # 审判十字军
 
-请注意与 [审判十字军（原型）](Justiciar_Crusader_(archetype).md)）区分
-
-## 审判十字军
-
-- 模型
-- 肖像画
-
-## 属性
-
-### 体型
-
-大型
-
-### 类型
-
-不死生物
-
-### 种族
-
-不死生物
-
-- 平衡
-- 探索者
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-150
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-80 千克 (160 磅)
-
-### 经验值奖励
-
-280
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 14 / (+2) | 12 / (+1) | 8 / (-1) | 8 / (-1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 体型 | 大型 |
+| 类型 | 不死生物 |
+| 种族 | 不死生物 |
+| 等级 | 7 |
+| 生命值 | 150 |
+| 护甲等级 | 14 |
+| 先攻 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 280 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [黑暗复仇](Dark_Vengeance.md "黑暗复仇")
-
-审判十字军对站在黑暗中的目标具有优势。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [影子召唤](Living_Shadow.md "影子召唤")
-
-当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "Damage Types")，除了⁠[力场](Force.md "Force")、⁠[心灵](Psychic.md "Psychic")或⁠[光耀](Radiant.md "Radiant")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [莎尔视界](Shar's_Sight.md "莎尔视界")
-
-审判十字军不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉技能具有劣势。
-
-## 探索者难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-105
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-80 千克 (160 磅)
-
-### 经验值奖励
-
-280
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +7 | +2 | +1 | -1 | -1 | +1 |
+## 抗性 [(info)](Resistances.md "Resistances")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 特性
+## 状态
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [黑暗复仇](Dark_Vengeance.md "黑暗复仇")
-
-审判十字军对站在黑暗中的目标具有优势。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [影子召唤](Living_Shadow.md "影子召唤")
-
-当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "Damage Types")，除了⁠[力场](Force.md "Force")、⁠[心灵](Psychic.md "Psychic")或⁠[光耀](Radiant.md "Radiant")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [莎尔视界](Shar's_Sight.md "莎尔视界")
-
-审判十字军不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉技能具有劣势。
-
-## 硬核难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-195
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-80 千克 (160 磅)
-
-### 经验值奖励
-
-280
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 14 / (+2) | 12 / (+1) | 8 / (-1) | 8 / (-1) | 12 / (+1) |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- - ## 状态
-
-- [**光耀报复**](Radiant_Retort_(Condition).md "Radiant Retort (Condition)")
+- [光耀报复](Radiant_Retort_(Condition).md "Radiant Retort (Condition)")
 
 每当受到⁠[光耀](Radiant.md "Radiant")伤害时，将其以两倍⁠[力场](Force.md "Force")伤害反射回攻击者。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [黑暗复仇](Dark_Vengeance.md "黑暗复仇")
-
-审判十字军对站在黑暗中的目标具有优势。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [影子召唤](Living_Shadow.md "影子召唤")
-
-当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "Damage Types")，除了⁠[力场](Force.md "Force")、⁠[心灵](Psychic.md "Psychic")或⁠[光耀](Radiant.md "Radiant")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [莎尔视界](Shar's_Sight.md "莎尔视界")
-
-审判十字军不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉技能具有劣势。
 
 **审判十字军**是博德之门3中的不死生物。它出现在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet of Shar")。
 

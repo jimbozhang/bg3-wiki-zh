@@ -26,16 +26,6 @@
 - 在 8 级时，此额外伤害变为 1d8⁠⁠[穿刺](Piercing.md "穿刺")。
 - 在 12 级时，此额外伤害变为 1d10⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Target_Bite_SaberTooth`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏 (状态)")**

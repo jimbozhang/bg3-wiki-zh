@@ -15,12 +15,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_StillnessOfMind`
-
 ## 学习方式
 
 职业：

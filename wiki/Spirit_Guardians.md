@@ -26,16 +26,6 @@
 
 当使用4级或更高等级的法术位施放此法术时，伤害每比3级法术位高一级，就增加1d8⁠⁠[光耀](Radiant.md "光耀")或1d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-## 技术细节
-
-UID
-
-`Shout_SpiritGuardians`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [精魂守卫（光耀）](Spirit_Guardians_(Radiant).md "精魂守卫（光耀）")

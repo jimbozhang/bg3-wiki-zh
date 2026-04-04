@@ -21,16 +21,6 @@
 近战：1.5米（5英尺）
 击退：3米（10英尺）
 
-## 技术细节
-
-UID
-
-`Zone_LOW_OskarsBeloved_MindScreech`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：困惑
 
 **[困惑](困惑_(状态).md "困惑 (状态)")**

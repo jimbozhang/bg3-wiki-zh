@@ -11,16 +11,6 @@
 详情
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_GOB_GoblinPriest_CallForHelp`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[古特](Gut.md "古特")

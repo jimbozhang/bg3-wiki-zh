@@ -6,12 +6,6 @@
 
 你处于[减速](Slowed_(Condition).md "减速（状态）")状态。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Slow`
-
 ## 状态：减速
 
 **[减速](Slowed_(Condition).md "减速（状态）")**

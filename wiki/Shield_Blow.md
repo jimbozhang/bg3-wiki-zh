@@ -14,22 +14,6 @@
 [力量](Strength.md "力量")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_ShieldBlow_Riposte`
-
-由反应触发的动作
-
-`Interrupt_ShieldBlow`
-
-触发该动作的反应
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

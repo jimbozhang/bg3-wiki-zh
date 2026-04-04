@@ -20,12 +20,6 @@
 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：2米（7英尺）
 
-## 技术细节
-
-UID
-
-`Interrupt_MAG_Monk_KushigoCounter`
-
 ## 如何习得
 
 由物品授予：

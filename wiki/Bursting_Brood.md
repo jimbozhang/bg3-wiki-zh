@@ -18,16 +18,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 范围：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_BurstingBrood_Spider`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：感染（爆裂幼蛛）
 
 **\_(状态)[感染](Infested_(Bursting_Brood)_(Condition).md "感染 (爆裂幼蛛) (状态)")**

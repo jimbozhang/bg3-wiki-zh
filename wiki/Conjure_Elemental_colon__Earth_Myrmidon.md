@@ -19,16 +19,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_ConjureElemental_Myrmidon_Earth`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag\>).md)`，`[HasVerbalComponent](HasVerbalComponent_(spell_flag\>).md)`，`[IsSpell](IsSpell_(spell_flag\>).md)`
-
 ## 生物：土元素执政官
 
 | [力量](力量.md "力量") 18 (+4) | [敏捷](敏捷.md "敏捷") 10 | [体质](体质.md "体质") 17 (+3) | [智力](智力.md "智力") 8 (-1) | [感知](感知.md "感知") 10 | [魅力](魅力.md "魅力") 10 |

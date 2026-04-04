@@ -13,30 +13,6 @@
 详情
 充能：每场战斗四次
 
-## 技术细节
-
-UID
-
-`Shout_LOW_Raphael_Transform`
-
-一根灵魂之柱被摧毁后可用的版本
-
-`Shout_LOW_Raphael_Transform_2`
-
-两根灵魂之柱被摧毁后可用的版本
-
-`Shout_LOW_Raphael_Transform_3`
-
-三根灵魂之柱被摧毁后可用的版本
-
-`Shout_LOW_Raphael_Transform_4`
-
-所有灵魂之柱被摧毁后可用的版本
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：进化邪魔
 
 **[进化邪魔](Ascended_Fiend_(Condition).md "进化邪魔 (状态)")**

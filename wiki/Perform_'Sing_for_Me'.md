@@ -11,26 +11,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_Bard_Perform_DOS2_2_Drum`
-
-`Shout_Bard_Perform_DOS2_2_Flute`
-
-`Shout_Bard_Perform_DOS2_2_Lute`
-
-`Shout_Bard_Perform_DOS2_2_Lyre`
-
-`Shout_Bard_Perform_DOS2_2_Violin`
-
-`Shout_Bard_Perform_DOS2_2_Whistle`
-
-法术标志
-
-`[DontAbortPerforming](https://bg3.wiki/w/index.php?title=DontAbortPerforming_\(spell_flag\)&action=edit&redlink=1) "DontAbortPerforming \(spell flag\) \(page does not exist\)")`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`
-
 ## 状态：表演《为我歌唱》
 
 **[表演《为我歌唱》](Performing_'Sing_for_Me'_(Condition).md "表演《为我歌唱》 (状态)")**

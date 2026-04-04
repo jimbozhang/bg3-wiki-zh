@@ -19,16 +19,6 @@
 射程：9 米（30 英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_MF_Imperil`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell_flag\) \(page does not exist\)")`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell_flag\) \(page does not exist\)")`
-
 ## 授予
 
 - [灵魂破碎 (完整的灵吸怪)](Shatter_Psyche_(Full-illithid).md "灵魂破碎 (完整的灵吸怪)")

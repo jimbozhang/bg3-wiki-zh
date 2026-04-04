@@ -20,16 +20,6 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）（豁免成功时：目标改为承受2d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。）
 射程：4米（13英尺）
 
-## 技术细节
-
-UID
-
-`Target_StrengthDrain_Shadow`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：力量汲取
 
 **[力量汲取](Strength_Drain_(Condition).md "力量汲取 (状态)")**

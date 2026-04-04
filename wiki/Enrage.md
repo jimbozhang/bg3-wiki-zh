@@ -19,16 +19,6 @@
 范围：自身
 作用范围：4 米（13 英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_Owlbear_Wildshape_Enrage`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：枭熊之怒（荒野形态）
 
 **\_(状态)[枭熊之怒](Owlbear's_Rage_(Wildshape)_(Condition).md "Owlbear's Rage (Wildshape) (Condition)")**

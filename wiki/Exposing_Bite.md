@@ -25,16 +25,6 @@
 - 等级8时，此额外伤害变为1d8⁠⁠[穿刺](Piercing.md "穿刺")。
 - 等级12时，此额外伤害变为1d10⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Target_Bite_Wolf_Dire_Wildshape`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：暴露啃咬
 
 **[暴露啃咬](Exposing_Bite_(Condition).md "暴露啃咬 (状态)")**

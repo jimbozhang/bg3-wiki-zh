@@ -13,16 +13,6 @@
 详情
 射程：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_Flock_Raven`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 生物：乌鸦座
 
 | [力量](Strength.md "力量") 6 (-2) | [敏捷](Dexterity.md "敏捷") 14 (+2) | [体质](Constitution.md "体质") 8 (-1) | [智力](Intelligence.md "智力") 3 (-4) | [感知](Wisdom.md "感知") 12 (+1) | [魅力](Charisma.md "魅力") 6 (-2) |

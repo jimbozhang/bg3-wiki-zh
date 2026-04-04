@@ -1,381 +1,55 @@
 # 守卫者
 
-## 守卫者
-
-死亡骑士
-
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [Ben Onwukwe](https://www.imdb.com/name/nm0648936/)
-
-## 属性
-
-### 体型
-
-中级
-
-### 类型
-
-[不死生物](Undead.md "Undead")
-
-### 种族
-
-[死亡骑士](Death_Knight.md "Death Knight")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-238
-
-### 护甲等级
-
-20
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 施法豁免
-
-16 (魅力)
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-80 千克 (160 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-640
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 20 / (+5) | 11 / (0) | 20 / (+5) | 12 / (+1) | 16 / (+3) | 18 / (+4) |
+| | |
+| --- | --- |
+| 配音 | - [Ben Onwukwe](https://www.imdb.com/name/nm0648936/) |
+| 体型 | 中级 |
+| 类型 | [不死生物](Undead.md "Undead") |
+| 种族 | [死亡骑士](Death_Knight.md "Death Knight") |
+| 等级 | 12 |
+| 生命值 | 238 |
+| 护甲等级 | 20 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 640 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 额外资源
-
-- 5
-
-- - - 8
-
 ## 状态
 
-- [**集结不死生物**](Marshal_Undead_(Condition).md "集结不死生物 (状态)")
+- [集结不死生物](Marshal_Undead_(Condition).md "集结不死生物 (状态)")
 
   - 一种不朽的力量赋予死亡骑士和附近的不死生物[优势](Advantage.md "Advantage")，抵抗[被驱散](Turned_(Condition).md "被驱散 (状态)")。
 
-- [**灵魂誓言**](Soul_Oath_(Condition).md "灵魂誓言 (状态)")
+- [灵魂誓言](Soul_Oath_(Condition).md "灵魂誓言 (状态)")
 
   - 此生物已发誓保护其黑暗主人。若主人死亡，此生物也将随之死亡。
-
-## 特性
-
-- [额外法术位](Additional_Spell_Slot.md "额外法术位")
-
-你获得 1 个[1 级法术位](Spells.md#Spell_slots "法术")。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [眩晕斩](Dazing_Smite.md "眩晕斩")
-
-在一次命中并灌注了你的[至圣斩](Divine_Smite.md "至圣斩")的攻击中，目标必须通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
-
-- [恐惧砍伐者](Dreadful_Hewer.md "恐惧砍伐者")
-
-你的敌人在抵抗你的法术或造成[恐惧](Frightened_(Condition).md "恐慌 (状态)")的动作时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
-
-- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
-
-主手武器攻击后可再进行两次攻击。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**招架**](Parry.md "招架")
-
-招架下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
-
-- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
-
-此亵渎实体的武器攻击造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-
-- [**反击**](Riposte_(passive_feature).md "反击 (被动特性)")
-
-当近战攻击未命中你时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
-
-- [盾牌猛击](Shield_Bash.md "盾牌猛击")
-
-当被近战攻击命中时，可使用[反应](Reaction_(Resource).md) 将攻击者击至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
-
-## 探索者难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-166
-
-### 护甲等级
-
-20
-
-### 先攻
-
-0
-
-### 熟练项
-
-+6
-
-### 施法豁免
-
-18 (魅力)
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-80 千克 (160 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-640
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +9 | 0 | +9 | +1 | +7 | +4 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 额外资源
-
-- 5
-
-- - - 8
-
 ## 状态
 
-- [**集结不死生物**](Marshal_Undead_(Condition).md "集结不死生物 (状态)")
+- [集结不死生物](Marshal_Undead_(Condition).md "集结不死生物 (状态)")
 
   - 一种不朽的力量赋予死亡骑士和附近的不死生物[优势](Advantage.md "Advantage")，抵抗[被驱散](Turned_(Condition).md "被驱散 (状态)")。
 
-- [**灵魂誓言**](Soul_Oath_(Condition).md "灵魂誓言 (状态)")
+- [灵魂誓言](Soul_Oath_(Condition).md "灵魂誓言 (状态)")
 
   - 此生物已发誓保护其黑暗主人。若主人死亡，此生物也将随之死亡。
-
-## 特性
-
-- [额外法术位](Additional_Spell_Slot.md "额外法术位")
-
-你获得 1 个[1 级法术位](Spells.md#Spell_slots "法术")。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [眩晕斩](Dazing_Smite.md "眩晕斩")
-
-在一次命中并灌注了你的[至圣斩](Divine_Smite.md "至圣斩")的攻击中，目标必须通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
-
-- [恐惧砍伐者](Dreadful_Hewer.md "恐惧砍伐者")
-
-你的敌人在抵抗你的法术或造成[恐惧](Frightened_(Condition).md "恐慌 (状态)")的动作时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
-
-- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
-
-主手武器攻击后可再进行两次攻击。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**招架**](Parry.md "招架")
-
-招架下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
-
-- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
-
-此亵渎实体的武器攻击造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-
-- [**反击**](Riposte_(passive_feature).md "反击 (被动特性)")
-
-当近战攻击未命中你时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
-
-- [盾牌猛击](Shield_Bash.md "盾牌猛击")
-
-当被近战攻击命中时，可使用[反应](Reaction_(Resource).md) 将攻击者击至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
-
-## 硬核难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-309
-
-### 护甲等级
-
-20
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 施法豁免
-
-18 (魅力)
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-80 千克 (160 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-640
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 20 / (+5) | 11 / (0) | 20 / (+5) | 12 / (+1) | 16 / (+3) | 18 / (+4) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 额外资源
-
-- 5
-
-- - - 8
-
 ## 状态
 
-- [**集结不死生物**](Marshal_Undead_(Condition).md "集结不死生物 (状态)")
+- [集结不死生物](Marshal_Undead_(Condition).md "集结不死生物 (状态)")
 
   - 一种不朽的力量赋予死亡骑士和附近的不死生物[优势](Advantage.md "Advantage")，抵抗[被驱散](Turned_(Condition).md "被驱散 (状态)")。
 
-- [**灵魂誓言**](Soul_Oath_(Condition).md "灵魂誓言 (状态)")
+- [灵魂誓言](Soul_Oath_(Condition).md "灵魂誓言 (状态)")
 
   - 此生物已发誓保护其黑暗主人。若主人死亡，此生物也将随之死亡。
 
-## 特性
-
-- [额外法术位](Additional_Spell_Slot.md "额外法术位")
-
-你获得 1 个[1 级法术位](Spells.md#Spell_slots "法术")。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [眩晕斩](Dazing_Smite.md "眩晕斩")
-
-在一次命中并灌注了你的[至圣斩](Divine_Smite.md "至圣斩")的攻击中，目标必须通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
-
-- [恐惧砍伐者](Dreadful_Hewer.md "恐惧砍伐者")
-
-你的敌人在抵抗你的法术或造成[恐惧](Frightened_(Condition).md "恐慌 (状态)")的动作时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
-
-- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
-
-主手武器攻击后可再进行两次攻击。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**招架**](Parry.md "招架")
-
-招架下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
-
-- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
-
-此亵渎实体的武器攻击造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-
-- [**反击**](Riposte_(passive_feature).md "反击 (被动特性)")
-
-当近战攻击未命中你时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
-
-- [盾牌猛击](Shield_Bash.md "盾牌猛击")
-
-当被近战攻击命中时，可使用[反应](Reaction_(Resource).md) 将攻击者击至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_MurderTribunal_DeathKnight` ###
-
-UUID
-
-`c16a1ebd-4390-4309-b5d5-30df6e1333f6` ###
-
-属性
-
-`LOW_DeathKnight` **守卫者** 是一名[死亡骑士](Death_Knight.md "死亡骑士")，守卫着位于[巴尔信徒地下室](Bhaalist_Crypt.md "巴尔信徒地下室")的[谋杀裁判所](Murder_Tribunal.md "谋杀裁判所")大厅入口。
+**守卫者** 是一名[死亡骑士](Death_Knight.md "死亡骑士")，守卫着位于[巴尔信徒地下室](Bhaalist_Crypt.md "巴尔信徒地下室")的[谋杀裁判所](Murder_Tribunal.md "谋杀裁判所")大厅入口。
 
 > “
 >

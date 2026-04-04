@@ -22,16 +22,6 @@
 
 以此法术升环施法不会获得额外效果。
 
-## 技术细节
-
-UID
-
-`Target_FreezingSphere`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [欧提路克冰封法球（发射）](Otiluke's_Freezing_Sphere_(Launch).md "Otiluke's Freezing Sphere (Launch)")

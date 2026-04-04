@@ -19,16 +19,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：当以4环施法时，持续时间增加至20驱散；以5环施法时，持续时间增加至50驱散；以6环施法时，持续时间增加至100驱散。
 
-## 技术细节
-
-UID
-
-`Target_BestowCurse_Ability_Charisma`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：被诅咒：魅力
 
 **[被诅咒：魅力](Cursed_colon__Charisma_(Condition).md "被诅咒：魅力 (状态)")**

@@ -19,16 +19,6 @@
 详情
 近战: 1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Burrow_Bulette`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用: [鲨蜥兽](Bulette.md "鲨蜥兽")

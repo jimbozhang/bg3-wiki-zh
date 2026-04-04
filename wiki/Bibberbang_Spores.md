@@ -21,22 +21,6 @@
 创造区域：有毒烟雾
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Projectile_MAG_GreenSporeCloud`
-
-由孢子守护者护甲授予的版本
-
-`Projectile_GreenSporeCloud`
-
-恶臭蕈人使用的仅限NPC版本
-
-法术标志
-
-`[临时](Temporary_(spell_flag).md)`
-
 ## 区域：有毒烟雾
 
 **[有毒烟雾](Noxious_Fumes.md "有毒烟雾")**

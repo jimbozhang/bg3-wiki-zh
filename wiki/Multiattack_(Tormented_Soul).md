@@ -31,22 +31,6 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_LOW_OskarsBeloved_Nurse_Multiattack_Easy`
-
-平衡版本
-
-`Target_LOW_OskarsBeloved_Nurse_Multiattack`
-
-硬核版本
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[受折磨的灵魂](Tormented_Soul.md "受折磨的灵魂")

@@ -15,18 +15,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Interrupt_ShieldBlow`
-
-反应
-
-`ShieldMaster_Block`
-
-授予该反应的被动特性
-
 ## 学习方式
 
 由以下特性授予：

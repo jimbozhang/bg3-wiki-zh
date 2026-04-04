@@ -24,16 +24,6 @@
 充能：每回合
 持续时间：2回合
 
-## 技术细节
-
-UID
-
-`Shout_StaticOverdrive_Automaton`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 赋予
 
 - [多重攻击 (伯纳德)](Multiattack_(Bernard).md "多重攻击 (伯纳德)")

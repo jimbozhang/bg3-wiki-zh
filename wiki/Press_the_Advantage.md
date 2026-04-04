@@ -20,16 +20,6 @@
 近战武器[攻击掷骰](Attack_roll.md "Attack Roll")
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_MAG_Critical_Critical_Combo`
-
-法术标志
-
-`[CanDualWield](https://bg3.wiki/w/index.php?title=CanDualWield_\(spell_flag\)&action=edit&redlink=1) "CanDualWield \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何学习
 
 由状态提供：

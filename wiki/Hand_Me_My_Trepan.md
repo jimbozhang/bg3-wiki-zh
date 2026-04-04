@@ -15,16 +15,6 @@
 目标：马鲁斯·索姆
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_SurgeryEnabler_Trepan_Nurse`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 授予
 
 - [环锯术](Terror_Trepan.md "环锯术")

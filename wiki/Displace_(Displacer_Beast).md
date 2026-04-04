@@ -19,12 +19,6 @@
 范围：3米（10英尺）
 范围区域：18米（60英尺）半径
 
-## 技术细节
-
-UID
-
-`Teleportation_Displacement_DisplacerBeast`
-
 ## 生物：移位兽 (幻影)
 
 | [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 10 | [智力](Intelligence.md "智力") 10 | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |

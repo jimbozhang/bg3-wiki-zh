@@ -11,18 +11,6 @@
 消耗
 [反应](Actions.md#Reactions "反应")
 
-## 技术细节
-
-UID
-
-`Shout_SplinterShadow_Hound`
-
-由反应触发的动作
-
-`Interrupt_SplinterShadows`
-
-触发动作的反应
-
 ## 生物：分裂暗影猎犬
 
 | [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 14 (+2) | [体质](Constitution.md "体质") 13 (+1) | [智力](Intelligence.md "智力") 5 (-3) | [感知](Wisdom.md "感知") 12 (+1) | [魅力](Charisma.md "魅力") 5 (-3) |

@@ -19,18 +19,6 @@
 范围：30米（100英尺）
 范围效果：12米（40英尺）半径
 
-## 技术细节
-
-UID
-
-`Target_PsionicRebuke_Netherbrain`
-
-由被动功能 PsionicRebuke_Netherbrain 触发的动作：触发该动作的被动功能
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(页面不存在\)")`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell_flag\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：精神破碎
 
 **[精神破碎](Mindbroken_(Condition).md "精神破碎（状态）")**

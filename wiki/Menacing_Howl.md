@@ -14,12 +14,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：10米（33英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_WYR_Dribbles_Dog_Howl`
-
 ## 状态：威胁
 
 **[威胁](Menaced_(Condition).md "威胁（状态）")**

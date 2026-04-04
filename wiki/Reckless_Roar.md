@@ -16,16 +16,6 @@
 充能：每回合
 持续时间：3 驱散
 
-## 技术细节
-
-UID
-
-`Shout_Reckless_Minotaur`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：鲁莽咆哮
 
 **[鲁莽咆哮](Reckless_Roar_(Condition).md "鲁莽咆哮 (状态)")**

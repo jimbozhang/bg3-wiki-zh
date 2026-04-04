@@ -31,54 +31,6 @@
 
 [升环施法](Spells.md#Upcasting "法术")：以更高环位施放此法术时，每比1环高1环，额外造成1d6⁠⁠[寒冷](Cold.md "Cold")伤害。
 
-## 技术细节
-
-UID
-
-`Projectile_IceKnife`
-
-普通一级变体
-
-`Projectile_IceKnife_2`
-
-升环二级变体
-
-`Projectile_IceKnife_3`
-
-升环三级变体
-
-`Projectile_IceKnife_4`
-
-升环四级变体
-
-`Projectile_IceKnife_5`
-
-升环五级变体
-
-`Projectile_IceKnife_6`
-
-升环六级变体
-
-`Projectile_MAG_IceKnife`
-
-通过冰霜王子获得的每长休一次变体
-
-`Projectile_MAG_IceKnife_MonkGloves`
-
-通过雪尘修道院手套获得的每长休一次变体
-
-`Projectile_WYR_SmugglersCave_IceKnife_3`
-
-NPC专用变体，由迷人的莱瑟姆使用
-
-`Projectile_LOW_BhaalCultist_IceKnife`
-
-NPC专用变体，由巴尔唤魔师使用
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 区域：冰
 
 **[冰](Ice_(surface).md "冰（地表）")**

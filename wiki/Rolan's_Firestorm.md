@@ -25,16 +25,6 @@
 范围：30 米（100 英尺）
 范围效果：6 米（20 英尺）半径
 
-## 技术细节
-
-UID
-
-`Target_END_AllyAbility_RolanArtillery`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 此法术是以下法术的变体：

@@ -22,22 +22,6 @@
 范围效果：5米（17英尺）半径
 充能：每轮
 
-## 技术细节
-
-UID
-
-`Target_KiResonation_Blast`
-
-触发爆炸的动作
-
-`Projectile_KiResonation_Blast_Target`
-
-在每个共鸣目标处产生的爆炸
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

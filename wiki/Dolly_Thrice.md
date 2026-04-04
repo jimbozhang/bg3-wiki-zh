@@ -1,87 +1,19 @@
 # 多利多利多利
 
-## 多利多利多利
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Charlotte Sparey](https://www.imdb.com/name/nm2223874/) |
+| 体型 | [微型](Tiny.md "Tiny") |
+| 类型 | [妖精](Fey.md "Fey") |
+| 种族 | [妖精](Pixie.md "Pixie") |
+| 等级 | 1 |
+| 生命值 | 4 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
 
-- 肖像画
-- 模型
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Charlotte Sparey](https://www.imdb.com/name/nm2223874/)
-
-## 属性
-
-### 体型
-
-[微型](Tiny.md "Tiny")
-
-### 类型
-
-[妖精](Fey.md "Fey")
-
-### 种族
-
-[妖精](Pixie.md "Pixie")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-4
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-25 千克 (50 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 5 / (-3) | 10 / (0) | 5 / (-3) | 8 / (-1) | 8 / (-1) | 10 / (0) |
-
-## 技术
-
-###
-
-UID
-
-`S_GLO_Pixie` ###
-
-UUID
-
-`250b9342-fd7d-4a1d-a320-aa5e0dfbf2d5` ###
-
-属性
-
-`Commoner_Child` **多利多利多利** 或 **多利三重** 是一只被困在[月亮提灯](Moonlantern.md "Moonlantern")中的[妖精](Pixie.md "Pixie")，这盏提灯由在[幽影诅咒之地](Shadow_Cursed_Lands.md "Shadow-Cursed Lands")旅行的[卡'尼斯](Kar'niss.md "Kar'niss")——一只蛛化精灵——携带。
+**多利多利多利** 或 **多利三重** 是一只被困在[月亮提灯](Moonlantern.md "Moonlantern")中的[妖精](Pixie.md "Pixie")，这盏提灯由在[幽影诅咒之地](Shadow_Cursed_Lands.md "Shadow-Cursed Lands")旅行的[卡'尼斯](Kar'niss.md "Kar'niss")——一只蛛化精灵——携带。
 
 > “
 >

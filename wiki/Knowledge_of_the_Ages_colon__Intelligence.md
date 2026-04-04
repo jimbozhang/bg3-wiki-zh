@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_KnowledgeOfTheAges_Intelligence`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：岁月知识：智力
 
 **[岁月知识：智力](Knowledge_of_the_Ages_colon__Intelligence_(Condition).md "岁月知识：智力 (状态)")**

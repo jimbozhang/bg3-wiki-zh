@@ -12,12 +12,6 @@
 范围：自身
 创造区域：冰
 
-## 技术细节
-
-UID
-
-`Shout_MagicAllergy_SelfHeal`
-
 ## 状态：艾嘉西斯之铠
 
 **[艾嘉西斯之铠](Armour_of_Agathys_(Condition).md "艾嘉西斯之铠（状态）")**

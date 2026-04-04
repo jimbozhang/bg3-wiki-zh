@@ -6,12 +6,6 @@
 
 你在此驱散获得一个额外动作。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_ActionSurge`
-
 ## 状态：动作如潮
 
 **[动作如潮](Action_Surge_(Condition).md "动作如潮（状态）")**

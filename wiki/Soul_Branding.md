@@ -16,16 +16,6 @@
 射程：12米（40英尺）
 目标：1名装备武器的盟友
 
-## 技术细节
-
-UID
-
-`Target_GOB_DrowCommander_Buff`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：灵魂烙印
 
 **[灵魂烙印](Soul_Branding_(Condition).md "灵魂烙印 (状态)")**

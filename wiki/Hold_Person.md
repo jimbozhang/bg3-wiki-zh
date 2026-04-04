@@ -23,16 +23,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比2环高一环的法术位，可影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_HoldPerson`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：人类定身术
 
 **[人类定身术](Hold_Person_(Condition).md "人类定身术 (状态)")**

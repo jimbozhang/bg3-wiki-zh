@@ -1,49 +1,13 @@
 # 傻瓜杜兹
 
-## 傻瓜杜兹
+| | |
+| --- | --- |
+| 配音 | - [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
+| 体型 | 中级 |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
 
-公会成员
-
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [Adam Diggle](https://www.imdb.com/name/nm7920962/)
-
-### 阵营
-
-[公会](The_Guild.md "公会")
-
-## 属性
-
-### 体型
-
-中级
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类")
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_Guildhall_Member_005` ###
-
-UUID
-
-`b34e82a2-f774-4f73-b808-c2e79cabdb2a` ###
-
-属性
-
-`Human_Commoner` **傻瓜杜兹**是[公会](The_Guild.md "公会")的一名成员，有时可以在[博德之门](Baldur's_Gate.md "博德之门")的[底城区](Undercity.md "Undercity")的[公会大厅](Guildhall.md "公会大厅")中找到他。
+**傻瓜杜兹**是[公会](The_Guild.md "公会")的一名成员，有时可以在[博德之门](Baldur's_Gate.md "博德之门")的[底城区](Undercity.md "Undercity")的[公会大厅](Guildhall.md "公会大厅")中找到他。
 
 > “
 >

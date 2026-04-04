@@ -1,102 +1,17 @@
 # 赛夫洛
 
-## 赛夫洛
-
-地狱骑士流亡者
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Glen McCready](https://www.imdb.com/name/nm1959185/)
-
-### 阵营
-
-[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
-
-### 家乡
-
-[艾尔图瑞尔](Elturel.md "Elturel")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-### 亚种
-
-[阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling")
-
-### 职业
-
-[圣武士](Paladin.md "Paladin")
-
-### 副职
-
-[奉献之誓](Oath_of_Devotion.md "Oath of Devotion")/[弃誓者](Oathbreaker.md "Oathbreaker")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-44
-
-### 护甲等级
-
-17
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-9 米 (30 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 14 / (+2) | 15 / (+2) | 10 / (0) | 11 / (0) | 17 / (+3) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Glen McCready](https://www.imdb.com/name/nm1959185/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 4 |
+| 生命值 | 44 |
+| 护甲等级 | 17 |
+| 先攻 | +2 |
+| 经验值 | 75 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -126,47 +41,33 @@
 
 你的[生命值](Hit_Points.md "Hit Points")上限随你获得的每个等级增加 2 点。
 
-## 探索者难度属性
+## 抗性 [抗性](Resistances.md "抗性")
 
-### 等级
+- ## 额外资源
 
-4
+- - 4
 
-### 生命值
+- ## 特性
 
-33
+- [防御](Defence.md "防御")
 
-### 护甲等级
+穿着[护甲](Armour.md "Armour")时，[护甲等级](AC.md "AC") +1。
 
-17
+- [神佑](Divine_Health.md "神佑")
 
-### 先攻
+免疫[疾病](Disease.md "Disease")效果。
 
-+2
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-### 熟练项
+对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
 
-+4
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 移动速度
+攻击离开攻击范围的敌人。
 
-9 米 (30 英尺)
+- [健壮](Tough.md "健壮")
 
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-9 米 (30 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +3 | +2 | +2 | 0 | +2 | +5 |
+你的[生命值](Hit_Points.md "Hit Points")上限随你获得的每个等级增加 2 点。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -196,91 +97,7 @@
 
 你的[生命值](Hit_Points.md "Hit Points")上限随你获得的每个等级增加 2 点。
 
-## 硬核难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-54
-
-### 护甲等级
-
-17
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-9 米 (30 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 14 / (+2) | 15 / (+2) | 10 / (0) | 11 / (0) | 17 / (+3) |
-
-## 抗性 [抗性](Resistances.md "抗性")
-
-- ## 额外资源
-
-- - 4
-
-- ## 特性
-
-- [防御](Defence.md "防御")
-
-穿着[护甲](Armour.md "Armour")时，[护甲等级](AC.md "AC") +1。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "Disease")效果。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [健壮](Tough.md "健壮")
-
-你的[生命值](Hit_Points.md "Hit Points")上限随你获得的每个等级增加 2 点。
-
-## 技术细节
-
-###
-
-UID
-
-`S_DEN_TieflingLeader` ###
-
-UUID
-
-`475200ee-cc3c-4dbe-84b1-1820c02ea26a` ###
-
-Stats
-
-`DEN_TieflingLeader` **赛夫洛**是一群[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")的领袖，他们在被流放出家园后正前往[博德之门](Baldur's_Gate.md "Baldur's Gate")。他和他的[提夫林](Tiefling.md "Tiefling")同胞们被发现在[翠绿林地](Emerald_Grove.md "Emerald Grove")内躲藏。
+**赛夫洛**是一群[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")的领袖，他们在被流放出家园后正前往[博德之门](Baldur's_Gate.md "Baldur's Gate")。他和他的[提夫林](Tiefling.md "Tiefling")同胞们被发现在[翠绿林地](Emerald_Grove.md "Emerald Grove")内躲藏。
 
 > “
 >
@@ -343,81 +160,25 @@ Stats
 
 - 硬核
 
-## 平衡难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-86
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +3 | +2 | +2 | 0 | +4 | +7 |
-
 ## 状态
 
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
-- \_(状态)[**奉献灵光**](Aura_of_Devotion_(Aura)_(Condition).md "Aura of Devotion (Aura) (Condition)")
+- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "Aura of Devotion (Aura) (Condition)")
 
 圣武士和附近任何盟友不能被[魅惑](Charmed_(status_group).md)。
-
-## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可以在徒手或武器攻击后进行一次额外攻击。
-
-## 硬核难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-96
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 14 / (+2) | 15 / (+2) | 10 / (0) | 11 / (0) | 17 / (+3) |
 
 ## 状态
 
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
-- \_(状态)[**奉献灵光**](Aura_of_Devotion_(Aura)_(Condition).md "Aura of Devotion (Aura) (Condition)")
+- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "Aura of Devotion (Aura) (Condition)")
 
 圣武士和附近任何盟友不能被[魅惑](Charmed_(status_group).md)。
-
-## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可以在徒手或武器攻击后进行一次额外攻击。
 
 ## 上城区差异和补充
 
@@ -427,131 +188,35 @@ Stats
 
 - 硬核
 
-## 平衡难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-114
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +3 | +2 | +2 | 0 | +2 | +5 |
-
 ## 状态
 
-- \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "Aura of Courage (Aura) (Condition)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "Aura of Courage (Aura) (Condition)")
 
 圣武士和附近任何盟友不能被[恐慌](Frightened_(status_group).md)
 
-- \_(状态)[**活力监守**](Warden_of_Vitality_(Aura)_(Condition).md "Warden of Vitality (Aura) (Condition)")
+- \_(状态)[活力监守](Warden_of_Vitality_(Aura)_(Condition).md "Warden of Vitality (Aura) (Condition)")
 
   - 受影响实体可以使用[恢复活力](Restore_Vitality.md "Restore Vitality")来治疗自己或附近盟友。
-
-## 特性
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "Radiant") 伤害。
-
-## 探索者难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-103
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 14 / (+2) | 15 / (+2) | 10 / (0) | 11 / (0) | 17 / (+3) |
 
 ## 状态
 
-- \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "Aura of Courage (Aura) (Condition)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "Aura of Courage (Aura) (Condition)")
 
 圣武士和附近任何盟友不能被[恐慌](Frightened_(status_group).md)
 
-- \_(状态)[**活力监守**](Warden_of_Vitality_(Aura)_(Condition).md "Warden of Vitality (Aura) (Condition)")
+- \_(状态)[活力监守](Warden_of_Vitality_(Aura)_(Condition).md "Warden of Vitality (Aura) (Condition)")
 
   - 受影响实体可以使用[恢复活力](Restore_Vitality.md "Restore Vitality")来治疗自己或附近盟友。
-
-## 特性
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "Radiant") 伤害。
-
-## 硬核难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-124
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +7 | +5 | +5 | +3 | +9 | +12 |
 
 ## 状态
 
-- \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "Aura of Courage (Aura) (Condition)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "Aura of Courage (Aura) (Condition)")
 
 圣武士和附近任何盟友不能被[恐慌](Frightened_(status_group).md)
 
-- \_(状态)[**活力监守**](Warden_of_Vitality_(Aura)_(Condition).md "Warden of Vitality (Aura) (Condition)")
+- \_(状态)[活力监守](Warden_of_Vitality_(Aura)_(Condition).md "Warden of Vitality (Aura) (Condition)")
 
   - 受影响实体可以使用[恢复活力](Restore_Vitality.md "Restore Vitality")来治疗自己或附近盟友。
-
-## 特性
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "Radiant") 伤害。
-
-赛夫洛随后可以在[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")内的一个[夺心魔贮囊](Mind_Flayer_Pod.md "夺心魔贮囊")中被找到。通过打开所有贮囊可以释放他，这会引发与几个[夺心魔](Mind_flayer.md "Mind Flayer")的战斗。如果赛夫洛幸存，他会告诉队伍至上真神如何侵入他的思维，导致他在袭击难民时喊出投降。他认为其他提夫林不会欢迎他回来，并且无法被说服，最终独自离开。否则，他可能会被与所有夺心魔一起清除，导致死亡。
-
-### 第三幕
-
-如果赛夫洛在夺心魔殖民地未被杀死或释放，[奥林](Orin.md "奥林")会杀死他，并将他的尸体连同[辉煌地狱画作](Grand_Infernal_Painting.md "Grand Infernal Painting")留在营地。与他的尸体交谈会揭示他被用作祭品，奥林位于城市下方。
-
-否则，如果从[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")的贮囊中救出，他的[地狱骑士团](Hellrider_Platoon.md "Hellrider Platoon")可以作为盟友召唤，使用[召集盟友](Gather_Your_Allies_(class_action).md "Gather Your Allies (class action)")职业动作，在[至高大殿](High_Hall.md "High Hall")向[耐色脑](Netherbrain.md "Netherbrain")攀登时。然而，他和[枭熊幼兽](Owlbear_Cub.md "枭熊幼兽")是两个可能在这场最终战斗中永久死亡的主要角色。如果赛夫洛死亡，他将从[尾声](Epilogue.md "Epilogue")中移除。
-
-### 尾声
-
-如果赛夫洛在耐色脑战斗中幸存，可以在[感激之箱](Chest_of_Grateful_Words.md "Chest of Grateful Words")中找到他的感谢信；信中他透露地狱骑士现在[弃誓者](Oathbreaker.md "弃誓者")，但仍在博德之门定居，以保护城市免受艾尔图瑞尔那样的苦难。
 
 ## 战斗
 

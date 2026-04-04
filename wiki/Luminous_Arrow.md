@@ -23,16 +23,6 @@
 
 在10级时，[闪烁星座](Twinkling_Constellations.md "闪烁星座")将基础伤害提高至2d8[光耀](Radiant.md "光耀")。
 
-## 技术细节
-
-UID
-
-`Projectile_StarryForm_Archer_Damage`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

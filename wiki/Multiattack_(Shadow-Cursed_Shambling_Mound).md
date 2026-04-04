@@ -27,16 +27,6 @@
 近战：1.5 米（5 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_ShadowMound`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：缠绕
 
 **[缠绕](Entangled_(Condition).md "缠绕（状态）")**

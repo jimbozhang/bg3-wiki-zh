@@ -20,16 +20,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_Claws_IceMephit`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSwarmAttack](https://bg3.wiki/w/index.php?title=IsSwarmAttack_\(spell_flag\)&action=edit&redlink=1) "IsSwarmAttack \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 由生物使用：[冰魔蝠](Ice_Mephit.md "冰魔蝠")

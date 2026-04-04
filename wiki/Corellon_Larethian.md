@@ -1,20 +1,8 @@
 # 柯瑞隆·拉瑞斯安
 
-## 柯瑞隆·拉瑞斯安
-
-精灵的创造者
-席德瑞恩首位
-
-### 家族
-
-[罗丝](Lolth.md "Lolth")（前妻）
-[伊莉丝翠](Eilistraee.md "伊莉丝翠")（女儿）
-
-## 属性
-
-### 种族
-
-[神祇](Deity.md "Deity")
+| | |
+| --- | --- |
+| 种族 | [神祇](Deity.md "Deity") |
 
 **柯瑞隆·拉瑞斯安**是精灵的[神祇](God.md "God")，掌管艺术与魔法，阵营为混乱善良。他关联的领域包括奥秘、[生命领域](Life_Domain.md "Life Domain")、[光明领域](Light_Domain.md "Light Domain")、[战争领域](War_Domain.md "War Domain")。
 

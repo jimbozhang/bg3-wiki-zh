@@ -16,12 +16,6 @@
 范围：自身
 范围效果：3米（10英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_MagicAllergy_ForceExplosion`
-
 ## 状态：眩晕
 
 **[眩晕](Dazed_(Condition).md "眩晕（状态）")**

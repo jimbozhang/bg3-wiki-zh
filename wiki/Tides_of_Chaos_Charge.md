@@ -15,12 +15,6 @@
 消耗
 混沌之潮充能
 
-## 技术细节
-
-UID
-
-`Interrupt_TidesOfChaos`
-
 ## 状态：混沌之潮
 
 **[混沌之潮](Tides_of_Chaos_(Condition).md "混沌之潮（状态）")**

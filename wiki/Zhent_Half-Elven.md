@@ -1,124 +1,19 @@
 # 散塔林半精灵
 
-## 散塔林半精灵
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [半精灵](Half-Elf.md "Half-Elf") |
+| 等级 | 9 |
+| 生命值 | 75 |
+| 护甲等级 | 10 |
+| 先攻 | +3 |
+| 经验值 | 200 |
 
-肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Okezie Morro](https://www.imdb.com/name/nm2768619/)
-
-### 职业
-
-[散塔林会](Zentharim.md "Zentharim")成员
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[半精灵](Half-Elf.md "Half-Elf")
-
-### 亚种
-
-[半高精灵](High_Half-Elf.md "High Half-Elf")
-
-### 职业
-
-[游荡者](Rogue.md "Rogue")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-75
-
-### 护甲等级
-
-10
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-9 米 (30 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [反射闪避](Evasion.md "反射闪避")
-
-成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
-
-可以使用[反应](Reaction.md "Reaction")将即将到来的攻击伤害减半。
-
-## 技术细节
-
-###
-
-UID
-
-`S_END_ZhentarimSummon002` ###
-
-UUID
-
-`3bc06b07-d11f-4fd4-a351-d5bbbe8313ad` ###
-
-属性
-
-`END_Zhentarim_HalfElf` **散塔林半精灵**是一名[散塔林会](Zhentarim.md "Zhentarim")佣兵，可在[第三幕](Act_Three.md "Act Three")的[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间被召唤。
+**散塔林半精灵**是一名[散塔林会](Zhentarim.md "Zhentarim")佣兵，可在[第三幕](Act_Three.md "Act Three")的[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间被召唤。
 
 ## 目录
 

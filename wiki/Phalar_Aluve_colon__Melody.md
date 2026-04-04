@@ -14,16 +14,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：5 驱散
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Harpers_SingingSword_Container`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 变体
 
 - [生离死别：吟唱](Phalar_Aluve_colon__Sing.md "生离死别：吟唱")

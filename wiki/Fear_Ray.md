@@ -17,18 +17,6 @@
 射程：18米（60英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_FearRay_Spectator`
-
-`Target_UND_Spectator_Ray_Fear`
-
-法术标志
-
-`[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell flag\) \(页面不存在\)")`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(页面不存在\)")`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "恐慌（状态）")**

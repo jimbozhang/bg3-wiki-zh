@@ -21,16 +21,6 @@
 近战：1.5米（5尺）
 充能：每回合一次
 
-## 技术细节
-
-UID
-
-`Target_Bite_MothersLoathing`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 学习方式
 
 由物品提供：

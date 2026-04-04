@@ -13,22 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_UND_Phase1_AdamantineGolem`
-
-平衡难度及以下使用的版本
-
-`Shout_UND_Phase1_AdamantineGolem_Hardcore`
-
-硬核难度及以上使用的版本
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 由生物使用：[复仇侍卫](Grym.md "复仇侍卫")

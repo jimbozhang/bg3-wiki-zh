@@ -17,16 +17,6 @@
 目标：范围内的所有敌人
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_FeyPresence_Container`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 变体
 
 - [妖精仪态：魅惑](Fey_Presence_colon__Beguiling.md "妖精仪态：魅惑")

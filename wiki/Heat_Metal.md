@@ -27,16 +27,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高环位施放此法术时，每比2环高1环，额外造成1d8⁠⁠[火焰](Fire.md "火焰")伤害。
 
-## 技术细节
-
-UID
-
-`Target_HeatMetal`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 赋予
 
 - [重新施放灼热金属](Reapply_Heat_Metal.md "重新施放灼热金属")

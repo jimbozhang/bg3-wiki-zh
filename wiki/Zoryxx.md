@@ -1,14 +1,5 @@
 # 佐里克斯 (Zoryxx)
 
-## 祈祷者佐里克斯 (Prayerboy Zoryxx)
-
-- 模型 (Model)
-- 肖像画 (Portrait)
-
-### 身份 (Identity)
-
-男性 (Male)
-
 ## 属性 (Stats)
 
 ### 体型 (Size)
@@ -185,21 +176,7 @@
 
 攻击离开触及范围的敌人。
 
-## 技术信息 (Technical)
-
-###
-
-UID
-
-`S_LOW_AradinThug5` ###
-
-UUID
-
-`9909dc5b-bf27-441d-a75d-b7099e1edf30` ###
-
-Stats
-
-`LOW_AradinThug_Cleric` **祈祷者佐里克斯 (Prayerboy Zoryxx)** 是一名 [龙裔](Dragonborn.md "Dragonborn")，如果他在 [第三幕](Act_Three.md "Act Three") 期间在营地与玩家队伍对峙，他就是 [艾拉丁](Aradin_Beno.md "Aradin Beno") 雇佣兵小队的一员。
+**祈祷者佐里克斯 (Prayerboy Zoryxx)** 是一名 [龙裔](Dragonborn.md "Dragonborn")，如果他在 [第三幕](Act_Three.md "Act Three") 期间在营地与玩家队伍对峙，他就是 [艾拉丁](Aradin_Beno.md "Aradin Beno") 雇佣兵小队的一员。
 
 ## 参与 (Involvement)
 

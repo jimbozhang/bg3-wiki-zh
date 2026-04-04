@@ -1,24 +1,9 @@
 # 维里奥斯
 
-## 维里奥斯 "严苛者"
-
-### 家族
-
-[卡扎多尔·扎尔](Cazador_Szarr.md "Cazador Szarr") (学徒)
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-## 属性
-
-### 类型
-
-[不死生物](Undead.md "Undead")
-
-### 种族
-
-[不死生物](Undead.md "Undead"), [吸血鬼](Vampire.md "Vampire")
+| | |
+| --- | --- |
+| 类型 | [不死生物](Undead.md "Undead") |
+| 种族 | [不死生物](Undead.md "Undead"), [吸血鬼](Vampire.md "Vampire") |
 
 **维里奥斯 "严苛者"** 是[博德之门](Baldur's_Gate.md "Baldur's Gate")的一位吸血鬼领主，也是[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")的主人。他的头骨位于[卡扎多尔的地牢](Cazador's_Dungeon.md "Cazador's Dungeon")的西翼。
 

@@ -15,22 +15,6 @@
 详情
 充能：每场战斗一次
 
-## 技术细节
-
-UID
-
-`Shout_FOR_Owlbear_Enrage`
-
-平衡难度及以下使用的版本
-
-`Shout_FOR_Owlbear_Enrage_Hardcore`
-
-硬核难度及以上使用的版本
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 赋予
 
 - [多重攻击 (枭熊)](Multiattack_(Owlbear).md "多重攻击 (枭熊)")

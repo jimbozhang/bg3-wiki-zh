@@ -14,16 +14,6 @@
 范围：自身
 持续时间：1 驱散
 
-## 技术细节
-
-UID
-
-`Shout_Disengage_StepOfTheWind`
-
-法术标志
-
-`[NoCameraMove](https://bg3.wiki/w/index.php?title=NoCameraMove_\(spell_flag\)&action=edit&redlink=1) "NoCameraMove \(spell flag\) \(page does not exist\)")`
-
 ## 状态：撤离
 
 **[撤离](Disengage_(Condition).md "撤离 (状态)")**

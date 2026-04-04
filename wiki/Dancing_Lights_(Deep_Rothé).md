@@ -16,16 +16,6 @@
 创造区域：舞光术
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_DancingLights_DeepRothe`
-
-法术标志
-
-`[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 状态：舞光术
 
 **[舞光术](Dancing_Lights_(Condition).md "舞光术 (状态)")**

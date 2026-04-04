@@ -22,16 +22,6 @@
 
 在9级时，拥有[精通元素施法](Improved_Elemental_Casting.md "精通元素施法")，伤害提升至4d6⁠[火焰](Fire.md "火焰")。
 
-## 技术细节
-
-UID
-
-`Zone_BurningHands_Monk`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 赋予
 
 - [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")

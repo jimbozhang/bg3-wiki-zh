@@ -18,16 +18,6 @@
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
 范围：普通武器范围
 
-## 技术细节
-
-UID
-
-`Target_GreatWeaponMaster_BonusAttack`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 由状态授予：

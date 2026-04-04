@@ -22,12 +22,6 @@
 详情
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_TAD_DisplacerBeast`
-
 ## 状态：移位兽形态
 
 **[移位兽形态](Displacer_Beast_Form_(Condition).md "移位兽形态 (状态)")**

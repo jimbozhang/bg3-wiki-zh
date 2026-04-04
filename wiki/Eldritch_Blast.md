@@ -30,16 +30,6 @@
 
 你可以将光束对准单个或多个生物。每道光束进行单独的[攻击掷骰](Attack_roll.md "攻击掷骰")，并受所选[魔能祈唤](Eldritch_Invocations.md "魔能祈唤")影响（详见注释）。
 
-## 技术细节
-
-UID
-
-`Projectile_EldritchBlast`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[DisplayDamageModifiers](https://bg3.wiki/w/index.php?title=DisplayDamageModifiers_\(spell_flag\)&action=edit&redlink=1) "DisplayDamageModifiers \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 职业：

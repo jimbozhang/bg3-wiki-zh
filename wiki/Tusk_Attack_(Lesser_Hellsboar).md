@@ -20,12 +20,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Tusk_Boar_Weak`
-
 ## 如何习得
 
 由生物使用：[次级地狱野猪](Lesser_Hellsboar.md "次级地狱野猪")

@@ -14,16 +14,6 @@
 近战：1.5米（5英尺）
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_Guidance`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：神导术
 
 **[神导术](Guidance_(Condition).md "神导术（状态）")**

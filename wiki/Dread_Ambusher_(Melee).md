@@ -21,16 +21,6 @@
 范围：正常武器范围
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Target_DreadAmbusher`
-
-法术标志
-
-`[CanDualWield](https://bg3.wiki/w/index.php?title=CanDualWield_\(spell_flag\)&action=edit&redlink=1) "CanDualWield \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 如何习得
 
 职业：

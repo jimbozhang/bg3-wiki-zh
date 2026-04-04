@@ -20,16 +20,6 @@
 范围效果：3米（10英尺）半径
 目标：所有非盟友生物和物体
 
-## 技术细节
-
-UID
-
-`Target_Volley`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

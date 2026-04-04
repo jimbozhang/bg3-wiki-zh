@@ -15,16 +15,6 @@
 详情
 范围：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Help_BonusAction`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[螯刺蛛](Aranea_Aculeata.md "螯刺蛛")、[毒蛛座](Aranea_Major.md "毒蛛座")、[神速鸦](Corvus_Celer.md "神速鸦")、[乌鸦座](Corvus_Major.md "乌鸦座")、[天狼座](Lupus_Major.md "天狼座")、[天狼座](Lupus_Optumus.md "天狼座")、[熊战士](Ursa_Ingens.md "熊战士")、[大熊座](Ursa_Major.md "大熊座")、[灾祸豕](Verres_Calamitosus.md "灾祸豕")，以及[野猪座](Verres_Major.md "野猪座")

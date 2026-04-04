@@ -25,16 +25,6 @@
 - 当[角色等级](Character_level.md "角色等级")达到5级时，伤害增加至2d10⁠⁠[穿刺](Piercing.md "穿刺")。
 - 当角色等级达到10级时，伤害增加至3d10⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Target_BurstingSinew`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

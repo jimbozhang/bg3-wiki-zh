@@ -24,22 +24,6 @@
 
 在10级时，伤害变为4d6 + [力量调整值](Strength.md#Strength_modifier_chart "力量")⁠[钝击](Bludgeoning.md "钝击")
 
-## 技术细节
-
-UID
-
-`Projectile_TerrifyingLunge_Slayer`
-
-造成2d6伤害的基础版本
-
-`Projectile_TerrifyingLunge_Slayer_10`
-
-10级升级版，造成4d6伤害
-
-法术标志
-
-`[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell flag\) \(page does not exist\)")`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

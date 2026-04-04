@@ -24,16 +24,6 @@
 - 德鲁伊等级5时，伤害提升至3d6 + [施法调整值](Spells.md#Spellcasting_ability "施法")⁠[光耀](Radiant.md "光耀")。
 - 德鲁伊等级10时，伤害提升至4d6 + [施法调整值](Spells.md#Spellcasting_ability "施法")⁠[光耀](Radiant.md "光耀")。
 
-## 技术细节
-
-UID
-
-`Zone_StarryForm_Dragon_BreathWeapon`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

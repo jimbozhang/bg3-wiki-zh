@@ -19,16 +19,6 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_SteelWatcher_Biped_Pacify`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "Prone (Condition)")**

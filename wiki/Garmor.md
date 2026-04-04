@@ -1,96 +1,17 @@
 # 伽莫
 
-## 伽莫
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [艾什·里兹](https://www.imdb.com/name/nm7787239/)
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "至上真神教")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[矮人](Dwarf.md "矮人")
-
-### 亚种
-
-[灰矮人](Duergar.md "灰矮人")
-
-### 职业
-
-[野蛮人](Barbarian.md "野蛮人")
-
-### 副职
-
-[荒蛮之心](Wildheart.md "荒蛮之心")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-52
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-40
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [艾什·里兹](https://www.imdb.com/name/nm7787239/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [矮人](Dwarf.md "矮人") |
+| 等级 | 4 |
+| 生命值 | 52 |
+| 护甲等级 | 14 |
+| 先攻 | +1 |
+| 经验值 | 40 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -98,77 +19,11 @@
 
 - 3
 
-## 特性
+## 抗性 [抗性](Resistances.md "抗性")
 
-- [危机感知](Danger_Sense.md "危机感知")
+- ## 额外资源
 
-对陷阱、法术、地表的敏捷豁免具有优势。不能目盲或失能。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md) 或[麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-- [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
-
-未着护甲时，将[体质](Constitution.md "体质")调整值加到[护甲等级](AC.md "护甲等级")上。
-
-## 探索者难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-36
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-40
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +5 | +1 | +5 | 0 | +1 | +1 |
+- 3
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -176,129 +31,7 @@
 
 - 3
 
-## 特性
-
-- [危机感知](Danger_Sense.md "危机感知")
-
-对陷阱、法术、地表的敏捷豁免具有优势。不能目盲或失能。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md) 或[麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-- [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
-
-未着护甲时，将[体质](Constitution.md "体质")调整值加到[护甲等级](AC.md "护甲等级")上。
-
-## 硬核难度属性
-
-### 等级
-
-4
-
-### 生命值
-
-67
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-40
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 10 / (0) | 12 / (+1) | 12 / (+1) |
-
-## 抗性 [抗性](Resistances.md "抗性")
-
-- ## 额外资源
-
-- 3
-
-## 特性
-
-- [危机感知](Danger_Sense.md "危机感知")
-
-对陷阱、法术、地表的敏捷豁免具有优势。不能目盲或失能。
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md) 或[麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-- [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
-
-未着护甲时，将[体质](Constitution.md "体质")调整值加到[护甲等级](AC.md "护甲等级")上。
-
-## 技术信息
-
-###
-
-UID
-
-`S_UND_LoneDuergar_BoatGuard` ###
-
-UUID
-
-`8146788d-9d39-4cf2-99ca-03484deb0c55` ###
-
-属性
-
-`UND_Duergar_Barbarian` **新手伽莫**是[格克·煤球](Gekh_Coal.md "格克·煤球")在[幽暗地域](Underdark.md "幽暗地域")的搜索队成员，出现在[第一幕](Act_One.md "第一幕")期间。
+**新手伽莫**是[格克·煤球](Gekh_Coal.md "格克·煤球")在[幽暗地域](Underdark.md "幽暗地域")的搜索队成员，出现在[第一幕](Act_One.md "第一幕")期间。
 
 > “
 >

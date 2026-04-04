@@ -6,12 +6,6 @@
 
 从九层地狱的火焰枢纽召唤一个坎比翁。它对所有人都是敌对的。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Cambion`
-
 ## 生物：坎比翁（异界誓盟）
 
 | [力量](Strength.md "力量") 18 (+4) | [敏捷](Dexterity.md "敏捷") 18 (+4) | [体质](Constitution.md "体质") 16 (+3) | [智力](Intelligence.md "智力") 14 (+2) | [感知](Wisdom.md "感知") 12 (+1) | [魅力](Charisma.md "魅力") 16 (+3) |

@@ -16,16 +16,6 @@
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：9 米（30 英尺）
 
-## 技术细节
-
-UID
-
-`Target_MF_PerilousStakes`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell_flag\) \(页面不存在\)")`
-
 ## 状态：极端孤注一掷
 
 **[极端孤注一掷](Fierce_Perilous_Stakes_(Condition).md "极端孤注一掷（状态）")**

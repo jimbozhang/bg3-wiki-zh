@@ -1,41 +1,11 @@
 # 贝琳·斯特梅
 
-## 贝琳·斯特梅
-
-公爵
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 阵营
-
-[盾之骑士团](Knights_of_the_Shield.md "盾之骑士团")
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-### 职业
-
-[四人议会](Category_colon_Council_of_Four.md "Category:四人议会")成员
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类")
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
 
 **贝琳·斯特梅**是[博德之门](Baldur's_Gate.md "博德之门")的公爵，也是[盾之骑士团](Knights_of_the_Shield.md "盾之骑士团")的领袖。她最近在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")的套房内被谋杀。
 

@@ -15,26 +15,6 @@
 范围：18 米（60 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_DreadfulGlare_Mummy`
-
-远古仆从使用的版本
-
-`Target_DreadfulGlare_Mummy_CreateUndead`
-
-使用[唤起死灵](Create_Undead.md "唤起死灵")召唤的木乃伊使用的版本
-
-`Target_LOW_OskarsBeloved_Mummy_Glare`
-
-复仇之魂使用的版本
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "Frightened (Condition)")**

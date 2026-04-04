@@ -13,16 +13,6 @@
 详情
 充能：[长休](Long_Rest.md "Long rest")
 
-## 技术细节
-
-UID
-
-`Shout_SongOfRest`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

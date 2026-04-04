@@ -21,18 +21,6 @@
 射程：18米（60英尺）
 范围：1米（3英尺）半径
 
-## 技术细节
-
-UID
-
-`Throw_LOW_Poltergeist_Telekinesis`
-
-`Throw_LOW_Poltergeist_Telekinesis_Combat`
-
-法术标志
-
-`[AbortOnSecondarySpellRollFail](https://bg3.wiki/w/index.php?title=AbortOnSecondarySpellRollFail_\(spell_flag\)&action=edit&redlink=1) "AbortOnSecondarySpellRollFail \(spell flag\) \(page does not exist\)")`, `[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[CombatLogSetSingleLineRoll](https://bg3.wiki/w/index.php?title=CombatLogSetSingleLineRoll_\(spell_flag\)&action=edit&redlink=1) "CombatLogSetSingleLineRoll \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[InventorySelection](https://bg3.wiki/w/index.php?title=InventorySelection_\(spell_flag\)&action=edit&redlink=1) "InventorySelection \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

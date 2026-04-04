@@ -25,16 +25,6 @@
 - 在 [角色等级](Character_level.md "角色等级") 5 时，伤害增加至 2d8 [闪电](Lightning.md "闪电")。
 - 在角色等级 10 时，伤害增加至 3d8 [闪电](Lightning.md "闪电")。
 
-## 技术细节
-
-UID
-
-`Target_ShockingGrasp`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：电爪
 
 **[电爪](Shocking_Grasp_(Condition).md "电爪（状态）")**

@@ -20,16 +20,6 @@
 - 当勇气学院吟游诗人达到等级 5 时，奖励增加至 +1d8。
 - 当勇气学院吟游诗人达到等级 10 时，奖励增加至 +1d10。
 
-## 技术细节
-
-UID
-
-`Target_BardicInspiration_Combat`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：战斗激励
 
 **[战斗激励](Combat_Inspiration_(Condition).md "战斗激励（状态）")**

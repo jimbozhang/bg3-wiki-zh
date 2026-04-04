@@ -11,22 +11,6 @@
 详情
 充能：每场战斗一次
 
-## 技术细节
-
-UID
-
-`Shout_WYR_CallForHelp_Bane_Gortash`
-
-反应触发的动作
-
-`Interrupt_WYR_Gortash_Gortane`
-
-触发动作的反应
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreBlindness](https://bg3.wiki/w/index.php?title=RangeIgnoreBlindness_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreBlindness \(spell flag\) \(page does not exist\)")`
-
 ## 赋予
 
 - [班恩的紧握之拳](The_Closed_Fist_of_Bane.md "班恩的紧握之拳")

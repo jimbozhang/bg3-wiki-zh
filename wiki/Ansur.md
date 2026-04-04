@@ -1,139 +1,25 @@
 # 安苏
 
-## 安苏
-
-心之门
-等待之雷
-咆哮者
-
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [Anton Browne](https://www.imdb.com/name/nm7819894/)
-
-### 家族
-
-[博德安](Balduran.md "博德安")（伴侣）
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-[巨型](Huge.md "巨型")
-
-### 类型
-
-[不死龙](Undead_Dragon.md "不死龙") [青铜龙](List_of_creature_types.md#Dragon "生物类型列表")
-
-### 种族
-
-[不死龙](Undead_Dragon.md "不死龙")
-
-## 技术数据
-
-###
-
-UID
-
-`S_WYR_SkeletalDragon` ###
-
-UUID
-
-`67770922-5e0a-40c5-b3f0-67e8eb50493a` ###
+| | |
+| --- | --- |
+| 配音 | - [Anton Browne](https://www.imdb.com/name/nm7819894/) |
+| 体型 | [巨型](Huge.md "巨型") |
+| 类型 | [不死龙](Undead_Dragon.md "不死龙") [青铜龙](List_of_creature_types.md#Dragon "生物类型列表") |
+| 种族 | [不死龙](Undead_Dragon.md "不死龙") |
 
 属性
 
-`Dragon_BronzeSkeletal` ## 变体 1
-
-###
-
-UID
-
-`S_WYR_SkeletalDragon_HitProxy_Head` ###
-
-UUID
-
-`2d266951-c8de-4938-a1a8-832ddfe9ad73` ###
+属性
 
 属性
 
-`Dragon_BronzeSkeletal_Proxy` ## 变体 2
-
-###
-
-UID
-
-`S_WYR_SkeletalDragon_HitProxy_FrontLeg_Left` ###
-
-UUID
-
-`aae1b4ed-ff9a-476a-b1ac-e7733f7342ef` ###
+属性
 
 属性
 
-`Dragon_BronzeSkeletal_Proxy` ## 变体 3
-
-###
-
-UID
-
-`S_WYR_SkeletalDragon_HitProxy_FrontLeg_Right` ###
-
-UUID
-
-`93411434-d191-43c6-abfb-121f14bd3198` ###
-
 属性
 
-`Dragon_BronzeSkeletal_Proxy` ## 变体 4
-
-###
-
-UID
-
-`S_WYR_SkeletalDragon_HitProxy_BackLeg_Left` ###
-
-UUID
-
-`9cc444d3-ad64-42f0-8149-f776954e7b4e` ###
-
-属性
-
-`Dragon_BronzeSkeletal_Proxy` ## 变体 5
-
-###
-
-UID
-
-`S_WYR_SkeletalDragon_HitProxy_BackLeg_Right` ###
-
-UUID
-
-`d43c67c3-bdcd-4414-a3b4-19d770ff4838` ###
-
-属性
-
-`Dragon_BronzeSkeletal_Proxy` ## 变体 6
-
-###
-
-UID
-
-`S_WYR_SkeletalDragon_HitProxy_Tail` ###
-
-UUID
-
-`a051b246-1ae8-4019-93a6-14ff249fd283` ###
-
-属性
-
-`Dragon_BronzeSkeletal_Proxy` **安苏**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中发现的[不死龙](Undead_Dragon.md "不死龙")。他曾是被称为“等待之雷”和“心之门”的[青铜龙](List_of_creature_types.md#Dragon "生物类型列表")，通常被认为是纯粹的传说。根据队伍的行动，[乌尔德·雷文加德](Ulder_Ravengard.md "乌尔德·雷文加德")、[顾问弗洛瑞克](Counsellor_Florrick.md "顾问弗洛瑞克")或[考杜拉·伊尔坦](Cordula_Eltan.md "考杜拉·伊尔坦")会揭示安苏是真实存在的，并向队伍提供一本书，开启他们寻找安苏并寻求其帮助对抗[绝对](Absolute.md "绝对")的旅程。
+**安苏**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中发现的[不死龙](Undead_Dragon.md "不死龙")。他曾是被称为“等待之雷”和“心之门”的[青铜龙](List_of_creature_types.md#Dragon "生物类型列表")，通常被认为是纯粹的传说。根据队伍的行动，[乌尔德·雷文加德](Ulder_Ravengard.md "乌尔德·雷文加德")、[顾问弗洛瑞克](Counsellor_Florrick.md "顾问弗洛瑞克")或[考杜拉·伊尔坦](Cordula_Eltan.md "考杜拉·伊尔坦")会揭示安苏是真实存在的，并向队伍提供一本书，开启他们寻找安苏并寻求其帮助对抗[绝对](Absolute.md "绝对")的旅程。
 
 > “
 >

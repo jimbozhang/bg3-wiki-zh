@@ -6,12 +6,6 @@
 
 你受到狂野、睚眦必报的魔法保护。攻击你的敌人会受到 1d6⁠⁠[力场](Force.md "力场") 伤害作为报偿。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagicBarbarian_MagicRetribution`
-
 ## 状态：狂野魔法：魔法报偿
 
 **[狂野魔法：魔法报偿](Wild_Magic_colon__Magic_Retribution_(Condition).md "狂野魔法：魔法报偿 (状态)")**

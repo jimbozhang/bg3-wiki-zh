@@ -27,16 +27,6 @@
 - 在[角色等级](Character_level.md "角色等级") 6 时，伤害提升至 3d6⁠⁠[火焰](Fire.md "火焰")。
 - 在角色等级 11 时，伤害提升至 4d6⁠⁠[火焰](Fire.md "火焰")。
 
-## 技术细节
-
-UID
-
-`Zone_BreathWeapon_Fire_Cone`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag\>).md)`
-
 ## 如何习得
 
 种族：

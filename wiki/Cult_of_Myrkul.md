@@ -1,25 +1,9 @@
 # 米尔寇
 
-## 米尔寇
-
-骸骨之主
-
-- 壁画
-- 符号
-
-### 声音 / 演员
-
-- [Arthur Lee](https://www.imdb.com/name/nm6110544/)
-
-### 阵营
-
-[死之三神](Dead_Three.md "死之三神") & [至上真神教团](Cult_of_the_Absolute.md "至上真神教团")
-
-## 属性
-
-### 种族
-
-[神祇](Deity.md "神祇")
+| | |
+| --- | --- |
+| 配音 | - [Arthur Lee](https://www.imdb.com/name/nm6110544/) |
+| 种族 | [神祇](Deity.md "神祇") |
 
 **米尔寇**，又名骸骨之主，是[死亡之神](Deities.md "诸神")，也是[死之三神](Dead_Three.md "死之三神")的一员。他与死亡领域相关联。米尔寇不能成为玩家角色[牧师](Cleric.md "牧师")的[神祇](Deity.md "神祇")。
 

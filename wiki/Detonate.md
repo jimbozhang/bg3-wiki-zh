@@ -19,16 +19,6 @@
 详情
 范围：2米（7英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_GOB_DetonateSelf`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由以下生物使用：[加尔德](Gald.md "加尔德")、[莫克](Moke.md "莫克")和[德克斯特](Dextor.md "德克斯特")

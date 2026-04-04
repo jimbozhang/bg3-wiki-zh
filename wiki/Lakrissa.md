@@ -1,90 +1,17 @@
 # 拉克里萨
 
-## 拉克里萨
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Sydney Craven](https://www.imdb.com/name/nm7373540/)
-
-### 阵营
-
-[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-### 亚种
-
-[阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling")
-
-### 职业
-
-[游侠](Ranger.md "Ranger")
-
-- 平衡
-- 探索者
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-23
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 14 / (+2) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Sydney Craven](https://www.imdb.com/name/nm7373540/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 3 |
+| 生命值 | 23 |
+| 护甲等级 | 13 |
+| 先攻 | +2 |
+| 经验值 | 20 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -102,47 +29,21 @@
 
 攻击离开攻击范围的敌人。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 等级
+- ## 特性
 
-3
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 生命值
+可以在黑暗中看到一定距离。
 
-15
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-### 护甲等级
+[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-13
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +3 | +4 | +1 | 0 | +2 | +1 |
+攻击离开攻击范围的敌人。
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -160,79 +61,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 硬核难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-28
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 1 | 2 | 2 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_DEN_Tiefling_010` ###
-
-UUID
-
-`23129d6c-8d39-4a4c-a4f6-cfc6637b597c` ###
-
-属性
-
-`DEN_Refugees_Tiefling_Ranger` **拉克里萨**是在[翠绿林地](Emerald_Grove.md "Emerald Grove")寻求庇护的提夫林难民之一，位于[第一幕](Act_One.md "Act One")。
+**拉克里萨**是在[翠绿林地](Emerald_Grove.md "Emerald Grove")寻求庇护的提夫林难民之一，位于[第一幕](Act_One.md "Act One")。
 
 > “
 >

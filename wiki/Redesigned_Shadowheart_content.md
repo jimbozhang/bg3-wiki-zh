@@ -17,20 +17,6 @@
 [影心](Shadowheart.md "Shadowheart")
 塞巴斯蒂安
 
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[高精灵](High_Elf.md "High Elf")
-
 ## 塞巴斯蒂安
 
 ### 身份
@@ -41,20 +27,6 @@
 
 [影心](Shadowheart.md "Shadowheart")
 埃莉安娜
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
 
 **埃莉安娜**和**塞巴斯蒂安**曾被设计为影心的父母，时间在[阿内尔·圣叶](Arnell_Hallowleaf.md "Arnell Hallowleaf")和[埃米琳·圣叶](Emmeline_Hallowleaf.md "Emmeline Hallowleaf")被创造/最终确定之前。与现在的对应角色不同，母亲埃莉安娜是高精灵，因此是两人中寿命较长的一方，而塞巴斯蒂安是人类。根据影心重新设计和当前的背景故事判断，他们很可能都是[塞伦涅信徒](Sel%C3%BBne.md "Selûne")，就像他们实际的对应角色一样。
 
@@ -91,20 +63,6 @@ Umbralspleen（占位符）
 
 女性
 
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
 ## 母亲长上
 
 ### 全名
@@ -115,20 +73,6 @@ Eclipsekidney（占位符）
 
 女性
 
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[高精灵](High_Elf.md "High Elf")
-
 ## 莎尔拷问者
 
 ### 全名
@@ -138,20 +82,6 @@ Darkliver（占位符）
 ### 身份
 
 女性
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[半高精灵](High_Half-Elf.md "High Half-Elf")
 
 各种现已删除或重新设计的莎尔信徒也曾出现在影心的背景故事中，其中**姐妹长上**扮演折磨和虐待的角色，**母亲长上**则操纵并派遣她执行[神秘遗物](Mysterious_Artefact.md "神秘遗物")的任务，还有一位**拷问者**会折磨她。“
 |

@@ -24,16 +24,6 @@
 范围：3 米 (10 英尺)
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_HookHorror`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血 (状态)")**

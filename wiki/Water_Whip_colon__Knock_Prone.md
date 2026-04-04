@@ -22,16 +22,6 @@
 
 在9级时，若拥有[精通元素施法](Improved_Elemental_Casting.md "精通元素施法")，伤害将提升至4d10⁠[钝击](Bludgeoning.md "钝击")。
 
-## 技术细节
-
-UID
-
-`Target_WaterWhip_Prone`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 赠予
 
 - [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")

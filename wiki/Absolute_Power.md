@@ -25,16 +25,6 @@
 击退：5米（17英尺）
 充能：[短休](Short_rest.md "Short rest")
 
-## 技术细节
-
-UID
-
-`Target_GOB_GoblinKing_ForceAttack`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由物品授予：

@@ -28,16 +28,6 @@
 
 在10级时，伤害增加至6d6 + [力量调整值](Strength.md#Strength_modifier_chart "力量")⁠[挥砍](Slashing.md "挥砍")。
 
-## 技术细节
-
-UID
-
-`Target_Slam_Slayer`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：疫病术中毒
 
 **[疫病术中毒](Contagion_Poisoned_(Condition).md "疫病术中毒（状态）")**

@@ -1,27 +1,8 @@
 # 海利亚
 
-## 海利亚
-
-- 肖像画
-- 模型
-
-### 角色
-
-数据挖掘的出身角色
-
-## 属性
-
-### 种族
-
-[半身人](Halfling.md "半身人")
-
-### 亚种
-
-[轻足半身人](Lightfoot_Halfling.md "轻足半身人")
-
-### 职业
-
-[吟游诗人](Bard.md "Bard")
+| | |
+| --- | --- |
+| 种族 | [半身人](Halfling.md "半身人") |
 
 本文介绍的是一个物品或其他先前可获取的内容，该内容已被[从游戏中移除](Category_colon_Unobtainable.md "Category:Unobtainable")，在当前版本的游戏中**不再可获取**。
 **海利亚**是一个在开发过程中被移除的潜在[出身](Origin.md "Origin")角色。她是一个[半身人](Halfling.md "Halfling")[吟游诗人](Bard.md "Bard")，因身为[狼人](https://forgottenrealms.fandom.com/wiki/Lycanthrope)而饱受折磨。

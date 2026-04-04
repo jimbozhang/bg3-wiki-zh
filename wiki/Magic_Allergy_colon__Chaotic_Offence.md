@@ -6,12 +6,6 @@
 
 同时获得3个[镜像](Mirror_Image_(Condition).md "镜像（状态）")，变为[巨化](Enlarged_(Condition).md "巨化（状态）")状态，并变为[加速](Hastened_(Condition).md "加速（状态）")状态。
 
-## 技术细节
-
-UID
-
-`Shout_MagicAllergy_Enlarge`
-
 ## 状态：巨化
 
 **[巨化](Enlarged_(Condition).md "巨化（状态）")**

@@ -1,351 +1,82 @@
 # 秘术师卡里翁
 
-## 秘术师卡里翁
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Enzo Squillino Jr.](https://www.imdb.com/name/nm0820076/)
-
-### 角色
-
-[商人](Trader.md "Trader")
-
-### 家乡
-
-[菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸"), [博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[不死生物](Undead.md "不死生物")
-
-### 种族
-
-[木乃伊领主](Mummy_Lord.md "木乃伊领主")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-- 荣誉
-
-## 平衡难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-143
-
-### 护甲等级
-
-17
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 施法豁免 DC
-
-17 (感知)
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-50 千克 (100 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 15 / (+2) | 10 / (0) | 17 / (+3) | 15 / (+2) | 20 / (+5) | 16 / (+3) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Enzo Squillino Jr.](https://www.imdb.com/name/nm0820076/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [不死生物](Undead.md "不死生物") |
+| 种族 | [木乃伊领主](Mummy_Lord.md "木乃伊领主") |
+| 等级 | 12 |
+| 生命值 | 143 |
+| 护甲等级 | 17 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 400 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 状态
 
-- [**不跳动的心脏**](Unbeating_Heart_(Condition).md "不跳动的心脏 (状态)")
+- [不跳动的心脏](Unbeating_Heart_(Condition).md "不跳动的心脏 (状态)")
 
 当卡里翁的心脏完好无损时，无法被杀死。
 
-- [**凝固的肝脏**](Curdled_Liver_(Condition).md "凝固的肝脏 (状态)")
+- [凝固的肝脏](Curdled_Liver_(Condition).md "凝固的肝脏 (状态)")
 
 当肝脏完好无损时，对火焰不具易伤。
 
-- [**无思的大脑**](Thoughtless_Brain_(Condition).md "无思的大脑 (状态)")
+- [无思的大脑](Thoughtless_Brain_(Condition).md "无思的大脑 (状态)")
 
 法术豁免 DC +3，且当大脑完好无损时，无法被[受惊](Surprised_(Condition).md)。
 
-- [**无息的肺**](Breathless_Lungs_(Condition).md "无息的肺 (状态)")
+- [无息的肺](Breathless_Lungs_(Condition).md "无息的肺 (状态)")
 
 当肺部完好无损时，无法被[沉默](Silenced_(Condition).md)。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
-
-生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
-
-- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
-
-当持有者用法术杀死敌对生物时，贪婪地吸收其能量并获得[生命精华](Life_Essence_(Condition).md "生命精华 (状态)")，直到下一次长休。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [**多重攻击：恐慌**](Multiattack_colon__Frightened.md "多重攻击：恐慌")
-
-如果目标处于[恐慌](Frightened_(Condition)状态.md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [永久武装](Permanently_Armed.md "永久武装")
-
-无法被缴械。
-
-- [驱散抗性](Turn_Resistance.md "驱散抗性")
-
-对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-## 探索者难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-100
-
-### 护甲等级
-
-17
-
-### 先攻
-
-0
-
-### 熟练项
-
-+6
-
-### 施法豁免 DC
-
-19 (感知)
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-50 千克 (100 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +2 | 0 | +7 | +6 | +9 | +7 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 状态
 
-- [**不跳动的心脏**](Unbeating_Heart_(Condition).md "不跳动的心脏 (状态)")
+- [不跳动的心脏](Unbeating_Heart_(Condition).md "不跳动的心脏 (状态)")
 
 当卡里翁的心脏完好无损时，无法被杀死。
 
-- [**凝固的肝脏**](Curdled_Liver_(Condition).md "凝固的肝脏 (状态)")
+- [凝固的肝脏](Curdled_Liver_(Condition).md "凝固的肝脏 (状态)")
 
 当肝脏完好无损时，对火焰不具易伤。
 
-- [**无思的大脑**](Thoughtless_Brain_(Condition).md "无思的大脑 (状态)")
+- [无思的大脑](Thoughtless_Brain_(Condition).md "无思的大脑 (状态)")
 
 法术豁免 DC +3，且当大脑完好无损时，无法被[受惊](Surprised_(Condition).md)。
 
-- [**无息的肺**](Breathless_Lungs_(Condition).md "无息的肺 (状态)")
+- [无息的肺](Breathless_Lungs_(Condition).md "无息的肺 (状态)")
 
 当肺部完好无损时，无法被[沉默](Silenced_(Condition).md)。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
-
-生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
-
-- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
-
-当持有者用法术杀死敌对生物时，贪婪地吸收其能量并获得[生命精华](Life_Essence_(Condition).md "生命精华 (状态)")，直到下一次长休。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [**多重攻击：恐慌**](Multiattack_colon__Frightened.md "多重攻击：恐慌")
-
-如果目标处于[恐慌](Frightened_(Condition)状态.md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [永久武装](Permanently_Armed.md "永久武装")
-
-无法被缴械。
-
-- [驱散抗性](Turn_Resistance.md "驱散抗性")
-
-对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-## 硬核难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-185
-
-### 护甲等级
-
-17
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 施法豁免 DC
-
-19 (感知)
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-50 千克 (100 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 2 | 0 | 5 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 状态
 
-- [**传奇抗性**](Legendary_Resistance_(Condition).md "传奇抗性 (状态)")
+- [传奇抗性](Legendary_Resistance_(Condition).md "传奇抗性 (状态)")
 
 其接下来的 3 次[豁免检定](Saving_throw.md "豁免检定")具有 +10 加值。
 
-- [**不跳动的心脏**](Unbeating_Heart_(Condition).md "不跳动的心脏 (状态)")
+- [不跳动的心脏](Unbeating_Heart_(Condition).md "不跳动的心脏 (状态)")
 
 当卡里翁的心脏完好无损时，无法被杀死。
 
-- [**凝固的肝脏**](Curdled_Liver_(Condition).md "凝固的肝脏 (状态)")
+- [凝固的肝脏](Curdled_Liver_(Condition).md "凝固的肝脏 (状态)")
 
 当肝脏完好无损时，对火焰不具易伤。
 
-- [**无思的大脑**](Thoughtless_Brain_(Condition).md "无思的大脑 (状态)")
+- [无思的大脑](Thoughtless_Brain_(Condition).md "无思的大脑 (状态)")
 
 法术豁免 DC +3，且当大脑完好无损时，无法被[受惊](Surprised_(Condition).md)。
 
-- [**无息的肺**](Breathless_Lungs_(Condition).md "无息的肺 (状态)")
+- [无息的肺](Breathless_Lungs_(Condition).md "无息的肺 (状态)")
 
 当肺部完好无损时，无法被[沉默](Silenced_(Condition).md)。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
-
-生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
-
-- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
-
-当持有者用法术杀死敌对生物时，贪婪地吸收其能量并获得[生命精华](Life_Essence_(Condition).md "生命精华 (状态)")，直到下一次长休。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [**多重攻击：恐慌**](Multiattack_colon__Frightened.md "多重攻击：恐慌")
-
-如果目标处于[恐慌](Frightened_(Condition)状态.md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [永久武装](Permanently_Armed.md "永久武装")
-
-无法被缴械。
-
-- [驱散抗性](Turn_Resistance.md "驱散抗性")
-
-对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 ## 荣誉难度属性
 
@@ -397,97 +128,33 @@
 
 - - - - - ## 状态
 
-- [**传奇抗性**](Legendary_Resistance_(Condition).md "传奇抗性 (状态)")
+- [传奇抗性](Legendary_Resistance_(Condition).md "传奇抗性 (状态)")
 
 其接下来的 3 次[豁免检定](Saving_throw.md "豁免检定")具有 +10 加值。
 
-- [**传奇动作：汹涌不死**](Legendary_Action_colon__Torrential_Undeath_(Condition).md "传奇动作：汹涌不死 (状态)")
+- [传奇动作：汹涌不死](Legendary_Action_colon__Torrential_Undeath_(Condition).md "传奇动作：汹涌不死 (状态)")
 
 当一名同盟不死生物被杀死时，秘术师卡里翁可以使用[汹涌不死](Torrential_Undeath.md "汹涌不死")。
 
-- [**不跳动的心脏**](Unbeating_Heart_(Condition).md "不跳动的心脏 (状态)")
+- [不跳动的心脏](Unbeating_Heart_(Condition).md "不跳动的心脏 (状态)")
 
 当卡里翁的心脏完好无损时，无法被杀死。
 
-- [**凝固的肝脏**](Curdled_Liver_(Condition).md "凝固的肝脏 (状态)")
+- [凝固的肝脏](Curdled_Liver_(Condition).md "凝固的肝脏 (状态)")
 
 当肝脏完好无损时，对火焰不具易伤。
 
-- [**无思的大脑**](Thoughtless_Brain_(Condition).md "无思的大脑 (状态)")
+- [无思的大脑](Thoughtless_Brain_(Condition).md "无思的大脑 (状态)")
 
 法术豁免 DC +3，且当大脑完好无损时，无法被[受惊](Surprised_(Condition).md)。
 
-- [**无息的肺**](Breathless_Lungs_(Condition).md "无息的肺 (状态)")
+- [无息的肺](Breathless_Lungs_(Condition).md "无息的肺 (状态)")
 
 当肺部完好无损时，无法被[沉默](Silenced_(Condition).md)。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
-
-生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
-
-- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
-
-当持有者用法术杀死敌对生物时，贪婪地吸收其能量并获得[生命精华](Life_Essence_(Condition).md "生命精华 (状态)")，直到下一次长休。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [**多重攻击：恐慌**](Multiattack_colon__Frightened.md "多重攻击：恐慌")
-
-如果目标处于[恐慌](Frightened_(Condition)状态.md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [永久武装](Permanently_Armed.md "永久武装")
-
-无法被缴械。
-
-- [驱散抗性](Turn_Resistance.md "驱散抗性")
-
-对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [**传奇动作：汹涌不死**](Legendary_Action_colon__Torrential_Undeath.md "传奇动作：汹涌不死")
-
-每回合一次，秘术师卡里翁可以在被击中时使用其传奇动作向敌人释放[汹涌不死](Torrential_Undeath.md "汹涌不死")。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_FatherCarrion` ###
-
-UUID
-
-`b003409c-364f-4065-94bf-7436001d890e` ###
-
 属性
 
-`LOW_FatherCarrion` ## 变体 1
-
-###
-
-UID
-
-`LOW_Undead_Mummy_FatherCarrion` ###
-
-UUID
-
-`cfe6ad05-98cc-47ac-b524-f48333cae046` ###
-
-属性
-
-`LOW_FatherCarrion` **秘术师卡里翁**是[博德之门](Baldur's_Gate.md "博德之门")中的一名[不死生物](Undead.md "不死生物")[木乃伊领主](Mummy_Lord.md "木乃伊领主")。
+**秘术师卡里翁**是[博德之门](Baldur's_Gate.md "博德之门")中的一名[不死生物](Undead.md "不死生物")[木乃伊领主](Mummy_Lord.md "木乃伊领主")。
 
 > “
 >
@@ -595,7 +262,7 @@ UUID
 
 \+ 3d6⁠[黯蚀](Necrotic.md "黯蚀")
 
-| 运动 | 体操 | 察觉技能 |
+| 运动 | 体操 | 察觉 |
 | --- | --- | --- |
 | 2 | 0 | 5 |
 

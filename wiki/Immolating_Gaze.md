@@ -21,16 +21,6 @@
 射程：9米（30英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_MAG_Legendary_ImmolatingGaze`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：恐惧
 
 **[恐惧](Fearful_(Condition).md "恐惧（状态）")**

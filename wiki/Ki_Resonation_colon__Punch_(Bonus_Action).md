@@ -22,16 +22,6 @@
 近战徒手[攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_KiResonation_Punch_BonusAction`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(法术标志\)（页面不存在）")`，`[IsHarmful](IsHarmful_(法术标志).md)`，`[IsMelee](IsMelee_(法术标志).md)`
-
 ## 状态：共鸣之气
 
 **[共鸣之气](Resonating_Ki_(Condition).md "共鸣之气（状态）")**

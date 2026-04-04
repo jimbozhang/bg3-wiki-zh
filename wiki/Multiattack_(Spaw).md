@@ -23,16 +23,6 @@
 近战：1.5 米 (5 英尺)
 目标：受 [昏沉](Befuddled_(Condition).md "昏沉 (状态)")、[毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)") 或 [加速孢子](Haste_Spores_(Condition).md "加速孢子 (状态)") 影响的生物
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Myconid`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[斯伯](Spaw.md "Spaw")

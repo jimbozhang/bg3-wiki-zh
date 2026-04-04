@@ -22,12 +22,6 @@
 范围效果：15米（50英尺）半径
 创造区域：黑暗术
 
-## 技术细节
-
-UID
-
-`Shout_LOW_HouseOfGrief_DivineIntervention`
-
 ## 区域：黑暗术
 
 **[黑暗术](Darkness_(cloud).md "黑暗术 (云)")**

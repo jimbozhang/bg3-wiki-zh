@@ -1,281 +1,31 @@
 # 格鲁姆
 
-## 新手格鲁姆
-
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [David Alwyn](https://www.imdb.com/name/nm4753587/)
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[灰矮人](Duergar.md "Duergar")
-
-### 职业
-
-[游侠](Ranger.md "Ranger")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-44
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [David Alwyn](https://www.imdb.com/name/nm4753587/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 5 |
+| 生命值 | 44 |
+| 护甲等级 | 14 |
+| 先攻 | +2 |
+| 经验值 | 75 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 额外资源
 
-- - ## 特性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对抗[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，且对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 探索者难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-30
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | +5 | +1 | 0 | +1 | +1 |
+- ## 额外资源
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 额外资源
 
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对抗[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，且对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-57
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 运动 | 体操 | 察觉 |
-| --- | --- | --- | --- |
-|  | 1 | 2 | 1 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 额外资源
-
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对抗[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，且对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 技术信息
-
-###
-
-UID
-
-`S_UND_DuergarLoyalFallback` ###
-
-UUID
-
-`0160d049-e0b2-473b-a5c2-ff8b13719d84` ###
-
-属性
-
-`UND_KC_Grumm` **格鲁姆**是[复仇之炉](Grymforge.md "Grymforge")中的一个特殊替代角色，他控制着[侏儒](Gnome.md "Gnome")奴隶。只有当队伍支持[尼讷](Nere.md "Nere")，并且在对尼讷的叛乱中尼讷和[斯林恩](Thrinn.md "Thrinn")都死亡时，格鲁姆才会出现。
+**格鲁姆**是[复仇之炉](Grymforge.md "Grymforge")中的一个特殊替代角色，他控制着[侏儒](Gnome.md "Gnome")奴隶。只有当队伍支持[尼讷](Nere.md "Nere")，并且在对尼讷的叛乱中尼讷和[斯林恩](Thrinn.md "Thrinn")都死亡时，格鲁姆才会出现。
 
 > “
 >

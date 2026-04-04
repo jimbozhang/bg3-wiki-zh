@@ -20,16 +20,6 @@
 范围效果：9 米（30 英尺）直线
 击退：2 米（7 英尺）
 
-## 技术细节
-
-UID
-
-`Rush_GoldenLance`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由以下生物使用：[钱币长戟](Coin_Halberd.md "钱币长戟")

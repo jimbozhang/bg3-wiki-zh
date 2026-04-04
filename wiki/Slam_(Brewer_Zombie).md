@@ -22,16 +22,6 @@
 近战 徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_TWN_Slam_Zombie_Brewer`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[瘟疫演员](Blighted_Actor.md "瘟疫演员")、[瘟疫酒保](Blighted_Barman.md "瘟疫酒保")、[瘟疫顾客](Blighted_Patron.md "瘟疫顾客") 和 [瘟疫吟游诗人](Blighted_Troubador.md "瘟疫吟游诗人")

@@ -15,16 +15,6 @@
 
 以此法术升环施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Self_ElementalWeapon_Cold`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：元素武器：寒冷
 
 **[元素武器：寒冷](Elemental_Weapon_colon__Cold_(Condition).md "元素武器：寒冷 (状态)")**

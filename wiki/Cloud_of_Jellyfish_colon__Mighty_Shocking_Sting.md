@@ -12,12 +12,6 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Interrupt_GatheredSwarm_Jellyfish_Disarmed`
-
 ## 状态：感电
 
 **[感电](Shocked_(Condition).md "感电（状态）")**

@@ -15,16 +15,6 @@
 详情
 射程：8米（27英尺）
 
-## 技术细节
-
-UID
-
-`Target_Summon_Brewer_Cold`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 生物：冰冷幻觉（生物）
 
 | [力量](Strength.md "力量") 6 (-2) | [敏捷](Dexterity.md "敏捷") 17 (+3) | [体质](Constitution.md "体质") 13 (+1) | [智力](Intelligence.md "智力") 11 | [感知](Wisdom.md "感知") 12 (+1) | [魅力](Charisma.md "魅力") 14 (+2) |

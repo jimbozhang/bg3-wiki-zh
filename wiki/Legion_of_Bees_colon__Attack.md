@@ -19,12 +19,6 @@
 
 在11级时，[强力虫群](Mighty_Swarm.md "强力虫群")将伤害提升至1d8⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Interrupt_GatheredSwarm_Bee_Attack`
-
 ## 如何习得
 
 职业：

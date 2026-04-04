@@ -19,16 +19,6 @@
 充能：[长休](Long_Rest.md "长休")
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_SHA_SeluneBlessing_Moonfire`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 状态：塞伦涅的祝福：月之烙印
 
 **[塞伦涅的祝福：月之烙印](Selune's_Blessing_colon__Lunar_Brand_(Condition).md "塞伦涅的祝福：月之烙印（状态）")**

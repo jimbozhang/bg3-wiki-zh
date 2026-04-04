@@ -20,22 +20,6 @@
 近战徒手[攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_Deflect_Missiles`
-
-实际攻击动作
-
-`Interrupt_DeflectMissiles_Return`
-
-触发攻击的反应
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 职业：

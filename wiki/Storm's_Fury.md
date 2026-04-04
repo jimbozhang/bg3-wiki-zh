@@ -18,26 +18,6 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")) (豁免成功时：目标仍承受全额伤害，但不会被推开。)
 击退：6 米（20 英尺）
 
-## 技术细节
-
-UID
-
-`Target_StormsFury`
-
-由反应触发的动作
-
-`Interrupt_StormsFury`
-
-触发动作的反应
-
-`StormsFury`
-
-授予该反应的被动
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

@@ -24,22 +24,6 @@
 区域效果：3 米（10 英尺）半径
 创建区域：泥巴
 
-## 技术细节
-
-UID
-
-`Shout_DeathBurst_Chosen_MudMephit`
-
-触发爆炸的动作
-
-`Projectile_DeathBurst_Died_MudMephit`
-
-由动作触发的爆炸
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 状态：泥泞
 
 **[泥泞](Muddy_(Condition).md "泥泞 (状态)")**

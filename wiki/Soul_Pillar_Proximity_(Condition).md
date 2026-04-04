@@ -25,7 +25,7 @@ _维基数据库中未定义_
 
 ## 简要预览
 
-每根附近的魂柱提供 +1d12 [火焰](Fire.md "火焰") 伤害和 +3 [敏](DEX.md "敏")。
+每根附近的魂柱提供 +1d12 [火焰](Fire.md "火焰") 伤害和 +3 [敏捷](DEX.md "敏捷")。
 
 ---
 *Source: [Soul Pillar Proximity (Condition)](https://bg3.wiki/wiki/Soul_Pillar_Proximity_(Condition)*

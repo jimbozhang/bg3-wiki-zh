@@ -18,12 +18,6 @@
 范围：自身
 持续时间：10 驱散
 
-## 技术细节
-
-UID
-
-`Shout_ElementalCleaver_Thunder`
-
 ## 状态：元素切肉刀：雷鸣
 
 **[元素切肉刀：雷鸣](Elemental_Cleaver_colon__Thunder_(Condition).md "元素切肉刀：雷鸣（状态）")**

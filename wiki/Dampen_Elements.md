@@ -13,18 +13,6 @@
 详情
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_DampenElements_Interrupt`
-
-由反应触发的能力
-
-`Interrupt_DampenElements`
-
-触发能力的反应
-
 ## 学习方式
 
 职业：

@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_SCL_SpiderLyre_Perform`
-
-法术标志
-
-`[DontAbortPerforming](https://bg3.wiki/w/index.php?title=DontAbortPerforming_\(spell_flag\)&action=edit&redlink=1) "DontAbortPerforming \(spell flag\) \(page does not exist\)")`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`
-
 ## 状态：表演“力量”
 
 **[表演“力量”](Performing_'The_Power'_(Condition).md "表演“力量”（状态）")**

@@ -13,16 +13,6 @@
 详情
 持续时间：直至[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_KnowledgeOfTheAges`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 变体
 
 - [岁月知识：魅力](Knowledge_of_the_Ages_colon__Charisma.md "岁月知识：魅力")

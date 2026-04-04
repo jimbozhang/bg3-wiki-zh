@@ -16,12 +16,6 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子投掷"))
 范围：6米（20英尺）
 
-## 技术细节
-
-UID
-
-`Target_ControlUndead`
-
 ## 状态：被控制
 
 **[被控制](Controlled_(Condition).md "被控制（状态）")**

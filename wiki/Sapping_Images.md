@@ -18,16 +18,6 @@
 目标：半径内所有敌人
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_LOW_GithyankiProdigy_CullTheEvil`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 生物：潘塔利斯的心象
 
 | [力量](Strength.md "力量") 12 (+1) | [敏捷](Dexterity.md "敏捷") 12 (+1) | [体质](Constitution.md "体质") 12 (+1) | [智力](Intelligence.md "智力") 2 (-4) | [感知](Wisdom.md "感知") 2 (-4) | [魅力](Charisma.md "魅力") 2 (-4) |

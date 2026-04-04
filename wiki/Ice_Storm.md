@@ -26,16 +26,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高环位施放此法术时，每比4环高1环，额外造成1d8[钝击](Bludgeoning.md "钝击")伤害。
 
-## 技术细节
-
-UID
-
-`Target_IceStorm`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 区域：冰
 
 **[冰](Ice_(surface).md "冰（地表）")**

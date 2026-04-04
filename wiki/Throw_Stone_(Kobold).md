@@ -20,16 +20,6 @@
 远程 徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_StoneThrow_Kobold_Swarm`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsSwarmAttack](https://bg3.wiki/w/index.php?title=IsSwarmAttack_\(spell_flag\)&action=edit&redlink=1) "IsSwarmAttack \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 由以下生物使用：[狗头人斥候](Kobold_Scout.md "狗头人斥候")

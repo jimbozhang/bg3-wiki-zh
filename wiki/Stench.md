@@ -18,16 +18,6 @@
 创建区域：臭云术
 充能：每次战斗
 
-## 技术细节
-
-UID
-
-`Shout_Stench_Ghast`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：妖鬼烟雾
 
 **[妖鬼烟雾](Ghastly_Fume_(Condition).md "妖鬼烟雾（状态）")**

@@ -13,12 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_AstralKnowledge_Dexterity`
-
 ## 状态：星界知识：敏捷
 
 **[星界知识：敏捷](Astral_Knowledge_colon__Dexterity_(Condition).md "星界知识：敏捷 (状态)")**

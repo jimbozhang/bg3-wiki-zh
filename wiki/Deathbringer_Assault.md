@@ -29,16 +29,6 @@
 近战：1.5米（5英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_LOW_DeathbringerAssault_Sarevok`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[沙洛佛克·安基夫](Sarevok_Anchev.md "沙洛佛克·安基夫")

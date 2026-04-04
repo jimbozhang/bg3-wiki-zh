@@ -19,16 +19,6 @@
 范围效果：4米（13英尺）半径
 创造区域：火焰
 
-## 技术细节
-
-UID
-
-`Projectile_CRE_BreweryKobolds_FirewineBelly_Explosion`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 区域：火焰
 
 **[火焰](Fire_(surface).md "火焰 (地表)")**

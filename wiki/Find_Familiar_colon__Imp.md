@@ -19,16 +19,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_PactOfTheChain_Imp`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：魔宠：小魔鬼
 
 | [力量](Strength.md "Strength") 6 (-2) | [敏捷](Dexterity.md "Dexterity") 17 (+3) | [体质](Constitution.md "Constitution") 13 (+1) | [智力](Intelligence.md "Intelligence") 11 | [感知](Wisdom.md "Wisdom") 12 (+1) | [魅力](Charisma.md "Charisma") 14 (+2) |

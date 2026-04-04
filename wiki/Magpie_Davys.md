@@ -1,43 +1,13 @@
 # 喜鹊戴维斯
 
-## 喜鹊戴维斯
+| | |
+| --- | --- |
+| 配音 | - [克莱尔·莱西](https://www.imdb.com/name/nm3165161/) |
+| 体型 | 中级 |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
 
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [克莱尔·莱西](https://www.imdb.com/name/nm3165161/)
-
-## 属性
-
-### 体型
-
-中级
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类")
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_Guildhall_Visitor_003` ###
-
-UUID
-
-`5a44b1da-b8c6-494b-abd5-0976c3f59745` ###
-
-属性
-
-`Human_Commoner` **喜鹊戴维斯** 是 [公会](The_Guild.md "The Guild") 的一位访客，可以在 [底城区](Undercity.md "Undercity") 的 [公会大厅](Guildhall.md "Guildhall") 酒吧附近找到她。
+**喜鹊戴维斯** 是 [公会](The_Guild.md "The Guild") 的一位访客，可以在 [底城区](Undercity.md "Undercity") 的 [公会大厅](Guildhall.md "Guildhall") 酒吧附近找到她。
 
 > “
 >

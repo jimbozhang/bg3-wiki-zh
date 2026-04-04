@@ -14,16 +14,6 @@
 范围：18米（60英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_HoundOfIllOmen`
-
-法术标志
-
-`[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`
-
 ## 生物：宁布斯
 
 | [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 14 (+2) | [体质](Constitution.md "体质") 13 (+1) | [智力](Intelligence.md "智力") 5 (-3) | [感知](Wisdom.md "感知") 12 (+1) | [魅力](Charisma.md "魅力") 5 (-3) |

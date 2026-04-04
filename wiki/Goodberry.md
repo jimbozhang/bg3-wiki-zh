@@ -19,16 +19,6 @@
 
 以此法术的更高环阶施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Goodberry`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 物品：浆果术（物品）
 
 [浆果术](Goodberry_(Item).md "浆果术（物品）")（4个）– 持续时间：直至 [长休](Long_Rest.md "Long rest")

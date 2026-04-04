@@ -29,7 +29,7 @@
 
 ## 简要预览
 
-击杀敌人后，9米（30英尺）范围内的盟友将获得基于[魅](CHA.md "魅")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+击杀敌人后，9米（30英尺）范围内的盟友将获得基于[魅力](CHA.md "魅力")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 ---
 *Source: [Stirring Execution](https://bg3.wiki/wiki/Stirring_Execution)*

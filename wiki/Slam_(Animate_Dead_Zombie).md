@@ -22,16 +22,6 @@
 近战徒手 [攻击掷骰](攻击掷骰.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Slam_Zombie_AnimateDead`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：蠕行啃咬
 
 **[蠕行啃咬](蠕行啃咬_(状态).md "蠕行啃咬 (状态)")**

@@ -18,12 +18,6 @@
 范围：自身
 持续时间：10 驱散
 
-## 技术细节
-
-UID
-
-`Shout_ElementalCleaver_Fire`
-
 ## 状态：元素切肉刀：火焰
 
 **[元素切肉刀：火焰](Elemental_Cleaver_colon__Fire_(Condition).md "元素切肉刀：火焰（状态）")**

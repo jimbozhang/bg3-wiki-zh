@@ -18,16 +18,6 @@
 目标：1 个[倒地](Downed_(Condition).md "倒地（状态）")的生物
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Devour_Ghoul`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[班吉](Benji.md "班吉")、[腕骨](Carpal.md "腕骨")、[食尸鬼](Ghoul.md "食尸鬼")、[食尸鬼医生](Ghoul_Medic.md "食尸鬼医生")、[食尸鬼斥候](Ghoul_Scout.md "食尸鬼斥候")、[钩骨](Hamate.md "钩骨")、[利格斯](Ligus.md "利格斯")、[瑞可塔思](Rectus.md "瑞可塔思")，以及[僵尸尼讷](https://bg3.wiki/w/index.php?title=Zombie_Nere&action=edit&redlink=1 "僵尸尼讷（页面不存在）")

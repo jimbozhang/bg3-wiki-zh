@@ -1,94 +1,17 @@
 # 库库
 
-## 养育官寇库
-
-孵化室管理员
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Jay Taylor](https://www.imdb.com/name/nm2497266)
-
-### 阵营
-
-[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[吉斯洋基人](Githyanki.md "Githyanki")
-
-### 职业
-
-[战士](Fighter.md "Fighter")
-
-### 副职
-
-[奥法骑士](Eldritch_Knight.md "Eldritch Knight")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-64
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 14 / (+2) | 17 / (+3) | 16 / (+3) | 16 / (+3) | 15 / (+2) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Jay Taylor](https://www.imdb.com/name/nm2497266) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
+| 等级 | 5 |
+| 生命值 | 64 |
+| 护甲等级 | 13 |
+| 先攻 | +3 |
+| 经验值 | 75 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -108,48 +31,6 @@
 
 攻击离开攻击范围的敌人。
 
-## 探索者难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-44
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +2 | +3 | +6 | +6 | +5 | 0 |
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 额外资源
@@ -167,48 +48,6 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-83
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 2 | 3 | 2 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -216,51 +55,11 @@
 
 - - - ## 状态
 
-- [**魔法护甲**](Mage_Armour_(Condition).md "Mage Armour (Condition)")
+- [魔法护甲](Mage_Armour_(Condition).md "Mage Armour (Condition)")
 
 基础 [护甲等级](Armour_Class.md "Armour Class") 为 13
 
-## 特性
-
-- [养育官的关爱](Caretaker's_Care.md "养育官的关爱")
-
-[强酸](Acid_(surface).md "Acid (surface)") 地表不会影响你，并且你对 ⁠[强酸](Acid.md "Acid") 伤害具有 [抗性](Resistant.md "Resistant")。
-
-- [**强弩专家：伤害**](Crossbow_Expert_colon__Wounding.md "Crossbow Expert: Wounding")
-
-你的 [穿刺射击](Piercing_Shot.md "Piercing Shot") 造成的 [开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)") 持续时间加倍。
-
-- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
-
-在施放 [法术](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "Bonus action") 武器攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
-
-你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic") 伤害——灵吸怪奴役的伤痕根深蒂固。
-
-- [**强弩专家：近距平射**](Crossbow_Expert_colon__Point-Blank.md "Crossbow Expert: Point-Blank")
-
-近战范围的弩攻击不会获得 [劣势](Disadvantage.md "Disadvantage")。
-
-## 技术信息
-
-###
-
-UID
-
-`S_CRE_Caretaker` ###
-
-UUID
-
-`c61ac08e-addf-4f0e-8a0a-2fc026ec0224` ###
-
-属性
-
-`CRE_Githyanki_Varsh` **养育官寇库** 是一名吉斯洋基人，负责管理 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek") 中的 [孵化室](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")，出现在 [第一幕](Act_One.md "Act One")。
+**养育官寇库** 是一名吉斯洋基人，负责管理 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek") 中的 [孵化室](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")，出现在 [第一幕](Act_One.md "Act One")。
 
 > “
 >

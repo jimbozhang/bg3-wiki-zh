@@ -26,16 +26,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高法术位施放此法术时，每比1环高1环，额外造成1d8[雷鸣](Thunder.md "雷鸣")伤害。
 
-## 技术细节
-
-UID
-
-`Zone_Thunderwave`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

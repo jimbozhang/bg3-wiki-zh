@@ -6,12 +6,6 @@
 
 在你的 [狂暴](Rage_(Condition).md "狂暴 (状态)") 结束前，你每 [驱散](Turn.md "驱散") 都可以召唤一个 [幽灵呋噜](Spectral_Flumph.md "幽灵呋噜")。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagicBarbarian_ExplodingFlumph_Activate`
-
 ## 状态：狂野魔法：无形精魂
 
 **[狂野魔法：无形精魂](Wild_Magic_colon__Intangible_Spirit_(Condition).md "狂野魔法：无形精魂 (状态)")**

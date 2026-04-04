@@ -1,8 +1,12 @@
 # 博德之门3 中文维基
 
-> 本项目为 [bg3.wiki](https://bg3.wiki) 的**非官方中文翻译**，共 14,000+ 页面。
+[![Star this project](https://img.shields.io/badge/⭐_Star_this_project-6e5494?style=for-the-badge&logo=github)](https://github.com/jimbozhang/bg3-wiki-zh)
 
-## 重要声明
+本项目为 [bg3.wiki](https://bg3.wiki) 的**非官方中文翻译**，共 14,000+ 页面。
+
+---
+
+## 版权声明
 
 本项目原始内容来自 [bg3.wiki](https://bg3.wiki)，基于 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 及/或 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可发布，详见[版权说明](wiki/bg3wiki_colon_Copyrights.md)和[许可协议](wiki/bg3wiki_colon_Licensing.md)。
 
@@ -12,7 +16,7 @@
 1. **相同方式共享**：基于本翻译的二次创作，必须使用**相同的开源协议**分享。
 1. **非商业用途**：若原始内容为"NC"协议，则禁止将本翻译用于商业目的。
 
-本翻译与游戏官方、bg3.wiki 运营方无关联。
+本翻译与游戏官方、bg3.wiki 运营方无直接关联。
 
 ---
 

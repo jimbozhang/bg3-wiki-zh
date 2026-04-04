@@ -25,16 +25,6 @@
 - 在[角色等级](Character_level.md "角色等级") 6时，伤害提升至3d6⁠⁠[强酸](Acid.md "强酸")。
 - 在角色等级 11时，伤害提升至4d6⁠⁠[强酸](Acid.md "强酸")。
 
-## 技术细节
-
-UID
-
-`Zone_BreathWeapon_Acid`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`
-
 ## 学习方式
 
 种族：

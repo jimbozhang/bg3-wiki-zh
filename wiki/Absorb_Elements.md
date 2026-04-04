@@ -13,18 +13,6 @@
 详情
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Absorb_Elements_Passive`
-
-被动特性
-
-`Interrupt_AbsorbElements`
-
-反应
-
 ## 状态：吸收元素：强酸伤害
 
 **[吸收元素：强酸伤害](Absorb_Elements_colon__Acid_Damage_(Condition).md "吸收元素：强酸伤害 (状态)")**

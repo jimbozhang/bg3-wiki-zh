@@ -16,12 +16,6 @@
 详情
 范围：18 米（60 英尺）
 
-## 技术细节
-
-UID
-
-`Target_END_AllyAbilities_VeteranSummon`
-
 ## 生物：赛夫洛
 
 | [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 14 (+2) | [体质](Constitution.md "体质") 15 (+2) | [智力](Intelligence.md "智力") 10 | [感知](Wisdom.md "感知") 11 | [魅力](Charisma.md "魅力") 17 (+3) |

@@ -21,16 +21,6 @@
 射程：6 米（20 英尺）
 拉动距离：3 米（10 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Pull_DarkVine`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[幽影潜行者](Shadow_Creeper.md "幽影潜行者")

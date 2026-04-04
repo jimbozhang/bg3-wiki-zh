@@ -17,12 +17,6 @@
 范围：12 米 (40 英尺)
 范围效果：3 米 (10 英尺) 半径
 
-## 技术细节
-
-UID
-
-`Target_Burrow_GiantBadger`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏 (状态)")**

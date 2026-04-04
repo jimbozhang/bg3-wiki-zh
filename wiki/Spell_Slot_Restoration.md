@@ -14,16 +14,6 @@
 范围：自身
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_SpellSlotRestoration`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 变体
 
 - [法术位恢复站 等级1](Spell_Slot_Restoration_Level_1.md "法术位恢复站 等级1")

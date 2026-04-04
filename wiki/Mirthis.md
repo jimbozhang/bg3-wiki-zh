@@ -1,208 +1,27 @@
 # 莫里斯
 
-## 莫里斯
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Jodie Steele](https://www.imdb.com/name/nm7632738/)
-
-### 阵营
-
-[焰须氏族](Clan_Flameshade.md "Clan Flameshade")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[灰矮人](Duergar.md "Duergar")
-
-### 职业
-
-[游侠](Ranger.md "Ranger")
-
-- 平衡
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-46
-
-### 护甲等级
-
-18
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Jodie Steele](https://www.imdb.com/name/nm7632738/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 5 |
+| 生命值 | 46 |
+| 护甲等级 | 18 |
+| 先攻 | +2 |
+| 经验值 | 75 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-57
-
-### 护甲等级
-
-18
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | +5 | +1 | 0 | +1 | +1 |
-
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 技术信息
-
-###
-
-UID
-
-`S_UND_DuergarRebelPatroller_02` ###
-
-UUID
-
-`407307ff-6adb-488c-9576-534e2c158e29` ###
-
-属性
-
-`UND_KC_Duergar_Ranger` **莫里斯**是[焰须氏族](Clan_Flameshade.md "Clan Flameshade")的灰矮人游侠，在[复仇之炉](Grymforge.md "Grymforge")的[第一幕](Act_One.md "Act One")期间出现。
+**莫里斯**是[焰须氏族](Clan_Flameshade.md "Clan Flameshade")的灰矮人游侠，在[复仇之炉](Grymforge.md "Grymforge")的[第一幕](Act_One.md "Act One")期间出现。
 
 > “
 >

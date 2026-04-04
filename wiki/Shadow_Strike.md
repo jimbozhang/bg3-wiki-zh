@@ -24,16 +24,6 @@
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
 范围：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_ShadowStrike_Instant`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 赠予
 
 - [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")

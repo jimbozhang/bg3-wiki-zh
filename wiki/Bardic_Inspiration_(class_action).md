@@ -21,16 +21,6 @@
 - 当吟游诗人达到5级时，奖励增加至 +1d8。
 - 当吟游诗人达到10级时，奖励增加至 +1d10。
 
-## 技术细节
-
-UID
-
-`Target_BardicInspiration`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：诗人激励
 
 **[诗人激励](Bardic_Inspiration_(Condition).md "诗人激励 (状态)")**

@@ -1,139 +1,22 @@
 # 再造决斗者
 
-## 再造决斗者
-
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/)
-- [David Alwyn](https://www.imdb.com/name/nm4753587/)
-- [Okezie Morro](https://www.imdb.com/name/nm2768619/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[不死生物](Undead.md "Undead")
-
-### 种族
-
-[骷髅](Skeleton.md "Skeleton")
-
-- 平衡
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-7
-
-### HP
-
-16
-
-### AC
-
-14 (_巨剑_)
-16 (_护盾_)
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-20 kg (40 lb)
-
-| 物品 | 数量 | 几率 |
-| --- | --- | --- |
-| [骨头](Bone.md "Bone") | 1 | 3/8 |
-| [小瓶子](Bottle.md "Bottle") | 1 | 1/8 |
-| [蜡烛](Candle.md "Candle") | 1 | 1/8 |
-| [匕首](Dagger.md "Dagger") | 1 | 1/8 |
-| [黄金](Gold.md "Gold") | 1 - 4 | 1/8 |
-| (无) |  | 1/8 |
+| | |
+| --- | --- |
+| 配音 | - [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [不死生物](Undead.md "Undead") |
+| 种族 | [骷髅](Skeleton.md "Skeleton") |
+| 等级 | 7 |
+| 生命值 | 16 |
+| 护甲等级 | 14 (_巨剑_) |
+| 先攻 | 0 |
+| 移动速度 | 9 m (30 ft) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-7
-
-### HP
-
-20
-
-### AC
-
-14 (_巨剑_)
-16 (_护盾_)
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-20 kg (40 lb)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +2 | 0 | +2 | -2 | -1 | -3 |
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`Undead_TadpoledSkeleton_Melee` ###
-
-UUID
-
-`c90a386f-0fb8-49a8-b5a0-e89d5c724de7` ###
-
-属性
-
-`SHA_Skeleton_Melee` **再造决斗者**是召唤的[骷髅](Skeleton.md "Skeleton")生物，出现在[第二幕](Act_Two.md "Act Two")。
+**再造决斗者**是召唤的[骷髅](Skeleton.md "Skeleton")生物，出现在[第二幕](Act_Two.md "Act Two")。
 
 ## 目录
 

@@ -14,16 +14,6 @@
 近战：1.5米（5英尺）
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_Resistance`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：抗性
 
 **[抗性](Resistance_(Condition).md "抗性（状态）")**

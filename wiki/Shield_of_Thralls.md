@@ -23,22 +23,6 @@
 
 范围效果：3米（10英尺）（爆炸半径）
 
-## 技术细节
-
-UID
-
-`Target_TAD_ShieldOfThralls`
-
-护盾动作
-
-`Projectile_TAD_ShieldOfThralls_Explosion`
-
-护盾破裂时触发的爆炸
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`
-
 ## 状态：易爆护盾
 
 **[易爆护盾](Volatile_Shield_(Condition).md "易爆护盾（状态）")**

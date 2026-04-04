@@ -20,16 +20,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：每比2环高一环的法术位，可影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_Blindness`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：失明术
 
 **[失明术](Blindness_(Condition).md "Blindness (Condition)")**

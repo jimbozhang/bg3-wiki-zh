@@ -1,275 +1,50 @@
 # 多利亚
 
-## 巴尔之镰多利亚
-
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Kristian Phillips](https://www.imdb.com/name/nm4797146/)
-
-### 阵营
-
-[巴尔教团](Cult_of_Bhaal.md "Cult of Bhaal")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-### 原型
-
-[巴尔之镰](Reaper_of_Bhaal.md "Reaper of Bhaal")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-45
-
-### 护甲等级
-
-10
-
-### 先攻
-
-+5
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 11 / (0) | 20 / (+5) | 13 / (+1) | 15 / (+2) | 12 / (+1) | 16 / (+3) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Kristian Phillips](https://www.imdb.com/name/nm4797146/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 5 |
+| 生命值 | 45 |
+| 护甲等级 | 10 |
+| 先攻 | +5 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 400 |
 
 ## 状态
 
-- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-- [**庇护术**](Sanctuary_(Condition).md "Sanctuary (Condition)")
+- [庇护术](Sanctuary_(Condition).md "Sanctuary (Condition)")
 
 无法被攻击或法术瞄准，攻击另一生物时结束。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-徒手或武器攻击后可进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
-
-生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
-
-## 探索者难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-31
-
-### 护甲等级
-
-10
-
-### 先攻
-
-+5
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +5 | +1 | +2 | +1 | +3 |
 
 ## 状态
 
-- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-- [**庇护术**](Sanctuary_(Condition).md "Sanctuary (Condition)")
+- [庇护术](Sanctuary_(Condition).md "Sanctuary (Condition)")
 
 无法被攻击或法术瞄准，攻击另一生物时结束。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-徒手或武器攻击后可进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
-
-生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-58
-
-### 护甲等级
-
-10
-
-### 先攻
-
-+5
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 0 | 5 | 4 |
 
 ## 状态
 
-- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-- [**庇护术**](Sanctuary_(Condition).md "Sanctuary (Condition)")
+- [庇护术](Sanctuary_(Condition).md "Sanctuary (Condition)")
 
 无法被攻击或法术瞄准，攻击另一生物时结束。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到一定距离。
-
-- [反射闪避](Evasion.md "反射闪避")
-
-成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-徒手或武器攻击后可进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
-
-生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_BhaalTemple_Reaper_06` ###
-
-UUID
-
-`646eaea2-2329-4d75-acc7-feddad951066` ###
-
-Stats
-
-`Human_Cultist_Bhaal_Reaper` **巴尔之镰多利亚**是[巴尔教团](Cult_of_Bhaal.md "Cult of Bhaal")的成员，位于[博德之门](Baldur's_Gate.md "Baldur's Gate")[底城区](Undercity.md "Undercity")的[巴尔神殿](Bhaal_Temple.md "Bhaal Temple")内。
+**巴尔之镰多利亚**是[巴尔教团](Cult_of_Bhaal.md "Cult of Bhaal")的成员，位于[博德之门](Baldur's_Gate.md "Baldur's Gate")[底城区](Undercity.md "Undercity")的[巴尔神殿](Bhaal_Temple.md "Bhaal Temple")内。
 
 > “
 >

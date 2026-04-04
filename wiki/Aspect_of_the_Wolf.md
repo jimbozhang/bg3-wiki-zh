@@ -12,12 +12,6 @@
 范围：自身
 范围区域：18米（60英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_AspectOfTheWolf`
-
 ## 状态：狼之面貌灵光
 
 **[狼之面貌灵光](Aspect_of_the_Wolf_Aura_(Condition).md "狼之面貌灵光 (状态)")**

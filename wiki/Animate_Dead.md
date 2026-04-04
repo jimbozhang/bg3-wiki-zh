@@ -21,16 +21,6 @@
 - 当以5级法术位施放此法术时，可以唤起一个[食尸鬼](Animate_Dead_colon__Ghoul.md "操纵死尸：食尸鬼")或[飞行食尸鬼](Animate_Dead_colon__Flying_Ghoul.md "操纵死尸：飞行食尸鬼")。
 - 当以6级法术位施放此法术时，可以唤起最多3个[食尸鬼](Animate_Dead_colon__Ghoul_Pack.md "操纵死尸：食尸鬼群")或[飞行食尸鬼](Animate_Dead_colon__Flying_Ghoul_Flock.md "操纵死尸：飞行食尸鬼群")，而非1个。
 
-## 技术细节
-
-UID
-
-`Target_AnimateDead`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [操纵死尸：骷髅](Animate_Dead_colon__Skeleton.md "操纵死尸：骷髅")

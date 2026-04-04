@@ -20,16 +20,6 @@
 创造区域：带电的水
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_Belch_Lightning_Brewer`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：震慑
 
 **[震慑](Stunned_(Condition).md "震慑（状态）")**

@@ -15,16 +15,6 @@
 目标：盟友（不包括自身）
 持续时间：1驱散
 
-## 技术细节
-
-UID
-
-`Target_ForcedManeuver`
-
-法术标志
-
-`[临时](Temporary_(spell_flag\>).md)`
-
 ## 状态：强制策动
 
 **[强制策动](Forced_Manoeuvre_(Condition).md "强制策动（状态）")**

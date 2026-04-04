@@ -1,190 +1,20 @@
 # 菲尔罗
 
-## 被遗忘的菲尔罗
-
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Robert G. Slade](https://www.imdb.com/name/nm0805195/)
-
-### 阵营
-
-[罗丝](Lolth.md "罗丝")
-
-### 家乡
-
-[恐怖窟窿](Dread_Hollow.md "Dread Hollow"), [幽暗地域](Underdark.md "Underdark")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[卓尔](Drow.md "Drow")
-
-### 亚种
-
-[罗丝誓约卓尔](Lolth-Sworn_Drow.md "Lolth-sworn drow")
-
-### 职业
-
-[法师](Wizard.md "Wizard")
-
-- 平衡
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-32
-
-### 护甲等级
-
-11
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 12 / (+1) | 14 / (+2) | 17 / (+3) | 8 / (-1) | 9 / (-1) |
-
-## 额外资源
-
-- - - ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-41
-
-### 护甲等级
-
-11
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +1 | +2 | +6 | +2 | -1 |
-
-## 额外资源
-
-- - - ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 技术
-
-###
-
-UID
-
-`S_UND_HookHorror_Hermit` ###
-
-UUID
-
-`2f00e363-09b2-4573-badc-f0995bef6610` ###
-
-属性
-
-`UND_HookHorrorHermit` **被遗忘的菲尔罗**是位于[幽暗地域](Underdark.md "Underdark")[恐怖窟窿](Dread_Hollow.md "Dread Hollow")区域的敌对男性[卓尔](Drow.md "Drow")[法师](Wizard.md "Wizard")。
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Robert G. Slade](https://www.imdb.com/name/nm0805195/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [卓尔](Drow.md "Drow") |
+| 等级 | 5 |
+| 生命值 | 32 |
+| 护甲等级 | 11 |
+| 先攻 | +1 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 75 |
+
+**被遗忘的菲尔罗**是位于[幽暗地域](Underdark.md "Underdark")[恐怖窟窿](Dread_Hollow.md "Dread Hollow")区域的敌对男性[卓尔](Drow.md "Drow")[法师](Wizard.md "Wizard")。
 
 ## 目录
 

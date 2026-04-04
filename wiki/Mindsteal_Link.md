@@ -22,22 +22,6 @@
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷定"))
 射程：20米（67英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_CRE_GithyankiInquisitor_Mindsteal_Link`
-
-普通动作
-
-`Interrupt_CRE_GithyankiInquisitor_MindSteal_Link`
-
-荣誉模式反应，触发动作
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：夺心连接（来源）
 
 **\_(状态)[夺心连接](Mindsteal_Link_(Source)_(Condition).md "夺心连接（来源）（状态）")**

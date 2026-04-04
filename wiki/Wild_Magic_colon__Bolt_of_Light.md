@@ -6,12 +6,6 @@
 
 在你的[狂暴](Rage_(Condition).md "狂暴（状态）")结束前，你每回合都可以从胸口发射一道光箭。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagicBarbarian_LightBolt_Activate`
-
 ## 状态：狂野魔法：光箭
 
 **[狂野魔法：光箭](Wild_Magic_colon__Light_Bolt_(Condition).md "狂野魔法：光箭（状态）")**

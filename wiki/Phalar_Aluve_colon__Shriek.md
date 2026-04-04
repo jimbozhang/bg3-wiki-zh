@@ -23,16 +23,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：5 驱散
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Harpers_SingingSword_Shriek`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：歌唱之剑：尖叫
 
 **[歌唱之剑：尖叫](Singing_Sword_colon__Shrieking_(Condition).md "歌唱之剑：尖叫（状态）")**

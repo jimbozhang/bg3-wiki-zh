@@ -23,16 +23,6 @@
 近战：1.5 米 (5 英尺)
 目标：受 [泥泞](Muddy_(Condition).md "泥泞 (状态)") 影响或处于 [泥巴](Mud.md "泥巴") 地表上的生物
 
-## 技术细节
-
-UID
-
-`Target_WYR_MultiAttack_MudElemental`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 生物使用：[泥巴元素生物](Mud_Elemental.md "泥巴元素生物") 和 [斯托尼](Stoney.md "斯托尼")

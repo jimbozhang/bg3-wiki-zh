@@ -21,16 +21,6 @@
 射程：18米（60英尺）
 创造区域：油脂
 
-## 技术细节
-
-UID
-
-`Projectile_LOW_GreaseWizard_Ooze_Spit`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 区域：油脂
 
 **[油脂](Grease_(surface).md "油脂（地表）")**

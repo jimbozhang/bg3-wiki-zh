@@ -17,16 +17,6 @@
 目标：范围内所有敌人
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_FeyPresence`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：魅惑
 
 **[魅惑](Charmed_(Condition).md "魅惑 (状态)")**

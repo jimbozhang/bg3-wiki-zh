@@ -21,16 +21,6 @@
 范围：18米（60英尺）
 充能：[短休](Short_rest.md "Short rest")
 
-## 技术细节
-
-UID
-
-`Target_MAG_ChargedLightning_EnsnaringShock`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：充能闪电：风暴步伐
 
 **[充能闪电：风暴步伐](Charged_Lightning_colon__Tempest_Steps_(Condition).md "充能闪电：风暴步伐 (状态)")**

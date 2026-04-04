@@ -24,16 +24,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当使用4级或更高等级的法术位施放该法术时，初始施法及所有免费施放的伤害将额外增加1d10⁠⁠[闪电](Lightning.md "闪电")伤害，每比3级高一环增加一次。
 
-## 技术细节
-
-UID
-
-`Target_CallLightning`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 赋予
 
 - [激活召雷术](Activate_Call_Lightning.md "激活召雷术")

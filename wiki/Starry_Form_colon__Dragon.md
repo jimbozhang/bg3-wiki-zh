@@ -22,16 +22,6 @@
 - 在5级时，炫目吐息造成3d6 + [感知调整值](Wisdom.md#Wisdom_modifier_chart "感知")⁠[光耀](Radiant.md "光耀")伤害。
 - 在10级时，[闪烁星座](Twinkling_Constellations.md "闪烁星座")升级此形态，获得悬浮和[飞行](Fly_(Starry_Form).md "飞行（星形形态）")能力。炫目吐息造成4d6 + [感知调整值](Wisdom.md#Wisdom_modifier_chart "感知")⁠[光耀](Radiant.md "光耀")伤害。
 
-## 技术细节
-
-UID
-
-`Shout_Wildshape_Star_Dragon`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(spell flag\) \(page does not exist\)")`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 赋予
 
 - [炫目吐息](Dazzling_Breath.md "炫目吐息")

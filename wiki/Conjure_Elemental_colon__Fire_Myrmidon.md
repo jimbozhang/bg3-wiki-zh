@@ -19,16 +19,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_ConjureElemental_Myrmidon_Fire`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：火元素执政官
 
 | [力量](Strength.md "力量") 13 (+1) | [敏捷](Dexterity.md "敏捷") 18 (+4) | [体质](Constitution.md "体质") 15 (+2) | [智力](Intelligence.md "智力") 9 (-1) | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |

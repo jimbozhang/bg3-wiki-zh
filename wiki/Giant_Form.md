@@ -16,16 +16,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Legendary_GiantSlayer_EnlargeSelf`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 状态：巨人形态
 
 **[巨人形态](Giant_Form_(Condition).md "巨人形态（状态）")**

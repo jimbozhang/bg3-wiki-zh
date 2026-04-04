@@ -26,16 +26,6 @@
 目标：生命值低于100%的生物
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Drider`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[卡'尼斯](Kar'niss.md "卡'尼斯")

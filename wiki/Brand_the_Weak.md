@@ -20,16 +20,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_MAG_Gish_WeaknessBranding`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [弱点钝击](Bludgeon_the_Weak.md "Bludgeon the Weak")

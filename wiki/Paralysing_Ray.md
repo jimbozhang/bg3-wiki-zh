@@ -16,18 +16,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_ParalyzingRay_Spectator`
-
-`Target_UND_Spectator_Ray_Paralyzing`
-
-法术标志
-
-`[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell_flag\) \(page does not exist\)")`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell_flag\) \(page does not exist\)")`
-
 ## 状态：麻痹
 
 **[麻痹](Paralysed_(Condition).md "麻痹（状态）")**

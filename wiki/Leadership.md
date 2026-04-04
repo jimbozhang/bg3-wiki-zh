@@ -19,22 +19,6 @@
 范围区域：6米（20英尺）半径
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_Leadership_Hobgoblin`
-
-平衡难度版本
-
-`Shout_Leadership_Hobgoblin_Hardcore`
-
-硬核难度版本
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：领导力光环
 
 **[领导力光环](Leadership_Aura_(Condition).md "领导力光环（状态）")**

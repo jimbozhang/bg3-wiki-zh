@@ -171,17 +171,6 @@
 | [暗影宗](Way_of_Shadow.md "暗影宗") | 11 | [阴影突袭](Shadow_Strike.md "阴影突袭")：从隐匿位置传送至敌人身边，以阴影本身的潜行心灵凶猛进行打击，造成额外3d8⁠⁠[心灵](Psychic.md "心灵")伤害。 | 无 |
 | [邪术师](Warlock.md "邪术师") | 12 | [饮命者](Lifedrinker.md "饮命者")：你的近战攻击造成等于你[魅力](Charisma.md "魅力")调整值的额外黯蚀伤害。 | 无 |
 
-## 技术细节
-
-定义游戏中所有效果的脚本位于 `Gustav.pak` 和 `Shared.pak` 内的 `.txt` 文件中。（参见[模组：解包和转换文件](Modding_colon_Unpacking_and_converting_files.md "模组：解包和转换文件")）。在这些脚本中，伤害附加效果使用几种伤害函数之一实现。这些是：
-
-- `WeaponDamage()`、`CharacterWeaponDamage()` 和 `CharacterUnarmedDamage()`：
-  基本的、行为良好的伤害加值使用此函数实现。加值将_仅_应用于触发攻击，不涉及其他任何内容。
-  示例效果：来自[腐蚀指环](Caustic_Band.md "腐蚀指环")的2⁠⁠[强酸](Acid.md "强酸")。
-- `DamageBonus()`：
-  使用此函数的伤害附加会将其额外伤害应用于每个独立的伤害实例。当与使用 `DealDamage()` 的伤害附加（见下文）结合时，单次攻击可以创建大量独立的伤害实例。在这些情况下，`DamageBonus()` 会多次应用其额外伤害，但 `WeaponDamage()` 仅应用一次。
-  示例效果：来自[无情光芒之戒](Callous_Glow_Ring.md "无情光芒之戒")的2⁠⁠[光耀](Radiant.md "光耀")。
-- `DealDamage()`：
   此函数被所有伤害攻击、法术和状态效果用于应用其伤害。它也被“**被视为伤害来源的伤害附加**”用于应用其额外伤害。它创建一个独立的伤害实例，可以被适用的 `DamageBonus()` 效果独立增强。此外，使用 `DealDamage()` 的伤害附加在某些情况下可以相互触发，从而创建比预期多得多的伤害实例。
   示例效果：来自[巨像屠夫](Colossus_Slayer.md "巨像屠夫")的1d8⁠⁠[物理](Physical.md "物理")。
 

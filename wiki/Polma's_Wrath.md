@@ -13,16 +13,6 @@
 详情
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_GOB_Ogre_Enrage`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：波尔玛之怒
 
 **[波尔玛之怒](Polma's_Wrath_(Condition).md "波尔玛之怒 (状态)")**

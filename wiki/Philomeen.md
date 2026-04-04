@@ -1,142 +1,18 @@
 # 菲尔罗敏
 
-## 菲尔罗敏
-
-- 过场动画
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声优 / 演员
-
-- [Zoe Mills](https://www.imdb.com/name/nm3907032/)
-
-### 阵营
-
-[铁手氏族](Clan_Ironhand.md "Clan_Ironhand")
-
-### 家庭
-
-[拉里达](Laridda.md "Laridda")（前任伴侣）
-
-## 属性
-
-### 体型
-
-[小型](Small.md "Small")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[侏儒](Gnome.md "Gnome")
-
-### 亚种
-
-[地底侏儒](Deep_Gnome.md "Deep gnome")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-22
-
-### 护甲等级
-
-11
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 12 / (+1) | 12 / (+1) | 18 / (+4) | 14 / (+2) | 12 / (+1) |
-
-## 额外资源
-
-- - ## 特性
-
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-
-你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [小步奔行](Shortened_Stride.md "小步奔行")
-
-你的移动速度为 7.5 米 (25 英尺)。
-
-- [岩石伪装](Stone_Camouflage.md "岩石伪装")
-
-你在[隐匿](Stealth.md "Stealth")检定上具有[优势](Advantage.md "Advantage")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中视物，范围达 24 米 / 80 英尺。
-
-## 技术信息
-
-###
-
-UID
-
-`S_GLO_HiddenGnome` ###
-
-UUID
-
-`6cacd488-c479-47a9-9a39-1cfb2bf6836e` ###
-
-属性
-
-`GLO_HiddenGnome` ## 变体 1
-
-###
-
-UID
-
-`WYR_HiddenGnome` ###
-
-UUID
-
-`e0dc09f2-9193-4af2-b578-ddf44b97aca9` ###
-
-属性
-
-`GLO_HiddenGnome` **菲尔罗敏**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一个[地底侏儒](Deep_Gnome.md "Deep Gnome")角色。她可以给队伍一个[符文火药瓶](Runepowder_Vial.md "Runepowder Vial")。
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [侏儒](Gnome.md "Gnome") |
+| 等级 | 3 |
+| 生命值 | 22 |
+| 护甲等级 | 11 |
+| 先攻 | +1 |
+| 经验值 | 75 |
+
+**菲尔罗敏**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一个[地底侏儒](Deep_Gnome.md "Deep Gnome")角色。她可以给队伍一个[符文火药瓶](Runepowder_Vial.md "Runepowder Vial")。
 
 > “
 >

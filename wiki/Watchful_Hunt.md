@@ -15,16 +15,6 @@
 目标：上一轮未被追踪的 1 名玩家
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Target_SHA_Orthon_Track`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`
-
 ## 状态：被追猎
 
 **[被追猎](Hunted_(Condition).md "被追猎 (状态)")**

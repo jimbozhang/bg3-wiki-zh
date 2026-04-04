@@ -11,12 +11,6 @@
 详情
 充能：每两回合一次
 
-## 技术细节
-
-UID
-
-`Shout_LOW_OpenGate_BringReinforcements`
-
 ## 如何习得
 
 由以下法术授予：

@@ -1,91 +1,16 @@
 # 裁判所幽魂
 
-## 裁判所幽魂
-
-肖像画
-
-### 声音 / 演员
-
-- [Andrew Futaishi](https://www.imdb.com/name/nm4551148/)
-- [Daniel Norford](https://www.imdb.com/name/nm3713775/)
-- [Gabrielle Nellis-Pain](https://www.imdb.com/name/nm7778181/)
-- [George Taylor](https://www.imdb.com/name/nm4122118/)
-- [Glen McCready](https://www.imdb.com/name/nm1959185/)
-- [Jay Taylor](https://www.imdb.com/name/nm2497266)
-- [Joseph Capp](https://www.imdb.com/name/nm3516054/)
-- [Katy Brittain](https://www.imdb.com/name/nm1433038/)
-- [Romayne Andrews](https://www.imdb.com/name/nm8275276/)
-- [Shala Nyx](https://www.imdb.com/name/nm5964389/)
-- [Tariyé Peterside](https://www.imdb.com/name/nm7346673/)
-- [Vineeta Rishi](https://www.imdb.com/name/nm1581584/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[不死生物](Undead.md "Undead")
-
-### 种族
-
-[幽魂](Ghost.md "Ghost")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-3
-
-### HP
-
-18
-
-### AC
-
-10
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 m (30 ft)
-
-### XP奖励
-
-320
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 11 / (0) | 15 / (+2) | 12 / (+1) | 10 / (0) | 11 / (0) | 14 / (+2) |
-
-## 特性
-
-- [虚无形态](Ethereal.md "虚无形态")
-
-无法被推击、投掷或用作即兴近战武器。
-
-- [虚体移动](Incorporeal_Movement.md "虚体移动")
-
-对你的借机攻击具有[劣势](Disadvantage.md "Disadvantage")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [永久武装](Permanently_Armed.md "永久武装")
-
-无法被缴械。
+| | |
+| --- | --- |
+| 配音 | - [Andrew Futaishi](https://www.imdb.com/name/nm4551148/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [不死生物](Undead.md "Undead") |
+| 种族 | [幽魂](Ghost.md "Ghost") |
+| 等级 | 3 |
+| 生命值 | 18 |
+| 护甲等级 | 10 |
+| 先攻 | +2 |
+| 移动速度 | 9 m (30 ft) |
 
 **裁判所幽魂**是_博德之门3_中的[不死生物](Undead.md "Undead")幽灵生物。可以在[谋杀裁判所](Murder_Tribunal.md "Murder_Tribunal")的屠宰场中找到它们。
 

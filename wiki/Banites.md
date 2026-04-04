@@ -1,26 +1,9 @@
 # 灾祸之神 (Bane)
 
-## 灾祸 (Bane)
-
-黑暗领主
-
-- 壁画
-- 符号
-- 雕像
-
-### 声音 / 演员
-
-- [David Rintoul](https://www.imdb.com/name/nm0727778/)
-
-### 阵营
-
-[死亡三神](Dead_Three.md "死亡三神") & [至上真神教团](Cult_of_the_Absolute.md "至上真神教团")
-
-## 属性
-
-### 种族
-
-[神祇](Deity.md "神祇")
+| | |
+| --- | --- |
+| 配音 | - [David Rintoul](https://www.imdb.com/name/nm0727778/) |
+| 种族 | [神祇](Deity.md "神祇") |
 
 **灾祸 (Bane)**，又名黑暗领主，是暴政、仇恨与纷争之神，也是[死亡三神](Dead_Three.md "死亡三神")的一员。他与秩序和[战争领域](War_Domain.md "战争领域")领域相关联。灾祸不能作为玩家角色[牧师](Cleric.md "牧师")的神祇。
 

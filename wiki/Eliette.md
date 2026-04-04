@@ -1,23 +1,9 @@
 # 艾莉耶特 (Eliette)
 
-## 艾莉耶特 (Eliette)
-
-### 家乡
-
-[低语深地](Whispering_Depths.md "低语深地")
-（位于[染疫村落](Blighted_Village.md "染疫村落")下方）
-
-## 属性
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[高精灵](High_Elf.md "高精灵") <sup>[\[1\]](#cite_note-1)</sup>
-
-另见：[相位蜘蛛女王](Phase_Spider_Matriarch.md "相位蜘蛛女王")
+| | |
+| --- | --- |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [高精灵](High_Elf.md "高精灵") <sup>[\[1\]](#cite_note-1)</sup> |
 
 **艾莉耶特 (Eliette)** 是一位被提及于[博德之门3](Baldur's_Gate_3.md "博德之门3")中的[高精灵](High_Elf.md "高精灵") ⁠蜘蛛术士 (arachnomancer)。
 

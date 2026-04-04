@@ -14,12 +14,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_Fiendish_Resilience_Piercing`
-
 ## 状态：邪魔体魄：穿刺
 
 **[邪魔体魄：穿刺](Fiendish_Resilience_colon__Piercing_(Condition).md "邪魔体魄：穿刺（状态）")**

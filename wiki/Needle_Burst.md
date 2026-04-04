@@ -18,16 +18,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）（豁免成功：目标仍承受一半伤害。）
 范围效果：4米（13英尺）半径
 
-## 技术细节
-
-UID
-
-`Projectile_Burst_Blight_Needle`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[幽影诅咒枯针怪](Shadow-Cursed_Needle_Blight.md "幽影诅咒枯针怪")

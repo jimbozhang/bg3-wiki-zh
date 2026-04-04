@@ -41,15 +41,15 @@
 
 **9**：发布[热修复 #3](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=684502#post684502)。
 
-**13**：发布[**补丁 1**](https://store.steampowered.com/news/app/1086940?emclan=103582791464711919&emgid=2896336186753128622)。
+**13**：发布[补丁 1](https://store.steampowered.com/news/app/1086940?emclan=103582791464711919&emgid=2896336186753128622)。
 
-**27**：发布[**补丁 2**](https://store.steampowered.com/news/app/1086940?emclan=103582791464711919&emgid=2934618050801266876)。
+**27**：发布[补丁 2](https://store.steampowered.com/news/app/1086940?emclan=103582791464711919&emgid=2934618050801266876)。
 
 **30**：发布[热修复 #4](https://store.steampowered.com/news/app/1086940?updates=true&emclan=103582791464711919&emgid=2924485584688473627)。
 
 - **十二月**
 
-**2**：发布[**补丁 3**](https://store.steampowered.com/news/app/1086940?emclan=103582791464711919&emgid=2894089457947101686)，这是首个大小达数十 GB 并破坏存档的补丁系列中的第一个。此补丁侧重于稳定性，并为和平主义玩家添加了选项。
+**2**：发布[补丁 3](https://store.steampowered.com/news/app/1086940?emclan=103582791464711919&emgid=2894089457947101686)，这是首个大小达数十 GB 并破坏存档的补丁系列中的第一个。此补丁侧重于稳定性，并为和平主义玩家添加了选项。
 
 **8**：发布[热修复 #5](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=743340#post743340)。
 
@@ -59,7 +59,7 @@
 
 - **二月**
 
-**25**：发布[**补丁 4**](https://store.steampowered.com/news/app/1086940?updates=true&emclan=103582791464711919&emgid=3030330956943251733)。添加了[德鲁伊](Druid.md "德鲁伊")职业，同时改进了过场动画、稳定性和多项*生活质量*功能。
+**25**：发布[补丁 4](https://store.steampowered.com/news/app/1086940?updates=true&emclan=103582791464711919&emgid=3030330956943251733)。添加了[德鲁伊](Druid.md "德鲁伊")职业，同时改进了过场动画、稳定性和多项*生活质量*功能。
 
 **26**：发布[热修复 #7](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=760262#post760262)。
 
@@ -79,7 +79,7 @@
 
 - **七月**
 
-**15**：发布[**补丁 5**](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=780440#post780440)。这是一个比第四个补丁更大的补丁，此更新改进并更改了用户反馈的多个系统：主要是营地和掷骰系统，此外还添加了点击语音、背景目标和过场动画。
+**15**：发布[补丁 5](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=780440#post780440)。这是一个比第四个补丁更大的补丁，此更新改进并更改了用户反馈的多个系统：主要是营地和掷骰系统，此外还添加了点击语音、背景目标和过场动画。
 
 **22**：发布[热修复 #12](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=782296#post782296)。
 
@@ -95,7 +95,7 @@
 
 **6**：**抢先体验满一周年**。
 
-**14**：发布[**补丁 6**](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=792767#post792767)。这是一个比第五个补丁更大的补丁，此更新添加了[术士](Sorcerer.md "术士")职业以及[复仇之炉](Grymforge.md "复仇之炉")区域和大型图形更新。此外，还有典型的错误修复和稳定性改进。
+**14**：发布[补丁 6](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=792767#post792767)。这是一个比第五个补丁更大的补丁，此更新添加了[术士](Sorcerer.md "术士")职业以及[复仇之炉](Grymforge.md "复仇之炉")区域和大型图形更新。此外，还有典型的错误修复和稳定性改进。
 
 **21**：发布[热修复 #16](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=795172#post795172)。
 
@@ -113,7 +113,7 @@
 
 - **二月**
 
-**15**：发布[**补丁 7**](https://t.co/iJP0WYJDjb)。添加了[野蛮人](Barbarian.md "野蛮人")职业以及[临时武器攻击](Improvised_Weapon_Attack.md "临时武器攻击")、UI 重新设计、超过 700 个改进的过场动画等。
+**15**：发布[补丁 7](https://t.co/iJP0WYJDjb)。添加了[野蛮人](Barbarian.md "野蛮人")职业以及[临时武器攻击](Improvised_Weapon_Attack.md "临时武器攻击")、UI 重新设计、超过 700 个改进的过场动画等。
 
 **22**：发布[热修复 #20](https://store.steampowered.com/news/app/1086940/view/3103546793469782939)。
 
@@ -129,7 +129,7 @@
 
 - **七月**
 
-**7**：发布[**补丁 8**](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=818832#post818832)。其主要添加内容是[吟游诗人](Bard.md "吟游诗人")职业和[侏儒](Gnome.md "侏儒")种族。
+**7**：发布[补丁 8](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=818832#post818832)。其主要添加内容是[吟游诗人](Bard.md "吟游诗人")职业和[侏儒](Gnome.md "侏儒")种族。
 
 **8**：发布热修复 #24。
 
@@ -155,7 +155,7 @@
 
 **8**：拉瑞安工作室在电子游戏大奖上宣布完整游戏的发布日期为 **2023 年 8 月**，并发布了此[预告片](https://www.youtube.com/watch?v=NOWGnC3h9WQ&ab_channel=LarianStudios)。
 
-**14**：发布[**补丁 9**](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=834832#post834832)。添加了[圣武士](Paladin.md "圣武士")职业、改进的反应系统，并将等级上限提高到 5。这被揭示为**抢先体验的最后一次内容更新**，为 2023 年 8 月的最终发布做准备。
+**14**：发布[补丁 9](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=834832#post834832)。添加了[圣武士](Paladin.md "圣武士")职业、改进的反应系统，并将等级上限提高到 5。这被揭示为**抢先体验的最后一次内容更新**，为 2023 年 8 月的最终发布做准备。
 
 **22**：发布热修复 #30。
 

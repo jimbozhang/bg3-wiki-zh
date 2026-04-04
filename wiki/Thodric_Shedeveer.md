@@ -1,82 +1,16 @@
 # 索德里克·谢德维尔
 
-## 索德里克·谢德维尔
-
-鱼贩
-
-- 过场动画
-- 模型
-- 肖像画
-
-### 声音 / 演员
-
-- [Okezie Morro](https://www.imdb.com/name/nm2768619/)
-
-### 角色
-
-[商人](Trader.md "Trader")
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-8
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### 经验值奖励
-
-1
-
-| 物品 | 数量 | 几率 |
-| --- | --- | --- |
-| [黄金](Gold.md "Gold") [[](#cite_note-poor_8_12-1 "[")1] | 144 - 576 | 总是 |
+| | |
+| --- | --- |
+| 配音 | - [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling") |
+| 等级 | 1 |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 经验值 | 1 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -94,43 +28,21 @@
 
 攻击离开攻击范围的敌人。
 
-## 探索者难度属性
+## 抗性 [抗性](Resistances.md "抗性")
 
-### 等级
+- ## 特性
 
-1
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 生命值
+可以在黑暗中看到一定距离。
 
-5
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-### 护甲等级
+对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
 
-10
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### 经验值奖励
-
-1
-
-| 数量 | 10 | 11 | 12 |
-| --- | --- | --- | --- |
-| 几率 | 1/3 | 1/3 | 1/3 |
+攻击离开攻击范围的敌人。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -148,78 +60,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-10
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### 经验值奖励
-
-1
-
-| 物品 | 数量 | 几率 |
-| --- | --- | --- |
-| [大鱼](Fish_(Big).md "Fish (big)") | 1 | 1/13 |
-| [鱼](Fish.md "Fish") | 1 | 4/13 |
-| [鱼](Fish.md "Fish") | 1 | 4/13 |
-| [鱼](Fish.md "Fish") | 1 | 4/13 |
-
-## 抗性 [抗性](Resistances.md "抗性")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术细节
-
-###
-
-UID
-
-`S_WYR_SouthSpanMerchants_Merchant_004` ###
-
-UUID
-
-`3a9ca435-0dd9-4f7a-af75-83f480146ad2` ###
-
-属性
-
-`Tiefling_Commoner` **索德里克·谢德维尔**是[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")一位开朗的鱼贩。
+**索德里克·谢德维尔**是[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")一位开朗的鱼贩。
 
 > “
 >

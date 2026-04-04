@@ -21,16 +21,6 @@
 近战：1.5 米（5 英尺）
 击退：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Bite_Bulette`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：强酸
 
 **[强酸](Acid_(Condition).md "强酸 (状态)")**

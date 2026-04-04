@@ -28,16 +28,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_MOO_Nightsong_SearingSmite`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：圣火
 
 **[圣火](Holy_Fire_(Condition).md "Holy Fire (Condition)")**

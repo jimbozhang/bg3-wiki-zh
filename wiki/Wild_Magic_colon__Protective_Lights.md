@@ -6,12 +6,6 @@
 
 你及 3 米（10 英尺）范围内的所有盟友获得 +1 [护甲等级](Armour_Class.md "护甲等级") 加值。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagicBarbarian_ProtectiveLights`
-
 ## 状态：狂野魔法：防护之光（光环）
 
 **\_(状态)[狂野魔法：防护之光](Wild_Magic_colon__Protective_Lights_(Aura)_(Condition).md "狂野魔法：防护之光（光环）（状态）")**

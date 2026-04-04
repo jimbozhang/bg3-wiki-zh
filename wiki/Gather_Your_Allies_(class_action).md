@@ -13,16 +13,6 @@
 消耗
 [动作](Actions.md#Resources "动作")
 
-## 技术细节
-
-UID
-
-`Shout_END_AllyAbilities_MultipleSummon`
-
-法术标志
-
-`[CallAlliesSpell](https://bg3.wiki/w/index.php?title=CallAlliesSpell_\(spell_flag\)&action=edit&redlink=1) "CallAlliesSpell \(spell flag\) \(page does not exist\)")`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 变体
 
 - [一天一苹果](An_Apple_a_Day.md "一天一苹果")

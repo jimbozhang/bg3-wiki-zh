@@ -17,22 +17,6 @@
 范围效果：6米（20英尺）半径
 目标：半径内的所有敌人
 
-## 技术细节
-
-UID
-
-`Projectile_HeartOfTheStorm_Lightning`
-
-创造爆炸的动作
-
-`Interrupt_HeartOfTheStorm_Lightning`
-
-触发能力的反应
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 此法术是以下法术的变体：

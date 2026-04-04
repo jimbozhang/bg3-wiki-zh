@@ -13,12 +13,6 @@
 详情
 范围：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_TAD_TransfuseHealth`
-
 ## 如何习得
 
 被以下生物使用：[灵吸怪](Illithid.md "灵吸怪")、[部分灵吸怪](Partial-illithid.md "部分灵吸怪")和[完整的灵吸怪](Full-illithid.md "完整的灵吸怪")

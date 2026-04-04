@@ -13,12 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_AstralKnowledge_Charisma`
-
 ## 状态：星界知识：魅力
 
 **[星界知识：魅力](Astral_Knowledge_colon__Charisma_(Condition).md "星界知识：魅力 (状态)")**

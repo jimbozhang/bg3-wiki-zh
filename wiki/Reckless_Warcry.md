@@ -17,16 +17,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：2驱散
 
-## 技术细节
-
-UID
-
-`Shout_GoblinWarcry`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：无畏战吼
 
 **[无畏战吼](Reckless_Warcry_(Condition).md "无畏战吼 (状态)")**

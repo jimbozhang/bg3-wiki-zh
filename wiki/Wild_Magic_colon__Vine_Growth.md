@@ -6,12 +6,6 @@
 
 花朵和藤蔓以使用者为中心，半径5米（17英尺）向外扩散，为除使用者外的所有人创造[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagicBarbarian_VineGrowth`
-
 ## 状态：狂野魔法：藤蔓生长
 
 **[狂野魔法：藤蔓生长](Wild_Magic_colon__Vine_Growth_(Condition).md "狂野魔法：藤蔓生长（状态）")**

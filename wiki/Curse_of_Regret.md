@@ -23,16 +23,6 @@
 
 以此法术更高等级施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_HAG_MaskOfRegret`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：悔恨诅咒
 
 **[悔恨诅咒](Curse_of_Regret_(Condition).md "悔恨诅咒 (状态)")**

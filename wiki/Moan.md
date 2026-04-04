@@ -21,16 +21,6 @@
 范围：自身
 范围效果：4米（13英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_Moan_Cloaker`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "恐慌（状态）")**

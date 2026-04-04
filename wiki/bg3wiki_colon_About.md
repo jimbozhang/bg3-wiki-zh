@@ -8,9 +8,9 @@
 
 ## 统计数据
 
-- 该维基包含 [**12,944**](Special_colon_AllPages.md "Special:AllPages") 篇文章和 [**27,026**](Special_colon_ListFiles.md "Special:ListFiles") 个已上传文件。
-- 我们的页面已被编辑 [**375,562**](Special_colon_RecentChanges.md "Special:RecentChanges") 次。
-- 我们有 [**3,811**](Special_colon_ListUsers.md "Special:ListUsers") 名注册用户和 [**73**](Special_colon_ActiveUsers.md "Special:ActiveUsers") 名活跃用户。
+- 该维基包含 [12,944](Special_colon_AllPages.md "Special:AllPages") 篇文章和 [27,026](Special_colon_ListFiles.md "Special:ListFiles") 个已上传文件。
+- 我们的页面已被编辑 [375,562](Special_colon_RecentChanges.md "Special:RecentChanges") 次。
+- 我们有 [3,811](Special_colon_ListUsers.md "Special:ListUsers") 名注册用户和 [73](Special_colon_ActiveUsers.md "Special:ActiveUsers") 名活跃用户。
 
 ## 法律声明（根据德国法律）
 

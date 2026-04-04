@@ -28,16 +28,6 @@
 - 8 级时：+1d6⁠[穿刺](Piercing.md "穿刺")
 - 12 级时：+1d8⁠[穿刺](Piercing.md "穿刺")
 
-## 技术细节
-
-UID
-
-`Target_Beak_Raven_Summon`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[乌鸦座](Corvus.md "乌鸦座")、[乌鸦座](Corvus_Major.md "乌鸦座")、[神速鸦](Corvus_Celer.md "神速鸦")、[凶残乌鸦](Murderous_Crow.md "凶残乌鸦") 以及 [荒野形态：恐鸦](Wild_Shape_colon__Dire_Raven.md "荒野形态：恐鸦")

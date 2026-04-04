@@ -1,80 +1,17 @@
 # 乌米
 
-## 乌米
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Penelope Rawlins](https://www.imdb.com/name/nm2857799/)
-
-### 阵营
-
-[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
-
-## 属性
-
-### 体型
-
-[小型](Small.md "Small")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-5
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-25 千克 (50 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Penelope Rawlins](https://www.imdb.com/name/nm2857799/) |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 1 |
+| 生命值 | 5 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -88,43 +25,17 @@
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 等级
+- ## 特性
 
-1
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 生命值
+可以在黑暗中看到一定距离。
 
-3
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-25 千克 (50 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
+[抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -138,71 +49,7 @@
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
 
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-6
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-25 千克 (50 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
-
-## 技术数据
-
-###
-
-UID
-
-`S_DEN_Trainee_001` ###
-
-UUID
-
-`1f839ad2-2bcb-47d2-8de9-db7a1fb5d67f` ###
-
-属性
-
-`Tiefling_Child` **乌米**是在[翠绿林地](Emerald_Grove.md "Emerald Grove")寻求庇护的提夫林难民之一，出现在[第一幕](Act_One.md "Act One")。
+**乌米**是在[翠绿林地](Emerald_Grove.md "Emerald Grove")寻求庇护的提夫林难民之一，出现在[第一幕](Act_One.md "Act One")。
 
 > “
 >

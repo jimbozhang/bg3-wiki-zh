@@ -17,16 +17,6 @@
 详情
 范围：9 米（30 英尺）
 
-## 技术细节
-
-UID
-
-`Rush_Charger_Push`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下特性提供：

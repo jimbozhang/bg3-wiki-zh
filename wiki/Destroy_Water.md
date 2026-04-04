@@ -18,16 +18,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当法术以 2 级或更高法术位施放时，可摧毁水的区域每比 1 级法术位高一级，增加 2 米（7 英尺）。
 
-## 技术细节
-
-UID
-
-`Target_DestroyWater`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 此法术是以下法术的变体：

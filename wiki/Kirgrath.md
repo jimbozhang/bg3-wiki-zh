@@ -1,281 +1,31 @@
 # 吉尔格拉斯
 
-## 吉尔格拉斯
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Peter Hannah](https://www.imdb.com/name/nm0360307/)
-
-### 阵营
-
-[烈焰氏族](Clan_Flameshade.md "烈焰氏族")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[矮人](Dwarf.md "矮人")
-
-### 亚种
-
-[灰矮人](Duergar.md "灰矮人")
-
-### 职业
-
-[游侠](Ranger.md "游侠")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-44
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Peter Hannah](https://www.imdb.com/name/nm0360307/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [矮人](Dwarf.md "矮人") |
+| 等级 | 5 |
+| 生命值 | 44 |
+| 护甲等级 | 14 |
+| 先攻 | +2 |
+| 经验值 | 75 |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
+## 抗性 [(info)](Resistances.md "抗性")
 
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 探索者难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-30
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | +5 | +1 | 0 | +1 | +1 |
+- ## 额外资源
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-57
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 1 | 2 | 1 |
-
-## 抗性 [(info)](Resistances.md "抗性")
-
-- ## 额外资源
-
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到 24 米 / 80 英尺。
-
-## 技术信息
-
-###
-
-UID
-
-`S_UND_DuergarRebelFrantic` ###
-
-UUID
-
-`93529dbc-a5b5-4e77-a0b7-bcb8204173b2` ###
-
-Stats
-
-`UND_KC_Kirgrath` **吉尔格拉斯**是[复仇之炉](Grymforge.md "复仇之炉")中的一个特殊替代角色，他控制了[侏儒](Gnome.md "侏儒")奴隶。如果[布里特瓦尔](Brithvar.md "布里特瓦尔")在反抗[尼讷](Nere.md "尼讷")的叛乱中死亡，吉尔格拉斯就会出现。
+**吉尔格拉斯**是[复仇之炉](Grymforge.md "复仇之炉")中的一个特殊替代角色，他控制了[侏儒](Gnome.md "侏儒")奴隶。如果[布里特瓦尔](Brithvar.md "布里特瓦尔")在反抗[尼讷](Nere.md "尼讷")的叛乱中死亡，吉尔格拉斯就会出现。
 
 > “
 >

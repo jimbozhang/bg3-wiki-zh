@@ -15,16 +15,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_Prowl_Panther`
-
-法术标志
-
-`[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(spell flag\) \(page does not exist\)")`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 状态：隐形
 
 **[隐形](Invisible_(Condition).md "隐形（状态）")**

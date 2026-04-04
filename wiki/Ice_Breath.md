@@ -22,16 +22,6 @@
 目标：锥形区域内的所有敌人
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Zone_IceMephit_IceBreath`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[冰魔蝠](Ice_Mephit.md "冰魔蝠")

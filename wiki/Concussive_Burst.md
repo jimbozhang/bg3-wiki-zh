@@ -21,16 +21,6 @@
 击退：8米（27英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Zone_ConcussiveBlast_Orthon`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[尤格](Yurgir.md "尤格")

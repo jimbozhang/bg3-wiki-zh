@@ -29,16 +29,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高环位施放此法术时，每比1环高1环，初始伤害额外增加1d6⁠⁠[火焰](Fire.md "Fire")。
 
-## 技术细节
-
-UID
-
-`Target_Smite_Searing`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：炽焰斩
 
 **[炽焰斩](Searing_Smite_(Condition).md "炽焰斩 (状态)")**

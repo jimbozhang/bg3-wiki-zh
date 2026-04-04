@@ -1,7 +1,5 @@
 # Shadar-Kai
 
-[He Who Was](He_Who_Was.md "He Who Was"), 一名影灵（类人生物）幽影编织者
-
 **影灵（类人生物）** 是 _[博德之门3](Baldur's_Gate_3.md "博德之门3")_ 中的一个非可玩[种族](Race.md "Race")。
 
 > “

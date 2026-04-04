@@ -13,16 +13,6 @@
 详情
 范围：6米（20英尺）锥形
 
-## 技术细节
-
-UID
-
-`Zone_Trumpet_Hollyphant`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[瓦莱里亚](Valeria.md "瓦莱里亚")

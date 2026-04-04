@@ -16,16 +16,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_Devour_ShadowMound`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")

@@ -14,16 +14,6 @@
 近战：1.5米（5英尺）
 目标：拉斐尔或灵魂之柱
 
-## 技术细节
-
-UID
-
-`Target_LOW_Raphael_RestoreSoul`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 如何习得
 
 其他习得方式：

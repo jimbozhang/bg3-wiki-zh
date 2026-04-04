@@ -113,7 +113,6 @@ _除非另有说明，从种族获得的法术每次长休只能施展一次。_
 - [D&D 5e 种族变动](D&D_5e_race_changes.md "D&D 5e 种族变动") 总结了[博德之门3](Baldur's_Gate_3.md "博德之门3")中相对5e规则集的所有种族变动。
 
 
-
 ## 相关内容
 
 ### Gameplay
@@ -565,7 +564,6 @@ _除非另有说明，从种族获得的法术每次长休只能施展一次。_
 - [Vlaakith](Vlaakith.md)
 
 - [Yondalla](Yondalla.md)
-
 
 
 ---

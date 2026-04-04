@@ -16,16 +16,6 @@
 范围：1.5 米（5 英尺）
 推动：[推击距离](#distance)
 
-## 技术细节
-
-UID
-
-`Target_Shove`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[CombatLogSetSingleLineRoll](https://bg3.wiki/w/index.php?title=CombatLogSetSingleLineRoll_\(spell_flag\)&action=edit&redlink=1) "CombatLogSetSingleLineRoll \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 概述
 
 推击是几乎所有类人生物都可用的基本常见动作。由于[坠落伤害](Falling_damage.md "坠落伤害")和深渊的存在，推击无论是由队伍使用还是对抗队伍，都可能是一种极其有效的动作。推击在键盘和鼠标界面下有一个专用键位（V）。它也可以像其他能力一样从能力栏中使用。

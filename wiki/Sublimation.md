@@ -15,12 +15,6 @@
 范围效果：半径 4 米 (13 英尺)
 目标：半径内的所有敌人
 
-## 技术细节
-
-UID
-
-`Projectile_MidasWrath_TollCollector`
-
 ## 状态：纯金
 
 **[纯金](Turned_to_Gold_(Condition).md "纯金（状态）")**

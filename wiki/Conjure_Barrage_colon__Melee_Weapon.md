@@ -27,16 +27,6 @@
 
 以更高法术等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Zone_ConjureBarrage_Melee`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 此法术是以下法术的变体：

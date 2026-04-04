@@ -1,58 +1,12 @@
 # 尤格
 
-## 尤格
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Stewart Scudamore](https://www.imdb.com/name/nm1270132/)
-
-### 角色
-
-[附属追随者](Attached_Follower.md "附属追随者")
-
-### 家庭
-
-[妮莎](Nessa.md "妮莎")（伴侣）
-
-### 家乡
-
-[阿弗纳斯](Avernus.md "阿弗纳斯")
-
-## 属性
-
-### 体型
-
-[大型](Large.md "大型")
-
-### 类型
-
-[邪魔](Fiend.md "邪魔")
-
-### 种族
-
-⁠[血甲魔](https://forgottenrealms.fandom.com/wiki/Orthon)
-
-## 技术
-
-###
-
-UID
-
-`S_GLO_Orthon` ###
-
-UUID
-
-`1dc8091d-2af6-4d33-9268-998ef266d19c` ###
-
-属性
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Stewart Scudamore](https://www.imdb.com/name/nm1270132/) |
+| 体型 | [大型](Large.md "大型") |
+| 类型 | [邪魔](Fiend.md "邪魔") |
+| 种族 | ⁠[血甲魔](https://forgottenrealms.fandom.com/wiki/Orthon) |
 
 `血甲魔` **尤格**是一名血甲魔，一种来自九层地狱的强大邪魔。他和他的[军团魔](Merregon.md "军团魔")小队可以在[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")中找到，他们因与[拉斐尔](Raphael.md "拉斐尔")签订的契约而被困在那里。
 

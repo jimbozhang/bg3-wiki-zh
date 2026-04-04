@@ -13,12 +13,6 @@
 详情
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Interrupt_MAG_SecondChance`
-
 ## 学习方式
 
 由物品提供：

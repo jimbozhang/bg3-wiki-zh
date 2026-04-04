@@ -18,16 +18,6 @@
 创建区域：毒云
 持续时间：10 驱散
 
-## 技术细节
-
-UID
-
-`Projectile_LOW_Hag_Mushroom_MushroomExplosion`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 区域：毒云
 
 **[毒云](Poison_Cloud.md "毒云")**

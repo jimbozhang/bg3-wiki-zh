@@ -22,16 +22,6 @@
 目标：范围内所有生物
 持续时间：3回合
 
-## 技术细节
-
-UID
-
-`Shout_SeismicStrike_Elemental_Earth`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：双腿颤抖
 
 **[双腿颤抖](Trembling_Legs_(Condition).md "Trembling Legs (Condition)")**

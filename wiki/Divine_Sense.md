@@ -14,16 +14,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_DivineSense`
-
-法术标志
-
-`[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(spell_flag\) \(page does not exist\)")`
-
 ## 状态：神圣感知
 
 **[神圣感知](Divine_Sense_(Condition).md "神圣感知 (状态)")**

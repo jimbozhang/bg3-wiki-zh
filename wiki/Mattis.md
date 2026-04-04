@@ -1,88 +1,17 @@
 # 马蒂斯
 
-## 马蒂斯
-
-珍品收藏家
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Charlotte Wakefield](https://www.imdb.com/name/nm1229260/)
-
-### 角色
-
-[商人](Trader.md "Trader")
-
-### 阵营
-
-[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
-
-### 家庭
-
-[西尔菲](Silfy.md "Silfy") (妹妹)
-
-## 属性
-
-### 体型
-
-[小型](Small.md "Small")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-- 平衡
-- 探索者
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-5
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-25 千克 (50 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-| 数量 | 4 | 5 | 6 |
-| --- | --- | --- | --- |
-| 几率 | 1/3 | 1/3 | 1/3 |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Charlotte Wakefield](https://www.imdb.com/name/nm1229260/) |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 1 |
+| 生命值 | 5 |
+| 护甲等级 | 12 |
+| 先攻 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -96,49 +25,17 @@
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-## 探索者难度属性
+## 抗性 [抗性](Resistances.md "抗性")
 
-### 等级
+- ## 特性
 
-1
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 生命值
+能在黑暗中看清一定距离内的事物。
 
-3
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-25 千克 (50 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-| 物品 | 数量 | 几率 |
-| --- | --- | --- |
-| [饮品补给表](Drink_Supply_Table.md "Drink Supply Table") | 1 | 1/11 |
-| [食物补给表 2](Food_Supply_Table_2.md "Food Supply Table 2") | 1 | 1/11 |
-| [食物补给表 3](Food_Supply_Table_3.md "Food Supply Table 3") | 1 | 3/11 |
-| [食物补给表 4](Food_Supply_Table_4.md "Food Supply Table 4") | 1 | 2/11 |
-| [食物补给表 5](Food_Supply_Table_5.md "Food Supply Table 5") | 1 | 2/11 |
-| [食物补给表 6](Food_Supply_Table_6.md "Food Supply Table 6") | 1 | 1/11 |
-| [食物补给表 7](Food_Supply_Table_7.md "Food Supply Table 7") | 1 | 1/11 |
+[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -152,71 +49,7 @@
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-6
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-25 千克 (50 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-| 物品 | 数量 | 几率 |
-| --- | --- | --- |
-| [补给包](Supply_Pack.md "Supply Pack") | 1 | 总是 |
-
-## 抗性 [抗性](Resistances.md "抗性")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看清一定距离内的事物。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
-
-## 技术信息
-
-###
-
-UID
-
-`S_DEN_PickpocketTrader` ###
-
-UUID
-
-`e1fda08b-45d4-41db-84b5-20e9931ba5af` ###
-
-属性
-
-`DEN_Thiefling` **马蒂斯**是在[第一幕](Act_One.md "Act One")中寻求[翠绿林地](Emerald_Grove.md "Emerald Grove")庇护的提夫林难民之一。
+**马蒂斯**是在[第一幕](Act_One.md "Act One")中寻求[翠绿林地](Emerald_Grove.md "Emerald Grove")庇护的提夫林难民之一。
 
 ## 目录
 

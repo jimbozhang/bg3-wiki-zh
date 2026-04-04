@@ -22,16 +22,6 @@
 
 - [升环施法](Upcasting.md "升环施法")：以更高的法术位施放此法术时，每比1环高1环，额外造成 **1d8** 点所选类型的伤害。
 
-## 技术细节
-
-UID
-
-`Projectile_ChromaticOrb`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 变体
 
 - [繁彩球：强酸](Chromatic_Orb_colon__Acid.md "繁彩球：强酸")

@@ -1,112 +1,20 @@
 # 莉尔费兹摩
 
-## 莉尔费兹摩
+| | |
+| --- | --- |
+| 身份 | Female |
+| 配音 | - [Holly-Marie Michael](https://www.imdb.com/name/nm3997487/) |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 1 |
+| 生命值 | 5 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 m (30 ft) |
+| 经验值 | 0 |
 
-Fetcher's Brats
-
-- In-game
-- Model
-- Portrait
-
-### Identity
-
-Female
-
-### Voice / Actor
-
-- [Holly-Marie Michael](https://www.imdb.com/name/nm3997487/)
-
-### Faction
-
-[公会](The_Guild.md "The Guild")
-
-### Hometown
-
-[博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-## Stats
-
-### Size
-
-[小型](Small.md "Small")
-
-### Type
-
-[类人生物](Humanoid.md "Humanoid")
-
-### Race
-
-[人类](Human.md "Human")
-
-### Class
-
-[游荡者](Rogue.md "Rogue")
-
-- Balanced
-
-## Balanced Difficulty Stats
-
-### Level
-
-1
-
-### HP
-
-5
-
-### AC
-
-10
-
-### Initiative
-
-0
-
-### Proficiency
-
-+2
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-25 kg (50 lb)
-
-### Darkvision
-
-0 m (0 ft)
-
-### XP reward
-
-0
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## Features
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击一个正在离开触及范围的敌人。
-
-## Technical
-
-###
-
-UID
-
-`S_LOW_Guildhall_FetchersBrat_001` ###
-
-UUID
-
-`721084d3-de1a-4213-93db-c7f93cf9d632` ###
-
-Stats
-
-`Human_Child` **莉尔费兹摩**是[公会](The_Guild.md "The Guild")内 Fetcher's Brats 的一员。
+**莉尔费兹摩**是[公会](The_Guild.md "The Guild")内 Fetcher's Brats 的一员。
 
 ## Involvement
 

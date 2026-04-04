@@ -22,16 +22,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_FreezingSphere_Throw`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：即将爆炸
 
 **[即将爆炸！](Explosion_Imminent!_(Condition).md "即将爆炸！ (状态)")**

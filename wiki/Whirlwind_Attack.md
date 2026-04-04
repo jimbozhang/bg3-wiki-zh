@@ -21,16 +21,6 @@
 范围：2米（7英尺）半径
 目标：范围内的所有敌人和物体
 
-## 技术细节
-
-UID
-
-`Shout_Whirlwind`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

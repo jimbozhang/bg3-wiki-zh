@@ -28,22 +28,6 @@
 - 在 8 等级时，此额外伤害变为 1d8⁠⁠[挥砍](Slashing.md "挥砍")。
 - 在 12 等级时，此额外伤害变为 1d10⁠⁠[挥砍](Slashing.md "挥砍")。
 
-## 技术细节
-
-UID
-
-`Target_Claws_GiantBadger`
-
-巨型獾 NPC 使用的版本
-
-`Target_Claws_GiantBadger_Wildshape`
-
-荒野形态形态下使用的版本
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[獾](Badger.md "獾") 和 [荒野形态：獾](Wild_Shape_colon__Badger.md "荒野形态：獾")

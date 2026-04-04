@@ -11,12 +11,6 @@
 详情
 创建区域：尖刺
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_SpikeGrowth`
-
 ## 区域：尖刺
 
 **[尖刺](Spikes.md "尖刺")**

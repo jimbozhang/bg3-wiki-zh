@@ -15,16 +15,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Harpers_RingOfTwilight_Hide`
-
-法术标志
-
-`[AllowMoveAndCast](https://bg3.wiki/w/index.php?title=AllowMoveAndCast_\(spell_flag\)&action=edit&redlink=1) "AllowMoveAndCast \(法术标志\)（页面不存在）")`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(法术标志\)（页面不存在）")`, `[Invisible](Invisible_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`, `[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(法术标志\)（页面不存在）")`
-
 ## 状态：隐藏
 
 **[隐藏](Hiding_(Condition).md "隐藏（状态）")**

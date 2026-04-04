@@ -18,16 +18,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_DevilsFee_Boar`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：镶金地狱野猪
 
 | [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 11 | [体质](Constitution.md "体质") 20 (+5) | [智力](Intelligence.md "智力") 6 (-2) | [感知](Wisdom.md "感知") 8 (-1) | [魅力](Charisma.md "魅力") 5 (-3) |

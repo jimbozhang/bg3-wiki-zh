@@ -82,16 +82,6 @@
 [天眼通](天眼通.md "天眼通")
 飞至目标位置并制造一小片[黑暗术](黑暗术_(云)..md)
 
-## 技术细节
-
-UID
-
-`Target_RangersCompanion_Raven`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

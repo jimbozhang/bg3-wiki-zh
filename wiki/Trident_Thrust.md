@@ -22,16 +22,6 @@
 
 [升环](Upcasting.md "升环施法")：此攻击的伤害增加1d8⁠⁠[力场](Force.md "力场")伤害，每比2环高2环使用[灵体武器](Spiritual_Weapon.md "灵体武器")施放。
 
-## 技术细节
-
-UID
-
-`Target_MainHandAttack_SpiritualWeapon_Trident`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[灵体武器（三叉戟）](Spiritual_Weapon_(trident).md)

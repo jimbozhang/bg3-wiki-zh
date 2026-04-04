@@ -23,16 +23,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Bite_Gnoll_Fang`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 被以下生物使用：[伊诺胡利齿豺狼人](Gnoll_Fang_of_Yeenoghu.md "Gnoll Fang of Yeenoghu")

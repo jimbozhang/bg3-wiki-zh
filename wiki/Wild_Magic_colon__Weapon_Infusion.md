@@ -8,12 +8,6 @@
 
 如果你投掷武器，它会在你的[驱散](Turn.md "驱散")结束时重新出现在你手中。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagicBarbarian_WeaponInfusion`
-
 ## 状态：狂野魔法：武器灌注
 
 **[狂野魔法：武器灌注](Wild_Magic_colon__Weapon_Infusion_(Condition).md "狂野魔法：武器灌注（状态）")**

@@ -16,16 +16,6 @@
 范围区域：9米（30英尺）半径
 目标：范围内所有敌人
 
-## 技术细节
-
-UID
-
-`Shout_Dreadful_Aspect`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "恐慌（状态）")**

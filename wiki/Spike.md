@@ -1,156 +1,18 @@
 # Spike
 
-## Torturer Spike
-
-- In-game
-- Model
-- Portrait
-
-### Identity
-
-Male
-
-### Voice / Actor
-
-- [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/)
-
-### Faction
-
-[绝对真神教团](Cult_of_the_Absolute.md "绝对真神教团")
-
-## Stats
-
-### Size
-
-[小型](Small.md "小型")
-
-### Type
-
-[类人生物](Humanoid.md "类人生物")
-
-### Race
-
-[地精](Goblin.md "地精")
-
-### Archetype
-
-[地精战士](Goblin_Warrior.md "地精战士")
-
-### Class
-
-[战士](Fighter.md "战士")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-- 荣誉
-
-## Balanced Difficulty Stats
-
-### Level
-
-3
-
-### HP
-
-15
-
-### AC
-
-13
-
-### Initiative
-
-+1
-
-### Proficiency
-
-+2
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-35 kg (70 lb)
-
-### Darkvision
-
-12 m (40 ft)
-
-### XP reward
-
-20
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 13 / (+1) | 11 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
-
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
-
-## Explorer Difficulty Stats
-
-### Level
-
-3
-
-### HP
-
-10
-
-### AC
-
-13
-
-### Initiative
-
-+1
-
-### Proficiency
-
-+4
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-35 kg (70 lb)
-
-### Darkvision
-
-12 m (40 ft)
-
-### XP reward
-
-20
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | +1 | 0 | 0 | -1 | -1 |
-
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
+| | |
+| --- | --- |
+| 身份 | Male |
+| 配音 | - [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
+| 体型 | [小型](Small.md "小型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [地精](Goblin.md "地精") |
+| 等级 | 3 |
+| 生命值 | 15 |
+| 护甲等级 | 13 |
+| 先攻 | +1 |
+| 移动速度 | 9 m (30 ft) |
+| 经验值 | 20 |
 
 ## Tactician Difficulty Stats
 
@@ -194,91 +56,7 @@ Attack an enemy moving out of reach.
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 13 / (+1) | 11 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
 
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [小型之怒](Fury_of_the_Small.md "小型之怒")
-
-When you damage a creature larger than you, you can choose to deal 1d6⁠⁠[Physical](Physical.md "Physical") extra. Limited to once per combat.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
-
-## Honour Difficulty Stats
-
-### Level
-
-3
-
-### HP
-
-23
-
-### AC
-
-13
-
-### Initiative
-
-+1
-
-### Proficiency
-
-+2
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-35 kg (70 lb)
-
-### Darkvision
-
-12 m (40 ft)
-
-### XP reward
-
-20
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | +1 | 0 | 0 | -1 | -1 |
-
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [小型之怒](Fury_of_the_Small.md "小型之怒")
-
-When you damage a creature larger than you, you can choose to deal 1d6⁠⁠[Physical](Physical.md "Physical") extra. Limited to once per combat.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
-
-## Technical
-
-###
-
-UID
-
-`S_GOB_Torturers_Spike` ###
-
-UUID
-
-`3f1fa953-6a0d-4589-adfd-23c69603da2f` ###
-
-Stats
-
-`Goblin_Melee_Strong` **施虐者斯派克**是地精，也是[绝对真神](Absolute.md "绝对真神")的追随者。他和[守望者格鲁什](Grush.md "守望者格鲁什")在[地精营地](Goblin_Camp.md "地精营地")的[破碎圣所](Shattered_Sanctum.md "破碎圣所")内，[血污圣祠](Bloodied_Shrine.md "血污圣祠")旁折磨[利亚姆](Liam.md "利亚姆")。
+**施虐者斯派克**是地精，也是[绝对真神](Absolute.md "绝对真神")的追随者。他和[守望者格鲁什](Grush.md "守望者格鲁什")在[地精营地](Goblin_Camp.md "地精营地")的[破碎圣所](Shattered_Sanctum.md "破碎圣所")内，[血污圣祠](Bloodied_Shrine.md "血污圣祠")旁折磨[利亚姆](Liam.md "利亚姆")。
 
 ## Contents
 

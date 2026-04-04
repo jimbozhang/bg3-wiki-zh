@@ -14,16 +14,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
 射程：3米（10英尺）
 
-## 技术细节
-
-UID
-
-`Target_HallucinationSpores`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：幻觉
 
 **[幻觉](Hallucinating_(Condition).md "幻觉（状态）")**

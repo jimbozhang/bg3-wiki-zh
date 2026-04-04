@@ -22,38 +22,6 @@
 
 - 当以 2 级或更高法术位施展至圣斩时，伤害每超过 1 级增加 1d8⁠⁠[光耀](Radiant.md "光耀")。此伤害上限为 5d8，因此使用 4 级以上法术位不会增加更多伤害。
 
-## 技术细节
-
-UID
-
-`Interrupt_Smite_Divine`
-
-`Interrupt_Smite_Divine_2`
-
-`Interrupt_Smite_Divine_3`
-
-`Interrupt_Smite_Divine_4`
-
-`Interrupt_Smite_Divine_5`
-
-`Interrupt_Smite_Divine_6`
-
-`Interrupt_Smite_Divine_Critical`
-
-`Interrupt_Smite_Divine_Critical_2`
-
-`Interrupt_Smite_Divine_Critical_3`
-
-`Interrupt_Smite_Divine_Critical_4`
-
-`Interrupt_Smite_Divine_Critical_5`
-
-`Interrupt_Smite_Divine_Critical_6`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

@@ -20,16 +20,6 @@
 远程 徒手 [攻击掷骰](Attack_roll.md "Attack Roll")
 射程：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_StoneThrow`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 被以下生物使用：[粉碎机](Crusher.md "粉碎机")、[熊地精刺客](Bugbear_Assassin.md "熊地精刺客")、[随葬的战士](Entombed_Warrior.md "随葬的战士")、[费泽克](Fezzerk.md "费泽克")、[地精首领](Goblin_Boss.md "地精首领")、[地精斗士](Goblin_Brawler.md "地精斗士")和[地精战士](Goblin_Warrior.md "地精战士")

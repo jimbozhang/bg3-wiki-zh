@@ -16,16 +16,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：3 驱散
 
-## 技术细节
-
-UID
-
-`Target_SurvivalInstinct`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`
-
 ## 状态：求生直觉
 
 **[求生直觉](Survival_Instinct_(Condition).md "求生直觉 (状态)")**

@@ -26,16 +26,6 @@
 - 在等级 8 时，此额外伤害变为 1d8⁠⁠[穿刺](Piercing.md "穿刺")。
 - 在等级 12 时，此额外伤害变为 1d10⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Target_Bite_Wolf_Dire`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 被以下生物使用：[达'哈克](D'hak.md "达'哈克")、[乌尔'乌特](Ur'uth.md "乌尔'乌特")、[乌尔克](Vulk.md "乌尔克")、[白雾](Whitemist.md "白雾")，以及[荒野形态：狼](Wild_Shape_colon__Wolf.md "荒野形态：狼")

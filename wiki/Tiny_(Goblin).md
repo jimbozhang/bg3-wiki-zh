@@ -1,228 +1,36 @@
 # 微型 (地精)
 
-## 斗士 微型
-
-至上真神学徒
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Ellie Heydon](https://www.imdb.com/name/nm8703995/)
-
-### 阵营
-
-[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-[小型](Small.md "Small")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[地精](Goblin.md "Goblin")
-
-### 原型
-
-[地精斗士](Goblin_Brawler.md "Goblin Brawler")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-- 荣誉
-
-## 平衡难度属性
-
-### 等级
-
-2
-
-### 生命值
-
-9
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-10
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 13 / (+1) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Ellie Heydon](https://www.imdb.com/name/nm8703995/) |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [地精](Goblin.md "Goblin") |
+| 等级 | 2 |
+| 生命值 | 9 |
+| 护甲等级 | 13 |
+| 先攻 | +1 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 10 |
 
 ## 状态
 
-- [**微醺**](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
+- [微醺](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
 
 [力量](Strength.md "Strength") 增加 2，[魅力](Charisma.md "Charisma") 和 [敏捷](Dexterity.md "Dexterity") 检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-2
-
-### 生命值
-
-6
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-10
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | +1 | 0 | 0 | -1 | -1 |
 
 ## 状态
 
-- [**微醺**](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
+- [微醺](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
 
 [力量](Strength.md "Strength") 增加 2，[魅力](Charisma.md "Charisma") 和 [敏捷](Dexterity.md "Dexterity") 检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-2
-
-### 生命值
-
-11
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-10
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 13 / (+1) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
 
 ## 状态
 
-- [**微醺**](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
+- [微醺](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
 
 [力量](Strength.md "Strength") 增加 2，[魅力](Charisma.md "Charisma") 和 [敏捷](Dexterity.md "Dexterity") 检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [小型之怒](Fury_of_the_Small.md "小型之怒")
-
-当你对体型比你大的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
 
 ## 荣誉难度属性
 
@@ -262,45 +70,17 @@
 
 10
 
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | +1 | 0 | 0 | -1 | -1 |
 
 ## 状态
 
-- [**微醺**](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
+- [微醺](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
 
 [力量](Strength.md "Strength") 增加 2，[魅力](Charisma.md "Charisma") 和 [敏捷](Dexterity.md "Dexterity") 检定具有[劣势](Disadvantage.md "Disadvantage")。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [小型之怒](Fury_of_the_Small.md "小型之怒")
-
-当你对体型比你大的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术信息
-
-###
-
-UID
-
-`S_GOB_PartyingGoblin_002` ###
-
-UUID
-
-`bedb5fe5-2fa7-42f4-82c0-dda23883ff7c` ###
-
-属性
-
-`Goblin_Melee` **斗士 微型** 是驻扎在[第一幕](Act_One.md "Act One")中[地精营地](Goblin_Camp.md "Goblin Camp")的地精。
+**斗士 微型** 是驻扎在[第一幕](Act_One.md "Act One")中[地精营地](Goblin_Camp.md "Goblin Camp")的地精。
 
 > “
 >

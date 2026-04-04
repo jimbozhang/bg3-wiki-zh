@@ -13,16 +13,6 @@
 详情
 每场战斗重置一次
 
-## 技术细节
-
-UID
-
-`Shout_HAG_SpawnDoubles_Phase1`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由生物使用：[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")

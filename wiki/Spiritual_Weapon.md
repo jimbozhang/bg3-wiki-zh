@@ -23,16 +23,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比2级法术位高2级，武器获得8点[生命值](Hit_Points.md "生命值")，并造成额外1d8⁠⁠[力场](Force.md "力场")伤害。
 
-## 技术细节
-
-UID
-
-`Target_SpiritualWeapon`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [灵体武器：巨斧](Spiritual_Weapon_colon__Greataxe.md "灵体武器：巨斧")

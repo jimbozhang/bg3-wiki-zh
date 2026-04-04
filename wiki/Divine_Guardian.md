@@ -15,12 +15,6 @@
 详情
 范围：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_DivineGuardian`
-
 ## 状态：神圣卫士
 
 **[神圣卫士](Divine_Guardian_(Condition).md "神圣卫士 (状态)")**

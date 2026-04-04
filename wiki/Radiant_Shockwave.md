@@ -12,16 +12,6 @@
 范围效果：3米（10英尺）半径
 目标：范围内所有非盟友生物
 
-## 技术细节
-
-UID
-
-`Projectile_MAG_Radiant_RadiatingOrb_Explosion`
-
-法术标志
-
-`[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 状态：光耀法球
 
 **[光耀法球](Radiating_Orb_(Condition).md "光耀法球（状态）")**

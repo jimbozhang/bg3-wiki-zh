@@ -23,16 +23,6 @@
 
 [升环施法](Upcast.md "升环施法")：当此法术以5级或更高法术位施放时，每环每回合额外造成1d10⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-## 技术细节
-
-UID
-
-`Target_PhantasmalKiller`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：魅影杀手
 
 **[魅影杀手](Phantasmal_Killer_(Condition).md "魅影杀手（状态）")**

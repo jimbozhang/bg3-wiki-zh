@@ -22,18 +22,6 @@
 范围：自身
 区域效果：3米（10英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_HealingRadiance`
-
-主要动作
-
-`Shout_HealingRadiance_Heal`
-
-次要治疗动作在下一轮自动激活
-
 ## 状态：治愈光耀
 
 **[治愈光耀](Healing_Radiance_(Condition).md "治愈光耀 (状态)")**

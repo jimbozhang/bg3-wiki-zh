@@ -20,18 +20,6 @@
 充能：每场战斗一次
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_BloodLust_RedCap`
-
-`Target_LOW_BlushingMermaid_Redcap_Bloodlust`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsSpell](<<IsSpell_\(spell_flag\)`
-
 ## 赋予
 
 - [多重攻击 (红帽子)](Multiattack_(Redcap).md "多重攻击 (红帽子)")

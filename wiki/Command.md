@@ -20,16 +20,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比1环高1环，影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_Command_Container`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [命令术：靠近](Command_colon__Approach.md "命令术：靠近")

@@ -19,16 +19,6 @@
 细节
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_LayOnHands_BigHeal`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

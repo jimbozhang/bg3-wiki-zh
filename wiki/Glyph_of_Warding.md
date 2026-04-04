@@ -23,16 +23,6 @@
 
 参见各个变体的页面。
 
-## 技术细节
-
-UID
-
-`Target_GlyphOfWarding`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [守卫刻文：强酸](Glyph_of_Warding_colon__Acid.md "Glyph of Warding: Acid")

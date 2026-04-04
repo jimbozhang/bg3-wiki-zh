@@ -29,16 +29,6 @@
 - 在 8 等级时，此额外伤害变为 1d6⁠⁠[挥砍](Slashing.md "挥砍")。
 - 在 12 等级时，此额外伤害变为 1d8⁠⁠[挥砍](Slashing.md "挥砍")。
 
-## 技术细节
-
-UID
-
-`Target_GOB_WolfPens_HalsinMultiAttack_Bear`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[荒野形态：洞熊](Wild_Shape_colon__Cave_Bear.md "荒野形态：洞熊")

@@ -17,16 +17,6 @@
 
 以此法术升环施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_PlanarAlly_Cambion`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：坎比翁（异界誓盟）
 
 | [力量](Strength.md "Strength") 18 (+4) | [敏捷](Dexterity.md "Dexterity") 18 (+4) | [体质](Constitution.md "Constitution") 16 (+3) | [智力](Intelligence.md "Intelligence") 14 (+2) | [感知](Wisdom.md "Wisdom") 12 (+1) | [魅力](Charisma.md "Charisma") 16 (+3) |

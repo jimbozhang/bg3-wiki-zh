@@ -30,16 +30,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：5回合
 
-## 技术细节
-
-UID
-
-`Target_TAD_AbsorbIntellect`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell flag\) \(page does not exist\)")`, `[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：被吞噬的智力
 
 **[被吞噬的智力](Absorbed_Intellect_(Condition).md "被吞噬的智力（状态）")**

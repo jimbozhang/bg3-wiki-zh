@@ -19,16 +19,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当在4级施法时，持续时间增加到20驱散；在5级时增加到50驱散；在6级时增加到100驱散。
 
-## 技术细节
-
-UID
-
-`Target_BestowCurse_SkipTurn`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：被诅咒：恐惧
 
 **[被诅咒：恐惧](Cursed_colon__Dread_(Condition).md "被诅咒：恐惧 (状态)")**

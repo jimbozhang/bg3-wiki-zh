@@ -20,12 +20,6 @@
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
 范围：2 米（7 英尺）
 
-## 技术细节
-
-UID
-
-`Interrupt_GiantKiller`
-
 ## 如何习得
 
 职业：

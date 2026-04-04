@@ -24,16 +24,6 @@
 
 以此法术的更高环位施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Windrider_GaseousForm`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：气化形体
 
 **[气化形体](Gaseous_Form_(Condition).md "气化形体 (状态)")**

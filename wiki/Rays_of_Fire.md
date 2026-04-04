@@ -28,16 +28,6 @@
 
 以此法术的更高环阶施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Projectile_FireRay_Cambion`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由生物使用：[坎比翁](Cambion.md "坎比翁") 和 [坎比翁（异界誓盟）](Cambion_(Planar_Ally).md)

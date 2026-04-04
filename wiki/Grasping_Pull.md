@@ -18,16 +18,6 @@
 拉动：9 米（30 英尺）（对友方自动成功）
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Target_GraspingVine_Pull`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[贪婪藤蔓](Grasping_Vine.md "贪婪藤蔓")

@@ -11,26 +11,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_Bard_Perform_BardDance_Drum`
-
-`Shout_Bard_Perform_BardDance_Flute`
-
-`Shout_Bard_Perform_BardDance_Lute`
-
-`Shout_Bard_Perform_BardDance_Lyre`
-
-`Shout_Bard_Perform_BardDance_Violin`
-
-`Shout_Bard_Perform_BardDance_Whistle`
-
-法术标志
-
-`[DontAbortPerforming](https://bg3.wiki/w/index.php?title=DontAbortPerforming_\(spell_flag\)&action=edit&redlink=1) "DontAbortPerforming \(spell flag\) \(page does not exist\)")`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`
-
 ## 状态：表演 '吟游诗人之舞'
 
 **[表演 '吟游诗人之舞'](Performing_'Bard_Dance'_(Condition).md "表演 '吟游诗人之舞' (状态)")**

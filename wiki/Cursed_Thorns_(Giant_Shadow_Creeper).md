@@ -20,16 +20,6 @@
 近战法术 [攻击掷骰](Attack_roll.md "Attack Roll")
 范围：6 米 (20 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Whip_DarkVine_Giant`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[巨型幽影潜行者](Giant_Shadow_Creeper.md "Giant Shadow Creeper")

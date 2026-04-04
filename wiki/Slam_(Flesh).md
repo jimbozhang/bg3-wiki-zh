@@ -26,22 +26,6 @@
 
 2d6 + [力量调整值](Strength.md#Strength_modifier_chart "力量")⁠[钝击](Bludgeoning.md "钝击")
 
-## 技术细节
-
-UID
-
-`Target_Slam_FleshGolem`
-
-基础版本
-
-`Target_Slam_FleshGolem_EasyMode`
-
-探索者难度版本，伤害缩小
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[肉肉](Flesh.md "肉肉")

@@ -18,16 +18,6 @@
 
 - [升环施法](Upcasting.md "升环施法")：使用 5 级或 6 级 [法术位](Spell_Slot.md "法术位") 施放此法术时，[攻击掷骰](Attack_roll.md "攻击掷骰") 加值将提高 1，额外的 1d4⁠⁠[雷鸣](Thunder.md "雷鸣") 伤害也会增加。
 
-## 技术细节
-
-UID
-
-`Target_ElementalWeapon_Thunder`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：元素武器：雷鸣
 
 **[元素武器：雷鸣](Elemental_Weapon_colon__Thunder_(Condition).md "元素武器：雷鸣 (状态)")**

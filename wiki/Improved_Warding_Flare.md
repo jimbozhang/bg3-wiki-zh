@@ -11,18 +11,6 @@
 消耗
 [反应](Actions.md#Reactions "Actions")
 
-## 技术细节
-
-UID
-
-`Target_ImprovedFlare_Interrupt`
-
-反应施放的动作
-
-`Interrupt_WardingFlare_Improved`
-
-触发该动作的反应
-
 ## 如何习得
 
 职业：

@@ -19,12 +19,6 @@
 范围效果：9 米（30 英尺）半径
 目标：范围内的所有盟友
 
-## 技术细节
-
-UID
-
-`Shout_PackHowl_Barbarian`
-
 ## 状态：激励咆哮
 
 **[激励咆哮](Inciting_Howl_(Condition).md "激励咆哮（状态）")**

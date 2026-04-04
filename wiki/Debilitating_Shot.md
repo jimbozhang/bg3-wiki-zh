@@ -19,16 +19,6 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
 射程：18 米（60 英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_SteelWatcher_Crossbow`
-
-法术标志
-
-`[CanDualWield](https://bg3.wiki/w/index.php?title=CanDualWield_\(spell_flag\)&action=edit&redlink=1) "CanDualWield \(spell_flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell_flag\) \(page does not exist\)")`
-
 ## 状态：约束
 
 **[约束](Pinned_Down_(Condition).md "约束（状态）")**

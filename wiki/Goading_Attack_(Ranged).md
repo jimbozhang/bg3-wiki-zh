@@ -29,16 +29,6 @@
 
 在10级时，拥有[精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")，伤害加成从1d8提升至1d10。
 
-## 技术细节
-
-UID
-
-`Projectile_GoadingAttack`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：被挑衅
 
 **[被挑衅](Goaded_(Condition).md "被挑衅（状态）")**

@@ -12,12 +12,6 @@
 范围：自身
 范围效果：3米（10英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_AuraOf_Warding`
-
 ## 状态：防卫灵光（光环）
 
 **\_(状态)[防卫灵光](Aura_of_Warding_(Aura)_(Condition).md "防卫灵光（光环）（状态）")**

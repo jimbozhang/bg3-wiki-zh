@@ -30,38 +30,6 @@
 
 - 当至圣斩以 2 级或更高法术位施法时，伤害每比 1 级法术位高一级，增加 1d8[光耀](Radiant.md "光耀")伤害。此伤害上限为 5d8，因此使用 4 级以上法术位不会增加额外伤害。
 
-## 技术细节
-
-UID
-
-`Target_Smite_Divine`
-
-基础法术
-
-`Target_Smite_Divine_2`
-
-升环至 2 级，造成 3d8 伤害
-
-`Target_Smite_Divine_3`
-
-升环至 3 级，造成 4d8 伤害
-
-`Target_Smite_Divine_4`
-
-升环至 4 级，造成 5d8 伤害
-
-`Target_Smite_Divine_5`
-
-升环至 5 级，仍造成 5d8 伤害
-
-`Target_Smite_Divine_6`
-
-升环至 6 级，仍造成 5d8 伤害
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag\>).md)`, `[IsMelee](IsMelee_(spell_flag\>).md)`
-
 ## 学习方式
 
 职业：

@@ -20,22 +20,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功时：目标仍承受一半伤害。）
 范围效果：5米（17英尺）锥形区域
 
-## 技术细节
-
-UID
-
-`Zone_RangedSwipe_Myrmidon_Fire`
-
-召唤执政官使用的版本
-
-`Zone_RangedSwipe_Wildshape_Myrmidon_Fire`
-
-荒野形态中使用的版本，伤害降低
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell_flag\) \(页面不存在\)")`
-
 ## 学习方式
 
 由以下生物使用：[火元素执政官](Fire_Myrmidon.md "火元素执政官")

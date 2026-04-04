@@ -13,12 +13,6 @@
 详情
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_WarlockSpellRestoration`
-
 ## 如何习得
 
 由物品授予：

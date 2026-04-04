@@ -23,16 +23,6 @@
 充能：[短休](Short_rest.md "短休")
 必须 [熟练](Proficiency.md#Weapon_proficiency "熟练项") 使用该武器
 
-## 技术细节
-
-UID
-
-`Zone_UNI_SuperheavyWeapon_Spell`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：失衡 (巨像切割者)
 
 **\_(状态)[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡 (巨像切割者) (状态)")**

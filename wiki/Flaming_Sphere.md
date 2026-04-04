@@ -27,16 +27,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高环位施放此法术时，每比2环高一环，额外造成1d6⁠⁠[火焰](Fire.md "火焰")伤害。
 
-## 技术细节
-
-UID
-
-`Target_FlamingSphere`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：炽焰法球（生物）
 
 | [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 10 | [智力](Intelligence.md "智力") 10 | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |

@@ -21,12 +21,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Projectile_EPI_Disintegrate_GaleGod`
-
 ## 如何习得
 
 其他习得方式：

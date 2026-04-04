@@ -18,16 +18,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）（豁免成功：目标仍承受一半伤害。）
 射程：2.5 米（8 英尺）
 
-## 技术细节
-
-UID
-
-`Target_SurgeryAttack_Bonesaw_Surgeon`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：减速
 
 **[减速](Slowed_(Condition).md "减速（状态）")**

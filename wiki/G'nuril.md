@@ -1,174 +1,20 @@
 # G'nuril
 
-## 热诚 G'nuril
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Sarah Lam](https://www.imdb.com/name/nm0482685/)
-
-### 阵营
-
-[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[吉斯洋基人](Githyanki.md "Githyanki")
-
-### 原型
-
-[热诚](Ardent.md "Ardent")
-
-- 平衡
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-28
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 14 / (+2) | 16 / (+3) | 16 / (+3) | 14 / (+2) | 10 / (0) |
-
-## 额外资源
-
-- - - ## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-36
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +2 | +6 | +6 | +5 | 0 |
-
-## 额外资源
-
-- - - ## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [预兆戏法](Potent_Cantrip.md "预兆戏法")
-
-敌人成功通过对抗戏法的[豁免检定](Saving_throw.md "Saving throw")后，仍会受到一半伤害。
-
-- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
-
-你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic") 伤害——灵吸怪奴役的伤痕深植骨髓。
-
-## 技术信息
-
-###
-
-UID
-
-`S_CRE_IntelligenceOfficer01` ###
-
-UUID
-
-`c76d7d19-3d46-44e5-a914-80efc8cac4ea` ###
-
-属性
-
-`Githyanki_IntelligenceOfficer` **热诚 G'nuril** 是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")中的一名[吉斯洋基热诚](Githyanki_ardent.md "Githyanki ardent")，出现在[第一幕](Act_One.md "Act One")。她是[凯斯拉克百夫长赛泽恩](Kith'rak_Therezzyn.md "Kith'rak Therezzyn")的守卫和助手。
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Sarah Lam](https://www.imdb.com/name/nm0482685/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
+| 等级 | 5 |
+| 生命值 | 28 |
+| 护甲等级 | 12 |
+| 先攻 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 75 |
+
+**热诚 G'nuril** 是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")中的一名[吉斯洋基热诚](Githyanki_ardent.md "Githyanki ardent")，出现在[第一幕](Act_One.md "Act One")。她是[凯斯拉克百夫长赛泽恩](Kith'rak_Therezzyn.md "Kith'rak Therezzyn")的守卫和助手。
 
 > “
 >

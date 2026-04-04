@@ -20,16 +20,6 @@
 推开：5米（17英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Zone_MAG_ZephyrBreak`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`
-
 ## 状态：失衡
 
 **[失衡](Off_Balance_(Condition).md "失衡（状态）")**

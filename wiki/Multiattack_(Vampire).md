@@ -23,16 +23,6 @@
 近战：1.5 米（5 英尺）
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Target_LOW_Multiattack_Cazador`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[吸血鬼](Vampire.md "吸血鬼")

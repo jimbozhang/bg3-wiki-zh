@@ -19,12 +19,6 @@
 充能：每场战斗
 持续时间：1驱散
 
-## 技术细节
-
-UID
-
-`Shout_PackHowl_Wolf_Dire_NPC`
-
 ## 状态：凶残嚎叫
 
 **[凶残嚎叫](Savage_Howl_(Condition).md "凶残嚎叫（状态）")**

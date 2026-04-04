@@ -15,16 +15,6 @@
 创造区域：黑暗术
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Inkblot`
-
-法术标志
-
-`[隐形](Invisible_(spell_flag).md)`, `[隐匿](Stealth_(spell_flag).md)`, `[不可用于对话](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "不可用于对话（法术标志）（页面不存在）")`
-
 ## 状态：隐藏
 
 **[隐藏](Hiding_(Condition).md "隐藏（状态）")**

@@ -21,12 +21,6 @@
 详情
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Healer_Heal`
-
 ## 状态：医师：治疗
 
 **[医师：治疗](Healer_colon__Healed_(Condition).md "医师：治疗 (状态)")**

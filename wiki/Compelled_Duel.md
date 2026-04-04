@@ -19,16 +19,6 @@
 
 以此法术升环施放不会产生额外效果。
 
-## 技术细节
-
-UID
-
-`Target_CompelledDuel`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：强令对决
 
 **[强令对决](Compelled_Duel_(Condition).md "Compelled Duel (Condition)")**

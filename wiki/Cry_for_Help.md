@@ -13,16 +13,6 @@
 详情
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_CallForHelp_GiantEagle`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：呼叫增援
 
 **[呼叫增援](Calling_Reinforcements_(Condition).md "呼叫增援（状态）")**

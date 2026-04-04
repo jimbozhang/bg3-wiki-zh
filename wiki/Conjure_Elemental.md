@@ -19,16 +19,6 @@
 
 在6级时，施法者可以召唤一个[风元素执政官](Air_Myrmidon.md "风元素执政官")、[土元素执政官](Earth_Myrmidon.md "土元素执政官")、[火元素执政官](Fire_Myrmidon.md "火元素执政官")或[水元素执政官](Water_Myrmidon.md "水元素执政官")。
 
-## 技术细节
-
-UID
-
-`Target_ConjureElemental_Container`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [召唤元素生物：风元素](Conjure_Elemental_colon__Air_Elemental.md "召唤元素生物：风元素")

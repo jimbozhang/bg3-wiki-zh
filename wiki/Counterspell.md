@@ -19,16 +19,6 @@
 
 法术反制可以升环施法，以反制更高环级的法术，而无需进行检定。
 
-## 技术细节
-
-UID
-
-`Target_Counterspell`
-
-法术标志
-
-`[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

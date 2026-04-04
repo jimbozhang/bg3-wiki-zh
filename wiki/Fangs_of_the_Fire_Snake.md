@@ -20,16 +20,6 @@
 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：6米（20英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_FangsOfTheFireSnake`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：火蛇利牙
 
 **[火蛇利牙](Fangs_of_the_Fire_Snake_(Condition).md "火蛇利牙 (状态)")**

@@ -17,12 +17,6 @@
 详情
 范围：18 米（60 英尺）
 
-## 技术细节
-
-UID
-
-`Target_HolyRebuke`
-
 ## 状态：神圣叱责
 
 **[神圣叱责](Holy_Rebuke_(Condition).md "Holy Rebuke (Condition)")**

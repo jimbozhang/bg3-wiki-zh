@@ -13,12 +13,6 @@
 详情
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Interrupt_Legendary_SoulCatching_Attack`
-
 ## 如何习得
 
 由物品授予：

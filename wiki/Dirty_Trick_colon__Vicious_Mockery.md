@@ -27,16 +27,6 @@
 - 在[角色等级](Character_level.md "Character level") 5时，伤害增加至2d4⁠⁠[心灵](Psychic.md "Psychic")。
 - 在角色等级10时，伤害增加至3d4⁠⁠[心灵](Psychic.md "Psychic")。
 
-## 技术细节
-
-UID
-
-`Target_DirtyTrick_Vicious`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：恶毒嘲笑
 
 **[恶毒嘲笑](Vicious_Mockery_(Condition).md "Vicious Mockery (Condition)")**

@@ -20,16 +20,6 @@
 击退：3米（10英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Zone_MindScreech_Nurse`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：困惑
 
 **[困惑](Confused_(Condition).md "困惑（状态）")**

@@ -19,16 +19,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_ConjureElemental_Elemental_Fire`
-
-法术标志
-
-`[HasSomaticComponent](<HasSomaticComponent_（法术标志）`, `[HasVerbalComponent](<HasVerbalComponent_（法术标志）`, `[IsSpell](<IsSpell_（法术标志）`
-
 ## 生物：火元素
 
 | [力量](力量.md "力量") 11 | [敏捷](敏捷.md "敏捷") 17 (+3) | [体质](体质.md "体质") 16 (+3) | [智力](智力.md "智力") 6 (-2) | [感知](感知.md "感知") 10 | [魅力](魅力.md "魅力") 7 (-2) |

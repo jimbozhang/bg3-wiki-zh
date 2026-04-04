@@ -19,16 +19,6 @@
 
 以更高环阶施法此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_Rolan_MageArmor`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：罗兰的魔法护甲
 
 **[罗兰的魔法护甲](Rolan's_Mage_Armour_(Condition).md "罗兰的魔法护甲 (状态)")**

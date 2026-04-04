@@ -19,16 +19,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：每比1环高1环，影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_Bane`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：灾祸术
 
 **[灾祸术](Bane_(Condition).md "Bane (Condition)")**

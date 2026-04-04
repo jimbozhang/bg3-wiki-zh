@@ -22,16 +22,6 @@
 
 [升环施法](Upcasting.md "升环施法"): 每升一环，额外造成 1d10 [黯蚀](Necrotic.md "黯蚀") 伤害。
 
-## 技术细节
-
-UID
-
-`Target_InflictWounds`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业:

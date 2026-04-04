@@ -17,16 +17,6 @@
 详情
 范围：18 米（60 英尺）
 
-## 技术细节
-
-UID
-
-`Target_BendLuck`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 变体
 
 - [扭曲幸运：属性检定加值](Bend_Luck_colon__Ability_Check_Bonus.md "扭曲幸运：属性检定加值")

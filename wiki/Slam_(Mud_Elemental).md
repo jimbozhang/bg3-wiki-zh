@@ -23,16 +23,6 @@
 区域效果：2 米（7 英尺）半径
 创造区域：泥巴
 
-## 技术细节
-
-UID
-
-`Target_Slam_MudElemental`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：泥泞
 
 **[泥泞](Muddy_(Condition).md "泥泞 (状态)")**

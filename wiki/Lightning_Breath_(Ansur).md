@@ -22,18 +22,6 @@
 区域效果：6 米 (20 英尺) 半径
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_LightningBreath_Dragon_Skeletal`
-
-`Projectile_LightningBreathRetaliate_Dragon_Skeletal`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreSourceBounds](https://bg3.wiki/w/index.php?title=RangeIgnoreSourceBounds_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreSourceBounds \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreTargetBounds](https://bg3.wiki/w/index.php?title=RangeIgnoreTargetBounds_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreTargetBounds \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：感电
 
 **[感电](Shocked_(Condition).md "感电 (状态)")**

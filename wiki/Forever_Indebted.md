@@ -18,16 +18,6 @@
 作用范围：4 米（13 英尺）半径
 目标：半径内所有非邪魔生物
 
-## 技术细节
-
-UID
-
-`Projectile_LOW_HouseOfHope_DebtorExplode`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 生物：复仇野猪
 
 | [力量](Strength.md "力量") 18 (+4) | [敏捷](Dexterity.md "敏捷") 12 (+1) | [体质](Constitution.md "体质") 16 (+3) | [智力](Intelligence.md "智力") 6 (-2) | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 5 (-3) |

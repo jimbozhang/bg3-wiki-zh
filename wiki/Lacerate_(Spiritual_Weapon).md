@@ -28,16 +28,6 @@
 
 [升环施法](Upcasting.md "升环施法")：此攻击的伤害增加1d8⁠⁠[力场](Force.md "力场")伤害，每比2环高2环使用法术位施放[灵体武器](Spiritual_Weapon.md "灵体武器")时。
 
-## 技术细节
-
-UID
-
-`Target_Slash_SpiritualWeapon_Greataxe`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell_flag\) \(页面不存在\)")`、`[IsHarmful](IsHarmful_(spell_flag).md)`、`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血（状态）")**

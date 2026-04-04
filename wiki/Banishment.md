@@ -19,16 +19,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每升一环，可影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_Banishment`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：流放
 
 **[流放](Banished_(Condition).md "流放（状态）")**

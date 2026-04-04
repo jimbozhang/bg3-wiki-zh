@@ -27,20 +27,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高法术位施放此法术时，每比 3 级高一环，额外造成 1d8 [寒冷](Cold.md "寒冷") 伤害。
 
-## 技术细节
-
-UID
-
-`Target_GlyphOfWarding_Cold`
-
-`Projectile_GlyphOfWarding_Cold_Trap`
-
-触发效果
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 学习方式
 
 此法术是以下法术的变体：

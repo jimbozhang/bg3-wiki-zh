@@ -13,12 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_AstralKnowledge_Strength`
-
 ## 状态：星界知识：力量
 
 **[星界知识：力量](Astral_Knowledge_colon__Strength_(Condition).md "星界知识：力量 (状态)")**

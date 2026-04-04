@@ -12,12 +12,6 @@
 范围：自身
 范围效果：3米（10英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_AuraOf_Courage`
-
 ## 状态：勇气灵光（灵光）
 
 **\_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光（灵光）（状态）")**

@@ -14,16 +14,6 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 射程：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_LOW_UnholyAssassin_HoldPerson`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：人类定身术
 
 **[人类定身术](Hold_Person_(Condition).md "人类定身术 (状态)")**

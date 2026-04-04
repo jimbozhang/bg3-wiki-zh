@@ -21,16 +21,6 @@
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Tentacles_MindFlayer`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：震慑
 
 **[震慑](Stunned_(Condition).md "震慑 (状态)")**

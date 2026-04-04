@@ -19,16 +19,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_ConjureElemental_Myrmidon_Air`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：风元素执政官
 
 | [力量](Strength.md "力量") 18 (+4) | [敏捷](Dexterity.md "敏捷") 14 (+2) | [体质](Constitution.md "体质") 14 (+2) | [智力](Intelligence.md "智力") 9 (-1) | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |

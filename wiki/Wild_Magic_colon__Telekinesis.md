@@ -8,12 +8,6 @@
 
 较重的物品造成更多伤害。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Telekinesis`
-
 ## 状态：狂野魔法：心灵遥控
 
 **[狂野魔法：心灵遥控](Wild_Magic_colon__Telekinesis_(Condition).md "狂野魔法：心灵遥控（状态）")**

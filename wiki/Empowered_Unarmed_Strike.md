@@ -21,16 +21,6 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_WYR_UnarmedAttack_Bane_Gortash`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 被生物使用：[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")

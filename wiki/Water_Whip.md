@@ -22,22 +22,6 @@
 
 在 9 级时，拥有 [精通元素施法](Improved_Elemental_Casting.md "精通元素施法")，伤害增加至 4d10⁠[钝击](Bludgeoning.md "钝击")。
 
-## 技术细节
-
-UID
-
-`Target_WaterWhip`
-
-通过四象宗可访问的普通版本
-
-`Target_WaterWhip_Umberlee`
-
-阿兰德拉·格雷使用的版本，不消耗气点且不提供附赠徒手打击
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(法术标志\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 变体
 
 - [清流鞭：击倒](Water_Whip_colon__Knock_Prone.md "清流鞭：击倒")

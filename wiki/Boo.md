@@ -1,107 +1,18 @@
 # 布布
 
-## 布布
-
-- 游戏内
-- 肖像画
-
-### 角色
-
-[伙伴](Companions.md "伙伴") (魔宠)
-
-### 家庭
-
-[明斯克](Minsc.md "明斯克") (主人)
-
-### 家乡
-
-[Rashemen](https://forgottenrealms.fandom.com/wiki/Rashemen)
-
-## 属性
-
-### 体型
-
-[微型](Tiny.md "微型")
-
-### 类型
-
-[野兽](Beast.md "野兽")
-
-### 种族
-
-迷你巨太空仓鼠
-
-- 平衡
-
-## 平衡难度属性
-
-### 生命值
-
-20
-
-### 护甲等级
-
-20
-
-### 先攻
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-1 千克 (2 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 20 / (+5) | 10 / (0) | 6 / (-2) | 12 / (+1) | 6 / (-2) |
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [**投掷伤害免疫**](Throw_Damage_Immunity.md "投掷伤害免疫")
-
-生物免疫因被投掷而受到的伤害。
-
-## 技术
-
-###
-
-UID
-
-`Boo_FindFamiliar` ###
-
-UUID
-
-`6f65f77f-4583-4dd7-be15-b737d0175061` ###
+| | |
+| --- | --- |
+| 体型 | [微型](Tiny.md "微型") |
+| 类型 | [野兽](Beast.md "野兽") |
+| 种族 | 迷你巨太空仓鼠 |
+| 生命值 | 20 |
+| 护甲等级 | 20 |
+| 先攻 | +5 |
+| 移动速度 | 9 米 (30 英尺) |
 
 属性
 
-`MiniatureGiantSpaceHamster_Boo` ## 变体 1
-
-###
-
-UID
-
-`S_GLO_Boo` ###
-
-UUID
-
-`d49e3b49-a089-4465-b453-28dc79e82bb3` ###
-
-属性
-
-`Rat` **布布**是[明斯克](Minsc.md "明斯克")的魔宠和伙伴。他是一只[迷你巨太空仓鼠](https://forgottenrealms.fandom.com/wiki/miniature_giant_space_hamster)，明斯克可以用[获得魔宠：小布](Find_Familiar_colon__Boo.md "获得魔宠：小布")召唤他。
+**布布**是[明斯克](Minsc.md "明斯克")的魔宠和伙伴。他是一只[迷你巨太空仓鼠](https://forgottenrealms.fandom.com/wiki/miniature_giant_space_hamster)，明斯克可以用[获得魔宠：小布](Find_Familiar_colon__Boo.md "获得魔宠：小布")召唤他。
 
 布布是玩家角色即使在使用[动物交谈](Speak_with_Animals.md "动物交谈")时也无法理解的少数[野兽](Category_colon_Beasts.md "Category:Beasts")之一。然而，明斯克断言布布“说了很多”，也许有一天他们能够理解他。
 

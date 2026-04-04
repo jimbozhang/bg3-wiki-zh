@@ -1,108 +1,18 @@
 # 乌尔德·雷文伽德
 
-## 乌尔德·雷文伽德公爵
-
-焰拳最高元帅
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [克里斯·贾曼](https://www.imdb.com/name/nm1373874/)
-
-### 角色
-
-[营地随从](Camp_Follower.md "营地随从"), [附属随从](Attached_Follower.md "附属随从")
-
-### 阵营
-
-[焰拳](Flaming_Fist.md "焰拳")
-
-### 家庭
-
-[威尔](Wyll.md "威尔") (儿子)
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-### 职业
-
-[四人议会](Category_colon_Council_of_Four.md "Category:四人议会")成员
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类")
-
-### 职业
-
-[战士](Fighter.md "战士")
-
-### 副职
-
-[战斗大师](Battle_Master.md "战斗大师")
-
-- 平衡
-
-- 探索者
-
-## 平衡难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-116
-
-### 护甲等级
-
-21
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-510
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 20 / (+5) | 14 / (+2) | 19 / (+4) | 11 / (0) | 10 / (0) | 19 / (+4) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [克里斯·贾曼](https://www.imdb.com/name/nm1373874/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
+| 等级 | 11 |
+| 生命值 | 116 |
+| 护甲等级 | 21 |
+| 先攻 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 510 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -110,151 +20,15 @@
 
 - 5
 
-## 特性
-
-- [火之耐力](Endurance_by_Fire.md "火之耐力")
-
-对[火焰](Fire.md "火焰")的[抗性](Resistance.md "抗性")，且[豁免检定](Saving_throws.md "豁免检定")+2。
-
-- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
-
-主手武器攻击后可再进行两次攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [**魔法板甲**](Magical_Plate_(-2).md "魔法板甲 (-2)")
-
-所有受到的伤害减少2点。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
-
-- [**反击**](Riposte_(passive_feature).md "反击 (被动特性)")
-
-被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
-
-- [激励击杀](Stirring_Execution.md "激励击杀")
-
-击杀敌人时，9米/30英尺范围内的盟友获得基于[魅](CHA.md "魅")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
-
-## 探索者难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-174
-
-### 护甲等级
-
-21
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-510
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +9 | +2 | +8 | 0 | +4 | +4 |
-
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - 5
 
-## 特性
-
-- [火之耐力](Endurance_by_Fire.md "火之耐力")
-
-对[火焰](Fire.md "火焰")的[抗性](Resistance.md "抗性")，且[豁免检定](Saving_throws.md "豁免检定")+2。
-
-- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
-
-主手武器攻击后可再进行两次攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [**魔法板甲**](Magical_Plate_(-2).md "魔法板甲 (-2)")
-
-所有受到的伤害减少2点。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
-
-- [**反击**](Riposte_(passive_feature).md "反击 (被动特性)")
-
-被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
-
-- [激励击杀](Stirring_Execution.md "激励击杀")
-
-击杀敌人时，9米/30英尺范围内的盟友获得基于[魅](CHA.md "魅")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
-
-## 技术数据
-
-###
-
-UID
-
-`S_GLO_Ravengard` ###
-
-UUID
-
-`f6620372-ebd0-4511-a39d-8c2d4ad03f03` ###
-
 属性
 
-`GLO_Ravengard` ## 变体 1
-
-###
-
-UID
-
-`QUEST_IRN_Ravengard_Prisoner` ###
-
-UUID
-
-`c7d7ed4f-19a9-4dd5-bbe7-d8ea6d02a46b` ###
-
-属性
-
-`GLO_Ravengard` 高公爵**乌尔德·雷文伽德**是[焰拳](Flaming_Fist.md "焰拳")的[人类](Human.md "人类")最高元帅，也是[威尔](Wyll.md "威尔")的父亲。他的故事贯穿《博德之门3》的全部三幕，并可在游戏后期成为[营地随从](Camp_Followers.md "营地随从")。
+高公爵**乌尔德·雷文伽德**是[焰拳](Flaming_Fist.md "焰拳")的[人类](Human.md "人类")最高元帅，也是[威尔](Wyll.md "威尔")的父亲。他的故事贯穿《博德之门3》的全部三幕，并可在游戏后期成为[营地随从](Camp_Followers.md "营地随从")。
 
 乌尔德·雷文伽德是《龙与地下城》被遗忘的国度设定中的常驻角色，出现在5e冒险中：《⁠[博德之门谋杀案](https://forgottenrealms.fandom.com/wiki/Murder_in_Baldur%27s_Gate)》、《⁠[提亚马特的崛起](https://forgottenrealms.fandom.com/wiki/The_Rise_of_Tiamat)》和《⁠[博德之门：炼狱深渊](https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate:_Descent_into_Avernus)》。
 

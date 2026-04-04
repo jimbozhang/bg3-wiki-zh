@@ -13,18 +13,6 @@
 消耗
 [附赠动作](Actions.md#Resources "动作")
 
-## 技术细节
-
-UID
-
-`Shout_Disengage_Goblin`
-
-`Shout_GOB_WolfPens_Disengage_GoblinKid`
-
-法术标记
-
-`[NoCameraMove](https://bg3.wiki/w/index.php?title=NoCameraMove_\(spell_flag\)&action=edit&redlink=1) "NoCameraMove \(spell_flag\) \(页面不存在\)")`
-
 ## 状态：撤离
 
 **[撤离](Disengage_(Condition).md "撤离 (状态)")**

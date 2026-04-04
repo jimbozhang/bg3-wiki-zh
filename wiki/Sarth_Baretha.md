@@ -1,284 +1,44 @@
 # 巴瑞萨
 
-## 萨斯十夫长巴瑞萨
-
-苍穹战士
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Jodie Steele](https://www.imdb.com/name/nm7632738/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[吉斯洋基人](Githyanki.md "吉斯洋基人")
-
-### 职业
-
-[战士](Fighter.md "战士")
-
-### 副职
-
-[战斗大师](Battle_Master.md "战斗大师")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-6
-
-### 生命值
-
-59
-
-### 护甲等级
-
-17
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-90
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 14 / (+2) | 15 / (+2) | 11 / (0) | 12 / (+1) | 16 / (+3) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Jodie Steele](https://www.imdb.com/name/nm7632738/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
+| 等级 | 6 |
+| 生命值 | 59 |
+| 护甲等级 | 17 |
+| 先攻 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 90 |
 
 ## 状态
 
-- [**准备招架**](Ready_to_Parry_(Condition).md "Ready to Parry (Condition)")
+- [准备招架](Ready_to_Parry_(Condition).md "Ready to Parry (Condition)")
 
   - [吉斯洋基人](Githyanki.md "吉斯洋基人") 准备招架下一次武器攻击，将其受到的伤害减少 10。
 
   - 只要吉斯洋基人拥有 [反应](Actions.md#Reactions "动作")、装备 [巨剑](Greatswords.md "巨剑")，并且未处于 [目盲](Blinded_(Condition).md "目盲 (状态)")、[失能](Incapacitated_(Condition).md "失能 (状态)") 或 [束缚](Restrained_(Condition).md "束缚 (状态)") 状态，他们就能招架攻击。
 
-## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后，可以进行一次额外攻击。
-
-- [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")
-
-当由 [吉斯洋基人](Githyanki.md "吉斯洋基人") 装备时，此武器会造成额外的 1d4⁠⁠[心灵](Psychic.md "心灵") 伤害。
-
-- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
-
-招架徒手和武器攻击，将其伤害减少 10。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-6
-
-### 生命值
-
-41
-
-### 护甲等级
-
-17
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-90
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +7 | +2 | +5 | 0 | +1 | +3 |
-
 ## 状态
 
-- [**准备招架**](Ready_to_Parry_(Condition).md "Ready to Parry (Condition)")
+- [准备招架](Ready_to_Parry_(Condition).md "Ready to Parry (Condition)")
 
   - [吉斯洋基人](Githyanki.md "吉斯洋基人") 准备招架下一次武器攻击，将其受到的伤害减少 10。
 
   - 只要吉斯洋基人拥有 [反应](Actions.md#Reactions "动作")、装备 [巨剑](Greatswords.md "巨剑")，并且未处于 [目盲](Blinded_(Condition).md "目盲 (状态)")、[失能](Incapacitated_(Condition).md "失能 (状态)") 或 [束缚](Restrained_(Condition).md "束缚 (状态)") 状态，他们就能招架攻击。
 
-## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后，可以进行一次额外攻击。
-
-- [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")
-
-当由 [吉斯洋基人](Githyanki.md "吉斯洋基人") 装备时，此武器会造成额外的 1d4⁠⁠[心灵](Psychic.md "心灵") 伤害。
-
-- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
-
-招架徒手和武器攻击，将其伤害减少 10。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-6
-
-### 生命值
-
-76
-
-### 护甲等级
-
-17
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-90
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 14 / (+2) | 15 / (+2) | 11 / (0) | 12 / (+1) | 16 / (+3) |
-
 ## 状态
 
-- [**准备招架**](Ready_to_Parry_(Condition).md "Ready to Parry (Condition)")
+- [准备招架](Ready_to_Parry_(Condition).md "Ready to Parry (Condition)")
 
   - [吉斯洋基人](Githyanki.md "吉斯洋基人") 准备招架下一次武器攻击，将其受到的伤害减少 10。
 
   - 只要吉斯洋基人拥有 [反应](Actions.md#Reactions "动作")、装备 [巨剑](Greatswords.md "巨剑")，并且未处于 [目盲](Blinded_(Condition).md "目盲 (状态)")、[失能](Incapacitated_(Condition).md "失能 (状态)") 或 [束缚](Restrained_(Condition).md "束缚 (状态)") 状态，他们就能招架攻击。
 
-## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后，可以进行一次额外攻击。
-
-- [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")
-
-当由 [吉斯洋基人](Githyanki.md "吉斯洋基人") 装备时，此武器会造成额外的 1d4⁠⁠[心灵](Psychic.md "心灵") 伤害。
-
-- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
-
-招架徒手和武器攻击，将其伤害减少 10。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子将重新投掷一次。
-
-- [**巨武器大师：全力一击**](Great_Weapon_Master_colon__All_In.md "巨武器大师：全力一击")
-
-当使用你 [重甲的](Proficient.md "重甲的") 并双手持握的近战武器攻击时，[攻击掷骰](Attack_roll.md "攻击掷骰") 会承受 -5 惩罚，但其伤害会增加 10。
-
-- [**巨武器大师：附赠攻击**](Great_Weapon_Master_colon__Bonus_Attack.md "巨武器大师：附赠攻击")
-
-当你使用近战武器攻击造成 [重击](Critical_Hit.md "重击") 或击杀目标时，你可以在该回合以 [附赠动作](Actions.md#Resources "动作") 进行另一次近战武器攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
-
-你的攻击造成额外的 1d6⁠⁠[心灵](Psychic.md "心灵") 伤害——灵吸怪奴役的伤痕根深蒂固。
-
-## 技术信息
-
-###
-
-UID
-
-`S_GLO_GithCaptain` ###
-
-UUID
-
-`27fa0802-fa38-4eea-9c03-496f2e022259` ###
-
-属性
-
-`PLA_Githyanki_Captain` **萨斯十夫长巴瑞萨** 可在 [山隘](Mountain_Pass.md "山隘") 的 [第一幕](Act_One.md "第一幕") 期间找到。
+**萨斯十夫长巴瑞萨** 可在 [山隘](Mountain_Pass.md "山隘") 的 [第一幕](Act_One.md "第一幕") 期间找到。
 
 > “
 >

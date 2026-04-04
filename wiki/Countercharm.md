@@ -14,16 +14,6 @@
 范围：9 米（30 英尺）
 范围效果：9 米（30 英尺）半径
 
-## 技术细节
-
-UID
-
-`Target_Countercharm`
-
-法术标志
-
-`[DontAbortPerforming](https://bg3.wiki/w/index.php?title=DontAbortPerforming_\(spell_flag\)&action=edit&redlink=1) "DontAbortPerforming \(法术标志\) \(页面不存在\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 生物：反魅惑（生物）
 
 | [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 10 | [智力](Intelligence.md "智力") 10 | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 20 (+5) |

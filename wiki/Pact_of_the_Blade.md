@@ -18,16 +18,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_PactOfTheBlade`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag\>).md)`
-
 ## 变体
 
 - [刃之魔契：战斧](Pact_of_the_Blade_colon__Battleaxe.md "刃之魔契：战斧")

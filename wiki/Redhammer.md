@@ -1,91 +1,18 @@
 # 红锤
 
-## 红锤·设计者 (Redhammer the Deviser)
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Kit Esuruoso](https://www.imdb.com/name/nm8331478/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[黄金矮人](Gold_Dwarf.md "Gold Dwarf")
-
-### 职业
-
-[战士](Fighter.md "Fighter")
-
-### 副职
-
-[战斗大师](Battle_Master.md "Battle Master")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-80
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 12 / (+1) | 16 / (+3) | 10 / (0) | 14 / (+2) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Kit Esuruoso](https://www.imdb.com/name/nm8331478/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 11 |
+| 生命值 | 80 |
+| 护甲等级 | 15 |
+| 先攻 | +1 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 320 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -107,47 +34,25 @@
 
 攻击离开攻击范围的敌人。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 等级
+- ## 特性
 
-11
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 生命值
+可以在黑暗中看到一定距离。
 
-56
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-### 护甲等级
+[优势](Advantage.md "Advantage")进行[豁免检定](Saving_throw.md "Saving throw")以抵抗[中毒](Poisoned_(Condition).md) 以及对[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
 
-15
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
-### 先攻
+主手武器攻击后可再进行两次攻击。
 
-+1
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 熟练项
-
-+6
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +8 | +1 | +7 | 0 | +2 | +1 |
+攻击离开攻击范围的敌人。
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -169,83 +74,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 硬核难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-104
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 12 / (+1) | 16 / (+3) | 10 / (0) | 14 / (+2) | 12 / (+1) |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-[优势](Advantage.md "Advantage")进行[豁免检定](Saving_throw.md "Saving throw")以抵抗[中毒](Poisoned_(Condition).md) 以及对[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
-
-- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
-
-主手武器攻击后可再进行两次攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术信息
-
-###
-
-UID
-
-`S_GLO_Beastmaster` ###
-
-UUID
-
-`d999308c-8a20-4c31-b9e2-f89ff3ee1cd1` ###
-
-Stats
-
-`LOW_Beastmaster` **红锤**是一名[矮人](Dwarf.md "Dwarf")潜水器驾驶员，可以在[弗莱姆货运地下室](Flymm_Cargo.md#Basement "Flymm Cargo")遇到。
+**红锤**是一名[矮人](Dwarf.md "Dwarf")潜水器驾驶员，可以在[弗莱姆货运地下室](Flymm_Cargo.md#Basement "Flymm Cargo")遇到。
 
 ## 目录
 

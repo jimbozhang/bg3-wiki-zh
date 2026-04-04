@@ -21,16 +21,6 @@
 范围：普通武器范围
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_LOW_LiaraPortyr_FlamingFury`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[莉娅·波提尔](Liara_Portyr.md "莉娅·波提尔")

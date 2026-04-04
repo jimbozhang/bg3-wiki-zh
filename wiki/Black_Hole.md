@@ -23,16 +23,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：5回合
 
-## 技术细节
-
-UID
-
-`Target_TAD_BlackHole`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：减速
 
 **[减速](Slowed_(Condition).md "减速（状态）")**

@@ -27,16 +27,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：以更高环位施放此法术时，每比5环高1环，额外造成1d10⁠⁠[穿刺](Piercing.md "Piercing")伤害。
 
-## 技术细节
-
-UID
-
-`Target_InsectPlague`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 区域：虫群瘟疫
 
 **[虫群瘟疫](Insect_Plague_(area).md "虫群瘟疫 (区域)")**

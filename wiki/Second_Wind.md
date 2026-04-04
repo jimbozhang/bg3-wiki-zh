@@ -18,12 +18,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_SecondWind`
-
 ## 学习方式
 
 职业：

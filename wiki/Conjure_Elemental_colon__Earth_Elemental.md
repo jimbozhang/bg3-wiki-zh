@@ -19,16 +19,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_ConjureElemental_Elemental_Earth`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：土元素
 
 | [力量](力量.md "力量") 20 (+5) | [敏捷](敏捷.md "敏捷") 8 (-1) | [体质](体质.md "体质") 20 (+5) | [智力](智力.md "智力") 5 (-3) | [感知](感知.md "感知") 10 | [魅力](魅力.md "魅力") 5 (-3) |

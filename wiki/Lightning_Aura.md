@@ -21,12 +21,6 @@
 范围：6 米（20 英尺）半径
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_ChargedLightning_LightningAura`
-
 ## 状态：闪电灵光
 
 **[闪电灵光](Lightning_Aura_(Condition).md "闪电灵光（状态）")**

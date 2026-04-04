@@ -22,16 +22,6 @@
 充能：每回合
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_Constrict_Blight_Vine`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(页面不存在\)")`, `[CannotTargetTerrain](https://bg3.wiki/w/index.php?title=CannotTargetTerrain_\(spell_flag\)&action=edit&redlink=1) "CannotTargetTerrain \(spell_flag\) \(页面不存在\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell_flag\) \(页面不存在\)")`
-
 ## 状态：被绞缠
 
 **[被绞缠](Constricted_(Condition).md "被绞缠（状态）")**

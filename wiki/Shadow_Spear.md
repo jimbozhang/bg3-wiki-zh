@@ -20,16 +20,6 @@
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：普通武器射程
 
-## 技术细节
-
-UID
-
-`Target_MainHandAttack_ShadarKai_GloomWeaver`
-
-法术标志
-
-`[CanDualWield](https://bg3.wiki/w/index.php?title=CanDualWield_\(spell_flag\)&action=edit&redlink=1) "CanDualWield \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[往日身影](He_Who_Was.md "往日身影")

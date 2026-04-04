@@ -2,7 +2,7 @@
 
 这是一个消歧义页面，它链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Attack_(disambiguation).md) 的，请考虑编辑该链接，将其指向正确的页面。
 
-在《博德之门3》中，一个[**攻击**](Attacks.md "Attacks")是任何需要进行攻击掷骰以尝试击中目标的[动作](Action.md "Action")。
+在《博德之门3》中，一个[攻击](Attacks.md "Attacks")是任何需要进行攻击掷骰以尝试击中目标的[动作](Action.md "Action")。
 
 **攻击**也可能指：
 

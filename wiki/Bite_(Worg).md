@@ -20,16 +20,6 @@
 [攻击掷骰](Attack_roll.md "Attack Roll")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Bite_Worg_Cruel`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由以下生物使用：[白座狼](Worg_(white).md), [卡德菲斯](Cuddleface.md "Cuddleface"), [格利斯特](Gristle.md "Gristle"), [开膛手](Rrripper.md "Rrripper"), [斯纳普](Snapp.md "Snapp"), 以及 [斯内尔](Snarrrl.md "Snarrrl")

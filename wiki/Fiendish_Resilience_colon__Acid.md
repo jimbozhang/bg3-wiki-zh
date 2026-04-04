@@ -14,12 +14,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_Fiendish_Resilience_Acid`
-
 ## 状态：邪魔体魄：强酸
 
 **[邪魔体魄：强酸](Fiendish_Resilience_colon__Acid_(Condition).md "邪魔体魄：强酸 (状态)")**

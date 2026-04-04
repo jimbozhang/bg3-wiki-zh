@@ -18,22 +18,6 @@
 创造区域：心灵庇护
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_TAD_MindSanctuary`
-
-部分灵吸怪版本，具有每次长休冷却一次
-
-`Target_MF_MindSanctuary`
-
-完整灵吸怪版本，无冷却
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 区域：心灵庇护
 
 **[心灵庇护](Mind_Sanctuary_(area).md "心灵庇护 (区域)")**

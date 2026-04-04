@@ -26,16 +26,6 @@
 
 在 10 级时，拥有 [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")，伤害加成从 1d8 提升至 1d10。
 
-## 技术细节
-
-UID
-
-`Projectile_DistractingStrike`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：分心
 
 **[分心](Distracted_(Condition).md "分心（状态）")**

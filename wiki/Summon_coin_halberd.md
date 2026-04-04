@@ -17,16 +17,6 @@
 目标：[金币](Gold.md "金币")堆
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Summon_TollCollector`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 生物：钱币长戟
 
 | [力量](Strength.md "力量") 12 (+1) | [敏捷](Dexterity.md "敏捷") 15 (+2) | [体质](Constitution.md "体质") 11 | [智力](Intelligence.md "智力") 1 (-5) | [感知](Wisdom.md "感知") 5 (-3) | [魅力](Charisma.md "魅力") 1 (-5) |

@@ -24,18 +24,6 @@
 充能：每回合
 持续时间：1 驱散
 
-## 技术细节
-
-UID
-
-`Shout_UND_Nere_PsychicMirror`
-
-由反应触发的动作
-
-`Interrupt_UND_Nere_PsychicMirror`
-
-激活该动作的反应
-
 ## 状态：心灵幻象
 
 **[心灵幻象](Psionic_Visages_(Condition).md "心灵幻象 (状态)")**

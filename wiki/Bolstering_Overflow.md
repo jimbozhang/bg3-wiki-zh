@@ -18,12 +18,6 @@
 范围：自身
 范围效果：5 米（17 英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_MixChangeExplosion_Physical_Brewer`
-
 ## 状态：增强药剂
 
 **[增强药剂](Bolstering_Brew_(Condition).md "增强药剂（状态）")**

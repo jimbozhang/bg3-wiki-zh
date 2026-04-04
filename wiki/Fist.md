@@ -22,16 +22,6 @@
 近战 徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Fist_Myconid_Weak`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag\>).md)`, `[IsHarmful](IsHarmful_(spell_flag\>).md)`, `[IsMelee](IsMelee_(spell_flag\>).md)`
-
 ## 如何习得
 
 被以下生物使用：[躁动的蕈人](Restless_Myconid.md "躁动的蕈人") 和 [苔藓蕈人](Mossy_Myconid.md "苔藓蕈人")

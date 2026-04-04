@@ -22,16 +22,6 @@
 区域效果：2 米 (7 英尺) 半径
 创造区域：油脂
 
-## 技术细节
-
-UID
-
-`Target_LOW_GreaseWizard_Elemental_Slam`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 区域：油脂
 
 **[油脂](Grease_(surface).md "油脂 (地表)")**

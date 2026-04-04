@@ -18,26 +18,6 @@
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
 范围：18 米（60 英尺）
 
-## 技术细节
-
-UID
-
-`Target_RightBehindYou_Specter`
-
-实际攻击属性
-
-`Interrupt_RightBehindYou`
-
-触发攻击的反应
-
-`Interrupt_RightBehindYou_Hound`
-
-授予宁布斯的反应版本
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag\>).md)`
-
 ## 学习方式
 
 由以下生物使用：[虚弱幽鬼](Feeble_Spectre.md "虚弱幽鬼")、[普通幽鬼](Mundane_Spectre.md "普通幽鬼")、[原始幽鬼](Primordial_Spectre.md "原始幽鬼")和[宁布斯](Nimbus.md "宁布斯")

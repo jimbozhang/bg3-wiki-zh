@@ -1,64 +1,14 @@
 # 塔特
 
-## 塔特
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Rosie Jones](https://www.imdb.com/name/nm4676915/) |
+| 体型 | [小型](Small.md "小型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
 
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Rosie Jones](https://www.imdb.com/name/nm4676915/)
-
-### 阵营
-
-[竖琴手](Harpers.md "竖琴手"), [贾希拉的家庭](Jaheira's_Family.md "贾希拉的家庭")
-
-### 家庭
-
-[贾希拉](Jaheira.md "贾希拉") (养母)
-[乔迪](Jord.md "乔迪") (养兄)
-[哲塞姆](Jhessem.md "哲塞姆") (养姐)
-[里翁](Rion.md "里翁") (养姐)
-[菲格](Fig.md "菲格") (养姐)
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-[小型](Small.md "小型")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类")
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_JaheirasHouse_JaheiraYoungestSon` ###
-
-UUID
-
-`0d760747-8fab-414e-8ccc-a925ebb6da2c` ###
-
-属性
-
-`Human_Child` **塔特**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中[下城区](Lower_City.md "下城区")的一个[人类](Human.md "人类")儿童。
+**塔特**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中[下城区](Lower_City.md "下城区")的一个[人类](Human.md "人类")儿童。
 
 > “
 >

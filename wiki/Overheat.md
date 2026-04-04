@@ -19,16 +19,6 @@
 范围：自身
 范围效果：2米（7英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_Overheat_Azer`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：灼烧
 
 **[灼烧](Burning_Fiercely_(Condition).md "灼烧")**

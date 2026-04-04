@@ -17,12 +17,6 @@
 距离：9米（30英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_ZOC_GoadingBlast`
-
 ## 状态：被挑衅
 
 **[被挑衅](Goaded_(Condition).md "被挑衅 (状态)")**

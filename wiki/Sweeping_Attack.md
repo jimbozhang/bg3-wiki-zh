@@ -23,16 +23,6 @@
 
 在10级时，拥有[精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")，伤害增加至1d10。
 
-## 技术细节
-
-UID
-
-`Zone_SweepingAttack`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何学习
 
 职业：

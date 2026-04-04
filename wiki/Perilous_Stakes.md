@@ -18,16 +18,6 @@
 充能：[长休](Long_Rest.md "长休")
 持续时间：3驱散
 
-## 技术细节
-
-UID
-
-`Target_TAD_PerilousStakes`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：孤注一掷
 
 **[孤注一掷](Perilous_Stakes_(Condition).md "孤注一掷 (状态)")**

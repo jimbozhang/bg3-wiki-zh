@@ -16,16 +16,6 @@
 作用区域：9米（30英尺）半径
 目标：范围内所有敌人
 
-## 技术细节
-
-UID
-
-`Shout_LOW_GithyankiPaladin_ConqueringPresence`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "恐慌（状态）")**

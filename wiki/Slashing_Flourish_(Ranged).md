@@ -36,16 +36,6 @@
 - 等级 5 时，拥有 [精通诗人激励](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励（被动特性）")，伤害加成提升至 1d8。
 - 等级 10 时，拥有 [精通诗人激励](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励（被动特性）")，伤害加成提升至 1d10。
 
-## 技术细节
-
-UID
-
-`Projectile_BladeFlourish_Slashing`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 职业：

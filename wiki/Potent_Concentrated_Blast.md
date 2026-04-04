@@ -24,16 +24,6 @@
 射程：9米（30英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_MF_ConcentratedBlast`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell_flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由以下生物使用：[君主](The_Emperor.md "君主") 和 [完整的灵吸怪](Full-illithid.md "完整的灵吸怪")

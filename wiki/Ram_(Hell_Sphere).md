@@ -20,16 +20,6 @@
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "Dice rolls")) (豁免成功时：目标仍然受到一半伤害。)
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_FlamingSphere_Ram_6`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由以下生物使用：[地狱法球](Hell_Sphere.md "Hell Sphere")

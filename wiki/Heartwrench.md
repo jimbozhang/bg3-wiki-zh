@@ -22,16 +22,6 @@
 
 以此法术升环施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_Viconia_HeartWrench`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 由以下特性授予：

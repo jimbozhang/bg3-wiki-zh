@@ -1,70 +1,14 @@
 # 俄耳甫斯
 
-## 俄耳甫斯<sup>[\[1\]](#cite_note-1)</sup>
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Tommy Sim'aan](https://www.imdb.com/name/nm12319062/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
 
-彗星王子
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Tommy Sim'aan](https://www.imdb.com/name/nm12319062/)
-
-### 角色
-
-[随从](Attached_Follower.md "随从")
-
-### 家族
-
-⁠[吉斯](https://forgottenrealms.fandom.com/wiki/Gith) (母亲)
-
-### 家乡
-
-[星界](Astral_Plane.md "星界")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[吉斯洋基人](Githyanki.md "吉斯洋基人")
-
-### 职业
-
-[武僧](Monk.md "武僧")
-
-### 副职
-
-[四象宗](Way_of_the_Four_Elements.md "四象宗")
-
-## 技术
-
-###
-
-UID
-
-`S_GLO_Orpheus` ###
-
-UUID
-
-`47c90728-af68-4cbc-baaa-6497eebd8d7e` ###
-
-Stats
-
-`INT_Orpheus` **俄耳甫斯**是一位[吉斯洋基人](Githyanki.md "吉斯洋基人")，出现在[博德之门3](Baldur's_Gate_3.md "博德之门3")中，在[第三幕](Act_Three.md "第三幕")和[莱埃泽尔](Lae'zel.md "莱埃泽尔")的个人任务⁠[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")中扮演核心角色。作为吉斯本人的儿子，他被认为是吉斯帝国的真正统治者。然而，他被⁠[维拉基斯](Vlaakith.md "维拉基斯")俘虏并囚禁在[星界](Astral_Plane.md "星界")。身为吉斯洋基人，他寻求摧毁[夺心魔](Mind_flayers.md "夺心魔")，作为吉斯洋基王子，他致力于推翻维拉基斯的统治。
+**俄耳甫斯**是一位[吉斯洋基人](Githyanki.md "吉斯洋基人")，出现在[博德之门3](Baldur's_Gate_3.md "博德之门3")中，在[第三幕](Act_Three.md "第三幕")和[莱埃泽尔](Lae'zel.md "莱埃泽尔")的个人任务⁠[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")中扮演核心角色。作为吉斯本人的儿子，他被认为是吉斯帝国的真正统治者。然而，他被⁠[维拉基斯](Vlaakith.md "维拉基斯")俘虏并囚禁在[星界](Astral_Plane.md "星界")。身为吉斯洋基人，他寻求摧毁[夺心魔](Mind_flayers.md "夺心魔")，作为吉斯洋基王子，他致力于推翻维拉基斯的统治。
 
 > “
 >

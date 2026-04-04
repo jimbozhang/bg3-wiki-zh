@@ -23,16 +23,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比1环高1环的法术位，额外治疗1d8⁠⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-UID
-
-`Target_CureWounds`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

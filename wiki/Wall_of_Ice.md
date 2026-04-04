@@ -28,16 +28,6 @@
 
 以此法术的更高环位施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Wall_WallOfIce`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 区域：冰墙
 
 **[冰墙](Wall_of_Ice_(area).md "冰墙 (区域)")**

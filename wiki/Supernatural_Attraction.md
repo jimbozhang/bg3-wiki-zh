@@ -16,15 +16,5 @@
 范围：18 米（60 英尺）
 充能：[短休](Short_rest.md "Short rest")
 
-## 技术细节
-
-UID
-
-`Target_SupernaturalAttraction`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ---
 *Source: [Supernatural Attraction](https://bg3.wiki/wiki/Supernatural_Attraction)*

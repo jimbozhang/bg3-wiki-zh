@@ -17,16 +17,6 @@
 创建区域：加速孢子
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Projectile_WhiteSporeCloud`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：加速孢子
 
 **[加速孢子](Haste_Spores_(Condition).md "加速孢子（状态）")**

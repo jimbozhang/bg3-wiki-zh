@@ -19,12 +19,6 @@
 
 在 11 等级时，[强力虫群](Mighty_Swarm.md "强力虫群")会将伤害提升至 1d8⁠⁠[闪电](Lightning.md "闪电")。
 
-## 技术细节
-
-UID
-
-`Interrupt_GatheredSwarm_Jellyfish_Attack`
-
 ## 如何习得
 
 职业：

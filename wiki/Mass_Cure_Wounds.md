@@ -24,16 +24,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：以更高法术位施放此法术时，每比5环高1环，额外治疗1d8⁠⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-UID
-
-`Target_CureWounds_Mass`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

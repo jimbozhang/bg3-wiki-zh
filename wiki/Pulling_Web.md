@@ -26,16 +26,6 @@
 
 当施法者达到 5 级时，伤害增加至 2d6⁠⁠[穿刺](Piercing.md "Piercing")。当施法者达到 10 级时，伤害增加至 3d6⁠⁠[穿刺](Piercing.md "Piercing")。
 
-## 技术细节
-
-UID
-
-`Target_MAG_Drow_Web_Pull`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 通过物品获得：

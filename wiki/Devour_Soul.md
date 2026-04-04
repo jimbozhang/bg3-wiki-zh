@@ -22,16 +22,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：18 米（60 英尺）
 
-## 技术细节
-
-UID
-
-`Target_SoulDevour_Specter`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[平凡幽鬼](Mundane_Spectre.md "平凡幽鬼")和[原初幽鬼](Primordial_Spectre.md "原初幽鬼")

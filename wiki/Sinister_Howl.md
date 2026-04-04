@@ -15,12 +15,6 @@
 充能：每回合
 持续时间：1驱散
 
-## 技术细节
-
-UID
-
-`Shout_LOW_HouseOfGrief_Howl`
-
 ## 状态：动作如潮
 
 **[动作如潮](Action_Surge_(Condition).md "动作如潮 (状态)")**

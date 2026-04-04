@@ -11,12 +11,6 @@
 详情
 目标：自身
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Mephit`
-
 ## 生物：泥魔蝠
 
 | [力量](Strength.md "力量") 8 (-1) | [敏捷](Dexterity.md "敏捷") 12 (+1) | [体质](Constitution.md "体质") 12 (+1) | [智力](Intelligence.md "智力") 9 (-1) | [感知](Wisdom.md "感知") 11 | [魅力](Charisma.md "魅力") 7 (-2) |

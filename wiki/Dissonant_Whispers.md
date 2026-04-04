@@ -22,16 +22,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：每升一环，额外造成1d6[心灵](Psychic.md "Psychic")伤害。
 
-## 技术细节
-
-UID
-
-`Target_DissonantWhispers`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "Frightened (Condition)")**

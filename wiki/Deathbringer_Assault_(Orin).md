@@ -33,16 +33,6 @@
 近战：1.5 米 (5 英尺)
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Target_LOW_DeathbringerAssault_Orin`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由以下生物使用：[奥林](Orin.md "奥林")

@@ -21,16 +21,6 @@
 
 使用此法术可能会使目标变为敌对。
 
-## 技术细节
-
-UID
-
-`Target_Silence_Monk`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(页面不存在\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 区域：沉默
 
 **[沉默](Silence_(area).md "沉默（区域）")**

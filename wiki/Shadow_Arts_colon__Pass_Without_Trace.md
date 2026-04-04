@@ -18,16 +18,6 @@
 [专注](Concentration.md "专注")
 持续时间：直至 [长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_PassWithoutTrace_Monk`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 状态：行动无踪光环
 
 **[行动无踪光环](Pass_Without_Trace_Aura_(Condition).md "行动无踪光环 (状态)")**

@@ -16,16 +16,6 @@
 范围：8米（27英尺）
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Target_Teleport_Shadow`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 被以下生物使用：[暗影](Shadow.md "暗影")、[木乃伊](Mummy.md "木乃伊")和[父亲](Daddy.md "父亲")

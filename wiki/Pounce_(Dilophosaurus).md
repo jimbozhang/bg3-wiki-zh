@@ -27,16 +27,6 @@
 - 在 8 级时，此额外伤害变为 1d8⁠⁠[钝击](Bludgeoning.md "钝击")。
 - 在 12 级时，此额外伤害变为 1d10⁠⁠[钝击](Bludgeoning.md "钝击")。
 
-## 技术细节
-
-UID
-
-`Projectile_Pounce_Dilophosaurus`
-
-法术标志
-
-`[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell flag\) \(page does not exist\)")`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

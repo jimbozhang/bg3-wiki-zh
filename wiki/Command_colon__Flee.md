@@ -18,16 +18,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：法术位等级每比1环高1环，就额外影响一个目标。
 
-## 技术细节
-
-UID
-
-`Target_Command_Flee`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：命令：逃跑
 
 **[命令：逃跑](Command_colon__Flee_(Condition).md "命令：逃跑 (状态)")**

@@ -16,16 +16,6 @@
 范围：12米（40英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Rage_Sahuagin`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：鲜血狂暴
 
 **[鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)")**

@@ -29,16 +29,6 @@
 
 在10级时，拥有 [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")，伤害加值从1d8提升至1d10。
 
-## 技术细节
-
-UID
-
-`Target_GoadingAttack`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：被挑衅
 
 **[被挑衅](Goaded_(Condition).md "被挑衅 (状态)")**

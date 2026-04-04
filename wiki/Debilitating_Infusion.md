@@ -16,12 +16,6 @@
 范围：自身
 充能：[短休](Short_rest.md "Short rest")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_SpellBlade_Augmentation`
-
 ## 状态：法师灌注
 
 **[法师灌注](Magi's_Infusion_(Condition).md "法师灌注 (状态)")**

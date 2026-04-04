@@ -16,16 +16,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_Entomb_Spider`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：茧缚
 
 **[茧缚](Cocooned_(Condition).md "茧缚（状态）")**

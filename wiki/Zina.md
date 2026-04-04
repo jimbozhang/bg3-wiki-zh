@@ -1,67 +1,15 @@
 # 吉娜
 
-## 吉娜
-
-- 模型
-- 肖像画
-
-## 属性
-
-### 体型
-
-小型
-
-### 类型
-
-不死生物
-
-### 种族
-
-幽魂
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-66
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+5
-
-### 熟练项加值
-
-+3
-
-### 重量
-
-0.01 千克 (0.02 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 14 / (+2) | 20 / (+5) | 12 / (+1) | 6 / (-2) | 12 / (+1) | 7 / (-2) |
+| | |
+| --- | --- |
+| 体型 | 小型 |
+| 类型 | 不死生物 |
+| 种族 | 幽魂 |
+| 等级 | 8 |
+| 生命值 | 66 |
+| 护甲等级 | 13 |
+| 先攻 | +5 |
+| 经验值 | 1 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -90,110 +38,6 @@
 - [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "Advantage")。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-46
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+5
-
-### 熟练项加值
-
-+5
-
-### 重量
-
-0.01 千克 (0.02 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +2 | +5 | +1 | -2 | +1 | -2 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- - - - - - - ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [虚无形态](Ethereal.md "虚无形态")
-
-无法被推击、投掷或用作即兴近战武器。
-
-- [虚体移动](Incorporeal_Movement.md "虚体移动")
-
-针对你的借机攻击具有[劣势](Disadvantage.md "Disadvantage")。
-
-- [人类亲密好友](Man's_Best_Friend.md "人类亲密好友")
-
-这只猎犬的[护甲等级](Armour_Class.md "Armour Class")和伤害增加的数值等于其训犬师的[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [集群战术](Pack_Tactics.md "集群战术")
-
-3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "Advantage")。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-105
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+5
-
-### 熟练项加值
-
-+3
-
-### 重量
-
-0.01 千克 (0.02 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 14 / (+2) | 20 / (+5) | 12 / (+1) | 6 / (-2) | 12 / (+1) | 7 / (-2) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -211,7 +55,7 @@
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使其减半。
 
-- [**猎人伪装**](Hunter's_Camouflage.md "Hunter's Camouflage")
+- [猎人伪装](Hunter's_Camouflage.md "Hunter's Camouflage")
 
 受到伤害后，该生物立即使用其[反应](Reaction.md "Reaction")来施放[朦胧术](Blur.md "Blur")。
 
@@ -231,35 +75,9 @@
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "Advantage")。
 
-## 技术
-
-###
-
-UID
-
-`S_LOW_KurwinCoffin_DogGhost_02` ###
-
-UUID
-
-`fd402b3e-4e95-4366-8e46-9b8e6f0b85b0` ###
-
 属性
 
-`Dog_Ghost` ## 变体 1
-
-###
-
-UID
-
-`S_LOW_KurwinCoffin_MausoleumDogCorpse_02` ###
-
-UUID
-
-`550cbc2c-004a-4fe5-a70e-8f1d890a2e1f` ###
-
-属性
-
-`Dog` **吉娜**是一只[不死生物](Undead.md "Undead") [狗](Dog.md "Dog")，可以在[博德之门](Baldur's_Gate.md "Baldur's Gate") [下城区](Lower_City.md "Lower City")的[杜林伯德陵墓](Durinbold_Mausoleum.md "Durinbold Mausoleum")中找到。“
+**吉娜**是一只[不死生物](Undead.md "Undead") [狗](Dog.md "Dog")，可以在[博德之门](Baldur's_Gate.md "Baldur's Gate") [下城区](Lower_City.md "Lower City")的[杜林伯德陵墓](Durinbold_Mausoleum.md "Durinbold Mausoleum")中找到。“
 |
 
 > 勇敢的吉娜，凶猛的看门狗——在夜晚，无人敢经过她的岗位。

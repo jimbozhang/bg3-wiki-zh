@@ -1,284 +1,31 @@
 # 赫克
 
-## 赫克
-
-至上真神学徒
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Peter Hannah](https://www.imdb.com/name/nm0360307/)
-
-### 阵营
-
-[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[灰矮人](Duergar.md "Duergar")
-
-### 职业
-
-[游侠](Ranger.md "Ranger")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-44
-
-### 护甲等级
-
-11
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Peter Hannah](https://www.imdb.com/name/nm0360307/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 5 |
+| 生命值 | 44 |
+| 护甲等级 | 11 |
+| 先攻 | +2 |
+| 经验值 | 75 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 额外资源
 
-- - ## 特性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可以在徒手或武器攻击后进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，[攻击掷骰](Attack_Roll.md "Attack Roll")和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到最多 24 米 / 80 英尺。
-
-## 探索者难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-30
-
-### 护甲等级
-
-11
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | +5 | +1 | 0 | +1 | +1 |
+- ## 额外资源
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 额外资源
 
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可以在徒手或武器攻击后进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，[攻击掷骰](Attack_Roll.md "Attack Roll")和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到最多 24 米 / 80 英尺。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-57
-
-### 护甲等级
-
-11
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 1 | 2 | 1 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 额外资源
-
-- - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-可以在徒手或武器攻击后进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，[攻击掷骰](Attack_Roll.md "Attack Roll")和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到最多 24 米 / 80 英尺。
-
-## 技术信息
-
-###
-
-UID
-
-`S_UND_DuergarSquadRatty` ###
-
-UUID
-
-`64e38ef0-9779-499c-9f0a-ea013ee81442` ###
-
-属性
-
-`UND_KC_Duergar_Ranger` **赫克**是一名灰矮人游侠，是[海盗格雷蒙](Greymon.md "Greymon")在[幽暗地域](Underdark.md "Underdark")的船员之一，出现在[第一幕](Act_One.md "Act_One")。
+**赫克**是一名灰矮人游侠，是[海盗格雷蒙](Greymon.md "Greymon")在[幽暗地域](Underdark.md "Underdark")的船员之一，出现在[第一幕](Act_One.md "Act_One")。
 
 > “
 >

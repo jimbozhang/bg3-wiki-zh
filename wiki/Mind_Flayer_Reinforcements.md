@@ -6,12 +6,6 @@
 
 一个装有夺心魔的荚舱从鹦鹉螺上坠落。它在2米半径范围内产生爆炸，生成一只[夺心魔](Mind_flayers.md "夺心魔")和两只[噬脑怪](Intellect_Devourer.md "噬脑怪")。
 
-## 技术细节
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 由生物使用：[鹦鹉螺（生物）](Nautiloid_(Creature).md)

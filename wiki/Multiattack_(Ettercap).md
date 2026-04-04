@@ -29,22 +29,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Ettercap`
-
-平衡难度版本
-
-`Target_Multiattack_Ettercap_Hardcore`
-
-硬核难度版本
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：中毒
 
 **[中毒](Poisoned_(Condition).md "中毒 (状态)")**

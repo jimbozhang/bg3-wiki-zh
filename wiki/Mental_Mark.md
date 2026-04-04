@@ -23,12 +23,6 @@
 射程：18米（60英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_CombatMark_Githyanki`
-
 ## 状态：为了维拉基斯
 
 **[为了维拉基斯！](For_Vlaakith!_(Condition).md "为了维拉基斯！ (状态)")**

@@ -18,16 +18,6 @@
 创造区域：旋风
 持续时间：3驱散
 
-## 技术细节
-
-唯一标识符
-
-`Target_Whirlwind_Djinni`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(页面不存在\)")`，`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(页面不存在\)")`，`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`，`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 区域：旋风
 
 **[旋风](Whirlwind.md "旋风")**

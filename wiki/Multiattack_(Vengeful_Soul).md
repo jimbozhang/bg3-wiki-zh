@@ -28,16 +28,6 @@
 目标：[恐慌](Frightened_(Condition).md "恐慌 (状态)") 生物
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_LOW_OskarsBeloved_Mummy_Multiattack`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 生物使用：[复仇之魂](Vengeful_Soul.md "复仇之魂")

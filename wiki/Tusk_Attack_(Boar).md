@@ -20,18 +20,6 @@
 [攻击掷骰](Attack_roll.md "Attack Roll")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Tusk_Boar`
-
-`Target_Tusk_Boar_Summon`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

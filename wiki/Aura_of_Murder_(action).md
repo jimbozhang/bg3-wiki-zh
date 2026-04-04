@@ -17,12 +17,6 @@
 范围效果：3 米 (10 英尺) 半径
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_AuraOf_Murder`
-
 ## 状态：谋杀灵光 (NPC)
 
 **\_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")**

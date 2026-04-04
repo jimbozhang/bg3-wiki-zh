@@ -21,16 +21,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比2环高使用2个法术位等级，此攻击的伤害增加1d8⁠⁠[力场](Force.md "力场")伤害。
 
-## 技术细节
-
-UID
-
-`Target_MainHandAttack_SpiritualWeapon_Maul`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方法
 
 生物使用：[灵体武器（巨锤）](Spiritual_Weapon_(maul).md)

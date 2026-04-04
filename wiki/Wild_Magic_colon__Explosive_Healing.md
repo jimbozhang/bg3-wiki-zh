@@ -11,12 +11,6 @@
 详情
 目标：自身
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Heal`
-
 ## 状态：狂野魔法：爆炸治疗
 
 **[狂野魔法：爆炸治疗](Wild_Magic_colon__Explosive_Healing_(Condition).md "狂野魔法：爆炸治疗 (状态)")**

@@ -26,16 +26,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_MAG_TheChromatic_PoisonAttunement`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：克雷斯卡毒力的容器
 
 **[克雷斯卡毒力的容器](Vessel_for_Kereska's_Poison_(Condition).md "克雷斯卡毒力的容器（状态）")**

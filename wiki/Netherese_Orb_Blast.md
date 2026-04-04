@@ -11,16 +11,6 @@
 消耗
 [动作](Actions.md#Resources "动作")
 
-## 技术细节
-
-UID
-
-`Shout_END_Gale_ActivateNethereseOrb`
-
-法术标志
-
-`[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 使用者：[盖尔](Gale.md "盖尔")

@@ -13,12 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_AstralKnowledge_Wisdom`
-
 ## 状态：星界知识：感知
 
 **[星界知识：感知](Astral_Knowledge_colon__Wisdom_(Condition).md "星界知识：感知 (状态)")**

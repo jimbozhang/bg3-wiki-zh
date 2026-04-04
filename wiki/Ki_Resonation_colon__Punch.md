@@ -23,16 +23,6 @@
 近战：1.5米（5英尺）
 目标：1个未处于[共鸣](Resonating_Ki_(Condition).md "共鸣之气（状态）")状态的生物
 
-## 技术细节
-
-UID
-
-`Target_KiResonation_Punch`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：共鸣之气
 
 **[共鸣之气](Resonating_Ki_(Condition).md "共鸣之气（状态）")**

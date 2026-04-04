@@ -13,12 +13,6 @@
 作用范围：6米（20英尺）半径
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_LOW_AuraOf_Penance_VoicelessPenitent`
-
 ## 状态：沉默光环
 
 **[沉默光环](Silence_Aura_(Condition).md "沉默光环（状态）")**

@@ -1,145 +1,17 @@
 # 弗拉希塔
 
-## 弗拉希塔
-
-- In-game
-- Portrait
-
-### Identity
-
-女性
-
-### Voice / Actor
-
-- [Ami Okumura Jones](https://www.imdb.com/name/nm10992162/)
-
-## Stats
-
-### Size
-
-[中级](Medium.md "中级")
-
-### Type
-
-[类人生物](Humanoid.md "类人生物")
-
-### Race
-
-[半精灵](Half-Elf.md "半精灵")
-
-### Subrace
-
-[半木精灵](Wood_Half-Elf.md "半木精灵")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## Balanced Difficulty Stats
-
-### Level
-
-1
-
-### HP
-
-8
-
-### AC
-
-10
-
-### Initiative
-
-0
-
-### Proficiency
-
-+2
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-75 kg (150 lb)
-
-### Darkvision
-
-12 m (40 ft)
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-Advantage on [saving throws](Saving_throw.md "Saving throw") against being [charmed](Charmed_(Condition).md); can't be put to [sleep](Sleeping_(Condition).md) by magic.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
-
-## Explorer Difficulty Stats
-
-### Level
-
-1
-
-### HP
-
-6
-
-### AC
-
-10
-
-### Initiative
-
-0
-
-### Proficiency
-
-+4
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-75 kg (150 lb)
-
-### Darkvision
-
-12 m (40 ft)
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-Advantage on [saving throws](Saving_throw.md "Saving throw") against being [charmed](Charmed_(Condition).md); can't be put to [sleep](Sleeping_(Condition).md) by magic.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Ami Okumura Jones](https://www.imdb.com/name/nm10992162/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [半精灵](Half-Elf.md "半精灵") |
+| 等级 | 1 |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 m (30 ft) |
 
 ## Tactician Difficulty Stats
 
@@ -179,35 +51,7 @@ Attack an enemy moving out of reach.
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## Features
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-Can see in the dark up to a certain distance.
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-Advantage on [saving throws](Saving_throw.md "Saving throw") against being [charmed](Charmed_(Condition).md); can't be put to [sleep](Sleeping_(Condition).md) by magic.
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-Attack an enemy moving out of reach.
-
-## Technical
-
-###
-
-UID
-
-`S_LOW_BeachSahuagin_Civilian_004` ###
-
-UUID
-
-`9f40425a-aa24-4051-8b22-5ccb15a3dfba` ###
-
-Stats
-
-`Human_Commoner` **弗拉希塔** 是一名 [半精灵](Half-Elf.md "半精灵") 平民，可以在 [博德之门](Baldur's_Gate.md "博德之门") 的 [下城区](Lower_City.md "下城区") 鱼市场附近找到她，当时是 [第三幕](Act_Three.md "第三幕")。
+**弗拉希塔** 是一名 [半精灵](Half-Elf.md "半精灵") 平民，可以在 [博德之门](Baldur's_Gate.md "博德之门") 的 [下城区](Lower_City.md "下城区") 鱼市场附近找到她，当时是 [第三幕](Act_Three.md "第三幕")。
 
 > “
 >

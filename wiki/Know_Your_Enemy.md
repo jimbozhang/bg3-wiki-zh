@@ -18,16 +18,6 @@
 范围：18米（60英尺）
 充能：[短休](Short_rest.md "Short rest")
 
-## 技术细节
-
-UID
-
-`Target_KnowYourEnemy`
-
-法术标志
-
-`[隐形](Invisible_(spell_flag).md)`, `[隐匿](Stealth_(spell_flag).md)`
-
 ## 状态：已知敌人
 
 **[已知敌人](Known_Enemy_(Condition).md "Known Enemy (Condition)")**

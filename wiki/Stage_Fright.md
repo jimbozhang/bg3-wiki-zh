@@ -23,16 +23,6 @@
 目标：半径内的所有敌人
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_StageFright`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：怯场
 
 **[怯场](Stage_Fright_(Condition).md "怯场（状态）")**

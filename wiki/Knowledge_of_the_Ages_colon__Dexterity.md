@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_KnowledgeOfTheAges_Dexterity`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：岁月知识：敏捷
 
 **[岁月知识：敏捷](Knowledge_of_the_Ages_colon__Dexterity_(Condition).md "岁月知识：敏捷（状态）")**

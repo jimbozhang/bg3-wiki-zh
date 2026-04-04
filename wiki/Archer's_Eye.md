@@ -20,12 +20,6 @@
 [攻击掷骰](Attack_roll.md "Attack Roll")
 射程：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_ArchersEye`
-
 ## 如何习得
 
 _(信息尚未添加。)_

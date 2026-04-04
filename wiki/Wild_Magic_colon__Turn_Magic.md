@@ -11,12 +11,6 @@
 详情
 目标：自身
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_TurnMagic`
-
 ## 状态：狂野魔法：驱散魔法
 
 **[狂野魔法：驱散魔法](Wild_Magic_colon__Turn_Magic_(Condition).md "狂野魔法：驱散魔法（状态）")**

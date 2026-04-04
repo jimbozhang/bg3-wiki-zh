@@ -21,20 +21,6 @@
 射程：18米（60英尺）
 充能：每回合三次
 
-## 技术细节
-
-UID
-
-`Throw_LOW_NineFingers_SneakyDagger`
-
-`Throw_LOW_NineFingers_SneakyDagger_2`
-
-`Throw_LOW_NineFingers_SneakyDagger_3`
-
-法术标志
-
-`[AbortOnSecondarySpellRollFail](https://bg3.wiki/w/index.php?title=AbortOnSecondarySpellRollFail_\(spell_flag\)&action=edit&redlink=1) "AbortOnSecondarySpellRollFail \(spell flag\) \(page does not exist\)")`, `[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[CombatLogSetSingleLineRoll](https://bg3.wiki/w/index.php?title=CombatLogSetSingleLineRoll_\(spell_flag\)&action=edit&redlink=1) "CombatLogSetSingleLineRoll \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[InventorySelection](https://bg3.wiki/w/index.php?title=InventorySelection_\(spell_flag\)&action=edit&redlink=1) "InventorySelection \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由以下生物使用：[九指基恩](Nine-Fingers_Keene.md "九指基恩")

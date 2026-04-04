@@ -21,16 +21,6 @@
 
 以更高法术等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_HouseOfGrief_ExploitFear_Wolf_2`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：内心恐惧：狼（维康妮亚）
 
 **\_(状态)[内心恐惧：狼](Heartform_Terror_colon__Wolf_(Viconia)_(Condition).md "内心恐惧：狼（维康妮亚）（状态）")**

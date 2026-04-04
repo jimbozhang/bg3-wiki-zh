@@ -13,12 +13,6 @@
 详情
 目标：自身
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Teleport`
-
 ## 状态：狂野魔法：传送 (术士)
 
 **\_(状态)[狂野魔法：传送](Wild_Magic_colon__Teleport_(Sorcerer)_(Condition).md "狂野魔法：传送 (术士) (状态)")**

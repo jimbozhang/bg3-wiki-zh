@@ -21,16 +21,6 @@
 近战：1.5米（5尺）
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_GOB_CureWounds_SeluneAmulet`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：沉睡
 
 **[沉睡](Sleeping_(Condition).md "沉睡（状态）")**

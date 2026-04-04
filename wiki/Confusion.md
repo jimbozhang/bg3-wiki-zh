@@ -20,16 +20,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：每额外使用一个法术位环级，受影响区域的半径增加2米（7英尺）。
 
-## 技术细节
-
-UID
-
-`Target_Confusion`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：困惑
 
 **[困惑](Confused_(Condition).md "困惑 (状态)")**

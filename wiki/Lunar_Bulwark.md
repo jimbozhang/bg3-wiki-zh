@@ -20,16 +20,6 @@
 
 以此法术施放更高环阶不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Selunite_MageArmor`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：魔法护甲
 
 **[魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")**

@@ -1,279 +1,60 @@
 # 斯克恩
 
-## 巴尔之镰斯克恩
-
-- 模型
-- 肖像画
-
-### 阵营
-
-[巴尔](Bhaal.md "巴尔")
-
-## 属性
-
-### 体型
-
-中级
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-### 原型
-
-[巴尔之镰](Reaper_of_Bhaal.md "Reaper of Bhaal")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-45
-
-### 护甲等级
-
-10
-
-### 先攻
-
-+5
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 11 / (0) | 20 / (+5) | 13 / (+1) | 15 / (+2) | 12 / (+1) | 16 / (+3) |
+| | |
+| --- | --- |
+| 体型 | 中级 |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 5 |
+| 生命值 | 45 |
+| 护甲等级 | 10 |
+| 先攻 | +5 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 250 |
 
 ## 状态
 
-- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-- [**隐形**](Invisible_(Condition).md "Invisible (Condition)")
+- [隐形](Invisible_(Condition).md "Invisible (Condition)")
 
 攻击掷骰具有优势，并对敌人的攻击掷骰施加劣势。
 
-- [**庇护术**](Sanctuary_(Condition).md "Sanctuary (Condition)")
+- [庇护术](Sanctuary_(Condition).md "Sanctuary (Condition)")
 
 无法被攻击或法术选为目标，攻击另一生物时结束。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
-
-生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
-
-## 探索者难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-31
-
-### 护甲等级
-
-10
-
-### 先攻
-
-+5
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +5 | +1 | +2 | +1 | +3 |
 
 ## 状态
 
-- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-- [**隐形**](Invisible_(Condition).md "Invisible (Condition)")
+- [隐形](Invisible_(Condition).md "Invisible (Condition)")
 
 攻击掷骰具有优势，并对敌人的攻击掷骰施加劣势。
 
-- [**庇护术**](Sanctuary_(Condition).md "Sanctuary (Condition)")
+- [庇护术](Sanctuary_(Condition).md "Sanctuary (Condition)")
 
 无法被攻击或法术选为目标，攻击另一生物时结束。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
-
-生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
-
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-58
-
-### 护甲等级
-
-10
-
-### 先攻
-
-+5
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 11 / (0) | 20 / (+5) | 13 / (+1) | 15 / (+2) | 12 / (+1) | 16 / (+3) |
 
 ## 状态
 
-- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-- [**隐形**](Invisible_(Condition).md "Invisible (Condition)")
+- [隐形](Invisible_(Condition).md "Invisible (Condition)")
 
 攻击掷骰具有优势，并对敌人的攻击掷骰施加劣势。
 
-- [**庇护术**](Sanctuary_(Condition).md "Sanctuary (Condition)")
+- [庇护术](Sanctuary_(Condition).md "Sanctuary (Condition)")
 
 无法被攻击或法术选为目标，攻击另一生物时结束。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [反射闪避](Evasion.md "反射闪避")
-
-成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
-
-生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_CountingHouse_Cultist_08` ###
-
-UUID
-
-`1011469c-7cf8-4aa2-9b1e-86f68ee9bdba` ###
-
-属性
-
-`Human_Cultist_Bhaal_Reaper` **巴尔之镰斯克恩**是[巴尔教团](Cult_of_Bhaal.md "Cult of Bhaal")的成员，可在[下城区](Lower_City.md "Lower City")的[清账屋](The_Counting_House.md "The Counting House")的高安全金库中找到。
+**巴尔之镰斯克恩**是[巴尔教团](Cult_of_Bhaal.md "Cult of Bhaal")的成员，可在[下城区](Lower_City.md "Lower City")的[清账屋](The_Counting_House.md "The Counting House")的高安全金库中找到。
 
 ## 参与
 

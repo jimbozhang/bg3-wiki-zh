@@ -24,16 +24,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_CrusadersMantle`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：十字军披风气场
 
 **[十字军披风气场](Crusader's_Mantle_Aura_(Condition).md "十字军披风气场 (状态)")**

@@ -1,64 +1,14 @@
 # 菲格
 
-## 菲格
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Ami Okumura Jones](https://www.imdb.com/name/nm10992162/) |
+| 体型 | [小型](Small.md "小型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
 
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Ami Okumura Jones](https://www.imdb.com/name/nm10992162/)
-
-### 阵营
-
-[竖琴手同盟](Harpers.md "竖琴手同盟"), [贾希拉的家庭](Jaheira's_Family.md "贾希拉的家庭")
-
-### 家庭
-
-[贾希拉](Jaheira.md "贾希拉") (养母)
-[乔迪](Jord.md "乔迪") (养兄)
-[塔特](Tate.md "塔特") (养姐)
-[里翁](Rion.md "里翁") (养姐)
-[哲塞姆](Jhessem.md "哲塞姆") (养姐)
-
-### 家乡
-
-[戈尔布雷斯之家](Elerrathin's_Home.md "戈尔布雷斯之家"), [博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-[小型](Small.md "小型")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类")
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_JaheirasHouse_JaheiraYoungestDaughter` ###
-
-UUID
-
-`26cf6556-8d9a-4d10-b2af-3b1d497cc115` ###
-
-属性
-
-`Human_Child` **菲格**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中[下城区](Lower_City.md "下城区")的一名[人类](Human.md "人类")儿童。
+**菲格**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中[下城区](Lower_City.md "下城区")的一名[人类](Human.md "人类")儿童。
 
 > “
 >

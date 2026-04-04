@@ -1,104 +1,17 @@
 # 内蒂
 
-## 内蒂
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声优 / 演员
-
-- [查琳·麦肯纳](https://www.imdb.com/name/nm1800670/)
-
-### 阵营
-
-[翠绿林地结社](Circle_of_the_Emerald_Grove.md "Circle of the Emerald Grove")
-
-### 家乡
-
-[翠绿林地](Emerald_Grove.md "Emerald Grove")
-
-### 职业
-
-治疗师
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[黄金矮人](Dwarf.md#Gold_Dwarves "Dwarf")
-
-### 职业
-
-[德鲁伊](Druid.md "Druid")
-
-### 副职
-
-[月亮结社](Circle_of_the_Moon.md "Circle of the Moon")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-24
-
-### 护甲等级
-
-11
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-8 米 (27 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 12 / (+1) | 13 / (+1) | 12 / (+1) | 15 / (+2) | 11 / (0) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 3 |
+| 生命值 | 24 |
+| 护甲等级 | 11 |
+| 先攻 | +1 |
+| 移动速度 | 8 米 (27 英尺) |
+| 经验值 | 20 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -106,61 +19,11 @@
 
 - - - 2
 
-## 特性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- ## 额外资源
 
-可以在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-[优势](Advantage.md "Advantage") 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "Saving throw")，并对[中毒](Poison.md "Poison")伤害有[抗性](Resistance.md "Resistance")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-16
-
-### 护甲等级
-
-11
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 移动
-
-8 米 (27 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +1 | +1 | +3 | +4 | 0 |
+- - - 2
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -168,97 +31,7 @@
 
 - - - 2
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-[优势](Advantage.md "Advantage") 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "Saving throw")，并对[中毒](Poison.md "Poison")伤害有[抗性](Resistance.md "Resistance")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-31
-
-### 护甲等级
-
-11
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 移动
-
-8 米 (27 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-20
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 0 | 1 | 2 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 额外资源
-
-- - - 2
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-[优势](Advantage.md "Advantage") 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "Saving throw")，并对[中毒](Poison.md "Poison")伤害有[抗性](Resistance.md "Resistance")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术细节
-
-###
-
-UID
-
-`S_DEN_Apprentice` ###
-
-UUID
-
-`7cabf226-e34b-4556-8903-a45d0fe26caf` ###
-
-属性
-
-`DEN_Apprentice` **内蒂**是[翠绿林地结社](Circle_of_the_Emerald_Grove.md "Circle of the Emerald Grove")中的一名[矮人](Dwarven.md "Dwarven")德鲁伊，出现在[第一幕](Act_One.md "Act One")。内蒂是[哈尔辛](Halsin.md "哈尔辛")的学生。在他缺席期间，她是[翠绿林地](Emerald_Grove.md "Emerald Grove")的主要治疗师。
+**内蒂**是[翠绿林地结社](Circle_of_the_Emerald_Grove.md "Circle of the Emerald Grove")中的一名[矮人](Dwarven.md "Dwarven")德鲁伊，出现在[第一幕](Act_One.md "Act One")。内蒂是[哈尔辛](Halsin.md "哈尔辛")的学生。在他缺席期间，她是[翠绿林地](Emerald_Grove.md "Emerald Grove")的主要治疗师。
 
 > “
 >

@@ -14,16 +14,6 @@
 范围：自身
 持续时间：1[驱散](Turn.md "驱散")
 
-## 技术细节
-
-UID
-
-`Shout_PatientDefense`
-
-法术标志
-
-`[Invisible](Invisible_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 状态：坚强防御
 
 **[坚强防御](Patient_Defence_(Condition).md "坚强防御 (状态)")**

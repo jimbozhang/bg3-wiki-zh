@@ -13,12 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_EvasiveFootwork`
-
 ## 状态：灵巧步法
 
 **[灵巧步法](Evasive_Footwork_(Condition).md "灵巧步法 (状态)")**

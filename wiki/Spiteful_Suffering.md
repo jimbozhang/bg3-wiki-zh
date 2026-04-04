@@ -19,16 +19,6 @@
 范围：3米（10英尺）
 持续时间：3回合
 
-## 技术细节
-
-UID
-
-`Target_SpitefulSuffering`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：恶意折磨
 
 **[恶意折磨](Spiteful_Suffering_(Condition).md "恶意折磨（状态）")**

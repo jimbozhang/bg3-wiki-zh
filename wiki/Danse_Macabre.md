@@ -18,16 +18,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_CursedTome_WakeTheDead`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：食尸鬼（死亡之舞）
 
 | [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 17 (+3) | [体质](Constitution.md "体质") 10 | [智力](Intelligence.md "智力") 11 | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 8 (-1) |

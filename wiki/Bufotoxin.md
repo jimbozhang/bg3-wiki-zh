@@ -18,16 +18,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_Bufotoxin_Frog_Summon`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：蛙毒
 
 **[蛙毒](Bufotoxin_(Condition).md "蛙毒 (状态)")**

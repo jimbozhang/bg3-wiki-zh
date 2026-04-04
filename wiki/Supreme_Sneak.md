@@ -17,16 +17,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：10 驱散
 
-## 技术细节
-
-UID
-
-`Shout_SupremeSneak`
-
-法术标志
-
-`[Invisible](Invisible_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 状态：隐形
 
 **[隐形](Invisible_(Condition).md "隐形（状态）")**

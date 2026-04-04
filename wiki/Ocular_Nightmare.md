@@ -18,22 +18,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围效果：20米（67英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_EyebeamNova_Spectator`
-
-由反应触发的动作
-
-`Interrupt_EyebeamNova_Spectator`
-
-触发动作的反应
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由特性授予：

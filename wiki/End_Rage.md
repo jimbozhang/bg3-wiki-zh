@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_EndRage`
-
-法术标志
-
-`[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 由以下法术授予：

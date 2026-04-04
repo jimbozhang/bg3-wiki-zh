@@ -1,249 +1,29 @@
 # 审判灵魂猎手
 
-## 审判灵魂猎手
-
-### 声音 / 演员
-
-- [David Alwyn](https://www.imdb.com/name/nm4753587/)
-- [Durassie Kiangangu](https://www.imdb.com/name/nm3698863/)
-- [Okezie Morro](https://www.imdb.com/name/nm2768619/)
-- [Tarrick Benham](https://www.imdb.com/name/nm5276890/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[不死生物](Undead.md "Undead")
-
-### 种族
-
-[暗夜法官](Dark_Justiciar.md "Dark Justiciar")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-34
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-30 千克 (60 磅)
-
-### 经验值奖励
-
-60
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 14 / (+2) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 配音 | - [David Alwyn](https://www.imdb.com/name/nm4753587/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [不死生物](Undead.md "Undead") |
+| 种族 | [暗夜法官](Dark_Justiciar.md "Dark Justiciar") |
+| 等级 | 7 |
+| 生命值 | 34 |
+| 护甲等级 | 14 |
+| 先攻 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 60 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [影子召唤](Living_Shadow.md "影子召唤")
-
-当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "Damage Types")，但[力场](Force.md "Force")、[心灵](Psychic.md "Psychic")或[光耀](Radiant.md "Radiant")伤害除外。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [幽影隐匿](Shadow_Stealth.md "幽影隐匿")
-
-当处于轻度或重度遮蔽时，此生物在远离敌人时不会引发借机攻击。
-
-- [莎尔视界](Shar's_Sight.md "莎尔视界")
-
-暗夜法官不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉检定具有劣势。
-
-## 探索者难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-23
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-30 千克 (60 磅)
-
-### 经验值奖励
-
-60
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | +5 | 0 | 0 | 0 | 0 |
+## 抗性 [(info)](Resistances.md "Resistances")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 特性
+## 状态
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [影子召唤](Living_Shadow.md "影子召唤")
-
-当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "Damage Types")，但[力场](Force.md "Force")、[心灵](Psychic.md "Psychic")或[光耀](Radiant.md "Radiant")伤害除外。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [幽影隐匿](Shadow_Stealth.md "幽影隐匿")
-
-当处于轻度或重度遮蔽时，此生物在远离敌人时不会引发借机攻击。
-
-- [莎尔视界](Shar's_Sight.md "莎尔视界")
-
-暗夜法官不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉检定具有劣势。
-
-## 硬核难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-44
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-30 千克 (60 磅)
-
-### 经验值奖励
-
-60
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 14 / (+2) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- - ## 状态
-
-- [**光耀报复**](Radiant_Retort_(Condition).md "Radiant Retort (Condition)")
+- [光耀报复](Radiant_Retort_(Condition).md "Radiant Retort (Condition)")
 
 当你受到[光耀](Radiant.md "Radiant")伤害时，将其以两倍的[力场](Force.md "Force")伤害反射回攻击者。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [影子召唤](Living_Shadow.md "影子召唤")
-
-当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "Damage Types")，但[力场](Force.md "Force")、[心灵](Psychic.md "Psychic")或[光耀](Radiant.md "Radiant")伤害除外。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [幽影隐匿](Shadow_Stealth.md "幽影隐匿")
-
-当处于轻度或重度遮蔽时，此生物在远离敌人时不会引发借机攻击。
-
-- [莎尔视界](Shar's_Sight.md "莎尔视界")
-
-暗夜法官不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉检定具有劣势。
 
 **审判灵魂猎手**是博德之门3中的不死生物[暗夜法官](Dark_Justiciar.md "Dark Justiciar")。
 

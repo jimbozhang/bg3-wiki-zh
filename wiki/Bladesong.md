@@ -24,12 +24,6 @@
 - 在法师等级 5 时，护甲等级和 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 的加值增加到 +3。
 - 在法师等级 9 时，护甲等级和 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 的加值增加到 +4。
 
-## 技术细节
-
-UID
-
-`Shout_Bladesong`
-
 ## 赋予
 
 - [刀锋之歌高潮](Bladesong_Climax.md "刀锋之歌高潮")

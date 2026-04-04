@@ -15,22 +15,6 @@
 详情
 范围：18 米 (60 英尺)
 
-## 技术细节
-
-UID
-
-`Projectile_Levitate_Mindflayer_Player`
-
-完整灵吸怪形态可用版本
-
-`Projectile_Levitate_Mindflayer`
-
-具有每回合一次限制的夺心魔 NPC 使用版本
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell_flag\) \(page does not exist\)")`, `[NoAOEDamageOnLand](https://bg3.wiki/w/index.php?title=NoAOEDamageOnLand_\(spell_flag\)&action=edit&redlink=1) "NoAOEDamageOnLand \(spell_flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell_flag\) \(page does not exist\)")`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 学习方式
 
 以下生物使用：[完整的灵吸怪](Full-illithid.md "完整的灵吸怪")、[夺心魔](Mind_flayer.md "夺心魔")、[奥米伦](Omeluum.md "奥米伦")、[君主](The_Emperor.md "君主") 和 [灵吸怪奥术师](Illithid_Arcanist.md "灵吸怪奥术师")

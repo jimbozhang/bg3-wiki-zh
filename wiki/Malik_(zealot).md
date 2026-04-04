@@ -1,298 +1,37 @@
 # 马利克（狂热信徒）
 
-"马利克" 重定向至此。关于同名的铁使节，请参见 [马利克（铁使节）](Malik_(iron_consul)..md)
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [戴夫·琼斯](https://www.imdb.com/name/nm10439801/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 8 |
+| 生命值 | 70 |
+| 护甲等级 | 18 |
+| 先攻 | 0 |
+| 经验值 | 140 |
 
-## 狂热信徒马利克
+## 状态
 
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [戴夫·琼斯](https://www.imdb.com/name/nm10439801/)
-
-### 阵营
-
-[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-### 职业
-
-守卫
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-### 原型
-
-[至上真神狂热信徒](Zealot_of_the_Absolute.md "Zealot of the Absolute")
-
-### 职业
-
-[圣武士](Paladin.md "Paladin")
-
-### 副职
-
-[复仇之誓](Oath_of_Vengeance.md "Oath of Vengeance")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-70
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "Charisma") 调整值作为其 [豁免检定](Saving_throw.md "Saving throw") 的加值。
 
-## 特性
+## 状态
 
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "Disease") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "Two-Handed") 近战伤害时，任何掷出 1 或 2 的骰子将重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
-
-如果你用 [借机攻击](Opportunity_Attack.md "Opportunity Attack") 命中敌人，你的 [移动速度](Movement_speed.md "Movement Speed") 将在你的下一回合增加 4.5 米 / 15 英尺。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-49
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +7 | +3 | +6 | +2 | +6 | +9 |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "Charisma") 调整值作为其 [豁免检定](Saving_throw.md "Saving throw") 的加值。
 
-## 特性
+## 状态
 
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "Disease") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "Two-Handed") 近战伤害时，任何掷出 1 或 2 的骰子将重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
-
-如果你用 [借机攻击](Opportunity_Attack.md "Opportunity Attack") 命中敌人，你的 [移动速度](Movement_speed.md "Movement Speed") 将在你的下一回合增加 4.5 米 / 15 英尺。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-91
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 4 | 0 | 0 |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "Charisma") 调整值作为其 [豁免检定](Saving_throw.md "Saving throw") 的加值。
 
-## 特性
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "Disease") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "Two-Handed") 近战伤害时，任何掷出 1 或 2 的骰子将重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
-
-如果你用 [借机攻击](Opportunity_Attack.md "Opportunity Attack") 命中敌人，你的 [移动速度](Movement_speed.md "Movement Speed") 将在你的下一回合增加 4.5 米 / 15 英尺。
-
-## 技术信息
-
-###
-
-UID
-
-`S_MOO_EntranceGuard_001` ###
-
-UUID
-
-`b302d246-59ff-48ee-8247-0e3bcfd4b38e` ###
-
-属性
-
-`MOO_ZealotOfTheAbsolute_Human` **狂热信徒马利克**是 [第二幕](Act_Two.md "Act Two") 中 [至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute") 的一名 [真魂者](True_Soul.md "True Soul") 狂热信徒。他驻扎在通往 [月出之塔](Moonrise_Towers.md "Moonrise Towers") 的楼梯处，守卫入口以防入侵者，并在任何新来者进入至上真神的宝座前对其进行审查。
+**狂热信徒马利克**是 [第二幕](Act_Two.md "Act Two") 中 [至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute") 的一名 [真魂者](True_Soul.md "True Soul") 狂热信徒。他驻扎在通往 [月出之塔](Moonrise_Towers.md "Moonrise Towers") 的楼梯处，守卫入口以防入侵者，并在任何新来者进入至上真神的宝座前对其进行审查。
 
 > “
 >

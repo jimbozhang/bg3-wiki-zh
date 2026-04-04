@@ -22,16 +22,6 @@
 
 [升环施法](Upcasting.md "升环施法"): 每升1环额外造成1d6[光耀](Radiant.md "光耀")伤害。
 
-## 技术细节
-
-UID
-
-`Projectile_GuidingBolt`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态: 曳光弹
 
 **[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")**

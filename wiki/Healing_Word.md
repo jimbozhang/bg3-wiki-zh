@@ -23,16 +23,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：每比1环高1环，额外治疗1d4⁠⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-UID
-
-`Target_HealingWord`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 职业：

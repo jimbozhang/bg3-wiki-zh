@@ -22,16 +22,6 @@
 充能：每回合
 持续时间：1驱散
 
-## 技术细节
-
-UID
-
-`Projectile_LOW_WatcherTitan_DummyHellfireMissiles`
-
-法术标志
-
-`[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 赋予
 
 - [地狱火飞弹](Hellfire_Missiles.md "地狱火飞弹")

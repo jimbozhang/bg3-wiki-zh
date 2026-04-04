@@ -46,16 +46,6 @@
 
 - - _仅限 [月亮结社](Circle_of_the_Moon.md "月亮结社") [德鲁伊](Druid.md "德鲁伊") 使用。_
 
-## 技术细节
-
-UID
-
-`Shout_WildShape_Combat`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 变体
 
 - [荒野形态：獾](Wild_Shape_colon__Badger.md "荒野形态：獾")

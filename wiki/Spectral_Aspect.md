@@ -14,12 +14,6 @@
 范围：自身
 持续时间：1 驱散
 
-## 技术细节
-
-UID
-
-`Interrupt_SHA_Necromancer_SpectralForm`
-
 ## 赋予
 
 - [飞行（职业动作）](Fly_(class_action).md "飞行（职业动作）")

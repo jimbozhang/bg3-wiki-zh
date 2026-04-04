@@ -14,16 +14,6 @@
 范围：18米（60英尺）
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Target_LOW_BhaalCultist_RangersCompanion_Raven`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`
-
 ## 生物：凶残乌鸦
 
 | [力量](Strength.md "力量") 8 (-1) | [敏捷](Dexterity.md "敏捷") 18 (+4) | [体质](Constitution.md "体质") 8 (-1) | [智力](Intelligence.md "智力") 3 (-4) | [感知](Wisdom.md "感知") 12 (+1) | [魅力](Charisma.md "魅力") 6 (-2) |

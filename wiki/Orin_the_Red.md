@@ -1,91 +1,14 @@
 # 奥林
 
-## 奥林
-
-巴尔死亡使者
-
-- 角色肖像
-- 模型
-
-### 全名
-
-腥红奥林
-
-### 性别
-
-女性
-
-### 声优 / 演员
-
-- [Maggie Robertson](https://www.imdb.com/name/nm7047380/)
-
-### 阵营
-
-[巴尔](Bhaal.md "巴尔")
-
-### 家族
-
-[巴尔](Bhaal.md "巴尔") (曾祖父兼祖父)
-[沙洛佛克·安基夫](Sarevok_Anchev.md "沙洛佛克·安基夫") (祖父兼父亲)
-[海伦娜·安基夫](Helena_Anchev.md "海伦娜·安基夫") (母亲兼姐妹)
-[邪念](The_Dark_Urge.md "邪念") (叔伯/姑姨兼叔伯/姑姨)
-
-### 家乡
-
-[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")
-[博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类") / ⁠[变形者](https://forgottenrealms.fandom.com/wiki/Changeling)
-
-### 职业
-
-[游荡者](Rogue.md "游荡者")
-
-### 副职
-
-[盗贼](Thief.md "盗贼")
-
-## 技术数据
-
-###
-
-UID
-
-`S_GLO_Orin` ###
-
-UUID
-
-`bf24e0ec-a3a6-4905-bd2d-45dc8edf8101` ###
+| | |
+| --- | --- |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") / ⁠[变形者](https://forgottenrealms.fandom.com/wiki/Changeling) |
 
 Stats
 
-`GLO_Orin` ## 变体 1
-
-###
-
-UID
-
-`LOW_Slayer_Orin` ###
-
-UUID
-
-`ced6bfeb-8f6f-47d0-943f-77833f643318` ###
-
-Stats
-
-`GLO_Orin_Slayer` **腥红奥林**是 ⁠[巴尔](Bhaal.md "巴尔")的选民，神秘的[绝对邪教](Cult_of_the_Absolute.md "绝对邪教")的领袖之一，也是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的主要反派之一。
+**腥红奥林**是 ⁠[巴尔](Bhaal.md "巴尔")的选民，神秘的[绝对邪教](Cult_of_the_Absolute.md "绝对邪教")的领袖之一，也是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的主要反派之一。
 
 > “
 >

@@ -23,16 +23,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_SurgeonHeal_Nurse`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 如何习得
 
 被以下生物使用：[安雅](Anya.md "安雅"), [吉安妮](Geanne.md "吉安妮"), [胡娜](Hunna.md "胡娜"), [安娜·利德温](Anna_Lidwin.md "安娜·利德温"), [辛达](Sinda.md "辛达"), 以及[瓦妮莎](Vanessa.md "瓦妮莎")

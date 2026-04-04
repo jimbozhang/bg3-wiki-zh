@@ -15,16 +15,6 @@
 详情
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Shout_Invisibility_Imp`
-
-法术标志
-
-`[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 状态：隐形
 
 **[隐形](Invisible_(Condition).md "隐形（状态）")**

@@ -17,12 +17,6 @@
 消耗
 [反应](Actions.md#Reactions "动作")
 
-## 技术细节
-
-UID
-
-`Interrupt_DeflectMissiles`
-
 ## 授予
 
 - [拨挡飞弹：重定向](Deflect_Missiles_colon__Redirect.md "拨挡飞弹：重定向")

@@ -25,16 +25,6 @@
 充能：[短休](Short_rest.md "短休")
 必须对武器 [熟练](Proficiency.md#Weapon_proficiency "熟练项")
 
-## 技术细节
-
-UID
-
-`Target_MAG_WeaponAction_UndyingSubjugation`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：灾祸术
 
 **[灾祸术](Bane_(Condition).md "灾祸术（状态）")**

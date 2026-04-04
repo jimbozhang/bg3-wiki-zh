@@ -18,16 +18,6 @@
 范围：自身
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Shout_InvisibilityField_Orthon`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：隐形
 
 **[隐形](Invisible_(Condition).md "隐形 (状态)")**

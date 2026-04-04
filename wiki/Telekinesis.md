@@ -21,16 +21,6 @@
 
 以此法术升环施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Throw_Telekinesis`
-
-法术标志
-
-`[AbortOnSecondarySpellRollFail](https://bg3.wiki/w/index.php?title=AbortOnSecondarySpellRollFail_\(spell_flag\)&action=edit&redlink=1) "AbortOnSecondarySpellRollFail \(spell flag\) \(page does not exist\)")`, `[AbortOnSpellRollFail](https://bg3.wiki/w/index.php?title=AbortOnSpellRollFail_\(spell_flag\)&action=edit&redlink=1) "AbortOnSpellRollFail \(spell flag\) \(page does not exist\)")`, `[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[CombatLogSetSingleLineRoll](https://bg3.wiki/w/index.php?title=CombatLogSetSingleLineRoll_\(spell_flag\)&action=edit&redlink=1) "CombatLogSetSingleLineRoll \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[InventorySelection](https://bg3.wiki/w/index.php?title=InventorySelection_\(spell_flag\)&action=edit&redlink=1) "InventorySelection \(spell flag\) \(page does not exist\)")`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：心灵遥控
 
 **[心灵遥控](Telekinesis_(Condition).md "心灵遥控（状态）")**

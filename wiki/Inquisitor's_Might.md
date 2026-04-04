@@ -13,12 +13,6 @@
 详情
 范围：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_InquisitorsMight`
-
 ## 状态：检察官的威能
 
 **[检察官的威能](Inquisitor's_Might_(Condition).md "检察官的威能（状态）")**

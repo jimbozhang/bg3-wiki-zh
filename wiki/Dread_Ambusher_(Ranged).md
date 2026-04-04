@@ -21,16 +21,6 @@
 射程：正常武器射程
 充能：每场战斗一次
 
-## 技术细节
-
-UID
-
-`Projectile_DreadAmbusher`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 如何习得
 
 职业：

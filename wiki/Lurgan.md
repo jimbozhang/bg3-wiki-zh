@@ -1,92 +1,17 @@
 # 勒根
 
-## 勒根
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Niall Gaffney](https://www.imdb.com/name/nm3679412/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[矮人](Dwarf.md "矮人")
-
-### 亚种
-
-[灰矮人](Duergar.md "灰矮人")
-
-### 职业
-
-[牧师](Cleric.md "牧师")
-
-### 神祇
-
-[拉杜格](Laduguer.md "拉杜格")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### HP
-
-30
-
-### AC
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### XP 奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 13 / (+1) | 10 / (0) | 12 / (+1) | 9 / (-1) | 16 / (+3) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Niall Gaffney](https://www.imdb.com/name/nm3679412/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [矮人](Dwarf.md "矮人") |
+| 等级 | 5 |
+| 生命值 | 30 |
+| 护甲等级 | 18 |
+| 先攻 | 0 |
+| 移动速度 | 7.5 米 (25 英尺) |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -114,47 +39,31 @@
 
 可在黑暗中看到 24 米 / 80 英尺。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "抗性")
 
-### 等级
+- ## 额外资源
 
-5
+- - - - ## 特性
 
-### HP
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
-21
+对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-### AC
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-18
+对被[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-### 先攻
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-0
+攻击离开触及范围的敌人。
 
-### 熟练项
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-+5
+在日光下时，[攻击掷骰](Attack_Roll.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
 
-### 移动
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### XP 奖励
-
-75
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | 0 | +1 | -1 | +6 | +4 |
+可在黑暗中看到 24 米 / 80 英尺。
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -182,89 +91,7 @@
 
 可在黑暗中看到 24 米 / 80 英尺。
 
-## 硬核难度属性
-
-### 等级
-
-5
-
-### HP
-
-39
-
-### AC
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### XP 奖励
-
-75
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 1 | 0 | 3 |
-
-## 抗性 [(info)](Resistances.md "抗性")
-
-- ## 额外资源
-
-- - - - ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在日光下时，[攻击掷骰](Attack_Roll.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-## 技术
-
-###
-
-UID
-
-`S_UND_LoneDuergar_Squad_Caster` ###
-
-UUID
-
-`ffacce35-8921-429a-8266-6d4a7a98428d` ###
-
-Stats
-
-`UND_Duergar_Cleric` **勒根**是驻扎在[破败村落](Decrepit_Village.md "破败村落")的灰矮人之一，位于[第一幕](Act_One.md "第一幕")。
+**勒根**是驻扎在[破败村落](Decrepit_Village.md "破败村落")的灰矮人之一，位于[第一幕](Act_One.md "第一幕")。
 
 > “
 >

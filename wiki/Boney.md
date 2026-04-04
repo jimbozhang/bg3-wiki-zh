@@ -1,80 +1,16 @@
 # 博尼
 
-## 博尼
-
-斯托尼与博尼定制创作的联合创始人
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Declan Perring](https://www.imdb.com/name/nm9779536/)
-
-### 角色
-
-[商人](Trader.md "Trader")
-
-### 阵营
-
-[终焉马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days")
-
-### 家庭
-
-[斯托尼](Stoney.md "Stoney") (妻子)
-
-## 属性
-
-### 体型
-
-[微型](Tiny.md "Tiny")
-
-### 类型
-
-[元素生物](Elemental.md "Elemental")
-
-### 种族
-
-[魔蝠](Mephit.md "Mephit")
-
-- 平衡
-
-- 硬核
-
-## 平衡难度属性
-
-### HP
-
-14
-
-### AC
-
-11
-
-### 先攻
-
-+1
-
-### 移动
-
-9 米 (30 英尺)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### XP 奖励
-
-200
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 8 / (-1) | 12 / (+1) | 12 / (+1) | 9 / (-1) | 11 / (0) | 7 / (-2) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Declan Perring](https://www.imdb.com/name/nm9779536/) |
+| 体型 | [微型](Tiny.md "Tiny") |
+| 类型 | [元素生物](Elemental.md "Elemental") |
+| 种族 | [魔蝠](Mephit.md "Mephit") |
+| 生命值 | 14 |
+| 护甲等级 | 11 |
+| 先攻 | +1 |
+| 移动速度 | 9 米 (30 英尺) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -86,43 +22,13 @@
 
 可以在黑暗中看到一定距离。
 
-- [**死亡爆裂：力场**](Death_Burst_colon__Force.md "Death Burst: Force")
+- [死亡爆裂：力场](Death_Burst_colon__Force.md "Death Burst: Force")
 
 当魔蝠死亡时，它会爆炸，对 2 米 (7 英尺) 范围内的所有生物造成 2d6⁠⁠[力场](Force.md "Force") 伤害。
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### HP
-
-23
-
-### AC
-
-14
-
-### 先攻
-
-+1
-
-### 移动
-
-9 米 (30 英尺)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### XP 奖励
-
-200
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | -1 | +1 | +1 | -1 | 0 | -2 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -134,7 +40,7 @@
 
 可以在黑暗中看到一定距离。
 
-- [**死亡爆裂：力场**](Death_Burst_colon__Force.md "Death Burst: Force")
+- [死亡爆裂：力场](Death_Burst_colon__Force.md "Death Burst: Force")
 
 当魔蝠死亡时，它会爆炸，对 2 米 (7 英尺) 范围内的所有生物造成 2d6⁠⁠[力场](Force.md "Force") 伤害。
 
@@ -142,21 +48,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 技术
-
-###
-
-UID
-
-`S_WYR_Circus_Sculptor` ###
-
-UUID
-
-`f9c9d3a2-8dba-4af0-b3c0-5f3b46b10b6e` ###
-
-属性
-
-`Mephit_Mud` **博尼**是[终焉马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days")的一只[泥魔蝠](Mud_Mephit.md "Mud Mephit")。他和他的妻子[斯托尼](Stoney.md "Stoney")经营着*斯托尼与博尼定制创作*，博尼负责销售，斯托尼负责雕刻。博尼性格开朗，对他才华横溢的妻子充满绝对的爱慕之情。
+**博尼**是[终焉马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days")的一只[泥魔蝠](Mud_Mephit.md "Mud Mephit")。他和他的妻子[斯托尼](Stoney.md "Stoney")经营着*斯托尼与博尼定制创作*，博尼负责销售，斯托尼负责雕刻。博尼性格开朗，对他才华横溢的妻子充满绝对的爱慕之情。
 
 > “
 >

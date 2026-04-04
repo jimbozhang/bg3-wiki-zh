@@ -18,16 +18,6 @@
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：法术无效）
 射程：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_MentalSlam_Githyanki`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：心灵撕裂
 
 **[心灵撕裂](Psychic_Rend_(Condition).md "心灵撕裂（状态）")**

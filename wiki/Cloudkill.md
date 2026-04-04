@@ -25,16 +25,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：以更高环位施放此法术时，每比5环高1环，额外造成 1d8⁠⁠[中毒](Poison.md "Poison") 伤害。
 
-## 技术细节
-
-UID
-
-`Target_Cloudkill`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 区域：死云术
 
 **[死云术](Cloudkill_(cloud).md "死云术 (云)")**

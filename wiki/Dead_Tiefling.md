@@ -1,245 +1,43 @@
 # 死去的提夫林
 
-## 死去的提夫林
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Ffion Jolly](https://www.imdb.com/name/nm4171997/)
-
-### 阵营
-
-[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
-
-### 家乡
-
-[艾尔图瑞尔](Elturel.md "Elturel")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-### 亚种
-
-[阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-8
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Ffion Jolly](https://www.imdb.com/name/nm4171997/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 1 |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在一定距离内于黑暗中视物。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-5
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在一定距离内于黑暗中视物。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-10
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在一定距离内于黑暗中视物。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_FOR_SchoolOgre_Corpse` ###
-
-UUID
-
-`ef9ff510-c334-45d4-bade-a3a0f4c6e63b` ###
-
-Stats
-
-`Tiefling_Commoner` **死去的提夫林**是 [染疫村落](Blighted_Village.md "Blighted Village") 中 [开明的朗普](Lump.md "Lump") 旁边的一具尸体。
+**死去的提夫林**是 [染疫村落](Blighted_Village.md "Blighted Village") 中 [开明的朗普](Lump.md "Lump") 旁边的一具尸体。
 
 ## 内容
 

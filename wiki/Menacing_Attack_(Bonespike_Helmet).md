@@ -24,16 +24,6 @@
 射程：正常武器射程
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_MAG_MenacingAttack`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "恐慌（状态）")**

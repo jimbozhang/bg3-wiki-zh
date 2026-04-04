@@ -1,26 +1,9 @@
 # 灾祸术 (神祇)
 
-## 灾祸术
-
-黑暗之主
-
-- 壁画
-- 符号
-- 雕像
-
-### 声音 / 演员
-
-- [David Rintoul](https://www.imdb.com/name/nm0727778/)
-
-### 阵营
-
-[三神](Dead_Three.md "三神") & [至上真神教团](Cult_of_the_Absolute.md "至上真神教团")
-
-## 属性
-
-### 种族
-
-[神祇](Deity.md "神祇")
+| | |
+| --- | --- |
+| 配音 | - [David Rintoul](https://www.imdb.com/name/nm0727778/) |
+| 种族 | [神祇](Deity.md "神祇") |
 
 **灾祸术**，又名黑暗之主，是暴政、仇恨与纷争之[神](God.md "神")，也是[三神](Dead_Three.md "三神")的成员。他与秩序和[战争领域](War_Domain.md "战争领域")领域相关联。灾祸术不能作为玩家角色[牧师](Cleric.md "牧师")的神祇。
 

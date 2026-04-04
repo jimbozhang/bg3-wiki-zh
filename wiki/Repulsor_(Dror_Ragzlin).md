@@ -24,16 +24,6 @@
 目标：范围内的所有其他生物
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Shout_GOB_GoblinKing_ForceShout`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")

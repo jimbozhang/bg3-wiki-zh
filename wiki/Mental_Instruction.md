@@ -17,14 +17,6 @@
 范围效果：3米（10英尺）半径
 目标：1名吉斯洋基学生（平衡难度）或范围内的所有学生（硬核难度）
 
-## 技术细节
-
-UID
-
-`Target_CRE_Savarsh_CombatInstruction`
-
-`Target_CRE_Savarsh_CombatInstruction_Hardcore`
-
 ## 状态：精神指令
 
 **[精神指令](Mental_Instruction_(Condition).md "精神指令（状态）")**

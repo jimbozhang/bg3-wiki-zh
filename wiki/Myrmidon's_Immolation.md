@@ -15,16 +15,6 @@
 [专注](Concentration.md "专注")
 持续时间：3 驱散
 
-## 技术细节
-
-UID
-
-`Shout_BurningRage_Myrmidon_Fire`
-
-法术标志
-
-`[IsConcentration](IsConcentration_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "荒野形态（法术标志）（页面不存在）")`
-
 ## 状态：加速
 
 **[加速](Hastened_(Condition).md "加速（状态）")**

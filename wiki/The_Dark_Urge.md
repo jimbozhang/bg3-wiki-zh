@@ -1,40 +1,8 @@
 # 邪念
 
-本文介绍的是一个已确立的角色，包含大量剧透。如需查看较少剧透的出身页面，请见[邪念（出身）](The_Dark_Urge_(origin).md)。
-
-本文包含[敏感内容](Help_colon_Style_Guide.md#Content_warnings "Help:Style Guide")，包括对写实或血腥暴力、虐待动物和性暴力的简要描述。
-
-## 邪念
-
-### 角色
-
-特殊[出身](Origin.md "Origin")
-
-### 家族
-
-[巴尔](Bhaal.md "Bhaal")（“父亲”/创造者）
-[腥红奥林](Orin_the_Red.md "Orin the Red")（巴尔后裔亲戚）
-[沙洛佛克·安基夫](Sarevok_Anchev.md "Sarevok Anchev")（巴尔后裔亲戚）
-未命名的养父母
-[明斯克](Minsc.md "Minsc")（“叔叔”，取决于选择）
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-## 属性
-
-### 种族
-
-任意，[白龙裔](White_Dragonborn.md "White dragonborn")（默认）
-
-### 职业
-
-任意，[术士](Sorcerer.md "Sorcerer")，[风暴术士](Storm_Sorcery.md "Storm Sorcery")（默认）
-
-### 背景
-
-[邪念缠身](Haunted_One.md "Haunted One")
+| | |
+| --- | --- |
+| 种族 | 任意，[白龙裔](White_Dragonborn.md "White dragonborn")（默认） |
 
 **邪念**<sup>[\[1\]](#cite_note-1)</sup>是《博德之门3》中一个已确立的角色，也是一个[特殊出身](The_Dark_Urge_(origin).md)。邪念患有失忆症，对自己的过去只有零星的记忆。
 

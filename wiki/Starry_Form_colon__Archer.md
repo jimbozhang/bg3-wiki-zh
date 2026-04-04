@@ -19,16 +19,6 @@
 - 在2级时，光耀箭造成1d8 + [感知调整值](Wisdom.md#Wisdom_modifier_chart "感知")⁠[光耀](Radiant.md "光耀")伤害。
 - 在10级且拥有[闪烁星座](Twinkling_Constellations.md "闪烁星座")时，光耀箭造成2d8 + [感知调整值](Wisdom.md#Wisdom_modifier_chart "感知")⁠[光耀](Radiant.md "光耀")伤害。
 
-## 技术细节
-
-UID
-
-`Shout_Wildshape_Star_Archer`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(spell flag\) \(page does not exist\)")`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 状态：星界形态：弓手
 
 **[星界形态：弓手](Starry_Form_colon__Archer_(Condition).md "星界形态：弓手 (状态)")**

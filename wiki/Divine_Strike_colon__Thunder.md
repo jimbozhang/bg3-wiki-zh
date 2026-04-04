@@ -23,16 +23,6 @@
 范围：普通武器范围
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_DivineStrike_Tempest_Container`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 变体
 
 - [神圣打击：雷鸣（近战）](Divine_Strike_colon__Thunder_(Melee).md "神圣打击：雷鸣（近战）")

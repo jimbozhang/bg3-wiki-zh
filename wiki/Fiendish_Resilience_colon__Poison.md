@@ -14,12 +14,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_Fiendish_Resilience_Poison`
-
 ## 状态：邪魔体魄：中毒
 
 **[邪魔体魄：中毒](Fiendish_Resilience_colon__Poison_(Condition).md "邪魔体魄：中毒 (状态)")**

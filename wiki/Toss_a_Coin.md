@@ -11,12 +11,6 @@
 详情
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Projectile_GEB_Perform_TossCoin`
-
 ## 物品：黄金
 
 [黄金](Gold.md "Gold")（1个）

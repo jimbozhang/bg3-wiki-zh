@@ -30,16 +30,6 @@
 
 在 10 等级时，拥有 [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")，伤害加值从 1d8 增加到 1d10。
 
-## 技术细节
-
-UID
-
-`Projectile_DisarmingAttack`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：武器掉落
 
 **[武器掉落！](Weapon_Dropped!_(Condition).md "武器掉落！（状态）")**

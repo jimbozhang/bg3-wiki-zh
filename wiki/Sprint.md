@@ -21,12 +21,6 @@
 范围：6米（20英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Rush_MAG_Mobility_SprintForMomentum_Action`
-
 ## 如何习得
 
 由物品授予：

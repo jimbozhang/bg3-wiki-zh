@@ -23,16 +23,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每提升一个环级，额外获得5点[临时生命值](Temporary_Hit_Points.md "临时生命值")，并额外造成5点[寒冷](Cold.md "寒冷")伤害。
 
-## 技术细节
-
-UID
-
-`Shout_ArmorOfAgathys`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：艾嘉西斯之铠
 
 **[艾嘉西斯之铠](Armour_of_Agathys_(Condition).md "艾嘉西斯之铠（状态）")**

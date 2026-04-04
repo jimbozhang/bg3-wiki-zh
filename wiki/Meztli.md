@@ -1,104 +1,18 @@
 # 多洛
 
-## 多洛
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 全名
-
-多洛·金磨
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Mark Takeshi Ota](https://www.imdb.com/name/nm5454252/)
-
-### 阵营
-
-[巴尔邪教](Cult_of_Bhaal.md "巴尔邪教")
-
-### 家族
-
-[费蓊·金磨](Ffion_Goldgrind.md "费蓊·金磨") (母亲)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[矮人](Dwarf.md "矮人")
-
-### 亚种
-
-[黄金矮人](Gold_Dwarf.md "黄金矮人")
-
-### 职业
-
-[游荡者](Rogue.md "游荡者")
-
-### 副职
-
-[刺客](Assassin.md "刺客")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-88
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+9
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 18 / (+4) | 16 / (+3) | 11 / (0) | 13 / (+1) | 16 / (+3) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Mark Takeshi Ota](https://www.imdb.com/name/nm5454252/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [矮人](Dwarf.md "矮人") |
+| 等级 | 11 |
+| 生命值 | 88 |
+| 护甲等级 | 16 |
+| 先攻 | +9 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 320 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -108,11 +22,11 @@
 
 +5 [先攻](Initiative.md "先攻")且不会被[受惊](Surprised.md "受惊")。
 
-- [**刺杀：先攻**](Assassinate_colon__Initiative.md "刺杀：先攻")
+- [刺杀：先攻](Assassinate_colon__Initiative.md "刺杀：先攻")
 
 你对毫无防备的敌人最为致命。在战斗中，你对尚未行动的生物的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
-- [**多洛的凄凉**](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
+- [多洛的凄凉](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
 
 当你使用武器或徒手攻击造成[重击](Critical_Hit.md "重击")时，_\[[见：错误](Dolor_Amarus_(passive_feature).md#Bugs).md#Bugs> "多洛的凄凉 (被动特性)")\]_ 它会造成额外 7 点伤害。
 
@@ -124,7 +38,7 @@
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**形态伏击**](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
+- [形态伏击](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
 
 对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambush.md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
 
@@ -140,7 +54,7 @@
 
 当你使用你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")进行[属性检定](Ability_Check.md "属性检定")时，你在骰子上能掷出的最低结果为 10。
 
-- [**坚如磐石：感知**](Resilient_colon__Wisdom.md "坚如磐石：感知")
+- [坚如磐石：感知](Resilient_colon__Wisdom.md "坚如磐石：感知")
 
   - 你的[感知](Wisdom.md "感知")提高 1，最高至 20。
 
@@ -154,48 +68,6 @@
 
 可以使用[反应](Reaction.md "反应")将一次命中的伤害减半。
 
-## 探索者难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-61
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+9
-
-### 熟练项
-
-+6
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +5 | +4 | +3 | +4 | +5 | +3 |
-
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
@@ -204,11 +76,11 @@
 
 +5 [先攻](Initiative.md "先攻")且不会被[受惊](Surprised.md "受惊")。
 
-- [**刺杀：先攻**](Assassinate_colon__Initiative.md "刺杀：先攻")
+- [刺杀：先攻](Assassinate_colon__Initiative.md "刺杀：先攻")
 
 你对毫无防备的敌人最为致命。在战斗中，你对尚未行动的生物的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
-- [**多洛的凄凉**](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
+- [多洛的凄凉](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
 
 当你使用武器或徒手攻击造成[重击](Critical_Hit.md "重击")时，_\[[见：错误](Dolor_Amarus_(passive_feature).md#Bugs).md#Bugs> "多洛的凄凉 (被动特性)")\]_ 它会造成额外 7 点伤害。
 
@@ -220,7 +92,7 @@
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**形态伏击**](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
+- [形态伏击](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
 
 对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambush.md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
 
@@ -236,7 +108,7 @@
 
 当你使用你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")进行[属性检定](Ability_Check.md "属性检定")时，你在骰子上能掷出的最低结果为 10。
 
-- [**坚如磐石：感知**](Resilient_colon__Wisdom.md "坚如磐石：感知")
+- [坚如磐石：感知](Resilient_colon__Wisdom.md "坚如磐石：感知")
 
   - 你的[感知](Wisdom.md "感知")提高 1，最高至 20。
 
@@ -250,48 +122,6 @@
 
 可以使用[反应](Reaction.md "反应")将一次命中的伤害减半。
 
-## 硬核难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-114
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+9
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 18 / (+4) | 16 / (+3) | 11 / (0) | 13 / (+1) | 16 / (+3) |
-
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
@@ -300,11 +130,11 @@
 
 +5 [先攻](Initiative.md "先攻")且不会被[受惊](Surprised.md "受惊")。
 
-- [**刺杀：先攻**](Assassinate_colon__Initiative.md "刺杀：先攻")
+- [刺杀：先攻](Assassinate_colon__Initiative.md "刺杀：先攻")
 
 你对毫无防备的敌人最为致命。在战斗中，你对尚未行动的生物的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
-- [**多洛的凄凉**](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
+- [多洛的凄凉](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
 
 当你使用武器或徒手攻击造成[重击](Critical_Hit.md "重击")时，_\[[见：错误](Dolor_Amarus_(passive_feature).md#Bugs).md#Bugs> "多洛的凄凉 (被动特性)")\]_ 它会造成额外 7 点伤害。
 
@@ -316,7 +146,7 @@
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**形态伏击**](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
+- [形态伏击](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
 
 对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambush.md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
 
@@ -332,7 +162,7 @@
 
 当你使用你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")进行[属性检定](Ability_Check.md "属性检定")时，你在骰子上能掷出的最低结果为 10。
 
-- [**坚如磐石：感知**](Resilient_colon__Wisdom.md "坚如磐石：感知")
+- [坚如磐石：感知](Resilient_colon__Wisdom.md "坚如磐石：感知")
 
   - 你的[感知](Wisdom.md "感知")提高 1，最高至 20。
 
@@ -345,36 +175,10 @@
 - [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将一次命中的伤害减半。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_Dolor` ###
-
-UUID
-
-`55837c0f-0171-4020-a4a3-dd6de7ffc134` ###
 
 属性
 
-`LOW_SerialKiller_Dolor` ## 变体 1
-
-###
-
-UID
-
-`LOW_SerialKiller_DolorForDoppelgangers` ###
-
-UUID
-
-`f402fb53-743e-42b6-9e42-30599eb1b4ae` ###
-
-属性
-
-`Dwarf_Commoner` **多洛**<sup>[\[1\]](#cite_note-1)</sup>是一名连环杀手，试图通过打动[谋杀裁判所](Murder_Tribunal.md "谋杀裁判所")来获得巴尔邪教的_不洁刺客_称号。他是[费蓊·金磨](Ffion_Goldgrind.md "费蓊·金磨")的儿子，费蓊在被多洛谋杀之前是[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")的一名性工作者。他首次出现时使用假名**梅泽里**大师。
+**多洛**<sup>[\[1\]](#cite_note-1)</sup>是一名连环杀手，试图通过打动[谋杀裁判所](Murder_Tribunal.md "谋杀裁判所")来获得巴尔邪教的_不洁刺客_称号。他是[费蓊·金磨](Ffion_Goldgrind.md "费蓊·金磨")的儿子，费蓊在被多洛谋杀之前是[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")的一名性工作者。他首次出现时使用假名**梅泽里**大师。
 
 > “
 >

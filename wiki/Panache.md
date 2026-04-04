@@ -19,16 +19,6 @@
 目标：非[野兽](Beast.md "野兽")、[怪兽](Monstrosity.md "怪兽")、[植物](Plant.md "植物")、[不死生物](Undead.md "不死生物")、[泥型怪物](Ooze.md "泥型怪物")、[构装生物](Construct.md "构装生物")或[元素生物](Elemental.md "元素生物")的生物
 持续时间：10驱散
 
-## 技术细节
-
-UID
-
-`Target_Panache`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：魅惑之术：劣势
 
 **[魅惑之术：劣势](Panache_colon__Disadvantage_(Condition).md "魅惑之术：劣势（状态）")**

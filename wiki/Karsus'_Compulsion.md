@@ -21,16 +21,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_END_Mindflayer_CrownDomination`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 状态：引导卡尔萨斯强迫术
 
 **[引导卡尔萨斯强迫术](Channelling_Karsus'_Compulsion_(Condition).md "Channelling Karsus' Compulsion (Condition)")**

@@ -1,92 +1,18 @@
 # 诚实的小贩
 
-## 诚实的小贩
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Ben Onwukwe](https://www.imdb.com/name/nm0648936/)
-
-### 角色
-
-[商人](Trader.md "Trader")
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-### 亚种
-
-[阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-8
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 数量 | 3 | 4 | 5 |
-| --- | --- | --- | --- |
-| 几率 | 1/3 | 1/3 | 1/3 |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Ben Onwukwe](https://www.imdb.com/name/nm0648936/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 1 |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 1 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -104,48 +30,21 @@
 
 攻击离开攻击范围的敌人。
 
-## 探索者难度属性
+## 抗性 [抗性](Resistances.md "抗性")
 
-### 等级
+- ## 特性
 
-1
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 生命值
+能在黑暗中看到一定距离。
 
-5
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-### 护甲等级
+[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-10
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 物品 | 数量 | 几率 |
-| --- | --- | --- |
-| [铜项链珠宝子表](Copper_Necklace_Jewelry_Subtable.md "Copper Necklace Jewelry Subtable") | 1 | 3/4 |
-| [白银项链珠宝子表](Silver_Necklace_Jewelry_Subtable.md "Silver Necklace Jewelry Subtable") | 1 | 1/4 |
+攻击离开攻击范围的敌人。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -163,79 +62,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-10
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 数量 | 2 | 3 | 4 |
-| --- | --- | --- | --- |
-| 几率 | 1/3 | 1/3 | 1/3 |
-
-## 抗性 [抗性](Resistances.md "抗性")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_ProtectionCharms_Vendor` ###
-
-UUID
-
-`52fe4f53-c376-4e9d-8675-4e41149d661d` ###
-
-属性
-
-`Tiefling_Commoner` **诚实的小贩**是一位位于[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")的商人。
+**诚实的小贩**是一位位于[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")的商人。
 
 > “
 >

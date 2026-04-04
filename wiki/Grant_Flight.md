@@ -20,16 +20,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比3环高一环的法术位，可影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_Fly`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：飞行
 
 **[飞行](Flight_(Condition).md "飞行（状态）")**

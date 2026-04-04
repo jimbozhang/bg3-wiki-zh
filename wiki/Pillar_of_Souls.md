@@ -14,7 +14,7 @@
 
 - - - - - - - ## 状态
 
-- [**吞噬受阻**](Thwarted_Consumption_(Condition).md "Thwarted Consumption (Condition)")
+- [吞噬受阻](Thwarted_Consumption_(Condition).md "Thwarted Consumption (Condition)")
 
   - 拉斐尔无法从此魂柱吞噬灵魂，因为它最近受到了光耀伤害或其灵魂被其他方式驱散。
 

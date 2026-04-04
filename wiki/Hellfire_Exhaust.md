@@ -24,16 +24,6 @@
 区域效果：3米（10英尺）锥形
 创建区域：地狱火
 
-## 技术细节
-
-UID
-
-`Zone_SteelWatcher_Biped_ControlledCombustion`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：翻腾地狱火
 
 **[翻腾地狱火](Roiling_Hellfire_(Condition).md "翻腾地狱火 (状态)")**

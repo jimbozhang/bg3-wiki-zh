@@ -17,16 +17,6 @@
 射程：18 米 (60 英尺)
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_ConfusionRay_Spectator`
-
-法术标志
-
-`[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell flag\) \(page does not exist\)")`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：昏沉 (困惑射线)
 
 **\_(状态)[昏沉](Befuddled_(Confusion_Ray)_(Condition).md "昏沉 (困惑射线) (状态)")**

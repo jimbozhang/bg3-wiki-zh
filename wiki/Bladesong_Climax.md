@@ -29,16 +29,6 @@
 范围：9 米（30 英尺）
 范围效果：3 米（10 英尺）半径
 
-## 技术细节
-
-UID
-
-`Projectile_Bladesong_Finisher`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsJump](https://bg3.wiki/w/index.php?title=IsJump_\(spell_flag\)&action=edit&redlink=1) "IsJump \(spell_flag\) \(page does not exist\)")`, `[Stealth](Stealth_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 如何习得
 
 由法术授予：

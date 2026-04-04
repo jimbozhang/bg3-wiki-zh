@@ -24,16 +24,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比5环高一环，伤害增加1d8⁠⁠[寒冷](Cold.md "寒冷")。
 
-## 技术细节
-
-UID
-
-`Zone_ConeOfCold`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 区域：冰
 
 **[冰](Ice_(surface).md "冰地表")**

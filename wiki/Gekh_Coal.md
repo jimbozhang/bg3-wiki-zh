@@ -1,98 +1,17 @@
 # 格克·煤球
 
-## 格克·煤球
-
-灰矮人奴隶猎手
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [John O'Mahony](https://www.imdb.com/name/nm1372889/)
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "至上真神教")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级") / [大型](Large.md "大型") (硬核)
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[矮人](Dwarf.md "矮人")
-
-### 亚种
-
-[灰矮人](Duergar.md "灰矮人")
-
-### 职业
-
-[法师](Wizard.md "法师")
-
-### 副职
-
-[死灵学派](Necromancy_School.md "死灵学派")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-62
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 14 / (+2) | 15 / (+2) | 18 / (+4) | 9 / (-1) | 15 / (+2) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [John O'Mahony](https://www.imdb.com/name/nm1372889/) |
+| 体型 | [中级](Medium.md "中级") / [大型](Large.md "大型") (硬核) |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [矮人](Dwarf.md "矮人") |
+| 等级 | 7 |
+| 生命值 | 62 |
+| 护甲等级 | 12 |
+| 先攻 | +2 |
+| 经验值 | 110 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -100,225 +19,37 @@
 
 - - - - ## 状态
 
-- [**魔法护甲**](Mage_Armour_(Condition).md "魔法护甲 (状态)")
+- [魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")
 
 基础 [护甲等级](Armour_Class.md "护甲等级") 为 13
 
-## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对 [幻术学派](Illusion.md "幻术学派") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
-
-- [惧怖收割](Grim_Harvest.md "惧怖收割")
-
-杀死一个生物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [害虫灾祸](Scourge_of_Pests.md "害虫灾祸")
-
-对 [植物](Plant.md "植物")、[蕈人](Myconid.md "蕈人") _\[[见：错误](Scourge_of_Pests.md#Bugs "害虫灾祸")\]_ 和 [小型](Small.md "小型") 生物造成额外 1d6⁠⁠[火焰](Fire.md "火焰") 伤害。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 具有 [劣势](Disadvantage.md "劣势")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中视物，范围达 24 米 / 80 英尺。
-
-## 探索者难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-43
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +3 | +2 | +2 | +7 | +2 | +2 |
-
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - - - ## 状态
 
-- [**魔法护甲**](Mage_Armour_(Condition).md "魔法护甲 (状态)")
+- [魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")
 
 基础 [护甲等级](Armour_Class.md "护甲等级") 为 13
 
-## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对 [幻术学派](Illusion.md "幻术学派") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
-
-- [惧怖收割](Grim_Harvest.md "惧怖收割")
-
-杀死一个生物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [害虫灾祸](Scourge_of_Pests.md "害虫灾祸")
-
-对 [植物](Plant.md "植物")、[蕈人](Myconid.md "蕈人") _\[[见：错误](Scourge_of_Pests.md#Bugs "害虫灾祸")\]_ 和 [小型](Small.md "小型") 生物造成额外 1d6⁠⁠[火焰](Fire.md "火焰") 伤害。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 具有 [劣势](Disadvantage.md "劣势")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中视物，范围达 24 米 / 80 英尺。
-
-## 硬核难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-80
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-205 千克 (410 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 3 | 2 | -1 |
-
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - - - ## 状态
 
-- [**巨化**](Enlarged_(Condition).md "巨化 (状态)")
+- [巨化](Enlarged_(Condition).md "巨化 (状态)")
 
   - [体型](Creature_size.md "生物体型") 增加。
 
   - 武器攻击造成额外 **1d4** 伤害。对 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**魔法护甲**](Mage_Armour_(Condition).md "魔法护甲 (状态)")
+- [魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")
 
 基础 [护甲等级](Armour_Class.md "护甲等级") 为 13
 
-## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对 [幻术学派](Illusion.md "幻术学派") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
-
-- [惧怖收割](Grim_Harvest.md "惧怖收割")
-
-杀死一个生物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [害虫灾祸](Scourge_of_Pests.md "害虫灾祸")
-
-对 [植物](Plant.md "植物")、[蕈人](Myconid.md "蕈人") _\[[见：错误](Scourge_of_Pests.md#Bugs "害虫灾祸")\]_ 和 [小型](Small.md "小型") 生物造成额外 1d6⁠⁠[火焰](Fire.md "火焰") 伤害。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 具有 [劣势](Disadvantage.md "劣势")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中视物，范围达 24 米 / 80 英尺。
-
-## 技术
-
-###
-
-UID
-
-`S_UND_LoneDuergar` ###
-
-UUID
-
-`05c338d9-4590-4c4b-b87e-8c27ea2c2b18` ###
-
-Stats
-
-`UND_LoneDuergar` **格克·煤球** 在 [第一幕](Act_One.md "第一幕") 期间，于 [幽暗地域](Underdark.md "幽暗地域") 的 [破败村落](Decrepit_Village.md "破败村落") 领导一群灰矮人奴隶贩子。
+**格克·煤球** 在 [第一幕](Act_One.md "第一幕") 期间，于 [幽暗地域](Underdark.md "幽暗地域") 的 [破败村落](Decrepit_Village.md "破败村落") 领导一群灰矮人奴隶贩子。
 
 > “
 >

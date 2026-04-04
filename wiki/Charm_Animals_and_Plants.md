@@ -16,12 +16,6 @@
 范围效果：9米（30英尺）半径
 目标：范围内所有[野兽](Beast.md "野兽")和[植物](Plant.md "植物")
 
-## 技术细节
-
-UID
-
-`Shout_CharmAnimalsAndPlants`
-
 ## 状态：魅惑（魅惑动植物）
 
 **\_(状态)[魅惑](Charmed_(Charm_Animals_and_Plants)_(Condition).md "魅惑 (魅惑动植物) (状态)")**

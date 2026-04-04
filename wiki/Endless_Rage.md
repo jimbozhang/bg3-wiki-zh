@@ -20,12 +20,6 @@
 范围：自身
 充能：[长休](Long_Rest.md "Long rest")
 
-## 技术细节
-
-UID
-
-`Shout_EndlessRage`
-
 ## 状态：无尽狂暴
 
 **[无尽狂暴](Endless_Rage_(Condition).md "Endless Rage (Condition)")**

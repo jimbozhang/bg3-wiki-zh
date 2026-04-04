@@ -21,16 +21,6 @@
 射程：14 米（47 英尺）
 拉动距离：11 米（37 英尺）
 
-## 技术细节
-
-UID
-
-`Target_SteelWatcher_Biped_RetrievingShot`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 由以下生物使用：[钢铁卫士](Steel_Watcher.md "钢铁卫士")

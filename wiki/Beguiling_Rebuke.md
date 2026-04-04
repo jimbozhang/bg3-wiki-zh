@@ -20,16 +20,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_Raphael_BeguilingRebuke`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：魅惑
 
 **[魅惑](Beguiled_(Condition).md "魅惑（状态）")**

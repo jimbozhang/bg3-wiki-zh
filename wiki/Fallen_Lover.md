@@ -14,16 +14,6 @@
 射程：9米（30英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_Summon_WoodWoad_Dryad`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 生物：菘蓝树人
 
 | [力量](Strength.md "力量") 18 (+4) | [敏捷](Dexterity.md "敏捷") 12 (+1) | [体质](Constitution.md "体质") 16 (+3) | [智力](Intelligence.md "智力") 10 | [感知](Wisdom.md "感知") 13 (+1) | [魅力](Charisma.md "魅力") 8 (-1) |

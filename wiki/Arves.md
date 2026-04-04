@@ -1,60 +1,12 @@
 # 阿维斯
 
-## 阿维斯
+| | |
+| --- | --- |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
 
-- 游戏内
-- 模型
-- 肖像画
-
-### 全名
-
-阿维斯·银山 (Arves Silvermount)
-
-### 性别
-
-男性
-
-### 声优 / 演员
-
-- [马克·诺布尔](https://www.imdb.com/name/nm1646345/)
-
-### 家庭
-
-摩伊拉 (妻子，已故)
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-## 技术数据
-
-###
-
-UID
-
-`S_LOW_ConfusedMerchant` ###
-
-UUID
-
-`b24e02bf-8c2c-40f3-82af-dd4fb20b2e17` ###
-
-属性
-
-`Human_Commoner` **阿维斯·银山**是一名[人类](Human.md "Human")，可以在[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")的[哀伤之邸](House_of_Grief.md "House of Grief")外找到。
+**阿维斯·银山**是一名[人类](Human.md "Human")，可以在[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")的[哀伤之邸](House_of_Grief.md "House of Grief")外找到。
 
 > “
 >

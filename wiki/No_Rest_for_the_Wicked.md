@@ -17,16 +17,6 @@
 
 以此法术升环施法不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_RiseUndead_DeathShepherd`
-
-法术标志
-
-`[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[死亡牧者](Death_Shepherd.md "Death Shepherd") 和 [巴萨扎尔](Balthazar.md "Balthazar")

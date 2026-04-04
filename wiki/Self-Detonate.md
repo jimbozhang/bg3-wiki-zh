@@ -21,16 +21,6 @@
 范围：自身
 范围效果：5米（17英尺）半径
 
-## 技术细节
-
-UID
-
-`Projectile_SteelWatcher_Biped_SelfDestructExplosion`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[钢铁卫士（生物）](Steel_Watcher_(creature).md)>)和[地狱火守望者](Hellfire_Watcher.md "地狱火守望者")

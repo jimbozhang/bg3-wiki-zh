@@ -12,16 +12,6 @@
 范围：9米（30英尺）
 目标：被移动华舞击中的生物
 
-## 技术细节
-
-UID
-
-`Target_BladeFlourish_Mobile_FollowUp`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

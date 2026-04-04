@@ -1,98 +1,17 @@
 # 格雷蒙
 
-## 海盗格雷蒙
-
-至上真神学徒
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Stephen Hogan](https://www.imdb.com/name/nm0389621/)
-
-### 角色
-
-[商人](Trader.md "Trader")
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[灰矮人](Duergar.md "Duergar")
-
-### 职业
-
-[战士](Fighter.md "Fighter")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-58
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 19 / (+4) | 12 / (+1) | 16 / (+3) | 10 / (0) | 12 / (+1) | 14 / (+2) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Stephen Hogan](https://www.imdb.com/name/nm0389621/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 5 |
+| 生命值 | 58 |
+| 护甲等级 | 12 |
+| 先攻 | +1 |
+| 经验值 | 75 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -122,47 +41,33 @@
 
 可在黑暗中看到 24 米 / 80 英尺。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 等级
+- ## 特性
 
-5
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
-### 生命值
+对抗[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-40
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-### 护甲等级
+对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-12
+- [额外攻击](Extra_Attack.md "额外攻击")
 
-### 先攻
+在徒手或武器攻击后可以进行一次额外攻击。
 
-+1
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 熟练项
+攻击离开攻击范围的敌人。
 
-+5
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-### 移动速度
+在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
 
-7.5 米 (25 英尺)
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +7 | +1 | +6 | 0 | +1 | +2 |
+可在黑暗中看到 24 米 / 80 英尺。
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -192,91 +97,7 @@
 
 可在黑暗中看到 24 米 / 80 英尺。
 
-## 硬核难度属性
-
-### 等级
-
-5
-
-### 生命值
-
-75
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-75
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 7 | 1 | 4 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对抗[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-## 技术信息
-
-###
-
-UID
-
-`S_UND_DuergarRaftCaptain` ###
-
-UUID
-
-`473ae3b0-d8e9-428d-9129-bbffe449b8ec` ###
-
-属性
-
-`UND_KC_Duergar_Melee_Strong` **海盗格雷蒙**是一名[灰矮人](Duergar.md "Duergar")[商人](Trader.md "Trader")，可在[复仇之炉](Grymforge.md "Grymforge")找到。
+**海盗格雷蒙**是一名[灰矮人](Duergar.md "Duergar")[商人](Trader.md "Trader")，可在[复仇之炉](Grymforge.md "Grymforge")找到。
 
 > “
 >

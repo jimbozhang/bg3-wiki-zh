@@ -1,92 +1,18 @@
 # 埃尔斯邦
 
-## 埃尔斯邦
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/)
-
-### 阵营
-
-[利文顿老鼠](Rivington_rats.md "Rivington rats")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[黄金矮人](Gold_Dwarf.md "Gold Dwarf")
-
-### 职业
-
-[游荡者](Rogue.md "Rogue")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-54
-
-### 护甲等级
-
-18
-
-### 先攻
-
-+4
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 18 / (+4) | 12 / (+1) | 10 / (0) | 10 / (0) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 7 |
+| 生命值 | 54 |
+| 护甲等级 | 18 |
+| 先攻 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 200 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -112,47 +38,29 @@
 
 可以使用[反应](Reaction.md "Reaction")将即将受到的攻击伤害减半。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 等级
+- ## 特性
 
-7
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 生命值
+可以在黑暗中看到一定距离。
 
-37
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-### 护甲等级
+对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-18
+- [反射闪避](Evasion.md "反射闪避")
 
-### 先攻
+成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-+4
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 熟练项
+攻击离开攻击范围的敌人。
 
-+5
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | +7 | +1 | +3 | 0 | +1 |
+可以使用[反应](Reaction.md "Reaction")将即将受到的攻击伤害减半。
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -178,87 +86,7 @@
 
 可以使用[反应](Reaction.md "Reaction")将即将受到的攻击伤害减半。
 
-## 硬核难度属性
-
-### 等级
-
-7
-
-### 生命值
-
-70
-
-### 护甲等级
-
-18
-
-### 先攻
-
-+4
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 1 | 4 | 0 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [反射闪避](Evasion.md "反射闪避")
-
-成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
-
-可以使用[反应](Reaction.md "Reaction")将即将受到的攻击伤害减半。
-
-## 技术细节
-
-###
-
-UID
-
-`S_WYR_SharessCaress_BoastingCrooks_RivingtonRat` ###
-
-UUID
-
-`59f97331-f6bc-45b5-bf21-03ea4341e99e` ###
-
-属性
-
-`WYR_SharessCaress_Dwarf_Rogue` **埃尔斯邦**是[利文顿老鼠](Rivington_rats.md "Rivington rats")的一名[矮人](Dwarf.md "Dwarf")成员，正在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")拜访。他可以在那里找到与[博格斯·阿拉明](Borgus_Elamin.md "Borgus Elamin")窃窃私语。
+**埃尔斯邦**是[利文顿老鼠](Rivington_rats.md "Rivington rats")的一名[矮人](Dwarf.md "Dwarf")成员，正在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")拜访。他可以在那里找到与[博格斯·阿拉明](Borgus_Elamin.md "Borgus Elamin")窃窃私语。
 
 > “
 >

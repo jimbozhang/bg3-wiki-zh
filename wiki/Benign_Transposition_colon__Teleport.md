@@ -16,18 +16,6 @@
 范围：9米（30英尺）
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_BenignTransposition_Teleport`
-
-`Target_LOW_BhaalCultist_BenignTransposition`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：王车易位：已消耗
 
 **[王车易位：已消耗](Benign_Transposition_colon__Spent_(Condition).md "王车易位：已消耗 (状态)")**

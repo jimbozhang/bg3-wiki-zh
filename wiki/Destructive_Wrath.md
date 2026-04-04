@@ -11,18 +11,6 @@
 消耗
 [引导神力](Channel_Divinity_Charge.md "引导神力")
 
-## 技术细节
-
-UID
-
-`Interrupt_DestructiveWrath`
-
-反应
-
-`DestructiveWrath`
-
-授予该反应的被动特性
-
 ## 如何习得
 
 职业：

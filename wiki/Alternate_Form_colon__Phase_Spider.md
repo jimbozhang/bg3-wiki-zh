@@ -13,16 +13,6 @@
 详情
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_END_DevilishOX_AlternateForm_PhaseSpider`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 状态：切换形态：相位蜘蛛
 
 **[切换形态：相位蜘蛛](Alternate_Form_colon__Phase_Spider_(Condition).md "切换形态：相位蜘蛛（状态）")**

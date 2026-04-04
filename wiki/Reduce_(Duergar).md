@@ -21,16 +21,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_Reduce_Duergar`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：缩小（灰矮人）
 
 **\_(状态)[缩小](Reduced_(Duergar)_(Condition).md "缩小（灰矮人）（状态）")**

@@ -16,12 +16,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_PactOfTheBlade_Hexblade_Maul`
-
 ## 物品：誓缚巨锤
 
 [誓缚巨锤](Pactbound_Maul.md "誓缚巨锤") – 持续时间：永久

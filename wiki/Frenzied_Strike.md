@@ -25,16 +25,6 @@
 射程：正常武器射程
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_FrenziedStrike`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：发狂昏迷
 
 **[发狂昏迷](Frenzied_Strain_(Condition).md "发狂昏迷（状态）")**

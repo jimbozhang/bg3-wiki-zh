@@ -14,12 +14,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_Fury_Gnoll_Unlock`
-
 ## 状态：怒气冲天
 
 **[怒气冲天](Frenzied_Fury_(Condition).md "怒气冲天 (状态)")**

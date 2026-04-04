@@ -19,16 +19,6 @@
 详情
 射程：30 米（100 英尺）
 
-## 技术细节
-
-UID
-
-`Shout_WitchBolt_Activate`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 如何习得
 
 由法术授予：

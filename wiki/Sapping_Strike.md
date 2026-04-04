@@ -20,16 +20,6 @@
 近战徒手[攻击掷骰](攻击掷骰.md "攻击掷骰")
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_LOW_GithyankiProdigy_MentalImage_PsychicPunch`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：灵能吸取
 
 **[灵能吸取](灵能吸取_(状态).md "灵能吸取 (状态)")**

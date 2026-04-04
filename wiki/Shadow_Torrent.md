@@ -15,16 +15,6 @@
 射程：18米（60英尺）
 拉拽距离：6米（20英尺）
 
-## 技术细节
-
-UID
-
-`Target_TWN_ShadowTorrent`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由生物使用：[中空护甲](Hollow_Armour.md "中空护甲")

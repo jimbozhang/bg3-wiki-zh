@@ -15,16 +15,6 @@
 范围：5米（17英尺）锥形
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Zone_Mephit_MudBreath`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：泥泞
 
 **[泥泞](Muddy_(Condition).md "泥泞（状态）")**

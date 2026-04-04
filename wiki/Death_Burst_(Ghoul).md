@@ -18,16 +18,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving_throws")（[DC](DC.md "DC") 15）（豁免成功时：目标仍承受一半伤害。）
 范围效果：3 米（10 英尺）半径
 
-## 技术细节
-
-UID
-
-`Projectile_DeathBurst_Ghoul`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[食尸鬼 (死亡之舞)](Ghoul_(Danse_Macabre).md)

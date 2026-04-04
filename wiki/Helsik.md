@@ -1,350 +1,43 @@
 # 赫尔希克
 
-## 赫尔希克
-
-玛门的开锁匠
-九层地狱的守门人
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Alex Tregear](https://www.imdb.com/name/nm2587402/)
-
-### 角色
-
-[商人](Trader.md "Trader")
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "Baldur's Gate")
-
-### 职业
-
-[魔鬼的小费](Devil's_Fee.md "Devil's Fee") 的所有者
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[黄金矮人](Dwarf.md#Gold_Dwarves "Dwarf")
-
-### 职业
-
-[邪术师](Warlock.md "Warlock")
-
-### 副职
-
-[邪魔](The_Fiend.md "The Fiend") (玛门)
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-96
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 力量 | 敏捷 | 体质 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- |
-|  | 14 / (+2) | 14 / (+2) | 16 / (+3) | 16 / (+3) | 18 / (+4) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Alex Tregear](https://www.imdb.com/name/nm2587402/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 12 |
+| 生命值 | 96 |
+| 护甲等级 | 12 |
+| 先攻 | +2 |
+| 经验值 | 400 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
-- - ## 额外资源
+## 状态
 
-- - ## 状态
-
-- [**邪魔体魄：光耀**](Fiendish_Resilience_colon__Radiant_(Condition).md "邪魔体魄：光耀 (状态)")
+- [邪魔体魄：光耀](Fiendish_Resilience_colon__Radiant_(Condition).md "邪魔体魄：光耀 (状态)")
 
   - 你拥有对 ⁠[光耀](Radiant.md "光耀") 伤害的 [抗性](Resistance.md "Resistance")。
-
-## 特性
-
-- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
-
-将 [魅力](Charisma.md "Charisma") 调整值加入 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 伤害。
-
-- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
-
-召唤你的宗主改变命运，为一次 [属性检定](Ability_Check.md "Ability Check") 增加 1d10。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在一定距离内在黑暗中视物。
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-能在黑暗中视物，包括魔法黑暗，最远 24 米 (80 英尺)。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 拥有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害拥有 [抗性](Resistance.md "Resistance")。
-
-- [魔能短矛](Eldritch_Spear.md "魔能短矛")
-
-你的 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 范围增加一半。
-
-- [传染贪婪](Infectious_Greed.md "传染贪婪")
-
-被玛门提供给最虔诚信徒的财富所诱惑，此生物周围的所有盟友都会受到 [传染贪婪](Infectious_Greed_(Condition).md "传染贪婪 (状态)") 的影响。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
-
-[魔能爆](Eldritch_Blast.md "Eldritch Blast") 可将一个生物推开最多 4.5 米 (15 英尺)。
-
-## 探索者难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-67
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 力量 | 敏捷 | 体质 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- |
-|  | +2 | +2 | +3 | +7 | +8 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
-- - ## 额外资源
+## 状态
 
-- - ## 状态
-
-- [**邪魔体魄：光耀**](Fiendish_Resilience_colon__Radiant_(Condition).md "邪魔体魄：光耀 (状态)")
+- [邪魔体魄：光耀](Fiendish_Resilience_colon__Radiant_(Condition).md "邪魔体魄：光耀 (状态)")
 
   - 你拥有对 ⁠[光耀](Radiant.md "光耀") 伤害的 [抗性](Resistance.md "Resistance")。
-
-## 特性
-
-- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
-
-将 [魅力](Charisma.md "Charisma") 调整值加入 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 伤害。
-
-- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
-
-召唤你的宗主改变命运，为一次 [属性检定](Ability_Check.md "Ability Check") 增加 1d10。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在一定距离内在黑暗中视物。
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-能在黑暗中视物，包括魔法黑暗，最远 24 米 (80 英尺)。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 拥有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害拥有 [抗性](Resistance.md "Resistance")。
-
-- [魔能短矛](Eldritch_Spear.md "魔能短矛")
-
-你的 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 范围增加一半。
-
-- [传染贪婪](Infectious_Greed.md "传染贪婪")
-
-被玛门提供给最虔诚信徒的财富所诱惑，此生物周围的所有盟友都会受到 [传染贪婪](Infectious_Greed_(Condition).md "传染贪婪 (状态)") 的影响。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
-
-[魔能爆](Eldritch_Blast.md "Eldritch Blast") 可将一个生物推开最多 4.5 米 (15 英尺)。
-
-## 硬核难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-124
-
-### 护甲等级
-
-12
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-400
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 2 | 2 | 3 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
-- - ## 额外资源
+## 状态
 
-- - ## 状态
-
-- [**邪魔体魄：光耀**](Fiendish_Resilience_colon__Radiant_(Condition).md "邪魔体魄：光耀 (状态)")
+- [邪魔体魄：光耀](Fiendish_Resilience_colon__Radiant_(Condition).md "邪魔体魄：光耀 (状态)")
 
   - 你拥有对 ⁠[光耀](Radiant.md "光耀") 伤害的 [抗性](Resistance.md "Resistance")。
 
-## 特性
-
-- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
-
-将 [魅力](Charisma.md "Charisma") 调整值加入 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 伤害。
-
-- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
-
-召唤你的宗主改变命运，为一次 [属性检定](Ability_Check.md "Ability Check") 增加 1d10。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在一定距离内在黑暗中视物。
-
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-
-能在黑暗中视物，包括魔法黑暗，最远 24 米 (80 英尺)。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 拥有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害拥有 [抗性](Resistance.md "Resistance")。
-
-- [魔能短矛](Eldritch_Spear.md "魔能短矛")
-
-你的 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 范围增加一半。
-
-- [传染贪婪](Infectious_Greed.md "传染贪婪")
-
-被玛门提供给最虔诚信徒的财富所诱惑，此生物周围的所有盟友都会受到 [传染贪婪](Infectious_Greed_(Condition).md "传染贪婪 (状态)") 的影响。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
-
-[魔能爆](Eldritch_Blast.md "Eldritch Blast") 可将一个生物推开最多 4.5 米 (15 英尺)。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_DevilsFee_Helsik` ###
-
-UUID
-
-`299a1c00-ff53-415e-ad8e-9bcbbae55597` ###
-
-Stats
-
-`LOW_DevilsFee_Helsik` **赫尔希克** 是一名魔鬼信徒，在 [博德之门](Baldur's_Gate.md "Baldur's Gate") 的 [下城区](Lower_City.md "Lower City") 拥有 [魔鬼的小费](Devil's_Fee.md "Devil's Fee")，时间处于 [第三幕](Act_Three.md "Act Three")。她交易魔法装备、炼金材料、染料、药水和卷轴。作为一名魔鬼信徒，赫尔希克还能打开通往 [九层地狱](Nine_Hells.md "Nine Hells") 的传送门。
+**赫尔希克** 是一名魔鬼信徒，在 [博德之门](Baldur's_Gate.md "Baldur's Gate") 的 [下城区](Lower_City.md "Lower City") 拥有 [魔鬼的小费](Devil's_Fee.md "Devil's Fee")，时间处于 [第三幕](Act_Three.md "Act Three")。她交易魔法装备、炼金材料、染料、药水和卷轴。作为一名魔鬼信徒，赫尔希克还能打开通往 [九层地狱](Nine_Hells.md "Nine Hells") 的传送门。
 
 > “
 >

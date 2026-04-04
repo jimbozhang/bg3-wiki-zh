@@ -15,16 +15,6 @@
 详情
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_Burrow_DarkVine`
-
-法术标志
-
-`[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell_flag\) \(page does not exist\)")`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell_flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 生物使用：[幽影潜行者](Shadow_Creeper.md "幽影潜行者")和[巨型幽影潜行者](Giant_Shadow_Creeper.md "巨型幽影潜行者")

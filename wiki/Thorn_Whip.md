@@ -26,16 +26,6 @@
 - 在 [角色等级](Character_level.md "角色等级") 5 时，伤害增加至 2d6⁠⁠[穿刺](Piercing.md "穿刺")。
 - 在角色等级 10 时，伤害增加至 3d6⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Target_ThornWhip`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业:

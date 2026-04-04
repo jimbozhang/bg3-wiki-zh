@@ -14,18 +14,6 @@
 范围：10米（33英尺）
 充能：每场战斗一次
 
-## 技术细节
-
-UID
-
-`ProjectileStrike_ExplosiveRetribution`
-
-实际动作
-
-`Interrupt_ExplosiveRetribution_Orthon`
-
-触发该动作的反应
-
 ## 物品：血甲魔炸弹
 
 [血甲魔炸弹](Orthonic_Handbomb.md "血甲魔炸弹")（14枚）– 持续时间：1驱散

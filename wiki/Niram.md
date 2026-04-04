@@ -1,324 +1,37 @@
 # 尼拉姆
 
-## 狂热信徒尼拉姆
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [卓尔](Drow.md "卓尔") |
+| 等级 | 8 |
+| 生命值 | 70 |
+| 护甲等级 | 18 |
+| 先攻 | 0 |
+| 经验值 | 140 |
 
-- 游戏内
-- 模型
-- 肖像画
+## 状态
 
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/)
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "至上真神教")
-
-### 职业
-
-守卫
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[卓尔](Drow.md "卓尔")
-
-### 亚种
-
-[罗丝誓约卓尔](Lolth-Sworn_Drow.md "罗丝誓约卓尔")
-
-### 原型
-
-[至上真神狂热信徒](Zealot_of_the_Absolute.md "至上真神狂热信徒")
-
-### 职业
-
-[圣武士](Paladin.md "圣武士")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-70
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
 该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的 [魅力](Charisma.md "魅力") 调整值作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
-## 特性
+## 状态
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "疾病") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗 [魅惑](Charmed_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")；免疫魔法 [沉睡](Sleeping_(Condition).md) 效果。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 检定具有 [劣势](Disadvantage.md "劣势")。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-49
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +7 | +3 | +6 | +2 | +6 | +9 |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
 该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的 [魅力](Charisma.md "魅力") 调整值作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
-## 特性
+## 状态
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "疾病") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗 [魅惑](Charmed_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")；免疫魔法 [沉睡](Sleeping_(Condition).md) 效果。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 检定具有 [劣势](Disadvantage.md "劣势")。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-91
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 4 | 0 | 0 |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
 该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的 [魅力](Charisma.md "魅力") 调整值作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "疾病") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗 [魅惑](Charmed_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")；免疫魔法 [沉睡](Sleeping_(Condition).md) 效果。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
-
-如果你用 [借机攻击](Opportunity_Attack.md "借机攻击") 命中敌人，你的 [移动速度](Movement_speed.md "移动速度") 在下一回合增加 4.5 米 / 15 英尺。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 检定具有 [劣势](Disadvantage.md "劣势")。
-
-## 技术
-
-###
-
-UID
-
-`S_MOO_ExecutionGuard_002` ###
-
-UUID
-
-`9500dd35-4b5b-4634-bdfd-c6cdd91bd6b5` ###
-
-属性
-
-`MOO_ZealotOfTheAbsolute_Drow` **狂热信徒尼拉姆** 在 [第二幕](Act_Two.md "第二幕") 期间驻守在 [月出之塔](Moonrise_Towers.md "月出之塔") 王座厅的东侧。
+**狂热信徒尼拉姆** 在 [第二幕](Act_Two.md "第二幕") 期间驻守在 [月出之塔](Moonrise_Towers.md "月出之塔") 王座厅的东侧。
 
 > “
 >

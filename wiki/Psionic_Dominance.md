@@ -14,18 +14,6 @@
 范围：18米（60英尺）
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_TAD_PsionicDominance`
-
-动作组件
-
-`Interrupt_TAD_PsionicDominance`
-
-反应组件
-
 ## 学习方式
 
 生物使用：[部分灵吸怪](Partial-illithid.md "部分灵吸怪")

@@ -29,16 +29,6 @@
 - 在8级时，此额外伤害变为1d8⁠⁠[穿刺](Piercing.md "穿刺")。
 - 在12级时，此额外伤害变为1d10⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Rush_Rush_DeepRothe`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏 (状态)")**

@@ -24,16 +24,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：当 [月华之光](Moonbeam.md "Moonbeam") 以 3 环或更高法术位施放时，此伤害也会因每个高于 2 环的法术位而额外增加 1d10⁠⁠[光耀](Radiant.md "Radiant")。
 
-## 技术细节
-
-UID
-
-`Target_Moonbeam_Move`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 由以下法术提供：

@@ -30,16 +30,6 @@
 
 当使用4级或更高等级的法术位施放此法术时，每比3级法术位高一级，伤害增加1d8[光耀](Radiant.md "Radiant")伤害。
 
-## 技术细节
-
-UID
-
-`Shout_SpiritGuardians_Radiant`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：精魂守卫灵光
 
 **[精魂守卫灵光](Spirit_Guardians_Aura_(Condition).md "Spirit Guardians Aura (Condition)")**

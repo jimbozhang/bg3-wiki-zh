@@ -18,7 +18,7 @@
 
 - - - - - ## 状态
 
-- [**中级坚韧**](Medium_Toughness_(Condition).md "中级坚韧 (状态)")
+- [中级坚韧](Medium_Toughness_(Condition).md "中级坚韧 (状态)")
 
   - 此材质异常坚固。只有造成至少22点伤害的攻击才能对其造成伤害。
 

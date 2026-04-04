@@ -1,60 +1,14 @@
 # 格灵哥斯·索姆
 
-## 格灵哥斯·索姆
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Penelope Rawlins](https://www.imdb.com/name/nm2857799/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [不死生物](Undead.md "不死生物") |
+| 种族 | [不死生物](Undead.md "不死生物") |
 
-受诅咒的金币守护者
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Penelope Rawlins](https://www.imdb.com/name/nm2857799/)
-
-### 家族
-
-[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")([1](#cite_note-1))
-[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")
-[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")
-[伊索贝尔·索姆](Isobel_Thorm.md "伊索贝尔·索姆")
-
-### 家乡
-
-[雷斯文小镇](Reithwin_Town.md "雷斯文小镇")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[不死生物](Undead.md "不死生物")
-
-### 种族
-
-[不死生物](Undead.md "不死生物")
-
-## 技术信息
-
-###
-
-UID
-
-`S_TWN_Tollhouse_TollhouseMaster` ###
-
-UUID
-
-`3b460226-8ca2-4bbc-9bd7-8bb947aa2c06` ###
-
-属性
-
-`TollCollector` **格灵哥斯·索姆**是一个独特的智能不死生物，[雷斯文征税所](Reithwin_Tollhouse.md "雷斯文征税所")的征税官。
+**格灵哥斯·索姆**是一个独特的智能不死生物，[雷斯文征税所](Reithwin_Tollhouse.md "雷斯文征税所")的征税官。
 
 > “
 >

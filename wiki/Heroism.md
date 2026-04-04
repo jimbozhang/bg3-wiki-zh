@@ -20,16 +20,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比一级法术位高一环，可影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_Heroism`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：英雄气概
 
 **[英雄气概](Heroism_(Condition).md "英雄气概 (状态)")**

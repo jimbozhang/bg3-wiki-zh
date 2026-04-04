@@ -26,16 +26,6 @@
 - 等级8时：+1d8⁠[挥砍](Slashing.md "挥砍")
 - 等级12时：+1d10⁠[挥砍](Slashing.md "挥砍")
 
-## 技术细节
-
-UID
-
-`Target_RipandShred_SaberTooth_Tiger`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：碎甲
 
 **[碎甲](Shredded_Armour_(Condition).md "碎甲（状态）")**

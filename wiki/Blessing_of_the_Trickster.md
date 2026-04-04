@@ -16,16 +16,6 @@
 范围：1.5米（5英尺）
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_BlessingOfTheTrickster`
-
-法术标志
-
-`[隐形](Invisible_(spell_flag).md)`, `[专注](IsConcentration_(spell_flag).md)`, `[近战](IsMelee_(spell_flag).md)`
-
 ## 状态：诡术祝福
 
 **[诡术祝福](Blessing_of_the_Trickster_(Condition).md "诡术祝福 (状态)")**

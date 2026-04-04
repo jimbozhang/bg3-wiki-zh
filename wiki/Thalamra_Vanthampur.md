@@ -1,40 +1,11 @@
 # 塔拉姆拉·凡坦普尔
 
-## 塔拉姆拉·凡坦普尔
-
-公爵
-
-### 身份
-
-女性
-
-### 家族
-
-[瑟斯特威尔·凡坦普尔](Vanthampur.md "Vanthampur") (儿子)
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-### 职业
-
-[四人议会](Category_colon_Council_of_Four.md "Category:Council of Four") 成员
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-已故的公爵塔拉姆拉·凡坦普尔是[四人议会](https://forgottenrealms.fandom.com/wiki/Council_of_Four)的成员。
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
 
 ## 相关事件
 

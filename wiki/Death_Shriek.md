@@ -18,16 +18,6 @@
 范围：自身
 范围效果：4米（13英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_Necrotic_TollCollector_Face`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 生物使用：[阴森面容](Grim_Visage.md "阴森面容")

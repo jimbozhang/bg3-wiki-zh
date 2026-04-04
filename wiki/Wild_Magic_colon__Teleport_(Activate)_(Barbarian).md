@@ -16,12 +16,6 @@
 范围：18 米（60 英尺）
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Shout_WildMagicBarbarian_Teleport_Activate`
-
 ## 如何习得
 
 职业：

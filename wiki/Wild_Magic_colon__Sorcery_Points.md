@@ -11,12 +11,6 @@
 详情
 目标：自身
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_SorceryPoints`
-
 ## 状态：狂野魔法：术法点
 
 **[狂野魔法：术法点](Wild_Magic_colon__Sorcery_Points_(Condition).md "狂野魔法：术法点（状态）")**

@@ -11,12 +11,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_TAD_DisplacerBeast_Dismiss`
-
 ## 如何学习
 
 由以下法术授予：

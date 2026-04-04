@@ -13,16 +13,6 @@
 详情
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 
-## 技术细节
-
-UID
-
-`Shout_Terrifying_Howl`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "Frightened (Condition)")**

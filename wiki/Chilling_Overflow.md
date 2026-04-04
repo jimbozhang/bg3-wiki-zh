@@ -18,12 +18,6 @@
 范围：自身
 范围效果：5 米（17 英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_MixChangeExplosion_Cold_Brewer`
-
 ## 状态：寒冰酿
 
 **[寒冰酿](Cold_Brew_(Condition).md "寒冰酿（状态）")**

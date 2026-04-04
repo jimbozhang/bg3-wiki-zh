@@ -17,16 +17,6 @@
 详情
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Light`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：光亮
 
 **[光亮](Light_(Condition).md "光亮（状态）")**

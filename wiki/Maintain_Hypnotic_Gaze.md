@@ -14,16 +14,6 @@
 近战：1.5米（5英尺）
 目标：受[催眠凝视](Hypnotic_Gaze_(Condition).md "催眠凝视（状态）")影响的生物
 
-## 技术细节
-
-UID
-
-`Target_HypnoticGaze_Maintain`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 状态：催眠凝视
 
 **[催眠凝视](Hypnotic_Gaze_(Condition).md "催眠凝视（状态）")**

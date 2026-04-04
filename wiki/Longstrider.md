@@ -18,16 +18,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每比1环高一环的法术位，可影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_Longstrider`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnorePreviouslyPickedEntities](IgnorePreviouslyPickedEntities_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：大步奔行
 
 **[大步奔行](Longstrider_(Condition).md "大步奔行 (状态)")**

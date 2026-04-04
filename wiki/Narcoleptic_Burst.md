@@ -13,16 +13,6 @@
 范围：6米（20英尺）半径
 目标：生物
 
-## 技术细节
-
-UID
-
-`Projectile_NarcolepticBurst`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：沉睡
 
 **[沉睡](Sleeping_(Condition).md "沉睡（状态）")**

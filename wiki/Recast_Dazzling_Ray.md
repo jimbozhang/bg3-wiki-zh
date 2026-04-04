@@ -21,16 +21,6 @@
 范围效果：18米（60英尺）直线
 必须[熟练](熟练项.md#武器熟练项 "熟练项")该武器
 
-## 技术细节
-
-UID
-
-`Zone_MAG_Automaton_SunbeamShot_Recreate`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：目盲
 
 **[目盲](目盲_(状态).md "目盲 (状态)")**

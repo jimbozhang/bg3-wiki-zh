@@ -1,91 +1,18 @@
 # 赛孚
 
-## 赛孚
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Aliona Baranova](https://www.imdb.com/name/nm8488103/)
-
-### 阵营
-
-[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
-
-### 故乡
-
-[艾尔图瑞尔](Elturel.md "Elturel")（原）
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-### 亚种
-
-[梅菲斯特提夫林](Mephistopheles_Tiefling.md "Mephistopheles tiefling")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-8
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Aliona Baranova](https://www.imdb.com/name/nm8488103/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 1 |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 1 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -103,47 +30,21 @@
 
 攻击离开触及范围的敌人。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 等级
+- ## 特性
 
-1
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 生命值
+能在一定距离内于黑暗中视物。
 
-5
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-### 护甲等级
+[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-10
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
+攻击离开触及范围的敌人。
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -161,79 +62,7 @@
 
 攻击离开触及范围的敌人。
 
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-10
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在一定距离内于黑暗中视物。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_DEN_Protester_003` ###
-
-UUID
-
-`650d1cdc-fff6-49f0-aaa2-0a10bcf89abf` ###
-
-属性
-
-`Tiefling_Commoner` **赛孚**是寻求在[翠绿林地](Emerald_Grove.md "Emerald Grove")避难的提夫林难民之一，出现在[第一幕](Act_One.md "Act One")。
+**赛孚**是寻求在[翠绿林地](Emerald_Grove.md "Emerald Grove")避难的提夫林难民之一，出现在[第一幕](Act_One.md "Act One")。
 
 > “
 >

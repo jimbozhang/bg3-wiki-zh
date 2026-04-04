@@ -22,16 +22,6 @@
 范围效应：14米（47英尺）半径
 充能：每次战斗
 
-## 技术细节
-
-UID
-
-`Shout_Needlestorm_DarkVine_Giant`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[巨型幽影潜行者](Giant_Shadow_Creeper.md "巨型幽影潜行者")

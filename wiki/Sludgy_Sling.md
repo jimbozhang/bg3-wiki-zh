@@ -21,22 +21,6 @@
 目标：半径内所有其他生物
 创建区域：泥巴
 
-## 技术细节
-
-UID
-
-`Shout_MudSlap_Myrmidon_Earth`
-
-NPC和召唤物使用的版本
-
-`Shout_MudSlap_Wildshape_Myrmidon_Earth`
-
-荒野形态中使用的版本，造成魔法伤害
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`
-
 ## 区域：泥巴
 
 **[泥巴](Mud.md "泥巴")**

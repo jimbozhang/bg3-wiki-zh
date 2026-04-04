@@ -23,16 +23,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每升一环，额外造成1d6[黯蚀](Necrotic.md "黯蚀")伤害。
 
-## 技术细节
-
-UID
-
-`Shout_ArmsOfHadar`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：哈达之臂
 
 **[哈达之臂](Arms_of_Hadar_(Condition).md "哈达之臂 (状态)")**

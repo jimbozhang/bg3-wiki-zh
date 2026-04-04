@@ -23,16 +23,6 @@
 
 当以更高环数施放时，恢复量将比1环法术位每高一环增加+1d8⁠⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-UID
-
-`Shout_WildShape_Combat_Heal`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 职业：

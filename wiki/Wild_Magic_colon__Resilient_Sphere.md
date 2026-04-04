@@ -6,12 +6,6 @@
 
 将自己包裹在一个奥术法球中。你不会受到来自法球外部的攻击或效果的伤害，也无法对法球外部的任何事物造成伤害。[移动速度](Movement_speed.md "移动速度") 减半。
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_ResilientSphere`
-
 ## 状态：欧提路克弹力法球
 
 **[欧提路克弹力法球](Otiluke's_Resilient_Sphere_(Condition).md "欧提路克弹力法球（状态）")**

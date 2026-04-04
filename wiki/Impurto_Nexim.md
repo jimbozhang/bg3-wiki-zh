@@ -1,109 +1,20 @@
 # 因普托·尼克西姆
 
-## 因普托·尼克西姆
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Roger Ringrose](https://www.imdb.com/name/nm1403331/) |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [半身人](Halfling.md "Halfling") |
+| 等级 | 3 |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 1 |
 
-- 游戏内
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Roger Ringrose](https://www.imdb.com/name/nm1403331/)
-
-## 属性
-
-### 体型
-
-[小型](Small.md "Small")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[半身人](Halfling.md "Halfling")
-
-### 亚种
-
-[轻足半身人](Lightfoot_Halfling.md "Lightfoot halfling")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-8
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 特性
-
-- [勇敢](Brave.md "勇敢")
-
-对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving_throws")具有[优势](Advantage.md "Advantage")。
-
-- [半身人幸运](Halfling_Luck.md "半身人幸运")
-
-在进行[攻击掷骰](Attack_roll.md "Attack_roll")、[属性检定](Ability_Check.md "Ability_check")或[豁免检定](Saving_throw.md "Saving_throw")时掷出1点，可重掷一次并使用新结果。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 技术信息
-
-###
-
-UID
-
-`S_LOW_Noble_002` ###
-
-UUID
-
-`0a721bf1-ebb5-4ea3-98f2-1d53229a5325` ###
-
-属性
-
-`Halfling_Commoner` **因普托·尼克西姆**是一位[半身人](Halfling.md "Halfling")贵族，可能出现在[下城区](Lower_City.md "Lower City")的[迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "Lady_Jannath's Estate")厨房中。
+**因普托·尼克西姆**是一位[半身人](Halfling.md "Halfling")贵族，可能出现在[下城区](Lower_City.md "Lower City")的[迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "Lady_Jannath's Estate")厨房中。
 
 > “
 >

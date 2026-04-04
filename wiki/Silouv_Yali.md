@@ -1,28 +1,11 @@
 # 西洛夫·亚利
 
-## 西洛夫·亚利
-
-### 身份
-
-男性
-
-### 阵营
-
-[莎尔教会](Church_of_Shar.md "Church of Shar")
-
-## 属性
-
-### 体型
-
-[小型](Small.md "Small")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[侏儒](Gnome.md "Gnome")
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 体型 | [小型](Small.md "Small") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [侏儒](Gnome.md "Gnome") |
 
 **西洛夫·亚利**是一位以法师天赋闻名的侏儒。他被莎尔祭司安萨尔姐妹转化为[莎尔](Shar.md "Shar")信仰者，并向其信徒传授了锻造[精金](Adamantine.md "Adamantine")的秘密。
 

@@ -25,16 +25,6 @@
 
 以更高环阶施法此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_DestructiveWave`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [湮灭波：黯蚀](Destructive_Wave_colon__Necrotic.md "湮灭波：黯蚀")

@@ -17,12 +17,6 @@
 作用范围：3米（10尺）半径
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_AuraOf_Terror`
-
 ## 状态：恐怖灵光（灵光）
 
 **\_(状态)[恐怖灵光](Aura_of_Terror_(Aura)_(Condition).md "恐怖灵光（灵光）（状态）")**

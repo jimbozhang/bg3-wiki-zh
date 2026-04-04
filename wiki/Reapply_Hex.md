@@ -22,16 +22,6 @@
 范围：18米（60英尺）
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_Hex_Reapply`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 变体
 
 - [再度诅咒（力量）](Reapply_Hex_(Strength).md "再度诅咒（力量）")

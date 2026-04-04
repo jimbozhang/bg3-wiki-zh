@@ -18,16 +18,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_GreaseWizard_ConvertCorpse`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：岩浆魔蝠
 
 | [力量](Strength.md "力量") 8 (-1) | [敏捷](Dexterity.md "敏捷") 12 (+1) | [体质](Constitution.md "体质") 12 (+1) | [智力](Intelligence.md "智力") 7 (-2) | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |

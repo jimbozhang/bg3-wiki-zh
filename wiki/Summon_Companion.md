@@ -27,16 +27,6 @@
 
 所有伙伴在游侠等级3、5、7和11时分别习得被动[猎物的气味](Prey's_Scent.md "猎物的气味")、[伙伴羁绊](Companion's_Bond.md "伙伴羁绊")、[训练有素](Exceptional_Training.md "训练有素")和[兽性狂怒](Bestial_Fury.md "兽性狂怒")。
 
-## 技术细节
-
-UID
-
-`Target_RangersCompanion`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 变体
 
 - [熊伙伴](Bear_Companion.md "熊伙伴")

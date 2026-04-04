@@ -24,16 +24,6 @@
 创造区域：地狱火
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Zone_MAG_Automaton_Human_Steelwatcher_HellfireCleave`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：翻腾地狱火
 
 **[翻腾地狱火](Roiling_Hellfire_(Condition).md "翻腾地狱火 (状态)")**

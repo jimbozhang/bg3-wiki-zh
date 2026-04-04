@@ -30,16 +30,6 @@
 
 当使用 4级或更高级法术位施放此法术时，伤害增加 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic")，每高于 3级一个法术位等级增加一次。
 
-## 技术细节
-
-UID
-
-`Shout_SpiritGuardians_Necrotic`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：精魂守卫灵光
 
 **[精魂守卫灵光](Spirit_Guardians_Aura_(Condition).md "Spirit Guardians Aura (Condition)")**

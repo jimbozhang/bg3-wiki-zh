@@ -23,16 +23,6 @@
 击退：4 米（13 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Zone_Cleave_Apostle`
-
-法术标志
-
-`[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒")

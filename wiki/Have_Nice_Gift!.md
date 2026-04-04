@@ -13,16 +13,6 @@
 详情
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_LOW_Dog_Ghost_PreyOffering_1`
-
-法术标志
-
-`[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：捕食者精华
 
 **[捕食者精华](Predator_Essence_(Condition).md "捕食者精华（状态）")**

@@ -1,39 +1,11 @@
 # 皮肤松弛的脑袋
 
-## 皮肤松弛的脑袋
+| | |
+| --- | --- |
+| 配音 | - [Ellie Heydon](https://www.imdb.com/name/nm8703995/) |
+| 种族 | 精灵 |
 
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [Ellie Heydon](https://www.imdb.com/name/nm8703995/)
-
-### 角色
-
-大脑读取器
-
-## 属性
-
-### 种族
-
-精灵
-
-## 技术
-
-###
-
-UID
-
-`S_COL_BrainReader_Head_Character` ###
-
-UUID
-
-`034ec7e7-948b-4c1e-9a38-82efbe459ee4` ###
-
-属性
-
-`Elf_Commoner` **皮肤松弛的脑袋**和大脑档案室接口可以在击败[死亡牧者](Death_Shepherd.md "死亡牧者")、一些飞天恐魔和各种僵尸后，在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中并排找到。
+**皮肤松弛的脑袋**和大脑档案室接口可以在击败[死亡牧者](Death_Shepherd.md "死亡牧者")、一些飞天恐魔和各种僵尸后，在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中并排找到。
 
 ## 涉及内容
 

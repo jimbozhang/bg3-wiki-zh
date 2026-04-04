@@ -23,22 +23,6 @@
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰"）
 射程：普通武器射程
 
-## 技术细节
-
-UID
-
-`Target_RecklessAttack`
-
-直接动作
-
-`Interrupt_RecklessAttack`
-
-攻击后反应
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：鲁莽攻击
 
 **[鲁莽攻击](Reckless_Attack_(Condition).md "鲁莽攻击（状态）")**

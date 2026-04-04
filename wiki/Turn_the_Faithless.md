@@ -21,16 +21,6 @@
 目标：作用区域内所有妖精或邪魔生物
 持续时间：3回合
 
-## 技术细节
-
-UID
-
-`Shout_TurnTheFaithless`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：被驱散
 
 **[被驱散](Turned_(Condition).md "被驱散（状态）")**

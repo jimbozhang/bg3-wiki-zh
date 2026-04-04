@@ -24,16 +24,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Bite_Vampire`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：吸过血
 
 **[吸过血](Blood-Sapped_(Condition).md "吸过血 (状态)")**

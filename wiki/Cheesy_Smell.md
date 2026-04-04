@@ -19,12 +19,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_WYR_StinkingCloudCheese`
-
 ## 区域：臭云术
 
 **[臭云术](Stinking_Cloud_(cloud).md "臭云术（云）")**

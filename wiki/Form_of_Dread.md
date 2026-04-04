@@ -16,16 +16,6 @@
 范围：自身
 重置：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_TWN_GithyankiWarlock_FormOfDread`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：恐惧形态
 
 **[恐惧形态](Form_of_Dread_(Condition).md "恐惧形态（状态）")**

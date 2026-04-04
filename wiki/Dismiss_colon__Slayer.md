@@ -11,16 +11,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_DarkUrge_Dismiss`
-
-法术标志
-
-`[Temporary](Temporary_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 通过法术获得：

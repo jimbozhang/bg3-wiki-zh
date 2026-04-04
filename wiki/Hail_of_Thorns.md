@@ -26,16 +26,6 @@
 
 - 当以2环或更高法术位施放此法术时，每比1环高1环，额外范围效果伤害增加1d10[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-唯一标识符
-
-`Projectile_HailOfThorns`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 职业：

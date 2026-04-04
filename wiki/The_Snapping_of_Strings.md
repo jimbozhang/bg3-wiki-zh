@@ -1,66 +1,15 @@
 # 断弦
 
-## 断弦
-
-对策：吟游诗人
-
-- 模型
-- 肖像画
-
-### 阵营
-
-[绝对真神教](Cult_of_the_Absolute.md "绝对真神教")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[异怪](Aberration.md "异怪")
-
-### 种族
-
-[异怪](Aberration.md "异怪")
-
-- 平衡
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-87
-
-### 护甲等级
-
-18
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 14 / (+2) | 15 / (+2) | 11 / (0) | 12 / (+1) | 22 / (+6) |
+| | |
+| --- | --- |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [异怪](Aberration.md "异怪") |
+| 种族 | [异怪](Aberration.md "异怪") |
+| 等级 | 12 |
+| 生命值 | 87 |
+| 护甲等级 | 18 |
+| 先攻 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -70,7 +19,7 @@
 
 - - - - - - ## 特性
 
-- [**诗人激励**](Bardic_Inspiration_(passive_feature).md "诗人激励 (被动特性)")
+- [诗人激励](Bardic_Inspiration_(passive_feature).md "诗人激励 (被动特性)")
 
 可以使用 [诗人激励](Bardic_Inspiration_(class_action)..md)
 
@@ -78,7 +27,7 @@
 
 在长休或短休后恢复所有 [诗人激励](Bardic_Inspiration_(resource).md)。
 
-- [**精通诗人激励**](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励 (被动特性)")
+- [精通诗人激励](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励 (被动特性)")
 
 增加 [诗人激励](Bardic_Inspiration_(class_action).md) 的加值。
 
@@ -86,40 +35,6 @@
 
 攻击离开攻击范围的敌人。
 
-## 硬核难度属性
-
-### 等级
-
-12
-
-### 生命值
-
-113
-
-### 护甲等级
-
-18
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | +6 | +2 | 0 | +1 | +10 |
-
 ## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
@@ -128,7 +43,7 @@
 
 - - - - - - ## 特性
 
-- [**诗人激励**](Bardic_Inspiration_(passive_feature).md "诗人激励 (被动特性)")
+- [诗人激励](Bardic_Inspiration_(passive_feature).md "诗人激励 (被动特性)")
 
 可以使用 [诗人激励](Bardic_Inspiration_(class_action)..md)
 
@@ -136,7 +51,7 @@
 
 在长休或短休后恢复所有 [诗人激励](Bardic_Inspiration_(resource).md)。
 
-- [**精通诗人激励**](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励 (被动特性)")
+- [精通诗人激励](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励 (被动特性)")
 
 增加 [诗人激励](Bardic_Inspiration_(class_action).md) 的加值。
 

@@ -18,16 +18,6 @@
 推动：3 米（10 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Rush_MAG_Barbarian_Armor_Trample`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由物品授予：

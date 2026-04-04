@@ -20,16 +20,6 @@
 
 以此法术升环施法不会获得额外效果。
 
-## 技术细节
-
-UID
-
-`Target_Contagion`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [疫病术：污秽热](Contagion_colon__Filth_Fever.md "Contagion: Filth Fever")

@@ -22,16 +22,6 @@
 近战：1.5 米（5 英尺）
 击退：2 米（7 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Gore_Minotaur`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 生物使用：[牛头人](Minotaur.md "牛头人")

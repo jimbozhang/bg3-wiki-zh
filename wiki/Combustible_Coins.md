@@ -19,16 +19,6 @@
 范围效果：5米（17英尺）半径
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Shout_CoinBomb_TollCollector`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：爆炸金堆
 
 **[爆炸金堆](Explosive_Hoard_(Condition).md "爆炸金堆（状态）")**

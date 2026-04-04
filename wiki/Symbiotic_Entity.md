@@ -21,12 +21,6 @@
 
 在10级时，可以在该形态下施放[传播孢子](Spreading_Spores.md "传播孢子")。
 
-## 技术细节
-
-UID
-
-`Shout_SymbioticEntity`
-
 ## 状态：共生实体
 
 **[共生实体](Symbiotic_Entity_(Condition).md "共生实体（状态）")**

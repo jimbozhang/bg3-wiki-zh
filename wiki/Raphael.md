@@ -1,128 +1,24 @@
 # 拉斐尔
 
-## 拉斐尔
-
-宅邸之主
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Andrew Wincott](https://www.imdb.com/name/nm1218328/)
-
-### 家族
-
-[梅菲斯特](Mephistopheles.md "梅菲斯特") (父亲)
-
-### 家乡
-
-[希望之邸](House_of_Hope.md "House_of_Hope"), [九层地狱](Nine_Hells.md "Nine_Hells")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[邪魔](Fiend.md "Fiend")
-
-### 种族
-
-[坎比翁](Cambion.md "Cambion") / ⁠[魔鬼](https://forgottenrealms.fandom.com/wiki/Devil)
-
-## 技术数据
-
-###
-
-UID
-
-`S_GLO_Monitor` ###
-
-UUID
-
-`f65becd6-5cd7-4c88-b85e-6dd06b60f7b8` ###
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Andrew Wincott](https://www.imdb.com/name/nm1218328/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [邪魔](Fiend.md "Fiend") |
+| 种族 | [坎比翁](Cambion.md "Cambion") / ⁠[魔鬼](https://forgottenrealms.fandom.com/wiki/Devil) |
 
 属性
 
-`GLO_Raphael` ## 变体 1
-
-###
-
-UID
-
-`S_Dummy_Monitor_DevilForm` ###
-
-UUID
-
-`4a4326cc-be91-4903-9bd6-31bbf5a9ff42` ###
+属性
 
 属性
 
-`GLO_Raphael` ## 变体 2
-
-###
-
-UID
-
-`QUEST_Monitor_DevilForm` ###
-
-UUID
-
-`1f9da419-8224-42e8-894a-8907cb978360` ###
+属性
 
 属性
 
-`GLO_Raphael` ## 变体 3
-
-###
-
-UID
-
-`QUEST_Monitor_BeastForm` ###
-
-UUID
-
-`001b64f6-4918-4045-8197-878cf263e893` ###
-
-属性
-
-`LOW_Monitor_BeastForm` ## 变体 4
-
-###
-
-UID
-
-`BASE_Demon_Raphael` ###
-
-UUID
-
-`e7e3c5ee-b26d-43e0-874c-0776a6b20221` ###
-
-属性
-
-`LOW_Monitor_BeastForm` ## 变体 5
-
-###
-
-UID
-
-`LOW_Raphael_MonsterForm` ###
-
-UUID
-
-`f5e9cb22-70c4-46ba-bff8-ed9fe8dfb1c8` ###
-
-属性
-
-`LOW_Raphael_Monster_Form_Stats` > “
+> “
 >
 > 老鼠开心地笑了：它骗过了猫！然后利爪落下，亲爱的，一切都结束了。
 >

@@ -20,16 +20,6 @@
 近战：1.5 米（5 英尺）
 推动：[推击距离](Shove.md#Distance "推击")
 
-## 技术细节
-
-UID
-
-`Target_ShieldShove`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 如何学习
 
 由以下特性提供：

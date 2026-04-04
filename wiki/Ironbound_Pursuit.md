@@ -19,22 +19,6 @@
 近战：1.5米（5英尺）
 击退：2米（7英尺）
 
-## 技术细节
-
-UID
-
-`Target_IronboundPursuit_RedCap`
-
-普通版本，造成3d8伤害
-
-`Target_IronboundPursuit_RedCap_Hardcore`
-
-硬核版本，造成3d10伤害
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

@@ -31,22 +31,6 @@
 - 在 8 级时，此额外伤害变为 1d8⁠⁠[穿刺](Piercing.md "穿刺")。
 - 在 12 级时，此额外伤害变为 1d10⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Target_Gore_DeepRothe`
-
-荒野形态中使用的版本
-
-`Target_Gore_DeepRothe_NPC`
-
-NPC 使用的版本
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9.md "荒野形态：地底洛斯兽")

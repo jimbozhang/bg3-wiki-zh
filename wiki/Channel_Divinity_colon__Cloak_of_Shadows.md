@@ -17,16 +17,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_CloakOfShadows`
-
-法术标志
-
-`[隐形](Invisible_(spell_flag).md)`, `[隐匿](Stealth_(spell_flag).md)`
-
 ## 状态：引导神力：幽影斗篷
 
 **[引导神力：幽影斗篷](Channel_Divinity_colon__Cloak_of_Shadows_(Condition).md "引导神力：幽影斗篷（状态）")**

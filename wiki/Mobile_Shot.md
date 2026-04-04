@@ -20,16 +20,6 @@
 充能：[短休](Short_rest.md "短休")
 必须[熟练](Proficiency.md#Weapon_proficiency "熟练项")使用该武器
 
-## 技术细节
-
-UID
-
-`Projectile_MobileShooting`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 通过[熟练项](Proficiency.md "熟练项")使用以下武器类型获得：

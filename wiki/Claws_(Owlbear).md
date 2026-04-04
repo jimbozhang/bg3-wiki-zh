@@ -27,18 +27,6 @@
 - 在等级 8 时，此额外伤害变为 1d6⁠⁠[挥砍](Slashing.md "挥砍")。
 - 在等级 12 时，此额外伤害变为 1d8⁠⁠[挥砍](Slashing.md "挥砍")。
 
-## 技术细节
-
-UID
-
-`Target_Claws_Owlbear`
-
-`Target_Claws_Owlbear_WildShape`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由以下生物使用：[枭熊](Owlbear.md "枭熊") 和 [荒野形态：枭熊](Wild_Shape_colon__Owlbear.md "荒野形态：枭熊")

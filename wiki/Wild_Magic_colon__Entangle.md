@@ -11,12 +11,6 @@
 详情
 创建区域：扭曲的藤蔓
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Entangle`
-
 ## 区域：扭曲的藤蔓
 
 **[扭曲的藤蔓](Twisting_Vines.md "扭曲的藤蔓")**

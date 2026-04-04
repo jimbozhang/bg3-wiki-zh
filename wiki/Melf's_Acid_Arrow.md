@@ -27,16 +27,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高环位施放此法术时，每比2环高1环，额外造成2d4⁠⁠[强酸](Acid.md "强酸")伤害（命中时1d4⁠⁠[强酸](Acid.md "强酸")，目标回合结束时1d4⁠⁠[强酸](Acid.md "强酸")）。
 
-## 技术细节
-
-UID
-
-`Projectile_AcidArrow`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：马友夫强酸箭
 
 **[马友夫强酸箭](Melf's_Acid_Arrow_(Condition).md "马友夫强酸箭（状态）")**

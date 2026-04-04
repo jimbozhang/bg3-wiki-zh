@@ -22,16 +22,6 @@
 范围效果：4米（13英尺）半径
 充能：每驱散
 
-## 技术细节
-
-UID
-
-`Target_CoinDamage_TollCollector`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(页面不存在\)")`
-
 ## 学习方式
 
 由生物使用：[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")

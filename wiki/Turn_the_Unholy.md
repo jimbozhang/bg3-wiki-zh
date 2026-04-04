@@ -20,16 +20,6 @@
 作用范围：9米（30英尺）半径
 目标：作用范围内的任何不死生物或邪魔
 
-## 技术细节
-
-UID
-
-`Shout_TurnTheUnholy`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：被驱散
 
 **[被驱散](Turned_(Condition).md "被驱散（状态）")**

@@ -17,16 +17,6 @@
 范围：正常武器范围
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_DivineStrike_Nature_Container`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 变体
 
 - [神圣打击：寒冷（近战）](Divine_Strike_colon__Cold_(Melee).md "神圣打击：寒冷（近战）")

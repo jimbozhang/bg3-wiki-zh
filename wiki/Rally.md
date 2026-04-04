@@ -21,16 +21,6 @@
 目标：1名盟友生物
 持续时间：5驱散
 
-## 技术细节
-
-UID
-
-`Target_Rally`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：受鼓舞
 
 **[受鼓舞](Rallied_(Condition).md "受鼓舞（状态）")**

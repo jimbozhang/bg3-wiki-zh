@@ -18,16 +18,6 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_IntimidatingPresence`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 授予
 
 - [维持威慑之姿](Maintain_Intimidating_Presence.md "维持威慑之姿")

@@ -11,12 +11,6 @@
 详情
 目标：自身
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Swap`
-
 ## 状态：狂野魔法：交换
 
 **[狂野魔法：交换](Wild_Magic_colon__Swap_(Condition).md "狂野魔法：交换（状态）")**

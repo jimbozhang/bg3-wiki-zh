@@ -1,349 +1,61 @@
 # 德维拉·方坦海德
 
-## 神使 德维拉·方坦海德
-
-焰拳治安官
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Shala Nyx](https://www.imdb.com/name/nm5964389/)
-
-### 阵营
-
-[焰拳](Flaming_Fist.md "焰拳")
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-### 职业
-
-助理调查员
-
-## 属性
-
-### 体型
-
-[小型](Small.md "小型")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[侏儒](Gnome.md "侏儒")
-
-### 亚种
-
-[岩侏儒](Rock_Gnome.md "岩侏儒")
-
-### 职业
-
-[圣武士](Paladin.md "圣武士")
-
-### 副职
-
-[奉献之誓](Oath_of_Devotion.md "奉献之誓")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-73
-
-### 护甲等级
-
-17
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 10 / (0) | 15 / (+2) | 12 / (+1) | 10 / (0) | 16 / (+3) |
-
-## 额外资源
-
-- - - - - 5
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Shala Nyx](https://www.imdb.com/name/nm5964389/) |
+| 体型 | [小型](Small.md "小型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [侏儒](Gnome.md "侏儒") |
+| 等级 | 10 |
+| 生命值 | 73 |
+| 护甲等级 | 17 |
+| 先攻 | 0 |
+| 经验值 | 250 |
 
 ## 状态
 
-- \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (灵光) (状态)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (灵光) (状态)")
 
 圣武士和附近盟友不会陷入[恐慌](Frightened_(status_group).md)
 
-- \_(状态)[**奉献灵光**](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (灵光) (状态)")
+- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (灵光) (状态)")
 
 圣武士和附近盟友不会陷入[魅惑](Charmed_(status_group)..md)
 
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
 该生物及其3米（10英尺）内的盟友获得该生物的[魅力](Charisma.md "魅力")，作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-
-你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [守护](Protection.md "守护")
-
-当你装备[盾牌](Shields.md "盾牌")时，若你在1.5米（5英尺）内，可对攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能看见该敌人。
-
-- [小步奔行](Shortened_Stride.md "小步奔行")
-
-你的移动速度为 7.5 米 (25 英尺)。
-
-## 探索者难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-51
-
-### 护甲等级
-
-17
-
-### 先攻
-
-0
-
-### 熟练项
-
-+6
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +6 | +3 | +9 | +4 | +3 | +6 |
-
-## 额外资源
-
-- - - - - 5
 
 ## 状态
 
-- \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (灵光) (状态)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (灵光) (状态)")
 
 圣武士和附近盟友不会陷入[恐慌](Frightened_(status_group).md)
 
-- \_(状态)[**奉献灵光**](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (灵光) (状态)")
+- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (灵光) (状态)")
 
 圣武士和附近盟友不会陷入[魅惑](Charmed_(status_group)..md)
 
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
 该生物及其3米（10英尺）内的盟友获得该生物的[魅力](Charisma.md "魅力")，作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-
-你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [守护](Protection.md "守护")
-
-当你装备[盾牌](Shields.md "盾牌")时，若你在1.5米（5英尺）内，可对攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能看见该敌人。
-
-- [小步奔行](Shortened_Stride.md "小步奔行")
-
-你的移动速度为 7.5 米 (25 英尺)。
-
-## 硬核难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-94
-
-### 护甲等级
-
-17
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 3 | 0 | 0 |
-
-## 额外资源
-
-- - - - - 5
 
 ## 状态
 
-- \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (灵光) (状态)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (灵光) (状态)")
 
 圣武士和附近盟友不会陷入[恐慌](Frightened_(status_group).md)
 
-- \_(状态)[**奉献灵光**](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (灵光) (状态)")
+- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (灵光) (状态)")
 
 圣武士和附近盟友不会陷入[魅惑](Charmed_(status_group)..md)
 
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
 该生物及其3米（10英尺）内的盟友获得该生物的[魅力](Charisma.md "魅力")，作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-
-你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [守护](Protection.md "守护")
-
-当你装备[盾牌](Shields.md "盾牌")时，若你在1.5米（5英尺）内，可对攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能看见该敌人。
-
-- [小步奔行](Shortened_Stride.md "小步奔行")
-
-你的移动速度为 7.5 米 (25 英尺)。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_Elfsong_Devella_Fountainhead` ###
-
-UUID
-
-`048defbd-d386-4272-a5b7-40c1a9e75b81` ###
-
-属性
-
-`LOW_DevellaFountainHead` **德维拉·方坦海德**是[焰拳](Flaming_Fist.md "焰拳")的一名治安官，可以在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")调查犯罪现场时找到。
+**德维拉·方坦海德**是[焰拳](Flaming_Fist.md "焰拳")的一名治安官，可以在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")调查犯罪现场时找到。
 
 > “
 >

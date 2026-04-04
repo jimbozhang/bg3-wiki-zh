@@ -21,16 +21,6 @@
 范围：12 米（40 英尺）直线
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Rush_MAG_ZephyrFlash`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血 (状态)")**

@@ -16,26 +16,6 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_TAD_Charm`
-
-由反应触发的动作
-
-`Interrupt_TAD_Charm`
-
-触发动作的反应
-
-`TAD_Charm`
-
-授予反应的被动特性
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：魅惑
 
 **[魅惑](Charmed_(Condition).md "魅惑（状态）")**

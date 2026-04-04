@@ -16,16 +16,6 @@
 范围：自身
 持续时间：2 驱散
 
-## 技术细节
-
-UID
-
-`Shout_Shroud_Self`
-
-法术标志
-
-`[Invisible](Invisible_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 状态：隐形
 
 **[隐形](Invisible_(Condition).md "隐形（状态）")**

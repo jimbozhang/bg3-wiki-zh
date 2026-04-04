@@ -14,16 +14,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_HelpArrives_HookHorror`
-
-法术标志
-
-`[HasSomaticComponent; HasVerbalComponent](https://bg3.wiki/w/index.php?title=HasSomaticComponent;_HasVerbalComponent_\(spell_flag\)&action=edit&redlink=1) "HasSomaticComponent; HasVerbalComponent \(spell flag\) \(page does not exist\)")`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 通过法术授予：

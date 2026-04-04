@@ -25,16 +25,6 @@
 
 - [升环施法](Upcasting.md "升环施法")：以更高的法术位等级施放此法术时，每比1环高1环，额外造成 1d8⁠⁠[火焰](Fire.md "火焰") 伤害。
 
-## 技术细节
-
-UID
-
-`Projectile_ChromaticOrb_Fire`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 区域：火焰
 
 **[火焰](Fire_(surface).md "火焰（地表）")**

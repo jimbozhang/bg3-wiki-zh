@@ -17,18 +17,6 @@
 射程：8米（27英尺）
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Projectile_Net_Kuotoa`
-
-`Projectile_Net_Sahuagin`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：诱捕（渔网）
 
 **\_(状态)[诱捕](Ensnared_(Net)_(Condition).md "Ensnared (Net) (Condition)")**

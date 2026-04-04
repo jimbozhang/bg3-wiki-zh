@@ -20,16 +20,6 @@
 近战法术 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：6米（20英尺）
 
-## 技术细节
-
-UID
-
-`Target_Whip_DarkVine`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[幽影潜行者](Shadow_Creeper.md "幽影潜行者")

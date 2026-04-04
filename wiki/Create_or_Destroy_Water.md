@@ -18,16 +18,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当法术以2级或更高法术位施放时，施法者可以造水或枯水的区域每比1级法术位高1环，增加2米（7英尺）。
 
-## 技术细节
-
-UID
-
-`Target_CreateDestroyWater`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [造水术](Create_Water.md "造水术")

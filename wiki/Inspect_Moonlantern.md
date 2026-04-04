@@ -6,16 +6,6 @@
 
 看起来提灯里有东西。仔细检查一下。
 
-## 技术细节
-
-UID
-
-`Shout_GLO_Pixie_InspectMoonlantern`
-
-法术标志
-
-`[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`
-
 ## 物品：金银丝妖精荒野铃铛
 
 [金银丝妖精荒野铃铛](Filigreed_Feywild_Bell.md "金银丝妖精荒野铃铛")

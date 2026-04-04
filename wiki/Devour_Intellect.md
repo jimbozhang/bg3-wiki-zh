@@ -18,22 +18,6 @@
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
 近战：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_DevourIntellect`
-
-噬脑怪敌人使用的版本，DC固定为12
-
-`Target_DevourIntellect_US`
-
-Us使用的版本，使用SourceSpellDC()
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：被吞噬智力
 
 **[被吞噬智力](Devoured_Intellect_(Condition).md "被吞噬智力（状态）")**

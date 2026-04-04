@@ -18,16 +18,6 @@
 充能：每回合
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Target_Grapple_NetherTentacle`
-
-法术标志
-
-`[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell_flag\) \(page does not exist\)")`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：被擒抱
 
 **[被擒抱](Grappled_(Condition).md "被擒抱 (状态)")**

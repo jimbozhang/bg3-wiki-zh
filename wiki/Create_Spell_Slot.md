@@ -23,38 +23,6 @@
 - 消耗 [附赠动作](Actions.md#Resources "动作") + 6 [术法点](Sorcery_Point.md "术法点") 创造一个[四级法术位](Spells.md#Spell_slots "法术位")
 - 消耗 [附赠动作](Actions.md#Resources "动作") + 7 [术法点](Sorcery_Point.md "术法点") 创造一个[五级法术位](Spells.md#Spell_slots "法术位")
 
-## 技术细节
-
-UID
-
-`Shout_CreateSpellSlot`
-
-容器能力
-
-`Shout_CreateSpellSlot_1`
-
-将 2 术法点转化为一个一级法术位
-
-`Shout_CreateSpellSlot_2`
-
-将 3 术法点转化为一个二级法术位
-
-`Shout_CreateSpellSlot_3`
-
-将 5 术法点转化为一个三级法术位
-
-`Shout_CreateSpellSlot_4`
-
-将 6 术法点转化为一个四级法术位
-
-`Shout_CreateSpellSlot_5`
-
-将 7 术法点转化为一个五级法术位
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

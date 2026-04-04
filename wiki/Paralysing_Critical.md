@@ -12,12 +12,6 @@
 充能：[长休](Long_Rest.md "长休")
 持续时间：2驱散
 
-## 技术细节
-
-UID
-
-`Interrupt_MAG_ParalyzingCritical`
-
 ## 状态：麻痹
 
 **[麻痹](Paralysed_(Condition).md "麻痹（状态）")**

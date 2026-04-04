@@ -21,16 +21,6 @@
 射程：30米（100英尺）
 创建区域：火墙术
 
-## 技术细节
-
-UID
-
-`Wall_END_AllyAbility_VossDragonFire`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 区域：火墙术
 
 **[火墙术](Wall_of_Fire_(area).md "火墙术（区域）")**

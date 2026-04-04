@@ -1,98 +1,18 @@
 # 艾丽丝·瑟里亚夏斯
 
-不要与 [艾丽丝（拳手新兵）](Aelis_(Fist_Recruit).md) 混淆
-
-## 艾丽丝·瑟里亚夏斯
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Steve Chusak](https://www.imdb.com/name/nm7067240/)
-
-### 家乡
-
-[下城区下水道](Lower_City_Sewers.md "下城区下水道"), [博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[半精灵](Half-Elf.md "半精灵")
-
-### 亚种
-
-[半卓尔](Drow_Half-Elf.md "半卓尔")
-
-### 职业
-
-[术士](Sorcerer.md "术士")
-
-### 副职
-
-[龙族血脉](Draconic_Bloodline.md "龙族血脉") (红色)
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-119
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 15 / (+2) | 14 / (+2) | 16 / (+3) | 12 / (+1) | 18 / (+4) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Steve Chusak](https://www.imdb.com/name/nm7067240/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [半精灵](Half-Elf.md "半精灵") |
+| 等级 | 10 |
+| 生命值 | 119 |
+| 护甲等级 | 15 |
+| 先攻 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 320 |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -100,89 +20,13 @@
 
 - - - - - ## 状态
 
-- [**元素亲和：火焰抗性**](Elemental_Affinity_colon__Fire_Resistance_(Condition).md "元素亲和：火焰抗性 (状态)")
+- [元素亲和：火焰抗性](Elemental_Affinity_colon__Fire_Resistance_(Condition).md "元素亲和：火焰抗性 (状态)")
 
 [抗性](Resistant.md "抗性") [火焰](Fire.md "火焰") 伤害。
 
-- [**行动自如**](Freedom_of_Movement_(Condition).md "行动自如 (状态)")
+- [行动自如](Freedom_of_Movement_(Condition).md "行动自如 (状态)")
 
 受影响的生物不会被[劣势地形](Difficult_Terrain.md "劣势地形")、法术或效果减速，也不会被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [**龙族血统：红色（火焰）**](Draconic_Ancestry_colon__Red_(Fire).md "龙族血统：红色（火焰）")
-
-6级时：[火焰](Fire.md "火焰")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
-
-- [龙族韧性](Draconic_Resilience.md "龙族韧性")
-
-不穿护甲时，基础[护甲等级](Armour_Class.md "护甲等级")为13。
-
-- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "元素亲和：伤害")
-
-当你施放与你龙族血统相关的伤害类型的法术时，你会将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [火焰护罩](Flaming_Shroud.md "火焰护罩")
-
-在2米（7英尺）内伤害你的生物会获得燃烧状态。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉技能检定具有劣势。
-
-## 探索者难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-83
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+6
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +2 | +2 | +7 | +5 | +4 |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -190,89 +34,13 @@
 
 - - - - - ## 状态
 
-- [**元素亲和：火焰抗性**](Elemental_Affinity_colon__Fire_Resistance_(Condition).md "元素亲和：火焰抗性 (状态)")
+- [元素亲和：火焰抗性](Elemental_Affinity_colon__Fire_Resistance_(Condition).md "元素亲和：火焰抗性 (状态)")
 
 [抗性](Resistant.md "抗性") [火焰](Fire.md "火焰") 伤害。
 
-- [**行动自如**](Freedom_of_Movement_(Condition).md "行动自如 (状态)")
+- [行动自如](Freedom_of_Movement_(Condition).md "行动自如 (状态)")
 
 受影响的生物不会被[劣势地形](Difficult_Terrain.md "劣势地形")、法术或效果减速，也不会被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [**龙族血统：红色（火焰）**](Draconic_Ancestry_colon__Red_(Fire).md "龙族血统：红色（火焰）")
-
-6级时：[火焰](Fire.md "火焰")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
-
-- [龙族韧性](Draconic_Resilience.md "龙族韧性")
-
-不穿护甲时，基础[护甲等级](Armour_Class.md "护甲等级")为13。
-
-- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "元素亲和：伤害")
-
-当你施放与你龙族血统相关的伤害类型的法术时，你会将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [火焰护罩](Flaming_Shroud.md "火焰护罩")
-
-在2米（7英尺）内伤害你的生物会获得燃烧状态。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉技能检定具有劣势。
-
-## 硬核难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-154
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 0 | 2 | 1 |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -280,75 +48,19 @@
 
 - - - - - ## 状态
 
-- [**元素亲和：火焰抗性**](Elemental_Affinity_colon__Fire_Resistance_(Condition).md "元素亲和：火焰抗性 (状态)")
+- [元素亲和：火焰抗性](Elemental_Affinity_colon__Fire_Resistance_(Condition).md "元素亲和：火焰抗性 (状态)")
 
 [抗性](Resistant.md "抗性") [火焰](Fire.md "火焰") 伤害。
 
-- [**火焰护盾：温暖**](Fire_Shield_colon__Warm_(Condition).md "火焰护盾：温暖 (状态)")
+- [火焰护盾：温暖](Fire_Shield_colon__Warm_(Condition).md "火焰护盾：温暖 (状态)")
 
 只受到一半寒冷伤害。近战攻击者受到2d8火焰伤害。
 
-- [**行动自如**](Freedom_of_Movement_(Condition).md "行动自如 (状态)")
+- [行动自如](Freedom_of_Movement_(Condition).md "行动自如 (状态)")
 
 受影响的生物不会被[劣势地形](Difficult_Terrain.md "劣势地形")、法术或效果减速，也不会被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可以在黑暗中看到一定距离。
-
-- [**龙族血统：红色（火焰）**](Draconic_Ancestry_colon__Red_(Fire).md "龙族血统：红色（火焰）")
-
-6级时：[火焰](Fire.md "火焰")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
-
-- [龙族韧性](Draconic_Resilience.md "龙族韧性")
-
-不穿护甲时，基础[护甲等级](Armour_Class.md "护甲等级")为13。
-
-- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "元素亲和：伤害")
-
-当你施放与你龙族血统相关的伤害类型的法术时，你会将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [火焰护罩](Flaming_Shroud.md "火焰护罩")
-
-在2米（7英尺）内伤害你的生物会获得燃烧状态。
-
-- [惧怖收割](Grim_Harvest.md "惧怖收割")
-
-杀死一个活物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
-
-- [不死适应](Inured_to_Undeath.md "不死适应")
-
-你已完全沉浸在死亡之中，因此[抗性](Resistant.md "抗性")黯蚀伤害，且你的[生命值](Hit_Points.md "生命值")上限无法被降低。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和察觉技能检定具有劣势。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_FireWizard` ###
-
-UUID
-
-`5a4f7f77-43c9-4f84-b3f4-4076d876ccde` ###
-
-属性
-
-`LOW_Sewers_Dragonborn_Red_Evocation_Wizard` **艾丽丝·瑟里亚夏斯**可以在[博德之门](Baldur's_Gate.md "博德之门")的[下城区下水道](Lower_City_Sewers.md "下城区下水道")中找到，位于[第三幕](Act_Three.md "第三幕")期间。
+**艾丽丝·瑟里亚夏斯**可以在[博德之门](Baldur's_Gate.md "博德之门")的[下城区下水道](Lower_City_Sewers.md "下城区下水道")中找到，位于[第三幕](Act_Three.md "第三幕")期间。
 
 > “
 >

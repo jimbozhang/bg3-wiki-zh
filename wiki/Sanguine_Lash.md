@@ -20,22 +20,6 @@
 目标：锥形范围内的所有敌人
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Zone_LOW_BloodSwipe_Orin`
-
-实际攻击动作
-
-`Interrupt_LOW_BloodSwipe_Orin`
-
-触发攻击的 [反应](reaction.md "反应")
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血（状态）")**

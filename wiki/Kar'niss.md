@@ -1,97 +1,13 @@
 # 卡'尼斯 (Kar'niss)
 
-## 卡'尼斯 (Kar'niss)
-
-至上真神之光 (Light of the Absolute)
-
-- 游戏内 (In-game)
-- 肖像画 (Portrait)
-
-### 身份
-
-男性 (Male)
-
-### 声音 / 演员
-
-- [Joshua B. Sklar](https://www.imdb.com/name/nm9157161/)
-
-### 角色
-
-[月亮提灯](Moonlantern.md "月亮提灯") 持有者
-
-### 阵营
-
-[至上真神教团 (Cult of the Absolute)](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[怪兽](Monstrosity.md "怪兽")
-
-### 种族
-
-[蛛化精灵](Drider.md "蛛化精灵")
-
-- 平衡 (Balanced)
-- 探索者 (Explorer)
-- 硬核 (Tactician)
-
-## 平衡难度属性
-
-### 等级
-
-6
-
-### 生命值 (HP)
-
-184
-
-### 护甲等级 (AC)
-
-19
-
-### 先攻 (Initiative)
-
-+8
-
-### 熟练项 (Proficiency)
-
-+3
-
-### 移动速度 (Movement)
-
-9 m (30 ft)
-
-### 重量 (Weight)
-
-150 kg (300 lb)
-
-### 高级黑暗视觉 (Darkvision)
-
-12 m (40 ft)
-
-### 经验值奖励 (XP reward)
-
-150
-
-| 属性值 (Ability scores) | 力量 (STR) | 敏捷 (DEX) | 体质 (CON) | 智力 (INT) | 感知 (WIS) | 魅力 (CHA) |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 16 / (+3) | 18 / (+4) | 13 / (+1) | 16 / (+3) | 12 / (+1) |
-
-## 额外资源
-
-- ## 状态 (Conditions)
-
-- [**纺丝狂热 (Spindleweb Fanaticism)**](Spindleweb_Fanaticism_(Condition).md "Spindleweb Fanaticism (Condition)")
-
-- 受影响实体及其盟友造成额外 1d6⁠⁠[心灵](Psychic.md "心灵") 伤害，只要其未[失能 (Incapacitated)](Incapacitated_(Condition).md "Incapacitated (Condition)")。
-
-  - 实体的移动速度也提高 3 m (10 ft)。
+| | |
+| --- | --- |
+| 身份 | 男性 (Male) |
+| 配音 | - [Joshua B. Sklar](https://www.imdb.com/name/nm9157161/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [怪兽](Monstrosity.md "怪兽") |
+| 种族 | [蛛化精灵](Drider.md "蛛化精灵") |
+| 等级 | 6 |
 
 ## 特性 (Features)
 
@@ -115,7 +31,7 @@
 
 攻击时触发[重击](Critical_Hit.md "重击") 所需的掷骰数值减少 1。此效果可叠加。
 
-- [**多重攻击：受伤目标 (Multiattack: Wounded Target)**](Multiattack_colon__Wounded_Target.md "Multiattack: Wounded Target")
+- [多重攻击：受伤目标 (Multiattack: Wounded Target)](Multiattack_colon__Wounded_Target.md "Multiattack: Wounded Target")
 
 如果目标的生命值低于其最大值，蛛化精灵可进行[多重攻击 (Multiattack)](Multiattack_(Drider).md "Multiattack (Drider)")。
 
@@ -134,58 +50,6 @@
 - [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被蛛网地表减速或[网缚 (Enwebbed)](Enwebbed_(Condition).md)。
-
-## 探索者难度属性
-
-### 等级
-
-6
-
-### 生命值 (HP)
-
-128
-
-### 护甲等级 (AC)
-
-19
-
-### 先攻 (Initiative)
-
-+8
-
-### 熟练项 (Proficiency)
-
-+5
-
-### 移动速度 (Movement)
-
-9 m (30 ft)
-
-### 重量 (Weight)
-
-150 kg (300 lb)
-
-### 高级黑暗视觉 (Darkvision)
-
-12 m (40 ft)
-
-### 经验值奖励 (XP reward)
-
-150
-
-| 属性值 (Ability scores) | 力量 (STR) | 敏捷 (DEX) | 体质 (CON) | 智力 (INT) | 感知 (WIS) | 魅力 (CHA) |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +3 | +6 | +4 | +1 | +3 | +1 |
-
-## 额外资源
-
-- ## 状态 (Conditions)
-
-- [**纺丝狂热 (Spindleweb Fanaticism)**](Spindleweb_Fanaticism_(Condition).md "Spindleweb Fanaticism (Condition)")
-
-- 受影响实体及其盟友造成额外 1d6⁠⁠[心灵](Psychic.md "心灵") 伤害，只要其未[失能 (Incapacitated)](Incapacitated_(Condition).md "Incapacitated (Condition)")。
-
-- 实体的移动速度也提高 3 m (10 ft)。
 
 ## 特性 (Features)
 
@@ -209,7 +73,7 @@
 
 攻击时触发[重击](Critical_Hit.md "重击") 所需的掷骰数值减少 1。此效果可叠加。
 
-- [**多重攻击：受伤目标 (Multiattack: Wounded Target)**](Multiattack_colon__Wounded_Target.md "Multiattack: Wounded Target")
+- [多重攻击：受伤目标 (Multiattack: Wounded Target)](Multiattack_colon__Wounded_Target.md "Multiattack: Wounded Target")
 
 如果目标的生命值低于其最大值，蛛化精灵可进行[多重攻击 (Multiattack)](Multiattack_(Drider).md "Multiattack (Drider)")。
 
@@ -229,61 +93,9 @@
 
 不会被蛛网地表减速或[网缚 (Enwebbed)](Enwebbed_(Condition).md)。
 
-## 硬核难度属性
-
-### 等级
-
-6
-
-### 生命值 (HP)
-
-239
-
-### 护甲等级 (AC)
-
-19
-
-### 先攻 (Initiative)
-
-+8
-
-### 熟练项 (Proficiency)
-
-+3
-
-### 移动速度 (Movement)
-
-9 m (30 ft)
-
-### 重量 (Weight)
-
-150 kg (300 lb)
-
-### 高级黑暗视觉 (Darkvision)
-
-12 m (40 ft)
-
-### 经验值奖励 (XP reward)
-
-150
-
-| 属性值 (Ability scores) | 力量 (STR) | 敏捷 (DEX) | 体质 (CON) | 智力 (INT) | 感知 (WIS) | 魅力 (CHA) |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 16 / (+3) | 18 / (+4) | 13 / (+1) | 16 / (+3) | 12 / (+1) |
-
-## 额外资源
-
-- ## 状态 (Conditions)
-
-- [**纺丝狂热 (Spindleweb Fanaticism)**](Spindleweb_Fanaticism_(Condition).md "Spindleweb Fanaticism (Condition)")
-
-- 受影响实体及其盟友造成额外 1d6⁠⁠[心灵](Psychic.md "心灵") 伤害，只要其未[失能 (Incapacitated)](Incapacitated_(Condition).md "Incapacitated (Condition)")。
-
-- 实体的移动速度也提高 3 m (10 ft)。
-
 ## 特性 (Features)
 
-- [**恃强凌弱 (Cull the Weak)**](Cull_the_Weak_(Drider).md "Cull the Weak (Drider)")
+- [恃强凌弱 (Cull the Weak)](Cull_the_Weak_(Drider).md "Cull the Weak (Drider)")
 
 对生命值低于 50% 的目标造成 +2d6 伤害。
 
@@ -307,7 +119,7 @@
 
 攻击时触发[重击](Critical_Hit.md "重击") 所需的掷骰数值减少 1。此效果可叠加。
 
-- [**多重攻击：受伤目标 (Multiattack: Wounded Target)**](Multiattack_colon__Wounded_Target.md "Multiattack: Wounded Target")
+- [多重攻击：受伤目标 (Multiattack: Wounded Target)](Multiattack_colon__Wounded_Target.md "Multiattack: Wounded Target")
 
 如果目标的生命值低于其最大值，蛛化精灵可进行[多重攻击 (Multiattack)](Multiattack_(Drider).md "Multiattack (Drider)")。
 
@@ -329,19 +141,10 @@
 
 ## 技术 (Technical)
 
-###
-
-UID
-
-`S_SCL_Drider` ###
-
-UUID
-
-`aa59ce01-3d2e-42e8-a539-c07e0ea292ab` ###
 
 Stats
 
-`SCL_DriderCaravan_Drider` **卡'尼斯 (Kar'niss)** 是一名为[至上真神 (Absolute)](Absolute.md "Absolute") 服务的[蛛化精灵](Drider.md "蛛化精灵")，他在被[罗丝](Lolth.md "罗丝") 驱逐后为其服务。
+**卡'尼斯 (Kar'niss)** 是一名为[至上真神 (Absolute)](Absolute.md "Absolute") 服务的[蛛化精灵](Drider.md "蛛化精灵")，他在被[罗丝](Lolth.md "罗丝") 驱逐后为其服务。
 
 > “
 >

@@ -6,16 +6,6 @@
 
 结束你的[防御协议：壁垒](Defensive_Protocol_colon__Bulwark_(Condition).md "防御协议：壁垒（状态）")状态，并返回到你的正常战斗校准。
 
-## 技术细节
-
-UID
-
-`Shout_SteelWatcher_Quadruped_TerminateBulwarkMode`
-
-法术标志
-
-`[Temporary](Temporary_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[钢铁卫士泰坦](Steel_Watcher_Titan.md "钢铁卫士泰坦")

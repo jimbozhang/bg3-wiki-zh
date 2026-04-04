@@ -23,20 +23,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_GlyphOfWarding_Sleep`
-
-`Projectile_GlyphOfWarding_Sleep_Trap`
-
-触发效果
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 状态：沉睡
 
 **[沉睡](Sleeping_(Condition).md "沉睡（状态）")**

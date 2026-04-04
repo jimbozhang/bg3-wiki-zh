@@ -18,22 +18,6 @@
 - 吟游诗人等级5时，减值增加至-1d8。
 - 吟游诗人等级10时，减值增加至-1d10。
 
-## 技术细节
-
-UID
-
-`Target_CuttingWords`
-
-由反应触发的属性
-
-`Interrupt_CuttingWords`
-
-触发该属性的反应
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 职业：

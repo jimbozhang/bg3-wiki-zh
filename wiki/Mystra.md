@@ -1,23 +1,9 @@
 # Mystra
 
-## Mystra
-
-神秘女士
-魔法之母
-
-- 雕像
-- 模型
-- 肖像画
-
-### 声音 / 演员
-
-- [Jane Perry](https://www.imdb.com/name/nm0675110/)
-
-## 属性
-
-### 种族
-
-[神祇](Deity.md "Deity")
+| | |
+| --- | --- |
+| 配音 | - [Jane Perry](https://www.imdb.com/name/nm0675110/) |
+| 种族 | [神祇](Deity.md "Deity") |
 
 **密斯特拉**是魔法的[女神](Deities.md "Deities")。她与奥秘和[知识领域](Knowledge_Domain.md "知识领域")领域相关联。玩家角色[牧师](Cleric.md "Cleric")可以选择密斯特拉作为他们的守护神祇。
 

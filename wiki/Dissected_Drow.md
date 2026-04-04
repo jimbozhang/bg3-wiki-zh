@@ -1,254 +1,35 @@
 # 内德'西兰尼斯
 
-## 被解剖的卓尔
-
-肖像画
-
-### 全名
-
-内德'西兰尼斯
-
-### 性别
-
-男性
-
-### 声优 / 演员
-
-- [Matthew Biddulph](https://www.imdb.com/name/nm9890041/)
-
-### 阵营
-
-[至上真神教徒](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[卓尔](Drow.md "Drow")
-
-### 亚种
-
-[罗丝誓约卓尔](Lolth-Sworn_Drow.md "Lolth-sworn drow")
-
-### 职业
-
-[游侠](Ranger.md "Ranger")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-2
-
-### 生命值
-
-20
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 16 / (+3) | 12 / (+1) | 10 / (0) | 14 / (+2) | 10 / (0) |
+| | |
+| --- | --- |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [卓尔](Drow.md "Drow") |
+| 等级 | 2 |
+| 生命值 | 20 |
+| 护甲等级 | 13 |
+| 先攻 | +3 |
+| 移动速度 | 9 米 (30 英尺) |
 
 ## 状态
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；无法被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 探索者难度属性
-
-### 等级
-
-2
-
-### 生命值
-
-14
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +2 | +5 | +1 | 0 | +2 | 0 |
 
 ## 状态
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；无法被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 硬核难度属性
-
-### 等级
-
-2
-
-### 生命值
-
-26
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 0 | 3 | 2 |
 
 ## 状态
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；无法被魔法[沉睡](Sleeping_(Condition).md)。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 技术
-
-###
-
-UID
-
-`S_DEN_DissectedDrow` ###
-
-UUID
-
-`0cb0cdde-16f8-440d-b73a-ceb385183ea9` ###
-
-Stats
-
-`Elf_Drow_Ranger` **内德'西兰尼斯** ，在游戏中名为**被解剖的卓尔** ，是一名至上真神教徒，在[第一幕](Act_One.md "Act One")的一次侦察任务中死亡。他的尸体被带到[翠绿林地](Emerald_Grove.md "Emerald Grove")进行解剖。
+**内德'西兰尼斯** ，在游戏中名为**被解剖的卓尔** ，是一名至上真神教徒，在[第一幕](Act_One.md "Act One")的一次侦察任务中死亡。他的尸体被带到[翠绿林地](Emerald_Grove.md "Emerald Grove")进行解剖。
 
 ## 目录
 

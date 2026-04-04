@@ -24,16 +24,6 @@
 - 在[角色等级](Character_level.md "角色等级")5时，投掷火焰的伤害增加至2d8⁠⁠[火焰](Fire.md "火焰")。
 - 在角色等级10时，投掷火焰的伤害增加至3d8⁠⁠[火焰](Fire.md "火焰")。
 
-## 技术细节
-
-UID
-
-`Shout_ProduceFlame`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 赠予
 
 - [燃火术：投掷](Produce_Flame_colon__Hurl.md "燃火术：投掷")

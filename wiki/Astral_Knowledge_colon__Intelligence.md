@@ -13,12 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_AstralKnowledge_Intelligence`
-
 ## 状态：星界知识：智力
 
 **[星界知识：智力](Astral_Knowledge_colon__Intelligence_(Condition).md "星界知识：智力 (状态)")**

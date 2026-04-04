@@ -14,18 +14,6 @@
 充能：每轮
 持续时间：2 轮
 
-## 技术细节
-
-UID
-
-`Target_LOW_GithyankiPaladin_VlaakithsCry`
-
-由反应触发的动作
-
-`Interrupt_LOW_GithyankiPaladin_VlaakithsCry`
-
-触发动作的反应
-
 ## 状态：图纳拉特的拥抱
 
 **[图纳拉特的拥抱](Tu'narath's_Embrace_(Condition).md "图纳拉特的拥抱（状态）")**

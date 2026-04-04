@@ -21,16 +21,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：每比5环高一环的法术位，可影响一个额外目标。
 
-## 技术细节
-
-UID
-
-`Target_HoldMonster`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：怪物定身术
 
 **[怪物定身术](Hold_Monster_(Condition).md "Hold Monster (Condition)")**

@@ -18,16 +18,6 @@
 范围：自身
 [专注](Concentration.md "专注")
 
-## 技术细节
-
-UID
-
-`Shout_GaseousForm_Monk`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`
-
 ## 赋予
 
 - [飞行（职业动作）](Fly_(class_action).md "飞行（职业动作）")

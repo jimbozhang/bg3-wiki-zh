@@ -8,11 +8,11 @@
 
 ## 状态
 
-- [**看看那颧骨！**](Just_Look_At_Those_Cheekbones!_(Condition).md "看看那颧骨！ (状态)")
+- [看看那颧骨！](Just_Look_At_Those_Cheekbones!_(Condition).md "看看那颧骨！ (状态)")
 
 凝视这尊自己的雕像将[bless](Sweet_Stone_Features_(Condition).md) 雕像所有者一次，每[长休](Long_Rest.md "长休")一次。
 
-- [**无敌**](Invulnerable_(Condition).md "无敌 (状态)")
+- [无敌](Invulnerable_(Condition).md "无敌 (状态)")
 
 受影响实体对所有伤害[免疫](Immune.md "免疫")。
 

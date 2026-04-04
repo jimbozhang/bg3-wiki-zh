@@ -24,16 +24,6 @@
 必须[熟练](Proficiency.md#Weapon_proficiency "熟练项")该武器
 持续时间：10回合
 
-## 技术细节
-
-UID
-
-`Zone_MAG_Automaton_SunbeamShot`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 赋予
 
 - [重新施展炫目射线](Recast_Dazzling_Ray.md "重新施展炫目射线")

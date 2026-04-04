@@ -26,16 +26,6 @@
 目标：[震慑](Stunned_(status_group).md)、[倒伏](Prone_(status_group).md)、[沉睡](SG_Sleeping.md "SG Sleeping") 或 [昏迷](Unconscious_(status_group).md) 的生物
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_ExtractBrain_Mindflayer`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由生物使用：[完整的灵吸怪](Full-illithid.md "完整的灵吸怪")

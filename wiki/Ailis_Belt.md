@@ -1,53 +1,12 @@
 # 艾丽丝·贝尔特
 
-## 艾丽丝·贝尔特
+| | |
+| --- | --- |
+| 体型 | 中级 |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
 
-博德之门女士
-
-- 游戏内
-- 肖像画
-
-### 配音 / 演员
-
-- [Debbie Chazen](https://www.imdb.com/name/nm0154708/)
-
-### 家族
-
-> )⁠[贝尔特家族](https://forgottenrealms.fandom.com/wiki/Belt_(family))
-
-### 家乡
-
-[博德之门](Baldur's_Gate.md "博德之门")
-
-## 属性
-
-### 体型
-
-中级
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[人类](Human.md "人类")
-
-## 技术信息
-
-###
-
-UID
-
-`S_WYR_KillDirectorGortash_Patriar_003` ###
-
-UUID
-
-`059d0242-62c5-436f-93d7-fa2db6135a3a` ###
-
-属性
-
-`Human_Commoner` **艾丽丝·贝尔特女士**是[博德之门](Baldur's_Gate.md "博德之门")的一位女士，出席了[戈塔什](Gortash.md "戈塔什")被任命为城市大公的仪式。
+**艾丽丝·贝尔特女士**是[博德之门](Baldur's_Gate.md "博德之门")的一位女士，出席了[戈塔什](Gortash.md "戈塔什")被任命为城市大公的仪式。
 
 ## 相关剧情
 

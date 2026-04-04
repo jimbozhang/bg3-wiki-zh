@@ -19,16 +19,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_SHA_Necromancer_ReclaimControl`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：僵尸
 
 | [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 6 (-2) | [体质](Constitution.md "体质") 16 (+3) | [智力](Intelligence.md "智力") 3 (-4) | [感知](Wisdom.md "感知") 6 (-2) | [魅力](Charisma.md "魅力") 5 (-3) |

@@ -22,16 +22,6 @@
 
 以更高环阶施法此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_PlanarBinding`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：被异界誓缚
 
 **[被异界誓缚](Seized_by_Planar_Binding_(Condition).md "被异界誓缚 (状态)")**

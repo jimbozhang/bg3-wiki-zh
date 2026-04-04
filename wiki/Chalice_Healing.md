@@ -22,16 +22,6 @@
 
 在10级时，[闪烁星座](Twinkling_Constellations.md "闪烁星座")将基础治疗提高到2d8⁠⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-UID
-
-`Target_StarryForm_Chalice_Heal`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 职业：

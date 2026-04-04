@@ -23,12 +23,6 @@
 
 在9级时，狂怒对攻击的额外伤害增加至**+3**。
 
-## 技术细节
-
-UID
-
-`Shout_Rage_Frenzy`
-
 ## 赋予
 
 - [狂怒攻击](Frenzied_Strike.md "狂怒攻击")

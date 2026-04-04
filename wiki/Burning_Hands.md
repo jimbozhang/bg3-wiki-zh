@@ -25,16 +25,6 @@
 
 [升环施法](Upcasting.md "升环施法")：每升1环，额外造成 1d6⁠⁠[火焰](Fire.md "火焰")伤害。
 
-## 技术细节
-
-UID
-
-`Zone_BurningHands`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

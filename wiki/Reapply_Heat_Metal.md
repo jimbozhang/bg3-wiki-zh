@@ -25,16 +25,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：以更高环级施放[灼热金属](Heat_Metal.md "Heat Metal")时，重新施加该法术会为每个高于2环的法术位等级额外造成1d8⁠⁠[火焰](Fire.md "Fire")伤害。
 
-## 技术细节
-
-UID
-
-`Target_HeatMetal_Reapply`
-
-法术标志
-
-`[IsSpell](IsSpell_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 状态：武器掉落
 
 **[武器掉落！](Weapon_Dropped!_(Condition).md "Weapon Dropped! (Condition)")**

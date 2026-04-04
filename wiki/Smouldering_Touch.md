@@ -21,16 +21,6 @@
 目标：半径内所有其他生物
 创造区域：火焰
 
-## 技术细节
-
-UID
-
-`Target_SmolderingTouch_Elemental_Fire`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`
-
 ## 状态：燃烧
 
 **[燃烧](Burning_(Condition).md "燃烧 (状态)")**

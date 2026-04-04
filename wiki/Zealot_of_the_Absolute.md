@@ -1,239 +1,32 @@
 # 至上真神狂热信徒
 
-## 至上真神狂热信徒
+| | |
+| --- | --- |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 8 |
+| 生命值 | 70 |
+| 护甲等级 | 18 |
+| 先攻 | 0 |
 
-- 模型
-- 肖像画
+## 状态
 
-### 配音 / 演员
-
-- [Alan Turkington](https://www.imdb.com/name/nm1372296/)
-
-### 阵营
-
-[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-### 职业
-
-守卫
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-### 职业
-
-[圣武士](Paladin.md "Paladin")
-
-### 副职
-
-[复仇之誓](Oath_of_Vengeance.md "Oath of Vengeance")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-70
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "Charisma") 调整值，作为其 [豁免检定](Saving_throw.md "Saving throw") 的加值。
 
-## 特性
+## 状态
 
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "Disease") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "Two-Handed") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-49
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +7 | +3 | +6 | +2 | +6 | +9 |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "Charisma") 调整值，作为其 [豁免检定](Saving_throw.md "Saving throw") 的加值。
 
-## 特性
+## 状态
 
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "Disease") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "Two-Handed") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-91
-
-### 护甲等级
-
-18
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
 该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "Charisma") 调整值，作为其 [豁免检定](Saving_throw.md "Saving throw") 的加值。
-
-## 特性
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫 [疾病](Disease.md "Disease") 效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷 [双手](Two-Handed.md "Two-Handed") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
-
-如果你用 [借机攻击](Opportunity_Attack.md "Opportunity Attack") 命中敌人，你的 [移动速度](Movement_speed.md "Movement Speed") 将在你的下一回合增加 4.5 米 / 15 英尺。
 
 **至上真神狂热信徒**是 [至上真神](Absolute.md "Absolute") 的圣武士步兵，构成了其常规军队的核心。
 

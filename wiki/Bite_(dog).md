@@ -20,16 +20,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_Bite_Dog`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 被以下生物使用：[饼饼](Biscotti.md "饼饼")、[古斯塔夫](Gustav.md "古斯塔夫")、[挠挠](Scratch.md "挠挠")、[小淘气](Sparky.md "小淘气") 和 [佐拉](Zola.md "佐拉")

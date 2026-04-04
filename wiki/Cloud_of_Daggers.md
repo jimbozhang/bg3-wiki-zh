@@ -23,16 +23,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高的法术位施放此法术时，每比2级法术位高一级，额外造成2d4⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-## 技术细节
-
-UID
-
-`Target_CloudOfDaggers`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 区域：匕首之云
 
 **[匕首之云](Cloud_of_Daggers_(area).md "匕首之云 (区域)")**

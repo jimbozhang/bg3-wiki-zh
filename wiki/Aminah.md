@@ -1,85 +1,18 @@
 # 阿米纳
 
-## 班恩之拳阿米纳
-
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Tariyé Peterside](https://www.imdb.com/name/nm7346673/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[灰矮人](Duergar.md "Duergar")
-
-### 原型
-
-[灾祸之拳](Fist_of_Bane.md "Fist of Bane")
-
-- 平衡
-- 探索者
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-62
-
-### 护甲等级
-
-16
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 19 / (+4) | 11 / (0) | 13 / (+1) | 10 / (0) | 12 / (+1) | 11 / (0) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Tariyé Peterside](https://www.imdb.com/name/nm7346673/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 10 |
+| 生命值 | 62 |
+| 护甲等级 | 16 |
+| 先攻 | 0 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 320 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -113,47 +46,37 @@
 
 战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-## 探索者难度属性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 等级
+- ## 特性
 
-10
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
-### 生命值
+对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-43
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-### 护甲等级
+对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-16
+- [额外攻击](Extra_Attack.md "额外攻击")
 
-### 先攻
+在徒手或武器攻击后可以进行一次额外攻击。
 
-0
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 熟练项
+攻击离开攻击范围的敌人。
 
-+6
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-### 移动
+在阳光下时，[攻击掷骰](Attack_roll.md "Attack Roll")和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
 
-7.5 米 (25 英尺)
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
-### 重量
+可在黑暗中看到 24 米 / 80 英尺。
 
-75 千克 (150 磅)
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | 0 | +1 | 0 | +1 | 0 |
+战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -187,95 +110,7 @@
 
 战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-## 硬核难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-80
-
-### 护甲等级
-
-16
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 运动 | 体操 | 察觉 |
-| --- | --- | --- | --- |
-|  | 4 | 0 | 1 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
-
-对[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，[攻击掷骰](Attack_roll.md "Attack Roll")和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-- [战术铁律](Tactical_Discipline.md "战术铁律")
-
-战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_BaneiteOfficer20` ###
-
-UUID
-
-`4b2f8018-f988-4dfd-bb59-962dc90070f3` ###
-
-Stats
-
-`Dwarf_Duergar_Cultist_Bane_Fist` **班恩之拳阿米纳**是一名[灰矮人](Duergar.md "Duergar")[灾祸之神班恩](Bane_(God)的邪教徒.md)，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")的[班恩之拳波兰杜勒斯](Polandulus.md "Polandulus")旁边找到。
+**班恩之拳阿米纳**是一名[灰矮人](Duergar.md "Duergar")[灾祸之神班恩](Bane_(God)的邪教徒.md)，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")的[班恩之拳波兰杜勒斯](Polandulus.md "Polandulus")旁边找到。
 
 > “
 >

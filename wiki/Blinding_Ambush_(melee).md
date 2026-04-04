@@ -20,22 +20,6 @@
 范围：3 米 (10 英尺)
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_SHA_Orthon_BlindingPursuit_Melee`
-
-实际攻击
-
-`Interrupt_SHA_Orthon_BlindingPursuit_Melee`
-
-触发攻击的反应
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：目盲
 
 **[目盲](Blinded_(Condition).md "目盲 (状态)")**

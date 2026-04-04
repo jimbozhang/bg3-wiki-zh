@@ -28,16 +28,6 @@
 
 在 10 等级时，拥有 [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")，伤害加成从 1d8 提升至 1d10。
 
-## 技术细节
-
-UID
-
-`Target_ManeuveringAttack`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 授予
 
 - [强制策动](Forced_Manoeuvre.md "强制策动")

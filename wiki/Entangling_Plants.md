@@ -15,16 +15,6 @@
 创造区域：幽影诅咒藤蔓
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Shout_EntanglingPlants_Blight_Vine`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 区域：幽影诅咒藤蔓
 
 **[幽影诅咒藤蔓](Shadow-Cursed_Vines.md "幽影诅咒藤蔓")**

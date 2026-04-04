@@ -19,26 +19,6 @@
 详情
 范围：18 米（60 英尺）
 
-## 技术细节
-
-UID
-
-`Target_ShadowStep`
-
-玩家可用武僧动作
-
-`Target_LOW_HouseOfGrief_ShadowStep`
-
-NPC 专用版本，由哀伤之邸的莎尔信徒使用
-
-`Target_SHA_Justiciar_ShadowStep`
-
-NPC 专用版本，由幽影诅咒之地的不死莎尔信徒使用
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：暗影步
 
 **[暗影步](Shadow_Step_(Condition).md "暗影步 (状态)")**

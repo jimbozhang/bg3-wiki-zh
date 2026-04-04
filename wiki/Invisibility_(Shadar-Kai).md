@@ -18,16 +18,6 @@
 范围：自身
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Shout_Invisibility_ShadarKai_GloomWeaver`
-
-法术标志
-
-`[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：幽影编织
 
 **[幽影编织](Gloomweave_(Condition).md "Gloomweave (Condition)")**

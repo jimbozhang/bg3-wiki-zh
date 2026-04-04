@@ -23,16 +23,6 @@
 目标：云中的非盟友生物
 创造区域：传播孢子
 
-## 技术细节
-
-UID
-
-`Target_SpreadingSpores`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 区域：传播孢子
 
 **[传播孢子](Spreading_Spores_(area).md "传播孢子 (区域)")**

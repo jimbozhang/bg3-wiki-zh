@@ -25,12 +25,6 @@
 充能：每场战斗
 持续时间：10 驱散
 
-## 技术细节
-
-UID
-
-`Shout_Rage_Boar`
-
 ## 赋予
 
 - [狂怒攻击（野猪）](Frenzied_Strike_(Boar).md "狂怒攻击（野猪）")

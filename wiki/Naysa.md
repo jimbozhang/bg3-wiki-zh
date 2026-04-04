@@ -1,258 +1,31 @@
 # 奈萨
 
-## 竖琴手奈萨
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [芬妮拉·福吉](https://www.imdb.com/name/nm6233172/)
-
-### 阵营
-
-[竖琴手同盟](Harpers.md "Harpers")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[提夫林](Tiefling.md "Tiefling")
-
-### 亚种
-
-[阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling")
-
-### 职业
-
-[游侠](Ranger.md "Ranger")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-6
-
-### 生命值
-
-48
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-90
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 14 / (+2) | 12 / (+1) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [芬妮拉·福吉](https://www.imdb.com/name/nm6233172/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 6 |
+| 生命值 | 48 |
+| 护甲等级 | 14 |
+| 先攻 | +2 |
+| 经验值 | 90 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
+## 抗性 [抗性](Resistances.md "抗性")
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-6
-
-### 生命值
-
-33
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-90
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | +5 | +1 | 0 | +2 | +1 |
+- ## 额外资源
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-- - ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-6
-
-### 生命值
-
-62
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-90
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 1 | 2 | 2 |
-
-## 抗性 [抗性](Resistances.md "抗性")
-
-- ## 额外资源
-
-- - ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术信息
-
-###
-
-UID
-
-`S_HAV_HavenOutcasts_DockGuard_Ranger` ###
-
-UUID
-
-`a0f9d7cb-d87c-4af8-87fa-d273a8ecba93` ###
-
-属性
-
-`HAV_Harper_Tiefling_Ranger` **奈萨**是一名[竖琴手](Harper.md "Harper")，在[第二幕](Act_Two.md "Act Two")期间巡逻于[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")。她可以在[潜入月出之塔](Infiltrate_Moonrise_Towers.md "Infiltrate Moonrise Towers")期间帮助队伍，并在[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间成为潜在盟友。
+**奈萨**是一名[竖琴手](Harper.md "Harper")，在[第二幕](Act_Two.md "Act Two")期间巡逻于[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")。她可以在[潜入月出之塔](Infiltrate_Moonrise_Towers.md "Infiltrate Moonrise Towers")期间帮助队伍，并在[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间成为潜在盟友。
 
 > “
 >

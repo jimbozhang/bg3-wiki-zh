@@ -13,18 +13,6 @@
 详情
 充能：每回合两次
 
-## 技术细节
-
-UID
-
-`Target_CRE_GithyankiInquisitor_VlaakithsMindSword`
-
-由反应触发的动作
-
-`Interrupt_CRE_GithyankiInquisitor_VlaakithsMindSword`
-
-触发此动作的反应
-
 ## 生物：图纳拉特心爪
 
 | [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 10 | [智力](Intelligence.md "智力") 10 | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |

@@ -1,16 +1,8 @@
 # 贡德
 
-## 贡德
-
-内贝伦·梅德勒 (Nebelun the Meddler)
-奇迹使者 (Wonderbringer)
-众匠之主 (Lord of All Smiths)
-
-## 属性
-
-### 种族
-
-[神祇](Deity.md "神祇")
+| | |
+| --- | --- |
+| 种族 | [神祇](Deity.md "神祇") |
 
 **贡德**是工艺、锻造与发明之神，中立（作为贡德），混乱善良（作为内贝伦）。他与锻炉领域（作为贡德）、[知识领域](Knowledge_Domain.md "知识领域")、[诡术领域](Trickery_Domain.md "诡术领域")（作为内贝伦）相关联。
 

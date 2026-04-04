@@ -18,16 +18,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_CloakOfShadows_Monk`
-
-法术标志
-
-`[隐形](Invisible_(spell_flag).md)`, `[隐匿](Stealth_(spell_flag).md)`
-
 ## 状态：幽影斗篷
 
 **[幽影斗篷](Cloak_of_Shadow_(Condition).md "幽影斗篷（状态）")**

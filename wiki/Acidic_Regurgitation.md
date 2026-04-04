@@ -20,16 +20,6 @@
 创建区域：强酸
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_Belch_Acid_Brewer`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：中度醉醺醺
 
 **[中度醉醺醺](Moderately_Inebriated_(Condition).md "中度醉醺醺（状态）")**

@@ -26,16 +26,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_MAG_TheChromatic_ThunderAttunement`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：克雷斯卡的雷鸣轰隆
 
 **[克雷斯卡的雷鸣轰隆](Rumbling_with_Kereska's_Thunder_(Condition).md "克雷斯卡的雷鸣轰隆（状态）")**

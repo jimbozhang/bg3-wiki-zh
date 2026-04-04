@@ -1,114 +1,20 @@
 # 图书管理永恒债务人
 
-## 图书管理永恒债务人
-
-- 游戏内
-- 肖像画
-
-### 声音 / 演员
-
-- [Akbar Kurtha](https://www.imdb.com/name/nm0475988/)
-- [James Howard](https://www.imdb.com/name/nm1546326/)
-- [Kristian Phillips](https://www.imdb.com/name/nm4797146/)
-- [Oliver Cudbill](https://www.imdb.com/name/nm5307727/)
-
-### 阵营
-
-[希望之邸](House_of_Hope.md "House of Hope")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[不死生物](Undead.md "Undead")
-
-### 种族
-
-[骷髅](Skeleton.md "Skeleton")
-
-### 原型
-
-[永恒债务人](Eternal_Debtor.md "Eternal Debtor")
-
-- 平衡
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### HP
-
-6
-
-### AC
-
-11
-
-### 先攻
-
--1
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-20 kg (40 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### XP奖励
-
-210
-
-| 属性值 | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 8 / (-1) | 15 / (+2) | 6 / (-2) | 8 / (-1) | 5 / (-3) |
+| | |
+| --- | --- |
+| 配音 | - [Akbar Kurtha](https://www.imdb.com/name/nm0475988/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [不死生物](Undead.md "Undead") |
+| 种族 | [骷髅](Skeleton.md "Skeleton") |
+| 等级 | 1 |
+| 生命值 | 6 |
+| 护甲等级 | 11 |
+| 先攻 | -1 |
+| 移动速度 | 9 m (30 ft) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
-- - ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [**永恒债务**](Forever_Indebted_(passive_feature).md "Forever Indebted (passive feature)")
-
-死亡时，爆炸成火球术术，然后转生为受拉斐尔束缚的邪魔生物。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_HouseOfHope_SkeletonDebtor01` ###
-
-UUID
-
-`79d71dfc-854d-4b0a-89e9-c8b834eab689` ###
-
-Stats
-
-`LOW_HouseOfHope_Skeleton_Debtor` **图书管理永恒债务人**是受[拉斐尔](Raphael.md "Raphael")束缚的[永恒债务人](Eternal_Debtor.md "Eternal Debtor")。
+**图书管理永恒债务人**是受[拉斐尔](Raphael.md "Raphael")束缚的[永恒债务人](Eternal_Debtor.md "Eternal Debtor")。
 
 > “
 >

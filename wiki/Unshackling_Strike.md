@@ -14,16 +14,6 @@
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：正常武器射程
 
-## 技术细节
-
-UID
-
-`Target_MAG_OrphicHammer_ChainBreaker`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 学习方式
 
 由物品授予：

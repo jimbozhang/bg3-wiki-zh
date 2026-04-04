@@ -27,7 +27,7 @@
 
 ## 简要预览
 
-当被近战攻击击中时，可使用[反应](Reaction_(Resource)将攻击者击.md)至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
+当被近战攻击击中时，可使用[反应](Reaction_(Resource)将攻击者击.md)至[倒伏](Prone_(Condition).md)，除非他们通过[敏捷](DEX.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")。
 
 ---
 *Source: [Shield Bash](https://bg3.wiki/wiki/Shield_Bash)*

@@ -17,16 +17,6 @@
 目标：1 名尚未拥有 [诗人激励](Bardic_Inspiration_(Condition).md "诗人激励 (状态)") 的盟友
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Target_SCE_TieflingFollowup_BardicInspiration`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：精通诗人激励
 
 **[精通诗人激励](Improved_Bardic_Inspiration_(Condition).md "精通诗人激励 (状态)")**

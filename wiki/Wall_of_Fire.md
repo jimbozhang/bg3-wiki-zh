@@ -24,16 +24,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高环位施放此法术时，每比4环高1环，额外造成1d8[火焰](Fire.md "火焰")伤害。
 
-## 技术细节
-
-UID
-
-`Wall_WallOfFire`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 区域：火墙术
 
 **[火墙术](Wall_of_Fire_(area).md "火墙术（区域）")**

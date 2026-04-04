@@ -24,34 +24,6 @@
 
 [升环施法](Upcasting.md "升环施法")：若施放[炽焰法球](Flaming_Sphere.md "炽焰法球")时使用的法术位等级高于2环，则每高1环额外造成1d6[火焰](Fire.md "火焰")伤害。
 
-## 技术细节
-
-UID
-
-`Target_FlamingSphere_Ram`
-
-基础版本
-
-`Target_FlamingSphere_Ram_3`
-
-3环升环版本
-
-`Target_FlamingSphere_Ram_4`
-
-4环升环版本
-
-`Target_FlamingSphere_Ram_5`
-
-5环升环版本
-
-`Target_FlamingSphere_Ram_6`
-
-6环升环版本
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[炽焰法球](Flaming_Sphere.md "炽焰法球")

@@ -23,16 +23,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高环位施放此法术时，每比3环高一环，额外造成1d6⁠⁠[闪电](Lightning.md "闪电")伤害。
 
-## 技术细节
-
-UID
-
-`Zone_LightningBolt`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

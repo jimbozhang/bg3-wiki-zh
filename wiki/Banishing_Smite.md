@@ -29,12 +29,6 @@
 
 以更高法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Projectile_Smite_Banishing_Container`
-
 ## 变体
 
 - [放逐斩(近战)](Banishing_Smite_(Melee).md "放逐斩(近战)")

@@ -28,12 +28,6 @@
 
 在 9 级时，攻击的额外伤害增加到 **+3**。
 
-## 技术细节
-
-UID
-
-`Shout_Rage_WildMagic`
-
 ## 状态：狂暴
 
 **[狂暴](Rage_(Condition).md "狂暴（状态）")**

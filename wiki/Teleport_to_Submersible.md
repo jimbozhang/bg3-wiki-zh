@@ -17,16 +17,6 @@
 
 以更高法术位施放此法术不会获得额外效果。
 
-## 技术细节
-
-UID
-
-`Target_LOW_IronThrone_Omeluum_Teleport`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 如何学习
 
 由生物使用：[奥米伦](Omeluum.md "奥米伦")

@@ -14,16 +14,6 @@
 范围：自身
 范围效果：3米（10英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_WYR_Alioramus_MatingPheromones`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(页面不存在\)")`
-
 ## 状态：交配狂怒
 
 **[交配狂怒](Mating_Frenzy_(Condition).md "交配狂怒 (状态)")**

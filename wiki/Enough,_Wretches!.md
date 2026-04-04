@@ -11,16 +11,6 @@
 详情
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_LOW_Cazador_SwitchStance`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 赋予
 
 - [多重攻击（吸血鬼）](Multiattack_(Vampire).md "多重攻击（吸血鬼）")

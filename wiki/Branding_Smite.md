@@ -27,16 +27,6 @@
 
 每环阶额外造成1d6⁠⁠[光耀](Radiant.md "光耀")伤害。
 
-## 技术细节
-
-UID
-
-`Target_Smite_Branding_Container`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [印记斩（近战）](Branding_Smite_(Melee).md "印记斩（近战）")

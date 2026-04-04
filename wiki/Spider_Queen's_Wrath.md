@@ -14,22 +14,6 @@
 范围：自身
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_FOR_SpiderQueen_Enrage`
-
-普通版本
-
-`Shout_FOR_SpiderQueen_Enrage_Hardcore`
-
-硬核版本
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：蜘蛛女王之怒
 
 **[蜘蛛女王之怒](Spider_Queen's_Wrath_(Condition).md "蜘蛛女王之怒 (状态)")**

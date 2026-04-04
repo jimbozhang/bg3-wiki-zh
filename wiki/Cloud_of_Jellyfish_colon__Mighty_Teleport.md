@@ -12,12 +12,6 @@
 范围：5 米（17 英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Interrupt_GatheredSwarm_Jellyfish_BoostedTeleport`
-
 ## 状态：虫群护甲
 
 **[虫群护甲](Armour_of_the_Swarm_(Condition).md "虫群护甲 (状态)")**

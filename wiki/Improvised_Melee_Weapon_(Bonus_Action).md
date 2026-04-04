@@ -37,16 +37,6 @@
 - 如果投掷的物体或生物重量超过目标重量，目标将变为[倒伏](Prone_(Condition).md "倒伏（状态）")（无需豁免检定）。
 - 投掷生物将使该被投掷生物获得[倒伏](Prone_(Condition).md "倒伏（状态）")状态（无需豁免检定）。
 
-## 技术细节
-
-UID
-
-`Throw_ImprovisedWeaponBerserker`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[CombatLogSetSingleLineRoll](https://bg3.wiki/w/index.php?title=CombatLogSetSingleLineRoll_\(spell_flag\)&action=edit&redlink=1) "CombatLogSetSingleLineRoll \(spell flag\) \(page does not exist\)")`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[InventorySelection](https://bg3.wiki/w/index.php?title=InventorySelection_\(spell_flag\)&action=edit&redlink=1) "InventorySelection \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[PickupEntityAndMove](https://bg3.wiki/w/index.php?title=PickupEntityAndMove_\(spell_flag\)&action=edit&redlink=1) "PickupEntityAndMove \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**

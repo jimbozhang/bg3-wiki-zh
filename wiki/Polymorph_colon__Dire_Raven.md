@@ -24,16 +24,6 @@
 充能：[长休](Long_Rest.md "长休")
 持续时间：直至 [长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_RavenAmulet_Polymorph`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(spell flag\) \(page does not exist\)")`
-
 ## 状态：变形：恐鸦
 
 **[变形：恐鸦](Polymorphed_colon__Dire_Raven_(Condition).md "变形：恐鸦（状态）")**

@@ -23,16 +23,6 @@
 范围：9米（30英尺）
 目标：受[邪魔魅惑](Fiendish_Charm.md "邪魔魅惑")影响的1个生物
 
-## 技术细节
-
-UID
-
-`Target_DrainingKiss_Cambion`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[坎比翁](Cambion.md "坎比翁")

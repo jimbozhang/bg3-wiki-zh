@@ -24,16 +24,6 @@
 创建区域: 鬼头蘑菇孢子
 充能: [长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Projectile_MAG_BlackSporeCloud`
-
-法术标志
-
-`[临时](Temporary_(spell_flag).md)`
-
 ## 状态: 昏沉
 
 **[昏沉](Befuddled_(Condition).md "昏沉 (状态)")**

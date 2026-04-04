@@ -18,16 +18,6 @@
 范围：自身
 范围效果：9米（30英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_TurnTheTide`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

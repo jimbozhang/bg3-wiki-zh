@@ -22,12 +22,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Shout_CHA_ShellKid_Stone_Spell`
-
 ## 状态：魅惑
 
 **[魅惑](Charmed_(Condition).md "魅惑 (状态)")**

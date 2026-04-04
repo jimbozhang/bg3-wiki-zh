@@ -1,281 +1,49 @@
 # 奎德诺斯
 
-## 奎德诺斯
-
-- 龙
-- 伪装
-
-### 性别
-
-男性
-
-### 声音 / 演员
-
-- [Ben Onwukwe](https://www.imdb.com/name/nm0648936/)
-
-### 家乡
-
-星界
-
-## 属性
-
-### 体型
-
-[巨型](Huge.md "巨型")
-
-### 类型
-
-[红龙](Red_Dragon.md "红龙")
-
-### 种族
-
-[龙](Dragon.md "龙")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-17
-
-### 生命值
-
-400
-
-### 护甲等级
-
-19
-
-### 先攻
-
-0
-
-### 熟练项
-
-+6
-
-### 移动
-
-18 米 (60 英尺)
-
-### 重量
-
-6000 千克 (12000 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 27 / (+8) | 10 / (0) | 25 / (+7) | 16 / (+3) | 13 / (+1) | 21 / (+5) |
+| | |
+| --- | --- |
+| 配音 | - [Ben Onwukwe](https://www.imdb.com/name/nm0648936/) |
+| 体型 | [巨型](Huge.md "巨型") |
+| 类型 | [红龙](Red_Dragon.md "红龙") |
+| 种族 | [龙](Dragon.md "龙") |
+| 等级 | 17 |
+| 生命值 | 400 |
+| 护甲等级 | 19 |
+| 先攻 | 0 |
+| 移动速度 | 18 米 (60 英尺) |
+| 经验值 | 250 |
 
 ## 状态
 
-- [**传奇抗性：失能**](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
+- [传奇抗性：失能](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
 
 对任何[失能](Incapacitated_(Condition_Type).md) 状态的下一次[豁免检定](Saving_throw.md "豁免检定")获得+10加值。可使用三次。
 
-- [**传奇动作：龙之狂怒**](Legendary_Action_colon__Draconic_Fury_(Condition).md "传奇动作：龙之狂怒 (状态)")
+- [传奇动作：龙之狂怒](Legendary_Action_colon__Draconic_Fury_(Condition).md "传奇动作：龙之狂怒 (状态)")
 
   - 这条巨龙将在下一个攻击它的生物身上使用其[火焰吐息](Fire_Breath_(Ansur).md "火焰吐息 (安苏)")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**古龙鳞甲**](Great_Wyrm's_Scales.md "古龙鳞甲")
-
-所有受到的伤害减少2点。
-
-## 探索者难度属性
-
-### 等级
-
-17
-
-### 生命值
-
-280
-
-### 护甲等级
-
-19
-
-### 先攻
-
-0
-
-### 熟练项
-
-+8
-
-### 移动
-
-18 米 (60 英尺)
-
-### 重量
-
-6000 千克 (12000 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +8 | +6 | +13 | +3 | +7 | +11 |
 
 ## 状态
 
-- [**传奇抗性：失能**](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
+- [传奇抗性：失能](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
 
 对任何[失能](Incapacitated_(Condition_Type).md) 状态的下一次[豁免检定](Saving_throw.md "豁免检定")获得+10加值。可使用三次。
 
-- [**传奇动作：龙之狂怒**](Legendary_Action_colon__Draconic_Fury_(Condition).md "传奇动作：龙之狂怒 (状态)")
+- [传奇动作：龙之狂怒](Legendary_Action_colon__Draconic_Fury_(Condition).md "传奇动作：龙之狂怒 (状态)")
 
   - 这条巨龙将在下一个攻击它的生物身上使用其[火焰吐息](Fire_Breath_(Ansur).md "火焰吐息 (安苏)")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-17
-
-### 生命值
-
-520
-
-### 护甲等级
-
-19
-
-### 先攻
-
-0
-
-### 熟练项
-
-+6
-
-### 移动
-
-18 米 (60 英尺)
-
-### 重量
-
-6000 千克 (12000 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 27 / (+8) | 10 / (0) | 25 / (+7) | 16 / (+3) | 13 / (+1) | 21 / (+5) |
 
 ## 状态
 
-- [**传奇抗性：失能**](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
+- [传奇抗性：失能](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
 
 对任何[失能](Incapacitated_(Condition_Type).md) 状态的下一次[豁免检定](Saving_throw.md "豁免检定")获得+10加值。可使用三次。
 
-- [**传奇动作：龙之狂怒**](Legendary_Action_colon__Draconic_Fury_(Condition).md "传奇动作：龙之狂怒 (状态)")
+- [传奇动作：龙之狂怒](Legendary_Action_colon__Draconic_Fury_(Condition).md "传奇动作：龙之狂怒 (状态)")
 
   - 这条巨龙将在下一个攻击它的生物身上使用其[火焰吐息](Fire_Breath_(Ansur).md "火焰吐息 (安苏)")。
 
-## 特性
-
-- [**传奇动作：龙之狂怒**](Legendary_Action_colon__Draconic_Fury.md "传奇动作：龙之狂怒")
-
-龙每回合可使用一次吐息武器反击攻击者。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [魔法抗性](Magic_Resistance.md "魔法抗性")
-
-对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**巨龙鳞甲**](Greater_Wyrm's_Scales.md "巨龙鳞甲")
-
-所有受到的伤害减少4点。
-
-## 技术信息
-
-###
-
-UID
-
-`S_GLO_GithDragon` ###
-
-UUID
-
-`9e21fba4-5a6d-4ca0-9738-2add3c967b3f` ###
-
-属性
-
-`Dragon_AdultRed` ## 变体 1
-
-###
-
-UID
-
-`S_LOW_VossDragonborn` ###
-
-UUID
-
-`7952187b-7636-418f-884c-adfdd33fda8b` ###
-
-属性
-
-`LOW_VossSewers_Red_Dragonborn_Qdenos` **奎德诺斯**是于[山隘](Mountain_Pass.md "山隘")遭遇的一条[红龙](List_of_creature_types.md#Dragon "生物类型列表")。他效忠于[凯斯拉克百夫长沃斯](Voss.md "沃斯")，一位寻找[神秘遗物](Mysterious_Artefact.md "神秘遗物")的[吉斯洋基人](Githyanki.md "吉斯洋基人")骑士。
+**奎德诺斯**是于[山隘](Mountain_Pass.md "山隘")遭遇的一条[红龙](List_of_creature_types.md#Dragon "生物类型列表")。他效忠于[凯斯拉克百夫长沃斯](Voss.md "沃斯")，一位寻找[神秘遗物](Mysterious_Artefact.md "神秘遗物")的[吉斯洋基人](Githyanki.md "吉斯洋基人")骑士。
 
 > “
 >

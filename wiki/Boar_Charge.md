@@ -23,16 +23,6 @@
 目标：路径上的所有敌人
 持续时间：2回合
 
-## 技术细节
-
-UID
-
-`Rush_Rush_Boar_Summon`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：倒伏
 
 **[倒伏](Prone_(Condition).md "倒伏 (状态)")**

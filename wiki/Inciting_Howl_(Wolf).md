@@ -18,12 +18,6 @@
 充能：每场战斗
 持续时间：1 驱散
 
-## 技术细节
-
-UID
-
-`Shout_PackHowl_Wolf_Dire`
-
 ## 状态：激励咆哮
 
 **[激励咆哮](Inciting_Howl_(Condition).md "激励咆哮 (状态)")**

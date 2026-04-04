@@ -14,16 +14,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_CircuitryInterface`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 状态：巧匠形态
 
 **[巧匠形态](Form_of_Artifice_(Condition).md "巧匠形态 (状态)")**

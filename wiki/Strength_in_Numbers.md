@@ -13,16 +13,6 @@
 详情
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_END_Rooftops_HelpArrives`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由以下生物使用：[飞天恐魔](Winged_Horror.md "飞天恐魔")

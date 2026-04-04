@@ -26,16 +26,6 @@
 射程：9米（30英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_TAD_ConcentratedBlast`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[灵吸怪](Illithid.md "灵吸怪")和[部分灵吸怪](Partial-illithid.md "部分灵吸怪")

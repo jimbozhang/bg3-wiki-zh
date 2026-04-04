@@ -25,16 +25,6 @@
 - 在[角色等级](Character_level.md "角色等级") 5 时，伤害增加至 2d8[寒冷](Cold.md "寒冷")。
 - 在角色等级 10 时，伤害增加至 3d8[寒冷](Cold.md "寒冷")。
 
-## 技术细节
-
-UID
-
-`Projectile_RayOfFrost`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：冷冻射线
 
 **[冷冻射线](Ray_of_Frost_(Condition).md "冷冻射线（状态）")**

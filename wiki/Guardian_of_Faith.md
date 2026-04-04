@@ -27,16 +27,6 @@
 
 以更高等级施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_GuardianOfFaith`
-
-法术标志
-
-`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 生物：信仰守卫（生物）
 
 | [力量](Strength.md "Strength") 10 | [敏捷](Dexterity.md "Dexterity") 10 | [体质](Constitution.md "Constitution") 10 | [智力](Intelligence.md "Intelligence") 10 | [感知](Wisdom.md "Wisdom") 10 | [魅力](Charisma.md "Charisma") 10 |

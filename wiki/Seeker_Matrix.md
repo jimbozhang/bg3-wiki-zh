@@ -17,12 +17,6 @@
 范围：自身
 范围效果：9米（30英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_SteelWatcher_Biped_SeeInvisibility`
-
 ## 状态：识破隐形
 
 **[识破隐形](See_Invisibility_(Condition).md "识破隐形（状态）")**

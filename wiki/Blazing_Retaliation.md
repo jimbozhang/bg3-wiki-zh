@@ -21,12 +21,6 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_FlamingFist_BlazingRetaliation`
-
 ## 状态：火热复仇
 
 **[火热复仇](Blazing_Retaliation_(Condition).md "火热复仇（状态）")**

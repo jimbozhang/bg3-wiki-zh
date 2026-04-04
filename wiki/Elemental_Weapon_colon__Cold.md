@@ -18,16 +18,6 @@
 
 - [升环施法](Upcasting.md "Upcasting")：使用 5级或 6级 [法术位](Spell_Slot.md "Spell Slot") 施放此法术时，[攻击掷骰](Attack_roll.md "Attack Roll") 加值将提高 1，并额外造成 1d4 [寒冷](Cold.md "Cold") 伤害。
 
-## 技术细节
-
-UID
-
-`Target_ElementalWeapon_Cold`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：元素武器：寒冷
 
 **[元素武器：寒冷](Elemental_Weapon_colon__Cold_(Condition).md "元素武器：寒冷 (状态)")**

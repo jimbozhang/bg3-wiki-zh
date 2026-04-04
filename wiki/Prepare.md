@@ -16,16 +16,6 @@
 必须[熟练](Proficiency.md#Weapon_proficiency "熟练项")使用该武器
 持续时间：1回合
 
-## 技术细节
-
-UID
-
-`Shout_FullSwing`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell_flag\) \(page does not exist\)")`
-
 ## 状态：已准备
 
 **[已准备](Prepared_(Condition).md "已准备（状态）")**

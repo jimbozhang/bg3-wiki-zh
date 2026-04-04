@@ -1,22 +1,8 @@
 # 罗丝
 
-## 罗丝
-
-蛛后
-欲望之母
-
-### 家族
-
-⁠[柯瑞隆·拉瑞斯安](https://forgottenrealms.fandom.com/wiki/Corellon_Larethian)（前夫）
-[伊莉丝翠](Eilistraee.md "Eilistraee")（女儿）
-⁠[维拉恩](https://forgottenrealms.fandom.com/wiki/Vhaeraun)（儿子）
-⁠[凡德莉亚·吉尔马德里斯](https://forgottenrealms.fandom.com/wiki/Vandria_Gilmadrith)（女儿）
-
-## 属性
-
-### 种族
-
-[神祇](Deity.md "Deity")
+| | |
+| --- | --- |
+| 种族 | [神祇](Deity.md "Deity") |
 
 **罗丝**，又名_蛛后_，是[卓尔](Drow.md "Drow")最具影响力的[女神](Deities.md "Deities")，也是⁠[黑暗席德瑞恩](https://forgottenrealms.fandom.com/wiki/Dark_Seldarine)万神殿的领袖。
 

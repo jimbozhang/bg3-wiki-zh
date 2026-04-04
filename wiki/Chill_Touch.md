@@ -23,16 +23,6 @@
 - 在[角色等级](Character_level.md "角色等级")5时，伤害增加至2d8[黯蚀](Necrotic.md "黯蚀")。
 - 在角色等级10时，伤害增加至3d8[黯蚀](Necrotic.md "黯蚀")。
 
-## 技术细节
-
-UID
-
-`Target_ChillTouch`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：冻僵
 
 **[冻僵](Bone_Chilled_(Condition).md "冻僵（状态）")**

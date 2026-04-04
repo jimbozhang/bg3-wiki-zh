@@ -16,16 +16,6 @@
 创造区域：水
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_CreateWater_MinorConjuration`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：濡湿
 
 **[濡湿](Wet_(Condition).md "濡湿（状态）")**

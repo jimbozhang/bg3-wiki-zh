@@ -15,16 +15,6 @@
 详情
 范围：1.5米（5英尺）
 
-## 技术细节
-
-UID
-
-`Target_Dig`
-
-法术标志
-
-`[HideInItemTooltip](https://bg3.wiki/w/index.php?title=HideInItemTooltip_\(spell_flag\)&action=edit&redlink=1) "HideInItemTooltip \(spell flag\) \(page does not exist\)")`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由物品提供：

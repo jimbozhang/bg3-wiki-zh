@@ -13,16 +13,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_Seeming_Recast`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 变体
 
 - [易容术：女性龙裔](Disguise_Self_colon__Femme_Dragonborn.md "易容术：女性龙裔")

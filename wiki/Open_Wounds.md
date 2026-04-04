@@ -18,22 +18,6 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_OpenWounds_Redcap`
-
-分类为戏法的版本
-
-`Target_LOW_BlushingMermaid_Redcap_OpenWounds`
-
-分类为5级法术的版本
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血（状态）")**

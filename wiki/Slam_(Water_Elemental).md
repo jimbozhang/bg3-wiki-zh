@@ -25,16 +25,6 @@
 目标：半径内所有其他生物
 创造区域：水
 
-## 技术细节
-
-UID
-
-`Target_Slam_Elemental_Water`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：冻僵
 
 **[冻僵](Chilled_(Condition).md "冻僵 (状态)")**

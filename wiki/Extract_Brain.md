@@ -26,16 +26,6 @@
 目标：处于[震慑](Stunned_(status_group).md)或[昏迷](Unconscious_(status_group)状态.md)，且非[倒伏](Prone_(Condition).md "倒伏（状态）")的生物
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_ExtractBrain_Mindflayer`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 被以下生物使用：[灵吸怪奥术师](Illithid_Arcanist.md "灵吸怪奥术师")、[夺心魔](Mind_flayer.md "夺心魔")、[奥米伦](Omeluum.md "奥米伦")和[君主](The_Emperor.md "君主")

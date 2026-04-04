@@ -1,229 +1,35 @@
 # 图拉
 
-## 图拉
-
-- 游戏内
-- 模型
-- 孢子仆从
-- 肖像画
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Sydney Craven](https://www.imdb.com/name/nm7373540/)
-
-### 阵营
-
-[铁手氏族](Clan_Ironhand.md "铁手氏族")
-
-## 属性
-
-### 体型
-
-[小型](Small.md "小型")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[侏儒](Gnome.md "侏儒")
-
-### 亚种
-
-[地底侏儒](Deep_Gnome.md "地底侏儒")
-
-- 平衡
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-10
-
-### 护甲等级
-
-11
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-40
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Sydney Craven](https://www.imdb.com/name/nm7373540/) |
+| 体型 | [小型](Small.md "小型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [侏儒](Gnome.md "侏儒") |
+| 等级 | 1 |
+| 生命值 | 10 |
+| 护甲等级 | 11 |
+| 先攻 | 0 |
+| 经验值 | 40 |
 
 ## 状态
 
-- [**灰矮人毒素**](Duergar_Poison_(Condition).md "灰矮人毒素 (状态)")
+- [灰矮人毒素](Duergar_Poison_(Condition).md "灰矮人毒素 (状态)")
 
 一种罕见的毒素使受害者患病。
-
-## 特性
-
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-
-你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [小步奔行](Shortened_Stride.md "小步奔行")
-
-你的移动速度为 7.5 米 (25 英尺)。
-
-- [岩石伪装](Stone_Camouflage.md "岩石伪装")
-
-你在[隐匿](Stealth.md "隐匿")检定上具有[优势](Advantage.md "优势")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-## 硬核难度属性
-
-### 等级
-
-1
-
-### 生命值
-
-10
-
-### 护甲等级
-
-11
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动速度
-
-7.5 米 (25 英尺)
-
-### 重量
-
-35 千克 (70 磅)
-
-### 高级黑暗视觉
-
-24 米 (80 英尺)
-
-### 经验值奖励
-
-40
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## 状态
 
-- [**灰矮人毒素**](Duergar_Poison_(Condition).md "灰矮人毒素 (状态)")
+- [灰矮人毒素](Duergar_Poison_(Condition).md "灰矮人毒素 (状态)")
 
 一种罕见的毒素使受害者患病。
 
-## 特性
-
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-
-你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [小步奔行](Shortened_Stride.md "小步奔行")
-
-你的移动速度为 7.5 米 (25 英尺)。
-
-- [岩石伪装](Stone_Camouflage.md "岩石伪装")
-
-你在[隐匿](Stealth.md "隐匿")检定上具有[优势](Advantage.md "优势")。
-
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到 24 米 / 80 英尺。
-
-## 技术数据
-
-###
-
-UID
-
-`S_GLO_InjuredGnome` ###
-
-UUID
-
-`fcf53ac7-1805-4e57-b6ed-4f7b0f90cf96` ###
+属性
 
 属性
 
-`Gnome_Deep_Commoner` ## 变体 1
-
-###
-
-UID
-
-`WYR_InjuredGnome` ###
-
-UUID
-
-`2fd0db85-e353-4754-ae86-c3f41042a3eb` ###
-
-属性
-
-`Gnome_Deep_Commoner` ## 变体 2
-
-###
-
-UID
-
-`[WIP] CINE_UND_MyconidCircle_InjuredGnome_SporeServant` ###
-
-UUID
-
-`abeceaf4-b52b-42f8-b498-5c6256913566` ###
-
-属性
-
-`Gnome_Deep_Commoner` **图拉**是[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")中的一名[铁手氏族](Clan_Ironhand.md "铁手氏族")侏儒，位于[第一幕](Act_One.md "第一幕")。
+**图拉**是[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")中的一名[铁手氏族](Clan_Ironhand.md "铁手氏族")侏儒，位于[第一幕](Act_One.md "第一幕")。
 
 > “
 >

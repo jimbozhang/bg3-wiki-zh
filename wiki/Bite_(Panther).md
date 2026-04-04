@@ -26,16 +26,6 @@
 - 在 8 等级时，此额外伤害变为 1d6⁠⁠[穿刺](Piercing.md "穿刺")。
 - 在 12 等级时，此额外伤害变为 1d8⁠⁠[穿刺](Piercing.md "穿刺")。
 
-## 技术细节
-
-UID
-
-`Target_Bite_Panther`
-
-法术标志
-
-`[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[荒野形态：黑豹](Wild_Shape_colon__Panther.md "荒野形态：黑豹")

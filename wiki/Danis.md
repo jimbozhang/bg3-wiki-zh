@@ -1,288 +1,74 @@
 # 丹尼斯
 
-## 丹尼斯
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Dario Coates](https://www.imdb.com/name/nm2872353/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [提夫林](Tiefling.md "Tiefling") |
+| 等级 | 1 |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 m (30 ft) |
+| 经验值 | 1 |
 
-- 游戏内
-- 模型
-- 肖像画
+## 抗性 [(info)](Resistances.md "Resistances")
 
-### 身份
+- ## 特性
 
-男性
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-### 声音 / 演员
+能在黑暗中看到一定距离。
 
-- [Dario Coates](https://www.imdb.com/name/nm2872353/)
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-### 阵营
+[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
 
-[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-### 家庭
+攻击离开攻击范围的敌人。
 
-[贝克斯](Bex.md "Bex")（妻子）
+## 抗性 [(info)](Resistances.md "Resistances")
 
-## 属性
+- ## 特性
 
-### 体型
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
-[中级](Medium.md "Medium")
+能在黑暗中看到一定距离。
 
-### 类型
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-[类人生物](Humanoid.md "Humanoid")
+[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
 
-### 种族
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-[提夫林](Tiefling.md "Tiefling")
+攻击离开攻击范围的敌人。
 
-### 亚种
+## 抗性 [(info)](Resistances.md "Resistances")
 
-[阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling")
+- ## 特性
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+
+能在黑暗中看到一定距离。
+
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
+
+[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 丹尼斯（第二幕差异）
 
 - 平衡
 
 - 探索者
 
 - 硬核
-
-## 平衡难度属性
-
-### 等级
-
-1
-
-### HP
-
-8
-
-### AC
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-1
-
-### HP
-
-5
-
-### AC
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-1
-
-### HP
-
-10
-
-### AC
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-12 m (40 ft)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-
-[抗性](Resistant.md "Resistant")于所有[火焰](Fire.md "Fire")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_GLO_YoungLover_01` ###
-
-UUID
-
-`dd9178e7-1e3f-43bc-8a38-666dfcac7d0c` ###
-
-属性
-
-`Tiefling_Commoner` ## 丹尼斯（第二幕差异）
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-3
-
-### HP
-
-28
-
-### 熟练项
-
-+2
-
-## 探索者难度属性
-
-### 等级
-
-3
-
-### HP
-
-19
-
-### 熟练项
-
-+4
-
-## 硬核难度属性
-
-### 等级
-
-3
-
-### HP
-
-36
-
-### 熟练项
-
-+2
 
 **丹尼斯**是寻求在[翠绿林地](Emerald_Grove.md "Emerald Grove")避难的提夫林难民之一，出现在[第一幕](Act_One.md "Act One")。他与[贝克斯](Bex.md "Bex")结婚。
 

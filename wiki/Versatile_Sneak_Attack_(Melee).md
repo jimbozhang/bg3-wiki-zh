@@ -23,16 +23,6 @@
 近战：1.5米（5英尺）
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_LOW_Guildhall_AdaptableSneakAttack`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 通过特性获得：

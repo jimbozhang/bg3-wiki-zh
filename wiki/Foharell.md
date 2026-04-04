@@ -1,248 +1,38 @@
 # 福哈雷尔
 
-## 福哈雷尔船长
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Okezie Morro](https://www.imdb.com/name/nm2768619/)
-
-### 阵营
-
-[安博里](Umberlee.md "安博里")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[黄金矮人](Gold_Dwarf.md "Gold Dwarf")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-8
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 10 |
+| 生命值 | 8 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 1 |
 
 ## 状态
 
-- [**祝福术**](Bless_(Condition).md "Bless (Condition)")
+- [祝福术](Bless_(Condition).md "Bless (Condition)")
 
 对[攻击掷骰](Attack_rolls.md "Attack_rolls")和[豁免检定](Saving_throws.md "Saving_throws")有 +1d4 加值。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition).md "Poisoned (Condition)")的[豁免检定](Saving_throw.md "Saving_throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-5
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+6
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## 状态
 
-- [**祝福术**](Bless_(Condition).md "Bless (Condition)")
+- [祝福术](Bless_(Condition).md "Bless (Condition)")
 
 对[攻击掷骰](Attack_rolls.md "Attack_rolls")和[豁免检定](Saving_throws.md "Saving_throws")有 +1d4 加值。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition).md "Poisoned (Condition)")的[豁免检定](Saving_throw.md "Saving_throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-10
-
-### 护甲等级
-
-10
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-1
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
 ## 状态
 
-- [**祝福术**](Bless_(Condition).md "Bless (Condition)")
+- [祝福术](Bless_(Condition).md "Bless (Condition)")
 
 对[攻击掷骰](Attack_rolls.md "Attack_rolls")和[豁免检定](Saving_throws.md "Saving_throws")有 +1d4 加值。
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition).md "Poisoned (Condition)")的[豁免检定](Saving_throw.md "Saving_throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术细节
-
-###
-
-UID
-
-`S_LOW_UmberleeFollower01` ###
-
-UUID
-
-`ab5e42b9-89bf-472d-bc3f-f6f67186b5e4` ###
-
-属性
-
-`Dwarf_Commoner` **福哈雷尔船长**是[博德之门](Baldur's_Gate.md "Baldur's Gate")第三幕中[安博里](Umberlee.md "Umberlee")的一名[矮人](Dwarf.md "Dwarf")追随者。
+**福哈雷尔船长**是[博德之门](Baldur's_Gate.md "Baldur's Gate")第三幕中[安博里](Umberlee.md "Umberlee")的一名[矮人](Dwarf.md "Dwarf")追随者。
 
 > “
 >

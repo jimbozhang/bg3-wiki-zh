@@ -19,18 +19,6 @@
 目标：至少8米（27英尺）外的地面
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Fly_Dragon`
-
-`Target_Fly_Dragon_Skeletal`
-
-法术标志
-
-`[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 由生物使用：[安苏](Ansur.md "安苏")和[受控红龙](Dominated_Red_Dragon.md "受控红龙")

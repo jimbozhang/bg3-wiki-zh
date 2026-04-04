@@ -17,12 +17,6 @@
 消耗
 [动作](Actions.md#Resources "动作")
 
-## 技术细节
-
-UID
-
-`Shout_Hexblade_Bind`
-
 ## 状态：脆弱诅咒武器
 
 **[脆弱诅咒武器](Hexed_Weapon_(Condition).md "脆弱诅咒武器（状态）")**

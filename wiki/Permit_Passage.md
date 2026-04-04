@@ -13,42 +13,6 @@
 详情
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_SHA_Shadowquake_Summon_Melee`
-
-召唤装备单把弯刀的审判复仇者
-
-`Target_SHA_Shadowquake_Summon_Dual`
-
-召唤装备双弯刀的审判复仇者
-
-`Target_SHA_Shadowquake_Summon_Mace`
-
-召唤装备硬头锤和护盾的审判复仇者
-
-`Target_SHA_Shadowquake_Summon_Shield`
-
-召唤装备弯刀和护盾的审判复仇者
-
-`Target_SHA_Shadowquake_Summon_Ranger`
-
-召唤装备弩的审判灵魂猎手
-
-`Target_SHA_Shadowquake_Summon_Caster`
-
-召唤审判织夜者
-
-`Target_SHA_Shadowquake_Summon_Boss`
-
-召唤审判十字军
-
-法术标志
-
-`[CannotRotate](https://bg3.wiki/w/index.php?title=CannotRotate_\(spell_flag\)&action=edit&redlink=1) "CannotRotate \(spell flag\) \(page does not exist\)")`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 生物：审判复仇者
 
 | [力量](Strength.md "力量") 14 (+2) | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 12 (+1) | [智力](Intelligence.md "智力") 10 | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |

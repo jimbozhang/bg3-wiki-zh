@@ -6,12 +6,6 @@
 
 变形为黑豹。
 
-## 技术细节
-
-UID
-
-`Shout_MagicAllergy_Polymorph`
-
 ## 状态：魔法过敏：黑豹变形术
 
 **[魔法过敏：黑豹变形术](Magic_Allergy_colon__Panther_Polymorph_(Condition).md "魔法过敏：黑豹变形术 (状态)")**

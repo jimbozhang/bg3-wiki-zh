@@ -27,16 +27,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Smite_Blinding`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：目盲 (致盲斩)
 
 **\_(状态)[目盲](Blinded_(Blinding_Smite)_(Condition).md "目盲 (致盲斩) (状态)")**

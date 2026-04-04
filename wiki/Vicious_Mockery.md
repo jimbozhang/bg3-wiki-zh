@@ -25,16 +25,6 @@
 - 在[角色等级](Character_level.md "角色等级") 5时，伤害增加至2d4⁠⁠[心灵](Psychic.md "心灵")。
 - 在角色等级 10时，伤害增加至3d4⁠⁠[心灵](Psychic.md "心灵")。
 
-## 技术细节
-
-UID
-
-`Target_ViciousMockery`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：恶毒嘲笑
 
 **[恶毒嘲笑](Vicious_Mockery_(Condition).md "恶毒嘲笑（状态）")**

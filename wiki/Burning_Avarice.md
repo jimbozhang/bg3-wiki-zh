@@ -21,16 +21,6 @@
 区域效果：4 米（13 英尺）半径
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Shout_Fire_TollCollector_Face`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[贪婪面容](Visage_of_Greed.md "贪婪面容")

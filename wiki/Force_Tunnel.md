@@ -20,16 +20,6 @@
 目标：路径上的所有敌人和物品
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Rush_ForceTunnel`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 如何习得
 
 生物使用：[灵吸怪](Illithid.md "灵吸怪") 和 [部分灵吸怪](Partial-illithid.md "部分灵吸怪")

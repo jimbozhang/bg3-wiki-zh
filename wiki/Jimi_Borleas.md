@@ -1,93 +1,18 @@
 # 吉米·博利斯
 
-## 拳手吉米·博利斯
-
-- 游戏内
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [丹尼·拉希姆](https://www.imdb.com/name/nm3281039/)
-
-### 阵营
-
-[焰拳](Flaming_Fist.md "Flaming Fist")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[矮人](Dwarf.md "Dwarf")
-
-### 亚种
-
-[黄金矮人](Gold_Dwarf.md "Gold Dwarf")
-
-### 原型
-
-[焰拳镰钩手](Flaming_Fist_Guisarmier.md "Flaming Fist Guisarmier")
-
-### 职业
-
-[战士](Fighter.md "Fighter")
-
-- 平衡
-- 探索者
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-62
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [丹尼·拉希姆](https://www.imdb.com/name/nm3281039/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 等级 | 8 |
+| 生命值 | 62 |
+| 护甲等级 | 16 |
+| 先攻 | +1 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 经验值 | 250 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -95,77 +20,11 @@
 
 - 5
 
-## 特性
+## 抗性 [(info)](Resistances.md "Resistances")
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- ## 额外资源
 
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，对[攻击掷骰](Attack_rolls.md "Attack rolls")具有[优势](Advantage.md "Advantage")。
-
-- [**反击**](Riposte_(passive_feature).md "Riposte (passive feature)")
-
-当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "Superiority Die")进行反击。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-58
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+5
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +8 | +1 | +6 | 0 | +1 | -1 |
+- 5
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -173,129 +32,7 @@
 
 - 5
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，对[攻击掷骰](Attack_rolls.md "Attack rolls")具有[优势](Advantage.md "Advantage")。
-
-- [**反击**](Riposte_(passive_feature).md "Riposte (passive feature)")
-
-当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "Superiority Die")进行反击。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-65
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-7.5 米 (25 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 5 | 1 | 1 |
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-- ## 额外资源
-
-- 5
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，对[攻击掷骰](Attack_rolls.md "Attack rolls")具有[优势](Advantage.md "Advantage")。
-
-- [**反击**](Riposte_(passive_feature).md "Riposte (passive feature)")
-
-当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "Superiority Die")进行反击。
-
-## 技术
-
-###
-
-UID
-
-`S_LOW_DeadOfNight_FlamingFist` ###
-
-UUID
-
-`7f9e4158-f16e-4ac5-a4c6-0e718a9ec326` ###
-
-Stats
-
-`FlamingFist_Dwarf_Melee_Attacker` **拳手吉米·博利斯**是一名[矮人](Dwarf.md "Dwarf")[战士](Fighter.md "Fighter")，也是[焰拳](Flaming_Fist.md "Flaming Fist")的成员。他可以在[第三幕](Act_Three.md "Act Three")的[下城区](Lower_City.md "Lower City")街道上找到。
+**拳手吉米·博利斯**是一名[矮人](Dwarf.md "Dwarf")[战士](Fighter.md "Fighter")，也是[焰拳](Flaming_Fist.md "Flaming Fist")的成员。他可以在[第三幕](Act_Three.md "Act Three")的[下城区](Lower_City.md "Lower City")街道上找到。
 
 > “
 >

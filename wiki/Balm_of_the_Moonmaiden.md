@@ -21,16 +21,6 @@
 范围：24米（80英尺）
 目标：6名盟友
 
-## 技术细节
-
-UID
-
-`Target_END_AllyAbility_IsobelHeal`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell_flag\) \(page does not exist\)")`
-
 ## 如何学习
 
 此法术是以下法术的变体：

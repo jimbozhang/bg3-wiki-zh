@@ -26,12 +26,6 @@
 
 以此法术升环施放不会获得任何额外收益。
 
-## 技术细节
-
-UID
-
-`Zone_CHA_ShellKid_Cup_Spell`
-
 ## 状态：濡湿
 
 **[濡湿](Wet_(Condition).md "Wet (Condition)")**

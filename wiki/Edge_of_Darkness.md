@@ -23,16 +23,6 @@
 充能：[短休](Short_rest.md "短休")
 必须 [熟练](Proficiency.md#Weapon_proficiency "熟练") 使用该武器
 
-## 技术细节
-
-UID
-
-`Target_DEN_Apprentice_DaggerOfShar_Spell`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 区域：黑暗术
 
 **[黑暗术](Darkness_(cloud).md "黑暗术 (云)")**

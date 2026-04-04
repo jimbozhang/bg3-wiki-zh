@@ -20,16 +20,6 @@
 - 7级时，解锁消耗1个[动作](Actions.md#Resources "动作") + 4点奥术回想充能来补充一个[4级法术位](Spells.md#Spell_slots "法术")的能力。
 - 9级时，解锁消耗1个[动作](Actions.md#Resources "动作") + 5点奥术回想充能来补充一个[5级法术位](Spells.md#Spell_slots "法术")的能力。
 
-## 技术细节
-
-UID
-
-`Shout_ArcaneRecovery`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

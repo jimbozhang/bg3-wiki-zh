@@ -15,16 +15,6 @@
 充能：[长休](Long_Rest.md "长休")
 持续时间：2 驱散
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Zhentarim_Bloodfeeding_Critical`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[NoCameraMove](https://bg3.wiki/w/index.php?title=NoCameraMove_\(spell_flag\)&action=edit&redlink=1) "NoCameraMove \(spell flag\) \(page does not exist\)")`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 状态：猩红饱和
 
 **[猩红饱和](Scarlet_Saturation_(Condition).md "猩红饱和 (状态)")**

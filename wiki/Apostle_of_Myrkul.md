@@ -1,314 +1,44 @@
 # 米尔寇的使徒
 
-## 米尔寇的使徒
-
-死神之貌
-
-- 游戏内
-- 肖像画
-
-### 阵营
-
-[米尔寇教团](Cult_of_Myrkul.md "米尔寇教团")
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[不死生物](Undead.md "不死生物")
-
-### 种族
-
-[不死生物](Undead.md "不死生物")
-
-- 平衡
-- 探索者
-- 硬核
-- 荣誉
-
-## 平衡难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-245
-
-### 护甲等级
-
-19
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 移动
-
-0 米 (0 英尺)
-
-### 重量
-
-200 千克 (400 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 23 / (+6) | 12 / (+1) | 22 / (+6) | 15 / (+2) | 17 / (+3) | 21 / (+5) |
+| | |
+| --- | --- |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [不死生物](Undead.md "不死生物") |
+| 种族 | [不死生物](Undead.md "不死生物") |
+| 等级 | 11 |
+| 生命值 | 245 |
+| 护甲等级 | 19 |
+| 先攻 | +1 |
+| 移动速度 | 0 米 (0 英尺) |
+| 经验值 | 320 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
-- [**米尔寇的威仪**](Myrkul's_Presence_(Condition).md "米尔寇的威仪 (状态)")
+- [米尔寇的威仪](Myrkul's_Presence_(Condition).md "米尔寇的威仪 (状态)")
 
 对所有附近生物施加[冻僵](https://bg3.wiki/w/index.php?title=Bone_Chilled&action=edit&redlink=1 "冻僵 (页面不存在)")。
-
-## 特性
-
-- [吞噬虔诚](Consume_the_Faithful.md "吞噬虔诚")
-
-吞噬一个[死灵侍僧](Necromite.md "死灵侍僧")以获得[死亡一指](Finger_of_Death.md "死亡一指")。在[硬核](Tactician.md "硬核")及以上难度：同时为施法者恢复 8d8 [生命值](HP.md "生命值")。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到一定距离。
-
-- [防御](Defence.md "防御")
-
-穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "疾病")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md))。
-
-- [不变形态](Immutable_Form.md "不变形态")
-
-免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")+5。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**魔法板甲**](Magical_Plate_(-2).md "魔法板甲 (-2)")
-
-所有受到的伤害减少 2。
-
-## 探索者难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-201
-
-### 护甲等级
-
-19
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+6
-
-### 移动
-
-0 米 (0 英尺)
-
-### 重量
-
-200 千克 (400 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +6 | +1 | +6 | +2 | +7 | +9 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
-- [**米尔寇的威仪**](Myrkul's_Presence_(Condition).md "米尔寇的威仪 (状态)")
+- [米尔寇的威仪](Myrkul's_Presence_(Condition).md "米尔寇的威仪 (状态)")
 
 对所有附近生物施加[冻僵](https://bg3.wiki/w/index.php?title=Bone_Chilled&action=edit&redlink=1 "冻僵 (页面不存在)")。
-
-## 特性
-
-- [吞噬虔诚](Consume_the_Faithful.md "吞噬虔诚")
-
-吞噬一个[死灵侍僧](Necromite.md "死灵侍僧")以获得[死亡一指](Finger_of_Death.md "死亡一指")。在[硬核](Tactician.md "硬核")及以上难度：同时为施法者恢复 8d8 [生命值](HP.md "生命值")。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到一定距离。
-
-- [防御](Defence.md "防御")
-
-穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "疾病")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md))。
-
-- [不变形态](Immutable_Form.md "不变形态")
-
-免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")+5。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [**魔法板甲**](Magical_Plate_(-2).md "魔法板甲 (-2)")
-
-所有受到的伤害减少 2。
-
-## 硬核难度属性
-
-### 等级
-
-11
-
-### 生命值
-
-390
-
-### 护甲等级
-
-20
-
-### 先攻
-
-+2
-
-### 熟练项
-
-+4
-
-### 移动
-
-0 米 (0 英尺)
-
-### 重量
-
-200 千克 (400 磅)
-
-### 高级黑暗视觉
-
-30 米 (100 英尺)
-
-### 经验值奖励
-
-320
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 23 / (+6) | 12 / (+1) | 22 / (+6) | 15 / (+2) | 17 / (+3) | 21 / (+5) |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
-- [**米尔寇的威仪**](Myrkul's_Presence_(Condition).md "米尔寇的威仪 (状态)")
+- [米尔寇的威仪](Myrkul's_Presence_(Condition).md "米尔寇的威仪 (状态)")
 
 对所有附近生物施加[冻僵](https://bg3.wiki/w/index.php?title=Bone_Chilled&action=edit&redlink=1 "冻僵 (页面不存在)")。
 
-- [**传奇抗性：失能**](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
+- [传奇抗性：失能](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
 
 下一次对抗任何[失能](Incapacitated_(Condition_Type)状态.md)的[豁免检定](Saving_throw.md "豁免检定")+10。可使用三次。
-
-## 特性
-
-- [吞噬虔诚](Consume_the_Faithful.md "吞噬虔诚")
-
-吞噬一个[死灵侍僧](Necromite.md "死灵侍僧")以获得[死亡一指](Finger_of_Death.md "死亡一指")。在[硬核](Tactician.md "硬核")及以上难度：同时为施法者恢复 8d8 [生命值](HP.md "生命值")。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到一定距离。
-
-- [防御](Defence.md "防御")
-
-穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "疾病")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md))。
-
-- [不变形态](Immutable_Form.md "不变形态")
-
-免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")+5。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [**魔法板甲**](Magical_Plate_(-2).md "魔法板甲 (-2)")
-
-所有受到的伤害减少 2。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
 
 ## 荣誉难度属性
 
@@ -356,83 +86,13 @@
 
 - - - - - - ## 状态
 
-- [**米尔寇的威仪**](Myrkul's_Presence_(Condition).md "米尔寇的威仪 (状态)")
+- [米尔寇的威仪](Myrkul's_Presence_(Condition).md "米尔寇的威仪 (状态)")
 
 对所有附近生物施加[冻僵](https://bg3.wiki/w/index.php?title=Bone_Chilled&action=edit&redlink=1 "冻僵 (页面不存在)")。
 
-- [**传奇抗性：失能**](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
+- [传奇抗性：失能](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
 
 下一次对抗任何[失能](Incapacitated_(Condition_Type)状态.md)的[豁免检定](Saving_throw.md "豁免检定")+10。可使用三次。
-
-## 特性
-
-- [吞噬虔诚](Consume_the_Faithful.md "吞噬虔诚")
-
-吞噬一个[死灵侍僧](Necromite.md "死灵侍僧")以获得[死亡一指](Finger_of_Death.md "死亡一指")。在[硬核](Tactician.md "硬核")及以上难度：同时为施法者恢复 8d8 [生命值](HP.md "生命值")。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-可在黑暗中看到一定距离。
-
-- [防御](Defence.md "防御")
-
-穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "疾病")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-
-对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md))。
-
-- [不变形态](Immutable_Form.md "不变形态")
-
-免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")+5。
-
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-
-近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
-
-- [**魔法板甲**](Magical_Plate_(-2).md "魔法板甲 (-2)")
-
-所有受到的伤害减少 2。
-
-- [**传奇动作：死亡凝视**](Legendary_Action_colon__Gaze_of_the_Dead.md "传奇动作：死亡凝视")
-
-每轮一次，米尔寇的使徒可在被攻击时花费一个传奇动作，对一个生物施放[死亡凝视](Gaze_of_the_Dead.md "死亡凝视")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`ApostleOfMyrkul` ###
-
-UUID
-
-`760f2d17-de55-4f38-83c1-279399b22096` ###
-
-Stats
-
-`ApostleOfMyrkul` **米尔寇的使徒**是一个强大的敌人，作为[第二幕](Act_Two.md "第二幕")的最终首领。
-
-> “
->
-> 我是蠕虫净化颅骨的微笑。我是幸存者的悔恨，也是逝者的不安。
->
-> „
-
-— 米尔寇的使徒自我介绍
 
 ## 目录
 

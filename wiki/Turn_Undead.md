@@ -24,22 +24,6 @@
 
 - 在5级时，[牧师](Cleric.md "牧师")获得[摧毁不死生物](Destroy_Undead.md "摧毁不死生物")，使驱散不死生物对成功[被驱散](Turned_(Condition).md "被驱散（状态）")的生物造成4d6⁠⁠[光耀](Radiant.md "光耀")伤害。
 
-## 技术细节
-
-UID
-
-`Shout_TurnUndead`
-
-普通牧师动作
-
-`Shout_MAG_TurnUndead`
-
-由清晨面纱授予的一次性长休版本
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：被驱散
 
 **[被驱散](Turned_(Condition).md "被驱散（状态）")**

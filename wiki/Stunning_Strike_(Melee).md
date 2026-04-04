@@ -23,16 +23,6 @@
 [体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[武器动作难度等级](Dice_rolls.md#Weapon_action_DC "掷骰")）
 射程：正常武器射程
 
-## 技术细节
-
-UID
-
-`Target_StunningStrike`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：震慑
 
 **[震慑](Stunned_(Condition).md "震慑（状态）")**

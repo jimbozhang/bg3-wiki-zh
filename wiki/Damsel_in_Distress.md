@@ -13,16 +13,6 @@
 详情
 充能：每场战斗一次
 
-## 技术细节
-
-UID
-
-`Shout_HAG_SpawnDoubles_MayrinaIllusion`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 授予
 
 - [邪恶之击](Sinister_Strike.md "邪恶之击")

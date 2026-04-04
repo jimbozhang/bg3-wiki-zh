@@ -20,16 +20,6 @@
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米 (5 英尺)
 
-## 技术细节
-
-UID
-
-`Target_FieryStrike_Myrmidon_Fire`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "野性形态 \(法术标志\) \(页面不存在\)")`
-
 ## 状态：燃烧
 
 **[燃烧](Burning_(Condition).md "燃烧 (状态)")**

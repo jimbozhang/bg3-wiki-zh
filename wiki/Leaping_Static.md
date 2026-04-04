@@ -20,26 +20,6 @@
 目标：攻击者及其 6 米（20 英尺）内最多 3 个其他敌人
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Projectile_ChainStaticBolt`
-
-由反应触发的动作
-
-`Projectile_ChainStaticBolt_Explosion`
-
-由动作产生的链式闪电
-
-`Interrupt_ChainStaticBolt_Automaton`
-
-触发动作的反应
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 如何习得
 
 由生物使用：[伯纳德](Bernard.md "Bernard")

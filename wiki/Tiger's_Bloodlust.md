@@ -21,16 +21,6 @@
 范围：2米（7英尺）锥形
 目标：锥形范围内最多3个敌人或物体
 
-## 技术细节
-
-UID
-
-`Zone_TigersBloodlust`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血 (状态)")**

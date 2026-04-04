@@ -13,26 +13,6 @@
 消耗
 [动作](Actions.md#Resources "动作")
 
-## 技术细节
-
-UID
-
-`Shout_LOW_BhaalCultist_PowerWordKill_Ritual_Start`
-
-平衡难度下使用的版本，仪式时间为6回合
-
-`Shout_LOW_BhaalCultist_PowerWordKill_Ritual_Start_Hardcore`
-
-硬核及以上难度下使用的版本，仪式时间为5回合
-
-`Shout_LOW_BhaalCultist_PowerWordKill_Ritual_Start_EasyMode`
-
-探索者难度下使用的版本，仪式时间为7回合
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`
-
 ## 状态：仪式吟唱：巴尔律令死亡
 
 **[仪式吟唱：巴尔律令死亡](Ritual_Chant_colon__Bhaal's_Power_Word_Kill_(Condition).md "仪式吟唱：巴尔律令死亡 (状态)")**

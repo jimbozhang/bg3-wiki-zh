@@ -16,12 +16,6 @@
 
 在 11 级时，[强力蜂群](Mighty_Swarm.md "强力蜂群")会将此能力升级为[蜂群军团：强力击退](Legion_of_Bees_colon__Mighty_Knockback.md "蜂群军团：强力击退")，并附加[倒伏](Prone_(Condition).md "倒伏（状态）")效果。
 
-## 技术细节
-
-UID
-
-`Interrupt_GatheredSwarm_Bee_Knockback`
-
 ## 如何学习
 
 职业：

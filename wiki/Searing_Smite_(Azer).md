@@ -31,16 +31,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Smite_Searing_Azer`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[NoCooldownOnMiss](https://bg3.wiki/w/index.php?title=NoCooldownOnMiss_\(spell_flag\)&action=edit&redlink=1) "NoCooldownOnMiss \(spell flag\) \(page does not exist\)")`
-
 ## 状态：炽焰斩
 
 **[炽焰斩](炽焰斩（状态）.md "炽焰斩（状态）")**

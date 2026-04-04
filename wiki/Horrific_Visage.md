@@ -22,16 +22,6 @@
 射程：9 米（30 英尺）
 充能：[长休](Long_Rest.md "Long rest")
 
-## 技术细节
-
-UID
-
-`Target_HorrificVisage`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 备注
 
 - 可怖面容是唯一可以与[超魔](Metamagic.md "Metamagic")一起使用的非动作法术。

@@ -1,218 +1,34 @@
 # 枭熊
 
-另请参阅：[枭熊（荒野形态）](Owlbear_(wild_shape).md)
-
-## 枭熊
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 声音 / 演员
-
-- [Charlotte Lucas](https://www.imdb.com/name/nm0524099/)
-
-### 家族
-
-[枭熊幼兽](Owlbear_Cub.md "Owlbear Cub")
-未命名雄性幼兽（已死亡）
-[枭熊配偶](Owlbear_Mate.md "Owlbear Mate")
-
-## 属性
-
-### 体型
-
-[大型](Large.md "Large")
-
-### 类型
-
-[野兽](Beast.md "Beast")
-
-### 种族
-
-[野兽](Beast.md "Beast")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-- 荣誉
-
-## 平衡难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-91
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 施法DC
-
-6（智力）
-
-### 移动
-
-12米（40英尺）
-
-### 重量
-
-550千克（1100磅）
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 20 / (+5) | 12 / (+1) | 17 / (+3) | 3 / (-4) | 12 / (+1) | 7 / (-2) |
+| | |
+| --- | --- |
+| 配音 | - [Charlotte Lucas](https://www.imdb.com/name/nm0524099/) |
+| 体型 | [大型](Large.md "Large") |
+| 类型 | [野兽](Beast.md "Beast") |
+| 种族 | [野兽](Beast.md "Beast") |
+| 等级 | 3 |
+| 生命值 | 91 |
+| 护甲等级 | 13 |
+| 先攻 | +1 |
+| 移动速度 | 12米（40英尺） |
 
 ## 状态
 
-- [**苦痛**](Distressed_(Condition).md "Distressed (Condition)")
+- [苦痛](Distressed_(Condition).md "Distressed (Condition)")
 
 无法造成[重击](Critical_Hit.md "Critical Hit")，且在[察觉技能](Perception.md "Perception")检定上具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [**多重攻击：激怒**](Multiattack_colon__Enraged.md "Multiattack: Enraged")
-
-枭熊在[枭熊之怒](Owlbear's_Rage_(Condition).md "Owlbear's Rage (Condition)")效果下可进行[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-63
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 施法DC
-
-8（智力）
-
-### 移动
-
-12米（40英尺）
-
-### 重量
-
-550千克（1100磅）
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +5 | +1 | +3 | -4 | +1 | -2 |
 
 ## 状态
 
-- [**苦痛**](Distressed_(Condition).md "Distressed (Condition)")
+- [苦痛](Distressed_(Condition).md "Distressed (Condition)")
 
 无法造成[重击](Critical_Hit.md "Critical Hit")，且在[察觉技能](Perception.md "Perception")检定上具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [**多重攻击：激怒**](Multiattack_colon__Enraged.md "Multiattack: Enraged")
-
-枭熊在[枭熊之怒](Owlbear's_Rage_(Condition).md "Owlbear's Rage (Condition)")效果下可进行[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-3
-
-### 生命值
-
-118
-
-### 护甲等级
-
-13
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+2
-
-### 施法DC
-
-8（智力）
-
-### 移动
-
-12米（40英尺）
-
-### 重量
-
-550千克（1100磅）
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 5 | 1 | 6 |
 
 ## 状态
 
-- [**苦痛**](Distressed_(Condition).md "Distressed (Condition)")
+- [苦痛](Distressed_(Condition).md "Distressed (Condition)")
 
 无法造成[重击](Critical_Hit.md "Critical Hit")，且在[察觉技能](Perception.md "Perception")检定上具有[劣势](Disadvantage.md "Disadvantage")。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [**多重攻击：激怒**](Multiattack_colon__Enraged.md "Multiattack: Enraged")
-
-枭熊在[枭熊之怒](Owlbear's_Rage_(Condition).md "Owlbear's Rage (Condition)")效果下可进行[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
 
 ## 荣誉难度属性
 
@@ -254,31 +70,13 @@
 
 ## 状态
 
-- [**苦痛**](Distressed_(Condition).md "Distressed (Condition)")
+- [苦痛](Distressed_(Condition).md "Distressed (Condition)")
 
 无法造成[重击](Critical_Hit.md "Critical Hit")，且在[察觉技能](Perception.md "Perception")检定上具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**传奇动作：召唤配偶**](Legendary_Action_colon__Call_Consort_(Condition).md "Legendary Action: Call Consort (Condition)")
+- [传奇动作：召唤配偶](Legendary_Action_colon__Call_Consort_(Condition).md "Legendary Action: Call Consort (Condition)")
 
   - 当被攻击时，枭熊可以召唤她的配偶来保护她。
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [**传奇动作：召唤配偶**](Legendary_Action_colon__Call_Consort.md "Legendary Action: Call Consort")
-
-每场战斗一次，枭熊母亲可以在被攻击时花费一个传奇动作来[召唤](Call_Consort.md "Call Consort")她的配偶。
-
-- [**多重攻击：激怒**](Multiattack_colon__Enraged.md "Multiattack: Enraged")
-
-枭熊在[枭熊之怒](Owlbear's_Rage_(Condition).md "Owlbear's Rage (Condition)")效果下可进行[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
 
 **枭熊**是一种野兽类生物，在[第一幕](Act_One.md "Act_One")的[枭熊巢穴](Owlbear_Nest.md "Owlbear Nest")中作为可选的首领战出现。它们形似长着猫头鹰头部的大型羽熊，易怒、强壮且似乎食欲旺盛。尽管领地意识极强，但枭熊母亲最近被[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")所伤，导致她明显虚弱。
 
@@ -376,7 +174,7 @@
 
 \+ 1d10 + 5⁠[穿刺](Piercing.md "Piercing")
 
-| 运动 | 体操 | 察觉技能 |
+| 运动 | 体操 | 察觉 |
 | --- | --- | --- |
 | 5 | 1 | 6 |
 

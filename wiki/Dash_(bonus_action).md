@@ -15,16 +15,6 @@
 详情
 范围：自身
 
-## 技术细节
-
-UID
-
-`Shout_Dash_BonusAction`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[NoCameraMove](https://bg3.wiki/w/index.php?title=NoCameraMove_\(spell_flag\)&action=edit&redlink=1) "NoCameraMove \(spell flag\) \(page does not exist\)")`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 状态：疾走
 
 **[疾走](Dash_(Condition).md "疾走（状态）")**

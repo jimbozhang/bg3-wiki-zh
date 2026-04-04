@@ -25,16 +25,6 @@
 范围：4 米 (13 英尺)
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Dragon_Skeletal`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：感电
 
 **[感电](Shocked_(Condition).md "感电 (状态)")**

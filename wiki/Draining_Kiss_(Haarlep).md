@@ -18,16 +18,6 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：9米（30英尺）
 
-## 技术细节
-
-UID
-
-`Target_DrainingKiss_Incubus`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(页面不存在\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：极乐汲取
 
 **[极乐汲取](Sumptuously_Drained_(Condition).md "极乐汲取（状态）")**

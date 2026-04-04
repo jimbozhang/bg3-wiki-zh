@@ -22,16 +22,6 @@
 作用范围：5米（17英尺）半径
 击退：3米（10英尺）
 
-## 技术细节
-
-UID
-
-`Zone_LOW_OskarsBeloved_MindScreech_Easy`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：气馁
 
 **[气馁](Unnerved_(Condition).md "气馁 (状态)")**

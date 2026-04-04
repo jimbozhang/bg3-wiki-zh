@@ -17,16 +17,6 @@
 区域效果：3米（10英尺）半径
 创建区域：腐蚀性卤水
 
-## 技术细节
-
-UID
-
-`Projectile_DeathBurst_IntellectDevourer`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[IsTrap](IsTrap_(spell_flag).md)`
-
 ## 区域：腐蚀性卤水
 
 **[腐蚀性卤水](Caustic_Brine.md "腐蚀性卤水")**

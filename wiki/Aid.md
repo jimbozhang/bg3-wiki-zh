@@ -18,16 +18,6 @@
 
 [升环施法](Upcasting.md "升环施法")：以更高法术位施放此法术时，目标的最大生命值会额外增加5⁠⁠[治疗](Healing.md "治疗")，每比2级法术位高一级，增加量就多5点。
 
-## 技术细节
-
-UID
-
-`Shout_Aid`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：支援术
 
 **[支援术](Aid_(Condition).md "支援术（状态）")**

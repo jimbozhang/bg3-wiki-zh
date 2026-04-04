@@ -18,16 +18,6 @@
 
 以更高的法术位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_Seeming`
-
-法术标志
-
-`[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell flag\) \(page does not exist\)")`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 授予
 
 - [调整幻象](Adjust_Seeming.md "调整幻象")

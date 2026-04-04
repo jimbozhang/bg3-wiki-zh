@@ -24,16 +24,6 @@
 - 在[角色等级](Character_level.md "角色等级")5时，伤害增加至2d6⁠⁠[强酸](Acid.md "强酸")。
 - 在角色等级10时，伤害增加至3d6⁠⁠[强酸](Acid.md "强酸")。
 
-## 技术细节
-
-UID
-
-`Projectile_AcidSplash`
-
-法术标志
-
-`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 职业：

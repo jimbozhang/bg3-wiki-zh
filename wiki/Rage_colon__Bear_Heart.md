@@ -26,12 +26,6 @@
 
 在 9 级时，狂暴提供的攻击额外伤害增加至 **+3**。
 
-## 技术细节
-
-UID
-
-`Shout_Rage_Totem_Bear`
-
 ## 赋予
 
 - [无情残暴](Unrelenting_Ferocity.md "无情残暴")

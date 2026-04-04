@@ -36,16 +36,6 @@
 - 9级时为5d6⁠⁠[武器](Weapon.md "武器")
 - 11级时为6d6⁠⁠[武器](Weapon.md "武器")
 
-## 技术细节
-
-UID
-
-`Target_SneakAttack_Rakish`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSwarmAttack](https://bg3.wiki/w/index.php?title=IsSwarmAttack_\(spell_flag\)&action=edit&redlink=1) "IsSwarmAttack \(spell flag\) \(page does not exist\)")`
-
 ## 如何习得
 
 职业：

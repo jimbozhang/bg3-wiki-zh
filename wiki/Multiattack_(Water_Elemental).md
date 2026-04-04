@@ -41,16 +41,6 @@
 
 \+ 4d4⁠[寒冷](Cold.md "寒冷")
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Elemental_Water`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 如何习得
 
 由以下生物使用：[水元素](Water_Elemental.md "水元素")

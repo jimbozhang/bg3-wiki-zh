@@ -14,12 +14,6 @@
 近战：1.5 米（5 英尺）
 [专注](Concentration.md "Concentration")
 
-## 技术细节
-
-UID
-
-`Target_CosmicOmen_AbilityCheck`
-
 ## 状态：宇宙预兆：属性检定
 
 **[宇宙预兆：属性检定](Cosmic_Omen_colon__Ability_Check_(Condition).md "宇宙预兆：属性检定 (状态)")**

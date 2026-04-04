@@ -26,22 +26,6 @@
 
 在10级时，伤害提升至3d10⁠[挥砍](Slashing.md "挥砍")，治疗提升至4d6⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-UID
-
-`Target_BloodBath_Slayer`
-
-基础版本
-
-`Target_BloodBath_Slayer_10`
-
-10级升级版本
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：流血
 
 **[流血](Bleeding_(Condition).md "流血（状态）")**

@@ -24,16 +24,6 @@
 目标：[恐慌](Frightened_(Condition).md "恐慌 (状态)") 目标
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Target_Multiattack_Cloaker`
-
-法术标志
-
-`[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 状态：开放伤口
 
 **[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")**

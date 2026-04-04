@@ -20,12 +20,6 @@
 
 以更高环阶施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_Raphael_Summon_Eternal_Debtor`
-
 ## 生物：永恒债务人
 
 | [力量](Strength.md "Strength") 10 | [敏捷](Dexterity.md "Dexterity") 10 | [体质](Constitution.md "Constitution") 10 | [智力](Intelligence.md "Intelligence") 8 (-1) | [感知](Wisdom.md "Wisdom") 8 (-1) | [魅力](Charisma.md "Charisma") 8 (-1) |

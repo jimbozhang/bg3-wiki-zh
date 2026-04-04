@@ -19,16 +19,6 @@
 范围：自身
 持续时间：直至[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_OneWithShadows`
-
-法术标志
-
-`[隐形](Invisible_(spell_flag).md)`, `[隐匿](Stealth_(spell_flag).md)`
-
 ## 状态：融身入影
 
 **[融身入影](One_with_the_Shadows_(Condition).md "融身入影 (状态)")**

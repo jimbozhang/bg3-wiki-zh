@@ -376,7 +376,6 @@
 - ⁠[法术](https://forgottenrealms.fandom.com/wiki/Spell) 在 [被遗忘的国度Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page) 上
 
 
-
 ## 相关内容
 
 ### Gameplay
@@ -826,7 +825,6 @@
 - [Vlaakith](Vlaakith.md)
 
 - [Yondalla](Yondalla.md)
-
 
 
 ---

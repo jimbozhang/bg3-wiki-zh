@@ -25,16 +25,6 @@
 充能：[短休](Short_rest.md "短休")
 必须对武器[熟练](Proficiency.md#Weapon_proficiency "熟练项")
 
-## 技术细节
-
-UID
-
-`Projectile_PiercingShot`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
-
 ## 状态：开放伤口
 
 **[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")**

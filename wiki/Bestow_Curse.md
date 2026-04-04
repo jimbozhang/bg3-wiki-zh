@@ -21,16 +21,6 @@
 
 [升环施法](Upcasting.md "Upcasting")：当以4环施法时，持续时间增加至20回合；以5环施法时，增加至50回合；以6环施法时，增加至100回合。
 
-## 技术细节
-
-UID
-
-`Target_BestowCurse`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 变体
 
 - [降咒：恐惧](Bestow_Curse_colon__Dread.md "Bestow Curse: Dread")

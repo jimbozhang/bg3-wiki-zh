@@ -36,16 +36,6 @@
 - 9级时：5d6⁠⁠[武器](Weapon.md "武器")
 - 11级时：6d6⁠⁠[武器](Weapon.md "武器")
 
-## 技术细节
-
-UID
-
-`Target_SneakAttack`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

@@ -18,12 +18,6 @@
 范围：自身
 范围效果：5米（17英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_MixChangeExplosion_Fire_Brewer`
-
 ## 状态：火焰酿造
 
 **[火焰酿造](Fiery_Brew_(Condition).md "火焰酿造（状态）")**

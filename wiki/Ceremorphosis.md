@@ -13,16 +13,6 @@
 消耗
 [动作](Actions.md#Resources "动作") + [附赠动作](Actions.md#Resources "动作") + [反应](Actions.md#Reactions "反应")
 
-## 技术细节
-
-UID
-
-`Shout_MindFlayerForm`
-
-`Shout_END_MindFlayerFormCivilian`
-
-`Shout_LOW_MindFlayerFormCivilian`
-
 ## 状态：夺心魔形态
 
 **[夺心魔形态](Mind_Flayer_Form_(Condition).md "夺心魔形态 (状态)")**

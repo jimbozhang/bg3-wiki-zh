@@ -13,16 +13,6 @@
 详情
 范围：3 米（10 英尺）
 
-## 技术细节
-
-UID
-
-`Target_OfferSelf_Necromite`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 授予
 
 - [死亡一指](Finger_of_Death.md "死亡一指")

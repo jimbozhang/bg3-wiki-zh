@@ -14,16 +14,6 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功：目标不会被击退或陷入失衡。)
 范围效果：12 米（40 英尺）线形
 
-## 技术细节
-
-UID
-
-`Zone_GustOfWind_Monk`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 授予
 
 - [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")

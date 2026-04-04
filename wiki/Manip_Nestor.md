@@ -1,96 +1,17 @@
 # 内斯特
 
-## 精卫内斯特
-
-维和者
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Ash Rizi](https://www.imdb.com/name/nm7787239/)
-
-### 阵营
-
-[焰拳](Flaming_Fist.md "焰拳")
-
-### 职业
-
-谷仓守卫
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "中级")
-
-### 类型
-
-[类人生物](Humanoid.md "类人生物")
-
-### 种族
-
-[矮人](Dwarf.md "矮人")
-
-### 亚种
-
-[黄金矮人](Gold_Dwarf.md "黄金矮人")
-
-### 职业
-
-[战士](Fighter.md "战士")
-
-### 副职
-
-[战斗大师](Battle_Master.md "战斗大师")
-
-- 平衡
-- 探索者
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-76
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 21 / (+5) | 13 / (+1) | 19 / (+4) | 10 / (0) | 14 / (+2) | 8 / (-1) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Ash Rizi](https://www.imdb.com/name/nm7787239/) |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [矮人](Dwarf.md "矮人") |
+| 等级 | 10 |
+| 生命值 | 76 |
+| 护甲等级 | 16 |
+| 先攻 | +1 |
+| 经验值 | 250 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -98,73 +19,11 @@
 
 - 5
 
-## 特性
+## 抗性 [抗性](Resistances.md "抗性")
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- ## 额外资源
 
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
-
-- [**反击**](Riposte_(passive_feature).md "反击（被动特性）")
-
-当被近战攻击未命中时，可消耗一枚[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
-
-## 探索者难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-53
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+6
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +5 | +1 | +4 | 0 | +2 | -1 |
+- 5
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -172,125 +31,7 @@
 
 - 5
 
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
-
-- [**反击**](Riposte_(passive_feature).md "反击（被动特性）")
-
-当被近战攻击未命中时，可消耗一枚[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
-
-## 硬核难度属性
-
-### 等级
-
-10
-
-### 生命值
-
-98
-
-### 护甲等级
-
-16
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+4
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-12 米 (40 英尺)
-
-### 经验值奖励
-
-250
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 5 | 1 | 2 |
-
-## 抗性 [抗性](Resistances.md "抗性")
-
-- ## 额外资源
-
-- 5
-
-## 特性
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-
-对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-
-在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
-
-- [**反击**](Riposte_(passive_feature).md "反击（被动特性）")
-
-当被近战攻击未命中时，可消耗一枚[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
-
-## 技术细节
-
-###
-
-UID
-
-`S_WYR_RefugeeCamp_FlamingFistManip` ###
-
-UUID
-
-`c5ed5400-53e6-4201-813c-d4b107be7a75` ###
-
-属性
-
-`WYR_ManipNestor` **精卫内斯特**是一名[矮人](Dwarf.md "矮人")战士，也是[焰拳](Flaming_Fist.md "焰拳")成员，可在[利文顿](Rivington.md "利文顿")的[第三幕](Act_Three.md "第三幕")中找到。<sup>[\[1\]](#cite_note-1)</sup>
+**精卫内斯特**是一名[矮人](Dwarf.md "矮人")战士，也是[焰拳](Flaming_Fist.md "焰拳")成员，可在[利文顿](Rivington.md "利文顿")的[第三幕](Act_Three.md "第三幕")中找到。<sup>[\[1\]](#cite_note-1)</sup>
 
 > “
 >

@@ -14,16 +14,6 @@
 范围：9米（30英尺）
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_LOW_SteelWatchFoundry_ActivateCollarDetonation`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[Stealth](Stealth_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[班恩黑手](Black_Gauntlet_of_Bane.md "班恩黑手")

@@ -1,228 +1,36 @@
 # 濒死的石头领主暴徒
 
-## 濒死的石头领主暴徒
-
-- 游戏内
-- 模型
-- 肖像画
-
-### 身份
-
-男性
-
-### 声音 / 演员
-
-- [Vangelis Christodoulou](https://www.imdb.com/name/nm4657454/)
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-24
-
-### 护甲等级
-
-16
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 16 / (+3) | 11 / (0) | 14 / (+2) | 12 / (+1) | 12 / (+1) | 14 / (+2) |
+| | |
+| --- | --- |
+| 身份 | 男性 |
+| 配音 | - [Vangelis Christodoulou](https://www.imdb.com/name/nm4657454/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 9 |
+| 生命值 | 24 |
+| 护甲等级 | 16 |
+| 先攻 | 0 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 200 |
 
 ## 状态
 
-- [**重伤**](Gravely_Wounded_(Condition).md "Gravely Wounded (Condition)")
+- [重伤](Gravely_Wounded_(Condition).md "Gravely Wounded (Condition)")
 
   - 此人无法被治疗或拯救。
-
-## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-18
-
-### 护甲等级
-
-16
-
-### 先攻
-
-0
-
-### 熟练项
-
-+6
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +7 | 0 | +6 | +1 | +1 | +2 |
 
 ## 状态
 
-- [**重伤**](Gravely_Wounded_(Condition).md "Gravely Wounded (Condition)")
+- [重伤](Gravely_Wounded_(Condition).md "Gravely Wounded (Condition)")
 
   - 此人无法被治疗或拯救。
-
-## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-9
-
-### 生命值
-
-48
-
-### 护甲等级
-
-16
-
-### 先攻
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-### 经验值奖励
-
-200
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 3 | 0 | 1 |
 
 ## 状态
 
-- [**重伤**](Gravely_Wounded_(Condition).md "Gravely Wounded (Condition)")
+- [重伤](Gravely_Wounded_(Condition).md "Gravely Wounded (Condition)")
 
   - 此人无法被治疗或拯救。
-
-## 特性
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可以进行一次额外攻击。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_GLO_SmugglersCave_DyingAttacker` ###
-
-UUID
-
-`b9ff6ee5-b7d1-4bed-af3b-eb6c39dcd169` ###
-
-Stats
-
-`Human_Melee` 濒死的石头领主暴徒是 [人类](Human.md "Human") 角色，是 [第三幕](Act_Three.md "Act Three") 中 [石头领主](Stone_Lord.md "Stone lord") 船员的一部分。
 
 ## 出场
 

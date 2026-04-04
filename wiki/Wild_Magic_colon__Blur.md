@@ -11,12 +11,6 @@
 详情
 范围效果：9米（30英尺）半径
 
-## 技术细节
-
-UID
-
-`Shout_WildMagic_Blur`
-
 ## 状态：模糊
 
 **[模糊](Blurred_(Condition).md "模糊（状态）")**

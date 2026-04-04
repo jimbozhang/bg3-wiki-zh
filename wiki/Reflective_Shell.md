@@ -15,12 +15,6 @@
 充能：[短休](Short_rest.md "短休")
 持续时间：2回合
 
-## 技术细节
-
-UID
-
-`Shout_MAG_TheBulwark_ReflectiveShell`
-
 ## 状态：反射外壳
 
 **[反射外壳](Reflective_Shell_(Condition).md "反射外壳（状态）")**

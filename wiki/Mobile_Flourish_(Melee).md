@@ -32,16 +32,6 @@
 - 在 5 级时，拥有 [精通诗人激励](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励（被动特性）")，伤害加成提升至 1d8。
 - 在 10 级时，拥有 [精通诗人激励](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励（被动特性）")，伤害加成提升至 1d10。
 
-## 技术细节
-
-UID
-
-`Target_BladeFlourish_Mobile`
-
-法术标志
-
-`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
-
 ## 赋予
 
 - [移动华舞：传送](Mobile_Flourish_colon__Teleport.md "移动华舞：传送")

@@ -18,16 +18,6 @@
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 16）（豁免成功时：目标仍承受一半伤害。）
 射程：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_HAG_MaskOfTerror`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：恐慌
 
 **[恐慌](Frightened_(Condition).md "恐慌（状态）")**

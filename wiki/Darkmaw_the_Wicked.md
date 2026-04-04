@@ -1,16 +1,8 @@
 # 恶棍达科莫
 
-## 恶棍达科莫
-
-- 平衡
-- 探索者
-- 硬核
-
-## 平衡难度属性
-
-### 生命值
-
-30
+| | |
+| --- | --- |
+| 生命值 | 30 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -32,19 +24,10 @@
 
 - - - - - ## 技术信息
 
-###
-
-UID
-
-`DEC_GEN_StuffedBear_Standing_A_000` ###
-
-UUID
-
-`48f69ac4-edc3-4478-82ec-ac1c1f91dd49` ###
 
 属性
 
-`OBJ_Generic_Heavy` **恶棍达科莫**是[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")门厅中的一只标本熊，出现在[第二幕](Act_Two.md "Act Two")期间。
+**恶棍达科莫**是[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")门厅中的一只标本熊，出现在[第二幕](Act_Two.md "Act Two")期间。
 
 这只熊的四肢看起来为了摆出这个姿势而被折断——它的眼睛悲伤而无神。
 

@@ -25,16 +25,6 @@
 
 [升环施法](Upcasting.md "升环施法")：当法术以3级或更高法术位施放时，每个高于2级的法术位等级额外治疗目标1d8⁠⁠[治疗](Healing.md "治疗")。
 
-## 技术细节
-
-UID
-
-`Shout_PrayerOfHealing`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 学习方式
 
 职业：

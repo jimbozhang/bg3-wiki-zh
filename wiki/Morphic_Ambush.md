@@ -15,16 +15,6 @@
 作用范围：4米（13英尺）半径
 充能：每场战斗
 
-## 技术细节
-
-UID
-
-`Shout_Shapechanger_Doppelganger_Dismiss_Urgent`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 状态：伏击
 
 **[伏击](Ambushed_(Condition).md "伏击（状态）")**

@@ -28,16 +28,6 @@
 
 以此法术的更高环阶施放不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_SHA_Justiciar_OverwhelmingGrief`
-
-法术标志
-
-`[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsSpell](IsSpell_(spell_flag).md)`
-
 ## 状态：黑暗女士的召唤
 
 **[黑暗女士的召唤](Call_of_the_Dark_Lady_(Condition).md "黑暗女士的召唤 (状态)")**

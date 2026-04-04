@@ -17,16 +17,6 @@
 射程：9米（30英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 技术细节
-
-UID
-
-`Target_TAD_Imperil_Recast`
-
-法术标志
-
-`[临时](Temporary_(spell_flag).md)`
-
 ## 状态：灵魂破碎
 
 **[灵魂破碎](Shattered_Psyche_(Condition).md "灵魂破碎（状态）")**

@@ -1,135 +1,28 @@
 # Jorkens
 
-## Jorkens
-
-Mate Creppsels
-
-- In-game
-- Portrait
-
-### Identity
-
-Male
-
-## Stats
-
-### Size
-
-[中级](Medium.md "Medium")
-
-### Type
-
-[类人生物](Humanoid.md "Humanoid")
-
-### Race
-
-[人类](Human.md "Human")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## Balanced Difficulty Stats
-
-### Level
-
-1
-
-### HP
-
-6
-
-### AC
-
-10
-
-### Initiative
-
-0
-
-### 熟练项
-
-+2
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-0 m (0 ft)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | Male |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 1 |
+| 生命值 | 6 |
+| 护甲等级 | 10 |
+| 先攻 | 0 |
+| 移动速度 | 9 m (30 ft) |
 
 ## 状态
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## Explorer Difficulty Stats
-
-### Level
-
-1
-
-### HP
-
-5
-
-### AC
-
-10
-
-### Initiative
-
-0
-
-### 熟练项
-
-+4
-
-### 移动
-
-9 m (30 ft)
-
-### 重量
-
-75 kg (150 lb)
-
-### 高级黑暗视觉
-
-0 m (0 ft)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## 状态
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
 
 ## Tactician Difficulty Stats
 
@@ -165,37 +58,15 @@ Male
 
 0 m (0 ft)
 
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
 ## 状态
 
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## Technical
-
-###
-
-UID
-
-`S_LOW_PlagueShip_Sailor04` ###
-
-UUID
-
-`178b3c97-ac8c-41b2-8f0c-c1135534af6c` ###
-
-Stats
-
-`Human_Commoner` **Jorkens** 是 [第三幕](Act_Three.md "Act Three") 一艘船上的已故水手。
 
 ## Contents
 

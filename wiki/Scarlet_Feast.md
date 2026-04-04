@@ -13,16 +13,6 @@
 详情
 充能：[长休](Long_Rest.md "长休")
 
-## 技术细节
-
-UID
-
-`Shout_MAG_Zhentarim_Bloodfeeding_Container`
-
-法术标志
-
-`[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag).md)`, `[Temporary](Temporary_(spell_flag).md)`
-
 ## 变体
 
 - [猩红再生](Scarlet_Regeneration.md "猩红再生")

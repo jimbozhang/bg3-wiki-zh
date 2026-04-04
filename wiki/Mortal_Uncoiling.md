@@ -11,12 +11,6 @@
 消耗
 [反应](Actions.md#Reactions "动作")
 
-## 技术细节
-
-UID
-
-`Target_LOW_FatherCarrion_FatherOfTheDead`
-
 ## 状态：迷失不死生物
 
 **[迷失不死生物](Wayward_Undead_(Condition).md "迷失不死生物 (状态)")**

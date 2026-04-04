@@ -18,16 +18,6 @@
 
 以更高环位施放此法术不会获得额外收益。
 
-## 技术细节
-
-UID
-
-`Target_LOW_HouseOfGrief_Apply_Heart`
-
-法术标志
-
-`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 学习方式
 
 由以下生物使用：[维康妮亚·迪佛](Viconia_DeVir.md "Viconia DeVir")

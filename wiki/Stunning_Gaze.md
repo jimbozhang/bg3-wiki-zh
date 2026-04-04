@@ -20,26 +20,6 @@
 [专注](Concentration.md "专注")
 持续时间：1回合
 
-## 技术细节
-
-UID
-
-`Target_StunningGaze_DeathsHead`
-
-普通NPC版本
-
-`Target_StunningGaze_DeathsHead_Hardcore`
-
-移除专注的硬核版本
-
-`Target_END_AllyAbilities_StunningGaze`
-
-邪念版本，限制为每短休一次
-
-法术标志
-
-`[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
-
 ## 状态：震慑
 
 **[震慑](Stunned_(Condition).md "震慑 (状态)")**

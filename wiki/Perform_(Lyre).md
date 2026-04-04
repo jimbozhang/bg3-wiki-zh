@@ -8,16 +8,6 @@
 
 演奏一首迷人的、取悦大众的曲子，以吸引并取悦周围的人。
 
-## 技术细节
-
-UID
-
-`Shout_Bard_Perform_Lyre`
-
-法术标志
-
-`[DontAbortPerforming](https://bg3.wiki/w/index.php?title=DontAbortPerforming_\(spell_flag\)&action=edit&redlink=1) "DontAbortPerforming \(spell flag\) \(page does not exist\)")`, `[IsLinkedSpellContainer](IsLinkedSpellContainer_(spell_flag\>`
-
 ## 变体
 
 - [表演“吟游诗人之舞”](Perform_'Bard_Dance'.md "表演“吟游诗人之舞”").md)

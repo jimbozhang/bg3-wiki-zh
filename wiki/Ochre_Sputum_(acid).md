@@ -21,16 +21,6 @@
 射程：12 米（40 英尺）
 创建区域：强酸
 
-## 技术细节
-
-UID
-
-`Projectile_ToxicSpit_Ooze`
-
-法术标志
-
-`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
-
 ## 区域：强酸
 
 **[强酸](Acid_(surface).md "强酸（地表）")**

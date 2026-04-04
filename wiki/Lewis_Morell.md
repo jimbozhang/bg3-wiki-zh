@@ -1,271 +1,34 @@
 # 刘易斯·莫雷尔
 
-## 死亡教徒
+| | |
+| --- | --- |
+| 体型 | 中型 |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [人类](Human.md "Human") |
+| 等级 | 8 |
+| 生命值 | 70 |
+| 护甲等级 | 16 |
+| 先攻 | 0 |
 
-- 游戏内
-- 肖像画
+## 状态
 
-### 配音 / 演员
-
-- [格伦·麦克雷迪](https://www.imdb.com/name/nm1959185/)
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-## 属性
-
-### 体型
-
-中型
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[人类](Human.md "Human")
-
-### 原型
-
-[至上真神狂热信徒](Zealot_of_the_Absolute.md "Zealot of the Absolute")
-
-### 职业
-
-[圣武士](Paladin.md "Paladin")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-70
-
-### 护甲等级
-
-16
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
 
-## 特性
+## 状态
 
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "Disease")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
-
-如果你用[借机攻击](Opportunity_Attack.md "Opportunity Attack")命中敌人，你的[移动速度](Movement_speed.md "Movement Speed")在下一回合增加4.5米/15英尺。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-49
-
-### 护甲等级
-
-16
-
-### 先攻
-
-0
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +4 | 0 | +3 | -1 | +3 | +6 |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
 
-## 特性
+## 状态
 
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "Disease")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
-
-如果你用[借机攻击](Opportunity_Attack.md "Opportunity Attack")命中敌人，你的[移动速度](Movement_speed.md "Movement Speed")在下一回合增加4.5米/15英尺。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-91
-
-### 护甲等级
-
-16
-
-### 先攻
-
-0
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-0 米 (0 英尺)
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
-
-## 额外资源
-
-- - 4
-
-- - ## 状态
-
-- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+- [死亡](Dead_(Condition).md "Dead (Condition)")
 
 此生物已死亡。
 
-## 特性
-
-- [神佑](Divine_Health.md "神佑")
-
-免疫[疾病](Disease.md "Disease")效果。
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-
-在徒手或武器攻击后可进行一次额外攻击。
-
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-
-当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
-
-如果你用[借机攻击](Opportunity_Attack.md "Opportunity Attack")命中敌人，你的[移动速度](Movement_speed.md "Movement Speed")在下一回合增加4.5米/15英尺。
-
-## 技术细节
-
-###
-
-UID
-
-`S_END_DeadAbsolutist001` ###
-
-UUID
-
-`293286c0-b0e6-4657-ab9b-1ddc6a3b93fa` ###
-
-属性
-
-`MOO_ZealotOfTheAbsolute_Human` **刘易斯·莫雷尔**，在游戏中名为**死亡教徒**，是一名[至上真神教徒](Cult_of_the_Absolute.md "Cult of the Absolute")和[圣武士](Paladin.md "Paladin")，可在通往至高大殿的台阶上被发现已死亡。
+**刘易斯·莫雷尔**，在游戏中名为**死亡教徒**，是一名[至上真神教徒](Cult_of_the_Absolute.md "Cult of the Absolute")和[圣武士](Paladin.md "Paladin")，可在通往至高大殿的台阶上被发现已死亡。
 
 ## 目录
 

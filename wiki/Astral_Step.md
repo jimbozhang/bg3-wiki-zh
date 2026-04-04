@@ -13,12 +13,6 @@
 详情
 范围：18米（60英尺）
 
-## 技术细节
-
-UID
-
-`Target_AstralStep_Githyanki`
-
 ## 如何习得
 
 由以下生物使用：[巴瑞萨](Baretha.md "Baretha")、[古什因斯](Ghush'ins.md "Ghush'ins")、[哈拉克](Har'rak.md "Har'rak")、[凯斯克](Kethk.md "Kethk")、[科库](Ko'kuu.md "Ko'kuu")、[潘塔利斯](Ptaris.md "Ptaris")、[潘塔利斯的心象](Ptaris'_Mental_Image.md "Ptaris' Mental Image")、[萨斯十夫长巴瑞萨](Sarth_Baretha.md "Sarth Baretha")、[斯托努戈斯](Stornugoss.md "Stornugoss")、[特雷津](Therezzyn.md "Therezzyn")、[茨卡安](Tska'an.md "Tska'an")、[历战熟手](Veteran_Gish.md "Veteran Gish")、[沃斯](Voss.md "Voss")、[瓦尔加兹](W'wargaz.md "W'wargaz")和[真迪拉](Zhendila.md "Zhendila")

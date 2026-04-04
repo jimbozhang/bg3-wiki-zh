@@ -22,16 +22,6 @@
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5 米（5 英尺）
 
-## 技术细节
-
-UID
-
-`Target_Fist_Myconid_Strong`
-
-法术标志
-
-`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag\>.md).md)`, `[IsHarmful](IsHarmful_(spell_flag\>.md).md)`, `[IsMelee](IsMelee_(spell_flag\>.md).md)`
-
 ## 如何习得
 
 生物使用：[斯伯](Spaw.md "斯伯")

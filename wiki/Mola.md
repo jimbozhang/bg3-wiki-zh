@@ -1,99 +1,18 @@
 # 摩拉
 
-不要与[诺拉](Nola.md "Nola")混淆
-
-## 教士摩拉
-
-- 游戏内
-- 模型
-- 立绘
-
-### 身份
-
-女性
-
-### 声音 / 演员
-
-- [Lucy Paterson](https://www.imdb.com/name/nm13687455/)
-- [Luisa Guerreiro](https://www.imdb.com/name/nm3708833/)
-
-### 阵营
-
-[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")
-
-### 职业
-
-守卫
-
-## 属性
-
-### 体型
-
-[中级](Medium.md "Medium")
-
-### 类型
-
-[类人生物](Humanoid.md "Humanoid")
-
-### 种族
-
-[半兽人](Half-Orc.md "Half-orc")
-
-### 原型
-
-[至上真神的教士](Adept_of_the_Absolute.md "Adept of the Absolute")
-
-### 职业
-
-[牧师](Cleric.md "Cleric")
-
-- 平衡
-
-- 探索者
-
-- 硬核
-
-## 平衡难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-58
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-100 千克 (200 磅)
-
-### 高级黑暗视觉
-
-18 米 (60 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 13 / (+1) | 12 / (+1) | 16 / (+3) | 10 / (0) | 18 / (+4) | 10 / (0) |
+| | |
+| --- | --- |
+| 身份 | 女性 |
+| 配音 | - [Lucy Paterson](https://www.imdb.com/name/nm13687455/) |
+| 体型 | [中级](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [半兽人](Half-Orc.md "Half-orc") |
+| 等级 | 8 |
+| 生命值 | 58 |
+| 护甲等级 | 15 |
+| 先攻 | +1 |
+| 移动速度 | 9 米 (30 英尺) |
+| 经验值 | 140 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -103,57 +22,9 @@
 
 - - - - ## 状态
 
-- [**死亡防护**](Death_Ward_(Condition).md "Death Ward (Condition)")
+- [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)")
 
 如果此角色倒地，立即以 1 点生命值复活。
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 探索者难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-40
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+5
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-100 千克 (200 磅)
-
-### 高级黑暗视觉
-
-18 米 (60 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | +1 | +1 | +3 | 0 | +4 | 0 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -163,57 +34,9 @@
 
 - - - - ## 状态
 
-- [**死亡防护**](Death_Ward_(Condition).md "Death Ward (Condition)")
+- [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)")
 
 如果此角色倒地，立即以 1 点生命值复活。
-
-## 特性
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 硬核难度属性
-
-### 等级
-
-8
-
-### 生命值
-
-75
-
-### 护甲等级
-
-15
-
-### 先攻
-
-+1
-
-### 熟练项
-
-+3
-
-### 移动
-
-9 米 (30 英尺)
-
-### 重量
-
-100 千克 (200 磅)
-
-### 高级黑暗视觉
-
-18 米 (60 英尺)
-
-### 经验值奖励
-
-140
-
-| 属性值 | 运动 | 体操 | 察觉技能 |
-| --- | --- | --- | --- |
-|  | 1 | 1 | 4 |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -223,35 +46,11 @@
 
 - - - - ## 状态
 
-- [**死亡防护**](Death_Ward_(Condition).md "Death Ward (Condition)")
+- [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)")
 
 如果此角色倒地，立即以 1 点生命值复活。
 
-## 特性
-
-- [**引导神力：战神赐福**](Channel_Divinity_colon__War_God's_Blessing.md "Channel Divinity: War God's Blessing")
-
-赋予附近盟友你神祇的荣耀，使其[攻击掷骰](Attack_roll.md "Attack Roll")获得 +10 加值。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开触及范围的敌人。
-
-## 技术
-
-###
-
-UID
-
-`S_MOO_ExecutionGuard_001` ###
-
-UUID
-
-`274886f8-8881-4e6e-97b6-fc038a26abe0` ###
-
-属性
-
-`MOO_FanaticOfTheAbsolute_HalfOrc` **教士摩拉**驻扎在[月出之塔](Moonrise_Towers.md "Moonrise Towers")王座厅后方，位于[第二幕](Act_Two.md "Act Two")。
+**教士摩拉**驻扎在[月出之塔](Moonrise_Towers.md "Moonrise Towers")王座厅后方，位于[第二幕](Act_Two.md "Act Two")。
 
 > “
 >

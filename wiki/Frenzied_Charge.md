@@ -23,16 +23,6 @@
 范围：9米（30英尺）直线
 充能：每回合
 
-## 技术细节
-
-UID
-
-`Rush_Rush_DeepRothe_NPC`
-
-法术标志
-
-`[IsHarmful](IsHarmful_(spell_flag\>).md)`
-
 ## 学习方式
 
 由以下生物使用：[地底洛斯兽](Deep_Roth%C3%A9.md "地底洛斯兽")

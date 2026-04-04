@@ -17,16 +17,6 @@
 必须对武器 [熟练](Proficiency.md#Weapon_proficiency "熟练项")
 持续时间：1 [驱散](Turn.md "驱散")
 
-## 技术细节
-
-UID
-
-`Shout_SteadyRangedCrossbow`
-
-法术标志
-
-`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(页面不存在\)")`
-
 ## 状态：备战
 
 **[备战](Braced_(Condition).md "备战（状态）")**

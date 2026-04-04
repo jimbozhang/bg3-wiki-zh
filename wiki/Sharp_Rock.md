@@ -21,16 +21,6 @@
 射程：18 米（60 英尺）
 目标：不受[诱惑之歌](Luring_Song_(Condition).md "诱惑之歌（状态）")影响的生物
 
-## 技术细节
-
-UID
-
-`Projectile_StoneThrow_Harpy`
-
-法术标志
-
-`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
-
 ## 学习方式
 
 由以下生物使用：[鸟妖](Harpy.md "Harpy")
