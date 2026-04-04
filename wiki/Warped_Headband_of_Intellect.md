@@ -1,6 +1,6 @@
 # 弯曲的智力头带
 
-弯曲的智力头带是一个[饰环](Headwear.md "Headwear")，属于[稀有度](稀有度.md "稀有度")为[不常见](不常见.md "不常见")的物品，可将佩戴者的[智力](Intelligence.md "Intelligence")提升至17。
+弯曲的智力头带是一个[饰环](Headwear.md "Headwear")，属于[稀有度](Rarity.md "稀有度")为[不常见](Uncommon.md "不常见")的物品，可将佩戴者的[智力](Intelligence.md "Intelligence")提升至17。
 
 这个特殊的饰环覆盖着黄色粘液，宝石后面还粘着半消化的羊肉块。
 

@@ -1,12 +1,12 @@
 # 拒绝信
 
-**拒绝信**是安苏最棒冒险者公会（Ansur's Finest）的塞弗林·巴斯克（Sevrin Bask）写给[蕾米拉](蕾米拉.md "蕾米拉")的一张便条。
+**拒绝信**是安苏最棒冒险者公会（Ansur's Finest）的塞弗林·巴斯克（Sevrin Bask）写给[蕾米拉](Remira.md "蕾米拉")的一张便条。
 
 一封来自博德之门知名冒险者公会“安苏最棒”的礼貌信函。
 
 ## 属性
 
-- [笔记](笔记.md "笔记")
+- [笔记](Notes.md "笔记")
 
 - 作者：塞弗林·巴斯克
 
@@ -18,7 +18,7 @@
 
 - UID `S_DEN_NarrativeLoot_AnsursFinestRejection` UUID `eab1365e-eafe-41ed-b7eb-bcf160ada2d4` ## 获取地点
 
-- 由[蕾米拉](蕾米拉.md "蕾米拉")携带
+- 由[蕾米拉](Remira.md "蕾米拉")携带
 
 ## 文本
 

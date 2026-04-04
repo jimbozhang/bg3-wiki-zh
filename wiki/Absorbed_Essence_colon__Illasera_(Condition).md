@@ -6,9 +6,9 @@
 
 ## 属性
 
-[堆叠ID](堆叠ID.md "堆叠ID")：`HASTE` [状态组](状态组.md "状态组")：[SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
+[堆叠ID](Conditions.md "堆叠ID")：`HASTE` [状态组](Status_groups.md "状态组")：[SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
 
-[堆叠优先级](堆叠优先级.md "堆叠优先级")：10
+[堆叠优先级](Conditions.md "堆叠优先级")：10
 
 ## 吸收精华：伊拉塞拉的来源
 
@@ -25,30 +25,30 @@
 [天界加速](天界加速_(状态).md "天界加速 (状态)")
 |
 
-- 获得+2[护甲等级](护甲等级.md "护甲等级")和[敏捷](敏捷.md "敏捷")[豁免检定](豁免检定.md "豁免检定")的[优势](优势.md "优势")。
-- [移动速度](移动速度.md "移动速度")翻倍。
-- 获得一个额外的[动作](动作.md "动作")。
+- 获得+2[护甲等级](Armor_Class.md "护甲等级")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")的[优势](Disadvantage.md "优势")。
+- [移动速度](Movement_speed.md "移动速度")翻倍。
+- 获得一个额外的[动作](Action.md "动作")。
 
 [加速孢子](加速孢子_(状态).md "加速孢子 (状态)")
 |
 
-- 目标获得+2[护甲等级](护甲等级.md "护甲等级")和[敏捷](敏捷.md "敏捷")[豁免检定](豁免检定.md "豁免检定")的[优势](优势.md "优势")。
-- 目标的[移动速度](移动速度.md "移动速度")翻倍。
-- 目标获得一个额外的[动作](动作.md#资源 "动作")。
+- 目标获得+2[护甲等级](Armor_Class.md "护甲等级")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")的[优势](Disadvantage.md "优势")。
+- 目标的[移动速度](Movement_speed.md "移动速度")翻倍。
+- 目标获得一个额外的[动作](Action.md#资源 "动作")。
 
 [加速](加速_(状态).md "加速 (状态)")
 |
 
 - 受影响的生物获得以下效果：
-  - +2[护甲等级](护甲等级.md "护甲等级")和[敏捷](敏捷.md "敏捷")[豁免检定](豁免检定.md "豁免检定")的[优势](优势.md "优势")
-  - [移动速度](移动速度.md "移动速度")增加9米（30英尺）
-  - 一个额外的[动作](动作.md#资源 "动作")
-- 状态结束时，受影响的生物变为[力竭](力竭_(状态).md "力竭 (状态)")，并在1[回合](回合.md "回合")内无法移动或进行[动作](动作.md "动作")。
+  - +2[护甲等级](Armor_Class.md "护甲等级")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")的[优势](Disadvantage.md "优势")
+  - [移动速度](Movement_speed.md "移动速度")增加9米（30英尺）
+  - 一个额外的[动作](Action.md#资源 "动作")
+- 状态结束时，受影响的生物变为[力竭](力竭_(状态).md "力竭 (状态)")，并在1[回合](回合.md "回合")内无法移动或进行[动作](Action.md "动作")。
 
 [剑蜘蛛之迅捷](剑蜘蛛之迅捷_(状态).md "剑蜘蛛之迅捷 (状态)")
 |
 
-- 受影响的实体获得+2[护甲等级](护甲等级.md "护甲等级")、[敏捷](敏捷.md "敏捷")[豁免检定](豁免检定.md "豁免检定")的[优势](优势.md "优势")，其[移动速度](移动速度.md "移动速度")翻倍，并且每回合可以进行一次额外的[动作](动作.md "动作")。
+- 受影响的实体获得+2[护甲等级](Armor_Class.md "护甲等级")、[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")的[优势](Disadvantage.md "优势")，其[移动速度](Movement_speed.md "移动速度")翻倍，并且每回合可以进行一次额外的[动作](Action.md "动作")。
 
 ---
 *Source: [Absorbed Essence: Illasera (Condition)](https://bg3.wiki/wiki/Absorbed_Essence:_Illasera_(Condition)*

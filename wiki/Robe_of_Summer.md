@@ -1,6 +1,6 @@
 # 夏之长袍
 
-夏之长袍是一件[服装](Clothing.md "服装")，属于[稀有度](稀有度.md "稀有度")为[不常见](稀有度.md "不常见")的物品，能为穿戴者提供对[寒冷](Cold.md "寒冷")伤害的[抗性](Damage_types.md#Resistance "伤害类型")。
+夏之长袍是一件[服装](Clothing.md "服装")，属于[稀有度](Rarity.md "稀有度")为[不常见](Rarity.md "不常见")的物品，能为穿戴者提供对[寒冷](Cold.md "寒冷")伤害的[抗性](Damage_types.md#Resistance "伤害类型")。
 
 这件长袍的薄面料触感温暖舒适。
 

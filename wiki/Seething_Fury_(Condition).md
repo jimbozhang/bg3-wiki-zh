@@ -8,9 +8,9 @@
 
 ## 属性
 
-[堆叠ID](堆叠ID.md "堆叠ID"): `GNOLL_BREWING_RAGE` [状态组](状态组.md "状态组"): [SG_狂暴](SG_狂暴.md "SG 狂暴")
+[堆叠ID](Conditions.md "堆叠ID"): `GNOLL_BREWING_RAGE` [状态组](Status_groups.md "状态组"): [SG_狂暴](SG_狂暴.md "SG 狂暴")
 
-[持续时间结束](状态.md#持续时间 "状态"): 驱散结束
+[持续时间结束](Status_properties.md#持续时间 "状态"): 驱散结束
 
 ## 状态: 溃烂狂怒
 
@@ -20,7 +20,7 @@
 
 ## 怒火中烧的来源
 
-- [怒火中烧](怒火中烧.md "怒火中烧")
+- [怒火中烧](Seething_Fury.md "怒火中烧")
 
 ## 拥有怒火中烧的生物
 

@@ -1,6 +1,6 @@
 # 旧维修记录
 
-**旧维修记录**包含为[某个机器](寻找洛山达之血.md#The_Githyanki_Cr%C3%A8che "寻找洛山达之血")上油的说明。
+**旧维修记录**包含为[某个机器](Find_the_Blood_of_Lathander.md#The_Githyanki_Cr%C3%A8che "寻找洛山达之血")上油的说明。
 
 这本书散发着纸张和墨水的诱人气息。
 
