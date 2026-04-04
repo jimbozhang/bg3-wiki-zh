@@ -1,0 +1,56 @@
+# 毛绒记忆
+
+**毛绒记忆**是[奥利弗](Oliver.md "奥利弗")使用的类动作，用于召唤[幽影毛绒玩具](Shadow_Plush.md "幽影毛绒玩具")。
+
+## 描述
+
+奥利弗召唤他最喜爱的毛绒朋友！
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+详情
+范围：自身
+充能：每回合
+
+## 技术细节
+
+UID
+
+`Shout_SCL_OliverFight_FluffyMemory`
+
+法术标志
+
+`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
+
+## 生物：幽影毛绒玩具
+
+| [力量](Strength.md "力量") 20 (+5) | [敏捷](Dexterity.md "敏捷") 12 (+1) | [体质](Constitution.md "体质") 17 (+3) | [智力](Intelligence.md "智力") 3 (-4) | [感知](Wisdom.md "感知") 12 (+1) | [魅力](Charisma.md "魅力") 7 (-2) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| 持续时间 | 直至战斗结束 |  |  |  |  |
+| 生命值 | 60 |  |  |  |  |
+| 护甲等级 | 13 |  |  |  |  |
+| 体型 | 微型 |  |  |  |  |
+
+[粉碎跃击](Crushing_Flight.md "粉碎跃击") (+ )
+跃向目标进行啃咬并将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：每回合。）
+
+[幽影利爪](Shadowy_Claws.md "幽影利爪") ()
+用致命利爪猛击并将目标击退1.5米/5英尺。
+
+[虚无形态](Ethereal.md "虚无形态")
+受影响实体为虚体，无法被[推击](Shove.md "推击")、[投掷攻击](Throw.md "投掷攻击")，或用作[即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器")
+
+## 学习方式
+
+由生物使用：[奥利弗](Oliver.md "奥利弗")
+
+## 备注
+
+- 奥利弗可在战斗第二回合开始使用此动作。
+- 若幽影毛绒玩具被击败，奥利弗可在完整一回合冷却后重新召唤。
+
+---
+*Source: [Fluffy Memory](https://bg3.wiki/wiki/Fluffy_Memory)*

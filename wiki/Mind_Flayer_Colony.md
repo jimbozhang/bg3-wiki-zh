@@ -1,0 +1,183 @@
+# 夺心魔殖民地
+
+**夺心魔殖民地**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第二幕](Act_Two.md "第二幕")中[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")内的一个[地点](Location.md "地点")。它位于[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")的[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")下方。夺心魔殖民地地图
+
+## 目录
+
+- [1 进入方式](#access)
+- [2 重要地点](#points-of-interest)
+  - [2.1 停尸房](#morgue)
+  - [2.2 黯蚀实验室](#necrotic-laboratory)
+  - [2.3 夺心魔蝌蚪植入中心](#tadpoling-centre)
+  - [2.4 卤水池房间](#brine-pools-room)
+  - [2.5 兵营](#barracks)
+- [3 前往凯瑟里克·索姆](#advance-to-ketheric-thorm)
+  - [3.1 与凯瑟里克的战斗](#fight-with-ketheric)
+- [4 相关地点](#related-locations)
+- [5 相关任务](#related-quests)
+- [6 角色](#characters)
+  - [6.1 可使用死者交谈的角色](#available-to-speak-with-dead)
+- [7 战利品](#loot)
+  - [7.1 任务物品](#quest-items)
+  - [7.2 任务奖励](#quest-rewards)
+  - [7.3 其他](#other)
+- [8 备注](#notes)
+
+## 进入方式
+
+在[月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶")击败[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")后，跳下塔楼即可进入此区域。从月出之塔塔顶抵达后，队伍必须破坏隔膜才能继续前进。殖民地中有许多[噬脑怪](Intellect_Devourer.md "噬脑怪")四处游荡，只有在附近发生战斗时才会变得敌对。
+
+在夺心魔殖民地内部时，队伍无法[传送点](Waypoint.md "传送点")或前往[营地](Camp.md "营地")。
+
+## 重要地点
+
+### 停尸房
+
+停尸房中悬挂的尸体
+
+停尸房由[切割者](Chop.md "切割者")管理，他是一个奇怪的[熊地精](Bugbear.md "熊地精")，将类人生物肢解以创造新的[噬脑怪](Intellect_Devourer.md "噬脑怪")。
+
+如果未在[鹦鹉螺](Nautiloid.md "鹦鹉螺")上被杀死，[我们](Us.md "我们")可以在此处被囚禁。与我们交谈后，队伍可以说服切割者交出[停尸房牢笼钥匙](Morgue_Cage_Key.md "停尸房牢笼钥匙")，需要成功通过DC 14的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")、DC 18的[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")或使用灵吸怪智慧。如果被释放，我们会奖励队伍[召唤我们](Summon_Us.md "召唤我们")物品。
+
+如果威胁要杀死切割者，他会回应说希望队伍杀了他。尽管如此，攻击他仍然会使切割者和周围的噬脑怪（我们除外）变得敌对。不过，在他被杀死时，切割者会评论说他“终于自由了”。停尸房外的噬脑怪保持中立。
+
+还有一个名为“按钮”的机械设备，用于控制运输尸体的管道。首次互动时，管道会掉落一具[尸体](Nimias.md "Nimias")，可以对其使用[死者交谈](Speak_with_Dead.md "死者交谈")。
+
+### 黯蚀实验室
+
+主条目：[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")
+
+巴萨扎尔的黯蚀实验室
+
+巴萨扎尔的实验室可以在地图的东南部找到，坐标X: 715 Y: -49。进入该区域后，会与大量不死生物开始战斗，包括一个[死亡牧者](Death_Shepherd.md "死亡牧者")、四个[飞天恐魔](Winged_Horror.md "飞天恐魔")和[大僵尸](Greater_Zombie.md "大僵尸")，以及六个[僵尸](Zombie.md "僵尸")。
+
+再往东南方向是一个[大脑映射谜题](Brain_Mapping_Puzzle.md "大脑映射谜题")，由四个心智官能（情感、言语、记忆和理性）组成。要解开这个谜题，必须通过选择中间节点，将每个心智官能连接到谜题另一侧相同的匹配官能上。成功解开谜题会授予拥有[智者](Sage.md "智者")背景的角色[脑力爆发！](Sage.md#Brain_Blast! "脑力爆发！")，并可以访问[压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑")和[苏醒意志](Waking_Mind.md "苏醒意志")。在苏醒意志旁边，坐标X: 750 Y: -138处有一个骷髅，携带[精神剧痛饰环](Circlet_of_Mental_Anguish.md "精神剧痛饰环")和[脑力汲取手套](Braindrain_Gloves.md "脑力汲取手套")。
+
+坐标X: 699 Y: -117处的[大脑档案室接口](Mind-Archive_Interface.md "大脑档案室接口")允许队伍通过[皮肤松弛的脑袋](Slack-Skinned_Head.md "皮肤松弛的脑袋")与散落在该区域的贮脑罐交谈。
+
+- 在大脑映射谜题后方找到的[苏醒意志](Waking_Mind.md "苏醒意志")可以授予永久增益：[吉斯泽莱人的精神屏障](Githzerai_Mind_Barrier.md "吉斯泽莱人的精神屏障")。对话中的某些选项会获得某些伙伴的赞成或反对。
+- 与[新鲜意志](Fresh_Mind.md "新鲜意志")的对话也可能获得某些伙伴的赞成或反对点数。
+- 殖民地其他地方的[真实意志](True_Mind.md "真实意志")、[自愿意志](Willing_Mind.md "自愿意志")、[摧残意志](Butchered_Mind.md "摧残意志")和[封闭意志](Closed_Mind.md "封闭意志")贮脑罐，以及来自[鹦鹉螺](Nautiloid.md "鹦鹉螺")的[黑暗的大脑](Dark_Mind.md "黑暗的大脑")和[被奴役的大脑](Slave_Mind.md "被奴役的大脑")贮脑罐，只会提供对话。
+
+在大脑档案室接口附近的桌子上可以找到[摩尔的眼罩](Mol's_Eyepatch.md "摩尔的眼罩")和一份[宽恕祷词](Prayer_for_Forgiveness.md "宽恕祷词")，后者揭示了[邪念](The_Dark_Urge.md "邪念")的一些信息。
+
+### 夺心魔蝌蚪植入中心
+
+主条目：[夺心魔蝌蚪植入中心](Tadpoling_Centre.md "夺心魔蝌蚪植入中心")
+
+夺心魔蝌蚪植入中心
+
+[夺心魔蝌蚪植入中心](Tadpoling_Centre.md "夺心魔蝌蚪植入中心")是一个大致圆形的房间，里面装满了[夺心魔贮囊](Mind_Flayer_Pod.md "夺心魔贮囊")；一些贮囊中包含非敌对的类人生物角色，包括[赛夫洛](Zevlor.md "赛夫洛")（[寻找赛夫洛](Find_Zevlor.md "寻找赛夫洛")任务），而另一些则包含[夺心魔](Mind_flayer.md "夺心魔")。坐标X: 689 Y: 17处的神经装置让队伍选择是清除所有贮囊（包括灵吸怪和类人生物）还是打开所有贮囊。
+
+如果选择清除贮囊，赛夫洛和贮囊中的所有其他角色都会死亡；如果打开，队伍必须与几个夺心魔和噬脑怪战斗（尽管新释放的角色会与队伍并肩作战，提供重要援助）。
+
+如果队伍通过法术范围效果（如[匕首之云](Cloud_of_Daggers.md "匕首之云")或[焰击术](Flame_Strike.md "焰击术")）对赛夫洛和其他幸存者造成伤害，他们可能会变得敌对。
+
+### 卤水池房间
+
+卤水池房间
+
+在下一个区域（卤水池房间），[米佐拉](Mizora.md "米佐拉")被困在一个贮囊中。队伍可以释放她以推进[边境之刃](The_Blade_of_Frontiers.md "边境之刃")，威尔的伙伴任务。
+
+米佐拉的贮囊有自己的控制装置。左边是“湮灭”，右边是“释放”，每个都需要DC 10的[奥秘](Arcana.md "奥秘")[检定](Ability_Check.md "属性检定")来破译其功能，但如果在[鹦鹉螺](Nautiloid.md "鹦鹉螺")的蜕变室中破译过相同的词语，则可以自动通过。如果队伍中有威尔并释放米佐拉，她会奖励他们（需要DC 14的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")）[地狱刺剑](Infernal_Rapier.md "地狱刺剑")。通过“湮灭”按钮杀死米佐拉会导致威尔也死亡。
+
+与米佐拉附近的卤水池互动（DC 16的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定"))会获得[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")。
+
+### 兵营
+
+在殖民地的东北角是兵营，队伍可以在此处遇到[克雷萨·骨女](Kressa_Bonedaughter.md "克雷萨·骨女")和她的颅骨鞭挞者。简短对话后，可以与克雷萨战斗，或通过成功的DC 21的[欺瞒](Deception.md "欺瞒")[检定](Ability_Check.md "属性检定")说服她放弃抵抗。如果友好，可以说服克雷萨（DC 18的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定"))授予她的祝福[米尔寇的礼物](Myrkul's_Gift_(Condition).md "米尔寇的礼物（状态）")给每个与她交谈的队伍成员。整个队伍只需要一次检定。
+
+如果[邪念](The_Dark_Urge.md "邪念")在场且未伪装，克雷萨会认出他，并回忆起在殖民地中受她“照顾”的时光。这次对话不可避免地会导致战斗。
+
+房间内还有几份笔记，可以揭示邪念的信息。
+
+## 前往凯瑟里克·索姆
+
+要完成[击败凯瑟里克·索姆](Defeat_Ketheric_Thorm.md "击败凯瑟里克·索姆")，队伍必须前往夺心魔殖民地东部的电梯。在乘电梯下降之前，队伍可以使用电梯右侧的[恢复站](Restoration.md "恢复站")来获得[长休](Long_Rest.md "长休")的益处。
+
+下降后会触发过场动画，队伍可以看到[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")、[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")和[腥红奥林](Orin.md "腥红奥林")，了解他们的计划，并看到[耐色脑](The_Netherbrain.md "耐色脑")，从而发现[绝对者](Absolute.md "绝对者")的真实身份。如果[盖尔](Gale.md "盖尔")在队伍中，可以选择让他引爆耐瑟瑞尔魔球，杀死耐色脑、所有三位选民和队伍，导致游戏非常早期结束。否则，过场动画继续，主脑用蝌蚪感染[雷文伽德公爵](Ulder_Ravengard.md "雷文伽德公爵")，然后[死亡三神](Dead_Three.md "死亡三神")的选民对博德之门发动攻击。
+
+乘电梯下降还会授予拥有[化外之民](Outlander.md "化外之民")背景的队伍成员[从头到脚](Outlander.md#From_Head_to_Toe "从头到脚")激励点。
+
+### 与凯瑟里克的战斗
+
+与凯瑟里克战斗的平台
+
+如果[伊索贝尔](Isobel.md "伊索贝尔")被[马库斯](Marcus_Falgor.md "马库斯·法尔戈")成功绑架，凯瑟里克可能会由他的女儿伊索贝尔陪同。伊索贝尔携带夺心魔蝌蚪，并完全忠于她的父亲。如果通过多次[游说](Persuasion.md "游说")和/或[威吓](Intimidation.md "威吓")检定（在月出之塔塔顶和夺心魔殖民地），可以要求凯瑟里克·索姆忏悔。这样做会跳过他在夺心魔殖民地[战斗](Ketheric_Thorm/Combat.md "凯瑟里克·索姆/战斗")的前半部分，因为他将自己献给了米尔寇。
+
+否则，当与凯瑟里克的第二场战斗开始时，他会首先召唤[米尔寇](Myrkul.md "米尔寇")寻求帮助。只要凯瑟里克仍囚禁着[艾琳](Aylin.md "艾琳")，他就保持无敌状态，队伍的首要目标应该是使用[协助](Help.md "协助")动作释放她，因为她被凯瑟里克困在灵魂笼中。如果在场，伊索贝尔总是与她的父亲并肩作战，她的死亡无法阻止。
+
+战斗结束后会触发几个过场动画。队伍成员被传送回[月出之塔](Moonrise_Towers.md "月出之塔")一楼，在那里可以与在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")遇到的一些角色交谈，然后向西前往博德之门。也可以前往[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")并与那里的剩余角色交谈。
+
+## 相关地点
+
+- [月出之塔](Moonrise_Towers.md "月出之塔")
+- [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶")
+- [地下密牢](Oubliette.md "地下密牢")
+
+## 相关任务
+
+- [击败凯瑟里克·索姆](Defeat_Ketheric_Thorm.md "击败凯瑟里克·索姆")
+- [拥抱你的潜能](Embrace_Your_Potential.md "拥抱你的潜能")
+- [找到摩尔](Find_Mol.md "找到摩尔")
+- [寻找赛夫洛](Find_Zevlor.md "寻找赛夫洛")
+- [解除幽影诅咒](Lift_the_Shadow_Curse.md "解除幽影诅咒")
+- [边境之刃](The_Blade_of_Frontiers.md "边境之刃")
+- [高公爵](The_Grand_Duke.md "高公爵")
+- [邪念](The_Urge.md "邪念")
+- [深水城的法师](The_Wizard_of_Waterdeep.md "深水城的法师")
+
+## 角色
+
+- [巴萨扎尔](Balthazar.md "巴萨扎尔")（条件性）
+- [切割者](Chop.md "切割者")
+- [恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")
+- [伊索贝尔](Isobel.md "伊索贝尔")（条件性）
+- [凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")
+- [克雷萨·骨女](Kressa_Bonedaughter.md "克雷萨·骨女")
+- [米佐拉](Mizora.md "米佐拉")（条件性）
+- [腥红奥林](Orin.md "腥红奥林")
+- [舒尔加](Shuurga.md "舒尔加")
+- [我们](Us.md "我们")（条件性）
+- [叶娃](Yeva.md "叶娃")
+- [赛夫洛](Zevlor.md "赛夫洛")（条件性）
+- [僵尸德罗尔·拉格兹林](Zombie_Dror_Ragzlin.md "僵尸德罗尔·拉格兹林")（条件性）
+- [僵尸明萨拉](Zombie_Minthara.md "僵尸明萨拉")（条件性）
+- [僵尸乌尔布伦](Zombie_Wulbren.md "僵尸乌尔布伦")（条件性）
+
+### 可使用死者交谈的角色
+
+- [尼米亚斯](Nimias.md "尼米亚斯")
+
+## 战利品
+
+在此地点获得的值得注意的物品，无论是掠夺、购买还是作为任务奖励获得：
+
+### 任务物品
+
+- [摩尔的眼罩](Mol's_Eyepatch.md "摩尔的眼罩") - 在黯蚀实验室坐标X: 693 Y: -111处，推进[找到摩尔](Find_Mol.md "找到摩尔")
+
+### 任务奖励
+
+- [地狱刺剑](Infernal_Rapier.md "地狱刺剑") - 由米佐拉给予
+- [凯瑟里克的耐色石](Ketheric's_Netherstone.md "凯瑟里克的耐色石") - 从凯瑟里克·索姆身上掠夺
+- [凯瑟里克之盾](Ketheric's_Shield.md "凯瑟里克之盾") - 从凯瑟里克·索姆身上掠夺
+- [凯瑟里克的战锤](Ketheric's_Warhammer.md "凯瑟里克的战锤") - 从凯瑟里克·索姆身上掠夺
+- [收割者的拥抱](Reaper's_Embrace.md "收割者的拥抱") - 从凯瑟里克·索姆身上掠夺
+
+### 其他
+
+- [压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑") - 解开大脑谜题后在黯蚀实验室找到
+- [脑力汲取手套](Braindrain_Gloves.md "脑力汲取手套") - 可从黯蚀实验室附近的骷髅处掠夺，坐标X: 748 Y: -141
+- [精神剧痛饰环](Circlet_of_Mental_Anguish.md "精神剧痛饰环") - 可从黯蚀实验室的骷髅处掠夺，坐标X: 748 Y: -141
+- [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷") - 从克雷萨·骨女身上掠夺
+- [召唤我们](Summon_Us.md "召唤我们") - 由我们给予
+- [共鸣石](Resonance_Stone.md "共鸣石") - 在巴萨扎尔的黯蚀实验室找到
+- [苏醒意志](Waking_Mind.md "苏醒意志") - 解开大脑谜题后在黯蚀实验室找到
+
+## 备注
+
+- 可以从[地下密牢](Oubliette.md "地下密牢")听到切割者的声音，表明停尸房和地下密牢共享一堵墙。然而，夺心魔殖民地要到第二幕结束才能进入，玩家角色会大声指出没有路可以过去。
+
+---
+*Source: [Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony)*

@@ -1,0 +1,43 @@
+# 震荡爆炸
+
+**震荡爆炸**是[尤格](Yurgir.md "尤格")可用的类动作，对附近生物造成⁠[雷鸣](Thunder.md "雷鸣")伤害并将它们向后击退8米（27英尺）。其效果类似于[雷鸣波](Thunderwave.md "雷鸣波")。
+
+## 描述
+
+一阵雷鸣般的爆炸在你的敌人身上扩散并将他们向后推去。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+伤害：5~40
+
+5d8⁠[雷鸣](Thunder.md "雷鸣")
+
+详情
+[攻击掷骰](Attack_roll.md "攻击掷骰")（未命中时：目标仍承受一半伤害且不会被击退。）
+近战：1.5米（5英尺）
+范围：8米（27英尺）锥形
+击退：8米（27英尺）
+充能：每回合
+
+## 技术细节
+
+UID
+
+`Zone_ConcussiveBlast_Orthon`
+
+法术标志
+
+`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`
+
+## 如何习得
+
+由生物使用：[尤格](Yurgir.md "尤格")
+
+## 错误
+
+- 游戏内工具提示称此攻击涉及体质豁免检定，但实际上使用的是攻击掷骰。
+
+---
+*Source: [Concussive Burst](https://bg3.wiki/wiki/Concussive_Burst)*

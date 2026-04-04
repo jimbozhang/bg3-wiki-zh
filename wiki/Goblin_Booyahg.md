@@ -1,0 +1,330 @@
+# 地精魔法师
+
+## 地精魔法师
+
+### 配音 / 演员
+
+- [Alex Tregear](https://www.imdb.com/name/nm2587402/)
+- [Bethan Dixon Bate](https://www.imdb.com/name/nm4971258/)
+- [Ellie Heydon](https://www.imdb.com/name/nm8703995/)
+
+## 属性
+
+### 体型
+
+[小型](Small.md "Small")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[地精](Goblin.md "Goblin")
+
+### 职业
+
+[法师](Wizard.md "Wizard")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+- 荣誉
+
+## 平衡难度属性
+
+### 等级
+
+2
+
+### 生命值
+
+13
+
+### 护甲等级
+
+11
+
+### 先攻
+
++1
+
+### 熟练项
+
++2
+
+### 施法DC
+
+11 (智力)
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 12 / (+1) | 10 / (0) | 12 / (+1) | 8 / (-1) | 8 / (-1) |
+
+## 额外资源
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+2
+
+### 生命值
+
+9
+
+### 护甲等级
+
+11
+
+### 先攻
+
++1
+
+### 熟练项
+
++4
+
+### 施法DC
+
+13 (智力)
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | -1 | +1 | 0 | +1 | -1 | -1 |
+
+## 额外资源
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离。
+
+## 硬核难度属性
+
+### 等级
+
+2
+
+### 生命值
+
+16
+
+### 护甲等级
+
+11
+
+### 先攻
+
++1
+
+### 熟练项
+
++2
+
+### 施法DC
+
+13 (智力)
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 12 / (+1) | 10 / (0) | 12 / (+1) | 8 / (-1) | 8 / (-1) |
+
+## 额外资源
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离。
+
+- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+
+当你对体型比你大的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "物理") 伤害。每场战斗限一次。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 荣誉难度属性
+
+### 等级
+
+2
+
+### 生命值
+
+20
+
+### 护甲等级
+
+11
+
+### 先攻
+
++1
+
+### 熟练项
+
++2
+
+### 施法DC
+
+13 (智力)
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | -1 | +1 | 0 | +1 | -1 | -1 |
+
+## 额外资源
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离。
+
+- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+
+当你对体型比你大的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "物理") 伤害。每场战斗限一次。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 技术
+
+###
+
+属性
+
+`Goblin_Caster` **地精魔法师** 是在 _[博德之门3](Baldur's_Gate_3.md "博德之门3")_ 的[第一幕](Act_One.md "第一幕")中出现的通用[地精](Goblin.md "Goblin")角色。
+
+## 目录
+
+- [1 概述](#overview)
+- [2 战斗](#combat)
+  - [2.1 攻击与能力](#attacks-and-abilities)
+- [3 已知的地精魔法师](#known-goblin-booyahgs)
+- [4 相关文献](#related-literature)
+
+## 概述
+
+地精魔法师是地精种族的[法师](Wizard.md "Wizard")，尽管他们的技能和知识与更博学的施法者相比显得原始。
+
+尽管有这些不足，他们仍然在群体伏击时构成威胁。他们的范围效果和控场[法术](Spells.md "Spells")使他们在早期遭遇中成为高优先级目标。
+
+## 战斗
+
+### 攻击与能力
+
+[酸液飞溅](Acid_Splash.md "Acid_Splash") ()
+
+伤害: 1~6
+
+1d6⁠[强酸](Acid.md "Acid")
+
+投掷一个酸液泡，对击中的每个生物造成伤害。
+
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+射程: 18 米 (60 英尺)
+
+[油脂](Grease.md "Grease") (+ )
+在地面覆盖易燃油脂。它变成[劣势地形](Difficult_Terrain.md "Difficult_Terrain")，范围内的生物可能[倒伏](Prone_(Condition).md "倒伏 (状态)")。
+
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+射程: 18 米 (60 英尺)
+
+[主手攻击](Main_Hand_Attack.md "主手攻击") () – [仪式法杖](Ritual_Staff.md "仪式法杖")
+
+伤害: 0~5
+
+1d6 - 1⁠[钝击](Bludgeoning.md "钝击")
+
+用装备的武器进行近战攻击。
+
+近战: 1.5 米 (5 英尺)
+
+[疾病射线](Ray_of_Sickness.md "Ray_of_Sickness") (+ )
+
+伤害: 2~16
+
+2d8⁠[中毒](Poison.md "中毒")
+
+可能使目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
+
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+射程: 18 米 (60 英尺)
+
+[摔绊](Topple.md "Topple") () – [仪式法杖](Ritual_Staff.md "仪式法杖")
+
+伤害: 1~4
+
+1d4⁠[钝击](Bludgeoning.md "钝击")
+
+挥击一个生物以将其击[倒伏](Prone_(Condition).md "倒伏 (状态)")。
+
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+射程: 正常武器射程
+充能: [短休](Short_rest.md "短休")
+
+## 已知的地精魔法师
+
+- [本塔](Benta.md "本塔")
+- [库尔克](Culk.md "库尔克")
+- [纳特](Gnat.md "纳特")
+- [皮德尔](Piddle.md "皮德尔")
+- [谢克特](Shekt.md "谢克特")
+
+## 相关文献
+
+- [关于地精：我在征服者之中的生活](On_Goblins_colon__My_Life_Among_the_Conquering_Host.md "关于地精：我在征服者之中的生活")
+
+---
+*Source: [Goblin Booyahg](https://bg3.wiki/wiki/Goblin_Booyahg)*

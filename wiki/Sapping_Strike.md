@@ -1,0 +1,44 @@
+# 削弱打击
+
+**削弱打击**是[潘塔利斯的心象](潘塔利斯的心象.md "潘塔利斯的心象")使用的类动作，允许它们吸取目标的心智。通过此动作窃取的任何属性值在心象被击败后都会恢复。
+
+## 描述
+
+打击一个敌人并创造一个魔法人偶，从目标身上窃取2点[魅力](魅力.md "魅力")、[智力](智力.md "智力")和[感知](感知.md "感知")。
+
+摧毁一个心智人偶会恢复属性点。
+
+## 属性
+
+消耗
+[动作](动作.md#资源 "动作")
+伤害：2~12
+
+2d6⁠[心灵](心灵.md "心灵")
+
+详情
+近战徒手[攻击掷骰](攻击掷骰.md "攻击掷骰")
+近战：1.5米（5英尺）
+
+## 技术细节
+
+UID
+
+`Target_LOW_GithyankiProdigy_MentalImage_PsychicPunch`
+
+法术标志
+
+`[DisableBlood](https://bg3.wiki/w/index.php?title=DisableBlood_\(spell_flag\)&action=edit&redlink=1) "DisableBlood \(spell_flag\) \(page does not exist\)")`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
+
+## 状态：灵能吸取
+
+**[灵能吸取](灵能吸取_(状态).md "灵能吸取 (状态)")**
+
+- 当潘塔利斯吸取你的心智以形成心象时，你的智力、感知和魅力[属性值](属性值.md "属性值")降低2点。如果任何属性值降至0，你将死亡。摧毁心象会释放灵能能量并结束此效果。
+
+## 如何学习
+
+由生物使用：[潘塔利斯的心象](潘塔利斯的心象.md "潘塔利斯的心象")
+
+---
+*Source: [Sapping Strike](https://bg3.wiki/wiki/Sapping_Strike)*

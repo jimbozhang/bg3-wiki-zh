@@ -1,0 +1,64 @@
+# 指南：狗头人晚餐外交指南
+
+这是一份[用户操作指南](Guide_colon_Index.md "Guide:Index")，遵循与Wiki其余部分不同的[指南](Help_colon_Guide_namespace.md "Help:Guide namespace")。编辑此页面前请咨询用户。请在[讨论页](https://bg3.wiki/w/index.php?title=Guide_talk:The_Kobold_Dinner_Guide_to_Diplomacy&action=edit&redlink=1 "Guide talk:The Kobold Dinner Guide to Diplomacy (page does not exist)")留下反馈。
+
+本指南描述了一种旨在最大化通过对话检定几率的构筑，以便绕过战斗或达成理想结果。尤其在[荣誉模式](Honour_Mode.md "Honour mode")中（无法通过反复存档重试），能够首次尝试就通过对话检定至关重要。
+
+## 目录
+
+- [1 外交官（8吟游诗人/2法师/1牧师/1游荡者）](#the-diplomat-(8_bard/2_wizard/1_cleric/1_rogue))
+- [2 策略](#strategy)
+- [3 可通过外交解决的战斗遭遇](#combat-encounters-that-can-be-resolved-'diplomatically')
+- [4 可通过外交简化的战斗遭遇](#combat-encounters-that-can-be-made-easier-through-diplomacy)
+
+## 外交官（8吟游诗人/2法师/1牧师/1游荡者）
+
+此构筑着重于提升“软技能”的技能调整值。当谈判失败时，它能在战斗中扮演辅助角色，通过使用[庇护术](Sanctuary.md "Sanctuary")增强生存能力。
+
+**种族**：[壮心半身人](Halfling.md "Halfling")，因其[半身人幸运](Halfling_Luck.md "Halfling Luck")能降低投掷出现大失败的概率。中毒抗性也是不错的额外优势。
+
+**初始属性**：
+
+力量：8（-1）
+
+敏捷：8（-1）
+
+体质：10（+0）
+
+智力：14（+2）
+
+感知：16\*（+3）
+
+魅力：17\*\*（+3）
+
+此处有一定灵活空间，若偏好更强的法师技能或智力相关技能，可自由交换智力与感知。同理，我将体质设为10，因为重甲会使敏捷变得无关紧要（但会降低先攻）。
+
+**等级1**：[牧师1](Cleric.md "Cleric")（[生命](Life_Domain.md "Life Domain")、[自然](Nature_Domain.md "Nature Domain")、[风暴](Tempest_Domain.md "Tempest Domain")或[战争](War_Domain.md "War Domain")领域）：关键在于获得[庇护术](Sanctuary.md "Sanctuary")和[重甲](Armour.md#List_of_heavy_armour "Armour")熟练项，若谈判失败可提升生存能力。
+
+**等级2**：[游荡者1](Rogue.md "Rogue")：一级游荡者可获得一项额外技能和两点[专精](Expertise.md "Expertise")，我们将其用于游说和欺瞒。
+
+**等级3-12**：[法师（预言学派）2](Wizard.md "Wizard") / [吟游诗人（博学）8](Bard.md "Bard")：我们选择两级预言学派法师。这允许抄录法术（获得高阶法师法术）以及使用[预兆](Portent.md "Portent")骰子（即使在[庇护术](Sanctuary.md "Sanctuary")状态下也可使用）。剩余等级投入吟游诗人，可在2级获得[多面手](Jack_of_All_Trades.md "Jack_of All Trades")、3级获得[专精](Expertise.md "Expertise")以提升外交能力。高魅力对吟游诗人法术DC有用，而大量法师法术可选择用于实用性和召唤。具体等级顺序可自行决定。
+
+**专长**：
+
+- [演员](Actor.md "Actor")：魅力+1，并获得欺瞒和[表演](Performance.md "Performance")专精（确保不要为其他专精选择这些技能）
+- [幸运](Lucky.md "Lucky")：在战斗内外均有用，主要用于弥补技能检定。
+
+## 策略
+
+在游戏大部分时间里，外交官可留在营地。需要时，对其施放庇护术并由其发起对话。若谈判失败，在庇护状态下可为队友施加增益、用[造水/枯水术](Create_or_Destroy_Water.md "Create or Destroy Water")设置组合技、施放召唤法术。或者，对于位置适宜的遭遇，可让外交官单独进入并在必要时逃离战斗，随后与战斗队伍汇合。
+
+## 可通过外交解决的战斗遭遇
+
+- [马鲁斯·索姆](Malus_Thorm.md "Malus Thorm")
+- [尤格](Yurgir.md "Yurgir")
+- [格灵哥斯·索姆](Gerringothe_Thorm.md "Gerringothe Thorm")
+- [西索博得·索姆](Thisobald_Thorm.md "Thisobald Thorm")
+
+## 可通过外交简化的战斗遭遇
+
+- [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")：可说服其跳入深渊，绕过第一阶段战斗。
+- [拉斐尔](Raphael.md "Raphael")：说服尤格改变阵营。
+
+---
+*Source: [Guide:The Kobold Dinner Guide to Diplomacy](https://bg3.wiki/wiki/Guide:The_Kobold_Dinner_Guide_to_Diplomacy)*

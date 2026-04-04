@@ -1,0 +1,220 @@
+# 戈尔布雷斯之家
+
+## [下城区](Lower_City.md "下城区")
+
+[上城门检查点](Upper_City_Gate_Checkpoint.md "上城门检查点")
+↑
+| [下城区](Lower_City.md "下城区") |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [上城门检查点](Upper_City_Gate_Checkpoint.md "上城门检查点") |  |  |  |  |
+| ↑ |  |  |  |  |
+| [迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "迦纳斯夫人的宅邸") | ← | 戈尔布雷斯之家 | → | [焕颜精品店](Facemaker's_Boutique.md "焕颜精品店") |
+| ↓ |  |  |  |  |
+| [会馆](The_Lodge.md "会馆") |  |  |  |  |
+↓
+[会馆](The_Lodge.md "会馆")
+**戈尔布雷斯之家**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。
+
+> “
+>
+> 啊-啊。这可不是你的房子，记得吗？在我们的屋檐下，你得说话客气点，**如果**我们让你留下的话。<..> 现在如果还有更多要谈的，那就他妈的进来。还有，把靴子擦干净。
+>
+> „
+
+— [里翁](Rion.md "里翁")，欢迎贾希拉回来
+
+## 目录
+
+- [1 概述](#overview)
+- [2 建筑布局](#building-layout)
+  - [2.1 地下室](#basement)
+  - [2.2 屋顶](#roof)
+- [3 伙伴互动](#companion-interactions)
+  - [3.1 贾希拉（和明斯克）](#jaheira-(and_Minsc))
+  - [3.2 影心](#shadowheart)
+- [4 建筑外部](#outside-the-building)
+- [5 相关任务](#related-quests)
+- [6 角色](#characters)
+  - [6.1 贾希拉的监护对象](#jaheira's-wards)
+  - [6.2 建筑外，附近](#outside,_near_the_building)
+  - [6.3 动物](#animals)
+- [7 战利品](#loot)
+- [8 相关文献](#related-literature)
+- [9 外部链接](#external-links)
+- [10 脚注和参考文献](#footnotes-and-references)
+
+## 概述
+
+一楼内部
+
+戈尔布雷斯之家<sup>[\[1\]](#cite_note-1)</sup>是一座大型私人建筑，位于[上城门检查点](Upper_City_Gate_Checkpoint.md "上城门检查点")的西南方向。它与[会馆](The_Lodge.md "会馆")和[闪耀盛会](The_Glitter_Gala.md "闪耀盛会")一起，围绕着[博德安](Balduran.md "博德安")的雕像形成了一个小广场。
+
+戈尔布雷斯之家有两层楼，其北侧有一个围绕着巨大垂柳建造的大型花园房间。它还有一个大型隐藏地下室，可通过花园房间的密道进入。
+
+有多个入口点可以进入：
+
+- 主门在 X: -209 Y: -57
+- 上锁的后门在 X: -230 Y: -53 - 需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定") 或使用屋内的[钥匙](Elarrathin_Residence_Backdoor_Key.md "埃拉欣宅邸后门钥匙")（位于门附近的橱柜内）
+- 也可以使用法术或药水（如[飞行](Fly.md "飞行")或[羽落术](Feather_Fall.md "羽落术")）从屋顶跳下，穿过花园房间的拱顶进入房屋。
+
+## 建筑布局
+
+花园房间，贾希拉将其用作图书馆和书房
+
+主门位于有顶的门廊上，那里立着一个训练假人。它通向大型一楼，结合了厨房、餐厅和用帘子隔开的沙龙。最远端是一张书桌和通往二楼的楼梯，二楼有两间大卧室。
+
+入口对面是一个上锁的木箱，可以用 DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定") 撬开，或用[里翁](Rion.md "里翁")携带的[钥匙](Jaheira's_Chest_Key.md "贾希拉的宝箱钥匙")打开。里面有金币、[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")和一封写给里翁的信。
+
+在沙龙中，大约在 X: -215 Y: -51 处，DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定") 会显示一块松动的木板，下面藏着[未发出的信息](Unsent_Sending.md "未发出的信息"). 据悉，这封信是里翁写给贾希拉的，但从未寄出。
+
+厨房附近，沿着北墙，是一个某种蒸馏器。靠近入口处是通往花园房间的门道，花园房间也用作图书馆和书房。
+
+花园房间的书桌里有一个别针形状的孔，用 DC 12 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定") 可以检测到。可以使用[竖琴形状别针](Harp-Shaped_Pin.md "竖琴形状别针")解锁通道，这种别针在整个旅程中可以找到多个：
+
+- [第一幕](Act_One.md "第一幕")：一个[有刻印的别针](Engraved_Pin.md "有刻印的别针") - 在[复仇之炉](Grymforge.md "复仇之炉")的[贾姆](Jhaam.md "贾姆")尸体上，坐标 X: -632 Y: 388
+- [第二幕](Act_Two.md "第二幕")：在[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")的[地下密牢](Oubliette.md "地下密牢")的一堆内脏中，坐标 X: 623 Y: -99
+- [第三幕](Act_Three.md "第三幕")：在[墓园](Graveyard_(Lower_City).md "墓园（下城区）")的[停尸房](Graveyard_(Lower_City).md#Mortuary).md#Mortuary> "墓园（下城区）")的一个桃花心木棺材里，坐标 X: 40 Y: 29
+
+此外，在房屋内部也可以获得两个这样的物品：
+
+- 在屋顶的旧小袋中 X: -217 Y: -53
+- 另一个别针由[塔特](Tate.md "塔特")提供 - 一个躲在楼上卧室之一的男孩
+
+将别针插入孔中会激活书桌中的隐藏机制，并打开通往地下室的密道。
+
+### 地下室
+
+向下的路上布满了陷阱球体
+
+地下室通向一个深邃的洞穴。从入口处有一条蜿蜒向下的小路，由四个球体保护。每个球体最初都装备了[守卫刻文](Glyph_of_Warding.md "守卫刻文")法术，可造成 5d8 点[寒冷](Cold.md "寒冷")、[火焰](Fire.md "火焰")、[闪电](Lightning.md "闪电")或[中毒](Poison.md "中毒")伤害。与常规的刻文法术不同，这些球体在被激活后的下一回合会重新充能其刻文，直到被禁用。<sup>[\[2\]](#cite_note-2)</sup>
+
+第一次与任何球体互动时，角色会进行 DC 15 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")，以辨别解除陷阱的正确方法（即用其相应元素的伤害击打球体）。如果贾希拉在队伍中，陷阱不会触发，或者可以通过在路径前移开压力板上的板条箱来解除陷阱。<sup>[\[3\]](#cite_note-3)</sup>
+
+小路尽头是池塘附近的一个圆形石地，[邮政局长巴杰](Postmaster_Badger.md "邮政局长巴杰")正在那里训练四只[信使鼠](Messenger_Rat.md "信使鼠")，收集博德之门及其周边特定事件的信息。如果队伍使用[动物交谈](Speak_with_Animals.md "动物交谈")，老鼠们会分享它们的发现。<sup>[\[4\]](#cite_note-4)</sup>
+
+一个郁郁葱葱的洞穴，有一个俯瞰池塘的木棚屋。
+
+洞穴的最远端是一个小木屋。里面，架子顶上的一个重箱子和稍远处的一个华丽箱子包含金币和少量战利品，而其他一些容器可能存放着[营地补给](Camp_supplies.md "营地补给").
+
+在书架附近进行 DC 20 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")，队伍成员可以检测到装有[守卫刻文：强酸](Glyph_of_Warding_colon__Acid.md "守卫刻文：强酸")的松动木板陷阱。另一个 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定") 会高亮显示书架。尽管也被高亮显示为陷阱，但它只是上锁了。用 DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定") 解除木板陷阱后，下面藏着一把[钥匙](Key_(Jaheira's_Basement).md "钥匙（贾希拉的地下室）")，可以打开书架（否则需要 DC 18 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定") 来撬锁）。
+
+书架后面是洞穴的隐藏部分，贾希拉在那里存放了一些她最私密的物品：华丽箱子中的[贝尔姆](Belm.md "贝尔姆")和[撞击法杖](Staff_of_the_Ram.md "撞击法杖")，展示柜中的[卡利德的礼物](Khalid's_Gift.md "卡利德的礼物")，以及桌子上的[永恒之体仪式](Rite_of_the_Timeless_Body.md "永恒之体仪式"). 与项链和卷轴互动会在与贾希拉的对话中添加选项，询问她的过去。
+
+### 屋顶
+
+除了前面提到的装有竖琴手别针的旧小袋外，在该物品附近进行 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定") 会高亮显示一块下面有秘密储藏处的木板。里面可能包含[盗贼工具](Thieves'_Tools.md "盗贼工具")（1 到 3 套）、[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")（1 到 3 个），以及随机的有用药水和/或手雷。附近的鸟巢可能包含少量[珍品](Valuables.md "珍品").
+
+## 伙伴互动
+
+### 贾希拉（和明斯克）
+
+戈尔布雷斯之家是[贾希拉](Jaheira.md "贾希拉")和她的监护对象的住所，她将他们视为自己的[家人](Jaheira's_Family.md "贾希拉的家人").<sup>[\[5\]](#cite_note-5)</sup> 如果贾希拉被招募进队伍，他们都可以在房子里见到：
+
+- [菲格](Fig.md "菲格") - 最小的养女，充当房子的“哨兵”，阻止和询问任何新访客。她白天在门廊上度过，对着假人练习剑术。
+- [哲塞姆](Jhessem.md "哲塞姆") - 中间的养女，一个说话有贵族风范的小女孩。她找到了贾希拉的家谱，并梦想成为[泰斯尔](https://forgottenrealms.fandom.com/wiki/Tethyr)的女王。
+- [乔迪](Jord.md "乔迪") - 最大的养子，一个德鲁伊学徒，负责照看房子里的植物。他可以分享一个故事，关于贾希拉在他九岁时如何保护他免受一个爱管闲事的商人骚扰。
+- [里翁](Rion.md "里翁") - 最大的养女，在贾希拉不在时，是其他监护对象的无言领袖。她是[焰拳](Flaming_Fist.md "焰拳")的前成员，偶尔会采取行动维持邻里秩序。<sup>[\[6\]](#cite_note-6)</sup>
+- [塔特](Tate.md "塔特") - 最小的养子，被贾希拉描述为“小偷小摸”。他似乎是最近被收养的，显然他的父母死于[绝对真神教团](Cult_of_the_Absolute.md "绝对真神教团").<sup>[\[7\]](#cite_note-7)</sup> 塔特害怕失去他的新家庭，更喜欢待在楼上，偷听对话。
+
+与贾希拉家人的互动取决于她是否在队伍中，以及队伍在[高阶竖琴手](The_High_Harper.md "高阶竖琴手")任务中的进展 - 具体来说，取决于[明斯克](Minsc.md "明斯克")是否已从教团中救出。如果明斯克已经被救出并且在队伍中，对话布局也会改变。
+
+如果贾希拉被招募，但当前不在队伍中，里翁会要求他们把她带到房子里。如果贾希拉在场，进入房子会触发一个过场动画，她会斥责里翁没有保护好年幼的孩子。然而，里翁更喜欢行动而不是躲藏，并坚持留在博德之门。在与贾希拉所有监护对象进行最初的共同对话后，可以与每个人单独交谈，揭示家庭内部的特殊关系，并引发贾希拉的挖苦评论。如果任务[协助地下势力](Aid_the_Underduke.md "协助地下势力")尚未完成，贾希拉会根据其进展警告里翁有变形怪在猎杀队伍。
+
+让贾希拉与家人团聚会获得以下一项或两项激励点：
+
+- [珍视家人](Urchin.md#Cherishing_Family "流浪儿")（[流浪儿](Urchin.md "流浪儿")背景）
+- [化外之民的子女](Outlander.md#Children_of_an_Outlander "化外之民")（[化外之民](Outlander.md "化外之民")背景）
+
+### 影心
+
+当队伍第一次接近建筑时，大约在 X: -214 Y: -32 处，影心会吸引他们注意外墙上类似“海盗旗”的涂鸦。影心回忆说这可能是她训练期间的作品。她的态度取决于她的[个人任务](Daughter_of_Darkness.md "黑暗之女")是否完成，以及其结果如何。
+
+## 建筑外部
+
+戈尔布雷斯之家周围有几个NPC小插曲。
+
+- 在房子门廊附近，一个衣着华丽的市民[巴斯蒂安·迪齐恩](Bastian_d'Zinn.md "巴斯蒂安·迪齐恩")正在斥责一个平民男孩[雷哈德](Rhaneld.md "雷哈德")，因为他向他扔了一块小石子。一小群路人保护这个男孩，指出巴斯蒂安显然是在小题大做。巴斯蒂安身后马车上的未上锁、红色轮廓的[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")，以及马车附近的背包，包含金币、[营地补给](Camp_supplies.md "营地补给")（酒）和/或高级[营地服装](Camp_Clothing.md "营地服装")的碎片。
+- 在建筑前的三角形花园中，[医师西尔伯特](Sylbert.md "医师西尔伯特")试图给[特维奇·布洛文](Twitch_Broven.md "特维奇·布洛文")带来一些安慰，这是一位被战争逼近城市的消息压垮的老兵。
+
+## 相关任务
+
+- [协助地下势力](Aid_the_Underduke.md "协助地下势力")
+- [高阶竖琴手](The_High_Harper.md "高阶竖琴手")
+
+## 角色
+
+### 贾希拉的监护对象
+
+- [菲格](Fig.md "菲格")
+- [哲塞姆](Jhessem.md "哲塞姆")
+- [乔迪](Jord.md "乔迪")
+- [里翁](Rion.md "里翁")
+- [塔特](Tate.md "塔特")
+
+### 建筑外，附近
+
+- [巴斯蒂安·迪齐恩](Bastian_d'Zinn.md "巴斯蒂安·迪齐恩")
+- [马洛林](Merriolle.md "马洛林")
+- [雷哈德](Rhaneld.md "雷哈德")
+- [西尔伯特](Sylbert.md "西尔伯特")
+- [泰萨·闪靴](Thyssa_Shineboot.md "泰萨·闪靴")
+- [特维奇·布洛文](Twitch_Broven.md "特维奇·布洛文")
+- [泰尔曼·桑兹](Tylman_Sands.md "泰尔曼·桑兹")
+
+### 动物
+
+- [信使鼠](Messenger_Rat.md "信使鼠") - x4
+- [邮政局长巴杰](Postmaster_Badger.md "邮政局长巴杰")
+
+## 战利品
+
+- [贝尔姆](Belm.md "贝尔姆")
+- [卡利德的礼物](Khalid's_Gift.md "卡利德的礼物")
+- [撞击法杖](Staff_of_the_Ram.md "撞击法杖")
+
+## 相关文献
+
+- [战斗规划](Battle_Plans.md "战斗规划")
+- [剪报：博德之口](Clipping_colon__Baldur's_Mouth.md "剪报：博德之口")
+- [来自希欧多尔·蓟哨的回应](Correspondence_from_Theodore_Thistlewhistle.md "来自希欧多尔·蓟哨的回应")
+- [破解完成的现场报告](Decoded_Field_Report.md "破解完成的现场报告")
+- [城市失踪案](Disappearances_in_the_City.md "城市失踪案")
+- [毛怪守护灵祈唤](Domovoi_Invocation.md "毛怪守护灵祈唤")
+- [别吞下样本](Don't_Swallow_the_Specimen.md "别吞下样本")
+- [最后警告](Final_Warning_(Elerrathin's_Home).md "最后警告（戈尔布雷斯之家）")
+- [竖琴手报告：无线索](Harper_Report_colon__No_Leads.md "竖琴手报告：无线索")
+- [杰西姆的日志](Jhessem's_Journal.md "杰西姆的日志")
+- [给里翁的信](Letter_to_Rion.md "给里翁的信")
+- [我最挚爱的妻子](My_Dearest_Wife.md "我最挚爱的妻子")
+- [神秘月影](Mysterious_Moonshae.md "神秘月影")
+- [羊皮卷](Parchment_(Elerrathin's_Home).md "羊皮卷（戈尔布雷斯之家）")
+- [永恒之体仪式](Rite_of_the_Timeless_Body.md "永恒之体仪式")
+- [去他妈的残废之神](Sod_The_Maimed_God.md "去他妈的残废之神")
+- [巴尔之子传奇：第一部](The_Bhaalspawn_Saga_colon__Part_I.md "巴尔之子传奇：第一部")
+- [巴尔之子传奇：第二部](The_Bhaalspawn_Saga_colon__Part_II.md "巴尔之子传奇：第二部")
+- [泰斯尔的有地家族](The_Landed_Families_of_Tethyr.md "泰斯尔的有地家族")
+- [转录过的邮件](Transcribed_Sending.md "转录过的邮件")
+- [未发出的信息](Unsent_Sending.md "未发出的信息")
+
+## 外部链接
+
+- ⁠[贾希拉](https://forgottenrealms.fandom.com/wiki/Jaheira) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+## 脚注和参考文献
+
+1. [↑](#cite_ref-1) 尽管弹出地点和地图标记称该建筑为“戈尔布雷斯之家”，但入口处的图案和一些物品（如后门钥匙）提供了略有不同的名称：“埃拉欣宅邸”。
+1. [↑](#cite_ref-2) 杰西姆的单句对话文件 (`LOW_JaheirasHouse_MiddleDaughter`) 中提到了一个显然未实现的涉及这些球体的谜题。可以通过禁用球体来解决，这应该会产生小基座以穿过下方的池塘。然后杰西姆会给出谜题的线索。
+1. [↑](#cite_ref-3) 如果贾希拉在场，她会对此发表评论，揭示这两个方面。她的评论会在没有任何能力检定的情况下高亮显示压力板。
+1. [↑](#cite_ref-4) 由于一个故障，第四只信使鼠偶尔会在房子外面、屋后的水边被找到。
+1. [↑](#cite_ref-5) 如果贾希拉在[第二幕](Act_Two.md "第二幕")结束前加入队伍之前死亡，房子将是空的，既没有她的监护对象，也没有地下室的动物。[竖琴形状别针](Harp-Shaped_Pin.md "竖琴形状别针")可以在房子上层的大衣柜里找到。
+| [下城区](Lower_City.md "下城区") |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [上城门检查点](Upper_City_Gate_Checkpoint.md "上城门检查点") |  |  |  |  |
+| ↑ |  |  |  |  |
+| [迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "迦纳斯夫人的宅邸") | ← | 戈尔布雷斯之家 | → | [焕颜精品店](Facemaker's_Boutique.md "焕颜精品店") |
+| ↓ |  |  |  |  |
+| [会馆](The_Lodge.md "会馆") |  |  |  |  |
+1. [↑](#cite_ref-7) 如邮箱中的[竖琴手报告：无线索](Harper_Report_colon__No_Leads.md "竖琴手报告：无线索")信件所述。
+
+---
+*Source: [Elerrathin's Home](https://bg3.wiki/wiki/Elerrathin's_Home)*

@@ -1,0 +1,58 @@
+# 鼓舞
+
+**鼓舞**是[战斗大师](Battle_Master.md "战斗大师")战士的附赠动作。这项战斗策略允许战斗大师激励一名盟友，并为其提供额外的临时生命值。
+
+## 描述
+
+消耗一枚卓越骰子来增强一名友方生物的决心。它获得额外的8点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+
+只能拥有一种来源的临时生命值。
+
+## 属性
+
+消耗
+[附赠动作](Actions.md#Resources "动作") + [卓越骰子](Battle_Master.md#Level_3 "战斗大师")
+治疗：
+
+8点临时[治疗](Healing.md "治疗")
+
+详情
+射程：18米（60英尺）
+目标：1名盟友生物
+持续时间：5驱散
+
+## 技术细节
+
+UID
+
+`Target_Rally`
+
+法术标志
+
+`[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
+
+## 状态：受鼓舞
+
+**[受鼓舞](Rallied_(Condition).md "受鼓舞（状态）")**
+
+持续时间：5驱散
+
+- 由一名友方战斗员的鼓舞呐喊授予的8点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+
+## 如何习得
+
+职业：
+
+- 职业等级3：[战斗大师](Battle_Master.md "战斗大师")
+
+由特性授予：
+
+- [战技专家](Martial_Adept.md "战技专家")
+
+## 备注
+
+- 此动作在应用临时生命值之前，会额外将[倒地](Downed_(Condition).md "倒地（状态）")的盟友恢复至1点生命值。
+- 此策略在10级时不会随着卓越骰子尺寸的增大而获得提升。
+
+---
+*Source: [Rally](https://bg3.wiki/wiki/Rally)*

@@ -1,0 +1,144 @@
+# 南翼检查点
+
+## [利文顿](Rivington.md "利文顿")
+
+[飞龙关](Wyrm's_Crossing.md "飞龙关")
+↑
+| [利文顿](Rivington.md "利文顿") |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [飞龙关](Wyrm's_Crossing.md "飞龙关") |  |  |  |  |
+| ↑ |  |  |  |  |
+| [西滩](Western_Beach.md "西滩") | ← | 南翼检查点 |  |  |
+| ↓ |  |  |  |  |
+| [剑湾快递](Sword_Coast_Couriers.md "剑湾快递") |  |  |  |  |
+|  |  |  |  |  |
+↓
+[剑湾快递](Sword_Coast_Couriers.md "剑湾快递")
+**南翼检查点**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[利文顿](Rivington.md "利文顿")内的一个[地点](Location.md "地点")。
+
+> “
+>
+> 你被标记为特殊处理对象。你不仅是人民的敌人，更是绝对真理的敌人。乖乖投降，否则死路一条。
+>
+> „
+
+— [钢铁卫士](Steel_Watcher.md "钢铁卫士")，在扫描了对抗邪教的队伍后说道
+
+## 目录
+
+- [1 概述](#overview)
+  - [1.1 门外区域](#outside-the-gate)
+  - [1.2 检查点内部区域](#inner-part-of-the-checkpoint)
+- [2 相关地点](#related-locations)
+- [3 相关任务](#related-quests)
+- [4 角色](#characters)
+  - [4.1 平民](#civilians)
+  - [4.2 地底侏儒](#deep-gnomes)
+  - [4.3 焰拳巡逻队](#flaming-fist-patrol)
+- [5 值得一提的战利品](#notable-loot)
+- [6 相关文献](#related-literature)
+- [7 注释与参考](#notes-and-references)
+
+## 概述
+
+检查点的守卫塔
+
+南翼检查点可通过将利文顿分为两部分的主路进入。该检查点是通往[飞龙关](Wyrm's_Crossing.md "飞龙关")的主要入口，队伍可经此抵达[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")及其后方的[下城区](Lower_City.md "下城区")。
+
+### 门外区域
+
+检查点设有大型木制城垛，若从利文顿方向来，前方还有一个较小的[焰拳](Flaming_Fist.md "焰拳")哨站。两户难民家庭正与守卫哨站的焰拳士兵争论，但无济于事：外人禁止进入博德之门。若与守卫交谈，他们会表现出与周围一些市民几乎同等的对难民的蔑视。<sup>[\[1\]](#cite_note-1)</sup>
+
+利文顿一侧的守卫由[典狱长埃德温娜](Edwynna.md "典狱长埃德温娜")指挥。她要求队伍证明自己有权进入城市（通过支付200[金币](Gold.md "金币")），并在收取贿赂后，命令队伍靠近附近的[钢铁卫士](Steel_Watcher.md "钢铁卫士")接受扫描。
+
+扫描的具体结果取决于队伍在游戏[第一幕](Act_One.md "第一幕")和[第二幕](Act_Two.md "第二幕")中的决定。
+
+- 如果[乌尔布伦·邦格力](Wulbren_Bongle.md "乌尔布伦·邦格力")和其他[地底侏儒](Clan_Ironhand.md "铁手氏族")在之前的剧情中幸存，那么[灵博](Nimble.md "灵博")和可能的[拉里达](Laridda.md "拉里达")会出现，使用[闪光弹](Flashblinder.md "闪光弹")炸弹使机器人瘫痪，从而允许队伍进入。之后，侏儒们会逃往[角铁地窖](Angleiron's_Cellar.md "角铁地窖")，而钢铁卫士的光学电路会过载，阻止未来在此检查点进行任何扫描。
+
+- 如果侏儒们未能幸存，队伍可以接受被囚禁在[飞龙岩监狱](Wyrm's_Rock_Prison.md "飞龙岩监狱")，<sup>[\[2\]](#cite_note-2)</sup>或者发起攻击。
+
+- 如果[卡菈克](Karlach.md "卡菈克")在场并与钢铁卫士互动，机器人会识别出她胸中的地狱装置是故障的钢铁卫士原型机，并指示她向[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")报告，这使得队伍可以安全绕过检查点而无需进一步扫描。
+
+无论扫描结果如何，具有[智者](Sage.md "智者")背景的角色都会获得激励点「[新常态](Sage.md#New_Normal "智者")」。
+
+逃避逮捕或拒绝接受钢铁卫士扫描被视为[圣武士](Paladin.md "圣武士")的[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")，特别是对于[圣武士之誓](Oath_of_the_Crown.md "圣武士之誓")的圣武士。\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+
+此外，可以通过让一名角色处于[隐形](Invisible_(Condition).md "隐形（状态）")状态走过检查点来绕过它。使用隐形通过检查点被视为非法入侵[犯罪](Crime.md#List_of_crimes "犯罪")，并会导致守卫进行调查。如果被抓住，队伍将被囚禁或被迫战斗。然而，也可以通过成功的基于[灵吸怪](Illithid_powers.md "灵吸怪威能")的DC 20[感知](Wisdom.md "感知")[检定](Ability_Check.md "属性检定")来迫使钢铁卫士停止行动。
+
+最后，可以通过一系列跳跃或使用大多数空间移动手段（例如[置换箭](Arrow_of_Transposition.md "置换箭")、[迷踪步](Misty_Step.md "迷踪步")、[给予飞行](Grant_Flight.md "给予飞行")）从大约X: 34 Y: 47处的岩石悬崖完全绕过检查点大门。途中，可以在X: 32 Y: 50处的重箱子中搜刮战利品。
+
+一旦抵达飞龙关（即使是通过逃离监狱），守卫会允许队伍自由往返，即使从未与检查点巡逻队进行过初始对话。
+
+### 检查点内部区域
+
+只有在获得进入飞龙关的权限后，才能探索城垛的内部区域。在大门后方可以找到更多由[精卫法尔考](Falc%C3%A4o.md "精卫法尔考")指挥的焰拳士兵。如果地底侏儒采取了行动，法尔考会下到东侧脚手架去追捕他们。他会叫住队伍，承诺解决他的「[害虫问题](Deal_with_the_Gnomes.md "处理侏儒")」后给予奖励。否则，他会站在东侧城垛塔附近或塔内。
+
+接受并完成此任务可能会获得以下激励点：
+
+- 「[可收买的忠诚](Criminal.md#Buyable_Loyalty "罪犯")」（[罪犯](Criminal.md "罪犯")背景）
+- 「[清除混乱行动者](Soldier.md#Removing_Chaotic_Actors "士兵")」（[士兵](Soldier.md "士兵")背景）
+
+然而，这样做对于[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")、[奉献之誓](Oath_of_Devotion.md "奉献之誓")和[复仇之誓](Oath_of_Vengeance.md "复仇之誓")的圣武士而言，被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
+
+城垛的两座木塔都有从飞龙关进入的入口，位于大门后方的两侧。在塔内，队伍可以在木箱子及其上获得各种品质的几种治疗药水，以及[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")、大量随机箭矢和一些[营地补给](Camp_supplies.md "营地补给")。所有这些物品都标有红色轮廓，但很容易拿取，因为唯一持续待在内部的守卫是西侧塔楼底层房间的[焰拳阿扎里](Azari.md "焰拳阿扎里")和[焰拳梅多斯](Meadows.md "焰拳梅多斯")。
+
+此外，在西侧塔楼内有两堆随机卷轴，以及一个需要DC 30[巧手](Sleight_of_Hands.md "巧手")[检定](Ability_Check.md "属性检定")才能撬开的粗糙箱子，但里面只有少量金币和随机染料。
+
+## 相关地点
+
+- ⁠[利文顿](Rivington.md "利文顿")
+- ⁠[飞龙关](Wyrm's_Crossing.md "飞龙关")
+- ⁠[飞龙岩监狱](Wyrm's_Rock_Prison.md "飞龙岩监狱")
+
+## 相关任务
+
+- ⁠[为铁手侏儒复仇](Avenge_the_Ironhands.md "为铁手侏儒复仇")
+- ⁠[处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")
+- ⁠[拿到戈塔什的耐色石](Get_Gortash's_Netherstone.md "拿到戈塔什的耐色石")
+
+## 角色
+
+### 平民
+
+- [比利根·英迪格](Billigan_Indigo.md "比利根·英迪格")
+- [丹博·英迪格](Dannbo_Indigo.md "丹博·英迪格")
+- [荷鲁斯·克里斯特](Horus_Crysst.md "荷鲁斯·克里斯特")
+- [诺瑞拉·克里斯特](Noira_Crysst.md "诺瑞拉·克里斯特")
+- [萨米雅·英迪格](Sammia_Indigo.md "萨米雅·英迪格")
+- [托瑞尔·克里斯特](Torin_Crysst.md "托瑞尔·克里斯特")
+
+### 地底侏儒
+
+- [灵博](Nimble.md "灵博")
+- [拉里达](Laridda.md "拉里达")
+
+### 焰拳巡逻队
+
+- [焰拳阿扎里](Azari.md "焰拳阿扎里")
+- [焰拳杰普森](Jepsen.md "焰拳杰普森")
+- [焰拳凯普索](Kepso.md "焰拳凯普索")
+- [焰拳梅多斯](Meadows.md "焰拳梅多斯")
+- [焰拳米兰](M%C3%AEran.md "焰拳米兰")
+- [焰拳里希特](Richter.md "焰拳里希特")
+- [焰拳西莱娜](Silena.md "焰拳西莱娜")
+- [焰拳威尔尼](Wearne.md "焰拳威尔尼")
+- [典狱长埃德温娜](Edwynna.md "典狱长埃德温娜")
+- [精卫法尔考](Falc%C3%A4o.md "精卫法尔考")
+- [钢铁卫士](Steel_Watcher.md "钢铁卫士")
+
+## 值得一提的战利品
+
+- [战锤 +2](Warhammer_+2.md "战锤 +2") - 由埃德温娜掉落
+
+## 相关文献
+
+- [悬赏清单 - 本轮十日](Bounty_List_-_Current_Tenday.md "悬赏清单 - 本轮十日")
+- [特殊指令](SPECIAL_ORDER.md "特殊指令")
+
+## 注释与参考
+
+1. [↑](#cite_ref-1) _"...我们已经有足够多张嘴要喂了。我们不需要你们这种人。\<...>难民。外人。"_ - 焰拳凯普索；_"该死的外人，把这地方挤满了。"_ - 焰拳西莱娜。
+1. [↑](#cite_ref-2) 选择此选项可能导致[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术")的转化出现错误，此问题已被多次报告。由于该书绑定于阅读它的角色且无法从库存中移除，_当该角色被捕时它可能会消失_，其所有物品会被放入监狱证物/装备箱中。这实际上剥夺了该角色完成「[解锁古代典籍](Unlock_the_Ancient_Tome.md "解锁古代典籍")」任务的机会。
+
+---
+*Source: [South Span Checkpoint](https://bg3.wiki/wiki/South_Span_Checkpoint)*

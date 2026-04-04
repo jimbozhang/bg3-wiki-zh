@@ -1,0 +1,47 @@
+# 神圣打击：毒素（远程）
+
+本文介绍远程版本。近战版本请参见 [神圣打击：毒素（近战）](Divine_Strike_colon__Poison_(Melee).md)。关于此特性的通用信息，请参见 [神圣打击](Divine_Strike.md "神圣打击")。
+
+**神圣打击：毒素（远程）** 是 [诡术领域](Trickery_Domain.md "诡术领域") 牧师的武器动作和反应，可在远程武器攻击时造成额外毒素伤害。
+
+## 描述
+
+造成额外 1d8⁠⁠[毒素](Poison.md "毒素") 伤害。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+伤害：1~8
+
+正常武器伤害
+
+\+ 1d8⁠[毒素](Poison.md "毒素")
+
+详情
+远程武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
+射程：正常武器射程
+充能：每回合
+
+## 技术细节
+
+UID
+
+`Projectile_DivineStrike_Ranged_Trickery`
+
+法术标志
+
+`[CanDualWield](https://bg3.wiki/w/index.php?title=CanDualWield_\(spell_flag\)&action=edit&redlink=1) "CanDualWield \(spell flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[IsAttack](IsAttack_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
+
+## 如何习得
+
+此法术是以下法术的变体：
+[神圣打击：毒素](Divine_Strike_colon__Poison.md "神圣打击：毒素")
+
+## 备注
+
+- 此动作可作为攻击后反应触发（无需消耗 [反应](Actions.md#Reactions "动作")），类似于 [至圣斩](Divine_Smite.md "至圣斩")。
+- 有关此系列武器动作的详细信息，请参阅 [神圣打击](Divine_Strike.md "神圣打击")。
+
+---
+*Source: [Divine Strike: Poison (Ranged)](https://bg3.wiki/wiki/Divine_Strike:_Poison_(Ranged)*

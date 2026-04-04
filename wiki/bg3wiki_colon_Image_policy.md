@@ -1,0 +1,131 @@
+# bg3wiki:图片政策
+
+[索引](Help_colon_Index.md "Help:Index") • [指南](Help_colon_Guide_namespace.md "Help:Guide namespace") • [模组](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
+
+## 目录
+
+- [1 命名约定](#naming-convention)
+  - [1.1 物品和对象](#items-and-objects)
+  - [1.2 游戏机制](#game-mechanics)
+- [2 图片布局和展示](#image-layout-and-presentation)
+  - [2.1 角色图片](#character-images)
+    - [2.1.1 莱埃泽尔示例图库](#example-gallery-for-lae'zel)
+- [3 图片替代文本](#image-alt-text)
+  - [3.1 示例](#examples)
+- [4 模组内容](#modded-content)
+
+## 命名约定
+
+图片名称应简短、简洁且具有描述性。使用以下格式：`前缀_名称_后缀.文件格式.png/.webp`
+
+前缀
+一个简短的术语，为图片提供上下文。在适用的情况下，可以是图片的主要[分类](Category_colon_Images.md "Category:Images")。
+文件名
+文件名就是图片的名称。更具体的指南可在相应部分下找到。
+后缀
+在需要进一步分类时添加，可以是单个词或缩写。
+
+以下图片名称使用前缀_页面_名称_后缀格式：
+
+- Underdark_Sussur_Tree.png
+- Underdark_Mushrooms.png
+- Underdark_Mush_Bibberbang.png
+- Underdark_Arcane_Tower_NE.png
+- Underdark_Arcane_Tower_S.png
+
+### 物品和对象
+
+包括游戏中的物品和对象。
+
+- **褪色图片，380x380**
+  - 前缀_物品名称_褪色.png/.webp
+- **未褪色图片，144x144**
+  - 前缀_物品名称_未褪色.png/.webp
+- **未褪色图片，64x64**
+- 前缀_物品名称_未褪色_图标.png/.webp
+
+**前缀**通常是物品的[分类](Category_colon_Images.md "Category:Images")，如果不需要或物品或对象没有特定分类，则无需包含。
+
+当一个物品或对象有多个图片变体时，通过在物品名称后使用单个字母来区分：
+
+- Backpack_A_Unfaded_Icon.png
+- Backpack_B_Unfaded_Icon.png
+
+当多个物品或对象共享相同的游戏内图片时，只应上传一个文件。不要上传重复的图片，而是使用相同的命名约定为每个使用该图片的物品创建重定向。
+
+### 游戏机制
+
+包括法术、动作、属性、状态、被动特性和专长。
+
+- **大型褪色图片**
+  - 页面_名称.webp
+- **小型未褪色图标**
+  - **透明背景**
+    - 页面_名称_图标.webp
+  - **不透明背景**
+    - 页面_名称_状态_图标.webp
+
+## 图片布局和展示
+
+### 角色图片
+
+对于角色页面，尽可能同时包含*电影肖像/截图*和角色的透明全身模型。首先显示模型图片，然后是游戏内图片和官方渲染或角色艺术。
+
+确保已调用 [PageSeo](Template_colon_PageSeo.md "Template:PageSeo") 模板，并将电影肖像作为 **image** 参数。这将有助于确保角色页面和外部链接预览（例如社交媒体网站和 Discord）的一致性。
+
+#### 莱埃泽尔示例图库
+
+- 基础模型
+
+- 营地服装模型
+
+- 内衣模型
+
+- 抢先体验模型
+
+- 数字艺术书概念
+
+- 角色创建器中的外观
+
+- Edward Vanderghote 绘制的肖像
+
+- 开场电影中
+
+- 封面艺术
+
+- 发布前外观
+
+- 抢先体验期间
+
+- 宣传艺术
+
+- 数字艺术书盔甲概念
+
+## 图片替代文本
+
+使用文件模板时，应根据需要添加替代文本（图片加载失败时显示的文本），以提高可访问性。文本应清晰、简洁且具有描述性。
+
+可以使用以下参数将替代文本添加到文件模板：
+
+|alt=|
+
+### 示例
+
+**好的替代文本**：
+
+| - {{File:A_Nice_Summer_Stay.png | alt=阿斯代伦在吉斯洋基人育儿所被集中阳光伤害后痛苦地退缩。}} - {{File:Gale_Flirting.png | alt=盖尔坐在密斯特拉的野餐毯上，在飓风湖边为塔夫献唱。}} |
+
+**差的替代文本**：
+
+| - {{File:A_Nice_Summer_Stay.png | alt=阿斯代伦发现了美好夏日停留与太阳集中全部力量之间的区别。}} - {{File:Gale_Flirting.png | alt=盖尔坐在湖边唱歌。}} |
+
+## 模组内容
+
+在大多数情况下，应避免包含模组内容的图片，以防止混淆或误导性印象。然而，可能存在一些可接受的例外情况：
+
+- 改进摄像机角度的模组——为提供更好或不同视角而修改的图片，通常是可以接受的。
+- 模组元素的少量出现——如果模组内容仅在图片中少量出现或是附带的（请自行判断其是否符合要求），可能是可以接受的。
+  - 尽可能优先使用完全无模组的图片
+
+---
+*Source: [bg3wiki:Image policy](https://bg3.wiki/wiki/bg3wiki:Image_policy)*

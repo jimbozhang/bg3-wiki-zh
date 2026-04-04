@@ -1,0 +1,59 @@
+# 潜行
+
+**潜行**是[荒野形态：黑豹](Wild_Shape_colon__Panther.md "荒野形态：黑豹")动作。黑豹使用此能力进入隐形并潜行追踪猎物。
+
+## 描述
+
+在追踪猎物时进入[隐形](Invisible_(Condition).md "隐形（状态）")。处于隐形状态时，你的首次攻击会造成额外1d8点伤害。
+
+如果进行攻击、施放另一个法术、执行动作或受到伤害，隐形状态会提前结束。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+详情
+范围：自身
+
+## 技术细节
+
+UID
+
+`Shout_Prowl_Panther`
+
+法术标志
+
+`[IsConcentration](IsConcentration_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[UnavailableInDialogs](https://bg3.wiki/w/index.php?title=UnavailableInDialogs_\(spell_flag\)&action=edit&redlink=1) "UnavailableInDialogs \(spell flag\) \(page does not exist\)")`, `[Wildshape](https://bg3.wiki/w/index.php?title=Wildshape_\(spell_flag\)&action=edit&redlink=1) "Wildshape \(spell flag\) \(page does not exist\)")`
+
+## 状态：隐形
+
+**[隐形](Invisible_(Condition).md "隐形（状态）")**
+
+持续时间：直至[长休](Long_Rest.md "长休")
+
+- 对[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，并对敌人的攻击掷骰施加[劣势](Disadvantage.md "劣势")。
+
+如果隐形实体进行攻击、施放另一个法术、与物体互动、变得[濡湿](Wet.md "濡湿")、执行动作或附赠动作，或受到伤害，隐形状态会提前结束。
+
+## 状态：潜行
+
+**[潜行](Prowling_(Condition).md "潜行（状态）")**
+
+持续时间：直至[长休](Long_Rest.md "长休")
+
+- 追踪猎物。处于[隐形](Invisible_(Condition).md "隐形（状态）")状态时，受影响实体的下一次攻击会造成额外1d8点伤害。
+
+## 如何习得
+
+由以下生物使用：[荒野形态：黑豹](Wild_Shape_colon__Panther.md "荒野形态：黑豹")
+
+## 备注
+
+- 尽管描述中未说明，潜行每短休可使用一次。
+
+## 错误
+
+- 在德鲁伊等级8或更高时，潜行会在执行任何在德鲁伊等级7或更低时通常不会中断的动作时立即结束。此外，额外伤害同样不会生效。
+
+---
+*Source: [Prowl](https://bg3.wiki/wiki/Prowl)*

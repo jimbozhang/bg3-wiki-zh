@@ -1,0 +1,102 @@
+# 弗雷戈招待所
+
+## [飞龙关](Wyrm's_Crossing.md "飞龙关")
+
+[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")
+↑
+|  | **弗雷戈招待所** | → | [夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚") |
+↓
+[南翼检查点](South_Span_Checkpoint.md "南翼检查点")
+**弗雷戈招待所**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[飞龙关](Wyrm's_Crossing.md "飞龙关")内的一个[地点](Location.md "地点")。它是飞龙关西侧的一座三层建筑，紧邻[南翼检查点](South_Span_Checkpoint.md "南翼检查点")的城墙北侧。
+
+> “
+>
+> 太好了——我们可以和另外十个人挤在一起，祈祷他们中没有手脚不干净的！
+>
+> „
+
+— [瑞亚](Rilia.md "瑞亚")，拒绝在招待所住宿
+
+## 目录
+
+- [1 概述](#overview)
+  - [1.1 一楼](#first-floor)
+  - [1.2 二楼](#second-floor)
+- [2 相关地点](#related-locations)
+- [3 相关任务](#related-quests)
+- [4 角色](#characters)
+  - [4.1 建筑外](#outside-the-building)
+- [5 相关文献](#related-literature)
+- [6 备注](#notes)
+
+## 概述
+
+接近建筑时，任何队伍成员都可能通过一次[察觉技能](Perception.md "察觉技能")检定，并认出招待所图案上的花卉主题，前提是他们已经在[利文顿](Rivington.md "利文顿")的[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")下方的隧道中找到了[花钥匙](Flowery_Key.md "花钥匙")。入口附近，[克拉克](Crak.md "克拉克")和[瑞亚](Rilia.md "瑞亚")正在讨论城里缺乏像样住处的问题。
+
+招待所的一楼由一个餐厅和一个厨房组成。两者之间是一段通往一楼的宽阔楼梯。在餐厅里，玩家角色可以与[商人格里斯卡](Griska.md "格里斯卡")交易，她库存有各种药水和炼金材料。此外，与冒险者[德里姆](Drim.md "德里姆")和[罗珊娜](Rosanna.md "罗珊娜")交谈可以为某些伙伴带来好感度（适用于除[术士](Sorcerer.md "术士")外的所有角色职业）。在厨房里，厨师[奎尼亚·阿维](Queelia_Arvis.md "奎尼亚·阿维")可以出售一些[营地补给](Camp_supplies.md "营地补给")。
+
+此外，招待所员工[达什肯特·莫里弗](Dashkent_Moliver.md "达什肯特·莫里弗")在接待处和厨房之间来回走动。如果队伍在[破解慈爱神殿的谋杀案](Solve_the_Open_Hand_Temple_Murders.md "破解慈爱神殿的谋杀案")任务中进展足够远，知道杀手穿着红色衣服，他们可以向莫里弗询问此事。
+
+### 一楼
+
+一楼被从楼梯开始的走廊分成两部分；两部分都是住宿区，有多个铺位，每个铺位附近都有一个上锁的木箱子。走廊不断有[工人伯尼尔](Bernyr.md "工人伯尼尔")巡逻，尽头是一扇通往西侧外阳台的上锁门和东侧的一个小浴室。这里的所有容器（以及后门）都标有红色轮廓，但箱子可以在视线遮蔽手段（如[云雾术](Fog_Cloud.md "云雾术")）的帮助下被洗劫。
+
+在房间的南侧，可以找到两个吸血鬼衍体——[达利瑞亚](Dalyria.md "达利瑞亚")和[帕莱·佩特拉斯](Petras.md "佩特拉斯")——正在争吵。这两位是[阿斯代伦](Astarion.md "阿斯代伦")的兄弟姐妹，与他们互动会推进他的[伙伴任务](The_Pale_Elf.md "苍白的精灵")。对话内容会根据队伍是否知道（或不知道）阿斯代伦背上伤疤的真实目的而有所不同。
+
+然而，互动本身只有在**队伍中没有任何成员拥有激活的光效，或装备了具有此类效果的物品**（如[昼明术](Daylight.md "昼明术")或[洛山达之血](The_Blood_of_Lathander.md "洛山达之血")）时才可能进行。否则，两个衍体都会获得[日照敏感](Sunlight_Hypersensitivity_(Condition).md "日照敏感（状态）")并传送离开<sup>[\[1\]](#cite_note-1)</sup>。如果以阿斯代伦出身游玩，与衍体互动会根据玩家角色在对话中的选择获得一些好感度或降低好感度。
+
+如果阿斯代伦当前不在场，玩家角色可以偷听衍体的对话（需要一次DC 10的[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")，适用于[游荡者](Rogue.md "游荡者")角色，或其他所有角色的DC 15[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")）。如果成功，他们会听到达利瑞亚和佩特拉斯讨论他们的主人、即将到来的仪式以及阿斯代伦的失踪。无论掷骰结果如何，玩家角色都会卷入对话，精心选择的虚张声势有助于从这对粗心的夫妇那里套出必要的信息。
+
+### 二楼
+
+在二楼X: -12 Y: 87处的梯子上方是一个阁楼，X: -17 Y: 82处有一个标有红色轮廓的衣柜，可以用[花钥匙](Flowery_Key.md "花钥匙")打开。然而，如果队伍尚未获得钥匙，他们可以用一次DC 25的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")掷骰撬锁，或者使用X: -29 Y: 80处通往外阳台的后门，这扇门既不上锁也没有红色轮廓，因此可以通过大多数空间移动方式从外部进入。房间内部，通过几个室内细节和文件（如[染血笔记](Bloodstained_Note.md "染血笔记")和[慈爱神殿蓝图](Open_Hand_Temple_Plans.md "慈爱神殿蓝图")），可以识别为[多洛](Dolor.md "多洛")的藏身点。
+
+一次成功的DC 10[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")，随后一次DC 10[调查](Investigation.md "调查")[检定](Ability_Check.md "属性检定")，允许队伍在床附近找到血迹，并发现[费蓊·金磨](Ffion_Goldgrind.md "费蓊·金磨")的尸体。对她使用[死者交谈](Speak_with_Dead.md "死者交谈")可以为队伍提供一些关于连环谋杀案的信息。这里有几个物品可以互动，以获取更多关于[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")谋杀案的信息。特别是，从入口右侧的桌子上拿起一份[染血的羊皮纸](Bloodstained_Parchment.md "染血的羊皮纸")副本，是推进[破解慈爱神殿的谋杀案](Solve_the_Open_Hand_Temple_Murders.md "破解慈爱神殿的谋杀案")任务所必需的。此外，房间可以被洗劫，获得一些毒药和炼金材料来提取它们。
+
+## 相关地点
+
+- [飞龙关](Wyrm's_Crossing.md "飞龙关")
+
+## 相关任务
+
+- [寻找"严厉图书馆员"费蓊](Find_the_'Stern_Librarian'_Ffion.md "寻找\"严厉图书馆员\"费蓊")
+- [拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")
+- [调查卡扎多尔的宫殿](Investigate_Cazador's_Palace.md "调查卡扎多尔的宫殿")
+- [破解慈爱神殿的谋杀案](Solve_the_Open_Hand_Temple_Murders.md "破解慈爱神殿的谋杀案")
+- [苍白的精灵](The_Pale_Elf.md "苍白的精灵")
+
+## 角色
+
+- [达利瑞亚](Dalyria.md "达利瑞亚")
+- [达什肯特·莫里弗](Dashkent_Moliver.md "达什肯特·莫里弗")
+- [德里姆](Drim.md "德里姆")
+- [费蓊·金磨](Ffion_Goldgrind.md "费蓊·金磨") - 已故
+- [格里斯卡](Griska.md "格里斯卡") - 商人<sup>[\[2\]](#cite_note-2)</sup>
+- [帕莱·佩特拉斯](Petras.md "佩特拉斯")
+- [奎尼亚·阿维](Queelia_Arvis.md "奎尼亚·阿维") - 商人
+- [罗珊娜](Rosanna.md "罗珊娜")
+- [工人伯尼尔](Bernyr.md "工人伯尼尔")
+
+### 建筑外
+
+- [克拉克](Crak.md "克拉克")
+- [瑞亚](Rilia.md "瑞亚")
+
+## 相关文献
+
+- [一只被充满创意地屠宰的绵羊。](A_sheep_butchered_with_creative_zeal..md "一只被充满创意地屠宰的绵羊。")
+- [染血笔记](Bloodstained_Note.md "染血笔记")
+- [染血的羊皮纸](Bloodstained_Parchment.md "染血的羊皮纸")
+- [招待所问题](Flophouse_Issues.md "招待所问题")
+- [招待所规则](Flophouse_Rules.md "招待所规则")
+- [招待所房客记录](Flophouse_Tenants_Logs.md "招待所房客记录")
+- [慈爱神殿蓝图](Open_Hand_Temple_Plans.md "慈爱神殿蓝图")
+- [撕碎的指令](Torn_Orders.md "撕碎的指令")
+
+## 备注
+
+1. [↑](#cite_ref-1) 在某些情况下，即使物品已卸下但仍在库存中的昼明术效果也会使吸血鬼衍体消失
+2. [↑](#cite_ref-2) 格里斯卡在地图上未被标记为商人。尽管如此，她像其他商人一样会更新库存，并可以出售各种有用的药水和酿造它们的材料。
+
+---
+*Source: [Fraygo's Flophouse](https://bg3.wiki/wiki/Fraygo's_Flophouse)*

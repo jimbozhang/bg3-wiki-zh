@@ -1,0 +1,43 @@
+# 皎月祝福
+
+**皎月祝福**是[艾琳女士](Dame_Aylin.md "艾琳女士")可用的自由动作，她可以用光环绕自己，对附近的敌人造成光耀伤害。
+
+## 描述
+
+用塞伦涅之光环绕自己，对附近的敌人施加[月华之光](Moonbeam_(Condition).md "月华之光（状态）")。
+
+## 属性
+
+伤害：2~20
+
+2d10⁠[光耀](Radiant.md "光耀")
+
+详情
+范围：自身
+作用范围：2米（7英尺）半径
+充能：每场战斗
+
+## 技术细节
+
+UID
+
+`Shout_MOO_Nightsong_RadiantConsumption`
+
+法术标志
+
+`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
+
+## 状态：月火
+
+**[月火](Moonfire_(Condition).md "月火（状态）")**
+
+持续时间：10驱散
+
+- 艾琳女士神圣母亲的祝福对进入她3米（10英尺）范围内或在其范围内开始其驱散的敌人造成2d10⁠⁠[光耀](Radiant.md "光耀")伤害。
+
+## 学习方式
+
+由生物使用：[艾琳](Aylin.md "艾琳")
+
+---
+*Source: [Lunar Blessing](https://bg3.wiki/wiki/Lunar_Blessing)*

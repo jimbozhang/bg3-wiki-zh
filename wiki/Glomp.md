@@ -1,0 +1,322 @@
+# 格洛姆普
+
+## 格洛姆普 掠夺者
+
+- 游戏内
+- 模型
+- 肖像画
+
+### 身份
+
+男性
+
+### 声音 / 演员
+
+- [马克·诺布尔](https://www.imdb.com/name/nm1646345/)
+
+### 角色
+
+[商人](Trader.md "Trader")
+
+### 阵营
+
+[绝对真神教](Cult_of_the_Absolute.md "Cult of the Absolute")
+
+## 属性
+
+### 体型
+
+[小型](Small.md "Small")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[地精](Goblin.md "Goblin")
+
+### 原型
+
+[地精斗士](Goblin_Brawler.md "Goblin Brawler")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+- 荣誉
+
+## 平衡难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+9
+
+### 护甲等级
+
+13
+
+### 先攻
+
++1
+
+### 熟练项
+
++2
+
+### 移动
+
+9 m (30 ft)
+
+### 重量
+
+35 kg (70 lb)
+
+### 高级黑暗视觉
+
+12 m (40 ft)
+
+### 经验值奖励
+
+10
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 13 / (+1) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+6
+
+### 护甲等级
+
+13
+
+### 先攻
+
++1
+
+### 熟练项
+
++4
+
+### 移动
+
+9 m (30 ft)
+
+### 重量
+
+35 kg (70 lb)
+
+### 高级黑暗视觉
+
+12 m (40 ft)
+
+### 经验值奖励
+
+10
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | +1 | 0 | 0 | -1 | -1 |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+11
+
+### 护甲等级
+
+13
+
+### 先攻
+
++1
+
+### 熟练项
+
++2
+
+### 移动
+
+9 m (30 ft)
+
+### 重量
+
+35 kg (70 lb)
+
+### 高级黑暗视觉
+
+12 m (40 ft)
+
+### 经验值奖励
+
+10
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 13 / (+1) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+
+当你对体型比你大的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
+
+## 荣誉难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+14
+
+### 护甲等级
+
+13
+
+### 先攻
+
++1
+
+### 熟练项
+
++2
+
+### 移动
+
+9 m (30 ft)
+
+### 重量
+
+35 kg (70 lb)
+
+### 高级黑暗视觉
+
+12 m (40 ft)
+
+### 经验值奖励
+
+10
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | +1 | 0 | 0 | -1 | -1 |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+
+当你对体型比你大的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
+
+## 技术信息
+
+###
+
+UID
+
+`S_GOB_AftermathTrader` ###
+
+UUID
+
+`5e3467b4-9186-4ab2-81b8-cf379bcbd982` ###
+
+属性
+
+`Goblin_Melee` **格洛姆普 掠夺者**在[地精营地](Goblin_Camp.md "Goblin Camp")的[第一幕](Act_One.md "Act One")期间进行掠夺。
+
+> “
+>
+> 没想到会看到你在这泥泞和残羹剩饭里翻找。
+>
+> „
+
+— 格洛姆普
+
+## 目录
+
+- [1 参与度](#involvement)
+  - [1.1 第一幕](#act-one)
+- [2 商店](#store)
+  - [2.1 出售的著名物品](#notable-items-sold)
+- [3 外部链接](#external-links)
+
+## 参与度
+
+### 第一幕
+
+格洛姆普在所有人前往[月出之塔](Moonrise_Towers.md "Moonrise Towers")后，在地精营地进行掠夺。他受命确保没有贵重物品被遗落，并声称对该区域拥有拾荒权，但愿意进行交易。实际上，格洛姆普取代了[商人格拉](Grat.md "Grat")，尽管他携带的物品选择较少。
+
+## 商店
+
+### 出售的著名物品
+
+对应 `GOB_AftermathTrader`。
+
+- [巨棒 +1](Greatclub_+1.md "Greatclub +1")
+- [巨剑 +1](Greatsword_+1.md "Greatsword +1")
+- [长弓 +1](Longbow_+1.md "Longbow +1")
+- [治疗药水](Potion_of_Healing.md "Potion of Healing")
+- [战镐 +1](War_Pick_+1.md "War Pick +1")
+
+## 外部链接
+
+- ⁠[格洛姆普](https://forgottenrealms.fandom.com/wiki/Glomp) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Glomp](https://bg3.wiki/wiki/Glomp)*

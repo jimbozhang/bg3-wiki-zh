@@ -1,0 +1,246 @@
+# 阴影之拥修道院
+
+**阴影之拥修道院**是[博德之门3](Baldur's_Gate_3.md "博德之门3")第三幕中[哀伤之邸](House_of_Grief.md "哀伤之邸")内的一个[地点](Location.md "地点")。
+
+> “
+>
+> 女会长从无到有秘密建造了这一切。这花了数年时间。很快它就会属于我。在莎尔女士的祝福下，它将变得更加伟大。
+>
+> „
+
+— [影心](Shadowheart.md "影心")，效忠莎尔，进入修道院时
+
+## 目录
+
+- [1 概述](#overview)
+  - [1.1 进入方式](#access)
+- [2 修道院布局](#cloister-layout)
+  - [2.1 训练区域](#training-areas)
+  - [2.2 主厅及相邻房间](#main-chamber-and-adjoining-rooms)
+  - [2.3 军械库与夜兰花山洞](#armoury-and-night-orchid-cave)
+  - [2.4 失落之槛](#threshold-of-loss)
+- [3 伙伴互动](#companion-interactions)
+- [4 相关地点](#related-locations)
+- [5 相关任务](#related-quests)
+- [6 角色](#characters)
+  - [6.1 重要角色](#notable)
+  - [6.2 莎尔信徒](#followers-of-shar)
+    - [6.2.1 审判十字军](#justiciar-crusaders)
+    - [6.2.2 莎尔信徒菲蒂利安](#sharran-fidelians)
+    - [6.2.3 莎尔哨兵](#sharran-sentries)
+    - [6.2.4 莎尔学徒](#sharran-novices)
+- [7 战利品](#loot)
+- [8 相关文献](#related-literature)
+- [9 图集](#gallery)
+- [10 注释与参考](#notes-and-references)
+- [11 外部链接](#external-links)
+
+## 概述
+
+阴影之拥修道院地图
+
+**阴影之拥修道院**是黑暗、虚空与失落女神[莎尔](Shar.md "莎尔")虔诚信徒的地区行动基地。它由[维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")创立并发展，她目前是修道院的领袖，头衔为女会长。
+
+修道院位于名为[哀伤之邸](House_of_Grief.md "哀伤之邸")的掩护建筑深处，该建筑名义上是博德之门市陡坡区的一家疗养机构。只能通过该建筑内的秘密通道进入。哀伤之邸允许信徒为修道院筹集资金，并收集可能对加强莎尔在博德之门及更远地区影响力的信息。
+
+阴影之拥修道院为莎尔教会招募新信徒，提供完整的训练和住宿周期。大多数学徒除非接到命令或被认为已准备好执行外勤任务，否则不得离开修道院围墙。它还作为监狱，关押那些对悲伤女士的各种目的具有足够价值的资产。
+
+### 进入方式
+
+进入修道院的唯一方法是打开哀伤之邸[测绘室](House_of_Grief.md#Building_layout "哀伤之邸")中X: -272 Y: 13处的可移动砖墙。在墙附近进行被动DC 20的[调查](Investigation.md "调查")[检定](Ability_Check.md "属性检定")会暴露一个按钮，打开通往地下深处的秘密通道。
+
+此外，如果影心在场，则无需任何检定即可进入隐藏区域。
+
+## 修道院布局
+
+哀伤之邸地窖——莎尔修道院的前厅
+（由 Jef Simons 绘制）
+
+### 训练区域
+
+穿过暴露的通道下行后，队伍首先到达看似哀伤之邸地窖的地方。它由一个装饰着莎尔符号的小前厅和两个中等大小的上锁房间组成，分别称为_渗透训练_和_审讯训练_。两扇门都需要DC 15的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁。
+
+_渗透训练_区域的货架和人体模型上摆满了各种伪装。[影心](Shadowheart.md "影心")如果在场，可以通过被动DC 20的[历史的](History.md "历史的")[检定](Ability_Check.md "属性检定")揭示每件服装的真实用途。桌子上有一份[字条](Report_on_Activities_of_Enver_Gortash.md "恩弗·戈塔什活动报告")，提示如何进入[希望之邸](House_of_Hope.md "希望之邸")（并因此更新任何关于它的活跃任务），以及一本揭示影心最初任务——找回[神秘遗物](Mysterious_Artefact.md "神秘遗物")的书籍。角落里有两个为练习撬锁技能准备的箱子；都需要DC 20的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁。吉斯洋基风格的箱子包含随机的小型战利品，而灵吸怪风格的箱子则存放着金币和[炼金术](Alchemy.md "炼金术")材料。房间内有一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")和两套[盗贼工具](Thieves'_Tools.md "盗贼工具")。
+
+_审讯训练_室是一个刑讯室。除了几块[火焰琥珀](Fire_Amber.md "火焰琥珀")外，没有存放任何显著的战利品。
+
+与两个房间内的各种物品互动会引发队伍成员的评论，但前提是影心不在场或脱离队伍。<sup>[\[1\]](#cite_note-1)</sup>
+
+### 主厅及相邻房间
+
+宿舍景观
+
+穿过训练室后，是一个巨大的洞穴。其中央一条长路通向修道院的主厅。女会长[维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")和其他莎尔信徒在此等待队伍。当他们接近时，会自动开始与维康妮亚的对话。其布局取决于影心是否在场，如果她在场，则取决于她选择的道路（见下文伙伴互动部分）。
+
+主厅中心有一个深陷的区域，周围是带有陡峭台阶的廊台。从廊台可进入三个较小的房间：北面的宿舍、南面的图书馆和东南面的军械库。
+
+宿舍的门最初是关闭的。里面，[夜曲](Nocturne.md "夜曲")在等待。除非受到攻击，她不会参与战斗。如果影心在场，与夜曲交谈会完成[熟悉面孔](A_Familiar_Face.md "熟悉面孔")任务。之后，夜曲会作为商人，提供药水和炼金材料。她告知队伍她将在次日清晨离开。<sup>[\[2\]](#cite_note-2)</sup>
+
+宿舍最远的部分是维康妮亚的私人住所。在X: -398 Y: -1591处有一个珠宝盒，用[维康妮亚的私人宝箱钥匙](Viconia's_Personal_Chest_Key.md "维康妮亚的私人宝箱钥匙")解锁。它包含[高安保险库8钥匙](High_Security_Vault_n%C2%BA8_Key.md "高安保险库8钥匙")，以及随机的珍贵宝石和[珍品](Valuables.md "珍品")。
+
+在X: -406 Y: -1595处有一个书柜，里面有几本记录影心在修道院成长背景的书籍，由维康妮亚本人记录。
+
+主厅对面的图书馆有许多描述莎尔教义的书籍和文件。在X: -396 Y: -1672处，柱子后面有一个上锁的华丽箱子，里面有金币、随机的[珍品](Valuables.md "珍品")和箭矢。需要DC 20的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁。
+
+夜兰花山洞中的野餐区。
+
+### 军械库与夜兰花山洞
+
+主厅东南面是军械库，包含普通武器和护甲部件（还有几件不常见物品），以及[营地补给](Camp_supplies.md "营地补给")。在房间最远端，DC 15的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")会突出显示一个木制路障。其后一条小路通向_夜兰花山洞_（地点的未命名部分），其中有一个被[夜兰花](Night_Orchid.md "夜兰花")环绕的小湖。<sup>[\[3\]](#cite_note-3]
+
+湖岸上有一个废弃的野餐点，据说是影心小时候留下的。这里的一些文件提示了如何打开通往修道院核心——失落之间的门。
+
+### 失落之槛
+
+失落之镜——提取对悲伤女士有价值信息的工具
+
+在X: -420 Y: -1651处，一扇名为_失落之槛_的巨大上锁门阻挡了通往神庙其余部分的入口。如果影心仍效忠莎尔，门会自行打开。否则，可以撬锁（需要DC 30的[巧手](Sleight_of_Hand.md "巧手")</sup>[检定](Ability_Check.md "属性检定")）、施放[敲击术](Knock.md "敲击术")打开，或在莎尔雕像前的祭坛上放置价值1000金币的物品来打开，当祭坛顶部的失落之火点燃时会消耗这些物品。最初，祭坛上已有一颗[黑钻](Black_Diamond.md "黑钻")。
+
+失落之间的中心有两个大圆盘，每个圆盘上都锁着一个囚犯。与任何一个互动都会开始过场动画，完成[黑暗之女](Daughter_of_Darkness.md "黑暗之女")任务，结果取决于队伍之前的选择（见下文）。
+
+房间北侧有几个牢房。在唯一可探索的牢房里躺着一具被斩首的吉斯洋基人尸体。旁边，DC 15的[调查](Investigation.md "调查")[检定](Ability_Check.md "属性检定")会揭示一堆显眼的瓦砾，下面藏着一份修道院信徒从吉斯俘虏身上榨取关于神秘遗物信息的日志，经过数日的折磨。<sup>[\[4\]](#cite_note-4]
+
+一个完好的[失落之镜](Mirror_of_Loss.md "失落之镜")</sup>位于房间最西端，X: -474 Y: -1650处。该镜子可用于为每个互动的队伍成员获得一项[属性](Abilities.md "属性")的_永久_加值，以及魅力+1——作为交换，会受到临时惩罚。由于每个角色（包括[雇佣兵](Hirelings.md "雇佣兵"))都可以独立使用镜子，它可以为整个队伍提供可观的属性提升。
+
+_获得此增益的机制、所有必要的检定和特殊功能，请参见[物品](Mirror_of_Loss.md "失落之镜")页面。_
+
+在洞穴南缘的废墟中，X: -453 Y: -1674处，有一具骷髅，上面有一份[字条](Baron_Bormul's_Will.md "波缪男爵的遗嘱")。其内容可能与互动失落之镜的可能结果之一有关，其中提到一位贵族女继承人，她交出了保险箱密码以换取_解脱_。
+
+## 伙伴互动
+
+失落之间概览
+（由 Jef Simons 绘制）
+
+阴影之拥修道院是[影心](Shadowheart.md "影心")个人任务的焦点，无论是[出身](Daughter_of_Darkness_(Origin)还.md)是[伙伴](Daughter_of_Darkness.md "黑暗之女")。因此，修道院内的所有互动在很大程度上取决于影心在第二幕结束时在[莎尔](Shar.md "莎尔")和[塞伦涅](Sel%C3%BBne.md "塞伦涅")之间做出的最终选择。影心在探索修道院内不同区域时发出的评论也会有所不同。
+
+如果队伍在没有影心的情况下进入修道院，他们不会遇到敌意（除非他们在哀伤之邸杀了工作人员）。然而，某些区域对他们仍然无法进入。一旦他们到达主厅的维康妮亚·迪佛，就会开始过场动画。在此场景中，维康妮亚要求队伍将影心带到修道院，这开始了[把影心交给维康妮亚](Surrender_Shadowheart_to_Viconia.md "把影心交给维康妮亚")任务。
+
+如果影心在场，她与维康妮亚的对话取决于她在两个敌对神祇之间的选择。无论如何，这都不可避免地演变成与维康妮亚的战斗。两条道路的主要区别在于，如果影心仍效忠莎尔，她可以选择揭露维康妮亚对女神的不服从，并争取部分修道院神职人员站在她这边。如果影心成功，大多数莎尔信徒会在即将到来的战斗中与她和队伍结盟。无论初始条件如何，在与维康妮亚的战斗中存活下来都会授予具有[士兵](Soldier.md "士兵")背景的角色[暗中利刃](Soldier.md#Knives_in_the_Dark "士兵")激励点。
+
+队伍也可以选择将影心交给维康妮亚，从而在[召集盟友](Gather_Your_Allies.md "召集盟友")任务中获得后者在对抗[绝对者](Absolute.md "绝对者")战斗中的支持。
+
+如果队伍击败维康妮亚，最后将她击晕，他们可以选择杀了她或允许她离开修道院。后一个选择对于[复仇圣武士](Oath_of_Vengeance.md "复仇之誓")和[古贤圣武士](Oath_of_the_Ancients.md "古贤之誓")而言是[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
+
+战斗解决后，影心必须穿过失落之槛并完成她的个人任务。锁在失落之间圆盘上的囚犯被揭示为影心的父母，[阿内尔·圣叶](Arnell_Hallowleaf.md "阿内尔·圣叶")和[埃米琳·圣叶](Emmeline_Hallowleaf.md "埃米琳·圣叶")。与他们互动的布局和可能的选项再次取决于她选择的信仰。
+
+如果她仍效忠莎尔，完成任务也会更新[召集盟友](Gather_Your_Allies.md "召集盟友")任务，添加关于莎尔教会帮助的条目——因为在这种情况下，教会的领导权移交给了影心。
+
+无论结果如何，影心都可以在宿舍找到[夜曲](Nocturne.md "夜曲")并与她交谈，如果[熟悉面孔](A_Familiar_Face.md "熟悉面孔")任务处于活跃状态，则完成该任务。
+
+## 相关地点
+
+- ⁠[哀伤之邸](House_of_Grief.md "哀伤之邸")
+- ⁠[下城区](Lower_City.md "下城区")
+- ⁠[堕影冥界](Shadowfell.md "堕影冥界")
+
+## 相关任务
+
+- ⁠[黑暗之女](Daughter_of_Darkness.md "黑暗之女")
+  - ⁠[熟悉面孔](A_Familiar_Face.md "熟悉面孔")
+- ⁠[黑暗之女 (出身)](Daughter_of_Darkness_(Origin).md)
+- ⁠[召集盟友](Gather_Your_Allies.md "召集盟友")
+- ⁠[调查哀伤之邸](Investigate_the_House_of_Grief.md "调查哀伤之邸")
+  - ⁠[把影心交给维康妮亚](Surrender_Shadowheart_to_Viconia.md "把影心交给维康妮亚")
+
+## 角色
+
+### 重要角色
+
+- [阿内尔·圣叶](Arnell_Hallowleaf.md "阿内尔·圣叶")
+- [埃米琳·圣叶](Emmeline_Hallowleaf.md "埃米琳·圣叶")
+- [夜曲](Nocturne.md "夜曲")
+- [莎尔](Shar.md "莎尔")
+- [维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")
+
+### 莎尔信徒
+
+#### 审判十字军
+
+- [夜雾](Nightmist.md "夜雾")
+- [枭爪](Owltalon.md "枭爪")
+
+#### 莎尔信徒菲蒂利安
+
+- [幽暗面具](Gloommask.md "幽暗面具")
+- [吉德](Gydd.md "吉德")
+- [海拉尔德](Hyrald.md "海拉尔德")
+- [拉莫纳](Lamona.md "拉莫纳")
+- [终极面具](Uttermask.md "终极面具")
+
+#### 莎尔哨兵
+
+- [巴斯塔](Baxta.md "巴斯塔")
+- [弗雷德里克](Fredrichk.md "弗雷德里克")
+- [亨德利](Hendly.md "亨德利")
+- [英怀斯](Imwise.md "英怀斯")
+
+#### 莎尔学徒
+
+- [蓝指甲](Bluenail.md "蓝指甲")
+- [多纳](Dohna.md "多纳")
+- [多拉伊](Dollay.md "多拉伊")
+- [加里根](Garrigan.md "加里根")
+- [灰面具](Greymask.md "灰面具")
+- [洪堡](Humboldt.md "洪堡")
+- [蒙蒂斯](Monteith.md "蒙蒂斯")
+- [蒂尔达](Tylda.md "蒂尔达")
+
+## 战利品
+
+- [黑钻](Black_Diamond.md "黑钻")
+- [侍女硬头锤](Handmaiden's_Mace.md "侍女硬头锤")
+- [高安保险库8钥匙](High_Security_Vault_n%C2%BA8_Key.md "高安保险库8钥匙")
+- [维康妮亚的女祭司袍](Viconia's_Priestess_Robe.md "维康妮亚的女祭司袍")
+- [维康妮亚的行走堡垒](Viconia's_Walking_Fortress.md "维康妮亚的行走堡垒")
+
+## 相关文献
+
+- [遗物任务：挑战](Artefact_Mission_colon__Challenges.md "遗物任务：挑战")
+- [遗物任务：特工名单](Artefact_Mission_colon__Agent_Roster.md "遗物任务：特工名单")
+- [博德安建立了一座城市](Balduran_Founds_a_City.md "博德安建立了一座城市")
+- [波缪男爵的遗嘱](Baron_Bormul's_Will.md "波缪男爵的遗嘱")
+- [莎尔的囚犯](Captives_of_Shar.md "莎尔的囚犯")
+- [黑暗的慰藉](Consolation_of_the_Dark.md "黑暗的慰藉")
+- [月之少女的罪行](Crimes_of_the_Moonmaiden.md "月之少女的罪行")
+- [亲爱的妈妈](Dear_Mam.md "亲爱的妈妈")
+- [激动人心的消息！](Exciting_News!.md "激动人心的消息！")
+- [匆忙写下的字条](Hastily_Written_Note_(Night_Orchid_Cave).md "匆忙写下的字条（夜兰花山洞）")
+- [为夜之服务](In_Service_of_the_Night.md "为夜之服务")
+- [三重审讯](Interrogation_in_Three_Levels.md "三重审讯")
+- [审讯记录](Interrogation_Log.md "审讯记录")
+- [月光光，说谎谎](Lunar_Dark_Lies.md "月光光，说谎谎")
+- [费伦地图](Map_of_Faer%C3%BBn.md "费伦地图")
+- [武术问答](Martial_Catechism.md "武术问答")
+- [不惜代价](No_Price_Too_High.md "不惜代价")
+- [夜曲的日记](Nocturne's_Journal.md "夜曲的日记")
+- [写给自己(血迹)](Note_to_Self_(Bloodstains).md "写给自己(血迹)")
+- [恩弗·戈塔什活动报告](Report_on_Activities_of_Enver_Gortash.md "恩弗·戈塔什活动报告")
+- [贵族的肮脏秘密](Skeletons_in_Patriar_Closets.md "贵族的肮脏秘密")
+- [污渍书](Stained_Book_(Night_Orchid_Cave).md "污渍书（夜兰花山洞）")
+- [石刻](Stone_Inscription.md "石刻")
+- [受试者测绘结果：吉斯洋基人7号](Subject_Mapping_Results_colon__Githyanki_No._7.md "受试者测绘结果：吉斯洋基人7号")
+- [血腥战争](The_Blood_War.md "血腥战争")
+- [夜歌者的荣耀](The_Glories_of_the_Nightsinger.md "夜歌者的荣耀")
+- [《解脱》](The_Unburdening.md "《解脱》")
+
+## 图集
+
+- 渗透训练室
+
+- 审讯训练室
+
+- 通往修道院主体的走廊
+
+## 注释与参考
+
+1. [↑](#cite_ref-1) 在修道院周围任何地方探索各种互动物品具有相同的优先级。影心的评论根据她效忠[莎尔](Shar.md "莎尔")或[塞伦涅](Sel%C3%BBne.md "塞伦涅")而有所不同。
+1. [↑](#cite_ref-2) 如果影心转向塞伦涅，夜曲确实会在长休后消失。如果她仍效忠莎尔，夜曲会留在宿舍，并且可以交易直到游戏结束。
+1. [↑](#cite_ref-3) 这是队伍可以免费采摘不少于八朵花的唯一地方。
+1. [↑](#cite_ref-4] 房间入口处的[莎尔的囚犯](Captives_of_Shar.md "莎尔的囚犯")日志提到了一个吉斯洋基人"T'reshk Lir"。然而，这可能是一个名字或拼写错误的词语，意为_"Crèche K'liir"_
+
+## 外部链接
+
+- ⁠[莎尔教会](https://forgottenrealms.fandom.com/wiki/Church_of_Shar) 在 [被遗忘的国度Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Cloister of Sombre Embrace](https://bg3.wiki/wiki/Cloister_of_Sombre_Embrace)*

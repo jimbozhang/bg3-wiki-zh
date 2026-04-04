@@ -1,0 +1,64 @@
+# IsMelee (法术标识)
+
+**IsMelee** 是一个未使用的[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")][法术标识](Spell_flag.md "Spell flag")。它*不*决定动作的范围或动作是否被归类为近战攻击。
+
+与 `[IsSpell](IsSpell_(spell_flag).md)`（它实际上决定了哪些动作是真正的法术）相比，这个标识对游戏玩法的影响很小。
+
+## 拥有 IsMelee 的动作列表
+
+| 名称 | 类型 | 消耗/充能 | 范围/区域 | 掷骰 | 效果 |
+| --- | --- | --- | --- | --- | --- |
+| [至上力量](Absolute_Power.md "至上力量") | 武器动作 | [短休](Short_rest.md "短休") | 武器 | 近战武器 [攻击掷骰](Attack_roll.md "Attack Roll") [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws") | 正常武器伤害 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[武器](Weapon.md "Weapon") + 1d6⁠[力场](Force.md "Force") |
+| [秘法锁](Arcane_Lock.md "秘法锁") | 2级法术 | + | 1.5 米 (5 英尺) | - | 施加 [秘法锁](Arcane_Lock_(Condition).md "秘法锁 (状态)") |
+| [至尊噬咬](Ascendant_Bite.md "至尊噬咬") | 动作 | [短休](Short_rest.md "短休") | 1.5 米 (5 英尺) | - | 6d6⁠[黯蚀](Necrotic.md "黯蚀") (对目标) 6d6⁠[治疗](Healing.md "治疗") (对自己) 施加 [高兴](Happy_(Condition).md "高兴 (状态)") 和 [贫血](Bloodless_(Condition).md "贫血 (状态)") |
+| [摔翻打击](Backbreaker.md "摔翻打击") | 武器动作 | [短休](Short_rest.md "短休") | 武器 | 近战武器 [攻击掷骰](Attack_roll.md "Attack Roll") [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws") | 1d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[钝击](Bludgeoning.md "钝击") 施加 [倒伏](Prone_(Condition).md "倒伏 (状态)") |
+| [班恩之怒](Bane's_Wrath.md "班恩之怒") | 4级法术 |  | 1.5 米 (5 英尺) | 近战武器 [攻击掷骰](Attack_roll.md "Attack Roll") [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 正常武器伤害 + 6d6⁠[心灵](Psychic.md "心灵") 施加 [恐慌](Frightened_(Condition).md "恐慌 (状态)") |
+| [刺藤](Barbed_Vine.md "刺藤") | 动作 |  | 6 米 (20 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[挥砍](Slashing.md "挥砍") |
+| [树肤术](Barkskin.md "树肤术") | 2级法术 | + | 1.5 米 (5 英尺) | - | 施加 [树肤术](Barkskin_(Condition).md "树肤术 (状态)") |
+| [喙啄攻击 (恐鸦)](Beak_Attack_(Dire_Raven).md "喙啄攻击 (恐鸦)") | 动作 |  | 1.5 米 (5 英尺) | 近战徒手 [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
+| [喙啄攻击 (渡鸦魔宠)](Beak_Attack_(Raven_Familiar).md "喙啄攻击 (渡鸦魔宠)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
+| [喙啄攻击 (幽影诅咒渡鸦)](Beak_Attack_(Shadow-Cursed_Raven).md "喙啄攻击 (幽影诅咒渡鸦)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d6 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
+| [熊之坚韧](Bear's_Endurance.md "熊之坚韧") | 2级法术 | + | 1.5 米 (5 英尺) | - | 施加 [熊之坚韧](Bear's_Endurance_(Condition).md "熊之坚韧 (状态)") |
+| [降咒](Bestow_Curse.md "降咒") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") |  |
+| [降咒：额外伤害](Bestow_Curse_colon__Additional_Damage.md "降咒：额外伤害") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 1d8⁠[黯蚀](Necrotic.md "黯蚀") (施法者每次攻击) 施加 [被诅咒：额外伤害](Cursed_colon__Additional_Damage_(Condition).md "被诅咒：额外伤害 (状态)") |
+| [降咒：攻击劣势](Bestow_Curse_colon__Attack_Disadvantage.md "降咒：攻击劣势") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 施加 [被诅咒：攻击劣势](Cursed_colon__Attack_Disadvantage_(Condition).md "被诅咒：攻击劣势 (状态)") |
+| [降咒：魅力劣势](Bestow_Curse_colon__Charisma_Disadvantage.md "降咒：魅力劣势") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 施加 [被诅咒：魅力](Cursed_colon__Charisma_(Condition).md "被诅咒：魅力 (状态)") |
+| [降咒：体质劣势](Bestow_Curse_colon__Constitution_Disadvantage.md "降咒：体质劣势") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 施加 [被诅咒：体质](Cursed_colon__Constitution_(Condition).md "被诅咒：体质 (状态)") |
+| [降咒：敏捷劣势](Bestow_Curse_colon__Dexterity_Disadvantage.md "降咒：敏捷劣势") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 施加 [被诅咒：敏捷](Cursed_colon__Dexterity_(Condition).md "被诅咒：敏捷 (状态)") |
+| [降咒：恐惧](Bestow_Curse_colon__Dread.md "降咒：恐惧") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 施加 [被诅咒：恐惧](Cursed_colon__Dread_(Condition).md "被诅咒：恐惧 (状态)") |
+| [降咒：智力劣势](Bestow_Curse_colon__Intelligence_Disadvantage.md "降咒：智力劣势") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 施加 [被诅咒：智力](Cursed_colon__Intelligence_(Condition).md "被诅咒：智力 (状态)") |
+| [降咒：力量劣势](Bestow_Curse_colon__Strength_Disadvantage.md "降咒：力量劣势") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 施加 [被诅咒：力量](Cursed_colon__Strength_(Condition).md "被诅咒：力量 (状态)") |
+| [降咒：感知劣势](Bestow_Curse_colon__Wisdom_Disadvantage.md "降咒：感知劣势") | 3级法术 | + | 1.5 米 (5 英尺) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 施加 [被诅咒：感知](Cursed_colon__Wisdom_(Condition).md "被诅咒：感知 (状态)") |
+| [啃咬 (獾)](Bite_(Badger).md "啃咬 (獾)") | 动作 |  | 1.5 米 (5 英尺) | 近战徒手 [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (恐狼)](Bite_(Dire_Wolf).md "啃咬 (恐狼)") | 动作 |  | 1.5 米 (5 英尺) | 近战徒手 [攻击掷骰](Attack_roll.md "Attack Roll") | 2d6 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (蜘蛛)](Bite_(Spider).md "啃咬 (蜘蛛)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") | 1⁠[穿刺](Piercing.md "穿刺") + 1d4⁠[中毒](Poison.md "中毒") (豁免失败时) |
+| [啃咬 (黑豹)](Bite_(Panther).md "啃咬 (黑豹)") | 动作 |  | 1.5 米 (5 英尺) | 近战徒手 [攻击掷骰](Attack_roll.md "Attack Roll") | 3d6 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (相位幼蛛)](Bite_(Phase_Spiderling).md "啃咬 (相位幼蛛)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d4 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") + 1d4⁠[中毒](Poison.md "中毒") |
+| [啃咬 (双脊龙)](Bite_(Dilophosaurus).md "啃咬 (双脊龙)") | 动作 |  | 1.5 米 (5 英尺) | 近战徒手 [攻击掷骰](Attack_roll.md "Attack Roll") | 1d10 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") + 1d8⁠[强酸](Acid.md "强酸") |
+| [啃咬 (剑齿虎)](Bite_(Sabre-Toothed_Tiger).md "啃咬 (剑齿虎)") | 动作 |  | 1.5 米 (5 英尺) | 近战徒手 [攻击掷骰](Attack_roll.md "Attack Roll") | 2d6 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") 施加 [倒伏](Prone_(Condition).md "倒伏 (状态)") |
+| [啃咬 (狼)](Bite_(Wolf).md "啃咬 (狼)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (观察者眼魔)](Bite_(Spectator).md "啃咬 (观察者眼魔)") | 动作 |  | 2 米 (7 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 2d8 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (吸血鬼衍体)](Bite_(Vampire_Spawn).md "啃咬 (吸血鬼衍体)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d6 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") + 2d6⁠[黯蚀](Necrotic.md "黯蚀") 施加 [吸过血](Blood-Sapped_(Condition).md "吸过血 (状态)") |
+| [啃咬 (母之憎恨)](Bite_(Mother's_Loathing).md "啃咬 (母之憎恨)") | 动作 | 每回合一次 | 1.5 米 (5 英尺) | 近战徒手 [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (老鼠战斗者)](Bite_(Rat_Combatant).md "啃咬 (老鼠战斗者)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (蛰伏伪怪)](Bite_(Cloaker).md "啃咬 (蛰伏伪怪)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 3d6 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") 施加 [开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)") |
+| [啃咬 (鲨蜥兽)](Bite_(Bulette).md "啃咬 (鲨蜥兽)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 4d12 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") 施加 [强酸](Acid_(Condition).md "强酸 (状态)") |
+| [啃咬 (幽魂犬)](Bite_(Ghost_Dogs).md "啃咬 (幽魂犬)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 3d6 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[黯蚀](Necrotic.md "黯蚀") |
+| [啃咬 (分支龙)](Bite_(Alioramus).md "啃咬 (分支龙)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") | 2d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") 施加 [流血](Bleeding_(Condition).md "流血 (状态)") 和 [开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)") |
+| [啃咬 (拟形怪)](Bite_(Mimic).md "啃咬 (拟形怪)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws") | 2d8 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") 施加 [武器被偷！](Weapon_Stolen!_(Condition).md "武器被偷！ (状态)") |
+| [啃咬 (豺狼人)](Bite_(Gnoll).md "啃咬 (豺狼人)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d4 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (小法妖)](Bite_(Gremishka).md "啃咬 (小法妖)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") + 1d6⁠[力场](Force.md "力场") |
+| [啃咬 (老鼠)](Bite_(Rat).md "啃咬 (老鼠)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (蝙蝠)](Bite_(Bat).md "啃咬 (蝙蝠)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d4 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (剑刃蜘蛛)](Bite_(Sword_Spider).md "啃咬 (剑刃蜘蛛)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 2d8 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (波尼)](Bite_(Squire).md "啃咬 (波尼)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 2d8 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") 施加 [冻僵](Bone_Chilled_(Condition).md "冻僵 (状态)") |
+| [啃咬 (座狼)](Bite_(Worg).md "啃咬 (座狼)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 4d6 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (微型蜘蛛)](Bite_(Tiny_Spider).md "啃咬 (微型蜘蛛)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") | 1d4 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") + 1d4⁠[中毒](Poison.md "中毒") (豁免失败时) |
+| [啃咬 (鬣狗)](Bite_(Hyena).md "啃咬 (鬣狗)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (狗)](Bite_(dog).md "啃咬 (狗)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d6 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (熊)](Bite_(Bear).md "啃咬 (熊)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d8 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (基础)](Bite_(Base).md "啃咬 (基础)") | 动作 |  | 1.5 米 (5 英尺) | [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") |
+[查看全部](https://bg3.wiki/w/index.php?title=Special:ViewData&tables=actions&fields=_pageName%3Dlink%2C%0Atype%2C%0Aname%2C%0Acontroller_icon%2C%0Aspell_level%2C+spell_school%2C%0Acost%2C+hit_cost%2C%0Afeature_range%2C%0Aaoe%2C+aoe_m%2C%0Aattack_roll%2C%0Asave%2C%0Arecharge%2C%0Adamage_1%2C+damage_1_type%2C+damage_1_info%2C%0Adamage_2%2C+damage_2_type%2C+damage_2_info%2C%0Adamage_3%2C+damage_3_type%2C+damage_3_info%2C%0Adamage_4%2C+damage_4_type%2C+damage_4_info%2C%0Aconditions%2C%0Acreatures%2C%0Aarea%2C%0ACONCAT%28%22name%2C+type%2C+cost-recharge%2C+range-aoe%2C+roll%2C+effects%22%29%3Dcolumns%2C&where=spell_flags+HOLDS+%22IsMelee%22&order_by=name&format=template&offset=50&limit=100&intro=%3Ctable+class%3D%22wikitable+sortable%22+style%3D%22width%3A100%25%3B%22%3E%0A%0A%3Ctr%3E%0A%0A%3Cth%3EName%3C%2Fth%3E%3Cth%3EType%3C%2Fth%3E%3Cth%3ECost%2FRecharge%3C%2Fth%3E%3Cth%3ERange%2FArea%3C%2Fth%3E%3Cth%3ERoll%3C%2Fth%3E%3Cth%3EEffect%3C%2Fth%3E%0A%3C%2Ftr%3E&outro=%3C%2Ftable%3E&more+results+text=View+all&template=Action+table%2Frow&named+args=yes)
+
+---
+*Source: [IsMelee (spell flag)](https://bg3.wiki/wiki/IsMelee_(spell_flag)*

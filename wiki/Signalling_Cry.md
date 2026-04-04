@@ -1,0 +1,56 @@
+# 传讯呼号
+
+**传讯呼号**是[远古巨鹰](Ancient_Giant_Eagle.md "远古巨鹰")使用的自由动作，用于召唤友方[巨鹰](Giant_Eagle.md "巨鹰")。它可以在使用[呼叫增援](Cry_for_Help.md "呼叫增援")后一回合使用。在呼叫增援期间，巨鹰无法移动，但仍然可以攻击。此过程可以通过对巨鹰施加[沉默](Silenced_(Condition).md "沉默（状态）")状态或将其杀死来打断。
+
+## 描述
+
+当其盟友靠近时，该生物会告知它们确切的位置。
+
+## 属性
+
+详情
+充能：每场战斗
+
+## 技术细节
+
+UID
+
+`Shout_HelpArrives_GiantEagle`
+
+法术标志
+
+`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
+
+## 生物：巨鹰
+
+| [力量](Strength.md "力量") 16 (+3) | [敏捷](Dexterity.md "敏捷") 17 (+3) | [体质](Constitution.md "体质") 13 (+1) | [智力](Intelligence.md "智力") 8 (-1) | [感知](Wisdom.md "感知") 14 (+2) | [魅力](Charisma.md "魅力") 10 |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| 生命值 | 44 |  |  |  |  |
+| 护甲等级 | 13 |  |  |  |  |
+| 移动速度 | 15 米 (50 英尺) |  |  |  |  |
+| 体型 | 大型 |  |  |  |  |
+
+在平衡难度及以下召唤三只巨鹰，在硬核难度及以上召唤五只巨鹰。
+
+飞向目标位置
+
+拍打雄伟的翅膀制造强风，将生物击退 5 米 / 17 英尺并使其陷入[倒伏](Prone_(Condition).md "倒伏（状态）")状态。
+
+[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击（巨鹰）") ()
+
+对目标进行多次攻击。（充能：每回合。）
+
+[利爪](Talons.md "利爪") ()
+用强大的利爪猛击。
+
+## 如何习得
+
+由法术提供：
+
+- [召唤援助](Calling_for_Help.md "召唤援助")
+
+由生物使用：[远古巨鹰](Ancient_Giant_Eagle.md "远古巨鹰")
+
+---
+*Source: [Signalling Cry](https://bg3.wiki/wiki/Signalling_Cry)*

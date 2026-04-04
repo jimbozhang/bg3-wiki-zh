@@ -1,0 +1,159 @@
+# 玛德琳·惠特本
+
+不要与[惠特本夫人](Lady_Whitburn.md "惠特本夫人")混淆
+
+## 玛德琳·惠特本
+
+博德之门的女士
+
+- 游戏内
+- 肖像画
+
+### 身份
+
+女性
+
+### 声优 / 演员
+
+- [哈丽特·克肖](https://www.imdb.com/name/nm8830109/)
+
+### 家族
+
+⁠[惠特本](https://forgottenrealms.fandom.com/wiki/Whitburn)
+[惠特本夫人](Lady_Whitburn.md "惠特本夫人") (家族成员)
+[惠特本勋爵](Lord_Whitburn.md "惠特本勋爵") [家族成员]<sup>[\[1\]](#cite_note-1)</sup>
+
+### 家乡
+
+[博德之门](Baldur's_Gate.md "博德之门")
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "中级")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[精灵](Elf.md "精灵")
+
+### 亚种
+
+[高精灵](High_Elf.md "高精灵")
+
+- 平衡
+
+## 平衡难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+8
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++2
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+
+在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_WYR_KillDirectorGortash_Patriar_010` ###
+
+UUID
+
+`da3508f0-91ce-48c1-ab58-f3b359cd3315` ###
+
+属性
+
+`Human_Commoner` **玛德琳·惠特本女士**是[博德之门](Baldur's_Gate.md "博德之门")的一位女士，出席了[戈塔什](Enver_Gortash.md "恩弗·戈塔什")被任命为城市大公的仪式。
+
+## 目录
+
+- [1 参与情况](#involvement)
+- [2 相关文献](#related-literature)
+- [3 画廊](#gallery)
+- [4 注释与参考](#notes-and-references)
+- [5 外部链接](#external-links)
+
+## 参与情况
+
+仪式开始前，她与其他贵族一起坐在礼堂中央中殿的长椅上。
+
+仪式结束后，惠特本夫人移动到礼堂的北中殿，站在第二张提供茶点的桌子附近，由她的侍女[仆人奈斯克](Naiske.md "奈斯克")陪同。她对奈斯克指手画脚，不断改变她想品尝的茶点和餐点的想法。如果与她交谈，她会说这座城市只有其城墙一样坚固。
+
+如果对抗戈塔什，玛德琳女士与其他所有受邀宾客及其随从一起被发现惨死在礼堂中。
+
+根据[忠诚之黑手](Black_Hand_of_Loyalty.md "忠诚之黑手")的研究，玛德琳·惠特本女士是那些可能通过贿赂、勒索或直接威胁而轻易顺从邪教的贵族之一。<sup>[\[2\]](#cite_note-2)</sup>
+
+## 相关文献
+
+- [我有严重投诉！](I_Have_a_Serious_Complaint!.md "我有严重投诉！")
+- [脆弱的贵族](Vulnerable_Patriars.md "脆弱的贵族")
+
+## 画廊
+
+- 游戏内模型
+
+## 注释与参考
+
+1. [↑](#cite_ref-1) 玛德琳·惠特本女士与其他两位惠特本的关系尚不清楚。
+1. [↑](#cite_ref-2) [脆弱的贵族](Vulnerable_Patriars.md "脆弱的贵族") - "根据他们的影响力水平与对各种压力形式（贿赂、勒索、直接威胁）的脆弱性进行交叉索引，以下是未来二十天内议会中需要针对的前八位贵族：..."
+
+## 外部链接
+
+- ⁠[玛德琳·惠特本](https://forgottenrealms.fandom.com/wiki/Madeline_Whitburn) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page) 上
+
+---
+*Source: [Madeline Whitburn](https://bg3.wiki/wiki/Madeline_Whitburn)*

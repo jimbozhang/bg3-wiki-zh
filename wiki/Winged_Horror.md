@@ -1,0 +1,224 @@
+# 飞天恐魔
+
+## 飞天恐魔
+
+- 游戏内
+- 肖像画
+
+### 声音 / 演员
+
+- [Akbar Kurtha](https://www.imdb.com/name/nm0475988/)
+- [Durassie Kiangangu](https://www.imdb.com/name/nm3698863/)
+- [Stefan Chanyaem](https://www.imdb.com/name/nm9175408/)
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "Medium")
+
+### 类型
+
+[不死生物](Undead.md "Undead")
+
+### 种族
+
+[飞行食尸鬼](Flying_Ghoul.md "Flying Ghoul")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+3
+
+### 生命值
+
+32
+
+### 护甲等级
+
+13
+
+### 先攻
+
++3
+
+### 熟练项
+
++2
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 经验值奖励
+
+110
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 16 / (+3) | 10 / (0) | 7 / (-2) | 10 / (0) | 6 / (-2) |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+能在黑暗中看到一定距离。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+3
+
+### 生命值
+
+22
+
+### 护甲等级
+
+13
+
+### 先攻
+
++3
+
+### 熟练项
+
++4
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 经验值奖励
+
+110
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +3 | +3 | 0 | -2 | 0 | -2 |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+能在黑暗中看到一定距离。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+3
+
+### 生命值
+
+41
+
+### 护甲等级
+
+13
+
+### 先攻
+
++3
+
+### 熟练项
+
++2
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 经验值奖励
+
+110
+
+| 属性值 | 运动 | 体操 | 察觉技能 |
+| --- | --- | --- | --- |
+|  | 3 | 3 | 0 |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+能在黑暗中看到一定距离。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+**飞天恐魔**是[飞行食尸鬼](Flying_Ghoul.md "Flying Ghoul")生物，可在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")、[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")和[至高大殿](High_Hall.md "High Hall")遭遇。
+
+## 参与情况
+
+### 第二章
+
+虽然大多数天生敌对，但在[月出之塔](Moonrise_Towers.md "Moonrise Towers")的上层城垛 X: -173 Y: -205 处可以遇到三只中立的飞天恐魔。这些特殊的飞行食尸鬼哀叹自己的饥饿，抱怨尸体被倒入塔下的[隧道](Mind_Flayer_Colony.md "Mind Flayer Colony")，而不是按承诺喂给他们。
+
+玩家角色可以通过 DC 16 的[游说](Persuasion.md "Persuasion")或[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")安抚它们，使用[灵吸怪游说](Illithid_Persuasion.md "Illithid Persuasion")说服食尸鬼互相吞噬，或者直接攻击它们。
+
+## 战斗
+
+### 攻击与能力
+
+[呼叫协助](Calling_for_Help.md "Calling for Help") ()
+该生物发出警报以提醒其盟友。
+
+充能：每次战斗
+
+[爪击](Claws_(Flying_Ghoul).md "Claws (Flying Ghoul)") ()
+
+伤害：6~21
+
+3d6 + 3⁠[挥砍](Slashing.md "Slashing")
+
+受影响的生物可以用致命的爪子猛击，并可能[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")目标。
+
+[体](Constitution.md "Constitution")[豁免检定](Saving_throws.md "Saving throws")
+近战：1.5 米 (5 英尺)
+
+[飞行](Fly_(class_action).md "Fly (class action)") ()
+飞至目标位置
+
+范围：18 米 (60 英尺)
+
+## 外部链接
+
+⁠[飞天恐魔](https://forgottenrealms.fandom.com/wiki/Winged_horror) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Winged Horror](https://bg3.wiki/wiki/Winged_Horror)*

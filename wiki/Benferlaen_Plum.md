@@ -1,0 +1,264 @@
+# 本费兰·普拉姆
+
+## 本费兰·普拉姆
+
+- 游戏内
+- 肖像画
+
+### 身份
+
+男性
+
+### 家乡
+
+[博德之门](Baldur's_Gate.md "博德之门")
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "中级")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[精灵](Elf.md "精灵")
+
+### 亚种
+
+[高精灵](High_Elf.md "高精灵")
+
+- 平衡
+- 探索者
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+8
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++2
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 状态
+
+- [**死亡**](Dead_(Condition).md "死亡 (状态)")
+
+此生物已死亡。
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+能在黑暗中看清一定距离内的事物。
+
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+
+在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+6
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++4
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## 状态
+
+- [**死亡**](Dead_(Condition).md "死亡 (状态)")
+
+此生物已死亡。
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+能在黑暗中看清一定距离内的事物。
+
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+
+在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+10
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++2
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 状态
+
+- [**死亡**](Dead_(Condition).md "死亡 (状态)")
+
+此生物已死亡。
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+能在黑暗中看清一定距离内的事物。
+
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+
+在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_WYR_OpenHand_FakeBlackReaver_002` ###
+
+UUID
+
+`0226189a-d7b0-4904-bac9-b35ed788f6f6` ###
+
+属性
+
+`Elf_Commoner` **本费兰·普拉姆**是一位已故的[高精灵](High_Elf.md "高精灵")，其尸体可在第三章的[利文顿](Rivington.md "利文顿")找到。
+
+> “
+>
+> 每一具尸体都经过对称排列——且别有用心。
+>
+> „
+
+— [莱埃泽尔](Lae'zel.md "莱埃泽尔")，在探索现场时
+
+## 目录
+
+- [1 出场](#involvement)
+- [2 相关任务](#related-quests)
+- [3 备注](#notes)
+- [4 外部链接](#external-links)
+
+## 出场
+
+本费兰的尸体可在[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")下方的[洞穴](Open_Hand_Temple_Underground_Area.md#Cave_area "慈爱神殿地下区域")中找到。
+
+本费兰被[腥红奥林](Orin.md "腥红奥林")杀害，其尸体（连同[蓝康纳·巴尔克斯克](Blue_Connor_Balkosc.md "蓝康纳·巴尔克斯克")、[坎德利斯·凯勒姆](Enris_Kellem.md "坎德利斯·凯勒姆")、[卷尘者里翁](Liron_Dustclotter.md "卷尘者里翁")和[佩内拉·伦本斯克斯](Penela_Lumpensicks.md "佩内拉·伦本斯克斯")的尸体）被用作奥林“艺术”的组成部分，作为[伊拉萨拉](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "博德之门系列前作参考列表")的雕像——一位一个多世纪前被击败的巴尔之子。
+
+## 相关任务
+
+- ⁠[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")
+- ⁠[破解慈爱神殿的谋杀案](Solve_the_Open_Hand_Temple_Murders.md "破解慈爱神殿的谋杀案")
+- ⁠[调查谋杀案](Investigate_the_Murders.md "调查谋杀案")
+
+## 备注
+
+- 在游戏文件中，本费兰及其不幸的同伴被称为“假黑收割者”。黑收割者是伊拉萨拉随从成员的通用名，他们在战斗中陪伴她。
+
+## 外部链接
+
+⁠[伊拉萨拉](https://baldursgate.fandom.com/wiki/Illasera) 在 [博德之门维基](https://baldursgate.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Benferlaen Plum](https://bg3.wiki/wiki/Benferlaen_Plum)*

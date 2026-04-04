@@ -1,0 +1,62 @@
+# 心灵幻象
+
+本页面内容为 [荣誉模式](Honour_Mode.md "荣誉模式") 独占。
+
+**心灵幻象**是 [尼讷](Nere.md "尼讷") 在荣誉模式下可用的传奇反应。
+
+当受到攻击时，尼讷可以施放**心灵幻象**，用 3 个自身的幻影来保护自己免受 ⁠[物理](Physical.md "物理") 伤害。
+
+## 描述
+
+召唤 3 个自身的幻影来保护你。只要有一个幻影存在，你就会免疫 ⁠[钝击](Bludgeoning.md "钝击")、⁠[穿刺](Piercing.md "穿刺") 和 ⁠[挥砍](Slashing.md "挥砍") 伤害。
+
+当施法者被击中时，一个**心灵幻象**会 [引爆](Shatter_Visage.md "粉碎幻象")。
+
+## 属性
+
+伤害：2~12
+
+2d6⁠[心灵](Psychic.md "心灵")（每次幻象引爆）
+
+详情
+范围：自身
+作用区域：6 米（20 英尺）半径
+充能：每回合
+持续时间：1 驱散
+
+## 技术细节
+
+UID
+
+`Shout_UND_Nere_PsychicMirror`
+
+由反应触发的动作
+
+`Interrupt_UND_Nere_PsychicMirror`
+
+激活该动作的反应
+
+## 状态：心灵幻象
+
+**[心灵幻象](Psionic_Visages_(Condition).md "心灵幻象 (状态)")**
+
+持续时间：1 驱散
+
+- 当**心灵幻象**存在时，受影响实体免疫 ⁠[钝击](Bludgeoning.md "钝击")、⁠[穿刺](Piercing.md "穿刺") 和 ⁠[挥砍](Slashing.md "挥砍") 伤害。
+- 当施法者被击中时，一个幻象会粉碎，直接用 2d6⁠⁠[心灵](Psychic.md "心灵") 伤害攻击攻击者。
+
+## 如何习得
+
+由特性授予：
+
+- [传奇动作：心灵幻象](Legendary_Action_colon__Psionic_Visage.md "传奇动作：心灵幻象")
+
+由生物使用：[尼讷](Nere.md "尼讷")
+
+## 备注
+
+- 此传奇动作会由许多不需要攻击掷骰的进攻性动作触发。示例包括 [命令术](Command.md "命令术")、[造水术](Create_Water.md "造水术") 以及可投掷物的范围伤害（但不包括 [尖刺球茎](Spiked_Bulb.md "尖刺球茎")）。
+- 如果幻象未被摧毁，它们将在尼讷的下一回合开始时消失。
+
+---
+*Source: [Psionic Visage](https://bg3.wiki/wiki/Psionic_Visage)*

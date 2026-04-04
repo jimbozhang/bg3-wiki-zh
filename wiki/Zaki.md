@@ -1,0 +1,228 @@
+# Zaki
+
+## Zaki
+
+- 游戏内
+- 模型
+- 肖像画
+
+### 身份
+
+男性
+
+### 声音 / 演员
+
+- [Alex Tregear](https://www.imdb.com/name/nm2587402/)
+
+### 阵营
+
+[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")
+
+## 属性
+
+### 体型
+
+[小型](Small.md "Small")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[提夫林](Tiefling.md "Tiefling")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+5
+
+### 护甲等级
+
+12
+
+### 先攻
+
++2
+
+### 熟练项
+
++2
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+25 千克 (50 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 14 / (+2) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离。
+
+- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+
+[抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
+
+## 探索者难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+3
+
+### 护甲等级
+
+12
+
+### 先攻
+
++2
+
+### 熟练项
+
++4
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+25 千克 (50 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | +2 | 0 | 0 | 0 | 0 |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离。
+
+- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+
+[抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
+
+## 硬核难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+6
+
+### 护甲等级
+
+12
+
+### 先攻
+
++2
+
+### 熟练项
+
++2
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+25 千克 (50 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 14 / (+2) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离。
+
+- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+
+[抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
+
+## 技术数据
+
+###
+
+UID
+
+`S_DEN_TieflingKid_004` ###
+
+UUID
+
+`6644185d-385e-4dfc-973c-bb854cbfd540` ###
+
+属性
+
+`DEN_Thiefling` **扎基**是寻求在[翠绿林地](Emerald_Grove.md "Emerald Grove")避难的[提夫林难民](Tiefling_Refugees.md "Tiefling Refugees")，位于[第一幕](Act_One.md "Act One")。
+
+> “
+>
+> 你看起来没那么厉害。摩尔一个人就打跑了一个大地精。
+>
+> „
+
+— 扎基，初次遇见队伍时
+
+## 参与情况
+
+### 第一幕
+
+扎基是[摩尔](Mol.md "Mol")儿童帮派的成员之一。
+
+如果在解决[卡哈](Kagha.md "Kagha")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Emerald Grove and Zaki's corpse can be found among the pile of refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village")之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")或[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")，提夫林们将被逐出翠绿林地，扎基的尸体可以在通往[染疫村落](Blighted_Village.md "Blighted Village")的桥附近的难民堆中找到。
+
+## 外部链接
+
+- ⁠[扎基](https://forgottenrealms.fandom.com/wiki/Zaki) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Zaki](https://bg3.wiki/wiki/Zaki)*

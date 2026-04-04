@@ -1,0 +1,159 @@
+# 玛德琳
+
+## 玛德琳
+
+### 身份
+
+女性
+
+### 声优 / 演员
+
+- [Jennie Delaney](https://www.imdb.com/name/nm9860537/)
+
+### 家乡
+
+[雷斯文小镇](Reithwin_Town.md "Reithwin Town")
+
+### 职业
+
+[残月酒厂](Waning_Moon.md "Waning Moon")的酒保
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "Medium")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[矮人](Dwarf.md "Dwarf")
+
+### 亚种
+
+[黄金矮人](Gold_Dwarf.md "Gold Dwarf")
+
+### 职业
+
+[游侠](Ranger.md "Ranger")
+
+- 平衡
+
+## 平衡难度属性
+
+### 等级
+
+5
+
+### 生命值
+
+7
+
+### 护甲等级
+
+10
+
+### 先攻
+
++2
+
+### 熟练项
+
++3
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 额外资源
+
+- - ## 状态
+
+- [**死亡**](Dead_(Condition).md "Dead (Condition)")
+
+此生物已死亡。
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+可在一定距离内于黑暗中视物。
+
+- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+
+对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在徒手或武器攻击后可进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_SCL_ServantOfTheRaven_Madeline` ###
+
+UUID
+
+`c3d3ab85-8f51-47f0-9b05-3d6010651bd1` ###
+
+属性
+
+`SCL_ServantOfTheRaven_Madeline` **玛德琳**是一名已故的矮人，可在[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")的[废弃战场](Ruined_Battlefield.md "Ruined Battlefield") X: 125 Y: 106 处找到。
+
+## 目录
+
+- [1 出场](#involvement)
+- [2 相关文献](#related-literature)
+- [3 相关任务](#related-quests)
+- [4 备注](#notes)
+
+## 出场
+
+许多年前，当[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")的[暗夜法官](Dark_Justiciar.md "Dark Justiciar")军队占领小镇时，玛德琳在酿酒厂_[残月酒厂](The_Waning_Moon.md "The Waning Moon")_担任酒保。
+
+首次发现她时，[往日身影](He_Who_Was.md "He Who Was")会对她的尸体施放[死者交谈](Speak_with_Dead.md "Speak with Dead")以试图审问她。这开启了任务[惩罚邪恶](Punish_the_Wicked.md "Punish the Wicked")。
+
+往日身影是一名>)[影灵](https://forgottenrealms.fandom.com/wiki/Shadar-kai_(elf))，他寻找有罪、受折磨和痛苦的人。他恰当地找到了玛德琳，她的灵魂因生前的行为而陷入悲伤与悔恨之中。往日身影声称他正在为玛德琳的罪行寻求正义，并要求队伍取回[玛德琳的账簿](Madeline's_Ledger.md "Madeline's_Ledger")，这本账簿藏在残月酒厂吧台后的一块松动木板下。
+
+账簿取回后，往日身影再次引导玛德琳的灵魂，这次允许队伍向她提问。玛德琳解释了她如何向暗夜法官娜塔莎报告任何针对凯瑟里克及其军队的异议。由于害怕危及生命，玛德琳背叛了许多朋友和顾客，将他们交给了娜塔莎，后者以可怕的方式抓捕并杀害了他们。
+
+玛德琳表达了对自己所做之事的悲伤和悔恨，认为自己无法救赎或宽恕。队伍可以选择宽恕她，让她的灵魂安息，也可以选择谴责或惩罚她。
+
+## 相关文献
+
+- [玛德琳的账簿](Madeline's_Ledger.md "Madeline's Ledger") - 在[残月酒厂](Waning_Moon.md "Waning Moon")的一些隐藏木板下找到
+
+## 相关任务
+
+- [惩罚邪恶](Punish_the_Wicked.md "Punish the Wicked")
+
+## 备注
+
+- 往日身影对话的许多开发者注释不仅提到了他意图背后的残酷，还提到他对队伍说的许多话都是在试图操纵他们折磨玛德琳。
+
+---
+*Source: [Madeline](https://bg3.wiki/wiki/Madeline)*

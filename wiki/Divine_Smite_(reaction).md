@@ -1,0 +1,77 @@
+# 至圣斩 (反应)
+
+本文介绍的是命中后触发至圣斩的反应。关于直接使用至圣斩的动作，请参见 [至圣斩](Divine_Smite.md "至圣斩")。关于至圣斩的一般信息，请参见 [至圣斩](Smite.md "至圣斩")。
+
+**至圣斩**是[圣武士](Paladin.md "圣武士")的反应。该反应可在使用任何[近战武器攻击](Main_Hand_Attack.md "主手攻击")成功命中目标后执行，并且可以在一次攻击中多次使用（例如双持武器时）。它是[至圣斩](Divine_Smite.md "至圣斩")的反应版本。
+
+## 描述
+
+你的武器造成额外 2d8⁠⁠[光耀](Radiant.md "光耀")伤害，当攻击[邪魔](Fiends.md "邪魔")或[不死生物](Undead.md "不死生物")时，伤害增加 1d8⁠⁠[光耀](Radiant.md "光耀")。
+
+## 属性
+
+消耗
+[1级法术位](Spells.md#Spell_slots "法术")
+伤害：3~24
+
+2d8⁠[光耀](Radiant.md "光耀")
+
+\+ 1d8⁠[光耀](Radiant.md "光耀")（如果目标是不死生物或邪魔）
+
+## 更高等级
+
+- 当以 2 级或更高法术位施展至圣斩时，伤害每超过 1 级增加 1d8⁠⁠[光耀](Radiant.md "光耀")。此伤害上限为 5d8，因此使用 4 级以上法术位不会增加更多伤害。
+
+## 技术细节
+
+UID
+
+`Interrupt_Smite_Divine`
+
+`Interrupt_Smite_Divine_2`
+
+`Interrupt_Smite_Divine_3`
+
+`Interrupt_Smite_Divine_4`
+
+`Interrupt_Smite_Divine_5`
+
+`Interrupt_Smite_Divine_6`
+
+`Interrupt_Smite_Divine_Critical`
+
+`Interrupt_Smite_Divine_Critical_2`
+
+`Interrupt_Smite_Divine_Critical_3`
+
+`Interrupt_Smite_Divine_Critical_4`
+
+`Interrupt_Smite_Divine_Critical_5`
+
+`Interrupt_Smite_Divine_Critical_6`
+
+法术标志
+
+`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
+
+## 学习方式
+
+职业：
+
+- 职业等级 2：[圣武士](Paladin.md "圣武士")
+
+生物使用：[安德斯](Anders.md "安德斯")、[赛夫洛](Zevlor.md "赛夫洛")和[明萨拉](Minthara.md "明萨拉")
+
+## 备注
+
+- 这*不*消耗[反应](Actions.md#Reactions "动作")点数。
+- 此反应可在任何非[至圣斩](Divine_Smite.md "至圣斩")的近战武器攻击上触发。这允许在副手攻击、[武器动作](Weapon_actions.md "武器动作")如[劈砍](Cleave.md "劈砍")，或特殊攻击如[巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "巨武器大师：附赠攻击")上施放至圣斩。甚至在使用至圣斩法术如[雷鸣打击](Thunderous_Smite.md "雷鸣打击")时也能触发。直接通过动作使用至圣斩等同于在基础攻击上触发反应。
+- 该反应根据法术位等级分为正常命中的**至圣斩**和重击的**至圣斩：重击**。
+  - 这意味着使用 2 级法术位时，你将有四个反应，每个等级两个。
+  - 默认情况下，至圣斩：重击反应设置为自动确认，而至圣斩被禁用。
+  - 游戏中至圣斩在法术书的“职业动作”下列出。
+- 作为反应的至圣斩在从隐形状态攻击时无法触发。
+- 有关适用于所有至圣斩变体的其他详细信息，请参见[至圣斩](Smite.md "至圣斩")。
+
+---
+*Source: [Divine Smite (reaction)](https://bg3.wiki/wiki/Divine_Smite_(reaction)*

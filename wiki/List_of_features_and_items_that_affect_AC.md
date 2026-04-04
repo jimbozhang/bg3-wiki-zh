@@ -1,0 +1,59 @@
+# 影响护甲等级的特性与物品列表
+
+## 目录
+
+- [1 职业特性](#class-features)
+- [2 专长](#feats)
+- [3 法术](#spells)
+- [4 装备类型](#equipment-types)
+- [5 装备](#equipment)
+- [6 消耗品](#consumables)
+- [7 降低护甲等级的状态与特性](#conditions-and-features-that-give-penalty-to-ac)
+
+## 职业特性
+
+| 特性 | 护甲等级加值 | 职业（等级） | 备注 |
+| --- | --- | --- | --- |
+| [虫群护甲](Armour_of_the_Swarm_(Condition).md "虫群护甲（状态）") | +2 | 虫群游侠（11） | 使用强力传送后生效一回合。 |
+| [剑舞](Bladesong.md "剑舞") | +2 至 +4 | 剑咏法师（2） | 施放剑舞时生效。加值从+2开始，在5级时提升至+3，在9级时提升至+4。 |
+| [防御（战斗风格）](Defence.md "防御") | +1 | 战士（1）、游侠（2）、圣武士（2） | 穿戴任何护甲时生效。 |
+| [防御华舞（近战）](Defensive_Flourish_(Melee).md "防御华舞（近战）") | +4 | 剑舞学院吟游诗人（3） | 使用华舞击中目标后生效一回合。 |
+| [龙族韧性](Draconic_Resilience.md "龙族韧性") | +3 | 龙族血脉术士（1） | 等同于[魔法护甲](Mage_Armour.md "魔法护甲")。仅在无甲时生效。影响基础护甲等级，且不与其他改变基础护甲等级的效果叠加。 |
+| [无甲防御（野蛮人）](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）") | +[体质](Constitution.md "体质") 调整值 | 野蛮人（1） | 仅在无甲时生效。影响基础护甲等级，且不与其他改变基础护甲等级的效果叠加。 |
+| [无甲防御（武僧）](Unarmoured_Defence_(Monk).md "无甲防御（武僧）") | +[感知](Wisdom.md "感知") 调整值 | 武僧（1） | 仅在无甲且未佩戴盾牌时生效。影响基础护甲等级，且不与其他改变基础护甲等级的效果叠加。 |
+| [狂野魔法：防护光](Wild_Magic_colon__Protective_Lights.md "狂野魔法：防护光") | +1 | 狂野魔法野蛮人（3） | 在[狂暴：狂野魔法](Rage_colon__Wild_Magic.md "狂暴：狂野魔法")期间应用的八种可能狂野魔法效果之一。影响野蛮人及3米（10英尺）内的所有盟友。 |
+| [荒野形态](Wild_Shape.md "荒野形态") | 视形态而定 | 德鲁伊（2） | 荒野形态时，你采用该形态的基础护甲等级。这不与改变基础护甲等级的其他效果叠加。有关荒野形态基础护甲等级的列表，请参见[此列表](Wild_Shape#All_Wild_Shape_Forms.md#All_Wild_Shape_Forms "荒野形态")。 |
+
+## 专长
+
+## 法术
+
+| 特性 | 护甲等级加值 | 职业（等级） | 备注 |
+| --- | --- | --- | --- |
+| [虫群护甲](Armour_of_the_Swarm_(Condition).md "虫群护甲（状态）") | +2 | 虫群游侠（11） | 使用强力传送后生效一回合。 |
+| [剑舞](Bladesong.md "剑舞") | +2 至 +4 | 剑咏法师（2） | 施放剑舞时生效。加值从+2开始，在5级时提升至+3，在9级时提升至+4。 |
+| [防御（战斗风格）](Defence.md "防御") | +1 | 战士（1）、游侠（2）、/ 圣武士（2） | 穿戴任何护甲时生效。 |
+| [防御华舞（近战）](Defensive_Flourish_(Melee).md "防御华舞（近战）") | +4 | 剑舞学院吟游诗人（3） | 使用华舞击中目标后生效一回合。 |
+| [龙族韧性](Draconic_Resilience.md "龙族韧性") | +3 | 龙族血脉术士（1） | 等同于[魔法护甲](Mage_Armour.md "魔法护甲")。仅在无甲时生效。影响基础护甲等级，且不与其他改变基础护甲等级的效果叠加。 |
+| [无甲防御（野蛮人）](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）") | +[体质](Constitution.md "体质") 调整值 | 野蛮人（1） | 仅在无甲时生效。影响基础护甲等级，且不与其他改变基础护甲等级的效果叠加。 |
+| [无甲防御（武僧）](Unarmoured_Defence_(Monk).md "无甲防御（武僧）") | +[感知](Wisdom.md "感知") 调整值 | 武僧（1） | 仅在无甲且未佩戴盾牌时生效。影响基础护甲等级，且不与其他改变基础护甲等级的效果叠加。 |
+| [狂野魔法：防护光](Wild_Magic_colon__Protective_Lights.md "狂野魔法：防护光") | +1 | 狂野魔法野蛮人（3） | 在[狂暴：狂野魔法](Rage_colon__Wild_Magic.md "狂暴：狂野魔法")期间应用的八种可能狂野魔法效果之一。影响野蛮人及3米（10英尺）内的所有盟友。 |
+| [荒野形态](Wild_Shape.md "荒野形态") | 视形态而定 | 德鲁伊（2） | 荒野形态时，你采用该形态的基础护甲等级。这不与改变基础护甲等级的其他效果叠加。有关荒野形态基础护甲等级的列表，请参见[此列表](Wild_Shape#All_Wild_Shape_Forms.md#All_Wild_Shape_Forms "荒野形态")。 |
+
+## 装备类型
+
+## 装备
+
+| 专长 | 护甲等级加值 | 备注 |
+| --- | --- | --- |
+| [防御式决斗](Defensive_Duellist.md "防御式决斗") | +[熟练项加值](Proficiency_Bonus.md "熟练项加值") | 以消耗一个[反应](Actions#Reactions.md#Reactions "动作")为代价，对单次近战攻击生效。 |
+| [双持客](Dual_Wielder.md "双持客") | +1 | 双持武器时生效。 |
+| [法学徒：牧师](Magic_Initiate_colon__Cleric.md "法学徒：牧师") | +1（可能） | 穿戴中甲时，将敏捷对护甲等级的最大加值从+2提升至+3。这与中甲大师相同，可能并非该专长的本意。 |
+| [中甲大师](Medium_Armour_Master.md "中甲大师") | +1（可能） | 穿戴中甲时，将敏捷对护甲等级的最大加值从+2提升至+3。 |
+
+## 消耗品
+
+## 降低护甲等级的状态与特性
+
+---
+*Source: [List of features and items that affect AC](https://bg3.wiki/wiki/List_of_features_and_items_that_affect_AC)*

@@ -1,0 +1,364 @@
+# 焰拳防御者
+
+## 焰拳防御者
+
+### 声音 / 演员
+
+- [Niall Gaffney](https://www.imdb.com/name/nm3679412/)
+
+### 阵营
+
+[焰拳](Flaming_Fist.md "焰拳")
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "中级")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[矮人](Dwarf.md "矮人")
+
+### 亚种
+
+[黄金矮人](Gold_Dwarf.md "黄金矮人")
+
+### 职业
+
+[战士](Fighter.md "战士")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+8
+
+### 生命值
+
+64
+
+### 护甲等级
+
+18
+
+### 先攻
+
++1
+
+### 熟练项
+
++3
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+140
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+
+## 抗性 [(info)](Resistances.md "抗性")
+
+- ## 额外资源
+
+- 5
+
+## 状态
+
+- [**英勇灵药**](Elixir_of_Heroism_(Condition).md "英勇灵药 (状态)")
+
+受影响实体获得 1d4⁠⁠[挥砍](Slashing.md "挥砍")加值至[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")，直到下一次长休。
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+能在黑暗中看到一定距离。
+
+- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+
+对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开触及范围的敌人。
+
+- [**守护**](Protection.md "守护")
+
+当你持有[盾牌](Shields.md "盾牌")时，对在 1.5 米 (5 英尺) 范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
+
+## 探索者难度属性
+
+### 等级
+
+8
+
+### 生命值
+
+59
+
+### 护甲等级
+
+18
+
+### 先攻
+
++1
+
+### 熟练项
+
++5
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+140
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +8 | +1 | +7 | 0 | +1 | -1 |
+
+## 抗性 [(info)](Resistances.md "抗性")
+
+- ## 额外资源
+
+- 5
+
+## 状态
+
+- [**英勇灵药**](Elixir_of_Heroism_(Condition).md "英勇灵药 (状态)")
+
+受攻击实体获得 1d4⁠⁠[挥砍](Slashing.md "挥砍")加值至[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")，直到下一次长休。
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+能在黑暗中看到一定距离。
+
+- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+
+对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开触及范围的敌人。
+
+- [**守护**](Protection.md "守护")
+
+当你持有[盾牌](Shields.md "盾牌")时，对在 1.5 米 (5 英尺) 范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
+
+## 硬核难度属性
+
+### 等级
+
+8
+
+### 生命值
+
+68
+
+### 护甲等级
+
+18
+
+### 先攻
+
++1
+
+### 熟练项
+
++3
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+140
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+
+## 抗性 [(info)](Resistances.md "抗性")
+
+- ## 额外资源
+
+- 5
+
+## 状态
+
+- [**英勇灵药**](Elixir_of_Heroism_(Condition).md "英勇灵药 (状态)")
+
+受攻击实体获得 1d4⁠⁠[挥砍](Slashing.md "挥砍")加值至[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")，直到下一次长休。
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+能在黑暗中看到一定距离。
+
+- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+
+对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开触及范围的敌人。
+
+- [**守护**](Protection.md "守护")
+
+当你持有[盾牌](Shields.md "盾牌")时，对在 1.5 米 (5 英尺) 范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
+
+## 技术
+
+###
+
+UID
+
+`S_END_FlamingFistDefender_001` ###
+
+UUID
+
+`e7842c87-021c-4c6b-910b-1c4a28f11bcc` ###
+
+属性
+
+`FlamingFist_Dwarf_Melee_Defender` ## 变体 1
+
+###
+
+UID
+
+`S_END_FlamingFistDefender_002` ###
+
+UUID
+
+`bfb37187-f9ea-4dfe-9738-a4435bd92b2c` ###
+
+属性
+
+`FlamingFist_Human_Melee_Defender` **焰拳防御者**是在[第三幕](Act_Three.md "第三幕")期间可以召唤的盟友。
+
+## 目录
+
+- [1 参与](#involvement)
+  - [1.1 第三幕](#act-three)
+- [2 战斗](#combat)
+  - [2.1 攻击与能力](#attacks-and-abilities)
+  - [2.2 显著战利品](#notable-loot)
+
+## 参与
+
+### 第三幕
+
+焰拳防御者可以在[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")期间召唤。他们使用盾牌和阵型战术保护[博德之门](Baldur's_Gate.md "博德之门")免受[绝对主义](Absolute.md "绝对主义")的入侵。
+
+使用[召集盟友](Gather_Your_Allies_(class_action).md "召集盟友 (职业动作)")变体可以召唤一名焰拳防御者。或者，如果在[释放顾问弗洛瑞克](Free_Counsellor_Florrick.md "释放顾问弗洛瑞克")中救出了[弗洛瑞克](Florrick.md "弗洛瑞克")，则可以使用[弗洛瑞克的支持者](Florrick's_Cohort.md "弗洛瑞克的支持者")来召唤一名黄金矮人和两名[焰拳攻击手](Fist_Attacker.md "焰拳攻击手")作为盟友。
+
+## 战斗
+
+### 攻击与能力
+
+[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短矛](Spear.md "短矛")
+
+伤害：6~11
+
+1d6 + 5⁠[穿刺](Piercing.md "穿刺")
+
+使用装备的武器进行近战攻击。
+
+近战：1.5 米 (5 英尺)
+
+[突进攻击](Rush_Attack.md "突进攻击") () – [短矛](Spear.md "短矛")
+
+伤害：6~9
+
+1d4 + 5⁠[穿刺](Piercing.md "穿刺")
+
+向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡 (状态)")。
+
+[力量](Strength.md "力量") [豁免](Saving_throws.md "豁免")
+范围：9 米 (30 英尺)
+充能：[短休](Short_rest.md "短休")
+
+[投掷](Throw.md "投掷") () – [标枪](Javelin.md "标枪")
+
+伤害：6~11
+
+1d6 + 5⁠[穿刺](Piercing.md "穿刺")
+
+投掷世界或物品栏中的角色或物品。
+
+你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
+
+具有[投掷](Thrown.md "投掷")属性的武器的伤害与该武器的近战伤害相同。
+
+范围：3-18 米 (10-60 英尺)
+
+### 显著战利品
+
+- [链甲](Chain_Mail.md "链甲")
+- [头盔](Helmet.md "头盔")
+- [标枪](Javelin.md "标枪") - 2x
+- [金属盾](Metal_Shield.md "金属盾")
+- [短矛](Spear.md "短矛")
+
+---
+*Source: [Fist Defender](https://bg3.wiki/wiki/Fist_Defender)*

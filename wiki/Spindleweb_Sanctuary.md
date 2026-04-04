@@ -1,0 +1,57 @@
+# 纺丝庇护术
+
+**纺丝庇护术**是一个[5级防护学派法术](Spells.md "法术")。此法术允许施法者保护自己或盟友免受敌人攻击，并在法术结束时对敌人造成伤害。队伍成员无法学习此法术。
+
+## 描述
+
+在绝对的注视下保护自己免受攻击者的伤害。如果攻击或伤害另一个生物，庇护术将破碎，对附近生物造成3d8⁠⁠[心灵](Psychic.md "心灵")伤害。
+
+在受影响的实体攻击或伤害另一个生物之前，它不能成为敌人攻击的目标。但是，它仍然会受到影响更大区域的法术伤害。
+
+## 属性
+
+消耗
+[附赠动作](Actions.md#Resources "动作") + [4级法术位](Spells.md#Spell_slots "法术")
+伤害：3~24
+
+3d8⁠[心灵](Psychic.md "心灵")（当庇护术破碎时）
+
+详情
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）（豁免成功：目标仍承受一半伤害。）
+范围：18米（60英尺）
+区域：3米（10英尺）半径
+击退：4米（13英尺）（力量豁免检定失败时）
+
+## 更高施法等级
+
+以更高法术等级施放此法术不会获得额外收益。
+
+## 技术细节
+
+UID
+
+`Target_Sanctuary_Drider_Hardcore`
+
+法术标志
+
+`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
+
+## 状态：纺丝庇护术
+
+**[纺丝庇护术](Spindleweb_Sanctuary_(Condition).md "纺丝庇护术（状态）")**
+
+持续时间：2驱散
+
+- 受影响的实体不能成为敌人攻击或法术的目标。但是，它仍然会受到影响更大区域的法术伤害。如果受影响的实体攻击或伤害另一个生物，庇护术将破碎，对附近生物造成3d8⁠⁠[心灵](Psychic.md "心灵")伤害。
+
+## 如何习得
+
+生物使用：[卡'尼斯](Kar'niss.md "卡'尼斯")
+
+## 备注
+
+- 此法术同样适用常规[庇护术](Sanctuary.md "庇护术")规则。
+- 庇护术破碎时发生的爆炸涉及两次豁免检定。首先是[DC](Dice_rolls.md#Save_DCs "掷骰") 12 [智力](Intelligence.md "智力") [豁免检定](Saving_throw.md "豁免检定")以减半伤害。然后是第二次[法术豁免DC](Dice_rolls.md#Save_DCs "掷骰") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定")以避免被击退4米（13英尺）。无论第一次豁免检定是否成功，都会进行第二次豁免检定。
+
+---
+*Source: [Spindleweb Sanctuary](https://bg3.wiki/wiki/Spindleweb_Sanctuary)*

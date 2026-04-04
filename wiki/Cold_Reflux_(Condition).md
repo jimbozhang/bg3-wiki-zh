@@ -1,0 +1,43 @@
+# 寒冰回流 (状态)
+
+**寒冰回流**
+
+- 寒冷伤害冰镇了特索博尔德的特制佳酿，让他可以使用[寒冰回流](Icy_Regurgitation.md "寒冰回流")。
+
+## 属性
+
+[堆叠ID](Stack_ID.md "堆叠ID"): `TWN_DISTILLERY_ELEM_STATUS` [堆叠优先级](Stack_priority.md "堆叠优先级"): 2
+
+[更多属性](Status_properties.md "状态属性"):
+
+- [强制头顶显示](Status_properties/ForceOverhead.md "状态属性/强制头顶显示")
+
+## 赋予
+
+[寒冰回流](Icy_Regurgitation.md "寒冰回流") ()
+啜饮酿酒师的特制烈酒会让他呕吐出冰块，可以[冻僵](Chilled_(Condition).md "冻僵 (状态)")击中的目标。（充能：每回合。）
+
+## 寒冰回流的来源
+
+_维基数据库中未定义_
+
+## 拥有寒冰回流的生物
+
+_维基数据库中未定义_
+
+## 具有相同堆叠ID的状态
+
+| 状态 | 效果 |
+| --- | --- |
+| [强酸回流](Acid_Reflux_(Condition).md "强酸回流 (状态)") | 强酸伤害腐坏了特索博尔德的特制佳酿，让他可以使用[强酸回流](Acidic_Regurgitation.md "强酸回流")。 |
+| [火焰回流](Burning_Reflux_(Condition).md "火焰回流 (状态)") | 火焰伤害点燃了特索博尔德的特制佳酿，让他可以使用[火焰回流](Fiery_Regurgitation.md "火焰回流")。 |
+| 寒冰回流 | 寒冷伤害冰镇了特索博尔德的特制佳酿，让他可以使用[寒冰回流](Icy_Regurgitation.md "寒冰回流")。 |
+| [闪电回流](Electrified_Reflux_(Condition).md "闪电回流 (状态)") | 闪电伤害为特索博尔德的特制佳酿充能，让他可以使用[闪电回流](Electrified_Regurgitation.md "闪电回流")。 |
+| [气体回流](Gaseous_Reflux_(Condition).md "气体回流 (状态)") | 物理攻击为特索博尔德的特制佳酿添加了气体，让他可以使用[轰鸣的饱嗝](Roaring_Belch.md "轰鸣的饱嗝")。 |
+| [腐蚀回流](Rotten_Reflux_(Condition).md "腐蚀回流 (状态)") | 黯蚀伤害腐坏了特索博尔德的特制佳酿，让他可以使用[腐蚀回流](Rotting_Regurgitation.md "腐蚀回流")。 |
+| [毒液回流](Toxic_Reflux_(Condition).md "毒液回流 (状态)") | 中毒伤害污染了特索博尔德的特制佳酿，让他可以使用[毒液回流](Venomous_Regurgitation.md "毒液回流")。 |
+
+- 中毒伤害污染了特索博尔德的特制佳酿，让他可以使用[毒液回流](Venomous_Regurgitation.md "毒液回流")。
+
+---
+*Source: [Cold Reflux (Condition)](https://bg3.wiki/wiki/Cold_Reflux_(Condition)*

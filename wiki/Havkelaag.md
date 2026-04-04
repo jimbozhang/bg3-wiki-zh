@@ -1,0 +1,424 @@
+# 哈克拉格
+
+## 哈克拉格
+
+光耀会
+
+- 游戏内
+- 肖像画
+
+### 身份
+
+男性
+
+### 声音 / 演员
+
+- [Marcel McCalla](https://www.imdb.com/name/nm0565561/)
+
+### 阵营
+
+[光耀会](Society_of_Brilliance.md "Society of Brilliance")
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "Medium")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[矮人](Dwarf.md "Dwarf")
+
+### 亚种
+
+[灰矮人](Duergar.md "Duergar")
+
+### 职业
+
+[术士](Sorcerer.md "Sorcerer")
+
+### 副职
+
+[龙族血脉](Draconic_Bloodline.md "Draconic Bloodline")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+10
+
+### 生命值
+
+90
+
+### 护甲等级
+
+15
+
+### 先攻
+
++2
+
+### 熟练项
+
++4
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+24 米 (80 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 14 / (+2) | 13 / (+1) | 18 / (+4) | 13 / (+1) | 11 / (0) |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 额外资源
+
+- 6
+
+- 5
+
+- - ## 特性
+
+- [**龙族血统：银龙（寒冷）**](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
+
+在 6 级时：[寒冷](Cold.md "Cold") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
+
+- [**龙族韧性**](Draconic_Resilience.md "Draconic Resilience")
+
+不穿护甲时，基础 [护甲等级](Armour_Class.md "Armour Class") 为 13。
+
+- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+
+对抗 [幻术学派](Illusion.md "Illusion") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "Advantage")。
+
+- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+
+对抗被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害具有 [抗性](Resistance.md "Resistance")。
+
+- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
+
+当你施放与你的龙族血统相关的伤害类型的法术时，你会将你的 [魅力](Charisma.md "Charisma") [调整值](Ability_score_modifier.md "Ability Score Modifier") 加到伤害上。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+
+在阳光下时，攻击掷骰和 [察觉技能](Perception.md "Perception") 检定具有 [劣势](Disadvantage.md "Disadvantage")。
+
+- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+
+可以在黑暗中看到 24 米 / 80 英尺。
+
+## 探索者难度属性
+
+### 等级
+
+10
+
+### 生命值
+
+63
+
+### 护甲等级
+
+15
+
+### 先攻
+
++2
+
+### 熟练项
+
++6
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+24 米 (80 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | +2 | +1 | +4 | +1 | 0 |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 额外资源
+
+- 6
+
+- 5
+
+- - ## 特性
+
+- [**龙族血统：银龙（寒冷）**](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
+
+在 6 级时：[寒冷](Cold.md "Cold") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
+
+- [**龙族韧性**](Draconic_Resilience.md "Draconic Resilience")
+
+不穿护甲时，基础 [护甲等级](Armour_Class.md "Armour Class") 为 13。
+
+- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+
+对抗 [幻术学派](Illusion.md "Illusion") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "Advantage")。
+
+- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+
+对抗被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害具有 [抗性](Resistance.md "Resistance")。
+
+- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
+
+当你施放与你的龙族血统相关的伤害类型的法术时，你会将你的 [魅力](Charisma.md "Charisma") [调整值](Ability_score_modifier.md "Ability Score Modifier") 加到伤害上。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+
+在阳光下时，攻击掷骰和 [察觉技能](Perception.md "Perception") 检定具有 [劣势](Disadvantage.md "Disadvantage")。
+
+- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+
+可以在黑暗中看到 24 米 / 80 英尺。
+
+## 硬核难度属性
+
+### 等级
+
+10
+
+### 生命值
+
+117
+
+### 护甲等级
+
+15
+
+### 先攻
+
++2
+
+### 熟练项
+
++4
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+24 米 (80 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 运动 | 体操 | 察觉技能 |
+| --- | --- | --- | --- |
+|  | 0 | 2 | 1 |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 额外资源
+
+- 6
+
+- 5
+
+- - ## 特性
+
+- [**龙族血统：银龙（寒冷）**](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
+
+在 6 级时：[寒冷](Cold.md "Cold") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
+
+- [**龙族韧性**](Draconic_Resilience.md "Draconic Resilience")
+
+不穿护甲时，基础 [护甲等级](Armour_Class.md "Armour Class") 为 13。
+
+- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+
+对抗 [幻术学派](Illusion.md "Illusion") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "Advantage")。
+
+- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+
+对抗被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害具有 [抗性](Resistance.md "Resistance")。
+
+- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
+
+当你施放与你的龙族血统相关的伤害类型的法术时，你会将你的 [魅力](Charisma.md "Charisma") [调整值](Ability_score_modifier.md "Ability Score Modifier") 加到伤害上。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+
+在阳光下时，攻击掷骰和 [察觉技能](Perception.md "Perception") 检定具有 [劣势](Disadvantage.md "Disadvantage")。
+
+- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+
+可以在黑暗中看到 24 米 / 80 英尺。
+
+## 技术
+
+###
+
+UID
+
+`S_LOW_Havkelaag` ###
+
+UUID
+
+`8f24c3d5-33cd-4e4f-8c34-4fbc8863862d` ###
+
+Stats
+
+`LOW_TheLodge_Havkelaag` **哈克拉格**是 [博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3") 中 [下城区](Lower_City.md "Lower City") [光耀会](Society_of_Brilliance.md "Society of Brilliance") 的一名成员。他可以在 [第三幕](Act_Three.md "Act Three") 的 [会馆](The_Lodge.md "The Lodge") 内找到。
+
+> “
+>
+> 你发现自己身处所有关于幽暗地域知识的摇篮：_光耀会_
+>
+> „
+
+— 哈克拉格
+
+## 目录
+
+- [1 参与](#involvement)
+- [2 战斗](#combat)
+  - [2.1 攻击与能力](#attacks-and-abilities)
+  - [2.2 值得一提的战利品](#notable-loot)
+- [3 相关文献](#related-literature)
+- [4 死者交谈](#speak-with-dead)
+
+## 参与
+
+在博德之门，他可以在穿过主门后的 [会馆](The_Lodge.md "The Lodge") 内找到。如果完成 ⁠[偷一枚吉斯洋基蛋](Steal_a_Githyanki_Egg.md "Steal a Githyanki Egg") 任务并在库存中拥有该蛋，哈克拉格会提出以 1000 金币购买它，以进行一项从零开始抚养吉斯洋基儿童的实验。如果将蛋交给了他的同事 [埃斯特女士](Esther.md "Esther")，哈克拉格与光耀会的其他成员一同死亡，被 [潘塔利斯](Ptaris.md "Ptaris")——他从蛋中抚养长大的孩子——所杀。
+
+根据剑湾快递的通讯簿，哈克拉格对邮政服务有“哲学上的反对”，所有信件必须寄给 [加尔布雷斯](Golbraith_Stredivas.md "Golbraith Stredivas")。
+
+队伍可以请求哈克拉格成为会员，但他会拒绝，并表示由于 [绝对](Absolute.md "Absolute")，新会员资格已暂停。拥有 [智者](Sage.md "Sage") 背景的队伍成员仍会获得激励点 ⁠[会员准入](Sage.md#Membership_Admittance "Sage")。
+
+## 战斗
+
+### 攻击与能力
+
+[冰刃术](Ice_Knife.md "Ice Knife") (+ )
+
+伤害：3~22
+
+1d10⁠[穿刺](Piercing.md "Piercing")
+
+\+ 2d6⁠[寒冷](Cold.md "Cold")
+
+| 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- |
+| 0 | +2 | +1 | +4 | +1 | +0 |
+
+投掷一片冰刃，造成 1d10[穿刺](Piercing.md "Piercing") 伤害。它会爆炸并对附近的任何人造成 2d6[寒冷](Cold.md "Cold") 伤害。它会留下一个 [冰](Ice_(surface).md) 地表。如果未命中，冰刃仍会爆炸。
+
+[冰风暴](Ice_Storm.md "Ice Storm") (+ )
+
+召唤一阵冰雹和冰风暴从天而降，覆盖地面并打击范围内的所有物体和生物，造成 ⁠[钝击](Bludgeoning.md "Bludgeoning") 和 ⁠[寒冷](Cold.md "Cold") 伤害。它还会创建一个持续 2 回合的 [冰](Ice_(surface).md "Ice (surface)") 地表。
+
+[迷踪步](Misty_Step.md "Misty Step") (+ )
+被银色薄雾包围，你传送到一个你可见的未被占据的空间。
+
+[冷冻射线](Ray_of_Frost.md "Ray of Frost") ()
+
+将目标的 [移动速度](Movement_speed.md "Movement Speed") 降低 3 米 / 10 英尺。
+
+### 值得一提的战利品
+
+- [哈克拉格的钥匙](Havkelaag's_Key.md "Havkelaag's Key")
+- [长棍 +2](Quarterstaff_+2.md "Quarterstaff +2")
+- [简易长袍](Simple_Robe.md "Simple Robe")
+- [塔里安守则](The_Ptarian_Code.md "The Ptarian Code")
+
+## 相关文献
+
+- [通讯簿](Address_Book.md "Address Book")
+- [哈克拉格的日志](Havkelaag's_Journal.md "Havkelaag's Journal")
+- [哈克拉格的钥匙](Havkelaag's_Notes.md "Havkelaag's Notes")
+
+## 死者交谈
+
+只有在哈克拉格被潘塔利斯杀死的情况下，才能在他死亡时与他交谈：
+
+- 你是谁？
+
+- 哈克拉格
+  哈克拉格……杰出的研究员……哲学家。
+
+- 你发生了什么事？
+
+- 哈克拉格
+  实验……出错了……不是我的错。
+
+- 谁杀了你？
+
+- 哈克拉格
+  实验对象……吉斯洋基小子……潘塔利斯。
+
+- 你在做什么？
+
+- 哈克拉格
+  证明理论……遗传道德……我是对的。
+
+- 你为什么被杀？
+
+- 哈克拉格
+  粗心……跳过了……预防性终止。
+
+- 你的杀手现在在哪里？
+
+- 旁白
+  _尸体保持沉默。它不知道。_
+
+---
+*Source: [Havkelaag](https://bg3.wiki/wiki/Havkelaag)*

@@ -1,0 +1,161 @@
+# 阿尔弗的宅邸
+
+## [利文顿](Rivington.md "利文顿")
+
+[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")
+↑
+| [利文顿](Rivington.md "利文顿") |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊") |  |  |  |  |
+| ↑ |  |  |  |  |
+| [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") | ← | 阿尔弗的宅邸 | → | [强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓") |
+|  |  |  |  |  |
+**阿尔弗的宅邸**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中位于[利文顿](Rivington.md "利文顿")的一个[地点](Location.md "地点")。
+
+> “
+>
+> 如果你有个管家看管房子，这一切就都不会发生了。
+>
+> „
+
+— [邪念](Dark_Urge.md "邪念")角色对冲突的看法
+
+## 目录
+
+- [1 概述](#overview)
+  - [1.1 与擅自占地者的冲突](#conflict-with-the-squatters)
+  - [1.2 宅邸内部](#inside-the-mansion)
+    - [1.2.1 工作室与地下室](#workshop-and-basement)
+  - [1.3 废弃的侧屋](#abandoned-sidehouse)
+  - [1.4 周边的其他遭遇](#other-encounters-around)
+- [2 相关地点](#related-locations)
+- [3 相关任务](#related-quests)
+- [4 角色](#characters)
+  - [4.1 难民](#refugees)
+  - [4.2 利文顿鼠帮](#rivington-rats)
+  - [4.3 宅邸外部](#outside-the-mansion)
+- [5 战利品](#loot)
+- [6 相关文献](#related-literature)
+- [7 注释与参考](#notes-and-references)
+
+## 概述
+
+阿尔弗的宅邸是一座位于 X: 11 Y: -95 的大型两层建筑，就在首次进入利文顿后主干道的对面。此外，也可以通过 X: 26 Y: -100 和 X: 1 Y: -77 的小路从两侧接近宅邸入口。
+
+房子有两个入口：正门处，其主人正与一户难民家庭陷入争论（见下文）；以及 X: 20 Y: -78 处小露台的一扇门，如果小心接近，可以利用这扇门在不介入冲突的情况下调查房屋内部。
+
+这座宅邸是[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")的家，他是一位富商，返回利文顿后发现自己的领地被擅自占地者占据。当队伍接近时，会触发过场动画，阿尔弗试图借助一小群名为“利文顿鼠帮”的土匪来解决局面，他雇佣了这群人来守卫载有货物的商队。
+
+### 与擅自占地者的冲突
+
+抵达时，队伍会发现阿尔弗正在与擅自占地者家庭的家长[本·戈莱维茨](Ben_Golewits.md "本·戈莱维茨")争论，威胁要在利文顿鼠帮的帮助下强行驱逐他们，鼠帮由[泽诺维娅·道格](Zenovia_Dawg.md "泽诺维娅·道格")领导。
+
+队伍有多种解决冲突的选项，需要进行各种属性检定。特定对话选项和检定难度取决于玩家角色的职业。他们也可以尝试通过[侦测思想](Detect_Thoughts.md "侦测思想")或事先调查建筑来找出阿尔弗为何如此急于将难民赶出房子。
+
+如果队伍说服商人让难民留下，他们还必须站出来对抗那些对队伍插手此事不满的土匪。队伍可以付钱打发暴徒，或者[威吓](Intimidation.md "威吓")他们离开。
+
+如果队伍成功读取了阿尔弗的思想，或者调查了宅邸（尤其是地下室），他们可以尝试就此审问他。在这种情况下（以及侦测思想检定失败时）<sup>[\[1\]](#cite_note-1)</sup>，阿尔弗会立即支付泽诺维娅所要求的额外金钱，并与利文顿鼠帮开始战斗。如果在对话开始前预先扒窃阿尔弗的金币，可以避免这场战斗。如果阿尔弗身上没有钱，泽诺维娅和她的暴徒会离开，但这种结果会使冲突悬而未决。
+
+以某种方式解决冲突可能获得以下一项或多项激励点：
+
+- ⁠[行使审判](Noble.md#Exerting_Judgement "贵族")（[贵族](Noble.md "贵族")背景）——无论以何种方式结束冲突<sup>[\[2\]](#cite_note-2)</sup>
+- ⁠[捡到归己](Urchin.md#Finders_Keepers "流浪儿")（[流浪儿](Urchin.md "流浪儿")背景）——支持擅自占地者
+- ⁠[多数之需](Acolyte.md#Needs_of_the_Many "侍僧")（[侍僧](Acolyte.md "侍僧")背景）——如果阿尔弗被说服让他们留下
+- ⁠[确保款待](Folk_Hero.md#Securing_Hospitality "平民英雄")（[平民英雄](Folk_Hero.md "平民英雄")背景）——拯救擅自占地者免于被驱逐
+
+如果提出以低于利文顿鼠帮要求的价格驱逐擅自占地者，拥有[罪犯](Criminal.md "罪犯")背景的角色将获得激励点[供需法则](Criminal.md#Supply_and_Demand "罪犯")。
+
+试图将擅自占地者家庭赶出宅邸（无论检定结果如何）对于[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")圣武士和[奉献之誓](Oath_of_Devotion.md "奉献之誓")圣武士而言，如果由圣武士角色与本谈论此事，则被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
+
+### 宅邸内部
+
+宅邸内部有三层：底层有大厅、厨房和工作室；上层有阿尔弗的卧室；以及地下室。
+
+如果允许擅自占地者留下，父母会留在大厅里闲聊，而他们的女儿[辛塔·戈莱维茨](Cinta_Golewits.md "辛塔·戈莱维茨")则在厨房里。如果队伍选择驱赶他们，阿尔弗会留在大厅，而[马尔帕·戈莱维茨](Marpha_Golewits.md "马尔帕·戈莱维茨")和辛塔则会消失。
+
+无论如何，大厅和厨房内的所有容器都标有红色轮廓；掠夺它们被视为非法侵入（难民会像房主一样对此做出反应）。厨房 X: 32 Y: -61 处的瓶子架上放着[玩具之家的钥匙](Toymaker's_House_Key.md "玩具之家的钥匙")，可以打开楼上的卧室门。否则，卧室门可以用 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")撬开。
+
+楼上，书桌里有金币，卧室书架上的一排书里放着[玩具商的地下室钥匙](Toymaker's_Basement_Key.md "玩具商的地下室钥匙")，可以打开工作室的活板门。此外，书桌里的[信件草稿](Letter_to_Mamzell_Amira_(draft).md "致马泽尔·阿米拉的信（草稿）")暗示了如果冲突以有利于擅自占地者的方式解决，可以在哪里找到阿尔弗。
+
+#### 工作室与地下室
+
+房子北侧的双开门通向阿尔弗的工作室，他在那里制作玩具。房间可以掠夺到几块[火焰琥珀](Fire_Amber.md "火焰琥珀")、木箱里的随机珍贵宝石，以及一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")。部分被地毯和板条箱遮挡的是一个活板门，通过 DC 10 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")可以发现，它通向地下室。可以用卧室里的*玩具商的地下室钥匙*打开。否则，需要 DC 18 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁。
+
+地下室的主要区域像一个小迷宫，路径上布置了[绊绳](Tripwire.md "绊绳")和烟花陷阱；这些可以通过察觉检定暴露出来。地下室最远的部分是另一个工作室，里面有一个上锁且设有陷阱的金属箱子（需要 DC 15 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来解除陷阱，DC 20 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁），里面装着金币和一封信[勒索信](Blackmail_Letter.md "勒索信")，这封信会开始或推进任务[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")。
+
+地下室工作室可以掠夺到更多火焰琥珀、两箱烟花、一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")和一套[盗贼工具](Thieves'_Tools.md "盗贼工具")。此外，每个成功解除的烟花陷阱都会为角色的物品栏添加一个[飞火花](Wogglims.md "飞火花")。
+
+### 废弃的侧屋
+
+这座小房子看起来像是宅邸的另一部分，但实际上与之并不相连。无法通过这座侧屋潜入阿尔弗的宅邸。
+
+其上锁的入口位于 X: 20 Y: -56（需要 DC 15 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁）。内部，在壁炉附近会进行一次被动 DC 15 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")，以找到[废屋宝箱钥匙](Abandoned_House_Chest_Key.md "废屋宝箱钥匙")。这把钥匙用于打开下一个房间中一个设有陷阱且上锁的箱子，里面装着金币和一支随机箭矢。没有钥匙的话，箱子需要 DC 15 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")来发现陷阱，DC 15 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来解除陷阱，以及 DC 20 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁。
+
+入口附近桌子上的[笔记](Beloved_Sons.md "挚爱的儿子")解释了房子为何空置。在远处角落的橱柜架子上可以找到一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")。
+
+### 周边的其他遭遇
+
+宅邸周围放置了几个 NPC 小插曲。
+
+- 两个矮人女性，[索拉斯](Solras.md "索拉斯")和[尼斯万](Nisvan.md "尼斯万")，正在争论难民涌入城镇的事。尼斯万有一个关于难民的商业想法，而索拉斯则试图劝她放弃。
+- 一户难民家庭，[菲尔·巴拉希亚](Fyl_Baragezian.md "菲尔·巴拉希亚")和[诺纳·巴拉希亚](Nonah_Baragezian.md "诺纳·巴拉希亚")正试图说服他们的儿子[查尔](Charl_Baragezian.md "查尔·巴拉希亚")继续前往[博德之门](Baldur's_Gate.md "博德之门")的旅程。
+
+## 相关地点
+
+- ⁠[利文顿](Rivington.md "利文顿")
+- ⁠[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")
+- ⁠[费洛杰尔烟花铺](Felogyr's_Fireworks.md "费洛杰尔烟花铺")
+- ⁠[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")
+- ⁠[飞龙岩监狱](Wyrm's_Rock_Prison.md "飞龙岩监狱")
+
+## 相关任务
+
+- ⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")
+
+## 角色
+
+- [阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")
+
+#### 难民
+
+- [本·戈莱维茨](Ben_Golewits.md "本·戈莱维茨")
+- [辛塔·戈莱维茨](Cinta_Golewits.md "辛塔·戈莱维茨")
+- [马尔帕·戈莱维茨](Marpha_Golewits.md "马尔帕·戈莱维茨")
+
+#### 利文顿鼠帮
+
+- [泽诺维娅·道格](Zenovia_Dawg.md "泽诺维娅·道格")
+- [溯源者迪普斯](Dimples_Backster.md "溯源者迪普斯")
+- [欢乐的克朗](Gleeful_Clong.md "欢乐的克朗")
+- [斯卡珀斯](Scarpers.md "斯卡珀斯")
+
+#### 宅邸外部
+
+- [查尔·巴拉希亚](Charl_Baragezian.md "查尔·巴拉希亚")
+- [菲尔·巴拉希亚](Fyl_Baragezian.md "菲尔·巴拉希亚")
+- [诺纳·巴拉希亚](Nonah_Baragezian.md "诺纳·巴拉希亚")
+- [尼斯万](Nisvan.md "尼斯万")
+- [索拉斯](Solras.md "索拉斯")
+
+## 战利品
+
+- [一箱奇火烟花](Box_of_Oddfire_Fireworks.md "一箱奇火烟花") - x2
+- [火焰琥珀](Fire_Amber.md "火焰琥珀") - 至少 x5
+- [解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包") - x3
+- [飞火花](Wogglims.md "飞火花") - 至少 x24
+
+## 相关文献
+
+- [阿尔弗的冥思随想](Arfur's_Private_Musings.md "阿尔弗的冥思随想")
+- [挚爱的儿子](Beloved_Sons.md "挚爱的儿子")
+- [勒索信](Blackmail_Letter.md "勒索信")
+- [捐赠指南](Instructions_for_Donation.md "捐赠指南")
+- [致马泽尔·阿米拉的信（草稿）](Letter_to_Mamzell_Amira_(draft).md "致马泽尔·阿米拉的信（草稿）")
+
+## 注释与参考
+
+1. [↑](#cite_ref-1) 如果读取阿尔弗思想的属性检定失败，进行互动的玩家角色仍可尝试通过掷出 DC 15 的[欺瞒](Deception.md "欺瞒")[检定](Ability_Check.md "属性检定")来纠正事态。如果成功，他们会将责任推给本·戈莱维茨，阿尔弗则命令暴徒攻击难民。
+2. [↑](#cite_ref-2) 如果玩家角色招募利文顿鼠帮驱赶难民，则不会获得此激励点。
+
+---
+*Source: [Arfur's Mansion](https://bg3.wiki/wiki/Arfur's_Mansion)*

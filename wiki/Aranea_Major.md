@@ -1,0 +1,255 @@
+# 毒蛛座
+
+## 毒蛛座
+
+- 模型
+- 肖像画
+
+## 属性
+
+### 体型
+
+中级
+
+### 类型
+
+[野兽](Beast.md "野兽")
+
+### 种族
+
+[蜘蛛](Spider.md "蜘蛛")
+
+- 平衡
+- 探索者
+
+## 平衡难度属性
+
+### 等级
+
+5
+
+### 生命值
+
+24
+
+### 护甲等级
+
+18
+
+### 先攻
+
++4
+
+### 熟练项
+
++3
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+120 千克 (240 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 18 / (+4) | 13 / (+1) | 3 / (-4) | 12 / (+1) | 4 / (-3) |
+
+## 特性
+
+- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+
+获得等于其熟练项加值的护甲等级和伤害加值。
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+
+对游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
+
+- [**蛛网行者**](Web_Walker.md "蛛网行者")
+
+不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
+
+## 探索者难度属性
+
+### 等级
+
+5
+
+### 生命值
+
+48
+
+### 护甲等级
+
+20
+
+### 先攻
+
++4
+
+### 熟练项
+
++5
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+120 千克 (240 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +1 | +4 | +1 | -4 | +1 | -3 |
+
+## 特性
+
+- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+
+获得等于其熟练项加值的护甲等级和伤害加值。
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+
+对游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
+
+- [**蛛网行者**](Web_Walker.md "蛛网行者")
+
+不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
+
+## 技术
+
+###
+
+UID
+
+`SpiderCompanion_Summon_CompanionsBond` ###
+
+UUID
+
+`e3161996-d439-45ff-a42a-3fdb3f76b9f4` ###
+
+属性
+
+`Companion_GiantSpider_5` ## 变体 1
+
+###
+
+UID
+
+`SpiderCompanion_Summon_ExceptionalTraining` ###
+
+UUID
+
+`79d2361b-32d4-4a8e-9f95-531a214600ce` ###
+
+属性
+
+`Companion_GiantSpider_7` ## 变体 2
+
+###
+
+UID
+
+`SpiderCompanion_Summon_8` ###
+
+UUID
+
+`dc33b3a3-60ba-462b-9dd2-f8327491c7db` ###
+
+属性
+
+`SpiderCompanion_Summon_8` **毒蛛座**是通过[驯兽师](Beast_Master.md "驯兽师")的[狼蛛伙伴](Wolf_Spider_Companion.md "狼蛛伙伴")能力召唤的[蜘蛛](Spider.md "蜘蛛")，是[游侠伙伴](Ranger's_Companion.md "游侠伙伴")的变体。当驯兽师达到 5 级时，毒蛛座会从[园蛛](Aranea.md "园蛛")升级而来，并在驯兽师达到 11 级时变为[螯刺蛛](Aranea_Aculeata.md "螯刺蛛")。
+
+## 目录
+
+- [1 战斗](#combat)
+  - [1.1 攻击与能力](#attacks-and-abilities)
+  - [1.2 更高等级](#at-higher-levels)
+    - [1.2.1 等级 7](#level-7)
+    - [1.2.2 等级 8](#level-8)
+
+## 战斗
+
+### 攻击与能力
+
+[茧缚](Cocoon.md "茧缚") ()
+| 运动 | 体操 | 察觉技能 |
+| --- | --- | --- |
+| 1 | 4 | 6 |
+
+用蛛网困住一个生物，使其[茧缚](Cocooned_(Condition).md "茧缚 (状态)")。
+
+[猛毒之噬](Venomous_Bite_(Wolf_Spider_Companion).md "猛毒之噬 (狼蛛伙伴)") ()
+
+伤害：5~12
+
+1d8 + 4⁠[穿刺](Piercing.md "穿刺")
+
+| 运动 | 体操 | 察觉技能 |
+| --- | --- | --- |
+| 1 | 4 | 6 |
+
+啃咬目标，造成 1d8 + 敏捷调整值[穿刺](Piercing.md "穿刺")伤害，并可能使其[中毒](Poisoned_(Condition).md "中毒 (状态)")。
+
+喷出浓密、易燃的蛛网，减速范围内的生物，并可能使其[网缚](Enwebbed_(Condition).md "网缚 (状态)")。
+
+[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+范围：18 米 (60 英尺)
+
+由于[猎物的气味](Prey's_Scent.md "猎物的气味")被动特性，驯兽师游侠可能希望攻击被[猎人印记](Hunter's_Mark.md "猎人印记")标记的目标以获得最佳伤害。
+
+### 更高等级
+
+随着游侠等级提升，毒蛛座也会成长，直到在 11 级进化为螯刺蛛：
+
+#### 等级 7
+
+- 天狼座获得被动特性[训练有素](Exceptional_Training.md "训练有素")，使其获得：
+
+[疾走](Dash_(bonus_action).md "疾走 (附赠动作)") ()
+本回合移动更远距离：移动速度翻倍。
+
+范围：自身
+
+[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作") ()
+安全撤退。移动不会引发[借机攻击](Attack_of_Oportunity.md "借机攻击")。
+
+范围：自身
+
+[协助](Help_(bonus_action).md "协助 (附赠动作)") ()
+协助需要帮助的盟友。移除[燃烧](Burning_(Condition).md "燃烧 (状态)")、[倒地](Downed_(Condition).md "倒地 (状态)")、\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕 (缠绕打击) (状态)")、[缠绕](Entangled_(Condition).md "缠绕 (状态)")、[网缚](Enwebbed_(Condition).md "网缚 (状态)")、[倒伏](Prone_(status_group).md)、[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
+
+范围：1.5 米 (5 英尺)
+
+#### 等级 8
+
+- 毒蛛座有 42 [生命值](Hit_Points.md "生命值")（探索者难度为 84）和 18 [护甲等级](Armour_Class.md "护甲等级")。
+
+---
+*Source: [Aranea Major](https://bg3.wiki/wiki/Aranea_Major)*

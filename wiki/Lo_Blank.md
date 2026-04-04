@@ -1,0 +1,276 @@
+# 洛·布兰克
+
+## 洛·布兰克
+
+- 游戏内
+- 肖像画
+
+### 身份
+
+女性
+
+### 声音 / 演员
+
+- [娜塔莎·阿瑟顿](https://www.imdb.com/name/nm5442932/)
+
+### 阵营
+
+[公会](The_Guild.md "The Guild")
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "Medium")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[人类](Human.md "Human")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+5
+
+### 生命值
+
+28
+
+### 护甲等级
+
+13
+
+### 先攻
+
++3
+
+### 熟练项
+
++3
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 12 / (+1) | 15 / (+2) | 10 / (0) |
+
+## 额外资源
+
+- - ## 特性
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+5
+
+### 生命值
+
+19
+
+### 护甲等级
+
+13
+
+### 先攻
+
++3
+
+### 熟练项
+
++5
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +4 | +6 | +1 | +1 | +2 | 0 |
+
+## 额外资源
+
+- - ## 特性
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+5
+
+### 生命值
+
+36
+
+### 护甲等级
+
+13
+
+### 先攻
+
++3
+
+### 熟练项
+
++3
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 运动 | 体操 | 察觉技能 |
+| --- | --- | --- | --- |
+|  | 1 | 3 | 2 |
+
+## 额外资源
+
+- - ## 特性
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_LOW_GuildSmugglers_Guard_002` ###
+
+UUID
+
+`8be5ed10-a4e2-41e9-839f-cdaa6c4d340c` ###
+
+属性
+
+`LOW_GuildSmugglers_Guard_02` **洛·布兰克**是[第三幕](Act_Three.md "Act Three")期间[比格·惠度](Huido.md "Huido")帮派中的一名走私者。
+
+> “
+>
+> 嘿，帅哥——我建议我们去“女仆”酒吧，但女孩得工作。也许下次吧。
+>
+> „
+
+— 洛·布兰克
+
+## 目录
+
+- [1 参与情况](#involvement)
+  - [1.1 第三幕](#act-three)
+- [2 战斗](#combat)
+  - [2.1 攻击与能力](#attacks-and-abilities)
+- [3 外部链接](#external-links)
+
+## 参与情况
+
+### 第三幕
+
+洛·布兰克可以在[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")的[灰色港口码头](Grey_Harbour_Docks.md "Grey Harbour Docks")找到。
+
+## 战斗
+
+### 攻击与能力
+
+[备战（远程）](Brace_(Ranged).md "Brace (远程)") () – [长弓](Longbow.md "Longbow")
+消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")。在本回合剩余时间内，投掷两次远程伤害并取最高值。
+
+充能：[短休](Short_rest.md "Short rest")
+
+[腿筋射击](Hamstring_Shot.md "Hamstring Shot") () – [长弓](Longbow.md "Longbow")
+
+伤害：4~11
+
+1d8 + 3⁠[穿刺](Piercing.md "Piercing")
+
+射击敌人的大腿，并可能使其[移动速度](Movement_speed.md "Movement speed")降低 50%。
+
+[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+射程：正常武器射程
+充能：[短休](Short_rest.md "Short rest")
+
+[远程攻击](Ranged_Attack.md "Ranged Attack") () – [长弓](Longbow.md "Longbow")
+
+伤害：4~11
+
+1d8 + 3⁠[穿刺](Piercing.md "Piercing")
+
+使用装备的武器进行远程攻击。
+
+射程：18 米 (60 英尺)
+
+## 外部链接
+
+⁠[洛·布兰克](https://forgottenrealms.fandom.com/wiki/Lo_Blank) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Lo Blank](https://bg3.wiki/wiki/Lo_Blank)*

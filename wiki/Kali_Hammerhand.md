@@ -1,0 +1,292 @@
+# 卡利·哈默汉德
+
+## 卡利·哈默汉德
+
+- 游戏内
+- 肖像画
+
+### 身份
+
+女性
+
+### 声音 / 演员
+
+- [Amina Koroma](https://www.imdb.com/name/nm13339876/)
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "Medium")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[矮人](Dwarf.md "Dwarf")
+
+### 亚种
+
+[黄金矮人](Gold_Dwarf.md "Gold Dwarf")
+
+- 平衡
+- 探索者
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+8
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++2
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+能在黑暗中看到一定距离。
+
+- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+
+在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有[优势](Advantage.md "Advantage")，并具有对[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+5
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++4
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+能在黑暗中看到一定距离。
+
+- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+
+在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有[优势](Advantage.md "Advantage")，并具有对[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+10
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++2
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+
+能在黑暗中看到一定距离。
+
+- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+
+在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有[优势](Advantage.md "Advantage")，并具有对[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_WYR_FoodDrive_Dwarves` ###
+
+UUID
+
+`c5b8e813-675c-4d8d-ae3d-8f75df76af55` ###
+
+属性
+
+`Dwarf_Commoner` **卡利·哈默汉德**正在[飞龙关](Wyrm's_Crossing.md "飞龙关")购买补给品，处于[第三幕](Act_Three.md "第三幕")。
+
+> “
+>
+> 如果你是来购物的，就买需要的东西，好吗？_有些_人在恐慌性抢购。我们可别火上浇油。
+>
+> „
+
+— 卡利·哈默汉德
+
+## 参与情况
+
+### 第三幕
+
+在[绝对者](Absolute.md "绝对者")对[利文顿](Rivington.md "利文顿")的袭击失败后，卡利和[尼诺·奎尔托普](Neno_Quilltop.md "尼诺·奎尔托普")正在飞龙关购买补给品。卡利试图安抚恐慌性购物的尼诺，只购买必需品。
+
+## 闲置对话
+
+可以听到卡利和尼诺在决定购买什么。
+
+- 尼诺·奎尔托普
+  苹果、面包、黄油——蜂蜜！我们应该囤货。
+
+- 卡利·哈默汉德
+  蜂蜜是奢侈品。我们不需要蜂蜜。
+
+- 尼诺·奎尔托普
+  但我爱蜂蜜。我太爱蜂蜜了。
+
+- 卡利·哈默汉德
+  哇，慢点，亲爱的。为我深呼吸，好吗？
+
+- 卡利·哈默汉德
+  十条面包？你确定？
+
+- 尼诺·奎尔托普
+  邻居说他们有十五条！
+
+- 卡利·哈默汉德
+  邻居在胡说八道。而且我们的食品储藏室_满满的_。
+
+- 尼诺·奎尔托普
+  如果食物短缺怎么办？_配给？_我们可不能冒险！
+
+- 卡利·哈默汉德
+  如果这能让你感觉好些，那好吧——就买十五条面包。
+
+- 尼诺·奎尔托普
+  我们接下来应该去利文顿——他们可能有我们忘记的东西。
+
+- 卡利·哈默汉德
+  比如什么？
+
+- 尼诺·奎尔托普
+  我不知道——但我看到就知道了！
+
+- 卡利·哈默汉德
+  我们还是按清单来吧。
+
+- 尼诺·奎尔托普
+  如果绝对者的军队围城，他们才不会管什么愚蠢的清单。我们必须做好准备！
+
+- 卡利·哈默汉德
+  无论我们需要什么，在飞龙关都能买到。
+
+---
+*Source: [Kali Hammerhand](https://bg3.wiki/wiki/Kali_Hammerhand)*

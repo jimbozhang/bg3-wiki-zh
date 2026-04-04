@@ -1,0 +1,4688 @@
+{
+  "MovementSpeed": {
+    "Name": "MovementSpeed",
+    "Type": null,
+    "DisplayName": "Movement Speed",
+    "DisplayNameCHS": "移动速度"
+  },
+  "CriticalHit": {
+    "Name": "CriticalHit",
+    "Type": null,
+    "DisplayName": "Critical Hit",
+    "DisplayNameCHS": "重击"
+  },
+  "BonusActionPoint": {
+    "Name": "BonusActionPoint",
+    "Type": "ActionResource",
+    "DisplayName": "bonus action",
+    "DisplayNameCHS": "附赠动作"
+  },
+  "MAG_FIRE_HEAT": {
+    "Name": "MAG_FIRE_HEAT",
+    "Type": "Status",
+    "DisplayName": "Heat",
+    "DisplayNameCHS": "灼热"
+  },
+  "ReactionActionPoint": {
+    "Name": "ReactionActionPoint",
+    "Type": "ActionResource",
+    "DisplayName": "reaction",
+    "DisplayNameCHS": "反应"
+  },
+  "SavingThrow": {
+    "Name": "SavingThrow",
+    "Type": null,
+    "DisplayName": "Saving Throw",
+    "DisplayNameCHS": "豁免检定"
+  },
+  "Projectile_CorrosiveSpit_Dilophosaurus": {
+    "Name": "Projectile_CorrosiveSpit_Dilophosaurus",
+    "Type": "Spell",
+    "DisplayName": "Corrosive Spit",
+    "DisplayNameCHS": "腐蚀唾液"
+  },
+  "ArmourClass": {
+    "Name": "ArmourClass",
+    "Type": null,
+    "DisplayName": "Armour Class",
+    "DisplayNameCHS": "护甲等级"
+  },
+  "Target_Web_Spider_Summon": {
+    "Name": "Target_Web_Spider_Summon",
+    "Type": "Spell",
+    "DisplayName": "Webs",
+    "DisplayNameCHS": "蛛网"
+  },
+  "POISONED": {
+    "Name": "POISONED",
+    "Type": "Status",
+    "DisplayName": "Poison",
+    "DisplayNameCHS": "中毒"
+  },
+  "Target_Bite_GiantSpider_Summon": {
+    "Name": "Target_Bite_GiantSpider_Summon",
+    "Type": "Spell",
+    "DisplayName": "Bite",
+    "DisplayNameCHS": "啃咬"
+  },
+  "Target_FreezingStrike_Myrmidon_Water": {
+    "Name": "Target_FreezingStrike_Myrmidon_Water",
+    "Type": "Spell",
+    "DisplayName": "Hiemal Strike",
+    "DisplayNameCHS": "寒冬打击"
+  },
+  "Shout_HealingMist_Myrmidon_Water": {
+    "Name": "Shout_HealingMist_Myrmidon_Water",
+    "Type": "Spell",
+    "DisplayName": "Healing Vapours",
+    "DisplayNameCHS": "治愈薄雾"
+  },
+  "Projectile_ExplosiveIcicle_Myrmidon_Water": {
+    "Name": "Projectile_ExplosiveIcicle_Myrmidon_Water",
+    "Type": "Spell",
+    "DisplayName": "Explosive Icicle",
+    "DisplayNameCHS": "三棱冰柱"
+  },
+  "ShortRest": {
+    "Name": "ShortRest",
+    "Type": null,
+    "DisplayName": "Short Rest",
+    "DisplayNameCHS": "短休"
+  },
+  "AttackRoll": {
+    "Name": "AttackRoll",
+    "Type": null,
+    "DisplayName": "Attack Rolls",
+    "DisplayNameCHS": "攻击掷骰"
+  },
+  "AbilityCheck": {
+    "Name": "AbilityCheck",
+    "Type": null,
+    "DisplayName": "Ability Checks",
+    "DisplayNameCHS": "检定"
+  },
+  "INCAPACITATED": {
+    "Name": "INCAPACITATED",
+    "Type": "Status",
+    "DisplayName": "incapacitated",
+    "DisplayNameCHS": "失能"
+  },
+  "Target_Help": {
+    "Name": "Target_Help",
+    "Type": "Spell",
+    "DisplayName": "Help",
+    "DisplayNameCHS": "协助"
+  },
+  "HitPoints": {
+    "Name": "HitPoints",
+    "Type": null,
+    "DisplayName": "hit points",
+    "DisplayNameCHS": "生命值"
+  },
+  "Disadvantage": {
+    "Name": "Disadvantage",
+    "Type": null,
+    "DisplayName": "Disadvantage",
+    "DisplayNameCHS": "劣势"
+  },
+  "Target_ImprovedMinorIllusion": {
+    "Name": "Target_ImprovedMinorIllusion",
+    "Type": "Spell",
+    "DisplayName": "Minor Illusion",
+    "DisplayNameCHS": "初级幻影"
+  },
+  "PRONE": {
+    "Name": "PRONE",
+    "Type": "Status",
+    "DisplayName": "Prone",
+    "DisplayNameCHS": "倒伏"
+  },
+  "ElementalAffinity_Resistance_Check": {
+    "Name": "ElementalAffinity_Resistance_Check",
+    "Type": "Passive",
+    "DisplayName": "Elemental Affinity",
+    "DisplayNameCHS": "元素亲和"
+  },
+  "LongRest": {
+    "Name": "LongRest",
+    "Type": null,
+    "DisplayName": "Long Rest",
+    "DisplayNameCHS": "长休"
+  },
+  "INFECTIOUS_BITE_WOLF": {
+    "Name": "INFECTIOUS_BITE_WOLF",
+    "Type": "Status",
+    "DisplayName": "Septic",
+    "DisplayNameCHS": "败血症"
+  },
+  "RAGE": {
+    "Name": "RAGE",
+    "Type": "Status",
+    "DisplayName": "Raging",
+    "DisplayNameCHS": "狂暴"
+  },
+  "Projectile_DivingStrike": {
+    "Name": "Projectile_DivingStrike",
+    "Type": "Spell",
+    "DisplayName": "Diving Strike",
+    "DisplayNameCHS": "俯冲突袭"
+  },
+  "OpportunityAttack": {
+    "Name": "OpportunityAttack",
+    "Type": null,
+    "DisplayName": "Opportunity Attacks",
+    "DisplayNameCHS": "借机攻击"
+  },
+  "Shout_Dash": {
+    "Name": "Shout_Dash",
+    "Type": "Spell",
+    "DisplayName": "Dash",
+    "DisplayNameCHS": "疾走"
+  },
+  "BLINDED": {
+    "Name": "BLINDED",
+    "Type": "Status",
+    "DisplayName": "Blinded",
+    "DisplayNameCHS": "目盲"
+  },
+  "LOW_FATHERCARRION_GREATERCURSE_3": {
+    "Name": "LOW_FATHERCARRION_GREATERCURSE_3",
+    "Type": "Status",
+    "DisplayName": "Mystic Carrion's Restraining Curse",
+    "DisplayNameCHS": "秘术师卡里翁的束缚诅咒"
+  },
+  "Target_LOW_DeathbringerAssault_Orin": {
+    "Name": "Target_LOW_DeathbringerAssault_Orin",
+    "Type": "Spell",
+    "DisplayName": "Deathbringer Assault",
+    "DisplayNameCHS": "死亡使者袭击"
+  },
+  "SURPRISED": {
+    "Name": "SURPRISED",
+    "Type": "Status",
+    "DisplayName": "Surprised",
+    "DisplayNameCHS": "受惊"
+  },
+  "LOW_OSKARSBELOVED_AURA_DISADVANTAGE": {
+    "Name": "LOW_OSKARSBELOVED_AURA_DISADVANTAGE",
+    "Type": "Status",
+    "DisplayName": "Harrowed",
+    "DisplayNameCHS": "痛苦"
+  },
+  "TemporaryHitPoints": {
+    "Name": "TemporaryHitPoints",
+    "Type": null,
+    "DisplayName": "temporary hit points",
+    "DisplayNameCHS": "临时生命值"
+  },
+  "Target_InstinctiveCharm": {
+    "Name": "Target_InstinctiveCharm",
+    "Type": "Spell",
+    "DisplayName": "Instinctive Charm",
+    "DisplayNameCHS": "直觉魅惑"
+  },
+  "FRIGHTENED": {
+    "Name": "FRIGHTENED",
+    "Type": "Status",
+    "DisplayName": "Frightened",
+    "DisplayNameCHS": "恐慌"
+  },
+  "Target_Scare_Quasit_Summon": {
+    "Name": "Target_Scare_Quasit_Summon",
+    "Type": "Spell",
+    "DisplayName": "Scare",
+    "DisplayNameCHS": "恐吓"
+  },
+  "SpellcastingAbilityModifier": {
+    "Name": "SpellcastingAbilityModifier",
+    "Type": null,
+    "DisplayName": "Spellcasting Modifier",
+    "DisplayNameCHS": "施法调整值"
+  },
+  "Wisdom": {
+    "Name": "Wisdom",
+    "Type": null,
+    "DisplayName": "Wisdom",
+    "DisplayNameCHS": "感知"
+  },
+  "Advantage": {
+    "Name": "Advantage",
+    "Type": null,
+    "DisplayName": "Advantage",
+    "DisplayNameCHS": "优势"
+  },
+  "Resistant": {
+    "Name": "Resistant",
+    "Type": null,
+    "DisplayName": "Resistance",
+    "DisplayNameCHS": "抗性"
+  },
+  "WEAPON_BOND": {
+    "Name": "WEAPON_BOND",
+    "Type": "Status",
+    "DisplayName": "Bound",
+    "DisplayNameCHS": "誓缚"
+  },
+  "PACT_BLADE": {
+    "Name": "PACT_BLADE",
+    "Type": "Status",
+    "DisplayName": "Pact Weapon",
+    "DisplayNameCHS": "魔契武器"
+  },
+  "PHANTASMAL_FORCE": {
+    "Name": "PHANTASMAL_FORCE",
+    "Type": "Status",
+    "DisplayName": "Phantasmal Force",
+    "DisplayNameCHS": "魅影之力"
+  },
+  "Vulnerable": {
+    "Name": "Vulnerable",
+    "Type": null,
+    "DisplayName": "Vulnerable",
+    "DisplayNameCHS": "易伤"
+  },
+  "ProficiencyBonus": {
+    "Name": "ProficiencyBonus",
+    "Type": null,
+    "DisplayName": "Proficiency Bonus",
+    "DisplayNameCHS": "熟练项加值"
+  },
+  "Dexterity": {
+    "Name": "Dexterity",
+    "Type": null,
+    "DisplayName": "Dexterity",
+    "DisplayNameCHS": "敏捷"
+  },
+  "BANE": {
+    "Name": "BANE",
+    "Type": "Status",
+    "DisplayName": "Bane",
+    "DisplayNameCHS": "灾祸术"
+  },
+  "Immune": {
+    "Name": "Immune",
+    "Type": null,
+    "DisplayName": "Immune",
+    "DisplayNameCHS": "免疫"
+  },
+  "Target_Devour_ShadowMound": {
+    "Name": "Target_Devour_ShadowMound",
+    "Type": "Spell",
+    "DisplayName": "Devour",
+    "DisplayNameCHS": "吞噬"
+  },
+  "RESTRAINED": {
+    "Name": "RESTRAINED",
+    "Type": "Status",
+    "DisplayName": "Restrained",
+    "DisplayNameCHS": "束缚"
+  },
+  "DIGESTIVE_SAP": {
+    "Name": "DIGESTIVE_SAP",
+    "Type": "Status",
+    "DisplayName": "Digestive Juices",
+    "DisplayNameCHS": "消化液"
+  },
+  "Target_LOW_Raphael_Multiattack": {
+    "Name": "Target_LOW_Raphael_Multiattack",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "LOW_RAPHAEL_MONSTER_FORM": {
+    "Name": "LOW_RAPHAEL_MONSTER_FORM",
+    "Type": "Status",
+    "DisplayName": "Ascended Fiend",
+    "DisplayNameCHS": "进化邪魔"
+  },
+  "BANISHED": {
+    "Name": "BANISHED",
+    "Type": "Status",
+    "DisplayName": "Banish",
+    "DisplayNameCHS": "放逐"
+  },
+  "HINDERED": {
+    "Name": "HINDERED",
+    "Type": "Status",
+    "DisplayName": "Weak Grip",
+    "DisplayNameCHS": "弱腕"
+  },
+  "SpellSlot": {
+    "Name": "SpellSlot",
+    "Type": null,
+    "DisplayName": "spell slots",
+    "DisplayNameCHS": "法术位"
+  },
+  "Target_AnimateDead": {
+    "Name": "Target_AnimateDead",
+    "Type": "Spell",
+    "DisplayName": "Animate Dead",
+    "DisplayNameCHS": "操纵死尸"
+  },
+  "CONFUSION": {
+    "Name": "CONFUSION",
+    "Type": "Status",
+    "DisplayName": "Confusion",
+    "DisplayNameCHS": "困惑 "
+  },
+  "Projectile_SteelWatcher_Biped_SelfDestructExplosion": {
+    "Name": "Projectile_SteelWatcher_Biped_SelfDestructExplosion",
+    "Type": "Spell",
+    "DisplayName": "Self-Detonation",
+    "DisplayNameCHS": "自爆"
+  },
+  "SHOCKED": {
+    "Name": "SHOCKED",
+    "Type": "Status",
+    "DisplayName": "Shock",
+    "DisplayNameCHS": "感电"
+  },
+  "RangedWeaponAttack": {
+    "Name": "RangedWeaponAttack",
+    "Type": null,
+    "DisplayName": "ranged weapon attacks",
+    "DisplayNameCHS": "远程武器攻击"
+  },
+  "DIFFICULT_TERRAIN": {
+    "Name": "DIFFICULT_TERRAIN",
+    "Type": "Status",
+    "DisplayName": "Difficult Terrain",
+    "DisplayNameCHS": "劣势地形"
+  },
+  "AbilityModifier": {
+    "Name": "AbilityModifier",
+    "Type": null,
+    "DisplayName": "Modifier",
+    "DisplayNameCHS": "调整值"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Can only have <LSTag Tooltip=\"TemporaryHitPoints\">temporary hit points</LSTag> from one source.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Can only have <LSTag Tooltip=\"TemporaryHitPoints\">temporary hit points</LSTag> from one source.",
+    "Type": "Image",
+    "DisplayName": " Can only have <LSTag Tooltip=\"TemporaryHitPoints\">temporary hit points",
+    "DisplayNameCHS": null
+  },
+  "CampSupplies": {
+    "Name": "CampSupplies",
+    "Type": null,
+    "DisplayName": "camp supplies",
+    "DisplayNameCHS": "营地补给"
+  },
+  "CHARMED": {
+    "Name": "CHARMED",
+    "Type": "Status",
+    "DisplayName": "Charmed",
+    "DisplayNameCHS": "魅惑"
+  },
+  "Concentration": {
+    "Name": "Concentration",
+    "Type": null,
+    "DisplayName": "Concentration",
+    "DisplayNameCHS": "专注"
+  },
+  "Shout_GoadingRoar_Bear_Summon": {
+    "Name": "Shout_GoadingRoar_Bear_Summon",
+    "Type": "Spell",
+    "DisplayName": "Goad",
+    "DisplayNameCHS": "挑衅咆哮"
+  },
+  "MAG_CHARGED_LIGHTNING": {
+    "Name": "MAG_CHARGED_LIGHTNING",
+    "Type": "Status",
+    "DisplayName": "Lightning Charges",
+    "DisplayNameCHS": "闪电充能"
+  },
+  "ArmourProficiency": {
+    "Name": "ArmourProficiency",
+    "Type": null,
+    "DisplayName": "Proficient",
+    "DisplayNameCHS": "重甲的"
+  },
+  "Action": {
+    "Name": "Action",
+    "Type": null,
+    "DisplayName": "action",
+    "DisplayNameCHS": "动作"
+  },
+  "STUNNED": {
+    "Name": "STUNNED",
+    "Type": "Status",
+    "DisplayName": "Stunned",
+    "DisplayNameCHS": "震慑"
+  },
+  "Abilities": {
+    "Name": "Abilities",
+    "Type": null,
+    "DisplayName": "Ability",
+    "DisplayNameCHS": "属性"
+  },
+  "Intelligence": {
+    "Name": "Intelligence",
+    "Type": null,
+    "DisplayName": "Intelligence",
+    "DisplayNameCHS": "智力"
+  },
+  "Proficiency": {
+    "Name": "Proficiency",
+    "Type": null,
+    "DisplayName": "Proficiency",
+    "DisplayNameCHS": "熟练项"
+  },
+  "TAD_DrainAbility": {
+    "Name": "TAD_DrainAbility",
+    "Type": "Passive",
+    "DisplayName": "Ability Drain",
+    "DisplayNameCHS": "吸取属性"
+  },
+  "BLEEDING": {
+    "Name": "BLEEDING",
+    "Type": "Status",
+    "DisplayName": "Bleeding",
+    "DisplayNameCHS": "流血"
+  },
+  "Strength": {
+    "Name": "Strength",
+    "Type": null,
+    "DisplayName": "Strength",
+    "DisplayNameCHS": "力量"
+  },
+  "KiPoint": {
+    "Name": "KiPoint",
+    "Type": "ActionResource",
+    "DisplayName": "Ki Point",
+    "DisplayNameCHS": "气点"
+  },
+  "AURA_OF_COURAGE": {
+    "Name": "AURA_OF_COURAGE",
+    "Type": "Status",
+    "DisplayName": "Aura of Courage",
+    "DisplayNameCHS": "勇气灵光"
+  },
+  "MAG_RADIANT_RADIATING_ORB": {
+    "Name": "MAG_RADIANT_RADIATING_ORB",
+    "Type": "Status",
+    "DisplayName": "Radiating Orb",
+    "DisplayNameCHS": "光耀法球"
+  },
+  "SILENCED": {
+    "Name": "SILENCED",
+    "Type": "Status",
+    "DisplayName": "Silenced",
+    "DisplayNameCHS": "沉默"
+  },
+  "Projectile_Fly": {
+    "Name": "Projectile_Fly",
+    "Type": "Spell",
+    "DisplayName": "Fly",
+    "DisplayNameCHS": "飞行"
+  },
+  "MAGE_ARMOR": {
+    "Name": "MAGE_ARMOR",
+    "Type": "Status",
+    "DisplayName": "Mage Armour",
+    "DisplayNameCHS": "魔法护甲"
+  },
+  "Zone_MOO_BloodPotion_LightningBolt": {
+    "Name": "Zone_MOO_BloodPotion_LightningBolt",
+    "Type": "Spell",
+    "DisplayName": "Lightning Bolt",
+    "DisplayNameCHS": "闪电束"
+  },
+  "SLEEPING": {
+    "Name": "SLEEPING",
+    "Type": "Status",
+    "DisplayName": "Sleeping",
+    "DisplayNameCHS": "沉睡"
+  },
+  "SNEAKING": {
+    "Name": "SNEAKING",
+    "Type": "Status",
+    "DisplayName": "Hiding",
+    "DisplayNameCHS": "隐藏"
+  },
+  "ENSNARED_VINES": {
+    "Name": "ENSNARED_VINES",
+    "Type": "Status",
+    "DisplayName": "Entangled",
+    "DisplayNameCHS": "缠绕"
+  },
+  "DOPPELGANGER_OFFBALANCE": {
+    "Name": "DOPPELGANGER_OFFBALANCE",
+    "Type": "Status",
+    "DisplayName": "Ambush",
+    "DisplayNameCHS": "伏击"
+  },
+  "WEB": {
+    "Name": "WEB",
+    "Type": "Status",
+    "DisplayName": "Enwebs",
+    "DisplayNameCHS": "网缚"
+  },
+  "Total Bonus <LSTag Type=\"Damage\">[1][2]</LSTag>": {
+    "Name": "Total Bonus <LSTag Type=\"Damage\">[1][2]</LSTag>",
+    "Type": "Damage",
+    "DisplayName": "[1][2]",
+    "DisplayNameCHS": null
+  },
+  "DRUNK": {
+    "Name": "DRUNK",
+    "Type": "Status",
+    "DisplayName": "Drunk",
+    "DisplayNameCHS": "醉酒"
+  },
+  "STEELWATCHER_THRESHOLD": {
+    "Name": "STEELWATCHER_THRESHOLD",
+    "Type": "Status",
+    "DisplayName": "Unyielding",
+    "DisplayNameCHS": "不屈"
+  },
+  "REPAIR_MATRIX": {
+    "Name": "REPAIR_MATRIX",
+    "Type": "Status",
+    "DisplayName": "Repair",
+    "DisplayNameCHS": "修复矩阵"
+  },
+  "ProjectileStrike_SteelWatcher_Quadruped_HellfireMissiles": {
+    "Name": "ProjectileStrike_SteelWatcher_Quadruped_HellfireMissiles",
+    "Type": "Spell",
+    "DisplayName": "Hellfire Missiles",
+    "DisplayNameCHS": "地狱火飞弹"
+  },
+  "Shout_SteelWatcher_Quadruped_Repel": {
+    "Name": "Shout_SteelWatcher_Quadruped_Repel",
+    "Type": "Spell",
+    "DisplayName": "Repel",
+    "DisplayNameCHS": "推斥协议"
+  },
+  "Projectile_Jump": {
+    "Name": "Projectile_Jump",
+    "Type": "Spell",
+    "DisplayName": "Jump",
+    "DisplayNameCHS": "跳跃"
+  },
+  "INVISIBILITY": {
+    "Name": "INVISIBILITY",
+    "Type": "Status",
+    "DisplayName": "Invisible",
+    "DisplayNameCHS": "隐形"
+  },
+  "Ability": {
+    "Name": "Ability",
+    "Type": null,
+    "DisplayName": "Ability",
+    "DisplayNameCHS": "属性"
+  },
+  "SLOW": {
+    "Name": "SLOW",
+    "Type": "Status",
+    "DisplayName": "Slow",
+    "DisplayNameCHS": "减速"
+  },
+  "WarlockSpellSlot": {
+    "Name": "WarlockSpellSlot",
+    "Type": null,
+    "DisplayName": "spell slots",
+    "DisplayNameCHS": "邪术师法术位"
+  },
+  "HighGroundRules": {
+    "Name": "HighGroundRules",
+    "Type": null,
+    "DisplayName": "High Ground Rules",
+    "DisplayNameCHS": "高低规则"
+  },
+  "SorceryPoint": {
+    "Name": "SorceryPoint",
+    "Type": "ActionResource",
+    "DisplayName": "Sorcery Point",
+    "DisplayNameCHS": "术法点"
+  },
+  "Shout_Whirlwind_Elemental_Air": {
+    "Name": "Shout_Whirlwind_Elemental_Air",
+    "Type": "Spell",
+    "DisplayName": "Primordial Gales",
+    "DisplayNameCHS": "原始雷暴"
+  },
+  "Projectile_AirBlast_Elemental_Air": {
+    "Name": "Projectile_AirBlast_Elemental_Air",
+    "Type": "Spell",
+    "DisplayName": "Gushing Air",
+    "DisplayNameCHS": "涌动之风"
+  },
+  "PortentDice": {
+    "Name": "PortentDice",
+    "Type": null,
+    "DisplayName": "Portent Die",
+    "DisplayNameCHS": "预兆骰子"
+  },
+  "HASTE": {
+    "Name": "HASTE",
+    "Type": "Status",
+    "DisplayName": "Hasten",
+    "DisplayNameCHS": "加速"
+  },
+  "MAG_GISH_ARCANE_ACUITY": {
+    "Name": "MAG_GISH_ARCANE_ACUITY",
+    "Type": "Status",
+    "DisplayName": "Arcane Acuity",
+    "DisplayNameCHS": "奥术敏锐"
+  },
+  "Teleportation_Revivify": {
+    "Name": "Teleportation_Revivify",
+    "Type": "Spell",
+    "DisplayName": "Revivify",
+    "DisplayNameCHS": "回生术"
+  },
+  "Target_Bufotoxin_Frog_Summon": {
+    "Name": "Target_Bufotoxin_Frog_Summon",
+    "Type": "Spell",
+    "DisplayName": "Bufotoxin",
+    "DisplayNameCHS": "蛙毒"
+  },
+  "Projectile_MagicMissile": {
+    "Name": "Projectile_MagicMissile",
+    "Type": "Spell",
+    "DisplayName": "Magic Missile",
+    "DisplayNameCHS": "魔法飞弹"
+  },
+  "CRIPPLED": {
+    "Name": "CRIPPLED",
+    "Type": "Status",
+    "DisplayName": "Maim",
+    "DisplayNameCHS": "跛足"
+  },
+  "LOW_GHOST_POSSESSED": {
+    "Name": "LOW_GHOST_POSSESSED",
+    "Type": "Status",
+    "DisplayName": "Possessed",
+    "DisplayNameCHS": "附身"
+  },
+  "TURNED": {
+    "Name": "TURNED",
+    "Type": "Status",
+    "DisplayName": "Turn",
+    "DisplayNameCHS": "驱散"
+  },
+  "Melee Damage: <LSTag Type=\"Damage\">[1]</LSTag>": {
+    "Name": "Melee Damage: <LSTag Type=\"Damage\">[1]</LSTag>",
+    "Type": "Damage",
+    "DisplayName": "[1]",
+    "DisplayNameCHS": null
+  },
+  "Charisma": {
+    "Name": "Charisma",
+    "Type": null,
+    "DisplayName": "Charisma",
+    "DisplayNameCHS": "魅力"
+  },
+  "DAZED": {
+    "Name": "DAZED",
+    "Type": "Status",
+    "DisplayName": "Daze",
+    "DisplayNameCHS": "眩晕"
+  },
+  "Projectile_WildMagicBarbarian_LightBolt": {
+    "Name": "Projectile_WildMagicBarbarian_LightBolt",
+    "Type": "Spell",
+    "DisplayName": "Bolt of Light",
+    "DisplayNameCHS": "光箭"
+  },
+  "Target_FiendishCharm_Cambion": {
+    "Name": "Target_FiendishCharm_Cambion",
+    "Type": "Spell",
+    "DisplayName": "Fiendish Charm",
+    "DisplayNameCHS": "邪魔魅惑"
+  },
+  "Target_DrainingKiss_Cambion": {
+    "Name": "Target_DrainingKiss_Cambion",
+    "Type": "Spell",
+    "DisplayName": "Draining Kiss",
+    "DisplayNameCHS": "汲命之吻"
+  },
+  "Projectile_FireRay_Cambion": {
+    "Name": "Projectile_FireRay_Cambion",
+    "Type": "Spell",
+    "DisplayName": "Rays of Fire",
+    "DisplayNameCHS": "火焰射线"
+  },
+  "MAG_THUNDER_REVERBERATION": {
+    "Name": "MAG_THUNDER_REVERBERATION",
+    "Type": "Status",
+    "DisplayName": "Reverberation",
+    "DisplayNameCHS": "残响"
+  },
+  "Target_Shatter": {
+    "Name": "Target_Shatter",
+    "Type": "Spell",
+    "DisplayName": "Shatter",
+    "DisplayNameCHS": "粉碎音波"
+  },
+  "Shout_DestructiveWave": {
+    "Name": "Shout_DestructiveWave",
+    "Type": "Spell",
+    "DisplayName": "Destructive Wave",
+    "DisplayNameCHS": "湮灭波"
+  },
+  "BARDIC_INSPIRATION": {
+    "Name": "BARDIC_INSPIRATION",
+    "Type": "Status",
+    "DisplayName": "Bardic Inspiration",
+    "DisplayNameCHS": "诗人激励"
+  },
+  "Target_HaloOfSpores": {
+    "Name": "Target_HaloOfSpores",
+    "Type": "Spell",
+    "DisplayName": "Halo of Spores",
+    "DisplayNameCHS": "环形孢子"
+  },
+  "Shout_WildShape": {
+    "Name": "Shout_WildShape",
+    "Type": "Spell",
+    "DisplayName": "Wild Shape",
+    "DisplayNameCHS": "荒野形态"
+  },
+  "INVISIBLE": {
+    "Name": "INVISIBLE",
+    "Type": "Status",
+    "DisplayName": "Invisible",
+    "DisplayNameCHS": "隐形"
+  },
+  "MAG_GREATER_NECROMANCY_LIFE_ESSENCE": {
+    "Name": "MAG_GREATER_NECROMANCY_LIFE_ESSENCE",
+    "Type": "Status",
+    "DisplayName": "Life Essence",
+    "DisplayNameCHS": "生命精华"
+  },
+  "SUNBEAM": {
+    "Name": "SUNBEAM",
+    "Type": "Status",
+    "DisplayName": "Blinds",
+    "DisplayNameCHS": "目盲"
+  },
+  "Target_Multiattack_Surgeon": {
+    "Name": "Target_Multiattack_Surgeon",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "CRAWLING_GNAW_SWITCH": {
+    "Name": "CRAWLING_GNAW_SWITCH",
+    "Type": "Status",
+    "DisplayName": "Crawling Gnaw",
+    "DisplayNameCHS": "蠕行啃咬"
+  },
+  "Target_MistyStep": {
+    "Name": "Target_MistyStep",
+    "Type": "Spell",
+    "DisplayName": "Misty Step",
+    "DisplayNameCHS": "迷踪步"
+  },
+  "SHIELD_OF_FAITH": {
+    "Name": "SHIELD_OF_FAITH",
+    "Type": "Status",
+    "DisplayName": "Shield of Faith",
+    "DisplayNameCHS": "虔诚护盾"
+  },
+  "Shout_DisguiseSelf": {
+    "Name": "Shout_DisguiseSelf",
+    "Type": "Spell",
+    "DisplayName": "Disguise Self",
+    "DisplayNameCHS": "伪装术"
+  },
+  "ARMOR_OF_AGATHYS": {
+    "Name": "ARMOR_OF_AGATHYS",
+    "Type": "Status",
+    "DisplayName": "Armour of Agathys",
+    "DisplayNameCHS": "艾嘉西斯之铠"
+  },
+  "Target_CripplingPinch_Crab_Summon": {
+    "Name": "Target_CripplingPinch_Crab_Summon",
+    "Type": "Spell",
+    "DisplayName": "Crippling Pinch",
+    "DisplayNameCHS": "致残钳击"
+  },
+  "You can pickpocket items from characters while hiding. While next to but hidden from a character, you can use the Context Menu to pickpocket, and then select which items you want to steal. You will have to succeed a Sleight of Hand check to successfully steal the items - more valuable items will make the check more difficult. Failing the check will mean you are noticed, and branded a criminal. <br><br>[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialHide\">Hide</LSTag><br>[IE_ContextMenu] Begin pickpocketing": {
+    "Name": "You can pickpocket items from characters while hiding. While next to but hidden from a character, you can use the Context Menu to pickpocket, and then select which items you want to steal. You will have to succeed a Sleight of Hand check to successfully steal the items - more valuable items will make the check more difficult. Failing the check will mean you are noticed, and branded a criminal. <br><br>[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialHide\">Hide</LSTag><br>[IE_ContextMenu] Begin pickpocketing",
+    "Type": "Image",
+    "DisplayName": "Hide",
+    "DisplayNameCHS": null
+  },
+  "ABJURE_ENEMY_SLOW": {
+    "Name": "ABJURE_ENEMY_SLOW",
+    "Type": "Status",
+    "DisplayName": "Slowed",
+    "DisplayNameCHS": "减速"
+  },
+  "Target_FreedomOfMovement": {
+    "Name": "Target_FreedomOfMovement",
+    "Type": "Spell",
+    "DisplayName": "Freedom of Movement",
+    "DisplayNameCHS": "行动自如"
+  },
+  "Target_Confusion": {
+    "Name": "Target_Confusion",
+    "Type": "Spell",
+    "DisplayName": "Confusion",
+    "DisplayNameCHS": "困惑术"
+  },
+  "Projectile_MOO_BloodPotion_AcidArrow": {
+    "Name": "Projectile_MOO_BloodPotion_AcidArrow",
+    "Type": "Spell",
+    "DisplayName": "Acid Arrow",
+    "DisplayNameCHS": "强酸箭"
+  },
+  "Target_BladeFlourish_Mobile_FollowUp": {
+    "Name": "Target_BladeFlourish_Mobile_FollowUp",
+    "Type": "Spell",
+    "DisplayName": "Teleport",
+    "DisplayNameCHS": "传送"
+  },
+  "Deception": {
+    "Name": "Deception",
+    "Type": null,
+    "DisplayName": "Deception",
+    "DisplayNameCHS": "欺瞒"
+  },
+  "Stealth": {
+    "Name": "Stealth",
+    "Type": null,
+    "DisplayName": "Stealth",
+    "DisplayNameCHS": "隐匿"
+  },
+  "MAG_ACID_NOXIOUS_FUMES": {
+    "Name": "MAG_ACID_NOXIOUS_FUMES",
+    "Type": "Status",
+    "DisplayName": "Noxious Fumes",
+    "DisplayNameCHS": "有毒烟雾"
+  },
+  "Shout_Rage": {
+    "Name": "Shout_Rage",
+    "Type": "Spell",
+    "DisplayName": "Rage",
+    "DisplayNameCHS": "狂暴"
+  },
+  "BARDIC_INSPIRATION_COMBAT": {
+    "Name": "BARDIC_INSPIRATION_COMBAT",
+    "Type": "Status",
+    "DisplayName": "Combat Inspiration",
+    "DisplayNameCHS": "战斗激励"
+  },
+  "Shout_SeeInvisibility": {
+    "Name": "Shout_SeeInvisibility",
+    "Type": "Spell",
+    "DisplayName": "See Invisibility",
+    "DisplayNameCHS": "识破隐形"
+  },
+  "SLOWED": {
+    "Name": "SLOWED",
+    "Type": "Status",
+    "DisplayName": "Slowed",
+    "DisplayNameCHS": "减速"
+  },
+  "Target_BanesWrath": {
+    "Name": "Target_BanesWrath",
+    "Type": "Spell",
+    "DisplayName": "Bane's Wrath",
+    "DisplayNameCHS": "班恩之怒"
+  },
+  "LOW_RAPHAEL_STUNNED": {
+    "Name": "LOW_RAPHAEL_STUNNED",
+    "Type": "Status",
+    "DisplayName": "Stun",
+    "DisplayNameCHS": "灵魂扭曲"
+  },
+  "Target_LOW_Raphael_RepelDivinity_SoulDrain": {
+    "Name": "Target_LOW_Raphael_RepelDivinity_SoulDrain",
+    "Type": "Spell",
+    "DisplayName": "Drain",
+    "DisplayNameCHS": "吸取灵魂"
+  },
+  "Acrobatics": {
+    "Name": "Acrobatics",
+    "Type": null,
+    "DisplayName": "Acrobatics",
+    "DisplayNameCHS": "体操"
+  },
+  "Performance": {
+    "Name": "Performance",
+    "Type": null,
+    "DisplayName": "Performance",
+    "DisplayNameCHS": "表演"
+  },
+  "PARALYZED": {
+    "Name": "PARALYZED",
+    "Type": "Status",
+    "DisplayName": "Paralysed",
+    "DisplayNameCHS": "麻痹"
+  },
+  "Target_LesserRestoration": {
+    "Name": "Target_LesserRestoration",
+    "Type": "Spell",
+    "DisplayName": "Lesser Restoration",
+    "DisplayNameCHS": "恢复"
+  },
+  "Projectile_FingerOfDeath_Apostle": {
+    "Name": "Projectile_FingerOfDeath_Apostle",
+    "Type": "Spell",
+    "DisplayName": "Finger of Death",
+    "DisplayNameCHS": "死亡一指"
+  },
+  "END_KARSUSCOMPULSION_CHANNEL": {
+    "Name": "END_KARSUSCOMPULSION_CHANNEL",
+    "Type": "Status",
+    "DisplayName": "channel",
+    "DisplayNameCHS": "引导"
+  },
+  "BURNING": {
+    "Name": "BURNING",
+    "Type": "Status",
+    "DisplayName": "Burning",
+    "DisplayNameCHS": "燃烧"
+  },
+  "Target_GaseousForm": {
+    "Name": "Target_GaseousForm",
+    "Type": "Spell",
+    "DisplayName": "Gaseous Form",
+    "DisplayNameCHS": "气化形体"
+  },
+  "Target_StinkingCloud": {
+    "Name": "Target_StinkingCloud",
+    "Type": "Spell",
+    "DisplayName": "Stinking Cloud",
+    "DisplayNameCHS": "臭云术"
+  },
+  "MAG_MOMENTUM": {
+    "Name": "MAG_MOMENTUM",
+    "Type": "Status",
+    "DisplayName": "Momentum",
+    "DisplayNameCHS": "亢奋"
+  },
+  "HP_REDUCTION_VAMPIRE": {
+    "Name": "HP_REDUCTION_VAMPIRE",
+    "Type": "Status",
+    "DisplayName": "Sap",
+    "DisplayNameCHS": "吸过血"
+  },
+  "Target_Barkskin": {
+    "Name": "Target_Barkskin",
+    "Type": "Spell",
+    "DisplayName": "Barkskin",
+    "DisplayNameCHS": "树肤术"
+  },
+  "Target_HoldPerson": {
+    "Name": "Target_HoldPerson",
+    "Type": "Spell",
+    "DisplayName": "Hold Person",
+    "DisplayNameCHS": "人类定身术"
+  },
+  "ACID": {
+    "Name": "ACID",
+    "Type": "Status",
+    "DisplayName": "Acidic surfaces",
+    "DisplayNameCHS": "强酸"
+  },
+  "MAG_BLOODFEEDER_SCARLET_REMITTANCE_3": {
+    "Name": "MAG_BLOODFEEDER_SCARLET_REMITTANCE_3",
+    "Type": "Status",
+    "DisplayName": "Scarlet Remittance",
+    "DisplayNameCHS": "猩红叠加"
+  },
+  "Intimidation": {
+    "Name": "Intimidation",
+    "Type": null,
+    "DisplayName": "Intimidation",
+    "DisplayNameCHS": "威吓"
+  },
+  "Light": {
+    "Name": "Light",
+    "Type": null,
+    "DisplayName": "Light",
+    "DisplayNameCHS": "轻型"
+  },
+  "Heavy": {
+    "Name": "Heavy",
+    "Type": null,
+    "DisplayName": "Heavy",
+    "DisplayNameCHS": "重型"
+  },
+  "Cantrip": {
+    "Name": "Cantrip",
+    "Type": null,
+    "DisplayName": "cantrips",
+    "DisplayNameCHS": "戏法"
+  },
+  "SpellcastingAbility": {
+    "Name": "SpellcastingAbility",
+    "Type": null,
+    "DisplayName": "Spellcasting Ability",
+    "DisplayNameCHS": "施法关键属性"
+  },
+  "HIDEOUS_LAUGHTER": {
+    "Name": "HIDEOUS_LAUGHTER",
+    "Type": "Status",
+    "DisplayName": "Hideous Laughter",
+    "DisplayNameCHS": "狂笑"
+  },
+  "Target_END_Mindflayer_CrownDomination": {
+    "Name": "Target_END_Mindflayer_CrownDomination",
+    "Type": "Spell",
+    "DisplayName": "Karsus' Compulsion",
+    "DisplayNameCHS": "卡尔萨斯强迫术"
+  },
+  "Target_Haste": {
+    "Name": "Target_Haste",
+    "Type": "Spell",
+    "DisplayName": "Haste",
+    "DisplayNameCHS": "加速术"
+  },
+  "Skill": {
+    "Name": "Skill",
+    "Type": null,
+    "DisplayName": "skills",
+    "DisplayNameCHS": "技能"
+  },
+  "Constitution": {
+    "Name": "Constitution",
+    "Type": null,
+    "DisplayName": "Constitution",
+    "DisplayNameCHS": "体质"
+  },
+  "CarryWeight": {
+    "Name": "CarryWeight",
+    "Type": null,
+    "DisplayName": "Carrying capacity",
+    "DisplayNameCHS": "负重"
+  },
+  "CONTAGION_BLINDING_SICKNESS": {
+    "Name": "CONTAGION_BLINDING_SICKNESS",
+    "Type": "Status",
+    "DisplayName": "Blinding Sickness",
+    "DisplayNameCHS": "失明症"
+  },
+  "ChannelOath": {
+    "Name": "ChannelOath",
+    "Type": "ActionResource",
+    "DisplayName": "Channel Oath Charges",
+    "DisplayNameCHS": "引导誓言"
+  },
+  "AnimalHandling": {
+    "Name": "AnimalHandling",
+    "Type": null,
+    "DisplayName": "Animal Handling",
+    "DisplayNameCHS": "驯兽"
+  },
+  "MonkWeapon": {
+    "Name": "MonkWeapon",
+    "Type": null,
+    "DisplayName": "Monk Weapon",
+    "DisplayNameCHS": "武僧武器"
+  },
+  "ENTOMBED": {
+    "Name": "ENTOMBED",
+    "Type": "Status",
+    "DisplayName": "Cocoon",
+    "DisplayNameCHS": "茧缚"
+  },
+  "FEARED": {
+    "Name": "FEARED",
+    "Type": "Status",
+    "DisplayName": "Fear",
+    "DisplayNameCHS": "恐惧"
+  },
+  "Target_IntimidatingPresence": {
+    "Name": "Target_IntimidatingPresence",
+    "Type": "Spell",
+    "DisplayName": "Intimidating Presence",
+    "DisplayNameCHS": "威慑之姿"
+  },
+  "MAG_FROST": {
+    "Name": "MAG_FROST",
+    "Type": "Status",
+    "DisplayName": "Encrusted with Frost",
+    "DisplayNameCHS": "冷冻"
+  },
+  "Target_Cloudkill": {
+    "Name": "Target_Cloudkill",
+    "Type": "Spell",
+    "DisplayName": "Cloudkill",
+    "DisplayNameCHS": "死云术"
+  },
+  "Projectile_RayOfSickness": {
+    "Name": "Projectile_RayOfSickness",
+    "Type": "Spell",
+    "DisplayName": "Ray of Sickness",
+    "DisplayNameCHS": "疾病射线"
+  },
+  "SuperiorityDie": {
+    "Name": "SuperiorityDie",
+    "Type": "ActionResource",
+    "DisplayName": "Superiority Die",
+    "DisplayNameCHS": "卓越骰子"
+  },
+  "Rush_Primal_Stampede": {
+    "Name": "Rush_Primal_Stampede",
+    "Type": "Spell",
+    "DisplayName": "Primal Stampede",
+    "DisplayNameCHS": "原始践踏"
+  },
+  "Thrown": {
+    "Name": "Thrown",
+    "Type": null,
+    "DisplayName": "Thrown",
+    "DisplayNameCHS": "投掷武器"
+  },
+  "Target_EnhanceAbility_BearsEndurance": {
+    "Name": "Target_EnhanceAbility_BearsEndurance",
+    "Type": "Spell",
+    "DisplayName": "Bear's Endurance",
+    "DisplayNameCHS": "熊之坚韧"
+  },
+  "Target_EnhanceAbility_BullsStrength": {
+    "Name": "Target_EnhanceAbility_BullsStrength",
+    "Type": "Spell",
+    "DisplayName": "Bull's Strength",
+    "DisplayNameCHS": "牛之蛮力"
+  },
+  "Target_EnhanceAbility_CatsGrace": {
+    "Name": "Target_EnhanceAbility_CatsGrace",
+    "Type": "Spell",
+    "DisplayName": "Cat's Grace",
+    "DisplayNameCHS": "猫之轻灵"
+  },
+  "Target_EnhanceAbility_EaglesSplendor": {
+    "Name": "Target_EnhanceAbility_EaglesSplendor",
+    "Type": "Spell",
+    "DisplayName": "Eagle's Splendour",
+    "DisplayNameCHS": "鹰之光彩"
+  },
+  "Target_EnhanceAbility_FoxsCunning": {
+    "Name": "Target_EnhanceAbility_FoxsCunning",
+    "Type": "Spell",
+    "DisplayName": "Fox's Cunning",
+    "DisplayNameCHS": "狐之狡黠"
+  },
+  "Target_EnhanceAbility_OwlsWisdom": {
+    "Name": "Target_EnhanceAbility_OwlsWisdom",
+    "Type": "Spell",
+    "DisplayName": "Owl's Wisdom",
+    "DisplayNameCHS": "枭之感知"
+  },
+  "INT_INFERNALCHAINS_RIGHT": {
+    "Name": "INT_INFERNALCHAINS_RIGHT",
+    "Type": "Status",
+    "DisplayName": "Infernal Chain",
+    "DisplayNameCHS": "地狱之链"
+  },
+  "RAT_INFECTED": {
+    "Name": "RAT_INFECTED",
+    "Type": "Status",
+    "DisplayName": "Infect",
+    "DisplayNameCHS": "感染"
+  },
+  "Target_Sting_Imp_Summon": {
+    "Name": "Target_Sting_Imp_Summon",
+    "Type": "Spell",
+    "DisplayName": "Sting",
+    "DisplayNameCHS": "钉刺"
+  },
+  "Target_KiResonation_Blast": {
+    "Name": "Target_KiResonation_Blast",
+    "Type": "Spell",
+    "DisplayName": "Ki Resonation: Blast",
+    "DisplayNameCHS": "共鸣之气：爆炸"
+  },
+  "KI_RESONATION": {
+    "Name": "KI_RESONATION",
+    "Type": "Status",
+    "DisplayName": "Resonating",
+    "DisplayNameCHS": "共鸣"
+  },
+  "Projectile_FreezingSphere_Hurl": {
+    "Name": "Projectile_FreezingSphere_Hurl",
+    "Type": "Spell",
+    "DisplayName": "Otiluke's Freezing Sphere",
+    "DisplayNameCHS": "欧提路克冰封法球"
+  },
+  "GREMISHKA_MAGICALLERGY_AURA": {
+    "Name": "GREMISHKA_MAGICALLERGY_AURA",
+    "Type": "Status",
+    "DisplayName": "Magic Allergy",
+    "DisplayNameCHS": "魔法过敏"
+  },
+  "Rush_Rush_Boar_Summon": {
+    "Name": "Rush_Rush_Boar_Summon",
+    "Type": "Spell",
+    "DisplayName": "Charge",
+    "DisplayNameCHS": "冲锋"
+  },
+  "MAG_ZOC_FORCE_CONDUIT": {
+    "Name": "MAG_ZOC_FORCE_CONDUIT",
+    "Type": "Status",
+    "DisplayName": "Force Conduit",
+    "DisplayNameCHS": "导力"
+  },
+  "END_Mindflayer_CrownDomination": {
+    "Name": "END_Mindflayer_CrownDomination",
+    "Type": "Spell",
+    "DisplayName": "Karsus' Compulsion",
+    "DisplayNameCHS": "卡尔萨斯强迫术"
+  },
+  "BANED": {
+    "Name": "BANED",
+    "Type": "Status",
+    "DisplayName": "Bane",
+    "DisplayNameCHS": "灾祸术"
+  },
+  "Target_SurgeryAttack_Leech_Surgeon": {
+    "Name": "Target_SurgeryAttack_Leech_Surgeon",
+    "Type": "Spell",
+    "DisplayName": "Leech",
+    "DisplayNameCHS": "吸血术"
+  },
+  "ENSNARING_STRIKE": {
+    "Name": "ENSNARING_STRIKE",
+    "Type": "Status",
+    "DisplayName": "Ensnared",
+    "DisplayNameCHS": "诱捕"
+  },
+  "LOW_ANCIENTLAIR_CURSE": {
+    "Name": "LOW_ANCIENTLAIR_CURSE",
+    "Type": "Status",
+    "DisplayName": "Spell Rot",
+    "DisplayNameCHS": "法术腐烂"
+  },
+  "MAG_GISH_ARCANE_CHARGE": {
+    "Name": "MAG_GISH_ARCANE_CHARGE",
+    "Type": "Status",
+    "DisplayName": "Arcane Charge",
+    "DisplayNameCHS": "奥术充能"
+  },
+  "Shout_MetalCoating_Myrmidon_Earth": {
+    "Name": "Shout_MetalCoating_Myrmidon_Earth",
+    "Type": "Spell",
+    "DisplayName": "Muck to Metal",
+    "DisplayNameCHS": "点泥成金"
+  },
+  "Shout_MudSlap_Myrmidon_Earth": {
+    "Name": "Shout_MudSlap_Myrmidon_Earth",
+    "Type": "Spell",
+    "DisplayName": "Sludgy Sling",
+    "DisplayNameCHS": "泥泞投掷"
+  },
+  "Target_Burrow_Myrmidon_Earth": {
+    "Name": "Target_Burrow_Myrmidon_Earth",
+    "Type": "Spell",
+    "DisplayName": "Burrow",
+    "DisplayNameCHS": "掘穴"
+  },
+  "LOW_Raphael_DancingFlame": {
+    "Name": "LOW_Raphael_DancingFlame",
+    "Type": "Spell",
+    "DisplayName": "Igniting Sparks",
+    "DisplayNameCHS": "爆燃火花"
+  },
+  "LOW_HOUNDMASTER_PREDATORESSENCE_1": {
+    "Name": "LOW_HOUNDMASTER_PREDATORESSENCE_1",
+    "Type": "Status",
+    "DisplayName": "Predator Essence",
+    "DisplayNameCHS": "捕食者精华"
+  },
+  "ENCUMBERED_LIGHT": {
+    "Name": "ENCUMBERED_LIGHT",
+    "Type": "Status",
+    "DisplayName": "Encumbered",
+    "DisplayNameCHS": null
+  },
+  "BLESS": {
+    "Name": "BLESS",
+    "Type": "Status",
+    "DisplayName": "Blessed",
+    "DisplayNameCHS": "祝福"
+  },
+  "DifficultyClass": {
+    "Name": "DifficultyClass",
+    "Type": null,
+    "DisplayName": " DC",
+    "DisplayNameCHS": "难度等级"
+  },
+  "BARBED_ARROW": {
+    "Name": "BARBED_ARROW",
+    "Type": "Status",
+    "DisplayName": "Ruptured",
+    "DisplayNameCHS": "裂地"
+  },
+  "BackgroundGoals": {
+    "Name": "BackgroundGoals",
+    "Type": null,
+    "DisplayName": "Background Goals",
+    "DisplayNameCHS": "背景目标"
+  },
+  "WET": {
+    "Name": "WET",
+    "Type": "Status",
+    "DisplayName": "Wet",
+    "DisplayNameCHS": "濡湿"
+  },
+  "HEX_DEXTERITY": {
+    "Name": "HEX_DEXTERITY",
+    "Type": "Status",
+    "DisplayName": "Hexes",
+    "DisplayNameCHS": "脆弱诅咒"
+  },
+  "Target_Multiattack_Mummy": {
+    "Name": "Target_Multiattack_Mummy",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "Downed": {
+    "Name": "Downed",
+    "Type": null,
+    "DisplayName": "Downed",
+    "DisplayNameCHS": "倒地"
+  },
+  "ENSNARING_STRIKE_2": {
+    "Name": "ENSNARING_STRIKE_2",
+    "Type": "Status",
+    "DisplayName": "Ensnare",
+    "DisplayNameCHS": "诱捕"
+  },
+  "Target_DancingLights": {
+    "Name": "Target_DancingLights",
+    "Type": "Spell",
+    "DisplayName": "Dancing Lights",
+    "DisplayNameCHS": "舞光术"
+  },
+  "REDUCE": {
+    "Name": "REDUCE",
+    "Type": "Status",
+    "DisplayName": "Reduce",
+    "DisplayNameCHS": "缩小"
+  },
+  "ENLARGE": {
+    "Name": "ENLARGE",
+    "Type": "Status",
+    "DisplayName": "Enlarge",
+    "DisplayNameCHS": "巨化"
+  },
+  "Target_WildMagicBarbarian_ExplodingFlumph": {
+    "Name": "Target_WildMagicBarbarian_ExplodingFlumph",
+    "Type": "Spell",
+    "DisplayName": "Intangible Spirit",
+    "DisplayNameCHS": "无形精魂"
+  },
+  "Shout_Distract_Cat_Summon": {
+    "Name": "Shout_Distract_Cat_Summon",
+    "Type": "Spell",
+    "DisplayName": "Meow",
+    "DisplayNameCHS": "猫叫声"
+  },
+  "NET": {
+    "Name": "NET",
+    "Type": "Status",
+    "DisplayName": "Ensnare",
+    "DisplayNameCHS": "捕获"
+  },
+  "Target_SpikeGrowth": {
+    "Name": "Target_SpikeGrowth",
+    "Type": "Spell",
+    "DisplayName": "Spike Growth",
+    "DisplayNameCHS": "荆棘丛生"
+  },
+  "Projectile_Fireball": {
+    "Name": "Projectile_Fireball",
+    "Type": "Spell",
+    "DisplayName": "Fireball",
+    "DisplayNameCHS": "火球术"
+  },
+  "Target_Firebolt": {
+    "Name": "Target_Firebolt",
+    "Type": "Spell",
+    "DisplayName": "Firebolt",
+    "DisplayNameCHS": "火焰箭"
+  },
+  "HASTE_LETHARGY": {
+    "Name": "HASTE_LETHARGY",
+    "Type": "Status",
+    "DisplayName": "Lethargic",
+    "DisplayNameCHS": "力竭"
+  },
+  "INCUBUS_CHARM": {
+    "Name": "INCUBUS_CHARM",
+    "Type": "Status",
+    "DisplayName": "Fiendishly Seduce",
+    "DisplayNameCHS": "魅惑"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> When the condition ends, become <LSTag Type=\"Status\" Tooltip=\"STUNNED\">Stunned</LSTag> for 2 turn.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> When the condition ends, become <LSTag Type=\"Status\" Tooltip=\"STUNNED\">Stunned</LSTag> for 2 turn.",
+    "Type": "Image",
+    "DisplayName": " When the condition ends, become <LSTag Type=\"Status\" Tooltip=\"STUNNED\">Stunned",
+    "DisplayNameCHS": null
+  },
+  "Perception": {
+    "Name": "Perception",
+    "Type": null,
+    "DisplayName": "Perception",
+    "DisplayNameCHS": "察觉技能"
+  },
+  "Shout_MirrorImage": {
+    "Name": "Shout_MirrorImage",
+    "Type": "Spell",
+    "DisplayName": "Mirror Image",
+    "DisplayNameCHS": "镜像术"
+  },
+  "LuckPoint": {
+    "Name": "LuckPoint",
+    "Type": "ActionResource",
+    "DisplayName": "Luck Point",
+    "DisplayNameCHS": "幸运点"
+  },
+  "Target_Mage_Hand": {
+    "Name": "Target_Mage_Hand",
+    "Type": "Spell",
+    "DisplayName": "Mage Hand",
+    "DisplayNameCHS": "法师之手"
+  },
+  "Religion": {
+    "Name": "Religion",
+    "Type": null,
+    "DisplayName": "Religion",
+    "DisplayNameCHS": "宗教"
+  },
+  "Target_SacredFlame": {
+    "Name": "Target_SacredFlame",
+    "Type": "Spell",
+    "DisplayName": "Sacred Flame",
+    "DisplayNameCHS": "圣火术"
+  },
+  "Target_ShockingGrasp": {
+    "Name": "Target_ShockingGrasp",
+    "Type": "Spell",
+    "DisplayName": "Shocking Grasp",
+    "DisplayNameCHS": "电爪"
+  },
+  "Target_MageHand": {
+    "Name": "Target_MageHand",
+    "Type": "Spell",
+    "DisplayName": "Mage Hand",
+    "DisplayNameCHS": "法师之手"
+  },
+  "CharmedGroup": {
+    "Name": "CharmedGroup",
+    "Type": null,
+    "DisplayName": "Charmed",
+    "DisplayNameCHS": "魅惑"
+  },
+  "Projectile_MAG_Radiant_RadiatingOrb_Explosion": {
+    "Name": "Projectile_MAG_Radiant_RadiatingOrb_Explosion",
+    "Type": "Spell",
+    "DisplayName": "Radiant Shockwave",
+    "DisplayNameCHS": "光耀震荡波"
+  },
+  "PATIENT_DEFENCE": {
+    "Name": "PATIENT_DEFENCE",
+    "Type": "Status",
+    "DisplayName": "Patient Defence",
+    "DisplayNameCHS": "坚强防御"
+  },
+  "Target_SneakAttack": {
+    "Name": "Target_SneakAttack",
+    "Type": "Spell",
+    "DisplayName": "Sneak Attack",
+    "DisplayNameCHS": "偷袭"
+  },
+  "Throw_Telekinesis": {
+    "Name": "Throw_Telekinesis",
+    "Type": "Spell",
+    "DisplayName": "Telekinesis",
+    "DisplayNameCHS": "心灵遥控"
+  },
+  "BonusAction": {
+    "Name": "BonusAction",
+    "Type": null,
+    "DisplayName": "Bonus Action",
+    "DisplayNameCHS": "附赠动作"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Each ally can only be targeted once per <LSTag Tooltip=\"LongRest\">Long Rest</LSTag>. ": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Each ally can only be targeted once per <LSTag Tooltip=\"LongRest\">Long Rest</LSTag>. ",
+    "Type": "Image",
+    "DisplayName": " Each ally can only be targeted once per <LSTag Tooltip=\"LongRest\">Long Rest",
+    "DisplayNameCHS": null
+  },
+  "DOMINATE_PERSON": {
+    "Name": "DOMINATE_PERSON",
+    "Type": "Status",
+    "DisplayName": "Dominate",
+    "DisplayNameCHS": "受控"
+  },
+  "Target_ForcedManeuver": {
+    "Name": "Target_ForcedManeuver",
+    "Type": "Spell",
+    "DisplayName": "Forced Manoeuvre",
+    "DisplayNameCHS": "强制策动"
+  },
+  "Target_Bite_Rat_Summon": {
+    "Name": "Target_Bite_Rat_Summon",
+    "Type": "Spell",
+    "DisplayName": "Infectious Bite",
+    "DisplayNameCHS": "传染啃咬"
+  },
+  "DEBRIS_THRESHOLD_LESSER": {
+    "Name": "DEBRIS_THRESHOLD_LESSER",
+    "Type": "Status",
+    "DisplayName": "Lesser",
+    "DisplayNameCHS": "次级"
+  },
+  "DEBRIS_THRESHOLD": {
+    "Name": "DEBRIS_THRESHOLD",
+    "Type": "Status",
+    "DisplayName": "Medium",
+    "DisplayNameCHS": "中级"
+  },
+  "DEBRIS_THRESHOLD_GREATER": {
+    "Name": "DEBRIS_THRESHOLD_GREATER",
+    "Type": "Status",
+    "DisplayName": "Greater Toughness",
+    "DisplayNameCHS": "高级刚毅"
+  },
+  "MAG_BULLS_STRENGTH": {
+    "Name": "MAG_BULLS_STRENGTH",
+    "Type": "Status",
+    "DisplayName": "Bull's Strength",
+    "DisplayNameCHS": "牛之蛮力"
+  },
+  "RitualSpell": {
+    "Name": "RitualSpell",
+    "Type": null,
+    "DisplayName": "ritual spells",
+    "DisplayNameCHS": "仪式法术"
+  },
+  "Target_MainHandAttack_GuardianOfFaith": {
+    "Name": "Target_MainHandAttack_GuardianOfFaith",
+    "Type": "Spell",
+    "DisplayName": "attacks",
+    "DisplayNameCHS": "攻击"
+  },
+  "Inspiration": {
+    "Name": "Inspiration",
+    "Type": null,
+    "DisplayName": "Inspiration",
+    "DisplayNameCHS": "激励点<LSTag Type=\"Image\" Info=\"Inspiration\"/>"
+  },
+  "COMBAT_MARK": {
+    "Name": "COMBAT_MARK",
+    "Type": "Status",
+    "DisplayName": "Marked",
+    "DisplayNameCHS": "被标记"
+  },
+  "Projectile_MOO_BloodPotion_Fireball": {
+    "Name": "Projectile_MOO_BloodPotion_Fireball",
+    "Type": "Spell",
+    "DisplayName": "Fireball",
+    "DisplayNameCHS": "火球术"
+  },
+  "Projectile_Disintegrate": {
+    "Name": "Projectile_Disintegrate",
+    "Type": "Spell",
+    "DisplayName": "Disintegrate",
+    "DisplayNameCHS": "崩溃"
+  },
+  "SkillChecks": {
+    "Name": "SkillChecks",
+    "Type": null,
+    "DisplayName": "Checks",
+    "DisplayNameCHS": "检定"
+  },
+  "Target_Knock": {
+    "Name": "Target_Knock",
+    "Type": "Spell",
+    "DisplayName": "Knock",
+    "DisplayNameCHS": "敲击术"
+  },
+  "Arcana": {
+    "Name": "Arcana",
+    "Type": null,
+    "DisplayName": "Arcana",
+    "DisplayNameCHS": "奥秘"
+  },
+  "Target_ProtectionFromEvilAndGood": {
+    "Name": "Target_ProtectionFromEvilAndGood",
+    "Type": "Spell",
+    "DisplayName": "Protection from Evil and Good",
+    "DisplayNameCHS": "防护善恶"
+  },
+  "SLEEP": {
+    "Name": "SLEEP",
+    "Type": "Status",
+    "DisplayName": "Sleep",
+    "DisplayNameCHS": "睡眠"
+  },
+  "Athletics": {
+    "Name": "Athletics",
+    "Type": null,
+    "DisplayName": "Athletics",
+    "DisplayNameCHS": "运动"
+  },
+  "Survival": {
+    "Name": "Survival",
+    "Type": null,
+    "DisplayName": "Survival",
+    "DisplayNameCHS": "求生"
+  },
+  "Medicine": {
+    "Name": "Medicine",
+    "Type": null,
+    "DisplayName": "Medicine",
+    "DisplayNameCHS": "医药"
+  },
+  "Shout_Disengage": {
+    "Name": "Shout_Disengage",
+    "Type": "Spell",
+    "DisplayName": "Disengaging",
+    "DisplayNameCHS": "撤离"
+  },
+  "SHA_JUSTICIAR_UMBRAL_FORM": {
+    "Name": "SHA_JUSTICIAR_UMBRAL_FORM",
+    "Type": "Status",
+    "DisplayName": "Umbral Form",
+    "DisplayNameCHS": "阴影形态"
+  },
+  "PETRIFIED": {
+    "Name": "PETRIFIED",
+    "Type": "Status",
+    "DisplayName": "Petrified",
+    "DisplayNameCHS": "石化"
+  },
+  "DOWNED": {
+    "Name": "DOWNED",
+    "Type": "Status",
+    "DisplayName": "Downed",
+    "DisplayNameCHS": "倒地"
+  },
+  "AlwaysPrepared": {
+    "Name": "AlwaysPrepared",
+    "Type": null,
+    "DisplayName": "Always Prepared",
+    "DisplayNameCHS": "恒定预备法术"
+  },
+  "MAG_ATTACK_DEBUFF": {
+    "Name": "MAG_ATTACK_DEBUFF",
+    "Type": "Status",
+    "DisplayName": "Reeling",
+    "DisplayNameCHS": "手酸臂软"
+  },
+  "Target_Bite_TinySpider_Familiar": {
+    "Name": "Target_Bite_TinySpider_Familiar",
+    "Type": "Spell",
+    "DisplayName": "Bite",
+    "DisplayNameCHS": "啃咬"
+  },
+  "| Ranged Attack Bonus <LSTag Type=\"Damage\">[1]</LSTag> |": {
+    "Name": "| Ranged Attack Bonus <LSTag Type=\"Damage\">[1]</LSTag> |",
+    "Type": "Damage",
+    "DisplayName": "[1]",
+    "DisplayNameCHS": null
+  },
+  "You succeeded on a <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag> against <LSTag Type=\"Status\" Tooltip=POISON_MALICE_CONDITION\">Malice</LSTag> and can't be affected by it.": {
+    "Name": "You succeeded on a <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag> against <LSTag Type=\"Status\" Tooltip=POISON_MALICE_CONDITION\">Malice</LSTag> and can't be affected by it.",
+    "Type": "Status",
+    "DisplayName": "Malice",
+    "DisplayNameCHS": null
+  },
+  "SPIDER_INFESTATION": {
+    "Name": "SPIDER_INFESTATION",
+    "Type": "Status",
+    "DisplayName": "Infest",
+    "DisplayNameCHS": "感染"
+  },
+  "SpellDifficultyClass": {
+    "Name": "SpellDifficultyClass",
+    "Type": null,
+    "DisplayName": "Spell Save DC",
+    "DisplayNameCHS": "法术豁免等级"
+  },
+  "Target_AuraOfVitality_Activate": {
+    "Name": "Target_AuraOfVitality_Activate",
+    "Type": "Spell",
+    "DisplayName": "Restore Vitality",
+    "DisplayNameCHS": "恢复活力"
+  },
+  "SYMBIOTIC_ENTITY": {
+    "Name": "SYMBIOTIC_ENTITY",
+    "Type": "Status",
+    "DisplayName": "Symbiotic Entity",
+    "DisplayNameCHS": "共生实体"
+  },
+  "Projectile_MAG_GreenSporeCloud": {
+    "Name": "Projectile_MAG_GreenSporeCloud",
+    "Type": "Spell",
+    "DisplayName": "Bibberbang Spores",
+    "DisplayNameCHS": "噼啪砰孢子"
+  },
+  "Projectile_MAG_BlackSporeCloud": {
+    "Name": "Projectile_MAG_BlackSporeCloud",
+    "Type": "Spell",
+    "DisplayName": "Timmask Spores",
+    "DisplayNameCHS": "鬼头蘑菇孢子"
+  },
+  "Projectile_MAG_WhiteSporeCloud": {
+    "Name": "Projectile_MAG_WhiteSporeCloud",
+    "Type": "Spell",
+    "DisplayName": "Haste Spores",
+    "DisplayNameCHS": "加速孢子"
+  },
+  "FREEDOM_OF_MOVEMENT": {
+    "Name": "FREEDOM_OF_MOVEMENT",
+    "Type": "Status",
+    "DisplayName": "Freedom of Movement",
+    "DisplayNameCHS": "行动自如"
+  },
+  "LONGSTRIDER": {
+    "Name": "LONGSTRIDER",
+    "Type": "Status",
+    "DisplayName": "Longstrider",
+    "DisplayNameCHS": "大步奔行"
+  },
+  "ArcaneWard": {
+    "Name": "ArcaneWard",
+    "Type": "Passive",
+    "DisplayName": "Arcane Ward",
+    "DisplayNameCHS": "奥术守御"
+  },
+  "CROWN_OF_MADNESS": {
+    "Name": "CROWN_OF_MADNESS",
+    "Type": "Status",
+    "DisplayName": "Crown of Madness",
+    "DisplayNameCHS": "疯狂"
+  },
+  "ExtraAttack": {
+    "Name": "ExtraAttack",
+    "Type": "Passive",
+    "DisplayName": "extra attack",
+    "DisplayNameCHS": "额外攻击"
+  },
+  "Target_FindFamiliar": {
+    "Name": "Target_FindFamiliar",
+    "Type": "Spell",
+    "DisplayName": "familiar",
+    "DisplayNameCHS": "获得魔宠"
+  },
+  "Target_CallLightning": {
+    "Name": "Target_CallLightning",
+    "Type": "Spell",
+    "DisplayName": "Call Lightning",
+    "DisplayNameCHS": "召雷术"
+  },
+  "Target_Wrathful_Smite_Deva": {
+    "Name": "Target_Wrathful_Smite_Deva",
+    "Type": "Spell",
+    "DisplayName": "Wrathful Smite",
+    "DisplayNameCHS": "激愤斩"
+  },
+  "Target_ConcussiveSmash": {
+    "Name": "Target_ConcussiveSmash",
+    "Type": "Spell",
+    "DisplayName": "Concussive Smash",
+    "DisplayNameCHS": "震荡猛击"
+  },
+  "Target_TrueStrike": {
+    "Name": "Target_TrueStrike",
+    "Type": "Spell",
+    "DisplayName": "True Strike",
+    "DisplayNameCHS": "克敌机先"
+  },
+  "FAERIE_FIRE": {
+    "Name": "FAERIE_FIRE",
+    "Type": "Status",
+    "DisplayName": "Faerie Fire",
+    "DisplayNameCHS": "妖火"
+  },
+  "HAV_MAG_INFERNAL_FIRE": {
+    "Name": "HAV_MAG_INFERNAL_FIRE",
+    "Type": "Status",
+    "DisplayName": "Infernal Burning",
+    "DisplayNameCHS": "邪魔火焰"
+  },
+  "Zone_ConeOfCold": {
+    "Name": "Zone_ConeOfCold",
+    "Type": "Spell",
+    "DisplayName": "Cone of Cold",
+    "DisplayNameCHS": "寒冰锥"
+  },
+  "Target_Contagion": {
+    "Name": "Target_Contagion",
+    "Type": "Spell",
+    "DisplayName": "Contagion",
+    "DisplayNameCHS": "疫病术"
+  },
+  "GAPING_WOUND": {
+    "Name": "GAPING_WOUND",
+    "Type": "Status",
+    "DisplayName": "Gaping Wounds",
+    "DisplayNameCHS": "开放伤口"
+  },
+  "CRYSTALSKIN": {
+    "Name": "CRYSTALSKIN",
+    "Type": "Status",
+    "DisplayName": "Crystal Skin",
+    "DisplayNameCHS": "水晶皮肤。"
+  },
+  "SleightOfHand": {
+    "Name": "SleightOfHand",
+    "Type": null,
+    "DisplayName": "Sleight Of Hand",
+    "DisplayNameCHS": "巧手"
+  },
+  "LOW_HOUNDMASTER_PREYESSENCE_1": {
+    "Name": "LOW_HOUNDMASTER_PREYESSENCE_1",
+    "Type": "Status",
+    "DisplayName": "Prey Essence",
+    "DisplayNameCHS": "猎物精华"
+  },
+  "MAG_BLOODREND": {
+    "Name": "MAG_BLOODREND",
+    "Type": "Status",
+    "DisplayName": "Bloodrender",
+    "DisplayNameCHS": "血腥高歌"
+  },
+  "SuperiorDarkvision": {
+    "Name": "SuperiorDarkvision",
+    "Type": "Passive",
+    "DisplayName": "Darkvision",
+    "DisplayNameCHS": "高级黑暗视觉"
+  },
+  "Insight": {
+    "Name": "Insight",
+    "Type": null,
+    "DisplayName": "Insight",
+    "DisplayNameCHS": "洞悉"
+  },
+  "WYR_DRIBBLES_DOG_AMBUSH": {
+    "Name": "WYR_DRIBBLES_DOG_AMBUSH",
+    "Type": "Status",
+    "DisplayName": "Ambush",
+    "DisplayNameCHS": "伏击"
+  },
+  "UNSTOPPABLE": {
+    "Name": "UNSTOPPABLE",
+    "Type": "Status",
+    "DisplayName": "Unstoppable",
+    "DisplayNameCHS": "不可撼动"
+  },
+  "Target_FrenziedStrike_Boar": {
+    "Name": "Target_FrenziedStrike_Boar",
+    "Type": "Spell",
+    "DisplayName": "Frenzied Strike",
+    "DisplayNameCHS": "狂怒攻击"
+  },
+  "Nature": {
+    "Name": "Nature",
+    "Type": null,
+    "DisplayName": "Nature",
+    "DisplayNameCHS": "自然"
+  },
+  "Target_MF_Imperil_Recast": {
+    "Name": "Target_MF_Imperil_Recast",
+    "Type": "Spell",
+    "DisplayName": "Shatter Psyche",
+    "DisplayNameCHS": "灵魂破碎"
+  },
+  "Shout_WildShape_Dismiss": {
+    "Name": "Shout_WildShape_Dismiss",
+    "Type": "Spell",
+    "DisplayName": "Dismiss Wild Shape",
+    "DisplayNameCHS": null
+  },
+  "Shout_OneWithShadows": {
+    "Name": "Shout_OneWithShadows",
+    "Type": "Spell",
+    "DisplayName": "One with Shadows",
+    "DisplayNameCHS": "融身入影"
+  },
+  "POISON_DROW_CONDITION": {
+    "Name": "POISON_DROW_CONDITION",
+    "Type": "Status",
+    "DisplayName": "Drow Poison",
+    "DisplayNameCHS": null
+  },
+  "Target_WardingBond": {
+    "Name": "Target_WardingBond",
+    "Type": "Spell",
+    "DisplayName": "Warding Bond",
+    "DisplayNameCHS": "守护之链"
+  },
+  "DEATHSHEAD_UNSTOPPABLE_1": {
+    "Name": "DEATHSHEAD_UNSTOPPABLE_1",
+    "Type": "Status",
+    "DisplayName": "Unstoppable",
+    "DisplayNameCHS": "不可撼动"
+  },
+  "Target_Multiattack_Cloaker": {
+    "Name": "Target_Multiattack_Cloaker",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": null
+  },
+  "CONTAGION_FLESH_ROT_3": {
+    "Name": "CONTAGION_FLESH_ROT_3",
+    "Type": "Status",
+    "DisplayName": "Rot",
+    "DisplayNameCHS": "腐烂"
+  },
+  "Projectile_EldritchBlast": {
+    "Name": "Projectile_EldritchBlast",
+    "Type": "Spell",
+    "DisplayName": "Eldritch Blast",
+    "DisplayNameCHS": "魔能爆"
+  },
+  "BLACK_TENTACLES": {
+    "Name": "BLACK_TENTACLES",
+    "Type": "Status",
+    "DisplayName": "Smothering",
+    "DisplayNameCHS": "窒息"
+  },
+  "Target_MOO_BloodPotion_IceStorm": {
+    "Name": "Target_MOO_BloodPotion_IceStorm",
+    "Type": "Spell",
+    "DisplayName": "Ice Storm",
+    "DisplayNameCHS": "冰风暴"
+  },
+  "Target_Multiattack_HookHorror": {
+    "Name": "Target_Multiattack_HookHorror",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": null
+  },
+  "Shout_SpeakWithAnimals": {
+    "Name": "Shout_SpeakWithAnimals",
+    "Type": "Spell",
+    "DisplayName": "Speak with Animals",
+    "DisplayNameCHS": "动物交谈"
+  },
+  "TAD_BLACK_HOLE_SLOW": {
+    "Name": "TAD_BLACK_HOLE_SLOW",
+    "Type": "Status",
+    "DisplayName": "Slows",
+    "DisplayNameCHS": "减速"
+  },
+  "Target_TAD_Imperil_Recast": {
+    "Name": "Target_TAD_Imperil_Recast",
+    "Type": "Spell",
+    "DisplayName": "Shatter Psyche",
+    "DisplayNameCHS": "灵魂破碎"
+  },
+  "PreparedSpells": {
+    "Name": "PreparedSpells",
+    "Type": null,
+    "DisplayName": "Prepared",
+    "DisplayNameCHS": "准备"
+  },
+  "TIMMASK_SPORES": {
+    "Name": "TIMMASK_SPORES",
+    "Type": "Status",
+    "DisplayName": "Befuddle",
+    "DisplayNameCHS": "昏沉"
+  },
+  "Target_Eyebite": {
+    "Name": "Target_Eyebite",
+    "Type": "Spell",
+    "DisplayName": "Eyebite",
+    "DisplayNameCHS": "摄心目光"
+  },
+  "Projectile_SteelWatcher_Quadruped_SelfDestructExplosion": {
+    "Name": "Projectile_SteelWatcher_Quadruped_SelfDestructExplosion",
+    "Type": "Spell",
+    "DisplayName": "Self-Detonate",
+    "DisplayNameCHS": "爆炸"
+  },
+  "Projectile_CRE_BreweryKobolds_FirewineBelly_Explosion": {
+    "Name": "Projectile_CRE_BreweryKobolds_FirewineBelly_Explosion",
+    "Type": "Spell",
+    "DisplayName": "Firewine Explosion",
+    "DisplayNameCHS": "火酒爆炸"
+  },
+  "Projectile_MOO_BloodPotion_RayOfSickness": {
+    "Name": "Projectile_MOO_BloodPotion_RayOfSickness",
+    "Type": "Spell",
+    "DisplayName": "Ray of Sickness",
+    "DisplayNameCHS": "疾病射线"
+  },
+  "AbilityScore": {
+    "Name": "AbilityScore",
+    "Type": null,
+    "DisplayName": "Ability Scores",
+    "DisplayNameCHS": "属性值"
+  },
+  "Target_SpeakWithDead": {
+    "Name": "Target_SpeakWithDead",
+    "Type": "Spell",
+    "DisplayName": "Speak with Dead",
+    "DisplayNameCHS": "死者交谈"
+  },
+  "PLA_ConflictedFlind_Flail_Broken_Passive": {
+    "Name": "PLA_ConflictedFlind_Flail_Broken_Passive",
+    "Type": "Passive",
+    "DisplayName": "Yeenoghu's Gift",
+    "DisplayNameCHS": "伊诺胡之馈赠"
+  },
+  "MADNESS": {
+    "Name": "MADNESS",
+    "Type": "Status",
+    "DisplayName": "Mad",
+    "DisplayNameCHS": "疯狂"
+  },
+  "ENSNARED": {
+    "Name": "ENSNARED",
+    "Type": "Status",
+    "DisplayName": "Ensnared",
+    "DisplayNameCHS": "被缠绕"
+  },
+  "SNEAKING_HEAVILY_OBSCURED": {
+    "Name": "SNEAKING_HEAVILY_OBSCURED",
+    "Type": "Status",
+    "DisplayName": "Heavily Obscures",
+    "DisplayNameCHS": null
+  },
+  "CHILL_TOUCH": {
+    "Name": "CHILL_TOUCH",
+    "Type": "Status",
+    "DisplayName": "Bone Chill",
+    "DisplayNameCHS": "冻僵"
+  },
+  "LOW_RISENSKELETON_MYRKULVEIL": {
+    "Name": "LOW_RISENSKELETON_MYRKULVEIL",
+    "Type": "Status",
+    "DisplayName": "Necrotic Veil",
+    "DisplayNameCHS": "黯蚀面纱"
+  },
+  "Manifestation_of_Body": {
+    "Name": "Manifestation_of_Body",
+    "Type": "Passive",
+    "DisplayName": "Manifestation of Body",
+    "DisplayNameCHS": "肉身具现"
+  },
+  "Manifestation_of_Mind": {
+    "Name": "Manifestation_of_Mind",
+    "Type": "Passive",
+    "DisplayName": "Manifestation of Mind",
+    "DisplayNameCHS": "心灵具现"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The target must be <LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag> or <LSTag Type=\"Status\" Tooltip=\"RESTRAINED\">Restrained</LSTag>.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The target must be <LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag> or <LSTag Type=\"Status\" Tooltip=\"RESTRAINED\">Restrained</LSTag>.",
+    "Type": "Image",
+    "DisplayName": " The target must be <LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone",
+    "DisplayNameCHS": null
+  },
+  "GOB_LOSTBALANCE": {
+    "Name": "GOB_LOSTBALANCE",
+    "Type": "Status",
+    "DisplayName": "Off Balanced",
+    "DisplayNameCHS": "失衡"
+  },
+  "Shout_StillnessOfMind": {
+    "Name": "Shout_StillnessOfMind",
+    "Type": "Spell",
+    "DisplayName": "Stillness of Mind",
+    "DisplayNameCHS": "心如止水"
+  },
+  "Shout_Action_Surge": {
+    "Name": "Shout_Action_Surge",
+    "Type": "Spell",
+    "DisplayName": "Action Surge",
+    "DisplayNameCHS": "动作如潮"
+  },
+  "AttackRolls": {
+    "Name": "AttackRolls",
+    "Type": null,
+    "DisplayName": "Attack Rolls",
+    "DisplayNameCHS": "攻击掷骰"
+  },
+  "WYR_WyrmRock_Stunned": {
+    "Name": "WYR_WyrmRock_Stunned",
+    "Type": "Status",
+    "DisplayName": "Stunned",
+    "DisplayNameCHS": "震慑"
+  },
+  "BLINK": {
+    "Name": "BLINK",
+    "Type": "Status",
+    "DisplayName": "Blink",
+    "DisplayNameCHS": "闪现"
+  },
+  "LOW_OSKARSBELOVED_UNNERVED": {
+    "Name": "LOW_OSKARSBELOVED_UNNERVED",
+    "Type": "Status",
+    "DisplayName": "Unnerved",
+    "DisplayNameCHS": "气馁"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Bernard must be under the effects of his <LSTag Type=\"Status\" Tooltip=\"STATIC_DISCHARGE_AURA\">Static Discharge Aura</LSTag>.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Bernard must be under the effects of his <LSTag Type=\"Status\" Tooltip=\"STATIC_DISCHARGE_AURA\">Static Discharge Aura</LSTag>.",
+    "Type": "Image",
+    "DisplayName": " Bernard must be under the effects of his <LSTag Type=\"Status\" Tooltip=\"STATIC_DISCHARGE_AURA\">Static Discharge Aura",
+    "DisplayNameCHS": null
+  },
+  "Target_Stoneskin": {
+    "Name": "Target_Stoneskin",
+    "Type": "Spell",
+    "DisplayName": "Stoneskin",
+    "DisplayNameCHS": "石肤术"
+  },
+  "Target_DominateBeast": {
+    "Name": "Target_DominateBeast",
+    "Type": "Spell",
+    "DisplayName": "Dominate Beast",
+    "DisplayNameCHS": "支配野兽"
+  },
+  "EvocationSpells": {
+    "Name": "EvocationSpells",
+    "Type": null,
+    "DisplayName": "Evocation spells",
+    "DisplayNameCHS": "塑能法术"
+  },
+  "Wall_WallOfStone": {
+    "Name": "Wall_WallOfStone",
+    "Type": "Spell",
+    "DisplayName": "Wall of Stone",
+    "DisplayNameCHS": "石墙术"
+  },
+  "Target_InsectPlague": {
+    "Name": "Target_InsectPlague",
+    "Type": "Spell",
+    "DisplayName": "Insect Plague",
+    "DisplayNameCHS": "虫群瘟疫"
+  },
+  "RAGE_FRENZY": {
+    "Name": "RAGE_FRENZY",
+    "Type": "Status",
+    "DisplayName": "Frenzied",
+    "DisplayNameCHS": "狂乱"
+  },
+  "Target_CalmEmotions": {
+    "Name": "Target_CalmEmotions",
+    "Type": "Spell",
+    "DisplayName": "Calm Emotions",
+    "DisplayNameCHS": "安定心神"
+  },
+  "Target_PlantGrowth": {
+    "Name": "Target_PlantGrowth",
+    "Type": "Spell",
+    "DisplayName": "Plant Growth",
+    "DisplayNameCHS": "植物滋长"
+  },
+  "Target_WildMagicBarbarian_Teleport": {
+    "Name": "Target_WildMagicBarbarian_Teleport",
+    "Type": "Spell",
+    "DisplayName": "Teleport",
+    "DisplayNameCHS": "传送"
+  },
+  "Target_HypnoticPattern": {
+    "Name": "Target_HypnoticPattern",
+    "Type": "Spell",
+    "DisplayName": "Hypnotic Pattern",
+    "DisplayNameCHS": "催眠图纹"
+  },
+  "WildMagic": {
+    "Name": "WildMagic",
+    "Type": "Passive",
+    "DisplayName": "Wild Magic Surge",
+    "DisplayNameCHS": "狂野魔法"
+  },
+  "LOW_HOUSEOFGRIEF_DOMINATED": {
+    "Name": "LOW_HOUSEOFGRIEF_DOMINATED",
+    "Type": "Status",
+    "DisplayName": "Dominate",
+    "DisplayNameCHS": "支配"
+  },
+  "LOW_FATHERCARRION_GREATERCURSE_1": {
+    "Name": "LOW_FATHERCARRION_GREATERCURSE_1",
+    "Type": "Status",
+    "DisplayName": "Mystic Carrion's Poisoned Curse",
+    "DisplayNameCHS": "秘术师卡里翁的中毒诅咒"
+  },
+  "Target_VampiricTouch": {
+    "Name": "Target_VampiricTouch",
+    "Type": "Spell",
+    "DisplayName": "Vampiric Touch",
+    "DisplayNameCHS": "吸血鬼之触"
+  },
+  "Target_Invisibility": {
+    "Name": "Target_Invisibility",
+    "Type": "Spell",
+    "DisplayName": "Invisibility",
+    "DisplayNameCHS": "隐形"
+  },
+  "Target_LightningStrike_Myrmidon_Air": {
+    "Name": "Target_LightningStrike_Myrmidon_Air",
+    "Type": "Spell",
+    "DisplayName": "Electrified Flail",
+    "DisplayNameCHS": "电气猛击"
+  },
+  "Target_RagingVortex_Myrmidon_Air": {
+    "Name": "Target_RagingVortex_Myrmidon_Air",
+    "Type": "Spell",
+    "DisplayName": "Raging Vortex",
+    "DisplayNameCHS": "狂暴漩涡"
+  },
+  "DISTRACTED": {
+    "Name": "DISTRACTED",
+    "Type": "Status",
+    "DisplayName": "Distract",
+    "DisplayNameCHS": "分心"
+  },
+  "Target_SurgeryAttack_Bonesaw_Surgeon": {
+    "Name": "Target_SurgeryAttack_Bonesaw_Surgeon",
+    "Type": "Spell",
+    "DisplayName": "Bloody Bonesaw",
+    "DisplayNameCHS": "骨锯术"
+  },
+  "CHILLED": {
+    "Name": "CHILLED",
+    "Type": "Status",
+    "DisplayName": "Chilled",
+    "DisplayNameCHS": "冻僵"
+  },
+  "Target_Sneak_Attack": {
+    "Name": "Target_Sneak_Attack",
+    "Type": "Spell",
+    "DisplayName": "Sneak Attack",
+    "DisplayNameCHS": "偷袭"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The target must be <LSTag Type=\"Status\" Tooltip=\"PARALYZED\">Paralysed</LSTag>, or the flesh golem must be Berserk.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The target must be <LSTag Type=\"Status\" Tooltip=\"PARALYZED\">Paralysed</LSTag>, or the flesh golem must be Berserk.",
+    "Type": "Image",
+    "DisplayName": " The target must be <LSTag Type=\"Status\" Tooltip=\"PARALYZED\">Paralysed",
+    "DisplayNameCHS": null
+  },
+  "Shout_TurnUndead": {
+    "Name": "Shout_TurnUndead",
+    "Type": "Spell",
+    "DisplayName": "Turn",
+    "DisplayNameCHS": "驱散不死生物"
+  },
+  "Target_END_AllyAbilities_StunningGaze": {
+    "Name": "Target_END_AllyAbilities_StunningGaze",
+    "Type": "Spell",
+    "DisplayName": "Stunning Gaze",
+    "DisplayNameCHS": "震慑凝视"
+  },
+  "Target_ConjureElemental_Container": {
+    "Name": "Target_ConjureElemental_Container",
+    "Type": "Spell",
+    "DisplayName": "Conjure Elemental",
+    "DisplayNameCHS": "召唤元素生物"
+  },
+  "Projectile_Fly_TempestuousMagic": {
+    "Name": "Projectile_Fly_TempestuousMagic",
+    "Type": "Spell",
+    "DisplayName": "Fly",
+    "DisplayNameCHS": "飞行"
+  },
+  "Bonus_Action": {
+    "Name": "Bonus_Action",
+    "Type": null,
+    "DisplayName": "bonus action",
+    "DisplayNameCHS": "附赠动作"
+  },
+  "Target_SHA_Justiciar_UntenableSecret_Ally": {
+    "Name": "Target_SHA_Justiciar_UntenableSecret_Ally",
+    "Type": "Spell",
+    "DisplayName": "Share Untenable Secret",
+    "DisplayNameCHS": "分享难守秘密"
+  },
+  "Target_RipandShred_SaberTooth_Tiger": {
+    "Name": "Target_RipandShred_SaberTooth_Tiger",
+    "Type": "Spell",
+    "DisplayName": "Shred Armour",
+    "DisplayNameCHS": "破甲撕裂"
+  },
+  "REGENERATION_SABERTOOTH": {
+    "Name": "REGENERATION_SABERTOOTH",
+    "Type": "Status",
+    "DisplayName": "regenerate",
+    "DisplayNameCHS": "恢复"
+  },
+  "Target_Guidance": {
+    "Name": "Target_Guidance",
+    "Type": "Spell",
+    "DisplayName": "Guidance",
+    "DisplayNameCHS": "神导术"
+  },
+  "Target_ViciousMockery": {
+    "Name": "Target_ViciousMockery",
+    "Type": "Spell",
+    "DisplayName": "Vicious Mockery",
+    "DisplayNameCHS": "恶毒嘲笑"
+  },
+  "Target_ThornWhip": {
+    "Name": "Target_ThornWhip",
+    "Type": "Spell",
+    "DisplayName": "Thorn Whip",
+    "DisplayNameCHS": "荆棘之鞭"
+  },
+  "Investigation": {
+    "Name": "Investigation",
+    "Type": null,
+    "DisplayName": "Investigation",
+    "DisplayNameCHS": "调查"
+  },
+  "WATER_LAYER_PROTECTION": {
+    "Name": "WATER_LAYER_PROTECTION",
+    "Type": "Status",
+    "DisplayName": "Water Layer Protection",
+    "DisplayNameCHS": "水层防护"
+  },
+  "RESISTANCE": {
+    "Name": "RESISTANCE",
+    "Type": "Status",
+    "DisplayName": "Resistance",
+    "DisplayNameCHS": "抗性"
+  },
+  "BLADE_WARD": {
+    "Name": "BLADE_WARD",
+    "Type": "Status",
+    "DisplayName": "Blade Ward",
+    "DisplayNameCHS": "剑刃防护"
+  },
+  "PactOfTheTome": {
+    "Name": "PactOfTheTome",
+    "Type": "Passive",
+    "DisplayName": "Book of Shadows",
+    "DisplayNameCHS": "阴影之书"
+  },
+  "FLESH_TO_STONE_1": {
+    "Name": "FLESH_TO_STONE_1",
+    "Type": "Status",
+    "DisplayName": "Restraining",
+    "DisplayNameCHS": "束缚"
+  },
+  "Target_CreateIllusion_DisplacerBeast": {
+    "Name": "Target_CreateIllusion_DisplacerBeast",
+    "Type": "Spell",
+    "DisplayName": "Illusory Copy",
+    "DisplayNameCHS": "幻影复制体"
+  },
+  "Dippable": {
+    "Name": "Dippable",
+    "Type": null,
+    "DisplayName": "Dippable",
+    "DisplayNameCHS": "可蘸取"
+  },
+  "Target_Multiattack_Harpy": {
+    "Name": "Target_Multiattack_Harpy",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": null
+  },
+  "LURING_SONG": {
+    "Name": "LURING_SONG",
+    "Type": "Status",
+    "DisplayName": "Lured",
+    "DisplayNameCHS": "诱惑"
+  },
+  "LOW_DEVILSFEE_WEALTH": {
+    "Name": "LOW_DEVILSFEE_WEALTH",
+    "Type": "Status",
+    "DisplayName": "Promise of Wealth",
+    "DisplayNameCHS": "财富承诺"
+  },
+  "LOW_DEVILSFEE_BUFF": {
+    "Name": "LOW_DEVILSFEE_BUFF",
+    "Type": "Status",
+    "DisplayName": "Infectious Greed",
+    "DisplayNameCHS": "传染贪婪"
+  },
+  "MusicalInstrumentProficiency": {
+    "Name": "MusicalInstrumentProficiency",
+    "Type": null,
+    "DisplayName": "Proficient",
+    "DisplayNameCHS": "乐器熟练项"
+  },
+  "Rogues can do enormous damage against enemies with their <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">Sneak Attack</LSTag>, whether they loose a deadly arrow from afar or sink a blade into the unsuspecting target. However, a Sneak Attack requires that the Rogue <i>either</i> has <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on the <LSTag Tooltip=\"AttackRoll\">attack</LSTag> <i>or</i> an ally within melee distance of an enemy. Rogues can make a <LSTag Tooltip=\"Stealth\">Stealth</LSTag> check as a bonus action to try and gain Advantage on an attack roll.<br><br><LSTag Type=\"Image\" Info=\"SoftWarning\"/> You cannot Sneak Attack if you have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on the attack roll.<br>[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/><LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/> Sneak Attack": {
+    "Name": "Rogues can do enormous damage against enemies with their <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">Sneak Attack</LSTag>, whether they loose a deadly arrow from afar or sink a blade into the unsuspecting target. However, a Sneak Attack requires that the Rogue <i>either</i> has <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on the <LSTag Tooltip=\"AttackRoll\">attack</LSTag> <i>or</i> an ally within melee distance of an enemy. Rogues can make a <LSTag Tooltip=\"Stealth\">Stealth</LSTag> check as a bonus action to try and gain Advantage on an attack roll.<br><br><LSTag Type=\"Image\" Info=\"SoftWarning\"/> You cannot Sneak Attack if you have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on the attack roll.<br>[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/><LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/> Sneak Attack",
+    "Type": "Image",
+    "DisplayName": " You cannot Sneak Attack if you have <LSTag Tooltip=\"Disadvantage\">Disadvantage",
+    "DisplayNameCHS": null
+  },
+  "ArmorClass": {
+    "Name": "ArmorClass",
+    "Type": null,
+    "DisplayName": "Armour Class",
+    "DisplayNameCHS": "护甲等级"
+  },
+  "Projectile_ChainLightning": {
+    "Name": "Projectile_ChainLightning",
+    "Type": "Spell",
+    "DisplayName": "Chain Lightning",
+    "DisplayNameCHS": "链状闪电"
+  },
+  "Zone_LightningBolt": {
+    "Name": "Zone_LightningBolt",
+    "Type": "Spell",
+    "DisplayName": "Lightning Bolt",
+    "DisplayNameCHS": "闪电束"
+  },
+  "WYR_ALIORAMUS_MATINGPHEROMONES": {
+    "Name": "WYR_ALIORAMUS_MATINGPHEROMONES",
+    "Type": "Status",
+    "DisplayName": "Frenzy",
+    "DisplayNameCHS": "狂怒"
+  },
+  "GRAPPLED": {
+    "Name": "GRAPPLED",
+    "Type": "Status",
+    "DisplayName": "Grappling",
+    "DisplayNameCHS": "擒抱"
+  },
+  "Target_SmolderingTouch_Elemental_Fire": {
+    "Name": "Target_SmolderingTouch_Elemental_Fire",
+    "Type": "Spell",
+    "DisplayName": "Smouldering Touch",
+    "DisplayNameCHS": "闷燃之触"
+  },
+  "Projectile_EruptingCinder_Elemental_Fire": {
+    "Name": "Projectile_EruptingCinder_Elemental_Fire",
+    "Type": "Spell",
+    "DisplayName": "Erupting Cinder",
+    "DisplayNameCHS": "爆裂余烬"
+  },
+  "Target_SleetStorm": {
+    "Name": "Target_SleetStorm",
+    "Type": "Spell",
+    "DisplayName": "Sleet Storm",
+    "DisplayNameCHS": "雪雨暴"
+  },
+  "Target_Tentacle_DisplacerBeast": {
+    "Name": "Target_Tentacle_DisplacerBeast",
+    "Type": "Spell",
+    "DisplayName": "attack",
+    "DisplayNameCHS": "攻击"
+  },
+  "Target_HuntersMark": {
+    "Name": "Target_HuntersMark",
+    "Type": "Spell",
+    "DisplayName": "Hunter's Mark",
+    "DisplayNameCHS": "猎人印记"
+  },
+  "Shout_AspectOfTheElk": {
+    "Name": "Shout_AspectOfTheElk",
+    "Type": "Spell",
+    "DisplayName": "Aspect of the Elk",
+    "DisplayNameCHS": "驼鹿面貌"
+  },
+  "RAGE_SAHUAGIN": {
+    "Name": "RAGE_SAHUAGIN",
+    "Type": "Status",
+    "DisplayName": "Blood-scent Frenzy",
+    "DisplayNameCHS": "鲜血狂暴"
+  },
+  "MagicResistance": {
+    "Name": "MagicResistance",
+    "Type": "Passive",
+    "DisplayName": "Magic Resistance",
+    "DisplayNameCHS": "魔法抗性"
+  },
+  "BULWARK_MODE": {
+    "Name": "BULWARK_MODE",
+    "Type": "Status",
+    "DisplayName": "Defensive Protocol: Bulwark",
+    "DisplayNameCHS": "防御协议：壁垒"
+  },
+  "MYRKULS_BOON": {
+    "Name": "MYRKULS_BOON",
+    "Type": "Status",
+    "DisplayName": "Reaper's Reward",
+    "DisplayNameCHS": "收割者奖励"
+  },
+  "Target_CallLightning_LightningBolt_5": {
+    "Name": "Target_CallLightning_LightningBolt_5",
+    "Type": "Spell",
+    "DisplayName": "Call Lightning",
+    "DisplayNameCHS": "召雷术"
+  },
+  "Target_LOW_RamazithsTower_Dummy": {
+    "Name": "Target_LOW_RamazithsTower_Dummy",
+    "Type": "Spell",
+    "DisplayName": "Elemental Rebuke",
+    "DisplayNameCHS": "元素叱喝"
+  },
+  "Projectile_LOW_RamazithsTower_ChromaticOrb_Fire": {
+    "Name": "Projectile_LOW_RamazithsTower_ChromaticOrb_Fire",
+    "Type": "Spell",
+    "DisplayName": "Chromatic Orb: Fire",
+    "DisplayNameCHS": "繁彩球：火焰"
+  },
+  "Versatile": {
+    "Name": "Versatile",
+    "Type": null,
+    "DisplayName": "Versatile Weapon",
+    "DisplayNameCHS": "两用"
+  },
+  "Use <LSTag Tooltip=\"Inspiration\">Inspiration</LSTag> <LSTag Type=\"Image\" Info=\"Inspiration\"/> to redo a failed <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>. Keep in mind Inspiration is rare.": {
+    "Name": "Use <LSTag Tooltip=\"Inspiration\">Inspiration</LSTag> <LSTag Type=\"Image\" Info=\"Inspiration\"/> to redo a failed <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>. Keep in mind Inspiration is rare.",
+    "Type": "Image",
+    "DisplayName": " to redo a failed <LSTag Tooltip=\"AbilityCheck\">Ability Check",
+    "DisplayNameCHS": null
+  },
+  "FLANKED": {
+    "Name": "FLANKED",
+    "Type": "Status",
+    "DisplayName": "Threatened",
+    "DisplayNameCHS": "受威胁"
+  },
+  "Target_SurgeryAttack_Syringe_Surgeon": {
+    "Name": "Target_SurgeryAttack_Syringe_Surgeon",
+    "Type": "Spell",
+    "DisplayName": "This Won't Hurt A Bit",
+    "DisplayNameCHS": "注射术"
+  },
+  "MeleeWeaponAttack": {
+    "Name": "MeleeWeaponAttack",
+    "Type": null,
+    "DisplayName": "melee weapon attacks",
+    "DisplayNameCHS": "近战武器攻击"
+  },
+  "Attack Roll": {
+    "Name": "Attack Roll",
+    "Type": null,
+    "DisplayName": "Attack Rolls",
+    "DisplayNameCHS": "攻击掷骰"
+  },
+  "BARKSKIN": {
+    "Name": "BARKSKIN",
+    "Type": "Status",
+    "DisplayName": "Barkskin",
+    "DisplayNameCHS": "树肤术"
+  },
+  "Target_FrenziedStrike": {
+    "Name": "Target_FrenziedStrike",
+    "Type": "Spell",
+    "DisplayName": "Frenzied Strike",
+    "DisplayNameCHS": "狂乱打击"
+  },
+  "Throw_FrenziedThrow": {
+    "Name": "Throw_FrenziedThrow",
+    "Type": "Spell",
+    "DisplayName": "Enraged Throw",
+    "DisplayNameCHS": "愤怒投掷"
+  },
+  "Throw_ImprovisedWeaponBerserker": {
+    "Name": "Throw_ImprovisedWeaponBerserker",
+    "Type": "Spell",
+    "DisplayName": "Improvised Weapon Attack",
+    "DisplayNameCHS": "临时武器攻击"
+  },
+  "HUNTERS_MARK": {
+    "Name": "HUNTERS_MARK",
+    "Type": "Status",
+    "DisplayName": "Hunter's Mark",
+    "DisplayNameCHS": "猎人印记"
+  },
+  "TRUE_STRIKE": {
+    "Name": "TRUE_STRIKE",
+    "Type": "Status",
+    "DisplayName": "True Strike",
+    "DisplayNameCHS": "克敌机先"
+  },
+  "GUIDING_BOLT": {
+    "Name": "GUIDING_BOLT",
+    "Type": "Status",
+    "DisplayName": "Guiding Bolt",
+    "DisplayNameCHS": "曳光弹"
+  },
+  "TwoHanded": {
+    "Name": "TwoHanded",
+    "Type": null,
+    "DisplayName": "two-handed",
+    "DisplayNameCHS": "双手"
+  },
+  "LOW_RAPHAEL_SOULLESS": {
+    "Name": "LOW_RAPHAEL_SOULLESS",
+    "Type": "Status",
+    "DisplayName": "Severs",
+    "DisplayNameCHS": "断裂灵魂"
+  },
+  "STINKING_CLOUD": {
+    "Name": "STINKING_CLOUD",
+    "Type": "Status",
+    "DisplayName": "Nauseate",
+    "DisplayNameCHS": "作呕"
+  },
+  "Manifestation_of_Soul": {
+    "Name": "Manifestation_of_Soul",
+    "Type": "Passive",
+    "DisplayName": "Manifestation of Soul",
+    "DisplayNameCHS": "灵魂具现"
+  },
+  "LOW_RAPHAEL_REPELLING_DIVINITY": {
+    "Name": "LOW_RAPHAEL_REPELLING_DIVINITY",
+    "Type": "Status",
+    "DisplayName": "Punish Divinity",
+    "DisplayNameCHS": "惩罚神圣"
+  },
+  "Target_LOW_DeathbringerAssault_Sarevok": {
+    "Name": "Target_LOW_DeathbringerAssault_Sarevok",
+    "Type": "Spell",
+    "DisplayName": "Deathbringer Assault",
+    "DisplayNameCHS": "死亡使者的袭击"
+  },
+  "OMEN_RAVEN": {
+    "Name": "OMEN_RAVEN",
+    "Type": "Status",
+    "DisplayName": "Cursed",
+    "DisplayNameCHS": "被诅咒"
+  },
+  "ChannelDivinity": {
+    "Name": "ChannelDivinity",
+    "Type": "ActionResource",
+    "DisplayName": "Channel Divinity",
+    "DisplayNameCHS": "引导神力"
+  },
+  "Shout_FerociousAppetite": {
+    "Name": "Shout_FerociousAppetite",
+    "Type": "Spell",
+    "DisplayName": "Unrelenting Ferocity",
+    "DisplayNameCHS": "无情残暴"
+  },
+  "Target_RendVision_RavenFamiliar_Summon": {
+    "Name": "Target_RendVision_RavenFamiliar_Summon",
+    "Type": "Spell",
+    "DisplayName": "Blind",
+    "DisplayNameCHS": "目盲"
+  },
+  "If you pick up too many heavy items, you will become <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/>Encumbered. <br><br>Lightly Encumbered characters will have a reduced <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> and halved Jump distance.<br>Heavily Encumbered characters move much more slowly, cannot jump or climb, and have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag>, as well as Strength, Dexterity, and Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>. Drop items or change your equipment to become unencumbered.<br><br>[IE_PanelSelect] Open Game Menu <br> <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Drop Items": {
+    "Name": "If you pick up too many heavy items, you will become <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/>Encumbered. <br><br>Lightly Encumbered characters will have a reduced <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> and halved Jump distance.<br>Heavily Encumbered characters move much more slowly, cannot jump or climb, and have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag>, as well as Strength, Dexterity, and Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>. Drop items or change your equipment to become unencumbered.<br><br>[IE_PanelSelect] Open Game Menu <br> <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Drop Items",
+    "Type": "Image",
+    "DisplayName": "Encumbered. <br><br>Lightly Encumbered characters will have a reduced <LSTag Tooltip=\"MovementSpeed\">Movement Speed",
+    "DisplayNameCHS": null
+  },
+  "OFF_BALANCED": {
+    "Name": "OFF_BALANCED",
+    "Type": "Status",
+    "DisplayName": "Off Balance",
+    "DisplayNameCHS": "失衡"
+  },
+  "MOO_MAG_KETHERIC_STUPEFIED": {
+    "Name": "MOO_MAG_KETHERIC_STUPEFIED",
+    "Type": "Status",
+    "DisplayName": "Numbs",
+    "DisplayNameCHS": "麻木"
+  },
+  "ENCUMBERED_MAX": {
+    "Name": "ENCUMBERED_MAX",
+    "Type": "Status",
+    "DisplayName": "Encumbered",
+    "DisplayNameCHS": null
+  },
+  "MAG_VIOLENCE": {
+    "Name": "MAG_VIOLENCE",
+    "Type": "Status",
+    "DisplayName": "Wrath",
+    "DisplayNameCHS": "怒火"
+  },
+  "Persuasion": {
+    "Name": "Persuasion",
+    "Type": null,
+    "DisplayName": "Persuasion",
+    "DisplayNameCHS": "游说"
+  },
+  "Thieves' Tools <LSTag Type=\"Image\" Info=\"TutorialThievesTools\"/> can be used to pick locks if you pass a successful <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>. If you fail the check, the Thieves' Tools will break - but worry not, every lock has a key somewhere. <br><br>[IE_ContextMenu] Use the Context Menu on a lock or chest to pick it": {
+    "Name": "Thieves' Tools <LSTag Type=\"Image\" Info=\"TutorialThievesTools\"/> can be used to pick locks if you pass a successful <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>. If you fail the check, the Thieves' Tools will break - but worry not, every lock has a key somewhere. <br><br>[IE_ContextMenu] Use the Context Menu on a lock or chest to pick it",
+    "Type": "Image",
+    "DisplayName": " can be used to pick locks if you pass a successful <LSTag Tooltip=\"AbilityCheck\">Ability Check",
+    "DisplayNameCHS": null
+  },
+  "WYR_DRIBBLES_HOWL_CRIT": {
+    "Name": "WYR_DRIBBLES_HOWL_CRIT",
+    "Type": "Status",
+    "DisplayName": "Menace",
+    "DisplayNameCHS": "威胁"
+  },
+  "Shout_FalseLife": {
+    "Name": "Shout_FalseLife",
+    "Type": "Spell",
+    "DisplayName": "False Life",
+    "DisplayNameCHS": "虚假生命"
+  },
+  "Target_LOW_RamazithsTower_Stoneskin": {
+    "Name": "Target_LOW_RamazithsTower_Stoneskin",
+    "Type": "Spell",
+    "DisplayName": "Stone Skin",
+    "DisplayNameCHS": "石肤术"
+  },
+  "Projectile_LOW_RamazithsTower_ChromaticOrb_Earth": {
+    "Name": "Projectile_LOW_RamazithsTower_ChromaticOrb_Earth",
+    "Type": "Spell",
+    "DisplayName": "Chromatic Orb: Poison",
+    "DisplayNameCHS": "繁彩球：毒素"
+  },
+  "GARROTE_TARGET_HUMANOID": {
+    "Name": "GARROTE_TARGET_HUMANOID",
+    "Type": "Status",
+    "DisplayName": "Garrotting",
+    "DisplayNameCHS": "绞杀"
+  },
+  "Target_Multiattack_FleshGolem": {
+    "Name": "Target_Multiattack_FleshGolem",
+    "Type": "Spell",
+    "DisplayName": "Multiattacks",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "POLYMORPH_SHEEP": {
+    "Name": "POLYMORPH_SHEEP",
+    "Type": "Status",
+    "DisplayName": "Polymorphed",
+    "DisplayNameCHS": "变形"
+  },
+  "FEATHER_FALL": {
+    "Name": "FEATHER_FALL",
+    "Type": "Status",
+    "DisplayName": "Feather Fall",
+    "DisplayNameCHS": "羽落术"
+  },
+  "Target_HypnoticGaze_Maintain": {
+    "Name": "Target_HypnoticGaze_Maintain",
+    "Type": "Spell",
+    "DisplayName": "Maintain",
+    "DisplayNameCHS": "维持"
+  },
+  "Shout_Owlbear_Wildshape_Smash": {
+    "Name": "Shout_Owlbear_Wildshape_Smash",
+    "Type": "Spell",
+    "DisplayName": "Rupture",
+    "DisplayNameCHS": "裂地"
+  },
+  "Shout_Owlbear_Wildshape_Enrage": {
+    "Name": "Shout_Owlbear_Wildshape_Enrage",
+    "Type": "Spell",
+    "DisplayName": "Enraged",
+    "DisplayNameCHS": "激怒"
+  },
+  "WeaponProficiency": {
+    "Name": "WeaponProficiency",
+    "Type": null,
+    "DisplayName": "Proficient",
+    "DisplayNameCHS": "熟练项"
+  },
+  "COLOR_SPRAY": {
+    "Name": "COLOR_SPRAY",
+    "Type": "Status",
+    "DisplayName": "Colour Spray",
+    "DisplayNameCHS": "目盲"
+  },
+  "Projectile_LOW_RamazithsTower_ChromaticOrb_Air": {
+    "Name": "Projectile_LOW_RamazithsTower_ChromaticOrb_Air",
+    "Type": "Spell",
+    "DisplayName": "Chromatic Orb: Lightning",
+    "DisplayNameCHS": "繁彩球：闪电"
+  },
+  "Wall_WallOfFire": {
+    "Name": "Wall_WallOfFire",
+    "Type": "Spell",
+    "DisplayName": "Wall of Fire",
+    "DisplayNameCHS": "火墙术"
+  },
+  "History": {
+    "Name": "History",
+    "Type": null,
+    "DisplayName": "History",
+    "DisplayNameCHS": "历史的"
+  },
+  "SHA_NECROMANCER_FLESH_BERSERK": {
+    "Name": "SHA_NECROMANCER_FLESH_BERSERK",
+    "Type": "Status",
+    "DisplayName": "Berserk",
+    "DisplayNameCHS": "失心狂怒"
+  },
+  "TWN_OOZE_PUTRID_AURA_STATUS": {
+    "Name": "TWN_OOZE_PUTRID_AURA_STATUS",
+    "Type": "Status",
+    "DisplayName": "Fetid Fumes",
+    "DisplayNameCHS": "恶臭烟气"
+  },
+  "Target_GreaterRestoration": {
+    "Name": "Target_GreaterRestoration",
+    "Type": "Spell",
+    "DisplayName": "Greater Restoration",
+    "DisplayNameCHS": "高等复原术"
+  },
+  "PARALYZED_SPECTATOR": {
+    "Name": "PARALYZED_SPECTATOR",
+    "Type": "Status",
+    "DisplayName": "Paralyzes",
+    "DisplayNameCHS": "麻痹"
+  },
+  "Target_IceStorm": {
+    "Name": "Target_IceStorm",
+    "Type": "Spell",
+    "DisplayName": "Ice Storm",
+    "DisplayNameCHS": "冰风暴"
+  },
+  "Shout_SeismicStrike_Elemental_Earth": {
+    "Name": "Shout_SeismicStrike_Elemental_Earth",
+    "Type": "Spell",
+    "DisplayName": "Seismic Strike",
+    "DisplayNameCHS": "撼地锤击"
+  },
+  "Target_Slam_Elemental_Earth": {
+    "Name": "Target_Slam_Elemental_Earth",
+    "Type": "Spell",
+    "DisplayName": "Soil-Clogged Slam",
+    "DisplayNameCHS": "泥泞猛击"
+  },
+  "PLANT_GROWTH": {
+    "Name": "PLANT_GROWTH",
+    "Type": "Status",
+    "DisplayName": "Plant Growth Surface",
+    "DisplayNameCHS": "植物生长地表"
+  },
+  "DIFFICULT_TERRAIN_VINES": {
+    "Name": "DIFFICULT_TERRAIN_VINES",
+    "Type": "Status",
+    "DisplayName": "Vine Surface",
+    "DisplayNameCHS": "藤蔓地表"
+  },
+  "RangedSpellAttack": {
+    "Name": "RangedSpellAttack",
+    "Type": null,
+    "DisplayName": "Ranged Spell Attacks",
+    "DisplayNameCHS": "远程法术攻击"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The creature must have an <LSTag Tooltip=\"Intelligence\">Intelligence</LSTag> of 3 or less.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The creature must have an <LSTag Tooltip=\"Intelligence\">Intelligence</LSTag> of 3 or less.",
+    "Type": "Image",
+    "DisplayName": " The creature must have an <LSTag Tooltip=\"Intelligence\">Intelligence",
+    "DisplayNameCHS": null
+  },
+  "Target_Fly": {
+    "Name": "Target_Fly",
+    "Type": "Spell",
+    "DisplayName": "Flight",
+    "DisplayNameCHS": "飞行术"
+  },
+  "Target_Multiattack_Ettercap": {
+    "Name": "Target_Multiattack_Ettercap",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": null
+  },
+  "Shout_Speak_With_Animals": {
+    "Name": "Shout_Speak_With_Animals",
+    "Type": "Spell",
+    "DisplayName": "Speak With Animals",
+    "DisplayNameCHS": "动物交谈"
+  },
+  "Target_ArcaneLock": {
+    "Name": "Target_ArcaneLock",
+    "Type": "Spell",
+    "DisplayName": "Arcane Lock",
+    "DisplayNameCHS": "秘法锁"
+  },
+  "Target_Multiattack_GiantEagle": {
+    "Name": "Target_Multiattack_GiantEagle",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": null
+  },
+  "| from <LSTag Type=\"ModifierSource\">[1]</LSTag> |": {
+    "Name": "| from <LSTag Type=\"ModifierSource\">[1]</LSTag> |",
+    "Type": "ModifierSource",
+    "DisplayName": "[1]",
+    "DisplayNameCHS": null
+  },
+  "CRAB_PINCHED": {
+    "Name": "CRAB_PINCHED",
+    "Type": "Status",
+    "DisplayName": "Pinched",
+    "DisplayNameCHS": "拘束"
+  },
+  "Encumbered": {
+    "Name": "Encumbered",
+    "Type": null,
+    "DisplayName": "Encumbered",
+    "DisplayNameCHS": "超重"
+  },
+  "CONTAGION_FLESH_ROT_1": {
+    "Name": "CONTAGION_FLESH_ROT_1",
+    "Type": "Status",
+    "DisplayName": "Contagion Poisoned: Stage 1",
+    "DisplayNameCHS": "毒素蔓延：1阶"
+  },
+  "CONTAGION_FLESH_ROT": {
+    "Name": "CONTAGION_FLESH_ROT",
+    "Type": "Status",
+    "DisplayName": "Stricken With Flesh Rot",
+    "DisplayNameCHS": "烂肉症"
+  },
+  "Shout_Blink": {
+    "Name": "Shout_Blink",
+    "Type": "Spell",
+    "DisplayName": "Blink",
+    "DisplayNameCHS": "闪现"
+  },
+  "MAG_INCREASED_DAMAGE_COLD": {
+    "Name": "MAG_INCREASED_DAMAGE_COLD",
+    "Type": "Status",
+    "DisplayName": "Frostbite",
+    "DisplayNameCHS": "霜噬"
+  },
+  "Projectile_AcidArrow": {
+    "Name": "Projectile_AcidArrow",
+    "Type": "Spell",
+    "DisplayName": "Melf's Acid Arrow",
+    "DisplayNameCHS": "马友夫强酸箭"
+  },
+  "Target_Darkness": {
+    "Name": "Target_Darkness",
+    "Type": "Spell",
+    "DisplayName": "Darkness",
+    "DisplayNameCHS": "黑暗术"
+  },
+  "RAGE_FRENZY_BURNOUT": {
+    "Name": "RAGE_FRENZY_BURNOUT",
+    "Type": "Status",
+    "DisplayName": "Frenzied Strain",
+    "DisplayNameCHS": "发狂昏迷"
+  },
+  "MAG_GreenSporeCloud": {
+    "Name": "MAG_GreenSporeCloud",
+    "Type": "Spell",
+    "DisplayName": "Bibberbang Spores",
+    "DisplayNameCHS": "噼啪砰孢子"
+  },
+  "MAG_BlackSporeCloud": {
+    "Name": "MAG_BlackSporeCloud",
+    "Type": "Spell",
+    "DisplayName": "Timmask Spores",
+    "DisplayNameCHS": "鬼头蘑菇孢子"
+  },
+  "MAG_WhiteSporeCloud": {
+    "Name": "MAG_WhiteSporeCloud",
+    "Type": "Spell",
+    "DisplayName": "Haste Spores",
+    "DisplayNameCHS": "加速孢子"
+  },
+  "Target_BardicInspiration": {
+    "Name": "Target_BardicInspiration",
+    "Type": "Spell",
+    "DisplayName": "Bardic Inspiration",
+    "DisplayNameCHS": "诗人激励"
+  },
+  "DEATH_WARD": {
+    "Name": "DEATH_WARD",
+    "Type": "Status",
+    "DisplayName": "Death Ward",
+    "DisplayNameCHS": "死亡防护"
+  },
+  "KNOCKED_OUT": {
+    "Name": "KNOCKED_OUT",
+    "Type": "Status",
+    "DisplayName": "Knocked Out",
+    "DisplayNameCHS": "倒地"
+  },
+  "CHEST_TRAUMA": {
+    "Name": "CHEST_TRAUMA",
+    "Type": "Status",
+    "DisplayName": "Chest Trauma",
+    "DisplayNameCHS": "胸外伤"
+  },
+  "Finesse": {
+    "Name": "Finesse",
+    "Type": null,
+    "DisplayName": "Finesse Weapon",
+    "DisplayNameCHS": "灵巧武器"
+  },
+  "SHILLELAGH": {
+    "Name": "SHILLELAGH",
+    "Type": "Status",
+    "DisplayName": "Shillelagh",
+    "DisplayNameCHS": "橡棍术"
+  },
+  "Target_ConjureElementals_Minor_Container": {
+    "Name": "Target_ConjureElementals_Minor_Container",
+    "Type": "Spell",
+    "DisplayName": "Conjure Minor Elemental",
+    "DisplayNameCHS": "召唤初级元素生物"
+  },
+  "Target_GraspingVine": {
+    "Name": "Target_GraspingVine",
+    "Type": "Spell",
+    "DisplayName": "Grasping Vine",
+    "DisplayNameCHS": "贪婪藤蔓"
+  },
+  "EXHAUSTED": {
+    "Name": "EXHAUSTED",
+    "Type": "Status",
+    "DisplayName": "Exhausted",
+    "DisplayNameCHS": "力竭"
+  },
+  "LOW_DEVILSFEE_GOLD_STATUS": {
+    "Name": "LOW_DEVILSFEE_GOLD_STATUS",
+    "Type": "Status",
+    "DisplayName": "Mammon's Hold",
+    "DisplayNameCHS": "玛门的掌控"
+  },
+  "ASTARION_HAPPY": {
+    "Name": "ASTARION_HAPPY",
+    "Type": "Status",
+    "DisplayName": "Happy",
+    "DisplayNameCHS": "高兴"
+  },
+  "ASTARION_WEAK": {
+    "Name": "ASTARION_WEAK",
+    "Type": "Status",
+    "DisplayName": "Bloodless",
+    "DisplayNameCHS": "贫血"
+  },
+  "Projectile_LOW_Raphael_PrimordialHell_Chain": {
+    "Name": "Projectile_LOW_Raphael_PrimordialHell_Chain",
+    "Type": "Spell",
+    "DisplayName": "Igniting Sparks",
+    "DisplayNameCHS": "燃烧火花"
+  },
+  "MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED": {
+    "Name": "MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED",
+    "Type": "Status",
+    "DisplayName": "Jolts",
+    "DisplayNameCHS": "触电"
+  },
+  "Target_Smite_Divine": {
+    "Name": "Target_Smite_Divine",
+    "Type": "Spell",
+    "DisplayName": "Smite",
+    "DisplayNameCHS": "至圣斩"
+  },
+  "Target_Polymorph_Shapechanger": {
+    "Name": "Target_Polymorph_Shapechanger",
+    "Type": "Spell",
+    "DisplayName": "Polymorph",
+    "DisplayNameCHS": "变形术"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The spores disappear when <LSTag Type=\"Spell\" Tooltip=\"Shout_SymbioticEntity\">Symbiotic Entity</LSTag> ends.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The spores disappear when <LSTag Type=\"Spell\" Tooltip=\"Shout_SymbioticEntity\">Symbiotic Entity</LSTag> ends.",
+    "Type": "Image",
+    "DisplayName": " The spores disappear when <LSTag Type=\"Spell\" Tooltip=\"Shout_SymbioticEntity\">Symbiotic Entity",
+    "DisplayNameCHS": null
+  },
+  "Target_CallLightning_LightningBolt_4": {
+    "Name": "Target_CallLightning_LightningBolt_4",
+    "Type": "Spell",
+    "DisplayName": "Call Lightning",
+    "DisplayNameCHS": "召雷术"
+  },
+  "Projectile_DeathBurst_IntellectDevourer": {
+    "Name": "Projectile_DeathBurst_IntellectDevourer",
+    "Type": "Spell",
+    "DisplayName": "Morphic Brine Explosion",
+    "DisplayNameCHS": "形态卤水爆炸"
+  },
+  "Target_CureWounds_Mass": {
+    "Name": "Target_CureWounds_Mass",
+    "Type": "Spell",
+    "DisplayName": "Mass Cure Wounds",
+    "DisplayNameCHS": "群体疗伤术"
+  },
+  "BLUR": {
+    "Name": "BLUR",
+    "Type": "Status",
+    "DisplayName": "Blurred",
+    "DisplayNameCHS": "模糊"
+  },
+  "Shout_AspectOfTheWolf": {
+    "Name": "Shout_AspectOfTheWolf",
+    "Type": "Spell",
+    "DisplayName": "Aspect of the Wolf",
+    "DisplayNameCHS": "狼之面貌"
+  },
+  "Target_BestowCurse": {
+    "Name": "Target_BestowCurse",
+    "Type": "Spell",
+    "DisplayName": "Bestow Curse",
+    "DisplayNameCHS": "降咒"
+  },
+  "FROZEN": {
+    "Name": "FROZEN",
+    "Type": "Status",
+    "DisplayName": "Frozen",
+    "DisplayNameCHS": "冰冻"
+  },
+  "ASPECT_OF_THE_WOLF": {
+    "Name": "ASPECT_OF_THE_WOLF",
+    "Type": "Status",
+    "DisplayName": "Aspect of the Wolf",
+    "DisplayNameCHS": "狼之面貌"
+  },
+  "Throw_Throw": {
+    "Name": "Throw_Throw",
+    "Type": "Spell",
+    "DisplayName": "Thrown",
+    "DisplayNameCHS": "投掷攻击"
+  },
+  "Shout_Prowl_Panther": {
+    "Name": "Shout_Prowl_Panther",
+    "Type": "Spell",
+    "DisplayName": "Prowl",
+    "DisplayNameCHS": "潜行"
+  },
+  "Target_SurgeryAttack_Trepan_Surgeon": {
+    "Name": "Target_SurgeryAttack_Trepan_Surgeon",
+    "Type": "Spell",
+    "DisplayName": "Terror Trepan",
+    "DisplayNameCHS": "环锯术"
+  },
+  "STEP_OF_THE_WIND": {
+    "Name": "STEP_OF_THE_WIND",
+    "Type": "Status",
+    "DisplayName": "Step of The Wind",
+    "DisplayNameCHS": "飞檐走壁"
+  },
+  "Target_Bite_Wolf_Summon": {
+    "Name": "Target_Bite_Wolf_Summon",
+    "Type": "Spell",
+    "DisplayName": "Lunging Bite",
+    "DisplayNameCHS": "飞扑啃咬"
+  },
+  "Projectile_LOW_RamazithsTower_ChromaticOrb_Water": {
+    "Name": "Projectile_LOW_RamazithsTower_ChromaticOrb_Water",
+    "Type": "Spell",
+    "DisplayName": "Chromatic Orb: Cold",
+    "DisplayNameCHS": "繁彩球：寒冷"
+  },
+  "Resistance": {
+    "Name": "Resistance",
+    "Type": null,
+    "DisplayName": "Resistance",
+    "DisplayNameCHS": "抗性"
+  },
+  "Shout_PassWithoutTrace": {
+    "Name": "Shout_PassWithoutTrace",
+    "Type": "Spell",
+    "DisplayName": "Pass Without Trace",
+    "DisplayNameCHS": "行动无踪"
+  },
+  "Target_Jump": {
+    "Name": "Target_Jump",
+    "Type": "Spell",
+    "DisplayName": "Enhance Leap",
+    "DisplayNameCHS": "强化跳跃"
+  },
+  "SHA_WITHERINGLIFE": {
+    "Name": "SHA_WITHERINGLIFE",
+    "Type": "Status",
+    "DisplayName": "Withering Life Force",
+    "DisplayNameCHS": "枯萎生命力场"
+  },
+  "Shout_PackHowl_Barbarian": {
+    "Name": "Shout_PackHowl_Barbarian",
+    "Type": "Spell",
+    "DisplayName": "Inciting Howl",
+    "DisplayNameCHS": "激励咆哮"
+  },
+  "BLOODLESS": {
+    "Name": "BLOODLESS",
+    "Type": "Status",
+    "DisplayName": "Bloodless",
+    "DisplayNameCHS": "贫血"
+  },
+  "DISEASED": {
+    "Name": "DISEASED",
+    "Type": "Status",
+    "DisplayName": "Diseased",
+    "DisplayNameCHS": "患病"
+  },
+  "PARALYSED": {
+    "Name": "PARALYSED",
+    "Type": "Status",
+    "DisplayName": "Paralysed",
+    "DisplayNameCHS": "麻痹"
+  },
+  "LOW_HOUSEOFHOPE_FIRE": {
+    "Name": "LOW_HOUSEOFHOPE_FIRE",
+    "Type": "Status",
+    "DisplayName": "Flame-Feeble",
+    "DisplayNameCHS": "火焰衰弱"
+  },
+  "HIDDEN": {
+    "Name": "HIDDEN",
+    "Type": "Status",
+    "DisplayName": "Hidden",
+    "DisplayNameCHS": "隐藏"
+  },
+  "DARKVISION": {
+    "Name": "DARKVISION",
+    "Type": "Status",
+    "DisplayName": "Darkvision",
+    "DisplayNameCHS": "黑暗视觉。"
+  },
+  "PIN_DOWN": {
+    "Name": "PIN_DOWN",
+    "Type": "Status",
+    "DisplayName": "Pin Down",
+    "DisplayNameCHS": "约束"
+  },
+  "Projectile_LOW_Houndmaster_GraveShot": {
+    "Name": "Projectile_LOW_Houndmaster_GraveShot",
+    "Type": "Spell",
+    "DisplayName": "Grave Shot",
+    "DisplayNameCHS": "坟墓射击"
+  },
+  "Target_Multiattack_Redcap": {
+    "Name": "Target_Multiattack_Redcap",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": null
+  },
+  "BLOODLUST_REDCAP": {
+    "Name": "BLOODLUST_REDCAP",
+    "Type": "Status",
+    "DisplayName": "Bloodlust",
+    "DisplayNameCHS": "嗜血"
+  },
+  "Shout_Bard_Perform_Whistle": {
+    "Name": "Shout_Bard_Perform_Whistle",
+    "Type": "Spell",
+    "DisplayName": "Performing",
+    "DisplayNameCHS": "表演"
+  },
+  "END_NETHERBRAIN_SLOW": {
+    "Name": "END_NETHERBRAIN_SLOW",
+    "Type": "Status",
+    "DisplayName": "Mindbreaks",
+    "DisplayNameCHS": "精神破碎"
+  },
+  "GREATER_INVISIBILITY": {
+    "Name": "GREATER_INVISIBILITY",
+    "Type": "Status",
+    "DisplayName": "Invisible",
+    "DisplayNameCHS": "隐形"
+  },
+  "BardicInspiration": {
+    "Name": "BardicInspiration",
+    "Type": "ActionResource",
+    "DisplayName": "Bardic Inspiration",
+    "DisplayNameCHS": "吟游诗人激励点"
+  },
+  "ENLARGED": {
+    "Name": "ENLARGED",
+    "Type": "Status",
+    "DisplayName": "Enlarged",
+    "DisplayNameCHS": "巨化"
+  },
+  "REDUCED": {
+    "Name": "REDUCED",
+    "Type": "Status",
+    "DisplayName": "Reduced",
+    "DisplayNameCHS": "缩小"
+  },
+  "Target_Slow": {
+    "Name": "Target_Slow",
+    "Type": "Spell",
+    "DisplayName": "Slow",
+    "DisplayNameCHS": "缓慢术"
+  },
+  "CLOAK_OF_SHADOWS_MONK": {
+    "Name": "CLOAK_OF_SHADOWS_MONK",
+    "Type": "Status",
+    "DisplayName": "Invisible",
+    "DisplayNameCHS": "隐形"
+  },
+  "Target_UND_Multiattack_Myconid_Glut": {
+    "Name": "Target_UND_Multiattack_Myconid_Glut",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "OPEN_HAND_NO_REACTIONS": {
+    "Name": "OPEN_HAND_NO_REACTIONS",
+    "Type": "Status",
+    "DisplayName": "Stagger",
+    "DisplayNameCHS": "惊惧"
+  },
+  "THREATENED": {
+    "Name": "THREATENED",
+    "Type": "Status",
+    "DisplayName": "Threatened",
+    "DisplayNameCHS": "威胁"
+  },
+  "Target_Whirlwind_Djinni": {
+    "Name": "Target_Whirlwind_Djinni",
+    "Type": "Spell",
+    "DisplayName": "Sweetplum Gales",
+    "DisplayNameCHS": "甜莓狂风"
+  },
+  "Zone_Thunderwave_Djinni": {
+    "Name": "Zone_Thunderwave_Djinni",
+    "Type": "Spell",
+    "DisplayName": "Thunderwave",
+    "DisplayNameCHS": "雷鸣波"
+  },
+  "Zone_Inhale_Djinni": {
+    "Name": "Zone_Inhale_Djinni",
+    "Type": "Spell",
+    "DisplayName": "Drunken Inhale",
+    "DisplayNameCHS": "醉意龙卷"
+  },
+  "LOW_CAZADORSPALACE_ASCENSION_BUFF": {
+    "Name": "LOW_CAZADORSPALACE_ASCENSION_BUFF",
+    "Type": "Status",
+    "DisplayName": "Sinister Lord",
+    "DisplayNameCHS": "邪恶领主"
+  },
+  "PortentDie": {
+    "Name": "PortentDie",
+    "Type": null,
+    "DisplayName": "Portent Dice",
+    "DisplayNameCHS": "预兆骰子"
+  },
+  "Target_Jump_2": {
+    "Name": "Target_Jump_2",
+    "Type": "Spell",
+    "DisplayName": "Invigorate Leap",
+    "DisplayNameCHS": "活力之跃"
+  },
+  "Shout_Blur": {
+    "Name": "Shout_Blur",
+    "Type": "Spell",
+    "DisplayName": "Blur",
+    "DisplayNameCHS": "朦胧术"
+  },
+  "LOW_RamazithsTower_ElementalSiphon": {
+    "Name": "LOW_RamazithsTower_ElementalSiphon",
+    "Type": "Passive",
+    "DisplayName": "Siphoned",
+    "DisplayNameCHS": "吸取"
+  },
+  "POISON_SIMPLE_CONDITION": {
+    "Name": "POISON_SIMPLE_CONDITION",
+    "Type": "Status",
+    "DisplayName": "Basic Poison",
+    "DisplayNameCHS": null
+  },
+  "Target_Invisibility_Greater": {
+    "Name": "Target_Invisibility_Greater",
+    "Type": "Spell",
+    "DisplayName": "Greater Invisibility",
+    "DisplayNameCHS": "高等隐形术"
+  },
+  "BRITTLE": {
+    "Name": "BRITTLE",
+    "Type": "Status",
+    "DisplayName": "Brittle",
+    "DisplayNameCHS": "易碎"
+  },
+  "BURNING_HOLY": {
+    "Name": "BURNING_HOLY",
+    "Type": "Status",
+    "DisplayName": "Holy Flame",
+    "DisplayNameCHS": "圣火"
+  },
+  "MAG_Fire_Heat_Convergence_Passive": {
+    "Name": "MAG_Fire_Heat_Convergence_Passive",
+    "Type": "Passive",
+    "DisplayName": "Heat Convergence",
+    "DisplayNameCHS": "灼热趋同"
+  },
+  "BLIGHT_ENTANGLE": {
+    "Name": "BLIGHT_ENTANGLE",
+    "Type": "Status",
+    "DisplayName": "Constrict",
+    "DisplayNameCHS": "绞缠"
+  },
+  "LayOnHandsCharge": {
+    "Name": "LayOnHandsCharge",
+    "Type": "ActionResource",
+    "DisplayName": "Lay on Hands Charge",
+    "DisplayNameCHS": "圣疗充能"
+  },
+  "MEPHIT_MUD_RESTRAINED": {
+    "Name": "MEPHIT_MUD_RESTRAINED",
+    "Type": "Status",
+    "DisplayName": "Restraining",
+    "DisplayNameCHS": "束缚"
+  },
+  "Projectile_ChromaticOrb_Cold": {
+    "Name": "Projectile_ChromaticOrb_Cold",
+    "Type": "Spell",
+    "DisplayName": "Hurl",
+    "DisplayNameCHS": "猛投"
+  },
+  "Zone_IceMephit_IceBreath": {
+    "Name": "Zone_IceMephit_IceBreath",
+    "Type": "Spell",
+    "DisplayName": "Exhale",
+    "DisplayNameCHS": "呼出"
+  },
+  "Shout_DeathBurst_Chosen_IceMephit": {
+    "Name": "Shout_DeathBurst_Chosen_IceMephit",
+    "Type": "Spell",
+    "DisplayName": "Explode",
+    "DisplayNameCHS": "爆炸"
+  },
+  "Target_Burrow_GiantBadger": {
+    "Name": "Target_Burrow_GiantBadger",
+    "Type": "Spell",
+    "DisplayName": "Burrow",
+    "DisplayNameCHS": "打洞"
+  },
+  "Shout_MAG_WeaponAction_UndeadTurningBolt": {
+    "Name": "Shout_MAG_WeaponAction_UndeadTurningBolt",
+    "Type": "Spell",
+    "DisplayName": "Sacred Munitions",
+    "DisplayNameCHS": "神圣弹药"
+  },
+  "Target_Web": {
+    "Name": "Target_Web",
+    "Type": "Spell",
+    "DisplayName": "Web",
+    "DisplayNameCHS": "蛛网术"
+  },
+  "ALCH_ELIXIR_TADPOLE": {
+    "Name": "ALCH_ELIXIR_TADPOLE",
+    "Type": "Status",
+    "DisplayName": "Psionic Weakening",
+    "DisplayNameCHS": "灵能弱化"
+  },
+  "ALCH_ELIXIR_TADPOLE_ADVANTAGE": {
+    "Name": "ALCH_ELIXIR_TADPOLE_ADVANTAGE",
+    "Type": "Status",
+    "DisplayName": "Psionic Enrichment",
+    "DisplayNameCHS": "灵能浓缩"
+  },
+  "Projectile_Fireball_Dragon": {
+    "Name": "Projectile_Fireball_Dragon",
+    "Type": "Spell",
+    "DisplayName": "Fire Breath",
+    "DisplayNameCHS": "火焰吐息"
+  },
+  "MOONBEAM": {
+    "Name": "MOONBEAM",
+    "Type": "Status",
+    "DisplayName": "Moonbeam",
+    "DisplayNameCHS": "月华之光"
+  },
+  "HYPNOTIC_PATTERN": {
+    "Name": "HYPNOTIC_PATTERN",
+    "Type": "Status",
+    "DisplayName": "Hypnotise",
+    "DisplayNameCHS": "催眠"
+  },
+  "| Melee Attack Bonus <LSTag Type=\"Damage\">[1]</LSTag> |": {
+    "Name": "| Melee Attack Bonus <LSTag Type=\"Damage\">[1]</LSTag> |",
+    "Type": "Damage",
+    "DisplayName": "[1]",
+    "DisplayNameCHS": null
+  },
+  "Target_Polymorph": {
+    "Name": "Target_Polymorph",
+    "Type": "Spell",
+    "DisplayName": "Polymorph",
+    "DisplayNameCHS": "变形术"
+  },
+  "Target_BladeFlourish_Mobile": {
+    "Name": "Target_BladeFlourish_Mobile",
+    "Type": "Spell",
+    "DisplayName": "Blade Flourish",
+    "DisplayNameCHS": "移动华舞"
+  },
+  "LOW_FATHERCARRION_GREATERCURSE_2": {
+    "Name": "LOW_FATHERCARRION_GREATERCURSE_2",
+    "Type": "Status",
+    "DisplayName": "Mystic Carrion's Blinding Curse",
+    "DisplayNameCHS": "秘术师卡里翁的目盲诅咒"
+  },
+  "VULNERABLE": {
+    "Name": "VULNERABLE",
+    "Type": null,
+    "DisplayName": "vulnerable",
+    "DisplayNameCHS": "易伤"
+  },
+  "AURA_OF_DEVOTION": {
+    "Name": "AURA_OF_DEVOTION",
+    "Type": "Status",
+    "DisplayName": "Aura of Devotion",
+    "DisplayNameCHS": "奉献灵光"
+  },
+  "ASPECT_OF_THE_ELK_AURA": {
+    "Name": "ASPECT_OF_THE_ELK_AURA",
+    "Type": "Status",
+    "DisplayName": "Aspect of the Elk",
+    "DisplayNameCHS": "麋鹿面貌"
+  },
+  "NaturesStep_Dryad": {
+    "Name": "NaturesStep_Dryad",
+    "Type": "Passive",
+    "DisplayName": "Nature's Step",
+    "DisplayNameCHS": "自然步伐"
+  },
+  "Target_Entangle": {
+    "Name": "Target_Entangle",
+    "Type": "Spell",
+    "DisplayName": "Entangle",
+    "DisplayNameCHS": "纠缠"
+  },
+  "Target_Summon_WoodWoad_Dryad": {
+    "Name": "Target_Summon_WoodWoad_Dryad",
+    "Type": "Spell",
+    "DisplayName": "Summon",
+    "DisplayNameCHS": "召唤"
+  },
+  "LOW_HOUNDMASTER_HOUNDMASTERSMARK": {
+    "Name": "LOW_HOUNDMASTER_HOUNDMASTERSMARK",
+    "Type": "Status",
+    "DisplayName": "Marked",
+    "DisplayNameCHS": "标记"
+  },
+  "Target_LOW_OskarsBeloved_Possession": {
+    "Name": "Target_LOW_OskarsBeloved_Possession",
+    "Type": "Spell",
+    "DisplayName": "Possessing",
+    "DisplayNameCHS": "转化"
+  },
+  "Projectile_BladeFlourish_Mobile": {
+    "Name": "Projectile_BladeFlourish_Mobile",
+    "Type": "Spell",
+    "DisplayName": "ranged",
+    "DisplayNameCHS": "远程"
+  },
+  "Reach": {
+    "Name": "Reach",
+    "Type": null,
+    "DisplayName": "Reach Weapon",
+    "DisplayNameCHS": "额外范围"
+  },
+  "Projectile_LOW_IronThrone_Mizora_ExplodingSpiderlings_Explosion": {
+    "Name": "Projectile_LOW_IronThrone_Mizora_ExplodingSpiderlings_Explosion",
+    "Type": "Spell",
+    "DisplayName": "Detonates",
+    "DisplayNameCHS": "爆炸"
+  },
+  "Target_Multiattack_Automaton": {
+    "Name": "Target_Multiattack_Automaton",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "STATIC_DISCHARGE_AURA": {
+    "Name": "STATIC_DISCHARGE_AURA",
+    "Type": "Status",
+    "DisplayName": "Static Discharge Aura",
+    "DisplayNameCHS": "静电放射灵光"
+  },
+  "Earn Inspiration<LSTag Type=\"Image\" Info=\"Inspiration\"/> by completing <LSTag Tooltip=\"BackgroundGoals\">Background Goals</LSTag>. To see completed Background Goals, check your Journal.": {
+    "Name": "Earn Inspiration<LSTag Type=\"Image\" Info=\"Inspiration\"/> by completing <LSTag Tooltip=\"BackgroundGoals\">Background Goals</LSTag>. To see completed Background Goals, check your Journal.",
+    "Type": "Image",
+    "DisplayName": " by completing <LSTag Tooltip=\"BackgroundGoals\">Background Goals",
+    "DisplayNameCHS": null
+  },
+  "MAG_DEATH_DO_SHADOW_POSSESION": {
+    "Name": "MAG_DEATH_DO_SHADOW_POSSESION",
+    "Type": "Status",
+    "DisplayName": "Shadow Possession",
+    "DisplayNameCHS": "暗影附身"
+  },
+  "Target_IntimidatingPresence_Maintain": {
+    "Name": "Target_IntimidatingPresence_Maintain",
+    "Type": "Spell",
+    "DisplayName": "Maintain Intimidating Presence",
+    "DisplayNameCHS": "维持威慑之姿"
+  },
+  "Target_TransmutersStone": {
+    "Name": "Target_TransmutersStone",
+    "Type": "Spell",
+    "DisplayName": "Transmuter's Stones",
+    "DisplayNameCHS": "变形术士之石"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Ends if caster is <LSTag Type=\"Status\" Tooltip=\"INCAPACITATED_DND\">Incapacitated</LSTag>, <LSTag Type=\"Status\" Tooltip=\"STUNNED\">Stunned</LSTag>, <LSTag Type=\"Status\" Tooltip=\"POLYMORPHED\">Polymorphed</LSTag> or <LSTag Type=\"Status\" Tooltip=\"KNOCKED_OUT\">Knocked Out</LSTag>.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Ends if caster is <LSTag Type=\"Status\" Tooltip=\"INCAPACITATED_DND\">Incapacitated</LSTag>, <LSTag Type=\"Status\" Tooltip=\"STUNNED\">Stunned</LSTag>, <LSTag Type=\"Status\" Tooltip=\"POLYMORPHED\">Polymorphed</LSTag> or <LSTag Type=\"Status\" Tooltip=\"KNOCKED_OUT\">Knocked Out</LSTag>.",
+    "Type": "Image",
+    "DisplayName": " Ends if caster is <LSTag Type=\"Status\" Tooltip=\"INCAPACITATED_DND\">Incapacitated",
+    "DisplayNameCHS": null
+  },
+  "POLYMORPHED": {
+    "Name": "POLYMORPHED",
+    "Type": "Status",
+    "DisplayName": "Polymorphed",
+    "DisplayNameCHS": "变形"
+  },
+  "Shout_LOW_BhaalCultist_PowerWordKill_Ritual": {
+    "Name": "Shout_LOW_BhaalCultist_PowerWordKill_Ritual",
+    "Type": "Spell",
+    "DisplayName": "Power Word Kill",
+    "DisplayNameCHS": "巴尔律令死亡"
+  },
+  "Total Damage <LSTag Type=\"Damage\">[1]</LSTag>": {
+    "Name": "Total Damage <LSTag Type=\"Damage\">[1]</LSTag>",
+    "Type": "Damage",
+    "DisplayName": "[1]",
+    "DisplayNameCHS": null
+  },
+  "Target_Multiattack_Werewolf": {
+    "Name": "Target_Multiattack_Werewolf",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "Projectile_Burst_Blight_Needle": {
+    "Name": "Projectile_Burst_Blight_Needle",
+    "Type": "Spell",
+    "DisplayName": "Needle Burst",
+    "DisplayNameCHS": "针爆"
+  },
+  "Target_ShieldShove": {
+    "Name": "Target_ShieldShove",
+    "Type": "Spell",
+    "DisplayName": "Shove",
+    "DisplayNameCHS": "推击"
+  },
+  "Target_AnimateDead_Skeleton": {
+    "Name": "Target_AnimateDead_Skeleton",
+    "Type": "Spell",
+    "DisplayName": "Animate Dead: Skeleton",
+    "DisplayNameCHS": "操纵死尸：骷髅"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Redcap must be under the effects of <LSTag Type=\"Status\" Tooltip=\"BLOODLUST_REDCAP\">Bloodlust</LSTag>.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Redcap must be under the effects of <LSTag Type=\"Status\" Tooltip=\"BLOODLUST_REDCAP\">Bloodlust</LSTag>.",
+    "Type": "Image",
+    "DisplayName": " Redcap must be under the effects of <LSTag Type=\"Status\" Tooltip=\"BLOODLUST_REDCAP\">Bloodlust",
+    "DisplayNameCHS": null
+  },
+  "Target_CallLightning_LightningBolt": {
+    "Name": "Target_CallLightning_LightningBolt",
+    "Type": "Spell",
+    "DisplayName": "Call Lightning",
+    "DisplayNameCHS": "召雷术"
+  },
+  "INCAPACITATED_DND": {
+    "Name": "INCAPACITATED_DND",
+    "Type": "Status",
+    "DisplayName": "Incapacitate",
+    "DisplayNameCHS": "失能"
+  },
+  "Projectile_Fly_Spell": {
+    "Name": "Projectile_Fly_Spell",
+    "Type": "Spell",
+    "DisplayName": "Fly",
+    "DisplayNameCHS": "飞行术"
+  },
+  "Target_Multiattack_Myconid": {
+    "Name": "Target_Multiattack_Myconid",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "BIBBERBANG_FUMES": {
+    "Name": "BIBBERBANG_FUMES",
+    "Type": "Status",
+    "DisplayName": "Poisonous Fumes",
+    "DisplayNameCHS": "毒雾"
+  },
+  "HASTE_SURFACE": {
+    "Name": "HASTE_SURFACE",
+    "Type": "Status",
+    "DisplayName": "Haste Spores",
+    "DisplayNameCHS": "加速"
+  },
+  "Projectile_CRE_GithyankiInquisitor_Mindsteal_Link": {
+    "Name": "Projectile_CRE_GithyankiInquisitor_Mindsteal_Link",
+    "Type": "Spell",
+    "DisplayName": "Mindsteal Link",
+    "DisplayNameCHS": "夺心连接"
+  },
+  "SACRED_WEAPON": {
+    "Name": "SACRED_WEAPON",
+    "Type": "Status",
+    "DisplayName": "Sacred Weapon",
+    "DisplayNameCHS": "神圣武器"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Caster can't become <LSTag Type=\"Status\" Tooltip=\"INVISIBLE\">Invisible</LSTag> while concentrating on this spell. ": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Caster can't become <LSTag Type=\"Status\" Tooltip=\"INVISIBLE\">Invisible</LSTag> while concentrating on this spell. ",
+    "Type": "Image",
+    "DisplayName": " Caster can't become <LSTag Type=\"Status\" Tooltip=\"INVISIBLE\">Invisible",
+    "DisplayNameCHS": null
+  },
+  "Target_SHA_Justiciar_UntenableSecret": {
+    "Name": "Target_SHA_Justiciar_UntenableSecret",
+    "Type": "Spell",
+    "DisplayName": "Untenable Secret",
+    "DisplayNameCHS": "难守秘密"
+  },
+  "Target_Misty_Step": {
+    "Name": "Target_Misty_Step",
+    "Type": "Spell",
+    "DisplayName": "Misty Step",
+    "DisplayNameCHS": "迷踪步"
+  },
+  "Shout_SymbioticEntity": {
+    "Name": "Shout_SymbioticEntity",
+    "Type": "Spell",
+    "DisplayName": "Symbiotic Entity",
+    "DisplayNameCHS": "共生实体"
+  },
+  "Target_SpreadingSpores": {
+    "Name": "Target_SpreadingSpores",
+    "Type": "Spell",
+    "DisplayName": "Spreading Spores",
+    "DisplayNameCHS": "传播孢子"
+  },
+  "MAG_PSYCHIC_MENTAL_FATIGUE": {
+    "Name": "MAG_PSYCHIC_MENTAL_FATIGUE",
+    "Type": "Status",
+    "DisplayName": "Mental Fatigue",
+    "DisplayNameCHS": "精神疲劳"
+  },
+  "ENCUMBERED_HEAVY": {
+    "Name": "ENCUMBERED_HEAVY",
+    "Type": "Status",
+    "DisplayName": "Encumbered",
+    "DisplayNameCHS": null
+  },
+  "Target_VampiricTouch_Free": {
+    "Name": "Target_VampiricTouch_Free",
+    "Type": "Spell",
+    "DisplayName": "Vampiric Touch",
+    "DisplayNameCHS": "吸血鬼之触"
+  },
+  "Target_Multiattack_Owlbear": {
+    "Name": "Target_Multiattack_Owlbear",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": null
+  },
+  "FOR_OWLBEAR_ENRAGE": {
+    "Name": "FOR_OWLBEAR_ENRAGE",
+    "Type": "Status",
+    "DisplayName": "Owlbear's Rage",
+    "DisplayNameCHS": "枭熊之怒"
+  },
+  "Zone_TigersBloodlust": {
+    "Name": "Zone_TigersBloodlust",
+    "Type": "Spell",
+    "DisplayName": "Tiger's Bloodlust",
+    "DisplayNameCHS": "猛虎嗜血"
+  },
+  "SHA_JUSTICIAR_CALLOFTHEDARK": {
+    "Name": "SHA_JUSTICIAR_CALLOFTHEDARK",
+    "Type": "Status",
+    "DisplayName": "Call of the Dark Lady",
+    "DisplayNameCHS": "黑暗女士的召唤"
+  },
+  "Shout_LuringSong_Harpy": {
+    "Name": "Shout_LuringSong_Harpy",
+    "Type": "Spell",
+    "DisplayName": "Luring Song",
+    "DisplayNameCHS": "诱惑之歌"
+  },
+  "Shoot [1] hellfire missiles upwards that rain down on enemies. Each missile deals [2].<br><br><LSTag Type=\"Image\" Info=\"SoftWarning\"/>Hellfire ignores <LSTag Tooltip=\"Resistant\">Resistance</LSTag> and <LSTag Tooltip=\"Immune\">Immunity</LSTag> to Fire damage. ": {
+    "Name": "Shoot [1] hellfire missiles upwards that rain down on enemies. Each missile deals [2].<br><br><LSTag Type=\"Image\" Info=\"SoftWarning\"/>Hellfire ignores <LSTag Tooltip=\"Resistant\">Resistance</LSTag> and <LSTag Tooltip=\"Immune\">Immunity</LSTag> to Fire damage. ",
+    "Type": "Image",
+    "DisplayName": "Hellfire ignores <LSTag Tooltip=\"Resistant\">Resistance",
+    "DisplayNameCHS": null
+  },
+  "OBLITERATIONORB_AURA": {
+    "Name": "OBLITERATIONORB_AURA",
+    "Type": "Status",
+    "DisplayName": "Orb of Negation",
+    "DisplayNameCHS": "否决之球"
+  },
+  "Shout_Thaumaturgy": {
+    "Name": "Shout_Thaumaturgy",
+    "Type": "Spell",
+    "DisplayName": "Thaumaturgy",
+    "DisplayNameCHS": "奇术"
+  },
+  "Shout_HellishRebuke": {
+    "Name": "Shout_HellishRebuke",
+    "Type": "Spell",
+    "DisplayName": "Hellish Rebuke",
+    "DisplayNameCHS": "炼狱叱喝"
+  },
+  "Zone_BurningHands": {
+    "Name": "Zone_BurningHands",
+    "Type": "Spell",
+    "DisplayName": "Burning Hands",
+    "DisplayNameCHS": "燃烧之手"
+  },
+  "Shout_FlameBlade": {
+    "Name": "Shout_FlameBlade",
+    "Type": "Spell",
+    "DisplayName": "Flame Blade",
+    "DisplayNameCHS": "火焰刀"
+  },
+  "NATURES_WRATH": {
+    "Name": "NATURES_WRATH",
+    "Type": "Status",
+    "DisplayName": "Restrain",
+    "DisplayNameCHS": "束缚"
+  },
+  "CONFUSION_RAY": {
+    "Name": "CONFUSION_RAY",
+    "Type": "Status",
+    "DisplayName": "Befuddles",
+    "DisplayNameCHS": "昏沉"
+  },
+  "Projectile_Deflect_Missiles": {
+    "Name": "Projectile_Deflect_Missiles",
+    "Type": "Spell",
+    "DisplayName": "Deflect the Missile",
+    "DisplayNameCHS": "拨挡飞弹"
+  },
+  "Parry_Githyanki": {
+    "Name": "Parry_Githyanki",
+    "Type": "Passive",
+    "DisplayName": "Parried",
+    "DisplayNameCHS": "招架"
+  },
+  "Target_HypnoticGaze": {
+    "Name": "Target_HypnoticGaze",
+    "Type": "Spell",
+    "DisplayName": "Hypnotic Gaze",
+    "DisplayNameCHS": "催眠凝视"
+  },
+  "POISON_CRAWLER_MUCUS_CONDITION": {
+    "Name": "POISON_CRAWLER_MUCUS_CONDITION",
+    "Type": "Status",
+    "DisplayName": "Crawler Mucus",
+    "DisplayNameCHS": null
+  },
+  "Target_MistyEscape_ShadarKai_GloomWeaver": {
+    "Name": "Target_MistyEscape_ShadarKai_GloomWeaver",
+    "Type": "Spell",
+    "DisplayName": "Shadowslip",
+    "DisplayNameCHS": "阴影潜行"
+  },
+  "ALCH_OIL_BANE_CONDITION": {
+    "Name": "ALCH_OIL_BANE_CONDITION",
+    "Type": "Status",
+    "DisplayName": "Baned",
+    "DisplayNameCHS": "灾祸术"
+  },
+  "MAG_GISH_ARCANE_SYNERGY": {
+    "Name": "MAG_GISH_ARCANE_SYNERGY",
+    "Type": "Status",
+    "DisplayName": "Arcane Synergy",
+    "DisplayNameCHS": "奥术协同"
+  },
+  "Target_Silence": {
+    "Name": "Target_Silence",
+    "Type": "Spell",
+    "DisplayName": "Silence",
+    "DisplayNameCHS": "沉默术"
+  },
+  "Teleportation_Displacement_DisplacerBeast": {
+    "Name": "Teleportation_Displacement_DisplacerBeast",
+    "Type": "Spell",
+    "DisplayName": "Displace",
+    "DisplayNameCHS": "移位"
+  },
+  "Projectile_ChromaticOrb": {
+    "Name": "Projectile_ChromaticOrb",
+    "Type": "Spell",
+    "DisplayName": "Chromatic Orb",
+    "DisplayNameCHS": "繁彩球"
+  },
+  "Rogues can do enormous damage against enemies with their <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">Sneak Attack</LSTag>, whether they loose a deadly arrow from afar or sink a blade into the unsuspecting target. However, a Sneak Attack requires that the Rogue <i>either</i> has <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on the <LSTag Tooltip=\"AttackRoll\">attack</LSTag> <i>or</i> an ally within melee distance of an enemy. Rogues can make a <LSTag Tooltip=\"Stealth\">Stealth</LSTag> check as a bonus action to try and gain Advantage on an attack roll.<br><br><LSTag Type=\"Image\" Info=\"SoftWarning\"/> You cannot Sneak Attack if you have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on the attack roll.<br><LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/><LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/> Sneak Attack": {
+    "Name": "Rogues can do enormous damage against enemies with their <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">Sneak Attack</LSTag>, whether they loose a deadly arrow from afar or sink a blade into the unsuspecting target. However, a Sneak Attack requires that the Rogue <i>either</i> has <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on the <LSTag Tooltip=\"AttackRoll\">attack</LSTag> <i>or</i> an ally within melee distance of an enemy. Rogues can make a <LSTag Tooltip=\"Stealth\">Stealth</LSTag> check as a bonus action to try and gain Advantage on an attack roll.<br><br><LSTag Type=\"Image\" Info=\"SoftWarning\"/> You cannot Sneak Attack if you have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on the attack roll.<br><LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/><LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/> Sneak Attack",
+    "Type": "Image",
+    "DisplayName": " You cannot Sneak Attack if you have <LSTag Tooltip=\"Disadvantage\">Disadvantage",
+    "DisplayNameCHS": null
+  },
+  "Target_RendVision_Raven_Summon": {
+    "Name": "Target_RendVision_Raven_Summon",
+    "Type": "Spell",
+    "DisplayName": "Blind",
+    "DisplayNameCHS": "目盲"
+  },
+  "Target_Web_Spider": {
+    "Name": "Target_Web_Spider",
+    "Type": "Spell",
+    "DisplayName": "Enweb",
+    "DisplayNameCHS": "网缚"
+  },
+  "Target_Shove": {
+    "Name": "Target_Shove",
+    "Type": "Spell",
+    "DisplayName": "Shoved",
+    "DisplayNameCHS": "推击"
+  },
+  "Throw_ImprovisedWeapon": {
+    "Name": "Throw_ImprovisedWeapon",
+    "Type": "Spell",
+    "DisplayName": "Improvised Weapon",
+    "DisplayNameCHS": "即兴武器"
+  },
+  "Inspiration<LSTag Type=\"Image\" Info=\"Inspiration\"/> is granted by <LSTag Tooltip=\"BackgroundGoals\">Background Goals</LSTag>. More Inspiration can be gained by discovering and completing new Goals. To see previously completed Goals, check the Journal.": {
+    "Name": "Inspiration<LSTag Type=\"Image\" Info=\"Inspiration\"/> is granted by <LSTag Tooltip=\"BackgroundGoals\">Background Goals</LSTag>. More Inspiration can be gained by discovering and completing new Goals. To see previously completed Goals, check the Journal.",
+    "Type": "Image",
+    "DisplayName": " is granted by <LSTag Tooltip=\"BackgroundGoals\">Background Goals",
+    "DisplayNameCHS": null
+  },
+  "Shout_Moan_Cloaker": {
+    "Name": "Shout_Moan_Cloaker",
+    "Type": "Spell",
+    "DisplayName": "Moans",
+    "DisplayNameCHS": "呻吟"
+  },
+  "Rush_MAG_Mobility_SprintForMomentum_Action": {
+    "Name": "Rush_MAG_Mobility_SprintForMomentum_Action",
+    "Type": "Spell",
+    "DisplayName": "Sprint",
+    "DisplayNameCHS": "冲刺"
+  },
+  "Shout_DivineIntervention": {
+    "Name": "Shout_DivineIntervention",
+    "Type": "Spell",
+    "DisplayName": "Divine Intervention",
+    "DisplayNameCHS": "神圣干预"
+  },
+  "Zone_Mephit_MudBreath": {
+    "Name": "Zone_Mephit_MudBreath",
+    "Type": "Spell",
+    "DisplayName": "Breathe Mud",
+    "DisplayNameCHS": "喷吐泥浆"
+  },
+  "Shout_DeathBurst_Chosen_MudMephit": {
+    "Name": "Shout_DeathBurst_Chosen_MudMephit",
+    "Type": "Spell",
+    "DisplayName": "Explode",
+    "DisplayNameCHS": "爆炸"
+  },
+  "SHOCKED_SURFACE": {
+    "Name": "SHOCKED_SURFACE",
+    "Type": "Status",
+    "DisplayName": "Electrocuted",
+    "DisplayNameCHS": "电击"
+  },
+  "Shout_LOW_Raphael_SoulSiphon": {
+    "Name": "Shout_LOW_Raphael_SoulSiphon",
+    "Type": "Spell",
+    "DisplayName": "consumed",
+    "DisplayNameCHS": "吞噬"
+  },
+  "ENSNARING_STRIKE_3": {
+    "Name": "ENSNARING_STRIKE_3",
+    "Type": "Status",
+    "DisplayName": "Ensnare",
+    "DisplayNameCHS": "诱捕"
+  },
+  "Rush_Rush_DeepRothe": {
+    "Name": "Rush_Rush_DeepRothe",
+    "Type": "Spell",
+    "DisplayName": "Charges",
+    "DisplayNameCHS": "冲锋"
+  },
+  "GNOLL_BREWING_RAGE_UNLOCK": {
+    "Name": "GNOLL_BREWING_RAGE_UNLOCK",
+    "Type": "Status",
+    "DisplayName": "Frenzied",
+    "DisplayNameCHS": "狂乱"
+  },
+  "Target_PsionicRebuke_Netherbrain": {
+    "Name": "Target_PsionicRebuke_Netherbrain",
+    "Type": "Spell",
+    "DisplayName": "Brainquakes",
+    "DisplayNameCHS": "脑震"
+  },
+  "Teleportation_Dimension_Door": {
+    "Name": "Teleportation_Dimension_Door",
+    "Type": "Spell",
+    "DisplayName": "Dimension Door",
+    "DisplayNameCHS": "任意门"
+  },
+  "Check": {
+    "Name": "Check",
+    "Type": "Tooltip",
+    "DisplayName": "check",
+    "DisplayNameCHS": "检定"
+  },
+  "Expertise": {
+    "Name": "Expertise",
+    "Type": "Tooltip",
+    "DisplayName": "Expert",
+    "DisplayNameCHS": "专精"
+  },
+  "AURA_OF_VITALITY": {
+    "Name": "AURA_OF_VITALITY",
+    "Type": "Status",
+    "DisplayName": "Warden of Vitality",
+    "DisplayNameCHS": "活力监守"
+  },
+  "Target_Daylight": {
+    "Name": "Target_Daylight",
+    "Type": "Spell",
+    "DisplayName": "Daylight",
+    "DisplayNameCHS": "昼明术"
+  },
+  "Shout_LOW_GreaseWizard_RaiseFire": {
+    "Name": "Shout_LOW_GreaseWizard_RaiseFire",
+    "Type": "Spell",
+    "DisplayName": "Invigorating Flame",
+    "DisplayNameCHS": "活化火焰"
+  },
+  "UNCONSCIOUS": {
+    "Name": "UNCONSCIOUS",
+    "Type": "Status",
+    "DisplayName": "Unconscious",
+    "DisplayNameCHS": "昏迷"
+  },
+  "ZOMBIE_DECAY": {
+    "Name": "ZOMBIE_DECAY",
+    "Type": "Status",
+    "DisplayName": "Newborn Zombie",
+    "DisplayNameCHS": "新生僵尸"
+  },
+  "SWARM_RAVEN": {
+    "Name": "SWARM_RAVEN",
+    "Type": "Status",
+    "DisplayName": "ravens",
+    "DisplayNameCHS": "乌鸦"
+  },
+  "Target_DispelEvilAndGood_BreakEnchantment": {
+    "Name": "Target_DispelEvilAndGood_BreakEnchantment",
+    "Type": "Spell",
+    "DisplayName": "Break Enchantments",
+    "DisplayNameCHS": "破坏"
+  },
+  "Rush_Charger_Push": {
+    "Name": "Rush_Charger_Push",
+    "Type": "Spell",
+    "DisplayName": "Shove",
+    "DisplayNameCHS": "冲锋：推击。"
+  },
+  "Let your speed intensify your onslaught. You can <LSTag Type=\"Spell\" Tooltip=\"Rush_Charger_Push\">Shove</LSTag> or deal additional <LSTag Type=\"Spell\" Tooltip=\"Rush_Charger_Attack>Weapon Damage</LSTag> when you attack. ": {
+    "Name": "Let your speed intensify your onslaught. You can <LSTag Type=\"Spell\" Tooltip=\"Rush_Charger_Push\">Shove</LSTag> or deal additional <LSTag Type=\"Spell\" Tooltip=\"Rush_Charger_Attack>Weapon Damage</LSTag> when you attack. ",
+    "Type": "Spell",
+    "DisplayName": "Weapon Damage",
+    "DisplayNameCHS": null
+  },
+  "SANCTUARY_BLOCK": {
+    "Name": "SANCTUARY_BLOCK",
+    "Type": "Status",
+    "DisplayName": "Sanctuary Blocked",
+    "DisplayNameCHS": "庇护格挡"
+  },
+  "Target_Flail_Gnoll_Madness": {
+    "Name": "Target_Flail_Gnoll_Madness",
+    "Type": "Spell",
+    "DisplayName": "Flail of Madness",
+    "DisplayNameCHS": "疯狂链枷"
+  },
+  "Target_Flail_Gnoll_Pain": {
+    "Name": "Target_Flail_Gnoll_Pain",
+    "Type": "Spell",
+    "DisplayName": "Flail of Pain",
+    "DisplayNameCHS": "痛苦链枷"
+  },
+  "Target_Flail_Gnoll_Paralysis": {
+    "Name": "Target_Flail_Gnoll_Paralysis",
+    "Type": "Spell",
+    "DisplayName": "Flail of Paralysis",
+    "DisplayNameCHS": "麻痹链枷"
+  },
+  "LOW_RAPHAEL_OVERCHARGE": {
+    "Name": "LOW_RAPHAEL_OVERCHARGE",
+    "Type": "Status",
+    "DisplayName": "Soul Overcharge",
+    "DisplayNameCHS": "灵魂过度充能"
+  },
+  "HOLD_PERSON": {
+    "Name": "HOLD_PERSON",
+    "Type": "Status",
+    "DisplayName": "Hold",
+    "DisplayNameCHS": "抓住"
+  },
+  "Shout_PackHowl_Wolf_Dire": {
+    "Name": "Shout_PackHowl_Wolf_Dire",
+    "Type": "Spell",
+    "DisplayName": "Incite",
+    "DisplayNameCHS": "鼓励"
+  },
+  "Target_Bite_Wolf_Dire_Wildshape": {
+    "Name": "Target_Bite_Wolf_Dire_Wildshape",
+    "Type": "Spell",
+    "DisplayName": "Distract",
+    "DisplayNameCHS": "分心"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Hellfire ignores <LSTag Tooltip=\"Resistant\">Resistance</LSTag> and <LSTag Tooltip=\"Immune\">Immunity</LSTag> to Fire damage. ": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Hellfire ignores <LSTag Tooltip=\"Resistant\">Resistance</LSTag> and <LSTag Tooltip=\"Immune\">Immunity</LSTag> to Fire damage. ",
+    "Type": "Image",
+    "DisplayName": " Hellfire ignores <LSTag Tooltip=\"Resistant\">Resistance",
+    "DisplayNameCHS": null
+  },
+  "BURNING_AZER": {
+    "Name": "BURNING_AZER",
+    "Type": "Status",
+    "DisplayName": "Burning Fiercely",
+    "DisplayNameCHS": "灼烧"
+  },
+  "Ranged Damage: <LSTag Type=\"Damage\">[1]</LSTag>": {
+    "Name": "Ranged Damage: <LSTag Type=\"Damage\">[1]</LSTag>",
+    "Type": "Damage",
+    "DisplayName": "[1]",
+    "DisplayNameCHS": null
+  },
+  "MAG_CELESTIAL_HASTE": {
+    "Name": "MAG_CELESTIAL_HASTE",
+    "Type": "Status",
+    "DisplayName": "Hastened",
+    "DisplayNameCHS": "加速"
+  },
+  "Target_Levitate": {
+    "Name": "Target_Levitate",
+    "Type": "Spell",
+    "DisplayName": "Levitate",
+    "DisplayNameCHS": "浮空术"
+  },
+  "Shout_Hide": {
+    "Name": "Shout_Hide",
+    "Type": "Spell",
+    "DisplayName": "Hide",
+    "DisplayNameCHS": "躲藏"
+  },
+  "Inspiration <LSTag Type=\"Image\" Info=\"Inspiration\"/> can be spent to reroll an <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>. Complete <LSTag Tooltip=\"BackgroundGoals\">Background Goals</LSTag> to gain more Inspiration.": {
+    "Name": "Inspiration <LSTag Type=\"Image\" Info=\"Inspiration\"/> can be spent to reroll an <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>. Complete <LSTag Tooltip=\"BackgroundGoals\">Background Goals</LSTag> to gain more Inspiration.",
+    "Type": "Image",
+    "DisplayName": " can be spent to reroll an <LSTag Tooltip=\"AbilityCheck\">Ability Check",
+    "DisplayNameCHS": null
+  },
+  "SANCTUARY": {
+    "Name": "SANCTUARY",
+    "Type": "Status",
+    "DisplayName": "Sanctuary",
+    "DisplayNameCHS": "庇护术"
+  },
+  "Target_CursedTome_WakeTheDead": {
+    "Name": "Target_CursedTome_WakeTheDead",
+    "Type": "Spell",
+    "DisplayName": "Danse Macabre",
+    "DisplayNameCHS": "死亡之舞"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The creature must have an <LSTag Tooltip=\"Intelligence\">Intelligence</LSTag> of 5 or more.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> The creature must have an <LSTag Tooltip=\"Intelligence\">Intelligence</LSTag> of 5 or more.",
+    "Type": "Image",
+    "DisplayName": " The creature must have an <LSTag Tooltip=\"Intelligence\">Intelligence",
+    "DisplayNameCHS": null
+  },
+  "You succeeded on a <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag> against <LSTag Type=\"Status\" Tooltip=UNI_POISON_BREWER_CONDITION\">Brewed-Up Bellyglummer</LSTag> and can't be affected by it.": {
+    "Name": "You succeeded on a <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag> against <LSTag Type=\"Status\" Tooltip=UNI_POISON_BREWER_CONDITION\">Brewed-Up Bellyglummer</LSTag> and can't be affected by it.",
+    "Type": "Status",
+    "DisplayName": "Brewed-Up Bellyglummer",
+    "DisplayNameCHS": null
+  },
+  "Target_TAD_AbsorbIntellect": {
+    "Name": "Target_TAD_AbsorbIntellect",
+    "Type": "Spell",
+    "DisplayName": "Absorb Intellect",
+    "DisplayNameCHS": "吞噬智力"
+  },
+  "SavingThow": {
+    "Name": "SavingThow",
+    "Type": null,
+    "DisplayName": "Saving Throw",
+    "DisplayNameCHS": "豁免检定"
+  },
+  "SHROUD_SELF": {
+    "Name": "SHROUD_SELF",
+    "Type": "Status",
+    "DisplayName": "Invisible",
+    "DisplayNameCHS": "隐形"
+  },
+  "SHA_TORTURETRIAL_SHAR_DEBUFF_1": {
+    "Name": "SHA_TORTURETRIAL_SHAR_DEBUFF_1",
+    "Type": "Status",
+    "DisplayName": "Cheater's Folly",
+    "DisplayNameCHS": "作弊者的愚蠢"
+  },
+  "Target_LOW_OpenGate": {
+    "Name": "Target_LOW_OpenGate",
+    "Type": "Spell",
+    "DisplayName": "Astral Rift",
+    "DisplayNameCHS": "星界裂缝"
+  },
+  "Target_Healer_Heal": {
+    "Name": "Target_Healer_Heal",
+    "Type": "Spell",
+    "DisplayName": "Seal Wounds",
+    "DisplayNameCHS": "闭合伤口"
+  },
+  "Target_LOW_Raphael_RestoreSoul": {
+    "Name": "Target_LOW_Raphael_RestoreSoul",
+    "Type": "Spell",
+    "DisplayName": "Restore Soul",
+    "DisplayNameCHS": null
+  },
+  "Creature can be struck by <LSTag Type=\"Spell\" Tooltip=\"Target_CallLightning_LightningBolt >Call Lightning</LSTag>.": {
+    "Name": "Creature can be struck by <LSTag Type=\"Spell\" Tooltip=\"Target_CallLightning_LightningBolt >Call Lightning</LSTag>.",
+    "Type": "Spell",
+    "DisplayName": "Call Lightning",
+    "DisplayNameCHS": null
+  },
+  "Target_Blight": {
+    "Name": "Target_Blight",
+    "Type": "Spell",
+    "DisplayName": "Blight",
+    "DisplayNameCHS": "枯萎术"
+  },
+  "Target_BardicInspiration_Combat": {
+    "Name": "Target_BardicInspiration_Combat",
+    "Type": "Spell",
+    "DisplayName": "Combat Inspiration",
+    "DisplayNameCHS": "强制策动"
+  },
+  "Anyone within the <LSTag Type=\"Spell\" Tooltip=\"Target_TAD_MindSanctuary>Mind Sanctuary</LSTag> can take actions and bonus actions interchangeably.": {
+    "Name": "Anyone within the <LSTag Type=\"Spell\" Tooltip=\"Target_TAD_MindSanctuary>Mind Sanctuary</LSTag> can take actions and bonus actions interchangeably.",
+    "Type": "Spell",
+    "DisplayName": "Mind Sanctuary",
+    "DisplayNameCHS": null
+  },
+  "Target_CallLightning_LightningBolt_6": {
+    "Name": "Target_CallLightning_LightningBolt_6",
+    "Type": "Spell",
+    "DisplayName": "Call Lightning",
+    "DisplayNameCHS": "召雷术"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> When the condition ends, become <LSTag Type=\"Status\" Tooltip=\"HASTE_LETHARGY\">Lethargic</LSTag>.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> When the condition ends, become <LSTag Type=\"Status\" Tooltip=\"HASTE_LETHARGY\">Lethargic</LSTag>.",
+    "Type": "Image",
+    "DisplayName": " When the condition ends, become <LSTag Type=\"Status\" Tooltip=\"HASTE_LETHARGY\">Lethargic",
+    "DisplayNameCHS": null
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Owlbear must be under the effects of <LSTag Type=\"Status\" Tooltip=\"FOR_OWLBEAR_ENRAGE\">Owlbear's Rage</LSTag>.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Owlbear must be under the effects of <LSTag Type=\"Status\" Tooltip=\"FOR_OWLBEAR_ENRAGE\">Owlbear's Rage</LSTag>.",
+    "Type": "Image",
+    "DisplayName": " Owlbear must be under the effects of <LSTag Type=\"Status\" Tooltip=\"FOR_OWLBEAR_ENRAGE\">Owlbear's Rage",
+    "DisplayNameCHS": null
+  },
+  "At the start of its turn, the mushroom regains all its <LSTag Tooltips=\"HitPoints\">hit points</LSTag> unless some effect prevents it from restorative healing.": {
+    "Name": "At the start of its turn, the mushroom regains all its <LSTag Tooltips=\"HitPoints\">hit points</LSTag> unless some effect prevents it from restorative healing.",
+    "Type": null,
+    "DisplayName": "hit points",
+    "DisplayNameCHS": null
+  },
+  "Shout_LOW_OpenGate_BringReinforcements": {
+    "Name": "Shout_LOW_OpenGate_BringReinforcements",
+    "Type": "Spell",
+    "DisplayName": "Summon",
+    "DisplayNameCHS": "召唤"
+  },
+  "WHOLENESS_OF_BODY": {
+    "Name": "WHOLENESS_OF_BODY",
+    "Type": "Status",
+    "DisplayName": "Wholeness",
+    "DisplayNameCHS": "混元体"
+  },
+  "Projectile_EnsnaringStrike": {
+    "Name": "Projectile_EnsnaringStrike",
+    "Type": "Spell",
+    "DisplayName": "ranged",
+    "DisplayNameCHS": "远程"
+  },
+  "Target_EnsnaringStrike": {
+    "Name": "Target_EnsnaringStrike",
+    "Type": "Spell",
+    "DisplayName": "melee",
+    "DisplayNameCHS": "近战"
+  },
+  "Ranged Attack Bonus: <LSTag Type=\"Damage\">[1][2]</LSTag>": {
+    "Name": "Ranged Attack Bonus: <LSTag Type=\"Damage\">[1][2]</LSTag>",
+    "Type": "Damage",
+    "DisplayName": "[1][2]",
+    "DisplayNameCHS": null
+  },
+  "GARROTE_TARGET": {
+    "Name": "GARROTE_TARGET",
+    "Type": "Status",
+    "DisplayName": "Garrotting",
+    "DisplayNameCHS": "绞杀"
+  },
+  "Target_FieryStrike_Myrmidon_Fire": {
+    "Name": "Target_FieryStrike_Myrmidon_Fire",
+    "Type": "Spell",
+    "DisplayName": "Scorching Strike",
+    "DisplayNameCHS": "炽热打击"
+  },
+  "Shout_BurningRage_Myrmidon_Fire": {
+    "Name": "Shout_BurningRage_Myrmidon_Fire",
+    "Type": "Spell",
+    "DisplayName": "Myrmidon's Immolation",
+    "DisplayNameCHS": "元素执政官自燃"
+  },
+  "Zone_RangedSwipe_Myrmidon_Fire": {
+    "Name": "Zone_RangedSwipe_Myrmidon_Fire",
+    "Type": "Spell",
+    "DisplayName": "Cinderous Swipe",
+    "DisplayNameCHS": "灰烬猛击"
+  },
+  "MIRROR_IMAGE_1": {
+    "Name": "MIRROR_IMAGE_1",
+    "Type": "Status",
+    "DisplayName": "Mirror Images",
+    "DisplayNameCHS": "镜像"
+  },
+  "GREMISHKA_ENLARGE": {
+    "Name": "GREMISHKA_ENLARGE",
+    "Type": "Status",
+    "DisplayName": "Enlarged",
+    "DisplayNameCHS": "巨化"
+  },
+  "GREMISHKA_HASTE": {
+    "Name": "GREMISHKA_HASTE",
+    "Type": "Status",
+    "DisplayName": "Hastened",
+    "DisplayNameCHS": "加速"
+  },
+  "Projectile_PiercingShot": {
+    "Name": "Projectile_PiercingShot",
+    "Type": "Spell",
+    "DisplayName": "Piercing Shot",
+    "DisplayNameCHS": "穿刺射击"
+  },
+  "Shout_PactOfTheBlade": {
+    "Name": "Shout_PactOfTheBlade",
+    "Type": "Spell",
+    "DisplayName": "Summon",
+    "DisplayNameCHS": "召唤"
+  },
+  "Shout_PactOfTheBlade_Bind": {
+    "Name": "Shout_PactOfTheBlade_Bind",
+    "Type": "Spell",
+    "DisplayName": "Bind",
+    "DisplayNameCHS": "誓缚"
+  },
+  "Shout_SpeakWithDead": {
+    "Name": "Shout_SpeakWithDead",
+    "Type": "Spell",
+    "DisplayName": "Speak with Dead",
+    "DisplayNameCHS": "死者交谈"
+  },
+  "Target_UnarmedStrike_Monk": {
+    "Name": "Target_UnarmedStrike_Monk",
+    "Type": "Spell",
+    "DisplayName": "Unarmed Strike",
+    "DisplayNameCHS": "徒手打击"
+  },
+  "DISARMED": {
+    "Name": "DISARMED",
+    "Type": "Status",
+    "DisplayName": "Disarm",
+    "DisplayNameCHS": "缴械"
+  },
+  "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Symbiotic Entity ends early if you use <LSTag Type=\"Spell\" Tooltip=\"Shout_WildShape\">Wild Shape</LSTag>.": {
+    "Name": "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Symbiotic Entity ends early if you use <LSTag Type=\"Spell\" Tooltip=\"Shout_WildShape\">Wild Shape</LSTag>.",
+    "Type": "Image",
+    "DisplayName": " Symbiotic Entity ends early if you use <LSTag Type=\"Spell\" Tooltip=\"Shout_WildShape\">Wild Shape",
+    "DisplayNameCHS": null
+  },
+  "Target_HoldPerson_Monk": {
+    "Name": "Target_HoldPerson_Monk",
+    "Type": "Spell",
+    "DisplayName": "Clench of the North Wind",
+    "DisplayNameCHS": "北风之握"
+  },
+  "Target_ScorchingRay_Monk": {
+    "Name": "Target_ScorchingRay_Monk",
+    "Type": "Spell",
+    "DisplayName": "Embrace of the Inferno",
+    "DisplayNameCHS": "地狱之拥"
+  },
+  "Target_SteelWatcher_Greatsword_Quadruped_Multiattack": {
+    "Name": "Target_SteelWatcher_Greatsword_Quadruped_Multiattack",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "If you pick up too many heavy items, you will become <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/>Encumbered. <br><br>Lightly Encumbered characters will have a reduced <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> and halved Jump distance.<br>Heavily Encumbered characters move much more slowly, cannot jump or climb, and have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag>, as well as Strength, Dexterity, and Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>. Drop items or change your equipment to become unencumbered.<br><br>[IE_ToggleInventory] Open Inventory to drop items": {
+    "Name": "If you pick up too many heavy items, you will become <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/>Encumbered. <br><br>Lightly Encumbered characters will have a reduced <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> and halved Jump distance.<br>Heavily Encumbered characters move much more slowly, cannot jump or climb, and have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag>, as well as Strength, Dexterity, and Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>. Drop items or change your equipment to become unencumbered.<br><br>[IE_ToggleInventory] Open Inventory to drop items",
+    "Type": "Image",
+    "DisplayName": "Encumbered. <br><br>Lightly Encumbered characters will have a reduced <LSTag Tooltip=\"MovementSpeed\">Movement Speed",
+    "DisplayNameCHS": null
+  },
+  "MAG_BLOODFEEDER_SCARLET_REMITTANCE_1": {
+    "Name": "MAG_BLOODFEEDER_SCARLET_REMITTANCE_1",
+    "Type": "Status",
+    "DisplayName": "Scarlet Remittance",
+    "DisplayNameCHS": "猩红叠加"
+  },
+  "MAG_Paladin_SmiteSpellsSupport_Helmet_Passive": {
+    "Name": "MAG_Paladin_SmiteSpellsSupport_Helmet_Passive",
+    "Type": "Passive",
+    "DisplayName": "Bolstering Smite",
+    "DisplayNameCHS": "激励斩"
+  },
+  "Shout_Overheat_Azer": {
+    "Name": "Shout_Overheat_Azer",
+    "Type": "Spell",
+    "DisplayName": "Overheat",
+    "DisplayNameCHS": "过热"
+  },
+  "Target_FeignDeath": {
+    "Name": "Target_FeignDeath",
+    "Type": "Spell",
+    "DisplayName": "Feign Death",
+    "DisplayNameCHS": "假死术"
+  },
+  "MAG_INVISIBLE_WEAPON": {
+    "Name": "MAG_INVISIBLE_WEAPON",
+    "Type": "Status",
+    "DisplayName": "Invisible",
+    "DisplayNameCHS": "隐形"
+  },
+  "Zone_Sunbeam_Recreate": {
+    "Name": "Zone_Sunbeam_Recreate",
+    "Type": "Spell",
+    "DisplayName": "Recast Sunbeam",
+    "DisplayNameCHS": "再召阳炎射线"
+  },
+  "AURA_OF_WARDING": {
+    "Name": "AURA_OF_WARDING",
+    "Type": "Status",
+    "DisplayName": "Aura of Warding",
+    "DisplayNameCHS": "防卫灵光"
+  },
+  "Shout_EndRage": {
+    "Name": "Shout_EndRage",
+    "Type": "Spell",
+    "DisplayName": "End their Rage",
+    "DisplayNameCHS": "结束"
+  },
+  "WOOD_WOAD_REGENERATION": {
+    "Name": "WOOD_WOAD_REGENERATION",
+    "Type": "Status",
+    "DisplayName": "regenerate",
+    "DisplayNameCHS": "再生"
+  },
+  "TREMBLINGFEET_ELEMENTAL_EARTH": {
+    "Name": "TREMBLINGFEET_ELEMENTAL_EARTH",
+    "Type": "Status",
+    "DisplayName": "Trembling Legs",
+    "DisplayNameCHS": "双腿颤抖"
+  },
+  "BLINDING_SMITE_BLINDED": {
+    "Name": "BLINDING_SMITE_BLINDED",
+    "Type": "Status",
+    "DisplayName": "Blind",
+    "DisplayNameCHS": "目盲"
+  },
+  "Making a successful <LSTag Type=\"Skills\" Tooltip=\"Stealth\">Stealth</LSTag> check allows you to hide from watchful eyes. While hiding, you can pickpocket characters, sneak around deadly monsters, and get <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on attacking certain enemies - essential for a Rogue's <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">Sneak Attack</LSTag>. Suspicious characters will investigate the area you were last visible if you hide from them.<br><br>[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialHide\">Hide</LSTag>": {
+    "Name": "Making a successful <LSTag Type=\"Skills\" Tooltip=\"Stealth\">Stealth</LSTag> check allows you to hide from watchful eyes. While hiding, you can pickpocket characters, sneak around deadly monsters, and get <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on attacking certain enemies - essential for a Rogue's <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">Sneak Attack</LSTag>. Suspicious characters will investigate the area you were last visible if you hide from them.<br><br>[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialHide\">Hide</LSTag>",
+    "Type": "Image",
+    "DisplayName": "Hide",
+    "DisplayNameCHS": null
+  },
+  "MAG_CATS_GRACE": {
+    "Name": "MAG_CATS_GRACE",
+    "Type": "Status",
+    "DisplayName": "Cat's Grace",
+    "DisplayNameCHS": "猫之轻灵"
+  },
+  "LOW_REDCAP_BLOODLUST": {
+    "Name": "LOW_REDCAP_BLOODLUST",
+    "Type": "Status",
+    "DisplayName": "Bloodlust",
+    "DisplayNameCHS": "嗜血"
+  },
+  "The caster can <LSTag Type=\"Spell\" Tooltip=\"Target_CallLightning_LightningBolt >Call Lightning</LSTag> anywhere within this area.": {
+    "Name": "The caster can <LSTag Type=\"Spell\" Tooltip=\"Target_CallLightning_LightningBolt >Call Lightning</LSTag> anywhere within this area.",
+    "Type": "Spell",
+    "DisplayName": "Call Lightning",
+    "DisplayNameCHS": null
+  },
+  "Darkvision": {
+    "Name": "Darkvision",
+    "Type": "Passive",
+    "DisplayName": "Darkvision",
+    "DisplayNameCHS": "黑暗视觉"
+  },
+  "Melee Attack Bonus: <LSTag Type=\"Damage\">[1][2]</LSTag>": {
+    "Name": "Melee Attack Bonus: <LSTag Type=\"Damage\">[1][2]</LSTag>",
+    "Type": "Damage",
+    "DisplayName": "[1][2]",
+    "DisplayNameCHS": null
+  },
+  "Zone_MAG_Automaton_SunbeamShot_Recreate": {
+    "Name": "Zone_MAG_Automaton_SunbeamShot_Recreate",
+    "Type": "Spell",
+    "DisplayName": "Dazzling Ray",
+    "DisplayNameCHS": "炫目射线"
+  },
+  "MeleeSpellAttack": {
+    "Name": "MeleeSpellAttack",
+    "Type": null,
+    "DisplayName": "Melee",
+    "DisplayNameCHS": "近战"
+  },
+  "STAGGERING_SMITE": {
+    "Name": "STAGGERING_SMITE",
+    "Type": "Status",
+    "DisplayName": "Stagger",
+    "DisplayNameCHS": "惊惧"
+  },
+  "HEROISM": {
+    "Name": "HEROISM",
+    "Type": "Status",
+    "DisplayName": "Heroism",
+    "DisplayNameCHS": "英雄气概"
+  },
+  "Target_Multiattack_Drider": {
+    "Name": "Target_Multiattack_Drider",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "AURA_OF_HATE": {
+    "Name": "AURA_OF_HATE",
+    "Type": "Status",
+    "DisplayName": "Aura of Hate",
+    "DisplayNameCHS": "仇恨灵光"
+  },
+  "[2]": {
+    "Name": "[2]",
+    "Type": "[1]",
+    "DisplayName": "[3]",
+    "DisplayNameCHS": null
+  },
+  "Target_KnowYourEnemy": {
+    "Name": "Target_KnowYourEnemy",
+    "Type": "Spell",
+    "DisplayName": "examining",
+    "DisplayNameCHS": "优势"
+  },
+  "Target_LOW_Astarion_VampireAscendant": {
+    "Name": "Target_LOW_Astarion_VampireAscendant",
+    "Type": "Spell",
+    "DisplayName": "Ascendant Bite",
+    "DisplayNameCHS": "至尊噬咬"
+  },
+  "Shout_LOW_MistyEscape_Astarion": {
+    "Name": "Shout_LOW_MistyEscape_Astarion",
+    "Type": "Spell",
+    "DisplayName": "Gaseous form",
+    "DisplayNameCHS": "无实质形态"
+  },
+  "BLINDNESS": {
+    "Name": "BLINDNESS",
+    "Type": "Status",
+    "DisplayName": "Blind",
+    "DisplayNameCHS": "目盲"
+  },
+  "Shout_SteelWatcher_Quadruped_SelfDestruct_Begin": {
+    "Name": "Shout_SteelWatcher_Quadruped_SelfDestruct_Begin",
+    "Type": "Spell",
+    "DisplayName": "Self-Detonation Protocol",
+    "DisplayNameCHS": "自爆程序"
+  },
+  "LOW_HOUSEOFGRIEF_MINDFLAYER": {
+    "Name": "LOW_HOUSEOFGRIEF_MINDFLAYER",
+    "Type": "Status",
+    "DisplayName": "ceremorphosis",
+    "DisplayNameCHS": "蜕变"
+  },
+  "Zone_WintersBreath_Elemental_Water": {
+    "Name": "Zone_WintersBreath_Elemental_Water",
+    "Type": "Spell",
+    "DisplayName": "Winter's Breath",
+    "DisplayNameCHS": "寒冬吹息"
+  },
+  "Target_Slam_Elemental_Water": {
+    "Name": "Target_Slam_Elemental_Water",
+    "Type": "Spell",
+    "DisplayName": "Slam",
+    "DisplayNameCHS": "猛击"
+  },
+  "MAG_TWN_BREWERY_CLUB_ACID": {
+    "Name": "MAG_TWN_BREWERY_CLUB_ACID",
+    "Type": "Status",
+    "DisplayName": "Brewery Club: Acid",
+    "DisplayNameCHS": "酿酒俱乐部：强酸"
+  },
+  "SavingThrows": {
+    "Name": "SavingThrows",
+    "Type": null,
+    "DisplayName": "Saving Throws",
+    "DisplayNameCHS": "豁免检定"
+  },
+  "Rush_Charger_Attack": {
+    "Name": "Rush_Charger_Attack",
+    "Type": "Spell",
+    "DisplayName": "Charger: Weapon Attack",
+    "DisplayNameCHS": "冲锋：武器攻击"
+  },
+  "CURSE_MUMMY": {
+    "Name": "CURSE_MUMMY",
+    "Type": "Status",
+    "DisplayName": "Mummy Rot",
+    "DisplayNameCHS": "木乃伊腐毒"
+  },
+  "Zone_GustOfWind": {
+    "Name": "Zone_GustOfWind",
+    "Type": "Spell",
+    "DisplayName": "Gust of Wind",
+    "DisplayNameCHS": "造风术"
+  },
+  "Projectile_MAG_Automaton_FireballShot_Recreate": {
+    "Name": "Projectile_MAG_Automaton_FireballShot_Recreate",
+    "Type": "Spell",
+    "DisplayName": "Fiery Shot",
+    "DisplayNameCHS": "火热射击"
+  },
+  "Target_Multiattack_Doppelganger": {
+    "Name": "Target_Multiattack_Doppelganger",
+    "Type": "Spell",
+    "DisplayName": "Multiattack",
+    "DisplayNameCHS": "多重攻击"
+  },
+  "Rage": {
+    "Name": "Rage",
+    "Type": "ActionResource",
+    "DisplayName": "Rage Charge",
+    "DisplayNameCHS": "狂暴次数"
+  },
+  "AURA_OF_PROTECTION": {
+    "Name": "AURA_OF_PROTECTION",
+    "Type": "Status",
+    "DisplayName": "Aura of Protection",
+    "DisplayNameCHS": "守护灵光"
+  },
+  "Target_FleshToStone": {
+    "Name": "Target_FleshToStone",
+    "Type": "Spell",
+    "DisplayName": "Flesh to Stone",
+    "DisplayNameCHS": "石化术"
+  }
+}

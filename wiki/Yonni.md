@@ -1,0 +1,341 @@
+# 尤尼
+
+## 现金守卫 尤尼
+
+- 游戏内
+- 肖像画
+
+### 声音 / 演员
+
+- [Mia Foo](https://www.imdb.com/name/nm8046695/)
+
+## 属性
+
+### 体型
+
+中级
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[人类](Human.md "人类")
+
+### 原型
+
+[清账屋炮手](Counting_House_Artillerist.md "Counting House Artillerist")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+9
+
+### 生命值
+
+76
+
+### 护甲等级
+
+19
+
+### 先攻
+
++4
+
+### 熟练项
+
++4
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 18 / (+4) | 13 / (+1) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 额外资源
+
+- - - ## 特性
+
+- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "Land's Stride: Difficult Terrain")
+
+你已成为穿越[荒野](Wilderness.md "Wilderness")的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
+
+- [**灵活移动：回避劣势地形**](Mobile_colon__Evade_Difficult_Terrain.md "Mobile: Evade Difficult Terrain")
+
+当你[疾走](Dash.md "Dash")时，[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不会使你减速。
+
+- [**灵活移动：躲避借机攻击**](Mobile_colon__Evade_Opportunity_Attack.md "Mobile: Evade Opportunity Attack")
+
+如果你在进行近战攻击后移动，你不会因目标而引发[借机攻击](Opportunity_Attack.md "借机攻击")。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**灵活移动**](Mobile.md "Mobile")
+
+你的移动速度增加 3 米。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+9
+
+### 生命值
+
+53
+
+### 护甲等级
+
+19
+
+### 先攻
+
++4
+
+### 熟练项
+
++6
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +6 | +8 | +2 | 0 | 0 | 0 |
+
+## 额外资源
+
+- - - ## 特性
+
+- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "Land's Stride: Difficult Terrain")
+
+你已成为穿越[荒野](Wilderness.md "Wilderness")的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
+
+- [**灵活移动：回避劣势地形**](Mobile_colon__Evade_Difficult_Terrain.md "Mobile: Evade Difficult Terrain")
+
+当你[疾走](Dash.md "Dash")时，[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不会使你减速。
+
+- [**灵活移动：躲避借机攻击**](Mobile_colon__Evade_Opportunity_Attack.md "Mobile: Evade Opportunity Attack")
+
+如果你在进行近战攻击后移动，你不会因目标而引发[借机攻击](Opportunity_Attack.md "借机攻击")。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**灵活移动**](Mobile.md "Mobile")
+
+你的移动速度增加 3 米。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+9
+
+### 生命值
+
+98
+
+### 护甲等级
+
+19
+
+### 先攻
+
++4
+
+### 熟练项
+
++4
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 18 / (+4) | 13 / (+1) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 额外资源
+
+- - - ## 特性
+
+- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "Land's Stride: Difficult Terrain")
+
+你已成为穿越[荒野](Wilderness.md "Wilderness")的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
+
+- [**灵活移动：回避劣势地形**](Mobile_colon__Evade_Difficult_Terrain.md "Mobile: Evade Difficult Terrain")
+
+当你[疾走](Dash.md "Dash")时，[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不会使你减速。
+
+- [**灵活移动：躲避借机攻击**](Mobile_colon__Evade_Opportunity_Attack.md "Mobile: Evade Opportunity Attack")
+
+如果你在进行近战攻击后移动，你不会因目标而引发[借机攻击](Opportunity_Attack.md "借机攻击")。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**灵活移动**](Mobile.md "Mobile")
+
+你的移动速度增加 3 米。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 技术
+
+###
+
+UID
+
+`S_LOW_CountingHouse_Guard_05` ###
+
+UUID
+
+`400c9176-b9b5-448c-a283-156b15125eec` ###
+
+Stats
+
+`LOW_CountingHouse_Ranged_Human` **现金守卫 尤尼**是现金守卫的一员，可以在[博德之门](Baldur's_Gate.md "博德之门")的[下城区](Lower_City.md "下城区")[清账屋](The_Counting_House.md "清账屋")外与[现金守卫 杜格](Dugg.md "Dugg")一起守卫通往码头的门。
+
+## 目录
+
+- [1 战斗](#combat)
+  - [1.1 攻击与能力](#attacks-and-abilities)
+  - [1.2 值得一提的战利品](#notable-loot)
+- [2 闲聊](#idle-banter)
+- [3 外部链接](#external-links)
+
+## 战斗
+
+### 攻击与能力
+
+[主手攻击](Main_Hand_Attack.md "主手攻击") () – [刺剑](Rapier.md "刺剑")
+
+伤害：5~12
+
+1d8 + 4⁠[穿刺](Piercing.md "穿刺")
+
+用装备的武器进行近战攻击。
+
+近战：1.5 米 (5 英尺)
+
+[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+
+伤害：5~14
+
+1d10 + 4⁠[穿刺](Piercing.md "穿刺")
+
+用装备的武器进行远程攻击。
+
+射程：18 米 (60 英尺)
+
+### 值得一提的战利品
+
+- [半身甲](Half_Plate_Armour.md "半身甲")
+- [重弩](Heavy_Crossbow.md "重弩")
+- [刺剑](Rapier.md "刺剑")
+- [护盾术](Shield_(item).md "护盾术 (物品)")
+- [头盔](Helmet.md "头盔")
+
+## 闲聊
+
+尤尼偶尔会与杜格聊天：
+
+- 现金守卫 尤尼
+  你知道我们该做什么吗？我们应该_劫掠_这个地方。
+
+- 现金守卫 杜格
+  哦，我喜欢你的幽默感，尤尼。
+
+- 现金守卫 尤尼
+  看到那个新的卓尔收银员了吗？_她_可真自以为是。
+
+- 现金守卫 杜格
+  _我_觉得她有理由那样感觉。
+
+- 现金守卫 尤尼
+  哦？喜欢门泽的姑娘们，是吗？
+
+- 现金守卫 杜格
+  我可能喜欢，不过格拉迪丝会_杀_了我的。
+
+- 现金守卫 尤尼
+  码头哨兵是清账屋最糟糕的该死工作。
+
+- 现金守卫 杜格
+  它有什么不好的？
+
+- 现金守卫 尤尼
+  它无聊，加上它无聊，而且它还无聊。
+
+- 现金守卫 杜格
+  我喜欢它。风景不错。很安逸。
+
+## 外部链接
+
+- ⁠[尤尼](https://forgottenrealms.fandom.com/wiki/Yonni) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Yonni](https://bg3.wiki/wiki/Yonni)*

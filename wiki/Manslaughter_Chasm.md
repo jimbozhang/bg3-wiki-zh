@@ -1,0 +1,176 @@
+# 底城废墟
+
+## [底城区](Undercity.md "底城区")
+
+[塑境秘潭](Morphic_Pool.md "塑境秘潭")
+↑
+| [底城区](Undercity.md "底城区") |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [塑境秘潭](Morphic_Pool.md "塑境秘潭") |  |  |  |  |
+| ↑ |  |  |  |  |
+| [古代密室](Ancient_Lair.md "古代密室") | ← | 底城废墟 | → | [巴尔神殿](Bhaal_Temple.md "巴尔神殿") |
+| ↓ |  |  |  |  |
+| [下城区下水道](Lower_City_Sewers.md "下城区下水道") |  |  |  |  |
+↓
+[下城区下水道](Lower_City_Sewers.md "下城区下水道")
+**底城废墟**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[底城区](Undercity.md "底城区")内的一个[地点](Location.md "地点")。
+
+## 目录
+
+- [1 概述](#overview)
+  - [1.1 入口区域](#entry-area)
+- [2 地点](#locations)
+  - [2.1 伏击](#the-ambush)
+  - [2.2 阶梯](#the-stairs)
+  - [2.3 巴尔神殿](#bhaal-temple)
+  - [2.4 塑境秘潭码头](#morphic-pool-docks)
+- [3 传送点](#waypoints)
+- [4 相关任务](#related-quests)
+- [5 相关地点](#related-locations)
+- [6 角色](#characters)
+  - [6.1 毁灭者](#devastators)
+  - [6.2 夜刃](#night-blades)
+  - [6.3 巴尔之镰](#reapers-of-bhaal)
+- [7 生物](#creatures)
+- [8 战利品](#loot)
+- [9 注释](#notes)
+- [10 外部链接](#external-links)
+
+## 概述
+
+作为通往废墟和巴尔神殿入口的石门
+
+在[下城区下水道](Lower_City_Sewers.md "下城区下水道")内，当穿过大约 X: -138 Y: 907 处的石拱门向北行走时，小地图名称会变为“底城废墟”。
+
+### 入口区域
+
+在城市下水道的最北端，通过一个石拱门进入底城废墟。拱门后方的区域立即出现[底城废墟](Waypoint.md "传送点")传送点。向西，[无声忏悔者巴瑞克](Bareki.md "无声忏悔者巴瑞克")出售一些物品，更远处是一条通往[古代密室](Ancient_Lair.md "古代密室")的通道。巴瑞克身后是一个装有[萨林的头骨](Sarin's_Skull.md "萨林的头骨")的小袋子，穿过开口后方是一个通往古代密室的另一个入口的舱口。
+
+通往该区域其余部分的路径被一扇魔法石门阻挡。它免疫开锁，但可以通过其他几种方式解锁。
+
+- 对房间中央天花板上悬挂的两具尸体之一（X: -142 Y: 934）使用远程攻击
+- 对其施放[敲击术](Knock.md "敲击术")
+- 通过[打动谋杀裁判所](Impress_the_Murder_Tribunal.md "打动谋杀裁判所")成为[巴尔](Bhaal.md "巴尔")的“邪神刺客”
+- 展示[巴尔护符](Amulet_of_Bhaal.md "巴尔护符")
+
+## 地点
+
+### 伏击
+
+底城废墟与巴尔神殿的地图。
+
+穿过上锁的门后，小队成员会遭到巴尔信徒的伏击，并有四回合时间到达[巴尔·吉斯利夫的弑神者](Farslayer_of_Bhaal_Ghislev.md "巴尔·吉斯利夫的弑神者")，他已将小队标记为[巴尔律令死亡](Power_Word_Kill.md "巴尔律令死亡")的目标。伏击者之一是[扼杀者卢克](Strangler_Luke.md "扼杀者卢克")，他对小队进行近战攻击。所有其他伏击者更喜欢使用魔法或远程武器。在桥对面，[缠绕者艾比](Abby.md "缠绕者艾比")也参与近战，其攻击可以将角色推入深渊。
+
+也可以通过使用隐匿并穿过洞穴向东，就在初始路径进入该区域后立即切入，来避免大部分伏击。
+
+当穿过白色桥梁时，附近的弓箭手会使用[推撞攻击（远程）](Pushing_Attack_(Ranged).md "推撞攻击（远程）")将小队成员击落桥下。
+
+### 阶梯
+
+经过伏击区域后，小队成员可以继续下楼，他们必须决定是向北前往塑境秘潭码头，还是向下前往“巴尔神殿”传送点。向下走时，沿途可以看到多个[低语雕像](Whispering_Statue.md "低语雕像")，吟诵着[阿拉多](https://baldursgate.fandom.com/wiki/Alaundo)的巴尔之子预言。
+
+在其中一个雕像处发现了一个怪诞的谋杀现场。其中一部分是[威尔丁·亚历克斯](Wilting_Alex.md "威尔丁·亚历克斯")的尸体，里面包含[小丑的断头](Clown's_Severed_Head.md "小丑的断头")，这是[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")所需的肢体之一。
+
+### 巴尔神殿
+
+主条目：[巴尔神殿](Bhaal_Temple.md "巴尔神殿")
+
+沿着“巴尔神殿”传送点相邻的桥向东行进，在 X: -41 Y: 1006 之后区域变得无法快速旅行，但小地图名称仍显示为“底城废墟”。进入神殿的入口在桥的尽头，但被一对“实心门”阻挡，这些门在击败巴尔·吉斯利夫的弑神者之前被特殊方式锁定。如果弑神者被击败，门仍然需要钥匙才能打开，即[巴尔护符](Amulet_of_Bhaal.md "巴尔护符")<sup>[\[1\]](#cite_note-1)</sup>。穿过这些门的门槛后，小队可以进入[巴尔神殿](Bhaal_Temple.md "巴尔神殿")，这是巴尔邪教徒最内部的圣所，由[腥红奥林](Orin.md "腥红奥林")领导。
+
+### 塑境秘潭码头
+
+塑境秘潭码头
+
+穿过发生伏击的桥并穿过废墟后，一条小路向北延伸。它蜿蜒向下，通向一个敞开的门道，通往码头。在第一个（破损的）码头之后，道路向上通往一个小区域，该区域包含一个营火和一个装有金币和[炼金材料](Alchemical_Ingredients.md "炼金材料")的[木箱子](Wooden_Chest.md "木箱子")。
+
+一座部分破损的桥通向码头的最后一部分，那里有“塑境秘潭码头”传送点。地面上有几条肢体，可能被许多老鼠吃掉了。桌子上有一本书[避开主脑](Evading_the_Elder_Brain.md "避开主脑")。在西边的码头上有一个[木箱子](Wooden_Chest.md "木箱子")，里面有金币和[盗贼工具](Thieves'_Tools.md "盗贼工具")。北码头通向一艘小船，用于前往[塑境秘潭](Morphic_Pool.md "塑境秘潭")。
+
+进入塑境秘潭是游戏最终部分的事件视界；一旦小队进入，他们就无法回头或前往营地（以[休息](Rest.md "休息")、访问储存的[装备](Equipment.md "装备")或[武器](Weapon.md "武器")、更换现有小队成员，或用[守墓人](Withers.md "守墓人")重新分配属性）。
+
+码头区域也是[颅鼠](Cranium_Rat.md "颅鼠")群的栖息地。如果小队在获得所有三块[耐色石](Netherstone.md "耐色石")之前过于靠近[塑境秘潭](Morphic_Pool.md "塑境秘潭")码头，它们会暂时变得敌对。
+
+## 传送点
+
+- 塑境秘潭码头 X: -75 Y: 1155 -- 位于金属门后方，穿过桥梁，再穿过另一个石拱门，在底城废墟传送点以北。
+- 巴尔神殿 X: -60 Y: 1007 -- 位于下方“地点”中提到的金属门后方。
+- 底城废墟 X: -141 Y: 941 -- 位于上述特殊门*附近*。
+
+## 相关任务
+
+- [寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")
+- [拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")
+  - [打动谋杀裁判所](Impress_the_Murder_Tribunal.md "打动谋杀裁判所")
+  - [调查谋杀案](Investigate_the_Murders.md "调查谋杀案")
+
+## 相关地点
+
+- [古代密室](Ancient_Lair.md "古代密室")
+- [巴尔神殿](Bhaal_Temple.md "巴尔神殿")
+- [塑境秘潭](Morphic_Pool.md "塑境秘潭")
+- [底城区](Undercity.md "底城区")
+
+## 角色
+
+- [巴尔·吉斯利夫的弑神者](Ghislev.md "巴尔·吉斯利夫的弑神者")
+- [缠绕者艾比](Abby.md "缠绕者艾比")
+- [扼杀者卢克](Luke.md "扼杀者卢克")
+- [无声忏悔者巴瑞克](Bareki.md "无声忏悔者巴瑞克")（商人）
+- [巴尔之祈埃利斯](Ellice.md "巴尔之祈埃利斯")
+
+### 毁灭者
+
+- [毁灭者莉莎贝特](Lizabett.md "毁灭者莉莎贝特")
+- [毁灭者斯特罗普斯](Stropes.md "毁灭者斯特罗普斯")
+
+### 夜刃
+
+- [夜刃阿布拉克萨](Abraxa.md "夜刃阿布拉克萨")
+- [夜刃科米娜](Comina.md "夜刃科米娜")
+- [夜刃科尔尼什](Corniche.md "夜刃科尔尼什")
+- [夜刃弗兰奇](Flange.md "夜刃弗兰奇")
+- [夜刃加里松](Garithon.md "夜刃加里松")
+- [夜刃赫维尔](Hervyl.md "夜刃赫维尔")
+- [夜刃马乔](Majjo.md "夜刃马乔")
+- [夜刃迈尔雷德](Maireadh.md "夜刃迈尔雷德")
+- [夜刃泽罗尼穆斯](Zeironymous.md "夜刃泽罗尼穆斯")
+
+### 巴尔之镰
+
+- [巴尔之镰弗洛洛](Flo-Flo.md "巴尔之镰弗洛洛")
+- [巴尔之镰格伦特曼](Gruntman.md "巴尔之镰格伦特曼")
+- [巴尔之镰瓦尼拉](Varneela.md "巴尔之镰瓦尼拉")
+
+## 生物
+
+- [颅鼠](Cranium_Rat.md "颅鼠")
+
+## 战利品
+
+- [骨刺手套](Bonespike_Gloves.md "骨刺手套") - 由[扼杀者卢克](Strangler_Luke.md "扼杀者卢克")掉落
+- [小丑的断头](Clown's_Severed_Head.md "小丑的断头") - 从[威尔丁·亚历克斯](Wilting_Alex.md "威尔丁·亚历克斯")身上搜刮
+- [萨林的头骨](Sarin's_Skull.md "萨林的头骨") - 在巴瑞克身后的小袋子内
+
+由[无声忏悔者巴瑞克](Voiceless_Penitent_Bareki.md "无声忏悔者巴瑞克")出售：
+
+- [月照护甲](Armour_of_Moonbasking.md "月照护甲")
+- [骨刺头盔](Bonespike_Helmet.md "骨刺头盔")
+
+该区域可找到全部6首[黑暗诗句](Grimlark_Verses.md "黑暗诗句")：
+
+- [黑暗诗句1](Grimlark_Verse_1.md "黑暗诗句1") - 可在[古代密室](Ancient_Lair.md "古代密室")前 X: -178 Y: 933 处找到
+- [黑暗诗句2](Grimlark_Verse_2.md "黑暗诗句2") - 可在[巴尔·吉斯利夫的弑神者审判](Farslayer_of_Bhaal_Ghislev.md "巴尔·吉斯利夫的弑神者")前的箱子中找到，位于 X: -132 Y: 954，可通过跳上悬崖到达
+- [黑暗诗句3](Grimlark_Verse_3.md "黑暗诗句3") - 可在[巴尔·吉斯利夫的弑神者审判](Farslayer_of_Bhaal_Ghislev.md "巴尔·吉斯利夫的弑神者")前 X: -114 Y: 953 处找到
+- [黑暗诗句4](Grimlark_Verse_4.md "黑暗诗句4") - 可在[巴尔·吉斯利夫的弑神者审判](Farslayer_of_Bhaal_Ghislev.md "巴尔·吉斯利夫的弑神者")内 X: -143 Y: 965 处找到
+- [黑暗诗句5](Grimlark_Verse_5.md "黑暗诗句5") - 可在返回通往塑境秘潭码头的路径上 X: -87 Y: 1057 处找到
+- [黑暗诗句6](Grimlark_Verse_6.md "黑暗诗句6") - 可在悬挂的骷髅上 X: -43 Y: 1029 处找到
+
+## 注释
+
+1. [↑](#cite_ref-1) 如果玩家的出身是[邪念](Dark_Urge.md "邪念")，则不需要护符，因为[塞莱瑞塔斯·菲尔](Sceleritas_Fel.md "塞莱瑞塔斯·菲尔")会打开门。
+
+## 外部链接
+
+- [底城区](https://forgottenrealms.fandom.com/wiki/Undercity) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page) 上
+
+---
+*Source: [Undercity Ruins](https://bg3.wiki/wiki/Undercity_Ruins)*

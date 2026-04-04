@@ -1,0 +1,76 @@
+# 即兴近战武器 (附赠动作)
+
+另请参阅：[即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器")
+
+**即兴近战武器**是[狂战士](Berserker.md "狂战士")[野蛮人](Barbarian.md "野蛮人")的类动作，允许使用者通过附赠动作捡起地上的物品或生物进行即兴攻击。只能在[狂怒](Frenzy.md "狂怒")状态下使用。
+
+## 描述
+
+捡起一个物品或生物，并用它进行近战攻击。
+
+你的[力量](Strength.md "力量")影响你能举起的重量。较重的物品造成更多伤害。
+
+## 属性
+
+消耗
+[附赠动作](Actions.md#Resources "动作")
+伤害：
+
+物体⁠[钝击](Bludgeoning.md "钝击")
+
+详情
+[攻击掷骰](Attack_roll.md "攻击掷骰")
+近战：1.5 米（5 英尺）
+
+从地面捡起物品的范围是范围效果：1 米（3 英尺）半径
+
+- 伤害：
+  - 对于具有[投掷攻击](Thrown.md "投掷攻击")属性的武器，伤害掷骰和伤害类型与该武器的近战伤害相同。
+  - 对于其他物体和生物，伤害由被投掷物体的重量决定：
+    - 轻型物体：重量低于 10 千克（20 磅）：
+  1d4⁠⁠[钝击](Bludgeoning.md "钝击") 伤害。
+    - 中型物体：重量 10 千克（20 磅） - 50 千克 / 100 磅：
+  2d4⁠⁠[钝击](Bludgeoning.md "钝击") 伤害。
+    - 重型物体：重量超过 50 千克（100 磅）：
+  2d4⁠⁠[钝击](Bludgeoning.md "钝击") 伤害。
+- 如果投掷的物体或生物重量超过目标体重的一半，目标会被击退 2 米（7 英尺）。
+- 如果投掷的物体或生物重量超过目标体重，目标会变为[倒伏](Prone_(Condition).md "倒伏 (状态)")（无需豁免检定）。
+- 投掷生物会使该被投掷生物获得[倒伏](Prone_(Condition).md "倒伏 (状态)")状态（无需豁免检定）。
+
+## 技术细节
+
+UID
+
+`Throw_ImprovisedWeaponBerserker`
+
+法术标志
+
+`[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)`, `[CombatLogSetSingleLineRoll](https://bg3.wiki/w/index.php?title=CombatLogSetSingleLineRoll_\(spell_flag\)&action=edit&redlink=1) "CombatLogSetSingleLineRoll \(spell flag\) \(page does not exist\)")`, `[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[InventorySelection](https://bg3.wiki/w/index.php?title=InventorySelection_\(spell_flag\)&action=edit&redlink=1) "InventorySelection \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[PickupEntityAndMove](https://bg3.wiki/w/index.php?title=PickupEntityAndMove_\(spell_flag\)&action=edit&redlink=1) "PickupEntityAndMove \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`, `[Temporary](Temporary_(spell_flag).md)`
+
+## 状态：倒伏
+
+**[倒伏](Prone_(Condition).md "倒伏 (状态)")**
+
+持续时间：1 驱散
+
+- 受影响的生物无法移动或进行[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")，并且在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在距离该生物 3 米（10 英尺）范围内进行的攻击对倒伏生物具有[优势](Advantage.md "优势")。
+- 倒伏生物必须花费其一半的[移动速度](Movement_speed.md "移动速度")才能站起。
+  - 拥有[运动员](Athlete.md "运动员")专长的角色仅需花费 1.5 米（5 英尺）的移动速度即可站起。
+
+## 如何习得
+
+职业：
+
+- 职业等级 3：[狂战士](Berserker.md "狂战士")
+
+## 备注
+
+- 生物可以捡起重量不超过 0.2⋅力量² 千克的物品和其他生物（源自 `Scripts/thoth/helpers/CommonConditions.khn` 中 `CanImprovisedWeaponWeight()` 的定义）。例如，[力量](Strength.md "力量")值为 18 时，即兴武器的重量上限为 64.8 千克（129.6 磅）。
+  - 需要至少 20 点力量才能捡起一个普通类人生物（重量：75 千克（150 磅））。
+- **即兴近战武器**被视为近战徒手攻击。
+  - [酒馆殴斗者](Tavern_Brawler.md "酒馆殴斗者")专长会强化即兴近战武器。
+- 目标的重量不受生物装备的物品、生物物品栏内的物品或容器内物品的影响。重量不是捡起或放入物品栏时的重量，而是物体/生物本身的重量。可以通过点击 **"检查 -> 详细信息"** 并查看 **"重量："** 来查看目标的重量。
+
+---
+*Source: [Improvised Melee Weapon (Bonus Action)](https://bg3.wiki/wiki/Improvised_Melee_Weapon_(Bonus_Action)*

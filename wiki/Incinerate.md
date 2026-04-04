@@ -1,0 +1,66 @@
+# 焚烧
+
+**焚烧**是一个[等级 6 塑能学派法术](Spells.md "法术")。这是[拉斐尔](Raphael.md "拉斐尔")独有的法术，需要消耗两次灵魂冲锋，造成 8d8⁠⁠[火焰](Fire.md "火焰")伤害。队友无法学习此法术。
+
+## 描述
+
+消耗 8~64⁠⁠[火焰](Fire.md "火焰")伤害的灵魂，用恶意的火焰包裹目标。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+伤害：8~64
+
+8d8⁠[火焰](Fire.md "火焰")
+
+详情
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）（豁免成功时：目标仍承受一半伤害。）
+范围效果：3 米（10 英尺）半径
+创造区域：火焰
+
+## 升环施法效应
+
+以此法术升环施法不会获得额外收益。
+
+## 技术细节
+
+UID
+
+`Target_LOW_Raphael_FlameFury`
+
+法术标志
+
+`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
+
+## 区域：火焰
+
+**[火焰](Fire_(surface).md "火焰（地表）")**
+
+持续时间：2 驱散
+
+范围效果：3 米（10 英尺）未知形状
+
+每回合造成 1d4⁠⁠[火焰](Fire.md "火焰")伤害。
+
+类型：[地表](Area.md#Surface "区域")
+
+### 状态：燃烧
+
+**[燃烧](Burning_(Condition).md "燃烧（状态）")**
+
+- 每回合承受 1d4⁠⁠[火焰](Fire.md "火焰")伤害。
+- 可通过[协助](Help.md "协助")动作、使用[治疗药水](Potion_of_Healing.md "治疗药水")或获得[濡湿](Wet_(Condition).md "濡湿（状态）")状态来移除。
+- 若处于[濡湿](Wet_(Condition).md "濡湿（状态）")状态则免疫。
+- [蘸取](Dip.md "蘸取")动作可用于燃烧的角色或物体。
+
+## 如何习得
+
+由生物使用：[拉斐尔](Raphael.md "拉斐尔")
+
+## 备注
+
+- 此法术需要拉斐尔消耗两次灵魂冲锋。
+
+---
+*Source: [Incinerate](https://bg3.wiki/wiki/Incinerate)*

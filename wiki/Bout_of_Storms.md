@@ -1,0 +1,34 @@
+# 暴风骤雨
+
+**暴风骤雨**是[安苏](Ansur.md "安苏")在战斗每回合开始时使用的自由动作，使用[风暴新星](Stormheart_Nova.md "风暴新星")后触发。它会在战场创建五个区域，在回合结束时被闪电击中。
+
+## 描述
+
+安苏召唤闪电，以狂野无序的模式击中他周围的所有区域。
+
+## 属性
+
+伤害：6~60
+
+6d10⁠[闪电](Lightning.md "闪电")（每次雷击）
+
+详情
+范围：99 米（330 英尺）
+区域：12 米（40 英尺）半径
+
+## 技术细节
+
+UID
+
+`ProjectileStrike_WYR_LightningStrike_Spawner`
+
+法术标志
+
+`[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell_flag\) \(page does not exist\)")`, `[IsTrap](IsTrap_(spell_flag).md)`
+
+## 如何习得
+
+由生物使用：[安苏](Ansur.md "安苏")
+
+---
+*Source: [Bout of Storms](https://bg3.wiki/wiki/Bout_of_Storms)*

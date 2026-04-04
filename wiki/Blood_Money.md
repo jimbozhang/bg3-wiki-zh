@@ -1,0 +1,55 @@
+# 血钱
+
+**血钱**是一种由[扭曲幸运](Twist_of_Fortune.md "扭曲幸运")赋予的[武器动作](Weapon_action.md "武器动作")。
+
+## 描述
+
+贪婪地挥击，对目标造成额外的熟练项加值⁠⁠[穿刺](Piercing.md "穿刺")伤害，每300[金币](Gold.md "金币")造成一次。金币将被吞噬。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+伤害：
+
+普通武器伤害
+
+详情
+近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
+充能：[短休](Short_rest.md "短休")
+
+## 技术细节
+
+UID
+
+`Target_MAG_WeaponAction_Taxblade`
+
+法术标志
+
+`[IsDefaultWeaponAction](https://bg3.wiki/w/index.php?title=IsDefaultWeaponAction_\(spell_flag\)&action=edit&redlink=1) "IsDefaultWeaponAction \(spell flag\) \(page does not exist\)")`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`
+
+## 如何习得
+
+由物品赋予：
+
+- [扭曲幸运](Twist_of_Fortune.md "扭曲幸运")
+
+## 备注
+
+- 截至补丁5，此能力会以300为增量吞噬目标携带的金币，将其转换为熟练项加值⁠⁠[穿刺](Piercing.md "穿刺")伤害，因此一个拥有99,999金币的目标被9级角色攻击后，在受到约[99,900/4]=1330伤害（在任何适用减免之前）后，其物品栏中将剩下约99金币。
+- 游戏中的许多首领和健壮敌人可以通过“反向扒窃”将大量金币塞入其物品栏来用此动作刺杀。
+
+## 视觉效果
+
+加载视频
+
+本地文件
+
+本地文件可能会收集个人数据。
+
+继续 关闭
+
+<https://bg3.wiki/wiki/File:Blood_Money_Action.mp4>
+
+---
+*Source: [Blood Money](https://bg3.wiki/wiki/Blood_Money)*

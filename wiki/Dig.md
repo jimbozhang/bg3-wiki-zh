@@ -1,0 +1,45 @@
+# 挖掘
+
+**挖掘**是一项通过使用[铲子](Shovel_(item).md "铲子（物品）")即可使用的类动作。它允许队伍成员挖掘埋藏的宝箱。
+
+## 描述
+
+在土堆中搜寻未知的奇珍异宝。
+
+无法在战斗中使用。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+详情
+范围：1.5米（5英尺）
+
+## 技术细节
+
+UID
+
+`Target_Dig`
+
+法术标志
+
+`[HideInItemTooltip](https://bg3.wiki/w/index.php?title=HideInItemTooltip_\(spell_flag\)&action=edit&redlink=1) "HideInItemTooltip \(spell flag\) \(page does not exist\)")`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`
+
+## 学习方式
+
+由物品提供：
+
+- [铲子（物品）](Shovel_(item).md "铲子（物品）")
+- [铲子之友寻觅者](Shovel's_Friend-Finder.md "铲子之友寻觅者")
+
+## 备注
+
+- 挖掘无法作为独立动作在快捷栏中使用，只能通过使用铲子物品来触发。
+  - 拥有铲子时，也可以通过与[土堆](Dirt_Mound.md "土堆")互动来使用挖掘。
+  - 要挖掘[土堆](Dirt_Mound.md "土堆")；执行此动作的角色必须在物品栏中拥有铲子。
+- 即使队伍未能通过所有检测埋藏宝藏的技能检定（通常是[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")或[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")），仍然可以使用[铲子（物品）](Shovel_(item).md "铲子（物品）")进行挖掘。
+- 在[荒野形态](Wild_Shape.md "荒野形态")下无法进行挖掘。
+- 在[杀戮者形态](Slayer.md "杀戮者")下可以进行挖掘。
+
+---
+*Source: [Dig](https://bg3.wiki/wiki/Dig)*

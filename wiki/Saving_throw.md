@@ -1,0 +1,123 @@
+# 豁免检定
+
+**豁免检定**是代表生物试图“**豁免**”自身免受伤害的自动掷骰。它们由[法术](Spells.md "Spells")、其他生物的敌对动作（[攻击](Attacks.md "Attacks")除外）或[陷阱](Traps.md "Traps")和[地表](Surface.md "Surface")等危险所触发。豁免检定总是与特定的[属性](Ability_Score.md "属性值")相关联（[死亡豁免检定](#death-saving-throws)除外），并且总是针对目标的[难度等级](Difficulty_Class.md "难度等级")（DC）进行掷骰，这两者都由触发效果决定。当成功时，它们会减少或防止有害效果。
+
+## 目录
+
+- [1 概述](#overview)
+- [2 游戏机制](#game-mechanics)
+  - [2.1 豁免熟练项](#save-proficiency)
+  - [2.2 豁免DC](#save-dcs)
+  - [2.3 死亡豁免检定](#death-saving-throws)
+- [3 按类型划分的豁免检定](#saving-throws-by-type)
+- [4 另见](#see-also)
+- [5 注释](#notes)
+
+## 概述
+
+所有触发豁免检定的有害效果都有一个关联的目标数字——难度等级（DC）——以及一个与其允许的豁免相关的属性——使用诸如*力量豁免检定*或*敏捷豁免*等术语来指代。
+
+当尝试豁免检定时，生物掷一个d20，并将该豁免关联的属性调整值加到结果上。如果他们[熟练](Proficiency.md "熟练项")使用该属性进行豁免，他们还会加上他们的熟练项加值。如果生物受到增益或减益效果的影响，[[注释 1]](#cite_note-1) 该效果的调整值会加到公式中。
+
+公式 = d20 + [属性值调整值](Ability_score_modifier.md "属性值调整值") + [熟练项加值](Proficiency_Bonus.md "熟练项加值")（如果熟练）+ [其他调整值](List_of_features_and_items_that_affect_saving_throws.md "影响豁免检定的特性和物品列表")（如果有）
+
+然后将结果与效果的DC进行比较，如果等于或超过该数字，则视为成功。
+
+## 游戏机制
+
+本节摘自[掷骰 § 豁免检定](Dice_rolls.md#Saving_throws "掷骰")。
+
+豁免检定代表生物试图“豁免”自身免受伤害。法术和其他生物采取的动作通常允许其目标尝试豁免，[陷阱](Traps.md "陷阱")和[地表](Surface.md "地表")等危险也是如此。每个豁免都有一个关联的属性和一个豁免DC，尝试豁免的生物会针对该DC进行掷骰。当尝试豁免时，生物会加上该豁免关联属性的属性值调整值，如果他们熟练使用该属性进行豁免，他们还会加上熟练项加值。
+
+虽然尝试豁免检定的结果总是二元的——要么成功，要么失败——但成功豁免的确切结果取决于所讨论的效果。通常，相关效果造成的伤害或状态会减轻严重程度，或者有时完全被抵消。
+
+如上所述，豁免检定在掷出自然1或自然20时不会自动失败或成功，除非是为了维持[专注](Concentration.md "专注")或在对话期间。
+
+许多[特性](List_of_features_and_items_that_affect_saving_throws.md "影响豁免检定的特性和物品列表")会影响豁免检定，一些[种族](Races.md "种族")对某些类型的豁免有优势。
+
+### 豁免熟练项
+
+每个职业授予两种属性的豁免检定熟练项。然而，当身兼多职时，只有第一个职业授予豁免检定熟练项（除非它们来自单独的特性，如[钢铁意志](Iron_Mind.md "钢铁意志")）。通过选择[坚如磐石](Resilient.md "坚如磐石")专长可以获得额外的豁免熟练项。
+
+| [野蛮人](Barbarian.md "野蛮人") | [吟游诗人](Bard.md "吟游诗人") | [牧师](Cleric.md "牧师") |
+| --- | --- | --- |
+| [力量](Strength.md "力量") [体质](Constitution.md "体质") | [敏捷](Dexterity.md "敏捷") [魅力](Charisma.md "魅力") | [感知](Wisdom.md "感知") [魅力](Charisma.md "魅力") |
+| [德鲁伊](Druid.md "德鲁伊") | [战士](Fighter.md "战士") | [武僧](Monk.md "武僧") |
+| [智力](Intelligence.md "智力") [感知](Wisdom.md "感知") | [力量](Strength.md "力量") [体质](Constitution.md "体质") | [力量](Strength.md "力量") [敏捷](Dexterity.md "敏捷") |
+| [圣武士](Paladin.md "圣武士") | [游侠](Ranger.md "游侠") | [游荡者](Rogue.md "游荡者") |
+| [感知](Wisdom.md "感知") [魅力](Charisma.md "魅力") | [力量](Strength.md "力量") [敏捷](Dexterity.md "敏捷") | [敏捷](Dexterity.md "敏捷") [智力](Intelligence.md "智力") |
+| [术士](Sorcerer.md "术士") | [邪术师](Warlock.md "邪术师") | [法师](Wizard.md "法师") |
+| [体质](Constitution.md "体质") [魅力](Charisma.md "魅力") | [感知](Wisdom.md "感知") [魅力](Charisma.md "魅力") | [智力](Intelligence.md "智力") [感知](Wisdom.md "感知") |
+
+### 豁免DC
+
+尝试豁免时针对的难度等级称为豁免DC。成功豁免可能意味着完全避免负面效果、减少受到的伤害（通常减半），或两者兼而有之。例如，成功豁免尖刺陷阱可能意味着生物因为成功躲避尖刺而不受伤害。另一方面，如果被[火球术术](Fireball.md "火球术术")法术的区域效果击中，那么成功豁免只会使伤害减半。成功豁免[雷鸣波](Thunderwave.md "雷鸣波")法术既能使受到的伤害减半，又能防止生物被法术推开。
+
+不同的机制以不同的方式计算豁免DC：
+
+**法术豁免DC**
+可以豁免的法术的难度等级通过以下公式确定：
+
+8 + 熟练项加值 + 施法关键属性调整值
+
+除了战士和游荡者之外，每个职业都有一个施法关键属性，该属性用于其职业特性（出现在法术书职业标签下的特性）和需要施法关键属性调整值的法术。一些非职业特性也使用此施法关键属性，例如通过物品（包括[卷轴](Scrolls.md "卷轴")）施放的法术、[可重施法术](Category_colon_Recastable_spells.md "类别:可重施法术")的免费重施（无论来源如何），以及[灵吸怪威能](Illithid_powers.md "灵吸怪威能")。身兼多职的角色对非职业特性使用其最新职业（最近达到1级的职业）的施法关键属性。有些职业特性存在错误，会错误地使用最新职业的施法关键属性，这些特性页面上有说明。
+
+战士和游荡者没有正确定义的施法关键属性，因此使用施法者的默认施法关键属性。默认施法关键属性对于自定义角色以及出身角色[阿斯代伦](Astarion.md "阿斯代伦")、[邪念](The_Dark_Urge.md "邪念")、[盖尔](Gale.md "盖尔")、[卡菈克](Karlach.md "卡菈克")和[莱埃泽尔](Lae'zel.md "莱埃泽尔")是智力；[哈尔辛](Halsin.md "哈尔辛")、[贾希拉](Jaheira.md "贾希拉")、[明斯克](Minsc.md "明斯克")、[明萨拉](Minthara.md "明萨拉")和[影心](Shadowheart.md "影心")使用感知；最后，[威尔](Wyll.md "威尔")使用魅力。对于单职业角色，这按预期工作，但如果他们身兼多职，并且他们最近选择的职业是战士或游荡者，那么将使用次新职业的施法关键属性。
+
+然而，[诡术师](Arcane Trickster.md "诡术师")和[奥法骑士](Eldritch_Knight.md "奥法骑士")副职正确定义了智力作为其施法关键属性，因此这两个副职在身兼多职的角色上会按预期表现。尽管这些副职的施法关键属性仅在3级之后定义，但最新职业仍然是最近达到1级的职业。
+
+| [野蛮人](Barbarian.md "野蛮人") | [吟游诗人](Bard.md "吟游诗人") | [牧师](Cleric.md "牧师") |
+| --- | --- | --- |
+| [力量](Strength.md "力量") [体质](Constitution.md "体质") | [敏捷](Dexterity.md "敏捷") [魅力](Charisma.md "魅力") | [感知](Wisdom.md "感知") [魅力](Charisma.md "魅力") |
+| [德鲁伊](Druid.md "德鲁伊") | [战士](Fighter.md "战士") | [武僧](Monk.md "武僧") |
+| [智力](Intelligence.md "智力") [感知](Wisdom.md "感知") | [力量](Strength.md "力量") [体质](Constitution.md "体质") | [力量](Strength.md "力量") [敏捷](Dexterity.md "敏捷") |
+| [圣武士](Paladin.md "圣武士") | [游侠](Ranger.md "游侠") | [游荡者](Rogue.md "游荡者") |
+| [感知](Wisdom.md "感知") [魅力](Charisma.md "魅力") | [力量](Strength.md "力量") [敏捷](Dexterity.md "敏捷") | [敏捷](Dexterity.md "敏捷") [智力](Intelligence.md "智力") |
+| [术士](Sorcerer.md "术士") | [邪术师](Warlock.md "邪术师") | [法师](Wizard.md "法师") |
+| [体质](Constitution.md "体质") [魅力](Charisma.md "魅力") | [感知](Wisdom.md "感知") [魅力](Charisma.md "魅力") | [智力](Intelligence.md "智力") [感知](Wisdom.md "感知") |
+
+施法职业可以在法术书（快捷键“K”）中查看其法术豁免DC。可以通过检查目标（快捷键“T”）来查看目标的豁免检定。
+
+**武器动作DC**
+大多数武器允许熟练使用者执行特殊的“[武器动作](Weapon_actions.md "武器动作")”，这些动作通常限制为每次短休一次（例如[摔翻打击](Backbreaker.md "摔翻打击")）。这些动作通常包括对目标造成状态的机会，而这些状态需要目标尝试豁免以避免。每个武器动作可以授予其自身固有的DC加成，该加成未在任何地方列出，但通常为+2。针对武器动作的豁免检定的难度等级计算如下：
+
+武器动作DC = 8 + 熟练项加值 + [力量](Strength.md "力量")或[敏捷](Dexterity.md "敏捷")调整值（取较高者）+ 固有武器动作加成DC
+除武器外的装备可能有使用武器动作DC的特性。一些职业特性也使用武器动作DC，特别是[战斗大师](Battle_Master.md "战斗大师")的大多数[策略](Manoeuvre.md "策略")，以及许多[武僧](Monk.md "武僧")能力，如[震慑拳（徒手）](Stunning_Strike_(Unarmed).md "震慑拳（徒手）")。
+一些[独特武器动作](Weapon_actions.md#Unique_weapon_actions "武器动作")反而使用法术豁免DC。
+
+**混合豁免DC**
+某些武器动作，特别是[震荡猛击](Concussive_Smash.md "震荡猛击")，允许执行动作的生物使用其法术豁免DC或武器动作DC（+2加成），取较高者。
+
+**固定豁免DC**
+对于不源自施法者的威胁，例如陷阱或毒苹果，游戏会根据威胁的预期严重程度设置DC。例如，一个轻微变质的馅饼在食用时可能施加DC 5的体质豁免，而强效蛇毒可能对受害者施加DC 15的体质豁免。许多消耗品，如元素[箭](Arrows.md "箭")、[手雷](Grenades.md "手雷")和[涂层](Coatings.md "涂层")，使用固定豁免DC。
+
+### 死亡豁免检定
+
+死亡豁免检定是可玩角色在[倒地](Downed_(Condition).md "倒地（状态）")后进行的一种特殊豁免检定。只要角色保持倒地状态，每回合进行一次死亡豁免检定。死亡豁免检定总是DC 10。如果倒地角色受到任何来源的伤害（重击除外），他们自动失败一次死亡豁免检定。对倒地角色的重击会导致两次豁免失败。对倒地目标的近战攻击总是被归类为重击。
+
+可玩角色在累计三次失败时[死亡](Dead.md "死亡")，或在累计三次成功时稳定，以先发生者为准。
+
+死亡豁免检定不与属性值相关联，因此不会获得任何属性值调整值，也不会受益于熟练项加值。它们只受益于适用于所有豁免检定的加成（如[祝福术](Bless.md "祝福术")）或专门针对死亡豁免的加成（如来自[家族戒指](Family_Ring.md "家族戒指")的加成）。
+
+## 按类型划分的豁免检定
+
+- [魅力豁免检定](Category_colon_Charisma_saving_throws.md "类别:魅力豁免检定")
+- [专注豁免检定](Concentration.md#Taking_damage "专注")
+- [体质豁免检定](Constitution_saving_throws.md "体质豁免检定")
+- [死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")
+- [敏捷豁免检定](Category_colon_Dexterity_saving_throws.md "类别:敏捷豁免检定")
+- [智力豁免检定](Category_colon_Intelligence_saving_throws.md "类别:智力豁免检定")
+- [力量豁免检定](Category_colon_Strength_saving_throws.md "类别:力量豁免检定")
+- [感知豁免检定](Category_colon_Wisdom_saving_throws.md "类别:感知豁免检定")
+
+## 另见
+
+- [影响豁免检定的特性和物品列表](List_of_features_and_items_that_affect_saving_throws.md "影响豁免检定的特性和物品列表")
+- [影响法术豁免DC的来源列表](List_of_sources_that_affect_Spell_Save_DC.md "影响法术豁免DC的来源列表")
+
+## 注释
+
+1. [↑](#cite_ref-1) [影响豁免检定的特性和物品列表](List_of_features_and_items_that_affect_saving_throws.md "影响豁免检定的特性和物品列表")
+
+---
+*Source: [Saving throws](https://bg3.wiki/wiki/Saving_throws)*

@@ -1,0 +1,321 @@
+# 幽影诅咒焰拳
+
+## 幽影诅咒焰拳
+
+- Portrait Shadow-Cursed Fist (Portal) 1.png
+- 男性人类模型
+- 游戏中的男性人类
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "Medium")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[僵尸](Zombie.md "Zombie")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+6
+
+### 生命值
+
+27
+
+### 护甲等级
+
+11
+
+### 先攻
+
++2
+
+### 熟练项
+
++3
+
+### 移动
+
+10.5 米 (35 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+90
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 14 / (+2) | 13 / (+1) | 7 / (-2) | 7 / (-2) | 9 / (-1) |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 状态
+
+- [**幽影诅咒不死生物**](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")
+
+生命值和力量降低，对黯蚀伤害有抗性，且无法使用法术或武器动作。
+
+## 特性
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+6
+
+### 生命值
+
+27
+
+### 护甲等级
+
+11
+
+### 先攻
+
++2
+
+### 熟练项
+
++5
+
+### 移动
+
+10.5 米 (35 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+90
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +2 | +2 | +1 | -2 | -2 | -1 |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 状态
+
+- [**幽影诅咒不死生物**](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")
+
+生命值和力量降低，对黯蚀伤害有抗性，且无法使用法术或武器动作。
+
+## 特性
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+6
+
+### 生命值
+
+27
+
+### 护甲等级
+
+11
+
+### 先攻
+
++2
+
+### 熟练项
+
++3
+
+### 移动
+
+10.5 米 (35 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+90
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 14 / (+2) | 13 / (+1) | 7 / (-2) | 7 / (-2) | 9 / (-1) |
+
+## 抗性 [(info)](Resistances.md "Resistances")
+
+- ## 状态
+
+- [**幽影诅咒不死生物**](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")
+
+生命值和力量降低，对黯蚀伤害有抗性，且无法使用法术或武器动作。
+
+## 特性
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_HAV_Wave3_ShadowCursed_Melee_FlamingFist_004` ###
+
+UUID
+
+`1ede9b50-0b85-4a48-8872-738ddd1fc4cd` ###
+
+属性
+
+`HAV_ShadowCursed_FlamingFist_Elf_Melee` ## 变体 1
+
+###
+
+UID
+
+`S_HAV_Wave3_ShadowCursed_Melee_FlamingFist_005` ###
+
+UUID
+
+`da1e6ca1-6c54-4b82-b94a-901745d64f2e` ###
+
+属性
+
+`HAV_ShadowCursed_FlamingFist_Elf_Melee` ## 变体 2
+
+###
+
+UID
+
+`S_HAV_Wave0_ShadowCursed_Warrior_Pilgrim_006` ###
+
+UUID
+
+`e81fbbc9-a2ec-40e4-800e-fe02acc4fc69` ###
+
+属性
+
+`HAV_ShadowCursed_FlamingFist_Elf_Melee` ## 变体 3
+
+###
+
+UID
+
+`S_HAV_Wave3_ShadowCursed_Melee_FlamingFist_007` ###
+
+UUID
+
+`66deff82-b495-489b-872a-4b544bc941bc` ###
+
+属性
+
+`HAV_ShadowCursed_FlamingFist_Elf_Melee` ## 变体 4
+
+###
+
+UID
+
+`S_HAV_Wave3_ShadowCursed_Melee_FlamingFist_008` ###
+
+UUID
+
+`a410b3f0-f025-4fd1-8b90-d8c0d8fd21e6` ###
+
+属性
+
+`HAV_ShadowCursed_FlamingFist_Elf_Melee` **幽影诅咒焰拳**是一种不死生物，可以在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")的[第二幕](Act_Two.md "第二幕")中找到。他们是被幽影诅咒吞噬并变成无意识僵尸的焰拳成员。
+
+## 目录
+
+- [1 出场](#involvement)
+  - [1.1 第二幕](#act-two)
+- [2 战斗](#combat)
+  - [2.1 攻击与能力](#attacks-and-abilities)
+  - [2.2 战利品](#loot)
+- [3 画廊](#gallery)
+
+## 出场
+
+### 第二幕
+
+幽影诅咒焰拳在[哈尔辛](Halsin.md "哈尔辛")于[解除幽影诅咒](Lift_the_Shadow_Curse.md "解除幽影诅咒")期间打开通往[堕影冥界](Shadowfell.md "堕影冥界")的传送门后出现。队伍必须保卫传送门，同时各种幽影生物，包括幽影诅咒焰拳，会试图攻击它。
+
+## 战斗
+
+### 攻击与能力
+
+[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨剑](Greatsword.md "巨剑")
+
+伤害: 4~14
+
+2d6 + 2⁠[挥砍](Slashing.md "挥砍")
+
+使用装备的武器进行近战攻击。
+
+近战: 1.5 米 (5 英尺)
+
+### 战利品
+
+- [巨剑](Greatsword.md "巨剑")
+- [链甲](Chain_Mail.md "链甲")
+
+## 画廊
+
+- 替代版本的肖像画
+- \_2\* \_3\* \_4\* \_5\*\[v\]: 查看此模板
+
+---
+*Source: [Shadow-Cursed Flaming Fist](https://bg3.wiki/wiki/Shadow-Cursed_Flaming_Fist)*

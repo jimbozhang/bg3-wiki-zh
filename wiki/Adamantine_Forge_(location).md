@@ -1,0 +1,180 @@
+# 精金熔炉 (地点)
+
+本文介绍的是地点。关于任务，请参见 [精金熔炉 (任务)](Adamantine_Forge_(quest)..md)
+
+古代熔炉。
+
+## [复仇之炉](Grymforge.md "复仇之炉")
+
+[被弃避难所](Abandoned_Refuge.md "被弃避难所")
+↑
+|  | **精金熔炉** |
+| --- | --- |
+|  |  |
+精金熔炉是 [博德之门3](Baldur's_Gate_3.md "博德之门3") [第一幕](Act_One.md "第一幕")中 [复仇之炉](Grymforge.md "复仇之炉")内的一个[地点](Location.md "地点")。
+
+> “
+>
+> ...在某个深处，喧闹且炽热如地狱的地方。在幽暗地域的腹地，越过一座古老的堡垒，悬着一柄巨锤，等待着落下。
+>
+> „
+
+— [道恩](Dhourn.md "道恩")的[记忆水晶](Memory_Shard.md "记忆水晶")中的倒影
+
+## 目录
+
+- [1 概述](#overview)
+- [2 使用精金熔炉](#using-the-adamantine-forge)
+  - [2.1 护甲](#armour)
+  - [2.2 盾牌](#shields)
+  - [2.3 武器](#weapons)
+- [3 历史](#history)
+- [4 传送点](#waypoints)
+- [5 相关任务](#related-quests)
+- [6 角色](#characters)
+  - [6.1 生物](#creatures)
+- [7 战利品](#loot)
+- [8 相关文献](#related-literature)
+- [9 画廊](#gallery)
+- [10 参考文献](#references)
+- [11 外部链接](#external-links)
+
+## 概述
+
+精金熔炉是[被弃避难所](Abandoned_Refuge.md "被弃避难所")内的一个区域，毗邻[复仇之炉](Grymforge.md "复仇之炉")区域，并共享同一区域。从传送点所在区域，一条岩石小径向下延伸至 X: -568 Y: 243，到达熔炉机关。
+
+熔炉本身是一个超巨型圆形平台，带有四个次级圆形基座，基座之间有弯曲的小径，小径间有缝隙让熔岩流下，中间有一个坩埚。它有两个位置：上部（初始）和下部，在锻造过程中必须将其移动到下部。从上部位置（X: -570 Y: 229），队伍也可以跳到一个坍塌的结构上，该结构通向一个熔岩湖，那里有一个[岩浆元素](Lava_Elemental.md "岩浆元素")在游荡，[护符之魂的协助](Help_the_Spirit_of_the_Amulet.md "护符之魂的协助")任务可以在此开始或推进。
+
+发现这个中等大小地点的[经验值](Experience.md "经验值")在破碎楼梯的一半处获得：角色等级4、5或6时分别获得75XP、150XP或180XP。
+
+## 使用精金熔炉
+
+控制锻造过程的基本元素散布在平台周围：模具室（带有在制造后弹出模具的拉杆）靠近坩埚，降低锤子的拉杆位于其中一个基座的中央，而允许部分熔岩流入坩埚的阀门则靠近熔炉，在另一个基座附近的格栅上。
+
+当熔岩倒入时，会覆盖除四个基座、基座之间弯曲的小径以及阀门附近的格栅外的所有平台表面。坩埚顶部也保持未覆盖状态——以接收锤子的击打。
+
+操作熔炉的说明可以在[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")中[幽暗地域](Underdark.md "幽暗地域")的[Xargrim](Xargrim.md "Xargrim")尸体处获得的一本书中找到：
+
+> “
+>
+> 将矿石和模具放入各自的腔室。
+>
+> 拉动拉杆以降低锤子并准备熔炼矿石。
+>
+> 打开阀门让熔岩流入坩埚，然后再次放下锤子以锻造产品。
+>
+> „
+
+— [了不起的复仇之炉](The_Great_Furnace_of_Grymforge.md "了不起的复仇之炉")典籍
+
+每个配方都需要一块[秘银矿石](Mithral_Ore.md "秘银矿石")。然而，只有两块矿石可用。一块可以在古代熔炉传送点西南方向找到，沿着小径向下到达熔岩流。矿脉在对面的“岸”上清晰可见，位于 X: -645 Y: 255。另一块可以在一个类似图书馆的区域找到，该区域位于通往熔炉平台的小径东面。矿脉从拱门处凸出，位于 X: -558 Y: 278。
+
+因此，玩家角色能够从以下列表中制作任意两件物品：
+
+### 护甲
+
+| 名称 | 插槽 | 效果 | 模具 |
+| --- | --- | --- | --- |
+| 精金鳞甲 | [护甲](Armour.md "护甲") ([中甲](Medium_Armour.md "中甲")) | 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。[魔法板甲](Magical_Plate_(-1).md "魔法板甲 (-1)")所有受到的伤害减少1点。[精金反冲](Adamantine_Backlash.md "精金反冲")当近战攻击命中你时，攻击者会陷入[手酸臂软](Reeling_(Condition).md "手酸臂软 (状态)")状态2回合。 | [鳞甲模具](Scale_Mail_Mould.md "鳞甲模具") |
+| 精金板条甲 | [护甲](Armour.md "护甲") ([重甲](Heavy_Armour.md "重甲")) | 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。[魔法板甲](Magical_Plate_(-2).md "魔法板甲 (-2)")所有受到的伤害减少2点。[高等精金反冲](Intense_Adamantine_Backlash.md "高等精金反冲")当近战攻击命中你时，攻击者会陷入[手酸臂软](Reeling_(Condition).md "手酸臂软 (状态)")状态3回合。 | [板甲模具](Splint_Mould.md "板甲模具") |
+| [板甲模具](Splint_Mould.md "板甲模具") |  |  |  |
+
+### 盾牌
+
+- 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。
+
+[盾牌猛击](Shield_Blow.md "盾牌猛击") ()
+| 名称 | 插槽 | 效果 | 模具 |
+| --- | --- | --- | --- |
+| 精金盾牌 | [副手近战](Off-Hand_Melee.md "副手近战") ([盾牌](Shields.md "盾牌")) | 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。[盾牌猛击](Shield_Blow.md "盾牌猛击") () 当敌人用近战攻击命中你时，你可以使用你的[反应](reaction.md "反应")将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非他们成功通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。[精金盾牌](Adamantine_Shield_(passive_feature).md "精金盾牌 (被动特性)")当近战攻击未命中你时，攻击者会陷入[手酸臂软](Reeling_(Condition).md "手酸臂软 (状态)")状态2回合。 | [盾牌模具](Shield_Mould.md "盾牌模具") |
+| [盾牌模具](Shield_Mould.md "盾牌模具") |  |  |  |
+
+### 武器
+
+[削铁斩金](Diamondsbane.md "削铁斩金")
+如果精金武器击中物体，该次攻击总是重击。
+
+[致命武器](Lethal_Weapon_(Slashing).md)
+此武器无视[挥砍](Slashing.md "挥砍")伤害的[抗性](Resistance.md "抗性")。
+| [长剑模具](Longsword_Mould.md "长剑模具") [精金硬头锤](Adamantine_Mace.md "精金硬头锤") | [主手近战](Main_Hand_Melee.md "主手近战") ([硬头锤](Maces.md "硬头锤")) |
+
+[削铁斩金](Diamondsbane.md "削铁斩金")
+如果精金武器击中物体，该次攻击总是重击。
+
+[致命武器](Lethal_Weapon_(Bludgeoning).md)
+此武器无视[钝击](Bludgeoning.md "钝击")伤害的[抗性](Resistance.md "抗性")。
+| [硬头锤模具](Mace_Mould.md "硬头锤模具") [精金弯刀](Adamantine_Scimitar.md "精金弯刀") | [主手近战](Main_Hand_Melee.md "主手近战") ([弯刀](Scimitars.md "弯刀")) |
+
+[削铁斩金](Diamondsbane.md "削铁斩金")
+如果精金武器击中物体，该次攻击总是重击。
+
+[致命武器](Lethal_Weapon_(Slashing).md)
+此武器无视[挥砍](Slashing.md "挥砍")伤害的[抗性](Resistance.md "抗性")。
+| [弯刀模具](Scimitar_Mould.md "弯刀模具")|
+
+任何模具都可以使用两次来制作两件相同的物品。为此，队伍必须首先通过拉杆将先前使用的模具从模具室中弹出，拾取它并再次放入，然后重复整个周期。
+
+第一次使用熔岩阀门时，[复仇侍卫](Grym.md "复仇侍卫")会出现以保卫熔炉。此外，在与它的战斗中，几个[岩浆魔蝠](Magma_Mephit.md "岩浆魔蝠")会从周围的熔岩中出现。
+
+要提升平台，可以使用位于锤子操作拉杆后面的按钮。将平台提升到其初始位置会使熔炉无法运作。因此，如果在制作第二件物品之前提升了平台，则在使用平台控制按钮将其重新降低之前，无法进行进一步的制造。
+
+## 历史
+
+精金是一种极其坚硬的合金，通过将金刚石矿与秘银合金在极高温度下锻造而成。由于制造困难，精金通常由矮人生产。
+
+精金熔炉可能是在某个未知时代与复仇之炉要塞一起由一群莎尔信徒建造的。入口处牌匾上的铭文暗示，熔炉本身可能甚至在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")到来之前就已存在，因为其文字在“几个世纪”前就已熔化消失。在被莎尔的[暗夜法官](Dark_Justiciar.md "暗夜法官")接管后，熔炉由[西洛夫·亚利](Silouv_Yali.md "西洛夫·亚利")重新设计，他是一位以法师天赋闻名的侏儒，并被莎尔祭司安萨尔姐妹皈依了莎尔信仰。经过一系列实验，他设法找到了将其温度提高到足以生产精金的方法。
+
+然而，西洛夫·亚利的*杰作*不是熔炉，而是[复仇侍卫](Grym.md "复仇侍卫")，一个强大的构装生物，据说对刀剑和法术都免疫，是熔炉的永恒守卫。不幸的是，对于暗夜法官来说，亚利用了大部分可用的精金来制造这个机器人，因此附近的矿脉变得过于稀少，无法为莎尔信徒的武器装备提供足够的金属。<sup>[\[1\]](#cite_note-1)</sup>
+
+在所有暗夜法官被一个[尤格](Yurgir.md "尤格")消灭后，精金熔炉再次沉入黑暗。
+
+## 传送点
+
+此地点毗邻但*不包含*以下传送点：* 幽暗地域 —— 古代熔炉 位于 X: -612 Y: 294
+
+## 相关任务
+
+- [精金熔炉](Adamantine_Forge_(quest).md)
+
+## 角色
+
+### 生物
+
+- [复仇侍卫](Grym.md "复仇侍卫")
+- [岩浆元素](Lava_Elemental.md "岩浆元素")
+- [岩浆魔蝠](Magma_Mephit.md "岩浆魔蝠")
+
+## 战利品
+
+在此地点获得的著名物品，无论是掠夺、购买还是作为任务奖励获得：
+
+- [复仇侍卫头骨盔](Grymskull_Helm.md "复仇侍卫头骨盔") - 从复仇侍卫身上掠夺
+- [心形石头](Heart-Shaped_Rock.md "心形石头") - 从岩浆魔蝠和岩浆元素身上掠夺
+
+## 相关文献
+
+- [《熔炉锻造日志》](Forge_Construction_Log.md "《熔炉锻造日志》")
+- [记忆水晶](Memory_Shard.md "记忆水晶")
+- [潦草的字条 (复仇之炉)](Scribbled_Note_(Grymforge).md "潦草的字条 (复仇之炉)")
+- [了不起的复仇之炉](The_Great_Furnace_of_Grymforge.md "了不起的复仇之炉")
+
+## 画廊
+
+- 由 Konstantin Melnik 渲染
+
+## 参考文献
+
+| [复仇之炉](Grymforge.md "复仇之炉") |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [被弃避难所](Abandoned_Refuge.md "被弃避难所") |  |  |  |  |
+| ↑ |  |  |  |  |
+|  |  | 精金熔炉 |  |  |
+|  |  |  |  |  |
+
+## 外部链接
+
+- [精金](https://forgottenrealms.fandom.com/wiki/Adamantine) 在 [被遗忘的国度Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- [秘银](https://forgottenrealms.fandom.com/wiki/Mithral) 在 [被遗忘的国度Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Adamantine Forge (location)](https://bg3.wiki/wiki/Adamantine_Forge_(location)*

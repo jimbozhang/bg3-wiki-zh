@@ -1,0 +1,37 @@
+# 找回灵魂
+
+**找回灵魂**是一种条件动作，当[拉斐尔](Raphael.md "拉斐尔")击倒一个生物并用[灵魂收割](Soul_Reaper.md "灵魂收割")夺走其灵魂时获得。当被复活时，受影响的生物可以使用此动作从拉斐尔或灵魂之柱处取回自己的灵魂。
+
+## 描述
+
+通过从拉斐尔或灵魂之柱处取回你的灵魂，克服你的[灵魂撕裂](Severed_Soul_(Condition).md "灵魂撕裂（状态）")状态。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+详情
+近战：1.5米（5英尺）
+目标：拉斐尔或灵魂之柱
+
+## 技术细节
+
+UID
+
+`Target_LOW_Raphael_RestoreSoul`
+
+法术标志
+
+`[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`
+
+## 如何习得
+
+其他习得方式：
+被拉斐尔击倒的队伍成员会获得[灵魂撕裂](Severed_Soul_(Condition).md "灵魂撕裂（状态）")状态。他们自动获得找回灵魂动作，该动作可施放于拉斐尔或灵魂之柱以移除该状态。
+
+## 备注
+
+- 当直接对拉斐尔使用时，他会失去一个[灵魂冲锋](Soul_Charges_(Condition).md "灵魂冲锋（状态）")。如果目标是灵魂之柱，则不会发生这种情况。
+
+---
+*Source: [Restore Soul](https://bg3.wiki/wiki/Restore_Soul)*

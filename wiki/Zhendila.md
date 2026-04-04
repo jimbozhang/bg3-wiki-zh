@@ -1,0 +1,378 @@
+# 真迪拉
+
+## 历战熟手 真迪拉
+
+- 模型
+- 肖像画
+
+### 身份
+
+男性
+
+### 声音 / 演员
+
+- [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/)
+
+### 阵营
+
+[吉斯洋基人 (阵营)](Githyanki_(Faction).md)
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "中级")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[吉斯洋基人](Githyanki.md "吉斯洋基人")
+
+### 原型
+
+[历战熟手](Veteran_Gish.md "历战熟手")
+
+### 职业
+
+[战士](Fighter.md "战士")
+
+### 副职
+
+[奥法骑士](Eldritch_Knight.md "奥法骑士")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+9
+
+### 生命值
+
+85
+
+### 护甲等级
+
+16
+
+### 先攻
+
++1
+
+### 熟练项
+
++4
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 18 / (+4) | 16 / (+3) | 16 / (+3) |
+
+## 额外资源
+
+- 5
+
+- - - ## 状态
+
+- [**灵能守御光环**](Psionic_Ward_Aura_(Condition).md "灵能守御光环 (状态)")
+
+熟手及 3 米 (10 英尺) 内的盟友获得 +5 [豁免检定](Saving_throws.md "豁免检定") 加值，且不会被 [恐慌](Frightened_(status_group).md)。
+
+## 特性
+
+- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+
+在施放 [法术或戏法](Spells.md "法术") 后，可进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开触及范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+9
+
+### 生命值
+
+59
+
+### 护甲等级
+
+16
+
+### 先攻
+
++1
+
+### 熟练项
+
++6
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +3 | +1 | +7 | +4 | +3 | +3 |
+
+## 额外资源
+
+- 5
+
+- - - ## 状态
+
+- [**灵能守御光环**](Psionic_Ward_Aura_(Condition).md "灵能守御光环 (状态)")
+
+熟手及 3 米 (10 英尺) 内的盟友获得 +5 [豁免检定](Saving_throws.md "豁免检定") 加值，且不会被 [恐慌](Frightened_(status_group).md)。
+
+## 特性
+
+- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+
+在施放 [法术或戏法](Spells.md "法术") 后，可进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开触及范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+9
+
+### 生命值
+
+110
+
+### 护甲等级
+
+16
+
+### 先攻
+
++1
+
+### 熟练项
+
++4
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 18 / (+4) | 16 / (+3) | 16 / (+3) |
+
+## 额外资源
+
+- 5
+
+- - - ## 状态
+
+- [**灵能守御光环**](Psionic_Ward_Aura_(Condition).md "灵能守御光环 (状态)")
+
+熟手及 3 米 (10 英尺) 内的盟友获得 +5 [豁免检定](Saving_throws.md "豁免检定") 加值，且不会被 [恐慌](Frightened_(status_group).md)。
+
+## 特性
+
+- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+
+在施放 [法术或戏法](Spells.md "法术") 后，可进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开触及范围的敌人。
+
+- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+
+你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵") 伤害 - 灵吸怪奴役的伤痕根深蒂固。
+
+- [**战地施法者：专注**](War_Caster_colon__Concentration.md "战地施法者：专注")
+
+你在维持 [法术](Spells.md "法术") [专注](Concentration.md "专注") 的 [豁免检定](Saving_throw.md "豁免检定") 上获得 [优势](Advantage.md "优势")。
+
+- [**战地施法者：借机施法**](War_Caster_colon__Opportunity_Spell.md "战地施法者：借机施法")
+
+你还可以使用 [反应](Reaction.md "反应") 对离开近战范围的目标施放 [电爪](Shocking_Grasp.md "电爪")。
+
+## 技术
+
+###
+
+UID
+
+`S_LOW_Elfsong_GithyankiShield_Gish_002` ###
+
+UUID
+
+`9d556b37-ea56-43ce-907f-a42505959279` ###
+
+属性
+
+`Githyanki_Gish_Strong` **历战熟手 真迪拉**是一名 [吉斯洋基人](Githyanki.md "吉斯洋基人") 士兵，可在 [博德之门](Baldur's_Gate.md "博德之门") [下城区](Lower_City.md "下城区") 的 [盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点") 遇到，守卫着 [门主雅拉克](Zyrlak.md "门主雅拉克")。除非成功恐吓 [Ch'r'rai Har'rak](Har'rak.md "Har'rak")，否则他对队伍怀有敌意。
+
+## 战斗
+
+### 攻击与能力
+
+[星界步伐](Astral_Step.md "星界步伐") ()
+银色雾气环绕，你传送至一个可见的未占用空间。
+
+范围：18 米 (60 英尺)
+
+[失明术](Blindness.md "失明术") (+ )
+限制敌人的视线范围。更容易命中，且该生物会更频繁地失手。对其的 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")，且敌人攻击时具有 [劣势](Disadvantage.md "劣势")。
+
+[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+范围：18 米 (60 英尺)
+
+[燃烧之手](Burning_Hands.md "燃烧之手") (+ )
+
+伤害：3~18
+
+3d6⁠[火焰](Fire.md "火焰")
+
+每个可燃目标受到 3d6⁠⁠[火焰](Fire.md "火焰") 伤害。
+
+[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+范围：自身
+
+[人类定身术](Hold_Person.md "人类定身术") (+ )
+定住一个类人生物敌人。他们无法 [移动](Movement_speed.md "移动速度")、[行动](Action.md "动作") 或 [反应](Reaction_(Resource).md)。3 米 / 10 英尺内的攻击总是 [重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可进行一次 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定") 以结束此状态。
+
+[感](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
+范围：18 米 (60 英尺)
+
+[割裂](Lacerate.md "割裂") () – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
+
+伤害：5~12
+
+1d8 + 4⁠[挥砍](Slashing.md "挥砍")
+
+劈砍目标的要害部位，使其 [流血](Bleeding_(Condition).md "流血 (状态)")。
+
+[不死生物](Undead.md "不死生物") 和 [构装生物](Constructs.md "构装生物") 无法流血。
+
+[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+范围：正常武器范围
+充能：[短休](Short_rest.md "短休")
+
+[主手攻击](Main_Hand_Attack.md "主手攻击") () – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
+
+伤害：5~12
+
+1d8 + 4⁠[挥砍](Slashing.md "挥砍")
+
+用装备的武器进行近战攻击。
+
+近战：1.5 米 (5 英尺)
+
+[迷踪步](Misty_Step.md "迷踪步") ()
+银色雾气环绕，你传送至一个可见的未占用空间。
+
+范围：18 米 (60 英尺)
+充能：[长休](Long_Rest.md "长休")
+
+[剑柄打击](Pommel_Strike.md "剑柄打击") () – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
+
+伤害：1~4
+
+1d4⁠[钝击](Bludgeoning.md "钝击")
+
+对敌人进行一次非致命攻击，并可能使其 [眩晕](Dazed_(Condition).md "眩晕 (状态)")。
+
+[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+近战：1.5 米 (5 英尺)
+充能：[短休](Short_rest.md "短休")
+
+[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+
+伤害：1~8
+
+1d8⁠[寒冷](Cold.md "寒冷")
+
+使目标的 [移动速度](Movement_speed.md "移动速度") 降低 3 米 / 10 英尺。
+
+范围：18 米 (60 英尺)
+
+[突进攻击](Rush_Attack.md "突进攻击") () – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
+
+伤害：4~7
+
+1d4 + 3⁠[穿刺](Piercing.md "穿刺")
+
+向前冲锋并攻击路径上的第一个敌人，可能将其推至 [失衡](Off_Balance_(Condition).md "失衡 (状态)")。
+
+[力](Strength.md "力量") [豁免](Saving_throws.md "豁免检定")
+范围：9 米 (30 英尺)
+充能：[短休](Short_rest.md "短休")
+
+[电爪](Shocking_Grasp.md "电爪") ()
+
+伤害：1~8
+
+1d8⁠[闪电](Lightning.md "闪电")
+
+目标无法使用 [反应](Reaction.md "反应")。此法术对拥有金属 [护甲](Armour.md "护甲") 的生物具有 [优势](Advantage.md "优势")。
+
+近战：1.5 米 (5 英尺)
+
+### 显著战利品
+
+- [吉斯洋基半身甲](Githyanki_Half_Plate.md "吉斯洋基半身甲")
+- [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
+
+---
+*Source: [Zhendila](https://bg3.wiki/wiki/Zhendila)*

@@ -1,0 +1,455 @@
+# 利文顿
+
+______________________________________________________________________
+
+[飞龙关](Wyrm's_Crossing.md "飞龙关")
+↑
+|  | **利文顿** |
+|
+|
+↓
+[雷斯文小镇](Reithwin_Town.md "雷斯文小镇")
+**利文顿**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三章](Act_Three.md "第三章")中的一个[区域](Region.md "区域")。
+
+> “
+>
+> 所有这些逃命的人……最终却像牲畜一样被圈禁起来。
+>
+> „
+
+— [哈尔辛](Halsin.md "哈尔辛")，看着利文顿的难民营
+
+## 目录
+
+- [1 概述](#overview)
+- [2 地点](#locations)
+  - [2.1 遗弃磨坊](#abandoned-windmill)
+  - [2.2 阿尔弗的宅邸](#arfur's-mansion)
+  - [2.3 末日马戏团](#circus-of-the-last-days)
+  - [2.4 古尔营地](#gur-camp)
+  - [2.5 慈爱神殿](#open-hand-temple)
+  - [2.6 强制征用的谷仓](#requisitioned-barn)
+  - [2.7 利文顿综合商店](#rivington-general)
+    - [2.7.1 角铁地窖](#angleiron's-cellar)
+  - [2.8 剑湾快递](#sword-coast-couriers)
+  - [2.9 南翼检查点](#south-span-checkpoint)
+  - [2.10 西部海滩](#western-beach)
+  - [2.11 其他遭遇与兴趣点](#other-encounters-and-points-of-interest)
+    - [2.11.1 接近该区域](#approaching-the-area)
+    - [2.11.2 偶遇耶娜](#bumping-into-yenna)
+    - [2.11.3 地震](#earthquakes)
+    - [2.11.4 东门](#eastern-gate)
+    - [2.11.5 翠绿林地提夫林](#emerald-grove-tieflings)
+    - [2.11.6 纪念肖像](#memorial-portrait)
+    - [2.11.7 痴迷的狗粉](#obsessed-dog-fan)
+    - [2.11.8 奥林的伪装](#orin's-disguises)
+    - [2.11.9 利文顿水井](#rivington-well)
+    - [2.11.10 夏芮丝守望者与捣乱者](#sharran-lookout-and-the-troublemakers)
+    - [2.11.11 古怪公牛](#strange-ox)
+    - [2.11.12 负伤的半兽人](#wounded-half-Orc)
+- [3 传送点](#waypoints)
+- [4 相关地点](#related-locations)
+  - [4.1 在飞龙关](#in-wyrm's-crossing)
+  - [4.2 在下城区](#in-the-lower-city)
+- [5 相关任务](#related-quests)
+- [6 重要角色](#notable-characters)
+- [7 战利品](#loot)
+  - [7.1 隐藏宝藏](#hidden-treasure)
+- [8 相关文献](#related-literature)
+- [9 注释与参考](#notes-and-references)
+- [10 外部链接](#external-links)
+
+## 概述
+
+利文顿周围田野上众多的难民帐篷
+
+利文顿是博德之门最南端的郊区，位于[奇恩萨河](River_Chionthar.md "奇恩萨河")南岸，[飞龙关](Wyrm's_Crossing.md "飞龙关")以南。在最近由[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")崛起引发的事件之前，这里显然只是一个安静的村庄，有几座富裕公民的房屋和一座大神殿。周围广阔的田野和山丘是各种游牧团体和商贩的临时落脚点。
+
+然而，战争逼近[博德之门](Baldur's_Gate.md "博德之门")，迫使数百人离开旧居所，逃命求生。因此，利文顿变成了一个巨大的难民营。然而，当地居民与新来者之间的冲突不可避免，麻烦正在酝酿。难民被禁止进入[飞龙关](Wyrm's_Crossing.md "飞龙关")，更不用说进入城市本身了。与此同时，至上真神信徒的隐秘行动致力于尽可能加剧紧张局势。<sup>[\[1\]](#cite_note-1)</sup>
+
+利文顿是玩家在游戏[第三章](Act_Three.md "第三章")开始时抵达的第一个区域。被视为与大多数新来者享有同等权利，他们必须设法进入飞龙关，进而进入下城区。他们的需求因[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")准备夺取城市权力的消息而加剧，他利用了削弱的[四人议会](https://forgottenrealms.fandom.com/wiki/Council_of_Four)并安装了他的标志性发明——机械[钢铁卫士](Steel_Watcher.md "钢铁卫士")——作为城市的主要防御手段。他作为至上真神教团主要领袖之一的地位，更不用说作为[三选中者](Absolute.md#The_Chosen "三选中者")之一，对大多数博德之门公民来说仍是未知的，但对玩家角色来说并非如此。宣布戈塔什被任命为_博德之门大公爵_的海报遍布利文顿。<sup>[\[2\]](#cite_note-2)</sup>
+
+## 地点
+
+### 遗弃磨坊
+
+山丘上的废弃磨坊
+
+主条目：[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")
+
+遗弃磨坊可在X: 44 Y: -32的山丘上找到，位于[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")以北，[古尔营地](Gur_Camp.md "古尔营地")以西。一条血迹通向其入口。当玩家首次接近磨坊时，会听到地窖传来痛苦的呻吟声。
+
+在寻找这些哀嚎声的来源时，玩家可以开始任务[释放夺心魔](Feed_the_Mind_Flayer.md "释放夺心魔")，并决定前[焰拳士兵阿利安](Mind_flayer_(windmill).md "夺心魔（磨坊）")的命运，要么帮助他们，要么结束他们的存在。
+
+### 阿尔弗的宅邸
+
+宅邸俯视图
+
+主条目：[阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸")
+
+阿尔弗的宅邸是[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")的家，他是一位富裕的商人，返回利文顿时发现自己的领地被一个难民家庭非法占据。房屋位于X: 11 Y: -95，首次进入利文顿后，穿过主路即可到达。
+
+接近前门时，玩家会看到阿尔弗和一群利文顿老鼠帮——由[泽诺维娅·道格](Zenovia_Dawg.md "泽诺维娅·道格")领导的土匪团伙——正在与[本·戈莱维茨](Ben_Golewits.md "本·戈莱维茨")争吵。对话会自动开始，玩家必须解决冲突，支持其中一方。
+
+无论结果如何，之后都可以探索宅邸。宅邸工坊中的一个舱口通向其地下室，在那里可以开始或推进任务[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")。
+
+### 末日马戏团
+
+马戏团俯视图
+
+主条目：[末日马戏团](Circus_of_the_Last_Days.md "末日马戏团")
+
+末日马戏团占据了利文顿的西北角，毗邻[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")。进入该区域的主入口位于X: 22 Y: -75。马戏团是跨位面的，目前正在利文顿访问，为顾客提供多种娱乐形式，包括舞台单口喜剧、音乐和各种可供购买的珍奇物品。玩家角色还可以测试与浪漫伴侣的关系。
+
+在马戏团，玩家可以见到其主持人、死灵法师[卢克修斯](Lucretious.md "卢克修斯")，并观看主演演员[小丑德里波斯](Dribbles.md "小丑德里波斯")的表演，后者最终被揭露为[法姆](Fumm.md "法姆")。因此，演出的结果可能导致玩家开始[寻找](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")真正的小丑，但也可能为他们提供更多关于[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")谜团的线索。
+
+### 古尔营地
+
+古尔人在营地点燃火葬柴堆
+
+主条目：[古尔营地](Gur_Camp.md "古尔营地")
+
+古尔营地是[古尔](Gur.md "古尔")怪物猎人团体的临时家园，由[乌玛](Ulma.md "乌玛")领导。它位于X: 102 Y: -12的山顶，[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")以北，[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")以东。
+
+古尔营地的局势很大程度上取决于玩家角色在[第一章](Act_One.md "第一章")中关于[阿斯代伦](Astarion.md "阿斯代伦")和/或[根德莱尔](Gandrel.md "根德莱尔")的决定。如果乌尔玛还活着，当玩家接近时，她正在火葬柴堆上进行纪念仪式。对话会自动开始，可以在对话中启动[调查卡扎多尔的宫殿](Investigate_Cazador's_Palace.md "调查卡扎多尔的宫殿")，并推进阿斯代伦的个人任务[苍白的精灵](The_Pale_Elf.md "苍白的精灵")或[鲜血召唤](Call_of_the_Blood.md "鲜血召唤")。
+
+### 慈爱神殿
+
+神殿景观
+
+主条目：[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")
+
+慈爱神殿是一座大型神殿，毗邻[末日马戏团](Circus_of_the_Last_Days.md "末日马戏团")，位于[南翼检查点](South_Span_Checkpoint.md "南翼检查点")以南，与[剑湾快递](Sword_Coast_Couriers.md "剑湾快递")隔路相望。其主入口位于X: -44 Y: -6。神殿致力于崇拜[伊尔梅特](Ilmater.md "伊尔梅特")，在最近的事件之前，是为逃离[至上真神](Absolute.md "至上真神")军队的众多难民提供治疗、食物和施舍的中心。然而，由于最近[首席牧师](Lorgan.md "罗根")被谋杀，那里的崇拜活动以及对丧亲者的援助目前已被暂停。
+
+神殿还通向[地下区域](Open_Hand_Temple_Underground_Area.md "慈爱神殿地下区域")，包括地窖和相邻的天然洞穴。其屋顶也可以探索。通过探索这些区域，可以推进并完成[帮助护符之魂](Help_the_Spirit_of_the_Amulet.md "帮助护符之魂")和[寻找丢失的信件](Find_the_Missing_Letters.md "寻找丢失的信件")任务。
+
+在内部，靠近入口处，玩家会遇到[克莱门茨](Clements.md "克莱门茨")和[比尔](Bill.md "比尔")，他们正在讨论信仰的教义和牧师的死亡。
+
+### 强制征用的谷仓
+
+谷仓鸟瞰图
+
+主条目：[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")
+
+强制征用的谷仓位于X: 83 Y: -108。它目前被用作仓库，储存收集到的捐赠物资，以便分发给难民。谷仓由[焰拳](Flaming_Fist.md "焰拳")小队守卫，由[精卫内斯特](Nestor.md "内斯特")指挥。玩家可以分享一些金币或食物作为捐赠，或者尝试从谷仓补充物资。此外，一旦玩家找到进入方式，就可以启动或推进任务[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")。
+
+### 利文顿综合商店
+
+利文顿综合商店的两栋建筑
+
+主条目：[利文顿综合商店](Rivington_General.md "利文顿综合商店")
+
+利文顿综合商店是一家武器和盔甲商店，位于末日马戏团对面，主入口位于X: 8 Y: -32，阿尔弗的宅邸以北。大型露天锻炉位于石铺平台上，使建筑能够适应逐渐上升的地面高度，连接了商店和店主兼铁匠大师[吉尔德罗·角铁](Gyldro_Angleiron.md "吉尔德罗·角铁")的房屋，后者可以在锻炉附近找到。一位开朗的龙裔[埃克维凯普](Exxvikyap.md "埃克维凯普")监督楼下商店的商品销售。
+
+#### 角铁地窖
+
+利文顿综合商店的地窖可以通过商店北侧X: 30 Y: 29的洞穴入口进入，或者通过吉尔德罗房屋中的舱口进入（最初被下方的杠杆挡住）。
+
+地窖已成为[铁手侏儒](Clan_Ironhand.md "铁手侏儒")的行动基地，由[乌尔布伦·邦格力](Wulbren_Bongle.md "乌尔布伦·邦格力")领导，他们被驱逐出城市。吉尔德罗·角铁故意庇护他们。<sup>[\[3\]](#cite_note-3)</sup>
+
+### 剑湾快递
+
+剑湾快递外观
+
+主条目：[剑湾快递](Sword_Coast_Couriers.md "剑湾快递")
+
+剑湾快递是一家邮局，主入口位于X: 13 Y: 10，位于[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")对面，[南翼检查点](South_Span_Checkpoint.md "南翼检查点")以南。它是利文顿唯一提供通过信使或信鸽递送信件服务的机构。不幸的是，由于[至上真神](Absolute.md "至上真神")军队的攻击、各种怪物以及某只[特瑞西姆](Tara.md "塔拉")的袭击，最近处理递送业务变得相当困难。
+
+在内部，玩家可以与店主[丹左·阿克赖特](Danzo_Arkwright.md "丹左·阿克赖特")交谈，他可以启动任务[寻找丢失的信件](Find_the_Missing_Letters.md "寻找丢失的信件")。任务可以立即推进，在一楼的鸽舍或调查建筑屋顶。邮局外是一个有围栏的小区域，里面有递送犬的狗舍，可以找到[挠挠](Scratch.md "挠挠")的原主人[愤怒的马赫亚](Angry_Mar'hyah.md "愤怒的马赫亚")。
+
+### 南翼检查点
+
+由焰拳守卫的检查点
+
+主条目：[南翼检查点](South_Span_Checkpoint.md "南翼检查点")
+
+检查点通过主路进入，主路将利文顿分成两个不均匀的部分，是进入[飞龙关](Wyrm's_Crossing.md "飞龙关")的主要入口。
+
+检查点设有大型木制壁垒，如果从利文顿方向过来，前方还有一个较小的[焰拳](Flaming_Fist.md "焰拳")哨所。利文顿一侧的守卫由[圣武士埃德温娜](Edwynna.md "埃德温娜")指挥，她奉命遣返所有难民，阻止他们进入博德之门。那些证明自己有权进入城市的人（例如，通过贿赂200金币）将由陪同守卫巡逻队的[钢铁卫士](Steel_Watcher.md "钢铁卫士")进行扫描。
+
+允许扫描会导致玩家角色被识别并遭到质问。结果取决于玩家在游戏[第一章](Act_One.md "第一章")和[第二章](Act_Two.md "第二章")中的决定，但大多数结果要么是与守卫交战，要么是同意被捕，<sup>[\[4\]](#cite_note-4)</sup>要么是得到先前遇到并帮助过的角色的意外援助。
+
+检查点壁垒的内部区域只有在获得进入飞龙关的权限后才能探索。
+
+### 西部海滩
+
+利文顿西缘的沙滩
+
+主条目：[西部海滩](Western_Beach.md "西部海滩")
+
+海滩是一个未命名的地点，通过从[南翼检查点](South_Span_Checkpoint.md "南翼检查点")两侧的小路向西行进，然后沿着[奇恩萨河](River_Chionthar.md "奇恩萨河")的河岸前行即可到达。海滩尽头的岩石山脊后面的海湾被[明斯克](Minsc.md "明斯克")及其手下用于走私活动。
+
+在通往海湾的隧道中，可以看到激烈战斗的痕迹，所有受害者都毁容或被斩首，这使得通过[死者交谈](Speak_with_Dead.md "死者交谈")审讯他们成为不可能。先前在[月出之塔](Moonrise_Towers.md#Docks "月出之塔")看到的船只就停泊在这里。
+
+当玩家首次接近海湾时，他们会目睹石头领主的暴徒与[公会](The_Guild.md "公会")成员之间的争吵，后者追踪他们到了这个地方。无论玩家采取什么行动，战斗都会开始，他们可以选择一方，对抗两个帮派，或者只是从安全距离观看。
+
+### 其他遭遇与兴趣点
+
+#### 接近该区域
+
+在从初始生成点下降到利文顿主路的路径附近，玩家可以在X: -31 Y: -104处找到并掠夺一个小营地。在背包和麻袋中，他们可以拿走2瓶[高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水")和一瓶[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")。
+
+#### 偶遇耶娜
+
+[耶娜](Yenna.md "耶娜")和她的猫[格鲁布](Grub.md "格鲁布")在玩家首次抵达该区域时在山脚下等待。她接近玩家，对话会自动开始。她解释说她的母亲十天前失踪了，再也没有回来。玩家可以选择给耶娜一些钱或食物，建议她找守卫帮忙，告诉她她的母亲可能已经死了，或者离开。
+
+无论选择哪个选项，耶娜都会在该区域第一次长休时带着格鲁布出现在[营地](Campsite.md "营地")，并询问是否可以留在那里。玩家可以接受或拒绝她。如果同意，耶娜可能在他们与[腥红奥林](Orin.md "腥红奥林")的进一步互动中扮演重要角色。
+
+#### 地震
+
+在探索利文顿时，会有几次玩家感觉到地面在震动，仿佛附近发生了地震，尽管没有造成破坏。玩家角色之间会讨论此事。在第二次和第三次事件之后，[夺心魔主脑](Emperor.md "夺心魔主脑")也会对此发表评论，指责主脑引发了这些地震。类似的事件在游戏后期的[飞龙关](Wyrm's_Crossing.md "飞龙关")和[下城区](Lower_City.md "下城区")也会发生。
+
+#### 东门
+
+镇门后至上真神教徒袭击的血腥结果
+
+通往利文顿的东门，从通往[月出之塔](Moonrise_Towers.md "月出之塔")的道路过来，被锁住并闩上。壁垒由[焰拳士兵奥斯蒙德](Osmund.md "奥斯蒙德")和[焰拳士兵莱昂内尔](Lionel_(Rivington).md "莱昂内尔（利文顿）")守卫。两人都奉命阻止任何人走过大门。从壁垒上，可以看到[焰拳](Flaming_Fist.md "焰拳")与[至上真神](Absolute.md "至上真神")军队之间最近一场战斗的可怕结果。
+
+焰拳士兵奥斯蒙德渴望与玩家交谈。如果与她交谈，她会脱口而出袭击的细节：在玩家抵达利文顿之前，一群邪教徒几乎摧毁了通往利文顿的大门，但被[钢铁卫士](Steel_Watcher.md "钢铁卫士")勉强阻止。
+
+门后的区域无法进入（尽管当光标悬停在某些物体上时，它们可能显示为可交互）。在壁垒的塔楼内，可以拾取几瓶[高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水")和[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")。它们显示为红色轮廓，但仍在两名守卫的视野锥之外。此外，从其中一个重箱子里可以掠夺到随机的非常稀有卷轴。
+
+#### 翠绿林地提夫林
+
+一些在[第一章](Act_One.md "第一章")和[第二章](Act_Two.md "第二章")事件中幸存下来的提夫林可以在难民营边缘X: 98 Y: -96处遇到。这些可能是[丹尼斯](Danis.md "丹尼斯")和[贝克斯](Bex.md "贝克斯")，以及[赛瑞斯](Cerys.md "赛瑞斯")和[苏洛](Zorru.md "苏洛")（后者在第二章中完全没有出现，即使还活着）。
+
+此外，之前在游戏中遇到的几个提夫林孩子可以在[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")附近看到。其中，[马蒂斯](Mattis.md "马蒂斯")正在兜售他的新商品。
+
+随着游戏剧情的发展，玩家还可以找到关于几个提夫林角色的线索，他们已经设法进入了[博德之门](Baldur's_Gate.md "博德之门")内部。其中一些人最初打算留在城墙后面。<sup>[\[5\]](#cite_note-5)</sup>
+
+#### 纪念肖像
+
+在X: -18 Y: -55处，有一个小花坛，毗邻[末日马戏团](Circus_of_the_Last_Days.md "末日马戏团")的墙壁，上方墙上挂着一幅[纪念肖像](Memorial_Portrait.md "纪念肖像")。肖像的描述包含墓志铭_"纪念米歇尔"_。同时，游戏制作人员名单的"纪念"部分包含"米歇尔·埃夫特哈扎德"的名字，关于究竟是谁以这种方式被纪念，存在一些猜测。<sup>[\[6\]](#cite_note-6)</sup>
+
+#### 痴迷的狗粉
+
+在X: 64 Y: -78处，可以遇到一对难民，[佛杜诺·迪布斯](Fortuno_Dibbs.md "佛杜诺·迪布斯")和[格里斯塞尔达·迪布斯](Grisselda_Dibbs.md "格里斯塞尔达·迪布斯")。像大多数人一样，他们只带着能携带的东西逃了出来。然而，佛杜诺更关注他的狗[饼饼](Biscotti.md "饼饼")的福祉，而不是他们当前不幸的处境。然而，他的配偶格里斯塞尔达似乎受够了丈夫的优先事项。唯一的受益者是饼饼自己，它很高兴能像以前一样得到同样的宠爱。
+
+#### 奥林的伪装
+
+利文顿内的几个角色可以被[腥红奥林](Orin.md "腥红奥林")冒充，直接与玩家交谈：
+
+- [濒死的石头领主暴徒](Dying_Stone_Lord_Thug.md "濒死的石头领主暴徒") - 在西部海滩
+- [焰拳士兵罗文](Rowan_(Requisitioned_Barn).md "焰拳士兵罗文（强制征用的谷仓）") - 靠近强制征用的谷仓
+- [吉尔德罗·角铁](Gyldro_Angleiron.md "吉尔德罗·角铁") - 在利文顿综合商店的铁匠铺
+- [莱恩斯](Lens.md "莱恩斯") - 靠近剑湾快递
+- [泽希诺](Zethino.md "泽希诺") - 在末日马戏团
+
+奥林会这样做两次，以揭示自己是变形者。她会取代玩家角色选择交谈的前两个角色。因此，他们定义了哪些角色成为奥林的伪装；被冒充受害者的尸体稍后可以在[下城区](Lower_City.md "下城区")的[巴尔神殿](Bhaal_Temple.md "巴尔神殿")中找到。以这种方式至少遇到奥林一次会推进任务[拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")。
+
+#### 利文顿水井
+
+利文顿水井下的洞穴
+
+利文顿中部X: 10 Y: -16处的水井通向一个巨大的地下洞穴。当接近水井顶部时，被动DC 20的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")会为玩家角色高亮显示它。如果没有通过此检定，则无法探索水井下方的区域。
+
+进入该区域后，玩家会注意到几名被谋杀的难民。西墙上有一个绞盘。射击它会打开一堵墙，露出另一条通往西部海滩的路，位于X: 58 Y: 51。
+
+洞穴中躺着的任何一具尸体都可以用来喂养遗弃磨坊中的新生夺心魔。
+
+该区域在X: 40 Y: -878处还有一个埋藏的箱子，可以通过一系列跳跃到达。
+
+#### 夏芮丝守望者与捣乱者
+
+就在[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")对面，站着一个名叫[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")的商人。通过特定的对话选择，他承认最近购买的一些物品是难民认为珍贵的物品，作为交换，他提供真正的硬币以满足他们的即时需求，并且他不介意从那些拒绝交出珍贵纪念品的人手中抢夺（有价值的）物品。<sup>[\[7\]](#cite_note-7)</sup>
+
+与弗格的互动取决于[影心](Shadowheart.md "影心")当前是否在队伍中——如果她在，还取决于她是否仍然忠于[莎尔](Shar.md "莎尔")。如果影心_不在_队伍中且满足特定条件，可以通过几次属性检定说服他展示他的特殊库存。如果她_在_队伍中且保持忠诚，则无需说服。无论她的忠诚度如何，与他互动都会推进影心的个人任务（同伴和起源角色皆可）。
+
+在弗格·德罗戈的摊位附近，一群愤怒的平民正在斥责[焰拳士兵洛坎](Lochan.md "洛坎")，要求[焰拳](Flaming_Fist.md "焰拳")将难民赶出博德之门。煽动者，一个名叫[贵族格洛特波尔](Grotpoll.md "格洛特波尔")的精灵，假装是博德人，但如果玩家抓住他有利文顿口音，就可以让他难堪。
+
+#### 古怪公牛
+
+在X: 36 Y: -149处的一个独立谷仓里，如果玩家在之前的游戏章节中没有杀死它，可以找到[古怪公牛](Strange_Ox.md "古怪公牛")。
+
+如果玩家在[第二章](Act_Two.md "第二章")的[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")中完全没有与它交谈，那么与公牛的互动与在那里可能发生的相同。如果他们曾与公牛交谈过，并且在过程中没有与它对抗，这头生物会认出他们，并且起初很温顺，但在互动过程中可能会被激怒。如果之前没有使用过，这里也可以触发[邪念](Dark_Urge.md "邪念")角色与公牛的特定互动，包括所有设想的[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣骑士")。
+
+公牛请求玩家帮助它溜进博德之门。如果他们同意，它会变成一个苹果，并启动任务[帮助魔鬼牛](Help_the_Devilish_Ox.md "帮助魔鬼牛")。一旦玩家带着苹果进入[下城区](Lower_City.md "下城区")，任务就解决了。如果在与公牛交谈之前进入下城区，该生物会消失，任务无法启动。承诺帮助公牛，但随后在库存中没有苹果的情况下进入城市，对于[圣武士之誓](Oath_of_the_Crown.md "圣武士之誓")的[圣武士](Paladin.md "圣武士")来说，被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣骑士")。
+
+#### 负伤的半兽人
+
+在X: 86 Y: -79处，玩家会遇到[格隆奇](Gronch.md "格隆奇")，一个躯干缠着绷带的半兽人，以及两个半身人兄弟，[尼洛斯·布赖特](Nealos_Bright.md "尼洛斯·布赖特")和[格雷戈里·布赖特](Gregory_Bright.md "格雷戈里·布赖特")，他们正在讨论将他弄进博德之门的最简单方法。玩家可以检查半兽人，发现他只是在装病。
+
+如果被当场抓住，格隆奇解释说，他认为这两个半身人是新朋友，因为他们关心他，他害怕如果他的欺骗被揭穿，他们会离开他。
+
+## 传送点
+
+该地点包含以下[传送点](Waypoint.md "传送点")：
+
+- 利文顿，位于X: -9 Y: -117
+
+## 相关地点
+
+- [丛林](Jungle.md "丛林")
+- [下城区](Lower_City.md "下城区")
+- [飞龙关](Wyrm's_Crossing.md "飞龙关")
+- [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
+- [飞龙岩监狱](Wyrm's_Rock_Prison.md "飞龙岩监狱")
+
+### 在飞龙关
+
+- [夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")
+- [弗雷戈招待所](Fraygo's_Flophouse.md "弗雷戈招待所")
+
+### 在下城区
+
+- [阿姆布鲁斯特之家](Armbrust's_Home.md "阿姆布鲁斯特之家")
+- [石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "石化蜥蜴之门营房")
+- [卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢")
+- [费洛杰尔烟花铺](Felogyr's_Fireworks.md "费洛杰尔烟花铺")
+- [公会大厅](Guildhall.md "公会大厅")
+- [哀伤之邸](House_of_Grief.md "哀伤之邸")
+- [拉韦尔尼卡之家](Lavernica's_Home.md "拉韦尔尼卡之家")
+- [梨木之家](Peartree_House.md "梨木之家")
+- [雨林之家](Rainforest's_Home.md "雨林之家")
+- [钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")
+- [扎尔宅邸](Szarr_Palace.md "扎尔宅邸")
+- [底城废墟](Undercity_Ruins.md "底城废墟")
+
+## 相关任务
+
+- [协助地下势力](Aid_the_Underduke.md "协助地下势力")
+- [为铁手侏儒复仇](Avenge_the_Ironhands.md "为铁手侏儒复仇")
+- [鲜血召唤](Call_of_the_Blood.md "鲜血召唤")
+- [黑暗之女](Daughter_of_Darkness.md "黑暗之女")
+- [处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")
+- [释放夺心魔](Feed_the_Mind_Flayer.md "释放夺心魔")
+- [寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")
+- [寻找丢失的信件](Find_the_Missing_Letters.md "寻找丢失的信件")
+- [召集盟友](Gather_Your_Allies.md "召集盟友")
+- [拿到戈塔什的耐色石](Get_Gortash's_Netherstone.md "拿到戈塔什的耐色石")
+- [拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")
+- [帮助魔鬼牛](Help_the_Devilish_Ox.md "帮助魔鬼牛")
+- [帮助护符之魂](Help_the_Spirit_of_the_Amulet.md "帮助护符之魂")
+- [调查卡扎多尔的宫殿](Investigate_Cazador's_Palace.md "调查卡扎多尔的宫殿")
+- [调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")
+- [我们的暴躁朋友](Our_Fiery_Friend.md "我们的暴躁朋友")
+- [不再为奴](Servant_of_None.md "不再为奴")
+- [破解慈爱神殿的谋杀案](Solve_the_Open_Hand_Temple_Murders.md "破解慈爱神殿的谋杀案")
+- [苍白的精灵](The_Pale_Elf.md "苍白的精灵")
+
+## 重要角色
+
+请参阅各个地点页面或[角色列表](List_of_characters.md#Rivington "角色列表")页面以查看完整角色列表。
+
+- [愤怒的马赫亚](Angry_Mar'hyah.md "愤怒的马赫亚")
+- [阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")
+- [丹左·阿克赖特](Danzo_Arkwright.md "丹左·阿克赖特")
+- [小丑德里波斯](Dribbles.md "小丑德里波斯")
+- [弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")
+- [圣武士埃德温娜](Edwynna.md "圣武士埃德温娜")
+- [吉尔德罗·角铁](Gyldro_Angleiron.md "吉尔德罗·角铁")
+- [莱恩斯](Lens.md "莱恩斯")
+- [卢克修斯](Lucretious.md "卢克修斯")
+- [精卫内斯特](Nestor.md "精卫内斯特")
+- [腥红奥林](Orin.md "腥红奥林")
+- [古怪公牛](Strange_Ox.md "古怪公牛")
+- [塔拉](Tara.md "塔拉")
+- [乌玛](Ulma.md "乌玛")
+- [瓦莱里亚](Valeria.md "瓦莱里亚")
+- [扬尼斯姐妹](Yannis.md "扬尼斯姐妹")
+- [耶娜](Yenna.md "耶娜")
+- [泽希诺](Zethino.md "泽希诺")
+
+## 战利品
+
+- [骨刺靴](Bonespike_Boots.md "骨刺靴")
+- [小丑之锤](Clown_Hammer.md "小丑之锤") - 由[小丑德里波斯](Dribbles.md "小丑德里波斯")掉落
+- [绞尸机](Corpsegrinder.md "绞尸机") - 由[凯罗斯](Ca%C3%AFros.md "凯罗斯")掉落
+- [黑暗移位手套](Dark_Displacement_Gloves.md "黑暗移位手套")
+- [气巨灵戒指](Djinni_Ring.md "气巨灵戒指") - 由[阿卡比](Akabi.md "阿卡比")持有
+- [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望") - 由[根德莱尔](Gandrel.md "根德莱尔")<sup>[\[8\]](#cite_note-8)</sup>掉落
+- [舞光匕首](Gleamdance_Dagger.md "舞光匕首") - 由[法尔林](Farlin.md "法尔林")掉落
+- [火焰敏锐之帽](Hat_of_Fire_Acuity.md "火焰敏锐之帽") - 由[古怪公牛](Strange_Ox.md "古怪公牛")掉落
+- [霍洛的法杖](Hollow's_Staff.md "霍洛的法杖") - 由[卢克修斯](Lucretious.md "卢克修斯")掉落
+- [夺心魔大脑](Mind_Flayer_Brain.md "夺心魔大脑") - 由[夺心魔（磨坊）](Mind_flayer_(windmill)掉落.md)
+- [夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本") - x3
+- [元素强化项链](Necklace_of_Elemental_Augmentation.md "元素强化项链")
+- [闪烁之戒](Ring_of_Blink.md "闪烁之戒") - 由[塔拉](Tara.md "塔拉")奖励
+- [真实之戒](Ring_of_Truthfulness.md "真实之戒") - 由[夺心魔（磨坊）](Mind_flayer_(windmill)掉落.md)
+- [符文火药炸弹](Runepowder_Bomb.md "符文火药炸弹") - 由[乌尔布伦](Wulbren.md "乌尔布伦")给予
+- [符文火药桶](Runepowder_Barrel.md "符文火药桶") - x2
+- [感知护符（非常稀有）](Sentient_Amulet_(Very_Rare).md "感知护符（非常稀有）")<sup>[\[9\]](#cite_note-9)</sup>
+- [拳击天使](Seraphic_Pugilist_Gloves.md "拳击天使")
+- [变形者的恩赐之戒](Shapeshifter's_Boon_Ring.md "变形者的恩赐之戒") - 由[古怪公牛](Strange_Ox.md "古怪公牛")掉落
+- [法威手套](Spellmight_Gloves.md "法威手套") - 由[卢克修斯](Lucretious.md "卢克修斯")奖励
+- [静止者](Stillmaker.md "静止者")
+- [尖顶帽](The_Pointy_Hat.md "尖顶帽") - 在卢克修斯的箱子里
+- [不死灾祸](The_Undead_Bane.md "不死灾祸") - 由[乌玛](Ulma.md "乌玛")掉落
+- [战锤 +2](Warhammer_+2.md "战锤 +2") - 由[埃德温娜](Edwynna.md "埃德温娜")掉落
+
+由[邦普纳格尔](Bumpnagel.md "邦普纳格尔")出售：
+
+- [闪光弹](Flashblinder.md "闪光弹")
+- [界限突破手套](Martial_Exertion_Gloves.md "界限突破手套")
+- [灵指手套](Nimblefinger_Gloves.md "灵指手套")
+- [雷掌前锋](Thunderpalm_Strikers.md "雷掌前锋")
+
+由[埃克维凯普](Exxvikyap.md "埃克维凯普")出售：
+
+- [伏击](Ambusher.md "伏击")
+- [骨刺装束](Bonespike_Garb.md "骨刺装束")
+- [精灵锁甲](Elven_Chain.md "精灵锁甲")
+- [斯怀尔斯的滑板](Swires'_Sledboard.md "斯怀尔斯的滑板")
+- [追猎者](Stalker_Gloves.md "追猎者")
+- [蹁跹清风](The_Dancing_Breeze.md "蹁跹清风")
+
+由[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")出售：
+
+- [寒潮](Cold_Snap.md "寒潮")
+- [矮人投手](Dwarven_Thrower.md "矮人投手")
+- [地狱骑士团长弓](Hellrider_Longbow.md "地狱骑士团长弓")
+- [水妖精披风](Nymph_Cloak.md "水妖精披风")
+- [极效防御长袍](Robe_of_Supreme_Defences.md "极效防御长袍")
+- [塞山](Sethan.md "塞山")
+
+由[马蒂斯](Mattis.md "马蒂斯")<sup>[\[10\]](#cite_note-10)</sup>出售
+
+- [乌鸦徽记](Corvid_Token.md "乌鸦徽记")
+- [闪避之鞋](Evasive_Shoes.md "闪避之鞋")
+- [斯凯比的拳击手饰环](Scabby_Pugilist_Circlet.md "斯凯比的拳击手饰环")
+
+### 隐藏宝藏
+
+_此列表包括可以在利文顿周围各个地点找到的隐藏宝藏_
+
+- 在X: -54 Y: 63处（需要DC 20的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）- 金币、随机箭矢、随机非常稀有卷轴
+- 在X: -44 Y: 14处（需要DC 18的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）- 金币、贵重物品、随机非常稀有卷轴
+- 在X: -40 Y: -99处（需要DC 20的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）- 金币、贵重物品、[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")、随机非常稀有卷轴
+- 在X: -28 Y: -31处（需要DC 15的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）
+- 在X: 32 Y: -138处（需要DC 15的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）
+- 在X: 37 Y: -149处（需要DC 15的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）
+- 在X: 46 Y: 82处（需要DC 15的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）
+- 在X: 67 Y: 88处（需要DC 10的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）
+- 在X: 96 Y: -48处（需要DC 10的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）
+
+## 相关文献
+
+_此列表不包括特定于特定地点的笔记和文件，以及可以在其他章节和地区找到或购买的普通书籍。_
+
+- [儿童的绘画](Child's_Drawing.md "儿童的绘画")
+- [马戏团海报](Circus_Poster.md "马戏团海报")
+- [戈塔什加冕礼海报](Gortash_Coronation_Poster.md "戈塔什加冕礼海报")
+- [戈塔什的英勇肖像画](Heroic_Portrait_of_Gortash.md "戈塔什的英勇肖像画")
+- [纪念肖像](Memorial_Portrait.md "纪念肖像")
+- [我们的保护者：戈塔什勋爵](Our_Protector_colon__Lord_Gortash.md "我们的保护者：戈塔什勋爵")
+- [一个轻信混蛋的反思](Reflections_of_a_Gullible_Prick.md "一个轻信混蛋的反思")
+
+## 注释与参考
+
+1. [↑](#cite_ref-1) 有几个一次性动作显然旨在让利文顿居民彼此对立，并让他们整体与难民对立：[至上真神指令：新教徒](Absolute_Orders_colon__Newborn.md "至上真神指令：新教徒")在该区域一个准备捕食的新生夺心魔附近被发现；在假[小丑德里波斯](Dribbles.md "小丑德里波斯")（他向玩家角色公开承认自己与至上真神的联系）袭击期间，他的助手[克伦](Keren.md "克伦")和[瑞兰德](Ryland.md "瑞兰德")倾向于杀害平民以及玩家角色；最后，被指控谋杀罗根神父的[布里格](Brilgor.md "布里格")通过[死者交谈](Speak_with_Dead.md "死者交谈")告诉他们，他们两人都是被[穿红衣的矮人](Dolor.md "多洛尔")杀害的。后者在追求自己的野心时，被奥林派系的邪教盲目利用，但仍然服务于同样的目的。其他阴谋，例如分发爆炸玩具的阴谋，只有在下城区才能追踪到邪教。
+1. [↑](#cite_ref-2) 与任何这些海报互动都会推进任务[拿到戈塔什的耐色石](Get_Gortash's_Netherstone.md "拿到戈塔什的耐色石")，并引发活跃玩家角色的评论，特别是[卡菈克](Karlach.md "卡菈克")。
+1. [↑](#cite_ref-3) 如果地底侏儒在[第一章](Act_One.md "第一章")或之后在[第二章](Act_Two.md "第二章")中没有被拯救，地窖的两个入口都会被封锁，该地点无法进入。
+1. [↑](#cite_ref-4) 选择此选项可能导致拥有[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术")时出现错误，这已被多次报告。由于该书与阅读它的角色绑定，无法从库存中移除，当该角色被捕，其所有物品被放入监狱证据/装备箱时，它可能会消失。这实际上剥夺了该角色完成任务[解锁古代典籍](Unlock_the_Ancient_Tome.md "解锁古代典籍")的机会。
+1. [↑](#cite_ref-5) 例如，对话文件假设马蒂斯的妹妹[西尔菲](Silfy.md "西尔菲")计划在慈爱神殿附近兜售报纸。最终，她被安置在下城区内部，而更泼辣、更开放的[莉莉·贝托姆](Lilly_Beanbottom.md "莉莉·贝托姆")取代了她的位置。
+1. [↑](#cite_ref-6) Reddit: CoffeeSuccessful1575 (2025-5-18). [Anyone know if this is a reference to something?](https://www.reddit.com/r/BaldursGate3/comments/1kpnwbd/anyone_know_if_this_is_a_reference_to_something/)
+1. [↑](#cite_ref-7) 在西部海滩X: 46 Y: 67处，可以找到一具[难民](Garrett.md "加勒特")尸体，可以与之交谈。他声称被一名[商人](Ferg_Drogher.md "弗格·德罗戈")谋杀，该商人想购买他珍贵的戒指。与弗格的某些对话选择可以揭示他确实是尸体所说的那个杀手商人。
+1. [↑](#cite_ref-8) 如果怪物猎人在[第一章](Act_One.md "第一章")的事件中幸存下来
+1. [↑](#cite_ref-9) 如果玩家在任务[帮助护符之魂](Help_the_Spirit_of_the_Amulet.md "帮助护符之魂")期间拒绝承受武僧灵体诅咒
+1. [↑](#cite_ref-10) 如果翠绿林地提夫林在[第一章](Act_One.md "第一章")和[第二章](Act_Two.md "第二章")的事件中幸存下来。
+
+## 外部链接
+
+- ⁠[博德之门/利文顿](https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate/Rivington) 在 [被遗忘的国度Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Rivington](https://bg3.wiki/wiki/Rivington)*

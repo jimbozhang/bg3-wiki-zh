@@ -1,0 +1,41 @@
+# 唤醒
+
+**唤醒**是[复仇侍卫](Grym.md "复仇侍卫")在其第一回合使用的自由动作，用于为战斗做准备。
+
+## 描述
+
+附近的动静唤醒了复仇侍卫，使其准备好碾碎任何胆敢觊觎其锻炉的家伙。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+详情
+范围：自身
+
+## 技术细节
+
+UID
+
+`Shout_UND_Phase1_AdamantineGolem`
+
+平衡难度及以下使用的版本
+
+`Shout_UND_Phase1_AdamantineGolem_Hardcore`
+
+硬核难度及以上使用的版本
+
+法术标志
+
+`[IgnoreSilence](IgnoreSilence_(spell_flag).md)`, `[IsEnemySpell](https://bg3.wiki/w/index.php?title=IsEnemySpell_\(spell_flag\)&action=edit&redlink=1) "IsEnemySpell \(spell flag\) \(page does not exist\)")`
+
+## 如何习得
+
+由生物使用：[复仇侍卫](Grym.md "复仇侍卫")
+
+## 备注
+
+- 在平衡难度及以下，此动作消耗一个[动作](Actions.md#Resources "动作")，并阻止复仇侍卫消耗任何其他资源，包括[移动速度](Resources.md#Movement_speed "资源"), 有效消耗其整个第一回合。在硬核难度及以上，此动作完全免费，复仇侍卫可以在执行后立即行动。
+
+---
+*Source: [Awaken](https://bg3.wiki/wiki/Awaken)*

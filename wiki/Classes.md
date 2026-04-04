@@ -1,0 +1,802 @@
+# 职业
+
+角色在[博德之门3](Baldur's_Gate_3.md "博德之门3")中的职业是其最重要的基本特征之一。每种职业代表一种不同的使命，并提供一系列独特的能力、力量和技能，影响角色与世界的互动方式。职业决定了角色的大部分能力——无论是在战斗中还是战斗外。随着角色在某一职业中提升等级，他们会获得强大的新力量和能力。
+
+博德之门3中角色的最高等级为12级。
+
+每种职业都会为角色提供仅限该职业的特殊对话选项。每种职业也有独特的施法动画（而攻击动画则基于种族）。
+
+另见：[角色创建](Character_creation.md "角色创建")
+
+- [野蛮人](Barbarian.md "野蛮人")
+
+- [吟游诗人](Bard.md "吟游诗人")
+
+- [牧师](Cleric.md "牧师")
+
+- [德鲁伊](Druid.md "德鲁伊")
+
+- [战士](Fighter.md "战士")
+
+- [武僧](Monk.md "武僧")
+
+- [圣武士](Paladin.md "圣武士")
+
+- [游侠](Ranger.md "游侠")
+
+- [游荡者](Rogue.md "游荡者")
+
+- [术士](Sorcerer.md "术士")
+
+- [邪术师](Warlock.md "邪术师")
+
+- [法师](Wizard.md "法师")
+
+## 目录
+
+- [1 游戏机制](#游戏机制)
+  - [1.1 经验值与等级](#经验值与等级)
+  - [1.2 子职业](#子职业)
+  - [1.3 身兼多职](#身兼多职)
+    - [1.3.1 身兼多职熟练项](#身兼多职熟练项)
+- [2 可选职业](#可选职业)
+  - [2.1 野蛮人](#野蛮人)
+  - [2.2 吟游诗人](#吟游诗人)
+  - [2.3 牧师](#牧师)
+  - [2.4 德鲁伊](#德鲁伊)
+  - [2.5 战士](#战士)
+  - [2.6 武僧](#武僧)
+  - [2.7 圣武士](#圣武士)
+  - [2.8 游侠](#游侠)
+  - [2.9 游荡者](#游荡者)
+  - [2.10 术士](#术士)
+  - [2.11 邪术师](#邪术师)
+  - [2.12 法师](#法师)
+- [3 成就](#成就)
+- [4 另见](#另见)
+
+## 游戏机制
+
+#### 经验值与等级
+
+主条目：[经验值](Experience.md "经验值")
+
+所有角色从1级开始，获得足够经验值后会提升等级。升级时角色可以在已有职业中再升一级，最终可以选择子职业，也可以选择身兼多职。达到12级后将不再获得等级，因此无法再做出任何与职业相关的选择。
+
+通过[守墓人](Withers.md "守墓人")的服务，玩家可以更改角色的职业，将其重置为1级，并允许更改[属性值](Character_creation.md#Ability_scores "角色创建")、职业和子职业。
+
+#### 子职业
+
+当角色在某一职业中达到特定等级时，必须选择一个子职业。做出此选择的等级因职业而异，分别在1级、2级或3级时进行。
+
+子职业允许角色进一步专精，赋予围绕子职业核心主题的强大新能力。选择子职业不会使角色停止获得职业的正常升级收益——子职业的收益是在正常职业能力之上的额外收益。
+
+下文列出了所有职业及其子职业。
+
+#### 身兼多职
+
+升级界面中"添加职业"按钮的位置
+
+角色的职业选择并非永久固定。获得新等级时，角色可以选择继续在已有职业中升级，也可以选择在一个全新的职业中获得一个等级。这被称为_身兼多职_。这样做将获得该额外职业升级的大部分收益，但有一些限制。
+
+- 身兼多职角色的法术位取决于角色的[有效施法者等级](Spells.md#Spell_slots "法术")。
+- 身兼多职角色将使用[最近获得的新职业](Spells.md#Spellcasting_ability "法术")的施法调整值来进行物品施法。
+- 身兼多职角色不会获得新_职业_的全部[熟练项](Proficiency.md "熟练项")。身兼多职永远不会授予豁免检定熟练项。身兼多职角色的[熟练项加值](Die_Rolls.md#Proficiency_Bonus "掷骰")会根据总角色等级正常增长。
+- 身兼多职角色会获得所选_子职业_的全部熟练项——例如，身兼多职战士不会获得重甲熟练项，但身兼多职战争领域牧师则会获得，因为该熟练项属于子职业而非主职业。
+- 身兼多职角色将所有职业的等级相加来确定其总角色等级。
+- 在"探险家"[难度](Difficulty.md "难度")下，玩家无法身兼多职。
+- 某些职业或构建通过身兼多职可以变得更加强大；考虑身兼多职如何帮助角色构建通常是个好主意，但可能需要等到拥有足够的等级（和所需装备）再进行。
+- 等级上限适用于所有职业的总等级，而非每个职业内的等级。
+
+请注意，通过身兼多职获得的每个新职业都从1级开始，所有选择的职业分别独立升级。例如，如果一个角色已经获得了吟游诗人的三个等级，然后选择身兼多职并获得术士的一个等级，那么他将拥有吟游诗人1至3级的特性，以及1级术士的特性。尽管总等级为4级，但他_不会_拥有吟游诗人的4级特性。
+
+##### 身兼多职熟练项
+
+- 通过身兼多职牧师获得两项技能熟练项可能是一个bug，因为没有其他职业在身兼多职时会授予其全部技能熟练项，且此行为与D&D 5e身兼多职规则不同。
+
+## 可选职业
+
+### 野蛮人
+
+主条目：[野蛮人](Barbarian.md "野蛮人")
+
+> "
+>
+> 强者拥抱内心深处的野性——敏锐的本能、原始的体魄，以及最重要的：无拘无束、永不熄灭的狂暴。
+>
+> „
+
+- [狂战士](Berserker.md "狂战士")
+
+- [巨人](Giant_(barbarian_subclass).md "巨人（野蛮人子职业）")
+
+- [狂野魔法](Wild_Magic_(barbarian_subclass).md "狂野魔法（野蛮人子职业）")
+
+- [荒蛮之心](Wildheart.md "荒蛮之心")
+
+### 吟游诗人
+
+主条目：[吟游诗人](Bard.md "吟游诗人")
+
+> "
+>
+> 吟游诗人深知音乐不仅是闲情雅致——它就是力量。通过学习和冒险，这些游历四方的行吟诗人掌握了歌曲、言辞及其中蕴含的魔法。
+>
+> „
+
+- [魅惑学院](College_of_Glamour.md "魅惑学院")
+
+- [逸闻学院](College_of_Lore.md "逸闻学院")
+
+- [剑舞学院](College_of_Swords.md "剑舞学院")
+
+- [勇气学院](College_of_Valour.md "勇气学院")
+
+### 牧师
+
+主条目：[牧师](Cleric.md "牧师")
+
+> "
+>
+> 牧师是他们所信奉的神祇的代言人，挥舞着强大的神圣魔法，行善亦可作恶。
+>
+> „
+
+- [死亡领域](Death_Domain.md "死亡领域")
+
+- [知识领域](Knowledge_Domain.md "知识领域")
+
+- [生命领域](Life_Domain.md "生命领域")
+
+- [光明领域](Light_Domain.md "光明领域")
+
+- [自然领域](Nature_Domain.md "自然领域")
+
+- [风暴领域](Tempest_Domain.md "风暴领域")
+
+- [诡术领域](Trickery_Domain.md "诡术领域")
+
+- [战争领域](War_Domain.md "战争领域")
+
+### 德鲁伊
+
+主条目：[德鲁伊](Druid.md "德鲁伊")
+
+> "
+>
+> 德鲁伊引导大自然的元素之力，与动物有着深厚的亲缘。精通荒野形态使他们能够变身为国度各地的野兽。
+>
+> „
+
+- [大地结社](Circle_of_the_Land.md "大地结社")
+
+- [月亮结社](Circle_of_the_Moon.md "月亮结社")
+
+- [孢子结社](Circle_of_the_Spores.md "孢子结社")
+
+- [星辰结社](Circle_of_the_Stars.md "星辰结社")
+
+### 战士
+
+主条目：[战士](Fighter.md "战士")
+
+> "
+>
+> 战士精通战斗技艺，以无与伦比的技巧挥舞武器，穿戴护甲如同第二层皮肤。
+>
+> „
+
+- [奥术射手](Arcane_Archer.md "奥术射手")
+
+- [战斗大师](Battle_Master.md "战斗大师")
+
+- [冠军勇士](Champion.md "冠军勇士")
+
+- [奥法骑士](Eldritch_Knight.md "奥法骑士")
+
+### 武僧
+
+主条目：[武僧](Monk.md "武僧")
+
+> "
+>
+> 有人通过静坐冥想达到开悟——也有人在战斗的烈焰中得到启迪。武僧运用气来强化自身打击、削弱敌人。
+>
+> „
+
+- [醉拳宗](Way_of_the_Drunken_Master.md "醉拳宗")
+
+- [四象宗](Way_of_the_Four_Elements.md "四象宗")
+
+- [散打宗](Way_of_the_Open_Hand.md "散打宗")
+
+- [暗影宗](Way_of_Shadow.md "暗影宗")
+
+### 圣武士
+
+主条目：[圣武士](Paladin.md "圣武士")
+
+> "
+>
+> 一个许下如此深沉的誓言，以至于它本身就成为神圣之力——这股力量流淌在圣武士体内，光芒足以鼓舞盟友、惩击敌人。
+>
+> „
+
+- [古贤之誓](Oath_of_the_Ancients.md "古贤之誓")
+
+- [奉献之誓](Oath_of_Devotion.md "奉献之誓")
+
+- [复仇之誓](Oath_of_Vengeance.md "复仇之誓")
+
+- [王冠之誓](Oath_of_the_Crown.md "王冠之誓")
+
+- [弃誓者](Oathbreaker.md "弃誓者")
+
+### 游侠
+
+主条目：[游侠](Ranger.md "游侠")
+
+> "
+>
+> 游侠是无与伦比的侦察兵和追踪者，磨砺与自然的深厚联系，以追猎他们偏好的猎物。
+>
+> „
+
+- [驯兽师](Beast_Master.md "驯兽师")
+
+- [阴影追猎者](Gloom_Stalker.md "阴影追猎者")
+
+- [猎人](Hunter.md "猎人")
+
+- [虫群守护者](Swarmkeeper.md "虫群守护者")
+
+### 游荡者
+
+主条目：[游荡者](Rogue.md "游荡者")
+
+> "
+>
+> 凭借隐匿、技巧和超凡的反应力，游荡者的多才多艺使他们几乎在任何情况下都能占据上风。
+>
+> „
+
+- [诡术师](Arcane_Trickster.md "诡术师")
+
+- [刺客](Assassin.md "刺客")
+
+- [剑客](Swashbuckler.md "剑客")
+
+- [盗贼](Thief.md "盗贼")
+
+### 术士
+
+主条目：[术士](Sorcerer.md "术士")
+
+> "
+>
+> 术士是天生的施法者，从天赋或血脉中汲取与生俱来的魔力。
+>
+> „
+
+- [龙族血脉](Draconic_Bloodline.md "龙族血脉")
+
+- [暗影魔法](Shadow_Magic.md "暗影魔法")
+
+- [风暴术士](Storm_Sorcery.md "风暴术士")
+
+- [狂野魔法](Wild_Magic_(sorcerer_subclass).md "狂野魔法（术士子职业）")
+
+### 邪术师
+
+主条目：[邪术师](Warlock.md "邪术师")
+
+> "
+>
+> 通过与全能的宗主签订契约，邪术师以忠诚换取超自然的能力和独特的魔法。
+>
+> „
+
+- [至高妖精](The_Archfey.md "至高妖精")
+
+- [邪魔](The_Fiend.md "邪魔")
+
+- [旧日支配者](The_Great_Old_One.md "旧日支配者")
+
+- [邪术师：魔契之刃](The_Hexblade.md "邪术师：魔契之刃")
+
+### 法师
+
+主条目：[法师](Wizard.md "法师")
+
+> "
+>
+> 法师通过专研各个魔法学派来掌握奥术，将古老的法术与现代研究相结合。
+>
+> „
+
+- [防护学派](Abjuration_School.md "防护学派")
+
+- [咒刃](Bladesinging.md "咒刃")
+
+- [咒法学派](Conjuration_School.md "咒法学派")
+
+- [预言学派](Divination_School.md "预言学派")
+
+- [惑控学派](Enchantment_School.md "惑控学派")
+
+- [塑能学派](Evocation_School.md "塑能学派")
+
+- [幻术学派](Illusion_School.md "幻术学派")
+
+- [死灵学派](Necromancy_School.md "死灵学派")
+
+- [变化学派](Transmutation_School.md "变化学派")
+
+## 成就
+
+多面手
+在一次通关中身兼多职进入每一种职业，且不请求守墓人更改你的角色。
+
+## 另见
+
+- [D&D 5e 职业变动](D&D_5e_class_changes.md "D&D 5e 职业变动") 总结了[博德之门3](Baldur's_Gate_3.md "博德之门3")中相对5e规则集的所有职业变动。
+- [Phantomsplit 的身兼多职指南](Guide_colon_Multiclassing_Guide_by_Phantomsplit.md "指南：Phantomsplit 的身兼多职指南") 提供身兼多职的构建思路。
+
+
+
+## 相关内容
+
+### Gameplay
+
+
+**Turn-based**
+
+
+- [Actions](Actions.md)
+
+- [Initiative](Initiative.md)
+
+- [Movement speed](Movement_speed.md)
+
+- [Resources](Resources.md)
+
+
+**Dice rolls**
+
+
+- [Abilities](Abilities.md)
+
+- [Advantage](Advantage.md)
+
+- [Attacks](Attacks.md)
+
+- [Concentration](Concentration.md)
+
+- [Damage](Damage.md)
+
+- [Critical Hit](Critical_Hit.md)
+
+- [Mechanics](Damage_Mechanics.md)
+
+- [Healing](Healing.md)
+
+- [Inspiration](Inspiration.md)
+
+- [Saving throw](Saving_throw.md)
+
+
+**Downtime**
+
+
+- [Alchemy](Alchemy.md)
+
+- [Approval](Approval.md)
+
+- [Barter](Barter.md)
+
+- [Traders](Traders.md)
+
+- [Trading and item pricing](Trading_and_item_pricing.md)
+
+- [Attitude](Attitude.md)
+
+- [Resting](Resting.md)
+
+
+**Environment**
+
+
+- [Clouds](Clouds.md)
+
+- [Difficult Terrain](Difficult_Terrain.md)
+
+- [Obscurity](Obscurity.md)
+
+- [Surfaces](Surfaces.md)
+
+
+**Items**
+
+
+- [Equipment](Equipment.md)
+
+- [Amulets](Amulets.md)
+
+- [Armour](Armour.md)
+
+- [Cloaks](Cloaks.md)
+
+- [Clothing](Clothing.md)
+
+- [Footwear](Footwear.md)
+
+- [Handwear](Handwear.md)
+
+- [Headwear](Headwear.md)
+
+- [Light Sources](Light_Sources.md)
+
+- [Musical Instruments](Musical_Instruments.md)
+
+- [Rings](Rings.md)
+
+- [Shields](Shields.md)
+
+- [Weapons](Weapons.md)
+
+- [Other](Items.md)
+
+- [Consumables](Consumables.md)
+
+- [Arrows](Arrows.md)
+
+- [Coatings](Coatings.md)
+
+- [Dyes](Dyes.md)
+
+- [Elixirs](Elixirs.md)
+
+- [Grenades](Grenades.md)
+
+- [Potions](Potions.md)
+
+- [Scrolls](Scrolls.md)
+
+- [Containers](Containers.md)
+
+- [Miscellaneous](Miscellaneous.md)
+
+
+**Equipment**
+
+
+- [Amulets](Amulets.md)
+
+- [Armour](Armour.md)
+
+- [Cloaks](Cloaks.md)
+
+- [Clothing](Clothing.md)
+
+- [Footwear](Footwear.md)
+
+- [Handwear](Handwear.md)
+
+- [Headwear](Headwear.md)
+
+- [Light Sources](Light_Sources.md)
+
+- [Musical Instruments](Musical_Instruments.md)
+
+- [Rings](Rings.md)
+
+- [Shields](Shields.md)
+
+- [Weapons](Weapons.md)
+
+
+**Other**
+
+
+- [Consumables](Consumables.md)
+
+- [Arrows](Arrows.md)
+
+- [Coatings](Coatings.md)
+
+- [Dyes](Dyes.md)
+
+- [Elixirs](Elixirs.md)
+
+- [Grenades](Grenades.md)
+
+- [Potions](Potions.md)
+
+- [Scrolls](Scrolls.md)
+
+- [Containers](Containers.md)
+
+- [Miscellaneous](Miscellaneous.md)
+
+
+**Equipment**
+
+
+- [Amulets](Amulets.md)
+
+- [Armour](Armour.md)
+
+- [Cloaks](Cloaks.md)
+
+- [Clothing](Clothing.md)
+
+- [Footwear](Footwear.md)
+
+- [Handwear](Handwear.md)
+
+- [Headwear](Headwear.md)
+
+- [Light Sources](Light_Sources.md)
+
+- [Musical Instruments](Musical_Instruments.md)
+
+- [Rings](Rings.md)
+
+- [Shields](Shields.md)
+
+- [Weapons](Weapons.md)
+
+
+**Other**
+
+
+- [Consumables](Consumables.md)
+
+- [Arrows](Arrows.md)
+
+- [Coatings](Coatings.md)
+
+- [Dyes](Dyes.md)
+
+- [Elixirs](Elixirs.md)
+
+- [Grenades](Grenades.md)
+
+- [Potions](Potions.md)
+
+- [Scrolls](Scrolls.md)
+
+- [Containers](Containers.md)
+
+- [Miscellaneous](Miscellaneous.md)
+
+
+**Ability scores**
+
+
+- [Charisma](Charisma.md)
+
+- [Constitution](Constitution.md)
+
+- [Dexterity](Dexterity.md)
+
+- [Intelligence](Intelligence.md)
+
+- [Strength](Strength.md)
+
+- [Wisdom](Wisdom.md)
+
+
+**Skills**
+
+
+- [Acrobatics](Acrobatics.md)
+
+- [Animal Handling](Animal_Handling.md)
+
+- [Arcana](Arcana.md)
+
+- [Athletics](Athletics.md)
+
+- [Deception](Deception.md)
+
+- [History](History.md)
+
+- [Insight](Insight.md)
+
+- [Intimidation](Intimidation.md)
+
+- [Investigation](Investigation.md)
+
+- [Medicine](Medicine.md)
+
+- [Nature](Nature.md)
+
+- [Perception](Perception.md)
+
+- [Performance](Performance.md)
+
+- [Persuasion](Persuasion.md)
+
+- [Religion](Religion.md)
+
+- [Sleight of Hand](Sleight_of_Hand.md)
+
+- [Stealth](Stealth.md)
+
+- [Survival](Survival.md)
+
+
+**Features**
+
+
+- [Conditions](Conditions.md)
+
+- [Feats](Feats.md)
+
+- [Illithid powers](Illithid_powers.md)
+
+- [Passives](Passives.md)
+
+- [Permanent bonuses](Permanent_bonuses.md)
+
+- [Spells](Spells.md)
+
+- [List](List_of_all_spells.md)
+
+
+**Other**
+
+
+- [Armour Class](Armour_Class.md)
+
+- [Creature sizes](Creature_sizes.md)
+
+- [Creature types](List_of_creature_types.md)
+
+- [Hit points](Hit_points.md)
+
+- [Experience](Experience.md)
+
+- [Point Buy](Point_Buy.md)
+
+- [Proficiency](Proficiency.md)
+
+- [Resistances](Resistances.md)
+
+
+**Classes**
+
+
+- [Barbarian](Barbarian.md)
+
+- [Bard](Bard.md)
+
+- [Cleric](Cleric.md)
+
+- [Druid](Druid.md)
+
+- [Fighter](Fighter.md)
+
+- [Monk](Monk.md)
+
+- [Paladin](Paladin.md)
+
+- [Ranger](Ranger.md)
+
+- [Rogue](Rogue.md)
+
+- [Sorcerer](Sorcerer.md)
+
+- [Warlock](Warlock.md)
+
+- [Wizard](Wizard.md)
+
+
+**Backgrounds**
+
+
+- [Acolyte](Acolyte.md)
+
+- [Charlatan](Charlatan.md)
+
+- [Criminal](Criminal.md)
+
+- [Entertainer](Entertainer.md)
+
+- [Folk Hero](Folk_Hero.md)
+
+- [Guild Artisan](Guild_Artisan.md)
+
+- [Haunted One](Haunted_One.md)
+
+- [Noble](Noble.md)
+
+- [Outlander](Outlander.md)
+
+- [Sage](Sage.md)
+
+- [Soldier](Soldier.md)
+
+- [Urchin](Urchin.md)
+
+
+**Races**
+
+
+- [Dragonborn](Dragonborn.md)
+
+- [Drow](Drow.md)
+
+- [Dwarf](Dwarf.md)
+
+- [Elf](Elf.md)
+
+- [Githyanki](Githyanki.md)
+
+- [Gnome](Gnome.md)
+
+- [Half-Elf](Half-Elf.md)
+
+- [Half-Orc](Half-Orc.md)
+
+- [Halfling](Halfling.md)
+
+- [Human](Human.md)
+
+- [Tiefling](Tiefling.md)
+
+
+**Deities**
+
+
+- [Bahamut](Bahamut.md)
+
+- [Corellon Larethian](Corellon_Larethian.md)
+
+- [Eilistraee](Eilistraee.md)
+
+- [Garl Glittergold](Garl_Glittergold.md)
+
+- [Gruumsh](Gruumsh.md)
+
+- [Helm](Helm_(God).md)
+
+- [Ilmater](Ilmater.md)
+
+- [Laduguer](Laduguer.md)
+
+- [Lathander](Lathander.md)
+
+- [Lolth](Lolth.md)
+
+- [Kelemvor](Kelemvor.md)
+
+- [Mielikki](Mielikki.md)
+
+- [Moradin](Moradin.md)
+
+- [Mystra](Mystra.md)
+
+- [Oghma](Oghma.md)
+
+- [Selûne](Selûne.md)
+
+- [Shar](Shar.md)
+
+- [Talos](Talos.md)
+
+- [Tempus](Tempus.md)
+
+- [Tiamat](Tiamat.md)
+
+- [Tyr](Tyr.md)
+
+- [Vlaakith](Vlaakith.md)
+
+- [Yondalla](Yondalla.md)
+
+
+
+---
+*Source: [Classes](https://bg3.wiki/wiki/Classes)*

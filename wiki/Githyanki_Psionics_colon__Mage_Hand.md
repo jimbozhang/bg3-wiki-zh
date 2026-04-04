@@ -1,0 +1,62 @@
+# 吉斯洋基心灵异能：法师之手
+
+本文介绍吉斯洋基职业动作。关于常规戏法，请参见 [法师之手](Mage_Hand.md "法师之手")。
+
+**吉斯洋基心灵异能：法师之手** 是一个 [戏法（咒法学派）](Spells.md "法术")。它召唤一只隐形的灵体之手，可以与物体互动。
+
+## 描述
+
+创造一只隐形的灵体之手，可以操纵和与物体互动。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+详情
+范围：18 米（60 英尺）
+充能：[长休](Long_Rest.md "长休")
+
+## 技术细节
+
+UID
+
+`Target_MageHand_GithyankiPsionics`
+
+法术标志
+
+`[CannotTargetCharacter](https://bg3.wiki/w/index.php?title=CannotTargetCharacter_\(spell_flag\)&action=edit&redlink=1) "CannotTargetCharacter \(spell_flag\) \(page does not exist\)")`, `[CannotTargetItems](https://bg3.wiki/w/index.php?title=CannotTargetItems_\(spell_flag\)&action=edit&redlink=1) "CannotTargetItems \(spell_flag\) \(page does not exist\)")`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[IsSpell](IsSpell_(spell_flag).md)`
+
+## 生物：法师之手（生物）
+
+| [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 3 (-4) | [智力](Intelligence.md "智力") 2 (-4) | [感知](Wisdom.md "感知") 1 (-5) | [魅力](Charisma.md "魅力") 1 (-5) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| 持续时间 | 10 驱散 |  |  |  |  |
+| 生命值 | 3 |  |  |  |  |
+| 护甲等级 | 5 |  |  |  |  |
+| 体型 | 微型 |  |  |  |  |
+
+[推击](Shove.md "推击") ()
+尝试将你的目标推开。你的成功率取决于你的 [运动](Athletics.md "运动")，如果你处于隐藏或隐形状态，成功率更高。
+
+[投掷](Throw.md "投掷") ()
+从世界或你的物品栏中投掷一个角色或物品。
+
+## 如何习得
+
+种族：
+
+- 角色等级 1：[吉斯洋基人](Githyanki.md "吉斯洋基人")
+
+（_角色等级_ 是多职业角色所有职业等级的总和。）
+
+其他习得方式：
+
+- 没有可供 [法师](Wizard.md "法师") [抄录](Transcribing_scrolls.md "抄录卷轴") 到法术书中的卷轴。
+
+## 备注
+
+- 与普通的 [法师之手](Mage_Hand.md "法师之手") 不同，吉斯洋基版本不会受益于 [诈术法师之手](Mage_Hand_Legerdemain.md "诈术法师之手") 的无限持续时间，并且已经是隐形的。
+
+---
+*Source: [Githyanki Psionics: Mage Hand](https://bg3.wiki/wiki/Githyanki_Psionics:_Mage_Hand)*

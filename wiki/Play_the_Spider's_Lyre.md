@@ -1,0 +1,59 @@
+# 演奏蜘蛛的里拉琴
+
+另请参阅：[表演（消歧义）](Perform_(disambiguation).md)
+
+**演奏蜘蛛的里拉琴** 是一项自由动作，允许使用者使用装备的[乐器](Instrument.md "Instrument")演奏功能上等同于歌曲“力量”的乐曲。
+
+## 描述
+
+演奏一首困扰吟游诗人的歌谣，以鼓励并激励周围的人。
+
+## 属性
+
+详情
+范围：自身
+
+## 技术细节
+
+UID
+
+`Shout_SCL_SpiderLyre_Perform`
+
+法术标志
+
+`[DontAbortPerforming](https://bg3.wiki/w/index.php?title=DontAbortPerforming_\(spell_flag\)&action=edit&redlink=1) "DontAbortPerforming \(spell flag\) \(page does not exist\)")`, `[HasVerbalComponent](HasVerbalComponent_(spell_flag).md)`, `[ImmediateCast](https://bg3.wiki/w/index.php?title=ImmediateCast_\(spell_flag\)&action=edit&redlink=1) "ImmediateCast \(spell flag\) \(page does not exist\)")`
+
+## 状态：表演“力量”
+
+**[表演“力量”](Performing_'The_Power'_(Condition).md "表演“力量”（状态）")**
+
+- 演奏一曲。在附近演奏同一首歌以加入。
+
+## 状态：糟糕的表演
+
+**[糟糕的表演](Poor_Performance_(Condition).md "糟糕的表演（状态）")**
+
+- 也许你最好停下来，免得有人开始扔石头。
+
+## 如何习得
+
+其他习得方式：
+
+- 只能通过装备[蜘蛛里拉琴](Spider's_Lyre.md "蜘蛛里拉琴")来演奏。
+
+## 备注
+
+- 如果多个角色使用表演动作，他们会同步并一起演奏。此外，附近的吟游诗人，例如在[终焉马戏团](Circus_of_the_Last_Days.md "终焉马戏团")中的，也可以加入表演。
+- 附近的NPC会聚集起来聆听表演，并将注意力集中在表演者身上。这可以为扒窃和偷窃创造机会。许多巡逻的NPC无法通过这种方式分散注意力。
+- 如果表演者拥有[乐器熟练项](Proficiency.md#Instrument_proficiency "熟练项")，他们会进行一次[表演](Performance.md "表演")检定。如果成功，聚集的观众会在表演结束时以[抛硬币](Toss_a_Coin.md "抛硬币")的方式给表演者小费。然而，成功的表演并不一定意味着每位观众都会给表演者小费。
+- 表演检定的[难度等级](Difficulty_Class.md "难度等级")会根据观众规模而变化：
+- 1名观众：难度等级 10
+  - 2-3名观众：难度等级 12
+  - 4-5名观众：难度等级 15
+  - 6-7名观众：难度等级 18
+  - 8名及以上观众：难度等级 20
+- 任何角色都可以使用装备乐器的表演动作。然而，没有乐器熟练项的角色在这样做时会进行一次[糟糕的表演](Poor_Performance_(Condition).md "糟糕的表演（状态）")。这会激起观众的恼怒反应，他们会立即离开。
+- 表演是一项自由动作，可以在战斗中使用。如果表演角色处于[受威胁](Threatened_(Condition).md "受威胁（状态）")状态，表演会结束。
+
+---
+*Source: [Play the Spider's Lyre](https://bg3.wiki/wiki/Play_the_Spider's_Lyre)*

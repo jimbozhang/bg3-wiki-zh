@@ -1,0 +1,99 @@
+# 坠落伤害
+
+**坠落伤害**是生物从足够高的地方坠落时，以⁠⁠[钝击](Bludgeoning.md "钝击")伤害形式对其[生命值](Hit_Points.md "生命值")造成的[伤害](Damage.md "Damage")。坠落伤害最常由从高处[跳跃](Jump.md "Jump")、被[推击](Shove.md "Shove")或[投掷](Throw.md "Throw")出去，或被具有击退效果的法术和能力推下高处引起[[注1]](#cite_note-1)。坠落伤害随坠落高度增加而增加，如果坠落高度足够高，还可能导致生物被击倒。
+
+## 目录
+
+- [1 坠落伤害计算](#falling-damage-calculation)
+  - [1.1 倒伏](#prone)
+  - [1.2 示例](#example)
+- [2 坠落伤害抗性与免疫](#falling-damage-resistance-and-immunity)
+  - [2.1 抗性来源](#sources-of-resistance)
+  - [2.2 免疫来源](#sources-of-immunity)
+- [3 碾压伤害](#crushing-damage)
+- [4 成就](#achievements)
+- [5 注释与参考文献](#footnotes-and-references)
+
+## 坠落伤害计算
+
+_博德之门3_ 不使用标准的D&D 5e规则集计算坠落伤害（该规则集中生物每坠落10英尺受到1d6点伤害）<sup>[\[1\]](#cite_note-2)</sup>。相反，它使用自己的公式，使伤害保持一致，并随坠落高度增加而离散地增加。游戏中使用的计算似乎涉及大量四舍五入，因此实际受到的伤害可能并不总是与计算结果完全吻合。
+
+坠落造成的伤害随坠落高度线性增加，造成生物最大生命值（包括[临时生命值](Temporary_Hit_Points.md "临时生命值")）的一定百分比：
+
+- 坠落高度低于4米（13英尺）不造成伤害。
+- 坠落高度超过4米（13英尺）时，伤害从生物最大生命值的2%开始，每额外坠落0.2米增加1%。基于大量实验的精确公式似乎为：
+
+坠落伤害=(最大生命值+临时生命值)×(高度−4)17+1（高度≥4米）
+
+- 在没有任何伤害抗性调整的情况下，从满生命值坠落至略低于21米（70英尺）将是致命的。坠入深渊或游戏可玩区域外总是致命的。
+- 使用[移位](Displace_(Condition).md "移位 (状态)")的生物会导致因其实用动作而受到坠落伤害的任何生物额外受到1d8⁠⁠[心灵](Psychic.md "心灵")伤害。
+- 如果坠落是由一个生物投掷或推击另一个生物引起，而非跳跃所致，则某些影响伤害的物品或状态也会添加到坠落伤害中，例如[闪电充能](Lightning_Charges.md "闪电充能")或[无情光芒之戒](Callous_Glow_Ring.md "无情光芒之戒")[[注2]](#cite_note-3)。即使承受坠落伤害的生物拥有该物品或状态，这些伤害加成也会生效。
+
+显示坠落伤害的工具提示示例。
+
+当从足以造成伤害的高度跳跃时，工具提示会显示生物跳到目标位置将受到的伤害。如果伤害足以杀死生物，则会显示“死亡”文本。该工具提示会准确显示因坠落伤害抗性而减少的伤害，但对于具有钝击伤害抗性的生物，仍会错误地显示全额伤害。来自移位或其他效果的任何额外伤害，以及来自[重甲大师](Heavy_Armour_Master.md "重甲大师")等特性的固定伤害减免，永远不会包含在此工具提示中。该工具提示总是会提示生物可能被坠落击倒，即使坠落高度不足。
+
+### 倒伏
+
+坠落也可能导致生物在落地时被击倒[倒伏](Prone.md "Prone")。如果坠落造成的伤害超过其最大生命值的25%<sup>[\[2\]](#cite_note-4)</sup>，坠落总是会导致生物被击倒，这意味着对于没有坠落伤害抗性的角色，约8米/27英尺的坠落，或对于具有坠落伤害抗性的生物，约12.3米/40英尺的坠落。具有钝击伤害抗性但不专门具有坠落伤害抗性的生物，在8米/27英尺的坠落中仍会被击倒，尽管仅受到最大生命值12.5%的伤害。同样，固定伤害减免不影响该阈值。
+
+### 示例
+
+一个生物从5.4米/17.7英尺的高度坠落，没有坠落伤害抗性，预计会受到等于其最大生命值2%的伤害，加上伤害开始后每额外0.2米/0.6英尺高度增加1%的伤害，在此情况下，5.4米/17.7英尺的坠落造成约2% + 7% 或约9%的最大生命值伤害。由于坠落高度低于8米/27英尺，该生物不会倒伏。如果坠落是由推击或投掷引起，且任一生物佩戴了[无情光芒之戒](Callous_Glow_Ring.md "无情光芒之戒")，则坠落的生物还将额外受到2点光耀伤害。
+
+## 坠落伤害抗性与免疫
+
+有许多来源提供[抗性](Resistance.md "抗性")和[免疫](Immunity.md "免疫")以应对坠落伤害，有些来自法术和消耗品的临时效果，有些来自特定职业或被动特性的永久效果。
+
+任何提供钝击伤害抗性的来源都会使生物获得坠落伤害抗性，而[魔法板甲](Magical_Plate.md "魔法板甲")等被动特性也会减少伤害，但此外，还有专门提供坠落伤害抗性或免疫的来源。如果生物同时具有钝击伤害抗性和坠落伤害抗性，这些效果会叠加，使其受到的坠落伤害减少75%。坠落伤害抗性未列在生物角色表的抗性部分，只能在其显著特性列表中查看。
+
+### 抗性来源
+
+- [梁上君子](Second-Story_Work.md "梁上君子")：游荡者在3级选择[盗贼](Thief.md "盗贼")副职时获得的职业特性[[注3]](#cite_note-5)。
+- [轻身坠](Slow_Fall.md "轻身坠")：武僧在4级获得的反应。
+- [野兽之心：黑猩猩](Aspect_of_the_Beast_colon__Chimpanzee.md "野兽之心：黑猩猩")：野蛮人在6级或10级选择[荒蛮之心](Wildheart.md "荒蛮之心")副职时可获得的职业特性。
+- [猫之轻灵](Cat's_Grace.md "猫之轻灵")：[强化属性](Enhance_Ability.md "强化属性")的变体，吟游诗人、牧师、德鲁伊和术士在3级可使用，或来自[优雅布衣](The_Graceful_Cloth.md "优雅布衣")。
+- [猫之轻落](Feline_Fall.md "猫之轻落")：[猫](Cat.md "猫")独有的被动特性。
+- [荒野形态：猫](Wild_Shape_colon__Cat_(Condition).md "荒野形态：猫 (状态)")：猫的荒野形态。
+
+坠落伤害因抗性而减少的示例。
+
+### 免疫来源
+
+- [羽落术](Feather_Fall_(Condition).md "羽落术 (状态)")：由[羽落术](Feather_Fall.md "羽落术")、[羽落术药水](Potion_of_Feather_Fall.md "羽落术药水")、[羽落术卷轴](Scroll_of_Feather_Fall.md "羽落术卷轴")和[乌鸦徽记](Corvid_Token.md "乌鸦徽记")赋予的状态。
+- [蛛网术](Web.md "蛛网术")：落在该法术创造的[蛛网](Web_(surface).md "蛛网 (地表)")地表上会消除任何高度的所有坠落伤害。
+- [风之纱](Veil_of_the_Wind.md "风之纱")：由[尼鲁纳](Nyrulna.md "尼鲁纳")赋予的被动特性。
+- [星界重力](Astral_Gravity_(Condition).md "星界重力 (状态)")：在[星界](Astral_Plane.md "星界")和[堕影冥界](Shadowfell.md "堕影冥界")赋予的状态。
+- [超尘脱俗](Unearthly.md "超尘脱俗")：[促狭鬼](Poltergeist.md "促狭鬼")独有的被动特性。
+- [荒野形态：恐鸦](Wild_Shape_colon__Dire_Raven_(Condition).md "荒野形态：恐鸦 (状态)")：恐鸦的荒野形态。
+- [荒野形态：巨蜘蛛](Wild_Shape_colon__Giant_Spider_(Condition).md "荒野形态：巨蜘蛛 (状态)")：巨蜘蛛的荒野形态。
+
+## 碾压伤害
+
+实体（物体或生物）被坠落实体击中时，如果坠落实体重量至少为0.5千克（1磅）且从至少4米（13英尺）的高度坠落<sup>[\[3\]](#cite_note-6)</sup>，将根据以下公式受到碾压伤害，其中重量以克为单位<sup>[\[4\]](#cite_note-7)</sup>，坠落高度以米为单位，round()四舍五入到最接近的整数：
+
+碾压伤害=round((重量⋅0.000005+1)⋅坠落高度−1)
+
+## 成就
+
+推下去
+用坠落伤害杀死一个生物。
+
+## 注释与参考文献
+
+1. [↑](#cite_ref-1) 能造成坠落伤害的能力具有 `[AddFallDamageOnLand](AddFallDamageOnLand_(spell_flag).md)` 法术标志。
+
+1. [↑](#cite_ref-3) 此额外伤害仅来自使用DamageBonus()但不需要来源是徒手、武器或法术攻击即可触发的被动或状态。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")]
+
+1. [↑](#cite_ref-5) 梁上君子似乎错误地将坠落伤害减少了75%而非50%，但这并不会使你在不被击倒的情况下可坠落的距离超过常规抗性。
+
+1. [↑](#cite_ref-2) <https://www.dndbeyond.com/sources/basic-rules/adventuring#Falling>
+
+1. [↑](#cite_ref-4) 此值由`Public/Shared/Stats/Generated/Data/Data.txt`中定义的`FallDamagePronePercent`确定。
+
+1. [↑](#cite_ref-6) 这由`Public/Shared/Stats/Generated/Data/Data.txt`中定义的`FallImpactMinWeight`和`FallDamageMinimumDistance`确定。
+
+1. [↑](#cite_ref-7) 此参数由`Public/Shared/Stats/Generated/Data/Data.txt`中定义的`FallImpactConstant`确定。
+
+---
+*Source: [Falling damage](https://bg3.wiki/wiki/Falling_damage)*

@@ -1,0 +1,67 @@
+# 潇洒偷袭（近战）
+
+本文介绍的是该攻击的近战版本。有关远程版本，请参见[潇洒偷袭（远程）](Rakish_Sneak_Attack_(Ranged)..md)
+
+**潇洒偷袭（近战）**是[潇洒游荡者](Swashbuckler.md "潇洒游荡者")游荡者的武器动作，它取代了普通的[偷袭](Sneak_Attack.md "偷袭"). 该能力允许游荡者利用敌人的分心，用近战武器对其脆弱部位造成额外伤害。
+
+武器必须具有[灵巧](Finesse.md "灵巧")属性，但如果力量高于敏捷，仍可使用力量。
+
+## 描述
+
+对一名你拥有[优势](Advantage.md "优势")的敌人造成额外伤害。如果目标2米（7英尺）范围内没有其他战斗人员，或者该范围内有盟友，你也可以在没有优势的情况下使用此攻击。
+
+如果你有[劣势](Disadvantage.md "劣势")，则无法使用此攻击。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+伤害：2~12
+
+正常武器伤害
+
+\+ 2d6⁠[武器](Weapon.md "武器")
+
+详情
+近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
+近战：1.5米（5英尺）
+充能：每回合
+
+## 高等级时
+
+每超过3级2个[潇洒游荡者](Swashbuckler.md "潇洒游荡者")等级，潇洒偷袭额外造成1d6⁠⁠[武器](Weapon.md "武器")伤害，最高在11级时达到6d6：
+
+- 5级时为3d6⁠⁠[武器](Weapon.md "武器")
+- 7级时为4d6⁠⁠[武器](Weapon.md "武器")
+- 9级时为5d6⁠⁠[武器](Weapon.md "武器")
+- 11级时为6d6⁠⁠[武器](Weapon.md "武器")
+
+## 技术细节
+
+UID
+
+`Target_SneakAttack_Rakish`
+
+法术标志
+
+`[IsHarmful](IsHarmful_(spell_flag).md)`, `[IsMelee](IsMelee_(spell_flag).md)`, `[IsSwarmAttack](https://bg3.wiki/w/index.php?title=IsSwarmAttack_\(spell_flag\)&action=edit&redlink=1) "IsSwarmAttack \(spell flag\) \(page does not exist\)")`
+
+## 如何习得
+
+职业：
+
+- 职业等级3：[潇洒游荡者](Swashbuckler.md "潇洒游荡者")
+
+## 备注
+
+_(参见普通版本[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）")的备注)_
+
+## 错误
+
+- 工具提示显示为2米（7英尺），但实际距离为1.5米（5英尺）。
+- 只要额外的敌人不在攻击者1.5米（5英尺）范围内，此攻击可对一名敌方战斗人员使用，无论其附近有多少其他敌人。
+  - 如果攻击者的盟友在攻击者1.5米（5英尺）范围内，但不在目标1.5米（5英尺）范围内，则无法使用此攻击。
+- 潇洒偷袭能够在战斗外实时对单次攻击应用两次。这是通过直接使用潇洒动作并将偷袭设置为询问来实现的。
+
+---
+*Source: [Rakish Sneak Attack (Melee)](https://bg3.wiki/wiki/Rakish_Sneak_Attack_(Melee)*

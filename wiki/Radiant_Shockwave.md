@@ -1,0 +1,46 @@
+# 光耀震荡波
+
+**光耀震荡波**是当穿着[发光护甲](Luminous_Armour.md "发光护甲")造成[光耀](Radiant.md "光耀")伤害时自动触发的动作。它会将[光耀法球](Radiating_Orb_(Condition).md "光耀法球（状态）")传播给附近所有敌人，干扰他们进行攻击时的准确度。
+
+## 描述
+
+在3米（10英尺）半径范围内施加[光耀法球](Radiating_Orb_(Condition).md "光耀法球（状态）")。
+
+## 属性
+
+详情
+范围效果：3米（10英尺）半径
+目标：范围内所有非盟友生物
+
+## 技术细节
+
+UID
+
+`Projectile_MAG_Radiant_RadiatingOrb_Explosion`
+
+法术标志
+
+`[IsTrap](IsTrap_(spell_flag).md)`
+
+## 状态：光耀法球
+
+**[光耀法球](Radiating_Orb_(Condition).md "光耀法球（状态）")**
+
+持续时间：2回合
+
+- 受影响实体每剩余回合**-1**至[攻击掷骰](Attack_rolls.md "攻击掷骰")。它还会在周围区域散发明亮光线。
+- 每次实体进行攻击时，持续时间减少2。
+
+## 如何习得
+
+由物品提供：
+
+- [发光护甲](Luminous_Armour.md "发光护甲")
+
+## 备注
+
+- 如果使用造成光耀伤害的法术，震荡波中心会根据类型改变：对于像圣火术这样的目标法术，中心在_目标_上；对于像阳炎射线这样的瞄准法术，中心在_光标_上；对于像黎明曙光这样的光环法术，中心保持在_施法者_周围。
+- 光耀震荡波也会影响中立生物。
+
+---
+*Source: [Radiant Shockwave](https://bg3.wiki/wiki/Radiant_Shockwave)*

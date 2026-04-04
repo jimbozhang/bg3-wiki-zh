@@ -1,0 +1,39 @@
+# 飞行（龙）
+
+本文介绍的是龙使用的飞行版本。其他用法，请参见 [飞行（消歧义）](Fly_(disambiguation)..md)
+
+**飞行**是[龙](Dragons.md "龙")使用的职业动作，用于飞向目标位置。落地时，附近的生物会被击退3米（10英尺）。
+
+## 描述
+
+拍打你的龙翼，起飞。
+
+## 属性
+
+消耗
+[附赠动作](Actions.md#Resources "动作")
+详情
+范围：30米（100英尺）
+范围效果：半径4米（13英尺）
+击退：3米（10英尺）（从范围效果中心）
+目标：至少8米（27英尺）外的地面
+充能：每回合
+
+## 技术细节
+
+UID
+
+`Target_Fly_Dragon`
+
+`Target_Fly_Dragon_Skeletal`
+
+法术标志
+
+`[IgnoreVisionBlock](IgnoreVisionBlock_(spell_flag).md)`, `[Invisible](Invisible_(spell_flag).md)`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
+
+## 如何习得
+
+由生物使用：[安苏](Ansur.md "安苏")和[受控红龙](Dominated_Red_Dragon.md "受控红龙")
+
+---
+*Source: [Fly (Dragons)](https://bg3.wiki/wiki/Fly_(Dragons)*

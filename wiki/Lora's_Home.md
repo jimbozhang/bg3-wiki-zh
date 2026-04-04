@@ -1,0 +1,83 @@
+# 罗拉之家
+
+## [下城区](Lower_City.md "下城区")
+
+[风暴海岸军械库](Stormshore_Armoury.md "风暴海岸军械库")
+↑
+| [下城区](Lower_City.md "下城区") |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [风暴海岸军械库](Stormshore_Armoury.md "风暴海岸军械库") |  |  |  |  |
+| ↑ |  |  |  |  |
+| [腥红跳棋](Crimson_Draughts.md "腥红跳棋") | ← | 罗拉之家 | → | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") |
+| ↓ |  |  |  |  |
+| [特福科之家](Tefoco's_Home.md "特福科之家") |  |  |  |  |
+↓
+[特福科之家](Tefoco's_Home.md "特福科之家")
+**罗拉之家**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。
+
+## 目录
+
+- [1 概述](#overview)
+  - [1.1 涉及内容](#involvement)
+- [2 建筑外部](#outside-the-building)
+- [3 相关地点](#related-locations)
+- [4 相关任务](#related-quests)
+- [5 角色](#characters)
+- [6 战利品](#loot)
+- [7 相关文献](#related-literature)
+- [8 注释与参考](#notes-and-references)
+
+## 概述
+
+**罗拉之家**<sup>[\[1\]](#cite_note-1)</sup>是一座位于下城主墙、[特福科之家](Tefoco's_Home.md "特福科之家")和[腥红跳棋](Crimson_Draughts.md "腥红跳棋")之间角落的小型两层建筑。
+
+其唯一入口位于 X: -60 Y: -92。一楼是一个带壁炉的客厅，而二楼是一间卧室。两个房间和楼梯都装饰着船桨、渔网等海洋主题的装饰元素。散落的儿童书籍和玩具表明房屋居住者中有一个孩子。
+
+在二楼一个上锁、红框标记的箱子中，可以找到一张出售船只的拍卖单和一颗随机的珍贵宝石。该箱子需要通过 DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来撬锁，或者可以用房主罗拉持有的[罗拉的钥匙](Lora's_Key.md "罗拉的钥匙")打开。
+
+### 涉及内容
+
+这栋房子属于[罗拉·贝尔高兹](Lora_Bergauz.md "罗拉·贝尔高兹")，她曾是一名海盗，为了与年幼的女儿[万娜](Vanra.md "万娜")在陆地上开始新生活而卖掉了她的船。她们是这栋房子唯一的居住者。然而，她们的状态和下落直接取决于玩家在[第一幕](Act_One.md "第一幕")和[第三幕](Act_Three.md "第三幕")的决定。
+
+- 如果玩家在[解救梅丽娜](Save_Mayrina.md "解救梅丽娜")任务期间于[日照湿地](Sunlit_Wetlands.md "日照湿地")处理了[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")，并让鬼婆带着[梅丽娜](Mayrina.md "梅丽娜")和她未出生的孩子离开，那么罗拉和万娜都可以在这里找到，她们正在讨论家庭问题。除了斥责玩家闯入她们家之外，她们几乎没什么可说的。
+- 如果埃赛尔婶婶被拒绝接触梅丽娜（和她的孩子），她会选择万娜作为替代品并绑架了她。在这种情况下，房子最初是空的，因为罗拉在城里四处搜寻她的女儿。之后，如果任务[解救万娜](Save_Vanra.md "解救万娜")成功完成，罗拉和万娜可以在这里找到。如果之后玩家与罗拉交谈，她会奖励玩家[驭风护符](Amulet_of_Windrider.md "驭风护符")和[决斗者的特权](Duellist's_Prerogative.md "决斗者的特权")。如果万娜没有被救，罗拉在听到消息后会逃跑并从游戏中消失。
+
+## 建筑外部
+
+在入口对面，[斯莱蒂·马文](Slatey_Marven.md "斯莱蒂·马文")和[斯普赖特斯·杜拉格](Splatters_Doolug.md "斯普赖特斯·杜拉格")正在交谈。杜拉格是一名街头艺术家，他最近用壁画装饰了下城主墙。斯莱蒂是一名停下来批评他作品的路人。她对这些画作相当不屑一顾，这似乎伤害了杜拉格的感情。
+
+## 相关地点
+
+- [石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "石化蜥蜴之门营房")
+- [脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")
+
+## 相关任务
+
+- [解救万娜](Save_Vanra.md "解救万娜")
+
+## 角色
+
+- [罗拉·贝尔高兹](Lora_Bergauz.md "罗拉·贝尔高兹")
+- [万娜·贝尔高兹](Vanra_Bergauz.md "万娜·贝尔高兹")
+- [斯莱蒂·马文](Slatey_Marven.md "斯莱蒂·马文")
+- [斯普赖特斯·杜拉格](Splatters_Doolug.md "斯普赖特斯·杜拉格")
+
+## 战利品
+
+- [驭风护符](Amulet_of_Windrider.md "驭风护符")
+- [决斗者的特权](Duellist's_Prerogative.md "决斗者的特权")
+
+## 相关文献
+
+- [坠星海历险记](Adventures_on_the_Sea_of_Fallen_Stars.md "坠星海历险记")
+- [迟来的重逢](An_Overdue_Reunion.md "迟来的重逢")
+- [晚安，海盗船](Night-Night,_Pirate_Ship.md "晚安，海盗船")
+- [藏宝图](Treasured_Map.md "藏宝图")
+- [星辰拍卖行收据](Starborn_Auction_Receipt.md "星辰拍卖行收据")
+
+## 注释与参考
+
+1. [↑](#cite_ref-1) 该地点在区域地图上被标记为此名称。入口处的标牌以及弹出的位置提醒都称其为“罗拉之家”，就像城市中大多数其他私人住所一样。
+
+---
+*Source: [Lora's House](https://bg3.wiki/wiki/Lora's_House)*

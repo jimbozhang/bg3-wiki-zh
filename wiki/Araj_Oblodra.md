@@ -1,0 +1,588 @@
+# 阿拉吉·欧布罗扎
+
+## 阿拉吉·欧布罗扎
+
+- 游戏内
+- 模型
+- 肖像画
+
+### 身份
+
+女性
+
+### 声音 / 演员
+
+- [Hanako Footman](https://www.imdb.com/name/nm5427256/)
+
+### 角色
+
+[商人](Trader.md "商人")
+
+### 家族
+
+魔索布莱城欧布罗扎家族（已消亡）
+
+### 家乡
+
+[博德之门](Baldur's_Gate.md "博德之门")，
+⁠[魔索布莱城](https://forgottenrealms.fandom.com/wiki/Menzoberranzan) 位于 ⁠[北地幽暗地域](https://forgottenrealms.fandom.com/wiki/Northdark)
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "中级")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[卓尔](Drow.md "卓尔")
+
+### 亚种
+
+[罗丝誓约卓尔](Lolth-Sworn_Drow.md "罗丝誓约卓尔")
+
+### 职业
+
+[游荡者](Rogue.md "游荡者")
+
+- 平衡模式
+
+- 探索者模式
+
+- 硬核模式
+
+## 平衡模式难度属性
+
+### 等级
+
+6
+
+### 生命值
+
+52
+
+### 护甲等级
+
+14
+
+### 先攻
+
++3
+
+### 熟练项
+
++3
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+16 米 (53 英尺)
+
+### 经验值奖励
+
+110
+
+| 种族 | 灵药 |
+| --- | --- |
+| [龙裔](Dragonborn.md "龙裔") - [黑龙裔](Black_Dragonborn.md "黑龙裔") | [龙裔威能灵药: 酸液](Elixir_of_Dragonborn_Prowess_colon__Acid.md "龙裔威能灵药: 酸液") |
+| [龙裔](Dragonborn.md "龙裔") - [蓝龙裔](Blue_Dragonborn.md "蓝龙裔") | [龙裔威能灵药：闪电](Elixir_of_Dragonborn_Prowess_colon__Lightning.md "龙裔威能灵药：闪电") |
+| [龙裔](Dragonborn.md "龙裔") - [黄铜龙裔](Brass_Dragonborn.md "黄铜龙裔") | [龙裔威能灵药：火焰](Elixir_of_Dragonborn_Prowess_colon__Fire.md "龙裔威能灵药：火焰") |
+| [龙裔](Dragonborn.md "龙裔") - [青铜龙裔](Bronze_Dragonborn.md "青铜龙裔") | [龙裔威能灵药：闪电](Elixir_of_Dragonborn_Prowess_colon__Lightning.md "龙裔威能灵药：闪电") |
+| [龙裔](Dragonborn.md "龙裔") - [赤铜龙裔](Copper_Dragonborn.md "赤铜龙裔") | [龙裔威能灵药: 酸液](Elixir_of_Dragonborn_Prowess_colon__Acid.md "龙裔威能灵药: 酸液") |
+| [龙裔](Dragonborn.md "龙裔") - [金龙裔](Gold_Dragonborn.md "金龙裔") | [龙裔威能灵药：火焰](Elixir_of_Dragonborn_Prowess_colon__Fire.md "龙裔威能灵药：火焰") |
+| [龙裔](Dragonborn.md "龙裔") - [绿龙裔](Green_Dragonborn.md "绿龙裔") | [龙裔威能灵药：毒素](Elixir_of_Dragonborn_Prowess_colon__Poison.md "龙裔威能灵药：毒素") |
+| [龙裔](Dragonborn.md "龙裔") - [红龙裔](Red_Dragonborn.md "红龙裔") | [龙裔威能灵药：火焰](Elixir_of_Dragonborn_Prowess_colon__Fire.md "龙裔威能灵药：火焰") |
+| [龙裔](Dragonborn.md "龙裔") - [银龙裔](Silver_Dragonborn.md "银龙裔") | [龙裔威能灵药：冰霜](Elixir_of_Dragonborn_Prowess_colon__Frost.md "龙裔威能灵药：冰霜") |
+| [龙裔](Dragonborn.md "龙裔") - [白龙裔](White_Dragonborn.md "白龙裔") | [龙裔威能灵药：冰霜](Elixir_of_Dragonborn_Prowess_colon__Frost.md "龙裔威能灵药：冰霜") |
+| [卓尔](Drow.md "卓尔") | [精灵优雅灵药](Elixir_of_Elven_Elegance.md "精灵优雅灵药") |
+| [矮人](Dwarf.md "矮人") | [矮人耐久灵药](Elixir_of_Dwarven_Resilience.md "矮人耐久灵药") |
+| [精灵](Elf.md "精灵") | [精灵优雅灵药](Elixir_of_Elven_Elegance.md "精灵优雅灵药") |
+| [吉斯洋基人](Githyanki.md "吉斯洋基人") | [吉斯洋基预见灵药](Elixir_of_Githyanki_Providence.md "吉斯洋基预见灵药") |
+| [侏儒](Gnome.md "侏儒") | [侏儒天才灵药](Elixir_of_Gnomish_Ingenuity.md "侏儒天才灵药") |
+| [半精灵](Half-Elf.md "半精灵") | [半精灵治疗灵药](Elixir_of_Half-Elven_Healing.md "半精灵治疗灵药") |
+| [半兽人](Half-Orc.md "半兽人") | [半兽人愤怒灵药](Elixir_of_Half-Orcish_Fury.md "半兽人愤怒灵药") |
+| [半身人](Halfling.md "半身人") | [半身人幸运灵药](Elixir_of_Halfling_Luck.md "半身人幸运灵药") |
+| [人类](Human.md "人类") | [人类通才灵药](Elixir_of_Human_Versatility.md "人类通才灵药") |
+| [提夫林](Tiefling.md "提夫林") | [提夫林罪恶灵药](Elixir_of_Tiefling_Vice.md "提夫林罪恶灵药") |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+
+对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
+
+- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+
+可以使用[反应](Reaction.md "反应")将即将到来的攻击伤害减半。
+
+## 探索者模式难度属性
+
+### 等级
+
+6
+
+### 生命值
+
+36
+
+### 护甲等级
+
+14
+
+### 先攻
+
++3
+
+### 熟练项
+
++5
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+16 米 (53 英尺)
+
+### 经验值奖励
+
+110
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | +6 | +1 | +4 | 0 | +1 |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+
+对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
+
+- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+
+可以使用[反应](Reaction.md "反应")将即将到来的攻击伤害减半。
+
+## 硬核模式难度属性
+
+### 等级
+
+6
+
+### 生命值
+
+67
+
+### 护甲等级
+
+14
+
+### 先攻
+
++3
+
+### 熟练项
+
++3
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+16 米 (53 英尺)
+
+### 经验值奖励
+
+110
+
+| 属性值 | 运动 | 体操 | 察觉技能 |
+| --- | --- | --- | --- |
+|  | 0 | 3 | 0 |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+
+对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
+
+- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+
+可以使用[反应](Reaction.md "反应")将即将到来的攻击伤害减半。
+
+## 技术信息
+
+###
+
+UID
+
+`S_MOO_InfernalVendor` ###
+
+UUID
+
+`511c9413-25fe-449c-a81d-4b09bc20745a` ###
+
+属性
+
+`MOO_InfernalVendor`
+
+**阿拉吉·欧布罗扎**是一位[卓尔](Drow.md "卓尔")[商人](Traders.md "商人")和血液炼金术士，可以在[月出之塔](Moonrise_Towers.md "月出之塔")和博德之门的[下城区](Lower_City.md "下城区")找到。除了她出售的物品外，她还提供独特的药水以换取血液样本，并要求与[阿斯代伦](Astarion.md "阿斯代伦")交谈。
+
+> “
+>
+> 据说当我们的宅邸被投入裂爪深渊时，整个欧布罗扎家族都灭亡了。我是其最后在世的女儿。如今，魔索布莱城中心那条吞噬我们家族的深渊裂谷，已成了一处娱乐之地。
+>
+> „
+
+— 阿拉吉·欧布罗扎，于[荣耀归于欧布罗扎家族](Glory_to_the_House_of_Oblodra.md "荣耀归于欧布罗扎家族")
+
+## 目录
+
+- [1 概述](#overview)
+  - [1.1 描述](#description)
+  - [1.2 历史](#history)
+- [2 相关剧情](#involvement)
+  - [2.1 第二章](#act-two)
+    - [2.1.1 抽血灵药](#blood-draw_elixirs)
+    - [2.1.2 与阿斯代伦的互动](#interaction-with-astarion)
+  - [2.2 第三章](#act-three)
+    - [2.2.1 神秘药剂](#mysterious-potion)
+    - [2.2.2 腥红跳棋](#crimson-draughts)
+  - [2.3 尾声](#epilogue)
+- [3 出售的著名物品](#notable-items-sold)
+- [4 伙伴好感度](#companion-approval)
+  - [4.1 第二章，月出之塔](#act-ii,_Moonrise_Towers)
+- [5 战斗](#combat)
+  - [5.1 攻击与能力](#attacks-and-abilities)
+  - [5.2 战利品](#loot)
+- [6 相关文献](#related-literature)
+  - [6.1 阿拉吉·欧布罗扎的笔记](#notes-by-araj-oblodra)
+  - [6.2 阿拉吉·欧布罗扎的书籍](#books-by-araj-oblodra)
+- [7 画廊](#gallery)
+- [8 注释](#notes)
+- [9 参考文献](#references)
+- [10 外部链接](#external-links)
+
+## 概述
+
+### 描述
+
+虽然阿拉吉起初假装成一位勤奋的研究员和炼金术士，但这位灰皮肤、红眼睛的卓尔对欺骗、酷刑、谋杀甚至种族灭绝毫无顾忌。
+
+### 历史
+
+阿拉吉·欧布罗扎是现已消亡的 ⁠[欧布罗扎家族](https://forgottenrealms.fandom.com/wiki/House_Oblodra) 的女儿。[一个多世纪前](Timeline.md "时间线")，⁠[魔索布莱城](https://forgottenrealms.fandom.com/wiki/Menzoberranzan) 的敌对卓尔联盟摧毁了她的家族，原因是他们在[动荡之年](https://forgottenrealms.fandom.com/wiki/Time_of_Troubles)之前和期间与灵能和[夺心魔](Mind_flayers.md "夺心魔")有关联，以及许多其他罪行。<sup>[\[1\]](#cite_note-1)</sup>
+
+家族毁灭后幸存者寥寥无几，阿拉吉相信自己是欧布罗扎家族最后的女儿，她渴望重振家族昔日的荣光。
+
+## 相关剧情
+
+### 第二章
+
+在[第二章](Act_Two.md "第二章")中，阿拉吉在[月出之塔](Moonrise_Towers.md "月出之塔")内，埋头研究炼金设备。
+
+如果玩家角色是卓尔，他们可以评论她的名字：
+
+- 欧布罗扎？那个家族在一个世纪前就被摧毁了。
+- 阿拉吉
+  幸好我当时不在里面。
+- 阿拉吉
+  我的表亲们喜欢吹嘘他们俯瞰裂爪深渊的视野。如今他们的骸骨装饰着深渊之底。
+
+#### 抽血灵药
+
+阿拉吉酿造独特的[灵药](Elixirs.md "灵药")，作为从队伍中[真魂者](True_Soul.md "真魂者")身上抽取血液进行研究的报酬。
+
+每个角色只能献血一次，过程中会受到 1d3 点伤害。由于灵药含有捐赠的血液，其效果通常与献血角色的[种族](Races.md "种族")（以及[龙裔](Dragonborn.md "龙裔")的亚种）主题相关。如果角色在献血时处于[伪装](Disguise_Self_(Condition)状态.md)，他们收到的药水仍然是其未伪装种族的药水。
+
+与普通灵药不同，阿拉吉的抽血灵药效果在角色服用第二瓶灵药时_不会_被替换。半精灵版本根本不是真正的灵药，因为它不会赋予持久状态，而是一次性治疗消耗品。
+
+然而，在服用抽血灵药并进行长休后，角色会获得[抽血病](Blood-draw_Sickness_(Condition).md "抽血病 (状态)")状态，导致所有骰子检定-1，直到下一次长休。
+
+首次与阿拉吉交谈时（如果阿斯代伦不在队伍中）<sup>[\[2\]](#cite_note-2)</sup>，明萨拉在月出之塔，脸上带着怀疑和轻蔑的表情。作为卓尔，她已经熟悉欧布罗扎家族被清洗背后的历史。她可以被问及她保留其余献血的意图。她将其归因于纯粹的好奇心。然而，如果互动的队伍成员是卓尔，并通过 DC 14 [历史的](History.md "历史的")[检定](Ability_Check.md "属性检定")，他们对 ⁠[欧布罗扎家族](https://forgottenrealms.fandom.com/wiki/House_Oblodra) 的了解揭示了阿拉吉不仅想要真魂者的血液，还特别想要[灵吸怪](Illithid.md "灵吸怪")的血液——这对卓尔来说是非法的研究主题。如果与阿拉吉分享这一洞察，她会提供为每次献血（包括当前这次）支付 200 金币，外加普通的灵药。
+
+如果互动的队伍成员对她的提议回应为 _“留着你的金币吧。我想看看邪教对非信徒做了什么”_ ，她会拒绝，说她有一个项目，不能冒险失去像玩家角色这样的独特样本，现在只能从远处观察他们的演变。然后她跑开，从月出之塔（以及[第二章](Act_Two.md "第二章")的其余部分）消失。
+
+在第二章献血会授予所有具有[公会工匠](Guild_Artisan.md "公会工匠")背景的角色 ⁠[鲜血、汗水与他物](Guild_Artisan.md#Blood,_Sweat,_and_the_Other_Thing "公会工匠") 激励点。
+
+#### 与阿斯代伦的互动
+
+阿拉吉非常希望与[阿斯代伦](Astarion.md "阿斯代伦")交谈。如果他被留在营地，或者在她第一次互动时离队伍足够远，她会礼貌地要求下次带他来。
+
+如果阿拉吉与阿斯代伦交谈，她会兴奋地要求他咬她，以便她可以近距离研究吸血鬼之噬的效果。她提供珍贵的[永久活力药水](Potion_of_Everlasting_Vigour.md "永久活力药水")作为交换，这会永久使饮用者的[力量](Strength.md "力量")增加 2。
+
+阿斯代伦很不愿意这样做，如果被问及，他会私下向玩家角色指出阿拉吉的血液有严重问题。
+
+如果玩家角色与阿斯代伦的好感度足够高（在某些对话选项中他被要求做出选择时），或者即使他反对也被告知无论如何都要做——阿斯代伦会屈服于阿拉吉的欲望。然而，他事后真的呕吐了，感觉被利用了，导致[-3 不满](Astarion/approval.md#Act_Two_2 "阿斯代伦/好感度")，并触发一个影响他与玩家角色之间[浪漫关系](Astarion/Romance.md "阿斯代伦/浪漫关系")的营地场景（如果存在的话）。
+
+无论阿拉吉的血液看起来多么恶心，阿斯代伦答应这个请求都没有其他后果。
+
+如果阿斯代伦被选为[出身](Origin.md "出身")，则会显示更简单的对话，玩家角色可以选择咬她。
+
+### 第三章
+
+如果在[第二章](Act_Two.md "第二章")献过血，阿拉吉会在[第三章](Act_Three.md "第三章")移居博德之门的[下城区](Lower_City.md "下城区")。接近她的商店“腥红跳棋”（位于[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")东侧）时，会触发一系列爆炸，阿拉吉虽然身上着火跑出来，却仍然欣喜若狂。她赞扬角色，因为他们的血液给了她一个巨大的突破，她预计卓尔大母会恢复她蒙羞的家族——欧布罗扎家族。具体来说，他们的血液被证明能够附着在“最棘手的物质”上，这是她以前从未遇到过的。<sup>[\[3\]](#cite_note-3)</sup>
+
+如果阿斯代伦在第二章没有咬阿拉吉，她会再次调情式地提出要求。然而，阿斯代伦现在已坚定决心，断然拒绝。
+
+阿拉吉在第三章也是商人，主要保留了她第二章的库存。
+
+如果阿拉吉在第二章被杀，或者没有角色献血，阿拉吉不会出现在她的商店，接近时也不会触发爆炸。
+
+#### 神秘药剂
+
+跟随阿拉吉进入她被炸毁的商店后，她气喘吁吁地鼓励玩家角色完成研究，并喝下她新酿造的药水：格鲁纳配方。整个队伍都敦促玩家角色不要喝它。如果互动的队伍成员接受药水，然后离开她的商店而不饮用，她会插话并坚持；如果拒绝，她会变得敌对。然而，如果互动的队伍成员在阿拉吉未察觉的情况下离开，并在之后与她交谈，她不会变得敌对，因为后续对话选项没有提到直接拒绝，而直接拒绝会导致她攻击。
+
+饮用提供的[神秘药剂](Mysterious_Potion.md "神秘药剂")会对角色造成 1d4 [挥砍](Slashing.md "挥砍")伤害，并在角色周围触发一次小爆炸。饮用角色随后获得永久的[不稳血液](Unstable_Blood.md "不稳血液")特性，导致他们在受伤时流出[不稳血液](Unstable_Blood_(surface).md "不稳血液 (地表)")地表。当这些地表暴露在火焰中时，它们会爆炸，并变成[火焰](Fire_(surface).md "火焰 (地表)")地表。此外，如果互动的队伍成员成功在阿拉吉未察觉的情况下离开商店，任何角色都可以喝她的[格鲁纳配方](Mysterious_Potion.md "神秘药剂")，之后立即爆炸并获得不稳血液特性。
+
+这会授予以下激励点：
+
+- ⁠[盟约之血](Sage.md#Blood_of_the_Covenant "贤者")（[智者](Sage.md "智者")背景）
+- ⁠[猩红进展](Guild_Artisan.md#Sanguine_Progress "公会工匠")（[公会工匠](Guild_Artisan.md "公会工匠")背景）
+
+下次与阿拉吉交谈时，她会很高兴看到角色没有死，并对结果感到兴奋。她欣喜地认为角色是世界上第一个“爆炸性放血者”。临别时，她毫不顾忌地冒着角色生命的风险，提出以象征性费用提供另一枚炸药：再次献血。
+
+同意再次献血会导致角色受到 2 点伤害，但获得一枚[猩红炸药](Sanguine_Explosive.md "猩红炸药")。与之前的拒绝一样，如果拒绝她献血的请求，她会变得敌对。
+
+此后，阿拉吉接受每次长休一次的献血，每次在她的商人库存中获得两枚猩红炸药。在这些未来的情况下，如果饮用者拒绝献血，她不会变得敌对。
+
+#### 腥红跳棋
+
+阿拉吉的商店[腥红跳棋](Crimson_Draughts.md "腥红跳棋")是她在下城区的药剂店——似乎在游戏事件发生前已运营一段时间。阿拉吉一直在经营一家看似合法的业务，向体弱的公民出售药水。然而，在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")邮箱内找到的[一张便条](Help.md "HELP")显示，这位卓尔炼金术士一直在用她自己的药剂替换一些订单，造成了可怕的伤害。
+
+楼下，未受爆炸影响，[荣耀归于欧布罗扎家族](Glory_to_the_House_of_Oblodra.md "荣耀归于欧布罗扎家族")揭示了她研究的真正目的：她打算复活一支亡灵大军，并恢复已消亡的欧布罗扎家族。并且，如果遭到拒绝，就用炸药杀死⁠[魔索布莱城](https://forgottenrealms.fandom.com/wiki/Menzoberranzan)的所有人，并作为女王统治亡灵民众。
+
+无论是通过[撬锁](Sleight_of_Hand.md "巧手")还是使用附近的钥匙，进入商店地下室都会发现阿拉吉的小实验室。临时牢房里关着不情愿的参与者，人类和野兽被锁在墙上或遭到残害。她的研究桌附近可以找到一只被肢解的[观察者眼魔](Spectator.md "观察者眼魔")尸体。
+
+在[第三章](Act_Three.md "第三章")献血会授予具有[士兵](Soldier.md "士兵")背景的队伍成员 ⁠[不稳定性创新](Soldier.md#Innovations_in_Volatility "士兵") 激励点。
+
+### 尾声
+
+如果玩家角色在月出之塔和下城区献血，喝下[神秘药剂](Mysterious_Potion.md "神秘药剂")并再次献血，阿拉吉会在[尾声](Epilogue.md "尾声")期间在[感激之箱](Chest_of_Grateful_Words.md "感激之箱")中留下一封[信](Letter_from_Araj.md "阿拉吉的信")。她透露她已经开始着手，字面意义上地，“复活光荣的欧布罗扎家族”。
+
+## 出售的著名物品
+
+对应 `MOO_InfernalTrader_Trade`。
+
+- [狩猎饰环](Circlet_of_Hunting.md "狩猎饰环")
+- [奥术强化之靴](Boots_of_Arcane_Bolstering.md "奥术强化之靴")
+- [风暴之子力量帽](Hat_of_Storm_Scion's_Power.md "风暴之子力量帽")
+- [自由动作戒指](Ring_of_Free_Action.md "自由动作戒指")
+- [风险戒指](Risky_Ring.md "风险戒指")
+- [精准专注长袍](Robe_of_Exquisite_Focus.md "精准专注长袍")
+- [雷束披风](Thunderskin_Cloak.md "雷束披风")
+
+## 伙伴好感度
+
+### 第二章，月出之塔
+
+_当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
+
+  - 阿拉吉·欧布罗扎
+  而他听命于你……我的嫉妒显而易见。
+  - 抱歉？他是他自己的人。 +5
+  - 他做我吩咐的事，如果你是这个意思的话。 -2
+- 是的。全是我的。
+- 阿拉吉·欧布罗扎
+  你不能和你那固执的随从讲点道理吗？
+  - 他说不。没什么好谈的了。 +5
+  - 我很惊讶，阿斯代伦。我以为你会抓住这样的机会。 _或者_ 直接咬她——那药水听起来很有用。
+- 阿斯代伦
+  抱歉，你能让我们单独待一会儿吗？
+      - 你什么意思？她的血有什么问题？
+- 阿拉吉·欧布罗扎
+  我没有一整天时间，真魂者。
+          - 不要做任何你不想做的事。 +5
+          - 这取决于你，但我们真的需要那瓶药水。 -3
+          - 忍一忍，咬她一口就行了。 -3
+      - 那么强大的药水可以改变我们的命运。这不值得嘴里难受一下吗？ -3
+      - 这是你的选择——做你想做的。 +5
+      - 别小题大做，就咬一口。轻轻一咬就完事了。 -3
+
+## 战斗
+
+### 攻击与能力
+
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
+
+范围：自身
+
+[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离") ()
+安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。
+
+范围：自身
+
+[移动射击](Mobile_Shot.md "移动射击") () – [手弩](Hand_Crossbow.md "手弩")
+
+伤害：4~9
+
+1d6 + 3⁠[穿刺](Piercing.md "穿刺")
+
+在使用[疾走](Dash.md "疾走")或[撤离](Disengage.md "撤离")后，本回合可以作为附赠动作进行一次远程攻击。
+
+范围：15 米 (50 英尺)
+充能：[短休](Short_rest.md "短休")
+
+[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+
+伤害：4~7
+
+1d4 + 3⁠[穿刺](Piercing.md "穿刺")
+
+刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")。
+
+[不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
+
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")
+范围：正常武器范围
+充能：[短休](Short_rest.md "短休")
+
+[穿刺射击](Piercing_Shot.md "穿刺射击") () – [手弩](Hand_Crossbow.md "手弩")
+
+伤害：4~9
+
+1d6 + 3⁠[穿刺](Piercing.md "穿刺")
+
+造成常规伤害并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")，导致攻击造成额外伤害。
+
+[不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
+
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")
+范围：正常武器范围
+充能：[短休](Short_rest.md "短休")
+
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") () – [匕首](Dagger.md "匕首")
+
+伤害：5~13
+
+1d4 + 3⁠[穿刺](Piercing.md "穿刺")
+
+\+ 1d6⁠[武器](Weapon.md "武器")
+
+对具有[优势](Advantage.md "优势")的敌人造成额外 1d6 伤害。
+
+如果你有盟友在目标 1.5 米（5 英尺）范围内，且你没有[劣势](Disadvantage.md "劣势")，同样适用。
+
+范围：正常武器范围
+充能：每回合
+
+[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") () – [手弩](Hand_Crossbow.md "手弩")
+
+伤害：5~15
+
+1d6 + 3⁠[穿刺](Piercing.md "穿刺")
+
+\+ 1d6⁠[武器](Weapon.md "武器")
+
+对具有[优势](Advantage.md "优势")的敌人造成额外 1d6 伤害。
+
+如果你有盟友在目标 1.5 米（5 英尺）范围内，且你没有[劣势](Disadvantage.md "劣势")，你也可以使用偷袭。
+
+范围：正常武器范围
+充能：每回合
+
+### 战利品
+
+- [简易毒药](Basic_Poison.md "简易毒药")
+- [匕首](Dagger.md "匕首")
+- [手弩](Hand_Crossbow.md "手弩")
+- [皮甲](Leather_Armour.md "皮甲")
+- [隐形药水](Potion_of_Invisibility.md "隐形药水")
+- [烟粉炸弹](Smokepowder_Bomb.md "烟粉炸弹")
+
+## 相关文献
+
+- [来之不易的突破](A_Breakthrough_at_Last.md "来之不易的突破")，详述了从队伍身上获取的血液进行的实验
+- [HELP](Help.md "HELP")，“腥红跳棋”一位不幸顾客的紧急求助，因阿拉吉的疏忽而受苦
+- [公开调查](Open_Investigation.md "公开调查")，[焰拳](Flaming_Fist.md "焰拳")的通知，警告阿拉吉她的生意因投诉正在接受调查
+
+### 阿拉吉·欧布罗扎的笔记
+
+- [阿拉吉的信](Letter_from_Araj.md "阿拉吉的信")
+
+### 阿拉吉·欧布罗扎的书籍
+
+- [恩弗……你的血甜吗？](Enver..._Is_your_blood_sweet_q_.md "恩弗……你的血甜吗？")
+- [荣耀归于欧布罗扎家族](Glory_to_the_House_of_Oblodra.md "荣耀归于欧布罗扎家族")
+
+## 画廊
+
+- 第三章中的阿拉吉。
+
+## 注释
+
+- 阿拉吉在游戏文件中被称为“地狱商人”和恶魔。
+- 雇佣兵可以交换血液换取灵药。由于他们没有被寄生虫感染，并且游戏中没有提示他们有灵吸怪血液，这很可能是一个错误。
+- 截至热修复 21，在月出之塔，阿拉吉似乎不会因为抓住队伍成员扒窃而变得敌对。
+
+## 参考文献
+
+1. [↑](#cite_ref-1) 第二章，[月出之塔](Moonrise_Towers.md "月出之塔") 旁白：智力（历史）：_“你意识到为什么这个名字听起来耳熟：欧布罗扎家族在一个世纪前被敌对卓尔家族联盟清洗。”_ 旁白：_“在列举他们的众多罪行中——包括他们鲁莽地实验灵吸怪繁殖种。”_
+1. [↑](#cite_ref-2) 如果阿斯代伦在第一次与阿拉吉交谈时在队伍中，历史检定的对话选项不会出现（除非卓尔角色第一个说话），因此，除非在后续对话中揭露她的秘密，否则阿拉吉不会额外提供金币换取血液。
+1. [↑](#cite_ref-3) [来之不易的突破](A_Breakthrough_at_Last.md "来之不易的突破")
+
+## 外部链接
+
+- ⁠[阿拉吉·欧布罗扎](https://forgottenrealms.fandom.com/wiki/Araj_Oblodra) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[裂爪深渊](https://forgottenrealms.fandom.com/wiki/Clawrift) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[欧布罗扎家族](https://forgottenrealms.fandom.com/wiki/House_Oblodra) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra)*

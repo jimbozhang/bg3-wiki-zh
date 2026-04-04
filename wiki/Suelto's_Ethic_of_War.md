@@ -1,0 +1,46 @@
+# 《苏尔托的战争伦理》
+
+**《苏尔托的战争伦理》** 认为摧毁敌人是符合伦理的行动。由克里斯蒂娜·苏尔托撰写，她是[保罗·阿马普斯](Amaps'_Memoirs.md "Amaps' Memoirs")的朋友。
+
+克里斯蒂娜·苏尔托提出的一篇论文，主张对政治对手进行严厉的报偿。
+
+## 属性
+
+- [书籍](Books.md "书籍")
+
+- 作者：克里斯蒂娜·苏尔托
+
+- 稀有度：普通
+
+- 重量：0.5 千克 (1 磅)
+
+- 价格：14 金币
+
+- UID `S_WYR_InsightPuzzle_Hint2` UUID `64082582-01ac-4f30-b873-aa4554fb7881` ## 获取地点
+
+- 在[月出之塔](Moonrise_Towers.md "月出之塔")的[凯瑟里克的房间](Moonrise_Towers.md#Ketheric's_room "月出之塔")，坐标 X: -180 Y: -178
+
+- 在[远古龙之路](The_Wyrmway.md "远古龙之路")的试炼中，位于[洞察之间](Chamber_of_Insight.md "洞察之间")
+
+## 文本
+
+_《战争伦理》_
+
+作者：克里斯蒂娜·苏尔托
+
+我的同事[阿马普斯](Amaps'_Memoirs.md "Amaps' Memoirs")提议在战争时期制定公平的交战规则——并在胜利后予以宽恕。
+
+那么，当敌人已屈服于我们的力量时，我们是否应该饶恕他们？当对方提出投降时，我们是否应该将所有仇恨抛诸脑后？
+
+确实不应该。因为一旦对手重新集结军队，再次在我们的边境集结，我们该怎么做？我们将发动另一场战争，并计算因我们自己的宽宏大量而消逝的生命。
+
+一旦一个敌国被征服，它必须被夷为平地。只有这样，我们才能摆脱它的幽鬼。
+
+## 注释
+
+- 另见：
+  - [《阿马普斯回忆录》](Amaps'_Memoirs.md "Amaps' Memoirs")
+  - [《联盟的优点，斯泰德 著》](Stedd's_Virtues_of_Unions.md "Stedd's Virtues of Unions")
+
+---
+*Source: [Suelto's Ethics of War](https://bg3.wiki/wiki/Suelto's_Ethics_of_War)*

@@ -1,0 +1,82 @@
+# 阿姆布鲁斯特之家
+
+## [下城区](Lower_City.md "下城区")
+
+| [下城区](Lower_City.md "下城区") |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [墓园（下城区）](Graveyard_(Lower_City).md "墓园（下城区）") |  |  |  |  |
+| ↑ |  |  |  |  |
+| [九层锻炉](Forge_of_the_Nine.md "九层锻炉") | ← | 阿姆布鲁斯特之家 | → | [精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆") |
+| ↓ |  |  |  |  |
+| [海伯瑞之家](Highberry's_Home.md "海伯瑞之家") |  |  |  |  |
+↓
+[海伯瑞之家](Highberry's_Home.md "海伯瑞之家")
+**阿姆布鲁斯特之家**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。
+
+> “
+>
+> 妈妈一直告诉爸爸我们需要给门装把锁。我想这解释了原因。
+>
+> „
+
+— [艾奥·阿姆布鲁斯特](Ayo_Armbrust.md "艾奥·阿姆布鲁斯特"), 在房子里遇到队伍时
+
+## 目录
+
+- [1 概述](#overview)
+- [2 相关事件](#involvement)
+- [3 相关地点](#related-locations)
+- [4 相关任务](#related-quests)
+- [5 重要角色](#notable-characters)
+- [6 战利品](#loot)
+- [7 相关文献](#related-literature)
+
+## 概述
+
+阿姆布鲁斯特之家是一栋夹在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")和[九层锻炉](Forge_of_the_Nine.md "九层锻炉")之间的小型私人住宅。它属于泰姆·阿姆布鲁斯特和他的家人。房子有两层，没有地下室。唯一的入口位于 X: 26 Y: -14。
+
+一楼是泰姆的工作室和厨房，而二楼是宿舍和客厅。
+
+## 相关事件
+
+队伍可以在房子里找到几个人物：房主[泰姆·阿姆布鲁斯特](Tym_Armbrust.md "泰姆·阿姆布鲁斯特")、他的配偶[塔利](Talli_Armbrust.md "塔利·阿姆布鲁斯特")和他们的儿子[艾奥](Ayo_Armbrust.md "艾奥·阿姆布鲁斯特")。与他们交谈不会触发任何重要的对话或任务。
+
+队伍在房子一楼找到的日记和文件显示，泰姆·阿姆布鲁斯特是一位有才华的裁缝，过去曾接受博德之门各地的大量订单，从贵族到码头搬运工。然而，生意最近受到了影响，因为许多客户以赊账方式接受了泰姆的服务，但显然从未支付应付款项。现在泰姆正迅速陷入债务，深受其苦。如果与他的儿子艾奥交谈，他会问队伍是否是收税员，因为他的父亲害怕这些人。
+
+在二楼，靠近 X: 16 Y: -8 的窗户处，一次成功的 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")会高亮显示一块[松动木板](Loose_Plank.md "松动木板")。木板下有一张来自[九指基恩](Nine-Fingers_Keene.md "九指基恩")的便条，上面说泰姆也欠[公会](Guild.md "公会")的钱。
+
+房子及其居民的具体状态取决于队伍在探索[利文顿](Rivington.md "利文顿")时所做的决定。具体来说，如果他们在[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")中放过了[夺心魔](Mind_flayer_(windmill).md "夺心魔（磨坊）")，并且作为任务[释放夺心魔](Feed_the_Mind_Flayer.md "释放夺心魔")的一部分给他带来了一具尸体，那么当队伍到达[下城区](Lower_City.md "下城区")时，整个阿姆布鲁斯特一家都已死亡，而被释放的夺心魔则在房子里漂浮。
+
+在阿姆布鲁斯特之家的入口附近，两位市民[希拉里奥·瓦洛塔](Hilario_Varota.md "希拉里奥·瓦洛塔")和[麦格桑特](Megthanet.md "麦格桑特")正在讨论最近对公爵[斯特尔曼](Belynne_Stelmane.md "贝琳·斯特尔曼")的谋杀案。两人都复述了各种被严重夸大的谣言。如果[戈塔什勋爵](Enver_Gortash.md "恩维尔·戈塔什")已被杀死，他们的闲聊也会改变。
+
+## 相关地点
+
+- ⁠[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")
+- ⁠[利文顿](Rivington.md "利文顿")
+
+## 相关任务
+
+- ⁠[释放夺心魔](Feed_the_Mind_Flayer.md "释放夺心魔")
+
+## 重要角色
+
+- [艾奥·阿姆布鲁斯特](Ayo_Armbrust.md "艾奥·阿姆布鲁斯特")
+- [希拉里奥·瓦洛塔](Hilario_Varota.md "希拉里奥·瓦洛塔")
+- [麦格桑特](Megthanet.md "麦格桑特")
+- [夺心魔](Mind_flayer_(windmill).md "夺心魔（磨坊）") - 如果在利文顿被放过并喂食
+- [塔利·阿姆布鲁斯特](Talli_Armbrust.md "塔利·阿姆布鲁斯特")
+- [泰姆·阿姆布鲁斯特](Tym_Armbrust.md "泰姆·阿姆布鲁斯特")
+
+## 战利品
+
+- [褐红色染料](Gorgeous_Maroon_Dye.md "褐红色染料") - 在二楼浴缸上方的架子上
+
+## 相关文献
+
+- [阿姆布鲁斯特的账簿](Armbrust's_Ledger.md "阿姆布鲁斯特的账簿")
+- [错过的付款](Missed_Payment.md "错过的付款")
+- [晚餐感谢](Thank_You_for_Dinner.md "晚餐感谢")
+- [泰姆的笔记本](Tym's_Notebook.md "泰姆的笔记本")
+
+---
+*Source: [Armbrust's Home](https://bg3.wiki/wiki/Armbrust's_Home)*

@@ -1,0 +1,382 @@
+# 奥斯卡·费拉斯
+
+本文包含[敏感内容](Help_colon_Style_Guide.md#Content_warnings "Help:Style Guide")，包括提及或暗示自残和自杀。
+
+## 奥斯卡·费拉斯
+
+- 游戏内
+- 模型
+- 肖像画
+
+### 身份
+
+男性
+
+### 声音 / 演员
+
+- [David Alwyn](https://www.imdb.com/name/nm4753587/)
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "Medium")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[人类](Human.md "Human")
+
+### 职业
+
+[吟游诗人](Bard.md "Bard")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+5
+
+### 生命值
+
+28
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++3
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+75
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 10 / (0) | 10 / (0) | 16 / (+3) | 12 / (+1) | 18 / (+4) |
+
+## 额外资源
+
+- 3
+
+- - - ## 特性
+
+- [**激励之泉**](Font_of_Inspiration.md "Font of Inspiration")
+
+在长休或短休后，恢复所有[诗人激励](Bardic_Inspiration_(resource).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击正在离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+5
+
+### 生命值
+
+42
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++5
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+75
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +1 | +3 | 0 | +3 | +1 | +7 |
+
+## 额外资源
+
+- 3
+
+- - - ## 特性
+
+- [**激励之泉**](Font_of_Inspiration.md "Font of Inspiration")
+
+在长休或短休后，恢复所有[诗人激励](Bardic_Inspiration_(resource).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击正在离开攻击范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+5
+
+### 生命值
+
+28
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++3
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+75
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 10 / (0) | 10 / (0) | 16 / (+3) | 12 / (+1) | 18 / (+4) |
+
+## 额外资源
+
+- 3
+
+- - - ## 特性
+
+- [**激励之泉**](Font_of_Inspiration.md "Font of Inspiration")
+
+在长休或短休后，恢复所有[诗人激励](Bardic_Inspiration_(resource).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击正在离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_GLO_DoubtingArtist` ###
+
+UUID
+
+`3ae152be-8ff6-420c-81a0-68d6a55cd5bd` ###
+
+属性
+
+`GLO_Oskar` **奥斯卡·费拉斯**是[人类](Human.md "Human")，也是_[博德之门](Baldur's_Gate.md "Baldur's Gate")_市著名的画家，目前正被[散塔林会](Zhentarim.md "Zhentarim")贩卖。
+
+## 目录
+
+- [1 参与情况](#involvement)
+  - [1.1 第一幕](#act-one)
+    - [1.1.1 散塔林会窝点](#the-zhentarim-hideout)
+  - [1.2 第二幕](#act-two)
+  - [1.3 第三幕](#act-three)
+    - [1.3.1 迦纳斯夫人的宅邸](#lady-jannath's-estate)
+    - [1.3.2 公会大厅](#the-guildhall)
+- [2 战斗](#combat)
+  - [2.1 攻击与能力](#attacks-and-abilities)
+- [3 死者交谈](#speak-with-dead)
+- [4 相关任务](#related-quests)
+- [5 相关文献](#related-literature)
+- [6 注释](#notes)
+
+## 参与情况
+
+### 第一幕
+
+#### 散塔林会窝点
+
+主条目：[解救艺术家](Free_the_Artist.md "Free the Artist")
+
+奥斯卡最初可以在[散塔林会地下室](Zhentarim_Basement.md "Zhentarim Basement")被找到，他因作为画家的技能和声望而被[布雷姆](Brem.md "Brem")扣押以索取赎金或出售。队伍可以尝试购买他作为奴隶，说服布雷姆释放他，或者杀死所有散塔林会成员来解救他。这将开启任务_解救艺术家_。
+
+如果购买奥斯卡并像购买奴隶一样与他交谈，他会逃跑。如果购买奥斯卡然后解救他，他会向队伍索要路费。在解救奥斯卡时，_不必要_支付额外的200金币“作为路费”，他仍会在[第三幕](Act_Three.md "Act Three")出现并继续任务线。
+
+### 第二幕
+
+当任务结束时，进入[堕影冥界](Shadowfell.md "Shadowfell")时可能会出现错误，显示“我们把奥斯卡留在了散塔林会”。\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+
+### 第三幕
+
+#### 迦纳斯夫人的宅邸
+
+如果奥斯卡在[第一幕](Act_One.md "Act One")被队伍解救，他会回到[博德之门](Baldur's_Gate.md "Baldur's Gate")下城区的[迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "Lady Jannath's Estate")。
+
+进入迦纳斯夫人的宅邸后，队伍会发现奥斯卡被一个幽魂附身，整个宅邸都被闹鬼了。在与一些[促狭鬼](Poltergeist.md "Poltergeist")短暂战斗后，奥斯卡陷入昏迷，[迦纳斯夫人](Fireliia_Jannath.md "Fireliia Jannath")解释说他在他们最近结婚后就被附身了。然后她指引他们上楼到奥斯卡的工作室，他在被附身前大部分时间都待在那里。
+
+在工作室里，队伍可以发现一幅被附身的画作和[给奥斯卡·费拉斯的信](Letter_to_Oskar_Fevras.md "Letter to Oskar Fevras")，信中指引他们前往[菲尔格雷弗宅邸](Philgrave's_Mansion.md "Philgrave's Mansion")的[秘术师卡里翁](Mystic_Carrion.md "Mystic Carrion")处。一旦他们从他那里获得[驱散火炬](Torch_of_Revocation.md "Torch of Revocation")，就可以返回烧毁被附身的画作，释放被困在里面的[失落之爱的回响](Echo_of_a_Lost_Love.md "Echo of a Lost Love")。幽魂冲下楼，击昏迦纳斯夫人，并威胁要将奥斯卡拖回冥界。她透露自己名叫凯丽·埃文菲尔德（Kerri Evenfield），是奥斯卡的前女友，奥斯卡与秘术师卡里翁达成协议，将她从冥界带回，以弄清楚她自杀是否是他的错。
+
+队伍可以选择让凯丽将奥斯卡拖入冥界，通过DC 15的[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")或DC 15的[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")让她罢手，或者在战斗中击败她。如果对话检定成功，他们可以选择让她返回冥界而不回答奥斯卡的问题，或者通过DC 15的[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")、威吓或欺瞒检定来揭示真相：她只是一段露水情缘，仅此而已。
+
+如果拯救了奥斯卡的生命且迦纳斯夫人没有因此与他分手，他会在他的工作室为一名队伍成员绘制一幅[个人肖像](Personal_Portrait.md "Personal Portrait")。画像的主题由开始对话的队伍成员决定。通过与不同的队伍成员交谈，可以获得多幅画像。
+
+#### 公会大厅
+
+如果在第一幕未被解救，奥斯卡可以在[公会大厅](Guildhall.md "Guildhall")被找到。他设法说服了[散塔林会](Zhentarim.md "Zhentarim")，他不被关押时更有价值，现在以制作伪造画作为生。他似乎接受了自己的新生活，但对队伍在第一幕抛弃他仍然相当不满。队伍可以从奥斯卡那里购买昂贵的伪造画作，但由于态度惩罚严重，价格很高。
+
+## 战斗
+
+### 攻击与能力
+
+[诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)") (+ )
+用你的表演激励盟友超越其能力。他们可以在下一次[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中添加+1d6加值。
+
+范围：18 米 (60 英尺)
+
+[繁彩球](Chromatic_Orb.md "Chromatic Orb") (+ )
+投掷一个能量球。它造成3d8⁠⁠[雷鸣](Thunder.md "Thunder")伤害，或**2d8** ⁠[强酸](Acid.md "Acid")、⁠[寒冷](Cold.md "Cold")、⁠[火焰](Fire.md "Fire")、⁠[闪电](Lightning.md "Lightning")或⁠[中毒](Poison.md "Poison")伤害，并创造一个[地表](Surfaces.md "Surfaces")。
+
+范围：18 米 (60 英尺)
+
+[人类定身术](Hold_Person.md "Hold Person") (+ )
+定住一个类人敌人。他们不能[移动](Movement_speed.md "Movement Speed")、[行动](Action.md "Action")或[反应](Reaction_(Resource).md)。3米/10英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")来结束此状态。
+
+[感知](Wisdom.md "Wisdom")[豁免](Saving_throws.md "Saving throws")
+范围：18 米 (60 英尺)
+
+[催眠图纹](Hypnotic_Pattern.md "Hypnotic Pattern") (+ )
+
+[催眠](Hypnotised_(Condition).md "Hypnotised (Condition)")能看到图纹的生物。他们无法攻击你。他们无法移动或行动。
+
+此法术可以在你[沉默](Silenced_(Condition).md "Silenced (Condition)")时施放。
+
+[感知](Wisdom.md "Wisdom")[豁免](Saving_throws.md "Saving throws")
+范围：18 米 (60 英尺)
+
+[恶毒嘲笑](Vicious_Mockery.md "Vicious Mockery") ()
+
+伤害：1~4
+
+1d4⁠[心灵](Psychic.md "Psychic")
+
+侮辱一个生物：它在下一次⁠[攻击掷骰](Attack_roll.md "Attack roll")中具有[劣势](Disadvantage.md "Disadvantage")。
+
+[感知](Wisdom.md "Wisdom")[豁免](Saving_throws.md "Saving throws")
+范围：18 米 (60 英尺)
+
+## 死者交谈
+
+如果奥斯卡在散塔林会窝点内被杀死，他会有[死者交谈](Speak_with_Dead.md "Speak_with Dead")对话：
+
+- 你是谁？
+
+- 奥斯卡·费拉斯
+  奥斯卡·费拉斯...最伟大的艺术家...活着...
+
+    - 你知道你已经死了，对吧？
+
+- 奥斯卡·费拉斯
+  ...古怪...的幽默感...
+
+- 你把贵重物品放在哪里？
+
+- 奥斯卡·费拉斯
+  ...这双手...这个头脑...对国王来说也是足够的宝藏...
+
+- 你来自哪里？
+
+- 奥斯卡·费拉斯
+  ...博德之门...迦纳斯夫人自己的宫廷...
+
+- 你在这里做什么？
+
+- 奥斯卡·费拉斯
+  ...逃避婚姻...被俘...在路上...
+
+    - 你本应与谁结婚？
+
+- 奥斯卡·费拉斯
+  ...赞助人...迦纳斯夫人...但是...爱着另一个人...
+
+- 这是什么地方？
+
+- 奥斯卡·费拉斯
+  ...散塔林会窝点...又闷又臭...就像他们一样...
+
+- 你是怎么死的？
+
+- 旁白
+  _尸体保持沉默。它不知道。_
+
+## 相关任务
+
+- ⁠[解救艺术家](Free_the_Artist.md "Free the Artist")
+
+## 相关文献
+
+- [仅供奥斯卡·费拉斯的慧眼一阅](For_The_Discerning_Eyes_of_Oskar_Fevras_ONLY.md "For The Discerning Eyes of Oskar Fevras ONLY")
+- [仅供迦纳斯夫人一阅](For_the_Eyes_Of_Lady_Jannath_ONLY.md "For the Eyes Of Lady Jannath ONLY")
+- [迦纳斯夫人的日志](Lady_Jannath's_Journal.md "Lady Jannath's Journal")
+- [给奥斯卡·费拉斯的信](Letter_to_Oskar_Fevras.md "Letter to Oskar Fevras")
+- [绘画艺术大师](Masters_of_the_Painterly_Arts.md "Masters of the Painterly Arts")
+- [简单的信](Simple_Letter.md "Simple Letter")
+- [给奥斯卡·费拉斯](To_Oskar_Fevras.md "To Oskar Fevras")
+- [未寄出的信（奥斯卡·费拉斯）](Unsent_Letter_(Oskar_Fevras).md "Unsent Letter (Oskar Fevras)")
+
+## 注释
+
+- 在补丁8之前，奥斯卡的姓氏在游戏中拼写不一致；角色本身名为“Fevras”，而游戏中的一些物品称他为“Fervas”。
+- 根据[关于肖像画制作](Regarding_Portrait_Production.md "Regarding Portrait Production")，奥斯卡是[戈塔什的英勇肖像画](Heroic_Portrait_of_Gortash.md "Heroic Portrait of Gortash")原作的画家，该画作的复制品可以在[博德之门](Baldur's_Gate.md "Baldur's Gate")各处找到。
+
+---
+*Source: [Oskar Fevras](https://bg3.wiki/wiki/Oskar_Fevras)*

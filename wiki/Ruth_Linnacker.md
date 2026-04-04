@@ -1,0 +1,243 @@
+# 露丝·林纳克
+
+## 露丝·林纳克
+
+博德之门的女士
+
+- 游戏内
+- 肖像画
+
+### 身份
+
+女性
+
+### 声音 / 演员
+
+- [凯蒂·布里坦](https://www.imdb.com/name/nm1433038/)
+
+### 家族
+
+⁠[林纳克家族](https://forgottenrealms.fandom.com/wiki/Linnacker)
+
+### 家乡
+
+[博德之门](Baldur's_Gate.md "Baldur's Gate")
+
+## 属性
+
+### 体型
+
+[中级](Medium.md "Medium")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[人类](Human.md "Human")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+6
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++2
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 特性
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+4
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++4
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## 特性
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+7
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++2
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+1
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 特性
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_WYR_KillDirectorGortash_Patriar_005` ###
+
+UUID
+
+`2d1c22c9-8d45-4d43-8e81-0ba7fd3a2171` ###
+
+属性
+
+`Human_Commoner` **露丝·林纳克女士**是[博德之门](Baldur's_Gate.md "Baldur's Gate")的一位女士，出席了[戈塔什](Enver_Gortash.md "Enver Gortash")被任命为城市大公的仪式。
+
+## 目录
+
+- [1 参与情况](#involvement)
+- [2 相关文献](#related-literature)
+- [3 图库](#gallery)
+- [4 注释与参考文献](#notes-and-references)
+- [5 外部链接](#external-links)
+
+## 参与情况
+
+在仪式开始前，她与其他贵族一起坐在礼堂中央中殿的长椅上。
+
+仪式结束后，林纳克女士留在王座附近，聆听其他几位宾客与戈塔什和[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")讨论[钢铁卫士](Steel_Watcher.md "Steel Watcher")，但并未过多参与谈话。如果与她交谈，她会称赞戈塔什是“人民的合适人选”，并表示在他担任大公期间，市民们将安然无恙。
+
+如果选择[与戈塔什对峙](Confront_Gortash.md "Confront Gortash")，队伍可以在礼堂内发现林纳克女士与其他所有受邀宾客及其随从一同被屠杀。
+
+根据[忠诚之黑手](Black_Hand_of_Loyalty.md "Black Hand of Loyalty")的研究，露丝·林纳克女士是那些可能通过贿赂、勒索或直接威胁而轻易加入邪教的贵族之一。<sup>[\[1\]](#cite_note-1)</sup>
+
+## 相关文献
+
+- [脆弱的贵族](Vulnerable_Patriars.md "Vulnerable Patriars")
+
+## 图库
+
+- 游戏内模型
+
+## 注释与参考文献
+
+1. [↑](#cite_ref-1) [脆弱的贵族](Vulnerable_Patriars.md "Vulnerable Patriars") - “根据他们的影响力水平与对各种压力形式（贿赂、勒索、直接威胁）的易感性进行交叉索引，以下是未来二十天内议会中需要针对的前八位同侪：……”
+
+## 外部链接
+
+- ⁠[博德之门的贵族](https://forgottenrealms.fandom.com/wiki/Nobility_of_Baldur%27s_Gate) 于 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[林纳克家族](https://forgottenrealms.fandom.com/wiki/Linnacker) 于 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[露丝·林纳克](https://forgottenrealms.fandom.com/wiki/Ruth_Linnacker) 于 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+
+---
+*Source: [Ruth Linnacker](https://bg3.wiki/wiki/Ruth_Linnacker)*

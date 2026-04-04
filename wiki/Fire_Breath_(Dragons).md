@@ -1,0 +1,61 @@
+# 火焰吐息 (龙)
+
+本文介绍龙使用的火焰吐息攻击。其他用法，请参见 [火焰吐息 (消歧义)](Fire_Breath_(disambiguation)..md)
+
+**火焰吐息**是 [奎德诺斯](Qudenos.md "奎德诺斯") 和 [受控红龙](Dominated_Red_Dragon.md "受控红龙") 可用的独特职业动作。当状态 [传奇动作：龙之狂怒](Legendary_Action_colon__Draconic_Fury_(Condition).md "传奇动作：龙之狂怒 (状态)") 激活时，也可用作被攻击时的反应。
+
+## 描述
+
+从指尖射出明亮的火焰，接触时爆炸，烧焦附近的一切。
+
+## 属性
+
+消耗
+[动作](Actions.md#Resources "动作")
+伤害：14~84
+
+14d6⁠[火焰](Fire.md "火焰")
+
+详情
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")) (豁免成功：目标仍承受一半伤害。)
+范围：30 米 (100 英尺)
+区域效果：6 米 (20 英尺) 半径
+充能：每回合
+
+## 技术细节
+
+UID
+
+`Projectile_Fireball_Dragon`
+
+用作动作的版本
+
+`Projectile_FireballRetaliate_Dragon`
+
+用作反应的版本
+
+法术标志
+
+`[CanAreaDamageEvade](CanAreaDamageEvade_(spell_flag).md)`, `[HasHighGroundRangeExtension](HasHighGroundRangeExtension_(spell_flag).md)`, `[HasSomaticComponent](HasSomaticComponent_(spell_flag).md)`, `[IsHarmful](IsHarmful_(spell_flag).md)`, `[RangeIgnoreSourceBounds](https://bg3.wiki/w/index.php?title=RangeIgnoreSourceBounds_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreSourceBounds \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreTargetBounds](https://bg3.wiki/w/index.php?title=RangeIgnoreTargetBounds_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreTargetBounds \(spell flag\) \(page does not exist\)")`, `[RangeIgnoreVerticalThreshold](https://bg3.wiki/w/index.php?title=RangeIgnoreVerticalThreshold_\(spell_flag\)&action=edit&redlink=1) "RangeIgnoreVerticalThreshold \(spell flag\) \(page does not exist\)")`
+
+## 状态：燃烧
+
+**[燃烧](Burning_(Condition).md "燃烧 (状态)")**
+
+持续时间：2 回合
+
+- 每回合承受 1d4⁠⁠[火焰](Fire.md "火焰") 伤害。
+- 可通过 [协助](Help.md "协助") 动作、使用 [治疗药水](Potion_of_Healing.md "治疗药水") 或获得 [濡湿](Wet_(Condition).md "濡湿 (状态)") 来移除。
+- 如果处于 [濡湿](Wet_(Condition).md "濡湿 (状态)") 状态，则免疫。
+- [蘸取](Dip.md "蘸取") 动作可用于燃烧的角色或物体。
+
+## 如何学习
+
+由以下生物使用：[奎德诺斯](Qudenos.md "奎德诺斯") 和 [受控红龙](Dominated_Red_Dragon.md "受控红龙")
+
+## 备注
+
+- 此动作只能用于距离至少 6 米 (20 英尺) 的目标。
+
+---
+*Source: [Fire Breath (Dragons)](https://bg3.wiki/wiki/Fire_Breath_(Dragons)*

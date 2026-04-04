@@ -1,0 +1,209 @@
+# D&D 5e 种族变更
+
+本页面描述了《博德之门3》（BG3）中[种族](Races.md "Races")相较于**龙与地下城第五版2014**（D&D 5e 2014）原始设定所做的任何更改。其他规则变更可在其[相关页面](D&D_5e_rule_changes.md "D&D 5e Rule Changes")上找到。
+
+本页面及相关页面描述的规则变更，均假设读者已了解相关的 D&D 5e（2014）规则。这些页面不会解释 D&D 5e 规则是什么，只会说明 BG3 中已更改或修改的规则。这些页面还包含许多从 D&D 5e 到 BG3 未更改的特性和能力，以帮助 D&D 5e 玩家快速查看哪些选项已更改、哪些未更改，并在无需额外研究的情况下做出决定。如果 BG3 规则与 2024 年 5e 修订版或未来试玩版的其他材料中的规则一致，则视为对 D&D 5e 的规则变更。
+
+## 目录
+
+- [1 龙裔](#dragonborn)
+- [2 卓尔](#drow)
+- [3 矮人](#dwarves)
+  - [3.1 金矮人（丘陵矮人）](#gold-dwarves-(hill_dwarves))
+  - [3.2 盾矮人（山地矮人）](#shield-dwarves-(mountain_dwarves))
+  - [3.3 灰矮人](#duergar)
+- [4 精灵](#elves)
+  - [4.1 高精灵](#high-elves)
+  - [4.2 木精灵](#wood-elves)
+- [5 半精灵](#half-elves)
+  - [5.1 卓尔半精灵](#drow-half-elves)
+  - [5.2 高半精灵](#high-half-elves)
+  - [5.3 木半精灵](#wood-half-elves)
+- [6 半兽人](#half-orcs)
+- [7 半身人](#halflings)
+  - [7.1 轻足半身人](#lightfoot-halflings)
+  - [7.2 壮心半身人（ Stout 半身人）](#strongheart-halflings-(stout_halflings))
+- [8 人类](#humans)
+- [9 吉斯洋基人](#githyanki)
+- [10 侏儒](#gnomes)
+  - [10.1 森林侏儒](#forest-gnomes)
+  - [10.2 岩侏儒](#rock-gnomes)
+  - [10.3 地底侏儒（斯维布林尼）](#deep-gnomes-(svirfneblin))
+- [11 提夫林](#tieflings)
+  - [11.1 阿斯蒙蒂斯提夫林](#asmodeus-tieflings)
+  - [11.2 梅菲斯特提夫林](#mephistopheles-tieflings)
+  - [11.3 扎瑞尔的提夫林](#zariel-tieflings)
+- [12 其他变更](#other-changes)
+- [13 另见](#see-also)
+
+## 龙裔
+
+另见：[龙裔](Dragonborn.md "Dragonborn")
+
+- 《菲兹班的龙之宝库》中更新的彩色龙裔、宝石龙裔和金属龙裔子种族不可用。
+- 线形和锥形吐息武器的范围均为 5 米（17 英尺），而非线形 30 英尺、锥形 15 英尺。
+
+## 卓尔
+
+另见：[卓尔](Drow.md "Drow")
+
+- 卓尔玩家角色没有[日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")，但部分卓尔 NPC 有。
+- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")的范围为 24 米（80 英尺），而非 120 英尺。
+- 心灵冥想特性仅通过在营地休息时改变姿势来实现。
+
+## 矮人
+
+另见：[矮人](Dwarf.md "Dwarf")
+
+- 由于游戏中穿着[重甲](Heavy_Armour.md "Heavy armour")没有移动速度惩罚，因此取消该惩罚的种族特性也不存在于游戏中。
+- 矮人获得独特的对话选项，而非石匠精通对石工相关历史的双倍熟练项加值。
+- 工具熟练项不存在于游戏中，因为工具熟练项总体上不存在。
+
+### 金矮人（丘陵矮人）
+
+_无变更。_
+
+### 盾矮人（山地矮人）
+
+- 次要属性值加成从 +2 降至 +1。
+  - 现在与其他所有种族一致。
+
+### 灰矮人
+
+- 灰矮人坚韧使对抗幻术、魅惑效果和麻痹效果的豁免检定具有优势，而非对抗中毒。
+  - 这与灰矮人的第一个 5e 版本（《剑湾冒险者指南》中的“灰矮人”）一致，而非《多重宇宙怪物》中的更新版本。
+- 种族[隐形](Invisibility_(spell).md) 法术可在每场战斗中施放一次（或在非战斗时无限次施放）。
+- 灰矮人版本的[巨化](Enlarge.md "Enlarge")不需要专注。
+- 在阳光下施放种族法术没有限制。
+- 这与《多重宇宙怪物》中灰矮人的更新版本一致，而非《剑湾冒险者指南》的原始版本。
+- 灰矮人玩家角色没有日照敏感，但部分灰矮人 NPC 有。
+
+## 精灵
+
+另见：[精灵](Elf.md "Elf")
+
+- 心灵冥想特性仅通过在营地休息时改变姿势来实现。
+
+### 高精灵
+
+_无变更。_
+
+### 木精灵
+
+- 木精灵的荒野面具特性提供[隐匿](Stealth.md "Stealth")的[熟练项](Proficiency.md "Proficiency")，因为角色可以在游戏中随时尝试躲藏。
+
+## 半精灵
+
+另见：[半精灵](Half-Elf.md "Half-Elf")
+
+  - [民兵](Civil_Militia.md "Civil Militia")是人类和半精灵获得的新特性，提供轻甲、盾牌、短矛、长矛、长戟和长柄刀的熟练项。
+- 技能多才多艺不存在于游戏中。
+
+### 卓尔半精灵
+
+- 变体特性不可选，可用的变体特性是[卓尔魔法](Drow_Magic.md "Drow Magic")。
+
+### 高半精灵
+
+- 变体特性不可选，可用的变体特性是[高精灵戏法](Half-Elf.md#High_half-elf "Half-Elf")。
+
+### 木半精灵
+
+- 变体特性不可选，可用的变体特性是[轻捷步伐](Fleet_of_Foot.md "Fleet of Foot")和[隐匿](Stealth.md "Stealth")熟练项。
+
+## 半兽人
+
+另见：[半兽人](Half-Orc.md "Half-orc")
+
+- 威吓未列为特性，但半兽人仍获得[威吓](Intimidation.md "Intimidation")熟练项。
+
+## 半身人
+
+另见：[半身人](Halfling.md "Halfling")
+
+- 半身人灵巧（穿过比自身更大的生物空间的能力）不存在于游戏中。
+
+### 轻足半身人
+
+- [天生善匿](Naturally_Stealthy.md "Naturally Stealthy")提供[隐匿](Stealth.md "Stealth")检定的优势，因为角色可以在游戏中随时尝试躲藏。
+
+### 壮心半身人（Stout 半身人）
+
+_无变更。_
+
+## 人类
+
+另见：[人类](Humans.md "Humans")
+
+- 提供 1 级专长的“变体人类”子种族不可用。只有默认人类可用，并具有以下新特性：
+  - [民兵](Civil_Militia.md "Civil Militia")是人类和半精灵获得的新特性，提供轻甲、盾牌、短矛、长矛、长戟和长柄刀的熟练项。
+  - 选择一项技能获得熟练项的能力是新的（尽管这是 5e 中“变体人类”子种族的一部分）。
+  - [人类通才](Human_Versatility.md "Human Versatility")是新的，使负重增加 25%。
+
+## 吉斯洋基人
+
+另见：[吉斯洋基人](Githyanki.md "Githyanki")
+
+- 吉斯洋基人拥有《莫登凯宁的仇敌宝典》中的特性，其中《多重宇宙怪物》中的[星界知识](Astral_Knowledge.md "Astral Knowledge")取代了奢靡精通。星界知识已改进为授予所选属性所有技能的熟练项，而非仅一项技能。
+
+## 侏儒
+
+另见：[侏儒](Gnome.md "Gnome")
+
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")适用于所有智力、感知和魅力豁免检定（而非仅针对魔法的豁免检定）。
+
+### 森林侏儒
+
+- 天然幻术师不存在于游戏中。
+- 与小兽交谈提供[动物交谈](Speak_with_Animals.md "Speak with Animals")，每长休一次，而非通用的简单交流。
+  - 在《博德之门3》中，该法术持续到施法者下一次长休，因此每长休只能施放一次的限制比在 5e 中要小。
+
+### 岩侏儒
+
+- 修补匠不存在于游戏中。
+- 工匠的知识改为授予所有[历史的](History.md "History")检定的专精。
+
+### 地底侏儒（斯维布林尼）
+
+- [岩石伪装](Stone_Camouflage.md "Stone Camouflage")始终提供[优势](Advantage.md "Advantage")下的[隐匿](Stealth.md "Stealth")检定，而不仅限于岩石地形。
+- 地底侏儒其他方面与《剑湾冒险者指南》的版本一致，而非《多重宇宙怪物》的更新版本。
+
+## 提夫林
+
+另见：[提夫林](Tiefling.md "Tiefling")
+
+_无变更。炼狱传承仅限于阿斯蒙蒂斯提夫林。_
+
+### 阿斯蒙蒂斯提夫林
+
+_这是玩家手册中的基础提夫林，拥有炼狱传承。_
+
+- 描述指出所有子种族的种族法术使用魅力作为其施法关键属性（与 5e 中的情况相同）。然而，阿斯蒙蒂斯提夫林的[燃火术](Produce_Flame.md "Produce Flame")实际上使用感知。这似乎是一个错误，而非有意更改，因为其他种族法术使用魅力。
+
+### 梅菲斯特提夫林
+
+_无变更。_
+
+### 扎瑞尔的提夫林
+
+_无变更。_
+
+## 其他变更
+
+有关《龙与地下城第五版》2014 规则针对《博德之门3》中可用的[职业](Classes.md "Classes")、[种族](Races.md "Races")、[法术](Spells.md "Spells")和[专长](Feats.md "Feats")的具体变更，请参阅相关页面。
+
+[职业变更](D&D_5e_class_changes.md "D&D 5e class changes")
+
+[专长变更](D&D_5e_feat_changes.md "D&D 5e feat changes")
+
+[规则变更](D&D_5e_rule_changes.md "D&D 5e rule changes")
+
+[法术变更](D&D_5e_Spell_Changes.md "D&D 5e spell changes")
+
+## 另见
+
+- [第五版（2014）系统参考文档](https://5thsrd.org/)
+- [D&D 系统参考文档 5.1](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
+
+---
+*Source: [D\u0026D 5e race changes](https://bg3.wiki/wiki/D\u0026D_5e_race_changes)*

@@ -1,0 +1,52 @@
+# Brand of the Absolute
+
+**至上真神的印记**是一个可选的[永久增益](Permanent_bonuses.md "永久增益")，能带来独特的对话选项和强大的物品互动。
+
+## 目录
+
+- [1 外观](#appearance)
+- [2 成为烙印之人](#becoming-branded)
+- [3 烙印之人对话](#branded-dialogue)
+- [4 物品协同](#item-synergy)
+- [5 错误](#bugs)
+
+## 外观
+
+印记结合了[死亡三神](Dead_Three.md "死亡三神")的符号：[灾祸术](Bane_(God), "灾祸术")的黑手、[巴尔](Bhaal.md "巴尔")的血颅，以及[米尔寇](Myrkul.md "米尔寇")的三角嵌颅。
+
+## 成为烙印之人
+
+队伍成员可以通过在[破碎圣所](Shattered_Sanctum.md "破碎圣所")与[古特](Gut.md "古特")交谈来成为烙印之人。在为其烙印后，她会尝试与其寄生虫建立精神连接，并邀请其前往她的私人礼拜堂。在此对话后，古特不再为其他角色提供烙印服务，但任何队伍成员都可以通过与[邪术师格里兹](Greez.md "邪术师格里兹")交谈来获得印记。
+
+成为烙印之人有以下后果：
+
+- 以下[伙伴](Companions.md "伙伴")会一次性降低好感度：-1 -1
+- "烙印之人"会出现在角色详细视图的[标签](Tags.md "标签")部分。
+  - 如果角色处于伪装状态，该标签可能不会显示。
+- "烙印之人"对话选项变为可用。
+
+## 烙印之人对话
+
+- [布拉克卡伊](Brakkal.md "布拉克卡伊")会识别出印记，并因此拒绝与烙印之人交谈。
+- [费泽克](Fezzerk.md "费泽克")会服从并放过[巴克斯·鲁特](Barcus_Wroot.md "巴克斯·鲁特")，随后离开[染疫村落](Blighted_Village.md "染疫村落")。
+- [格克·煤球](Gekh_Coal.md "格克·煤球")在[幽暗地域](Underdark.md "幽暗地域")的[破败村落](Decrepit_Village.md "破败村落")会不经过对话检定而退让。
+- [海盗格雷蒙](Greymon.md "海盗格雷蒙")在幽暗地域的小船上需要一个更简单的对话检定（带有[优势](Advantage.md "优势")）才会退让。
+- [伦普](Lump.md "伦普")和他的食人魔同伴在染疫村落会不经过对话检定而退让。
+
+## 物品协同
+
+以下装备需要至上真神的印记才能发挥其全部潜力：
+
+- [至上真神保护者](Absolute's_Protector.md "至上真神保护者")
+- [至上真神的护符](Absolute's_Talisman.md "至上真神的护符")
+- [至上真神的战争阔盾](Absolute's_Warboard.md "至上真神的战争阔盾")
+- [威能手套](Gloves_of_Power.md "威能手套")
+- [至上真神力量之戒](Ring_of_Absolute_Force.md "至上真神力量之戒")
+
+## 错误
+
+- [塔夫](Origins.md#Custom "出身")在[补丁 #7](Patch_notes.md "补丁说明")中尝试烙印后可能不会成为"烙印之人"，因此需要检查是否成功或失败（截至 2024/12/25 已验证）。
+- 即使佩戴者未被烙印，[至上真神力量之戒](Ring_of_Absolute_Force.md "至上真神力量之戒")也能完全发挥作用。
+
+---
+*Source: [Brand of the Absolute](https://bg3.wiki/wiki/Brand_of_the_Absolute)*

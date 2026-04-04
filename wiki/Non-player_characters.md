@@ -1,0 +1,85 @@
+# 非玩家角色
+
+本文讨论的是概念。关于所有角色的列表，请参见[角色列表](List_of_characters.md "角色列表")和[分类：角色](Category_colon_Characters.md "分类：角色")。
+
+**非玩家角色**（也称为**NPC**）是不由玩家控制的角色。他们具有预先确定的行为和定义的[属性值](Ability_Score.md "属性值")、[职业动作](Class_action.md "职业动作")和物品栏。NPC通常有对话和语音台词，[博德之门3](Baldur's_Gate_3.md "博德之门3")中的许多NPC都参与[任务](Quests.md "任务")。
+
+一些NPC，特别是类人生物，拥有一套模仿[玩家形象](Avatar.md "玩家形象")成长的能力。一个[游侠](Ranger.md "游侠")原型NPC可能拥有类似游侠的能力，如[猎人印记](Hunter's_Mark.md "猎人印记")或[缠绕打击](Ensnaring_Strike.md "缠绕打击")。其他NPC可能拥有对他们独特且玩家角色无法学习的职业动作。
+
+## 目录
+
+- [1 NPC类型](#types-of-npc)
+  - [1.1 首领](#bosses)
+  - [1.2 伙伴](#companions)
+    - [1.2.1 出身伙伴](#origin-companions)
+    - [1.2.2 非出身伙伴](#non-Origin_Companions)
+    - [1.2.3 临时伙伴](#temporary-companions)
+  - [1.3 随从](#followers)
+    - [1.3.1 附属随从](#attached-followers)
+    - [1.3.2 营地随从](#camp-followers)
+  - [1.4 普通市民](#common-citizens)
+  - [1.5 敌对NPC（敌人）](#hostile-npcs-(Enemies))
+  - [1.6 商人](#traders)
+
+## NPC类型
+
+NPC可以分为多种原型，这些原型不一定相互排斥。
+
+### 首领
+
+[Baldur's Gate 3](Baldur's_Gate_3.md "Baldur's Gate 3")玩家群体使用的一个非正式术语，用于描述独特的、特别强大的敌人。首领通常拥有特殊且强大的能力，并且经常出现在能发挥其优势的固定场景区域。首领通常也会掉落大量战利品，并可能拥有一些独特的魔法物品。然而，一个NPC是否是首领最终是主观的。
+
+参见[首领](Bosses.md "首领")。
+
+### 伙伴
+
+#### 出身伙伴
+
+[出身](Origin.md "出身")伙伴是可玩角色，具有丰富的背景故事，并与游戏世界和事件紧密相连。出身伙伴可以在完成[序幕](Prologue.md "序幕")后不久招募。每个出身也可以作为玩家角色被选择，以替代创建自定义角色。
+
+参见[出身伙伴](Companions.md#Origin_Companions "伙伴")。
+
+#### 非出身伙伴
+
+非出身伙伴可以在游戏后期的不同时间点招募，每个非出身伙伴都有特定的招募场景需要遵循。
+
+参见[非出身伙伴](Companions.md#Non-Origin_Companions "伙伴")。
+
+#### 临时伙伴
+
+临时伙伴是可以在[任务](All_Quests.md "所有任务")期间或通过世界互动招募为队伍成员的角色，并占据一个真实但临时的队伍位置。
+
+参见[临时伙伴](Companions.md#Temporary_Companions "伙伴")。
+
+### 随从
+
+#### 附属随从
+
+附属随从是可以在[任务](All_Quests.md "所有任务")期间或通过世界互动附加到玩家角色或其他队伍成员身上的角色，类似于[召唤物](Summon.md "召唤物")。
+
+参见[附属随从](Companions.md#Attached_Followers "伙伴")。
+
+#### 营地随从
+
+营地随从是留在营地且无法被邀请加入玩家队伍的角色。他们通常有相关的[任务](Quests.md "任务")，提供背景故事，并可能提供服务。
+
+参见[营地随从](Camp_Followers.md "营地随从")。
+
+### 普通市民
+
+这些NPC填充了游戏世界，营造出一种鲜活的环境感，对话选项有限，通常不提供任务或物品。
+
+### 敌对NPC（敌人）
+
+敌对NPC——或敌人——是队伍在探索和任务中遇到的对手，难度各不相同。如果队伍成员不断挑衅，几乎任何生物都可能变得敌对！
+
+参见[生物](List_of_creature_types.md "生物类型列表")。
+
+### 商人
+
+商人是拥有扩展物品交易或[扒窃](Pickpocket.md "扒窃")列表的NPC，并且拥有大量金币。他们通常可以在可被视为定居点或城市的地方找到。
+
+参见[商人](Traders.md "商人")或[交易](Trading_and_item_pricing.md "交易与物品定价")。
+
+---
+*Source: [Non-player characters](https://bg3.wiki/wiki/Non-player_characters)*

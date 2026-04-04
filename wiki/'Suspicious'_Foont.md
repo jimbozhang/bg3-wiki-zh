@@ -1,0 +1,310 @@
+# '可疑的'丰特
+
+## '可疑的'丰特
+
+- 游戏内
+- 肖像画
+
+### 身份
+
+男性
+
+### 声音 / 演员
+
+- [Andrew Wheildon-Dennis](https://www.imdb.com/name/nm2340991/)
+
+## 属性
+
+### 体型
+
+[小型](Small.md "Small")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[半身人](Halfling.md "Halfling")
+
+### 亚种
+
+[轻足半身人](Lightfoot_Halfling.md "Lightfoot halfling")
+
+- 平衡
+- 探索者
+- 硬核
+
+## 平衡难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+8
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++2
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 特性
+
+- [**勇敢**](Brave.md "Brave")
+
+对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
+
+- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+
+在进行[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")时掷出1点，重掷一次并使用新结果。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+5
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++4
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## 特性
+
+- [**勇敢**](Brave.md "Brave")
+
+对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
+
+- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+
+在进行[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")时掷出1点，重掷一次并使用新结果。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 硬核难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+10
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 熟练项
+
++2
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 高级黑暗视觉
+
+0 米 (0 英尺)
+
+| 属性值 | 力 | 敏 | 体 | 智 | 感 | 魅 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 特性
+
+- [**勇敢**](Brave.md "Brave")
+
+对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
+
+- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+
+在进行[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")时掷出1点，重掷一次并使用新结果。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 技术
+
+###
+
+UID
+
+`S_LOW_BloomridgeGhostWatch_Civilian2` ###
+
+UUID
+
+`98e8b486-cdfb-4821-a2c2-52a8011612fc` ###
+
+属性
+
+`Halfling_Commoner` '**可疑的'丰特**是一位[半身人](Halfling.md "Halfling")平民，在[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")尝试猎捕幽魂，期间处于[第三幕](Act_Three.md "Act Three")。
+
+> “
+>
+> 退后！我不能让外行扰乱幽魂领域中那转瞬即逝的精妙结构！
+>
+> „
+
+— '可疑的'丰特
+
+## 参与
+
+### 第三幕
+
+丰特可以在通往[哀伤之邸](House_of_Grief.md "House of Grief")的小路上找到，他正带领[凯登](Kydden.md "Kydden")、[戈尔·法罗根](Gor_Falogen.md "Gor Falogen")和[加夫·加瑟姆](Gaff_Garsem.md "Gaff Garsem")使用一堆奇怪的物品猎捕幽魂。如果[解救艺术家](Free_the_Artist.md "Free the Artist")任务处于激活状态，这群人完全没注意到他们身后[迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "Lady Jannath's Estate")里整栋房子都充满了被附身的幽魂。
+
+丰特对队伍的态度会根据任务[阻止刊发](Stop_the_Presses.md "Stop the Presses")的结果而改变。
+
+## 闲聊
+
+- '可疑的'丰特
+  先生们，我非常确定我们已经接近这个最邪恶的幽魂了！
+
+- 加夫·加瑟姆
+  怎么，呃，你怎么知道的？
+
+- '可疑的'丰特
+  你难道感觉不到丰富、油腻的死灵能量正*涌过*幽魂领域吗？
+
+- 加夫·加瑟姆
+  呃……我*不*觉得……？
+
+- 戈尔·法罗根
+  那是因为这里根本*没有*东西可感觉。这纯粹是浪费时间。
+
+- 凯登
+  我感觉到了什么！
+
+- '可疑的'丰特
+  是的，我的朋友？你感觉到了什么？
+
+- 凯登
+  我的耳朵好冷！这意味着什么？
+
+- '可疑的'丰特
+  嗯，有些幽魂确实会以相当晦涩的方式交流。
+
+- '可疑的'丰特
+  它可能是在邀请你倾听它困境的*塔莱*！
+
+- '可疑的'丰特
+  这是来自帷幕之外的坟墓般的召唤！
+
+- 戈尔·法罗根
+  或者他的耳朵只是冷而已。
+
+- '可疑的'丰特
+  谨慎行事！我们还不知道这个幽魂是恶意的还是善意的！
+
+- 凯登
+  哦，天哪，如果它*是*恶意的怎么办？*如果它要来抓我们怎么办？*
+
+- '可疑的'丰特
+  别担心！在那种情况下，我装备精良，足以保护我们。
+
+- 戈尔·法罗根
+  你觉得从魔鬼的小费那里那个骗子手里买的魔杖能保护我们？
+
+- 戈尔·法罗根
+  如果*真*有什么东西需要我们防备的话……
+
+- '可疑的'丰特
+  人必须时刻准备着——鲁莽之人将遭遇不幸的死亡。
+
+- 凯登
+  它要杀我们了，是吗？
+
+- 加夫·加瑟姆
+  你知道，我不确定猎鬼适合我……
+
+- '可疑的'丰特
+  好了，好了——我确定它比我们更害怕它自己。
+
+- 凯登
+  我见过一个真正的幽魂把人撕成两半！
+
+- 凯登
+  它像挤满香肠一样把他们的内脏从耳朵里挤出来！
+
+- 凯登
+  嗯，我的*表亲*见过一个真正的幽魂把人撕成两半。但他们后来好了。
+
+- 戈尔·法罗根
+  嗯，我*非常*高兴他们好了。
+
+- '可疑的'丰特
+  嘘！太多嘈杂的闲聊会吓跑我们的猎物。
+
+- 戈尔·法罗根
+  哦，我们可不想那样做，对吧？
+
+---
+*Source: ['Suspicious' Foont](https://bg3.wiki/wiki/'Suspicious'_Foont)*
