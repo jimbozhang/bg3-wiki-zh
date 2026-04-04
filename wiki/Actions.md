@@ -151,7 +151,7 @@
 - [减速](Slowed_(Condition).md "Slowed (Condition)")
 - [受惊](Surprised_(Condition).md "Surprised (Condition)")
 
-后一组状态不会阻止受影响的生物采取不消耗[反应](#reactions)资源的反应。此类反应尤其包括[荣誉模式](Honour_Mode.md "Honour mode")中首领执行的[传奇动作](Legendary_actions.md "Legendary actions")。这些动作像反应一样触发，但使用不同的资源，因此不受这些状态的影响。
+后一组状态不会阻止受影响的生物采取不消耗[反应](#reactions)资源的反应。此类反应尤其包括[荣誉模式](Honour_Mode.md "Honour mode")中BOSS执行的[传奇动作](Legendary_actions.md "Legendary actions")。这些动作像反应一样触发，但使用不同的资源，因此不受这些状态的影响。
 
 ### 反应示例
 

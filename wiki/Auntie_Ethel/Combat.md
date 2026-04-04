@@ -289,9 +289,9 @@ UUID
 
 属性
 
-`Commoner` 本页面重点介绍埃赛尔婶婶在战斗遭遇中的行为，以及克服她的策略。如果干涉她的事务，可以在[日照湿地](../Sunlit_Wetlands.md "Sunlit Wetlands")的[河边茶室](../Riverside_Teahouse.md "Riverside Teahouse")中将她作为首领战斗。
+`Commoner` 本页面重点介绍埃赛尔婶婶在战斗遭遇中的行为，以及克服她的策略。如果干涉她的事务，可以在[日照湿地](../Sunlit_Wetlands.md "Sunlit Wetlands")的[河边茶室](../Riverside_Teahouse.md "Riverside Teahouse")中将她作为BOSS战斗。
 
-埃赛尔婶婶也可以在第三幕中再次作为首领遭遇，地点在[脸红的美人鱼](../Blushing_Mermaid.md "Blushing Mermaid")下方。
+埃赛尔婶婶也可以在第三幕中再次作为BOSS遭遇，地点在[脸红的美人鱼](../Blushing_Mermaid.md "Blushing Mermaid")下方。
 
 ## 目录
 

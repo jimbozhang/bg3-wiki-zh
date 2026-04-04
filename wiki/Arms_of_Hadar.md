@@ -48,7 +48,7 @@
 ## 备注
 
 - 哈达之臂的咒语是 _Morē_ ，拉丁语命令 _"die!"_（死亡！）
-- 此法术不会阻止目标使用不需要[反应](Actions.md#Reactions "动作")点的反应（例如，圣武士的[至圣斩](Divine_Smite_(reaction).md) 或首领的[传奇动作](Legendary_action.md "传奇动作")）。
+- 此法术不会阻止目标使用不需要[反应](Actions.md#Reactions "动作")点的反应（例如，圣武士的[至圣斩](Divine_Smite_(reaction).md) 或BOSS的[传奇动作](Legendary_action.md "传奇动作")）。
 
 ## 视觉效果
 

@@ -10,7 +10,7 @@
 | | |
 | --- | --- |
 
-**主脑**是一种体型庞大的[异怪](Aberration.md "Aberration")，作为游戏的最终首领。它是一个被古代[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")奴役并强化的[主脑](Elder_Brain.md "Elder Brain")，主脑是游戏的终极反派，其险恶计划推动了故事事件的发生。
+**主脑**是一种体型庞大的[异怪](Aberration.md "Aberration")，作为游戏的最终BOSS。它是一个被古代[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")奴役并强化的[主脑](Elder_Brain.md "Elder Brain")，主脑是游戏的终极反派，其险恶计划推动了故事事件的发生。
 
 > “
 >
@@ -52,7 +52,7 @@
 ### 游戏玩法
 
 - 主脑是20级的异怪类型主脑
-- 它贯穿游戏全程作为主要反派，也是最终首领
+- 它贯穿游戏全程作为主要反派，也是最终BOSS
 - 首次在[第一幕](Act_1.md "Act 1")被提及，在[第二幕](Act_2.md "Act 2")结尾短暂出现，随后在[第三幕](Act_3.md "Act 3")成为正式敌人
 - 根据剧情选择，其命运会有所不同，并影响游戏结局
 - 对话选择会影响进入最终战斗时的HP
@@ -113,7 +113,7 @@
 
 主文章：[主脑/战斗](The_Netherbrain/Combat.md "The Netherbrain/Combat")
 
-主脑作为第三幕和游戏的最终首领。它的失败标志着主要冒险的结束，让位于[结局](Endings.md "Endings")和[尾声](Epilogue.md "Epilogue")。
+主脑作为第三幕和游戏的最终BOSS。它的失败标志着主要冒险的结束，让位于[结局](Endings.md "Endings")和[尾声](Epilogue.md "Epilogue")。
 
 ### 战利品
 

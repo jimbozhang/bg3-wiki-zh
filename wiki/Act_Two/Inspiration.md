@@ -87,7 +87,7 @@ _这些激励点可在整个第二幕中获得。_
 
 ⁠[拥抱环境](../Outlander.md#Embracing_the_Environment "化外之民"): 在幽影诅咒中存活两回合。[化外之民](../Outlander.md "化外之民")背景。[卡菈克](../Karlach.md "卡菈克") [哈尔辛](../Halsin.md "哈尔辛") [埃尔德拉](../Eldra_Luthrinn.md "埃尔德拉·卢斯琳") [西娜'吉斯](../Sina'zith.md "西娜'吉斯")
 ⁠[黑暗中的异响](../Outlander.md#Bumps_in_the_Dark "化外之民"): 在幽影诅咒之地征服三场战斗遭遇。[化外之民](../Outlander.md "化外之民")背景。[卡菈克](../Karlach.md "卡菈克") [哈尔辛](../Halsin.md "哈尔辛") [埃尔德拉](../Eldra_Luthrinn.md "埃尔德拉·卢斯琳") [西娜'吉斯](../Sina'zith.md "西娜'吉斯")
-⁠[完美处决](../Soldier.md#Masterful_Execution "士兵"): 在单回合战斗中击杀幽影诅咒之地及其周围的任何首领。[士兵](../Soldier.md "士兵")背景。[莱埃泽尔](../Lae'zel.md "莱埃泽尔") [瓦兰娜](../Varanna_Sunblossom.md "瓦兰娜·繁日")
+⁠[完美处决](../Soldier.md#Masterful_Execution "士兵"): 在单回合战斗中击杀幽影诅咒之地及其周围的任何BOSS。[士兵](../Soldier.md "士兵")背景。[莱埃泽尔](../Lae'zel.md "莱埃泽尔") [瓦兰娜](../Varanna_Sunblossom.md "瓦兰娜·繁日")
 
 ## 幽影诅咒之地
 

@@ -292,7 +292,7 @@
 
 参见 [艾琳/删减内容](Aylin/Cut_content.md "Aylin/Cut content")
 
-根据挖掘内容，**暗夜之歌**曾是[莎尔](Shar.md "Shar")的[牧师](Cleric.md "Cleric")，并曾计划作为潜在的首领战，她的能力和语音可以在 YouTube 上看到。<sup>[\[1\]](#cite_note-youtube-1)</sup>
+根据挖掘内容，**暗夜之歌**曾是[莎尔](Shar.md "Shar")的[牧师](Cleric.md "Cleric")，并曾计划作为潜在的BOSS战，她的能力和语音可以在 YouTube 上看到。<sup>[\[1\]](#cite_note-youtube-1)</sup>
 
 ## 注释
 

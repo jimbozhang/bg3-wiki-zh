@@ -40,7 +40,7 @@
 
 ## 错误
 
-- **真菌感染**可以在 [第二幕](Act_Two.md "第二幕") 结束时，利用首领战前的恢复站恢复充能，并且即使 [噬脑怪](Intellect_Devourer.md "噬脑怪") 的尸体已被使用，仍能召唤它们，从而创造无限的僵尸。
+- **真菌感染**可以在 [第二幕](Act_Two.md "第二幕") 结束时，利用BOSS战前的恢复站恢复充能，并且即使 [噬脑怪](Intellect_Devourer.md "噬脑怪") 的尸体已被使用，仍能召唤它们，从而创造无限的僵尸。
 
 ---
 *Source: [Fungal Infestation](https://bg3.wiki/wiki/Fungal_Infestation)*

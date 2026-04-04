@@ -25,7 +25,7 @@
 
 ## 备注
 
-- 恶之雷鸣可以轻松地每回合施加眩晕状态。眩晕使敌人更难抵抗[某些法术](List_of_spell_saving_throws.md#Wisdom_save "法术豁免检定列表")，例如[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")。这对于对抗拥有[传奇抗性](Legendary_Resistance_(Condition).md "传奇抗性（状态）")和[魔法抗性](Magic_Resistance.md "魔法抗性")的首领敌人非常有帮助。
+- 恶之雷鸣可以轻松地每回合施加眩晕状态。眩晕使敌人更难抵抗[某些法术](List_of_spell_saving_throws.md#Wisdom_save "法术豁免检定列表")，例如[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")。这对于对抗拥有[传奇抗性](Legendary_Resistance_(Condition).md "传奇抗性（状态）")和[魔法抗性](Magic_Resistance.md "魔法抗性")的BOSS敌人非常有帮助。
 - 豁免检定是隐藏的，不会显示在战斗日志中。
 
 ## 错误

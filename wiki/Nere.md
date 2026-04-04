@@ -163,7 +163,7 @@
 
 尼讷可以施放[灵能面容](Psionic_Visage.md "灵能面容")来保护自己免受攻击。
 
-**尼讷**，又名**真魂者尼讷**，是[至上真神](Absolute.md#True_Souls "至上真神")的[真魂者](Absolute.md "真魂者")，也是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中的潜在首领。他是任务[救出真魂者尼讷](Free_True_Soul_Nere.md "救出真魂者尼讷")、[拯救复仇之炉的侏儒们](Save_the_Grymforge_Gnomes.md "拯救复仇之炉的侏儒们")和[交送尼讷的头](Deliver_Nere's_Head.md "交送尼讷的头")的关键角色。
+**尼讷**，又名**真魂者尼讷**，是[至上真神](Absolute.md#True_Souls "至上真神")的[真魂者](Absolute.md "真魂者")，也是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中的潜在BOSS。他是任务[救出真魂者尼讷](Free_True_Soul_Nere.md "救出真魂者尼讷")、[拯救复仇之炉的侏儒们](Save_the_Grymforge_Gnomes.md "拯救复仇之炉的侏儒们")和[交送尼讷的头](Deliver_Nere's_Head.md "交送尼讷的头")的关键角色。
 
 > “
 >

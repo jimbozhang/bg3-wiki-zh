@@ -36,7 +36,7 @@
 
 ## 备注
 
-- [散打技法：惊惧](Open_Hand_Technique_colon__Staggered_(Condition).md "散打技法：惊惧（状态）")阻止目标消耗[反应](Actions.md#Reactions "动作")资源，而非完全禁止其进行反应。这很重要，因为[荣誉模式](Honour_Mode.md "荣誉模式")中给予首领的许多传奇动作是不消耗[反应](Actions.md#Reactions "动作")资源的反应。
+- [散打技法：惊惧](Open_Hand_Technique_colon__Staggered_(Condition).md "散打技法：惊惧（状态）")阻止目标消耗[反应](Actions.md#Reactions "动作")资源，而非完全禁止其进行反应。这很重要，因为[荣誉模式](Honour_Mode.md "荣誉模式")中给予BOSS的许多传奇动作是不消耗[反应](Actions.md#Reactions "动作")资源的反应。
 - 此能力类似于[灵活移动：躲避借机攻击](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：躲避借机攻击")[专长](Feat.md "专长")，因为它无需[豁免检定](Saving_throw.md "豁免检定")即可禁用目标的[借机攻击](Opportunity_Attack.md "借机攻击")。
 - 此攻击相当于两次[徒手打击](Unarmed_Strike.md "徒手打击")，并受所有适用于普通徒手攻击的效果影响，例如[ martial arts: 灵巧打击](Martial_Arts_colon__Deft_Strikes.md " martial arts: 灵巧打击")、[ martial arts: 敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md " martial arts: 敏捷攻击")和[肉身具现](Manifestation_of_Body.md "肉身具现")。
 - 此攻击不会触发[额外攻击](Extra_Attack.md "额外攻击")，因为它不使用[动作](Actions.md#Resources "动作")。

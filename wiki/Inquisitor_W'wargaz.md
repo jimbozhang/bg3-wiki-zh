@@ -70,7 +70,7 @@
 
 ### 第一幕
 
-作为一名无情的剑士和灵能操控者，瓦尔'戈兹可被视为[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的[首领](Non-player_characters.md#Types_of_NPC "Non-player characters")敌人。
+作为一名无情的剑士和灵能操控者，瓦尔'戈兹可被视为[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的[BOSS](Non-player_characters.md#Types_of_NPC "Non-player characters")敌人。
 
 ### 第三幕
 

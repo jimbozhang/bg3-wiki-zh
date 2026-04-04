@@ -51,11 +51,11 @@
 
 最新评论：[2024年6月10日](#c-TitanstringEnjoyer-20240610161600-NtCarlson-20240609195600)3条评论2人参与讨论
 
-我刚杀了[复仇侍卫](Grym.md "Grym")，奖励了875点经验值，这与表格中10级“首领”的数值相符。
+我刚杀了[复仇侍卫](Grym.md "Grym")，奖励了875点经验值，这与表格中10级“BOSS”的数值相符。
 
 但在同一场战斗中，几个3级[岩浆魔蝠](Magma_Mephit.md "Magma Mephit")加入了，杀死它们每个奖励我75点经验值，这与表格中的任何数值都不符。
 
-我猜应用了一些调整值，也许是因为它们帮助了首领？ — [TitanstringEnjoyer](User_colon_TitanstringEnjoyer.md "User:TitanstringEnjoyer") ([讨论](https://bg3.wiki/w/index.php?title=User_talk:TitanstringEnjoyer&action=edit&redlink=1 "User talk:TitanstringEnjoyer (页面不存在)")) [2024年6月9日 21:27 (CEST)](https://bg3.wiki/wiki/Talk:Classes#c-TitanstringEnjoyer-20240609192700-Unexplained_75_xp_killing_level_3_Magma_Mephit)回复
+我猜应用了一些调整值，也许是因为它们帮助了BOSS？ — [TitanstringEnjoyer](User_colon_TitanstringEnjoyer.md "User:TitanstringEnjoyer") ([讨论](https://bg3.wiki/w/index.php?title=User_talk:TitanstringEnjoyer&action=edit&redlink=1 "User talk:TitanstringEnjoyer (页面不存在)")) [2024年6月9日 21:27 (CEST)](https://bg3.wiki/wiki/Talk:Classes#c-TitanstringEnjoyer-20240609192700-Unexplained_75_xp_killing_level_3_Magma_Mephit)回复
 
 我以为我理解了经验值机制，但看来不是。魔蝠肯定使用了战斗者经验值奖励表，但不知为何给出了5级的奖励。锻炉内部被标记为5级区域，所以可能是区域的等级重要，而不是生物。或者，区域的等级可能设定了经验值奖励的最低等级。
 我稍后会尝试测试这个假设。[NtCarlson](User_colon_NtCarlson.md "User:NtCarlson") ([讨论](User_talk_colon_NtCarlson.md "User talk:NtCarlson")) [2024年6月9日 21:56 (CEST)](https://bg3.wiki/wiki/Talk:Classes#c-NtCarlson-20240609195600-TitanstringEnjoyer-20240609192700)回复
