@@ -4,25 +4,25 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 决战盟友](#allies-in-the-final-fight)
-  - [2.2 与主脑对峙](#confronting-the-elder-brain)
-  - [2.3 塑境秘潭](#the-morphic-pool)
-  - [2.4 星界棱镜](#the-astral-prism)
-    - [2.4.1 与君主结盟](#siding-with-the-emperor)
-    - [2.4.2 释放俄耳甫斯](#freeing-orpheus)
-  - [2.5 上城区](#upper-city)
-    - [2.5.1 庭院](#courtyard)
-    - [2.5.2 上城区下水道](#upper-city-sewers)
-    - [2.5.3 至高大殿](#high-hall)
-  - [2.6 盖尔的可能抉择](#possible-gale-decision)
-  - [2.7 耐色脑顶部](#atop-the-netherbrain)
-  - [2.8 耐色脑的思维](#mind-of-the-netherbrain)
-  - [2.9 耐色脑的不屈意志](#the-unbreakable-will-of-the-netherbrain)
-  - [2.10 最终抉择](#final-choice)
-- [3 成就](#achievements)
-- [4 注释](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 决战盟友](#决战盟友)
+  - [2.2 与主脑对峙](#与主脑对峙)
+  - [2.3 塑境秘潭](#塑境秘潭)
+  - [2.4 星界棱镜](#星界棱镜)
+    - [2.4.1 与君主结盟](#与君主结盟)
+    - [2.4.2 释放俄耳甫斯](#释放俄耳甫斯)
+  - [2.5 上城区](#上城区)
+    - [2.5.1 庭院](#庭院)
+    - [2.5.2 上城区下水道](#上城区下水道)
+    - [2.5.3 至高大殿](#至高大殿)
+  - [2.6 盖尔的可能抉择](#盖尔的可能抉择)
+  - [2.7 耐色脑顶部](#耐色脑顶部)
+  - [2.8 耐色脑的思维](#耐色脑的思维)
+  - [2.9 耐色脑的不屈意志](#耐色脑的不屈意志)
+  - [2.10 最终抉择](#最终抉择)
+- [3 成就](#成就)
+- [4 注释](#注释)
 
 ## 目标
 
@@ -101,7 +101,7 @@
 ### 与主脑对峙
 
 
-与[主脑](Elder_Brain.md "Elder Brain")对峙的任务在[第二幕](Act_Two.md "Act Two")结束时获得，此时三选民被揭露正在控制主脑，作为他们接管博德之门计划的一部分。然而，除非完成任务 ⁠[拿到戈塔什的耐色石](Get_Gortash's_Netherstone.md "Get Gortash's Netherstone") 和 ⁠[拿到奥林的耐色石](Get_Orin's_Netherstone.md "Get Orin's Netherstone")，否则该任务无法取得实质性进展。必须击败[腥红奥林](Orin.md "Orin")，并且[恩维尔·戈塔什](Gortash.md "Gortash")必须被击败，或作为子任务 ⁠[考虑戈塔什的提议](Consider_Gortash's_Bargain.md "Consider Gortash's Bargain") 的一部分与其达成交易。击败奥林和戈塔什后，会在城市下方的[塑境秘潭](Morphic_Pool.md "Morphic Pool")看到主脑的幻象。如果与戈塔什结盟，他会揭示主脑的位置，并告诉队伍使用城市下方的船只前往那里与他见面。
+与[主脑](Elder_Brain.md "Elder Brain")对峙的任务在[第二幕](Act_Two.md "Act Two")结束时获得，此时三选民被揭露正在控制主脑，作为他们接管博德之门计划的一部分。然而，除非完成任务 ⁠[拿到戈塔什的耐色石](Get_Gortash's_Netherstone.md "Get Gortash's Netherstone") 和 ⁠[拿到奥林的耐色石](Get_Orin's_Netherstone.md "Get Orin's Netherstone")，否则该任务无法取得实质性进展。必须击败[奥林](Orin.md "奥林")，并且[戈塔什](Gortash.md "戈塔什")必须被击败，或作为子任务 ⁠[考虑戈塔什的提议](Consider_Gortash's_Bargain.md "Consider Gortash's Bargain") 的一部分与其达成交易。击败奥林和戈塔什后，会在城市下方的[塑境秘潭](Morphic_Pool.md "Morphic Pool")看到主脑的幻象。如果与戈塔什结盟，他会揭示主脑的位置，并告诉队伍使用城市下方的船只前往那里与他见面。
 
 ### 塑境秘潭
 
@@ -117,7 +117,7 @@
 - [阿斯代伦](Astarion.md "Astarion")、[哈尔辛](Halsin.md "Halsin")、[贾希拉](Jaheira.md "Jaheira")和[影心](Shadowheart.md "Shadowheart")可能会作为任务 ⁠[召集盟友](Gather_Your_Allies.md "Gather Your Allies") 的一部分出现在[至高大殿](High_Hall.md "High Hall")，但他们此时无法被加入现役队伍，因为他们不再被视为伙伴。
 - 队伍可以在至高大殿从[守墓人](Withers.md "Withers")处召唤雇佣兵，但前提是队伍中有空位。
 
-抵达塑境秘潭后，队伍成员会反复被主脑[心智崩溃](Mindbroken_(Condition).md "Mindbroken (Condition)")，并必须进行多次DC 20的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")，以免同时被[震慑](Stunned_(Condition).md "Stunned (Condition)")，因为主脑会向队伍成员的脑海中传音，要求服从。当队伍向北移动时，DC 20的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")会揭示在盐水池簇附近有伏击，可以通过潜行穿过该区域来避开。伏击包括几只[噬脑怪](Intellect_Devourer.md "Intellect Devourer")和[智力暴食者](Intellect_Glutton.md "Intellect Glutton")，[君主](Emperor.md "Emperor")会评论说有什么东西在腐蚀这些生物。
+抵达塑境秘潭后，队伍成员会反复被主脑[心智崩溃](Mindbroken_(Condition).md "Mindbroken (Condition)")，并必须进行多次DC 20的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")，以免同时被[震慑](Stunned_(Condition).md "Stunned (Condition)")，因为主脑会向队伍成员的脑海中传音，要求服从。当队伍向北移动时，DC 20的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")会揭示在盐水池簇附近有伏击，可以通过潜行穿过该区域来避开。伏击包括几只[噬脑怪](Intellect_Devourer.md "Intellect Devourer")和[智力暴食者](Intellect_Glutton.md "Intellect Glutton")，[君主](Emperor.md "Emperor")会评论说有什么东西在腐蚀这些生物。
 
 伏击之后，如果与戈塔什结盟，可以在下一个区域找到他，准备用他的耐色石协助队伍。队伍可以选择攻击戈塔什两次。第一次，他会发出警告，如果玩家角色以讽刺回应他的抱怨，他会踢玩家角色。第二次，他会变得敌对。
 
@@ -135,7 +135,7 @@
 - [魅力] _没有什么能免疫影响——**决心**掌控大脑。_ (DC 25)
 - _向耐色脑的荣耀屈服。臣服于支配。_
 
-耐色脑告诉队伍，是它告知了选民关于[星界棱镜](Mysterious_Artefact.md "Mysterious Artefact")的消息，并植入了对[俄耳甫斯](Orpheus.md "Orpheus")可能破坏他们计划的恐惧。是它让君主挣脱束缚，以便它能取回棱镜并松动选民三巨头对耐色石的掌控。
+耐色脑告诉队伍，是它告知了选民关于[神秘遗物](Mysterious_Artefact.md "神秘遗物")的消息，并植入了对[俄耳甫斯](Orpheus.md "Orpheus")可能破坏他们计划的恐惧。是它让君主挣脱束缚，以便它能取回棱镜并松动选民三巨头对耐色石的掌控。
 
 惊慌失措的戈塔什（如果在场）从队伍手中夺走耐色石，试图自己支配耐色脑。耐色脑轻易地抵抗了他，并向戈塔什发出最后的命令：“死”，他随即死去。
 
@@ -166,9 +166,9 @@
 
 #### 与君主结盟
 
-与君主交谈会揭示，只有一名夺心魔才有希望在当前形态下击败耐色脑，并且该灵吸怪必须吞噬[俄耳甫斯王子](Orpheus.md "Orpheus")的力量才能成功。作为夺心魔，君主表示他可以做到这一点，并要求队伍将耐色石交给他。
+与君主交谈会揭示，只有一名夺心魔才有希望在当前形态下击败耐色脑，并且该灵吸怪必须吞噬[俄耳甫斯](Orpheus.md "俄耳甫斯")的力量才能成功。作为夺心魔，君主表示他可以做到这一点，并要求队伍将耐色石交给他。
 
-如果同意该提议，可以将耐色石交给君主，然后他通过吞噬俄耳甫斯的大脑来同化他。如果[莱埃泽尔](Lae'zel.md "Lae'zel")在队伍中且忠于俄耳甫斯，她会对王子的死感到愤怒并变得敌对，除非通过DC 30的[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")来安抚。
+如果同意该提议，可以将耐色石交给君主，然后他通过吞噬俄耳甫斯的大脑来同化他。如果[莱埃泽尔](Lae'zel.md "Lae'zel")在队伍中且忠于俄耳甫斯，她会对王子的死感到愤怒并变得敌对，除非通过DC 30的[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")来安抚。
 
 君主随后作为[附属追随者](Attached_Follower.md "Attached Follower")加入队伍，他们必须一起穿过最近打开的传送门前往[至高大殿](High_Hall.md "High Hall")。
 
@@ -190,13 +190,13 @@
 
 当队伍抵达博德之门的[上城区](Upper_City.md "Upper City")时，发现它已是一片废墟。整个城市是几艘鹦鹉螺和一支红龙大军之间的战场。
 
-[凯斯拉克百夫长沃斯](Voss.md "Voss")与一群吉斯洋基人传送而来与队伍对峙。如果俄耳甫斯被释放，沃斯会主动提供帮助。如果君主或一名队伍成员吞噬了俄耳甫斯，沃斯会非常愤怒，但DC 30的[游说](Persuasion.md "Persuasion")或[欺瞒](Deception.md "Deception")[检定](Ability_Check.md "Ability check")会让他让步并勉强提供帮助；否则，他会攻击。
+[凯斯拉克百夫长沃斯](Voss.md "Voss")与一群吉斯洋基人传送而来与队伍对峙。如果俄耳甫斯被释放，沃斯会主动提供帮助。如果君主或一名队伍成员吞噬了俄耳甫斯，沃斯会非常愤怒，但DC 30的[游说](Persuasion.md "Persuasion")或[欺瞒](Deception.md "Deception")[属性检定](Ability_Check.md "属性检定")会让他让步并勉强提供帮助；否则，他会攻击。
 
 向前移动，队伍可以找到一栋建筑，里面聚集了所有的盟友，以及一名名为[比翁·旺特布莱德](Beorn_Wunterbrood.md "Beorn Wunterbrood")的[焰拳](Flaming_Fist.md "Flaming Fist")。出现的角色取决于成功招募了哪些派系作为任务 ⁠[召集盟友](Gather_Your_Allies.md "Gather Your Allies") 的一部分。这些盟友会授予一个新动作——召唤盟友——可以召唤增援、提供有用的增益效果或创建强大的范围攻击。
 
 #### 庭院
 
-靠近庭院时，队伍会遇到守卫[吉奥尔迪](Gyordi.md "Gyordi")、[古吉](Goodge.md "Goodge")、[弗莱](Fry.md "Fry")和[埃伯](Ebber.md "Ebber")正在逃跑。被动DC 20的[洞悉](Insight.md "Insight")[检定](Ability_Check.md "Ability check")后，接一个DC 20的[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")、[欺瞒](Deception.md "Deception")或[力量](Strength.md "Strength")[检定](Ability_Check.md "Ability check")的对话选项可以说服他们留下来战斗，作为盟友加入庭院战斗（仅限该场战斗）。在探索者和平衡难度下，还有一个一次性使用的[恢复站](Restoration.md "Restoration")舱，可提供长休的益处。
+靠近庭院时，队伍会遇到守卫[吉奥尔迪](Gyordi.md "Gyordi")、[古吉](Goodge.md "Goodge")、[弗莱](Fry.md "Fry")和[埃伯](Ebber.md "Ebber")正在逃跑。被动DC 20的[洞悉](Insight.md "Insight")[属性检定](Ability_Check.md "属性检定")后，接一个DC 20的[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")、[欺瞒](Deception.md "Deception")或[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")的对话选项可以说服他们留下来战斗，作为盟友加入庭院战斗（仅限该场战斗）。在探索者和平衡难度下，还有一个一次性使用的[恢复站](Restoration.md "Restoration")舱，可提供长休的益处。
 
 进入庭院会导致与各种[至上力量教徒](Absolute.md#Soldiers "Absolute")、[地精](Goblin.md "Goblin")、[夺心魔](Mind_flayer.md "Mind Flayer")、[灵吸怪奥术师](Illithid_Arcanist.md "Illithid Arcanist")、[飞天恐魔](Winged_Horror.md "Winged Horror")、[噬脑怪](Intellect_Devourer.md "Intellect Devourer")、一只[食人魔](Ogre.md "Ogre")和一只[观察者眼魔](Spectator.md "Spectator")的全面战斗。
 
@@ -214,7 +214,7 @@
 
 大厅内有噬脑怪、夺心魔以及班恩和巴尔教徒。一艘[鹦鹉螺](Nautiloid_(Creature)抵达并轰炸区域.md)，每回合召唤夺心魔、噬脑怪和[智力暴食者](Intellect_Glutton.md "Intellect Glutton")。
 
-有两条路通向顶部。左侧道路有一扇[中级坚韧](Medium_Toughness_(Condition).md "Medium Toughness (Condition)")门，必须打破、撬锁或用相应的钥匙解锁。右侧道路有一堵高墙，大多数角色无法跳上去，但可以推动附近的一座雕像（通过[力量](Strength.md "Strength")[检定](Ability_Check.md "Ability check")）来提供立足点。
+有两条路通向顶部。左侧道路有一扇[中级坚韧](Medium_Toughness_(Condition).md "Medium Toughness (Condition)")门，必须打破、撬锁或用相应的钥匙解锁。右侧道路有一堵高墙，大多数角色无法跳上去，但可以推动附近的一座雕像（通过[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")）来提供立足点。
 
 两条路的顶部都有一扇通往耐色脑脑干的门。*任何角色*靠近脑干都会触发过场动画，轰炸的鹦鹉螺被摧毁。战斗结束，整个队伍被传送到脑干。在探索者和平衡难度下，这里还有另一个恢复站。队伍可以通过攀爬脑干到达耐色脑顶部。
 

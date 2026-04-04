@@ -77,7 +77,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -107,10 +107,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 相关文献](#related-literature)
-- [3 相关任务](#related-quests)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 相关文献](#相关文献)
+- [3 相关任务](#相关任务)
+- [4 外部链接](#外部链接)
 
 ## 出场
 

@@ -83,11 +83,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -95,7 +95,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于 90%，其[移动速度](Movement_speed.md "移动速度")将翻倍，并且无法被[借机攻击](Opportunity_Attack.md "借机攻击")锁定。
 
@@ -159,11 +159,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -171,7 +171,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于 90%，其[移动速度](Movement_speed.md "移动速度")将翻倍，并且无法被[借机攻击](Opportunity_Attack.md "借机攻击")锁定。
 
@@ -235,11 +235,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -247,7 +247,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于 90%，其[移动速度](Movement_speed.md "移动速度")将翻倍，并且无法被[借机攻击](Opportunity_Attack.md "借机攻击")锁定。
 
@@ -269,10 +269,10 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 已知的古尔猎人神射手](#known-gur-hunter-sharpshooters)
+- [1 参与情况](#参与情况)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 已知的古尔猎人神射手](#已知的古尔猎人神射手)
 
 ## 参与情况
 

@@ -77,7 +77,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -121,7 +121,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -165,7 +165,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -187,7 +187,7 @@ Stats
 
 > “
 >
-> 喝酒请找吧台的[艾伦](Alan_Alyth.md "Alan Alyth")。我忙得像有两根那话儿的山羊。
+> 喝酒请找吧台的[艾伦·埃利斯](Alan_Alyth.md "艾伦·埃利斯")。我忙得像有两根那话儿的山羊。
 >
 > „
 
@@ -195,10 +195,10 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 空闲对话](#idle-banter)
-- [3 可拾取物品](#notable-loot)
-- [4 备注](#notes)
+- [1 出场](#出场)
+- [2 空闲对话](#空闲对话)
+- [3 可拾取物品](#可拾取物品)
+- [4 备注](#备注)
 
 ## 出场
 

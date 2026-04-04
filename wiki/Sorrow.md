@@ -46,7 +46,7 @@ _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获
 
 ## 注释
 
-- 通过解决[德鲁伊林地](Druid_Grove.md "德鲁伊林地")中的[闲庭图书馆谜题](Enclave_Library.md "闲庭图书馆")来解锁祭坛。
+- 通过解决[德鲁伊林地](Druid_Grove.md "德鲁伊林地")中的[闲庭图书馆](Enclave_Library.md "闲庭图书馆")来解锁祭坛。
 - [哈尔辛](Halsin.md "哈尔辛")床边的[德鲁伊手册](Druid_Notebook.md "德鲁伊手册")暗示，悲伤最初属于[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")。
 - 除了[邪念](Dark_Urge.md "邪念")以外的所有角色在第一次拾取这把长柄刀时都会发表评论。
 

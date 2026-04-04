@@ -72,19 +72,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 16 / (+3) | 16 / (+3) | 11 / (0) | 10 / (0) | 12 / (+1) |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Hypersensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 
 在阳光下，受到[光耀](Radiant.md "光耀")伤害，并在[攻击](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")。
 
-- [**吸血鬼再生**](Vampire_Regeneration.md "吸血鬼再生")
+- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
 每回合恢复 10 [生命值](HP.md "生命值")，除非处于阳光下或近期受到[光耀](Radiant.md "光耀")伤害。
 
@@ -130,19 +130,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +3 | +5 | +3 | 0 | +2 | +3 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Hypersensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 
 在阳光下，受到[光耀](Radiant.md "光耀")伤害，并在[攻击](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")。
 
-- [**吸血鬼再生**](Vampire_Regeneration.md "吸血鬼再生")
+- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
 每回合恢复 10 [生命值](HP.md "生命值")，除非处于阳光下或近期受到[光耀](Radiant.md "光耀")伤害。
 
@@ -188,19 +188,19 @@
 | --- | --- | --- | --- |
 |  | 3 | 3 | 0 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Hypersensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 
 在阳光下，受到[光耀](Radiant.md "光耀")伤害，并在[攻击](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")。
 
-- [**吸血鬼再生**](Vampire_Regeneration.md "吸血鬼再生")
+- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
 每回合恢复 10 [生命值](HP.md "生命值")，除非处于阳光下或近期受到[光耀](Radiant.md "光耀")伤害。
 

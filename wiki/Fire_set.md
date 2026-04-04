@@ -21,7 +21,7 @@
 | 黄金雏龙法杖 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | 造成额外 1d4 [火焰](Fire.md "火焰") 伤害。[火焰箭](Fire_Bolt.md "火焰箭") () 猛投一团火焰。 |
 | 火焰敏锐之帽 | [帽子](Headgear.md "帽子") ([非护甲](Headwear#Non-Armour.md#Non-Armour "头部装备")) | [火焰敏锐](Fire_Acuity.md "火焰敏锐")每当你造成 [火焰](Fire.md "火焰") 伤害时，你获得 [奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐（状态）")，持续 2 回合。 |
 | 地狱火手弩 | [主手远程](Main_Hand_Ranged.md "主手远程") ([手弩](Hand_Crossbows.md "手弩")) | [地狱潜行者](Hellstalker.md "地狱潜行者")在 [隐藏](Hiding_(Condition).md "隐藏（状态）") 或 [隐形](Invisible_(Condition).md "隐形（状态）") 时攻击可能施加 [燃烧](Burning_(Condition).md "燃烧（状态）")。[灼热射线](Scorching_Ray.md "灼热射线") ( + ) 施放为 3 级法术 (  recharge: [长休](Long_Rest.md "长休")。) |
-| 辉耀法杖 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | 远程 [法术攻击](Spell_Attack.md "法术攻击") + 1。对 [火焰](Fire.md "火焰") 伤害有抗性。[火焰箭](Fire_Bolt.md "火焰箭") () 猛投一团火焰。[火球术术](Fireball.md "火球术术") ( + ) 施放为 3 级法术 (  recharge: [长休](Long_Rest.md "长休")。) |
+| 辉耀法杖 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | 远程 [法术攻击](Spell_Attack.md "法术攻击") + 1。对 [火焰](Fire.md "火焰") 伤害有抗性。[火焰箭](Fire_Bolt.md "火焰箭") () 猛投一团火焰。[火球术](Fireball.md "火球术") ( + ) 施放为 3 级法术 (  recharge: [长休](Long_Rest.md "长休")。) |
 | 地狱法袍 | [护甲](Armour.md "护甲") ([服装](Clothing.md "服装")) | 对 [火焰](Fire.md "火焰") 伤害有抗性。[护甲等级](Armour_Class.md "护甲等级") +1 [火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖") () 施放为 4 级法术 (  recharge: [长休](Long_Rest.md "长休")。) |
 | 科温的焚化工具 | [主手近战](Main_Hand_Melee.md "主手近战") ([弯刀](Scimitars.md "弯刀")) | [烧灼器](Cauteriser.md "烧灼器")造成额外 1d4 [火焰](Fire.md "火焰")。命中时，目标开始 [燃烧](Burning_(Condition).md "燃烧（状态）")，除非它成功通过体质 [豁免检定](Saving_throw.md "豁免检定")。 |
 | 黑曜石花边长袍 | [护甲](Armour.md "护甲") ([服装](Clothing.md "服装")) | 对 [火焰](Fire.md "火焰") 伤害有 [抗性](Resistance.md "抗性")。[烈焰复仇](Flaming_Revenge.md "烈焰复仇")在成功通过敌人 [法术](Spell.md "法术") 的 [豁免检定](Saving_throw.md "豁免检定") 时，对其造成 1d4 + [熟练项加值](Proficiency_Bonus.md "熟练项加值") [火焰](Fire.md "火焰") 伤害。 |
@@ -30,7 +30,7 @@
 | 灰烬弯刀 | [主手近战](Main_Hand_Melee.md "主手近战") ([弯刀](Scimitars.md "弯刀")) | 仅限利用。造成额外 1d6 [火焰](Fire.md "火焰") 伤害。[炽热打击](Scorching_Strike.md "炽热打击") () 以炽热打击猛击，并可能使目标 [燃烧](Burning_(Condition).md "燃烧（状态）")。 |
 | 灼热复仇盾牌 | [副手近战](Off-Hand_Melee.md "副手近战") ([盾牌](Shields.md "盾牌")) | 对 [火焰](Fire.md "火焰") 伤害有 [抗性](Resistance.md "抗性")。[盾牌猛击](Shield_Blow.md "盾牌猛击") () 当敌人用近战攻击命中你时，你可以使用你的反应将其击至 [倒伏](Prone_(Condition).md "倒伏（状态）")，除非它们成功通过 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定")。[火热复仇](Blazing_Retaliation.md "火热复仇") () 蜷缩在盾牌后，使你的 [护甲等级](Armour_Class.md "护甲等级") 增加 1，并对未命中你的攻击进行灼热报复。 |
 | 铁匠的愤怒 | [主手近战](Main_Hand_Melee.md "主手近战") ([轻锤](Light_Hammers.md "轻锤")) | [炽焰斩](Searing_Smite.md "炽焰斩") ( + + ) 施放为 1 级法术 (  recharge: [长休](Long_Rest.md "长休")。) |
-| 呢喃法师之杖 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | [火焰箭？](Firebolt_q_.md "火焰箭？") () 猛投一团火焰。有 1/20 的几率改为施放 [火球术术](Fireball.md "火球术术")。 |
+| 呢喃法师之杖 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | [火焰箭？](Firebolt_q_.md "火焰箭？") () 猛投一团火焰。有 1/20 的几率改为施放 [火球术](Fireball.md "火球术")。 |
 
 ---
 *Source: [Fire set](https://bg3.wiki/wiki/Fire_set)*

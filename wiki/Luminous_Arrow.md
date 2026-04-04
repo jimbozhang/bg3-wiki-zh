@@ -1,6 +1,6 @@
 # 光耀箭
 
-**光耀箭**是一个[1级塑能学派法术](Spells.md "Spells")。它允许使用[星界形态：弓手](Starry_Form_colon__Archer.md "星界形态：弓手")的[星界之环](Circle_of_the_Stars.md "星界之环")德鲁伊对远处的目标造成光耀伤害。
+**光耀箭**是一个[法术](Spells.md "法术")。它允许使用[星界形态：弓手](Starry_Form_colon__Archer.md "星界形态：弓手")的[星界之环](Circle_of_the_Stars.md "星界之环")德鲁伊对远处的目标造成光耀伤害。
 
 ## 描述
 

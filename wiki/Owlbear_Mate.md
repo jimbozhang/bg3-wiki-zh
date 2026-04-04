@@ -63,7 +63,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -71,7 +71,7 @@
 
 枭熊在 [枭熊之怒](Owlbear's_Rage_(Condition).md "枭熊之怒（状态）") 效果下可进行 [多重攻击](Multiattack_(Owlbear).md "多重攻击（枭熊）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -107,7 +107,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -115,7 +115,7 @@
 
 枭熊在 [枭熊之怒](Owlbear's_Rage_(Condition).md "枭熊之怒（状态）") 效果下可进行 [多重攻击](Multiattack_(Owlbear).md "多重攻击（枭熊）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -151,7 +151,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -159,7 +159,7 @@
 
 枭熊在 [枭熊之怒](Owlbear's_Rage_(Condition).md "枭熊之怒（状态）") 效果下可进行 [多重攻击](Multiattack_(Owlbear).md "多重攻击（枭熊）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

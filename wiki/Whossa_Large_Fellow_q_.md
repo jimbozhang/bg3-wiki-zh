@@ -1,6 +1,6 @@
 # Whossa Large Fellow?
 
-**Whossa Large Fellow?** 是一个 [等级 2 变化学派法术](Spells.md "Spells")。它由 [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "Bigboy's Chew Toy") 提供，允许使用者以类似 [巨化](Enlarge.md "Enlarge") 的方式使自己变大。
+**Whossa Large Fellow?** 是一个 [法术](Spells.md "法术")。它由 [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "Bigboy's Chew Toy") 提供，允许使用者以类似 [巨化](Enlarge.md "Enlarge") 的方式使自己变大。
 
 ## 描述
 
@@ -37,7 +37,7 @@ UID
 持续时间：10 驱散
 
 - [体型](Creature_size.md "Creature Size") 增加。
-- 武器攻击造成 **1d4** 更多伤害。在 [力量](Strength.md "Strength") [检定](Ability_Check.md "Ability Check") 和 [豁免检定](Saving_throw.md "Saving Throw") 上获得 [优势](Advantage.md "Advantage")。
+- 武器攻击造成 **1d4** 更多伤害。在 [力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "Saving Throw") 上获得 [优势](Advantage.md "Advantage")。
 
 ## 如何习得
 

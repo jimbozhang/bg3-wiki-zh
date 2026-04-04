@@ -1,6 +1,6 @@
 # 困惑
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Confused.md "Special:WhatLinksHere/Confused")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[困惑](Special_colon_WhatLinksHere/Confused.md "困惑")的，请考虑编辑该链接，将其指向正确的页面。
 
 **困惑**可能指：
 

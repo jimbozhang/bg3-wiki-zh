@@ -2,7 +2,7 @@
 
 本文介绍的内容在正常游戏中**[无法访问](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**紧缩轨道**是一个[等级 3 法术](Spells.md "Spells")。它允许使用者将所有敌人拉向自己。
+**紧缩轨道**是一个[法术](Spells.md "法术")。它允许使用者将所有敌人拉向自己。
 
 ## 描述
 

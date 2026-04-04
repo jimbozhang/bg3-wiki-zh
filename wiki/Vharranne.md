@@ -79,15 +79,15 @@
 
 - - ## 特性
 
-- [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
 每回合一次，如果目标生命值低于其最大值，你的武器攻击会造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
@@ -95,7 +95,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -145,15 +145,15 @@
 
 - - ## 特性
 
-- [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
 每回合一次，如果目标生命值低于其最大值，你的武器攻击会造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
@@ -161,7 +161,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -211,15 +211,15 @@
 
 - - ## 特性
 
-- [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
 每回合一次，如果目标生命值低于其最大值，你的武器攻击会造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
@@ -227,7 +227,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -249,11 +249,11 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-  - [2.3 盟友](#allies)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+  - [2.3 盟友](#盟友)
 
 ## 出场
 

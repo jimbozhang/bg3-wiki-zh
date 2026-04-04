@@ -103,11 +103,11 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看见该敌人。
 
@@ -159,11 +159,11 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看见该敌人。
 
@@ -215,11 +215,11 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看见该敌人。
 
@@ -249,13 +249,13 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-- [2 伙伴好感度](#companion-approval)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 相关文献](#related-literature)
-- [5 注释与参考](#notes-and-references)
+- [1 参与度](#参与度)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 相关文献](#相关文献)
+- [5 注释与参考](#注释与参考)
 
 ## 参与度
 

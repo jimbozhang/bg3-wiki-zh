@@ -1,6 +1,6 @@
 # 毒素孢子
 
-**毒素孢子**是一种[炼金术材料](Alchemy.md "炼金术")，可以精炼成[毒素孢子升华物](Sublimate_of_Poison_Spores.md "毒素孢子升华物")，并组合制成[毒素孢子弹](Noxious_Spore_Grenade.md "毒素孢子弹")。
+**毒素孢子**是一种[炼金术](Alchemy.md "炼金术")，可以精炼成[毒素孢子升华物](Sublimate_of_Poison_Spores.md "毒素孢子升华物")，并组合制成[毒素孢子弹](Noxious_Spore_Grenade.md "毒素孢子弹")。
 
 尽管[蕈人](https://forgottenrealms.fandom.com/wiki/Myconid)厌恶暴力，但它们既拥有毒气囊又具备粉碎性肢体——这清楚地表明，[幽暗地域](Underdark.md "幽暗地域")的严酷现实已为它们配备了防御能力，以防这种厌恶感松懈。
 

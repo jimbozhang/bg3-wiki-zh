@@ -26,23 +26,23 @@
 
 但亲爱的读者，何种心之形态困扰着你？我们都受苦，但程度不同。请思考精神最常见的疾病：
 
-[残暴之心](Soothing_the_Violent_Heart.md "安抚残暴之心")
+[安抚残暴之心](Soothing_the_Violent_Heart.md "安抚残暴之心")
 
-[忧郁之心](Warming_the_Melancholy_Heart.md "温暖忧郁之心")
+[温暖忧郁之心](Warming_the_Melancholy_Heart.md "温暖忧郁之心")
 
-[怯弱之心](Emboldening_the_Craven_Heart.md "鼓励怯弱之心")
+[鼓励怯弱之心](Emboldening_the_Craven_Heart.md "鼓励怯弱之心")
 
-[虚伪之心](Confronting_the_False_Heart.md "对峙虚伪之心")
+[对峙虚伪之心](Confronting_the_False_Heart.md "对峙虚伪之心")
 
-[窥探之心](Denying_the_Prying_Heart.md "拒绝窥探之心")
+[拒绝窥探之心](Denying_the_Prying_Heart.md "拒绝窥探之心")
 
-[嫉妒之心](Reconciling_the_Jealous_Heart.md "调解嫉妒之心")
+[调解嫉妒之心](Reconciling_the_Jealous_Heart.md "调解嫉妒之心")
 
-\[本书继续承诺，有专门深入探索每种心之形态的卷册，可在[哀伤之邸](House_of_Grief.md "哀伤之邸")购买。\]
+\[哀伤之邸](House_of_Grief.md "哀伤之邸")购买。\]
 
 ## 备注
 
-- 有趣的是，本书并未提及[影心](Shadowheart.md "影心")被“诊断”为常见心之形态的[任性之心](Absolving_the_Wayward_Heart.md "赦免任性之心")
+- 有趣的是，本书并未提及[影心](Shadowheart.md "影心")被“诊断”为常见心之形态的[赦免任性之心](Absolving_the_Wayward_Heart.md "赦免任性之心")
 
 ---
 *Source: [The Ways of the Heart: An Introduction](https://bg3.wiki/wiki/The_Ways_of_the_Heart:_An_Introduction)*

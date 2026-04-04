@@ -18,7 +18,7 @@
 
 - UID `S_LOW_BonecloakApothecary_ClosedNotice` UUID `fce5168c-5046-4728-a74c-342a6f3b393d` ## 位置
 
-- 贴在[下城区](Lower_City.md "下城区")[白骨斗篷药材店](Bonecloak's_Apothecary.md "白骨斗篷药材店")的锁门旁边，坐标 X: -23 Y: -43，位于[第三幕](Act_Three.md "第三幕")，前提是[巴伦](Baelen_Bonecloak.md "巴伦·骨篷")在第一幕存活而[德里丝](Derryth_Bonecloak.md "德里丝·骨篷")没有存活
+- 贴在[下城区](Lower_City.md "下城区")[白骨斗篷药材店](Bonecloak's_Apothecary.md "白骨斗篷药材店")的锁门旁边，坐标 X: -23 Y: -43，位于[第三幕](Act_Three.md "第三幕")，前提是[巴伦·骨篷](Baelen_Bonecloak.md "巴伦·骨篷")在第一幕存活而[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")没有存活
 
 ## 文本
 

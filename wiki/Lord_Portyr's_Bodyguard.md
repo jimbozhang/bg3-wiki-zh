@@ -87,15 +87,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -103,7 +103,7 @@
 
 你已成为穿越[荒野](Wilderness.md "荒野")的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -157,15 +157,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -173,7 +173,7 @@
 
 你已成为穿越[荒野](Wilderness.md "荒野")的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -227,15 +227,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -243,7 +243,7 @@
 
 你已成为穿越[荒野](Wilderness.md "荒野")的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -289,7 +289,7 @@ UUID
 
 射出一阵荆棘。荆棘对目标造成武器伤害，然后爆炸。爆炸对目标及周围生物造成额外 1d10⁠⁠[穿刺](Piercing.md "穿刺")伤害。未命中时，荆棘仍会爆炸。豁免成功时，目标仍会受到爆炸的一半伤害。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [腿筋射击](Hamstring_Shot.md "腿筋射击") ()
@@ -300,7 +300,7 @@ UUID
 
 射击敌人的大腿，可能使其[移动速度](Movement_speed.md "移动速度")降低 50%。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

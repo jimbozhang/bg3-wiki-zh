@@ -2,7 +2,7 @@
 
 本文介绍的是硬核难度下的法术版本。关于普通版本，请参见 [骇人面容](Terrifying_Visage.md "骇人面容")。
 
-**骇人面容**是一个 [等级 5 法术](Spells.md "Spells")。它仅由 [逝去之爱的回响](Echo_of_a_Lost_Love.md "逝去之爱的回响") 使用。队伍成员无法学习此法术。
+**骇人面容**是一个 [法术](Spells.md "法术")。它仅由 [逝去之爱的回响](Echo_of_a_Lost_Love.md "逝去之爱的回响") 使用。队伍成员无法学习此法术。
 
 ## 描述
 
@@ -44,7 +44,7 @@ UID
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
 
-- 受影响的生物无法移动。恐慌的生物在 [检定](Ability_Check.md "检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上也具有 [劣势](Disadvantage.md "劣势")。
+- 受影响的生物无法移动。恐慌的生物在 [属性检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上也具有 [劣势](Disadvantage.md "劣势")。
 
 ## 如何习得
 

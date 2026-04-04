@@ -25,14 +25,14 @@ _如果您正在寻找Larian的官方Modding文档，可以在他们的[官方Mo
 
 ## 目录
 
-- [1 创建Mod](#creating-mods)
-- [2 安装Mod](#installing-mods)
-- [3 工具](#tools)
-- [4 Modding网站](#modding-sites)
-- [5 路径](#paths)
-  - [5.1 Windows](#windows)
-  - [5.2 Mac](#mac)
-  - [5.3 Linux](#linux)
+- [1 创建Mod](#创建Mod)
+- [2 安装Mod](#安装Mod)
+- [3 工具](#工具)
+- [4 Modding网站](#Modding网站)
+- [5 路径](#路径)
+  - [5.1 Windows](#Windows)
+  - [5.2 Mac](#Mac)
+  - [5.3 Linux](#Linux)
 
 ## 创建Mod
 

@@ -1,6 +1,6 @@
 # 秋水仙升华物
 
-**秋水仙升华物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[精华](Alchemy.md#Extractions "炼金术")结合，以制造[羽落术药水](Potion_of_Feather_Fall.md "羽落术药水")。
+**秋水仙升华物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[精华](Alchemy.md#Extractions "炼金术")结合，以制造[羽落术药水](Potion_of_Feather_Fall.md "羽落术药水")。
 
 这种轻盈甜美的薄雾让你头脑轻盈，感觉仿佛可以伸手触及太阳。
 

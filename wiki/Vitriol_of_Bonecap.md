@@ -1,6 +1,6 @@
 # 骨帽酸解物
 
-**骨帽酸解物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[简易毒药](Basic_Poison.md "简易毒药")。
+**骨帽酸解物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[简易毒药](Basic_Poison.md "简易毒药")。
 
 骨帽菇生长在墓地之上；其炼金术特性因邻近的死亡而带有独特的风味。
 

@@ -1,6 +1,6 @@
 # 召唤
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Summon.md "Special:WhatLinksHere/Summon")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[召唤](Special_colon_WhatLinksHere/Summon.md "召唤")的，请考虑编辑该链接，将其指向正确的页面。
 
 - [操纵死尸](Animate_Dead.md "Animate Dead")
 - [召唤元素生物](Conjure_Elemental.md "Conjure Elemental")

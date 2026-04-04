@@ -98,23 +98,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，对攻击你1.5米（5英尺）范围内盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -166,23 +166,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，对攻击你1.5米（5英尺）范围内盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -212,10 +212,10 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与
 
@@ -271,7 +271,7 @@ UUID
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与其近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与其近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 

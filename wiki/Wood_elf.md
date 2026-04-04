@@ -60,7 +60,7 @@
 - [舞光术](Dancing_Lights.md "Dancing Lights")
 - [火焰箭](Fire_Bolt.md "Fire Bolt")
 - [交友术](Friends.md "Friends")
-- [光亮术](Light.md "Light")
+- [轻型](Light.md "轻型")
 - [法师之手](Mage_Hand.md "Mage Hand")
 - [初级幻影](Minor_Illusion.md "Minor Illusion")
 - [毒气喷溅](Poison_Spray.md "Poison Spray")

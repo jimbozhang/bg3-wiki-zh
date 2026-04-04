@@ -12,29 +12,29 @@
 
 ## 目录
 
-- [1 特征](#characteristics)
-- [2 类人生物类型](#types-of-humanoids)
-  - [2.1 熊地精](#bugbear)
-    - [2.1.1 《博德之门3》中的熊地精](#bugbears-in-baldur's-gate-3)
-  - [2.2 豺狼人](#gnoll)
-    - [2.2.1 《博德之门3》中的豺狼人](#gnolls-in-baldur's-gate-3)
-  - [2.3 地精](#goblin)
-    - [2.3.1 《博德之门3》中的地精](#goblins-in-baldur's-gate-3)
-  - [2.4 大地精](#hobgoblin)
-    - [2.4.1 《博德之门3》中的大地精](#hobgoblins-in-baldur's-gate-3)
-  - [2.5 狗头人](#kobold)
-    - [2.5.1 《博德之门3》中的狗头人](#kobolds-in-baldur's-gate-3)
-  - [2.6 寇涛鱼人](#kuo-toa)
-    - [2.6.1 《博德之门3》中的寇涛鱼人](#kuo-toa_in_Baldur's_Gate_3)
-  - [2.7 鬾魊](#meazel)
-  - [2.8 影灵](#shadar-kai)
-    - [2.8.1 《博德之门3》中的影灵](#shadar-Kai_in_Baldur's_Gate_3)
-  - [2.9 狼人](#werewolf)
-    - [2.9.1 《博德之门3》中的狼人](#werewolves-in-baldur's-gate-3)
-  - [2.10 其他类人生物](#other-humanoids)
-- [3 相关物品](#related-items)
-- [4 相关法术与能力](#related-spells-and-abilities)
-- [5 外部链接](#external-links)
+- [1 特征](#特征)
+- [2 类人生物类型](#类人生物类型)
+  - [2.1 熊地精](#熊地精)
+    - [2.1.1 《博德之门3》中的熊地精](#《博德之门3》中的熊地精)
+  - [2.2 豺狼人](#豺狼人)
+    - [2.2.1 《博德之门3》中的豺狼人](#《博德之门3》中的豺狼人)
+  - [2.3 地精](#地精)
+    - [2.3.1 《博德之门3》中的地精](#《博德之门3》中的地精)
+  - [2.4 大地精](#大地精)
+    - [2.4.1 《博德之门3》中的大地精](#《博德之门3》中的大地精)
+  - [2.5 狗头人](#狗头人)
+    - [2.5.1 《博德之门3》中的狗头人](#《博德之门3》中的狗头人)
+  - [2.6 寇涛鱼人](#寇涛鱼人)
+    - [2.6.1 《博德之门3》中的寇涛鱼人](#《博德之门3》中的寇涛鱼人)
+  - [2.7 鬾魊](#鬾魊)
+  - [2.8 影灵](#影灵)
+    - [2.8.1 《博德之门3》中的影灵](#《博德之门3》中的影灵)
+  - [2.9 狼人](#狼人)
+    - [2.9.1 《博德之门3》中的狼人](#《博德之门3》中的狼人)
+  - [2.10 其他类人生物](#其他类人生物)
+- [3 相关物品](#相关物品)
+- [4 相关法术与能力](#相关法术与能力)
+- [5 外部链接](#外部链接)
 
 ## 特征
 
@@ -188,7 +188,7 @@
 
 ### 影灵
 
-主条目：[影灵](Shadar-Kai.md "影灵")和[Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)上的⁠[影灵](https://forgottenrealms.fandom.com/wiki/Shadar-Kai)
+主条目：[影灵（类人生物）](Shadar-Kai.md "影灵（类人生物）")和[Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)上的⁠[影灵](https://forgottenrealms.fandom.com/wiki/Shadar-Kai)
 
 > “
 >

@@ -95,19 +95,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友相邻时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -163,19 +163,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友相邻时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -231,19 +231,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友相邻时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -277,15 +277,15 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 空闲对话](#idle-banter)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 空闲对话](#空闲对话)
 
 ## 出场
 
-库特伯特驻扎在[石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "石化蜥蜴之门营房")外，紧邻城门。他作为镇公告员，宣布在“公爵议会的保护下”没收[博德之门](Baldur's_Gate.md "博德之门")市民剩余的牲畜。库特伯特被一小群农民包围——[特里普·巴布斯](Turnip_Bubbs.md "特里普·巴布斯")、[普劳曼·扎克](Ploughman_Zakk.md "普劳曼·扎克")、[德鲁苏维尔](Drussuvissill.md "德鲁苏维尔")和[阿斯派瑞斯·马哈利](Asparagus_Mhallie.md "阿斯派瑞斯·马哈利")，他们因库特伯特执行[恩维尔·戈塔什](Gortash.md "戈塔什")的法令而向他发泄愤怒。库特伯特试图维持和平，但实际上并不关心解决投标者的问题。
+库特伯特驻扎在[石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "石化蜥蜴之门营房")外，紧邻城门。他作为镇公告员，宣布在“公爵议会的保护下”没收[博德之门](Baldur's_Gate.md "博德之门")市民剩余的牲畜。库特伯特被一小群农民包围——[特里普·巴布斯](Turnip_Bubbs.md "特里普·巴布斯")、[普劳曼·扎克](Ploughman_Zakk.md "普劳曼·扎克")、[德鲁苏维尔](Drussuvissill.md "德鲁苏维尔")和[阿斯派瑞斯·马哈利](Asparagus_Mhallie.md "阿斯派瑞斯·马哈利")，他们因库特伯特执行[戈塔什](Gortash.md "戈塔什")的法令而向他发泄愤怒。库特伯特试图维持和平，但实际上并不关心解决投标者的问题。
 
 如果与库特伯特交谈，他会告诉队伍离开，让他去安抚人群。然而，他对队伍的态度可能因[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")上关于他们的正面/负面文章（或根本没有刊登）而有所不同，这是[阻止刊发](Stop_the_Presses.md "阻止刊发")任务的结果。
 
@@ -373,7 +373,7 @@ UUID
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器伤害与武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器伤害与武器的近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 

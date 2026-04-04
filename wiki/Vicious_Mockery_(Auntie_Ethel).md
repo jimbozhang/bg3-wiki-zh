@@ -2,7 +2,7 @@
 
 另见：[恶毒嘲笑 (消歧义)](Vicious_Mockery_(disambiguation).md)
 
-**恶毒嘲笑** 是一种 [戏法 (惑控学派)](Spells.md "Spells")。它是 [恶毒嘲笑](Vicious_Mockery.md "Vicious Mockery") 的强化变体，拥有更高的伤害和射程，并消耗一个 [附赠动作](Bonus_action.md "Bonus action")。队伍成员无法学习此法术。
+**恶毒嘲笑** 是一种 [法术](Spells.md "法术")。它是 [恶毒嘲笑](Vicious_Mockery.md "Vicious Mockery") 的强化变体，拥有更高的伤害和射程，并消耗一个 [附赠动作](Bonus_action.md "Bonus action")。队伍成员无法学习此法术。
 
 ## 描述
 

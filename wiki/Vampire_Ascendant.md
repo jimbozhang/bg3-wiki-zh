@@ -1,6 +1,6 @@
 # 吸血鬼至尊
 
-**吸血鬼至尊**是[阿斯代伦](Astarion.md "阿斯代伦")在完成[任务](The_Pale_Elf.md "苍白的精灵")并晋升后可获得的被动特性。它赋予他职业动作[至尊噬咬](Ascendant_Bite.md "至尊噬咬")和[雾遁（吸血鬼至尊）](Misty_Escape_(Vampire_Ascendant).md "雾遁（吸血鬼至尊）")，以及对武器和徒手攻击的额外1d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
+**吸血鬼至尊**是[阿斯代伦](Astarion.md "阿斯代伦")在完成[苍白的精灵](The_Pale_Elf.md "苍白的精灵")并晋升后可获得的被动特性。它赋予他职业动作[至尊噬咬](Ascendant_Bite.md "至尊噬咬")和[雾遁（吸血鬼至尊）](Misty_Escape_(Vampire_Ascendant).md "雾遁（吸血鬼至尊）")，以及对武器和徒手攻击的额外1d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
 ## 描述
 

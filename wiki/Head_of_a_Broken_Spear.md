@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：普通
 
@@ -16,7 +16,7 @@
 
 - UID `Quest_FOR_BrokenSpear_Head` UUID `6774f642-6aa3-4756-a07d-a6be51ad6f06` ## 获取地点
 
-- 由[枭熊巢穴](Owlbear_Nest.md "枭熊巢穴")中的[枭熊母亲](Owlbear.md "枭熊")携带
+- 由[枭熊巢穴](Owlbear_Nest.md "枭熊巢穴")中的[枭熊](Owlbear.md "枭熊")携带
 
 ## 备注
 

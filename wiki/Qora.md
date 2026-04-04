@@ -85,23 +85,23 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 在主手武器攻击后，可以进行两次额外攻击。
 
@@ -109,7 +109,7 @@
 
 当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 当你进行副手攻击时，可以将你的[属性值调整值](Ability_score_modifier.md "属性值调整值")加到攻击伤害上。
 
@@ -157,23 +157,23 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 在主手武器攻击后，可以进行两次额外攻击。
 
@@ -181,7 +181,7 @@
 
 当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 当你进行副手攻击时，可以将你的[属性值调整值](Ability_score_modifier.md "属性值调整值")加到攻击伤害上。
 
@@ -229,23 +229,23 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 在主手武器攻击后，可以进行两次额外攻击。
 
@@ -253,7 +253,7 @@
 
 当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 当你进行副手攻击时，可以将你的[属性值调整值](Ability_score_modifier.md "属性值调整值")加到攻击伤害上。
 

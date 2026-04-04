@@ -60,15 +60,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被蛛网地表减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -108,15 +108,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被蛛网地表减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -158,7 +158,7 @@ Stats
 
 造成 1d4[穿刺](Piercing.md "穿刺")伤害，并可能额外造成 1d4[中毒](Poison.md "中毒")伤害。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
 [螫毛飞刺](Urticating_Hairs.md "螫毛飞刺") ()
@@ -169,13 +169,13 @@ Stats
 
 向目标喷射带刺的刚毛，并可能使其[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [蛛网术](Web_(Spider).md "蛛网术 (蜘蛛)") ()
 喷射出浓密、易燃的蛛网，减缓范围内的生物并可能使其[网缚](Enwebbed_(Condition).md "网缚 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 ## 备注

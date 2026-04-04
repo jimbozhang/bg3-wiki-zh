@@ -78,15 +78,15 @@
 
 ## 特性
 
-- [**森林之握**](Grasp_of_the_Forest.md "森林之握")
+- [森林之握](Grasp_of_the_Forest.md "森林之握")
 
 武器攻击可以使目标[缠绕](Entangled_(Condition).md "缠绕（状态）")。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -130,15 +130,15 @@
 
 ## 特性
 
-- [**森林之握**](Grasp_of_the_Forest.md "森林之握")
+- [森林之握](Grasp_of_the_Forest.md "森林之握")
 
 武器攻击可以使目标[缠绕](Entangled_(Condition).md "缠绕（状态）")。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -182,15 +182,15 @@
 
 ## 特性
 
-- [**森林之握**](Grasp_of_the_Forest.md "森林之握")
+- [森林之握](Grasp_of_the_Forest.md "森林之握")
 
 武器攻击可以使目标[缠绕](Entangled_(Condition).md "缠绕（状态）")。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -220,20 +220,20 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-    - [1.1.1 泽希诺的爱之试炼](#zethino's-test-of-love)
-      - [1.1.1.1 阿斯代伦](#astarion)
-      - [1.1.1.2 盖尔](#gale)
-      - [1.1.1.3 哈尔辛](#halsin)
-      - [1.1.1.4 卡菈克](#karlach)
-      - [1.1.1.5 莱埃泽尔](#lae'zel)
-      - [1.1.1.6 明萨拉](#minthara)
-      - [1.1.1.7 影心](#shadowheart)
-      - [1.1.1.8 威尔](#wyll)
-      - [1.1.1.9 贾希拉](#jaheira)
-      - [1.1.1.10 明斯克](#minsc)
-- [2 注释](#notes)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+    - [1.1.1 泽希诺的爱之试炼](#泽希诺的爱之试炼)
+      - [1.1.1.1 阿斯代伦](#阿斯代伦)
+      - [1.1.1.2 盖尔](#盖尔)
+      - [1.1.1.3 哈尔辛](#哈尔辛)
+      - [1.1.1.4 卡菈克](#卡菈克)
+      - [1.1.1.5 莱埃泽尔](#莱埃泽尔)
+      - [1.1.1.6 明萨拉](#明萨拉)
+      - [1.1.1.7 影心](#影心)
+      - [1.1.1.8 威尔](#威尔)
+      - [1.1.1.9 贾希拉](#贾希拉)
+      - [1.1.1.10 明斯克](#明斯克)
+- [2 注释](#注释)
 
 ## 参与
 
@@ -390,7 +390,7 @@ UUID
 
 莱埃泽尔在通过泽希诺的爱之试炼后，会以赞许的目光看待玩家角色。
 
-_莱埃泽尔的[正确](Lae'zel.md "莱埃泽尔")答案取决于她是否已拒绝[维拉基斯](Vlaakith.md "维拉基斯")。_
+_莱埃泽尔的[莱埃泽尔](Lae'zel.md "莱埃泽尔")答案取决于她是否已拒绝[维拉基斯](Vlaakith.md "维拉基斯")。_
 
 - 泽希诺
   倾听。思考。她最渴望什么？

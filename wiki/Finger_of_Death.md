@@ -1,6 +1,6 @@
 # 死亡一指
 
-**死亡一指**是一个[7级死灵学派法术](Spells.md "Spells")。它仅在[米尔寇的使徒](Apostle_of_Myrkul.md "Apostle of Myrkul")消耗了一个[死灵侍僧](Necromite.md "Necromite")并拥有[收割者奖励](Reaper's_Reward_(Condition).md "Reaper's Reward (Condition)")状态后才可用。队友无法学习此法术。
+**死亡一指**是一个[法术](Spells.md "法术")。它仅在[米尔寇的使徒](Apostle_of_Myrkul.md "Apostle of Myrkul")消耗了一个[死灵侍僧](Necromite.md "Necromite")并拥有[收割者奖励](Reaper's_Reward_(Condition).md "Reaper's Reward (Condition)")状态后才可用。队友无法学习此法术。
 
 ## 描述
 

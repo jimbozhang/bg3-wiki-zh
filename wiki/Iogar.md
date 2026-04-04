@@ -108,19 +108,19 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -178,19 +178,19 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -248,19 +248,19 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -290,16 +290,16 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 月出之塔](#moonrise-towers)
-    - [1.1.2 保卫月出之塔](#defending-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 仅限硬核](#tactician-only)
-  - [2.2 战利品](#loot)
-- [3 闲聊](#idle-banter)
-- [4 备注](#notes)
+- [1 参与](#参与)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 月出之塔](#月出之塔)
+    - [1.1.2 保卫月出之塔](#保卫月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 仅限硬核](#仅限硬核)
+  - [2.2 战利品](#战利品)
+- [3 闲聊](#闲聊)
+- [4 备注](#备注)
 
 ## 参与
 

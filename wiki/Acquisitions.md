@@ -24,7 +24,7 @@
 
 到年底，我们将拥有足够的[资源](Resources.md "Resources")来收购努尔塔玛斯的船坞。
 
-多年来，[城市](Baldur's_Gate.md "Baldur's Gate")各[码头](Grey_Harbour_Docks.md "Grey Harbour Docks")征收的关税一直过低——[神殿](Water_Queen's_House.md "Water Queen's House")几乎是在补贴当地贸易。一旦我们能够收购足够的码头以[强制](Force.md "Force")提高关税，这种情况将得到纠正。我们甚至可能用利润重新为[深水城](https://forgottenrealms.fandom.com/wiki/Waterdeep)的中殿镀金。
+多年来，[博德之门](Baldur's_Gate.md "博德之门")各[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")征收的关税一直过低——[水女王之家](Water_Queen's_House.md "水女王之家")几乎是在补贴当地贸易。一旦我们能够收购足够的码头以[力场](Force.md "力场")提高关税，这种情况将得到纠正。我们甚至可能用利润重新为[深水城](https://forgottenrealms.fandom.com/wiki/Waterdeep)的中殿镀金。
 
 ## 备注
 

@@ -12,13 +12,13 @@
 
 ## 目录
 
-- [1 陷阱类型](#types-of-traps)
-  - [1.1 图库](#gallery)
-- [2 陷阱位置](#locations-of-traps)
-  - [2.1 图库](#gallery-2)
-- [3 相关内容](#involvement)
-- [4 相关特性](#related-features)
-- [5 另见](#see-also)
+- [1 陷阱类型](#陷阱类型)
+  - [1.1 图库](#图库)
+- [2 陷阱位置](#陷阱位置)
+  - [2.1 图库](#图库)
+- [3 相关内容](#相关内容)
+- [4 相关特性](#相关特性)
+- [5 另见](#另见)
 
 ## 陷阱类型
 
@@ -26,7 +26,7 @@
 
 - [绊绳](Tripwire.md "Tripwire")
 - [爆破地雷](Blast_Mine.md "Blast Mine")（三种，造成⁠[火焰](Fire.md "Fire")或⁠[火焰](Fire.md "Fire") + ⁠[中毒](Poison.md "Poison")伤害）
-- [通风口](Vent.md "Vent")（各种类型，喷出热蒸汽、[有毒烟雾](Noxious_Fumes.md "Noxious Fumes")、洒出[有毒液体](Simple_Toxin.md "Simple Toxin")或[油脂](Grease_(surface), 或在其附近激活区域效果法术如[死云术](Cloudkill.md "Cloudkill")）
+- [通风口](Vent.md "Vent")（各种类型，喷出热蒸汽、[有毒烟雾](Noxious_Fumes.md "Noxious Fumes")、洒出[简易毒素](Simple_Toxin.md "简易毒素")或[油脂](Grease_(surface), 或在其附近激活区域效果法术如[死云术](Cloudkill.md "Cloudkill")）
 - [石像鬼雕像](Gargoyle_Statue.md "Gargoyle Statue") / [石像鬼的头颅](Gargoyle_Head.md "Gargoyle Head")（以特定频率发射火焰箭/寒冰箭）
 
 ### 图库
@@ -59,7 +59,7 @@ _在[第一幕](Act_One.md "Act_One")地点：_
 - [晋升之路](Risen_Road.md "Risen Road")：收费站附近洞穴中的巨石陷阱
 - [渥金的休眠地](Waukeen's_Rest.md "Waukeen's Rest")：[感应炸药](Proximity_Explosive.md "Proximity Explosive")和花岗岩（[大理石板](Marble_Plate.md "Marble Plate")的独特类型）在[散塔林会窝点](Zhentarim_Hideout.md "Zhentarim Hideout")中。
 - [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")、特里尔塔峭壁和[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的孵化室中的[推斥地雷](Repulsion_Mine.md "Repulsion Mine")
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")孵化室中的[传送陷阱](Teleporting_Trap.md "Teleporting Trap")和排放[奇异气体](Strange_Gas.md "Strange Gas")的[气体坑](Vent.md "Vent")
+- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")孵化室中的[传送陷阱](Teleporting_Trap.md "Teleporting Trap")和排放[奇异气体](Strange_Gas.md "Strange Gas")的[通风口](Vent.md "通风口")
 - [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")隐蔽房间中的[破晓者](Dawnbreaker.md "Dawnbreaker")
 - 幽暗地域[塞伦涅信徒哨站](Sel%C3%BBnite_Outpost.md "Selûnite Outpost")中，闸门正后方的雕像在月长石供能的情况下，会向任何接近闸门的物体发射光耀冲击波
 - 幽暗地域[奥法高塔](Arcane_Tower.md "Arcane Tower")中的[奥术炮塔](Arcane_Turret.md "Arcane Turret")
@@ -72,7 +72,7 @@ _在[第二幕](Act_Two.md "Act Two")地点：_
 _在[第三幕](Act_Three.md "Act Three")地点：_
 
 - [利文顿](Rivington.md "Rivington")：走私者洞穴入口附近的通风口喷出热蒸汽（掩盖了埋在地下的爆破地雷）。
-- [脸红的美人鱼](Blushing_Mermaid.md "Blushing Mermaid")：酒馆下方[埃塞尔的巢穴](The_Blushing_Mermaid.md "The Blushing Mermaid")中的奇怪的花和气体通风口。此外，入口门设伏了[恶毒嘲笑](Vicious_Mockery.md "Vicious Mockery")法术。
+- [脸红的美人鱼](Blushing_Mermaid.md "Blushing Mermaid")：酒馆下方[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")中的奇怪的花和气体通风口。此外，入口门设伏了[恶毒嘲笑](Vicious_Mockery.md "Vicious Mockery")法术。
 - [清账屋](Counting_House.md "Counting House")：金库区域内的[传送陷阱](Teleporting_Trap.md "Teleporting Trap")以及建筑物内和[码头](The_Counting_House.md#Counting_House_docks "The Counting House")泊位上的[警报机械](Alarm_Machine.md "Alarm Machine")
 - [墓园](Graveyard_(Lower_City).md)：在[古代陵墓](Ancient_Mausoleum.md "Ancient Mausoleum")中，靠近两个华丽箱子的通风口如果被触发会产生[虚空](Void.md "Void")云
 - [拉玛吉斯高塔](Ramazith's_Tower.md "Ramazith's Tower")：[奥术炮塔](Arcane_Turret.md "Arcane Turret")、带有[死云术](Cloudkill.md "Cloudkill")的气体通风口，以及底层的一对名为[阿斯卡特拉化身](Aspect_of_Athkatla.md "Aspect of Athkatla")的雕像，可通过织法者按钮进入。[巫术杂物店地窖](Sorcerous_Vault.md "Sorcerous Vault")中的通风口产生[虚空](Void.md "Void")云或[死云术](Cloudkill.md "Cloudkill")云，而石像鬼头颅发射2d6⁠⁠[火焰](Fire.md "Fire")的[火焰箭](Fire_Bolt.md "Fire Bolt")或类似2d4⁠⁠[寒冷](Cold.md "Cold")的[寒冰箭](Arrow_of_Ice.md "Arrow of Ice")法术。

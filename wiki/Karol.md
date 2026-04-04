@@ -83,29 +83,29 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
-该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "Charisma")，作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
+该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")，作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
 ## 特性
 
-- [**冲锋**](Charger.md "Charger")
+- [冲锋](Charger.md "冲锋")
 
 让你的速度强化你的猛攻。攻击时，你可以[推击](Charger_colon__Shove.md "Charger: Shove")或造成额外的[武器伤害](Charger_colon__Weapon_Attack.md "Charger: Weapon Attack")。
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (被动特性)")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "STR")调整值或最低1点的[钝击](Bludgeoning.md "Bludgeoning")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "Bludgeoning")伤害。
 
 ## 探索者难度属性
 
@@ -157,29 +157,29 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
-该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "Charisma")，作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
+该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")，作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
 ## 特性
 
-- [**冲锋**](Charger.md "Charger")
+- [冲锋](Charger.md "冲锋")
 
 让你的速度强化你的猛攻。攻击时，你可以[推击](Charger_colon__Shove.md "Charger: Shove")或造成额外的[武器伤害](Charger_colon__Weapon_Attack.md "Charger: Weapon Attack")。
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (被动特性)")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "STR")调整值或最低1点的[钝击](Bludgeoning.md "Bludgeoning")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "Bludgeoning")伤害。
 
 ## 硬核难度属性
 
@@ -231,29 +231,29 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
-该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "Charisma")，作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
+该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")，作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
 ## 特性
 
-- [**冲锋**](Charger.md "Charger")
+- [冲锋](Charger.md "冲锋")
 
 让你的速度强化你的猛攻。攻击时，你可以[推击](Charger_colon__Shove.md "Charger: Shove")或造成额外的[武器伤害](Charger_colon__Weapon_Attack.md "Charger: Weapon Attack")。
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (被动特性)")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "STR")调整值或最低1点的[钝击](Bludgeoning.md "Bludgeoning")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "Bludgeoning")伤害。
 
 ## 技术信息
 
@@ -273,10 +273,10 @@ UUID
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 显著战利品](#notable-loot)
-- [2 闲聊](#idle-banter)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 显著战利品](#显著战利品)
+- [2 闲聊](#闲聊)
 
 ## 战斗
 

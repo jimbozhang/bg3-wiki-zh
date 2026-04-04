@@ -19,10 +19,10 @@ Race/class modding
 
 ## 目录
 
-- [1 所需工具](#tools-you'll-need)
-- [2 提取并放置 Equipment.txt](#extracting-and-placing-equipment.txt)
-- [3 编辑 Equipment.txt - 移除装备](#editing-equipment.txt_-_Removing-equipping)
-- [4 编辑 Equipment.txt - 添加/更改装备](#editing-equipment.txt_-_Adding/changing_equipment)
+- [1 所需工具](#所需工具)
+- [2 提取并放置 Equipment.txt](#提取并放置-Equipment.txt)
+- [3 编辑 Equipment.txt - 移除装备](#编辑-Equipment.txt---移除装备)
+- [4 编辑 Equipment.txt - 添加/更改装备](#编辑-Equipment.txt---添加-更改装备)
 
 ## 所需工具
 

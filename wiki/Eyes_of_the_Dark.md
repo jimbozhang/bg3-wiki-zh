@@ -16,7 +16,7 @@
 
 ## 备注
 
-- 当一个[隐藏](Hide.md "隐藏")的生物对具有（高级）黑暗视觉的生物进行[隐匿](Stealth.md "隐匿")检定，且处于（高级）黑暗视觉范围内时：
+- 当一个[躲藏](Hide.md "躲藏")的生物对具有（高级）黑暗视觉的生物进行[隐匿](Stealth.md "隐匿")检定，且处于（高级）黑暗视觉范围内时：
 - 处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")状态时，视为处于[清晰区域](Clear_Area_(Condition).md "清晰区域 (状态)")状态。
 - 处于[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)")状态时，视为处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")状态。
 - 此状态不允许角色在魔法[黑暗术](Darkness.md "黑暗术")中视物。

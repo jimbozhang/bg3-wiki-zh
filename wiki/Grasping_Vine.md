@@ -2,7 +2,7 @@
 
 关于该生物，请参见 [贪婪藤蔓（生物）](Grasping_Vine_(Creature)..md)
 
-**贪婪藤蔓** 是一个 [4级咒法学派法术](Spells.md "Spells")。它允许施法者召唤一个 [贪婪藤蔓](Grasping_Vine_(Creature).md)，可以将敌人拉向自身。
+**贪婪藤蔓** 是一个 [法术](Spells.md "法术")。它允许施法者召唤一个 [贪婪藤蔓](Grasping_Vine_(Creature).md)，可以将敌人拉向自身。
 
 ## 描述
 

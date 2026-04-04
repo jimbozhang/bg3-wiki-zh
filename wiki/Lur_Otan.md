@@ -75,15 +75,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -131,15 +131,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -187,15 +187,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 

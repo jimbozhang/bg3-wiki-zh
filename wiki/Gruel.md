@@ -20,7 +20,7 @@
 
 - UID `DEN_UNI_Thieflings_Gruel` UUID `f91f8f13-44d0-4fd0-8cc1-1ec08356f98a` ### 效果
 
-- 消耗后恢复 3d4⁠⁠[生命值](Healing.md "治疗")。
+- 消耗后恢复 3d4⁠⁠[治疗](Healing.md "治疗")。
 
 ## 获取地点
 

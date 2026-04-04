@@ -19,7 +19,7 @@
 
 ## 简要预览
 
-当处于狼9米（30英尺）范围内时，必须进行一次[DC](DC.md "DC") 15的[感知](WIS.md "感知")豁免检定，否则将陷入[恐慌](Frightened_(Condition).md)。
+当处于狼9米（30英尺）范围内时，必须进行一次[DC](DC.md "DC") 15的[感](WIS.md "感")豁免检定，否则将陷入[恐慌](Frightened_(Condition).md)。
 
 ---
 *Source: [Fear of Wolves](https://bg3.wiki/wiki/Fear_of_Wolves)*

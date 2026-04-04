@@ -91,19 +91,19 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -153,19 +153,19 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -215,19 +215,19 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -257,16 +257,16 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 终焉光芒旅店](#last-light-inn)
-    - [1.1.2 解决绑架问题](#resolve-the-abduction)
-    - [1.1.3 进攻月出之塔](#assault-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 备注](#notes)
+- [1 参与情况](#参与情况)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 终焉光芒旅店](#终焉光芒旅店)
+    - [1.1.2 解决绑架问题](#解决绑架问题)
+    - [1.1.3 进攻月出之塔](#进攻月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 备注](#备注)
 
 ## 参与情况
 

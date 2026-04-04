@@ -67,11 +67,11 @@
 
 - ## 特性
 
-- [**盲视术**](Blindsight.md "Blindsight")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -113,11 +113,11 @@
 
 - ## 特性
 
-- [**盲视术**](Blindsight.md "Blindsight")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -159,15 +159,15 @@
 
 - ## 特性
 
-- [**盲视术**](Blindsight.md "Blindsight")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**黯蚀爪**](Necrotic_Claws.md "Necrotic Claws")
+- [黯蚀爪](Necrotic_Claws.md "黯蚀爪")
 
 你的攻击额外造成 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -189,10 +189,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 画廊](#gallery)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 画廊](#画廊)
 
 ## 出场
 

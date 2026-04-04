@@ -23,14 +23,14 @@
 ## 目录
 
 - [1 头部故障排除](#head-troubleshooting)
-  - [1.1 应用变换/耳朵](#apply-transformations/Ears)
-    - [1.1.1 游戏中耳朵缺失/在地板上](#ears-missing/on_the_floor_in_Game)
-      - [1.1.1.1 检查耳朵是否有权重以及如何添加权重](#to-check-if-your-ears-have-weights-and-how-to-add-them)
-  - [1.2 缩小时头部消失](#head-disappearing-when-zooming-out)
-  - [1.3 异色瞳](#heterochromia)
-  - [1.4 耳朵未随应隐藏耳朵的头盔消失](#ears-not-disappearing-with-helmets-meant-to-hide-them)
-    - [1.4.1 其他随应隐藏耳朵的头盔消失的内容](#other-things-disappearing-with-helmets-meant-to-hide-ears)
-  - [1.5 皱纹](#wrinkles)
+  - [1.1 应用变换/耳朵](#应用变换-耳朵)
+    - [1.1.1 游戏中耳朵缺失/在地板上](#游戏中耳朵缺失-在地板上)
+      - [1.1.1.1 检查耳朵是否有权重以及如何添加权重](#检查耳朵是否有权重以及如何添加权重)
+  - [1.2 缩小时头部消失](#缩小时头部消失)
+  - [1.3 异色瞳](#异色瞳)
+  - [1.4 耳朵未随应隐藏耳朵的头盔消失](#耳朵未随应隐藏耳朵的头盔消失)
+    - [1.4.1 其他随应隐藏耳朵的头盔消失的内容](#其他随应隐藏耳朵的头盔消失的内容)
+  - [1.5 皱纹](#皱纹)
 
 # 头部故障排除
 

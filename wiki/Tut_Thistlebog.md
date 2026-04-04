@@ -79,15 +79,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -135,15 +135,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -191,15 +191,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -231,7 +231,7 @@ UUID
 
 ### 第三章
 
-通过一次被动 DC 18 的[洞悉](Insight.md "洞悉")[检定](Ability_Check.md "属性检定")，或队伍中有[贾希拉](Jaheira.md "贾希拉")，会揭示普斯特李维并非真的喝醉，只是在假装以保护咂嘴免于麻烦。如果队伍检定失败，则需要通过一次 DC 15 的[体质](Constitution.md "体质")[检定](Ability_Check.md "属性检定")来抵抗咂嘴的打嗝。
+通过一次被动 DC 18 的[洞悉](Insight.md "洞悉")[属性检定](Ability_Check.md "属性检定")，或队伍中有[贾希拉](Jaheira.md "贾希拉")，会揭示普斯特李维并非真的喝醉，只是在假装以保护咂嘴免于麻烦。如果队伍检定失败，则需要通过一次 DC 15 的[体质](Constitution.md "体质")[属性检定](Ability_Check.md "属性检定")来抵抗咂嘴的打嗝。
 
 如果所有检定都通过，咂嘴会透露[明斯克](Minsc.md "明斯克")正在前往[清账屋](The_Counting_House.md "清账屋")，而这是[九指基恩](Nine-Fingers_Keene.md "九指基恩")设下的陷阱，旨在抓住他。
 

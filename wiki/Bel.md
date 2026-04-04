@@ -105,15 +105,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -173,15 +173,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -245,15 +245,15 @@
 
 赋予附近盟友你神祇的荣耀，使其[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +10 加值。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -283,12 +283,12 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 保卫月出之塔](#defending-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与度](#参与度)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 保卫月出之塔](#保卫月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与度
 
@@ -307,7 +307,7 @@ UUID
 [命令术：逃跑](Command_colon__Flee.md "命令术：逃跑") (+ )
 命令一个生物在其回合逃离你，并且不做其他任何事。
 
-[感](Wisdom.md "感") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 冷却：每场战斗
 
@@ -346,7 +346,7 @@ UUID
 
 该区域是[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")。
 
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 冷却：每场战斗
 
@@ -368,7 +368,7 @@ UUID
 
 用火焰般的光耀吞噬目标。
 
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [摔绊](Topple.md "摔绊") () – [长棍](Quarterstaff.md "长棍")
@@ -379,7 +379,7 @@ UUID
 
 挥击一个生物，使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 

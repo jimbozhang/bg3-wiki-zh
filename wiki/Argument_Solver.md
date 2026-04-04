@@ -38,7 +38,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 此武器还赋予以下动作：
 
 [毒雾](Poison_Mist.md "毒雾") ()
-命中时，造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外⁠[毒素](Poison.md "毒素")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒（状态）")。（充能：[短休](Short_rest.md "短休")。）
+命中时，造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外⁠[中毒](Poison.md "中毒")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点
 

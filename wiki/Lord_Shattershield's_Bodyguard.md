@@ -87,15 +87,15 @@
 
 - - - - - ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -145,15 +145,15 @@
 
 - - - - - ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -203,15 +203,15 @@
 
 - - - - - ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -233,10 +233,10 @@ UUID
 
 ## 内容
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
 
 ## 参与
 

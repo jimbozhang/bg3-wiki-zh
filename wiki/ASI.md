@@ -8,7 +8,7 @@
 
 | 名称 | 描述 |
 | --- | --- |
-| 属性提升 | 将一个[属性值](Abilities.md "属性值")提高2点，或将两个属性值各提高1点，最高不超过20点。 |
+| 属性提升 | 将一个[属性](Abilities.md "属性")提高2点，或将两个属性值各提高1点，最高不超过20点。 |
 | 演员 | [演员](Actor.md "演员") |
 | 你的[魅力](Charisma.md "魅力")属性值提高1点，最高不超过20点。你获得[欺瞒](Deception.md "欺瞒")和[表演](Performance.md "表演")的[专精](Proficiency#Expertise.md#Expertise "熟练项")。 |  |
 | 备注 |  |
@@ -28,7 +28,7 @@
 | [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害") |  |
 | 你的[穿刺射击](Piercing_Shot.md "穿刺射击")也会施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")，持续时间加倍。 |  |
 | 防御式决斗 | [防御式决斗](Defensive_Duellist.md "防御式决斗") |
-| 当你被近战攻击攻击且装备着你[熟练](Proficiency.md "熟练项")的[灵巧武器](Finesse.md "灵巧")时，你可以使用[反应](Actions#Reactions.md#Reactions "动作")来提高你的[护甲等级](Armour_Class.md "护甲等级")，数值等于你的熟练项加值，可能导致攻击未命中。需要[敏捷](Dexterity.md "敏捷")至少13点。 |  |
+| 当你被近战攻击攻击且装备着你[熟练项](Proficiency.md "熟练项")的[灵巧](Finesse.md "灵巧")时，你可以使用[反应](Actions#Reactions.md#Reactions "动作")来提高你的[护甲等级](Armour_Class.md "护甲等级")，数值等于你的熟练项加值，可能导致攻击未命中。需要[敏捷](Dexterity.md "敏捷")至少13点。 |  |
 | 备注 |  |
 | 主手装备的武器必须具有灵巧属性。 |  |
 | 双持客 | [双持客](Dual_Wielder.md "双持客") |
@@ -36,7 +36,7 @@
 | [双持客：附赠护甲等级](Dual_Wielder_colon__Bonus_Armour_Class.md "双持客：附赠护甲等级") |  |
 | 当你每只手都装备近战武器时，你的[护甲等级](Armour_Class.md "护甲等级")获得+1加值。 |  |
 | 备注 |  |
-| 此专长允许生物双持非[轻型](Light_(weapon_property).md "轻型（武器属性）")的武器，前提是它们不是[双手](Two-Handed.md "双手")武器。但是，它不会授予[双武器战斗风格](Two-Weapon_Fighting.md "双武器战斗")；没有此风格，使用者在副手近战伤害掷骰中仍不会添加其[属性调整值](Ability_Modifier.md "属性调整值")。简单近战武器：[标枪](Javelins.md "标枪")、[硬头锤](Maces.md "硬头锤")、[长棍](Quarterstaves.md "长棍")和[短矛](Spears.md "短矛") 武器大师近战武器：[战斧](Battleaxes.md "战斧")、[链枷](Flails.md "链枷")、[长剑](Longswords.md "长剑")、[钉头锤](Morningstars.md "钉头锤")、[刺剑](Rapiers.md "刺剑")、[三叉戟](Tridents.md "三叉戟")、[战镐](War_Picks.md "战镐")和[战锤](Warhammers.md "战锤") |  |
+| 此专长允许生物双持非[轻型](Light_(weapon_property).md "轻型（武器属性）")的武器，前提是它们不是[双手](Two-Handed.md "双手")武器。但是，它不会授予[双武器战斗](Two-Weapon_Fighting.md "双武器战斗")；没有此风格，使用者在副手近战伤害掷骰中仍不会添加其[属性调整值](Ability_Modifier.md "属性调整值")。简单近战武器：[标枪](Javelins.md "标枪")、[硬头锤](Maces.md "硬头锤")、[长棍](Quarterstaves.md "长棍")和[短矛](Spears.md "短矛") 武器大师近战武器：[战斧](Battleaxes.md "战斧")、[链枷](Flails.md "链枷")、[长剑](Longswords.md "长剑")、[钉头锤](Morningstars.md "钉头锤")、[刺剑](Rapiers.md "刺剑")、[三叉戟](Tridents.md "三叉戟")、[战镐](War_Picks.md "战镐")和[战锤](Warhammers.md "战锤") |  |
 | 地牢探索者 | [地牢探索者：察觉](Dungeon_Delver_colon__Perception.md "地牢探索者：察觉") |
 | 你在用于探测隐藏物体的[察觉技能](Perception.md "察觉技能")检定以及用于躲避或抵抗陷阱的[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。 |  |
 | [地牢探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "地牢探索者：抵抗陷阱") |  |
@@ -51,7 +51,7 @@
 | 巨武器大师 | [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "巨武器大师：附赠攻击") |
 | 当近战武器攻击造成[重击](Critical_Hit.md "重击")或杀死一个生物时，你可以在该回合使用[附赠动作](Actions#Resources.md#Resources "动作")进行另一次近战武器攻击。 |  |
 | [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "巨武器大师：全力一击") |  |
-| 当你使用[双手](Two-Handed.md "双手")或[两用](Versatile.md "两用")近战武器（双手持握）进行攻击，且你[熟练](Proficiency.md "熟练项")该武器时，[攻击掷骰](Attack_roll.md "攻击掷骰")承受-5减值，但伤害增加10点。 |  |
+| 当你使用[双手](Two-Handed.md "双手")或[两用](Versatile.md "两用")近战武器（双手持握）进行攻击，且你[熟练项](Proficiency.md "熟练项")该武器时，[攻击掷骰](Attack_roll.md "攻击掷骰")承受-5减值，但伤害增加10点。 |  |
 | 备注 |  |
 | 全力一击是一个可切换的被动能力。 |  |
 | 重甲运用 | [重甲运用](Heavily_Armoured.md "重甲运用") |
@@ -95,7 +95,7 @@
 | 灵活移动 | [灵活移动](Mobile.md "灵活移动") |
 | 你的[移动速度](Movement_speed.md "移动速度")增加3米（10英尺）。 |  |
 | [灵活移动：回避劣势地形](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：回避劣势地形") |  |
-| 当你使用[冲刺](Dash.md "冲刺")动作时，[劣势地形](Difficult_Terrain.md "劣势地形")不会减慢你的速度。 |  |
+| 当你使用[疾走](Dash.md "疾走")动作时，[劣势地形](Difficult_Terrain.md "劣势地形")不会减慢你的速度。 |  |
 | [灵活移动：躲避借机攻击](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：躲避借机攻击") |  |
 | 如果你在进行近战攻击后移动，你不会引发该目标的[借机攻击](Opportunity_Attack.md "借机攻击")。 |  |
 | 中甲运用 | [中甲运用](Moderately_Armoured.md "中甲运用") |
@@ -108,9 +108,9 @@
 | 当目标进入范围内时，你也可以进行[借机攻击](Opportunity_Attack.md "借机攻击")。 |  |
 | 备注 |  |
 | 此攻击的伤害调整值使用力量或敏捷中较高者，即使武器没有[灵巧](Finesse.md "灵巧")属性。当使用[橡棍术](Shillelagh.md "橡棍术")时，这仍然成立。长柄武器大师也适用于长矛，尽管游戏内未说明。(见[[](#cite_note-PikesPolearmMaster-2 "[")注2]) 如果在升级时选择此专长，之后在角色表的“显著特性”下没有指示。此外，被动[长柄武器大师：附赠攻击](Polearm_Master_colon__Bonus_Attack.md "长柄武器大师：附赠攻击")和[长柄武器大师：借机攻击](Polearm_Master_colon__Opportunity_Attack.md "长柄武器大师：借机攻击")是[情境动作](Actions#Overview.md#Overview "动作")，仅在战斗中的快捷栏上可见。 |  |
-| 坚如磐石 | 将一个[属性](Ability_Scores.md "属性值")提高1点，最高不超过20点。获得该属性的[豁免检定](Saving_throw.md "豁免检定")的[熟练项](Proficiency.md "熟练项")。可用的被动特性为：[坚如磐石：力量](Resilient_colon__Strength.md "坚如磐石：力量") [坚如磐石：敏捷](Resilient_colon__Dexterity.md "坚如磐石：敏捷") [坚如磐石：体质](Resilient_colon__Constitution.md "坚如磐石：体质") [坚如磐石：智力](Resilient_colon__Intelligence.md "坚如磐石：智力") [坚如磐石：感知](Resilient_colon__Wisdom.md "坚如磐石：感知") [坚如磐石：魅力](Resilient_colon__Charisma.md "坚如磐石：魅力") |
+| 坚如磐石 | 将一个[属性值](Ability_Scores.md "属性值")提高1点，最高不超过20点。获得该属性的[豁免检定](Saving_throw.md "豁免检定")的[熟练项](Proficiency.md "熟练项")。可用的被动特性为：[坚如磐石：力量](Resilient_colon__Strength.md "坚如磐石：力量") [坚如磐石：敏捷](Resilient_colon__Dexterity.md "坚如磐石：敏捷") [坚如磐石：体质](Resilient_colon__Constitution.md "坚如磐石：体质") [坚如磐石：智力](Resilient_colon__Intelligence.md "坚如磐石：智力") [坚如磐石：感知](Resilient_colon__Wisdom.md "坚如磐石：感知") [坚如磐石：魅力](Resilient_colon__Charisma.md "坚如磐石：魅力") |
 | 备注 |  |
-| 此[属性](Ability_Scores.md "属性值")增加适用于[德鲁伊](Druid.md "德鲁伊")的[荒野形态](Wild_Shape.md "荒野形态")。[[](#cite_note-DruidWSInteractions-1 "[")注1] |  |
+| 此[属性值](Ability_Scores.md "属性值")增加适用于[德鲁伊](Druid.md "德鲁伊")的[荒野形态](Wild_Shape.md "荒野形态")。[[](#cite_note-DruidWSInteractions-1 "[")注1] |  |
 | 仪式施法者 | [仪式施法者：法术研习](Ritual_Caster_colon__Free_Spells.md "仪式施法者：法术研习") |
 | 你学习两个你选择的[仪式](Spells#Ritual_spells.md#Ritual_spells "法术")法术。 |  |
 | 备注 |  |

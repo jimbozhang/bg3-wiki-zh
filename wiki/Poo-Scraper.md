@@ -1,6 +1,6 @@
 # 粪铲
 
-**粪铲**是[匕首](Daggers.md "Daggers")武器家族的一种普通、非魔法变体。它是一种单手挥舞的[简易近战武器](Weapons.md "Weapons")。作为一种[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都可以在没有特殊训练的情况下双持。其设计非常适合被[投掷](Thrown.md "Thrown")向敌人作为投射物。
+**粪铲**是[匕首](Daggers.md "Daggers")武器家族的一种普通、非魔法变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为一种[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都可以在没有特殊训练的情况下双持。其设计非常适合被[投掷攻击](Thrown.md "投掷攻击")向敌人作为投射物。
 
 丰饶而令人作呕的深渊，还不是这东西待过的最糟糕的地方。
 
@@ -17,7 +17,7 @@
 单手
 [灵巧](Finesse.md "Finesse")
 [轻型](Light_(weapon_property).md "轻型 (武器属性)")
-[投掷](Thrown.md "投掷")
+[投掷攻击](Thrown.md "投掷攻击")
 近战：1.5 米 (5 英尺)
 重量：0.45 千克 (0.9 磅)
 价格：2 金币

@@ -101,11 +101,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")的时间延长一倍。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在进行徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -165,11 +165,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")的时间延长一倍。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在进行徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -221,7 +221,7 @@
 
 ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -233,15 +233,15 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")的时间延长一倍。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在进行徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深入骨髓。
 

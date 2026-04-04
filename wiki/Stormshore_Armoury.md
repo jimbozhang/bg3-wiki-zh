@@ -25,13 +25,13 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 伙伴互动](#companion-interactions)
-- [3 附近遭遇](#encounters-nearby)
-- [4 相关地点](#related-locations)
-- [5 角色](#characters)
-- [6 库存中的重要物品](#notable-items-in-stock)
-- [7 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+- [2 伙伴互动](#伙伴互动)
+- [3 附近遭遇](#附近遭遇)
+- [4 相关地点](#相关地点)
+- [5 角色](#角色)
+- [6 库存中的重要物品](#库存中的重要物品)
+- [7 注释与参考](#注释与参考)
 
 ## 概述
 
@@ -39,7 +39,7 @@
 
 有两名商人在军械库工作：武器匠[炮仗菲兹](Fytz.md "Fytz")和护甲匠[沮丧的芬东森](Gloomy_Fentonson.md "沮丧的芬东森")。
 
-菲兹携带[铁匠宝箱钥匙](Blacksmith's_Chest_Key.md "铁匠宝箱钥匙")，可以打开她身后那个锁定的、红色轮廓的重箱子。里面包含两件带有+1[惑控学派](Enchantment.md "惑控学派")的随机不常见武器。沮丧的芬东森口袋里也有一把[钥匙](Key_(Gloomy_Fentonson).md "钥匙 (沮丧的芬东森)")，但这把钥匙打不开“他”那部分商店里的任何箱子。<sup>[\[1\]](#cite_note-1)</sup> 这个箱子包含六套带有+2[惑控学派](Enchantment.md "惑控学派")的稀有护甲（每种类型各两套：轻型、中型和重型），数量是芬东森库存的两倍。两个箱子都需要通过DC 15的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁。
+菲兹携带[铁匠宝箱钥匙](Blacksmith's_Chest_Key.md "铁匠宝箱钥匙")，可以打开她身后那个锁定的、红色轮廓的重箱子。里面包含两件带有+1[惑控学派](Enchantment.md "惑控学派")的随机不常见武器。沮丧的芬东森口袋里也有一把[钥匙](Key_(Gloomy_Fentonson).md "钥匙 (沮丧的芬东森)")，但这把钥匙打不开“他”那部分商店里的任何箱子。<sup>[\[1\]](#cite_note-1)</sup> 这个箱子包含六套带有+2[惑控学派](Enchantment.md "惑控学派")的稀有护甲（每种类型各两套：轻型、中型和重型），数量是芬东森库存的两倍。两个箱子都需要通过DC 15的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来撬锁。
 
 芬东森和菲兹对队伍的[态度](Attitude.md "态度")可能会根据任务[阻止刊发](Stop_the_Presses.md "阻止刊发")的结果而改变。
 
@@ -57,7 +57,7 @@
 
 ## 附近遭遇
 
-在军械库对面的沙地上有一只猫[巴希克](Barsik.md "巴希克")。如果队伍通过[动物交谈](Speak_with_Animals.md "动物交谈")与他交谈，他会透露自己是女神[莎瑞丝](https://forgottenrealms.fandom.com/wiki/Sharess)的传教士。如果队伍同意听取他“宗教”的信条，巴希克可以说服去缓解[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")的孤独，如果她的丈夫[巴伦](Baelen_Bonecloak.md "巴伦")在[第一幕](Act_One.md "第一幕")的[幽暗地域](Underdark.md "幽暗地域")中没有幸存下来。
+在军械库对面的沙地上有一只猫[巴希克](Barsik.md "巴希克")。如果队伍通过[动物交谈](Speak_with_Animals.md "动物交谈")与他交谈，他会透露自己是女神[莎瑞丝](https://forgottenrealms.fandom.com/wiki/Sharess)的传教士。如果队伍同意听取他“宗教”的信条，巴希克可以说服去缓解[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")的孤独，如果她的丈夫[巴伦·骨篷](Baelen_Bonecloak.md "巴伦·骨篷")在[第一幕](Act_One.md "第一幕")的[幽暗地域](Underdark.md "幽暗地域")中没有幸存下来。
 
 如果被说服，巴希克会跑开，之后可以在[白骨斗篷药材店](Bonecloak's_Apothecary.md "白骨斗篷药材店")遇到他。
 

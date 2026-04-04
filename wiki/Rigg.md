@@ -78,7 +78,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -86,7 +86,7 @@
 
 如果目标处于[伏击](Ambushed_(Condition).md "Ambushed (Condition)")状态，可进行[多重攻击](Multiattack_(Doppelganger).md "Multiattack (Doppelganger)")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -134,7 +134,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -142,7 +142,7 @@
 
 如果目标处于[伏击](Ambushed_(Condition).md "Ambushed (Condition)")状态，可进行[多重攻击](Multiattack_(Doppelganger).md "Multiattack (Doppelganger)")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -190,11 +190,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**读心者**](Mindreader.md "Mindreader")
+- [读心者](Mindreader.md "读心者")
 
 远程攻击对此生物具有[劣势](Disadvantage.md "Disadvantage")。
 
@@ -202,7 +202,7 @@
 
 如果目标处于[伏击](Ambushed_(Condition).md "Ambushed (Condition)")状态，可进行[多重攻击](Multiattack_(Doppelganger).md "Multiattack (Doppelganger)")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -238,12 +238,12 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-  - [2.3 盟友](#allies)
-- [3 相关任务](#related-quests)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+  - [2.3 盟友](#盟友)
+- [3 相关任务](#相关任务)
 
 ## 参与
 

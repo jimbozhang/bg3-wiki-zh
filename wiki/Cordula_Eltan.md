@@ -88,11 +88,11 @@
 
 - - - - - - ## 特性
 
-- [**中甲运用**](Moderately_Armoured.md "Moderately Armoured")
+- [中甲运用](Moderately_Armoured.md "中甲运用")
 
 你获得中甲和盾牌的熟练项，并且你的[力量](Strength.md "Strength")或[敏捷](Dexterity.md "Dexterity")提高 1 点，最高不超过 20。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开你触及范围的敌人。
 
@@ -146,11 +146,11 @@
 
 - - - - - - ## 特性
 
-- [**中甲运用**](Moderately_Armoured.md "Moderately Armoured")
+- [中甲运用](Moderately_Armoured.md "中甲运用")
 
 你获得中甲和盾牌的熟练项，并且你的[力量](Strength.md "Strength")或[敏捷](Dexterity.md "Dexterity")提高 1 点，最高不超过 20。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开你触及范围的敌人。
 
@@ -204,11 +204,11 @@
 
 - - - - - - ## 特性
 
-- [**中甲运用**](Moderately_Armoured.md "Moderately Armoured")
+- [中甲运用](Moderately_Armoured.md "中甲运用")
 
 你获得中甲和盾牌的熟练项，并且你的[力量](Strength.md "Strength")或[敏捷](Dexterity.md "Dexterity")提高 1 点，最高不超过 20。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开你触及范围的敌人。
 
@@ -234,16 +234,16 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第三幕](#act-three)
-  - [1.2 尾声](#epilogue)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 参考文献](#references)
+- [1 参与情况](#参与情况)
+  - [1.1 第三幕](#第三幕)
+  - [1.2 尾声](#尾声)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 参考文献](#参考文献)
 
 ## 参与情况
 
@@ -263,7 +263,7 @@ Stats
   - [感知] _探查她的思想。_
   - 边境之刃拯救了无数生命。他仍然是你心目中的那个人。
 
-她随后交出[《安苏传奇》](The_Legend_of_Ansur.md "The Legend of Ansur")，并指引冒险队唤醒城市的[龙族守护者](Ansur.md "Ansur")，以保护博德之门免受[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")的侵害。任何检定失败都会导致与她及其守卫、[肌肉男波洛](Pollo_the_Muscle.md "Pollo the Muscle")和[旺达·图勒穆尔](Wanda_Tullermoor.md "Wanda Tullermoor")的战斗。
+她随后交出[《安苏传奇》](The_Legend_of_Ansur.md "The Legend of Ansur")，并指引冒险队唤醒城市的[安苏](Ansur.md "安苏")，以保护博德之门免受[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")的侵害。任何检定失败都会导致与她及其守卫、[肌肉男波洛](Pollo_the_Muscle.md "Pollo the Muscle")和[旺达·图勒穆尔](Wanda_Tullermoor.md "Wanda Tullermoor")的战斗。
 
 ### 尾声
 
@@ -321,7 +321,7 @@ Stats
 
 \+ 1d4 + 1⁠[力场](Force.md "Force")
 
-创造**三枚**魔法力场飞镖，每枚对目标造成⁠[1d4 + 1 力场](Force.md "Force")伤害。
+创造**三枚**魔法力场飞镖，每枚对目标造成⁠[力场](Force.md "力场")伤害。
 
 飞镖总是命中目标，并且可以单独瞄准。
 

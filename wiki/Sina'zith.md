@@ -89,11 +89,11 @@
 
 如果你的敏捷更高，使用[武僧武器](Monk.md#Monk_weapons "武僧")和徒手攻击时，攻击将随你的敏捷而非力量调整。
 
-- [**军事奇才**](Martial_Prodigy.md "军事奇才")
+- [军事奇才](Martial_Prodigy.md "军事奇才")
 
 获得[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")、[短剑](Shortswords.md "短剑")、[长剑](Longswords.md "长剑")和[巨剑](Greatswords.md "巨剑")的熟练项。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

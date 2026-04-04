@@ -94,23 +94,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -160,27 +160,27 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "坚韧复仇")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你通过[借机攻击](Opportunity_Attack.md "借机攻击")命中敌人，你的[移动速度](Movement_speed.md "移动速度")在下一回合增加4.5米/15英尺。
 
@@ -202,13 +202,13 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 月出之塔](#moonrise-towers)
-  - [1.2 保卫月出之塔](#defending-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 硬核及以上难度](#tactician-and-above)
-  - [2.2 可拾取战利品](#notable-loot)
+- [1 参与度](#参与度)
+  - [1.1 月出之塔](#月出之塔)
+  - [1.2 保卫月出之塔](#保卫月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 硬核及以上难度](#硬核及以上难度)
+  - [2.2 可拾取战利品](#可拾取战利品)
 
 ## 参与度
 
@@ -216,7 +216,7 @@ UUID
 
 纳迪首次出现在[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")，站在监狱可通行空间的尽头。
 
-如果队伍试图⁠[帮助侏儒](Rescue_Wulbren.md "解救乌尔布伦")和⁠[提夫林逃离](Rescue_the_Tieflings.md "解救提夫林")监狱，当牢房被打开（无论是由队伍还是典狱长打开）时，纳迪可以加入[典狱长](The_Warden.md "典狱长")追捕逃犯的行列。如果队伍不干预，纳迪可以与囚犯交战并杀死他们。
+如果队伍试图⁠[解救乌尔布伦](Rescue_Wulbren.md "解救乌尔布伦")和⁠[解救提夫林](Rescue_the_Tieflings.md "解救提夫林")监狱，当牢房被打开（无论是由队伍还是典狱长打开）时，纳迪可以加入[典狱长](The_Warden.md "典狱长")追捕逃犯的行列。如果队伍不干预，纳迪可以与囚犯交战并杀死他们。
 
 ### 保卫月出之塔
 

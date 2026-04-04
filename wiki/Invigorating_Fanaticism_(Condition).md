@@ -2,7 +2,7 @@
 
 **狂热振奋**
 
-- 对其神圣信仰的不可动摇的信念，使该生物获得对所有[物理伤害](Resistance.md "Resistance")和可能使目标[流血](Bleeding_(Condition).md "Bleeding (Condition)")的攻击的[抗性](Resistance.md "Resistance")。
+- 对其神圣信仰的不可动摇的信念，使该生物获得对所有[抗性](Resistance.md "抗性")和可能使目标[流血](Bleeding_(Condition).md "Bleeding (Condition)")的攻击的[抗性](Resistance.md "Resistance")。
 
 ## 授予
 
@@ -25,7 +25,7 @@ _维基数据库中未定义_
 
 ## 简要预览
 
-对所有[物理伤害](Resistance.md "Resistance")和可能使被攻击目标[流血](Bleeding_(Condition).md "Bleeding (Condition)")的攻击的[抗性](Resistance.md "Resistance")。
+对所有[抗性](Resistance.md "抗性")和可能使被攻击目标[流血](Bleeding_(Condition).md "Bleeding (Condition)")的攻击的[抗性](Resistance.md "Resistance")。
 
 ---
 *Source: [Invigorating Fanaticism (Condition)](https://bg3.wiki/wiki/Invigorating_Fanaticism_(Condition)*

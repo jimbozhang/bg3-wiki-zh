@@ -89,15 +89,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -137,15 +137,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -185,15 +185,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -215,16 +215,16 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 值得一提的战利品](#notable-loot)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 值得一提的战利品](#值得一提的战利品)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 外部链接](#外部链接)
 
 ## 参与
 
-在清账屋前台与米德霍尼交谈时，背景中会进行一次被动DC 10的[洞悉](Insight.md "Insight")[检定](Ability_Check.md "Ability check")。如果成功，会揭示米德霍尼因某事而心神不宁。当指出这一点时，米德霍尼不安地解释说，一个“全副武装的大块头”刚刚带[总管银行家耀须](Rakath_Glitterbeard.md "Rakath Glitterbeard")去了下层保险库，他很担心他。
+在清账屋前台与米德霍尼交谈时，背景中会进行一次被动DC 10的[洞悉](Insight.md "Insight")[属性检定](Ability_Check.md "属性检定")。如果成功，会揭示米德霍尼因某事而心神不宁。当指出这一点时，米德霍尼不安地解释说，一个“全副武装的大块头”刚刚带[拉凯斯·耀须](Rakath_Glitterbeard.md "拉凯斯·耀须")去了下层保险库，他很担心他。
 
 然后，队伍可以进行一次检定，提出下去看看是否一切安好：
 
@@ -239,7 +239,7 @@ UUID
 - [野蛮人] [威吓] 一切都会保持完好。只要你让我进入你们的保险库。 (DC 15)
 - [邪恶牧师] [威吓] 一切都不好。这个地方即将遭受可怕的诅咒——除非你让我进入保险库。 (DC 15)
 
-如果检定成功，米德霍尼会接受他们的提议，并给他们一张[临时保险库通行证](Bank_Pass.md "Bank Pass")。
+如果检定成功，米德霍尼会接受他们的提议，并给他们一张[银行通行证](Bank_Pass.md "银行通行证")。
 
 如果被动洞悉检定失败，队伍可以请求米德霍尼允许进入保险库。必须说服他或让他相信，例如花费10,000金币购买一个账户和他们自己的保险库通行证。如果队伍中有[贾希拉](Jaheira.md "Jaheira")，则有一种方法可用；她可以与米德霍尼谈论那个去了保险库的人。当米德霍尼问队伍他是谁时，这允许进行几次更容易的检定以获得临时保险库通行证：
 

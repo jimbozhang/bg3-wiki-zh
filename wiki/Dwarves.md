@@ -30,7 +30,7 @@
 可在黑暗中看清12米（40英尺）内的事物。
 
 [矮人活力](Dwarven_Resilience.md "矮人活力")
-你在对抗[中毒](Poisoned_(Condition).md "中毒（状态）")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并且对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+你在对抗[中毒](Poisoned_(Condition).md "中毒（状态）")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并且对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 ## 亚种
 

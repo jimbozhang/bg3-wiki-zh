@@ -5,7 +5,7 @@
 - 一种罕见的毒药使受害者生病。
 - 无法执行任何[动作](Actions.md "动作")或[反应](Reactions.md "反应")。
 - 自动失败任何[豁免检定](Saving_throws.md "豁免检定")。
-- 所有对目标的[攻击](Advantage.md "攻击")在3米（10英尺）内具有[优势](Advantage.md "优势")和[重击](Critical_Hit.md "重击")。
+- 所有对目标的[优势](Advantage.md "优势")在3米（10英尺）内具有[优势](Advantage.md "优势")和[重击](Critical_Hit.md "重击")。
 - 免疫[倒伏](Prone_(status_group).md)
 - 免疫[中毒](Poisoned_(status_group).md)
 
@@ -33,7 +33,7 @@
 - 一种罕见的毒药使受害者生病。
 - 无法执行任何[动作](Actions.md "动作")或[反应](Reactions.md "反应")。
 - 自动失败任何[豁免检定](Saving_throws.md "豁免检定")。
-- 所有对目标的[攻击](Advantage.md "攻击")在3米（10英尺）内具有[优势](Advantage.md "优势")和[重击](Critical_Hit.md "重击")。
+- 所有对目标的[优势](Advantage.md "优势")在3米（10英尺）内具有[优势](Advantage.md "优势")和[重击](Critical_Hit.md "重击")。
 - 免疫[倒伏](Prone_(status_group).md)
 
 ## 简要预览

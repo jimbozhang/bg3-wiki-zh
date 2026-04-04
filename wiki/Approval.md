@@ -4,7 +4,7 @@
 
 游戏中的好感度/反感度弹出提示。
 
-在[_博德之门3_](Baldur's_Gate_3.md "博德之门3")中，每个[伙伴](Companions.md "伙伴")对玩家角色都有好感度评级。**好感度**或**反感度**是根据在对话、任务、战斗等中做出的特定选择获得的。<sup>[\[1\]](#cite_note-1)</sup><sup>[\[2\]](#cite_note-2)</sup>
+在[博德之门3](Baldur's_Gate_3.md "博德之门3")中，每个[伙伴](Companions.md "伙伴")对玩家角色都有好感度评级。**好感度**或**反感度**是根据在对话、任务、战斗等中做出的特定选择获得的。<sup>[\[1\]](#cite_note-1)</sup><sup>[\[2\]](#cite_note-2)</sup>
 
 该系统在每个角色的个人任务以及他们对玩家角色行动的反应中起着关键作用；某些结果只有在伙伴对玩家角色的好感度足够高时才会发生。
 
@@ -12,13 +12,13 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 低好感度](#low-approval)
-- [3 阈值](#thresholds)
-- [4 按角色的好感度](#approval-by-character)
-- [5 按幕的好感度](#approval-by-act)
-- [6 注释](#notes)
-- [7 参见](#see-also)
+- [1 概述](#概述)
+- [2 低好感度](#低好感度)
+- [3 阈值](#阈值)
+- [4 按角色的好感度](#按角色的好感度)
+- [5 按幕的好感度](#按幕的好感度)
+- [6 注释](#注释)
+- [7 参见](#参见)
 
 ## 概述
 
@@ -58,35 +58,35 @@
 
 [盖尔](Gale/approval.md "盖尔/好感度")
 
-[哈尔辛](Halsin/Approval.md "哈尔辛/好感度")
+[好感度](Halsin/Approval.md "好感度")
 
-[贾希拉](Jaheira/Approval.md "贾希拉/好感度")
+[好感度](Jaheira/Approval.md "好感度")
 
-[卡菈克](Karlach/Approval.md "卡菈克/好感度")
+[好感度](Karlach/Approval.md "好感度")
 
-[莱埃泽尔](Lae'zel/Approval.md "莱埃泽尔/好感度")
+[好感度](Lae'zel/Approval.md "好感度")
 
-[明斯克](Minsc/Approval.md "明斯克/好感度")
+[好感度](Minsc/Approval.md "好感度")
 
-[明萨拉](Minthara/Approval.md "明萨拉/好感度")
+[好感度](Minthara/Approval.md "好感度")
 
-[影心](Shadowheart/Approval.md "影心/好感度")
+[好感度](Shadowheart/Approval.md "好感度")
 
-[威尔](Wyll/Approval.md "威尔/好感度")
+[好感度](Wyll/Approval.md "好感度")
 
 ## 按幕的好感度
 
-[第一幕](Act_One/Approval.md "第一幕/好感度")
+[好感度](Act_One/Approval.md "好感度")
 
-[第二幕](Act_Two/Approval.md "第二幕/好感度")
+[好感度](Act_Two/Approval.md "好感度")
 
-[第三幕](Act_Three/Approval.md "第三幕/好感度")
+[好感度](Act_Three/Approval.md "好感度")
 
 ## 注释
 
 1. [↑](#cite_ref-1) 好感度通常根据符合条件的伙伴在合格事件期间与玩家角色的接近程度而变化。如果合格事件发生时伙伴与玩家角色的距离足够远，好感度不会发生变化。伙伴的[状态](Conditions.md "状态")无关紧要。例如，[沉睡](Sleeping_(Condition).md "沉睡（状态）")或[死亡](Dead_(Condition).md "死亡（状态）")对好感度变化没有影响，尽管它可能阻止某些原本会导致此类变化的对话发生。
 1. [↑](#cite_ref-2) 有充分证据表明，游戏中有许多情况好感度变化*应该*触发但并未触发。此 [Nexusmods 页面](https://www.nexusmods.com/baldursgate3/mods/17297) 解释了该问题，并通过模组提供了解决方案。
-1. [↑](#cite_ref-3) 在游戏后期加入队伍的伙伴有时有机会根据玩家角色的选择产生大的好感度变化。例如，在[第二幕](Act_Two.md "第二幕")中从土地上解除[幽影诅咒](Shadow_Curse.md "幽影诅咒")后，对[赛尼尔](Thaniel.md "赛尼尔")表现仁慈或宽宏大量，仅通过该对话事件就能从[哈尔辛](Halsin/Approval.md "哈尔辛/好感度")那里获得 20 点好感度。
+1. [↑](#cite_ref-3) 在游戏后期加入队伍的伙伴有时有机会根据玩家角色的选择产生大的好感度变化。例如，在[第二幕](Act_Two.md "第二幕")中从土地上解除[幽影诅咒](Shadow_Curse.md "幽影诅咒")后，对[赛尼尔](Thaniel.md "赛尼尔")表现仁慈或宽宏大量，仅通过该对话事件就能从[好感度](Halsin/Approval.md "好感度")那里获得 20 点好感度。
 1. [↑](#cite_ref-4) 一旦与伙伴获得最大好感度，继续查看其好感度消息的唯一方法是使用[模组](https://www.nexusmods.com/baldursgate3/mods/4675/)。
 
 ## 参见

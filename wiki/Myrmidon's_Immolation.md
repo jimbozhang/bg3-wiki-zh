@@ -1,6 +1,6 @@
 # 元素执政官自燃
 
-**元素执政官自燃**是[火元素执政官](Fire_Myrmidon.md "火元素执政官")可用的动作，包括在[荒野形态：火元素执政官](Wild_Shape_colon__Fire_Myrmidon.md "荒野形态：火元素执政官")形态下。它会短暂地使执政官[加速](Haste.md "加速术")，并授予一个额外的[动作](Actions.md#Resources "动作")。
+**元素执政官自燃**是[火元素执政官](Fire_Myrmidon.md "火元素执政官")可用的动作，包括在[荒野形态：火元素执政官](Wild_Shape_colon__Fire_Myrmidon.md "荒野形态：火元素执政官")形态下。它会短暂地使执政官[加速术](Haste.md "加速术")，并授予一个额外的[动作](Actions.md#Resources "动作")。
 
 ## 描述
 

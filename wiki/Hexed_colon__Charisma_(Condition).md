@@ -3,7 +3,7 @@
 **脆弱诅咒：魅力**
 
 - 生物受到来自施法者的额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 它在[魅力](Charisma.md "魅力") [检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 它在[魅力](Charisma.md "魅力") [属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 [被诅咒](Cursed_(status_group).md)
 

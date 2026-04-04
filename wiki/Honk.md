@@ -86,7 +86,7 @@ _高歌鲁特琴_ 餐厅的“长椅”服务员
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -134,7 +134,7 @@ _高歌鲁特琴_ 餐厅的“长椅”服务员
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -182,7 +182,7 @@ _高歌鲁特琴_ 餐厅的“长椅”服务员
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

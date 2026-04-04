@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [1 属性](#properties)
-  - [1.1 动作](#actions)
-- [2 刺剑列表](#list-of-rapiers)
-- [3 遗留内容](#legacy-content)
-- [4 外部链接](#external-links)
+- [1 属性](#属性)
+  - [1.1 动作](#动作)
+- [2 刺剑列表](#刺剑列表)
+- [3 遗留内容](#遗留内容)
+- [4 外部链接](#外部链接)
 
 ## 属性
 
@@ -44,7 +44,7 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 | [刺剑 +1](Rapier_+1.md "刺剑 +1") | +1 | 1d8 + 1 | 穿刺 | 0.9公斤 / 1.8磅 | 85 |  |
 | [断裂之刃](Rupturing_Blade.md "断裂之刃") | +1 | 1d8 + 1 | 穿刺 | 0.9公斤 / 1.8磅 | 130 | [灼热血液](Searing_Blood.md "灼热血液") () 劈砍敌人，对其造成额外的熟练项加值⁠⁠[火焰](Fire.md "火焰")伤害和1d6⁠⁠[火焰](Fire.md "火焰")伤害，同时您自己受到1d6⁠⁠[挥砍](Slashing.md "挥砍")伤害。此外，攻击可能使目标[流血](Bleeding_(Condition).md "流血（状态）")和[燃烧](Burning_(Condition).md "燃烧（状态）")。（充能：[短休](Short_rest.md "短休")。） |
 | [尖叫之剑](Sword_of_Screams.md "尖叫之剑") |  | 1d8 / 1d4 | 穿刺 / 心灵 | 0.9公斤 / 1.8磅 | 130 |  |
-| [和声决斗者](Harmonic_Dueller.md "和声决斗者") | +1 | 1d8 + 1 | 穿刺 | 0.9公斤 / 1.8磅 | 380 | [老练调谐](Mellow_Harmony.md "老练调谐") () 您进行一次DC 15的[表演](Performance.md "表演")[检定](Ability_Check.md "属性检定")，成功则使您所有近战武器攻击获得等于您[魅力调整值](Charisma.md "魅力")的额外伤害（最低1点额外伤害）。（充能：[短休](Short_rest.md "短休")。） |
+| [和声决斗者](Harmonic_Dueller.md "和声决斗者") | +1 | 1d8 + 1 | 穿刺 | 0.9公斤 / 1.8磅 | 380 | [老练调谐](Mellow_Harmony.md "老练调谐") () 您进行一次DC 15的[表演](Performance.md "表演")[属性检定](Ability_Check.md "属性检定")，成功则使您所有近战武器攻击获得等于您[魅力](Charisma.md "魅力")的额外伤害（最低1点额外伤害）。（充能：[短休](Short_rest.md "短休")。） |
 | [刺剑 +2](Rapier_+2.md "刺剑 +2") | +2 | 1d8 + 2 | 穿刺 | 0.9公斤 / 1.8磅 | 190 |  |
 | [地狱刺剑](Infernal_Rapier.md "地狱刺剑") | +2 | 1d8 + 2 | 穿刺 | 0.9公斤 / 1.8磅 | 960 | [高等施法](High_Spellcasting_(+1).md "高等施法（+1）")您获得+1的[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值。[近战施法者](Melee_Caster.md "近战施法者")受影响实体的敏捷[调整值](Ability_scores#Ability_score_modifiers.md#Ability_score_modifiers "属性值")替换为其[施法关键属性调整值](Ability_scores#Spellcasting_ability.md#Spellcasting_ability "属性值")，以进行[攻击掷骰](Attack_roll.md "攻击掷骰")。 [异界誓盟：坎比翁](Planar_Ally_colon__Cambion.md "异界誓盟：坎比翁") () 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） |
 | [培罗的阳光之刃](Pelorsun_Blade.md "培罗的阳光之刃") | +1 | 1d8 + 1 / 1d4 | 穿刺 / 光耀 | 0.9公斤 / 1.8磅 | 960 | [亡灵之殇](Undead_Bane.md "亡灵之殇")此武器的[攻击掷骰](Attack_roll.md "攻击掷骰")对不死生物具有[优势](Advantage.md "优势")。[[参见：错误](Undead_Bane#Bugs.md#Bugs "亡灵之殇")] |

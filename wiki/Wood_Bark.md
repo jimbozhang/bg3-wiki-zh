@@ -1,6 +1,6 @@
 # 树皮
 
-**树皮**是一种[炼金术材料](Alchemy.md "炼金术")。将3个树皮研磨成[树皮盐](Salts_of_Tree_Bark.md "树皮盐")，用于制作[树肤术灵药](Elixir_of_Barkskin.md "树肤术灵药")。
+**树皮**是一种[炼金术](Alchemy.md "炼金术")。将3个树皮研磨成[树皮盐](Salts_of_Tree_Bark.md "树皮盐")，用于制作[树肤术灵药](Elixir_of_Barkskin.md "树肤术灵药")。
 
 这种树皮的纹理在硬化树液的结节处扭曲且多瘤，触感既粗糙又光滑。
 

@@ -93,11 +93,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -149,11 +149,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -205,11 +205,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -239,10 +239,10 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
 
 ## 参与
 
@@ -276,7 +276,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -298,7 +298,7 @@ UUID
 
 对敌人进行非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
@@ -314,7 +314,7 @@ UUID
 
 一次强力攻击，可能使目标[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
 ### 值得一提的战利品

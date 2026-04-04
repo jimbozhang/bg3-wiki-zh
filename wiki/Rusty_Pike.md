@@ -1,6 +1,6 @@
 # 锈长矛
 
-**锈长矛**是[长矛](Pikes.md "Pikes")武器家族的一种常见变体。它是一种需要双手持握的[近战武器](Weapons.md "Weapons")。它为使用者在近战中提供[额外范围](Extra_Reach.md "Extra reach")。
+**锈长矛**是[长矛](Pikes.md "Pikes")武器家族的一种常见变体。它是一种需要双手持握的[武器](Weapons.md "武器")。它为使用者在近战中提供[额外范围](Extra_Reach.md "Extra reach")。
 
 这把长矛上积累的锈迹确实是一个关于如何不保养武器的教训。
 

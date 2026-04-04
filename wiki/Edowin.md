@@ -99,7 +99,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -149,7 +149,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -199,7 +199,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -229,12 +229,12 @@ Stats
 
 ## 目录
 
-- [1 参与剧情](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 鳄鱼虫交互](#tadpole-interactions)
-- [3 战利品](#loot)
-- [4 死者交谈](#speak-with-dead)
-- [5 外部链接](#external-links)
+- [1 参与剧情](#参与剧情)
+  - [1.1 第一幕](#第一幕)
+- [2 鳄鱼虫交互](#鳄鱼虫交互)
+- [3 战利品](#战利品)
+- [4 死者交谈](#死者交谈)
+- [5 外部链接](#外部链接)
 
 ## 参与剧情
 

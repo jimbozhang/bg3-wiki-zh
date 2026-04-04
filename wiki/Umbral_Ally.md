@@ -1,6 +1,6 @@
 # 阴影盟友
 
-**阴影盟友**是一个[等级 3 法术](Spells.md "Spells")。此法术允许[缚灵](Wraith.md "Wraith")召唤一个[暗影](Shadow.md "Shadow")。队伍成员无法学习此法术。
+**阴影盟友**是一个[法术](Spells.md "法术")。此法术允许[缚灵](Wraith.md "Wraith")召唤一个[暗影](Shadow.md "Shadow")。队伍成员无法学习此法术。
 
 ## 描述
 

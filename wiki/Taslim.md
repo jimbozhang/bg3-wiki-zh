@@ -87,7 +87,7 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 - [**醉酒**](Drunk_(Condition).md "醉酒 (状态)")
 
@@ -95,25 +95,25 @@
 
 ## 特性
 
-- [**冲锋**](Charger.md "冲锋")
+- [冲锋](Charger.md "冲锋")
 
 让你的速度强化你的猛攻。攻击时，你可以 [推击](Charger_colon__Shove.md "冲锋：推击") 或造成额外的 [武器伤害](Charger_colon__Weapon_Attack.md "冲锋：武器攻击")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "力量") 调整值或至少 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或至少 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
 
 ## 探索者难度属性
 
@@ -165,7 +165,7 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 - [**醉酒**](Drunk_(Condition).md "醉酒 (状态)")
 
@@ -173,25 +173,25 @@
 
 ## 特性
 
-- [**冲锋**](Charger.md "冲锋")
+- [冲锋](Charger.md "冲锋")
 
 让你的速度强化你的猛攻。攻击时，你可以 [推击](Charger_colon__Shove.md "冲锋：推击") 或造成额外的 [武器伤害](Charger_colon__Weapon_Attack.md "冲锋：武器攻击")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "力量") 调整值或至少 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或至少 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
 
 ## 硬核难度属性
 
@@ -243,7 +243,7 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 - [**醉酒**](Drunk_(Condition).md "醉酒 (状态)")
 
@@ -251,25 +251,25 @@
 
 ## 特性
 
-- [**冲锋**](Charger.md "冲锋")
+- [冲锋](Charger.md "冲锋")
 
 让你的速度强化你的猛攻。攻击时，你可以 [推击](Charger_colon__Shove.md "冲锋：推击") 或造成额外的 [武器伤害](Charger_colon__Weapon_Attack.md "冲锋：武器攻击")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "力量") 调整值或至少 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或至少 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
 
 ## 技术
 
@@ -297,12 +297,12 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 可观战利品](#notable-loot)
-- [3 闲聊](#idle-banter)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 可观战利品](#可观战利品)
+- [3 闲聊](#闲聊)
 
 ## 参与
 
@@ -413,7 +413,7 @@ UUID
   啊，当然，喝点酒从来没害死过人。
 
 - 现金守卫 古里拉
-  去跟 [耀须](Rakath_Glitterbeard.md "拉凯斯·耀须") 说吧！他会砍了我们的头。
+  去跟 [拉凯斯·耀须](Rakath_Glitterbeard.md "拉凯斯·耀须") 说吧！他会砍了我们的头。
 
 ---
 *Source: [Taslim](https://bg3.wiki/wiki/Taslim)*

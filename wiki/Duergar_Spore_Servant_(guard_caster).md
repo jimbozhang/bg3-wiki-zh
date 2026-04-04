@@ -63,23 +63,23 @@
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，对[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -101,11 +101,11 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 备注](#notes)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 备注](#备注)
 
 ## 概述
 
@@ -127,7 +127,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -137,7 +137,7 @@ UUID
 
 ## 备注
 
-- 虽然灰矮人孢子仆从实际上是不死生物的一个子类，但在[检定](examining.md "优势")时，它们会显示其生前生物的所有属性和专长。此外，它们的肖像画不会改变。
+- 虽然灰矮人孢子仆从实际上是不死生物的一个子类，但在[优势](examining.md "优势")时，它们会显示其生前生物的所有属性和专长。此外，它们的肖像画不会改变。
 - 与其他所有孢子仆从和蕈人不同，此特定生物**不易受**火焰伤害。此外，它拥有 4 个一级法术位和 2 个二级法术位，但没有可施放的法术或戏法。
 
 ---

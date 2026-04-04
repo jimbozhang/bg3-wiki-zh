@@ -73,19 +73,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**邪魔祝福**](Fiendish_Blessing.md "邪魔祝福")
+- [邪魔祝福](Fiendish_Blessing.md "邪魔祝福")
 
 [护甲等级](AC.md "护甲等级") +2。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -133,19 +133,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**邪魔祝福**](Fiendish_Blessing.md "邪魔祝福")
+- [邪魔祝福](Fiendish_Blessing.md "邪魔祝福")
 
 [护甲等级](AC.md "护甲等级") +2。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -197,23 +197,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**邪魔祝福**](Fiendish_Blessing.md "邪魔祝福")
+- [邪魔祝福](Fiendish_Blessing.md "邪魔祝福")
 
 [护甲等级](AC.md "护甲等级") +2。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**地狱赋权**](Stygian_Empowerment.md "地狱赋权")
+- [地狱赋权](Stygian_Empowerment.md "地狱赋权")
 
 受影响实体的武器攻击在拉斐尔18 m (60 ft)范围内额外造成3d6⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 
@@ -229,11 +229,11 @@
 
 ## 目录
 
-- [1 关于复仇坎比翁](#about-vengeful-cambions)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 画廊](#gallery)
-- [4 外部链接](#external-links)
+- [1 关于复仇坎比翁](#关于复仇坎比翁)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 画廊](#画廊)
+- [4 外部链接](#外部链接)
 
 ## 关于复仇坎比翁
 

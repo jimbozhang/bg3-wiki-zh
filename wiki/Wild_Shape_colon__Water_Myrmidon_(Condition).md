@@ -55,13 +55,13 @@
 飞至目标位置
 
 [治愈薄雾](Healing_Vapours.md "治愈薄雾") ()
-散发出你元素躯体的水汽，为附近生物恢复2d8⁠⁠[生命值](Healing.md "治疗")。
+散发出你元素躯体的水汽，为附近生物恢复2d8⁠⁠[治疗](Healing.md "治疗")。
 
 [寒冬打击](Hiemal_Strike.md "寒冬打击") ()
 用你的霜覆三叉戟刺穿一个生物并使其[冻僵](Chilled_(Condition).md "冻僵 (状态)")。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。你每消耗一个法术位等级，恢复1d8[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。你每消耗一个法术位等级，恢复1d8[治疗](Healing.md "治疗")。
 
 [虚无形态](Ethereal.md "虚无形态")
 受影响实体为虚体，无法被[推击](Shove.md "推击")、[投掷](Throw.md "投掷")或用作[即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器")。

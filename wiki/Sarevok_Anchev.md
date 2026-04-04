@@ -18,7 +18,7 @@
 
 ### 阵营
 
-[巴尔教团](Bhaal.md "Bhaal")
+[巴尔](Bhaal.md "巴尔")
 
 ### 家族
 
@@ -89,19 +89,19 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景故事](#backstory)
-  - [1.2 近期事件](#recent-events)
-- [2 参与](#involvement)
-- [3 战斗](#combat)
-  - [3.1 重要战利品](#notable-loot)
-- [4 相关任务](#related-quests)
-- [5 相关文献](#related-literature)
-- [6 语录](#quotes)
-- [7 画廊](#gallery)
-- [8 注释](#notes)
-- [9 另见](#see-also)
-- [10 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景故事](#背景故事)
+  - [1.2 近期事件](#近期事件)
+- [2 参与](#参与)
+- [3 战斗](#战斗)
+  - [3.1 重要战利品](#重要战利品)
+- [4 相关任务](#相关任务)
+- [5 相关文献](#相关文献)
+- [6 语录](#语录)
+- [7 画廊](#画廊)
+- [8 注释](#注释)
+- [9 另见](#另见)
+- [10 外部链接](#外部链接)
 
 ## 概述
 
@@ -123,7 +123,7 @@ _更多完整背景故事请参见[沙洛佛克·安基夫](https://forgottenrea
 
 ### 近期事件
 
-沙洛佛克最终回到了博德之门，并建立了一个新的巴尔教团。他成为了谋杀裁判所的法官，由巴尔其他仆人的回声协助——[阿巴济戈的回声](Echo_of_Abazigal.md "Echo of Abazigal")、[阿米利桑的回声](Echo_of_Amelyssan.md "Echo of Amelyssan")、[伊拉塞拉的回声](Echo_of_Illasera.md "Echo of Illasera")和[森代](Echo_of_Sendai.md "Echo of Sendai")。
+沙洛佛克最终回到了博德之门，并建立了一个新的巴尔教团。他成为了谋杀裁判所的法官，由巴尔其他仆人的回声协助——[阿巴济戈的回声](Echo_of_Abazigal.md "Echo of Abazigal")、[阿米利桑的回声](Echo_of_Amelyssan.md "Echo of Amelyssan")、[伊拉塞拉的回声](Echo_of_Illasera.md "Echo of Illasera")和[森代的回声](Echo_of_Sendai.md "森代的回声")。
 
 他有一个女儿叫[海伦娜·安基夫](Helena_Anchev.md "Helena Anchev")，并与她生下了[奥林](Orin.md "Orin")。因此，奥林是沙洛佛克的女儿，也是他的孙女。奥林不知道这个事实，只把沙洛佛克当作她的祖父。沙洛佛克最终告诉海伦娜，她必须将奥林献祭给巴尔。然而，奥林在尝试中杀死了海伦娜。
 
@@ -199,7 +199,7 @@ _更多完整背景故事请参见[沙洛佛克·安基夫](https://forgottenrea
 >
 > „
 
-— [玩家](Custom.md "Custom") 对明斯克和贾希拉在裁判所
+— [自定义](Custom.md "自定义") 对明斯克和贾希拉在裁判所
 
 ## 画廊
 
@@ -207,7 +207,7 @@ _更多完整背景故事请参见[沙洛佛克·安基夫](https://forgottenrea
 
 - Jean-Pierre Roy 渲染
 
-- 作为[盟友](Gather_Your_Allies.md "Gather Your Allies")的沙洛佛克
+- 作为[召集盟友](Gather_Your_Allies.md "召集盟友")的沙洛佛克
 
 - 未戴面具
 

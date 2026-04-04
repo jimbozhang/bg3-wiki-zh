@@ -2,7 +2,7 @@
 
 **暗夜之神的宠儿**
 
-- 莎尔的炽热恩宠让她选中的门徒每次使用[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")时恢复7d8⁠⁠[生命值](Healing.md "治疗")。
+- 莎尔的炽热恩宠让她选中的门徒每次使用[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")时恢复7d8⁠⁠[治疗](Healing.md "治疗")。
 
 ## 属性
 
@@ -28,7 +28,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 莎尔的炽热恩宠让她选中的门徒每次使用[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")时恢复7d8⁠⁠[生命值](Healing.md "治疗")。
+- 莎尔的炽热恩宠让她选中的门徒每次使用[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")时恢复7d8⁠⁠[治疗](Healing.md "治疗")。
 
 ## 简要预览
 

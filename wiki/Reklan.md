@@ -85,11 +85,11 @@
 
 - [**魅惑**](Charmed_(Condition).md "Charmed (Condition)")
 
-  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "Ability Check")时具有[优势](Advantage.md "Advantage")。
+  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "Advantage")。
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -141,11 +141,11 @@
 
 - [**魅惑**](Charmed_(Condition).md "Charmed (Condition)")
 
-  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "Ability Check")时具有[优势](Advantage.md "Advantage")。
+  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "Advantage")。
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -197,11 +197,11 @@
 
 - [**魅惑**](Charmed_(Condition).md "Charmed (Condition)")
 
-  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "Ability Check")时具有[优势](Advantage.md "Advantage")。
+  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "Advantage")。
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -223,10 +223,10 @@ UUID
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 盟友](#allies)
-  - [1.3 重要战利品](#notable-loot)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 盟友](#盟友)
+  - [1.3 重要战利品](#重要战利品)
 
 ## 战斗
 

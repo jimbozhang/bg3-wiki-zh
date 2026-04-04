@@ -65,19 +65,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -121,19 +121,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -177,19 +177,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -197,11 +197,11 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 攻击与能力](#attacks-and-abilities)
-- [3 注释](#notes)
-- [4 外部链接](#external-links)
-- [5 图库](#gallery)
+- [1 出场](#出场)
+- [2 攻击与能力](#攻击与能力)
+- [3 注释](#注释)
+- [4 外部链接](#外部链接)
+- [5 图库](#图库)
 
 ## 出场
 

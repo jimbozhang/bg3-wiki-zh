@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
 射程：3米（10英尺）
 
 ## 技术细节
@@ -30,7 +30,7 @@ UID
 
 持续时间：5驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
 
 - 生物陷入幻觉。它在[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势"), 不受控制地四处游荡，并且无法进行[动作](Actions.md#Resources "动作")或反应。
 

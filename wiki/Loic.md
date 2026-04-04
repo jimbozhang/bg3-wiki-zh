@@ -94,15 +94,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -150,15 +150,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -206,15 +206,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -244,14 +244,14 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 闲谈](#idle-banter)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 闲谈](#闲谈)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 参与情况
 
@@ -273,7 +273,7 @@ Stats
 
 全力击中敌人造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

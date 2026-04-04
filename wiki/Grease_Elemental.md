@@ -61,7 +61,7 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -69,7 +69,7 @@
 
 如果目标处于[泥泞](Muddy_(Condition).md "泥泞 (状态)")状态或站在泥巴中，可以进行[多重攻击](Multiattack_(Earth_Elemental).md "多重攻击 (土元素)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -111,7 +111,7 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -119,7 +119,7 @@
 
 如果目标处于[泥泞](Muddy_(Condition).md "泥泞 (状态)")状态或站在泥巴中，可以进行[多重攻击](Multiattack_(Earth_Elemental).md "多重攻击 (土元素)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -161,7 +161,7 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -169,7 +169,7 @@
 
 如果目标处于[泥泞](Muddy_(Condition).md "泥泞 (状态)")状态或站在泥巴中，可以进行[多重攻击](Multiattack_(Earth_Elemental).md "多重攻击 (土元素)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

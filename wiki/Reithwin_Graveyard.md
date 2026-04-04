@@ -25,30 +25,30 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 医院分区](#hospital-sections)
-  - [2.1 医院病房](#hospital-ward)
-  - [2.2 儿童病房](#children's-ward)
-  - [2.3 手术室](#operating-theatre)
-  - [2.4 医院图书室](#hospital-library)
-- [3 雷斯文墓园](#reithwin-graveyard)
-- [4 停尸房](#morgue)
-  - [4.1 入口大厅与主厅](#entry-hall-and-main-hall)
-  - [4.2 实验室](#laboratory)
-  - [4.3 不祥裂隙](#ominous-crevice)
-- [5 相关任务](#related-quests)
-- [6 角色](#characters)
-  - [6.1 不死生物](#undead)
-  - [6.2 提夫林](#tieflings)
-  - [6.3 其他](#other)
-  - [6.4 生物](#creatures)
-- [7 战利品](#loot)
-  - [7.1 任务物品](#quest-items)
-  - [7.2 其他显著物品](#other-notable-items)
-  - [7.3 埋藏宝藏](#buried-treasure)
-- [8 相关文献](#related-literature)
-- [9 成就](#achievements)
-- [10 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+- [2 医院分区](#医院分区)
+  - [2.1 医院病房](#医院病房)
+  - [2.2 儿童病房](#儿童病房)
+  - [2.3 手术室](#手术室)
+  - [2.4 医院图书室](#医院图书室)
+- [3 雷斯文墓园](#雷斯文墓园)
+- [4 停尸房](#停尸房)
+  - [4.1 入口大厅与主厅](#入口大厅与主厅)
+  - [4.2 实验室](#实验室)
+  - [4.3 不祥裂隙](#不祥裂隙)
+- [5 相关任务](#相关任务)
+- [6 角色](#角色)
+  - [6.1 不死生物](#不死生物)
+  - [6.2 提夫林](#提夫林)
+  - [6.3 其他](#其他)
+  - [6.4 生物](#生物)
+- [7 战利品](#战利品)
+  - [7.1 任务物品](#任务物品)
+  - [7.2 其他显著物品](#其他显著物品)
+  - [7.3 埋藏宝藏](#埋藏宝藏)
+- [8 相关文献](#相关文献)
+- [9 成就](#成就)
+- [10 注释与参考](#注释与参考)
 
 ## 概述
 
@@ -78,7 +78,7 @@
 
 ### 儿童病房
 
-儿童病房是医院东侧的一个独立房间，有自己的小院子通向墓园。然而，生病的儿童已不复存在；仅有的两张占用的婴儿床上躺着[阿拉贝尔](Arabella.md "阿拉贝尔")的父母[洛奇](Locke.md "洛奇")和[柯米拉](Komira.md "柯米拉")的尸体。如果队伍已在墓园大门前遇到阿拉贝尔并同意[帮助她](Find_Arabella's_Parents.md "找到阿拉贝尔的父母")，靠近尸体会推进任务。
+儿童病房是医院东侧的一个独立房间，有自己的小院子通向墓园。然而，生病的儿童已不复存在；仅有的两张占用的婴儿床上躺着[阿拉贝尔](Arabella.md "阿拉贝尔")的父母[洛奇](Locke.md "洛奇")和[柯米拉](Komira.md "柯米拉")的尸体。如果队伍已在墓园大门前遇到阿拉贝尔并同意[找到阿拉贝尔的父母](Find_Arabella's_Parents.md "找到阿拉贝尔的父母")，靠近尸体会推进任务。
 
 两具提夫林尸体均可使用[死者交谈](Speak_with_Dead.md "死者交谈")，但只有洛克同意说话。
 
@@ -92,14 +92,14 @@
 
 [马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")及其不死“姐妹”[安雅](Anya.md "安雅")、[珍妮](Geanne.md "珍妮")、[汉娜](Hunna.md "汉娜")和[凡妮莎](Vanessa.md "凡妮莎")正在房间中央对一名[痛苦的患者](Distressed_Patient.md "痛苦的患者")进行“手术”。他们的视野锥相交并仅覆盖手术室的中心区域。因此，可以探索房间的上层，以及 X: -199 Y: 67 处的马鲁斯办公室和医院图书室，而不会引起他们的注意。
 
-马鲁斯·索姆的办公室是手术室正北的小房间。它有两扇通往墓园的锁着的出口，可用[桌上的钥匙](Key_(Malus_Thorm_Office).md "钥匙（马鲁斯·索姆办公室）")打开。否则，两侧均需 DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来撬锁。同一张桌子上有一本书[《外科与生理学：莎尔信徒入门》](Surgery_and_Physiology_colon__A_Sharran's_Primer.md "外科与生理学：莎尔信徒入门")，可在与马鲁斯交互时解锁重要对话选项。角落的漆箱子内有[投毒者的手套](Poisoner's_Gloves.md "投毒者的手套")，西侧的柜台含有随机的稀有炼金材料。
+马鲁斯·索姆的办公室是手术室正北的小房间。它有两扇通往墓园的锁着的出口，可用[桌上的钥匙](Key_(Malus_Thorm_Office).md "钥匙（马鲁斯·索姆办公室）")打开。否则，两侧均需 DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。同一张桌子上有一本书[《外科与生理学：莎尔信徒入门》](Surgery_and_Physiology_colon__A_Sharran's_Primer.md "外科与生理学：莎尔信徒入门")，可在与马鲁斯交互时解锁重要对话选项。角落的漆箱子内有[投毒者的手套](Poisoner's_Gloves.md "投毒者的手套")，西侧的柜台含有随机的稀有炼金材料。
 
 接近外科医生及其护士会触发自动对话，包含多种难度等级（DC）从 14 到 21 的属性检定，最终可说服外科医生通过手术自杀，可选择先处理护士或放过他们。如果任何检定失败，马鲁斯·索姆会攻击队伍，护士们会站在他一边。
 
 根据对话布局及其结果，可能获得以下激励点：
 
 - ⁠[一天一苹果，远离手术刀](Soldier.md#An_Apple_a_Day_Keeps_the_Scalpel_Away "士兵")（具有[士兵](Soldier.md "士兵")背景的角色）——在不战斗的情况下击败马鲁斯·索姆。
-- ⁠[完成作业](Acolyte.md#Did_My_Homework "侍僧")（具有[侍僧](Acolyte.md "侍僧")背景的角色）——通过 DC 14 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定")后使用对话中的特殊选项。
+- ⁠[完成作业](Acolyte.md#Did_My_Homework "侍僧")（具有[侍僧](Acolyte.md "侍僧")背景的角色）——通过 DC 14 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定")后使用对话中的特殊选项。
 - ⁠[不人道的试验](Guild_Artisan.md#Inhumane_Trials "公会工匠")（具有[公会工匠](Guild_Artisan.md "公会工匠")背景的角色）——目睹“手术”，无论结果如何。
 - ⁠[刀下之魂](Haunted_One.md#Under_the_Knife "邪念缠身")（具有[邪念缠身](Haunted_One.md "邪念缠身")背景的角色）——说服外科医生被护士杀死。
 
@@ -124,10 +124,10 @@
 医院图书室位于治疗中心手术室上方的顶层。可通过多种路径到达：
 
 - 沿儿童病房附近的藤蔓爬上医院病房屋顶。此路可沿屋顶行走或通过破窗进入病房上方区域。内部 X: -200 Y: -6 处的大鸟巢中可拿取一瓶[隐形药水](Potion_of_Invisibility.md "隐形药水")。
-- 使用医院病房和手术室之间的电梯。图书室入口锁着，需要[医院图书室钥匙](Hospital_Library_Key.md "医院图书室钥匙")。共有两把钥匙；一把在馨妲姐妹的箱子内，另一把在图书室内。否则，门可用 DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬开。
+- 使用医院病房和手术室之间的电梯。图书室入口锁着，需要[医院图书室钥匙](Hospital_Library_Key.md "医院图书室钥匙")。共有两把钥匙；一把在馨妲姐妹的箱子内，另一把在图书室内。否则，门可用 DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬开。
 - 手术室上层 X: -193 Y: 59 处缠绕的树根允许队伍从内部进入图书室。
 
-图书室内有两把锁着的镀金箱子，位于 X: -203 Y: 57 和 X: -211 Y: 43，均需 DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁。其中一个含有炼金材料。
+图书室内有两把锁着的镀金箱子，位于 X: -203 Y: 57 和 X: -211 Y: 43，均需 DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁。其中一个含有炼金材料。
 
 如果队伍从图书室走到手术室屋顶，可在 X: -220 Y: 45 处搜刮另一个鸟巢。<sup>[\[2\]](#cite_note-2)</sup> 此外，X: -190 Y: 62 处的藤蔓“桥”可通往[大陵寝](Grand_Mausoleum.md "大陵寝")。
 
@@ -153,15 +153,15 @@
 
 墓园内有许多墓碑，其中一些是可交互对象。交互时，旁白会提示墓志铭，可能相当有趣、讽刺或挖苦。还有几座停尸间，其中两座可进入并搜刮：
 
-- X: -160 Y: 47 处，锁着的大门后（需 DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁）；石棺内有[假死之靴](Boots_of_Apparent_Death.md "假死之靴")
+- X: -160 Y: 47 处，锁着的大门后（需 DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁）；石棺内有[假死之靴](Boots_of_Apparent_Death.md "假死之靴")
 - X: -155 Y: 64 处，未上锁的停尸间，其中一个石棺内有[冰噬长袍](Icebite_Robe.md "冰噬长袍")
-- X: -146 Y: 42 处，DC 5 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")可发现一具骷髅携带[真爱之抚](True_Love's_Caress.md "真爱之抚")
+- X: -146 Y: 42 处，DC 5 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")可发现一具骷髅携带[真爱之抚](True_Love's_Caress.md "真爱之抚")
 
 雷斯文小镇后方的营地景观
 
 如果队伍尚未解决[第二幕](Act_Two.md "第二幕")的主要事件，从 X: -235 Y: 54 开始的石阶可眺望[绝对](Absolute.md "绝对")大军的广阔营地。沿石阶继续前行，可在 X: -252 Y: 38 处找到一对骷髅。其中一个可搜刮获得[刺客短剑](Assassin's_Shortsword.md "刺客短剑")，另一个可获得[卫士盾牌](Watcher's_Shield.md "卫士盾牌")。此石阶处还有两处埋藏宝藏。
 
-如果[阿拉贝尔](Arabella.md "阿拉贝尔")在[第一幕](Act_One.md "第一幕")事件中幸存，可在墓园主门处找到她，正在寻找父母。如果靠近，两名[幽影](Shadow.md "幽影")会攻击她，但她[纠缠](Arabella's_Shadow_Entangle.md "阿拉贝尔之影纠缠术")了它们。如果队伍与她交谈并同意帮助她，任务[找到阿拉贝尔的父母](Find_Arabella's_Parents.md "找到阿拉贝尔的父母")和[寻找赛夫洛](Find_Zevlor.md "寻找赛夫洛")将添加到日志中。阿拉贝尔还请求留在队伍的[营地](Camp.md "营地")，因为她拒绝前往[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")加入其他难民。
+如果[阿拉贝尔](Arabella.md "阿拉贝尔")在[第一幕](Act_One.md "第一幕")事件中幸存，可在墓园主门处找到她，正在寻找父母。如果靠近，两名[幽影](Shadow.md "幽影")会攻击她，但她[阿拉贝尔之影纠缠术](Arabella's_Shadow_Entangle.md "阿拉贝尔之影纠缠术")了它们。如果队伍与她交谈并同意帮助她，任务[找到阿拉贝尔的父母](Find_Arabella's_Parents.md "找到阿拉贝尔的父母")和[寻找赛夫洛](Find_Zevlor.md "寻找赛夫洛")将添加到日志中。阿拉贝尔还请求留在队伍的[营地](Camp.md "营地")，因为她拒绝前往[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")加入其他难民。
 
 如果队伍欢迎女孩，她会跑开，留下被纠缠且对队伍中立的幽影；可随意杀死它们。阿拉贝尔的父母可在医院儿童病房（见上文）找到。同意在营地收留阿拉贝尔可为具有[平民英雄](Folk_Hero.md "平民英雄")背景的角色授予[强加于身的伟大](Folk_Hero.md#Greatness_Thrust_Upon_Them "平民英雄")。
 
@@ -181,26 +181,26 @@
 
 ### 入口大厅与主厅
 
-通过主入口进入会将队伍带入停尸房的入口大厅。在 X: 82 Y: -998 处，成功的 DC 10 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")会揭示一个按钮，打开一个密室。内部，[怪须护符](Strange_Tendril_Amulet.md "怪须护符")可在箱子内找到，一具烧焦的尸体可搜刮获得[费尔祖的交易戒指](Firzu's_Ring_of_Trading.md "费尔祖的交易戒指")。
+通过主入口进入会将队伍带入停尸房的入口大厅。在 X: 82 Y: -998 处，成功的 DC 10 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")会揭示一个按钮，打开一个密室。内部，[怪须护符](Strange_Tendril_Amulet.md "怪须护符")可在箱子内找到，一具烧焦的尸体可搜刮获得[费尔祖的交易戒指](Firzu's_Ring_of_Trading.md "费尔祖的交易戒指")。
 
 巨大的双开门后潜伏着三只[僵尸](Zombie.md "僵尸")和三只[大僵尸](Greater_Zombie.md "大僵尸")的伏击。僵尸躺在散发[毒云](Poison_Cloud.md "毒云")的[通风口](Vent.md "通风口")上，当它们起身攻击时，房间会迅速充满有毒烟雾。战斗结束后，可通过解除房间各处地板上的通风口（通过解除武装或重新覆盖每个通风口）来清理房间。<sup>[\[3\]](#cite_note-3)</sup>
 
-通往无通风口的小停尸房工作间的门位于 X: 50 Y: -992。内部躺着一具[已故竖琴手](Olam.md "奥兰")的尸体，携带[黯蚀实验室备用钥匙](Necrotic_Laboratory_Spare_Key.md "黯蚀实验室备用钥匙")。X: 46 Y: -1005 处锁着的箱子内有[静待良机](Bided_Time.md "静待良机")长袍（需 DC 14 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁）。
+通往无通风口的小停尸房工作间的门位于 X: 50 Y: -992。内部躺着一具[已故竖琴手](Olam.md "奥兰")的尸体，携带[黯蚀实验室备用钥匙](Necrotic_Laboratory_Spare_Key.md "黯蚀实验室备用钥匙")。X: 46 Y: -1005 处锁着的箱子内有[静待良机](Bided_Time.md "静待良机")长袍（需 DC 14 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁）。
 
 阅读[奥兰的日志](Olam's_Journal.md "奥兰的日志")（可在 X: 47 Y: -1010 处的桌子上找到）可获得以下激励点：
 
 - ⁠[受祝福者的最终安息](Acolyte.md#Blessed's_Final_Rest "侍僧")（具有[侍僧](Acolyte.md "侍僧")背景的角色）。
 - ⁠[熄灭的火花](Sage.md#Snuffed_Spark "博学")（具有[智者](Sage.md "智者")背景的队伍成员）。
 
-奥兰房间的门对面是通往不祥裂隙（见下文）的入口。可通过 DC 30 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁或组合两个拉杆打开：一个在门附近，另一个在停尸房尽头的实验室内。
+奥兰房间的门对面是通往不祥裂隙（见下文）的入口。可通过 DC 30 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁或组合两个拉杆打开：一个在门附近，另一个在停尸房尽头的实验室内。
 
 ### 实验室
 
 实验室
 
-入口正对面是实验室，据推测是马鲁斯·索姆在幽影诅咒降临前进行实验的地方。他的[外科医生的研究笔记](Surgeon's_Research_Notes.md "外科医生的研究笔记")放在 X: 47 Y: -1010 处的桌子上，旁边是一瓶[噩梦毒药](Karabasan's_Poison.md "噩梦毒药")。通过 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")可发现桌子附近的拉杆。它可启用解锁不祥裂隙门的拉杆。阅读研究笔记可为具有[智者](Sage.md "智者")背景的角色授予激励点[希波克拉底不再](Sage.md#Hippocratic_No_More "博学")。
+入口正对面是实验室，据推测是马鲁斯·索姆在幽影诅咒降临前进行实验的地方。他的[外科医生的研究笔记](Surgeon's_Research_Notes.md "外科医生的研究笔记")放在 X: 47 Y: -1010 处的桌子上，旁边是一瓶[噩梦毒药](Karabasan's_Poison.md "噩梦毒药")。通过 DC 15 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")可发现桌子附近的拉杆。它可启用解锁不祥裂隙门的拉杆。阅读研究笔记可为具有[智者](Sage.md "智者")背景的角色授予激励点[希波克拉底不再](Sage.md#Hippocratic_No_More "博学")。
 
-在 X: 9 Y: -981 处有一个锁着的、有陷阱的箱子，内含[永察之戒](Eversight_Ring.md "永察之戒")和少量战利品（需两次 DC 14 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")，分别用于解除陷阱和撬锁）。
+在 X: 9 Y: -981 处有一个锁着的、有陷阱的箱子，内含[永察之戒](Eversight_Ring.md "永察之戒")和少量战利品（需两次 DC 14 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")，分别用于解除陷阱和撬锁）。
 
 血库架子上的瓶子中，放着一瓶[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")、一瓶[高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水")和一瓶[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")。
 
@@ -208,11 +208,11 @@
 
 充满酸性蒸汽的深坑
 
-裂隙隐藏在 X: 45 Y: -973 处的金属门后。除非使用两个拉杆（前述实验室内的一个和门附近的一个），否则需 DC 30 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁。内部是一个充满酸绿色蒸汽的深坑，可沿外缘岩架穿越，但即使如此也可能需要[迷踪步](Misty_Step.md "迷踪步")、[给予飞行](Grant_Flight.md "给予飞行")或[羽落术](Feather_Fall.md "羽落术")等空间移动能力。
+裂隙隐藏在 X: 45 Y: -973 处的金属门后。除非使用两个拉杆（前述实验室内的一个和门附近的一个），否则需 DC 30 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁。内部是一个充满酸绿色蒸汽的深坑，可沿外缘岩架穿越，但即使如此也可能需要[迷踪步](Misty_Step.md "迷踪步")、[给予飞行](Grant_Flight.md "给予飞行")或[羽落术](Feather_Fall.md "羽落术")等空间移动能力。
 
 如果队伍下到坑底，会出现一具[中空护甲](Hollow_Armour.md "中空护甲")和三只[恶臭软泥](Fetid_Ooze.md "恶臭软泥")，一见面即敌对。中空护甲掉落[防化服](Protective_Plate.md "防化服")。
 
-在出口对面的岩架上 X: -29 Y: 930 处，一个锁着的镀金箱子内可找到[血肉消熔披风](Fleshmelter_Cloak.md "血肉消熔披风")（需 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁）。
+在出口对面的岩架上 X: -29 Y: 930 处，一个锁着的镀金箱子内可找到[血肉消熔披风](Fleshmelter_Cloak.md "血肉消熔披风")（需 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁）。
 
 向北，小路通向坑外的一小片土地。从那里，队伍可向西攀爬几处岩壁到达[大陵寝](Grand_Mausoleum.md "大陵寝")，或进一步下到河岸的破败渔夫小屋。
 
@@ -283,8 +283,8 @@
 
 #### 埋藏宝藏
 
-- X: -258 Y: 28 处（需 DC 14 [求生](Survival.md "求生") [检定](Ability_Check.md "属性检定")找到）
-- X: -265 Y: 15 处（需 DC 10 [求生](Survival.md "求生") [检定](Ability_Check.md "属性检定")找到）
+- X: -258 Y: 28 处（需 DC 14 [求生](Survival.md "求生") [属性检定](Ability_Check.md "属性检定")找到）
+- X: -265 Y: 15 处（需 DC 10 [求生](Survival.md "求生") [属性检定](Ability_Check.md "属性检定")找到）
 
 ## 相关文献
 
@@ -318,7 +318,7 @@
 
 1. [↑](#cite_ref-1) 说服他接受护士的治疗不会授予此激励点。
 1. [↑](#cite_ref-2) 鸟巢附近有一个名为“幽影真菌”的杂物物品。如果拾取，它会进入[炼金术小袋](Alchemy_Pouch.md "炼金术小袋")，但无法以任何方式使用，因为它是流程中唯一的此类物品；可能是废弃的炼金材料。
-1. [↑](#cite_ref-3) 也可以在战斗前秘密解除所有通风口——例如，结合[隐藏](Hide.md "隐藏")、[高等隐形术](Greater_Invisibility.md "高等隐形术")和[回合制模式](Turn-based_mode.md "回合制模式")。然而，任何动作后，相关队伍成员必须进行被动[15](Stealth.md "隐匿")检定以保持隐藏。首次检定失败时，僵尸会攻击。
+1. [↑](#cite_ref-3) 也可以在战斗前秘密解除所有通风口——例如，结合[躲藏](Hide.md "躲藏")、[高等隐形术](Greater_Invisibility.md "高等隐形术")和[回合制模式](Turn-based_mode.md "回合制模式")。然而，任何动作后，相关队伍成员必须进行被动[15](Stealth.md "隐匿")检定以保持隐藏。首次检定失败时，僵尸会攻击。
 
 ---
 *Source: [House of Healing](https://bg3.wiki/wiki/House_of_Healing)*

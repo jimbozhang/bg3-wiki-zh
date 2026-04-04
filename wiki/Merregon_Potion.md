@@ -51,7 +51,7 @@
 
 ## 获取地点
 
-- 通过在[军团魔囤宝者](Hoarding_Merregon.md "军团魔囤宝者")身上通过 DC 11 [侦测思想](Detect_Thoughts.md "侦测思想") [检定](Ability_Check.md "属性检定")，并告知它你负责喂养[移位兽](Displacer_Beast.md "移位兽")后获得。
+- 通过在[军团魔囤宝者](Hoarding_Merregon.md "军团魔囤宝者")身上通过 DC 11 [侦测思想](Detect_Thoughts.md "侦测思想") [属性检定](Ability_Check.md "属性检定")，并告知它你负责喂养[移位兽](Displacer_Beast.md "移位兽")后获得。
 
 ## 备注
 

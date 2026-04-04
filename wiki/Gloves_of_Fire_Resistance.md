@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏方式](Category_colon_Inaccessible.md "Category:Inaccessible")**获取。但仍可通过第三方工具访问。
 
-火焰抗性手套是一副[罕见](Gloves.md "Gloves")手套，当穿戴者生命值较低时，可使其获得对[火焰](Damage_types.md#Resistance "Damage Types")伤害的[抗性](Resistance.md "Resistance")。
+火焰抗性手套是一副[手套](Gloves.md "手套")手套，当穿戴者生命值较低时，可使其获得对[火焰](Damage_types.md#Resistance "Damage Types")伤害的[抗性](Resistance.md "Resistance")。
 
 这副手套触感冰凉，会令穿戴者的指尖感到寒冷。
 

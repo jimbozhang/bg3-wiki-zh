@@ -14,11 +14,11 @@
 [气点](Ki_Point.md "气点")
 伤害：1~6 + 调整值
 
-1d6 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[钝击](Bludgeoning.md "钝击")
+1d6 + [灵巧](Finesse.md "灵巧")⁠[钝击](Bludgeoning.md "钝击")
 
 详情
 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
 近战：1.5 米（5 英尺）
 
 ## 技术细节
@@ -37,7 +37,7 @@ UID
 
 持续时间：1 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
 
 - 在[感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，无法进行[反应](Reaction.md "反应")，并失去其[护甲等级](Armour_Class.md "护甲等级")上的[敏捷](Dexterity.md "敏捷")加值。
 - 如果盟友[协助](Help.md "协助")此生物，则移除该状态。
@@ -48,7 +48,7 @@ UID
 
 持续时间：1 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
 
 - 受影响的生物无法移动或进行[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")，并且在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 在距离该生物 3 米（10 英尺）范围内进行的攻击对倒伏生物具有[优势](Advantage.md "优势")。
@@ -61,7 +61,7 @@ UID
 
 持续时间：1 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
 
 - 生物无法说话或施放具有言语成分的法术，并且免疫⁠[雷鸣](Thunder.md "雷鸣")伤害。
 

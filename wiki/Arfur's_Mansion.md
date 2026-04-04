@@ -22,21 +22,21 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 与非法占用者的冲突](#conflict-with-the-squatters)
-  - [1.2 宅邸内部](#inside-the-mansion)
-    - [1.2.1 工作室与地下室](#workshop-and-basement)
-  - [1.3 废弃的侧屋](#abandoned-sidehouse)
-  - [1.4 周边的其他遭遇](#other-encounters-around)
-- [2 相关地点](#related-locations)
-- [3 相关任务](#related-quests)
-- [4 角色](#characters)
-  - [4.1 难民](#refugees)
-  - [4.2 利文顿鼠帮](#rivington-rats)
-  - [4.3 宅邸外部](#outside-the-mansion)
-- [5 战利品](#loot)
-- [6 相关文献](#related-literature)
-- [7 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+  - [1.1 与非法占用者的冲突](#与非法占用者的冲突)
+  - [1.2 宅邸内部](#宅邸内部)
+    - [1.2.1 工作室与地下室](#工作室与地下室)
+  - [1.3 废弃的侧屋](#废弃的侧屋)
+  - [1.4 周边的其他遭遇](#周边的其他遭遇)
+- [2 相关地点](#相关地点)
+- [3 相关任务](#相关任务)
+- [4 角色](#角色)
+  - [4.1 难民](#难民)
+  - [4.2 利文顿鼠帮](#利文顿鼠帮)
+  - [4.3 宅邸外部](#宅邸外部)
+- [5 战利品](#战利品)
+- [6 相关文献](#相关文献)
+- [7 注释与参考](#注释与参考)
 
 ## 概述
 
@@ -73,15 +73,15 @@
 
 如果允许非法占用者留下，父母会留在大厅里闲聊，而他们的女儿[辛塔·戈莱维茨](Cinta_Golewits.md "辛塔·戈莱维茨")在厨房里。如果队伍选择驱逐他们，阿尔弗会留在大厅，而[马尔帕·戈莱维茨](Marpha_Golewits.md "马尔帕·戈莱维茨")和辛塔会消失。
 
-无论如何，大厅和厨房内的所有容器都标有红色轮廓；掠夺它们被视为非法侵入（难民会像房主一样对此做出反应）。厨房 X: 32 Y: -61 处的瓶子架上有[玩具之家的钥匙](Toymaker's_House_Key.md "玩具之家的钥匙")，可打开楼上的卧室。否则，卧室门可以用 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")撬开。
+无论如何，大厅和厨房内的所有容器都标有红色轮廓；掠夺它们被视为非法侵入（难民会像房主一样对此做出反应）。厨房 X: 32 Y: -61 处的瓶子架上有[玩具之家的钥匙](Toymaker's_House_Key.md "玩具之家的钥匙")，可打开楼上的卧室。否则，卧室门可以用 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")撬开。
 
 楼上，书桌里有金币，卧室书架上一排书里藏着[玩具商的地下室钥匙](Toymaker's_Basement_Key.md "玩具商的地下室钥匙")，可打开工作室的活板门。此外，书桌里的[信件草稿](Letter_to_Mamzell_Amira_(draft).md "致马泽尔·阿米拉的信（草稿）")暗示了如果冲突以有利于非法占用者的方式解决，可以在哪里找到阿尔弗。
 
 #### 工作室与地下室
 
-房子北侧的双开门通往阿尔弗的工作室，他在那里制作玩具。房间内可以掠夺到几块[火焰琥珀](Fire_Amber.md "火焰琥珀")、木箱中的随机珍贵宝石和一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")。部分被地毯和板条箱遮挡的是一个活板门，用 DC 10 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")可以发现，它通往地下室。可以用卧室的_玩具商的地下室钥匙_打开。否则，需要 DC 18 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁。
+房子北侧的双开门通往阿尔弗的工作室，他在那里制作玩具。房间内可以掠夺到几块[火焰琥珀](Fire_Amber.md "火焰琥珀")、木箱中的随机珍贵宝石和一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")。部分被地毯和板条箱遮挡的是一个活板门，用 DC 10 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")可以发现，它通往地下室。可以用卧室的_玩具商的地下室钥匙_打开。否则，需要 DC 18 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来撬锁。
 
-地下室的主要区域类似于一个小迷宫，路径上布置了[绊绳](Tripwire.md "绊绳")和烟花陷阱；这些可以通过察觉检定暴露出来。地下室最远的部分是另一个工作室，里面有一个上锁且设陷的金属箱（DC 15 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")解除陷阱，DC 20 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")撬锁），里面装有金币和一封[信件](Blackmail_Letter.md "勒索信")，这会开始或推进任务[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")。
+地下室的主要区域类似于一个小迷宫，路径上布置了[绊绳](Tripwire.md "绊绳")和烟花陷阱；这些可以通过察觉检定暴露出来。地下室最远的部分是另一个工作室，里面有一个上锁且设陷的金属箱（DC 15 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")解除陷阱，DC 20 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")撬锁），里面装有金币和一封[勒索信](Blackmail_Letter.md "勒索信")，这会开始或推进任务[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")。
 
 地下室工作室可以掠夺到更多火焰琥珀、两箱烟花、一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")和一套[盗贼工具](Thieves'_Tools.md "盗贼工具")。此外，每个成功解除的烟花陷阱都会为角色的物品栏添加一个[飞火花](Wogglims.md "飞火花")。
 
@@ -89,16 +89,16 @@
 
 这座小房子看起来像是宅邸的另一部分，但实际上与之不相连。无法通过这座侧屋潜入阿尔弗的宅邸。
 
-其上锁的入口位于 X: 20 Y: -56（需要 DC 15 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")撬锁）。内部，在壁炉附近会进行一次被动 DC 15 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")，以找到[废屋宝箱钥匙](Abandoned_House_Chest_Key.md "废屋宝箱钥匙")。这把钥匙用于打开下一个房间中一个设陷且上锁的箱子，里面装有金币和一支随机箭矢。没有钥匙，箱子需要 DC 15 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")来发现陷阱，DC 15 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")解除陷阱，以及 DC 20 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")撬锁。
+其上锁的入口位于 X: 20 Y: -56（需要 DC 15 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")撬锁）。内部，在壁炉附近会进行一次被动 DC 15 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")，以找到[废屋宝箱钥匙](Abandoned_House_Chest_Key.md "废屋宝箱钥匙")。这把钥匙用于打开下一个房间中一个设陷且上锁的箱子，里面装有金币和一支随机箭矢。没有钥匙，箱子需要 DC 15 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")来发现陷阱，DC 15 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")解除陷阱，以及 DC 20 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")撬锁。
 
-入口附近桌子上的[笔记](Beloved_Sons.md "挚爱的儿子")解释了房子为何空置。在远处角落的橱柜架子上可以找到一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")。
+入口附近桌子上的[挚爱的儿子](Beloved_Sons.md "挚爱的儿子")解释了房子为何空置。在远处角落的橱柜架子上可以找到一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")。
 
 ### 周边的其他遭遇
 
 宅邸周围放置了几个 NPC 小插曲。
 
 - 两位矮人女性，[索拉斯](Solras.md "索拉斯")和[尼斯万](Nisvan.md "尼斯万")，争论着难民涌入城镇的问题。尼斯万有一个关于难民的商业想法，而索拉斯试图劝阻她。
-- 一户难民家庭，[菲尔·巴拉希亚](Fyl_Baragezian.md "菲尔·巴拉希亚")和[诺纳·巴拉希亚](Nonah_Baragezian.md "诺纳·巴拉希亚")正试图说服他们的儿子[查尔](Charl_Baragezian.md "查尔·巴拉希亚")继续前往[博德之门](Baldur's_Gate.md "博德之门")的旅程。
+- 一户难民家庭，[菲尔·巴拉希亚](Fyl_Baragezian.md "菲尔·巴拉希亚")和[诺纳·巴拉希亚](Nonah_Baragezian.md "诺纳·巴拉希亚")正试图说服他们的儿子[查尔·巴拉希亚](Charl_Baragezian.md "查尔·巴拉希亚")继续前往[博德之门](Baldur's_Gate.md "博德之门")的旅程。
 
 ## 相关地点
 
@@ -154,7 +154,7 @@
 
 ## 注释与参考
 
-1. [↑](#cite_ref-1) 如果读取阿尔弗思想的属性检定失败，进行互动的玩家角色仍可尝试通过掷出 DC 15 的[欺瞒](Deception.md "欺瞒")[检定](Ability_Check.md "属性检定")来纠正事态。如果成功，他们会将责任推给本·戈莱维茨，阿尔弗则命令暴徒攻击难民。
+1. [↑](#cite_ref-1) 如果读取阿尔弗思想的属性检定失败，进行互动的玩家角色仍可尝试通过掷出 DC 15 的[欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")来纠正事态。如果成功，他们会将责任推给本·戈莱维茨，阿尔弗则命令暴徒攻击难民。
 2. [↑](#cite_ref-2) 如果玩家角色招募利文顿鼠帮驱逐难民，则不会获得此激励点。
 
 ---

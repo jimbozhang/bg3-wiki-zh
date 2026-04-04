@@ -4,36 +4,36 @@
 
 ## 目录
 
-- [1 营地补给](#camp-supplies)
-- [2 相关成就](#related-achievements)
-- [3 营地补给列表](#list-of-camp-supplies)
-  - [3.1 20+ 补给值](#20+_Supply)
-  - [3.2 15+ 补给值](#15+_Supply)
-  - [3.3 10+ 补给值](#10+_Supply)
-  - [3.4 5+ 补给值](#5+_Supply)
-  - [3.5 1+ 补给值](#1+_Supply)
-  - [3.6 酒类](#alcohol)
-  - [3.7 武器](#weapons)
-- [4 按成本效益排序的营地补给列表](#list-of-camp-supplies-by-cost-efficiency)
+- [1 营地补给](#营地补给)
+- [2 相关成就](#相关成就)
+- [3 营地补给列表](#营地补给列表)
+  - [3.1 20+ 补给值](#20+-补给值)
+  - [3.2 15+ 补给值](#15+-补给值)
+  - [3.3 10+ 补给值](#10+-补给值)
+  - [3.4 5+ 补给值](#5+-补给值)
+  - [3.5 1+ 补给值](#1+-补给值)
+  - [3.6 酒类](#酒类)
+  - [3.7 武器](#武器)
+- [4 按成本效益排序的营地补给列表](#按成本效益排序的营地补给列表)
 
 ## 营地补给
 
 - 每种[食物](#20+_Supply)和[饮品](#alcohol)都有固有的 ⁠营地补给值，范围从 1 到 80。
 - 需要消耗至少 40 点营地补给值（硬核难度为 80，自定义难度最多 120）的食物和/或饮品才能进行[长休](Long_Rest.md "长休")。在[长休](Long_Rest.md "长休")期间可以使用更多补给，但这不会提供额外收益。如果未达到补给要求但仍进行休息，队伍将只获得[部分休息](Resting.md#Partial_rest "部分休息")的收益。在其他限制中，不恢复[短休](Short_rest.md "Short Rest")次数，队伍成员只恢复一半的生命值和法术位。
-- [酒精](Alcohol.md "酒精")饮料也可以用[附赠动作](Actions.md#Resources "动作")消耗，使角色获得[酒精](Alcohol_(Condition).md "酒精（状态）")状态。
+- [酒](Alcohol.md "酒")饮料也可以用[附赠动作](Actions.md#Resources "动作")消耗，使角色获得[酒精](Alcohol_(Condition).md "酒精（状态）")状态。
 - [腊肠](Salami.md "腊肠")也可以用作近战武器。
 - 以下补给品可用作自由动作进行治疗：
-  - [一杯水](Cup_of_Water.md "一杯水") (1d4⁠⁠[生命值](Healing.md "治疗"))
-  - [粥](Gruel.md "粥") (3d4⁠⁠[生命值](Healing.md "治疗"))
-  - [奶碗](Milk_bowl.md "奶碗") (1d4⁠⁠[生命值](Healing.md "治疗"))
-  - [山莓](Raspberry.md "山莓") (1d4⁠⁠[生命值](Healing.md "治疗"))
-  - 部分[红苹果](Red_Apple.md "红苹果") (1d4⁠⁠[生命值](Healing.md "治疗"))
-  - [变质的糖蜜馅饼](Spoiled_Treacle_Tart.md "变质的糖蜜馅饼") (1d4⁠⁠[生命值](Healing.md "治疗"))
-  - [可疑的肉块](Suspicious_Meat.md "可疑的肉块") (4d4⁠⁠[生命值](Healing.md "治疗"))
+  - [一杯水](Cup_of_Water.md "一杯水") (1d4⁠⁠[治疗](Healing.md "治疗"))
+  - [稀粥](Gruel.md "稀粥") (3d4⁠⁠[治疗](Healing.md "治疗"))
+  - [奶碗](Milk_bowl.md "奶碗") (1d4⁠⁠[治疗](Healing.md "治疗"))
+  - [山莓](Raspberry.md "山莓") (1d4⁠⁠[治疗](Healing.md "治疗"))
+  - 部分[红苹果](Red_Apple.md "红苹果") (1d4⁠⁠[治疗](Healing.md "治疗"))
+  - [变质的糖蜜馅饼](Spoiled_Treacle_Tart.md "变质的糖蜜馅饼") (1d4⁠⁠[治疗](Healing.md "治疗"))
+  - [可疑的肉块](Suspicious_Meat.md "可疑的肉块") (4d4⁠⁠[治疗](Healing.md "治疗"))
   - 仅限[邪念](The_Dark_Urge.md "邪念")：
-    - [烤矮人肚](Roasted_Dwarf_Belly.md "烤矮人肚") (4d4⁠⁠[生命值](Healing.md "治疗"))
-    - [烤矮人腿](Roasted_Dwarf_Leg.md "烤矮人腿") (4d4⁠⁠[生命值](Healing.md "治疗"))
-    - [烤矮人肋排](Roasted_Dwarf_Ribs.md "烤矮人肋排") (4d4⁠⁠[生命值](Healing.md "治疗"))
+    - [烤矮人肚](Roasted_Dwarf_Belly.md "烤矮人肚") (4d4⁠⁠[治疗](Healing.md "治疗"))
+    - [烤矮人腿](Roasted_Dwarf_Leg.md "烤矮人腿") (4d4⁠⁠[治疗](Healing.md "治疗"))
+    - [烤矮人肋排](Roasted_Dwarf_Ribs.md "烤矮人肋排") (4d4⁠⁠[治疗](Healing.md "治疗"))
 
 ## 相关成就
 
@@ -178,7 +178,7 @@
 - [混合咖啡](Mixed_Coffee.md "混合咖啡") (⁠3)
 - [洋葱](Onion.md "洋葱") (⁠3)
 - [柑橘](Orange.md "柑橘") (⁠3)
-- [梨子](Pear.md "梨子") (⁠3)
+- [梨](Pear.md "梨") (⁠3)
 - [土豆](Potato.md "土豆") (⁠3)
 - [红苹果](Red_Apple.md "红苹果") (⁠3)
 - [香辣猪肉肠](Spicy_Pork_Sausage.md "香辣猪肉肠") (⁠3)
@@ -210,7 +210,7 @@
 - [白蘑菇](White_Mushroom.md "白蘑菇") (⁠2)
 - [鱼头](Fish_Head.md "鱼头") (⁠1)
 - [神莓](Goodberry_(Item).md "神莓（物品）") (⁠1)
-- [粥](Gruel.md "粥") (⁠1)
+- [稀粥](Gruel.md "稀粥") (⁠1)
 - [啃了一半的苹果](Half-Eaten_Apple.md "啃了一半的苹果") (⁠1)
 - [奥克塔的替代餐](Okta's_Alternative_Meal.md "奥克塔的替代餐") (⁠1)
 - [山莓](Raspberry.md "山莓") (⁠1)
@@ -238,8 +238,8 @@
 - [苏萨尔甜酒](Suzailian_Sweet.md "苏萨尔甜酒") (⁠4)
 - [卡林珊王室专供](Syl-Pashan_Sup.md "卡林珊王室专供") (⁠4)
 - [堤喀玫瑰红](Tyche_Pink.md "堤喀玫瑰红") (⁠4)
-- [葡萄酒](Wine.md "葡萄酒") (⁠4)
-- [葡萄酒](Wine.md "葡萄酒") (⁠4)
+- [酒](Wine.md "酒") (⁠4)
+- [酒](Wine.md "酒") (⁠4)
 - [艾斯摩特拉恩红酒](Esmeltar_Red.md "艾斯摩特拉恩红酒") (⁠3)
 - [阿萨巴黄昏](Ashaba_Dusk.md "阿萨巴黄昏") (⁠1)
 - [布灵登石城胭脂红酒](Blingdenstone_Blush.md "布灵登石城胭脂红酒") (⁠1)

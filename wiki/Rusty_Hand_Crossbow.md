@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-**锈手弩**是[手弩](Hand_Crossbows.md "手弩")武器家族的常见变体。它是一种单手挥舞的[远程武器](Weapons.md "武器")。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
+**锈手弩**是[手弩](Hand_Crossbows.md "手弩")武器家族的常见变体。它是一种单手挥舞的[武器](Weapons.md "武器")。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
 
 这把灵巧的小弩已被锈蚀。
 

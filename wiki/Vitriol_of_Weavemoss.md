@@ -1,6 +1,6 @@
 # 编织苔藓的污物
 
-**编织苔藓的污物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[奥术滋养灵药](Elixir_of_Arcane_Cultivation.md "奥术滋养灵药")。
+**编织苔藓的污物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[奥术滋养灵药](Elixir_of_Arcane_Cultivation.md "奥术滋养灵药")。
 
 微小的编织物附着在这种恶臭的糊状物上，只有最敏锐的施法者才能察觉。
 

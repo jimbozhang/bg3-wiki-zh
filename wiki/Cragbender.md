@@ -95,7 +95,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 22 / (+6) | 15 / (+2) | 19 / (+4) | 10 / (0) | 12 / (+1) | 8 / (-1) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -103,29 +103,29 @@
 
 ## 特性
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低 1 点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低 1 点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 探索者难度属性
 
@@ -169,7 +169,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +10 | +2 | +8 | 0 | +1 | -1 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -177,29 +177,29 @@
 
 ## 特性
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低 1 点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低 1 点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 硬核难度属性
 
@@ -243,7 +243,7 @@
 | --- | --- | --- | --- |
 |  | 6 | 2 | 1 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -251,29 +251,29 @@
 
 ## 特性
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低 1 点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低 1 点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 技术信息
 
@@ -301,11 +301,11 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 注释](#notes)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 注释](#注释)
 
 ## 出场
 
@@ -353,7 +353,7 @@ UUID
 
 \+ [卓越骰子](Battlemaster.md#Superiority_dice "卓越骰子")
 
-可能使目标[恐慌](Frightened_(Condition).md "恐慌（状态）")。他们将在[检定](Ability_Check.md "检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。
+可能使目标[恐慌](Frightened_(Condition).md "恐慌（状态）")。他们将在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
@@ -368,7 +368,7 @@ UUID
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与其近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与其近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 

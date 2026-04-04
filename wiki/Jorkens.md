@@ -77,7 +77,7 @@ Male
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -127,7 +127,7 @@ Male
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -177,7 +177,7 @@ Male
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -199,10 +199,10 @@ Stats
 
 ## Contents
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 相关文献](#related-literature)
-- [3 笔记](#notes)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 相关文献](#相关文献)
+- [3 笔记](#笔记)
 
 ## 参与
 

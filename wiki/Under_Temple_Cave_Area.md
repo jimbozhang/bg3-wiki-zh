@@ -24,18 +24,18 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 地窖](#cellar)
-  - [1.2 洞穴区域](#cave-area)
-- [2 相关地点](#related-locations)
-- [3 相关任务](#related-quests)
-- [4 角色](#characters)
-  - [4.1 地窖与地穴](#cellar-and-crypt)
-  - [4.2 洞穴区域中的尸体](#corpses-in-the-cave-area)
-  - [4.3 变形怪](#doppelgangers)
-- [5 战利品](#loot)
-- [6 相关文献](#related-literature)
-- [7 脚注与参考文献](#footnotes-and-references)
+- [1 概述](#概述)
+  - [1.1 地窖](#地窖)
+  - [1.2 洞穴区域](#洞穴区域)
+- [2 相关地点](#相关地点)
+- [3 相关任务](#相关任务)
+- [4 角色](#角色)
+  - [4.1 地窖与地穴](#地窖与地穴)
+  - [4.2 洞穴区域中的尸体](#洞穴区域中的尸体)
+  - [4.3 变形怪](#变形怪)
+- [5 战利品](#战利品)
+- [6 相关文献](#相关文献)
+- [7 脚注与参考文献](#脚注与参考文献)
 
 ## 概述
 
@@ -56,7 +56,7 @@
 祈祷厅的西墙和南墙各有一扇门。南面是一个小图书馆。这里有相当多的可掠夺物品：
 
 - 位于 X: 16 Y: -1024 的书架包含几份随机卷轴
-- 附近的展示柜包含一瓶[识破隐形灵药](Elixir_of_See_Invisibility.md "识破隐形灵药")。它被锁住并设有陷阱（需要通过 DC 15 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")来发现陷阱，并通过两次 DC 20 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来解除陷阱和撬锁）
+- 附近的展示柜包含一瓶[识破隐形灵药](Elixir_of_See_Invisibility.md "识破隐形灵药")。它被锁住并设有陷阱（需要通过 DC 15 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")来发现陷阱，并通过两次 DC 20 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来解除陷阱和撬锁）
 - 它后面的桶里有若干治疗药水，数量和等级随机。
 - 位于 X: 10 Y: -1018 的书柜包含一份[秘法锁卷轴](Scroll_of_Arcane_Lock.md "秘法锁卷轴")、一份[支配人类卷轴](Scroll_of_Dominate_Person.md "支配人类卷轴")和一瓶[圣水](Holy_Water.md "圣水")。
 
@@ -64,7 +64,7 @@
 
 祈祷厅西边的房间是神殿地穴。如果队伍在[第一幕](Act_One.md "第一幕")中接受了⁠[帮助护符之灵](Help_the_Spirit_of_the_Amulet.md "帮助护符之灵")任务，并且当前物品栏中有[感知护符](Sentient_Amulet_(Rare).md "感知护符 (稀有)")，则可以通过打开[希拉·克拉文](Shirra_Clarwen.md "希拉·克拉文")埋葬的石棺来完成此任务。
 
-中央房间的东北和东南墙壁上有两个按钮，隐藏在可移动的纹章标志后面。两者都可以通过成功的 DC 10 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")来揭示。<sup>[\[1\]](#cite_note-1)</sup> 使用这些按钮可以进入洞穴区域。
+中央房间的东北和东南墙壁上有两个按钮，隐藏在可移动的纹章标志后面。两者都可以通过成功的 DC 10 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")来揭示。<sup>[\[1\]](#cite_note-1)</sup> 使用这些按钮可以进入洞穴区域。
 
 从任一侧打开隐藏门，会为具有[罪犯](Criminal.md "罪犯")背景的队伍成员获得激励点⁠[总有后门](Criminal.md#There's_Always_a_Back_Door "罪犯")。
 
@@ -78,7 +78,7 @@
 
 在 X: 65 Y: -1029 处躺着[佩内拉·伦本斯克斯](Penela_Lumpensicks.md "佩内拉·伦本斯克斯")的尸体，可以从中掠夺到[小丑的残躯](Clown's_Severed_Torso.md "小丑的残躯")和标题为[伊菈赛菈，第一人](Illasera,_the_First.md "伊菈赛菈，第一人")的便条。这些物品是⁠[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")任务的一部分。如果任务已开始，拾取它们会推进任务。否则，队伍成员只会评论现场和血腥的战利品。
 
-在 X: 67 Y: -1017 处有一个洞，靠近时会通过 DC 5 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")高亮显示。里面是[静止者](Stillmaker.md "静止者")，一把匕首，拾取后会推进⁠[破解慈爱神殿的谋杀案](Solve_the_Open_Hand_Temple_Murders.md "破解慈爱神殿的谋杀案")任务。
+在 X: 67 Y: -1017 处有一个洞，靠近时会通过 DC 5 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")高亮显示。里面是[静止者](Stillmaker.md "静止者")，一把匕首，拾取后会推进⁠[破解慈爱神殿的谋杀案](Solve_the_Open_Hand_Temple_Murders.md "破解慈爱神殿的谋杀案")任务。
 
 在洞穴更深处 X: 89 Y: -1044，可以在一个临时营地中找到几名提夫林难民的尸体。他们都不能通过[死者交谈](Speak_with_Dead.md "死者交谈")对话。营地有几个背包和一个装有少量战利品的旅行者的箱子。
 

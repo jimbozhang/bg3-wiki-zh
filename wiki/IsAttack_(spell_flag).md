@@ -29,15 +29,15 @@
 | [啃咬 (双脊龙)](Bite_(Dilophosaurus).md "啃咬 (双脊龙)") | 动作 |  | 1.5 m (5 ft) | 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d10 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") + 1d8⁠[强酸](Acid.md "强酸") |
 | [啃咬 (剑齿虎)](Bite_(Sabre-Toothed_Tiger).md "啃咬 (剑齿虎)") | 动作 |  | 1.5 m (5 ft) | 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d6 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺")施加 [倒伏](Prone_(Condition).md "倒伏 (状态)") |
 | [啃咬 (狼)](Bite_(Wolf).md "啃咬 (狼)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d4 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
-| [啃咬 (观察者眼魔)](Bite_(Spectator).md "啃咬 (观察者眼魔)") | 动作 |  | 2 m (7 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d8 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") |
-| [啃咬 (老鼠战斗者)](Bite_(Rat_Combatant).md "啃咬 (老鼠战斗者)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (观察者眼魔)](Bite_(Spectator).md "啃咬 (观察者眼魔)") | 动作 |  | 2 m (7 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d8 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (老鼠战斗者)](Bite_(Rat_Combatant).md "啃咬 (老鼠战斗者)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d4 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") |
 | [啃咬 (蛰伏伪怪)](Bite_(Cloaker).md "啃咬 (蛰伏伪怪)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 3d6 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺")施加 [开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)") |
 | [啃咬 (鲨蜥兽)](Bite_(Bulette).md "啃咬 (鲨蜥兽)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 4d12 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺")施加 [强酸](Acid_(Condition).md "强酸 (状态)") |
 | [啃咬 (幽魂犬)](Bite_(Ghost_Dogs).md "啃咬 (幽魂犬)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 3d6 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[黯蚀](Necrotic.md "黯蚀") |
-| [啃咬 (分支龙)](Bite_(Alioramus).md "啃咬 (分支龙)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")施加 [流血](Bleeding_(Condition).md "流血 (状态)") 和 [开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)") |
+| [啃咬 (分支龙)](Bite_(Alioramus).md "啃咬 (分支龙)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d4 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")施加 [流血](Bleeding_(Condition).md "流血 (状态)") 和 [开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)") |
 | [啃咬 (拟形怪)](Bite_(Mimic).md "啃咬 (拟形怪)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") | 2d8 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺")施加 [武器被偷！](Weapon_Stolen!_(Condition).md "武器被偷！ (状态)") |
 | [啃咬 (豺狼人)](Bite_(Gnoll).md "啃咬 (豺狼人)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d4 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") |
-| [啃咬 (小法妖)](Bite_(Gremishka).md "啃咬 (小法妖)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") + 1d6⁠[力场](Force.md "力场") |
+| [啃咬 (小法妖)](Bite_(Gremishka).md "啃咬 (小法妖)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d4 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") + 1d6⁠[力场](Force.md "力场") |
 | [啃咬 (老鼠)](Bite_(Rat).md "啃咬 (老鼠)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1⁠[穿刺](Piercing.md "穿刺") |
 | [啃咬 (蝙蝠)](Bite_(Bat).md "啃咬 (蝙蝠)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d4 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
 | [啃咬 (剑刃蜘蛛)](Bite_(Sword_Spider).md "啃咬 (剑刃蜘蛛)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d8 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
@@ -47,12 +47,12 @@
 | [啃咬 (鬣狗)](Bite_(Hyena).md "啃咬 (鬣狗)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d4 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
 | [啃咬 (狗)](Bite_(dog).md "啃咬 (狗)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d6 + [敏捷调整值](Dexterity#Dexterity_modifier_chart.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺") |
 | [啃咬 (熊)](Bite_(Bear).md "啃咬 (熊)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[穿刺](Piercing.md "穿刺") |
-| [啃咬 (基础)](Bite_(Base).md "啃咬 (基础)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") |
+| [啃咬 (基础)](Bite_(Base).md "啃咬 (基础)") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d4 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") |
 | [致盲伏击 (近战)](Blinding_Ambush_(melee).md "致盲伏击 (近战)") | 武器动作 | 每回合 | 3 m (10 ft) | 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 5d10⁠[光耀](Radiant.md "光耀")施加 [目盲](Blinded_(Condition).md "目盲 (状态)") |
 | [瞬息飞矢](Blink-of-an-eye_Bolt.md "瞬息飞矢") | 武器动作 |  | 武器 | 远程武器 [攻击掷骰](Attack_roll.md "攻击掷骰") | 正常武器伤害 |
 | [血骷髅猛击](Blood_Skeleton_Slam.md "血骷髅猛击") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d8 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[钝击](Bludgeoning.md "钝击")施加 [流血](Bleeding_(Condition).md "流血 (状态)") |
 | [蛙毒](Bufotoxin.md "蛙毒") | 动作 |  | 1.5 m (5 ft) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 1⁠[强酸](Acid.md "强酸")施加 [蛙毒](Bufotoxin_(Condition).md "蛙毒 (状态)") |
-| [燃烧爪](Burning_Claws.md "燃烧爪") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[挥砍](Slashing.md "挥砍") + 1d4⁠[火焰](Fire.md "火焰") |
+| [燃烧爪](Burning_Claws.md "燃烧爪") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d4 + [灵巧](Finesse.md "灵巧")⁠[挥砍](Slashing.md "挥砍") + 1d4⁠[火焰](Fire.md "火焰") |
 | [腐蚀爪](Caustic_Claws.md "腐蚀爪") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 4d8⁠[强酸](Acid.md "强酸") |
 | [爪击 (熊荒野形态)](Claws_(Bear_Wild_Shape).md "爪击 (熊荒野形态)") | 动作 |  | 1.5 m (5 ft) | 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d4 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "力量")⁠[挥砍](Slashing.md "挥砍") |
 | [爪击 (猫)](Claws_(Cat).md "爪击 (猫)") | 动作 |  | 1.5 m (5 ft) | 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰") | 2⁠[挥砍](Slashing.md "挥砍") |

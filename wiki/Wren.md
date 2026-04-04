@@ -90,21 +90,21 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")状态的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重新掷骰一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 探索者难度属性
 
@@ -154,21 +154,21 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")状态的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重新掷骰一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 硬核难度属性
 
@@ -218,21 +218,21 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")状态的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重新掷骰一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 技术信息
 
@@ -252,13 +252,13 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-- [3 相关任务](#related-quests)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+- [3 相关任务](#相关任务)
 
 ## 参与情况
 
@@ -292,7 +292,7 @@ Stats
 
 消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。
 
-每法术位等级恢复1d8[生命值](Healing.md "治疗")。
+每法术位等级恢复1d8[治疗](Healing.md "治疗")。
 
 范围：自身
 

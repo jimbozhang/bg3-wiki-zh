@@ -1,6 +1,6 @@
 # 喙啄攻击
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Beak_Attack.md "Special:WhatLinksHere/Beak Attack")的，请考虑编辑该链接以指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[喙啄攻击](Special_colon_WhatLinksHere/Beak_Attack.md "喙啄攻击")的，请考虑编辑该链接以指向正确的页面。
 
 **喙啄攻击**可能指以下动作：
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-进行一次 DC 15 的 [表演](Performance.md "表演") [检定](Ability_Check.md "属性检定")，成功则使你所有的近战武器攻击获得额外伤害，伤害值等于你的 [魅力](Charisma.md "魅力") [调整值](Ability_score_modifier.md "属性值调整值")（最低额外伤害为 1）。
+进行一次 DC 15 的 [表演](Performance.md "表演") [属性检定](Ability_Check.md "属性检定")，成功则使你所有的近战武器攻击获得额外伤害，伤害值等于你的 [魅力](Charisma.md "魅力") [调整值](Ability_score_modifier.md "属性值调整值")（最低额外伤害为 1）。
 
 ## 属性
 

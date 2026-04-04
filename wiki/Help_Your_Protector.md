@@ -4,13 +4,13 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 遇见君主](#meeting-the-emperor)
-  - [2.2 君主的故事](#the-emperor's-story)
-  - [2.3 提前结束](#early-ending)
-- [3 任务奖励](#quest-rewards)
-- [4 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 遇见君主](#遇见君主)
+  - [2.2 君主的故事](#君主的故事)
+  - [2.3 提前结束](#提前结束)
+- [3 任务奖励](#任务奖励)
+- [4 备注](#备注)
 
 ## 目标
 
@@ -42,7 +42,7 @@ _目标和日志条目可能因玩家的决定和结果而有所不同。_
 
 ## 流程攻略
 
-完成[击败凯瑟里克·索姆](Defeat_Ketheric_Thorm.md "Defeat Ketheric Thorm")后，在前往博德之门通道并在进入外城前于[飞龙岩瞭望台](Campsite.md "Campsite")进行长休，此任务会自动开始。一天结束后，队伍被[至上真神的声音](Elder_Brain.md "Elder Brain")唤醒，命令他们屈服。[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")失控，似乎被推开了。不久后，一个传送门打开，三名战士穿过传送门并攻击队伍。每回合都会出现一名额外的吉斯洋基敌人。队伍只有三回合的时间到达星界传送门。只需一名角色与传送门互动，整个队伍就会被传送到[星界](Astral_Plane.md "Astral Plane")。无需与任何袭击者战斗，他们也不会穿过传送门追击队伍；任何留下的战士在队伍返回时都会被发现死亡。
+完成[击败凯瑟里克·索姆](Defeat_Ketheric_Thorm.md "Defeat Ketheric Thorm")后，在前往博德之门通道并在进入外城前于[营地](Campsite.md "营地")进行长休，此任务会自动开始。一天结束后，队伍被[主脑](Elder_Brain.md "主脑")唤醒，命令他们屈服。[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")失控，似乎被推开了。不久后，一个传送门打开，三名战士穿过传送门并攻击队伍。每回合都会出现一名额外的吉斯洋基敌人。队伍只有三回合的时间到达星界传送门。只需一名角色与传送门互动，整个队伍就会被传送到[星界](Astral_Plane.md "Astral Plane")。无需与任何袭击者战斗，他们也不会穿过传送门追击队伍；任何留下的战士在队伍返回时都会被发现死亡。
 
 ### 遇见君主
 
@@ -58,7 +58,7 @@ _目标和日志条目可能因玩家的决定和结果而有所不同。_
 
 战斗结束后，君主终于解释了它的故事。它曾经和队伍成员一样，是博德之门的一名冒险者。渴望做更多事情的君主前往[月出之塔](Moonrise_Towers.md "Moonrise Towers")寻找宝藏，却被下方的夺心魔殖民地捕获，在那里被转化成了夺心魔。多年来，君主作为主脑的奴隶为其服务，就像其他奴隶一样，但后来得以挣脱并返回博德之门。君主生活在阴影中，以罪犯的大脑为食，并与公爵[贝琳·斯特尔曼](Belynne_Stelmane.md "Belynne Stelmane")合作，作为[护盾骑士团](Knights_of_the_Shield.md "Knights_of_the Shield")背后的统治力量。那些认识它但不知道它真实身份是夺心魔的人，因其在骑士团中的角色而称其为君主。然而，君主的真实身份被[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")勋爵发现，他强迫它重新为奴于主脑。在被派去执行夺取星界棱镜的任务后，它再次挣脱，并着手执行推翻主脑的任务。
 
-君主告诉队伍，已经吞噬的蝌蚪使他们更加强大，而作为灵吸怪，他们会更加强大。它给了他们一个[星蚀蝌蚪](Astral-Touched_Tadpole.md "Astral-Touched Tadpole")，与之共鸣的队伍成员可以转化为[部分灵吸怪](Partial-illithid.md "Partial-illithid")。然而，如果一名队伍成员吃掉它（且只能吃一次），则只有该成员会被转化。尽管君主敦促他们考虑，队伍可以同意或拒绝；如果玩家角色在此之前吞噬过任何蝌蚪，拒绝则需要通过一次DC 21的[感知](Wisdom.md "Wisdom")[检定](Ability_Check.md "Ability check")。
+君主告诉队伍，已经吞噬的蝌蚪使他们更加强大，而作为灵吸怪，他们会更加强大。它给了他们一个[星蚀蝌蚪](Astral-Touched_Tadpole.md "Astral-Touched Tadpole")，与之共鸣的队伍成员可以转化为[部分灵吸怪](Partial-illithid.md "Partial-illithid")。然而，如果一名队伍成员吃掉它（且只能吃一次），则只有该成员会被转化。尽管君主敦促他们考虑，队伍可以同意或拒绝；如果玩家角色在此之前吞噬过任何蝌蚪，拒绝则需要通过一次DC 21的[感知](Wisdom.md "Wisdom")[属性检定](Ability_Check.md "属性检定")。
 
 ### 提前结束
 

@@ -19,10 +19,10 @@ Race/class modding
 
 ## 目录
 
-- [1 文件夹结构](#folder-structure)
-- [2 处理 .lsx 文件，或更确切地说 .xml 文件](#working-with-.lsx,_or_rather_.xml_files)
-- [3 BG3 如何加载资源？](#how-does-bg3-load-resources?)
-- [4 Progressions.lsx](#progressions.lsx)
+- [1 文件夹结构](#文件夹结构)
+- [2 处理 .lsx 文件，或更确切地说 .xml 文件](#处理-.lsx-文件或更确切地说-.xml-文件)
+- [3 BG3 如何加载资源？](#BG3-如何加载资源？)
+- [4 Progressions.lsx](#Progressions.lsx)
 
 #### 文件夹结构
 

@@ -2,7 +2,7 @@
 
 深度挖掘是一把罕见的[战镐](War_Picks.md "War Picks")，命中时会施加[粉碎状态](Shattered_(Condition).md) condition。
 
-无数双手磨平了握柄，磨利了刀刃。这是一把祖传武器——或许可以追溯到将[灰矮人](Duergar.md "Duergar")从他们的[矮人亲族](Dwarf.md "Dwarf")中分裂出来的古老挖掘时代。
+无数双手磨平了握柄，磨利了刀刃。这是一把祖传武器——或许可以追溯到将[灰矮人](Duergar.md "Duergar")从他们的[矮人](Dwarf.md "矮人")中分裂出来的古老挖掘时代。
 
 ## 属性
 

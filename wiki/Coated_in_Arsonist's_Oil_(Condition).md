@@ -16,7 +16,7 @@
 
 持续时间：2回合
 
-- 受影响实体失去其[火焰抗性](Resistant.md "抗性")。
+- 受影响实体失去其[抗性](Resistant.md "抗性")。
 
 ## 纵火狂之油涂抹的来源
 
@@ -79,7 +79,7 @@
 [收缩油涂抹](Coated_in_Oil_of_Diminution_(Condition).md "收缩油涂抹 (状态)")
 |
 
-- 目标必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 11的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")，并且近战攻击伤害-1d4，持续2回合。
+- 目标必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 11的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")，并且近战攻击伤害-1d4，持续2回合。
 
 [冰封油涂抹](Coated_in_Oil_of_Freezing_(Condition).md "冰封油涂抹 (状态)")
 |

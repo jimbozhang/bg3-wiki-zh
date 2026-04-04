@@ -41,7 +41,7 @@ UID
 
 ## 备注
 
-- 除了一次短休的充能时间外，此动作与[猎人版本](Whirlwind_Attack.md "旋风斩")相同。更多详细说明请参阅该页面。
+- 除了一次短休的充能时间外，此动作与[旋风斩](Whirlwind_Attack.md "旋风斩")相同。更多详细说明请参阅该页面。
 
 ---
 *Source: [Whirlwind Attack (Weapon Action)](https://bg3.wiki/wiki/Whirlwind_Attack_(Weapon_Action)*

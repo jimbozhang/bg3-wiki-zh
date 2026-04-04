@@ -66,11 +66,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -114,11 +114,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -162,11 +162,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -174,13 +174,13 @@
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 画廊](#gallery)
-- [4 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 画廊](#画廊)
+- [4 外部链接](#外部链接)
 
 ## 参与度
 

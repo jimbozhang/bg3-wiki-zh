@@ -1,6 +1,6 @@
 # 丝腺
 
-**丝腺**是一种[炼金术材料](Alchemy.md "炼金术")，可以精炼成[蛛丝悬液](Suspension_of_Spider_Silk.md "蛛丝悬液")，并组合制作[蛛网爆弹](Web_Grenade.md "蛛网爆弹")。
+**丝腺**是一种[炼金术](Alchemy.md "炼金术")，可以精炼成[蛛丝悬液](Suspension_of_Spider_Silk.md "蛛丝悬液")，并组合制作[蛛网爆弹](Web_Grenade.md "蛛网爆弹")。
 
 厚实且带血，这个肉质囊袋饱满而新鲜。
 

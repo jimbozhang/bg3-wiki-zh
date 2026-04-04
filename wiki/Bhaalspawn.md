@@ -13,10 +13,10 @@
 - ⁠[戈里昂的守护者](https://baldursgate.fandom.com/wiki/Gorion%27s_Ward)，《博德之门1》和《博德之门2》的主角（提及）
 - [伊拉塞拉的回声](Echo_of_Illasera.md "伊拉塞拉的回声")，一名[精灵](Elf.md "精灵")，《博德之门2：巴尔王座》中“五人组”的成员。
 - [堕落的巴尔后裔](Fallen_Bhaalspawn.md "堕落的巴尔后裔")，奥林作为巴尔选民的竞争者。暗示这可能与[邪念](Dark_Urge.md "邪念")是同一角色。
-- [腥红奥林](Orin.md "奥林")，巴尔的选民。
+- [奥林](Orin.md "奥林")，巴尔的选民。
 - [海伦娜·安基夫](Helena_Anchev.md "海伦娜·安基夫")，沙洛佛克的女儿，腥红奥林的母亲。
 - [沙洛佛克·安基夫](Sarevok_Anchev.md "沙洛佛克·安基夫")，《博德之门1》的原始反派，以及《博德之门2》的潜在伙伴。
-- [森代](Echo_of_Sendai.md "森代的回声")，一名[卓尔](Drow.md "卓尔")，《博德之门2：巴尔王座》中“五人组”的成员。
+- [森代的回声](Echo_of_Sendai.md "森代的回声")，一名[卓尔](Drow.md "卓尔")，《博德之门2：巴尔王座》中“五人组”的成员。
 - [邪念](The_Dark_Urge.md "邪念")，《博德之门3》中可用的独特玩家[出身](Origin.md "出身")。
 - ⁠[雅嘎-修拉](https://baldursgate.fandom.com/wiki/Yaga-Shura)，一名火焰[巨人](Giant.md "巨人")，《博德之门2：巴尔王座》中“五人组”的成员（提及）
 

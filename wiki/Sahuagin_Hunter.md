@@ -61,15 +61,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**芳香之血**](Scenting_Blood.md "芳香之血")
+- [芳香之血](Scenting_Blood.md "芳香之血")
 
 如果沙华鱼人看到受伤的生物，它会进入[鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)")状态。
 
@@ -109,15 +109,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**芳香之血**](Scenting_Blood.md "芳香之血")
+- [芳香之血](Scenting_Blood.md "芳香之血")
 
 如果沙华鱼人看到受伤的生物，它会进入[鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)")状态。
 
@@ -157,15 +157,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**芳香之血**](Scenting_Blood.md "芳香之血")
+- [芳香之血](Scenting_Blood.md "芳香之血")
 
 如果沙华鱼人看到受伤的生物，它会进入[鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)")状态。
 

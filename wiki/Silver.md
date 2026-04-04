@@ -79,11 +79,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3米（10英尺）内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
@@ -127,11 +127,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3米（10英尺）内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
@@ -175,11 +175,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3米（10英尺）内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
@@ -209,13 +209,13 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-    - [1.1.1 未使用动物交谈](#without-speak-with-animals)
-    - [1.1.2 使用动物交谈](#with-speak-with-animals)
-- [2 伙伴好感度](#companion-approval)
-- [3 相关文献](#related-literature)
-- [4 注释与参考](#notes-and-references)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+    - [1.1.1 未使用动物交谈](#未使用动物交谈)
+    - [1.1.2 使用动物交谈](#使用动物交谈)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 相关文献](#相关文献)
+- [4 注释与参考](#注释与参考)
 
 ## 出场
 

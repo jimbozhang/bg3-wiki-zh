@@ -1,6 +1,6 @@
 # 狂蛙人的小号
 
-**狂蛙人的小号**是一种[炼金术材料](Alchemy.md "炼金术")。将3个这种材料组合可制成[狂蛙人的小号悬液](Suspension_of_Bullywug_Trumpet.md "狂蛙人的小号悬液")，用于制作[简易毒素](Simple_Toxin.md "简易毒素")。
+**狂蛙人的小号**是一种[炼金术](Alchemy.md "炼金术")。将3个这种材料组合可制成[狂蛙人的小号悬液](Suspension_of_Bullywug_Trumpet.md "狂蛙人的小号悬液")，用于制作[简易毒素](Simple_Toxin.md "简易毒素")。
 
 一种酸涩、难闻的蘑菇，狂蛙人的小号可在任何黑暗潮湿的地方找到。
 

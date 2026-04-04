@@ -80,23 +80,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可使用[反应](Reaction.md "反应")使即将受到的命中伤害减半。
 
@@ -118,11 +118,11 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关任务](#related-quests)
+- [1 参与情况](#参与情况)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关任务](#相关任务)
 
 ## 参与情况
 
@@ -168,7 +168,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口状态。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 

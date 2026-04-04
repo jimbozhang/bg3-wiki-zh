@@ -18,9 +18,9 @@
 ## 目录
 
 - [1 本地化](#localization)
-  - [1.1 注意事项](#good-to-know)
+  - [1.1 注意事项](#注意事项)
 - [2 将模组翻译成其他语言](#translating-mods-to-other-languages)
-  - [2.1 创建补丁](#creating-the-patch)
+  - [2.1 创建补丁](#创建补丁)
 
 # 本地化
 

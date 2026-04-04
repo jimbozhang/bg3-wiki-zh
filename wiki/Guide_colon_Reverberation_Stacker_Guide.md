@@ -22,13 +22,13 @@
 
 ## 目录
 
-- [1 简介](#introduction)
-- [2 概述](#general-overview)
-  - [2.1 核心机制](#core-mechanics)
-- [3 物品与获取](#items-and-acquisition)
-- [4 游戏玩法与连招](#gameplay-and-combos)
-- [5 升级与进阶](#leveling-and-progression)
-- [6 综合讨论](#general-discussion)
+- [1 简介](#简介)
+- [2 概述](#概述)
+  - [2.1 核心机制](#核心机制)
+- [3 物品与获取](#物品与获取)
+- [4 游戏玩法与连招](#游戏玩法与连招)
+- [5 升级与进阶](#升级与进阶)
+- [6 综合讨论](#综合讨论)
 
 ## 简介
 

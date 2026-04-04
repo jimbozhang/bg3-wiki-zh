@@ -23,7 +23,7 @@
 体型
 中型
 [敏锐感官](Keen_Senses.md "Keen Senses")
-你获得[感知](Perception.md "Perception")技能的[熟练项](Proficiency.md "Proficiency")。
+你获得[察觉技能](Perception.md "察觉技能")技能的[熟练项](Proficiency.md "Proficiency")。
 
 [精灵武器训练](Elven_Weapon_Training.md "Elven Weapon Training")
 你熟练掌握[长剑](Longswords.md "Longswords")、[短剑](Shortswords.md "Shortswords")、[长弓](Longbows.md "Longbows")和[短弓](Shortbows.md "Shortbows")。
@@ -68,7 +68,7 @@
 
 - [交友术](Friends.md "交友术")
 
-- [光亮术](Light.md "光亮术")
+- [轻型](Light.md "轻型")
 
 - [法师之手](Mage_Hand.md "法师之手")
 

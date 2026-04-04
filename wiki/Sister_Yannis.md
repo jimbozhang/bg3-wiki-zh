@@ -100,15 +100,15 @@
 
 - - - ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -158,15 +158,15 @@
 
 - - - ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -216,15 +216,15 @@
 
 - - - ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -266,7 +266,7 @@ UUID
 
 ### 第三幕
 
-**扬尼斯**可以在[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")X: -45 Y: -6处找到，她正在与[调查员瓦莱里亚](Valeria.md "瓦莱里亚")争论。她相信被指控杀害[罗根神父](Lorgan.md "Lorgan")的难民[布里格](Brilgor.md "Brilgor")是无辜的。然而，瓦莱里亚不同意并离开了神殿。队伍可以接近扬尼斯询问争论的原因。扬尼斯解释了案件并请求队伍也进行调查。她预先警告他们，必须收集非常有说服力的证据才能说服瓦莱里亚相信布里格的无辜。同意调查会授予队伍中具有[智者](Sage.md "智者")特性的成员[异界特工助理](Sage.md#Assistant_to_the_Extra-Planar_Agent "异界特工助理")。
+**扬尼斯**可以在[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")X: -45 Y: -6处找到，她正在与[瓦莱里亚](Valeria.md "瓦莱里亚")争论。她相信被指控杀害[罗根神父](Lorgan.md "Lorgan")的难民[布里格](Brilgor.md "Brilgor")是无辜的。然而，瓦莱里亚不同意并离开了神殿。队伍可以接近扬尼斯询问争论的原因。扬尼斯解释了案件并请求队伍也进行调查。她预先警告他们，必须收集非常有说服力的证据才能说服瓦莱里亚相信布里格的无辜。同意调查会授予队伍中具有[智者](Sage.md "智者")特性的成员[异界特工助理](Sage.md#Assistant_to_the_Extra-Planar_Agent "异界特工助理")。
 
 队伍也可以向扬尼斯询问[希拉·克拉文](Shirra_Clarwen.md "希拉·克拉文")的位置，以完成[帮助护符之灵](Help_the_Spirit_of_the_Amulet.md "帮助护符之灵")。她告知他们希拉一年前去世了，并指引队伍前往地下室墓穴。
 
@@ -292,7 +292,7 @@ UUID
 
 用火焰般的光耀吞噬目标。
 
-[敏](Dexterity.md "敏") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程: 18 米 (60 英尺)
 
 ### 战利品

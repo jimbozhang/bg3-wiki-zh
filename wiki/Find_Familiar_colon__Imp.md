@@ -1,6 +1,6 @@
 # 获得魔宠：小魔鬼
 
-**获得魔宠：小魔鬼** 是一个 [1级咒法系法术](Spells.md "Spells")。此法术是 [获得魔宠](Find_Familiar.md "Find Familiar") 法术的一个变体，可召唤一只小型小魔鬼。
+**获得魔宠：小魔鬼** 是一个 [法术](Spells.md "法术")。此法术是 [获得魔宠](Find_Familiar.md "Find Familiar") 法术的一个变体，可召唤一只小型小魔鬼。
 
 ## 描述
 

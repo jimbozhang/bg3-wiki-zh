@@ -21,7 +21,7 @@
 - [护甲等级](Armour_Class.md "护甲等级") +2
 
 [亵渎者自愈力](Defier's_Rejuvenation.md "亵渎者自愈力")
-每当穿戴者成功通过[法术](Spells.md "法术")的[豁免检定](Saving_throw.md "豁免检定")时，他们恢复 1d4⁠⁠[生命值](Healing.md "治疗")。
+每当穿戴者成功通过[法术](Spells.md "法术")的[豁免检定](Saving_throw.md "豁免检定")时，他们恢复 1d4⁠⁠[治疗](Healing.md "治疗")。
 
 [高级库席戈还击](Greater_Kushigo_Counter.md "高级库席戈还击")
 穿戴者可以使用[反应](Actions.md#Reactions "动作")对任何未命中的攻击者进行[徒手打击](Unarmed_Strike.md "徒手打击")。

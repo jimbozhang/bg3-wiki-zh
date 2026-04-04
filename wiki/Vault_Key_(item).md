@@ -8,7 +8,7 @@ There are a number of similarly named keys, for disambiguation see: [Vault Key](
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 

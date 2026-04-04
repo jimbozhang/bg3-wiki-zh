@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- 在[迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "迦纳斯夫人的宅邸")中[奥斯卡](Oskar_Fevras.md "奥斯卡·费拉斯")画室下方的[军械库](Armoury.md "军械库")中
+- 在[迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "迦纳斯夫人的宅邸")中[奥斯卡·费拉斯](Oskar_Fevras.md "奥斯卡·费拉斯")画室下方的[军械库](Armoury.md "军械库")中
 
 ---
 *Source: [Blackplume Helm](https://bg3.wiki/wiki/Blackplume_Helm)*

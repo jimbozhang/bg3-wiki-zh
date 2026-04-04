@@ -14,13 +14,13 @@
 
 ## 目录
 
-- [1 力量调整值表](#strength-modifier-chart)
-- [2 提升方式](#ways-to-increase)
-- [3 相关物品](#related-items)
-  - [3.1 影响力量](#affecting-strength)
-  - [3.2 影响豁免检定](#affecting-saving-throws)
-  - [3.3 影响属性检定](#affecting-ability-checks)
-  - [3.4 受益于力量](#benefiting-from-strength)
+- [1 力量调整值表](#力量调整值表)
+- [2 提升方式](#提升方式)
+- [3 相关物品](#相关物品)
+  - [3.1 影响力量](#影响力量)
+  - [3.2 影响豁免检定](#影响豁免检定)
+  - [3.3 影响属性检定](#影响属性检定)
+  - [3.4 受益于力量](#受益于力量)
 
 ## 力量调整值表
 

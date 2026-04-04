@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[一份为[博德之门](Baldur's_Gate.md "博德之门")准备的匆忙写就的计划单\]
+\[博德之门](Baldur's_Gate.md "博德之门")准备的匆忙写就的计划单\]
 
 去[外城区](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate)找食宿。
 

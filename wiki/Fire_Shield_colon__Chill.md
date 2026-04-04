@@ -1,10 +1,10 @@
 # 火焰护盾：寒冷
 
-**火焰护盾：寒冷**是一个[4级塑能学派法术](Spells.md "Spells")。此法术以冰寒火焰护盾施法者。它是[火焰护盾](Fire_Shield.md "Fire Shield")的一个变体。
+**火焰护盾：寒冷**是一个[法术](Spells.md "法术")。此法术以冰寒火焰护盾施法者。它是[火焰护盾](Fire_Shield.md "Fire Shield")的一个变体。
 
 ## 描述
 
-冰寒火焰在3米（10英尺）半径范围内散发光芒。你只承受所有[火焰](Fire.md "Fire")伤害的[一半](Resistance.md "Resistance")，并对任何以[近战攻击](melee.md "melee")击中你的单位造成2d8[寒冷](Cold.md "Cold")伤害。
+冰寒火焰在3米（10英尺）半径范围内散发光芒。你只承受所有[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "抗性")，并对任何以[近战](melee.md "近战")击中你的单位造成2d8[寒冷](Cold.md "Cold")伤害。
 
 ## 属性
 

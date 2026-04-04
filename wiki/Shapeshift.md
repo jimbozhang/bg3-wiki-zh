@@ -2,7 +2,7 @@
 
 另请参阅：[伪装术](Seeming.md "Seeming")，此法术的更强大版本。
 
-**伪装术**是[1级幻术学派法术](Spells.md "Spells")。它允许施法者暂时改变自己的外观。激活时，可使用动作[驱散伪装](Dispel_Disguise.md "Dispel_Disguise")来结束效果。
+**伪装术**是[法术](Spells.md "法术")。它允许施法者暂时改变自己的外观。激活时，可使用动作[驱散伪装](Dispel_Disguise.md "Dispel_Disguise")来结束效果。
 
 ## 描述
 

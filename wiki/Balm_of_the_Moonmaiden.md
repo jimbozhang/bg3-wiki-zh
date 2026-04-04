@@ -38,7 +38,7 @@ UID
 
 其他学习方式：
 
-- 在[召集盟友](Gather_Your_Allies.md "召集盟友")期间，与[伊索贝尔·索姆](Isobel.md "伊索贝尔")结盟。
+- 在[召集盟友](Gather_Your_Allies.md "召集盟友")期间，与[伊索贝尔](Isobel.md "伊索贝尔")结盟。
 
 ## 注释
 

@@ -19,7 +19,7 @@
 
 [神祇](Deity.md "Deity")
 
-**密斯特拉**是魔法的[女神](Deities.md "Deities")。她与奥秘和[知识](Knowledge_Domain.md "Knowledge Domain")领域相关联。玩家角色[牧师](Cleric.md "Cleric")可以选择密斯特拉作为他们的守护神祇。
+**密斯特拉**是魔法的[女神](Deities.md "Deities")。她与奥秘和[知识领域](Knowledge_Domain.md "知识领域")领域相关联。玩家角色[牧师](Cleric.md "Cleric")可以选择密斯特拉作为他们的守护神祇。
 
 > “
 >
@@ -41,7 +41,7 @@
 
 密斯特拉在[盖尔](Gale.md "Gale")的故事中扮演着主要间接但重要的角色，无论他是被选为[出身](Origin.md "Origin")还是[伙伴](Companion.md "Companion")。在第三幕中，盖尔_可能_（但或许不能保证）被允许觐见密斯特拉。如果参加了这次觐见，可以观看对峙过程，但除非盖尔被选为出身，否则无法控制对话。
 
-[伊尔明斯特·艾摩](Elminster.md "Elminster")是_《[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")》_事件中密斯特拉的现任冠军勇士。
+[伊尔明斯特](Elminster.md "伊尔明斯特")是_《[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")》_事件中密斯特拉的现任冠军勇士。
 
 一个名为[莱诺尔·德·赫斯特](Lenore_De_Hurst.md "Lenore De Hurst")的角色在多个物品描述中被称为“密斯特拉的牧师”。
 

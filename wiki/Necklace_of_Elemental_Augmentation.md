@@ -42,12 +42,12 @@ _关于元素强化：_
 
 | 名称 | 等级 | 施法时间 | 持续时间 | 范围/区域 | 攻击/豁免 | 伤害/效果 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [酸液飞溅](Acid_Splash.md "酸液飞溅") | 戏法 |  |  | - | 18 米 / 60尺 / 2米 / 7尺 (半径) | [敏](Dexterity.md "敏捷") [豁免](Saving_throw.md "豁免检定") | 1d6[强酸](Acid.md "强酸") |
+| [酸液飞溅](Acid_Splash.md "酸液飞溅") | 戏法 |  |  | - | 18 米 / 60尺 / 2米 / 7尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throw.md "豁免检定") | 1d6[强酸](Acid.md "强酸") |
 | [激活巫术箭](Activate_Witch_Bolt.md "激活巫术箭") | 戏法 |  |  | - | 30 米 / 100尺 | - | 1d12[闪电](Lightning.md "闪电") |
-| [诱捕电击](Ensnaring_Shock.md "诱捕电击") | 戏法 |  |  | 4 驱散 | 18 米 / 60 尺 | [敏](Dexterity.md "敏捷") [豁免](Saving_throw.md "豁免检定") | 1d4[闪电](Lightning.md "闪电") |
+| [诱捕电击](Ensnaring_Shock.md "诱捕电击") | 戏法 |  |  | 4 驱散 | 18 米 / 60 尺 | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throw.md "豁免检定") | 1d4[闪电](Lightning.md "闪电") |
 | [火焰箭](Fire_Bolt.md "火焰箭") | 戏法 |  |  | - | 18 米 / 60尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d10[火焰](Fire.md "火焰") |
 | [火焰箭?](Firebolt_q_.md "火焰箭?") | 戏法 |  |  | - | 18 米 / 60尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d10[火焰](Fire.md "火焰") |
-| [地狱火撕裂](Hellflame_Cleave.md "地狱火撕裂") | 戏法 |  |  | 1 驱散 | 3米 / 10尺 (锥形) | [敏](Dexterity.md "敏捷") [豁免](Saving_throw.md "豁免检定") | 正常武器伤害 / 2d6[火焰](Fire.md "火焰") |
+| [地狱火撕裂](Hellflame_Cleave.md "地狱火撕裂") | 戏法 |  |  | 1 驱散 | 3米 / 10尺 (锥形) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throw.md "豁免检定") | 正常武器伤害 / 2d6[火焰](Fire.md "火焰") |
 | [燃火术](Produce_Flame.md "燃火术") | 戏法 |  |  | 长休 | 自身 | - | 1d8[火焰](Fire.md "火焰") |
 | [燃火术：投掷](Produce_Flame_colon__Hurl.md "燃火术：投掷") | 戏法 |  |  | - | 9 米 / 30尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8[火焰](Fire.md "火焰") |
 | [冷冻射线](Ray_of_Frost.md "冷冻射线") | 戏法 |  |  | 1 驱散 | 18 米 / 60尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8[寒冷](Cold.md "寒冷") |

@@ -4,7 +4,7 @@
 
 ## 描述
 
-每当装备者成功通过针对法术的 [豁免检定](Saving_throw.md "Saving Throw") 时，他们会恢复 1d6⁠⁠[生命值](Healing.md "Healing")。
+每当装备者成功通过针对法术的 [豁免检定](Saving_throw.md "Saving Throw") 时，他们会恢复 1d6⁠⁠[治疗](Healing.md "治疗")。
 
 ## 如何习得
 

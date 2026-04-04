@@ -20,7 +20,7 @@
 
 ## 文本
 
-将未开封的[箱子](Caravan_Strongbox.md "商队保险箱")交给我。
+将未开封的[商队保险箱](Caravan_Strongbox.md "商队保险箱")交给我。
 
 再读一遍第一句话。
 

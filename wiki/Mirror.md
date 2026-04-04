@@ -1,6 +1,6 @@
 # 镜子
 
-这是一个消歧义页面，指向名称模糊的文章。如果文章中的链接将您[带到这里](Special_colon_WhatLinksHere/Mirror.md "Special:WhatLinksHere/Mirror")，请考虑编辑它以指向预期的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果文章中的链接将您[镜子](Special_colon_WhatLinksHere/Mirror.md "镜子")，请考虑编辑它以指向预期的页面。
 
 - 杂物物品 [镜子](Mirror_(Clutter).md)
 - 法术 [镜像术](Mirror_Image.md "Mirror Image")

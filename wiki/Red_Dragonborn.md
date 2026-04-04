@@ -231,7 +231,7 @@
 
 某些物品在由龙裔装备或穿戴时具有独特的加成。
 
-- [龙息长柄刀](Drakethroat_Glaive.md "龙息长柄刀"): [恶龙吐息](Vicious_Dragon_Breath.md "恶龙吐息") - 敌人对龙裔吐息武器的[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+- [龙息](Drakethroat_Glaive.md "龙息"): [恶龙吐息](Vicious_Dragon_Breath.md "恶龙吐息") - 敌人对龙裔吐息武器的[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
 ## 著名龙裔
 

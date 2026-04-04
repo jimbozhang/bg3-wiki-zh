@@ -2,7 +2,7 @@
 
 **治疗熏香灵光**
 
-- 对受影响实体及10米（33英尺）范围内的盟友施加[治疗熏香](Healing_Incense_(Condition).md "治疗熏香 (状态)")，每驱散恢复1d4⁠⁠[生命值](Healing.md "治疗")。
+- 对受影响实体及10米（33英尺）范围内的盟友施加[治疗熏香](Healing_Incense_(Condition).md "治疗熏香 (状态)")，每驱散恢复1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ## 属性
 
@@ -12,7 +12,7 @@
 
 **[治疗熏香](Healing_Incense_(Condition).md "治疗熏香 (状态)")**
 
-- 只要受影响实体在施法者10米（33英尺）范围内，其将在施法者驱散开始时恢复1d4⁠⁠[生命值](Healing.md "治疗")。
+- 只要受影响实体在施法者10米（33英尺）范围内，其将在施法者驱散开始时恢复1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ## 治疗熏香灵光来源
 
@@ -24,7 +24,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 对受影响实体及10米（33英尺）范围内的盟友施加[治疗熏香](Healing_Incense_(Condition).md "治疗熏香 (状态)")，每驱散恢复1d4⁠⁠[生命值](Healing.md "治疗")。
+- 对受影响实体及10米（33英尺）范围内的盟友施加[治疗熏香](Healing_Incense_(Condition).md "治疗熏香 (状态)")，每驱散恢复1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ---
 *Source: [Healing Incense Aura (Condition)](https://bg3.wiki/wiki/Healing_Incense_Aura_(Condition)*

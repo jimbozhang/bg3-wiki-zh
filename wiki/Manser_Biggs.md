@@ -93,19 +93,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -155,19 +155,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -217,19 +217,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -259,13 +259,13 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 显著战利品](#notable-loot)
-- [3 待机对话](#idle-conversation)
-- [4 死者交谈](#speak-with-dead)
-- [5 相关任务](#related-quests)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 显著战利品](#显著战利品)
+- [3 待机对话](#待机对话)
+- [4 死者交谈](#死者交谈)
+- [5 相关任务](#相关任务)
 
 ## 参与
 
@@ -273,7 +273,7 @@ UUID
 
 如果作为任务[解救贡德信徒](Save_the_Gondians.md "解救贡德信徒")的一部分拯救他，他会跑出实验室，并在铸造厂外与其他贡德信徒会合。
 
-如果他被杀死，可以对他施放[死者交谈](Speak_with_Dead.md "死者交谈")，他会透露，当他的丈夫[兰伯斯·比格斯](Lanpos_Biggs.md "兰伯斯·比格斯")发现他们的儿子[格林多](Grindo_Biggs.md "格林多·比格斯")和[哈斯塔](Hastar_Biggs.md "哈斯塔·比格斯")被关押在哪里时，他被迫杀死了他。
+如果他被杀死，可以对他施放[死者交谈](Speak_with_Dead.md "死者交谈")，他会透露，当他的丈夫[兰伯斯·比格斯](Lanpos_Biggs.md "兰伯斯·比格斯")发现他们的儿子[格林多](Grindo_Biggs.md "格林多·比格斯")和[哈斯塔·比格斯](Hastar_Biggs.md "哈斯塔·比格斯")被关押在哪里时，他被迫杀死了他。
 
 ## 战斗
 
@@ -304,7 +304,7 @@ UUID
 
 \+ 2d4⁠[强酸](Acid.md "强酸")
 
-射出一支绿色的箭，爆裂成强酸喷雾。立即造成 ⁠[4d4 强酸](Acid.md "强酸") 伤害，并在目标下一回合结束时造成 ⁠[2d4 强酸](Acid.md "强酸") 伤害。
+射出一支绿色的箭，爆裂成强酸喷雾。立即造成 ⁠[强酸](Acid.md "强酸") 伤害，并在目标下一回合结束时造成 ⁠[强酸](Acid.md "强酸") 伤害。
 
 如果法术未命中，目标仍受到一半初始伤害，但在其下一回合结束时不会受到伤害。
 

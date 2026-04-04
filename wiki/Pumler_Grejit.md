@@ -86,15 +86,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**愤怒伤痕**](Scar_of_Fury.md "Scar of Fury")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 当生命值低于 40% 时，进行[重击](Critical_Hit.md "Critical Hit")。
 
@@ -142,15 +142,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**愤怒伤痕**](Scar_of_Fury.md "Scar of Fury")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 当生命值低于 40% 时，进行[重击](Critical_Hit.md "Critical Hit")。
 
@@ -198,15 +198,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**愤怒伤痕**](Scar_of_Fury.md "Scar of Fury")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 当生命值低于 40% 时，进行[重击](Critical_Hit.md "Critical Hit")。
 
@@ -236,13 +236,13 @@ Stats
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 闲谈](#idle-banter)
-- [4 相关任务](#related-quests)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 闲谈](#闲谈)
+- [4 相关任务](#相关任务)
 
 ## 参与度
 
@@ -286,7 +286,7 @@ Stats
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法流血。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
@@ -308,7 +308,7 @@ Stats
 
 对敌人进行非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
@@ -318,7 +318,7 @@ Stats
 
 1d10 + 战士等级⁠[治疗](Healing.md "Healing")
 
-运用你的精力保护自己。你恢复 1d10 + 战士等级⁠⁠[生命值](Healing.md "Healing")。
+运用你的精力保护自己。你恢复 1d10 + 战士等级⁠⁠[治疗](Healing.md "治疗")。
 
 范围：自身
 充能：[短休](Short_rest.md "Short rest")

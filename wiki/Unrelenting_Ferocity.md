@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 治疗：
 
-1d8 (1~8) + [体质调整值](Ability_score_modifier.md "属性值调整值") ⁠[生命值](Healing.md "治疗")
+1d8 (1~8) + [体质调整值](Ability_score_modifier.md "属性值调整值") ⁠[治疗](Healing.md "治疗")
 
 详情：
 范围：自身

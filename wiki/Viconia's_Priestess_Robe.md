@@ -21,7 +21,7 @@
 - [护甲等级](Armour_Class.md "护甲等级") +1
 
 [莎尔的暗影](Shar's_Umbrae.md "莎尔的暗影")
-当处于[隐匿](Obscured.md "隐匿")状态时，穿着者在[隐匿检定](Stealth.md "隐匿")上拥有[优势](Advantage.md "优势")。
+当处于[隐匿](Obscured.md "隐匿")状态时，穿着者在[隐匿](Stealth.md "隐匿")上拥有[优势](Advantage.md "优势")。
 
 [莎尔之帷幕](Sharran_Veil.md "莎尔之帷幕")
 [虔诚护盾](Shield_of_Faith.md "虔诚护盾")还会为你所有[豁免检定](Saving_throw.md "豁免检定")提供+2加值。

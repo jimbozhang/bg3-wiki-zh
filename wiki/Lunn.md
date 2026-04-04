@@ -11,7 +11,7 @@
 
 ### 阵营
 
-[竖琴手同盟](Harpers.md "Harpers") [(巴尔教团)](Bhaal.md "Bhaal")
+[竖琴手同盟](Harpers.md "Harpers") [巴尔](Bhaal.md "巴尔")
 
 ## 属性
 
@@ -77,7 +77,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -85,7 +85,7 @@
 
 如果目标被[伏击](Ambushed_(Condition).md "伏击 (状态)")，则可进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -133,7 +133,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -141,7 +141,7 @@
 
 如果目标被[伏击](Ambushed_(Condition).md "伏击 (状态)")，则可进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -189,11 +189,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**读心者**](Mindreader.md "Mindreader")
+- [读心者](Mindreader.md "读心者")
 
 远程攻击对该生物具有[劣势](Disadvantage.md "劣势")。
 
@@ -201,7 +201,7 @@
 
 如果目标被[伏击](Ambushed_(Condition).md "伏击 (状态)")，则可进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -233,7 +233,7 @@ UUID
 
 属性
 
-`Elf_Caster` **莱辛**曾是[竖琴手同盟](Harpers.md "Harpers")的一名[木精灵](Wood_elf.md "木精灵")成员。她最初的任务是调查[巴尔教团](Bhaal.md "Bhaal")在城中的活动，并寻找[疯狂的拉什玛尔人](Minsc.md "明斯克")的下落，但后来被一只名为**伦恩**的[变形怪](Doppelganger.md "变形怪")杀害并冒充。
+`Elf_Caster` **莱辛**曾是[竖琴手同盟](Harpers.md "Harpers")的一名[木精灵](Wood_elf.md "木精灵")成员。她最初的任务是调查[巴尔](Bhaal.md "巴尔")在城中的活动，并寻找[明斯克](Minsc.md "明斯克")的下落，但后来被一只名为**伦恩**的[变形怪](Doppelganger.md "变形怪")杀害并冒充。
 
 ## 目录
 
@@ -252,7 +252,7 @@ UUID
 
 ### 巴尔教团复苏
 
-在[博德之门](Baldur's_Gate.md "博德之门")出现[巴尔教团](Bhaal.md "Bhaal")活动的传闻后，[贾希拉](Jaheira.md "贾希拉")命令她的竖琴手们调查巴尔教团的阴谋，尽可能多地收集信息，而她则率领另一支竖琴手部队进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")以击败[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")。然而，当贾希拉命令竖琴手们集中精力寻找拉什玛尔人时，莱辛和她的竖琴手小组成员要么被杀，要么被俘，随后被带到了[奥林](Orin.md "奥林")处。
+在[博德之门](Baldur's_Gate.md "博德之门")出现[巴尔](Bhaal.md "巴尔")活动的传闻后，[贾希拉](Jaheira.md "贾希拉")命令她的竖琴手们调查巴尔教团的阴谋，尽可能多地收集信息，而她则率领另一支竖琴手部队进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")以击败[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")。然而，当贾希拉命令竖琴手们集中精力寻找拉什玛尔人时，莱辛和她的竖琴手小组成员要么被杀，要么被俘，随后被带到了[奥林](Orin.md "奥林")处。
 
 该竖琴手小组的唯一幸存者，一名名叫[杰拉尔杜斯](Geraldus.md "杰拉尔杜斯")的新兵，被用作诱饵，引诱贾希拉和队伍前来接触，企图伏击并灭口<sup>[\[1\]](#cite_note-1)</sup>。
 
@@ -264,7 +264,7 @@ UUID
 
 在[飞龙关](Wyrm's_Crossing.md "飞龙关")与贾希拉同行时，她指出了[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")，这是一家由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")经营的商店，也是竖琴手安全屋的掩护。在商店下方的一个密室中，被冒充的莱辛、[切尔文](Chelvin.md "切尔文")、[莱斯廷](Leistine.md "莱斯廷")和[索诺斯](Thonos.md "索诺斯")正等待伏击贾希拉和队伍。
 
-当队伍和贾希拉抵达时，杰拉尔杜斯试图通过使用旧的竖琴手暗号来传达在场的竖琴手是[叛徒](Doppelganger.md "变形怪")。如果贾希拉在队伍中，她会理解这个暗号并向队伍提到被冒充的切尔文看起来很眼熟，让她想起了[马库斯](Marcus_Falgor.md "马库斯·法尔戈尔")。未能识别该信号会触发与队伍的战斗，队伍将处于[受惊](Surprised_(Condition).md "受惊 (状态)")状态，而识别暗号并采取行动则会使被冒充的竖琴手们措手不及。
+当队伍和贾希拉抵达时，杰拉尔杜斯试图通过使用旧的竖琴手暗号来传达在场的竖琴手是[变形怪](Doppelganger.md "变形怪")。如果贾希拉在队伍中，她会理解这个暗号并向队伍提到被冒充的切尔文看起来很眼熟，让她想起了[马库斯](Marcus_Falgor.md "马库斯·法尔戈尔")。未能识别该信号会触发与队伍的战斗，队伍将处于[受惊](Surprised_(Condition).md "受惊 (状态)")状态，而识别暗号并采取行动则会使被冒充的竖琴手们措手不及。
 
 ## 战斗
 

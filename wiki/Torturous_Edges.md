@@ -12,7 +12,7 @@
 
 持续时间：2 驱散
 
-[魅](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
 
 - 在体质[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 

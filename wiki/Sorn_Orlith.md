@@ -99,19 +99,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
 
@@ -157,19 +157,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
 
@@ -215,19 +215,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
 
@@ -267,20 +267,20 @@ UUID
 >
 > „
 
-— 索恩·奥里斯，安慰他的妹妹[尼姆](Nym_Orlith.md "Nym Orlith")
+— 索恩·奥里斯，安慰他的妹妹[尼姆·奥里斯](Nym_Orlith.md "尼姆·奥里斯")
 
 ## 目录
 
-- [1 历史](#history)
-- [2 参与](#involvement)
-  - [2.1 第三幕](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 画廊](#gallery)
-- [6 备注](#notes)
-- [7 参考文献](#references)
+- [1 历史](#历史)
+- [2 参与](#参与)
+  - [2.1 第三幕](#第三幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 画廊](#画廊)
+- [6 备注](#备注)
+- [7 参考文献](#参考文献)
 
 ## 历史
 
@@ -298,7 +298,7 @@ UUID
 
 - 如果玩家角色与[影心](Shadowheart.md "Shadowheart")处于恋爱关系中，且她的最终恋爱场景尚未触发，她会拒绝邀请，希望第一次只和玩家角色一起。在该场景之后，她会热情地同意与索恩、尼姆和玩家角色发生性关系。
 - [阿斯代伦](Astarion.md "Astarion")在恋爱时，只有在[苍白的精灵](The_Pale_Elf.md "The Pale Elf")完成后才同意。然而，随着夜晚的展开，旁白指出，虽然阿斯代伦热情地扮演着他的角色，但他要么"眼神<...>透露出他身处百万位面之外"，要么"眼中<...>有一种让你<sup>[\[2\]](#cite_note-2)</sup>战栗的强度"（取决于任务结果）。
-- 恋爱中的[盖尔](Gale.md "Gale")可以通过DC 25的[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")说服他参与，但一旦场景开始，他就会溜走，并留下一个星界投影来代替他参与。
+- 恋爱中的[盖尔](Gale.md "Gale")可以通过DC 25的[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")说服他参与，但一旦场景开始，他就会溜走，并留下一个星界投影来代替他参与。
 - [哈尔辛](Halsin.md "Halsin")在恋爱时也总是同意，如果同时与影心或阿斯代伦恋爱，他可以加入他们。如果哈尔辛与其他恋爱中的伙伴一起加入，并将参与者人数增加到五人，索恩会观察到，在奎拉佐尔习俗中，五人或以上的群体"合法上"是狂欢，而四人或以下只是聚会。
 - 其他伙伴会拒绝索恩和尼姆的邀请。
   - 然而，[卡菈克](Karlach.md "Karlach")承认，虽然四人行在理论上听起来很吸引人，但与双胞胎一起做的现实并非如此。然而，如果玩家角色也退出并只雇佣一个双胞胎，她会高兴地鼓励他们玩得开心，并为她留一些。
@@ -366,7 +366,7 @@ UUID
 - 在传统卓尔名字中，"Sorn"意为"附魔"或"法术"。<sup>[\[3\]](#cite_note-3)</sup>
 - 索恩相信蜗牛是春药。
 - 索恩和尼姆的所有性爱场景主要是画外音配黑屏；房间里的灯被关掉作为"体验的一部分"。截至[补丁 5](Patch_notes.md "Patch Notes")，一些性接触增加了额外的结局动画。
-- 如果[挠挠](Scratch.md "Scratch")在玩家角色和影心接近尼姆和索恩在他们的[私人房间](Underdark_Pleasures.md "Underdark Pleasures")以启动性爱场景时被召唤，有时会出现故障。如果触发，尼姆和索恩会投掷先攻并开始战斗。遣散挠挠可以解决这个问题。召唤的[异界誓盟：气巨灵](Planar_Ally_colon__Djinni.md "Planar Ally: Djinni")或[召唤元素生物](Conjure_Elemental.md "Conjure Elemental")在启动对话时也会开始战斗。
+- 如果[挠挠](Scratch.md "Scratch")在玩家角色和影心接近尼姆和索恩在他们的[幽暗地域欢乐宫](Underdark_Pleasures.md "幽暗地域欢乐宫")以启动性爱场景时被召唤，有时会出现故障。如果触发，尼姆和索恩会投掷先攻并开始战斗。遣散挠挠可以解决这个问题。召唤的[异界誓盟：气巨灵](Planar_Ally_colon__Djinni.md "Planar Ally: Djinni")或[召唤元素生物](Conjure_Elemental.md "Conjure Elemental")在启动对话时也会开始战斗。
 
 ## 参考文献
 

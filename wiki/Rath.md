@@ -96,7 +96,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -152,7 +152,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -208,7 +208,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -242,12 +242,12 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关文献](#related-literature)
+- [1 参与](#参与)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关文献](#相关文献)
 
 ## 参与
 
@@ -264,7 +264,7 @@ UUID
 ### 攻击与能力
 
 [人类定身术](Hold_Person.md "Hold Person") (+ )
-定住类人生物敌人。他们无法 [移动](Movement_speed.md "Movement Speed")、[行动](Action.md "Action") 或 [反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是 [重击](Critical_Hit.md "Critical Hit")。每回合结束时，受影响的生物可以进行 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw") 以结束此状态。
+定住类人生物敌人。他们无法 [移动](Movement_speed.md "Movement Speed")、[动作](Action.md "动作") 或 [反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是 [重击](Critical_Hit.md "Critical Hit")。每回合结束时，受影响的生物可以进行 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw") 以结束此状态。
 
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)

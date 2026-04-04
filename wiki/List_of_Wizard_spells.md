@@ -4,16 +4,16 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 法师法术列表](#wizard-spell-list)
-- [3 无法通过卷轴学习的法师法术](#wizard-spells-without-scrolls)
-  - [3.1 戏法](#cantrips)
-  - [3.2 一级法术](#first-level)
-  - [3.3 二级法术](#second-level)
-  - [3.4 三级法术](#third-level)
-  - [3.5 四级法术](#fourth-level)
-  - [3.6 六级法术](#sixth-level)
-- [4 另见](#see-also)
+- [1 概述](#概述)
+- [2 法师法术列表](#法师法术列表)
+- [3 无法通过卷轴学习的法师法术](#无法通过卷轴学习的法师法术)
+  - [3.1 戏法](#戏法)
+  - [3.2 一级法术](#一级法术)
+  - [3.3 二级法术](#二级法术)
+  - [3.4 三级法术](#三级法术)
+  - [3.5 四级法术](#四级法术)
+  - [3.6 六级法术](#六级法术)
+- [4 另见](#另见)
 
 ## 概述
 
@@ -33,10 +33,10 @@
 | [舞光术](Dancing_Lights.md "舞光术") | 戏法 |  |  | 10 回合 | 18 m / 60ft / 9m / 30ft (半径) | - | - |
 | [火焰箭](Fire_Bolt.md "火焰箭") | 戏法 |  |  | - | 18 m / 60ft | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d10⁠[火焰](Fire.md "火焰") |
 | [交友术](Friends.md "交友术") | 戏法 |  |  | 10 回合 | 9 m / 30ft | - | - |
-| [光亮术](Light.md "光亮术") | 戏法 |  |  | 长休 | 1.5 m / 5 ft | - | - |
+| [轻型](Light.md "轻型") | 戏法 |  |  | 长休 | 1.5 m / 5 ft | - | - |
 | [法师之手](Mage_Hand.md "法师之手") | 戏法 |  |  | - | 18 m / 60ft | - | - |
 | [初级幻影](Minor_Illusion.md "初级幻影") | 戏法 |  |  | - | 18 m / 60ft | - | - |
-| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3 m / 10ft | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[毒素](Poison.md "毒素") |
+| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3 m / 10ft | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[中毒](Poison.md "中毒") |
 | [冷冻射线](Ray_of_Frost.md "冷冻射线") | 戏法 |  |  | 1 回合 | 18 m / 60ft | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8⁠[寒冷](Cold.md "寒冷") |
 | [电爪](Shocking_Grasp.md "电爪") | 戏法 |  |  | 1 回合 | 1.5 m / 5 ft | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8⁠[闪电](Lightning.md "闪电") |
 | [丧钟](Toll_the_Dead.md "丧钟") | 戏法 |  |  | - | 18 m / 60 ft | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[黯蚀](Necrotic.md "黯蚀") |
@@ -58,7 +58,7 @@
 | [魔法护甲](Mage_Armour.md "魔法护甲") | 1 |  |  | 长休 | 1.5 m / 5 ft | - | - |
 | [魔法飞弹](Magic_Missile.md "魔法飞弹") | 1 |  |  | - | 18 m / 60ft | - | 1d4 + 1⁠[力场](Force.md "力场") / 1d4 + 1⁠[力场](Force.md "力场") / 1d4 + 1⁠[力场](Force.md "力场") |
 | [防护善恶](Protection_from_Evil_and_Good.md "防护善恶") | 1 |  |  | 长休 | 1.5 m / 5 ft | - | - |
-| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2 回合 | 18 m / 60 ft | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[毒素](Poison.md "毒素") |
+| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2 回合 | 18 m / 60 ft | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[中毒](Poison.md "中毒") |
 | [护盾术](Shield_(spell).md "护盾术") | 1 |  |  | 1 回合 | 自身 | - | - |
 | [睡眠](Sleep.md "睡眠") | 1 |  |  | 2 回合 | 18 m / 60 ft | - | - |
 | [塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术") | 1 |  |  | 10 回合 | 18 m / 60ft | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | - |
@@ -72,7 +72,7 @@
 | [黑暗术](Darkness.md "黑暗术") | 2 |  |  | - | 18 m / 60 ft | - | - |
 | [高级黑暗视觉](Darkvision_(spell).md "高级黑暗视觉") | 2 |  |  | 长休 | 1.5 m / 5 ft | - | - |
 | [侦测思想](Detect_Thoughts.md "侦测思想") | 2 |  |  | 长休 | 自身 | - | - |
-| [巨化术/缩小术](Enlarge/Reduce.md "巨化术/缩小术") | 2 |  |  | - | 9 m / 30ft | - | - |
+| [缩小](Enlarge/Reduce.md "缩小") | 2 |  |  | - | 9 m / 30ft | - | - |
 | [炽焰法球](Flaming_Sphere.md "炽焰法球") | 2 |  |  | - | 18 m / 60 ft / 2m / 7ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 2d6⁠[火焰](Fire.md "火焰") |
 | [造风术](Gust_of_Wind.md "造风术") | 2 |  |  | 1 回合 | 自身 / 12m / 40ft | [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定") | - |
 | [人类定身术](Hold_Person.md "人类定身术") | 2 |  |  | 10 回合 | 18 m / 60 ft | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | - |
@@ -86,7 +86,7 @@
 | [衰弱射线](Ray_of_Enfeeblement.md "衰弱射线") | 2 |  |  | 10 回合 | 18 m / 60 ft | [攻击掷骰](Attack_roll.md "攻击掷骰") | - |
 | [灼热射线](Scorching_Ray.md "灼热射线") | 2 |  |  | - | 18 m / 60 ft | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d6⁠[火焰](Fire.md "火焰") / 2d6⁠[火焰](Fire.md "火焰") / 2d6⁠[火焰](Fire.md "火焰") |
 | [识破隐形](See_Invisibility_(spell).md "识破隐形") | 2 |  |  | 长休 | 自身 / 9m / 30ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | - |
-| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
+| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [灵巧](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
 | [粉碎音波](Shatter.md "粉碎音波") | 2 |  |  | - | 18 m / 60 ft / 3m / 10ft (半径) | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 3d8⁠[雷鸣](Thunder.md "雷鸣") |
 | [蛛网术](Web.md "蛛网术") | 2 |  |  | - | 18 m / 60 ft / 4m / 13ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | - |
 | [操纵死尸](Animate_Dead.md "操纵死尸") | 3 |  |  | - | 3 m / 10ft | - | - |
@@ -95,7 +95,7 @@
 | [法术反制](Counterspell.md "法术反制") | 3 |  |  | - | - | - | - |
 | [恐惧](Fear.md "恐惧") | 3 |  |  | 2 回合 | 自身 / 9m / 30ft (锥形) | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | - |
 | [假死术](Feign_Death.md "假死术") | 3 |  |  | 10 回合 | 1.5 m / 5ft | - | - |
-| [火球术术](Fireball.md "火球术术") | 3 |  |  | - | 18 m / 60ft / 4m / 13ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
+| [火球术](Fireball.md "火球术") | 3 |  |  | - | 18 m / 60ft / 4m / 13ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
 | [气化形体](Gaseous_Form.md "气化形体") | 3 |  |  | 长休 | 1.5 m / 5 ft | - | - |
 | [守卫刻文](Glyph_of_Warding.md "守卫刻文") | 3 |  |  | - | 9 m / 30ft / 4m / 13ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | - |
 | [给予飞行](Grant_Flight.md "给予飞行") | 3 |  |  | 10 回合 | 1.5 m / 5 ft | - | - |
@@ -122,7 +122,7 @@
 | [变形术](Polymorph.md "变形术") | 4 |  |  | 5 回合 | 18 m / 60ft | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | - |
 | [石肤术](Stoneskin.md "石肤术") | 4 |  |  | 长休 | 1.5 m / 5 ft | - | - |
 | [火墙术](Wall_of_Fire.md "火墙术") | 4 |  |  | - | 18 m / 60ft | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 5d8⁠[火焰](Fire.md "火焰") |
-| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18 m / 60ft | - | 5d8⁠[毒素](Poison.md "毒素") |
+| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18 m / 60ft | - | 5d8⁠[中毒](Poison.md "中毒") |
 | [寒冰锥](Cone_of_Cold.md "寒冰锥") | 5 |  |  | - | 自身 / 9m / 30ft (锥形) | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 8d8⁠[寒冷](Cold.md "寒冷") |
 | [召唤元素生物](Conjure_Elemental.md "召唤元素生物") | 5 |  |  | - | 18 m / 60 ft | - | - |
 | [支配人类](Dominate_Person.md "支配人类") | 5 |  |  | 10 回合 | 18 m / 60ft | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | - |
@@ -156,7 +156,7 @@
 [肌腱爆裂](Bursting_Sinew.md "肌腱爆裂")
 [舞光术](Dancing_Lights.md "舞光术")
 [交友术](Friends.md "交友术")
-[光亮术](Light.md "光亮术")
+[轻型](Light.md "轻型")
 [法师之手](Mage_Hand.md "法师之手")
 [初级幻影](Minor_Illusion.md "初级幻影")
 [毒气喷溅](Poison_Spray.md "毒气喷溅")

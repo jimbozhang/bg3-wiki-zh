@@ -92,15 +92,15 @@
 
 - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，且不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -130,14 +130,14 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 语录](#quotes)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 相关文献](#related-literature)
-- [6 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 语录](#语录)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 相关文献](#相关文献)
+- [6 外部链接](#外部链接)
 
 ## 出场
 
@@ -169,7 +169,7 @@ UUID
 
 投掷一个酸液泡，对击中的每个生物造成伤害。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程: 18 米 (60 英尺)
 
 [死云术](Cloudkill.md "死云术") (+ )
@@ -192,7 +192,7 @@ UUID
 
 \+ 2d4⁠[强酸](Acid.md "强酸")
 
-射出一支绿色箭矢，在击中时爆裂成强酸喷雾。立即造成 ⁠[4d4 强酸](Acid.md "强酸")伤害，并在目标下一回合结束时造成 ⁠[2d4 强酸](Acid.md "强酸")伤害。
+射出一支绿色箭矢，在击中时爆裂成强酸喷雾。立即造成 ⁠[强酸](Acid.md "强酸")伤害，并在目标下一回合结束时造成 ⁠[强酸](Acid.md "强酸")伤害。
 
 如果法术未命中，目标仍会受到一半的初始伤害，但在其下一回合结束时不会受到伤害。
 
@@ -218,7 +218,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程: 正常武器射程
 充能: [短休](Short_rest.md "短休")
 
@@ -230,7 +230,7 @@ UUID
 
 可能使目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程: 18 米 (60 英尺)
 
 ### 战利品

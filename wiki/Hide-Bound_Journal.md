@@ -22,7 +22,7 @@
 
 ## 文本
 
-一个恩惠。一个忠实的仆从。这就是我所召唤的全部——不多不少，恰如⁠[怨恨·杜厄登](https://forgottenrealms.fandom.com/wiki/Malice_Do%27Urden)曾经拥有的，或者说，恰如[欲望之母](Lolth.md "罗丝")本人所拥有的。
+一个恩惠。一个忠实的仆从。这就是我所召唤的全部——不多不少，恰如⁠[怨恨·杜厄登](https://forgottenrealms.fandom.com/wiki/Malice_Do%27Urden)曾经拥有的，或者说，恰如[罗丝](Lolth.md "罗丝")本人所拥有的。
 
 ⁠[尤克洛](https://forgottenrealms.fandom.com/wiki/Yochlol)以其各种形态出现时，景象相当壮观。我曾读过关于其恶臭的描述，但我发现它令人陶醉，就像玫瑰水一样。所以它砸碎了几件神器，对一位大师发出嘶嘶声。大法师本应为我这样的召唤术而_崇敬_我。然而，他却威胁要诅咒我——把我变成蛛化精灵。
 

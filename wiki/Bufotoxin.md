@@ -15,7 +15,7 @@
 1⁠[强酸](Acid.md "强酸")
 
 详情
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5米（5英尺）
 
 ## 技术细节
@@ -34,7 +34,7 @@ UID
 
 持续时间：10驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 敏捷[豁免检定](Saving_throw.md "豁免检定")承受[劣势](Disadvantage.md "劣势")。
 

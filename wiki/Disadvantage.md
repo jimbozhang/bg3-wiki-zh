@@ -6,18 +6,18 @@
 
 ## 目录
 
-- [1 用于掷两个骰子](#used-with-two-dice)
-  - [1.1 优势](#advantage)
-  - [1.2 劣势](#disadvantage)
-  - [1.3 优势与劣势](#advantage-and-disadvantage)
-  - [1.4 数学](#math)
-    - [1.4.1 特定掷骰的成功几率](#chances-of-succeeding-a-specific-roll)
-    - [1.4.2 对掷骰平均值的影响](#effects-on-the-average-of-dice-rolls)
-    - [1.4.3 对大成功和大失败的影响](#effects-on-critical-successes-and-failures)
-  - [1.5 类似效果](#similar-effects)
-- [2 用于对抗属性检定](#used-with-contesting-ability-checks)
-- [3 另见](#see-also)
-- [4 外部链接](#external-links)
+- [1 用于掷两个骰子](#用于掷两个骰子)
+  - [1.1 优势](#优势)
+  - [1.2 劣势](#劣势)
+  - [1.3 优势与劣势](#优势与劣势)
+  - [1.4 数学](#数学)
+    - [1.4.1 特定掷骰的成功几率](#特定掷骰的成功几率)
+    - [1.4.2 对掷骰平均值的影响](#对掷骰平均值的影响)
+    - [1.4.3 对大成功和大失败的影响](#对大成功和大失败的影响)
+  - [1.5 类似效果](#类似效果)
+- [2 用于对抗属性检定](#用于对抗属性检定)
+- [3 另见](#另见)
+- [4 外部链接](#外部链接)
 
 ## 用于掷两个骰子
 
@@ -43,7 +43,7 @@
 为攻击掷骰提供优势的情况示例：
 
 - 攻击处于以下状态的敌人：[束缚](Restrained_(Condition).md "束缚（状态）")、[倒伏](Prone_(Condition).md "倒伏（状态）")、[沉睡](Sleeping_(Condition).md "沉睡（状态）")、[缠绕](Entangled_(Condition).md "缠绕（状态）")、[麻痹](Paralysed_(Condition).md "麻痹（状态）")、[失衡](Off_Balance_(Condition).md "失衡（状态）")、[网缚](Enwebbed_(Condition).md "网缚（状态）")、[目盲](Blinded_(Condition).md "目盲（状态）")。
-- 在[隐藏](Hide.md "躲藏")、[隐形](Invisible_(Condition).md "隐形（状态）")时攻击敌人，或从[遮蔽](Obscurity.md "遮蔽")中利用[高级黑暗视觉](Darkvision.md "高级黑暗视觉")攻击缺乏黑暗视觉的敌人（即“从阴影中攻击”）。
+- 在[躲藏](Hide.md "躲藏")、[隐形](Invisible_(Condition).md "隐形（状态）")时攻击敌人，或从[遮蔽](Obscurity.md "遮蔽")中利用[高级黑暗视觉](Darkvision.md "高级黑暗视觉")攻击缺乏黑暗视觉的敌人（即“从阴影中攻击”）。
 - 护甲、武器和法术在攻击特定[种族](Races.md "种族")的敌人时提供优势。
 
 ### 劣势

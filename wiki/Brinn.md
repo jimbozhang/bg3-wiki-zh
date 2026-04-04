@@ -108,27 +108,27 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子将重新投掷一次。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出 1 时，重新投掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -186,27 +186,27 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子将重新投掷一次。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出 1 时，重新投掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -264,31 +264,31 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子将重新投掷一次。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出 1 时，重新投掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "坚韧复仇")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你通过[借机攻击](Opportunity_Attack.md "借机攻击")命中敌人，你的[移动速度](Movement_speed.md "移动速度")在下一回合增加 4.5 米 / 15 英尺。
 
@@ -318,14 +318,14 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 月出之塔](#moonrise-towers)
-    - [1.1.2 保卫月出之塔](#defending-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 仅限硬核](#tactician-only)
-  - [2.2 战利品](#loot)
+- [1 参与](#参与)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 月出之塔](#月出之塔)
+    - [1.1.2 保卫月出之塔](#保卫月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 仅限硬核](#仅限硬核)
+  - [2.2 战利品](#战利品)
 
 ## 参与
 

@@ -10,7 +10,7 @@
 
 **[绽放亡者](Blooming_Dead_(Condition).md "绽放亡者 (状态)")**
 
-- 当此不死生物处于[死亡荒原](The_Dead_Wastes_(Condition).md "死亡荒原 (状态)")内时，它在每个[驱散](Turn.md "驱散")开始时恢复4d6⁠⁠[生命值](Healing.md "治疗")。
+- 当此不死生物处于[死亡荒原](The_Dead_Wastes_(Condition).md "死亡荒原 (状态)")内时，它在每个[驱散](Turn.md "驱散")开始时恢复4d6⁠⁠[治疗](Healing.md "治疗")。
 
 ## 状态: 腐朽凡躯
 

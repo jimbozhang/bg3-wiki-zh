@@ -22,7 +22,7 @@
 - [优势](Advantage.md "优势")于[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")
 
 [隐匿](Stealthy.md "隐匿")
-获得+1加值至[隐匿检定](Stealth.md "隐匿")。
+获得+1加值至[隐匿](Stealth.md "隐匿")。
 
 ## 获取地点
 

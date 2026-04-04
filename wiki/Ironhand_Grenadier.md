@@ -77,23 +77,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -101,7 +101,7 @@
 
 受到 -1 钝击伤害。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将即将受到的命中伤害减半。
 
@@ -149,23 +149,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -173,7 +173,7 @@
 
 受到 -1 钝击伤害。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将即将受到的命中伤害减半。
 
@@ -221,23 +221,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -245,7 +245,7 @@
 
 受到 -1 钝击伤害。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将即将受到的命中伤害减半。
 
@@ -295,11 +295,11 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 画廊](#gallery)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 画廊](#画廊)
 
 ## 参与
 

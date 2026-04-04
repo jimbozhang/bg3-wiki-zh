@@ -8,7 +8,7 @@
 
 ## SG_Drunk 中的状态列表
 
-- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 [酩酊大醉](Blacked_Out_(Condition).md "酩酊大醉 (状态)")
 |
@@ -18,31 +18,31 @@
 [醉酒](Drunk_(Condition).md "醉酒 (状态)")
 |
 
-- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 [火酒腹](Firewine_Belly_(Condition).md "火酒腹 (状态)")
 |
 
-- 因火酒而醉。在[魅力](Charisma.md "魅力")和[敏捷](Dexterity.md "敏捷")[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")
+- 因火酒而醉。在[魅力](Charisma.md "魅力")和[敏捷](Dexterity.md "敏捷")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")
 - 如果醉酒实体被[火焰](Fire.md "火焰")杀死，则会发生[火酒爆炸](Firewine_Explosion.md "火酒爆炸")。
 
 [宿醉](Hungover_(Condition).md "宿醉 (状态)")
 |
 
-- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 - 你告诉自己“我再也不喝了”。你在撒谎。
 
 [微醺](Moderately_Inebriated_(Condition).md "微醺 (状态)")
 |
 
 - 蒂索博尔德每啜一口他的特酿酒，就会变得更加醉醺醺。
-- 他在魅力和敏捷[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")，并开始出现小魔鬼的幻觉。
+- 他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并开始出现小魔鬼的幻觉。
 
 [深度醉酒](Profoundly_Intoxicated_(Condition).md "深度醉酒 (状态)")
 |
 
 - 蒂索博尔德因豪饮而濒临昏厥。
-- 他在魅力和敏捷[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")，并且他的幻觉持续存在。
+- 他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并且他的幻觉持续存在。
 
 [香根草欣快感](Silkroot_Euphoria_(Condition).md "香根草欣快感 (状态)")
 |

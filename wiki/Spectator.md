@@ -71,11 +71,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -121,11 +121,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -177,11 +177,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -237,11 +237,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -353,11 +353,11 @@ UUID
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -403,11 +403,11 @@ UUID
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -459,11 +459,11 @@ UUID
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -519,11 +519,11 @@ UUID
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -581,17 +581,17 @@ UUID
 
 ## 目录
 
-- [1 关于](#about)
-  - [1.1 位置](#where-to-find)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 免疫](#immunities)
-  - [2.3 荣耀模式](#honour-mode)
-  - [2.4 战利品](#loot)
-- [3 注释](#notes)
-- [4 错误](#bugs)
-- [5 画廊](#gallery)
-- [6 外部链接](#external-links)
+- [1 关于](#关于)
+  - [1.1 位置](#位置)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 免疫](#免疫)
+  - [2.3 荣耀模式](#荣耀模式)
+  - [2.4 战利品](#战利品)
+- [3 注释](#注释)
+- [4 错误](#错误)
+- [5 画廊](#画廊)
+- [6 外部链接](#外部链接)
 
 ## 关于
 
@@ -685,7 +685,7 @@ UUID
 | --- |
 | 7 |
 
-可能对 20 米 / 67 英尺内的所有敌人造成[致伤](Wounding_Ray_(Spectator).md "致伤射线")、[困惑](Confusion_Ray.md "困惑射线")、[麻痹](Paralysing_Ray.md "麻痹射线")和[恐慌](Fear_Ray.md "恐惧射线")，使用你挥舞的眼柄射线。
+可能对 20 米 / 67 英尺内的所有敌人造成[致伤](Wounding_Ray_(Spectator).md "致伤射线")、[困惑射线](Confusion_Ray.md "困惑射线")、[麻痹射线](Paralysing_Ray.md "麻痹射线")和[恐惧射线](Fear_Ray.md "恐惧射线")，使用你挥舞的眼柄射线。
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 
@@ -697,7 +697,7 @@ UUID
 
 ## 注释
 
-- 某些组合，例如[恐慌](Frightened_(Condition).md "恐慌 (状态)")和[雾](Fog.md "雾")，会导致观察者眼魔[传送](Misty_Step.md "迷踪步")，尽管没有提到它们能够做到这一点。战斗日志中也没有提到这种特殊移动。但是，如果[目盲](Blinded_(Condition).md "目盲 (状态)")（例如，使用[怨恨](Malice.md "怨恨")），观察者眼魔不会传送。
+- 某些组合，例如[恐慌](Frightened_(Condition).md "恐慌 (状态)")和[雾](Fog.md "雾")，会导致观察者眼魔[迷踪步](Misty_Step.md "迷踪步")，尽管没有提到它们能够做到这一点。战斗日志中也没有提到这种特殊移动。但是，如果[目盲](Blinded_(Condition).md "目盲 (状态)")（例如，使用[怨恨](Malice.md "怨恨")），观察者眼魔不会传送。
 - 位于[铁烧瓶](Iron_Flask.md "铁烧瓶")内的观察者眼魔可用于在第一幕首次进入[山隘](Mountain_Pass.md "山隘")时获取[星界银剑](Silver_Sword_of_the_Astral_Plane.md "星界银剑")，方法是使用此[指南](Guide_colon_Early_Silver_Sword.md "指南：早期星界银剑")。
 
 ## 错误

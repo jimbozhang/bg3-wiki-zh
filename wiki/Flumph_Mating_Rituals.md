@@ -20,7 +20,7 @@
 
 ## 文本
 
-_\[参见：[了不起的复仇之炉](The_Great_Furnace_of_Grymforge.md "The Great Furnace of Grymforge")\]_
+_\[了不起的复仇之炉](The_Great_Furnace_of_Grymforge.md "了不起的复仇之炉")\]_
 
 ## 备注
 

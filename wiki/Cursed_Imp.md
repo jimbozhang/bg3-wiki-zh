@@ -75,23 +75,23 @@
 
 ## 特性
 
-  - [**警觉**](Alert.md "警觉")
+  - [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")且不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中看到，包括魔法黑暗，最远 24 米 (80 英尺)。
 
-- [**催命警示**](Mortal_Reminder.md "催命警示")
+- [催命警示](Mortal_Reminder.md "催命警示")
 
 当对生物造成[重击](Critical_Hit.md "重击")时，该生物及附近敌人必须通过[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[恐慌](Frightened_(Condition).md "恐慌 (状态)")直到其下一回合结束。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -147,23 +147,23 @@
 
 ## 特性
 
-  - [**警觉**](Alert.md "警觉")
+  - [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")且不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中看到，包括魔法黑暗，最远 24 米 (80 英尺)。
 
-- [**催命警示**](Mortal_Reminder.md "催命警示")
+- [催命警示](Mortal_Reminder.md "催命警示")
 
 当对生物造成[重击](Critical_Hit.md "重击")时，该生物及附近敌人必须通过[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[恐慌](Frightened_(Condition).md "恐慌 (状态)")直到其下一回合结束。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -219,23 +219,23 @@
 
 ## 特性
 
-  - [**警觉**](Alert.md "警觉")
+  - [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")且不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中看到，包括魔法黑暗，最远 24 米 (80 英尺)。
 
-- [**催命警示**](Mortal_Reminder.md "催命警示")
+- [催命警示](Mortal_Reminder.md "催命警示")
 
 当对生物造成[重击](Critical_Hit.md "重击")时，该生物及附近敌人必须通过[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[恐慌](Frightened_(Condition).md "恐慌 (状态)")直到其下一回合结束。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -257,10 +257,10 @@ Stats
 
 ## 内容
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 备注](#notes)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 备注](#备注)
 
 ## 出场
 

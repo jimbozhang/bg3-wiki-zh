@@ -2,11 +2,11 @@
 
 另请参阅：[脆弱诅咒](Hex.md "脆弱诅咒") 和 [再度施展脆弱诅咒](Reapply_Hex.md "再度施展脆弱诅咒")
 
-**再度诅咒（智力）** 是一个附赠动作，允许[脆弱诅咒](Hex.md "脆弱诅咒")的施法者在不消耗额外法术位的情况下，将诅咒转移到新目标上。只要维持对脆弱诅咒的[专注](Concentration.md "专注")，在上一个目标死亡后即可获得此动作。此诅咒变体对智力[检定](Ability_Check.md "检定")施加[劣势](Disadvantage.md "劣势")（但对[豁免检定](Saving_throw.md "豁免检定"]无效）。
+**再度诅咒（智力）** 是一个附赠动作，允许[脆弱诅咒](Hex.md "脆弱诅咒")的施法者在不消耗额外法术位的情况下，将诅咒转移到新目标上。只要维持对脆弱诅咒的[专注](Concentration.md "专注")，在上一个目标死亡后即可获得此动作。此诅咒变体对智力[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")（但对[豁免检定](Saving_throw.md "豁免检定"]无效）。
 
 ## 描述
 
-当你攻击目标时造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害，并对[智力](Intelligence.md "智力")[检定](Ability_Check.md "检定")施加[劣势](Disadvantage.md "劣势")。
+当你攻击目标时造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害，并对[智力](Intelligence.md "智力")[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
 
 ## 属性
 

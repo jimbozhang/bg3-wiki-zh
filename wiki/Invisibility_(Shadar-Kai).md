@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏方式](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-**隐形**是[影灵](Shadar-Kai.md "Shadar-Kai")在受到伤害后使用的类动作。
+**隐形**是[影灵（类人生物）](Shadar-Kai.md "影灵（类人生物）")在受到伤害后使用的类动作。
 
 ## 描述
 
@@ -36,7 +36,7 @@ UID
 
 ## 学习方式
 
-由以下生物使用：[影灵](Shadar-Kai.md "Shadar-Kai")
+由以下生物使用：[影灵（类人生物）](Shadar-Kai.md "影灵（类人生物）")
 
 ## 备注
 

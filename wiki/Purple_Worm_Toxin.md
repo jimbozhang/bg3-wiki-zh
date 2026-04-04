@@ -45,7 +45,7 @@
 
 **[紫虫毒素](Purple_Worm_Toxin_(Condition).md "紫虫毒素 (状态)")**
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 19)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 19)
 
 - 受影响实体在其下一回合结束时受到 1d10⁠⁠[中毒](Poison.md "中毒")伤害。
 

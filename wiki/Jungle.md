@@ -4,18 +4,18 @@
 
 ## 目录
 
-- [1 进入方式](#access)
-- [2 概述](#overview)
-- [3 相关地点](#related-locations)
-- [4 生物](#creatures)
-- [5 重要战利品](#notable-loot)
-- [6 相关文献](#related-literature)
-- [7 备注](#notes)
-- [8 外部链接](#external-links)
+- [1 进入方式](#进入方式)
+- [2 概述](#概述)
+- [3 相关地点](#相关地点)
+- [4 生物](#生物)
+- [5 重要战利品](#重要战利品)
+- [6 相关文献](#相关文献)
+- [7 备注](#备注)
+- [8 外部链接](#外部链接)
 
 ## 进入方式
 
-这可以通过在游戏开始前偷取他的[气巨灵戒指](Djinni_Ring.md "气巨灵戒指")实现，或者（对于[吟游诗人](Bard.md "吟游诗人")角色）通过通过DC 20的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")（被动），然后通过DC 15的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")或DC 15的[表演](Performance.md "表演")[检定](Ability_Check.md "属性检定")来分散气巨灵的注意力，同时实际进行游戏。只有与阿卡比对话的队伍成员会被传送，其他队伍成员无法前往该地。
+这可以通过在游戏开始前偷取他的[气巨灵戒指](Djinni_Ring.md "气巨灵戒指")实现，或者（对于[吟游诗人](Bard.md "吟游诗人")角色）通过通过DC 20的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")（被动），然后通过DC 15的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")或DC 15的[表演](Performance.md "表演")[属性检定](Ability_Check.md "属性检定")来分散气巨灵的注意力，同时实际进行游戏。只有与阿卡比对话的队伍成员会被传送，其他队伍成员无法前往该地。
 
 在该区域内无法快速旅行或休息。能够[飞行](Fly.md "飞行")的角色可以更轻松地在丛林中导航并避开恐龙。
 
@@ -45,7 +45,7 @@
 ## 重要战利品
 
 - [诡术师之环](Band_of_the_Mystic_Scoundrel.md "诡术师之环") - 在分支龙巢穴上方的骷髅附近，坐标 X: -1566 Y: -1522。
-- [尼鲁纳](Nyrulna.md "尼鲁纳") - 在出口传送门旁边的上锁的[强韧](Sturdy_(Condition).md "强韧 (状态)")漆箱子中（DC 20 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")），坐标 X: -1511 Y: -1522。
+- [尼鲁纳](Nyrulna.md "尼鲁纳") - 在出口传送门旁边的上锁的[强韧](Sturdy_(Condition).md "强韧 (状态)")漆箱子中（DC 20 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")），坐标 X: -1511 Y: -1522。
 
 ## 相关文献
 

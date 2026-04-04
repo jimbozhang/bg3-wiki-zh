@@ -2,7 +2,7 @@
 
 **战斗激励**
 
-- 可以使用他们的[诗人激励](Combat_Inspiration.md "战斗激励")为下一次[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加 +1d6 奖励。
+- 可以使用他们的[战斗激励](Combat_Inspiration.md "战斗激励")为下一次[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加 +1d6 奖励。
 - 他们也可以选择为下一次武器攻击的伤害或为一次攻击的[护甲等级](Armour_Class.md "护甲等级")添加 +1d6 奖励。
 - 奖励取决于发起[吟游诗人](Bard.md "吟游诗人")的等级
 
@@ -37,7 +37,7 @@ _维基数据库中未定义_
 | 状态 | 效果 |
 | --- | --- |
 | [诗人激励](Bardic_Inspiration_(Condition).md "诗人激励 (状态)") | 可以使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励 (职业动作)")为下一次[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加 +1d6 奖励。奖励取决于发起[吟游诗人](Bard.md "吟游诗人")的等级 |
-| 战斗激励 | 可以使用他们的[诗人激励](Combat_Inspiration.md "战斗激励")为下一次[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加 +1d6 奖励。他们也可以选择为下一次武器攻击的伤害或为一次攻击的[护甲等级](Armour_Class.md "护甲等级")添加 +1d6 奖励。奖励取决于发起[吟游诗人](Bard.md "吟游诗人")的等级 |
+| 战斗激励 | 可以使用他们的[战斗激励](Combat_Inspiration.md "战斗激励")为下一次[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加 +1d6 奖励。他们也可以选择为下一次武器攻击的伤害或为一次攻击的[护甲等级](Armour_Class.md "护甲等级")添加 +1d6 奖励。奖励取决于发起[吟游诗人](Bard.md "吟游诗人")的等级 |
 | [精通诗人激励](Improved_Bardic_Inspiration_(Condition).md "精通诗人激励 (状态)") | 可以使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励 (职业动作)")为下一次[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加 +1d12 奖励。 |
 
 ---

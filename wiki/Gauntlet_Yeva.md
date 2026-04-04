@@ -98,23 +98,23 @@
 
 ## 特性
 
-- [**加深伤口**](Deepen_the_Wound.md "加深伤口")
+- [加深伤口](Deepen_the_Wound.md "加深伤口")
 
 当攻击已受伤的生物时，持有者使用此武器进行[攻击掷骰](Attack_roll.md "攻击掷骰")时获得 +1d4 奖励。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在 3 米 / 10 英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition).md) 的盟友并肩作战时，获得[优势](Advantage.md "优势")进行[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
@@ -166,23 +166,23 @@
 
 ## 特性
 
-- [**加深伤口**](Deepen_the_Wound.md "加深伤口")
+- [加深伤口](Deepen_the_Wound.md "加深伤口")
 
 当攻击已受伤的生物时，持有者使用此武器进行[攻击掷骰](Attack_roll.md "攻击掷骰")时获得 +1d4 奖励。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在 3 米 / 10 英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition).md) 的盟友并肩作战时，获得[优势](Advantage.md "优势")进行[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
@@ -234,23 +234,23 @@
 
 ## 特性
 
-- [**加深伤口**](Deepen_the_Wound.md "加深伤口")
+- [加深伤口](Deepen_the_Wound.md "加深伤口")
 
 当攻击已受伤的生物时，持有者使用此武器进行[攻击掷骰](Attack_roll.md "攻击掷骰")时获得 +1d4 奖励。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在 3 米 / 10 英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition).md) 的盟友并肩作战时，获得[优势](Advantage.md "优势")进行[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
@@ -272,16 +272,16 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 画廊](#gallery)
-- [6 笔记](#notes)
-- [7 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 画廊](#画廊)
+- [6 笔记](#笔记)
+- [7 外部链接](#外部链接)
 
 ## 参与度
 
@@ -297,7 +297,7 @@ UUID
 
 叶娃首次出现在[第一幕](Act_One.md "第一幕")的[复生之路](Risen_Road.md "复生之路")上，她正与她的下属[焰拳新兵艾利斯](Aelis_(Fist_Recruit).md "焰拳新兵艾利斯")、[焰拳新兵伊藤](Ito.md "焰拳新兵伊藤")、[焰拳新兵帕维尔](Pavel.md "焰拳新兵帕维尔")和[焰拳新兵特里斯坦](Tristan.md "焰拳新兵特里斯坦")一起，努力进入[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")旅馆燃烧的建筑中。[铁手戴恩](Dain.md "铁手戴恩")和[焰拳新兵埃弗伦](Ephren.md "焰拳新兵埃弗伦")也在场，但没有参与救援活动。旅馆在被一群[地精](Goblin.md "地精")和[卓尔](Drow.md "卓尔")夷为平地后开始燃烧，叶娃试图推开被堵住的主门，但无济于事。如果与她交谈，她会解释说他们正在试图拯救[雷文伽德公爵](Ulder_Ravengard.md "雷文伽德公爵")，他可能仍被困在里面。如果[威尔](Wyll.md "威尔")在队伍中（或作为出身扮演），他会立即认出这个名字，但叶娃没有反应，专注于当前的任务。
 
-队伍可以介入并帮助焰拳成员，通过 DC 10 的[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")砸碎门。如果成功，叶娃和小队的其他成员会跑到二楼，可以听到弗洛里克在那里呼救。
+队伍可以介入并帮助焰拳成员，通过 DC 10 的[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")砸碎门。如果成功，叶娃和小队的其他成员会跑到二楼，可以听到弗洛里克在那里呼救。
 
 如果被解救出来，弗洛里克与叶娃和她的焰拳成员会立即下楼并走到外面。弗洛里克随后向焰拳成员宣布，高公爵雷文伽德已被卓尔带往西方，并亲自命令叶娃向指挥官（很可能是[舒尔加](Shuurga.md "舒尔加")或[维多尔](Vidor.md "维多尔")）报告以请求增援。
 

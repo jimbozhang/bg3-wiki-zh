@@ -30,7 +30,7 @@
 
 ## 注释
 
-- [关于惠特本勋爵的相关阅读](Donation_Record.md "捐赠记录")
+- [捐赠记录](Donation_Record.md "捐赠记录")
 
 ---
 *来源：[致惠特本勋爵的信函草稿](https://bg3.wiki/wiki/Draft_Letter_to_Lord_Whitburn)*

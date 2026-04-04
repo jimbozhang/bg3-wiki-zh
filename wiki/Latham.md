@@ -87,11 +87,11 @@
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -141,11 +141,11 @@
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -195,11 +195,11 @@
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -221,13 +221,13 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-  - [2.3 盟友](#allies)
-- [3 笔记](#notes)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+  - [2.3 盟友](#盟友)
+- [3 笔记](#笔记)
+- [4 外部链接](#外部链接)
 
 ## 出场
 

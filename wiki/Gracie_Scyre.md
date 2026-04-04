@@ -91,7 +91,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -149,7 +149,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -207,7 +207,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -237,11 +237,11 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 相关文献](#related-literature)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 相关文献](#相关文献)
 
 ## 参与
 
@@ -251,7 +251,7 @@ UUID
 
 - 如果教导 [尼娜·多特迈尔](Nina_Dortmell.md "Nina Dortmell") 如何复活她已故的兄弟，她会加入队伍战斗以击败 [加雷特·多特迈尔](Garret_Dortmell.md "Garret Dortmell") 和其他不死生物。之后她会斥责队伍并要求他们离开。或者，如果说服尼娜放弃复活她的兄弟，她会赞扬队伍。也可以告诉她关于尼娜的事，之后她自己会说服尼娜放弃复活她的兄弟。她每天晚上都向尼娜提供帮助以度过哀悼过程。之后，她会感谢队伍提醒她。
 - 如果挖掘 [巴格辛博](Bugthimble.md "Bugthimble")，她会加入队伍与他和他的狗头人同伴战斗。之后她会感谢队伍的帮助。
-- 如果说服 [乌尔克·萨利](Ulkov_Sully.md "Ulkov Sully") 为 [安尼塔](Anita_Fischer.md "Anita Fischer") 和 [伊莱亚斯·费舍尔](Elias_Fischer.md "Elias Fischer") 制作棺材，她会赞扬队伍的善意。
+- 如果说服 [乌尔克·萨利](Ulkov_Sully.md "Ulkov Sully") 为 [安尼塔·费舍尔](Anita_Fischer.md "安尼塔·费舍尔") 和 [伊莱亚斯·费舍尔](Elias_Fischer.md "Elias Fischer") 制作棺材，她会赞扬队伍的善意。
 
 ## 战斗
 

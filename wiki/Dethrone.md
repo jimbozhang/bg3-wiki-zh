@@ -1,6 +1,6 @@
 # 废黜
 
-**废黜**是一个[5级死灵学派法术](Spells.md "Spells")。这是一个独特的法术，能对单个目标造成毁灭性的[黯蚀](Necrotic.md "Necrotic")伤害。只有[法师](Wizard.md "Wizard")可以通过从独特的卷轴[抄录](Transcribing_scrolls.md "Transcribing scrolls")来学习这个法术。
+**废黜**是一个[法术](Spells.md "法术")。这是一个独特的法术，能对单个目标造成毁灭性的[黯蚀](Necrotic.md "Necrotic")伤害。只有[法师](Wizard.md "Wizard")可以通过从独特的卷轴[抄录](Transcribing_scrolls.md "Transcribing scrolls")来学习这个法术。
 
 ## 描述
 

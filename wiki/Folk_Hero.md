@@ -20,13 +20,13 @@
 | 地点 | 经验值奖励 | 名称 | 描述 |
 | --- | --- | --- | --- |
 | 第一幕 |  |  |  |
-| [染疫村落](Blighted_Village.md "染疫村落") | 25 | 最不幸的侏儒 | 从风车的命运中拯救[侏儒](Barcus_Wroot.md "巴克斯·鲁特")。在与他对话后获得。 |
+| [染疫村落](Blighted_Village.md "染疫村落") | 25 | 最不幸的侏儒 | 从风车的命运中拯救[巴克斯·鲁特](Barcus_Wroot.md "巴克斯·鲁特")。在与他对话后获得。 |
 | [营地](Campsite.md "营地") | 25 | 九命吟游诗人 | 从[地精营地](Goblin_Camp.md "地精营地")拯救[瓦罗](Volo.md "瓦罗")。如果瓦罗在被拯救后被送往营地，则在营地获得激励点。 |
 | [翠绿林地](Emerald_Grove.md "翠绿林地") | 20 | 及时救援 | 从绑架他的地精手中拯救[芬德尔](Findal.md "芬德尔")。 |
 | 20 | 遗忘者的守护者 | 从地精袭击中拯救提夫林。当[明萨拉](Minthara.md "明萨拉")的部队袭击林地时，队伍必须保卫林地。与⁠[屠杀的奖赏](Criminal#Slaughter's_Prize.md#Slaughter's_Prize "罪犯")和⁠[无头部落](Soldier#A_Headless_Horde.md#A_Headless_Horde "士兵")互斥。 |  |
 | 20 | 小家伙的保护者 | 从鹰身女妖手中拯救[米尔克](Mirkon.md "米尔克")。与⁠[金钱的诱惑](Criminal#The_Allure_of_Coin.md#The_Allure_of_Coin "罪犯")和⁠[击杀吹笛手](Urchin#Slaying_the_Piper.md#Slaying_the_Piper "流浪儿")共享。 |  |
 | 20 | 蛇语者 | 从[卡哈](Kagha.md "卡哈")和她的蛇手中拯救[阿拉贝尔](Arabella.md "阿拉贝尔")。队伍必须通过与阿拉贝尔及其父母对话来完成任务以获得激励点。 |  |
-| [复仇之炉](Grymforge.md "复仇之炉") | 30 | 链条破坏者 | 从[尼讷](Nere.md "尼讷")和[灰矮人](Save_the_Grymforge_Gnomes.md "拯救复仇之炉的侏儒们")手中拯救地底侏儒。 |
+| [复仇之炉](Grymforge.md "复仇之炉") | 30 | 链条破坏者 | 从[尼讷](Nere.md "尼讷")和[拯救复仇之炉的侏儒们](Save_the_Grymforge_Gnomes.md "拯救复仇之炉的侏儒们")手中拯救地底侏儒。 |
 | [蔓生地道](Overgrown_Tunnel.md "蔓生地道") | 30 | 揭露真相 | 解救[悔恨面具](Mask_of_Regret_(Overgrown_Tunnel).md "悔恨面具（蔓生地道）")，鬼婆的蒙面奴仆之一。 |
 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") | 25 | 比死亡更糟的命运 | 从地精拷问者手中拯救[利亚姆](Liam.md "利亚姆")。 |
 | 25 | 千钧一发 | 从致命坠落中拯救[斯密辛](Smythin.md "斯密辛")。时机非常紧迫，因为任何队伍成员到达楼梯顶部 X: 305 Y: 0 或 X: 288 Y: 0 后不久，他就会被推下。如果[萨扎](Sazza.md "萨扎")在队伍到达此点之前被护送出林地，斯密辛不会出现。 |  |
@@ -39,7 +39,7 @@
 | 50 | 帮助小家伙 | 帮助[摩尔](Mol.md "摩尔")赢得枪板棋游戏。 |  |
 | 60 | 命运相会 | 在终焉光芒的对峙中支持[伊索贝尔](Isobel_Thorm.md "伊索贝尔·索姆")或[马库斯](Marcus_Falgor.md "马库斯·法尔戈")。 |  |
 | [月出之塔](Moonrise_Towers.md "月出之塔") | 50 | 无拘无束 | 从奴役中释放[豺狼人](Barnabus.md "巴纳巴斯")。 |  |
-| 50 | 非凡认可 | 向[熊地精商人](Lann_Tarv.md "兰恩·塔夫")讲述你的功绩。 |  |
+| 50 | 非凡认可 | 向[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")讲述你的功绩。 |  |
 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") | 60 | 越狱！ | 越狱并拯救所有[月出之塔](Moonrise_Towers.md "月出之塔")的囚犯。 |
 | [雷斯文小镇](Reithwin_Town.md "雷斯文小镇") | 60 | 权力腐蚀 | 击败腐败小镇中的一个主要人物。队伍必须击败[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")、[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")或[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")。 |
 | 75 | 权力绝对腐蚀 | 击败腐败小镇中的所有主要人物。队伍必须击败[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")、[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")和[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")。三者必须在战斗中被击败。 |  |
@@ -49,20 +49,20 @@
 | 第三幕 |  |  |  |
 | [希望之邸](House_of_Hope.md "希望之邸") | 220 | 解放猎物 | 从囚禁中解放[希望](Hope.md "希望")。 |
 | [钢铁王座](Iron_Throne.md "钢铁王座") | 220 | 不顾一切 | 在回合限制结束前拯救所有十三名被俘的工匠家族成员。 |
-| [下城区](Lower_City.md "下城区") | 170 | 一言为定 | 在[博德之门](Elfsong_Tavern.md "精灵之歌酒馆")与[拉克里萨](Lakrissa.md "拉克里萨")会面。仅当队伍在[翠绿林地](Emerald_Grove.md "翠绿林地")与拉克里萨交谈并就抵达博德之门打赌后才能获得。 |
+| [下城区](Lower_City.md "下城区") | 170 | 一言为定 | 在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")与[拉克里萨](Lakrissa.md "拉克里萨")会面。仅当队伍在[翠绿林地](Emerald_Grove.md "翠绿林地")与拉克里萨交谈并就抵达博德之门打赌后才能获得。 |
 | 170 | 对逝者的同理心 | 说服棺材匠[乌尔克·萨利](Ulkov_Sully.md "乌尔克·萨利")破例。 |  |
 | 220 | 英雄所需 | 成功从[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")拯救所有工匠。 |  |
-| 170 | 画中英雄 | 从[奥斯卡](Free_the_Artist.md "解救艺术家")处获得你的肖像画。 |  |
+| 170 | 画中英雄 | 从[解救艺术家](Free_the_Artist.md "解救艺术家")处获得你的肖像画。 |  |
 | 170 | 守护歌鸟 | 在[博德之门](Elfsong_Tavern#Roof.md#Roof "精灵之歌酒馆")遇见沉着的[阿尔菲拉](Alfira.md "阿尔菲拉")。 |  |
-| 170 | 真相大白 | 找到连环谋杀案背后的[真凶](Investigate_the_Murders.md "调查谋杀案")。 |  |
+| 170 | 真相大白 | 找到连环谋杀案背后的[调查谋杀案](Investigate_the_Murders.md "调查谋杀案")。 |  |
 | [谋杀裁判所](Murder_Tribunal.md "谋杀裁判所") | 220 | 裁判所终结 | 拯救[瓦莱里亚](Valeria.md "瓦莱里亚")并终结谋杀裁判所。 |
-| [利文顿](Rivington.md "利文顿") | 170 | 失去的纯真 | 揭露[玩具匠](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")的恶作剧。 |  |
-| 135 | 保持双手干净 | 拒绝因[乌尔布伦](Avenge_the_Ironhands.md "为铁手侏儒复仇")的计划造成附带伤害。 |  |
-| 135 | 确保款待 | 拯救[占屋者](Ben_Golewits.md "本·戈莱维茨")免遭驱逐。 |  |
+| [利文顿](Rivington.md "利文顿") | 170 | 失去的纯真 | 揭露[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")的恶作剧。 |  |
+| 135 | 保持双手干净 | 拒绝因[为铁手侏儒复仇](Avenge_the_Ironhands.md "为铁手侏儒复仇")的计划造成附带伤害。 |  |
+| 135 | 确保款待 | 拯救[本·戈莱维茨](Ben_Golewits.md "本·戈莱维茨")免遭驱逐。 |  |
 | 135 | 相信直觉 | 接手[瓦莱里亚](Valeria.md "瓦莱里亚")草草了结的调查。 |  |
-| [上城区](Upper_City.md "上城区") | 220 | 被禁锢的不幸灵魂 | 从[卡扎多尔的巢穴](Cazador's_Dungeon.md "卡扎多尔的地牢")拯救吸血鬼衍体。 |  |
+| [上城区](Upper_City.md "上城区") | 220 | 被禁锢的不幸灵魂 | 从[卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢")拯救吸血鬼衍体。 |  |
 | 220 | 永不再被禁锢 | 击败[洛若坎](Lorroakan.md "洛若坎")并让[暗夜之歌](Aylin.md "艾琳")执行她的复仇。 |  |
-| [飞龙岩监狱](Wyrm's_Rock_Prison.md "飞龙岩监狱") | 170 | 外交救援 | [拯救顾问弗洛瑞克](Free_Counsellor_Florrick.md "释放顾问弗洛瑞克")离开飞龙岩。 |  |
+| [飞龙岩监狱](Wyrm's_Rock_Prison.md "飞龙岩监狱") | 170 | 外交救援 | [释放顾问弗洛瑞克](Free_Counsellor_Florrick.md "释放顾问弗洛瑞克")离开飞龙岩。 |  |
 | [飞龙之道](Wyrmway.md "飞龙之道") | 170 | 屠龙者 | 挑战并击败[安苏](Ansur.md "安苏")，飞龙关并非不朽的哨兵。 |
 
 ## 已删减的背景目标

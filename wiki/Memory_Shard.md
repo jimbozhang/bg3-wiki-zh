@@ -1,6 +1,6 @@
 # 记忆水晶
 
-记忆水晶是包含[道恩](Dhourn.md "道恩")记忆的水晶。通过通过 DC 10 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")，可以使用它来启动[精金熔炉](Adamantine_Forge_(quest).md) quest。
+记忆水晶是包含[道恩](Dhourn.md "道恩")记忆的水晶。通过通过 DC 10 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")，可以使用它来启动[精金熔炉](Adamantine_Forge_(quest).md) quest。
 
 盘绕的阴影在水晶内部移动——仿佛有什么东西被困在里面。
 
@@ -13,7 +13,7 @@
 - 价格：70 金币
 - UID `LOOT_Memory_Crystal_A` UUID `157b3cd4-c446-4523-a0a8-8bdb8d40a76e` ### 效果
 
-在成功的 DC 10 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")后启动对话和过场动画
+在成功的 DC 10 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")后启动对话和过场动画
 
 ## 获取地点
 

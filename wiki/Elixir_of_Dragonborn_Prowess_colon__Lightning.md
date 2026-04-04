@@ -26,11 +26,11 @@
 
 持续时间：直到[长休](Long_Rest.md "长休")
 
-- 受影响实体在威吓和游说[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，对[闪电](Lightning.md "闪电")伤害具有[抗性](Resistance.md "抗性")，并且可以在其下一次[长休](Long_Rest.md "Long Rest")之前使用一次[闪电束](Lightning_Bolt.md "Lightning Bolt")。
+- 受影响实体在威吓和游说[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，对[闪电](Lightning.md "闪电")伤害具有[抗性](Resistance.md "抗性")，并且可以在其下一次[长休](Long_Rest.md "Long Rest")之前使用一次[闪电束](Lightning_Bolt.md "Lightning Bolt")。
 
 ## 获取地点
 
-由[阿拉吉·欧布罗扎](Araj_Oblodra.md "阿拉吉·欧布罗扎")在[月出之塔](Moonrise_Towers.md "月出之塔")以及后来的[下城区](Lower_City.md "下城区")提供，以交换[青铜](Bronze_Dragonborn.md "青铜龙裔")或[蓝](Blue_Dragonborn.md "蓝龙裔")[龙裔](Dragonborn.md "龙裔")的血液。
+由[阿拉吉·欧布罗扎](Araj_Oblodra.md "阿拉吉·欧布罗扎")在[月出之塔](Moonrise_Towers.md "月出之塔")以及后来的[下城区](Lower_City.md "下城区")提供，以交换[青铜龙裔](Bronze_Dragonborn.md "青铜龙裔")或[蓝龙裔](Blue_Dragonborn.md "蓝龙裔")[龙裔](Dragonborn.md "龙裔")的血液。
 
 ---
 *Source: [Elixir of Dragonborn Prowess: Lightning](https://bg3.wiki/wiki/Elixir_of_Dragonborn_Prowess:_Lightning)*

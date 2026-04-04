@@ -4,7 +4,7 @@
 
 ## 描述
 
-一次性释放刀锋咏唱的全部伤害与治疗效果。你的[刀锋咏唱伤害冲锋](Bladesong_Damage_Charge_(Condition).md "刀锋咏唱伤害冲锋（状态）")将对敌人额外造成1d6⁠⁠[力场](Force.md "力场")伤害，而你的[刀锋咏唱治疗冲锋](Bladesong_Healing_Charge_(Condition).md "刀锋咏唱治疗冲锋（状态）")将为你和盟友额外治疗1d6⁠⁠[生命值](Healing.md "治疗")。
+一次性释放刀锋咏唱的全部伤害与治疗效果。你的[刀锋咏唱伤害冲锋](Bladesong_Damage_Charge_(Condition).md "刀锋咏唱伤害冲锋（状态）")将对敌人额外造成1d6⁠⁠[力场](Force.md "力场")伤害，而你的[刀锋咏唱治疗冲锋](Bladesong_Healing_Charge_(Condition).md "刀锋咏唱治疗冲锋（状态）")将为你和盟友额外治疗1d6⁠⁠[治疗](Healing.md "治疗")。
 
 这将结束你的[刀锋咏唱](Bladesinging_(Condition).md "刀锋咏唱（状态）")。
 

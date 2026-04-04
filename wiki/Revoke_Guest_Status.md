@@ -1,6 +1,6 @@
 # 撤销访客身份
 
-**撤销访客身份**是一个[5级防护学派法术](Spells.md "Spells")。这是[希望](Hope.md "Hope")可用的[放逐术](Banishment.md "Banishment")的独特版本，可以将敌人从[希望之邸](House_of_Hope.md "House of Hope")永久放逐。队伍成员无法学习此法术。
+**撤销访客身份**是一个[法术](Spells.md "法术")。这是[希望](Hope.md "Hope")可用的[放逐术](Banishment.md "Banishment")的独特版本，可以将敌人从[希望之邸](House_of_Hope.md "House of Hope")永久放逐。队伍成员无法学习此法术。
 
 ## 描述
 

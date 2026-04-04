@@ -32,7 +32,7 @@ _关于双武器战斗：_
 - 多个双武器战斗来源不会为副手攻击提供额外伤害。
 - 不要与[双持客](Dual_Wielder.md "Dual Wielder")专长混淆。
 - 在等级提升期间，角色背部始终只显示一把武器，即使装备了两把。
-- 与桌面版5e不同，在博德之门3中，双武器战斗风格对[投掷](Thrown.md "Thrown")武器没有加成。虽然双持仍然允许通过[附赠动作](Actions.md#Resources "Actions")进行副手[投掷](Throw.md "Throw")攻击，但BG3的游戏引擎默认会自动将用户的[属性调整值](Ability_score_modifier.md "Ability Score Modifier")加到投掷伤害上。因此，这种战斗风格——为副手攻击提供相同调整值——对于投掷是冗余的。在桌面版D&D中，这种风格是将属性调整值伤害加到副手投掷所必需的（PHB，第195页）。
+- 与桌面版5e不同，在博德之门3中，双武器战斗风格对[投掷攻击](Thrown.md "投掷攻击")武器没有加成。虽然双持仍然允许通过[附赠动作](Actions.md#Resources "Actions")进行副手[投掷](Throw.md "Throw")攻击，但BG3的游戏引擎默认会自动将用户的[属性调整值](Ability_score_modifier.md "Ability Score Modifier")加到投掷伤害上。因此，这种战斗风格——为副手攻击提供相同调整值——对于投掷是冗余的。在桌面版D&D中，这种风格是将属性调整值伤害加到副手投掷所必需的（PHB，第195页）。
 
 ## 图库
 

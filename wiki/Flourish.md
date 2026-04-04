@@ -52,7 +52,7 @@ UID
 
 ## 备注
 
-- 造成的伤害为[非致命](Toggle_Non-Lethal_Attacks.md "Toggle Non-Lethal Attacks")，当目标生命值降至0时会使其昏迷而非死亡。
+- 造成的伤害为[非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")，当目标生命值降至0时会使其昏迷而非死亡。
 
 ---
 *Source: [Flourish](https://bg3.wiki/wiki/Flourish)*

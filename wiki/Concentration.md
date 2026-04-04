@@ -6,17 +6,17 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 结束专注](#ending-concentration)
-- [2 专注法术列表](#list-of-concentration-spells)
-  - [2.1 戏法](#cantrips)
-  - [2.2 1环法术](#1st_level_spells)
-  - [2.3 2环法术](#2nd_level_spells)
-  - [2.4 3环法术](#3rd_level_spells)
-  - [2.5 4环法术](#4th_level_spells)
-  - [2.6 5环法术](#5th_level_spells)
-  - [2.7 6环法术](#6th_level_spells)
-- [3 注释](#notes)
+- [1 概述](#概述)
+  - [1.1 结束专注](#结束专注)
+- [2 专注法术列表](#专注法术列表)
+  - [2.1 戏法](#戏法)
+  - [2.2 1环法术](#1环法术)
+  - [2.3 2环法术](#2环法术)
+  - [2.4 3环法术](#3环法术)
+  - [2.5 4环法术](#4环法术)
+  - [2.6 5环法术](#5环法术)
+  - [2.7 6环法术](#6环法术)
+- [3 注释](#注释)
 
 ## 概述
 
@@ -103,7 +103,7 @@
 - [黑暗术](Darkness.md "黑暗术")
 - [侦测思想](Detect_Thoughts.md "侦测思想")
 - [强化属性](Enhance_Ability.md "强化属性")
-- [巨化/缩小](Enlarge/Reduce.md "巨化/缩小")
+- [缩小](Enlarge/Reduce.md "缩小")
 - [炽焰法球](Flaming_Sphere.md "炽焰法球")
 - [灼热金属](Heat_Metal.md "灼热金属")
 - [人类定身术](Hold_Person.md "人类定身术")

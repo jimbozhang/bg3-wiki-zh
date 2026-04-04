@@ -2,7 +2,7 @@
 
 另请参阅：[不安面容 (硬核)](Disconcerting_Visage_(Tactician).md)
 
-**不安面容**是一个[等级 5 法术](Spells.md "Spells")。这是一个仅由[逝去爱人的回响](Echo_of_a_Lost_Love.md "逝去爱人的回响")使用的法术。队员无法学习。
+**不安面容**是一个[法术](Spells.md "法术")。这是一个仅由[逝去爱人的回响](Echo_of_a_Lost_Love.md "逝去爱人的回响")使用的法术。队员无法学习。
 
 ## 描述
 

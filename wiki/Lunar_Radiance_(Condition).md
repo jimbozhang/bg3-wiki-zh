@@ -27,7 +27,7 @@
 [光耀法球](Radiating_Orb_(Condition).md "Radiating Orb (Condition)")
 |
 
-- 受影响实体每剩余[回合](Turn.md "Turn")的[攻击掷骰](Attack_rolls.md "Attack Rolls")具有**-1**减值。它还会在周围区域散发明亮光线。
+- 受影响实体每剩余[驱散](Turn.md "驱散")的[攻击掷骰](Attack_rolls.md "Attack Rolls")具有**-1**减值。它还会在周围区域散发明亮光线。
 
 - 每次实体进行攻击时，持续时间减少2。
 

@@ -61,7 +61,7 @@
 [诅咒头骨](Cursed_Skull_(Condition).md "诅咒头骨（状态）")
 |
 
-- 这个 [头骨](Cursed_Skull.md "诅咒头骨") 被赋予了死灵力量，会发射 [雷鸣波](Thunderwave.md "雷鸣波")。
+- 这个 [诅咒头骨](Cursed_Skull.md "诅咒头骨") 被赋予了死灵力量，会发射 [雷鸣波](Thunderwave.md "雷鸣波")。
 
 [诅咒：额外伤害](Cursed_colon__Additional_Damage_(Condition).md "诅咒：额外伤害（状态）")
 |
@@ -132,37 +132,37 @@
 |
 
 - 生物从施法者处受到额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 其 [魅力](Charisma.md "魅力") [检定](Ability_Check.md "检定") 也具有 [劣势](Disadvantage.md "劣势")。
+- 其 [魅力](Charisma.md "魅力") [属性检定](Ability_Check.md "属性检定") 也具有 [劣势](Disadvantage.md "劣势")。
 
 [脆弱诅咒：体质](Hexed_colon__Constitution_(Condition).md "脆弱诅咒：体质（状态）")
 |
 
 - 生物从施法者处受到额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 其 [体质](Constitution.md "体质") [检定](Ability_Check.md "检定") 也具有 [劣势](Disadvantage.md "劣势")。
+- 其 [体质](Constitution.md "体质") [属性检定](Ability_Check.md "属性检定") 也具有 [劣势](Disadvantage.md "劣势")。
 
 [脆弱诅咒：敏捷](Hexed_colon__Dexterity_(Condition).md "脆弱诅咒：敏捷（状态）")
 |
 
 - 生物从施法者处受到额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 其 [敏捷](Dexterity.md "敏捷") [检定](Ability_Check.md "检定") 也具有 [劣势](Disadvantage.md "劣势")。
+- 其 [敏捷](Dexterity.md "敏捷") [属性检定](Ability_Check.md "属性检定") 也具有 [劣势](Disadvantage.md "劣势")。
 
 [脆弱诅咒：智力](Hexed_colon__Intelligence_(Condition).md "脆弱诅咒：智力（状态）")
 |
 
 - 生物从施法者处受到额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 其 [智力](Intelligence.md "智力") [检定](Ability_Check.md "检定") 也具有 [劣势](Disadvantage.md "劣势")。
+- 其 [智力](Intelligence.md "智力") [属性检定](Ability_Check.md "属性检定") 也具有 [劣势](Disadvantage.md "劣势")。
 
 [脆弱诅咒：力量](Hexed_colon__Strength_(Condition).md "脆弱诅咒：力量（状态）")
 |
 
 - 生物从施法者处受到额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 其 [力量](Strength.md "力量") [检定](Ability_Check.md "检定") 也具有 [劣势](Disadvantage.md "劣势")。
+- 其 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 也具有 [劣势](Disadvantage.md "劣势")。
 
 [脆弱诅咒：感知](Hexed_colon__Wisdom_(Condition).md "脆弱诅咒：感知（状态）")
 |
 
 - 生物从施法者处受到额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 其 [感知](Wisdom.md "感知") [检定](Ability_Check.md "检定") 也具有 [劣势](Disadvantage.md "劣势")。
+- 其 [感知](Wisdom.md "感知") [属性检定](Ability_Check.md "属性检定") 也具有 [劣势](Disadvantage.md "劣势")。
 
 [狂乱之吻](Insanity's_Kiss_(Condition).md "狂乱之吻（状态）")
 |

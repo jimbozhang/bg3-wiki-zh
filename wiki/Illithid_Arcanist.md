@@ -77,15 +77,15 @@
 
 ## 特性
 
-- [**强效塑能**](Empowered_Evocation.md "强效塑能")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 对塑能法术的伤害掷骰增加智力调整值。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -137,15 +137,15 @@
 
 ## 特性
 
-- [**强效塑能**](Empowered_Evocation.md "强效塑能")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 对塑能法术的伤害掷骰增加智力调整值。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -197,15 +197,15 @@
 
 ## 特性
 
-- [**强效塑能**](Empowered_Evocation.md "强效塑能")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 对塑能法术的伤害掷骰增加智力调整值。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -213,11 +213,11 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 错误](#bugs)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 错误](#错误)
 
 ## 参与
 
@@ -231,7 +231,7 @@
 
 尝试阻止施放法术。
 
-如果法术等级高于你用于反制的法术位，你必须使用你的施法关键属性进行一次[检定](Ability_Check.md "属性检定")\[[参见注释](Counterspell.md#Notes "法术反制")\]来阻止它。检定难度等于 10 加上你试图反制的法术等级。
+如果法术等级高于你用于反制的法术位，你必须使用你的施法关键属性进行一次[属性检定](Ability_Check.md "属性检定")\[[参见注释](Counterspell.md#Notes "法术反制")\]来阻止它。检定难度等于 10 加上你试图反制的法术等级。
 
 此法术可以在你[沉默](Silenced_(Condition).md "沉默 (状态)")时施放。
 

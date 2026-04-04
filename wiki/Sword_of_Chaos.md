@@ -28,7 +28,7 @@ UID `MAG_BG_Sarevok_OfChaos_Greatsword` UUID `e76b0896-dc70-4fb9-b202-cf5efc2de1
 **持有此物品者获得：**
 
 [混乱](Chaos.md "混乱")
-用此武器造成伤害时，恢复1d6⁠⁠[生命值](Healing.md "生命值")._\[[参见注释](Chaos.md#Notes "混乱")\]_
+用此武器造成伤害时，恢复1d6⁠⁠[治疗](Healing.md "治疗")._\[[参见注释](Chaos.md#Notes "混乱")\]_
 
 ### 武器动作
 
@@ -59,7 +59,7 @@ _关于混乱：_
 - 对物品造成伤害时不会触发混乱。
 - 治疗效果，如[祝福慈悲](Blessed_Mercy.md "祝福慈悲")，也不会通过混乱触发。
 - 每次伤害实例都会治疗 wielder。这意味着在造成多种伤害类型的攻击中，如[轰鸣剑](Booming_Blade.md "轰鸣剑")和[至圣斩](Divine_Smite.md "至圣斩")（以及其他[至圣斩](Smite.md "至圣斩")法术），或在攻击多个目标时，如[挥砍华舞（近战）](Slashing_Flourish_(Melee).md "挥砍华舞（近战）")， wielder 会被多次治疗。
-- 游戏内描述为“命中时，恢复1d6⁠⁠[生命值](Healing.md "生命值").”。
+- 游戏内描述为“命中时，恢复1d6⁠⁠[治疗](Healing.md "治疗").”。
 
 ## 图库
 

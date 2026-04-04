@@ -13,7 +13,7 @@
 8d6⁠[强酸](Acid.md "强酸")
 
 详情
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）（豁免成功：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）（豁免成功：目标仍承受一半伤害。）
 区域效果：3米（10英尺）半径
 创建区域：腐蚀性卤水
 

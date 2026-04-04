@@ -95,19 +95,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名未[失能](Incapacitated_(Condition)的持盾盟友相邻时.md)，获得[优势](Advantage.md "优势")进行[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
@@ -161,19 +161,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名未[失能](Incapacitated_(Condition)的持盾盟友相邻时.md)，获得[优势](Advantage.md "优势")进行[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
@@ -227,19 +227,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名未[失能](Incapacitated_(Condition)的持盾盟友相邻时.md)，获得[优势](Advantage.md "优势")进行[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
@@ -265,10 +265,10 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 死者交谈](#speak-with-dead)
-- [3 战利品](#loot)
-- [4 注释与参考](#notes-and-references)
+- [1 出场](#出场)
+- [2 死者交谈](#死者交谈)
+- [3 战利品](#战利品)
+- [4 注释与参考](#注释与参考)
 
 ## 出场
 
@@ -359,7 +359,7 @@ Stats
 ## 注释与参考
 
 1. [↑](#cite_ref-1) 哈尔法仅在名义上是牧师，因为他的游戏内统计数据使他成为拥有[战斗大师](Battle_Master.md "战斗大师")战术和卓越骰子的[战士](Fighter.md "战士")。
-1. [↑](#cite_ref-2) 根据开发者笔记，哈尔法的对话很可能是为了让好奇的玩家知道至高大殿是一个高密度高等级敌人盘踞的区域，并意图鼓励他们探索并找到一条[危险性较低的路线](Upper_City_Sewers.md "上城区下水道")。
+1. [↑](#cite_ref-2) 根据开发者笔记，哈尔法的对话很可能是为了让好奇的玩家知道至高大殿是一个高密度高等级敌人盘踞的区域，并意图鼓励他们探索并找到一条[上城区下水道](Upper_City_Sewers.md "上城区下水道")。
 
 ---
 *Source: [Halfar](https://bg3.wiki/wiki/Halfar)*

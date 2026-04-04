@@ -91,23 +91,23 @@
 
 ## 特性
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**岩石伪装**](Stone_Camouflage.md "岩石伪装")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
 你在[隐匿](Stealth.md "隐匿")检定上具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -161,23 +161,23 @@
 
 ## 特性
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**岩石伪装**](Stone_Camouflage.md "岩石伪装")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
 你在[隐匿](Stealth.md "隐匿")检定上具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -231,23 +231,23 @@
 
 ## 特性
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**岩石伪装**](Stone_Camouflage.md "岩石伪装")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
 你在[隐匿](Stealth.md "隐匿")检定上具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -269,11 +269,11 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 相关文献](#related-literature)
-- [3 相关任务](#related-quests)
-- [4 注释与参考](#notes-and-references)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 相关文献](#相关文献)
+- [3 相关任务](#相关任务)
+- [4 注释与参考](#注释与参考)
 
 ## 参与情况
 

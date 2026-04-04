@@ -92,31 +92,31 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到最多 24 米 / 80 英尺。
 
@@ -162,31 +162,31 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +7 | +1 | +6 | 0 | +1 | +1 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到最多 24 米 / 80 英尺。
 
@@ -232,31 +232,31 @@
 | --- | --- | --- | --- |
 |  | 4 | 1 | 1 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到最多 24 米 / 80 英尺。
 

@@ -92,15 +92,15 @@
 
 - - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
-- [**健壮**](Tough.md "健壮")
+- [健壮](Tough.md "健壮")
 
 你的[生命值](Hit_Points.md "生命值")上限每升一级增加2点。
 
@@ -126,19 +126,19 @@ UUID
 
 属性
 
-`LOW_Golbraith` **加尔布雷斯·斯特雷迪瓦斯**是一位[人类](Human.md "人类")，可以在[下城区](Lower_City.md "下城区")[他的房子](Golbraith's_Cellar.md "加尔布雷斯地窖")的一楼找到。他大致基于一位《博德之门3》的粉丝，该粉丝被诊断出患有阿尔茨海默病。<sup>[\[1\]](#cite_note-1)</sup><sup>[\[2\]](#cite_note-2)</sup>
+`LOW_Golbraith` **加尔布雷斯·斯特雷迪瓦斯**是一位[人类](Human.md "人类")，可以在[下城区](Lower_City.md "下城区")[加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖")的一楼找到。他大致基于一位《博德之门3》的粉丝，该粉丝被诊断出患有阿尔茨海默病。<sup>[\[1\]](#cite_note-1)</sup><sup>[\[2\]](#cite_note-2)</sup>
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 相关剧情](#involvement)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 著作](#authored-literature)
-- [5 相关文献](#related-literature)
-- [6 笔记](#notes)
-- [7 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 相关剧情](#相关剧情)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 著作](#著作)
+- [5 相关文献](#相关文献)
+- [6 笔记](#笔记)
+- [7 外部链接](#外部链接)
 
 ## 概述
 
@@ -159,7 +159,7 @@ UUID
 [失明术](Blindness.md "失明术") (+ )
 限制敌人的视线范围。更容易命中，且该生物会更频繁地失手。对其的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，而敌人攻击时具有[劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [寒冰锥](Cone_of_Cold.md "寒冰锥") (+ )
@@ -170,7 +170,7 @@ UUID
 
 从你的手中爆发出一阵霜冻、凛冽的空气和凝结的雪晶。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
 [召唤元素生物：火元素](Conjure_Elemental_colon__Fire_Elemental.md "召唤元素生物：火元素") (+ )
@@ -186,10 +186,10 @@ UUID
 
 如果目标未能通过敏捷[豁免检定](Saving_throw.md "豁免检定")，且法术将其生命值降至0，它会化为易碎的灰烬。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 
-[火球术术](Fireball.md "火球术术") (+ )
+[火球术](Fireball.md "火球术") (+ )
 
 伤害：8~48
 
@@ -197,7 +197,7 @@ UUID
 
 从你的指尖射出一道明亮的火焰，在接触时爆炸，对附近的一切造成 8d6⁠⁠[火焰](Fire.md "火焰") 伤害。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [冷冻射线](Ray_of_Frost.md "冷冻射线") ()

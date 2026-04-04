@@ -4,20 +4,20 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 游戏机制](#game-mechanic)
-  - [2.1 身兼多职](#multiclassing)
-- [3 无法通过卷轴学习的法师法术](#wizard-spells-without-scrolls)
-  - [3.1 戏法](#cantrips)
-  - [3.2 一级法术](#first-level)
-  - [3.3 二级法术](#second-level)
-  - [3.4 三级法术](#third-level)
-  - [3.5 四级法术](#fourth-level)
-  - [3.6 六级法术](#sixth-level)
-- [4 无法抄录的卷轴](#scrolls-that-cannot-be-transcribed)
-- [5 不可用的卷轴](#unavailable-scrolls)
-- [6 另见](#see-also)
-- [7 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+- [2 游戏机制](#游戏机制)
+  - [2.1 身兼多职](#身兼多职)
+- [3 无法通过卷轴学习的法师法术](#无法通过卷轴学习的法师法术)
+  - [3.1 戏法](#戏法)
+  - [3.2 一级法术](#一级法术)
+  - [3.3 二级法术](#二级法术)
+  - [3.4 三级法术](#三级法术)
+  - [3.5 四级法术](#四级法术)
+  - [3.6 六级法术](#六级法术)
+- [4 无法抄录的卷轴](#无法抄录的卷轴)
+- [5 不可用的卷轴](#不可用的卷轴)
+- [6 另见](#另见)
+- [7 注释与参考](#注释与参考)
 
 ## 概述
 
@@ -51,7 +51,7 @@
 [肌腱爆裂](Bursting_Sinew.md "肌腱爆裂")
 [舞光术](Dancing_Lights.md "舞光术")
 [交友术](Friends.md "交友术")
-[光亮术](Light.md "光亮术")
+[轻型](Light.md "轻型")
 [法师之手](Mage_Hand.md "法师之手")
 [初级幻影](Minor_Illusion.md "初级幻影")
 [毒气喷溅](Poison_Spray.md "毒气喷溅")

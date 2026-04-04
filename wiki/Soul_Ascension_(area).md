@@ -12,7 +12,7 @@
 
 **[扭动灵魂](Writhing_Souls_(Condition).md "扭动灵魂 (状态)")**
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子检定"))
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子检定"))
 
 - 当处于 [灵魂升腾](Soul_Ascension.md "Soul Ascension") 区域内时，此非邪魔单位每回合将因其灵魂被撕裂而受到 6d10⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 

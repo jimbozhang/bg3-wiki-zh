@@ -1,6 +1,6 @@
 # 天蓝石悬液
 
-**天蓝石悬液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation.md "高效奥术滋养灵药")。
+**天蓝石悬液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation.md "高效奥术滋养灵药")。
 
 碾碎的[天蓝石](https://forgottenrealms.fandom.com/wiki/Laculite)悬浮在这种酊剂底部，将[幽暗地域](Underdark.md "幽暗地域")的神秘力量注入水中。
 

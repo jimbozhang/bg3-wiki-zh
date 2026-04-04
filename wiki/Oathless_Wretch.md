@@ -65,7 +65,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 20 / (+5) | 14 / (+2) | 14 / (+2) | 10 / (0) | 12 / (+1) | 20 / (+5) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -79,23 +79,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -133,7 +133,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +10 | +7 | +7 | +5 | +10 | +14 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -147,23 +147,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -201,7 +201,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 20 / (+5) | 14 / (+2) | 14 / (+2) | 10 / (0) | 12 / (+1) | 20 / (+5) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -215,23 +215,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -239,10 +239,10 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
 
 ## 参与
 
@@ -277,7 +277,7 @@
 如果该生物只穿着金属护甲，它总是获得劣势。
 如果该生物仍接触金属，你可以在后续回合使用附赠动作造成另外 2d8⁠⁠[火焰](Fire.md "火焰")伤害，并迫使该生物松手或获得劣势。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [主手攻击](Main_Hand_Attack.md "主手攻击") () – [长剑 +2](Longsword_+2.md "长剑 +2")
@@ -298,7 +298,7 @@
 
 将任何事物和任何人推回 6 米 / 20 英尺。
 
-[力](Strength.md "力量") [豁免](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定")
 范围：6 米 (20 英尺)
 充能：[短休](Short_rest.md "短休")
 
@@ -312,7 +312,7 @@
 
 你的近战武器在攻击时发出雷鸣，将目标推回 3 米 (10 英尺)，并可能使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[力](Strength.md "力量") [豁免](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
 ## 战利品

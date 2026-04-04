@@ -1,6 +1,6 @@
 # 山丘巨人的力量铁手套
 
-山丘巨人的力量铁手套是一副非常稀有的[手套](Gloves.md "Gloves")，它会将穿戴者的[力量](Strength.md "Strength")[属性值](Abilities.md "Abilities")设定为23。
+山丘巨人的力量铁手套是一副非常稀有的[手套](Gloves.md "Gloves")，它会将穿戴者的[力量](Strength.md "Strength")[属性](Abilities.md "属性")设定为23。
 
 你所见的基本山丘巨人，不过是一堆带有消化系统的山体滑坡。
 
@@ -23,7 +23,7 @@
 
 ## 备注
 
-- 如果陷阱首先被解除，需要进行DC 20的[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability check")，并且[俄耳甫斯之锤](Orphic_Hammer.md "Orphic Hammer") / [灵魂契约](Soul-Sworn_Contract.md "Soul-Sworn Contract")和[希望](Hope.md "Hope")未被触碰，这些铁手套可以在不引发战斗的情况下被偷走。
+- 如果陷阱首先被解除，需要进行DC 20的[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")，并且[俄耳甫斯之锤](Orphic_Hammer.md "Orphic Hammer") / [灵魂契约](Soul-Sworn_Contract.md "Soul-Sworn Contract")和[希望](Hope.md "Hope")未被触碰，这些铁手套可以在不引发战斗的情况下被偷走。
 - 在拾取铁手套之前，可以在基座上放置一个等重的物品，从而绕过[察觉技能](Perception.md "Perception")和[缴械](Disarm.md "Disarm")检定来偷走这些铁手套，这类似于《夺宝奇兵》中的做法。
 - 根据D&D规则，此物品应命名为*霜巨人力量拳套*，因为[霜巨人](https://www.dndbeyond.com/monsters/16867-frost-giant)的力量值为23，而[山丘巨人](https://www.dndbeyond.com/monsters/16923-hill-giant)的力量值仅为21。当通过脚本生成时，这些铁手套被命名为*霜巨人力量拳套*。
 - 在完成任务[为赫尔希克取回铁手套](Acquire_the_Gauntlets_for_Helsik.md "Acquire the Gauntlets for Helsik")后，可以从[赫尔希克](Helsik.md "Helsik")那里[扒窃](Pickpocket.md "Pickpocket")这些铁手套。

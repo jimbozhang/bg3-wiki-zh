@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏方式获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**恶毒短剑**是[短剑](Shortswords.md "Shortswords")武器家族中一种非常稀有、中等附魔（+2）的变体。它是一种[军用近战武器](Weapons.md "Weapons")，可单手挥舞。作为[灵巧](Finesse.md "Finesse")武器，它能受益于持有者的敏捷值，而不仅仅是力量值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
+**恶毒短剑**是[短剑](Shortswords.md "Shortswords")武器家族中一种非常稀有、中等附魔（+2）的变体。它是一种[武器](Weapons.md "武器")，可单手挥舞。作为[灵巧](Finesse.md "Finesse")武器，它能受益于持有者的敏捷值，而不仅仅是力量值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
 
 尽管刻有纹饰，这把轻量剑却完美平衡——是一件无瑕的杀戮工具。
 

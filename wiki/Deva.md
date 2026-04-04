@@ -9,7 +9,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -61,11 +61,11 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -107,11 +107,11 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -135,7 +135,7 @@
 
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
@@ -179,7 +179,7 @@
 
 你的武器在攻击时吸收你的怒火，可能使目标[恐慌](Frightened_(Condition).md "恐慌 (状态)")。
 
-[感](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 
 ## 画廊

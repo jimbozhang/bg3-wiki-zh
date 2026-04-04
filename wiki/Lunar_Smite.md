@@ -1,6 +1,6 @@
 # 月光打击
 
-**月光打击**是一个[1级塑能学派法术](Spells.md "Spells")。它仅对[艾琳女士](Dame_Aylin.md "Dame_Aylin")和[月光碎片](Moonlight_Sliver.md "Moonlight_Sliver")可用，该法术在武器伤害基础上造成光耀伤害，并施加[圣火](Holy_Fire_(Condition).md "Holy Fire (Condition)")状态。玩家队伍成员无法学习此法术。
+**月光打击**是一个[法术](Spells.md "法术")。它仅对[艾琳女士](Dame_Aylin.md "Dame_Aylin")和[月光碎片](Moonlight_Sliver.md "Moonlight_Sliver")可用，该法术在武器伤害基础上造成光耀伤害，并施加[圣火](Holy_Fire_(Condition).md "Holy Fire (Condition)")状态。玩家队伍成员无法学习此法术。
 
 ## 描述
 

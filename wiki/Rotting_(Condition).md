@@ -22,7 +22,7 @@
 
 持续时间：25 [驱散](Turn.md "驱散")
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
 
 - 肉肉正在腐烂。
 - 使用魅力进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
@@ -31,7 +31,7 @@
 
 ## 备注
 
-- 可通过任何治愈[疾病](Diseased.md "患病")的效果提前结束，例如[恢复](Lesser_Restoration.md "恢复")、[圣疗](Lay_on_Hands.md "圣疗")或[活力药水](Potion_of_Vitality.md "活力药水")。
+- 可通过任何治愈[患病](Diseased.md "患病")的效果提前结束，例如[恢复](Lesser_Restoration.md "恢复")、[圣疗](Lay_on_Hands.md "圣疗")或[活力药水](Potion_of_Vitality.md "活力药水")。
 
 ## 腐烂的来源
 

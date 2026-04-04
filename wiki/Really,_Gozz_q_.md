@@ -24,7 +24,7 @@
 
 -第二稿-
 
-所有无面者都知道你赢得了 [奥林](Orin.md "奥林") 的 [好感度](Approval.md "好感度")，戈兹，而且管理 [疯狂的拉舍米人](Minsc.md "明斯克") 是一项重要任务，但你让整个“[贾希拉](Jaheira.md "贾希拉")”的伪装冲昏了你的头脑。甚至在石领主 [睡眠](Sleep.md "睡眠") 时你都没有卸下伪装！此外，无论模拟的老板与否，你在命令我们其他人时不必公然无礼。你的 [竖琴手](Harper.md "竖琴手") 工作不会永远持续下去，然后你将再次成为 [夏拉尔](https://forgottenrealms.fandom.com/wiki/Greater_doppelganger) 之一。我们宁愿成为你的 [朋友](Friends.md "朋友")。
+所有无面者都知道你赢得了 [奥林](Orin.md "奥林") 的 [好感度](Approval.md "好感度")，戈兹，而且管理 [明斯克](Minsc.md "明斯克") 是一项重要任务，但你让整个“[贾希拉](Jaheira.md "贾希拉")”的伪装冲昏了你的头脑。甚至在石领主 [睡眠](Sleep.md "睡眠") 时你都没有卸下伪装！此外，无论模拟的老板与否，你在命令我们其他人时不必公然无礼。你的 [竖琴手](Harper.md "竖琴手") 工作不会永远持续下去，然后你将再次成为 [夏拉尔](https://forgottenrealms.fandom.com/wiki/Greater_doppelganger) 之一。我们宁愿成为你的 [交友术](Friends.md "交友术")。
 
 - 瓦特
 

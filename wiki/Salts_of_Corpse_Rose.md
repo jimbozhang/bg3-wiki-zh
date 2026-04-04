@@ -1,6 +1,6 @@
 # 死尸玫瑰之盐
 
-**死尸玫瑰之盐**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[西索博得的特制穿肠散](Thisobald's_Brewed-Up_Bellyglummer.md "西索博得的特制穿肠散")。
+**死尸玫瑰之盐**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[西索博得的特制穿肠散](Thisobald's_Brewed-Up_Bellyglummer.md "西索博得的特制穿肠散")。
 
 这朵花从一具新近尸体的胸腔中摘下后，经过干燥并与稀有盐类混合，以增强其炼金属性。
 

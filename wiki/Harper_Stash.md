@@ -22,7 +22,7 @@
 
 ## 备注
 
-- 拆除并解锁此箱子需要通过 DC 20 的[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability check")。也可以对其施放[光亮术](Light.md "Light")来拆除。
+- 拆除并解锁此箱子需要通过 DC 20 的[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")。也可以对其施放[轻型](Light.md "轻型")来拆除。
 - 此箱子初始价值为 195 gp。移除物品后，其价值变为 1 gp。
 
 ---

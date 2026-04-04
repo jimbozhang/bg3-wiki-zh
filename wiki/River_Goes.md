@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：普通
 

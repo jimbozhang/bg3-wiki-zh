@@ -18,7 +18,7 @@
 >
 > „
 
-— [玩家](Custom.md "Custom")，在击败[耐色脑](Netherbrain.md "耐色脑")后于码头上说
+— [自定义](Custom.md "自定义")，在击败[耐色脑](Netherbrain.md "耐色脑")后于码头上说
 
 ## 外部链接
 

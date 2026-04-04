@@ -52,7 +52,7 @@
 解除你的荒野形态并变回原始形态。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-在荒野形态下消耗[法术位](Spells.md#Spell_slots "法术")以恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[生命值](Healing.md "治疗")。
+在荒野形态下消耗[法术位](Spells.md#Spell_slots "法术")以恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[治疗](Healing.md "治疗")。
 
 ## 荒野形态：獾的来源
 

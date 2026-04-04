@@ -15,7 +15,7 @@
 佩戴此物品获得：
 
 [华丽尖顶帽](Glorious_Pointy_Hat.md "华丽尖顶帽")
-你获得等于你[智力](Intelligence.md "智力")调整值的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")加成。
+你获得等于你[智力](Intelligence.md "智力")调整值的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")加成。
 
 ## 获取地点
 

@@ -6,9 +6,9 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-- [3 任务奖励](#quest-rewards)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+- [3 任务奖励](#任务奖励)
 
 ## 目标
 
@@ -22,7 +22,7 @@
 与半精灵交谈。
 
 - **如果玩家角色使用了诡异符文：** *“我们用诡异符文打开了贮囊，释放了俘虏。我们应该和她谈谈。”*
-- **如果玩家角色以[野蛮人](Barbarian.md "Barbarian")身份通过了[力量](Strength.md "Strength")[检定](Ability_Check.md "Ability check")：** *“我们用蛮力强行打开了贮囊，释放了俘虏。我们应该和她谈谈。”*
+- **如果玩家角色以[野蛮人](Barbarian.md "Barbarian")身份通过了[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")：** *“我们用蛮力强行打开了贮囊，释放了俘虏。我们应该和她谈谈。”*
 
 任务完成！
 
@@ -58,7 +58,7 @@
 
 打开贮囊后，队伍可以招募影心或忽略她。
 
-如果玩家角色在使用诡异符文打开贮囊时未能通过难度等级 2 的[感知](Wisdom.md "Wisdom")[检定](Ability_Check.md "Ability check")，可以尝试让[莱埃泽尔](Lae'zel.md "Lae'zel")再次尝试。如果两个角色都未能通过检定，影心仍被困在贮囊中，但可以在[序幕](Prologue.md "Prologue")之后的[第一幕](Act_One.md "Act One")中找到她。
+如果玩家角色在使用诡异符文打开贮囊时未能通过难度等级 2 的[感知](Wisdom.md "Wisdom")[属性检定](Ability_Check.md "属性检定")，可以尝试让[莱埃泽尔](Lae'zel.md "Lae'zel")再次尝试。如果两个角色都未能通过检定，影心仍被困在贮囊中，但可以在[序幕](Prologue.md "Prologue")之后的[第一幕](Act_One.md "Act One")中找到她。
 
 ## 任务奖励
 

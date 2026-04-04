@@ -1,10 +1,10 @@
 # 不谐低语
 
-**不谐低语**是一个[1环惑控学派法术](Spells.md "Spells")。它允许施法者让目标充满恐惧，并对其造成[心灵](Psychic.md "Psychic")伤害。
+**不谐低语**是一个[法术](Spells.md "法术")。它允许施法者让目标充满恐惧，并对其造成[心灵](Psychic.md "Psychic")伤害。
 
 ## 描述
 
-[恐慌](Frightened_(Condition).md "Frightened (Condition)")一个生物：该生物将在[检定](Ability_Check.md "Ability Check")和[攻击掷骰](Attack_roll.md "Attack Roll")上获得[劣势](Disadvantage.md "Disadvantage")，并且无法移动。
+[恐慌](Frightened_(Condition).md "Frightened (Condition)")一个生物：该生物将在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "Attack Roll")上获得[劣势](Disadvantage.md "Disadvantage")，并且无法移动。
 
 ## 属性
 
@@ -38,7 +38,7 @@ UID
 
 持续时间：2回合
 
-- 受影响的生物无法移动。恐慌生物在[检定](Ability_Check.md "Ability Check")和[攻击掷骰](Attack_roll.md "Attack Roll")上也会获得[劣势](Disadvantage.md "Disadvantage")。
+- 受影响的生物无法移动。恐慌生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "Attack Roll")上也会获得[劣势](Disadvantage.md "Disadvantage")。
 
 ## 如何习得
 

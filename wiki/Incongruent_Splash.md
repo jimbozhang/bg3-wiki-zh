@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏流程获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**不协飞溅**是一个[等级 1 塑能学派法术](Spells.md "Spells")。它允许使用者施放一个独特版本的[燃烧之手](Burning_Hands.md "Burning Hands")，并在每场战斗中一次性地施加持续 3 驱散的濡湿状态。
+**不协飞溅**是一个[法术](Spells.md "法术")。它允许使用者施放一个独特版本的[燃烧之手](Burning_Hands.md "Burning Hands")，并在每场战斗中一次性地施加持续 3 驱散的濡湿状态。
 
 ## 描述
 

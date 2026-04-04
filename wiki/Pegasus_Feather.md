@@ -1,6 +1,6 @@
 # 天马羽毛
 
-**天马羽毛**是一种[炼金术材料](Alchemy.md "炼金术")。将3个天马羽毛组合可制成[飞马羽升华物](Sublimate_of_Pegasus_Feathers.md "飞马羽升华物")，用于制作[英勇灵药](Elixir_of_Heroism.md "英勇灵药")。
+**天马羽毛**是一种[炼金术](Alchemy.md "炼金术")。将3个天马羽毛组合可制成[飞马羽升华物](Sublimate_of_Pegasus_Feathers.md "飞马羽升华物")，用于制作[英勇灵药](Elixir_of_Heroism.md "英勇灵药")。
 
 这根羽毛会让最柔软的鸭绒摸起来像刺猬的羽毛笔。
 

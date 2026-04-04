@@ -63,19 +63,19 @@
 
 - [**动物活力**](Animalistic_Vitality_(Condition).md "动物活力 (状态)")
 
-  - 当生命值低于60时，受影响实体每回合恢复2d8⁠⁠[生命值](Healing.md "治疗")。它还会获得额外的3.5米（12英尺）移动速度。_\[[参见：错误](Animalistic_Vitality_(Condition).md#Bugs).md#Bugs> "动物活力 (状态)")\]_
+  - 当生命值低于60时，受影响实体每回合恢复2d8⁠⁠[治疗](Healing.md "治疗")。它还会获得额外的3.5米（12英尺）移动速度。_\[[参见：错误](Animalistic_Vitality_(Condition).md#Bugs).md#Bugs> "动物活力 (状态)")\]_
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**猫之轻落**](Feline_Fall.md "猫之轻落")
+- [猫之轻落](Feline_Fall.md "猫之轻落")
 
 由于天生的猫科动物优雅，猫对[抗性](Resistant.md "抗性")具有抗性。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

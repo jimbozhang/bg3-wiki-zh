@@ -58,11 +58,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深入骨髓。
 
@@ -102,11 +102,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深入骨髓。
 
@@ -146,22 +146,22 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深入骨髓。
 
-**吉斯洋基吉斯拉（近战）**是贯穿_[博德之门3](Baldur's_Gate_3.md "博德之门3")_的[类职业](Class.md "类职业")[吉斯洋基人](Githyanki.md "吉斯洋基人")[NPC](NPC.md "NPC")原型，基于以[敏捷](Dexterity.md "敏捷")为基础的[散打宗](Way_of_the_Open_Hand.md "散打宗")[武僧](Monk.md "武僧")。
+**吉斯洋基吉斯拉（近战）**是贯穿_[博德之门3](Baldur's_Gate_3.md "博德之门3")_的[职业](Class.md "职业")[吉斯洋基人](Githyanki.md "吉斯洋基人")[NPC](NPC.md "NPC")原型，基于以[敏捷](Dexterity.md "敏捷")为基础的[散打宗](Way_of_the_Open_Hand.md "散打宗")[武僧](Monk.md "武僧")。
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 命名近战吉斯拉](#named-melee-gish'ra)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 命名近战吉斯拉](#命名近战吉斯拉)
 
 ## 出场
 
@@ -181,7 +181,7 @@
 
 快速连续出拳两次，并有可能使目标[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 m (5 ft)
 
 [飞檐走壁：疾走](Step_of_the_Wind_colon__Dash.md "飞檐走壁：疾走") (+ )

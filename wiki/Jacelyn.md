@@ -81,19 +81,19 @@
 
 ## 特性
 
-- [**民兵**](Civil_Militia.md "民兵")
+- [民兵](Civil_Militia.md "民兵")
 
 对[短矛](Spears.md "短矛")、[长矛](Pikes.md "长矛")、[长戟](Halberds.md "长戟")、[长柄刀](Glaives.md "长柄刀")、[轻甲](Light_Armour.md "轻甲")和[盾牌](Shields.md "盾牌")拥有[熟练项](Proficiency.md "熟练项")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -141,10 +141,10 @@ UUID
 
 ## 目录
 
-- [1 背景故事](#backstory)
-- [2 成就](#achievements)
-- [3 注释](#notes)
-- [4 外部链接](#external-links)
+- [1 背景故事](#背景故事)
+- [2 成就](#成就)
+- [3 注释](#注释)
+- [4 外部链接](#外部链接)
 
 ## 背景故事
 

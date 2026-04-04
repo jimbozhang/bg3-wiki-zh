@@ -90,15 +90,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -148,15 +148,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -206,15 +206,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -244,10 +244,10 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 闲聊](#idle-banter)
-- [3 错误](#bugs)
+- [1 参与情况](#参与情况)
+  - [1.1 第二幕](#第二幕)
+- [2 闲聊](#闲聊)
+- [3 错误](#错误)
 
 ## 参与情况
 

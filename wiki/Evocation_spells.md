@@ -6,11 +6,11 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 通过职业或卷轴获得的塑能法术列表](#list-of-evocation-spells-granted-by-class-or-through-scrolls)
-- [3 通过物品获得的塑能法术列表](#list-of-evocation-spells-granted-by-items)
-- [4 仅限NPC使用的塑能法术列表](#list-of-evocation-spells-available-only-to-npcs)
-- [5 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 通过职业或卷轴获得的塑能法术列表](#通过职业或卷轴获得的塑能法术列表)
+- [3 通过物品获得的塑能法术列表](#通过物品获得的塑能法术列表)
+- [4 仅限NPC使用的塑能法术列表](#仅限NPC使用的塑能法术列表)
+- [5 外部链接](#外部链接)
 
 ## 概述
 
@@ -26,7 +26,7 @@
 | [舞光术](Dancing_Lights.md "舞光术") | C |  |  | 10 驱散 | 18 米 / 60尺 / 9米 / 30尺 (半径) | - | - |
 | [魔能爆](Eldritch_Blast.md "魔能爆") | C |  |  | - | 18 米 / 60 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d10⁠[力场](Force.md "力场") |
 | [火焰箭](Fire_Bolt.md "火焰箭") | C |  |  | - | 18 米 / 60尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d10⁠[火焰](Fire.md "火焰") |
-| [光亮术](Light.md "光亮术") | C |  |  | 长休 | 1.5 米 / 5 尺 | - | - |
+| [轻型](Light.md "轻型") | C |  |  | 长休 | 1.5 米 / 5 尺 | - | - |
 | [冷冻射线](Ray_of_Frost.md "冷冻射线") | C |  |  | 1 驱散 | 18 米 / 60尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8⁠[寒冷](Cold.md "寒冷") |
 | [圣火术](Sacred_Flame.md "圣火术") | C |  |  | - | 18 米 / 60尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 1d8⁠[光耀](Radiant.md "光耀") |
 | [电爪](Shocking_Grasp.md "电爪") | C |  |  | 1 驱散 | 1.5 米 / 5 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8⁠[闪电](Lightning.md "闪电") |
@@ -57,7 +57,7 @@
 | [致盲斩](Blinding_Smite.md "致盲斩") | 3 |  |  | 10 驱散 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 普通武器伤害 / 3d8⁠[光耀](Radiant.md "光耀") |
 | [十字军披风](Crusader's_Mantle.md "十字军披风") | 3 |  |  | 10 驱散 | 自身 / 9米 / 30尺 (半径) | - | 1d4⁠[光耀](Radiant.md "光耀") |
 | [昼明术](Daylight.md "昼明术") | 3 |  |  | 长休 | 18 米 / 60 尺 | - | - |
-| [火球术术](Fireball.md "火球术术") | 3 |  |  | - | 18 米 / 60尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
+| [火球术](Fireball.md "火球术") | 3 |  |  | - | 18 米 / 60尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
 | [闪电束](Lightning_Bolt.md "闪电束") | 3 |  |  | - | 自身 / 30米 / 100尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d6⁠[闪电](Lightning.md "闪电") |
 | [群体治愈真言](Mass_Healing_Word.md "群体治愈真言") | 3 |  |  | - | 自身 / 18米 / 60尺 (半径) | - | 1d4 + [施法调整值](Spells#Spellcasting_ability.md#Spellcasting_ability "法术")⁠[治疗](Healing.md "治疗") |
 | [活力监守](Warden_of_Vitality.md "活力监守") | 3 |  |  | 10 驱散 | 自身 | - | - |
@@ -151,7 +151,7 @@
 | [塞伦涅的怒火](Selûne's_Ire_(spell).md "塞伦涅的怒火 (法术)") | 5 |  |  | - | 18 米 / 60 尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 12d12⁠[光耀](Radiant.md "光耀") |
 | [恶魔锁链](Diabolic_Chains.md "恶魔锁链") | 6 |  |  | - | 18 米 / 60尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 6d6⁠[火焰](Fire.md "火焰") / 6d6⁠[火焰](Fire.md "火焰") / 6d6⁠[火焰](Fire.md "火焰") |
 | [阿弗纳斯之焰](Flames_of_Avernus_(spell).md "阿弗纳斯之焰 (法术)") | 6 |  |  | - | 自身 / 5米 / 17尺 (锥形) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 6d6⁠[火焰](Fire.md "火焰") |
-| [地狱火球术](Hellfire_Orb.md "地狱火球术") | 6 |  |  | - | 18 米 / 60尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 20d6⁠[火焰](Fire.md "火焰") |
+| [地狱火球](Hellfire_Orb.md "地狱火球") | 6 |  |  | - | 18 米 / 60尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 20d6⁠[火焰](Fire.md "火焰") |
 | [焚烧](Incinerate.md "焚烧") | 6 |  |  | - | 3米 / 10尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d8⁠[火焰](Fire.md "火焰") |
 | [地狱抚慰](Infernal_Salve.md "地狱抚慰") | 6 |  |  | - | 18 米 / 60尺 | - | 3d6⁠[治疗](Healing.md "治疗") |
 | [卡瑟利之握](Karsite_Grip.md "卡瑟利之握") | 6 |  |  | 1 驱散 | 60 米 / 200尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d8⁠[力场](Force.md "力场") |

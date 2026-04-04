@@ -17,19 +17,19 @@ Modding指南
 
 ## 目录
 
-- [1 护甲/服装纹理贴图（基础）](#armor/Clothing_Texture_Maps_(Basic))
-  - [1.1 基础贴图 - BM](#base-map--_BM)
-  - [1.2 物理贴图 - PM](#physical-map--_PM)
-  - [1.3 法线贴图 - NM](#normal-map--_NM)
-  - [1.4 颜色贴图 - MSKColor/MSKcloth](#color-map--_MSKColor/MSKcloth)
-- [2 MSKColor/MSKcloth内的参数和对应颜色](#parameters-and-corresponding-colours-inside-mskcolor/MSKcloth)
-- [3 护甲/服装纹理贴图（高级）](#armor/Clothing_Texture_Maps_(Advanced))
-  - [3.1 着色器（配置）](#shader-(Configs))
-  - [3.2 发光贴图](#glow-maps)
-  - [3.3 Alpha（即透明度）](#alpha-(aka_Transparancy))
-  - [3.4 背面（双面纹理）](#backfaces-(Two-sided_textures))
-  - [3.5 VertCut](#vertcut)
-  - [3.6 如果我想同时使用x和x怎么办？](#what-if-i-want-to-use-x-and-x?)
+- [1 护甲/服装纹理贴图（基础）](#护甲-服装纹理贴图基础))
+  - [1.1 基础贴图 - BM](#基础贴图---BM)
+  - [1.2 物理贴图 - PM](#物理贴图---PM)
+  - [1.3 法线贴图 - NM](#法线贴图---NM)
+  - [1.4 颜色贴图 - MSKColor/MSKcloth](#颜色贴图---MSKColor-MSKcloth)
+- [2 MSKColor/MSKcloth内的参数和对应颜色](#MSKColor-MSKcloth内的参数和对应颜色)
+- [3 护甲/服装纹理贴图（高级）](#护甲-服装纹理贴图高级))
+  - [3.1 着色器（配置）](#着色器配置))
+  - [3.2 发光贴图](#发光贴图)
+  - [3.3 Alpha（即透明度）](#Alpha即透明度))
+  - [3.4 背面（双面纹理）](#背面双面纹理))
+  - [3.5 VertCut](#VertCut)
+  - [3.6 如果我想同时使用x和x怎么办？](#如果我想同时使用x和x怎么办？)
 
 ## 护甲/服装纹理贴图（基础）
 

@@ -69,21 +69,21 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**芳香之血**](Scenting_Blood.md "芳香之血")
+- [芳香之血](Scenting_Blood.md "芳香之血")
 
 如果沙华鱼人看到受伤的生物，它会进入[鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)")。
 
 - [**神射手：孤注一掷**](Sharpshooter_colon__All_In.md "神射手：孤注一掷")
 
-使用你[熟练](Proficiency.md "熟练项")的武器进行的远程武器攻击，其[攻击掷骰](Attack_roll.md "攻击掷骰")有 -5 惩罚，但造成额外 10 点伤害。
+使用你[熟练项](Proficiency.md "熟练项")的武器进行的远程武器攻击，其[攻击掷骰](Attack_roll.md "攻击掷骰")有 -5 惩罚，但造成额外 10 点伤害。
 
 - [**神射手：低地**](Sharpshooter_colon__Low_Ground.md "神射手：低地")
 
@@ -133,21 +133,21 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**芳香之血**](Scenting_Blood.md "芳香之血")
+- [芳香之血](Scenting_Blood.md "芳香之血")
 
 如果沙华鱼人看到受伤的生物，它会进入[鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)")。
 
 - [**神射手：孤注一掷**](Sharpshooter_colon__All_In.md "神射手：孤注一掷")
 
-使用你[熟练](Proficiency.md "熟练项")的武器进行的远程武器攻击，其[攻击掷骰](Attack_roll.md "攻击掷骰")有 -5 惩罚，但造成额外 10 点伤害。
+使用你[熟练项](Proficiency.md "熟练项")的武器进行的远程武器攻击，其[攻击掷骰](Attack_roll.md "攻击掷骰")有 -5 惩罚，但造成额外 10 点伤害。
 
 - [**神射手：低地**](Sharpshooter_colon__Low_Ground.md "神射手：低地")
 
@@ -197,21 +197,21 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**芳香之血**](Scenting_Blood.md "芳香之血")
+- [芳香之血](Scenting_Blood.md "芳香之血")
 
 如果沙华鱼人看到受伤的生物，它会进入[鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)")。
 
 - [**神射手：孤注一掷**](Sharpshooter_colon__All_In.md "神射手：孤注一掷")
 
-使用你[熟练](Proficiency.md "熟练项")的武器进行的远程武器攻击，其[攻击掷骰](Attack_roll.md "攻击掷骰")有 -5 惩罚，但造成额外 10 点伤害。
+使用你[熟练项](Proficiency.md "熟练项")的武器进行的远程武器攻击，其[攻击掷骰](Attack_roll.md "攻击掷骰")有 -5 惩罚，但造成额外 10 点伤害。
 
 - [**神射手：低地**](Sharpshooter_colon__Low_Ground.md "神射手：低地")
 

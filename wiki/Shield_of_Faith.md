@@ -1,6 +1,6 @@
 # 虔诚护盾
 
-**虔诚护盾** 是一个 [1级防护学派法术](Spells.md "Spells")。它允许施法者用神圣的保护环绕自己或一名盟友，并获得 [护甲等级](Armour_Class.md "Armour Class") 加值。
+**虔诚护盾** 是一个 [法术](Spells.md "法术")。它允许施法者用神圣的保护环绕自己或一名盟友，并获得 [护甲等级](Armour_Class.md "Armour Class") 加值。
 
 ## 描述
 

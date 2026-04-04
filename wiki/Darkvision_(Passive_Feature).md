@@ -23,7 +23,7 @@
 ## 备注
 
 - 黑暗视觉的实际距离通常取决于拥有此特性的生物。上述数值是可玩种族的默认值。
-- 当一个[隐藏](Hide.md "隐藏")的生物进入拥有黑暗视觉的生物的视线，并且在黑暗视觉范围内时：
+- 当一个[躲藏](Hide.md "躲藏")的生物进入拥有黑暗视觉的生物的视线，并且在黑暗视觉范围内时：
 - 处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")时，将被视为处于[清晰区域](Clear_Area_(Condition).md "清晰区域（状态）")。
 - 处于[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")时，将被视为处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")。
 - 这同样适用于[高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")，只是范围更长。

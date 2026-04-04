@@ -145,10 +145,10 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 伙伴好感度](#companion-approval)
-- [3 画廊](#gallery)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 画廊](#画廊)
 
 ## 出场
 
@@ -164,7 +164,7 @@
 
 如果玩家角色是[邪念](Dark_Urge.md "邪念")，他们有一个独特的对话选项可以撕掉鸟的翅膀。如果尚未获得，这会授予他们[放纵你的欲望](Haunted_One.md#Indulge_Thine_Appetites "邪念缠身")。
 
-伤害（从而杀死）这只鸟对于[任何誓言副职的圣武士](Paladin.md "圣武士")而言，被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
+伤害（从而杀死）这只鸟对于[圣武士](Paladin.md "圣武士")而言，被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
 
 ## 伙伴好感度
 

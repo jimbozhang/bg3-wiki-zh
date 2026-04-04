@@ -97,31 +97,31 @@
 
 ## 特性
 
-- [**额外法术位**](Additional_Spell_Slot.md "额外法术位")
+- [额外法术位](Additional_Spell_Slot.md "额外法术位")
 
 你获得 1 个[1 级法术位](Spells.md#Spell_slots "法术")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**眩晕斩**](Dazing_Smite.md "眩晕斩")
+- [眩晕斩](Dazing_Smite.md "眩晕斩")
 
 在一次命中并灌注了你的[至圣斩](Divine_Smite.md "至圣斩")的攻击中，目标必须通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-- [**恐惧砍伐者**](Dreadful_Hewer.md "恐惧砍伐者")
+- [恐惧砍伐者](Dreadful_Hewer.md "恐惧砍伐者")
 
 你的敌人在抵抗你的法术或造成[恐惧](Frightened_(Condition).md "恐慌 (状态)")的动作时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -129,7 +129,7 @@
 
 招架下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
 
-- [**幽魂之怒**](Revenant's_Ire.md "幽魂之怒")
+- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
 
 此亵渎实体的武器攻击造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
@@ -137,9 +137,9 @@
 
 当近战攻击未命中你时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**盾牌猛击**](Shield_Bash.md "盾牌猛击")
+- [盾牌猛击](Shield_Bash.md "盾牌猛击")
 
-当被近战攻击命中时，可使用[反应](Reaction_(Resource).md) 将攻击者击至[倒伏](Prone_(Condition).md)，除非他们通过[敏捷](DEX.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")。
+当被近战攻击命中时，可使用[反应](Reaction_(Resource).md) 将攻击者击至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 探索者难度属性
 
@@ -207,31 +207,31 @@
 
 ## 特性
 
-- [**额外法术位**](Additional_Spell_Slot.md "额外法术位")
+- [额外法术位](Additional_Spell_Slot.md "额外法术位")
 
 你获得 1 个[1 级法术位](Spells.md#Spell_slots "法术")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**眩晕斩**](Dazing_Smite.md "眩晕斩")
+- [眩晕斩](Dazing_Smite.md "眩晕斩")
 
 在一次命中并灌注了你的[至圣斩](Divine_Smite.md "至圣斩")的攻击中，目标必须通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-- [**恐惧砍伐者**](Dreadful_Hewer.md "恐惧砍伐者")
+- [恐惧砍伐者](Dreadful_Hewer.md "恐惧砍伐者")
 
 你的敌人在抵抗你的法术或造成[恐惧](Frightened_(Condition).md "恐慌 (状态)")的动作时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -239,7 +239,7 @@
 
 招架下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
 
-- [**幽魂之怒**](Revenant's_Ire.md "幽魂之怒")
+- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
 
 此亵渎实体的武器攻击造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
@@ -247,9 +247,9 @@
 
 当近战攻击未命中你时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**盾牌猛击**](Shield_Bash.md "盾牌猛击")
+- [盾牌猛击](Shield_Bash.md "盾牌猛击")
 
-当被近战攻击命中时，可使用[反应](Reaction_(Resource).md) 将攻击者击至[倒伏](Prone_(Condition).md)，除非他们通过[敏捷](DEX.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")。
+当被近战攻击命中时，可使用[反应](Reaction_(Resource).md) 将攻击者击至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 硬核难度属性
 
@@ -317,31 +317,31 @@
 
 ## 特性
 
-- [**额外法术位**](Additional_Spell_Slot.md "额外法术位")
+- [额外法术位](Additional_Spell_Slot.md "额外法术位")
 
 你获得 1 个[1 级法术位](Spells.md#Spell_slots "法术")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**眩晕斩**](Dazing_Smite.md "眩晕斩")
+- [眩晕斩](Dazing_Smite.md "眩晕斩")
 
 在一次命中并灌注了你的[至圣斩](Divine_Smite.md "至圣斩")的攻击中，目标必须通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-- [**恐惧砍伐者**](Dreadful_Hewer.md "恐惧砍伐者")
+- [恐惧砍伐者](Dreadful_Hewer.md "恐惧砍伐者")
 
 你的敌人在抵抗你的法术或造成[恐惧](Frightened_(Condition).md "恐慌 (状态)")的动作时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -349,7 +349,7 @@
 
 招架下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
 
-- [**幽魂之怒**](Revenant's_Ire.md "幽魂之怒")
+- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
 
 此亵渎实体的武器攻击造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
@@ -357,9 +357,9 @@
 
 当近战攻击未命中你时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**盾牌猛击**](Shield_Bash.md "盾牌猛击")
+- [盾牌猛击](Shield_Bash.md "盾牌猛击")
 
-当被近战攻击命中时，可使用[反应](Reaction_(Resource).md) 将攻击者击至[倒伏](Prone_(Condition).md)，除非他们通过[敏捷](DEX.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")。
+当被近战攻击命中时，可使用[反应](Reaction_(Resource).md) 将攻击者击至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 技术
 
@@ -388,11 +388,11 @@ UUID
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 值得一提的战利品](#notable-loot)
-- [2 画廊](#gallery)
-- [3 外部链接](#external-links)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 值得一提的战利品](#值得一提的战利品)
+- [2 画廊](#画廊)
+- [3 外部链接](#外部链接)
 
 ## 战斗
 
@@ -404,7 +404,7 @@ UUID
 [感知](Wisdom.md "感知")[豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 
-[地狱火球术](Hellfire_Orb.md "地狱火球术") ()
+[地狱火球](Hellfire_Orb.md "地狱火球") ()
 
 伤害：20~120
 

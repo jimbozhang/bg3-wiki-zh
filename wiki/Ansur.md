@@ -29,7 +29,7 @@
 
 ### 类型
 
-[不死生物](Undead_Dragon.md "不死龙") [青铜龙](List_of_creature_types.md#Dragon "生物类型列表")
+[不死龙](Undead_Dragon.md "不死龙") [青铜龙](List_of_creature_types.md#Dragon "生物类型列表")
 
 ### 种族
 
@@ -145,14 +145,14 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 遭遇安苏](#meeting-ansur)
-  - [1.2 战斗之后](#after-the-battle)
-- [2 战斗](#combat)
-- [3 重要战利品](#notable-loot)
-- [4 相关文献](#related-literature)
-- [5 相关任务](#related-quests)
-- [6 画廊](#gallery)
+- [1 出场](#出场)
+  - [1.1 遭遇安苏](#遭遇安苏)
+  - [1.2 战斗之后](#战斗之后)
+- [2 战斗](#战斗)
+- [3 重要战利品](#重要战利品)
+- [4 相关文献](#相关文献)
+- [5 相关任务](#相关任务)
+- [6 画廊](#画廊)
 
 ## 出场
 

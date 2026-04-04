@@ -35,7 +35,7 @@
 
 ## 错误
 
-- 当装备两把 [手弩](Hand_Crossbows.md "手弩") 并启用 [双持](Dual_Wielder.md "双持客") 切换时，此攻击会消耗一个 [动作](Actions.md#Resources "动作") 和一个 [附赠动作](Actions.md#Resources "动作")，但副手攻击不会发生。
+- 当装备两把 [手弩](Hand_Crossbows.md "手弩") 并启用 [双持客](Dual_Wielder.md "双持客") 切换时，此攻击会消耗一个 [动作](Actions.md#Resources "动作") 和一个 [附赠动作](Actions.md#Resources "动作")，但副手攻击不会发生。
 - 此攻击错误地标记了穿刺 `DamageType` 标志，而非黯蚀，这意味着它不会触发某些检查黯蚀伤害的效果，例如 [邪恶真菌](Malefic_Funghi.md "邪恶真菌")。
 - 一个隐藏的技术条件（负责对击中目标应用视觉效果）会触发 [喧嚣风暴之靴](Boots_of_Stormy_Clamour.md "喧嚣风暴之靴")、[寒意之帽](Coldbrim_Hat.md "寒意之帽") 和 [奥术协同王冠](Diadem_of_Arcane_Synergy.md "奥术协同王冠") 的被动效果。
 

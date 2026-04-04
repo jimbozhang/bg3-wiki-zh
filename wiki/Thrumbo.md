@@ -76,7 +76,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 10 / (0) | 16 / (+3) | 3 / (-4) | 6 / (-2) | 5 / (-3) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -90,15 +90,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以 1 点生命值复活。
 
@@ -144,7 +144,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +4 | 0 | +3 | -4 | 0 | -3 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -158,15 +158,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以 1 点生命值复活。
 
@@ -212,7 +212,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 10 / (0) | 16 / (+3) | 3 / (-4) | 6 / (-2) | 5 / (-3) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -226,15 +226,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以 1 点生命值复活。
 
@@ -256,10 +256,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 击败秘术师卡里翁](#defeat-mystic-carrion)
-- [2 重要战利品](#notable-loot)
-- [3 相关文献](#related-literature)
+- [1 出场](#出场)
+  - [1.1 击败秘术师卡里翁](#击败秘术师卡里翁)
+- [2 重要战利品](#重要战利品)
+- [3 相关文献](#相关文献)
 
 ## 出场
 

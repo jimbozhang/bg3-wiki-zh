@@ -98,19 +98,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**精灵武器训练**](Elven_Weapon_Training.md "精灵武器训练")
+- [精灵武器训练](Elven_Weapon_Training.md "精灵武器训练")
 
 你对[长剑](Longswords.md "长剑")、[短剑](Shortswords.md "短剑")、[长弓](Longbows.md "长弓")和[短弓](Shortbows.md "短弓")拥有[熟练项](Proficiency.md "熟练项")。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且魔法无法使你[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -142,7 +142,7 @@ UUID
 
 属性
 
-`DEN_Archdruid_Boss` **哈尔辛**是一位可招募的[伙伴](Companion.md "伙伴"), 可被任何性别的角色[追求](Romance.md "追求"). 他是一位[木精灵](Elf.md "精灵")和[月亮结社](Circle_of_the_Moon.md "月亮结社")[德鲁伊](Druid.md "德鲁伊"), 拥有[化外之民](Outlander.md "化外之民")背景. 哈尔辛可以在[第一幕](Act_One.md "第一幕")期间在[破碎圣所](Shattered_Sanctum.md "破碎圣所")首次找到, 作为[随从](Attached_Followers.md "随从")或[营地随从](Camp_Followers.md "营地随从").
+`DEN_Archdruid_Boss` **哈尔辛**是一位可招募的[伙伴](Companion.md "伙伴"), 可被任何性别的角色[追求](Romance.md "追求"). 他是一位[精灵](Elf.md "精灵")和[月亮结社](Circle_of_the_Moon.md "月亮结社")[德鲁伊](Druid.md "德鲁伊"), 拥有[化外之民](Outlander.md "化外之民")背景. 哈尔辛可以在[第一幕](Act_One.md "第一幕")期间在[破碎圣所](Shattered_Sanctum.md "破碎圣所")首次找到, 作为[随从](Attached_Followers.md "随从")或[营地随从](Camp_Followers.md "营地随从").
 
 作为[翠绿林地](Emerald_Grove.md "翠绿林地")的首席德鲁伊, 哈尔辛最近辞职, 他寻求在自然与文明之间创造完美的平衡, 并找到困扰他家园一个世纪的[幽影诅咒](Shadow_Curse.md "幽影诅咒")的解药.
 
@@ -158,36 +158,36 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-  - [1.2 初始职业](#starting-class)
-  - [1.3 个人任务](#personal-quest)
-  - [1.4 招募](#recruitment)
-  - [1.5 好感度](#approval)
-  - [1.6 追求](#romance)
-- [2 描述](#description)
-  - [2.1 外观](#appearance)
-  - [2.2 性格](#personality)
-- [3 历史](#history)
-- [4 游戏玩法](#gameplay)
-  - [4.1 熟练技能](#skills-with-proficiency)
-  - [4.2 临时伙伴能力](#temporary-companion-abilities)
-  - [4.3 永久伙伴能力](#permanent-companion-abilities)
-- [5 参与度](#involvement)
-  - [5.1 第一幕](#act-one)
-  - [5.2 第二幕](#act-two)
-  - [5.3 第三幕](#act-three)
-  - [5.4 结局](#endings)
-    - [5.4.1 独自面对幽影诅咒](#alone-with-the-shadow-curse)
-    - [5.4.2 作为新父亲的生活](#life-as-a-new-father)
-- [6 死者交谈](#speak-with-dead)
-- [7 相关文献](#related-literature)
-- [8 相关任务](#related-quests)
-- [9 战利品](#loot)
-  - [9.1 初始装备](#starting-equipment)
-- [10 画廊](#gallery)
-- [11 注释](#notes)
-- [12 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+  - [1.2 初始职业](#初始职业)
+  - [1.3 个人任务](#个人任务)
+  - [1.4 招募](#招募)
+  - [1.5 好感度](#好感度)
+  - [1.6 追求](#追求)
+- [2 描述](#描述)
+  - [2.1 外观](#外观)
+  - [2.2 性格](#性格)
+- [3 历史](#历史)
+- [4 游戏玩法](#游戏玩法)
+  - [4.1 熟练技能](#熟练技能)
+  - [4.2 临时伙伴能力](#临时伙伴能力)
+  - [4.3 永久伙伴能力](#永久伙伴能力)
+- [5 参与度](#参与度)
+  - [5.1 第一幕](#第一幕)
+  - [5.2 第二幕](#第二幕)
+  - [5.3 第三幕](#第三幕)
+  - [5.4 结局](#结局)
+    - [5.4.1 独自面对幽影诅咒](#独自面对幽影诅咒)
+    - [5.4.2 作为新父亲的生活](#作为新父亲的生活)
+- [6 死者交谈](#死者交谈)
+- [7 相关文献](#相关文献)
+- [8 相关任务](#相关任务)
+- [9 战利品](#战利品)
+  - [9.1 初始装备](#初始装备)
+- [10 画廊](#画廊)
+- [11 注释](#注释)
+- [12 外部链接](#外部链接)
 
 ## 概述
 
@@ -211,7 +211,7 @@ UUID
 
 哈尔辛好感度
 
-主文章: [哈尔辛/好感度](Halsin/Approval.md "哈尔辛/好感度")
+主文章: [好感度](Halsin/Approval.md "好感度")
 
 哈尔辛只有在作为正式伙伴加入队伍后才会获得或失去好感度。他喜欢善良的人，尤其是对动物或儿童友善的人，不喜欢任何涉及伤害自然世界或支持腐败和残忍的决定。
 
@@ -283,25 +283,25 @@ UUID
 
 ### 第一幕
 
-哈尔辛加入了[艾拉丁](Aradin_Beno.md "艾拉丁·贝诺")寻找[暗夜之歌](Aylin.md "艾琳")的不幸远征，希望能找到前往[月出之塔](Moonrise_Towers.md "月出之塔")和[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")的方法。然而，他被俘虏了，可以被队伍[拯救](Save_the_First_Druid.md "解救首席德鲁伊")；他被囚禁在[破碎圣所](Shattered_Sanctum.md "破碎圣所")的[座狼兽栏](Worg_Pens.md "座狼兽栏")内，并受到附近地精的骚扰，当他在[荒野形态：熊](Wild_Shape_colon__Bear.md "荒野形态：熊")时，地精向他扔石头。
+哈尔辛加入了[艾拉丁](Aradin_Beno.md "艾拉丁·贝诺")寻找[暗夜之歌](Aylin.md "艾琳")的不幸远征，希望能找到前往[月出之塔](Moonrise_Towers.md "月出之塔")和[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")的方法。然而，他被俘虏了，可以被队伍[解救首席德鲁伊](Save_the_First_Druid.md "解救首席德鲁伊")；他被囚禁在[破碎圣所](Shattered_Sanctum.md "破碎圣所")的[座狼兽栏](Worg_Pens.md "座狼兽栏")内，并受到附近地精的骚扰，当他在[荒野形态：熊](Wild_Shape_colon__Bear.md "荒野形态：熊")时，地精向他扔石头。
 
-如果队伍释放他，哈尔辛会主动帮助寻找他们寄生虫问题的解药，但首先要求他们[击败地精首领](Defeat_the_Goblins.md "击败地精")以保护林地。虽然他此时可以作为临时伙伴加入队伍，但他会立即攻击其余的地精，因此如果希望谨慎行事，可以要求他在座狼兽栏等待。如果队伍在首次进入座狼兽栏之前就杀死了地精首领，哈尔辛可能会自己挣脱并返回翠绿林地。
+如果队伍释放他，哈尔辛会主动帮助寻找他们寄生虫问题的解药，但首先要求他们[击败地精](Defeat_the_Goblins.md "击败地精")以保护林地。虽然他此时可以作为临时伙伴加入队伍，但他会立即攻击其余的地精，因此如果希望谨慎行事，可以要求他在座狼兽栏等待。如果队伍在首次进入座狼兽栏之前就杀死了地精首领，哈尔辛可能会自己挣脱并返回翠绿林地。
 
 如果哈尔辛死亡，可以通过对他的尸体使用[死者交谈](Speak_with_Dead.md "死者交谈")来推进[解救德鲁伊哈尔辛](Rescue_the_Druid_Halsin.md "解救德鲁伊哈尔辛")任务。
 
-地精首领被击败后，哈尔辛返回[翠绿林地](Emerald_Grove.md "翠绿林地"), 在那里他可能会根据队伍在[调查她的行为](Investigate_Kagha.md "调查卡哈")时的选择，与[卡哈](Kagha.md "卡哈")对峙。
+地精首领被击败后，哈尔辛返回[翠绿林地](Emerald_Grove.md "翠绿林地"), 在那里他可能会根据队伍在[调查卡哈](Investigate_Kagha.md "调查卡哈")时的选择，与[卡哈](Kagha.md "卡哈")对峙。
 
 在[提夫林庆祝活动](Tiefling_Refugee_Celebration.md "提夫林难民庆祝活动")的第二天早上，哈尔辛告诉队伍他有两个关于如何前往幽影诅咒之地的线索：通过[山隘](Mountain_Pass.md "山隘")旅行，起初危险较小，但意味着要经过更长的幽影诅咒之路；或者探索[幽暗地域](Underdark.md "幽暗地域")寻找替代路线，这可以绕过部分幽影诅咒，但伴随着那里固有的所有危险。
 
 无论玩家角色建议探索哪个选项，哈尔辛都会作为[营地随从](Camp_Follower.md "营地随从")陪伴队伍，希望前往幽影诅咒之地并解除困扰该地区的幽影诅咒。
 
-如果队伍在从[地精营地](Goblin_Camp.md "地精营地")营救哈尔辛之前就前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，他的[尸体](Dead.md "死亡")将留在他的牢房中。
+如果队伍在从[地精营地](Goblin_Camp.md "地精营地")营救哈尔辛之前就前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，他的[死亡](Dead.md "死亡")将留在他的牢房中。
 
 ### 第二幕
 
 哈尔辛在[解除幽影诅咒](Lift_the_Shadow_Curse.md "解除幽影诅咒")的过程中提供至关重要的协助，如果他死亡，任务就无法完成。他要求队伍留意任何关于一个叫[赛尼尔](Thaniel.md "赛尼尔")的男孩的信息，他实际上是这片土地的精魂。
 
-一旦哈尔辛从[阿尔特·库拉](Art_Cullagh.md "阿尔特·库拉")那里得到关于赛尼尔位置的线索（无论是通过[唤醒他](Wake_Art_Cullagh.md "唤醒阿尔特·库拉")还是[从他的尸体](Speak_with_Dead.md "死者交谈")），他就会执行一个仪式，打开通往[堕影冥界](Shadowfell.md "堕影冥界")的传送门，并离开去接回那个男孩。如果队伍未能保护传送门免受幽影诅咒生物的波次攻击，传送门会关闭，哈尔辛将永远迷失在堕影冥界。
+一旦哈尔辛从[阿尔特·库拉](Art_Cullagh.md "阿尔特·库拉")那里得到关于赛尼尔位置的线索（无论是通过[唤醒他](Wake_Art_Cullagh.md "唤醒阿尔特·库拉")还是[死者交谈](Speak_with_Dead.md "死者交谈")），他就会执行一个仪式，打开通往[堕影冥界](Shadowfell.md "堕影冥界")的传送门，并离开去接回那个男孩。如果队伍未能保护传送门免受幽影诅咒生物的波次攻击，传送门会关闭，哈尔辛将永远迷失在堕影冥界。
 
 如果赛尼尔成功从堕影冥界被救出，并且赛尼尔的另一半[奥利弗](Oliver.md "奥利弗")也被说服与他团聚，哈尔辛会主动在第二幕的剩余时间加入队伍。如果[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")被击败，并且在离开幽影诅咒之地时幽影诅咒被解除，他将成为永久的[伙伴](Companion.md "伙伴").
 
@@ -309,7 +309,7 @@ UUID
 
 哈尔辛没有直接参与任何第三幕的故事情节，但将他带出[下城区](Lower_City.md "下城区")营地并与他交谈，他会表达对平衡自然与文明甚至可能无法实现的担忧。他也是两个伙伴之一（另一个是[阿斯代伦](Astarion.md "阿斯代伦")），可以在[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")进行四人行，即使没有被追求过，并且他在参与后会告诉玩家角色他与贵族卓尔的经历。最后，他被添加到[召集盟友](Gather_Your_Allies.md "召集盟友")中，利用赛尼尔的力量，在队伍到达[上城区](Upper_City.md "上城区")时提供[大地精魂](Spirit_of_the_Land_(Condition).md "大地精魂（状态）")状态。
 
-哈尔辛也是[奥林](Orin.md "奥林")[潜在绑架目标](Rescue_Orin's_Victim.md "拯救奥林的受害者")之一。如果[莱埃泽尔](Lae'zel.md "莱埃泽尔")在队伍首次在[下城区](Lower_City.md "下城区")长休时死亡、被追求或在活跃队伍中，奥林会转而绑架哈尔辛，并伪装成他潜入营地，假装发疯并差点杀死[挠挠](Scratch.md "挠挠")。根据这个场景的解决方式，他要么在玩家角色与奥林战斗前被她杀死，要么在之后返回队伍。
+哈尔辛也是[奥林](Orin.md "奥林")[拯救奥林的受害者](Rescue_Orin's_Victim.md "拯救奥林的受害者")之一。如果[莱埃泽尔](Lae'zel.md "莱埃泽尔")在队伍首次在[下城区](Lower_City.md "下城区")长休时死亡、被追求或在活跃队伍中，奥林会转而绑架哈尔辛，并伪装成他潜入营地，假装发疯并差点杀死[挠挠](Scratch.md "挠挠")。根据这个场景的解决方式，他要么在玩家角色与奥林战斗前被她杀死，要么在之后返回队伍。
 
 ### 结局
 
@@ -435,9 +435,9 @@ _如果哈尔辛被奥林绑架并杀害：_
 - [营地补给袋](Camp_Supply_Sack.md "营地补给袋")
 - [德鲁伊护腕](Druidic_Bracers.md "德鲁伊护腕")
 - [德鲁伊长棍](Druid_Quarterstaff.md "德鲁伊长棍")
-- [哈尔辛的德鲁伊皮甲](Druid_Leather_Armour.md "德鲁伊皮甲")
+- [德鲁伊皮甲](Druid_Leather_Armour.md "德鲁伊皮甲")
 - [哈尔辛的林地装束](Halsin's_Grove_Garments.md "哈尔辛的林地装束")
-- [哈尔辛的雅致的靴子](Tasteful_Boots.md "雅致的靴子")
+- [雅致的靴子](Tasteful_Boots.md "雅致的靴子")
 - [哈尔辛的内衣](Halsin's_Underwear.md "哈尔辛的内衣")
 - [林地守护者之靴](Grovetender_Boots.md "林地守护者之靴")
 - [治疗药水](Potion_of_Healing.md "治疗药水") -2x

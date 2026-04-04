@@ -67,15 +67,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -115,15 +115,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -163,15 +163,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -179,14 +179,14 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-    - [1.1.1 未使用动物交谈](#without-speak-with-animals)
-    - [1.1.2 使用动物交谈](#with-speak-with-animals)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 备注](#notes)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+    - [1.1.1 未使用动物交谈](#未使用动物交谈)
+    - [1.1.2 使用动物交谈](#使用动物交谈)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 备注](#备注)
 
 ## 出场
 

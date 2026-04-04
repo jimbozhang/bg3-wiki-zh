@@ -16,7 +16,7 @@
 
 ### 阵营
 
-[莎尔教会](Shar.md "Shar")
+[莎尔](Shar.md "莎尔")
 
 ## 属性
 
@@ -90,19 +90,19 @@
 
 ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
@@ -150,19 +150,19 @@
 
 ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
@@ -210,19 +210,19 @@
 
 ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
@@ -252,12 +252,12 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 重要战利品](#notable-loot)
-- [3 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 重要战利品](#重要战利品)
+- [3 外部链接](#外部链接)
 
 ## 出场
 

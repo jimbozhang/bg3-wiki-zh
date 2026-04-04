@@ -59,19 +59,19 @@
 
 - ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**几近爆裂**](Fit_to_Burst.md "几近爆裂")
+- [几近爆裂](Fit_to_Burst.md "几近爆裂")
 
 当智力暴食者死亡时，它会以[形态卤水爆炸](Morphic_Brine_Explosion.md "形态卤水爆炸")炸开。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -79,11 +79,11 @@
 
 ## 目录
 
-- [1 关于](#about)
-- [2 参与](#involvement)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-- [4 战利品](#loot)
+- [1 关于](#关于)
+- [2 参与](#参与)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+- [4 战利品](#战利品)
 
 ## 关于
 

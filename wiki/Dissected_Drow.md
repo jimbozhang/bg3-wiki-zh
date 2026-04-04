@@ -94,19 +94,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
 
@@ -156,19 +156,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
 
@@ -218,19 +218,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有[劣势](Disadvantage.md "Disadvantage")。
 
@@ -252,13 +252,13 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 死者交谈](#speak-with-dead)
-- [5 相关任务](#related-quests)
-- [6 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 死者交谈](#死者交谈)
+- [5 相关任务](#相关任务)
+- [6 外部链接](#外部链接)
 
 ## 参与情况
 
@@ -298,7 +298,7 @@ Stats
 - 外面有多少卓尔？
 
 - 被解剖的卓尔
-  明萨拉...在[营地](Goblin_Camp.md "Goblin Camp")...
+  明萨拉...在[地精营地](Goblin_Camp.md "地精营地")...
 
 - 你从哪里得到寄生虫的？
 

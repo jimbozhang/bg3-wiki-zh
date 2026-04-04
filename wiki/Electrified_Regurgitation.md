@@ -48,7 +48,7 @@ UID
 **[微醺](Moderately_Inebriated_(Condition).md "微醺（状态）")**
 
 - 每啜饮一口特制烈酒，西索博得会变得更加醉醺醺。
-- 他在魅力和敏捷[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并开始产生小魔鬼的幻觉。
+- 他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并开始产生小魔鬼的幻觉。
 
 ## 区域：带电的水
 

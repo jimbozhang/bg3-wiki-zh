@@ -24,7 +24,7 @@
 你受到的 [挥砍](Slashing.md "Slashing") 伤害减少 1 点。
 
 [平衡](Balance.md "Balance")
-获得 +1 奖励至 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving throw") 和 [检定](Ability_Check.md "Ability check")
+获得 +1 奖励至 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving throw") 和 [属性检定](Ability_Check.md "属性检定")
 
 ## 获取地点
 

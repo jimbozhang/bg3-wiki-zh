@@ -1,10 +1,10 @@
 # 狐之狡黠
 
-**狐之狡黠**是一个[等级 2 变化学派法术](Spells.md "Spells")。此法术允许施法者赋予生物狐狸般的狡黠。受影响的生物在[智力](Intelligence.md "Intelligence")[检定](Ability_Check.md "Ability Check")上获得[优势](Advantage.md "Advantage")。
+**狐之狡黠**是一个[法术](Spells.md "法术")。此法术允许施法者赋予生物狐狸般的狡黠。受影响的生物在[智力](Intelligence.md "Intelligence")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "Advantage")。
 
 ## 描述
 
-生物在[智力](Intelligence.md "Intelligence")[检定](Ability_Check.md "Ability Check")上获得[优势](Advantage.md "Advantage")。
+生物在[智力](Intelligence.md "Intelligence")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "Advantage")。
 
 ## 属性
 
@@ -34,7 +34,7 @@ UID
 
 持续时间：直到[长休](Long_Rest.md "Long rest")
 
-- 在[智力](Intelligence.md "Intelligence")[检定](Ability_Check.md "Ability Check")上拥有[优势](Advantage.md "Advantage")。
+- 在[智力](Intelligence.md "Intelligence")[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "Advantage")。
 
 ## 如何学习
 

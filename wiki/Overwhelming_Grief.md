@@ -2,7 +2,7 @@
 
 另请参阅：[召唤黑暗](Beckoning_Darkness.md "召唤黑暗")
 
-**极致悲痛**是一个[等级 4 死灵学派法术](Spells.md "Spells")。此法术造成少量初始黯蚀伤害，并施加一个诅咒，在特定条件下造成额外的周期性黯蚀伤害。队友无法学习此法术。
+**极致悲痛**是一个[法术](Spells.md "法术")。此法术造成少量初始黯蚀伤害，并施加一个诅咒，在特定条件下造成额外的周期性黯蚀伤害。队友无法学习此法术。
 
 ## 描述
 
@@ -19,7 +19,7 @@
 \+ 1d4⁠[黯蚀](Necrotic.md "黯蚀") (每回合)
 
 详情
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14) (豁免成功时：目标仍受到 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14) (豁免成功时：目标仍受到 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。)
 范围：6 米 (20 英尺)
 区域：3 米 (10 英尺) 半径
 目标：半径内的所有敌人
@@ -44,7 +44,7 @@ UID
 
 持续时间：10 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
 
 - 当其在[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")或[重度遮蔽](Heavily_Obscured.md "重度遮蔽")区域开始其回合时，受影响实体受到 1d4⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。暗夜法官在其[阴影形态](Umbral_Form_(Condition).md "阴影形态 (状态)")下进行的攻击对实体造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 

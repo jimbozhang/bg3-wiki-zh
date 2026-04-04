@@ -18,7 +18,7 @@
 
 你是否觊觎他人所有，却忽视自己已拥有的？你对更多的渴望是否已变质为自怜的泥沼？你必须从嫉妒的腐臭沼泽中挣脱，以免被其淹没。不要想他人拥有什么，而要想他们没有什么。帮助他人能带来喜悦。喜悦——或许还有救赎。
 
-\[本书后续内容冗长，建议若自我提升失败，可尝试[哀伤之邸](House_of_Grief.md "哀伤之邸")开创的治疗方法。\]
+\[哀伤之邸](House_of_Grief.md "哀伤之邸")开创的治疗方法。\]
 
 ---
 *Source: [Reconciling the Jealous Heart](https://bg3.wiki/wiki/Reconciling_the_Jealous_Heart)*

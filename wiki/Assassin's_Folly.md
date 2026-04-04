@@ -77,23 +77,23 @@
 
 ## 特性
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你进行一项你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")的[属性检定](Ability_Check.md "属性检定")时，你骰子的最低结果为10。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可使用[反应](Reaction.md "反应")将一次命中的伤害减半。
 
@@ -141,23 +141,23 @@
 
 ## 特性
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你进行一项你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")的[属性检定](Ability_Check.md "属性检定")时，你骰子的最低结果为10。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可使用[反应](Reaction.md "反应")将一次命中的伤害减半。
 
@@ -165,11 +165,11 @@
 
 ## 目录
 
-- [1 登场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 注释](#notes)
+- [1 登场](#登场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 注释](#注释)
 
 ## 登场
 

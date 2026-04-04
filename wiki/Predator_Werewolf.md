@@ -72,7 +72,7 @@
 
 如果目标[倒伏](Prone_(Condition).md "倒伏 (状态)")或其[生命值](Hit_Points.md "生命值")低于或等于60%，则可进行[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -118,7 +118,7 @@
 
 如果目标[倒伏](Prone_(Condition).md "倒伏 (状态)")或其[生命值](Hit_Points.md "生命值")低于或等于60%，则可进行[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -164,7 +164,7 @@
 
 如果目标[倒伏](Prone_(Condition).md "倒伏 (状态)")或其[生命值](Hit_Points.md "生命值")低于或等于60%，则可进行[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

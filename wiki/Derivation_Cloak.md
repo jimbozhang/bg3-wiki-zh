@@ -15,7 +15,7 @@
 此物品的穿戴者获得：
 
 [死亡之源](Deadly_Derivation.md "死亡之源")
-当你使敌人[中毒](Poisoned_(Condition).md "中毒（状态）")时，为自己恢复1d4点[生命值](Healing.md "治疗")。
+当你使敌人[中毒](Poisoned_(Condition).md "中毒（状态）")时，为自己恢复1d4点[治疗](Healing.md "治疗")。
 
 ## 获取地点
 

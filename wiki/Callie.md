@@ -94,25 +94,25 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低为1的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低为1的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 探索者难度属性
 
@@ -160,25 +160,25 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低为1的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低为1的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 硬核难度属性
 
@@ -226,25 +226,25 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低为1的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低为1的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 技术细节
 
@@ -272,17 +272,17 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 终焉光芒旅店](#last-light-inn)
-    - [1.1.2 解决绑架问题](#resolve-the-abduction)
-    - [1.1.3 进攻月出之塔](#assault-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 注释](#notes)
-- [5 参考文献](#references)
+- [1 参与度](#参与度)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 终焉光芒旅店](#终焉光芒旅店)
+    - [1.1.2 解决绑架问题](#解决绑架问题)
+    - [1.1.3 进攻月出之塔](#进攻月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 注释](#注释)
+- [5 参考文献](#参考文献)
 
 ## 参与度
 

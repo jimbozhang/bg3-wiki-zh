@@ -2,7 +2,7 @@
 
 本文介绍的是**[无法通过正常游戏获取](Category_colon_Inaccessible.md "Category:Inaccessible")**的内容。但仍可通过第三方工具访问。
 
-**积聚法杖**是[长棍](Quarterstaves.md "Quarterstaves")武器家族中罕见的、轻度附魔（+1）变体。它是一种[简易近战武器](Weapons.md "Weapons")，可单手持用，或双手持用以造成额外伤害。
+**积聚法杖**是[长棍](Quarterstaves.md "Quarterstaves")武器家族中罕见的、轻度附魔（+1）变体。它是一种[武器](Weapons.md "武器")，可单手持用，或双手持用以造成额外伤害。
 
 在这根法杖的心材中，你感觉到一股潜伏的力量在脉动——这东西似乎迫不及待地要积聚并释放其猛烈的能量。
 

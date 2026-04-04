@@ -1,6 +1,6 @@
 # 奉承者的礼帽
 
-奉承者的礼帽是一件稀有[头饰](Headwear.md "头饰")，它会在战斗开始时为穿戴者提供等于其[魅力调整值](Charisma.md "魅力")的[亢奋](Momentum_(Condition).md "亢奋（状态）")，并在进行[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")时获得[优势](Advantage.md "优势")。
+奉承者的礼帽是一件稀有[头饰](Headwear.md "头饰")，它会在战斗开始时为穿戴者提供等于其[魅力](Charisma.md "魅力")的[亢奋](Momentum_(Condition).md "亢奋（状态）")，并在进行[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")时获得[优势](Advantage.md "优势")。
 
 这顶小礼帽被塞莱瑞塔斯漫不经心的堕落行径所腐蚀，它曾是那位管家在深陷巴尔掌控之前的物品。它曾是不可玷污的。它曾是可爱的。
 

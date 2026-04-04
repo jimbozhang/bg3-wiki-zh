@@ -20,9 +20,9 @@
 
 ## 备注
 
-- [酒馆殴斗者](Tavern_Brawler.md "酒馆殴斗者") 会将攻击者的 [力量调整值](Strength.md "力量") 第二次添加到攻击掷骰和伤害中。
+- [酒馆殴斗者](Tavern_Brawler.md "酒馆殴斗者") 会将攻击者的 [力量](Strength.md "力量") 第二次添加到攻击掷骰和伤害中。
 - [武僧](Monk.md "武僧") 的 [武术：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武术：灵巧打击") 将徒手打击的 1 点基础伤害替换为 1d4。在武僧等级 3 时提升至 1d6，在武僧等级 9 时提升至 1d8。
-- 武僧的 [武术：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武术：敏捷攻击") 可以用 [敏捷](Dexterity.md "敏捷") 调整值替换通常添加到徒手打击伤害中的 [力量调整值](Strength.md "力量")，如果敏捷调整值更高的话。无论哪种情况，来自酒馆殴斗者的额外伤害始终使用力量调整值。
+- 武僧的 [武术：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武术：敏捷攻击") 可以用 [敏捷](Dexterity.md "敏捷") 调整值替换通常添加到徒手打击伤害中的 [力量](Strength.md "力量")，如果敏捷调整值更高的话。无论哪种情况，来自酒馆殴斗者的额外伤害始终使用力量调整值。
 - 许多增益和特性指明其适用于“武器攻击”，例如 [至圣斩](Divine_Smite.md "至圣斩")，不适用于徒手打击。
 - 有关与徒手打击互动的效果的完整列表，请参见：[与徒手打击互动的特性和物品列表](List_of_features_and_items_that_interact_with_unarmed_strikes.md "与徒手打击互动的特性和物品列表")。
 

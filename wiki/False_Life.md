@@ -1,6 +1,6 @@
 # 虚假生命
 
-**虚假生命**是一个[1级死灵学派法术](Spells.md "Spells")。它允许施法者获得[临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")。
+**虚假生命**是一个[法术](Spells.md "法术")。它允许施法者获得[临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")。
 
 ## 描述
 
@@ -58,7 +58,7 @@ UID
 
 ## 备注
 
-- 如果法师对自己施放虚假生命，此法术必须保持[预备](Prepared_spells.md "Prepared spells")。从预备法术列表中移除它会立即移除已应用的加成。如果直接使用[卷轴](Scroll_of_False_Life.md "Scroll of False Life")施放，而不是将其[抄录](Transcribing_scrolls.md "Transcribing scrolls")到法师的法术书中，则施法者无需保持该法术预备。
+- 如果法师对自己施放虚假生命，此法术必须保持[预备](Prepared_spells.md "Prepared spells")。从预备法术列表中移除它会立即移除已应用的加成。如果直接使用[虚假生命卷轴](Scroll_of_False_Life.md "虚假生命卷轴")施放，而不是将其[抄录](Transcribing_scrolls.md "Transcribing scrolls")到法师的法术书中，则施法者无需保持该法术预备。
 - 虚假生命的咒语是 **Dum Vita Est, Spes Est**，拉丁语意为“有生命，就有希望”。
 
 ## 视觉效果

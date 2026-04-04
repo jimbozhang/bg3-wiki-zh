@@ -89,19 +89,19 @@
 
 - - - ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**对决**](Duelling.md "对决")
+- [对决](Duelling.md "对决")
 
 当你单手持用一件非双手的近战武器，且另一只手未持武器时，该武器造成额外 2 点伤害。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -153,19 +153,19 @@
 
 - - - ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**对决**](Duelling.md "对决")
+- [对决](Duelling.md "对决")
 
 当你单手持用一件非双手的近战武器，且另一只手未持武器时，该武器造成额外 2 点伤害。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -217,19 +217,19 @@
 
 - - - ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**对决**](Duelling.md "对决")
+- [对决](Duelling.md "对决")
 
 当你单手持用一件非双手的近战武器，且另一只手未持武器时，该武器造成额外 2 点伤害。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -251,16 +251,16 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-- [2 相关剧情](#involvement)
-  - [2.1 第三幕](#act-three)
-- [3 出售的著名物品](#notable-items-sold)
-- [4 战斗](#combat)
-  - [4.1 攻击与能力](#attacks-and-abilities)
-  - [4.2 战利品](#loot)
-- [5 相关文献](#related-literature)
-- [6 画廊](#gallery)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+- [2 相关剧情](#相关剧情)
+  - [2.1 第三幕](#第三幕)
+- [3 出售的著名物品](#出售的著名物品)
+- [4 战斗](#战斗)
+  - [4.1 攻击与能力](#攻击与能力)
+  - [4.2 战利品](#战利品)
+- [5 相关文献](#相关文献)
+- [6 画廊](#画廊)
 
 ## 概述
 
@@ -300,7 +300,7 @@ UUID
 
 全力击中敌人造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 

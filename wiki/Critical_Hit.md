@@ -10,34 +10,34 @@
 
 ## 目录
 
-- [1 机制](#mechanics)
-- [2 降低重击阈值](#reducing-critical-threshold)
-  - [2.1 装备](#equipment)
-    - [2.1.1 武器](#weapons)
-    - [2.1.2 披风](#cloaks)
-    - [2.1.3 护甲和头部装备](#armour-and-headgear)
-  - [2.2 状态](#conditions)
-  - [2.3 消耗品](#consumables)
-  - [2.4 职业特性](#class-features)
-  - [2.5 专长](#feats)
-  - [2.6 灵吸怪威能](#illithid-powers)
-- [3 最大化重击价值](#maximising-critical-hit-value)
-  - [3.1 增加重击可能性](#increasing-likelihood-of-critical-hits)
-  - [3.2 重击时的额外效果](#additional-effects-on-critical-hit)
-    - [3.2.1 被动](#passives)
-    - [3.2.2 动作和法术](#actions-and-spells)
-    - [3.2.3 装备](#equipment-2)
-  - [3.3 保证重击](#guaranteed-critical-hits)
-- [4 免疫重击](#negating-critical-hits)
-  - [4.1 装备](#equipment-3)
-    - [4.1.1 护甲和头部装备](#armour-and-headgear-2)
-    - [4.1.2 盾牌](#shields)
-- [5 注释](#notes)
-- [6 另见](#see-also)
+- [1 机制](#机制)
+- [2 降低重击阈值](#降低重击阈值)
+  - [2.1 装备](#装备)
+    - [2.1.1 武器](#武器)
+    - [2.1.2 披风](#披风)
+    - [2.1.3 护甲和头部装备](#护甲和头部装备)
+  - [2.2 状态](#状态)
+  - [2.3 消耗品](#消耗品)
+  - [2.4 职业特性](#职业特性)
+  - [2.5 专长](#专长)
+  - [2.6 灵吸怪威能](#灵吸怪威能)
+- [3 最大化重击价值](#最大化重击价值)
+  - [3.1 增加重击可能性](#增加重击可能性)
+  - [3.2 重击时的额外效果](#重击时的额外效果)
+    - [3.2.1 被动](#被动)
+    - [3.2.2 动作和法术](#动作和法术)
+    - [3.2.3 装备](#装备)
+  - [3.3 保证重击](#保证重击)
+- [4 免疫重击](#免疫重击)
+  - [4.1 装备](#装备)
+    - [4.1.1 护甲和头部装备](#护甲和头部装备)
+    - [4.1.2 盾牌](#盾牌)
+- [5 注释](#注释)
+- [6 另见](#另见)
 
 ## 机制
 
-任何使用攻击掷骰的能力，包括法术攻击，都能够造成重击。任何用于伤害的骰子，包括来自[至圣斩](Divine_Smite.md "至圣斩")或[战斗策略](Battle_Master.md "战斗大师")等的额外骰子，都会掷两次。具有多次攻击掷骰的能力，如[挥砍华舞](Slashing_Flourish_(Ranged).md "挥砍华舞（远程）")或[灼热射线](Scorching_Ray.md "灼热射线")，可以有多个重击，每次攻击独立掷骰。
+任何使用攻击掷骰的能力，包括法术攻击，都能够造成重击。任何用于伤害的骰子，包括来自[至圣斩](Divine_Smite.md "至圣斩")或[战斗大师](Battle_Master.md "战斗大师")等的额外骰子，都会掷两次。具有多次攻击掷骰的能力，如[挥砍华舞](Slashing_Flourish_(Ranged).md "挥砍华舞（远程）")或[灼热射线](Scorching_Ray.md "灼热射线")，可以有多个重击，每次攻击独立掷骰。
 
 伤害的固定调整值和加值——包括相关的[属性值调整值](Ability_score_modifier.md "属性值调整值")和[熟练项加值](Proficiency_Bonus.md "熟练项加值")——不会翻倍。造成固定伤害而非掷骰的攻击，如[魔宠](Familiar.md "魔宠")，可以掷出重击，但不会因此造成额外伤害。
 
@@ -57,7 +57,7 @@
 
 #### 披风
 
-- [黯影杀手披风](Shade-Slayer_Cloak.md "黯影杀手披风") → [隐匿重击](Stealthy_Critical.md "隐匿重击") _（当[隐藏](Hide.md "隐藏")时）_
+- [黯影杀手披风](Shade-Slayer_Cloak.md "黯影杀手披风") → [隐匿重击](Stealthy_Critical.md "隐匿重击") _（当[躲藏](Hide.md "躲藏")时）_
 
 #### 护甲和头部装备
 

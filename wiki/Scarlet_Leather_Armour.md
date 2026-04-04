@@ -20,7 +20,7 @@
 穿戴此物品获得：
 
 [隐匿](Stealthy.md "Stealthy")
-获得+1的[隐匿检定](Stealth.md "Stealth")加值。
+获得+1的[隐匿](Stealth.md "隐匿")加值。
 
 ## 获取地点
 

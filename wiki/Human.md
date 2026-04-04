@@ -24,7 +24,7 @@
 中型
 
 [民兵](Civil_Militia.md "民兵")
-你拥有以下[武器熟练项](Proficiency.md "熟练项")：
+你拥有以下[熟练项](Proficiency.md "熟练项")：
 
 - [短矛](Spears.md "短矛")
 - [长矛](Pikes.md "长矛")

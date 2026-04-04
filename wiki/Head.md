@@ -1,6 +1,6 @@
 # 头部
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Head.md "Special:WhatLinksHere/Head")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[头部](Special_colon_WhatLinksHere/Head.md "头部")的，请考虑编辑该链接，将其指向正确的页面。
 
 **头部**可能指：
 

@@ -24,15 +24,15 @@
 
 [一张该地区的旧地图，随着周围环境的探索而被手工修正。笔记包括：]
 
-城市入口被强大的 [诅咒](Shadow_Curse.md "幽影诅咒") 阻挡。
+城市入口被强大的 [幽影诅咒](Shadow_Curse.md "幽影诅咒") 阻挡。
 
 [月出](Moonrise.md "月出") - 邪恶的中心
 
-[征税所](Reithwin_Tollhouse.md "雷斯文征税所") - 堤岸，攻击点？
+[雷斯文征税所](Reithwin_Tollhouse.md "雷斯文征税所") - 堤岸，攻击点？
 
-[酿酒厂](The_Waning_Moon.md "残月酒厂") - 补给？
+[残月酒厂](The_Waning_Moon.md "残月酒厂") - 补给？
 
-[废弃房屋](House_in_Deep_Shadows.md "深影之家") - 阴影拉长。
+[深影之家](House_in_Deep_Shadows.md "深影之家") - 阴影拉长。
 
 ---
 *Source: [Map of the Shadowlands](https://bg3.wiki/wiki/Map_of_the_Shadowlands)*

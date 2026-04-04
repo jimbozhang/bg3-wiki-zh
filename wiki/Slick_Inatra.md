@@ -94,19 +94,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -160,19 +160,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -226,19 +226,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -272,17 +272,17 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 保护公会大厅](#protecting-the-guildhall)
-  - [1.2 公会大厅之战](#battle-for-the-guildhall)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 空闲对话](#idle-banter)
-- [5 相关任务](#related-quests)
-- [6 注释](#notes)
-- [7 参考文献](#references)
-- [8 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 保护公会大厅](#保护公会大厅)
+  - [1.2 公会大厅之战](#公会大厅之战)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 空闲对话](#空闲对话)
+- [5 相关任务](#相关任务)
+- [6 注释](#注释)
+- [7 参考文献](#参考文献)
+- [8 外部链接](#外部链接)
 
 ## 参与
 
@@ -294,7 +294,7 @@ UUID
 
 ### 公会大厅之战
 
-如果[罗阿·月光](Roah_Moonglow.md "Roah Moonglow")、[弗里奥尔老板](Friol.md "Friol")或[特立尼达](Trinoda.md "Trinoda")试图接管公会大厅，伊娜塔拉会与她的散塔林会盟友一起加入战斗，对抗公会。反对散塔林会会导致伊娜塔拉死亡，或者如果她被击倒则会消失。
+如果[罗阿·月光](Roah_Moonglow.md "Roah Moonglow")、[弗里奥尔](Friol.md "弗里奥尔")或[特立尼达](Trinoda.md "Trinoda")试图接管公会大厅，伊娜塔拉会与她的散塔林会盟友一起加入战斗，对抗公会。反对散塔林会会导致伊娜塔拉死亡，或者如果她被击倒则会消失。
 
 如果队伍帮助散塔林会赢得战斗，并且她在[公会大厅](Guildhall.md "Guildhall")的战斗中幸存下来，伊娜塔拉会占据通往公会会长办公室的门的位置。她表示她确实尊重[九指基恩](Nine-Fingers_Keene.md "Nine-Fingers Keene")，但尽管如此，执行命令攻击她并无不妥。<sup>[\[5\]](#cite_note-5)</sup>
 
@@ -465,7 +465,7 @@ UUID
 
 ## 注释
 
-- 斯力克·伊娜塔拉在[公会大厅](Guildhall.md "Guildhall")中担任散塔林会小组的领导者，直到[罗阿](Roah_Moonglow.md "Roah Moonglow")或[弗里奥尔老板](Friol.md "Friol")到来。
+- 斯力克·伊娜塔拉在[公会大厅](Guildhall.md "Guildhall")中担任散塔林会小组的领导者，直到[罗阿·月光](Roah_Moonglow.md "罗阿·月光")或[弗里奥尔](Friol.md "弗里奥尔")到来。
 - 她似乎是向其他散塔林会成员下达命令的人，[菲斯](Phase.md "Phase")称她为中士。
 - 目前尚不清楚斯力克·伊娜塔拉在接管前是否知道散塔林会在公会大厅的真正目的，因为她告诉菲斯她尚未收到任何进一步的命令，但与此同时，[独狼卡洛琳娜](Carlorina_the_Wolf.md "Carlorina the Wolf")和[掘墓人卡森](Gravedigger_Karcen.md "Gravedigger Karcen")似乎应该为一个无法解释的信号保持警惕。
   - 斯力克·伊娜塔拉使用与[明萨拉](Minthara.md "Minthara")相同的（否则是独特的）发型。

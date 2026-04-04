@@ -1,6 +1,6 @@
 # 魔蝠岩浆灰
 
-**魔蝠岩浆灰**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，制造出[燃烧油](Oil_of_Combustion.md "燃烧油")。
+**魔蝠岩浆灰**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，制造出[燃烧油](Oil_of_Combustion.md "燃烧油")。
 
 从这些灰烬中提炼出的油将作为催化剂，引发最绚丽的熔炉高温火焰爆发。
 

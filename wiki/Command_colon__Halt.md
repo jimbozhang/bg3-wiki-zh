@@ -1,6 +1,6 @@
 # 命令：定身
 
-**命令：定身**是一个[1级惑控学派法术](Spells.md "Spells")。该法术是[命令术](Command.md "Command")的一个变体。它允许施法者命令目标暂时无法移动或使用[动作](Action.md "Action")、[附赠动作](Bonus_action.md "Bonus Action")或[反应](Reaction.md "Reaction")。
+**命令：定身**是一个[法术](Spells.md "法术")。该法术是[命令术](Command.md "Command")的一个变体。它允许施法者命令目标暂时无法移动或使用[动作](Action.md "Action")、[附赠动作](Bonus_action.md "Bonus Action")或[反应](Reaction.md "Reaction")。
 
 ## 描述
 

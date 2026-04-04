@@ -24,7 +24,7 @@ UID `MAG_StrongString_Longbow` UUID `13236988-83df-4bf2-8005-b4ac31f21ff4` Stats
 **持有此物品获得：**
 
 [泰坦武器](Titan_Weapon.md "泰坦武器")
-此武器造成的额外伤害等于你的[力量](Strength.md "力量")[调整值](Ability_Modifier.md "属性调整值")。
+此武器造成的额外伤害等于你的[力量](Strength.md "力量")[属性调整值](Ability_Modifier.md "属性调整值")。
 
 ### 武器动作
 

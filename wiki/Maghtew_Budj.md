@@ -87,17 +87,17 @@
 
 - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "STR") 调整值或最低为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最低为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 探索者难度属性
 
@@ -145,17 +145,17 @@
 
 - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "STR") 调整值或最低为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最低为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 硬核难度属性
 
@@ -203,17 +203,17 @@
 
 - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "STR") 调整值或最低为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最低为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 技术信息
 
@@ -243,7 +243,7 @@ UUID
 
 如果无人理会，他会移动到兵营东北部的房间，如果与他交谈，他会以“愿死亡早日带走你”和“愿你的骨头得到祝福”来问候队伍。
 
-在他的房间中找到的日记揭示了他是克雷萨·骨女的丈夫，他们曾是[纳什克尔](https://forgottenrealms.fandom.com/wiki/Nashkel)的乡村外科医生。日记详细描述了在加入[米尔寇邪教](Myrkul.md "Myrkul")后，克雷萨如何痴迷于她的蝌蚪研究以及一个“[宠物](The_Dark_Urge.md "The Dark Urge")”——她用它进行实验——以及所有这些如何使他与妻子疏远。他试图通过告诉[巴萨扎尔](Balthazar.md "Balthazar")关于她的宠物的事来让她恢复理智，但这导致巴萨扎尔将其运往[鹦鹉螺](Nautiloid.md "Nautiloid")，而这反而加深了她对一个奴仆的渴望。
+在他的房间中找到的日记揭示了他是克雷萨·骨女的丈夫，他们曾是[纳什克尔](https://forgottenrealms.fandom.com/wiki/Nashkel)的乡村外科医生。日记详细描述了在加入[米尔寇](Myrkul.md "米尔寇")后，克雷萨如何痴迷于她的蝌蚪研究以及一个“[邪念](The_Dark_Urge.md "邪念")”——她用它进行实验——以及所有这些如何使他与妻子疏远。他试图通过告诉[巴萨扎尔](Balthazar.md "Balthazar")关于她的宠物的事来让她恢复理智，但这导致巴萨扎尔将其运往[鹦鹉螺](Nautiloid.md "Nautiloid")，而这反而加深了她对一个奴仆的渴望。
 
 ## 战斗
 

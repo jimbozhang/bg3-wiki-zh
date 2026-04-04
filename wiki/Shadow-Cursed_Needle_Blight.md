@@ -65,15 +65,15 @@
 
 死亡时在[针爆](Needle_Burst.md "针爆")中爆炸。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到 24 米 / 80 英尺。
 
@@ -117,15 +117,15 @@
 
 死亡时在[针爆](Needle_Burst.md "针爆")中爆炸。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到 24 米 / 80 英尺。
 
@@ -173,15 +173,15 @@
 
 死亡时在[针爆](Needle_Burst.md "针爆")中爆炸。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到 24 米 / 80 英尺。
 
@@ -189,17 +189,17 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 免疫](#immunities)
-  - [2.3 战利品](#loot)
-- [3 画廊](#gallery)
-- [4 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 免疫](#免疫)
+  - [2.3 战利品](#战利品)
+- [3 画廊](#画廊)
+- [4 外部链接](#外部链接)
 
 ## 概述
 
-枯针怪，与其同类[幽影诅咒枯藤怪](Shadow-Cursed_Vine_Blight.md "幽影诅咒枯藤怪")和[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")一样，会将自己隐藏在周围的植被中，以便伏击路人。队伍必须通过 DC 30 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")才能发现这些伏击队伍并避免被伏击。
+枯针怪，与其同类[幽影诅咒枯藤怪](Shadow-Cursed_Vine_Blight.md "幽影诅咒枯藤怪")和[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")一样，会将自己隐藏在周围的植被中，以便伏击路人。队伍必须通过 DC 30 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")才能发现这些伏击队伍并避免被伏击。
 
 枯针怪体型小、脆弱且数量众多，在遭遇战中充当前线敌人。它们死亡时的[针爆](Needle_Burst_(passive_feature).md "针爆 (被动特性)")如果多个枯针怪被卷入爆炸范围，可以连锁反应，对敌人和盟友造成巨大伤害。
 

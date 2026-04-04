@@ -83,7 +83,7 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -91,7 +91,7 @@
 
 如果目标处于[泥泞](Muddy_(Condition).md "泥泞（状态）")状态或站在泥巴中，可进行[多重攻击](Multiattack_(Earth_Elemental).md "多重攻击（土元素）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -137,7 +137,7 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -145,7 +145,7 @@
 
 如果目标处于[泥泞](Muddy_(Condition).md "泥泞（状态）")状态或站在泥巴中，可进行[多重攻击](Multiattack_(Earth_Elemental).md "多重攻击（土元素）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -177,7 +177,7 @@ UUID
 
 斯托尼最喜欢定制人物雕像，尤其是当他们有独特面部结构时。她非常害羞且容易受惊，博尼担心她工作过度。<sup>[\[2\]](#cite_note-2)</sup> 斯托尼与[德里布尔斯](Dribbles.md "德里布尔斯")也有深厚的友谊，两人从“黎明到黄昏”都在闲聊。<sup>[\[3\]](#cite_note-3]
 
-玩家角色可以与博尼交谈，委托制作斯托尼的[雕像](True_Hero_of_Baldur's_Gate.md "博德之门真英雄")</sup>，所得资金将用于他们前往⁠[月之群岛](https://forgottenrealms.fandom.com/wiki/Moonshae_Isles)的逃亡。
+玩家角色可以与博尼交谈，委托制作斯托尼的[博德之门真英雄](True_Hero_of_Baldur's_Gate.md "博德之门真英雄")</sup>，所得资金将用于他们前往⁠[月之群岛](https://forgottenrealms.fandom.com/wiki/Moonshae_Isles)的逃亡。
 
 ## 战斗
 

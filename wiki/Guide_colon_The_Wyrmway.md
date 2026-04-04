@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 试炼密室](#trial-chambers)
-  - [1.1 正义之间](#chamber-of-justice)
-  - [1.2 洞察之间](#chamber-of-insight)
-  - [1.3 策略之间](#chamber-of-strategy)
+- [1 试炼密室](#试炼密室)
+  - [1.1 正义之间](#正义之间)
+  - [1.2 洞察之间](#洞察之间)
+  - [1.3 策略之间](#策略之间)
 
 ## 试炼密室
 
@@ -19,7 +19,7 @@
 - [控制不死生物](Control_Undead.md "Control Undead")
 - [劝诫复生者](Exhort_the_Risen.md "Exhort the Risen")
 - [变形术](Polymorph.md "Polymorph")
-- [巴尔律令死亡](Power_Word_Kill.md "Power Word Kill")（[邪念专属](The_Dark_Urge.md "The Dark Urge")）
+- [巴尔律令死亡](Power_Word_Kill.md "Power Word Kill")（[邪念](The_Dark_Urge.md "邪念")）
 - [移除诅咒](Remove_Curse.md "Remove Curse")
 - [驱散不死生物](Turn_Undead.md "Turn Undead")
 - 控制不死生物的方法
@@ -39,7 +39,7 @@
 
 ### 洞察之间
 
-攻击[克里斯蒂娜·苏尔托](Suelto.md "Suelto")的幽魂。
+攻击[苏尔托](Suelto.md "苏尔托")的幽魂。
 
 ### 策略之间
 

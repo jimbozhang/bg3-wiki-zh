@@ -36,7 +36,7 @@ UID
 
 持续时间：2 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
 
 - 受影响实体的 [体质](Constitution.md "体质") 缩小 1，并且在体质 [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")
 

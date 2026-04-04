@@ -74,15 +74,15 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可进行两次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -90,7 +90,7 @@
 
 招架下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -98,7 +98,7 @@
 
 当被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**沉默**](Silent.md "沉默")
+- [沉默](Silent.md "沉默")
 
 此生物无法说话或施放具有语言成分的法术
 
@@ -148,15 +148,15 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可进行两次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -164,7 +164,7 @@
 
 招架下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -172,7 +172,7 @@
 
 当被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**沉默**](Silent.md "沉默")
+- [沉默](Silent.md "沉默")
 
 此生物无法说话或施放具有语言成分的法术
 
@@ -222,15 +222,15 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可进行两次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -238,7 +238,7 @@
 
 招架下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -246,7 +246,7 @@
 
 当被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**沉默**](Silent.md "沉默")
+- [沉默](Silent.md "沉默")
 
 此生物无法说话或施放具有语言成分的法术
 
@@ -276,12 +276,12 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 外部链接](#外部链接)
 
 ## 出场
 
@@ -289,7 +289,7 @@ Stats
 
 如果队伍进入犬舍，戈迪会与他们对峙。如果[阿斯代伦](Astarion.md "阿斯代伦")在场，戈迪会嘲笑他并回忆所有折磨他的时光。如果被击败，戈迪会掉落一枚[扎尔家族戒指](Szarr_Family_Ring.md "扎尔家族戒指")，这枚戒指可以打开宅邸中的各种门。
 
-可以通过通过 DC 15 的[欺瞒](Deception.md "欺瞒")或[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")，然后通过 DC 20 的[游说](Persuasion.md "游说")、[欺瞒](Deception.md "欺瞒")或[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")来说服戈迪自愿交出戒指。通过两项检定可获得 95 点经验值。如果之后队伍杀了他，仍然可以获得全部 210 点经验值。
+可以通过通过 DC 15 的[欺瞒](Deception.md "欺瞒")或[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")，然后通过 DC 20 的[游说](Persuasion.md "游说")、[欺瞒](Deception.md "欺瞒")或[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")来说服戈迪自愿交出戒指。通过两项检定可获得 95 点经验值。如果之后队伍杀了他，仍然可以获得全部 210 点经验值。
 
 ## 战斗
 

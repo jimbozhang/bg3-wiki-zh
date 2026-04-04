@@ -56,7 +56,7 @@
 
 ## 备注
 
-- 最早出售[云巨人手指](Cloud_Giant_Finger.md "Cloud Giant Finger")的商人是[布尔格](Blurg.md "Blurg")和[德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak")，位于[幽暗地域](Underdark.md "Underdark")[蕈人殖民地](Myconid_Colony.md "Myconid Colony")，起始等级为 6。因此，在[第一幕](Act_One.md "Act One")期间就有可能[炼制](Alchemy.md "Alchemy")此灵药。
+- 最早出售[云巨人手指](Cloud_Giant_Finger.md "Cloud Giant Finger")的商人是[布尔格](Blurg.md "Blurg")和[德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak")，位于[幽暗地域](Underdark.md "Underdark")[蕈人殖民地](Myconid_Colony.md "Myconid Colony")，起始等级为 6。因此，在[第一幕](Act_One.md "Act One")期间就有可能[炼金术](Alchemy.md "炼金术")此灵药。
 - 由于此灵药提供的 27 点力量持续至长休，对于战士类型角色来说，它可以说是游戏中最有用的灵药之一。如果队伍在获得此灵药后有足够数量，可以将角色洗点为 8 点力量，并将属性点和专长分配到其他地方。例如：
   - 属性点可以重新分配到[敏捷](Dexterity.md "Dexterity")、[体质](Constitution.md "Constitution")或[智力](Intelligence.md "Intelligence")
   - [属性值提升](Feats.md#Ability_Improvement "Feats")专长可以用于[警觉](Alert.md "Alert")、[幸运](Lucky.md "Lucky")或[酒馆殴斗者](Tavern_Brawler.md "Tavern Brawler")

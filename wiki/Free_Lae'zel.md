@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-- [3 备注](#notes)
-- [4 错误](#bugs)
-- [5 任务奖励](#quest-rewards)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+- [3 备注](#备注)
+- [4 错误](#错误)
+- [5 任务奖励](#任务奖励)
 
 ## 目标
 
@@ -78,7 +78,7 @@
 - [圣武士] [游说] 你的猎物看起来很危险，但我处理过更糟的。交给我，去安全的地方。(DC 7)
 - [游说] 她是智慧生物，不是该被关起来的野兽。把她放下来，和她交谈。[DC 7]([note 1)](#cite_note-1)
 
-如果与侦察兵互动的队伍成员是[卓尔](Drow.md "Drow")、[半卓尔](Half-Elf.md#Half-Drow "Half-Elf")、[灰矮人](Duergar.md "Duergar")或[吉斯洋基人](Githyanki.md "Githyanki")，提夫林会立即变得敌对，除非通过 DC 5 的[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")。
+如果与侦察兵互动的队伍成员是[卓尔](Drow.md "Drow")、[半卓尔](Half-Elf.md#Half-Drow "Half-Elf")、[灰矮人](Duergar.md "Duergar")或[吉斯洋基人](Githyanki.md "Githyanki")，提夫林会立即变得敌对，除非通过 DC 5 的[威吓](Intimidation.md "Intimidation")[属性检定](Ability_Check.md "属性检定")。
 
 如果提夫林射下陷阱，队伍必须选择站在莱埃泽尔或提夫林一边。
 

@@ -85,19 +85,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 12 / (+1) | 15 / (+2) | 10 / (0) | 10 / (0) | 12 / (+1) |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -143,19 +143,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +5 | +1 | +4 | 0 | 0 | +1 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -201,19 +201,19 @@
 | --- | --- | --- | --- |
 |  | 3 | 1 | 0 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -243,17 +243,17 @@ UUID
 
 ## 内容
 
-- [1 参与](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 伙伴好感度](#companion-approval)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 闲聊](#idle-banter)
-- [6 画廊](#gallery)
-- [7 注释](#notes)
-- [8 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 第一幕](#第一幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 闲聊](#闲聊)
+- [6 画廊](#画廊)
+- [7 注释](#注释)
+- [8 外部链接](#外部链接)
 
 ## 参与
 
@@ -319,7 +319,7 @@ UUID
 
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
@@ -343,7 +343,7 @@ UUID
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法获得开放伤口。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 

@@ -2,7 +2,7 @@
 
 **交友术**
 
-- 对目标生物进行的[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。
+- 对目标生物进行的[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。
 
 在更高难度模式下，目标可能会指控你对他们施加了魅惑。
 
@@ -22,7 +22,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 对目标生物进行的[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。
+- 对目标生物进行的[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。
 
 在更高难度模式下，目标可能会指控你对他们施加了魅惑。
 

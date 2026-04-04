@@ -4,14 +4,14 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 从正门进入](#walking-through-the-front-door)
-  - [2.2 潜入飞龙岩](#sneaking-into-wyrm's-rock)
-  - [2.3 释放弗洛瑞克](#freeing-florrick)
-- [3 任务奖励](#quest-rewards)
-- [4 相关任务](#related-quests)
-- [5 伙伴好感度](#companion-approval)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 从正门进入](#从正门进入)
+  - [2.2 潜入飞龙岩](#潜入飞龙岩)
+  - [2.3 释放弗洛瑞克](#释放弗洛瑞克)
+- [3 任务奖励](#任务奖励)
+- [4 相关任务](#相关任务)
+- [5 伙伴好感度](#伙伴好感度)
 
 ## 目标
 
@@ -72,11 +72,11 @@
 
 通往飞龙岩监狱的墙缝。
 
-进入飞龙岩监狱后，在X: 91 Y: -720处有一堵墙可以用钝击攻击或法术（例如[魔能爆](Eldritch_Blast.md "Eldritch Blast")）炸开。这通向一个储藏室。门必须用撬锁打开。如果被发现，会有多个守卫与队伍对峙——需要成功潜行或通过DC 15的[欺瞒](Deception.md "Deception")[检定](Ability_Check.md "Ability check")。
+进入飞龙岩监狱后，在X: 91 Y: -720处有一堵墙可以用钝击攻击或法术（例如[魔能爆](Eldritch_Blast.md "Eldritch Blast")）炸开。这通向一个储藏室。门必须用撬锁打开。如果被发现，会有多个守卫与队伍对峙——需要成功潜行或通过DC 15的[欺瞒](Deception.md "Deception")[属性检定](Ability_Check.md "属性检定")。
 
 飞龙岩监狱地图。
 
-离开储藏室后，只有一名焰拳守卫看守前方的路——[焰拳伊瓦鲁斯](Ivarus.md "Ivarus")。经过他并向北走，队伍可以接近囚犯牢房。有一个带桌子的小凹室，坐着另外三名焰拳守卫（[焰拳贾吉克](Jagic.md "Jagic")、[焰拳桑德](Saunder.md "Saunder")和[焰拳克里克赖德](Creekrider.md "Creekrider")）。顾问弗洛瑞克在西北的牢房里。没有其他囚犯需要解救（唯一的另一个囚犯是奥托·奥特，他抱怨被放出牢房并拒绝离开）。弗洛瑞克的牢房可以用DC 15的[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability check")撬开。
+离开储藏室后，只有一名焰拳守卫看守前方的路——[焰拳伊瓦鲁斯](Ivarus.md "Ivarus")。经过他并向北走，队伍可以接近囚犯牢房。有一个带桌子的小凹室，坐着另外三名焰拳守卫（[焰拳贾吉克](Jagic.md "Jagic")、[焰拳桑德](Saunder.md "Saunder")和[焰拳克里克赖德](Creekrider.md "Creekrider")）。顾问弗洛瑞克在西北的牢房里。没有其他囚犯需要解救（唯一的另一个囚犯是奥托·奥特，他抱怨被放出牢房并拒绝离开）。弗洛瑞克的牢房可以用DC 15的[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")撬开。
 
 ### 释放弗洛瑞克
 

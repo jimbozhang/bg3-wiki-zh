@@ -57,19 +57,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛落**](Spider_Fall.md "蛛落")
+- [蛛落](Spider_Fall.md "蛛落")
 
 蛛丝网络减缓蜘蛛的下落，使其对坠落伤害具有抗性。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -101,13 +101,13 @@ UUID
 
 啃咬目标，造成 1d8 + 敏捷调整值⁠⁠[穿刺](Piercing.md "穿刺")伤害，并可能使其[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战: 1.5 米 (5 英尺)
 
 [蛛网术](Web_(Spider_Wild_Shape).md "蛛网术 (蜘蛛荒野形态)") ()
 喷出厚实、易燃的蛛网，减缓范围内的生物并可能使其[网缚](Enwebbed_(Condition).md "网缚 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程: 18 米 (60 英尺)
 
 [蛛形跳跃](Arachnid_Jump.md "蛛形跳跃") ()

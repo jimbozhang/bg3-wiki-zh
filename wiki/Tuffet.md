@@ -81,7 +81,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -125,7 +125,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -169,7 +169,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -210,7 +210,7 @@ UUID
 
 ### 第一幕
 
-塔菲特可以在林地的电梯附近找到，坐标 X: 240 Y: 485，正在睡觉。队伍可以通过[动物交谈](Speak_with_Animals.md "动物交谈")请她移动，或者给她一条[鱼](Fish.md "鱼")。如果在没有动物交谈的情况下互动，队伍成员可以通过通过 DC 10 [驯兽](Animal_Handling.md "驯兽") [检定](Ability_Check.md "属性检定")来轻推她离开。[游侠](Ranger.md "游侠")有独特选项，可以通过通过 DC 5 [表演](Performance.md "表演") [检定](Ability_Check.md "属性检定")来引诱她离开。
+塔菲特可以在林地的电梯附近找到，坐标 X: 240 Y: 485，正在睡觉。队伍可以通过[动物交谈](Speak_with_Animals.md "动物交谈")请她移动，或者给她一条[鱼](Fish.md "鱼")。如果在没有动物交谈的情况下互动，队伍成员可以通过通过 DC 10 [驯兽](Animal_Handling.md "驯兽") [属性检定](Ability_Check.md "属性检定")来轻推她离开。[游侠](Ranger.md "游侠")有独特选项，可以通过通过 DC 5 [表演](Performance.md "表演") [属性检定](Ability_Check.md "属性检定")来引诱她离开。
 
 一旦塔菲特移动到另一个位置，她会立即入睡，允许队伍使用电梯。
 

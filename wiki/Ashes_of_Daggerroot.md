@@ -1,6 +1,6 @@
 # 匕根草灰烬
 
-**匕根草灰烬**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[精准油](Oil_of_Accuracy.md "精准油")。
+**匕根草灰烬**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[精准油](Oil_of_Accuracy.md "精准油")。
 
 常以逝者之血为食的[匕根草](https://forgottenrealms.fandom.com/wiki/daggerroot)据说有助于制造新的受害者——这一特性在植物被干燥并焚烧后只会增强。
 

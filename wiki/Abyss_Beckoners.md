@@ -1,6 +1,6 @@
 # 深渊召唤者
 
-深渊召唤者是一副非常稀有的[手套](Handwear.md "Handwear")。它们能提高穿戴者召唤物的[伤害抗性](Resistance.md "Resistance")，但有风险使其陷入[疯狂](Demonspirit_Madness_(Condition).md "恶灵疯狂（状态）")。
+深渊召唤者是一副非常稀有的[手套](Handwear.md "Handwear")。它们能提高穿戴者召唤物的[抗性](Resistance.md "抗性")，但有风险使其陷入[疯狂](Demonspirit_Madness_(Condition).md "恶灵疯狂（状态）")。
 
 恶魔会撕咬它们的主人、奴隶、同伴，偶尔也会撕咬自己。它们撕咬是出于本能，本质上就是一群步骤稍多的食人鱼。
 

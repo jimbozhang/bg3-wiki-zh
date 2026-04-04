@@ -18,7 +18,7 @@
 [附赠动作](Actions.md#Resources "动作")
 
 - 吞噬药水
-  - 恢复 2d4+2⁠⁠[生命值](Healing.md "治疗")
+  - 恢复 2d4+2⁠⁠[治疗](Healing.md "治疗")
 - 移除[燃烧](Burning_(Condition).md "燃烧（状态）")
 
 [动作](Actions.md#Resources "动作")
@@ -33,7 +33,7 @@
 
 范围效果：1 米 (3 英尺) 半径
 
-恢复 2d4+2⁠⁠[生命值](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧（状态）")。
+恢复 2d4+2⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧（状态）")。
 
 类型：[云](Area.md#Cloud "区域")
 

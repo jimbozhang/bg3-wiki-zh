@@ -75,11 +75,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地 (状态)")而非杀死他们。
 
@@ -129,11 +129,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地 (状态)")而非杀死他们。
 
@@ -183,11 +183,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地 (状态)")而非杀死他们。
 
@@ -195,14 +195,14 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 邪念](#the-dark-urge)
-- [2 相关文献](#related-literature)
-- [3 图库](#gallery)
+- [1 出场](#出场)
+  - [1.1 邪念](#邪念)
+- [2 相关文献](#相关文献)
+- [3 图库](#图库)
 
 ## 出场
 
-堕落的巴尔后裔可以在[博德之门](Baldur's_Gate.md "博德之门")[底城区](Undercity.md "底城区")内[巴尔神殿](Bhaal_Temple.md "巴尔神殿")选民房间的[奥林](Orin.md "奥林")床边找到。根据附近上锁宝箱中的一本[书籍](Blood-Envy_for_the_Unworthy.md "不配者之妒血")，奥林曾计划将一条蠕虫放入巴尔后裔体内，使其成为无意识的仆人，但也提到要在其腐烂的尸体上重建神殿。
+堕落的巴尔后裔可以在[博德之门](Baldur's_Gate.md "博德之门")[底城区](Undercity.md "底城区")内[巴尔神殿](Bhaal_Temple.md "巴尔神殿")选民房间的[奥林](Orin.md "奥林")床边找到。根据附近上锁宝箱中的一本[不配者之妒血](Blood-Envy_for_the_Unworthy.md "不配者之妒血")，奥林曾计划将一条蠕虫放入巴尔后裔体内，使其成为无意识的仆人，但也提到要在其腐烂的尸体上重建神殿。
 
 与尸体互动时，玩家角色会评论道：“奥林很享受折磨这个可怜的灵魂。”
 

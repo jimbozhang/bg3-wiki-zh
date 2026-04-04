@@ -86,11 +86,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地 (状态)")而非杀死他们。
 
@@ -138,11 +138,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地 (状态)")而非杀死他们。
 
@@ -190,11 +190,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地 (状态)")而非杀死他们。
 
@@ -224,11 +224,11 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 猜测](#speculation)
-- [3 注释](#notes)
-- [4 参考文献](#references)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 猜测](#猜测)
+- [3 注释](#注释)
+- [4 参考文献](#参考文献)
 
 ## 出场
 
@@ -240,7 +240,7 @@ UUID
 
 克拉沃克斯试图拯救的这棵小树苗有可能面临变成[枯萎术](Blight.md "枯萎术")的风险，这是一种通常被邪恶力量污染的植物生物，有能力将整个[风景画](Landscape.md "风景画")变成荒芜的枯萎术感染荒地。<sup>[\[1\]](#cite_note-1)</sup>
 
-枯萎术源于并因其所在场所深处、黑暗或邪恶力量的影响而产生。这种邪恶的“[精华](Essence.md "精华")”会固有地腐蚀植被，并控制或使现有的健康生物质枯萎，能够在几天内撕裂整栋建筑。由于这棵小树苗正好位于[木乃伊领主](Mummy_Lord.md "木乃伊领主")[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")充满[不死生物](Undead.md "不死生物")和尸体的死灵法术宅邸与[扎尔宅邸](Szarr_Palace.md "扎尔宅邸")后门之间的十字路口，而[吸血鬼领主](Vampire.md "吸血鬼")[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")与他七千名[吸血鬼衍体](Vampire_spawn.md "吸血鬼衍体")就居住在扎尔宅邸，这或许可以解释小树苗的状况。
+枯萎术源于并因其所在场所深处、黑暗或邪恶力量的影响而产生。这种邪恶的“[精华](Essence.md "精华")”会固有地腐蚀植被，并控制或使现有的健康生物质枯萎，能够在几天内撕裂整栋建筑。由于这棵小树苗正好位于[木乃伊领主](Mummy_Lord.md "木乃伊领主")[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")充满[不死生物](Undead.md "不死生物")和尸体的死灵法术宅邸与[扎尔宅邸](Szarr_Palace.md "扎尔宅邸")后门之间的十字路口，而[吸血鬼](Vampire.md "吸血鬼")[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")与他七千名[吸血鬼衍体](Vampire_spawn.md "吸血鬼衍体")就居住在扎尔宅邸，这或许可以解释小树苗的状况。
 
 此外，已知最早的枯萎术起源是一位名为[古尔萨斯](https://forgottenrealms.fandom.com/wiki/Gulthias)的吸血鬼，他被木桩刺穿心脏。这根木桩最终会被吸血鬼的血液和污秽精华腐蚀，变成根须，然后衍生出一系列枯萎术。
 

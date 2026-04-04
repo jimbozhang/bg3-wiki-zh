@@ -33,7 +33,7 @@ UID
 
 ## 如何习得
 
-通过[熟练](Proficiency.md "熟练项")使用以下武器类型获得：
+通过[熟练项](Proficiency.md "熟练项")使用以下武器类型获得：
 
 - [战斧](Battleaxes.md "Battleaxes")
 - [巨斧](Greataxes.md "Greataxes")

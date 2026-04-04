@@ -22,7 +22,7 @@
 
 ## 备注
 
-- 可以用[闪亮的钥匙](Shiny_Key.md "闪亮的钥匙")打开，或通过通过 DC 15 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")打开
+- 可以用[闪亮的钥匙](Shiny_Key.md "闪亮的钥匙")打开，或通过通过 DC 15 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")打开
 
 ## 被动特性
 

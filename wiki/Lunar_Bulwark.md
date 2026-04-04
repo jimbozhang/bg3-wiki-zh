@@ -1,6 +1,6 @@
 # 月光壁垒
 
-**月光壁垒**是一个[1级防护学派法术](Spells.md "法术")。它由[奉献皎月长袍](Moon_Devotion_Robe.md "奉献皎月长袍")提供，允许穿着者每长休一次对自己施放相当于[魔法护甲](Mage_Armour.md "魔法护甲")效果的法术。_\[[参见：错误](#bugs)\]_
+**月光壁垒**是一个[法术](Spells.md "法术")。它由[奉献皎月长袍](Moon_Devotion_Robe.md "奉献皎月长袍")提供，允许穿着者每长休一次对自己施放相当于[魔法护甲](Mage_Armour.md "魔法护甲")效果的法术。_\[[参见：错误](#bugs)\]_
 
 ## 描述
 
@@ -46,11 +46,11 @@ UID
 
 ## 备注
 
-- 正常的基础[护甲等级](Armour_Class.md "护甲等级")是10 + [敏捷调整值](Dexterity.md "敏捷调整值")，而此法术将其改为13 + 敏捷调整值。
+- 正常的基础[护甲等级](Armour_Class.md "护甲等级")是10 + [敏捷](Dexterity.md "敏捷")，而此法术将其改为13 + 敏捷调整值。
 
   - 接受者仍会获得其他不改变其基础护甲等级的来源的加成，例如+1 护甲等级的[长袍](Robes.md "长袍")、[防御护腕](Bracers_of_Defence.md "防御护腕")、[虔诚护盾](Shield_of_Faith_(Condition).md "虔诚护盾 (状态)")等。
 
-- 标记为[轻型](Light_Armour.md "轻甲")、[中型](Medium_Armour.md "中甲")或[重型](Heavy_Armour.md "重甲")的[手套](Gloves.md "手套")和[头盔](Helmets.md "头盔")视为护甲，将阻止魔法护甲生效。
+- 标记为[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")或[重甲](Heavy_Armour.md "重甲")的[手套](Gloves.md "手套")和[头盔](Helmets.md "头盔")视为护甲，将阻止魔法护甲生效。
 
 - 魔法护甲在佩戴[盾牌](Shields.md "盾牌")时仍有效。
 

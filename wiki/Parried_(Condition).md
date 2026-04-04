@@ -2,7 +2,7 @@
 
 **招架**
 
-- 本回合已[招架](Githyanki_Parry.md "吉斯洋基招架")，需恢复后才能再次招架。
+- 本回合已[吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")，需恢复后才能再次招架。
 
 ## 属性
 
@@ -24,7 +24,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 本回合已[招架](Githyanki_Parry.md "吉斯洋基招架")，需恢复后才能再次招架。
+- 本回合已[吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")，需恢复后才能再次招架。
 
 ---
 *Source: [Parried (Condition)](https://bg3.wiki/wiki/Parried_(Condition)*

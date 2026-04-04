@@ -37,7 +37,7 @@ UID
 
 持续时间：1回合
 
-- 受影响实体对所有伤害[免疫](Immune.md "免疫")。当此效果结束时，实体将被治疗6d8⁠⁠[生命值](Healing.md "治疗")，除非该效果被[高等复原术](Greater_Restoration.md "高等复原术")或[移除诅咒](Remove_Curse.md "移除诅咒")提前结束。
+- 受影响实体对所有伤害[免疫](Immune.md "免疫")。当此效果结束时，实体将被治疗6d8⁠⁠[治疗](Healing.md "治疗")，除非该效果被[高等复原术](Greater_Restoration.md "高等复原术")或[移除诅咒](Remove_Curse.md "移除诅咒")提前结束。
 
 ## 状态：怒火之灵
 

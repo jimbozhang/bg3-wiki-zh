@@ -65,11 +65,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
@@ -117,11 +117,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
@@ -169,11 +169,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
@@ -195,10 +195,10 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 相关文献](#related-literature)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 相关文献](#相关文献)
 
 ## 出场
 

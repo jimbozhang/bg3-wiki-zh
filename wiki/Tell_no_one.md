@@ -20,7 +20,7 @@
 
 ## 文本
 
-\[一张指向[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")墙壁秘密破口的地图。看起来它可能通向监狱，并从那里进入要塞内部。\]
+\[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")墙壁秘密破口的地图。看起来它可能通向监狱，并从那里进入要塞内部。\]
 
 ---
 *Source: [Tell no one](https://bg3.wiki/wiki/Tell_no_one)*

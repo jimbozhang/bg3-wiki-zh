@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏方式](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-**邪恶符号**是[刺剑](Rapiers.md "Rapiers")武器家族中一种罕见的、轻度附魔（+1）变体。它是一种单手挥舞的[近战武器](Weapons.md "Weapons")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。
+**邪恶符号**是[刺剑](Rapiers.md "Rapiers")武器家族中一种罕见的、轻度附魔（+1）变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。
 
 在大多数人眼中，普通老鼠只是一堆有趣的疾病，但在散塔林会成员眼中，它们却是潜在的同事。
 

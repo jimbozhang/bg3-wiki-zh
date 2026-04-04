@@ -2,7 +2,7 @@
 
 **土元素虹吸**
 
-- 附近的土元素执政官使受影响实体获得对[中毒](Immune.md "免疫")伤害的[免疫](Immune.md "免疫")，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加3d8⁠⁠[中毒](Poison.md "中毒")伤害。
+- 附近的土元素执政官使受影响实体获得对[免疫](Immune.md "免疫")伤害的[免疫](Immune.md "免疫")，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加3d8⁠⁠[中毒](Poison.md "中毒")伤害。
 
 - 受影响实体还临时获得[繁彩球：毒素](Chromatic_Orb_colon__Poison.md "繁彩球：毒素")的使用权，以及每[驱散](Actions.md#Reactions "动作")额外一次[反应](Actions.md#Reactions "动作")。
 
@@ -24,7 +24,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 附近的土元素执政官使受影响实体获得对[中毒](Immune.md "免疫")伤害的[免疫](Immune.md "免疫")，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加3d8⁠⁠[中毒](Poison.md "中毒")伤害。
+- 附近的土元素执政官使受影响实体获得对[免疫](Immune.md "免疫")伤害的[免疫](Immune.md "免疫")，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加3d8⁠⁠[中毒](Poison.md "中毒")伤害。
 
 - 受影响实体还临时获得[繁彩球：毒素](Chromatic_Orb_colon__Poison.md "繁彩球：毒素")的使用权，以及每[驱散](Actions.md#Reactions "动作")额外一次[反应](Actions.md#Reactions "动作")。
 

@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏流程获得](Category_colon_Inaccessible.md "Category:Inaccessible")**，但仍可通过第三方工具访问。
 
-血缚剑是一种稀有的、轻度附魔（+1）的特殊长剑变体，属于[长剑](Longsword.md "Longsword")武器家族。这是一种[军用近战武器](Weapons.md "Weapons")，可单手持用，或双手持用以造成额外伤害。
+血缚剑是一种稀有的、轻度附魔（+1）的特殊长剑变体，属于[长剑](Longsword.md "Longsword")武器家族。这是一种[武器](Weapons.md "武器")，可单手持用，或双手持用以造成额外伤害。
 
 这把武器曾由星陨者氏族的狮形[奥法骑士](Eldritch_Knight.md "Eldritch Knight")赛普里斯使用，他以显而易见的才华应对心灵与情感的挑战，并以近乎太阳般的炽热强度与精湛技艺战斗。
 

@@ -18,7 +18,7 @@
 
 此物品的穿戴者获得：
 
-- 在[察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability Check")上获得[优势](Advantage.md "Advantage")。
+- 在[察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "Advantage")。
 
 [黑暗斗篷](Darkness_Cloak.md "Darkness Cloak") ()
 创造一团魔法黑暗并立即尝试[躲藏](Hiding_(Condition).md "Hiding (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）

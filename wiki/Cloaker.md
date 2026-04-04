@@ -53,19 +53,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**强光敏感**](Light_Sensitivity.md "强光敏感")
+- [强光敏感](Light_Sensitivity.md "强光敏感")
 
-处于强光下时，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
+处于强光下时，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[技能检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
 
 - \_(被动特性)[**多重攻击**](Multiattack_(Cloaker)_(passive_feature).md "多重攻击 (蛰伏伪怪) (被动特性)")
 
 如果目标处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态，可进行[多重攻击](Multiattack_(Cloaker).md "多重攻击 (蛰伏伪怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -101,19 +101,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**强光敏感**](Light_Sensitivity.md "强光敏感")
+- [强光敏感](Light_Sensitivity.md "强光敏感")
 
-处于强光下时，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
+处于强光下时，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[技能检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
 
 - \_(被动特性)[**多重攻击**](Multiattack_(Cloaker)_(passive_feature).md "多重攻击 (蛰伏伪怪) (被动特性)")
 
 如果目标处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态，可进行[多重攻击](Multiattack_(Cloaker).md "多重攻击 (蛰伏伪怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -149,23 +149,23 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")，且无法被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**强光敏感**](Light_Sensitivity.md "强光敏感")
+- [强光敏感](Light_Sensitivity.md "强光敏感")
 
-处于强光下时，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
+处于强光下时，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[技能检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
 
 - \_(被动特性)[**多重攻击**](Multiattack_(Cloaker)_(passive_feature).md "多重攻击 (蛰伏伪怪) (被动特性)")
 
 如果目标处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态，可进行[多重攻击](Multiattack_(Cloaker).md "多重攻击 (蛰伏伪怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -197,7 +197,7 @@ Stats
 
 蛰伏伪怪是大型飞行生物，形似大型蝠鲼。静止时通常会伪装，看起来像一件大披风。
 
-在第二幕中，可以在[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")的隐藏天然洞穴（坐标 X: -819 Y: -867）中找到一只蛰伏伪怪。它会伏击并[受惊](Surprised_(Condition).md "受惊 (状态)")队伍，可通过被动 DC 18 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")发现。
+在第二幕中，可以在[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")的隐藏天然洞穴（坐标 X: -819 Y: -867）中找到一只蛰伏伪怪。它会伏击并[受惊](Surprised_(Condition).md "受惊 (状态)")队伍，可通过被动 DC 18 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")发现。
 
 ### 种族特性
 
@@ -207,14 +207,14 @@ Stats
 大型
 
 [强光敏感](Light_Sensitivity.md "强光敏感")
-处于强光下时，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
+处于强光下时，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[技能检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
 
 \_(被动特性)[多重攻击](Multiattack_(Cloaker)_(passive_feature).md "多重攻击 (蛰伏伪怪) (被动特性)")
 如果目标处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态，可进行[多重攻击](Multiattack_(Cloaker).md "多重攻击 (蛰伏伪怪)")。
 
 ## 战斗
 
-蛰伏伪怪可以召唤自身的副本，称为[幻影术](Phantasm.md "幻影术")。
+蛰伏伪怪可以召唤自身的副本，称为[幻影](Phantasm.md "幻影")。
 
 ### 攻击与能力
 
@@ -254,7 +254,7 @@ Stats
 
 ### 战术
 
-- 蛰伏伪怪是[伏击者](Ambushing_(Condition).md "伏击 (状态)")，迫使队伍通过 DC 18 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")以避免被[受惊](Surprised_(Condition).md "受惊 (状态)")。此检定可在坐标 X: -805 Y: -862 的蘑菇平台上触发，该平台的高地位置便于轻松占据高地发起战斗。
+- 蛰伏伪怪是[伏击者](Ambushing_(Condition).md "伏击 (状态)")，迫使队伍通过 DC 18 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")以避免被[受惊](Surprised_(Condition).md "受惊 (状态)")。此检定可在坐标 X: -805 Y: -862 的蘑菇平台上触发，该平台的高地位置便于轻松占据高地发起战斗。
 - 它拥有可在敌人处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态时使用的多重攻击。然而，只有其幻影术能造成恐慌状态。
 
 ## 画廊

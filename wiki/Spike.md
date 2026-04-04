@@ -92,11 +92,11 @@ Male
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
@@ -144,11 +144,11 @@ Attack an enemy moving out of reach.
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
@@ -196,15 +196,15 @@ Attack an enemy moving out of reach.
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 When you damage a creature larger than you, you can choose to deal 1d6⁠⁠[Physical](Physical.md "Physical") extra. Limited to once per combat.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
@@ -252,15 +252,15 @@ Attack an enemy moving out of reach.
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 When you damage a creature larger than you, you can choose to deal 1d6⁠⁠[Physical](Physical.md "Physical") extra. Limited to once per combat.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
@@ -282,14 +282,14 @@ Stats
 
 ## Contents
 
-- [1 Involvement](#involvement)
-  - [1.1 Act One](#act-one)
-- [2 Combat](#combat)
-  - [2.1 Attacks and abilities](#attacks-and-abilities)
-  - [2.2 Loot](#loot)
-- [3 Speak with Dead](#speak-with-dead)
-- [4 Notes](#notes)
-- [5 External links](#external-links)
+- [1 Involvement](#Involvement)
+  - [1.1 Act One](#Act-One)
+- [2 Combat](#Combat)
+  - [2.1 Attacks and abilities](#Attacks-and-abilities)
+  - [2.2 Loot](#Loot)
+- [3 Speak with Dead](#Speak-with-Dead)
+- [4 Notes](#Notes)
+- [5 External links](#External-links)
 
 ## Involvement
 

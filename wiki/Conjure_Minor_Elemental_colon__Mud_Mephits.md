@@ -1,6 +1,6 @@
 # 召唤初级元素生物：泥魔蝠
 
-**召唤初级元素生物：泥魔蝠** 是一个 [等级 4 咒法学派法术](Spells.md "Spells")。它是 [召唤初级元素生物](Conjure_Minor_Elemental.md "Conjure_Minor_Elemental") 的一个变体，可以召唤两个 [泥魔蝠](Mud_Mephit.md "Mud_Mephit")。
+**召唤初级元素生物：泥魔蝠** 是一个 [法术](Spells.md "法术")。它是 [召唤初级元素生物](Conjure_Minor_Elemental.md "Conjure_Minor_Elemental") 的一个变体，可以召唤两个 [泥魔蝠](Mud_Mephit.md "Mud_Mephit")。
 
 ## 描述
 

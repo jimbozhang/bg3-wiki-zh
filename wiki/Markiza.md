@@ -73,7 +73,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -117,7 +117,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -161,7 +161,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -179,7 +179,7 @@ UUID
 
 Stats
 
-`Human_Child` **马吉扎**是[博德之门](Baldur's_Gate.md "Baldur's Gate")的[博德人](Baldur's_Gate.md "Baldur's Gate")儿童，出现在[第三幕](Act_Three.md "Act Three")的[下城区](Lower_City.md "Lower City")。
+`Human_Child` **马吉扎**是[博德之门](Baldur's_Gate.md "Baldur's Gate")的[博德之门](Baldur's_Gate.md "博德之门")儿童，出现在[第三幕](Act_Three.md "Act Three")的[下城区](Lower_City.md "Lower City")。
 
 > “
 >

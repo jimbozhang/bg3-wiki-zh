@@ -6,18 +6,18 @@
 
 ## 目录
 
-- [1 箭矢的工作原理](#how-arrows-work)
-- [2 普通箭矢](#regular-arrows)
-- [3 特殊箭矢](#special-arrows)
-- [4 不可用箭矢](#unusable-arrows)
-- [5 不可获得箭矢](#unavailable-arrows)
-- [6 图库](#gallery)
+- [1 箭矢的工作原理](#箭矢的工作原理)
+- [2 普通箭矢](#普通箭矢)
+- [3 特殊箭矢](#特殊箭矢)
+- [4 不可用箭矢](#不可用箭矢)
+- [5 不可获得箭矢](#不可获得箭矢)
+- [6 图库](#图库)
 
 ## 箭矢的工作原理
 
 博德之门3中的箭矢遵循与第五版龙与地下城规则集不同的规则。以下是BG3中箭矢工作原理的一些要点：
 
-- 虽然游戏中有普通箭矢，但它们是不可用的[杂物](Miscellaneous.md "Miscellaneous")物品。所有远程[武器](Weapons.md "Weapons")在发射时都不需要角色库存中有弹药。相反，游戏中唯一可用的箭矢是具有多种不同效果的特殊[消耗品](Consumables.md "Consumables")，例如提供元素伤害或创造各种地表。[弓](Bow.md "Bow")和弩使用的箭矢是相同的。
+- 虽然游戏中有普通箭矢，但它们是不可用的[杂物](Miscellaneous.md "Miscellaneous")物品。所有远程[武器](Weapons.md "Weapons")在发射时都不需要角色库存中有弹药。相反，游戏中唯一可用的箭矢是具有多种不同效果的特殊[消耗品](Consumables.md "Consumables")，例如提供元素伤害或创造各种地表。[鞠躬](Bow.md "鞠躬")和弩使用的箭矢是相同的。
 - 大多数箭矢也可以与[额外攻击](Extra_Attack.md "Extra Attack")一起使用。例外是[慰藉箭](Arrow_of_Salving.md "Arrow of Salving")和[置换箭](Arrow_of_Transposition.md "Arrow_of_Transposition")，它们会消耗使用者的整个[动作](Actions.md "Actions")。
 - 箭矢不能用于副手远程攻击或特殊攻击，例如[灭族者（远程）](Horde_Breaker_(Ranged).md "Horde Breaker (Ranged)")或[惧怖伏兵（远程）](Dread_Ambusher_(Ranged).md "Dread Ambusher (Ranged)")。
 - 范围效果箭矢的伤害不会施加给目标附近的单位，但状态效果会施加，[轰雷箭](Arrow_of_Roaring_Thunder.md "Arrow_of_Roaring_Thunder")的击退效果除外。此外，[多靶箭](Arrow_of_Many_Targets.md "Arrow_of Many Targets")对（最多）三个附近的次要目标造成一半伤害。
@@ -69,7 +69,7 @@
 
 - [奥术鱼叉箭](Arcane_Harpoon_Arrow.md "Arcane Harpoon Arrow")
 - [麻雀必杀箭](Arrow_of_Sparrow_Slaying.md "Arrow of Sparrow Slaying")
-- [箭矢](Arrow.md "Arrow")
+- [箭](Arrow.md "箭")
 - [床弩箭](Ballista_Arrow.md "Ballista Arrow")
 
 ## 不可获得箭矢

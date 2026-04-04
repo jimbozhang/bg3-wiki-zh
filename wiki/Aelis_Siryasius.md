@@ -110,7 +110,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -118,7 +118,7 @@
 
 6级时：[火焰](Fire.md "火焰")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
 
-- [**龙族韧性**](Draconic_Resilience.md "龙族韧性")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
 
 不穿护甲时，基础[护甲等级](Armour_Class.md "护甲等级")为13。
 
@@ -126,19 +126,19 @@
 
 当你施放与你龙族血统相关的伤害类型的法术时，你会将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**火焰护罩**](Flaming_Shroud.md "火焰护罩")
+- [火焰护罩](Flaming_Shroud.md "火焰护罩")
 
 在2米（7英尺）内伤害你的生物会获得燃烧状态。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉技能检定具有劣势。
 
@@ -200,7 +200,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -208,7 +208,7 @@
 
 6级时：[火焰](Fire.md "火焰")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
 
-- [**龙族韧性**](Draconic_Resilience.md "龙族韧性")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
 
 不穿护甲时，基础[护甲等级](Armour_Class.md "护甲等级")为13。
 
@@ -216,19 +216,19 @@
 
 当你施放与你龙族血统相关的伤害类型的法术时，你会将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**火焰护罩**](Flaming_Shroud.md "火焰护罩")
+- [火焰护罩](Flaming_Shroud.md "火焰护罩")
 
 在2米（7英尺）内伤害你的生物会获得燃烧状态。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉技能检定具有劣势。
 
@@ -294,7 +294,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -302,7 +302,7 @@
 
 6级时：[火焰](Fire.md "火焰")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
 
-- [**龙族韧性**](Draconic_Resilience.md "龙族韧性")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
 
 不穿护甲时，基础[护甲等级](Armour_Class.md "护甲等级")为13。
 
@@ -310,27 +310,27 @@
 
 当你施放与你龙族血统相关的伤害类型的法术时，你会将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**火焰护罩**](Flaming_Shroud.md "火焰护罩")
+- [火焰护罩](Flaming_Shroud.md "火焰护罩")
 
 在2米（7英尺）内伤害你的生物会获得燃烧状态。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个活物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**不死适应**](Inured_to_Undeath.md "不死适应")
+- [不死适应](Inured_to_Undeath.md "不死适应")
 
 你已完全沉浸在死亡之中，因此[抗性](Resistant.md "抗性")黯蚀伤害，且你的[生命值](Hit_Points.md "生命值")上限无法被降低。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉技能检定具有劣势。
 
@@ -360,17 +360,17 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 遭遇详情](#encounter-details)
-  - [2.4 战术](#tactics)
-- [3 战利品](#loot)
-- [4 相关文献](#related-literature)
-- [5 死者交谈](#speak-with-dead)
-- [6 注释与参考](#notes-and-references)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 遭遇详情](#遭遇详情)
+  - [2.4 战术](#战术)
+- [3 战利品](#战利品)
+- [4 相关文献](#相关文献)
+- [5 死者交谈](#死者交谈)
+- [6 注释与参考](#注释与参考)
 
 ## 出场
 
@@ -395,7 +395,7 @@ UUID
 
 ### 攻击与能力
 
-[火球术术](Fireball.md "火球术术") (+ )
+[火球术](Fireball.md "火球术") (+ )
 
 伤害：8~48
 
@@ -470,13 +470,13 @@ UUID
 
 ### 遭遇详情
 
-艾丽丝可以施放⁠[火焰](Fire.md "火焰")伤害法术点燃覆盖着[油脂](Grease_(surface).md "油脂 (地表)")的地面。他还可以使用[飞行术](Fly.md "飞行术")到达战场上的更佳位置。
+艾丽丝可以施放⁠[火焰](Fire.md "火焰")伤害法术点燃覆盖着[油脂](Grease_(surface).md "油脂 (地表)")的地面。他还可以使用[飞行](Fly.md "飞行")到达战场上的更佳位置。
 
 在平衡难度下，艾丽丝会召唤大量[魔蝠](Mephit.md "魔蝠")，它们可以施放[灼热金属](Heat_Metal.md "灼热金属")。魔蝠在视线外被召唤，并且可以[飞行](Fly.md "飞行")，使它们能够迅速接近队伍，当它们被杀死时会造成范围火焰伤害爆炸。然而，他的一些油脂召唤物距离较远，无法立即加入战斗。所有油脂召唤物都对火焰伤害脆弱。
 
 ### 战术
 
-火焰伤害法术如[灼热射线](Scorching_Ray.md "灼热射线")、[火球术术](Fireball.md "火球术术")和[火墙术](Wall_of_Fire.md "火墙术")会点燃[油脂](Grease_(surface).md "油脂 (地表)")并伤害他的所有盟友，由于油脂召唤物对火焰脆弱，能将其大量消灭，尽管艾丽丝本人对火焰伤害有抗性。<sup>[\[1\]](#cite_note-1)</sup>
+火焰伤害法术如[灼热射线](Scorching_Ray.md "灼热射线")、[火球术](Fireball.md "火球术")和[火墙术](Wall_of_Fire.md "火墙术")会点燃[油脂](Grease_(surface).md "油脂 (地表)")并伤害他的所有盟友，由于油脂召唤物对火焰脆弱，能将其大量消灭，尽管艾丽丝本人对火焰伤害有抗性。<sup>[\[1\]](#cite_note-1)</sup>
 
 以召唤的[火元素](Fire_Elemental.md "火元素")开始战斗会使油脂点燃（移除滑倒危险并造成附带燃烧伤害），并且似乎会将大部分敌意吸引到火元素身上；艾丽丝专注于四处飞行并攻击火元素。
 
@@ -526,7 +526,7 @@ UUID
 
 ## 注释与参考
 
-1. [↑](#cite_ref-1) 以[火球术术](Fireball.md "火球术术")开始战斗会点燃油脂并造成预期的1D4燃烧伤害（+1D4对脆弱目标），但不会对范围内的目标施加实际的火球术术伤害（火球术术在日志中被记录，但从未施加任何伤害）。
+1. [↑](#cite_ref-1) 以[火球术](Fireball.md "火球术")开始战斗会点燃油脂并造成预期的1D4燃烧伤害（+1D4对脆弱目标），但不会对范围内的目标施加实际的火球术术伤害（火球术术在日志中被记录，但从未施加任何伤害）。
 
 ---
 *Source: [Aelis Siryasius](https://bg3.wiki/wiki/Aelis_Siryasius)*

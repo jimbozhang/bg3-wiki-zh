@@ -94,15 +94,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -150,15 +150,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -206,15 +206,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -250,7 +250,7 @@ UUID
 | --- | --- | --- | --- | --- | --- |
 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-埃皮库西斯可以在[圣池](Sacred_Pool.md "圣池")找到，她正在与一只名为[提米雅克](Tingmiaq.md "提米雅克")的鸟窃窃私语，并且与[荆棘仪式](Rite_of_Thorns_(ritual)保持距离.md)。如果通过DC 10的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")，她会透露自己不同意[卡哈](Kagha.md "卡哈")的观点，并且刚刚派[提米雅克](Tingmiaq.md "提米雅克")去寻找他们的[第一德鲁伊哈尔辛](Halsin.md "哈尔辛")。如果以任何方式攻击或骚扰德鲁伊，她不会加入队伍，而是帮助她的同伴。在完成[调查卡哈](Investigate_Kagha.md "调查卡哈")后，埃皮库西斯为卡哈感到担忧，并因队伍阻止了她的行动而松了一口气。
+埃皮库西斯可以在[圣池](Sacred_Pool.md "圣池")找到，她正在与一只名为[提米雅克](Tingmiaq.md "提米雅克")的鸟窃窃私语，并且与[荆棘仪式](Rite_of_Thorns_(ritual)保持距离.md)。如果通过DC 10的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")，她会透露自己不同意[卡哈](Kagha.md "卡哈")的观点，并且刚刚派[提米雅克](Tingmiaq.md "提米雅克")去寻找他们的[哈尔辛](Halsin.md "哈尔辛")。如果以任何方式攻击或骚扰德鲁伊，她不会加入队伍，而是帮助她的同伴。在完成[调查卡哈](Investigate_Kagha.md "调查卡哈")后，埃皮库西斯为卡哈感到担忧，并因队伍阻止了她的行动而松了一口气。
 
 ## 战斗
 

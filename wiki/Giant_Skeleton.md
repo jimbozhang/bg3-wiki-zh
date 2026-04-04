@@ -63,15 +63,15 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**沉默**](Silent.md "沉默")
+- [沉默](Silent.md "沉默")
 
 此生物无法说话或施放具有言语成分的法术。
 
@@ -117,15 +117,15 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**沉默**](Silent.md "沉默")
+- [沉默](Silent.md "沉默")
 
 此生物无法说话或施放具有言语成分的法术。
 
@@ -171,15 +171,15 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**沉默**](Silent.md "沉默")
+- [沉默](Silent.md "沉默")
 
 此生物无法说话或施放具有言语成分的法术。
 

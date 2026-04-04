@@ -108,21 +108,21 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 当你使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍造成等于 [力量](STR.md "STR") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 探索者难度属性
 
@@ -176,21 +176,21 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 当你使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍造成等于 [力量](STR.md "STR") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 硬核难度属性
 
@@ -244,25 +244,25 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 当你使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "Sculpt Spells")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者的法术豁免检定。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍造成等于 [力量](STR.md "STR") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 技术
 
@@ -290,25 +290,25 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 硬核](#tactician)
-  - [2.2 战术](#tactics)
-  - [2.3 战利品](#loot)
-- [3 笔记](#notes)
-- [4 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 硬核](#硬核)
+  - [2.2 战术](#战术)
+  - [2.3 战利品](#战利品)
+- [3 笔记](#笔记)
+- [4 外部链接](#外部链接)
 
 ## 参与
 
 ### 第二幕
 
-拉迪娅可以在通往 [塔顶](Moonrise_Towers_Rooftop.md "Moonrise Towers Rooftop") 的华丽门外遇到。如果 [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm") 已经在屋顶上，队伍可以请求与他见面，但她会拒绝。
+拉迪娅可以在通往 [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶") 的华丽门外遇到。如果 [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm") 已经在屋顶上，队伍可以请求与他见面，但她会拒绝。
 
 与狂热者、侍僧和其他 [绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute") 成员不同，萨拉贝勒和其他 [灵魂侍女](Mistress_of_Souls.md "Mistress of Souls") 似乎完全清楚绝对真神是什么，以及他们正在实施的宗教骗局。<sup>[\[2\]](#cite_note-2)</sup> 这种更深刻的理解（以及随之而来的蔑视）也由其他服务于 [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm") 的米尔寇派系高阶死灵法师所共享，[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter") 哀叹她所接触到的被感染者的软弱奴性，而 [巴萨扎尔](Balthazar.md "Balthazar") 则用玩家角色脑中寄生蠕虫的状态作为骂人话。
 
-拉迪娅暗示，绝对真神教团的活动远不止夺心魔感染。如果通过 DC 14 [感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "Ability check")，就会揭示尽管地位崇高，拉迪娅自己并没有寄生虫，并且蔑视真魂者，视其为不知情的工具。
+拉迪娅暗示，绝对真神教团的活动远不止夺心魔感染。如果通过 DC 14 [感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定")，就会揭示尽管地位崇高，拉迪娅自己并没有寄生虫，并且蔑视真魂者，视其为不知情的工具。
 
 ## 战斗
 
@@ -338,7 +338,7 @@ Stats
 射程: 正常武器射程
 充能: [短休](Short_rest.md "Short rest")
 
-[火球术术](Fireball.md "Fireball") (+ )
+[火球术](Fireball.md "火球术") (+ )
 
 伤害: 8~48
 
@@ -408,7 +408,7 @@ Stats
 
 ### 战术
 
-拉迪娅是一名 [法师](Wizard.md "Wizard")，由 [死灵侍僧](Necromite.md "Necromite") 加入。她通常会施放 [火球术术](Fireball.md "Fireball")，并使用她的 [附赠动作](Actions.md#Resources "Actions") 通过 [孵化死亡](Incubate_Death.md "Incubate Death") 创造另一个死灵侍僧。
+拉迪娅是一名 [法师](Wizard.md "Wizard")，由 [死灵侍僧](Necromite.md "Necromite") 加入。她通常会施放 [火球术](Fireball.md "火球术")，并使用她的 [附赠动作](Actions.md#Resources "Actions") 通过 [孵化死亡](Incubate_Death.md "Incubate Death") 创造另一个死灵侍僧。
 
 ### 战利品
 

@@ -1,6 +1,6 @@
 # 龙裔威能灵药：冰霜
 
-龙裔威能灵药：冰霜是一种独特的稀有[灵药](Elixirs.md "Elixirs")，由冰霜龙裔的所有最佳特质蒸馏而成。你获得[威吓](Intimidation.md "威吓")和[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")的[优势](Advantage.md "优势")，对[寒冷伤害](Cold_Damage.md "寒冷伤害")的[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")前使用一次[冰风暴](Ice_Storm.md "冰风暴")。
+龙裔威能灵药：冰霜是一种独特的稀有[灵药](Elixirs.md "Elixirs")，由冰霜龙裔的所有最佳特质蒸馏而成。你获得[威吓](Intimidation.md "威吓")和[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")的[优势](Advantage.md "优势")，对[寒冷伤害](Cold_Damage.md "寒冷伤害")的[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")前使用一次[冰风暴](Ice_Storm.md "冰风暴")。
 
 这是血液供应商[阿拉吉·欧布罗扎](Araj_Oblodra.md "阿拉吉·欧布罗扎")的灵药之一，由特定的血液特质蒸馏而成，其属性与同样特定的种族相符。
 

@@ -51,7 +51,7 @@
 飞向目标位置
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态时恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态时恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[治疗](Healing.md "治疗")。
 
 [啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠 (恐鸦)") ()
 攻击生物的眼睛并使其[目盲](Blinded_(Condition).md "目盲 (状态)")。

@@ -19,8 +19,8 @@ Modding 指南
 
 ## 目录
 
-- [1 使用此资源的信息](#information-on-using-this-resource)
-- [2 矮人](#dwarves)
+- [1 使用此资源的信息](#使用此资源的信息)
+- [2 矮人](#矮人)
 - [3 精灵](#elves)
 - [4 吉斯洋基人](#githyanki)
 - [5 侏儒](#gnomes)

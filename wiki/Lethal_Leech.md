@@ -1,6 +1,6 @@
 # 致命吸血术
 
-**致命吸血术**是[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")的其中一个职业动作，允许他使用[手动吸血器](Artificial_Leech.md "Artificial Leech")从目标身上抽取血液，造成穿刺伤害并可能引发[流血](Bleeding_(Condition).md "流血（状态）")。马鲁斯必须先让他的[助手](Sister_Geanne.md "珍妮姐妹")将工具递给他。
+**致命吸血术**是[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")的其中一个职业动作，允许他使用[手动吸血器](Artificial_Leech.md "Artificial Leech")从目标身上抽取血液，造成穿刺伤害并可能引发[流血](Bleeding_(Condition).md "流血（状态）")。马鲁斯必须先让他的[珍妮姐妹](Sister_Geanne.md "珍妮姐妹")将工具递给他。
 
 ## 描述
 

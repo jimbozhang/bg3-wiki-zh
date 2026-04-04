@@ -44,7 +44,7 @@ _若你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获
 
 持续时间：2 驱散
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 12)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 12)
 
 - 生物无法说话或施放带有言语成分的法术，且免疫 ⁠[雷鸣](Thunder.md "雷鸣") 伤害。
 

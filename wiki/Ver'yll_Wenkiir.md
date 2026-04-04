@@ -73,27 +73,27 @@
 
 ## 特性
 
-- [**驯兽师**](Beast_Tamer.md "驯兽师")
+- [驯兽师](Beast_Tamer.md "驯兽师")
 
 你与动物建立了牢固的联系。你可以施放[获得魔宠](Find_Familiar.md "获得魔宠")而无需消耗[法术位](Spell_Slot.md "法术位")。
 
-- [**卓尔武器训练**](Drow_Weapon_Training.md "卓尔武器训练")
+- [卓尔武器训练](Drow_Weapon_Training.md "卓尔武器训练")
 
 熟练掌握[刺剑](Rapiers.md "刺剑")、[短剑](Shortswords.md "短剑")和[手弩](Hand_Crossbows.md "手弩")。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
 
 你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -129,10 +129,10 @@ UUID
 
 ## 目录
 
-- [1 背景故事](#backstory)
-- [2 成就](#achievements)
-- [3 注释](#notes)
-- [4 外部链接](#external-links)
+- [1 背景故事](#背景故事)
+- [2 成就](#成就)
+- [3 注释](#注释)
+- [4 外部链接](#外部链接)
 
 ## 背景故事
 

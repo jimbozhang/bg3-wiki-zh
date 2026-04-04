@@ -47,7 +47,7 @@
 对附近的敌人咆哮，挑衅他们攻击你。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术位")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每法术位等级恢复1d8[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术位")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每法术位等级恢复1d8[治疗](Healing.md "治疗")。
 
 ## 如何学习
 

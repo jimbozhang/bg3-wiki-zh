@@ -2,7 +2,7 @@
 
 另请参阅：[巨化](Enlarge.md "巨化")
 
-**巨化**是一种[戏法](Spells.md "Spells")。这种种族法术允许灰矮人增大其体型。受影响的生物使用武器造成更多伤害，并在[力量](Strength.md "Strength")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。
+**巨化**是一种[法术](Spells.md "法术")。这种种族法术允许灰矮人增大其体型。受影响的生物使用武器造成更多伤害，并在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。
 
 ## 描述
 
@@ -25,7 +25,7 @@
 持续时间：10 驱散
 
 - [体型](Creature_size.md "生物体型")增大。
-- 武器攻击额外造成 **1d4** 伤害。在[力量](Strength.md "Strength")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。
+- 武器攻击额外造成 **1d4** 伤害。在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。
 
 ## 如何习得
 

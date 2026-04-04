@@ -68,11 +68,11 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放一个[法术或戏法](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
+在施放一个[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
@@ -114,11 +114,11 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放一个[法术或戏法](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
+在施放一个[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
@@ -160,15 +160,15 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放一个[法术或戏法](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
+在施放一个[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕根深蒂固。
 
@@ -192,14 +192,14 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 命名的熟手](#named-gish)
-  - [3.1 山隘](#mountain-pass)
-  - [3.2 伊雷珂养育间](#cr%C3%A8che_Y'llek)
-- [4 图库](#gallery)
-- [5 注释](#notes)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 命名的熟手](#命名的熟手)
+  - [3.1 山隘](#山隘)
+  - [3.2 伊雷珂养育间](#伊雷珂养育间)
+- [4 图库](#图库)
+- [5 注释](#注释)
 
 ## 参与
 
@@ -214,7 +214,7 @@
 [失明术](Blindness.md "失明术") (+ )
 限制敌人的视野范围。更容易命中，且该生物会更频繁地失手。对其的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，且敌人攻击时具有[劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [燃烧之手](Burning_Hands.md "燃烧之手") (+ )
@@ -225,13 +225,13 @@
 
 每个可燃目标都会受到 3d6⁠⁠[火焰](Fire.md "火焰")伤害。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 范围：自身
 
 [人类定身术](Hold_Person.md "人类定身术") (+ )
-定住一个类人敌人。他们无法[移动](Movement_speed.md "移动速度")、[行动](Action.md "动作")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
+定住一个类人敌人。他们无法[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 
-[感](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [迷踪步](Misty_Step.md "迷踪步") ()

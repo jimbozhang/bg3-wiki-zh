@@ -1,6 +1,6 @@
 # 山丘巨人的手指
 
-**山丘巨人的手指**是一种[炼金术材料](Alchemy.md "炼金术")。将3个这种材料研磨成[山丘巨人的指甲盖](Salts_of_Hill_Giant_Fingernails.md "山丘巨人的指甲盖")，用于制作[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")。
+**山丘巨人的手指**是一种[炼金术](Alchemy.md "炼金术")。将3个这种材料研磨成[山丘巨人的指甲盖](Salts_of_Hill_Giant_Fingernails.md "山丘巨人的指甲盖")，用于制作[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")。
 
 由于手指的巨大尺寸，指甲下粘附的任何真菌、泥巴和肉肉都清晰得令人痛苦。
 

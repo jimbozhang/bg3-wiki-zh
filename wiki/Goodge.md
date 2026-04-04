@@ -98,15 +98,15 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合以[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可以重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
@@ -162,15 +162,15 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合以[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可以重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
@@ -226,15 +226,15 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合以[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可以重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
@@ -264,20 +264,20 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 显著战利品](#notable-loot)
-- [3 笔记](#notes)
-- [4 参考文献](#references)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 显著战利品](#显著战利品)
+- [3 笔记](#笔记)
+- [4 参考文献](#参考文献)
 
 ## 参与
 
 在至高大殿的初始战斗中，一支从[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")而来的大量绝对教派信徒摧毁了要塞，并将城市卫士击溃，迫使卫士的残余部队逃离。<sup>[\[1\]](#cite_note-1)</sup> 面对惨重的伤亡，卫士的最后残余由古奇、[埃伯](Ebber.md "Ebber")、[弗莱](Fry.md "Fry")、[乔迪](Gyordi.md "Gyordi")、[马修](Matthew.md "Matthew")和[普雷恩](Preyn.md "Preyn")组成。一名[夺心魔](Mind_flayer.md "Mind Flayer")在卫士们试图逃离至高大殿时杀死了马修和普雷恩，随后与队伍对峙。马修死亡时，古奇震惊地喊出了他的名字。
 
-如果队伍中存在夺心魔（无论是玩家角色、[卡菈克](Karlach.md "Karlach")、[君主](The_Emperor.md "The Emperor")还是[俄耳甫斯](Orpheus.md "Orpheus")），古奇和由乔迪带领的剩余卫士会对队伍感到恐慌。成功通过被动DC 20的[洞悉](Insight.md "Insight") [检定](Ability_Check.md "Ability check")后，可以选择让剩余的卫士在队伍身边战斗。夺心魔玩家角色可以通过DC 18的[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")或[力量](Strength.md "Strength") [检定](Ability_Check.md "Ability check")说服他们参与即将到来的战斗作为盟友。非夺心魔必须通过DC 20的[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")、[欺瞒](Deception.md "Deception")或[力量](Strength.md "Strength") [检定](Ability_Check.md "Ability check")来说服他们。
+如果队伍中存在夺心魔（无论是玩家角色、[卡菈克](Karlach.md "Karlach")、[君主](The_Emperor.md "The Emperor")还是[俄耳甫斯](Orpheus.md "Orpheus")），古奇和由乔迪带领的剩余卫士会对队伍感到恐慌。成功通过被动DC 20的[洞悉](Insight.md "Insight") [属性检定](Ability_Check.md "属性检定")后，可以选择让剩余的卫士在队伍身边战斗。夺心魔玩家角色可以通过DC 18的[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")或[力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")说服他们参与即将到来的战斗作为盟友。非夺心魔必须通过DC 20的[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")、[欺瞒](Deception.md "Deception")或[力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")来说服他们。
 
-如果队伍中的夺心魔距离太远，并且对话开始时卫士们没有注意到它，除了[法师](Wizard.md "Wizard")之外的所有职业也会获得一个特殊的DC 20[奥秘](Arcana.md "Arcana")、[洞悉](Insight.md "Insight")、[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")或[欺瞒](Deception.md "Deception") [检定](Ability_Check.md "Ability check")来说服他们，或者两个通用的DC 20[感知](Wisdom.md "Wisdom")或[游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check")。
+如果队伍中的夺心魔距离太远，并且对话开始时卫士们没有注意到它，除了[法师](Wizard.md "Wizard")之外的所有职业也会获得一个特殊的DC 20[奥秘](Arcana.md "Arcana")、[洞悉](Insight.md "Insight")、[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")或[欺瞒](Deception.md "Deception") [属性检定](Ability_Check.md "属性检定")来说服他们，或者两个通用的DC 20[感知](Wisdom.md "Wisdom")或[游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定")。
 
 如果互动的队伍成员通过了任何这些检定，乔迪会集结剩余的卫士，并鼓励他们在庭院战斗中与队伍并肩作战。
 

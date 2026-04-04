@@ -26,10 +26,10 @@
 | [有毒烟雾](Noxious_Fumes.md "Noxious Fumes") | 每回合造成1d4⁠⁠[中毒](Poison.md "Poison") + 2d4⁠⁠[中毒](Poison.md "Poison")（体质豁免减半）伤害。 |
 | [抚慰孢子](Pacifying_Spores_(cloud).md "Pacifying Spores (cloud)") | 阻止云内生物进行动作、附赠动作和反应。 |
 | [毒云](Poison_Cloud.md "Poison Cloud") | 使区域内生物有机会[中毒](Poisoned_(Condition).md "Poisoned (Condition)")。 |
-| [高等治疗药水](Potion_of_Greater_Healing_(cloud).md "Potion of Greater Healing (cloud)") | 恢复4d4+4⁠⁠[生命值](Healing.md "Healing")并停止[燃烧](Burning_(Condition).md "Burning (Condition)")。 |
-| [治疗药水](Potion_of_Healing_(cloud).md "Potion of Healing (cloud)") | 恢复2d4+2⁠⁠[生命值](Healing.md "Healing")并停止[燃烧](Burning_(Condition).md "Burning (Condition)")。 |
-| [特效治疗药水](Potion_of_Superior_Healing_(cloud).md "Potion of Superior Healing (cloud)") | 恢复8d4+8⁠⁠[生命值](Healing.md "Healing")并停止[燃烧](Burning_(Condition).md "Burning (Condition)")。 |
-| [极效治疗药水](Potion_of_Supreme_Healing_(cloud).md "Potion of Supreme Healing (cloud)") | 恢复10d4+20⁠⁠[生命值](Healing.md "Healing")并停止[燃烧](Burning_(Condition).md "Burning (Condition)")。 |
+| [高等治疗药水](Potion_of_Greater_Healing_(cloud).md "Potion of Greater Healing (cloud)") | 恢复4d4+4⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "Burning (Condition)")。 |
+| [治疗药水](Potion_of_Healing_(cloud).md "Potion of Healing (cloud)") | 恢复2d4+2⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "Burning (Condition)")。 |
+| [特效治疗药水](Potion_of_Superior_Healing_(cloud).md "Potion of Superior Healing (cloud)") | 恢复8d4+8⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "Burning (Condition)")。 |
+| [极效治疗药水](Potion_of_Supreme_Healing_(cloud).md "Potion of Supreme Healing (cloud)") | 恢复10d4+20⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "Burning (Condition)")。 |
 | [Steam云服务](Steam_Cloud.md "Steam Cloud") | 对区域内生物施加[濡湿](Wet_(Condition).md "Wet (Condition)")。 |
 | [臭云术](Stinking_Cloud_(cloud).md "Stinking Cloud (cloud)") | 阻止区域内生物进行动作。 |
 | [奇异气体](Strange_Gas.md "Strange Gas") | 通过使非吉斯生物获得对钝击、穿刺和挥砍伤害的[易伤](Vulnerability.md "Vulnerability")来削弱它们。通过使吉斯生物获得对钝击、穿刺和挥砍伤害的[抗性](Resistance.md "Resistance")来强化它们。 |

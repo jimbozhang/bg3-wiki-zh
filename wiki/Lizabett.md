@@ -81,19 +81,19 @@
 
 - - - - ## 特性
 
-- [**军队奥术**](Army_Arcana.md "军队奥术")
+- [军队奥术](Army_Arcana.md "军队奥术")
 
 盟友自动通过使用者的法术豁免检定。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 米 (7 英尺) 范围内且未[失能](Incapacitated_(Condition).md)，每回合可为一次武器攻击额外增加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -143,19 +143,19 @@
 
 - - - - ## 特性
 
-- [**军队奥术**](Army_Arcana.md "军队奥术")
+- [军队奥术](Army_Arcana.md "军队奥术")
 
 盟友自动通过使用者的法术豁免检定。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 米 (7 英尺) 范围内且未[失能](Incapacitated_(Condition).md)，每回合可为一次武器攻击额外增加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -205,19 +205,19 @@
 
 - - - - ## 特性
 
-- [**军队奥术**](Army_Arcana.md "军队奥术")
+- [军队奥术](Army_Arcana.md "军队奥术")
 
 盟友自动通过使用者的法术豁免检定。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 米 (7 英尺) 范围内且未[失能](Incapacitated_(Condition).md)，每回合可为一次武器攻击额外增加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -241,11 +241,11 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 重要战利品](#notable-loot)
-- [3 相关任务](#related-quests)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 重要战利品](#重要战利品)
+- [3 相关任务](#相关任务)
 
 ## 参与
 
@@ -293,7 +293,7 @@ UUID
 
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程: 正常武器射程
 充能: [短休](Short_rest.md "短休")
 

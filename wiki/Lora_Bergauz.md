@@ -97,7 +97,7 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -153,7 +153,7 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -209,7 +209,7 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -243,14 +243,14 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 显著战利品](#notable-loot)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 注释](#notes)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 显著战利品](#显著战利品)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 注释](#注释)
 
 ## 参与
 
@@ -262,7 +262,7 @@ UUID
 
 如果成功拯救万娜并在家中再次与罗拉交谈，她会给予[决斗者的特权](Duellist's_Prerogative.md "Duellist's Prerogative")和[驭风护符](Amulet_of_Windrider.md "Amulet of Windrider")。
 
-所有这些仅在第一幕中埃塞尔被拒绝接触[梅丽娜](Mayrina.md "Mayrina")时才会发生。否则，罗拉和万娜可以在[下城区](Lower_City.md "Lower City")的[家](Lora's_House.md "Lora's House")中找到，除了斥责队伍闯入她们的家之外，几乎无话可说。
+所有这些仅在第一幕中埃塞尔被拒绝接触[梅丽娜](Mayrina.md "Mayrina")时才会发生。否则，罗拉和万娜可以在[下城区](Lower_City.md "Lower City")的[罗拉之家](Lora's_House.md "罗拉之家")中找到，除了斥责队伍闯入她们的家之外，几乎无话可说。
 
 ## 战斗
 
@@ -331,7 +331,7 @@ UUID
 ## 注释
 
 1. [↑](#cite_ref-1) 对话暗示罗拉的母亲，利诺尔·弗利特，很可能已故。
-1. [↑](#cite_ref-2) 通过与她[家](Lora's_House.md "Lora's House")外的招牌互动，揭示了罗拉的姓氏。
+1. [↑](#cite_ref-2) 通过与她[罗拉之家](Lora's_House.md "罗拉之家")外的招牌互动，揭示了罗拉的姓氏。
 
 ---
 *Source: [Lora Bergauz](https://bg3.wiki/wiki/Lora_Bergauz)*

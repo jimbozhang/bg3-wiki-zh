@@ -48,19 +48,19 @@
 
 ## 特性
 
-- [**吸取属性**](Ability_Drain.md "吸取属性")
+- [吸取属性](Ability_Drain.md "吸取属性")
 
 每回合一次，当你进行[攻击掷骰](Attack_roll.md "攻击掷骰")时，该攻击会使目标的对应属性降低1点。降低后的属性值不能低于1。
 
-- [**魅惑**](Charm.md "魅惑")
+- [魅惑](Charm.md "魅惑")
 
 可以[魅惑](Charmed_(Condition).md) 攻击的敌人，阻止其在下一回合前进行进一步攻击。
 
-- [**恃强凌弱**](Cull_the_Weak.md "恃强凌弱")
+- [恃强凌弱](Cull_the_Weak.md "恃强凌弱")
 
 当一个生物的生命值降至低于你已进化的灵吸怪威能数量时，该生物死亡，附近所有生物受到1~4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**有利开局**](Favourable_Beginnings.md "有利开局")
+- [有利开局](Favourable_Beginnings.md "有利开局")
 
 对任何目标的首次[攻击掷骰](Attack_roll.md "攻击掷骰")或[属性检定](Ability_Check.md "属性检定")获得[熟练项](Proficiency.md "熟练项")加值。
 
@@ -68,7 +68,7 @@
 
 每[长休](Long_Rest.md "长休")一次，你可以将对敌人的一次成功[攻击掷骰](Attack_roll.md "攻击掷骰")变为[重击](Critical_Hit.md "重击")。
 
-- [**永恒心灵庇护**](Permanent_Mind_Sanctuary.md "永恒心灵庇护")
+- [永恒心灵庇护](Permanent_Mind_Sanctuary.md "永恒心灵庇护")
 
 你可以互换使用动作和附赠动作。
 

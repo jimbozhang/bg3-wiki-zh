@@ -13,12 +13,12 @@
 
 **[受怨恨打击](Stricken_with_Malice_(Condition).md "受怨恨打击 (状态)")**
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
 
 - 受影响实体陷入目盲和中毒。
 - 在 [攻击掷骰](Attack_rolls.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")，其攻击和法术的范围减少至 3 米（10 英尺）。
 - 对目盲生物的攻击掷骰具有 [优势](Advantage.md "优势")。
-- 在 [属性检定](Checks.md "检定") 上遭受 [劣势](Disadvantage.md "劣势")。
+- 在 [检定](Checks.md "检定") 上遭受 [劣势](Disadvantage.md "劣势")。
 
 ## 状态：接种：怨恨
 
@@ -52,7 +52,7 @@
 | 涂抹怨恨 | 目标必须通过一次 [DC](Dice_rolls#Save_DCs.md#Save_DCs "骰子掷骰") 15 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将陷入 [目盲](Blinded_(Condition).md "目盲 (状态)") 和 [中毒](Poisoned_(Condition).md "中毒 (状态)")。通过豁免检定的目标将获得 [接种：怨恨](Inoculated_colon__Malice_(Condition).md "接种：怨恨 (状态)") 状态，持续 2 回合。 |
 | [涂抹灾祸油](Coated_in_Oil_of_Bane_(Condition).md "涂抹灾祸油 (状态)") | 目标陷入 [灾祸术](Bane_(Condition).md "灾祸术 (状态)")，持续 2 回合，除非他们通过一次 [DC](Dice_rolls#Save_DCs.md#Save_DCs "骰子掷骰") 11 的 [魅力](Charisma.md "魅力") [豁免检定](Saving_throw.md "豁免检定")。 |
 | [涂抹燃烧油](Coated_in_Oil_of_Combustion_(Condition).md "涂抹燃烧油 (状态)") | 涂抹易燃油。命中时，目标被油浸染，持续 2 回合。如果其受到 ⁠[火焰](Fire.md "火焰") 伤害，油将燃烧，在其周围区域造成 3d6⁠⁠[火焰](Fire.md "火焰") 伤害。 |
-| [涂抹收缩油](Coated_in_Oil_of_Diminution_(Condition).md "涂抹收缩油 (状态)") | 目标必须通过一次 [DC](Dice_rolls#Save_DCs.md#Save_DCs "骰子掷骰") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将在 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 上获得 [劣势](Disadvantage.md "劣势")，并且近战攻击的伤害获得 -1d4 惩罚，持续 2 回合。 |
+| [涂抹收缩油](Coated_in_Oil_of_Diminution_(Condition).md "涂抹收缩油 (状态)") | 目标必须通过一次 [DC](Dice_rolls#Save_DCs.md#Save_DCs "骰子掷骰") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将在 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 上获得 [劣势](Disadvantage.md "劣势")，并且近战攻击的伤害获得 -1d4 惩罚，持续 2 回合。 |
 | [涂抹冰封油](Coated_in_Oil_of_Freezing_(Condition).md "涂抹冰封油 (状态)") | 目标获得 [冷冻](Encrusted_with_Frost_(Condition).md "冷冻 (状态)")，持续 2 回合。 |
 | [涂抹紫虫毒素](Coated_in_Purple_Worm_Toxin_(Condition).md "涂抹紫虫毒素 (状态)") | 目标在其下一回合结束时受到 1d10⁠⁠[中毒](Poison.md "中毒") 伤害，除非他们通过一次 [DC](Dice_rolls#Save_DCs.md#Save_DCs "骰子掷骰") 19 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |
 | [涂抹蛇毒毒素](Coated_in_Serpent_Venom_Toxin_(Condition).md "涂抹蛇毒毒素 (状态)") | 目标在其下一回合结束时受到 1d6⁠⁠[中毒](Poison.md "中毒") 伤害，除非他们通过一次 [DC](Dice_rolls#Save_DCs.md#Save_DCs "骰子掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |

@@ -1256,7 +1256,7 @@ unknown
 [脏兮兮的报告](Grimy_Report.md "脏兮兮的报告")
 [肮脏的地图](Grubby_Map.md "肮脏的地图")
 [生日快乐](Happy_Birthday.md "生日快乐")
-[救命](Help.md "救命")
+[协助](Help.md "协助")
 [救命！](HELP!.md "救命！")
 [《家用祈祷手册》](Household_Prayer.md "《家用祈祷手册》")
 [就职报告](Installation_Report.md "就职报告")

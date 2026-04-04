@@ -1,6 +1,6 @@
 # 眼魔的眼色素
 
-**眼魔的眼色素**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[极效奥术滋养灵药](Supreme_Elixir_of_Arcane_Cultivation.md "极效奥术滋养灵药")。
+**眼魔的眼色素**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[极效奥术滋养灵药](Supreme_Elixir_of_Arcane_Cultivation.md "极效奥术滋养灵药")。
 
 这种鲜艳的树脂闪烁着力量的承诺。
 

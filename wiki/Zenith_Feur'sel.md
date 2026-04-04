@@ -85,23 +85,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**法术领域**](Domain_Spells.md "法术领域")
+- [法术领域](Domain_Spells.md "法术领域")
 
 你获得来自你领域的法术。它们总是已准备。
 
-- [**精灵武器训练**](Elven_Weapon_Training.md "精灵武器训练")
+- [精灵武器训练](Elven_Weapon_Training.md "精灵武器训练")
 
 你[熟练项](Proficiency.md "熟练项")使用[长剑](Longswords.md "长剑")、[短剑](Shortswords.md "短剑")、[长弓](Longbows.md "长弓")和[短弓](Shortbows.md "短弓")。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -141,10 +141,10 @@ Stats
 
 ## 目录
 
-- [1 背景故事](#backstory)
-- [2 成就](#achievements)
-- [3 备注](#notes)
-- [4 外部链接](#external-links)
+- [1 背景故事](#背景故事)
+- [2 成就](#成就)
+- [3 备注](#备注)
+- [4 外部链接](#外部链接)
 
 ## 背景故事
 

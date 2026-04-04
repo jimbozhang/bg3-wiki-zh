@@ -72,31 +72,31 @@
 
 - - - - - - ## 特性
 
-- [**灵敏架势**](Agile_Chassis.md "Agile_Chassis")
+- [灵敏架势](Agile_Chassis.md "灵敏架势")
 
 在敏捷[豁免检定](Saving_throw.md "Saving_throw")上具有[优势](Advantage.md "Advantage")，且移动速度增加 9 米 / 30 英尺。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**保险协议**](Failsafe_Protocol.md "Failsafe Protocol")
+- [保险协议](Failsafe_Protocol.md "保险协议")
 
 在损失大量[生命值](Hit_Points.md "Hit Points")后，此生物将开始[自爆程序](Self-Detonation_Protocol.md "Self-Detonation_Protocol")以消灭所有附近的威胁。如果它死亡，会立即[爆炸](Self-Detonate.md "Self-Detonate")。
 
-- [**不变形态**](Immutable_Form.md "Immutable Form")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。在对抗[放逐术](Banishment.md "Banishment")的[豁免检定](Saving_throws.md "Saving throws")上具有 +5 加值。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 在对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "Perfect Sentry")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "Surprised")。
 
@@ -146,31 +146,31 @@
 
 - - - - - - ## 特性
 
-- [**灵敏架势**](Agile_Chassis.md "Agile_Chassis")
+- [灵敏架势](Agile_Chassis.md "灵敏架势")
 
 在敏捷[豁免检定](Saving_throw.md "Saving_throw")上具有[优势](Advantage.md "Advantage")，且移动速度增加 9 米 / 30 英尺。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**保险协议**](Failsafe_Protocol.md "Failsafe Protocol")
+- [保险协议](Failsafe_Protocol.md "保险协议")
 
 在损失大量[生命值](Hit_Points.md "Hit Points")后，此生物将开始[自爆程序](Self-Detonation_Protocol.md "Self-Detonation_Protocol")以消灭所有附近的威胁。如果它死亡，会立即[爆炸](Self-Detonate.md "Self-Detonate")。
 
-- [**不变形态**](Immutable_Form.md "Immutable Form")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。在对抗[放逐术](Banishment.md "Banishment")的[豁免检定](Saving_throws.md "Saving throws")上具有 +5 加值。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 在对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "Perfect Sentry")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "Surprised")。
 
@@ -178,15 +178,15 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 免疫](#immunities)
-- [3 重要战利品](#notable-loot)
-- [4 相关任务](#related-quests)
-- [5 备注](#notes)
-- [6 画廊](#gallery)
-- [7 另见](#see-also)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 免疫](#免疫)
+- [3 重要战利品](#重要战利品)
+- [4 相关任务](#相关任务)
+- [5 备注](#备注)
+- [6 画廊](#画廊)
+- [7 另见](#另见)
 
 ## 概述
 

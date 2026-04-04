@@ -78,15 +78,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血 (状态)")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -138,15 +138,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血 (状态)")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -198,15 +198,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血 (状态)")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -240,10 +240,10 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
 
 ## 参与
 
@@ -263,7 +263,7 @@ Stats
 
 发动飞踢，将目标击退 2 米 / 7 英尺并使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
 [割裂](Lacerate.md "割裂") () – [镰刀](Sickle.md "镰刀")
@@ -276,7 +276,7 @@ Stats
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

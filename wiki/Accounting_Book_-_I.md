@@ -26,7 +26,7 @@
 
 - 戈鲁斯·埃尔金 - 保险柜 2 - 到访两次
 
-- [德里丝](Derryth_Bonecloak.md "德里丝·骨篷") & [巴伦·骨篷](Baelen_Bonecloak.md "巴伦·骨篷") - 保险柜 3 - 到访一次
+- [德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷") & [巴伦·骨篷](Baelen_Bonecloak.md "巴伦·骨篷") - 保险柜 3 - 到访一次
 
 - 保险柜 4 - 空 -
 

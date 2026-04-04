@@ -78,19 +78,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -138,19 +138,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -198,19 +198,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -240,20 +240,20 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 使用动物交谈](#with-speak-with-animals)
-  - [1.2 不使用动物交谈](#without-speak-with-animals)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 相关任务](#related-quests)
-- [4 备注](#notes)
-- [5 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 使用动物交谈](#使用动物交谈)
+  - [1.2 不使用动物交谈](#不使用动物交谈)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 相关任务](#相关任务)
+- [4 备注](#备注)
+- [5 外部链接](#外部链接)
 
 ## 参与
 
 Nessa 试图带领队伍进入 [尤格](Yurgir.md "尤格") 的伏击。如果选择或假装帮助尤格，之后可以使用 [动物交谈](Speak_with_Animals.md "动物交谈") 与 Nessa 对话。
 
-调查房间内尤格旁边的蜘蛛尸体（DC 14 [调查](Investigation.md "调查") [检定](Ability_Check.md "属性检定")，然后 DC 16 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")）会发现 Nessa 被魅魔的唾液魅惑，成为尤格的情人。这样做会授予具有 [公会工匠](Guild_Artisan.md "公会工匠") 背景的队伍成员激励点 [交配季节](Guild_Artisan.md#Mating_Season "公会工匠")。
+调查房间内尤格旁边的蜘蛛尸体（DC 14 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定")，然后 DC 16 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")）会发现 Nessa 被魅魔的唾液魅惑，成为尤格的情人。这样做会授予具有 [公会工匠](Guild_Artisan.md "公会工匠") 背景的队伍成员激励点 [交配季节](Guild_Artisan.md#Mating_Season "公会工匠")。
 
 ### 使用动物交谈
 

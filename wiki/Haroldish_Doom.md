@@ -12,7 +12,7 @@
 
 持续时间：2回合
 
-[魅](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
 
 - [攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")具有**-1d4**减值。
 

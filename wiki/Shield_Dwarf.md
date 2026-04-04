@@ -66,7 +66,7 @@
 #### 亚种特性
 
 [矮人护甲训练](Dwarven_Armour_Training.md "矮人护甲训练")
-你对[轻甲](Armour.md#List_of_light_armour "护甲")和[中甲](Armour.md#List_of_medium_armour "护甲")拥有[护甲熟练项](Proficiency.md "熟练项")。
+你对[轻甲](Armour.md#List_of_light_armour "护甲")和[中甲](Armour.md#List_of_medium_armour "护甲")拥有[熟练项](Proficiency.md "熟练项")。
 
 ### 灰矮人
 

@@ -6,11 +6,11 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 通过职业或卷轴获得的咒法法术列表](#list-of-conjuration-spells-granted-by-class-or-through-scrolls)
-- [3 通过物品获得的咒法法术列表](#list-of-conjuration-spells-granted-by-items)
-- [4 仅限NPC使用的咒法法术列表](#list-of-conjuration-spells-available-only-to-npcs)
-- [5 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 通过职业或卷轴获得的咒法法术列表](#通过职业或卷轴获得的咒法法术列表)
+- [3 通过物品获得的咒法法术列表](#通过物品获得的咒法法术列表)
+- [4 仅限NPC使用的咒法法术列表](#仅限NPC使用的咒法法术列表)
+- [5 外部链接](#外部链接)
 
 ## 概述
 
@@ -28,7 +28,7 @@
 | [燃火术](Produce_Flame.md "燃火术") | 戏法 |  |  | 长休 | 自身 | - | 1d8⁠[火焰](Fire.md "火焰") |
 | [哈达之臂](Arms_of_Hadar.md "哈达之臂") | 1 |  |  | 1 回合 | 自身 / 3米 / 10尺 (半径) | [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定") | 2d6⁠[黯蚀](Necrotic.md "黯蚀") |
 | [诱捕攻击](Ensnaring_Strike.md "诱捕攻击") | 1 |  |  | 10 回合 | - | [攻击掷骰](Attack_roll.md "攻击掷骰") [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定") | 正常武器伤害 / 1d6⁠[穿刺](Piercing.md "穿刺") |
-| [纠缠术](Entangle.md "纠缠术") | 1 |  |  | - | 18 米 / 60 尺 / 3米 / 10尺 (半径) | [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定") | - |
+| [纠缠](Entangle.md "纠缠") | 1 |  |  | - | 18 米 / 60 尺 / 3米 / 10尺 (半径) | [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定") | - |
 | [获得魔宠](Find_Familiar.md "获得魔宠") | 1 |  |  | - | 18 米 / 60尺 | - | - |
 | [云雾术](Fog_Cloud.md "云雾术") | 1 |  |  | - | 18 米 / 60尺 / 4.5米 / 15尺 (半径) | - | - |
 | [油脂](Grease.md "油脂") | 1 |  |  | - | 18 米 / 60尺 | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | - |

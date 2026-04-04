@@ -62,11 +62,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
@@ -110,11 +110,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 

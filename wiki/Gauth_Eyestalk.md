@@ -1,6 +1,6 @@
 # 高斯眼魔的眼柄
 
-**高斯眼魔的眼柄**是一种[炼金术材料](Alchemy.md "炼金术")。将3个眼柄组合可制成[高斯眼魔悬液](Suspension_of_Gauth_Eye.md "高斯眼魔悬液")，用于制作[战斗法师之力灵药](Elixir_of_Battlemage's_Power.md "战斗法师之力灵药")。
+**高斯眼魔的眼柄**是一种[炼金术](Alchemy.md "炼金术")。将3个眼柄组合可制成[高斯眼魔悬液](Suspension_of_Gauth_Eye.md "高斯眼魔悬液")，用于制作[战斗法师之力灵药](Elixir_of_Battlemage's_Power.md "战斗法师之力灵药")。
 
 虽然明显比眼魔的触须小，但[高斯眼魔](https://forgottenrealms.fandom.com/wiki/Gauth)的眼柄同样能发射恐怖的射线。幸运的是，这个眼柄早已死亡。
 

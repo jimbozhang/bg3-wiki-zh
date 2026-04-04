@@ -22,9 +22,9 @@
 
 ## 文本
 
-\[附有[卓尔](Drow.md "Drow")和[灵吸怪蝌蚪](Mind_Flayer_Parasite_Specimen.md "Mind Flayer Parasite Specimen")的解剖草图，旁边是用急促笔迹写下的笔记。\]
+\[卓尔](Drow.md "卓尔")和[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")的解剖草图，旁边是用急促笔迹写下的笔记。\]
 
-... 寄生虫深藏在脑组织中... 毫无疑问是灵吸怪。然而[宿主](Dissected_Drow.md "Dissected Drow")在活着时似乎毫无察觉？
+... 寄生虫深藏在脑组织中... 毫无疑问是灵吸怪。然而[被解剖的卓尔](Dissected_Drow.md "被解剖的卓尔")在活着时似乎毫无察觉？
 
 ... 尸体上没有可见的蜕变迹象。最为奇怪。
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-当你击杀敌人时，9米（30英尺）范围内的盟友将获得等于你的魅力[调整值](Ability_Modifier.md "属性调整值")（最低为1）的[临时生命值](Temporary_Hit_Points.md "临时生命值") _\[[参见：错误](#bugs)\]_。
+当你击杀敌人时，9米（30英尺）范围内的盟友将获得等于你的魅力[属性调整值](Ability_Modifier.md "属性调整值")（最低为1）的[临时生命值](Temporary_Hit_Points.md "临时生命值") _\[[参见：错误](#bugs)\]_。
 
 ## 状态：临时生命值（激励击杀）
 
@@ -29,7 +29,7 @@
 
 ## 简要预览
 
-击杀敌人后，9米（30英尺）范围内的盟友将获得基于[魅力](CHA.md "魅力")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+击杀敌人后，9米（30英尺）范围内的盟友将获得基于[魅](CHA.md "魅")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 ---
 *Source: [Stirring Execution](https://bg3.wiki/wiki/Stirring_Execution)*

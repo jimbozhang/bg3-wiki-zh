@@ -88,19 +88,19 @@
 | --- | --- | --- | --- |
 | 几率 | 1/3 | 1/3 | 1/3 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -147,19 +147,19 @@
 | [铜项链珠宝子表](Copper_Necklace_Jewelry_Subtable.md "Copper Necklace Jewelry Subtable") | 1 | 3/4 |
 | [白银项链珠宝子表](Silver_Necklace_Jewelry_Subtable.md "Silver Necklace Jewelry Subtable") | 1 | 1/4 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -205,19 +205,19 @@
 | --- | --- | --- | --- |
 | 几率 | 1/3 | 1/3 | 1/3 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -247,10 +247,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 商店](#store)
-- [3 闲聊](#idle-banter)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 商店](#商店)
+- [3 闲聊](#闲聊)
 
 ## 出场
 

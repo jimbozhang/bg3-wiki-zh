@@ -72,7 +72,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -104,7 +104,7 @@ UUID
 
 ### 莱斯温围城战
 
-当[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")奉[莎尔](Shar.md "莎尔")之命集结[暗夜法官](Dark_Justiciar.md "暗夜法官")大军意图将世界拖入阴影时，奥兰是[竖琴手同盟](Harpers.md "竖琴手同盟")和来自[翠绿林地](Emerald_Grove.md "翠绿林地")的[德鲁伊](Druid.md "德鲁伊")联合部队的一员，意图阻止他。他们的远征最初遭遇[挫折与失败](Letter_of_Surrender.md "降书")，但竖琴手与德鲁伊的联合力量，加上[尤格](Yurgir.md "尤格")及其[军团魔步兵](Merregon_Legionnaire.md "军团魔步兵")的介入，最终逐渐削弱并[摧毁](Break_Yurgir's_Contract.md "打破尤格的契约")了整个暗夜法官大军。凯瑟里克·索姆随后在战斗中被击杀，并被竖琴手们封印在[莱斯温](Reithwin.md "莱斯温")的[大陵寝](Grand_Mausoleum.md "大陵寝")中——但他临死前发出了最后的诅咒。
+当[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")奉[莎尔](Shar.md "莎尔")之命集结[暗夜法官](Dark_Justiciar.md "暗夜法官")大军意图将世界拖入阴影时，奥兰是[竖琴手同盟](Harpers.md "竖琴手同盟")和来自[翠绿林地](Emerald_Grove.md "翠绿林地")的[德鲁伊](Druid.md "德鲁伊")联合部队的一员，意图阻止他。他们的远征最初遭遇[降书](Letter_of_Surrender.md "降书")，但竖琴手与德鲁伊的联合力量，加上[尤格](Yurgir.md "尤格")及其[军团魔步兵](Merregon_Legionnaire.md "军团魔步兵")的介入，最终逐渐削弱并[打破尤格的契约](Break_Yurgir's_Contract.md "打破尤格的契约")了整个暗夜法官大军。凯瑟里克·索姆随后在战斗中被击杀，并被竖琴手们封印在[莱斯温](Reithwin.md "莱斯温")的[大陵寝](Grand_Mausoleum.md "大陵寝")中——但他临死前发出了最后的诅咒。
 
 当凯瑟里克的遗言将[幽影诅咒](Shadow_Curse.md "幽影诅咒")降临到周边土地时，竖琴手和德鲁伊们四散奔逃，诅咒折磨着战斗中的幸存者和城镇中所有剩余的居民。
 
@@ -116,7 +116,7 @@ UUID
 
 第五天，奥兰出发寻找神器或[卷轴](Scroll.md "卷轴")，希望能找到抵御[幽影诅咒](Shadow_Curse.md "幽影诅咒")的方法，以及其他幸存者。在接下来的几周里，他的搜寻找到了书籍、卷轴和神器，但没有一样能有效抵御诅咒。奥兰提到听到[治疗中心](House_of_Healing.md "治疗中心")传来的声音，但并未进入，因为声音来源是[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")。相反，他在魔宠科文的陪伴下寻求慰藉，并试图通过[法术](Spell.md "法术")移除幽影诅咒。<sup>[\[5\]](#cite_note-5)</sup> 尽管他的研究没有定论——他的努力最终导致他的装备变成了活体护甲。<sup>[\[6\]](#cite_note-6)</sup>
 
-最终，在幽影诅咒中度过的第三个十天，奥兰进入了[治疗中心停尸房](House_of_Healing_Morgue.md "治疗中心停尸房")继续他的研究。在他生命的最后几小时，他召唤了他的魔宠科文寻求安慰和关爱，尽管幽影诅咒折磨着他们俩。奥兰很快屈服于幽影诅咒，留下了[日志](Olam's_Journal.md "奥兰的日志")和[研究笔记（治疗中心）](Research_Notes_(House_of_Healing).md "研究笔记（治疗中心）")以及[幽影活化](Shadow-Animated_(Condition).md "幽影活化 (状态)")的护甲。<sup>[\[7\]](#cite_note-7)</sup>
+最终，在幽影诅咒中度过的第三个十天，奥兰进入了[治疗中心停尸房](House_of_Healing_Morgue.md "治疗中心停尸房")继续他的研究。在他生命的最后几小时，他召唤了他的魔宠科文寻求安慰和关爱，尽管幽影诅咒折磨着他们俩。奥兰很快屈服于幽影诅咒，留下了[奥兰的日志](Olam's_Journal.md "奥兰的日志")和[研究笔记（治疗中心）](Research_Notes_(House_of_Healing).md "研究笔记（治疗中心）")以及[幽影活化](Shadow-Animated_(Condition).md "幽影活化 (状态)")的护甲。<sup>[\[7\]](#cite_note-7)</sup>
 
 ## 战利品
 

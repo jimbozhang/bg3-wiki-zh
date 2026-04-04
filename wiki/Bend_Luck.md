@@ -6,7 +6,7 @@
 
 ## 描述
 
-为目标提供 1d4 的 [检定](Ability_Check.md "Ability Check") 加值或减值。
+为目标提供 1d4 的 [属性检定](Ability_Check.md "属性检定") 加值或减值。
 
 你也可以作为 [反应](Actions.md#Reactions "Actions")，将此加值或减值应用于目标的 [攻击掷骰](Attack_roll.md "Attack Roll") 或 [豁免检定](Saving_throw.md "Saving Throw")。
 

@@ -125,7 +125,7 @@
 [绿床再生](Green_Bed_Regeneration_(Condition).md "绿床再生 (状态)")
 |
 
-- 当在 [植物生长地表](Plant_Growth.md "植物滋长") 或 [藤蔓地表](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓 (状态)") 上开始回合时，恢复 1d4⁠⁠[生命值](Healing.md "治疗") [生命值](Hit_Points.md "生命值")。
+- 当在 [植物滋长](Plant_Growth.md "植物滋长") 或 [藤蔓地表](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓 (状态)") 上开始回合时，恢复 1d4⁠⁠[治疗](Healing.md "治疗") [生命值](Hit_Points.md "生命值")。
 
 [加速孢子](Haste_Spores_(Condition).md "加速孢子 (状态)")
 |
@@ -205,7 +205,7 @@
 [再生](Regeneration_(Condition).md "再生 (状态)")
 |
 
-- 如果 [菘蓝树人](Wood_Woad.md "菘蓝树人") 穿过藤蔓地表，除非最近受到过 ⁠[火焰](Fire.md "火焰") 伤害，否则恢复 10⁠⁠[生命值](Healing.md "治疗")。
+- 如果 [菘蓝树人](Wood_Woad.md "菘蓝树人") 穿过藤蔓地表，除非最近受到过 ⁠[火焰](Fire.md "火焰") 伤害，否则恢复 10⁠⁠[治疗](Healing.md "治疗")。
 
 [翻腾地狱火](Roiling_Hellfire_(Condition).md "翻腾地狱火 (状态)")
 |

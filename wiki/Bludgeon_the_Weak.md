@@ -1,6 +1,6 @@
 # 弱点钝击
 
-**弱点钝击**是一个[等级 1 变化学派法术](Spells.md "Spells")。该法术是[标点弱点](Brand_the_Weak.md "Brand the Weak")的变体，使敌人对[钝击](Bludgeoning.md "Bludgeoning")伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
+**弱点钝击**是一个[法术](Spells.md "法术")。该法术是[标点弱点](Brand_the_Weak.md "Brand the Weak")的变体，使敌人对[钝击](Bludgeoning.md "Bludgeoning")伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
 
 ## 描述
 

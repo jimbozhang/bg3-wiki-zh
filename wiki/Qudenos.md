@@ -91,15 +91,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -161,15 +161,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -231,15 +231,15 @@
 
 龙每回合可使用一次吐息武器反击攻击者。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -287,13 +287,13 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第三幕](#act-three)
-- [3 相关任务](#related-quests)
-- [4 画廊](#gallery)
-- [5 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第三幕](#第三幕)
+- [3 相关任务](#相关任务)
+- [4 画廊](#画廊)
+- [5 外部链接](#外部链接)
 
 ## 概述
 
@@ -313,7 +313,7 @@ UUID
 
 与奎德诺斯交谈时，他透露自己是众多红龙反叛者之一，忠于人民而非[维拉基斯](Vlaakith.md "维拉基斯")。在解放俄耳甫斯后，奎德诺斯计划载着沃斯投入战斗，以击败维拉基斯。
 
-如果遭到攻击，奎德诺斯和沃斯会在其回合传送离开。然而，即使奎德诺斯在传送前被杀死，他仍然可能在[最终战役](Confront_the_Elder_Brain.md "与主脑对峙")中成为潜在的[盟友](Gather_Your_Allies.md#Kith'rak_Voss "召集盟友")。
+如果遭到攻击，奎德诺斯和沃斯会在其回合传送离开。然而，即使奎德诺斯在传送前被杀死，他仍然可能在[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")中成为潜在的[盟友](Gather_Your_Allies.md#Kith'rak_Voss "召集盟友")。
 
 ## 相关任务
 

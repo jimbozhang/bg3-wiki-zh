@@ -1,6 +1,6 @@
 # 惊恐颤栗
 
-一封由 [克洛维亚·索克斯](Clovia_Throaks.md "Clovia Throaks") 写给 [德里丝](Derryth_Bonecloak.md "德里丝·骨篷") 的信。
+一封由 [克洛维亚·索克斯](Clovia_Throaks.md "Clovia Throaks") 写给 [德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷") 的信。
 
 这本书散发着纸张和墨水的诱人气息。
 

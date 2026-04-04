@@ -96,15 +96,15 @@
 
 - - - - ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -154,15 +154,15 @@
 
 - - - - ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -218,15 +218,15 @@
 
 ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -260,7 +260,7 @@ UUID
 
 主条目：[调查哀伤之邸](Investigate_the_House_of_Grief.md "调查哀伤之邸")
 
-当接近时，米里会询问队伍是否来此寻求解脱。她感觉到队伍成员需要帮助，并推荐《解脱》来缓解他们的烦恼。通过 DC 10 的[洞悉](Insight.md "洞悉")[检定](Ability_Check.md "属性检定")可揭示她真心想帮忙，但可能有附加条件：
+当接近时，米里会询问队伍是否来此寻求解脱。她感觉到队伍成员需要帮助，并推荐《解脱》来缓解他们的烦恼。通过 DC 10 的[洞悉](Insight.md "洞悉")[属性检定](Ability_Check.md "属性检定")可揭示她真心想帮忙，但可能有附加条件：
 
 - [洞悉] 通常此时应提及神明——这是骗局吗？(DC 20)
 
@@ -301,7 +301,7 @@ UUID
 射程：18 米 (60 英尺)
 
 [暗影步](Shadow_Step.md "暗影步") ()
-从[阴影](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 射程：18 米 (60 英尺)
 

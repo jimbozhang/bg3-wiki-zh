@@ -88,11 +88,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -140,11 +140,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -192,15 +192,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "物理") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -248,15 +248,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "物理") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -286,11 +286,11 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与度](#参与度)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与度
 
@@ -310,7 +310,7 @@ UUID
 
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 恢复：[短休](Short_rest.md "短休")
 
@@ -324,7 +324,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-[体](Constitution.md "体") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 恢复：[短休](Short_rest.md "短休")
 

@@ -1,6 +1,6 @@
 # Got the Itch to Wander?
 
-**Got the Itch to Wander?** 是一封邀请 [巴伦](Baelen_Bonecloak.md "Baelen Bonecloak") 和 [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") 离开城市一段时间的信件。
+**Got the Itch to Wander?** 是一封邀请 [巴伦·骨篷](Baelen_Bonecloak.md "巴伦·骨篷") 和 [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") 离开城市一段时间的信件。
 
 一封朴素无华的便条。
 

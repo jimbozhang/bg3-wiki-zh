@@ -2,14 +2,14 @@
 
 ## Contents
 
-- [1 图标显示错误的法术信息](#icons-showing-wrong-spell-info)
-- [2 护盾术链接指向护盾（装备）](#shield-spell-link-directs-to-shields-(equipment))
-- [3 法术表格](#spell-table)
-- [4 身兼多职 ESL](#multi-classing-esl)
-- [5 法术 - 升环施法？](#spells--_upcasting?)
-- [6 缺失的法术](#missing_spell)
-- [7 法术属性表格缺失法术](#spell-properties-table-missing-spells)
-- [8 法术#升环施法](#spells#upcasting)
+- [1 图标显示错误的法术信息](#图标显示错误的法术信息)
+- [2 护盾术链接指向护盾（装备）](#护盾术链接指向护盾装备))
+- [3 法术表格](#法术表格)
+- [4 身兼多职 ESL](#身兼多职-ESL)
+- [5 法术 - 升环施法？](#法术---升环施法？)
+- [6 缺失的法术](#缺失的法术)
+- [7 法术属性表格缺失法术](#法术属性表格缺失法术)
+- [8 法术#升环施法](#法术#升环施法)
 
 ## 图标显示错误的法术信息
 

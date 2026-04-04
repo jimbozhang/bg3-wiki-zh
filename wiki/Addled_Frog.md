@@ -83,11 +83,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**剧毒分泌物**](Toxic_Secretions.md "剧毒分泌物")
+- [剧毒分泌物](Toxic_Secretions.md "剧毒分泌物")
 
 当敌人对青蛙进行近战攻击时，他们需要通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[疯狂](Madness_(Condition).md "疯狂 (状态)")两回合。
 
@@ -143,11 +143,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**剧毒分泌物**](Toxic_Secretions.md "剧毒分泌物")
+- [剧毒分泌物](Toxic_Secretions.md "剧毒分泌物")
 
 当敌人对青蛙进行近战攻击时，他们需要通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[疯狂](Madness_(Condition).md "疯狂 (状态)")两回合。
 
@@ -203,15 +203,15 @@
 
 ## 特性
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**剧毒分泌物**](Toxic_Secretions.md "剧毒分泌物")
+- [剧毒分泌物](Toxic_Secretions.md "剧毒分泌物")
 
 当敌人对青蛙进行近战攻击时，他们需要通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[疯狂](Madness_(Condition).md "疯狂 (状态)")两回合。
 
@@ -257,7 +257,7 @@ UUID
 
 ### 第一幕
 
-使用[动物交谈](Speak_with_Animals.md "动物交谈")会揭示这只青蛙似乎处于痛苦的疯狂状态，不知何故是由[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")的腐化魔法引起的。如果鬼婆死亡或被驱逐出该区域，青蛙会恢复理智，并带领队伍前往 X: 7 Y: 294 处的隐藏物品藏匿点作为奖励。否则，可以通过通过被动 DC 20 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")来识别这个小袋子。
+使用[动物交谈](Speak_with_Animals.md "动物交谈")会揭示这只青蛙似乎处于痛苦的疯狂状态，不知何故是由[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")的腐化魔法引起的。如果鬼婆死亡或被驱逐出该区域，青蛙会恢复理智，并带领队伍前往 X: 7 Y: 294 处的隐藏物品藏匿点作为奖励。否则，可以通过通过被动 DC 20 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")来识别这个小袋子。
 
 如果骚扰太久，青蛙会变得敌对。
 
@@ -287,7 +287,7 @@ UUID
 
 吐出一种有毒物质，并可能使击中的目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 
-[体](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")
 范围：12 米 (40 英尺)
 
 ### 战利品

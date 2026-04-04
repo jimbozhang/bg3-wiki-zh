@@ -100,15 +100,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -164,15 +164,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -228,15 +228,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -266,17 +266,17 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-- [3 伙伴好感度](#companion-approval)
-- [4 战斗](#combat)
-  - [4.1 攻击与能力](#attacks-and-abilities)
-  - [4.2 值得一提的战利品](#notable-loot)
-- [5 相关任务](#related-quests)
-- [6 闲聊](#idle-banter)
-- [7 画廊](#gallery)
-- [8 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+- [3 伙伴好感度](#伙伴好感度)
+- [4 战斗](#战斗)
+  - [4.1 攻击与能力](#攻击与能力)
+  - [4.2 值得一提的战利品](#值得一提的战利品)
+- [5 相关任务](#相关任务)
+- [6 闲聊](#闲聊)
+- [7 画廊](#画廊)
+- [8 外部链接](#外部链接)
 
 ## 概述
 
@@ -292,7 +292,7 @@ UUID
 
 要获得提供潘蒂娜治疗的对话选项，与她互动的队伍成员必须是[吟游诗人](Bard.md "吟游诗人")、[牧师](Cleric.md "牧师")、[德鲁伊](Druid.md "德鲁伊")或[圣武士](Paladin.md "圣武士")。麻痹可以用[恢复](Lesser_Restoration.md "恢复")或[西凡那斯护符](Amulet_of_Silvanus.md "西凡那斯护符")治愈。治愈后，潘蒂娜允许队伍在房间内走动，但不能触碰任何东西。
 
-[邪念](The_Dark_Urge.md "邪念")有一个独特的选项，可以打断潘蒂娜的腿，这会杀死她而不会惊动守卫。这对所有[圣武士](Paladin.md "圣武士")誓言来说都是[弃誓行为](Oathbreaker.md "弃誓者")。
+[邪念](The_Dark_Urge.md "邪念")有一个独特的选项，可以打断潘蒂娜的腿，这会杀死她而不会惊动守卫。这对所有[圣武士](Paladin.md "圣武士")誓言来说都是[弃誓者](Oathbreaker.md "弃誓者")。
 
 如果队伍在该区域引发敌意，潘蒂娜会被[击倒](Knocked_Out_(Condition).md "倒地 (状态)")并[麻痹](Paralysed_(Condition).md "麻痹 (状态)")，队伍无法与她互动。这可以在承诺治愈她、获得好感度后，再告诉她等待来完成。\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 

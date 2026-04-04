@@ -1,6 +1,6 @@
 # 诺斯异怪之眼
 
-**诺斯异怪之眼**是一种[炼金术材料](Alchemy.md "炼金术材料")。将3个诺斯异怪之眼组合可制成[诺斯异怪之眼悬液](Suspension_of_Nothic_Eye.md "诺斯异怪之眼悬液")，用于制作[识破隐形灵药](Elixir_of_See_Invisibility.md "识破隐形灵药")。
+**诺斯异怪之眼**是一种[炼金术](Alchemy.md "炼金术")。将3个诺斯异怪之眼组合可制成[诺斯异怪之眼悬液](Suspension_of_Nothic_Eye.md "诺斯异怪之眼悬液")，用于制作[识破隐形灵药](Elixir_of_See_Invisibility.md "识破隐形灵药")。
 
 这颗球状的眼睛茫然地向上凝视着你，失去了人性，它唤起了[诺斯异怪](https://forgottenrealms.fandom.com/wiki/Nothic)的可怕诅咒。因为它们曾经并非怪物，而是过于贪婪地追求力量的法师。
 

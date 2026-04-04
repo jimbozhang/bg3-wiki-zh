@@ -1,6 +1,6 @@
 # 至圣斩
 
-**至圣斩**是一类独特的武器[攻击](Attacks.md "Attacks")，与通常只消耗[动作](Actions.md#Resources "Actions")的[常规攻击](Main_Hand_Attack.md "主手攻击")不同，它还需要消耗[法术位](Spell_slots.md "法术位")（通常还需要一个[附赠动作](Actions.md#Resources "Actions")）来激活。虽然需要法术位，但若攻击未命中，它们_不会_吞噬法术位（以及适用的附赠动作）。由于它们被视为武器攻击，因此可以与[额外攻击](Extra_Attack.md "额外攻击")配合使用，并且可以在一回合内多次使用。它们造成的伤害也会受到[重击](Critical_Hit.md "重击")的影响。
+**至圣斩**是一类独特的武器[攻击](Attacks.md "Attacks")，与通常只消耗[动作](Actions.md#Resources "Actions")的[主手攻击](Main_Hand_Attack.md "主手攻击")不同，它还需要消耗[法术位](Spell_slots.md "法术位")（通常还需要一个[附赠动作](Actions.md#Resources "Actions")）来激活。虽然需要法术位，但若攻击未命中，它们_不会_吞噬法术位（以及适用的附赠动作）。由于它们被视为武器攻击，因此可以与[额外攻击](Extra_Attack.md "额外攻击")配合使用，并且可以在一回合内多次使用。它们造成的伤害也会受到[重击](Critical_Hit.md "重击")的影响。
 
 ## 至圣斩动作列表
 

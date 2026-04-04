@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但可通过第三方工具访问。
 
-**吸血鬼匕首**是[匕首](Daggers.md "Daggers")武器家族的常见变体。它是一种单手挥舞的[简易近战武器](Weapons.md "Weapons")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。其设计使其非常适合作为投射物[投掷](Thrown.md "Thrown")向敌人。
+**吸血鬼匕首**是[匕首](Daggers.md "Daggers")武器家族的常见变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。其设计使其非常适合作为投射物[投掷攻击](Thrown.md "投掷攻击")向敌人。
 
 这把匕首的握柄光滑轻巧，锯齿状的刀刃被磨成薄而锋利的刃口。
 

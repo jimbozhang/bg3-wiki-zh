@@ -18,7 +18,7 @@
 
 持续时间：1 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 10)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 10)
 
 - 受影响实体目盲且中毒。
 - 在[攻击掷骰](Attack_rolls.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，且其攻击和法术的范围缩小至 3 米（10 英尺）。

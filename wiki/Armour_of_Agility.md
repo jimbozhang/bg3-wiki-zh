@@ -22,7 +22,7 @@
 - [豁免检定](Saving_throw.md "豁免检定") +2。
 
 [特制材料](Exotic_Material.md "特制材料")
-将你的敏捷[调整值](Ability_Modifier.md "属性调整值")全额加到你的[护甲等级](Armour_Class.md "护甲等级")上。此外，这件护甲不会对[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "检定")施加[劣势](Disadvantage.md "劣势")。
+将你的敏捷[属性调整值](Ability_Modifier.md "属性调整值")全额加到你的[护甲等级](Armour_Class.md "护甲等级")上。此外，这件护甲不会对[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
 
 ## 获取地点
 

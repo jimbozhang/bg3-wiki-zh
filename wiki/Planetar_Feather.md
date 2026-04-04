@@ -1,6 +1,6 @@
 # 异界神侍的羽毛
 
-**异界神侍的羽毛**是一种[炼金术材料](Alchemy.md "炼金术")。将3个这种羽毛组合可提取[异界神侍羽毛颜料](Essence_of_Planetar_Feather.md "异界神侍羽毛颜料")，用于制作[深邃沉眠药水](Potion_of_Angelic_Slumber.md "深邃沉眠药水")。
+**异界神侍的羽毛**是一种[炼金术](Alchemy.md "炼金术")。将3个这种羽毛组合可提取[异界神侍羽毛颜料](Essence_of_Planetar_Feather.md "异界神侍羽毛颜料")，用于制作[深邃沉眠药水](Potion_of_Angelic_Slumber.md "深邃沉眠药水")。
 
 这根象牙色的羽毛笔可能被误认为是普通的鹰羽，若非其散发出阵阵波动的力量。
 

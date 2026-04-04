@@ -44,9 +44,9 @@ _此副职除了其独特的特性外，还获得其基础职业[术士](Sorcere
 | [坎比翁](Wild_Magic_colon__Cambion.md "狂野魔法：坎比翁") | 10 | ✓ | 从九层地狱的火焰枢纽召唤一个坎比翁。它对所有人都是敌对的。 |
 | [猫与狗](Wild_Magic_colon__Cats_and_Dogs.md "狂野魔法：猫与狗") | 2 | ✓ | 9米（30英尺）内的每个生物被随机变形为猫或狗。 |
 | [武器附魔](Wild_Magic_colon__Enchant_Weapons.md "狂野魔法：武器附魔") | 1 |  | 为6米（20英尺）内的每个生物的武器附魔。他们的下一次攻击是[重击](Critical_Hit.md "重击")并造成额外1d4⁠⁠[力场](Force.md "力场")伤害。 |
-| [巨化/缩小](Wild_Magic_colon__Enlarge/Reduce.md "狂野魔法：巨化/缩小") | 2 |  | 9米（30英尺）内的每个生物被随机[巨化](Enlarged_(Condition).md "巨化（状态）")或[缩小](Reduced_(Condition).md "缩小（状态）")。 |
+| [缩小](Wild_Magic_colon__Enlarge/Reduce.md "缩小") | 2 |  | 9米（30英尺）内的每个生物被随机[巨化](Enlarged_(Condition).md "巨化（状态）")或[缩小](Reduced_(Condition).md "缩小（状态）")。 |
 | [纠缠术](Wild_Magic_colon__Entangle.md "狂野魔法：纠缠术") | 2 | ✓ | 在你周围创建藤蔓地表，减慢生物速度，可能[诱捕](Ensnared_(Condition).md "诱捕（状态）")它们。 |
-| [爆发治疗](Wild_Magic_colon__Explosive_Healing.md "狂野魔法：爆发治疗") | 1 |  | 当你用法术击中目标时，治疗3米（10英尺）内的所有生物，每使用一个[法术位](Spell_Slot.md "法术位")环级恢复1d4⁠⁠[生命值](Healing.md "治疗")。 |
+| [爆发治疗](Wild_Magic_colon__Explosive_Healing.md "狂野魔法：爆发治疗") | 1 |  | 当你用法术击中目标时，治疗3米（10英尺）内的所有生物，每使用一个[法术位](Spell_Slot.md "法术位")环级恢复1d4⁠⁠[治疗](Healing.md "治疗")。 |
 | [飞行术](Wild_Magic_colon__Flight.md "狂野魔法：飞行术") | 2 |  | 你可以[飞行](Fly_(class_action).md "飞行（职业动作）")直到回合结束。 |
 | [雾](Wild_Magic_colon__Fog.md "狂野魔法：雾") | 1 | ✓ | 在你周围制造一团雾。雾内的生物被[重度遮蔽](Heavily_Obscured.md "重度遮蔽")且[目盲](Blinded_(Condition).md "目盲（状态）")。 |
 | [变形术](Wild_Magic_colon__Polymorph.md "狂野魔法：变形术") | 2 | ✓ | 你被变形为野兽。 |

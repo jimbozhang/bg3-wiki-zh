@@ -3,7 +3,7 @@
 **脆弱诅咒：智力**
 
 - 生物受到施法者额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 该生物在进行[智力](Intelligence.md "智力")[检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")。
+- 该生物在进行[智力](Intelligence.md "智力")[属性检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")。
 
 [被诅咒](Cursed_(status_group).md)
 

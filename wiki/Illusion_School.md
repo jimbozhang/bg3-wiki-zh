@@ -18,7 +18,7 @@ _此副职除了以下列出的独特特性外，还获得其基础职业[法师
 从[卷轴](Scrolls.md "卷轴")中学习[幻术法术](Illusion_spells.md "幻术法术")的消耗减半。学习这些法术每个法术等级仅需**25 gp**。
 
 [精通初级幻影](Improved_Minor_Illusion_(passive_feature).md "精通初级幻影（被动特性）")
-你可以以附赠动作施放[初级幻影](Improved_Minor_Illusion.md "精通初级幻影")。
+你可以以附赠动作施放[精通初级幻影](Improved_Minor_Illusion.md "精通初级幻影")。
 
 ### 等级 6
 

@@ -1,6 +1,6 @@
 # 防护能量伤害：闪电
 
-**防护能量伤害：闪电** 是一个 [等级 3 防护学派法术](Spells.md "Spells")。此法术允许施法者为他们接触的生物提供 [闪电](Lightning.md "Lightning") 伤害 [抗性](Resistance.md "Resistance")。
+**防护能量伤害：闪电** 是一个 [法术](Spells.md "法术")。此法术允许施法者为他们接触的生物提供 [闪电](Lightning.md "Lightning") 伤害 [抗性](Resistance.md "Resistance")。
 
 ## 描述
 

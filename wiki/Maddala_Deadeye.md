@@ -73,15 +73,15 @@
 
 ## 特性
 
-- [**民兵**](Civil_Militia.md "Civil_Militia")
+- [民兵](Civil_Militia.md "民兵")
 
 对[短矛](Spears.md "Spears")、[长矛](Pikes.md "Pikes")、[长戟](Halberds.md "Halberds")、[长柄刀](Glaives.md "Glaives")、[轻甲](Light_Armour.md "Light armour")和[盾牌](Shields.md "Shields")拥有[熟练项](Proficiency.md "Proficiency")。
 
-- [**人类通才**](Human_Versatility.md "Human_Versatility")
+- [人类通才](Human_Versatility.md "人类通才")
 
 拥有一个额外的[技能](Skill.md "Skill")熟练项，且[负重](Carrying_capacity.md "Carrying capacity")提高四分之一。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -117,10 +117,10 @@ Stats
 
 ## 目录
 
-- [1 背景故事](#backstory)
-- [2 成就](#achievements)
-- [3 注释](#notes)
-- [4 外部链接](#external-links)
+- [1 背景故事](#背景故事)
+- [2 成就](#成就)
+- [3 注释](#注释)
+- [4 外部链接](#外部链接)
 
 ## 背景故事
 

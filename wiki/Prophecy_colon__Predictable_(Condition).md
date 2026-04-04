@@ -2,7 +2,7 @@
 
 **预言：可预测**
 
-- 施放一个 [预言学派](Divination.md "Divination") 法术将产生一个新的 [预兆骰子](Portent.md "Portent")。
+- 施放一个 [预言学派](Divination.md "Divination") 法术将产生一个新的 [预兆](Portent.md "预兆")。
 
 ## 属性
 

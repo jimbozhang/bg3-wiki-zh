@@ -12,7 +12,7 @@
 [动作](Actions.md#Resources "动作")
 治疗：
 
-3 × 武僧等级 ⁠[生命值](Healing.md "治疗")
+3 × 武僧等级 ⁠[治疗](Healing.md "治疗")
 
 详情：
 范围：自身

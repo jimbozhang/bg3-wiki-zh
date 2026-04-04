@@ -67,7 +67,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -100,7 +100,7 @@
 [昏睡爆弹](Narcoleptic_Burst.md "昏睡爆弹")
 死亡时爆炸，释放毒素使附近的生物进入[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
-[感](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 
 ---
 *Source: [Soporific Rat](https://bg3.wiki/wiki/Soporific_Rat)*

@@ -12,10 +12,10 @@
 
 ## 目录
 
-- [1 关于主脑](#about-elder-brains)
-- [2 著名主脑](#notable-elder-brains)
-- [3 相关文献](#related-literature)
-- [4 外部链接](#external-links)
+- [1 关于主脑](#关于主脑)
+- [2 著名主脑](#著名主脑)
+- [3 相关文献](#相关文献)
+- [4 外部链接](#外部链接)
 
 ## 关于主脑
 

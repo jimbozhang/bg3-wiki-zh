@@ -40,8 +40,8 @@
   - 将其交给 [莱埃泽尔](Lae'zel.md "莱埃泽尔")
   - 获得 [提尔苏密码的谨慎艺术](The_Careful_Art_of_Tir'su_Ciphers.md "提尔苏密码的谨慎艺术")
   - 获得该系列的第二部分，可替代密码使用
-  - 通过 DC 20 [调查](Investigation.md "调查") [检定](Ability_Check.md "属性检定")
-  - 通过 DC 12 [历史的](History.md "历史的") [检定](Ability_Check.md "属性检定") 并拥有 [优势](Advantage.md "优势") - 仅限吉斯洋基人 - [伪装术](Disguise_Self.md "伪装术") 无效
+  - 通过 DC 20 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定")
+  - 通过 DC 12 [历史的](History.md "历史的") [属性检定](Ability_Check.md "属性检定") 并拥有 [优势](Advantage.md "优势") - 仅限吉斯洋基人 - [伪装术](Disguise_Self.md "伪装术") 无效
 - 另请参阅：
   - [《俄耳甫斯，彗星王子，第二部：牺牲》](Orpheus,_Prince_of_the_Comet,_Part_Two_colon__Sacrifice.md "《俄耳甫斯，彗星王子，第二部：牺牲》")
   - [《俄耳甫斯，彗星王子，第三部：复兴》](Orpheus,_Prince_of_the_Comet,_Part_Three_colon__Resurrection.md "《俄耳甫斯，彗星王子，第三部：复兴》")

@@ -17,7 +17,7 @@
 
 ## 文本
 
-\[一本公园管理员的日志，大部分内容是关于植物学和植物护理的笔记。页边空白处有一条旁注，提到最近有些可疑人物频繁出现在公园里。管理员想知道是否应该向 [焰拳](Flaming_Fist.md "焰拳") 报告此事。\]
+\[焰拳](Flaming_Fist.md "焰拳") 报告此事。\]
 
 ---
 *Source: [Park Keeper's Journal](https://bg3.wiki/wiki/Park_Keeper's_Journal)*

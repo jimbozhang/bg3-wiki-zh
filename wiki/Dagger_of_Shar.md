@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏过程](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但可通过第三方工具访问。
 
-**莎尔匕首**是[匕首](Daggers.md "Daggers")武器家族中的一种[不常见](Rarity.md "Rarity")变体。它是一种单手挥舞的[简易近战武器](Weapons.md "Weapons")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于持有者的敏捷值，而不仅仅是力量值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
+**莎尔匕首**是[匕首](Daggers.md "Daggers")武器家族中的一种[不常见](Rarity.md "Rarity")变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于持有者的敏捷值，而不仅仅是力量值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
 
 这把匕首的握柄光滑轻巧，锯齿状的刀刃被磨成一道薄而锋利的刃口。
 

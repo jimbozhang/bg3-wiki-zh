@@ -4,17 +4,17 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 奥法高塔](#the-arcane-tower)
-    - [2.1.1 探索高塔](#navigating-the-tower)
-  - [2.2 返回奥米伦处](#returning-to-omeluum)
-    - [2.2.1 第一次豁免检定](#first-saving-throw)
-    - [2.2.2 第二次豁免检定](#second-saving-throw)
-    - [2.2.3 第三次豁免检定](#third-saving-throw)
-    - [2.2.4 求生直觉](#survival-instinct)
-- [3 任务奖励](#quest-rewards)
-- [4 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 奥法高塔](#奥法高塔)
+    - [2.1.1 探索高塔](#探索高塔)
+  - [2.2 返回奥米伦处](#返回奥米伦处)
+    - [2.2.1 第一次豁免检定](#第一次豁免检定)
+    - [2.2.2 第二次豁免检定](#第二次豁免检定)
+    - [2.2.3 第三次豁免检定](#第三次豁免检定)
+    - [2.2.4 求生直觉](#求生直觉)
+- [3 任务奖励](#任务奖励)
+- [4 备注](#备注)
 
 ## 目标
 
@@ -58,7 +58,7 @@
 
 队伍可以通过恢复电力并使用电梯来探索奥法高塔。
 
-如果拥有飞行能力（例如[飞行术](Fly.md "Fly")法术，或[月亮结社](Circle_of_the_Moon.md "Circle of the Moon")德鲁伊的[恐鸦形态](Wild_Shape.md#Wild_Shape:_Dire_Raven "Wild Shape")），队伍可以完全绕过恢复高塔电力的需要。然而，这意味着放弃25点经验值以及可能为[公会工匠](Guild_Artisan.md "Guild Artisan")背景获得的[激励点](Inspiration.md "Inspiration")。
+如果拥有飞行能力（例如[飞行](Fly.md "飞行")法术，或[月亮结社](Circle_of_the_Moon.md "Circle of the Moon")德鲁伊的[恐鸦形态](Wild_Shape.md#Wild_Shape:_Dire_Raven "Wild Shape")），队伍可以完全绕过恢复高塔电力的需要。然而，这意味着放弃25点经验值以及可能为[公会工匠](Guild_Artisan.md "Guild Artisan")背景获得的[激励点](Inspiration.md "Inspiration")。
 
 要成功完成任务，必须先访问一楼（温室），那里有一些[狂乱之舌](Tongue_of_Madness.md "Tongue of Madness")蘑菇和[鬼头蘑菇孢子](Timmask_Spores_(ingredient).md "Timmask Spores (ingredient)")。一旦获得这些物品，队伍就可以返回[奥米伦](Omeluum.md "Omeluum")处完成任务。
 
@@ -66,7 +66,7 @@
 
 一旦返回奥米伦处，它会如约酿造药水，并尝试从说话的队伍成员身上提取蝌蚪，为拥有[公会工匠](Guild_Artisan.md "Guild Artisan")背景的队伍成员授予激励[心灵胜过蘑菇](Guild_Artisan.md#Mind_Over_Mushrooms "Guild Artisan")。
 
-如果通过被动DC 10的[洞悉](Insight.md "Insight")[检定](Ability_Check.md "Ability check")，队伍可以了解到奥米伦预料到他们会怀疑和恐惧。如果询问实验是否危险，它会告诉他们它不知道药水会让他们看到或感觉到什么，但他们可能会对自己构成危险。然而，灵吸怪向他们保证药水不会杀死他们。
+如果通过被动DC 10的[洞悉](Insight.md "Insight")[属性检定](Ability_Check.md "属性检定")，队伍可以了解到奥米伦预料到他们会怀疑和恐惧。如果询问实验是否危险，它会告诉他们它不知道药水会让他们看到或感觉到什么，但他们可能会对自己构成危险。然而，灵吸怪向他们保证药水不会杀死他们。
 
 喝下药水的队伍成员可以尝试一系列豁免检定，或者屈服于药水而不尝试任何豁免检定。拒绝豁免检定会应用列出的负面效果，如同检定失败一样。
 
@@ -131,8 +131,8 @@
 1. [↑](#cite_ref-3) 在抢先体验中，角色获得的是[冲击之力](Repulsor.md "Repulsor")[蝌蚪能力](Tadpole_Power.md "Tadpole Power")。
 1. [↑](#cite_ref-4) 在*抢先体验*期间，选项包括：
     - 提供金币——即像与其他商人一样进行交易。
-    - 通过DC 15的[智力](Intelligence.md "Intelligence")或[表演](Performance.md "Performance")[检定](Ability_Check.md "Ability check")交易他们关于鹦鹉螺号的知识/经验。
-    - 威吓奥米伦——通过DC 20的[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")。如果检定失败，奥米伦不会变得敌对。
+    - 通过DC 15的[智力](Intelligence.md "Intelligence")或[表演](Performance.md "Performance")[属性检定](Ability_Check.md "属性检定")交易他们关于鹦鹉螺号的知识/经验。
+    - 威吓奥米伦——通过DC 20的[威吓](Intimidation.md "Intimidation")[属性检定](Ability_Check.md "属性检定")。如果检定失败，奥米伦不会变得敌对。
 1. [↑](#cite_ref-5) 如果队伍成员在提取过程中之前的豁免检定失败，他们可以选择离开对话，让那些效果过去，然后再尝试技能检定来获得心灵防护戒指。在抢先体验中，队伍成员似乎可以自由尝试这些检定来免费获得戒指，次数不限。
 
 ---

@@ -1,6 +1,6 @@
 # 青足龙蛇鳞片
 
-**青足龙蛇鳞片**是一种[炼金术材料](Alchemy.md "炼金术")。需要三份才能提取[青足龙蛇鳞片升华物](Sublimate_of_Behir_Scales.md "青足龙蛇鳞片升华物")，后者用于制作[闪光弹](Flashblinder.md "闪光弹")。
+**青足龙蛇鳞片**是一种[炼金术](Alchemy.md "炼金术")。需要三份才能提取[青足龙蛇鳞片升华物](Sublimate_of_Behir_Scales.md "青足龙蛇鳞片升华物")，后者用于制作[闪光弹](Flashblinder.md "闪光弹")。
 
 闪电的抛物线在这坚硬光滑的鳞片边缘闪烁。
 

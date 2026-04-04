@@ -92,7 +92,7 @@
 [罹患失明症](Stricken_With_Blinding_Sickness_(Condition).md "罹患失明症 (状态)")
 |
 
-- 灼痛的指甲刺入受影响实体的眼睛。其在[感知](Wisdom.md "感知")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并且[目盲](Blinded_(Condition)..md)
+- 灼痛的指甲刺入受影响实体的眼睛。其在[感知](Wisdom.md "感知")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并且[目盲](Blinded_(Condition)..md)
 
 [被怨恨侵蚀](Stricken_with_Malice_(Condition).md "被怨恨侵蚀 (状态)")
 |
@@ -100,7 +100,7 @@
 - 受影响实体目盲且中毒。
 - 在[攻击掷骰](Attack_rolls.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，且其攻击和法术射程减少至 3 米 (10 英尺)。
 - 对目盲生物的攻击掷骰具有[优势](Advantage.md "优势")。
-- 在[属性检定](Checks.md "检定")上遭受[劣势](Disadvantage.md "劣势")。
+- 在[检定](Checks.md "检定")上遭受[劣势](Disadvantage.md "劣势")。
 
 ---
 *Source: [Blinded (status group)](https://bg3.wiki/wiki/Blinded_(status_group)*

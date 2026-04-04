@@ -15,7 +15,7 @@
 穿戴此物品获得：
 
 [鲜少措手不及](Seldom_Caught_Unawares_(+1).md)
-你获得 +1 的[先攻掷骰](Initiative.md "Initiative")加值。
+你获得 +1 的[先攻](Initiative.md "先攻")加值。
 
 [阴招](Skullduggery_Attack.md "Skullduggery Attack")
 你的[偷袭](Sneak_Attack.md "Sneak Attack")造成额外 1d4⁠⁠[力场](Force.md "Force")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害。

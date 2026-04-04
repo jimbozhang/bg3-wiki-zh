@@ -53,7 +53,7 @@
 猛扑向生物的喉咙。如果目标处于[倒伏](Prone_(Condition).md "倒伏 (状态)")状态，你将造成额外的2d6 + 力量或敏捷调整值⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[治疗](Healing.md "治疗")。
 
 [猛扑](Pounce.md "猛扑") (+ )
 跃向目标进行啃咬，并可能将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")状态。（充能：每回合。）

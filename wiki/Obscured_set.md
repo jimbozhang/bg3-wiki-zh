@@ -21,7 +21,7 @@
 | 莎尔的黄昏短矛 | [主手近战](Main_Hand_Melee.md "主手近战") ([短矛](Spears.md "短矛")) | [莎尔的祝福](Shar's_Blessing.md "莎尔的祝福")当你处于轻度或重度[遮蔽](Obscured.md "遮蔽")状态时，你在[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。此武器对处于轻度或重度遮蔽的生物造成额外1d6伤害。 [目盲免疫](Blind_Immunity.md "目盲免疫")穿戴者不会被[目盲](Blinded_(Condition).md "目盲（状态）")。 [莎尔的黑暗](Shar's_Darkness.md "莎尔的黑暗") () 施放为2环法术（充能：每回合。） [黑暗之刃](Edge_of_Darkness.md "黑暗之刃") () 在攻击时制造一团黑暗。[[见注释](Edge_of_Darkness#Notes.md#Notes "黑暗之刃")] （充能：[短休](Short_rest.md "短休")。） |
 | 钢铁卫士头盔 | [帽子](Headgear.md "帽子") ([中甲](Headwear#Medium.md#Medium "头部装备")) | [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势") [人工视觉](Artificial_Sight.md "人工视觉")穿戴者可以在黑暗中看到12米（40英尺）范围内的事物，且不会被[目盲](Blinded_(Condition).md "目盲（状态）")。 |
 | 遮蔽施法饰环 | [帽子](Headgear.md "帽子") ([非护甲](Headwear#Non-Armour.md#Non-Armour "头部装备")) | [遮蔽施法](Shadespell.md "遮蔽施法")当穿戴者处于阴影[遮蔽](Obscured.md "遮蔽")状态时，其法术获得+1加值到[法术豁免DC](Spell_save_DC.md "法术豁免DC")，使其更可能成功。 |
-| 维康妮亚的女祭司袍 | [护甲](Armour.md "护甲") ([服装](Clothing.md "服装")) | [护甲等级](Armour_Class.md "护甲等级") +1 [莎尔的暗影](Shar's_Umbrae.md "莎尔的暗影")当处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者在[隐匿检定](Stealth.md "隐匿")上具有[优势](Advantage.md "优势")。 [莎尔之帷幕](Sharran_Veil.md "莎尔之帷幕") [虔诚护盾](Shield_of_Faith.md "虔诚护盾")还会使你获得+2到所有[豁免检定](Saving_throw.md "豁免检定")。 |
+| 维康妮亚的女祭司袍 | [护甲](Armour.md "护甲") ([服装](Clothing.md "服装")) | [护甲等级](Armour_Class.md "护甲等级") +1 [莎尔的暗影](Shar's_Umbrae.md "莎尔的暗影")当处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者在[隐匿](Stealth.md "隐匿")上具有[优势](Advantage.md "优势")。 [莎尔之帷幕](Sharran_Veil.md "莎尔之帷幕") [虔诚护盾](Shield_of_Faith.md "虔诚护盾")还会使你获得+2到所有[豁免检定](Saving_throw.md "豁免检定")。 |
 
 ---
 *Source: [Obscured set](https://bg3.wiki/wiki/Obscured_set)*

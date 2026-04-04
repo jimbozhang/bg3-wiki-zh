@@ -1,6 +1,6 @@
 # 迷醉紫火把
 
-**火把**可用作[光源](Category_colon_Light_Sources.md "Category:Light Sources")，并可作为[短棒](Clubs.md "Clubs")家族的即兴武器使用。它是一种单手挥舞的[简易近战武器](Weapons.md "Weapons")。它是一种[轻型](Light.md "Light")武器，任何人都无需特殊训练即可双持。如果接触得当，可以点燃易燃的地表或云。
+**火把**可用作[光源](Category_colon_Light_Sources.md "Category:Light Sources")，并可作为[短棒](Clubs.md "Clubs")家族的即兴武器使用。它是一种单手挥舞的[武器](Weapons.md "武器")。它是一种[轻型](Light.md "Light")武器，任何人都无需特殊训练即可双持。如果接触得当，可以点燃易燃的地表或云。
 
 一股浓烈的油味从这根粗糙的树枝上飘散开来。
 

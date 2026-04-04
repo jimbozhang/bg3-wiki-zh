@@ -1,6 +1,6 @@
 # 铬绿水晶
 
-**铬绿水晶**是一种[炼金术材料](Alchemy.md "炼金术")。将3个这种物品研磨成[铬绿水晶盐](Salts_of_Viridian_Crystal.md "铬绿水晶盐")，用于制作[稀释的锐利之油](Diluted_Oil_of_Sharpness.md "稀释的锐利之油")。
+**铬绿水晶**是一种[炼金术](Alchemy.md "炼金术")。将3个这种物品研磨成[铬绿水晶盐](Salts_of_Viridian_Crystal.md "铬绿水晶盐")，用于制作[稀释的锐利之油](Diluted_Oil_of_Sharpness.md "稀释的锐利之油")。
 
 被称为“愚人翡翠”的[铬绿水晶](https://forgottenrealms.fandom.com/wiki/Viridian_Crystal)是一种易碎、锋利的水晶，难以加工，但在炼金术中有一些用途。
 

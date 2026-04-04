@@ -39,7 +39,7 @@
 
 从高到低的等级为：
 
-- [涨潮](Allandra_Grey.md "Allandra Grey")
+- [阿兰德拉·格雷](Allandra_Grey.md "阿兰德拉·格雷")
 - [狂野海风](Savage_Seawind.md "Savage_Seawind")
 - [暗黑碎浪](Dark_Breaker.md "Dark Breaker")
 - [未受选者](Untaken.md "Untaken")

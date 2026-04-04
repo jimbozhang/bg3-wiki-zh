@@ -2,7 +2,7 @@
 
 **狂野魔法：爆炸性治疗**
 
-- 你的等级 1 及以上的法术会治疗半径 3 米（10 英尺）内的所有生物，每[法术位](Spells.md#Spell_Slots "法术位")等级治疗 1d4⁠⁠[生命值](Healing.md "治疗")。
+- 你的等级 1 及以上的法术会治疗半径 3 米（10 英尺）内的所有生物，每[法术位](Spells.md#Spell_Slots "法术位")等级治疗 1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ## 属性
 
@@ -20,7 +20,7 @@
 
 ## 具有相同堆叠 ID 的状态
 
-- 你的等级 1 及以上的法术会治疗半径 3 米（10 英尺）内的所有生物，每[法术位](Spells.md#Spell_Slots "法术位")等级治疗 1d4⁠⁠[生命值](Healing.md "治疗")。
+- 你的等级 1 及以上的法术会治疗半径 3 米（10 英尺）内的所有生物，每[法术位](Spells.md#Spell_Slots "法术位")等级治疗 1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ---
 *Source: [Wild Magic: Explosive Healing (Condition)](https://bg3.wiki/wiki/Wild_Magic:_Explosive_Healing_(Condition)*

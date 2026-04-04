@@ -4,7 +4,7 @@
 
 ## 描述
 
-将你的敏捷 [调整值](Ability_Modifier.md "属性调整值") 全额加到你的 [护甲等级](Armour_Class.md "护甲等级") 上。此外，此护甲不会对隐匿 [检定](Ability_Check.md "属性检定") 施加 [劣势](Disadvantage.md "劣势")。
+将你的敏捷 [属性调整值](Ability_Modifier.md "属性调整值") 全额加到你的 [护甲等级](Armour_Class.md "护甲等级") 上。此外，此护甲不会对隐匿 [属性检定](Ability_Check.md "属性检定") 施加 [劣势](Disadvantage.md "劣势")。
 
 ## 如何习得
 

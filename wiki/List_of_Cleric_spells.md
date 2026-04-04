@@ -15,7 +15,7 @@
 | [剑刃防护](Blade_Ward.md "剑刃防护") | C |  |  | 2回合 | 自身 | - | - |
 | [肌腱爆裂](Bursting_Sinew.md "肌腱爆裂") | C |  |  | - | 18米 / 60英尺 / 3米 / 10英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 1d10⁠[穿刺](Piercing.md "穿刺") |
 | [神导术](Guidance.md "神导术") | C |  |  | 10回合 | 1.5米 / 5英尺 | - | - |
-| [光亮术](Light.md "光亮术") | C |  |  | 长休 | 1.5米 / 5英尺 | - | - |
+| [轻型](Light.md "轻型") | C |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [燃火术](Produce_Flame.md "燃火术") | C |  |  | 长休 | 自身 | - | 1d8⁠[火焰](Fire.md "火焰") |
 | [抗性](Resistance_(Cantrip).md "抗性 (戏法)") | C |  |  | 10回合 | 1.5米 / 5英尺 | - | - |
 | [圣火术](Sacred_Flame.md "圣火术") | C |  |  | - | 18米 / 60英尺 | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 1d8⁠[光耀](Radiant.md "光耀") |

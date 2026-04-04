@@ -2,7 +2,7 @@
 
 本文介绍的内容在**[正常游戏过程中无法获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**飞镖 +1** 是 [飞镖](Darts.md "Darts") 武器家族中一种不常见、带有轻微附魔（+1）的变体。它是一种 [简易远程武器](Weapons.md "Weapons")，需双手持握。作为 [灵巧](Finesse.md "Finesse") 武器，它能受益于使用者的敏捷，而不仅仅是力量。
+**飞镖 +1** 是 [飞镖](Darts.md "Darts") 武器家族中一种不常见、带有轻微附魔（+1）的变体。它是一种 [武器](Weapons.md "武器")，需双手持握。作为 [灵巧](Finesse.md "Finesse") 武器，它能受益于使用者的敏捷，而不仅仅是力量。
 
 这是一枚由轻质木材制成的飞镖，羽毛经过精心切割，呈锐角。
 

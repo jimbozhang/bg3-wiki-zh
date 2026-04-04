@@ -4,7 +4,7 @@
 
 ## 描述
 
-当被攻击时，受影响的实体可以利用 [吸取](Elemental_Siphon.md "元素吸取") 的魔法来施放 [元素叱喝](Elemental_Retort.md "元素叱喝")。
+当被攻击时，受影响的实体可以利用 [元素吸取](Elemental_Siphon.md "元素吸取") 的魔法来施放 [元素叱喝](Elemental_Retort.md "元素叱喝")。
 
 ## 如何习得
 
@@ -14,7 +14,7 @@
 
 ## 简要预览
 
-当被攻击时，可以使用 [吸取](Elemental_Siphon.md "元素吸取") 的魔法来施放 [元素叱喝](Elemental_Retort.md "元素叱喝")。
+当被攻击时，可以使用 [元素吸取](Elemental_Siphon.md "元素吸取") 的魔法来施放 [元素叱喝](Elemental_Retort.md "元素叱喝")。
 
 ---
 *Source: [Elemental Retort (passive feature)](https://bg3.wiki/wiki/Elemental_Retort_(passive_feature)*

@@ -6,7 +6,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -66,11 +66,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")的时间延长一倍。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -118,11 +118,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")的时间延长一倍。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -162,7 +162,7 @@
 
 ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得+2加值。
 
@@ -174,15 +174,15 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")的时间延长一倍。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕根深蒂固。
 
@@ -192,17 +192,17 @@
 
 属性
 
-`Githyanki_Raider_Strong` **吉斯洋基人老练掠夺者**是[吉斯洋基掠夺者](Raider.md "掠夺者")原型的强化版本，在_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中随处可见。
+`Githyanki_Raider_Strong` **吉斯洋基人老练掠夺者**是[掠夺者](Raider.md "掠夺者")原型的强化版本，在_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中随处可见。
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 策略](#manoeuvres)
-- [3 命名的老练掠夺者](#named-veteran-raiders)
-  - [3.1 精灵之歌酒馆](#elfsong-tavern)
-  - [3.2 雷斯文小镇](#reithwin-town)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 策略](#策略)
+- [3 命名的老练掠夺者](#命名的老练掠夺者)
+  - [3.1 精灵之歌酒馆](#精灵之歌酒馆)
+  - [3.2 雷斯文小镇](#雷斯文小镇)
 
 ## 参与
 

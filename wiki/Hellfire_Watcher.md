@@ -72,31 +72,31 @@
 
 - - - - - - ## 特性
 
-- [**灵敏架势**](Agile_Chassis.md "灵敏架势")
+- [灵敏架势](Agile_Chassis.md "灵敏架势")
 
 敏捷[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且移动速度 +9 米 / 30 英尺。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**保险协议**](Failsafe_Protocol.md "保险协议")
+- [保险协议](Failsafe_Protocol.md "保险协议")
 
 在损失大量[生命值](Hit_Points.md "生命值")后，此生物将启动[自爆程序](Self-Detonation_Protocol.md "自爆程序")以消灭所有附近威胁。如果死亡，它会立即[爆炸](Self-Detonate.md "爆炸")。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")具有+5加值。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
@@ -146,31 +146,31 @@
 
 - - - - - - ## 特性
 
-- [**灵敏架势**](Agile_Chassis.md "灵敏架势")
+- [灵敏架势](Agile_Chassis.md "灵敏架势")
 
 敏捷[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且移动速度 +9 米 / 30 英尺。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**保险协议**](Failsafe_Protocol.md "保险协议")
+- [保险协议](Failsafe_Protocol.md "保险协议")
 
 在损失大量[生命值](Hit_Points.md "生命值")后，此生物将启动[自爆程序](Self-Detonation_Protocol.md "自爆程序")以消灭所有附近威胁。如果死亡，它会立即[爆炸](Self-Detonate.md "爆炸")。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")具有+5加值。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
@@ -178,15 +178,15 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 免疫](#immunities)
-- [3 重要战利品](#notable-loot)
-- [4 相关任务](#related-quests)
-- [5 备注](#notes)
-- [6 画廊](#gallery)
-- [7 另见](#see-also)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 免疫](#免疫)
+- [3 重要战利品](#重要战利品)
+- [4 相关任务](#相关任务)
+- [5 备注](#备注)
+- [6 画廊](#画廊)
+- [7 另见](#另见)
 
 ## 概述
 

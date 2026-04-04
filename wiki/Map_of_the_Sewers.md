@@ -20,7 +20,7 @@
 
 ## 文本
 
-\[一张肮脏、破旧的下水道地图，用不均匀、潦草的线条绘制。有一个区域用X标记。旁边写着：_[巴格辛博](Bugthimble.md "巴格辛博")_。_龙_。_部落宝藏_。
+\[巴格辛博](Bugthimble.md "巴格辛博")_。_龙_。_部落宝藏_。
 
 ---
 *Source: [Map of the Sewers](https://bg3.wiki/wiki/Map_of_the_Sewers)*

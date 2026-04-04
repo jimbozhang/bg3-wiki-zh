@@ -28,7 +28,7 @@
 
 ## 备注
 
-- 在被遗忘的国度传说中，聆听者学院是法拉泰尔的七所吟游诗人学院之一，位于[博德之门下城区](Lower_City.md "下城区")。[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")曾是其校园的一部分。
+- 在被遗忘的国度传说中，聆听者学院是法拉泰尔的七所吟游诗人学院之一，位于[下城区](Lower_City.md "下城区")。[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")曾是其校园的一部分。
 
 ---
 *Source: [Falataeric Cli Lyre](https://bg3.wiki/wiki/Falataeric_Cli_Lyre)*

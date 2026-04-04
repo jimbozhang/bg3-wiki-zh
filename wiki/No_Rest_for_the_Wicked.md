@@ -1,6 +1,6 @@
 # 不得安息的恶徒
 
-**不得安息的恶徒**是一个[等级 3 死灵学派法术](Spells.md "Spells")。此法术由[死亡牧者](Death_Shepherd.md "Death Shepherd")掌握，能够复活一个不死生物。队伍成员无法学习此法术。
+**不得安息的恶徒**是一个[法术](Spells.md "法术")。此法术由[死亡牧者](Death_Shepherd.md "Death Shepherd")掌握，能够复活一个不死生物。队伍成员无法学习此法术。
 
 ## 描述
 

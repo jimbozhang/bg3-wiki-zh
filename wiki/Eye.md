@@ -1,6 +1,6 @@
 # 眼睛
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Eye.md "Special:WhatLinksHere/Eye")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[眼睛](Special_colon_WhatLinksHere/Eye.md "眼睛")的，请考虑编辑该链接，将其指向正确的页面。
 
 **眼睛**可能指：
 

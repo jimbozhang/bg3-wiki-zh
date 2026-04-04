@@ -47,7 +47,7 @@ UID
 
 ## 如何习得
 
-通过 [熟练](Proficiency.md "熟练") 并装备以下武器类型获得：
+通过 [熟练项](Proficiency.md "熟练项") 并装备以下武器类型获得：
 
 - [匕首](Daggers.md "匕首")
 - [标枪](Javelins.md "标枪")

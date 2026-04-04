@@ -2,7 +2,7 @@
 
 **守护灵光**
 
-- 该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+- 该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 属性
 
@@ -18,12 +18,12 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| [守护灵光](Aura_of_Protection_(Condition).md "守护灵光 (状态)") | 获得等于散发灵光生物的[魅力调整值](Charisma.md "魅力")的[豁免检定](Saving_throw.md "豁免检定")加值。 |
-| 守护灵光 | 该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。 |
+| [守护灵光](Aura_of_Protection_(Condition).md "守护灵光 (状态)") | 获得等于散发灵光生物的[魅力](Charisma.md "魅力")的[豁免检定](Saving_throw.md "豁免检定")加值。 |
+| 守护灵光 | 该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。 |
 
 ⁠半径：3米（10英尺）
 
-- 获得等于散发灵光生物的[魅力调整值](Charisma.md "魅力")的[豁免检定](Saving_throw.md "豁免检定")加值。
+- 获得等于散发灵光生物的[魅力](Charisma.md "魅力")的[豁免检定](Saving_throw.md "豁免检定")加值。
 
 ## 守护灵光的来源
 
@@ -76,16 +76,16 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| [守护灵光](Aura_of_Protection_(Condition).md "守护灵光 (状态)") | 获得等于散发灵光生物的[魅力调整值](Charisma.md "魅力")的[豁免检定](Saving_throw.md "豁免检定")加值。 |
-| 守护灵光 | 该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。 |
+| [守护灵光](Aura_of_Protection_(Condition).md "守护灵光 (状态)") | 获得等于散发灵光生物的[魅力](Charisma.md "魅力")的[豁免检定](Saving_throw.md "豁免检定")加值。 |
+| 守护灵光 | 该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。 |
 
 \_(状态)守护灵光
 
-- 该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+- 该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 简要预览
 
-该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其3米（10英尺）范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ---
 *Source: [Aura of Protection (Aura) (Condition)](https://bg3.wiki/wiki/Aura_of_Protection_(Aura)*

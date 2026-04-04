@@ -1,6 +1,6 @@
 # 肖像画
 
-这是一个消歧义页面，它链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Portrait.md "Special:WhatLinksHere/Portrait")的，请考虑编辑该链接以指向正确的页面。
+这是一个消歧义页面，它链接到名称模糊的文章。如果您是通过文章中的链接[肖像画](Special_colon_WhatLinksHere/Portrait.md "肖像画")的，请考虑编辑该链接以指向正确的页面。
 
 **肖像画**可能指：
 

@@ -1,6 +1,6 @@
 # 藏身点
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Hideout.md "Special:WhatLinksHere/Hideout")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[藏身点](Special_colon_WhatLinksHere/Hideout.md "藏身点")的，请考虑编辑该链接，将其指向正确的页面。
 
 **藏身点**可能指：
 

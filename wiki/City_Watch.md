@@ -8,14 +8,14 @@
 
 ## 目录
 
-- [1 背景](#background)
-- [2 涉及内容](#involvement)
-  - [2.1 第三幕](#act-three)
-- [3 成员](#members)
-- [4 相关物品](#related-items)
-- [5 相关文献](#related-literature)
-- [6 相关任务](#related-quests)
-- [7 外部链接](#external-links)
+- [1 背景](#背景)
+- [2 涉及内容](#涉及内容)
+  - [2.1 第三幕](#第三幕)
+- [3 成员](#成员)
+- [4 相关物品](#相关物品)
+- [5 相关文献](#相关文献)
+- [6 相关任务](#相关任务)
+- [7 外部链接](#外部链接)
 
 ## 背景
 
@@ -27,7 +27,7 @@
 
 ### 第三幕
 
-卫士在很大程度上与[至上真神危机](Absolute.md "Absolute")无关，直到[耐色脑](Netherbrain.md "Netherbrain")突破上城区，占据[至高大殿](https://forgottenrealms.fandom.com/wiki/High_Hall)的顶端。一支规模庞大且多样化的至上真神教徒部队，例如[审判官](Inquisitor_of_the_Absolute.md "Inquisitor of the Absolute")、[至上真神狂热信徒](Zealot_of_the_Absolute.md "Zealot of the Absolute")和[地精](Goblin.md "Goblin")，会从至高大殿下方的[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")中出现，并在[夺心魔](Mind_flayer.md "Mind Flayer")和不死生物的支持下，从卫士手中夺取至高大殿的控制权。
+卫士在很大程度上与[至上真神危机](Absolute.md "Absolute")无关，直到[耐色脑](Netherbrain.md "Netherbrain")突破上城区，占据[至高大殿](https://forgottenrealms.fandom.com/wiki/High_Hall)的顶端。一支规模庞大且多样化的至上真神教徒部队，例如[至上真神审判官](Inquisitor_of_the_Absolute.md "至上真神审判官")、[至上真神狂热信徒](Zealot_of_the_Absolute.md "Zealot of the Absolute")和[地精](Goblin.md "Goblin")，会从至高大殿下方的[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")中出现，并在[夺心魔](Mind_flayer.md "Mind Flayer")和不死生物的支持下，从卫士手中夺取至高大殿的控制权。
 
 在[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")的过程中，出现在至高大殿和守望者城堡的大部分城市卫士已被至上真神的部队消灭并逐出该区域，大量卫士尸体散落在该地区各处。尽管如此，守望者城堡仍将成为[召集盟友](Gather_Your_Allies.md "Gather Your Allies")中党派盟友的会合点，[瓦莱里亚](Valeria.md "Valeria")可能会在那里出现，并提到卫士的残余部队已准备好反击。
 

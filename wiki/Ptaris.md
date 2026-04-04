@@ -87,23 +87,23 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**灵能皮肤**](Psionic_Skin.md "灵能皮肤")
+- [灵能皮肤](Psionic_Skin.md "灵能皮肤")
 
 在回合开始时移除所有状态。
 
-- [**空间分流**](Shunt_Through_Space.md "空间分流")
+- [空间分流](Shunt_Through_Space.md "空间分流")
 
 在受到伤害后使用[反应](Actions.md#Reactions "动作")，潘塔利斯会尽可能远离攻击者传送。
 
-- [**不自然生长**](Unnatural_Growth.md "不自然生长")
+- [不自然生长](Unnatural_Growth.md "不自然生长")
 
 每回合消耗 2 个[动作](Actions.md#Resources "动作")。
 
@@ -151,19 +151,19 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能皮肤**](Psionic_Skin.md "灵能皮肤")
+- [灵能皮肤](Psionic_Skin.md "灵能皮肤")
 
 在回合开始时移除所有状态。
 
-- [**空间分流**](Shunt_Through_Space.md "空间分流")
+- [空间分流](Shunt_Through_Space.md "空间分流")
 
 在受到伤害后使用[反应](Actions.md#Reactions "动作")，潘塔利斯会尽可能远离攻击者传送。
 
-- [**不自然生长**](Unnatural_Growth.md "不自然生长")
+- [不自然生长](Unnatural_Growth.md "不自然生长")
 
 每回合消耗 2 个[动作](Actions.md#Resources "动作")。
 
@@ -217,23 +217,23 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能皮肤**](Psionic_Skin.md "灵能皮肤")
+- [灵能皮肤](Psionic_Skin.md "灵能皮肤")
 
 在回合开始时移除所有状态。
 
-- [**空间分流**](Shunt_Through_Space.md "空间分流")
+- [空间分流](Shunt_Through_Space.md "空间分流")
 
 在受到伤害后使用[反应](Actions.md#Reactions "动作")，潘塔利斯会尽可能远离攻击者传送。
 
-- [**不自然生长**](Unnatural_Growth.md "不自然生长")
+- [不自然生长](Unnatural_Growth.md "不自然生长")
 
 每回合消耗 2 个[动作](Actions.md#Resources "动作")。
 
@@ -291,7 +291,7 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
 
@@ -299,19 +299,19 @@
 
 每回合一次，在被击中后，潘塔利斯可以消耗一个传奇动作，用[塔里安和平主义](Ptarian_Pacifism_(Condition).md "塔里安和平主义 (状态)")包围攻击者。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能皮肤**](Psionic_Skin.md "灵能皮肤")
+- [灵能皮肤](Psionic_Skin.md "灵能皮肤")
 
 在回合开始时移除所有状态。
 
-- [**空间分流**](Shunt_Through_Space.md "空间分流")
+- [空间分流](Shunt_Through_Space.md "空间分流")
 
 在受到伤害后使用[反应](Actions.md#Reactions "动作")，潘塔利斯会尽可能远离攻击者传送。
 
-- [**不自然生长**](Unnatural_Growth.md "不自然生长")
+- [不自然生长](Unnatural_Growth.md "不自然生长")
 
 每回合消耗 2 个[动作](Actions.md#Resources "动作")。
 
@@ -333,20 +333,20 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-  - [1.2 历史](#history)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第三幕](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 荣誉模式](#honour-mode)
-  - [3.3 战术](#tactics)
-  - [3.4 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 相关文献](#related-literature)
-- [6 参考文献](#references)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+  - [1.2 历史](#历史)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第三幕](#第三幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 荣誉模式](#荣誉模式)
+  - [3.3 战术](#战术)
+  - [3.4 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 相关文献](#相关文献)
+- [6 参考文献](#参考文献)
 
 ## 概述
 
@@ -407,7 +407,7 @@ Stats
 
 [削弱雕像](Sapping_Images.md "削弱雕像") ()
 
-创造[魔法雕像](Ptaris'_Mental_Image.md "潘塔利斯的心象")，从附近目标身上偷取 2 点魅力、智力和感知。
+创造[潘塔利斯的心象](Ptaris'_Mental_Image.md "潘塔利斯的心象")，从附近目标身上偷取 2 点魅力、智力和感知。
 
 摧毁一个心灵雕像会恢复属性点。
 
@@ -435,7 +435,7 @@ Stats
 
 ### 战术
 
-潘塔利斯可能是一个令人惊讶的挑战性战斗。他等级为 12，并创造了许多[心灵雕像](Ptaris'_Mental_Image.md "潘塔利斯的心象")，这些雕像会削弱盟友的力量，如果处理不及时，可能会导致他们变得[萎缩](Atrophied_(Condition).md "萎缩 (状态)")。他通常使用[星界步伐](Astral_Step.md "星界步伐")和[空间分流](Shunt_Through_Space.md "空间分流")来与队伍保持距离，同时用[真空飞弹](Vacuum_Missile.md "真空飞弹")从远处攻击他们，并创造更多雕像。
+潘塔利斯可能是一个令人惊讶的挑战性战斗。他等级为 12，并创造了许多[潘塔利斯的心象](Ptaris'_Mental_Image.md "潘塔利斯的心象")，这些雕像会削弱盟友的力量，如果处理不及时，可能会导致他们变得[萎缩](Atrophied_(Condition).md "萎缩 (状态)")。他通常使用[星界步伐](Astral_Step.md "星界步伐")和[空间分流](Shunt_Through_Space.md "空间分流")来与队伍保持距离，同时用[真空飞弹](Vacuum_Missile.md "真空飞弹")从远处攻击他们，并创造更多雕像。
 
 然而，潘塔利斯没有抗性，如果队伍有高伤害输出者，可以相当快地集中火力击败他。近战队伍成员可以通过引诱潘塔利斯在借机攻击上浪费他的反应，然后自己攻击他，来反制[空间分流](Shunt_Through_Space.md "空间分流")。
 

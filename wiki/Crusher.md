@@ -89,15 +89,15 @@
 
 ## 特性
 
-- [**原始狂怒**](Crude_Frenzy.md "原始狂怒")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行[主手攻击](Main_Hand_Attack.md "主手攻击")后可进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -151,15 +151,15 @@
 
 ## 特性
 
-- [**原始狂怒**](Crude_Frenzy.md "原始狂怒")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行[主手攻击](Main_Hand_Attack.md "主手攻击")后可进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -213,19 +213,19 @@
 
 ## 特性
 
-- [**原始狂怒**](Crude_Frenzy.md "原始狂怒")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行[主手攻击](Main_Hand_Attack.md "主手攻击")后可进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，可选择额外造成 1d6⁠⁠[物理](Physical.md "物理")伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -279,19 +279,19 @@
 
 ## 特性
 
-- [**原始狂怒**](Crude_Frenzy.md "原始狂怒")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行[主手攻击](Main_Hand_Attack.md "主手攻击")后可进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，可选择额外造成 1d6⁠⁠[物理](Physical.md "物理")伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -321,17 +321,17 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-    - [1.1.1 邪念](#dark-urge)
-- [2 伙伴好感度](#companion-approval)
-  - [2.1 第一幕](#act-one-2)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 死者交谈](#speak-with-dead)
-- [5 画廊](#gallery)
-- [6 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+    - [1.1.1 邪念](#邪念)
+- [2 伙伴好感度](#伙伴好感度)
+  - [2.1 第一幕](#第一幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 死者交谈](#死者交谈)
+- [5 画廊](#画廊)
+- [6 外部链接](#外部链接)
 
 ## 出场
 

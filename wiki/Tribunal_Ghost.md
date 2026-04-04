@@ -71,19 +71,19 @@
 
 ## 特性
 
-- [**虚无形态**](Ethereal.md "Ethereal")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**虚体移动**](Incorporeal_Movement.md "Incorporeal_Movement")
+- [虚体移动](Incorporeal_Movement.md "虚体移动")
 
 对你的借机攻击具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "Permanently_Armed")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -91,10 +91,10 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与
 
@@ -149,7 +149,7 @@
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法获得开放伤口。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
@@ -163,7 +163,7 @@
 
 你的[力量](Strength.md "Strength")影响你能投掷的重量。更重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "Thrown")属性的武器的伤害与武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与武器的近战伤害相同。
 
 范围：3-18 m (10-60 ft)
 

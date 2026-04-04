@@ -82,15 +82,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血 (状态)")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -142,15 +142,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血 (状态)")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -202,15 +202,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血 (状态)")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 

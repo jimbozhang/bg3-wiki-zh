@@ -1,6 +1,6 @@
 # 魅影杀手
 
-**魅影杀手**是一个[4级幻术学派法术](Spells.md "法术")。它允许施法者用幻象暂时困扰生物的心智，造成伤害、阻止移动，并对[属性检定](Ability_checks.md "属性检定")和[攻击掷骰](Attack_rolls.md "攻击掷骰")施加[劣势](Disadvantage.md "劣势")。
+**魅影杀手**是一个[法术](Spells.md "法术")。它允许施法者用幻象暂时困扰生物的心智，造成伤害、阻止移动，并对[属性检定](Ability_checks.md "属性检定")和[攻击掷骰](Attack_rolls.md "攻击掷骰")施加[劣势](Disadvantage.md "劣势")。
 
 ## 描述
 

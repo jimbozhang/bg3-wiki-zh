@@ -79,7 +79,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -129,7 +129,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -179,7 +179,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -236,8 +236,8 @@ UUID
 
 与灵体的对话包含几个属性检定，可能揭示武僧灵体故事的一些线索。
 
-- DC 10 [调查](Investigation.md "调查") [检定](Ability_Check.md "属性检定") 和随后的 DC 10 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定") 将揭示该武僧崇拜⁠[洛山达](Lathander.md "洛山达")——黎明与重生之神。
-- DC 10 [洞悉](Insight.md "洞悉") [检定](Ability_Check.md "属性检定") 将表明该灵体并无故意伤害其携带者的意图。
+- DC 10 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定") 和随后的 DC 10 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定") 将揭示该武僧崇拜⁠[洛山达](Lathander.md "洛山达")——黎明与重生之神。
+- DC 10 [洞悉](Insight.md "洞悉") [属性检定](Ability_Check.md "属性检定") 将表明该灵体并无故意伤害其携带者的意图。
 
 如果同意帮助灵体，武僧灵体会说他将随队伍同行，并在旅途中提供一些帮助。感知护符可由任何队伍成员佩戴，提供以下能力：每短休一次施放[粉碎音波](Shatter.md "粉碎音波")、[回气（次级）](Ki_Restoration_(Lesser).md "回气（次级）")，以及一项[与活体护符交谈](Talk_to_the_Sentient_Amulet.md "与活体护符交谈")的能力，允许随时重新考虑关于帮助灵体的决定。将护符保留在队伍成员的物品栏（或营地）中不会获得任何这些能力。
 
@@ -251,9 +251,9 @@ UUID
 
 之后，对话会自动开始。武僧灵体占据了希拉·克拉文干瘪的尸体。他哀叹孙女的死亡，因为她本愿意在她的神伊尔梅特的意愿下承担诅咒。但现在，灵体必须找到另一个志愿者来承担诅咒。
 
-在任务的这一点，队伍可以决定是同意承担诅咒还是拒绝提议。此外，这里的一个次要选项是尝试通过 DC 15 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定") 猜测灵体痛苦的真相。如果成功，将揭示诅咒的本质实际上等同于[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")法术。
+在任务的这一点，队伍可以决定是同意承担诅咒还是拒绝提议。此外，这里的一个次要选项是尝试通过 DC 15 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定") 猜测灵体痛苦的真相。如果成功，将揭示诅咒的本质实际上等同于[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")法术。
 
-如果选择承担诅咒，有三个检定可以避免负面后果——DC 15 [感知](Wisdom.md "感知") [检定](Ability_Check.md "属性检定")、DC 15 [体质](Constitution.md "体质") [检定](Ability_Check.md "属性检定") 或 DC 2 [感知](Wisdom.md "感知") [检定](Ability_Check.md "属性检定") (灵吸怪)。队伍必须在这些检定中成功两次（相同 DC）。如果诅咒被移除，承受诅咒的队伍成员将获得每长休一次施放[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")的能力。
+如果选择承担诅咒，有三个检定可以避免负面后果——DC 15 [感知](Wisdom.md "感知") [属性检定](Ability_Check.md "属性检定")、DC 15 [体质](Constitution.md "体质") [属性检定](Ability_Check.md "属性检定") 或 DC 2 [感知](Wisdom.md "感知") [属性检定](Ability_Check.md "属性检定") (灵吸怪)。队伍必须在这些检定中成功两次（相同 DC）。如果诅咒被移除，承受诅咒的队伍成员将获得每长休一次施放[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")的能力。
 
 如果拒绝承担诅咒，或在吸收过程中中途停止，希拉·克拉文体内的武僧灵体将变得敌对。他唤醒墓穴中的另外三具尸体作为[大僵尸](Greater_Zombie.md "大僵尸")攻击队伍：
 

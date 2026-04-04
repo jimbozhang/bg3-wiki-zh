@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[公会关于霍慈·霍利根的档案，她是[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")的酒吧女侍。\]
+\[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")的酒吧女侍。\]
 
 ---
 *Source: [Scroll (Hoots Hooligan dossier)](https://bg3.wiki/wiki/Scroll_(Hoots_Hooligan_dossier)*

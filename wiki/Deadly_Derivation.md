@@ -4,7 +4,7 @@
 
 ## 描述
 
-当你使敌人[中毒](Poisoned_(Condition).md "中毒（状态）")时，恢复1d4⁠⁠[生命值](Healing.md "治疗")。
+当你使敌人[中毒](Poisoned_(Condition).md "中毒（状态）")时，恢复1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ## 学习方式
 

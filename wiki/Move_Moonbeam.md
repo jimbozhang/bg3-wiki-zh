@@ -1,6 +1,6 @@
 # 移动月华之光
 
-**移动月华之光** 是一个 [2级塑能学派法术](Spells.md "Spells")。此法术允许施法者将他们的 [月华之光](Moonbeam.md "Moonbeam") 移动到不同的地点，对进入该区域的生物造成伤害。
+**移动月华之光** 是一个 [法术](Spells.md "法术")。此法术允许施法者将他们的 [月华之光](Moonbeam.md "Moonbeam") 移动到不同的地点，对进入该区域的生物造成伤害。
 
 ## 描述
 
@@ -15,7 +15,7 @@
 2d10⁠[光耀](Radiant.md "Radiant")（每回合）
 
 详情
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（若豁免成功：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（若豁免成功：目标仍承受一半伤害。）
 范围：18 米（60 英尺）
 范围效果：1 米（3 英尺）半径
 [专注](Concentration.md "Concentration")

@@ -4,7 +4,7 @@
 
 ## 描述
 
-当处于[隐匿](Obscured.md "隐匿")状态时，穿着者在[隐匿检定](Stealth.md "隐匿")上获得[优势](Advantage.md "优势")。
+当处于[隐匿](Obscured.md "隐匿")状态时，穿着者在[隐匿](Stealth.md "隐匿")上获得[优势](Advantage.md "优势")。
 
 ## 如何习得
 

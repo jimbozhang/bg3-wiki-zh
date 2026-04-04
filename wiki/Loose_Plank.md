@@ -2,7 +2,7 @@
 
 **松动木板**是一种静态杂物[容器](Container.md "Container")，可在游戏的[第二幕](Act_Two.md "Act Two")和[第三幕](Act_Three.md "Act Three")中找到。
 
-通常包含珍品或任务相关物品，需要通过DC 10的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")到DC 20的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")才能发现。
+通常包含珍品或任务相关物品，需要通过DC 10的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")到DC 20的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")才能发现。
 
 ## 属性
 

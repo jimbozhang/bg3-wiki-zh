@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[一本宣传册，展示了几位城市贵族佩戴 [奥莫托拉](Omotola.md "奥莫托拉") 宝石的图片。首页是一幅精美华丽的大型婚戒的详细绘图。下方写着“由 [闪耀盛会](Glitter_Gala.md "闪耀盛会") 设计。受 [菲莉亚·詹纳特女士](Fireliia_Jannath.md "菲莉亚·詹纳特女士") 委托。”
+\[奥莫托拉](Omotola.md "奥莫托拉") 宝石的图片。首页是一幅精美华丽的大型婚戒的详细绘图。下方写着“由 [闪耀盛会](Glitter_Gala.md "闪耀盛会") 设计。受 [菲莉亚·詹纳特女士](Fireliia_Jannath.md "菲莉亚·詹纳特女士") 委托。”
 
 ---
 *Source: [The Glitter Gala - Glittering Baldur's Gate for over Twenty Years](https://bg3.wiki/wiki/The_Glitter_Gala_-_Glittering_Baldur's_Gate_for_over_Twenty_Years)*

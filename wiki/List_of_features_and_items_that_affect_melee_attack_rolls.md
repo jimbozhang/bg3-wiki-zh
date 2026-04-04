@@ -2,8 +2,8 @@
 
 ## 目录
 
-- [1 基本信息](#general-information)
-- [2 职业特性](#class-features)
+- [1 基本信息](#基本信息)
+- [2 职业特性](#职业特性)
   - [2.1 野蛮人](#barbarian)
   - [2.2 吟游诗人](#bard)
   - [2.3 牧师](#cleric)

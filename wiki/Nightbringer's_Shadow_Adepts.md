@@ -55,7 +55,7 @@ UID
 [黑暗术](Darkness.md "黑暗术") (+ )
 创造一团魔法黑暗云，对范围内的生物施加 [重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)") 并使其 [目盲](Blinded_(Condition).md "目盲 (状态)")。生物无法向内或向外进行远程攻击。
 
-从 [阴影](Lightly_Obscured.md "轻度遮蔽") 传送至阴影。之后，你的下一次近战 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
+从 [轻度遮蔽](Lightly_Obscured.md "轻度遮蔽") 传送至阴影。之后，你的下一次近战 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
 
 ## 如何学习
 
@@ -68,7 +68,7 @@ UID
 
 ## 备注
 
-- 根据队伍在 [影心的任务](Investigate_the_House_of_Grief.md "调查哀伤之邸") 期间支持谁，具有独特的语音台词。
+- 根据队伍在 [调查哀伤之邸](Investigate_the_House_of_Grief.md "调查哀伤之邸") 期间支持谁，具有独特的语音台词。
 
 ---
 *Source: [Nightbringer's Shadow Adepts](https://bg3.wiki/wiki/Nightbringer's_Shadow_Adepts)*

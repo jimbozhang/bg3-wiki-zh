@@ -80,15 +80,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**猫之轻落**](Feline_Fall.md "猫之轻落")
+- [猫之轻落](Feline_Fall.md "猫之轻落")
 
 由于天生的猫科动物优雅，猫对[抗性](Resistant.md "抗性")具有[抗性](Resistant.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -136,15 +136,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**猫之轻落**](Feline_Fall.md "猫之轻落")
+- [猫之轻落](Feline_Fall.md "猫之轻落")
 
 由于天生的猫科动物优雅，猫对[抗性](Resistant.md "抗性")具有[抗性](Resistant.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -192,15 +192,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**猫之轻落**](Feline_Fall.md "猫之轻落")
+- [猫之轻落](Feline_Fall.md "猫之轻落")
 
 由于天生的猫科动物优雅，猫对[抗性](Resistant.md "抗性")具有[抗性](Resistant.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

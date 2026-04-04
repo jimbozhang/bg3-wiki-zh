@@ -1,6 +1,6 @@
 # 激活召雷术
 
-**激活召雷术**是一个[等级 3 咒法学派法术](Spells.md "Spells")。此法术允许施法者再次召唤闪电，以击中效果区域内的所有目标。它只能在专注[召雷术](Call_Lightning.md "Call_Lightning")时获得。
+**激活召雷术**是一个[法术](Spells.md "法术")。此法术允许施法者再次召唤闪电，以击中效果区域内的所有目标。它只能在专注[召雷术](Call_Lightning.md "Call_Lightning")时获得。
 
 ## 描述
 

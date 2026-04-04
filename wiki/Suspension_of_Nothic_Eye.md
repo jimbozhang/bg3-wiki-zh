@@ -1,6 +1,6 @@
 # 诺斯异怪之眼悬液
 
-**诺斯异怪之眼悬液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[识破隐形灵药](Elixir_of_See_Invisibility.md "识破隐形灵药")。
+**诺斯异怪之眼悬液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[识破隐形灵药](Elixir_of_See_Invisibility.md "识破隐形灵药")。
 
 诺斯异怪诅咒的起源是独眼维克那，不死生物巫妖与秘密大师。
 

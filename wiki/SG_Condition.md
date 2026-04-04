@@ -77,7 +77,7 @@
 [腹中翻腾的酿造](Brewed-Up_Bellyglummer_(Condition).md "腹中翻腾的酿造 (状态)")
 |
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
 - 受影响的实体在其下一回合结束时受到 1d6⁠⁠[中毒](Poison.md "中毒")伤害。
 
 [紧张症](Catatonic_(Condition).md "紧张症 (状态)")
@@ -93,7 +93,7 @@
 [魅惑](Charmed_(Condition).md "魅惑 (状态)")
 |
 
-- 无法攻击施法者。施法者在对话中的[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
+- 无法攻击施法者。施法者在对话中的[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 
 [胸外伤](Chest_Trauma_(Condition).md "胸外伤 (状态)")
 |
@@ -226,7 +226,7 @@
 [交友术](Friends_(Condition).md "交友术 (状态)")
 |
 
-- 在针对目标生物的[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
+- 在针对目标生物的[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 
 在更高难度模式下，目标可能会指控你对其施法。
 [恐慌](Frightened_(Condition).md "恐慌 (状态)")
@@ -257,7 +257,7 @@
 [蛛丝墓穴](Gossamer_Tomb_(Condition).md "蛛丝墓穴 (状态)")
 |
 
-- 该生物被[感染](Infested_(Condition).md "感染 (状态)")的蛛丝包裹，无法移动或执行动作。除非用 ⁠[酸](Acid.md "酸")或 ⁠[火焰](Fire.md "火焰")伤害移除蛛丝，否则它会爆炸，对被包裹的生物造成 8d10⁠⁠[中毒](Poison.md "中毒")伤害。
+- 该生物被[感染](Infested_(Condition).md "感染 (状态)")的蛛丝包裹，无法移动或执行动作。除非用 ⁠[强酸](Acid.md "强酸")或 ⁠[火焰](Fire.md "火焰")伤害移除蛛丝，否则它会爆炸，对被包裹的生物造成 8d10⁠⁠[中毒](Poison.md "中毒")伤害。
 
 [擒抱](Grappled_(Condition).md "擒抱 (状态)")
 |
@@ -356,7 +356,7 @@
 [力竭](Lethargic_(Condition).md "力竭 (状态)")
 |
 
-- 在[加速](Haste.md "加速")的后果中被疲惫吞噬。
+- 在[加速术](Haste.md "加速术")的后果中被疲惫吞噬。
 - 无法[移动](Movement_speed.md "移动速度")或执行[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")。
 
 [致残](Maimed_(Condition).md "致残 (状态)")
@@ -425,7 +425,7 @@
 [油滑的啜饮](Oily_Sup_(Condition).md "油滑的啜饮 (状态)")
 |
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
 
 [异界瘴气](Otherworldly_Miasma_(Condition).md "异界瘴气 (状态)")
 |
@@ -482,32 +482,32 @@
 \_(状态)[中毒](Poisoned_(Basic_Poison)_(Condition).md "中毒 (简易毒药) (状态)")
 |
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
 - 在回合结束时，成功通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")后结束。
 
 [中毒](Poisoned_(Condition).md "中毒 (状态)")
 |
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
 
 \_(状态)[中毒](Poisoned_(Spider_Meat)_(Condition).md "中毒 (蜘蛛肉) (状态)")
 |
 
 - 每回合造成 3d6⁠⁠[中毒](Poison.md "中毒")伤害。
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
 - 在回合开始时，进行一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，如果成功则结束该状态。
 
 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)")
 |
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
 - 每回合造成 3d6⁠⁠[中毒](Poison.md "中毒")伤害，直到成功通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)")
 |
 
 - 每回合受到 1d4⁠⁠[中毒](Poison.md "中毒")伤害。
-- 在[攻击掷骰](Attack_rolls.md "攻击掷骰")和[属性检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_rolls.md "攻击掷骰")和[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
 
 [天使恢复药水](Potion_of_Angelic_Relief_(Condition).md "天使恢复药水 (状态)")
 |

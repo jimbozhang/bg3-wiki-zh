@@ -13,7 +13,7 @@
 - 价格：14 金币
 - UID `BOOK_GEN_Faction_DruidFiction1` UUID `d59e5809-cd36-4395-bb6d-7cc257cce1b7` ## 文本
 
-\[这本日记里写满了工整的章节。第一页列出了似乎是[博德之门](Baldur's_Gate.md "博德之门")的图书出版商。封面上有多个标题，全部被划掉了：'《未预见的联盟，第一卷》'，'[德鲁伊](Druid.md "Druid")与[竖琴手](Harper.md "Harper")，为正义而战！'，'暗影之恶：谁敢与之对抗？'\]
+\[博德之门](Baldur's_Gate.md "博德之门")的图书出版商。封面上有多个标题，全部被划掉了：'《未预见的联盟，第一卷》'，'[德鲁伊](Druid.md "Druid")与[竖琴手](Harper.md "Harper")，为正义而战！'，'暗影之恶：谁敢与之对抗？'\]
 
 我们的英雄，[勇敢？强大？]的德鲁伊罗亚抵达了这片树林。当他收到[翡翠织网](https://forgottenrealms.fandom.com/wiki/Emerald_Enclave)的召唤时，他知道有事要发生了。织网成员遍布整个国度，既有德鲁伊，也有[游侠](Ranger.md "Ranger")。他们致力于维护自然秩序，控制世界的[元素生物](Elemental.md "Elemental")力量，并与那些试图扰乱这微妙[平衡](Balance.md "Balance")的人作战。他们是凶猛的[战士](Warrior.md "Warrior")，尽管没有罗亚那么凶猛。
 

@@ -4,30 +4,30 @@
 
 ## 目录
 
-- [1 抗性](#resistances)
-  - [1.1 钝击抗性](#bludgeoning-resistance)
-  - [1.2 穿刺抗性](#piercing-resistance)
-  - [1.3 挥砍抗性](#slashing-resistance)
-  - [1.4 强酸抗性](#acid-resistance)
-  - [1.5 寒冷抗性](#cold-resistance)
-  - [1.6 火焰抗性](#fire-resistance)
-  - [1.7 力场抗性](#force-resistance)
-  - [1.8 闪电抗性](#lightning-resistance)
-  - [1.9 黯蚀抗性](#necrotic-resistance)
-  - [1.10 毒素抗性](#poison-resistance)
-  - [1.11 心灵抗性](#psychic-resistance)
-  - [1.12 光耀抗性](#radiant-resistance)
-  - [1.13 雷鸣抗性](#thunder-resistance)
-- [2 多重抗性](#multiple-resistances)
-  - [2.1 全伤害抗性](#all-damage-resistance)
-  - [2.2 除心灵外全伤害抗性](#all-damage-resistance-except-psychic)
-  - [2.3 钝击、穿刺与挥砍抗性](#bludgeoning,_Piercing,_and_Slashing_Resistance)
-  - [2.4 仅非魔法抗性](#only-non-Magical_Resistance)
-  - [2.5 杂项抗性](#miscellaneous-resistances)
-- [3 易伤](#vulnerability)
-  - [3.1 仅限盟友](#allies-only)
-- [4 免疫](#immunity)
-- [5 无视抗性](#ignores-resistances)
+- [1 抗性](#抗性)
+  - [1.1 钝击抗性](#钝击抗性)
+  - [1.2 穿刺抗性](#穿刺抗性)
+  - [1.3 挥砍抗性](#挥砍抗性)
+  - [1.4 强酸抗性](#强酸抗性)
+  - [1.5 寒冷抗性](#寒冷抗性)
+  - [1.6 火焰抗性](#火焰抗性)
+  - [1.7 力场抗性](#力场抗性)
+  - [1.8 闪电抗性](#闪电抗性)
+  - [1.9 黯蚀抗性](#黯蚀抗性)
+  - [1.10 毒素抗性](#毒素抗性)
+  - [1.11 心灵抗性](#心灵抗性)
+  - [1.12 光耀抗性](#光耀抗性)
+  - [1.13 雷鸣抗性](#雷鸣抗性)
+- [2 多重抗性](#多重抗性)
+  - [2.1 全伤害抗性](#全伤害抗性)
+  - [2.2 除心灵外全伤害抗性](#除心灵外全伤害抗性)
+  - [2.3 钝击、穿刺与挥砍抗性](#钝击、穿刺与挥砍抗性)
+  - [2.4 仅非魔法抗性](#仅非魔法抗性)
+  - [2.5 杂项抗性](#杂项抗性)
+- [3 易伤](#易伤)
+  - [3.1 仅限盟友](#仅限盟友)
+- [4 免疫](#免疫)
+- [5 无视抗性](#无视抗性)
 
 ## 抗性
 
@@ -221,7 +221,7 @@
 - [冻僵](Chilled_(Condition).md "冻僵 (状态)") 对[寒冷](Cold.md "寒冷")易伤
 - [冰冻](Frozen_(Condition).md "冰冻 (状态)") 对[钝击](Bludgeoning.md "钝击")、[雷鸣](Thunder.md "雷鸣")和[力场](Force.md "力场")伤害易伤。
 - [噩梦馈赠](Karabasan's_Gift.md "噩梦馈赠") **麻痹（噩梦馈赠）：** 对[钝击](Bludgeoning.md "钝击")、[挥砍](Slashing.md "挥砍")和[穿刺](Piercing.md "穿刺")伤害易伤。
-- [投毒者之戒](Poisoner's_Ring.md "投毒者之戒") **致命毒液：** 使最多三个敌人对[毒素](Poison.md "毒素")易伤，除非他们通过体质豁免检定。
+- [投毒者之戒](Poisoner's_Ring.md "投毒者之戒") **致命毒液：** 使最多三个敌人对[中毒](Poison.md "中毒")易伤，除非他们通过体质豁免检定。
 - [共鸣石](Resonance_Stone.md "共鸣石") 9米（30英尺）内的所有生物都[沉醉极乐](Steeped_in_Bliss_(Condition).md "沉醉极乐 (状态)")，其中包括对[心灵](Psychic.md "心灵")易伤。
 - [烂肉症](Stricken_With_Flesh_Rot_(Condition).md "烂肉症 (状态)") 对所有伤害易伤。
 - [潮湿](Wet_(Condition).md "潮湿 (状态)") 对[寒冷](Cold.md "寒冷")和[闪电](Lightning.md "闪电")易伤
@@ -239,11 +239,11 @@
 
 ## 免疫
 
-- [百病不侵](Purity_of_Body.md "百病不侵") 对[毒素](Poison.md "毒素")免疫
-- [荒野形态：风元素执政官](Wild_Shape_colon__Air_Myrmidon.md "荒野形态：风元素执政官") 对[毒素](Poison.md "毒素")免疫
-- [荒野形态：火元素执政官](Wild_Shape_colon__Fire_Myrmidon.md "荒野形态：火元素执政官") 对[火焰](Fire.md "火焰")和[毒素](Poison.md "毒素")免疫
-- [荒野形态：土元素执政官](Wild_Shape_colon__Earth_Myrmidon.md "荒野形态：土元素执政官") 对[毒素](Poison.md "毒素")免疫
-- [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon.md "荒野形态：水元素执政官") 对[毒素](Poison.md "毒素")免疫
+- [百病不侵](Purity_of_Body.md "百病不侵") 对[中毒](Poison.md "中毒")免疫
+- [荒野形态：风元素执政官](Wild_Shape_colon__Air_Myrmidon.md "荒野形态：风元素执政官") 对[中毒](Poison.md "中毒")免疫
+- [荒野形态：火元素执政官](Wild_Shape_colon__Fire_Myrmidon.md "荒野形态：火元素执政官") 对[火焰](Fire.md "火焰")和[中毒](Poison.md "中毒")免疫
+- [荒野形态：土元素执政官](Wild_Shape_colon__Earth_Myrmidon.md "荒野形态：土元素执政官") 对[中毒](Poison.md "中毒")免疫
+- [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon.md "荒野形态：水元素执政官") 对[中毒](Poison.md "中毒")免疫
 
 ## 无视抗性
 

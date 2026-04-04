@@ -2,7 +2,7 @@
 
 本文介绍通过**铮亮的戒指**获得的版本。关于观察者眼魔NPC使用的版本，请参见[麻痹射线](Paralysing_Ray.md "麻痹射线")。
 
-**麻痹射线**是一个[3级死灵学派法术](Spells.md "法术")。它使目标[麻痹](Paralysed_(Condition).md "麻痹（状态）")。
+**麻痹射线**是一个[法术](Spells.md "法术")。它使目标[麻痹](Paralysed_(Condition).md "麻痹（状态）")。
 
 ## 描述
 

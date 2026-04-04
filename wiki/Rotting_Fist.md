@@ -18,7 +18,7 @@
 
 详情
 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
 近战：1.5 米 (5 英尺)
 
 ## 技术细节
@@ -37,7 +37,7 @@ UID
 
 持续时间：10 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
 
 - 你的最大生命值降低 8。你无法被治疗。
 

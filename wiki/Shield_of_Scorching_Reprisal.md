@@ -33,7 +33,7 @@
 
 ## 备注
 
-- 需要通过一次DC 18的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")才能发现一些碎石。然后可以由力量至少为15的角色将其挖出。
+- 需要通过一次DC 18的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")才能发现一些碎石。然后可以由力量至少为15的角色将其挖出。
   - 如果队伍成员对[马库斯·法尔戈](Marcus_Falgor.md "Marcus Falgor")使用[死者交谈](Speak_with_Dead.md "Speak_with Dead")并询问他是否留下了任何珍品："你留下什么值钱的东西了吗？"，则可以跳过该察觉检定。
 - **火热复仇**在盾牌被卸下时仍然有效。
 

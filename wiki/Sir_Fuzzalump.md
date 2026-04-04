@@ -77,19 +77,19 @@
 
 ## 特性
 
-- [**工匠的知识**](Artificer's_Lore.md "工匠的知识")
+- [工匠的知识](Artificer's_Lore.md "工匠的知识")
 
 在[历史的](History.md "历史的")检定中，添加两次你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

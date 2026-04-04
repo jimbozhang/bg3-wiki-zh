@@ -87,15 +87,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 在对抗[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -147,15 +147,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 在对抗[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -207,15 +207,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 在对抗[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -237,19 +237,19 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 巴尔神殿](#temple-of-bhaal)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 值得一提的战利品](#notable-loot)
-- [3 笔记](#notes)
+- [1 参与](#参与)
+  - [1.1 巴尔神殿](#巴尔神殿)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 值得一提的战利品](#值得一提的战利品)
+- [3 笔记](#笔记)
 
 ## 参与
 
 ### 巴尔神殿
 
-如果邪念击败了[腥红奥林](Orin.md "腥红奥林")，拥抱巴尔的馈赠并成为巴尔的选民，且[贾希拉](Jaheira.md "贾希拉")存活，[竖琴手同盟](Harpers.md "竖琴手同盟")会在[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")入口处设下伏击。
+如果邪念击败了[奥林](Orin.md "奥林")，拥抱巴尔的馈赠并成为巴尔的选民，且[贾希拉](Jaheira.md "贾希拉")存活，[竖琴手同盟](Harpers.md "竖琴手同盟")会在[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")入口处设下伏击。
 
 由贾希拉领导，并由[明斯克](Minsc.md "明斯克")（如果被救出）陪同，竖琴手们守卫在通往神殿外的桥梁上，阻止队伍离开。玩家角色随后与贾希拉就其作为邪念和巴尔选民的角色进行简短交流。此外，如果明斯克在场，邪念有能力通过其[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")精神控制他从背后刺伤贾希拉。这样做会立即杀死贾希拉，并触发与明斯克、弗雷多和其余竖琴手的战斗。
 
@@ -262,7 +262,7 @@ UUID
 ### 攻击与能力
 
 [召唤林地妖精](Conjure_Woodland_Being.md "召唤林地妖精") (+ )
-召唤一个[树精](Dryad.md "树精")与你并肩作战。她可以使用[自然步伐](Nature's_Step.md "自然步伐")、[纠缠](Entangle.md "纠缠")敌人，并[召唤](Fallen_Lover.md "坠落连理")一个菘蓝树人。
+召唤一个[树精](Dryad.md "树精")与你并肩作战。她可以使用[自然步伐](Nature's_Step.md "自然步伐")、[纠缠](Entangle.md "纠缠")敌人，并[坠落连理](Fallen_Lover.md "坠落连理")一个菘蓝树人。
 
 范围：18 米 (60 英尺)
 

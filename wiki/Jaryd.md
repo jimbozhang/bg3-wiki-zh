@@ -91,29 +91,29 @@
 
 - [**魅惑**](Charmed_(Condition).md "魅惑 (状态)")
 
-  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对抗[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在进行[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")时掷出1，重新掷骰一次并使用新结果。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 在主手武器攻击后可进行两次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 探索者难度属性
 
@@ -161,29 +161,29 @@
 
 - [**魅惑**](Charmed_(Condition).md "魅惑 (状态)")
 
-  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对抗[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在进行[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")时掷出1，重新掷骰一次并使用新结果。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 在主手武器攻击后可进行两次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 硬核难度属性
 
@@ -231,29 +231,29 @@
 
 - [**魅惑**](Charmed_(Condition).md "魅惑 (状态)")
 
-  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+  - 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对抗[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在进行[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")时掷出1，重新掷骰一次并使用新结果。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 在主手武器攻击后可进行两次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 技术信息
 
@@ -273,11 +273,11 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 重要战利品](#notable-loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 重要战利品](#重要战利品)
 
 ## 参与
 
@@ -316,7 +316,7 @@ Stats
 
 1d10 + 战士等级⁠[治疗](Healing.md "治疗")
 
-消耗精力保护自己。你恢复 1d10 + 战士等级⁠⁠[生命值](Healing.md "治疗")。
+消耗精力保护自己。你恢复 1d10 + 战士等级⁠⁠[治疗](Healing.md "治疗")。
 
 范围：自身
 充能：[短休](Short_rest.md "短休")

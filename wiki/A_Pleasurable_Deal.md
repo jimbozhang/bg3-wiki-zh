@@ -20,9 +20,9 @@
 
 - 由 [纳西·格莉塔](Nansi_Gretta.md "纳西·格莉塔") 出售
 
-- 在 [复活之路收费站](Risen_Road_Toll_House.md "复活之路收费站") 的储藏室中，坐标 X: -673 Y: -407
+- 在 [晋升之路收费站](Risen_Road_Toll_House.md "晋升之路收费站") 的储藏室中，坐标 X: -673 Y: -407
 
-- 在 [复活之路](Risen_Road.md "复活之路") 上，坐标 X: 106 Y: 553
+- 在 [晋升之路](Risen_Road.md "晋升之路") 上，坐标 X: 106 Y: 553
 
 - 在 [下城区](Lower_City.md "下城区") 的 [九层锻炉](Forge_of_the_Nine.md "九层锻炉") 一楼，坐标 X: -13 Y: -3
 

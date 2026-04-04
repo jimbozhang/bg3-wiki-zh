@@ -86,7 +86,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -132,7 +132,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -178,7 +178,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -234,7 +234,7 @@ UUID
 - 你们要去哪里？
 
 - 死亡的商队代理人
-  [酒馆](Waukeen's_Rest.md "渥金的休眠地")……[藏身点](Zhentarim_Hideout.md "散塔林会窝点")……秘密……
+  [渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")……[散塔林会窝点](Zhentarim_Hideout.md "散塔林会窝点")……秘密……
 
 - 你们在马车里运的是什么？
 

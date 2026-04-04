@@ -6,16 +6,16 @@
 
 ## 目录
 
-- [1 外交官（8吟游诗人/2法师/1牧师/1游荡者）](#the-diplomat-(8_bard/2_wizard/1_cleric/1_rogue))
-- [2 策略](#strategy)
-- [3 可通过外交解决的战斗遭遇](#combat-encounters-that-can-be-resolved-'diplomatically')
-- [4 可通过外交简化的战斗遭遇](#combat-encounters-that-can-be-made-easier-through-diplomacy)
+- [1 外交官（8吟游诗人/2法师/1牧师/1游荡者）](#外交官8吟游诗人-2法师-1牧师-1游荡者))
+- [2 策略](#策略)
+- [3 可通过外交解决的战斗遭遇](#可通过外交解决的战斗遭遇)
+- [4 可通过外交简化的战斗遭遇](#可通过外交简化的战斗遭遇)
 
 ## 外交官（8吟游诗人/2法师/1牧师/1游荡者）
 
 此构筑着重于提升“软技能”的技能调整值。当谈判失败时，它能在战斗中扮演辅助角色，通过使用[庇护术](Sanctuary.md "Sanctuary")增强生存能力。
 
-**种族**：[壮心半身人](Halfling.md "Halfling")，因其[半身人幸运](Halfling_Luck.md "Halfling Luck")能降低投掷出现大失败的概率。中毒抗性也是不错的额外优势。
+**种族**：[半身人](Halfling.md "半身人")，因其[半身人幸运](Halfling_Luck.md "Halfling Luck")能降低投掷出现大失败的概率。中毒抗性也是不错的额外优势。
 
 **初始属性**：
 
@@ -33,11 +33,11 @@
 
 此处有一定灵活空间，若偏好更强的法师技能或智力相关技能，可自由交换智力与感知。同理，我将体质设为10，因为重甲会使敏捷变得无关紧要（但会降低先攻）。
 
-**等级1**：[牧师1](Cleric.md "Cleric")（[生命](Life_Domain.md "Life Domain")、[自然](Nature_Domain.md "Nature Domain")、[风暴](Tempest_Domain.md "Tempest Domain")或[战争](War_Domain.md "War Domain")领域）：关键在于获得[庇护术](Sanctuary.md "Sanctuary")和[重甲](Armour.md#List_of_heavy_armour "Armour")熟练项，若谈判失败可提升生存能力。
+**等级1**：[牧师](Cleric.md "牧师")（[生命领域](Life_Domain.md "生命领域")、[自然领域](Nature_Domain.md "自然领域")、[风暴领域](Tempest_Domain.md "风暴领域")或[战争领域](War_Domain.md "战争领域")领域）：关键在于获得[庇护术](Sanctuary.md "Sanctuary")和[重甲](Armour.md#List_of_heavy_armour "Armour")熟练项，若谈判失败可提升生存能力。
 
-**等级2**：[游荡者1](Rogue.md "Rogue")：一级游荡者可获得一项额外技能和两点[专精](Expertise.md "Expertise")，我们将其用于游说和欺瞒。
+**等级2**：[游荡者](Rogue.md "游荡者")：一级游荡者可获得一项额外技能和两点[专精](Expertise.md "Expertise")，我们将其用于游说和欺瞒。
 
-**等级3-12**：[法师（预言学派）2](Wizard.md "Wizard") / [吟游诗人（博学）8](Bard.md "Bard")：我们选择两级预言学派法师。这允许抄录法术（获得高阶法师法术）以及使用[预兆](Portent.md "Portent")骰子（即使在[庇护术](Sanctuary.md "Sanctuary")状态下也可使用）。剩余等级投入吟游诗人，可在2级获得[多面手](Jack_of_All_Trades.md "Jack_of All Trades")、3级获得[专精](Expertise.md "Expertise")以提升外交能力。高魅力对吟游诗人法术DC有用，而大量法师法术可选择用于实用性和召唤。具体等级顺序可自行决定。
+**等级3-12**：[法师](Wizard.md "法师") / [吟游诗人](Bard.md "吟游诗人")：我们选择两级预言学派法师。这允许抄录法术（获得高阶法师法术）以及使用[预兆](Portent.md "Portent")骰子（即使在[庇护术](Sanctuary.md "Sanctuary")状态下也可使用）。剩余等级投入吟游诗人，可在2级获得[多面手](Jack_of_All_Trades.md "Jack_of All Trades")、3级获得[专精](Expertise.md "Expertise")以提升外交能力。高魅力对吟游诗人法术DC有用，而大量法师法术可选择用于实用性和召唤。具体等级顺序可自行决定。
 
 **专长**：
 

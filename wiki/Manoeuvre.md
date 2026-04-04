@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 豁免DC](#save-dc)
-- [2 策略列表](#list-of-manoeuvres)
-- [3 其他策略来源](#other-sources-of-manoeuvres)
-- [4 影响策略的事物](#things-that-affect-manoeuvres)
+- [1 豁免DC](#豁免DC)
+- [2 策略列表](#策略列表)
+- [3 其他策略来源](#其他策略来源)
+- [4 影响策略的事物](#影响策略的事物)
 
 ### 豁免DC
 

@@ -77,15 +77,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md "魅惑")的[豁免检定](Saving_Throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md "沉睡")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -115,14 +115,14 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 闲聊](#idle-banter)
-- [3 相关任务](#related-quests)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 闲聊](#闲聊)
+- [3 相关任务](#相关任务)
+- [4 外部链接](#外部链接)
 
 ## 出场
 
-多克希尔只有在[第一幕](Act_One.md "第一幕")中从未从[布雷姆](Brem.md "布雷姆")手中[解救](Oskar_Fevras.md "解救")[奥斯卡·费拉斯](Oskar_Fevras.md "奥斯卡·费拉斯")的情况下才能被找到。她正在一楼与同为贵族的[因普托·尼克西姆](Impurto_Nexim.md "因普托·尼克西姆")闲聊。
+多克希尔只有在[第一幕](Act_One.md "第一幕")中从未从[布雷姆](Brem.md "布雷姆")手中[奥斯卡·费拉斯](Oskar_Fevras.md "奥斯卡·费拉斯")[奥斯卡·费拉斯](Oskar_Fevras.md "奥斯卡·费拉斯")的情况下才能被找到。她正在一楼与同为贵族的[因普托·尼克西姆](Impurto_Nexim.md "因普托·尼克西姆")闲聊。
 
 如果奥斯卡·费拉斯被解救，宅邸将闹鬼，艺术展览不会举行。
 

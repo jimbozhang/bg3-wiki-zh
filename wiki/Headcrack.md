@@ -54,7 +54,7 @@ UID
 
 ## 备注
 
-- 此攻击造成的伤害为[非致命](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")。
+- 此攻击造成的伤害为[非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")。
 
 ---
 *Source: [Headcrack](https://bg3.wiki/wiki/Headcrack)*

@@ -69,15 +69,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用运动的属性检定和豁免检定上具有优势。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -125,15 +125,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用运动的属性检定和豁免检定上具有优势。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -181,23 +181,23 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你经过训练，能够迅速而准确地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会额外投掷一个伤害骰。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用运动的属性检定和豁免检定上具有优势。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并使用较高的结果。
 

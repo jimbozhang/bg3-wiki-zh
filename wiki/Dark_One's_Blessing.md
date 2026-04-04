@@ -12,7 +12,7 @@
 
 **[黑暗之子的祝福](Dark_One's_Blessing_(Condition).md "黑暗之子的祝福 (状态)")**
 
-- 获得等于其魅力[调整值](Ability_Modifier.md "属性调整值")与邪术师等级之和的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+- 获得等于其魅力[属性调整值](Ability_Modifier.md "属性调整值")与邪术师等级之和的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 ## 如何习得
 

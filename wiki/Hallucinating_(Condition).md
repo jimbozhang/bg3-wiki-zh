@@ -2,7 +2,7 @@
 
 **幻觉状态**
 
-- 生物处于幻觉状态。它在[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，会不受控制地四处游荡，并且无法进行[动作](Actions.md#Resources "动作")或[反应](Reactions.md "反应")。
+- 生物处于幻觉状态。它在[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，会不受控制地四处游荡，并且无法进行[动作](Actions.md#Resources "动作")或[反应](Reactions.md "反应")。
 
 ## 幻觉状态的来源
 

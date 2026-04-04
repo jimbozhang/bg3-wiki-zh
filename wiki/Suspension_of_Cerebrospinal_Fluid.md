@@ -1,6 +1,6 @@
 # 脑脊液悬液
 
-**脑脊液悬液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[心灵抗性灵药](Elixir_of_Psychic_Resistance.md "心灵抗性灵药")。
+**脑脊液悬液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[心灵抗性灵药](Elixir_of_Psychic_Resistance.md "心灵抗性灵药")。
 
 这种液体取自被[夺心魔](Mind_flayer.md "夺心魔")迷惑并实验的类人生物大脑，直到它获得了自己的生命，是心灵药水的完美成分。
 

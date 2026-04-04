@@ -1,10 +1,10 @@
 # 奴役恩赐
 
-**奴役恩赐**是一个[等级 1 塑能学派法术](Spells.md "Spells")。此法术使目标的[护甲等级](Armour_Class.md "Armour Class")提高 2，并在效果持续期间每回合治疗目标。小队成员无法学习此法术。
+**奴役恩赐**是一个[法术](Spells.md "法术")。此法术使目标的[护甲等级](Armour_Class.md "Armour Class")提高 2，并在效果持续期间每回合治疗目标。小队成员无法学习此法术。
 
 ## 描述
 
-沐浴在埃塞尔的恩赐中。你每回合恢复 2d4+施法调整值⁠⁠[生命值](Healing.md "Healing")，且你的[护甲等级](Armour_Class.md "Armour Class")提高 2。
+沐浴在埃塞尔的恩赐中。你每回合恢复 2d4+施法调整值⁠⁠[治疗](Healing.md "治疗")，且你的[护甲等级](Armour_Class.md "Armour Class")提高 2。
 
 ## 属性
 
@@ -33,7 +33,7 @@ UID
 
 持续时间：2 驱散
 
-- [护甲等级](Armour_Class.md "Armour Class") 提高 2。每回合恢复 2d4+施法调整值⁠⁠[生命值](Healing.md "Healing")。
+- [护甲等级](Armour_Class.md "Armour Class") 提高 2。每回合恢复 2d4+施法调整值⁠⁠[治疗](Healing.md "治疗")。
 
 ## 学习方式
 
@@ -41,7 +41,7 @@ UID
 
 ## 错误
 
-- 动作的工具提示错误地显示奴役恩赐治疗 2~83⁠⁠[生命值](Healing.md "Healing")，而状态本身的工具提示错误地显示治疗 2~81⁠⁠[生命值](Healing.md "Healing")。
+- 动作的工具提示错误地显示奴役恩赐治疗 2~83⁠⁠[治疗](Healing.md "治疗")，而状态本身的工具提示错误地显示治疗 2~81⁠⁠[治疗](Healing.md "治疗")。
 
 ---
 *Source: [Boon of Servitude](https://bg3.wiki/wiki/Boon_of_Servitude)*

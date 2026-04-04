@@ -1,6 +1,6 @@
 # 操纵死尸：骷髅小队
 
-**操纵死尸：骷髅小队**是一个[4级死灵学派法术](Spells.md "法术")。该法术是[操纵死尸：骷髅](Animate_Dead_colon__Skeleton.md "操纵死尸：骷髅")的高阶版本，可以召唤3个[骷髅](Skeleton_(Animate_Dead).md) instead of 1. Accordingly, the user must also target 3 corpses for this instead of 1.
+**操纵死尸：骷髅小队**是一个[法术](Spells.md "法术")。该法术是[操纵死尸：骷髅](Animate_Dead_colon__Skeleton.md "操纵死尸：骷髅")的高阶版本，可以召唤3个[骷髅](Skeleton_(Animate_Dead).md) instead of 1. Accordingly, the user must also target 3 corpses for this instead of 1.
 
 ## 描述
 

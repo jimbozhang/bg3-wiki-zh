@@ -85,19 +85,19 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -145,19 +145,19 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -205,19 +205,19 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -249,7 +249,7 @@ UUID
 
 ### 第三章
 
-如果队伍成功通过 DC 18 的被动[洞悉](Insight.md "洞悉")[检定](Ability_Check.md "属性检定")，或者队伍中有[贾希拉](Jaheira.md "贾希拉")，则会揭示普斯特李维并非真的喝醉，而只是假装以保护咂嘴免受麻烦。如果队伍检定失败，则需要通过 DC 15 的[体质](Constitution.md "体质")[检定](Ability_Check.md "属性检定")来抵抗咂嘴的打嗝。
+如果队伍成功通过 DC 18 的被动[洞悉](Insight.md "洞悉")[属性检定](Ability_Check.md "属性检定")，或者队伍中有[贾希拉](Jaheira.md "贾希拉")，则会揭示普斯特李维并非真的喝醉，而只是假装以保护咂嘴免受麻烦。如果队伍检定失败，则需要通过 DC 15 的[体质](Constitution.md "体质")[属性检定](Ability_Check.md "属性检定")来抵抗咂嘴的打嗝。
 
 如果所有检定都通过，咂嘴会透露[明斯克](Minsc.md "明斯克")正打算袭击[清账屋](The_Counting_House.md "清账屋")，而这是[九指基恩](Nine-Fingers_Keene.md "九指基恩")设下的陷阱，旨在抓住他。
 

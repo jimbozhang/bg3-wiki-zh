@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 
@@ -24,7 +24,7 @@
 
 ## 备注
 
-- 与托帕斯交谈后，通过[游说](Ability_Check.md "属性检定")或[欺瞒](Ability_Check.md "属性检定")检定，可以偷取或自由拿走钥匙。
+- 与托帕斯交谈后，通过[属性检定](Ability_Check.md "属性检定")或[属性检定](Ability_Check.md "属性检定")检定，可以偷取或自由拿走钥匙。
 
 ---
 *Source: [Shiny Key](https://bg3.wiki/wiki/Shiny_Key)*

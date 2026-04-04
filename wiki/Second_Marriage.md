@@ -15,7 +15,7 @@
 [动作](Actions.md#Resources "动作")
 
 [续缘魔杖](Second_Marriage_(class_action).md "续缘魔杖（职业动作）") ()
-召唤[梅丽娜](Mayrina.md "梅丽娜")的[丈夫](Connor_Vinderblad.md "康纳·维德巴德")的遗骸。
+召唤[梅丽娜](Mayrina.md "梅丽娜")的[康纳·维德巴德](Connor_Vinderblad.md "康纳·维德巴德")的遗骸。
 
 ## 获取地点
 

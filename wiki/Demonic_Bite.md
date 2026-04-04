@@ -20,7 +20,7 @@
 
 详情
 近战武器 [攻击掷骰](Attack_roll.md "Attack Roll")
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 近战：1.5 米（5 英尺）
 
 ## 技术细节

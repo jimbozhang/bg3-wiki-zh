@@ -96,15 +96,15 @@
 
 - - - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -156,15 +156,15 @@
 
 - - - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -194,11 +194,11 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 相关文献](#related-literature)
+- [1 参与度](#参与度)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 相关文献](#相关文献)
 
 ## 参与度
 

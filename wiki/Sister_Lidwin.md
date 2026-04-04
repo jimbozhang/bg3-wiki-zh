@@ -91,7 +91,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -141,7 +141,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -191,11 +191,11 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -225,13 +225,13 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 出售的著名物品](#notable-items-sold)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-- [4 画廊](#gallery)
-- [5 相关文献](#related-literature)
-- [6 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 出售的著名物品](#出售的著名物品)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+- [4 画廊](#画廊)
+- [5 相关文献](#相关文献)
+- [6 外部链接](#外部链接)
 
 ## 出场
 
@@ -264,7 +264,7 @@ UUID
 
 撕扯敌人的灵魂并施加[困惑](Confused_(Condition).md "困惑 (状态)")。
 
-[感](Wisdom.md "感") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 充能: 每回合
 
 [亲切助手](Obliging_Assistant.md "亲切助手") ()

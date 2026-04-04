@@ -31,13 +31,13 @@
 
 ## 目录
 
-- [1 加载网格](#loading-a-mesh)
-- [2 在Blender中编辑网格](#editing-the-mesh-in-blender)
-- [3 网格编辑常见问题](#mesh-editing-faq)
-  - [3.1 自动捕捉权重](#autosnapping-weights)
-  - [3.2 非自动捕捉权重](#non-Autosnapping_Weights)
-- [4 导出网格](#exporting-the-mesh)
-- [5 使用LSLib进行适配](#conforming-with-lslib)
+- [1 加载网格](#加载网格)
+- [2 在Blender中编辑网格](#在Blender中编辑网格)
+- [3 网格编辑常见问题](#网格编辑常见问题)
+  - [3.1 自动捕捉权重](#自动捕捉权重)
+  - [3.2 非自动捕捉权重](#非自动捕捉权重)
+- [4 导出网格](#导出网格)
+- [5 使用LSLib进行适配](#使用LSLib进行适配)
 
 ### 加载网格
 

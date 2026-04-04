@@ -33,7 +33,7 @@ _关于影贼：_
 
 _关于影贼：_
 
-- 使用具有[投掷](Thrown.md "投掷")属性的武器进行投掷攻击时，影贼会额外激活一次。
+- 使用具有[投掷攻击](Thrown.md "投掷攻击")属性的武器进行投掷攻击时，影贼会额外激活一次。
 
 ---
 *Source: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)*

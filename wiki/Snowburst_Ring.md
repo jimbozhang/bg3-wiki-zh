@@ -23,7 +23,7 @@
 
 ## 备注
 
-- 需要通过DC 10的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "属性检定")才能发现这块木板。
+- 需要通过DC 10的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")才能发现这块木板。
 
 _关于雪花迸射：_
 

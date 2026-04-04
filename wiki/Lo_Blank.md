@@ -83,11 +83,11 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -137,11 +137,11 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -191,11 +191,11 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -225,11 +225,11 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 外部链接](#外部链接)
 
 ## 参与情况
 
@@ -254,7 +254,7 @@ UUID
 
 射击敌人的大腿，并可能使其[移动速度](Movement_speed.md "Movement speed")降低 50%。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 

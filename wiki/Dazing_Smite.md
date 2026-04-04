@@ -12,7 +12,7 @@
 
 持续时间：2回合
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
 
 - 在[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "劣势")，无法进行[反应](Reaction.md "反应")，并失去其[护甲等级](Armour_Class.md "护甲等级")的[敏捷](Dexterity.md "Dexterity")加值。
 - 当盟友[协助](Help.md "Help")该生物时移除。

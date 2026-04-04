@@ -84,21 +84,21 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**食人魔印记**](Ogre's_Mark.md "食人魔印记")
+- [食人魔印记](Ogre's_Mark.md "食人魔印记")
 
 伤害增加 1d6。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "力量") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "钝击") 伤害。
 
 ## 探索者难度属性
 
@@ -148,21 +148,21 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**食人魔印记**](Ogre's_Mark.md "食人魔印记")
+- [食人魔印记](Ogre's_Mark.md "食人魔印记")
 
 伤害增加 1d6。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会等于 [力量](STR.md "力量") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，仍会等于 [力](STR.md "力") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "钝击") 伤害。
 
 ## 硬核难度属性
 
@@ -212,21 +212,21 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**食人魔印记**](Ogre's_Mark.md "食人魔印记")
+- [食人魔印记](Ogre's_Mark.md "食人魔印记")
 
 伤害增加 1d6。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会等于 [力量](STR.md "力量") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，仍会等于 [力](STR.md "力") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "钝击") 伤害。
 
 ## 技术信息
 

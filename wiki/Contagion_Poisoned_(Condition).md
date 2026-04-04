@@ -2,7 +2,7 @@
 
 **疫病术中毒**
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 - 每回合，它必须成功通过一次[豁免检定](Saving_throw.md "豁免检定")，否则毒素将进入下一阶段。在3次成功后，它会恢复。在3次失败后，它会感染与所施放的[疫病术](Contagion.md "疫病术")变体相对应的疾病。
 
 [中毒](Poisoned_(status_group).md), [患病](Diseased_(status_group).md)

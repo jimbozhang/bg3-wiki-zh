@@ -1,6 +1,6 @@
 # 魔法护甲
 
-**魔法护甲**是一个[1级防护学派法术](Spells.md "法术")。它允许施法者用魔法保护包围一个未着甲的生物（包括自己，如果未着甲）。
+**魔法护甲**是一个[法术](Spells.md "法术")。它允许施法者用魔法保护包围一个未着甲的生物（包括自己，如果未着甲）。
 
 ## 描述
 
@@ -63,11 +63,11 @@ UID
 
 - 选择[邪术师](Warlock.md "邪术师")在 2 级以上选择[异界恩赐](Eldritch_Invocation.md "异界恩赐")[暗影护甲](Armour_of_Shadows.md "暗影护甲")也会获得此法术。此版本的法术只以施法者自身为目标，且不消耗[法术位](Spells.md#Spell_Slots "法术位")。
 - 如果施法者从当前队伍中移除，此增益仍然存在，即使稍后重新加入。
-  - 如果由[法师](Wizard.md "法师")施放，此法术必须由施放它的队伍成员[预备](Prepared_spells.md "预备法术")；从施法者的预备法术列表中移除魔法护甲会立即移除施法者施加给所有队伍成员的增益。如果直接使用[卷轴](Scroll_of_Mage_Armour.md "魔法护甲卷轴")施放，而不是[抄录](Transcribing_scrolls.md "抄录卷轴")到法师的法术书中，则施法者无需保持该法术预备来维持增益。
+  - 如果由[法师](Wizard.md "法师")施放，此法术必须由施放它的队伍成员[预备](Prepared_spells.md "预备法术")；从施法者的预备法术列表中移除魔法护甲会立即移除施法者施加给所有队伍成员的增益。如果直接使用[魔法护甲卷轴](Scroll_of_Mage_Armour.md "魔法护甲卷轴")施放，而不是[抄录](Transcribing_scrolls.md "抄录卷轴")到法师的法术书中，则施法者无需保持该法术预备来维持增益。
 - 如果拥有魔法护甲的队伍成员装备了一件护甲，增益会被移除。脱下该护甲后，魔法护甲不会重新施加；必须再次对他们施放。
-- 正常的基础[护甲等级](Armour_Class.md "护甲等级")是 10 + [敏捷调整值](Dexterity.md "敏捷")；此法术将其更改为 13 + 敏捷调整值。
+- 正常的基础[护甲等级](Armour_Class.md "护甲等级")是 10 + [敏捷](Dexterity.md "敏捷")；此法术将其更改为 13 + 敏捷调整值。
   - 接受者仍然可以从其他不改变其基础护甲等级的来源获得奖励，例如 +1 护甲等级的[长袍](Robes.md "长袍")、[防御护腕](Bracers_of_Defence.md "防御护腕")、[虔诚护盾](Shield_of_Faith_(Condition).md "虔诚护盾 (状态)")等。
-- 标记为[轻型](Light_Armour.md "轻甲")、[中型](Medium_Armour.md "中甲")或[重型护甲](Heavy_Armour.md "重甲")的[手套](Gloves.md "手套")和[头盔](Helmets.md "头盔")被视为护甲，并阻止魔法护甲生效。
+- 标记为[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")或[重甲](Heavy_Armour.md "重甲")的[手套](Gloves.md "手套")和[头盔](Helmets.md "头盔")被视为护甲，并阻止魔法护甲生效。
 - 装备[盾牌](Shields.md "盾牌")时魔法护甲仍然有效。
 - [魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")、[龙族韧性](Draconic_Resilience.md "龙族韧性")、[无甲防御（野蛮人）](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")、[无甲防御（武僧）](Unarmoured_Defence_(Monk).md "无甲防御（武僧）")和[树肤术](Barkskin_(Condition).md "树肤术 (状态)")都会改变基础护甲等级，因此不叠加。
   - 如果接受者拥有多个此类效果，他们只获得提供最佳[护甲等级](Armour_Class.md "护甲等级")的那个。

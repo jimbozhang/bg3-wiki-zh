@@ -20,7 +20,7 @@
 
 详情
 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰"))
 射程：正常武器射程
 
 ## 技术细节
@@ -39,7 +39,7 @@ UID
 
 持续时间：1 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰"))
 
 - 受影响生物无法移动或进行 [动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作") 或 [反应](Actions.md#Reactions "动作")。
 - 受影响生物自动在 [力量](Strength.md "力量") 和 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 中失败。

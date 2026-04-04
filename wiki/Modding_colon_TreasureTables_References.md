@@ -23,9 +23,9 @@
 ## 目录
 
 - [1 宝藏表参考](#treasure-table-references)
-  - [1.1 商人](#vendors)
-  - [1.2 容器](#containers)
-  - [1.3 Cheat Engine代码](#cheat-engine-code)
+  - [1.1 商人](#商人)
+  - [1.2 容器](#容器)
+  - [1.3 Cheat Engine代码](#Cheat-Engine代码)
 
 # 宝藏表参考
 

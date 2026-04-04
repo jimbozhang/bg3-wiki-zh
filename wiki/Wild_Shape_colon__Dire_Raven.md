@@ -47,7 +47,7 @@
 飞向目标位置
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术")在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每法术位等级恢复1d8[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术")在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每法术位等级恢复1d8[治疗](Healing.md "治疗")。
 
 攻击生物的眼睛并使其[目盲](Blinded_(Condition).md "目盲 (状态)")。
 

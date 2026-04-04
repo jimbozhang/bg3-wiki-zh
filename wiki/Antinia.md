@@ -83,15 +83,15 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在进行徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -143,15 +143,15 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在进行徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -203,15 +203,15 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在进行徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

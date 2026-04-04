@@ -2,11 +2,11 @@
 
 本文介绍的是该法术的一个独特NPC变体。关于普通法术，请参见[虫群瘟疫](Insect_Plague.md "虫群瘟疫")。关于其他用途，请参见[虫群瘟疫（消歧义）](Insect_Plague_(disambiguation)..md)
 
-**埃赛尔的虫群瘟疫**是一个[5级咒法学派法术](Spells.md "Spells")。该法术允许[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")在战场的一部分区域上创造一个造成伤害、带来削弱效果的昆虫群。队伍成员无法学习此法术。
+**埃赛尔的虫群瘟疫**是一个[法术](Spells.md "法术")。该法术允许[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")在战场的一部分区域上创造一个造成伤害、带来削弱效果的昆虫群。队伍成员无法学习此法术。
 
 ## 描述
 
-蝗虫攻击范围内的所有人，使该区域成为[劣势地形](Difficult_Terrain.md "劣势地形")，并对[察觉技能](Perception.md "Perception")的[检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
+蝗虫攻击范围内的所有人，使该区域成为[劣势地形](Difficult_Terrain.md "劣势地形")，并对[察觉技能](Perception.md "Perception")的[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
 
 埃赛尔及其盟友免疫该效果。
 
@@ -55,7 +55,7 @@ UID
 
 **\_(状态)[虫群瘟疫](Insect_Plague_(Aura)_(Condition).md "虫群瘟疫 (光环) (状态)")**
 
-- 成群的叮咬蝗虫充斥空气。它们每驱散造成4d10⁠⁠[穿刺](Piercing.md "穿刺")伤害，使该区域成为[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")，并对[察觉技能](Perception.md "Perception")的[检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
+- 成群的叮咬蝗虫充斥空气。它们每驱散造成4d10⁠⁠[穿刺](Piercing.md "穿刺")伤害，使该区域成为[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")，并对[察觉技能](Perception.md "Perception")的[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
 
 ## 如何学习
 

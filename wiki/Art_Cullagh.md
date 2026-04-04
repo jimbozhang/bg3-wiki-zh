@@ -91,11 +91,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -149,11 +149,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -207,11 +207,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -241,12 +241,12 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 相关物品](#related-items)
-- [3 相关任务](#related-quests)
-- [4 死者交谈](#speak-with-dead)
-- [5 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第二幕](#第二幕)
+- [2 相关物品](#相关物品)
+- [3 相关任务](#相关任务)
+- [4 死者交谈](#死者交谈)
+- [5 外部链接](#外部链接)
 
 ## 参与度
 

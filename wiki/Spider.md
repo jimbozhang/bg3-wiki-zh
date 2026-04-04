@@ -20,7 +20,7 @@
 
 蜘蛛经常被 [卓尔](Drow.md "卓尔") 饲养，作为魔宠或坐骑。最具影响力的卓尔女神，⁠[罗丝](Lolth.md "罗丝")，也被称为 **蜘蛛女王**。崇拜罗丝的文化禁止杀害蜘蛛。
 
-非敌对蜘蛛可以使用 [动物交谈](Speak_with_Animals.md "动物交谈") 进行对话。蜘蛛伙伴 [园蛛（狼蛛伙伴）](Wolf_Spider_Companion.md "狼蛛伙伴") 可供 [驯兽师](Beast_Master.md "驯兽师") 游侠使用。
+非敌对蜘蛛可以使用 [动物交谈](Speak_with_Animals.md "动物交谈") 进行对话。蜘蛛伙伴 [狼蛛伙伴](Wolf_Spider_Companion.md "狼蛛伙伴") 可供 [驯兽师](Beast_Master.md "驯兽师") 游侠使用。
 
 ### 种族特性
 

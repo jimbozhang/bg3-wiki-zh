@@ -20,7 +20,7 @@
   - 发现[地点](List_of_locations.md "List of locations")所奖励的[经验值](Experience.md "Experience")基于领队队伍成员的角色等级。例如，当发现[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")时，如果领队角色为4级，游戏授予120经验值；如果为5级，则授予240经验值；如果为6级，则授予280经验值；如果为7级，则授予300经验值。
   - 商人[库存](Traders.md#Trade_inventory "Traders")中的某些物品基于在库存刷新后第一个与之交易（或扒窃）的队伍成员的角色等级。商人库存会在每次长休或任何角色升级时刷新，但先前出售或交易给他们的物品通常仍可用。
     - 例如，一个在[治疗药水表](Healing_Potion_Table.md "Healing Potion Table")上滚动五次的商人，在3级时实际上保证有五个[治疗药水](Potion_of_Healing.md "Potion of Healing")，但在5级时可能有[治疗药水](Potion_of_Healing.md "Potion of Healing")和[高等治疗药水](Potion_of_Greater_Healing.md "Potion of Greater Healing")的混合。
-    - 示例二：第一个与[出售护甲](Armour_Trader_Table.md "Armour Trader Table")的商人交谈的队伍成员角色等级为4级；他们可能能够购买（或[偷窃](Sleight_of_Hand.md "Sleight of hand")）[环甲](Ring_Mail_Armour.md "Ring Mail Armour")。
+    - 示例二：第一个与[出售护甲](Armour_Trader_Table.md "Armour Trader Table")的商人交谈的队伍成员角色等级为4级；他们可能能够购买（或[巧手](Sleight_of_Hand.md "巧手")）[环甲](Ring_Mail_Armour.md "Ring Mail Armour")。
     - 在4级角色之后，另一个队伍成员升级到角色等级5级并与同一商人交谈；这可能会解锁[鳞甲](Scale_Mail.md "Scale Mail")的可用性，直到下次刷新。4级角色现在也可以购买此护甲。
     - 之后，另一个队伍成员升级到6级并与同一商人交谈；他们可能能够购买[半身甲](Half_Plate_Armour.md "Half Plate Armour")。4级和5级角色现在也可以购买此护甲（至少在下次长休之前）。
   - 提高与商人交易的个别队伍成员的[态度](Attitude.md "Attitude")分数（以获得更优惠的价格）会随着与之交易的角色等级提高而[变得更加昂贵](Trading_and_item_pricing.md#Trader_attitude "Trading and item pricing")。

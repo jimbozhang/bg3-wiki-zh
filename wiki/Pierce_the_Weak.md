@@ -1,6 +1,6 @@
 # 弱点穿刺
 
-**弱点穿刺**是一个[等级 1 变化学派法术](Spells.md "Spells")。此法术是[标点弱点](Brand_the_Weak.md "Brand the Weak")的变体，它使敌人对[穿刺](Piercing.md "Piercing")伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
+**弱点穿刺**是一个[法术](Spells.md "法术")。此法术是[标点弱点](Brand_the_Weak.md "Brand the Weak")的变体，它使敌人对[穿刺](Piercing.md "Piercing")伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
 
 ## 描述
 

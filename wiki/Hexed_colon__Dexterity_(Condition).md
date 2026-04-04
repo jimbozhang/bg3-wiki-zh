@@ -3,7 +3,7 @@
 **脆弱诅咒：敏捷**
 
 - 生物受到施法者额外的 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 同时在 [敏捷](Dexterity.md "敏捷") [检定](Ability_Check.md "属性检定") 上具有 [劣势](Disadvantage.md "劣势")。
+- 同时在 [敏捷](Dexterity.md "敏捷") [属性检定](Ability_Check.md "属性检定") 上具有 [劣势](Disadvantage.md "劣势")。
 
 [被诅咒](Cursed_(status_group).md)
 

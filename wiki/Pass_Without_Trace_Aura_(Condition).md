@@ -2,7 +2,7 @@
 
 **行动无踪光环**
 
-- 此实体及附近盟友在[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")上获得+10加值。
+- 此实体及附近盟友在[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")上获得+10加值。
 
 ## 属性
 
@@ -16,7 +16,7 @@
 
 ⁠半径: 10 m (33 ft)
 
-- 被盟友遮蔽。在[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")上获得+10加值。
+- 被盟友遮蔽。在[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")上获得+10加值。
 
 ## 行动无踪光环的来源
 
@@ -31,10 +31,10 @@ _维基数据库中未定义_
 
 | 状态 | 效果 |
 | --- | --- |
-| [行动无踪](Pass_Without_Trace_(Condition).md "行动无踪 (状态)") | 被盟友遮蔽。在[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")上获得+10加值。 |
-| 行动无踪光环 | 此实体及附近盟友在[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")上获得+10加值。 |
+| [行动无踪](Pass_Without_Trace_(Condition).md "行动无踪 (状态)") | 被盟友遮蔽。在[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")上获得+10加值。 |
+| 行动无踪光环 | 此实体及附近盟友在[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")上获得+10加值。 |
 
-- 此实体及附近盟友在[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")上获得+10加值。
+- 此实体及附近盟友在[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")上获得+10加值。
 
 ---
 *Source: [Pass Without Trace Aura (Condition)](https://bg3.wiki/wiki/Pass_Without_Trace_Aura_(Condition)*

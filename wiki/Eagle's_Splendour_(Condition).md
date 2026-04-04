@@ -2,7 +2,7 @@
 
 **鹰之光彩**
 
-- 在[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "Advantage")。
+- 在[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "Advantage")。
 
 ## 属性
 
@@ -19,7 +19,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 在[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "Advantage")。
+- 在[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "Advantage")。
 
 ---
 *Source: [Eagle's Splendour (Condition)](https://bg3.wiki/wiki/Eagle's_Splendour_(Condition)*

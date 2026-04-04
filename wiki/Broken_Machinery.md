@@ -1,6 +1,6 @@
 # 破损的机器
 
-破损的机器是一种[炼金术材料](Alchemy.md "炼金术")。将3个这种材料研磨成[铜刨花盐](Salts_of_Copper_Shavings.md "铜刨花盐")，可用于制作[闪电抗性灵药](Elixir_of_Lightning_Resistance.md "闪电抗性灵药")。
+破损的机器是一种[炼金术](Alchemy.md "炼金术")。将3个这种材料研磨成[铜刨花盐](Salts_of_Copper_Shavings.md "铜刨花盐")，可用于制作[闪电抗性灵药](Elixir_of_Lightning_Resistance.md "闪电抗性灵药")。
 
 这个金属装置的齿轮已经弯曲变形，钢板也凹陷开裂。尽管如此，你仍能辨认出铜片上压印的两组首字母：LDH 和 YTS。
 

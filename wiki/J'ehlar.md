@@ -93,7 +93,7 @@
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -145,7 +145,7 @@
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -197,7 +197,7 @@
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -227,18 +227,18 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 终焉光芒旅店](#last-light-inn)
-    - [1.1.2 唤醒阿尔特·库拉](#wake-up-art-cullagh)
-    - [1.1.3 解决绑架问题](#resolve-the-abduction)
-    - [1.1.4 进攻月出之塔](#assault-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 画廊](#gallery)
-- [5 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 终焉光芒旅店](#终焉光芒旅店)
+    - [1.1.2 唤醒阿尔特·库拉](#唤醒阿尔特·库拉)
+    - [1.1.3 解决绑架问题](#解决绑架问题)
+    - [1.1.4 进攻月出之塔](#进攻月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 画廊](#画廊)
+- [5 外部链接](#外部链接)
 
 ## 参与度
 
@@ -252,7 +252,7 @@ UUID
 
 #### 唤醒阿尔特·库拉
 
-如果队伍与阿尔特·库拉互动，J'ehlar 透露他们发现他独自蹒跚地进入终焉光芒旅店，身受重伤且被腐化。自那时起，尽管此人仍在沉睡，J'ehlar 一直照料他的伤势，希望他能醒来并协助他们找到雷文伽德公爵。询问他的个人物品时，J'ehlar 交给队伍一份[磨损的信件](Flaming_Fist_Writ_of_Command.md "Flaming Fist Writ of Command")，希望它能有助于[唤醒他](Wake_up_Art_Cullagh.md "Wake up Art Cullagh")。
+如果队伍与阿尔特·库拉互动，J'ehlar 透露他们发现他独自蹒跚地进入终焉光芒旅店，身受重伤且被腐化。自那时起，尽管此人仍在沉睡，J'ehlar 一直照料他的伤势，希望他能醒来并协助他们找到雷文伽德公爵。询问他的个人物品时，J'ehlar 交给队伍一份[焰拳的命令状](Flaming_Fist_Writ_of_Command.md "焰拳的命令状")，希望它能有助于[唤醒他](Wake_up_Art_Cullagh.md "Wake up Art Cullagh")。
 
 #### 解决绑架问题
 
@@ -279,7 +279,7 @@ UUID
 
 每个可燃目标受到 3d6⁠⁠[火焰](Fire.md "Fire") 伤害。
 
-[敏](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 范围：自身
 
 [震荡猛击](Concussive_Smash.md "Concussive Smash") () – [短棒](Club.md "Club")
@@ -290,7 +290,7 @@ UUID
 
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。
 
-[体](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "Saving throws")
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
@@ -322,7 +322,7 @@ UUID
 
 用火焰般的光耀吞噬目标。
 
-[敏](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 范围：18 m (60 ft)
 
 ### 战利品

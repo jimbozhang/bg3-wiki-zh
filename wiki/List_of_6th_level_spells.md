@@ -2,9 +2,9 @@
 
 ## 目录
 
-- [1 六环法术](#level-6-spells)
-- [2 物品或变体法术](#item-or-variant-spells)
-- [3 仅限非玩家角色](#non-player_character_only)
+- [1 六环法术](#六环法术)
+- [2 物品或变体法术](#物品或变体法术)
+- [3 仅限非玩家角色](#仅限非玩家角色)
 
 ## 六环法术
 
@@ -64,7 +64,7 @@
 | [魅惑斥责](Beguiling_Rebuke.md "魅惑斥责") | 6 |  |  | 2 回合 | 18 m / 60 ft | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [恶魔锁链](Diabolic_Chains.md "恶魔锁链") | 6 |  |  | - | 18 m / 60ft | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 6d6⁠[火焰](Fire.md "火焰") / 6d6⁠[火焰](Fire.md "火焰") / 6d6⁠[火焰](Fire.md "火焰") |
 | [阿弗纳斯之焰](Flames_of_Avernus_(spell).md "阿弗纳斯之焰（法术）") | 6 |  |  | - | 自身 / 5m / 17ft (锥形) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 6d6⁠[火焰](Fire.md "火焰") |
-| [地狱火球术](Hellfire_Orb.md "地狱火球术") | 6 |  |  | - | 18 m / 60ft / 4m / 13ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 20d6⁠[火焰](Fire.md "火焰") |
+| [地狱火球](Hellfire_Orb.md "地狱火球") | 6 |  |  | - | 18 m / 60ft / 4m / 13ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 20d6⁠[火焰](Fire.md "火焰") |
 | [焚烧](Incinerate.md "焚烧") | 6 |  |  | - | 3m / 10ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d8⁠[火焰](Fire.md "火焰") |
 | [地狱抚慰](Infernal_Salve.md "地狱抚慰") | 6 |  |  | - | 18 m / 60ft | - | 3d6⁠[治疗](Healing.md "治疗") |
 | [永恒债务祈唤](Invocation_of_Eternal_Debt.md "永恒债务祈唤") | 6 |  |  | - | 18 m / 60ft | - | - |

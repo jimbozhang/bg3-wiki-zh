@@ -11,7 +11,7 @@
 ## 属性
 
 详情
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
 范围：自身
 范围效果：9米（30英尺）半径
 
@@ -27,7 +27,7 @@ UID
 
 持续时间：10驱散
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
 
 - 你周围9米（30英尺）内的每个生物必须通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则受到1d12[黯蚀](Necrotic.md "黯蚀")伤害。此外，你获得1d12[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 - DC基于你的[魅力](Charisma.md "魅力")调整值

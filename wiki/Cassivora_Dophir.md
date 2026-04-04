@@ -82,15 +82,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**幻影伤痕**](Scar_of_Mirages.md "幻影伤痕")
+- [幻影伤痕](Scar_of_Mirages.md "幻影伤痕")
 
 若生命值低于90%，该角色的攻击可能施加困惑状态。
 
@@ -138,15 +138,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**幻影伤痕**](Scar_of_Mirages.md "幻影伤痕")
+- [幻影伤痕](Scar_of_Mirages.md "幻影伤痕")
 
 若生命值低于90%，该角色的攻击可能施加困惑状态。
 
@@ -194,15 +194,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**幻影伤痕**](Scar_of_Mirages.md "幻影伤痕")
+- [幻影伤痕](Scar_of_Mirages.md "幻影伤痕")
 
 若生命值低于90%，该角色的攻击可能施加困惑状态。
 
@@ -264,7 +264,7 @@ Stats
 
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
@@ -278,7 +278,7 @@ Stats
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法流血。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 

@@ -1,6 +1,6 @@
 # 异界神侍羽毛颜料
 
-**异界神侍羽毛颜料**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与[悬液](Alchemy.md#Extractions "炼金术")结合，制作出[深邃沉眠药水](Potion_of_Angelic_Slumber.md "深邃沉眠药水")。
+**异界神侍羽毛颜料**是一种[炼金术](Alchemy.md "炼金术")。它可以与[悬液](Alchemy.md#Extractions "炼金术")结合，制作出[深邃沉眠药水](Potion_of_Angelic_Slumber.md "深邃沉眠药水")。
 
 象牙白中透出一丝翠绿——并涌动着魔法。
 

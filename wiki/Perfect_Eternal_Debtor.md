@@ -87,19 +87,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) | 8 / (-1) |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "Saving throw")上具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
@@ -149,19 +149,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 0 | 0 | 0 | -1 | -1 | -1 |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "Saving throw")上具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
@@ -211,19 +211,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) | 8 / (-1) |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "Saving throw")上具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
@@ -257,10 +257,10 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
 
 ## 参与
 

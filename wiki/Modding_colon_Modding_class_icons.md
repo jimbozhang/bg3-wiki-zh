@@ -17,11 +17,11 @@
 
 ## 目录
 
-- [1 现有职业图标](#existing-class-icons)
-- [2 创建新职业图标](#creating-new-class-icons)
-- [3 将职业图标添加到ImprovedUI](#adding-class-icons-to-improvedui)
-  - [3.1 选项1：动态（简单）](#option-1:_Dynamic_(Easy))
-  - [3.2 选项2：直接（不再支持）](#option-2:_Direct_(No_longer_supported))
+- [1 现有职业图标](#现有职业图标)
+- [2 创建新职业图标](#创建新职业图标)
+- [3 将职业图标添加到ImprovedUI](#将职业图标添加到ImprovedUI)
+  - [3.1 选项1：动态（简单）](#选项1动态简单))
+  - [3.2 选项2：直接（不再支持）](#选项2直接不再支持))
 
 ## 现有职业图标
 

@@ -81,27 +81,27 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵")或⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**感知典范**](Paragon_of_Wisdom.md "感知典范")
+- [感知典范](Paragon_of_Wisdom.md "感知典范")
 
 所有感知[豁免检定](Saving_throw.md "豁免检定")和法术[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**日照弱点**](Sunlight_Weakness.md "日照弱点")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
@@ -151,27 +151,27 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵")或⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**感知典范**](Paragon_of_Wisdom.md "感知典范")
+- [感知典范](Paragon_of_Wisdom.md "感知典范")
 
 所有感知[豁免检定](Saving_throw.md "豁免检定")和法术[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**日照弱点**](Sunlight_Weakness.md "日照弱点")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
@@ -221,27 +221,27 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵")或⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**感知典范**](Paragon_of_Wisdom.md "感知典范")
+- [感知典范](Paragon_of_Wisdom.md "感知典范")
 
 所有感知[豁免检定](Saving_throw.md "豁免检定")和法术[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**日照弱点**](Sunlight_Weakness.md "日照弱点")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
@@ -297,7 +297,7 @@ UUID
 
 用火焰般的光耀吞噬目标。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [精魂守卫：黯蚀](Spirit_Guardians_(Necrotic).md "精魂守卫 (黯蚀)") (+ )
@@ -310,11 +310,11 @@ UUID
 
 附近敌人每回合受到 3d8[黯蚀](Necrotic.md "黯蚀")伤害，并且其[移动速度](Movement_speed.md "移动速度")减半。持续 10 回合。
 
-[感](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 射程：自身
 
 [暗影步](Shadow_Step.md "暗影步") ()
-从[阴影](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 射程：18 米 (60 英尺)
 

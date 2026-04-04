@@ -1,10 +1,10 @@
 # 奇术
 
-**奇术**是一种[戏法（变化学派）](Spells.md "法术")。它能暂时提升施法者的[威吓](Intimidation.md "威吓")和[表演](Performance.md "表演")[检定](Skill_Check.md "技能检定")。
+**奇术**是一种[法术](Spells.md "法术")。它能暂时提升施法者的[威吓](Intimidation.md "威吓")和[表演](Performance.md "表演")[技能检定](Skill_Check.md "技能检定")。
 
 ## 描述
 
-在[威吓](Intimidation.md "威吓")和[表演](Performance.md "表演")[检定](Skill_Check.md "技能检定")上获得[优势](Advantage.md "优势")。
+在[威吓](Intimidation.md "威吓")和[表演](Performance.md "表演")[技能检定](Skill_Check.md "技能检定")上获得[优势](Advantage.md "优势")。
 
 ## 属性
 

@@ -2,7 +2,7 @@
 
 **火焰脑炎**
 
-- 受影响实体的大脑在热血炖汤中沸腾。它在进行[智力](Intelligence.md "智力") [检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")，并在战斗中表现得如同[困惑](Confused_(Condition).md "困惑 (状态)")。
+- 受影响实体的大脑在热血炖汤中沸腾。它在进行[智力](Intelligence.md "智力") [属性检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")，并在战斗中表现得如同[困惑](Confused_(Condition).md "困惑 (状态)")。
 
 [患病](Diseased_(status_group).md)
 
@@ -22,7 +22,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 受影响实体的大脑在热血炖汤中沸腾。它在进行[智力](Intelligence.md "智力") [检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")，并在战斗中表现得如同[困惑](Confused_(Condition).md "困惑 (状态)")。
+- 受影响实体的大脑在热血炖汤中沸腾。它在进行[智力](Intelligence.md "智力") [属性检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")，并在战斗中表现得如同[困惑](Confused_(Condition).md "困惑 (状态)")。
 
 ---
 *Source: [Stricken With Mindfire (Condition)](https://bg3.wiki/wiki/Stricken_With_Mindfire_(Condition)*

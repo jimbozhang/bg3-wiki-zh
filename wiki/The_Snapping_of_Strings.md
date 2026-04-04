@@ -74,7 +74,7 @@
 
 可以使用 [诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后恢复所有 [诗人激励](Bardic_Inspiration_(resource).md)。
 
@@ -82,7 +82,7 @@
 
 增加 [诗人激励](Bardic_Inspiration_(class_action).md) 的加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -132,7 +132,7 @@
 
 可以使用 [诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后恢复所有 [诗人激励](Bardic_Inspiration_(resource).md)。
 
@@ -140,7 +140,7 @@
 
 增加 [诗人激励](Bardic_Inspiration_(class_action).md) 的加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -148,10 +148,10 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
 
 ## 参与
 

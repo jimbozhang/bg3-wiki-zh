@@ -70,11 +70,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -116,11 +116,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -162,15 +162,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型比你大的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -212,15 +212,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型比你大的生物造成伤害时，可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -262,7 +262,7 @@
 
 1d6⁠[黯蚀](Necrotic.md "Necrotic")
 
-当你攻击目标时，额外造成 1d6[黯蚀](Necrotic.md "Necrotic") 伤害，并赋予目标 [敏捷](Dexterity.md "Dexterity") [检定](Ability_Check.md "Ability Check") 的 [劣势](Disadvantage.md "Disadvantage")。
+当你攻击目标时，额外造成 1d6[黯蚀](Necrotic.md "Necrotic") 伤害，并赋予目标 [敏捷](Dexterity.md "Dexterity") [属性检定](Ability_Check.md "属性检定") 的 [劣势](Disadvantage.md "Disadvantage")。
 
 范围：18 米 (60 英尺)
 

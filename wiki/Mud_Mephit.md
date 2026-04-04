@@ -65,7 +65,7 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -73,7 +73,7 @@
 
 当魔蝠死亡时，它会爆炸，对 2 米 (7 英尺) 内的所有生物造成 2d6⁠⁠[力场](Force.md "力场") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -103,7 +103,7 @@
 
 在粘稠的泥巴中爆炸。泥巴会瞬间干燥在任何附近的非泥巴生物上，[束缚](Muddy_(Condition).md "泥泞 (状态)")并伤害它们。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围: 自身
 
 [飞行](Fly_(class_action).md "飞行 (职业动作)") ()
@@ -114,7 +114,7 @@
 [泥水呼吸](Mud_Breath.md "泥水呼吸") ()
 向敌人喷吐粘稠泥巴以[束缚](Muddy_(Condition).md "泥泞 (状态)")它。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 充能: 每回合
 
 [泥泞利爪](Muddy_Claws.md "泥泞利爪") ()

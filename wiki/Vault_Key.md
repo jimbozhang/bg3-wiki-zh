@@ -1,6 +1,6 @@
 # 保险库钥匙
 
-这是一个消歧义页面，它链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Vault_Key.md "Special:WhatLinksHere/Vault Key")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，它链接到名称模糊的文章。如果您是通过文章中的链接[保险库钥匙](Special_colon_WhatLinksHere/Vault_Key.md "保险库钥匙")的，请考虑编辑该链接，将其指向正确的页面。
 
 **保险库钥匙**可能指游戏中用于开启各种[保险库](Vault.md "Vault")的多种[钥匙](Keys.md "Keys")：
 

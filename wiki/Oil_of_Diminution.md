@@ -21,7 +21,7 @@
 
 持续时间：10 回合
 
-- 目标必须通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则在 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 上获得[劣势](Disadvantage.md "劣势")，并且在 2 回合内近战攻击的伤害降低 1d4。
+- 目标必须通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则在 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 上获得[劣势](Disadvantage.md "劣势")，并且在 2 回合内近战攻击的伤害降低 1d4。
 
 ## 状态：缩小
 
@@ -32,7 +32,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）
 
 - [体型](Creature_size.md "生物体型") 减小。
-- 武器攻击造成 **1d4** 点额外伤害。在 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上获得[劣势](Disadvantage.md "劣势")。
+- 武器攻击造成 **1d4** 点额外伤害。在 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上获得[劣势](Disadvantage.md "劣势")。
 - [负重](Carrying_capacity.md "负重") 降低 25%
 
 ## 获取地点

@@ -1,6 +1,6 @@
 # 地狱骑士的骄傲
 
-地狱骑士的骄傲是一对[罕见](Gloves.md "Gloves")的[手套](Gloves.md "Gloves")，能为穿戴者治疗的生物提供对武器攻击造成的[物理伤害](Resistance.md "Resistance")的[抗性](Resistance.md "Resistance")。_\[[参见：漏洞](#bugs)\]_
+地狱骑士的骄傲是一对[手套](Gloves.md "手套")的[手套](Gloves.md "Gloves")，能为穿戴者治疗的生物提供对武器攻击造成的[抗性](Resistance.md "抗性")的[抗性](Resistance.md "Resistance")。_\[[参见：漏洞](#bugs)\]_
 
 这些精心保养的金属护手散发着硫磺的气息。
 

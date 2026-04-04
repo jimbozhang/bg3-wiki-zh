@@ -18,34 +18,34 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 进入方式](#access)
-    - [1.1.1 处理奥术炮塔](#dealing-with-the-arcane-turrets)
-  - [1.2 一楼（发电机房）](#ground-floor-(generator_room))
-  - [1.3 二楼（温室）](#first-floor-(greenhouse))
-  - [1.4 三楼（主入口）](#second-floor-(main_entrance))
-  - [1.5 四楼（卧室）](#third-floor-(bedroom))
-  - [1.6 五楼（屋顶）](#the-fourth-floor-(roof))
-  - [1.7 地下室（密室）](#the-basement-(secret_room))
-- [2 布局](#layout)
-- [3 伯纳德的指令](#bernard's-commands)
-- [4 相关地点](#related-locations)
-  - [4.1 火炬蘑菇峡谷](#torchstalk-gulch)
-  - [4.2 溃烂洞穴](#festering-cove)
-- [5 相关任务](#related-quests)
-- [6 角色](#characters)
-- [7 生物](#creatures)
-- [8 战利品](#loot)
-  - [8.1 一楼（发电机房）](#ground-floor-(generator_room)_2)
-  - [8.2 二楼](#first-floor)
-  - [8.3 三楼（主入口）](#second-floor-(main_entrance)_2)
-  - [8.4 四楼（卧室）](#third-floor-(bedroom)_2)
-  - [8.5 五楼（屋顶）](#fourth-floor-(roof))
-  - [8.6 地下室（密室）](#basement-(secret_room))
-  - [8.7 炼金术](#alchemy)
-- [9 文献](#literature)
-- [10 注释](#notes)
-- [11 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 进入方式](#进入方式)
+    - [1.1.1 处理奥术炮塔](#处理奥术炮塔)
+  - [1.2 一楼（发电机房）](#一楼发电机房))
+  - [1.3 二楼（温室）](#二楼温室))
+  - [1.4 三楼（主入口）](#三楼主入口))
+  - [1.5 四楼（卧室）](#四楼卧室))
+  - [1.6 五楼（屋顶）](#五楼屋顶))
+  - [1.7 地下室（密室）](#地下室密室))
+- [2 布局](#布局)
+- [3 伯纳德的指令](#伯纳德的指令)
+- [4 相关地点](#相关地点)
+  - [4.1 火炬蘑菇峡谷](#火炬蘑菇峡谷)
+  - [4.2 溃烂洞穴](#溃烂洞穴)
+- [5 相关任务](#相关任务)
+- [6 角色](#角色)
+- [7 生物](#生物)
+- [8 战利品](#战利品)
+  - [8.1 一楼（发电机房）](#一楼发电机房)_2)
+  - [8.2 二楼](#二楼)
+  - [8.3 三楼（主入口）](#三楼主入口)_2)
+  - [8.4 四楼（卧室）](#四楼卧室)_2)
+  - [8.5 五楼（屋顶）](#五楼屋顶))
+  - [8.6 地下室（密室）](#地下室密室))
+  - [8.7 炼金术](#炼金术)
+- [9 文献](#文献)
+- [10 注释](#注释)
+- [11 外部链接](#外部链接)
 
 ## 概述
 
@@ -77,7 +77,7 @@
 
 ### 一楼（发电机房）
 
-通往一楼的门是锁着的（需要 DC 15 [巧手](Sleight_of_Hand.md "Sleight of Hand") [检定](Ability_Check.md "Ability check")来撬锁）。然而，也可以从内部用杠杆打开，X: -50 Y: -304 处有一个洞（用 DC 5 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")检测到），允许任何小型召唤物（如[法师之手](Mage_Hand.md "Mage Hand"))渗入内部并使用杠杆。
+通往一楼的门是锁着的（需要 DC 15 [巧手](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定")来撬锁）。然而，也可以从内部用杠杆打开，X: -50 Y: -304 处有一个洞（用 DC 5 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")检测到），允许任何小型召唤物（如[法师之手](Mage_Hand.md "Mage Hand"))渗入内部并使用杠杆。
 
 进入后，如何恢复奥法高塔发电机电力的线索很明确：发电机炉子附近的地板上有几片[枯萎的蓝色花瓣](Withered_Blue_Petal.md "Withered_Blue_Petal")，附近的台子上还有一本名为[轻语树花反魔法特性论](Treatise_on_the_Antimagic_Properties_of_Sussur_Tree_Flowers.md "Treatise on the Antimagic Properties of Sussur Tree Flowers")的书。
 
@@ -111,7 +111,7 @@
 
 书[通向黑暗之路](The_Roads_to_Darkness.md "The_Roads_to_Darkness")可以在东南角 X: -25 Y: -297 的书桌上找到，电梯附近的桌子上 X: -35 Y: -286 有一张[撕下的书页](Torn-Out_Paper.md "Torn-Out_Paper")。这本书中的立场会让伯纳德将玩家角色视为塔的女主人，而单独的书页则提供了与机器人的额外互动。
 
-[彗星王子俄耳甫斯，第一部：背叛](Orpheus,_Prince_of_the_Comet,_Part_One_colon__Betrayal.md "Orpheus, Prince of the Comet, Part One: Betrayal")可以在 X: -31 Y: -296 的书架顶部找到。如果[莱埃泽尔](Lae'zel.md "Lae'zel")在队伍中，她可以直接阅读；如果她不在，可以在拾取并使用电梯附近 X: -32 Y: -292 桌子上的[提尔苏密码的谨慎艺术](The_Careful_Art_of_Tir'su_Ciphers.md "The Careful Art of Tir'su Ciphers")后阅读，或者在成功通过 DC 20 [智力](Intelligence.md "Intelligence") [检定](Ability_Check.md "Ability check")后阅读。此外，玩家角色可以在返回营地后与莱埃泽尔讨论这张光盘。无论哪种方式，破译光盘都会开始任务[发现俄耳甫斯王子的历史](Discover_the_History_of_Prince_Orpheus.md "Discover the History of Prince Orpheus")。
+[彗星王子俄耳甫斯，第一部：背叛](Orpheus,_Prince_of_the_Comet,_Part_One_colon__Betrayal.md "Orpheus, Prince of the Comet, Part One: Betrayal")可以在 X: -31 Y: -296 的书架顶部找到。如果[莱埃泽尔](Lae'zel.md "Lae'zel")在队伍中，她可以直接阅读；如果她不在，可以在拾取并使用电梯附近 X: -32 Y: -292 桌子上的[提尔苏密码的谨慎艺术](The_Careful_Art_of_Tir'su_Ciphers.md "The Careful Art of Tir'su Ciphers")后阅读，或者在成功通过 DC 20 [智力](Intelligence.md "Intelligence") [属性检定](Ability_Check.md "属性检定")后阅读。此外，玩家角色可以在返回营地后与莱埃泽尔讨论这张光盘。无论哪种方式，破译光盘都会开始任务[发现俄耳甫斯王子的历史](Discover_the_History_of_Prince_Orpheus.md "Discover the History of Prince Orpheus")。
 
 除了书籍和笔记，该层床边的木箱子中 X: -29 Y: -273 还可以拾取魔法戒指[法师之友](Mage's_Friend.md "Mage's_Friend")。
 
@@ -123,13 +123,13 @@
 
 该层只能通过恢复的电梯或飞行进入。到达该层时，会触发与[伯纳德](Bernard.md "Bernard")的对话，他正与一群[活化护甲](Animated_Armour.md "Animated Armour")一起在电梯旁守卫。
 
-伯纳德只用诗歌说话，散落在奥法高塔各处的诗句作为他的各种指令短语。在第一次见面时，如果队伍阅读了[通向黑暗之路](The_Roads_to_Darkness.md "The_Roads_to_Darkness")，他们可以用_“或是友人，将我从孤独的守夜中拯救？”_回应，这可以防止伯纳德变得敌对并攻击。在所有职业中，只有[吟游诗人](Bard.md "Bard")可以在此处进行被动 DC 18 [历史的](History.md "History") [检定](Ability_Check.md "Ability check")，如果成功，他们会记住正确的诗句来继续诗节。成功安抚伯纳德会为队伍提供 50 点经验值，并为任何具有[艺人](Entertainer.md "Entertainer")背景的队伍成员赢得[创作者之心](Entertainer.md#Heart_of_the_Creator "Entertainer")激励事件。
+伯纳德只用诗歌说话，散落在奥法高塔各处的诗句作为他的各种指令短语。在第一次见面时，如果队伍阅读了[通向黑暗之路](The_Roads_to_Darkness.md "The_Roads_to_Darkness")，他们可以用_“或是友人，将我从孤独的守夜中拯救？”_回应，这可以防止伯纳德变得敌对并攻击。在所有职业中，只有[吟游诗人](Bard.md "Bard")可以在此处进行被动 DC 18 [历史的](History.md "History") [属性检定](Ability_Check.md "属性检定")，如果成功，他们会记住正确的诗句来继续诗节。成功安抚伯纳德会为队伍提供 50 点经验值，并为任何具有[艺人](Entertainer.md "Entertainer")背景的队伍成员赢得[创作者之心](Entertainer.md#Heart_of_the_Creator "Entertainer")激励事件。
 
 之后，根据他们阅读的内容，队伍可以使用几个对话选项/指令与伯纳德互动（参见[#伯纳德的指令](#bernard's-commands)）。
 
 [照明灯](Guiding_Light.md "Guiding Light")戒指可以通过背诵[破旧的书](Threadbare_Book.md "Threadbare Book")中的诗句_“我该如何信任？我该如何知晓？/ 我该如何展现自我，我最黑暗的自我？”_获得，或者在战斗中摧毁伯纳德。无法扒窃。摧毁伯纳德（或命令其放下武器）也会为队伍提供[造物之光](Light_of_Creation.md "Light of Creation")。
 
-在 X: -40 Y: -296 的书架旁边还有一个杠杆，可以用 DC 18 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")注意到。这是打开一楼通往地下室墙壁的另一种方式。
+在 X: -40 Y: -296 的书架旁边还有一个杠杆，可以用 DC 18 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")注意到。这是打开一楼通往地下室墙壁的另一种方式。
 
 最后，在 X: -26 Y: -272 处，一个活化护甲后面放着[山丘巨人怪力板凳](Stool_of_Hill_Giant_Strength.md "Stool of Hill Giant Strength")。队伍成员可以坐在板凳上并注意到其魔法效果，以及他们站起来后板凳消失。如果他们打破板凳，可以从碎片中获得[山丘巨人力量短棒](Club_of_Hill_Giant_Strength.md "Club of Hill Giant Strength")。
 
@@ -158,7 +158,7 @@
 
 塔的东边，这是幽暗地域一个无名的区域，有深红色的蘑菇簇和[火炬蘑菇](Torchstalk.md "Torchstalk")点缀，向空中投射漂浮的余烬。可以找到一个不幸的卓尔尸体，他因意外坠落而死亡。
 
-队伍可以沿着墙壁攀爬蘑菇到达上层。其中一些蘑菇是幻象，当踩到或用 DC 10 [调查](Investigation.md "Investigation") [检定](Ability_Check.md "Ability check")发现时会消失。上层和下方还有一些蘑菇圈，其中一个在幻象墙后面。这些圈相互连接，直到使用[蔓生地道](Overgrown_Tunnel.md "Overgrown Tunnel")中的圈。然后可以用它们传送到[河边茶室](Riverside_Teahouse.md "Riverside Teahouse")附近的蔓生地道并返回。
+队伍可以沿着墙壁攀爬蘑菇到达上层。其中一些蘑菇是幻象，当踩到或用 DC 10 [调查](Investigation.md "Investigation") [属性检定](Ability_Check.md "属性检定")发现时会消失。上层和下方还有一些蘑菇圈，其中一个在幻象墙后面。这些圈相互连接，直到使用[蔓生地道](Overgrown_Tunnel.md "Overgrown Tunnel")中的圈。然后可以用它们传送到[河边茶室](Riverside_Teahouse.md "Riverside Teahouse")附近的蔓生地道并返回。
 
 ### 溃烂洞穴
 
@@ -217,7 +217,7 @@
 - [火花壁垒](The_Sparkswall.md "The Sparkswall")
 - [鬼头蘑菇孢子](Timmask_Spores_(ingredient).md "Timmask Spores (ingredient)")
 - [狂乱之舌](Tongue_of_Madness.md "Tongue of Madness")
-- [3级法术卷轴](Scrolls.md "Scrolls")（随机）
+- [卷轴](Scrolls.md "卷轴")（随机）
 
 ### 炼金术
 

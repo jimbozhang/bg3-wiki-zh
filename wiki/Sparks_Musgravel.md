@@ -87,7 +87,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -137,7 +137,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -187,7 +187,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -209,11 +209,11 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-  - [2.3 盟友](#allies)
+- [1 参与情况](#参与情况)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+  - [2.3 盟友](#盟友)
 
 ## 参与情况
 
@@ -226,7 +226,7 @@ UUID
 [妖火](Faerie_Fire.md "妖火") (+ )
 光芒范围内的所有目标变为可见，且对它们的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [隐形](Invisibility_(spell).md "隐形 (法术)") (+ )
@@ -247,7 +247,7 @@ UUID
 
 \+ 1d4 + 1⁠[力场](Force.md "力场")
 
-创造**三**枚魔法飞弹，每枚对目标造成 ⁠[1d4 + 1 力场](Force.md "力场") 伤害。
+创造**三**枚魔法飞弹，每枚对目标造成 ⁠[力场](Force.md "力场") 伤害。
 
 飞弹总是命中目标，并且可以单独瞄准。
 
@@ -271,7 +271,7 @@ UUID
 
 挥击一个生物使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

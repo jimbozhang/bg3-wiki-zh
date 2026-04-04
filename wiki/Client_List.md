@@ -38,7 +38,7 @@
 
 克里奥娜·弗罗斯利 - 暴力之心。全额支付并转介进行卸负。
 
-[阿维斯·银山](Arves.md "阿维斯") - 忧郁之心。全额支付并转介进行卸负。
+[阿维斯](Arves.md "阿维斯") - 忧郁之心。全额支付并转介进行卸负。
 
 ---
 *Source: [Client List](https://bg3.wiki/wiki/Client_List)*

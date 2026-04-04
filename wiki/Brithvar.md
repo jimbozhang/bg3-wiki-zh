@@ -88,35 +88,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**钻骨敲髓**](Dig_Deep.md "钻骨敲髓")
+- [钻骨敲髓](Dig_Deep.md "钻骨敲髓")
 
 命中时使目标陷入[粉碎](Shattered_(Condition).md "粉碎（状态）")。
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对抗[幻术学派](Illusion.md "幻术学派")和[魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -162,35 +162,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +7 | +1 | +5 | 0 | +1 | +1 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**钻骨敲髓**](Dig_Deep.md "钻骨敲髓")
+- [钻骨敲髓](Dig_Deep.md "钻骨敲髓")
 
 命中时使目标陷入[粉碎](Shattered_(Condition).md "粉碎（状态）")。
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对抗[幻术学派](Illusion.md "幻术学派")和[魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -236,35 +236,35 @@
 | --- | --- | --- | --- |
 |  | 4 | 1 | 1 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**钻骨敲髓**](Dig_Deep.md "钻骨敲髓")
+- [钻骨敲髓](Dig_Deep.md "钻骨敲髓")
 
 命中时使目标陷入[粉碎](Shattered_(Condition).md "粉碎（状态）")。
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对抗[幻术学派](Illusion.md "幻术学派")和[魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -282,7 +282,7 @@ UUID
 
 属性
 
-`UND_KC_Brithvar` **布利斯瓦尔长老**在[复仇之炉](Grymforge.md "复仇之炉")的[第一幕](Act_One.md "第一幕")中领导着一群灰矮人雇佣兵。该团体受[真魂者尼讷](Nere.md "真魂者尼讷")雇佣，以寻找[精金熔炉](Adamantine_Forge_(location).md)。
+`UND_KC_Brithvar` **布利斯瓦尔长老**在[复仇之炉](Grymforge.md "复仇之炉")的[第一幕](Act_One.md "第一幕")中领导着一群灰矮人雇佣兵。该团体受[尼讷](Nere.md "尼讷")雇佣，以寻找[精金熔炉](Adamantine_Forge_(location).md)。
 
 > “
 >
@@ -303,7 +303,7 @@ UUID
 ### 攻击与能力
 
 [巨化](Enlarge.md "巨化") (+ )
-使一个生物变大。其武器造成额外**1d4**伤害。在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+使一个生物变大。其武器造成额外**1d4**伤害。在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
 范围：9 米 (30 英尺)
 
@@ -355,7 +355,7 @@ UUID
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与武器的近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 

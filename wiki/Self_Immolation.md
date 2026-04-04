@@ -1,6 +1,6 @@
 # 自我献祭
 
-**自我献祭**是来自[自我献祭戒指](Ring_of_Self_Immolation.md "自我献祭戒指")的类动作。它为穿戴者施加两层[灼热](Heat_(Condition).md "灼热（状态）")。
+**自我献祭**是来自[自我献祭](Ring_of_Self_Immolation.md "自我献祭")的类动作。它为穿戴者施加两层[灼热](Heat_(Condition).md "灼热（状态）")。
 
 ## 描述
 
@@ -38,7 +38,7 @@ UID
 
 由物品授予：
 
-- [自我献祭戒指](Ring_of_Self_Immolation.md "自我献祭戒指")
+- [自我献祭](Ring_of_Self_Immolation.md "自我献祭")
 
 ---
 *Source: [Self Immolation](https://bg3.wiki/wiki/Self_Immolation)*

@@ -23,7 +23,7 @@
 
 持续时间：10 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
 
 - 受影响的生物在每个回合开始时受到 2d6⁠⁠[中毒](Poison.md "中毒")伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "骰子检定") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 

@@ -40,10 +40,10 @@
 
 飞向目标位置
 
-以你元素生物的普遍潮湿性散发水汽，为附近生物恢复2d8⁠⁠点[生命值](Healing.md "治疗")。
+以你元素生物的普遍潮湿性散发水汽，为附近生物恢复2d8⁠⁠点[治疗](Healing.md "治疗")。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术位")以在荒野形态时恢复[生命值](Hit_Points.md "生命值")。你每消耗一个法术位等级恢复1d8点[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术位")以在荒野形态时恢复[生命值](Hit_Points.md "生命值")。你每消耗一个法术位等级恢复1d8点[治疗](Healing.md "治疗")。
 
 [虚无形态](Ethereal.md "虚无形态")
 受影响实体是虚无的，无法被[推击](Shove.md "推击")、[投掷](Throw.md "投掷")或用作[即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器")

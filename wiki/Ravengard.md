@@ -4,7 +4,7 @@
 
 **渡鸦伽德**可能指：
 
-- [威尔·渡鸦伽德](Wyll.md "Wyll")
+- [威尔](Wyll.md "威尔")
 - [乌尔德·渡鸦伽德公爵](Ulder_Ravengard.md "Ulder_Ravengard")
 
 ---

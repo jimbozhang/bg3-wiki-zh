@@ -25,24 +25,24 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 房屋布局](#the-house-layout)
-  - [2.1 一楼和二楼](#ground-floor-and-first-floor)
-  - [2.2 地下室](#basement)
-  - [2.3 屋顶](#roof)
-- [3 相关事件](#involvement)
-  - [3.1 品酒节](#the-wine-festival)
-- [4 相关任务](#related-quests)
-- [5 角色](#characters)
-  - [5.1 居民](#residents)
-  - [5.2 酒商和工人](#wine-traders-and-workers)
-  - [5.3 宾客](#patrons)
-  - [5.4 刺客](#assassins)
-  - [5.5 其他](#other)
-- [6 战利品](#loot)
-- [7 相关文献](#related-literature)
-- [8 外部链接](#external-links)
-- [9 注释和参考](#notes-and-references)
+- [1 概述](#概述)
+- [2 房屋布局](#房屋布局)
+  - [2.1 一楼和二楼](#一楼和二楼)
+  - [2.2 地下室](#地下室)
+  - [2.3 屋顶](#屋顶)
+- [3 相关事件](#相关事件)
+  - [3.1 品酒节](#品酒节)
+- [4 相关任务](#相关任务)
+- [5 角色](#角色)
+  - [5.1 居民](#居民)
+  - [5.2 酒商和工人](#酒商和工人)
+  - [5.3 宾客](#宾客)
+  - [5.4 刺客](#刺客)
+  - [5.5 其他](#其他)
+- [6 战利品](#战利品)
+- [7 相关文献](#相关文献)
+- [8 外部链接](#外部链接)
+- [9 注释和参考](#注释和参考)
 
 ## 概述
 
@@ -50,7 +50,7 @@
 
 海伯瑞之家的主入口位于 X: 14 Y: -43。房子在背面二楼还有几个阳台入口，分别位于 X: 0 Y: -30、X: 1 Y: -37 和 X: 14 Y: -37，可通过[给予飞行](Grant_Flight.md "给予飞行")或[迷踪步](Misty_Step.md "迷踪步")等空间移动方式进入。除主入口外，所有入口均以红色轮廓标出。
 
-海伯瑞之家属于一对年迈的半身人夫妇，[科拉](Cora_Highberry.md "科拉·海伯瑞")和[罗杰·海伯瑞](Roger_Highberry.md "罗杰·海伯瑞")，他们最近收养了两名孤儿，[蒂米](Timmy.md "蒂米")和[莫莉](Molly.md "莫莉")。<sup>[\[1\]](#cite_note-1)</sup> 当队伍抵达博德之门时，海伯瑞夫妇正准备举办一场品酒会，为他们年幼的被监护人筹集资金。
+海伯瑞之家属于一对年迈的半身人夫妇，[科拉·海伯瑞](Cora_Highberry.md "科拉·海伯瑞")和[罗杰·海伯瑞](Roger_Highberry.md "罗杰·海伯瑞")，他们最近收养了两名孤儿，[蒂米](Timmy.md "蒂米")和[莫莉](Molly.md "莫莉")。<sup>[\[1\]](#cite_note-1)</sup> 当队伍抵达博德之门时，海伯瑞夫妇正准备举办一场品酒会，为他们年幼的被监护人筹集资金。
 
 由于科拉·海伯瑞已被连环杀手[多洛](Dolor.md "多洛")标记为目标，建筑的实际状态取决于队伍参与[调查谋杀案](Investigate_the_Murders.md "调查谋杀案")和[打动谋杀裁判所](Impress_the_Murder_Tribunal.md "打动谋杀裁判所")任务的状态及（如果已开始）进度。
 
@@ -64,17 +64,17 @@
 
 ### 地下室
 
-地下室可通过一个上锁的活板门进入。内部，一次 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")会吸引队伍注意墙上的画作。如果队伍靠近，另一次 DC 20 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")会高亮显示一块[松动木板](Loose_Plank.md "松动木板")，其下藏着[海伯瑞的保险箱钥匙](Highberry's_Strongbox_Key.md "海伯瑞的保险箱钥匙")。保险箱本身藏在画作后面，内含一瓶[万能抗性灵药](Elixir_of_Universal_Resistance.md "万能抗性灵药")和一瓶[飞行药剂](Potion_of_Flying.md "飞行药剂")。
+地下室可通过一个上锁的活板门进入。内部，一次 DC 15 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")会吸引队伍注意墙上的画作。如果队伍靠近，另一次 DC 20 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")会高亮显示一块[松动木板](Loose_Plank.md "松动木板")，其下藏着[海伯瑞的保险箱钥匙](Highberry's_Strongbox_Key.md "海伯瑞的保险箱钥匙")。保险箱本身藏在画作后面，内含一瓶[万能抗性灵药](Elixir_of_Universal_Resistance.md "万能抗性灵药")和一瓶[飞行药剂](Potion_of_Flying.md "飞行药剂")。
 
 地下室远端的半圆形瓶架上有几瓶随机品质的生命药水。地窖周围的其他容器可能存放着新鲜的[营地补给](Camp_supplies.md "营地补给")。
 
-地下室尽头的门后是一个被帘子分成两部分的小书房。这里的一叠卷轴包含一个随机的稀有级以下卷轴。帘子后面是一个有陷阱的重箱子（DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")以发现陷阱，DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")以解除陷阱，以及 DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")以撬锁），里面有一堆金币和一块[金锭](Gold_Ingot.md "金锭")，旁边还有另一个木箱子（无陷阱，但需要 DC 20 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")才能撬锁），存放着更多金币。
+地下室尽头的门后是一个被帘子分成两部分的小书房。这里的一叠卷轴包含一个随机的稀有级以下卷轴。帘子后面是一个有陷阱的重箱子（DC 15 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")以发现陷阱，DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")以解除陷阱，以及 DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")以撬锁），里面有一堆金币和一块[金锭](Gold_Ingot.md "金锭")，旁边还有另一个木箱子（无陷阱，但需要 DC 20 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")才能撬锁），存放着更多金币。
 
 ### 屋顶
 
 屋顶可能是[塔拉](Tara.md "塔拉")翼猫在游戏流程中第三次出现的地方，前提是前两次相遇（在[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")屋顶和[魔鬼的小费](Devil's_Fee.md "魔鬼的小费")顶部）已经发生。如果在这里遇到她，她会出售[飞索鞋](Slinging_Shoes.md "飞索鞋")。
 
-屋顶 X: 0 Y: -40 处有一块松动的木板，可通过 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")发现。它隐藏着几件随机的有用物品，可能包括[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")、[盗贼工具](Thieves'_Tools.md "盗贼工具")、[飞行](Potion_of_Flying.md "飞行药剂")或[加速](Potion_of_Speed.md "加速药水")药水，以及一些金币。
+屋顶 X: 0 Y: -40 处有一块松动的木板，可通过 DC 15 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")发现。它隐藏着几件随机的有用物品，可能包括[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")、[盗贼工具](Thieves'_Tools.md "盗贼工具")、[飞行药剂](Potion_of_Flying.md "飞行药剂")或[加速药水](Potion_of_Speed.md "加速药水")药水，以及一些金币。
 
 ## 相关事件
 

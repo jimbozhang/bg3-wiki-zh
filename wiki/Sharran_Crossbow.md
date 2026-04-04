@@ -32,7 +32,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 ## 备注
 
-- 如果一名队伍成员从箱子中拾取此物品，他们必须通过被动 [DC](Dice_rolls.md#Save_DCs "掷骰") 10 [智力](Intelligence.md "智力") [豁免检定](Saving_throw.md "豁免检定") ([历史的](History.md "历史的")) 才能注意到它实际上是一把 _[莎尔信徒](Shar.md "莎尔") 之弩_。
+- 如果一名队伍成员从箱子中拾取此物品，他们必须通过被动 [DC](Dice_rolls.md#Save_DCs "掷骰") 10 [智力](Intelligence.md "智力") [豁免检定](Saving_throw.md "豁免检定") ([历史的](History.md "历史的")) 才能注意到它实际上是一把 _[莎尔](Shar.md "莎尔") 之弩_。
 
 ---
 *Source: [Sharran Crossbow](https://bg3.wiki/wiki/Sharran_Crossbow)*

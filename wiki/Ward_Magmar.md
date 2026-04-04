@@ -92,27 +92,27 @@
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -162,27 +162,27 @@
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -232,27 +232,27 @@
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -298,7 +298,7 @@ Stats
 
 马格马和皮斯托虐待被奴役的地底侏儒[斯奇皮特](Skickpit.md "斯奇皮特")，要求他反复从楼梯脚下的桶里取更多啤酒。
 
-如果释放斯奇皮特，队伍必须通过攻击或在对话中激怒马格马和皮斯托来对付他们。另一种选择是在桶里的啤酒中掺入毒药或毒素。队伍可以尝试与侏儒交谈。需要三到四句对话，并可能通过[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")来说服斯奇皮特队伍真的会帮助他。队伍也可以直接在啤酒中下毒。无论哪种方式，马格马和皮斯托在各喝了一壶毒啤酒后都会倒地身亡。
+如果释放斯奇皮特，队伍必须通过攻击或在对话中激怒马格马和皮斯托来对付他们。另一种选择是在桶里的啤酒中掺入毒药或毒素。队伍可以尝试与侏儒交谈。需要三到四句对话，并可能通过[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")来说服斯奇皮特队伍真的会帮助他。队伍也可以直接在啤酒中下毒。无论哪种方式，马格马和皮斯托在各喝了一壶毒啤酒后都会倒地身亡。
 
 两名守卫死后，斯奇皮特会与队伍交谈，并询问接下来该做什么。如果礼貌回答，他会赠送队伍一瓶[翼龙毒素](Wyvern_Toxin.md "翼龙毒素")。
 
@@ -327,7 +327,7 @@ Stats
 
 飞行生物无法被跛足。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
@@ -351,7 +351,7 @@ Stats
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -365,7 +365,7 @@ Stats
 
 没有武器的生物无法获得弱腕。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 

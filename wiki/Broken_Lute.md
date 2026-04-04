@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：普通
 
@@ -20,7 +20,7 @@
 
 ## 备注
 
-- 一把坏掉的鲁特琴比[完好](Lute.md "鲁特琴")的卖得更贵。
+- 一把坏掉的鲁特琴比[鲁特琴](Lute.md "鲁特琴")的卖得更贵。
 
 ---
 *Source: [Broken Lute](https://bg3.wiki/wiki/Broken_Lute)*

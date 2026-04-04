@@ -28,7 +28,7 @@
 
 [这些页面显然抄自一本主书，描述了幽暗地域中一座大型熔炉的建造和使用方法。]
 
-在[莎尔信徒](Shar.md "莎尔信徒")中居住着侏儒[西卢夫·亚利](Silouv_Yali.md "西卢夫·亚利")，他的法师才能从[烛堡](https://forgottenrealms.fandom.com/wiki/Candlekeep)到[索瑟尔](https://forgottenrealms.fandom.com/wiki/Sorcere)都广为人知。在他的指导下，莎尔信徒建造了这座大熔炉，它能以极高的温度加热[秘银](Mithral.md "秘银")，使其转化为[精金](Adamantine.md "精金")。有了这种惊人的金属，他们就能铸造出最精良的刀剑和护甲。
+在[莎尔](Shar.md "莎尔")中居住着侏儒[西卢夫·亚利](Silouv_Yali.md "西卢夫·亚利")，他的法师才能从[烛堡](https://forgottenrealms.fandom.com/wiki/Candlekeep)到[索瑟尔](https://forgottenrealms.fandom.com/wiki/Sorcere)都广为人知。在他的指导下，莎尔信徒建造了这座大熔炉，它能以极高的温度加热[秘银](Mithral.md "秘银")，使其转化为[精金](Adamantine.md "精金")。有了这种惊人的金属，他们就能铸造出最精良的刀剑和护甲。
 
 然而，亚利眼中的珍宝并非熔炉本身，而是他从岩浆中召唤出来守护它的[复仇侍卫](Grym.md "复仇侍卫")——一个据说强大到没有刀剑能砍倒、没有法术能穿透的构装生物。
 

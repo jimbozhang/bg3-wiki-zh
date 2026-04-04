@@ -95,7 +95,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 10 / (0) | 14 / (+2) | 13 / (+1) | 18 / (+4) | 11 / (0) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -111,21 +111,21 @@
 
 ## 特性
 
-- [**神佑医师**](Blessed_Healer.md "神佑医师")
+- [神佑医师](Blessed_Healer.md "神佑医师")
 
 治疗他人时也会治疗你。
 
-当你对另一个生物施放1级或更高级别的治疗法术时，你会恢复等于 2 + 法术等级⁠⁠[生命值](Healing.md "治疗")的生命值。
+当你对另一个生物施放1级或更高级别的治疗法术时，你会恢复等于 2 + 法术等级⁠⁠[治疗](Healing.md "治疗")的生命值。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**生命门徒**](Disciple_of_Life.md "生命门徒")
+- [生命门徒](Disciple_of_Life.md "生命门徒")
 
-你的奉献增强了你的治疗[法术](Spells.md "法术")。当施放治疗[法术](Spells.md "法术")时，目标恢复额外的生命值，等于 2 + 法术等级⁠⁠[生命值](Healing.md "治疗")。
+你的奉献增强了你的治疗[法术](Spells.md "法术")。当施放治疗[法术](Spells.md "法术")时，目标恢复额外的生命值，等于 2 + 法术等级⁠⁠[治疗](Healing.md "治疗")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
@@ -133,7 +133,7 @@
 
 希望总是以[死亡防护](Death_Ward_(Condition).md "死亡防护 (状态)")的效果开始战斗。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -163,15 +163,15 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 相关文献](#related-literature)
-- [6 画廊](#gallery)
-- [7 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+- [2 参与](#参与)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 相关文献](#相关文献)
+- [6 画廊](#画廊)
+- [7 注释与参考](#注释与参考)
 
 ## 概述
 
@@ -303,7 +303,7 @@ UUID
 
 3 × 角色等级⁠[治疗](Healing.md "治疗")
 
-唤起治疗能量，为盟友生物恢复 3 × 角色等级⁠⁠[生命值](Healing.md "治疗")。
+唤起治疗能量，为盟友生物恢复 3 × 角色等级⁠⁠[治疗](Healing.md "治疗")。
 
 射程：自身
 
@@ -335,7 +335,7 @@ UUID
 
 扫击一个生物，使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏捷")[豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷")[豁免](Saving_throws.md "豁免检定")
 射程：普通武器射程
 充能：[短休](Short_rest.md "短休")
 

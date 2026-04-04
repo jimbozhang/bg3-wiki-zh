@@ -90,27 +90,27 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对抗陷阱、法术、地表的敏捷豁免具有优势。不能是目盲或失能。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴 [重甲](Heavy_Armour.md "重甲") 时，你的 [移动速度](Movement_speed.md "移动速度") 增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，并且不会受惊。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -118,7 +118,7 @@
 
 当未穿护甲时，将 [体质](Constitution.md "体质") 调整值加到 [护甲等级](AC.md "护甲等级") 上。
 
-- [**睚眦必报**](Vengeful.md "睚眦必报")
+- [睚眦必报](Vengeful.md "睚眦必报")
 
 生物获得一次额外反应。当被攻击时，该生物可以使用反应以 [复仇打击](Vengeful_Strike.md "复仇打击") 进行反击，造成武器伤害和 2d4⁠⁠[心灵](Psychic.md "心灵") 伤害。
 
@@ -178,27 +178,27 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对抗陷阱、法术、地表的敏捷豁免具有优势。不能是目盲或失能。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴 [重甲](Heavy_Armour.md "重甲") 时，你的 [移动速度](Movement_speed.md "移动速度") 增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，并且不会受惊。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -206,7 +206,7 @@
 
 当未穿护甲时，将 [体质](Constitution.md "体质") 调整值加到 [护甲等级](AC.md "护甲等级") 上。
 
-- [**睚眦必报**](Vengeful.md "睚眦必报")
+- [睚眦必报](Vengeful.md "睚眦必报")
 
 生物获得一次额外反应。当被攻击时，该生物可以使用反应以 [复仇打击](Vengeful_Strike.md "复仇打击") 进行反击，造成武器伤害和 2d4⁠⁠[心灵](Psychic.md "心灵") 伤害。
 
@@ -266,27 +266,27 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对抗陷阱、法术、地表的敏捷豁免具有优势。不能是目盲或失能。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴 [重甲](Heavy_Armour.md "重甲") 时，你的 [移动速度](Movement_speed.md "移动速度") 增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，并且不会受惊。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -294,7 +294,7 @@
 
 当未穿护甲时，将 [体质](Constitution.md "体质") 调整值加到 [护甲等级](AC.md "护甲等级") 上。
 
-- [**睚眦必报**](Vengeful.md "睚眦必报")
+- [睚眦必报](Vengeful.md "睚眦必报")
 
 生物获得一次额外反应。当被攻击时，该生物可以使用反应以 [复仇打击](Vengeful_Strike.md "复仇打击") 进行反击，造成武器伤害和 2d4⁠⁠[心灵](Psychic.md "心灵") 伤害。
 

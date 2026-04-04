@@ -13,7 +13,7 @@
 
 ### 效果
 
-- 使用时，交互角色进行DC 15的[医药](Medicine.md "医药")[检定](Ability_Check.md "属性检定")。
+- 使用时，交互角色进行DC 15的[医药](Medicine.md "医药")[属性检定](Ability_Check.md "属性检定")。
   - 成功则将丢弃的酒瓶替换为[麦兹提尔大师的噩梦馈赠](Master_Meztil's_Karabasan's_Gift.md "麦兹提尔大师的噩梦馈赠")。
   - 失败则交互角色会播放一条提及瓶子有[中毒](Poison.md "中毒")气味的[对话](Dialogue.md "对话")。
 

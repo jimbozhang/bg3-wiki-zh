@@ -75,15 +75,15 @@ This creature is dead.
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**魔鬼视界**](Devil's_Sight.md "Devil's Sight")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 Can see in the dark, including magical darkness, up to 24 m (80 ft).
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
@@ -135,15 +135,15 @@ This creature is dead.
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**魔鬼视界**](Devil's_Sight.md "Devil's Sight")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 Can see in the dark, including magical darkness, up to 24 m (80 ft).
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
@@ -195,15 +195,15 @@ This creature is dead.
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**魔鬼视界**](Devil's_Sight.md "Devil's Sight")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 Can see in the dark, including magical darkness, up to 24 m (80 ft).
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 

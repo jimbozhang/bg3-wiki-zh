@@ -4,7 +4,7 @@
 
 ## 描述
 
-你在[洞悉](Insight.md "洞悉")[检定](Insight.md "Insight")上获得[优势](Advantage.md "优势")。
+你在[洞悉](Insight.md "洞悉")[洞悉](Insight.md "洞悉")上获得[优势](Advantage.md "优势")。
 
 ## 如何习得
 

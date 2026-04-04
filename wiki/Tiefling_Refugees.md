@@ -12,33 +12,33 @@
 
 ## 目录
 
-- [1 背景](#background)
-- [2 第一幕](#act-one)
-  - [2.1 地点](#locations)
-    - [2.1.1 翠绿林地](#emerald-grove)
-    - [2.1.2 空谷](#the-hollow)
-    - [2.1.3 提夫林避难所](#tiefling-hideout)
-    - [2.1.4 其他地点](#other-locations)
-    - [2.1.5 替代角色](#replacement-characters)
-- [3 第二幕](#act-two)
-  - [3.1 地点](#locations-2)
-    - [3.1.1 终焉光芒旅店](#last-light-inn)
-    - [3.1.2 月出之塔](#moonrise-towers)
-    - [3.1.3 夺心魔殖民地](#mind-flayer-colony)
-    - [3.1.4 雷斯文小镇](#reithwin-town)
-    - [3.1.5 死于幽影诅咒之地](#died-in-the-shadow-Cursed_Lands)
-    - [3.1.6 失踪](#missing)
-    - [3.1.7 第二幕失踪但第三幕存在](#missing-in-act-two-but-existing-in-act-three)
-- [4 第三幕](#act-three)
-  - [4.1 地点](#locations-3)
-    - [4.1.1 巫术杂物店](#sorcerous-sundries)
-    - [4.1.2 精灵之歌酒馆](#elfsong-tavern)
-    - [4.1.3 难民区](#refugee-area)
-    - [4.1.4 其他地点](#other-locations-2)
-    - [4.1.5 失踪](#missing-2)
-- [5 成就](#achievements)
-- [6 另见](#see-also)
-- [7 注释与参考](#notes-and-references)
+- [1 背景](#背景)
+- [2 第一幕](#第一幕)
+  - [2.1 地点](#地点)
+    - [2.1.1 翠绿林地](#翠绿林地)
+    - [2.1.2 空谷](#空谷)
+    - [2.1.3 提夫林避难所](#提夫林避难所)
+    - [2.1.4 其他地点](#其他地点)
+    - [2.1.5 替代角色](#替代角色)
+- [3 第二幕](#第二幕)
+  - [3.1 地点](#地点)
+    - [3.1.1 终焉光芒旅店](#终焉光芒旅店)
+    - [3.1.2 月出之塔](#月出之塔)
+    - [3.1.3 夺心魔殖民地](#夺心魔殖民地)
+    - [3.1.4 雷斯文小镇](#雷斯文小镇)
+    - [3.1.5 死于幽影诅咒之地](#死于幽影诅咒之地)
+    - [3.1.6 失踪](#失踪)
+    - [3.1.7 第二幕失踪但第三幕存在](#第二幕失踪但第三幕存在)
+- [4 第三幕](#第三幕)
+  - [4.1 地点](#地点)
+    - [4.1.1 巫术杂物店](#巫术杂物店)
+    - [4.1.2 精灵之歌酒馆](#精灵之歌酒馆)
+    - [4.1.3 难民区](#难民区)
+    - [4.1.4 其他地点](#其他地点)
+    - [4.1.5 失踪](#失踪)
+- [5 成就](#成就)
+- [6 另见](#另见)
+- [7 注释与参考](#注释与参考)
 
 ## 背景
 
@@ -292,7 +292,7 @@ _更多内容请见[不落一人](Leave_No_One_Behind.md "不落一人")_
 1. [↑](#cite_ref-3) 在与[艾拉丁](Aradin.md "艾拉丁")对峙后，移动到[隐蔽房间](Secluded_Chamber.md "隐蔽房间")
 1. [↑](#cite_ref-4) 当队伍离开林地时，移动到[提夫林避难所](Tiefling_Hideout.md "提夫林避难所")
 1. [↑](#cite_ref-5) 在俯瞰[圣池](Sacred_Pool.md "圣池")的山丘上，穿过通往隐秘河湾的拱门
-1. ↑ [6.0](#cite_ref-teethlings_6-0) [6.1](#cite_ref-teethlings_6-1) 奈美莎和达梅斯可以在荒野中找到，他们在 X: 237 Y: 371 处用陷阱抓住了[莱埃泽尔](Lae'zel.md "莱埃泽尔")。一个非[卓尔](Drow.md "卓尔")、[灰矮人](Duergar.md "灰矮人")或[吉斯洋基人](Githyanki.md "吉斯洋基人")的角色可以通过 DC 7 的[欺瞒](Deception.md "欺瞒")或[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")说服他们离开，并通过 DC 5 的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")揭示林地的位置
+1. ↑ [6.0](#cite_ref-teethlings_6-0) [6.1](#cite_ref-teethlings_6-1) 奈美莎和达梅斯可以在荒野中找到，他们在 X: 237 Y: 371 处用陷阱抓住了[莱埃泽尔](Lae'zel.md "莱埃泽尔")。一个非[卓尔](Drow.md "卓尔")、[灰矮人](Duergar.md "灰矮人")或[吉斯洋基人](Githyanki.md "吉斯洋基人")的角色可以通过 DC 7 的[欺瞒](Deception.md "欺瞒")或[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")说服他们离开，并通过 DC 5 的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")揭示林地的位置
 1. [↑](#cite_ref-7) 死去的提夫林的[死者交谈](Speak_with_Dead.md "死者交谈")对话揭示她来自艾尔图瑞尔，是苏洛的朋友。
 1. [↑](#cite_ref-8) 艾丽卡的[死者交谈](Speak_with_Dead.md "死者交谈")对话揭示她来自艾尔图瑞尔，是一名侦察兵，这可能暗示她是赛夫洛的侦察兵之一，因此是提夫林难民的一员。
 1. [↑](#cite_ref-9) 从可通过隐蔽房间进入的平台上守卫隐蔽房间上方的入口

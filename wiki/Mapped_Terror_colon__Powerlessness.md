@@ -2,7 +2,7 @@
 
 关于其他版本的映射恐怖，请参见 [映射恐怖（消歧义）](Mapped_Terror_(disambiguation).
 
-**映射恐怖：无力** 是一个 [4级幻术学派法术](Spells.md "Spells")。此法术以黑暗的无情恐怖 [恐吓](Frightened.md "Frightened") 目标，并 [吸取](Feeble_(Condition).md "Feeble (Condition)") 其肉体力量。队友无法学习此法术。
+**映射恐怖：无力** 是一个 [法术](Spells.md "法术")。此法术以黑暗的无情恐怖 [恐慌](Frightened.md "恐慌") 目标，并 [吸取](Feeble_(Condition).md "Feeble (Condition)") 其肉体力量。队友无法学习此法术。
 
 ## 描述
 

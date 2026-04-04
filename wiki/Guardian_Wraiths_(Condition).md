@@ -4,7 +4,7 @@
 
 **守护缚灵**
 
-- 受影响实体对所有 [伤害](Damage.md "伤害") [免疫](Immune.md "免疫")。当此效果结束时，实体将被 [治疗](Heal.md "治疗") 6d8⁠⁠[生命值](Healing.md "生命值")，除非此效果被 [高等复原术](Greater_Restoration.md "高等复原术") 或 [移除诅咒](Remove_Curse.md "移除诅咒") 终止。
+- 受影响实体对所有 [伤害](Damage.md "伤害") [免疫](Immune.md "免疫")。当此效果结束时，实体将被 [治疗](Heal.md "治疗") 6d8⁠⁠[治疗](Healing.md "治疗")，除非此效果被 [高等复原术](Greater_Restoration.md "高等复原术") 或 [移除诅咒](Remove_Curse.md "移除诅咒") 终止。
 
 ## 属性
 
@@ -20,7 +20,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 受影响实体对所有 [伤害](Damage.md "伤害") [免疫](Immune.md "免疫")。当此效果结束时，实体将被 [治疗](Heal.md "治疗") 6d8⁠⁠[生命值](Healing.md "生命值")，除非此效果被 [高等复原术](Greater_Restoration.md "高等复原术") 或 [移除诅咒](Remove_Curse.md "移除诅咒") 终止。
+- 受影响实体对所有 [伤害](Damage.md "伤害") [免疫](Immune.md "免疫")。当此效果结束时，实体将被 [治疗](Heal.md "治疗") 6d8⁠⁠[治疗](Healing.md "治疗")，除非此效果被 [高等复原术](Greater_Restoration.md "高等复原术") 或 [移除诅咒](Remove_Curse.md "移除诅咒") 终止。
 
 ---
 *Source: [Guardian Wraiths (Condition)](https://bg3.wiki/wiki/Guardian_Wraiths_(Condition)*

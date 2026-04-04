@@ -89,19 +89,19 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以避免[中毒](Poisoned_(Condition).md) 并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -151,19 +151,19 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以避免[中毒](Poisoned_(Condition).md) 并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -213,19 +213,19 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以避免[中毒](Poisoned_(Condition).md) 并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -273,7 +273,7 @@ Stats
 
 #### 终焉光芒旅店
 
-最初，萨德维克和焰拳的其他成员在[弗洛瑞克](Florrick.md "弗洛瑞克")的带领下执行营救[乌尔德·雷文伽德](Ulder_Ravengard.md "乌尔德·雷文伽德")的任务，但他们在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")遭遇危险而受阻，并在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")的[竖琴手](Harpers.md "竖琴手")那里找到了避难所。萨德维克最初可以在旅店内找到，与几名其他焰拳成员和[阿尔特·库拉](Art_Cullagh.md "阿尔特·库拉")在同一个房间。他因队伍的[感染状态](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")以及他们不是焰拳成员而对他们表示蔑视。<sup>[\[2\]](#cite_note-2)</sup>
+最初，萨德维克和焰拳的其他成员在[弗洛瑞克](Florrick.md "弗洛瑞克")的带领下执行营救[乌尔德·雷文伽德](Ulder_Ravengard.md "乌尔德·雷文伽德")的任务，但他们在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")遭遇危险而受阻，并在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")的[竖琴手](Harpers.md "竖琴手")那里找到了避难所。萨德维克最初可以在旅店内找到，与几名其他焰拳成员和[阿尔特·库拉](Art_Cullagh.md "阿尔特·库拉")在同一个房间。他因队伍的[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")以及他们不是焰拳成员而对他们表示蔑视。<sup>[\[2\]](#cite_note-2)</sup>
 
 如果在[第一幕](Act_One.md "第一幕")期间没有从[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")营救弗洛瑞克，萨德维克不会在游戏中出现。
 
@@ -335,7 +335,7 @@ Stats
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与该武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与该武器的近战伤害相同。
 
 范围: 3-18 米 (10-60 英尺)
 

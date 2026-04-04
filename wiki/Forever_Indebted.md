@@ -61,9 +61,9 @@ UID
 ## 备注
 
 - 每个债务人使用此动作会转变为预定义的邪魔：
-  - [复仇野猪](Vengeful_Boar.md "复仇野猪") - [压抑的](Smouldering_Eternal_Debtor.md "压抑的永恒债务人")、[完美的](Perfect_Eternal_Debtor.md "完美的永恒债务人")、[羞愧的](Shameful_Eternal_Debtor.md "羞愧的永恒债务人")和[忠诚的](Loyal_Eternal_Debtor.md "忠诚的永恒债务人")永恒债务人
-  - [复仇小魔鬼](Vengeful_Imp.md "复仇小魔鬼") - [贪吃的](Devoured_Eternal_Debtor.md "贪吃的永恒债务人")、[窥淫的](Voyeur_Eternal_Debtor.md "窥淫的永恒债务人")、[空想的](Visionary_Eternal_Debtor.md "空想的永恒债务人")、[跳舞的](Waltzing_Eternal_Debtor.md "跳舞的永恒债务人")和[不洁的](Unclean_Eternal_Debtor.md "不洁的永恒债务人")永恒债务人
-  - [复仇军团魔](Vengeful_Merregon.md "复仇军团魔") - [神学家的](Theologist_Eternal_Debtor.md "神学家永恒债务人")、[不朽的](Immortal_Eternal_Debtor.md "不朽的永恒债务人")和[嘲讽的](Mocking_Eternal_Debtor.md "嘲讽的永恒债务人")永恒债务人
+  - [复仇野猪](Vengeful_Boar.md "复仇野猪") - [压抑的永恒债务人](Smouldering_Eternal_Debtor.md "压抑的永恒债务人")、[完美的永恒债务人](Perfect_Eternal_Debtor.md "完美的永恒债务人")、[羞愧的永恒债务人](Shameful_Eternal_Debtor.md "羞愧的永恒债务人")和[忠诚的永恒债务人](Loyal_Eternal_Debtor.md "忠诚的永恒债务人")永恒债务人
+  - [复仇小魔鬼](Vengeful_Imp.md "复仇小魔鬼") - [贪吃的永恒债务人](Devoured_Eternal_Debtor.md "贪吃的永恒债务人")、[窥淫的永恒债务人](Voyeur_Eternal_Debtor.md "窥淫的永恒债务人")、[空想的永恒债务人](Visionary_Eternal_Debtor.md "空想的永恒债务人")、[跳舞的永恒债务人](Waltzing_Eternal_Debtor.md "跳舞的永恒债务人")和[不洁的永恒债务人](Unclean_Eternal_Debtor.md "不洁的永恒债务人")永恒债务人
+  - [复仇军团魔](Vengeful_Merregon.md "复仇军团魔") - [神学家永恒债务人](Theologist_Eternal_Debtor.md "神学家永恒债务人")、[不朽的永恒债务人](Immortal_Eternal_Debtor.md "不朽的永恒债务人")和[嘲讽的永恒债务人](Mocking_Eternal_Debtor.md "嘲讽的永恒债务人")永恒债务人
 
 ---
 *Source: [Forever Indebted](https://bg3.wiki/wiki/Forever_Indebted)*

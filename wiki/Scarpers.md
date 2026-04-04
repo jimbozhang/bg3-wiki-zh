@@ -92,15 +92,15 @@
 
 - - ## 特性
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")时掷出1，重掷一次并使用新结果。
 
@@ -108,7 +108,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -158,15 +158,15 @@
 
 - - ## 特性
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")时掷出1，重掷一次并使用新结果。
 
@@ -174,7 +174,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -224,15 +224,15 @@
 
 - - ## 特性
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")时掷出1，重掷一次并使用新结果。
 
@@ -240,7 +240,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -288,7 +288,7 @@ UUID
 
 射出一阵荆棘。荆棘对目标造成武器伤害，然后爆炸。爆炸对目标和周围生物造成额外1d10⁠⁠[穿刺](Piercing.md "Piercing")伤害。未命中时，荆棘仍会爆炸。豁免成功时，目标仍受到爆炸的一半伤害。
 
-[敏](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 范围：18米（60英尺）
 
 [腿筋射击](Hamstring_Shot.md "Hamstring Shot") () – [长弓](Longbow.md "Longbow")
@@ -299,7 +299,7 @@ UUID
 
 射击敌人的大腿，可能使其[移动速度](Movement_speed.md "Movement speed")降低50%。
 
-[体](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "Saving throws")
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 

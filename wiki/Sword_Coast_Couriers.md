@@ -25,25 +25,25 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 主楼](#main-building)
-  - [1.2 信使犬犬舍](#messenger-dogs'-kennels)
-- [2 邮局外部](#outside-the-post-office)
-  - [2.1 周边其他遭遇](#other-encounters-around)
-- [3 相关地点](#related-locations)
-- [4 相关任务](#related-quests)
-- [5 角色](#characters)
-  - [5.1 人员](#personnel)
-  - [5.2 动物](#animals)
-  - [5.3 其他](#other)
-- [6 相关文献](#related-literature)
-- [7 脚注与参考文献](#footnotes-and-references)
+- [1 概述](#概述)
+  - [1.1 主楼](#主楼)
+  - [1.2 信使犬犬舍](#信使犬犬舍)
+- [2 邮局外部](#邮局外部)
+  - [2.1 周边其他遭遇](#周边其他遭遇)
+- [3 相关地点](#相关地点)
+- [4 相关任务](#相关任务)
+- [5 角色](#角色)
+  - [5.1 人员](#人员)
+  - [5.2 动物](#动物)
+  - [5.3 其他](#其他)
+- [6 相关文献](#相关文献)
+- [7 脚注与参考文献](#脚注与参考文献)
 
 ## 概述
 
-剑湾快递是一个邮局，其主入口位于 X: 13 Y: 10，坐落在[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")对面，[南翼检查点](South_Span_Checkpoint.md "南翼检查点")以南。这是利文顿（似乎也是博德之门）唯一提供信使或信鸽递送服务的机构。不幸的是，由于[绝对](Absolute.md "绝对")大军的袭击、各种怪物以及某只[翼猫](Tara.md "Tara")的干扰，近期的递送处理变得十分困难。
+剑湾快递是一个邮局，其主入口位于 X: 13 Y: 10，坐落在[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")对面，[南翼检查点](South_Span_Checkpoint.md "南翼检查点")以南。这是利文顿（似乎也是博德之门）唯一提供信使或信鸽递送服务的机构。不幸的是，由于[绝对](Absolute.md "绝对")大军的袭击、各种怪物以及某只[塔拉](Tara.md "塔拉")的干扰，近期的递送处理变得十分困难。
 
-建筑可以通过主入口进入，也可以通过 X: 29 Y: 1 处上锁的侧门进入。打开侧门的[剑湾快递钥匙](Sword_Coast_Couriers_Key.md "剑湾快递钥匙")可以在建筑后方 X: 34 Y: 14 处找到。它藏在一堆干草捆和一些鸽笼之间，需要 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")才能发现。
+建筑可以通过主入口进入，也可以通过 X: 29 Y: 1 处上锁的侧门进入。打开侧门的[剑湾快递钥匙](Sword_Coast_Couriers_Key.md "剑湾快递钥匙")可以在建筑后方 X: 34 Y: 14 处找到。它藏在一堆干草捆和一些鸽笼之间，需要 DC 15 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")才能发现。
 
 ### 主楼
 
@@ -54,7 +54,7 @@
 - [应征飞禽](Outlander.md#Enlisted_Avian "化外之民")（[化外之民](Outlander.md "化外之民")背景）
 - [报到执勤](Soldier.md#Reporting_for_Duty "士兵")（[士兵](Soldier.md "士兵")背景）
 
-屋顶可以通过空间移动方式到达，如[给予飞行](Grant_Flight.md "给予飞行")、[迷踪步](Misty_Step.md "迷踪步")、[置换箭](Arrow_of_Transposition.md "置换箭")，或者如果相关角色拥有足够的[力量](Strength.md "力量")，也可以通过跳跃到达。在那里，几处带鸽羽的血迹也能指出搜索方向。成功完成 DC 7 [自然](Nature.md "自然") [检定](Ability_Check.md "属性检定")和 DC 7 [调查](Investigation.md "调查") [检定](Ability_Check.md "属性检定")后，队伍会得知应在[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")屋顶周围寻找鸽子失踪的原因。
+屋顶可以通过空间移动方式到达，如[给予飞行](Grant_Flight.md "给予飞行")、[迷踪步](Misty_Step.md "迷踪步")、[置换箭](Arrow_of_Transposition.md "置换箭")，或者如果相关角色拥有足够的[力量](Strength.md "力量")，也可以通过跳跃到达。在那里，几处带鸽羽的血迹也能指出搜索方向。成功完成 DC 7 [自然](Nature.md "自然") [属性检定](Ability_Check.md "属性检定")和 DC 7 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定")后，队伍会得知应在[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")屋顶周围寻找鸽子失踪的原因。
 
 在丹左·阿克赖特后方的橱柜上（X: 15 Y: 12）放着[给雷文伽德公爵的紧急报告](Urgent_Report_for_Duke_Ravengard.md "给雷文伽德公爵的紧急报告")。与邮局中的大多数其他文件一样，它带有红色轮廓，但偷走它可能很有用，因为这是[想办法进入飞龙岩要塞](Find_a_way_into_Wyrm's_Rock_fortress.md "想办法进入飞龙岩要塞")，从而通过[飞龙关](Wyrm's_Crossing.md "飞龙关")的守卫进入[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")的方法之一。
 
@@ -80,7 +80,7 @@
 - [免费广告](Guild_Artisan.md#Free_Advertisement "公会工匠")（[公会工匠](Guild_Artisan.md "公会工匠")背景）
 - [新闻稿](Noble.md#Press_Release "贵族")（[贵族](Noble.md "贵族")背景）
 
-莱恩斯是可能被[腥红奥林](Orin.md "腥红奥林")选中伪装以威胁队伍的角色之一。<sup>[\[2\]](#cite_note-2)</sup> 在这种情况下，真正的莱恩斯的尸体稍后可以在[下城区](Lower_City.md "下城区")的[巴尔神殿](Bhaal_Temple.md "巴尔神殿")中找到。
+莱恩斯是可能被[奥林](Orin.md "奥林")选中伪装以威胁队伍的角色之一。<sup>[\[2\]](#cite_note-2)</sup> 在这种情况下，真正的莱恩斯的尸体稍后可以在[下城区](Lower_City.md "下城区")的[巴尔神殿](Bhaal_Temple.md "巴尔神殿")中找到。
 
 ### 周边其他遭遇
 

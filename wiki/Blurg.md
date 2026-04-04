@@ -93,19 +93,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 米 (7 英尺) 范围内且未[失能](Incapacitated_(Condition).md)，每回合一次可为武器攻击添加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -155,19 +155,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 米 (7 英尺) 范围内且未[失能](Incapacitated_(Condition).md)，每回合一次可为武器攻击添加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -217,19 +217,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 米 (7 英尺) 范围内且未[失能](Incapacitated_(Condition).md)，每回合一次可为武器攻击添加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -259,24 +259,24 @@ Stats
 
 ## 目录
 
-- [1 登场](#involvement)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第三幕](#act-three)
-- [2 商店](#shop)
-  - [2.1 出售的知名物品](#notable-items-sold)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-- [4 相关任务](#related-quests)
-- [5 相关文献](#related-literature)
-- [6 画廊](#gallery)
-- [7 备注](#notes)
-- [8 外部链接](#external-links)
+- [1 登场](#登场)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第三幕](#第三幕)
+- [2 商店](#商店)
+  - [2.1 出售的知名物品](#出售的知名物品)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+- [4 相关任务](#相关任务)
+- [5 相关文献](#相关文献)
+- [6 画廊](#画廊)
+- [7 备注](#备注)
+- [8 外部链接](#外部链接)
 
 ## 登场
 
 ### 第一幕
 
-布尔格首次出现在[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")的 X: 111 Y: -89 处。如果告诉他关于寄生虫的事，他会联系奥米伦，两人试图获取更多信息。他还分享了关于[光耀会](Society_of_Brilliance.md "光耀会")的细节，以及他对[蕈人殖民地](Ebonlake_Grotto.md "黑檀湖洞穴")和[幽暗地域](Underdark.md "幽暗地域")的学术见解。
+布尔格首次出现在[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")的 X: 111 Y: -89 处。如果告诉他关于寄生虫的事，他会联系奥米伦，两人试图获取更多信息。他还分享了关于[光耀会](Society_of_Brilliance.md "光耀会")的细节，以及他对[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")和[幽暗地域](Underdark.md "幽暗地域")的学术见解。
 
 ### 第三幕
 

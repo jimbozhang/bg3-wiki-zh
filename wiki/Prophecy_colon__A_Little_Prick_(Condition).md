@@ -2,7 +2,7 @@
 
 **预言：小小穿刺**
 
-- 对敌人造成至少1⁠⁠[穿刺](Piercing.md "Piercing")伤害，以恢复一个[预兆骰子](Portent.md "Portent")。
+- 对敌人造成至少1⁠⁠[穿刺](Piercing.md "Piercing")伤害，以恢复一个[预兆](Portent.md "预兆")。
 
 ## 属性
 

@@ -18,13 +18,13 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 在 [体质](Constitution.md "Constitution") [检定](Ability_Check.md "Ability Check") 上具有 [优势](Advantage.md "Advantage")。
+- 在 [体质](Constitution.md "Constitution") [属性检定](Ability_Check.md "属性检定") 上具有 [优势](Advantage.md "Advantage")。
 - 获得 7 [临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")。
 
 | 状态 | 效果 |
 | --- | --- |
 | [艾嘉西斯之铠](Armour_of_Agathys_(Condition).md "Armour of Agathys (Condition)") | 获得 5 × 法术等级 [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")。如果被近战攻击命中，攻击者受到 5 × 法术等级⁠⁠[寒冷](Cold.md "Cold") 伤害。当临时生命值丢失时，此效果结束。 |
-| [熊之坚韧](Bear's_Endurance_(Condition).md "Bear's Endurance (Condition)") | 在 [体质](Constitution.md "Constitution") [检定](Ability_Check.md "Ability Check") 上具有 [优势](Advantage.md "Advantage")。获得 7 [临时生命值](Hit_Points#Temporary_Hit_Points.md#Temporary_Hit_Points "Hit Points")。 |
+| [熊之坚韧](Bear's_Endurance_(Condition).md "Bear's Endurance (Condition)") | 在 [体质](Constitution.md "Constitution") [属性检定](Ability_Check.md "属性检定") 上具有 [优势](Advantage.md "Advantage")。获得 7 [临时生命值](Hit_Points#Temporary_Hit_Points.md#Temporary_Hit_Points "Hit Points")。 |
 | [虚假生命](False_Life_(Condition).md "False Life (Condition)") | 获得 7 [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")，加上每个高于第一级的法术位等级额外增加 5 点。 |
 | 巨大耐力 | 获得 27 [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")。 |
 | [英勇](Heroic_(Condition).md "Heroic (Condition)") | 受影响实体已获得 10 [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")。 |

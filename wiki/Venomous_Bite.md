@@ -1,6 +1,6 @@
 # 猛毒之噬
 
-这是一个消歧义页面，链接到名称模糊的文章。如果文章中的链接将您[带到这里](Special_colon_WhatLinksHere/Venomous_Bite.md "Special:WhatLinksHere/Venomous Bite")，请考虑编辑它以指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果文章中的链接将您[猛毒之噬](Special_colon_WhatLinksHere/Venomous_Bite.md "猛毒之噬")，请考虑编辑它以指向正确的页面。
 
 **猛毒之噬**可能指：
 

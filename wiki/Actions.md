@@ -14,23 +14,23 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 资源](#resources)
-  - [2.1 例外](#exceptions)
-- [3 反应](#reactions)
-  - [3.1 反应标签页](#the-reactions-tab)
-  - [3.2 限制](#limitations)
-    - [3.2.1 反应忽略的事件](#events-ignored-by-reactions)
-    - [3.2.2 阻止反应](#preventing-reactions)
-  - [3.3 反应示例](#examples-of-reactions)
-    - [3.3.1 法术](#spells)
-    - [3.3.2 职业动作](#class-actions)
-- [4 常见动作列表](#lists-of-common-actions)
-  - [4.1 动作](#actions)
-  - [4.2 附赠动作](#bonus-actions)
-- [5 错误](#bugs)
-- [6 另见](#see-also)
-- [7 注释](#notes)
+- [1 概述](#概述)
+- [2 资源](#资源)
+  - [2.1 例外](#例外)
+- [3 反应](#反应)
+  - [3.1 反应标签页](#反应标签页)
+  - [3.2 限制](#限制)
+    - [3.2.1 反应忽略的事件](#反应忽略的事件)
+    - [3.2.2 阻止反应](#阻止反应)
+  - [3.3 反应示例](#反应示例)
+    - [3.3.1 法术](#法术)
+    - [3.3.2 职业动作](#职业动作)
+- [4 常见动作列表](#常见动作列表)
+  - [4.1 动作](#动作)
+  - [4.2 附赠动作](#附赠动作)
+- [5 错误](#错误)
+- [6 另见](#另见)
+- [7 注释](#注释)
 
 ## 概述
 
@@ -101,7 +101,7 @@
 - 次要或延迟效果：来自地表、环境危害或持续状态的伤害（例如，内置在[区域](Areas.md "Areas")效果、[人类定身术](Hold_Person.md "Hold Person")等状态、反应或爆炸物品（箭矢和发射的烟花除外）中的豁免检定或伤害）
 - 间接动作：由单独的反应（[炼狱叱喝](Hellish_Rebuke.md "Hellish_Rebuke")）或被动特性（[火焰护盾](Fire_Shield.md "Fire Shield")或[荆棘丛生](Spike_Growth.md "Spike_Growth")）发起的动作
 
-**例外**：有关特定触发条件（如[专注](Concentration.md "Concentration")豁免或[死亡豁免](Death_Saving_Throw.md "Death Saving Throw")）的完整列表，请参见下面列出的例外：<sup>[\[2\]](#cite_note-2)</sup>
+**例外**：有关特定触发条件（如[专注](Concentration.md "Concentration")豁免或[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")）的完整列表，请参见下面列出的例外：<sup>[\[2\]](#cite_note-2)</sup>
 
 被动特性的豁免检定被忽略，但以下情况除外：
 

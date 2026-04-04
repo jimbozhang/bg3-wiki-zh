@@ -1,6 +1,6 @@
 # 鬣狗耳屎灰烬
 
-**鬣狗耳屎灰烬**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[加速药水](Potion_of_Speed.md "加速药水")。
+**鬣狗耳屎灰烬**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[加速药水](Potion_of_Speed.md "加速药水")。
 
 熔化的耳垢附着在灰烬上，使整个物体变成粘稠的糊状物。
 

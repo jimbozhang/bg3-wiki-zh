@@ -85,15 +85,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -141,15 +141,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -197,19 +197,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 可以在主手武器攻击后进行两次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -231,12 +231,12 @@ UUID
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 仅限硬核/荣誉模式](#tactician/Honour_modes_only)
-  - [1.3 战利品](#loot)
-- [2 相关文献](#related-literature)
-- [3 闲聊](#idle-banter)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 仅限硬核/荣誉模式](#仅限硬核-荣誉模式)
+  - [1.3 战利品](#战利品)
+- [2 相关文献](#相关文献)
+- [3 闲聊](#闲聊)
 
 ## 战斗
 

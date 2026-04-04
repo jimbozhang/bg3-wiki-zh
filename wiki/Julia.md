@@ -73,7 +73,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -119,7 +119,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -165,11 +165,11 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -183,11 +183,11 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 出场](#出场)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 出场
 

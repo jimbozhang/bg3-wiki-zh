@@ -1,6 +1,6 @@
 # 蛇毒悬液
 
-**蛇毒悬液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[蛇牙毒素](Serpent_Fang_Toxin.md "蛇牙毒素")。
+**蛇毒悬液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[蛇牙毒素](Serpent_Fang_Toxin.md "蛇牙毒素")。
 
 ⁠[中毒](https://forgottenrealms.fandom.com/wiki/Poison)被认为是懦夫的工具，但与所谓诚实钢铁打交道的士兵可能会重新考虑这一观点，如果她的剑突然竖起并咬到她的眼球。
 

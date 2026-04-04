@@ -89,11 +89,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "Piercing Shot")造成[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")的持续时间加倍。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -153,11 +153,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "Piercing Shot")造成[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")的持续时间加倍。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -217,11 +217,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "Piercing Shot")造成[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")的持续时间加倍。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

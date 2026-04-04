@@ -1,6 +1,6 @@
 # 精通初级幻影
 
-**精通初级幻影** 是一种 [戏法（幻术学派）](Spells.md "法术")。它是 [初级幻影](Minor_Illusion.md "初级幻影") 的升级版本，可供 [幻术学派](Illusion_School.md "幻术学派") 法师使用，仅消耗一个 [附赠动作](Actions.md#Resources "动作")。
+**精通初级幻影** 是一种 [法术](Spells.md "法术")。它是 [初级幻影](Minor_Illusion.md "初级幻影") 的升级版本，可供 [幻术学派](Illusion_School.md "幻术学派") 法师使用，仅消耗一个 [附赠动作](Actions.md#Resources "动作")。
 
 ## 描述
 

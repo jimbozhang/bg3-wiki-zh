@@ -23,7 +23,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -99,19 +99,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "双手")近战伤害掷骰时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -167,19 +167,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "双手")近战伤害掷骰时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -235,19 +235,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "双手")近战伤害掷骰时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -281,14 +281,14 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-- [2 伙伴好感度与激励点](#companion-approval-and-inspiration)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 值得一提的战利品](#notable-loot)
-- [4 相关任务](#related-quests)
-- [5 画廊](#gallery)
-- [6 注释](#notes)
+- [1 参与度](#参与度)
+- [2 伙伴好感度与激励点](#伙伴好感度与激励点)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 值得一提的战利品](#值得一提的战利品)
+- [4 相关任务](#相关任务)
+- [5 画廊](#画廊)
+- [6 注释](#注释)
 
 ## 参与度
 

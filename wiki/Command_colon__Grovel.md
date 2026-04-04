@@ -1,6 +1,6 @@
 # 命令术：匍匐
 
-**命令术：匍匐**是一个[1级惑控学派法术](Spells.md "Spells")。它允许施法者命令目标暂时[倒伏](Prone_(Condition).md "Prone (Condition)")并无法执行其他动作。
+**命令术：匍匐**是一个[法术](Spells.md "法术")。它允许施法者命令目标暂时[倒伏](Prone_(Condition).md "Prone (Condition)")并无法执行其他动作。
 
 ## 描述
 

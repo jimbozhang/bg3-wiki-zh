@@ -3,7 +3,7 @@
 **圆环之声**
 
 - 主宰者的孢子已注入声带，使其回荡着权威。
-- 在游说 [检定](Ability_Check.md "属性检定") 上获得 +2 奖励。
+- 在游说 [属性检定](Ability_Check.md "属性检定") 上获得 +2 奖励。
 
 ## 属性
 
@@ -18,7 +18,7 @@
 ## 具有相同堆叠 ID 的状态
 
 - 主宰者的孢子已注入声带，使其回荡着权威。
-- 在游说 [检定](Ability_Check.md "属性检定") 上获得 +2 奖励。
+- 在游说 [属性检定](Ability_Check.md "属性检定") 上获得 +2 奖励。
 
 ---
 *Source: [Voice of the Circle (Condition)](https://bg3.wiki/wiki/Voice_of_the_Circle_(Condition)*

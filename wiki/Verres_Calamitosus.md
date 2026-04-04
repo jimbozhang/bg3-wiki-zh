@@ -58,23 +58,23 @@
 
 ## 特性
 
-- [**兽性狂怒**](Bestial_Fury.md "兽性狂怒")
+- [兽性狂怒](Bestial_Fury.md "兽性狂怒")
 
 使你的所有伙伴获得一次额外攻击。
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md), [撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")，和[协助](Help_(bonus_action).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被你的游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
@@ -114,23 +114,23 @@
 
 ## 特性
 
-- [**兽性狂怒**](Bestial_Fury.md "兽性狂怒")
+- [兽性狂怒](Bestial_Fury.md "兽性狂怒")
 
 使你的所有伙伴获得一次额外攻击。
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md), [撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")，和[协助](Help_(bonus_action).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被你的游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
@@ -192,7 +192,7 @@ UUID
 范围：1.5 米 (5 英尺)
 
 [激起淤泥](Kick_Up_Muck.md "激起淤泥") ()
-将目标裹满泥巴，使其[减速](Mud-Drenched.md "浑身泥泞")。
+将目标裹满泥巴，使其[浑身泥泞](Mud-Drenched.md "浑身泥泞")。
 
 范围：自身
 

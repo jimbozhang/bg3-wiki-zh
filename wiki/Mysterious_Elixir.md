@@ -38,7 +38,7 @@
 
 ## 备注
 
-- 这可能是[塔特·都弗雷](Antwun_Dufay.md "塔特·都弗雷")打算用来假死的药水，如其[日记](Dufay's_Diary.md "都弗雷的日记")中所述。
+- 这可能是[塔特·都弗雷](Antwun_Dufay.md "塔特·都弗雷")打算用来假死的药水，如其[都弗雷的日记](Dufay's_Diary.md "都弗雷的日记")中所述。
 
 ---
 *Source: [Mysterious Elixir](https://bg3.wiki/wiki/Mysterious_Elixir)*

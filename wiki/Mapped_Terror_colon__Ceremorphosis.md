@@ -2,7 +2,7 @@
 
 关于其他版本的映射恐怖，请参见 [映射恐怖（消歧义）](Mapped_Terror_(disambiguation)..md)
 
-**映射恐怖：蜕变** 是一个 [4级幻术学派法术](Spells.md "Spells")。此法术会制造目标已转变为 [夺心魔](Mind_flayer.md "Mind Flayer") 的幻象，使其因恐惧而僵住。此法术无法被队伍成员学习。
+**映射恐怖：蜕变** 是一个 [法术](Spells.md "法术")。此法术会制造目标已转变为 [夺心魔](Mind_flayer.md "Mind Flayer") 的幻象，使其因恐惧而僵住。此法术无法被队伍成员学习。
 
 ## 描述
 

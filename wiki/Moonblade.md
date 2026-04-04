@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**月之刃**是[长剑](Longswords.md "Longswords")武器家族中一种罕见的特殊变体。它是一种[军用近战武器](Weapons.md "Weapons")，可以单手持用，或双手持用以获得额外伤害。
+**月之刃**是[长剑](Longswords.md "Longswords")武器家族中一种罕见的特殊变体。它是一种[武器](Weapons.md "武器")，可以单手持用，或双手持用以获得额外伤害。
 
 这把神圣的精灵之刃曾属于凯瑟里克·索姆。塞伦涅的祝福沿着其锋刃闪耀着银光。
 

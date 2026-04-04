@@ -112,27 +112,27 @@
 
 ## 特性
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 装备[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**飞行攻击**](Flying_Strike.md "飞行攻击")
+- [飞行攻击](Flying_Strike.md "飞行攻击")
 
 当[吉斯洋基人](Githyanki.md "吉斯洋基人")施放[飞行](Fly.md "飞行")时，其下一次近战武器攻击额外造成1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**吉斯灵能武器**](Githborn_Psionic_Weapon.md "吉斯灵能武器")
+- [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")
 
 当由[吉斯洋基人](Githyanki.md "吉斯洋基人")装备时，此武器额外造成1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**极效吉斯洋基招架**](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
+- [极效吉斯洋基招架](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
 
 招架徒手和武器攻击，将其伤害减少20。
 
@@ -198,27 +198,27 @@
 
 ## 特性
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 装备[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**飞行攻击**](Flying_Strike.md "飞行攻击")
+- [飞行攻击](Flying_Strike.md "飞行攻击")
 
 当[吉斯洋基人](Githyanki.md "吉斯洋基人")施放[飞行](Fly.md "飞行")时，其下一次近战武器攻击额外造成1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**吉斯灵能武器**](Githborn_Psionic_Weapon.md "吉斯灵能武器")
+- [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")
 
 当由[吉斯洋基人](Githyanki.md "吉斯洋基人")装备时，此武器额外造成1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**极效吉斯洋基招架**](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
+- [极效吉斯洋基招架](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
 
 招架徒手和武器攻击，将其伤害减少20。
 
@@ -288,31 +288,31 @@
 
 ## 特性
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 装备[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**飞行攻击**](Flying_Strike.md "飞行攻击")
+- [飞行攻击](Flying_Strike.md "飞行攻击")
 
 当[吉斯洋基人](Githyanki.md "吉斯洋基人")施放[飞行](Fly.md "飞行")时，其下一次近战武器攻击额外造成1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**吉斯灵能武器**](Githborn_Psionic_Weapon.md "吉斯灵能武器")
+- [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")
 
 当由[吉斯洋基人](Githyanki.md "吉斯洋基人")装备时，此武器额外造成1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕刻骨铭心。
 
-- [**极效吉斯洋基招架**](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
+- [极效吉斯洋基招架](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
 
 招架徒手和武器攻击，将其伤害减少20。
 
@@ -382,19 +382,19 @@
 
 ## 特性
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 装备[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**飞行攻击**](Flying_Strike.md "飞行攻击")
+- [飞行攻击](Flying_Strike.md "飞行攻击")
 
 当[吉斯洋基人](Githyanki.md "吉斯洋基人")施放[飞行](Fly.md "飞行")时，其下一次近战武器攻击额外造成1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**吉斯灵能武器**](Githborn_Psionic_Weapon.md "吉斯灵能武器")
+- [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")
 
 当由[吉斯洋基人](Githyanki.md "吉斯洋基人")装备时，此武器额外造成1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
@@ -402,15 +402,15 @@
 
 每轮一次，审判官哈'拉克可以消耗一个传奇动作，对一名盟友施放[图纳拉特的拥抱](Tu'narath's_Embrace.md "图纳拉特的拥抱")，以防止其陷入[失能状态组](Incapacitated_(status_group).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕刻骨铭心。
 
-- [**极效吉斯洋基招架**](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
+- [极效吉斯洋基招架](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
 
 招架徒手和武器攻击，将其伤害减少20。
 
@@ -440,7 +440,7 @@ UUID
 
 ## 涉及剧情
 
-如果队伍在没有莱埃泽尔的情况下接近她，哈'拉克会指责他们是[君主](The_Emperor.md "君主")的傀儡。她透露，吉斯洋基人自[君主](The_Emperor.md "君主")带着[星界棱镜](Mysterious_Artefact.md "神秘遗物")逃脱后就一直在追踪它，并且很清楚它正藏身其中。队伍可以尝试揭露[俄耳甫斯](Orpheus.md "俄耳甫斯")的存在，尽管[君主](The_Emperor.md "君主")会反对，但哈'拉克说她已经知道了，并渴望因重新捕获“叛徒王子”而获得荣耀。此时，队伍说什么都无法说服哈'拉克，她会攻击他们。
+如果队伍在没有莱埃泽尔的情况下接近她，哈'拉克会指责他们是[君主](The_Emperor.md "君主")的傀儡。她透露，吉斯洋基人自[君主](The_Emperor.md "君主")带着[神秘遗物](Mysterious_Artefact.md "神秘遗物")逃脱后就一直在追踪它，并且很清楚它正藏身其中。队伍可以尝试揭露[俄耳甫斯](Orpheus.md "俄耳甫斯")的存在，尽管[君主](The_Emperor.md "君主")会反对，但哈'拉克说她已经知道了，并渴望因重新捕获“叛徒王子”而获得荣耀。此时，队伍说什么都无法说服哈'拉克，她会攻击他们。
 
 如果[莱埃泽尔](Lae'zel.md "莱埃泽尔")在队伍中，则会触发独特的替代对话。哈'拉克会直接对莱埃泽尔说话，而不是玩家角色，并陶醉于[维拉基斯](Vlaakith.md "维拉基斯")会因她献上“伪嗣之首”而给予的想象中的奖赏。根据她在主线剧情中的选择，莱埃泽尔要么为俄耳甫斯辩护，要么声称她会亲自将棱镜交给维拉基斯。哈'拉克随后将注意力转向玩家角色，威胁要将他们消灭殆尽，直到只剩“肉与骨”。
 
@@ -567,7 +567,7 @@ UUID
 
 ### 战术
 
-- 如前所述，如果队伍中有莱埃泽尔并通过DC 18的[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")，可以跳过这场战斗。[强化属性](Enhance_Ability.md "强化属性")和[神导术](Guidance.md "神导术")可以帮助玩家角色通过此检定。
+- 如前所述，如果队伍中有莱埃泽尔并通过DC 18的[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")，可以跳过这场战斗。[强化属性](Enhance_Ability.md "强化属性")和[神导术](Guidance.md "神导术")可以帮助玩家角色通过此检定。
 - 如果队伍与哈'拉克交战，那么尽快杀死两名门主至关重要。否则他们会慢慢用援军淹没战场，使战斗更加困难。
 - [安定心神](Calm_Emotions.md "安定心神")可以帮助对抗哈'拉克的[征服之姿](Conquering_Presence.md "征服之姿")能力。
 

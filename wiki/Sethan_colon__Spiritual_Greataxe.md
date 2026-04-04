@@ -1,6 +1,6 @@
 # 塞特：灵体巨斧
 
-**塞特：灵体巨斧** 是一个 [等级 6 塑能学派法术](Spells.md "Spells")。这是一个独特的物品法术，允许[塞特](Sethan.md "Sethan")的持有者召唤一把[虚无形态巨斧](Spiritual_Weapon_(greataxe).md) 来攻击敌人。
+**塞特：灵体巨斧** 是一个 [法术](Spells.md "法术")。这是一个独特的物品法术，允许[塞山](Sethan.md "塞山")的持有者召唤一把[虚无形态巨斧](Spiritual_Weapon_(greataxe).md) 来攻击敌人。
 
 这相当于牧师在6级时施放的[灵体武器：巨斧](Spiritual_Weapon_colon__Greataxe.md "灵体武器：巨斧")。
 
@@ -57,7 +57,7 @@ UID
 
 由物品授予：
 
-- [塞特](Sethan.md "Sethan")（充能：[长休](Long_Rest.md "Long rest")）
+- [塞山](Sethan.md "塞山")（充能：[长休](Long_Rest.md "Long rest")）
 
 ## 备注
 

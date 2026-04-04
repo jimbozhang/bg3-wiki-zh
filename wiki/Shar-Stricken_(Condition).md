@@ -17,7 +17,7 @@
 
 ## 莎尔之灾的来源
 
-- 在 [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") 的 [莎尔祭坛](Altar_to_Shar.md "莎尔祭坛") 处，进行 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定") 时掷出低于14的结果。检定成功将改为获得 [夜歌者之眷](Nightsinger's_Favour_(Condition).md "夜歌者之眷 (状态)")。作为 [塞伦涅](Sel%C3%BBne.md "塞伦涅") 的 [牧师](Cleric.md "牧师") 祈祷通常会保证获得此减益效果。然而，对于多职业且为塞伦涅牧师的角色，如果最近获得的职业等级不是牧师，他们可能仍能安全地在 ⁠[莎尔](Shar.md "莎尔") 的祭坛祈祷并获得她的祝福，而非诅咒。
+- 在 [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") 的 [莎尔祭坛](Altar_to_Shar.md "莎尔祭坛") 处，进行 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定") 时掷出低于14的结果。检定成功将改为获得 [夜歌者之眷](Nightsinger's_Favour_(Condition).md "夜歌者之眷 (状态)")。作为 [塞伦涅](Sel%C3%BBne.md "塞伦涅") 的 [牧师](Cleric.md "牧师") 祈祷通常会保证获得此减益效果。然而，对于多职业且为塞伦涅牧师的角色，如果最近获得的职业等级不是牧师，他们可能仍能安全地在 ⁠[莎尔](Shar.md "莎尔") 的祭坛祈祷并获得她的祝福，而非诅咒。
 
 ---
 *Source: [Shar-Stricken (Condition)](https://bg3.wiki/wiki/Shar-Stricken_(Condition)*

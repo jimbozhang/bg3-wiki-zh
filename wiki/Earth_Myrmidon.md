@@ -62,11 +62,11 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -108,11 +108,11 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -120,11 +120,11 @@
 
 ## 目录
 
-- [1 关于土元素执政官](#about-earth-myrmidons)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 画廊](#gallery)
-- [4 外部链接](#external-links)
+- [1 关于土元素执政官](#关于土元素执政官)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 画廊](#画廊)
+- [4 外部链接](#外部链接)
 
 ## 关于土元素执政官
 
@@ -154,7 +154,7 @@
 
 用痛苦沉重的泥浆淹没生物，使自身周围的区域陷入厚泥。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
 [掘穴](Burrow_(Earth_Myrmidon).md "掘穴 (土元素执政官)") (+ )
@@ -165,7 +165,7 @@
 
 让地面吞噬你，然后你在一阵可怕的泥土爆发中重新出现，伤害附近的敌人。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：12 米 (40 英尺)
 
 [点泥成金](Muck_to_Metal.md "点泥成金") ()

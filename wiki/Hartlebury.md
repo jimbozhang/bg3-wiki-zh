@@ -101,15 +101,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对 [中毒](Poisoned_(Condition) 状态的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [毒素](Poison.md "毒素") 伤害具有 [抗性](Resistance.md "抗性")。
+对 [中毒](Poisoned_(Condition) 状态的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -167,15 +167,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对 [中毒](Poisoned_(Condition) 状态的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [毒素](Poison.md "毒素") 伤害具有 [抗性](Resistance.md "抗性")。
+对 [中毒](Poisoned_(Condition) 状态的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -233,15 +233,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对 [中毒](Poisoned_(Condition) 状态的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [毒素](Poison.md "毒素") 伤害具有 [抗性](Resistance.md "抗性")。
+对 [中毒](Poisoned_(Condition) 状态的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -273,11 +273,11 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 备注](#notes)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 备注](#备注)
 
 ## 出场
 
@@ -311,7 +311,7 @@ UUID
 
 尝试阻止施放法术。
 
-如果该法术的等级高于你用于反制的法术位，你必须使用你的施法关键属性进行一次 [检定](Ability_Check.md "检定") _\[[参见备注](Counterspell.md#Notes "法术反制")\]_ 来阻止它。检定的难度等于 10 加上你试图反制的法术等级。
+如果该法术的等级高于你用于反制的法术位，你必须使用你的施法关键属性进行一次 [属性检定](Ability_Check.md "属性检定") _\[[参见备注](Counterspell.md#Notes "法术反制")\]_ 来阻止它。检定的难度等于 10 加上你试图反制的法术等级。
 
 此法术可以在你处于 [沉默](Silenced_(Condition).md "沉默 (状态)") 状态时施放。
 
@@ -343,7 +343,7 @@ UUID
 
 \+ 2d4⁠[强酸](Acid.md "强酸")
 
-射出一支绿色箭矢，在酸液喷雾中爆开。立即造成 ⁠[4d4 强酸](Acid.md "强酸") 伤害，并在目标下一回合结束时造成 ⁠[2d4 强酸](Acid.md "强酸") 伤害。
+射出一支绿色箭矢，在酸液喷雾中爆开。立即造成 ⁠[强酸](Acid.md "强酸") 伤害，并在目标下一回合结束时造成 ⁠[强酸](Acid.md "强酸") 伤害。
 
 如果法术未命中，目标仍承受一半的初始伤害，但在其下一回合结束时不会受到伤害。
 

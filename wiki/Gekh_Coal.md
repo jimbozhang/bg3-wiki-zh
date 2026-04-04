@@ -94,7 +94,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 14 / (+2) | 15 / (+2) | 18 / (+4) | 9 / (-1) | 15 / (+2) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -106,31 +106,31 @@
 
 ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对 [幻术学派](Illusion.md "幻术学派") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [毒素](Poison.md "毒素") 伤害具有 [抗性](Resistance.md "抗性")。
+对被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个生物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**害虫灾祸**](Scourge_of_Pests.md "害虫灾祸")
+- [害虫灾祸](Scourge_of_Pests.md "害虫灾祸")
 
 对 [植物](Plant.md "植物")、[蕈人](Myconid.md "蕈人") _\[[见：错误](Scourge_of_Pests.md#Bugs "害虫灾祸")\]_ 和 [小型](Small.md "小型") 生物造成额外 1d6⁠⁠[火焰](Fire.md "火焰") 伤害。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 具有 [劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -176,7 +176,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +3 | +2 | +2 | +7 | +2 | +2 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -188,31 +188,31 @@
 
 ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对 [幻术学派](Illusion.md "幻术学派") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [毒素](Poison.md "毒素") 伤害具有 [抗性](Resistance.md "抗性")。
+对被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个生物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**害虫灾祸**](Scourge_of_Pests.md "害虫灾祸")
+- [害虫灾祸](Scourge_of_Pests.md "害虫灾祸")
 
 对 [植物](Plant.md "植物")、[蕈人](Myconid.md "蕈人") _\[[见：错误](Scourge_of_Pests.md#Bugs "害虫灾祸")\]_ 和 [小型](Small.md "小型") 生物造成额外 1d6⁠⁠[火焰](Fire.md "火焰") 伤害。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 具有 [劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -258,7 +258,7 @@
 | --- | --- | --- | --- |
 |  | 3 | 2 | -1 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -268,7 +268,7 @@
 
   - [体型](Creature_size.md "生物体型") 增加。
 
-  - 武器攻击造成额外 **1d4** 伤害。对 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
+  - 武器攻击造成额外 **1d4** 伤害。对 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
 - [**魔法护甲**](Mage_Armour_(Condition).md "魔法护甲 (状态)")
 
@@ -276,31 +276,31 @@
 
 ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对 [幻术学派](Illusion.md "幻术学派") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [毒素](Poison.md "毒素") 伤害具有 [抗性](Resistance.md "抗性")。
+对被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个生物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**害虫灾祸**](Scourge_of_Pests.md "害虫灾祸")
+- [害虫灾祸](Scourge_of_Pests.md "害虫灾祸")
 
 对 [植物](Plant.md "植物")、[蕈人](Myconid.md "蕈人") _\[[见：错误](Scourge_of_Pests.md#Bugs "害虫灾祸")\]_ 和 [小型](Small.md "小型") 生物造成额外 1d6⁠⁠[火焰](Fire.md "火焰") 伤害。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 具有 [劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -330,15 +330,15 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 备注](#notes)
-- [5 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 备注](#备注)
+- [5 外部链接](#外部链接)
 
 ## 参与
 
@@ -397,7 +397,7 @@ Stats
 
 尝试阻止施放法术。
 
-如果该法术的等级高于你用于法术反制的法术位，你必须使用你的施法关键属性进行一次 [检定](Ability_Check.md "属性检定") _\[[见备注](Counterspell.md#Notes "法术反制")\]_ 来阻止它。检定难度等于 10 加上你试图反制的法术等级。
+如果该法术的等级高于你用于法术反制的法术位，你必须使用你的施法关键属性进行一次 [属性检定](Ability_Check.md "属性检定") _\[[见备注](Counterspell.md#Notes "法术反制")\]_ 来阻止它。检定难度等于 10 加上你试图反制的法术等级。
 
 此法术可在你 [沉默](Silenced_(Condition).md "沉默 (状态)") 时施放。
 
@@ -450,7 +450,7 @@ Stats
 
 伤害：2~16
 
-2d8⁠[毒素](Poison.md "毒素")
+2d8⁠[中毒](Poison.md "中毒")
 
 可能使目标 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
 

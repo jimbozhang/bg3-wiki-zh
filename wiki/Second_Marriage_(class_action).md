@@ -4,7 +4,7 @@
 
 ## 描述
 
-召唤[梅丽娜](Mayrina.md "梅丽娜")的[丈夫](Connor_Vinderblad.md "丈夫")的遗骸。
+召唤[梅丽娜](Mayrina.md "梅丽娜")的[康纳·维德巴德](Connor_Vinderblad.md "康纳·维德巴德")的遗骸。
 
 ## 属性
 

@@ -1,6 +1,6 @@
 # 生锈的刀
 
-**生锈的刀**是[匕首](Daggers.md "Daggers")武器家族的一个常见变体。它是一种单手挥舞的[简易近战武器](Weapons.md "Weapons")。作为[灵巧](Finesse.md "Finesse")武器，它可以受益于使用者的敏捷值，而不仅仅是力量值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都可以在没有特殊训练的情况下双持。其设计非常适合被[投掷](Thrown.md "Thrown")出去作为射弹攻击敌人。
+**生锈的刀**是[匕首](Daggers.md "Daggers")武器家族的一个常见变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为[灵巧](Finesse.md "Finesse")武器，它可以受益于使用者的敏捷值，而不仅仅是力量值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都可以在没有特殊训练的情况下双持。其设计非常适合被[投掷攻击](Thrown.md "投掷攻击")出去作为射弹攻击敌人。
 
 岁月的锈蚀已经侵蚀了这把浸满鲜血的刀。
 
@@ -17,7 +17,7 @@
 单手
 [灵巧](Finesse.md "Finesse")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")
-[投掷](Thrown.md "投掷")
+[投掷攻击](Thrown.md "投掷攻击")
 [可蘸取](Dippable.md "可蘸取")
 近战：1.5 米（5 英尺）
 重量：0.45 千克（0.9 磅）

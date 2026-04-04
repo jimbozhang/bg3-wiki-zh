@@ -29,7 +29,7 @@
 - [邪术师](Warlock.md "邪术师")
 - [法师](Wizard.md "法师")
 
-[知识](Knowledge_Domain.md "知识领域")领域的[牧师](Clerics.md "牧师")可以通过[知识祝福](Blessings_of_Knowledge.md "知识祝福")在1级时选择获得奥秘熟练项。如果选择，他们在进行奥秘检定时可以添加*双倍*的熟练项加值。
+[知识领域](Knowledge_Domain.md "知识领域")领域的[牧师](Clerics.md "牧师")可以通过[知识祝福](Blessings_of_Knowledge.md "知识祝福")在1级时选择获得奥秘熟练项。如果选择，他们在进行奥秘检定时可以添加*双倍*的熟练项加值。
 
 ## 用途
 

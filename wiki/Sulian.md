@@ -87,19 +87,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -151,19 +151,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -215,19 +215,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -249,19 +249,19 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 巴尔神殿](#temple-of-bhaal)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 重要战利品](#notable-loot)
-- [3 注释](#notes)
+- [1 参与情况](#参与情况)
+  - [1.1 巴尔神殿](#巴尔神殿)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 重要战利品](#重要战利品)
+- [3 注释](#注释)
 
 ## 参与情况
 
 ### 巴尔神殿
 
-如果邪念击败[腥红奥林](Orin.md "腥红奥林")并拥抱巴尔的馈赠，成为后者的选民，[竖琴手同盟](Harpers.md "竖琴手同盟")会在[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")入口处设下埋伏，前提是[贾希拉](Jaheira.md "贾希拉")存活。
+如果邪念击败[奥林](Orin.md "奥林")并拥抱巴尔的馈赠，成为后者的选民，[竖琴手同盟](Harpers.md "竖琴手同盟")会在[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")入口处设下埋伏，前提是[贾希拉](Jaheira.md "贾希拉")存活。
 
 在贾希拉的带领下，并由[明斯克](Minsc.md "明斯克")（如果被救出）陪同，竖琴手们守卫在通往神殿外的桥梁上，阻止队伍离开。玩家角色随后与贾希拉就邪念作为[巴尔](Bhaal.md "巴尔")选民的角色进行简短交流，如果明斯克在场，可以通过其[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")用灵能控制他从背后刺伤贾希拉。这样做会立即杀死贾希拉，并触发与明斯克、苏莲和其他竖琴手的战斗。
 
@@ -274,7 +274,7 @@ UUID
 ### 攻击与能力
 
 [召唤林地妖精](Conjure_Woodland_Being.md "召唤林地妖精") (+ )
-召唤一个[树精](Dryad.md "树精")与你并肩作战。她可以使用[自然步伐](Nature's_Step.md "自然步伐")、[纠缠](Entangle.md "纠缠")敌人，并[召唤](Fallen_Lover.md "坠落连理")一个菘蓝树人。
+召唤一个[树精](Dryad.md "树精")与你并肩作战。她可以使用[自然步伐](Nature's_Step.md "自然步伐")、[纠缠](Entangle.md "纠缠")敌人，并[坠落连理](Fallen_Lover.md "坠落连理")一个菘蓝树人。
 
 射程：18 米 (60 英尺)
 

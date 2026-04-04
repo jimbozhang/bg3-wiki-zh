@@ -104,7 +104,7 @@
 
 - ## 特性
 
-- [**警觉**](Alert.md "Alert")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "Initiative") +5，且不会被[受惊](Surprised.md "Surprised")。
 
@@ -116,11 +116,11 @@
 
 当你用武器或徒手攻击造成[重击](Critical_Hit.md "Critical Hit")时，_\[[参见：错误](Dolor_Amarus_(passive_feature).md#Bugs).md#Bugs> "Dolor Amarus (passive feature)")\]_ 它会造成额外 7 点伤害。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
@@ -128,15 +128,15 @@
 
 对被[变形怪](Doppelganger.md "Doppelganger")[伏击](Ambush.md "Ambush")的生物进行的任何成功的[攻击掷骰](Attack_roll.md "Attack Roll")都是[重击](Critical_Hit.md "Critical Hit")。
 
-- [**迅捷炼金术士**](Nimble_Alchemist.md "Nimble Alchemist")
+- [迅捷炼金术士](Nimble_Alchemist.md "迅捷炼金术士")
 
 作为药水大师，多洛可以将药水投掷或饮用作为自由动作。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "Reliable Talent")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你使用[重甲的](Proficient.md "Proficient")的[技能](Skill.md "Skill")进行[属性检定](Ability_Check.md "Ability Check")时，骰子的最低结果为 10。
 
@@ -145,11 +145,11 @@
   - 你的[感知](Wisdom.md "Wisdom")增加 1，最高至 20。
 - 获得感知[豁免检定](Saving_throws.md "Saving Throws")的[熟练项](Proficiency.md "Proficiency")。
 
-  - [**隐匿**](Stealthy.md "Stealthy")
+  - [隐匿](Stealthy.md "隐匿")
 
 [隐匿](Stealth.md "Stealth") +1。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "Reaction")将一次命中的伤害减半。
 
@@ -199,7 +199,7 @@
 
 - ## 特性
 
-- [**警觉**](Alert.md "Alert")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "Initiative") +5，且不会被[受惊](Surprised.md "Surprised")。
 
@@ -211,11 +211,11 @@
 
 当你用武器或徒手攻击造成[重击](Critical_Hit.md "Critical Hit")时，_\[[参见：错误](Dolor_Amarus_(passive_feature).md#Bugs).md#Bugs> "Dolor Amarus (passive feature)")\]_ 它会造成额外 7 点伤害。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
@@ -223,15 +223,15 @@
 
 对被[变形怪](Doppelganger.md "Doppelganger")[伏击](Ambush.md "Ambush")的生物进行的任何成功的[攻击掷骰](Attack_roll.md "Attack Roll")都是[重击](Critical_Hit.md "Critical Hit")。
 
-- [**迅捷炼金术士**](Nimble_Alchemist.md "Nimble Alchemist")
+- [迅捷炼金术士](Nimble_Alchemist.md "迅捷炼金术士")
 
 作为药水大师，多洛可以将药水投掷或饮用作为自由动作。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "Reliable Talent")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你使用[重甲的](Proficient.md "Proficient")的[技能](Skill.md "Skill")进行[属性检定](Ability_Check.md "Ability Check")时，骰子的最低结果为 10。
 
@@ -240,11 +240,11 @@
 - 你的[感知](Wisdom.md "Wisdom")增加 1，最高至 20。
 - 获得感知[豁免检定](Saving_throws.md "Saving Throws")的[熟练项](Proficiency.md "Proficiency")。
 
-  - [**隐匿**](Stealthy.md "Stealthy")
+  - [隐匿](Stealthy.md "隐匿")
 
 [隐匿](Stealth.md "Stealth") +1。
 
-  - [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+  - [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "Reaction")将一次命中的伤害减半。
 
@@ -294,7 +294,7 @@
 
 - ## 特性
 
-- [**警觉**](Alert.md "Alert")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "Initiative") +5，且不会被[受惊](Surprised.md "Surprised")。
 
@@ -306,11 +306,11 @@
 
 当你用武器或徒手攻击造成[重击](Critical_Hit.md "Critical Hit")时，_\[[参见：错误](Dolor_Amarus_(passive_feature).md#Bugs).md#Bugs> "Dolor Amarus (passive feature)")\]_ 它会造成额外 7 点伤害。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
@@ -318,15 +318,15 @@
 
 对被[变形怪](Doppelganger.md "Doppelganger")[伏击](Ambush.md "Ambush")的生物进行的任何成功的[攻击掷骰](Attack_roll.md "Attack Roll")都是[重击](Critical_Hit.md "Critical Hit")。
 
-- [**迅捷炼金术士**](Nimble_Alchemist.md "Nimble Alchemist")
+- [迅捷炼金术士](Nimble_Alchemist.md "迅捷炼金术士")
 
 作为药水大师，多洛可以将药水投掷或饮用作为自由动作。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "Reliable Talent")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你使用[重甲的](Proficient.md "Proficient")的[技能](Skill.md "Skill")进行[属性检定](Ability_Check.md "Ability Check")时，骰子的最低结果为 10。
 
@@ -335,11 +335,11 @@
 - 你的[感知](Wisdom.md "Wisdom")增加 1，最高至 20。
 - 获得感知[豁免检定](Saving_throws.md "Saving Throws")的[熟练项](Proficiency.md "Proficiency")。
 
-- [**隐匿**](Stealthy.md "Stealthy")
+- [隐匿](Stealthy.md "隐匿")
 
 [隐匿](Stealth.md "Stealth") +1。
 
-  - [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+  - [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "Reaction")将一次命中的伤害减半。
 
@@ -393,7 +393,7 @@ UUID
 
 如果多洛能够从品酒节逃脱，他的下一个目标是[菲加罗·彭尼古德](Figaro_Pennygood.md "Figaro Pennygood")，[焕颜精品店](Facemaker's_Boutique.md "Facemaker's Boutique")的老板。队伍可以在他暗杀过程中打扰他，并在随后的战斗中杀死他。瘫痪的德维拉·方廷黑德也在那里，是多洛在战斗中的首要目标。如果多洛被杀死，他被掠夺的尸体包含[不洁刺客挽歌](Dirge_of_the_Unholy_Assassin.md "Dirge of the Unholy Assassin")，其中揭示了巴尔教徒谋杀裁判所的位置和密码_Sicarius_，以及进入所需的断手[手提袋](Hand_Bag.md "Hand Bag")。
 
-如果玩家角色通过成为不洁刺客独立寻找谋杀裁判所，并且满足某些条件[满足](Impress_the_Murder_Tribunal.md#Dolor_rare_encounter "Impress the Murder Tribunal")，多洛必须在裁判所与职业对手战斗。或者，可以用 DC 25 的[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")说服多洛背叛裁判所，辩称它没有正确侍奉[巴尔](Bhaal.md "Bhaal")，因为它让两个完美的杀手互相争斗。如果多洛被说服，他声称巴尔不是法令和教条之神，并攻击守卫。如果他在这次遭遇中幸存，他会继续攻击[沙洛佛克·安基夫](Sarevok_Anchev.md "Sarevok Anchev")以及[阿米利桑的回声](Echo_of_Amelyssan.md "Echo of Amelyssan")、[森代的回声](Echo_of_Sendai.md "Echo of Sendai")和[伊拉塞拉的回声](Echo_of_Illasera.md "Echo of Illasera")。然而，当沙洛佛克对矮人使用[巴尔律令死亡](Power_Word_Kill.md "Power Word Kill")时，他瞬间被杀死。如果谋杀裁判所被击败且多洛幸存，他会背叛队伍并立即攻击他们。
+如果玩家角色通过成为不洁刺客独立寻找谋杀裁判所，并且满足某些条件[满足](Impress_the_Murder_Tribunal.md#Dolor_rare_encounter "Impress the Murder Tribunal")，多洛必须在裁判所与职业对手战斗。或者，可以用 DC 25 的[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")说服多洛背叛裁判所，辩称它没有正确侍奉[巴尔](Bhaal.md "Bhaal")，因为它让两个完美的杀手互相争斗。如果多洛被说服，他声称巴尔不是法令和教条之神，并攻击守卫。如果他在这次遭遇中幸存，他会继续攻击[沙洛佛克·安基夫](Sarevok_Anchev.md "Sarevok Anchev")以及[阿米利桑的回声](Echo_of_Amelyssan.md "Echo of Amelyssan")、[森代的回声](Echo_of_Sendai.md "Echo of Sendai")和[伊拉塞拉的回声](Echo_of_Illasera.md "Echo of Illasera")。然而，当沙洛佛克对矮人使用[巴尔律令死亡](Power_Word_Kill.md "Power Word Kill")时，他瞬间被杀死。如果谋杀裁判所被击败且多洛幸存，他会背叛队伍并立即攻击他们。
 
 ## 战斗
 
@@ -428,7 +428,7 @@ UUID
 
 你的[力量](Strength.md "Strength")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "Thrown")属性的武器的伤害与武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与武器的近战伤害相同。
 
 射程：3-18 米 (10-60 英尺)
 
@@ -518,7 +518,7 @@ UUID
 1. [↑](#cite_ref-1) Dolor 在拉丁语中意为"痛苦"或"悲伤"。
 1. [↑](#cite_ref-2) [有希望的候选人](A_Promising_Candidate.md "A Promising Candidate")
 1. [↑](#cite_ref-3) [谋杀杰作](A_Murderous_Masterpiece.md "A Murderous Masterpiece")
-1. [↑](#cite_ref-4) 例如，在[科拉](Cora_Highberry.md "Cora Highberry")的谋杀未遂中，如果科拉只是喝了酒，多洛在传送离开前谋杀了她，他们不会干预，但如果玩家角色干预，他们会协助矮人逃跑。
+1. [↑](#cite_ref-4) 例如，在[科拉·海伯瑞](Cora_Highberry.md "科拉·海伯瑞")的谋杀未遂中，如果科拉只是喝了酒，多洛在传送离开前谋杀了她，他们不会干预，但如果玩家角色干预，他们会协助矮人逃跑。
 1. [↑](#cite_ref-5) 多洛通常使用他的[猎星靴](Spaceshunt_Boots.md "Spaceshunt Boots")在品酒节战斗中[任意门](Dimension_Door.md "Dimension Door")离开，然后消失。这可以被[法术反制](Counterspell.md "Counterspell")，允许队伍在他初次出现时杀死他，避免第二次战斗。尽管该物品每长休只能使用一次，但多洛的脚本设定为即使初次使用被反制后仍能尝试重新使用它逃跑。建议使用某种群体控制技能。
 
 ## 错误

@@ -1,6 +1,6 @@
 # 小魔鬼翼膜
 
-**小魔鬼翼膜**是一种[炼金术材料](Alchemy.md "炼金术")。将3个小魔鬼翼膜合成为[小魔鬼翼膜灰](Ashes_of_Imp_Patagium.md "小魔鬼翼膜灰")，可用于制作[隐形药水](Potion_of_Invisibility.md "隐形药水")。
+**小魔鬼翼膜**是一种[炼金术](Alchemy.md "炼金术")。将3个小魔鬼翼膜合成为[小魔鬼翼膜灰](Ashes_of_Imp_Patagium.md "小魔鬼翼膜灰")，可用于制作[隐形药水](Potion_of_Invisibility.md "隐形药水")。
 
 一种曾覆盖在小魔鬼翅膀上的红色薄膜。近距离观察，可以看到曾为邪魔输送血液和力量的微小黑色血管。
 

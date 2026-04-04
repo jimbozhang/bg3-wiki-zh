@@ -5,7 +5,7 @@
 **索姆**是居住在[雷斯文小镇](Reithwin_Town.md "Reithwin Town")的一个有影响力家族的姓氏。它也可能指以下角色：
 
 - [格灵哥斯·索姆](Gerringothe_Thorm.md "Gerringothe Thorm")
-- [伊索贝尔·索姆](Isobel.md "Isobel")
+- [伊索贝尔](Isobel.md "伊索贝尔")
 - [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")
 - [马鲁斯·索姆](Malus_Thorm.md "Malus Thorm")
 - [梅洛迪亚·索姆](Melodia_Thorm.md "Melodia Thorm")

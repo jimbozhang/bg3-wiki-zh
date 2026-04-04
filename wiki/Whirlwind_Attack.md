@@ -73,7 +73,7 @@ UID
     - [自然陷阱](Nature's_Snare.md "自然陷阱")：诱捕
 - [残响](Reverberation_(Condition).md "残响（状态）")
     - [仪式斧](Ritual_Axe.md "仪式斧")：灾祸术
-    - [雪花迸射戒指](Snowburst_Ring.md "雪花迸射戒指")：冰地表
+    - [雪花迸射](Snowburst_Ring.md "雪花迸射")：冰地表
     - [撞击法杖](Staff_of_the_Ram.md "撞击法杖")：灵魂扭曲
 
 ---

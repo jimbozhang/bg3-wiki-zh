@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[一本记录和追踪扎尔宅邸日常使用物品的账簿，包含仆人和“客人”的食物与饮品分类；清洁用品，包括来自[白骨斗篷药材店](Bonecloak's_Apothecary.md "白骨斗篷药材店")的炼金血迹清除剂；不透明的重型窗帘；不同尺寸的黄色牛脂蜡烛及红黑蜡烛；带扣的皮带；香膏和油；以及定期交付的[博德之口](Baldur's_Mouth.md "博德之口")小报。\]
+\[白骨斗篷药材店](Bonecloak's_Apothecary.md "白骨斗篷药材店")的炼金血迹清除剂；不透明的重型窗帘；不同尺寸的黄色牛脂蜡烛及红黑蜡烛；带扣的皮带；香膏和油；以及定期交付的[博德之口](Baldur's_Mouth.md "博德之口")小报。\]
 
 ---
 *Source: [Provender Ledger](https://bg3.wiki/wiki/Provender_Ledger)*

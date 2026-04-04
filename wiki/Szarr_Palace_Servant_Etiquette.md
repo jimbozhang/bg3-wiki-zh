@@ -14,8 +14,8 @@
 
 ## 获取地点
 
-- 在[扎尔宅邸城垛](Szarr_Palace.md "扎尔宅邸") X: -68 Y: -25 的桌子上
-- 在[扎尔宅邸城垛](Szarr_Palace.md "扎尔宅邸") X: -71 Y: -21 的[成排的书](Row_of_Books.md "成排的书")中
+- 在[扎尔宅邸](Szarr_Palace.md "扎尔宅邸") X: -68 Y: -25 的桌子上
+- 在[扎尔宅邸](Szarr_Palace.md "扎尔宅邸") X: -71 Y: -21 的[成排的书](Row_of_Books.md "成排的书")中
 
 ## 文本
 

@@ -14,22 +14,22 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 遭劫的商队](#ravaged-caravan)
-  - [1.2 洞穴被困](#trapped-in-cave)
-  - [1.3 遇见卡菈克](#meeting-karlach)
-  - [1.4 征收所](#toll-house)
-  - [1.5 征收所地下室](#toll-house-basement)
-- [2 相关地点](#related-locations)
-- [3 相关任务](#related-quests)
-- [4 角色](#characters)
-  - [4.1 可使用死者交谈的角色](#available-to-speak-with-dead)
-- [5 生物](#creatures)
-- [6 战利品](#loot)
-  - [6.1 隐藏宝藏](#hidden-treasures)
-- [7 相关文献](#related-literature)
-- [8 备注](#notes)
-- [9 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 遭劫的商队](#遭劫的商队)
+  - [1.2 洞穴被困](#洞穴被困)
+  - [1.3 遇见卡菈克](#遇见卡菈克)
+  - [1.4 征收所](#征收所)
+  - [1.5 征收所地下室](#征收所地下室)
+- [2 相关地点](#相关地点)
+- [3 相关任务](#相关任务)
+- [4 角色](#角色)
+  - [4.1 可使用死者交谈的角色](#可使用死者交谈的角色)
+- [5 生物](#生物)
+- [6 战利品](#战利品)
+  - [6.1 隐藏宝藏](#隐藏宝藏)
+- [7 相关文献](#相关文献)
+- [8 备注](#备注)
+- [9 外部链接](#外部链接)
 
 ## 概述
 
@@ -69,7 +69,7 @@
 
 从外部靠近洞穴时，队伍与豺狼人之间的战斗开始。弗林德冲向最近的队伍成员攻击，但在其第一回合会与目标建立精神链接，玩家角色的蝌蚪会做出反应。玩家角色随后有机会改变局势：他们可以通过几次[感知](Wisdom.md "Wisdom")掷骰，让整个豺狼人群攻击洞穴中的人，或攻击其族群，从而使弗林德对队伍保持中立（使用蝌蚪强迫她吞噬同类仅需 DC 2）。
 
-完成初始指令后，玩家角色可再次与弗林德对话（如果她靠近队伍，她会自动与最近的队伍成员对话）。然后玩家角色可再次使用感知强迫弗林德自杀、攻击族群（如果最初未下令）或逃跑。任何掷骰失败都会使弗林德对队伍保持敌意。如果弗林德被杀死，可从其尸体上搜刮[损坏的链枷](Shattered_Flail.md "Shattered Flail")和[寄生虫](Mind_Flayer_Parasite_Specimen.md "Mind Flayer Parasite Specimen")。
+完成初始指令后，玩家角色可再次与弗林德对话（如果她靠近队伍，她会自动与最近的队伍成员对话）。然后玩家角色可再次使用感知强迫弗林德自杀、攻击族群（如果最初未下令）或逃跑。任何掷骰失败都会使弗林德对队伍保持敌意。如果弗林德被杀死，可从其尸体上搜刮[损坏的链枷](Shattered_Flail.md "Shattered Flail")和[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")。
 
 如果鲁根和奥利在战斗开始时保持中立，他们会在第一回合撤退到洞穴深处并脱离战斗。
 
@@ -77,11 +77,11 @@
 
 如果从该入口进入洞穴，鲁根会将他们视为盟友并提议反击豺狼人。玩家角色可同意帮助或拒绝，但后者会使幸存者也变得敌对，此外还有野兽。
 
-根据玩家角色在整个事件中做出的选择，他们可随后与鲁根讨论此事（与他的对话会自动开始），或在其未幸存时与他的尸体对话。如果鲁根幸存，队伍可了解他们运输的重要货物，成功通过被动 DC 10 的[历史的](History.md "History")[检定](Ability_Check.md "Ability check")可揭示两人都是[散塔林会](Zhentarim.md "Zhentarim")的特工。
+根据玩家角色在整个事件中做出的选择，他们可随后与鲁根讨论此事（与他的对话会自动开始），或在其未幸存时与他的尸体对话。如果鲁根幸存，队伍可了解他们运输的重要货物，成功通过被动 DC 10 的[历史的](History.md "History")[属性检定](Ability_Check.md "属性检定")可揭示两人都是[散塔林会](Zhentarim.md "Zhentarim")的特工。
 
 然后队伍可放走他们，或胁迫他们交出货物，或与他们讨价还价出售货物并平分利润。如果对话结果有利，鲁根会告诉队伍[渥金的休眠地](Waukeen's_Rest.md "Waukeen's Rest")中[散塔林会地下室](Zhentarim_Basement.md "Zhentarim Basement")的密码。否则，可通过审问他的尸体得知。<sup>[\[2\]](#cite_note-2)</sup> 从鲁根和奥利处获得拯救他们的报酬，可为具有[流浪儿](Urchin.md "Urchin")背景的角色获得[雇佣英雄](Urchin.md#Hero_for_Hire "Urchin")激励事件。如果散塔林会被杀死或货物被抢夺，打开保险箱并拿走烧瓶可为具有[罪犯](Criminal.md "Criminal")背景的角色获得[惊喜开启](Criminal.md#Open_for_a_Surprise "Criminal")激励事件。
 
-在洞穴内 X: 37 Y: 644 处，一个上锁的箱子中放有[理智之握](Reason's_Grasp.md "Reason's Grasp")手套。箱子前的小块地面设有[毒雷](Blast_Mine.md "Blast Mine")陷阱。洞口附近一具无名的死去商队代理人的尸体持有[迅捷回击](Speedy_Reply.md "Speedy Reply")弯刀。
+在洞穴内 X: 37 Y: 644 处，一个上锁的箱子中放有[理智之握](Reason's_Grasp.md "Reason's Grasp")手套。箱子前的小块地面设有[爆破地雷](Blast_Mine.md "爆破地雷")陷阱。洞口附近一具无名的死去商队代理人的尸体持有[迅捷回击](Speedy_Reply.md "Speedy Reply")弯刀。
 
 ### 遇见卡菈克
 
@@ -107,7 +107,7 @@
 
 所有这些互动仅在卡菈克**不在队伍中**时可用；如果已被招募并在活跃队伍中，安德斯的任何下属都会在看到时攻击他们。然而，安德斯更有镇定力，会先开始对话，试图说服队伍背叛卡菈克。
 
-杀死安德斯可为具有[士兵](Soldier.md "Soldier")背景的角色获得[地狱战士](Soldier.md#Warrior_of_the_Hells "Soldier")激励事件，并可从其尸体上拿取[正义神剑](Sword_of_Justice.md "Sword of Justice")。在未先了解其真实忠诚度的情况下杀死安德斯，对[奉献之誓圣武士](Oath_of_Devotion.md "Oath of Devotion")而言是**[破誓行为](Paladin.md#Oaths_and_Oathbreaking "Paladin")**，而完全不交谈就消灭他则会**[破誓](Paladin.md#Oaths_and_Oathbreaking "Paladin")**[古贤之誓圣武士](Oath_of_the_Ancients.md "Oath of the Ancients")。
+杀死安德斯可为具有[士兵](Soldier.md "Soldier")背景的角色获得[地狱战士](Soldier.md#Warrior_of_the_Hells "Soldier")激励事件，并可从其尸体上拿取[正义神剑](Sword_of_Justice.md "Sword of Justice")。在未先了解其真实忠诚度的情况下杀死安德斯，对[奉献之誓](Oath_of_Devotion.md "奉献之誓")而言是**[破誓行为](Paladin.md#Oaths_and_Oathbreaking "Paladin")**，而完全不交谈就消灭他则会**[破誓](Paladin.md#Oaths_and_Oathbreaking "Paladin")**[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")。
 
 处理完假圣武士后，队伍可下到征收所地下室，获得各种战利品（见下文）。此外，在征收所开放的阳台上 X: 109 Y: 551 处放有一枚[灵魂钱币](Soul_Coin.md "Soul Coin")，可能是安德斯小队留下用来引诱卡菈克的。
 
@@ -176,15 +176,15 @@
 
 ### 隐藏宝藏
 
-- 在 X: 9 Y: 507 处，一块平石在 DC 15 [察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")下高亮显示。如果拖开，会露出一块[血石](Bloodstone.md "Bloodstone")。
-- 在 X: 74 Y: 549 处，桥下有一个埋藏的箱子（需要 DC 18 [求生](Survival.md "Survival")[检定](Ability_Check.md "Ability check")来检测）。
-- 在 X: 95 Y: 608 处，靠近塌方处有另一个埋藏的箱子（需要 DC 12 [求生](Survival.md "Survival")[检定](Ability_Check.md "Ability check")来检测）。
-- 在 X: -75 Y: 542 处，靠近渥金的休眠地入口和山隘的桥（需要 DC 20 [求生](Survival.md "Survival")[检定](Ability_Check.md "Ability check")来检测）。
+- 在 X: 9 Y: 507 处，一块平石在 DC 15 [察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")下高亮显示。如果拖开，会露出一块[血石](Bloodstone.md "Bloodstone")。
+- 在 X: 74 Y: 549 处，桥下有一个埋藏的箱子（需要 DC 18 [求生](Survival.md "Survival")[属性检定](Ability_Check.md "属性检定")来检测）。
+- 在 X: 95 Y: 608 处，靠近塌方处有另一个埋藏的箱子（需要 DC 12 [求生](Survival.md "Survival")[属性检定](Ability_Check.md "属性检定")来检测）。
+- 在 X: -75 Y: 542 处，靠近渥金的休眠地入口和山隘的桥（需要 DC 20 [求生](Survival.md "Survival")[属性检定](Ability_Check.md "属性检定")来检测）。
 
 ## 相关文献
 
 - [盾徽骑士团：论法律与正义](Order_of_the_Gauntlet_colon__On_Matters_of_Law_and_Justice.md "Order of the Gauntlet: On Matters of Law and Justice")
-- [散塔林会的领导者](The_Leadership_of_the_Zhentarim.md "The Leadership of the Zhentarim")
+- [《散塔林会的领导者》](The_Leadership_of_the_Zhentarim.md "《散塔林会的领导者》")
 - [疯狂领主，第4卷：伊诺胡](The_Lords_of_Madness,_Vol_4_colon__Yeenoghu.md "The Lords of Madness, Vol 4: Yeenoghu")
 - [征收所账簿](Tollhouse_Ledger_(Risen_Road).md "Tollhouse Ledger (Risen Road)")
 - [剑湾旅行者指南，第四卷：晋升之路](Traveller's_Guide_to_the_Sword_Coast_Vol._IV_colon__The_Risen_Road.md "Traveller's Guide to the Sword Coast Vol. IV: The Risen Road")

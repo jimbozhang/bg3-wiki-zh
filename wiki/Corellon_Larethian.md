@@ -8,7 +8,7 @@
 ### 家族
 
 [罗丝](Lolth.md "Lolth")（前妻）
-[伊莉丝翠：银发女士](Eilistraee.md "Eilistraee")（女儿）
+[伊莉丝翠](Eilistraee.md "伊莉丝翠")（女儿）
 
 ## 属性
 

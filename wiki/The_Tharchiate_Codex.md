@@ -27,7 +27,7 @@
 - [萨奇亚特枯萎](Tharchiate_Withering_(Condition).md "萨奇亚特枯萎 (状态)")，会降低体质属性。可通过[移除诅咒](Remove_Curse.md "移除诅咒")或[高等复原术](Greater_Restoration.md "高等复原术")治愈。
 - [萨奇亚特法典：祝福](The_Tharchiate_Codex_colon__Blessing.md "萨奇亚特法典：祝福")，在诅咒移除后，每次[长休](Long_Rest.md "长休")后自动施加[萨奇亚特活力](Tharchiate_Vigour_(Condition).md "萨奇亚特活力 (状态)")（20点[临时生命值](Hit_Points.md#Temporary_Hit_Points "生命值")）。
 - 读者可重新打开[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术")以学习[死亡之舞](Danse_Macabre.md "死亡之舞")能力，允许其每长休一次召唤4个食尸鬼。
-  - 读者在学习死亡之舞时必须通过DC 20的[感知](Wisdom.md "感知")[检定](Ability_Check.md "属性检定")豁免检定。豁免失败不会阻止其学习死亡之舞，但会使其被[灾厄知识](Baleful_Knowledge_(Condition).md "灾厄知识 (状态)")诅咒，该诅咒只能通过移除诅咒或高等复原术治愈。
+  - 读者在学习死亡之舞时必须通过DC 20的[感知](Wisdom.md "感知")[属性检定](Ability_Check.md "属性检定")豁免检定。豁免失败不会阻止其学习死亡之舞，但会使其被[灾厄知识](Baleful_Knowledge_(Condition).md "灾厄知识 (状态)")诅咒，该诅咒只能通过移除诅咒或高等复原术治愈。
 - [阿斯代伦](Astarion.md "阿斯代伦")可通过阅读《萨奇亚特法典》和《塞尔死灵法术》来了解其伤疤的含义，而无需[拉斐尔](Raphael.md "拉斐尔")的帮助。
 
 ## 文本

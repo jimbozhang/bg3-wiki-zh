@@ -24,7 +24,7 @@
 你受到的 [穿刺](Piercing.md "穿刺") 伤害减少 1 点。
 
 [贴身](Body_Aid.md "贴身")
-获得 +1 奖励至 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 和 [检定](Ability_Check.md "检定")。
+获得 +1 奖励至 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 和 [属性检定](Ability_Check.md "属性检定")。
 
 - [隐匿](Stealth.md "隐匿") [检定](Checks.md "检定") 具有 [劣势](Disadvantage.md "劣势")。
 

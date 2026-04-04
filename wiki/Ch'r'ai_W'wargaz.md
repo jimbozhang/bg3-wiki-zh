@@ -88,23 +88,23 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "Githyanki Parry")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "Perfect Sentry")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "Surprised")。
 
-- [**异能复仇**](Psionic_Revenge.md "Psionic Revenge")
+- [异能复仇](Psionic_Revenge.md "异能复仇")
 
 当你豁免检定成功时，造成该检定的敌人受到1d4点心灵伤害。
 
@@ -154,23 +154,23 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "Githyanki Parry")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "Perfect Sentry")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "Surprised")。
 
-- [**异能复仇**](Psionic_Revenge.md "Psionic Revenge")
+- [异能复仇](Psionic_Revenge.md "异能复仇")
 
 当你豁免检定成功时，造成该检定的敌人受到1d4点心灵伤害。
 
@@ -226,27 +226,27 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "Githyanki Parry")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "Perfect Sentry")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "Surprised")。
 
-- [**异能复仇**](Psionic_Revenge.md "Psionic Revenge")
+- [异能复仇](Psionic_Revenge.md "异能复仇")
 
 当你豁免检定成功时，造成该检定的敌人受到1d4点心灵伤害。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外1d6⁠⁠[心灵](Psychic.md "Psychic")伤害 - 灵吸怪奴役的伤痕根深蒂固。
 
@@ -306,27 +306,27 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "Githyanki Parry")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "Perfect Sentry")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "Surprised")。
 
-- [**异能复仇**](Psionic_Revenge.md "Psionic Revenge")
+- [异能复仇](Psionic_Revenge.md "异能复仇")
 
 当你豁免检定成功时，造成该检定的敌人受到1d4点心灵伤害。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外1d6⁠⁠[心灵](Psychic.md "Psychic")伤害 - 灵吸怪奴役的伤痕根深蒂固。
 

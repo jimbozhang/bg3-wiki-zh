@@ -1,6 +1,6 @@
 # 凤仙花
 
-**凤仙花**是一种[炼金术材料](Alchemy.md "炼金术")。将3个凤仙花组合可煅烧成[凤仙花灰烬](Ashes_of_Balsam.md "凤仙花灰烬")，用于制作[高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水")。
+**凤仙花**是一种[炼金术](Alchemy.md "炼金术")。将3个凤仙花组合可煅烧成[凤仙花灰烬](Ashes_of_Balsam.md "凤仙花灰烬")，用于制作[高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水")。
 
 由于凤仙花生长在高山之巅，这种细长花朵的花瓣可以随强风飘散数英里。
 

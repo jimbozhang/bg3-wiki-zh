@@ -43,7 +43,7 @@
 | [抓攫触手](Grasping_Appendage.md "抓攫触手") | 动作 | 每回合 | 18 m (60 ft) | - |  |
 | [坟墓斥力](Grave_Repulsion.md "坟墓斥力") | 1级法术 | - | 1.5 m (5 ft) 5 m (17 ft) (立方体) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[黯蚀](Necrotic.md "黯蚀") ( [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 减半) |
 | [造风术](Gust_of_Wind.md "造风术") | 2级法术 | + | 自身 12 m (40 ft) (直线) | [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") | 施加 [失衡](Off_Balance_(Condition).md "失衡（状态）") |
-| [钩子（职业动作）](Hook_(class_action).md "钩子（职业动作）") | 动作 |  | 1.5 m (5 ft) | 徒手近战 [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d6 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") 施加 [流血](Bleeding_(Condition).md "流血（状态）") |
+| [钩子（职业动作）](Hook_(class_action).md "钩子（职业动作）") | 动作 |  | 1.5 m (5 ft) | 徒手近战 [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d6 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺") 施加 [流血](Bleeding_(Condition).md "流血（状态）") |
 | [集群打击](Hordestrike.md "集群打击") | 4级法术 | 每回合 | 16 m (53 ft) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 4d8⁠[力场](Force.md "力场") 施加 [灾祸术](Bane_(Condition).md "灾祸术（状态）") |
 | [即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 物品⁠[钝击](Bludgeoning.md "钝击") 施加 [倒伏](Prone_(Condition).md "倒伏（状态）") |
 | [即兴近战武器（附赠动作）](Improvised_Melee_Weapon_(Bonus_Action).md "即兴近战武器（附赠动作）") | 动作 |  | 1.5 m (5 ft) | [攻击掷骰](Attack_roll.md "攻击掷骰") | 物品⁠[钝击](Bludgeoning.md "钝击") 施加 [倒伏](Prone_(Condition).md "倒伏（状态）") |

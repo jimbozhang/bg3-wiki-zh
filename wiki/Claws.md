@@ -1,6 +1,6 @@
 # 爪击
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Claws.md "Special:WhatLinksHere/Claws")的，请考虑编辑该链接以指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[爪击](Special_colon_WhatLinksHere/Claws.md "爪击")的，请考虑编辑该链接以指向正确的页面。
 
 **爪击**可能指：
 
@@ -31,11 +31,11 @@
 
 - [腐蚀爪](Caustic_Claws.md "Caustic Claws")
 - [寒冰爪](Freezing_Claws.md "Freezing Claws")
-- [泥泞爪](Muddy_Claws.md "Muddy Claws")
+- [泥泞利爪](Muddy_Claws.md "泥泞利爪")
 - [黯蚀爪](Necrotic_Claws.md "Necrotic Claws")
 - [幽影利爪](Shadowy_Claws.md "Shadowy Claws")
 - [小爪子](Tiny_Claws.md "Tiny Claws")
-- [毒液爪](Venom_Claws.md "Venom Claws")
+- [毒液之爪](Venom_Claws.md "毒液之爪")
 
 ---
 *Source: [Claws](https://bg3.wiki/wiki/Claws)*

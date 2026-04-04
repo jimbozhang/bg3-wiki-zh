@@ -2,7 +2,7 @@
 
 **枭之感知**
 
-- 对 [感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "Ability Check") 拥有 [优势](Advantage.md "Advantage")。
+- 对 [感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定") 拥有 [优势](Advantage.md "Advantage")。
 
 ## 属性
 
@@ -18,7 +18,7 @@
 
 ## 具有相同堆叠 ID 的状态
 
-- 对 [感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "Ability Check") 拥有 [优势](Advantage.md "Advantage")。
+- 对 [感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定") 拥有 [优势](Advantage.md "Advantage")。
 
 ---
 *Source: [Owl's Wisdom (Condition)](https://bg3.wiki/wiki/Owl's_Wisdom_(Condition)*

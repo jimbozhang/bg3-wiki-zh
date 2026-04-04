@@ -8,20 +8,20 @@
 
 ## 目录
 
-- [1 投掷武器列表](#list-of-thrown-weapons)
-- [2 独特投掷武器](#unique-thrown-weapons)
-- [3 与投掷交互的武器](#weapons-that-interact-with-throwing)
-- [4 与投掷交互的角色特性](#character-features-that-interact-with-throwing)
-- [5 投掷属性的临时来源](#temporary-sources-of-the-thrown-property)
-- [6 相关物品](#related-items)
-  - [6.1 投掷攻击掷骰+1](#+1_to_Throw_Attack_Rolls)
-  - [6.2 投掷伤害+1d4](#+1d4_to_Throw_Damage)
-  - [6.3 '投掷'武器伤害+1d4](#+1d4_to_'Thrown'_Weapon_Damage)
-  - [6.4 '投掷'武器伤害+1d6](#+1d6_to_'Thrown'_Weapon_Damage)
-  - [6.5 '投掷'武器伤害+2](#+2_to_'Thrown'_Weapon_Damage)
-- [7 相关角色特性](#related-character-features)
-- [8 备注](#notes)
-- [9 错误](#bugs)
+- [1 投掷武器列表](#投掷武器列表)
+- [2 独特投掷武器](#独特投掷武器)
+- [3 与投掷交互的武器](#与投掷交互的武器)
+- [4 与投掷交互的角色特性](#与投掷交互的角色特性)
+- [5 投掷属性的临时来源](#投掷属性的临时来源)
+- [6 相关物品](#相关物品)
+  - [6.1 投掷攻击掷骰+1](#投掷攻击掷骰+1)
+  - [6.2 投掷伤害+1d4](#投掷伤害+1d4)
+  - [6.3 '投掷'武器伤害+1d4](#投掷武器伤害+1d4)
+  - [6.4 '投掷'武器伤害+1d6](#投掷武器伤害+1d6)
+  - [6.5 '投掷'武器伤害+2](#投掷武器伤害+2)
+- [7 相关角色特性](#相关角色特性)
+- [8 备注](#备注)
+- [9 错误](#错误)
 
 ## 投掷武器列表
 

@@ -1,6 +1,6 @@
 # 雪雨暴
 
-**雪雨暴**是一个[3级咒法学派法术](Spells.md "法术")。它允许施法者召唤一场风暴，熄灭火焰、创造冰面，并干扰施法者的[专注](Concentration.md "专注")。
+**雪雨暴**是一个[法术](Spells.md "法术")。它允许施法者召唤一场风暴，熄灭火焰、创造冰面，并干扰施法者的[专注](Concentration.md "专注")。
 
 ## 描述
 
@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [3级法术位](Spells.md#Spell_slots "法术")
 详情
-[体](Constitution.md "体质")[豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质")[豁免](Saving_throws.md "豁免检定")
 范围：18米（60英尺）
 创造区域：雪雨暴
 [专注](Concentration.md "专注")

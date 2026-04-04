@@ -2,7 +2,7 @@
 
 不要与 [蛇牙](Snake_Fang.md "蛇牙") 混淆
 
-**毒牙**是一种[炼金术材料](Alchemy.md "炼金术材料")。将3个毒牙组合可制成[蛇毒悬液](Suspension_of_Snake_Venom.md "蛇毒悬液")，用于制作[蛇牙毒素](Serpent_Fang_Toxin.md "蛇牙毒素")。
+**毒牙**是一种[炼金术](Alchemy.md "炼金术")。将3个毒牙组合可制成[蛇毒悬液](Suspension_of_Snake_Venom.md "蛇毒悬液")，用于制作[蛇牙毒素](Serpent_Fang_Toxin.md "蛇牙毒素")。
 
 这颗獠牙表面覆盖着一层清澈的毒液，宛如黄蜂的秋日毒刺。
 

@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 戏法](#cantrips)
-- [2 物品或变体法术](#item-or-variant-spells)
-- [3 仅限非玩家角色](#non-player_character_only)
-- [4 外部链接](#external-links)
+- [1 戏法](#戏法)
+- [2 物品或变体法术](#物品或变体法术)
+- [3 仅限非玩家角色](#仅限非玩家角色)
+- [4 外部链接](#外部链接)
 
 ## 戏法
 
@@ -23,7 +23,7 @@
 | [火焰箭](Fire_Bolt.md "Fire Bolt") | C |  |  | - | 18 m / 60ft | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d10⁠[火焰](Fire.md "Fire") |
 | [交友术](Friends.md "Friends") | C |  |  | 10 回合 | 9 m / 30ft | - | - |
 | [神导术](Guidance.md "Guidance") | C |  |  | 10 回合 | 1.5 m / 5 ft | - | - |
-| [光亮术](Light.md "Light") | C |  |  | 长休 | 1.5 m / 5 ft | - | - |
+| [轻型](Light.md "轻型") | C |  |  | 长休 | 1.5 m / 5 ft | - | - |
 | [法师之手](Mage_Hand.md "Mage Hand") | C |  |  | - | 18 m / 60ft | - | - |
 | [初级幻影](Minor_Illusion.md "Minor Illusion") | C |  |  | - | 18 m / 60ft | - | - |
 | [毒气喷溅](Poison_Spray.md "Poison Spray") | C |  |  | - | 3 m / 10ft | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 1d12⁠[中毒](Poison.md "Poison") |

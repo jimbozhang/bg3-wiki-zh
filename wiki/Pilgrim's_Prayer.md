@@ -1,6 +1,6 @@
 # 朝圣者的祈祷
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Pilgrim's_Prayer.md "Special:WhatLinksHere/Pilgrim's Prayer")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[朝圣者的祈祷](Special_colon_WhatLinksHere/Pilgrim's_Prayer.md "朝圣者的祈祷")的，请考虑编辑该链接，将其指向正确的页面。
 
 **朝圣者的祈祷**可能指：
 

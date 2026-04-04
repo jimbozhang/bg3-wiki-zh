@@ -2,7 +2,7 @@
 
 **狐之狡黠**
 
-- 在进行[智力](Intelligence.md "智力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+- 在进行[智力](Intelligence.md "智力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 ## 狐之狡黠的来源
 

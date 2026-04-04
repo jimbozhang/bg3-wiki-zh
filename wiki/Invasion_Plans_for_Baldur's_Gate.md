@@ -24,7 +24,7 @@
 
 ## 文本
 
-\[一张博德之门的地图，描绘了[上城区](Upper_City.md "上城区")、[下城区](Lower_City.md "下城区")以及远至[飞龙关](Wyrm's_Crossing.md "飞龙关")的外城区，还有[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")以及[奇昂萨河](Chionthar.md "奇昂萨河")的近段河道。\]
+\[上城区](Upper_City.md "上城区")、[下城区](Lower_City.md "下城区")以及远至[飞龙关](Wyrm's_Crossing.md "飞龙关")的外城区，还有[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")以及[奇昂萨河](Chionthar.md "奇昂萨河")的近段河道。\]
 
 ---
 *Source: [Invasion Plans for Baldur's Gate](https://bg3.wiki/wiki/Invasion_Plans_for_Baldur's_Gate)*

@@ -24,7 +24,7 @@
 
 \[这块石盘上刻有吉斯洋基符文。其下方绘制了通用语的翻译。\]
 
-Therezzyn，你最好记住，如果你或伊雷珂养育间的任何其他成员违反新规定，这将被视为叛国行为。不要以为我没有察觉到你的蔑视。我是我们 [女王](Vlaakith.md "Vlaakith") 的眼睛，我洞察一切。审判将按计划进行，直至完成并找到武器。此乃女王 _对我_ 的谕令。- 审判官 W'wargaz。
+Therezzyn，你最好记住，如果你或伊雷珂养育间的任何其他成员违反新规定，这将被视为叛国行为。不要以为我没有察觉到你的蔑视。我是我们 [维拉基斯](Vlaakith.md "维拉基斯") 的眼睛，我洞察一切。审判将按计划进行，直至完成并找到武器。此乃女王 _对我_ 的谕令。- 审判官 W'wargaz。
 
 ---
 *Source: [Inquisitor's Prerogative - A Reminder](https://bg3.wiki/wiki/Inquisitor's_Prerogative_-_A_Reminder)*

@@ -20,7 +20,7 @@
 
 详情
 远程武器[攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：普通武器射程
 
 ## 技术细节
@@ -39,7 +39,7 @@ UID
 
 持续时间：2 驱散
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 使用[力量](Strength.md "力量")的武器攻击仅造成一半伤害。每驱散结束时，受影响的生物可以进行一次[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 

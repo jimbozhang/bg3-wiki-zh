@@ -16,7 +16,7 @@
 
 ### 阵营
 
-[安博里教会](Umberlee.md "安博里")
+[安博里](Umberlee.md "安博里")
 
 ## 属性
 
@@ -90,7 +90,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -142,7 +142,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -194,7 +194,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

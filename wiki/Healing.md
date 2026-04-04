@@ -4,7 +4,7 @@
 
 治疗永远无法使生物的生命值超过其生命值上限，也无法恢复[临时生命值](Hit_Points.md#Temporary_hit_points "生命值")。玩家角色通常只能治疗其队友和盟友，而非敌对或中立生物。
 
-大多数治疗效果使用[掷骰](Dice_roll.md "掷骰")来确定恢复多少生命值，类似于[伤害掷骰](Damage_Roll.md "伤害掷骰")；例如，1环施展的[法术](Spell.md "法术")[疗伤术](Cure_Wounds.md "疗伤术")恢复1d8⁠⁠生命值 + 施法者的[施法关键属性调整值](Spells.md#Spellcasting_ability_and_proficiency "法术")。更罕见的是，某些效果可能恢复固定数值，例如法术[治疗术](Heal.md "治疗术")。
+大多数治疗效果使用[掷骰](Dice_roll.md "掷骰")来确定恢复多少生命值，类似于[伤害掷骰](Damage_Roll.md "伤害掷骰")；例如，1环施展的[法术](Spell.md "法术")[疗伤术](Cure_Wounds.md "疗伤术")恢复1d8⁠⁠生命值 + 施法者的[施法关键属性调整值](Spells.md#Spellcasting_ability_and_proficiency "法术")。更罕见的是，某些效果可能恢复固定数值，例如法术[治疗](Heal.md "治疗")。
 
 任何治疗量都会移除[倒地](Downed_(Condition).md "倒地（状态）")或[流血](Bleeding.md "流血")状态，许多治疗来源还具有其他有益效果；例如，[治疗药水](Potions.md#Healing_potions "药水")在饮用时也会移除[燃烧](Burning.md "燃烧")状态，而某些[治疗法术](List_of_Healing_spells.md "治疗法术列表")还会移除[疾病](Disease.md "疾病")。
 

@@ -88,7 +88,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -136,7 +136,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -184,7 +184,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -221,7 +221,7 @@ UUID
 - 如果影心拒绝了莎尔，他会威胁她并指引她前往 [哀伤之邸](House_of_Grief.md "House of Grief") 接受惩罚。对话结束后，他永远离开，队伍无法再与他交易。
 - 如果影心接受了莎尔，他表示一直在等待她的归来，并提供前往哀伤之邸的相同指引。他暗示修道院内酝酿着不安，预示着即将到来的与 [维康妮亚·迪佛](Viconia_DeVir.md "Viconia DeVir") 女院长的战斗。
 
-如果影心被给予了 [箴言菇](Noblestalk.md "Noblestalk")，那么她可能会询问她在记忆中看到的孩子，[雷诺](Nocturne.md "Nocturne")。弗格回答说雷诺已不在人世，剩下的就留给影心自己去弄清楚了。
+如果影心被给予了 [箴言菇](Noblestalk.md "Noblestalk")，那么她可能会询问她在记忆中看到的孩子，[夜曲](Nocturne.md "夜曲")。弗格回答说雷诺已不在人世，剩下的就留给影心自己去弄清楚了。
 
 ### 特殊库存
 
@@ -316,7 +316,7 @@ UUID
 ## 注释
 
 - 尽管弗格·德罗戈可以成为一个功能齐全的商人，但他在小地图上没有被标记为商人。这可能是一个错误，也可能是有意为之，因为与他交易的能力取决于之前做出的某些剧情选择。
-- 如果 [偷窃](Sleight_of_Hand.md "Sleight of hand") 他，弗格会逃跑并且不会返回。
+- 如果 [巧手](Sleight_of_Hand.md "巧手") 他，弗格会逃跑并且不会返回。
 
 ## 外部链接
 

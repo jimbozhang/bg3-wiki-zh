@@ -24,7 +24,7 @@
 
 [一本沾满灰尘的向黎明大师投诉的书卷。]
 
-是谁允许朝圣者用[猫](Winery_Records.md "Winery Records")来[支付酒钱](Winery_Records.md "Winery Records")？那到底是什么样的猫？！我的一名见习修士告诉我，他们看到它长到了[八](Eight.md "八")[体型](Size.md "体型")的[大](Shelf.md "大")[狗](Cat.md "狗")那么大。就在它[攻击](attack.md "攻击")之前。可怜的见习修士颤抖了整整一个[月](One.md "月")。求求你们，我恳求你们，我们能不能像普通人一样只收金币？看在诸神的份上，找人来除掉那只恶心的动物！
+是谁允许朝圣者用[酿酒厂记录](Winery_Records.md "酿酒厂记录")来[酿酒厂记录](Winery_Records.md "酿酒厂记录")？那到底是什么样的猫？！我的一名见习修士告诉我，他们看到它长到了[八](Eight.md "八")[体型](Size.md "体型")的[架子](Shelf.md "架子")[猫](Cat.md "猫")那么大。就在它[攻击](attack.md "攻击")之前。可怜的见习修士颤抖了整整一个[一](One.md "一")。求求你们，我恳求你们，我们能不能像普通人一样只收金币？看在诸神的份上，找人来除掉那只恶心的动物！
 
 ---
 *Source: [Record of Complaints](https://bg3.wiki/wiki/Record_of_Complaints)*

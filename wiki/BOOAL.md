@@ -86,13 +86,13 @@
 | --- | --- | --- |
 | 6 | 1 | 2 |
 
-当它杀死一个生物时，恢复 3d6⁠⁠[生命值](Healing.md "治疗")，并且可以攻击三次。
+当它杀死一个生物时，恢复 3d6⁠⁠[治疗](Healing.md "治疗")，并且可以攻击三次。
 
-可以攻击三次，如果造成致命一击，则恢复 3d8⁠⁠[生命值](Healing.md "治疗")。
+可以攻击三次，如果造成致命一击，则恢复 3d8⁠⁠[治疗](Healing.md "治疗")。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -100,11 +100,11 @@
 
 红帽子在[嗜血](Bloodlust_(Condition).md "嗜血（状态）")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击（红帽子）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血（状态）")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
@@ -156,13 +156,13 @@
 | --- | --- | --- |
 | 6 | 1 | 2 |
 
-当它杀死一个生物时，恢复 3d6⁠⁠[生命值](Healing.md "治疗")，并且可以攻击三次。
+当它杀死一个生物时，恢复 3d6⁠⁠[治疗](Healing.md "治疗")，并且可以攻击三次。
 
-可以攻击三次，如果造成致命一击，则恢复 3d8⁠⁠[生命值](Healing.md "治疗")。
+可以攻击三次，如果造成致命一击，则恢复 3d8⁠⁠[治疗](Healing.md "治疗")。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -170,11 +170,11 @@
 
 红帽子在[嗜血](Bloodlust_(Condition).md "嗜血（状态）")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击（红帽子）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血（状态）")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
@@ -226,13 +226,13 @@
 | --- | --- | --- |
 | 6 | 1 | 2 |
 
-当它杀死一个生物时，恢复 3d6⁠⁠[生命值](Healing.md "治疗")，并且可以攻击三次。
+当它杀死一个生物时，恢复 3d6⁠⁠[治疗](Healing.md "治疗")，并且可以攻击三次。
 
-可以攻击三次，如果造成致命一击，则恢复 3d8⁠⁠[生命值](Healing.md "治疗")。
+可以攻击三次，如果造成致命一击，则恢复 3d8⁠⁠[治疗](Healing.md "治疗")。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -240,11 +240,11 @@
 
 红帽子在[嗜血](Bloodlust_(Condition).md "嗜血（状态）")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击（红帽子）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血（状态）")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
@@ -274,11 +274,11 @@ Stats
 
 ## 内容
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 注释](#notes)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 注释](#注释)
 
 ## 出场
 

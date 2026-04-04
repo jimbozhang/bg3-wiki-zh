@@ -63,7 +63,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 8 / (-1) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 7 / (-2) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 状态
 
@@ -73,15 +73,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，对[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 

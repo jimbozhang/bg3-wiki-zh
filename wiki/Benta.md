@@ -90,11 +90,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -144,7 +144,7 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -194,15 +194,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，可选择额外造成 1d6⁠⁠[物理](Physical.md "物理") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -252,15 +252,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，可选择额外造成 1d6⁠⁠[物理](Physical.md "物理") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -308,13 +308,13 @@ UUID
 
 投掷一个酸液泡，对击中的每个生物造成伤害。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [油脂](Grease.md "油脂") (+ )
 在地面覆盖易燃油脂。它会变成[劣势地形](Difficult_Terrain.md "劣势地形")，范围内的生物可能[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [主手攻击](Main_Hand_Attack.md "主手攻击") () – [仪式法杖](Ritual_Staff.md "仪式法杖")
@@ -335,7 +335,7 @@ UUID
 
 可能使目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [摔绊](Topple.md "摔绊") () – [仪式法杖](Ritual_Staff.md "仪式法杖")
@@ -346,7 +346,7 @@ UUID
 
 挥击生物以使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

@@ -1,6 +1,6 @@
 # 飞龙毒刺灰烬
 
-**飞龙毒刺灰烬**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[翼龙毒素](Wyvern_Toxin.md "翼龙毒素")。
+**飞龙毒刺灰烬**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[翼龙毒素](Wyvern_Toxin.md "翼龙毒素")。
 
 远比它们的龙类表亲更为野蛮，[飞龙](https://forgottenrealms.fandom.com/wiki/Wyvern)用尖啸声填满天空，宛如某种噩梦般的空中合唱团，它们的钉刺滴淌着毒液。
 

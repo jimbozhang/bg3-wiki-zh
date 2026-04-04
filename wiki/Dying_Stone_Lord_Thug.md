@@ -84,11 +84,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -142,11 +142,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -200,11 +200,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -228,7 +228,7 @@ Stats
 
 濒死的石头领主暴徒可以在 [奇恩萨河](River_Chionthar.md "River Chionthar") 的岸边找到，在悬崖下方，几乎就在 [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing") 所在的纪念性桥梁下方，坐标 X: -141 Y: 73。他靠在一个矮树篱上坐着，一把刀深深插在他的内脏里。接近他时，队伍可以与暴徒交谈，但只能看着他在几句话后不可避免地死去。
 
-然而，濒死的石头领主暴徒可能是 [腥红奥林](Orin.md "Orin") 用来嘲弄和戏弄玩家角色的伪装之一。<sup>[\[1\]](#cite_note-1)</sup> 在这种情况下，与暴徒的对话会更长、更有意义。在整个对话中，玩家角色必须进行一次被动 DC 20 的 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")。如果成功，他们会感觉到垂死的暴徒不知为何似乎在享受他悲惨的 [重伤](Gravely_Wounded_(Condition).md "Gravely Wounded (Condition)") 状态。
+然而，濒死的石头领主暴徒可能是 [奥林](Orin.md "奥林") 用来嘲弄和戏弄玩家角色的伪装之一。<sup>[\[1\]](#cite_note-1)</sup> 在这种情况下，与暴徒的对话会更长、更有意义。在整个对话中，玩家角色必须进行一次被动 DC 20 的 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")。如果成功，他们会感觉到垂死的暴徒不知为何似乎在享受他悲惨的 [重伤](Gravely_Wounded_(Condition).md "Gravely Wounded (Condition)") 状态。
 
 与她在 [利文顿](Rivington.md "Rivington") 采取各种伪装的其他情况一样，奥林试图从玩家角色那里套出任何与她心态产生共鸣的暗示，尤其是在扮演 [邪念](The_Dark_Urge.md "The Dark Urge") 出身时。
 

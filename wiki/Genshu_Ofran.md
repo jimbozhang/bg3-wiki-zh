@@ -91,19 +91,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -151,19 +151,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -211,19 +211,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -245,11 +245,11 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 相关任务](#related-quests)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 相关任务](#相关任务)
 
 ## 参与
 
@@ -269,7 +269,7 @@ Stats
 
 投掷一个酸液泡，对击中的每个生物造成伤害。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [震荡猛击](Concussive_Smash.md "震荡猛击") () – [轻锤](Light_Hammer.md "轻锤")
@@ -280,14 +280,14 @@ Stats
 
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
 [油脂](Grease.md "油脂") (+ )
 在地面上覆盖易燃油脂。它变成[劣势地形](Difficult_Terrain.md "劣势地形")，范围内的生物可能[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [主手攻击](Main_Hand_Attack.md "主手攻击") () – [轻锤](Light_Hammer.md "轻锤")
@@ -308,7 +308,7 @@ Stats
 
 \+ 2d4⁠[强酸](Acid.md "强酸")
 
-射出一支绿色箭矢，在酸液喷雾中爆裂。立即造成 ⁠[4d4 强酸](Acid.md "强酸") 伤害，并在目标下一回合结束时造成 ⁠[2d4 强酸](Acid.md "强酸") 伤害。
+射出一支绿色箭矢，在酸液喷雾中爆裂。立即造成 ⁠[强酸](Acid.md "强酸") 伤害，并在目标下一回合结束时造成 ⁠[强酸](Acid.md "强酸") 伤害。
 
 如果法术未命中，目标仍会受到一半的初始伤害，但在其下一回合结束时不会受到伤害。
 

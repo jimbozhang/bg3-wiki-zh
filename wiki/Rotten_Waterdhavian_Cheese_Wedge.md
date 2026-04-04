@@ -4,7 +4,7 @@ A **腐烂的深水城奶酪片** 是一种常见的 [杂物 消耗品](Miscella
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：普通
 
@@ -28,7 +28,7 @@ A **腐烂的深水城奶酪片** 是一种常见的 [杂物 消耗品](Miscella
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：普通
 

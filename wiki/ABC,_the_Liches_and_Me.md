@@ -26,7 +26,7 @@ T 代表 ⁠[塔鲁尔·瓦尔](https://forgottenrealms.fandom.com/wiki/Tarul_Va
 
 U 代表空循环，那不会消逝的死亡。
 
-V 代表 ⁠[维拉基斯女王](Vlaakith.md "Vlaakith")，吉斯人的巫妖女王
+V 代表 ⁠[维拉基斯](Vlaakith.md "维拉基斯")，吉斯人的巫妖女王
 
 W 代表可怕的 ⁠[伍尔格雷斯](https://forgottenrealms.fandom.com/wiki/Wulgreth_(Ascalhorn))，恐怖之林的灾祸
 

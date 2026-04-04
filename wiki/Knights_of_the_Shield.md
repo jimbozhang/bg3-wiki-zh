@@ -6,18 +6,18 @@
 
 ## 目录
 
-- [1 历史](#history)
-- [2 参与情况](#involvement)
-  - [2.1 第三幕](#act-three)
-  - [2.2 尾声](#epilogue)
-- [3 成员](#members)
-  - [3.1 已故成员](#deceased-members)
-- [4 相关文献](#related-literature)
-  - [4.1 黑手所著](#written-by-the-black-hand)
-- [5 相关地点](#related-locations)
-- [6 画廊](#gallery)
-- [7 注释与参考](#notes-and-references)
-- [8 外部链接](#external-links)
+- [1 历史](#历史)
+- [2 参与情况](#参与情况)
+  - [2.1 第三幕](#第三幕)
+  - [2.2 尾声](#尾声)
+- [3 成员](#成员)
+  - [3.1 已故成员](#已故成员)
+- [4 相关文献](#相关文献)
+  - [4.1 黑手所著](#黑手所著)
+- [5 相关地点](#相关地点)
+- [6 画廊](#画廊)
+- [7 注释与参考](#注释与参考)
+- [8 外部链接](#外部链接)
 
 ## 历史
 
@@ -54,7 +54,7 @@
 - [贝琳·斯特梅](Belynne_Stelmane.md "贝琳·斯特梅")
 - [德罗利亚斯·迪斯特利斯](Droralias_Dryselis.md "德罗利亚斯·迪斯特利斯")
 - [莉丝特亚·德塞利斯](Listelia_Dryselis.md "莉丝特亚·德塞利斯")
-- 未知的[胡内家族成员](Hhune_Mausoleum.md "胡内陵墓")
+- 未知的[胡内陵墓](Hhune_Mausoleum.md "胡内陵墓")
 
 ## 相关文献
 
@@ -100,7 +100,7 @@
 1. [↑](#cite_ref-12) [旧账本](Old_Ledger.md "旧账本")
 1. [↑](#cite_ref-13) [强化武器 - 销售账本](Enhanced'_Weapons_-_Sales_Ledger.md "强化武器 - 销售账本") - 弗兰克·梨木
 1. [↑](#cite_ref-14) [旧账本](Old_Ledger.md "旧账本")
-1. [↑](#cite_ref-15) [军火商戈塔什的进展](Inroads_by_Arms_Dealer_Gortash.md "军火商戈塔什的进展") - [财务官乌克塔尔](Uktar.md "腐叶之月")
+1. [↑](#cite_ref-15) [军火商戈塔什的进展](Inroads_by_Arms_Dealer_Gortash.md "军火商戈塔什的进展") - [腐叶之月](Uktar.md "腐叶之月")
 1. [↑](#cite_ref-16) [贾希拉](Jaheira.md "贾希拉")：_盾牌骑士。我徒劳地搜寻了他们巢穴多少天，结果却在它上方饮酒结束了那个夜晚？_
 1. [↑](#cite_ref-17) [君主](The_Emperor.md "君主")的来信
 1. [↑](#cite_ref-18) 在[尾声](Epilogue.md "尾声")中与[阿斯代伦](Astarion.md "阿斯代伦")的对话。

@@ -69,7 +69,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 20 / (+5) | 11 / (0) | 20 / (+5) | 12 / (+1) | 16 / (+3) | 18 / (+4) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -85,19 +85,19 @@
 
 ## 特性
 
-  - [**借机攻击**](Opportunity_Attack.md "借机攻击")
+  - [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -105,7 +105,7 @@
 
 格挡下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
 
-- [**幽魂之怒**](Revenant's_Ire.md "幽魂之怒")
+- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
 
 这种亵渎实体的武器攻击造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
@@ -159,7 +159,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +9 | 0 | +10 | +1 | +7 | +4 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -175,19 +175,19 @@
 
 ## 特性
 
-  - [**借机攻击**](Opportunity_Attack.md "借机攻击")
+  - [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -195,7 +195,7 @@
 
 格挡下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
 
-- [**幽魂之怒**](Revenant's_Ire.md "幽魂之怒")
+- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
 
 这种亵渎实体的武器攻击造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
@@ -249,7 +249,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 20 / (+5) | 11 / (0) | 20 / (+5) | 12 / (+1) | 16 / (+3) | 18 / (+4) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -265,19 +265,19 @@
 
 ## 特性
 
-  - [**借机攻击**](Opportunity_Attack.md "借机攻击")
+  - [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -285,7 +285,7 @@
 
 格挡下一次命中你的近战攻击，将伤害减少 1d8 + [敏捷](Dexterity.md "敏捷") 调整值。
 
-- [**幽魂之怒**](Revenant's_Ire.md "幽魂之怒")
+- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
 
 这种亵渎实体的武器攻击造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
@@ -330,7 +330,7 @@ Stats
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围: 普通武器范围
 
-[地狱火球术](Hellfire_Orb.md "地狱火球术") ()
+[地狱火球](Hellfire_Orb.md "地狱火球") ()
 
 伤害: 20~120
 

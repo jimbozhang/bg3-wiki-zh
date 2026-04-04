@@ -85,17 +85,17 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
-战斗期间所有[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 ## 探索者难度属性
 
@@ -141,17 +141,17 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
-战斗期间所有[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 ## 硬核难度属性
 
@@ -197,17 +197,17 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
-战斗期间所有[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 ## 技术细节
 
@@ -227,13 +227,13 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 仅限硬核/荣誉模式](#tactician/Honour_mode_only)
-  - [2.3 值得一提的战利品](#notable-loot)
-- [3 相关文献](#related-literature)
-- [4 闲聊](#idle-banter)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 仅限硬核/荣誉模式](#仅限硬核-荣誉模式)
+  - [2.3 值得一提的战利品](#值得一提的战利品)
+- [3 相关文献](#相关文献)
+- [4 闲聊](#闲聊)
 
 ## 参与
 
@@ -310,7 +310,7 @@ UUID
 
 \+ [卓越骰子](Battlemaster.md#Superiority_dice "战斗大师")
 
-可能[恐慌](Frightened_(Condition).md "恐慌（状态）")你的目标。他们将在[检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。
+可能[恐慌](Frightened_(Condition).md "恐慌（状态）")你的目标。他们将在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程

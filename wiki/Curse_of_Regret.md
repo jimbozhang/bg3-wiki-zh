@@ -1,6 +1,6 @@
 # 悔恨诅咒
 
-**悔恨诅咒**是一个[等级 1 惑控学派法术](Spells.md "Spells")。此法术对目标施加[悔恨诅咒](Curse_of_Regret_(Condition).md) 状态减益，使其获得[心灵](Psychic.md "Psychic") [易伤](Vulnerable.md "Vulnerable")，并在每[驱散](Turn.md "Turn")造成[心灵伤害](Psychic_damage.md "Psychic damage")。此法术无法被队伍成员学习。
+**悔恨诅咒**是一个[法术](Spells.md "法术")。此法术对目标施加[悔恨诅咒](Curse_of_Regret_(Condition).md) 状态减益，使其获得[心灵](Psychic.md "Psychic") [易伤](Vulnerable.md "Vulnerable")，并在每[驱散](Turn.md "Turn")造成[心灵伤害](Psychic_damage.md "Psychic damage")。此法术无法被队伍成员学习。
 
 ## 描述
 

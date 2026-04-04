@@ -4,7 +4,7 @@
 
 ### 阵营
 
-[安博里教会](Umberlee.md "安博里")
+[安博里](Umberlee.md "安博里")
 
 ## 属性
 
@@ -62,7 +62,7 @@
 
 - - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -102,7 +102,7 @@
 
 - - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -142,7 +142,7 @@
 
 - - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -156,11 +156,11 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 已知的野蛮海风](#known-savage-seawinds)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 已知的野蛮海风](#已知的野蛮海风)
 
 ## 出场
 
@@ -180,7 +180,7 @@
 
 全力击中敌人造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -190,7 +190,7 @@
 
 被缠绕的生物无法移动。盟友可以使用其协助动作尝试撕开藤蔓。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 m (60 ft)
 
 [冰刃术](Ice_Knife.md "冰刃术") (+ )
@@ -205,7 +205,7 @@
 
 此法术可在你[沉默](Silenced_(Condition).md "沉默 (状态)")时施放。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 m (60 ft)
 
 [主手攻击](Main_Hand_Attack.md "主手攻击") () – [硬头锤](Mace.md "硬头锤")

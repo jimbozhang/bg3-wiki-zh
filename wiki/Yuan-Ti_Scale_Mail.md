@@ -20,10 +20,10 @@
 穿戴此物品获得：
 
 [特制材料](Exotic_Material.md "特制材料")
-将你的完整敏捷[调整值](Ability_Modifier.md "属性调整值")添加到你的[护甲等级](Armour_Class.md "护甲等级")上。此外，此护甲不会对隐匿[检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
+将你的完整敏捷[属性调整值](Ability_Modifier.md "属性调整值")添加到你的[护甲等级](Armour_Class.md "护甲等级")上。此外，此护甲不会对隐匿[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
 
 [伏击](Ambusher_(+1).md)
-获得+1的[先攻掷骰](Initiative.md "先攻")加成。
+获得+1的[先攻](Initiative.md "先攻")加成。
 
 ## 获取地点
 

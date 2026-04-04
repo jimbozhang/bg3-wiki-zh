@@ -23,7 +23,7 @@
 
 持续时间：直到[长休](Long_Rest.md "长休")
 
-- 小型生物的运气使受影响的实体在下一次[长休](Long_Rest.md "长休")之前，在技能[检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "Advantage")。
+- 小型生物的运气使受影响的实体在下一次[长休](Long_Rest.md "长休")之前，在技能[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "Advantage")。
 
 ## 获取地点
 

@@ -54,7 +54,7 @@ UID
 持续时间：直至[长休](Long_Rest.md "长休")
 
 - 一阵狂乱的愤怒折磨着受影响实体的肉体。其[多重攻击](Multiattack_(Flesh)每次造成额.md)外1d8⁠⁠[钝击](Bludgeoning.md "钝击")伤害，并使目标[倒伏](Prone_(Condition).md "倒伏（状态）")
-- 它还获得对挥砍、穿刺和钝击伤害的[抗性](Resistance.md "抗性")，并在力量[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+- 它还获得对挥砍、穿刺和钝击伤害的[抗性](Resistance.md "抗性")，并在力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 - 如果受影响实体恢复其全部生命值，此狂怒状态结束。
 
 ## 状态：鲁莽攻击

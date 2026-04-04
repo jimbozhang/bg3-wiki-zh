@@ -29,7 +29,7 @@
 可在黑暗中看到 12 米（40 英尺）内的事物。
 
 [坚韧不屈](Relentless_Endurance.md "坚韧不屈")
-如果你的生命值降至 0，你将恢复 1 点[生命值](Healing.md "治疗")，而不是进入[倒地](Downed_(Condition).md "倒地（状态）")状态。
+如果你的生命值降至 0，你将恢复 1 点[治疗](Healing.md "治疗")，而不是进入[倒地](Downed_(Condition).md "倒地（状态）")状态。
 
 [凶蛮打击](Savage_Attacks.md "凶蛮打击")
 当你以近战武器攻击造成[重击](Critical_Hit.md "重击")时，你将额外造成一次武器伤害骰。

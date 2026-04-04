@@ -4,14 +4,14 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 遇见阿拉贝尔](#meeting-arabella)
-  - [2.2 找到阿拉贝尔的父母](#finding-arabella's-parents)
-  - [2.3 告知死讯](#breaking-the-news)
-- [3 任务奖励](#quest-rewards)
-- [4 后果](#consequences)
-- [5 伙伴好感度](#companion-approval)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 遇见阿拉贝尔](#遇见阿拉贝尔)
+  - [2.2 找到阿拉贝尔的父母](#找到阿拉贝尔的父母)
+  - [2.3 告知死讯](#告知死讯)
+- [3 任务奖励](#任务奖励)
+- [4 后果](#后果)
+- [5 伙伴好感度](#伙伴好感度)
 
 ## 目标
 
@@ -55,13 +55,13 @@ _目标和日志条目可能因玩家的决定和结果而有所不同。_
 
 ### 找到阿拉贝尔的父母
 
-阿拉贝尔的父母[洛奇](Locke.md "Locke")和[柯米拉](Komira.md "Komira")可以在[治疗中心](House_of_Healing.md "House of Healing")的儿童病房找到，坐标 X: -185 Y: 12，位于东翼。在那里，他们的尸体由[安娜·丽德雯](Anna_Lidwin.md "Anna Lidwin")照料。如果小队与丽德雯姐妹交谈，她不明白他们已经死了。她认为自己仍然可以拯救他们，并“照料”洛奇的尸体。通过一次[欺瞒](Deception.md "Deception")或[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability check")，可以说服她相信她的“病人”已经痊愈了。
+阿拉贝尔的父母[洛奇](Locke.md "Locke")和[柯米拉](Komira.md "Komira")可以在[治疗中心](House_of_Healing.md "House of Healing")的儿童病房找到，坐标 X: -185 Y: 12，位于东翼。在那里，他们的尸体由[安娜·丽德雯](Anna_Lidwin.md "Anna Lidwin")照料。如果小队与丽德雯姐妹交谈，她不明白他们已经死了。她认为自己仍然可以拯救他们，并“照料”洛奇的尸体。通过一次[欺瞒](Deception.md "Deception")或[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")，可以说服她相信她的“病人”已经痊愈了。
 
 洛奇的尸体可以用[死者交谈](Speak_with_Dead.md "Speak with Dead")与之交谈。他确认柯米拉是他的妻子，阿拉贝尔是他的女儿。如果被问及他是怎么死的，他解释说，难民遭到伏击后，他和妻子跑到了治疗中心，以为那里已经被遗弃了。他们遭到了外科医生姐妹的攻击。他不知道赛夫洛在哪里。柯米拉的尸体拒绝说话。
 
 ### 告知死讯
 
-阿拉贝尔接受消息的方式取决于何时告诉她。如果小队在找到阿拉贝尔之前找到了她父母的尸体，可以选择立即告诉她。这样做会触发一次 DC 14 的[游说](Persuasion.md "Persuasion")或[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")，或者使用 DC 10 的[侦测思想](Detect_Thoughts.md "Detect Thoughts")。如果成功，阿拉贝尔会去营地，表现与在那里被告知消息时相同。然而，如果检定失败，阿拉贝尔会变得震惊和难过，并跑进幽影中，就像玩家角色最初拒绝帮助她一样。
+阿拉贝尔接受消息的方式取决于何时告诉她。如果小队在找到阿拉贝尔之前找到了她父母的尸体，可以选择立即告诉她。这样做会触发一次 DC 14 的[游说](Persuasion.md "Persuasion")或[威吓](Intimidation.md "Intimidation")[属性检定](Ability_Check.md "属性检定")，或者使用 DC 10 的[侦测思想](Detect_Thoughts.md "Detect Thoughts")。如果成功，阿拉贝尔会去营地，表现与在那里被告知消息时相同。然而，如果检定失败，阿拉贝尔会变得震惊和难过，并跑进幽影中，就像玩家角色最初拒绝帮助她一样。
 
 如果阿拉贝尔去了营地，她会与守墓人建立联系，并能更好地接受这个消息。这里为[吟游诗人](Bard.md "Bard")、[牧师](Cleric.md "Cleric")或[武僧](Monk.md "Monk")提供了独特的对话选项。如果玩家角色是[奉献之誓](Oath_of_Devotion.md "Oath of Devotion")[圣武士](Paladin.md "Paladin")，并且已经找到了阿拉贝尔的父母，那么在告诉她“我还没找到你的父母”时，他们的誓言就会破裂。最后，守墓人鼓励她走自己的路，追随织法，表示她有自己的命运要遵循。阿拉贝尔会留在营地直到第二幕结束，然后独自冒险离开。
 

@@ -1,6 +1,6 @@
 # 烤矮人腿
 
-一种不可食用的物品。可被[邪念](The_Dark_Urge.md "The Dark Urge")吞噬以恢复4d4⁠⁠[生命值](Healing.md "Healing")。
+一种不可食用的物品。可被[邪念](The_Dark_Urge.md "The Dark Urge")吞噬以恢复4d4⁠⁠[治疗](Healing.md "治疗")。
 
 肉质紧实多汁。无论它属于谁，生前一定过着活跃的生活。
 

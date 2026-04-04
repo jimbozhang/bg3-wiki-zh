@@ -1,6 +1,6 @@
 # 凤仙花灰烬
 
-**凤仙花灰烬**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制作[高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水")。
+**凤仙花灰烬**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制作[高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水")。
 
 这些部分燃烧的[凤仙花](https://forgottenrealms.fandom.com/wiki/balsam)叶子散发出烟熏般的甜香。
 

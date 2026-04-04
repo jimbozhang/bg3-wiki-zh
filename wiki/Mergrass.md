@@ -1,6 +1,6 @@
 # 芒草
 
-**芒草**是一种[炼金术材料](Alchemy.md "炼金术")。将3个芒草组合可制成[芒草悬液](Suspension_of_Mergrass.md "芒草悬液")，用于制作[读心药水](Potion_of_Mind_Reading.md "读心药水")。
+**芒草**是一种[炼金术](Alchemy.md "炼金术")。将3个芒草组合可制成[芒草悬液](Suspension_of_Mergrass.md "芒草悬液")，用于制作[读心药水](Potion_of_Mind_Reading.md "读心药水")。
 
 这种坚韧、不易弯曲的芦苇生长在水边丛生，是优质的建筑材料。
 

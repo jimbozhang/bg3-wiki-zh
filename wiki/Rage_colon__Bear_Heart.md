@@ -44,7 +44,7 @@ UID
 持续时间：10 驱散
 
 - 使用近战武器和即兴武器，以及投掷物品时，造成额外 2 点伤害（9 级时增加至 3 点）。
-- 同时对所有伤害（[心灵](Psychic.md "Psychic")伤害除外）拥有 [抗性](Resistance.md "Resistance")，并在力量 [检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上具有 [优势](Advantage.md "优势")。
+- 同时对所有伤害（[心灵](Psychic.md "Psychic")伤害除外）拥有 [抗性](Resistance.md "Resistance")，并在力量 [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上具有 [优势](Advantage.md "优势")。
 - 无法施放或专注 [法术](Spells.md "法术")。
 
 ## 状态：狂暴受阻
@@ -53,7 +53,7 @@ UID
 
 持续时间：永久
 
-- 被 [重甲](Heavy_Armour.md "重甲") 拖累。在卸下护甲前，[狂暴](Rage.md "Rage") 不会提供额外伤害、对物理伤害的 [抗性](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")，或在力量 [检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上的 [优势](Advantage.md "优势")。
+- 被 [重甲](Heavy_Armour.md "重甲") 拖累。在卸下护甲前，[狂暴](Rage.md "Rage") 不会提供额外伤害、对物理伤害的 [抗性](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")，或在力量 [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上的 [优势](Advantage.md "优势")。
 
 ## 如何习得
 

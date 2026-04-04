@@ -81,11 +81,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -145,11 +145,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -209,19 +209,19 @@
 
 ## 特性
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕根深蒂固。
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -251,10 +251,10 @@ Stats
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-    - [1.1.1 策略](#manoeuvres)
-  - [1.2 重要战利品](#notable-loot)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+    - [1.1.1 策略](#策略)
+  - [1.2 重要战利品](#重要战利品)
 
 ## 战斗
 

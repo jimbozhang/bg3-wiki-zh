@@ -1,10 +1,10 @@
 # 熊之坚韧
 
-**熊之坚韧**是一个[等级 2 变化学派法术](Spells.md "Spells")。此法术允许施法者赋予生物熊的坚韧。受影响的生物获得[临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")和在[体质](Constitution.md "Constitution")[检定](Ability_Check.md "Ability Check")上的[优势](Advantage.md "Advantage")。
+**熊之坚韧**是一个[法术](Spells.md "法术")。此法术允许施法者赋予生物熊的坚韧。受影响的生物获得[临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")和在[体质](Constitution.md "Constitution")[属性检定](Ability_Check.md "属性检定")上的[优势](Advantage.md "Advantage")。
 
 ## 描述
 
-生物获得在[体质](Constitution.md "Constitution")[检定](Ability_Check.md "Ability Check")上的[优势](Advantage.md "Advantage")，并获得 7 点[临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")。
+生物获得在[体质](Constitution.md "Constitution")[属性检定](Ability_Check.md "属性检定")上的[优势](Advantage.md "Advantage")，并获得 7 点[临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")。
 
 只能拥有来自一个来源的临时生命值。
 
@@ -36,7 +36,7 @@ UID
 
 持续时间：直到[长休](Long_Rest.md "Long rest")
 
-- 拥有在[体质](Constitution.md "Constitution")[检定](Ability_Check.md "Ability Check")上的[优势](Advantage.md "Advantage")。
+- 拥有在[体质](Constitution.md "Constitution")[属性检定](Ability_Check.md "属性检定")上的[优势](Advantage.md "Advantage")。
 - 获得 7 点[临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")。
 
 ## 如何学习

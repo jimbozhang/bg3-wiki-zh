@@ -35,7 +35,7 @@
 **[中度醉醺醺](Moderately_Inebriated_(Condition).md "中度醉醺醺（状态）")**
 
 - 每啜饮一口他的特制烈酒，西索博得会变得更加醉醺醺。
-- 他在魅力和敏捷[检定](Ability_Check.md "属性检定")上承受[劣势](Disadvantage.md "劣势")，并开始幻视小魔鬼。
+- 他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上承受[劣势](Disadvantage.md "劣势")，并开始幻视小魔鬼。
 
 ## 区域：简易毒素
 

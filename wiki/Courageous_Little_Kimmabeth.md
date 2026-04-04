@@ -77,7 +77,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -125,7 +125,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -173,7 +173,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -199,19 +199,19 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 相关任务](#related-quests)
-- [3 战利品](#loot)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 相关任务](#相关任务)
+- [3 战利品](#战利品)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 出场
 
 勇敢的小基米斯被发现死在 [梨木之家](Peartree_House.md "Peartree House") 的地下室，他的心脏被取出，并在附近的一个火盆中燃烧。
 
-基米斯被 [腥红奥林](Orin.md "Orin") 杀害。他的尸体被用作奥林“艺术”的一部分，作为 [雅加苏拉](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "List of references to previous Baldur's Gate games") 的雕像——雅加苏拉是一个多世纪前被击败的火焰巨人种族的巴尔之子，与卡西·温斯顿的尸体一起。
+基米斯被 [奥林](Orin.md "奥林") 杀害。他的尸体被用作奥林“艺术”的一部分，作为 [雅加苏拉](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "List of references to previous Baldur's Gate games") 的雕像——雅加苏拉是一个多世纪前被击败的火焰巨人种族的巴尔之子，与卡西·温斯顿的尸体一起。
 
-基米斯的尸体可被搜刮，获得 [小丑的身体部位](Find_Dribbles_the_Clown.md "Find Dribbles the Clown") 之一和 [奥林的仪式笔记](Orin's_Ritual_Note.md "Orin's Ritual Note") 的第二份。
+基米斯的尸体可被搜刮，获得 [寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯") 之一和 [奥林的仪式笔记](Orin's_Ritual_Note.md "Orin's Ritual Note") 的第二份。
 
 ## 相关任务
 

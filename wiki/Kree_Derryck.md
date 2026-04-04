@@ -87,27 +87,27 @@
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人战斗训练**](Dwarven_Combat_Training.md "矮人战斗训练")
+- [矮人战斗训练](Dwarven_Combat_Training.md "矮人战斗训练")
 
 你对[战斧](Battleaxes.md "战斧")、[手斧](Handaxes.md "手斧")、[轻锤](Light_Hammers.md "轻锤")和[战锤](Warhammers.md "战锤")具有[熟练项](Proficiency.md "熟练项")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**催命警示**](Mortal_Reminder.md "催命警示")
+- [催命警示](Mortal_Reminder.md "催命警示")
 
 当你对一个生物造成[重击](Critical_Hit.md "重击")时，该生物和附近所有敌人必须通过[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[恐慌](Frightened_(Condition).md "恐慌 (状态)")直到其下一回合结束。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 

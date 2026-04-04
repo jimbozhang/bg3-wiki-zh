@@ -1,6 +1,6 @@
 # 守卫刻文：爆破
 
-**守卫刻文：爆破** 是一个 [3级防护学派法术](Spells.md "Spells")。此法术是3级防护学派法术 [守卫刻文](Glyph_of_Warding.md "Glyph_of_Warding") 的一个变体。它允许施法者铭刻一个守卫，当触发时会爆炸并将所有生物向后推开。
+**守卫刻文：爆破** 是一个 [法术](Spells.md "法术")。此法术是3级防护学派法术 [守卫刻文](Glyph_of_Warding.md "Glyph_of_Warding") 的一个变体。它允许施法者铭刻一个守卫，当触发时会爆炸并将所有生物向后推开。
 
 ## 描述
 
@@ -15,7 +15,7 @@
 消耗
 [动作](Actions.md#Resources "Actions") + [3级法术位](Spells.md#Spell_slots "Spells")
 详情
-[敏](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 射程：9米（30英尺）
 区域：4米（13英尺）半径
 推开距离：6米（20英尺）（从区域中心算起）

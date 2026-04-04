@@ -1,6 +1,6 @@
 # 神圣叱责
 
-**神圣叱责**是[奉献之誓](Oath_of_Devotion.md "Oath of Devotion")圣武士可用的[引导誓言](Channel_Oath_Charge.md "Channel Oath Charge")动作。此能力允许这些圣武士为目标赋予一个睚眦必报的光环，每次目标被近战攻击命中时，该光环都会对攻击者造成伤害。
+**神圣叱责**是[奉献之誓](Oath_of_Devotion.md "Oath of Devotion")圣武士可用的[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")动作。此能力允许这些圣武士为目标赋予一个睚眦必报的光环，每次目标被近战攻击命中时，该光环都会对攻击者造成伤害。
 
 ## 描述
 

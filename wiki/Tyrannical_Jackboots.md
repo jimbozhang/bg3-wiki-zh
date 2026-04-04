@@ -1,6 +1,6 @@
 # 残暴马靴
 
-残暴马靴是一双[靴子](Footwear.md "Footwear")，提供+1的[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "检定")和[豁免检定](Saving_throws.md "豁免检定")加值。
+残暴马靴是一双[靴子](Footwear.md "Footwear")，提供+1的[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")加值。
 
 穿着戈塔什的鞋子迈出的每一步，都反映了他本人的特质：迅捷、锐利且可怕。
 

@@ -92,19 +92,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离内于黑暗中视物。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -126,10 +126,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 相关文献](#related-literature)
-- [3 相关任务](#related-quests)
-- [4 备注](#notes)
+- [1 出场](#出场)
+- [2 相关文献](#相关文献)
+- [3 相关任务](#相关任务)
+- [4 备注](#备注)
 
 ## 出场
 

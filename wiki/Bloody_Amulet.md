@@ -24,7 +24,7 @@
 
   - 在[营地](Campsite.md "营地")，如果在[复仇之炉](Grymforge.md "复仇之炉")遇到他并邀请他作为[营地随从](Camp_Follower.md "营地随从")加入
 
-  - 在[终焉光芒](Last_Light_Inn.md "终焉光芒旅店")，如果他存活到[第二章](Act_2.md "第二章")
+  - 在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")，如果他存活到[第二章](Act_2.md "第二章")
 
 ## 备注
 

@@ -93,7 +93,7 @@
 
 - - ## 特性
 
-- [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
 每回合一次，如果你的目标生命值低于其最大值，你的武器攻击会造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
@@ -105,15 +105,15 @@
 
 当你施放一个造成与你龙族血统相关类型的伤害的法术时，你将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-- [**冲出重围**](Escape_the_Horde.md "冲出重围")
+- [冲出重围](Escape_the_Horde.md "冲出重围")
 
 对你的[借机攻击](Opportunity_Attack.md "借机攻击")具有[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
 
 你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
 
@@ -121,15 +121,15 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**多重攻击防御**](Multiattack_Defence.md "多重攻击防御")
+- [多重攻击防御](Multiattack_Defence.md "多重攻击防御")
 
 当敌人攻击你时，直到其下一回合开始，他们对你进行的额外[攻击掷骰](Attack_rolls.md "攻击掷骰")具有 -4 惩罚。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
-- [**钢铁意志**](Steel_Will.md "钢铁意志")
+- [钢铁意志](Steel_Will.md "钢铁意志")
 
 对抗[恐慌](Frightened_(Condition).md "恐慌（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -185,7 +185,7 @@
 
 - - ## 特性
 
-- [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
 每回合一次，如果你的目标生命值低于其最大值，你的武器攻击会造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
@@ -197,15 +197,15 @@
 
 当你施放一个造成与你龙族血统相关类型的伤害的法术时，你将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-- [**冲出重围**](Escape_the_Horde.md "冲出重围")
+- [冲出重围](Escape_the_Horde.md "冲出重围")
 
 对你的[借机攻击](Opportunity_Attack.md "借机攻击")具有[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
 
 你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
 
@@ -213,15 +213,15 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**多重攻击防御**](Multiattack_Defence.md "多重攻击防御")
+- [多重攻击防御](Multiattack_Defence.md "多重攻击防御")
 
 当敌人攻击你时，直到其下一回合开始，他们对你进行的额外[攻击掷骰](Attack_rolls.md "攻击掷骰")具有 -4 惩罚。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
-- [**钢铁意志**](Steel_Will.md "钢铁意志")
+- [钢铁意志](Steel_Will.md "钢铁意志")
 
 对抗[恐慌](Frightened_(Condition).md "恐慌（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -277,7 +277,7 @@
 
 - - ## 特性
 
-- [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
 每回合一次，如果你的目标生命值低于其最大值，你的武器攻击会造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
@@ -289,15 +289,15 @@
 
 当你施放一个造成与你龙族血统相关类型的伤害的法术时，你将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-- [**冲出重围**](Escape_the_Horde.md "冲出重围")
+- [冲出重围](Escape_the_Horde.md "冲出重围")
 
 对你的[借机攻击](Opportunity_Attack.md "借机攻击")具有[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
 
 你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
 
@@ -305,15 +305,15 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**多重攻击防御**](Multiattack_Defence.md "多重攻击防御")
+- [多重攻击防御](Multiattack_Defence.md "多重攻击防御")
 
 当敌人攻击你时，直到其下一回合开始，他们对你进行的额外[攻击掷骰](Attack_rolls.md "攻击掷骰")具有 -4 惩罚。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
-- [**钢铁意志**](Steel_Will.md "钢铁意志")
+- [钢铁意志](Steel_Will.md "钢铁意志")
 
 对抗[恐慌](Frightened_(Condition).md "恐慌（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -339,13 +339,13 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-  - [2.3 盟友](#allies)
-- [3 备注](#notes)
-- [4 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+  - [2.3 盟友](#盟友)
+- [3 备注](#备注)
+- [4 外部链接](#外部链接)
 
 ## 参与
 

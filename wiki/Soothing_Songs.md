@@ -4,7 +4,7 @@
 
 ## 描述
 
-当你使用 [诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）") 激励盟友时，他们也会恢复 1d6⁠⁠[生命值](Healing.md "治疗")。
+当你使用 [诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）") 激励盟友时，他们也会恢复 1d6⁠⁠[治疗](Healing.md "治疗")。
 
 ## 如何习得
 

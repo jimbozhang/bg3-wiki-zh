@@ -103,19 +103,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**自然防护**](Nature's_Ward.md "自然防护")
+- [自然防护](Nature's_Ward.md "自然防护")
 
 不会被元素生物和妖精[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫疾病。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -173,19 +173,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**自然防护**](Nature's_Ward.md "自然防护")
+- [自然防护](Nature's_Ward.md "自然防护")
 
 不会被元素生物和妖精[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫疾病。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -243,19 +243,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**自然防护**](Nature's_Ward.md "自然防护")
+- [自然防护](Nature's_Ward.md "自然防护")
 
 不会被元素生物和妖精[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫疾病。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -285,20 +285,20 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 巴尔神殿](#temple-of-bhaal)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 可观战利品](#notable-loot)
-- [3 注释](#notes)
-- [4 参考文献](#references)
+- [1 参与](#参与)
+  - [1.1 巴尔神殿](#巴尔神殿)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 可观战利品](#可观战利品)
+- [3 注释](#注释)
+- [4 参考文献](#参考文献)
 
 ## 参与
 
 ### 巴尔神殿
 
-如果邪念击败[腥红奥林](Orin.md "腥红奥林")并拥抱巴尔的馈赠，成为后者的选民，[竖琴手同盟](Harpers.md "竖琴手同盟")会在[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")入口处设下埋伏，前提是[贾希拉](Jaheira.md "贾希拉")还活着。
+如果邪念击败[奥林](Orin.md "奥林")并拥抱巴尔的馈赠，成为后者的选民，[竖琴手同盟](Harpers.md "竖琴手同盟")会在[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")入口处设下埋伏，前提是[贾希拉](Jaheira.md "贾希拉")还活着。
 
 在贾希拉的带领下，如果[明斯克](Minsc.md "明斯克")（如果被救出）也在场，竖琴手们守卫在通往神殿外的桥梁上，阻止队伍离开。队伍成员随后与贾希拉就邪念作为[巴尔](Bhaal.md "巴尔")选民的角色进行简短交流。如果明斯克在场，队伍可以利用他的[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")强迫他从背后刺伤贾希拉。这样做会立即杀死贾希拉，并触发与明斯克、叶歌和其余竖琴手的战斗。
 
@@ -311,7 +311,7 @@ UUID
 ### 攻击与能力
 
 [人类定身术](Hold_Person.md "人类定身术") (+ )
-定住一个类人生物敌人。他们不能[移动](Movement_speed.md "移动速度")、[行动](Action.md "动作")或[反应](Reaction_(Resource).md)。3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")来结束此状态。
+定住一个类人生物敌人。他们不能[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource).md)。3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")来结束此状态。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)

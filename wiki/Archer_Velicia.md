@@ -92,33 +92,33 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 18 / (+4) | 12 / (+1) | 10 / (0) | 14 / (+2) | 12 / (+1) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**惧怖伏兵**](Dread_Ambusher.md "惧怖伏兵")
+- [惧怖伏兵](Dread_Ambusher.md "惧怖伏兵")
 
 +3 先攻。在战斗的第一回合，进行一次额外的武器攻击，造成额外 1d8⁠⁠[物理](Physical.md "物理")伤害。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**游侠骑士**](Ranger_Knight.md "游侠骑士")
+- [游侠骑士](Ranger_Knight.md "游侠骑士")
 
 获得[历史的](History.md "历史的")和[重甲](Heavy_Armour.md "重甲")熟练项。
 
@@ -168,33 +168,33 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +4 | +7 | +1 | 0 | +2 | +1 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**惧怖伏兵**](Dread_Ambusher.md "惧怖伏兵")
+- [惧怖伏兵](Dread_Ambusher.md "惧怖伏兵")
 
 +3 先攻。在战斗的第一回合，进行一次额外的武器攻击，造成额外 1d8⁠⁠[物理](Physical.md "物理")伤害。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**游侠骑士**](Ranger_Knight.md "游侠骑士")
+- [游侠骑士](Ranger_Knight.md "游侠骑士")
 
 获得[历史的](History.md "历史的")和[重甲](Heavy_Armour.md "重甲")熟练项。
 
@@ -244,33 +244,33 @@
 | --- | --- | --- | --- |
 |  | 1 | 4 | 2 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**惧怖伏兵**](Dread_Ambusher.md "惧怖伏兵")
+- [惧怖伏兵](Dread_Ambusher.md "惧怖伏兵")
 
 +3 先攻。在战斗的第一回合，进行一次额外的武器攻击，造成额外 1d8⁠⁠[物理](Physical.md "物理")伤害。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**游侠骑士**](Ranger_Knight.md "游侠骑士")
+- [游侠骑士](Ranger_Knight.md "游侠骑士")
 
 获得[历史的](History.md "历史的")和[重甲](Heavy_Armour.md "重甲")熟练项。
 
@@ -296,13 +296,13 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 死者交谈](#speak-with-dead)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-  - [3.3 盟友](#allies)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 死者交谈](#死者交谈)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+  - [3.3 盟友](#盟友)
+- [4 外部链接](#外部链接)
 
 ## 出场
 
@@ -351,7 +351,7 @@ Stats
 
 射击敌人的大腿，并可能使其[移动速度](Movement_speed.md "移动速度")降低 50%。
 
-[体](Constitution.md "体") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

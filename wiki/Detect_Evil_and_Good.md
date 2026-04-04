@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取。但仍可通过第三方工具访问。
 
-**侦测善恶**是一个[等级 1 预言学派法术](Spells.md "Spells")。此法术允许施法者侦测[异怪](List_of_creature_types.md#Aberration "List of Creature Types")、[天界生物](List_of_creature_types.md#Celestial "List of Creature Types")、[元素生物](List_of_creature_types.md#Elemental "List of Creature Types")、[妖精](List_of_creature_types.md#Fey "List of Creature Types")、[邪魔](List_of_creature_types.md#Fiend "List of Creature Types")和[不死生物](List_of_creature_types.md#Undead "List of Creature Types")。
+**侦测善恶**是一个[法术](Spells.md "法术")。此法术允许施法者侦测[异怪](List_of_creature_types.md#Aberration "List of Creature Types")、[天界生物](List_of_creature_types.md#Celestial "List of Creature Types")、[元素生物](List_of_creature_types.md#Elemental "List of Creature Types")、[妖精](List_of_creature_types.md#Fey "List of Creature Types")、[邪魔](List_of_creature_types.md#Fiend "List of Creature Types")和[不死生物](List_of_creature_types.md#Undead "List of Creature Types")。
 
 ## 描述
 

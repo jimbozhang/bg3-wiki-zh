@@ -100,11 +100,11 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "Githyanki War Magic")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放[法术或戏法](Spells.md "Spells")后，可以进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
+在施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -154,15 +154,15 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "Githyanki War Magic")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放[法术或戏法](Spells.md "Spells")后，可以进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
+在施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic")伤害——灵吸怪奴役的伤痕深入骨髓。
 
@@ -254,7 +254,7 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 射程：自身
 
 [人类定身术](Hold_Person.md "Hold Person") (+ )
-定住一个类人生物敌人。他们不能[移动](Movement_speed.md "Movement Speed")、[行动](Action.md "Action")或[反应](Reaction_(Resource).md "Reaction (Resource)")。来自 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")以结束此状态。
+定住一个类人生物敌人。他们不能[移动](Movement_speed.md "Movement Speed")、[动作](Action.md "动作")或[反应](Reaction_(Resource).md "Reaction (Resource)")。来自 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")以结束此状态。
 
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)

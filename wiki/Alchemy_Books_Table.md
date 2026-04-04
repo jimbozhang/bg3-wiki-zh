@@ -19,7 +19,7 @@ _在炼金术书籍表上掷骰1-2次。_
 - [基础毒素配方](Toxin_Recipe.md "Toxin Recipe")
 - [奥术培养灵药配方](Recipe_of_Elixir_of_Arcane_Cultivation.md "Recipe of Elixir of Arcane Cultivation")
 - [黑暗视觉灵药配方](Recipe_of_Elixir_of_Darkvision.md "Recipe of Elixir of Darkvision")
-- [卓尔毒药配方](Recipe_of_Drow_Poison.md "Recipe of Drow Poison")
+- [卓尔毒药](Recipe_of_Drow_Poison.md "卓尔毒药")
 - [治疗药水配方](Potion_of_Healing_Recipe.md "Potion of Healing Recipe")
 - [高效治疗药剂篇](On_the_Greater_Healing_Potion.md "On The Greater Healing Potion")
 - [发光剂](Flask_of_Light.md "Flask of Light")

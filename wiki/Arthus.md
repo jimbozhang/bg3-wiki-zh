@@ -93,27 +93,27 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对陷阱、法术、地表的敏捷豁免具有优势。不能是目盲或失能状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对被[魅惑](Charmed_(Condition).md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")具有优势；不能被魔法[沉睡](Sleeping_(Condition).md "沉睡")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -169,27 +169,27 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对陷阱、法术、地表的敏捷豁免具有优势。不能是目盲或失能状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对被[魅惑](Charmed_(Condition).md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")具有优势；不能被魔法[沉睡](Sleeping_(Condition).md "沉睡")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -245,27 +245,27 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对陷阱、法术、地表的敏捷豁免具有优势。不能是目盲或失能状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对被[魅惑](Charmed_(Condition).md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")具有优势；不能被魔法[沉睡](Sleeping_(Condition).md "沉睡")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -299,15 +299,15 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 终焉光芒旅店](#last-light-inn)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 注释](#notes)
-- [6 参考文献](#references)
+- [1 出场](#出场)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 终焉光芒旅店](#终焉光芒旅店)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 注释](#注释)
+- [6 参考文献](#参考文献)
 
 ## 出场
 
@@ -315,13 +315,13 @@ Stats
 
 #### 终焉光芒旅店
 
-阿瑟斯只能在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")遇到，前提是队伍从[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")解救了[乌尔布伦](Rescue_Wulbren.md "解救乌尔布伦")和[提夫林](Rescue_the_Tieflings.md "解救提夫林")，并与他们一起乘船逃脱。<sup>[\[1\]](#cite_note-1)</sup>
+阿瑟斯只能在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")遇到，前提是队伍从[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")解救了[解救乌尔布伦](Rescue_Wulbren.md "解救乌尔布伦")和[解救提夫林](Rescue_the_Tieflings.md "解救提夫林")，并与他们一起乘船逃脱。<sup>[\[1\]](#cite_note-1)</sup>
 
 | 运动 | 体操 | 察觉技能 |
 | --- | --- | --- |
 | 2 | 2 | 1 |
 
-阿瑟斯在队伍抵达时与他们对话。阿瑟斯明确表示不赞成，<sup>[\[2\]](#cite_note-2)</sup> 评论说每个新来者都有规定。<sup>[\[3\]](#cite_note-3)</sup><sup>[\[4\]](#cite_note-4)</sup> 他拿出一个装有[夺心魔蝌蚪](Mind_Flayer_Tadpole_(creature).md "夺心魔蝌蚪（生物）")的[罐子](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")，对卸下的监狱逃犯讲话，告诉他们排队以检查他们是否有[灵吸怪](Illithid.md "灵吸怪")感染的迹象，这让囚犯们完全困惑。
+阿瑟斯在队伍抵达时与他们对话。阿瑟斯明确表示不赞成，<sup>[\[2\]](#cite_note-2)</sup> 评论说每个新来者都有规定。<sup>[\[3\]](#cite_note-3)</sup><sup>[\[4\]](#cite_note-4)</sup> 他拿出一个装有[夺心魔蝌蚪](Mind_Flayer_Tadpole_(creature).md "夺心魔蝌蚪（生物）")的[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")，对卸下的监狱逃犯讲话，告诉他们排队以检查他们是否有[灵吸怪](Illithid.md "灵吸怪")感染的迹象，这让囚犯们完全困惑。
 
 阿瑟斯接着走到每个被释放的囚犯面前站立。在逃犯中没有发现蝌蚪的迹象后，阿瑟斯放他们走并走开，然后一旦超出范围，他就完全从游戏中消失。
 
@@ -349,7 +349,7 @@ Stats
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")不能流血。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -363,7 +363,7 @@ Stats
 
 飞行生物不能被跛足。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
@@ -418,7 +418,7 @@ Stats
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) 在对话选项中，如果队伍已经去过那里，可以提议与[囚犯](Rescue_the_Tieflings.md "解救提夫林")一起逃往终焉光芒旅店；选择 _"我没有——但我会加入你们的船。我们看看会到哪里。"_ 如果队伍以前从未去过终焉光芒旅店，这个对话选项会将所有人（包括囚犯）送到那里，而队伍成员则会获得一个类似于第一次进入终焉光芒旅店的场景，从而阻止他们与阿瑟斯互动。
+1. [↑](#cite_ref-1) 在对话选项中，如果队伍已经去过那里，可以提议与[解救提夫林](Rescue_the_Tieflings.md "解救提夫林")一起逃往终焉光芒旅店；选择 _"我没有——但我会加入你们的船。我们看看会到哪里。"_ 如果队伍以前从未去过终焉光芒旅店，这个对话选项会将所有人（包括囚犯）送到那里，而队伍成员则会获得一个类似于第一次进入终焉光芒旅店的场景，从而阻止他们与阿瑟斯互动。
 1. [↑](#cite_ref-2) _"你们不能就这样靠岸开始卸下陌生人——有规定的，该死的。"_ — 阿瑟斯
 1. [↑](#cite_ref-3) _"未经测试，任何人不得进入——贾希拉指挥官的命令。"_ — 阿瑟斯
 1. [↑](#cite_4) _"任何人都可能被感染，所以我们检查所有新面孔。没有例外。"_ — 阿瑟斯

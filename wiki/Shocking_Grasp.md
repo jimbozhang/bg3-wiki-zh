@@ -2,7 +2,7 @@
 
 关于等效的 [四象宗](Way_of_the_Four_Elements.md "四象宗") 武僧法术，请参见 [风暴之触](Touch_of_the_Storm.md "风暴之触")。
 
-**电爪** 是一个 [戏法（塑能学派）](Spells.md "法术")。它进行一次近战攻击，造成 [闪电](Lightning.md "闪电") 伤害，并阻止目标采取 [反应](Actions.md#Reactions "动作")。
+**电爪** 是一个 [法术](Spells.md "法术")。它进行一次近战攻击，造成 [闪电](Lightning.md "闪电") 伤害，并阻止目标采取 [反应](Actions.md#Reactions "动作")。
 
 ## 描述
 

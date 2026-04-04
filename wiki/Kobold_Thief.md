@@ -63,19 +63,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离的黑暗中视物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下进行攻击掷骰和[察觉技能](Perception.md "察觉技能")检定时具有劣势。
 

@@ -65,19 +65,19 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -123,19 +123,19 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -181,23 +181,23 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
-- [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
 每回合一次，如果目标生命值低于其最大值，你的武器攻击会造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -205,12 +205,12 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 备注](#notes)
+- [1 参与](#参与)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 备注](#备注)
 
 ## 参与
 

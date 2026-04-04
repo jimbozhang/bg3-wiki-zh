@@ -6,18 +6,18 @@
 
 ## 目录
 
-- [1 维护报告](#mw-specialpagesgroup-maintenance)
-- [2 页面列表](#mw-specialpagesgroup-pages)
-- [3 账户管理](#mw-specialpagesgroup-login)
-- [4 用户与权限](#mw-specialpagesgroup-users)
-- [5 近期更改与日志](#mw-specialpagesgroup-changes)
-- [6 媒体报告与上传](#mw-specialpagesgroup-media)
-- [7 数据与工具](#mw-specialpagesgroup-wiki)
-- [8 重定向特殊页面](#mw-specialpagesgroup-redirects)
-- [9 高使用页面](#mw-specialpagesgroup-highuse)
-- [10 页面工具](#mw-specialpagesgroup-pagetools)
-- [11 Cargo](#mw-specialpagesgroup-cargo)
-- [12 其他特殊页面](#mw-specialpagesgroup-other)
+- [1 维护报告](#维护报告)
+- [2 页面列表](#页面列表)
+- [3 账户管理](#账户管理)
+- [4 用户与权限](#用户与权限)
+- [5 近期更改与日志](#近期更改与日志)
+- [6 媒体报告与上传](#媒体报告与上传)
+- [7 数据与工具](#数据与工具)
+- [8 重定向特殊页面](#重定向特殊页面)
+- [9 高使用页面](#高使用页面)
+- [10 页面工具](#页面工具)
+- [11 Cargo](#Cargo)
+- [12 其他特殊页面](#其他特殊页面)
 
 ## 维护报告
 

@@ -2,7 +2,7 @@
 
 另请参阅：[精金盾牌（被动特性）](Adamantine_Shield_(passive_feature)..md)
 
-精金盾牌是一种稀有[盾牌](Shields.md "Shields")，当敌人[近战攻击](melee.md "melee")未命中你时，会使其进入[手酸臂软](Reeling_(Condition)状态.md)。
+精金盾牌是一种稀有[盾牌](Shields.md "Shields")，当敌人[近战](melee.md "近战")未命中你时，会使其进入[手酸臂软](Reeling_(Condition)状态.md)。
 
 精金盾牌那暗淡的光泽预示着它能承受千百次打击——并且依然光亮如新。
 

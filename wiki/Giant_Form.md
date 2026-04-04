@@ -6,7 +6,7 @@
 
 ## 描述
 
-增长至骇人的体型。你的武器造成额外1d6点伤害，并获得27点[临时生命值](Temporary_Hit_Points.md "临时生命值")和力量[检定](Ability_Check.md "属性检定")与[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。
+增长至骇人的体型。你的武器造成额外1d6点伤害，并获得27点[临时生命值](Temporary_Hit_Points.md "临时生命值")和力量[属性检定](Ability_Check.md "属性检定")与[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。
 
 ## 属性
 

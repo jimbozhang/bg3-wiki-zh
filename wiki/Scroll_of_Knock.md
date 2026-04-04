@@ -18,7 +18,7 @@
 
 ## 获取地点
 
-- 在[石匠行会地下室](Mason's_Guild_Basement.md "石匠行会地下室")的后室，坐标 X: 134 Y: -738，需要通过 DC 10 的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "属性检定")发现通往后室的按钮
+- 在[石匠行会地下室](Mason's_Guild_Basement.md "石匠行会地下室")的后室，坐标 X: 134 Y: -738，需要通过 DC 10 的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")发现通往后室的按钮
 - 由[小柱](Skittle.md "Skittle")出售
 
 ---

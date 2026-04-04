@@ -2,7 +2,7 @@
 
 **龙裔威能：闪电**
 
-- 受影响实体在威吓和游说[检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "优势")，对[闪电](Lightning.md "闪电")伤害具有[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")前使用一次[闪电束](Lightning_Bolt.md "闪电束")。
+- 受影响实体在威吓和游说[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "优势")，对[闪电](Lightning.md "闪电")伤害具有[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")前使用一次[闪电束](Lightning_Bolt.md "闪电束")。
 
 ## 属性
 
@@ -23,7 +23,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体在威吓和游说[检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "优势")，对[闪电](Lightning.md "闪电")伤害具有[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")前使用一次[闪电束](Lightning_Bolt.md "闪电束")。
+- 受影响实体在威吓和游说[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "优势")，对[闪电](Lightning.md "闪电")伤害具有[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")前使用一次[闪电束](Lightning_Bolt.md "闪电束")。
 
 ---
 *Source: [Draconic Prowess: Lightning (Condition)](https://bg3.wiki/wiki/Draconic_Prowess:_Lightning_(Condition)*

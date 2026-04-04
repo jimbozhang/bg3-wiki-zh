@@ -15,7 +15,7 @@
 ## 备注
 
 - 巨人杀手的伤害部分对所有目标都有效。
-  - 然而，它不适用于[投掷攻击](Throw.md "投掷攻击")，即使通过[狂野魔法：武器灌注](Wild_Magic_colon__Weapon_Infusion.md "狂野魔法：武器灌注")或[元素切肉刀](Elemental_Cleaver.md "元素切肉刀")赋予了[相应属性](Thrown.md "投掷攻击")。
+  - 然而，它不适用于[投掷攻击](Throw.md "投掷攻击")，即使通过[狂野魔法：武器灌注](Wild_Magic_colon__Weapon_Infusion.md "狂野魔法：武器灌注")或[元素切肉刀](Elemental_Cleaver.md "元素切肉刀")赋予了[投掷攻击](Thrown.md "投掷攻击")。
 
 ---
 *Source: [Giantslayer](https://bg3.wiki/wiki/Giantslayer)*

@@ -8,19 +8,19 @@
 
 ## 目录
 
-- [1 基本流程](#basic-process)
-  - [1.1 制作](#crafting)
-  - [1.2 配方](#recipes)
-  - [1.3 寻找成分](#finding-ingredients)
-  - [1.4 炼金术商人](#alchemy-traders)
-- [2 消耗品配方](#consumable-recipes)
-  - [2.1 药水](#potions)
-  - [2.2 灵药](#elixirs)
-  - [2.3 爆弹](#grenades)
-  - [2.4 涂油](#coatings)
-- [3 萃取物](#extractions)
-- [4 成就](#achievements)
-- [5 备注](#notes)
+- [1 基本流程](#基本流程)
+  - [1.1 制作](#制作)
+  - [1.2 配方](#配方)
+  - [1.3 寻找成分](#寻找成分)
+  - [1.4 炼金术商人](#炼金术商人)
+- [2 消耗品配方](#消耗品配方)
+  - [2.1 药水](#药水)
+  - [2.2 灵药](#灵药)
+  - [2.3 爆弹](#爆弹)
+  - [2.4 涂油](#涂油)
+- [3 萃取物](#萃取物)
+- [4 成就](#成就)
+- [5 备注](#备注)
 
 ## 基本流程
 
@@ -74,7 +74,7 @@
 |
 
 - [阿拉吉·欧布罗扎](Araj_Oblodra.md "阿拉吉·欧布罗扎")<sup>[\[3\]](#cite_note-3)</sup>
-- [布鲁格](Blurg.md "布鲁格")<sup>[\[4\]](#cite_note-4)</sup>
+- [布尔格](Blurg.md "布尔格")<sup>[\[4\]](#cite_note-4)</sup>
 - [德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷") 或 [巴伦·骨篷](Baelen_Bonecloak.md "巴伦·骨篷")<sup>[\[5\]](#cite_note-5)</sup>
 - [秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")
 - [奥利弗·特福科](Oliver_Tefoco.md "奥利弗·特福科")
@@ -158,26 +158,26 @@
 
 | 灰烬 | 精华 | 盐 | 升华物 | 悬液 | 酸解物 |
 | --- | --- | --- | --- | --- | --- |
-| [凤仙花](Ashes_of_Balsam.md "凤仙花灰烬") | [橡子松露](Essence_of_Acorn_Truffle.md "橡子松露精华") | [食腐虫触手](Salts_of_Carrion_Crawler_Tentacle.md "食腐虫触手盐") | [秋水仙](Sublimate_of_Autumn_Crocus.md "秋水仙升华物") | [狂蛙人的小号](Suspension_of_Bullywug_Trumpet.md "狂蛙人的小号悬液") | [骨帽](Vitriol_of_Bonecap.md "骨帽酸解物") |
-| [匕根草](Ashes_of_Daggerroot.md "匕根草灰烬") | [眼魔之眼](Essence_of_Beholder_Eye.md "眼魔的眼色素") | [裂谷蔓晶](Salts_of_Chasm_Creeper.md "裂谷蔓晶盐") | [青足龙蛇鳞片](Sublimate_of_Behir_Scales.md "青足龙蛇鳞片升华物") | [脑脊液](Suspension_of_Cerebrospinal_Fluid.md "脑脊液悬液") | [神圣瘴气](Vitriol_of_Divine_Miasma.md "神圣瘴气酸解物") |
-| [龙蛋蘑菇](Ashes_of_Dragon_Egg_Mushroom.md "龙蛋蘑菇灰烬") | [水晶透镜](Essence_of_Crystalline_Lens.md "水晶透镜精华") | [云巨人指甲](Salts_of_Cloud_Giant_Fingernails.md "云巨人指甲盐") | [颠茄](Sublimate_of_Belladonna.md "颠茄升华物") | [霜冻蝾螈舌](Suspension_of_Frost_Salamander_Tongue.md "霜冻蝾螈舌悬液") | [罗丝的蜡烛](Vitriol_of_Lolth's_Candle.md "罗丝的蜡烛酸解物") |
-| [枯萎仙灵花](Ashes_of_Dried_Fey_Flower.md "枯萎仙灵花灰烬") | [小法妖尾](Essence_of_Gremishka_Tail.md "小法妖尾精华") | [铜刨花](Salts_of_Copper_Shavings.md "铜刨花盐") | [染血钩爪](Sublimate_of_Bloodstained_Hook.md "染血钩爪升华物") | [高斯眼魔](Suspension_of_Gauth_Eye.md "高斯眼魔悬液") | [夹竹桃](Vitriol_of_Oleander.md "夹竹桃粘液") |
-| [火焰琥珀](Ashes_of_Fire_Amber.md "火焰琥珀灰烬") | [夜光](Essence_of_Nightlight.md "夜光精华") | [死尸玫瑰](Salts_of_Corpse_Rose.md "死尸玫瑰之盐") | [鹰羽](Sublimate_of_Eagle_Feathers.md "鹰羽升华物") | [天蓝石](Suspension_of_Laculite.md "天蓝石悬液") | [溃烂肿瘤](Vitriol_of_Putrefied_Tumour.md "溃烂肿瘤晶盐") |
-| [鬣狗耳](Ashes_of_Hyena_Ear.md "鬣狗耳屎灰烬") | [异界神侍的羽毛](Essence_of_Planetar_Feather.md "异界神侍羽毛颜料") | [山丘巨人指甲](Salts_of_Hill_Giant_Fingernails.md "山丘巨人的指甲盖") | [霜冻之耳](Sublimate_of_Frosted_Ears.md "霜冻之耳升华物") | [芒草](Suspension_of_Mergrass.md "芒草悬液") | [黑根菌囊](Vitriol_of_Shadowroot_Sac.md "黑根菌粘液") |
-| [小魔鬼翼膜](Ashes_of_Imp_Patagium.md "小魔鬼翼膜灰") | [群集伞菌](Essence_of_Swarming_Toadstool.md "群集伞菌精华") | [艾蒿](Salts_of_Mugwort.md "艾蒿粉") | [加速孢子](Sublimate_of_Haste_Spores.md "加速孢子升华物") | [泥泞粘物](Suspension_of_Muddy_Goo.md "泥泞粘物") | [编织苔藓](Vitriol_of_Weavemoss.md "编织苔藓的污物") |
-| [魔蝠岩浆](Ashes_of_Mephit_Magma.md "魔蝠岩浆灰") | [森林之石](Essence_of_Sylvan_Stone.md "森林之石精华") | [麝香藤蔓](Salts_of_Musk_Creeper.md "麝香藤蔓盐") | [麒麟毛](Sublimate_of_Ki-Rin_Hair.md "麒麟毛熏香") | [夜兰花](Solution_of_Night_Orchid.md "夜兰花溶液") |  |
-| [座狼牙](Ashes_of_Worg_Fang.md "座狼牙灰烬") | [鬼头蘑菇孢子](Essence_of_Timmask_Spores.md "鬼头蘑菇孢子精华") | [游荡者的零嘴](Salts_of_Rogue's_Morsel.md "游荡者的零嘴盐") | [天马羽毛](Sublimate_of_Pegasus_Feathers.md "飞马羽升华物") | [诺斯异怪之眼](Suspension_of_Nothic_Eye.md "诺斯异怪之眼悬液") |  |
-| [飞龙毒刺](Ashes_of_Wyvern_Stinger.md "飞龙毒刺灰烬") | [独角兽角](Essence_of_Unicorn_Horn.md "独角兽角金属箔") | [树皮](Salts_of_Tree_Bark.md "树皮盐") | [毒素孢子](Sublimate_of_Poison_Spores.md "毒素孢子升华物") | [土黄果冻怪](Suspension_of_Ochre_Jelly.md "土黄果冻怪悬液") |  |
-|  |  | [铬绿水晶](Salts_of_Viridian_Crystal.md "铬绿水晶盐") | [狂乱之舌](Sublimate_of_Tongue_of_Madness.md "狂乱之舌升华物") | [紫虫粘液](Suspension_of_Purple_Worm_Slime.md "紫虫粘液悬液") |  |
-|  |  | [索尔石怪鳞片](Salts_of_Xorn_Scales.md "索尔石怪的鳞屑") | [湿地发蓬](Sublimate_of_Wispweed.md "湿地发蓬升华物") | [蛇毒](Suspension_of_Snake_Venom.md "蛇毒悬液") |  |
-|  |  |  |  | [蛛丝](Suspension_of_Spider_Silk.md "蛛丝悬液") |  |
+| [凤仙花灰烬](Ashes_of_Balsam.md "凤仙花灰烬") | [橡子松露精华](Essence_of_Acorn_Truffle.md "橡子松露精华") | [食腐虫触手](Salts_of_Carrion_Crawler_Tentacle.md "食腐虫触手盐") | [秋水仙升华物](Sublimate_of_Autumn_Crocus.md "秋水仙升华物") | [狂蛙人的小号悬液](Suspension_of_Bullywug_Trumpet.md "狂蛙人的小号悬液") | [骨帽酸解物](Vitriol_of_Bonecap.md "骨帽酸解物") |
+| [匕根草灰烬](Ashes_of_Daggerroot.md "匕根草灰烬") | [眼魔的眼色素](Essence_of_Beholder_Eye.md "眼魔的眼色素") | [裂谷蔓晶盐](Salts_of_Chasm_Creeper.md "裂谷蔓晶盐") | [青足龙蛇鳞片升华物](Sublimate_of_Behir_Scales.md "青足龙蛇鳞片升华物") | [脑脊液悬液](Suspension_of_Cerebrospinal_Fluid.md "脑脊液悬液") | [神圣瘴气酸解物](Vitriol_of_Divine_Miasma.md "神圣瘴气酸解物") |
+| [龙蛋蘑菇灰烬](Ashes_of_Dragon_Egg_Mushroom.md "龙蛋蘑菇灰烬") | [水晶透镜精华](Essence_of_Crystalline_Lens.md "水晶透镜精华") | [云巨人指甲盐](Salts_of_Cloud_Giant_Fingernails.md "云巨人指甲盐") | [颠茄升华物](Sublimate_of_Belladonna.md "颠茄升华物") | [霜冻蝾螈舌](Suspension_of_Frost_Salamander_Tongue.md "霜冻蝾螈舌悬液") | [罗丝的蜡烛酸解物](Vitriol_of_Lolth's_Candle.md "罗丝的蜡烛酸解物") |
+| [枯萎仙灵花](Ashes_of_Dried_Fey_Flower.md "枯萎仙灵花灰烬") | [小法妖尾精华](Essence_of_Gremishka_Tail.md "小法妖尾精华") | [铜刨花盐](Salts_of_Copper_Shavings.md "铜刨花盐") | [染血钩爪升华物](Sublimate_of_Bloodstained_Hook.md "染血钩爪升华物") | [高斯眼魔悬液](Suspension_of_Gauth_Eye.md "高斯眼魔悬液") | [夹竹桃粘液](Vitriol_of_Oleander.md "夹竹桃粘液") |
+| [火焰琥珀灰](Ashes_of_Fire_Amber.md "火焰琥珀灰") | [夜光精华](Essence_of_Nightlight.md "夜光精华") | [死尸玫瑰之盐](Salts_of_Corpse_Rose.md "死尸玫瑰之盐") | [鹰羽升华物](Sublimate_of_Eagle_Feathers.md "鹰羽升华物") | [天蓝石悬液](Suspension_of_Laculite.md "天蓝石悬液") | [溃烂肿瘤晶盐](Vitriol_of_Putrefied_Tumour.md "溃烂肿瘤晶盐") |
+| [鬣狗耳屎灰烬](Ashes_of_Hyena_Ear.md "鬣狗耳屎灰烬") | [异界神侍羽毛颜料](Essence_of_Planetar_Feather.md "异界神侍羽毛颜料") | [山丘巨人的指甲盖](Salts_of_Hill_Giant_Fingernails.md "山丘巨人的指甲盖") | [霜冻之耳升华物](Sublimate_of_Frosted_Ears.md "霜冻之耳升华物") | [芒草悬液](Suspension_of_Mergrass.md "芒草悬液") | [黑根菌粘液](Vitriol_of_Shadowroot_Sac.md "黑根菌粘液") |
+| [小魔鬼翼膜灰](Ashes_of_Imp_Patagium.md "小魔鬼翼膜灰") | [群集伞菌精华](Essence_of_Swarming_Toadstool.md "群集伞菌精华") | [艾蒿粉](Salts_of_Mugwort.md "艾蒿粉") | [加速孢子升华物](Sublimate_of_Haste_Spores.md "加速孢子升华物") | [泥泞粘物](Suspension_of_Muddy_Goo.md "泥泞粘物") | [编织苔藓的污物](Vitriol_of_Weavemoss.md "编织苔藓的污物") |
+| [魔蝠岩浆灰](Ashes_of_Mephit_Magma.md "魔蝠岩浆灰") | [森林之石精华](Essence_of_Sylvan_Stone.md "森林之石精华") | [麝香藤蔓盐](Salts_of_Musk_Creeper.md "麝香藤蔓盐") | [麒麟毛熏香](Sublimate_of_Ki-Rin_Hair.md "麒麟毛熏香") | [夜兰花溶液](Solution_of_Night_Orchid.md "夜兰花溶液") |  |
+| [座狼牙灰烬](Ashes_of_Worg_Fang.md "座狼牙灰烬") | [鬼头蘑菇孢子精华](Essence_of_Timmask_Spores.md "鬼头蘑菇孢子精华") | [游荡者的零嘴盐](Salts_of_Rogue's_Morsel.md "游荡者的零嘴盐") | [飞马羽升华物](Sublimate_of_Pegasus_Feathers.md "飞马羽升华物") | [诺斯异怪之眼悬液](Suspension_of_Nothic_Eye.md "诺斯异怪之眼悬液") |  |
+| [飞龙毒刺](Ashes_of_Wyvern_Stinger.md "飞龙毒刺灰烬") | [独角兽角金属箔](Essence_of_Unicorn_Horn.md "独角兽角金属箔") | [树皮盐](Salts_of_Tree_Bark.md "树皮盐") | [毒素孢子升华物](Sublimate_of_Poison_Spores.md "毒素孢子升华物") | [土黄果冻怪悬液](Suspension_of_Ochre_Jelly.md "土黄果冻怪悬液") |  |
+|  |  | [铬绿水晶盐](Salts_of_Viridian_Crystal.md "铬绿水晶盐") | [狂乱之舌](Sublimate_of_Tongue_of_Madness.md "狂乱之舌升华物") | [紫虫粘液](Suspension_of_Purple_Worm_Slime.md "紫虫粘液悬液") |  |
+|  |  | [索尔石怪的鳞屑](Salts_of_Xorn_Scales.md "索尔石怪的鳞屑") | [湿地发蓬升华物](Sublimate_of_Wispweed.md "湿地发蓬升华物") | [蛇毒悬液](Suspension_of_Snake_Venom.md "蛇毒悬液") |  |
+|  |  |  |  | [蛛丝悬液](Suspension_of_Spider_Silk.md "蛛丝悬液") |  |
 
 ## 萃取物
 
 | 灰烬 | 精华 | 盐 | 升华物 | 悬液 | 酸解物 |
 | --- | --- | --- | --- | --- | --- |
-| [凤仙花](Ashes_of_Balsam.md "凤仙花灰烬") | [橡子松露](Essence_of_Acorn_Truffle.md "橡子松露精华") | [食腐虫触手](Salts_of_Carrion_Crawler_Tentacle.md "食腐虫触手盐") | [秋水仙](Sublimate_of_Autumn_Crocus.md "秋水仙升华物") | [狂蛙人的小号](Suspension_of_Bullywug_Trumpet.md "狂蛙人的小号悬液") | [骨帽](Vitriol_of_Bonecap.md "骨帽酸解物") |
-| [火焰琥珀](Ashes_of_Fire_Amber.md "火焰琥珀灰烬") | [夜光](Essence_of_Nightlight.md "夜光精华") | [死尸玫瑰](Salts_of_Corpse_Rose.md "死尸玫瑰之盐") | [鹰羽](Sublimate_of_Eagle_Feathers.md "鹰羽升华物") | [天蓝石](Suspension_of_Laculite.md "天蓝石悬液") | [溃烂肿瘤](Vitriol_of_Putrefied_Tumour.md "溃烂肿瘤晶盐") |
+| [凤仙花灰烬](Ashes_of_Balsam.md "凤仙花灰烬") | [橡子松露精华](Essence_of_Acorn_Truffle.md "橡子松露精华") | [食腐虫触手](Salts_of_Carrion_Crawler_Tentacle.md "食腐虫触手盐") | [秋水仙升华物](Sublimate_of_Autumn_Crocus.md "秋水仙升华物") | [狂蛙人的小号悬液](Suspension_of_Bullywug_Trumpet.md "狂蛙人的小号悬液") | [骨帽酸解物](Vitriol_of_Bonecap.md "骨帽酸解物") |
+| [火焰琥珀灰](Ashes_of_Fire_Amber.md "火焰琥珀灰") | [夜光精华](Essence_of_Nightlight.md "夜光精华") | [死尸玫瑰之盐](Salts_of_Corpse_Rose.md "死尸玫瑰之盐") | [鹰羽升华物](Sublimate_of_Eagle_Feathers.md "鹰羽升华物") | [天蓝石悬液](Suspension_of_Laculite.md "天蓝石悬液") | [溃烂肿瘤晶盐](Vitriol_of_Putrefied_Tumour.md "溃烂肿瘤晶盐") |
 
 ## 成就
 

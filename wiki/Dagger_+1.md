@@ -1,6 +1,6 @@
 # 匕首 +1
 
-**匕首 +1** 是 [匕首](Daggers.md "Daggers") 武器家族中一种罕见的、轻度附魔（+1）的变体。它是一种 [简易近战武器](Weapons.md "Weapons")，可单手挥舞。作为 [灵巧](Finesse.md "Finesse") 武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种 [轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。其设计非常适合作为投射物 [投掷](Thrown.md "Thrown") 向敌人。
+**匕首 +1** 是 [匕首](Daggers.md "Daggers") 武器家族中一种罕见的、轻度附魔（+1）的变体。它是一种 [武器](Weapons.md "武器")，可单手挥舞。作为 [灵巧](Finesse.md "Finesse") 武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种 [轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。其设计非常适合作为投射物 [投掷攻击](Thrown.md "投掷攻击") 向敌人。
 
 这把匕首的握柄光滑轻巧，锯齿状的刀刃被磨成薄而锋利的边缘。
 
@@ -17,7 +17,7 @@
 单手
 [灵巧](Finesse.md "Finesse")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")
-[投掷](Thrown.md "Thrown")
+[投掷攻击](Thrown.md "投掷攻击")
 [可蘸取](Dippable.md "可蘸取")
 近战：1.5 米（5 英尺）
 重量：0.45 千克（0.9 磅）

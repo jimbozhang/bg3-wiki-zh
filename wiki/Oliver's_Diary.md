@@ -18,7 +18,7 @@
 
 - UID `S_SCL_OliversDiary_Diary` UUID `9d13c7a6-b991-4c01-8625-a0cdd244e2bc` ## 位置
 
-- 在[奥利弗的家](House_in_Deep_Shadows.md "深影之家")内一个上锁的木桌中
+- 在[深影之家](House_in_Deep_Shadows.md "深影之家")内一个上锁的木桌中
 
 ## 文本
 

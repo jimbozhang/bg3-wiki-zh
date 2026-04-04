@@ -63,19 +63,19 @@
 
 - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中看到，包括魔法黑暗，最远 24 米 (80 英尺)。
 
-- [**金戒指**](Gold_Plating.md "金戒指")
+- [金戒指](Gold_Plating.md "金戒指")
 
-此生物受到玛门的祝福，赋予其第二层金皮肤，使其[体质](Constitution.md "体质")提升至 20，基础[护甲等级](Armour_Class.md "护甲等级")提升至 15，并额外获得 66 点生命值⁠⁠[生命值](Healing.md "生命值")。
+此生物受到玛门的祝福，赋予其第二层金皮肤，使其[体质](Constitution.md "体质")提升至 20，基础[护甲等级](Armour_Class.md "护甲等级")提升至 15，并额外获得 66 点生命值⁠⁠[治疗](Healing.md "治疗")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

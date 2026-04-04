@@ -96,15 +96,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -154,15 +154,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -212,15 +212,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -258,7 +258,7 @@ UUID
 
 如果队伍在解决[卡哈](Kagha.md "Kagha")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Grove and Ikaron's corpse can be found among the pile of refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village")。
 
-如果[明萨拉](Minthara.md "Minthara")和她的突袭部队准备袭击翠绿林地，伊卡隆会守卫并保护[隐蔽房间](Secluded_Chamber.md "Secluded Chamber")中避难的其他非战斗提夫林。突袭结束后，或者[地精营地](Goblin_Camp.md "Goblin Camp")的地精被击败，提夫林们准备离开时，伊卡隆会参加[营地](Campsite.md "Campsite")的庆祝活动，但会在远处沉思。他很恼火其他人庆祝而不是哀悼阵亡的战友。如果角色通过[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "Ability check")，可以说服他加入[庆祝活动](Tiefling_Refugee_Celebration.md "Tiefling Refugee Celebration")。
+如果[明萨拉](Minthara.md "Minthara")和她的突袭部队准备袭击翠绿林地，伊卡隆会守卫并保护[隐蔽房间](Secluded_Chamber.md "Secluded Chamber")中避难的其他非战斗提夫林。突袭结束后，或者[地精营地](Goblin_Camp.md "Goblin Camp")的地精被击败，提夫林们准备离开时，伊卡隆会参加[营地](Campsite.md "Campsite")的庆祝活动，但会在远处沉思。他很恼火其他人庆祝而不是哀悼阵亡的战友。如果角色通过[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")，可以说服他加入[庆祝活动](Tiefling_Refugee_Celebration.md "Tiefling Refugee Celebration")。
 
 ### 第二幕
 

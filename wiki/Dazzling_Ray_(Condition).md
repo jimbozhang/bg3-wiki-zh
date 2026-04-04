@@ -2,7 +2,7 @@
 
 **炫目射线**
 
-- 受影响的生物可以发射一道[炫目射线](Recast_Dazzling_Ray.md "重新施展炫目射线")。
+- 受影响的生物可以发射一道[重新施展炫目射线](Recast_Dazzling_Ray.md "重新施展炫目射线")。
 
 ## 属性
 
@@ -23,7 +23,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 受影响的生物可以发射一道[炫目射线](Recast_Dazzling_Ray.md "重新施展炫目射线")。
+- 受影响的生物可以发射一道[重新施展炫目射线](Recast_Dazzling_Ray.md "重新施展炫目射线")。
 
 ---
 *Source: [Dazzling Ray (Condition)](https://bg3.wiki/wiki/Dazzling_Ray_(Condition)*

@@ -2,7 +2,7 @@
 
 **水元素虹吸**
 
-- 附近的一个水元素执政官使受影响实体获得对[寒冷伤害](Immune.md "免疫")的[免疫](Immune.md "免疫")，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加额外的3d8⁠⁠[寒冷](Cold.md "寒冷")伤害。
+- 附近的一个水元素执政官使受影响实体获得对[免疫](Immune.md "免疫")的[免疫](Immune.md "免疫")，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加额外的3d8⁠⁠[寒冷](Cold.md "寒冷")伤害。
 
 - 受影响实体还临时获得[寒冰锥](Cone_of_Cold.md "寒冰锥")的使用权，并且每[驱散](Actions.md#Reactions "动作")获得一个额外的[反应](Actions.md#Reactions "动作")。
 
@@ -24,7 +24,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 附近的一个水元素执政官使受影响实体获得对[寒冷伤害](Immune.md "免疫")的[免疫](Immune.md "免疫")，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加额外的3d8⁠⁠[寒冷](Cold.md "寒冷")伤害。
+- 附近的一个水元素执政官使受影响实体获得对[免疫](Immune.md "免疫")的[免疫](Immune.md "免疫")，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加额外的3d8⁠⁠[寒冷](Cold.md "寒冷")伤害。
 
 - 受影响实体还临时获得[寒冰锥](Cone_of_Cold.md "寒冰锥")的使用权，并且每[驱散](Actions.md#Reactions "动作")获得一个额外的[反应](Actions.md#Reactions "动作")。
 

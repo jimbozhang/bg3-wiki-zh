@@ -23,14 +23,14 @@ Modding指南
 
 ## 目录
 
-- [1 示例模板](#sample-templates)
-- [2 文件概述](#file-overview)
-- [3 Meshes.lsx](#meshes.lsx)
-- [4 材质和纹理.lsx](#materials-and-texture-.lsx)
-- [5 RootTemplate](#roottemplate)
-- [6 护甲和被动](#armor-and-passives)
-- [7 Loca](#loca)
-- [8 TreasureTable](#treasuretable)
+- [1 示例模板](#示例模板)
+- [2 文件概述](#文件概述)
+- [3 Meshes.lsx](#Meshes.lsx)
+- [4 材质和纹理.lsx](#材质和纹理.lsx)
+- [5 RootTemplate](#RootTemplate)
+- [6 护甲和被动](#护甲和被动)
+- [7 Loca](#Loca)
+- [8 TreasureTable](#TreasureTable)
 
 ## 示例模板
 

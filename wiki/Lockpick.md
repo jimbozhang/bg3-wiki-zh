@@ -13,7 +13,7 @@
 - 价格：25 gp
 - UID `TOOL_GEN_ThievesTools_A_Open_A` UUID `e32a200c-5b63-414d-ae57-00e7b38f125b` Stats `OBJ_Kit_ThievesTools` ### 效果
 
-**盗贼工具**使你能够基于[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来开锁。工具会在尝试失败时损坏；然而，尽管被标记为消耗品，它在尝试成功时_不会_被吞噬。
+**盗贼工具**使你能够基于[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来开锁。工具会在尝试失败时损坏；然而，尽管被标记为消耗品，它在尝试成功时_不会_被吞噬。
 
 ## 获取地点
 

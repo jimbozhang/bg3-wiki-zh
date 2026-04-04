@@ -35,7 +35,7 @@ UID
 
 ## 注释
 
-- 尽管该特性的描述如此，但动作是否具有敏捷豁免检定或是否是法术并不严格重要。根据经验，涉及敏捷豁免检定的爆炸可以被格挡（例如 [火球术术](Fireball.md "火球术术")，但不包括 [圣火术](Sacred_Flame.md "圣火术")，后者使用敏捷豁免检定但是单目标）。然而，并非所有此类爆炸都如此，并且有些没有敏捷豁免检定的动作也可以被格挡（例如 [霜冻吐息](Frost_Breath.md "霜冻吐息")，它使用体质豁免检定）。请参考 [此表格](CanAreaDamageEvade_(spell_flag).md#List_of_actions_with_CanAreaDamageEvade).md#List_of_actions_with_CanAreaDamageEvade> "CanAreaDamageEvade (spell flag)") 以获取可被此特性格挡的动作的完整列表。
+- 尽管该特性的描述如此，但动作是否具有敏捷豁免检定或是否是法术并不严格重要。根据经验，涉及敏捷豁免检定的爆炸可以被格挡（例如 [火球术](Fireball.md "火球术")，但不包括 [圣火术](Sacred_Flame.md "圣火术")，后者使用敏捷豁免检定但是单目标）。然而，并非所有此类爆炸都如此，并且有些没有敏捷豁免检定的动作也可以被格挡（例如 [霜冻吐息](Frost_Breath.md "霜冻吐息")，它使用体质豁免检定）。请参考 [此表格](CanAreaDamageEvade_(spell_flag).md#List_of_actions_with_CanAreaDamageEvade).md#List_of_actions_with_CanAreaDamageEvade> "CanAreaDamageEvade (spell flag)") 以获取可被此特性格挡的动作的完整列表。
 
 ## 错误
 

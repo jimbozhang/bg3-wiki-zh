@@ -92,19 +92,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -152,19 +152,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -212,19 +212,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -259,9 +259,9 @@ Stats
 
 在队伍抵达之前，科利斯被[至上真神教](Cult_of_the_Absolute.md "至上真神教")洗脑并成为[真魂者](True_Soul.md "真魂者")。受[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")的命令，负责侦察并定位非信徒的巢穴<sup>[\[2\]](#cite_note-2)</sup>，她从[月出之塔](Moonrise_Towers.md "月出之塔")向东出发，前往[废弃战场](Ruined_Battlefield.md "废弃战场")附近的村庄废墟，在那里她被阴影跟踪并试图躲避，但最终还是在之后死亡。
 
-对她使用[死者交谈](Speak_with_Dead.md "死者交谈")会揭示她曾被幽影獒犬攻击，但通过用[不灭明焰](Continual Flame.md "不灭明焰")法术[点燃火炬](Standing_Torch.md "立式火炬")击退了它们。不幸的是，她的安全区被幽影獒犬包围，她无法离开安全警戒线，很快就在完成任务前因饥饿和口渴而死亡。
+对她使用[死者交谈](Speak_with_Dead.md "死者交谈")会揭示她曾被幽影獒犬攻击，但通过用[不灭明焰](Continual Flame.md "不灭明焰")法术[立式火炬](Standing_Torch.md "立式火炬")击退了它们。不幸的是，她的安全区被幽影獒犬包围，她无法离开安全警戒线，很快就在完成任务前因饥饿和口渴而死亡。
 
-队伍可以摧毁[火炬](Standing_Torch.md "立式火炬")，这会触发三只[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")的攻击，由一只[幽影獒犬首领](Shadow_Mastiff_Alpha.md "幽影獒犬首领")带领。
+队伍可以摧毁[立式火炬](Standing_Torch.md "立式火炬")，这会触发三只[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")的攻击，由一只[幽影獒犬首领](Shadow_Mastiff_Alpha.md "幽影獒犬首领")带领。
 
 ## 相关文献
 

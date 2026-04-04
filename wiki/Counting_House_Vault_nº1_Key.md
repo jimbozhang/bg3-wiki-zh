@@ -18,7 +18,7 @@
 
 - UID `LOW_CountingHouse_BigSafe01_Key` UUID `0ce654c7-e4e6-4613-878e-c534a4141d9e` ## 获取地点
 
-- 由[格雷斯利船长](Quenora_Grisly.md "奎诺拉·格雷斯利")携带
+- 由[奎诺拉·格雷斯利](Quenora_Grisly.md "奎诺拉·格雷斯利")携带
 
 ## 用途
 

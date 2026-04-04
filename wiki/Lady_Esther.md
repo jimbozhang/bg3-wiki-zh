@@ -93,15 +93,15 @@
 
 ## 特性
 
-- [**对决**](Duelling.md "Duelling")
+- [对决](Duelling.md "对决")
 
 当你单手持用一件非双手的近战武器，且另一只手未持武器时，该武器造成额外 2 点伤害。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -149,15 +149,15 @@
 
 ## 特性
 
-- [**对决**](Duelling.md "Duelling")
+- [对决](Duelling.md "对决")
 
 当你单手持用一件非双手的近战武器，且另一只手未持武器时，该武器造成额外 2 点伤害。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -205,15 +205,15 @@
 
 ## 特性
 
-- [**对决**](Duelling.md "Duelling")
+- [对决](Duelling.md "对决")
 
 当你单手持用一件非双手的近战武器，且另一只手未持武器时，该武器造成额外 2 点伤害。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -243,25 +243,25 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第三幕](#act-three)
-- [2 商店](#store)
-  - [2.1 出售的著名物品](#notable-items-sold)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战术](#tactics)
-- [4 战利品](#loot)
-- [5 相关文献](#related-literature)
-- [6 相关任务](#related-quests)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第三幕](#第三幕)
+- [2 商店](#商店)
+  - [2.1 出售的著名物品](#出售的著名物品)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战术](#战术)
+- [4 战利品](#战利品)
+- [5 相关文献](#相关文献)
+- [6 相关任务](#相关任务)
 
 ## 出场
 
 ### 第一幕
 
-埃斯特是受雇于[光耀会](Society_of_Brilliance.md "Society of Brilliance")的冒险者，任务是获取一枚[吉斯洋基人](Githyanki.md "Githyanki")蛋用于长期培育实验。与埃斯特会面时，她会要求队伍从[瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery")内的育幼所偷取一枚蛋。队伍可以通过通过 DC 21 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check")说服她预付报酬，至少获得 200 金币，且不影响伙伴好感度。
+埃斯特是受雇于[光耀会](Society_of_Brilliance.md "Society of Brilliance")的冒险者，任务是获取一枚[吉斯洋基人](Githyanki.md "Githyanki")蛋用于长期培育实验。与埃斯特会面时，她会要求队伍从[瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery")内的育幼所偷取一枚蛋。队伍可以通过通过 DC 21 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定")说服她预付报酬，至少获得 200 金币，且不影响伙伴好感度。
 
-队伍可以给埃斯特一枚[枭熊蛋](Owlbear_Egg.md "Owlbear Egg")，并通过通过 DC 21 [自然](Nature.md "Nature") [检定](Ability_Check.md "Ability check")说服她这是吉斯洋基蛋，或通过通过 DC 21 [欺瞒](Deception.md "Deception") [检定](Ability_Check.md "Ability check")说服她这比吉斯洋基蛋更有价值，或通过通过 DC 21 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check")说服她欺骗雇主。
+队伍可以给埃斯特一枚[枭熊蛋](Owlbear_Egg.md "Owlbear Egg")，并通过通过 DC 21 [自然](Nature.md "Nature") [属性检定](Ability_Check.md "属性检定")说服她这是吉斯洋基蛋，或通过通过 DC 21 [欺瞒](Deception.md "Deception") [属性检定](Ability_Check.md "属性检定")说服她这比吉斯洋基蛋更有价值，或通过通过 DC 21 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定")说服她欺骗雇主。
 
 如果在[寻找洛山达之血](Find_the_Blood_of_Lathander.md "Find the Blood of Lathander")期间整个修道院被摧毁，埃斯特会在她的营地目睹建筑倒塌。如果之后与她交谈，她会抱怨这场灾难毁了她的计划，如果队伍声称对此负责，她甚至会斥责队伍“粗俗”。
 

@@ -1,6 +1,6 @@
 # 麒麟毛
 
-**麒麟毛**是一种[炼金术材料](Alchemy.md "炼金术")。将3个麒麟毛组合可制成[麒麟毛熏香](Sublimate_of_Ki-Rin_Hair.md "麒麟毛熏香")，后者可用于制作[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")。
+**麒麟毛**是一种[炼金术](Alchemy.md "炼金术")。将3个麒麟毛组合可制成[麒麟毛熏香](Sublimate_of_Ki-Rin_Hair.md "麒麟毛熏香")，后者可用于制作[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")。
 
 许多人将⁠[麒麟](https://forgottenrealms.fandom.com/wiki/Ki-rin)视为好运的使者，这并非没有道理——即使是最微小的麒麟毛也蕴含着丰富的仁慈魔法。
 

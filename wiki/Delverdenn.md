@@ -97,23 +97,23 @@
 
 - - - ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力") 调整值添加到 [魔能爆](Eldritch_Blast.md "魔能爆") 伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对 [中毒](Poisoned_(Condition).md "中毒") 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**魔能短矛**](Eldritch_Spear.md "魔能短矛")
+- [魔能短矛](Eldritch_Spear.md "魔能短矛")
 
 你的 [魔能爆](Eldritch_Blast.md "魔能爆") 范围增加一半。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -167,23 +167,23 @@
 
 - - - ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力") 调整值添加到 [魔能爆](Eldritch_Blast.md "魔能爆") 伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对 [中毒](Poisoned_(Condition).md "中毒") 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**魔能短矛**](Eldritch_Spear.md "魔能短矛")
+- [魔能短矛](Eldritch_Spear.md "魔能短矛")
 
 你的 [魔能爆](Eldritch_Blast.md "魔能爆") 范围增加一半。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -237,23 +237,23 @@
 
 - - - ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力") 调整值添加到 [魔能爆](Eldritch_Blast.md "魔能爆") 伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对 [中毒](Poisoned_(Condition).md "中毒") 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")，并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**魔能短矛**](Eldritch_Spear.md "魔能短矛")
+- [魔能短矛](Eldritch_Spear.md "魔能短矛")
 
 你的 [魔能爆](Eldritch_Blast.md "魔能爆") 范围增加一半。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -275,11 +275,11 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 错误](#bugs)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 错误](#错误)
 
 ## 出场
 

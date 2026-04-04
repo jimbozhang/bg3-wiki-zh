@@ -1,6 +1,6 @@
 # 真菌迷药
 
-真菌迷药是一种[消耗品](Consumables.md "消耗品")（[手雷](Grenades.md "手雷")），可[投掷](Thrown.md "投掷")以散播[鬼头蘑菇孢子](Timmask_Spores_(cloud).md "鬼头蘑菇孢子（云）")。
+真菌迷药是一种[消耗品](Consumables.md "消耗品")（[手雷](Grenades.md "手雷")），可[投掷攻击](Thrown.md "投掷攻击")以散播[鬼头蘑菇孢子](Timmask_Spores_(cloud).md "鬼头蘑菇孢子（云）")。
 
 吸入错误的孢子甚至能将最敏锐的智力溶解成滋滋作响的困惑。
 

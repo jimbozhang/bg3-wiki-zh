@@ -69,7 +69,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 20 / (+5) | 11 / (0) | 20 / (+5) | 12 / (+1) | 16 / (+3) | 18 / (+4) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -89,19 +89,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -155,7 +155,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +9 | 0 | +9 | +1 | +7 | +4 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -175,19 +175,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -241,7 +241,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 20 / (+5) | 11 / (0) | 20 / (+5) | 12 / (+1) | 16 / (+3) | 18 / (+4) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -261,19 +261,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -303,10 +303,10 @@ Stats
 
 ## 目录
 
-- [1 法术与能力](#spells-and-abilities)
-- [2 重要战利品](#notable-loot)
-- [3 画廊](#gallery)
-- [4 外部链接](#external-links)
+- [1 法术与能力](#法术与能力)
+- [2 重要战利品](#重要战利品)
+- [3 画廊](#画廊)
+- [4 外部链接](#外部链接)
 
 ## 法术与能力
 
@@ -320,7 +320,7 @@ Stats
 
 你的武器在攻击时吸收你的怒火，可能使目标[恐慌](Frightened_(Condition).md "恐慌 (状态)")。
 
-[感](Wisdom.md "感") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围: 标准武器范围
 
 [惊惧斩](Staggering_Smite.md "惊惧斩") (+ + ) – [长剑](Longsword.md "长剑")
@@ -333,7 +333,7 @@ Stats
 
 可能使目标[惊惧](Staggering_Smite_(Condition).md "惊惧斩 (状态)")。目标无法进行反应且更可能未命中。
 
-[感](Wisdom.md "感") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围: 标准武器范围
 
 ## 重要战利品

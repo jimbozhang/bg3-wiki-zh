@@ -104,7 +104,7 @@
 [抓钩拉扯](Grasping_Pull.md "Grasping Pull") ()
 抓住目标并将其拉向你 9 m / 30 ft。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 范围：9 m (30 ft)
 充能：每驱散
 

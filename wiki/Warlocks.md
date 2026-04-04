@@ -10,37 +10,37 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 副职](#subclasses)
-- [3 职业进阶](#class-progression)
-- [4 职业信息](#class-information)
-  - [4.1 属性](#attributes)
-  - [4.2 初始熟练项](#starting-proficiencies)
-  - [4.3 多职业熟练项](#multiclass-proficiencies)
-- [5 等级进阶](#level-progression)
-  - [5.1 等级 1](#level-1)
+- [1 概述](#概述)
+- [2 副职](#副职)
+- [3 职业进阶](#职业进阶)
+- [4 职业信息](#职业信息)
+  - [4.1 属性](#属性)
+  - [4.2 初始熟练项](#初始熟练项)
+  - [4.3 多职业熟练项](#多职业熟练项)
+- [5 等级进阶](#等级进阶)
+  - [5.1 等级 1](#等级-1)
     - [5.1.1 选择副职（庇护者）](#select-a-subclass-(patron))
-    - [5.1.2 副职特性 - _扩展法术列表_](#subclass-features--_Expanded_Spell_List)
+    - [5.1.2 副职特性 - _扩展法术列表_](#副职特性---_扩展法术列表_)
   - [5.2 等级 2](#level-2)
-  - [5.3 等级 3](#level-3)
-    - [5.3.1 副职特性 - _扩展法术列表_](#subclass-features--_Expanded_Spell_List_2)
+  - [5.3 等级 3](#等级-3)
+    - [5.3.1 副职特性 - _扩展法术列表_](#副职特性---_扩展法术列表_)
   - [5.4 等级 4](#level-4)
-  - [5.5 等级 5](#level-5)
-    - [5.5.1 副职特性 - _扩展法术列表_](#subclass-features--_Expanded_Spell_List_3)
+  - [5.5 等级 5](#等级-5)
+    - [5.5.1 副职特性 - _扩展法术列表_](#副职特性---_扩展法术列表_)
   - [5.6 等级 6](#level-6)
-    - [5.6.1 副职特性](#subclass-features)
-  - [5.7 等级 7](#level-7)
-    - [5.7.1 副职特性 - _扩展法术列表_](#subclass-features--_Expanded_Spell_List_4)
+    - [5.6.1 副职特性](#副职特性)
+  - [5.7 等级 7](#等级-7)
+    - [5.7.1 副职特性 - _扩展法术列表_](#副职特性---_扩展法术列表_)
   - [5.8 等级 8](#level-8)
-  - [5.9 等级 9](#level-9)
-    - [5.9.1 副职特性 - _扩展法术列表_](#subclass-features--_Expanded_Spell_List_5)
-  - [5.10 等级 10](#level-10)
-    - [5.10.1 副职特性](#subclass-feature)
-  - [5.11 等级 11](#level-11)
+  - [5.9 等级 9](#等级-9)
+    - [5.9.1 副职特性 - _扩展法术列表_](#副职特性---_扩展法术列表_)
+  - [5.10 等级 10](#等级-10)
+    - [5.10.1 副职特性](#副职特性)
+  - [5.11 等级 11](#等级-11)
   - [5.12 等级 12](#level-12)
-- [6 著名邪术师](#notable-warlocks)
-- [7 另见](#see-also)
-- [8 外部链接](#external-links)
+- [6 著名邪术师](#著名邪术师)
+- [7 另见](#另见)
+- [8 外部链接](#外部链接)
 
 ## 概述
 
@@ -113,7 +113,7 @@
 [轻甲](Armour.md#List_of_light_armour "护甲")
 熟练技能（选择2项）
 [奥秘](Arcana.md "奥秘"), [欺瞒](Deception.md "欺瞒"), [历史的](History.md "历史的"), [威吓](Intimidation.md "威吓"), [调查](Investigation.md "调查"), [自然](Nature.md "自然"), [宗教](Religion.md "宗教")
-你获得对每个你[熟练](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。在角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
+你获得对每个你[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。在角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
 初始装备
 [布甲](Padded_Armour.md "布甲"), [匕首](Dagger.md "匕首"), [简易靴子](Simple_Boots.md "简易靴子")
 
@@ -165,7 +165,7 @@
 
 - [魅惑人类](Charm_Person.md "魅惑人类") *[脚底抹油](Expeditious_Retreat.md "脚底抹油")* [炼狱叱喝](Hellish_Rebuke.md "炼狱叱喝")
 
-- [灾祸术](Hex.md "灾祸术") *[防护善恶](Protection_from_Evil_and_Good.md "防护善恶")* [巫术箭](Witch_Bolt.md "巫术箭") #### 选择副职（庇护者）
+- [脆弱诅咒](Hex.md "脆弱诅咒") *[防护善恶](Protection_from_Evil_and_Good.md "防护善恶")* [巫术箭](Witch_Bolt.md "巫术箭") #### 选择副职（庇护者）
 
 | 邪术师职业进阶 | 每[法术等级](Spells#Spell_Level.md#Spell_Level "法术")的[法术位](Spells#Spell_Slots.md#Spell_Slots "法术") |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -254,7 +254,7 @@
 
 | [至高妖精](The_Archfey.md "至高妖精") | [邪魔](The_Fiend.md "邪魔") | [旧日支配者](The_Great_Old_One.md "旧日支配者") | [魔契刃卫](The_Hexblade.md "魔契刃卫") |
 | --- | --- | --- | --- |
-| [妖火](Faerie_Fire.md "妖火") [睡眠术](Sleep.md "睡眠术") | [燃烧之手](Burning_Hands.md "燃烧之手") [命令术](Command.md "命令术") | [不谐低语](Dissonant_Whispers.md "不谐低语") [塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术") | [护盾术](Shield_(spell).md "护盾术") [激愤斩](Wrathful_Smite.md "激愤斩") |
+| [妖火](Faerie_Fire.md "妖火") [睡眠](Sleep.md "睡眠") | [燃烧之手](Burning_Hands.md "燃烧之手") [命令术](Command.md "命令术") | [不谐低语](Dissonant_Whispers.md "不谐低语") [塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术") | [护盾术](Shield_(spell).md "护盾术") [激愤斩](Wrathful_Smite.md "激愤斩") |
 
 - [安定心神](Calm_Emotions.md "安定心神") * [魅影之力](Phantasmal_Force.md "魅影之力")
 |
@@ -292,7 +292,7 @@
 你可以使用邪术师[法术位](Spell_Slot.md "法术位")施展[降咒](Bestow_Curse.md "降咒")。
 
 [精神泥沼](Mire_the_Mind.md "精神泥沼")
-你可以使用邪术师[法术位](Spell_Slot.md "法术位")施展[缓慢术](Slow.md "缓慢术")。
+你可以使用邪术师[法术位](Spell_Slot.md "法术位")施展[减速](Slow.md "减速")。
 
 [加深魔契](Deepened_Pact.md "加深魔契")
 你的异界庇护者对你的服务感到满意，在你的契约条款中增添了新的恩泽。
@@ -310,7 +310,7 @@
 新可用3环法术
 
 - [法术反制](Counterspell.md "法术反制")
-- [恐惧术](Fear.md "恐惧术") *[气化形体](Gaseous_Form.md "气化形体")* [给予飞行](Grant_Flight.md "给予飞行") *[哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴")* [催眠图纹](Hypnotic_Pattern.md "催眠图纹") * [移除诅咒](Remove_Curse.md "移除诅咒")
+- [恐惧](Fear.md "恐惧") *[气化形体](Gaseous_Form.md "气化形体")* [给予飞行](Grant_Flight.md "给予飞行") *[哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴")* [催眠图纹](Hypnotic_Pattern.md "催眠图纹") * [移除诅咒](Remove_Curse.md "移除诅咒")
 - [吸血鬼之触](Vampiric_Touch.md "吸血鬼之触") #### 副职特性 - _扩展法术列表_
 
 | 魔契 | 描述 | 赠予 |
@@ -319,20 +319,20 @@
 | [链之魔契](Pact_of_the_Chain.md "链之魔契") | 你的魔宠获得[额外攻击](Extra_Attack.md "额外攻击")。 |  |
 | [书之魔契](Pact_of_the_Tome.md "书之魔契") | 你可以每长休一次施展[操纵死尸](Animate_Dead.md "操纵死尸")、[加速术](Haste.md "加速术")、[召雷术](Call_Lightning.md "召雷术")。 |  |
 
-- [闪现术](Blink.md "闪现术")
+- [闪现](Blink.md "闪现")
 - [植物滋长](Plant_Growth.md "植物滋长")
 
 |
 
-- [火球术术](Fireball.md "火球术术")
+- [火球术](Fireball.md "火球术")
 
 - [臭云术](Stinking_Cloud.md "臭云术")
 |
 
-- [降咒](Bestow_Curse.md "降咒") * [缓慢术](Slow.md "缓慢术")
+- [降咒](Bestow_Curse.md "降咒") * [减速](Slow.md "减速")
 |
 
-- [闪现术](Blink.md "闪现术")
+- [闪现](Blink.md "闪现")
 
 - [元素武器](Elemental_Weapon.md "元素武器") ### 等级 6
 

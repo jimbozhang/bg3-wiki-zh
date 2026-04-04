@@ -88,15 +88,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -146,15 +146,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -204,15 +204,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -242,17 +242,17 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 经典语录](#notable-quotes)
-- [3 可拾取物品](#notable-loot)
-- [4 备注](#notes)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 经典语录](#经典语录)
+- [3 可拾取物品](#可拾取物品)
+- [4 备注](#备注)
 
 ## 出场
 
 ### 第三幕
 
-乔瑞佐在游戏中没有故事或支线任务的戏份。他的部分对话和闲聊可被视为喜剧调剂。队伍可以向他购买[营地补给](Camp_supplies.md "Camp supplies")，他携带一把通往附近地窖的[钥匙](Sharess'_Caress_Cellar_Key.md "Sharess' Caress Cellar Key")，地窖内并无特别有趣的东西。
+乔瑞佐在游戏中没有故事或支线任务的戏份。他的部分对话和闲聊可被视为喜剧调剂。队伍可以向他购买[营地补给](Camp_supplies.md "Camp supplies")，他携带一把通往附近地窖的[夏芮丝的爱抚地窖钥匙](Sharess'_Caress_Cellar_Key.md "夏芮丝的爱抚地窖钥匙")，地窖内并无特别有趣的东西。
 
 ## 经典语录
 

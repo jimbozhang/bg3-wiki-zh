@@ -16,7 +16,7 @@
 
 ### 阵营
 
-[蔓生废墟掠夺者](Overgrown_Ruins.md "蔓生废墟")
+[蔓生废墟](Overgrown_Ruins.md "蔓生废墟")
 
 ## 属性
 
@@ -90,15 +90,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -146,11 +146,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
@@ -198,15 +198,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -236,15 +236,15 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 闲聊](#idle-banter)
-- [5 画廊](#gallery)
-- [6 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 闲聊](#闲聊)
+- [5 画廊](#画廊)
+- [6 外部链接](#外部链接)
 
 ## 参与情况
 
@@ -268,7 +268,7 @@ Stats
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 
@@ -290,7 +290,7 @@ Stats
 
 对敌人进行非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 冷却：[短休](Short_rest.md "短休")
 
@@ -302,7 +302,7 @@ Stats
 
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡 (状态)")状态。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 冷却：[短休](Short_rest.md "短休")
 
@@ -312,7 +312,7 @@ Stats
 
 1d10 + 战士等级⁠[治疗](Healing.md "治疗")
 
-消耗体力保护自己。恢复 1d10 + 战士等级⁠⁠[生命值](Healing.md "治疗")。
+消耗体力保护自己。恢复 1d10 + 战士等级⁠⁠[治疗](Healing.md "治疗")。
 
 范围：自身
 冷却：[短休](Short_rest.md "短休")

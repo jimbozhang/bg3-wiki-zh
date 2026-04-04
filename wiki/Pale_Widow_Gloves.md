@@ -4,7 +4,7 @@
 
 苍白寡妇手套是一副[手套](Handwear.md "Handwear")，为穿戴者提供[诱捕绳索](Ensnaring_Strands.md "Ensnaring Strands")、[拉扯之网](Pulling_Web.md "Pulling Web")和[蛛网术](Web.md "Web")法术。
 
-许多[卓尔](Drow.md "Drow")都崇拜蜘蛛，但在某些令人厌恶的教派中，无疑存在一定程度的模仿——只需看看[罗丝信徒](Lolth.md "Lolth")社群那蜘蛛般的冷酷，就能证明这种模仿。
+许多[卓尔](Drow.md "Drow")都崇拜蜘蛛，但在某些令人厌恶的教派中，无疑存在一定程度的模仿——只需看看[罗丝](Lolth.md "罗丝")社群那蜘蛛般的冷酷，就能证明这种模仿。
 
 ## 属性
 

@@ -96,23 +96,23 @@
 
 - - - - ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
@@ -162,23 +162,23 @@
 
 - - - - ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
@@ -228,23 +228,23 @@
 
 - - - - ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
@@ -274,10 +274,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 出场
 
@@ -295,7 +295,7 @@ UUID
 
 诅咒一个生物被黑暗缠绕。如果它进入或在其回合开始时处于轻度或重度遮蔽区域，则受到 2d8[黯蚀](Necrotic.md "黯蚀")伤害。
 
-[魅](Charisma.md "魅") [豁免检定](Saving_throws.md "豁免检定")
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")
 范围: 4 米 (13 英尺)
 
 [冻僵](Bone_Chill.md "冻僵") ()
@@ -315,7 +315,7 @@ UUID
 范围: 18 米 (60 英尺)
 
 [暗影步](Shadow_Step.md "暗影步") ()
-从[阴影](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 范围: 18 米 (60 英尺)
 

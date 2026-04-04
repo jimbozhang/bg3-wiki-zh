@@ -14,7 +14,7 @@
 [更多属性](Status_properties.md "状态属性"):
 
 - [发起战斗](Status_properties/InitiateCombat.md "状态属性/发起战斗")
-- [致盲](Status_properties/Blind.md "状态属性/致盲")
+- [目盲](Status_properties/Blind.md "目盲")
 
 ## 注释
 

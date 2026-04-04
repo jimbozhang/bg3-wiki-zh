@@ -25,7 +25,7 @@
 
 ## 获取地点
 
-- [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn_Monastery_Trail") X: -43 Y: -129：由[埃斯特女士](Esther.md "Esther")出售，位于[特瑞尔塔峭壁](Rosymorn_Monastery_Trail.md "Rosymorn_Monastery_Trail") [上古符文法阵](Ancient_Sigil_Circle.md "Ancient Sigil Circle")东北方向。
+- [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn_Monastery_Trail") X: -43 Y: -129：由[埃斯特女士](Esther.md "Esther")出售，位于[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径") [上古符文法阵](Ancient_Sigil_Circle.md "Ancient Sigil Circle")东北方向。
 
 ## 备注
 
@@ -34,7 +34,7 @@
 _关于龙焰之拳：_
 
 - **龙焰之拳**在[荒野形态](Wild_Shape.md "Wild Shape")下无效。
-- 额外火焰伤害不适用于[投掷](Thrown.md "Thrown")武器（例如[酒馆殴斗者](Tavern_Brawler.md "Tavern Brawler")）。
+- 额外火焰伤害不适用于[投掷攻击](Thrown.md "投掷攻击")武器（例如[酒馆殴斗者](Tavern_Brawler.md "Tavern Brawler")）。
 
 ## 图库
 

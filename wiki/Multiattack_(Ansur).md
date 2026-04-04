@@ -41,7 +41,7 @@ UID
 
 持续时间：2 驱散
 
-- 无法进行 [反应](Reaction.md "反应")，且在使用 [敏捷](Dexterity.md "敏捷") 的 [检定](Ability_Check.md "检定") 和 [豁免检定](Saving_throws.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
+- 无法进行 [反应](Reaction.md "反应")，且在使用 [敏捷](Dexterity.md "敏捷") 的 [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throws.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
 
 ## 如何习得
 

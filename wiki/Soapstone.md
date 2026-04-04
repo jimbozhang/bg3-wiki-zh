@@ -89,15 +89,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看见该敌人。
 
@@ -145,15 +145,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看见该敌人。
 
@@ -201,15 +201,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看见该敌人。
 
@@ -239,11 +239,11 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 闲聊](#idle-banter)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 闲聊](#闲聊)
 
 ## 参与
 
@@ -273,7 +273,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -285,7 +285,7 @@ UUID
 
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
@@ -299,7 +299,7 @@ UUID
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与其近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与其近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 
@@ -313,7 +313,7 @@ UUID
 
 一次强力攻击，可能使目标[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：每回合
 

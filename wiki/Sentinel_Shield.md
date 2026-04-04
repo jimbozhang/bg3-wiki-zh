@@ -1,6 +1,6 @@
 # 智能盾牌
 
-智能盾牌是一个稀有[盾牌](Shields.md "Shields")，为使用者提供+3的[先攻](Initiative.md "Initiative")骰子加值和[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")的[优势](Advantage.md "Advantage")。
+智能盾牌是一个稀有[盾牌](Shields.md "Shields")，为使用者提供+3的[先攻](Initiative.md "Initiative")骰子加值和[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")的[优势](Advantage.md "Advantage")。
 
 巧妙的惑控学派魔法在盾牌的凹槽间流动，散发着加强感知的魔力。
 
@@ -22,7 +22,7 @@
 当敌人用[近战攻击](Melee_Attack.md "Melee Attack")击中你时，你可以使用你的[反应](reaction.md "reaction")将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")，除非他们成功通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving throw")。
 
 [加强感知](Heightened_Awareness.md "Heightened Awareness")
-获得+3的[先攻](Initiative.md "Initiative")骰子加值和[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")的[优势](Advantage.md "Advantage")。
+获得+3的[先攻](Initiative.md "Initiative")骰子加值和[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")的[优势](Advantage.md "Advantage")。
 
 ## 获取地点
 

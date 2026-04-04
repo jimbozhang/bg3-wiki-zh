@@ -19,7 +19,7 @@
 \+ 1d6⁠[力场](Force.md "力场")
 
 详情
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：目标承受全额伤害，但不会被[妖火](Faerie_Fire_(Condition).md "妖火（状态）")标记。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：目标承受全额伤害，但不会被[妖火](Faerie_Fire_(Condition).md "妖火（状态）")标记。）
 射程：正常武器射程
 
 ## 技术细节
@@ -38,7 +38,7 @@ UID
 
 持续时间：2 驱散
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 散发微光。受到的攻击具有[优势](Advantage.md "优势")。无法处于[隐形](Condition.md#Invisible "状态")。
 

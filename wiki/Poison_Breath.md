@@ -49,7 +49,7 @@ UID
 
 ## 相关物品
 
-- [龙息长柄刀](Drakethroat_Glaive.md "龙息长柄刀") - 敌人对龙裔吐息攻击承受[劣势](Disadvantage.md "劣势")
+- [龙息](Drakethroat_Glaive.md "龙息") - 敌人对龙裔吐息攻击承受[劣势](Disadvantage.md "劣势")
 
 ---
 *Source: [Poison Breath](https://bg3.wiki/wiki/Poison_Breath)*

@@ -8,7 +8,7 @@
 - [迪维·芮林恩](Duver_Rillyn.md "迪维·芮林恩")
 - 德克·芮林恩，[《致诺塔尔夫人》](My_Dear_Madame_Nortale.md "《致诺塔尔夫人》")的作者，也是[精卫莱希姆](Leythim.md "精卫莱希姆")的情敌
 - [哥特·芮林恩](Gothric_Rillyn.md "哥特·芮林恩")
-- 希尔·芮林恩，[《戈塔什大人的邀请函》](Invitation_to_Lord_Gortash.md "《戈塔什大人的邀请函》")的作者，并在[脆弱的贵族](Vulnerable_Patriars.md "脆弱的贵族")中被提及
+- 希尔·芮林恩，[戈塔什大人的邀请函](Invitation_to_Lord_Gortash.md "戈塔什大人的邀请函")的作者，并在[脆弱的贵族](Vulnerable_Patriars.md "脆弱的贵族")中被提及
 
 ## 外部链接
 

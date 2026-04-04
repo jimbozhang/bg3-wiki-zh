@@ -74,7 +74,7 @@
 
 如果目标处于[诱惑](Lured_(Condition).md "诱惑 (状态)")状态，鸟妖可以进行[多重攻击](Multiattack_(Harpy).md "多重攻击 (鸟妖)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -122,7 +122,7 @@
 
 如果目标处于[诱惑](Lured_(Condition).md "诱惑 (状态)")状态，鸟妖可以进行[多重攻击](Multiattack_(Harpy).md "多重攻击 (鸟妖)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -170,7 +170,7 @@
 
 如果目标处于[诱惑](Lured_(Condition).md "诱惑 (状态)")状态，鸟妖可以进行[多重攻击](Multiattack_(Harpy).md "多重攻击 (鸟妖)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

@@ -55,7 +55,7 @@ UID
 飞至目标位置
 
 [灼热金属](Heat_Metal.md "灼热金属") ()
-使金属武器或护甲炽热发红，迫使穿戴者松手或在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Ability_Check.md "检定")上获得[劣势](Disadvantage.md "劣势")。
+使金属武器或护甲炽热发红，迫使穿戴者松手或在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")上获得[劣势](Disadvantage.md "劣势")。
 
 ## 学习方式
 

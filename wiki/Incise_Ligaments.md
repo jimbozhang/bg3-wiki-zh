@@ -20,7 +20,7 @@
 
 详情
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
 射程：普通武器射程
 充能：[短休](Short_rest.md "短休")
 必须[熟练](Proficiency.md#Weapon_proficiency "熟练项")该武器
@@ -41,7 +41,7 @@ UID
 
 持续时间：2 回合
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
 
 - [移动速度](Movement_speed.md "移动速度") 减半
 - [护甲等级](Armour_Class.md "护甲等级") 和 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 降低 2

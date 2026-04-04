@@ -1,6 +1,6 @@
 # 狂想曲
 
-狂想曲是一把非常稀有的+1 [匕首](Daggers.md "Daggers")，每杀死一个敌人（最多3个）就能提升[攻击掷骰](Attack_rolls.md "Attack_rolls")、伤害和[法术](Spell.md "Spell")豁免DC，并且当持有者处于[隐藏](Hide.md "Hide")或[隐形](Invisible_(Condition)状态时.md)，可能对敌人施加[流血](Bleeding_(Condition)状态.md)。
+狂想曲是一把非常稀有的+1 [匕首](Daggers.md "Daggers")，每杀死一个敌人（最多3个）就能提升[攻击掷骰](Attack_rolls.md "Attack_rolls")、伤害和[法术](Spell.md "Spell")豁免DC，并且当持有者处于[躲藏](Hide.md "躲藏")或[隐形](Invisible_(Condition)状态时.md)，可能对敌人施加[流血](Bleeding_(Condition)状态.md)。
 
 卡扎多尔对诗歌的热爱源于他在故乡一个死去的孩子赤裸的肚子上读到一首诗。孩子被挂在一棵树最低的树枝上。卡扎多尔读了那首诗，看着那个孩子，他知道这就是属于他的艺术形式。
 
@@ -46,7 +46,7 @@ _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获
 
 ## 获取地点
 
-- [卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢") X: -1925 Y: 944：由[卡扎多尔·扎尔](Cazador.md "卡扎多尔")携带
+- [卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢") X: -1925 Y: 944：由[卡扎多尔](Cazador.md "卡扎多尔")携带
 
 ## 备注
 

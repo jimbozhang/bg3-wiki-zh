@@ -1,6 +1,6 @@
 # 伪装术：阳刚强壮卓尔
 
-**伪装术：阳刚强壮卓尔**是一个[1级幻术学派法术](Spells.md "Spells")。它是[伪装术](Disguise_Self.md "Disguise Self")的一个变体。此法术允许施法者暂时将自己的外观改变为强壮的男性[席德瑞恩卓尔](Drow.md#Seldarine_Drow "Drow")形态。
+**伪装术：阳刚强壮卓尔**是一个[法术](Spells.md "法术")。它是[伪装术](Disguise_Self.md "Disguise Self")的一个变体。此法术允许施法者暂时将自己的外观改变为强壮的男性[席德瑞恩卓尔](Drow.md#Seldarine_Drow "Drow")形态。
 
 ## 描述
 

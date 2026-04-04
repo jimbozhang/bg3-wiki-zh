@@ -4,7 +4,7 @@
 
 ## 描述
 
-为一名盟友提供 +2 的 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定") 加值。
+为一名盟友提供 +2 的 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定") 加值。
 
 ## 属性
 
@@ -22,7 +22,7 @@
 
 - 君主的孢子注入了声带，向任何倾听者灌输恐惧和疑虑。
 
-- 在 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定") 上获得 +2 加值。
+- 在 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定") 上获得 +2 加值。
 
 ## 如何习得
 

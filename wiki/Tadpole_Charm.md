@@ -44,7 +44,7 @@ UID
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
-- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力") [检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力") [属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 ## 学习方式
 

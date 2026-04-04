@@ -22,7 +22,7 @@
 | [舞光术](Dancing_Lights.md "舞光术") | 戏法 |  |  | 10 回合 | 18 米 / 60尺 / 9米 / 30尺 (半径) | - | - |
 | [火焰箭](Fire_Bolt.md "火焰箭") | 戏法 |  |  | - | 18 米 / 60尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d10⁠[火焰](Fire.md "火焰") |
 | [交友术](Friends.md "交友术") | 戏法 |  |  | 10 回合 | 9 米 / 30尺 | - | - |
-| [光亮术](Light.md "光亮术") | 戏法 |  |  | 长休 | 1.5 米 / 5 尺 | - | - |
+| [轻型](Light.md "轻型") | 戏法 |  |  | 长休 | 1.5 米 / 5 尺 | - | - |
 | [法师之手](Mage_Hand.md "法师之手") | 戏法 |  |  | - | 18 米 / 60尺 | - | - |
 | [初级幻影](Minor_Illusion.md "初级幻影") | 戏法 |  |  | - | 18 米 / 60尺 | - | - |
 | [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3 米 / 10尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免") | 1d12⁠[中毒](Poison.md "中毒") |
@@ -41,7 +41,7 @@
 | [隐形](Invisibility_(spell).md "隐形 (法术)") | 2 |  |  | 10 回合 | 1.5 米 / 5 尺 | - | - |
 | [镜像术](Mirror_Image.md "镜像术") | 2 |  |  | 10 回合 | 自身 | - | - |
 | [魅影之力](Phantasmal_Force.md "魅影之力") | 2 |  |  | 10 回合 | 18 米 / 60 尺 | [智力](Intelligence.md "智力") [豁免](Saving_throws.md "豁免") | - |
-| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
+| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [灵巧](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
 
 ---
 *Source: [List of Arcane Trickster spells](https://bg3.wiki/wiki/List_of_Arcane_Trickster_spells)*

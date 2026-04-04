@@ -79,7 +79,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -123,7 +123,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -167,7 +167,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -199,7 +199,7 @@ UUID
 
 ### 第三幕
 
-布洛瑟姆可以在[灰色港口码头](Grey_Harbour_Docks.md "Grey Harbour Docks")与她的家人一起遇到，她的[母亲](Leepak_Brislen.md "Leepak Brislen")和[父亲](Dharin_Brislen.md "Dharin Brislen")试图从[斯利姆船长](Captain_Sleam.md "Captain Sleam")那里购买通道，以将他们偷运出城市。不幸的是，这家人钱不够，只能支付三个位置的费用。
+布洛瑟姆可以在[灰色港口码头](Grey_Harbour_Docks.md "Grey Harbour Docks")与她的家人一起遇到，她的[丽帕克·布里斯勒](Leepak_Brislen.md "丽帕克·布里斯勒")和[哈林·布里斯勒](Dharin_Brislen.md "哈林·布里斯勒")试图从[斯利姆船长](Captain_Sleam.md "Captain Sleam")那里购买通道，以将他们偷运出城市。不幸的是，这家人钱不够，只能支付三个位置的费用。
 
 队伍可以通过说服斯利姆船长带他们所有人，或者支付布里斯勒一家所缺的钱来帮助这个家庭。以任何方式帮助这个家庭都会获得[盖尔](Gale.md "Gale")、[哈尔辛](Halsin.md "Halsin")、[卡菈克](Karlach.md "Karlach")、[影心](Shadowheart.md "Shadowheart")和[威尔](Wyll.md "Wyll")的好感度。
 

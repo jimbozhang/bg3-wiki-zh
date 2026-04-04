@@ -16,7 +16,7 @@
 
 ### 角色
 
-[营地追随者](Camp_Follower.md "营地追随者"), [附属追随者](Attached_Follower.md "附属追随者"), [魔宠](Scratch's_Ball.md "挠挠的球")
+[营地追随者](Camp_Follower.md "营地追随者"), [附属追随者](Attached_Follower.md "附属追随者"), [挠挠的球](Scratch's_Ball.md "挠挠的球")
 
 ### 故乡
 
@@ -84,11 +84,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
@@ -136,11 +136,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
@@ -188,11 +188,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
@@ -236,26 +236,26 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-- [2 招募](#recruitment)
-  - [2.1 安抚挠挠](#calming-down-scratch)
-    - [2.1.1 不使用动物交谈](#without-speak-with-animals)
-    - [2.1.2 使用动物交谈](#with-speak-with-animals)
-  - [2.2 说服挠挠来营地](#convincing-scratch-to-come-to-the-campsite)
-    - [2.2.1 不使用动物交谈](#without-speak-with-animals-2)
-    - [2.2.2 使用动物交谈](#with-speak-with-animals-2)
-    - [2.2.3 激怒挠挠](#angering-scratch)
-- [3 参与度](#involvement)
-  - [3.1 营地](#camp)
-  - [3.2 魔宠](#familiar)
-  - [3.3 第三幕](#act-three)
-- [4 伙伴好感度](#companion-approval)
-- [5 相关文献](#related-literature)
-- [6 成就](#achievements)
-- [7 注释](#notes)
-- [8 错误](#bugs)
-- [9 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+- [2 招募](#招募)
+  - [2.1 安抚挠挠](#安抚挠挠)
+    - [2.1.1 不使用动物交谈](#不使用动物交谈)
+    - [2.1.2 使用动物交谈](#使用动物交谈)
+  - [2.2 说服挠挠来营地](#说服挠挠来营地)
+    - [2.2.1 不使用动物交谈](#不使用动物交谈)
+    - [2.2.2 使用动物交谈](#使用动物交谈)
+    - [2.2.3 激怒挠挠](#激怒挠挠)
+- [3 参与度](#参与度)
+  - [3.1 营地](#营地)
+  - [3.2 魔宠](#魔宠)
+  - [3.3 第三幕](#第三幕)
+- [4 伙伴好感度](#伙伴好感度)
+- [5 相关文献](#相关文献)
+- [6 成就](#成就)
+- [7 注释](#注释)
+- [8 错误](#错误)
+- [9 外部链接](#外部链接)
 
 ## 概述
 
@@ -344,7 +344,7 @@ UUID
 
 当[挠挠的球](Scratch's_Ball.md "挠挠的球")在某人的物品栏中时，他们可以召唤挠挠作为[魔宠](Find_Familiar.md#Scratch "获得魔宠")。挠挠可以找到各种隐藏物品，除了[游侠伙伴](Ranger's_Companion.md "游侠伙伴")外，他是唯一能被召唤并能执行[协助](Help.md "协助")动作的生物。挠挠还可以移除盟友身上的[燃烧](Burning_(Condition).md "燃烧 (状态)")、[倒地](Downed_(Condition).md "倒地 (状态)")、[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕 (诱捕打击) (状态)")、[缠绕](Entangled_(Condition).md "缠绕 (状态)")、[网缚](Enwebbed_(Condition).md "网缚 (状态)")、[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")、[沉睡](Sleeping_(Condition).md "沉睡 (状态)")、[失衡](Off_Balance_(Condition).md "失衡 (状态)")或[倒伏](Prone_(Condition).md "倒伏 (状态)")状态。如果他的球以某种方式丢失（除了扔进深渊），挠挠会在营地有一个备用的。
 
-然而，爱玩的挠挠可能会破坏敏感任务。他在埋藏的宝箱附近会受到[挠挠的嗅探](Scratch's_Sniff_(Condition).md "挠挠的嗅探 (状态)")的影响，并且会不顾陷阱和敌人（想想范围 18 米 (60 英尺) 的隐形鬼头蘑菇）向前跑，有时会导致[壮观的后果](Find_the_Mushroom_Picker.md "找到蘑菇猎人")。挠挠还会捡回大多数掉落或扔出的物品，包括阻挡通风口陷阱的箱子，甚至是[高爆炸物](Runepowder_Vial.md "符文火药瓶")。
+然而，爱玩的挠挠可能会破坏敏感任务。他在埋藏的宝箱附近会受到[挠挠的嗅探](Scratch's_Sniff_(Condition).md "挠挠的嗅探 (状态)")的影响，并且会不顾陷阱和敌人（想想范围 18 米 (60 英尺) 的隐形鬼头蘑菇）向前跑，有时会导致[找到蘑菇猎人](Find_the_Mushroom_Picker.md "找到蘑菇猎人")。挠挠还会捡回大多数掉落或扔出的物品，包括阻挡通风口陷阱的箱子，甚至是[符文火药瓶](Runepowder_Vial.md "符文火药瓶")。
 
 ### 第三幕
 

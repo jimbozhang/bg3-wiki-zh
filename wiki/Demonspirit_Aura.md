@@ -1,6 +1,6 @@
 # 恶灵灵光
 
-**恶灵灵光**是由[深渊召唤者](Abyss_Beckoners.md "深渊召唤者")赋予的可切换被动特性。它为穿戴者的召唤物提供[伤害抗性](Resistance.md "抗性")，但有使其陷入[疯狂](Demonspirit_Madness_(Condition).md "恶灵疯狂（状态）")的风险。
+**恶灵灵光**是由[深渊召唤者](Abyss_Beckoners.md "深渊召唤者")赋予的可切换被动特性。它为穿戴者的召唤物提供[抗性](Resistance.md "抗性")，但有使其陷入[疯狂](Demonspirit_Madness_(Condition).md "恶灵疯狂（状态）")的风险。
 
 ## 描述
 

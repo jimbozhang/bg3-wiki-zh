@@ -79,15 +79,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -133,15 +133,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -187,15 +187,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -234,9 +234,9 @@ UUID
 
 ### 第三幕
 
-希格可以在[下城区](Lower_City.md "下城区")的[脸红的美人鱼](Blushing_Mermaid.md "脸红的美人鱼")中找到，她正试图说服[斯文](Svend.md "斯文")跳过他的约会，因为他们的船将在黎明时分离港。斯文坚持他会按时回来，尽管城市里最近有危险。队伍可以与他们互动，说服斯文去约会或留下来和希格在一起。被动 DC 15 [洞悉](Insight.md "洞悉") [检定](Ability_Check.md "属性检定")显示希格对斯文的感情不仅仅是朋友。
+希格可以在[下城区](Lower_City.md "下城区")的[脸红的美人鱼](Blushing_Mermaid.md "脸红的美人鱼")中找到，她正试图说服[斯文](Svend.md "斯文")跳过他的约会，因为他们的船将在黎明时分离港。斯文坚持他会按时回来，尽管城市里最近有危险。队伍可以与他们互动，说服斯文去约会或留下来和希格在一起。被动 DC 15 [洞悉](Insight.md "洞悉") [属性检定](Ability_Check.md "属性检定")显示希格对斯文的感情不仅仅是朋友。
 
-通过 DC 7 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")可以说服斯文留下，并为拥有[艺人](Entertainer.md "艺人")背景的队伍成员授予[扮演苏妮](Entertainer.md#Playing_Sune "艺人")激励点。
+通过 DC 7 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")可以说服斯文留下，并为拥有[艺人](Entertainer.md "艺人")背景的队伍成员授予[扮演苏妮](Entertainer.md#Playing_Sune "艺人")激励点。
 
 ## 闲聊
 

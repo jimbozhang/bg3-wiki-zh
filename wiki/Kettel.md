@@ -96,23 +96,23 @@
 
 - - - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对被[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，[攻击掷骰](Attack_Roll.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -164,23 +164,23 @@
 
 - - - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对被[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，[攻击掷骰](Attack_Roll.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -232,23 +232,23 @@
 
 - - - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "灰矮人坚韧")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "幻术学派")和被[魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对被[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，[攻击掷骰](Attack_Roll.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -280,7 +280,7 @@ UUID
 
 ### 第一幕
 
-从[幽暗地域](Underdark.md "幽暗地域")海滩登上船只后，一艘由海盗格雷蒙指挥的船驶近了队伍的船。格雷蒙登船，玩家角色必须通过一次[检定](Ability_Check.md "检定")来说服他让队伍通过前往[复仇之炉](Grymforge.md "复仇之炉")。如果检定失败或选择暴力，格雷蒙会发起攻击，凯特尔也会加入战斗。
+从[幽暗地域](Underdark.md "幽暗地域")海滩登上船只后，一艘由海盗格雷蒙指挥的船驶近了队伍的船。格雷蒙登船，玩家角色必须通过一次[属性检定](Ability_Check.md "属性检定")来说服他让队伍通过前往[复仇之炉](Grymforge.md "复仇之炉")。如果检定失败或选择暴力，格雷蒙会发起攻击，凯特尔也会加入战斗。
 
 ## 战斗
 

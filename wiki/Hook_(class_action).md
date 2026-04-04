@@ -16,11 +16,11 @@
 [动作](Actions.md#Resources "动作")
 伤害：2~12 + 调整值
 
-2d6 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
+2d6 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
 
 详情
 近战 非武装 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5 米（5 英尺）
 推动：2 米（7 英尺）
 
@@ -40,7 +40,7 @@ UID
 
 持续时间：2 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并在 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")上具有 [劣势](Disadvantage.md "劣势")。
 - 通过治疗移除。

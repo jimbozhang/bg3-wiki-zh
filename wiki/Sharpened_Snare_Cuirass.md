@@ -20,7 +20,7 @@
 此物品的穿戴者获得：
 
 [特制材料](Exotic_Material.md "特制材料")
-将你的完整敏捷[调整值](Ability_Modifier.md "属性调整值")加到你的[护甲等级](Armour_Class.md "护甲等级")上。此外，此护甲不会对隐匿[检定](Ability_Check.md "检定")施加[劣势](Disadvantage.md "劣势")。
+将你的完整敏捷[属性调整值](Ability_Modifier.md "属性调整值")加到你的[护甲等级](Armour_Class.md "护甲等级")上。此外，此护甲不会对隐匿[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
 
 [尖锐陷阱](Sharpened_Snare.md "尖锐陷阱")
 生物在抵抗你的攻击和施加[束缚](Restrained_(Condition).md "束缚 (状态)")的法术时，其[豁免检定](Saving_throw.md "豁免检定")处于[劣势](Disadvantage.md "劣势")。

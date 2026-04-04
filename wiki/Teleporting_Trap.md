@@ -4,7 +4,7 @@
 
 ## 涉及内容
 
-传送陷阱并非机械装置，而是施加在地面特定区域的独特法术。可通过DC 15的[调查](Investigation.md "调查")[检定](Ability_Check.md "属性检定")发现（而非常规陷阱所需的[察觉技能](Perception.md "察觉技能")）。检测到时，该陷阱会显示为数个带有符号的淡紫色发光同心圆，外观酷似施放[守卫刻文：雷鸣](Glyph_of_Warding_colon__Thunder.md "守卫刻文：雷鸣")后的效果。
+传送陷阱并非机械装置，而是施加在地面特定区域的独特法术。可通过DC 15的[调查](Investigation.md "调查")[属性检定](Ability_Check.md "属性检定")发现（而非常规陷阱所需的[察觉技能](Perception.md "察觉技能")）。检测到时，该陷阱会显示为数个带有符号的淡紫色发光同心圆，外观酷似施放[守卫刻文：雷鸣](Glyph_of_Warding_colon__Thunder.md "守卫刻文：雷鸣")后的效果。
 
 养育间[孵化室](Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")内的此类陷阱被称为“传送刻文”，为[吉斯洋基蛋](Githyanki_Egg.md "吉斯洋基蛋")的孵化提供安全保障。若玩家与孵化室的[守卫](Vu'un.md "Vu'un")交谈，可得知孵化室的传送陷阱及其他防御装置（如排放[奇异气体](Strange_Gas.md "奇异气体")的[通风口](Vent.md "通风口")和[推斥地雷](Repulsion_Mine.md "推斥地雷")）均由孵化室看守者[养育官寇库](Ko'kuu.md "养育官寇库")建造。
 

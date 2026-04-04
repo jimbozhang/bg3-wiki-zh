@@ -17,7 +17,7 @@
 
 ## 备注
 
-- 当俄耳甫斯的荣誉守卫攻击时，小队成员在[飞龙岩瞭望台营地](Campsite.md "Campsite")自动获得此状态。下一回合转化为[她的声音：万物终结](Her_Voice_colon__the_End_of_All_(Condition).md "她的声音：万物终结 (状态)")。
+- 当俄耳甫斯的荣誉守卫攻击时，小队成员在[营地](Campsite.md "营地")自动获得此状态。下一回合转化为[她的声音：万物终结](Her_Voice_colon__the_End_of_All_(Condition).md "她的声音：万物终结 (状态)")。
 
 ## 她的声音：转化的来源
 

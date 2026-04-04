@@ -101,15 +101,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -161,15 +161,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -221,15 +221,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -259,14 +259,14 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 伙伴好感度](#companion-approval)
-  - [2.1 支持克莱门兹](#support-clements)
-  - [2.2 支持比尔](#support-bill)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-- [4 闲谈](#idle-banter)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 伙伴好感度](#伙伴好感度)
+  - [2.1 支持克莱门兹](#支持克莱门兹)
+  - [2.2 支持比尔](#支持比尔)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+- [4 闲谈](#闲谈)
 
 ## 参与度
 
@@ -308,7 +308,7 @@ UUID
 
 用火焰般的光耀笼罩目标。
 
-[敏](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 射程: 18 米 (60 英尺)
 
 ## 闲谈

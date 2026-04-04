@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏方式](Category_colon_Inaccessible.md "Category:Inaccessible")**获取。但仍可通过第三方工具访问。
 
-**锈巨斧**是[巨斧](Greataxes.md "Greataxes")武器家族的常见变种。它是一种需要双手挥舞的[近战武器](Weapons.md "Weapons")。
+**锈巨斧**是[巨斧](Greataxes.md "Greataxes")武器家族的常见变种。它是一种需要双手挥舞的[武器](Weapons.md "武器")。
 
 这把斧头的斧刃因生锈而呈姜黄色，因此显得毫无生气。
 

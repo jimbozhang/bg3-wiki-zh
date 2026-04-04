@@ -64,7 +64,7 @@
 
 如果目标[倒伏](Prone_(Condition).md "倒伏 (状态)")或其[生命值](Hit_Points.md "生命值")低于或等于60%，则可进行[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -110,7 +110,7 @@
 
 如果目标[倒伏](Prone_(Condition).md "倒伏 (状态)")或其[生命值](Hit_Points.md "生命值")低于或等于60%，则可进行[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -156,7 +156,7 @@
 
 如果目标[倒伏](Prone_(Condition).md "倒伏 (状态)")或其[生命值](Hit_Points.md "生命值")低于或等于60%，则可进行[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -174,7 +174,7 @@
 
 ## 关于狼人
 
-**狼人**拥有[多重攻击：受伤](Multiattack_colon__Wounded_(Werewolf).md), 特性，并具有极其罕见的[免疫](Resistances.md "抗性")非魔法钝击、挥砍和穿刺伤害的特性。这使得他们在面对不使用魔法武器或施放法术的盟友时非常危险。
+**狼人**拥有[多重攻击：受伤](Multiattack_colon__Wounded_(Werewolf).md), 特性，并具有极其罕见的[抗性](Resistances.md "抗性")非魔法钝击、挥砍和穿刺伤害的特性。这使得他们在面对不使用魔法武器或施放法术的盟友时非常危险。
 
 狼人可以在[扎尔宅邸](Szarr_Palace.md "扎尔宅邸")找到，或通过[吸血鬼领主扈从](Retinue_of_the_Vampire_Lord.md "吸血鬼领主扈从")在[召集盟友](Gather_Your_Allies.md "召集盟友")任务中召唤。
 

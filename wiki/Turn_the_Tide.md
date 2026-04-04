@@ -1,6 +1,6 @@
 # 转潮
 
-**转潮**是[王冠誓言](Oath_of_the_Crown.md "王冠誓言")圣武士可用的[引导誓言](Channel_Oath_Charge.md "引导誓言充能")动作，可治疗所有附近的盟友和中立生物。
+**转潮**是[王冠誓言](Oath_of_the_Crown.md "王冠誓言")圣武士可用的[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")动作，可治疗所有附近的盟友和中立生物。
 
 ## 描述
 

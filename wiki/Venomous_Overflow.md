@@ -31,7 +31,7 @@
 
 持续时间：2驱散
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
 
 ## 如何习得
 

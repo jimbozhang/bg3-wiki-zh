@@ -16,34 +16,34 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 养育间入口](#entrances-to-the-cr%C3%A8che)
-    - [1.1.1 修道院地下室入口](#monastery-basement-entrance)
-    - [1.1.2 悬崖入口](#cliffside-entrance)
-  - [1.2 入口大厅（前厅）](#entrance-hall-(antechamber))
-  - [1.3 主走廊](#main-corridor)
-  - [1.4 孵化室](#hatchery)
-  - [1.5 医疗室与宿舍](#infirmary-and-dormitory)
-    - [1.5.1 医生办公室](#doctor's-office)
-  - [1.6 教室](#classroom)
-  - [1.7 贸易站](#trade-post)
-  - [1.8 队长办公区](#captain's-quarters)
-  - [1.9 审判官的房间](#inquisitor's-chamber)
-- [2 要点](#points-of-interest)
-- [3 连接地点](#connected-locations)
-- [4 传送点](#waypoints)
-- [5 相关任务](#related-quests)
-- [6 角色](#characters)
-- [7 生物](#creatures)
-- [8 重要物品](#notable-items)
-  - [8.1 可能获得的战利品](#potential-loot)
-  - [8.2 交易物品](#traded-items)
-  - [8.3 奖励](#rewards)
-  - [8.4 故事与任务物品](#story-and-quest-items)
-- [9 相关文献](#related-literature)
-  - [9.1 书籍与笔记](#books-and-notes)
-  - [9.2 吉斯洋基石板](#githyanki-slates)
-- [10 注释](#notes)
+- [1 概述](#概述)
+  - [1.1 养育间入口](#养育间入口)
+    - [1.1.1 修道院地下室入口](#修道院地下室入口)
+    - [1.1.2 悬崖入口](#悬崖入口)
+  - [1.2 入口大厅（前厅）](#入口大厅前厅))
+  - [1.3 主走廊](#主走廊)
+  - [1.4 孵化室](#孵化室)
+  - [1.5 医疗室与宿舍](#医疗室与宿舍)
+    - [1.5.1 医生办公室](#医生办公室)
+  - [1.6 教室](#教室)
+  - [1.7 贸易站](#贸易站)
+  - [1.8 队长办公区](#队长办公区)
+  - [1.9 审判官的房间](#审判官的房间)
+- [2 要点](#要点)
+- [3 连接地点](#连接地点)
+- [4 传送点](#传送点)
+- [5 相关任务](#相关任务)
+- [6 角色](#角色)
+- [7 生物](#生物)
+- [8 重要物品](#重要物品)
+  - [8.1 可能获得的战利品](#可能获得的战利品)
+  - [8.2 交易物品](#交易物品)
+  - [8.3 奖励](#奖励)
+  - [8.4 故事与任务物品](#故事与任务物品)
+- [9 相关文献](#相关文献)
+  - [9.1 书籍与笔记](#书籍与笔记)
+  - [9.2 吉斯洋基石板](#吉斯洋基石板)
+- [10 注释](#注释)
 
 ## 概述
 
@@ -51,7 +51,7 @@
 
 居住在伊雷珂养育间的吉斯洋基人征服了该地区，并屠杀了其先前的居民——一群[洛山达](Lathander.md "Lathander")的信徒。它被用来在[希翁塔尔河](River_Chionthar.md "River Chionthar")沿线发动行动，作为储存补给和战利品、训练新的吉斯洋基战士，甚至孵化蛋的地方。这里还有一个位面投射器和一个[扎伊斯克净化者](Zaith'isk.md "Zaith'isk")。
 
-许多任务可以在伊雷珂养育间推进，包括[莱埃泽尔](Lae'zel.md "Lae'zel")的[伙伴任务](The_Githyanki_Warrior.md "The Githyanki Warrior")。这里的吉斯洋基人内部存在一些冲突，主要源于养育间指挥官[凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn")与最近抵达的维拉基斯宣判官[审判官瓦尔'戈兹](W'wargaz.md "W'wargaz")之间的紧张关系。
+许多任务可以在伊雷珂养育间推进，包括[莱埃泽尔](Lae'zel.md "Lae'zel")的[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")。这里的吉斯洋基人内部存在一些冲突，主要源于养育间指挥官[凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn")与最近抵达的维拉基斯宣判官[审判官瓦尔'戈兹](W'wargaz.md "W'wargaz")之间的紧张关系。
 
 在到达[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed_Lands")后，根据队伍在第一幕访问养育间时的选择，队伍可以在第二幕的大部分时间里自由返回伊雷珂养育间。
 
@@ -75,7 +75,7 @@
 
 队伍进入时，熟手法'拉格会质问他们；他们有几个选项可以进入养育间核心区域。
 
-根据队伍与[凯斯拉克百夫长沃斯](Voss.md "Voss")对话的结果，队伍可能有选项说他们携带着他正在寻找的“[遗物](Mysterious_Artefact.md "Mysterious Artefact")”。这样做的好处是可以在不提及角色头中有夺心魔寄生虫的情况下结束对话。法'拉格随后要求队伍出示遗物作为证明。对此的回应选项包括：
+根据队伍与[凯斯拉克百夫长沃斯](Voss.md "Voss")对话的结果，队伍可能有选项说他们携带着他正在寻找的“[神秘遗物](Mysterious_Artefact.md "神秘遗物")”。这样做的好处是可以在不提及角色头中有夺心魔寄生虫的情况下结束对话。法'拉格随后要求队伍出示遗物作为证明。对此的回应选项包括：
 - _出示遗物作为证据。_
 - [表演] 我是维拉基斯女王的化身。你将让我通过，维尼'伊斯克。（DC 30）
 
@@ -129,7 +129,7 @@
 
 医疗室位于养育间的西南端。它有四个区域，每个角落都有带帘子的海报，里面放着铺盖卷。左侧是通往**宿舍**的门口，里面有几张双层床。房间的另一端是一扇通往医生办公室的门。
 
-在医疗室中，队伍会遇到吉斯洋基青年：[皮林达斯](Pyrindath.md "Pyrindath")（跪坐在入口右侧）、[米尔雅尔](Mirya'al.md "Mirya'al")（站在入口左侧的区域）和[迪尔卡斯](Dyrr'kas.md "Dyrr'kas")（在医疗室里四处走动，清理地板）。此外，还有两个吉斯洋基儿童，[泽尔](Zel'i.md "Zel'i")和[拉'雅克](Ra'jak.md "Ra'jak")，正在磨练他们的[法师之手](Mage_Hand.md "Mage Hand")技能，来回推一个上锁的旅行者的箱子（DC 18 [巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability check")）。当被击中时，箱子会发出哀嚎声，声音能传到医疗室之外。声音来自箱子里的一只小法妖。如果被释放，它会攻击队伍。
+在医疗室中，队伍会遇到吉斯洋基青年：[皮林达斯](Pyrindath.md "Pyrindath")（跪坐在入口右侧）、[米尔雅尔](Mirya'al.md "Mirya'al")（站在入口左侧的区域）和[迪尔卡斯](Dyrr'kas.md "Dyrr'kas")（在医疗室里四处走动，清理地板）。此外，还有两个吉斯洋基儿童，[泽'利尔](Zel'i.md "泽'利尔")和[拉'雅克](Ra'jak.md "Ra'jak")，正在磨练他们的[法师之手](Mage_Hand.md "Mage Hand")技能，来回推一个上锁的旅行者的箱子（DC 18 [巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")）。当被击中时，箱子会发出哀嚎声，声音能传到医疗室之外。声音来自箱子里的一只小法妖。如果被释放，它会攻击队伍。
 
 在宿舍里，队伍可以与三个成年吉斯洋基人交谈：[熟手乌姆拉克](Umr'a'ac.md "Umr'a'ac")、[掠夺者吉尔](Jy'ir.md "Jy'ir")和[炽念者库尔'阿什克](Kur'ashk.md "Kur'ashk")（审判官随从成员）。
 
@@ -149,7 +149,7 @@
 
 教室位于养育间主走廊北侧，与前厅相对。吉斯洋基青年和儿童在这里接受[训练官凯斯克](Kethk.md "Kethk")的指导和教育。房间中央有一个下沉区域，用作训练场，周围有小台阶，北墙有一条小画廊，部分用帘子隔开。
 
-当队伍成员走进教室时，凯斯克正忙着训斥并踢打他的一名学员，[青年瓦尔](Varrl.md "Varrl")。其他学生站在周围，观看凯斯克对失败者展示的严厉权威。旁观者是青年[雷格泽尔](Rheg'zel.md "Rheg'zel")、[扎拉阿斯](Zar'a'ath.md "Zar'a'ath")、[巴阿克雷斯](Ba'akreth.md "Ba'akreth")和[阿斯提尔](Astyl.md "Astyl")，以及吉斯洋基儿童[加纳'安](Gha'an.md "Gha'an")、[杰鲁斯](Jheruth.md "Jheruth")、[尤米雷尔](Ul'mirel.md "Ul'mirel")和[凯达斯](Kyr'das.md "Kyr'das")。
+当队伍成员走进教室时，凯斯克正忙着训斥并踢打他的一名学员，[青年瓦尔](Varrl.md "Varrl")。其他学生站在周围，观看凯斯克对失败者展示的严厉权威。旁观者是青年[雷格泽尔](Rheg'zel.md "Rheg'zel")、[扎拉阿斯](Zar'a'ath.md "Zar'a'ath")、[巴阿克雷斯](Ba'akreth.md "Ba'akreth")和[阿斯提尔](Astyl.md "Astyl")，以及吉斯洋基儿童[加纳'安](Gha'an.md "Gha'an")、[杰鲁斯](Jheruth.md "Jheruth")、[尤'米雷尔](Ul'mirel.md "尤'米雷尔")和[凯'达斯](Kyr'das.md "凯'达斯")。
 
 凯斯克的纪律处分过程以某种方式结束后（队伍参与其中），其他青年会下到训练场继续训练。根据选择的对话选项和通过的[属性检定](Ability_Check.md "Ability Check")，有可能从瓦尔那里获得[俄耳甫斯，彗星王子，第二部：牺牲](Orpheus,_Prince_of_the_Comet,_Part_Two_colon__Sacrifice.md "Orpheus, Prince of the Comet, Part Two: Sacrifice")作为奖励。或者，杀死他（或让凯斯克或其他青年杀死他）允许队伍从他的尸体上掠夺此物品。
 
@@ -169,9 +169,9 @@
 
 瓦尔'戈兹通过北侧的拱门前往审判官的房间后，赛泽恩使用拱门旁边的*吉斯洋基屏障干扰器*激活了一个屏障。队伍必须停用屏障才能探索该地点北出口以外的区域。
 
-队长办公区内有赛泽恩、[炽念者格努里尔](G'nuril.md "G'nuril")以及两只狼，[达哈克](D'hak.md "D'hak")和[乌尔乌特](Ur'uth.md "Ur'uth")，它们正在啃食最近捕获的[绝对邪教](Cult_of_the_Absolute.md "Cult of the Absolute")追随者的尸体（如果队伍在门口没有干预）。
+队长办公区内有赛泽恩、[炽念者格努里尔](G'nuril.md "G'nuril")以及两只狼，[达'哈克](D'hak.md "达'哈克")和[乌尔'乌特](Ur'uth.md "乌尔'乌特")，它们正在啃食最近捕获的[绝对邪教](Cult_of_the_Absolute.md "Cult of the Absolute")追随者的尸体（如果队伍在门口没有干预）。
 
-如果队伍中有[影心](Shadowheart.md "Shadowheart")，当接近狼时，她会进行一次被动的[感知](Wisdom.md "Wisdom")[检定](Ability_Check.md "Ability check")（前提是之前未发生过）。如果失败，她会提示与玩家角色对话，这可以推进她的[伙伴任务](Daughter_of_Darkness.md "Daughter of Darkness")。
+如果队伍中有[影心](Shadowheart.md "Shadowheart")，当接近狼时，她会进行一次被动的[感知](Wisdom.md "Wisdom")[属性检定](Ability_Check.md "属性检定")（前提是之前未发生过）。如果失败，她会提示与玩家角色对话，这可以推进她的[黑暗之女](Daughter_of_Darkness.md "黑暗之女")。
 
 ### 审判官的房间
 
@@ -251,16 +251,16 @@
 - [青年迪尔卡斯](Dyrr'kas.md "Dyrr'kas")
 - [青年米尔雅尔](Mirya'al.md "Mirya'al")
 - [青年皮林达斯](Pyrindath.md "Pyrindath")
-- [泽尔](Zel'i.md "Zel'i")
+- [泽'利尔](Zel'i.md "泽'利尔")
 
 **教室**
 
 - [炽念者弗拉尔西斯](Vraalsith.md "Vraalsith")
 - [加纳'安](Gha'an.md "Gha'an")
 - [杰鲁斯](Jheruth.md "Jheruth")
-- [凯达斯](Kyr'das.md "Kyr'das")
+- [凯'达斯](Kyr'das.md "凯'达斯")
 - [训练官凯斯克](Kethk.md "Kethk")
-- [尤米雷尔](Ul'mirel.md "Ul'mirel")
+- [尤'米雷尔](Ul'mirel.md "尤'米雷尔")
 - [青年阿斯提尔](Astyl.md "Astyl")
 - [青年巴阿克雷斯](Ba'akreth.md "Ba'akreth")
 - [青年雷格泽尔](Rheg'zel.md "Rheg'zel")
@@ -298,8 +298,8 @@
 
 ## 生物
 
-- [达哈克](D'hak.md "D'hak") - [狼](Wolf.md "Wolf")
-- [乌尔乌特](Ur'uth.md "Ur'uth") - [狼](Wolf.md "Wolf")
+- [达'哈克](D'hak.md "达'哈克") - [狼](Wolf.md "Wolf")
+- [乌尔'乌特](Ur'uth.md "乌尔'乌特") - [狼](Wolf.md "Wolf")
 - [小法妖](Gremishka.md "Gremishka")<sup>[\[3\]](#cite_note-3)</sup>
 
 ## 重要物品

@@ -59,7 +59,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 13 / (+1) | 10 / (0) | 11 / (0) | 6 / (-2) | 5 / (-3) | 3 / (-4) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 
@@ -73,23 +73,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**电刑免疫**](Electrocution_Immunity.md "电刑免疫")
+- [电刑免疫](Electrocution_Immunity.md "电刑免疫")
 
 多年在雷暴中伏击船只意味着此生物无法被[电击](Electrocuted_(Condition).md "电击 (状态)")。
 
-- [**闪电撕裂**](Rend_With_White_Lightning.md "闪电撕裂")
+- [闪电撕裂](Rend_With_White_Lightning.md "闪电撕裂")
 
 成功的武器攻击造成额外 1d8⁠⁠[闪电](Lightning.md "闪电")伤害。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉技能检定具有劣势。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -127,7 +127,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | 0 | 0 | -2 | -3 | -4 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 
@@ -141,23 +141,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**电刑免疫**](Electrocution_Immunity.md "电刑免疫")
+- [电刑免疫](Electrocution_Immunity.md "电刑免疫")
 
 多年在雷暴中伏击船只意味着此生物无法被[电击](Electrocuted_(Condition).md "电击 (状态)")。
 
-- [**闪电撕裂**](Rend_With_White_Lightning.md "闪电撕裂")
+- [闪电撕裂](Rend_With_White_Lightning.md "闪电撕裂")
 
 成功的武器攻击造成额外 1d8⁠⁠[闪电](Lightning.md "闪电")伤害。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉技能检定具有劣势。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -195,7 +195,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 13 / (+1) | 10 / (0) | 11 / (0) | 6 / (-2) | 5 / (-3) | 3 / (-4) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 
@@ -209,23 +209,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**电刑免疫**](Electrocution_Immunity.md "电刑免疫")
+- [电刑免疫](Electrocution_Immunity.md "电刑免疫")
 
 多年在雷暴中伏击船只意味着此生物无法被[电击](Electrocuted_(Condition).md "电击 (状态)")。
 
-- [**闪电撕裂**](Rend_With_White_Lightning.md "闪电撕裂")
+- [闪电撕裂](Rend_With_White_Lightning.md "闪电撕裂")
 
 成功的武器攻击造成额外 1d8⁠⁠[闪电](Lightning.md "闪电")伤害。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉技能检定具有劣势。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -233,14 +233,14 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 画廊](#gallery)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 画廊](#画廊)
 
 ## 参与
 
-十二只**被诅咒的寇涛鱼人**和两只[被诅咒的寇涛鱼人首领](Cursed_Kuo-Toa_Chief.md "被诅咒的寇涛鱼人首领")埋伏在[雷斯文小镇](Reithwin_Town.md "雷斯文小镇")远北海岸的水边。可以通过通过 DC 30 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")，或使用[识破隐形](See_Invisibility_(Condition).md "识破隐形 (状态)")发现它们。
+十二只**被诅咒的寇涛鱼人**和两只[被诅咒的寇涛鱼人首领](Cursed_Kuo-Toa_Chief.md "被诅咒的寇涛鱼人首领")埋伏在[雷斯文小镇](Reithwin_Town.md "雷斯文小镇")远北海岸的水边。可以通过通过 DC 30 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")，或使用[识破隐形](See_Invisibility_(Condition).md "识破隐形 (状态)")发现它们。
 
 它们持续受到[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md), 使其沦为昔日荣光的阴影，以及[濡湿](Drenched_(Condition).md "濡湿 (状态)")的影响，每次攻击都会使对手变得湿透。
 

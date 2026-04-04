@@ -56,7 +56,7 @@
 用岩石和雷鸣之拳猛击敌人，可能将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术")在荒野形态期间恢复[生命值](Hit_Points.md "生命值")。你每法术位等级恢复1d8[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术")在荒野形态期间恢复[生命值](Hit_Points.md "生命值")。你每法术位等级恢复1d8[治疗](Healing.md "治疗")。
 
 [点泥成金](Muck_to_Metal.md "点泥成金") ()
 将你滑溜的身体硬化为类似钢铁的物质，使你的[护甲等级](Armour_Class.md "护甲等级")提高2。

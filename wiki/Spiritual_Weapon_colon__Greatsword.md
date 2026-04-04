@@ -2,7 +2,7 @@
 
 本文关于法术。关于召唤武器，请参见[灵体武器（巨剑）](Spiritual_Weapon_(greatsword).md)。关于其他用法，请参见[灵体武器（消歧义）](Spiritual_Weapon_(disambiguation).md)。
 
-**灵体武器：巨剑**是一个[2级塑能学派法术](Spells.md "法术")。此法术是2级塑能学派法术[灵体武器](Spiritual_Weapon.md "灵体武器")的变体。它允许施法者召唤一把漂浮的巨剑来攻击敌人。
+**灵体武器：巨剑**是一个[法术](Spells.md "法术")。此法术是2级塑能学派法术[灵体武器](Spiritual_Weapon.md "灵体武器")的变体。它允许施法者召唤一把漂浮的巨剑来攻击敌人。
 
 ## 描述
 

@@ -2,7 +2,7 @@
 
 **预言：头痛**
 
-- 对敌人造成至少 1⁠⁠[心灵](Psychic.md "Psychic") 伤害以恢复一个 [预兆骰子](Portent.md "Portent")。
+- 对敌人造成至少 1⁠⁠[心灵](Psychic.md "Psychic") 伤害以恢复一个 [预兆](Portent.md "预兆")。
 
 ## 属性
 

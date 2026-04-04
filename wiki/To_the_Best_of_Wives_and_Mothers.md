@@ -18,7 +18,7 @@
 
 ## 备注
 
-- 需要通过 DC 10 的 [调查](Investigation.md "Investigation") [检定](Ability_Check.md "Ability check") 才能发现尸体。
+- 需要通过 DC 10 的 [调查](Investigation.md "Investigation") [属性检定](Ability_Check.md "属性检定") 才能发现尸体。
 - 这枚戒指是向音乐剧《[汉密尔顿](https://en.wikipedia.org/wiki/Hamilton_(musical))》致敬，特别是第二幕中演唱的歌曲《致最贤惠的妻子与最优秀的女人》。
 
 ---

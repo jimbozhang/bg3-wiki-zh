@@ -1,6 +1,6 @@
 # 悬液：泥泞粘物
 
-**悬液：泥泞粘物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[毒素抗性灵药](Elixir_of_Poison_Resistance.md "毒素抗性灵药")。
+**悬液：泥泞粘物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[毒素抗性灵药](Elixir_of_Poison_Resistance.md "毒素抗性灵药")。
 
 曾经是魔蝠翅膀的东西，如今只剩下水状的泥浆。然而，其元素魔法依然萦绕不散。
 

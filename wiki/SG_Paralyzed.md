@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 移除](#removal)
-- [2 免疫](#immunity)
-- [3 SG_Paralyzed 中的状态列表](#list-of-conditions-in-sg-paralyzed)
-- [4 备注](#notes)
+- [1 移除](#移除)
+- [2 免疫](#免疫)
+- [3 SG_Paralyzed 中的状态列表](#SG_Paralyzed-中的状态列表)
+- [4 备注](#备注)
 
 ## 移除
 

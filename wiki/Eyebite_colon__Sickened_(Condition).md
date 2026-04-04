@@ -2,7 +2,7 @@
 
 **摄心目光：病弱**
 
-- 受影响实体在[攻击掷骰](Attack_roll.md "Attack Roll")和[检定](Ability_Check.md "Ability Check")上具有[劣势](Disadvantage.md "Disadvantage")
+- 受影响实体在[攻击掷骰](Attack_roll.md "Attack Roll")和[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "Disadvantage")
 
 ## 属性
 
@@ -23,7 +23,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体在[攻击掷骰](Attack_roll.md "Attack Roll")和[检定](Ability_Check.md "Ability Check")上具有[劣势](Disadvantage.md "Disadvantage")
+- 受影响实体在[攻击掷骰](Attack_roll.md "Attack Roll")和[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "Disadvantage")
 
 ---
 *Source: [Eyebite: Sickened (Condition)](https://bg3.wiki/wiki/Eyebite:_Sickened_(Condition)*

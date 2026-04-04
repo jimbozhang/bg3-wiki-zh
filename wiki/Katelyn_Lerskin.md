@@ -90,11 +90,11 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**龙舌兰伤痕**](Scar_of_the_Agave.md "Scar_of_the Agave")
+- [龙舌兰伤痕](Scar_of_the_Agave.md "龙舌兰伤痕")
 
 当此角色生命值低于60%时被近战攻击击中，攻击者将受到2d8⁠⁠[穿刺](Piercing.md "Piercing")伤害。
 
@@ -146,11 +146,11 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**龙舌兰伤痕**](Scar_of_the_Agave.md "Scar_of_the Agave")
+- [龙舌兰伤痕](Scar_of_the_Agave.md "龙舌兰伤痕")
 
 当此角色生命值低于60%时被近战攻击击中，攻击者将受到2d8⁠⁠[穿刺](Piercing.md "Piercing")伤害。
 
@@ -202,11 +202,11 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**龙舌兰伤痕**](Scar_of_the_Agave.md "Scar_of_the Agave")
+- [龙舌兰伤痕](Scar_of_the_Agave.md "龙舌兰伤痕")
 
 当此角色生命值低于60%时被近战攻击击中，攻击者将受到2d8⁠⁠[穿刺](Piercing.md "Piercing")伤害。
 
@@ -236,13 +236,13 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 外部链接](#外部链接)
 
 ## 参与情况
 

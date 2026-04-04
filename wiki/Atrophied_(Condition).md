@@ -2,7 +2,7 @@
 
 **萎缩**
 
-- 受影响实体的某项[属性](Ability_Scores.md "属性值")被降至0，导致其立即死亡。
+- 受影响实体的某项[属性值](Ability_Scores.md "属性值")被降至0，导致其立即死亡。
 
 ## 属性
 
@@ -27,7 +27,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体的某项[属性](Ability_Scores.md "属性值")被降至0，导致其立即死亡。
+- 受影响实体的某项[属性值](Ability_Scores.md "属性值")被降至0，导致其立即死亡。
 
 ---
 *Source: [Atrophied (Condition)](https://bg3.wiki/wiki/Atrophied_(Condition)*

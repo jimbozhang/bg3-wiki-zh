@@ -20,7 +20,7 @@
 - [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") +1
 
 [恢复性击昏](Rejuvenating_Takedown.md "恢复性击昏")
-每当佩戴者击昏一个生物时，佩戴者恢复 1d6⁠⁠[生命值](Healing.md "治疗")。
+每当佩戴者击昏一个生物时，佩戴者恢复 1d6⁠⁠[治疗](Healing.md "治疗")。
 
 ## 获取位置
 

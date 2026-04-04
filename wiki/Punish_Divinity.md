@@ -1,6 +1,6 @@
 # 惩罚神圣
 
-**惩罚神圣**是一个[等级 6 法术](Spells.md "Spells")。当[拉斐尔](Raphael.md "Raphael")受到[光耀](Radiant.md "Radiant")伤害时，他可以使用此法术作为[反应](Actions.md#Reactions "Actions")来[灵魂扭曲](Infernal_Stun_(Condition).md "Infernal Stun (Condition)")攻击者。队友无法学习此法术。
+**惩罚神圣**是一个[法术](Spells.md "法术")。当[拉斐尔](Raphael.md "Raphael")受到[光耀](Radiant.md "Radiant")伤害时，他可以使用此法术作为[反应](Actions.md#Reactions "Actions")来[灵魂扭曲](Infernal_Stun_(Condition).md "Infernal Stun (Condition)")攻击者。队友无法学习此法术。
 
 ## 描述
 
@@ -11,7 +11,7 @@
 消耗
 [反应](Actions.md#Reactions "Actions")
 详情
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）
 范围：30 米（100 英尺）
 [专注](Concentration.md "Concentration")
 持续时间：4 驱散
@@ -50,7 +50,7 @@ UID
 
 持续时间：4 驱散
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）
 
 - 此生物无法移动或行动，拉斐尔可以随意[吸取灵魂](Soul_Drain.md "Soul Drain")它。
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-获得对[攻击掷骰](Attack_roll.md "攻击掷骰")、[先攻掷骰](Initiative.md "先攻")和[察觉检定](Perception.md "察觉技能")的+2加成。
+获得对[攻击掷骰](Attack_roll.md "攻击掷骰")、[先攻](Initiative.md "先攻")和[察觉技能](Perception.md "察觉技能")的+2加成。
 
 ## 如何习得
 

@@ -8,14 +8,14 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 解锁书籍](#unlocking-the-book)
-  - [2.2 阅读书籍](#reading-the-book)
-  - [2.3 完全解锁书籍的秘密](#fully-unlocking-the-book's-secrets)
-- [3 奖励](#rewards)
-- [4 伙伴好感度](#companion-approval)
-- [5 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 解锁书籍](#解锁书籍)
+  - [2.2 阅读书籍](#阅读书籍)
+  - [2.3 完全解锁书籍的秘密](#完全解锁书籍的秘密)
+- [3 奖励](#奖励)
+- [4 伙伴好感度](#伙伴好感度)
+- [5 备注](#备注)
 
 ## 目标
 
@@ -106,7 +106,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 *萨奇亚特法典*位于金库的**伊尔明斯特**区域，可以通过按此顺序开门解锁：Silverhand -> Evocation -> Wish。如果*塞尔死灵法术*被交给了阿斯代伦或盖尔，他们必须是受控角色，并且持有萨奇亚特法典，才能完全理解文本并解锁其秘密。
 
-阅读萨奇亚特法典会使阅读的队伍成员被[萨奇亚特枯萎](Tharchiate_Withering_(Condition).md)（完整详情请参见[法典](The_Tharchiate_Codex.md "萨奇亚特法典")页面）。如果再次阅读*塞尔死灵法术*，阅读的队伍成员会获得[死亡之舞](Danse_Macabre.md "死亡之舞")，从而完成任务。通过最后一次[DC](Dice_rolls.md#Save_DCs "掷骰") 20 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")不是必须的，但如果不这样做，会使阅读的队伍成员被[恶毒知识](Baleful_Knowledge_(Condition).md "恶毒知识（状态）")诅咒。
+阅读萨奇亚特法典会使阅读的队伍成员被[萨奇亚特枯萎](Tharchiate_Withering_(Condition).md)（完整详情请参见[萨奇亚特法典](The_Tharchiate_Codex.md "萨奇亚特法典")页面）。如果再次阅读*塞尔死灵法术*，阅读的队伍成员会获得[死亡之舞](Danse_Macabre.md "死亡之舞")，从而完成任务。通过最后一次[DC](Dice_rolls.md#Save_DCs "掷骰") 20 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")不是必须的，但如果不这样做，会使阅读的队伍成员被[恶毒知识](Baleful_Knowledge_(Condition).md "恶毒知识（状态）")诅咒。
 
 最后，完全解锁书籍会授予具有[智者](Sage.md "智者")背景的队伍成员[所有知识都值得拥有](Sage.md#All_Knowledge_Is_Worth_Having "智者")激励点。
 

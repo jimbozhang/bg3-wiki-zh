@@ -19,7 +19,7 @@
 | [雷束披风](Thunderskin_Cloak.md "雷束披风") | 0.5 kg / 1 lb | 75 | [眩晕回响](Dazing_Echo.md "眩晕回响")当一个具有[残响](Reverberation_(Condition).md "残响 (状态)")的生物对穿戴者造成伤害时，该生物需要进行一次[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将变为[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 |
 | [活力披风](Vivacious_Cloak.md "活力披风") | 0.5 kg / 1 lb | 70 | [奥术生机](Arcane_Vivaciousness.md "奥术生机")当你在近战中施放[法术](Spells.md "法术")后，你获得8点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
 | [移位斗篷](Cloak_of_Displacement.md "移位斗篷") | 0.5 kg / 1 lb | 190 | [移形换位](Displacement.md "移形换位")在穿戴者回合开始时，披风激活，使敌人对穿戴者的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。此效果持续到穿戴者受到伤害为止。 |
-| [导引披风](Derivation_Cloak.md "导引披风") | 0.5 kg / 1 lb | 190 | [死亡之源](Deadly_Derivation.md "死亡之源")当你[中毒](Poisoned_(Condition).md "中毒 (状态)")一个敌人时，为自己恢复1d4⁠⁠[生命值](Healing.md "治疗")。 |
+| [导引披风](Derivation_Cloak.md "导引披风") | 0.5 kg / 1 lb | 190 | [死亡之源](Deadly_Derivation.md "死亡之源")当你[中毒](Poisoned_(Condition).md "中毒 (状态)")一个敌人时，为自己恢复1d4⁠⁠[治疗](Healing.md "治疗")。 |
 | [死亡追踪者斗篷](The_Deathstalker_Mantle.md "死亡追踪者斗篷") | 0.5 kg / 1 lb | 190 | [阴影本身](The_Shadow_Itself.md "阴影本身")每当你杀死一个敌人时，每回合一次，用原始黑暗笼罩自己，变为[隐形](Invisible_(Condition).md "隐形 (状态)")，持续2回合。 |
 | [海浪之母的披风](Wavemother's_Cloak.md "海浪之母的披风") | 0.5 kg / 1 lb | 190 | [潮湿之盾](Damp_Aegis.md "潮湿之盾")在战斗中，每回合一次，披风为穿戴者提供[水层防护](Water_Layer_Protection_(Condition).md "水层防护 (状态)")[[见：错误](Damp_Aegis#Bugs.md#Bugs "潮湿之盾")]，直到穿戴者受到伤害。 |
 | [魔网斗篷](Cloak_of_the_Weave.md "魔网斗篷") | 0.5 kg / 1 lb | 300 | [吸收元素](Absorb_Elements.md "吸收元素") () 每[短休](Short_rest.md "短休")一次吸收元素伤害。对下一个针对你的元素攻击承受一半伤害，并在你的下一次攻击中额外造成1d6点该元素类型的伤害。 ( 重充：[短休](Short_rest.md "短休")。) [奥术增强](Arcane_Enchantment_(+1).md "奥术增强 (+1)")你获得+1加值到[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。 |

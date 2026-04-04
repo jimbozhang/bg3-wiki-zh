@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 
@@ -16,7 +16,7 @@
 
 - UID `WYR_AbandonedHome_ChestKey` UUID `ee17d9b5-a1dd-418c-a5b6-f96fec082aa0` ## 获取地点
 
-- 在[废屋](Arfur's_Mansion.md#Abandoned_sidehouse "阿尔弗的宅邸")内的壁炉附近（需要 DC 15 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")）
+- 在[废屋](Arfur's_Mansion.md#Abandoned_sidehouse "阿尔弗的宅邸")内的壁炉附近（需要 DC 15 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")）
 
 ## 用途
 

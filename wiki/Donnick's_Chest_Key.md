@@ -1,12 +1,12 @@
 # 多尼克的宝箱钥匙
 
-多尼克的宝箱钥匙是[第三幕](Act_Three.md "第三幕")中的一种[杂物](Story_Item.md "故事道具")。
+多尼克的宝箱钥匙是[第三幕](Act_Three.md "第三幕")中的一种[故事道具](Story_Item.md "故事道具")。
 
 一把小铁钥匙。
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 

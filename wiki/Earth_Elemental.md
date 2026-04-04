@@ -64,7 +64,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -108,7 +108,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -136,7 +136,7 @@
 
 如石板般挥下双臂，粉碎附近的生物，将它们推回 3 米 / 10 英尺，并使它们因[双腿颤抖](Trembling_Legs_(Condition).md "双腿颤抖 (状态)")而摇晃。注意，这也会伤害你自己的队友。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围: 自身
 
 [多重攻击](Multiattack_(Earth_Elemental).md "多重攻击 (土元素)") ()
@@ -161,7 +161,7 @@
 
 ## 备注
 
-土元素在探索队伍中有点棘手，因为它们无法跳跃，并且体型过大无法被[传送](Dimension_Door.md "任意门")。它们可以成为[飞行术](Flight_(Condition).md "飞行术 (状态)")的接收者。
+土元素在探索队伍中有点棘手，因为它们无法跳跃，并且体型过大无法被[任意门](Dimension_Door.md "任意门")。它们可以成为[飞行术](Flight_(Condition).md "飞行术 (状态)")的接收者。
 
 ## 外部链接
 

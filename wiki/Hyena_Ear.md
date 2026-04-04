@@ -1,6 +1,6 @@
 # 鬣狗耳朵
 
-**鬣狗耳朵**是一种[炼金术材料](Alchemy.md "炼金术")。将3个鬣狗耳朵煅烧可制成[鬣狗耳屎灰烬](Ashes_of_Hyena_Ear.md "鬣狗耳屎灰烬")，可用于制作[加速药水](Potion_of_Speed.md "加速药水")。
+**鬣狗耳朵**是一种[炼金术](Alchemy.md "炼金术")。将3个鬣狗耳朵煅烧可制成[鬣狗耳屎灰烬](Ashes_of_Hyena_Ear.md "鬣狗耳屎灰烬")，可用于制作[加速药水](Potion_of_Speed.md "加速药水")。
 
 柔软、斑驳且破烂的耳朵是[鬣狗](https://forgottenrealms.fandom.com/wiki/Hyena)尸体上最吸引人的部位之一。
 

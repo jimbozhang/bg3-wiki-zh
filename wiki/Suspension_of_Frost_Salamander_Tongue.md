@@ -1,6 +1,6 @@
 # 霜冻蝾螈舌悬液
 
-**霜冻蝾螈舌悬液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，制作出[冰封油](Oil_of_Freezing.md "冰封油")。
+**霜冻蝾螈舌悬液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，制作出[冰封油](Oil_of_Freezing.md "冰封油")。
 
 这种物质的冰冷质地反映了在[气与水位面](https://forgottenrealms.fandom.com/wiki/Cosmology)交界处驯服同样[冰冷的蝾螈](https://forgottenrealms.fandom.com/wiki/Frost_salamander)的[霜冻巨人](https://forgottenrealms.fandom.com/wiki/Frost_Giant)。
 

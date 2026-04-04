@@ -26,12 +26,12 @@
 
 ## 文本
 
-\[封底内侧的公会印章属于 [博德之门](Baldur's_Gate.md "博德之门") 的一家版画集体。\]
+\[博德之门](Baldur's_Gate.md "博德之门") 的一家版画集体。\]
 
 “我当然记得。那个 [女孩](https://baldursgate.fandom.com/wiki/Imoen) 一走路我就知道她会惹麻烦。小偷小摸，总是掺和别人的事。而 [戈里昂](https://baldursgate.fandom.com/wiki/Gorion) 的那个 [受监护人](https://baldursgate.fandom.com/wiki/Gorion%27s_Ward) 也跟她一路货色。难怪邪恶之神的血在他们血管里流淌。”
 ——匿名，[烛堡](https://baldursgate.fandom.com/wiki/Candlekeep)
 
-“[沙洛佛克](Sarevok_Anchev.md "沙洛佛克·安基夫") 和他那伙人总是最先想到的。你知道这一切始于 [纳西凯尔](https://baldursgate.fandom.com/wiki/Nashkel) 的一点铁矿吗？大家都以为他们的武器会从手里烂掉。那时候，我以为问题是糟糕的贸易。从没想过那家伙会是 [巴尔](Bhaal.md "巴尔") 的儿子。”——安曼佣兵，临终前采访
+“[沙洛佛克·安基夫](Sarevok_Anchev.md "沙洛佛克·安基夫") 和他那伙人总是最先想到的。你知道这一切始于 [纳西凯尔](https://baldursgate.fandom.com/wiki/Nashkel) 的一点铁矿吗？大家都以为他们的武器会从手里烂掉。那时候，我以为问题是糟糕的贸易。从没想过那家伙会是 [巴尔](Bhaal.md "巴尔") 的儿子。”——安曼佣兵，临终前采访
 
 “你敢在我面前提那个名字？我的 [女主人](https://baldursgate.fandom.com/wiki/Bodhi) 在与那些被遗弃的可怜虫战斗时化为了灰烬。我诅咒巴尔，我诅咒 [伊雷尼库斯](https://baldursgate.fandom.com/wiki/Jon_Irenicus)，我诅咒你！”——敌对吸血鬼，[阿斯卡特拉](https://baldursgate.fandom.com/wiki/Athkatla) 贫民窟
 

@@ -15,7 +15,7 @@
 - [巴萨扎尔，第五人](Balthazar,_the_Fifth.md "巴萨扎尔，第五人") - [小丑的骨盆](Clown's_Severed_Pelvis.md "小丑的骨盆")
 - [阿梅丽萨，第六人](Amelyssan,_the_Sixth.md "阿梅丽萨，第六人") - [小丑的断头](Clown's_Severed_Head.md "小丑的断头")
 
-所有这些名字都是参与[巴尔子嗣危机](https://forgottenrealms.fandom.com/wiki/Bhaalspawn_Crisis)事件的[巴尔子嗣](Bhaalspawn.md "巴尔子嗣")（即“五人组”及其领袖阿梅丽萨），并按其死亡顺序排列。每封信都包含对指定人物的简短墓志铭，并由[腥红奥林](Orin.md "腥红奥林")签名。
+所有这些名字都是参与[巴尔子嗣危机](https://forgottenrealms.fandom.com/wiki/Bhaalspawn_Crisis)事件的[巴尔子嗣](Bhaalspawn.md "巴尔子嗣")（即“五人组”及其领袖阿梅丽萨），并按其死亡顺序排列。每封信都包含对指定人物的简短墓志铭，并由[奥林](Orin.md "奥林")签名。
 
 这些信件实际上证实了警官[德维拉·方坦海德](Devella_Fountainhead.md "德维拉·方坦海德")关于谋杀案的猜想：所有谋杀都是为了纪念百年巴尔信徒的功绩而实施的。
 

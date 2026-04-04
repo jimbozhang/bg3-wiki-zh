@@ -18,7 +18,7 @@
 
 ### 阵营
 
-[莎尔教会](Shar.md "Shar")
+[莎尔](Shar.md "莎尔")
 
 ### 家乡
 
@@ -91,7 +91,7 @@ Stats
 
 作为《博德之门》和《博德之门II》中可能的伙伴角色，她至少在正史中与戈里昂的守护者（前作的主角）及其队伍见过面（即使没有同行），因为 [贾希拉](Jaheira.md "Jaheira") 和 [明斯克](Minsc.md "Minsc") 都记得见过她。根据队伍在前作中的行动，以及维康妮亚是否作为伙伴，她也可能见过 [萨雷沃克](Sarevok.md "Sarevok")。
 
-在《博德之门II》之后的一个世纪里，维康妮亚·迪佛成为了 [博德之门](Baldur's_Gate.md "Baldur's Gate") [莎尔教派](Shar.md "Shar") 的女院长。她之前在 [深水城](https://forgottenrealms.fandom.com/wiki/Waterdeep) 拥有一个更大的教派，但莎尔女士命令她将其夷为平地，并杀死所有忠诚的追随者。作为忠诚的奖励，莎尔指派给维康妮亚一项新任务：带走一个 [塞伦涅](Sel%C3%BBne.md "Selûne") 的女儿，并在时机成熟时将其转变为维康妮亚的继任者，成为博德之门的 [女院长](Shar.md#Ranks_of_the_Church_of_Shar_from_highest_to_lowest: "Shar")。<sup>[\[2\]](#cite_note-2)</sup> 在某个时刻，她很可能将一部分记忆交给了 [失落之镜](Mirror_of_Loss.md "Mirror_of_Loss")。
+在《博德之门II》之后的一个世纪里，维康妮亚·迪佛成为了 [博德之门](Baldur's_Gate.md "Baldur's Gate") [莎尔](Shar.md "莎尔") 的女院长。她之前在 [深水城](https://forgottenrealms.fandom.com/wiki/Waterdeep) 拥有一个更大的教派，但莎尔女士命令她将其夷为平地，并杀死所有忠诚的追随者。作为忠诚的奖励，莎尔指派给维康妮亚一项新任务：带走一个 [塞伦涅](Sel%C3%BBne.md "Selûne") 的女儿，并在时机成熟时将其转变为维康妮亚的继任者，成为博德之门的 [女院长](Shar.md#Ranks_of_the_Church_of_Shar_from_highest_to_lowest: "Shar")。<sup>[\[2\]](#cite_note-2)</sup> 在某个时刻，她很可能将一部分记忆交给了 [失落之镜](Mirror_of_Loss.md "Mirror_of_Loss")。
 
 维康妮亚和她的队伍随后伏击了一个正在进行成年仪式的 [塞伦涅](Sel%C3%BBne.md "Selûne") 信徒家庭，目标是他们的半精灵女儿珍妮维尔·哈罗利夫。她的父母被俘并囚禁，而女孩则在新的名字——[影心](Shadowheart.md "Shadowheart")——下被当作莎尔的牧师抚养长大。
 
@@ -246,7 +246,7 @@ Stats
 1. [↑](#cite_5) 《信仰与万神殿》（3版，2002年）– '莎尔'，第94页，*“莎尔冷酷无情，以沉默奖励成功，以湮灭惩罚失败。被俘或被欺骗的神职人员被视为软弱且可牺牲的。”*
 1. [↑](#cite_6) 《毁灭冠军》（3.5版，2005年）– '莎尔教会'，第154页，*“失落的信条要求无情的效率；一次失误就会将莎尔信徒打上不合格的烙印，被自己的同志‘送回黑夜’。”*
 1. [↑](#cite_7) 《信仰与化身》（2版，1996年）– '莎尔'，第138页，*“那些犯错、被敌人俘虏或泄露秘密的人，被认为不配得到莎尔的恩典，会被同伴驱逐或杀死。”*
-1. [↑](#cite_8) 如果影心是暗夜法官且不在队伍中，可以通过通过 DC 30 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check") 与维康妮亚谈判，说服她在最终战斗中提供帮助，而无需交出影心。然而，在此之后，所有伙伴仍会谴责玩家角色背叛，仿佛影心永远从营地消失了。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
+1. [↑](#cite_8) 如果影心是暗夜法官且不在队伍中，可以通过通过 DC 30 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定") 与维康妮亚谈判，说服她在最终战斗中提供帮助，而无需交出影心。然而，在此之后，所有伙伴仍会谴责玩家角色背叛，仿佛影心永远从营地消失了。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
 1. [↑](#cite_9) 她根据“心之形态”（假心、懦弱之心等）获得独特的法术，这是她在 [心之映射](Mapping_of_the_Heart.md "Mapping_of_the Heart") 期间探索玩家角色特定恐惧时发现的。
 1. [↑](#cite_10) 她在战斗前的最后一句台词 *(L'il Alurl! For Shar!)* 直接引用了她前作中的 [战吼](https://static.wikia.nocookie.net/baldursgategame/images/1/12/VICON03.ogg/revision/latest?cb=20171205032450)，另见 [维康妮亚在博德之门与剑湾传奇中的引言](https://baldursgate.fandom.com/wiki/Viconia_DeVir#quotes)。
 1. [↑](#cite_11) 博德之门维基：[维康妮亚的原始结局](https://baldursgate.fandom.com/wiki/Viconia_DeVir#epilogues)。检索于2023-10-10。

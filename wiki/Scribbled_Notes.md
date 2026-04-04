@@ -1,6 +1,6 @@
 # 潦草的字条
 
-潦草的字条包含关于[精金熔炉](Adamantine_Forge_(location)防御的模糊见解.md)。阅读时，整个队伍会尝试进行一次DC 15的[调查](Investigation.md "调查")[检定](Ability_Check.md "属性检定")。成功时，[精金熔炉](Adamantine_Forge_(quest)的日志条目会解释熔炉守护者对岩浆.md)和“热锤”的弱点。
+潦草的字条包含关于[精金熔炉](Adamantine_Forge_(location)防御的模糊见解.md)。阅读时，整个队伍会尝试进行一次DC 15的[调查](Investigation.md "调查")[属性检定](Ability_Check.md "属性检定")。成功时，[精金熔炉](Adamantine_Forge_(quest)的日志条目会解释熔炉守护者对岩浆.md)和“热锤”的弱点。
 
 一位疯狂法师未经编辑的反思。
 

@@ -86,19 +86,19 @@
 
 ## 特性
 
-- [**至上真神灾祸**](Absolute's_Bane.md "至上真神灾祸")
+- [至上真神灾祸](Absolute's_Bane.md "至上真神灾祸")
 
 使用武器攻击命中时，可能对目标的[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")施加 **-1d4** 惩罚。
 
-- [**原始狂怒**](Crude_Frenzy.md "原始狂怒")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行主手攻击后，可进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离内的事物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -146,15 +146,15 @@
 
 ## 特性
 
-- [**至上真神灾祸**](Absolute's_Bane.md "至上真神灾祸")
+- [至上真神灾祸](Absolute's_Bane.md "至上真神灾祸")
 
 使用武器攻击命中时，可能对目标的[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")施加 **-1d4** 惩罚。
 
-- [**原始狂怒**](Crude_Frenzy.md "原始狂怒")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行主手攻击后，可进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离内的事物。
 
@@ -202,19 +202,19 @@
 
 ## 特性
 
-- [**至上真神灾祸**](Absolute's_Bane.md "至上真神灾祸")
+- [至上真神灾祸](Absolute's_Bane.md "至上真神灾祸")
 
 使用武器攻击命中时，可能对目标的[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")施加 **-1d4** 惩罚。
 
-- [**原始狂怒**](Crude_Frenzy.md "原始狂怒")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行主手攻击后，可进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离内的事物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -262,19 +262,19 @@
 
 ## 特性
 
-- [**至上真神灾祸**](Absolute's_Bane.md "至上真神灾祸")
+- [至上真神灾祸](Absolute's_Bane.md "至上真神灾祸")
 
 使用武器攻击命中时，可能对目标的[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")施加 **-1d4** 惩罚。
 
-- [**原始狂怒**](Crude_Frenzy.md "原始狂怒")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行主手攻击后，可进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离内的事物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -304,14 +304,14 @@ Stats
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 画廊](#gallery)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 画廊](#画廊)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 参与度
 

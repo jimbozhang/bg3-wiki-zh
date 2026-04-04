@@ -56,15 +56,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**衰弱**](Weakened.md "衰弱")
+- [衰弱](Weakened.md "衰弱")
 
 穿越地狱的旅程严重削弱了此生物的防御。
 
@@ -100,15 +100,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**衰弱**](Weakened.md "衰弱")
+- [衰弱](Weakened.md "衰弱")
 
 穿越地狱的旅程严重削弱了此生物的防御。
 
@@ -144,15 +144,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**衰弱**](Weakened.md "衰弱")
+- [衰弱](Weakened.md "衰弱")
 
 穿越地狱的旅程严重削弱了此生物的防御。
 

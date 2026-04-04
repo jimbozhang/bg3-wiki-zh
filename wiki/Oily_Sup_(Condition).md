@@ -2,7 +2,7 @@
 
 **油腻状态**
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "属性检定")上承受[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
 
 [中毒](Poisoned_(status_group).md)
 
@@ -31,9 +31,9 @@
 | 状态 | 效果 |
 | --- | --- |
 | [酒](Alcohol_(Condition).md "酒 (状态)") | 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")检定上具有[劣势](Disadvantage.md "劣势")。 |
-| 油腻状态 | 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "属性检定")上承受[劣势](Disadvantage.md "劣势")。 |
+| 油腻状态 | 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。 |
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "属性检定")上承受[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
 
 ---
 *Source: [Oily Sup (Condition)](https://bg3.wiki/wiki/Oily_Sup_(Condition)*

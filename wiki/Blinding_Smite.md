@@ -1,6 +1,6 @@
 # 致盲斩
 
-**致盲斩**是一个[等级 3 塑能学派法术](Spells.md "Spells")。它允许[圣武士](Paladin.md "Paladin")消耗一个[法术位](Spells.md#Spell_Slots "Spells")，在近战武器攻击中造成额外的[光耀](Radiant.md "Radiant")伤害，并可能使目标目盲。
+**致盲斩**是一个[法术](Spells.md "法术")。它允许[圣武士](Paladin.md "Paladin")消耗一个[法术位](Spells.md#Spell_Slots "Spells")，在近战武器攻击中造成额外的[光耀](Radiant.md "Radiant")伤害，并可能使目标目盲。
 
 ## 描述
 

@@ -92,19 +92,19 @@
 
 - - - ## 特性
 
-- [**奥术灰烬**](Arcane_Ashes.md "奥术灰烬")
+- [奥术灰烬](Arcane_Ashes.md "奥术灰烬")
 
 每当你造成 ⁠[火焰](Fire.md "火焰") 伤害时，你获得 2 回合的 [灼热](Heat_(Condition).md "灼热 (状态)")。
 
-- [**黑暗奉献**](Dark_Devotion.md "黑暗奉献")
+- [黑暗奉献](Dark_Devotion.md "黑暗奉献")
 
 对 [魅惑](Charmed_(Condition).md) 或 [恐慌](Frightened_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -154,19 +154,19 @@
 
 - - - ## 特性
 
-- [**奥术灰烬**](Arcane_Ashes.md "奥术灰烬")
+- [奥术灰烬](Arcane_Ashes.md "奥术灰烬")
 
 每当你造成 ⁠[火焰](Fire.md "火焰") 伤害时，你获得 2 回合的 [灼热](Heat_(Condition).md "灼热 (状态)")。
 
-- [**黑暗奉献**](Dark_Devotion.md "黑暗奉献")
+- [黑暗奉献](Dark_Devotion.md "黑暗奉献")
 
 对 [魅惑](Charmed_(Condition).md) 或 [恐慌](Frightened_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -216,19 +216,19 @@
 
 - - - ## 特性
 
-- [**奥术灰烬**](Arcane_Ashes.md "奥术灰烬")
+- [奥术灰烬](Arcane_Ashes.md "奥术灰烬")
 
 每当你造成 ⁠[火焰](Fire.md "火焰") 伤害时，你获得 2 回合的 [灼热](Heat_(Condition).md "灼热 (状态)")。
 
-- [**黑暗奉献**](Dark_Devotion.md "黑暗奉献")
+- [黑暗奉献](Dark_Devotion.md "黑暗奉献")
 
 对 [魅惑](Charmed_(Condition).md) 或 [恐慌](Frightened_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -312,7 +312,7 @@ UUID
 
 射程：18 米 (60 英尺)
 
-[火球术术](Fireball.md "火球术术") (+ )
+[火球术](Fireball.md "火球术") (+ )
 
 伤害：8~48
 

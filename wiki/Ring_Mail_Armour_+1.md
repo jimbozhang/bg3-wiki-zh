@@ -19,7 +19,7 @@
 穿戴此物品获得：
 
 [贴身](Body_Aid.md "Body Aid")
-获得+1的[力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving throw")和[检定](Ability_Check.md "Ability check")加值。
+获得+1的[力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving throw")和[属性检定](Ability_Check.md "属性检定")加值。
 
 - [隐匿](Stealth.md "Stealth")检定具有[劣势](Disadvantage.md "Disadvantage")。
 

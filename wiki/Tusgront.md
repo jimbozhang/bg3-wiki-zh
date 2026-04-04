@@ -84,27 +84,27 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对抗陷阱、法术、地表的敏捷豁免具有优势。不能处于目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿着[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
@@ -156,27 +156,27 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对抗陷阱、法术、地表的敏捷豁免具有优势。不能处于目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿着[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 

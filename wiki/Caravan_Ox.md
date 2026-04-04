@@ -165,7 +165,7 @@
 
 属性
 
-`Ox` **拉车牛** 是一种 [牛](Ox.md "Ox")，可以在 [利文顿](Rivington.md "Rivington") 的 [第三幕](Act_Three.md "Act Three") 中找到。
+`Ox` **拉车牛** 是一种 [公牛](Ox.md "公牛")，可以在 [利文顿](Rivington.md "Rivington") 的 [第三幕](Act_Three.md "Act Three") 中找到。
 
 > “
 >

@@ -55,7 +55,7 @@
 [涂抹收缩油](Coated_in_Oil_of_Diminution_(Condition).md "Coated in Oil of Diminution (Condition)")
 |
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将在 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 上获得 [劣势](Disadvantage.md "劣势")，并且近战攻击伤害减少 -1d4，持续 2 回合。
+- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将在 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 上获得 [劣势](Disadvantage.md "劣势")，并且近战攻击伤害减少 -1d4，持续 2 回合。
 
 [涂抹冰封油](Coated_in_Oil_of_Freezing_(Condition).md "Coated in Oil of Freezing (Condition)")
 |

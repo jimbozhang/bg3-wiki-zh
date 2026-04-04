@@ -2,7 +2,7 @@
 
 **极端孤注一掷**
 
-- 受影响实体的攻击造成额外 15⁠⁠[心灵](Psychic.md "Psychic") 伤害并治疗 2d8⁠⁠[生命值](Healing.md "Healing")。该实体在掷出 15 或更高时判定为[重击](Critical_Hit.md "Critical Hit")。该实体对所有伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
+- 受影响实体的攻击造成额外 15⁠⁠[心灵](Psychic.md "Psychic") 伤害并治疗 2d8⁠⁠[治疗](Healing.md "治疗")。该实体在掷出 15 或更高时判定为[重击](Critical_Hit.md "Critical Hit")。该实体对所有伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
 
 ## 备注
 

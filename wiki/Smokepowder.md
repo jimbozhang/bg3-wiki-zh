@@ -1,6 +1,6 @@
 # 烟粉
 
-这是一个消歧义页面，指向具有歧义名称的文章。如果某篇文章中的链接将您[带到这里](Special_colon_WhatLinksHere/Smokepowder.md "Special:WhatLinksHere/Smokepowder")，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向具有歧义名称的文章。如果某篇文章中的链接将您[烟粉](Special_colon_WhatLinksHere/Smokepowder.md "烟粉")，请考虑编辑该链接，将其指向正确的页面。
 
 **烟粉**是一种[爆炸物](Explosives.md "Explosives")，外观为黑色颗粒，带有明显的刺鼻气味。在_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中存在以下与烟粉相关的事物：
 

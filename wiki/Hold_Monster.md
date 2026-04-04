@@ -1,10 +1,10 @@
 # 怪物定身术
 
-**怪物定身术**是一个[5环惑控学派法术](Spells.md "Spells")。它允许施法者[定身](Hold_Monster_(Condition).md "Hold Monster (Condition)")一个生物，阻止其行动并使其易受攻击。
+**怪物定身术**是一个[法术](Spells.md "法术")。它允许施法者[定身](Hold_Monster_(Condition).md "Hold Monster (Condition)")一个生物，阻止其行动并使其易受攻击。
 
 ## 描述
 
-[定身](Hold_Monster_(Condition).md "Hold Monster (Condition)")一个生物。它无法[移动](Movement_speed.md "Movement Speed")、[行动](Action.md "Action")或[反应](Reactions.md "Reactions")。3米（10英尺）内的攻击总是[重击](Critical_Hit.md "Critical hit")。
+[定身](Hold_Monster_(Condition).md "Hold Monster (Condition)")一个生物。它无法[移动](Movement_speed.md "Movement Speed")、[动作](Action.md "动作")或[反应](Reactions.md "Reactions")。3米（10英尺）内的攻击总是[重击](Critical_Hit.md "Critical hit")。
 
 对不死生物无效。
 

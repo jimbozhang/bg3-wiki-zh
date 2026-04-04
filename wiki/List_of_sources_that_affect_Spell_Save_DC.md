@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 法术豁免DC的固定增加](#flat-increases-to-spell-save-dc)
-- [2 法术豁免DC的固定减少](#flat-decrease-to-spell-save-dc)
-- [3 法术豁免DC的条件性增加](#conditional-increases-to-spell-save-dc)
-- [4 法术豁免DC的间接增加](#indirect-increases-to-spell-save-dc)
+- [1 法术豁免DC的固定增加](#法术豁免DC的固定增加)
+- [2 法术豁免DC的固定减少](#法术豁免DC的固定减少)
+- [3 法术豁免DC的条件性增加](#法术豁免DC的条件性增加)
+- [4 法术豁免DC的间接增加](#法术豁免DC的间接增加)
 
 ## 法术豁免DC的固定增加
 
@@ -65,12 +65,12 @@
 | [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") | [主手近战](Main_Hand_Melee.md "主手近战") | [魅力](Charisma.md "魅力") +2 | 3 |
 | [恶毒手套](Gloves_of_Baneful_Striking.md "恶毒手套") | [手套](Gloves.md "手套") | [恶毒打击](Baneful_Strike.md "恶毒打击")每当你用武器攻击造成伤害时，目标在对抗你的下一个法术时会受到-1d4的[豁免检定](Saving_throw.md "豁免检定")惩罚。 | 1 |
 | [天崩手套](Gloves_of_Belligerent_Skies.md "天崩手套") | [手套](Gloves.md "手套") | [雷鸣转化](Thunderous_Conversion.md "雷鸣转化")当穿着者造成[雷鸣](Thunder.md "雷鸣")、[闪电](Lightning.md "闪电")或[光耀](Radiant.md "光耀")伤害时，对目标施加2回合的[残响](Reverberation_(Condition).md "残响 (状态)")。 | 1 |
-| [霍洛的法杖](Hollow's_Staff.md "霍洛的法杖") | [主手近战](Main_Hand_Melee.md "主手近战") | [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")生物在对抗你的[死灵学派法术](Necromancy.md "死灵学派法术")时具有[劣势](Disadvantage.md "劣势")。 | 3 |
+| [霍洛的法杖](Hollow's_Staff.md "霍洛的法杖") | [主手近战](Main_Hand_Melee.md "主手近战") | [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")生物在对抗你的[死灵学派](Necromancy.md "死灵学派")时具有[劣势](Disadvantage.md "劣势")。 | 3 |
 | [卡利德的礼物](Khalid's_Gift.md "卡利德的礼物") | [护符](Amulet.md "护符") | [感知](Wisdom.md "感知") +1 (最高21) | 3 |
 | [精神抑制之戒](Ring_of_Mental_Inhibition.md "精神抑制之戒") | [戒指](Ring.md "戒指") | [精神抑制](Mental_Inhibition.md "精神抑制")当敌人在对抗你的法术或动作时[豁免检定](Saving_throw.md "豁免检定")失败时，他们获得2回合的[精神疲劳](Mental_Fatigue_(Condition).md "精神疲劳 (状态)")。 | 2 |
 | [恶之雷鸣戒指](Ring_of_Spiteful_Thunder.md "恶之雷鸣戒指") | [戒指](Ring.md "戒指") | [恶之雷鸣](Spiteful_Thunder.md "恶之雷鸣")当穿着者造成伤害[[见：错误](Spiteful_Thunder#Bugs.md#Bugs "恶之雷鸣")]给[残响](Reverberation_(Condition).md "残响 (状态)")生物时，除非它通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则会变得[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 | 2 |
 | [颤脊护符](Spineshudder_Amulet.md "颤脊护符") | [护符](Amulet.md "护符") | [爆裂共鸣](Crackling_Resonance.md "爆裂共鸣")当穿着者用远程[法术攻击](Spell_Attack.md "法术攻击")造成伤害时，对目标施加2回合的[残响](Reverberation_(Condition).md "残响 (状态)")。 | 2 |
-| [死灵珍爱法杖](Staff_of_Cherished_Necromancy.md "死灵珍爱法杖") | [主手近战](Main_Hand_Melee.md "主手近战") | [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")生物在对抗你的[死灵学派法术](Necromancy.md "死灵学派法术")时具有[劣势](Disadvantage.md "劣势")。 | 3 |
+| [死灵珍爱法杖](Staff_of_Cherished_Necromancy.md "死灵珍爱法杖") | [主手近战](Main_Hand_Melee.md "主手近战") | [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")生物在对抗你的[死灵学派](Necromancy.md "死灵学派")时具有[劣势](Disadvantage.md "劣势")。 | 3 |
 | 2 [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") | [主手近战](Main_Hand_Melee.md "主手近战") | [魅力](Charisma.md "魅力") +2 | 3 [恶毒手套](Gloves_of_Baneful_Striking.md "恶毒手套") | [手套](Gloves.md "手套") |
 
 ---

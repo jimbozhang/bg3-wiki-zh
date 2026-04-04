@@ -1,6 +1,6 @@
 # 魔法护甲
 
-**魔法护甲**是一个[1级防护学派法术](Spells.md "Spells")。它允许施法者用魔法保护包围一个未穿护甲的生物（包括自己，如果未穿护甲）。
+**魔法护甲**是一个[法术](Spells.md "法术")。它允许施法者用魔法保护包围一个未穿护甲的生物（包括自己，如果未穿护甲）。
 
 ## 描述
 
@@ -63,11 +63,11 @@ UID
 
 - 选择[邪术师](Warlock.md "Warlock")在 2 级以上选择[异界恩赐](Eldritch_Invocation.md "Eldritch Invocation")[暗影护甲](Armour_of_Shadows.md "Armour_of_Shadows")也会获得此法术。此版本的法术只以施法者自身为目标，并且不消耗[法术位](Spells.md#Spell_Slots "Spells")。
 - 如果施法者被移出当前队伍，此增益仍然存在，即使之后重新加入。
-  - 如果由[法师](Wizard.md "Wizard")施放，此法术必须由施放它的队伍成员[预备](Prepared_spells.md "Prepared spells")；从施法者的预备法术列表中移除魔法护甲会立即移除施法者施加给所有队伍成员的增益。如果直接使用[卷轴](Scroll_of_Mage_Armour.md "Scroll of Mage Armour")施放，而不是[抄录](Transcribing_scrolls.md "Transcribing scrolls")到法师的法术书中，则施法者无需保持该法术预备来维持增益。
+  - 如果由[法师](Wizard.md "Wizard")施放，此法术必须由施放它的队伍成员[预备](Prepared_spells.md "Prepared spells")；从施法者的预备法术列表中移除魔法护甲会立即移除施法者施加给所有队伍成员的增益。如果直接使用[魔法护甲卷轴](Scroll_of_Mage_Armour.md "魔法护甲卷轴")施放，而不是[抄录](Transcribing_scrolls.md "Transcribing scrolls")到法师的法术书中，则施法者无需保持该法术预备来维持增益。
 - 如果拥有魔法护甲的队伍成员装备了一件护甲，增益会被移除。脱下该护甲后，魔法护甲不会重新施加；必须再次对他们施放。
-- 正常的[护甲等级](Armour_Class.md "Armour Class")基础值为 10 + [敏捷调整值](Dexterity.md "Dexterity")；此法术将其改为 13 + 敏捷调整值。
+- 正常的[护甲等级](Armour_Class.md "Armour Class")基础值为 10 + [敏捷](Dexterity.md "敏捷")；此法术将其改为 13 + 敏捷调整值。
   - 接受者仍然可以获得其他不改变其基础护甲等级的来源的加成，例如 +1 护甲等级的[长袍](Robes.md "Robes")、[防御护腕](Bracers_of_Defence.md "Bracers_of_Defence")、[虔诚护盾](Shield_of_Faith_(Condition).md "Shield of Faith (Condition)")等。
-- 标记为[轻型](Light_Armour.md "Light Armour")、[中型](Medium_Armour.md "Medium Armour")或[重型护甲](Heavy_Armour.md "Heavy Armour")的[手套](Gloves.md "Gloves")和[头盔](Helmets.md "Helmets")被视为护甲，并阻止魔法护甲生效。
+- 标记为[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")或[重甲](Heavy_Armour.md "重甲")的[手套](Gloves.md "Gloves")和[头盔](Helmets.md "Helmets")被视为护甲，并阻止魔法护甲生效。
 - 装备[盾牌](Shields.md "Shields")时魔法护甲仍然有效。
 - [魔法护甲](Mage_Armour_(Condition).md "Mage Armour (Condition)")、[龙族韧性](Draconic_Resilience.md "Draconic Resilience")、[无甲防御（野蛮人）](Unarmoured_Defence_(Barbarian).md "Unarmoured Defence (Barbarian)")、[无甲防御（武僧）](Unarmoured_Defence_(Monk).md "Unarmoured Defence (Monk)")和[树肤术](Barkskin_(Condition).md "Barkskin (Condition)")都会改变基础护甲等级，因此不叠加。
   - 如果接受者拥有多个此类效果，他们只获得提供最佳[护甲等级](Armour_Class.md "Armour Class")的那个效果。

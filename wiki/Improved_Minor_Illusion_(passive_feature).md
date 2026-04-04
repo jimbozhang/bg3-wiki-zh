@@ -4,7 +4,7 @@
 
 ## 描述
 
-你可以使用[附赠动作](bonus_action.md "附赠动作")施放[初级幻影](Improved_Minor_Illusion.md "精通初级幻影")。
+你可以使用[附赠动作](bonus_action.md "附赠动作")施放[精通初级幻影](Improved_Minor_Illusion.md "精通初级幻影")。
 
 ## 授予
 

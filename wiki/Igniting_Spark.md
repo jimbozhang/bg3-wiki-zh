@@ -1,6 +1,6 @@
 # 爆燃火花
 
-**爆燃火花**是一个[等级 4 塑能学派法术](Spells.md "Spells")。此法术仅[拉斐尔](Raphael.md "Raphael")可用，造成火焰伤害并生成持续一回合的[地狱火](Hellfire.md "Hellfire")地表。当消耗灵魂冲锋时，它也可以作为[附赠动作](Actions.md#Resources "Actions")使用。队友无法学习此法术。
+**爆燃火花**是一个[法术](Spells.md "法术")。此法术仅[拉斐尔](Raphael.md "Raphael")可用，造成火焰伤害并生成持续一回合的[地狱火](Hellfire.md "Hellfire")地表。当消耗灵魂冲锋时，它也可以作为[附赠动作](Actions.md#Resources "Actions")使用。队友无法学习此法术。
 
 ## 描述
 

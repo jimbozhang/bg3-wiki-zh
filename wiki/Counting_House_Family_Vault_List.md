@@ -32,19 +32,19 @@
 
 - 保险库二：[迦纳斯夫人](Lady_Jannath.md "迦纳斯夫人")
 
-- 保险库三：[扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")
+- 保险库三：[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")
 
-- 保险库四：[格雷](Allandra_Grey.md "阿兰德拉·格雷")
+- 保险库四：[阿兰德拉·格雷](Allandra_Grey.md "阿兰德拉·格雷")
 
 - 保险库五：[雷文加德](Ulder_Ravengard.md "乌尔德·雷文加德")
 
 - 保险库六：[戈塔什](Enver_Gortash.md "恩维尔·戈塔什")
 
-- 保险库七：[基恩](Nine-Fingers_Keene.md "九指基恩")
+- 保险库七：[九指基恩](Nine-Fingers_Keene.md "九指基恩")
 
-- 保险库八：[迪佛](Viconia_DeVir.md "维康妮亚·迪佛")
+- 保险库八：[维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")
 
-- 保险库九：[耀须](Rakath_Glitterbeard.md "拉凯斯·耀须")
+- 保险库九：[拉凯斯·耀须](Rakath_Glitterbeard.md "拉凯斯·耀须")
 
 ---
 *Source: [Counting House Family Vault List](https://bg3.wiki/wiki/Counting_House_Family_Vault_List)*

@@ -1,6 +1,6 @@
 # 吉斯洋基雕刻石板
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Inscribed_Githyanki_Slate.md "Special:WhatLinksHere/Inscribed Githyanki Slate")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[吉斯洋基雕刻石板](Special_colon_WhatLinksHere/Inscribed_Githyanki_Slate.md "吉斯洋基雕刻石板")的，请考虑编辑该链接，将其指向正确的页面。
 
 **吉斯洋基雕刻石板**可能指以下[吉斯洋基石板](Githyanki_Slates.md "吉斯洋基石板")：
 

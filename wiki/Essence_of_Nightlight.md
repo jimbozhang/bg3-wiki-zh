@@ -1,6 +1,6 @@
 # 夜光精华
 
-**夜光精华**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[炉光炸弹](Hearthlight_Bomb.md "炉光炸弹")。
+**夜光精华**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[炉光炸弹](Hearthlight_Bomb.md "炉光炸弹")。
 
 在他困扰的[幽暗地域](Underdark.md "幽暗地域")时期，拥有金子般心灵的卓尔[崔斯特·杜垩登](Drizzt_Do'Urden.md "崔斯特·杜垩登")，常常净化夜灯以提取其光芒。在他的光芒下，他的面容显得沉思、深邃且过于睿智。
 

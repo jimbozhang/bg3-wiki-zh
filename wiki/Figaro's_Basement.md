@@ -25,28 +25,28 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 建筑布局](#building-layout)
-  - [2.1 一楼](#ground-floor)
-  - [2.2 二楼](#first-floor)
-  - [2.3 地下室](#basement)
-- [3 相关事件](#involvement)
-- [4 建筑外部](#outside-the-building)
-- [5 传送点](#waypoints)
-- [6 相关任务](#related-quests)
-- [7 角色](#characters)
-  - [7.1 建筑外，附近](#outside,_near_the_building)
-- [8 重要战利品](#notable-loot)
-- [9 商店](#store)
-  - [9.1 营地服装](#camp-clothing)
-  - [9.2 营地鞋履](#camp-shoes)
-  - [9.3 内衣](#underwear)
-  - [9.4 帽子](#hats)
-  - [9.5 极其稀有染料](#very-rare-dyes)
-  - [9.6 稀有染料](#rare-dyes)
-- [10 相关文献](#related-literature)
-- [11 外部链接](#external-links)
-- [12 脚注与参考文献](#footnotes-and-references)
+- [1 概述](#概述)
+- [2 建筑布局](#建筑布局)
+  - [2.1 一楼](#一楼)
+  - [2.2 二楼](#二楼)
+  - [2.3 地下室](#地下室)
+- [3 相关事件](#相关事件)
+- [4 建筑外部](#建筑外部)
+- [5 传送点](#传送点)
+- [6 相关任务](#相关任务)
+- [7 角色](#角色)
+  - [7.1 建筑外，附近](#建筑外附近)
+- [8 重要战利品](#重要战利品)
+- [9 商店](#商店)
+  - [9.1 营地服装](#营地服装)
+  - [9.2 营地鞋履](#营地鞋履)
+  - [9.3 内衣](#内衣)
+  - [9.4 帽子](#帽子)
+  - [9.5 极其稀有染料](#极其稀有染料)
+  - [9.6 稀有染料](#稀有染料)
+- [10 相关文献](#相关文献)
+- [11 外部链接](#外部链接)
+- [12 脚注与参考文献](#脚注与参考文献)
 
 ## 概述
 
@@ -86,7 +86,7 @@
 
 ### 二楼
 
-从入口旁边的侧室楼梯上楼，会遇到一扇上锁的门，需要通过 DC 20 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")开启。穿过门是客厅和卧室。两者都有几个容器，主要装有杂项战利品：
+从入口旁边的侧室楼梯上楼，会遇到一扇上锁的门，需要通过 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")开启。穿过门是客厅和卧室。两者都有几个容器，主要装有杂项战利品：
 
 - 位于 X: -162 Y: -38 的两个旅行者箱子，内含金币和随机药水
 - 位于 X: -168 Y: -39 的柳条箱，内含随机小额战利品
@@ -98,17 +98,17 @@
 
 焕颜精品店地下室
 
-地下室可通过二楼楼梯附近一个上锁的红色轮廓舱口进入，需要撬锁（需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")）或使用[费南德斯·霍特](Phlanders_Hort.md "费南德斯·霍特")携带的[焕颜时尚屋地下室钥匙](Facemaker_Fashion_Basement_Key.md "焕颜时尚屋地下室钥匙")开启。
+地下室可通过二楼楼梯附近一个上锁的红色轮廓舱口进入，需要撬锁（需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")）或使用[费南德斯·霍特](Phlanders_Hort.md "费南德斯·霍特")携带的[焕颜时尚屋地下室钥匙](Facemaker_Fashion_Basement_Key.md "焕颜时尚屋地下室钥匙")开启。
 
 地下室由几个相连的房间组成：一个储藏室、一个费加罗为发明新型染料进行实验的小实验室，以及一个临时办公室。
 
 办公室里有一张桌子，上面放着[胡里奥·焕颜的最后遗嘱和遗嘱](The_Last_Will_and_Testament_of_Julio_Facemaker.md "胡里奥·焕颜的最后遗嘱和遗嘱")和一个[伪造工具箱](Forgery_Kit.md "伪造工具箱")。<sup>[\[2\]](#cite_note-2)</sup> 同一张桌子上有一个上锁的小[镀金箱子](Gilded_Chest.md "镀金箱子")，可使用[费加罗的宝箱钥匙](Figaro's_Chest_Key_(Basement).md "费加罗的宝箱钥匙（地下室）")解锁，该钥匙从位于 X: -2343 Y: 1294 的卷轴堆中获得。
 
-另一个大华丽箱子位于 X: -2342 Y: 1302。它已上锁并设有陷阱，需要 DC 20 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")来发现陷阱，DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来解除陷阱，以及 DC 20 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来撬锁。不过，可以使用二楼卧室的[费加罗的宝箱钥匙](Figaro's_Chest_Key.md "费加罗的宝箱钥匙")打开。然而，里面只有两套随机的贵族等级营地服装。
+另一个大华丽箱子位于 X: -2342 Y: 1302。它已上锁并设有陷阱，需要 DC 20 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")来发现陷阱，DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来解除陷阱，以及 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。不过，可以使用二楼卧室的[费加罗的宝箱钥匙](Figaro's_Chest_Key.md "费加罗的宝箱钥匙")打开。然而，里面只有两套随机的贵族等级营地服装。
 
-另一个木箱（需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁）内含金币和随机药水。
+另一个木箱（需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁）内含金币和随机药水。
 
-在 X: -2334 Y: 1294 处可以发现一堵[强韧](Sturdy_(Condition).md "强韧（状态）")可破坏的墙。墙后有一个[爆破地雷](Blast_Mine.md "爆破地雷")和一个上锁的木箱（需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁），内含一些金币、锭和炼金材料。
+在 X: -2334 Y: 1294 处可以发现一堵[强韧](Sturdy_(Condition).md "强韧（状态）")可破坏的墙。墙后有一个[爆破地雷](Blast_Mine.md "爆破地雷")和一个上锁的木箱（需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁），内含一些金币、锭和炼金材料。
 
 ## 相关事件
 
@@ -125,7 +125,7 @@
 ## 建筑外部
 
 - 如果[多洛](Dolor.md "多洛")之前的谋杀未遂被中断，并且他设法逃脱，将会有几位费加罗的客户，[汉纳·贝福林](Hannaah_Befling.md "汉纳·贝福林")、[瓦希·哈勃图德](Varce_Humbletood.md "瓦希·哈勃图德")和[卡莱·多瑞卡斯](Kale_Dorriacks.md "卡莱·多瑞卡斯")在入口外等候，他们都对等待时间感到失望。<sup>[\[5\]](#cite_note-5)</sup>
-- 当探索[扎尔宅邸](Szarr_Palace.md "扎尔宅邸")时，队伍可以找到居住在那里的吸血鬼衍体之一[利昂·奥努弗里奥](Leon.md "利昂")的[日志](Leon's_Diary.md "利昂的日志")，他曾想请费加罗的服务以确保他小女儿[维多利亚](Victoria.md "维多利亚")的安全。不幸的是，他的计划从未实现。
+- 当探索[扎尔宅邸](Szarr_Palace.md "扎尔宅邸")时，队伍可以找到居住在那里的吸血鬼衍体之一[利昂](Leon.md "利昂")的[利昂的日志](Leon's_Diary.md "利昂的日志")，他曾想请费加罗的服务以确保他小女儿[维多利亚](Victoria.md "维多利亚")的安全。不幸的是，他的计划从未实现。
 
 ## 传送点
 
@@ -149,8 +149,8 @@
 - [费南德斯·霍特](Phlanders_Hort.md "费南德斯·霍特")
 - [鲁尔](Rull.md "鲁尔")<sup>[\[6\]](#cite_note-assassination-6)</sup>
 - [索克斯](Soxx.md "索克斯")<sup>[\[6\]](#cite_note-assassination-6)</sup>
-- [沃布](Wobb.md "沃布")<sup>[\[6\]](#cite_note-assassination-6)</sup>
-- [沃伊](Woyy.md "沃伊")<sup>[\[6\]](#cite_note-assassination-6)</sup>
+- [沃博](Wobb.md "沃博")<sup>[\[6\]](#cite_note-assassination-6)</sup>
+- [沃依](Woyy.md "沃依")<sup>[\[6\]](#cite_note-assassination-6)</sup>
 
 ### 建筑外，附近
 

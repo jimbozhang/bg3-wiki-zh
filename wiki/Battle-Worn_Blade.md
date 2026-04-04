@@ -1,6 +1,6 @@
 # 久战剑
 
-**久战剑**是[长剑](Longswords.md "长剑")武器家族的一种常见变体。它是一种[军用近战武器](Weapons.md "武器")，可以单手持用，或双手持用以获得额外伤害。
+**久战剑**是[长剑](Longswords.md "长剑")武器家族的一种常见变体。它是一种[武器](Weapons.md "武器")，可以单手持用，或双手持用以获得额外伤害。
 
 一把精良但使用过的剑。它似乎曾属于某个圣武士团，但剑柄处的等级和神祇标识最近已被磨平。
 
@@ -38,7 +38,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 ## 获取地点
 
-- [隐蔽房间](Secluded_Chamber.md "隐蔽房间") X: -55 Y: 65: 在[赛夫洛](Zevlor.md "赛夫洛")的[木箱子](Wooden_Chest.md "木箱子")中，可使用[赛夫洛的钥匙](Zevlor's_Key.md "赛夫洛的钥匙")或[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")打开。
+- [隐蔽房间](Secluded_Chamber.md "隐蔽房间") X: -55 Y: 65: 在[赛夫洛](Zevlor.md "赛夫洛")的[木箱子](Wooden_Chest.md "木箱子")中，可使用[赛夫洛的钥匙](Zevlor's_Key.md "赛夫洛的钥匙")或[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")打开。
 
 ---
 *Source: [Battle-Worn Blade](https://bg3.wiki/wiki/Battle-Worn_Blade)*

@@ -110,19 +110,19 @@ Kevin VanOrd
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**恶毒复仇**](Venomous_Revenge.md "恶毒复仇")
+- [恶毒复仇](Venomous_Revenge.md "恶毒复仇")
 
 每当穿戴者被治疗时，其武器会覆上魔法并造成额外 1d6⁠⁠[中毒](Poison.md "中毒")伤害。
 
@@ -176,19 +176,19 @@ Kevin VanOrd
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**恶毒复仇**](Venomous_Revenge.md "恶毒复仇")
+- [恶毒复仇](Venomous_Revenge.md "恶毒复仇")
 
 每当穿戴者被治疗时，其武器会覆上魔法并造成额外 1d6⁠⁠[中毒](Poison.md "中毒")伤害。
 
@@ -242,19 +242,19 @@ Kevin VanOrd
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**恶毒复仇**](Venomous_Revenge.md "恶毒复仇")
+- [恶毒复仇](Venomous_Revenge.md "恶毒复仇")
 
 每当穿戴者被治疗时，其武器会覆上魔法并造成额外 1d6⁠⁠[中毒](Poison.md "中毒")伤害。
 
@@ -284,22 +284,22 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 个性](#personality)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-    - [2.1.1 救出阿拉贝尔](#saving-arabella)
-    - [2.1.2 调查卡哈](#investigate-kagha)
-    - [2.1.3 卡哈的命运](#kagha's-fate)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 盟友](#allies)
-  - [3.3 战利品](#loot)
-- [4 相关文献](#related-literature)
-- [5 相关任务](#related-quests)
-- [6 死者交谈](#speak-with-dead)
-- [7 注释与参考](#notes-and-references)
-- [8 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 个性](#个性)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+    - [2.1.1 救出阿拉贝尔](#救出阿拉贝尔)
+    - [2.1.2 调查卡哈](#调查卡哈)
+    - [2.1.3 卡哈的命运](#卡哈的命运)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 盟友](#盟友)
+  - [3.3 战利品](#战利品)
+- [4 相关文献](#相关文献)
+- [5 相关任务](#相关任务)
+- [6 死者交谈](#死者交谈)
+- [7 注释与参考](#注释与参考)
+- [8 外部链接](#外部链接)
 
 ## 概述
 
@@ -317,7 +317,7 @@ Stats
 
 #### 救出阿拉贝尔
 
-首次进入内圣所时，队伍会发现卡哈正在训斥一个名叫[阿拉贝尔](Arabella.md "阿拉贝尔")的提夫林小孩，因为她试图偷窃[西凡那斯神像](Idol_of_Silvanus.md "西凡那斯神像")。队伍和另一位德鲁伊[拉斯](Rath.md "拉斯")可以介入以[救出她](Save_Arabella.md "救出阿拉贝尔")。如果队伍未能说服卡哈或决定不介入，阿拉贝尔试图逃跑，卡哈的蛇[提拉](Teela.md "提拉")会咬她，使其立即死亡。<sup>[\[1\]](#cite_note-1)</sup>
+首次进入内圣所时，队伍会发现卡哈正在训斥一个名叫[阿拉贝尔](Arabella.md "阿拉贝尔")的提夫林小孩，因为她试图偷窃[西凡那斯神像](Idol_of_Silvanus.md "西凡那斯神像")。队伍和另一位德鲁伊[拉斯](Rath.md "拉斯")可以介入以[救出阿拉贝尔](Save_Arabella.md "救出阿拉贝尔")。如果队伍未能说服卡哈或决定不介入，阿拉贝尔试图逃跑，卡哈的蛇[提拉](Teela.md "提拉")会咬她，使其立即死亡。<sup>[\[1\]](#cite_note-1)</sup>
 
 #### 调查卡哈
 
@@ -325,7 +325,7 @@ Stats
 
 如果队伍搜索圣所，可以找到卡哈的私人箱子。撬锁后会发现一封信，这推进了[调查卡哈](Investigate_Kagha.md "调查卡哈")任务，并引导队伍前往沼泽中的一个隐蔽地点，在那里他们可以得知卡哈正秘密计划将林地的控制权交给[暗影德鲁伊](Shadow_Druids.md "暗影德鲁伊")。
 
-如果队伍返回并与卡哈对峙她的计划，由[欧罗丹](Olodan.md "欧罗丹")领导的暗影德鲁伊会现身，并命令卡哈攻击队伍和圣所中的其他人。告诉卡哈队伍不会妨碍她，对于[任何誓言副职的圣武士](Paladin.md "圣武士")而言，这被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
+如果队伍返回并与卡哈对峙她的计划，由[欧罗丹](Olodan.md "欧罗丹")领导的暗影德鲁伊会现身，并命令卡哈攻击队伍和圣所中的其他人。告诉卡哈队伍不会妨碍她，对于[圣武士](Paladin.md "圣武士")而言，这被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
 
 在帮助队伍击败暗影德鲁伊后，卡哈反思了自己的错误。
 
@@ -464,7 +464,7 @@ Stats
 
 [荒野形态：狼](Wild_Shape_colon__Wolf.md "荒野形态：狼") (+ )
 
-化身为一只恐狼，可以[激励](Inciting_Howl_(Wolf).md "激励咆哮 (狼)")盟友和[分心](Exposing_Bite.md "暴露啃咬")敌人。恐狼的起始生命值为 18 [生命值](Hit_Points.md "生命值")，每两级德鲁伊等级提升一次。
+化身为一只恐狼，可以[激励](Inciting_Howl_(Wolf).md "激励咆哮 (狼)")盟友和[暴露啃咬](Exposing_Bite.md "暴露啃咬")敌人。恐狼的起始生命值为 18 [生命值](Hit_Points.md "生命值")，每两级德鲁伊等级提升一次。
 
 在动物形态下，你无法说话或施放法术。你承担野兽形态的属性——不包括你的[智力](Intelligence.md "智力")、[感知](Wisdom.md "Wisdom")和[魅力](Charisma.md "魅力")值。
 

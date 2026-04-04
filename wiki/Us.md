@@ -32,14 +32,14 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 序幕](#prologue)
-  - [1.2 第二幕](#act-two)
-- [2 战斗](#combat)
-- [3 相关物品](#related-items)
-- [4 画廊](#gallery)
-- [5 注释](#notes)
-- [6 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 序幕](#序幕)
+  - [1.2 第二幕](#第二幕)
+- [2 战斗](#战斗)
+- [3 相关物品](#相关物品)
+- [4 画廊](#画廊)
+- [5 注释](#注释)
+- [6 外部链接](#外部链接)
 
 ## 出场
 
@@ -132,15 +132,15 @@
 
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -188,15 +188,15 @@
 
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -244,15 +244,15 @@
 
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -326,19 +326,19 @@ UUID
 | --- | --- | --- | --- | --- | --- | --- |
 |  | -2 | +2 | +1 | +1 | 0 | 0 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -380,19 +380,19 @@ UUID
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 6 / (-2) | 14 / (+2) | 13 / (+1) | 12 / (+1) | 11 / (0) | 10 / (0) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -496,15 +496,15 @@ UUID
 
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -554,15 +554,15 @@ UUID
 
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

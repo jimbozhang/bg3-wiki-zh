@@ -59,15 +59,15 @@
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到24米/80英尺。
 
@@ -105,15 +105,15 @@
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到24米/80英尺。
 
@@ -151,7 +151,7 @@
 
 - ## 特性
 
-- [**缠绕藤蔓形态**](Tanglevine_Form.md "缠绕藤蔓形态")
+- [缠绕藤蔓形态](Tanglevine_Form.md "缠绕藤蔓形态")
 
 任何对这团扭动藤蔓进行近战攻击的生物都可能被[缠绕](Entangled_(Condition).md "缠绕 (状态)")。
 
@@ -159,15 +159,15 @@
 
 在其回合结束时，幽影诅咒藤蔓将在该生物脚下萌生。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到24米/80英尺。
 
@@ -175,19 +175,19 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 免疫](#immunities)
-  - [2.3 重要战利品](#notable-loot)
-- [3 备注](#notes)
-- [4 图库](#gallery)
-- [5 另见](#see-also)
-- [6 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 免疫](#免疫)
+  - [2.3 重要战利品](#重要战利品)
+- [3 备注](#备注)
+- [4 图库](#图库)
+- [5 另见](#另见)
+- [6 外部链接](#外部链接)
 
 ## 概述
 
-幽影诅咒枯藤怪，与其同类[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")和[幽影诅咒枯针怪](Shadow-Cursed_Needle_Blight.md "幽影诅咒枯针怪")一样，会将自己隐藏在周围的植被中，以便伏击路人。队伍必须通过DC 30的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")才能发现这些伏击者并避免被突袭。
+幽影诅咒枯藤怪，与其同类[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")和[幽影诅咒枯针怪](Shadow-Cursed_Needle_Blight.md "幽影诅咒枯针怪")一样，会将自己隐藏在周围的植被中，以便伏击路人。队伍必须通过DC 30的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")才能发现这些伏击者并避免被突袭。
 
 ## 战斗
 

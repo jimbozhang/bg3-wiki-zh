@@ -69,15 +69,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -119,15 +119,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -169,15 +169,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -206,7 +206,7 @@
 [幻觉孢子](Hallucination_Spores.md "幻觉孢子") ()
 赋予类人生物幻觉，使其不受控制地游荡。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：3 米 (10 英尺)
 
 [鬼头蘑菇孢子](Timmask_Spores_(class_action).md "鬼头蘑菇孢子 (职业动作)") ()

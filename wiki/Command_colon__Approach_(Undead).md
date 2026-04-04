@@ -1,6 +1,6 @@
 # 命令术：靠近 (不死生物)
 
-**命令术：靠近** 是一个 [等级 1 惑控学派法术](Spells.md "Spells")。此法术是 [劝诫复生者](Exhort_the_Risen.md "Exhort the Risen") 的变体，与 [命令术：静止](Command_colon__Halt.md "Command: Halt") 类似，但仅影响 [不死生物](Undead.md "Undead")。它允许施法者命令其不死生物目标靠近你并停止一切行动。
+**命令术：靠近** 是一个 [法术](Spells.md "法术")。此法术是 [劝诫复生者](Exhort_the_Risen.md "Exhort the Risen") 的变体，与 [命令术：静止](Command_colon__Halt.md "Command: Halt") 类似，但仅影响 [不死生物](Undead.md "Undead")。它允许施法者命令其不死生物目标靠近你并停止一切行动。
 
 ## 描述
 

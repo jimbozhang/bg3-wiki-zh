@@ -17,7 +17,7 @@
 穿戴此物品的角色获得：
 
 [水之疗愈](Watery_Rejuvenation.md "Watery Rejuvenation")
-如果穿戴者在其回合开始时站在[水](Water_(surface).md "Water (surface)")地表上，他们将恢复 1d4⁠⁠[生命值](Healing.md "Healing")。
+如果穿戴者在其回合开始时站在[水](Water_(surface).md "Water (surface)")地表上，他们将恢复 1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ## 备注
 

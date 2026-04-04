@@ -1,6 +1,6 @@
 # 多重攻击
 
-这是一个消歧义页面，链接到名称模糊的文章。如果通过文章中的链接被[带到此处](Special_colon_WhatLinksHere/Multiattack.md "Special:WhatLinksHere/Multiattack")，请考虑编辑该链接以指向目标页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果通过文章中的链接被[多重攻击](Special_colon_WhatLinksHere/Multiattack.md "多重攻击")，请考虑编辑该链接以指向目标页面。
 
 关于游侠猎人的被动特性，请参见[多重攻击防御](Multiattack_Defence.md "多重攻击防御")
 

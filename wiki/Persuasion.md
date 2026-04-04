@@ -1,6 +1,6 @@
 # 游说
 
-**游说**是一种基于[魅力](Charisma.md "魅力")的[技能](Skills.md "技能")，几乎完全用于对话中的[属性检定](Checks.md "检定")。游说还会影响[商人](Traders.md "商人")提供的价格，以及他们与交谈英雄的[态度](Attitude.md "态度")值。
+**游说**是一种基于[魅力](Charisma.md "魅力")的[技能](Skills.md "技能")，几乎完全用于对话中的[检定](Checks.md "检定")。游说还会影响[商人](Traders.md "商人")提供的价格，以及他们与交谈英雄的[态度](Attitude.md "态度")值。
 
 > “
 >
@@ -12,14 +12,14 @@
 
 ## 目录
 
-- [1 熟练项](#proficiency)
-- [2 用途](#uses)
-- [3 相关物品](#related-items)
-  - [3.1 技能检定+1](#+1_to_Skill_Checks)
-  - [3.2 所有技能检定+1d4](#+1d4_to_All_Skill_Checks)
-  - [3.3 技能检定优势](#advantage-on-skill-checks)
-  - [3.4 其他](#other)
-- [4 相关法术](#related-spells)
+- [1 熟练项](#熟练项)
+- [2 用途](#用途)
+- [3 相关物品](#相关物品)
+  - [3.1 技能检定+1](#技能检定+1)
+  - [3.2 所有技能检定+1d4](#所有技能检定+1d4)
+  - [3.3 技能检定优势](#技能检定优势)
+  - [3.4 其他](#其他)
+- [4 相关法术](#相关法术)
 
 ## 熟练项
 
@@ -40,7 +40,7 @@
 
 选择[诱导话术](Beguiling_Influence.md "诱导话术")[异界召唤](Eldritch_Invocation.md "异界召唤")的[邪术师](Warlock.md "邪术师")获得**游说**和[欺瞒](Deception.md "欺瞒")的熟练项。
 
-选择[灵吸怪威能](Illithid_powers.md "灵吸怪威能")[灵吸怪专精](Illithid_Expertise.md "灵吸怪专精")的角色在游说、[欺瞒](Deception.md "欺瞒")和[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")上获得专精（和熟练项）。
+选择[灵吸怪威能](Illithid_powers.md "灵吸怪威能")[灵吸怪专精](Illithid_Expertise.md "灵吸怪专精")的角色在游说、[欺瞒](Deception.md "欺瞒")和[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")上获得专精（和熟练项）。
 
 ## 用途
 

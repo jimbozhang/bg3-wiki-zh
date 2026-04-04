@@ -23,15 +23,15 @@ ______________________________________________________________________
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 地图](#map)
-  - [1.2 地点](#locations)
-- [2 传送点](#waypoints)
-- [3 相关任务](#related-quests)
-- [4 重要角色](#notable-characters)
-  - [4.1 可用于死者交谈的角色](#available-for-speak-with-dead)
-- [5 埋藏的宝藏](#buried-treasures)
-- [6 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 地图](#地图)
+  - [1.2 地点](#地点)
+- [2 传送点](#传送点)
+- [3 相关任务](#相关任务)
+- [4 重要角色](#重要角色)
+  - [4.1 可用于死者交谈的角色](#可用于死者交谈的角色)
+- [5 埋藏的宝藏](#埋藏的宝藏)
+- [6 外部链接](#外部链接)
 
 ## 概述
 
@@ -156,7 +156,7 @@ image/svg+xml >) 下城区的交互式地图。
 - [埃赛尔婶婶](Auntie_Ethel.md "Auntie Ethel") - 在[脸红的美人鱼](Blushing_Mermaid.md "Blushing Mermaid")
 - [格雷斯利船长](Grisly.md "Grisly") - 在[脸红的美人鱼](Blushing_Mermaid.md "Blushing Mermaid")
 - [黛薇拉·喷泉头](Devella_Fountainhead.md "Devella Fountainhead") - [精灵之歌](Elfsong.md "Elfsong")
-- [伊尔明斯特·艾摩](Elminster.md "Elminster") - 在[巫术杂物店](Sorcerous_Sundries.md "Sorcerous Sundries")外，在[深水城的法师](The_Wizard_of_Waterdeep.md "The Wizard of Waterdeep")期间阅读[卡尔萨斯年鉴](The_Annals_of_Karsus.md "The Annals of Karsus")后出现
+- [伊尔明斯特](Elminster.md "伊尔明斯特") - 在[巫术杂物店](Sorcerous_Sundries.md "Sorcerous Sundries")外，在[深水城的法师](The_Wizard_of_Waterdeep.md "The Wizard of Waterdeep")期间阅读[卡尔萨斯年鉴](The_Annals_of_Karsus.md "The Annals of Karsus")后出现
 - [叶斯特拉·斯特尔](Estra_Stir.md "Estra Stir") - 石化蜥蜴之门[传送点](Waypoint.md "Waypoint")以南，[飞龙岩要塞](Wyrm's_Rock_Fortress.md "Wyrm's Rock Fortress")入口以西
 - [埃塔瓦德·针](Ettvard_Needle.md "Ettvard Needle") - 在[博德之口](Baldur's_Mouth.md "Baldur's Mouth")建筑内
 - [梅丽娜](Mayrina.md "Mayrina") - 在[老加洛之家](Old_Garlow's_Place.md "Old Garlow's Place")
@@ -173,7 +173,7 @@ image/svg+xml >) 下城区的交互式地图。
 
 ## 埋藏的宝藏
 
-- X: 25 Y: -166 - DC 15 [求生](Survival.md "Survival") [检定](Ability_Check.md "Ability check")
+- X: 25 Y: -166 - DC 15 [求生](Survival.md "Survival") [属性检定](Ability_Check.md "属性检定")
 
 ## 外部链接
 

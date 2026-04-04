@@ -2,7 +2,7 @@
 
 此页面内容为[荣誉模式](Honour_Mode.md "荣誉模式")专属。
 
-**召唤配偶**是[荣誉模式](Honour_Mode.md "荣誉模式")下[枭熊巢穴](Owlbear_Nest.md "枭熊巢穴")中[枭熊母亲](Owlbear.md "枭熊")可用的传奇[反应](reaction.md "反应")。它会召唤她的[配偶](Owlbear_Mate.md "枭熊配偶")，该单位拥有相同的基础属性，并能使用[睚眦必报](Vengeful_Father.md "睚眦必报")。
+**召唤配偶**是[荣誉模式](Honour_Mode.md "荣誉模式")下[枭熊巢穴](Owlbear_Nest.md "枭熊巢穴")中[枭熊](Owlbear.md "枭熊")可用的传奇[反应](reaction.md "反应")。它会召唤她的[配偶](Owlbear_Mate.md "枭熊配偶")，该单位拥有相同的基础属性，并能使用[睚眦必报](Vengeful_Father.md "睚眦必报")。
 
 ## 描述
 

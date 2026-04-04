@@ -1,6 +1,6 @@
 # 凤凰烈焰
 
-**凤凰烈焰** 是一项动作，允许 [四象宗](Way_of_the_Four_Elements.md "四象宗") 武僧通过消耗 [气点](Ki_Point.md "气点") 来施放其等效的 [火球术术](Fireball.md "火球术术")，而非使用法术位。
+**凤凰烈焰** 是一项动作，允许 [四象宗](Way_of_the_Four_Elements.md "四象宗") 武僧通过消耗 [气点](Ki_Point.md "气点") 来施放其等效的 [火球术](Fireball.md "火球术")，而非使用法术位。
 
 ## 描述
 

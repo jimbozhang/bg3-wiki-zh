@@ -61,31 +61,31 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**击倒啃咬**](Knockdown_Jaws.md "击倒啃咬")
+- [击倒啃咬](Knockdown_Jaws.md "击倒啃咬")
 
 此生物的啃咬攻击可能使目标[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**暗影面纱**](Shadow_Veil.md "暗影面纱")
+- [暗影面纱](Shadow_Veil.md "暗影面纱")
 
 当处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")时，幽影獒犬对非魔法的[钝击](Bludgeoning.md "钝击")、[穿刺](Piercing.md "穿刺")和[挥砍](Slashing.md "挥砍")伤害具有[抗性](Resistant.md "抗性")。
 
-- [**融入暗影**](Shadowblend.md "融入暗影")
+- [融入暗影](Shadowblend.md "融入暗影")
 
 当处于轻度或重度[遮蔽](Obscurity.md "遮蔽")时，变为[隐形](Invisible_(Condition)..md)
 
-- [**影贼**](Shadowthief.md "影贼")
+- [影贼](Shadowthief.md "影贼")
 
 佩戴者的武器和徒手攻击对处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")的生物，以及由暗影构成的生物，造成额外 **1d4** 点伤害。
 
-- [**日照弱点**](Sunlight_Weakness.md "日照弱点")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
@@ -125,31 +125,31 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**击倒啃咬**](Knockdown_Jaws.md "击倒啃咬")
+- [击倒啃咬](Knockdown_Jaws.md "击倒啃咬")
 
 此生物的啃咬攻击可能使目标[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**暗影面纱**](Shadow_Veil.md "暗影面纱")
+- [暗影面纱](Shadow_Veil.md "暗影面纱")
 
 当处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")时，幽影獒犬对非魔法的[钝击](Bludgeoning.md "钝击")、[穿刺](Piercing.md "穿刺")和[挥砍](Slashing.md "挥砍")伤害具有[抗性](Resistant.md "抗性")。
 
-- [**融入暗影**](Shadowblend.md "融入暗影")
+- [融入暗影](Shadowblend.md "融入暗影")
 
 当处于轻度或重度[遮蔽](Obscurity.md "遮蔽")时，变为[隐形](Invisible_(Condition)..md)
 
-- [**影贼**](Shadowthief.md "影贼")
+- [影贼](Shadowthief.md "影贼")
 
 佩戴者的武器和徒手攻击对处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")的生物，以及由暗影构成的生物，造成额外 **1d4** 点伤害。
 
-- [**日照弱点**](Sunlight_Weakness.md "日照弱点")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
@@ -189,31 +189,31 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**击倒啃咬**](Knockdown_Jaws.md "击倒啃咬")
+- [击倒啃咬](Knockdown_Jaws.md "击倒啃咬")
 
 此生物的啃咬攻击可能使目标[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**暗影面纱**](Shadow_Veil.md "暗影面纱")
+- [暗影面纱](Shadow_Veil.md "暗影面纱")
 
 当处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")时，幽影獒犬对非魔法的[钝击](Bludgeoning.md "钝击")、[穿刺](Piercing.md "穿刺")和[挥砍](Slashing.md "挥砍")伤害具有[抗性](Resistant.md "抗性")。
 
-- [**融入暗影**](Shadowblend.md "融入暗影")
+- [融入暗影](Shadowblend.md "融入暗影")
 
 当处于轻度或重度[遮蔽](Obscurity.md "遮蔽")时，变为[隐形](Invisible_(Condition)..md)
 
-- [**影贼**](Shadowthief.md "影贼")
+- [影贼](Shadowthief.md "影贼")
 
 佩戴者的武器和徒手攻击对处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")的生物，以及由暗影构成的生物，造成额外 **1d4** 点伤害。
 
-- [**日照弱点**](Sunlight_Weakness.md "日照弱点")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
@@ -221,17 +221,17 @@
 
 ## 目录
 
-- [1 登场](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 登场](#登场)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 登场
 
 ### 第二幕
 
-这只由暗影和筋肉构成的怪物犬总是充满敌意。它在[废弃战场](Ruined_Battlefield.md "废弃战场")中，坐标 X: -49 Y: 36 附近，当附近的[永恒燃烧火炬](Standing_Torch.md "立式火炬")被摧毁时，会与三只[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")一同从阴影中出现。
+这只由暗影和筋肉构成的怪物犬总是充满敌意。它在[废弃战场](Ruined_Battlefield.md "废弃战场")中，坐标 X: -49 Y: 36 附近，当附近的[立式火炬](Standing_Torch.md "立式火炬")被摧毁时，会与三只[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")一同从阴影中出现。
 
 虽然比[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")稍强，但它们在外观上完全相同，并使用相同的游戏内模型。
 

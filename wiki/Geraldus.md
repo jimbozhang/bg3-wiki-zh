@@ -92,15 +92,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md "魅惑 (状态)")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
@@ -108,7 +108,7 @@
 
 你已成为穿越[荒野](Wilderness.md "荒野")的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -158,15 +158,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md "魅惑 (状态)")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
@@ -174,7 +174,7 @@
 
 你已成为穿越[荒野](Wilderness.md "荒野")的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -224,15 +224,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md "魅惑 (状态)")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
@@ -240,7 +240,7 @@
 
 你已成为穿越[荒野](Wilderness.md "荒野")的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -262,24 +262,24 @@ Stats
 
 ## 目录
 
-- [1 历史](#history)
-  - [1.1 巴尔教徒复苏](#bhaalist-resurgence)
-- [2 参与](#involvement)
-  - [2.1 巴尔教徒的人质](#hostage-to-bhaalists)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 死者交谈](#speak-with-dead)
-  - [4.1 以贾希拉身份交谈](#if-talking-as-jaheira)
-- [5 相关任务](#related-quests)
-- [6 相关文献](#related-literature)
-- [7 注释](#notes)
+- [1 历史](#历史)
+  - [1.1 巴尔教徒复苏](#巴尔教徒复苏)
+- [2 参与](#参与)
+  - [2.1 巴尔教徒的人质](#巴尔教徒的人质)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 死者交谈](#死者交谈)
+  - [4.1 以贾希拉身份交谈](#以贾希拉身份交谈)
+- [5 相关任务](#相关任务)
+- [6 相关文献](#相关文献)
+- [7 注释](#注释)
 
 ## 历史
 
 ### 巴尔教徒复苏
 
-在[博德之门](Baldur's_Gate.md "博德之门")出现[巴尔教徒活动](Bhaal.md "Bhaal")的传闻后，[贾希拉](Jaheira.md "Jaheira")命令她的竖琴手们调查巴尔教团的阴谋，让他们尽可能多地收集信息，而她则率领另一支竖琴手部队进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")以击败[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")。然而，当贾希拉命令竖琴手们集中精力寻找[明斯克](Minsc.md "明斯克")时，杰拉尔德斯所在的竖琴手小组被巴尔教徒的[变形怪](Doppelganger.md "变形怪")杀害或俘虏，并被带到了[奥林](Orin.md "奥林")面前。
+在[博德之门](Baldur's_Gate.md "博德之门")出现[巴尔](Bhaal.md "巴尔")的传闻后，[贾希拉](Jaheira.md "Jaheira")命令她的竖琴手们调查巴尔教团的阴谋，让他们尽可能多地收集信息，而她则率领另一支竖琴手部队进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")以击败[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")。然而，当贾希拉命令竖琴手们集中精力寻找[明斯克](Minsc.md "明斯克")时，杰拉尔德斯所在的竖琴手小组被巴尔教徒的[变形怪](Doppelganger.md "变形怪")杀害或俘虏，并被带到了[奥林](Orin.md "奥林")面前。
 
 杰拉尔德斯是变形怪留下的唯一活着的竖琴手，以便他被用作诱饵，引贾希拉和玩家角色前来接触。
 

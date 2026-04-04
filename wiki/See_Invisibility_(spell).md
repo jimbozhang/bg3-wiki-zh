@@ -2,7 +2,7 @@
 
 本文介绍的是法术。其他用法，请参见[识破隐形（消歧义）](See_Invisibility_(disambiguation)..md)
 
-**识破隐形**是一个[2级预言学派法术](Spells.md "法术")。它允许施法者在未[失能](Incapacitated_(Condition).md "失能（状态）")时，看到范围内的[隐形](Invisible_(Condition).md "隐形（状态）")物体和生物。范围内未通过敏捷豁免检定的生物将失去其[隐形](Invisible_(Condition).md "隐形（状态）")状态。
+**识破隐形**是一个[法术](Spells.md "法术")。它允许施法者在未[失能](Incapacitated_(Condition).md "失能（状态）")时，看到范围内的[隐形](Invisible_(Condition).md "隐形（状态）")物体和生物。范围内未通过敏捷豁免检定的生物将失去其[隐形](Invisible_(Condition).md "隐形（状态）")状态。
 
 ## 描述
 
@@ -61,7 +61,7 @@ UID
 
 ## 备注
 
-- 如果由[法师](Wizard.md "法师")施放，此法术必须保持[预备](Prepared_spells.md "预备法术")状态；将其从施法者的预备法术列表中移除将移除增益。如果直接使用[卷轴](Scroll_of_See_Invisibility.md "识破隐形卷轴")施放，而非[抄录](Transcribing_scrolls.md "抄录卷轴")到法师的法术书中，则施法者无需保持法术预备状态来维持增益。
+- 如果由[法师](Wizard.md "法师")施放，此法术必须保持[预备](Prepared_spells.md "预备法术")状态；将其从施法者的预备法术列表中移除将移除增益。如果直接使用[识破隐形卷轴](Scroll_of_See_Invisibility.md "识破隐形卷轴")施放，而非[抄录](Transcribing_scrolls.md "抄录卷轴")到法师的法术书中，则施法者无需保持法术预备状态来维持增益。
 
 ## 外部链接
 

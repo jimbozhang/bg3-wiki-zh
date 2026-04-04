@@ -86,11 +86,11 @@
 
 ## 特性
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -98,7 +98,7 @@
 
 承受 -1 钝击伤害。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "Reaction")将受到的命中伤害减半。
 
@@ -146,11 +146,11 @@
 
 ## 特性
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -158,7 +158,7 @@
 
 承受 -1 钝击伤害。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "Reaction")将受到的命中伤害减半。
 
@@ -206,11 +206,11 @@
 
 ## 特性
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -218,7 +218,7 @@
 
 承受 -1 钝击伤害。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "Reaction")将受到的命中伤害减半。
 

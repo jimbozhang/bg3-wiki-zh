@@ -29,7 +29,7 @@ _维基数据库中未定义_
 [魅惑](Charmed_(Condition).md "Charmed (Condition)")
 |
 
-- 无法攻击施法者。施法者在对话中进行 [魅力](Charisma.md "Charisma") [检定](Ability_Check.md "Ability Check") 时具有 [优势](Advantage.md "Advantage")。
+- 无法攻击施法者。施法者在对话中进行 [魅力](Charisma.md "Charisma") [属性检定](Ability_Check.md "属性检定") 时具有 [优势](Advantage.md "Advantage")。
 
 [邪魔服从](Fiendish_Obeisance_(Condition).md "Fiendish Obeisance (Condition)")
 |

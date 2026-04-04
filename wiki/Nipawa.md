@@ -85,11 +85,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -137,11 +137,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -189,11 +189,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -215,15 +215,15 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attack-and-abilities)
-- [3 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 画廊](#gallery)
-- [6 注释](#notes)
-- [7 参考文献](#references)
+- [1 参与情况](#参与情况)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 画廊](#画廊)
+- [6 注释](#注释)
+- [7 参考文献](#参考文献)
 
 ## 参与情况
 

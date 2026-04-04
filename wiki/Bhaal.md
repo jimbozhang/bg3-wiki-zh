@@ -43,7 +43,7 @@
 
 ### 第二幕
 
-[腥红奥林](Orin.md "奥林")被揭示为巴尔的选民。在[月出之塔](Moonrise_Towers.md "月出之塔")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，奥林与[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")和[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")同行。人们发现三神——灾祸（<Bane_(God)）、巴尔和⁠[米尔寇](Myrkul.md "米尔寇")——再次结盟，让他们的选民创建至上真神教。奥林使用她的[耐色石](Orin's_Netherstone.md "奥林的耐色石")——巴尔之鞭——命令[耐色脑](Netherbrain.md "耐色脑")让至上真神的军队向[博德之门](Baldur's_Gate.md "博德之门")进军。
+[奥林](Orin.md "奥林")被揭示为巴尔的选民。在[月出之塔](Moonrise_Towers.md "月出之塔")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，奥林与[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")和[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")同行。人们发现三神——灾祸（<Bane_(God)）、巴尔和⁠[米尔寇](Myrkul.md "米尔寇")——再次结盟，让他们的选民创建至上真神教。奥林使用她的[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")——巴尔之鞭——命令[耐色脑](Netherbrain.md "耐色脑")让至上真神的军队向[博德之门](Baldur's_Gate.md "博德之门")进军。
 
 ### 第三幕
 
@@ -156,7 +156,7 @@
 - [海伦娜·安基夫](Helena_Anchev.md "海伦娜·安基夫")
 - [凯沃·弗格](Kevo_Phogge.md "凯沃·弗格")
 - [克里丝](Kryss.md "克里丝")
-- [腥红奥林](Orin.md "奥林")
+- [奥林](Orin.md "奥林")
 - [菲勒](Phylle.md "菲勒")
 - [沙洛佛克·安基夫](Sarevok_Anchev.md "沙洛佛克·安基夫")
 - [斯波德](Spaulder.md "斯波德")
@@ -169,7 +169,7 @@
 
 ## 图库
 
-- .png巴尔在其[神殿](Temple_of_Bhaal.md "巴尔神殿")中被发现的符号
+- .png巴尔在其[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")中被发现的符号
 
 - 概念艺术
 

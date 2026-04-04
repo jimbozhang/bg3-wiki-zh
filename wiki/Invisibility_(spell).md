@@ -2,7 +2,7 @@
 
 另见：[隐形（消歧义）](Invisibility_(disambiguation).md)
 
-**隐形**是一个[2级幻术学派法术](Spells.md "Spells")。它允许施法者让自己和其他生物对肉眼[隐形](Invisible_(Condition).md "Invisible (Condition)")。
+**隐形**是一个[法术](Spells.md "法术")。它允许施法者让自己和其他生物对肉眼[隐形](Invisible_(Condition).md "Invisible (Condition)")。
 
 ## 描述
 

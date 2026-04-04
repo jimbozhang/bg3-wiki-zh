@@ -82,15 +82,15 @@
 
 ## 特性
 
-- [**诅咒硬币**](Accursed_Coins.md "诅咒硬币")
+- [诅咒硬币](Accursed_Coins.md "诅咒硬币")
 
-此被诅咒的面容控制着保护[收费员](Gerringothe_Thorm.md "格灵哥斯·索姆")的部分硬币。
+此被诅咒的面容控制着保护[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")的部分硬币。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -146,15 +146,15 @@
 
 ## 特性
 
-- [**诅咒硬币**](Accursed_Coins.md "诅咒硬币")
+- [诅咒硬币](Accursed_Coins.md "诅咒硬币")
 
-此被诅咒的面容控制着保护[收费员](Gerringothe_Thorm.md "格灵哥斯·索姆")的部分硬币。
+此被诅咒的面容控制着保护[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")的部分硬币。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -210,19 +210,19 @@
 
 ## 特性
 
-- [**诅咒硬币**](Accursed_Coins.md "诅咒硬币")
+- [诅咒硬币](Accursed_Coins.md "诅咒硬币")
 
-此被诅咒的面容控制着保护[收费员](Gerringothe_Thorm.md "格灵哥斯·索姆")的部分硬币。
+此被诅咒的面容控制着保护[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")的部分硬币。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -252,10 +252,10 @@ UUID
 
 ## 内容
 
-- [1 关于](#about)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
+- [1 关于](#关于)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
 
 ## 关于
 

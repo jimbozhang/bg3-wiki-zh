@@ -61,8 +61,8 @@ UID
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
-- 受影响实体浸透在敌人的血液中。每回合恢复2d6⁠⁠[生命值](Healing.md "生命值")。
-- 在10级时，治疗提升至4d6⁠⁠[生命值](Healing.md "生命值")每回合。
+- 受影响实体浸透在敌人的血液中。每回合恢复2d6⁠⁠[治疗](Healing.md "治疗")。
+- 在10级时，治疗提升至4d6⁠⁠[治疗](Healing.md "治疗")每回合。
 
 ## 如何习得
 

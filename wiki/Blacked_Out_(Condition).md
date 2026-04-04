@@ -48,13 +48,13 @@
 |
 
 - 每啜饮一口他的特制酿造物，西索博得·索姆都会更加醉酒。
-- 他在魅力和敏捷[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并开始产生小魔鬼的幻觉。
+- 他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并开始产生小魔鬼的幻觉。
 
 [深度醉酒](Profoundly_Intoxicated_(Condition).md "深度醉酒 (状态)")
 |
 
 - 西索博得·索姆因过度饮酒而濒临昏迷。
-- 他在魅力和敏捷[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并且他的幻觉持续存在。
+- 他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并且他的幻觉持续存在。
 
 ---
 *Source: [Blacked Out (Condition)](https://bg3.wiki/wiki/Blacked_Out_(Condition)*

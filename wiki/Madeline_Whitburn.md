@@ -91,15 +91,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -121,11 +121,11 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 相关文献](#related-literature)
-- [3 画廊](#gallery)
-- [4 注释与参考](#notes-and-references)
-- [5 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+- [2 相关文献](#相关文献)
+- [3 画廊](#画廊)
+- [4 注释与参考](#注释与参考)
+- [5 外部链接](#外部链接)
 
 ## 参与情况
 

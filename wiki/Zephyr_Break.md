@@ -38,7 +38,7 @@ UID
 
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
 
-- 受影响实体在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，且针对该实体的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+- 受影响实体在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，且针对该实体的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 - 通过承受伤害或被[协助](Help.md "协助")移除。
 
 ## 如何习得

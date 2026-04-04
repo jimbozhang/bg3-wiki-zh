@@ -12,7 +12,7 @@
 
 ## 疾如清风的来源
 
-- [疾如清风速度](Breezeswift_Speed.md "Breezeswift Speed")
+- [疾如清风](Breezeswift_Speed.md "疾如清风")
 
 ## 拥有疾如清风的生物
 

@@ -85,11 +85,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成的[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")持续时间加倍。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -149,11 +149,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成的[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")持续时间加倍。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -205,7 +205,7 @@
 
 ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -217,15 +217,15 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成的[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")持续时间加倍。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕根深蒂固。
 
@@ -247,13 +247,13 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 策略](#manoeuvres)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 策略](#策略)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
 
 ## 参与情况
 

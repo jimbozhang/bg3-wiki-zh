@@ -64,23 +64,23 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵")或⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
@@ -126,23 +126,23 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵")或⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
@@ -194,23 +194,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵")或⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
@@ -232,7 +232,7 @@
 射程：4 米 (13 英尺)
 
 [暗影步](Shadow_Step.md "暗影步") ()
-从[阴影](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 射程：18 米 (60 英尺)
 

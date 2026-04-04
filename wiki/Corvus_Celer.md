@@ -63,27 +63,27 @@
 
 ## 特性
 
-- [**兽性狂怒**](Bestial_Fury.md "兽性狂怒")
+- [兽性狂怒](Bestial_Fury.md "兽性狂怒")
 
 使你的所有伙伴获得一次额外攻击。
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md), [撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")，和[协助](Help_(bonus_action).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被你的游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
-- [**天眼通**](Raven_Sight.md "天眼通")
+- [天眼通](Raven_Sight.md "天眼通")
 
 渡鸦不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
@@ -127,27 +127,27 @@
 
 ## 特性
 
-- [**兽性狂怒**](Bestial_Fury.md "兽性狂怒")
+- [兽性狂怒](Bestial_Fury.md "兽性狂怒")
 
 使你的所有伙伴获得一次额外攻击。
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md), [撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")，和[协助](Help_(bonus_action).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被你的游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
-- [**天眼通**](Raven_Sight.md "天眼通")
+- [天眼通](Raven_Sight.md "天眼通")
 
 渡鸦不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
@@ -167,7 +167,7 @@ UUID
 
 `Companion_Raven_11`
 
-**神速鸦**是一只通过[驯兽师](Beast_Master.md "驯兽师")的[恐鸦伙伴](Dire_Raven_Companion.md "恐鸦伙伴")能力召唤的[渡鸦](Raven.md "渡鸦")，这是[游侠伙伴](Ranger's_Companion.md "游侠伙伴")的一个变体。神速鸦是[乌鸦座](Corvus.md "乌鸦座")和[乌鸦座主星](Corvus_Major.md "乌鸦座主星")在驯兽师达到 11 级后的完全升级形态。
+**神速鸦**是一只通过[驯兽师](Beast_Master.md "驯兽师")的[恐鸦伙伴](Dire_Raven_Companion.md "恐鸦伙伴")能力召唤的[渡鸦](Raven.md "渡鸦")，这是[游侠伙伴](Ranger's_Companion.md "游侠伙伴")的一个变体。神速鸦是[乌鸦座](Corvus.md "乌鸦座")和[乌鸦座](Corvus_Major.md "乌鸦座")在驯兽师达到 11 级后的完全升级形态。
 
 ## 战斗
 

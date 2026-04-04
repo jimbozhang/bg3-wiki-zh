@@ -32,7 +32,7 @@
 
 我会归还他偷走的[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术")。届时他们会原谅我。他们会知道我是忠诚的。
 
-[钥匙宝石](Dark_Amethyst.md "暗紫水晶")安全地藏在隧道中。一旦我拿到它，我将溜进地窖，带走我能携带的一切，然后——*回家*。
+[暗紫水晶](Dark_Amethyst.md "暗紫水晶")安全地藏在隧道中。一旦我拿到它，我将溜进地窖，带走我能携带的一切，然后——*回家*。
 
 ---
 *Source: [Apprentice's Journal](https://bg3.wiki/wiki/Apprentice's_Journal)*

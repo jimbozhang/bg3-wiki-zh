@@ -59,7 +59,7 @@
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -97,7 +97,7 @@
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -135,7 +135,7 @@
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -143,11 +143,11 @@
 
 ## 目录
 
-- [1 外观](#appearance)
-- [2 相关剧情](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第二幕](#act-two)
-- [3 图库](#gallery)
+- [1 外观](#外观)
+- [2 相关剧情](#相关剧情)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第二幕](#第二幕)
+- [3 图库](#图库)
 
 ## 外观
 

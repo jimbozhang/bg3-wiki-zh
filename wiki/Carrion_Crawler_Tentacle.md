@@ -1,6 +1,6 @@
 # 食腐虫触手
 
-**食腐虫触手**是一种[炼金术材料](Alchemy.md "炼金术")。将3个食腐虫触手研磨成[食腐虫触手盐](Salts_of_Carrion_Crawler_Tentacle.md "食腐虫触手盐")，可用于制作[爬行者粘液](Crawler_Mucus.md "爬行者粘液")。
+**食腐虫触手**是一种[炼金术](Alchemy.md "炼金术")。将3个食腐虫触手研磨成[食腐虫触手盐](Salts_of_Carrion_Crawler_Tentacle.md "食腐虫触手盐")，可用于制作[爬行者粘液](Crawler_Mucus.md "爬行者粘液")。
 
 这种可抓握的触手孔隙中会渗出蜡白色的粘液。
 

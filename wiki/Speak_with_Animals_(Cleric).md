@@ -2,7 +2,7 @@
 
 本文介绍的是知识领域牧师的动作。关于法术，请参见 [动物交谈](Speak_with_Animals.md "动物交谈")。
 
-**动物交谈**是 [知识领域](Knowledge_Domain.md "知识领域") 牧师可用的 [引导神力](Channel_Divinity_Charge.md "引导神力冲锋") 动作。此能力允许牧师引导神圣力量，理解并与野兽交流。它等同于同名 [法术](Speak_with_Animals.md "动物交谈")。
+**动物交谈**是 [知识领域](Knowledge_Domain.md "知识领域") 牧师可用的 [引导神力](Channel_Divinity_Charge.md "引导神力冲锋") 动作。此能力允许牧师引导神圣力量，理解并与野兽交流。它等同于同名 [动物交谈](Speak_with_Animals.md "动物交谈")。
 
 ## 描述
 

@@ -1,6 +1,6 @@
 # 重伤术
 
-**重伤术**是一个[6级死灵学派法术](Spells.md "Spells")。它允许施法者使敌人变得极为虚弱。
+**重伤术**是一个[法术](Spells.md "法术")。它允许施法者使敌人变得极为虚弱。
 
 ## 描述
 
@@ -15,7 +15,7 @@
 14d6⁠[黯蚀](Necrotic.md "Necrotic")
 
 详情
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（豁免成功时：目标仍承受一半伤害，但其最大生命值不会降低。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（豁免成功时：目标仍承受一半伤害，但其最大生命值不会降低。）
 射程：18米（60英尺）
 
 ## 升环施法效应
@@ -38,7 +38,7 @@ UID
 
 持续时间：直至[长休](Long_Rest.md "Long rest")
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 受影响实体的最大[生命值](Hit_Points.md "Hit Points")已被重伤术造成的伤害降低
 - 此状态是一种**疾病**

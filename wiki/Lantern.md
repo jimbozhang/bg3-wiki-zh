@@ -1,6 +1,6 @@
 # 提灯
 
-**提灯**可作为[光源](Category_colon_Light_Sources.md "Category:Light Sources")使用，并兼作[短棒](Clubs.md "Clubs")类别的即兴武器。它是一种单手挥舞的[简易近战武器](Weapons.md "Weapons")。其在实用性和战斗功能上与[火把](Torch.md "Torch")完全相同。
+**提灯**可作为[光源](Category_colon_Light_Sources.md "Category:Light Sources")使用，并兼作[短棒](Clubs.md "Clubs")类别的即兴武器。它是一种单手挥舞的[武器](Weapons.md "武器")。其在实用性和战斗功能上与[火把](Torch.md "Torch")完全相同。
 
 一股浓重的油味从这根粗糙的树枝上飘散出来。
 

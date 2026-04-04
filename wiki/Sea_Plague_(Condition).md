@@ -2,7 +2,7 @@
 
 **海疫**
 
-- 患者浑身布满厚重油腻的汗珠，其进行的[力量](Strength.md "力量")[属性](Ability.md "属性")[检定](Ability_Check.md "检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。
+- 患者浑身布满厚重油腻的汗珠，其进行的[力量](Strength.md "力量")[属性](Ability.md "属性")[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。
 
 [患病](Diseased_(status_group).md)
 
@@ -26,12 +26,12 @@
 
 ## 具有相同堆叠 ID 的状态
 
-- 患者浑身布满厚重油腻的汗珠，其进行的[力量](Strength.md "力量")[属性](Ability.md "属性")[检定](Ability_Check.md "检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。
+- 患者浑身布满厚重油腻的汗珠，其进行的[力量](Strength.md "力量")[属性](Ability.md "属性")[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。
 
 [身染污热病](Stricken_With_Filth_Fever_(Condition).md "身染污热病 (状态)")
 |
 
-- 患者浑身布满厚重油腻的汗珠，其进行的[检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")，且这些[攻击掷骰](Attack_roll.md "攻击掷骰")使用[力量](Strength.md "力量")。
+- 患者浑身布满厚重油腻的汗珠，其进行的[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")，且这些[攻击掷骰](Attack_roll.md "攻击掷骰")使用[力量](Strength.md "力量")。
 
 ---
 *Source: [Sea Plague (Condition)](https://bg3.wiki/wiki/Sea_Plague_(Condition)*

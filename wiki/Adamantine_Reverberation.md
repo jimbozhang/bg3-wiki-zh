@@ -19,7 +19,7 @@
 详情：
 范围：自身
 充能：每回合
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（豁免成功时：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（豁免成功时：目标仍承受一半伤害。）
 
 ## 状态：锻钢残响
 

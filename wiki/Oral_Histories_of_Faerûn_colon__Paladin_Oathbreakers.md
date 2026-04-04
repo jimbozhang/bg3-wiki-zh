@@ -34,7 +34,7 @@
 
 人类圣武士（弃誓者）
 
-鉴于瓦莱莫尔在她曾称为家乡的⁠[阿斯卡特拉](https://forgottenrealms.fandom.com/wiki/Athkatla)的名声，我怀着不小的忧虑会见了这位前贵族专属⁠[光耀之心骑士团](https://forgottenrealms.fandom.com/wiki/Order_of_the_Radiant_Heart)的骑士长官。她已作为流亡者生活了数年，关于她品性的传言早已先于她本人。我与骑士团的一位高级教士交谈过，他形容她是一个可怕、施虐成性的[叛徒](Oathbreaker.md "弃誓者")，并警告我找到她无异于自杀——她会在我说出一个字之前就杀了我。
+鉴于瓦莱莫尔在她曾称为家乡的⁠[阿斯卡特拉](https://forgottenrealms.fandom.com/wiki/Athkatla)的名声，我怀着不小的忧虑会见了这位前贵族专属⁠[光耀之心骑士团](https://forgottenrealms.fandom.com/wiki/Order_of_the_Radiant_Heart)的骑士长官。她已作为流亡者生活了数年，关于她品性的传言早已先于她本人。我与骑士团的一位高级教士交谈过，他形容她是一个可怕、施虐成性的[弃誓者](Oathbreaker.md "弃誓者")，并警告我找到她无异于自杀——她会在我说出一个字之前就杀了我。
 
 他错了。当我最终找到她时，我们交谈了数小时，她祝福我分享她的故事。我不会透露我们的会面地点，因为骑士团会处决那些违反誓言的人。
 

@@ -13,7 +13,7 @@
 详情：
 范围：18米（英尺）
 充能：每[驱散](Turn.md "驱散")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 
 ## 如何习得
 

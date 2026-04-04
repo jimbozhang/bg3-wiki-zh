@@ -17,7 +17,7 @@
 
 ### 体型
 
-[中型](Medium.md "Medium")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -91,19 +91,19 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "Advantage")进行[豁免检定](Saving_throw.md "Saving throw")以抵抗[中毒](Poisoned_(Condition).md) 以及对[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "Improved Extra Attack")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -153,19 +153,19 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "Advantage")进行[豁免检定](Saving_throw.md "Saving throw")以抵抗[中毒](Poisoned_(Condition).md) 以及对[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "Improved Extra Attack")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -215,19 +215,19 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "Advantage")进行[豁免检定](Saving_throw.md "Saving throw")以抵抗[中毒](Poisoned_(Condition).md) 以及对[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "Improved Extra Attack")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -249,17 +249,17 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-    - [1.1.1 弗莱姆货运地下室的对话](#conversation-in-flymm-cargo's-basement)
-    - [1.1.2 为溺死鬼复仇](#avenge-the-drowned)
-    - [1.1.3 解救贡德信徒](#save-the-gondians)
-    - [1.1.4 请求搭乘](#asking-for-a-ride)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 画廊](#gallery)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+    - [1.1.1 弗莱姆货运地下室的对话](#弗莱姆货运地下室的对话)
+    - [1.1.2 为溺死鬼复仇](#为溺死鬼复仇)
+    - [1.1.3 解救贡德信徒](#解救贡德信徒)
+    - [1.1.4 请求搭乘](#请求搭乘)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 画廊](#画廊)
 
 ## 出场
 
@@ -351,7 +351,7 @@ Stats
 
 1d10 + 战士等级⁠[治疗](Healing.md "Healing")
 
-利用你的精力保护自己。你恢复 1d10 + 战士等级⁠⁠[生命值](Healing.md "Healing")。
+利用你的精力保护自己。你恢复 1d10 + 战士等级⁠⁠[治疗](Healing.md "治疗")。
 
 范围：自身
 充能：[短休](Short_rest.md "Short rest")

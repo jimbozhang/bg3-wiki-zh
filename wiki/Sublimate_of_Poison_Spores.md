@@ -1,6 +1,6 @@
 # 毒素孢子升华物
 
-**毒素孢子升华物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[毒素孢子弹](Noxious_Spore_Grenade.md "毒素孢子弹")。
+**毒素孢子升华物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[毒素孢子弹](Noxious_Spore_Grenade.md "毒素孢子弹")。
 
 吸入这种病态甜味的蒸汽一次，就会让鼻窦收缩。
 

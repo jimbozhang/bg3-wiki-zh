@@ -12,7 +12,7 @@
 
 ## 进入方式
 
-可以通过下城区的[墓园](Graveyard_(Lower_City)进入.md)，几乎位于其中心位置，坐标 X: 10 Y: 33。需要[葛立安陵墓钥匙](Gorion_Mausoleum_Key.md "葛立安陵墓钥匙")或通过 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")才能打开大门。
+可以通过下城区的[墓园](Graveyard_(Lower_City)进入.md)，几乎位于其中心位置，坐标 X: 10 Y: 33。需要[葛立安陵墓钥匙](Gorion_Mausoleum_Key.md "葛立安陵墓钥匙")或通过 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")才能打开大门。
 
 ## 概述
 

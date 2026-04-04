@@ -88,7 +88,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -96,27 +96,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，且对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "Attack rolls")具有[优势](Advantage.md "Advantage")。
 
@@ -166,7 +166,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +8 | +1 | +7 | 0 | +1 | -1 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -174,27 +174,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，且对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "Attack rolls")具有[优势](Advantage.md "Advantage")。
 
@@ -228,12 +228,12 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 显著战利品](#notable-loot)
-- [3 注释](#notes)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 显著战利品](#显著战利品)
+- [3 注释](#注释)
+- [4 外部链接](#外部链接)
 
 ## 出场
 
@@ -313,7 +313,7 @@ UUID
 
 你的[力量](Strength.md "Strength")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "Thrown")属性的武器的伤害与其近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与其近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 

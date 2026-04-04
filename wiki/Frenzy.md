@@ -6,7 +6,7 @@
 
 你的[狂暴](Rage_(Condition).md "狂暴（状态）")转化为狂怒！你获得[狂怒攻击](Frenzied_Strike.md "狂怒攻击")和[愤怒投掷](Enraged_Throw.md "愤怒投掷")。你还可以使用[即兴近战武器](Improvised_Melee_Weapon_(Bonus_Action).md "即兴近战武器（附赠动作）")攻击作为附赠动作。
 
-使用近战武器、即兴武器和投掷时造成额外2点伤害。获得对[物理伤害](Resistance.md "抗性")的[抗性](Resistance.md "抗性")，以及力量[检定](Checks.md "检定")和[豁免检定](Saving_throws.md "豁免检定")的[优势](Advantage.md "优势")。
+使用近战武器、即兴武器和投掷时造成额外2点伤害。获得对[抗性](Resistance.md "抗性")的[抗性](Resistance.md "抗性")，以及力量[检定](Checks.md "检定")和[豁免检定](Saving_throws.md "豁免检定")的[优势](Advantage.md "优势")。
 
 仅在战斗中可用。
 如果你每回合未攻击敌人或未受到伤害，狂暴会提前结束。
@@ -42,7 +42,7 @@ UID
 持续时间：10回合
 
 - 使用近战武器、即兴武器和投掷物体时造成额外2点伤害（9级时增至3点）。
-- 同时获得对[物理伤害](Damage_types.md "伤害类型")的[抗性](Resistance.md "抗性")，以及力量[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。
+- 同时获得对[物理伤害](Damage_types.md "伤害类型")的[抗性](Resistance.md "抗性")，以及力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。
 - 无法施放或专注[法术](Spells.md "法术")。
 
 ## 状态：狂暴受阻
@@ -51,7 +51,7 @@ UID
 
 持续时间：永久
 
-- 被[重甲](Heavy_Armour.md "重甲")拖累。在移除护甲前，[狂暴](Rage.md "狂暴")不会赋予额外伤害、对物理伤害的[抗性](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")，或力量[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。
+- 被[重甲](Heavy_Armour.md "重甲")拖累。在移除护甲前，[狂暴](Rage.md "狂暴")不会赋予额外伤害、对物理伤害的[抗性](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")，或力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。
 
 ## 学习方式
 

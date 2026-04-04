@@ -2,7 +2,7 @@
 
 **再生**
 
-- 如果[菘蓝树人](Wood_Woad.md "菘蓝树人")穿过藤蔓地表，它将恢复10点[生命值](Healing.md "生命值")，除非它最近受到了[火焰](Fire.md "火焰")伤害。
+- 如果[菘蓝树人](Wood_Woad.md "菘蓝树人")穿过藤蔓地表，它将恢复10点[治疗](Healing.md "治疗")，除非它最近受到了[火焰](Fire.md "火焰")伤害。
 
 ## 属性
 
@@ -28,7 +28,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 如果[菘蓝树人](Wood_Woad.md "菘蓝树人")穿过藤蔓地表，它将恢复10点[生命值](Healing.md "生命值")，除非它最近受到了[火焰](Fire.md "火焰")伤害。
+- 如果[菘蓝树人](Wood_Woad.md "菘蓝树人")穿过藤蔓地表，它将恢复10点[治疗](Healing.md "治疗")，除非它最近受到了[火焰](Fire.md "火焰")伤害。
 
 ---
 *Source: [Regeneration (Condition)](https://bg3.wiki/wiki/Regeneration_(Condition)*

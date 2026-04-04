@@ -41,7 +41,7 @@ UID
 
 ### 生物：气化形体 (生物)
 
-| [力](Strength.md "力量") 10 | [敏](Dexterity.md "敏捷") 10 | [体](Constitution.md "体质") 10 |
+| [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 10 |
 | --- | --- | --- |
 |  |  |  |
 | 护甲等级 | 10 |  |

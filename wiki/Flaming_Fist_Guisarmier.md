@@ -70,19 +70,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友并肩作战时.md)，获得[优势](Advantage.md "优势")进行[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
@@ -130,19 +130,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友并肩作战时.md)，获得[优势](Advantage.md "优势")进行[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
@@ -190,19 +190,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友并肩作战时.md)，获得[优势](Advantage.md "优势")进行[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
@@ -232,14 +232,14 @@
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-- [2 已知的焰拳镰钩手](#known-flaming-fist-guisarmiers)
-  - [2.1 人类](#humans)
-  - [2.2 矮人](#dwarves)
-  - [2.3 精灵](#elves)
-  - [2.4 半身人](#halflings)
-- [3 注释](#notes)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+- [2 已知的焰拳镰钩手](#已知的焰拳镰钩手)
+  - [2.1 人类](#人类)
+  - [2.2 矮人](#矮人)
+  - [2.3 精灵](#精灵)
+  - [2.4 半身人](#半身人)
+- [3 注释](#注释)
 
 ## 战斗
 

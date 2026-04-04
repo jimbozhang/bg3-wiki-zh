@@ -1,6 +1,6 @@
 # 化兽为友
 
-**化兽为友**是一个[1环惑控学派法术](Spells.md "Spells")。它魅惑一个[野兽](Beast.md "Beast")，使其相信施法者并无恶意。
+**化兽为友**是一个[法术](Spells.md "法术")。它魅惑一个[野兽](Beast.md "Beast")，使其相信施法者并无恶意。
 
 ## 描述
 
@@ -38,7 +38,7 @@ UID
 
 持续时间：10回合
 
-- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "Advantage")。
+- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "Advantage")。
 
 ## 学习方式
 

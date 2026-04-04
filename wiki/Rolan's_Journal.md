@@ -24,7 +24,7 @@
 
 _如果[罗兰](Rolan.md "罗兰")的兄弟姐妹[卡尔](Cal.md "卡尔")和[莉娅](Lia.md "莉娅")存活_ ( UID `BOOK_LOW_SorcerousSundries_RolanJournalSiblingsSaved` / UUID `fe8c0c14-7484-4562-94b9-e99b0301867e` )：
 
-一切都按我的计划发生了。道路崎岖——太崎岖了——但我们正好到达了我们注定要去的地方——我注定要去的地方。[洛若坎](Lorroakan.md "洛若坎")大师是个吹牛大王和伪君子，但他拥有我需要的东西：[资源](Resources.md "资源")。知识。成为真正自我的[能力](Ability.md "能力")。卡尔和莉娅翻白眼，但他们比任何人都更不能否认我的潜力。他们知道我能成为什么——只要我再坚持一会儿。
+一切都按我的计划发生了。道路崎岖——太崎岖了——但我们正好到达了我们注定要去的地方——我注定要去的地方。[洛若坎](Lorroakan.md "洛若坎")大师是个吹牛大王和伪君子，但他拥有我需要的东西：[资源](Resources.md "资源")。知识。成为真正自我的[属性](Ability.md "属性")。卡尔和莉娅翻白眼，但他们比任何人都更不能否认我的潜力。他们知道我能成为什么——只要我再坚持一会儿。
 
 _如果罗兰的兄弟姐妹卡尔和莉娅没有存活_ ( UID `BOOK_LOW_SorcerousSundries_RolanJournalSiblingsFailed` / UUID `7e91fa6a-dee7-4ed2-876f-a0081b8e5c33` )：
 

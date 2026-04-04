@@ -1,6 +1,6 @@
 # 辉耀法杖
 
-辉耀法杖是一件非常稀有的[长棍](Quarterstaves.md "长棍")，它能为持有者提供远程法术[攻击掷骰](Attack_roll.md "攻击掷骰")加值和火焰伤害抗性。它还能让持有者施展[火焰箭](Fire_Bolt.md "火焰箭")和[火球术术](Fireball.md "火球术术")法术。
+辉耀法杖是一件非常稀有的[长棍](Quarterstaves.md "长棍")，它能为持有者提供远程法术[攻击掷骰](Attack_roll.md "攻击掷骰")加值和火焰伤害抗性。它还能让持有者施展[火焰箭](Fire_Bolt.md "火焰箭")和[火球术](Fireball.md "火球术")法术。
 
 这根法杖上刻有炽热的铭文，那是以火焰书写的原始火之符文。
 
@@ -32,7 +32,7 @@ UID `MAG_FlamingFist_StaffOfFire` UUID `b2758975-82c2-4405-ad2d-99cfa21059ff` ##
 [火焰箭](Fire_Bolt.md "火焰箭") ()
 作为戏法随时施放。
 
-[火球术术](Fireball.md "火球术术") ()
+[火球术](Fireball.md "火球术") ()
 作为 3 级法术施放（充能：[长休](Long_Rest.md "长休")）。
 
 ### 武器动作

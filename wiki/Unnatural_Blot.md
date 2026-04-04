@@ -78,11 +78,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**自然防护**](Nature's_Ward.md "自然防护")
+- [自然防护](Nature's_Ward.md "自然防护")
 
 不会被元素生物和妖精[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫疾病。
 
@@ -132,11 +132,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**自然防护**](Nature's_Ward.md "自然防护")
+- [自然防护](Nature's_Ward.md "自然防护")
 
 不会被元素生物和妖精[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫疾病。
 
@@ -144,10 +144,10 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
 
 ## 出场
 
@@ -165,7 +165,7 @@
 
 对目标造成 8d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。植物受到此法术的最大伤害，并在对抗它的[豁免检定](Saving_throw.md "豁免检定")时具有[劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程：9 m (30 ft)
 
 [死云术](Cloudkill.md "死云术") (+ )
@@ -183,7 +183,7 @@
 [支配野兽](Dominate_Beast.md "支配野兽") (+ )
 让一只[野兽](Beast.md "野兽")与你并肩作战。野兽每次受到伤害时，都会进行一次[感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")以对抗你的支配。
 
-[感](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 射程：18 m (60 ft)
 
 [火焰刀](Flame_Blade.md "火焰刀") (+ )
@@ -200,9 +200,9 @@
 
 4d10⁠[穿刺](Piercing.md "穿刺")
 
-蝗虫攻击范围内的所有人，使该区域成为[劣势地形](Difficult_Terrain.md "劣势地形")，并对[察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
+蝗虫攻击范围内的所有人，使该区域成为[劣势地形](Difficult_Terrain.md "劣势地形")，并对[察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程：18 m (60 ft)
 
 [主手攻击](Main_Hand_Attack.md "主手攻击") () – [弯刀 +2](Scimitar_+2.md "弯刀 +2")

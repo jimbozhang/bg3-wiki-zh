@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取。但仍可通过第三方工具访问。
 
-**诱捕电击**是一种[戏法](Spells.md "Spells")。它进行一次近战攻击，造成[闪电](Lightning.md "Lightning")伤害，并阻止目标采取[反应](Reactions.md "Reactions")。
+**诱捕电击**是一种[法术](Spells.md "法术")。它进行一次近战攻击，造成[闪电](Lightning.md "Lightning")伤害，并阻止目标采取[反应](Reactions.md "Reactions")。
 
 ## 描述
 

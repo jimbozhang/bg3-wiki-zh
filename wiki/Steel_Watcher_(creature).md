@@ -66,35 +66,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 22 / (+6) | 18 / (+4) | 6 / (-2) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 特性
 
-- [**灵敏架势**](Agile_Chassis.md "灵敏架势")
+- [灵敏架势](Agile_Chassis.md "灵敏架势")
 
 [优势](Advantage.md "优势")于敏捷[豁免检定](Saving_throw.md "豁免检定")，且移动速度 + 9 米 / 30 英尺。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**保险协议**](Failsafe_Protocol.md "保险协议")
+- [保险协议](Failsafe_Protocol.md "保险协议")
 
 在损失大量[生命值](Hit_Points.md "生命值")后，此生物将开始[自爆程序](Self-Detonation_Protocol.md "自爆程序")以消灭所有附近的威胁。如果死亡，它会立即[爆炸](Self-Detonate.md "爆炸")。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。对[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")具有 +5 加值。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
@@ -136,35 +136,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +4 | +10 | +8 | -2 | 0 | 0 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 特性
 
-- [**灵敏架势**](Agile_Chassis.md "灵敏架势")
+- [灵敏架势](Agile_Chassis.md "灵敏架势")
 
 [优势](Advantage.md "优势")于敏捷[豁免检定](Saving_throw.md "豁免检定")，且移动速度 + 9 米 / 30 英尺。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**保险协议**](Failsafe_Protocol.md "保险协议")
+- [保险协议](Failsafe_Protocol.md "保险协议")
 
 在损失大量[生命值](Hit_Points.md "生命值")后，此生物将开始[自爆程序](Self-Detonation_Protocol.md "自爆程序")以消灭所有附近的威胁。如果死亡，它会立即[爆炸](Self-Detonate.md "爆炸")。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。对[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")具有 +5 加值。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
@@ -182,19 +182,19 @@ _此页面为钢铁卫士生物。关于种族，请参见[钢铁卫士](Steel_W
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 免疫](#immunities)
-  - [2.3 战利品](#loot)
-- [3 战术](#tactics)
-  - [3.1 自爆程序](#self-Detonation_Protocol)
-  - [3.2 自爆伤害](#self-Detonation_Damage)
-  - [3.3 总结](#conclusion)
-- [4 相关任务](#related-quests)
-- [5 注释](#notes)
-- [6 画廊](#gallery)
-- [7 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 免疫](#免疫)
+  - [2.3 战利品](#战利品)
+- [3 战术](#战术)
+  - [3.1 自爆程序](#自爆程序)
+  - [3.2 自爆伤害](#自爆伤害)
+  - [3.3 总结](#总结)
+- [4 相关任务](#相关任务)
+- [5 注释](#注释)
+- [6 画廊](#画廊)
+- [7 外部链接](#外部链接)
 
 ## 参与
 
@@ -295,7 +295,7 @@ _此页面为钢铁卫士生物。关于种族，请参见[钢铁卫士](Steel_W
 
 ## 战术
 
-与钢铁卫士战斗的关键区别特征是其[爆炸](Self-Detonate.md "爆炸")能力。当达到一定的[伤害阈值](Self-Detonation_Protocol.md "自爆程序")时，[自爆程序](Self-Detonation_Protocol.md "自爆程序")特性触发，守望者获得[即将爆炸！](Detonation_Impending!_(Condition).md "即将爆炸！ (状态)")状态，并在其周围地面上出现一个红色圆圈，指示爆炸半径。在其下一回合开始时，或如果在此之前被杀死，则在死亡时爆炸，对半径 5 米 (17 英尺) 范围内的所有目标造成 4d12+26⁠⁠[火焰](Fire.md "火焰")伤害。这一特性对未[依附的追随者](Attached_Followers.md "依附的追随者")的盟友尤其危险，因为AI不一定会将他们移动到安全位置，有时甚至会将处于安全距离的盟友移动到已准备爆炸的守望者的爆炸半径内。如果伤害阈值由在钢铁卫士之前行动的角色达到，则钢铁卫士之后的角色没有机会在其爆炸前移动。那些在行动顺序中靠前的角色可以安全地避开，因为钢铁卫士在获得即将爆炸！状态后会停止进行[借机攻击](Opportunity_Attack.md "借机攻击")。因此，提高[先攻](Initiative.md "先攻")（例如选择敏捷的队伍成员、选择[警觉](Alert.md "警觉")专长或使用[警觉灵药](Elixir_of_Vigilance.md "警觉灵药")）会很有用。
+与钢铁卫士战斗的关键区别特征是其[爆炸](Self-Detonate.md "爆炸")能力。当达到一定的[自爆程序](Self-Detonation_Protocol.md "自爆程序")时，[自爆程序](Self-Detonation_Protocol.md "自爆程序")特性触发，守望者获得[即将爆炸！](Detonation_Impending!_(Condition).md "即将爆炸！ (状态)")状态，并在其周围地面上出现一个红色圆圈，指示爆炸半径。在其下一回合开始时，或如果在此之前被杀死，则在死亡时爆炸，对半径 5 米 (17 英尺) 范围内的所有目标造成 4d12+26⁠⁠[火焰](Fire.md "火焰")伤害。这一特性对未[依附的追随者](Attached_Followers.md "依附的追随者")的盟友尤其危险，因为AI不一定会将他们移动到安全位置，有时甚至会将处于安全距离的盟友移动到已准备爆炸的守望者的爆炸半径内。如果伤害阈值由在钢铁卫士之前行动的角色达到，则钢铁卫士之后的角色没有机会在其爆炸前移动。那些在行动顺序中靠前的角色可以安全地避开，因为钢铁卫士在获得即将爆炸！状态后会停止进行[借机攻击](Opportunity_Attack.md "借机攻击")。因此，提高[先攻](Initiative.md "先攻")（例如选择敏捷的队伍成员、选择[警觉](Alert.md "警觉")专长或使用[警觉灵药](Elixir_of_Vigilance.md "警觉灵药")）会很有用。
 
 钢铁卫士完全免疫多种群体控制方法，包括但不限于：[魅惑](Charmed_(status_group).md), [倒伏](Prone_(status_group).md), [石化](Petrified_(Condition).md "石化 (状态)"),<sup>[\[2\]](#cite_note-2)</sup> [变形术](Polymorph.md "变形术"), [恐慌](Frightened_(status_group).md), [昏迷](Unconscious_(status_group).md), [中毒](Poisoned_(status_group).md), 以及大多数形式的[患病](Diseased_(status_group).md)。此外，几种可应用于钢铁卫士的状态无法按预期发挥作用。这些包括但不限于：[冰冻](Frozen_(Condition).md "冰冻 (状态)"),<sup>[\[3\]](#cite_note-loose_on_damage-3)</sup> [命令术：停住](Command_colon__Halt.md "命令术：停住"),<sup>[\[3\]](#cite_note-loose_on_damage-3)</sup> [怪物定身术](Hold_Monster.md "怪物定身术"),<sup>[\[3\]](#cite_note-loose_on_damage-3)</sup><sup>[\[4\]](#cite_note-4)</sup> [哈达之臂](Arms_of_Hadar_(Condition).md "哈达之臂 (状态)"),<sup>[\[5\]](#cite_note-reaction_vs_detonation-5)</sup> [惊惧](Open_Hand_Technique_colon__Staggered_(Condition).md "开手技巧：惊惧 (状态)"), <sup>[\[5\]](#cite_note-reaction_vs_detonation-5)</sup> [噩梦馈赠](Karabasan's_Gift.md "噩梦馈赠"),<sup>[\[3\]](#cite_note-loose_on_damage-3)</sup> [电爪](Shocking_Grasp_(Condition).md "电爪 (状态)"),<sup>[\[5\]](#cite_note-reaction_vs_detonation-5)</sup> 以及故意触发[借机攻击](Opportunity_Attack.md "借机攻击")。<sup>[\[5\]](#cite_note-reaction_vs_detonation-5)</sup> [命令术：靠近](Command_colon__Approach.md "命令术：靠近"), [命令术：放下](Command_colon__Drop.md "命令术：放下"),<sup>[\[6\]](#cite_note-6)</sup> [命令术：逃跑](Command_colon__Flee.md "命令术：逃跑"), [虚弱](Feeble_(Condition).md "虚弱 (状态)"), [缠绕打击](Ensnaring_Strike.md "缠绕打击"), [摄心目光：病弱](Eyebite_colon__Sickened.md "摄心目光：病弱"),<sup>[\[7\]](#cite_note-7)</sup> 和[困惑](Confusion.md "困惑")都能正常发挥作用。作为规则，钢铁卫士可以被[目盲](Blinded_(status_group).md), 但它们对某些致盲来源免疫；例如[怨恨缠身](Stricken_with_Malice_(Condition).md "怨恨缠身 (状态)") 和[罹患失明症](Stricken_With_Blinding_Sickness_(Condition).md "罹患失明症 (状态)")，因为上述状态组免疫。有些令人惊讶的是，它们对[败血症](Septic_(Condition).md "败血症 (状态)") 不免疫。
 

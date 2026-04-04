@@ -1,6 +1,6 @@
 # 蜘蛛里拉琴
 
-蜘蛛里拉琴是[明萨拉](Minthara.md "明萨拉")和[尼讷](Nere.md "尼讷")掉落的任务物品。这把里拉琴用于召唤[向导](Kar'niss.md "卡'尼斯")，以穿越[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")抵达[月出之塔](Moonrise_Towers.md "月出之塔")。
+蜘蛛里拉琴是[明萨拉](Minthara.md "明萨拉")和[尼讷](Nere.md "尼讷")掉落的任务物品。这把里拉琴用于召唤[卡'尼斯](Kar'niss.md "卡'尼斯")，以穿越[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")抵达[月出之塔](Moonrise_Towers.md "月出之塔")。
 
 这把里拉琴的琴弦锋利如刺客的刀刃。弹奏时务必小心，否则可能会失去指尖。
 

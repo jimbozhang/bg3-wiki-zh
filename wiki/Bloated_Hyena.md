@@ -79,7 +79,7 @@
 
 ## 特性
 
-- [**伊诺胡的渴望**](Yeenoghu's_Hunger.md "Yeenoghu's Hunger")
+- [伊诺胡的渴望](Yeenoghu's_Hunger.md "伊诺胡的渴望")
 
 即将产下一只[豺狼人](Gnoll.md "Gnoll")。
 
@@ -133,7 +133,7 @@
 
 ## 特性
 
-- [**伊诺胡的渴望**](Yeenoghu's_Hunger.md "Yeenoghu's Hunger")
+- [伊诺胡的渴望](Yeenoghu's_Hunger.md "伊诺胡的渴望")
 
 即将产下一只[豺狼人](Gnoll.md "Gnoll")。
 
@@ -187,7 +187,7 @@
 
 ## 特性
 
-- [**伊诺胡的渴望**](Yeenoghu's_Hunger.md "Yeenoghu's Hunger")
+- [伊诺胡的渴望](Yeenoghu's_Hunger.md "伊诺胡的渴望")
 
 即将产下一只[豺狼人](Gnoll.md "Gnoll")。
 
@@ -195,12 +195,12 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 相关剧情](#involvement)
-  - [2.1 第一幕](#act-one)
-- [3 重要战利品](#notable-loot)
-- [4 备注](#notes)
-- [5 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 相关剧情](#相关剧情)
+  - [2.1 第一幕](#第一幕)
+- [3 重要战利品](#重要战利品)
+- [4 备注](#备注)
+- [5 外部链接](#外部链接)
 
 ## 概述
 
@@ -210,7 +210,7 @@
 
 ### 第一幕
 
-通过使用[动物交谈](Speak_with_Animals.md "Speak with Animals")，可以与其中一只臃肿的鬣狗对话，允许队伍通过通过一次 DC 12 的[敏捷](Dexterity.md "Dexterity")[检定](Ability_Check.md "Ability check")来在其产崽前将其消灭。
+通过使用[动物交谈](Speak_with_Animals.md "Speak with Animals")，可以与其中一只臃肿的鬣狗对话，允许队伍通过通过一次 DC 12 的[敏捷](Dexterity.md "Dexterity")[属性检定](Ability_Check.md "属性检定")来在其产崽前将其消灭。
 
 ## 重要战利品
 

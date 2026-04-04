@@ -1,6 +1,6 @@
 # 伪装术：女性龙裔
 
-**伪装术：女性龙裔** 是一个 [1级幻术学派法术](Spells.md "Spells")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。该法术允许施法者暂时将自己的外观变为女性 [龙裔](Dragonborn.md "Dragonborn") 的形态。
+**伪装术：女性龙裔** 是一个 [法术](Spells.md "法术")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。该法术允许施法者暂时将自己的外观变为女性 [龙裔](Dragonborn.md "Dragonborn") 的形态。
 
 ## 描述
 

@@ -18,7 +18,7 @@
 
 - 隐藏在[闪耀盛会](The_Glitter_Gala.md "The Glitter Gala")前台后面的室内植物中
 
-- 也隐藏在地板上的室内植物中，但只有在靠近时通过 DC 15 的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")才会显现。
+- 也隐藏在地板上的室内植物中，但只有在靠近时通过 DC 15 的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")才会显现。
 
 ## 用途
 

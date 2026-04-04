@@ -29,7 +29,7 @@
 
 ### 体型
 
-[中型](Medium.md "Medium")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -91,15 +91,15 @@
 
 - ## 特性
 
-- [**黑暗奉献**](Dark_Devotion.md "Dark Devotion")
+- [黑暗奉献](Dark_Devotion.md "黑暗奉献")
 
 对 [魅惑](Charmed_(Condition).md)> 或 [恐慌](Frightened_(Condition).md)> 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**野性直觉**](Feral_Instinct.md "Feral Instinct")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，并且不会 [受惊](Surprised.md "Surprised")。
 
@@ -107,13 +107,13 @@
 
 当你使用近战武器攻击造成 [重击](Critical_Hit.md "Critical Hit") 或击杀目标时，你可以在该回合以 [附赠动作](Actions.md#Resources "Actions") 进行另一次近战武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "STR") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 探索者难度属性
 
@@ -161,15 +161,15 @@
 
 - ## 特性
 
-- [**黑暗奉献**](Dark_Devotion.md "Dark Devotion")
+- [黑暗奉献](Dark_Devotion.md "黑暗奉献")
 
 对 [魅惑](Charmed_(Condition).md)> 或 [恐慌](Frightened_(Condition).md)> 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**野性直觉**](Feral_Instinct.md "Feral Instinct")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，并且不会 [受惊](Surprised.md "Surprised")。
 
@@ -177,13 +177,13 @@
 
 当你使用近战武器攻击造成 [重击](Critical_Hit.md "Critical Hit") 或击杀目标时，你可以在该回合以 [附赠动作](Actions.md#Resources "Actions") 进行另一次近战武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "STR") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 硬核难度属性
 
@@ -231,15 +231,15 @@
 
 - ## 特性
 
-- [**黑暗奉献**](Dark_Devotion.md "Dark Devotion")
+- [黑暗奉献](Dark_Devotion.md "黑暗奉献")
 
 对 [魅惑](Charmed_(Condition).md)> 或 [恐慌](Frightened_(Condition).md)> 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**野性直觉**](Feral_Instinct.md "Feral Instinct")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，并且不会 [受惊](Surprised.md "Surprised")。
 
@@ -247,17 +247,17 @@
 
 当你使用近战武器攻击造成 [重击](Critical_Hit.md "Critical Hit") 或击杀目标时，你可以在该回合以 [附赠动作](Actions.md#Resources "Actions") 进行另一次近战武器攻击。
 
-- [**精通重击**](Improved_Critical_Hit.md "Improved Critical Hit")
+- [精通重击](Improved_Critical_Hit.md "精通重击")
 
 攻击时需要投出 [重击](Critical_Hit.md "Critical Hit") 的数值减少 1。此效果可叠加。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "STR") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最小值为 1 的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 技术信息
 
@@ -299,19 +299,19 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 终焉光芒旅店](#last-light-inn)
-    - [1.1.2 月出之塔](#moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-  - [2.4 遭遇详情](#encounter-details)
-  - [2.5 战术](#tactics)
-- [3 死者交谈](#speak-with-dead)
-- [4 画廊](#gallery)
-- [5 注释与参考](#notes-and-references)
+- [1 参与情况](#参与情况)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 终焉光芒旅店](#终焉光芒旅店)
+    - [1.1.2 月出之塔](#月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+  - [2.4 遭遇详情](#遭遇详情)
+  - [2.5 战术](#战术)
+- [3 死者交谈](#死者交谈)
+- [4 画廊](#画廊)
+- [5 注释与参考](#注释与参考)
 
 ## 参与情况
 
@@ -332,7 +332,7 @@ UUID
 
 如果伊索贝尔未被拯救，保护终焉光芒旅店的屏障会消失，[幽影诅咒](Shadow_Curse.md "Shadow Curse") 会进入该地点。除了贾希拉和队伍之外的所有人要么死亡，要么变成 [幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "Shadow-Cursed Undead (Condition)")。这会导致多个任务线提前结束，并导致队伍失去商人（[戴摩](Dammon.md "Dammon")、[马蒂斯](Mattis.md "Mattis") 和 [塔利](Talli.md "Talli")），他们不会出现在 [第三幕](Act_Three.md "Act Three")。
 
-可以使用 [死者交谈](Speak_with_Dead.md "Speak with Dead") 与马库斯沟通。当被问及是否留下了任何贵重物品时，他回答 _“旅店外面……墓地附近埋着……她发现了……”_。移动到终焉光芒旅店相邻的墓地，在 X: -3 Y: 215 的开放坟墓正东方向有一具 [焰拳](Flaming_Fist.md "Flaming Fist") 的尸体，可以从中掠夺 [灼热复仇盾牌](Shield_of_Scorching_Reprisal.md "Shield of Scorching Reprisal")。死去的 [侏儒](Gnome.md "Gnome") 尸体暗示焰拳发现了马库斯的背叛，但在她能警告其他焰拳和竖琴手之前被他杀害。需要成功的 DC 18 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check") 才能发现瓦砾<sup>[\[1\]](#cite_note-1)</sup>，并且需要至少 15 [力量](Strength.md "Strength") 的角色才能粉碎瓦砾找到尸体。
+可以使用 [死者交谈](Speak_with_Dead.md "Speak with Dead") 与马库斯沟通。当被问及是否留下了任何贵重物品时，他回答 _“旅店外面……墓地附近埋着……她发现了……”_。移动到终焉光芒旅店相邻的墓地，在 X: -3 Y: 215 的开放坟墓正东方向有一具 [焰拳](Flaming_Fist.md "Flaming Fist") 的尸体，可以从中掠夺 [灼热复仇盾牌](Shield_of_Scorching_Reprisal.md "Shield of Scorching Reprisal")。死去的 [侏儒](Gnome.md "Gnome") 尸体暗示焰拳发现了马库斯的背叛，但在她能警告其他焰拳和竖琴手之前被他杀害。需要成功的 DC 18 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定") 才能发现瓦砾<sup>[\[1\]](#cite_note-1)</sup>，并且需要至少 15 [力量](Strength.md "Strength") 的角色才能粉碎瓦砾找到尸体。
 
 如果马库斯在试图绑架伊索贝尔时被杀死，他的尸体稍后可以在终焉光芒旅店北边的草地上找到，似乎是在袭击后的清理过程中被随意丢弃在那里。
 
@@ -405,7 +405,7 @@ UUID
 ### 战利品
 
 - [巨棒 +1](Greatclub_+1.md "Greatclub +1")
-- [半身甲（焰拳变体）](Half_Plate_Armour.md "Half Plate Armour")
+- [半身甲](Half_Plate_Armour.md "半身甲")
 - [夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "Mind Flayer Parasite Specimen")
 - [移形换影之戒指](Shifting_Corpus_Ring.md "Shifting Corpus Ring")
 
@@ -520,7 +520,7 @@ UUID
 ## 注释与参考
 
 1. [↑](#cite_ref-1) 如果队伍成员使用 [死者交谈](Speak_with_Dead.md "Speak with Dead") 与他沟通并询问他是否留下了任何贵重物品（_“你留下了任何贵重物品吗？”_），则会绕过该检定。
-1. [↑](#cite_ref-2) 在 [月出之塔](Moonrise_Towers.md "Moonrise Towers") 发现的 [笔记](A_Little_Gift.md "A Little Gift") 暗示马库斯的翅膀是从 [艾琳女士](Aylin.md "Aylin") 身上强行取下并由 [巴萨扎尔](Balthazar.md "Balthazar") 安装到马库斯身上的。
+1. [↑](#cite_ref-2) 在 [月出之塔](Moonrise_Towers.md "Moonrise Towers") 发现的 [一件小礼物](A_Little_Gift.md "一件小礼物") 暗示马库斯的翅膀是从 [艾琳女士](Aylin.md "Aylin") 身上强行取下并由 [巴萨扎尔](Balthazar.md "Balthazar") 安装到马库斯身上的。
 1. [↑](#cite_ref-3) 如果 [影心](Shadowheart.md "Shadowheart") 在场，她总是会被拖入与伊索贝尔的对话中，进行 [莎尔](Shar.md "Shar") 与 [塞伦涅](Sel%C3%BBne.md "Selûne") 的侮辱，因此除非她在对话前与队伍分开，否则她无法以这种方式施法。
 
 ---

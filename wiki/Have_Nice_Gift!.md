@@ -27,7 +27,7 @@ UID
 
 **[捕食者精华](Predator_Essence_(Condition).md "捕食者精华（状态）")**
 
-- 每个捕食者精华为训犬师治疗4d10⁠⁠[生命值](Healing.md "治疗")。此外，当他施放[坟墓射击](Grave_Shot.md "坟墓射击")时，会造成额外的4d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
+- 每个捕食者精华为训犬师治疗4d10⁠⁠[治疗](Healing.md "治疗")。此外，当他施放[坟墓射击](Grave_Shot.md "坟墓射击")时，会造成额外的4d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
 ## 如何习得
 

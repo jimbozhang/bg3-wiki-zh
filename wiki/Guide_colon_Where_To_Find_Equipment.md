@@ -152,7 +152,7 @@
 
 [恢复](Lesser_Restoration.md "恢复") ()
 作为2环法术施放（充能：[短休](Short_rest.md "短休")。）
-| 在熊[奥姆恩](Ormn.md "奥姆恩")附近，藏在必须移动的扁平岩石下 | 护符 |
+| 在熊[奥姆](Ormn.md "奥姆")附近，藏在必须移动的扁平岩石下 | 护符 |
 |
 |
 | [虔诚护符](Amulet_of_the_Devout.md "虔诚护符") | | 在地下室的主供品箱中 | 护符 |
@@ -273,7 +273,7 @@
 
 - 在[营地](Campsite.md "营地")，如果在[复仇之炉](Grymforge.md "复仇之炉")遇到并邀请其作为[营地追随者](Camp_Follower.md "营地追随者")加入
 
-- 在[最后轻语](Last_Light_Inn.md "终焉光芒旅店")，如果他存活到[第二幕](Act_2.md "第二幕")
+- 在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")，如果他存活到[第二幕](Act_2.md "第二幕")
 
 | 护符 |
 |
@@ -398,7 +398,7 @@
 
 [麻痹射线](Paralyzing_Ray.md "麻痹射线") ()
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
-| 由[眼魔](Spectator.md "眼魔")在[希望的牢房](House_of_Hope.md#Hope's_prison "希望之屋")携带 | 戒指 |
+| 由[观察者眼魔](Spectator.md "观察者眼魔")在[希望的牢房](House_of_Hope.md#Hope's_prison "希望之屋")携带 | 戒指 |
 |
 |
 | [无情光芒之戒](Callous_Glow_Ring.md "无情光芒之戒") | | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")附近金库房间的华丽箱子中 | 戒指 |
@@ -423,7 +423,7 @@
 | [链甲 +1](Chain_Mail_+1.md "链甲 +1") | | 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家等级在4到6级之间 | 重型护甲 | 重型护甲 | 17 | | [链甲 +2](Chain_Mail_+2.md "链甲 +2") | | 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家等级达到7级或以上 | 重型护甲 | 重型护甲 | 18 | | [解放锁链](Chain_of_Liberation.md "解放锁链") | | 此物品仅在抢先体验版中可获得。在[塞伦涅哨站](Sel%C3%BBnite_Outpost.md "塞伦涅哨站") X: 175 Y: -248 的隐藏房间箱子中找到。在完整版游戏中被[发光护甲](Luminous_Armour.md "发光护甲")取代。 | 中型护甲 | 中型护甲 | 13 | | [链甲衫 +1](Chain_Shirt_+1.md "链甲衫 +1") | | 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家角色等级在2到4级之间 | 中型护甲 | 中型护甲 | 14 | | [链甲衫 +2](Chain_Shirt_+2.md "链甲衫 +2") | | 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家等级在5到8级之间 | 中型护甲 | 中型护甲 | 15 | | [勇者链条](Champion's_Chain.md "勇者链条") |
 
 [暴君之舌](Tyrant_Tongue.md "暴君之舌") ()
-给予盟友+2的[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。）
+给予盟友+2的[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。）
 | 在任务[交送尼讷的头](Deliver_Nere's_Head.md "交送尼讷的头")期间将[尼讷的头](Nere's_Head.md "尼讷的头")交给[格鲁特](Glut.md "格鲁特")的奖励 | 护符 |
 |
 |
@@ -680,7 +680,7 @@
 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在一楼出售 | 服装 | | 10 | | [使者护符](Envoy's_Amulet.md "使者护符") |
 
 [圆环之声](Voice_of_the_Circle.md "圆环之声") ()
-给予盟友+2的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。）
+给予盟友+2的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。）
 | 在任务[交送尼讷的头](Deliver_Nere's_Head.md "交送尼讷的头")期间将[尼讷的头](Nere's_Head.md "尼讷的头")交给[斯帕](Spaw.md "斯帕")的奖励 | 护符 |
 |
 |
@@ -753,7 +753,7 @@
 | 由[戴摩](Dammon.md "戴摩")制作 | 头盔 | 中型护甲 |
 |
 |
-| [跃动指套](Fleetfingers.md "跃动指套") | | 在通过DC 20的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")后埋藏的箱子中 | 手套 |
+| [跃动指套](Fleetfingers.md "跃动指套") | | 在通过DC 20的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")后埋藏的箱子中 | 手套 |
 |
 |
 | [血肉消熔披风](Fleshmelter_Cloak.md "血肉消熔披风") | | 在坑上方的镀金箱子中 | 披风 |

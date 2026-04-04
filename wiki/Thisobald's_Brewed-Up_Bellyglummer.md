@@ -33,8 +33,8 @@
 
 [体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 17）
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")
-- 受影响实体在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素")伤害。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")
+- 受影响实体在其下一回合结束时受到 1d6⁠⁠[中毒](Poison.md "中毒")伤害。
 
 ## 获取地点
 

@@ -102,27 +102,27 @@
 
 - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**恐惧箴言**](Dreadful_Word.md "恐惧箴言")
+- [恐惧箴言](Dreadful_Word.md "恐惧箴言")
 
 你可以使用邪术师[法术位](Spell_Slot.md "法术位")施放[困惑](Confusion.md "困惑")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆")可以将生物推开最多 4.5 米 (15 英尺)。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -172,27 +172,27 @@
 
 - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**恐惧箴言**](Dreadful_Word.md "恐惧箴言")
+- [恐惧箴言](Dreadful_Word.md "恐惧箴言")
 
 你可以使用邪术师[法术位](Spell_Slot.md "法术位")施放[困惑](Confusion.md "困惑")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆")可以将生物推开最多 4.5 米 (15 英尺)。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -242,27 +242,27 @@
 
 - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**恐惧箴言**](Dreadful_Word.md "恐惧箴言")
+- [恐惧箴言](Dreadful_Word.md "恐惧箴言")
 
 你可以使用邪术师[法术位](Spell_Slot.md "法术位")施放[困惑](Confusion.md "困惑")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆")可以将生物推开最多 4.5 米 (15 英尺)。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -292,15 +292,15 @@ Stats
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 折磨明萨拉](#torturing-minthara)
-    - [1.1.2 无明萨拉](#without-minthara)
-    - [1.1.3 保卫月出之塔](#defending-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 闲谈](#idle-banter)
+- [1 参与度](#参与度)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 折磨明萨拉](#折磨明萨拉)
+    - [1.1.2 无明萨拉](#无明萨拉)
+    - [1.1.3 保卫月出之塔](#保卫月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 闲谈](#闲谈)
 
 ## 参与度
 

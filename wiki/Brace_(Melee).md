@@ -36,7 +36,7 @@ UID
 
 ## 如何习得
 
-通过[熟练](Proficiency.md "熟练项")使用以下武器类型获得：
+通过[熟练项](Proficiency.md "熟练项")使用以下武器类型获得：
 
 - [长柄刀](Glaives.md "长柄刀")
 - [长矛](Pikes.md "长矛")

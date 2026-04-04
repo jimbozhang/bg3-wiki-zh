@@ -18,7 +18,7 @@
 
 - UID `S_LOW_GithNote` UUID `1a15be9f-4764-4bb4-8edc-04ff741babf8` ## 获取地点
 
-- 在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")北侧一间牢房的“显眼瓦砾堆”上，需要成功通过DC 15的[调查](Investigation.md "调查")[检定](Ability_Check.md "属性检定")才能注意到
+- 在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")北侧一间牢房的“显眼瓦砾堆”上，需要成功通过DC 15的[调查](Investigation.md "调查")[属性检定](Ability_Check.md "属性检定")才能注意到
 
 ## 文本
 

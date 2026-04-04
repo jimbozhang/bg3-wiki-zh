@@ -77,7 +77,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -125,7 +125,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -173,7 +173,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -199,17 +199,17 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 相关任务](#related-quests)
-- [3 战利品](#loot)
-- [4 备注](#notes)
-- [5 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 相关任务](#相关任务)
+- [3 战利品](#战利品)
+- [4 备注](#备注)
+- [5 外部链接](#外部链接)
 
 ## 出场
 
-威尔丁·亚历克斯的尸体可在 [底城废墟](Undercity_Ruins.md "底城废墟") 找到，靠近 [巴尔神殿](Bhaal_Temple.md "巴尔神殿")。她被 [腥红奥林](Orin.md "腥红奥林") 杀害。她的尸体被用作奥林“艺术”的组成部分，作为 [阿梅丽萨](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "博德之门1和2中作为NPC出现的角色列表") 的雕像——一位一个多世纪前被击败的巴尔女祭司，一同作为雕像的还有卢皮尔·内斯瓦恩、胡贝尔萨·德克莱西奥斯、伊桑·蒂博、戈克松和奎拉特·奎姆斯的尸体。
+威尔丁·亚历克斯的尸体可在 [底城废墟](Undercity_Ruins.md "底城废墟") 找到，靠近 [巴尔神殿](Bhaal_Temple.md "巴尔神殿")。她被 [奥林](Orin.md "奥林") 杀害。她的尸体被用作奥林“艺术”的组成部分，作为 [阿梅丽萨](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "博德之门1和2中作为NPC出现的角色列表") 的雕像——一位一个多世纪前被击败的巴尔女祭司，一同作为雕像的还有卢皮尔·内斯瓦恩、胡贝尔萨·德克莱西奥斯、伊桑·蒂博、戈克松和奎拉特·奎姆斯的尸体。
 
-威尔丁·亚历克斯的尸体可被搜刮，获得一件 [小丑的身体部位](Find_Dribbles_the_Clown.md "寻找小丑德里波斯") 以及 [奥林的仪式笔记](Orin's_Ritual_Note.md "奥林的仪式笔记") 中的第六篇。
+威尔丁·亚历克斯的尸体可被搜刮，获得一件 [寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯") 以及 [奥林的仪式笔记](Orin's_Ritual_Note.md "奥林的仪式笔记") 中的第六篇。
 
 ## 相关任务
 

@@ -2,7 +2,7 @@
 
 关于此法术创造的武器，请参见[破影利刃（武器）](Shadow_Blade_(weapon).md)。关于被动特性，请参见[破影利刃（被动特性）](Shadow_Blade_(passive_feature).md)。
 
-**破影利刃**是一个[2级幻术学派法术](Spells.md "法术")。它会在施法者主手中创造一把[破影利刃](Shadow_Blade_(weapon).md "破影利刃（武器）")，造成[心灵](Psychic.md "心灵")伤害。
+**破影利刃**是一个[法术](Spells.md "法术")。它会在施法者主手中创造一把[破影利刃](Shadow_Blade_(weapon).md "破影利刃（武器）")，造成[心灵](Psychic.md "心灵")伤害。
 
 ## 描述
 
@@ -18,7 +18,7 @@
 [附赠动作](Actions.md#Resources "动作") + [2级法术位](Spells.md#Spell_slots "法术")
 伤害：2~16 + 调整值
 
-2d8 + [力量或敏捷调整值](Finesse.md "灵巧")[心灵](Psychic.md "心灵")
+2d8 + [灵巧](Finesse.md "灵巧")[心灵](Psychic.md "心灵")
 
 详情
 范围：自身

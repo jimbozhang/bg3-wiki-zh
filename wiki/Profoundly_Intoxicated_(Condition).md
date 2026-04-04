@@ -3,7 +3,7 @@
 **深度醉酒**
 
 - 蒂索博尔德因豪饮而濒临昏厥。
-- 他在魅力和敏捷[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，且他的幻觉持续存在。
+- 他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，且他的幻觉持续存在。
 
 ## 属性
 
@@ -31,16 +31,16 @@ _维基数据库中未定义_
 |
 
 - 他每啜饮一口特制酿造物，醉意就更深一分。
-- 他在魅力和敏捷[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并开始幻觉看到小魔鬼。
+- 他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并开始幻觉看到小魔鬼。
 
 | 状态 | 效果 |
 | --- | --- |
 | [昏厥](Blacked_Out_(Condition).md "昏厥 (状态)") | 蒂索博尔德过度饮用了自己的酿造物。他的[护甲等级](Armour_Class.md "护甲等级")有-5的惩罚，并且对挥砍、穿刺、钝击和雷鸣伤害[易伤](Vulnerable.md "易伤")。 |
-| [中度醉酒](Moderately_Inebriated_(Condition).md "中度醉酒 (状态)") | 他每啜饮一口特制酿造物，醉意就更深一分。他在魅力和敏捷[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并开始幻觉看到小魔鬼。 |
-| 深度醉酒 | 蒂索博尔德因豪饮而濒临昏厥。他在魅力和敏捷[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，且他的幻觉持续存在。 |
+| [中度醉酒](Moderately_Inebriated_(Condition).md "中度醉酒 (状态)") | 他每啜饮一口特制酿造物，醉意就更深一分。他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并开始幻觉看到小魔鬼。 |
+| 深度醉酒 | 蒂索博尔德因豪饮而濒临昏厥。他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，且他的幻觉持续存在。 |
 
 - 蒂索博尔德因豪饮而濒临昏厥。
-- 他在魅力和敏捷[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，且他的幻觉持续存在。
+- 他在魅力和敏捷[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，且他的幻觉持续存在。
 
 ---
 *Source: [Profoundly Intoxicated (Condition)](https://bg3.wiki/wiki/Profoundly_Intoxicated_(Condition)*

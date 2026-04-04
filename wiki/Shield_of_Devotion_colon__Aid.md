@@ -1,6 +1,6 @@
 # 奉献之盾：协助
 
-**奉献之盾：协助** 是一个 [等级 3 防护学派法术](Spells.md "Spells")。此法术是 [支援术](Aid.md "Aid") 的变体，允许 [奉献之盾](Shield_of_Devotion.md "Shield of Devotion") 的穿戴者治疗自己 10⁠⁠[生命值](Healing.md "Healing") 并增加等量的生命值上限。
+**奉献之盾：协助** 是一个 [法术](Spells.md "法术")。此法术是 [支援术](Aid.md "Aid") 的变体，允许 [奉献之盾](Shield_of_Devotion.md "Shield of Devotion") 的穿戴者治疗自己 10⁠⁠[治疗](Healing.md "治疗") 并增加等量的生命值上限。
 
 ## 描述
 
@@ -38,8 +38,8 @@ UID
 
 持续时间：直至 [长休](Long_Rest.md "Long rest")
 
-- 生命值上限提高 5⁠⁠[生命值](Healing.md "Healing")。
-- 每使用一个高于 2 级的 [法术位等级](Spells.md#Spell_Slot_Levels "Spells")，生命值上限额外提高 5⁠⁠[生命值](Healing.md "Healing")。
+- 生命值上限提高 5⁠⁠[治疗](Healing.md "治疗")。
+- 每使用一个高于 2 级的 [法术位等级](Spells.md#Spell_Slot_Levels "Spells")，生命值上限额外提高 5⁠⁠[治疗](Healing.md "治疗")。
 
 ## 学习方式
 

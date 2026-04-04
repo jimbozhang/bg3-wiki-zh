@@ -1,6 +1,6 @@
 # 莎尔神盾
 
-**莎尔神盾**是一个[1级防护学派法术](Spells.md "Spells")。它允许施法者用[莎尔](Shar.md "Shar")的保护包围自己，获得[护甲等级](Armour_Class.md "Armour Class")加值，减少受到的伤害，并对所有攻击者施加[黯蚀](Necrotic.md "Necrotic")伤害。_\[[参见：错误](#bugs)\]_
+**莎尔神盾**是一个[法术](Spells.md "法术")。它允许施法者用[莎尔](Shar.md "Shar")的保护包围自己，获得[护甲等级](Armour_Class.md "Armour Class")加值，减少受到的伤害，并对所有攻击者施加[黯蚀](Necrotic.md "Necrotic")伤害。_\[[参见：错误](#bugs)\]_
 
 ## 描述
 

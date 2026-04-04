@@ -15,7 +15,7 @@
 消耗
 [附赠动作](Actions.md#Resources "Actions") + [狂暴次数](Rage_Charge.md "Rage Charge")
 详情
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 17）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 17）
 范围：自身
 作用范围：4 米（13 英尺）半径
 
@@ -44,7 +44,7 @@ UID
 
 持续时间：1 驱散
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 17）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 17）
 
 - 在 [属性检定](Ability_Check.md "Ability Check") 和 [攻击掷骰](Attack_roll.md "Attack Roll") 上具有 [劣势](Disadvantage.md "Disadvantage")。
 - 必须逃离恐惧来源，且无法执行任何额外动作。

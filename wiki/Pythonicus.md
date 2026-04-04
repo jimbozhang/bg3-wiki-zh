@@ -75,11 +75,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地（状态）")而非杀死他们。
 
@@ -123,11 +123,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地（状态）")而非杀死他们。
 
@@ -157,11 +157,11 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 空闲对话](#idle-banter)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 空闲对话](#空闲对话)
 
 ## 出场
 

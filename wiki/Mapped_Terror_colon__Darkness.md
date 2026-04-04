@@ -2,7 +2,7 @@
 
 关于其他版本的恐怖映射，请参见 [恐怖映射（消歧义）](Mapped_Terror_(disambiguation)..md)
 
-**恐怖映射：黑暗** 是一个 [4级幻术法术](Spells.md "Spells")。此法术以黑暗的无情恐怖使目标陷入 [恐慌](Frightened.md "Frightened")，并对其施加恶毒的目盲疾病。此法术无法被队友学习。
+**恐怖映射：黑暗** 是一个 [法术](Spells.md "法术")。此法术以黑暗的无情恐怖使目标陷入 [恐慌](Frightened.md "Frightened")，并对其施加恶毒的目盲疾病。此法术无法被队友学习。
 
 ## 描述
 
@@ -39,7 +39,7 @@ UID
 
 [WIS](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 16）
 
-- 在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [检定](Ability_Check.md "Ability Check") 上具有 [劣势](Disadvantage.md "Disadvantage")。
+- 在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [属性检定](Ability_Check.md "属性检定") 上具有 [劣势](Disadvantage.md "Disadvantage")。
 - 每回合，它必须成功通过一次 [豁免检定](Saving_throw.md "Saving Throw")，否则毒素将进入下一阶段。成功通过3次后，它将恢复。失败3次后，它将感染与所施放的 [疫病术](Contagion.md "Contagion") 变体相对应的疾病。
 
 ## 状态：恐慌

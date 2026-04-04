@@ -58,7 +58,7 @@ _Em_
 
 _C_
 
-我在 [精灵之歌](Elfsong_Tavern.md "精灵之歌酒馆") 遇见了他
+我在 [精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆") 遇见了他
 
 | _F | C_ |
 

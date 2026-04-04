@@ -2,7 +2,7 @@
 
 本文是关于法术的。对于状态，请参见 [动物交谈（状态）](Speak_with_Animals_(condition).md "动物交谈（状态）")。对于狂野魔法特性，请参见 [狂野魔法：动物交谈](Wild_Magic_colon__Speak_with_Animals.md "狂野魔法：动物交谈")。其他用途，请参见 [动物交谈（消歧义）](Speak_with_Animals_(disambiguation).md "动物交谈（消歧义）")。
 
-**动物交谈**是一个[1级预言学派法术](Spells.md "法术")。它允许施法者理解并与[野兽](Beast.md "野兽")交谈，直到他们[长休](Long_Rest.md "长休")。
+**动物交谈**是一个[法术](Spells.md "法术")。它允许施法者理解并与[野兽](Beast.md "野兽")交谈，直到他们[长休](Long_Rest.md "长休")。
 
 ## 描述
 

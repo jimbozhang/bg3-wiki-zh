@@ -1,6 +1,6 @@
 # 征服之姿
 
-**征服之姿**是[征服誓言](https://forgottenrealms.fandom.com/wiki/Oath_of_Conquest)圣武士的[引导誓言](Channel_Oath_Charge.md "引导誓言充能")动作，可使附近敌人陷入[恐慌](Frightened_(Condition).md "恐慌（状态）")。仅由[审判官哈'拉克](Ch'r'ai_Har'rak.md "审判官哈'拉克")使用，玩家无法学习。
+**征服之姿**是[征服誓言](https://forgottenrealms.fandom.com/wiki/Oath_of_Conquest)圣武士的[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")动作，可使附近敌人陷入[恐慌](Frightened_(Condition).md "恐慌（状态）")。仅由[审判官哈'拉克](Ch'r'ai_Har'rak.md "审判官哈'拉克")使用，玩家无法学习。
 
 ## 描述
 

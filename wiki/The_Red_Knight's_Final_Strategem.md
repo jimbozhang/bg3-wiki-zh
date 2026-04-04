@@ -14,7 +14,7 @@
 
 ## 获取地点
 
-- 位于[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")下方的[巫术杂物店地窖](Sorcerous_Vault.md "巫术杂物店地窖")中，坐标 X: 368 Y: 1057，位于地窖入口传送门北侧的墙后，一个隐藏按钮后方（需要通过 DC 15 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")才能发现）
+- 位于[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")下方的[巫术杂物店地窖](Sorcerous_Vault.md "巫术杂物店地窖")中，坐标 X: 368 Y: 1057，位于地窖入口传送门北侧的墙后，一个隐藏按钮后方（需要通过 DC 15 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")才能发现）
 
 ## 用法
 

@@ -72,7 +72,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -115,7 +115,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -137,12 +137,12 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 图库](#gallery)
+- [1 参与](#参与)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 图库](#图库)
 
 ## 参与
 
@@ -164,7 +164,7 @@ UUID
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法流血。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程: 正常武器射程
 恢复: [短休](Short_rest.md "Short rest")
 
@@ -186,7 +186,7 @@ UUID
 
 对敌人进行非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 近战: 1.5 m (5 ft)
 恢复: [短休](Short_rest.md "Short rest")
 
@@ -198,7 +198,7 @@ UUID
 
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")。
 
-[力](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "Saving throws")
 射程: 9 m (30 ft)
 恢复: [短休](Short_rest.md "Short rest")
 
@@ -224,7 +224,7 @@ UUID
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法流血。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程: 正常武器射程
 恢复: [短休](Short_rest.md "Short rest")
 
@@ -246,7 +246,7 @@ UUID
 
 对敌人进行非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 近战: 1.5 m (5 ft)
 恢复: [短休](Short_rest.md "Short rest")
 

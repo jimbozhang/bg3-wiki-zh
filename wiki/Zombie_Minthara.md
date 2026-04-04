@@ -71,7 +71,7 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
@@ -79,31 +79,31 @@
 
 双持时[护甲等级](AC.md "AC") +1。
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 装备[护甲](Armour.md "护甲")时[护甲等级](AC.md "AC") +1。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**卓尔武器训练**](Drow_Weapon_Training.md "卓尔武器训练")
+- [卓尔武器训练](Drow_Weapon_Training.md "卓尔武器训练")
 
 熟练使用[刺剑](Rapiers.md "刺剑")、[短剑](Shortswords.md "短剑")和[手弩](Hand_Crossbows.md "手弩")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 进行徒手或武器攻击后，可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看清 24 米 / 80 英尺 范围内的物体。
 

@@ -94,29 +94,29 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能处于目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，且不会被[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会基于[力量](STR.md "力")调整值造成[钝击](Bludgeoning.md "钝击")伤害，最低为 1。
+近战攻击未命中时，仍会基于[力](STR.md "力")调整值造成[钝击](Bludgeoning.md "钝击")伤害，最低为 1。
 
 - [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
 
@@ -170,29 +170,29 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能处于目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，且不会被[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会基于[力量](STR.md "力")调整值造成[钝击](Bludgeoning.md "钝击")伤害，最低为 1。
+近战攻击未命中时，仍会基于[力](STR.md "力")调整值造成[钝击](Bludgeoning.md "钝击")伤害，最低为 1。
 
 - [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
 
@@ -246,29 +246,29 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能处于目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得 +3 加值，且不会被[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会基于[力量](STR.md "力")调整值造成[钝击](Bludgeoning.md "钝击")伤害，最低为 1。
+近战攻击未命中时，仍会基于[力](STR.md "力")调整值造成[钝击](Bludgeoning.md "钝击")伤害，最低为 1。
 
 - [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
 

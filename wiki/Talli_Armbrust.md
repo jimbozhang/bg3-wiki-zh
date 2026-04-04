@@ -17,8 +17,8 @@
 
 ### 家庭
 
-[泰姆](Tym_Armbrust.md "泰姆·阿姆布鲁斯特") _(丈夫)_
-[艾奥](Ayo_Armbrust.md "艾奥·阿姆布鲁斯特") _(儿子)_
+[泰姆·阿姆布鲁斯特](Tym_Armbrust.md "泰姆·阿姆布鲁斯特") _(丈夫)_
+[艾奥·阿姆布鲁斯特](Ayo_Armbrust.md "艾奥·阿姆布鲁斯特") _(儿子)_
 
 ### 家乡
 
@@ -84,7 +84,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -128,7 +128,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -172,7 +172,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -202,10 +202,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 相关文献](#related-literature)
-- [3 相关任务](#related-quests)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 相关文献](#相关文献)
+- [3 相关任务](#相关任务)
 
 ## 出场
 

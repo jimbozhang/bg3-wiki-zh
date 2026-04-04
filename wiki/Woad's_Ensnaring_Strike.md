@@ -2,7 +2,7 @@
 
 另见：[诱捕打击](Ensnaring_Strike.md "诱捕打击")
 
-**菘蓝树人诱捕打击**是一个[等级 1 咒法学派法术](Spells.md "法术")。此法术允许[菘蓝树人盾](Wood_Woad_Shield.md "菘蓝树人盾")的持有者用盾牌猛击目标，并可能\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕（诱捕打击）（状态）")它。
+**菘蓝树人诱捕打击**是一个[法术](Spells.md "法术")。此法术允许[菘蓝树人盾](Wood_Woad_Shield.md "菘蓝树人盾")的持有者用盾牌猛击目标，并可能\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕（诱捕打击）（状态）")它。
 
 ## 描述
 

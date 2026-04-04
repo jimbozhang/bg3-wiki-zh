@@ -1,6 +1,6 @@
 # 龙蛋蘑菇灰烬
 
-**龙蛋蘑菇灰烬**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[火焰抗性灵药](Elixir_of_Fire_Resistance.md "火焰抗性灵药")。
+**龙蛋蘑菇灰烬**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[火焰抗性灵药](Elixir_of_Fire_Resistance.md "火焰抗性灵药")。
 
 创造火焰抗性灵药的第一步包括燃烧其主要成分，这是生活中的一个小讽刺。
 

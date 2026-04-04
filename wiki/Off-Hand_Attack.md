@@ -1,6 +1,6 @@
 # 副手攻击
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Off-Hand_Attack.md "Special:WhatLinksHere/Off-Hand Attack")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[副手攻击](Special_colon_WhatLinksHere/Off-Hand_Attack.md "副手攻击")的，请考虑编辑该链接，将其指向正确的页面。
 
 **副手攻击**可能指：
 

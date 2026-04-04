@@ -50,7 +50,7 @@
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
 
 ## 获取地点
 

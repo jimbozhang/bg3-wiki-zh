@@ -13,7 +13,7 @@
 | [驱散不死生物](Turn_Undead.md "驱散不死生物") | + | 祈祷驱散所有能看到你的不死生物。 | 职业等级2 [牧师](Cleric.md "牧师") |
 | [死亡之触](Touch_of_Death.md "死亡之触") |  | 当用近战攻击命中生物时，可使用引导神力冲锋造成额外[黯蚀](Necrotic.md "黯蚀")伤害。 | 职业等级2 [死亡领域](Death_Domain.md "死亡领域") |
 | [岁月知识](Knowledge_of_the_Ages.md "岁月知识") | + | 在所选[属性值](Ability_Score.md "属性值")的所有[技能](Skills.md "技能")上获得[熟练项](Proficiency.md "熟练项")。 | 职业等级2 [知识领域](Knowledge_Domain.md "知识领域") |
-| [维持生命](Preserve_Life.md "维持生命") | + | 唤起治疗能量，为盟友生物恢复3倍角色等级的[生命值](Healing.md "治疗")。 | 职业等级2 [生命领域](Life_Domain.md "生命领域") |
+| [维持生命](Preserve_Life.md "维持生命") | + | 唤起治疗能量，为盟友生物恢复3倍角色等级的[治疗](Healing.md "治疗")。 | 职业等级2 [生命领域](Life_Domain.md "生命领域") |
 | [黎明曙光](Radiance_of_the_Dawn.md "黎明曙光") | + | 太阳的神圣力量驱散任何魔法黑暗。 | 职业等级2 [光明领域](Light_Domain.md "光明领域") |
 | [魅惑动植物](Charm_Animals_and_Plants.md "魅惑动植物") | + | 引导妖精魔法以[魅惑](Charmed_(Condition).md "魅惑 (状态)")附近的野兽和植物。 | 职业等级2 [自然领域](Nature_Domain.md "自然领域") |
 | [毁灭狂怒](Destructive_Wrath.md "毁灭狂怒") |  | 当你投掷[雷鸣](Thunder.md "雷鸣")或[闪电](Lightning.md "闪电")伤害时，可使用你的[引导神力](Cleric#Level_2.md#Level_2 "牧师")改为造成最大伤害。 | 职业等级2 [风暴领域](Tempest_Domain.md "风暴领域") |

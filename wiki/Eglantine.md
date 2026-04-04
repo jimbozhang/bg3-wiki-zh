@@ -91,19 +91,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离内在黑暗中视物。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -161,19 +161,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离内在黑暗中视物。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -231,23 +231,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离内在黑暗中视物。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -313,7 +313,7 @@ Stats
 - [巴尔的死亡牧首法斯蒂安](Fustian.md "巴尔的死亡牧首法斯蒂安")
 - [巴尔之镰多利亚](Dhoria.md "巴尔之镰多利亚")
 - [巴尔之祈海弗恩](Hivune.md "巴尔之祈海弗恩")
-- [腥红奥林](Orin.md "腥红奥林")
+- [奥林](Orin.md "奥林")
 - [巴尔之镰希拉](Hiila.md "巴尔之镰希拉")
 - [巴尔之镰利亚](Liya.md "巴尔之镰利亚")
 - [巴尔之镰奥加](Ogga.md "巴尔之镰奥加")

@@ -41,13 +41,13 @@ _维基数据库中未定义_
 [中毒](Poisoned_(Condition).md "中毒 (状态)")
 |
 
-- 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [属性检定](Checks.md "检定") 上遭受 [劣势](Disadvantage.md "劣势")。
+- 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上遭受 [劣势](Disadvantage.md "劣势")。
 
 [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)")
 |
 
 - 每回合受到 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。
-- 在 [攻击掷骰](Attack_rolls.md "攻击掷骰") 和 [属性检定](Checks.md "检定") 上遭受 [劣势](Disadvantage.md "劣势")。
+- 在 [攻击掷骰](Attack_rolls.md "攻击掷骰") 和 [检定](Checks.md "检定") 上遭受 [劣势](Disadvantage.md "劣势")。
 
 [病弱](Sickly_(Condition).md "病弱 (状态)")
 |

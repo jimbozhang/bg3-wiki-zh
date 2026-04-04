@@ -26,15 +26,15 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 进入方式](#access)
-- [2 主建筑](#main-building)
-- [3 石匠公会地下室](#mason's-guild-basement)
-- [4 相关任务](#related-quests)
-- [5 生物](#creatures)
-- [6 战利品](#loot)
-- [7 相关文献](#related-literature)
-- [8 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+  - [1.1 进入方式](#进入方式)
+- [2 主建筑](#主建筑)
+- [3 石匠公会地下室](#石匠公会地下室)
+- [4 相关任务](#相关任务)
+- [5 生物](#生物)
+- [6 战利品](#战利品)
+- [7 相关文献](#相关文献)
+- [8 注释与参考](#注释与参考)
 
 ## 概述
 
@@ -54,7 +54,7 @@
 
 首次接近石匠公会时，队伍可短暂看到[柯里拉](Korrilla.md "柯里拉")在 X: -110 Y: -20 处，靠近公会的中央大门监视他们。当队伍成员过于接近时，她会迅速传送离开。如果队伍成员速度足够快，可以触发一段简短且无关紧要的对话。否则，他们会评论她离开后空气中残留的硫磺气味。
 
-在公会主建筑内部，队伍可在 X: -110 Y: 3 处找到[树肤术配方](Barkskin_Recipe.md "树肤术配方")。继续前行，一次[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")会指出大理石基座上有一堆“外观奇特的骨头”。下方的铭牌宣称其为大石匠的遗骸。检查骨头并阅读铭牌会为具有[公会工匠](Guild_Artisan.md "公会工匠")背景的角色授予激励点[石匠的悲剧](Guild_Artisan.md#Tragedy_in_Masonry "公会工匠")，并且对于具有[艺人](Entertainer.md "艺人")背景的角色，也是获得[阴影小镇](Entertainer.md#Town_of_Shadows "艺人")的必要条件（同时需揭露索姆家族所有重要成员的命运）。
+在公会主建筑内部，队伍可在 X: -110 Y: 3 处找到[树肤术配方](Barkskin_Recipe.md "树肤术配方")。继续前行，一次[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")会指出大理石基座上有一堆“外观奇特的骨头”。下方的铭牌宣称其为大石匠的遗骸。检查骨头并阅读铭牌会为具有[公会工匠](Guild_Artisan.md "公会工匠")背景的角色授予激励点[石匠的悲剧](Guild_Artisan.md#Tragedy_in_Masonry "公会工匠")，并且对于具有[艺人](Entertainer.md "艺人")背景的角色，也是获得[阴影小镇](Entertainer.md#Town_of_Shadows "艺人")的必要条件（同时需揭露索姆家族所有重要成员的命运）。
 
 在主建筑最远的房间 X: -117 Y: 31 的工作台上，放着一套[盗贼工具](Thieves'_Tools.md "盗贼工具")、一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")和一卷[燃烧之手卷轴](Scroll_of_Burning_Hands.md "燃烧之手卷轴")。在后院 X: -102 Y: 18 处有一块[地狱铁](Infernal_Iron.md "地狱铁")。如果[戴摩](Dammon.md "戴摩")在[第一幕](Act_One.md "第一幕")的事件中幸存，可以将其交给他制作一件稀有护甲，或用于完成[卡菈克](Karlach.md "卡菈克")的个人任务。
 
@@ -66,11 +66,11 @@
 
 石匠公会地下室。背景中可见伏击的缚灵和暗影
 
-在地下室 X: 129 Y: -692 处，一次成功的 DC 10 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")会揭示一个钥匙孔信使；可以通过通过 DC 18 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")撬锁，或使用[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")中[马蒂斯](Mattis.md "马蒂斯")的[塔型钥匙](Tower-Shaped_Key.md "塔型钥匙")打开。
+在地下室 X: 129 Y: -692 处，一次成功的 DC 10 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")会揭示一个钥匙孔信使；可以通过通过 DC 18 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")撬锁，或使用[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")中[马蒂斯](Mattis.md "马蒂斯")的[塔型钥匙](Tower-Shaped_Key.md "塔型钥匙")打开。
 
 打开后，可移动的墙壁部分会揭示一条秘密通道，墙上钉着一张威胁性的[石匠的笔记](Note_from_the_Mason.md "石匠的笔记")。
 
-向前并向左走，队伍可以在 X: 104 Y: -700 处看到一个加固的镀金箱子。箱子重 250 公斤，并且被设定为无论尝试者的力量如何，都无法拾取或移动。一次 DC 15 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")会显示箱子上有一个陷阱。箱子需要两次 DC 14 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来解除陷阱和撬锁。未能解除陷阱会升起两个加固的吊闸，将队伍（或与箱子互动的队伍成员）与房间的其余部分隔开，同时升起箱子后面的墙壁，揭示一个壁龛，里面有三个[石像鬼雕像](Gargoyle_Statue.md "石像鬼雕像")（投掷[火焰箭](Fire_Bolt.md "火焰箭")类型）。同时，[回合制模式](Turn-based_mode.md "回合制模式")会被启用。
+向前并向左走，队伍可以在 X: 104 Y: -700 处看到一个加固的镀金箱子。箱子重 250 公斤，并且被设定为无论尝试者的力量如何，都无法拾取或移动。一次 DC 15 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")会显示箱子上有一个陷阱。箱子需要两次 DC 14 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来解除陷阱和撬锁。未能解除陷阱会升起两个加固的吊闸，将队伍（或与箱子互动的队伍成员）与房间的其余部分隔开，同时升起箱子后面的墙壁，揭示一个壁龛，里面有三个[石像鬼雕像](Gargoyle_Statue.md "石像鬼雕像")（投掷[火焰箭](Fire_Bolt.md "火焰箭")类型）。同时，[回合制模式](Turn-based_mode.md "回合制模式")会被启用。
 
 陷阱区域后面是一扇通往大型石匠大厅的门，大厅中央部分较低，两侧有两条长廊。中央部分的尽头是一张长石桌，塞伦涅抵抗势力的成员似乎曾在此举行秘密会议。
 
@@ -78,9 +78,9 @@
 
 桌上有[石匠的信](Mason's_Letter.md "石匠的信")（写给他兄弟的）和[石匠记录](Mason's_Log.md "石匠记录")；阅读后者会完成任务[调查塞伦涅信徒抵抗势力](Investigate_the_Sel%C3%BBnite_Resistance.md "调查塞伦涅信徒抵抗势力")。<sup>[\[3\]](#cite_note-3)</sup>
 
-祭坛后面是一个有陷阱的镀金箱子（需要 DC 15 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")来检测陷阱，DC 21 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来解除陷阱，以及 DC 14 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁）。与大多数陷阱不同，此陷阱配备了[曳光弹](Guiding_Bolt.md "曳光弹")法术。箱子里有[战法师的骄傲](Helmet_of_Arcane_Acuity.md "战法师的骄傲")。
+祭坛后面是一个有陷阱的镀金箱子（需要 DC 15 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")来检测陷阱，DC 21 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来解除陷阱，以及 DC 14 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来撬锁）。与大多数陷阱不同，此陷阱配备了[曳光弹](Guiding_Bolt.md "曳光弹")法术。箱子里有[战法师的骄傲](Helmet_of_Arcane_Acuity.md "战法师的骄傲")。
 
-在东侧长廊 X: 123 Y: -739 处，一次 DC 10 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")会指出一个按钮，该按钮打开一扇通往一个区域的秘密门，该区域有两个重箱子：一个装有药水（[隐形药水](Potion_of_Invisibility.md "隐形药水")、[加速药水](Potion_of_Speed.md "加速药水")、[光荣一跃药水](Potion_of_Glorious_Vaulting.md "光荣一跃药水")和[黑暗视觉灵药](Elixir_of_Darkvision.md "黑暗视觉灵药")），另一个装有卷轴，包括[敲击术卷轴](Scroll_of_Knock.md "敲击术卷轴")<sup>[\[4\]](#cite_note-4)</sup>。按钮附近的桌子上有一张[月出之塔图纸](Moonrise_Diagram.md "月出之塔图纸")，它会在地图上添加[月出之塔](Moonrise_Towers.md "月出之塔")外墙中的一个秘密储藏点。长廊两侧的众多书柜包含普通书籍，除了月出之塔图纸旁边的那一个，它包含一个随机的稀有或不常见法术卷轴。
+在东侧长廊 X: 123 Y: -739 处，一次 DC 10 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")会指出一个按钮，该按钮打开一扇通往一个区域的秘密门，该区域有两个重箱子：一个装有药水（[隐形药水](Potion_of_Invisibility.md "隐形药水")、[加速药水](Potion_of_Speed.md "加速药水")、[光荣一跃药水](Potion_of_Glorious_Vaulting.md "光荣一跃药水")和[黑暗视觉灵药](Elixir_of_Darkvision.md "黑暗视觉灵药")），另一个装有卷轴，包括[敲击术卷轴](Scroll_of_Knock.md "敲击术卷轴")<sup>[\[4\]](#cite_note-4)</sup>。按钮附近的桌子上有一张[月出之塔图纸](Moonrise_Diagram.md "月出之塔图纸")，它会在地图上添加[月出之塔](Moonrise_Towers.md "月出之塔")外墙中的一个秘密储藏点。长廊两侧的众多书柜包含普通书籍，除了月出之塔图纸旁边的那一个，它包含一个随机的稀有或不常见法术卷轴。
 
 ## 相关任务
 

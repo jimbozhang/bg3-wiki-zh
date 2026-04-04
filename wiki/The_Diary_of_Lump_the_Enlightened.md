@@ -24,9 +24,9 @@
 
 开明的朗普的胜利与旅行
 
-第一天：既然我看到了真相，我几乎记不起之前的时光。起初，我以为是人类的薄皮赋予了这份礼物，但我渐渐相信是她佩戴的[饰环](Warped_Headband_of_Intellect.md "弯曲的智力头带")。咀嚼时有嘎吱声。
+第一天：既然我看到了真相，我几乎记不起之前的时光。起初，我以为是人类的薄皮赋予了这份礼物，但我渐渐相信是她佩戴的[弯曲的智力头带](Warped_Headband_of_Intellect.md "弯曲的智力头带")。咀嚼时有嘎吱声。
 
-第四天：地精首领[德罗尔·拉格兹林](Dror_Ragzlin.md "Dror Ragzlin")提出了一个诱人的提议：放过任何带有他[新神](Absolute.md "至上真神")[印记](Brand_of_the_Absolute.md "至上真神的印记")的猎物，其余的则尽情享用。作为回报，他提供了可观的金币。
+第四天：地精首领[德罗尔·拉格兹林](Dror_Ragzlin.md "Dror Ragzlin")提出了一个诱人的提议：放过任何带有他[新神](Absolute.md "至上真神")[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")的猎物，其余的则尽情享用。作为回报，他提供了可观的金币。
 
 ---
 *Source: [The Diary of Lump the Enlightened](https://bg3.wiki/wiki/The_Diary_of_Lump_the_Enlightened)*

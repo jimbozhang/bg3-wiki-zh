@@ -96,15 +96,15 @@
 
 - - - ## 特性
 
-- [**养育官的关爱**](Caretaker's_Care.md "Caretaker's Care")
+- [养育官的关爱](Caretaker's_Care.md "养育官的关爱")
 
 [强酸](Acid_(surface).md "Acid (surface)") 地表不会影响你，并且你对 ⁠[强酸](Acid.md "Acid") 伤害具有 [抗性](Resistant.md "Resistant")。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "Githyanki War Magic")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "Spells") 后，可以进行一次 [附赠](Bonus_action.md "Bonus action") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "Bonus action") 武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -156,15 +156,15 @@
 
 - - - ## 特性
 
-- [**养育官的关爱**](Caretaker's_Care.md "Caretaker's Care")
+- [养育官的关爱](Caretaker's_Care.md "养育官的关爱")
 
 [强酸](Acid_(surface).md "Acid (surface)") 地表不会影响你，并且你对 ⁠[强酸](Acid.md "Acid") 伤害具有 [抗性](Resistant.md "Resistant")。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "Githyanki War Magic")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "Spells") 后，可以进行一次 [附赠](Bonus_action.md "Bonus action") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "Bonus action") 武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -222,7 +222,7 @@
 
 ## 特性
 
-- [**养育官的关爱**](Caretaker's_Care.md "Caretaker's Care")
+- [养育官的关爱](Caretaker's_Care.md "养育官的关爱")
 
 [强酸](Acid_(surface).md "Acid (surface)") 地表不会影响你，并且你对 ⁠[强酸](Acid.md "Acid") 伤害具有 [抗性](Resistant.md "Resistant")。
 
@@ -230,15 +230,15 @@
 
 你的 [穿刺射击](Piercing_Shot.md "Piercing Shot") 造成的 [开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)") 持续时间加倍。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "Githyanki War Magic")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "Spells") 后，可以进行一次 [附赠](Bonus_action.md "Bonus action") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "Bonus action") 武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic") 伤害——灵吸怪奴役的伤痕根深蒂固。
 
@@ -272,22 +272,22 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 伙伴好感度](#companion-approval)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 潜在战利品](#potential-loot)
-- [4 相关文献](#related-literature)
-- [5 相关任务](#related-quests)
-- [6 画廊](#gallery)
-- [7 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 潜在战利品](#潜在战利品)
+- [4 相关文献](#相关文献)
+- [5 相关任务](#相关任务)
+- [6 画廊](#画廊)
+- [7 外部链接](#外部链接)
 
 ## 参与度
 
 ### 第一幕
 
-如果与养育官寇库交谈，交互的队伍成员可以通过被动 DC 10 [洞悉](Insight.md "Insight") [检定](Ability_Check.md "Ability check") 推断出库库一直在等待孵化室中最后一枚蛋孵化。如果队伍成员通过了察觉检定，他们可以尝试 DC 10 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check") 来询问库库他*真正*关心这枚蛋的原因。如果队伍成员被动察觉检定失败，他们仍然可以通过 DC 14 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check") 询问库库为什么关心一枚蛋。
+如果与养育官寇库交谈，交互的队伍成员可以通过被动 DC 10 [洞悉](Insight.md "Insight") [属性检定](Ability_Check.md "属性检定") 推断出库库一直在等待孵化室中最后一枚蛋孵化。如果队伍成员通过了察觉检定，他们可以尝试 DC 10 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定") 来询问库库他*真正*关心这枚蛋的原因。如果队伍成员被动察觉检定失败，他们仍然可以通过 DC 14 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定") 询问库库为什么关心一枚蛋。
 
 成功后，库库透露，尽管他是自己那一窝中最后一个孵化的，但他自己创建了这个孵化室。他相信未孵化的蛋中可能蕴藏着伟大。然而，他变得疲惫且不耐烦，因为 [凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn") 可能很快就会检查孵化室，并命令他销毁这枚蛋。得知此事后，交互的队伍成员可以尝试说服库库放弃最后一枚蛋。通过以下任一选项成功后，库库会提供这枚蛋：
 
@@ -299,7 +299,7 @@ UUID
 
 ## 伙伴好感度
 
-通过 DC 18 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check") 说服库库放弃蛋后，他会询问队伍将如何处理这枚蛋。以下回应会导致伙伴好感度变化：
+通过 DC 18 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定") 说服库库放弃蛋后，他会询问队伍将如何处理这枚蛋。以下回应会导致伙伴好感度变化：
 
 - 我会像抚养自己的亲骨肉一样抚养它。
 - 我会找到另一个养育间。一个更宽容的地方。
@@ -330,7 +330,7 @@ UUID
 
 尝试阻止正在施放的法术。
 
-如果该法术的等级高于你用于法术反制的法术位，你必须使用你的施法关键属性进行一次 [检定](Ability_Check.md "Ability Check") *\[参见注释](Counterspell.md#Notes "Counterspell")\]* 来阻止它。检定难度等于 10 加上你试图反制的法术的等级。
+如果该法术的等级高于你用于法术反制的法术位，你必须使用你的施法关键属性进行一次 [属性检定](Ability_Check.md "属性检定") *\[参见注释](Counterspell.md#Notes "Counterspell")\]* 来阻止它。检定难度等于 10 加上你试图反制的法术的等级。
 
 此法术可以在你处于 [沉默](Silenced_(Condition).md "Silenced (Condition)") 状态时施放。
 

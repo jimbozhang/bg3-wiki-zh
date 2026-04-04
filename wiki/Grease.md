@@ -2,7 +2,7 @@
 
 "Grease" redirects here. For the surface, see [Grease (surface)](Grease_(surface)..md)
 
-**油腻术**是一个[等级1咒法学派法术](Spells.md "Spells")。它允许施法者在射程内召唤可燃的[油脂](Grease_(surface).md "Grease (surface)")到地面，并将其转化为[劣势地形](Difficult_Terrain.md "Difficult Terrain")。
+**油腻术**是一个[法术](Spells.md "法术")。它允许施法者在射程内召唤可燃的[油脂](Grease_(surface).md "Grease (surface)")到地面，并将其转化为[劣势地形](Difficult_Terrain.md "Difficult Terrain")。
 
 ## 描述
 

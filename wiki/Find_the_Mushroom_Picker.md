@@ -4,12 +4,12 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 第一幕](#act-one)
-    - [2.1.1 获取箴言菇](#acquiring-the-noblestalk)
-  - [2.2 第三幕](#act-three)
-- [3 任务奖励](#quest-rewards)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 第一幕](#第一幕)
+    - [2.1.1 获取箴言菇](#获取箴言菇)
+  - [2.2 第三幕](#第三幕)
+- [3 任务奖励](#任务奖励)
 
 ## 目标
 
@@ -90,9 +90,9 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 获取箴言菇不是任务的必需目标。但是，如果取回，它可以用于以下几种目的之一：
 
 - 如果交给巴伦，他会恢复理智，并对他的妻子更加无礼。他告诉她，这将像“过去的好时光”一样，而德里丝明显动摇了。
-- 如果交给[影心](Shadowheart.md "Shadowheart")，并通过 DC 12 的[游说](Persuasion.md "Persuasion")或[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")，她会记得一个来自她童年的提夫林，名叫[雷诺德](Nocturne.md "Nocturne")。
+- 如果交给[影心](Shadowheart.md "Shadowheart")，并通过 DC 12 的[游说](Persuasion.md "Persuasion")或[威吓](Intimidation.md "Intimidation")[属性检定](Ability_Check.md "属性检定")，她会记得一个来自她童年的提夫林，名叫[夜曲](Nocturne.md "夜曲")。
 - 如果被[邪念](Dark_Urge.md "Dark Urge")吞噬，他们会记得过去与[塞莱瑞塔斯·菲尔](Sceleritas_Fel.md "Sceleritas Fel")一起进行的一次活体解剖。管家关于他的服务没有说谎。
-- 如果提供给德里丝，她最初声称没有奖励可提供。无论怎样都可以把箴言菇给她。通过 DC 10 的[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")会促使她交出她的[婚戒](Tarnished_Ring.md "Tarnished Ring")，尽管它不是很值钱。队伍可以接受交换，也可以把戒指和箴言菇都收起来，这让她很不高兴。
+- 如果提供给德里丝，她最初声称没有奖励可提供。无论怎样都可以把箴言菇给她。通过 DC 10 的[威吓](Intimidation.md "Intimidation")[属性检定](Ability_Check.md "属性检定")会促使她交出她的[黯淡的戒指](Tarnished_Ring.md "黯淡的戒指")，尽管它不是很值钱。队伍可以接受交换，也可以把戒指和箴言菇都收起来，这让她很不高兴。
 - 可以像普通一次性物品一样保留并使用，以完全恢复角色的生命值并移除所有影响他们的负面状态。
 
 ### 第三幕

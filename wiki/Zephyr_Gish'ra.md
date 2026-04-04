@@ -58,11 +58,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害 - 灵吸怪奴役的伤痕深重。
 
@@ -102,11 +102,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害 - 灵吸怪奴役的伤痕深重。
 
@@ -146,11 +146,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害 - 灵吸怪奴役的伤痕深重。
 
@@ -160,18 +160,18 @@
 
 属性
 
-`Githyanki_Gishra_Caster` **西风吉斯拉** 或 **余烬吉斯拉** 是一种[职业类](Class.md "职业类")原型的[吉斯洋基人](Githyanki.md "吉斯洋基人")角色，在_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中随处可见。
+`Githyanki_Gishra_Caster` **西风吉斯拉** 或 **余烬吉斯拉** 是一种[职业](Class.md "职业")原型的[吉斯洋基人](Githyanki.md "吉斯洋基人")角色，在_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中随处可见。
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 余烬吉斯拉](#ember-gish'ra)
-  - [2.3 西风吉斯拉](#zephyr-gish'ra)
-- [3 命名施法者吉斯拉](#named-caster-gish'ra)
-  - [3.1 余烬](#ember)
-  - [3.2 西风](#zephyr)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 余烬吉斯拉](#余烬吉斯拉)
+  - [2.3 西风吉斯拉](#西风吉斯拉)
+- [3 命名施法者吉斯拉](#命名施法者吉斯拉)
+  - [3.1 余烬](#余烬)
+  - [3.2 西风](#西风)
 
 ## 出场
 

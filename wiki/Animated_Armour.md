@@ -49,19 +49,19 @@
 
 - - ## 特性
 
-- [**反魔法敏感性**](Antimagic_Susceptibility.md "反魔法敏感性")
+- [反魔法敏感性](Antimagic_Susceptibility.md "反魔法敏感性")
 
 [失能](Incapacitated_(Condition).md) by antimagic fields.
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -95,19 +95,19 @@
 
 - - ## 特性
 
-- [**反魔法敏感性**](Antimagic_Susceptibility.md "反魔法敏感性")
+- [反魔法敏感性](Antimagic_Susceptibility.md "反魔法敏感性")
 
 [失能](Incapacitated_(Condition).md) by antimagic fields.
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -141,19 +141,19 @@
 
 - - ## 特性
 
-- [**反魔法敏感性**](Antimagic_Susceptibility.md "反魔法敏感性")
+- [反魔法敏感性](Antimagic_Susceptibility.md "反魔法敏感性")
 
 [失能](Incapacitated_(Condition).md) by antimagic fields.
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -169,16 +169,16 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第二幕](#act-two)
-  - [1.3 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 备注](#notes)
-- [4 命名活化护甲](#named-animated-armours)
-- [5 活化护甲敌人变体](#animated-armour-enemy-variants)
-- [6 画廊](#gallery)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第二幕](#第二幕)
+  - [1.3 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 备注](#备注)
+- [4 命名活化护甲](#命名活化护甲)
+- [5 活化护甲敌人变体](#活化护甲敌人变体)
+- [6 画廊](#画廊)
 - [7 外部链接](#external-links)
 
 ## 出场

@@ -20,24 +20,24 @@
 
 ## 目录
 
-- [1 伙伴](#companions)
-- [2 概述](#summary)
-- [3 无法返回点](#point-of-no-return)
-- [4 任务](#quests)
-  - [4.1 主线任务](#main-quests)
-  - [4.2 伙伴任务](#companion-quests)
-  - [4.3 个人任务](#personal-quests)
-  - [4.4 支线任务](#side-quests)
-- [5 地点](#locations)
-  - [5.1 废弃战场](#ruined-battlefield)
-  - [5.2 终焉光芒旅店](#last-light-inn)
-  - [5.3 雷斯文小镇](#reithwin-town)
-  - [5.4 月出之塔](#moonrise-towers)
-  - [5.5 大陵寝](#grand-mausoleum)
-  - [5.6 莎尔铁手神殿](#gauntlet-of-shar)
-  - [5.7 夺心魔殖民地](#mind-flayer-colony)
-  - [5.8 星界](#astral-plane)
-- [6 注释](#notes)
+- [1 伙伴](#伙伴)
+- [2 概述](#概述)
+- [3 无法返回点](#无法返回点)
+- [4 任务](#任务)
+  - [4.1 主线任务](#主线任务)
+  - [4.2 伙伴任务](#伙伴任务)
+  - [4.3 个人任务](#个人任务)
+  - [4.4 支线任务](#支线任务)
+- [5 地点](#地点)
+  - [5.1 废弃战场](#废弃战场)
+  - [5.2 终焉光芒旅店](#终焉光芒旅店)
+  - [5.3 雷斯文小镇](#雷斯文小镇)
+  - [5.4 月出之塔](#月出之塔)
+  - [5.5 大陵寝](#大陵寝)
+  - [5.6 莎尔铁手神殿](#莎尔铁手神殿)
+  - [5.7 夺心魔殖民地](#夺心魔殖民地)
+  - [5.8 星界](#星界)
+- [6 注释](#注释)
 
 ## 伙伴
 
@@ -140,7 +140,7 @@
 
 雷斯文小镇是一个古老的塞伦涅信徒小镇，横跨[奇恩塔尔河](River_Chionthar.md "River_Chionthar")，这条通向[博德之门](Baldur's_Gate.md "Baldur's Gate")的大路。它曾是一个富裕的城镇，从其广泛的石雕和精致的建筑中可见一斑，如今却只居住着被诅咒的生物和暗影。
 
-探索小镇揭示了索姆家族在其鼎盛时期的影响力；从他们广阔的[大陵寝](Grand_Mausoleum.md "Grand Mausoleum")到仍在城镇空荡建筑中履行职责的残存者[西索博得](Thisobald_Thorm.md "Thisobald Thorm")、[格灵哥斯](Gerringothe_Thorm.md "Gerringothe Thorm")和[马鲁斯·索姆](Malus_Thorm.md "Malus Thorm")。
+探索小镇揭示了索姆家族在其鼎盛时期的影响力；从他们广阔的[大陵寝](Grand_Mausoleum.md "Grand Mausoleum")到仍在城镇空荡建筑中履行职责的残存者[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")、[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")和[马鲁斯·索姆](Malus_Thorm.md "Malus Thorm")。
 
 ### 月出之塔
 

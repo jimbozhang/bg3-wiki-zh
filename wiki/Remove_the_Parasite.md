@@ -4,16 +4,16 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 获得医师内蒂的帮助](#get-help-from-healer-nettie)
-  - [2.2 请求地精女祭司的帮助](#ask-the-goblin-priestess-for-help)
-  - [2.3 获得埃赛尔婶婶的帮助](#get-help-from-auntie-ethel)
-  - [2.4 解救德鲁伊哈尔辛](#rescue-the-druid-halsin)
-  - [2.5 帮助奥米伦调查寄生虫的事](#help-omeluum-investigate-the-parasite)
-  - [2.6 找到吉斯洋基养育间](#find-the-githyanki-cr%C3%A8che)
-  - [2.7 月出之塔及之后](#moonrise-towers-and-beyond)
-- [3 相关任务](#related-quests)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 获得医师内蒂的帮助](#获得医师内蒂的帮助)
+  - [2.2 请求地精女祭司的帮助](#请求地精女祭司的帮助)
+  - [2.3 获得埃赛尔婶婶的帮助](#获得埃赛尔婶婶的帮助)
+  - [2.4 解救德鲁伊哈尔辛](#解救德鲁伊哈尔辛)
+  - [2.5 帮助奥米伦调查寄生虫的事](#帮助奥米伦调查寄生虫的事)
+  - [2.6 找到吉斯洋基养育间](#找到吉斯洋基养育间)
+  - [2.7 月出之塔及之后](#月出之塔及之后)
+- [3 相关任务](#相关任务)
 
 ## 目标
 

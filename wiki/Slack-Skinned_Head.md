@@ -47,7 +47,7 @@ UUID
 **在[第二幕](Act_Two.md "第二幕")的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")内有6个意志可供寻找：**
 
 - [摧残意志](Butchered_Mind.md "摧残意志") - 在[停尸房](Mind_Flayer_Colony.md#Morgue "夺心魔殖民地")中，[切割者](Chop.md "切割者")工作的地方，一套带有废弃护甲的架子顶部
-- [封闭意志](Closed_Mind.md "封闭意志") - 在[铁指](Ironfinger.md "铁指")房间的架子上，位于[兵营](Mind_Flayer_Colony.md "夺心魔殖民地")的西北部
+- [封闭意志](Closed_Mind.md "封闭意志") - 在[铁指](Ironfinger.md "铁指")房间的架子上，位于[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")的西北部
 - [新鲜意志](Fresh_Mind.md "新鲜意志") - 在通往最终区域的电梯旁，一堆粘液盒子的顶部
 - [真实意志](True_Mind.md "真实意志") - 在[黯蚀实验室](Mind_Flayer_Colony.md#Necrotic_Laboratory "夺心魔殖民地")中，脑袋的前方
 - [苏醒意志](Waking_Mind.md "苏醒意志") - 在[黯蚀实验室](Mind_Flayer_Colony.md#Necrotic_Laboratory "夺心魔殖民地")的一扇门后，**仅**在解决[大脑映射谜题](Brain_Mapping_Puzzle.md "大脑映射谜题")后才能进入

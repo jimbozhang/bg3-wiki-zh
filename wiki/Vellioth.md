@@ -20,11 +20,11 @@
 
 [不死生物](Undead.md "Undead"), [吸血鬼](Vampire.md "Vampire")
 
-**维里奥斯 "严苛者"** 是[博德之门](Baldur's_Gate.md "Baldur's Gate")的一位吸血鬼领主，也是[卡扎多尔](Cazador_Szarr.md "Cazador Szarr")的主人。他的头骨位于[卡扎多尔的地牢](Cazador's_Dungeon.md "Cazador's Dungeon")的西翼。
+**维里奥斯 "严苛者"** 是[博德之门](Baldur's_Gate.md "Baldur's Gate")的一位吸血鬼领主，也是[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")的主人。他的头骨位于[卡扎多尔的地牢](Cazador's_Dungeon.md "Cazador's Dungeon")的西翼。
 
 ## 概述
 
-维里奥斯的头骨可以进行互动，以了解维里奥斯“教导”卡扎多尔的三个“教训”。每个教训都需要通过一次DC 15的[感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "Ability check")才能学习。检定完成后，队伍将获得[黑弥撒卷轴](Black_Mass_Scroll.md "Black Mass Scroll")，其中详细说明了卡扎多尔希望执行的晋升仪式，并推进[苍白的精灵](The_Pale_Elf.md "The Pale Elf")任务。
+维里奥斯的头骨可以进行互动，以了解维里奥斯“教导”卡扎多尔的三个“教训”。每个教训都需要通过一次DC 15的[感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定")才能学习。检定完成后，队伍将获得[黑弥撒卷轴](Black_Mass_Scroll.md "Black Mass Scroll")，其中详细说明了卡扎多尔希望执行的晋升仪式，并推进[苍白的精灵](The_Pale_Elf.md "The Pale Elf")任务。
 
 ## 历史
 

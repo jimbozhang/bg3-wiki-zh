@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-**飞镖 +2** 是[飞镖](Darts.md "Darts")武器家族中一种稀有、中等附魔（+2）的变体。它是一种[简单远程武器](Weapons.md "Weapons")，需双手持握。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。
+**飞镖 +2** 是[飞镖](Darts.md "Darts")武器家族中一种稀有、中等附魔（+2）的变体。它是一种[武器](Weapons.md "武器")，需双手持握。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。
 
 天马羽毛赋予了这支飞镖惊人的速度，以及宜人的茉莉花香。
 

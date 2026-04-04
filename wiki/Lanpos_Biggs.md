@@ -87,19 +87,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -143,19 +143,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -199,19 +199,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -233,18 +233,18 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-  - [1.2 重要战利品](#notable-loot)
-- [2 死者交谈](#speak-with-dead)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+  - [1.2 重要战利品](#重要战利品)
+- [2 死者交谈](#死者交谈)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
 
 ## 出场
 
 ### 第三幕
 
-兰伯斯的尸体可以在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")的实验室层找到，坐标 X: -1948 Y: 422。如果使用[死者交谈](Speak_with_Dead.md "死者交谈")，他会揭示班恩信徒强迫他的丈夫[曼瑟·比格斯](Manser_Biggs.md "曼瑟·比格斯")将他殴打致死，因为他发现他们的儿子[格林多](Grindo_Biggs.md "格林多·比格斯")和[哈斯塔](Hastar_Biggs.md "哈斯塔·比格斯")被关押在[钢铁王座](Iron_Throne.md "钢铁王座")。
+兰伯斯的尸体可以在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")的实验室层找到，坐标 X: -1948 Y: 422。如果使用[死者交谈](Speak_with_Dead.md "死者交谈")，他会揭示班恩信徒强迫他的丈夫[曼瑟·比格斯](Manser_Biggs.md "曼瑟·比格斯")将他殴打致死，因为他发现他们的儿子[格林多](Grindo_Biggs.md "格林多·比格斯")和[哈斯塔·比格斯](Hastar_Biggs.md "哈斯塔·比格斯")被关押在[钢铁王座](Iron_Throne.md "钢铁王座")。
 
 ### 重要战利品
 
@@ -282,7 +282,7 @@ UUID
 - 我如何关闭钢铁卫士？
 
 - 贡德信徒兰伯斯·比格斯
-  [图宾](Zanner_Toobin.md "赞纳·图宾")... 只有图宾知道...
+  [赞纳·图宾](Zanner_Toobin.md "赞纳·图宾")... 只有图宾知道...
 
 ## 相关文献
 

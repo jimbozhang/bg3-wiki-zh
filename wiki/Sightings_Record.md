@@ -20,7 +20,7 @@
 
 ## 文本
 
-\[一份该地区枭熊观察记录的长列表，按日期分隔。最新条目（写于十天前），写着“[幼兽！](Owlbear_Cub.md "枭熊幼兽")”。这个词被多次下划线。\]
+\[枭熊幼兽](Owlbear_Cub.md "枭熊幼兽")”。这个词被多次下划线。\]
 
 ---
 *Source: [Sightings Record](https://bg3.wiki/wiki/Sightings_Record)*

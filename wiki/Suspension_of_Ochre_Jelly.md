@@ -1,6 +1,6 @@
 # 土黄果冻怪悬液
 
-**土黄果冻怪悬液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以创造[自由行动药水](Elixir_of_Guileful_Movement.md "自由行动药水")。
+**土黄果冻怪悬液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以创造[自由行动药水](Elixir_of_Guileful_Movement.md "自由行动药水")。
 
 如果伊格维尔夫的[恶魔图鉴](https://forgottenrealms.fandom.com/wiki/Demonomicon_of_Iggwilv)所言属实，所有泥型怪物都是无面之主、恶魔暴君朱比莱克斯的造物——它还引用了该物质基于移动的有用炼金术特性。
 

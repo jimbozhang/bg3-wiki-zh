@@ -94,35 +94,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 20 / (+5) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你进行一项你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")的[属性检定](Ability_Check.md "属性检定")时，你骰子的最低结果为10。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将一次即将命中的伤害减半。
 
@@ -168,35 +168,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | +9 | +1 | +6 | 0 | +1 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你进行一项你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")的[属性检定](Ability_Check.md "属性检定")时，你骰子的最低结果为10。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将一次即将命中的伤害减半。
 
@@ -242,35 +242,35 @@
 | --- | --- | --- | --- |
 |  | 1 | 5 | 0 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你进行一项你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")的[属性检定](Ability_Check.md "属性检定")时，你骰子的最低结果为10。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将一次即将命中的伤害减半。
 
@@ -292,10 +292,10 @@ Stats
 
 ## 内容
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 备注](#notes)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 备注](#备注)
 
 ## 出场
 

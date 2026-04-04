@@ -2,7 +2,7 @@
 
 本文介绍的是**[无法使用](Category_colon_Unusable_content.md "Category:Unusable content")**的内容——例如物品、法术或装备——但这些内容仍可通过游戏内或第三方工具访问或获取。
 
-**重尖刺棒**是[巨棒](Greatclubs.md "Greatclubs")武器家族的一个特殊变种。它是一种[简易近战武器](Weapons.md "Weapons")，需要双手持握。
+**重尖刺棒**是[巨棒](Greatclubs.md "Greatclubs")武器家族的一个特殊变种。它是一种[武器](Weapons.md "武器")，需要双手持握。
 
 生锈的铁钉和不匹配的石块被胡乱地绑在这根粗壮的橡木树枝末端。
 

@@ -33,28 +33,28 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 莎尔教会](#church-of-shar)
+- [1 概述](#概述)
+- [2 莎尔教会](#莎尔教会)
   - [2.1 莎尔教会等级（从高到低）：](#ranks-of-the-church-of-shar-from-highest-to-lowest:)
-  - [2.2 暗夜法官](#dark-justiciars)
-    - [2.2.1 变体](#variants)
-  - [2.3 仪式与典礼](#ceremonies-and-rituals)
-- [3 相关地点](#related-locations)
-- [4 相关角色](#related-characters)
-  - [4.1 莎尔信徒菲蒂利安](#sharran-fidelians)
-  - [4.2 莎尔哨兵](#sharran-sentries)
-  - [4.3 莎尔学徒](#sharran-novices)
-- [5 相关物品](#related-items)
-- [6 相关文献](#related-literature)
-- [7 相关任务](#related-quests)
-- [8 语录](#quotes)
-- [9 画廊](#gallery)
-- [10 注释与参考](#notes-and-references)
-- [11 外部链接](#external-links)
+  - [2.2 暗夜法官](#暗夜法官)
+    - [2.2.1 变体](#变体)
+  - [2.3 仪式与典礼](#仪式与典礼)
+- [3 相关地点](#相关地点)
+- [4 相关角色](#相关角色)
+  - [4.1 莎尔信徒菲蒂利安](#莎尔信徒菲蒂利安)
+  - [4.2 莎尔哨兵](#莎尔哨兵)
+  - [4.3 莎尔学徒](#莎尔学徒)
+- [5 相关物品](#相关物品)
+- [6 相关文献](#相关文献)
+- [7 相关任务](#相关任务)
+- [8 语录](#语录)
+- [9 画廊](#画廊)
+- [10 注释与参考](#注释与参考)
+- [11 外部链接](#外部链接)
 
 ## 概述
 
-莎尔是[塞伦涅](Sel%C3%BBne.md "塞伦涅")的孪生姐妹与敌人，也是[影心](Shadowheart.md "影心")的守护神祇。她与[死亡](Death_Domain.md "死亡领域")和[诡术](Trickery_Domain.md "诡术领域")领域相关。莎尔不能成为自定义玩家[牧师](Cleric.md "牧师")的神祇。<sup>[\[2\]](#cite_note-2)</sup>
+莎尔是[塞伦涅](Sel%C3%BBne.md "塞伦涅")的孪生姐妹与敌人，也是[影心](Shadowheart.md "影心")的守护神祇。她与[死亡](Death_Domain.md "死亡领域")和[诡术领域](Trickery_Domain.md "诡术领域")领域相关。莎尔不能成为自定义玩家[牧师](Cleric.md "牧师")的神祇。<sup>[\[2\]](#cite_note-2)</sup>
 
 莎尔的存在被描述为一种空虚感，一种与黑暗融为一体的感觉，遮蔽思想与记忆的阴影，以及一种湮灭般的失落感。<sup>[\[3\]](#cite_note-3)</sup>
 
@@ -70,7 +70,7 @@
 
 ### 莎尔教会等级（从高到低）
 
-- [莎尔的女院长](Viconia_DeVir.md "维康妮亚·迪佛")
+- [维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")
 - [暗夜法官](Dark_Justiciar.md "暗夜法官")
 - [审判十字军](Justiciar_Crusader_(archetype).md) (原文链接不完整，按原样保留)
 - [莎尔信徒菲蒂利安](Sharran_Fidelian.md "莎尔信徒菲蒂利安")

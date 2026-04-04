@@ -19,23 +19,23 @@
 
 ## 目录
 
-- [1 所需工具](#tools-youll-need)
-  - [1.1 什么是自动吸附和非自动吸附发型？](#what-are-autosnapping-and-non-autosnapping-hairs?)
-- [2 遵循模板](#following-the-template)
-- [3 模组/meta.lsx](#modsmetalsx)
-- [4 本地化/英语/自定义名称.loca.xml](#localizationenglishcustom_name_herelocaxml)
-  - [4.1 使用Multitool生成句柄](#using-multitool-to-generate-a-handle)
+- [1 所需工具](#所需工具)
+  - [1.1 什么是自动吸附和非自动吸附发型？](#什么是自动吸附和非自动吸附发型？)
+- [2 遵循模板](#遵循模板)
+- [3 模组/meta.lsx](#模组-meta.lsx)
+- [4 本地化/英语/自定义名称.loca.xml](#本地化-英语-自定义名称.loca.xml)
+  - [4.1 使用Multitool生成句柄](#使用Multitool生成句柄)
   - [4.2 （可选）使用迷你工具创建/编辑.loca](#optional-using-mini-tool-to-createedit-the-loca)
-- [5 发型_合并.lsf](#hair-_mergedlsf)
-- [6 角色创建文件夹](#character-creation-folder)
-  - [6.1 CharacterCreationAppearanceVisuals](#charactercreationappearancevisuals)
+- [5 发型_合并.lsf](#发型_合并.lsf)
+- [6 角色创建文件夹](#角色创建文件夹)
+  - [6.1 CharacterCreationAppearanceVisuals](#CharacterCreationAppearanceVisuals)
     - [6.1.1 （可选）使用Minitool创建您的CharacterCreationAppearanceVisuals](#optional-using-minitool-to-create-your-charactercreationappearancevisuals)
-  - [6.2 CharacterCreationSharedVisuals](#charactercreationsharedvisuals)
-  - [6.3 Races.lsx](#raceslsx)
-- [7 何时为自动吸附发型使用三个或更多网格](#when-to-use-three-or-more-meshes-for-autosnapping-hairs)
-  - [7.1 CharacterCreationAppearanceVisuals](#charactercreationappearancevisuals-2)
-  - [7.2 CharacterCreationSharedVisuals](#charactercreationsharedvisuals-2)
-- [8 故障排除](#troubleshooting)
+  - [6.2 CharacterCreationSharedVisuals](#CharacterCreationSharedVisuals)
+  - [6.3 Races.lsx](#Races.lsx)
+- [7 何时为自动吸附发型使用三个或更多网格](#何时为自动吸附发型使用三个或更多网格)
+  - [7.1 CharacterCreationAppearanceVisuals](#CharacterCreationAppearanceVisuals)
+  - [7.2 CharacterCreationSharedVisuals](#CharacterCreationSharedVisuals)
+- [8 故障排除](#故障排除)
 
 ## 所需工具
 

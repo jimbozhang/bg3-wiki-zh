@@ -2,7 +2,7 @@
 
 另请参阅：[曳光弹](Guiding_Bolt.md "曳光弹")
 
-**星图：曳光弹** 是一个[等级 1 塑能学派法术](Spells.md "Spells")。这个法术专属于[星界圆环](Circle_of_the_Stars.md "星界圆环")德鲁伊，允许施法者用光耀飞弹击中敌人，造成[光耀](Radiant.md "光耀")伤害，并对针对他们的[攻击掷骰](Attack_rolls.md "攻击掷骰")授予[优势](Advantage.md "优势")。
+**星图：曳光弹** 是一个[法术](Spells.md "法术")。这个法术专属于[星界圆环](Circle_of_the_Stars.md "星界圆环")德鲁伊，允许施法者用光耀飞弹击中敌人，造成[光耀](Radiant.md "光耀")伤害，并对针对他们的[攻击掷骰](Attack_rolls.md "攻击掷骰")授予[优势](Advantage.md "优势")。
 
 ## 描述
 

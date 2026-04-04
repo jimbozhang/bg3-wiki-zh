@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏获得](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**艰巨火焰刀**是[长剑](Longswords.md "Longswords")武器家族中一种稀有、轻度附魔（+1）的变体。它是一种[军用近战武器](Weapons.md "Weapons")，可单手挥舞，或双手持握以造成额外伤害。
+**艰巨火焰刀**是[长剑](Longswords.md "Longswords")武器家族中一种稀有、轻度附魔（+1）的变体。它是一种[武器](Weapons.md "武器")，可单手挥舞，或双手持握以造成额外伤害。
 
 焰拳成员中文化崇拜的程度难以估量，但对火焰的痴迷则显而易见且毫无歧义。
 

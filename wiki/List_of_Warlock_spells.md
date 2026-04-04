@@ -41,7 +41,7 @@
 | [镜像术](Mirror_Image.md "镜像术") | 2 |  |  | 10回合 | 自身 | - | - |
 | [迷踪步](Misty_Step.md "迷踪步") | 2 |  |  | - | 18米 / 60英尺 | - | - |
 | [衰弱射线](Ray_of_Enfeeblement.md "衰弱射线") | 2 |  |  | 10回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | - |
-| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
+| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [灵巧](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
 | [粉碎音波](Shatter.md "粉碎音波") | 2 |  |  | - | 18米 / 60英尺 / 3米 / 10英尺 (半径) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[雷鸣](Thunder.md "雷鸣") |
 | [法术反制](Counterspell.md "法术反制") | 3 |  |  | - | - | - | - |
 | [恐惧](Fear.md "恐惧") | 3 |  |  | 2回合 | 自身 / 9米 / 30英尺 (锥形) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | - |

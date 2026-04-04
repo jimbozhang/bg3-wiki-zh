@@ -1,6 +1,6 @@
 # 水晶透镜精华
 
-**水晶透镜精华**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[黑暗视觉灵药](Elixir_of_Darkvision.md "黑暗视觉灵药")。
+**水晶透镜精华**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[黑暗视觉灵药](Elixir_of_Darkvision.md "黑暗视觉灵药")。
 
 引人注目，几颗石英质的水晶颗粒残留其中。
 

@@ -15,7 +15,7 @@
 此物品的穿戴者获得：
 
 [灵能榨取](Psychic_Leech.md "灵能榨取")
-当敌人在对抗你的法术或戏法时，[魅力](Charisma.md "魅力")、[智力](Intelligence.md "智力")或[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")失败时，你恢复1d4⁠⁠[生命值](Healing.md "治疗")。
+当敌人在对抗你的法术或戏法时，[魅力](Charisma.md "魅力")、[智力](Intelligence.md "智力")或[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")失败时，你恢复1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ## 获取地点
 

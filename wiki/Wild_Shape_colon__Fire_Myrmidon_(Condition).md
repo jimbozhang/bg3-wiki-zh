@@ -55,7 +55,7 @@
 解除你的荒野形态并变回原始形态。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[治疗](Healing.md "治疗")。
 
 [元素执政官自燃](Myrmidon's_Immolation.md "元素执政官自燃") ()
 以炽热的原始火焰点燃自身，使你[加速](Hastened_(Condition).md "加速 (状态)")。

@@ -2,7 +2,7 @@
 
 请勿与[观察者眼魔](Spectator.md "观察者眼魔")和[观察者](Observer.md "Observer")混淆
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到此处](Special_colon_WhatLinksHere/Beholder.md "Special:WhatLinksHere/Beholder")，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[眼魔](Special_colon_WhatLinksHere/Beholder.md "眼魔")，请考虑编辑该链接，将其指向正确的页面。
 
 **眼魔**可能指（眼魔本身并不存在于[博德之门3](Baldur's_Gate_3.md "博德之门3")中）：
 

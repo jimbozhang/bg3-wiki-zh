@@ -1,6 +1,6 @@
 # 莎尔弯刀 (Sharran Scimitar)
 
-**莎尔弯刀**是[弯刀](Scimitars.md "Scimitars")武器家族的一种常见变体。它是一种单手挥舞的[近战武器](Weapons.md "Weapons")。作为[灵巧](Finesse.md "Finesse")武器，它可以从使用者的**敏捷**中获益，而不仅仅是**力量**。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
+**莎尔弯刀**是[弯刀](Scimitars.md "Scimitars")武器家族的一种常见变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为[灵巧](Finesse.md "Finesse")武器，它可以从使用者的**敏捷**中获益，而不仅仅是**力量**。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
 
 ## 属性
 

@@ -12,7 +12,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：2~8 + 调整值
 
-1d4 + [力量或敏捷调整值](Finesse.md "灵巧")[挥砍](Slashing.md "挥砍")
+1d4 + [灵巧](Finesse.md "灵巧")[挥砍](Slashing.md "挥砍")
 
 \+ 1d4[火焰](Fire.md "火焰")
 

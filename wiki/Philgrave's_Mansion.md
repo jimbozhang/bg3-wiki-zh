@@ -17,29 +17,29 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 进入方式](#access)
-- [2 宅邸布局](#mansion-layout)
-  - [2.1 一楼](#ground-floor)
-  - [2.2 二楼](#first-floor)
-  - [2.3 顶楼](#top-floor)
-  - [2.4 地下室](#basement)
-  - [2.5 宅邸外部周边](#outside,_around_the_building)
-- [3 堆岸海滩](#heapside-strand-beach)
-- [4 传送点](#waypoints)
-- [5 相关地点](#related-locations)
-- [6 相关任务](#related-quests)
-- [7 角色](#characters)
-  - [7.1 奇怪的乞丐](#strange-beggars)
-  - [7.2 生物](#creatures)
-  - [7.3 宅邸外部周边](#outside,_around_the_building_2)
-  - [7.4 堆岸海滩](#heapside-strand-beach-2)
-    - [7.4.1 非玩家角色](#non-player_characters)
-    - [7.4.2 沙华鱼人袭击](#sahuagin-assault)
-- [8 战利品](#loot)
-  - [8.1 秘术师卡里翁的出售品](#mystic-carrion's-sells)
-  - [8.2 埋藏的宝藏](#buried-treasure)
-- [9 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+  - [1.1 进入方式](#进入方式)
+- [2 宅邸布局](#宅邸布局)
+  - [2.1 一楼](#一楼)
+  - [2.2 二楼](#二楼)
+  - [2.3 顶楼](#顶楼)
+  - [2.4 地下室](#地下室)
+  - [2.5 宅邸外部周边](#宅邸外部周边)
+- [3 堆岸海滩](#堆岸海滩)
+- [4 传送点](#传送点)
+- [5 相关地点](#相关地点)
+- [6 相关任务](#相关任务)
+- [7 角色](#角色)
+  - [7.1 奇怪的乞丐](#奇怪的乞丐)
+  - [7.2 生物](#生物)
+  - [7.3 宅邸外部周边](#宅邸外部周边)
+  - [7.4 堆岸海滩](#堆岸海滩)
+    - [7.4.1 非玩家角色](#非玩家角色)
+    - [7.4.2 沙华鱼人袭击](#沙华鱼人袭击)
+- [8 战利品](#战利品)
+  - [8.1 秘术师卡里翁的出售品](#秘术师卡里翁的出售品)
+  - [8.2 埋藏的宝藏](#埋藏的宝藏)
+- [9 注释与参考](#注释与参考)
 
 ## 概述
 
@@ -53,12 +53,12 @@
 
 菲尔格雷弗宅邸可通过多种方式进入：
 
-- 石墙上的一个上锁的门，坐标 X: -8 Y: -158。首次接近时需要通过 DC 10 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")才能发现。与其互动时，会开始对话。在整个对话过程中，另一个被动 DC 15 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")会揭示该门需要密码才能打开。
+- 石墙上的一个上锁的门，坐标 X: -8 Y: -158。首次接近时需要通过 DC 10 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")才能发现。与其互动时，会开始对话。在整个对话过程中，另一个被动 DC 15 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")会揭示该门需要密码才能打开。
 - 唯一正确的密码 _"Secreta mortuorum"_ 可以通过阅读[给奥斯卡·费拉斯的信](Letter_to_Oskar_Fevras.md "给奥斯卡·费拉斯的信")<sup>[\[1\]](#cite_note-1)</sup>或位于[布鲁克皮舍购物中心](Bruc_and_Pishe's_Emporium.md "布鲁克皮舍购物中心")旁边巷道中坐标 X: 73 Y: -107 的箱子上的[羊皮卷](Parchment_(Lower_City).md "羊皮卷（下城区）")获得。<sup>[\[2\]](#cite_note-2)</sup>
   - 也可以使用宅邸大厅旁的拉杆打开门。
-  - 最后，像大多数其他门一样，可以通过 DC 25 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁打开，用[敲击术](Knock.md "敲击术")打开，或摧毁（具有[中级坚韧](Medium_Toughness_(Condition).md "中级坚韧（状态）")）。
-- 墙上的一个洞，坐标 X: 29 Y: -166，直接通向宅邸地下室。它最初隐藏在几个箱子后面，需要 DC 5 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")才能找到。覆盖它的箱子是红色轮廓的；移动它可能会被附近的 NPC 视为侵犯。该洞只能由[小型](Small.md "小型")和[微型](Tiny.md "微型")角色使用（包括那些[伪装术](Disguise_Self.md "伪装术")或[荒野形态](Wild_Shape.md "荒野形态")成此类的角色）。
-- 阳台入口，坐标 X: 17 Y: -169，允许进入宅邸的第三层。可以通过任何空间移动方式到达阳台，例如[迷踪步](Misty_Step.md "迷踪步")或[给予飞行](Grant_Flight.md "给予飞行")。然后需要通过 DC 25 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来撬锁门。
+  - 最后，像大多数其他门一样，可以通过 DC 25 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁打开，用[敲击术](Knock.md "敲击术")打开，或摧毁（具有[中级坚韧](Medium_Toughness_(Condition).md "中级坚韧（状态）")）。
+- 墙上的一个洞，坐标 X: 29 Y: -166，直接通向宅邸地下室。它最初隐藏在几个箱子后面，需要 DC 5 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")才能找到。覆盖它的箱子是红色轮廓的；移动它可能会被附近的 NPC 视为侵犯。该洞只能由[小型](Small.md "小型")和[微型](Tiny.md "微型")角色使用（包括那些[伪装术](Disguise_Self.md "伪装术")或[荒野形态](Wild_Shape.md "荒野形态")成此类的角色）。
+- 阳台入口，坐标 X: 17 Y: -169，允许进入宅邸的第三层。可以通过任何空间移动方式到达阳台，例如[迷踪步](Misty_Step.md "迷踪步")或[给予飞行](Grant_Flight.md "给予飞行")。然后需要通过 DC 25 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁门。
 
 ## 宅邸布局
 
@@ -66,13 +66,13 @@
 
 宅邸综合地图：(1) 一楼及周边 (2) 地下室 (3) 二楼 (4) 顶楼
 
-一楼分为小大厅和较大的客厅。大厅的楼梯通向通往二楼的上锁门（需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁）。
+一楼分为小大厅和较大的客厅。大厅的楼梯通向通往二楼的上锁门（需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁）。
 
 [秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")居住在客厅，由一只名为[尺骨](Ulnar.md "尺骨")的[妖鬼](Ghast.md "妖鬼")陪伴。沙龙里散落着许多棺材和匣子。楼梯下大厅里也放着一个。如果与任何一个互动，匣子会破裂，一个[远古仆从](Ancient_Servant.md "远古仆从")会挣脱出来。时不时会有类似[灵魂回响](Soul_Echo.md "灵魂回响")的鬼火出现在房间里，卡里翁会与它们交谈，称它们为臣服的鬼魂。
 
 进入客厅后，对话会自动开始。其布局取决于队伍是否激活了[解救艺术家](Free_the_Artist.md "解救艺术家")任务，以及是否有队伍成员成功阅读了[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术")的至少一页（他们当时不需要在场）。否则，卡里翁可能会作为商人，出售几件非常稀有的装备。
 
-在楼层的最远端有一个上锁的木箱，里面装有[驱散火炬](Torch_of_Revocation.md "驱散火炬")——这是完成[解救艺术家](Free_the_Artist.md "解救艺术家")任务所必需的故事道具，以及金币和随机的珍贵[炼金术](Alchemy.md "炼金术")材料。该箱子可以通过 DC 25 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬锁，或用从卡里翁身上[扒窃](Pickpocket.md "扒窃")来的[钥匙](Key_(Philgrave's_Mansion.md "钥匙（菲尔格雷弗宅邸）")打开。否则，完成子任务[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")后也会奖励该火炬。也可以使用[隐形](Invisible_(Condition).md "隐形（状态）")手段从箱子中偷走火炬，而无需与卡里翁交谈。
+在楼层的最远端有一个上锁的木箱，里面装有[驱散火炬](Torch_of_Revocation.md "驱散火炬")——这是完成[解救艺术家](Free_the_Artist.md "解救艺术家")任务所必需的故事道具，以及金币和随机的珍贵[炼金术](Alchemy.md "炼金术")材料。该箱子可以通过 DC 25 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬锁，或用从卡里翁身上[扒窃](Pickpocket.md "扒窃")来的[钥匙](Key_(Philgrave's_Mansion.md "钥匙（菲尔格雷弗宅邸）")打开。否则，完成子任务[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")后也会奖励该火炬。也可以使用[隐形](Invisible_(Condition).md "隐形（状态）")手段从箱子中偷走火炬，而无需与卡里翁交谈。
 
 二楼的一小部分被墙壁完全隔开。里面有一个通往宅邸地下室的舱口。该区域通过中层的一扇暗门进入。
 
@@ -86,17 +86,17 @@
 
 一只名为[利格斯](Ligus.md "利格斯")的食尸鬼在二楼和顶楼之间游荡。他不会对队伍闯入房间做出反应，但会阻止他们上楼梯，告诉他们那里“对客人不安全”。反复尝试无视警告上楼会使利格斯和他顶楼的同伴变得敌对。
 
-沙龙的最远端有一扇上锁的门（DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")），门后是一个可怕的房间，里面满是毁容的尸体和身体部位。在桌子上的内脏中可以找到一枚[灵魂钱币](Soul_Coin.md "灵魂钱币")。该房间中一扇伪装的石门，坐标 X: 16 Y: -154（未被任何能力检定高亮显示），隐藏着通往地下室的梯子。
+沙龙的最远端有一扇上锁的门（DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")），门后是一个可怕的房间，里面满是毁容的尸体和身体部位。在桌子上的内脏中可以找到一枚[灵魂钱币](Soul_Coin.md "灵魂钱币")。该房间中一扇伪装的石门，坐标 X: 16 Y: -154（未被任何能力检定高亮显示），隐藏着通往地下室的梯子。
 
 ### 顶楼
 
 楼上区域居住着另外三只[食尸鬼](Ghoul.md "食尸鬼")——[腕骨](Carpal.md "腕骨")、[钩骨](Hamate.md "钩骨")和[瑞可塔思](Rectus.md "瑞可塔思")，以及一只[妖鬼](Ghast.md "妖鬼")[希尔戴](Thenar.md "希尔戴")。<sup>[\[3\]](#cite_note-3)</sup>
 
-最远端是通往阳台的上锁门。如果从该点进入而没有任何[隐形](Invisible_(Condition).md "隐形（状态）")手段，希尔戴会要求队伍离开。可以通过成功的 DC 15 [欺瞒](Deception.md "欺瞒")、[威吓](Intimidation.md "威吓")或[游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")来安抚他。检定失败，或尝试不进行检定就继续前进，会使所有食尸鬼变得敌对。
+最远端是通往阳台的上锁门。如果从该点进入而没有任何[隐形](Invisible_(Condition).md "隐形（状态）")手段，希尔戴会要求队伍离开。可以通过成功的 DC 15 [欺瞒](Deception.md "欺瞒")、[威吓](Intimidation.md "威吓")或[游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")来安抚他。检定失败，或尝试不进行检定就继续前进，会使所有食尸鬼变得敌对。
 
 楼梯旁边的桌子上有一枚[金坠饰](Gold_Pendant.md "金坠饰")，阳台对面的桌子上有一副[深红面具](Red_Carmine_Mask.md "深红面具")。
 
-坐标 X: 8 Y: -155 的房间里有一幅[乞丐肖像](Beggar's_Portrait.md "乞丐肖像")，它会被 DC 10 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")高亮显示。该肖像被黯蚀魔法保护，需要通过 DC 15 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")。如果检定失败，肖像会释放一团[黑暗术](Darkness.md "黑暗术")，互动的角色会受到[心灵](Psychic.md "心灵")伤害，\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 需要通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 10 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")。成功则获得[斯郎博的字条](Thrumbo's_Note.md "斯郎博的字条")，这会推进[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")任务。角落里还有一个木箱。里面装有金币、一套随机的药水和/或法术卷轴，以及一本名为[写作驱魔](Writin_Exorcises.md "写作驱魔")的书，由斯郎博为他的“兄弟们”练习字母表而撰写。
+坐标 X: 8 Y: -155 的房间里有一幅[乞丐肖像](Beggar's_Portrait.md "乞丐肖像")，它会被 DC 10 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")高亮显示。该肖像被黯蚀魔法保护，需要通过 DC 15 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")。如果检定失败，肖像会释放一团[黑暗术](Darkness.md "黑暗术")，互动的角色会受到[心灵](Psychic.md "心灵")伤害，\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 需要通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 10 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")。成功则获得[斯郎博的字条](Thrumbo's_Note.md "斯郎博的字条")，这会推进[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")任务。角落里还有一个木箱。里面装有金币、一套随机的药水和/或法术卷轴，以及一本名为[写作驱魔](Writin_Exorcises.md "写作驱魔")的书，由斯郎博为他的“兄弟们”练习字母表而撰写。
 
 ### 地下室
 
@@ -221,8 +221,8 @@
 
 ### 埋藏的宝藏
 
-- 坐标 X: 24 Y: -167 - 需要 DC 15 [求生](Survival.md "求生") [检定](Ability_Check.md "属性检定")才能发现
-- 坐标 X: 29 Y: -166 - 需要 DC 10 [求生](Survival.md "求生") [检定](Ability_Check.md "属性检定")才能发现<sup>[\[8\]](#cite_note-8)</sup>
+- 坐标 X: 24 Y: -167 - 需要 DC 15 [求生](Survival.md "求生") [属性检定](Ability_Check.md "属性检定")才能发现
+- 坐标 X: 29 Y: -166 - 需要 DC 10 [求生](Survival.md "求生") [属性检定](Ability_Check.md "属性检定")才能发现<sup>[\[8\]](#cite_note-8)</sup>
 
 ## 注释与参考
 

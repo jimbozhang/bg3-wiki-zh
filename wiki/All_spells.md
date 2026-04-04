@@ -4,31 +4,31 @@
 
 ## 目录
 
-- [1 戏法](#cantrips)
-- [2 一级法术](#level-1-spells)
-- [3 二级法术](#level-2-spells)
-- [4 三级法术](#level-3-spells)
-- [5 四级法术](#level-4-spells)
-- [6 五级法术](#level-5-spells)
-- [7 六级法术](#level-6-spells)
-- [8 九级法术](#level-9-spells)
-- [9 特殊NPC法术](#special-npc-spells)
-- [10 特殊物品法术](#special-item-spells)
-- [11 另见](#see-also)
-- [12 外部链接](#external-links)
+- [1 戏法](#戏法)
+- [2 一级法术](#一级法术)
+- [3 二级法术](#二级法术)
+- [4 三级法术](#三级法术)
+- [5 四级法术](#四级法术)
+- [6 五级法术](#五级法术)
+- [7 六级法术](#六级法术)
+- [8 九级法术](#九级法术)
+- [9 特殊NPC法术](#特殊NPC法术)
+- [10 特殊物品法术](#特殊物品法术)
+- [11 另见](#另见)
+- [12 外部链接](#外部链接)
 
 ## 戏法
 
 戏法是0级法术，施放时不需要消耗[法术位](Spells.md#Spell_Slots "Spells")。它们无法[升阶施放](Spells.md#Upcasting "Spells")，但大多数造成伤害的戏法会获得额外的伤害骰——通常分别在角色等级5级和10级时获得。
 
 - [酸液飞溅](Acid_Splash.md "Acid Splash")
-- [刀锋防护](Blade_Ward.md "Blade Ward")
-- [骨寒术](Bone_Chill.md "Bone Chill")
+- [剑刃防护](Blade_Ward.md "剑刃防护")
+- [冻僵](Bone_Chill.md "冻僵")
 - [轰鸣剑](Booming_Blade.md "Booming Blade")
 - [爆裂肌腱](Bursting_Sinew.md "Bursting_Sinew")
 - [舞光术](Dancing_Lights.md "Dancing Lights") * [魔能爆](Eldritch_Blast.md "Eldritch Blast")
-- [火矢](Fire_Bolt.md "Fire Bolt")
-- [交友术](Friends.md "Friends") *[神导术](Guidance.md "Guidance")* [光亮术](Light.md "Light")
+- [火焰箭](Fire_Bolt.md "火焰箭")
+- [交友术](Friends.md "Friends") *[神导术](Guidance.md "Guidance")* [轻型](Light.md "轻型")
 - [法师之手](Mage_Hand.md "Mage Hand")
 - [初级幻影](Minor_Illusion.md "Minor Illusion")
 - [毒气喷溅](Poison_Spray.md "Poison Spray")
@@ -68,9 +68,9 @@
 
 - [伪装术](Disguise_Self.md "Disguise Self") * [不谐低语](Dissonant_Whispers.md "Dissonant Whispers")
 
-- [神恩](Divine_Favour.md "Divine Favour") *[强化跳跃](Enhance_Leap.md "Enhance Leap")* [诱捕打击](Ensnaring_Strike.md "Ensnaring Strike") *[纠缠术](Entangle.md "Entangle")* [脚底抹油](Expeditious_Retreat.md "Expeditious Retreat") *[妖火](Faerie_Fire.md "Faerie Fire")* [虚假生命](False_Life.md "False Life")
+- [神恩](Divine_Favour.md "Divine Favour") *[强化跳跃](Enhance_Leap.md "Enhance Leap")* [诱捕打击](Ensnaring_Strike.md "Ensnaring Strike") *[纠缠](Entangle.md "纠缠")* [脚底抹油](Expeditious_Retreat.md "Expeditious Retreat") *[妖火](Faerie_Fire.md "Faerie Fire")* [虚假生命](False_Life.md "False Life")
 
-- [羽落术](Feather_Fall.md "Feather Fall") *[获得魔宠](Find_Familiar.md "Find Familiar")* [云雾术](Fog_Cloud.md "Fog Cloud") * [善果](Goodberry.md "Goodberry")
+- [羽落术](Feather_Fall.md "Feather Fall") *[获得魔宠](Find_Familiar.md "Find Familiar")* [云雾术](Fog_Cloud.md "Fog Cloud") * [神莓](Goodberry.md "神莓")
 
 - [油脂](Grease.md "Grease")
 
@@ -82,7 +82,7 @@
 
 - [炼狱叱喝](Hellish_Rebuke.md "Hellish Rebuke")
 
-- [英雄气概](Heroism.md "Heroism") *[灾祸术](Hex.md "Hex")* [猎人印记](Hunter's_Mark.md "Hunter's Mark") * [冰刃术](Ice_Knife.md "Ice Knife")
+- [英雄气概](Heroism.md "Heroism") *[脆弱诅咒](Hex.md "脆弱诅咒")* [猎人印记](Hunter's_Mark.md "Hunter's Mark") * [冰刃术](Ice_Knife.md "Ice Knife")
 
 - [致伤术](Inflict_Wounds.md "Inflict Wounds")
 
@@ -96,27 +96,27 @@
 
 - [炽焰斩](Searing_Smite.md "Searing Smite") * [护盾术](Shield_(spell).md "Shield (spell)")
 
-- [虔诚护盾](Shield_of_Faith.md "Shield of Faith") * [睡眠术](Sleep.md "Sleep")
+- [虔诚护盾](Shield_of_Faith.md "Shield of Faith") * [睡眠](Sleep.md "睡眠")
 
 - [动物交谈](Speak_with_Animals.md "Speak with Animals") *[塔莎狂笑术](Tasha's_Hideous_Laughter.md "Tasha's Hideous Laughter")* [雷鸣打击](Thunderous_Smite.md "Thunderous Smite")
 
 - [雷鸣波](Thunderwave.md "Thunderwave")
 
-- [巫术电击](Witch_Bolt.md "Witch Bolt") * [激愤斩](Wrathful_Smite.md "Wrathful Smite")
+- [巫术箭](Witch_Bolt.md "巫术箭") * [激愤斩](Wrathful_Smite.md "Wrathful Smite")
 
 ## 二级法术
 
 - **二级法术**是施放时消耗二级[法术位](Spells.md#Spell_Slots "Spells")的法术。
 
-- [援助术](Aid.md "Aid")
+- [支援术](Aid.md "支援术")
 
 - [秘法锁](Arcane_Lock.md "Arcane Lock")
 
-- [树肤术](Barkskin.md "Barkskin") * [目盲术](Blindness.md "Blindness")
+- [树肤术](Barkskin.md "Barkskin") * [失明术](Blindness.md "失明术")
 
 - [朦胧术](Blur.md "Blur") *[印记斩](Branding_Smite.md "Branding Smite")* [安定心神](Calm_Emotions.md "Calm Emotions") *[匕首之云](Cloud_of_Daggers.md "Cloud of Daggers")* [疯狂](Crown_of_Madness.md "Crown of Madness") *[黑暗术](Darkness.md "Darkness")* [黑暗视觉](Darkvision_(spell).md "Darkvision (spell)")
 
-- [侦测思想](Detect_Thoughts.md "Detect Thoughts") *[强化属性](Enhance_Ability.md "Enhance Ability")* [变大/变小](Enlarge/Reduce.md "Enlarge/Reduce") * [迷惑](Enthrall.md "Enthrall")
+- [侦测思想](Detect_Thoughts.md "Detect Thoughts") *[强化属性](Enhance_Ability.md "Enhance Ability")* [缩小](Enlarge/Reduce.md "缩小") * [迷惑](Enthrall.md "Enthrall")
 
 - [火焰刀](Flame_Blade.md "Flame Blade")
 
@@ -144,7 +144,7 @@
 
 - [粉碎音波](Shatter.md "Shatter")
 
-- [寂静术](Silence.md "Silence") *[荆棘丛生](Spike_Growth.md "Spike Growth")* [灵体武器](Spiritual_Weapon.md "Spiritual Weapon")
+- [沉默术](Silence.md "沉默术") *[荆棘丛生](Spike_Growth.md "Spike Growth")* [灵体武器](Spiritual_Weapon.md "Spiritual Weapon")
 
 - [守护之链](Warding_Bond.md "Warding Bond")
 
@@ -158,7 +158,7 @@
 
 - [希望信标](Beacon_of_Hope.md "Beacon of Hope") *[降咒](Bestow_Curse.md "Bestow Curse")* [致盲斩](Blinding_Smite.md "Blinding Smite")
 
-- [闪现术](Blink.md "Blink")
+- [闪现](Blink.md "闪现")
 
 - [召雷术](Call_Lightning.md "Call Lightning") * [召唤箭雨](Conjure_Barrage.md "Conjure Barrage")
 
@@ -166,9 +166,9 @@
 
 - [十字军披风](Crusader's_Mantle.md "Crusader's Mantle") * [昼明术](Daylight.md "Daylight")
 
-- [元素武器](Elemental_Weapon.md "Elemental Weapon") *[恐惧术](Fear.md "Fear")* [假死术](Feign_Death.md "Feign Death")
+- [元素武器](Elemental_Weapon.md "Elemental Weapon") *[恐惧](Fear.md "恐惧")* [假死术](Feign_Death.md "Feign Death")
 
-- [火球术术](Fireball.md "Fireball")
+- [火球术](Fireball.md "火球术")
 
 - [气化形体](Gaseous_Form.md "Gaseous Form") * [守卫刻文](Glyph_of_Warding.md "Glyph of Warding")
 
@@ -184,7 +184,7 @@
 
 - [回生术](Revivify.md "Revivify")
 
-- [雪雨暴](Sleet_Storm.md "Sleet Storm") *[缓慢术](Slow.md "Slow")* [死者交谈](Speak_with_Dead.md "Speak with Dead") *[精魂守卫](Spirit_Guardians.md "Spirit Guardians")* [臭云术](Stinking_Cloud.md "Stinking Cloud") *[吸血鬼之触](Vampiric_Touch.md "Vampiric Touch")* [活力监守](Warden_of_Vitality.md "Warden of Vitality")
+- [雪雨暴](Sleet_Storm.md "Sleet Storm") *[减速](Slow.md "减速")* [死者交谈](Speak_with_Dead.md "Speak with Dead") *[精魂守卫](Spirit_Guardians.md "Spirit Guardians")* [臭云术](Stinking_Cloud.md "Stinking Cloud") *[吸血鬼之触](Vampiric_Touch.md "Vampiric Touch")* [活力监守](Warden_of_Vitality.md "Warden of Vitality")
 
 ## 四级法术
 
@@ -252,9 +252,9 @@
 
 - [崩溃](Disintegrate.md "Disintegrate")
 
-- [噬目术](Eyebite.md "Eyebite") *[石化术](Flesh_to_Stone.md "Flesh to Stone")* [法术无效结界](Globe_of_Invulnerability.md "Globe of Invulnerability") * [伤害术](Harm.md "Harm")
+- [摄心目光](Eyebite.md "摄心目光") *[石化术](Flesh_to_Stone.md "Flesh to Stone")* [法术无效结界](Globe_of_Invulnerability.md "Globe of Invulnerability") * [重伤术](Harm.md "重伤术")
 
-- [治愈术](Heal.md "Heal")
+- [治疗](Heal.md "治疗")
 
 - [英雄盛宴](Heroes'_Feast.md "Heroes' Feast")
 
@@ -290,9 +290,9 @@
 
 - [死亡一指](Finger_of_Death.md "Finger of Death")
 
-- [地狱火球术](Hellfire_Orb.md "Hellfire Orb")
+- [地狱火球](Hellfire_Orb.md "地狱火球")
 
-- [焚化术](Incinerate.md "Incinerate")
+- [焚烧](Incinerate.md "焚烧")
 
 - [看守的小费](Keeper's_Fee.md "Keeper's Fee")
 
@@ -300,9 +300,9 @@
 
 - [可爱助手](Lovely_Assistant.md "Lovely Assistant")
 
-- [心灵尖刺](Mind_Spike.md "Mind Spike")
+- [心灵钉刺](Mind_Spike.md "心灵钉刺")
 
-- [占据](Possession.md "Possession")
+- [附身](Possession.md "附身")
 
 - [财富承诺](Promise_of_Wealth.md "Promise of Wealth")
 

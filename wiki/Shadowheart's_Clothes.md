@@ -16,7 +16,7 @@
 
 - UID `ARM_Camp_Body_Shadowheart` UUID `7062410b-439c-4f2f-bc48-1c16ab1ace20` 统计 `ARM_Camp_Body_Shadowheart` 文件 `CLT_Camp_Shar_Body` *文件 `CLT_Camp_Shar_Pants`* 文件 `ARM_Robe_Shar_Pants_A` ## 获取地点
 
-- [影心的](Shadowheart.md "影心")初始营地服装
+- [影心](Shadowheart.md "影心")初始营地服装
 
 - 穿着营地服装的影心
 

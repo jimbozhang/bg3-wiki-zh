@@ -90,15 +90,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物能看穿魔法与非魔法的黑暗，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
@@ -148,15 +148,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物能看穿魔法与非魔法的黑暗，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
@@ -206,15 +206,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物能看穿魔法与非魔法的黑暗，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
@@ -236,10 +236,10 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与
 
@@ -276,7 +276,7 @@ UUID
 范围：18米（60英尺）
 
 [暗影步](Shadow_Step.md "Shadow Step") ()
-从[阴影](Lightly_Obscured.md "Lightly Obscured")传送至阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")获得[优势](Advantage.md "Advantage")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送至阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")获得[优势](Advantage.md "Advantage")。
 
 范围：18米（60英尺）
 

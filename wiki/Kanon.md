@@ -97,15 +97,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离内于黑暗中视物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -157,15 +157,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离内于黑暗中视物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -217,15 +217,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离内于黑暗中视物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -265,7 +265,7 @@ Stats
 
 在第一幕中，加农试图为[艾拉丁](Aradin.md "艾拉丁")、[巴斯](Barth.md "巴斯")和[蕾米拉](Remira.md "蕾米拉")打开翠绿林地的大门，但被多支地精箭矢击中，伤重不治。战斗结束后不久，他的尸体可以在城墙上找到。队伍可以通过[死者交谈](Speak_with_Dead.md "死者交谈")与他对话。
 
-加农的尸体后来被埋葬在林地 X: 175 Y: 445 处。他的[行李](Kanon's_Belongings.md "加农的行李")可以在附近找到。
+加农的尸体后来被埋葬在林地 X: 175 Y: 445 处。他的[加农的行李](Kanon's_Belongings.md "加农的行李")可以在附近找到。
 
 如果[明萨拉](Minthara.md "明萨拉")的突袭小队在门口被歼灭，或者地精首领被杀，阿尔卡和[门诺斯](Memnos.md "门诺斯")会来到他的坟墓，前者说他已经报仇了，后者提到加农会为阿尔卡感到骄傲。
 

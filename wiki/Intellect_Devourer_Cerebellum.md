@@ -1,6 +1,6 @@
 # 噬脑怪的小脑
 
-**噬脑怪的小脑**是一种[炼金术材料](Alchemy.md "炼金术")。将3个组合可制成[脑脊液悬液](Suspension_of_Cerebrospinal_Fluid.md "脑脊液悬液")，用于制作[心灵抗性灵药](Elixir_of_Psychic_Resistance.md "心灵抗性灵药")。
+**噬脑怪的小脑**是一种[炼金术](Alchemy.md "炼金术")。将3个组合可制成[脑脊液悬液](Suspension_of_Cerebrospinal_Fluid.md "脑脊液悬液")，用于制作[心灵抗性灵药](Elixir_of_Psychic_Resistance.md "心灵抗性灵药")。
 
 噬脑怪诞生于类人夺心魔奴隶的大脑。那么，你手中握着的究竟是什么？
 

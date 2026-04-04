@@ -16,9 +16,9 @@
 [附赠动作](Actions.md#Resources "动作")
 
 - 饮用后获得：
-  - 威吓和游说[检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")
+  - 威吓和游说[属性检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")
   - 对[火焰](Fire.md "火焰")伤害具有[抗性](Resistance.md "抗性")
-  - 可以施放一次[火球术术](Fireball.md "Fireball")，直到下一次[长休](Long_Rest.md "长休")
+  - 可以施放一次[火球术](Fireball.md "火球术")，直到下一次[长休](Long_Rest.md "长休")
 
 ## 状态：龙裔威能：火焰
 
@@ -26,7 +26,7 @@
 
 持续时间：直到[长休](Long_Rest.md "长休")
 
-- 受影响实体在威吓和游说[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，对[火焰](Fire.md "火焰")伤害具有[抗性](Resistance.md "抗性")，并且可以在其下一次[长休](Long_Rest.md "长休")之前使用一次[火球术术](Fireball.md "Fireball")。
+- 受影响实体在威吓和游说[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，对[火焰](Fire.md "火焰")伤害具有[抗性](Resistance.md "抗性")，并且可以在其下一次[长休](Long_Rest.md "长休")之前使用一次[火球术](Fireball.md "火球术")。
 
 ## 获取地点
 

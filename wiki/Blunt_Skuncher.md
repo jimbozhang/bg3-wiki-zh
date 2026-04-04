@@ -87,15 +87,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**预兆戏法**](Potent_Cantrip.md "预兆戏法")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人成功通过针对戏法的[豁免检定](Saving_throw.md "豁免检定")后，仍会受到一半伤害。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -145,15 +145,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**预兆戏法**](Potent_Cantrip.md "预兆戏法")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人成功通过针对戏法的[豁免检定](Saving_throw.md "豁免检定")后，仍会受到一半伤害。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -203,15 +203,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**预兆戏法**](Potent_Cantrip.md "预兆戏法")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人成功通过针对戏法的[豁免检定](Saving_throw.md "豁免检定")后，仍会受到一半伤害。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -259,7 +259,7 @@ UUID
 
 \+ 1d4 + 1⁠[力场](Force.md "力场")
 
-创造**三**枚魔法飞弹，每枚对目标造成 ⁠[1d4 + 1 力场](Force.md "力场") 伤害。
+创造**三**枚魔法飞弹，每枚对目标造成 ⁠[力场](Force.md "力场") 伤害。
 
 飞弹总是命中目标，并且可以单独瞄准。
 
@@ -273,7 +273,7 @@ UUID
 
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程: 正常武器射程
 充能: [短休](Short_rest.md "短休")
 

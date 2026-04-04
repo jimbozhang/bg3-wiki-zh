@@ -1,6 +1,6 @@
 # 获得魔宠：螃蟹
 
-**获得魔宠：螃蟹** 是一个 [等级 1 咒法学派法术](Spells.md "Spells")。此法术是 [获得魔宠](Find_Familiar.md "Find Familiar") 法术的变体，可召唤一只小型螃蟹。
+**获得魔宠：螃蟹** 是一个 [法术](Spells.md "法术")。此法术是 [获得魔宠](Find_Familiar.md "Find Familiar") 法术的变体，可召唤一只小型螃蟹。
 
 ## 描述
 

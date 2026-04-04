@@ -15,7 +15,7 @@
 ## 备注
 
 - **龙焰之拳** 在 [荒野形态](Wild_Shape.md "荒野形态") 下无效。
-- 额外火焰伤害不适用于 [投掷](Thrown.md "投掷") 武器（例如 [酒馆殴斗者](Tavern_Brawler.md "酒馆殴斗者")）。
+- 额外火焰伤害不适用于 [投掷攻击](Thrown.md "投掷攻击") 武器（例如 [酒馆殴斗者](Tavern_Brawler.md "酒馆殴斗者")）。
 
 ---
 *Source: [Dragonfire Fists](https://bg3.wiki/wiki/Dragonfire_Fists)*

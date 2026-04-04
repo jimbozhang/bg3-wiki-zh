@@ -97,23 +97,23 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**不屈**](Indomitable.md "不屈")
+- [不屈](Indomitable.md "不屈")
 
 每当豁免检定失败时，可以重新投掷，使用新结果代替。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -175,23 +175,23 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**不屈**](Indomitable.md "不屈")
+- [不屈](Indomitable.md "不屈")
 
 每当豁免检定时失败，可以重新投掷，使用新结果代替。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -253,23 +253,23 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**不屈**](Indomitable.md "不屈")
+- [不屈](Indomitable.md "不屈")
 
 每当豁免检定时失败，可以重新投掷，使用新结果代替。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -403,7 +403,7 @@ UUID
 
 1d10 + 战士等级⁠[治疗](Healing.md "治疗")
 
-利用你的体力保护自己。你恢复 1d10 + 战士等级⁠⁠[生命值](Healing.md "治疗")。
+利用你的体力保护自己。你恢复 1d10 + 战士等级⁠⁠[治疗](Healing.md "治疗")。
 
 范围：自身
 充能：[短休](Short_rest.md "短休")

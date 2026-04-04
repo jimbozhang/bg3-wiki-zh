@@ -26,7 +26,7 @@
 
 ## 文本
 
-\[这幅用粗炭笔在兽皮上绘制的儿童肖像画描绘了三个简笔人物：一个[手中闪烁火花的地精](Gut.md "Gut")；一个[方正的类人生物](Dror_Ragzlin.md "Dror Ragzlin")；以及一个[似乎是精灵的身影](Minthara.md "Minthara")。他们每个人都戴着一顶简单的王冠。\]
+\[这幅用粗炭笔在兽皮上绘制的儿童肖像画描绘了三个简笔人物：一个[手中闪烁火花的地精](Gut.md "Gut")；一个[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")；以及一个[明萨拉](Minthara.md "明萨拉")。他们每个人都戴着一顶简单的王冠。\]
 
 ---
 *Source: [Goblin's Drawing](https://bg3.wiki/wiki/Goblin's_Drawing)*

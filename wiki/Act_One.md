@@ -22,19 +22,19 @@
 
 ## 目录
 
-- [1 概述](#summary)
-- [2 伙伴](#companions)
-- [3 任务](#quests)
-  - [3.1 主线任务](#main-quests)
-  - [3.2 伙伴任务](#companion-quests)
-  - [3.3 个人任务](#personal-quests)
-  - [3.4 支线任务](#side-quests)
-- [4 地点](#locations)
-  - [4.1 荒野](#wilderness)
-  - [4.2 幽暗地域](#underdark)
-  - [4.3 复仇之炉](#grymforge)
-  - [4.4 瑰晨修道院](#rosymorn-monastery)
-- [5 注释](#notes)
+- [1 概述](#概述)
+- [2 伙伴](#伙伴)
+- [3 任务](#任务)
+  - [3.1 主线任务](#主线任务)
+  - [3.2 伙伴任务](#伙伴任务)
+  - [3.3 个人任务](#个人任务)
+  - [3.4 支线任务](#支线任务)
+- [4 地点](#地点)
+  - [4.1 荒野](#荒野)
+  - [4.2 幽暗地域](#幽暗地域)
+  - [4.3 复仇之炉](#复仇之炉)
+  - [4.4 瑰晨修道院](#瑰晨修道院)
+- [5 注释](#注释)
 
 ## 概述
 
@@ -42,7 +42,7 @@
 
 虽然寻找治疗方法是第一幕的重点，但队伍很可能会卷入该地区的主要冲突。地精小队在[荒野](Wilderness.md "荒野")中搜寻翠绿林地和[鹦鹉螺](Nautiloid.md "鹦鹉螺")坠毁的幸存者。地精们似乎在一位被称为“至上真神”的所谓新神的旗帜下集结。
 
-翠绿林地的德鲁伊圈也正经历内部麻烦。他们的[首席德鲁伊哈尔辛](Halsin.md "哈尔辛")在加入一支冒险者队伍寻找古代遗物后失踪。在他缺席期间，自封的首席德鲁伊[卡哈](Kagha.md "卡哈")启动了[荆棘仪式](Rite_of_Thorns_(ritual).md), a dangerous ritual that will seal the Grove from the outside world and expel the [tiefling refugees](Tiefling_Refugees.md "提夫林难民")寻求庇护。
+翠绿林地的德鲁伊圈也正经历内部麻烦。他们的[哈尔辛](Halsin.md "哈尔辛")在加入一支冒险者队伍寻找古代遗物后失踪。在他缺席期间，自封的首席德鲁伊[卡哈](Kagha.md "卡哈")启动了[荆棘仪式](Rite_of_Thorns_(ritual).md), a dangerous ritual that will seal the Grove from the outside world and expel the [tiefling refugees](Tiefling_Refugees.md "提夫林难民")寻求庇护。
 
 **决定翠绿林地的命运**
 
@@ -167,7 +167,7 @@
 
 荒野是_[博德之门3]_第一幕中包含多个地点的[区域](Region.md "区域")。在游戏中，它也是第一幕主地图上最大的地点之一，连接着该区域的大多数其他地点。
 
-[上升之路](Risen_Road.md "上升之路")是一条连接博德之门和艾尔图雷尔的长路，与[奇恩萨尔河](River_Chionthar.md "奇恩萨尔河")平行穿过荒野。该地区的著名定居点包括[翠绿林地](Emerald_Grove.md "翠绿林地")、前[月出之村](Blighted_Village.md "染疫村落")和[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")。
+[上升之路](Risen_Road.md "上升之路")是一条连接博德之门和艾尔图雷尔的长路，与[奇恩萨尔河](River_Chionthar.md "奇恩萨尔河")平行穿过荒野。该地区的著名定居点包括[翠绿林地](Emerald_Grove.md "翠绿林地")、前[染疫村落](Blighted_Village.md "染疫村落")和[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")。
 
 荒野还包含多个通往[幽暗地域](Underdark.md "幽暗地域")的入口。
 
@@ -177,7 +177,7 @@
 
 主文章：[幽暗地域](Underdark.md "幽暗地域")
 
-**幽暗地域**是第一幕中的一个[区域](Region.md "区域")。它是一个由洞穴和隧道组成的广阔网络，没有阳光，但充满了危险的生物和更危险的蘑菇。该地区包含大量难以在其他地方找到的[炼金术](Alchemy.md "炼金术")成分。[卓尔](Drow.md "卓尔")、[灰矮人](Duergar.md "灰矮人")和[地底侏儒](Gnome.md "侏儒")是幽暗地域的原住民。
+**幽暗地域**是第一幕中的一个[区域](Region.md "区域")。它是一个由洞穴和隧道组成的广阔网络，没有阳光，但充满了危险的生物和更危险的蘑菇。该地区包含大量难以在其他地方找到的[炼金术](Alchemy.md "炼金术")成分。[卓尔](Drow.md "卓尔")、[灰矮人](Duergar.md "灰矮人")和[侏儒](Gnome.md "侏儒")是幽暗地域的原住民。
 
 幽暗地域还包含四个通往[荒野](Wilderness.md "荒野")的过渡点。
 
@@ -189,7 +189,7 @@
 
 围绕传奇的[精金熔炉](Adamantine_Forge_(location)建造的古代地下堡垒的遗迹.md)。可以通过在[幽暗地域](Underdark.md "幽暗地域")海滩使用小船穿越黑檀湖到达。
 
-这座由[莎尔](Shar.md "莎尔")女神的崇拜者在远古时代建造的废弃堡垒最近再次焕发了生机。[焰痕氏族](Clan_Flameshade.md "焰痕氏族")的灰矮人受[至上真神](Absolute.md "至上真神")势力雇佣，寻找通往堡垒深处更下方[古老神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")的入侵点。灰矮人指挥着一群被奴役的[铁手](Ironhand.md "铁手")侏儒，这些侏儒是从黑檀湖对岸的[破败村落](Decrepit_Village.md "破败村落")抓来的。
+这座由[莎尔](Shar.md "莎尔")女神的崇拜者在远古时代建造的废弃堡垒最近再次焕发了生机。[焰痕氏族](Clan_Flameshade.md "焰痕氏族")的灰矮人受[至上真神](Absolute.md "至上真神")势力雇佣，寻找通往堡垒深处更下方[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")的入侵点。灰矮人指挥着一群被奴役的[铁手](Ironhand.md "铁手")侏儒，这些侏儒是从黑檀湖对岸的[破败村落](Decrepit_Village.md "破败村落")抓来的。
 
 ### 瑰晨修道院
 

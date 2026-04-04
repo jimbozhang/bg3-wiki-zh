@@ -100,7 +100,7 @@
 
 可以使用 [诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -158,7 +158,7 @@
 
 可以使用 [诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -216,7 +216,7 @@
 
 可以使用 [诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -248,10 +248,10 @@ UUID
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 重要战利品](#notable-loot)
-- [2 外部链接](#external-links)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 重要战利品](#重要战利品)
+- [2 外部链接](#外部链接)
 
 ## 战斗
 

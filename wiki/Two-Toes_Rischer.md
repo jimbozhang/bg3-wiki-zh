@@ -81,15 +81,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**埃赛尔的扭曲祝福**](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
+- [埃赛尔的扭曲祝福](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
 
 作为埃赛尔的忠诚仆从，此红帽子获得额外 40 [生命值](Hit_Points.md "生命值")，其[力量](Strength.md "力量")和[体质](Constitution.md "体质")属性值提高 +2，且其攻击造成额外 1~12⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -137,15 +137,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**埃赛尔的扭曲祝福**](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
+- [埃赛尔的扭曲祝福](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
 
 作为埃赛尔的忠诚仆从，此红帽子获得额外 40 [生命值](Hit_Points.md "生命值")，其[力量](Strength.md "力量")和[体质](Constitution.md "体质")属性值提高 +2，且其攻击造成额外 1~12⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -193,15 +193,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**埃赛尔的扭曲祝福**](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
+- [埃赛尔的扭曲祝福](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
 
 作为埃赛尔的忠诚仆从，此红帽子获得额外 40 [生命值](Hit_Points.md "生命值")，其[力量](Strength.md "力量")和[体质](Constitution.md "体质")属性值提高 +2，且其攻击造成额外 1~12⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -285,7 +285,7 @@ UUID
 
 撕裂一个生物的肉体并使其[流血](Bleeding_(Condition).md "流血 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围: 18 米 (60 英尺)
 
 [投掷](Throw.md "投掷") () – [碎片手榴弹](Scrap_and_Shrapnel_Grenade.md "碎片手榴弹")
@@ -298,7 +298,7 @@ UUID
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。更重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与其近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与其近战伤害相同。
 
 范围: 3-18 米 (10-60 英尺)
 

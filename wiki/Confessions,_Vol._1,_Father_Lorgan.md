@@ -18,7 +18,7 @@
 
 - UID `S_WYR_OpenHand_LorgansDiary` UUID `eb5a34ae-57a6-4071-952e-723f8e8e60e6` ## 获取地点
 
-- 在 [慈爱神殿](Open_Hand_Temple.md "慈爱神殿") X: -94 Y: -3 的中间上锁箱子中，需要成功通过 DC 10 的 [调查](Investigation.md "调查") [检定](Ability_Check.md "属性检定")。
+- 在 [慈爱神殿](Open_Hand_Temple.md "慈爱神殿") X: -94 Y: -3 的中间上锁箱子中，需要成功通过 DC 10 的 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定")。
 
 ## 文本
 

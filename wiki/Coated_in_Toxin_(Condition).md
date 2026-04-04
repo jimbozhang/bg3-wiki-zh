@@ -14,7 +14,7 @@
 
 持续时间: 1 回合
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 11)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 11)
 
 - 受影响实体在其下一回合结束时承受 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。
 
@@ -88,7 +88,7 @@ _维基数据库中未定义_
 | [涂抹怨恨](Coated_in_Malice_(Condition).md "涂抹怨恨 (状态)") | 目标必须成功通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 15 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [目盲](Blinded_(Condition).md "目盲 (状态)") 和 [中毒](Poisoned_(Condition).md "中毒 (状态)")。成功通过豁免检定的目标获得 [接种：怨恨](Inoculated_colon__Malice_(Condition).md "接种：怨恨 (状态)")，持续 2 回合。 |
 | [涂抹灾祸油](Coated_in_Oil_of_Bane_(Condition).md "涂抹灾祸油 (状态)") | 目标陷入 [灾祸术](Bane_(Condition).md "灾祸术 (状态)")，持续 2 回合，除非他们成功通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 11 的 [魅力](Charisma.md "魅力") [豁免检定](Saving_throw.md "豁免检定")。 |
 | [涂抹燃烧油](Coated_in_Oil_of_Combustion_(Condition).md "涂抹燃烧油 (状态)") | 涂抹了易燃油。命中时，目标被油浸染，持续 2 回合。如果其承受 ⁠[火焰](Fire.md "火焰") 伤害，油将燃烧，在其周围区域造成 3d6⁠⁠[火焰](Fire.md "火焰") 伤害。 |
-| [涂抹收缩油](Coated_in_Oil_of_Diminution_(Condition).md "涂抹收缩油 (状态)") | 目标必须成功通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将在 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 上获得 [劣势](Disadvantage.md "劣势")，并且近战攻击伤害降低 1d4，持续 2 回合。 |
+| [涂抹收缩油](Coated_in_Oil_of_Diminution_(Condition).md "涂抹收缩油 (状态)") | 目标必须成功通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将在 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 上获得 [劣势](Disadvantage.md "劣势")，并且近战攻击伤害降低 1d4，持续 2 回合。 |
 | [涂抹冰封油](Coated_in_Oil_of_Freezing_(Condition).md "涂抹冰封油 (状态)") | 目标获得 [冷冻](Encrusted_with_Frost_(Condition).md "冷冻 (状态)")，持续 2 回合。 |
 | [涂抹紫虫毒素](Coated_in_Purple_Worm_Toxin_(Condition).md "涂抹紫虫毒素 (状态)") | 目标在其下一回合结束时承受 1d10⁠⁠[中毒](Poison.md "中毒") 伤害，除非他们成功通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 19 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |
 | [涂抹蛇毒毒素](Coated_in_Serpent_Venom_Toxin_(Condition).md "涂抹蛇毒毒素 (状态)") | 目标在其下一回合结束时承受 1d6⁠⁠[中毒](Poison.md "中毒") 伤害，除非他们成功通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |

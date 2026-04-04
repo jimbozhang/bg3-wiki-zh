@@ -15,8 +15,8 @@
 
 ### 家庭
 
-[塔利](Talli_Armbrust.md "塔利·阿姆布鲁斯特") _(母亲)_
-[泰姆](Tym_Armbrust.md "泰姆·阿姆布鲁斯特") _(父亲)_
+[塔利·阿姆布鲁斯特](Talli_Armbrust.md "塔利·阿姆布鲁斯特") _(母亲)_
+[泰姆·阿姆布鲁斯特](Tym_Armbrust.md "泰姆·阿姆布鲁斯特") _(父亲)_
 
 ### 家乡
 
@@ -82,7 +82,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -126,7 +126,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -170,7 +170,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -200,18 +200,18 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 相关文献](#related-literature)
-- [3 相关任务](#related-quests)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 相关文献](#相关文献)
+- [3 相关任务](#相关任务)
 
 ## 出场
 
 ### 第三幕
 
-艾奥和他的家人一起住在[阿姆布鲁斯特之家](Armbrust's_Home.md "阿姆布鲁斯特之家")。阿姆布鲁斯特一家因[泰姆](Tym_Armbrust.md "泰姆·阿姆布鲁斯特")的客户未偿还债务而陷入财务困境。
+艾奥和他的家人一起住在[阿姆布鲁斯特之家](Armbrust's_Home.md "阿姆布鲁斯特之家")。阿姆布鲁斯特一家因[泰姆·阿姆布鲁斯特](Tym_Armbrust.md "泰姆·阿姆布鲁斯特")的客户未偿还债务而陷入财务困境。
 
-如果队伍在[利文顿磨坊](Abandoned_Windmill.md "遗弃磨坊")将尸体喂给了新生的[夺心魔](Mind_flayer_(windmill).md "夺心魔（磨坊）")，艾奥会被发现死在家中，而夺心魔则在房子周围游荡。
+如果队伍在[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")将尸体喂给了新生的[夺心魔](Mind_flayer_(windmill).md "夺心魔（磨坊）")，艾奥会被发现死在家中，而夺心魔则在房子周围游荡。
 
 ## 相关文献
 

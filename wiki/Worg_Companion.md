@@ -1,6 +1,6 @@
 # 座狼伙伴
 
-与[游侠](Ranger.md "游侠")的[驯兽师](Beast_Master.md "驯兽师")副职的[召唤伙伴](Summon_Companion.md "召唤伙伴")类似，座狼伙伴是[地精神射手](Goblin_Sharp-Eye.md "地精神射手")的类动作。允许他们召唤一个[座狼伙伴](Worg.md "座狼伙伴")。
+与[游侠](Ranger.md "游侠")的[驯兽师](Beast_Master.md "驯兽师")副职的[召唤伙伴](Summon_Companion.md "召唤伙伴")类似，座狼伙伴是[地精神射手](Goblin_Sharp-Eye.md "地精神射手")的类动作。允许他们召唤一个[座狼](Worg.md "座狼")。
 
 ## 描述
 

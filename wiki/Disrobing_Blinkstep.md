@@ -1,6 +1,6 @@
 # 脱衣闪现步
 
-**脱衣闪现步**是一个[等级2的咒法学派法术](Spells.md "Spells")。它允许使用者传送至视线范围内的任意位置，而不会触发[借机攻击](Opportunity_Attacks.md "Opportunity Attacks")，在此过程中会掉落其护甲和衣物。
+**脱衣闪现步**是一个[法术](Spells.md "法术")。它允许使用者传送至视线范围内的任意位置，而不会触发[借机攻击](Opportunity_Attacks.md "Opportunity Attacks")，在此过程中会掉落其护甲和衣物。
 
 ## 描述
 

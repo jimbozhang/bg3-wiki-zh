@@ -32,7 +32,7 @@ UID `MAG_WYRM_Commander_Longsword` UUID `06fbf04c-41be-4709-91df-76b4cbc9ccf5` S
 命令一名盟友攻击敌人。该盟友将在其下一回合使用[反应](reaction.md "反应")进行一次[武器攻击](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）")。（充能：[短休](Short_rest.md "短休")。）
 
 [激励击杀](Stirring_Execution.md "激励击杀")
-当你击杀一名敌人时，9 米 / 30 英尺范围内的盟友获得[临时生命值](Temporary_Hit_Points.md "临时生命值")，数值等于你的_\[[参见：漏洞](Stirring_Execution.md#Bugs "激励击杀")\]_魅力[调整值](Ability_Modifier.md "属性调整值")（最低为 1）。
+当你击杀一名敌人时，9 米 / 30 英尺范围内的盟友获得[临时生命值](Temporary_Hit_Points.md "临时生命值")，数值等于你的_\[[参见：漏洞](Stirring_Execution.md#Bugs "激励击杀")\]_魅力[属性调整值](Ability_Modifier.md "属性调整值")（最低为 1）。
 
 ### 武器动作
 

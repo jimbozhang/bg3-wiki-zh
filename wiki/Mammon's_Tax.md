@@ -15,7 +15,7 @@
 6d6⁠[挥砍](Slashing.md "挥砍")（每500金币）
 
 详情
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
 射程：18米（60英尺）
 充能：每回合
 

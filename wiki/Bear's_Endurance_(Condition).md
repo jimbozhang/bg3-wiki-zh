@@ -2,7 +2,7 @@
 
 **熊之坚韧**
 
-- 在[体质](Constitution.md "体质") [检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
+- 在[体质](Constitution.md "体质") [属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 - 获得 7 点[临时生命值](Hit_Points.md#Temporary_Hit_Points "生命值")。
 
 ## 属性
@@ -19,7 +19,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 在[体质](Constitution.md "体质") [检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
+- 在[体质](Constitution.md "体质") [属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 - 获得 7 点[临时生命值](Hit_Points.md#Temporary_Hit_Points "生命值")。
 
 [虚假生命](False_Life_(Condition).md "虚假生命 (状态)")

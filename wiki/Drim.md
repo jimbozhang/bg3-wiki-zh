@@ -77,15 +77,15 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**隐匿**](Stealthy.md "隐匿")
+- [隐匿](Stealthy.md "隐匿")
 
 [隐匿](Stealth.md "隐匿") +1。
 
@@ -135,15 +135,15 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**隐匿**](Stealthy.md "隐匿")
+- [隐匿](Stealthy.md "隐匿")
 
 [隐匿](Stealth.md "隐匿") +1。
 
@@ -193,15 +193,15 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**隐匿**](Stealthy.md "隐匿")
+- [隐匿](Stealthy.md "隐匿")
 
 [隐匿](Stealth.md "隐匿") +1。
 

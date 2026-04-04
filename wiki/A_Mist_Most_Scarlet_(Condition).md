@@ -22,7 +22,7 @@ _维基数据库中未定义_
 
 ## 注释[&action=edit&section=1> "编辑部分源代码：注释") | &veaction=edit&section=1> "编辑部分：注释")]
 
-- 如果玩家发现 [萨弗洛克](Sarevok.md "Sarevok") 通过怂恿 [海伦娜·安切夫](Helena_Anchev.md "海伦娜·安切夫") 杀了她而背叛了奥林，他们可以告诉奥林这一点，然后通过成功通过 DC 25 的 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定")、DC 25 的 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定") 或 DC 25 的 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定") 来进一步嘲讽她。成功通过此检定将导致 [巴尔](Bhaal.md "巴尔") 强制将她转化为 [杀戮者形态](Slayer_Form_(Condition).md)，并且她将带着此状态开始战斗。
+- 如果玩家发现 [萨弗洛克](Sarevok.md "Sarevok") 通过怂恿 [海伦娜·安切夫](Helena_Anchev.md "海伦娜·安切夫") 杀了她而背叛了奥林，他们可以告诉奥林这一点，然后通过成功通过 DC 25 的 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定")、DC 25 的 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定") 或 DC 25 的 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定") 来进一步嘲讽她。成功通过此检定将导致 [巴尔](Bhaal.md "巴尔") 强制将她转化为 [杀戮者形态](Slayer_Form_(Condition).md)，并且她将带着此状态开始战斗。
 - 对奥林施放 [安定心神](Calm_Emotions.md "安定心神") 会移除此状态提供的加值，包括临时生命值。
 
 ---

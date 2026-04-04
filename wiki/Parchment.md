@@ -1,6 +1,6 @@
 # 羊皮卷
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Parchment.md "Special:WhatLinksHere/Parchment")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[羊皮卷](Special_colon_WhatLinksHere/Parchment.md "羊皮卷")的，请考虑编辑该链接，将其指向正确的页面。
 
 **羊皮卷**可能指：
 

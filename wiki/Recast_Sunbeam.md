@@ -1,6 +1,6 @@
 # 再召阳炎射线
 
-**再召阳炎射线**是一个[等级 6 塑能学派法术](Spells.md "Spells")。此法术允许施法者投射一道光束，对路径上所有目标造成[光耀伤害](Radiant.md "Radiant")并使其[目盲](Blinded_(Condition).md "Blinded (Condition)")。随后，无需消耗[法术位](Spell_Slot.md "Spell Slot")即可在后续回合中再次施放。
+**再召阳炎射线**是一个[法术](Spells.md "法术")。此法术允许施法者投射一道光束，对路径上所有目标造成[光耀](Radiant.md "光耀")并使其[目盲](Blinded_(Condition).md "Blinded (Condition)")。随后，无需消耗[法术位](Spell_Slot.md "Spell Slot")即可在后续回合中再次施放。
 
 ## 描述
 
@@ -15,7 +15,7 @@
 6d8⁠[光耀](Radiant.md "Radiant")
 
 详情
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（豁免成功时：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（豁免成功时：目标仍承受一半伤害。）
 范围：自身
 范围效果：18 米（60 英尺）直线
 
@@ -39,7 +39,7 @@ UID
 
 持续时间：10 驱散
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 受影响的生物在[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")。
 - 受影响的生物的攻击和法术范围减少至 3 米（10 英尺）。

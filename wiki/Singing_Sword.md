@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取。但仍可通过第三方工具访问。
 
-**歌唱之剑**是[长剑](Longswords.md "Longswords")武器家族中一种罕见的、轻度附魔（+1）的特殊变体。它是一种[军用近战武器](Weapons.md "Weapons")，可以单手持用，或双手持用以获得额外伤害。
+**歌唱之剑**是[长剑](Longswords.md "Longswords")武器家族中一种罕见的、轻度附魔（+1）的特殊变体。它是一种[武器](Weapons.md "武器")，可以单手持用，或双手持用以获得额外伤害。
 
 这把剑的每一次碰撞与交击，都来自[极乐境](https://forgottenrealms.fandom.com/wiki/Elysium)或[九层地狱第一层](https://forgottenrealms.fandom.com/wiki/Avernus)（或两者皆是）最后一支凡人乐团演奏的黑暗旋律。
 

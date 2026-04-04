@@ -12,22 +12,22 @@
 
 ## 目录
 
-- [1 进入方式](#access)
-- [2 概述](#overview)
-- [3 相关地点](#related-locations)
-- [4 生物](#creatures)
-- [5 战利品](#loot)
-- [6 注释与参考](#notes-and-references)
+- [1 进入方式](#进入方式)
+- [2 概述](#概述)
+- [3 相关地点](#相关地点)
+- [4 生物](#生物)
+- [5 战利品](#战利品)
+- [6 注释与参考](#注释与参考)
 
 ## 进入方式
 
-杜林伯德陵墓可通过下城区的[墓园](Graveyard_(Lower_City).md "墓园")进入，位于停尸房旁的X: 32 Y: 18坐标处。需要[杜林伯德陵墓钥匙](Durinbold_Mausoleum_Key.md "杜林伯德陵墓钥匙")或通过DC 10的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")才能打开大门。
+杜林伯德陵墓可通过下城区的[墓园](Graveyard_(Lower_City).md "墓园")进入，位于停尸房旁的X: 32 Y: 18坐标处。需要[杜林伯德陵墓钥匙](Durinbold_Mausoleum_Key.md "杜林伯德陵墓钥匙")或通过DC 10的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")才能打开大门。
 
 ## 概述
 
 陵墓概览
 
-杜林伯德陵墓是杜林伯德家[训犬师波尔](Pol.md "波尔")的长眠之地。陵墓内的四具石棺存放着波尔及其三只猎犬[戈迪斯](Gordis.md "戈迪斯")、[洛奇](Rocky.md "洛奇")和[吉娜](Zina.md "吉娜")的遗骸。打开任何一具石棺都需要通过DC 15的[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")，并会召唤出训犬师及其猎犬的幽魂。掠夺破损墙壁旁的[化兽为友卷轴](Scroll_of_Animal_Friendship.md "化兽为友卷轴")也会触发与他们的战斗。
+杜林伯德陵墓是杜林伯德家[训犬师波尔](Pol.md "波尔")的长眠之地。陵墓内的四具石棺存放着波尔及其三只猎犬[戈迪斯](Gordis.md "戈迪斯")、[洛奇](Rocky.md "洛奇")和[吉娜](Zina.md "吉娜")的遗骸。打开任何一具石棺都需要通过DC 15的[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")，并会召唤出训犬师及其猎犬的幽魂。掠夺破损墙壁旁的[化兽为友卷轴](Scroll_of_Animal_Friendship.md "化兽为友卷轴")也会触发与他们的战斗。
 
 房间中央立着一个[熊标本](Stuffed_Bear_(Big).md "熊标本")；与其互动会触发队伍独特的对话。
 

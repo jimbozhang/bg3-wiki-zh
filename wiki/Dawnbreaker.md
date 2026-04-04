@@ -12,7 +12,7 @@
 
 陷阱的伤害并非真正的威胁，但将队伍成员推入附近的深渊几乎总是会杀死他们。死亡的队伍成员会作为[灵魂回响](Soul_Echo_(Condition)出现在附近.md)，可以被搜刮或通过使用[回生术卷轴](Scroll_of_Revivify.md "回生术卷轴")复活，或在营地由[守墓人](Withers.md "守墓人")复活。
 
-两个破晓者都可以通过DC 14的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")和[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")来缴械。缴械破晓者对于深入隐蔽房间并非关键。其影响区域在陷阱正两侧有一个“盲点”，如果队伍成员没有正常缴械陷阱的方法，可以在回合制模式下利用这一点。
+两个破晓者都可以通过DC 14的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")和[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")来缴械。缴械破晓者对于深入隐蔽房间并非关键。其影响区域在陷阱正两侧有一个“盲点”，如果队伍成员没有正常缴械陷阱的方法，可以在回合制模式下利用这一点。
 
 ---
 *Source: [Dawnbreaker](https://bg3.wiki/wiki/Dawnbreaker)*

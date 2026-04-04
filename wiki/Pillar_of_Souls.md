@@ -26,7 +26,7 @@
 
 在与[拉斐尔](Raphael.md "Raphael")的战斗中，四根魂柱环绕房间，为他提供[魂柱亲和](Soul_Pillar_Proximity_(Condition).md "Soul Pillar Proximity (Condition)")状态的增益。
 
-每根存活的魂柱会使他的攻击额外造成1d12⁠⁠[火焰](Fire.md "Fire")伤害，并使他的[敏捷](Dexterity.md "Dexterity")检定和[豁免检定](Saving_throws.md "Saving Throws")增加+3。拉斐尔还可以通过动作[吞噬灵魂](Consume_Souls.md "Consume Souls")，每根存活的魂柱获得3d6⁠⁠[生命值](Healing.md "Healing")。
+每根存活的魂柱会使他的攻击额外造成1d12⁠⁠[火焰](Fire.md "Fire")伤害，并使他的[敏捷](Dexterity.md "Dexterity")检定和[豁免检定](Saving_throws.md "Saving Throws")增加+3。拉斐尔还可以通过动作[吞噬灵魂](Consume_Souls.md "Consume Souls")，每根存活的魂柱获得3d6⁠⁠[治疗](Healing.md "治疗")。
 
 魂柱弱于⁠⁠[钝击](Bludgeoning.md "Bludgeoning")和⁠⁠[力场](Force.md "Force")伤害。
 

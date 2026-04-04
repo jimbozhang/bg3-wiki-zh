@@ -2,7 +2,7 @@
 
 **痉挛发作**
 
-- 不自主的抽搐贯穿受影响实体，使其在使用[敏捷](Dexterity.md "敏捷")的[检定](Ability_Check.md "检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上获得[劣势](Disadvantage.md "劣势")。
+- 不自主的抽搐贯穿受影响实体，使其在使用[敏捷](Dexterity.md "敏捷")的[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上获得[劣势](Disadvantage.md "劣势")。
 
 [患病](Diseased_(status_group).md)
 
@@ -22,7 +22,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 不自主的抽搐贯穿受影响实体，使其在使用[敏捷](Dexterity.md "敏捷")的[检定](Ability_Check.md "检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上获得[劣势](Disadvantage.md "劣势")。
+- 不自主的抽搐贯穿受影响实体，使其在使用[敏捷](Dexterity.md "敏捷")的[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上获得[劣势](Disadvantage.md "劣势")。
 
 ---
 *Source: [Stricken With Seizures (Condition)](https://bg3.wiki/wiki/Stricken_With_Seizures_(Condition)*

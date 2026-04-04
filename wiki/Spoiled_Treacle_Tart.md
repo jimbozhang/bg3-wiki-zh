@@ -18,7 +18,7 @@
 
 - UID `CONS_GEN_Food_Tart_Treacle_A_Spoiled_A` UUID `c5c39373-6a83-4a74-818a-da1642b9dfd0` ### 效果
 
-- 食用变质的糖蜜馅饼可恢复 1d4⁠⁠[生命值](Healing.md "Healing")。
+- 食用变质的糖蜜馅饼可恢复 1d4⁠⁠[治疗](Healing.md "治疗")。
 
 - 在战斗中使用时无资源消耗。
 
@@ -28,7 +28,7 @@
 
 持续时间：20 驱散
 
-- 在[感知](Wisdom.md "Wisdom")和[智力](Intelligence.md "智力")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[感知](Wisdom.md "Wisdom")和[智力](Intelligence.md "智力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 ## 获取地点
 

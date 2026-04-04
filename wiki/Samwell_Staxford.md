@@ -92,23 +92,23 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "坚韧复仇")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你用[借机攻击](Opportunity_Attack.md "借机攻击")命中敌人，你的[移动速度](Movement_speed.md "移动速度")在下一回合增加4.5米 / 15英尺。
 
@@ -162,23 +162,23 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "坚韧复仇")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你用[借机攻击](Opportunity_Attack.md "借机攻击")命中敌人，你的[移动速度](Movement_speed.md "移动速度")在下一回合增加4.5米 / 15英尺。
 
@@ -200,18 +200,18 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战利品](#loot)
-- [3 死者交谈](#speak-with-dead)
-- [4 注释](#notes)
-- [5 参考文献](#references)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 战利品](#战利品)
+- [3 死者交谈](#死者交谈)
+- [4 注释](#注释)
+- [5 参考文献](#参考文献)
 
 ## 参与情况
 
 ### 第一幕
 
-在[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")被忠于[至上真神](Absolute.md "至上真神")的[地精](Goblin.md "地精")俘获[雷文伽德公爵](Ulder_Ravengard.md "雷文伽德公爵")后，萨姆韦尔·斯塔克斯福德是受[凯瑟里克·索姆将军](Ketheric_Thorm.md "凯瑟里克·索姆将军")之命将公爵带给至上真神的人之一。他和他的队伍大概护送着被俘的公爵穿过[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")前往[月出之塔](Moonrise_Towers.md "月出之塔")，然后意外地在[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")外遇到了一群正在训练的吉斯洋基人青年。
+在[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")被忠于[至上真神](Absolute.md "至上真神")的[地精](Goblin.md "地精")俘获[雷文伽德公爵](Ulder_Ravengard.md "雷文伽德公爵")后，萨姆韦尔·斯塔克斯福德是受[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")之命将公爵带给至上真神的人之一。他和他的队伍大概护送着被俘的公爵穿过[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")前往[月出之塔](Moonrise_Towers.md "月出之塔")，然后意外地在[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")外遇到了一群正在训练的吉斯洋基人青年。
 
 萨姆韦尔·斯塔克斯福德的队伍将他和另一名[至上真神狂热信徒](Zealot_of_the_Absolute.md "至上真神狂热信徒")<sup>[\[1\]](#cite_note-1)</sup>留下对抗吉斯洋基人，<sup>[\[2\]](#cite_note-2)</sup>导致他召唤不死生物来帮忙，但最终在尝试中丧生。他的尸体可以被发现，周围有两名[死亡牧者](Death_Shepherd.md "死亡牧者")、一个[妖鬼](Ghast.md "妖鬼")和几个[食尸鬼](Ghoul.md "食尸鬼")。
 

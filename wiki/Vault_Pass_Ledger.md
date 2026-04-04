@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[账簿列出了数月来发放的进入下方保险库的通行证。近期的条目记录了发放给[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")的代表、为[贾瑞斯夫人](Fireliia_Jannath.md "贾瑞斯夫人")取戒指的职员，以及最近发放给一位身材魁梧、未具名男子的通行证——此人由[银行行长耀须](Rakath_Glitterbeard.md "拉凯斯·耀须")亲自护送。\]
+\[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")的代表、为[贾瑞斯夫人](Fireliia_Jannath.md "贾瑞斯夫人")取戒指的职员，以及最近发放给一位身材魁梧、未具名男子的通行证——此人由[拉凯斯·耀须](Rakath_Glitterbeard.md "拉凯斯·耀须")亲自护送。\]
 
 ---
 *Source: [Vault Pass Ledger](https://bg3.wiki/wiki/Vault_Pass_Ledger)*

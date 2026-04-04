@@ -2,7 +2,7 @@
 
 这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Sussur.md "Special:WhatLinksHere/Sussur")的，请考虑编辑该链接，将其指向正确的页面。
 
-**轻语**是一种仅生长在[幽暗地域](Underdark.md "Underdark")的树种。它会排斥织法，导致其[树皮](Sussur_Tree_Bark.md "轻语树皮")对魔法产生干扰，其[花朵](Sussur_Bloom.md "轻语树花")会投射出小型的反魔法球体。
+**轻语**是一种仅生长在[幽暗地域](Underdark.md "Underdark")的树种。它会排斥织法，导致其[轻语树皮](Sussur_Tree_Bark.md "轻语树皮")对魔法产生干扰，其[轻语树花](Sussur_Bloom.md "轻语树花")会投射出小型的反魔法球体。
 
 ## 树皮
 

@@ -2,7 +2,7 @@
 
 本文介绍的是游戏性元素——例如角色、任务或机制——这些内容已[从游戏中移除](Category_colon_Legacy_content.md "Category:Legacy content")，且**不再可用**。
 
-《谷地植物图鉴》是一本[故事相关](Story_Item.md "Story Item")的[书籍](Books.md "Books")。它描述了如何酿造[抗毒剂](Antidote.md "Antidote")，并更新了任务⁠[获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "Get Help from Healer Nettie")，由一位不知名的草药师撰写。
+《谷地植物图鉴》是一本[故事道具](Story_Item.md "故事道具")的[书籍](Books.md "Books")。它描述了如何酿造[抗毒剂](Antidote.md "Antidote")，并更新了任务⁠[获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "Get Help from Healer Nettie")，由一位不知名的草药师撰写。
 
 这卷书详细描述了北费伦⁠[谷地](https://forgottenrealms.fandom.com/wiki/Dalelands)中发现的多种植物。
 
@@ -21,7 +21,7 @@
 
 [你翻阅着精心绘制的插图页面，上面列出了植物、它们的用途以及最佳收获方法。这本书保存完好，显然备受呵护，但在某一页的条目边缘，你发现了一张匆忙写下的字条。]
 
-[凯兰沃的吻](Kelemvor.md "Kelemvor")
+[凯兰沃](Kelemvor.md "凯兰沃")
 
 一种生长在⁠[影谷](https://forgottenrealms.fandom.com/wiki/Shadowdale)最黑暗森林中的荆棘。它的刺分泌一种能在数小时内致死的毒药。强壮的受害者最多能坚持两天。
 

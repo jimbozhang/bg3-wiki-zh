@@ -1,10 +1,10 @@
 # 浆果术
 
-**浆果术** 是一个 [一级变化学派法术](Spells.md "Spells")。它允许施法者创造具有治疗效果的[魔法浆果](Goodberry_(Item).md)。
+**浆果术** 是一个 [法术](Spells.md "法术")。它允许施法者创造具有治疗效果的[魔法浆果](Goodberry_(Item).md)。
 
 ## 描述
 
-为自己或一名伙伴召唤四个魔法浆果。食用浆果的生物将恢复 1d4⁠⁠[生命值](Healing.md "Healing")。每个浆果计为一份 ⁠[营地补给](Camp_supplies.md "Camp Supplies")。
+为自己或一名伙伴召唤四个魔法浆果。食用浆果的生物将恢复 1d4⁠⁠[治疗](Healing.md "治疗")。每个浆果计为一份 ⁠[营地补给](Camp_supplies.md "Camp Supplies")。
 
 [浆果](Goodberry_(Item).md) 会出现在目标生物的物品栏中，并在一次 [长休](Long_Rest.md "Long Rest") 后消失。
 
@@ -35,7 +35,7 @@ UID
 
 **效果**（[附赠动作](Actions.md#Resources "Actions")）
 
-- 消耗浆果以恢复 1d4⁠⁠[生命值](Healing.md "Healing")
+- 消耗浆果以恢复 1d4⁠⁠[治疗](Healing.md "治疗")
 
 **属性**
 

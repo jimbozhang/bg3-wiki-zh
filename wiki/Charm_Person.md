@@ -1,6 +1,6 @@
 # 魅惑人类
 
-**魅惑人类**是一个[1级惑控学派法术](Spells.md "Spells")。它允许施法者暂时魅惑一个类人生物，使其在魅力检定上获得[优势](Advantage.md "Advantage")。
+**魅惑人类**是一个[法术](Spells.md "法术")。它允许施法者暂时魅惑一个类人生物，使其在魅力检定上获得[优势](Advantage.md "Advantage")。
 
 ## 描述
 
@@ -40,7 +40,7 @@ UID
 
 持续时间：10驱散
 
-- 无法攻击施法者。施法者在对话中的[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "Ability Check")上拥有[优势](Advantage.md "Advantage")。
+- 无法攻击施法者。施法者在对话中的[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "Advantage")。
 
 ## 如何习得
 

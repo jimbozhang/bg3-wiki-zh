@@ -22,7 +22,7 @@
 
 ### 体型
 
-[中型](Medium.md "Medium")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -98,15 +98,15 @@
 
 当你使用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合以[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子将重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -162,15 +162,15 @@
 
 当你使用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合以[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子将重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -226,15 +226,15 @@
 
 当你使用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合以[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子将重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -264,18 +264,18 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 可观战利品](#notable-loot)
-- [3 笔记](#notes)
-- [4 参考文献](#references)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 可观战利品](#可观战利品)
+- [3 笔记](#笔记)
+- [4 参考文献](#参考文献)
 
 ## 参与
 
 在争夺至高大殿的初始战斗中，一支来自[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")的大量绝对教派信徒摧毁了要塞，并将卫士们击溃，迫使剩余的卫士逃离。<sup>[\[1\]](#cite_note-1)</sup> 面对惨重的伤亡，卫士的最后残余由乔迪、[埃伯](Ebber.md "Ebber")、[弗莱](Fry.md "Fry")、[古奇](Goodge.md "Goodge")、[马修](Matthew.md "Matthew")和[普雷恩](Preyn.md "Preyn")组成。当卫士们试图逃离至高大殿时，一只[夺心魔](Mind_flayer.md "Mind Flayer")杀死了马修和普雷恩，随后与队伍遭遇。
 
-乔迪正带领剩余的卫士离开庭院时遇到了队伍。如果队伍中存在夺心魔（无论是玩家角色、[卡菈克](Karlach.md "Karlach")、[君主](The_Emperor.md "The Emperor")还是[俄耳甫斯](Orpheus.md "Orpheus")），他会因此感到恐慌。通过被动DC 20的[洞悉](Insight.md "Insight")[检定](Ability_Check.md "Ability check")后，可以选择让剩余的卫士在队伍一侧战斗。
+乔迪正带领剩余的卫士离开庭院时遇到了队伍。如果队伍中存在夺心魔（无论是玩家角色、[卡菈克](Karlach.md "Karlach")、[君主](The_Emperor.md "The Emperor")还是[俄耳甫斯](Orpheus.md "Orpheus")），他会因此感到恐慌。通过被动DC 20的[洞悉](Insight.md "Insight")[属性检定](Ability_Check.md "属性检定")后，可以选择让剩余的卫士在队伍一侧战斗。
 
 夺心魔玩家角色可以说服乔迪作为城市卫士盟友参与即将到来的战斗，需通过DC 18的属性检定：
 

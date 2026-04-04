@@ -85,27 +85,27 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而准确地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能处于目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿着[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，并且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
@@ -165,27 +165,27 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而准确地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能处于目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿着[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，并且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
@@ -245,27 +245,27 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而准确地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能处于目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿着[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，并且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
@@ -295,10 +295,10 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
 
 ## 参与
 
@@ -334,7 +334,7 @@ UUID
 
 你的[力量](Strength.md "力量")影响额外伤害以及你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与其近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与其近战伤害相同。
 
 你还会根据你的[力量](Strength.md "力量")造成额外伤害。
 

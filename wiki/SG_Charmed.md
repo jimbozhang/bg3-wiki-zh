@@ -6,12 +6,12 @@
 
 ## 目录
 
-- [1 移除](#removal)
-- [2 免疫](#immunity)
-- [3 优势与劣势](#advantage-and-disadvantage)
-- [4 其他](#other)
-- [5 魅惑状态列表](#list-of-conditions-in-charmed)
-- [6 备注](#notes)
+- [1 移除](#移除)
+- [2 免疫](#免疫)
+- [3 优势与劣势](#优势与劣势)
+- [4 其他](#其他)
+- [5 魅惑状态列表](#魅惑状态列表)
+- [6 备注](#备注)
 
 ## 移除
 
@@ -60,7 +60,7 @@
 [魅惑](Charmed_(Condition).md "魅惑（状态）")
 |
 
-- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 [胁迫](Coerced_(Condition).md "胁迫（状态）")
 |
@@ -99,7 +99,7 @@
 [交友术](Friends_(Condition).md "交友术（状态）")
 |
 
-- 对目标生物进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+- 对目标生物进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 在更高难度模式下，目标可能会指控你对其施放了惑控法术。
 [盖尔狂欢](Galerian_Revelry_(Condition).md "盖尔狂欢（状态）")

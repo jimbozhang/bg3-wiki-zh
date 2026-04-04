@@ -2,7 +2,7 @@
 
 关于其他版本的内心恐惧，请参见 [内心恐惧（消歧义）](Mapped_Terror_(disambiguation)..md)
 
-**内心恐惧：狼** 是一个 [6级幻术法术](Spells.md "Spells")。此法术将 [维康妮亚·迪佛](Viconia_DeVir.md "Viconia_DeVir") 和附近的两名 [莎尔学徒](Sharran_Novice.md "Sharran_Novice") 变成凶恶的狼。维康妮亚在对 [影心](Shadowheart.md "Shadowheart") 执行 [心灵映射](Mapping_of_the_Heart.md "Mapping_of_the_Heart") 时会使用此动作。队伍成员无法学习此法术。
+**内心恐惧：狼** 是一个 [法术](Spells.md "法术")。此法术将 [维康妮亚·迪佛](Viconia_DeVir.md "Viconia_DeVir") 和附近的两名 [莎尔学徒](Sharran_Novice.md "Sharran_Novice") 变成凶恶的狼。维康妮亚在对 [影心](Shadowheart.md "Shadowheart") 执行 [心灵映射](Mapping_of_the_Heart.md "Mapping_of_the_Heart") 时会使用此动作。队伍成员无法学习此法术。
 
 ## 描述
 

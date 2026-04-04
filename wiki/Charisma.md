@@ -14,13 +14,13 @@
 
 ## 目录
 
-- [1 魅力调整值图表](#charisma-modifier-chart)
-- [2 提升方法](#ways-to-increase)
-- [3 相关物品](#related-items)
-  - [3.1 影响魅力](#affecting-charisma)
-  - [3.2 影响豁免检定](#affecting-saving-throws)
-  - [3.3 影响属性检定](#affecting-ability-checks)
-  - [3.4 受益于魅力](#benefiting-from-charisma)
+- [1 魅力调整值图表](#魅力调整值图表)
+- [2 提升方法](#提升方法)
+- [3 相关物品](#相关物品)
+  - [3.1 影响魅力](#影响魅力)
+  - [3.2 影响豁免检定](#影响豁免检定)
+  - [3.3 影响属性检定](#影响属性检定)
+  - [3.4 受益于魅力](#受益于魅力)
 
 ## 魅力调整值图表
 

@@ -6,11 +6,11 @@
 
 ## 目录
 
-- [1 确定角色的生命值](#determining-a-character's-hit-points)
-  - [1.1 改变最大值](#changing-the-maximum)
-  - [1.2 低于0点生命值](#going-below-0-hp)
-- [2 临时生命值](#temporary-hit-points)
-  - [2.1 临时生命值叠加](#stacking-temporary-hit-points)
+- [1 确定角色的生命值](#确定角色的生命值)
+  - [1.1 改变最大值](#改变最大值)
+  - [1.2 低于0点生命值](#低于0点生命值)
+- [2 临时生命值](#临时生命值)
+  - [2.1 临时生命值叠加](#临时生命值叠加)
 
 ## 确定角色的生命值
 
@@ -43,7 +43,7 @@
 
 **法术与状态**
 
-- [支援术](Aid_(Condition).md "支援术 (状态)")：生命值上限增加5⁠⁠[生命值](Healing.md "治疗") + 5⁠⁠[生命值](Healing.md "治疗")，每使用一个高于2级的[法术位等级](Spells.md#Spell_Slot_Level "法术")。
+- [支援术](Aid_(Condition).md "支援术 (状态)")：生命值上限增加5⁠⁠[治疗](Healing.md "治疗") + 5⁠⁠[治疗](Healing.md "治疗")，每使用一个高于2级的[法术位等级](Spells.md#Spell_Slot_Level "法术")。
 - [吃撑了](Thoroughly_Stuffed_(Condition).md "吃撑了 (状态)")：生命值上限增加12点。
 - [重伤术](Harm_(Condition).md "重伤术 (状态)")：受影响实体的生命值上限已被[重伤术](Harm.md "重伤术")法术造成的伤害减少，即14d6⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 

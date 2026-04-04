@@ -17,7 +17,7 @@
 
 持续时间：1[驱散](Turn.md "Turn")
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 13）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 13）
 
 - 受影响的实体在其下一个驱散结束时受到1d6⁠⁠[中毒](Poison.md "Poison")伤害。
 

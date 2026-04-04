@@ -4,7 +4,7 @@
 
 ## 描述
 
-你获得等于你[智力](Intelligence.md "智力")调整值的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")加值。
+你获得等于你[智力](Intelligence.md "智力")调整值的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")加值。
 
 ## 如何习得
 

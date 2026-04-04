@@ -59,15 +59,15 @@
 
 ## 特性
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 对游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外1d6伤害。
 
@@ -107,15 +107,15 @@
 
 ## 特性
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 对游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外1d6伤害。
 
@@ -165,11 +165,11 @@ UUID
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 更高等级](#at-higher-levels)
-    - [1.2.1 7级](#level-7)
-    - [1.2.2 8级](#level-8)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 更高等级](#更高等级)
+    - [1.2.1 7级](#7级)
+    - [1.2.2 8级](#8级)
 
 ## 战斗
 

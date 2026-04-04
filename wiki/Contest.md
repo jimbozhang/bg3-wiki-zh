@@ -4,39 +4,39 @@
 
 ## 目录
 
-- [1 掷骰表示法](#dice-notation)
-- [2 调整值](#modifiers)
-- [3 d20 掷骰](#d20_rolls)
-  - [3.1 自然 1 和自然 20](#natural-1s-and-20s)
-  - [3.2 优势与劣势](#advantage-and-disadvantage)
-- [4 属性检定](#ability-checks)
-  - [4.1 技能](#skills)
-    - [4.1.1 专精](#expertise)
-  - [4.2 属性检定类型](#types-of-ability-checks)
-- [5 豁免检定](#saving-throws)
-  - [5.1 豁免熟练项](#save-proficiency)
-  - [5.2 豁免 DC](#save-dcs)
-  - [5.3 死亡豁免检定](#death-saving-throws)
-- [6 攻击掷骰](#attack-rolls)
-  - [6.1 攻击掷骰调整值](#attack-roll-modifiers)
-  - [6.2 重击](#critical-hits)
-  - [6.3 攻击失败](#critical-misses)
-  - [6.4 护甲等级](#armour-class)
-    - [6.4.1 基础公式](#base-formula)
-    - [6.4.2 其他公式](#other-formulas)
-- [7 伤害掷骰](#damage-rolls)
-  - [7.1 伤害调整值](#damage-modifiers)
-- [8 其他掷骰](#other-rolls)
-- [9 业力骰子](#karmic-dice)
-- [10 数学](#mathematics)
-  - [10.1 护甲等级数学](#armour-class-mathematics)
-  - [10.2 伤害掷骰数学](#damage-roll-mathematics)
-  - [10.3 优势数学](#advantage-mathematics)
-    - [10.3.1 优势对成功率的影响](#effects-of-advantage-on-success)
-    - [10.3.2 优势对掷骰平均值的影响](#effects-of-advantage-on-the-average-of-dice-rolls)
-    - [10.3.3 优势对重击掷骰的影响](#effects-of-advantage-on-critical-rolls)
-- [11 外部资源](#external-resources)
-- [12 注释](#notes)
+- [1 掷骰表示法](#掷骰表示法)
+- [2 调整值](#调整值)
+- [3 d20 掷骰](#d20-掷骰)
+  - [3.1 自然 1 和自然 20](#自然-1-和自然-20)
+  - [3.2 优势与劣势](#优势与劣势)
+- [4 属性检定](#属性检定)
+  - [4.1 技能](#技能)
+    - [4.1.1 专精](#专精)
+  - [4.2 属性检定类型](#属性检定类型)
+- [5 豁免检定](#豁免检定)
+  - [5.1 豁免熟练项](#豁免熟练项)
+  - [5.2 豁免 DC](#豁免-DC)
+  - [5.3 死亡豁免检定](#死亡豁免检定)
+- [6 攻击掷骰](#攻击掷骰)
+  - [6.1 攻击掷骰调整值](#攻击掷骰调整值)
+  - [6.2 重击](#重击)
+  - [6.3 攻击失败](#攻击失败)
+  - [6.4 护甲等级](#护甲等级)
+    - [6.4.1 基础公式](#基础公式)
+    - [6.4.2 其他公式](#其他公式)
+- [7 伤害掷骰](#伤害掷骰)
+  - [7.1 伤害调整值](#伤害调整值)
+- [8 其他掷骰](#其他掷骰)
+- [9 业力骰子](#业力骰子)
+- [10 数学](#数学)
+  - [10.1 护甲等级数学](#护甲等级数学)
+  - [10.2 伤害掷骰数学](#伤害掷骰数学)
+  - [10.3 优势数学](#优势数学)
+    - [10.3.1 优势对成功率的影响](#优势对成功率的影响)
+    - [10.3.2 优势对掷骰平均值的影响](#优势对掷骰平均值的影响)
+    - [10.3.3 优势对重击掷骰的影响](#优势对重击掷骰的影响)
+- [11 外部资源](#外部资源)
+- [12 注释](#注释)
 
 ## 掷骰表示法
 
@@ -193,8 +193,8 @@ d20 + 属性值调整值 + 熟练项加值（如果熟练）+ 其他调整值
 **在对话中**
 属性检定在对话中也很常见，一些回应需要属性检定来决定结果。例如使用魅力技能如[游说](Persuasion.md "Persuasion")、[欺瞒](Deception.md "Deception")或[威吓](Intimidation.md "Intimidation")来影响他人，或使用智力技能如[奥秘](Arcana.md "Arcana")、[历史的](History.md "History")或[宗教](Religion.md "Religion")来确定或回忆事实。在这些检定之前，屏幕底部会出现一个标有“添加奖励”的按钮，<sup>[\[4\]](#cite_note-4)</sup> 允许玩家角色和其他队伍成员自由使用可用的法术和消耗品来授予检定奖励。在与物体互动时进行属性检定时（例如解除陷阱或开锁）也可以这样做。
 **对抗**
-对抗是一种情况，其中两个生物都进行掷骰，掷骰结果更好的一方获胜。也可以说一个生物进行掷骰以确定另一个生物掷骰的[难度等级](Difficulty_Class.md "Difficulty Class")。例如，在[隐藏](Hide.md "Hide")时攻击，此时目标掷察觉技能检定，攻击者掷隐匿技能检定与之对抗。
-这可能还涉及[被动检定](Passive_check.md "Passive check")而不是主动掷骰。例如，一个隐藏的玩家角色在非盟友生物的视线内，必须进行隐匿技能检定，与该生物的被动察觉技能分数对抗。另一个例子是尝试[推撞](Shove.md "Shove")或[投掷](Throw.md "Throw")一个生物，此时尝试的生物掷[运动](Athletics.md "Athletics")检定，与该生物的被动运动或[体操](Acrobatics.md "Acrobatics")分数（取较高者）对抗。
+对抗是一种情况，其中两个生物都进行掷骰，掷骰结果更好的一方获胜。也可以说一个生物进行掷骰以确定另一个生物掷骰的[难度等级](Difficulty_Class.md "Difficulty Class")。例如，在[躲藏](Hide.md "躲藏")时攻击，此时目标掷察觉技能检定，攻击者掷隐匿技能检定与之对抗。
+这可能还涉及[被动检定](Passive_check.md "Passive check")而不是主动掷骰。例如，一个隐藏的玩家角色在非盟友生物的视线内，必须进行隐匿技能检定，与该生物的被动察觉技能分数对抗。另一个例子是尝试[推击](Shove.md "推击")或[投掷](Throw.md "Throw")一个生物，此时尝试的生物掷[运动](Athletics.md "Athletics")检定，与该生物的被动运动或[体操](Acrobatics.md "Acrobatics")分数（取较高者）对抗。
 
 ## 豁免检定
 
@@ -221,7 +221,7 @@ d20 + 属性值调整值 + 熟练项加值（如果熟练）+ 其他调整值
 
 ### 豁免 DC
 
-尝试豁免时对抗的难度等级称为豁免 DC。成功豁免可能意味着完全避免负面效果、减少受到的伤害（通常减半），或两者兼而有之。例如，成功豁免尖刺陷阱可能意味着生物因为成功躲避尖刺而不受伤害。另一方面，如果陷入[火球术术](Fireball.md "Fireball")法术的效应区域，那么成功豁免只会使伤害减半。豁免[雷鸣波](Thunderwave.md "Thunderwave")法术既会使受到的伤害减半，又可以防止生物被法术推开。
+尝试豁免时对抗的难度等级称为豁免 DC。成功豁免可能意味着完全避免负面效果、减少受到的伤害（通常减半），或两者兼而有之。例如，成功豁免尖刺陷阱可能意味着生物因为成功躲避尖刺而不受伤害。另一方面，如果陷入[火球术](Fireball.md "火球术")法术的效应区域，那么成功豁免只会使伤害减半。豁免[雷鸣波](Thunderwave.md "Thunderwave")法术既会使受到的伤害减半，又可以防止生物被法术推开。
 
 不同的机制以不同的方式计算豁免 DC：
 
@@ -236,7 +236,7 @@ d20 + 属性值调整值 + 熟练项加值（如果熟练）+ 其他调整值
 
 然而，诡术师和奥法骑士副职*确实*正确定义了智力作为其施法关键属性，因此这两个副职在身兼多职的角色上会按预期表现。即使这些副职的施法关键属性仅在 3 级后定义，最新职业仍然是最近达到 1 级的职业。
 
-| 职业 | [力量](STR.md "STR") | [敏捷](DEX.md "DEX") | [体质](CON.md "CON") | [智力](Int.md "Int") | [感知](WIS.md "WIS") | [魅力](CHA.md "CHA") |
+| 职业 | [力](STR.md "力") | [敏](DEX.md "敏") | [体](CON.md "体") | [智力](Int.md "Int") | [感](WIS.md "感") | [魅](CHA.md "魅") |
 | --- | --- | --- | --- | --- | --- | --- |
 | [野蛮人](Barbarian.md "Barbarian") | ✓ |  | ✓ |  |  |  |
 | [吟游诗人](Bard.md "Bard") |  | ✓ |  |  |  | ✓ |
@@ -392,9 +392,9 @@ d20 + 属性值调整值 + 熟练项加值（如果熟练）+ 其他调整值
 ## 其他掷骰
 
 **治疗**
-[治疗](Healing.md "Healing")以类似于伤害掷骰的方式恢复目标的[生命值](Hit_Points.md "Hit points")。治疗掷骰也可能添加调整值，但没有通用规则；任何奖励都由治疗来源决定。例如，[治疗药水](Potion_of_Healing.md "Potion of Healing")恢复 2d4+2⁠⁠[生命值](Healing.md "Healing")。有魔法物品、职业特性和其他效果提供治疗奖励，例如[生命领域牧师](Life_Domain.md "Life Domain")的[生命门徒](Disciple_of_Life.md "Disciple of Life")特性。
+[治疗](Healing.md "Healing")以类似于伤害掷骰的方式恢复目标的[生命值](Hit_Points.md "Hit points")。治疗掷骰也可能添加调整值，但没有通用规则；任何奖励都由治疗来源决定。例如，[治疗药水](Potion_of_Healing.md "Potion of Healing")恢复 2d4+2⁠⁠[治疗](Healing.md "治疗")。有魔法物品、职业特性和其他效果提供治疗奖励，例如[生命领域](Life_Domain.md "生命领域")的[生命门徒](Disciple_of_Life.md "Disciple of Life")特性。
 **狂野魔法**
-| 职业 | [力量](STR.md "STR") | [敏捷](DEX.md "DEX") | [体质](CON.md "CON") | [智力](Int.md "Int") | [感知](WIS.md "WIS") | [魅力](CHA.md "CHA") |
+| 职业 | [力](STR.md "力") | [敏](DEX.md "敏") | [体](CON.md "体") | [智力](Int.md "Int") | [感](WIS.md "感") | [魅](CHA.md "魅") |
 | --- | --- | --- | --- | --- | --- | --- |
 | [野蛮人](Barbarian.md "Barbarian") | ✓ |  | ✓ |  |  |  |
 | [吟游诗人](Bard.md "Bard") |  | ✓ |  |  |  | ✓ |

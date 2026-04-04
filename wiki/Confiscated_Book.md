@@ -26,7 +26,7 @@
 
 [俄耳甫斯](Orpheus.md "俄耳甫斯")
 
-[地狱金属](Infernal_Iron.md "地狱铁")
+[地狱铁](Infernal_Iron.md "地狱铁")
 
 [不死生物](Undead.md "不死生物") 的魔法。
 

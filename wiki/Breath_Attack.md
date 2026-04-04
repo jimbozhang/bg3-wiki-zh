@@ -24,7 +24,7 @@
 
 ## 装备
 
-- [龙息长柄刀](Drakethroat_Glaive.md "龙息长柄刀")：[恶龙吐息](Vicious_Dragon_Breath.md "恶龙吐息") - 敌人在对抗你的[龙裔](Dragonborn.md "龙裔")吐息武器时，[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+- [龙息](Drakethroat_Glaive.md "龙息")：[恶龙吐息](Vicious_Dragon_Breath.md "恶龙吐息") - 敌人在对抗你的[龙裔](Dragonborn.md "龙裔")吐息武器时，[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
 ## 备注
 

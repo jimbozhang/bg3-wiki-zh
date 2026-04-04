@@ -108,15 +108,15 @@
 
 赋予附近盟友你神祇的荣耀，使其[攻击掷骰](Attack_roll.md "攻击掷骰")获得+10加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
-- [**战争祭司**](War_Priest.md "战争祭司")
+- [战争祭司](War_Priest.md "战争祭司")
 
 当你进行徒手或武器攻击时，可以消耗一个[战争祭司充能](War_Domain.md#Level_1 "战争领域")，以[附赠动作](Actions.md#Resources "动作")进行一次额外攻击。
 
@@ -176,15 +176,15 @@
 
 赋予附近盟友你神祇的荣耀，使其[攻击掷骰](Attack_roll.md "攻击掷骰")获得+10加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
-- [**战争祭司**](War_Priest.md "战争祭司")
+- [战争祭司](War_Priest.md "战争祭司")
 
 当你进行徒手或武器攻击时，可以消耗一个[战争祭司充能](War_Domain.md#Level_1 "战争领域")，以[附赠动作](Actions.md#Resources "动作")进行一次额外攻击。
 
@@ -244,15 +244,15 @@
 
 赋予附近盟友你神祇的荣耀，使其[攻击掷骰](Attack_roll.md "攻击掷骰")获得+10加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
-- [**战争祭司**](War_Priest.md "战争祭司")
+- [战争祭司](War_Priest.md "战争祭司")
 
 当你进行徒手或武器攻击时，可以消耗一个[战争祭司充能](War_Domain.md#Level_1 "战争领域")，以[附赠动作](Actions.md#Resources "动作")进行一次额外攻击。
 
@@ -274,14 +274,14 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 任务奖励](#quest-rewards)
-- [6 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 任务奖励](#任务奖励)
+- [6 外部链接](#外部链接)
 
 ## 参与情况
 

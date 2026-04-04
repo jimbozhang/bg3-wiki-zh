@@ -47,7 +47,7 @@
 
 **[翼龙毒素](Wyvern_Toxin_(Condition).md "翼龙毒素 (状态)")**
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
 
 - 受影响实体在其下一回合结束时受到 1d8⁠⁠[中毒](Poison.md "中毒")伤害。
 

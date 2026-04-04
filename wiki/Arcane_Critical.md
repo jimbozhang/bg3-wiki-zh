@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏获得](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**奥术重击**是一个[1级预言学派法术](Spells.md "Spells")。
+**奥术重击**是一个[法术](Spells.md "法术")。
 
 ## 描述
 

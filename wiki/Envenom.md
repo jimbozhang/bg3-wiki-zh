@@ -4,7 +4,7 @@
 
 ## 描述
 
-每当造成[毒素](Poison.md "毒素")伤害时，目标需要成功通过一次[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[中毒](Poisoned_(Condition).md "中毒（状态）")状态。
+每当造成[中毒](Poison.md "中毒")伤害时，目标需要成功通过一次[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[中毒](Poisoned_(Condition).md "中毒（状态）")状态。
 
 ## 状态：中毒
 
@@ -12,7 +12,7 @@
 
 持续时间：3 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
 

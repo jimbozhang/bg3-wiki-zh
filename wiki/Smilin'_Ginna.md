@@ -75,7 +75,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -123,7 +123,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -171,7 +171,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -193,15 +193,15 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 相关任务](#related-quests)
+- [1 参与情况](#参与情况)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 相关任务](#相关任务)
 
 ## 参与情况
 
-金娜可在[公会大厅](Guildhall.md "Guildhall")中找到。当[罗阿·月光](Roah.md "Roah")、[弗里奥尔老板](Friol.md "Friol")或[特立尼达](Trinoda.md "Trinoda")试图接管公会大厅时，金娜将与她的散塔林会盟友一起加入战斗对抗公会。反对散塔林会将导致金娜死亡，或者如果她被击倒则会消失。
+金娜可在[公会大厅](Guildhall.md "Guildhall")中找到。当[罗阿](Roah.md "罗阿")、[弗里奥尔](Friol.md "弗里奥尔")或[特立尼达](Trinoda.md "Trinoda")试图接管公会大厅时，金娜将与她的散塔林会盟友一起加入战斗对抗公会。反对散塔林会将导致金娜死亡，或者如果她被击倒则会消失。
 
 ## 战斗
 

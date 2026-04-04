@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-**坚韧日出**是[钉头锤](Morningstars.md "Morningstars")武器家族中一种不常见、轻度附魔（+1）的变体。它是一种[军用近战武器](Weapons.md "Weapons")，可单手挥舞。
+**坚韧日出**是[钉头锤](Morningstars.md "Morningstars")武器家族中一种不常见、轻度附魔（+1）的变体。它是一种[武器](Weapons.md "武器")，可单手挥舞。
 
 由创造力与黎明之神[洛山达](Lathander.md "Lathander")派遣而来。不幸的是，它并未被那位在关键时刻需要它的牧师收到，而是被[匕首堡](https://forgottenrealms.fandom.com/wiki/Daggerford)一位困惑的图书管理员获得，并被用作门挡。
 

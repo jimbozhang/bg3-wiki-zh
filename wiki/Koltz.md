@@ -95,15 +95,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -155,15 +155,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -215,15 +215,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -253,11 +253,11 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 显著战利品](#notable-loot)
-- [3 相关文献](#related-literature)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 显著战利品](#显著战利品)
+- [3 相关文献](#相关文献)
 
 ## 出场
 

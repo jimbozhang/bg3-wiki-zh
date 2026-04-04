@@ -1,6 +1,6 @@
 # 森林之石
 
-**森林之石**是一种[炼金术材料](Alchemy.md "炼金术")。将3个森林之石组合可提取出[森林之石精华](Essence_of_Sylvan_Stone.md "森林之石精华")，用于制作[收缩油](Oil_of_Diminution.md "收缩油")。
+**森林之石**是一种[炼金术](Alchemy.md "炼金术")。将3个森林之石组合可提取出[森林之石精华](Essence_of_Sylvan_Stone.md "森林之石精华")，用于制作[收缩油](Oil_of_Diminution.md "收缩油")。
 
 这些[水晶](https://forgottenrealms.fandom.com/wiki/Sylvan_stone)在妖精荒野与物质位面交汇处被发现，摸起来温暖，仿佛沐浴在妖精荒野永不落下的阳光下。
 

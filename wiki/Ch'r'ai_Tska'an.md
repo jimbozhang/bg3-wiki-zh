@@ -90,19 +90,19 @@
 
 - - ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力") 调整值添加到 [魔能爆](Eldritch_Blast.md "魔能爆") 伤害中。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -110,7 +110,7 @@
 
 对 [心灵](Psychic.md "心灵") 伤害具有 [抗性](Resistance.md "抗性")。在成功通过针对法术的 [豁免检定](Saving_throw.md "豁免检定") 时，恢复 1d4 [生命值](Hit_Points.md "生命值")。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆") 可将生物推开最多 4.5 m (15 ft)。
 
@@ -154,19 +154,19 @@
 
 - - ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力") 调整值添加到 [魔能爆](Eldritch_Blast.md "魔能爆") 伤害中。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -174,7 +174,7 @@
 
 对 [心灵](Psychic.md "心灵") 伤害具有 [抗性](Resistance.md "抗性")。在成功通过针对法术的 [豁免检定](Saving_throw.md "豁免检定") 时，恢复 1d4 [生命值](Hit_Points.md "生命值")。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆") 可将生物推开最多 4.5 m (15 ft)。
 
@@ -224,19 +224,19 @@
 
 ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力") 调整值添加到 [魔能爆](Eldritch_Blast.md "魔能爆") 伤害中。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -244,11 +244,11 @@
 
 对 [心灵](Psychic.md "心灵") 伤害具有 [抗性](Resistance.md "抗性")。在成功通过针对法术的 [豁免检定](Saving_throw.md "豁免检定") 时，恢复 1d4 [生命值](Hit_Points.md "生命值")。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6 [心灵](Psychic.md "心灵") 伤害——灵吸怪奴役的伤痕根深蒂固。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆") 可将生物推开最多 4.5 m (15 ft)。
 
@@ -310,23 +310,23 @@
 
 ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力") 调整值添加到 [魔能爆](Eldritch_Blast.md "魔能爆") 伤害中。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
 
 - [**传奇动作：灵魂献祭**](Legendary_Action_colon__Soul_Sacrifice.md "传奇动作：灵魂献祭")
 
 每回合一次，向维拉基斯献祭灵魂以换取力量。献祭 3 个灵魂后，获得 [维拉基斯的不朽形象](Vlaakith's_Undying_Aspect_(Condition).md)
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -334,11 +334,11 @@
 
 对 [心灵](Psychic.md "心灵") 伤害具有 [抗性](Resistance.md "抗性")。在成功通过针对法术的 [豁免检定](Saving_throw.md "豁免检定") 时，恢复 1d4 [生命值](Hit_Points.md "生命值")。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6 [心灵](Psychic.md "心灵") 伤害——灵吸怪奴役的伤痕根深蒂固。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆") 可将生物推开最多 4.5 m (15 ft)。
 
@@ -432,11 +432,11 @@ UUID
 
 [不死生物](Undead.md "不死生物") 和 [构装生物](Constructs.md "构装生物") 无法流血。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 
-[光亮术](Light.md "光亮术") ()
+[轻型](Light.md "轻型") ()
 为物品注入光之灵气。
 
 近战：1.5 m (5 ft)
@@ -455,7 +455,7 @@ UUID
 
 对敌人进行一次非致命攻击，并可能使其 [眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 m (5 ft)
 冷却：[短休](Short_rest.md "短休")
 
@@ -467,7 +467,7 @@ UUID
 
 向前冲锋并攻击路径上的第一个敌人，可能使其 [失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：9 m (30 ft)
 冷却：[短休](Short_rest.md "短休")
 
@@ -503,13 +503,13 @@ UUID
 
 ### 遭遇详情
 
-- 茨卡'安和她的小队阻止队伍前往 [博德之门](Baldur's_Gate.md "博德之门") 和第三幕。茨卡'安在拱门顶部开始战斗，两侧有两名 [老练吉斯洋基掠夺者](Veteran_Raider.md "老练掠夺者")，他们经常使用 [摔绊攻击（远程）](Trip_Attack_(Ranged).md "摔绊攻击（远程）") 并发射 [多靶箭](Arrow_of_Many_Targets.md "多靶箭")。她下方有两名 [老练吉斯洋基战士](Veteran_Warrior.md "老练战士")，装备 [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")。
+- 茨卡'安和她的小队阻止队伍前往 [博德之门](Baldur's_Gate.md "博德之门") 和第三幕。茨卡'安在拱门顶部开始战斗，两侧有两名 [老练掠夺者](Veteran_Raider.md "老练掠夺者")，他们经常使用 [摔绊攻击（远程）](Trip_Attack_(Ranged).md "摔绊攻击（远程）") 并发射 [多靶箭](Arrow_of_Many_Targets.md "多靶箭")。她下方有两名 [老练战士](Veteran_Warrior.md "老练战士")，装备 [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")。
 - 伏击的所有吉斯洋基成员都携带注入了 [光亮术](Light_(Condition).md "光亮术 (状态)") 的武器，以保护他们免受雷思温边境幽影诅咒较弱区域的影响。
 
 ### 战术
 
 - 开始战斗的有效方法是使用 [强化跳跃](Enhance_Leap.md "强化跳跃")、[迷踪步](Misty_Step.md "迷踪步") 或 [任意门](Dimension_Door.md "任意门") 等法术，让整个队伍登上拱门顶部，并开始集中攻击掠夺者。或者，队伍可以在吉斯洋基人出现之前通过北侧路径潜行到拱门上，并 [突袭](Surprised_(Condition).md "突袭 (状态)") 他们。下方的战士将被迫浪费一两个回合绕远路或使用强化跳跃跟随跳跃。
-- 茨卡'安和她的随从可以受到 [幽影诅咒](Shadow_Curse.md "幽影诅咒") 的影响。撤退到雷思温镇更深处或将他们困在黑暗源中（例如来自 [哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴") 或 [黑暗术](Darkness.md "黑暗术")），会导致他们武器上的 [光亮术](Light.md "光亮术") 被熄灭，使他们每回合都受到诅咒伤害。然而，如果他们因此死于诅咒，他们将以一半生命值复活为 [幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")。如果他们死于诅咒，他们将对所有人（包括仍然存活的吉斯洋基人）充满敌意。
+- 茨卡'安和她的随从可以受到 [幽影诅咒](Shadow_Curse.md "幽影诅咒") 的影响。撤退到雷思温镇更深处或将他们困在黑暗源中（例如来自 [哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴") 或 [黑暗术](Darkness.md "黑暗术")），会导致他们武器上的 [轻型](Light.md "轻型") 被熄灭，使他们每回合都受到诅咒伤害。然而，如果他们因此死于诅咒，他们将以一半生命值复活为 [幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")。如果他们死于诅咒，他们将对所有人（包括仍然存活的吉斯洋基人）充满敌意。
 
 ## 注释
 

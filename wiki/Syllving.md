@@ -87,7 +87,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 13 / (+1) | 10 / (0) | 16 / (+3) | 10 / (0) | 20 / (+5) | 12 / (+1) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -95,19 +95,19 @@
 
 - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，对在1.5米（5英尺）范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -153,7 +153,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | 0 | +3 | 0 | +9 | +5 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -161,19 +161,19 @@
 
 - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，对在1.5米（5英尺）范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -219,7 +219,7 @@
 | --- | --- | --- | --- |
 |  | 1 | 0 | 5 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -227,19 +227,19 @@
 
 - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md) 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，对在1.5米（5英尺）范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -261,17 +261,17 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与度
 
 ### 第三幕
 
-医师**塞尔文**与[焰拳星尘](Starrlet.md "焰拳星尘")、[焰拳迪斯科里亚](Discoria.md "焰拳迪斯科里亚")和一名[钢铁卫士](Steel_Watcher.md "钢铁卫士")一起在下城区的街道上巡逻。他们的路线在通往[上城区](Upper_City.md "上城区")的桥梁和大门与[光耀会会馆](The_Lodge.md "光耀会会馆")之间来回往返（大约从 X: -195 Y: -10 到 X: -196 Y: -68）。
+医师**塞尔文**与[焰拳星尘](Starrlet.md "焰拳星尘")、[焰拳迪斯科里亚](Discoria.md "焰拳迪斯科里亚")和一名[钢铁卫士](Steel_Watcher.md "钢铁卫士")一起在下城区的街道上巡逻。他们的路线在通往[上城区](Upper_City.md "上城区")的桥梁和大门与[会馆](The_Lodge.md "会馆")之间来回往返（大约从 X: -195 Y: -10 到 X: -196 Y: -68）。
 
 塞尔文和她的焰拳同伴不会回应任何与他们交谈的尝试，无论[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")是否完好无损。
 

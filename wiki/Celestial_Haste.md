@@ -1,6 +1,6 @@
 # 天界加速
 
-**天界加速**是一个[等级 3 变化学派法术](Spells.md "Spells")。通过装备[锻神旋涡](Gontr_Mael.md "Gontr Mael")提供，它允许使用者在 5 驱散内对自己施加加速，且结束时不会遭受[力竭](Lethargic_(Condition).md "力竭 (状态)")状态。
+**天界加速**是一个[法术](Spells.md "法术")。通过装备[锻神旋涡](Gontr_Mael.md "Gontr Mael")提供，它允许使用者在 5 驱散内对自己施加加速，且结束时不会遭受[力竭](Lethargic_(Condition).md "力竭 (状态)")状态。
 
 ## 描述
 

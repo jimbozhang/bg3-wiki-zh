@@ -4,7 +4,7 @@
 
 ## 描述
 
-每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒（状态）")状态下生命值降至0，你将恢复1点[生命值](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
+每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒（状态）")状态下生命值降至0，你将恢复1点[治疗](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
 
 ## 如何习得
 

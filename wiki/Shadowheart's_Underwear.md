@@ -16,7 +16,7 @@
 
 - UID `Underwear_Shadowheart` UUID `b460bd0c-58fe-4a56-831c-af92fd4ba7e2` ## 获取地点
 
-- [影心的](Shadowheart.md "Shadowheart") 起始内衣
+- [影心](Shadowheart.md "影心") 起始内衣
 
 ## 备注
 

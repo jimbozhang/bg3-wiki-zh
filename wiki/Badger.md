@@ -63,7 +63,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -107,7 +107,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -129,10 +129,10 @@ Stats
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-- [2 著名的獾](#notable-badgers)
-- [3 外部链接](#external-links)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+- [2 著名的獾](#著名的獾)
+- [3 外部链接](#外部链接)
 
 ## 战斗
 

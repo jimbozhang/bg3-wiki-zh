@@ -97,15 +97,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -161,15 +161,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -225,15 +225,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -263,16 +263,16 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-- [3 伙伴好感度](#companion-approval)
-- [4 战斗](#combat)
-  - [4.1 攻击与能力](#attacks-and-abilities)
-  - [4.2 值得一提的战利品](#notable-loot)
-- [5 相关任务](#related-quests)
-- [6 画廊](#gallery)
-- [7 参考文献](#references)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+- [3 伙伴好感度](#伙伴好感度)
+- [4 战斗](#战斗)
+  - [4.1 攻击与能力](#攻击与能力)
+  - [4.2 值得一提的战利品](#值得一提的战利品)
+- [5 相关任务](#相关任务)
+- [6 画廊](#画廊)
+- [7 参考文献](#参考文献)
 
 ## 概述
 

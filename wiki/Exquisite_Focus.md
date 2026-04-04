@@ -10,7 +10,7 @@
 
 **[极效防御](Supreme_Defences_(Condition).md "极效防御 (状态)")**
 
-- 当处于 [专注](Concentrating.md "专注") 状态时，你会将你的 [施法属性调整值](Spellcasting_Modifier.md "施法调整值") 加入 [豁免检定](Saving_throw.md "豁免检定")，并获得 +1 的 [护甲等级](Armour_Class.md "护甲等级") 奖励
+- 当处于 [专注](Concentrating.md "专注") 状态时，你会将你的 [施法调整值](Spellcasting_Modifier.md "施法调整值") 加入 [豁免检定](Saving_throw.md "豁免检定")，并获得 +1 的 [护甲等级](Armour_Class.md "护甲等级") 奖励
 
 ## 如何习得
 

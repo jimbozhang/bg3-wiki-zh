@@ -1,6 +1,6 @@
 # 命令术：缴械（不死生物）
 
-**命令术：缴械** 是一个 [1级惑控学派法术](Spells.md "Spells")。此法术是 [劝诫复生者](Exhort_the_Risen.md "Exhort_the Risen") 的变体，与 [命令术：缴械](Command_colon__Drop.md "Command: Drop") 法术类似，但仅适用于不死生物。它允许施法者命令其不死生物目标放下武器。
+**命令术：缴械** 是一个 [法术](Spells.md "法术")。此法术是 [劝诫复生者](Exhort_the_Risen.md "Exhort_the Risen") 的变体，与 [命令术：缴械](Command_colon__Drop.md "Command: Drop") 法术类似，但仅适用于不死生物。它允许施法者命令其不死生物目标放下武器。
 
 ## 描述
 

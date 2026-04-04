@@ -4,7 +4,7 @@
 
 ## 描述
 
-每当穿戴者成功通过针对[法术](Spells.md "法术")的[豁免检定](Saving_throw.md "Saving Throw")时，他们会恢复1d4⁠⁠[生命值](Healing.md "Healing")。
+每当穿戴者成功通过针对[法术](Spells.md "法术")的[豁免检定](Saving_throw.md "Saving Throw")时，他们会恢复1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ## 如何习得
 

@@ -1,6 +1,6 @@
 # 眼魔虹膜
 
-**眼魔虹膜**是一种[炼金术材料](Alchemy.md "炼金术")。将3个眼魔虹膜组合可制作[眼魔的眼色素](Essence_of_Beholder_Eye.md "眼魔的眼色素")，用于制作[极效奥术滋养灵药](Supreme_Elixir_of_Arcane_Cultivation.md "极效奥术滋养灵药")。
+**眼魔虹膜**是一种[炼金术](Alchemy.md "炼金术")。将3个眼魔虹膜组合可制作[眼魔的眼色素](Essence_of_Beholder_Eye.md "眼魔的眼色素")，用于制作[极效奥术滋养灵药](Supreme_Elixir_of_Arcane_Cultivation.md "极效奥术滋养灵药")。
 
 即使在死亡后变得浑浊，眼睛的颜色依然鲜艳而充满威胁。
 

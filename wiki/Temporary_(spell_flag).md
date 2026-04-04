@@ -45,7 +45,7 @@
 | [移动月华之光](Move_Moonbeam.md "Move Moonbeam") | 2级法术 |  | 18 m (60 ft) 1 m (3 ft) (半径) | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 2d10⁠[光耀](Radiant.md "Radiant") (每回合) |
 | [欧提路克冰封法球（发射）](Otiluke's_Freezing_Sphere_(Launch).md "Otiluke's Freezing Sphere (Launch)") | 6级法术 | + | 1.5 m (5 ft) | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 10d6⁠[寒冷](Cold.md "Cold") |
 | [完美平衡打击](Perfectly_Balanced_Strike.md "Perfectly Balanced Strike") | 武器动作 | 每回合 | 武器 | 近战武器 [攻击掷骰](Attack_roll.md "Attack Roll") | 普通武器伤害 |
-| [长柄重击](Polearm_Clout.md "Polearm Clout") | 武器动作 | 每回合 | 武器 | 近战武器 [攻击掷骰](Attack_roll.md "Attack Roll") | 1d4 + [力量或敏捷调整值](Finesse.md "Finesse")⁠[钝击](Bludgeoning.md "Bludgeoning") |
+| [长柄重击](Polearm_Clout.md "Polearm Clout") | 武器动作 | 每回合 | 武器 | 近战武器 [攻击掷骰](Attack_roll.md "Attack Roll") | 1d4 + [灵巧](Finesse.md "灵巧")⁠[钝击](Bludgeoning.md "Bludgeoning") |
 | [燃火术：熄灭](Produce_Flame_colon__Dismiss.md "Produce Flame: Dismiss") | 戏法 |  | 自身 | - |  |
 | [燃火术：投掷](Produce_Flame_colon__Hurl.md "Produce Flame: Hurl") | 戏法 |  | 9 m (30 ft) | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d8⁠[火焰](Fire.md "Fire") |
 | [灼热金属：再度施展伤害](Heat_Metal_colon__Reapply_Damage.md "Heat Metal: Reapply Damage") | 2级法术 |  | 18 m (60 ft) | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 2d8⁠[火焰](Fire.md "Fire")施加 [武器掉落！](Weapon_Dropped!_(Condition).md "Weapon Dropped! (Condition)") 和 [灼热金属：劣势](Heat_Metal_colon__Disadvantage_(Condition).md "Heat Metal: Disadvantage (Condition)") |

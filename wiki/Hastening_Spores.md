@@ -1,6 +1,6 @@
 # 加速孢子
 
-**加速孢子**是一种[炼金术材料](Alchemy.md "炼金术")。将3个加速孢子组合可制成[加速孢子升华物](Sublimate_of_Haste_Spores.md "加速孢子升华物")，用于制作[加速孢子弹](Haste_Spore_Grenade.md "加速孢子弹")。
+**加速孢子**是一种[炼金术](Alchemy.md "炼金术")。将3个加速孢子组合可制成[加速孢子升华物](Sublimate_of_Haste_Spores.md "加速孢子升华物")，用于制作[加速孢子弹](Haste_Spore_Grenade.md "加速孢子弹")。
 
 这些孢子以活泼的循环模式四处奔跑，是真菌轨道上的微型奔跑者。
 

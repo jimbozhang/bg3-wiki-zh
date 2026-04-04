@@ -12,7 +12,7 @@
 
 种植的奇怪的花可以在地面上清晰可见，甚至可以透过有毒烟雾云看到，但要与之互动，队伍成员必须首先通过被动[察觉技能](Perception.md "Perception")检定来检测它。
 
-奇怪的花可以通过DC 15的[察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")发现，并借助[巧手](Sleight_of_Hand.md "Sleight of Hand")技能解除，但互动的队伍成员必须在物品栏中拥有[解除陷阱工具包](Trap_Disarm_Toolkit.md "Trap Disarm Toolkit")。难度等级要求是DC 10的[巧手](Sleight_of_Hand.md "Sleight of Hand") [检定](Ability_Check.md "Ability check")掷骰。
+奇怪的花可以通过DC 15的[察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")发现，并借助[巧手](Sleight_of_Hand.md "Sleight of Hand")技能解除，但互动的队伍成员必须在物品栏中拥有[解除陷阱工具包](Trap_Disarm_Toolkit.md "Trap Disarm Toolkit")。难度等级要求是DC 10的[巧手](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定")掷骰。
 
 此外，奇怪的花可以通过射击或施放⁠⁠[力场](Force.md "Force")法术（已确认[魔能爆](Eldritch_Blast.md "Eldritch Blast")有效）来摧毁，尽管角色必须几乎精确命中陷阱的中心。
 

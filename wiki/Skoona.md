@@ -93,15 +93,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**防御**](Defence.md "Defence")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "Armour")时，[护甲等级](AC.md "AC") +1。
 
-- [**双持客**](Dual_Wielder.md "Dual Wielder")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
@@ -109,27 +109,27 @@
 
 双持时，[护甲等级](AC.md "AC") +1。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**精通重击**](Improved_Critical_Hit.md "Improved Critical Hit")
+- [精通重击](Improved_Critical_Hit.md "精通重击")
 
 攻击时，需要掷出[重击](Critical_Hit.md "Critical Hit")的数值降低 1。此效果可叠加。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "Improved Extra Attack")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后，可以再进行两次攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧不屈**](Relentless_Endurance.md "Relentless Endurance")
+- [坚韧不屈](Relentless_Endurance.md "坚韧不屈")
 
 生命值降至 0 时，恢复 1 点生命值，每[长休](Long_Rest.md "Long rest")一次。
 
-- [**凶蛮打击**](Savage_Attacks.md "Savage Attacks")
+- [凶蛮打击](Savage_Attacks.md "凶蛮打击")
 
 近战[重击](Critical_Hit.md "Critical hit")命中时，额外掷一个伤害骰。
 
@@ -137,7 +137,7 @@
 
 受到的[挥砍](Slashing.md "Slashing")伤害减少 1 点。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "Two-Weapon Fighting")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 进行副手攻击时，可以将你的[属性值调整值](Ability_score_modifier.md "Ability Score Modifier")加到攻击伤害上。
 
@@ -185,15 +185,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**防御**](Defence.md "Defence")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "Armour")时，[护甲等级](AC.md "AC") +1。
 
-- [**双持客**](Dual_Wielder.md "Dual Wielder")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
@@ -201,27 +201,27 @@
 
 双持时，[护甲等级](AC.md "AC") +1。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**精通重击**](Improved_Critical_Hit.md "Improved Critical Hit")
+- [精通重击](Improved_Critical_Hit.md "精通重击")
 
 攻击时，需要掷出[重击](Critical_Hit.md "Critical Hit")的数值降低 1。此效果可叠加。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "Improved Extra Attack")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后，可以再进行两次攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧不屈**](Relentless_Endurance.md "Relentless Endurance")
+- [坚韧不屈](Relentless_Endurance.md "坚韧不屈")
 
 生命值降至 0 时，恢复 1 点生命值，每[长休](Long_Rest.md "Long rest")一次。
 
-- [**凶蛮打击**](Savage_Attacks.md "Savage Attacks")
+- [凶蛮打击](Savage_Attacks.md "凶蛮打击")
 
 近战[重击](Critical_Hit.md "Critical hit")命中时，额外掷一个伤害骰。
 
@@ -229,7 +229,7 @@
 
 受到的[挥砍](Slashing.md "Slashing")伤害减少 1 点。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "Two-Weapon Fighting")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 进行副手攻击时，可以将你的[属性值调整值](Ability_score_modifier.md "Ability Score Modifier")加到攻击伤害上。
 
@@ -277,15 +277,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**防御**](Defence.md "Defence")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "Armour")时，[护甲等级](AC.md "AC") +1。
 
-- [**双持客**](Dual_Wielder.md "Dual Wielder")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也能使用双武器战斗。
 
@@ -293,27 +293,27 @@
 
 双持时，[护甲等级](AC.md "AC") +1。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**精通重击**](Improved_Critical_Hit.md "Improved Critical Hit")
+- [精通重击](Improved_Critical_Hit.md "精通重击")
 
 攻击时，需要掷出[重击](Critical_Hit.md "Critical Hit")的数值降低 1。此效果可叠加。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "Improved Extra Attack")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后，可以再进行两次攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧不屈**](Relentless_Endurance.md "Relentless Endurance")
+- [坚韧不屈](Relentless_Endurance.md "坚韧不屈")
 
 生命值降至 0 时，恢复 1 点生命值，每[长休](Long_Rest.md "Long rest")一次。
 
-- [**凶蛮打击**](Savage_Attacks.md "Savage Attacks")
+- [凶蛮打击](Savage_Attacks.md "凶蛮打击")
 
 近战[重击](Critical_Hit.md "Critical hit")命中时，额外掷一个伤害骰。
 
@@ -321,7 +321,7 @@
 
 受到的[挥砍](Slashing.md "Slashing")伤害减少 1 点。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "Two-Weapon Fighting")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 进行副手攻击时，可以将你的[属性值调整值](Ability_score_modifier.md "Ability Score Modifier")加到攻击伤害上。
 
@@ -343,13 +343,13 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 可观战利品](#notable-loot)
-- [3 闲谈](#idle-banter)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 可观战利品](#可观战利品)
+- [3 闲谈](#闲谈)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 出场
 

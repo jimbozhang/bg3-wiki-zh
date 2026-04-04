@@ -1,6 +1,6 @@
 # 夺心魔支配
 
-**夺心魔支配**是一个[4级惑控学派法术](Spells.md "Spells")。此法术允许[夺心魔](Mind_flayer.md "夺心魔")[受控](Dominated_(Condition)附近.md)的[类人生物](Humanoid.md "Humanoid")。
+**夺心魔支配**是一个[法术](Spells.md "法术")。此法术允许[夺心魔](Mind_flayer.md "夺心魔")[受控](Dominated_(Condition)附近.md)的[类人生物](Humanoid.md "Humanoid")。
 
 ## 描述
 

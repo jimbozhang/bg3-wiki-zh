@@ -18,7 +18,7 @@
 佩戴此物品的生物获得：
 
 [救急扶伤](Saviour's_Allure.md "Saviour's Allure")
-每次治疗另一个生物时，你会额外恢复 2⁠⁠[生命值](Healing.md "Healing")。
+每次治疗另一个生物时，你会额外恢复 2⁠⁠[治疗](Healing.md "治疗")。
 
 ## 备注
 

@@ -1,6 +1,6 @@
 # 卡尔萨斯强迫术
 
-**卡尔萨斯强迫术**是[9级惑控学派法术](Spells.md "Spells")。它由[王冠耐色石](Triune_Netherstone.md "Triune Netherstone")授予，仅能由[完整的灵吸怪](Full-illithid.md "Full-Illithid")使用，以控制[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")。
+**卡尔萨斯强迫术**是[法术](Spells.md "法术")。它由[王冠耐色石](Triune_Netherstone.md "Triune Netherstone")授予，仅能由[完整的灵吸怪](Full-illithid.md "Full-Illithid")使用，以控制[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")。
 
 ## 描述
 

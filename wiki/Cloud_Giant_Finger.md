@@ -1,6 +1,6 @@
 # 云巨人手指
 
-**云巨人手指**是一种[炼金术材料](Alchemy.md "炼金术")。将3个云巨人手指研磨成[云巨人指甲盐](Salts_of_Cloud_Giant_Fingernails.md "云巨人指甲盐")，可用于制作[云巨人力量灵药](Elixir_of_Cloud_Giant_Strength.md "云巨人力量灵药")。
+**云巨人手指**是一种[炼金术](Alchemy.md "炼金术")。将3个云巨人手指研磨成[云巨人指甲盐](Salts_of_Cloud_Giant_Fingernails.md "云巨人指甲盐")，可用于制作[云巨人力量灵药](Elixir_of_Cloud_Giant_Strength.md "云巨人力量灵药")。
 
 手指上的血液凝结成奇异的漩涡图案——宛如积云的怪诞仿制品。
 

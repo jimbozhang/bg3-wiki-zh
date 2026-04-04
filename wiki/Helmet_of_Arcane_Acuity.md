@@ -26,7 +26,7 @@
 
 ## 备注
 
-- 箱子可以用DC 14的[巧手](Sleight_of_Hand.md "Sleight_of_Hand") [检定](Ability_Check.md "属性检定")打开，并且可以用DC 15的[察觉技能](Perception.md "Perception") [检定](Ability_Check.md "属性检定")感知到陷阱，然后用DC 21的[巧手](Sleight_of_Hand.md "Sleight_of_Hand") [检定](Ability_Check.md "属性检定")解除陷阱。如果在解除陷阱前撬锁，陷阱会触发一个DC 15豁免检定的4级[曳光弹](Guiding_Bolt.md "Guiding Bolt")以抵消它。
+- 箱子可以用DC 14的[巧手](Sleight_of_Hand.md "Sleight_of_Hand") [属性检定](Ability_Check.md "属性检定")打开，并且可以用DC 15的[察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")感知到陷阱，然后用DC 21的[巧手](Sleight_of_Hand.md "Sleight_of_Hand") [属性检定](Ability_Check.md "属性检定")解除陷阱。如果在解除陷阱前撬锁，陷阱会触发一个DC 15豁免检定的4级[曳光弹](Guiding_Bolt.md "Guiding Bolt")以抵消它。
 - 地下室通过石匠公会中的一个活板门进入，秘密区域可以通过撬锁或对**钥匙孔信使**使用[塔型钥匙](Tower-Shaped_Key.md "Tower-Shaped Key")来打开。
 
 ## 错误

@@ -29,7 +29,7 @@
 
 _关于守护之手：_
 
-- “引导誓言法术”包括所有各种[圣武士](Paladin.md "Paladin")[引导誓言](Channel_Oath_Charge.md "Channel Oath Charge")_能力_，这些在 D&D 术语中通常不被视为“法术”。然而，这不包括誓言_法术_（圣武士副职特有的、总是准备好的法术）。
+- “引导誓言法术”包括所有各种[圣武士](Paladin.md "Paladin")[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")_能力_，这些在 D&D 术语中通常不被视为“法术”。然而，这不包括誓言_法术_（圣武士副职特有的、总是准备好的法术）。
 
 ---
 *Source: [Gloves of Succour](https://bg3.wiki/wiki/Gloves_of_Succour)*

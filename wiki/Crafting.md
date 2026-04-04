@@ -1,6 +1,6 @@
 # 制造
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Crafting.md "Special:WhatLinksHere/Crafting")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[制造](Special_colon_WhatLinksHere/Crafting.md "制造")的，请考虑编辑该链接，将其指向正确的页面。
 
 **制造**可能指：
 

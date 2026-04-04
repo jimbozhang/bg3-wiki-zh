@@ -2,13 +2,13 @@
 
 另请参阅：[巨化（灰矮人）](Enlarge_(Duergar).md)
 
-**巨化**是一个[2级变化学派法术](Spells.md "Spells")。此法术允许施法者增加一个生物的身体尺寸。受影响的生物用武器造成更多伤害，并在[力量](Strength.md "Strength")[检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上获得[优势](Advantage.md "Advantage")。
+**巨化**是一个[法术](Spells.md "法术")。此法术允许施法者增加一个生物的身体尺寸。受影响的生物用武器造成更多伤害，并在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上获得[优势](Advantage.md "Advantage")。
 
 ## 描述
 
 使一个生物变大。
 
-其武器造成额外的**1d4**伤害。它在[力量](Strength.md "Strength")[检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上获得[优势](Advantage.md "Advantage")。
+其武器造成额外的**1d4**伤害。它在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上获得[优势](Advantage.md "Advantage")。
 
 ## 属性
 
@@ -38,15 +38,15 @@ UID
 
 持续时间：10驱散
 
-[体](Constitution.md "Constitution")[豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - [体型](Creature_size.md "Creature Size")增加。
-- 武器攻击造成**1d4**更多伤害。在[力量](Strength.md "Strength")[检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上获得[优势](Advantage.md "Advantage")。
+- 武器攻击造成**1d4**更多伤害。在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上获得[优势](Advantage.md "Advantage")。
 
 ## 学习方法
 
 此法术是以下法术的变体：
-[巨化/缩小](Enlarge/Reduce.md "巨化/缩小")
+[缩小](Enlarge/Reduce.md "缩小")
 
 ## 备注
 

@@ -75,17 +75,17 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 13 / (+1) | 11 / (0) | 14 / (+2) | 12 / (+1) | 16 / (+3) | 12 / (+1) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**意志之鞭**](Willing_Whip.md "意志之鞭")
+- [意志之鞭](Willing_Whip.md "意志之鞭")
 
 获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源") 伤害。
 
@@ -131,17 +131,17 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | 0 | +2 | +1 | +5 | +3 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**意志之鞭**](Willing_Whip.md "意志之鞭")
+- [意志之鞭](Willing_Whip.md "意志之鞭")
 
 获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源") 伤害。
 
@@ -187,17 +187,17 @@
 | --- | --- | --- | --- |
 |  | 1 | 0 | 3 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**意志之鞭**](Willing_Whip.md "意志之鞭")
+- [意志之鞭](Willing_Whip.md "意志之鞭")
 
 获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源") 伤害。
 
@@ -227,23 +227,23 @@ Stats
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 对话](#dialogue)
-  - [2.1 未能忍住痛苦](#fail-to-hold-back-the-pain)
-  - [2.2 哭喊求饶](#cry-out-for-mercy)
-  - [2.3 告诉他打重一点](#telling-him-to-hit-harder)
-  - [2.4 使用武僧训练](#use-monk-training)
-  - [2.5 使用吟游诗人技能](#using-bard-skills)
-- [3 伙伴好感度](#companion-approval)
-- [4 战利品](#loot)
-- [5 相关文献](#related-literature)
-- [6 战斗](#combat)
-  - [6.1 攻击与能力](#attacks-and-abilities)
-- [7 注释](#notes)
-- [8 画廊](#gallery)
-- [9 注释与参考文献](#notes-and-references)
-- [10 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+- [2 对话](#对话)
+  - [2.1 未能忍住痛苦](#未能忍住痛苦)
+  - [2.2 哭喊求饶](#哭喊求饶)
+  - [2.3 告诉他打重一点](#告诉他打重一点)
+  - [2.4 使用武僧训练](#使用武僧训练)
+  - [2.5 使用吟游诗人技能](#使用吟游诗人技能)
+- [3 伙伴好感度](#伙伴好感度)
+- [4 战利品](#战利品)
+- [5 相关文献](#相关文献)
+- [6 战斗](#战斗)
+  - [6.1 攻击与能力](#攻击与能力)
+- [7 注释](#注释)
+- [8 画廊](#画廊)
+- [9 注释与参考文献](#注释与参考文献)
+- [10 外部链接](#外部链接)
 
 ## 参与度
 
@@ -404,7 +404,7 @@ Stats
 
 ## 注释与参考文献
 
-1. [↑](#cite_ref-1) 必须选择第一个对话选项，而不是引用他 [书](On_Receiving_Her_Grace.md "接受她的恩典之时") 的那个。
+1. [↑](#cite_ref-1) 必须选择第一个对话选项，而不是引用他 [接受她的恩典之时](On_Receiving_Her_Grace.md "接受她的恩典之时") 的那个。
 1. [↑](#cite_ref-2) 在 [幽暗地域](Underdark.md "幽暗地域") 的其中一个 [牛头人](Minotaur.md "牛头人") 身上找到，最简单的途径是通过 [散塔林会地下室](Zhentarim_Basement.md "散塔林会地下室")。
 
 ## 外部链接

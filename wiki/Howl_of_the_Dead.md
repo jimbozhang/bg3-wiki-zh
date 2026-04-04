@@ -1,6 +1,6 @@
 # 亡者哀嚎
 
-**亡者哀嚎** 是一个 [戏法](Spells.md "Spells")。它会使附近所有生物陷入 [麻木](Numbed_(Condition).md "Numbed (Condition)") 状态，并且可以在穿着 [收割者的拥抱](Reaper's_Embrace.md "Reaper's Embrace") 时施放。
+**亡者哀嚎** 是一个 [法术](Spells.md "法术")。它会使附近所有生物陷入 [麻木](Numbed_(Condition).md "Numbed (Condition)") 状态，并且可以在穿着 [收割者的拥抱](Reaper's_Embrace.md "Reaper's Embrace") 时施放。
 
 ## 描述
 

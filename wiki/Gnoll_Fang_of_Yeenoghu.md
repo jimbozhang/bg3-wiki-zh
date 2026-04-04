@@ -66,15 +66,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
 当通过[近战攻击](Bite_(Gnoll)使一个生.md)物[倒地](Downed_(Condition)时.md)，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并进行[啃咬](Bite_(Gnoll).md)。
 
@@ -118,15 +118,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
 当通过[近战攻击](Bite_(Gnoll)使一个生.md)物[倒地](Downed_(Condition)时.md)，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并进行[啃咬](Bite_(Gnoll).md)。
 
@@ -170,15 +170,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
 当通过[近战攻击](Bite_(Gnoll)使一个生.md)物[倒地](Downed_(Condition)时.md)，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并进行[啃咬](Bite_(Gnoll).md)。
 
@@ -188,11 +188,11 @@
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 重要战利品](#notable-loot)
-- [2 注释](#notes)
-- [3 外部链接](#external-links)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 重要战利品](#重要战利品)
+- [2 注释](#注释)
+- [3 外部链接](#外部链接)
 
 ## 战斗
 

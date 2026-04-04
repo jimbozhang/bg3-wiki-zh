@@ -2,7 +2,7 @@
 
 本文介绍的是召唤元素生物的一个特定变体。其他用法，请参见 [召唤元素生物（消歧义）](Conjure_Elemental_(disambiguation)..md)
 
-**召唤元素生物：风元素执政官** 是一个 [6级咒法学派法术](Spells.md "Spells")。此法术是 [召唤元素生物](Conjure_Elemental.md "召唤元素生物") 的一个变体，允许施法者召唤一个 [风元素执政官](Air_Myrmidon.md "风元素执政官")。
+**召唤元素生物：风元素执政官** 是一个 [法术](Spells.md "法术")。此法术是 [召唤元素生物](Conjure_Elemental.md "召唤元素生物") 的一个变体，允许施法者召唤一个 [风元素执政官](Air_Myrmidon.md "风元素执政官")。
 
 ## 描述
 

@@ -73,11 +73,11 @@
 
 ## 特性
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -129,11 +129,11 @@
 
 ## 特性
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -185,15 +185,15 @@
 
 ## 特性
 
-- [**魅惑**](Charm.md "Charm")
+- [魅惑](Charm.md "魅惑")
 
 可以[魅惑](Charmed_(Condition).md) 攻击的敌人，阻止其在下一回合前进行进一步攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

@@ -102,23 +102,23 @@
 
 - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "Protection")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "Shields")时，对在1.5米（5英尺）范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "Disadvantage")。你必须能够看到该敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为7.5米（25英尺）。
 
@@ -170,23 +170,23 @@
 
 - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "Protection")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "Shields")时，对在1.5米（5英尺）范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "Disadvantage")。你必须能够看到该敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为7.5米（25英尺）。
 
@@ -238,23 +238,23 @@
 
 - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "Protection")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "Shields")时，对在1.5米（5英尺）范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "Disadvantage")。你必须能够看到该敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为7.5米（25英尺）。
 
@@ -284,11 +284,11 @@ Stats
 
 ## 目录
 
-- [1 参与度](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 外部链接](#external-links)
+- [1 参与度](#参与度)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 外部链接](#外部链接)
 
 ## 参与度
 

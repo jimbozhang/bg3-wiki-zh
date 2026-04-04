@@ -34,7 +34,7 @@ _维基数据库中未定义_
 
 | 状态 | 效果 |
 | --- | --- |
-| [失心狂怒](Berserk_(Condition).md "Berserk (Condition)") | 狂乱的愤怒折磨着受影响实体的肉体。其[多重攻击](Multiattack_(Flesh).md "Multiattack (Flesh)")每次攻击额外造成 1d8⁠⁠[钝击](Bludgeoning.md "Bludgeoning") 伤害，并使目标[倒伏](Prone_(Condition).md "Prone (Condition)")。它还获得对挥砍、穿刺和钝击伤害的[抗性](Resistance.md "Resistance")，并在力量[检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。如果受影响实体恢复全部生命值，此狂怒状态结束。 |
+| [失心狂怒](Berserk_(Condition).md "Berserk (Condition)") | 狂乱的愤怒折磨着受影响实体的肉体。其[多重攻击](Multiattack_(Flesh).md "Multiattack (Flesh)")每次攻击额外造成 1d8⁠⁠[钝击](Bludgeoning.md "Bludgeoning") 伤害，并使目标[倒伏](Prone_(Condition).md "Prone (Condition)")。它还获得对挥砍、穿刺和钝击伤害的[抗性](Resistance.md "Resistance")，并在力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。如果受影响实体恢复全部生命值，此狂怒状态结束。 |
 | [疯狂](Crown_of_Madness_(Condition).md "Crown of Madness (Condition)") | 被注入魔法疯狂。将攻击最近的生物（施法者除外）。 |
 | 暗影附身 | 受影响实体被狂乱的暗影附身，将攻击最近的生物。其武器攻击额外造成 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。 |
 

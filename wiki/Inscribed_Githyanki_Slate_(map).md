@@ -24,7 +24,7 @@
 
 ## 文本
 
-\[一幅地图蚀刻在这个精致的石盘上。[复苏之路](Risen_Road.md "复苏之路")蜿蜒穿过一个[山隘](Mountain_Pass.md "山隘")。山丘中坐落着一座宏伟的[修道院](Rosymorn_Monastery.md "瑰晨修道院")；在修道院内，[吉斯洋基人](Githyanki.md "吉斯洋基人")建立了一个[要塞。](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")象形文字揭示了他们的使命：代表吉斯洋基[女王](Vlaakith.md "维拉基斯")取回一个多面体圣物。\]
+\[一幅地图蚀刻在这个精致的石盘上。[复苏之路](Risen_Road.md "复苏之路")蜿蜒穿过一个[山隘](Mountain_Pass.md "山隘")。山丘中坐落着一座宏伟的[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")；在修道院内，[吉斯洋基人](Githyanki.md "吉斯洋基人")建立了一个[要塞。](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")象形文字揭示了他们的使命：代表吉斯洋基[维拉基斯](Vlaakith.md "维拉基斯")取回一个多面体圣物。\]
 
 ---
 *Source: [Inscribed Githyanki Slate (map)](https://bg3.wiki/wiki/Inscribed_Githyanki_Slate_(map)*

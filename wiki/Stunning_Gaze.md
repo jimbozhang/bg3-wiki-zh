@@ -1,6 +1,6 @@
 # 震慑凝视
 
-**震慑凝视**是某些[巴尔的死亡牧首](Bhaal.md "巴尔")使用的[附赠动作](Actions.md#Resources "动作")，可使目标陷入震慑。[邪念](The_Dark_Urge.md "邪念")也可以通过[最血腥的遗产](A_Most_Bloody_Inheritance_(Condition).md "最血腥的遗产 (状态)")获得此能力。
+**震慑凝视**是某些[巴尔](Bhaal.md "巴尔")使用的[附赠动作](Actions.md#Resources "动作")，可使目标陷入震慑。[邪念](The_Dark_Urge.md "邪念")也可以通过[最血腥的遗产](A_Most_Bloody_Inheritance_(Condition).md "最血腥的遗产 (状态)")获得此能力。
 
 ## 描述
 

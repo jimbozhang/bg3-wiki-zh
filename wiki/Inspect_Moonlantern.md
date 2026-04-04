@@ -22,7 +22,7 @@ UID
 
 **效果**
 
-与铃铛互动以与[多利三重](Dolly_Dolly_Dolly.md "多利多利多利")交谈。礼貌询问，她将为队伍提供永久的_\[[参见注释](Filigreed_Feywild_Bell.md#Notes "金银丝妖精荒野铃铛")\]_ [妖精祝福](Pixie_Blessing_(Condition).md), which protects against the deepest pockets of the [Shadow Curse](Shadow_Curse_(Condition)..md)
+与铃铛互动以与[多利多利多利](Dolly_Dolly_Dolly.md "多利多利多利")交谈。礼貌询问，她将为队伍提供永久的_\[[参见注释](Filigreed_Feywild_Bell.md#Notes "金银丝妖精荒野铃铛")\]_ [妖精祝福](Pixie_Blessing_(Condition).md), which protects against the deepest pockets of the [Shadow Curse](Shadow_Curse_(Condition)..md)
 
 **属性**
 

@@ -71,11 +71,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -97,11 +97,11 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 其他食尸鬼角色](#other-ghoul-characters)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 其他食尸鬼角色](#其他食尸鬼角色)
+- [4 外部链接](#外部链接)
 
 ## 出场
 
@@ -121,7 +121,7 @@ UUID
 
 用致命的爪子猛击，并可能使目标[麻痹](Paralysed_(Condition).md "麻痹 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战: 1.5 米 (5 英尺)
 
 [吞噬](Devour_(Ghoul).md "吞噬 (食尸鬼)") ()

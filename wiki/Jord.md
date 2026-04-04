@@ -34,7 +34,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -106,23 +106,23 @@
 
 ## 特性
 
-- [**精通荒野打击**](Improved_Wild_Strike.md "精通荒野打击")
+- [精通荒野打击](Improved_Wild_Strike.md "精通荒野打击")
 
 在动物荒野形态下进行徒手或武器打击后，可以进行 **2** 次额外**攻击**。
 
-- [**自然防护**](Nature's_Ward.md "自然防护")
+- [自然防护](Nature's_Ward.md "自然防护")
 
 不会被元素生物和妖精[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫疾病。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**原初打击**](Primal_Strike.md "原初打击")
+- [原初打击](Primal_Strike.md "原初打击")
 
 在野兽形态下，你的攻击被视为魔法攻击，用于克服对非魔法伤害的[抗性](Resistance.md "抗性")和[免疫](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")。
 
-- [**荒野打击**](Wild_Strike.md "荒野打击")
+- [荒野打击](Wild_Strike.md "荒野打击")
 
 在动物荒野形态下进行徒手或武器打击后，可以进行一次额外**攻击**。
 
@@ -174,23 +174,23 @@
 
 ## 特性
 
-- [**精通荒野打击**](Improved_Wild_Strike.md "精通荒野打击")
+- [精通荒野打击](Improved_Wild_Strike.md "精通荒野打击")
 
 在动物荒野形态下进行徒手或武器打击后，可以进行 **2** 次额外**攻击**。
 
-- [**自然防护**](Nature's_Ward.md "自然防护")
+- [自然防护](Nature's_Ward.md "自然防护")
 
 不会被元素生物和妖精[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫疾病。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**原初打击**](Primal_Strike.md "原初打击")
+- [原初打击](Primal_Strike.md "原初打击")
 
 在野兽形态下，你的攻击被视为魔法攻击，用于克服对非魔法伤害的[抗性](Resistance.md "抗性")和[免疫](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")。
 
-- [**荒野打击**](Wild_Strike.md "荒野打击")
+- [荒野打击](Wild_Strike.md "荒野打击")
 
 在动物荒野形态下进行徒手或武器打击后，可以进行一次额外**攻击**。
 
@@ -242,23 +242,23 @@
 
 ## 特性
 
-- [**精通荒野打击**](Improved_Wild_Strike.md "精通荒野打击")
+- [精通荒野打击](Improved_Wild_Strike.md "精通荒野打击")
 
 在动物荒野形态下进行徒手或武器打击后，可以进行 **2** 次额外**攻击**。
 
-- [**自然防护**](Nature's_Ward.md "自然防护")
+- [自然防护](Nature's_Ward.md "自然防护")
 
 不会被元素生物和妖精[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫疾病。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**原初打击**](Primal_Strike.md "原初打击")
+- [原初打击](Primal_Strike.md "原初打击")
 
 在野兽形态下，你的攻击被视为魔法攻击，用于克服对非魔法伤害的[抗性](Resistance.md "抗性")和[免疫](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")。
 
-- [**荒野打击**](Wild_Strike.md "荒野打击")
+- [荒野打击](Wild_Strike.md "荒野打击")
 
 在动物荒野形态下进行徒手或武器打击后，可以进行一次额外**攻击**。
 
@@ -315,7 +315,7 @@ Stats
 充能：[短休](Short_rest.md "短休")
 
 [人类定身术](Hold_Person.md "人类定身术") (+ )
-定住一个类人生物敌人。他们不能[移动](Movement_speed.md "移动速度")、[行动](Action.md "动作")或[反应](Reaction_(Resource)..md) 来自3米/10英尺范围内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")以结束此状态。
+定住一个类人生物敌人。他们不能[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 来自3米/10英尺范围内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18米（60英尺）

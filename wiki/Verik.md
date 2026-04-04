@@ -101,7 +101,7 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 [劣势地形](Difficult_Terrain_(Condition).md) 不会使你减速，且当你未穿着[护甲](Armour.md "Armour")或使用[盾牌](Shields.md "Shields")时，可额外[跳跃](Jump.md "Jump")6 米 / 20 英尺。
 
@@ -109,15 +109,15 @@
 
 使用你的[反应](reaction.md "reaction")将一次[远程武器攻击](Ranged_Weapon_Attack.md "远程武器攻击")的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "Modifier") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击视为魔法攻击，以克服敌人的非魔法伤害抗性和免疫。
 
@@ -133,15 +133,15 @@
 
 武僧武器和徒手攻击造成 1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，除非其正常伤害更高。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深重。
 
-- [**轻身坠**](Slow_Fall.md "轻身坠")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，可使用你的[反应](reaction.md "reaction")获得对坠落伤害的[抗性](Resistance.md "Resistance")。
 
@@ -153,7 +153,7 @@
 
 你的反射如同任何[护甲](Armour.md "Armour")般有效。未穿着护甲时，你的[护甲等级](Armour_Class.md "护甲等级")会加上你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "Wisdom")。
 
-- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿着护甲或使用盾牌时，移动速度增加 3 米 / 10 英尺。
 
@@ -211,7 +211,7 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 [劣势地形](Difficult_Terrain_(Condition).md) 不会使你减速，且当你未穿着[护甲](Armour.md "Armour")或使用[盾牌](Shields.md "Shields")时，可额外[跳跃](Jump.md "Jump")6 米 / 20 英尺。
 
@@ -219,15 +219,15 @@
 
 使用你的[反应](reaction.md "reaction")将一次[远程武器攻击](Ranged_Weapon_Attack.md "远程武器攻击")的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "Modifier") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击视为魔法攻击，以克服敌人的非魔法伤害抗性和免疫。
 
@@ -243,15 +243,15 @@
 
 武僧武器和徒手攻击造成 1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，除非其正常伤害更高。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深重。
 
-- [**轻身坠**](Slow_Fall.md "轻身坠")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，可使用你的[反应](reaction.md "reaction")获得对坠落伤害的[抗性](Resistance.md "Resistance")。
 
@@ -263,7 +263,7 @@
 
 你的反射如同任何[护甲](Armour.md "Armour")般有效。未穿着护甲时，你的[护甲等级](Armour_Class.md "护甲等级")会加上你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "Wisdom")。
 
-- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿着护甲或使用盾牌时，移动速度增加 3 米 / 10 英尺。
 
@@ -321,7 +321,7 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 [劣势地形](Difficult_Terrain_(Condition).md) 不会使你减速，且当你未穿着[护甲](Armour.md "Armour")或使用[盾牌](Shields.md "Shields")时，可额外[跳跃](Jump.md "Jump")6 米 / 20 英尺。
 
@@ -329,15 +329,15 @@
 
 使用你的[反应](reaction.md "reaction")将一次[远程武器攻击](Ranged_Weapon_Attack.md "远程武器攻击")的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "Modifier") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击视为魔法攻击，以克服敌人的非魔法伤害抗性和免疫。
 
@@ -353,15 +353,15 @@
 
 武僧武器和徒手攻击造成 1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，除非其正常伤害更高。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深重。
 
-- [**轻身坠**](Slow_Fall.md "轻身坠")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，可使用你的[反应](reaction.md "reaction")获得对坠落伤害的[抗性](Resistance.md "Resistance")。
 
@@ -373,7 +373,7 @@
 
 你的反射如同任何[护甲](Armour.md "Armour")般有效。未穿着护甲时，你的[护甲等级](Armour_Class.md "护甲等级")会加上你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "Wisdom")。
 
-- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿着护甲或使用盾牌时，移动速度增加 3 米 / 10 英尺。
 
@@ -395,14 +395,14 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
 
 ## 参与
 
-在[第二幕](Act_Two.md "第二幕")结束时的长休期间，队伍突然被各种吉斯洋基武僧的攻击惊醒。随后，队伍被[梦境守护者](Dream_Guardian.md "梦境守护者")召唤进一个传送门，揭示其真实身份为[君主](The_Emperor.md "The Emperor")。它请求队伍帮助，因为维里克和其他武僧正在入侵[星界棱镜](Mysterious_Artefact.md "神秘遗物")以释放吉斯之子俄耳甫斯，而事实证明俄耳甫斯正被囚禁在棱镜内。无论队伍如何回答君主，吉斯洋基人都会攻击队伍。
+在[第二幕](Act_Two.md "第二幕")结束时的长休期间，队伍突然被各种吉斯洋基武僧的攻击惊醒。随后，队伍被[梦境守护者](Dream_Guardian.md "梦境守护者")召唤进一个传送门，揭示其真实身份为[君主](The_Emperor.md "The Emperor")。它请求队伍帮助，因为维里克和其他武僧正在入侵[神秘遗物](Mysterious_Artefact.md "神秘遗物")以释放吉斯之子俄耳甫斯，而事实证明俄耳甫斯正被囚禁在棱镜内。无论队伍如何回答君主，吉斯洋基人都会攻击队伍。
 
 ## 战斗
 

@@ -60,25 +60,25 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "Permanently Armed")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving_throws")具有[优势](Advantage.md "Advantage")。
 
-- [**自然步伐**](Nature's_Step.md "Nature's Step")
+- [自然步伐](Nature's_Step.md "自然步伐")
 
 改变你周围的地形，使该区域附近的盟友能够轻松移动。
 
 你和范围内 4 米 / 13 英尺内的盟友不受[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")影响，不会被[束缚](Restrained_(Condition).md "束缚 (状态)")或[麻痹](Paralysed_(Condition).md "麻痹 (状态)")，并获得对[中毒](Poison.md "中毒")伤害的[抗性](Resistance.md "Resistance")。
 
-- [**森林之握**](Grasp_of_the_Forest.md "Grasp of the Forest")
+- [森林之握](Grasp_of_the_Forest.md "森林之握")
 
 武器攻击可以使目标[缠绕](Entangled_(Condition).md "缠绕 (状态)")。
 
@@ -120,25 +120,25 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "Permanently Armed")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving_throws")具有[优势](Advantage.md "Advantage")。
 
-- [**自然步伐**](Nature's_Step.md "Nature's Step")
+- [自然步伐](Nature's_Step.md "自然步伐")
 
 改变你周围的地形，使该区域附近的盟友能够轻松移动。
 
 你和范围内 4 米 / 13 英尺内的盟友不受[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")影响，不会被[束缚](Restrained_(Condition).md "束缚 (状态)")或[麻痹](Paralysed_(Condition).md "麻痹 (状态)")，并获得对[中毒](Poison.md "中毒")伤害的[抗性](Resistance.md "Resistance")。
 
-- [**森林之握**](Grasp_of_the_Forest.md "Grasp of the Forest")
+- [森林之握](Grasp_of_the_Forest.md "森林之握")
 
 武器攻击可以使目标[缠绕](Entangled_(Condition).md "缠绕 (状态)")。
 

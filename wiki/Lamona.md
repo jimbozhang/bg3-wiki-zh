@@ -16,7 +16,7 @@
 
 ### 阵营
 
-[莎尔教会](Shar.md "Shar")
+[莎尔](Shar.md "莎尔")
 
 ## 属性
 
@@ -94,23 +94,23 @@
 
 - - - - ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
@@ -160,23 +160,23 @@
 
 - - - - ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
@@ -226,23 +226,23 @@
 
 - - - - ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")上具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
@@ -272,11 +272,11 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 外部链接](#外部链接)
 
 ## 参与情况
 
@@ -284,7 +284,7 @@ UUID
 
 战斗开始时，她是所有莎尔信徒中唯一拥有[暂时敌对](Temporarily_Hostile_(Condition).md "Temporarily Hostile (Condition)")状态的单位。
 
-如果队伍在战斗中使用[非致命攻击](Toggle_Non-Lethal_Attacks.md "Toggle Non-Lethal Attacks")击败她，她会在[长休](Long_Rest.md "Long rest")后变为中立，之后可以与她对话。
+如果队伍在战斗中使用[非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")击败她，她会在[长休](Long_Rest.md "Long rest")后变为中立，之后可以与她对话。
 
 ## 战斗
 
@@ -317,7 +317,7 @@ UUID
 
 使用装备的武器进行近战攻击。
 
-从[阴影](Lightly_Obscured.md "Lightly Obscured")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
 
 [摔绊](Topple.md "Topple") () – [长棍](Quarterstaff.md "Quarterstaff")
 

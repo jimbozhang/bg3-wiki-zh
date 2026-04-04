@@ -74,15 +74,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -126,15 +126,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -178,15 +178,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
@@ -206,12 +206,12 @@
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-- [2 已知的焰拳守护者](#known-flaming-fist-protectors)
-  - [2.1 矮人](#dwarven)
-  - [2.2 人类](#human)
-  - [2.3 提夫林](#tiefling)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+- [2 已知的焰拳守护者](#已知的焰拳守护者)
+  - [2.1 矮人](#矮人)
+  - [2.2 人类](#人类)
+  - [2.3 提夫林](#提夫林)
 
 ## 战斗
 

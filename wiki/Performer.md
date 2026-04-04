@@ -1,6 +1,6 @@
 # 表演者
 
-**表演者** 是一个被动特性，它授予你对[乐器](Proficiency.md "熟练项")的[熟练项](Proficiency.md "熟练项")。
+**表演者** 是一个被动特性，它授予你对[熟练项](Proficiency.md "熟练项")的[熟练项](Proficiency.md "熟练项")。
 
 ## 描述
 

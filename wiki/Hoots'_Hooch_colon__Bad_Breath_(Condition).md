@@ -12,7 +12,7 @@
 
 持续时间：1 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
 
 - 无法采取[动作](Action.md "动作")
 

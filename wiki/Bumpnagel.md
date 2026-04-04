@@ -93,23 +93,23 @@
 
 ## 特性
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**岩石伪装**](Stone_Camouflage.md "Stone Camouflage")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
 你在[隐匿](Stealth.md "Stealth")检定上具有[优势](Advantage.md "Advantage")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -157,23 +157,23 @@
 
 ## 特性
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**岩石伪装**](Stone_Camouflage.md "Stone Camouflage")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
 你在[隐匿](Stealth.md "Stealth")检定上具有[优势](Advantage.md "Advantage")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -221,23 +221,23 @@
 
 ## 特性
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**岩石伪装**](Stone_Camouflage.md "Stone Camouflage")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
 你在[隐匿](Stealth.md "Stealth")检定上具有[优势](Advantage.md "Advantage")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -267,11 +267,11 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 出售物品](#items-for-sale)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-- [4 相关任务](#related-quests)
+- [1 参与](#参与)
+- [2 出售物品](#出售物品)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+- [4 相关任务](#相关任务)
 
 ## 参与
 

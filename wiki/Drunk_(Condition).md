@@ -4,7 +4,7 @@
 
 **醉酒**
 
-- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 ## 属性
 
@@ -39,18 +39,18 @@
 
 ## 具有相同堆叠ID的状态
 
-- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 [火酒腹](Firewine_Belly_(Condition).md "火酒腹 (状态)")
 |
 
-- 因火酒而醉。在[魅力](Charisma.md "魅力")和[敏捷](Dexterity.md "敏捷")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")
+- 因火酒而醉。在[魅力](Charisma.md "魅力")和[敏捷](Dexterity.md "敏捷")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")
 - 如果醉酒实体被[火焰](Fire.md "火焰")杀死，则会发生[火酒爆炸](Firewine_Explosion.md "火酒爆炸")。
 
 [宿醉](Hungover_(Condition).md "宿醉 (状态)")
 |
 
-- 你在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 你在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 - 你告诉自己“我再也不喝酒了”。你是个骗子。
 
 ## 简要预览

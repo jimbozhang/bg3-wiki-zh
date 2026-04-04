@@ -93,15 +93,15 @@
 
 - - - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 在战斗期间，所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -153,15 +153,15 @@
 
 - - - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 在战斗期间，所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -213,15 +213,15 @@
 
 - - - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 在战斗期间，所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -251,10 +251,10 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 出场
 
@@ -281,7 +281,7 @@ Stats
 
 对目标造成 8d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。植物受到此法术的最大伤害，并且在对抗它的[豁免检定](Saving_throw.md "豁免检定")时具有[劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 
 [震荡猛击](Concussive_Smash.md "震荡猛击") ()
@@ -292,7 +292,7 @@ Stats
 
 全力击中敌人，造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 
@@ -302,7 +302,7 @@ Stats
 
 每次该生物受到伤害时，可重复进行对抗你支配的[豁免检定](Saving_throw.md "豁免检定")。
 
-[感](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [致伤术](Inflict_Wounds.md "致伤术") (+ )
@@ -333,7 +333,7 @@ Stats
 
 用其最深恐惧的幻象纠缠一个生物。每回合受到 4d10⁠⁠[心灵](Psychic.md "心灵")伤害，无法移动，在[属性检定](Ability_checks.md "属性检定")和[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[劣势](Disadvantage.md "劣势")。
 
-[感](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [精魂守卫：黯蚀](Spirit_Guardians_(Necrotic).md "精魂守卫：黯蚀") (+ )
@@ -346,7 +346,7 @@ Stats
 
 附近的敌人每回合受到 3d8[黯蚀](Necrotic.md "黯蚀")伤害，并且其[移动速度](Movement_speed.md "移动速度")减半。持续 10 回合。
 
-[感](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
 ### 战利品

@@ -18,7 +18,7 @@
 
 - UID `S_LOW_BaldursMouth_NoteFromSkaraiBervos` UUID `d4befa63-96c5-4ca1-b516-008854cee1e2` ## 获取地点
 
-- 在[下城区](Lower_City.md "Lower City") X: 101 Y: -69 处的一个小袋子里。一次 DC 10 的[察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")会高亮显示这个小袋子。
+- 在[下城区](Lower_City.md "Lower City") X: 101 Y: -69 处的一个小袋子里。一次 DC 10 的[察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")会高亮显示这个小袋子。
 
 ## 文本
 

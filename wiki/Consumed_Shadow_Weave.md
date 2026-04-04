@@ -14,7 +14,7 @@
 
 ## 备注
 
-- 如果盖尔尚未[稳定](The_Wizard_of_Waterdeep.md "深水城的法师")[耐瑟瑞尔奥术球](Netheril.md#Netherese_orb "耐瑟瑞尔")，则无法使用吞噬阴影魔网。
+- 如果盖尔尚未[深水城的法师](The_Wizard_of_Waterdeep.md "深水城的法师")[耐瑟瑞尔奥术球](Netheril.md#Netherese_orb "耐瑟瑞尔")，则无法使用吞噬阴影魔网。
 
 ## 错误
 

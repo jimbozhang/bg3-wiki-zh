@@ -19,14 +19,14 @@ Currently in progress by Padme4000 thanks to Saku for helping.
 
 ## Contents
 
-- [1 Information on using this resource](#information-on-using-this-resource)
-- [2 Beards](#beards)
+- [1 Information on using this resource](#Information-on-using-this-resource)
+- [2 Beards](#Beards)
   - [2.1 NPC Beards](#npc-beards)
-- [3 Hairs](#hairs)
-  - [3.1 NPC Hairs](#npc-hairs)
-- [4 Hair Textures](#hair-textures)
-- [5 Helmet Hairs](#helmet-hairs)
-- [6 Vertex Paint Colours for Hairs/Beards](#vertex-paint-colours-for-hairs/Beards)
+- [3 Hairs](#Hairs)
+  - [3.1 NPC Hairs](#NPC-Hairs)
+- [4 Hair Textures](#Hair-Textures)
+- [5 Helmet Hairs](#Helmet-Hairs)
+- [6 Vertex Paint Colours for Hairs/Beards](#Vertex-Paint-Colours-for-Hairs-Beards)
 
 ## Information on using this resource
 

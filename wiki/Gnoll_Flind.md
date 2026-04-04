@@ -81,15 +81,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -147,15 +147,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -213,15 +213,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -261,17 +261,17 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第一章](#act-one)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 盟友](#allies)
-  - [3.3 战术](#tactics)
-  - [3.4 战利品](#loot)
-- [4 注释](#notes)
-- [5 相关文献](#related-literature)
-- [6 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第一章](#第一章)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 盟友](#盟友)
+  - [3.3 战术](#战术)
+  - [3.4 战利品](#战利品)
+- [4 注释](#注释)
+- [5 相关文献](#相关文献)
+- [6 外部链接](#外部链接)
 
 ## 概述
 

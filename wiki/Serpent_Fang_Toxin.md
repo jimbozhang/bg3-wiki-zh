@@ -45,7 +45,7 @@
 
 **[蛇牙毒素](Serpent_Fang_Toxin_(Condition).md "蛇牙毒素 (状态)")**
 
-[体](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 13)
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 13)
 
 - 受影响实体在其下一回合结束时受到 1d6⁠⁠[中毒](Poison.md "中毒")伤害。
 

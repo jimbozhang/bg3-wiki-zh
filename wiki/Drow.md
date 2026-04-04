@@ -22,7 +22,7 @@
 中型
 
 [卓尔武器训练](Drow_Weapon_Training.md "Drow Weapon Training")
-你[熟练](Proficiency.md "Proficiency")使用[刺剑](Rapiers.md "Rapiers")、[短剑](Shortswords.md "Shortswords")和[手弩](Hand_Crossbows.md "Hand Crossbows")。
+你[熟练项](Proficiency.md "熟练项")使用[刺剑](Rapiers.md "Rapiers")、[短剑](Shortswords.md "Shortswords")和[手弩](Hand_Crossbows.md "Hand Crossbows")。
 
 [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
 可在黑暗中视物，范围达 24 米 / 80 英尺。

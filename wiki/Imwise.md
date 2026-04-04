@@ -85,15 +85,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
@@ -141,15 +141,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
@@ -197,15 +197,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
@@ -227,10 +227,10 @@ Stats
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 值得一提的战利品](#notable-loot)
-- [2 相关文献](#related-literature)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 值得一提的战利品](#值得一提的战利品)
+- [2 相关文献](#相关文献)
 
 ## 战斗
 

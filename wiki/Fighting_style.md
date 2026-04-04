@@ -11,7 +11,7 @@
 ## 战斗风格列表
 
 [战士](Fighter.md "Fighter") | [圣武士](Paladin.md "Paladin") | [游侠](Ranger.md "Ranger") | [剑舞学院](College_of_Swords.md "College_of_Swords") 吟游诗人 | [冠军勇士](Champion.md "Champion") 战士 [箭术](Archery.md "Archery") | ✓ | ✓ | ✓ | 你使用远程[武器](Weapons.md "Weapons")进行的[攻击掷骰](Attack_roll.md "Attack Roll")获得+2加值。 [防御](Defence.md "Defence") | ✓ | ✓ | ✓ | ✓ | 当你穿着[护甲](Armour.md "Armour")时，你的[护甲等级](Armour_Class.md "Armour Class")获得+1加值。 [对决](Duelling.md "Duelling") | ✓ | ✓ | ✓ | ✓ | ✓ | 当你单手持握一件非双手近战武器，且另一只手未持武器时，你使用该武器造成的伤害额外+2。
-[巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting") | ✓ | ✓ | ✓ | 当你使用[双手近战武器](Weapons.md "Weapons")进行攻击时，若伤害骰掷出1或2，该骰子可重掷一次。 [守护](Protection.md "Protection") | ✓ | ✓ | ✓ | 当你持有[盾牌](Shields.md "Shields")时，若你在1.5米（5英尺）范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "Disadvantage")。你必须能看见该敌人。 [双武器战斗](Two_Weapon_Fighting.md "Two-Weapon Fighting") | ✓ | ✓ | ✓ | ✓ | 当你进行副手攻击时，你可以将你的[属性值调整值](Ability_score_modifier.md "Ability Score Modifier")加到该攻击的伤害上。
+[巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting") | ✓ | ✓ | ✓ | 当你使用[武器](Weapons.md "武器")进行攻击时，若伤害骰掷出1或2，该骰子可重掷一次。 [守护](Protection.md "Protection") | ✓ | ✓ | ✓ | 当你持有[盾牌](Shields.md "Shields")时，若你在1.5米（5英尺）范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "Disadvantage")。你必须能看见该敌人。 [双武器战斗](Two_Weapon_Fighting.md "Two-Weapon Fighting") | ✓ | ✓ | ✓ | ✓ | 当你进行副手攻击时，你可以将你的[属性值调整值](Ability_score_modifier.md "Ability Score Modifier")加到该攻击的伤害上。
 
 ---
 *Source: [Fighting style](https://bg3.wiki/wiki/Fighting_style)*

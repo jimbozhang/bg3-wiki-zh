@@ -10,8 +10,8 @@
     - [1.1.2 物品](#物品)
     - [1.1.3 职业特性](#职业特性)
   - [1.2 附赠动作](#附赠动作)
-    - [1.2.1 物品](#物品-2)
-    - [1.2.2 职业特性](#职业特性-2)
+    - [1.2.1 物品](#物品)
+    - [1.2.2 职业特性](#职业特性)
   - [1.3 反应](#反应)
   - [1.4 移动速度](#移动速度)
   - [1.5 恢复常见资源](#恢复常见资源)
@@ -23,8 +23,8 @@
   - [3.2 引导神力](#引导神力)
   - [3.3 引导誓言](#引导誓言)
   - [3.4 气](#气)
-    - [3.4.1 物品](#物品-3)
-    - [3.4.2 职业特性](#职业特性-3)
+    - [3.4.1 物品](#物品)
+    - [3.4.2 职业特性](#职业特性)
   - [3.5 术法点](#术法点)
   - [3.6 卓越骰子](#卓越骰子)
   - [3.7 荒野形态](#荒野形态)
@@ -99,14 +99,14 @@
 
 | 状态 | 来源 | 替代效果 | 状态持续时间 | 限制 |
 | --- | --- | --- | --- | --- |
-| [至死不渝](After_Death_Do_Us_Part_(passive_feature).md "至死不渝（被动特性）") | [至死不渝](After_Death_Do_Us_Part.md "至死不渝") 被动 | 12点最大[生命值](Healing.md "治疗") | 持续时间：永久 | 施加[暗影附身](Shadow_Possession_(Condition).md "暗影附身（状态）") / 充能：[长休](Long_Rest.md "长休") |
-| [死亡防护](Death_Ward_(Condition).md "死亡防护（状态）") | [保护之掌](Aegis_Palms.md "保护之掌") 被动 | 1⁠⁠[生命值](Healing.md "治疗") | 持续时间：2回合 | 施加于被[治疗](Healing.md "治疗")的目标 |
-| [死亡防护](Death_Ward_(Condition).md "死亡防护（状态）") | [保护之掌](Aegis_Palms.md "保护之掌") 被动 | 1⁠⁠[生命值](Healing.md "治疗") | 持续时间：2回合 | 施加于被[治疗](Healing.md "治疗")的目标 |
-| [洛山达的祝福](Lathander's_Blessing.md "洛山达的祝福") | [洛山达之血](The_Blood_of_Lathander.md "洛山达之血") 被动 | 2d6⁠⁠[生命值](Healing.md "治疗") / 9米（30英尺）范围内的盟友获得+1d6⁠⁠[生命值](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "长休") |
-| [坚韧不屈](Relentless_Endurance.md "坚韧不屈") | 1级[半兽人](Half-Orc.md "半兽人") 被动 | 1⁠⁠[生命值](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "长休") |
-| [坚韧狂暴](Relentless_Rage.md "坚韧狂暴") | 11级[野蛮人](Barbarian.md "野蛮人") 被动 | 1⁠⁠[生命值](Healing.md "治疗") | 持续时间：永久 | 如果处于[激怒](Rage_(Condition).md "狂暴（状态）") / 充能：[短休](Short_rest.md "短休") |
-| [墓穴之力](Strength_of_the_Grave.md "墓穴之力") | 1级[暗影魔法](Shadow_Magic.md "暗影魔法")[术士](Sorcerer.md "术士") 被动 | 1⁠⁠[生命值](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "长休") |
-| [求生直觉](Survival_Instinct_(Condition).md "求生直觉（状态）") | [求生直觉](Survival_Instinct.md "求生直觉") 动作 | 3d4⁠⁠[生命值](Healing.md "治疗") | 持续时间：3回合 | 充能：[短休](Short_rest.md "短休") |
+| [至死不渝](After_Death_Do_Us_Part_(passive_feature).md "至死不渝（被动特性）") | [至死不渝](After_Death_Do_Us_Part.md "至死不渝") 被动 | 12点最大[治疗](Healing.md "治疗") | 持续时间：永久 | 施加[暗影附身](Shadow_Possession_(Condition).md "暗影附身（状态）") / 充能：[长休](Long_Rest.md "长休") |
+| [死亡防护](Death_Ward_(Condition).md "死亡防护（状态）") | [保护之掌](Aegis_Palms.md "保护之掌") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：2回合 | 施加于被[治疗](Healing.md "治疗")的目标 |
+| [死亡防护](Death_Ward_(Condition).md "死亡防护（状态）") | [保护之掌](Aegis_Palms.md "保护之掌") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：2回合 | 施加于被[治疗](Healing.md "治疗")的目标 |
+| [洛山达的祝福](Lathander's_Blessing.md "洛山达的祝福") | [洛山达之血](The_Blood_of_Lathander.md "洛山达之血") 被动 | 2d6⁠⁠[治疗](Healing.md "治疗") / 9米（30英尺）范围内的盟友获得+1d6⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "长休") |
+| [坚韧不屈](Relentless_Endurance.md "坚韧不屈") | 1级[半兽人](Half-Orc.md "半兽人") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "长休") |
+| [坚韧狂暴](Relentless_Rage.md "坚韧狂暴") | 11级[野蛮人](Barbarian.md "野蛮人") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 如果处于[激怒](Rage_(Condition).md "狂暴（状态）") / 充能：[短休](Short_rest.md "短休") |
+| [墓穴之力](Strength_of_the_Grave.md "墓穴之力") | 1级[暗影魔法](Shadow_Magic.md "暗影魔法")[术士](Sorcerer.md "术士") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "长休") |
+| [求生直觉](Survival_Instinct_(Condition).md "求生直觉（状态）") | [求生直觉](Survival_Instinct.md "求生直觉") 动作 | 3d4⁠⁠[治疗](Healing.md "治疗") | 持续时间：3回合 | 充能：[短休](Short_rest.md "短休") |
 
 ## 法术位
 

@@ -2,7 +2,7 @@
 
 本文介绍的是法术。关于召唤的武器，请参见[灵体武器（短矛）](Spiritual_Weapon_(spear).md)>。关于其他用途，请参见[灵体武器（消歧义）](Spiritual_Weapon_(disambiguation).md)>。
 
-**灵体武器：短矛** 是一个[2级塑能学派法术](Spells.md "法术")。此法术是2级塑能学派法术[灵体武器](Spiritual_Weapon.md "灵体武器")的一个变体。它允许施法者召唤一把可以攻击敌人的悬浮短矛。
+**灵体武器：短矛** 是一个[法术](Spells.md "法术")。此法术是2级塑能学派法术[灵体武器](Spiritual_Weapon.md "灵体武器")的一个变体。它允许施法者召唤一把可以攻击敌人的悬浮短矛。
 
 ## 描述
 
@@ -35,7 +35,7 @@ UID
 
 ## 生物：灵体武器（短矛）
 
-| [力](Strength.md "力量") 10 | [敏](Dexterity.md "敏捷") 10 | [体](Constitution.md "体质") 10 | [智](Intelligence.md "智力") 10 | [感](Wisdom.md "感知") 10 | [魅](Charisma.md "魅力") 10 |
+| [力量](Strength.md "力量") 10 | [敏捷](Dexterity.md "敏捷") 10 | [体质](Constitution.md "体质") 10 | [智力](Intelligence.md "智力") 10 | [感知](Wisdom.md "感知") 10 | [魅力](Charisma.md "魅力") 10 |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 | 持续时间 | 10 驱散 |  |  |  |  |
@@ -58,7 +58,7 @@ UID
 
 持续时间：2 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
 
 - 对生物的成功攻击造成额外2⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 - _[荣誉模式](Honour_Mode.md "荣誉模式")：_ +2额外伤害改为添加到原始攻击的伤害掷骰中，并采用其伤害类型。

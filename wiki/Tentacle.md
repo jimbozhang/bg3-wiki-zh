@@ -55,7 +55,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -91,11 +91,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-**触手**是[异怪](Aberration.md "异怪")[生物](Creatures.md "生物")，在[第三幕](Act_Three.md "第三幕")中遭遇。它们出现在[耐色脑顶部](Confront_the_Elder_Brain.md "与主脑对峙")，潜伏在灰质中伏击敢于触及[卡尔萨斯王冠](Crown_of_Karsus_(Entity).md)的[角色](Characters.md "角色")。
+**触手**是[异怪](Aberration.md "异怪")[生物](Creatures.md "生物")，在[第三幕](Act_Three.md "第三幕")中遭遇。它们出现在[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")，潜伏在灰质中伏击敢于触及[卡尔萨斯王冠](Crown_of_Karsus_(Entity).md)的[角色](Characters.md "角色")。
 
 ## 出场
 

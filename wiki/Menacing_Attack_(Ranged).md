@@ -6,7 +6,7 @@
 
 ## 描述
 
-可能使目标陷入 [恐慌](Frightened_(Condition).md "恐慌（状态）")。目标将在 [检定](Ability_Check.md "检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上获得 [劣势](Disadvantage.md "劣势")，并且无法移动。
+可能使目标陷入 [恐慌](Frightened_(Condition).md "恐慌（状态）")。目标将在 [属性检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上获得 [劣势](Disadvantage.md "劣势")，并且无法移动。
 
 ## 属性
 
@@ -43,7 +43,7 @@ UID
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
 
-- 受影响生物无法移动。恐慌生物还在 [检定](Ability_Check.md "检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上获得 [劣势](Disadvantage.md "劣势")。
+- 受影响生物无法移动。恐慌生物还在 [属性检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上获得 [劣势](Disadvantage.md "劣势")。
 
 ## 如何习得
 

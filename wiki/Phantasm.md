@@ -67,11 +67,11 @@
 
 - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**虚无形态**](Ethereal.md "虚无形态")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
@@ -117,11 +117,11 @@
 
 - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**虚无形态**](Ethereal.md "虚无形态")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
@@ -167,19 +167,19 @@
 
 - - - - - - ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**虚无形态**](Ethereal.md "虚无形态")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**虚体移动**](Incorporeal_Movement.md "虚体移动")
+- [虚体移动](Incorporeal_Movement.md "虚体移动")
 
 针对你的[借机攻击](Opportunity_Attacks.md "借机攻击")具有[劣势](Disadvantage.md "劣势")。
 

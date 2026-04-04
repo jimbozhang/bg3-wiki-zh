@@ -67,31 +67,31 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**黑暗复仇**](Dark_Vengeance.md "黑暗复仇")
+- [黑暗复仇](Dark_Vengeance.md "黑暗复仇")
 
 审判十字军对处于黑暗中的目标具有优势。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵")或⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 审判十字军不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
@@ -137,31 +137,31 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**黑暗复仇**](Dark_Vengeance.md "黑暗复仇")
+- [黑暗复仇](Dark_Vengeance.md "黑暗复仇")
 
 审判十字军对处于黑暗中的目标具有优势。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵")或⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 审判十字军不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
@@ -213,31 +213,31 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**黑暗复仇**](Dark_Vengeance.md "黑暗复仇")
+- [黑暗复仇](Dark_Vengeance.md "黑暗复仇")
 
 审判十字军对处于黑暗中的目标具有优势。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵")或⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 审判十字军不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 

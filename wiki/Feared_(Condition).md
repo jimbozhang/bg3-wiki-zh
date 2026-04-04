@@ -4,7 +4,7 @@
 
 **恐慌**
 
-- 在 [检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。
+- 在 [属性检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。
 - 必须逃离恐惧来源，且无法执行任何额外动作。
 - 如果目标在其回合结束时脱离恐惧来源的视线，可以进行 [豁免检定](Saving_throw.md "豁免检定") 来摆脱此效果。
 
@@ -48,12 +48,12 @@
 | 状态 | 效果 |
 | --- | --- |
 | [命令术：逃跑](Command_colon__Flee_(Condition).md "命令术：逃跑 (状态)") | 必须以最快的方式尽可能远离施法者移动。无法执行 [动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作") 或 [反应](Reaction.md "反应")。 |
-| 恐慌 | 在 [检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。必须逃离恐惧来源，且无法执行任何额外动作。如果目标在其回合结束时脱离恐惧来源的视线，可以进行 [豁免检定](Saving_throw.md "豁免检定") 来摆脱此效果。 |
-| [失踪宠物](Missing_Pets_(Condition).md "失踪宠物 (状态)") | 无法移动。受影响实体在 [检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。 |
+| 恐慌 | 在 [属性检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。必须逃离恐惧来源，且无法执行任何额外动作。如果目标在其回合结束时脱离恐惧来源的视线，可以进行 [豁免检定](Saving_throw.md "豁免检定") 来摆脱此效果。 |
+| [失踪宠物](Missing_Pets_(Condition).md "失踪宠物 (状态)") | 无法移动。受影响实体在 [属性检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。 |
 
 ## 简要预览
 
-在 [检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")，且必须逃离恐惧来源并无法执行额外动作。在其回合结束时进行 [豁免检定](Saving_throw.md "豁免检定") 以摆脱此效果。
+在 [属性检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")，且必须逃离恐惧来源并无法执行额外动作。在其回合结束时进行 [豁免检定](Saving_throw.md "豁免检定") 以摆脱此效果。
 
 ---
 *Source: [Fearful (Condition)](https://bg3.wiki/wiki/Fearful_(Condition)*

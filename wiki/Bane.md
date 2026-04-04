@@ -1,6 +1,6 @@
 # 灾祸术
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被引导至此](Special_colon_WhatLinksHere/Bane.md "Special:WhatLinksHere/Bane")，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[灾祸术](Special_colon_WhatLinksHere/Bane.md "灾祸术")，请考虑编辑该链接，将其指向正确的页面。
 
 **灾祸术**可能指：
 

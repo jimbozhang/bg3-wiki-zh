@@ -84,15 +84,15 @@
 | --- | --- | --- | --- |
 | 几率 | 1/3 | 1/3 | 1/3 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
@@ -140,15 +140,15 @@
 | [食物补给表 6](Food_Supply_Table_6.md "Food Supply Table 6") | 1 | 1/11 |
 | [食物补给表 7](Food_Supply_Table_7.md "Food Supply Table 7") | 1 | 1/11 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
@@ -190,15 +190,15 @@
 | --- | --- | --- |
 | [补给包](Supply_Pack.md "Supply Pack") | 1 | 总是 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
@@ -220,19 +220,19 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第二幕](#act-two)
-  - [2.3 第三幕](#act-three)
-- [3 商店](#store)
-  - [3.1 第一幕](#act-one-2)
-  - [3.2 第二幕](#act-two-2)
-  - [3.3 第三幕](#act-three-2)
-  - [3.4 补给品](#supplies)
-- [4 闲聊](#idle-banter)
-- [5 相关任务](#related-quests)
-- [6 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第二幕](#第二幕)
+  - [2.3 第三幕](#第三幕)
+- [3 商店](#商店)
+  - [3.1 第一幕](#第一幕)
+  - [3.2 第二幕](#第二幕)
+  - [3.3 第三幕](#第三幕)
+  - [3.4 补给品](#补给品)
+- [4 闲聊](#闲聊)
+- [5 相关任务](#相关任务)
+- [6 外部链接](#外部链接)
 
 ## 概述
 

@@ -2,7 +2,7 @@
 
 另请参阅：[金库](Vault.md "Vault")
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Safe.md "Special:WhatLinksHere/Safe")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[保险柜](Special_colon_WhatLinksHere/Safe.md "保险柜")的，请考虑编辑该链接，将其指向正确的页面。
 
 **保险柜**可能指：
 

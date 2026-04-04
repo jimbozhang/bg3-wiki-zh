@@ -1,6 +1,6 @@
 # 水晶透镜
 
-水晶透镜是一种[炼金术材料](Alchemy.md "炼金术")。将3个水晶透镜组合可以提取出[水晶透镜精华](Essence_of_Crystalline_Lens.md "水晶透镜精华")，用于制作[黑暗视觉灵药](Elixir_of_Darkvision.md "黑暗视觉灵药")。
+水晶透镜是一种[炼金术](Alchemy.md "炼金术")。将3个水晶透镜组合可以提取出[水晶透镜精华](Essence_of_Crystalline_Lens.md "水晶透镜精华")，用于制作[黑暗视觉灵药](Elixir_of_Darkvision.md "黑暗视觉灵药")。
 
 当举向月光时，透镜似乎会变化，仿佛其玻璃核心对微弱的夜光产生了反应。
 

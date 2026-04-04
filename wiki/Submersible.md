@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 信息](#information)
-- [2 相关任务](#related-quests)
-- [3 相关地点](#related-locations)
-- [4 相关文献](#related-literature)
+- [1 信息](#信息)
+- [2 相关任务](#相关任务)
+- [3 相关地点](#相关地点)
+- [4 相关文献](#相关文献)
 
 ## 信息
 

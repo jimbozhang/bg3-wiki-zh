@@ -1,6 +1,6 @@
 # 夜兰花溶液
 
-**夜兰花溶液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以创造[特效奥术滋养灵药](Superior_Elixir_of_Arcane_Cultivation.md "特效奥术滋养灵药")。
+**夜兰花溶液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以创造[特效奥术滋养灵药](Superior_Elixir_of_Arcane_Cultivation.md "特效奥术滋养灵药")。
 
 这种液体溶液具有傍晚的颜色。
 

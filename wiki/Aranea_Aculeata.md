@@ -63,35 +63,35 @@
 
 ## 特性
 
-- [**兽性狂怒**](Bestial_Fury.md "兽性狂怒")
+- [兽性狂怒](Bestial_Fury.md "兽性狂怒")
 
 使你所有伙伴获得一次额外攻击。
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**八腿华尔兹**](Eight_Legged_Waltz.md "八腿华尔兹")
+- [八腿华尔兹](Eight_Legged_Waltz.md "八腿华尔兹")
 
 每当你在蛛网地表上开始回合时，你现在获得额外的[移动速度](Movement_speed.md "移动速度")，并对[中毒](Poison.md "中毒")获得[抗性](Resistant.md "抗性")。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md), [撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")，和[协助](Help_(bonus_action).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外1d6伤害。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被蛛网地表减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -135,35 +135,35 @@
 
 ## 特性
 
-- [**兽性狂怒**](Bestial_Fury.md "兽性狂怒")
+- [兽性狂怒](Bestial_Fury.md "兽性狂怒")
 
 使你所有伙伴获得一次额外攻击。
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**八腿华尔兹**](Eight_Legged_Waltz.md "八腿华尔兹")
+- [八腿华尔兹](Eight_Legged_Waltz.md "八腿华尔兹")
 
 每当你在蛛网地表上开始回合时，你现在获得额外的[移动速度](Movement_speed.md "移动速度")，并对[中毒](Poison.md "中毒")获得[抗性](Resistant.md "抗性")。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md), [撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")，和[协助](Help_(bonus_action).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外1d6伤害。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被蛛网地表减速或[网缚](Enwebbed_(Condition).md)。
 

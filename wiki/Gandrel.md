@@ -31,7 +31,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -101,19 +101,19 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**猎魔**](Feller_of_Monsters.md "猎魔")
+- [猎魔](Feller_of_Monsters.md "猎魔")
 
 对[怪兽](Monstrosity.md "怪兽")类敌人具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**愤怒伤痕**](Scar_of_Fury.md "愤怒伤痕")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 当生命值低于 40% 时，进行[重击](Critical_Hit.md "重击")。
 
@@ -163,19 +163,19 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**猎魔**](Feller_of_Monsters.md "猎魔")
+- [猎魔](Feller_of_Monsters.md "猎魔")
 
 对[怪兽](Monstrosity.md "怪兽")类敌人具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**愤怒伤痕**](Scar_of_Fury.md "愤怒伤痕")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 当生命值低于 40% 时，进行[重击](Critical_Hit.md "重击")。
 
@@ -225,23 +225,23 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**猎魔**](Feller_of_Monsters.md "猎魔")
+- [猎魔](Feller_of_Monsters.md "猎魔")
 
 对[怪兽](Monstrosity.md "怪兽")类敌人具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**愤怒伤痕**](Scar_of_Fury.md "愤怒伤痕")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 当生命值低于 40% 时，进行[重击](Critical_Hit.md "重击")。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于 90%，其[移动速度](Movement_speed.md "移动速度")翻倍，并且无法被[借机攻击](Opportunity_Attack.md "借机攻击")。
 
@@ -288,7 +288,7 @@ UUID
 
 ### 第一幕
 
-如果[阿斯代伦](Astarion.md "阿斯代伦")在队伍中，根德莱尔会透露他正在追捕阿斯代伦，他认为阿斯代伦是一个袭击了他们村庄并绑架了一名儿童的吸血鬼衍体。否则，队伍可以通过通过 DC 15 [游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")或 DC 20 [威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")来了解此信息。
+如果[阿斯代伦](Astarion.md "阿斯代伦")在队伍中，根德莱尔会透露他正在追捕阿斯代伦，他认为阿斯代伦是一个袭击了他们村庄并绑架了一名儿童的吸血鬼衍体。否则，队伍可以通过通过 DC 15 [游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")或 DC 20 [威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")来了解此信息。
 
 队伍可以选择交出阿斯代伦或保护他。交出阿斯代伦会导致他的[好感度](Approval.md "好感度")下降并永久离开队伍。
 
@@ -309,7 +309,7 @@ UUID
 ### 攻击与能力
 
 [野猪伙伴](Boar_Companion.md "野猪伙伴") ()
-召唤一头野猪，可以扫过战场并用其[冲锋](Boar_Charge.md "野猪冲撞")将敌人击倒在地。
+召唤一头野猪，可以扫过战场并用其[野猪冲撞](Boar_Charge.md "野猪冲撞")将敌人击倒在地。
 
 范围：18 米 (60 英尺)
 充能：[短休](Short_rest.md "短休")

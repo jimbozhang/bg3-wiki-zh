@@ -12,17 +12,17 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 奥林的绑架](#orin's-kidnapping)
-  - [2.2 坎德哈洛墓碑店](#candulhallow's-tombstones)
-  - [2.3 潜入谋杀裁判所](#infiltrate-the-murder-tribunal)
-  - [2.4 巴尔神殿](#the-temple-of-bhaal)
-  - [2.5 被选者之室](#the-chosen%E2%80%99s_Room)
-  - [2.6 对抗奥林](#confronting-orin)
-- [3 任务奖励](#quest-rewards)
-- [4 成就](#achievements)
-- [5 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 奥林的绑架](#奥林的绑架)
+  - [2.2 坎德哈洛墓碑店](#坎德哈洛墓碑店)
+  - [2.3 潜入谋杀裁判所](#潜入谋杀裁判所)
+  - [2.4 巴尔神殿](#巴尔神殿)
+  - [2.5 被选者之室](#被选者之室)
+  - [2.6 对抗奥林](#对抗奥林)
+- [3 任务奖励](#任务奖励)
+- [4 成就](#成就)
+- [5 备注](#备注)
 
 ## 目标
 
@@ -79,7 +79,7 @@
 
 ### 奥林的绑架
 
-[腥红奥林](Orin.md "Orin")在各种情况下绑架一名队伍成员。一个事件触发点是在抵达[下城区](Lower_City.md "Lower City")后长休。奥林变形为被绑架的队伍成员并与队伍交谈。奥林只绑架在营地且不在当前队伍中的角色。如果营地中没有符合条件的伙伴（例如，如果只招募了三名队伍成员，或使用了队伍人数扩展模组），则会改为绑架[耶娜](Yenna.md "Yenna")。如果奥林的绑架未通过长休触发，也可以在[下城区下水道](Lower_City_Sewers.md "Lower City Sewers")中触发。在这种情况下，事件对每个人基本相同——奥林伪装成被绑架的受害者出现，身受重伤，恳求队伍逃跑，解释他们如何被奥林残忍折磨。然后，奥林揭示了自己的身份和绑架阴谋。
+[奥林](Orin.md "奥林")在各种情况下绑架一名队伍成员。一个事件触发点是在抵达[下城区](Lower_City.md "Lower City")后长休。奥林变形为被绑架的队伍成员并与队伍交谈。奥林只绑架在营地且不在当前队伍中的角色。如果营地中没有符合条件的伙伴（例如，如果只招募了三名队伍成员，或使用了队伍人数扩展模组），则会改为绑架[耶娜](Yenna.md "Yenna")。如果奥林的绑架未通过长休触发，也可以在[下城区下水道](Lower_City_Sewers.md "Lower City Sewers")中触发。在这种情况下，事件对每个人基本相同——奥林伪装成被绑架的受害者出现，身受重伤，恳求队伍逃跑，解释他们如何被奥林残忍折磨。然后，奥林揭示了自己的身份和绑架阴谋。
 
 奥林揭示她有人质后，陈述了她的要求。[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")在被选者三人组最初聚在一起时束缚了她的刀刃，使她无法伤害他。为此，她需要队伍介入并杀死他。之后，她打算与队伍进行一场生死决斗——胜者获得耐色石。只要队伍打倒他，她就不会伤害人质。这启动了[拯救奥林的受害者](Rescue_Orin's_Victim.md "Rescue Orin's Victim")。
 
@@ -171,7 +171,7 @@
 
 如果任何检定失败或选择了非检定选项，奥林会在祭坛上杀死受害者，然后变身为她的杀戮者形态（12级怪兽）并开始战斗。
 
-如果通过了任何检定，奥林仍然会变形并开始[战斗](Orin/Combat.md "Orin/Combat")，但会忽略活着的受害者并面对队伍。祭坛可以在战斗中用 DC 25 的[巧手](Sleight_of_Hand.md "Sleight of Hand") [检定](Ability_Check.md "Ability check")撬锁，释放受害者并允许他们与队伍并肩作战。否则，可以通过从奥林的遗体上掠夺[祭坛钥匙](Altar_Key.md "Altar Key")来释放受害者；之后他们会感谢队伍并返回营地。
+如果通过了任何检定，奥林仍然会变形并开始[战斗](Orin/Combat.md "Orin/Combat")，但会忽略活着的受害者并面对队伍。祭坛可以在战斗中用 DC 25 的[巧手](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定")撬锁，释放受害者并允许他们与队伍并肩作战。否则，可以通过从奥林的遗体上掠夺[祭坛钥匙](Altar_Key.md "Altar Key")来释放受害者；之后他们会感谢队伍并返回营地。
 
 战斗结束后，奥林会变成一个可掠夺的“血肉堆”，过场动画显示玩家角色取回了她的匕首，其中包含[奥林的耐色石](Orin's_Netherstone.md "Orin's Netherstone")。
 
@@ -179,7 +179,7 @@
 
 - [猩红诡计](Crimson_Mischief.md "Crimson Mischief")
 - [残破甲壳](Mutilated_Carapace.md "Mutilated Carapace")
-  - [耐色石柄嗜血](Bloodthirst.md "Bloodthirst") – 拾取时分离为：
+  - [嗜血](Bloodthirst.md "嗜血") – 拾取时分离为：
   - [嗜血](Bloodthirst.md "Bloodthirst")
   - [奥林的耐色石](Orin's_Netherstone.md "Orin's Netherstone")
 - [谋杀机会之戒](Ring_of_Murderous_Opportunity.md "Ring of Murderous Opportunity")

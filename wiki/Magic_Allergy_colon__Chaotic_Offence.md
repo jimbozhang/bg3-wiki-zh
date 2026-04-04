@@ -19,7 +19,7 @@ UID
 持续时间：3驱散
 
 - [体型](Creature_size.md "生物体型")增大。
-- 武器攻击造成额外**1d4**点伤害。在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+- 武器攻击造成额外**1d4**点伤害。在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
 ## 状态：镜像
 

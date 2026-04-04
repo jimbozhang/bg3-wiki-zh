@@ -1,6 +1,6 @@
 # 目盲
 
-这是一个消歧义页面，链接到名称模糊的文章。如果文章中的链接将您[带到这里](Special_colon_WhatLinksHere/Blind.md "Special:WhatLinksHere/Blind")，请考虑编辑该链接以指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果文章中的链接将您[目盲](Special_colon_WhatLinksHere/Blind.md "目盲")，请考虑编辑该链接以指向正确的页面。
 
 **目盲**可能指：
 

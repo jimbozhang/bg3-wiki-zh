@@ -6,14 +6,14 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 - 稀有度：普通
 - 重量：0.1 千克 (0.2 磅)
 - 价格：1 金币
 
 ## 获取地点
 
-- 当使用[丢弃的酒瓶](Discarded_Wine_Bottle.md "丢弃的酒瓶")时，成功通过 DC 15 [医药](Medicine.md "医药") [检定](Ability_Check.md "属性检定")后获得。
+- 当使用[丢弃的酒瓶](Discarded_Wine_Bottle.md "丢弃的酒瓶")时，成功通过 DC 15 [医药](Medicine.md "医药") [属性检定](Ability_Check.md "属性检定")后获得。
 
 ## 备注
 

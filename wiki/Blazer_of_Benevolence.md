@@ -1,6 +1,6 @@
 # 慈善外套
 
-慈善外套是一件[轻甲](Armour.md#Light_Armour "护甲")，当穿着者使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")激励盟友时，会为其提供[临时生命值](Hit_Points.md "生命值")。
+慈善外套是一件[轻甲](Armour.md#Light_Armour "护甲")，当穿着者使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")激励盟友时，会为其提供[生命值](Hit_Points.md "生命值")。
 
 尽管刺绣天鹅绒无法抵御锋利的刀刃，但穿着它能让你充满自信。
 

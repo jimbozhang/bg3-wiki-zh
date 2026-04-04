@@ -52,7 +52,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 
 ## 备注
 
-- 队伍在进入[夺心魔蝌蚪植入中心](Tadpoling_Centre.md "夺心魔蝌蚪植入中心")时必须带上威尔，释放米佐拉，然后通过DC 14的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")来说服她给予奖励。
+- 队伍在进入[夺心魔蝌蚪植入中心](Tadpoling_Centre.md "夺心魔蝌蚪植入中心")时必须带上威尔，释放米佐拉，然后通过DC 14的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")来说服她给予奖励。
 - 如果地狱刺剑被卸下，[异界誓盟：坎比翁](Planar_Ally_colon__Cambion.md "异界誓盟：坎比翁")召唤的[坎比翁](Cambion_(Planar_Ally).md "坎比翁（异界誓盟）")会立即消失。
 - 与[橡棍术](Shillelagh.md "橡棍术")和[森林弯刀](Sylvan_Scimitar.md "森林弯刀")类似，此武器使用角色最高*可用*的施法关键属性，而非最近使用的，或者如果没有其他可用，则使用默认的施法关键属性。
 

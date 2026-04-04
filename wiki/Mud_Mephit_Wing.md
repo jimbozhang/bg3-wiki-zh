@@ -1,6 +1,6 @@
 # 泥魔蝠的翅膀
 
-**泥魔蝠的翅膀**是一种[炼金术材料](Alchemy.md "炼金术")。将3个这种材料组合可以制成[泥泞粘物](Suspension_of_Muddy_Goo.md "泥泞粘物")，用于制作[毒素抗性灵药](Elixir_of_Poison_Resistance.md "毒素抗性灵药")。
+**泥魔蝠的翅膀**是一种[炼金术](Alchemy.md "炼金术")。将3个这种材料组合可以制成[泥泞粘物](Suspension_of_Muddy_Goo.md "泥泞粘物")，用于制作[毒素抗性灵药](Elixir_of_Poison_Resistance.md "毒素抗性灵药")。
 
 这种翅膀由软粘土和泥巴构成，已经开始解体。
 

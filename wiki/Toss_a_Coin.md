@@ -29,7 +29,7 @@ UID
 
 ## 备注
 
-- [表演者](Perform.md "Perform")进行[表演](Performance.md "Performance")检定以确定表演质量。大多数观众会在检定成功时使用此动作向表演者抛硬币，但成功的表演并不一定导致*每位*观众都向表演者抛硬币。
+- [表演](Perform.md "表演")进行[表演](Performance.md "Performance")检定以确定表演质量。大多数观众会在检定成功时使用此动作向表演者抛硬币，但成功的表演并不一定导致*每位*观众都向表演者抛硬币。
 - 此检定的[难度等级](Difficulty_Class.md "Difficulty Class")随观众规模而变化：
 - 1名观众：难度等级 10
   - 2-3名观众：难度等级 12

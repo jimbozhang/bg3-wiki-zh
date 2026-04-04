@@ -86,7 +86,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -138,7 +138,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -190,7 +190,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -265,7 +265,7 @@ UUID
 
 目标的护甲等级每回合降低1点，最多降低5点。水可以清除唾液及其效果。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：18米（60英尺）
 
 [猛扑](Pounce_(Dilophosaurus).md "猛扑（双脊龙）") (+ )
@@ -276,7 +276,7 @@ UUID
 
 跃向目标进行啃咬，并可能将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 射程：[跳跃](Jump.md "跳跃")范围
 
 ---

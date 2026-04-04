@@ -52,7 +52,7 @@
 解除你的荒野形态并变回原始形态。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术位")在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，恢复1d8[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术位")在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，恢复1d8[治疗](Healing.md "治疗")。
 
 啃咬目标，造成1d8 + 敏捷调整值⁠⁠[穿刺](Piercing.md "穿刺")伤害，并可能使其[中毒](Poisoned_(Condition).md "中毒（状态）")。
 

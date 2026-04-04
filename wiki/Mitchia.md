@@ -82,23 +82,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**谋杀渴求**](Murder_Hungry.md "谋杀渴求")
+- [谋杀渴求](Murder_Hungry.md "谋杀渴求")
 
 每次击杀一个生物，获得 1 层不可撼动。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -156,23 +156,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**谋杀渴求**](Murder_Hungry.md "谋杀渴求")
+- [谋杀渴求](Murder_Hungry.md "谋杀渴求")
 
 每次击杀一个生物，获得 1 层不可撼动。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -234,19 +234,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**谋杀渴求**](Murder_Hungry.md "谋杀渴求")
+- [谋杀渴求](Murder_Hungry.md "谋杀渴求")
 
 每次击杀一个生物，获得 1 层不可撼动。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -262,7 +262,7 @@
 
 当近战范围内的敌人攻击你的盟友时，你可以使用[反应](Reaction.md "反应")对该敌人进行一次武器攻击。目标盟友不得拥有哨兵专长。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 

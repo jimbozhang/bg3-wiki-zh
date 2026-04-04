@@ -72,7 +72,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -118,7 +118,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -163,7 +163,7 @@ UUID
 - 死去的收费员
   ...金币...地下室...锁着...
 
-    - [征收所钥匙](Toll_Collector's_Key.md "收费员的钥匙")在哪里？
+    - [收费员的钥匙](Toll_Collector's_Key.md "收费员的钥匙")在哪里？
 
 - 死去的收费员
   ...我摔倒了...钥匙掉了...

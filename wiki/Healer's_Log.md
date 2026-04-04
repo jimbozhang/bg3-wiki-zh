@@ -28,7 +28,7 @@
 
 病症 - ⁠[痛风](https://forgottenrealms.fandom.com/wiki/gout)
 
-备注 - 自从桑普森收了那个新学徒后，他就习惯了优渥的生活。我给了他一份[秋水仙升华物](Sublimate_of_Autumn_Crocus.md "Sublimate of Autumn Crocus")的[酊剂](Autumncrocus.md "Autumncrocus")，并告诉他要避免食用红肉和麦芽酒。
+备注 - 自从桑普森收了那个新学徒后，他就习惯了优渥的生活。我给了他一份[秋水仙升华物](Sublimate_of_Autumn_Crocus.md "Sublimate of Autumn Crocus")的[秋水仙](Autumncrocus.md "秋水仙")，并告诉他要避免食用红肉和麦芽酒。
 
 患者 - 布兰利
 

@@ -73,11 +73,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -123,11 +123,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -173,11 +173,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -187,9 +187,9 @@
 
 ### 第二章
 
-虽然大多数天生敌对，但在[月出之塔](Moonrise_Towers.md "Moonrise Towers")的上层城垛 X: -173 Y: -205 处可以遇到三只中立的飞天恐魔。这些特殊的飞行食尸鬼哀叹自己的饥饿，抱怨尸体被倒入塔下的[隧道](Mind_Flayer_Colony.md "Mind Flayer Colony")，而不是按承诺喂给他们。
+虽然大多数天生敌对，但在[月出之塔](Moonrise_Towers.md "Moonrise Towers")的上层城垛 X: -173 Y: -205 处可以遇到三只中立的飞天恐魔。这些特殊的飞行食尸鬼哀叹自己的饥饿，抱怨尸体被倒入塔下的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")，而不是按承诺喂给他们。
 
-玩家角色可以通过 DC 16 的[游说](Persuasion.md "Persuasion")或[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")安抚它们，使用[灵吸怪游说](Illithid_Persuasion.md "Illithid Persuasion")说服食尸鬼互相吞噬，或者直接攻击它们。
+玩家角色可以通过 DC 16 的[游说](Persuasion.md "Persuasion")或[威吓](Intimidation.md "Intimidation")[属性检定](Ability_Check.md "属性检定")安抚它们，使用[灵吸怪游说](Illithid_Persuasion.md "Illithid Persuasion")说服食尸鬼互相吞噬，或者直接攻击它们。
 
 ## 战斗
 
@@ -208,7 +208,7 @@
 
 受影响的生物可以用致命的爪子猛击，并可能[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")目标。
 
-[体](Constitution.md "Constitution")[豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "Saving throws")
 近战：1.5 米 (5 英尺)
 
 [飞行](Fly_(class_action).md "Fly (class action)") ()

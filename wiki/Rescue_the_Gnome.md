@@ -4,18 +4,18 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 和平解决遭遇](#solving-the-encounter-peacefully)
-    - [2.1.1 威吓、欺瞒或游说](#intimidate,_deceive,_or_persuade)
-    - [2.1.2 使用蝌蚪](#using-the-tadpole)
-    - [2.1.3 要求放行](#demand-you-be-allowed-to-pass)
-    - [2.1.4 以卓尔身份接近](#approach-as-a-drow)
-  - [2.2 攻击地精](#attacking-the-goblins)
-  - [2.3 解救巴克斯](#freeing-barcus)
-- [3 任务奖励](#quest-rewards)
-- [4 后果](#consequences)
-- [5 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 和平解决遭遇](#和平解决遭遇)
+    - [2.1.1 威吓、欺瞒或游说](#威吓、欺瞒或游说)
+    - [2.1.2 使用蝌蚪](#使用蝌蚪)
+    - [2.1.3 要求放行](#要求放行)
+    - [2.1.4 以卓尔身份接近](#以卓尔身份接近)
+  - [2.2 攻击地精](#攻击地精)
+  - [2.3 解救巴克斯](#解救巴克斯)
+- [3 任务奖励](#任务奖励)
+- [4 后果](#后果)
+- [5 备注](#备注)
 
 ## 目标
 

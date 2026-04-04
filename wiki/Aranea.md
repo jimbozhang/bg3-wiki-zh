@@ -62,19 +62,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 对游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网[网缚](Enwebbed_(Condition).md) 或减速。
 
@@ -118,19 +118,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 对游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网[网缚](Enwebbed_(Condition).md) 或减速。
 
@@ -168,7 +168,7 @@ Stats
 
 喷出浓密、易燃的蛛网，使范围内的生物减速，并可能将其[网缚](Enwebbed_(Condition).md "网缚 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 由于[猎物的气味](Prey's_Scent.md "猎物的气味")被动特性，驯兽师游侠可能希望攻击被[猎人印记](Hunter's_Mark.md "猎人印记")标记的目标以获得最佳伤害。

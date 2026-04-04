@@ -1,6 +1,6 @@
 # 失明术
 
-**失明术**是一个[2环死灵学派法术](Spells.md "Spells")。它允许施法者对目标敌对生物施加魔法[目盲](Blindness_(Condition).md "Blindness (Condition)")效果。
+**失明术**是一个[法术](Spells.md "法术")。它允许施法者对目标敌对生物施加魔法[目盲](Blindness_(Condition).md "Blindness (Condition)")效果。
 
 ## 描述
 

@@ -6,10 +6,10 @@
 
 ## 目录
 
-- [1 移除](#removal)
-- [2 免疫](#immunity)
-- [3 优势与劣势](#advantage-and-disadvantage)
-- [4 中毒状态列表](#list-of-conditions-in-poisoned)
+- [1 移除](#移除)
+- [2 免疫](#免疫)
+- [3 优势与劣势](#优势与劣势)
+- [4 中毒状态列表](#中毒状态列表)
 
 ## 移除
 
@@ -106,7 +106,7 @@
 [疫病术中毒](Contagion_Poisoned_(Condition).md "疫病术中毒 (状态)")
 |
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Ability_Check.md "属性检定")时承受[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")时承受[劣势](Disadvantage.md "劣势")。
 - 每回合必须通过一次[豁免检定](Saving_throw.md "豁免检定")，否则毒素将进入下一阶段。通过3次豁免后恢复。豁免失败3次后，感染与所施放的[疫病术](Contagion.md "疫病术")变体对应的疾病。
 
 [灰矮人毒药](Duergar_Poison_(Condition).md "灰矮人毒药 (状态)")

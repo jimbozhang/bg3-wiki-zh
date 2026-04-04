@@ -1,6 +1,6 @@
 # 高崖图纸
 
-高崖图纸是一个[故事道具](Story_Item.md "故事道具")[书籍](Books.md "书籍")。阅读它将添加或更新与[完成大师武器](Finish_the_Masterwork_Weapon.md "完成大师武器")[任务](Quest.md "任务")相关的日志条目。通过[自然](Nature.md "自然")[技能检定](Ability_Check.md "技能检定")将获得关于在哪里找到[轻语树皮](Sussur_Tree_Bark.md "轻语树皮")的进一步信息。
+高崖图纸是一个[故事道具](Story_Item.md "故事道具")[书籍](Books.md "书籍")。阅读它将添加或更新与[完成大师武器](Finish_the_Masterwork_Weapon.md "完成大师武器")[任务](Quest.md "任务")相关的日志条目。通过[自然](Nature.md "自然")[属性检定](Ability_Check.md "属性检定")将获得关于在哪里找到[轻语树皮](Sussur_Tree_Bark.md "轻语树皮")的进一步信息。
 
 三把听起来令人印象深刻的武器的复杂图纸。
 

@@ -1,6 +1,6 @@
 # 伪装术：强健女性卓尔
 
-**伪装术：强健女性卓尔** 是一个 [等级 1 幻术学派法术](Spells.md "Spells")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。此法术允许施法者暂时将自己的外观改变为强健女性形态的 [席德瑞恩卓尔](Drow.md#Seldarine_Drow "Drow")。
+**伪装术：强健女性卓尔** 是一个 [法术](Spells.md "法术")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。此法术允许施法者暂时将自己的外观改变为强健女性形态的 [席德瑞恩卓尔](Drow.md#Seldarine_Drow "Drow")。
 
 ## 描述
 

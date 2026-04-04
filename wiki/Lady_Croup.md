@@ -95,7 +95,7 @@
 
 - - - - - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 加值。
 
@@ -103,19 +103,19 @@
 
 可以使用[诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得额外的[附赠动作](Bonus_action.md "附赠动作").
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法陷入[沉睡](Sleeping_(Condition)..md)
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后恢复所有[诗人激励](Bardic_Inspiration_(resource)..md)
 
@@ -123,7 +123,7 @@
 
 增加[诗人激励](Bardic_Inspiration_(class_action)的加值.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -175,7 +175,7 @@
 
 - - - - - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 加值。
 
@@ -183,19 +183,19 @@
 
 可以使用[诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得额外的[附赠动作](Bonus_action.md "附赠动作").
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法陷入[沉睡](Sleeping_(Condition)..md)
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后恢复所有[诗人激励](Bardic_Inspiration_(resource)..md)
 
@@ -203,7 +203,7 @@
 
 增加[诗人激励](Bardic_Inspiration_(class_action)的加值.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -255,7 +255,7 @@
 
 - - - - - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 加值。
 
@@ -263,19 +263,19 @@
 
 可以使用[诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得额外的[附赠动作](Bonus_action.md "附赠动作").
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法陷入[沉睡](Sleeping_(Condition)..md)
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后恢复所有[诗人激励](Bardic_Inspiration_(resource)..md)
 
@@ -283,7 +283,7 @@
 
 增加[诗人激励](Bardic_Inspiration_(class_action)的加值.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -305,12 +305,12 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 笔记](#notes)
-- [4 画廊](#gallery)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 笔记](#笔记)
+- [4 画廊](#画廊)
 
 ## 参与
 

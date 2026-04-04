@@ -82,15 +82,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -138,15 +138,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -194,15 +194,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -232,7 +232,7 @@ UUID
 
 ## 参与情况
 
-洛娜被一个吸血鬼引诱到这个区域，期望参加一个“地下派对”。他们前一天晚上在[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")相遇。队伍可以与她交谈，同时她描述她的约会对象时，进行一次 DC 10 的[洞悉](Insight.md "洞悉")[检定](Ability_Check.md "属性检定")可以告知队伍这可能是一个吸血鬼。无论队伍是否告诉她潜在的吸血鬼约会对象，她都决定“不参加这个派对”并离开。
+洛娜被一个吸血鬼引诱到这个区域，期望参加一个“地下派对”。他们前一天晚上在[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")相遇。队伍可以与她交谈，同时她描述她的约会对象时，进行一次 DC 10 的[洞悉](Insight.md "洞悉")[属性检定](Ability_Check.md "属性检定")可以告知队伍这可能是一个吸血鬼。无论队伍是否告诉她潜在的吸血鬼约会对象，她都决定“不参加这个派对”并离开。
 
 ## 图库
 

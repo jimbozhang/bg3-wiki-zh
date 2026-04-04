@@ -74,27 +74,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**恐惧箴言**](Dreadful_Word.md "恐惧箴言")
+- [恐惧箴言](Dreadful_Word.md "恐惧箴言")
 
 你可以使用邪术师[法术位](Spell_Slot.md "法术位")施放[困惑](Confusion.md "困惑")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆")可将生物推开最多 4.5 米 (15 英尺)。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -134,27 +134,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**恐惧箴言**](Dreadful_Word.md "恐惧箴言")
+- [恐惧箴言](Dreadful_Word.md "恐惧箴言")
 
 你可以使用邪术师[法术位](Spell_Slot.md "法术位")施放[困惑](Confusion.md "困惑")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆")可将生物推开最多 4.5 米 (15 英尺)。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -194,27 +194,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**恐惧箴言**](Dreadful_Word.md "恐惧箴言")
+- [恐惧箴言](Dreadful_Word.md "恐惧箴言")
 
 你可以使用邪术师[法术位](Spell_Slot.md "法术位")施放[困惑](Confusion.md "困惑")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "魔能爆")可将生物推开最多 4.5 米 (15 英尺)。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -228,13 +228,13 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第二幕](#act-two)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-- [4 已知至上真神质问者](#known-absolute-questioners)
-- [5 备注](#notes)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第二幕](#第二幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+- [4 已知至上真神质问者](#已知至上真神质问者)
+- [5 备注](#备注)
 
 ## 概述
 
@@ -255,7 +255,7 @@
 [失明术](Blindness.md "失明术") (+ )
 限制敌人的视线范围。更容易命中，且该生物会更频繁地未命中。对其的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，且敌人攻击时具有[劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [匕首之云](Cloud_of_Daggers.md "匕首之云") (+ )
@@ -271,7 +271,7 @@
 [困惑](Confusion.md "困惑") (+ )
 使一群生物昏沉，导致它们随机攻击、漫无目的地游荡，并在恍惚中偶尔跳过回合。
 
-[感](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [魔能爆](Eldritch_Blast.md "魔能爆") ()

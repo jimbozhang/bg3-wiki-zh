@@ -22,7 +22,7 @@
 持续时间：直到[长休](Long_Rest.md "长休")
 
 - [体型](Creature_size.md "生物体型") 增大
-- 武器额外造成 **1d4** 点伤害，且受影响实体在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")中获得[优势](Advantage.md "优势")。
+- 武器额外造成 **1d4** 点伤害，且受影响实体在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")中获得[优势](Advantage.md "优势")。
 - [负重](Carrying_capacity.md "负重") 也提高 25%。
 
 ## 获取地点

@@ -94,19 +94,19 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")状态的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -158,19 +158,19 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")状态的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -222,19 +222,19 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")状态的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -296,7 +296,7 @@ Stats
 
 全力击打敌人造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -308,7 +308,7 @@ Stats
 
 诅咒一个生物陷入悔恨。它每回合受到4~10[心灵](Psychic.md "心灵")伤害，并变得对心灵伤害[易伤](Vulnerable.md "易伤")。
 
-[魅](Charisma.md "魅力") [豁免](Saving_throws.md "豁免检定")
+[魅力](Charisma.md "魅力") [豁免](Saving_throws.md "豁免检定")
 范围：16 米 (53 英尺)
 
 [主手攻击](Main_Hand_Attack.md "主手攻击") () – [短棒](Club.md "短棒")

@@ -52,7 +52,7 @@
 解除你的荒野形态并变回原始形态。
 
 [月光修复](Lunar_Mend.md "Lunar Mend") (+ )
-消耗[法术位](Spells.md#Spell_slots "Spells")以在荒野形态下恢复[生命值](Hit_Points.md "Hit Points")。每个法术位等级恢复1d8[生命值](Healing.md "Healing")。
+消耗[法术位](Spells.md#Spell_slots "Spells")以在荒野形态下恢复[生命值](Hit_Points.md "Hit Points")。每个法术位等级恢复1d8[治疗](Healing.md "治疗")。
 
 [猛毒之噬](Venomous_Bite_(Spider_Wild_Shape).md "Venomous Bite (Spider Wild Shape)") ()
 啃咬目标，造成1d8 + 敏捷调整值⁠⁠[穿刺](Piercing.md "Piercing")伤害，并可能使其[中毒](Poisoned_(Condition).md "Poisoned (Condition)")。

@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [1 进行死亡豁免检定](#rolling-death-saving-throws)
-- [2 治疗倒地的生物](#healing-a-downed-creature)
-- [3 倒地时受到伤害](#receiving-damage-when-downed)
-- [4 复活死亡角色](#reviving-the-dead)
-- [5 图库](#gallery)
+- [1 进行死亡豁免检定](#进行死亡豁免检定)
+- [2 治疗倒地的生物](#治疗倒地的生物)
+- [3 倒地时受到伤害](#倒地时受到伤害)
+- [4 复活死亡角色](#复活死亡角色)
+- [5 图库](#图库)
 
 ## 进行死亡豁免检定
 

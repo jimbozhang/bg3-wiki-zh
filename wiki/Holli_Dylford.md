@@ -15,7 +15,7 @@
 
 ### 阵营
 
-[安博里教会](Umberlee.md "Umberlee")
+[安博里](Umberlee.md "安博里")
 
 ## 属性
 
@@ -99,7 +99,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -107,7 +107,7 @@
 
 当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷伤害骰两次并使用较高的结果。
 
@@ -161,7 +161,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -169,7 +169,7 @@
 
 当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷伤害骰两次并使用较高的结果。
 
@@ -223,7 +223,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -231,7 +231,7 @@
 
 当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷伤害骰两次并使用较高的结果。
 
@@ -253,12 +253,12 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-  - [1.2 战利品](#loot)
-- [2 死者交谈](#speak-with-dead)
-- [3 相关任务](#related-quests)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+  - [1.2 战利品](#战利品)
+- [2 死者交谈](#死者交谈)
+- [3 相关任务](#相关任务)
+- [4 外部链接](#外部链接)
 
 ## 出场
 

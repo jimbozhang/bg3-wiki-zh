@@ -10,7 +10,7 @@
 
 大理石板最常出现在建筑物和其他结构内部，它们可以轻松地隐藏在其他地板铺路石板之间。即使尚未被察觉，通常也能看到它们，因为它们被描绘成带有精美花卉图案的、经过重度凿刻的面板。
 
-由于大理石板的功能是激活陷阱（或一系列陷阱），为了适应游戏机制，可以通过[察觉技能](Perception.md "Perception")技能检定来检测它，然后像处理普通陷阱一样通过[巧手](Sleight_of_Hand.md "Sleight of Hand")技能解除它（需要交互队伍成员的物品栏中有[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")）。最低要求是进行一次DC 10的[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "属性检定")，但[难度等级](Difficulty_Class.md "Difficulty Class")可能会根据情况而变化。
+由于大理石板的功能是激活陷阱（或一系列陷阱），为了适应游戏机制，可以通过[察觉技能](Perception.md "Perception")技能检定来检测它，然后像处理普通陷阱一样通过[巧手](Sleight_of_Hand.md "Sleight of Hand")技能解除它（需要交互队伍成员的物品栏中有[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")）。最低要求是进行一次DC 10的[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")，但[难度等级](Difficulty_Class.md "Difficulty Class")可能会根据情况而变化。
 
 如果大理石板是作为多个有害装置系统的触发器安装的，那么单独解除它会使整个系统失效。解除大理石板具有与处理任何其他类型陷阱时可能的掷骰结果相同的所有效果和后果。
 

@@ -100,35 +100,35 @@
 
 ## 特性
 
-- [**适应舞弊**](Adaptable_Skullduggery.md "适应舞弊")
+- [适应舞弊](Adaptable_Skullduggery.md "适应舞弊")
 
 此生物可以使用任何武器进行偷袭，而不仅仅是标记为灵巧的武器。
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而准确地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
-在对抗陷阱、法术、地表的[敏捷](DEX.md "敏捷")豁免检定中具有[优势](Advantage.md "优势")。不能是目盲或失能。
+在对抗陷阱、法术、地表的[敏](DEX.md "敏")豁免检定中具有[优势](Advantage.md "优势")。不能是目盲或失能。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在进行徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得+3加值，并且不会[受惊](Surprised.md "受惊")。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed.md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")中具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping.md "沉睡")。
 
@@ -136,15 +136,15 @@
 
 当你使用你[重甲的](Proficient.md "重甲的")的近战武器并双手持握时，[攻击掷骰](Attack_roll.md "攻击掷骰")会受到-5的减值，但其伤害会增加10。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
-- [**坚韧狂暴**](Relentless_Rage.md "坚韧狂暴")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
 
-每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒（状态）")状态下生命值降至0，你将恢复1点[生命值](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
+每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒（状态）")状态下生命值降至0，你将恢复1点[治疗](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并使用较高的结果。
 
@@ -200,35 +200,35 @@
 
 ## 特性
 
-- [**适应舞弊**](Adaptable_Skullduggery.md "适应舞弊")
+- [适应舞弊](Adaptable_Skullduggery.md "适应舞弊")
 
 此生物可以使用任何武器进行偷袭，而不仅仅是标记为灵巧的武器。
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而准确地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
-在对抗陷阱、法术、地表的[敏捷](DEX.md "敏捷")豁免检定中具有[优势](Advantage.md "优势")。不能是目盲或失能。
+在对抗陷阱、法术、地表的[敏](DEX.md "敏")豁免检定中具有[优势](Advantage.md "优势")。不能是目盲或失能。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在进行徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得+3加值，并且不会[受惊](Surprised.md "受惊")。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed.md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")中具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping.md "沉睡")。
 
@@ -236,15 +236,15 @@
 
 当你使用你[重甲的](Proficient.md "重甲的")的近战武器并双手持握时，[攻击掷骰](Attack_roll.md "攻击掷骰")会受到-5的减值，但其伤害会增加10。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
-- [**坚韧狂暴**](Relentless_Rage.md "坚韧狂暴")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
 
-每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒（状态）")状态下生命值降至0，你将恢复1点[生命值](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
+每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒（状态）")状态下生命值降至0，你将恢复1点[治疗](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并使用较高的结果。
 
@@ -300,35 +300,35 @@
 
 ## 特性
 
-- [**适应舞弊**](Adaptable_Skullduggery.md "适应舞弊")
+- [适应舞弊](Adaptable_Skullduggery.md "适应舞弊")
 
 此生物可以使用任何武器进行偷袭，而不仅仅是标记为灵巧的武器。
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而准确地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
-在对抗陷阱、法术、地表的[敏捷](DEX.md "敏捷")豁免检定中具有[优势](Advantage.md "优势")。不能是目盲或失能。
+在对抗陷阱、法术、地表的[敏](DEX.md "敏")豁免检定中具有[优势](Advantage.md "优势")。不能是目盲或失能。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在进行徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻检定获得+3加值，并且不会[受惊](Surprised.md "受惊")。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed.md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")中具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping.md "沉睡")。
 
@@ -336,15 +336,15 @@
 
 当你使用你[重甲的](Proficient.md "重甲的")的近战武器并双手持握时，[攻击掷骰](Attack_roll.md "攻击掷骰")会受到-5的减值，但其伤害会增加10。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
-- [**坚韧狂暴**](Relentless_Rage.md "坚韧狂暴")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
 
-每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒（状态）")状态下生命值降至0，你将恢复1点[生命值](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
+每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒（状态）")状态下生命值降至0，你将恢复1点[治疗](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并使用较高的结果。
 
@@ -370,11 +370,11 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 笔记](#notes)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 笔记](#笔记)
 
 ## 出场
 

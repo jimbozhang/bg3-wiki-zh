@@ -16,7 +16,7 @@
 
 详情
 近战徒手[攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5米（5英尺）
 
 ## 技术细节
@@ -35,7 +35,7 @@ UID
 
 持续时间：5驱散
 
-- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 ## 如何习得
 

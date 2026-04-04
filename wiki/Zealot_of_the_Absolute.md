@@ -91,19 +91,19 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "Disease") 效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷 [双手](Two-Handed.md "Two-Handed") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -153,19 +153,19 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "Disease") 效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷 [双手](Two-Handed.md "Two-Handed") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -215,23 +215,23 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "Disease") 效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷 [双手](Two-Handed.md "Two-Handed") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "Relentless Avenger")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你用 [借机攻击](Opportunity_Attack.md "Opportunity Attack") 命中敌人，你的 [移动速度](Movement_speed.md "Movement Speed") 将在你的下一回合增加 4.5 米 / 15 英尺。
 
@@ -239,23 +239,23 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第二幕](#act-two)
-  - [2.3 第三幕](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-    - [3.1.1 仅限硬核/荣誉模式](#tactician/Honour_only)
-  - [3.2 战利品](#loot)
-- [4 已知的至上真神狂热信徒](#known-zealots-of-the-absolute)
-  - [4.1 卓尔](#drow)
-  - [4.2 矮人](#dwarf)
-  - [4.3 半身人](#halfling)
-  - [4.4 半精灵](#half-elf)
-  - [4.5 半兽人](#half-orc)
-  - [4.6 人类](#human)
-- [5 注释](#notes)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第二幕](#第二幕)
+  - [2.3 第三幕](#第三幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+    - [3.1.1 仅限硬核/荣誉模式](#仅限硬核-荣誉模式)
+  - [3.2 战利品](#战利品)
+- [4 已知的至上真神狂热信徒](#已知的至上真神狂热信徒)
+  - [4.1 卓尔](#卓尔)
+  - [4.2 矮人](#矮人)
+  - [4.3 半身人](#半身人)
+  - [4.4 半精灵](#半精灵)
+  - [4.5 半兽人](#半兽人)
+  - [4.6 人类](#人类)
+- [5 注释](#注释)
 
 ## 概述
 

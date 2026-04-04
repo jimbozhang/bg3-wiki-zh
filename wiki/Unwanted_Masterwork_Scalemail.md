@@ -22,7 +22,7 @@
 - 对[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")
 
 [特制材料](Exotic_Material.md "特制材料")
-将你的敏捷[调整值](Ability_Modifier.md "属性调整值")的全部数值加到你的[护甲等级](Armour_Class.md "护甲等级")上。此外，这件护甲不会对隐匿[检定](Ability_Check.md "检定")施加[劣势](Disadvantage.md "劣势")。
+将你的敏捷[属性调整值](Ability_Modifier.md "属性调整值")的全部数值加到你的[护甲等级](Armour_Class.md "护甲等级")上。此外，这件护甲不会对隐匿[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
 
 ## 获取地点
 

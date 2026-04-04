@@ -4,7 +4,7 @@
 
 **混沌之潮**是[狂野魔法](Wild_Magic_(sorcerer_subclass).md) 术士副职的一个可切换被动技能，它使术士的下一次[属性检定](Ability_Check.md "属性检定")获得[优势](Advantage.md "优势")。此技能触发后，下一个施放的法术将有更高的几率引发[狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法 (被动技能)")爆发（50%几率，而非正常的5%）。
 
-或者，此技能也可以在掷骰失败后通过[相应反应](Tides_of_Chaos.md "混沌之潮")触发。
+或者，此技能也可以在掷骰失败后通过[混沌之潮](Tides_of_Chaos.md "混沌之潮")触发。
 
 ## 描述
 
@@ -15,7 +15,7 @@
 ### 详情
 
 消耗：
-[混沌之潮充能](Tides_of_Chaos.md "混沌之潮")
+[混沌之潮](Tides_of_Chaos.md "混沌之潮")
 
 ## 赋予
 
@@ -42,7 +42,7 @@
 
 ## 备注
 
-- 狂野魔法术士获得1点[混沌之潮充能](Tides_of_Chaos.md "混沌之潮")，每次[短休](Short_rest.md "短休")或[长休](Long_Rest.md "长休")时补充。
+- 狂野魔法术士获得1点[混沌之潮](Tides_of_Chaos.md "混沌之潮")，每次[短休](Short_rest.md "短休")或[长休](Long_Rest.md "长休")时补充。
 - 通常，每次施放环法术时都会掷一个d20。如果结果为20，则触发爆发。混沌之潮将[难度等级](Difficulty_Class.md "难度等级")（DC）降低至11（即50%几率）。
 
 ## 错误

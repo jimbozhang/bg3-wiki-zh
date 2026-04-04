@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**蜘蛛步伐法杖**是[法杖](Quarterstaves.md "Quarterstaves")武器家族中的一种[不常见](Uncommon.md "Uncommon")变体。它是一种[简易近战武器](Weapons.md "Weapons")，可以单手持用，或双手持用以造成额外伤害。
+**蜘蛛步伐法杖**是[法杖](Quarterstaves.md "Quarterstaves")武器家族中的一种[不常见](Uncommon.md "Uncommon")变体。它是一种[武器](Weapons.md "武器")，可以单手持用，或双手持用以造成额外伤害。
 
 这根法杖触感略带粘性，握持感极佳。
 

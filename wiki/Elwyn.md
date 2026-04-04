@@ -91,7 +91,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -143,7 +143,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -195,7 +195,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -225,13 +225,13 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 图库](#gallery)
-- [4 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 图库](#图库)
+- [4 外部链接](#外部链接)
 
 ## 参与度
 
@@ -273,7 +273,7 @@ UUID
 
 召唤一道光束，对任何进入光束或在光束中开始其回合的生物造成伤害。你可以使用一个[动作](Action.md "Action")将光束移动 18 米 (60 英尺)。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
 [毒气喷溅](Poison_Spray.md "Poison Spray") ()
@@ -284,7 +284,7 @@ UUID
 
 喷出一股有毒气体，对目标造成 1d12⁠⁠[中毒](Poison.md "Poison") 伤害。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：3 米 (10 英尺)
 
 [燃火术](Produce_Flame.md "Produce Flame") ()
@@ -305,7 +305,7 @@ UUID
 | --- | --- | --- |
 | 1 | 0 | 3 |
 
-变形成一只恐狼，可以[激励](Inciting_Howl_(Wolf).md "Inciting Howl (Wolf)")盟友和[分心](Exposing_Bite.md "Exposing Bite")敌人。恐狼的起始生命值为 18 [生命值](Hit_Points.md "Hit points")，每两级德鲁伊等级提升一次。
+变形成一只恐狼，可以[激励](Inciting_Howl_(Wolf).md "Inciting Howl (Wolf)")盟友和[暴露啃咬](Exposing_Bite.md "暴露啃咬")敌人。恐狼的起始生命值为 18 [生命值](Hit_Points.md "Hit points")，每两级德鲁伊等级提升一次。
 
 在动物形态下，你无法说话或施放法术。你获得野兽形态的属性 - 不包括你的[智力](Intelligence.md "Intelligence")、[感知](Wisdom.md "Wisdom")和[魅力](Charisma.md "Charisma")值。
 

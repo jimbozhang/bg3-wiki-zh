@@ -4,13 +4,13 @@
 
 ## 目录
 
-- [1 力量豁免](#strength-save)
-- [2 敏捷豁免](#dexterity-save)
-- [3 体质豁免](#constitution-save)
-- [4 智力豁免](#intelligence-save)
-- [5 感知豁免](#wisdom-save)
-- [6 魅力豁免](#charisma-save)
-- [7 另见](#see-also)
+- [1 力量豁免](#力量豁免)
+- [2 敏捷豁免](#敏捷豁免)
+- [3 体质豁免](#体质豁免)
+- [4 智力豁免](#智力豁免)
+- [5 感知豁免](#感知豁免)
+- [6 魅力豁免](#魅力豁免)
+- [7 另见](#另见)
 
 ## 力量豁免
 
@@ -41,7 +41,7 @@
 | [蛛网术](Web.md "蛛网术") | 2 |  |  | - | 18 米 / 60 英尺 / 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [召雷术](Call_Lightning.md "召雷术") | 3 |  |  | 10回合 | 18 米 / 60英尺 / 2米 / 7英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 3d10⁠[闪电](Lightning.md "闪电") |
 | [召唤箭雨](Conjure_Barrage.md "召唤箭雨") | 3 |  |  | - | 自身 / 9米 / 30英尺 (锥形) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 正常武器伤害 / 2d8⁠[武器](Weapon.md "武器") |
-| [火球术术](Fireball.md "火球术术") | 3 |  |  | - | 18 米 / 60英尺 / 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
+| [火球术](Fireball.md "火球术") | 3 |  |  | - | 18 米 / 60英尺 / 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
 | [守卫刻文](Glyph_of_Warding.md "守卫刻文") | 3 |  |  | - | 9 米 / 30英尺 / 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴") | 3 |  |  | - | 18 米 / 60 英尺 / 6米 / 20英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 2d6⁠[寒冷](Cold.md "寒冷") / 2d6⁠[强酸](Acid.md "强酸") |
 | [闪电箭](Lightning_Arrow.md "闪电箭") | 3 |  |  | - | 18 米 / 60 英尺 / 3米 / 10英尺 (半径) | [攻击掷骰](Attack_roll.md "攻击掷骰") [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 4d8⁠[闪电](Lightning.md "闪电") / 2d8⁠[闪电](Lightning.md "闪电") |

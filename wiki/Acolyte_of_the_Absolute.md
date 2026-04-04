@@ -66,7 +66,7 @@
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
@@ -108,7 +108,7 @@
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
@@ -150,7 +150,7 @@
 
 - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
@@ -182,15 +182,15 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与情况](#involvement)
-  - [2.1 第二幕](#act-two)
-  - [2.2 第三幕](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 已知的至上真神侍僧](#known-acolytes-of-the-absolute)
-- [5 备注](#notes)
+- [1 概述](#概述)
+- [2 参与情况](#参与情况)
+  - [2.1 第二幕](#第二幕)
+  - [2.2 第三幕](#第三幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 已知的至上真神侍僧](#已知的至上真神侍僧)
+- [5 备注](#备注)
 
 ## 概述
 
@@ -237,7 +237,7 @@
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：常规武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -259,7 +259,7 @@
 
 用火焰般的光耀吞噬目标。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 ### 战利品

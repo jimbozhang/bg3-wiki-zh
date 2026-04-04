@@ -1,6 +1,6 @@
 # 详情账簿
 
-**详情账簿**是一份关于[博德人](Baldur's_Gate.md "博德之门")企业的收入报告，其中涉及[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")。
+**详情账簿**是一份关于[博德之门](Baldur's_Gate.md "博德之门")企业的收入报告，其中涉及[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")。
 
 一张朴素无华的便条。
 
@@ -28,7 +28,7 @@
 - 净收益：[博德之口](Baldur's_Mouth.md "博德之口")（来源：恩维尔·戈塔什大人；因[绝对](Absolute.md "绝对")进军导致时事兴趣增加）
 - 净收益：[清账屋](Counting_House.md "清账屋")（来源：恩维尔·戈塔什大人）
 - 净收益：[弗莱姆货运](Flymm_Cargo.md "弗莱姆货运")（来源：恩维尔·戈塔什大人）
-- 净收益：[奥玛托拉珠宝](The_Glitter_Gala.md "闪耀盛会") _[原文如此]_（来源：恩维尔·戈塔什大人）
+- 净收益：[闪耀盛会](The_Glitter_Gala.md "闪耀盛会") _[原文如此]_（来源：恩维尔·戈塔什大人）
 
 ---
 *Source: [Detailed Ledger](https://bg3.wiki/wiki/Detailed_Ledger)*

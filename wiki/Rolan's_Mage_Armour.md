@@ -2,7 +2,7 @@
 
 另请参阅：[魔法护甲](Mage_Armour.md "魔法护甲")
 
-**罗兰的魔法护甲**是一个[1级防护学派法术](Spells.md "Spells")。此法术是[魔法护甲](Mage_Armour.md "Mage Armour")法术的变体，为[罗兰](Rolan.md "Rolan")独有。队伍成员无法学习此法术。
+**罗兰的魔法护甲**是一个[法术](Spells.md "法术")。此法术是[魔法护甲](Mage_Armour.md "Mage Armour")法术的变体，为[罗兰](Rolan.md "Rolan")独有。队伍成员无法学习此法术。
 
 ## 描述
 

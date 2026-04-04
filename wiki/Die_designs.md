@@ -1,6 +1,6 @@
 # 骰子设计
 
-**骰子设计**（或“骰子皮肤”）是二十面骰子的可选外观，用于[掷骰](Die_Rolls.md "Die Rolls")。该设计出现在玩家动作（如[对话](Dialogue.md "Dialogue")选择或[撬锁](Sleight_of_Hand.md "Sleight of Hand")）触发的[属性检定](Ability_Check.md "Ability Check")（有时是[豁免检定](Saving_throw.md "Saving Throw")）所使用的动画骰子上。可以通过属性检定覆盖层左下角的设置更改当前使用的设计。所选皮肤适用于玩家，而非每个存档或角色，但可以随时更改。
+**骰子设计**（或“骰子皮肤”）是二十面骰子的可选外观，用于[掷骰](Die_Rolls.md "Die Rolls")。该设计出现在玩家动作（如[对话](Dialogue.md "Dialogue")选择或[巧手](Sleight_of_Hand.md "巧手")）触发的[属性检定](Ability_Check.md "Ability Check")（有时是[豁免检定](Saving_throw.md "Saving Throw")）所使用的动画骰子上。可以通过属性检定覆盖层左下角的设置更改当前使用的设计。所选皮肤适用于玩家，而非每个存档或角色，但可以随时更改。
 
 ## 核心设计
 

@@ -91,7 +91,7 @@ Sszaryn
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -141,7 +141,7 @@ Sszaryn
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -191,7 +191,7 @@ Sszaryn
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -213,11 +213,11 @@ UUID
 
 ## 目录
 
-- [1 登场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战利品](#loot)
-- [3 死者交谈](#speak-with-dead)
-- [4 外部链接](#external-links)
+- [1 登场](#登场)
+  - [1.1 第一幕](#第一幕)
+- [2 战利品](#战利品)
+- [3 死者交谈](#死者交谈)
+- [4 外部链接](#外部链接)
 
 ## 登场
 

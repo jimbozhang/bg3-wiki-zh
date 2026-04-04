@@ -59,11 +59,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -103,11 +103,11 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -147,15 +147,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-**沼泽分支龙格鲁沙**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中[丛林](Jungle.md "丛林")内发现的一只雌性[分支龙](Chult_Alioramus.md "沼泽分支龙")。分支龙可以快速移动并进行跳跃攻击。
+**沼泽分支龙格鲁沙**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中[丛林](Jungle.md "丛林")内发现的一只雌性[沼泽分支龙](Chult_Alioramus.md "沼泽分支龙")。分支龙可以快速移动并进行跳跃攻击。
 
 分支龙格鲁沙带领一群雄性分支龙，利用其交配信息素为族群提供额外伤害和抗性。
 

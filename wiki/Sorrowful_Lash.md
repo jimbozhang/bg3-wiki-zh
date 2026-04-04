@@ -1,6 +1,6 @@
 # 悲伤鞭笞
 
-**悲伤鞭笞**是一种[戏法（变化学派）](Spells.md "Spells")。它对目标造成伤害并将其拉向施法者。它本质上等同于[荆棘之鞭](Thorn_Whip.md "Thorn_Whip")戏法，但使用[附赠动作](Actions.md#Resources "Actions")且基础伤害不随等级提升。
+**悲伤鞭笞**是一种[法术](Spells.md "法术")。它对目标造成伤害并将其拉向施法者。它本质上等同于[荆棘之鞭](Thorn_Whip.md "Thorn_Whip")戏法，但使用[附赠动作](Actions.md#Resources "Actions")且基础伤害不随等级提升。
 
 ## 描述
 

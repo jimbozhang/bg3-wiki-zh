@@ -93,11 +93,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害有[抗性](Resistance.md "抗性")。
 
@@ -147,11 +147,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害有[抗性](Resistance.md "抗性")。
 
@@ -181,15 +181,15 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与情况](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第三幕](#act-three)
-- [3 相关文献](#related-literature)
-  - [3.1 巴伦撰写](#written-by-baelen)
-- [4 相关任务](#related-quests)
-- [5 死者交谈](#speak-with-dead)
-- [6 注释与参考文献](#notes-and-references)
+- [1 概述](#概述)
+- [2 参与情况](#参与情况)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第三幕](#第三幕)
+- [3 相关文献](#相关文献)
+  - [3.1 巴伦撰写](#巴伦撰写)
+- [4 相关任务](#相关任务)
+- [5 死者交谈](#死者交谈)
+- [6 注释与参考文献](#注释与参考文献)
 
 ## 概述
 

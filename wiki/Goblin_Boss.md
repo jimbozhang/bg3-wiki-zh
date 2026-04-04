@@ -64,15 +64,15 @@
 
 ## 特性
 
-- [**原始狂怒**](Crude_Frenzy.md "Crude Frenzy")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行主手攻击后，可以进行一次额外的免费攻击，但第二次攻击的攻击掷骰具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -112,15 +112,15 @@
 
 ## 特性
 
-- [**原始狂怒**](Crude_Frenzy.md "Crude Frenzy")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行主手攻击后，可以进行一次额外的免费攻击，但第二次攻击的攻击掷骰具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -160,19 +160,19 @@
 
 ## 特性
 
-- [**原始狂怒**](Crude_Frenzy.md "Crude Frenzy")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行主手攻击后，可以进行一次额外的免费攻击，但第二次攻击的攻击掷骰具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择造成额外的 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -212,19 +212,19 @@
 
 ## 特性
 
-- [**原始狂怒**](Crude_Frenzy.md "Crude Frenzy")
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
 
 此地精在进行主手攻击后，可以进行一次额外的免费攻击，但第二次攻击的攻击掷骰具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择造成额外的 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -238,10 +238,10 @@
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-- [2 战利品](#loot)
-- [3 已知地精首领](#known-goblin-bosses)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+- [2 战利品](#战利品)
+- [3 已知地精首领](#已知地精首领)
 
 ## 战斗
 

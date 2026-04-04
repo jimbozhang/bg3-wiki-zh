@@ -98,7 +98,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 14 / (+2) | 15 / (+2) | 10 / (0) | 11 / (0) | 17 / (+3) |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -106,23 +106,23 @@
 
 - ## 特性
 
-- [**防御**](Defence.md "Defence")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "Armour")时，[护甲等级](AC.md "AC") +1。
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**健壮**](Tough.md "Tough")
+- [健壮](Tough.md "健壮")
 
 你的[生命值](Hit_Points.md "Hit Points")上限随你获得的每个等级增加 2 点。
 
@@ -168,7 +168,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +3 | +2 | +2 | 0 | +2 | +5 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -176,23 +176,23 @@
 
 - ## 特性
 
-- [**防御**](Defence.md "Defence")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "Armour")时，[护甲等级](AC.md "AC") +1。
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**健壮**](Tough.md "Tough")
+- [健壮](Tough.md "健壮")
 
 你的[生命值](Hit_Points.md "Hit Points")上限随你获得的每个等级增加 2 点。
 
@@ -238,7 +238,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 14 / (+2) | 15 / (+2) | 10 / (0) | 11 / (0) | 17 / (+3) |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -246,23 +246,23 @@
 
 - ## 特性
 
-- [**防御**](Defence.md "Defence")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "Armour")时，[护甲等级](AC.md "AC") +1。
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**健壮**](Tough.md "Tough")
+- [健壮](Tough.md "健壮")
 
 你的[生命值](Hit_Points.md "Hit Points")上限随你获得的每个等级增加 2 点。
 
@@ -292,22 +292,22 @@ Stats
 
 ## 目录
 
-- [1 背景](#background)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第二幕](#act-two)
-  - [2.3 第三幕](#act-three)
-  - [2.4 尾声](#epilogue)
-- [3 战斗](#combat)
-  - [3.1 第一幕](#act-one-2)
-  - [3.2 第三幕](#act-three-2)
-- [4 伙伴好感度](#companion-approval)
-- [5 死者交谈](#speak-with-dead)
-- [6 相关任务](#related-quests)
-- [7 相关文献](#related-literature)
-- [8 画廊](#gallery)
-- [9 注释](#notes)
-- [10 外部链接](#external-links)
+- [1 背景](#背景)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第二幕](#第二幕)
+  - [2.3 第三幕](#第三幕)
+  - [2.4 尾声](#尾声)
+- [3 战斗](#战斗)
+  - [3.1 第一幕](#第一幕)
+  - [3.2 第三幕](#第三幕)
+- [4 伙伴好感度](#伙伴好感度)
+- [5 死者交谈](#死者交谈)
+- [6 相关任务](#相关任务)
+- [7 相关文献](#相关文献)
+- [8 画廊](#画廊)
+- [9 注释](#注释)
+- [10 外部链接](#外部链接)
 
 ## 背景
 
@@ -369,7 +369,7 @@ Stats
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力调整值](Charisma.md "Charisma")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
 - \_(状态)[**奉献灵光**](Aura_of_Devotion_(Aura)_(Condition).md "Aura of Devotion (Aura) (Condition)")
 
@@ -377,7 +377,7 @@ Stats
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
@@ -407,7 +407,7 @@ Stats
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力调整值](Charisma.md "Charisma")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
 - \_(状态)[**奉献灵光**](Aura_of_Devotion_(Aura)_(Condition).md "Aura of Devotion (Aura) (Condition)")
 
@@ -415,7 +415,7 @@ Stats
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
@@ -461,7 +461,7 @@ Stats
 
 ## 特性
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "Improved Divine Smite")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "Radiant") 伤害。
 
@@ -499,7 +499,7 @@ Stats
 
 ## 特性
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "Improved Divine Smite")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "Radiant") 伤害。
 
@@ -537,21 +537,21 @@ Stats
 
 ## 特性
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "Improved Divine Smite")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "Radiant") 伤害。
 
-赛夫洛随后可以在[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")内的一个[转化贮囊](Mind_Flayer_Pod.md "Mind Flayer Pod")中被找到。通过打开所有贮囊可以释放他，这会引发与几个[夺心魔](Mind_flayer.md "Mind Flayer")的战斗。如果赛夫洛幸存，他会告诉队伍至上真神如何侵入他的思维，导致他在袭击难民时喊出投降。他认为其他提夫林不会欢迎他回来，并且无法被说服，最终独自离开。否则，他可能会被与所有夺心魔一起清除，导致死亡。
+赛夫洛随后可以在[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")内的一个[夺心魔贮囊](Mind_Flayer_Pod.md "夺心魔贮囊")中被找到。通过打开所有贮囊可以释放他，这会引发与几个[夺心魔](Mind_flayer.md "Mind Flayer")的战斗。如果赛夫洛幸存，他会告诉队伍至上真神如何侵入他的思维，导致他在袭击难民时喊出投降。他认为其他提夫林不会欢迎他回来，并且无法被说服，最终独自离开。否则，他可能会被与所有夺心魔一起清除，导致死亡。
 
 ### 第三幕
 
-如果赛夫洛在夺心魔殖民地未被杀死或释放，[腥红奥林](Orin.md "Orin")会杀死他，并将他的尸体连同[辉煌地狱画作](Grand_Infernal_Painting.md "Grand Infernal Painting")留在营地。与他的尸体交谈会揭示他被用作祭品，奥林位于城市下方。
+如果赛夫洛在夺心魔殖民地未被杀死或释放，[奥林](Orin.md "奥林")会杀死他，并将他的尸体连同[辉煌地狱画作](Grand_Infernal_Painting.md "Grand Infernal Painting")留在营地。与他的尸体交谈会揭示他被用作祭品，奥林位于城市下方。
 
-否则，如果从[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")的贮囊中救出，他的[地狱骑士团](Hellrider_Platoon.md "Hellrider Platoon")可以作为盟友召唤，使用[召集盟友](Gather_Your_Allies_(class_action).md "Gather Your Allies (class action)")职业动作，在[至高大殿](High_Hall.md "High Hall")向[耐色脑](Netherbrain.md "Netherbrain")攀登时。然而，他和[装甲枭熊](Owlbear_Cub.md "Owlbear Cub")是两个可能在这场最终战斗中永久死亡的主要角色。如果赛夫洛死亡，他将从[尾声](Epilogue.md "Epilogue")中移除。
+否则，如果从[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")的贮囊中救出，他的[地狱骑士团](Hellrider_Platoon.md "Hellrider Platoon")可以作为盟友召唤，使用[召集盟友](Gather_Your_Allies_(class_action).md "Gather Your Allies (class action)")职业动作，在[至高大殿](High_Hall.md "High Hall")向[耐色脑](Netherbrain.md "Netherbrain")攀登时。然而，他和[枭熊幼兽](Owlbear_Cub.md "枭熊幼兽")是两个可能在这场最终战斗中永久死亡的主要角色。如果赛夫洛死亡，他将从[尾声](Epilogue.md "Epilogue")中移除。
 
 ### 尾声
 
-如果赛夫洛在耐色脑战斗中幸存，可以在[感激之箱](Chest_of_Grateful_Words.md "Chest of Grateful Words")中找到他的感谢信；信中他透露地狱骑士现在[没有誓言](Oathbreaker.md "Oathbreaker")，但仍在博德之门定居，以保护城市免受艾尔图瑞尔那样的苦难。
+如果赛夫洛在耐色脑战斗中幸存，可以在[感激之箱](Chest_of_Grateful_Words.md "Chest of Grateful Words")中找到他的感谢信；信中他透露地狱骑士现在[弃誓者](Oathbreaker.md "弃誓者")，但仍在博德之门定居，以保护城市免受艾尔图瑞尔那样的苦难。
 
 ## 战斗
 

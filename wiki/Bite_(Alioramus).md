@@ -14,11 +14,11 @@
 [动作](Actions.md#Resources "动作")
 伤害：2~8 + 调整值
 
-2d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
+2d4 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
 
 详情
 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5 米（5 英尺）
 
 ## 技术细节

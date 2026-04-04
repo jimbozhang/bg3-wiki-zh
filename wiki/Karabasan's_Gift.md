@@ -36,7 +36,7 @@
 
 持续时间：2 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
 
 - 生物处于[失能](失能_(状态)>.md)
 - 对挥砍、穿刺和钝击伤害[易伤](Vulnerable.md "易伤")。

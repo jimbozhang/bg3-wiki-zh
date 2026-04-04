@@ -97,19 +97,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -165,19 +165,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -233,19 +233,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -279,18 +279,18 @@ Stats
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 闲聊](#idle-banter)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 闲聊](#闲聊)
 
 ## 参与度
 
 ### 第三幕
 
-维瑞与[拳手洛克博瑟姆](Rockbothem.md "拳手洛克博瑟姆")和一名[钢铁卫士](Steel_Watcher.md "钢铁卫士")一起在下城区的街道上巡逻。她和她的焰拳同伴可以在[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头") X: -171 Y: -102 处找到，他们正在欺凌商人[罗克斯·弗朗特](Rox_Flunter.md "罗克斯·弗朗特")和[辛纳·布鲁塞拉](Cinna_Brewcellar.md "辛纳·布鲁塞拉")，并试图以走私品为借口没收他们运抵城市的葡萄酒。这两名焰拳成员似乎仗着有[机器人](Steel_Watcher.md "钢铁卫士")撑腰而肆无忌惮。
+维瑞与[拳手洛克博瑟姆](Rockbothem.md "拳手洛克博瑟姆")和一名[钢铁卫士](Steel_Watcher.md "钢铁卫士")一起在下城区的街道上巡逻。她和她的焰拳同伴可以在[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头") X: -171 Y: -102 处找到，他们正在欺凌商人[罗克斯·弗朗特](Rox_Flunter.md "罗克斯·弗朗特")和[辛纳·布鲁塞拉](Cinna_Brewcellar.md "辛纳·布鲁塞拉")，并试图以走私品为借口没收他们运抵城市的葡萄酒。这两名焰拳成员似乎仗着有[钢铁卫士](Steel_Watcher.md "钢铁卫士")撑腰而肆无忌惮。
 
 在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")被摧毁后，维瑞仍留在原地，抱怨说有钢铁卫士在身后撑腰时敲诈平民要容易得多。附近的[赛尔·迪莉娅](Deelia.md "赛尔·迪莉娅")、[弗莱瑞安](Flaerian.md "弗莱瑞安")和[耶勒·道格](Yeller_Dawg.md "耶勒·道格")试图与守卫讲道理，但无济于事。
 
@@ -364,7 +364,7 @@ Stats
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与其近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与其近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 

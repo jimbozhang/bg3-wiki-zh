@@ -24,7 +24,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -84,11 +84,11 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -138,11 +138,11 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -192,11 +192,11 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -246,7 +246,7 @@ UUID
 
 厌倦了袖手旁观凯瑟里克和他的法官们接管小镇，莫弗雷德的绝望引起了[拉斐尔](Raphael.md "拉斐尔")的注意，他注意到并接近莫弗雷德，提出了一份地狱契约：以他的灵魂换取法官们的彻底毁灭。<sup>[\[8\]](#cite_note-8)</sup><sup>[\[9\]](#cite_note-9)</sup>
 
-拉斐尔履行了他的交易，派出了[尤格](Yurgir.md "Yurgir")和他的[军团魔](Merregon.md "军团魔")，他们[屠杀除一名法官外的所有人](Break_Yurgir's_Contract.md "打破尤格的契约")。失去了军队，并被[竖琴手](Harpers.md "竖琴手")击溃，凯瑟里克在绝望的最后行动中释放了[幽影诅咒](Shadow_Curse.md "幽影诅咒")。
+拉斐尔履行了他的交易，派出了[尤格](Yurgir.md "Yurgir")和他的[军团魔](Merregon.md "军团魔")，他们[打破尤格的契约](Break_Yurgir's_Contract.md "打破尤格的契约")。失去了军队，并被[竖琴手](Harpers.md "竖琴手")击溃，凯瑟里克在绝望的最后行动中释放了[幽影诅咒](Shadow_Curse.md "幽影诅咒")。
 
 莫弗雷德在一段时间后死去，成为了一名债务人，被束缚在希望之邸。
 

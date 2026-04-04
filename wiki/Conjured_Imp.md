@@ -64,15 +64,15 @@
 
 - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中视物，有一定距离限制。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 能在黑暗中视物，包括魔法黑暗，距离可达 24 米 (80 英尺)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -118,15 +118,15 @@
 
 - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中视物，有一定距离限制。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 能在黑暗中视物，包括魔法黑暗，距离可达 24 米 (80 英尺)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -164,7 +164,7 @@
 
 造成 1d4 + 敏捷调整值[穿刺](Piercing.md "穿刺") 伤害，并可能额外造成 1d6[中毒](Poison.md "中毒") 伤害。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
 ---

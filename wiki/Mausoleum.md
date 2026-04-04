@@ -1,6 +1,6 @@
 # 陵墓
 
-这是一个消歧义页面，指向名称模糊的文章。如果文章中的链接将您[带到这里](Special_colon_WhatLinksHere/Mausoleum.md "Special:WhatLinksHere/Mausoleum")，请考虑编辑该链接以指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果文章中的链接将您[陵墓](Special_colon_WhatLinksHere/Mausoleum.md "陵墓")，请考虑编辑该链接以指向正确的页面。
 
 **陵墓**可能指：
 

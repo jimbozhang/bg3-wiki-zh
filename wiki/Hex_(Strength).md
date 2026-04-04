@@ -1,10 +1,10 @@
 # 脆弱诅咒（力量）
 
-**脆弱诅咒（力量）** 是一个 [等级 1 惑控学派法术](Spells.md "Spells")。此法术允许施法者对一个生物施加诅咒，并对其造成额外的黯蚀伤害。该诅咒还会使该生物的力量检定处于劣势。
+**脆弱诅咒（力量）** 是一个 [法术](Spells.md "法术")。此法术允许施法者对一个生物施加诅咒，并对其造成额外的黯蚀伤害。该诅咒还会使该生物的力量检定处于劣势。
 
 ## 描述
 
-当你攻击目标时，造成额外的 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使目标的 [力量](Strength.md "Strength") [检定](Ability_Check.md "Ability Check") 处于 [劣势](Disadvantage.md "Disadvantage")。
+当你攻击目标时，造成额外的 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使目标的 [力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定") 处于 [劣势](Disadvantage.md "Disadvantage")。
 
 ## 属性
 
@@ -43,7 +43,7 @@ UID
 持续时间：直至 [长休](Long_Rest.md "Long rest")
 
 - 该生物从施法者处承受额外的 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
-- 其 [力量](Strength.md "Strength") [检定](Ability_Check.md "Ability Check") 也处于 [劣势](Disadvantage.md "Disadvantage")。
+- 其 [力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定") 也处于 [劣势](Disadvantage.md "Disadvantage")。
 
 ## 如何习得
 

@@ -4,40 +4,40 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 地点](#locations)
-  - [1.2 相邻区域](#adjacent-regions)
-  - [1.3 传送点](#waypoints)
-- [2 疮痍的海滩](#ravaged-beach)
-  - [2.1 路边山崖](#roadside-cliffs)
-  - [2.2 蔓生废墟](#overgrown-ruins)
-- [3 东北部地点](#north-eastern-locations)
-  - [3.1 翠绿林地](#emerald-grove)
-  - [3.2 隐秘河湾](#secluded-cove)
-- [4 中部地点](#central-locations)
-  - [4.1 森林](#forest)
-  - [4.2 染疫村落](#blighted-village)
-- [5 西北部地点](#north-western-locations)
-  - [5.1 晋升之路](#risen-road)
-  - [5.2 渥金的休眠地](#waukeen's-rest)
-  - [5.3 山隘](#mountain-pass)
-- [6 南部地点](#southern-locations)
-  - [6.1 日照湿地](#sunlit-wetlands)
-- [7 西部地点](#western-locations)
-  - [7.1 地精营地](#goblin-camp)
-- [8 角色](#characters)
-  - [8.1 伙伴](#companions)
-  - [8.2 著名非玩家角色](#notable-non-player_characters)
-  - [8.3 生物](#creatures)
-- [9 战利品](#loot)
-  - [9.1 隐藏宝藏](#hidden-treasures)
-- [10 参考文献](#references)
+- [1 概述](#概述)
+  - [1.1 地点](#地点)
+  - [1.2 相邻区域](#相邻区域)
+  - [1.3 传送点](#传送点)
+- [2 疮痍的海滩](#疮痍的海滩)
+  - [2.1 路边山崖](#路边山崖)
+  - [2.2 蔓生废墟](#蔓生废墟)
+- [3 东北部地点](#东北部地点)
+  - [3.1 翠绿林地](#翠绿林地)
+  - [3.2 隐秘河湾](#隐秘河湾)
+- [4 中部地点](#中部地点)
+  - [4.1 森林](#森林)
+  - [4.2 染疫村落](#染疫村落)
+- [5 西北部地点](#西北部地点)
+  - [5.1 晋升之路](#晋升之路)
+  - [5.2 渥金的休眠地](#渥金的休眠地)
+  - [5.3 山隘](#山隘)
+- [6 南部地点](#南部地点)
+  - [6.1 日照湿地](#日照湿地)
+- [7 西部地点](#西部地点)
+  - [7.1 地精营地](#地精营地)
+- [8 角色](#角色)
+  - [8.1 伙伴](#伙伴)
+  - [8.2 著名非玩家角色](#著名非玩家角色)
+  - [8.3 生物](#生物)
+- [9 战利品](#战利品)
+  - [9.1 隐藏宝藏](#隐藏宝藏)
+- [10 参考文献](#参考文献)
 
 ## 概述
 
 荒野是[埃尔图加德](https://forgottenrealms.fandom.com/wiki/Elturgard)<sup>[\[1\]](#cite_note-1)</sup>中一片森林茂密的地区，覆盖了[晋升之路](Risen_Road.md "晋升之路")的一段和[奇昂萨河](River_Chionthar.md "奇昂萨河")的某处，位于[艾尔图雷尔](Elturel.md "艾尔图雷尔")和[博德之门](Baldur's_Gate.md "博德之门")之间。
 
-该地区的著名定居点包括[翠绿林地](Emerald_Grove.md "翠绿林地")、[染疫村落](Blighted_Village.md "染疫村落")和[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")。一个[地精](Goblin.md "地精")部落和其他几种怪物已在染疫村落和西部的[塞伦涅神殿](Goblin_Camp.md "地精营地")安家。[蔓生废墟](Overgrown_Ruins.md "蔓生废墟")位于最东边。
+该地区的著名定居点包括[翠绿林地](Emerald_Grove.md "翠绿林地")、[染疫村落](Blighted_Village.md "染疫村落")和[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")。一个[地精](Goblin.md "地精")部落和其他几种怪物已在染疫村落和西部的[地精营地](Goblin_Camp.md "地精营地")安家。[蔓生废墟](Overgrown_Ruins.md "蔓生废墟")位于最东边。
 
 荒野还包含多个通往[幽暗地域](Underdark.md "幽暗地域")的入口。
 

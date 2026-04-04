@@ -2,7 +2,7 @@
 
 本文介绍的内容在正常游戏中**[无法获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**合成斧**是[战斧](Battleaxes.md "Battle斧")武器家族的稀有、轻度附魔（+1）变体。它是一种[军用近战武器](Weapons.md "武器")，可单手持用，或双手持用以获得额外伤害。
+**合成斧**是[战斧](Battleaxes.md "Battle斧")武器家族的稀有、轻度附魔（+1）变体。它是一种[武器](Weapons.md "武器")，可单手持用，或双手持用以获得额外伤害。
 
 斧刃和斧柄上的复杂雕刻彰显了其锻造者的精湛技艺。
 

@@ -1,6 +1,6 @@
 # 匿名信
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Anonymous_letter.md "Special:WhatLinksHere/Anonymous letter")的，请考虑编辑该链接，将其指向目标页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[匿名信](Special_colon_WhatLinksHere/Anonymous_letter.md "匿名信")的，请考虑编辑该链接，将其指向目标页面。
 
 **匿名信**可能指：
 

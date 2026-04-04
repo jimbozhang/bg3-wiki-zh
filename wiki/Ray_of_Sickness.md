@@ -1,6 +1,6 @@
 # 疾病射线
 
-**疾病射线**是一个[1级死灵学派法术](Spells.md "法术")。它允许施法者向敌人发射一道令人作呕的能量射线，造成[中毒](Poison.md "中毒")伤害，并可能使其中毒。
+**疾病射线**是一个[法术](Spells.md "法术")。它允许施法者向敌人发射一道令人作呕的能量射线，造成[中毒](Poison.md "中毒")伤害，并可能使其中毒。
 
 ## 描述
 
@@ -41,7 +41,7 @@ UID
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Checks.md "检定")时承受[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")时承受[劣势](Disadvantage.md "劣势")。
 
 ## 学习方式
 

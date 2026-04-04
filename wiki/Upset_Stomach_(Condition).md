@@ -21,9 +21,9 @@
 
 持续时间：25 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
 
-- 体温逐渐升高。在使用力量的 [检定](Ability_Check.md "检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
+- 体温逐渐升高。在使用力量的 [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
 - 持续时间结束时，进行一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。失败将施加状态 [污秽热病](Filth_Fever_(Condition).md "污秽热病 (状态)")。
 
 ## 胃部不适的来源

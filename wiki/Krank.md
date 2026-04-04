@@ -79,19 +79,19 @@
 
 ## 特性
 
-- [**反魔法敏感性**](Antimagic_Susceptibility.md "反魔法敏感性")
+- [反魔法敏感性](Antimagic_Susceptibility.md "反魔法敏感性")
 
 [失能](Incapacitated_(Condition).md) by antimagic fields.
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -147,19 +147,19 @@
 
 ## 特性
 
-- [**反魔法敏感性**](Antimagic_Susceptibility.md "反魔法敏感性")
+- [反魔法敏感性](Antimagic_Susceptibility.md "反魔法敏感性")
 
 [失能](Incapacitated_(Condition).md) by antimagic fields.
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -215,19 +215,19 @@
 
 ## 特性
 
-- [**反魔法敏感性**](Antimagic_Susceptibility.md "反魔法敏感性")
+- [反魔法敏感性](Antimagic_Susceptibility.md "反魔法敏感性")
 
 [失能](Incapacitated_(Condition).md) by antimagic fields.
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -257,10 +257,10 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
 
 ## 出场
 

@@ -24,13 +24,13 @@
 
 ## 目录
 
-- [1 概览](#overview)
-  - [1.1 散塔林会仓库](#the-zhentarim-storehouse)
-  - [1.2 牛头人丘陵](#minotaur-hills)
-- [2 相关地点](#related-locations)
-- [3 生物](#creatures)
-- [4 战利品](#loot)
-- [5 备注](#notes)
+- [1 概览](#概览)
+  - [1.1 散塔林会仓库](#散塔林会仓库)
+  - [1.2 牛头人丘陵](#牛头人丘陵)
+- [2 相关地点](#相关地点)
+- [3 生物](#生物)
+- [4 战利品](#战利品)
+- [5 备注](#备注)
 
 ## 概览
 
@@ -60,7 +60,7 @@
 | ↓ |  |  |  |  |
 | [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") |  |  |  |  |
 
-该区域的大部分（一直到塞伦涅信徒哨站前的路障）被视为附近[黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto")菌落的[蕈人](Myconid.md "Myconid")的领地，边界在空中呈现为紫色斑点。当首次进入蕈人控制的区域时，队伍会感受到[亲和孢子](Rapport_Spores_(Condition).md "Rapport Spores (Condition)")的效果，并通过它与“神秘声音”进行对话，警告他们前方的牛头人。成功的 DC 15 [自然](Nature.md "Nature") [检定](Ability_Check.md "Ability check")有助于检测孢子，无论结果如何，任何队伍成员都会对此发表评论。
+该区域的大部分（一直到塞伦涅信徒哨站前的路障）被视为附近[黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto")菌落的[蕈人](Myconid.md "Myconid")的领地，边界在空中呈现为紫色斑点。当首次进入蕈人控制的区域时，队伍会感受到[亲和孢子](Rapport_Spores_(Condition).md "Rapport Spores (Condition)")的效果，并通过它与“神秘声音”进行对话，警告他们前方的牛头人。成功的 DC 15 [自然](Nature.md "Nature") [属性检定](Ability_Check.md "属性检定")有助于检测孢子，无论结果如何，任何队伍成员都会对此发表评论。
 
 从牛头人丘陵通往黑檀湖洞穴的小径是队伍可能遭遇[鲨蜥兽](Bulette.md "Bulette")的地点之一。
 

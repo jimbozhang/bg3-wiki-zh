@@ -92,15 +92,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -150,15 +150,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -208,15 +208,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -265,7 +265,7 @@ UUID
 
 #### 翠绿林地突袭
 
-如果[明萨拉](Minthara.md "明萨拉")发现了林地的位置并开始突袭林地，门诺斯可以在里面找到，正在祈祷。通过被动 DC 10 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定")揭示他正在畏缩，恐惧地向⁠[凯兰沃](https://forgottenrealms.fandom.com/wiki/Kelemvor)（死亡之神）祈祷。如果[莱埃泽尔](Lae'zel.md "莱埃泽尔")在场，她会斥责说她闻到了懦弱的味道。队伍可以通过通过以下一项检定来说服他重新加入林地的防御：
+如果[明萨拉](Minthara.md "明萨拉")发现了林地的位置并开始突袭林地，门诺斯可以在里面找到，正在祈祷。通过被动 DC 10 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定")揭示他正在畏缩，恐惧地向⁠[凯兰沃](https://forgottenrealms.fandom.com/wiki/Kelemvor)（死亡之神）祈祷。如果[莱埃泽尔](Lae'zel.md "莱埃泽尔")在场，她会斥责说她闻到了懦弱的味道。队伍可以通过通过以下一项检定来说服他重新加入林地的防御：
 
 - [宗教] 凯兰沃比其他人更严厉地审判懦夫。最好在战斗中死去。（DC 10）_（如果通过被动宗教检定）_
 - [威吓] 最好在战斗中死去，而不是作为懦夫活下去。（DC 15）_（如果未通过被动宗教检定）_

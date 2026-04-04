@@ -2,7 +2,7 @@
 
 不要与 [攀云步](Ride_the_Wind.md "攀云步") 混淆
 
-**攀云步** 是一个 [3级变化学派法术](Spells.md "Spells")。当佩戴 [驭风护符](Amulet_of_Windrider.md "驭风护符") 时可以施放，将佩戴者转化为一小团雾气。它等同于 [气化形体](Gaseous_Form.md "气化形体")，但只能影响施法者自身。
+**攀云步** 是一个 [法术](Spells.md "法术")。当佩戴 [驭风护符](Amulet_of_Windrider.md "驭风护符") 时可以施放，将佩戴者转化为一小团雾气。它等同于 [气化形体](Gaseous_Form.md "气化形体")，但只能影响施法者自身。
 
 ## 描述
 

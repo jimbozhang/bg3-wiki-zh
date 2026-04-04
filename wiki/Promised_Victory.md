@@ -12,7 +12,7 @@
 
 持续时间：1 驱散
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 15）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 15）
 
 - 下一次针对此生物的 [攻击掷骰](Attack_roll.md "Attack Roll") 具有 [优势](Advantage.md "Advantage")。
 

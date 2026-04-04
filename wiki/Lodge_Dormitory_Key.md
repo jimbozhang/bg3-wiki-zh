@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 
@@ -16,7 +16,7 @@
 
 - UID `LOW_Lodge_Chest_Key03` UUID `3228b4b9-75bf-4ed7-ab74-4041195af33c` ## 获取地点
 
-- 位于[下城区](Lower_City.md "下城区")的[会馆](The_Lodge.md "会馆")一楼，需要通过 DC 15 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")才能发现。
+- 位于[下城区](Lower_City.md "下城区")的[会馆](The_Lodge.md "会馆")一楼，需要通过 DC 15 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")才能发现。
 
 ---
 *Source: [Lodge Dormitory Key](https://bg3.wiki/wiki/Lodge_Dormitory_Key)*

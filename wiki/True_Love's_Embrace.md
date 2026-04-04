@@ -15,7 +15,7 @@
 佩戴此物品者获得：
 
 [亲密拥抱](Intimate_Embrace.md "Intimate Embrace")
-作为一对魔法戒指之一，此戒指允许佩戴者每[长休](Long_Rest.md "Long Rest")一次，对佩戴[相配戒指](True_Love's_Caress.md "True Love's Caress")的生物施放[守护之链](Warding_Bond.md "Warding Bond")。
+作为一对魔法戒指之一，此戒指允许佩戴者每[长休](Long_Rest.md "Long Rest")一次，对佩戴[真爱之抚](True_Love's_Caress.md "真爱之抚")的生物施放[守护之链](Warding_Bond.md "Warding Bond")。
 
 ## 获取地点
 

@@ -1,6 +1,6 @@
 # 鹰羽
 
-**鹰羽**是一种[炼金术材料](Alchemy.md "炼金术")。将3个鹰羽组合可制成[鹰羽升华物](Sublimate_of_Eagle_Feathers.md "鹰羽升华物")，用于制作[飞行药剂](Potion_of_Flying.md "飞行药剂")。
+**鹰羽**是一种[炼金术](Alchemy.md "炼金术")。将3个鹰羽组合可制成[鹰羽升华物](Sublimate_of_Eagle_Feathers.md "鹰羽升华物")，用于制作[飞行药剂](Potion_of_Flying.md "飞行药剂")。
 
 这是装饰在巨鹰身上的数千根羽毛之一，你只能希望它来自这只鸟优雅的部位，比如翅膀，而不是令人尴尬的部位，比如左腋窝。
 

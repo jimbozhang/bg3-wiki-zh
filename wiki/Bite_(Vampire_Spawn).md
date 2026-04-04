@@ -16,7 +16,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：3~18 + 调整值
 
-1d6 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
+1d6 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
 
 \+ 2d6⁠[黯蚀](Necrotic.md "黯蚀")
 

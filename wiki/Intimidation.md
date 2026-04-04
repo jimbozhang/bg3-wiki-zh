@@ -14,16 +14,16 @@
 
 ## 目录
 
-- [1 熟练项](#proficiency)
-- [2 用途](#uses)
-- [3 相关物品](#related-items)
-  - [3.1 技能检定-1](#-1_to_Skill_Checks)
-  - [3.2 技能检定+1](#+1_to_Skill_Checks)
-  - [3.3 技能检定+2](#+2_to_Skill_Checks)
-  - [3.4 所有技能检定+1d4](#+1d4_to_All_Skill_Checks)
-  - [3.5 技能检定优势](#advantage-on-skill-checks)
-  - [3.6 其他](#other)
-- [4 相关法术](#related-spells)
+- [1 熟练项](#熟练项)
+- [2 用途](#用途)
+- [3 相关物品](#相关物品)
+  - [3.1 技能检定-1](#技能检定-1)
+  - [3.2 技能检定+1](#技能检定+1)
+  - [3.3 技能检定+2](#技能检定+2)
+  - [3.4 所有技能检定+1d4](#所有技能检定+1d4)
+  - [3.5 技能检定优势](#技能检定优势)
+  - [3.6 其他](#其他)
+- [4 相关法术](#相关法术)
 
 ## 熟练项
 
@@ -48,7 +48,7 @@
 
 - [半兽人](Half-Orc.md "半兽人")
 
-获得[灵吸怪威能](Illithid_powers.md "灵吸怪威能")[灵吸怪专精](Illithid_Expertise.md "灵吸怪专精")的角色会在[游说](Persuasion.md "游说")、[欺瞒](Deception.md "欺瞒")或威吓[检定](Ability_Check.md "属性检定")上获得专精（和熟练项）。
+获得[灵吸怪威能](Illithid_powers.md "灵吸怪威能")[灵吸怪专精](Illithid_Expertise.md "灵吸怪专精")的角色会在[游说](Persuasion.md "游说")、[欺瞒](Deception.md "欺瞒")或威吓[属性检定](Ability_Check.md "属性检定")上获得专精（和熟练项）。
 
 ## 用途
 

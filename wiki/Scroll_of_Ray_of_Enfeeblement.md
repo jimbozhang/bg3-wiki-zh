@@ -23,7 +23,7 @@
 
 持续时间：10 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 
 - 使用[力量](Strength.md "力量")的武器攻击仅造成一半伤害。在每驱散结束时，受影响的生物可以进行一次[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 

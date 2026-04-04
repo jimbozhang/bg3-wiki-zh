@@ -56,7 +56,7 @@
 - 未被不死生物化的NPC和敌人在死亡时会获得[暗影涌入](Umbral_Influx_(Condition).md "暗影涌入 (状态)")状态，然后在没有保护的情况下被杀死时，会以一半生命值复活并获得[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")状态。
 - 避免幽影诅咒的有效方法包括：
   - 点燃的[火把](Torch.md "火把")、附近的火盆和其他环境光源
-  - 发光的法术，如[光亮术](Light.md "光亮术")、[舞光术](Dancing_Lights.md "舞光术")、[燃火术](Produce_Flame.md "燃火术")或[昼明术](Daylight.md "昼明术")
+  - 发光的法术，如[轻型](Light.md "轻型")、[舞光术](Dancing_Lights.md "舞光术")、[燃火术](Produce_Flame.md "燃火术")或[昼明术](Daylight.md "昼明术")
   - 自然发光的魔法装备部件，如[洛山达之血](The_Blood_of_Lathander.md "洛山达之血")
 - [塞伦涅的祝福](Blessing_of_Sel%C3%BBne_(Condition).md "塞伦涅的祝福 (状态)")
   - 携带在主动武器组中或放置在附近的[月亮提灯](Moonlantern.md "月亮提灯")或[暗影提灯](Shadow_Lantern.md "暗影提灯")。

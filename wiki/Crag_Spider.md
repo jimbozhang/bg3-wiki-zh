@@ -59,15 +59,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -107,15 +107,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -155,19 +155,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
-**岩石蛛**是一种通过使用[蜘蛛卵囊](Spider_Egg_Sac.md "蜘蛛卵囊")召唤的独特蜘蛛。当[投掷](Thrown.md "投掷")时，它会破裂并生成五只这样的蜘蛛，它们会跟随使用卵囊的人。它们在[长休](Long_Rest.md "长休")后消失。
+**岩石蛛**是一种通过使用[蜘蛛卵囊](Spider_Egg_Sac.md "蜘蛛卵囊")召唤的独特蜘蛛。当[投掷攻击](Thrown.md "投掷攻击")时，它会破裂并生成五只这样的蜘蛛，它们会跟随使用卵囊的人。它们在[长休](Long_Rest.md "长休")后消失。
 
 虽然伤害或能力非常有限，但这些蜘蛛凭借其数量作为分心手段非常有用。它们的[蛛网行者](Web_Walker_(Passive_Feature).md) 被动特性也使它们在蜘蛛滋生的区域（如[第一幕](Act_One.md "第一幕")中的[低语深地](Whispering_Depths.md "低语深地")）非常有用。
 

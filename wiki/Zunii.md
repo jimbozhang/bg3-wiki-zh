@@ -73,11 +73,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -133,11 +133,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -193,11 +193,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -209,11 +209,11 @@
 
 你的[穿刺射击](Piercing_Shot.md "Piercing Shot")造成[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")状态的时间延长一倍。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic")伤害——灵吸怪奴役的伤痕根深蒂固。
 
-- [**箭术**](Archery.md "Archery")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "Weapons")进行的[攻击掷骰](Attack_roll.md "Attack roll")获得 +2 加值。
 

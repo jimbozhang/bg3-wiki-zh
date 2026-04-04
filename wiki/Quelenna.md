@@ -16,7 +16,7 @@
 
 ### 阵营
 
-[蔓生废墟掠夺者](Overgrown_Ruins.md "蔓生废墟")
+[蔓生废墟](Overgrown_Ruins.md "蔓生废墟")
 
 ## 属性
 
@@ -90,15 +90,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -146,11 +146,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -198,15 +198,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -226,7 +226,7 @@ UUID
 
 `CHA_Bandit_Elf_Caster`
 
-**奎兰娜**是一名[高精灵](Elf.md "精灵")强盗，正在[蔓生废墟](Overgrown_Ruins.md "蔓生废墟")进行掠夺，位于[第一幕](Act_One.md "第一幕")。
+**奎兰娜**是一名[精灵](Elf.md "精灵")强盗，正在[蔓生废墟](Overgrown_Ruins.md "蔓生废墟")进行掠夺，位于[第一幕](Act_One.md "第一幕")。
 
 > “
 >
@@ -238,13 +238,13 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 外部链接](#外部链接)
 
 ## 参与情况
 
@@ -301,7 +301,7 @@ UUID
 
 近战：1.5 米 (5 英尺)
 
-[睡眠术](Sleep.md "睡眠术") (+ ) – [睡眠术卷轴](Scroll_of_Sleep.md "睡眠术卷轴")
+[睡眠](Sleep.md "睡眠") (+ ) – [睡眠术卷轴](Scroll_of_Sleep.md "睡眠术卷轴")
 使生物进入魔法沉睡。选择总生命值不超过 24 [生命值](Hit_Points.md "生命值")的目标。
 
 射程：18 米 (60 英尺)

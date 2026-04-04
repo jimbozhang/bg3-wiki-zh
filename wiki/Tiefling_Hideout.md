@@ -19,13 +19,13 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 进入方式](#getting-access)
-- [2 互动](#interactions)
-- [3 相关任务](#related-quests)
-- [4 角色](#characters)
-- [5 战利品](#loot)
-- [6 图库](#gallery)
+- [1 概述](#概述)
+  - [1.1 进入方式](#进入方式)
+- [2 互动](#互动)
+- [3 相关任务](#相关任务)
+- [4 角色](#角色)
+- [5 战利品](#战利品)
+- [6 图库](#图库)
 - [7 备注](#notes)
 
 ## 概述
@@ -41,17 +41,17 @@
 避难所有两个入口：
 
   - 通过[空谷](The_Hollow.md "空谷")中 X: 227 Y: 553 处的**隐蔽舱口**，由[多尼](Doni.md "Doni")把守
-  - 与多尼交谈时，成功通过被动 DC 10 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "属性检定")，随后通过 DC 10 [调查](Investigation.md "Investigation") [检定](Ability_Check.md "属性检定")，即可揭示舱口。[游侠](Ranger.md "Ranger")和[游荡者](Rogue.md "Rogue")在此调查检定中具有[优势](Advantage.md "优势")。
+  - 与多尼交谈时，成功通过被动 DC 10 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")，随后通过 DC 10 [调查](Investigation.md "Investigation") [属性检定](Ability_Check.md "属性检定")，即可揭示舱口。[游侠](Ranger.md "Ranger")和[游荡者](Rogue.md "Rogue")在此调查检定中具有[优势](Advantage.md "优势")。
   - 如果在[调查海滩](Investigate_the_Beach.md "调查海滩")中救出了[米尔克](Mirkon.md "Mirkon")，他会告诉队伍与多尼交谈，并给予他们允许进入的密码。
   - 通过[空谷](The_Hollow.md "空谷")中 X: 224 Y: 564 处的**崎岖的裂缝**
-  - [西尔菲](Silfy.md "Silfy")在偷窃后或试图偷窃队伍[行李](Find_Your_Belongings.md "找到你的行李")时被抓后逃往此处。裂缝位于木梯下方的岩架上，需要通过 DC 5 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "属性检定")才能发现。
-  - 只有[小型](Small.md "小型")或微型体型的队伍成员才能穿过裂缝。这可以通过[侏儒](Gnome.md "Gnome")、[半身人](Halfling.md "Halfling")，以及[伪装术](Disguise_Self.md "伪装术")成此类体型或[缩小](Reduce.md "缩小")的角色来完成。[变形](Wild_Shape.md "荒野形态")为合适体型生物的角色以及召唤物也可以穿过。
+  - [西尔菲](Silfy.md "Silfy")在偷窃后或试图偷窃队伍[找到你的行李](Find_Your_Belongings.md "找到你的行李")时被抓后逃往此处。裂缝位于木梯下方的岩架上，需要通过 DC 5 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")才能发现。
+  - 只有[小型](Small.md "小型")或微型体型的队伍成员才能穿过裂缝。这可以通过[侏儒](Gnome.md "Gnome")、[半身人](Halfling.md "Halfling")，以及[伪装术](Disguise_Self.md "伪装术")成此类体型或[缩小](Reduce.md "缩小")的角色来完成。[荒野形态](Wild_Shape.md "荒野形态")为合适体型生物的角色以及召唤物也可以穿过。
 
 ## 互动
 
 要无后果地探索避难所，队伍必须首先赢得摩尔的好感。这可以通过帮助她的儿童帮派成员，或保护他们免受其他角色（如[卡哈](Kagha.md "Kagha")或[巴斯](Barth.md "Barth")）的伤害来实现。相反，如果允许他人虐待儿童或让他们处于危险之中，摩尔会对队伍感到愤怒。
 
-在未与摩尔建立友谊的情况下进入避难所，会导致她要求队伍在“十秒内”离开。她开始大声计时。如果队伍成员没有及时离开，摩尔会逃跑。离开避难所后，队伍成员会因“威胁儿童”而受到守卫的盘问；互动的队伍成员必须通过 DC 20 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定")，否则将被送入监狱。
+在未与摩尔建立友谊的情况下进入避难所，会导致她要求队伍在“十秒内”离开。她开始大声计时。如果队伍成员没有及时离开，摩尔会逃跑。离开避难所后，队伍成员会因“威胁儿童”而受到守卫的盘问；互动的队伍成员必须通过 DC 20 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定")，否则将被送入监狱。
 
 如果赢得了摩尔的认可，队伍可以与她交易，并可以开始任务[偷走神像](Steal_the_Sacred_Idol.md "偷走神像")。他们还可以对她的*事业*表示兴趣，并在提夫林们到达[博德之门](Baldur's_Gate.md "博德之门")时投资20金币建立盗贼公会。这会为具有[流浪儿](Urchin.md "流浪儿")背景的队伍成员授予[激励点](Inspiration.md "激励点")[传递善意](Urchin.md#Paying_It_Forward "流浪儿")。
 

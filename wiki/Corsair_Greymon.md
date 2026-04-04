@@ -28,7 +28,7 @@
 
 ### 体型
 
-[中型](Medium.md "Medium")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -98,27 +98,27 @@
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对抗[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -168,27 +168,27 @@
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对抗[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -238,27 +238,27 @@
 
 - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对抗[幻术学派](Illusion.md "Illusion")和被[魅惑](Charmed_(status_group).md) or [麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -280,7 +280,7 @@ UUID
 
 > “
 >
-> 吐出来，[摩加勒](Morghal.md "Morghal")。还是你忙着和[斯林](Elenna_Thrinn.md "Elenna Thrinn")一起被[真魂者尼讷](Nere.md "Nere")的家伙呛住？
+> 吐出来，[摩加勒](Morghal.md "Morghal")。还是你忙着和[斯林](Elenna_Thrinn.md "Elenna Thrinn")一起被[尼讷](Nere.md "尼讷")的家伙呛住？
 >
 > „
 
@@ -292,7 +292,7 @@ UUID
 
 从[幽暗地域](Underdark.md "Underdark")海滩登上船后，另一艘由海盗格雷蒙驾驶的船驶近了队伍的船。格雷蒙登船，玩家角色必须通过检定或攻击格雷蒙及其船员。
 
-在过场动画中通过 DC 15 的[运动](Athletics.md "Athletics")[检定](Ability_Check.md "Ability check")将他推入水中会杀死格雷蒙，使其尸体和物品沉入海底，两者都将永久无法获取。这也会与幸存的灰矮人引发战斗，并获得[莱埃泽尔](Lae'zel.md "Lae'zel")和[阿斯代伦](Astarion.md "Astarion")的好感度。
+在过场动画中通过 DC 15 的[运动](Athletics.md "Athletics")[属性检定](Ability_Check.md "属性检定")将他推入水中会杀死格雷蒙，使其尸体和物品沉入海底，两者都将永久无法获取。这也会与幸存的灰矮人引发战斗，并获得[莱埃泽尔](Lae'zel.md "Lae'zel")和[阿斯代伦](Astarion.md "Astarion")的好感度。
 
 在格雷蒙的小艇上的一个箱子中，有[顽固战锤](Intransigent_Warhammer.md "Intransigent Warhammer")。如果在战斗中将格雷蒙或其船员推入水中，他们会被冲到[破败村落](Decrepit_Village.md "Decrepit Village")南部码头附近的海滩上。
 

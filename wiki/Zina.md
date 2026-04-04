@@ -67,27 +67,27 @@
 
 - - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**虚无形态**](Ethereal.md "Ethereal")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**虚体移动**](Incorporeal_Movement.md "Incorporeal Movement")
+- [虚体移动](Incorporeal_Movement.md "虚体移动")
 
 针对你的借机攻击具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**人类亲密好友**](Man's_Best_Friend.md "Man's Best Friend")
+- [人类亲密好友](Man's_Best_Friend.md "人类亲密好友")
 
 这只猎犬的[护甲等级](Armour_Class.md "Armour Class")和伤害增加的数值等于其训犬师的[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "Advantage")。
 
@@ -133,27 +133,27 @@
 
 - - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**虚无形态**](Ethereal.md "Ethereal")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**虚体移动**](Incorporeal_Movement.md "Incorporeal Movement")
+- [虚体移动](Incorporeal_Movement.md "虚体移动")
 
 针对你的借机攻击具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**人类亲密好友**](Man's_Best_Friend.md "Man's Best Friend")
+- [人类亲密好友](Man's_Best_Friend.md "人类亲密好友")
 
 这只猎犬的[护甲等级](Armour_Class.md "Armour Class")和伤害增加的数值等于其训犬师的[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "Advantage")。
 
@@ -199,15 +199,15 @@
 
 - - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**虚无形态**](Ethereal.md "Ethereal")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使其减半。
 
@@ -215,19 +215,19 @@
 
 受到伤害后，该生物立即使用其[反应](Reaction.md "Reaction")来施放[朦胧术](Blur.md "Blur")。
 
-- [**虚体移动**](Incorporeal_Movement.md "Incorporeal Movement")
+- [虚体移动](Incorporeal_Movement.md "虚体移动")
 
 针对你的借机攻击具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**人类亲密好友**](Man's_Best_Friend.md "Man's Best Friend")
+- [人类亲密好友](Man's_Best_Friend.md "人类亲密好友")
 
 这只猎犬的[护甲等级](Armour_Class.md "Armour Class")和伤害增加的数值等于其训犬师的[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "Advantage")。
 
@@ -266,14 +266,14 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 可拾取战利品](#notable-loot)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 可拾取战利品](#可拾取战利品)
 
 ## 概述
 
-她和她两个幽灵般的犬类同伴[戈迪斯](Gordis.md "Gordis")和[洛奇](Rocky.md "Rocky")，以及他们的看护人[训犬师波尔](Pol.md "Pol")，如果他们的石棺被成功通过 DC 15 的[力量](Strength.md "Strength") [检定](Ability_Check.md "Ability check")扰动，就会攻击队伍。
+她和她两个幽灵般的犬类同伴[戈迪斯](Gordis.md "Gordis")和[洛奇](Rocky.md "Rocky")，以及他们的看护人[训犬师波尔](Pol.md "Pol")，如果他们的石棺被成功通过 DC 15 的[力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")扰动，就会攻击队伍。
 
 ## 战斗
 

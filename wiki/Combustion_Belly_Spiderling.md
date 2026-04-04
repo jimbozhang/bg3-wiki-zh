@@ -67,15 +67,15 @@
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -123,15 +123,15 @@
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -179,15 +179,15 @@
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -219,7 +219,7 @@
 
 造成 1d4[穿刺](Piercing.md "穿刺") 伤害，并可能造成额外的 1d4[中毒](Poison.md "中毒") 伤害。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
 [幼蛛爆炸](Spiderling_Burst.md "幼蛛爆炸") ()
@@ -230,7 +230,7 @@
 
 幼蛛在死亡时爆炸。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 
 当被杀死或在其回合时，燃烧之腹幼蛛可以使用幼蛛爆炸。可以进行一次 [DC](Dice_rolls.md#Save_DCs "骰子检定") 15 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 来承受一半伤害。虽然在此游戏阶段伤害不算特别高，但这通常会导致其他燃烧之腹幼蛛也爆炸，可能杀死[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder_Ravengard")。
 

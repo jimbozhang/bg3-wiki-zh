@@ -22,7 +22,7 @@
 
 [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
-- 受影响生物无法移动。恐慌生物在[检定](Ability_Check.md "检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
+- 受影响生物无法移动。恐慌生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 
 ## 注释
 

@@ -1,6 +1,6 @@
 # 黑夹竹桃
 
-**黑夹竹桃**是一种[炼金术材料](Alchemy.md "炼金术")。将3个黑夹竹桃组合可制成[夹竹桃粘液](Vitriol_of_Oleander.md "夹竹桃粘液")，用于制作[黯蚀抗性灵药](Elixir_of_Necrotic_Resistance.md "黯蚀抗性灵药")。
+**黑夹竹桃**是一种[炼金术](Alchemy.md "炼金术")。将3个黑夹竹桃组合可制成[夹竹桃粘液](Vitriol_of_Oleander.md "夹竹桃粘液")，用于制作[黯蚀抗性灵药](Elixir_of_Necrotic_Resistance.md "黯蚀抗性灵药")。
 
 黑夹竹桃常种植于[墓园](Graveyard.md "墓园")附近，并赠予病重的患者。人们相信它能阻止[黯蚀](Necrotic.md "黯蚀")蔓延。
 

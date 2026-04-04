@@ -4,7 +4,7 @@
 
 ## 描述
 
-穿戴者使用[投掷](Throw.md "投掷")攻击和[即兴武器](Improvised_Melee_Weapon.md "即兴近战武器")进行的攻击，可造成额外 **1d4** 伤害。
+穿戴者使用[投掷](Throw.md "投掷")攻击和[即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器")进行的攻击，可造成额外 **1d4** 伤害。
 
 ## 如何习得
 

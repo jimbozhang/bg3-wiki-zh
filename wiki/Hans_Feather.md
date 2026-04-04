@@ -77,15 +77,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "豁免检定")上具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -107,7 +107,7 @@ UUID
 
 > “
 >
-> 别分心，伙计。九指让我看着[皮尔·普里斯](Carnelia_Vanthampur.md "科妮莉亚·范萨普")——这位新公爵在行动，她想让议会里的朋友们靠近点。
+> 别分心，伙计。九指让我看着[科妮莉亚·范萨普](Carnelia_Vanthampur.md "科妮莉亚·范萨普")——这位新公爵在行动，她想让议会里的朋友们靠近点。
 >
 > „
 

@@ -99,23 +99,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行 [双手](Two-Handed.md "双手") 近战伤害掷骰时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -169,23 +169,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行 [双手](Two-Handed.md "双手") 近战伤害掷骰时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -239,23 +239,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行 [双手](Two-Handed.md "双手") 近战伤害掷骰时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -285,13 +285,13 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 仅限硬核](#tactician-only)
-  - [2.2 战利品](#loot)
-- [3 注释](#notes)
+- [1 出场](#出场)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 仅限硬核](#仅限硬核)
+  - [2.2 战利品](#战利品)
+- [3 注释](#注释)
 
 ## 出场
 

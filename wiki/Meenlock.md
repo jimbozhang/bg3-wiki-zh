@@ -66,11 +66,11 @@
 
 ## 特性
 
-- [**强光敏感**](Light_Sensitivity.md "强光敏感")
+- [强光敏感](Light_Sensitivity.md "强光敏感")
 
-在强光下，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
+在强光下，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[技能检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -120,11 +120,11 @@
 
 ## 特性
 
-- [**强光敏感**](Light_Sensitivity.md "强光敏感")
+- [强光敏感](Light_Sensitivity.md "强光敏感")
 
-在强光下，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
+在强光下，该生物在依赖视觉的[攻击掷骰](Attack_rolls.md "攻击掷骰")和[察觉技能](Perception.md "察觉技能")[技能检定](Skill_Check.md "技能检定")上具有[劣势](Disadvantage.md "劣势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -173,7 +173,7 @@
 
 ### 硬核
 
-在硬核难度下，凌弱怪的[体质](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")提高至18，生命值、护甲等级和先攻也更高。
+在硬核难度下，凌弱怪的[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")提高至18，生命值、护甲等级和先攻也更高。
 
 ### 战利品
 

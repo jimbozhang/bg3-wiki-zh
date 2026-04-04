@@ -1,6 +1,6 @@
 # 吸取灵魂
 
-**吸取灵魂**是一个[等级 6 法术](Spells.md "Spells")。这是[拉斐尔](Raphael.md "Raphael")可用的一个自由动作，允许他恢复生命值并对被[惩罚神圣](Punish_Divinity.md "Punish Divinity")震慑的生物造成⁠[黯蚀](Necrotic.md "Necrotic")伤害。该法术无法被队友学习。
+**吸取灵魂**是一个[法术](Spells.md "法术")。这是[拉斐尔](Raphael.md "Raphael")可用的一个自由动作，允许他恢复生命值并对被[惩罚神圣](Punish_Divinity.md "Punish Divinity")震慑的生物造成⁠[黯蚀](Necrotic.md "Necrotic")伤害。该法术无法被队友学习。
 
 ## 描述
 

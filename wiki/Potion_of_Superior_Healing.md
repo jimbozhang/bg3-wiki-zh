@@ -18,7 +18,7 @@
 [附赠动作](Actions.md#Resources "动作")
 
 - 饮用药水
-  - 恢复 8d4+8⁠⁠[生命值](Healing.md "治疗")
+  - 恢复 8d4+8⁠⁠[治疗](Healing.md "治疗")
 - 移除 [燃烧](Burning_(Condition).md "燃烧 (状态)")
 
 [动作](Actions.md#Resources "动作")
@@ -33,7 +33,7 @@
 
 范围效果：1 米 (3 英尺) 半径
 
-恢复 8d4+8⁠⁠[生命值](Healing.md "治疗") 并停止 [燃烧](Burning_(Condition).md "燃烧 (状态)")。
+恢复 8d4+8⁠⁠[治疗](Healing.md "治疗") 并停止 [燃烧](Burning_(Condition).md "燃烧 (状态)")。
 
 类型：[云](Area.md#Cloud "区域")
 

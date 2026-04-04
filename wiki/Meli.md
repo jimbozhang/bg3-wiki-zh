@@ -77,11 +77,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
@@ -127,11 +127,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
@@ -177,11 +177,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
@@ -211,12 +211,12 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第一幕](#act-one)
-    - [1.1.1 扒窃巴斯](#pickpocketing-barth)
-- [2 空闲对话](#idle-banter)
-- [3 相关任务](#related-quests)
-- [4 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 第一幕](#第一幕)
+    - [1.1.1 扒窃巴斯](#扒窃巴斯)
+- [2 空闲对话](#空闲对话)
+- [3 相关任务](#相关任务)
+- [4 外部链接](#外部链接)
 
 ## 参与
 
@@ -230,8 +230,8 @@ UUID
 
 有四个选项：
 
-- 保护梅里，_"别碰那个孩子一根手指。"_（DC 10 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定") 或 DC 10 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")），他会带着吊坠跑掉。
-- 说服梅里归还吊坠（DC 5 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定") 或 DC 15 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")），他可能会被说服透露他偷吊坠是因为它让他想起了母亲的。
+- 保护梅里，_"别碰那个孩子一根手指。"_（DC 10 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定") 或 DC 10 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")），他会带着吊坠跑掉。
+- 说服梅里归还吊坠（DC 5 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定") 或 DC 15 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")），他可能会被说服透露他偷吊坠是因为它让他想起了母亲的。
 - 让巴斯打梅里，吊坠从他的口袋里掉出来，附近的守卫[伊卡隆](Ikaron.md "Ik already")会过来调查骚乱。
 - 如果已经从梅里那里扒窃了吊坠，可以将其归还给巴斯。_"他不错，但我更好。"_ 这会让梅里印象深刻，也让巴斯平息怒火。
 

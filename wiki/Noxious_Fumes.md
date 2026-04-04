@@ -35,7 +35,7 @@
 ## 备注
 
 - 此云易燃，遇火会爆炸，留下[燃烧](Burning_(Condition).md "燃烧（状态）")的地表。
-- 在多个地点的陷阱通风口处遇到，包括[埃赛尔婶婶的巢穴](Overgrown_Tunnel.md "蔓生地道")和[幽暗地域](Underdark.md "幽暗地域")。
+- 在多个地点的陷阱通风口处遇到，包括[蔓生地道](Overgrown_Tunnel.md "蔓生地道")和[幽暗地域](Underdark.md "幽暗地域")。
 - 由爆炸的[噼啪砰](Bibberbang.md "噼啪砰")蘑菇产生。
 
 ---

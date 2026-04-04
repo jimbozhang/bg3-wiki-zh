@@ -63,7 +63,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -105,7 +105,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -147,11 +147,11 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -159,12 +159,12 @@
 
 ## 目录
 
-- [1 登场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 已知的狂热助手](#known-zealous-assistants)
-- [4 备注](#notes)
-- [5 画廊](#gallery)
+- [1 登场](#登场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 已知的狂热助手](#已知的狂热助手)
+- [4 备注](#备注)
+- [5 画廊](#画廊)
 
 ## 登场
 

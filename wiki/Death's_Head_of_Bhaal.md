@@ -9,7 +9,7 @@
 
 ### 阵营
 
-[巴尔教团](Bhaal.md "巴尔")
+[巴尔](Bhaal.md "巴尔")
 
 ## 属性
 
@@ -75,27 +75,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**谋杀渴求**](Murder_Hungry.md "谋杀渴求")
+- [谋杀渴求](Murder_Hungry.md "谋杀渴求")
 
 每次杀死一个生物时，获得 1 层不可撼动。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -145,27 +145,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**谋杀渴求**](Murder_Hungry.md "谋杀渴求")
+- [谋杀渴求](Murder_Hungry.md "谋杀渴求")
 
 每次杀死一个生物时，获得 1 层不可撼动。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -199,7 +199,7 @@
 
 属性
 
-`Tiefling_Cultist_Bhaal_DeathsHead` **巴尔的死亡牧首**是一种 NPC 原型，他们是[巴尔教团](Bhaal.md "巴尔")的成员，遍布于[巴尔神殿](Bhaal_Temple.md "巴尔神殿")和[第三幕](Act_Three.md "第三幕")期间的其他区域。
+`Tiefling_Cultist_Bhaal_DeathsHead` **巴尔的死亡牧首**是一种 NPC 原型，他们是[巴尔](Bhaal.md "巴尔")的成员，遍布于[巴尔神殿](Bhaal_Temple.md "巴尔神殿")和[第三幕](Act_Three.md "第三幕")期间的其他区域。
 
 ## 战斗
 
@@ -213,7 +213,7 @@
 
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -227,7 +227,7 @@
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -251,14 +251,14 @@
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
 [震慑凝视](Stunning_Gaze.md "震慑凝视") ()
 目标为 18 米 (60 英尺) 范围内它能看到的一个生物。目标必须通过[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将被[震慑](Stunned_(Condition).md "震慑 (状态)")直到其下一回合结束。**硬核难度：** 此动作不需要[专注](Concentration.md "专注")。
 
-[感](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 充能：每回合
 

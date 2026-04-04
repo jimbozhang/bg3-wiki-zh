@@ -1,6 +1,6 @@
 # 读心药水配方
 
-**读心药水配方**描述了一种[药水](Potion_of_Mind_Reading.md "读心药水")，用于[侦测思想](Detect_Thoughts.md "侦测思想")。
+**读心药水配方**描述了一种[读心药水](Potion_of_Mind_Reading.md "读心药水")，用于[侦测思想](Detect_Thoughts.md "侦测思想")。
 
 这本书散发着纸张和墨水的诱人气息。
 

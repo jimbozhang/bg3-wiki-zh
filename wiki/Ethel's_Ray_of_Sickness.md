@@ -1,6 +1,6 @@
 # 埃赛尔的疾病射线
 
-**埃赛尔的疾病射线**是一个[2级死灵学派法术](Spells.md "Spells")。这是埃赛尔婶婶仅在[第三幕](Act_Three.md "Act Three")中出现时使用的特殊法术。
+**埃赛尔的疾病射线**是一个[法术](Spells.md "法术")。这是埃赛尔婶婶仅在[第三幕](Act_Three.md "Act Three")中出现时使用的特殊法术。
 
 ## 描述
 
@@ -16,7 +16,7 @@
 
 详情
 [攻击掷骰](Attack_roll.md "Attack Roll")
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：18米（60英尺）
 
 ## 升环施法效果
@@ -39,7 +39,7 @@ UID
 
 持续时间：2 驱散
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 在[攻击掷骰](Attack_roll.md "Attack Roll")和[检定](Checks.md "Checks")上承受[劣势](Disadvantage.md "Disadvantage")。
 

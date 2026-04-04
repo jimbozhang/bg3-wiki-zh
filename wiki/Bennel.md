@@ -100,23 +100,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力调整值](Charisma.md "Charisma")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -170,23 +170,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力调整值](Charisma.md "Charisma")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -240,23 +240,23 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "Aura of Protection (Aura) (Condition)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力调整值](Charisma.md "Charisma")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "Saving throw")的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -286,16 +286,16 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 月出之塔](#moonrise-towers)
-  - [1.2 保卫月出之塔](#defending-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 仅限硬核](#tactician-only)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 闲聊](#idle-banter)
-- [4 注释](#notes)
-- [5 参考文献](#references)
+- [1 参与情况](#参与情况)
+  - [1.1 月出之塔](#月出之塔)
+  - [1.2 保卫月出之塔](#保卫月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 仅限硬核](#仅限硬核)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 闲聊](#闲聊)
+- [4 注释](#注释)
+- [5 参考文献](#参考文献)
 
 ## 参与情况
 

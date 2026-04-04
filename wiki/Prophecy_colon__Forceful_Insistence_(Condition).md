@@ -2,7 +2,7 @@
 
 **预言：强力坚持**
 
-- 对敌人造成至少 1⁠⁠[力场](Force.md "Force") 伤害，以恢复一个 [预兆骰子](Portent.md "Portent")。
+- 对敌人造成至少 1⁠⁠[力场](Force.md "Force") 伤害，以恢复一个 [预兆](Portent.md "预兆")。
 
 ## 属性
 

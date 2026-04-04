@@ -54,7 +54,7 @@
 
 朝着那块黄油法尔饼
 
-⁠[悠妲拉](Yondalla.md "悠妲拉") 和 ⁠[加尔](Garl_Glittergold.md "加尔·闪金") 的。
+⁠[悠妲拉](Yondalla.md "悠妲拉") 和 ⁠[加尔·闪金](Garl_Glittergold.md "加尔·闪金") 的。
 
 当加尔咬了一口，
 

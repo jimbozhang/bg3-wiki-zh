@@ -4,15 +4,15 @@
 
 ## 目录
 
-- [1 坠落伤害计算](#falling-damage-calculation)
-  - [1.1 倒伏](#prone)
-  - [1.2 示例](#example)
-- [2 坠落伤害抗性与免疫](#falling-damage-resistance-and-immunity)
-  - [2.1 抗性来源](#sources-of-resistance)
-  - [2.2 免疫来源](#sources-of-immunity)
-- [3 碾压伤害](#crushing-damage)
-- [4 成就](#achievements)
-- [5 注释与参考文献](#footnotes-and-references)
+- [1 坠落伤害计算](#坠落伤害计算)
+  - [1.1 倒伏](#倒伏)
+  - [1.2 示例](#示例)
+- [2 坠落伤害抗性与免疫](#坠落伤害抗性与免疫)
+  - [2.1 抗性来源](#抗性来源)
+  - [2.2 免疫来源](#免疫来源)
+- [3 碾压伤害](#碾压伤害)
+- [4 成就](#成就)
+- [5 注释与参考文献](#注释与参考文献)
 
 ## 坠落伤害计算
 

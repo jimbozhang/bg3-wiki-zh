@@ -67,7 +67,7 @@
 
 ## 特性
 
-  - [**感染**](Infested.md "感染")
+  - [感染](Infested.md "感染")
 
 当被攻击或死亡时，用微型蜘蛛感染近战攻击者。
 
@@ -75,15 +75,15 @@
 
 如果目标处于 [网缚](Enwebbed_(Condition).md "网缚 (状态)") 状态，伊特怪可以进行 [多重攻击](Multiattack_(Ettercap).md "多重攻击 (伊特怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网感知**](Web_Sense.md "蛛网感知")
+- [蛛网感知](Web_Sense.md "蛛网感知")
 
 知晓任何触碰其蛛网之物的精确位置。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或 [网缚](Enwebbed_(Condition).md)。
 
@@ -135,7 +135,7 @@
 
 ## 特性
 
-  - [**感染**](Infested.md "感染")
+  - [感染](Infested.md "感染")
 
 当被攻击或死亡时，用微型蜘蛛感染近战攻击者。
 
@@ -143,15 +143,15 @@
 
 如果目标处于 [网缚](Enwebbed_(Condition).md "网缚 (状态)") 状态，伊特怪可以进行 [多重攻击](Multiattack_(Ettercap).md "多重攻击 (伊特怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**蛛网感知**](Web_Sense.md "蛛网感知")
+- [蛛网感知](Web_Sense.md "蛛网感知")
 
 知晓任何触碰其蛛网之物的精确位置。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或 [网缚](Enwebbed_(Condition).md)。
 
@@ -203,7 +203,7 @@
 
 ## 特性
 
-  - [**感染**](Infested.md "感染")
+  - [感染](Infested.md "感染")
 
 当被攻击或死亡时，用微型蜘蛛感染近战攻击者。
 
@@ -211,15 +211,15 @@
 
 如果目标处于 [网缚](Enwebbed_(Condition).md "网缚 (状态)") 状态，伊特怪可以进行 [多重攻击](Multiattack_(Ettercap).md "多重攻击 (伊特怪)")。
 
-  - [**借机攻击**](Opportunity_Attack.md "借机攻击")
+  - [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-  - [**蛛网感知**](Web_Sense.md "蛛网感知")
+  - [蛛网感知](Web_Sense.md "蛛网感知")
 
 知晓任何触碰其蛛网之物的精确位置。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被地表蛛网减速或 [网缚](Enwebbed_(Condition).md)。
 

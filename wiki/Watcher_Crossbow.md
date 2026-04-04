@@ -4,7 +4,7 @@
 
 本文介绍的是**[无法使用](Category_colon_Unusable_content.md "Category:Unusable content")**的内容——例如物品、法术或装备——但这些内容仍可通过游戏内或第三方工具访问或获取。
 
-**守望者轻型弩**是[重弩](Heavy_Crossbows.md "重弩")武器家族中的一种常见特殊变体。它是一种需要双手持握的[近战远程武器](Weapons.md "武器")。
+**守望者轻型弩**是[重弩](Heavy_Crossbows.md "重弩")武器家族中的一种常见特殊变体。它是一种需要双手持握的[武器](Weapons.md "武器")。
 
 ## 属性
 

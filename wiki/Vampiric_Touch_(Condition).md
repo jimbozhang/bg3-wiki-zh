@@ -26,7 +26,7 @@ _维基数据库中未定义_
 
 | 状态 | 效果 |
 | --- | --- |
-| [吸收精华：阿梅莉珊](Absorbed_Essence_colon__Amelyssan_(Condition).md "吸收精华：阿梅莉珊 (状态)") | 萨雷沃克的攻击现在每次治疗他2d12⁠⁠[生命值](Healing.md "治疗")。 |
+| [吸收精华：阿梅莉珊](Absorbed_Essence_colon__Amelyssan_(Condition).md "吸收精华：阿梅莉珊 (状态)") | 萨雷沃克的攻击现在每次治疗他2d12⁠⁠[治疗](Healing.md "治疗")。 |
 | 吸血鬼之触 | 每回合，使用一个[动作](Action.md "动作")，可以不消耗[法术位](Spells#Spell_Slots.md#Spell_Slots "法术")重新施放[吸血鬼之触](Vampiric_Touch.md "吸血鬼之触")。 |
 
 - 每回合，使用一个[动作](Action.md "动作")，可以不消耗[法术位](Spells.md#Spell_Slots "法术")重新施放[吸血鬼之触](Vampiric_Touch.md "吸血鬼之触")。

@@ -20,7 +20,7 @@
 
 详情
 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 5）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 5）
 近战：1.5 米（5 英尺）
 
 ## 技术细节
@@ -39,7 +39,7 @@ UID
 
 持续时间：2 回合
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 5）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 5）
 
 - 受影响实体无法移动或使用[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")。
 - 如果攻击者在 3 米（10 英尺）内，对实体的攻击总是[重击](Critical_Hit.md "重击")。

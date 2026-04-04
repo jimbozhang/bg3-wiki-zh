@@ -67,17 +67,17 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 与西索博得对饮](#drinking-with-thisobald)
-    - [1.1.1 第一杯酒](#first-drink)
-    - [1.1.2 第二杯酒](#second-drink)
-    - [1.1.3 第三杯酒](#third-drink)
-- [2 战斗](#combat)
-  - [2.1 战利品](#loot)
-- [3 画廊](#gallery)
-- [4 相关文献](#related-literature)
-- [5 笔记](#notes)
-- [6 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 与西索博得对饮](#与西索博得对饮)
+    - [1.1.1 第一杯酒](#第一杯酒)
+    - [1.1.2 第二杯酒](#第二杯酒)
+    - [1.1.3 第三杯酒](#第三杯酒)
+- [2 战斗](#战斗)
+  - [2.1 战利品](#战利品)
+- [3 画廊](#画廊)
+- [4 相关文献](#相关文献)
+- [5 笔记](#笔记)
+- [6 外部链接](#外部链接)
 
 ## 出场
 
@@ -98,13 +98,13 @@ UUID
 
 西索博得正在倒另一杯酒
 
-每轮饮酒有三个阶段：饮酒阶段、故事阶段和提问阶段。在每个饮酒阶段，玩家角色可以选择饮用酿酒并进行 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")（某些职业获得 [优势](Advantage.md "优势")），或者假装饮酒并进行 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")（[游荡者](Rogue.md "游荡者") 的难度等级降低）。
+每轮饮酒有三个阶段：饮酒阶段、故事阶段和提问阶段。在每个饮酒阶段，玩家角色可以选择饮用酿酒并进行 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")（某些职业获得 [优势](Advantage.md "优势")），或者假装饮酒并进行 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")（[游荡者](Rogue.md "游荡者") 的难度等级降低）。
 
-如果玩家角色在一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 中失败，他们会进入 [醉酒](Drunk_(Condition).md "醉酒（状态）") 状态，直到长休，并且在 [敏捷](Dexterity.md "敏捷") 和 [魅力](Charisma.md "魅力") 检定上具有 [劣势](Disadvantage.md "劣势")，这使得任何 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定") 以及随后的每个故事阶段都更加困难。在两次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 失败后，玩家角色会进入 [中毒](Poisoned_(Condition).md "中毒（状态）") 状态，直到长休（也可以用 [抗毒剂](Antidote.md "抗毒剂") 移除）。在三次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 全部失败后，玩家角色会陷入 [昏迷](Unconscious_(Condition).md "昏迷（状态）") 10 回合，西索博得会立即开始战斗。
+如果玩家角色在一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 中失败，他们会进入 [醉酒](Drunk_(Condition).md "醉酒（状态）") 状态，直到长休，并且在 [敏捷](Dexterity.md "敏捷") 和 [魅力](Charisma.md "魅力") 检定上具有 [劣势](Disadvantage.md "劣势")，这使得任何 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定") 以及随后的每个故事阶段都更加困难。在两次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 失败后，玩家角色会进入 [中毒](Poisoned_(Condition).md "中毒（状态）") 状态，直到长休（也可以用 [抗毒剂](Antidote.md "抗毒剂") 移除）。在三次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 全部失败后，玩家角色会陷入 [昏迷](Unconscious_(Condition).md "昏迷（状态）") 10 回合，西索博得会立即开始战斗。
 
-如果玩家角色在 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定") 中失败，西索博得会注意到欺诈行为并变得敌对。
+如果玩家角色在 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定") 中失败，西索博得会注意到欺诈行为并变得敌对。
 
-在饮酒或成功假装饮酒后，西索博得会要求玩家角色讲一个故事。这通过 [表演](Performance.md "表演") [检定](Ability_Check.md "属性检定") 完成，选择基于队伍到目前为止的旅程事件（[吟游诗人](Bard.md "吟游诗人") 在每次 [表演](Performance.md "表演") [检定](Ability_Check.md "属性检定") 上具有 [优势](Advantage.md "优势")）。
+在饮酒或成功假装饮酒后，西索博得会要求玩家角色讲一个故事。这通过 [表演](Performance.md "表演") [属性检定](Ability_Check.md "属性检定") 完成，选择基于队伍到目前为止的旅程事件（[吟游诗人](Bard.md "吟游诗人") 在每次 [表演](Performance.md "表演") [属性检定](Ability_Check.md "属性检定") 上具有 [优势](Advantage.md "优势")）。
 
 #### 第一杯酒
 
@@ -117,7 +117,7 @@ UUID
 - [巧手] _模仿饮酒。_ (DC 18)
 - [游荡者] [巧手] _假装深深啜饮，在最后一刻避开液体。_ (DC 16)
 
-如果拒绝饮酒或 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定") 失败，西索博得会开始战斗。否则，他会要求玩家角色给他讲一个故事。[邪术师](Warlock.md "邪术师") 有一个特殊选项，可以基于其宗主进行 DC 16 的 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")。
+如果拒绝饮酒或 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定") 失败，西索博得会开始战斗。否则，他会要求玩家角色给他讲一个故事。[邪术师](Warlock.md "邪术师") 有一个特殊选项，可以基于其宗主进行 DC 16 的 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")。
 
 - [邪念] [表演] 我屠杀了一整个以为我是保护者的提夫林林地。 (DC 21)
 - [表演] 在夺心魔的船上，我亲眼目睹了地狱本身。 (DC 21)
@@ -137,7 +137,7 @@ UUID
 - [欺瞒] 我从世界之脊的四座山峰上凝视了整个费伦大陆。 (DC 18)
 - [吉斯洋基人] [欺瞒] 我在永恒的星界行走在一位死去的神祇的尸体上。 (DC 18)
 
-如果这次 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定") 失败或拒绝讲故事，西索博得会变得敌对。
+如果这次 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定") 失败或拒绝讲故事，西索博得会变得敌对。
 
 成功讲完故事后，可以向西索博得询问几个关于他自己和 [凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆") 的问题：
 
@@ -168,12 +168,12 @@ UUID
 - [表演] 我击败了一位审判官——巫妖女王维拉基斯麾下可怕的冠军勇士。 (DC 16)
 - [吉斯洋基人] [表演] 我击败了一位审判官——我女王维拉基斯麾下备受尊崇的冠军勇士。 (DC 16)
 
-如果这次 [表演](Performance.md "表演") [检定](Ability_Check.md "属性检定") 失败，西索博得会要求一个更好的故事，允许玩家角色最后一次用 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定") 娱乐他：
+如果这次 [表演](Performance.md "表演") [属性检定](Ability_Check.md "属性检定") 失败，西索博得会要求一个更好的故事，允许玩家角色最后一次用 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定") 娱乐他：
 
 - [欺瞒] 我用它自己的尖角开膛了一只巴洛炎魔。 (DC 18)
 - [欺瞒] 我从一个双头食人魔身上扯下一个头，并强行喂给另一个头。 (DC 18)
 
-如果这次 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定") 失败或拒绝讲故事，西索博得会变得敌对。
+如果这次 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定") 失败或拒绝讲故事，西索博得会变得敌对。
 
 否则，他会允许玩家角色询问更多问题：
 

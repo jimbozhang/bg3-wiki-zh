@@ -4,31 +4,31 @@
 
 ## 目录
 
-- [1 常见资源](#common-resources)
-  - [1.1 动作](#actions)
-    - [1.1.1 消耗品](#consumables)
-    - [1.1.2 物品](#items)
-    - [1.1.3 职业特性](#class-features)
-  - [1.2 附赠动作](#bonus-actions)
-    - [1.2.1 物品](#items-2)
-    - [1.2.2 职业特性](#class-features-2)
-  - [1.3 反应](#reactions)
-  - [1.4 移动速度](#movement-speed)
-  - [1.5 恢复常见资源](#restoring-common-resources)
-- [2 法术位](#spell-slots)
-  - [2.1 创造法术位](#creating-slots)
-  - [2.2 恢复法术位](#restoring-slots)
-- [3 职业特定资源](#class-specific-resources)
-  - [3.1 诗人激励](#bardic-inspiration)
-  - [3.2 引导神力](#channel-divinity)
-  - [3.3 引导誓言](#channel-oath)
-  - [3.4 气](#ki)
-    - [3.4.1 物品](#items-3)
-    - [3.4.2 职业特性](#class-features-3)
-  - [3.5 术法点](#sorcery-points)
-  - [3.6 卓越骰子](#superiority-die)
-  - [3.7 荒野形态](#wild-shape)
-- [4 休息](#resting)
+- [1 常见资源](#常见资源)
+  - [1.1 动作](#动作)
+    - [1.1.1 消耗品](#消耗品)
+    - [1.1.2 物品](#物品)
+    - [1.1.3 职业特性](#职业特性)
+  - [1.2 附赠动作](#附赠动作)
+    - [1.2.1 物品](#物品)
+    - [1.2.2 职业特性](#职业特性)
+  - [1.3 反应](#反应)
+  - [1.4 移动速度](#移动速度)
+  - [1.5 恢复常见资源](#恢复常见资源)
+- [2 法术位](#法术位)
+  - [2.1 创造法术位](#创造法术位)
+  - [2.2 恢复法术位](#恢复法术位)
+- [3 职业特定资源](#职业特定资源)
+  - [3.1 诗人激励](#诗人激励)
+  - [3.2 引导神力](#引导神力)
+  - [3.3 引导誓言](#引导誓言)
+  - [3.4 气](#气)
+    - [3.4.1 物品](#物品)
+    - [3.4.2 职业特性](#职业特性)
+  - [3.5 术法点](#术法点)
+  - [3.6 卓越骰子](#卓越骰子)
+  - [3.7 荒野形态](#荒野形态)
+- [4 休息](#休息)
 
 ## 常见资源
 
@@ -99,14 +99,14 @@
 
 | 状态 | 来源 | 替代效果 | 状态持续时间 | 限制 |
 | --- | --- | --- | --- | --- |
-| [至死不渝](After_Death_Do_Us_Part_(passive_feature).md "After Death Do Us Part (passive feature)") | [至死不渝](After_Death_Do_Us_Part.md "After Death Do Us Part") 被动 | 12点最大[生命值](Healing.md "Healing") | 持续时间：永久 | 施加[暗影附身](Shadow_Possession_(Condition).md "Shadow Possession (Condition)") / 充能：[长休](Long_Rest.md "Long rest") |
-| [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)") | [保护之掌](Aegis_Palms.md "Aegis Palms") 被动 | 1⁠⁠[生命值](Healing.md "Healing") | 持续时间：2回合 | 施加于被[治疗](Healing.md "Healing")的目标 |
-| [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)") | [保护之掌](Aegis_Palms.md "Aegis Palms") 被动 | 1⁠⁠[生命值](Healing.md "Healing") | 持续时间：2回合 | 施加于被[治疗](Healing.md "Healing")的目标 |
-| [洛山达的祝福](Lathander's_Blessing.md "Lathander's Blessing") | [洛山达之血](The_Blood_of_Lathander.md "The Blood of Lathander") 被动 | 2d6⁠⁠[生命值](Healing.md "Healing") / 9米（30英尺）范围内的盟友获得+1d6⁠⁠[生命值](Healing.md "Healing") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
-| [坚韧不屈](Relentless_Endurance.md "Relentless Endurance") | 1级[半兽人](Half-Orc.md "Half-Orc") 被动 | 1⁠⁠[生命值](Healing.md "Healing") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
-| [坚韧狂暴](Relentless_Rage.md "Relentless Rage") | 11级[野蛮人](Barbarian.md "Barbarian") 被动 | 1⁠⁠[生命值](Healing.md "Healing") | 持续时间：永久 | 如果处于[激怒](Rage_(Condition).md "Rage (Condition)")状态 / 充能：[短休](Short_rest.md "Short rest") |
-| [墓穴之力](Strength_of_the_Grave.md "Strength of the Grave") | 1级[暗影魔法](Shadow_Magic.md "Shadow Magic")[术士](Sorcerer.md "Sorcerer") 被动 | 1⁠⁠[生命值](Healing.md "Healing") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
-| [求生直觉](Survival_Instinct_(Condition).md "Survival Instinct (Condition)") | [求生直觉](Survival_Instinct.md "Survival Instinct") 动作 | 3d4⁠⁠[生命值](Healing.md "Healing") | 持续时间：3回合 | 充能：[短休](Short_rest.md "Short rest") |
+| [至死不渝](After_Death_Do_Us_Part_(passive_feature).md "After Death Do Us Part (passive feature)") | [至死不渝](After_Death_Do_Us_Part.md "After Death Do Us Part") 被动 | 12点最大[治疗](Healing.md "治疗") | 持续时间：永久 | 施加[暗影附身](Shadow_Possession_(Condition).md "Shadow Possession (Condition)") / 充能：[长休](Long_Rest.md "Long rest") |
+| [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)") | [保护之掌](Aegis_Palms.md "Aegis Palms") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：2回合 | 施加于被[治疗](Healing.md "Healing")的目标 |
+| [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)") | [保护之掌](Aegis_Palms.md "Aegis Palms") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：2回合 | 施加于被[治疗](Healing.md "Healing")的目标 |
+| [洛山达的祝福](Lathander's_Blessing.md "Lathander's Blessing") | [洛山达之血](The_Blood_of_Lathander.md "The Blood of Lathander") 被动 | 2d6⁠⁠[治疗](Healing.md "治疗") / 9米（30英尺）范围内的盟友获得+1d6⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
+| [坚韧不屈](Relentless_Endurance.md "Relentless Endurance") | 1级[半兽人](Half-Orc.md "Half-Orc") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
+| [坚韧狂暴](Relentless_Rage.md "Relentless Rage") | 11级[野蛮人](Barbarian.md "Barbarian") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 如果处于[激怒](Rage_(Condition).md "Rage (Condition)")状态 / 充能：[短休](Short_rest.md "Short rest") |
+| [墓穴之力](Strength_of_the_Grave.md "Strength of the Grave") | 1级[暗影魔法](Shadow_Magic.md "Shadow Magic")[术士](Sorcerer.md "Sorcerer") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
+| [求生直觉](Survival_Instinct_(Condition).md "Survival Instinct (Condition)") | [求生直觉](Survival_Instinct.md "Survival Instinct") 动作 | 3d4⁠⁠[治疗](Healing.md "治疗") | 持续时间：3回合 | 充能：[短休](Short_rest.md "Short rest") |
 
 ## 法术位
 

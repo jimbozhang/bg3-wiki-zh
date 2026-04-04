@@ -83,43 +83,43 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅捷而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的[敏捷豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。不能处于目盲或失能状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，且不会[受惊](Surprised.md "受惊")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**坚韧狂暴**](Relentless_Rage.md "坚韧狂暴")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
 
-每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "狂暴（状态）")状态下生命值降至 0，你将恢复 1 点[生命值](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
+每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "狂暴（状态）")状态下生命值降至 0，你将恢复 1 点[治疗](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -175,43 +175,43 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅捷而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的[敏捷豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。不能处于目盲或失能状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，且不会[受惊](Surprised.md "受惊")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**坚韧狂暴**](Relentless_Rage.md "坚韧狂暴")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
 
-每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "狂暴（状态）")状态下生命值降至 0，你将恢复 1 点[生命值](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
+每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "狂暴（状态）")状态下生命值降至 0，你将恢复 1 点[治疗](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -267,43 +267,43 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅捷而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的[敏捷豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。不能处于目盲或失能状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，且不会[受惊](Surprised.md "受惊")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**坚韧狂暴**](Relentless_Rage.md "坚韧狂暴")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
 
-每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "狂暴（状态）")状态下生命值降至 0，你将恢复 1 点[生命值](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
+每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "狂暴（状态）")状态下生命值降至 0，你将恢复 1 点[治疗](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地（状态）")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 

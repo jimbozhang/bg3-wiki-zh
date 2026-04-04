@@ -9,7 +9,7 @@
 - 通过[坠落伤害](Falling_damage.md "Falling damage")机制增加掉落物品造成的伤害<sup>[\[4\]](#cite_note-4)</sup>
 - 通过足够的距离让使用投掷物品的角色保持在战斗之外<sup>[\[5\]](#cite_note-5)</sup>
 - 为计划中的遭遇战做准备，以寻求特定的战术优势：
-  - 对[翠绿林地](Emerald_Grove.md "Emerald Grove")的[第一次](Emerald_Grove.md#Emerald_Grove_ramparts "Emerald Grove")或[第二次](Defeat_the_Goblins.md "Defeat the Goblins")进攻
+  - 对[翠绿林地](Emerald_Grove.md "Emerald Grove")的[第一次](Emerald_Grove.md#Emerald_Grove_ramparts "Emerald Grove")或[击败地精](Defeat_the_Goblins.md "击败地精")进攻
   - [莱埃泽尔](Lae'zel.md "Lae'zel")的[浪漫战斗](Lae'zel/Romance.md#Act_Two "Lae'zel/Romance")
   - 在[复仇之炉](Grymforge.md "Grymforge")与[尼讷](Nere.md "Nere")战斗
 

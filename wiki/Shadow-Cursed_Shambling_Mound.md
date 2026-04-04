@@ -70,19 +70,19 @@
 
 - - - - ## 特性
 
-- [**体外消化**](External_Digestion.md "体外消化")
+- [体外消化](External_Digestion.md "体外消化")
 
 可以[吞噬](Devour_(Shambling_Mound).md) 任何被[束缚](Restrained_(status_group).md) 并浸泡在其[消化液](Digestive_Juices_(Condition).md) 中的生物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -132,19 +132,19 @@
 
 - - - - ## 特性
 
-- [**体外消化**](External_Digestion.md "体外消化")
+- [体外消化](External_Digestion.md "体外消化")
 
 可以[吞噬](Devour_(Shambling_Mound).md) 任何被[束缚](Restrained_(status_group).md) 并浸泡在其[消化液](Digestive_Juices_(Condition).md) 中的生物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -194,27 +194,27 @@
 
 - - - - - ## 特性
 
-- [**缠绕藤蔓形态**](Tanglevine_Form.md "缠绕藤蔓形态")
+- [缠绕藤蔓形态](Tanglevine_Form.md "缠绕藤蔓形态")
 
 任何对这团扭动藤蔓进行近战攻击的生物都可能被[缠绕](Entangled_(Condition).md "缠绕 (状态)")
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**体外消化**](External_Digestion.md "体外消化")
+- [体外消化](External_Digestion.md "体外消化")
 
 可以[吞噬](Devour_(Shambling_Mound).md) 任何被[束缚](Restrained_(status_group).md) 并浸泡在其[消化液](Digestive_Juices_(Condition).md) 中的生物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -268,27 +268,27 @@
 
 如果一个生物在其回合结束时位于蔓生怪 5 米 / 17 英尺范围内，它将受到 3d10⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害，并且幽影诅咒藤蔓会在其脚下生长，可能[缠绕](Entangled_(Condition).md "缠绕 (状态)")它。
 
-- [**缠绕藤蔓形态**](Tanglevine_Form.md "缠绕藤蔓形态")
+- [缠绕藤蔓形态](Tanglevine_Form.md "缠绕藤蔓形态")
 
 任何对这团扭动藤蔓进行近战攻击的生物都可能被[缠绕](Entangled_(Condition).md "缠绕 (状态)")
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**体外消化**](External_Digestion.md "体外消化")
+- [体外消化](External_Digestion.md "体外消化")
 
 可以[吞噬](Devour_(Shambling_Mound).md) 任何被[束缚](Restrained_(status_group).md) 并浸泡在其[消化液](Digestive_Juices_(Condition).md) 中的生物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -324,19 +324,19 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 免疫](#immunities)
-  - [2.3 盟友](#allies)
-  - [2.4 战利品](#loot)
-- [3 画廊](#gallery)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 免疫](#免疫)
+  - [2.3 盟友](#盟友)
+  - [2.4 战利品](#战利品)
+- [3 画廊](#画廊)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 概述
 
-幽影诅咒蔓生怪，与[幽影诅咒枯藤怪](Shadow-Cursed_Vine_Blight.md "幽影诅咒枯藤怪")和[幽影诅咒枯针怪](Shadow-Cursed_Needle_Blight.md "幽影诅咒枯针怪")一样，会将自己隐藏在周围的植被中，以便伏击路人。队伍必须通过 DC 30 的[察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")才能发现它，避免被伏击。
+幽影诅咒蔓生怪，与[幽影诅咒枯藤怪](Shadow-Cursed_Vine_Blight.md "幽影诅咒枯藤怪")和[幽影诅咒枯针怪](Shadow-Cursed_Needle_Blight.md "幽影诅咒枯针怪")一样，会将自己隐藏在周围的植被中，以便伏击路人。队伍必须通过 DC 30 的[察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")才能发现它，避免被伏击。
 
 ## 战斗
 
@@ -359,7 +359,7 @@ UUID
 [粘稠之鞭](Adhesive_Whip.md "粘稠之鞭") ()
 抓住一个目标将其拖向你，并可能使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：15 米 (50 英尺)
 
 [吞噬](Devour_(Shambling_Mound).md "吞噬 (蔓生怪)") ()
@@ -370,7 +370,7 @@ UUID
 [消化液](Digestive_Sap.md "消化液") ()
 将你的[消化液](Digestive_Juices_(Condition).md "消化液 (状态)")喷吐到附近的敌人身上，如果他们也被[束缚](Restrained_(Condition).md "束缚 (状态)")，则使其准备好被[吞噬](Devour_(Shambling_Mound).md "吞噬 (蔓生怪)")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 
 [多重攻击](Multiattack_(Shadow-Cursed_Shambling_Mound).md "多重攻击 (幽影诅咒蔓生怪)") ()
 

@@ -77,15 +77,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving_throws")具有[优势](Advantage.md "Advantage")。
 
-- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 在进行[攻击掷骰](Attack_roll.md "Attack_roll")、[属性检定](Ability_Check.md "Ability_check")或[豁免检定](Saving_throw.md "Saving_throw")时掷出1点，可重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -115,10 +115,10 @@ UUID
 
 ## 目录
 
-- [1 出场情况](#involvement)
-- [2 闲聊对话](#idle-banter)
-- [3 相关任务](#related-quests)
-- [4 外部链接](#external-links)
+- [1 出场情况](#出场情况)
+- [2 闲聊对话](#闲聊对话)
+- [3 相关任务](#相关任务)
+- [4 外部链接](#外部链接)
 
 ## 出场情况
 

@@ -12,12 +12,12 @@
 
 ## 内容
 
-- [1 互动](#involvement)
-- [2 图库](#gallery)
-  - [2.1 地图图标](#map-icon)
-  - [2.2 第一幕](#act-one)
-  - [2.3 第二幕](#act-two)
-  - [2.4 第三幕](#act-three)
+- [1 互动](#互动)
+- [2 图库](#图库)
+  - [2.1 地图图标](#地图图标)
+  - [2.2 第一幕](#第一幕)
+  - [2.3 第二幕](#第二幕)
+  - [2.4 第三幕](#第三幕)
 
 ## 图库
 
@@ -49,7 +49,7 @@
 
 ### 第三幕
 
-- .png[精灵之歌酒馆套房](Elfsong_Tavern.md "精灵之歌酒馆")
+- .png[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")
 
 ---
 *Source: [Magic Mirror](https://bg3.wiki/wiki/Magic_Mirror)*

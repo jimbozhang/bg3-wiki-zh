@@ -96,15 +96,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -158,15 +158,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -220,15 +220,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -261,9 +261,9 @@ Stats
 
 ### 侦察远征
 
-光焰与另外两名[竖琴手](Harpers.md "竖琴手")一起，前往[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")以东的山丘侦察，试图找到[幽影诅咒](Shadow_Curse.md "幽影诅咒")的边界。他们在旅店以东 (X: 33 Y: 145) 处发现了一所废弃的房屋，并在附近的小丘上发现了一座诡异的[废墟之家](House_in_Deep_Shadows.md "深影之家")。
+光焰与另外两名[竖琴手](Harpers.md "竖琴手")一起，前往[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")以东的山丘侦察，试图找到[幽影诅咒](Shadow_Curse.md "幽影诅咒")的边界。他们在旅店以东 (X: 33 Y: 145) 处发现了一所废弃的房屋，并在附近的小丘上发现了一座诡异的[深影之家](House_in_Deep_Shadows.md "深影之家")。
 
-与他同行的一名竖琴手提到，从废墟之家中听到了[孩子](Oliver.md "奥利弗")的笑声，并观察到[吉斯洋基人](Githyanki.md "吉斯洋基人")战士接近房屋。光焰在他的日志中难以置信地指出，他希望他的侦察同伴只是在想象。<sup>[\[3\]](#cite_note-3)</sup>
+与他同行的一名竖琴手提到，从废墟之家中听到了[奥利弗](Oliver.md "奥利弗")的笑声，并观察到[吉斯洋基人](Githyanki.md "吉斯洋基人")战士接近房屋。光焰在他的日志中难以置信地指出，他希望他的侦察同伴只是在想象。<sup>[\[3\]](#cite_note-3)</sup>
 
 然而，光焰和他的侦察队最终在将[竖琴手日志](Harper_Journal.md "竖琴手日志")带回旅店之前，屈服于[幽影诅咒](Shadow_Curse.md "幽影诅咒")。
 
@@ -313,7 +313,7 @@ Stats
 
 1. [↑](#cite_ref-1) 当使用[死者交谈](Speak_with_Dead.md "死者交谈")与他对话时，会揭示他的全名。
 1. [↑](#cite_ref-2) 在光焰的尸体旁边可以找到另外两名已故的竖琴手。光焰和他的另外两名竖琴手侦察兵是第二幕中唯一已故的 5 级竖琴手。[拉珊德拉](Lassandra.md "拉珊德拉")、[卡罗](Karrow.md "卡罗")、[梅根](Meygan.md "梅根")和[约纳斯](Yonas.md "约纳斯")是游戏中仅有的其他 5 级竖琴手，尽管他们还活着。
-1. [↑](#cite_ref-3) [_竖琴手日志_](Harper_Journal.md "竖琴手日志")
+1. [↑](#cite_ref-3) [竖琴手日志](Harper_Journal.md "竖琴手日志")
 
 ---
 *Source: [Dal Lightspark](https://bg3.wiki/wiki/Dal_Lightspark)*

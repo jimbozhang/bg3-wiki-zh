@@ -78,7 +78,7 @@
 
 - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -86,7 +86,7 @@
 
 如果目标处于[恐慌](Frightened_(Condition).md "恐慌（状态）")状态，木乃伊可以[多重攻击](Multiattack_(Mummy).md "多重攻击（木乃伊）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -136,7 +136,7 @@
 
 - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -144,7 +144,7 @@
 
 如果目标处于[恐慌](Frightened_(Condition).md "恐慌（状态）")状态，木乃伊可以[多重攻击](Multiattack_(Mummy).md "多重攻击（木乃伊）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -194,7 +194,7 @@
 
 - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -202,7 +202,7 @@
 
 如果目标处于[恐慌](Frightened_(Condition).md "恐慌（状态）")状态，木乃伊可以[多重攻击](Multiattack_(Mummy).md "多重攻击（木乃伊）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -210,12 +210,12 @@
 
 ## 目录
 
-- [1 关于远古仆从](#about-ancient-servants)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战术](#tactics)
-- [4 图库](#gallery)
-- [5 外部链接](#external-links)
+- [1 关于远古仆从](#关于远古仆从)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战术](#战术)
+- [4 图库](#图库)
+- [5 外部链接](#外部链接)
 
 ## 关于远古仆从
 
@@ -267,7 +267,7 @@
 ## 战术
 
 - 不死仆从的主要战术是用恐惧凝视使生物恐慌，这使它们能够使用多重攻击。
-- 它们弱于火焰伤害，因此[火球术术](Fireball.md "火球术术")等法术可能有用。然而，如果在[古代密室](Ancient_Lair.md "古代密室")中遭遇，使用法术会对施法者造成伤害；最好使用[炼金火焰](Alchemist's_Fire.md "炼金火焰")或[火焰箭](Arrow_of_Fire.md "火焰箭")等物品，或[戏法](Cantrips.md "戏法")如[火焰箭](Fire_Bolt.md "火焰箭")。
+- 它们弱于火焰伤害，因此[火球术](Fireball.md "火球术")等法术可能有用。然而，如果在[古代密室](Ancient_Lair.md "古代密室")中遭遇，使用法术会对施法者造成伤害；最好使用[炼金火焰](Alchemist's_Fire.md "炼金火焰")或[火焰箭](Arrow_of_Fire.md "火焰箭")等物品，或[戏法](Cantrips.md "戏法")如[火焰箭](Fire_Bolt.md "火焰箭")。
 
 ## 图库
 

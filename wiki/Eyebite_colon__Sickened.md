@@ -1,10 +1,10 @@
 # 摄心目光：病弱
 
-**摄心目光：病弱** 是一个 [6级死灵学派法术](Spells.md "Spells")。它会使目标每回合都感到极度不适。
+**摄心目光：病弱** 是一个 [法术](Spells.md "法术")。它会使目标每回合都感到极度不适。
 
 ## 描述
 
-使一个生物在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [检定](Ability_Check.md "Ability Check") 上承受 [劣势](Disadvantage.md "Disadvantage")。
+使一个生物在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [属性检定](Ability_Check.md "属性检定") 上承受 [劣势](Disadvantage.md "Disadvantage")。
 
 ## 属性
 
@@ -37,7 +37,7 @@ UID
 
 [体质](Constitution.md "CON") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
-- 受影响实体在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [检定](Ability_Check.md "Ability Check") 上承受 [劣势](Disadvantage.md "Disadvantage")
+- 受影响实体在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [属性检定](Ability_Check.md "属性检定") 上承受 [劣势](Disadvantage.md "Disadvantage")
 
 ## 状态：摄心目光
 

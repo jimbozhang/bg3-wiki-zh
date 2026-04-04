@@ -1,10 +1,10 @@
 # 强化属性
 
-**强化属性**是一个[2级变化学派法术](Spells.md "Spells")。它允许施法者强化一个生物物理或精神属性的某个方面。
+**强化属性**是一个[法术](Spells.md "法术")。它允许施法者强化一个生物物理或精神属性的某个方面。
 
 ## 描述
 
-为一名盟友施加魔法附魔。他们在所选[属性](Ability_Scores.md "属性值")的[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
+为一名盟友施加魔法附魔。他们在所选[属性值](Ability_Scores.md "属性值")的[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
 
 ## 属性
 
@@ -46,7 +46,7 @@ UID
 ## 备注
 
 - 强化属性的咒语是 **Mactē Virtutē**，拉丁语命令“以美德为荣！”
-- 如描述所述，此法术在所选[属性](Ability_Scores.md "属性值")的[属性检定](Ability_checks.md "属性检定")上授予[优势](Advantage.md "优势")，而非[豁免检定](Saving_throws.md "Saving Throws")。
+- 如描述所述，此法术在所选[属性值](Ability_Scores.md "属性值")的[属性检定](Ability_checks.md "属性检定")上授予[优势](Advantage.md "优势")，而非[豁免检定](Saving_throws.md "Saving Throws")。
 
 ## 错误
 

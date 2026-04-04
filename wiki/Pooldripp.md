@@ -82,19 +82,19 @@
 
 ## 特性
 
-- [**波尔的忠诚**](BOOOAL's_Faithful.md "波尔的忠诚")
+- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
 
 有几率对目标施加流血状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉技能检定具有劣势。
 
@@ -142,19 +142,19 @@
 
 ## 特性
 
-- [**波尔的忠诚**](BOOOAL's_Faithful.md "波尔的忠诚")
+- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
 
 有几率对目标施加流血状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉技能检定具有劣势。
 
@@ -202,19 +202,19 @@
 
 ## 特性
 
-- [**波尔的忠诚**](BOOOAL's_Faithful.md "波尔的忠诚")
+- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
 
 有几率对目标施加流血状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉技能检定具有劣势。
 
@@ -244,11 +244,11 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与](#参与)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与
 

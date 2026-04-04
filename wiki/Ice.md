@@ -1,6 +1,6 @@
 # 冰
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Ice.md "Special:WhatLinksHere/Ice")的，请考虑编辑该链接以指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[冰](Special_colon_WhatLinksHere/Ice.md "冰")的，请考虑编辑该链接以指向正确的页面。
 
 **[冰](Ice_(surface).md "冰 (地表)")** 是一种会导致倒伏状态的地表。
 

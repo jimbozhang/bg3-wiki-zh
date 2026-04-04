@@ -33,7 +33,7 @@
 
 _关于至上真神的雷霆：_
 
-- 即使佩戴者未被[烙印](Brand_of_the_Absolute.md "Brand of the Absolute")，至上真神的雷霆也能生效，但在[荣誉模式](Difficulty.md#Honour_mode "Difficulty")下，它无法与[轰鸣剑](Booming_Blade.md "Booming Blade")和[雷鸣打击](Thunderous_Smite.md "Thunderous Smite")等法术配合使用。
+- 即使佩戴者未被[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，至上真神的雷霆也能生效，但在[荣誉模式](Difficulty.md#Honour_mode "Difficulty")下，它无法与[轰鸣剑](Booming_Blade.md "Booming Blade")和[雷鸣打击](Thunderous_Smite.md "Thunderous Smite")等法术配合使用。
 
 ---
 *Source: [Ring of Absolute Force](https://bg3.wiki/wiki/Ring_of_Absolute_Force)*

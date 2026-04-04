@@ -94,19 +94,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
 
@@ -152,19 +152,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
 
@@ -210,19 +210,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")具有[劣势](Disadvantage.md "劣势")。
 
@@ -266,16 +266,16 @@ UUID
 
 ## 目录
 
-- [1 历史](#history)
-- [2 相关剧情](#involvement)
-  - [2.1 第三章](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 画廊](#gallery)
-- [6 注释](#notes)
-- [7 参考文献](#references)
+- [1 历史](#历史)
+- [2 相关剧情](#相关剧情)
+  - [2.1 第三章](#第三章)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 画廊](#画廊)
+- [6 注释](#注释)
+- [7 参考文献](#参考文献)
 
 ## 历史
 
@@ -295,7 +295,7 @@ UUID
 
 - 如果玩家角色与[影心](Shadowheart.md "影心")处于恋爱关系中，且她的最终恋爱场景尚未触发，她会拒绝邀请，希望第一次只与玩家角色独处。在该场景之后，她会热情地同意与索恩、尼姆和玩家角色发生性关系。
 - [阿斯代伦](Astarion.md "阿斯代伦")在恋爱时，只有在完成[苍白的精灵](The_Pale_Elf.md "苍白的精灵")后才会同意。然而，随着夜晚的展开，旁白指出，虽然阿斯代伦热情地扮演着他的角色，但他要么“有一种<...>表情，表明他心在百万位面之外”，要么“他的眼中<...>有一种让你<sup>[\[2\]](#cite_note-2)</sup>战栗的强度”（取决于任务结果）。
-- 恋爱中的[盖尔](Gale.md "盖尔")可以说服参与，需要通过DC 25的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")，但场景开始后，他会溜走，并留下一个星界投影代替他参与。
+- 恋爱中的[盖尔](Gale.md "盖尔")可以说服参与，需要通过DC 25的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")，但场景开始后，他会溜走，并留下一个星界投影代替他参与。
 - [哈尔辛](Halsin.md "哈尔辛")在恋爱时也总是同意，如果同时与影心或阿斯代伦恋爱，可以加入他们。如果哈尔辛加入另一个恋爱中的伙伴，并将参与者增加到五人，索恩会观察到，在奎拉扎尔习俗中，五人或以上的群体“在法律上”是狂欢，而四人或以下只是聚会。
 - 其他伙伴会拒绝索恩和尼姆的邀请。
   - 然而，[卡菈克](Karlach.md "卡菈克")承认，虽然四人行在理论上听起来很吸引人，但与双胞胎一起实践则不然。然而，如果玩家角色也退出，只雇佣一个双胞胎，她会愉快地鼓励他们玩得开心，并为她留一些。
@@ -379,7 +379,7 @@ UUID
 ## 注释
 
 - 在传统的卓尔名字中，“尼姆”意为“迷失”、“骷髅”或“头骨”。<sup>[\[3\]](#cite_note-3)</sup>
-- 如果玩家角色和影心接近尼姆和索恩在他们的[私人房间](Underdark_Pleasures.md "幽暗地域欢乐宫")以启动性爱场景时，召唤[挠挠](Scratch.md "挠挠")，有时会出现故障。如果出现故障，尼姆和索恩会投掷先攻并开始战斗。解散挠挠可以解决这个问题。召唤的[异界誓盟：气巨灵](Planar_Ally_colon__Djinni.md "异界誓盟：气巨灵")或[召唤元素生物](Conjure_Elemental.md "召唤元素生物")在启动对话时也会开始战斗。
+- 如果玩家角色和影心接近尼姆和索恩在他们的[幽暗地域欢乐宫](Underdark_Pleasures.md "幽暗地域欢乐宫")以启动性爱场景时，召唤[挠挠](Scratch.md "挠挠")，有时会出现故障。如果出现故障，尼姆和索恩会投掷先攻并开始战斗。解散挠挠可以解决这个问题。召唤的[异界誓盟：气巨灵](Planar_Ally_colon__Djinni.md "异界誓盟：气巨灵")或[召唤元素生物](Conjure_Elemental.md "召唤元素生物")在启动对话时也会开始战斗。
 
 ## 参考文献
 

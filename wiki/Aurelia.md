@@ -81,19 +81,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 16 / (+3) | 16 / (+3) | 11 / (0) | 10 / (0) | 12 / (+1) |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity_Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Hypersensitivity.md "Sunlight_Hypersensitivity")
+- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 
 在阳光下，受到[光耀](Radiant.md "Radiant")伤害，并且在[攻击](Attack_roll.md "Attack_roll")和[属性检定](Ability_Check.md "Ability_Check")时具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**吸血鬼再生**](Vampire_Regeneration.md "Vampire_Regeneration")
+- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
 每回合恢复 10 [生命值](HP.md "HP")，除非处于阳光下或近期受到[光耀](Radiant.md "Radiant")伤害。
 
@@ -139,19 +139,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +3 | +7 | +3 | 0 | +4 | +5 |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity_Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Hypersensitivity.md "Sunlight_Hypersensitivity")
+- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 
 在阳光下，受到[光耀](Radiant.md "Radiant")伤害，并且在[攻击](Attack_roll.md "Attack_roll")和[属性检定](Ability_Check.md "Ability_Check")时具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**吸血鬼再生**](Vampire_Regeneration.md "Vampire_Regeneration")
+- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
 每回合恢复 10 [生命值](HP.md "HP")，除非处于阳光下或近期受到[光耀](Radiant.md "Radiant")伤害。
 
@@ -197,19 +197,19 @@
 | --- | --- | --- | --- |
 |  | 3 | 3 | 0 |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity_Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Hypersensitivity.md "Sunlight_Hypersensitivity")
+- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 
 在阳光下，受到[光耀](Radiant.md "Radiant")伤害，并且在[攻击](Attack_roll.md "Attack_roll")和[属性检定](Ability_Check.md "Ability_Check")时具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**吸血鬼再生**](Vampire_Regeneration.md "Vampire_Regeneration")
+- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
 每回合恢复 10 [生命值](HP.md "HP")，除非处于阳光下或近期受到[光耀](Radiant.md "Radiant")伤害。
 
@@ -231,10 +231,10 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 相关任务](#related-quests)
+- [1 参与情况](#参与情况)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 相关任务](#相关任务)
 
 ## 参与情况
 

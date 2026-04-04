@@ -6,7 +6,7 @@
 | 孢子守护者护甲 | [护甲](Armour.md "护甲") ([轻甲](Light_Armour.md "轻甲")) | [邪恶真菌](Malefic_Funghi.md "邪恶真菌")穿戴者获得+1[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值，并且在造成[黯蚀](Necrotic.md "黯蚀")伤害时，额外造成1点[黯蚀](Necrotic.md "黯蚀")伤害。 [孢子袋](Spore_Sacks.md "孢子袋")当被[共生实体](Symbiotic_Entity_(Condition).md "共生实体（状态）")灌注时，你可以扩散[噼啪砰孢子](Bibberbang_Spores.md "噼啪砰孢子")、[鬼头蘑菇孢子](Timmask_Spores_(class_action).md "鬼头蘑菇孢子（职业动作）")和[加速孢子](Haste_Spores.md "加速孢子")。 |
 | 巢穴之母的复仇 | [护符](Amulet.md "护符") | [恶毒复仇](Venomous_Revenge.md "恶毒复仇")每当穿戴者被治疗时，他们的武器会附魔并额外造成1d6点[中毒](Poison.md "中毒")伤害。 |
 | 残忍蛰刺 | [主手近战](Main_Hand_Melee.md "主手近战") ([长剑](Longswords.md "长剑")) | [落井下石](Sting_The_Helpless.md "落井下石")[卓尔](Drow.md "卓尔")使用此武器时，对[束缚](Restrained_(Condition).md "束缚（状态）")的目标额外造成1d4点[中毒](Poison.md "中毒")伤害。 [诱捕绳索](Ensnaring_Strands.md "诱捕绳索") () 施放为1环法术 ( 重充：[短休](Short_rest.md "短休")。) |
-| 导引披风 | [披风](Cloak.md "披风") | [死亡之源](Deadly_Derivation.md "死亡之源")当你使敌人[中毒](Poisoned_(Condition).md "中毒（状态）")时，为自己恢复1d4点[生命值](Healing.md "治疗")。 |
+| 导引披风 | [披风](Cloak.md "披风") | [死亡之源](Deadly_Derivation.md "死亡之源")当你使敌人[中毒](Poisoned_(Condition).md "中毒（状态）")时，为自己恢复1d4点[治疗](Healing.md "治疗")。 |
 | 气巨灵弯刀 | [主手近战](Main_Hand_Melee.md "主手近战") ([弯刀](Scimitars.md "弯刀")) | 额外造成2d10点[中毒](Poison.md "中毒")伤害。 仅限剥皮者。 |
 | 侍女硬头锤 | [主手近战](Main_Hand_Melee.md "主手近战") ([硬头锤](Maces.md "硬头锤")) | 额外造成1d6点[中毒](Poison.md "中毒")伤害。 将穿戴者的[力量](Strength.md "力量")属性设为18。如果穿戴者的力量属性在不装备此物品时更高，则附魔无效。 |
 | 地狱髯须长戟 | [主手近战](Main_Hand_Melee.md "主手近战") ([长戟](Halberds.md "长戟")) | 额外造成6点[中毒](Poison.md "中毒")伤害。 |

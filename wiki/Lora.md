@@ -1,6 +1,6 @@
 # 罗拉
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Lora.md "Special:WhatLinksHere/Lora")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[罗拉](Special_colon_WhatLinksHere/Lora.md "罗拉")的，请考虑编辑该链接，将其指向正确的页面。
 
 **罗拉**可能指：
 

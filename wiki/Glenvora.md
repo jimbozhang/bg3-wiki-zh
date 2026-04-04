@@ -87,7 +87,7 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -95,11 +95,11 @@
 
 近战范围内的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -149,7 +149,7 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -157,11 +157,11 @@
 
 近战范围内的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -211,7 +211,7 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -219,11 +219,11 @@
 
 近战范围内的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -253,11 +253,11 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与度
 
@@ -265,7 +265,7 @@ UUID
 
 格伦沃拉与[拳手杰博尔德](Jerbold.md "拳手杰博尔德")和一名[钢铁卫士](Steel_Watcher.md "钢铁卫士")一起，监视着[博德之口](Baldur's_Mouth.md "博德之口")的几名员工。他们可以在建筑入口附近找到，坐标 X: -12 Y: -51，守卫着[崔娜](Trina.md "崔娜")、[思蒂](Zita.md "思蒂")、[法莱尔](Falael.md "法莱尔")、[凯普利](Bronte.md "凯普利")、[戴肯](Delcan.md "戴肯")和[贾拉斯](Jarlath.md "贾拉斯")，这些人正在清点、打包和装载刚印刷好的[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")。
 
-与杰博尔德不同，格伦沃拉对报纸内容不抱任何幻想，直白地声称[公报](Baldur's_Mouth_Gazette.md "博德之口公报")只印刷“谎言和废话”。
+与杰博尔德不同，格伦沃拉对报纸内容不抱任何幻想，直白地声称[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")只印刷“谎言和废话”。
 
 在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")被摧毁后，格伦沃拉试图保持镇定，说不活动的卫士正在“经历临时重置”。
 

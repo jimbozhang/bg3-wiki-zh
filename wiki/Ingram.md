@@ -85,15 +85,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看见该敌人。
 
@@ -145,15 +145,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看见该敌人。
 
@@ -205,15 +205,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "盾牌")时，若你在 1.5 米 (5 英尺) 范围内，对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看见该敌人。
 
@@ -235,17 +235,17 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与情况](#参与情况)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与情况
 
 英格拉姆与[拳头哈瓦德](Havard.md "拳头哈瓦德")一起在利文顿的街道上巡逻。他们的路线在[利文顿综合店](Rivington_General.md "利文顿综合店")和[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")之间绕一个大圈，经过以下地点：
 
 - X: 1 Y: -107（第三幕开始时难民营的入口）
-- X: -42 Y: -105（[莎尔教徒瞭望点](Ferg_Drogher.md "弗格·德罗戈")）
+- X: -42 Y: -105（[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")）
 - X: 58 Y: -58（十字路口）
 - X: 62 Y: -10（[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")）
 - X: 33 Y: -3（[剑湾快递](Sword_Coast_Couriers.md "剑湾快递")犬舍的后方）
@@ -290,7 +290,7 @@ Stats
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与其近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与其近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 

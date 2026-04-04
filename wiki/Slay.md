@@ -44,7 +44,7 @@ UID
 
 持续时间：3 回合
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 - 每回合，必须成功通过一次[豁免检定](Saving_throw.md "豁免检定")，否则毒素将进入下一阶段。成功3次后恢复。失败3次后，将感染与所施放的[疫病术](Contagion.md "疫病术")法术变体对应的疾病。
 
 ## 状态：烂肉症
@@ -55,7 +55,7 @@ UID
 
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
 
-- 受影响的实体在自身恶臭的皮肤缸中腐烂，在[魅力](Charisma.md "魅力")[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")，并且对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
+- 受影响的实体在自身恶臭的皮肤缸中腐烂，在[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并且对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
 
 ## 如何习得
 

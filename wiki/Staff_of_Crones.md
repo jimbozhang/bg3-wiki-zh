@@ -39,7 +39,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 
 ## 获取地点
 
-- [蔓生地道](Overgrown_Tunnel.md "蔓生地道") X: -416 Y: 599：在[古代居所](Overgrown_Tunnel.md#Ancient_Abode "蔓生地道")（鬼婆的巢穴）的宝藏房间地面上，位于[埃赛尔婶婶的茶室](Riverside_Teahouse.md "河边茶室")下方
+- [蔓生地道](Overgrown_Tunnel.md "蔓生地道") X: -416 Y: 599：在[古代居所](Overgrown_Tunnel.md#Ancient_Abode "蔓生地道")（鬼婆的巢穴）的宝藏房间地面上，位于[河边茶室](Riverside_Teahouse.md "河边茶室")下方
 
 ## 图库
 

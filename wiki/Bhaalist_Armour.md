@@ -23,7 +23,7 @@
 3 米（10 英尺）内的敌人将变得对[穿刺](Piercing.md "Piercing")伤害[易伤](Vulnerable.md "Vulnerable")，除非他们对此伤害[免疫](Immune.md "Immune")。
 
 [伏击](Ambusher_(+2).md)
-获得 +2 的[先攻骰子](Initiative.md "Initiative")加值。
+获得 +2 的[先攻](Initiative.md "先攻")加值。
 
 ## 获取地点
 

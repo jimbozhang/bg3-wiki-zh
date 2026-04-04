@@ -88,15 +88,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**惧怖讽刺**](Grim_Irony.md "惧怖讽刺")
+- [惧怖讽刺](Grim_Irony.md "惧怖讽刺")
 
 每当此武器造成重击时，目标和攻击者都必须通过一次感知豁免检定，否则将受到 [狂笑](Hideous_Laughter_(Condition).md "狂笑 (状态)") 影响。
 
@@ -104,7 +104,7 @@
 
 如果目标被 [伏击](Ambushed_(Condition).md "伏击 (状态)")，则可以进行 [多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -154,15 +154,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**惧怖讽刺**](Grim_Irony.md "惧怖讽刺")
+- [惧怖讽刺](Grim_Irony.md "惧怖讽刺")
 
 每当此武器造成重击时，目标和攻击者都必须通过一次感知豁免检定，否则将受到 [狂笑](Hideous_Laughter_(Condition).md "狂笑 (状态)") 影响。
 
@@ -170,7 +170,7 @@
 
 如果目标被 [伏击](Ambushed_(Condition).md "伏击 (状态)")，则可以进行 [多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -220,19 +220,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**惧怖讽刺**](Grim_Irony.md "惧怖讽刺")
+- [惧怖讽刺](Grim_Irony.md "惧怖讽刺")
 
 每当此武器造成重击时，目标和攻击者都必须通过一次感知豁免检定，否则将受到 [狂笑](Hideous_Laughter_(Condition).md "狂笑 (状态)") 影响。
 
-- [**读心者**](Mindreader.md "读心者")
+- [读心者](Mindreader.md "读心者")
 
 远程攻击对此生物具有 [劣势](Disadvantage.md "劣势")。
 
@@ -240,7 +240,7 @@
 
 如果目标被 [伏击](Ambushed_(Condition).md "伏击 (状态)")，则可以进行 [多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -272,32 +272,32 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-  - [1.2 历史](#history)
-- [2 参与](#involvement)
-  - [2.1 第三章](#act-three)
-- [3 队伍互动](#party-interactions)
-  - [3.1 阿斯代伦](#astarion)
-  - [3.2 盖尔](#gale)
-  - [3.3 哈尔辛](#halsin)
-  - [3.4 贾希拉](#jaheira)
-  - [3.5 卡菈克](#karlach)
-  - [3.6 莱埃泽尔](#lae'zel)
-  - [3.7 明斯克](#minsc)
-  - [3.8 明萨拉](#minthara)
-  - [3.9 影心](#shadowheart)
-  - [3.10 威尔](#wyll)
-  - [3.11 玩家角色](#player-character)
-- [4 战斗](#combat)
-  - [4.1 攻击与能力](#attacks-and-abilities)
-  - [4.2 战利品](#loot)
-- [5 死者交谈](#speak-with-dead)
-- [6 相关物品](#related-items)
-- [7 相关文献](#related-literature)
-- [8 相关任务](#related-quests)
-- [9 参考文献](#references)
-- [10 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+  - [1.2 历史](#历史)
+- [2 参与](#参与)
+  - [2.1 第三章](#第三章)
+- [3 队伍互动](#队伍互动)
+  - [3.1 阿斯代伦](#阿斯代伦)
+  - [3.2 盖尔](#盖尔)
+  - [3.3 哈尔辛](#哈尔辛)
+  - [3.4 贾希拉](#贾希拉)
+  - [3.5 卡菈克](#卡菈克)
+  - [3.6 莱埃泽尔](#莱埃泽尔)
+  - [3.7 明斯克](#明斯克)
+  - [3.8 明萨拉](#明萨拉)
+  - [3.9 影心](#影心)
+  - [3.10 威尔](#威尔)
+  - [3.11 玩家角色](#玩家角色)
+- [4 战斗](#战斗)
+  - [4.1 攻击与能力](#攻击与能力)
+  - [4.2 战利品](#战利品)
+- [5 死者交谈](#死者交谈)
+- [6 相关物品](#相关物品)
+- [7 相关文献](#相关文献)
+- [8 相关任务](#相关任务)
+- [9 参考文献](#参考文献)
+- [10 外部链接](#外部链接)
 
 ## 概述
 

@@ -14,22 +14,22 @@
 
 ## 目录
 
-- [1 调整值](#modifiers)
-  - [1.1 游说调整值](#persuasion-modifier)
-  - [1.2 游戏难度](#game-difficulty)
-    - [1.2.1 探索者难度](#explorer-difficulty)
-    - [1.2.2 硬核难度](#tactician-difficulty)
-  - [1.3 商人态度](#trader-attitude)
-    - [1.3.1 何时赠送最优？](#when-is-it-optimal-to-gift?)
-- [2 对话角色](#talking-character)
-- [3 参见](#see-also)
-- [4 参考文献](#references)
+- [1 调整值](#调整值)
+  - [1.1 游说调整值](#游说调整值)
+  - [1.2 游戏难度](#游戏难度)
+    - [1.2.1 探索者难度](#探索者难度)
+    - [1.2.2 硬核难度](#硬核难度)
+  - [1.3 商人态度](#商人态度)
+    - [1.3.1 何时赠送最优？](#何时赠送最优？)
+- [2 对话角色](#对话角色)
+- [3 参见](#参见)
+- [4 参考文献](#参考文献)
 
 ## 调整值
 
 ### 游说调整值
 
-角色的[游说](Persuasion.md "游说")值会影响价格。正值会使价格更优惠（出售时更高，购买时更低），反之亦然。在[探索者难度](Difficulty.md#Explorer "难度")下，如果角色在游说上[熟练](Proficiency.md "熟练项")，由于该难度下的[熟练项加值](Proficiency_Bonus.md "熟练项加值")更高，其游说值也会更高。每个游说值点数会使总调整值变化0.1，具体如下：
+角色的[游说](Persuasion.md "游说")值会影响价格。正值会使价格更优惠（出售时更高，购买时更低），反之亦然。在[探索者难度](Difficulty.md#Explorer "难度")下，如果角色在游说上[熟练项](Proficiency.md "熟练项")，由于该难度下的[熟练项加值](Proficiency_Bonus.md "熟练项加值")更高，其游说值也会更高。每个游说值点数会使总调整值变化0.1，具体如下：
 
 `游说调整值 = 游说值 × 0.1`
 
@@ -41,7 +41,7 @@
 
 在[探索者难度](Difficulty.md#Explorer "难度")下，难度调整值为0.5。
 
-如果角色在[游说](Persuasion.md "游说")上[熟练](Proficiency.md "熟练项")，他们会受益于该难度提供的更高[熟练项加值](Proficiency_Bonus.md "熟练项加值")，具体取决于其[角色等级](Character_level.md "角色等级")，如下表所示。这反过来会增加游说调整值。
+如果角色在[游说](Persuasion.md "游说")上[熟练项](Proficiency.md "熟练项")，他们会受益于该难度提供的更高[熟练项加值](Proficiency_Bonus.md "熟练项加值")，具体取决于其[角色等级](Character_level.md "角色等级")，如下表所示。这反过来会增加游说调整值。
 
 #### 硬核难度
 

@@ -87,25 +87,25 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) | 8 / (-1) |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不能被魔法[沉睡](Sleeping_(Condition).md)。
 
 - [**永恒债务**](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
-死亡时，爆炸成[火球术术](Fireball.md "火球术术")，然后转生为受[拉斐尔](Raphael.md "拉斐尔")束缚的邪魔生物。
+死亡时，爆炸成[火球术](Fireball.md "火球术")，然后转生为受[拉斐尔](Raphael.md "拉斐尔")束缚的邪魔生物。
 
 ## 探索者难度属性
 
@@ -149,25 +149,25 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 0 | 0 | 0 | -1 | -1 | -1 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不能被魔法[沉睡](Sleeping_(Condition).md)。
 
 - [**永恒债务**](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
-死亡时，爆炸成[火球术术](Fireball.md "火球术术")，然后转生为受[拉斐尔](Raphael.md "拉斐尔")束缚的邪魔生物。
+死亡时，爆炸成[火球术](Fireball.md "火球术")，然后转生为受[拉斐尔](Raphael.md "拉斐尔")束缚的邪魔生物。
 
 ## 硬核难度属性
 
@@ -211,25 +211,25 @@
 | --- | --- | --- | --- |
 |  | 0 | 0 | -1 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不能被魔法[沉睡](Sleeping_(Condition).md)。
 
 - [**永恒债务**](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
-死亡时，爆炸成[火球术术](Fireball.md "火球术术")，然后转生为受[拉斐尔](Raphael.md "拉斐尔")束缚的邪魔生物。
+死亡时，爆炸成[火球术](Fireball.md "火球术")，然后转生为受[拉斐尔](Raphael.md "拉斐尔")束缚的邪魔生物。
 
 ## 技术
 
@@ -257,10 +257,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
 
 ## 出场
 
@@ -280,7 +280,7 @@ UUID
 
 死亡时爆炸并转生为另一个邪魔生物——债务必须偿还，即使在死亡中。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 范围: 3 米 (10 英尺)
 
 ---

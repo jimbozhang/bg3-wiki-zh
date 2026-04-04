@@ -12,7 +12,7 @@
 
 持续时间：1 驱散
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
 
 - 无法进行 [反应](Reaction.md "反应")，且在使用 [敏捷](Dexterity.md "敏捷") 的 [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throws.md "豁免检定") 时具有 [劣势](Disadvantage.md "劣势")。
 

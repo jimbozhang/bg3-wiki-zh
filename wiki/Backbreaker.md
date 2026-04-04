@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：1~4 + 调整值
 
-1d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[钝击](Bludgeoning.md "钝击")
+1d4 + [灵巧](Finesse.md "灵巧")⁠[钝击](Bludgeoning.md "钝击")
 
 详情
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
@@ -47,7 +47,7 @@ UID
 
 ## 如何习得
 
-通过[熟练](Proficiency.md "熟练")使用以下武器类型获得：
+通过[熟练项](Proficiency.md "熟练项")使用以下武器类型获得：
 
 - [巨锤](Mauls.md "巨锤")
 - [战锤](Warhammers.md "战锤")

@@ -4,7 +4,7 @@
 
 ## 描述
 
-你获得一个额外的[预兆骰子](Portent.md "预兆骰子")。进行[短休](Short_rest.md "短休")时，你会收到一组[预言](Prophecy.md "预言")。完成它们以恢复缺失的预兆骰子。
+你获得一个额外的[预兆](Portent.md "预兆")。进行[短休](Short_rest.md "短休")时，你会收到一组[预言](Prophecy.md "预言")。完成它们以恢复缺失的预兆骰子。
 
 ## 如何习得
 
@@ -49,7 +49,7 @@
 
 - [预言：施舍](Prophecy_colon__Delivering_Alms_(Condition).md "预言：施舍（状态）")永远无法完成，因为它引用了一个游戏中不存在的被动特性。
 - 预言法师每个数值只能拥有一个骰子，但游戏仅确保长休后获得的预兆骰子具有唯一值。这意味着完成一个**预言**（在休息之外达成）可能不会产生额外的骰子，如果法师已经拥有相同数值的骰子。例如，拥有 2 个预兆骰子的法师有 10% 的几率不会获得新骰子，而拥有单个骰子的法师有 5% 的几率。
-- 在非回合制模式下施放区域法术，可能导致由造成某些类型伤害触发的预言多次激活，从而产生多个新的预兆骰子，通常会超过 3 个的限制。示例：在加入战斗前，使用[闪电充能](Lightning_Charges_(Condition).md "闪电充能")施放[火球术术](Fireball.md "火球术术")攻击 5 个敌人，同时满足[预言：阅后即焚](Prophecy_colon__Burn_After_Reading_(Condition).md "预言：阅后即焚（状态）")和[预言：惊人启示](Prophecy_colon__Shocking_Revelation_(Condition).md "预言：惊人启示（状态）")，将导致预言法师最多获得 10 个新的预兆骰子，因为两个预言都会对每个敌人触发一次。
+- 在非回合制模式下施放区域法术，可能导致由造成某些类型伤害触发的预言多次激活，从而产生多个新的预兆骰子，通常会超过 3 个的限制。示例：在加入战斗前，使用[闪电充能](Lightning_Charges_(Condition).md "闪电充能")施放[火球术](Fireball.md "火球术")攻击 5 个敌人，同时满足[预言：阅后即焚](Prophecy_colon__Burn_After_Reading_(Condition).md "预言：阅后即焚（状态）")和[预言：惊人启示](Prophecy_colon__Shocking_Revelation_(Condition).md "预言：惊人启示（状态）")，将导致预言法师最多获得 10 个新的预兆骰子，因为两个预言都会对每个敌人触发一次。
 
 ---
 *Source: [Expert Divination](https://bg3.wiki/wiki/Expert_Divination)*

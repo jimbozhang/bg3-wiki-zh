@@ -12,19 +12,19 @@
 
 ## 目录
 
-- [1 模板名称](#template-names)
-  - [1.1 模板页面名称](#template-page-names)
-    - [1.1.1 例外](#exceptions)
-  - [1.2 快捷方式](#shortcuts)
-- [2 模板创建指南](#template-creation-guidelines)
-  - [2.1 需要考虑的事项](#what-to-keep-in-mind)
-  - [2.2 重要注意事项](#important-considerations)
-  - [2.3 格式](#formatting)
-- [3 模板文档](#template-documentation)
-  - [3.1 如何包含文档](#how-to-include-documentation)
-  - [3.2 编写模板数据](#writing-template-data)
-- [4 Cargo 数据库](#cargo-database)
-- [5 附加资源](#additional-resources)
+- [1 模板名称](#模板名称)
+  - [1.1 模板页面名称](#模板页面名称)
+    - [1.1.1 例外](#例外)
+  - [1.2 快捷方式](#快捷方式)
+- [2 模板创建指南](#模板创建指南)
+  - [2.1 需要考虑的事项](#需要考虑的事项)
+  - [2.2 重要注意事项](#重要注意事项)
+  - [2.3 格式](#格式)
+- [3 模板文档](#模板文档)
+  - [3.1 如何包含文档](#如何包含文档)
+  - [3.2 编写模板数据](#编写模板数据)
+- [4 Cargo 数据库](#Cargo-数据库)
+- [5 附加资源](#附加资源)
 
 ## 模板名称
 

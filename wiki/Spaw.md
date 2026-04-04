@@ -86,7 +86,7 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -94,15 +94,15 @@
 
 可对处于[昏沉](Befuddled_(Condition).md) 或受[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md) 或[加速孢子](Haste_Spores_(Condition).md) 影响的目标进行[多重攻击](Multiattack_(Spaw).md "多重攻击 (斯伯)")。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用运动的属性检定和豁免检定上具有优势。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -152,7 +152,7 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -160,15 +160,15 @@
 
 可对处于[昏沉](Befuddled_(Condition).md) 或受[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md) 或[加速孢子](Haste_Spores_(Condition).md) 影响的目标进行[多重攻击](Multiattack_(Spaw).md "多重攻击 (斯伯)")。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用运动的属性检定和豁免检定上具有优势。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -218,7 +218,7 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -226,15 +226,15 @@
 
 可对处于[昏沉](Befuddled_(Condition).md) 或受[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md) 或[加速孢子](Haste_Spores_(Condition).md) 影响的目标进行[多重攻击](Multiattack_(Spaw).md "多重攻击 (斯伯)")。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用运动的属性检定和豁免检定上具有优势。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -264,17 +264,17 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 格拉特](#glut)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 图库](#gallery)
-- [6 注释](#notes)
-- [7 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 格拉特](#格拉特)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 图库](#图库)
+- [6 注释](#注释)
+- [7 外部链接](#外部链接)
 
 ## 概述
 
@@ -319,7 +319,7 @@ UUID
 
 当他们在黑檀湖洞穴面对面时，斯伯要求队伍消灭威胁其聚落的灰矮人。
 
-如果队伍消灭了灰矮人，或者一个[吟游诗人](Bard.md "吟游诗人")说服斯伯相信他们已经死了（DC 20 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定")），斯伯会进一步要求[尼讷](Nere.md "尼讷")的头，以终结[绝对者](Absolute.md "绝对者")在[幽暗地域](Underdark.md "幽暗地域")的推进。如果队伍完成这个任务，斯伯会将死去的卓尔头颅变成一个[绽开的卓尔头颅](Blooming_Drow_Head.md "绽开的卓尔头颅")，并跳一小段舞庆祝。
+如果队伍消灭了灰矮人，或者一个[吟游诗人](Bard.md "吟游诗人")说服斯伯相信他们已经死了（DC 20 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定")），斯伯会进一步要求[尼讷](Nere.md "尼讷")的头，以终结[绝对者](Absolute.md "绝对者")在[幽暗地域](Underdark.md "幽暗地域")的推进。如果队伍完成这个任务，斯伯会将死去的卓尔头颅变成一个[绽开的卓尔头颅](Blooming_Drow_Head.md "绽开的卓尔头颅")，并跳一小段舞庆祝。
 
 ### 格拉特
 

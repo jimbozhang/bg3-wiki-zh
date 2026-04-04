@@ -19,17 +19,17 @@ Modding guides
 
 ## 目录
 
-- [1 尺寸](#dimensions)
-  - [1.1 提示图标](#tooltip-icon)
-  - [1.2 控制器图标](#controller-icon)
-  - [1.3 图标图集](#icon-atlas)
-- [2 图标文件夹结构](#folder-structure-of-icons)
-- [3 \_merged.lsf的示例代码](#sample-code-for-merged.lsf)
-- [4 Icons_Items的示例代码](#sample-code-for-icons-items)
-- [5 创建图标的工具](#tools-to-create-icons)
-- [6 创建图标的基本图像编辑指南](#basic-image-editing-guide-to-create-icons)
-  - [6.1 创建法术图标](#creating-spell-icons)
-- [7 压缩](#compression)
+- [1 尺寸](#尺寸)
+  - [1.1 提示图标](#提示图标)
+  - [1.2 控制器图标](#控制器图标)
+  - [1.3 图标图集](#图标图集)
+- [2 图标文件夹结构](#图标文件夹结构)
+- [3 \_merged.lsf的示例代码](#\_merged.lsf的示例代码)
+- [4 Icons_Items的示例代码](#Icons_Items的示例代码)
+- [5 创建图标的工具](#创建图标的工具)
+- [6 创建图标的基本图像编辑指南](#创建图标的基本图像编辑指南)
+  - [6.1 创建法术图标](#创建法术图标)
+- [7 压缩](#压缩)
 
 ## 尺寸
 

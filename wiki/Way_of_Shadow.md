@@ -21,7 +21,7 @@
 通过成功进行[隐匿](Stealth.md "隐匿")[检定](Ability_checks.md "检定")来躲避敌人。紧贴黑暗并避开敌人的视线。攻击或施放法术会暴露你的位置。
 
 [暗影技艺：行动无踪](Shadow_Arts_colon__Pass_Without_Trace.md "暗影技艺：行动无踪") (+ 2 )
-召唤一道阴影与寂静的帷幕，为你和附近盟友提供+10的[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "检定")加值。
+召唤一道阴影与寂静的帷幕，为你和附近盟友提供+10的[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")加值。
 
 [暗影技艺：黑暗术](Shadow_Arts_colon__Darkness.md "暗影技艺：黑暗术") (+ 2 )
 创造一团魔法黑暗，对范围内的生物造成[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")和[目盲](Blinded_(Condition).md "目盲（状态）")效果。生物无法向内或向外进行远程攻击。
@@ -40,7 +40,7 @@
 ### 等级 6
 
 [暗影步](Shadow_Step.md "暗影步") ()
-从一处[阴影](Lightly_Obscured.md "轻度遮蔽")传送至另一处阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+从一处[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送至另一处阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 ### 等级 11
 

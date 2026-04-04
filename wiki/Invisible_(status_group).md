@@ -29,7 +29,7 @@
 |
 
 - 实体在 [攻击掷骰](Attack_roll.md "攻击掷骰") 上拥有 [优势](Advantage.md "优势")。对其的攻击掷骰具有 [劣势](Disadvantage.md "劣势")。
-- 当与物品交互、施放法术或攻击时，实体需要成功通过 [隐匿](Stealth.md "隐匿") [检定](Ability_Check.md "属性检定") 以维持隐形。每次成功尝试后，检定难度会增加。
+- 当与物品交互、施放法术或攻击时，实体需要成功通过 [隐匿](Stealth.md "隐匿") [属性检定](Ability_Check.md "属性检定") 以维持隐形。每次成功尝试后，检定难度会增加。
 
 [环境融合](Hide_in_Plain_Sight_(Condition).md "环境融合 (状态)")
 |

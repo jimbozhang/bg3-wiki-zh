@@ -19,7 +19,7 @@
 | AbortOnSecondarySpellRollFail | 此标志专用于可以投掷另一个目标的动作，如[投掷](Throw.md "Throw")或[心灵遥控](Telekinesis.md "Telekinesis")。它决定了在ThrowableSpellRoll（通常是一个[对抗](Contests.md "Contests")的[运动](Athletics.md "Athletics")检定）失败后，动作是否继续。大多数投掷类动作都有此标志，但有些没有，例如[愤怒投掷](Enraged_Throw.md "Enraged Throw")。没有此标志，生物即使赢得对抗技能检定也无法避免被投掷。 |
 | AbortOnSpellRollFail |  |
 | AddFallDamageOnLand | 对于推动或移动的动作，目标在适用时会遭受[坠落伤害](Falling_damage.md "Falling damage")。 |
-| AllowMoveAndCast | 使用此动作不会中断排队的移动。这仅由[隐藏](Hide.md "Hide")及相关动作使用，允许玩家在移动时隐藏。 |
+| AllowMoveAndCast | 使用此动作不会中断排队的移动。这仅由[躲藏](Hide.md "躲藏")及相关动作使用，允许玩家在移动时隐藏。 |
 | CallAlliesSpell |  |
 | CanAreaDamageEvade | 造成区域伤害的动作，可受[反射闪避](Evasion.md "Evasion")影响。 |
 | CanDualWield |  |

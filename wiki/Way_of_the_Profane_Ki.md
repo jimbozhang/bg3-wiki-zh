@@ -65,7 +65,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 22 / (+6) | 16 / (+3) | 10 / (0) | 18 / (+4) | 8 / (-1) |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -73,7 +73,7 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "Advanced Unarmoured Movement")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 [劣势地形](Difficult_Terrain_(Condition).md) 不会减慢你的速度，并且当你未穿戴[护甲](Armour.md "Armour")或使用[盾牌](Shields.md "Shields")时，你可以额外[跳跃](Jump.md "Jump") 6 米 / 20 英尺。
 
@@ -81,15 +81,15 @@
 
 使用你的[反应](Reaction.md "Reaction")将来自[远程武器攻击](Ranged_Weapon_Attack.md "Ranged Weapon Attack")的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "Modifier") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "Ki-Empowered Strikes")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击被视为魔法攻击，以克服敌人对非魔法伤害的抗性和免疫。
 
@@ -105,15 +105,15 @@
 
 使用[武僧武器](Monk.md#Monk_weapons "Monk")和徒手攻击时，如果你的敏捷更高，则按你的敏捷而非力量来计算伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**百病不侵**](Purity_of_Body.md "Purity of Body")
+- [百病不侵](Purity_of_Body.md "百病不侵")
 
 你[免疫](Immune.md "Immune")中毒伤害，并且由于净化真气流经你的经络，你不会中毒或受疾病影响。
 
-- [**轻身坠**](Slow_Fall.md "Slow Fall")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，你可以使用你的[反应](Reaction.md "Reaction")获得对[坠落伤害](Falling_damage.md "Falling damage")的[抗性](Resistance.md "Resistance")。
 
@@ -125,7 +125,7 @@
 
 你的反射如同任何[护甲](Armour.md "Armour")一样有效。当你未穿戴护甲时，你将你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "Wisdom")加到你的[护甲等级](Armour_Class.md "Armour Class")上。
 
-- [**无甲移动**](Unarmoured_Movement.md "Unarmoured Movement")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿戴护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 
@@ -163,7 +163,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +7 | +10 | +3 | 0 | +4 | -1 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -171,7 +171,7 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "Advanced Unarmoured Movement")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 [劣势地形](Difficult_Terrain_(Condition).md) 不会减慢你的速度，并且当你未穿戴[护甲](Armour.md "Armour")或使用[盾牌](Shields.md "Shields")时，你可以额外[跳跃](Jump.md "Jump") 6 米 / 20 英尺。
 
@@ -179,15 +179,15 @@
 
 使用你的[反应](Reaction.md "Reaction")将来自[远程武器攻击](Ranged_Weapon_Attack.md "Ranged Weapon Attack")的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "Modifier") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "Ki-Empowered Strikes")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击被视为魔法攻击，以克服敌人对非魔法伤害的抗性和免疫。
 
@@ -203,15 +203,15 @@
 
 使用[武僧武器](Monk.md#Monk_weapons "Monk")和徒手攻击时，如果你的敏捷更高，则按你的敏捷而非力量来计算伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**百病不侵**](Purity_of_Body.md "Purity of Body")
+- [百病不侵](Purity_of_Body.md "百病不侵")
 
 你[免疫](Immune.md "Immune")中毒伤害，并且由于净化真气流经你的经络，你不会中毒或受疾病影响。
 
-- [**轻身坠**](Slow_Fall.md "Slow Fall")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，你可以使用你的[反应](Reaction.md "Reaction")获得对[坠落伤害](Falling_damage.md "Falling damage")的[抗性](Resistance.md "Resistance")。
 
@@ -223,7 +223,7 @@
 
 你的反射如同任何[护甲](Armour.md "Armour")一样有效。当你未穿戴护甲时，你将你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "Wisdom")加到你的[护甲等级](Armour_Class.md "Armour Class")上。
 
-- [**无甲移动**](Unarmoured_Movement.md "Unarmoured Movement")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿戴护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 
@@ -261,7 +261,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 22 / (+6) | 16 / (+3) | 10 / (0) | 18 / (+4) | 8 / (-1) |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -269,7 +269,7 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "Advanced Unarmoured Movement")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 [劣势地形](Difficult_Terrain_(Condition).md) 不会减慢你的速度，并且当你未穿戴[护甲](Armour.md "Armour")或使用[盾牌](Shields.md "Shields")时，你可以额外[跳跃](Jump.md "Jump") 6 米 / 20 英尺。
 
@@ -277,15 +277,15 @@
 
 使用你的[反应](Reaction.md "Reaction")将来自[远程武器攻击](Ranged_Weapon_Attack.md "Ranged Weapon Attack")的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "Modifier") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "Ki-Empowered Strikes")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击被视为魔法攻击，以克服敌人对非魔法伤害的抗性和免疫。
 
@@ -301,15 +301,15 @@
 
 使用[武僧武器](Monk.md#Monk_weapons "Monk")和徒手攻击时，如果你的敏捷更高，则按你的敏捷而非力量来计算伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**百病不侵**](Purity_of_Body.md "Purity of Body")
+- [百病不侵](Purity_of_Body.md "百病不侵")
 
 你[免疫](Immune.md "Immune")中毒伤害，并且由于净化真气流经你的经络，你不会中毒或受疾病影响。
 
-- [**轻身坠**](Slow_Fall.md "Slow Fall")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，你可以使用你的[反应](Reaction.md "Reaction")获得对[坠落伤害](Falling_damage.md "Falling damage")的[抗性](Resistance.md "Resistance")。
 
@@ -321,7 +321,7 @@
 
 你的反射如同任何[护甲](Armour.md "Armour")一样有效。当你未穿戴护甲时，你将你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "Wisdom")加到你的[护甲等级](Armour_Class.md "Armour Class")上。
 
-- [**无甲移动**](Unarmoured_Movement.md "Unarmoured Movement")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿戴护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 
@@ -329,10 +329,10 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
 
 ## 参与
 

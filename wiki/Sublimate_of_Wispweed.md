@@ -1,6 +1,6 @@
 # 湿地发蓬升华物
 
-**湿地发蓬升华物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以创造[光荣一跃药水](Potion_of_Glorious_Vaulting.md "光荣一跃药水")。
+**湿地发蓬升华物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以创造[光荣一跃药水](Potion_of_Glorious_Vaulting.md "光荣一跃药水")。
 
 让这些发丝湿润，你几乎能听到那失恋的啜泣声。
 

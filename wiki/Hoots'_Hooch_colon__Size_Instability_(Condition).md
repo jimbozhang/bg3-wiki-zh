@@ -13,7 +13,7 @@
 持续时间：1回合
 
 - [体型](Creature_size.md "生物体型")增大。
-- 武器攻击造成额外**1d4**伤害。在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+- 武器攻击造成额外**1d4**伤害。在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
 ## 状态：缩小
 
@@ -22,7 +22,7 @@
 持续时间：1回合
 
 - [体型](Creature_size.md "生物体型")减小。
-- 武器攻击伤害减少**1d4**。在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 武器攻击伤害减少**1d4**。在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - [负重](Carrying_capacity.md "负重")减少25%
 
 ## 霍慈的烈酒：体型不稳的来源

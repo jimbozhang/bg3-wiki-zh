@@ -1,6 +1,6 @@
 # 黑根菌囊
 
-**黑根菌囊**是一种[炼金术材料](Alchemy.md "炼金术")。将3个黑根菌囊组合可制成[黑根菌粘液](Vitriol_of_Shadowroot_Sac.md "黑根菌粘液")，用于制作[邪恶灵药](Elixir_of_Viciousness.md "邪恶灵药")。
+**黑根菌囊**是一种[炼金术](Alchemy.md "炼金术")。将3个黑根菌囊组合可制成[黑根菌粘液](Vitriol_of_Shadowroot_Sac.md "黑根菌粘液")，用于制作[邪恶灵药](Elixir_of_Viciousness.md "邪恶灵药")。
 
 从微微发光的蘑菇上采集的小囊。气味极其难闻。
 

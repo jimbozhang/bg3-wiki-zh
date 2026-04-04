@@ -83,7 +83,7 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -91,11 +91,11 @@
 
 近战范围内的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -145,7 +145,7 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -153,11 +153,11 @@
 
 近战范围内的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -207,7 +207,7 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -215,11 +215,11 @@
 
 近战范围内的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -241,17 +241,17 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与情况](#参与情况)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与情况
 
 拳头**哈瓦德**与[拳头英格拉姆](Ingram.md "拳头英格拉姆")一起在利文顿的街道上巡逻。他们的路线在[利文顿综合商店](Rivington_General.md "利文顿综合商店")和[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")之间绕一个大圈，经过以下地点：
 
 - X: 1 Y: -107（开始第三幕时难民营的入口）
-- X: -42 Y: -105（[莎尔教徒瞭望点](Ferg_Drogher.md "弗格·德罗戈")）
+- X: -42 Y: -105（[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")）
 - X: 58 Y: -58（十字路口）
 - X: 62 Y: -10（[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")）
 - X: 33 Y: -3（[剑湾快递](Sword_Coast_Couriers.md "剑湾快递")犬舍的背面）

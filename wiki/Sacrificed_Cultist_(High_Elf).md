@@ -72,15 +72,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -130,11 +130,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -184,15 +184,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -214,11 +214,11 @@ Stats
 
 ## 内容
 
-- [1 出场](#involvement)
-  - [1.1 序幕](#prologue)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 图库](#gallery)
+- [1 出场](#出场)
+  - [1.1 序幕](#序幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 图库](#图库)
 
 ## 出场
 
@@ -228,7 +228,7 @@ Stats
 
 如果玩家角色是[邪念](The_Dark_Urge.md "邪念")，旁白会补充道：“一个转瞬即逝的画面掠过你的脑海……一张未清洗的手术台……你体内的内脏。头痛加剧了。”
 
-附近有一个带有3个按钮的面板。通过DC 15的[奥秘](Arcana.md "奥秘")[检定](Ability_Check.md "属性检定")可以揭示每个按钮上方的符文。从左到右，符文分别是：释放、侵略和湮灭。释放会导致灵能能量从献祭的高精灵和人类身上散发出来。侵略会导致教徒攻击队伍，引发战斗。湮灭会立即杀死他们。
+附近有一个带有3个按钮的面板。通过DC 15的[奥秘](Arcana.md "奥秘")[属性检定](Ability_Check.md "属性检定")可以揭示每个按钮上方的符文。从左到右，符文分别是：释放、侵略和湮灭。释放会导致灵能能量从献祭的高精灵和人类身上散发出来。侵略会导致教徒攻击队伍，引发战斗。湮灭会立即杀死他们。
 
 ## 战斗
 

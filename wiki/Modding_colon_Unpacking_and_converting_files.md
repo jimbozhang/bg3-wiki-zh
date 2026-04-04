@@ -11,18 +11,18 @@
 
 ## 目录
 
-- [1 必要工具](#necessary-tools)
-- [2 解包过程](#unpacking-process)
-  - [2.1 索引](#indexing)
-    - [2.1.1 索引搜索解包](#index-search-unpacking)
-  - [2.2 手动解包](#manually-unpacking)
-- [3 文件转换](#files-conversion)
-  - [3.1 .lsf → .lsx](#.lsf_%E2%86%92_.lsx)
-  - [3.2 .gr2 → .dae](#.gr2_%E2%86%92_.dae)
+- [1 必要工具](#必要工具)
+- [2 解包过程](#解包过程)
+  - [2.1 索引](#索引)
+    - [2.1.1 索引搜索解包](#索引搜索解包)
+  - [2.2 手动解包](#手动解包)
+- [3 文件转换](#文件转换)
+  - [3.1 .lsf → .lsx](#.lsf-→-.lsx)
+  - [3.2 .gr2 → .dae](#.gr2-→-.dae)
   - [3.3 .dds](#.dds)
-  - [3.4 .gts → .dds](#.gts_%E2%86%92_.dds)
-  - [3.5 .wem → .ogg](#.wem_%E2%86%92_.ogg)
-  - [3.6 .loca → .xml](#.loca_%E2%86%92_.xml)
+  - [3.4 .gts → .dds](#.gts-→-.dds)
+  - [3.5 .wem → .ogg](#.wem-→-.ogg)
+  - [3.6 .loca → .xml](#.loca-→-.xml)
 
 ## 必要工具
 

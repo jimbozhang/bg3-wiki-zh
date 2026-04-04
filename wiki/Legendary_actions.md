@@ -4,16 +4,16 @@
 
 **传奇动作**是部分角色在 [荣誉模式](Honour_Mode.md "荣誉模式") 下可用的一种 [资源](Resource.md "资源")。拥有传奇动作的角色会关联一个被动技能和一个状态——当该状态激活时，角色可以使用其传奇动作。每轮一次，[[注释 1]](#cite_note-1) 角色可以使用其传奇动作，通常是作为对受到伤害的反应。传奇动作在新轮开始时恢复。
 
-在 [硬核模式](Tactician.md "硬核模式") 下，[龙类](Dragons.md "龙类") 也将拥有可用的传奇动作。
+在 [硬核](Tactician.md "硬核") 下，[龙类](Dragons.md "龙类") 也将拥有可用的传奇动作。
 
 ## 目录
 
-- [1 传奇动作列表](#list-of-legendary-actions)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第二幕](#act-two)
-  - [1.3 第三幕](#act-three)
-- [2 龙类](#dragons)
-- [3 注释](#notes)
+- [1 传奇动作列表](#传奇动作列表)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第二幕](#第二幕)
+  - [1.3 第三幕](#第三幕)
+- [2 龙类](#龙类)
+- [3 注释](#注释)
 
 ## 传奇动作列表
 
@@ -54,13 +54,13 @@
 |
 
 [传奇动作：死亡荒芜](Legendary_Action_colon__The_Dead_Wastes.md "传奇动作：死亡荒芜")
-每轮一次，当一个生物死亡时，巴萨扎尔可以使用他的传奇动作，在其死亡地点制造一片黯蚀瘴气，使不死生物每轮开始时恢复 4d6⁠⁠[生命值](Healing.md "治疗")，并对活物造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
+每轮一次，当一个生物死亡时，巴萨扎尔可以使用他的传奇动作，在其死亡地点制造一片黯蚀瘴气，使不死生物每轮开始时恢复 4d6⁠⁠[治疗](Healing.md "治疗")，并对活物造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
 [传奇动作：幽灵形态](Legendary_Action_colon__Spectral_Aspect.md "传奇动作：幽灵形态")
 | 角色 | 动作 |
 | --- | --- |
 | [米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒") | [传奇动作：死亡凝视](Legendary_Action_colon__Gaze_of_the_Dead.md "传奇动作：死亡凝视")每轮一次，米尔寇的使徒可以消耗一个传奇动作，在被攻击时对一个生物施放 [死亡凝视](Gaze_of_the_Dead.md "死亡凝视")。 |
-| [巴萨扎尔](Balthazar.md "巴萨扎尔") | [传奇动作：死亡荒芜](Legendary_Action_colon__The_Dead_Wastes.md "传奇动作：死亡荒芜")每轮一次，当一个生物死亡时，巴萨扎尔可以使用他的传奇动作，在其死亡地点制造一片黯蚀瘴气，使不死生物每轮开始时恢复 4d6⁠⁠[生命值](Healing.md "治疗")，并对活物造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。 |
+| [巴萨扎尔](Balthazar.md "巴萨扎尔") | [传奇动作：死亡荒芜](Legendary_Action_colon__The_Dead_Wastes.md "传奇动作：死亡荒芜")每轮一次，当一个生物死亡时，巴萨扎尔可以使用他的传奇动作，在其死亡地点制造一片黯蚀瘴气，使不死生物每轮开始时恢复 4d6⁠⁠[治疗](Healing.md "治疗")，并对活物造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。 |
 | [传奇动作：幽灵形态](Legendary_Action_colon__Spectral_Aspect.md "传奇动作：幽灵形态")每轮一次，巴萨扎尔可以消耗一个传奇动作，在被击中后化为 [幽灵形态](Spectral_Aspect_(Condition).md "幽灵形态（状态）")。 |  |
 | [格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆") | [传奇动作：升华](Legendary_Action_colon__Sublimation.md "传奇动作：升华")每轮一次，如果她失去一件护甲，格灵哥斯·索姆可以消耗一个传奇动作，尝试将她的敌人变成黄金，使其 [失能](Incapacitated.md "失能") 4 轮。 |
 | [卡'尼斯](Kar'niss.md "卡'尼斯") | [传奇动作：狂热报偿](Legendary_Action_colon__Fanatic_Retaliation.md "传奇动作：狂热报偿")每轮一次，当一个 [纺丝狂热者](Spindleweb_Fanatic_(Condition).md "纺丝狂热者（状态）") 被杀死时，卡'尼斯可以使用一个传奇动作，可能对攻击者造成 6d10⁠⁠[心灵](Psychic.md "心灵") 伤害并使其 [沉默](Silenced_(Condition).md "沉默（状态）")。 |
@@ -93,7 +93,7 @@
 
 ## 龙类
 
-所有其他传奇动作均为荣誉模式独占，但 [龙类](Dragons.md "龙类") 在 [硬核模式](Tactician.md "硬核模式") 下将拥有可用的传奇动作。作为传奇动作，龙类可以对其被攻击做出反应，使用其吐息武器：
+所有其他传奇动作均为荣誉模式独占，但 [龙类](Dragons.md "龙类") 在 [硬核](Tactician.md "硬核") 下将拥有可用的传奇动作。作为传奇动作，龙类可以对其被攻击做出反应，使用其吐息武器：
 
 [传奇动作：龙之怒火](Legendary_Action_colon__Draconic_Wrath.md "传奇动作：龙之怒火")
 龙类可以每轮一次用其吐息武器反击攻击者。

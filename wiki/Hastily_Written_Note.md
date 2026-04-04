@@ -1,6 +1,6 @@
 # 匆忙写下的字条
 
-这是一个消歧义页面，它链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Hastily_Written_Note.md "Special:WhatLinksHere/Hastily Written Note")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，它链接到名称模糊的文章。如果您是通过文章中的链接[匆忙写下的字条](Special_colon_WhatLinksHere/Hastily_Written_Note.md "匆忙写下的字条")的，请考虑编辑该链接，将其指向正确的页面。
 
 **匆忙写下的字条**可以指：
 

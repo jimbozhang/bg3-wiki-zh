@@ -1,6 +1,6 @@
 # 正义明晰
 
-**正义明晰**是[王冠誓言](Oath_of_the_Crown.md "王冠誓言")圣武士可用的[引导誓言](Channel_Oath_Charge.md "引导誓言充能")动作，它使圣武士或一名盟友获得等于其[熟练项加值](Proficiency_Bonus.md "熟练项加值")的[攻击掷骰](Attack_rolls.md "攻击掷骰")加值。
+**正义明晰**是[王冠誓言](Oath_of_the_Crown.md "王冠誓言")圣武士可用的[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")动作，它使圣武士或一名盟友获得等于其[熟练项加值](Proficiency_Bonus.md "熟练项加值")的[攻击掷骰](Attack_rolls.md "攻击掷骰")加值。
 
 ## 描述
 

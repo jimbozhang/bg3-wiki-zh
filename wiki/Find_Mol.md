@@ -4,12 +4,12 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 摩尔被绑架](#mol's-kidnapping)
-  - [2.2 博德之门](#baldur's-gate)
-  - [2.3 希望之邸](#the-house-of-hope)
-- [3 任务奖励](#quest-rewards)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 摩尔被绑架](#摩尔被绑架)
+  - [2.2 博德之门](#博德之门)
+  - [2.3 希望之邸](#希望之邸)
+- [3 任务奖励](#任务奖励)
 
 ## 目标
 
@@ -62,7 +62,7 @@
 
 摩尔可以在[第三幕](Act_Three.md "Act Three")的[下城区](Lower_City.md "Lower City")找到。她正在[公会大厅](Guildhall.md "Guildhall")为“拾取者”工作。
 
-有几条路径可以到达公会大厅。最快的路线是使用石化蜥蜴之门传送点北边小巷中的井盖 X: 127 Y: -30，并砸开西墙 X: 38 Y: 784。沿着小路向西走，会有一扇通往公会大厅的上锁门。撬锁（DC 20 [巧手](Sleight_of_Hand.md "Sleight of Hand") [检定](Ability_Check.md "Ability check")）即可进入。地面上，有一条小巷 X: 57 Y: -101，由[图斯格朗特](Tusgront.md "Tusgront")和几名其他[公会](Guild.md "Guild")成员把守。如果已开始[协助地下势力](Aid_the_Underduke.md "Aid the Underduke")并且队伍在[利文顿](Rivington.md "Rivington")帮助了[法尔林](Farlin.md "Farlin")，他们会立即被认出是公会的盟友并获准进入。如果[贾希拉](Jaheira.md "Jaheira")在队伍中，选择“小心点，你正在和高阶竖琴手贾希拉说话”可以无需任何检定就顺利通过。否则，需要通过欺瞒、威吓或游说检定才能通过。
+有几条路径可以到达公会大厅。最快的路线是使用石化蜥蜴之门传送点北边小巷中的井盖 X: 127 Y: -30，并砸开西墙 X: 38 Y: 784。沿着小路向西走，会有一扇通往公会大厅的上锁门。撬锁（DC 20 [巧手](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定")）即可进入。地面上，有一条小巷 X: 57 Y: -101，由[图斯格朗特](Tusgront.md "Tusgront")和几名其他[公会](Guild.md "Guild")成员把守。如果已开始[协助地下势力](Aid_the_Underduke.md "Aid the Underduke")并且队伍在[利文顿](Rivington.md "Rivington")帮助了[法尔林](Farlin.md "Farlin")，他们会立即被认出是公会的盟友并获准进入。如果[贾希拉](Jaheira.md "Jaheira")在队伍中，选择“小心点，你正在和高阶竖琴手贾希拉说话”可以无需任何检定就顺利通过。否则，需要通过欺瞒、威吓或游说检定才能通过。
 
 队伍可以问她如何逃离月出之塔，但她拒绝详述。她只是说，如果她能在地狱中幸存下来，她就能在任何地方幸存下来，仅此而已。队伍可以询问她未来的计划，她说她计划一步步往上爬，最终有一天接管公会。目前，如果队伍想交易，她会介绍他们去找[黏糊糊的东多](Sticky_Dondo.md "Sticky Dondo")。此外，[摩尔的眼罩](Mol's_Eyepatch.md "Mol's Eyepatch")可以在这里归还给她。
 
@@ -72,7 +72,7 @@
 
 如果队伍承担[对付魔鬼](Deal_with_the_Devil.md "Deal with the Devil")并决定[撕毁协议](Escape_the_Deal.md "Escape the Deal")或偷取[俄耳甫斯之锤](Orphic_Hammer.md "Orphic Hammer")，他们可以找到摩尔的地狱契约。
 
-契约位于[希望之邸](House_of_Hope.md "House of Hope")，锁在一个房间里，房间里有一颗[惰性地狱宝石](Infernal_gem.md "Inert Infernal Gem") X: -6481 Y: 2944。与宝石互动需要通过 DC 10 [感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "Ability check") 和 DC 20 [奥秘](Arcana.md "Arcana") [检定](Ability_Check.md "Ability check") 才能打开。如果将契约交给摩尔，她会印象深刻并感谢队伍。可以通过 DC 15 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check") 说服她利用她的新能力帮助队伍。如果队伍杀死了[拉斐尔](Raphael.md "Raphael")并告知她此事，她会生气地说，无论有没有契约，她都会接管[公会](Guild.md "Guild")，但她的公会将不会善待队伍。
+契约位于[希望之邸](House_of_Hope.md "House of Hope")，锁在一个房间里，房间里有一颗[惰性地狱宝石](Infernal_gem.md "Inert Infernal Gem") X: -6481 Y: 2944。与宝石互动需要通过 DC 10 [感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定") 和 DC 20 [奥秘](Arcana.md "Arcana") [属性检定](Ability_Check.md "属性检定") 才能打开。如果将契约交给摩尔，她会印象深刻并感谢队伍。可以通过 DC 15 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定") 说服她利用她的新能力帮助队伍。如果队伍杀死了[拉斐尔](Raphael.md "Raphael")并告知她此事，她会生气地说，无论有没有契约，她都会接管[公会](Guild.md "Guild")，但她的公会将不会善待队伍。
 
 ## 任务奖励
 

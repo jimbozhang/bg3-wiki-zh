@@ -21,7 +21,7 @@
 - [繁彩球：火焰](Chromatic_Orb_colon__Fire.md "繁彩球：火焰")
 - [火焰箭](Fire_Bolt.md "火焰箭")
 - [火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖")
-- [火球术术](Fireball.md "火球术术")
+- [火球术](Fireball.md "火球术")
 - [火焰箭？](Firebolt_q_.md "火焰箭？")
 - [焰击术](Flame_Strike.md "焰击术")
 - [炽焰法球](Flaming_Sphere.md "炽焰法球")

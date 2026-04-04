@@ -65,15 +65,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -117,15 +117,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -169,15 +169,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -209,18 +209,18 @@
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 仅限硬核](#tactician-only)
-  - [2.3 战利品](#loot)
-- [3 已知的灾祸之拳](#known-fists-of-bane)
-  - [3.1 博德之口](#baldur's-mouth)
-  - [3.2 费洛杰尔烟花铺](#felogyr's-fireworks)
-  - [3.3 钢铁卫士铸造厂](#steel-watch-foundry)
-  - [3.4 钢铁王座](#iron-throne)
-- [4 注释](#notes)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 仅限硬核](#仅限硬核)
+  - [2.3 战利品](#战利品)
+- [3 已知的灾祸之拳](#已知的灾祸之拳)
+  - [3.1 博德之口](#博德之口)
+  - [3.2 费洛杰尔烟花铺](#费洛杰尔烟花铺)
+  - [3.3 钢铁卫士铸造厂](#钢铁卫士铸造厂)
+  - [3.4 钢铁王座](#钢铁王座)
+- [4 注释](#注释)
 
 ## 参与度
 

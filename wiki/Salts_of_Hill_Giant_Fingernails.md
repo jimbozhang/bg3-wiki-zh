@@ -1,6 +1,6 @@
 # 山丘巨人的指甲盖
 
-**山丘巨人的指甲盖**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")。
+**山丘巨人的指甲盖**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")。
 
 这些盐有着惊人的丰富色彩调色板——真菌的黄色、苔藓的绿色，以及旧血的黑色和棕色。
 

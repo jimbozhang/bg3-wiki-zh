@@ -6,16 +6,16 @@
 
 ## 目录
 
-- [1 首领分类](#boss-categories)
-  - [1.1 主线故事首领](#main-story-bosses)
-  - [1.2 可选首领](#optional-bosses)
-  - [1.3 小首领](#mini-bosses)
-- [2 首领的独特特征](#unique-characteristics-of-bosses)
-  - [2.1 难度提升](#increased-difficulty)
-  - [2.2 独特奖励](#unique-rewards)
-  - [2.3 环境与遭遇设计](#environmental-and-encounter-design)
-- [3 首领列表](#list-of-bosses)
-- [4 备注](#notes)
+- [1 首领分类](#首领分类)
+  - [1.1 主线故事首领](#主线故事首领)
+  - [1.2 可选首领](#可选首领)
+  - [1.3 小首领](#小首领)
+- [2 首领的独特特征](#首领的独特特征)
+  - [2.1 难度提升](#难度提升)
+  - [2.2 独特奖励](#独特奖励)
+  - [2.3 环境与遭遇设计](#环境与遭遇设计)
+- [3 首领列表](#首领列表)
+- [4 备注](#备注)
 
 ## 首领分类
 

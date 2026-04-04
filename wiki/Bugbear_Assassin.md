@@ -67,21 +67,21 @@
 
 ## 特性
 
-- [**蛮暴**](Brute.md "蛮暴")
+- [蛮暴](Brute.md "蛮暴")
 
 使用近战武器攻击时，额外造成 1d8⁠⁠[物理](Physical.md "物理")伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会根据 [力量](STR.md "力量") 调整值造成 [钝击](Bludgeoning.md "钝击")伤害，最低为 1。
+近战攻击未命中时，仍会根据 [力](STR.md "力") 调整值造成 [钝击](Bludgeoning.md "钝击")伤害，最低为 1。
 
 ## 探索者难度属性
 
@@ -127,17 +127,17 @@
 
 ## 特性
 
-- [**蛮暴**](Brute.md "蛮暴")
+- [蛮暴](Brute.md "蛮暴")
 
 使用近战武器攻击时，额外造成 1d8⁠⁠[物理](Physical.md "物理")伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会根据 [力量](STR.md "力量") 调整值造成 [钝击](Bludgeoning.md "钝击")伤害，最低为 1。
+近战攻击未命中时，仍会根据 [力](STR.md "力") 调整值造成 [钝击](Bludgeoning.md "钝击")伤害，最低为 1。
 
 ## 硬核难度属性
 
@@ -183,21 +183,21 @@
 
 ## 特性
 
-- [**蛮暴**](Brute.md "蛮暴")
+- [蛮暴](Brute.md "蛮暴")
 
 使用近战武器攻击时，额外造成 1d8⁠⁠[物理](Physical.md "物理")伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会根据 [力量](STR.md "力量") 调整值造成 [钝击](Bludgeoning.md "钝击")伤害，最低为 1。
+近战攻击未命中时，仍会根据 [力](STR.md "力") 调整值造成 [钝击](Bludgeoning.md "钝击")伤害，最低为 1。
 
 ## 技术信息
 

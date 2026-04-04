@@ -72,7 +72,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 23 / (+6) | 12 / (+1) | 22 / (+6) | 15 / (+2) | 17 / (+3) | 21 / (+5) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
@@ -82,39 +82,39 @@
 
 ## 特性
 
-- [**吞噬虔诚**](Consume_the_Faithful.md "吞噬虔诚")
+- [吞噬虔诚](Consume_the_Faithful.md "吞噬虔诚")
 
 吞噬一个[死灵侍僧](Necromite.md "死灵侍僧")以获得[死亡一指](Finger_of_Death.md "死亡一指")。在[硬核](Tactician.md "硬核")及以上难度：同时为施法者恢复 8d8 [生命值](HP.md "生命值")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md))。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")+5。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -164,7 +164,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +6 | +1 | +6 | +2 | +7 | +9 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
@@ -174,39 +174,39 @@
 
 ## 特性
 
-- [**吞噬虔诚**](Consume_the_Faithful.md "吞噬虔诚")
+- [吞噬虔诚](Consume_the_Faithful.md "吞噬虔诚")
 
 吞噬一个[死灵侍僧](Necromite.md "死灵侍僧")以获得[死亡一指](Finger_of_Death.md "死亡一指")。在[硬核](Tactician.md "硬核")及以上难度：同时为施法者恢复 8d8 [生命值](HP.md "生命值")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md))。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")+5。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -256,7 +256,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 23 / (+6) | 12 / (+1) | 22 / (+6) | 15 / (+2) | 17 / (+3) | 21 / (+5) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
@@ -270,35 +270,35 @@
 
 ## 特性
 
-- [**吞噬虔诚**](Consume_the_Faithful.md "吞噬虔诚")
+- [吞噬虔诚](Consume_the_Faithful.md "吞噬虔诚")
 
 吞噬一个[死灵侍僧](Necromite.md "死灵侍僧")以获得[死亡一指](Finger_of_Death.md "死亡一指")。在[硬核](Tactician.md "硬核")及以上难度：同时为施法者恢复 8d8 [生命值](HP.md "生命值")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md))。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")+5。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
@@ -306,7 +306,7 @@
 
 所有受到的伤害减少 2。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -352,7 +352,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +6 | +1 | +6 | +2 | +9 | +11 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
@@ -366,35 +366,35 @@
 
 ## 特性
 
-- [**吞噬虔诚**](Consume_the_Faithful.md "吞噬虔诚")
+- [吞噬虔诚](Consume_the_Faithful.md "吞噬虔诚")
 
 吞噬一个[死灵侍僧](Necromite.md "死灵侍僧")以获得[死亡一指](Finger_of_Death.md "死亡一指")。在[硬核](Tactician.md "硬核")及以上难度：同时为施法者恢复 8d8 [生命值](HP.md "生命值")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md))。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")+5。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
@@ -406,7 +406,7 @@
 
 每轮一次，米尔寇的使徒可在被攻击时花费一个传奇动作，对一个生物施放[死亡凝视](Gaze_of_the_Dead.md "死亡凝视")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -436,14 +436,14 @@ Stats
 
 ## 目录
 
-- [1 登场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 荣誉模式](#honour-mode)
-  - [2.2 免疫](#immunities)
-- [3 成就](#achievements)
-- [4 图库](#gallery)
-- [5 注释](#notes)
+- [1 登场](#登场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 荣誉模式](#荣誉模式)
+  - [2.2 免疫](#免疫)
+- [3 成就](#成就)
+- [4 图库](#图库)
+- [5 注释](#注释)
 
 ## 登场
 

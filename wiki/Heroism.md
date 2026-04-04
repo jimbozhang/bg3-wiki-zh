@@ -1,6 +1,6 @@
 # 英雄气概
 
-**英雄气概**是一个[一级惑控学派法术](Spells.md "Spells")。它允许施法者为自己或盟友灌注勇气；受影响的生物无法陷入[恐慌](Frightened_(Condition).md "恐慌 (状态)")，并获得[临时生命值](Hit_Points.md#Temporary_Hit_Points "生命值")。
+**英雄气概**是一个[法术](Spells.md "法术")。它允许施法者为自己或盟友灌注勇气；受影响的生物无法陷入[恐慌](Frightened_(Condition).md "恐慌 (状态)")，并获得[临时生命值](Hit_Points.md#Temporary_Hit_Points "生命值")。
 
 ## 描述
 

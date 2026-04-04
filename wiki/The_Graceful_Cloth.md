@@ -28,7 +28,7 @@
 
 **[猫之轻灵](Cat's_Grace_(Condition).md "猫之轻灵 (状态)")**
 
-- 在[敏捷](Dexterity.md "敏捷")[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
+- 在[敏捷](Dexterity.md "敏捷")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 - 承受的坠落伤害减半。
 
 ## 获取地点
@@ -38,7 +38,7 @@
 ## 备注
 
 - 在补丁4之前，[阿拉吉·欧布罗扎](Araj_Oblodra.md "阿拉吉·欧布罗扎")在[月出之塔](Moonrise_Towers.md "月出之塔")也出售此物品，并具有以下特殊属性：
-  - **武术致命性：**[徒手打击](Unarmed_Strike.md "徒手打击")的[攻击掷骰](Unarmed_Strike.md "徒手打击")和[投掷攻击](Throw.md "投掷")的伤害获得+1加值
+  - **武术致命性：**[徒手打击](Unarmed_Strike.md "徒手打击")的[徒手打击](Unarmed_Strike.md "徒手打击")和[投掷攻击](Throw.md "投掷")的伤害获得+1加值
   - [护甲等级](Armour_Class.md "护甲等级") +1
 
 _关于猫之轻灵（被动特性）：_
@@ -65,11 +65,11 @@ _关于猫之轻灵（被动特性）：_
 
 - 染色变体
 
-- 普通[染料](Dye.md "染料")颜色
+- 普通[染色](Dye.md "染色")颜色
 
-- 稀有[染料](Dye.md "染料")颜色
+- 稀有[染色](Dye.md "染色")颜色
 
-- 超稀有[染料](Dye.md "染料")颜色
+- 超稀有[染色](Dye.md "染色")颜色
 
 ---
 *Source: [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)*

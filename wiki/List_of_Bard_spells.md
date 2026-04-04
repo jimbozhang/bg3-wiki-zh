@@ -15,7 +15,7 @@
 | [剑刃防护](Blade_Ward.md "Blade Ward") | 戏法 |  |  | 2 回合 | 自身 | - | - |
 | [舞光术](Dancing_Lights.md "Dancing Lights") | 戏法 |  |  | 10 回合 | 18 米 / 60尺 / 9米 / 30尺 (半径) | - | - |
 | [交友术](Friends.md "Friends") | 戏法 |  |  | 10 回合 | 9 米 / 30尺 | - | - |
-| [光亮术](Light.md "Light") | 戏法 |  |  | 长休 | 1.5 米 / 5 尺 | - | - |
+| [轻型](Light.md "轻型") | 戏法 |  |  | 长休 | 1.5 米 / 5 尺 | - | - |
 | [法师之手](Mage_Hand.md "Mage Hand") | 戏法 |  |  | - | 18 米 / 60尺 | - | - |
 | [初级幻影](Minor_Illusion.md "Minor Illusion") | 戏法 |  |  | - | 18 米 / 60尺 | - | - |
 | [克敌机先](True_Strike.md "True Strike") | 戏法 |  |  | 2 回合 | 18 米 / 60 尺 | - | - |

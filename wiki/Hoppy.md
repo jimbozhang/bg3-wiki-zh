@@ -1,6 +1,6 @@
 # 跳跳
 
-跳跳是一把罕见的+1 [战镐](War_Picks.md "War Picks")，允许使用者使用[再生打击（武器动作）](Revitalising_Strike.md "Revitalising Strike")。
+跳跳是一把罕见的+1 [战镐](War_Picks.md "War Picks")，允许使用者使用[再生打击](Revitalising_Strike.md "再生打击")。
 
 并非最优雅的武器，战镐笨重的重量在强壮臂膀的挥舞下，无疑能在战斗中致命。难以解释的是，这把武器的握柄上雕刻着一只小兔子。
 

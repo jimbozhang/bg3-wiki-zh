@@ -8,7 +8,7 @@
 
 [堆叠ID](Stack_ID.md "Stack ID"): `PERFORM` [更多属性](Status_properties.md "状态属性")：
 
-- [表演中](Status_properties/Performing.md "状态属性/表演中")
+- [表演](Status_properties/Performing.md "表演")
 - [拔出乐器](Status_properties/UnsheathInstrument.md "状态属性/拔出乐器")
 - [禁用战斗日志](Status_properties/DisableCombatlog.md "状态属性/禁用战斗日志")
 

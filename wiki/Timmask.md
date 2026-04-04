@@ -19,7 +19,7 @@
 
 ## 出现
 
-鬼头蘑菇在[幽暗地域](Underdark.md "幽暗地域")的各个地方都能找到。它们的[孢子](Timmask_Spores_(ingredient).md "鬼头蘑菇孢子（材料）")也是一种[炼金术材料](Alchemy.md "炼金术")。三个孢子可以组合成[鬼头蘑菇孢子精华](Essence_of_Timmask_Spores.md "鬼头蘑菇孢子精华")，这是一种用于制造手雷的提取物：[真菌迷药](Fungal_Bamboozler.md "真菌迷药")。
+鬼头蘑菇在[幽暗地域](Underdark.md "幽暗地域")的各个地方都能找到。它们的[孢子](Timmask_Spores_(ingredient).md "鬼头蘑菇孢子（材料）")也是一种[炼金术](Alchemy.md "炼金术")。三个孢子可以组合成[鬼头蘑菇孢子精华](Essence_of_Timmask_Spores.md "鬼头蘑菇孢子精华")，这是一种用于制造手雷的提取物：[真菌迷药](Fungal_Bamboozler.md "真菌迷药")。
 
 摧毁一个鬼头蘑菇标本以及幽暗地域中**所有**其他种类的危险蘑菇，会为拥有[化外之民](Outlander.md "化外之民")背景的角色触发一个[激励点](Inspiration.md "激励点")事件——[蘑菇爱好者](Outlander.md#Mushroom_Enthusiast "化外之民")。
 

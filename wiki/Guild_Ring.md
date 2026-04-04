@@ -12,8 +12,8 @@
 ## 获取地点
 
 - 由[下城区](Lower_City.md "下城区") X: 58 Y: -102 处的[图斯格朗特](Tusgront.md "图斯格朗特")携带
-- 在[下城区](Lower_City.md "下城区") X: 58 Y: -102 处一个上锁的[木箱子](Wooden_Chest.md "木箱子")中（DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")）
-- 在同一房屋的地下室中，一个带有[陷阱](Trap.md "陷阱")的箱子中（DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")），隐藏在由压力板激活的假墙后面，位于 X: -2325 Y: 1056
+- 在[下城区](Lower_City.md "下城区") X: 58 Y: -102 处一个上锁的[木箱子](Wooden_Chest.md "木箱子")中（DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")）
+- 在同一房屋的地下室中，一个带有[陷阱](Trap.md "陷阱")的箱子中（DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")），隐藏在由压力板激活的假墙后面，位于 X: -2325 Y: 1056
 
 ## 备注
 

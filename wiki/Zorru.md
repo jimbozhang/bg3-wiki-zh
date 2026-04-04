@@ -90,15 +90,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -148,15 +148,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -206,15 +206,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -244,18 +244,18 @@ Stats
 
 ## 目录
 
-- [1 描述](#description)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第三幕](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 值得一提的战利品](#notable-loot)
-- [4 伙伴好感度](#companion-approval)
-- [5 相关任务](#related-quests)
-- [6 画廊](#gallery)
-- [7 参考文献](#references)
-- [8 外部链接](#external-links)
+- [1 描述](#描述)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第三幕](#第三幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 值得一提的战利品](#值得一提的战利品)
+- [4 伙伴好感度](#伙伴好感度)
+- [5 相关任务](#相关任务)
+- [6 画廊](#画廊)
+- [7 参考文献](#参考文献)
+- [8 外部链接](#外部链接)
 
 ## 描述
 
@@ -275,7 +275,7 @@ Stats
 
 当接近山隘时，队伍可能会遇到 [尤尔](Yul.md "Yul") 的尸体，他是苏洛的朋友兼侦察同伴。使用 [死者交谈](Speak_with_Dead.md "Speak_with Dead") 会揭示苏洛留下尤尔等死。如果 [威尔](Wyll.md "Wyll") 在队伍中，他会称苏洛为懦夫。
 
-在击败所有三个 [地精首领](Defeat_the_Goblins.md "Defeat the Goblins") 后，苏洛在大多数提夫林难民之前离开了林地，并独自前往 [博德之门](Baldur's_Gate.md "Baldur's Gate")。
+在击败所有三个 [击败地精](Defeat_the_Goblins.md "击败地精") 后，苏洛在大多数提夫林难民之前离开了林地，并独自前往 [博德之门](Baldur's_Gate.md "Baldur's Gate")。
 
 ### 第三幕
 

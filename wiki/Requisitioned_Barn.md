@@ -24,21 +24,21 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 守卫](#guards)
-- [2 捐赠](#donations)
-  - [2.1 洗劫谷仓](#looting-the-barn)
-- [3 附近的其他遭遇](#other-encounters-nearby)
-- [4 相关地点](#related-locations)
-- [5 相关任务](#related-quests)
-- [6 角色](#characters)
-  - [6.1 焰拳](#flaming-fist)
-  - [6.2 商人](#traders)
-  - [6.3 难民](#refugees)
-  - [6.4 其他](#other)
-- [7 战利品](#loot)
-- [8 相关文献](#related-literature)
-- [9 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+  - [1.1 守卫](#守卫)
+- [2 捐赠](#捐赠)
+  - [2.1 洗劫谷仓](#洗劫谷仓)
+- [3 附近的其他遭遇](#附近的其他遭遇)
+- [4 相关地点](#相关地点)
+- [5 相关任务](#相关任务)
+- [6 角色](#角色)
+  - [6.1 焰拳](#焰拳)
+  - [6.2 商人](#商人)
+  - [6.3 难民](#难民)
+  - [6.4 其他](#其他)
+- [7 战利品](#战利品)
+- [8 相关文献](#相关文献)
+- [9 注释与参考](#注释与参考)
 
 ## 概述
 
@@ -52,7 +52,7 @@
 
 焰拳普尔、罗文和瓦罗恩在谷仓外守卫入口，而焰拳马迪根和布罗德霍恩在建筑内部巡逻。焰拳洛坎站在附近，专注于安抚由[贵族格洛特波尔](Grotpoll.md "格洛特波尔")领导的一群抗议者，他们要求将难民驱逐出博德之门。
 
-焰拳罗文是可能被[腥红奥林](Orin.md "奥林")选中伪装以威胁队伍的角色之一。<sup>[\[1\]](#cite_note-1)</sup> 在这种情况下，真正的罗文尸体稍后可以在[下城区](Lower_City.md "下城区")的[巴尔神殿](Bhaal_Temple.md "巴尔神殿")中找到。
+焰拳罗文是可能被[奥林](Orin.md "奥林")选中伪装以威胁队伍的角色之一。<sup>[\[1\]](#cite_note-1)</sup> 在这种情况下，真正的罗文尸体稍后可以在[下城区](Lower_City.md "下城区")的[巴尔神殿](Bhaal_Temple.md "巴尔神殿")中找到。
 
 与[利文顿](Rivington.md "利文顿")的其他可能伪装一样，奥林试图让玩家角色理解或同意她的心态，但总会现出真身，并在说些恶毒的话后消失。
 
@@ -70,11 +70,11 @@
 - ⁠[分享战利品](Soldier.md#Sharing_the_Spoils "分享战利品")（[士兵](Soldier.md "士兵")背景） - 金钱或食物（任意数量）
 - ⁠[尽己所能](Urchin.md#Spare_What_You_Can "尽己所能")（[流浪儿](Urchin.md "流浪儿")背景） - 金钱或食物（任意数量）
 
-内斯特还可以被[游说](Persuasion.md "游说")以获得进入谷仓的许可，否则将被视为[非法侵入](Crime.md "犯罪")。如果队伍已经开始⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")任务（见下文），则需要通过DC 10的检定。如果尚未开始，他们可以要求内斯特让他们自己将捐赠品放入谷仓（从而获得进入许可），但这需要通过DC 20的检定。
+内斯特还可以被[游说](Persuasion.md "游说")以获得进入谷仓的许可，否则将被视为[犯罪](Crime.md "犯罪")。如果队伍已经开始⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")任务（见下文），则需要通过DC 10的检定。如果尚未开始，他们可以要求内斯特让他们自己将捐赠品放入谷仓（从而获得进入许可），但这需要通过DC 20的检定。
 
 任何“捐赠”对话选项仅在队伍说服内斯特允许进入谷仓之前可用。如果队伍设法潜入谷仓并被抓住，这种可能性也会消失。
 
-队伍还可以通过对话选项进行几次DC 20的[欺瞒](Deception.md "欺瞒")检定，以解释他们在谷仓中的存在（或进入的需要）；这样做会为具有[骗子](Charlatan.md "骗子")背景的队伍成员授予⁠[永远不要相信诚实的人](Charlatan.md#Never_Trust_an_Honest_Person "永远不要相信诚实的人")激励点。[战士](Fighter.md "战士")角色也可以尝试DC 18的[欺瞒](Deception.md "欺瞒")[检定](Ability_Check.md "属性检定")，以说服内斯特他们是前来报到的[焰拳](Flaming_Fist.md "焰拳")。
+队伍还可以通过对话选项进行几次DC 20的[欺瞒](Deception.md "欺瞒")检定，以解释他们在谷仓中的存在（或进入的需要）；这样做会为具有[骗子](Charlatan.md "骗子")背景的队伍成员授予⁠[永远不要相信诚实的人](Charlatan.md#Never_Trust_an_Honest_Person "永远不要相信诚实的人")激励点。[战士](Fighter.md "战士")角色也可以尝试DC 18的[欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")，以说服内斯特他们是前来报到的[焰拳](Flaming_Fist.md "焰拳")。
 
 ### 洗劫谷仓
 
@@ -88,24 +88,24 @@
 
 谷仓内的两个主要兴趣点是位于 X: 76 Y: -111 的捐赠箱和附近的玩具箱。
 
-捐赠箱内有金币和随机的珍品。它已上锁，需要通过DC 20的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁，或者可以用内斯特保管的[捐赠箱钥匙](Donation_Chest_Key.md "捐赠箱钥匙")打开。
+捐赠箱内有金币和随机的珍品。它已上锁，需要通过DC 20的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来撬锁，或者可以用内斯特保管的[捐赠箱钥匙](Donation_Chest_Key.md "捐赠箱钥匙")打开。
 
 从箱子中偷取捐赠品可能会获得一种或两种以下激励点：
 
 - ⁠[捐赠意味着“免费”](Criminal.md#Donations_Means_'Free' "捐赠意味着“免费”")（[罪犯](Criminal.md "罪犯")背景）
 - ⁠[分文不还](Urchin.md#Give_Nothing_Back "分文不还")（[流浪儿](Urchin.md "流浪儿")背景）
 
-附近装有填充熊的箱子是⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")任务的重要组成部分。靠近时，会进行被动DC 15的[调查](Investigation.md "调查")[检定](Ability_Check.md "属性检定")；成功会将箱子标记为陷阱。如果任务尚未启动，成功的检定会启动任务。解除箱子需要DC 20的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")。
+附近装有填充熊的箱子是⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")任务的重要组成部分。靠近时，会进行被动DC 15的[调查](Investigation.md "调查")[属性检定](Ability_Check.md "属性检定")；成功会将箱子标记为陷阱。如果任务尚未启动，成功的检定会启动任务。解除箱子需要DC 20的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")。
 
 找到装有改装玩具的箱子会为具有[公会工匠](Guild_Artisan.md "公会工匠")背景的角色授予⁠[不道德的巧思](Guild_Artisan.md#Immoral_Ingenuity "不道德的巧思")激励点。
 
-如果陷阱被触发，爆炸会惊动所有守卫，玩家角色几乎不可避免地需要为他们在谷仓中的存在提供解释。在这种情况下，[邪念](Dark_Urge.md "邪念")有一个额外的选项，可以激活剩余的[熊](Surprise-Based_Teddy_Bear.md "意外泰迪熊")之一并将其扔向精卫内斯特。
+如果陷阱被触发，爆炸会惊动所有守卫，玩家角色几乎不可避免地需要为他们在谷仓中的存在提供解释。在这种情况下，[邪念](Dark_Urge.md "邪念")有一个额外的选项，可以激活剩余的[意外泰迪熊](Surprise-Based_Teddy_Bear.md "意外泰迪熊")之一并将其扔向精卫内斯特。
 
 ## 附近的其他遭遇
 
 谷仓周围放置了几个NPC小插曲。
 
-- 主入口附近有一个上锁的、标有红色轮廓的重箱子。可以通过DC 18的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")打开，或者用[焰拳普尔](Poole.md "普尔")保管的[弹药箱钥匙](Munition_Chest_Key.md "弹药箱钥匙")打开。内部有[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")、[康复药水](Remedial_Potion.md "康复药水")、[英勇灵药](Elixir_of_Heroism.md "英勇灵药")和[长剑 +1](Longsword_+1.md "长剑 +1")。
+- 主入口附近有一个上锁的、标有红色轮廓的重箱子。可以通过DC 18的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")打开，或者用[焰拳普尔](Poole.md "普尔")保管的[弹药箱钥匙](Munition_Chest_Key.md "弹药箱钥匙")打开。内部有[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")、[康复药水](Remedial_Potion.md "康复药水")、[英勇灵药](Elixir_of_Heroism.md "英勇灵药")和[长剑 +1](Longsword_+1.md "长剑 +1")。
 - 谷仓对面是商人[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")。与他的互动取决于[影心](Shadowheart.md "影心")是否在当前队伍中——如果她在，还取决于她是否仍然忠于⁠[莎尔](Shar.md "莎尔")。
 
 如果影心_不在_队伍中，可以询问弗格他的货物来源，他承认从难民那里“购买”贵重物品，作为交换，为他们提供真钱以满足他们的即时需求。然后可以通过几次属性检定说服他展示他的特殊货物。
@@ -167,7 +167,7 @@
 
 - [贵族格洛特波尔](Grotpoll.md "格洛特波尔")
 - [曼迪·割月](Mandii_Harvestmoon.md "曼迪·割月")
-- [腥红奥林](Orin.md "奥林")
+- [奥林](Orin.md "奥林")
 - [猪](Pig.md "猪")
 - [里克斯·嘉文](Ricks_Garven.md "里克斯·嘉文")
 

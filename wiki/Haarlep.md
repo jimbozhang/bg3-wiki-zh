@@ -80,19 +80,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 8 / (-1) | 20 / (+5) | 13 / (+1) | 15 / (+2) | 12 / (+1) | 20 / (+5) |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**以太逃逸**](Ethereal_Escape.md "Ethereal Escape")
+- [以太逃逸](Ethereal_Escape.md "以太逃逸")
 
 受到伤害时，梦魔会逃往以太位面。他会在下一回合开始时返回战场。
 
@@ -134,19 +134,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | -1 | +5 | +1 | +2 | +1 | +5 |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**以太逃逸**](Ethereal_Escape.md "Ethereal Escape")
+- [以太逃逸](Ethereal_Escape.md "以太逃逸")
 
 受到伤害时，梦魔会逃往以太位面。他会在下一回合开始时返回战场。
 
@@ -188,19 +188,19 @@
 | --- | --- | --- | --- |
 |  | -1 | 5 | 8 |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**以太逃逸**](Ethereal_Escape.md "Ethereal Escape")
+- [以太逃逸](Ethereal_Escape.md "以太逃逸")
 
 受到伤害时，梦魔会逃往以太位面。他会在下一回合开始时返回战场。
 
@@ -286,23 +286,23 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-- [2 参与](#involvement)
-  - [2.1 第三幕](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 遭遇详情](#encounter-details)
-  - [3.3 盟友](#allies)
-  - [3.4 战利品](#loot)
-- [4 相关文献](#related-literature)
-- [5 伙伴好感度](#companion-approval)
-- [6 死者交谈](#speak-with-dead)
-- [7 语录](#quotes)
-- [8 画廊](#gallery)
-- [9 另见](#see-also)
-- [10 注释](#notes)
-- [11 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+- [2 参与](#参与)
+  - [2.1 第三幕](#第三幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 遭遇详情](#遭遇详情)
+  - [3.3 盟友](#盟友)
+  - [3.4 战利品](#战利品)
+- [4 相关文献](#相关文献)
+- [5 伙伴好感度](#伙伴好感度)
+- [6 死者交谈](#死者交谈)
+- [7 语录](#语录)
+- [8 画廊](#画廊)
+- [9 另见](#另见)
+- [10 注释](#注释)
+- [11 外部链接](#外部链接)
 
 ## 概述
 
@@ -320,13 +320,13 @@ UUID
 
 哈勒普对此很感兴趣，提供宝贵的信息，但有一个条件：队伍中的一名成员必须与他们“玩耍”。如果接受邀请，哈勒普命令他们脱掉衣服躺在床上。在继续之前，哈勒普会询问说话的队伍成员更喜欢他们的男性还是女性形态（回答无所谓会导致他们转为女性形态）。
 
-队伍成员躺在床上后，哈勒普便开始与他们发生性关系。队伍成员可以屈服于哈勒普，或者通过一次 DC 18 [感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "Ability check") 或 DC 18 [表演](Performance.md "Performance") [检定](Ability_Check.md "Ability check") 来抵抗。即使成功，哈勒普的魅力也太过强大，队伍成员必须选择：屈服或战斗。如果选择后者，哈勒普会感到失望并开始战斗。如果屈服，哈勒普会继续对队伍成员为所欲为，并试图让他们成为自己的所有物。
+队伍成员躺在床上后，哈勒普便开始与他们发生性关系。队伍成员可以屈服于哈勒普，或者通过一次 DC 18 [感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定") 或 DC 18 [表演](Performance.md "Performance") [属性检定](Ability_Check.md "属性检定") 来抵抗。即使成功，哈勒普的魅力也太过强大，队伍成员必须选择：屈服或战斗。如果选择后者，哈勒普会感到失望并开始战斗。如果屈服，哈勒普会继续对队伍成员为所欲为，并试图让他们成为自己的所有物。
 
 队伍成员现在面临最后的选择。他们可以交出自己的身体，但不交出自己的思想，在这种情况下哈勒普会继续。然后哈勒普邀请队伍成员最后一次交出他们的身体：如果拒绝，战斗随之而来。如果接受，哈勒普会完成并采用队伍成员的形态，将他们的样貌添加到其变形库中。作为感谢，哈勒普提供[拉斐尔保险箱中的钥匙](Key_From_Raphael's_Safe.md "Key From Raphael's Safe")，让队伍知道拉斐尔的秘密保险箱在他自己的画像后面。哈勒普随后离开，告知队伍成员从那时起，当哈勒普使用他们的样貌与他人上床时，他们会周期性地感觉到。
 
 或者，队伍成员可以交出他们的身体和灵魂，在这种情况下哈勒普会吞噬他们的灵魂，如果参与者是主角，则导致[游戏结束](Game_Over_screens.md "Game Over screens")；如果是[伙伴](Companion.md "Companion")，则永久死亡。
 
-最后，队伍成员可以通过一次成功的 DC 25 [体质](Constitution.md "Constitution") [检定](Ability_Check.md "Ability check") 来抵抗，在这种情况下他们会将哈勒普甩开并开始战斗。
+最后，队伍成员可以通过一次成功的 DC 25 [体质](Constitution.md "Constitution") [属性检定](Ability_Check.md "属性检定") 来抵抗，在这种情况下他们会将哈勒普甩开并开始战斗。
 
 如果哈勒普被杀死，可以使用[死者交谈](Speak_with_Dead.md "Speak with Dead")与他们沟通，他们透露包含队伍寻求信息的保险箱在拉斐尔“虚荣心”后面的保险箱中，即拉斐尔床左侧的画像。拉斐尔保险箱中的钥匙可以从哈勒普的尸体上掠夺以打开保险箱。
 

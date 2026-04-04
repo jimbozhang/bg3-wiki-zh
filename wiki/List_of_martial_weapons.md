@@ -2,9 +2,9 @@
 
 ## 目录
 
-- [1 普通](#common)
-- [2 非凡](#uncommon)
-- [3 稀有](#rare)
+- [1 普通](#普通)
+- [2 非凡](#非凡)
+- [3 稀有](#稀有)
 - [4 非常稀有](#very-rare)
 - [5 传奇](#legendary)
 - [6 故事物品](#story-item)
@@ -43,7 +43,7 @@
 | [魔契刺剑](Pactbound_Rapier.md "魔契刺剑") |  | 1d8 | 穿刺 | 0.9 kg / 1.8 lb | 0 |  |
 | [魔契三叉戟](Pactbound_Trident.md "魔契三叉戟") |  | 1d6 | 穿刺 | 1.8 kg / 3.6 lb | 0 |  |
 | [魔契战锤](Pactbound_Warhammer.md "魔契战锤") |  | 1d8 | 钝击 | 2.7 kg / 5.4 lb | 0 |  |
-| [镐](Pickaxe.md "镐") |  | 1d8 | 穿刺 | 0.9 kg / 1.8 lb | 10 |  |
+| [十字镐](Pickaxe.md "十字镐") |  | 1d8 | 穿刺 | 0.9 kg / 1.8 lb | 10 |  |
 | [训练剑](Practice_Sword.md "训练剑") |  | 1d4 | 钝击 | 0.6 kg / 1.2 lb | 1 |  |
 | [强化巨剑](Reinforced_Greatsword.md "强化巨剑") |  | 2d6 | 挥砍 | 2.7 kg / 5.4 lb | 65 |  |
 | [锈长柄刀](Rusty_Glaive.md "锈长柄刀") |  | 1d10 | 挥砍 | 2.7 kg / 5.4 lb | 6 |  |
@@ -76,7 +76,7 @@
 | [长剑](Longsword.md "长剑") |  | 1d8 | 挥砍 | 1.35 kg / 2.7 lb | 40 |  |
 | [钉头锤](Morningstar.md "钉头锤") |  | 1d8 | 穿刺 | 1.8 kg / 3.6 lb | 50 |  |
 | [魔契链枷](Pactbound_Flail.md "魔契链枷") |  | 1d8 | 钝击 | 0.9 kg / 1.8 lb | 0 |  |
-| [矛](Pike.md "矛") |  | 1d10 | 穿刺 | 8.1 kg / 16.2 lb | 20 |  |
+| [长矛](Pike.md "长矛") |  | 1d10 | 穿刺 | 8.1 kg / 16.2 lb | 20 |  |
 | [刺剑](Rapier.md "刺剑") |  | 1d8 | 穿刺 | 0.9 kg / 1.8 lb | 65 |  |
 | [锈链枷](Rusty_Flail.md "锈链枷") |  | 1d8 | 钝击 | 0.9 kg / 1.8 lb | 5 |  |
 | [沙华鱼人长弓](Sahuagin_Longbow.md "沙华鱼人长弓") |  | 1d8 | 穿刺 | 1.1 kg / 2.2 lb | 50 |  |
@@ -115,7 +115,7 @@
 | [当锤棒喝](Hamarhraft.md "当锤棒喝") |  | 2d6 | 钝击 | 4.5 kg / 9 lb | 65 | [电能冲击](Shockwave.md "电能冲击")当穿戴者[跳跃](Jump.md "跳跃")时，在落地时对 3 米 (10 英尺) 半径内的敌人造成 1d4⁠⁠[雷鸣](Thunder.md "雷鸣") 伤害。 |
 | [手弩 +1](Hand_Crossbow_+1.md "手弩 +1") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 |  |
 | [重弩 +1](Heavy_Crossbow_+1.md "重弩 +1") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 85 |  |
-| [地狱骑士团长弓](Hellrider_Longbow.md "地狱骑士团长弓") | +1 | 1d8 + 1 | 穿刺 | 1.1 kg / 2.2 lb | 770 | [加强感知](Heightened_Awareness.md "加强感知")在[先攻](Initiative.md "先攻")掷骰上获得 +3 加值，并在[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "检定")上获得[优势](Advantage.md "优势").[邪魔火焰](Fiendish_Fire.md "邪魔火焰")每回合一次，被此武器击中的生物可能会遭受[妖火](Faerie_Fire_(Condition).md "妖火 (状态)"). |
+| [地狱骑士团长弓](Hellrider_Longbow.md "地狱骑士团长弓") | +1 | 1d8 + 1 | 穿刺 | 1.1 kg / 2.2 lb | 770 | [加强感知](Heightened_Awareness.md "加强感知")在[先攻](Initiative.md "先攻")掷骰上获得 +3 加值，并在[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势").[邪魔火焰](Fiendish_Fire.md "邪魔火焰")每回合一次，被此武器击中的生物可能会遭受[妖火](Faerie_Fire_(Condition).md "妖火 (状态)"). |
 | [跳跳](Hoppy.md "跳跳") | +1 | 1d8 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 100 | [再生打击](Revitalising_Strike.md "再生打击") () 猛击敌人，使其受伤并治疗自己的伤势。 ( 冷却：[短休](Short_rest.md "短休").) |
 | [狩猎短弓](Hunting_Shortbow.md "狩猎短弓") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [猎魔](Feller_of_Monsters.md "猎魔")你对[怪兽](Monstrosity.md "怪兽")类敌人具有[优势](Advantage.md "优势"). [猎人印记](Hunter's_Mark.md "猎人印记") () 施放为 1 级法术 ( 冷却：[长休](Long_Rest.md "长休").) |
 | [顽固战锤](Intransigent_Warhammer.md "顽固战锤") |  | 1d8 | 钝击 | 2.7 kg / 5.4 lb | 100 | [斥力爆](Impulse_Blast.md "斥力爆")在杀死目标或造成[重击](Critical_Hit.md "重击")后，击倒附近的生物[倒地](Prone_(Condition).md "倒地 (状态)"). |
@@ -129,7 +129,7 @@
 | [军团魔长戟](Merregon_Halberd.md "军团魔长戟") | +1 | 1d10 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 85 |  |
 | [钉头锤 +1](Morningstar_+1.md "钉头锤 +1") | +1 | 1d8 + 1 | 穿刺 | 1.8 kg / 3.6 lb | 65 |  |
 | [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷") | +1 | 1d8 + 1 / 1d6 | 钝击/黯蚀 | 0.9 kg / 1.8 lb | 65 |  |
-| [矛 +1](Pike_+1.md "矛 +1") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 40 |  |
+| [长矛 +1](Pike_+1.md "长矛 +1") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 40 |  |
 | [刺剑 +1](Rapier_+1.md "刺剑 +1") | +1 | 1d8 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 85 |  |
 | [身心撕裂者](Render_of_Mind_and_Body.md "身心撕裂者") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [钢铁意志大师](Psychic_Steel_Virtuoso.md "钢铁意志大师")当持用者以[优势](Advantage.md "优势")攻击时，额外造成 1d8⁠⁠[心灵](Psychic.md "心灵") 伤害。 |
 | [回旋长矛](Returning_Pike.md "回旋长矛") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 65 | [归巢武器](Homing_Weapon.md "归巢武器")此武器在投掷后将返回其所有者。 |
@@ -163,15 +163,15 @@
 | [压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑") | +1 | 1d8 + 1 / 1d4 | 挥砍/心灵 | 1.35 kg / 2.7 lb | 250 | [至高打击](Crowning_Strike.md "至高打击") () 释放被你刀刃击倒的死者的哀嚎，并可能使目标陷入[疯狂](Crown_of_Madness_(Condition).md "疯狂 (状态)"). ( 冷却：[短休](Short_rest.md "短休").) |
 | [染血的巨斧](Blooded_Greataxe.md "染血的巨斧") | +1 | 1d12 + 1 | 挥砍 | 3.15 kg / 6.3 lb | 380 | [无情复仇](Relentless_Revenge.md "无情复仇")当持用者生命值低于或等于 50% 时，额外造成 1d4⁠⁠[挥砍](Slashing.md "挥砍") 伤害。 |
 | [反抗尖杖](Breaching_Pikestaff.md "反抗尖杖") | +2 | 1d10 + 2 / 1d4 | 穿刺/力场 | 8.1 kg / 16.2 lb | 190 |  |
-| [闪电誓缚战锤](Charge-Bound_Warhammer.md "闪电誓缚战锤") | +1 | 1d8 + 1 | 钝击 | 2.7 kg / 5.4 lb | 310 | [心仪武器](Favoured_Weapon.md "心仪武器")此武器在伤害和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有 +1 加值。[动电电流](Galvanic_Currents.md "动电电流")此武器额外造成 1d6⁠⁠[闪电](Lightning.md "闪电") 伤害。此战锤的魔法能力仅在它被[武器绑定](Weapon_Bond.md "武器绑定")于[奥法骑士](Eldritch_Knight.md "奥法骑士")或作为[邪术师](Warlock.md "邪术师")的[魔契](Bind_Pact_Weapon.md "魔契武器誓缚")或[诅咒](Bind_Hexed_Weapon.md "诅咒武器")武器时才生效。这些效果是武器 +1 附魔的额外加成。由于附魔和青睐武器加值叠加，此武器在誓缚时相当于 +2 武器。 |
+| [闪电誓缚战锤](Charge-Bound_Warhammer.md "闪电誓缚战锤") | +1 | 1d8 + 1 | 钝击 | 2.7 kg / 5.4 lb | 310 | [心仪武器](Favoured_Weapon.md "心仪武器")此武器在伤害和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有 +1 加值。[动电电流](Galvanic_Currents.md "动电电流")此武器额外造成 1d6⁠⁠[闪电](Lightning.md "闪电") 伤害。此战锤的魔法能力仅在它被[武器绑定](Weapon_Bond.md "武器绑定")于[奥法骑士](Eldritch_Knight.md "奥法骑士")或作为[邪术师](Warlock.md "邪术师")的[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")或[诅咒](Bind_Hexed_Weapon.md "诅咒武器")武器时才生效。这些效果是武器 +1 附魔的额外加成。由于附魔和青睐武器加值叠加，此武器在誓缚时相当于 +2 武器。 |
 | [小丑之锤](Clown_Hammer.md "小丑之锤") | +2 | 1d8 + 2 | 钝击 | 2.7 kg / 5.4 lb | 310 | [惧怖讽刺](Grim_Irony.md "惧怖讽刺")每当此武器造成暴击时，目标和攻击者都必须成功通过感知豁免检定，否则会受到[狂笑](Hideous_Laughter_(Condition).md "狂笑 (状态)")的影响。 |
 | [绞尸机](Corpsegrinder.md "绞尸机") | +2 | 2d6 + 2 / 1d4 | 钝击/雷鸣 | 4.5 kg / 9 lb | 190 | [全垒打](Grand_Slam.md "全垒打") () 将武器猛砸地面，额外造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的[雷鸣](Thunder.md "雷鸣")伤害，轰然冲击附近的敌人并可能将其击退。 ( 冷却：[短休](Short_rest.md "短休").) |
-| [腐蚀链枷](Corrosive_Flail.md "腐蚀链枷") | +1 | 1d8 + 1 | 钝击 | 0.9 kg / 1.8 lb | 310 | [腐蚀打击](Corrosive_Strike.md "腐蚀打击") () 造成额外⁠[酸](Acid.md "酸")伤害，数值等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。击中时，在目标周围形成一滩酸液，使其[护甲等级](Armour_Class.md "护甲等级")降低 2。 ( 冷却：[短休](Short_rest.md "短休").) |
-| [残忍蛰刺](Cruel_Sting.md "残忍蛰刺") | +1 | 1d8 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 250 | [落井下石](Sting_The_Helpless.md "落井下石")[卓尔](Drow.md "卓尔")使用此武器时，对[束缚](Restrained_(Condition).md "束缚 (状态)")的目标额外造成 1d4⁠⁠[毒素](Poison.md "毒素")。[诱捕绳索](Ensnaring_Strands.md "诱捕绳索") () 施放为 1 级法术 ( 冷却：[短休](Short_rest.md "短休").) |
+| [腐蚀链枷](Corrosive_Flail.md "腐蚀链枷") | +1 | 1d8 + 1 | 钝击 | 0.9 kg / 1.8 lb | 310 | [腐蚀打击](Corrosive_Strike.md "腐蚀打击") () 造成额外⁠[强酸](Acid.md "强酸")伤害，数值等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。击中时，在目标周围形成一滩酸液，使其[护甲等级](Armour_Class.md "护甲等级")降低 2。 ( 冷却：[短休](Short_rest.md "短休").) |
+| [残忍蛰刺](Cruel_Sting.md "残忍蛰刺") | +1 | 1d8 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 250 | [落井下石](Sting_The_Helpless.md "落井下石")[卓尔](Drow.md "卓尔")使用此武器时，对[束缚](Restrained_(Condition).md "束缚 (状态)")的目标额外造成 1d4⁠⁠[中毒](Poison.md "中毒")。[诱捕绳索](Ensnaring_Strands.md "诱捕绳索") () 施放为 1 级法术 ( 冷却：[短休](Short_rest.md "短休").) |
 | [守卫者链枷](Defender_Flail.md "守卫者链枷") | +1 | 1d8 + 1 | 钝击 | 0.9 kg / 1.8 lb | 310 | [钢铁之躯](Steel_Physiology.md "钢铁之躯")减少受到的⁠[钝击](Bludgeoning.md "钝击")、⁠[穿刺](Piercing.md "穿刺")和⁠[挥砍](Slashing.md "挥砍")伤害 1 点。[护甲等级](Armour_Class.md "护甲等级") +1 |
 | [守卫者巨斧](Defender_Greataxe.md "守卫者巨斧") | +2 | 1d12 + 2 | 挥砍 | 3.15 kg / 6.3 lb | 380 | [防御攻击](Defensive_Attack_(passive_feature).md "防御攻击（被动特性）")当你进行每回合的第一次攻击时，你可以将此武器的附魔降低 1，以使你的[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")加值提高 1。 |
 | [龙息](Drakethroat_Glaive.md "龙息") | +2 | 1d10 + 2 | 挥砍 | 2.7 kg / 5.4 lb | 960 | [恶龙吐息](Vicious_Dragon_Breath.md "恶龙吐息")敌人在对抗你的[龙裔](Dragonborn.md "龙裔")[吐息武器](Breath_Attack.md "吐息武器")的[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势"). [龙族元素武器](Draconic_Elemental_Weapon.md "龙族元素武器") () 施放为 3 级法术 ( 冷却：[长休](Long_Rest.md "长休").) |
-| [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") | +1 | 1d8 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 250 | [激励击杀](Stirring_Execution.md "激励击杀")当你杀死一个敌人时，9 米 / 30 英尺内的盟友获得等于你[[见：错误](Stirring_Execution#Bugs.md#Bugs "激励击杀")]魅力[调整值](Ability_Modifier.md "属性调整值")（最小为 1）的[临时生命值](Temporary_Hit_Points.md "临时生命值")。[魅力](Charisma.md "魅力") +2 [指挥官奇袭](Commander's_Strike.md "指挥官奇袭") ( + ) 指挥一名盟友攻击敌人。该盟友在其下一回合使用反应进行一次[武器攻击](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）"). ( 冷却：[短休](Short_rest.md "短休").) |
+| [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") | +1 | 1d8 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 250 | [激励击杀](Stirring_Execution.md "激励击杀")当你杀死一个敌人时，9 米 / 30 英尺内的盟友获得等于你[[见：错误](Stirring_Execution#Bugs.md#Bugs "激励击杀")]魅力[属性调整值](Ability_Modifier.md "属性调整值")（最小为 1）的[临时生命值](Temporary_Hit_Points.md "临时生命值")。[魅力](Charisma.md "魅力") +2 [指挥官奇袭](Commander's_Strike.md "指挥官奇袭") ( + ) 指挥一名盟友攻击敌人。该盟友在其下一回合使用反应进行一次[武器攻击](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）"). ( 冷却：[短休](Short_rest.md "短休").) |
 | [链枷 +2](Flail_+2.md "链枷 +2") | +2 | 1d8 + 2 | 钝击 | 0.9 kg / 1.8 lb | 155 |  |
 | [传古链枷](Flail_of_Ages.md "传古链枷") | +1 | 1d8 + 1 | 钝击 | 0.9 kg / 1.8 lb | 320 | [时代元素](Elements_of_an_Epoch.md "时代元素")根据此武器造成的伤害类型，它还会施加：[酸](Acid_(Condition).md "酸 (状态)")状态、[冻伤](Chilled_(Condition).md "冻伤 (状态)")状态或[燃烧](Burning_(Condition).md "燃烧 (状态)")状态。[元素年代](Elemental_Age.md "元素年代") () 施放为 3 级法术 ( 冷却：[长休](Long_Rest.md "长休").) |
 | [血肉裁决者](Fleshrender.md "血肉裁决者") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [血肉分离](Part_the_Flesh.md "血肉分离") () 以恶魔般的精准向前刺击，可能阻碍目标的治疗能力。 ( 冷却：[短休](Short_rest.md "短休").) |
@@ -179,7 +179,7 @@
 | [巨斧 +2](Greataxe_+2.md "巨斧 +2") | +2 | 1d12 + 2 | 挥砍 | 3.15 kg / 6.3 lb | 190 |  |
 | [正义之锤](Hammer_of_the_Just.md "正义之锤") | +2 | 1d8 + 2 / 1d4 | 钝击/光耀 | 2.7 kg / 5.4 lb | 310 | [诛邪](Slay_the_Wicked_(Bludgeoning).md "诛邪（钝击）")此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")额外造成 1d6⁠⁠[钝击](Bludgeoning.md "钝击") 伤害。 [侦测思想](Detect_Thoughts.md "侦测思想") () 施放为 2 级法术 ( 冷却：[长休](Long_Rest.md "长休").) |
 | [手弩 +2](Hand_Crossbow_+2.md "手弩 +2") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 155 |  |
-| [和声决斗者](Harmonic_Dueller.md "和声决斗者") | +1 | 1d8 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 380 | [老练调谐](Mellow_Harmony.md "老练调谐") () 你进行一次 DC 15 的[表演](Performance.md "表演")[检定](Ability_Check.md "检定")，成功则使你所有近战武器攻击获得额外伤害，数值等于你的[魅力调整值](Charisma.md "魅力")（最小额外伤害为 1）。 ( 冷却：[短休](Short_rest.md "短休").) |
+| [和声决斗者](Harmonic_Dueller.md "和声决斗者") | +1 | 1d8 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 380 | [老练调谐](Mellow_Harmony.md "老练调谐") () 你进行一次 DC 15 的[表演](Performance.md "表演")[属性检定](Ability_Check.md "属性检定")，成功则使你所有近战武器攻击获得额外伤害，数值等于你的[魅力](Charisma.md "魅力")（最小额外伤害为 1）。 ( 冷却：[短休](Short_rest.md "短休").) |
 | [风琴长戟](Harmonium_Halberd.md "风琴长戟") | +1 | 1d10 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 380 | [力量](Strength.md "力量") +2（最高至 23）[智力](Intelligence.md "智力") -1 [感知](Wisdom.md "感知") -1 |
 | [哈罗德](Harold.md "哈罗德") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 480 | [哈罗德厄运](Haroldish_Doom.md "哈罗德厄运")当用远程武器对目标造成伤害时，目标必须成功通过魅力[豁免检定](Saving_throw.md "豁免检定")，否则会被[诅咒](Bane_(Condition).md "诅咒 (状态)") 2 回合。 |
 | [地狱髯须长戟](Hellbeard_Halberd.md "地狱髯须长戟") | +2 | 1d10 + 2 / 6 | 挥砍/毒素 | 2.7 kg / 5.4 lb | 380 |  |
@@ -200,7 +200,7 @@
 | [短剑 +2](Shortsword_+2.md "短剑 +2") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 95 |  |
 | [切割短剑](Slicing_Shortsword.md "切割短剑") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [深度切割](Deepflesh_Slice.md "深度切割")当持用者以[优势](Advantage.md "优势")攻击时，攻击会施加[流血](Bleeding_(Condition).md "流血 (状态)"). |
 | [悲伤](Sorrow.md "悲伤") | +1 | 1d10 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 380 | [悲伤鞭笞](Sorrowful_Lash.md "悲伤鞭笞") () 施放为戏法 ( 冷却：每回合.) |
-| [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑") | +1 | 2d6 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 380 | [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器额外造成 1d4⁠⁠[心灵](Psychic.md "心灵") 伤害。[鲜少措手不及](Seldom_Caught_Unawares_(+2).md "鲜少措手不及（+2）")你在[先攻掷骰](Initiative.md "先攻")上获得 +2 加值。[碎魂者](Soulbreaker.md "碎魂者") () 撕裂敌人的身体和灵魂，额外造成⁠[心灵](Psychic.md "心灵")伤害，数值等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")，并可能[击晕](Stunned_(Condition).md "击晕 (状态)"). ( 冷却：[短休](Short_rest.md "短休").) |
+| [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑") | +1 | 2d6 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 380 | [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器额外造成 1d4⁠⁠[心灵](Psychic.md "心灵") 伤害。[鲜少措手不及](Seldom_Caught_Unawares_(+2).md "鲜少措手不及（+2）")你在[先攻](Initiative.md "先攻")上获得 +2 加值。[碎魂者](Soulbreaker.md "碎魂者") () 撕裂敌人的身体和灵魂，额外造成⁠[心灵](Psychic.md "心灵")伤害，数值等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")，并可能[击晕](Stunned_(Condition).md "击晕 (状态)"). ( 冷却：[短休](Short_rest.md "短休").) |
 | [轻语巨剑](Sussur_Greatsword.md "轻语巨剑") | +1 | 2d6 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 150 | 击中时，如果目标未能通过 DC 12 [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，则[沉默](Silenced_(Condition).md "沉默 (状态)"). |
 | [阴影之握](Sword_of_Clutching_Umbra.md "阴影之握") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [浸影打击](Shadowsoaked_Blow.md "浸影打击") () 打击敌人，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")加到伤害中。此外，如果攻击命中，额外造成 1d6⁠⁠[心灵](Psychic.md "心灵") 伤害。此攻击不会打破隐蔽。 ( 冷却：[短休](Short_rest.md "短休").) |
 | [君主之剑](Sword_of_the_Emperor.md "君主之剑") | +2 | 1d8 + 2 | 挥砍 | 1.35 kg / 2.7 lb | 250 | [变形者杀手](Shapeshifter_Slayer.md "变形者杀手")此武器对变形者或变形生物额外造成 1d4 伤害。[魔法耐久](Magical_Durability_(+2).md "魔法耐久（+2）")持用者在对抗法术的[豁免检定](Saving_throw.md "豁免检定")上获得 +2 加值。 |

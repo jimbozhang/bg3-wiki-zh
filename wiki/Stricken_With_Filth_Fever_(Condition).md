@@ -2,7 +2,7 @@
 
 **患有污秽热病**
 
-- 患有此状态的实体布满浓稠油汗，使用[力量](Strength.md "力量")进行的[检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。
+- 患有此状态的实体布满浓稠油汗，使用[力量](Strength.md "力量")进行的[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。
 
 [患病](Diseased_(status_group).md)
 
@@ -24,10 +24,10 @@ _维基数据库中未定义_
 
 | 状态 | 效果 |
 | --- | --- |
-| [海洋瘟疫](Sea_Plague_(Condition).md "海洋瘟疫（状态）") | 患有此状态的实体布满浓稠油汗，使用[力量](Strength.md "力量")进行的[属性](Ability.md "属性")[检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。 |
-| 患有污秽热病 | 患有此状态的实体布满浓稠油汗，使用[力量](Strength.md "力量")进行的[检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。 |
+| [海洋瘟疫](Sea_Plague_(Condition).md "海洋瘟疫（状态）") | 患有此状态的实体布满浓稠油汗，使用[力量](Strength.md "力量")进行的[属性](Ability.md "属性")[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。 |
+| 患有污秽热病 | 患有此状态的实体布满浓稠油汗，使用[力量](Strength.md "力量")进行的[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。 |
 
-- 患有此状态的实体布满浓稠油汗，使用[力量](Strength.md "力量")进行的[检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。
+- 患有此状态的实体布满浓稠油汗，使用[力量](Strength.md "力量")进行的[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")均具有[劣势](Disadvantage.md "劣势")。
 
 ---
 *Source: [Stricken With Filth Fever (Condition)](https://bg3.wiki/wiki/Stricken_With_Filth_Fever_(Condition)*

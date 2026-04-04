@@ -1,6 +1,6 @@
 # 疫病术
 
-**疫病术**是一个[5级死灵学派法术](Spells.md "Spells")。它允许施法者用他们选择的疾病感染目标，可能导致目标患上疾病。
+**疫病术**是一个[法术](Spells.md "法术")。它允许施法者用他们选择的疾病感染目标，可能导致目标患上疾病。
 
 ## 描述
 
@@ -43,9 +43,9 @@ UID
 
 **[疫病中毒](Contagion_Poisoned_(Condition).md "Contagion Poisoned (Condition)")**
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
-- 在[攻击掷骰](Attack_roll.md "Attack Roll")和[检定](Ability_Check.md "Ability Check")上具有[劣势](Disadvantage.md "Disadvantage")。
+- 在[攻击掷骰](Attack_roll.md "Attack Roll")和[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "Disadvantage")。
 - 每回合，它必须成功通过一次[豁免检定](Saving_throw.md "Saving Throw")，否则毒素将进入下一阶段。累计3次成功，它将恢复。累计3次失败，它将患上与所施放的疫病术变体相对应的疾病。
 
 ## 如何习得

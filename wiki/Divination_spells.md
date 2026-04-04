@@ -6,11 +6,11 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 通过职业或卷轴获得的预言学派法术列表](#list-of-divination-spells-granted-by-class-or-through-scrolls)
-- [3 通过物品获得的预言学派法术列表](#list-of-divination-spells-granted-by-items)
-- [4 仅限NPC使用的预言学派法术列表](#list-of-divination-spells-available-only-to-npcs)
-- [5 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 通过职业或卷轴获得的预言学派法术列表](#通过职业或卷轴获得的预言学派法术列表)
+- [3 通过物品获得的预言学派法术列表](#通过物品获得的预言学派法术列表)
+- [4 仅限NPC使用的预言学派法术列表](#仅限NPC使用的预言学派法术列表)
+- [5 外部链接](#外部链接)
 
 ## 概述
 
@@ -27,7 +27,7 @@
 | [猎人印记](Hunter's_Mark.md "Hunter's Mark") | 1 |  |  | 长休 | 18 米 / 60 英尺 | - | 1d6⁠[武器](Weapon.md "Weapon") |
 | [动物交谈](Speak_with_Animals.md "Speak with Animals") | 1 |  |  | 长休 | 自身 | - | - |
 | [侦测思想](Detect_Thoughts.md "Detect Thoughts") | 2 |  |  | 长休 | 自身 | - | - |
-| [识破隐形](See_Invisibility_(spell).md "See Invisibility (spell)") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺 (半径) | [敏](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws") | - |
+| [识破隐形](See_Invisibility_(spell).md "See Invisibility (spell)") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws") | - |
 
 ## 通过物品获得的预言学派法术列表
 

@@ -1,6 +1,6 @@
 # 真实之戒
 
-真实之戒是一个稀有[戒指](Rings.md "Rings")，为佩戴者提供[优势](Advantage.md "Advantage")进行[洞悉](Insight.md "Insight")[检定](Ability_Check.md "属性检定")。
+真实之戒是一个稀有[戒指](Rings.md "Rings")，为佩戴者提供[优势](Advantage.md "Advantage")进行[洞悉](Insight.md "Insight")[属性检定](Ability_Check.md "属性检定")。
 
 '现在撒谎，永远咬紧牙关。' - 民间谚语
 
@@ -15,7 +15,7 @@
 此物品的佩戴者获得：
 
 [真实之戒](Ring_of_Veracity.md "真实之戒")
-你获得[优势](Advantage.md "Advantage")进行[洞悉检定](Insight.md "Insight")。
+你获得[优势](Advantage.md "Advantage")进行[洞悉](Insight.md "洞悉")。
 
 ## 获取地点
 

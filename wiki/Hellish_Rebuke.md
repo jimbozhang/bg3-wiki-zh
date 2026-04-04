@@ -1,6 +1,6 @@
 # 炼狱叱喝
 
-**炼狱叱喝**是一个[1级塑能学派法术](Spells.md "Spells")。它允许施法者用[地狱火](Hellfire.md "Hellfire")包围一个生物，当受到该生物伤害时，作为[反应](Actions.md#Reactions "Actions")对其造成[火焰](Fire.md "Fire")伤害。
+**炼狱叱喝**是一个[法术](Spells.md "法术")。它允许施法者用[地狱火](Hellfire.md "Hellfire")包围一个生物，当受到该生物伤害时，作为[反应](Actions.md#Reactions "Actions")对其造成[火焰](Fire.md "Fire")伤害。
 
 ## 描述
 

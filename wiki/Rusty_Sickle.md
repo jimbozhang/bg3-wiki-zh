@@ -1,6 +1,6 @@
 # 锈镰刀
 
-**锈镰刀**是[镰刀](Sickles.md "Sickles")武器家族的一种常见变体。它是一种[简易近战武器](Weapons.md "Weapons")，可单手挥舞。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
+**锈镰刀**是[镰刀](Sickles.md "Sickles")武器家族的一种常见变体。它是一种[武器](Weapons.md "武器")，可单手挥舞。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
 
 在草药师行业中甚至毫无用处。
 

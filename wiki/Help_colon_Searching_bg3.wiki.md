@@ -63,16 +63,16 @@ Bg3.wiki 拥有一个强大的内置 [搜索](Special_colon_Search.md "特殊：
 
 ## 目录
 
-- [1 识别需要帮助的区域](#identifying-areas-in-need-of-help)
-- [2 其他搜索 bg3.wiki 的方式](#other-ways-of-searching-bg3.wiki)
-  - [2.1 使用地址栏](#using-your-address-bar)
-  - [2.2 Google Chrome](#google-chrome)
-  - [2.3 Microsoft Edge](#microsoft-edge)
-  - [2.4 Mozilla Firefox](#mozilla-firefox)
-    - [2.4.1 启用搜索建议](#enabling-search-suggestions)
-  - [2.5 Opera](#opera)
-  - [2.6 Brave 浏览器](#brave-browser)
-- [3 使用替代搜索引擎](#using-an-alternative-search-engine)
+- [1 识别需要帮助的区域](#识别需要帮助的区域)
+- [2 其他搜索 bg3.wiki 的方式](#其他搜索-bg3.wiki-的方式)
+  - [2.1 使用地址栏](#使用地址栏)
+  - [2.2 Google Chrome](#Google-Chrome)
+  - [2.3 Microsoft Edge](#Microsoft-Edge)
+  - [2.4 Mozilla Firefox](#Mozilla-Firefox)
+    - [2.4.1 启用搜索建议](#启用搜索建议)
+  - [2.5 Opera](#Opera)
+  - [2.6 Brave 浏览器](#Brave-浏览器)
+- [3 使用替代搜索引擎](#使用替代搜索引擎)
 
 ## 识别需要帮助的区域
 

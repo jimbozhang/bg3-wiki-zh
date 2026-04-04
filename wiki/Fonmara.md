@@ -93,23 +93,23 @@
 
 - - - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "Illusion")和[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -161,23 +161,23 @@
 
 - - - ## 特性
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对[幻术学派](Illusion.md "Illusion")和[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "Perception")检定具有劣势。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -234,7 +234,7 @@ UUID
 [心智奴役](Mind_Mastery.md "Mind Mastery") ()
 使敌人对其一名盟友进行武器攻击。
 
-[感](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 重充：每回合
 
@@ -246,7 +246,7 @@ UUID
 
 深入敌人的思维，使其[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving throw")具有[劣势](Disadvantage.md "Disadvantage")。
 
-[感](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
 [穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
@@ -259,7 +259,7 @@ UUID
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法获得开放伤口。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 重充：[短休](Short_rest.md "Short rest")
 

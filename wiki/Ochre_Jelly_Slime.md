@@ -2,7 +2,7 @@
 
 不要与[易燃粘液炸弹](Flammable_Slime_Bomb.md "易燃粘液炸弹")混淆
 
-**土黄果冻怪粘液**是一种[炼金术材料](Alchemy.md "炼金术")和[消耗品](Consumables.md "消耗品")（[手雷](Grenades.md "手雷")）。它可以被[投掷](Throw.md "投掷")并在撞击时[爆炸](Explosives.md "爆炸")。
+**土黄果冻怪粘液**是一种[炼金术](Alchemy.md "炼金术")和[消耗品](Consumables.md "消耗品")（[手雷](Grenades.md "手雷")）。它可以被[投掷](Throw.md "投掷")并在撞击时[爆炸](Explosives.md "爆炸")。
 
 波动在粘液中搏动，使其看起来像一个被注入了可怕动画的幼虫囊。
 

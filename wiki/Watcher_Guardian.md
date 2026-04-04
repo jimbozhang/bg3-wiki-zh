@@ -81,7 +81,7 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -93,11 +93,11 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合使用[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可以重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -145,7 +145,7 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -157,11 +157,11 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合使用[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可以重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -209,7 +209,7 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -221,11 +221,11 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合使用[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可以重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -283,20 +283,20 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 画廊](#gallery)
-- [4 注释](#notes)
-- [5 参考文献](#references)
+- [1 参与情况](#参与情况)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 画廊](#画廊)
+- [4 注释](#注释)
+- [5 参考文献](#参考文献)
 
 ## 参与情况
 
 ### 第三幕
 
-在[至高大殿](High_Hall.md "High Hall")的初始战斗中，一支从[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")潜入的大量[绝对真理教派信徒](Absolute.md "Absolute")摧毁并击溃了[城市卫士](City_Watch.md "City Watch")，迫使其残部逃离。面对惨重的伤亡，可用于夺回至高大殿的剩余城市卫士力量，是以[瓦莱里亚警官](Valeria.md "Valeria")的命令下的一小队守望者卫士，以及一群试图逃离至高大殿庭院的[惊慌失措的守望者](Watchman_Gyordi.md "Watchman Gyordi")。<sup>[\[1\]](#cite_note-1)</sup>
+在[至高大殿](High_Hall.md "High Hall")的初始战斗中，一支从[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")潜入的大量[绝对真理教派信徒](Absolute.md "Absolute")摧毁并击溃了[城市卫士](City_Watch.md "City Watch")，迫使其残部逃离。面对惨重的伤亡，可用于夺回至高大殿的剩余城市卫士力量，是以[瓦莱里亚](Valeria.md "瓦莱里亚")的命令下的一小队守望者卫士，以及一群试图逃离至高大殿庭院的[守望者乔迪](Watchman_Gyordi.md "守望者乔迪")。<sup>[\[1\]](#cite_note-1)</sup>
 
 如果瓦莱里亚已被拯救并作为盟友参与最终战斗，可以使用[召集盟友](Gather_Your_Allies_(class_action).md "Gather Your Allies (class action)")的变体[卫士](The_Watch.md "The Watch")来召唤这些守望者卫士。召唤一名男性[半兽人](Half-Orc.md "Half-orc")、一名女性[提夫林](Tiefling.md "Tiefling")和一名女性[黄金矮人](Gold_Dwarf.md "Gold dwarf")在队伍身边战斗。
 

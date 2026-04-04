@@ -6,16 +6,16 @@
 
 ## 目录
 
-- [1 提升移动速度](#increasing-your-movement-speed)
-  - [1.1 动作和法术](#actions-and-spells)
-  - [1.2 伙伴特性](#companion-features)
-  - [1.3 职业特性和动作](#class-features-and-actions)
-  - [1.4 状态](#conditions)
-  - [1.5 基于物品](#item-based)
-  - [1.6 其他](#other)
-- [2 降低移动速度](#reducing-movement-speed)
-  - [2.1 移动消耗倍增](#multiplying-movement-cost)
-  - [2.2 阻止移动](#preventing-movement)
+- [1 提升移动速度](#提升移动速度)
+  - [1.1 动作和法术](#动作和法术)
+  - [1.2 伙伴特性](#伙伴特性)
+  - [1.3 职业特性和动作](#职业特性和动作)
+  - [1.4 状态](#状态)
+  - [1.5 基于物品](#基于物品)
+  - [1.6 其他](#其他)
+- [2 降低移动速度](#降低移动速度)
+  - [2.1 移动消耗倍增](#移动消耗倍增)
+  - [2.2 阻止移动](#阻止移动)
 
 ## 提升移动速度
 

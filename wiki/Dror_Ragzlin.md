@@ -99,27 +99,27 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对陷阱、法术、地表的敏捷豁免具有优势。不能目盲或失能。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加3米/10英尺。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标2米（7英尺）范围内且未[失能](Incapacitated_(Condition).md)，则每回合一次可以在武器攻击中添加+2d6[物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -179,27 +179,27 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对陷阱、法术、地表的敏捷豁免具有优势。不能目盲或失能。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加3米/10英尺。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标2米（7英尺）范围内且未[失能](Incapacitated_(Condition).md)，则每回合一次可以在武器攻击中添加+2d6[物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -259,27 +259,27 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对陷阱、法术、地表的敏捷豁免具有优势。不能目盲或失能。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加3米/10英尺。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标2米（7英尺）范围内且未[失能](Incapacitated_(Condition).md)，则每回合一次可以在武器攻击中添加+2d6[物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -339,19 +339,19 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对陷阱、法术、地表的敏捷豁免具有优势。不能目盲或失能。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加3米/10英尺。
 
@@ -359,11 +359,11 @@
 
 每回合一次，当敌人以能力瞄准其盟友时，德罗尔·拉格兹林可以使用传奇动作对5米（17英尺）范围内的至上真神教徒进行[电激](Galvanise.md "电激")，赋予他们[动作如潮](Action_Surge_(Condition).md "动作如潮（状态）")。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标2米（7英尺）范围内且未[失能](Incapacitated_(Condition).md)，则每回合一次可以在武器攻击中添加+2d6[物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -397,26 +397,26 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-    - [2.1.1 破碎圣所](#shattered-sanctum)
-  - [2.2 第二幕](#act-two)
-    - [2.2.1 夺心魔殖民地](#mind-flayer-colony)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 荣誉模式](#honour-mode)
-  - [3.3 盟友](#allies)
-  - [3.4 遭遇详情](#encounter-details)
-  - [3.5 战术](#tactics)
-  - [3.6 值得一提的战利品](#notable-loot)
-- [4 相关文献](#related-literature)
-- [5 死者交谈](#speak-with-dead)
-- [6 相关任务](#related-quests)
-- [7 语录](#quotes)
-- [8 画廊](#gallery)
-- [9 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+    - [2.1.1 破碎圣所](#破碎圣所)
+  - [2.2 第二幕](#第二幕)
+    - [2.2.1 夺心魔殖民地](#夺心魔殖民地)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 荣誉模式](#荣誉模式)
+  - [3.3 盟友](#盟友)
+  - [3.4 遭遇详情](#遭遇详情)
+  - [3.5 战术](#战术)
+  - [3.6 值得一提的战利品](#值得一提的战利品)
+- [4 相关文献](#相关文献)
+- [5 死者交谈](#死者交谈)
+- [6 相关任务](#相关任务)
+- [7 语录](#语录)
+- [8 画廊](#画廊)
+- [9 外部链接](#外部链接)
 
 ## 概述
 
@@ -430,7 +430,7 @@ Stats
 
 ### 第一幕
 
-拉格兹林和明萨拉首次出现在[第一幕](Act_One.md "第一幕")的开场过场动画中，观察[鹦鹉螺号](Nautiloid.md "鹦鹉螺号")的坠毁。
+拉格兹林和明萨拉首次出现在[第一幕](Act_One.md "第一幕")的开场过场动画中，观察[鹦鹉螺](Nautiloid.md "鹦鹉螺")的坠毁。
 
 #### 破碎圣所
 

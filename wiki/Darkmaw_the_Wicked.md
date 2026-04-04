@@ -52,9 +52,9 @@ UUID
 
 ### 第二幕
 
-与这只熊互动会触发一次被动DC 14的[自然](Nature.md "Nature")[检定](Ability_Check.md "Ability check")。根据结果，每个队伍成员会有不同的反应。
+与这只熊互动会触发一次被动DC 14的[自然](Nature.md "Nature")[属性检定](Ability_Check.md "属性检定")。根据结果，每个队伍成员会有不同的反应。
 
-如果DC 14的[自然](Nature.md "Nature")[检定](Ability_Check.md "Ability check")失败：
+如果DC 14的[自然](Nature.md "Nature")[属性检定](Ability_Check.md "属性检定")失败：
 
 - 多么凶恶的生物。我发誓它的眼睛在跟着我。
 - [阿斯代伦] 看起来凶猛的野兽。虽然你的填充物可能漏出来了...
@@ -64,7 +64,7 @@ UUID
 - [影心] 看看那东西的大小。它能一口吞下一个人——或者双份的儿童。
 - [威尔] 可爱。凶恶，但可爱。
 
-如果通过DC 14的[自然](Nature.md "Nature")[检定](Ability_Check.md "Ability check")：
+如果通过DC 14的[自然](Nature.md "Nature")[属性检定](Ability_Check.md "属性检定")：
 
 - 那是恶棍达科莫？我不相信。他的领地从尖牙之森延伸到斗篷森林。花了半支军队才把他赶出去。他怎么会在这里？
 - [阿斯代伦] 等等，那只熊——恶棍达科莫？斗篷森林的恐怖？你偷走的孩子比任何[吸血鬼](Vampire.md "Vampire")都多。看看你现在...

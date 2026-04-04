@@ -94,19 +94,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md "魅惑 (状态)")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
 
@@ -158,19 +158,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md "魅惑 (状态)")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
 
@@ -200,12 +200,12 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 死者交谈](#speak-with-dead)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 死者交谈](#死者交谈)
 
 ## 出场
 

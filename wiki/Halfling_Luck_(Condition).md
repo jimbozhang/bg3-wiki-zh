@@ -2,7 +2,7 @@
 
 **半身人幸运**
 
-- 小体型生物的幸运使受影响实体在下一次[长休](Long_Rest.md "长休")前，在[技能](Skill.md "技能")[检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
+- 小体型生物的幸运使受影响实体在下一次[长休](Long_Rest.md "长休")前，在[技能](Skill.md "技能")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
 
 ## 属性
 
@@ -18,7 +18,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 小体型生物的幸运使受影响实体在下一次[长休](Long_Rest.md "长休")前，在[技能](Skill.md "技能")[检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
+- 小体型生物的幸运使受影响实体在下一次[长休](Long_Rest.md "长休")前，在[技能](Skill.md "技能")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
 
 ---
 *Source: [Halfling Luck (Condition)](https://bg3.wiki/wiki/Halfling_Luck_(Condition)*

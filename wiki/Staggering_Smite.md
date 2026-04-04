@@ -1,10 +1,10 @@
 # 惊惧斩
 
-**惊惧斩**是一个[4级塑能学派法术](Spells.md "Spells")。它在施法者攻击时为武器附加⁠[心灵](Psychic.md "Psychic")伤害，并可能在命中时使目标[惊惧](Staggering_Smite_(Condition).md "惊惧斩（状态）")。
+**惊惧斩**是一个[法术](Spells.md "法术")。它在施法者攻击时为武器附加⁠[心灵](Psychic.md "Psychic")伤害，并可能在命中时使目标[惊惧](Staggering_Smite_(Condition).md "惊惧斩（状态）")。
 
 ## 描述
 
-可能使目标[惊惧](Staggering_Smite_(Condition).md "惊惧斩（状态）")。目标无法采取[反应](Reactions.md "Reactions")，且更可能[攻击](Attack_Roll.md "攻击掷骰")未命中。
+可能使目标[惊惧](Staggering_Smite_(Condition).md "惊惧斩（状态）")。目标无法采取[反应](Reactions.md "Reactions")，且更可能[攻击掷骰](Attack_Roll.md "攻击掷骰")未命中。
 
 ## 属性
 

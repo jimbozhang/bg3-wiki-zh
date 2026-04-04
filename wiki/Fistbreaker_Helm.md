@@ -18,7 +18,7 @@
 你获得+1的[法术豁免DC](Spell_save_DC.md "Spell Save DC")加值。
 
 [鲜少措手不及](Seldom_Caught_Unawares_(+1).md)
-你获得+1的[先攻掷骰](Initiative.md "Initiative")加值。
+你获得+1的[先攻](Initiative.md "先攻")加值。
 
 ## 获取地点
 

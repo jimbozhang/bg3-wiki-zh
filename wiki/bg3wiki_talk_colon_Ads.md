@@ -2,13 +2,13 @@
 
 ## 目录
 
-- [1 不，谢谢](#no-thanks)
-- [2 “我能靠广告赚很多钱”是打破承诺的糟糕理由](#%22I_can_make_a_lot_of_money_off_of_ads%22_is_a_terrible_premise_to_break_a_promise)
-- [3 同意](#consent-given)
-- [4 让劣化开始吧](#let-the-enshittification-begin)
-- [5 失望且警觉](#disappointed-and-alarmed)
-- [6 为什么不设置Patreon或让Kofi更易访问？](#why-not-set-up-a-patreon-or-make-kofi-more-accessible?)
-- [7 法律](#legal)
+- [1 不，谢谢](#不谢谢)
+- [2 “我能靠广告赚很多钱”是打破承诺的糟糕理由](#“我能靠广告赚很多钱”是打破承诺的糟糕理由)
+- [3 同意](#同意)
+- [4 让劣化开始吧](#让劣化开始吧)
+- [5 失望且警觉](#失望且警觉)
+- [6 为什么不设置Patreon或让Kofi更易访问？](#为什么不设置Patreon或让Kofi更易访问？)
+- [7 法律](#法律)
 
 ## 不，谢谢
 

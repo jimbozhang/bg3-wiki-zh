@@ -24,7 +24,7 @@ UID `MAG_Giantslayer_Greatsword` UUID `7219fca3-5f41-43a0-8253-f4c09d8b6308` Sta
 **持有此物品者获得：**
 
 [巨人形态](Giant_Form.md "巨人形态") ()
-增长至骇人体型。你的武器造成额外 1d6 伤害，并获得 27 点[临时生命值](Temporary_Hit_Points.md "临时生命值")以及力量[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
+增长至骇人体型。你的武器造成额外 1d6 伤害，并获得 27 点[临时生命值](Temporary_Hit_Points.md "临时生命值")以及力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
 
 [巨人杀手](Giantslayer.md "巨人杀手")
 命中时，来自你[力量](Strength.md "力量")[调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的伤害翻倍。此武器赋予你对大型、巨型或超巨型生物的[攻击掷骰](Attack_roll.md "攻击掷骰")拥有[优势](Advantage.md "优势")。
@@ -62,7 +62,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 _关于巨人杀手：_
 
 - 巨人杀手的伤害组件对所有目标都有效。
-  - 然而，它不适用于[投掷](Throw.md "投掷")攻击，即使通过[狂野魔法：武器灌注](Wild_Magic_colon__Weapon_Infusion.md "狂野魔法：武器灌注")或[元素劈砍](Elemental_Cleaver.md "元素劈砍")赋予其[相应属性](Thrown.md "投掷攻击")。
+  - 然而，它不适用于[投掷](Throw.md "投掷")攻击，即使通过[狂野魔法：武器灌注](Wild_Magic_colon__Weapon_Infusion.md "狂野魔法：武器灌注")或[元素劈砍](Elemental_Cleaver.md "元素劈砍")赋予其[投掷攻击](Thrown.md "投掷攻击")。
 
 ## 图库
 

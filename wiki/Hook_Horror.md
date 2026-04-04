@@ -63,11 +63,11 @@
 
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
@@ -75,7 +75,7 @@
 
 可对[倒伏](Prone_(Condition).md)>的目标进行[多重攻击](Multiattack_(Hook_Horror).md)>。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -119,11 +119,11 @@
 
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
@@ -131,7 +131,7 @@
 
 可对[倒伏](Prone_(Condition).md)>的目标进行[多重攻击](Multiattack_(Hook_Horror).md)>。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -175,11 +175,11 @@
 
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
@@ -187,7 +187,7 @@
 
 可对[倒伏](Prone_(Condition).md)>的目标进行[多重攻击](Multiattack_(Hook_Horror).md)>。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

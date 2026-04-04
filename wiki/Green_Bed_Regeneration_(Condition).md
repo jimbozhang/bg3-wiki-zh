@@ -2,7 +2,7 @@
 
 **绿床再生**
 
-- 当在[植物生长地表](Plant_Growth.md "植物滋长")或[藤蔓地表](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓 (状态)")上开始你的回合时，恢复1d4⁠⁠[治疗](Healing.md "治疗") [生命值](Hit_Points.md "生命值")。
+- 当在[植物滋长](Plant_Growth.md "植物滋长")或[藤蔓地表](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓 (状态)")上开始你的回合时，恢复1d4⁠⁠[治疗](Healing.md "治疗") [生命值](Hit_Points.md "生命值")。
 
 ## 属性
 

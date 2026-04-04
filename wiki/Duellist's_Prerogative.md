@@ -64,7 +64,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 ## 备注
 
 - 装备副手武器_或_盾牌会禁用**优雅决斗者**和[决斗者的热枕](Dueller's_Enthusiasm.md "决斗者的热枕")。
-- 如果在从[鬼婆巢穴](Blushing_Mermaid.md "脸红的美人鱼")解救万娜之前没有接取任务⁠[解救万娜](Save_Vanra.md "解救万娜")，罗拉_不会_奖励队伍决斗者的特权；必须先在[石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "石化蜥蜴之门营房")与她对话才能获得此物品。
+- 如果在从[脸红的美人鱼](Blushing_Mermaid.md "脸红的美人鱼")解救万娜之前没有接取任务⁠[解救万娜](Save_Vanra.md "解救万娜")，罗拉_不会_奖励队伍决斗者的特权；必须先在[石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "石化蜥蜴之门营房")与她对话才能获得此物品。
 - 尽管[决斗挑战](Challenge_to_Duel.md "决斗挑战")被描述为法术而非武器动作，但它仍然会从[高强战技](Heightened_Manoeuvre.md "高强战技")被动特性中获得加成。
 
 _关于优雅决斗者：_

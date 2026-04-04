@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 
@@ -20,7 +20,7 @@
 
 ## 用途
 
-- 解锁[巴尔的祭坛](Bhaal_Temple.md "Bhaal Temple")
+- 解锁[巴尔神殿](Bhaal_Temple.md "巴尔神殿")
 
 ---
 *Source: [Altar Key](https://bg3.wiki/wiki/Altar_Key)*

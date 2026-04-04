@@ -44,7 +44,7 @@
 解除你的荒野形态并变回原始形态。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗 [法术位](Spells.md#Spell_slots "法术") 以在荒野形态下恢复 [生命值](Hit_Points.md "生命值")。每消耗一个法术位，恢复1d8点[生命值](Healing.md "治疗")。
+消耗 [法术位](Spells.md#Spell_slots "法术") 以在荒野形态下恢复 [生命值](Hit_Points.md "生命值")。每消耗一个法术位，恢复1d8点[治疗](Healing.md "治疗")。
 
 [多重攻击](Multiattack_(Cave_Bear_Wild_Shape).md "多重攻击 (穴熊荒野形态)") ()
 对目标发动多次攻击。（重置：每场战斗。）

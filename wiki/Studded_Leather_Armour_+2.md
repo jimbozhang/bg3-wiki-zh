@@ -24,7 +24,7 @@
 你受到的 [钝击](Bludgeoning.md "Bludgeoning") 伤害减少 1 点。
 
 [伏击](Ambusher_(+1).md)
-[先攻检定](Initiative.md "Initiative") 获得 +1 奖励。
+[先攻](Initiative.md "先攻") 获得 +1 奖励。
 
 ## 获取地点
 

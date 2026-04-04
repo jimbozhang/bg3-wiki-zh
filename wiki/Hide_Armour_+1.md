@@ -21,7 +21,7 @@
 穿戴此物品获得：
 
 [平衡](Balance.md "平衡")
-获得 +1 奖励至[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")和[检定](Ability_Check.md "检定")
+获得 +1 奖励至[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")和[属性检定](Ability_Check.md "属性检定")
 
 ## 获取地点
 

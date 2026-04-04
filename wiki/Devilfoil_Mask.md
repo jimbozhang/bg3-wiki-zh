@@ -33,7 +33,7 @@
 
 ## 备注
 
-- 首次拾取时，执行拾取的角色可以通过一次DC 10的[奥秘](Arcana.md "奥秘")[检定](Ability_Check.md "属性检定")来识别出这是[军团魔步兵](Merregon_Legionnaire.md "军团魔步兵")的面具。
+- 首次拾取时，执行拾取的角色可以通过一次DC 10的[奥秘](Arcana.md "奥秘")[属性检定](Ability_Check.md "属性检定")来识别出这是[军团魔步兵](Merregon_Legionnaire.md "军团魔步兵")的面具。
 - 由于在游戏中相对早期就能获得四个这样的面具，如果所有队伍成员都佩戴，可以将佩戴者的[力量](Strength.md "力量")提高3点。
 - 在[第二幕](Act_Two.md "第二幕")期间，当在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")时，[戴摩](Dammon.md "戴摩")可以将金属面具合成为[血甲魔炸药](Orthon_Explosive.md "血甲魔炸药")。
 - 这些面具与[酒馆殴斗者](Tavern_Brawler.md "酒馆殴斗者")专长配合使用效果很好。

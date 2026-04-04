@@ -90,19 +90,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md "魅惑（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；免疫魔法[沉睡](Sleeping_(Condition).md "沉睡（状态）")效果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -150,19 +150,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md "魅惑（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；免疫魔法[沉睡](Sleeping_(Condition).md "沉睡（状态）")效果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -210,19 +210,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md "魅惑（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；免疫魔法[沉睡](Sleeping_(Condition).md "沉睡（状态）")效果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -252,19 +252,19 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 终焉光芒旅店](#last-light-inn)
-    - [1.1.2 伏击](#ambush)
-    - [1.1.3 伏击之后](#after-the-ambush)
-    - [1.1.4 进攻月出之塔](#assault-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 注释](#notes)
-- [5 参考文献](#references)
+- [1 参与情况](#参与情况)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 终焉光芒旅店](#终焉光芒旅店)
+    - [1.1.2 伏击](#伏击)
+    - [1.1.3 伏击之后](#伏击之后)
+    - [1.1.4 进攻月出之塔](#进攻月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 注释](#注释)
+- [5 参考文献](#参考文献)
 
 ## 参与情况
 
@@ -274,7 +274,7 @@ UUID
 
 通过[复仇之炉](Grymforge.md "复仇之炉")抵达[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")后，布兰索斯首次出现在终焉光芒旅店，巡逻旅店入口前的主广场以及[贝克斯](Bex.md "贝克斯")所在的地下通道。
 
-与[贾希拉](Jaheira.md "贾希拉")交谈后，布兰索斯与[埃林代尔](Elindale.md "埃林代尔")、[拉珊德拉](Lassandra.md "拉珊德拉")、[马努斯](Manus.md "马努斯")和[斯凯温](Skywin.md "斯凯温")一起移动到终焉光芒旅店前的桥上。他们等待着队伍，以便拦截并伏击附近的[绝对真理教护卫队](Follow_the_Convoy.md "跟随护卫队")，并获取其[保护来源](Seek_Protection_from_the_Shadow_Curse.md "寻求幽影诅咒的保护")以对抗[幽影诅咒](Shadow_Curse.md "幽影诅咒")。接受任务后，布兰索斯和他的竖琴手小队会给武器施放[光亮术](Light.md "光亮术")，并移动到[废弃战场](Ruined_Battlefield.md "废弃战场")，在那里等待绝对真理教护卫队。队伍可以立即随行，也可以稍后赶上，因为伏击地点会在他们的地图上标记。
+与[贾希拉](Jaheira.md "贾希拉")交谈后，布兰索斯与[埃林代尔](Elindale.md "埃林代尔")、[拉珊德拉](Lassandra.md "拉珊德拉")、[马努斯](Manus.md "马努斯")和[斯凯温](Skywin.md "斯凯温")一起移动到终焉光芒旅店前的桥上。他们等待着队伍，以便拦截并伏击附近的[跟随护卫队](Follow_the_Convoy.md "跟随护卫队")，并获取其[保护来源](Seek_Protection_from_the_Shadow_Curse.md "寻求幽影诅咒的保护")以对抗[幽影诅咒](Shadow_Curse.md "幽影诅咒")。接受任务后，布兰索斯和他的竖琴手小队会给武器施放[轻型](Light.md "轻型")，并移动到[废弃战场](Ruined_Battlefield.md "废弃战场")，在那里等待绝对真理教护卫队。队伍可以立即随行，也可以稍后赶上，因为伏击地点会在他们的地图上标记。
 
 如果与[伊索贝尔·索姆](Isobel_Thorm.md "伊索贝尔·索姆")交谈并触发与[马库斯](Marcus_Falgor.md "马库斯·法尔戈")的战斗，布兰索斯和他的小队已经移动到桥上，远离战斗范围。如果伊索贝尔未被拯救，布兰索斯会立即死亡，而不是变成[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物（状态）")。
 
@@ -284,7 +284,7 @@ UUID
 
 或者，队伍可以说服卡'尼斯交出月亮提灯，并将护卫队成员的命运交给他们成为[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物（状态）")。无论哪种方式，埃林代尔和他的小队都会友好地离开并返回终焉光芒旅店。
 
-如果选择通过[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")抵达幽影诅咒之地，一个地精会迎接他们，并将队伍送到一个会合点等待卡'尼斯和护卫队引导他们前往[月出之塔](Moonrise_Towers.md "月出之塔")，在那里队伍可以[冒充](Infiltrate_Moonrise_Towers.md "潜入月出之塔")[真魂者](True_Soul.md "真魂者")。这会开始[跟随护卫队](Follow_the_Convoy.md "跟随护卫队")。
+如果选择通过[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")抵达幽影诅咒之地，一个地精会迎接他们，并将队伍送到一个会合点等待卡'尼斯和护卫队引导他们前往[月出之塔](Moonrise_Towers.md "月出之塔")，在那里队伍可以[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")[真魂者](True_Soul.md "真魂者")。这会开始[跟随护卫队](Follow_the_Convoy.md "跟随护卫队")。
 
 卡'尼斯将队伍以及护卫队的其他成员运送到月出之塔。在途中，布兰索斯与埃林代尔、马努斯和斯凯温伏击了护卫队。队伍可以选择背叛护卫队并帮助竖琴手，或者保护护卫队以继续其真魂者的伪装。
 
@@ -391,7 +391,7 @@ UUID
    _“胜利就是胜利。我们的脑袋还在——这值得庆祝。”_ — 斯凯温
 1. [↑](#cite_ref-3) 与[埃林代尔](Elindale.md "埃林代尔")的对话：
    _“休息一下，布兰。品味我们战胜蛛化精灵的胜利。”_ — 埃林代尔
-   _“等[凯瑟里克](Ketheric_Thorm.md "凯瑟里克·索姆")死了我再庆祝。在此之前不行。”_ — 布兰索斯
+   _“等[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")死了我再庆祝。在此之前不行。”_ — 布兰索斯
    _“我们还活着，布兰。这至少值得欢呼一下。”_
    _“你见过我欢呼吗？”_
    _“总会有第一次。”_

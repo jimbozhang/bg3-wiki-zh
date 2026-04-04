@@ -4,7 +4,7 @@
 
 ## 描述
 
-当一个[豺狼人](Gnoll.md "豺狼人")通过[近战攻击](melee.md "近战攻击")[击倒](Downed_(Condition).md "倒地 (状态)")一个生物时，该豺狼人可以使用一个[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半，并进行一次啃咬攻击。
+当一个[豺狼人](Gnoll.md "豺狼人")通过[近战](melee.md "近战")[击倒](Downed_(Condition).md "倒地 (状态)")一个生物时，该豺狼人可以使用一个[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半，并进行一次啃咬攻击。
 
 ## 状态：横冲直撞
 
@@ -22,7 +22,7 @@
 
 ## 简要预览
 
-当通过[近战攻击](melee.md "近战攻击")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
+当通过[近战](melee.md "近战")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
 ---
 *Source: [Rampage](https://bg3.wiki/wiki/Rampage)*

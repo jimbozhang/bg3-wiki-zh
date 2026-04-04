@@ -10,34 +10,34 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 副职](#subclasses)
-- [3 职业进阶](#class-progression)
-- [4 职业信息](#class-information)
-  - [4.1 属性](#attributes)
-  - [4.2 初始熟练项](#starting-proficiencies)
-  - [4.3 多职业熟练项](#multiclass-proficiencies)
-- [5 等级进阶](#level-progression)
-  - [5.1 等级 1](#level-1)
-  - [5.2 等级 2](#level-2)
-  - [5.3 等级 3](#level-3)
-    - [5.3.1 选择副职](#select-a-subclass)
-  - [5.4 等级 4](#level-4)
+- [1 概述](#概述)
+- [2 副职](#副职)
+- [3 职业进阶](#职业进阶)
+- [4 职业信息](#职业信息)
+  - [4.1 属性](#属性)
+  - [4.2 初始熟练项](#初始熟练项)
+  - [4.3 多职业熟练项](#多职业熟练项)
+- [5 等级进阶](#等级进阶)
+  - [5.1 等级 1](#等级-1)
+  - [5.2 等级 2](#等级-2)
+  - [5.3 等级 3](#等级-3)
+    - [5.3.1 选择副职](#选择副职)
+  - [5.4 等级 4](#等级-4)
     - [5.4.1 副职特性：](#subclass-features:)
-  - [5.5 等级 5](#level-5)
-  - [5.6 等级 6](#level-6)
-  - [5.7 等级 7](#level-7)
+  - [5.5 等级 5](#等级-5)
+  - [5.6 等级 6](#等级-6)
+  - [5.7 等级 7](#等级-7)
     - [5.7.1 副职特性：](#subclass-features:_2)
-  - [5.8 等级 8](#level-8)
+  - [5.8 等级 8](#等级-8)
     - [5.8.1 副职特性：](#subclass-features:_3)
-  - [5.9 等级 9](#level-9)
-  - [5.10 等级 10](#level-10)
+  - [5.9 等级 9](#等级-9)
+  - [5.10 等级 10](#等级-10)
     - [5.10.1 副职特性：](#subclass-features:_4)
-  - [5.11 等级 11](#level-11)
+  - [5.11 等级 11](#等级-11)
     - [5.11.1 副职特性：](#subclass-features:_5)
-  - [5.12 等级 12](#level-12)
-- [6 著名战士](#notable-fighters)
-- [7 另见](#see-also)
+  - [5.12 等级 12](#等级-12)
+- [6 著名战士](#著名战士)
+- [7 另见](#另见)
 
 ## 概述
 
@@ -98,7 +98,7 @@
 [盾牌](Shields.md "盾牌")
 技能熟练项（选择2项）
 [体操](Acrobatics.md "体操"), [驯兽](Animal_Handling.md "驯兽"), [运动](Athletics.md "运动"), [历史的](History.md "历史的"), [洞悉](Insight.md "洞悉"), [威吓](Intimidation.md "威吓"), [察觉技能](Perception.md "察觉技能"), [求生](Survival.md "求生")
-您获得对每个您[熟练](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。在角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
+您获得对每个您[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。在角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
 初始装备
 [长剑](Longsword.md "长剑"), [鳞甲](Scale_Mail.md "鳞甲"), [皮靴](Leather_Boots.md "皮靴")
 
@@ -116,7 +116,7 @@
 ### 等级 1
 
 [回气](Second_Wind.md "回气") ()
-消耗您的耐力来保护自己。您恢复 1d10 + 战士等级 [生命值](Healing.md "治疗")。（充能：[短休](Short_rest.md "短休")。）
+消耗您的耐力来保护自己。您恢复 1d10 + 战士等级 [治疗](Healing.md "治疗")。（充能：[短休](Short_rest.md "短休")。）
 
 [战斗风格](Fighting_style.md "战斗风格")
 选择一种战斗风格：
@@ -165,7 +165,7 @@
 
 获得以下戏法之一：
 
-- [神导术](Guidance.md "神导术") * [光亮术](Light.md "光亮术")
+- [神导术](Guidance.md "神导术") * [轻型](Light.md "轻型")
 - [克敌机先](True_Strike.md "克敌机先")
 
 |
@@ -208,7 +208,7 @@
 
 | [奥术射手](Arcane_Archer.md "奥术射手") | [战斗大师](Battle_Master.md "战斗大师") | [冠军勇士](Champion.md "冠军勇士") | [奥法骑士](Eldritch_Knight.md "奥法骑士") |
 | --- | --- | --- | --- |
-| 获得 [奥秘](Arcana.md "奥秘") 熟练项。获得 [自然](Nature.md "自然") 熟练项。获得 4 支 [奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "奥术射手") 选择 3 种 [奥术射击](Arcane_Archer#Arcane_Shots.md#Arcane_Shots "奥术射手") 获得以下戏法之一：[神导术](Guidance.md "神导术") [光亮术](Light.md "光亮术") [克敌机先](True_Strike.md "克敌机先") | 获得 4 个 [卓越骰子](Battle_Master#Level_3.md#Level_3 "战斗大师") 选择 3 种 [战斗策略](Battle_Master#Level_3.md#Level_3 "战斗大师") | [精通重击](Improved_Critical_Hit.md "精通重击") | [武器绑定](Weapon_Bond.md "武器绑定") 新法术：获得两个一级法术位 选择 2 个 [戏法](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士") 选择 2 个 [法术](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士")（仅限[防护学派](Abjuration.md "防护学派")或[塑能学派](Evocation.md "塑能学派")） 选择 1 个 [法术](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士")（任意学派） |
+| 获得 [奥秘](Arcana.md "奥秘") 熟练项。获得 [自然](Nature.md "自然") 熟练项。获得 4 支 [奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "奥术射手") 选择 3 种 [奥术射击](Arcane_Archer#Arcane_Shots.md#Arcane_Shots "奥术射手") 获得以下戏法之一：[神导术](Guidance.md "神导术") [轻型](Light.md "轻型") [克敌机先](True_Strike.md "克敌机先") | 获得 4 个 [卓越骰子](Battle_Master#Level_3.md#Level_3 "战斗大师") 选择 3 种 [战斗策略](Battle_Master#Level_3.md#Level_3 "战斗大师") | [精通重击](Improved_Critical_Hit.md "精通重击") | [武器绑定](Weapon_Bond.md "武器绑定") 新法术：获得两个一级法术位 选择 2 个 [戏法](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士") 选择 2 个 [法术](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士")（仅限[防护学派](Abjuration.md "防护学派")或[塑能学派](Evocation.md "塑能学派")） 选择 1 个 [法术](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士")（任意学派） |
 
 - [曲射](Curving_Shot.md "曲射")
 

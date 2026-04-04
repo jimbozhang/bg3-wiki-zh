@@ -74,11 +74,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -126,11 +126,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -178,11 +178,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -206,14 +206,14 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 画廊](#gallery)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 画廊](#画廊)
 
 ## 出场
 

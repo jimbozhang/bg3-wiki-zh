@@ -11,7 +11,7 @@
 
 ### 阵营
 
-[伊尔梅特教会](Ilmater.md "Ilmater")
+[伊尔梅特](Ilmater.md "伊尔梅特")
 
 ### 家族
 
@@ -81,7 +81,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -129,7 +129,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -177,7 +177,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -199,12 +199,12 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 盟友](#allies)
-- [3 相关任务](#related-quests)
-- [4 相关文献](#related-literature)
-- [5 画廊](#gallery)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 盟友](#盟友)
+- [3 相关任务](#相关任务)
+- [4 相关文献](#相关文献)
+- [5 画廊](#画廊)
 
 ## 出场
 

@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 获取术法点](#gaining-sorcery-points)
-- [3 获取与兑换术法点](#gaining-and-exchanging-sorcery-points)
-- [4 术法点用途](#sorcery-point-uses)
+- [1 概述](#概述)
+- [2 获取术法点](#获取术法点)
+- [3 获取与兑换术法点](#获取与兑换术法点)
+- [4 术法点用途](#术法点用途)
 
 ## 概述
 

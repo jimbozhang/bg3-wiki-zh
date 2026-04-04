@@ -101,15 +101,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -161,15 +161,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -221,15 +221,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -259,14 +259,14 @@ Stats
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 错误](#bugs)
-- [5 图库](#gallery)
-- [6 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 错误](#错误)
+- [5 图库](#图库)
+- [6 外部链接](#外部链接)
 
 ## 参与度
 
@@ -278,7 +278,7 @@ Stats
 
 ### 攻击与能力
 
-塔汉有两个[荒野形态](Wild_Shape.md "Wild Shape")冲锋，并可以使用二级[法术位](Spells.md "Spells")施放法术。
+塔汉有两个[荒野形态](Wild_Shape.md "Wild Shape")冲锋，并可以使用二级[法术](Spells.md "法术")施放法术。
 
 [灼热金属](Heat_Metal.md "Heat Metal") (+ )
 
@@ -337,7 +337,7 @@ Stats
 
 [荒野形态：狼](Wild_Shape_colon__Wolf.md "Wild Shape: Wolf") (+ )
 
-变身为恐狼，可以[激励](Inciting_Howl_(Wolf).md "Inciting Howl (Wolf)")盟友和[分心](Exposing_Bite.md "Exposing Bite")敌人。恐狼的起始生命值为18[生命值](Hit_Points.md "Hit points")，每两级德鲁伊等级提升一次。
+变身为恐狼，可以[激励](Inciting_Howl_(Wolf).md "Inciting Howl (Wolf)")盟友和[暴露啃咬](Exposing_Bite.md "暴露啃咬")敌人。恐狼的起始生命值为18[生命值](Hit_Points.md "Hit points")，每两级德鲁伊等级提升一次。
 
 在动物形态下，你无法说话或施放法术。你获得野兽形态的属性——不包括你的[智力](Intelligence.md "Intelligence")、[感知](Wisdom.md "Wisdom")和[魅力](Charisma.md "Charisma")值。
 

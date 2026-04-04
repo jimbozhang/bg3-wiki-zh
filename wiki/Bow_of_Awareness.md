@@ -24,7 +24,7 @@ UID `MAG_Generic_01_Shortbow_1` UUID `c57ba806-b340-4307-9c37-170792052b8d` ### 
 **持有此物品获得：**
 
 [罕遭突袭](Seldom_Caught_Unawares_(+1).md)
-你获得 +1 的[先攻掷骰](Initiative.md "Initiative")加值。
+你获得 +1 的[先攻](Initiative.md "先攻")加值。
 
 ### 武器动作
 

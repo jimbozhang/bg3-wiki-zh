@@ -2,7 +2,7 @@
 
 关于其他版本的内心恐惧，请参见 [内心恐惧（消歧义）](Mapped_Terror_(disambiguation)..md)
 
-**内心恐惧：蜘蛛** 是一个 [6级幻术法术](Spells.md "Spells")。此法术通过将 [维康妮亚·迪佛](Viconia_DeVir.md "Viconia_DeVir") 及其两名盟友转变为凶猛的蜘蛛来恐吓目标。队伍成员无法学习此法术。
+**内心恐惧：蜘蛛** 是一个 [法术](Spells.md "法术")。此法术通过将 [维康妮亚·迪佛](Viconia_DeVir.md "Viconia_DeVir") 及其两名盟友转变为凶猛的蜘蛛来恐吓目标。队伍成员无法学习此法术。
 
 ## 描述
 

@@ -26,7 +26,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -104,35 +104,35 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
-该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有优势；免疫魔法[沉睡](Sleeping_(Condition).md) 效果。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉检定具有劣势。
 
@@ -186,35 +186,35 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
-该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有优势；免疫魔法[沉睡](Sleeping_(Condition).md) 效果。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉检定具有劣势。
 
@@ -268,39 +268,39 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
-该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其 3 米 (10 英尺) 范围内的盟友获得该生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有优势；免疫魔法[沉睡](Sleeping_(Condition).md) 效果。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "坚韧复仇")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你用[借机攻击](Opportunity_Attack.md "借机攻击")击中敌人，你的[移动速度](Movement_speed.md "移动速度")在下一回合增加 4.5 米 / 15 英尺。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉检定具有劣势。
 
@@ -330,15 +330,15 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 月出之塔](#moonrise-towers)
-    - [1.1.2 保卫月出之塔](#defending-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 仅限硬核](#tactician-only)
-  - [2.2 战利品](#loot)
-- [3 闲聊](#idle-banter)
+- [1 参与度](#参与度)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 月出之塔](#月出之塔)
+    - [1.1.2 保卫月出之塔](#保卫月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 仅限硬核](#仅限硬核)
+  - [2.2 战利品](#战利品)
+- [3 闲聊](#闲聊)
 
 ## 参与度
 
@@ -348,7 +348,7 @@ UUID
 
 索雷尼首次出现在[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")，与同为卓尔的[狂热信徒齐拉](Zira.md "狂热信徒齐拉")谈论那些曾接受[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")和[至上真神](Absolute.md "至上真神")接见的[真魂者](True_Soul.md "真魂者")的命运。如果与索雷尼互动，她会告知队伍他们已将所有货物转移到外面的[码头](Moonrise_Towers.md#Docks "月出之塔")。
 
-如果队伍试图⁠[帮助侏儒](Rescue_Wulbren.md "解救乌尔布伦")和⁠[提夫林逃离](Rescue_the_Tieflings.md "解救提夫林")监狱，当牢房被打开（由队伍或典狱长打开）时，索雷尼可以加入[典狱长](The_Warden.md "典狱长")追捕逃犯。如果队伍不干预，索雷尼可以与囚犯交战并杀死他们。
+如果队伍试图⁠[解救乌尔布伦](Rescue_Wulbren.md "解救乌尔布伦")和⁠[解救提夫林](Rescue_the_Tieflings.md "解救提夫林")监狱，当牢房被打开（由队伍或典狱长打开）时，索雷尼可以加入[典狱长](The_Warden.md "典狱长")追捕逃犯。如果队伍不干预，索雷尼可以与囚犯交战并杀死他们。
 
 #### 保卫月出之塔
 
@@ -468,7 +468,7 @@ UUID
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与其近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与其近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 

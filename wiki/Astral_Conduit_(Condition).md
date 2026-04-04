@@ -2,7 +2,7 @@
 
 **星界导管**
 
-- 受影响的实体在保持[星界裂缝](Astral_Rift.md "星界裂缝")开启时无法移动、执行动作、附赠动作或反应，但可以每隔一回合[召唤](Extraplanar_Summons.md "跨位面召唤")一名盟友。
+- 受影响的实体在保持[星界裂缝](Astral_Rift.md "星界裂缝")开启时无法移动、执行动作、附赠动作或反应，但可以每隔一回合[跨位面召唤](Extraplanar_Summons.md "跨位面召唤")一名盟友。
 
 ## 属性
 
@@ -24,7 +24,7 @@
 
 ## 简要预览
 
-在保持[星界裂缝](Astral_Rift.md "星界裂缝")开启时无法移动、执行动作、附赠动作或反应，但可以每隔一回合[召唤](Extraplanar_Summons.md "跨位面召唤")一名盟友。
+在保持[星界裂缝](Astral_Rift.md "星界裂缝")开启时无法移动、执行动作、附赠动作或反应，但可以每隔一回合[跨位面召唤](Extraplanar_Summons.md "跨位面召唤")一名盟友。
 
 ---
 *Source: [Astral Conduit (Condition)](https://bg3.wiki/wiki/Astral_Conduit_(Condition)*

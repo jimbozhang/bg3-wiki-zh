@@ -30,7 +30,7 @@
 
 你还好吗，小宝贝？真不敢相信你让某个小混蛋溜走了。我都会羞愧难当。别担心，我的[红帽子](Redcap_(creature).md) 抓住了那个混蛋。他们正慢慢折磨他。尖叫声几天前就停了，但啜泣声还在继续。他死前会后悔招惹了一个鬼婆。
 
-一个心智衰退的母亲？你太了解我了。我为[她](Mask_of_Regret_(Overgrown_Tunnel).md) 准备了最可爱的[面具](Whispering_Mask.md "低语面具")。
+一个心智衰退的母亲？你太了解我了。我为[她](Mask_of_Regret_(Overgrown_Tunnel).md) 准备了最可爱的[低语面具](Whispering_Mask.md "低语面具")。
 
 你必须来探——
 

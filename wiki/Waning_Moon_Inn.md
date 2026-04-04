@@ -27,19 +27,19 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 主厅](#main-hall)
-  - [1.2 后室实验室](#backroom-laboratory)
-  - [1.3 酿酒厂外](#outside-the-distillery)
-- [2 相关任务](#related-quests)
-- [3 角色](#characters)
-- [4 战利品](#loot)
-  - [4.1 任务物品](#quest-items)
-  - [4.2 精良物品](#notable-items)
-  - [4.3 箱子与埋藏宝藏](#chests-and-buried-treasure)
-- [5 相关文献](#related-literature)
-- [6 注释与参考](#notes-and-references)
-- [7 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 主厅](#主厅)
+  - [1.2 后室实验室](#后室实验室)
+  - [1.3 酿酒厂外](#酿酒厂外)
+- [2 相关任务](#相关任务)
+- [3 角色](#角色)
+- [4 战利品](#战利品)
+  - [4.1 任务物品](#任务物品)
+  - [4.2 精良物品](#精良物品)
+  - [4.3 箱子与埋藏宝藏](#箱子与埋藏宝藏)
+- [5 相关文献](#相关文献)
+- [6 注释与参考](#注释与参考)
+- [7 外部链接](#外部链接)
 
 ## 概述
 
@@ -63,7 +63,7 @@
 - **给他讲个故事**（[表演](Performance.md "表演")检定）<sup>[\[1\]](#cite_note-1)</sup>
 - **反问信息** 或 **进入下一轮** \_\_
 
-西索博得在互动的队伍成员拒绝喝酒或在对话中任何检定失败之前一直保持温顺；如果发生任何一种情况，他会立即发起攻击。所有可能的豁免检定、取悦西索博得的故事以及相应的检定都列在[他的页面](Thisobald_Thorm.md "西索博得·索姆")上。
+西索博得在互动的队伍成员拒绝喝酒或在对话中任何检定失败之前一直保持温顺；如果发生任何一种情况，他会立即发起攻击。所有可能的豁免检定、取悦西索博得的故事以及相应的检定都列在[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")上。
 
 对付西索博得可能会让队伍获得以下一项或多项激励点：
 
@@ -83,11 +83,11 @@
 - ⁠[家族屠杀](Soldier.md#Familicide "士兵")，适用于具有[士兵](Soldier.md "士兵")背景的角色，杀死索姆家族所有重要成员，凯瑟里克除外。
 - ⁠[权力腐蚀……绝对](Folk_Hero.md#Power_Corrupts..._Absolutely "平民英雄")，适用于具有[平民英雄](Folk_Hero.md "平民英雄")背景的角色——同上。
 - ⁠[索姆家族的秘密](Sage.md#Thorm_Family_Secrets "智者")，适用于具有[智者](Sage.md "智者")背景的角色——发现上述每位成员的命运。
-- ⁠[阴影小镇](Entertainer.md#Town_of_Shadows "艺人")，适用于具有[艺人](Entertainer.md "艺人")背景的角色——发现上述每位成员以及[石匠行会](Infernal_Mason.md "地狱石匠")首领[地狱石匠](Infernal_Mason.md "地狱石匠")的命运。
+- ⁠[阴影小镇](Entertainer.md#Town_of_Shadows "艺人")，适用于具有[艺人](Entertainer.md "艺人")背景的角色——发现上述每位成员以及[地狱石匠](Infernal_Mason.md "地狱石匠")首领[地狱石匠](Infernal_Mason.md "地狱石匠")的命运。
 
 西索博得·索姆被击败后，可以从他的残骸中搜刮一些[炼金术](Alchemy.md "炼金术")材料和[磨损的钥匙](Worn_Key.md "磨损的钥匙")，后者可以打开吧台尽头的金属门。
 
-吧台后面，DC 10的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")会揭示一些松动的木板，后面藏着[玛德琳的账簿](Madeline's_Ledger.md "玛德琳的账簿")，这是任务[惩罚邪恶](Punish_the_Wicked.md "惩罚邪恶")所必需的。如果队伍拥有此任务并离开主建筑，一只白色[渡鸦](Raven_(white).md "渡鸦（白色）")会出现在附近，提醒他们[往日身影](He_Who_Was.md "往日身影")的请求，然后传送离开。<sup>[\[2\]](#cite_note-2)</sup>
+吧台后面，DC 10的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")会揭示一些松动的木板，后面藏着[玛德琳的账簿](Madeline's_Ledger.md "玛德琳的账簿")，这是任务[惩罚邪恶](Punish_the_Wicked.md "惩罚邪恶")所必需的。如果队伍拥有此任务并离开主建筑，一只白色[渡鸦](Raven_(white).md "渡鸦（白色）")会出现在附近，提醒他们[往日身影](He_Who_Was.md "往日身影")的请求，然后传送离开。<sup>[\[2\]](#cite_note-2)</sup>
 
 主厅周围和附近的几个箱子装有各种炼金材料；X: -208 Y: -90处的箱子内有一瓶[深邃沉眠药水](Potion_of_Angelic_Slumber.md "深邃沉眠药水")。此外，靠在吧台旁的是[卑劣短棒](Rat_Bat.md "卑劣短棒")。建筑周围可以收集到各种葡萄酒和啤酒杯，未受幽影诅咒影响，可作为[营地补给](Camp_supplies.md "营地补给")。
 
@@ -97,15 +97,15 @@
 
 这是一个洞穴状区域，曾作为西索博得的办公室、私人实验室，以及最珍贵补给和壁橱骷髅——字面意义上的——的储藏室。
 
-区域中央是一个实验室工作台，上面有西索博得的[研究笔记](Research_Notes_(Waning_Moon).md "研究笔记（残月酒厂）")，揭示了他正在开发的一种强效毒药。阅读该书后，成功的DC 14[调查](Investigation.md "调查")[检定](Ability_Check.md "属性检定")会揭示在哪里可以找到该药剂的最后一种成分；标记随后会添加到地图上。<sup>[\[3\]](#cite_note-3)</sup> 尽管笔记中声称，但在实验室周围可以找到三块[紫虫食道](Purple_Worm_Gullet.md "紫虫食道")——刚好足够揭开一种新的毒药涂抹配方。
+区域中央是一个实验室工作台，上面有西索博得的[研究笔记](Research_Notes_(Waning_Moon).md "研究笔记（残月酒厂）")，揭示了他正在开发的一种强效毒药。阅读该书后，成功的DC 14[调查](Investigation.md "调查")[属性检定](Ability_Check.md "属性检定")会揭示在哪里可以找到该药剂的最后一种成分；标记随后会添加到地图上。<sup>[\[3\]](#cite_note-3)</sup> 尽管笔记中声称，但在实验室周围可以找到三块[紫虫食道](Purple_Worm_Gullet.md "紫虫食道")——刚好足够揭开一种新的毒药涂抹配方。
 
-在X: -260 Y: -91处，一个上锁的箱子（需要DC 10[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")撬锁）内有[东倒西歪](Punch-Drunk_Bastard.md "东倒西歪")和专著[《论蛇毒毒素》](On_Serpent_Venom_Toxin.md "《论蛇毒毒素》")。附近的桌子周围散落着几瓶药水和西索博得的个人日记，标题为[残月酒厂：委托货物](The_Waning_Moon_colon__Consignments.md "残月酒厂：委托货物")，揭示了塞伦涅信徒抵抗势力是如何被发现的。
+在X: -260 Y: -91处，一个上锁的箱子（需要DC 10[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")撬锁）内有[东倒西歪](Punch-Drunk_Bastard.md "东倒西歪")和专著[《论蛇毒毒素》](On_Serpent_Venom_Toxin.md "《论蛇毒毒素》")。附近的桌子周围散落着几瓶药水和西索博得的个人日记，标题为[残月酒厂：委托货物](The_Waning_Moon_colon__Consignments.md "残月酒厂：委托货物")，揭示了塞伦涅信徒抵抗势力是如何被发现的。
 
-洞穴的一小部分在X: -258 Y: -96处被改造成储藏区，由一扇带陷阱的金属笼门隔开（DC 15[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")以发现陷阱，DC 14[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")以解除陷阱，DC 5[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")以撬锁）。
+洞穴的一小部分在X: -258 Y: -96处被改造成储藏区，由一扇带陷阱的金属笼门隔开（DC 15[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")以发现陷阱，DC 14[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")以解除陷阱，DC 5[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")以撬锁）。
 
 里面有三个未上锁的粗木箱，装有各种[炼金术](Alchemy.md "炼金术")材料，包括解锁[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")配方所需的[麝香黄藤花瓣](Yellow_Musk_Creeper_Petals.md "麝香黄藤花瓣")。在储藏区的远角，几个桶里装着一名女性的骨骼遗骸；队伍的评论取决于他们是否已经阅读了西索博得的日记。
 
-另一个上锁的箱子在X: -253 Y: -67处（DC 10[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")），内有[腐液手套](Ichorous_Gloves.md "腐液手套")和更多炼金材料。
+另一个上锁的箱子在X: -253 Y: -67处（DC 10[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")），内有[腐液手套](Ichorous_Gloves.md "腐液手套")和更多炼金材料。
 
 ### 酿酒厂外
 
@@ -113,7 +113,7 @@
 
 在前院X: -182 Y: -60处有一个公告板，上面有几则宠物失踪的公告。这实际上只是一组可交互对象的一部分；第二部分是[雷斯文征税所](Reithwin_Tollhouse.md "雷斯文征税所")附近的一堆宠物项圈。队伍成员的评论取决于他们先找到哪一半。
 
-在X: -248 Y: -4处的一个小谷仓里，有一个秘密储藏处，里面藏着西索博得·索姆要求的炼金材料。如果队伍在阅读他的研究笔记时成功通过了[调查](Investigation.md "调查")检定，一个[土堆](Dirt_Mound.md "土堆")已经显露，可以挖掘。否则，需要通过DC 21的[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到它。里面有足够的[死尸玫瑰](Corpse_Rose.md "死尸玫瑰")来制作一份西索博得发明的恶毒毒药——[西索博得的特制穿肠散](Thisobald's_Brewed-Up_Bellyglummer.md "西索博得的特制穿肠散")。首次制作会获得以下激励点：
+在X: -248 Y: -4处的一个小谷仓里，有一个秘密储藏处，里面藏着西索博得·索姆要求的炼金材料。如果队伍在阅读他的研究笔记时成功通过了[调查](Investigation.md "调查")检定，一个[土堆](Dirt_Mound.md "土堆")已经显露，可以挖掘。否则，需要通过DC 21的[求生](Survival.md "求生")[属性检定](Ability_Check.md "属性检定")才能找到它。里面有足够的[死尸玫瑰](Corpse_Rose.md "死尸玫瑰")来制作一份西索博得发明的恶毒毒药——[西索博得的特制穿肠散](Thisobald's_Brewed-Up_Bellyglummer.md "西索博得的特制穿肠散")。首次制作会获得以下激励点：
 
 - ⁠[业余者的笔记](Criminal.md#Notes_of_an_Amateur "罪犯")，适用于具有[罪犯](Criminal.md "罪犯")背景的角色
 - ⁠[特制冰砷……酿造？](Guild_Artisan.md#Special_Iced_Arsenic..._Brew? "公会工匠")，适用于具有[公会工匠](Guild_Artisan.md "公会工匠")背景的角色
@@ -157,8 +157,8 @@ _此处的条目不重复文章中已提及的内容_
 - X: -197 Y: -89 - 粗糙的箱子
 - X: -219 Y: -86 - 木箱子
 - X: -218 Y: -45 - 木箱子
-- X: -183 Y: -51 - 埋藏的箱子（需要DC 18[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）
-- X: -238 Y: -87 - 埋藏的箱子（需要DC 16[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")才能找到）
+- X: -183 Y: -51 - 埋藏的箱子（需要DC 18[求生](Survival.md "求生")[属性检定](Ability_Check.md "属性检定")才能找到）
+- X: -238 Y: -87 - 埋藏的箱子（需要DC 16[求生](Survival.md "求生")[属性检定](Ability_Check.md "属性检定")才能找到）
 
 ## 相关文献
 

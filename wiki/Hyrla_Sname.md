@@ -81,7 +81,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -129,7 +129,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -177,7 +177,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -209,7 +209,7 @@ UUID
 
 ### 第三章
 
-海拉只能在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")被摧毁且[钢铁卫士](Steel_Watcher.md "钢铁卫士")被停用后找到。她和她的姐妹[皮特里](Peetri_Sname.md "皮特里·斯内姆")站在一具静止的钢铁卫士尸体周围围观，或许对它们的状态感到一丝悲伤。
+海拉只能在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")被摧毁且[钢铁卫士](Steel_Watcher.md "钢铁卫士")被停用后找到。她和她的姐妹[皮特里·斯内姆](Peetri_Sname.md "皮特里·斯内姆")站在一具静止的钢铁卫士尸体周围围观，或许对它们的状态感到一丝悲伤。
 
 ---
 *Source: [Hyrla Sname](https://bg3.wiki/wiki/Hyrla_Sname)*

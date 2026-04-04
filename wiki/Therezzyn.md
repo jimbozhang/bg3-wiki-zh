@@ -96,29 +96,29 @@
 
 - - ## 特性
 
-- [**吉斯灵能武器**](Githborn_Psionic_Weapon.md "吉斯灵能武器")
+- [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")
 
 当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器造成额外 1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少 10。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放[法术或戏法](Spells.md "法术或戏法")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
+在施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会[受惊](Surprised.md "受惊")。
 
 - [**极少措手不及**](Seldom_Caught_Unawares_(+2).md "极少措手不及 (+2)")
 
-你在[先攻掷骰](Initiative.md "先攻掷骰")中获得 +2 加值。
+你在[先攻](Initiative.md "先攻")中获得 +2 加值。
 
 ## 硬核难度属性
 
@@ -170,33 +170,33 @@
 
 - - ## 特性
 
-- [**吉斯灵能武器**](Githborn_Psionic_Weapon.md "吉斯灵能武器")
+- [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")
 
 当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器造成额外 1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少 10。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放[法术或戏法](Spells.md "法术或戏法")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
+在施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**完美哨戒**](Perfect_Sentry.md "完美哨戒")
+- [完美哨戒](Perfect_Sentry.md "完美哨戒")
 
 不会[受惊](Surprised.md "受惊")。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深植其中。
 
 - [**极少措手不及**](Seldom_Caught_Unawares_(+2).md "极少措手不及 (+2)")
 
-你在[先攻掷骰](Initiative.md "先攻掷骰")中获得 +2 加值。
+你在[先攻](Initiative.md "先攻")中获得 +2 加值。
 
 - [**战地施法者：专注**](War_Caster_colon__Concentration.md "战地施法者：专注")
 
@@ -238,7 +238,7 @@ Stats
 
 赛泽恩携带[吉斯碎片](Gith_Shard.md "吉斯碎片")，该碎片可解锁通往审判官房间的路径。因此，队伍最终必须从她那里取回碎片以完成多个任务。
 
-队伍可以主动提出向百夫长展示遗物，或通过[欺瞒](Deception.md "欺瞒")[检定](Ability_Check.md "属性检定")隐藏其存在。如果队伍试图将遗物交给她，赛泽恩会自愿打开通往审判官房间的屏障。如果队伍隐瞒信息，则可以通过扒窃或杀死队长并从其尸体上搜刮来获得碎片。
+队伍可以主动提出向百夫长展示遗物，或通过[欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")隐藏其存在。如果队伍试图将遗物交给她，赛泽恩会自愿打开通往审判官房间的屏障。如果队伍隐瞒信息，则可以通过扒窃或杀死队长并从其尸体上搜刮来获得碎片。
 
 ## 战斗
 

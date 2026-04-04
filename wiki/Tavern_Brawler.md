@@ -28,7 +28,7 @@
   - 荒野形态攻击中的额外元素伤害，例如[腐蚀唾液](Corrosive_Spit.md "Corrosive Spit")的[强酸](Acid.md "Acid")伤害或[雷地拳](Grounded_Thunder_Strike.md "Grounded Thunder Strike")的[雷鸣](Thunder.md "Thunder")伤害，将获得额外的伤害加成，即使在荣誉模式中也是如此。
 - 酒馆殴斗者的额外伤害应用于[投掷](Throw.md "Throw")攻击、[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")攻击和[荒野形态](Wild_Shape.md "Wild Shape")中的某些攻击\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]时，没有伤害类型，因此无法被抵抗，<sup>[\[1\]](#cite_note-Honour-1)</sup> 即使是[万能抗性灵药](Elixir_of_Universal_Resistance.md "Elixir of Universal Resistance")或[守护之链](Warding_Bond.md "Warding Bond")也不行（在这种情况下，施法者和目标都会受到全额伤害）。固定伤害减免效果仍然适用。
 - 在荣誉模式中，[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")攻击不会从酒馆殴斗者那里获得额外伤害。它们会按预期获得攻击掷骰加成。
-  - 尽管对非[投掷](Thrown.md "Thrown")武器使用[投掷](Throw.md "Throw")的行为类似于[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")，但[投掷](Throw.md "Throw")攻击总是同时受益于酒馆殴斗者的攻击掷骰和伤害加成。然而，在荣誉模式中投掷生物时，该生物在落地时不会从酒馆殴斗者那里获得额外伤害。
+  - 尽管对非[投掷攻击](Thrown.md "投掷攻击")武器使用[投掷](Throw.md "Throw")的行为类似于[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")，但[投掷](Throw.md "Throw")攻击总是同时受益于酒馆殴斗者的攻击掷骰和伤害加成。然而，在荣誉模式中投掷生物时，该生物在落地时不会从酒馆殴斗者那里获得额外伤害。
 
 ## 参考资料
 

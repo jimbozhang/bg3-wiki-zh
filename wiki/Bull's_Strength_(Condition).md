@@ -2,7 +2,7 @@
 
 **牛之蛮力**
 
-- 对[力量](Strength.md "力量") [检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。
+- 对[力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。
 - [负重](Carrying_capacity.md "负重")翻倍。
 
 ## 属性
@@ -24,7 +24,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 对[力量](Strength.md "力量") [检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。
+- 对[力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。
 - [负重](Carrying_capacity.md "负重")翻倍。
 
 ---

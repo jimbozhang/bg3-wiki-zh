@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 
@@ -24,7 +24,7 @@
 
 ## 备注
 
-- 需通过 DC 10 的 [调查](Investigation.md "Investigation") [检定](Ability_Check.md "Ability check") 才能发现尸体。
+- 需通过 DC 10 的 [调查](Investigation.md "Investigation") [属性检定](Ability_Check.md "属性检定") 才能发现尸体。
 
 ---
 *Source: [Ffion's Key](https://bg3.wiki/wiki/Ffion's_Key)*

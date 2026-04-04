@@ -106,15 +106,15 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被 [受惊](Surprised.md "受惊")。
 
-- [**坟墓魔法**](Grave_Magic.md "坟墓魔法")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 每当使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个活物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
@@ -122,11 +122,11 @@
 
 此生物如此强大，无法被他人的魔法意志所控制。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对任何驱散不死生物效果的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
@@ -190,15 +190,15 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被 [受惊](Surprised.md "受惊")。
 
-- [**坟墓魔法**](Grave_Magic.md "坟墓魔法")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 每当使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个活物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
@@ -206,11 +206,11 @@
 
 此生物如此强大，无法被他人的魔法意志所控制。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对任何驱散不死生物效果的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
@@ -270,15 +270,15 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被 [受惊](Surprised.md "受惊")。
 
-- [**坟墓魔法**](Grave_Magic.md "坟墓魔法")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 每当使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个活物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
@@ -286,15 +286,15 @@
 
 此生物如此强大，无法被他人的魔法意志所控制。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对任何驱散不死生物效果的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
@@ -354,15 +354,15 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被 [受惊](Surprised.md "受惊")。
 
-- [**坟墓魔法**](Grave_Magic.md "坟墓魔法")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 每当使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个活物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
@@ -376,17 +376,17 @@
 
 - [**传奇动作：亡者荒芜**](Legendary_Action_colon__The_Dead_Wastes.md "传奇动作：亡者荒芜")
 
-每当有生物死亡时，每回合一次，巴萨扎尔可使用其传奇动作在其死亡位置制造一团黯蚀瘴气，使不死生物在回合开始时恢复 4d6⁠⁠[生命值](Healing.md "治疗")，并对活物造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
+每当有生物死亡时，每回合一次，巴萨扎尔可使用其传奇动作在其死亡位置制造一团黯蚀瘴气，使不死生物在回合开始时恢复 4d6⁠⁠[治疗](Healing.md "治疗")，并对活物造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对任何驱散不死生物效果的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
@@ -416,20 +416,20 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-- [2 参与](#involvement)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-    - [3.1.1 荣誉模式](#honour-mode)
-  - [3.2 盟友](#allies)
-  - [3.3 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 相关文献](#related-literature)
-  - [5.1 巴萨扎尔撰写](#written-by-balthazar)
-- [6 画廊](#gallery)
-- [7 注释与参考](#notes-and-references)
-- [8 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+- [2 参与](#参与)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+    - [3.1.1 荣誉模式](#荣誉模式)
+  - [3.2 盟友](#盟友)
+  - [3.3 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 相关文献](#相关文献)
+  - [5.1 巴萨扎尔撰写](#巴萨扎尔撰写)
+- [6 画廊](#画廊)
+- [7 注释与参考](#注释与参考)
+- [8 外部链接](#外部链接)
 
 ## 概述
 
@@ -443,7 +443,7 @@ Stats
 
 接近这扇门或他的仆从（无论在哪里找到），通常会触发对话。当 [暗夜法官](Dark_Justiciar.md "暗夜法官") 复仇者攻击他的亡灵仆从和队伍时，战斗会在对话结束时开始。这场战斗结束后，队伍可能有机会与巴萨扎尔进一步交谈，了解他正在寻找的遗物。在此遭遇后，也可以选择随时攻击并杀死巴萨扎尔，也可以完全避免与巴萨扎尔及其仆从接触，直到进入 [堕影冥界](Shadowfell.md "堕影冥界")。
 
-如果选择与巴萨扎尔交谈并做出特定对话选择，[吟游诗人](Bard.md "吟游诗人") 可通过 DC 14 [历史的](History.md "历史的") [检定](Ability_Check.md "属性检定") 了解更多关于他如何得名的信息<sup>[\[4\]](#cite_note-4)</sup>。队伍也可以通过 DC 14 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定") <sup>[\[5\]](#cite_note-5)</sup> 获得他的 [铃铛](Summon_Golem_Bell.md "召唤魔像铃铛")，可在战斗中用于召唤 [肉肉](Flesh.md "肉肉")。<sup>[\[6\]](#cite_note-6)</sup>
+如果选择与巴萨扎尔交谈并做出特定对话选择，[吟游诗人](Bard.md "吟游诗人") 可通过 DC 14 [历史的](History.md "历史的") [属性检定](Ability_Check.md "属性检定") 了解更多关于他如何得名的信息<sup>[\[4\]](#cite_note-4)</sup>。队伍也可以通过 DC 14 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定") <sup>[\[5\]](#cite_note-5)</sup> 获得他的 [召唤魔像铃铛](Summon_Golem_Bell.md "召唤魔像铃铛")，可在战斗中用于召唤 [肉肉](Flesh.md "肉肉")。<sup>[\[6\]](#cite_note-6)</sup>
 
 如果之前未被杀死，巴萨扎尔会在穿越堕影冥界边界时第二次遭遇。如果之前未见过他，他会自我介绍并提供帮助他完成任务的机会。无论首次遭遇如何，队伍都可以在多个节点选择杀死巴萨扎尔或帮助他完成任务。
 
@@ -455,7 +455,7 @@ Stats
 
 除非在对话中通过交易按钮购买，否则巴萨扎尔会在其回合开始时使用 [加速药水](Potion_of_Speed.md "加速药水") 以获得 [加速](Hastened_(Condition).md "加速 (状态)") 状态。如果在巴萨扎尔第一回合战斗前击败他，也有可能获得 [加速药水](Potion_of_Speed.md "加速药水")。
 
-在莎尔铁手神殿的伏击期间，撬开（DC 30 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")）或对其门外的门施放 [敲击术](Knock.md "敲击术") 会迫使他与莎尔信徒进入战斗，在那里他更容易被杀死。
+在莎尔铁手神殿的伏击期间，撬开（DC 30 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")）或对其门外的门施放 [敲击术](Knock.md "敲击术") 会迫使他与莎尔信徒进入战斗，在那里他更容易被杀死。
 
 ### 攻击与能力
 
@@ -550,7 +550,7 @@ Stats
 
 4d6⁠[治疗](Healing.md "治疗")
 
-从新尸体打开一道黯蚀裂隙，使不死生物在回合开始时恢复 4d6[生命值](Healing.md "治疗")，并对活物造成 4d6[黯蚀](Necrotic.md "黯蚀") 伤害。
+从新尸体打开一道黯蚀裂隙，使不死生物在回合开始时恢复 4d6[治疗](Healing.md "治疗")，并对活物造成 4d6[黯蚀](Necrotic.md "黯蚀") 伤害。
 
 范围：18 米 (60 英尺)
 
@@ -622,8 +622,8 @@ Stats
 1. [↑](#cite_ref-2) 与巴萨扎尔交谈时，有一个对话选项可以评论队伍如何从他的笔记中得知名为 [暗夜之歌](Aylin.md "暗夜之歌") 的遗物。如果提到他的笔记，巴萨扎尔会变得激动，称玩家角色为小偷，并要求他们给出理由，说明为什么他不应该让他的造物当场杀死他们。
 1. [↑](#cite_ref-3) 在对话中，可以说明 [泽瑞尔](Z'rell.md "泽瑞尔") 派队伍来检查他的进度。巴萨扎尔回答说他一切尽在掌握，并且“正处于一项宏伟战略之中”。然而，在指挥他的爪牙和队伍时，他对任何延误都表现出不耐烦。
 1. [↑](#cite_ref-4) 巴萨扎尔的名字（和肋骨）取自僧侣 ⁠[巴萨扎尔](https://forgottenrealms.fandom.com/wiki/Balthazar)，这是 ⁠[博德之门 II：巴尔王座](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal) 中的一个角色。
-1. [↑](#cite_ref-5) [游荡者](Rogue.md "游荡者") 只需通过 DC 10 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定") 即可获得巴萨扎尔的 [铃铛](Summon_Golem_Bell.md "召唤魔像铃铛")。
-1. [↑](#cite_ref-6) [肉肉](Flesh.md "肉肉") 无法通过任何法术或药水治疗。\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 如果由巴萨扎尔的 [铃铛](Summon_Golem_Bell.md "召唤魔像铃铛") 召唤，并且肉肉处于或进入 [不死狂怒](Corpulent_Rage.md "不死狂怒") 状态，它会攻击最近的可用目标，包括（前）盟友。因此，如果肉肉在战斗遭遇结束时处于狂怒状态，而队伍返回巴萨扎尔处，他和他的随从会立即变得敌对并攻击队伍。
+1. [↑](#cite_ref-5) [游荡者](Rogue.md "游荡者") 只需通过 DC 10 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定") 即可获得巴萨扎尔的 [召唤魔像铃铛](Summon_Golem_Bell.md "召唤魔像铃铛")。
+1. [↑](#cite_ref-6) [肉肉](Flesh.md "肉肉") 无法通过任何法术或药水治疗。\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 如果由巴萨扎尔的 [召唤魔像铃铛](Summon_Golem_Bell.md "召唤魔像铃铛") 召唤，并且肉肉处于或进入 [不死狂怒](Corpulent_Rage.md "不死狂怒") 状态，它会攻击最近的可用目标，包括（前）盟友。因此，如果肉肉在战斗遭遇结束时处于狂怒状态，而队伍返回巴萨扎尔处，他和他的随从会立即变得敌对并攻击队伍。
 1. [↑](#cite_ref-7) 这是在 [暗夜之歌监狱](Nightsong's_Prison.md "暗夜之歌监狱") 面对时施放的独特 6 级变体，用于从周围的骨头中复活一支骷髅大军。
 
 ## 外部链接

@@ -6,7 +6,7 @@
 
 ## 描述
 
-从 [阴影](Lightly_Obscured.md "轻度遮蔽") 传送到阴影。
+从 [轻度遮蔽](Lightly_Obscured.md "轻度遮蔽") 传送到阴影。
 
 之后，你的下一次近战 [攻击掷骰](Attack_roll.md "攻击掷骰") 将获得 [优势](Advantage.md "优势")。
 

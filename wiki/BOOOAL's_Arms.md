@@ -1,6 +1,6 @@
 # BOOOAL's Arms
 
-**波尔之臂**是[标枪](Javelins.md "Javelins")武器家族的一种常见变体。它是一种单手挥舞的[简单近战武器](Weapons.md "Weapons")。其设计使其非常适合作为投射物[投掷](Thrown.md "Thrown")向敌人。
+**波尔之臂**是[标枪](Javelins.md "Javelins")武器家族的一种常见变体。它是一种单手挥舞的[武器](Weapons.md "武器")。其设计使其非常适合作为投射物[投掷攻击](Thrown.md "投掷攻击")向敌人。
 
 某种幽暗地域甲壳动物的断钳似乎神奇地粘附在骨杆上，形成了一把临时标枪。
 

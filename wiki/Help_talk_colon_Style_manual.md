@@ -16,14 +16,14 @@ ______________________________________________________________________
 
 ## 目录
 
-- [1 讨论](#discussions)
-- [2 关于集体名词使用的建议](#a-suggestion-regarding-use-of-collective-nouns)
-- [3 链接指南](#linking-guidance)
-- [4 推荐为插入的图片添加替代文本](#recommending-alt-text-inserting-images)
-- [5 图片命名](#image-naming)
-- [6 图片重定向](#image-redirects)
-- [7 样式指南修订提案：条件句与时态](#proposed-revision-for-style-guide:_Conditionals_and_Tense)
-- [8 关于使用{{approval}}的指导建议](#proposed-guidance-on-the-use-of-%7B%7Bapproval%7D%7D)
+- [1 讨论](#讨论)
+- [2 关于集体名词使用的建议](#关于集体名词使用的建议)
+- [3 链接指南](#链接指南)
+- [4 推荐为插入的图片添加替代文本](#推荐为插入的图片添加替代文本)
+- [5 图片命名](#图片命名)
+- [6 图片重定向](#图片重定向)
+- [7 样式指南修订提案：条件句与时态](#样式指南修订提案条件句与时态)
+- [8 关于使用{{approval}}的指导建议](#关于使用{{approval}}的指导建议)
 
 ## 讨论
 
@@ -165,7 +165,7 @@ ______________________________________________________________________
 
 这感觉会干扰可读性。我的理解是，这将被视为过度链接（至少按照维基百科的标准），这样会更合理：
 
-“[阿斯代伦](Astarion.md "阿斯代伦") 是一个[精灵](Elf.md "精灵") [游荡者](Rogue.md "游荡者")。在[第一幕](Act_One.md "第一幕")中，阿斯代伦可以被招募。阿斯代伦来自[博德之门](Baldur's_Gate.md "博德之门")。玩家可以通过提高他的[好感度](Approval.md "好感度") 来在游戏中与阿斯代伦恋爱。在[第一幕]中有一个[伙伴任务](The_Pale_Elf.md "苍白的精灵") 给阿斯代伦，可以在[第三幕](Act_Three.md "第三幕")中完成。”
+“[阿斯代伦](Astarion.md "阿斯代伦") 是一个[精灵](Elf.md "精灵") [游荡者](Rogue.md "游荡者")。在[第一幕](Act_One.md "第一幕")中，阿斯代伦可以被招募。阿斯代伦来自[博德之门](Baldur's_Gate.md "博德之门")。玩家可以通过提高他的[好感度](Approval.md "好感度") 来在游戏中与阿斯代伦恋爱。在[第一幕]中有一个[苍白的精灵](The_Pale_Elf.md "苍白的精灵") 给阿斯代伦，可以在[第三幕](Act_Three.md "第三幕")中完成。”
 
 我能得到一些关于我们应该怎么做指导吗？感谢大家能提供的任何帮助。- [Reve](User_colon_Reve.md "用户:Reve") ([讨论](User_talk_colon_Reve.md "用户讨论:Reve")) [02:59, 2023年9月10日 (CEST)](https://bg3.wiki/wiki/Help_talk:Style_manual#c-Reve-20230910005900-Linking_Guidance)回复
 

@@ -1,6 +1,6 @@
 # 伪装术：男性侏儒
 
-**伪装术：男性侏儒** 是一个 [等级 1 幻术学派法术](Spells.md "Spells")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。此法术允许施法者暂时将自己的外观变为男性 [岩侏儒](Gnome.md#Rock_Gnome "Gnome") 的形态。
+**伪装术：男性侏儒** 是一个 [法术](Spells.md "法术")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。此法术允许施法者暂时将自己的外观变为男性 [岩侏儒](Gnome.md#Rock_Gnome "Gnome") 的形态。
 
 ## 描述
 

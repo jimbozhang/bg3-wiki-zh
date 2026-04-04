@@ -1,18 +1,18 @@
 # 解救瓦罗
 
-**解救瓦罗**是《博德之门3》[第一幕](Act_One.md "Act One")中[地精营地](Goblin_Camp.md "Goblin Camp")的一个[任务](Quest.md "Quest")。当队伍进入该区域并接触到被俘并被迫在舞台上表演的[沃洛萨姆·盖达姆](Volo.md "Volo")时，任务即会触发。
+**解救瓦罗**是《博德之门3》[第一幕](Act_One.md "Act One")中[地精营地](Goblin_Camp.md "Goblin Camp")的一个[任务](Quest.md "Quest")。当队伍进入该区域并接触到被俘并被迫在舞台上表演的[瓦罗](Volo.md "瓦罗")时，任务即会触发。
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 瓦罗在翠绿林地](#volo-at-the-emerald-grove)
-  - [2.2 瓦罗在地精营地](#volo-at-the-goblin-camp)
-  - [2.3 瓦罗在营地](#volo-at-camp)
-  - [2.4 在博德之门遇见瓦罗](#meeting-volo-in-baldur's-gate)
-- [3 任务奖励](#quest-rewards)
-- [4 错误](#bugs)
-- [5 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 瓦罗在翠绿林地](#瓦罗在翠绿林地)
+  - [2.2 瓦罗在地精营地](#瓦罗在地精营地)
+  - [2.3 瓦罗在营地](#瓦罗在营地)
+  - [2.4 在博德之门遇见瓦罗](#在博德之门遇见瓦罗)
+- [3 任务奖励](#任务奖励)
+- [4 错误](#错误)
+- [5 备注](#备注)
 
 ## 目标
 
@@ -103,7 +103,7 @@ _如果进行了瓦罗的手术。_
 
 _如果在博德之门第二次救下瓦罗。_
 
-- 瓦罗成为[召集盟友](Gather_Your_Allies.md "Gather Your Allies")中的盟友，在[最终任务](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间授予[瓦罗的怪物指南](Volo's_Guide_to_Monsters_(Condition).md "Volo's Guide to Monsters (Condition)")。
+- 瓦罗成为[召集盟友](Gather_Your_Allies.md "Gather Your Allies")中的盟友，在[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")期间授予[瓦罗的怪物指南](Volo's_Guide_to_Monsters_(Condition).md "Volo's Guide to Monsters (Condition)")。
 
 ## 错误
 

@@ -2,7 +2,7 @@
 
 **破胆斥喝：恐慌**
 
-- 受影响的生物无法移动。恐慌生物在[检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
+- 受影响的生物无法移动。恐慌生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 
 [恐慌](Frightened_(status_group).md)
 
@@ -30,12 +30,12 @@
 
 ## 具有相同堆叠ID的状态
 
-- 受影响的生物无法移动。恐慌生物在[检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
+- 受影响的生物无法移动。恐慌生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 
 [恐慌](Frightened_(Condition).md "恐慌 (状态)")
 |
 
-- 受影响的生物无法移动。恐慌生物在[检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
+- 受影响的生物无法移动。恐慌生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 
 ---
 *Source: [Abjure Enemy: Frightened (Condition)](https://bg3.wiki/wiki/Abjure_Enemy:_Frightened_(Condition)*

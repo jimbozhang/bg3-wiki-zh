@@ -2,9 +2,9 @@
 
 ## 目录
 
-- [1 三级法术](#level-3-spells)
-- [2 物品或变体法术](#item-or-variant-spells)
-- [3 仅限非玩家角色](#non-player_character_only)
+- [1 三级法术](#三级法术)
+- [2 物品或变体法术](#物品或变体法术)
+- [3 仅限非玩家角色](#仅限非玩家角色)
 
 ## 三级法术
 
@@ -23,7 +23,7 @@
 | [元素武器](Elemental_Weapon.md "元素武器") | 3 |  |  | - | 18 米 / 60尺 | - | - |
 | [恐惧](Fear.md "恐惧") | 3 |  |  | 2 回合 | 自身 / 9米 / 30尺 (锥形) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [假死术](Feign_Death.md "假死术") | 3 |  |  | 10 回合 | 1.5 米 / 5尺 | - | - |
-| [火球术术](Fireball.md "火球术术") | 3 |  |  | - | 18 米 / 60尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
+| [火球术](Fireball.md "火球术") | 3 |  |  | - | 18 米 / 60尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
 | [气化形体](Gaseous_Form.md "气化形体") | 3 |  |  | 长休 | 1.5 米 / 5尺 | - | - |
 | [守卫刻文](Glyph_of_Warding.md "守卫刻文") | 3 |  |  | - | 9 米 / 30尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [给予飞行](Grant_Flight.md "给予飞行") | 3 |  |  | 10 回合 | 1.5 米 / 5尺 | - | - |

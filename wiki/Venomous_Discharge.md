@@ -1,6 +1,6 @@
 # 猛毒扩散
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Venomous_Discharge.md "Special:WhatLinksHere/Venomous Discharge")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[猛毒扩散](Special_colon_WhatLinksHere/Venomous_Discharge.md "猛毒扩散")的，请考虑编辑该链接，将其指向正确的页面。
 
 **猛毒扩散**可能指：
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-此生物受到玛门的祝福，拥有一层金色的第二层皮肤，使其[体质](Constitution.md "Constitution")提升至20，基础[护甲等级](Armour_Class.md "Armour Class")提升至15，并额外获得66点[生命值](Healing.md "Healing")。
+此生物受到玛门的祝福，拥有一层金色的第二层皮肤，使其[体质](Constitution.md "Constitution")提升至20，基础[护甲等级](Armour_Class.md "Armour Class")提升至15，并额外获得66点[治疗](Healing.md "治疗")。
 
 ## 学习方式
 

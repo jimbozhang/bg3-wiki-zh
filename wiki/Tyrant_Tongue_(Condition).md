@@ -4,7 +4,7 @@
 
 - 主宰者的孢子已注入声带，使任何聆听者都感到恐惧和怀疑。
 
-- 在[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")上具有+2加值。
+- 在[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")上具有+2加值。
 
 ## 属性
 
@@ -22,7 +22,7 @@ _维基数据库中未定义_
 
 - 主宰者的孢子已注入声带，使任何聆听者都感到恐惧和怀疑。
 
-- 在[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")上具有+2加值。
+- 在[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")上具有+2加值。
 
 ---
 *Source: [Tyrant Tongue (Condition)](https://bg3.wiki/wiki/Tyrant_Tongue_(Condition)*

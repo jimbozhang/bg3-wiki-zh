@@ -70,7 +70,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -118,7 +118,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -166,7 +166,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -188,16 +188,16 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 伙伴好感度](#companion-approval)
-- [3 可观战利品](#notable-loot)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 可观战利品](#可观战利品)
 
 ## 出场
 
 ### 第一幕
 
-受惊的野猪可以在[阿斯代伦](Astarion.md "阿斯代伦")首次与队伍会面的地点附近遇到。这头野猪害怕[类人生物](Humanoid.md "类人生物")，并视其为凶残的捕食者，但可以通过[动物交谈](Speak_with_Animals.md "动物交谈")或通过一次 DC 10 的[驯兽](Animal_Handling.md "驯兽")[检定](Ability_Check.md "属性检定")来安抚它。安抚野猪会获得某些队伍成员的[好感度](Approval.md "好感度")。或者，也可以杀死野猪以获取[营地补给](Camp_supplies.md "营地补给")。仅仅观察野猪就会导致它平静地离开。
+受惊的野猪可以在[阿斯代伦](Astarion.md "阿斯代伦")首次与队伍会面的地点附近遇到。这头野猪害怕[类人生物](Humanoid.md "类人生物")，并视其为凶残的捕食者，但可以通过[动物交谈](Speak_with_Animals.md "动物交谈")或通过一次 DC 10 的[驯兽](Animal_Handling.md "驯兽")[属性检定](Ability_Check.md "属性检定")来安抚它。安抚野猪会获得某些队伍成员的[好感度](Approval.md "好感度")。或者，也可以杀死野猪以获取[营地补给](Camp_supplies.md "营地补给")。仅仅观察野猪就会导致它平静地离开。
 
 ## 伙伴好感度
 

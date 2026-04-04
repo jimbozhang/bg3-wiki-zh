@@ -75,13 +75,13 @@
 
 75 千克 (150 磅)
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -89,19 +89,19 @@
 
 近战范围的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -131,13 +131,13 @@
 
 75 千克 (150 磅)
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -145,19 +145,19 @@
 
 近战范围的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -187,13 +187,13 @@
 
 75 千克 (150 磅)
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -201,19 +201,19 @@
 
 近战范围的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -243,15 +243,15 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三章](#act-three)
-- [2 闲聊](#idle-banter)
-  - [2.1 如果钢铁卫士铸造厂完好无损](#if-the-steel-watch-foundry-is-intact)
-  - [2.2 如果钢铁卫士铸造厂被摧毁](#if-the-steel-watch-foundry-is-destroyed)
-  - [2.3 如果恩维尔·戈塔什被杀](#if-enver-gortash-is-killed)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
+- [1 出场](#出场)
+  - [1.1 第三章](#第三章)
+- [2 闲聊](#闲聊)
+  - [2.1 如果钢铁卫士铸造厂完好无损](#如果钢铁卫士铸造厂完好无损)
+  - [2.2 如果钢铁卫士铸造厂被摧毁](#如果钢铁卫士铸造厂被摧毁)
+  - [2.3 如果恩维尔·戈塔什被杀](#如果恩维尔·戈塔什被杀)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
 
 ## 出场
 
@@ -304,7 +304,7 @@ UUID
 ### 如果钢铁卫士铸造厂被摧毁
 
 - 科洛贝格
-  [铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")成废墟了！没什么可守的了！我们现在能把货物送到码头了吗？
+  [钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")成废墟了！没什么可守的了！我们现在能把货物送到码头了吗？
 
 - 拳手潘泰拉
   还不行，公民。整个地方都是犯罪现场。

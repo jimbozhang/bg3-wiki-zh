@@ -92,15 +92,15 @@
 
 - - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
-- [**健壮**](Tough.md "健壮")
+- [健壮](Tough.md "健壮")
 
 你的[生命值](Hit_Points.md "生命值")上限每升一级增加2点。
 
@@ -126,19 +126,19 @@ UUID
 
 属性
 
-`LOW_Golbraith` **加尔布雷斯·斯特雷迪瓦斯**是一个[人类](Human.md "人类")，可以在[下城区](Lower_City.md "下城区")[他的房子](Golbraith's_Cellar.md "加尔布雷斯地窖")的一楼找到。他大致基于一位《博德之门3》的粉丝，该粉丝被诊断出患有阿尔茨海默症。<sup>[\[1\]](#cite_note-1)</sup><sup>[\[2\]](#cite_note-2)</sup>
+`LOW_Golbraith` **加尔布雷斯·斯特雷迪瓦斯**是一个[人类](Human.md "人类")，可以在[下城区](Lower_City.md "下城区")[加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖")的一楼找到。他大致基于一位《博德之门3》的粉丝，该粉丝被诊断出患有阿尔茨海默症。<sup>[\[1\]](#cite_note-1)</sup><sup>[\[2\]](#cite_note-2)</sup>
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 相关剧情](#involvement)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 著作](#authored-literature)
-- [5 相关文献](#related-literature)
-- [6 注释](#notes)
-- [7 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 相关剧情](#相关剧情)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 著作](#著作)
+- [5 相关文献](#相关文献)
+- [6 注释](#注释)
+- [7 外部链接](#外部链接)
 
 ## 概述
 
@@ -148,7 +148,7 @@ UUID
 
 加尔布雷斯可以在他家的一楼找到，该建筑位于[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")以北 X: -148 Y: -60。如果玩家向他保证他们知道如何对付夺心魔，他会将原本由埃布德·阿德里安赠予他的盾牌——[埃布德的可靠盾牌](Abdel's_Trusted_Shield.md "埃布德的可靠盾牌")——交给玩家。<sup>[\[3\]](#cite_note-3)</sup> 然而，如果队伍告诉他 *“你应该出去战斗——而不是躲在这里！”*，加尔布雷斯会哀叹自己因年迈而无法帮助儿子，并要求队伍离开他的房子。
 
-一楼还有一个上锁的箱子，里面有一些他和他儿子之间（未详细说明的）信函，以及一个位于布满陷阱的地下室箱子中的书籍，名为[公爵的自信](Confidant_of_a_Duke.md "公爵的自信")，书中记述了他与埃布德在[精灵之歌](Elfsong_Tavern.md "精灵之歌酒馆")露台的初次相遇。
+一楼还有一个上锁的箱子，里面有一些他和他儿子之间（未详细说明的）信函，以及一个位于布满陷阱的地下室箱子中的书籍，名为[公爵的自信](Confidant_of_a_Duke.md "公爵的自信")，书中记述了他与埃布德在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")露台的初次相遇。
 
 加尔布雷斯的邮箱里还有一封来自[会馆](The_Lodge.md "会馆")的信，要求就灵吸怪进行咨询，以及一些粉丝来信，来自一位使用他的技术击败了灵吸怪的人。
 
@@ -159,7 +159,7 @@ UUID
 [失明术](Blindness.md "失明术") (+ )
 限制敌人的视野范围。使其更容易被击中，且该生物会更频繁地未命中。对其的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，且敌人以[劣势](Disadvantage.md "劣势")攻击。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [寒冰锥](Cone_of_Cold.md "寒冰锥") (+ )
@@ -170,7 +170,7 @@ UUID
 
 从你的手中爆发出一阵冰霜、凛冽的空气和凝结的雪晶。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：自身
 
 [召唤元素生物：火元素](Conjure_Elemental_colon__Fire_Elemental.md "召唤元素生物：火元素") (+ )
@@ -186,10 +186,10 @@ UUID
 
 如果目标未能通过敏捷[豁免检定](Saving_throw.md "豁免检定")，且法术将其生命值降至0，它将化为碎屑灰烬。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：9 米 (30 英尺)
 
-[火球术术](Fireball.md "火球术术") (+ )
+[火球术](Fireball.md "火球术") (+ )
 
 伤害：8~48
 
@@ -197,7 +197,7 @@ UUID
 
 从你的指尖射出一道明亮的火焰，在接触时爆炸，对附近的一切造成 8d6⁠⁠[火焰](Fire.md "火焰") 伤害。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [冷冻射线](Ray_of_Frost.md "冷冻射线") ()

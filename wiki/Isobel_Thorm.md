@@ -120,23 +120,23 @@
 
 - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**对抗邪恶**](Defy_Villainy.md "对抗邪恶")
+- [对抗邪恶](Defy_Villainy.md "对抗邪恶")
 
 当穿戴者变为[目盲](Blinded_(Condition).md "目盲（状态）")、[麻痹](Paralysed_(Condition).md "麻痹（状态）")或[中毒](Poisoned_(Condition).md "中毒（状态）")时，会自动对自己施放[恢复](Lesser_Restoration.md "恢复")。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；魔法无法使你[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**预兆施法**](Potent_Spellcasting.md "预兆施法")
+- [预兆施法](Potent_Spellcasting.md "预兆施法")
 
 你的神祇赐予你更强大的力量。
 
@@ -198,23 +198,23 @@
 
 - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**对抗邪恶**](Defy_Villainy.md "对抗邪恶")
+- [对抗邪恶](Defy_Villainy.md "对抗邪恶")
 
 当穿戴者变为[目盲](Blinded_(Condition).md "目盲（状态）")、[麻痹](Paralysed_(Condition).md "麻痹（状态）")或[中毒](Poisoned_(Condition).md "中毒（状态）")时，会自动对自己施放[恢复](Lesser_Restoration.md "恢复")。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；魔法无法使你[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**预兆施法**](Potent_Spellcasting.md "预兆施法")
+- [预兆施法](Potent_Spellcasting.md "预兆施法")
 
 你的神祇赐予你更强大的力量。
 
@@ -252,24 +252,24 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 历史](#history)
-- [3 参与情况](#involvement)
-  - [3.1 第二幕](#act-two)
-    - [3.1.1 试图绑架](#attempting-kidnapping)
-    - [3.1.2 进攻月出之塔](#assault-on-moonrise-towers)
-  - [3.2 第三幕](#act-three)
-- [4 战斗](#combat)
-  - [4.1 攻击与能力](#attacks-and-abilities)
-  - [4.2 值得一提的战利品](#notable-loot)
-- [5 死者交谈](#speak-with-dead)
-- [6 相关文献](#related-literature)
-  - [6.1 伊索贝尔所著](#written-by-isobel)
-- [7 相关任务](#related-quests)
-- [8 挖掘内容](#datamined-content)
-- [9 画廊](#gallery)
-- [10 注释与参考](#notes-and-references)
-- [11 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 历史](#历史)
+- [3 参与情况](#参与情况)
+  - [3.1 第二幕](#第二幕)
+    - [3.1.1 试图绑架](#试图绑架)
+    - [3.1.2 进攻月出之塔](#进攻月出之塔)
+  - [3.2 第三幕](#第三幕)
+- [4 战斗](#战斗)
+  - [4.1 攻击与能力](#攻击与能力)
+  - [4.2 值得一提的战利品](#值得一提的战利品)
+- [5 死者交谈](#死者交谈)
+- [6 相关文献](#相关文献)
+  - [6.1 伊索贝尔所著](#伊索贝尔所著)
+- [7 相关任务](#相关任务)
+- [8 挖掘内容](#挖掘内容)
+- [9 画廊](#画廊)
+- [10 注释与参考](#注释与参考)
+- [11 外部链接](#外部链接)
 
 ## 概述
 
@@ -479,9 +479,9 @@ UUID
 
 ## 注释与参考
 
-1. [↑](#cite_ref-1) 伊索贝尔与[西索博得](Thisobald_Thorm.md "西索博得·索姆")的亲属关系尚不明确。尽管西索博得称凯瑟里克为_“父亲”_并自称_“索姆之子”_，但凯瑟里克或伊索贝尔在对话或其他地方从未承认过他。鉴于凯瑟里克和[巴萨扎尔](Balthazar.md "巴萨扎尔")亵渎了索姆陵墓并复活了伊索贝尔，西索博得可能是另一位复活的亲属，他称凯瑟里克为父亲，不是字面意义上的父亲，而是“创造者”。同样值得注意的是，在[残月酒厂：寄售品](The_Waning_Moon_colon__Consignments.md "残月酒厂：寄售品")中，西索博得称他为_“凯瑟里克父亲”_，这更可能意味着西索博得将凯瑟里克视为莎尔的主要人物，而不是字面上的父母，类似于[影心](Shadowheart.md "影心")称[维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")为_“母亲”_。
+1. [↑](#cite_ref-1) 伊索贝尔与[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")的亲属关系尚不明确。尽管西索博得称凯瑟里克为_“父亲”_并自称_“索姆之子”_，但凯瑟里克或伊索贝尔在对话或其他地方从未承认过他。鉴于凯瑟里克和[巴萨扎尔](Balthazar.md "巴萨扎尔")亵渎了索姆陵墓并复活了伊索贝尔，西索博得可能是另一位复活的亲属，他称凯瑟里克为父亲，不是字面意义上的父亲，而是“创造者”。同样值得注意的是，在[残月酒厂：寄售品](The_Waning_Moon_colon__Consignments.md "残月酒厂：寄售品")中，西索博得称他为_“凯瑟里克父亲”_，这更可能意味着西索博得将凯瑟里克视为莎尔的主要人物，而不是字面上的父母，类似于[影心](Shadowheart.md "影心")称[维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")为_“母亲”_。
 1. [↑](#cite_ref-2) 当使用[动物交谈](Speak_with_Animals.md "动物交谈")与[波尼](Squire.md "波尼")交谈时，她可以透露她在伊索贝尔死亡的同一晚试图保护她时死去，暗示伊索贝尔可能被谋杀。
-1. [↑](#cite_ref-3) 尽管凯瑟里克的其他家庭成员——[西索博得](Thisobald_Thorm.md "西索博得·索姆")、[马鲁斯](Malus_Thorm.md "马鲁斯·索姆")和[格灵哥斯](Gerringothe_Thorm.md "格灵哥斯·索姆")——是[不死生物](Undead.md "不死生物")怪物，但伊索贝尔不是。随着队伍在第二幕的推进，凯瑟里克因她的离去而彻底崩溃，最终愿意付出任何代价，以非凡的手段让她回到他身边。
+1. [↑](#cite_ref-3) 尽管凯瑟里克的其他家庭成员——[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")、[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")和[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")——是[不死生物](Undead.md "不死生物")怪物，但伊索贝尔不是。随着队伍在第二幕的推进，凯瑟里克因她的离去而彻底崩溃，最终愿意付出任何代价，以非凡的手段让她回到他身边。
 1. [↑](#cite_ref-4) [伊索贝尔的日志](Isobel's_Diary.md "伊索贝尔的日志")
 1. [↑](#cite_ref-5] 在此初始战斗中杀死的任何敌人似乎都不会给予经验值，即使玩家角色造成致命一击；这可能是一个错误。
 

@@ -4,7 +4,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 - 稀有度：普通
 - 重量：0.2 千克 (0.4 磅)
 - 价格：1 金币
@@ -15,7 +15,7 @@
 ## 备注
 
 - 用于制作[地狱火引擎弩](Hellfire_Engine_Crossbow.md "地狱火引擎弩")的三个组件之一，另外两个是[守望者之弩蓝图](Watcher_Crossbow_Blueprint.md "守望者之弩蓝图")和[钢铁卫士手臂](Steel_Watcher_Arm.md "钢铁卫士手臂")。
-- 该物品旁边的牌匾上写着“瞄准模组是一种光学聚焦装置，安装在[守望者头盔](Steelwatcher_Helmet.md "钢铁卫士头盔")内，用于瞄准[守望者轻型弩](Watcher_Crossbow.md "守望者轻型弩")”。
+- 该物品旁边的牌匾上写着“瞄准模组是一种光学聚焦装置，安装在[钢铁卫士头盔](Steelwatcher_Helmet.md "钢铁卫士头盔")内，用于瞄准[守望者轻型弩](Watcher_Crossbow.md "守望者轻型弩")”。
 
 ---
 *Source: [Targeting Module](https://bg3.wiki/wiki/Targeting_Module)*

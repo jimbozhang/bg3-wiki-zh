@@ -85,7 +85,7 @@
 |
 
 - [体型](Creature_size.md "生物体型") 增大
-- 武器造成额外的 **1d4** 伤害，且受影响实体在 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上具有 [优势](Advantage.md "优势")。
+- 武器造成额外的 **1d4** 伤害，且受影响实体在 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上具有 [优势](Advantage.md "优势")。
 - [负重](Carrying_capacity.md "负重") 也提高 25%。
 
 [邪恶灵药](Elixir_of_Viciousness_(Condition).md "邪恶灵药 (状态)")

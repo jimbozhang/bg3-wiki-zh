@@ -66,13 +66,13 @@ _维基数据库中未定义_
 [油腻专供](Oily_Sup_(Condition).md "油腻专供 (状态)")
 |
 
-- 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [属性检定](Checks.md "检定") 上遭受 [劣势](Disadvantage.md "劣势")。
+- 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上遭受 [劣势](Disadvantage.md "劣势")。
 
 ## 物品
 
 拥有此状态时提供特殊效果的物品：
 
-- [酒鬼护符](Amulet_of_the_Drunkard.md "酒鬼护符"): _酒精治疗_ : 佩戴此护符时，每回合恢复 2~8⁠⁠[生命值](Healing.md "治疗")。醉酒状态持续时间增加 5 回合。
+- [酒鬼护符](Amulet_of_the_Drunkard.md "酒鬼护符"): _酒精治疗_ : 佩戴此护符时，每回合恢复 2~8⁠⁠[治疗](Healing.md "治疗")。醉酒状态持续时间增加 5 回合。
 
 - [醉酒服饰](Drunken_Cloth.md "醉酒服饰"): _雪白肝脏:_ [体质](Constitution.md "体质") [豁免检定](Saving_Throws.md "豁免检定") 具有 [优势](Advantage.md "优势")，在回合开始时获得等于你体质调整值的临时生命值。
 

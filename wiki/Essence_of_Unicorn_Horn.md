@@ -1,6 +1,6 @@
 # 独角兽角精华
 
-**独角兽角精华**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水")。
+**独角兽角精华**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水")。
 
 请记住这一点，当你握住这些天堂的火花时：任何在独角兽死亡中扮演角色的生物，都有可能招致神圣的怒火。
 

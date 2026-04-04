@@ -21,21 +21,21 @@
 
 ## 目录
 
-- [1 进入方式](#access)
-- [2 前厅](#antechamber)
-- [3 试炼大厅](#trial-chambers)
-  - [3.1 正义之间](#chamber-of-justice)
-  - [3.2 洞察之间](#chamber-of-insight)
-  - [3.3 策略之间](#chamber-of-strategy)
-  - [3.4 勇气之间](#chamber-of-courage)
-- [4 巨龙密室](#the-dragon’s-sanctum)
-- [5 相关地点](#related-locations)
-- [6 相关任务](#related-quests)
-- [7 角色](#characters)
-- [8 生物](#creatures)
-- [9 战利品](#loot)
-- [10 相关文献](#related-literature)
-- [11 备注](#notes)
+- [1 进入方式](#进入方式)
+- [2 前厅](#前厅)
+- [3 试炼大厅](#试炼大厅)
+  - [3.1 正义之间](#正义之间)
+  - [3.2 洞察之间](#洞察之间)
+  - [3.3 策略之间](#策略之间)
+  - [3.4 勇气之间](#勇气之间)
+- [4 巨龙密室](#巨龙密室)
+- [5 相关地点](#相关地点)
+- [6 相关任务](#相关任务)
+- [7 角色](#角色)
+- [8 生物](#生物)
+- [9 战利品](#战利品)
+- [10 相关文献](#相关文献)
+- [11 备注](#备注)
 
 ## 进入方式
 
@@ -43,13 +43,13 @@
 
 另一种进入远古龙之路的方式是通过飞龙岩牢房的鼠洞，位于 [飞龙岩要塞](Wyrm's_Rock_Fortress.md "Wyrm's Rock Fortress") 西岸 X: -70 Y: 205 处。任何能够通过鼠洞攀爬上去的生物或实体，都可以到达远古龙之路一侧分隔洞穴与监狱的墙壁附近，该墙壁会以相同方式打开。该实体可以是 [法师之手](Mage_Hand.md "Mage Hand")、任何召唤出的所需体型的生物，或是处于 [荒野形态](Wild_Shape.md "Wild Shape") 或 [气化形体](Gaseous_Form.md "Gaseous Form") 状态的队伍成员。将此类“活体钥匙”移离墙壁会关闭通道。
 
-通常，关于远古龙之路的存在及其目的的信息，会由 [乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")、[顾问弗洛瑞克](Counsellor_Florrick.md "Counsellor Florrick") 或 [考杜拉·伊尔坦](Cordula_Eltan.md "Cordula Eltan") 在 [威尔的伙伴任务](The_Blade_of_Frontiers.md "The Blade of Frontiers") 过程中告知队伍。然而，即使没有将任务推进到相应阶段（具体而言，只要队伍进入 [飞龙岩要塞](Wyrm's_Rock_Fortress.md "Wyrm's Rock Fortress")），也可以通过上述方式接近并探索该地点本身。
+通常，关于远古龙之路的存在及其目的的信息，会由 [乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")、[顾问弗洛瑞克](Counsellor_Florrick.md "Counsellor Florrick") 或 [考杜拉·伊尔坦](Cordula_Eltan.md "Cordula Eltan") 在 [边境之刃](The_Blade_of_Frontiers.md "边境之刃") 过程中告知队伍。然而，即使没有将任务推进到相应阶段（具体而言，只要队伍进入 [飞龙岩要塞](Wyrm's_Rock_Fortress.md "Wyrm's Rock Fortress")），也可以通过上述方式接近并探索该地点本身。
 
 ## 前厅
 
 前厅的三幅壁画
 
-穿过一条短小的岩洞通道并进入一道铁门后，队伍会发现自己身处前厅。内部，左墙由三幅描绘安苏传说的壁画组成：与精灵结盟、共同建立定居点，以及精灵离去而巨龙留下守护日益壮大的城市。同伴可能会评论这些壁画，所有活跃队伍成员会进行一次被动 DC 15 的 [历史的](History.md "History") [检定](Ability_Check.md "Ability check")（吉斯洋基人角色会获得 [劣势](Disadvantage.md "Disadvantage")）。任何队伍成员成功后，都能认出壁画中的精灵是 [博德安](Balduran.md "Balduran")，博德之门的传奇建立者（如果达成此点，所有同伴对壁画的评论都会改变）。
+穿过一条短小的岩洞通道并进入一道铁门后，队伍会发现自己身处前厅。内部，左墙由三幅描绘安苏传说的壁画组成：与精灵结盟、共同建立定居点，以及精灵离去而巨龙留下守护日益壮大的城市。同伴可能会评论这些壁画，所有活跃队伍成员会进行一次被动 DC 15 的 [历史的](History.md "History") [属性检定](Ability_Check.md "属性检定")（吉斯洋基人角色会获得 [劣势](Disadvantage.md "Disadvantage")）。任何队伍成员成功后，都能认出壁画中的精灵是 [博德安](Balduran.md "Balduran")，博德之门的传奇建立者（如果达成此点，所有同伴对壁画的评论都会改变）。
 
 > \_古老的安苏，听我宣告：一位冠军已被加冕。
 > 试炼开始；让您的审判随之降临。\_
@@ -85,9 +85,9 @@
 
 洞察之间
 
-通往此试炼的道路位于两尊左侧博德安雕像之间一条几乎看不见的小径上。大厅本身是一个巨大的洞穴，类似图书馆，一条蜿蜒的小径几乎通回入口，两侧排列着多个书架。在小径的尽头有一个石台，上面有三位顾问的血红色幽魂：[保罗·阿玛普斯](Books_by_Author.md#Paul_Amaps "Books by Author")、[克里斯蒂娜·苏尔托](Suelto.md "Suelto") 和 [阿尔温·斯特德](Books_by_Author.md#Alwin_Stedd "Books by Author")。
+通往此试炼的道路位于两尊左侧博德安雕像之间一条几乎看不见的小径上。大厅本身是一个巨大的洞穴，类似图书馆，一条蜿蜒的小径几乎通回入口，两侧排列着多个书架。在小径的尽头有一个石台，上面有三位顾问的血红色幽魂：[保罗·阿玛普斯](Books_by_Author.md#Paul_Amaps "Books by Author")、[苏尔托](Suelto.md "苏尔托") 和 [阿尔温·斯特德](Books_by_Author.md#Alwin_Stedd "Books by Author")。
 
-还有几本书在四处飘动：一本在小径起点，一本在中间的开阔处，最后一本靠近终点。手动捕捉一本躁动的书需要 DC 15 的 [巧手](Sleight_of_Hand.md "Sleight of Hand") [检定](Ability_Check.md "Ability check")，每个队伍成员在整个试炼中只有一次尝试机会（因此，如果任何同伴未能抓住一本书，他们**无法在另一本书上再次进行检定**）。
+还有几本书在四处飘动：一本在小径起点，一本在中间的开阔处，最后一本靠近终点。手动捕捉一本躁动的书需要 DC 15 的 [巧手](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定")，每个队伍成员在整个试炼中只有一次尝试机会（因此，如果任何同伴未能抓住一本书，他们**无法在另一本书上再次进行检定**）。
 
 如果 [威尔](Wyll.md "Wyll") 在队伍中，他在阅读书籍后会提供一个解决方案。
 

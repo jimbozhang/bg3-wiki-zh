@@ -1,6 +1,6 @@
 # 遗落日志
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Abandoned_Journal.md "Special:WhatLinksHere/Abandoned Journal")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[遗落日志](Special_colon_WhatLinksHere/Abandoned_Journal.md "遗落日志")的，请考虑编辑该链接，将其指向正确的页面。
 
 **遗落日志**可能指：
 

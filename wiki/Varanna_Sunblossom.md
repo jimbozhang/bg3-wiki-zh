@@ -81,23 +81,23 @@
 
 ## 特性
 
-- [**民兵**](Civil_Militia.md "民兵")
+- [民兵](Civil_Militia.md "民兵")
 
 对[短矛](Spears.md "短矛")、[长矛](Pikes.md "长矛")、[长戟](Halberds.md "长戟")、[长柄刀](Glaives.md "长柄刀")、[轻甲](Light_Armour.md "轻甲")和[盾牌](Shields.md "盾牌")拥有[熟练项](Proficiency.md "熟练项")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级")+1。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md); 状态的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

@@ -95,19 +95,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "Prey Upon the Weak")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -165,19 +165,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "Prey Upon the Weak")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -235,23 +235,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 敏捷豁免成功时免疫伤害；失败时伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "Prey Upon the Weak")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 生命值等于或低于一半的目标受到 +1d4 穿刺伤害。
 
@@ -299,7 +299,7 @@ UUID
 
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 射程: 正常武器射程
 充能: [短休](Short_rest.md "Short rest")
 
@@ -313,7 +313,7 @@ UUID
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法流血。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程: 正常武器射程
 充能: [短休](Short_rest.md "Short rest")
 
@@ -337,7 +337,7 @@ UUID
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法获得开放伤口。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程: 正常武器射程
 充能: [短休](Short_rest.md "Short rest")
 
@@ -356,7 +356,7 @@ UUID
 - [巴尔之恩赐](Boon_of_Bhaal.md "Boon of Bhaal") (仅当[巴尔之镰](Reaper_of_Bhaal.md "Reaper of Bhaal")吟唱时)
 - [巴尔的死亡牧首法斯蒂安](Fustian.md "Fustian")
 - [巴尔之祈海弗恩](Hivune.md "Hivune")
-- [腥红奥林](Orin.md "Orin")
+- [奥林](Orin.md "奥林")
 - [巴尔之镰多利亚](Dhoria.md "Dhoria")
 - [巴尔之镰埃格朗蒂纳](Eglantine.md "Eglantine")
 - [巴尔之镰希拉](Hiila.md "Hiila")

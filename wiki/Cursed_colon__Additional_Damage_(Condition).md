@@ -51,7 +51,7 @@ _维基数据库中未定义_
 [被诅咒：恐惧](Cursed_colon__Dread_(Condition).md "被诅咒：恐惧 (状态)")
 |
 
-- 每回合，受影响实体必须通过一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则[跳过](Skip.md "跳过对话")其回合。
+- 每回合，受影响实体必须通过一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则[跳过对话](Skip.md "跳过对话")其回合。
 
 [被诅咒：智力](Cursed_colon__Intelligence_(Condition).md "被诅咒：智力 (状态)")
 |

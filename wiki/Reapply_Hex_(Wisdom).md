@@ -2,11 +2,11 @@
 
 另请参阅：[脆弱诅咒](Hex.md "Hex") 和 [再度施展脆弱诅咒](Reapply_Hex.md "Reapply Hex")
 
-**再度诅咒（感知）** 是一个附赠动作，允许 [脆弱诅咒](Hex.md "Hex") 的施法者在不消耗额外法术位的情况下将诅咒转移到新目标上。只要维持对脆弱诅咒的 [专注](Concentration.md "Concentration")，在前一个目标死亡后即可获得此动作。此诅咒变体对感知 [检定](Ability_Check.md "Ability check") 施加 [劣势](Disadvantage.md "Disadvantage")（但不包括 [豁免检定](Saving_throw.md "Saving throw")）。
+**再度诅咒（感知）** 是一个附赠动作，允许 [脆弱诅咒](Hex.md "Hex") 的施法者在不消耗额外法术位的情况下将诅咒转移到新目标上。只要维持对脆弱诅咒的 [专注](Concentration.md "Concentration")，在前一个目标死亡后即可获得此动作。此诅咒变体对感知 [属性检定](Ability_Check.md "属性检定") 施加 [劣势](Disadvantage.md "Disadvantage")（但不包括 [豁免检定](Saving_throw.md "Saving throw")）。
 
 ## 描述
 
-当你攻击目标时造成额外 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并对 [感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "Ability Check") 施加 [劣势](Disadvantage.md "Disadvantage")。
+当你攻击目标时造成额外 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并对 [感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定") 施加 [劣势](Disadvantage.md "Disadvantage")。
 
 ## 属性
 

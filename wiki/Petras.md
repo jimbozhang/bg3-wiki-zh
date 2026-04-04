@@ -85,15 +85,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Hypersensitivity.md "Sunlight Hypersensitivity")
+- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 
 在阳光下，承受[光耀](Radiant.md "Radiant")伤害，并且在[攻击](Attack_roll.md "Attack roll")和[属性检定](Ability_Check.md "Ability check")时具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**吸血鬼再生**](Vampire_Regeneration.md "Vampire Regeneration")
+- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
 每回合恢复 10 [生命值](HP.md "HP")，除非处于阳光下或最近承受了[光耀](Radiant.md "Radiant")伤害。
 
@@ -143,15 +143,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Hypersensitivity.md "Sunlight Hypersensitivity")
+- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 
 在阳光下，承受[光耀](Radiant.md "Radiant")伤害，并且在[攻击](Attack_roll.md "Attack roll")和[属性检定](Ability_Check.md "Ability check")时具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**吸血鬼再生**](Vampire_Regeneration.md "Vampire Regeneration")
+- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
 每回合恢复 10 [生命值](HP.md "HP")，除非处于阳光下或最近承受了[光耀](Radiant.md "Radiant")伤害。
 
@@ -201,15 +201,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Hypersensitivity.md "Sunlight Hypersensitivity")
+- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 
 在阳光下，承受[光耀](Radiant.md "Radiant")伤害，并且在[攻击](Attack_roll.md "Attack roll")和[属性检定](Ability_Check.md "Ability check")时具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**吸血鬼再生**](Vampire_Regeneration.md "Vampire Regeneration")
+- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
 每回合恢复 10 [生命值](HP.md "HP")，除非处于阳光下或最近承受了[光耀](Radiant.md "Radiant")伤害。
 
@@ -231,11 +231,11 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 相关任务](#related-quests)
-- [4 备注](#notes)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 相关任务](#相关任务)
+- [4 备注](#备注)
 
 ## 参与
 

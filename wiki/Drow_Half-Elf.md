@@ -24,7 +24,7 @@
 中型
 
 [民兵](Civil_Militia.md "民兵")
-你拥有以下[武器熟练项](Proficiency.md "熟练项")：
+你拥有以下[熟练项](Proficiency.md "熟练项")：
 
 - [短矛](Spears.md "短矛")
 - [长矛](Pikes.md "长矛")
@@ -65,7 +65,7 @@
 - [舞光术](Dancing_Lights.md "舞光术")
 - [火焰箭](Fire_Bolt.md "火焰箭")
 - [交友术](Friends.md "交友术")
-- [光亮术](Light.md "光亮术")
+- [轻型](Light.md "轻型")
 - [法师之手](Mage_Hand.md "法师之手")
 - [初级幻影](Minor_Illusion.md "初级幻影")
 - [毒气喷溅](Poison_Spray.md "毒气喷溅")

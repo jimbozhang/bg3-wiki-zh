@@ -24,7 +24,7 @@
 
 ## 备注
 
-- “引导誓言法术”包括所有[圣武士](Paladin.md "圣武士")的[引导誓言](Channel_Oath_Charge.md "引导誓言充能")*能力*，这些在 D&D 术语中通常不被视为“法术”。然而，这不包括誓言*法术*（为圣武士始终准备的副职特定法术）。
+- “引导誓言法术”包括所有[圣武士](Paladin.md "圣武士")的[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")*能力*，这些在 D&D 术语中通常不被视为“法术”。然而，这不包括誓言*法术*（为圣武士始终准备的副职特定法术）。
 
 ---
 *Source: [Warding Hands](https://bg3.wiki/wiki/Warding_Hands)*

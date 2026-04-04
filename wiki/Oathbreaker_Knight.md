@@ -84,11 +84,11 @@
 
 - \_(状态)[**仇恨灵光**](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光 (光环) (状态)")
 
-此生物及 3 m (10 ft) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力调整值](Charisma.md "魅力")作为其近战武器伤害的加值。
+此生物及 3 m (10 ft) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力](Charisma.md "魅力")作为其近战武器伤害的加值。
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
-此生物及其 3 m (10 ft) 范围内的盟友获得此生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+此生物及其 3 m (10 ft) 范围内的盟友获得此生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 - \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
 
@@ -96,31 +96,31 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物至特定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -168,11 +168,11 @@
 
 - \_(状态)[**仇恨灵光**](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光 (光环) (状态)")
 
-此生物及 3 m (10 ft) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力调整值](Charisma.md "魅力")作为其近战武器伤害的加值。
+此生物及 3 m (10 ft) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力](Charisma.md "魅力")作为其近战武器伤害的加值。
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
-此生物及其 3 m (10 ft) 范围内的盟友获得此生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+此生物及其 3 m (10 ft) 范围内的盟友获得此生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 - \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
 
@@ -180,31 +180,31 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物至特定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -252,11 +252,11 @@
 
 - \_(状态)[**仇恨灵光**](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光 (光环) (状态)")
 
-此生物及 3 m (10 ft) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力调整值](Charisma.md "魅力")作为其近战武器伤害的加值。
+此生物及 3 m (10 ft) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力](Charisma.md "魅力")作为其近战武器伤害的加值。
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
-此生物及其 3 m (10 ft) 范围内的盟友获得此生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+此生物及其 3 m (10 ft) 范围内的盟友获得此生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
 - \_(状态)[**勇气灵光**](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
 
@@ -264,31 +264,31 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物至特定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "疾病")效果。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀")伤害。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -318,12 +318,12 @@ Stats
 
 ## 目录
 
-- [1 违背誓言](#breaking-your-oath)
-  - [1.1 恢复誓言](#restoring-your-oath)
-- [2 战斗](#combat)
-  - [2.1 能力](#abilities)
-- [3 画廊](#gallery)
-- [4 外部链接](#external-links)
+- [1 违背誓言](#违背誓言)
+  - [1.1 恢复誓言](#恢复誓言)
+- [2 战斗](#战斗)
+  - [2.1 能力](#能力)
+- [3 画廊](#画廊)
+- [4 外部链接](#外部链接)
 
 ## 违背誓言
 

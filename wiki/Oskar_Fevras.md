@@ -86,11 +86,11 @@
 
 - - - ## 特性
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后，恢复所有[诗人激励](Bardic_Inspiration_(resource).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -142,11 +142,11 @@
 
 - - - ## 特性
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后，恢复所有[诗人激励](Bardic_Inspiration_(resource).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -198,11 +198,11 @@
 
 - - - ## 特性
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后，恢复所有[诗人激励](Bardic_Inspiration_(resource).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -224,19 +224,19 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-    - [1.1.1 散塔林会窝点](#the-zhentarim-hideout)
-  - [1.2 第二幕](#act-two)
-  - [1.3 第三幕](#act-three)
-    - [1.3.1 迦纳斯夫人的宅邸](#lady-jannath's-estate)
-    - [1.3.2 公会大厅](#the-guildhall)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 死者交谈](#speak-with-dead)
-- [4 相关任务](#related-quests)
-- [5 相关文献](#related-literature)
-- [6 备注](#notes)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+    - [1.1.1 散塔林会窝点](#散塔林会窝点)
+  - [1.2 第二幕](#第二幕)
+  - [1.3 第三幕](#第三幕)
+    - [1.3.1 迦纳斯夫人的宅邸](#迦纳斯夫人的宅邸)
+    - [1.3.2 公会大厅](#公会大厅)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 死者交谈](#死者交谈)
+- [4 相关任务](#相关任务)
+- [5 相关文献](#相关文献)
+- [6 备注](#备注)
 
 ## 参与度
 
@@ -264,7 +264,7 @@ UUID
 
 在工作室里，队伍可以发现一幅被附身的画作和[给奥斯卡·费拉斯的信](Letter_to_Oskar_Fevras.md "给奥斯卡·费拉斯的信")，信中指引他们去找[菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸")的[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")。一旦他们从他那里获得[驱散火炬](Torch_of_Revocation.md "驱散火炬")，就可以返回烧毁被附身的画作，并释放被囚禁在其中的[失落之爱的回响](Echo_of_a_Lost_Love.md "失落之爱的回响")。幽灵冲下楼，击昏了迦纳斯夫人，并威胁要将奥斯卡拖回阴间。她透露自己叫凯丽·埃文菲尔德（Kerri Evenfield），是奥斯卡的前女友，奥斯卡与秘术师卡里翁达成协议，将她从阴间带回，以查明她自杀是否是他的错。
 
-队伍可以选择允许凯丽将奥斯卡拖入阴间，通过DC 15的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")或DC 15的[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")让她罢手，或者在战斗中击败她。如果对话检定成功，他们可以选择让她返回阴间而不回答奥斯卡的问题，或者通过DC 15的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")、威吓或欺瞒检定来揭示真相：她只是一段露水情缘，仅此而已。
+队伍可以选择允许凯丽将奥斯卡拖入阴间，通过DC 15的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")或DC 15的[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")让她罢手，或者在战斗中击败她。如果对话检定成功，他们可以选择让她返回阴间而不回答奥斯卡的问题，或者通过DC 15的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")、威吓或欺瞒检定来揭示真相：她只是一段露水情缘，仅此而已。
 
 如果救了奥斯卡的命，而迦纳斯夫人没有因此与他分手，他会在工作室为队伍成员画一幅[个人肖像](Personal_Portrait.md "个人肖像")。画像的主题由开始对话的队伍成员决定。通过与不同队伍成员交谈，可以获得多幅画像。
 
@@ -287,7 +287,7 @@ UUID
 范围：18米（60英尺）
 
 [人类定身术](Hold_Person.md "人类定身术") (+ )
-定住一个类人敌人。他们不能[移动](Movement_speed.md "移动速度")、[行动](Action.md "动作")或[反应](Reaction_(Resource)..md) 3米/10英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")来结束此状态。
+定住一个类人敌人。他们不能[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 3米/10英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")来结束此状态。
 
 [感知](Wisdom.md "感知")[豁免](Saving_throws.md "豁免检定")
 范围：18米（60英尺）

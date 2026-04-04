@@ -10,7 +10,7 @@
 
 - [拔出乐器](Status_properties/UnsheathInstrument.md "Status properties/UnsheathInstrument")
 - [禁用战斗日志](Status_properties/DisableCombatlog.md "Status properties/DisableCombatlog")
-- [表演中](Status_properties/Performing.md "Status properties/Performing")
+- [表演](Status_properties/Performing.md "表演")
 
 ## 糟糕的表演来源
 

@@ -39,7 +39,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 ## 获取地点
 
 - [月出之塔](Moonrise_Towers.md "月出之塔") X: -162 Y: -203：由[拉迪娅](Radija.md "拉迪娅")携带，在[一楼](Moonrise_Towers.md#First_floor "月出之塔")
-- [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶") X: -146 Y: -213：由[萨斯德拉](Susdera.md "萨斯德拉")携带，在[塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶")
+- [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶") X: -146 Y: -213：由[萨斯德拉](Susdera.md "萨斯德拉")携带，在[月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶")
 - [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 727 Y: 41：由[克雷萨·骨女](Kressa_Bonedaughter.md "克雷萨·骨女")携带，在[兵营](Mind_Flayer_Colony.md#Barracks "夺心魔殖民地")
 - [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 597 Y: -655：由[萨拉贝勒](Sarabayle.md "萨拉贝勒")携带，在[对抗凯瑟里克·索姆](Infiltrate_Moonrise_Towers.md#Confronting_Ketheric "潜入月出之塔")后
 - [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 596 Y: -651：由[威林克斯·金德比](Willinx_Jindlebee.md "威林克斯·金德比")携带，在[对抗凯瑟里克·索姆](Infiltrate_Moonrise_Towers.md#Confronting_Ketheric "潜入月出之塔")后

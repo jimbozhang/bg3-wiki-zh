@@ -2,7 +2,7 @@
 
 关于装备类型，请参阅[短弓](Shortbows.md "Shortbows")。
 
-**短弓**是[短弓](Shortbows.md "Shortbows")武器家族中的一种普通、非魔法变体。它是一种[简易远程武器](Weapons.md "Weapons")，需要双手持握。
+**短弓**是[短弓](Shortbows.md "Shortbows")武器家族中的一种普通、非魔法变体。它是一种[武器](Weapons.md "武器")，需要双手持握。
 
 这把小巧敏捷的弓配有一条美丽的精灵弓弦，易于拉开，却坚韧如钢。
 

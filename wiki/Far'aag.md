@@ -93,15 +93,15 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "Githyanki War Magic")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-施放[法术或戏法](Spells.md "Spells")后，可进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
+施放[法术](Spells.md "法术")后，可进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**协同戏法**](Synergetic_Cantrips.md "Synergetic Cantrips")
+- [协同戏法](Synergetic_Cantrips.md "协同戏法")
 
 | 运动 | 体操 | 察觉技能 |
 | --- | --- | --- |
@@ -153,19 +153,19 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "Githyanki War Magic")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-施放[法术或戏法](Spells.md "Spells")后，可进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
+施放[法术](Spells.md "法术")后，可进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic")伤害——灵吸怪奴役的伤痕根深蒂固。
 
-- [**协同戏法**](Synergetic_Cantrips.md "Synergetic Cantrips")
+- [协同戏法](Synergetic_Cantrips.md "协同戏法")
 
 | 运动 | 体操 | 察觉技能 |
 | --- | --- | --- |
@@ -205,12 +205,12 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
 
 ## 概述
 
@@ -224,7 +224,7 @@ UUID
 
 通过前门进入养育间后不久，会触发与该角色的对话。
 
-根据队伍与[凯斯拉克百夫长沃斯](Voss.md "Voss")对话的结果，队伍可以选择说他们携带着他正在寻找的["武器"](Mysterious_Artefact.md "Mysterious Artefact")。这样做的好处是可以在不提及角色头中有任何蝌蚪的情况下结束对话。法'拉格会要求队伍出示遗物作为证明。对此的回应选项包括：
+根据队伍与[凯斯拉克百夫长沃斯](Voss.md "Voss")对话的结果，队伍可以选择说他们携带着他正在寻找的[神秘遗物](Mysterious_Artefact.md "神秘遗物")。这样做的好处是可以在不提及角色头中有任何蝌蚪的情况下结束对话。法'拉格会要求队伍出示遗物作为证明。对此的回应选项包括：
 
 - _出示遗物作为证据。_
 - [表演] 我以维拉基斯女王的化身发言。你会让我通过的，_维尼伊斯克_。(DC 30)
@@ -250,13 +250,13 @@ UUID
 [降咒：攻击劣势](Bestow_Curse_colon__Attack_Disadvantage.md "Bestow Curse: Attack Disadvantage") (+ )
 用你的触摸诅咒一个生物。它在对你进行[攻击掷骰](Attack_roll.md "Attack roll")时具有[劣势](Disadvantage.md "Disadvantage")。
 
-[感](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
 近战：1.5 米 (5 英尺)
 
 [失明术](Blindness.md "Blindness") (+ )
 限制敌人的视线范围。它更容易被击中，该生物会更频繁地失手。对其的[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")，敌人攻击时具有[劣势](Disadvantage.md "Disadvantage")。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
 [燃烧之手](Burning_Hands.md "Burning Hands") (+ )
@@ -267,13 +267,13 @@ UUID
 
 每个可燃目标都会受到 3d6⁠⁠[火焰](Fire.md "Fire")伤害。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 射程：自身
 
 [人类定身术](Hold_Person.md "Hold Person") (+ )
-定住一个类人生物敌人。他们不能[移动](Movement_speed.md "Movement Speed")、[行动](Action.md "Action")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行一次[感](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")来结束此状态。
+定住一个类人生物敌人。他们不能[移动](Movement_speed.md "Movement Speed")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "Saving Throw")来结束此状态。
 
-[感](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
 [割裂](Lacerate.md "Lacerate") () – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
@@ -286,7 +286,7 @@ UUID
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法流血。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
@@ -314,7 +314,7 @@ UUID
 
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
@@ -336,7 +336,7 @@ UUID
 
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")状态。
 
-[力](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "Saving throws")
 射程：9 米 (30 英尺)
 充能：[短休](Short_rest.md "Short rest")
 

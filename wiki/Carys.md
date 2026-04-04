@@ -81,19 +81,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -141,19 +141,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -201,19 +201,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -256,7 +256,7 @@ UUID
   恐怕没有——无论是八卦还是《公报》，最近都比阿纳罗克沙漠还要干巴巴的。
 
 - 凯特琳
-  真可惜，[埃塔瓦德](Ettvard_Needle.md "埃塔瓦德·针")以前把《公报》办得可好了。
+  真可惜，[埃塔瓦德·针](Ettvard_Needle.md "埃塔瓦德·针")以前把《公报》办得可好了。
 
 - 凯莉丝
   但现在我简直分不清读的是《博德之口》还是[戈塔什](Enver_Gortash.md "戈塔什")的日记！
@@ -274,7 +274,7 @@ UUID
   哈！最近没有——除非你想看更多舔贵族靴子的内容——*直接来自博德之口！*
 
 - 凯特琳
-  [叶斯特拉](Estra_Stir.md "叶斯特拉·斯特尔")的专栏呢？她总是在《公报》里写些劲爆的内容。
+  [叶斯特拉·斯特尔](Estra_Stir.md "叶斯特拉·斯特尔")的专栏呢？她总是在《公报》里写些劲爆的内容。
 
 - 凯莉丝
   连叶斯特拉的专栏最近也缺乏趣味了……真是可惜。《博德之口》已经不是以前的样子了。完全不是。

@@ -2,7 +2,7 @@
 
 本文介绍的内容在正常游戏中**[无法获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**黑暗剑**是[短剑](Shortswords.md "Shortswords")武器家族的常见变体。它是一种单手挥舞的[近战武器](Weapons.md "Weapons")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
+**黑暗剑**是[短剑](Shortswords.md "Shortswords")武器家族的常见变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
 
 尽管有雕刻装饰，这把轻量剑却完美平衡——是一件无瑕的杀戮工具。
 

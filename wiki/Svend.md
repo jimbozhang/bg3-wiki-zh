@@ -73,7 +73,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -117,7 +117,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -161,7 +161,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -200,7 +200,7 @@ UUID
 
 ### 第三幕
 
-斯文可以在[下城区](Lower_City.md "下城区")的[脸红的美人鱼](Blushing_Mermaid.md "脸红的美人鱼")中找到。[希格](Siggy.md "希格")正试图说服他取消即将到来的约会，因为他们的船将在黎明时分启航。斯文坚持认为他会准时回来，尽管城市里最近发生了危险。队伍可以与他们互动，说服斯文去赴约或留下来与希格在一起。通过一次 DC 7 的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")可以说服斯文留下，并为拥有[艺人](Entertainer.md "艺人")背景的队伍成员授予[扮演苏恩](Entertainer.md#Playing_Sune "艺人")激励点。
+斯文可以在[下城区](Lower_City.md "下城区")的[脸红的美人鱼](Blushing_Mermaid.md "脸红的美人鱼")中找到。[希格](Siggy.md "希格")正试图说服他取消即将到来的约会，因为他们的船将在黎明时分启航。斯文坚持认为他会准时回来，尽管城市里最近发生了危险。队伍可以与他们互动，说服斯文去赴约或留下来与希格在一起。通过一次 DC 7 的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")可以说服斯文留下，并为拥有[艺人](Entertainer.md "艺人")背景的队伍成员授予[扮演苏恩](Entertainer.md#Playing_Sune "艺人")激励点。
 
 ## 闲聊
 

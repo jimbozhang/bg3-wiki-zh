@@ -92,19 +92,19 @@
 | --- | --- | --- |
 | 几率 | 1/4 | 2/4 | 1/4 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -157,19 +157,19 @@
 | [食物补给表 10](Food_Supply_Table_10.md "食物补给表 10") | 1 | 3/22 |
 | [食物补给表 12](Food_Supply_Table_12.md "食物补给表 12") [[](#cite_note-pumpkin-1 "[")1] | 1 | 1/22 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -215,19 +215,19 @@
 | --- | --- | --- | --- |
 | 几率 | 1/4 | 2/4 | 1/4 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -257,17 +257,17 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 商店](#shop)
-  - [2.1 食物](#food)
-  - [2.2 熟食](#cooked-food)
-  - [2.3 饮料](#drinks)
-  - [2.4 补给包](#supply-pack)
-- [3 相关任务](#related-quests)
-- [4 闲聊](#idle-banter)
-- [5 画廊](#gallery)
-- [6 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 商店](#商店)
+  - [2.1 食物](#食物)
+  - [2.2 熟食](#熟食)
+  - [2.3 饮料](#饮料)
+  - [2.4 补给包](#补给包)
+- [3 相关任务](#相关任务)
+- [4 闲聊](#闲聊)
+- [5 画廊](#画廊)
+- [6 外部链接](#外部链接)
 
 ## 参与情况
 

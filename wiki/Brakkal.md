@@ -78,11 +78,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -130,11 +130,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -182,15 +182,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -238,15 +238,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -276,20 +276,20 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 伙伴好感度](#companion-approval)
-- [3 画廊](#gallery)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 第一幕](#第一幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 画廊](#画廊)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 参与
 
 ### 第一幕
 
-布拉克卡伊因拒绝放弃对 ⁠[玛格鲁比耶特](https://forgottenrealms.fandom.com/wiki/Maglubiyet) 的信仰转而信仰[至上真神](Absolute.md "Absolute")而被关在 X: 268 Y: 10 处的木笼中。悬挂在深渊上方的木笼被锁住并设有陷阱，如果在未解除陷阱的情况下打开，会杀死他。笼门需要 DC 15 [巧手](Sleight_of_Hand.md "Sleight of Hand") [检定](Ability_Check.md "Ability check") 来解除陷阱，以及 DC 10 [巧手](Sleight_of_Hand.md "Sleight of Hand") [检定](Ability_Check.md "Ability check") 来撬锁。
+布拉克卡伊因拒绝放弃对 ⁠[玛格鲁比耶特](https://forgottenrealms.fandom.com/wiki/Maglubiyet) 的信仰转而信仰[至上真神](Absolute.md "Absolute")而被关在 X: 268 Y: 10 处的木笼中。悬挂在深渊上方的木笼被锁住并设有陷阱，如果在未解除陷阱的情况下打开，会杀死他。笼门需要 DC 15 [巧手](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定") 来解除陷阱，以及 DC 10 [巧手](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定") 来撬锁。
 
-在布拉克卡伊仍被关在笼中时与他交谈，随后释放他，会授予具有[侍僧](Acolyte.md "Acolyte")背景的队伍成员 ⁠[拯救异端](Acolyte.md#Saving_the_Heretic "Acolyte") 激励点。对话期间进行的 DC 7 [宗教](Religion.md "Religion") [检定](Ability_Check.md "Ability check") 似乎对获得激励点没有影响，尽管邪恶[神祇](Deities.md "Deities")的[牧师](Cleric.md "Cleric")会自动通过此检定。
+在布拉克卡伊仍被关在笼中时与他交谈，随后释放他，会授予具有[侍僧](Acolyte.md "Acolyte")背景的队伍成员 ⁠[拯救异端](Acolyte.md#Saving_the_Heretic "Acolyte") 激励点。对话期间进行的 DC 7 [宗教](Religion.md "Religion") [属性检定](Ability_Check.md "属性检定") 似乎对获得激励点没有影响，尽管邪恶[神祇](Deities.md "Deities")的[牧师](Cleric.md "Cleric")会自动通过此检定。
 
 在未与布拉克卡伊交谈的情况下解除陷阱并解锁笼子，似乎会中断激励点和逃脱触发条件，只授予应得的经验值，但没有激励点。
 

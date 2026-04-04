@@ -1,6 +1,6 @@
 # 回气
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Ki_Restoration.md "Special:WhatLinksHere/Ki Restoration")的，请考虑编辑该链接以指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[回气](Special_colon_WhatLinksHere/Ki_Restoration.md "回气")的，请考虑编辑该链接以指向正确的页面。
 
 **回气**可能指：
 

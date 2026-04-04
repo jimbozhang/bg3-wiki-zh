@@ -14,8 +14,8 @@
 [Aid](Aid_(Condition).md "援助（状态）")
 |
 
-- 生命值上限提高 5⁠⁠[生命值](Healing.md "治疗")。
-- 使用高于 2 级的[法术位](Spells.md#Spell_Slot_Levels "法术")时，生命值上限额外提高 5⁠⁠[生命值](Healing.md "治疗")。
+- 生命值上限提高 5⁠⁠[治疗](Healing.md "治疗")。
+- 使用高于 2 级的[法术位](Spells.md#Spell_Slot_Levels "法术")时，生命值上限额外提高 5⁠⁠[治疗](Healing.md "治疗")。
 
 [Arcane Ward](Arcane_Ward_(Condition).md "奥术守御（状态）")
 |
@@ -69,12 +69,12 @@
 \_(Condition)[Aura of Hate](Aura_of_Hate_(Aura)_(Condition).md "仇恨灵光（灵光）（状态）")
 |
 
-- 此生物和 3 米（10 英尺）范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力调整值](Charisma.md "魅力")作为近战武器伤害加值。
+- 此生物和 3 米（10 英尺）范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力](Charisma.md "魅力")作为近战武器伤害加值。
 
 [Aura of Hate](Aura_of_Hate_(Condition).md "仇恨灵光（状态）")
 |
 
-- 获得等于散发灵光的生物的[魅力调整值](Charisma.md "魅力")的近战武器伤害加值。
+- 获得等于散发灵光的生物的[魅力](Charisma.md "魅力")的近战武器伤害加值。
 
 \_(Condition)[Aura of Murder](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光（NPC）（状态）")
 |
@@ -89,12 +89,12 @@
 \_(Condition)[Aura of Protection](Aura_of_Protection_(Aura)_(Condition).md "守护灵光（灵光）（状态）")
 |
 
-- 生物及其 3 米（10 英尺）范围内的盟友获得此生物的[魅力调整值](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")加值。
+- 生物及其 3 米（10 英尺）范围内的盟友获得此生物的[魅力](Charisma.md "魅力")作为其[豁免检定](Saving_throw.md "豁免检定")加值。
 
 [Aura of Protection](Aura_of_Protection_(Condition).md "守护灵光（状态）")
 |
 
-- 获得等于散发灵光的生物的[魅力调整值](Charisma.md "魅力")的[豁免检定](Saving_throw.md "豁免检定")加值。
+- 获得等于散发灵光的生物的[魅力](Charisma.md "魅力")的[豁免检定](Saving_throw.md "豁免检定")加值。
 
 \_(Condition)[Aura of Terror](Aura_of_Terror_(Aura)_(Condition).md "恐怖灵光（灵光）（状态）")
 |
@@ -120,7 +120,7 @@
 [Avatar of Tyranny](Avatar_of_Tyranny_(Condition).md "暴政化身（状态）")
 |
 
-- 巴恩已前来援助戈塔什！戈塔什拥有 150 点[临时生命值](Temporary_Hit_Points.md "临时生命值")，在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")... 并且现在拥有了可怕的新力量！
+- 巴恩已前来援助戈塔什！戈塔什拥有 150 点[临时生命值](Temporary_Hit_Points.md "临时生命值")，在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")... 并且现在拥有了可怕的新力量！
 - 受影响的实体在徒手攻击时获得额外 1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，并对⁠⁠[雷鸣](Thunder.md "雷鸣")、⁠⁠[火焰](Fire.md "火焰")和⁠⁠[力场](Force.md "力场")伤害[免疫](Immune.md "免疫")。
 
 [Barkskin](Barkskin_(Condition).md "树肤术（状态）")
@@ -131,13 +131,13 @@
 [Beacon of Hope](Beacon_of_Hope_(Condition).md "希望信标（状态）")
 |
 
-- 在[感知](Wisdom.md "感知")和[死亡](Death_Saving_Throw.md "死亡豁免检定")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+- 在[感知](Wisdom.md "感知")和[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 - 治疗时恢复最大可能的[生命值](Hit_Points.md "生命值")。
 
 [Bear's Endurance](Bear's_Endurance_(Condition).md "熊之坚韧（状态）")
 |
 
-- 在[体质](Constitution.md "体质")[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
+- 在[体质](Constitution.md "体质")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 - 获得 7 点[临时生命值](Hit_Points.md#Temporary_Hit_Points "生命值")。
 
 [Bend Luck: Ability Check Bonus](Bend_Luck_colon__Ability_Check_Bonus_(Condition).md "扭曲幸运：属性检定加值（状态）")
@@ -187,7 +187,7 @@
 [Bull's Strength](Bull's_Strength_(Condition).md "牛之蛮力（状态）")
 |
 
-- 在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
+- 在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 - [负重](Carrying_capacity.md "负重")翻倍。
 
 [Channel Divinity: Cloak of Shadows](Channel_Divinity_colon__Cloak_of_Shadows_(Condition).md "引导神力：幽影斗篷（状态）")
@@ -267,12 +267,12 @@
 [Duergar Antidote](Duergar_Antidote_(Condition).md "灰矮人解毒剂（状态）")
 |
 
-- 在对抗中毒的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对⁠⁠[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+- 在对抗中毒的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对⁠⁠[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 [Eagle's Splendour](Eagle's_Splendour_(Condition).md "鹰之光彩（状态）")
 |
 
-- 在[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
+- 在[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 
 [Elemental Affinity: Acid Resistance](Elemental_Affinity_colon__Acid_Resistance_(Condition).md "元素亲和：强酸抗性（状态）")
 |
@@ -297,7 +297,7 @@
 [Elemental Affinity: Poison Resistance](Elemental_Affinity_colon__Poison_Resistance_(Condition).md "元素亲和：毒素抗性（状态）")
 |
 
-- 你对⁠⁠[毒素](Poison.md "毒素")伤害[抗性](Damage_types.md#Resistant "伤害类型")。
+- 你对⁠⁠[中毒](Poison.md "中毒")伤害[抗性](Damage_types.md#Resistant "伤害类型")。
 
 [Elemental Weapon: Acid](Elemental_Weapon_colon__Acid_(Condition).md "元素武器：强酸（状态）")
 |
@@ -345,7 +345,7 @@
 |
 
 - [体型](Creature_size.md "体型")增大
-- 武器造成额外 **1d4** 伤害，且受影响实体在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+- 武器造成额外 **1d4** 伤害，且受影响实体在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 - [负重](Carrying_capacity.md "负重")也提高 25%。
 
 [Endless Rage](Endless_Rage_(Condition).md "无尽狂暴（状态）")
@@ -360,7 +360,7 @@
 |
 
 - [体型](Creature_size.md "体型")增大。
-- 武器攻击造成 **1d4** 更多伤害。在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+- 武器攻击造成 **1d4** 更多伤害。在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
 [Entropic Ward](Entropic_Ward_(Condition).md "熵光结界（状态）")
 |
@@ -424,7 +424,7 @@
 [Fiendish Resilience: Poison](Fiendish_Resilience_colon__Poison_(Condition).md "邪魔体魄：毒素（状态）")
 |
 
-- 你对⁠⁠[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+- 你对⁠⁠[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 [Fiendish Resilience: Psychic](Fiendish_Resilience_colon__Psychic_(Condition).md "邪魔体魄：心灵（状态）")
 |
@@ -477,7 +477,7 @@
 |
 
 - 近战和即兴武器攻击，以及投掷物体时，造成额外 2（9 级时增至 3）伤害。
-- 还对[物理伤害](Damage_types.md "伤害类型")具有抗性，并在力量[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+- 还对[物理伤害](Damage_types.md "伤害类型")具有抗性，并在力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 - 无法施放或专注[法术](Spells.md "法术")。
 
 [Frenzied Spores](Frenzied_Spores_(Condition).md "狂乱孢子（状态）")
@@ -504,7 +504,7 @@
 |
 
 - 实体在[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[优势](Advantage.md "优势")。对其的攻击掷骰具有[劣势](Disadvantage.md "劣势")。
-- 当与物品互动、施放法术或攻击时，实体需要成功通过[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")以维持隐形。每次成功尝试后检定难度都会增加。
+- 当与物品互动、施放法术或攻击时，实体需要成功通过[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")以维持隐形。每次成功尝试后检定难度都会增加。
 
 [Guidance](Guidance_(Condition).md "神导术（状态）")
 |

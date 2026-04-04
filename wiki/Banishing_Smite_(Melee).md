@@ -2,7 +2,7 @@
 
 关于此法术的远程版本，请参阅 [放逐斩(远程)](Banishing_Smite_(Ranged).md "Banishing Smite (Ranged)")。
 
-**放逐斩(近战)** 是一个 [5级防护学派法术](Spells.md "Spells")。它允许施法者为其武器注入力量，造成力场伤害并可能将目标[流放](Banished_(Condition).md "Banished (Condition)")。
+**放逐斩(近战)** 是一个 [法术](Spells.md "法术")。它允许施法者为其武器注入力量，造成力场伤害并可能将目标[流放](Banished_(Condition).md "Banished (Condition)")。
 
 ## 描述
 

@@ -1,6 +1,6 @@
 # 燃烧年代
 
-**燃烧年代**是一个[等级 3 变化学派法术](Spells.md "Spells")。此法术是[元素年代](Elemental_Age.md "Elemental Age")的变体，使你的*主手武器*蕴含燃烧年代，为其附加火焰伤害加成和+1[惑控学派](Enchantment.md "Enchantment")。
+**燃烧年代**是一个[法术](Spells.md "法术")。此法术是[元素年代](Elemental_Age.md "Elemental Age")的变体，使你的*主手武器*蕴含燃烧年代，为其附加火焰伤害加成和+1[惑控学派](Enchantment.md "Enchantment")。
 
 ## 描述
 

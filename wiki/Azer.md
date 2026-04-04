@@ -55,11 +55,11 @@
 
 ## 特性
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -99,11 +99,11 @@
 
 ## 特性
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -145,7 +145,7 @@
 
 释放一部分内在火焰。所有附近的生物受到伤害并开始[灼烧](Burning_Fiercely_(Condition).md "灼烧 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
 [炽焰斩](Searing_Smite_(Azer).md "炽焰斩 (火矮人)") () – [火矮人战锤](Azer_Warhammer.md "火矮人战锤")
@@ -162,7 +162,7 @@
 
 你的武器发出白热的光芒。除了武器伤害外，它还造成额外的1d6[火焰](Fire.md "火焰")伤害，并使目标标记[炽焰斩](Searing_Smite_(Condition).md "炽焰斩 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5米（5英尺）
 充能：每场战斗一次
 

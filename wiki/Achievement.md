@@ -13,14 +13,14 @@ Escapologist | 被捕后越狱——你真是胆大包天？ |  | Expand Your Mi
 [Fancy Footwork](Guide_colon_Fancy_Footwork_(achievement).md) | 在飞龙岩要塞击败戈塔什而不触发任何陷阱。 |  | Fetch Quest | 和[挠挠](Scratch.md "挠挠")玩接球游戏——界域里最棒的男孩。 |  |
 First Blood | 在奥莉恩的邪教徒进行仪式吟唱时杀死她。 | 是 | Fists of Fury | 用[徒手打击](Unarmed_Strike.md "徒手打击")杀死一个角色。<sup>[\[1\]](#cite_note-1)</sup> |  |
 Foehammer | 在[荣誉](Honour.md "荣誉")模式下完成游戏。 | 是 (GOG) | Forged in Blood and Fire | 在[精金熔炉](Adamantine_Forge_(location)中制作一件物品.md)。 | 是 |
-Hero of the Forgotten Realms | 拯救世界：杀死耐色脑并摧毁至上寄生虫。 | 是 | Homebrewer | 在单次游戏流程中创造三种独特的[炼金溶液](Alchemy.md "炼金术")——干杯！ |  |
-Hot Date | 与[卡菈克](Karlach.md "卡尔拉克")约会——这可真是玩火。 | 是 | Interfectorem Draconis | 杀死[上城区的红龙](Confront_the_Elder_Brain.md "与主脑对峙")。 | 是 |
+Hero of the Forgotten Realms | 拯救世界：杀死耐色脑并摧毁至上寄生虫。 | 是 | Homebrewer | 在单次游戏流程中创造三种独特的[炼金术](Alchemy.md "炼金术")——干杯！ |  |
+Hot Date | 与[卡菈克](Karlach.md "卡尔拉克")约会——这可真是玩火。 | 是 | Interfectorem Draconis | 杀死[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")。 | 是 |
 Jack-of-all-Trades | 在单次游戏流程中多重职业至所有职业，而无需让守墓人更改你的角色。<sup>[\[2\]](#cite_note-2)</sup> |  | Just a Nibble | 让[阿斯代伦](Astarion.md "阿斯代伦")咬你一口——哎哟。 | 是 |
 Kill Two Birds With One Gnome | 用一个敌人作为即兴武器攻击另一个敌人。<sup>[\[3\]](#cite_note-3)</sup> |  | [Leave No One Behind](Leave_No_One_Behind.md "不落一人") | 在单次游戏流程中拯救所有你能救的提夫林难民。 | 是 |
 Loophole | 打破[威尔](Wyll.md "威尔")与[米佐拉](Mizora.md "米佐拉")的契约。 | 是 | Mind Blown | 与[君主](The_Emperor.md "君主")建立浪漫关系。 | 是 |
 Murder in Baldur's Gate | 让博德之门的街道血流成河——成为巴尔的邪神刺客。 | 是 | [No Free Lunches](Guide_colon_No_Free_Lunches.md "指南：没有免费午餐") | 在[米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒")消耗任何死灵侍僧之前击败它。 | 是 |
 No Penny Required | 成功使用[侦测思想](Detect_Thoughts.md "侦测思想")窥探某人的想法。 |  | [Non-Invasive Procedure](Non-Invasive_Procedure.md "非侵入性手术") | 在战斗中在外科医生对你进行手术之前杀死他。 |  |
-Outsourcing | 招募一名[雇佣兵](Hireling.md "雇佣兵")。你可以与他们交朋友，也可以把他们当炮灰——我们不会评判。 |  | Penny Pincher | 在[收费员](Gerringothe_Thorm.md "格灵哥斯·索姆")不使用金币对付你的情况下击败她——出色的预算管理。 |  |
+Outsourcing | 招募一名[雇佣兵](Hireling.md "雇佣兵")。你可以与他们交朋友，也可以把他们当炮灰——我们不会评判。 |  | Penny Pincher | 在[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")不使用金币对付你的情况下击败她——出色的预算管理。 |  |
 [Pest Control](Pest_Control.md "害虫控制") | 在蜘蛛女皇的卵孵化之前杀死她——为什么它们有这么多条腿？ | 是 | [Punch Drunk](Punch_Dunk.md "醉拳") | 在单次游戏流程中，当队伍角色醉酒时击败二十名对手——干掉他们。 |  |
 Repairing the Weave | 稳定[盖尔](Gale.md "盖尔")的耐瑟瑞尔法球。 | 是 | Roleplayer | 在单次游戏流程中完成十个背景目标——你与你的角色融为一体。 |  |
 [Rude, Crude, and Full of Attitude](Scroll_of_Summon_Quasit.md "夸塞魔召唤术卷轴") | 找到并召唤夸塞魔“铲子”。或者她的名字是……“叉子”？也许是“篮子”？ | 是 | [She Cannot Be Caged!](Guide_colon_She_Cannot_Be_Caged!.md "指南：她无法被关住！") | 在单次游戏流程中从翠绿林地、地精营地和月出之塔救出萨扎。 | 是 |

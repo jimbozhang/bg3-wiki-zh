@@ -91,33 +91,33 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 18 / (+4) | 12 / (+1) | 10 / (0) | 16 / (+3) | 12 / (+1) |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**惧怖伏兵**](Dread_Ambusher.md "Dread Ambusher")
+- [惧怖伏兵](Dread_Ambusher.md "惧怖伏兵")
 
 +3 先攻。在战斗的第一回合，进行一次额外的武器攻击，造成额外 1d8⁠⁠[物理](Physical.md "物理") 伤害。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势") 进行 [豁免检定](Saving_throw.md "豁免检定") 以抵抗 [中毒](Poisoned_(Condition).md) 并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**游侠骑士**](Ranger_Knight.md "Ranger Knight")
+- [游侠骑士](Ranger_Knight.md "游侠骑士")
 
 获得 [历史的](History.md "历史的") 和 [重甲](Heavy_Armour.md "重甲") 的 [熟练项](Proficiency.md "熟练项")。
 
@@ -167,33 +167,33 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +4 | +7 | +1 | 0 | +3 | +1 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**惧怖伏兵**](Dread_Ambusher.md "Dread Ambusher")
+- [惧怖伏兵](Dread_Ambusher.md "惧怖伏兵")
 
 +3 先攻。在战斗的第一回合，进行一次额外的武器攻击，造成额外 1d8⁠⁠[物理](Physical.md "物理") 伤害。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势") 进行 [豁免检定](Saving_throw.md "豁免检定") 以抵抗 [中毒](Poisoned_(Condition).md) 并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**游侠骑士**](Ranger_Knight.md "Ranger Knight")
+- [游侠骑士](Ranger_Knight.md "游侠骑士")
 
 获得 [历史的](History.md "历史的") 和 [重甲](Heavy_Armour.md "重甲") 的 [熟练项](Proficiency.md "熟练项")。
 
@@ -243,33 +243,33 @@
 | --- | --- | --- | --- |
 |  | 1 | 4 | 3 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**惧怖伏兵**](Dread_Ambusher.md "Dread Ambusher")
+- [惧怖伏兵](Dread_Ambusher.md "惧怖伏兵")
 
 +3 先攻。在战斗的第一回合，进行一次额外的武器攻击，造成额外 1d8⁠⁠[物理](Physical.md "物理") 伤害。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势") 进行 [豁免检定](Saving_throw.md "豁免检定") 以抵抗 [中毒](Poisoned_(Condition).md) 并对 [中毒](Poison.md "中毒") 伤害具有 [抗性](Resistance.md "抗性")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**游侠骑士**](Ranger_Knight.md "Ranger Knight")
+- [游侠骑士](Ranger_Knight.md "游侠骑士")
 
 获得 [历史的](History.md "历史的") 和 [重甲](Heavy_Armour.md "重甲") 的 [熟练项](Proficiency.md "熟练项")。
 
@@ -295,12 +295,12 @@ Stats
 
 ## 内容
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-  - [2.3 盟友](#allies)
-- [3 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+  - [2.3 盟友](#盟友)
+- [3 外部链接](#外部链接)
 
 ## 出场
 
@@ -333,7 +333,7 @@ Stats
 
 射击敌人的大腿，可能使其 [移动速度](Movement_speed.md "移动速度") 降低 50%。
 
-[体](Constitution.md "体") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

@@ -81,11 +81,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地 (状态)")而非杀死他们。
 
@@ -133,11 +133,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地 (状态)")而非杀死他们。
 
@@ -185,11 +185,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地 (状态)")而非杀死他们。
 

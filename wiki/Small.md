@@ -4,13 +4,13 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 体型类别](#size-categories)
-- [3 修改体型](#modifying-size)
-  - [3.1 形态改变](#altered-form)
-  - [3.2 巨化与缩小](#enlarge-and-reduce)
-- [4 错误](#bugs)
-- [5 备注](#notes)
+- [1 概述](#概述)
+- [2 体型类别](#体型类别)
+- [3 修改体型](#修改体型)
+  - [3.1 形态改变](#形态改变)
+  - [3.2 巨化与缩小](#巨化与缩小)
+- [4 错误](#错误)
+- [5 备注](#备注)
 
 ## 概述
 
@@ -31,7 +31,7 @@
 | 公斤 | 磅 | 公斤 | 磅 |  |  |
 | 微型 | 0 | 0 | 6 | 12 | [猫](Cat.md "Cat")、[岩石蛛](Crag_Spider.md "Crag Spider")、[青蛙](Frog.md "Frog")和[风元素](Air_Elemental.md "Air Elemental") |
 | 小型 | 11 | 22 | 40 | 80 | [半身人](Halfling.md "Halfling")、[侏儒](Gnome.md "Gnome")、[地精](Goblin.md "Goblin")和[恐鸦](Dire_Raven.md "Dire Raven") |
-| 中型 | 45 | 90 | 200 | 400 | [人类](Human.md "Human")、[矮人](Dwarf.md "Dwarf")[[[#cite_note-1 "[")注 1]，以及大多数其他[可玩种族](Race.md "Race") |
+| 中型 | 45 | 90 | 200 | 400 | [人类](Human.md "Human")、[矮人](Dwarf.md "Dwarf")[[[#cite_note-1 "[")注 1]，以及大多数其他[种族](Race.md "种族") |
 | 大型 | 205 | 410 | 5,000 | 10,000 | [食人魔](Ogre_(creature).md "Ogre (creature)")、[枭熊](Owlbear.md "Owlbear")、[安苏](Ansur.md "Ansur")[[[#cite_note-2 "[")注 2] |
 | 巨型 | 5,005 | 10,010 | 50,000 | 100,000 | [红龙](Red_Dragon.md "Red Dragon") |
 | 超巨型 | 50,005 | 100,010 | 500,000 | 1,000,000 | [鹦鹉螺](Nautiloid_(Creature).md "Nautiloid (Creature)") |
@@ -112,7 +112,7 @@
 | 公斤 | 磅 | 公斤 | 磅 |  |  |
 | 微型 | 0 | 0 | 6 | 12 | [猫](Cat.md "Cat")、[岩石蛛](Crag_Spider.md "Crag Spider")、[青蛙](Frog.md "Frog")和[风元素](Air_Elemental.md "Air Elemental") |
 | 小型 | 11 | 22 | 40 | 80 | [半身人](Halfling.md "Halfling")、[侏儒](Gnome.md "Gnome")、[地精](Goblin.md "Goblin")和[恐鸦](Dire_Raven.md "Dire Raven") |
-| 中型 | 45 | 90 | 200 | 400 | [人类](Human.md "Human")、[矮人](Dwarf.md "Dwarf")[[[#cite_note-1 "[")注 1]，以及大多数其他[可玩种族](Race.md "Race") |
+| 中型 | 45 | 90 | 200 | 400 | [人类](Human.md "Human")、[矮人](Dwarf.md "Dwarf")[[[#cite_note-1 "[")注 1]，以及大多数其他[种族](Race.md "种族") |
 | 大型 | 205 | 410 | 5,000 | 10,000 | [食人魔](Ogre_(creature).md "Ogre (creature)")、[枭熊](Owlbear.md "Owlbear")、[安苏](Ansur.md "Ansur")[[[#cite_note-2 "[")注 2] |
 | 巨型 | 5,005 | 10,010 | 50,000 | 100,000 | [红龙](Red_Dragon.md "Red Dragon") |
 | 超巨型 | 50,005 | 100,010 | 500,000 | 1,000,000 | [鹦鹉螺](Nautiloid_(Creature).md "Nautiloid (Creature)") |
@@ -124,7 +124,7 @@
 | 公斤 | 磅 | 公斤 | 磅 |  |  |
 | 微型 | 0 | 0 | 6 | 12 | [猫](Cat.md "Cat")、[岩石蛛](Crag_Spider.md "Crag Spider")、[青蛙](Frog.md "Frog")和[风元素](Air_Elemental.md "Air Elemental") |
 | 小型 | 11 | 22 | 40 | 80 | [半身人](Halfling.md "Halfling")、[侏儒](Gnome.md "Gnome")、[地精](Goblin.md "Goblin")和[恐鸦](Dire_Raven.md "Dire Raven") |
-| 中型 | 45 | 90 | 200 | 400 | [人类](Human.md "Human")、[矮人](Dwarf.md "Dwarf")[[[#cite_note-1 "[")注 1]，以及大多数其他[可玩种族](Race.md "Race") |
+| 中型 | 45 | 90 | 200 | 400 | [人类](Human.md "Human")、[矮人](Dwarf.md "Dwarf")[[[#cite_note-1 "[")注 1]，以及大多数其他[种族](Race.md "种族") |
 | 大型 | 205 | 410 | 5,000 | 10,000 | [食人魔](Ogre_(creature).md "Ogre (creature)")、[枭熊](Owlbear.md "Owlbear")、[安苏](Ansur.md "Ansur")[[[#cite_note-2 "[")注 2] |
 | 巨型 | 5,005 | 10,010 | 50,000 | 100,000 | [红龙](Red_Dragon.md "Red Dragon") |
 | 超巨型 | 50,005 | 100,010 | 500,000 | 1,000,000 | [鹦鹉螺](Nautiloid_(Creature).md "Nautiloid (Creature)") |

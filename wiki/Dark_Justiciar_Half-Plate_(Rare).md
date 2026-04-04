@@ -27,7 +27,7 @@
 用闪烁的魔法场包裹自己，使你的[护甲等级](Armour_Class.md "护甲等级")提高 2。(充能：[长休](Long_Rest.md "长休")。)
 
 [莎尔的暗影](Shar's_Umbrae.md "莎尔的暗影")
-当[隐匿](Obscured.md "隐匿")时，穿戴者进行[隐匿检定](Stealth.md "隐匿")时具有[优势](Advantage.md "优势")。
+当[隐匿](Obscured.md "隐匿")时，穿戴者进行[隐匿](Stealth.md "隐匿")时具有[优势](Advantage.md "优势")。
 
 ## 获取地点
 

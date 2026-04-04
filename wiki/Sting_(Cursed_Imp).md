@@ -22,7 +22,7 @@
 
 详情
 近战 非武装 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）（豁免成功：目标不承受额外中毒伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）（豁免成功：目标不承受额外中毒伤害。）
 近战：1.5 米（5 英尺）
 
 ## 技术细节

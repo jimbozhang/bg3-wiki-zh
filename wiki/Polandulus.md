@@ -29,7 +29,7 @@
 
 ### 原型
 
-[班恩之拳](Fist_of_Bane.md "Fist of Bane")
+[灾祸之拳](Fist_of_Bane.md "灾祸之拳")
 
 - 平衡
 
@@ -81,15 +81,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "Tactical Discipline")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")获得[优势](Advantage.md "Advantage")。
 
@@ -137,15 +137,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "Tactical Discipline")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")获得[优势](Advantage.md "Advantage")。
 
@@ -193,15 +193,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "Tactical Discipline")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")获得[优势](Advantage.md "Advantage")。
 
@@ -223,13 +223,13 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 仅限硬核/荣誉模式](#tactician/Honour_mode_only)
-  - [2.3 值得一提的战利品](#notable-loot)
-- [3 相关文献](#related-literature)
-- [4 闲聊](#idle-banter)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 仅限硬核/荣誉模式](#仅限硬核-荣誉模式)
+  - [2.3 值得一提的战利品](#值得一提的战利品)
+- [3 相关文献](#相关文献)
+- [4 闲聊](#闲聊)
 
 ## 出场
 

@@ -2,7 +2,7 @@
 
 **掌握精华**
 
-- 当你用徒手攻击击中一个生物时，你可以恢复10点[生命值](Healing.md "治疗")，或者选择在你的下个回合结束前获得[优势](Advantage.md "优势")，用于[攻击掷骰](Attack_roll.md "攻击掷骰")或[豁免检定](Saving_throw.md "豁免检定")。
+- 当你用徒手攻击击中一个生物时，你可以恢复10点[治疗](Healing.md "治疗")，或者选择在你的下个回合结束前获得[优势](Advantage.md "优势")，用于[攻击掷骰](Attack_roll.md "攻击掷骰")或[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 属性
 
@@ -17,7 +17,7 @@
 在你的下一次[豁免检定](Saving_throw.md "豁免检定")上获得+5加值。（充能：每驱散。）
 
 [Soul Snare: Heal](Soul_Snare_colon__Heal.md "灵魂陷阱：治疗")
-通过捕捉灵魂治疗10点[生命值](Healing.md "治疗")。（充能：每驱散。）
+通过捕捉灵魂治疗10点[治疗](Healing.md "治疗")。（充能：每驱散。）
 
 ## 备注
 
@@ -38,7 +38,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 当你用徒手攻击击中一个生物时，你可以恢复10点[生命值](Healing.md "治疗")，或者选择在你的下个回合结束前获得[优势](Advantage.md "优势")，用于[攻击掷骰](Attack_roll.md "攻击掷骰")或[豁免检定](Saving_throw.md "豁免检定")。
+- 当你用徒手攻击击中一个生物时，你可以恢复10点[治疗](Healing.md "治疗")，或者选择在你的下个回合结束前获得[优势](Advantage.md "优势")，用于[攻击掷骰](Attack_roll.md "攻击掷骰")或[豁免检定](Saving_throw.md "豁免检定")。
 
 ---
 *Source: [Grasp Essence (Condition)](https://bg3.wiki/wiki/Grasp_Essence_(Condition)*

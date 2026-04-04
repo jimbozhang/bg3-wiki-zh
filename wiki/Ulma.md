@@ -92,31 +92,31 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术和地表的[敏捷豁免](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。不能是目盲或[失能](Incapacitated.md "失能")状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
-- [**愤怒伤痕**](Scar_of_Fury.md "愤怒伤痕")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 当你的生命值低于 40% 时，你的攻击造成[重击](Critical_Hit.md "重击")。
 
@@ -124,11 +124,11 @@
 
 当你的生命值处于 20% 或更低时，你的攻击造成额外 4d8⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-- [**热风伤痕**](Scar_of_the_Sirocco.md "热风伤痕")
+- [热风伤痕](Scar_of_the_Sirocco.md "热风伤痕")
 
 当此角色的生命值低于 90% 时，其攻击可能使目标[倒伏](Prone.md "倒伏")。
 
-- [**清洗邪恶**](Slay_the_Wicked.md "清洗邪恶")
+- [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")
 
 此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外 1d6⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
@@ -184,31 +184,31 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术和地表的[敏捷豁免](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。不能是目盲或[失能](Incapacitated.md "失能")状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
-- [**愤怒伤痕**](Scar_of_Fury.md "愤怒伤痕")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 当你的生命值低于 40% 时，你的攻击造成[重击](Critical_Hit.md "重击")。
 
@@ -216,11 +216,11 @@
 
 当你的生命值处于 20% 或更低时，你的攻击造成额外 4d8⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-- [**热风伤痕**](Scar_of_the_Sirocco.md "热风伤痕")
+- [热风伤痕](Scar_of_the_Sirocco.md "热风伤痕")
 
 当此角色的生命值低于 90% 时，其攻击可能使目标[倒伏](Prone.md "倒伏")。
 
-- [**清洗邪恶**](Slay_the_Wicked.md "清洗邪恶")
+- [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")
 
 此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外 1d6⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
@@ -276,31 +276,31 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会掷一个额外的伤害骰。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术和地表的[敏捷豁免](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。不能是目盲或[失能](Incapacitated.md "失能")状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后，可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
-- [**愤怒伤痕**](Scar_of_Fury.md "愤怒伤痕")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 当你的生命值低于 40% 时，你的攻击造成[重击](Critical_Hit.md "重击")。
 
@@ -308,11 +308,11 @@
 
 当你的生命值处于 20% 或更低时，你的攻击造成额外 4d8⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-- [**热风伤痕**](Scar_of_the_Sirocco.md "热风伤痕")
+- [热风伤痕](Scar_of_the_Sirocco.md "热风伤痕")
 
 当此角色的生命值低于 90% 时，其攻击可能使目标[倒伏](Prone.md "倒伏")。
 
-- [**清洗邪恶**](Slay_the_Wicked.md "清洗邪恶")
+- [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")
 
 此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外 1d6⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
@@ -346,13 +346,13 @@ Stats
 
 ## 目录
 
-- [1 参与度](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 闲聊](#idle-banter)
-- [4 死者交谈](#speak-with-dead)
-- [5 相关任务](#related-quests)
+- [1 参与度](#参与度)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 闲聊](#闲聊)
+- [4 死者交谈](#死者交谈)
+- [5 相关任务](#相关任务)
 
 ## 参与度
 

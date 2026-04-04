@@ -1,6 +1,6 @@
 # 恐惧面具
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被引导至此](Special_colon_WhatLinksHere/Mask_of_Terror.md "Special:WhatLinksHere/Mask of Terror")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[恐惧面具](Special_colon_WhatLinksHere/Mask_of_Terror.md "恐惧面具")的，请考虑编辑该链接，将其指向正确的页面。
 
 **恐惧面具**可能指以下[鬼婆面具受害者](Category_colon_Masked_Hag_Victims.md "Category:Masked Hag Victims")：
 

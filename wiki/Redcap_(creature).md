@@ -69,7 +69,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -77,7 +77,7 @@
 
 红帽子在[嗜血](Bloodlust_(Condition).md "嗜血（状态）")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击（红帽子）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -121,7 +121,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -129,7 +129,7 @@
 
 红帽子在[嗜血](Bloodlust_(Condition).md "嗜血（状态）")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击（红帽子）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -173,7 +173,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -181,11 +181,11 @@
 
 红帽子在[嗜血](Bloodlust_(Condition).md "嗜血（状态）")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击（红帽子）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血（状态）")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
@@ -197,12 +197,12 @@
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 战术](#tactics)
-  - [1.3 重要战利品](#notable-loot)
-- [2 伙伴好感度](#companion-approval)
-- [3 画廊](#gallery)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 战术](#战术)
+  - [1.3 重要战利品](#重要战利品)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 画廊](#画廊)
 
 ## 战斗
 
@@ -216,7 +216,7 @@
 
 发动飞踢，将目标击退 2 米 / 7 英尺并使其[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
 [主手攻击](Main_Hand_Attack.md "主手攻击") () – [镰刀](Sickle.md "镰刀")
@@ -248,7 +248,7 @@
 
 ### 战术
 
-**红帽子**在[第一幕](Act_One.md "第一幕")早期是非常危险的敌人，因为它们拥有高[力量](Strength.md "力量")和[生命值](Hit_Points.md "生命值")。它们很可能会从[鲜血贤者](Redcap_Blood_Sage.md "红帽子鲜血贤者")那里获得嗜血，从而能够进行[多重攻击](Multiattack.md "多重攻击")。它们的飞踢会击倒敌人，并且它们对流血的敌人获得[优势](Advantage.md "优势")，这可能是由鲜血贤者造成的。
+**红帽子**在[第一幕](Act_One.md "第一幕")早期是非常危险的敌人，因为它们拥有高[力量](Strength.md "力量")和[生命值](Hit_Points.md "生命值")。它们很可能会从[红帽子鲜血贤者](Redcap_Blood_Sage.md "红帽子鲜血贤者")那里获得嗜血，从而能够进行[多重攻击](Multiattack.md "多重攻击")。它们的飞踢会击倒敌人，并且它们对流血的敌人获得[优势](Advantage.md "优势")，这可能是由鲜血贤者造成的。
 
 虽然战斗力强大，但它们对大多数针对[敏捷](Dexterity.md "敏捷")、[智力](Intelligence.md "智力")和[感知](Wisdom.md "感知")的法术和能力缺乏抗性。远程攻击对它们很有效，因为它们需要穿越[劣势地形](Difficult_Terrain.md "劣势地形")才能接近队伍。
 

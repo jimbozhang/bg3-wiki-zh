@@ -88,23 +88,23 @@
 
 - - ## 特性
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**岩石伪装**](Stone_Camouflage.md "Stone Camouflage")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
 你在[隐匿](Stealth.md "Stealth")检定上具有[优势](Advantage.md "Advantage")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
@@ -186,7 +186,7 @@ UUID
 
 每个易燃目标受到 3d6⁠⁠[火焰](Fire.md "Fire") 伤害。
 
-[敏](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 射程：自身
 
 [火焰箭](Fire_Bolt.md "Fire Bolt") ()
@@ -209,7 +209,7 @@ UUID
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法获得开放伤口。
 
-[体](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "Saving throws")
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 

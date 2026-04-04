@@ -73,11 +73,11 @@
 
 ## 特性
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -123,11 +123,11 @@
 
 ## 特性
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -173,15 +173,15 @@
 
 ## 特性
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**魅惑**](Charm.md "魅惑")
+- [魅惑](Charm.md "魅惑")
 
 可以[魅惑](Charmed_(Condition).md) 攻击的敌人，阻止其在下一回合前进行进一步攻击。
 
@@ -189,13 +189,13 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 备注](#notes)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 备注](#备注)
 
 ## 参与
 
@@ -205,7 +205,7 @@
 
 醒来后，夺心魔注意到队伍的蝌蚪，并要求食用一个新鲜的大脑，这会启动[释放夺心魔](Feed_the_Mind_Flayer.md "释放夺心魔")。队伍可以给它带来一具新鲜的尸体，让它自己找食物，或杀死它。第一和第三个选项会授予一个免费的灵吸怪能力。
 
-如果夺心魔被喂食且未被杀死，它会前往[下城区](Lower_City.md "下城区")并谋杀[阿姆布鲁斯特](Armbrust's_Home.md "阿姆布鲁斯特之家")一家，并留在他们的家中，直到被守卫发现。
+如果夺心魔被喂食且未被杀死，它会前往[下城区](Lower_City.md "下城区")并谋杀[阿姆布鲁斯特之家](Armbrust's_Home.md "阿姆布鲁斯特之家")一家，并留在他们的家中，直到被守卫发现。
 
 根据夺心魔携带的[至上真神指令：新教徒](Absolute_Orders_colon__Newborn.md "至上真神指令：新教徒")，它的原名可能是 Alyan，是[焰拳](Flaming_Fist.md "焰拳")的一员。
 
@@ -215,7 +215,7 @@
 - [新发现的臣民](Noble.md#Newfound_Subject "贵族") ([贵族](Noble.md "贵族") 背景) - 喂食它
 - [意外的育儿](Haunted_One.md#Unexpected_Parenting "邪念缠身") ([邪念缠身](Haunted_One.md "邪念缠身") 背景) - 喂食它
 
-向夺心魔提供尸体喂食被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")，对于[复仇圣武士](Oath_of_Vengeance.md "复仇之誓")、[古贤圣武士](Oath_of_the_Ancients.md "古贤之誓")和[奉献圣武士](Oath_of_Devotion.md "奉献之誓")（对于[王冠圣武士](Oath_of_the_Crown.md "王冠之誓") \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 也是破誓行为）。
+向夺心魔提供尸体喂食被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")，对于[复仇之誓](Oath_of_Vengeance.md "复仇之誓")、[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")和[奉献之誓](Oath_of_Devotion.md "奉献之誓")（对于[王冠圣武士](Oath_of_the_Crown.md "王冠之誓") \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 也是破誓行为）。
 
 ## 战斗
 

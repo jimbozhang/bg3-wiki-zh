@@ -37,9 +37,9 @@ UID
 - 挖掘无法作为独立动作在快捷栏中使用，只能通过使用铲子物品来触发。
   - 拥有铲子时，也可以通过与[土堆](Dirt_Mound.md "土堆")互动来使用挖掘。
   - 要挖掘[土堆](Dirt_Mound.md "土堆")；执行此动作的角色必须在物品栏中拥有铲子。
-- 即使队伍未能通过所有检测埋藏宝藏的技能检定（通常是[求生](Survival.md "求生")[检定](Ability_Check.md "属性检定")或[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")），仍然可以使用[铲子（物品）](Shovel_(item).md "铲子（物品）")进行挖掘。
+- 即使队伍未能通过所有检测埋藏宝藏的技能检定（通常是[求生](Survival.md "求生")[属性检定](Ability_Check.md "属性检定")或[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")），仍然可以使用[铲子（物品）](Shovel_(item).md "铲子（物品）")进行挖掘。
 - 在[荒野形态](Wild_Shape.md "荒野形态")下无法进行挖掘。
-- 在[杀戮者形态](Slayer.md "杀戮者")下可以进行挖掘。
+- 在[杀戮者](Slayer.md "杀戮者")下可以进行挖掘。
 
 ---
 *Source: [Dig](https://bg3.wiki/wiki/Dig)*

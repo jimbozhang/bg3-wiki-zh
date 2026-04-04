@@ -75,31 +75,31 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 14 / (+2) | 10 / (0) | 20 / (+5) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "Living Shadow")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "Damage Types")，除了⁠[力场](Force.md "Force")、⁠[心灵](Psychic.md "Psychic")或⁠[光耀](Radiant.md "Radiant")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**智力典范**](Paragon_of_Intelligence.md "Paragon of Intelligence")
+- [智力典范](Paragon_of_Intelligence.md "智力典范")
 
 所有智力[豁免检定](Saving_throw.md "Saving Throw")和法术[攻击掷骰](Attack_rolls.md "Attack Rolls")具有[优势](Advantage.md "Advantage")。
 
-- [**莎尔视界**](Shar's_Sight.md "Shar's Sight")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
-- [**日照弱点**](Sunlight_Weakness.md "Sunlight Weakness")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "Attack rolls")和[豁免检定](Saving_throws.md "Saving throws")具有[劣势](Disadvantage.md "Disadvantage")。
 
@@ -145,31 +145,31 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | +5 | 0 | +5 | 0 | 0 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "Living Shadow")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "Damage Types")，除了⁠[力场](Force.md "Force")、⁠[心灵](Psychic.md "Psychic")或⁠[光耀](Radiant.md "Radiant")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**智力典范**](Paragon_of_Intelligence.md "Paragon of Intelligence")
+- [智力典范](Paragon_of_Intelligence.md "智力典范")
 
 所有智力[豁免检定](Saving_throw.md "Saving Throw")和法术[攻击掷骰](Attack_rolls.md "Attack Rolls")具有[优势](Advantage.md "Advantage")。
 
-- [**莎尔视界**](Shar's_Sight.md "Shar's Sight")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
-- [**日照弱点**](Sunlight_Weakness.md "Sunlight Weakness")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "Attack rolls")和[豁免检定](Saving_throws.md "Saving throws")具有[劣势](Disadvantage.md "Disadvantage")。
 
@@ -215,39 +215,39 @@
 | --- | --- | --- | --- |
 |  | 1 | 2 | 0 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "Living Shadow")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于轻度或重度遮蔽时，此角色对所有伤害具有[抗性](Damage_types.md "Damage Types")，除了⁠[力场](Force.md "Force")、⁠[心灵](Psychic.md "Psychic")或⁠[光耀](Radiant.md "Radiant")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**智力典范**](Paragon_of_Intelligence.md "Paragon of Intelligence")
+- [智力典范](Paragon_of_Intelligence.md "智力典范")
 
 所有智力[豁免检定](Saving_throw.md "Saving Throw")和法术[攻击掷骰](Attack_rolls.md "Attack Rolls")具有[优势](Advantage.md "Advantage")。
 
-- [**莎尔视界**](Shar's_Sight.md "Shar's Sight")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
-- [**日照弱点**](Sunlight_Weakness.md "Sunlight Weakness")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "Attack rolls")和[豁免检定](Saving_throws.md "Saving throws")具有[劣势](Disadvantage.md "Disadvantage")。
 
-- [**预兆戏法**](Potent_Cantrip.md "Potent Cantrip")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人成功通过戏法的[豁免检定](Saving_throw.md "Saving throw")后，仍会受到一半伤害。
 
-- [**惧怖收割**](Grim_Harvest.md "Grim Harvest")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 击杀一个活物时，获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
@@ -303,7 +303,7 @@ UUID
 
 \+ 2d4⁠[强酸](Acid.md "Acid")
 
-射出一支绿色箭矢，在酸液喷雾中爆裂。立即造成⁠[4d4 强酸](Acid.md "Acid")伤害，并在目标下一回合结束时造成⁠[2d4 强酸](Acid.md "Acid")伤害。
+射出一支绿色箭矢，在酸液喷雾中爆裂。立即造成⁠[强酸](Acid.md "强酸")伤害，并在目标下一回合结束时造成⁠[强酸](Acid.md "强酸")伤害。
 
 如果法术未命中，目标仍会受到一半初始伤害，但在其下一回合结束时不会受到伤害。
 
@@ -316,7 +316,7 @@ UUID
 射程：18 米 (60 英尺)
 
 [暗影步](Shadow_Step.md "Shadow Step") ()
-从[阴影](Lightly_Obscured.md "Lightly Obscured")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
 
 射程：18 米 (60 英尺)
 

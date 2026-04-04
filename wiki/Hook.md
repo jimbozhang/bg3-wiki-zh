@@ -2,7 +2,7 @@
 
 关于职业动作的钩子，请参见 [钩子（职业动作）](Hook_(class_action)..md)
 
-**钩子**是一种[炼金术材料](Alchemy.md "炼金术")。组合3个可制作[染血钩爪升华物](Sublimate_of_Bloodstained_Hook.md "染血钩爪升华物")，用于制作[警觉灵药](Elixir_of_Vigilance.md "警觉灵药")。
+**钩子**是一种[炼金术](Alchemy.md "炼金术")。组合3个可制作[染血钩爪升华物](Sublimate_of_Bloodstained_Hook.md "染血钩爪升华物")，用于制作[警觉灵药](Elixir_of_Vigilance.md "警觉灵药")。
 
 一根溅满鲜血的骨钩。它冰冷而锋利，如同磨利的刀刃。
 

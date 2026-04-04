@@ -2,7 +2,7 @@
 
 关于装备类型，请参见 [刺剑](Rapiers.md "Rapiers")。
 
-**刺剑**是 [刺剑](Rapiers.md "Rapiers") 武器家族中一种普通的、非魔法的变体。它是一种单手持握的 [军用近战武器](Weapons.md "Weapons")。作为一种 [灵巧](Finesse.md "Finesse") 武器，它可以受益于使用者的敏捷，而不仅仅是力量。
+**刺剑**是 [刺剑](Rapiers.md "Rapiers") 武器家族中一种普通的、非魔法的变体。它是一种单手持握的 [武器](Weapons.md "武器")。作为一种 [灵巧](Finesse.md "Finesse") 武器，它可以受益于使用者的敏捷，而不仅仅是力量。
 
 一把纤细但致命的剑，深受深水城贵族的喜爱。
 

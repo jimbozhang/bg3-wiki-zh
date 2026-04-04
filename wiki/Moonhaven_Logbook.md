@@ -38,7 +38,7 @@
 
 30 腐叶之月。袭击！黑色盔甲士兵。造成一些破坏。非塞尔人，但很危险。
 
-14 夜明之月。[书](Necromancy_of_Thay.md "Necromancy of Thay") 的 [钥匙](Dark_Amethyst.md "Dark Amethyst") 宝石失踪。命令魔宠监视我的学徒。
+14 夜明之月。[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术") 的 [暗紫水晶](Dark_Amethyst.md "暗紫水晶") 宝石失踪。命令魔宠监视我的学徒。
 
 14 夜明之月。辛格经过。没有停留。
 

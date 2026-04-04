@@ -1,6 +1,6 @@
 # 致伤射线
 
-**致伤射线**是一个[等级 3 死灵学派法术](Spells.md "Spells")。它是由[观察者眼魔的眼柄](The_Spectator_Eyes.md "The Spectator Eyes")授予的法术，允许使用者发射一道致命的黯蚀光束。
+**致伤射线**是一个[法术](Spells.md "法术")。它是由[观察者眼魔的眼柄](The_Spectator_Eyes.md "The Spectator Eyes")授予的法术，允许使用者发射一道致命的黯蚀光束。
 
 ## 描述
 

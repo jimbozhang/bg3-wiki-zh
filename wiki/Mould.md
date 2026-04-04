@@ -1,6 +1,6 @@
 # 模具
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Mould.md "Special:WhatLinksHere/Mould")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[模具](Special_colon_WhatLinksHere/Mould.md "模具")的，请考虑编辑该链接，将其指向正确的页面。
 
 **模具**指的是在[精金熔炉](Adamantine_Forge_(location).md "精金熔炉（地点）")中锻造[精金套装](Adamantine_set.md#Craftable "精金套装")物品所需的六种常见[杂物](Miscellaneous.md#Other_Misc. "杂物")：
 

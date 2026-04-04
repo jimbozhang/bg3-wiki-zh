@@ -74,7 +74,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -118,7 +118,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -162,7 +162,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -180,14 +180,14 @@ UUID
 
 Stats
 
-`Human_Commoner` **马尔帕·戈莱维茨**是居住在[阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸")的[人类](Human.md "人类")难民，位于[第三幕](Act_Three.md "第三幕")。她可以在房子里与她的丈夫[本](Ben_Golewits.md "本")和女儿[辛塔](Cinta_Golewits.md "辛塔")一起被找到。
+`Human_Commoner` **马尔帕·戈莱维茨**是居住在[阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸")的[人类](Human.md "人类")难民，位于[第三幕](Act_Three.md "第三幕")。她可以在房子里与她的丈夫[本·戈莱维茨](Ben_Golewits.md "本·戈莱维茨")和女儿[辛塔·戈莱维茨](Cinta_Golewits.md "辛塔·戈莱维茨")一起被找到。
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
 
 ## 参与度
 

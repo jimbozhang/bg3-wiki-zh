@@ -54,15 +54,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "Githyanki Parry")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -98,15 +98,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "Githyanki Parry")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -142,36 +142,36 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "Githyanki Parry")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外1d6⁠⁠[心灵](Psychic.md "Psychic")伤害——灵吸怪奴役的伤痕深入骨髓。
 
-**吉斯洋基战士**是贯穿_[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")_的[类职业](Class.md "Class")[吉斯洋基人](Githyanki.md "Githyanki")角色原型。
+**吉斯洋基战士**是贯穿_[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")_的[职业](Class.md "职业")[吉斯洋基人](Githyanki.md "Githyanki")角色原型。
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 命名战士](#named-warriors)
-  - [3.1 伊雷珂养育间](#cr%C3%A8che_Y'llek)
-  - [3.2 盾牌骑士藏身点（增援）](#knights-of-the-shield-hideout-(Reinforcements))
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 命名战士](#命名战士)
+  - [3.1 伊雷珂养育间](#伊雷珂养育间)
+  - [3.2 盾牌骑士藏身点（增援）](#盾牌骑士藏身点增援))
 
 ## 出场
 
@@ -218,7 +218,7 @@
 
 1d10 + 战士等级⁠[治疗](Healing.md "Healing")
 
-消耗你的体力来保护自己。你恢复1d10 + 战士等级⁠⁠[生命值](Healing.md "Healing")。
+消耗你的体力来保护自己。你恢复1d10 + 战士等级⁠⁠[治疗](Healing.md "治疗")。
 
 范围：自身
 充能：[短休](Short_rest.md "Short rest")

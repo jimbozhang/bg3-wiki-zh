@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏流程获得](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具获取。
 
-**药杓**是[轻锤](Light_Hammers.md "Light Hammers")武器家族中一种带有轻微惑控学派强化（+1）的罕见变体。它是一种[简易近战武器](Weapons.md "Weapons")，可单手挥舞。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。其设计使其非常适合作为投射物[投掷](Thrown.md "Thrown")向敌人。
+**药杓**是[轻锤](Light_Hammers.md "Light Hammers")武器家族中一种带有轻微惑控学派强化（+1）的罕见变体。它是一种[武器](Weapons.md "武器")，可单手挥舞。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。其设计使其非常适合作为投射物[投掷攻击](Thrown.md "投掷攻击")向敌人。
 
 一位技艺精湛的铁匠用精美的金丝装饰了木柄。
 
@@ -18,7 +18,7 @@
 惑控学派强化：**+1**
 单手
 [轻型](Light_(weapon_property).md "Light (weapon property)")
-[投掷](Thrown.md "Thrown")
+[投掷攻击](Thrown.md "投掷攻击")
 [可蘸取](Dippable.md "Dippable")
 近战：1.5 米（5 英尺）
 重量：0.9 千克（1.8 磅）

@@ -6,7 +6,7 @@
 
 每轮一次，奥林或沙洛佛克可以使用他们的传奇动作立即反击攻击者。
 
-如果[死亡使者的遗赠](Deathbringer's_Legacy_(Condition).md "死亡使者的遗赠（状态）")处于激活状态，他们将改为使用[死亡使者袭击（沙洛佛克）](Deathbringer_Assault.md "死亡使者袭击")或[死亡使者袭击（奥林）](Deathbringer_Assault_(Orin).md "死亡使者袭击（奥林）")。
+如果[死亡使者的遗赠](Deathbringer's_Legacy_(Condition).md "死亡使者的遗赠（状态）")处于激活状态，他们将改为使用[死亡使者袭击](Deathbringer_Assault.md "死亡使者袭击")或[死亡使者袭击（奥林）](Deathbringer_Assault_(Orin).md "死亡使者袭击（奥林）")。
 
 传奇动作在每轮开始时恢复。
 

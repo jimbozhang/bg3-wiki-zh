@@ -2,7 +2,7 @@
 
 本文介绍的内容在**[正常游戏过程中无法获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具获取。
 
-**混沌连枷**是[链枷](Flails.md "Flails")武器家族中轻度附魔（+1）的变体。它是一种单手挥舞的[近战武器](Weapons.md "Weapons")。
+**混沌连枷**是[链枷](Flails.md "Flails")武器家族中轻度附魔（+1）的变体。它是一种单手挥舞的[武器](Weapons.md "武器")。
 
 这是弗林德的武器，灌注了恶魔领主伊诺古的力量。有些人认为连枷本身是将豺狼人转变为凶残弗林德的催化剂。
 

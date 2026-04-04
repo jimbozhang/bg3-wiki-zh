@@ -91,19 +91,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出1或2的骰子可以重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名未[失能](Incapacitated_(Condition)的持盾盟友一起时.md)，获得[优势](Advantage.md "Advantage")进行[攻击掷骰](Attack_rolls.md "Attack rolls")。
 
@@ -159,19 +159,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出1或2的骰子可以重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名未[失能](Incapacitated_(Condition)的持盾盟友一起时.md)，获得[优势](Advantage.md "Advantage")进行[攻击掷骰](Attack_rolls.md "Attack rolls")。
 
@@ -227,19 +227,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出1或2的骰子可以重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名未[失能](Incapacitated_(Condition)的持盾盟友一起时.md)，获得[优势](Advantage.md "Advantage")进行[攻击掷骰](Attack_rolls.md "Attack rolls")。
 
@@ -273,11 +273,11 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与度
 
@@ -357,7 +357,7 @@ UUID
 
 你的[力量](Strength.md "Strength")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "Thrown")属性的武器的伤害与武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与武器的近战伤害相同。
 
 范围：3-18 米 (10-60 英尺)
 

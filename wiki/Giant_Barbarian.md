@@ -23,7 +23,7 @@ _此副职获得其基础职业[野蛮人](Barbarian.md "野蛮人")的所有特
 你的[负重](Carrying_capacity.md "负重")提高四分之一。
 
 [奇术](Thaumaturgy.md "奇术") ()
-在[威吓](Intimidation.md "威吓")和[表演](Performance.md "表演")[检定](Skill_Check.md "技能检定")上获得[优势](Advantage.md "优势")。
+在[威吓](Intimidation.md "威吓")和[表演](Performance.md "表演")[技能检定](Skill_Check.md "技能检定")上获得[优势](Advantage.md "优势")。
 
 ### 等级 5
 

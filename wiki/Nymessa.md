@@ -89,11 +89,11 @@
 
 - ## 特性
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -143,7 +143,7 @@
 
 - ## 特性
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
@@ -193,11 +193,11 @@
 
 - ## 特性
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -247,7 +247,7 @@ UUID
 
 队伍可以说服[提夫林](Tiefling.md "提夫林")离开该区域，或提议帮忙杀死莱埃泽尔。如果奈美莎和达梅斯没有被威吓解决，队伍可以询问附近的治疗师。他们建议寻找[内蒂](Nettie.md "内蒂")，这会推进[寻找治疗方法](Find_a_Cure.md "寻找治疗方法")和[获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "获得医师内蒂的帮助")。
 
-以任何方式攻击达梅斯和奈美莎，包括通过对话发生的选项，对于[任何誓言副职的圣武士](Paladin.md "圣武士")而言，都被视为[违背誓言行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
+以任何方式攻击达梅斯和奈美莎，包括通过对话发生的选项，对于[圣武士](Paladin.md "圣武士")而言，都被视为[违背誓言行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
 
 ## 伙伴好感度
 

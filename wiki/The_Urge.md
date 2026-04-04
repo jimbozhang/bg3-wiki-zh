@@ -15,16 +15,16 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 序幕](#prologue)
-    - [2.1.1 发现邪念](#discovering-the-urge)
-  - [2.2 第一幕](#act-one)
-    - [2.2.1 选项1：藏匿尸体](#option-1:_Hide_the_body)
-    - [2.2.2 选项2：回去睡觉](#option-2:_Go_back_to_sleep)
-    - [2.2.3 选项3：洗掉血迹](#option-3:_Wash_the_blood_away)
-    - [2.2.4 奎尔·古罗兹兰古](#quill-grootslang)
-- [3 成就](#achievements)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 序幕](#序幕)
+    - [2.1.1 发现邪念](#发现邪念)
+  - [2.2 第一幕](#第一幕)
+    - [2.2.1 选项1：藏匿尸体](#选项1藏匿尸体)
+    - [2.2.2 选项2：回去睡觉](#选项2回去睡觉)
+    - [2.2.3 选项3：洗掉血迹](#选项3洗掉血迹)
+    - [2.2.4 奎尔·古罗兹兰古](#奎尔·古罗兹兰古)
+- [3 成就](#成就)
 
 ## 目标
 
@@ -106,7 +106,7 @@
 
 从[夺心魔贮囊](Mind_Flayer_Pod.md "Mind Flayer Pod")挣脱后，角色意识到自己患有严重的失忆症。很快他们也意识到，出于未知原因，他们有暴力的冲动。
 
-在[逃离](Escape_the_Nautiloid.md "Escape the Nautiloid")[鹦鹉螺](Nautiloid.md "Nautiloid")后，检查[疮痍的海滩](Ravaged_Beach.md "Ravaged Beach")上被撕碎的渔夫尸体会让邪念微笑，通过DC 7的[智力](Intelligence.md "Intelligence")检定会揭示关于一千种不同死亡的记忆闪现。
+在[逃离鹦鹉螺](Escape_the_Nautiloid.md "逃离鹦鹉螺")[鹦鹉螺](Nautiloid.md "Nautiloid")后，检查[疮痍的海滩](Ravaged_Beach.md "Ravaged Beach")上被撕碎的渔夫尸体会让邪念微笑，通过DC 7的[智力](Intelligence.md "Intelligence")检定会揭示关于一千种不同死亡的记忆闪现。
 
 ### 第一幕
 
@@ -148,7 +148,7 @@
 
 对话选项与**选项2**类似，但显著例外是，如果邪念声称他们什么都没看见，队伍会相信他们，并且使用欺瞒的选项DC是15而不是7。这可能是开发者的错误，这两个数字应该互换（选项2的DC为15，选项3的DC为7）。欺瞒检定失败会导致：-1 -1 -1
 
-如果邪念被认定对阿尔菲拉的谋杀负责，大多数伙伴在私下谈话中会警惕邪念，并发誓要更密切地监视他们，但[阿斯代伦](Astarion.md "Astarion")例外，他不反对他们的行为。大多数伙伴也会责怪[蝌蚪](Mind_Flayer_Tadpole.md "Mind Flayer Tadpole")导致了这种异常行为。无论采取哪条路径，阿斯代伦都知道真正发生了什么，他的问候相应地改变，称邪念为“匕首爱好者朋友”等。阿尔菲拉的死亡也为邪念赢得了[剪断琴弦](Haunted_One.md#Snipping_the_Chords "Haunted One")激励点。
+如果邪念被认定对阿尔菲拉的谋杀负责，大多数伙伴在私下谈话中会警惕邪念，并发誓要更密切地监视他们，但[阿斯代伦](Astarion.md "Astarion")例外，他不反对他们的行为。大多数伙伴也会责怪[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")导致了这种异常行为。无论采取哪条路径，阿斯代伦都知道真正发生了什么，他的问候相应地改变，称邪念为“匕首爱好者朋友”等。阿尔菲拉的死亡也为邪念赢得了[剪断琴弦](Haunted_One.md#Snipping_the_Chords "Haunted One")激励点。
 
 #### 奎尔·古罗兹兰古
 

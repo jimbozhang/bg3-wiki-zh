@@ -63,11 +63,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
@@ -111,11 +111,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
@@ -147,7 +147,7 @@ UUID
 
 Stats
 
-`Companion_Raven_Flock` **乌鸦座**是一只通过[驯兽师](Beast_Master.md "驯兽师")的[恐鸦伙伴](Dire_Raven_Companion.md "恐鸦伙伴")能力召唤的[渡鸦](Raven.md "Raven")，这是[游侠伙伴](Ranger's_Companion.md "游侠伙伴")的一个变体。当驯兽师达到 5 级时，乌鸦座会“升级”为[乌鸦座主星](Corvus_Major.md "乌鸦座主星")，当驯兽师达到 11 级时，会成为[神速鸦](Corvus_Celer.md "神速鸦")。
+`Companion_Raven_Flock` **乌鸦座**是一只通过[驯兽师](Beast_Master.md "驯兽师")的[恐鸦伙伴](Dire_Raven_Companion.md "恐鸦伙伴")能力召唤的[渡鸦](Raven.md "Raven")，这是[游侠伙伴](Ranger's_Companion.md "游侠伙伴")的一个变体。当驯兽师达到 5 级时，乌鸦座会“升级”为[乌鸦座](Corvus_Major.md "乌鸦座")，当驯兽师达到 11 级时，会成为[神速鸦](Corvus_Celer.md "神速鸦")。
 
 ## 战斗
 

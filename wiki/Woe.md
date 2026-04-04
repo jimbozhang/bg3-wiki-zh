@@ -1,6 +1,6 @@
 # 悲伤
 
-悲伤是一把非常稀有的+2 [长棍](Quarterstaves.md "Quarterstaves")，由[卡扎多尔·扎尔](Cazador.md "卡扎多尔")持有。它提供+1 [法术豁免DC](Saving_throw.md#The_Difficulty_Class_of_Saving_Throws "豁免检定")和[法术](Spell.md "法术")[攻击掷骰](Attack_roll.md "攻击掷骰")加成，可施展[枯萎术](Blight.md "枯萎术")，并在生物因施法者的法术而[豁免检定](Saving_throw.md "豁免检定")失败时提供治疗。
+悲伤是一把非常稀有的+2 [长棍](Quarterstaves.md "Quarterstaves")，由[卡扎多尔](Cazador.md "卡扎多尔")持有。它提供+1 [法术豁免DC](Saving_throw.md#The_Difficulty_Class_of_Saving_Throws "豁免检定")和[法术](Spell.md "法术")[攻击掷骰](Attack_roll.md "攻击掷骰")加成，可施展[枯萎术](Blight.md "枯萎术")，并在生物因施法者的法术而[豁免检定](Saving_throw.md "豁免检定")失败时提供治疗。
 
 法杖轻敲石头的嗒嗒声在卡扎多尔的宫殿中引发了所有人的恐惧。它预示着风暴的临近，而他们所能做的只是退缩到背景中，祈祷它的怒火不会降临到自己身上。
 
@@ -34,7 +34,7 @@ UID `MAG_LC_CazadorVampiric_Quarterstaff` UUID `cf42b0d0-89d8-4756-b6d7-1e258dce
 你获得+1 [法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰加成。
 
 [奥术吸掠](Arcane_Vampirism.md "奥术吸掠")
-当受你法术影响的生物在任何相关的[豁免检定](Saving_throw.md "豁免检定")中失败时，你恢复1d4⁠⁠[生命值](Healing.md "治疗")。
+当受你法术影响的生物在任何相关的[豁免检定](Saving_throw.md "豁免检定")中失败时，你恢复1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ### 武器动作
 
@@ -52,7 +52,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 
 ## 获取地点
 
-- [卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢") X: -1925 Y: 944：在任务[苍白的精灵](The_Pale_Elf.md "苍白的精灵")中击败[卡扎多尔·扎尔](Cazador.md "卡扎多尔")的奖励
+- [卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢") X: -1925 Y: 944：在任务[苍白的精灵](The_Pale_Elf.md "苍白的精灵")中击败[卡扎多尔](Cazador.md "卡扎多尔")的奖励
 
 ## 备注
 

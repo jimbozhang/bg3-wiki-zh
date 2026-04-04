@@ -84,15 +84,15 @@
 
 ## 特性
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级") +1。
 
-- [**军事奇才**](Martial_Prodigy.md "军事奇才")
+- [军事奇才](Martial_Prodigy.md "军事奇才")
 
 获得[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")、[短剑](Shortswords.md "短剑")、[长剑](Longswords.md "长剑")和[巨剑](Greatswords.md "巨剑")的熟练项。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -136,15 +136,15 @@
 
 ## 特性
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级") +1。
 
-- [**军事奇才**](Martial_Prodigy.md "军事奇才")
+- [军事奇才](Martial_Prodigy.md "军事奇才")
 
 获得[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")、[短剑](Shortswords.md "短剑")、[长剑](Longswords.md "长剑")和[巨剑](Greatswords.md "巨剑")的熟练项。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -188,15 +188,15 @@
 
 ## 特性
 
-- [**防御**](Defence.md "防御")
+- [防御](Defence.md "防御")
 
 穿着[护甲](Armour.md "护甲")时，[护甲等级](AC.md "护甲等级") +1。
 
-- [**军事奇才**](Martial_Prodigy.md "军事奇才")
+- [军事奇才](Martial_Prodigy.md "军事奇才")
 
 获得[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")、[短剑](Shortswords.md "短剑")、[长剑](Longswords.md "长剑")和[巨剑](Greatswords.md "巨剑")的熟练项。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -226,11 +226,11 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 序幕](#prologue)
-- [2 战利品](#loot)
-- [3 注释](#notes)
-- [4 图库](#gallery)
+- [1 参与度](#参与度)
+  - [1.1 序幕](#序幕)
+- [2 战利品](#战利品)
+- [3 注释](#注释)
+- [4 图库](#图库)
 
 ## 参与度
 
@@ -238,7 +238,7 @@ UUID
 
 当选择莱埃泽尔作为出身时，玩家角色在离开[鹦鹉螺](Nautiloid.md "鹦鹉螺")上的“大脑室”时会遇到洛希尔，方式与任何其他玩家角色首次遇到莱埃泽尔相同。作为一名吉斯洋基人士兵，他对莱埃泽尔比莱埃泽尔在此时遇到的其他角色更友好和信任。他作为[临时伙伴](Temporary_companion.md "临时伙伴")陪伴莱埃泽尔度过序幕的剩余部分。
 
-洛希尔在鹦鹉螺坠毁时死亡，他的尸体被发现血迹斑斑地躺在海滩上。看到他的尸体时，莱埃泽尔会说：“洛希尔走了。他的灵魂现在在[星界之海](Astral_Plane.md "星界之海")中遨游。”
+洛希尔在鹦鹉螺坠毁时死亡，他的尸体被发现血迹斑斑地躺在海滩上。看到他的尸体时，莱埃泽尔会说：“洛希尔走了。他的灵魂现在在[星界](Astral_Plane.md "星界")中遨游。”
 
 由于洛希尔不是可玩角色，他无法用[回生术卷轴](Scroll_of_Revivify.md "回生术卷轴")复活。如果他在序幕中死亡，必须使用鹦鹉螺的恢复站来复活他。
 

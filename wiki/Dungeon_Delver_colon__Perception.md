@@ -6,7 +6,7 @@
 
 ## 描述
 
-你在进行以检测隐藏物品为目的的 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定") 时具有 [优势](Advantage.md "优势")。
+你在进行以检测隐藏物品为目的的 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定") 时具有 [优势](Advantage.md "优势")。
 
 ## 如何学习
 

@@ -1,6 +1,6 @@
 # 小魔鬼翼膜灰
 
-**小魔鬼翼膜灰**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[精华](Alchemy.md#Extractions "炼金术")结合，以制造[隐形药水](Potion_of_Invisibility.md "隐形药水")。
+**小魔鬼翼膜灰**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[精华](Alchemy.md#Extractions "炼金术")结合，以制造[隐形药水](Potion_of_Invisibility.md "隐形药水")。
 
 原产于[九层地狱](https://forgottenrealms.fandom.com/wiki/Nine_Hells)，[小魔鬼](Imp.md "小魔鬼")几乎不会燃烧，但一旦死亡，它们的翅膀会惊人地轻易化为灰烬。
 

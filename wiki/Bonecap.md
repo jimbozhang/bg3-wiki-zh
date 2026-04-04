@@ -1,6 +1,6 @@
 # 骨帽菇
 
-**骨帽菇**是一种[炼金术材料](Alchemy.md "炼金术")。将3个骨帽菇组合可制造[骨帽酸解物](Vitriol_of_Bonecap.md "骨帽酸解物")，用于制作[简易毒药](Basic_Poison.md "简易毒药")。
+**骨帽菇**是一种[炼金术](Alchemy.md "炼金术")。将3个骨帽菇组合可制造[骨帽酸解物](Vitriol_of_Bonecap.md "骨帽酸解物")，用于制作[简易毒药](Basic_Poison.md "简易毒药")。
 
 一种酸性、味道恶臭的[蘑菇](https://forgottenrealms.fandom.com/wiki/Bonecap)，可在任何尸体被掩埋或任其腐烂的地方找到。
 

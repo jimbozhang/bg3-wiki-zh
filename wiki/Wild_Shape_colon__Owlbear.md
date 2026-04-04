@@ -45,7 +45,7 @@
 屈服于枭熊的本能，使你的[力量](Strength.md "力量")和[体质](Constitution.md "体质")提高2点，获得12点[临时生命值](Temporary_Hit_Points.md "临时生命值")，并可能使附近的生物[恐惧](Fearful_(Condition).md "恐惧 (状态)")。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗[法术位](Spells.md#Spell_slots "法术位")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。你每法术位等级恢复1d8点[生命值](Healing.md "治疗")。
+消耗[法术位](Spells.md#Spell_slots "法术位")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。你每法术位等级恢复1d8点[治疗](Healing.md "治疗")。
 
 撕裂大地，使碎片撕裂附近的物体和生物。
 

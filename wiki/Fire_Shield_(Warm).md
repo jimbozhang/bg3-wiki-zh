@@ -1,10 +1,10 @@
 # 火焰护盾：温暖
 
-**火焰护盾：温暖**是一个[等级 4 塑能学派法术](Spells.md "Spells")。此法术用灼热的火焰为施法者提供护盾。它是[火焰护盾](Fire_Shield.md "Fire Shield")的一个变体。
+**火焰护盾：温暖**是一个[法术](Spells.md "法术")。此法术用灼热的火焰为施法者提供护盾。它是[火焰护盾](Fire_Shield.md "Fire Shield")的一个变体。
 
 ## 描述
 
-灼热的火焰在 3 米（10 英尺）半径范围内散发光芒。你只承受所有[寒冷](Cold.md "Cold")伤害的[一半](Resistance.md "Resistance")，并对任何用[近战攻击](melee.md "melee")击中你的人造成 2d8[火焰](Fire.md "Fire")伤害。
+灼热的火焰在 3 米（10 英尺）半径范围内散发光芒。你只承受所有[寒冷](Cold.md "Cold")伤害的[抗性](Resistance.md "抗性")，并对任何用[近战](melee.md "近战")击中你的人造成 2d8[火焰](Fire.md "Fire")伤害。
 
 ## 属性
 

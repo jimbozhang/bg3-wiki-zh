@@ -90,11 +90,11 @@
 
 - - - ## 特性
 
-- [**异怪猎人**](Aberration_Hunter.md "异怪猎人")
+- [异怪猎人](Aberration_Hunter.md "异怪猎人")
 
 佩戴此护符的[吉斯洋基人](Githyanki.md "吉斯洋基人")在智力[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。[异怪](Aberration.md "异怪")在对它们进行[攻击掷骰](Attack_roll.md "攻击掷骰")时也具有[劣势](Disadvantage.md "劣势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -148,11 +148,11 @@
 
 - - - ## 特性
 
-- [**异怪猎人**](Aberration_Hunter.md "异怪猎人")
+- [异怪猎人](Aberration_Hunter.md "异怪猎人")
 
 佩戴此护符的[吉斯洋基人](Githyanki.md "吉斯洋基人")在智力[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。[异怪](Aberration.md "异怪")在对它们进行[攻击掷骰](Attack_roll.md "攻击掷骰")时也具有[劣势](Disadvantage.md "劣势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -212,15 +212,15 @@
 
 ## 特性
 
-- [**异怪猎人**](Aberration_Hunter.md "异怪猎人")
+- [异怪猎人](Aberration_Hunter.md "异怪猎人")
 
 佩戴此护符的[吉斯洋基人](Githyanki.md "吉斯洋基人")在智力[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。[异怪](Aberration.md "异怪")在对它们进行[攻击掷骰](Attack_roll.md "攻击掷骰")时也具有[劣势](Disadvantage.md "劣势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害 - 灵吸怪奴役的伤痕深入骨髓。
 
@@ -290,7 +290,7 @@ UUID
 
 尝试阻止施放法术。
 
-如果它比你用于法术反制的法术位等级更高，你必须使用你的施法关键属性进行一次[检定](Ability_Check.md "属性检定")\[[参见注释](Counterspell.md#Notes "法术反制")\]来阻止它。检定的难度等于 10 加上你试图反制的法术等级。
+如果它比你用于法术反制的法术位等级更高，你必须使用你的施法关键属性进行一次[属性检定](Ability_Check.md "属性检定")\[[参见注释](Counterspell.md#Notes "法术反制")\]来阻止它。检定的难度等于 10 加上你试图反制的法术等级。
 
 此法术可以在你处于[沉默](Silenced_(Condition).md "沉默 (状态)")状态时施放。
 
@@ -302,7 +302,7 @@ UUID
 
 佯攻以可能使你的对手[失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -347,7 +347,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -369,7 +369,7 @@ UUID
 
 可能使目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 ### 战利品

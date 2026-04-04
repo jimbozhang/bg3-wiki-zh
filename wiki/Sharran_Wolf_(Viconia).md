@@ -55,31 +55,31 @@
 
 ## 特性
 
-- [**兽性狂怒**](Bestial_Fury.md "兽性狂怒")
+- [兽性狂怒](Bestial_Fury.md "兽性狂怒")
 
 为所有伙伴提供一次额外攻击。
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md)、[撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")和[协助](Help_(bonus_action).md)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3米（10英尺）范围内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外1d6点伤害。
 
@@ -119,31 +119,31 @@
 
 ## 特性
 
-- [**兽性狂怒**](Bestial_Fury.md "兽性狂怒")
+- [兽性狂怒](Bestial_Fury.md "兽性狂怒")
 
 为所有伙伴提供一次额外攻击。
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md)、[撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")和[协助](Help_(bonus_action).md)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3米（10英尺）范围内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外1d6点伤害。
 
@@ -163,7 +163,7 @@ Stats
 
 `Companion_Wolf_11` 本文讨论的是维康妮亚在使用“映射恐怖：狼群”时应用的狼形态。关于应用于莎尔学徒的较弱狼形态，请参见[莎尔之狼](Sharran_Wolf.md "莎尔之狼")。
 
-**莎尔之狼**是[维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")可能使用[映射恐怖：狼群](Mapped_Terror_colon__Wolves.md "映射恐怖：狼群")变形而成的[狼](Wolf.md "狼")形态。她还会将附近的[莎尔学徒](Sharran_Novice.md "莎尔学徒")变形为此形态的[较弱版本](Sharran_Wolf.md "莎尔之狼")。
+**莎尔之狼**是[维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")可能使用[映射恐怖：狼群](Mapped_Terror_colon__Wolves.md "映射恐怖：狼群")变形而成的[狼](Wolf.md "狼")形态。她还会将附近的[莎尔学徒](Sharran_Novice.md "莎尔学徒")变形为此形态的[莎尔之狼](Sharran_Wolf.md "莎尔之狼")。
 
 ## 战斗
 

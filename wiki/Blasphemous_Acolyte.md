@@ -77,23 +77,23 @@
 
 - - - - - - ## 特性
 
-- [**寒冰打击**](Chilling_Strikes.md "寒冰打击")
+- [寒冰打击](Chilling_Strikes.md "寒冰打击")
 
 你的攻击使目标[冻僵](Bone_Chilled_(Condition).md "冻僵 (状态)"). 他们无法恢复生命值，如果他们是不死生物，则攻击掷骰具有[劣势](Disadvantage.md "劣势").
 
-- [**摧毁不死生物**](Destroy_Undead.md "摧毁不死生物")
+- [摧毁不死生物](Destroy_Undead.md "摧毁不死生物")
 
 当你成功[驱散](Turned_(Condition).md "被驱散 (状态)")一个[不死生物](Undead.md "不死生物")时，它还会受到 4d6⁠⁠[光耀](Radiant.md "光耀")伤害.
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击.
 
-- [**有利开局**](Favourable_Beginnings.md "有利开局")
+- [有利开局](Favourable_Beginnings.md "有利开局")
 
 首次对任何目标的[攻击掷骰](Attack_roll.md "攻击掷骰")或[属性检定](Ability_Check.md "属性检定")获得[熟练项](Proficiency.md "熟练项")加值.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人.
 
@@ -143,23 +143,23 @@
 
 - - - - - - ## 特性
 
-- [**寒冰打击**](Chilling_Strikes.md "寒冰打击")
+- [寒冰打击](Chilling_Strikes.md "寒冰打击")
 
 你的攻击使目标[冻僵](Bone_Chilled_(Condition).md "冻僵 (状态)"). 他们无法恢复生命值，如果他们是不死生物，则攻击掷骰具有[劣势](Disadvantage.md "劣势").
 
-- [**摧毁不死生物**](Destroy_Undead.md "摧毁不死生物")
+- [摧毁不死生物](Destroy_Undead.md "摧毁不死生物")
 
 当你成功[驱散](Turned_(Condition).md "被驱散 (状态)")一个[不死生物](Undead.md "不死生物")时，它还会受到 4d6⁠⁠[光耀](Radiant.md "光耀")伤害.
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击.
 
-- [**有利开局**](Favourable_Beginnings.md "有利开局")
+- [有利开局](Favourable_Beginnings.md "有利开局")
 
 首次对任何目标的[攻击掷骰](Attack_roll.md "攻击掷骰")或[属性检定](Ability_Check.md "属性检定")获得[熟练项](Proficiency.md "熟练项")加值.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人.
 
@@ -209,23 +209,23 @@
 
 - - - - - - ## 特性
 
-- [**寒冰打击**](Chilling_Strikes.md "寒冰打击")
+- [寒冰打击](Chilling_Strikes.md "寒冰打击")
 
 你的攻击使目标[冻僵](Bone_Chilled_(Condition).md "冻僵 (状态)"). 他们无法恢复生命值，如果他们是不死生物，则攻击掷骰具有[劣势](Disadvantage.md "劣势").
 
-- [**摧毁不死生物**](Destroy_Undead.md "摧毁不死生物")
+- [摧毁不死生物](Destroy_Undead.md "摧毁不死生物")
 
 当你成功[驱散](Turned_(Condition).md "被驱散 (状态)")一个[不死生物](Undead.md "不死生物")时，它还会受到 4d6⁠⁠[光耀](Radiant.md "光耀")伤害.
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击.
 
-- [**有利开局**](Favourable_Beginnings.md "有利开局")
+- [有利开局](Favourable_Beginnings.md "有利开局")
 
 首次对任何目标的[攻击掷骰](Attack_roll.md "攻击掷骰")或[属性检定](Ability_Check.md "属性检定")获得[熟练项](Proficiency.md "熟练项")加值.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人.
 
@@ -237,11 +237,11 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 备注](#notes)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 备注](#备注)
 
 ## 参与
 
@@ -267,7 +267,7 @@
 
 降低目标的最大[生命值](Hit_Points.md "生命值)，但永远不会低于 1。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [致伤术](Inflict_Wounds.md "致伤术") (+ )
@@ -293,7 +293,7 @@
 [驱散不死生物](Turn_Undead.md "驱散不死生物") (+ )
 向[驱散](Turned_(Condition).md "被驱散 (状态)")所有能看到你的不死生物祈祷。
 
-[感](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：自身
 
 ## 战利品

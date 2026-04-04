@@ -26,7 +26,7 @@
 
 - [钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")
 
-- [利文顿的玩具匠](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")
+- [阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")
 
 - [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
 

@@ -77,15 +77,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -131,15 +131,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -185,15 +185,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -251,7 +251,7 @@ UUID
   我知道，但抱怨对谁都没帮助，不是吗？
 
 - 奥尔蒙特
-  对我有帮助——说出来心里好受点。再说了，我们就让[那个谁](Enver_Gortash.md "恩弗·戈塔什")和他的[玩具士兵](Steel_Watcher.md "钢铁卫士")接管整个城市吗？
+  对我有帮助——说出来心里好受点。再说了，我们就让[那个谁](Enver_Gortash.md "恩弗·戈塔什")和他的[钢铁卫士](Steel_Watcher.md "钢铁卫士")接管整个城市吗？
 
 - 图格霍恩
   他还没到那一步。还差得远呢。如果你继续这样说话，[焰拳](Flaming_Fist.md "焰拳")就会开始砸破脑袋了。

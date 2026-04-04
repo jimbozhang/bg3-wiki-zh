@@ -2,7 +2,7 @@
 
 **火酒腹**
 
-- 饮用了火酒。在[魅力](Charisma.md "魅力")和[敏捷](Dexterity.md "敏捷")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")
+- 饮用了火酒。在[魅力](Charisma.md "魅力")和[敏捷](Dexterity.md "敏捷")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")
 - 如果醉酒实体被[火焰](Fire.md "火焰")杀死，会发生[火酒爆炸](Firewine_Explosion.md "火酒爆炸")
 
 ## 属性
@@ -27,9 +27,9 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| [醉酒](Drunk_(Condition).md "醉酒（状态）") | 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。 |
-| 火酒腹 | 饮用了火酒。在[魅力](Charisma.md "魅力")和[敏捷](Dexterity.md "敏捷")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。如果醉酒实体被[火焰](Fire.md "火焰")杀死，会发生[火酒爆炸](Firewine_Explosion.md "火酒爆炸")。 |
-| [宿醉](Hungover_(Condition).md "宿醉（状态）") | 你在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。你告诉自己“我再也不喝酒了”。你在撒谎。 |
+| [醉酒](Drunk_(Condition).md "醉酒（状态）") | 在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。 |
+| 火酒腹 | 饮用了火酒。在[魅力](Charisma.md "魅力")和[敏捷](Dexterity.md "敏捷")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。如果醉酒实体被[火焰](Fire.md "火焰")杀死，会发生[火酒爆炸](Firewine_Explosion.md "火酒爆炸")。 |
+| [宿醉](Hungover_(Condition).md "宿醉（状态）") | 你在[敏捷](Dexterity.md "敏捷")和[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。你告诉自己“我再也不喝酒了”。你在撒谎。 |
 
 ## 简要预览
 

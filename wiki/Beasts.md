@@ -326,7 +326,7 @@
 - [双脊龙](Dilophosaurus.md "双脊龙")
 - [狗](Dog.md "狗")
 - [枭熊](Owlbear.md "枭熊")
-- [牛](Ox.md "牛")
+- [公牛](Ox.md "公牛")
 - [猪](Pig.md "猪")
 - [兔子](Rabbit.md "兔子")
 - [松鼠](Squirrel.md "松鼠")

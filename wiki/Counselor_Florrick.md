@@ -98,15 +98,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md "沉睡")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -162,15 +162,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md "沉睡")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -226,15 +226,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md "沉睡")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -396,23 +396,23 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-- [2 参与情况](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第二幕](#act-two)
-  - [2.3 第三幕](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力（第一幕）](#attacks-and-abilities-(Act_1))
-  - [3.2 额外能力（第三幕）](#additional-abilities-(Act_3))
-  - [3.3 盟友](#allies)
-    - [3.3.1 第三幕](#act-three-2)
-  - [3.4 战利品](#loot)
-- [4 画廊](#gallery)
-- [5 相关任务](#related-quests)
-- [6 相关文献](#related-literature)
-- [7 注释与参考](#notes-and-references)
-- [8 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+- [2 参与情况](#参与情况)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第二幕](#第二幕)
+  - [2.3 第三幕](#第三幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力（第一幕）](#攻击与能力第一幕))
+  - [3.2 额外能力（第三幕）](#额外能力第三幕))
+  - [3.3 盟友](#盟友)
+    - [3.3.1 第三幕](#第三幕)
+  - [3.4 战利品](#战利品)
+- [4 画廊](#画廊)
+- [5 相关任务](#相关任务)
+- [6 相关文献](#相关文献)
+- [7 注释与参考](#注释与参考)
+- [8 外部链接](#外部链接)
 
 ## 概述
 
@@ -444,7 +444,7 @@ UUID
 
 如果在[释放顾问弗洛瑞克](Free_Counsellor_Florrick.md "释放顾问弗洛瑞克")开始后的五次长休内未营救弗洛瑞克，她会被绞死，尸体悬挂在石化蜥蜴之门的绞刑架上。
 
-如果威尔在[边境之刃](The_Blade_of_Frontiers.md "边境之刃")期间打破与[米佐拉](Mizora.md "米佐拉")的契约并抛弃他的父亲，弗洛瑞克会在博德之门接近威尔和小队，意图为雷文伽德复仇。通过通过 DC 18 [游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")或 DC 15 [历史的](History.md "历史的")[检定](Ability_Check.md "属性检定")可以避免战斗。如果被说服，并且假设雷文伽德已死，弗洛瑞克会给威尔[《安苏传奇》](The_Legend_of_Ansur.md "《安苏传奇》")<sup>[\[2\]](#cite_note-2)</sup>，并指引小队进入他个人任务的下一步。如果所有试图与弗洛瑞克讲理的尝试都失败，她和她的焰拳随从会变得敌对。在这种情况下，必须通过其他方式获得这本书。
+如果威尔在[边境之刃](The_Blade_of_Frontiers.md "边境之刃")期间打破与[米佐拉](Mizora.md "米佐拉")的契约并抛弃他的父亲，弗洛瑞克会在博德之门接近威尔和小队，意图为雷文伽德复仇。通过通过 DC 18 [游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")或 DC 15 [历史的](History.md "历史的")[属性检定](Ability_Check.md "属性检定")可以避免战斗。如果被说服，并且假设雷文伽德已死，弗洛瑞克会给威尔[《安苏传奇》](The_Legend_of_Ansur.md "《安苏传奇》")<sup>[\[2\]](#cite_note-2)</sup>，并指引小队进入他个人任务的下一步。如果所有试图与弗洛瑞克讲理的尝试都失败，她和她的焰拳随从会变得敌对。在这种情况下，必须通过其他方式获得这本书。
 
 ## 战斗
 
@@ -477,7 +477,7 @@ UUID
 
 \+ 1d4 + 1⁠[力场](Force.md "力场")
 
-创造**三**枚魔法力场飞镖，每枚对目标造成[1d4 + 1 力场](Force.md "力场")伤害。
+创造**三**枚魔法力场飞镖，每枚对目标造成[力场](Force.md "力场")伤害。
 
 飞镖总是命中目标，并且可以单独瞄准。
 

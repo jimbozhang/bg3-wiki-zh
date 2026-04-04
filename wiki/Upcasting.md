@@ -56,7 +56,7 @@
 | [睡眠](Sleep.md "睡眠") | 1 |  |  | 2回合 | 18米 / 60英尺 | - | - |
 | [雷鸣波](Thunderwave.md "雷鸣波") | 1 |  |  | - | 1.5米 / 5英尺 / 5米 / 17英尺（立方体） | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[雷鸣](Thunder.md "雷鸣") |
 | [巫术箭](Witch_Bolt.md "巫术箭") | 1 |  |  | 10回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d12⁠[闪电](Lightning.md "闪电") |
-| [援助术](Aid.md "援助术") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺（半径） | - | - |
+| [支援术](Aid.md "支援术") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺（半径） | - | - |
 | [熊之坚韧](Bear's_Endurance.md "熊之坚韧") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [失明术](Blindness.md "失明术") | 2 |  |  | 10回合 | 18米 / 60英尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | - |
 | [印记斩](Branding_Smite.md "印记斩") | 2 |  |  | 10回合 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 普通武器伤害 / 2d6⁠[光耀](Radiant.md "光耀") |
@@ -82,7 +82,7 @@
 | [治疗祷言](Prayer_of_Healing.md "治疗祷言") | 2 |  |  | - | 自身 / 9米 / 30英尺（半径） | - | 2d8 + [施法调整值](Spells#Spellcasting_ability.md#Spellcasting_ability "法术")⁠[治疗](Healing.md "治疗") |
 | [重新施加灼热金属](Heat_Metal_colon__Reapply_Damage.md "灼热金属：重新施加伤害") | 2 |  |  | - | 18米 / 60英尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[火焰](Fire.md "火焰") |
 | [灼热射线](Scorching_Ray.md "灼热射线") | 2 |  |  | - | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d6⁠[火焰](Fire.md "火焰") / 2d6⁠[火焰](Fire.md "火焰") / 2d6⁠[火焰](Fire.md "火焰") |
-| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
+| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [灵巧](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
 | [粉碎音波](Shatter.md "粉碎音波") | 2 |  |  | - | 18米 / 60英尺 / 3米 / 10英尺（半径） | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 3d8⁠[雷鸣](Thunder.md "雷鸣") |
 | [灵体武器](Spiritual_Weapon.md "灵体武器") | 2 |  |  | - | 18米 / 60英尺 | - | 1d8 + 1 + [施法调整值](Spells#Spellcasting_ability.md#Spellcasting_ability "法术")⁠[力场](Force.md "力场") |
 | [灵体武器：巨斧](Spiritual_Weapon_colon__Greataxe.md "灵体武器：巨斧") | 2 |  |  | 2回合 | 18米 / 60英尺 | - | 1d8 + 1 + [施法调整值](Spells#Spellcasting_ability.md#Spellcasting_ability "法术")⁠[力场](Force.md "力场") |
@@ -112,7 +112,7 @@
 | [元素武器：火焰](Elemental_Weapon_colon__Fire.md "元素武器：火焰") | 3 |  |  | 长休 | 18米 / 60英尺 | - | - |
 | [元素武器：闪电](Elemental_Weapon_colon__Lightning.md "元素武器：闪电") | 3 |  |  | 长休 | 18米 / 60英尺 | - | - |
 | [元素武器：雷鸣](Elemental_Weapon_colon__Thunder.md "元素武器：雷鸣") | 3 |  |  | 长休 | 18米 / 60英尺 | - | - |
-| [火球术术](Fireball.md "火球术术") | 3 |  |  | - | 18米 / 60英尺 / 4米 / 13英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
+| [火球术](Fireball.md "火球术") | 3 |  |  | - | 18米 / 60英尺 / 4米 / 13英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
 | [守卫刻文](Glyph_of_Warding.md "守卫刻文") | 3 |  |  | - | 9米 / 30英尺 / 4米 / 13英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | - |
 | [守卫刻文：强酸](Glyph_of_Warding_colon__Acid.md "守卫刻文：强酸") | 3 |  |  | - | 9米 / 30英尺 / 4米 / 13英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 5d8⁠[强酸](Acid.md "强酸") |
 | [守卫刻文：寒冷](Glyph_of_Warding_colon__Cold.md "守卫刻文：寒冷") | 3 |  |  | - | 9米 / 30英尺 / 4米 / 13英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 5d8⁠[寒冷](Cold.md "寒冷") |

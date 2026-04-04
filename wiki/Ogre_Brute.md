@@ -71,15 +71,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**食人魔印记**](Ogre's_Mark.md "Ogre's Mark")
+- [食人魔印记](Ogre's_Mark.md "食人魔印记")
 
 伤害增加 1d6。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -127,15 +127,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**食人魔印记**](Ogre's_Mark.md "Ogre's Mark")
+- [食人魔印记](Ogre's_Mark.md "食人魔印记")
 
 伤害增加 1d6。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -183,15 +183,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**食人魔印记**](Ogre's_Mark.md "Ogre's Mark")
+- [食人魔印记](Ogre's_Mark.md "食人魔印记")
 
 伤害增加 1d6。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -244,7 +244,7 @@ UUID
 
 你的[力量](Strength.md "Strength")影响你能投掷的重量。更重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "Thrown")属性的武器的伤害与武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与武器的近战伤害相同。
 
 射程：29 米 (97 英尺)
 

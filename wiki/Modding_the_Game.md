@@ -25,14 +25,14 @@ _如果你正在寻找Larian的官方模组文档，你可以在他们的[官方
 
 ## 目录
 
-- [1 创建模组](#creating-mods)
-- [2 安装模组](#installing-mods)
-- [3 工具](#tools)
-- [4 模组网站](#modding-sites)
-- [5 路径](#paths)
-  - [5.1 Windows](#windows)
-  - [5.2 Mac](#mac)
-  - [5.3 Linux](#linux)
+- [1 创建模组](#创建模组)
+- [2 安装模组](#安装模组)
+- [3 工具](#工具)
+- [4 模组网站](#模组网站)
+- [5 路径](#路径)
+  - [5.1 Windows](#Windows)
+  - [5.2 Mac](#Mac)
+  - [5.3 Linux](#Linux)
 
 ## 创建模组
 

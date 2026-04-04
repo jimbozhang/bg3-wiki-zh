@@ -18,7 +18,7 @@
 
 详情
 近战 徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[力](Strength.md "力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 近战：1.5 米（5 英尺）
 推开：2 米（7 英尺）
 

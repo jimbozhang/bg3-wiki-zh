@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**安博里的赞美**是一个[2级惑控学派法术](Spells.md "Spells")。此法术会魅惑大范围区域内的所有人。
+**安博里的赞美**是一个[法术](Spells.md "法术")。此法术会魅惑大范围区域内的所有人。
 
 ## 描述
 
@@ -34,7 +34,7 @@ UID
 
 持续时间：10驱散
 
-- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "Advantage")。
+- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "Advantage")。
 
 ## 如何习得
 

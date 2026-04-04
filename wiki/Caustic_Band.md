@@ -25,7 +25,7 @@
 
 _关于邪恶分泌：_
 
-- 邪恶分泌的额外伤害适用于所有武器：[近战](Main_Hand_Attack.md "主手攻击")、[远程攻击](Ranged_Attack.md "远程攻击")和[投掷攻击](Thrown.md "投掷攻击")，但不适用于[徒手打击](Unarmed_Strike.md "徒手打击")。
+- 邪恶分泌的额外伤害适用于所有武器：[主手攻击](Main_Hand_Attack.md "主手攻击")、[远程攻击](Ranged_Attack.md "远程攻击")和[投掷攻击](Thrown.md "投掷攻击")，但不适用于[徒手打击](Unarmed_Strike.md "徒手打击")。
 
 ## 外部链接
 

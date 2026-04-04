@@ -51,7 +51,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -83,7 +83,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -115,11 +115,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-**野猪**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中发现的一种[野兽](Beast.md "野兽")。它们可以作为[NPC](NPC.md "NPC")出现，并使用[动物交谈](Speak_with_Animals.md "动物交谈")与之对话，或者作为[伙伴](Boar_Companion.md "野猪伙伴")被[驯兽师](Beast_Master.md "驯兽师")[游侠](Ranger.md "游侠")角色召唤。
+**野猪**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中发现的一种[野兽](Beast.md "野兽")。它们可以作为[NPC](NPC.md "NPC")出现，并使用[动物交谈](Speak_with_Animals.md "动物交谈")与之对话，或者作为[野猪伙伴](Boar_Companion.md "野猪伙伴")被[驯兽师](Beast_Master.md "驯兽师")[游侠](Ranger.md "游侠")角色召唤。
 
 > “
 >
@@ -131,12 +131,12 @@
 
 ## 目录
 
-- [1 关于野猪](#about-boars)
-  - [1.1 种族特性](#racial-features)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attaks-and-abilities)
-- [3 著名野猪](#notable-boars)
-- [4 类野猪生物](#boar-like_creatures)
+- [1 关于野猪](#关于野猪)
+  - [1.1 种族特性](#种族特性)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 著名野猪](#著名野猪)
+- [4 类野猪生物](#类野猪生物)
 
 ## 关于野猪
 

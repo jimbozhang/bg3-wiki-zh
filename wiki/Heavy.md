@@ -4,7 +4,7 @@
 
 _关于所有武器属性的解释，请参见[武器](Weapons.md "Weapons")。_
 
-**重型**是一种武器属性，表示特别大的武器。小型生物使用重型武器进行[攻击掷骰](Disadvantage.md "Disadvantage")时具有[劣势](Disadvantage.md "Disadvantage")。重型武器的尺寸和体积使其过大，小型生物无法有效使用。（截至EA补丁9，此惩罚尚未实现。）
+**重型**是一种武器属性，表示特别大的武器。小型生物使用重型武器进行[劣势](Disadvantage.md "劣势")时具有[劣势](Disadvantage.md "Disadvantage")。重型武器的尺寸和体积使其过大，小型生物无法有效使用。（截至EA补丁9，此惩罚尚未实现。）
 
 重型武器与某些[专长](Feats.md "Feats")有特殊互动，例如**巨武器大师**。
 

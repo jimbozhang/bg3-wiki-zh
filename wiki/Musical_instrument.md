@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 演奏乐器](#playing-an-instrument)
-- [2 乐器列表](#list-of-instruments)
-  - [2.1 初始乐器](#starting-instruments)
-  - [2.2 独特乐器](#unique-instruments)
+- [1 演奏乐器](#演奏乐器)
+- [2 乐器列表](#乐器列表)
+  - [2.1 初始乐器](#初始乐器)
+  - [2.2 独特乐器](#独特乐器)
 
 ## 演奏乐器
 

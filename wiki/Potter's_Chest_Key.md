@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 
@@ -16,7 +16,7 @@
 
 - UID `S_SCL_BannedSeluneItemsKey` UUID `112bfde1-e48b-4f12-a95f-11fddd65ab7a` ## 获取地点
 
-- 隐藏在[废弃战场](Ruined_Battlefield.md "废弃战场") X: -34 Y: 13 处一个可移动的砖块中，需要通过 DC 10 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")才能发现。
+- 隐藏在[废弃战场](Ruined_Battlefield.md "废弃战场") X: -34 Y: 13 处一个可移动的砖块中，需要通过 DC 10 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")才能发现。
 
 ## 用途
 

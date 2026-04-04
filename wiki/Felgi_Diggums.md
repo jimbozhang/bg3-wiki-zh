@@ -77,15 +77,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -131,15 +131,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -185,15 +185,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -223,12 +223,12 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 闲聊](#idle-banter)
-  - [2.1 如果钢铁卫士铸造厂完好无损](#if-the-steel-watch-foundry-is-intact)
-  - [2.2 如果钢铁卫士铸造厂被摧毁](#if-the-steel-watch-foundry-is-destroyed)
-  - [2.3 如果恩维尔·戈塔什被杀](#if-enver-gortash-is-killed)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 闲聊](#闲聊)
+  - [2.1 如果钢铁卫士铸造厂完好无损](#如果钢铁卫士铸造厂完好无损)
+  - [2.2 如果钢铁卫士铸造厂被摧毁](#如果钢铁卫士铸造厂被摧毁)
+  - [2.3 如果恩维尔·戈塔什被杀](#如果恩维尔·戈塔什被杀)
 
 ## 参与
 
@@ -279,7 +279,7 @@ UUID
 ### 如果钢铁卫士铸造厂被摧毁
 
 - 科洛贝格
-  [铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")成了一片废墟！没什么可守的了！我们现在能把货物送到码头了吗？
+  [钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")成了一片废墟！没什么可守的了！我们现在能把货物送到码头了吗？
 
 - 拳手潘特拉
   还不行，市民。整个地方都是犯罪现场。

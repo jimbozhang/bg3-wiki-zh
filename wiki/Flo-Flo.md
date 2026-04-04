@@ -87,19 +87,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离内于黑暗中视物。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 HP 低于或等于一半的目标受到 +1d4 穿刺伤害。
 
@@ -157,19 +157,19 @@ HP 低于或等于一半的目标受到 +1d4 穿刺伤害。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离内于黑暗中视物。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 HP 低于或等于一半的目标受到 +1d4 穿刺伤害。
 
@@ -227,23 +227,23 @@ HP 低于或等于一半的目标受到 +1d4 穿刺伤害。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离内于黑暗中视物。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 敏捷豁免成功时伤害无效；失败时伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 HP 低于或等于一半的目标受到 +1d4 穿刺伤害。
 

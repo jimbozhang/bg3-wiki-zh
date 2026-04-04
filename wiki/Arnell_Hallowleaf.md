@@ -90,15 +90,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -146,15 +146,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -202,15 +202,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -232,12 +232,12 @@ UUID
 
 ## 目录
 
-- [1 历史](#history)
-- [2 相关剧情](#involvement)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 画廊](#gallery)
-- [6 参考文献](#references)
+- [1 历史](#历史)
+- [2 相关剧情](#相关剧情)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 画廊](#画廊)
+- [6 参考文献](#参考文献)
 
 ## 历史
 
@@ -249,7 +249,7 @@ UUID
 
 ## 相关剧情
 
-阿内尔和埃米琳可以在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")中找到，作为影心个人任务[黑暗之女](Daughter_of_Darkness.md "黑暗之女")的一部分。影心被迫做出选择：要么让他们死去，摆脱自己无法治愈的伤口；要么释放他们，并终生忍受这个伤口。阿内尔和埃米琳都敦促影心让他们死去，以解脱自己，但玩家角色可以通过DC 20的[宗教](Religion.md "宗教")或[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")说服影心释放他们。
+阿内尔和埃米琳可以在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")中找到，作为影心个人任务[黑暗之女](Daughter_of_Darkness.md "黑暗之女")的一部分。影心被迫做出选择：要么让他们死去，摆脱自己无法治愈的伤口；要么释放他们，并终生忍受这个伤口。阿内尔和埃米琳都敦促影心让他们死去，以解脱自己，但玩家角色可以通过DC 20的[宗教](Religion.md "宗教")或[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")说服影心释放他们。
 
 如果阿内尔和埃米琳被释放，他们会成为营地随从，并透露关于他们自己和影心过去的信息。阿内尔比埃米琳更健谈，因为埃米琳是人类，自然寿命比阿内尔短得多，而且她的记忆随着年龄增长而衰退。
 

@@ -1,6 +1,6 @@
 # 鬼头蘑菇孢子精华
 
-**鬼头蘑菇孢子精华**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[真菌迷药](Fungal_Bamboozler.md "真菌迷药")。
+**鬼头蘑菇孢子精华**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[真菌迷药](Fungal_Bamboozler.md "真菌迷药")。
 
 由[鬼头蘑菇](https://forgottenrealms.fandom.com/wiki/Timmask)引发的混乱迷走状态，在许多方面与[蕈人](Myconid.md "蕈人")的冥想完全相反——后者平静、灵性，甚至不会涉及一丝一毫的困惑流口水。
 

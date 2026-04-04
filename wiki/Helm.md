@@ -1,6 +1,6 @@
 # 海姆
 
-这是一个消歧义页面，链接到具有模糊名称的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Helm.md "Special:WhatLinksHere/Helm")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到具有模糊名称的文章。如果您是通过文章中的链接[海姆](Special_colon_WhatLinksHere/Helm.md "海姆")的，请考虑编辑该链接，将其指向正确的页面。
 
 **海姆**可能指代以下内容之一：
 

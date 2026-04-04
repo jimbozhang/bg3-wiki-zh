@@ -2,7 +2,7 @@
 
 **猫之轻灵**
 
-- 对 [敏捷](Dexterity.md "敏捷") [检定](Ability_Check.md "属性检定") 拥有 [优势](Advantage.md "优势")。
+- 对 [敏捷](Dexterity.md "敏捷") [属性检定](Ability_Check.md "属性检定") 拥有 [优势](Advantage.md "优势")。
 - 承受的 [坠落伤害](Falling_damage.md "坠落伤害") 减半。
 
 ## 属性
@@ -27,7 +27,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 对 [敏捷](Dexterity.md "敏捷") [检定](Ability_Check.md "属性检定") 拥有 [优势](Advantage.md "优势")。
+- 对 [敏捷](Dexterity.md "敏捷") [属性检定](Ability_Check.md "属性检定") 拥有 [优势](Advantage.md "优势")。
 - 承受的 [坠落伤害](Falling_damage.md "坠落伤害") 减半。
 
 ---

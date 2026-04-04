@@ -16,7 +16,7 @@
 
 **\_(状态)[虫群瘟疫](Insect_Plague_(Aura)_(Condition).md "虫群瘟疫 (光环) (状态)")**
 
-- 成群结队、叮咬的蝗虫充斥着空气。它们每 [驱散](Turn.md "Turn") 造成 4d10⁠⁠[穿刺](Piercing.md "穿刺") 伤害，使区域成为 [劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")，并对 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定") 施加 [劣势](Disadvantage.md "劣势")。
+- 成群结队、叮咬的蝗虫充斥着空气。它们每 [驱散](Turn.md "Turn") 造成 4d10⁠⁠[穿刺](Piercing.md "穿刺") 伤害，使区域成为 [劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")，并对 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定") 施加 [劣势](Disadvantage.md "劣势")。
 
 ## 创建
 

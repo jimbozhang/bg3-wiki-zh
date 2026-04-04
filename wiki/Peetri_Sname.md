@@ -81,7 +81,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -129,7 +129,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -177,7 +177,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -209,7 +209,7 @@ UUID
 
 ### 第三幕
 
-皮特里只能在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")被摧毁且[钢铁卫士](Steel_Watcher.md "钢铁卫士")被停用后才能找到。她和她的姐妹[海拉](Hyrla_Sname.md "海拉·斯内姆")站在一个静止的钢铁卫士尸体周围围观，可能对它们的状态感到有点难过。
+皮特里只能在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")被摧毁且[钢铁卫士](Steel_Watcher.md "钢铁卫士")被停用后才能找到。她和她的姐妹[海拉·斯内姆](Hyrla_Sname.md "海拉·斯内姆")站在一个静止的钢铁卫士尸体周围围观，可能对它们的状态感到有点难过。
 
 ---
 *Source: [Peetri Sname](https://bg3.wiki/wiki/Peetri_Sname)*

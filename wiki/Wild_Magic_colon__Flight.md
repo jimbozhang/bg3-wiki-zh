@@ -1,6 +1,6 @@
 # 狂野魔法：飞行术
 
-**狂野魔法：飞行术**是[狂野魔法术士](Wild_Magic_Sorcerer.md "狂野魔法术士")的自由动作，当由[狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法（被动特性）")掷骰触发时随机使用；它给予[飞行术](Grant_Flight.md "给予飞行")法术般的飞行能力。
+**狂野魔法：飞行术**是[狂野魔法术士](Wild_Magic_Sorcerer.md "狂野魔法术士")的自由动作，当由[狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法（被动特性）")掷骰触发时随机使用；它给予[给予飞行](Grant_Flight.md "给予飞行")法术般的飞行能力。
 
 ## 描述
 

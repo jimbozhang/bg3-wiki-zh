@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[公会关于杜林博德女士的档案，她是[博德之门](Baldur's_Gate.md "博德之门")最显赫的族长之一。\]
+\[博德之门](Baldur's_Gate.md "博德之门")最显赫的族长之一。\]
 
 ---
 *Source: [Scroll (Lady Durinbold dossier)](https://bg3.wiki/wiki/Scroll_(Lady_Durinbold_dossier)*

@@ -1,6 +1,6 @@
 # 呓语护盾
 
-**呓语护盾**是一个[等级 3 防护学派法术](Spells.md "Spells")。它是[尼讷](Nere.md "Nere")独有的法术，能将他的[护甲等级](Armour_Class.md "Armour_Class")提高 3 点，并允许他对近战攻击者进行 2d6⁠⁠[心灵](Psychic.md "Psychic")伤害的反击。队伍成员无法学习此法术。
+**呓语护盾**是一个[法术](Spells.md "法术")。它是[尼讷](Nere.md "Nere")独有的法术，能将他的[护甲等级](Armour_Class.md "Armour_Class")提高 3 点，并允许他对近战攻击者进行 2d6⁠⁠[心灵](Psychic.md "Psychic")伤害的反击。队伍成员无法学习此法术。
 
 ## 描述
 

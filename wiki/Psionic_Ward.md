@@ -1,6 +1,6 @@
 # 灵能守御
 
-这是一个消歧义页面，链接到名称含糊的条目。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Psionic_Ward.md "Special:WhatLinksHere/Psionic Ward")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称含糊的条目。如果您是通过文章中的链接[灵能守御](Special_colon_WhatLinksHere/Psionic_Ward.md "灵能守御")的，请考虑编辑该链接，将其指向正确的页面。
 
 **灵能守御**可能指：
 

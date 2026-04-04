@@ -2,7 +2,7 @@
 
 **预言：惊雷启示**
 
-- 对敌人造成至少 1⁠⁠[闪电](Lightning.md "Lightning")伤害以恢复一个[预兆骰子](Portent.md "Portent")。
+- 对敌人造成至少 1⁠⁠[闪电](Lightning.md "Lightning")伤害以恢复一个[预兆](Portent.md "预兆")。
 
 ## 属性
 

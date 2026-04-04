@@ -80,19 +80,19 @@
 
 ## 特性
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 能在黑暗中视物，包括魔法黑暗，范围达 24 米 (80 英尺)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -148,19 +148,19 @@
 
 ## 特性
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 能在黑暗中视物，包括魔法黑暗，范围达 24 米 (80 英尺)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -216,19 +216,19 @@
 
 ## 特性
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 能在黑暗中视物，包括魔法黑暗，范围达 24 米 (80 英尺)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -262,18 +262,18 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 概述](#概述)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 概述
 
 ### 第一幕
 
-一名军团魔步兵位于[复仇之炉](Grymforge.md "复仇之炉")的一个上锁房间内，伴随三只[地狱野猪](Hellsboar.md "地狱野猪")。它会主动攻击。可以通过通过 DC 18 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")或使用[生锈的银钥匙](Tarnished_Silver_Key.md "生锈的银钥匙")来打开门。
+一名军团魔步兵位于[复仇之炉](Grymforge.md "复仇之炉")的一个上锁房间内，伴随三只[地狱野猪](Hellsboar.md "地狱野猪")。它会主动攻击。可以通过通过 DC 18 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")或使用[生锈的银钥匙](Tarnished_Silver_Key.md "生锈的银钥匙")来打开门。
 
 ### 第二幕
 

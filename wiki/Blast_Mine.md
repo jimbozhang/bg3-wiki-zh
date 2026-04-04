@@ -10,7 +10,7 @@
 
 由于爆破地雷的主要伤害是爆炸，触发它可能会摧毁附近可能有用的物体，如梯子、绳网、各种装满的桶（包括[烟粉桶](Smokepowder_Barrel.md "Smokepowder Barrel")和[火酒桶](Firewine_Barrel.md "Firewine Barrel")，它们可能会爆炸，从而对粗心的冒险者造成更多伤害），更不用说[容器](Container.md "Container")和其他环境元素了。
 
-可以使用[巧手](Sleight_of_Hand.md "Sleight of Hand")技能解除爆破地雷，但交互的队伍成员必须在物品栏中拥有[解除陷阱工具包](Trap_Disarm_Toolkit.md "Trap Disarm Toolkit")。最低要求是进行 DC 15 的[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability check")掷骰，但[难度等级](Difficulty_Class.md "Difficulty Class")可能会根据情况而变化。
+可以使用[巧手](Sleight_of_Hand.md "Sleight of Hand")技能解除爆破地雷，但交互的队伍成员必须在物品栏中拥有[解除陷阱工具包](Trap_Disarm_Toolkit.md "Trap Disarm Toolkit")。最低要求是进行 DC 15 的[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")掷骰，但[难度等级](Difficulty_Class.md "Difficulty Class")可能会根据情况而变化。
 
 爆炸或解除后的爆破地雷。
 

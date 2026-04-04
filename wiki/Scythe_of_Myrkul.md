@@ -33,7 +33,7 @@ UID `WPN_MYRKUL_Apostle_Scythe_A` UUID `3112f0f5-4073-45d2-8e37-eeafa1558896` St
 ## 备注
 
 - 此物品由[米尔寇的使徒](Apostle_of_Myrkul.md "Apostle of Myrkul")使用，在正常游戏流程中无法获得。
-- 在面对使徒前，将[弃誓者](Oathbreaker.md "Oathbreaker")圣武士升级至 12 级（例如通过模组或作弊），可对其使用[控制不死生物](Control_Undead.md "Control Undead")。在其处于此状态时杀死他，会导致他掉落镰刀。然而，这样做会使队伍陷入软锁定，因为凯瑟里克的尸体不会出现，他的[耐色石](Ketheric's_Netherstone.md "Ketheric's Netherstone")无法获得，导致队伍无法离开[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")。
+- 在面对使徒前，将[弃誓者](Oathbreaker.md "Oathbreaker")圣武士升级至 12 级（例如通过模组或作弊），可对其使用[控制不死生物](Control_Undead.md "Control Undead")。在其处于此状态时杀死他，会导致他掉落镰刀。然而，这样做会使队伍陷入软锁定，因为凯瑟里克的尸体不会出现，他的[凯瑟里克的耐色石](Ketheric's_Netherstone.md "凯瑟里克的耐色石")无法获得，导致队伍无法离开[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")。
   - 如果使用上述方法杀死凯瑟里克，队伍成员可以摇响[金银丝妖精荒野铃铛](Filigreed_Feywild_Bell.md "Filigreed Feywild Bell")并侮辱[多利多利多利](Dolly_Dolly_Dolly.md "Dolly Dolly Dolly")，促使她将他们变形；从而绕过快速离开殖民地的限制。
 
 ---

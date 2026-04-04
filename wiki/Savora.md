@@ -102,7 +102,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -158,7 +158,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -214,7 +214,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -244,11 +244,11 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 注释](#notes)
+- [1 参与度](#参与度)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 注释](#注释)
 
 ## 参与度
 
@@ -266,7 +266,7 @@ UUID
 
 对目标造成 8d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。植物受到此法术的最大伤害，并且在对抗它的[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程：9 米 (30 英尺)
 
 [召唤元素生物：火元素](Conjure_Elemental_colon__Fire_Elemental.md "召唤元素生物：火元素") (+ )
@@ -278,7 +278,7 @@ UUID
 
 尝试阻止施放法术。
 
-如果该法术的等级高于你用于法术反制的法术位，你必须使用你的施法关键属性进行一次[检定](Ability_Check.md "属性检定")_\\[[参见注释](Counterspell.md#Notes "法术反制")\\]_来阻止它。检定的难度等于 10 加上你试图反制的法术的等级。
+如果该法术的等级高于你用于法术反制的法术位，你必须使用你的施法关键属性进行一次[属性检定](Ability_Check.md "属性检定")_\\[[参见注释](Counterspell.md#Notes "法术反制")\\]_来阻止它。检定的难度等于 10 加上你试图反制的法术的等级。
 
 此法术可以在你处于[沉默](Silenced_(Condition).md "沉默 (状态)")状态时施放。
 
@@ -310,7 +310,7 @@ UUID
 
 \+ 2d4⁠[强酸](Acid.md "强酸")
 
-射出一支绿色箭矢，在酸液喷雾中爆裂。立即造成 ⁠[4d4 强酸](Acid.md "强酸")伤害，并在目标下一回合结束时造成 ⁠[2d4 强酸](Acid.md "强酸")伤害。
+射出一支绿色箭矢，在酸液喷雾中爆裂。立即造成 ⁠[强酸](Acid.md "强酸")伤害，并在目标下一回合结束时造成 ⁠[强酸](Acid.md "强酸")伤害。
 
 如果法术未命中，目标仍会受到一半的初始伤害，但在其下一回合结束时不会受到伤害。
 
@@ -319,13 +319,13 @@ UUID
 [识破隐形](See_Invisibility_(spell).md "识破隐形 (法术)") (+ )
 能够看到[隐形](Invisible_(Condition).md "隐形 (状态)")生物，并可能向他人揭示它们。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：自身
 
 [减速](Slow.md "减速") (+ )
 改变最多 6 个敌人周围的时间以使其减速。他们无法走远，无法做太多事，并且更容易被击中。
 
-[感](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [摔绊](Topple.md "摔绊") () – [长棍](Quarterstaff.md "长棍")
@@ -336,7 +336,7 @@ UUID
 
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

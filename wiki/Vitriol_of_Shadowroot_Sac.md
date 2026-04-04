@@ -1,6 +1,6 @@
 # 黑根菌粘液
 
-**黑根菌粘液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[邪恶灵药](Elixir_of_Viciousness.md "邪恶灵药")。
+**黑根菌粘液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[邪恶灵药](Elixir_of_Viciousness.md "邪恶灵药")。
 
 一种甜腻的气味从分泌物中升起。它同时让你的感官变得敏锐，又让你的喉咙涌起胆汁。
 

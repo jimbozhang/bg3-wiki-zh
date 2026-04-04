@@ -10,38 +10,38 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 副职](#subclasses)
-- [3 职业进阶](#class-progression)
-- [4 职业信息](#class-information)
-  - [4.1 属性](#attributes)
-  - [4.2 初始熟练项](#starting-proficiencies)
-  - [4.3 身兼多职熟练项](#multiclass-proficiencies)
-- [5 等级进阶](#level-progression)
-  - [5.1 等级 1](#level-1)
+- [1 概述](#概述)
+- [2 副职](#副职)
+- [3 职业进阶](#职业进阶)
+- [4 职业信息](#职业信息)
+  - [4.1 属性](#属性)
+  - [4.2 初始熟练项](#初始熟练项)
+  - [4.3 身兼多职熟练项](#身兼多职熟练项)
+- [5 等级进阶](#等级进阶)
+  - [5.1 等级 1](#等级-1)
     - [5.1.1 选择副职（领域）](#select-a-subclass-(Domain))
-  - [5.2 等级 2](#level-2)
-    - [5.2.1 副职特性 - _领域动作_](#subclass-feature--_Domain_actions)
-  - [5.3 等级 3](#level-3)
+  - [5.2 等级 2](#等级-2)
+    - [5.2.1 副职特性 - _领域动作_](#副职特性---_领域动作_)
+  - [5.3 等级 3](#等级-3)
     - [5.3.1 领域法术（自动预备）：](#domain-spells-(always_prepared):)
-  - [5.4 等级 4](#level-4)
-  - [5.5 等级 5](#level-5)
+  - [5.4 等级 4](#等级-4)
+  - [5.5 等级 5](#等级-5)
     - [5.5.1 领域法术（自动预备）：](#domain-spells-(always_prepared):_2)
-  - [5.6 等级 6](#level-6)
-    - [5.6.1 副职特性 - _领域动作_](#subclass-features--_Domain_actions)
-  - [5.7 等级 7](#level-7)
+  - [5.6 等级 6](#等级-6)
+    - [5.6.1 副职特性 - _领域动作_](#副职特性---_领域动作_)
+  - [5.7 等级 7](#等级-7)
     - [5.7.1 领域法术（自动预备）：](#domain-spells-(always_prepared):_3)
-  - [5.8 等级 8](#level-8)
-    - [5.8.1 副职特性 - _领域动作_](#subclass-features--_Domain_actions_2)
-  - [5.9 等级 9](#level-9)
+  - [5.8 等级 8](#等级-8)
+    - [5.8.1 副职特性 - _领域动作_](#副职特性---_领域动作_)
+  - [5.9 等级 9](#等级-9)
     - [5.9.1 领域法术（自动预备）：](#domain-spells-(always_prepared):_4)
-  - [5.10 等级 10](#level-10)
-  - [5.11 等级 11](#level-11)
-  - [5.12 等级 12](#level-12)
-- [6 著名牧师](#notable-clerics)
-- [7 注释](#notes)
-- [8 另见](#see-also)
-- [9 外部链接](#external-links)
+  - [5.10 等级 10](#等级-10)
+  - [5.11 等级 11](#等级-11)
+  - [5.12 等级 12](#等级-12)
+- [6 著名牧师](#著名牧师)
+- [7 注释](#注释)
+- [8 另见](#另见)
+- [9 外部链接](#外部链接)
 
 ## 概述
 
@@ -52,13 +52,13 @@
 牧师的副职，或称**领域**，包括：
 
 - [死亡](Death_Domain.md "死亡领域")
-- [知识](Knowledge_Domain.md "知识领域")
-- [生命](Life_Domain.md "生命领域")
-- [光明](Light_Domain.md "光明领域")
-- [自然](Nature_Domain.md "自然领域")
-- [风暴](Tempest_Domain.md "风暴领域")
-- [诡术](Trickery_Domain.md "诡术领域")
-- [战争](War_Domain.md "战争领域")
+- [知识领域](Knowledge_Domain.md "知识领域")
+- [生命领域](Life_Domain.md "生命领域")
+- [光明领域](Light_Domain.md "光明领域")
+- [自然领域](Nature_Domain.md "自然领域")
+- [风暴领域](Tempest_Domain.md "风暴领域")
+- [诡术领域](Trickery_Domain.md "诡术领域")
+- [战争领域](War_Domain.md "战争领域")
 
 ## 职业进阶
 
@@ -113,7 +113,7 @@
 [盾牌](Shields.md "盾牌")
 技能熟练项（选择2项）
 [历史的](History.md "历史的")，[洞悉](Insight.md "洞悉")，[医药](Medicine.md "医药")，[游说](Persuasion.md "游说")，[宗教](Religion.md "宗教")
-您在所有[熟练](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")上获得加值。在角色1级时，此[熟练项加值](Proficiency.md#Proficiency_bonus "熟练项")为+2。
+您在所有[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")上获得加值。在角色1级时，此[熟练项加值](Proficiency.md#Proficiency_bonus "熟练项")为+2。
 初始装备
 [硬头锤](Mace.md "硬头锤")，[链甲衫](Chain_Shirt.md "链甲衫")，[镶钉盾](Studded_Shield.md "镶钉盾")，[皮靴](Leather_Boots.md "皮靴")
 
@@ -160,7 +160,7 @@
 
 牧师选择的神祇可在整个游戏中提供一些独特的对话选项。某些牧师法术的视觉效果会包含所选神祇的标志。
 
-请注意，神祇的选择受牧师的种族和亚种族限制。只有[吉斯洋基人](Githyanki.md "吉斯洋基人")可以选择维拉基斯作为神祇，只有[灰矮人](Duergar.md "灰矮人")可以选择拉杜格作为神祇，[罗丝誓约](Lolth-Sworn_Drow.md "罗丝誓约卓尔")[卓尔](Drow.md "卓尔")只能选择罗丝作为神祇，而[席德瑞恩](Seldarine_Drow.md "席德瑞恩卓尔")卓尔不能选择罗丝作为神祇。[影心](Shadowheart.md "影心")的神祇选择是固定的，选择牧师职业时不会显示神祇选择界面。她将选择⁠[莎尔](Shar.md "莎尔")作为神祇。
+请注意，神祇的选择受牧师的种族和亚种族限制。只有[吉斯洋基人](Githyanki.md "吉斯洋基人")可以选择维拉基斯作为神祇，只有[灰矮人](Duergar.md "灰矮人")可以选择拉杜格作为神祇，[罗丝誓约卓尔](Lolth-Sworn_Drow.md "罗丝誓约卓尔")[卓尔](Drow.md "卓尔")只能选择罗丝作为神祇，而[席德瑞恩卓尔](Seldarine_Drow.md "席德瑞恩卓尔")卓尔不能选择罗丝作为神祇。[影心](Shadowheart.md "影心")的神祇选择是固定的，选择牧师职业时不会显示神祇选择界面。她将选择⁠[莎尔](Shar.md "莎尔")作为神祇。
 
 施法
 
@@ -176,7 +176,7 @@
 
 [剑刃防护](Blade_Ward.md "剑刃防护")
 [爆裂肌腱](Bursting_Sinew.md "爆裂肌腱")
-[神导术](Guidance.md "神导术") [光亮术](Light.md "光亮术")
+[神导术](Guidance.md "神导术") [轻型](Light.md "轻型")
 [燃火术](Produce_Flame.md "燃火术")
 [抗性](Resistance_(Cantrip).md "抗性（戏法）") [圣火术](Sacred_Flame.md "圣火术")
 [奇术](Thaumaturgy.md "奇术")
@@ -202,10 +202,10 @@ _选择1个戏法：_
 - [爆裂肌腱](Bursting_Sinew.md "爆裂肌腱")
 - [丧钟](Toll_the_Dead.md "丧钟")
 
-| [军用武器](Martial_weapons.md "军用武器") [知识](Knowledge_Domain.md "知识领域") | [知识祝福](Blessings_of_Knowledge.md "知识祝福") |
+| [军用武器](Martial_weapons.md "军用武器") [知识领域](Knowledge_Domain.md "知识领域") | [知识祝福](Blessings_of_Knowledge.md "知识祝福") |
 
 - [命令术](Command.md "命令术")
-- [睡眠术](Sleep.md "睡眠术")\*
+- [睡眠](Sleep.md "睡眠")\*
 
 | _选择2项技能，获得双倍加值：_|
 
@@ -217,13 +217,13 @@ _选择1个戏法：_
 | 领域 | 特性 | 领域法术（自动预备）和戏法 | 熟练项 |
 | --- | --- | --- | --- |
 | [死亡](Death_Domain.md "死亡领域") | [收割者](Reaper.md "收割者") | [虚假生命](False_Life.md "虚假生命")* [疾病射线](Ray_of_Sickness.md "疾病射线")* 选择1个戏法：[冻僵](Bone_Chill.md "冻僵")* [爆裂肌腱](Bursting_Sinew.md "爆裂肌腱") [丧钟](Toll_the_Dead.md "丧钟") | [军用武器](Martial_weapons.md "军用武器") |
-| [知识](Knowledge_Domain.md "知识领域") | [知识祝福](Blessings_of_Knowledge.md "知识祝福") | [命令术](Command.md "命令术") [睡眠术](Sleep.md "睡眠术")* | 选择2项技能，获得双倍加值：[奥秘](Arcana.md "奥秘") [历史的](History.md "历史的") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
-| [生命](Life_Domain.md "生命领域") | [生命门徒](Disciple_of_Life.md "生命门徒") | [疗伤术](Cure_Wounds.md "疗伤术") [祝福术](Bless.md "祝福术") | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") |
-| [光明](Light_Domain.md "光明领域") | [守御闪光](Warding_Flare.md "守御闪光") | [光亮术](Light.md "光亮术") [燃烧之手](Burning_Hands.md "燃烧之手")* [妖火](Faerie_Fire.md "妖火") * | - |
-| [自然](Nature_Domain.md "自然领域") | [自然侍僧](Acolyte_of_Nature.md "自然侍僧") | [动物交谈](Speak_with_Animals.md "动物交谈") * [化兽为友](Animal_Friendship.md "化兽为友")* 选择1个戏法：[毒气喷溅](Poison_Spray.md "毒气喷溅")* [燃火术](Produce_Flame.md "燃火术") [橡棍术](Shillelagh.md "橡棍术")* [荆棘之鞭](Thorn_Whip.md "荆棘之鞭")* | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") 选择1项技能 [驯兽](Animal_Handling.md "驯兽") [自然](Nature.md "自然") [求生](Survival.md "求生") |
-| [风暴](Tempest_Domain.md "风暴领域") | [风暴狂怒](Wrath_of_the_Storm.md "风暴狂怒") | [雷鸣波](Thunderwave.md "雷鸣波")* [云雾术](Fog_Cloud.md "云雾术") * | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") [军用武器](Martial_weapons.md "军用武器") |
-| [诡术](Trickery_Domain.md "诡术领域") | [诡术祝福](Blessing_of_the_Trickster.md "诡术祝福") | [魅惑人类](Charm_Person.md "魅惑人类")* [伪装术](Disguise_Self.md "伪装术") * | - |
-| [战争](War_Domain.md "战争领域") | [战争祭司](War_Priest.md "战争祭司") | [神恩](Divine_Favour.md "神恩") * [虔诚护盾](Shield_of_Faith.md "虔诚护盾") | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") [军用武器](Martial_weapons.md "军用武器") |
+| [知识领域](Knowledge_Domain.md "知识领域") | [知识祝福](Blessings_of_Knowledge.md "知识祝福") | [命令术](Command.md "命令术") [睡眠](Sleep.md "睡眠")* | 选择2项技能，获得双倍加值：[奥秘](Arcana.md "奥秘") [历史的](History.md "历史的") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
+| [生命领域](Life_Domain.md "生命领域") | [生命门徒](Disciple_of_Life.md "生命门徒") | [疗伤术](Cure_Wounds.md "疗伤术") [祝福术](Bless.md "祝福术") | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") |
+| [光明领域](Light_Domain.md "光明领域") | [守御闪光](Warding_Flare.md "守御闪光") | [轻型](Light.md "轻型") [燃烧之手](Burning_Hands.md "燃烧之手")* [妖火](Faerie_Fire.md "妖火") * | - |
+| [自然领域](Nature_Domain.md "自然领域") | [自然侍僧](Acolyte_of_Nature.md "自然侍僧") | [动物交谈](Speak_with_Animals.md "动物交谈") * [化兽为友](Animal_Friendship.md "化兽为友")* 选择1个戏法：[毒气喷溅](Poison_Spray.md "毒气喷溅")* [燃火术](Produce_Flame.md "燃火术") [橡棍术](Shillelagh.md "橡棍术")* [荆棘之鞭](Thorn_Whip.md "荆棘之鞭")* | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") 选择1项技能 [驯兽](Animal_Handling.md "驯兽") [自然](Nature.md "自然") [求生](Survival.md "求生") |
+| [风暴领域](Tempest_Domain.md "风暴领域") | [风暴狂怒](Wrath_of_the_Storm.md "风暴狂怒") | [雷鸣波](Thunderwave.md "雷鸣波")* [云雾术](Fog_Cloud.md "云雾术") * | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") [军用武器](Martial_weapons.md "军用武器") |
+| [诡术领域](Trickery_Domain.md "诡术领域") | [诡术祝福](Blessing_of_the_Trickster.md "诡术祝福") | [魅惑人类](Charm_Person.md "魅惑人类")* [伪装术](Disguise_Self.md "伪装术") * | - |
+| [战争领域](War_Domain.md "战争领域") | [战争祭司](War_Priest.md "战争祭司") | [神恩](Divine_Favour.md "神恩") * [虔诚护盾](Shield_of_Faith.md "虔诚护盾") | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") [军用武器](Martial_weapons.md "军用武器") |
 
 ### 等级 2
 
@@ -261,7 +261,7 @@ ______________________________________________________________________
 
 新2环法术
 
-[援助术](Aid.md "援助术")
+[支援术](Aid.md "支援术")
 [失明术](Blindness.md "失明术")
 [安定心神](Calm_Emotions.md "安定心神") [强化属性](Enhance_Ability.md "强化属性") [人类定身术](Hold_Person.md "人类定身术") [恢复](Lesser_Restoration.md "恢复")
 [治疗祷言](Prayer_of_Healing.md "治疗祷言")
@@ -292,7 +292,7 @@ ______________________________________________________________________
 
 |
 
-- [援助术](Aid.md "援助术")
+- [支援术](Aid.md "支援术")
 - [恢复](Lesser_Restoration.md "恢复")
 
 |
@@ -365,13 +365,13 @@ ______________________________________________________________________
 | 领域 | 特性 | 领域法术（自动预备）和戏法 | 熟练项 |
 | --- | --- | --- | --- |
 | [死亡](Death_Domain.md "死亡领域") | [收割者](Reaper.md "收割者") | [虚假生命](False_Life.md "虚假生命")* [疾病射线](Ray_of_Sickness.md "疾病射线")* 选择1个戏法：[冻僵](Bone_Chill.md "冻僵")* [爆裂肌腱](Bursting_Sinew.md "爆裂肌腱") [丧钟](Toll_the_Dead.md "丧钟") | [军用武器](Martial_weapons.md "军用武器") |
-| [知识](Knowledge_Domain.md "知识领域") | [知识祝福](Blessings_of_Knowledge.md "知识祝福") | [命令术](Command.md "命令术") [睡眠术](Sleep.md "睡眠术")* | 选择2项技能，获得双倍加值：[奥秘](Arcana.md "奥秘") [历史的](History.md "历史的") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
-| [生命](Life_Domain.md "生命领域") | [生命门徒](Disciple_of_Life.md "生命门徒") | [疗伤术](Cure_Wounds.md "疗伤术") [祝福术](Bless.md "祝福术") | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") |
-| [光明](Light_Domain.md "光明领域") | [守御闪光](Warding_Flare.md "守御闪光") | [光亮术](Light.md "光亮术") [燃烧之手](Burning_Hands.md "燃烧之手")* [妖火](Faerie_Fire.md "妖火") * | - |
-| [自然](Nature_Domain.md "自然领域") | [自然侍僧](Acolyte_of_Nature.md "自然侍僧") | [动物交谈](Speak_with_Animals.md "动物交谈") * [化兽为友](Animal_Friendship.md "化兽为友")* 选择1个戏法：[毒气喷溅](Poison_Spray.md "毒气喷溅")* [燃火术](Produce_Flame.md "燃火术") [橡棍术](Shillelagh.md "橡棍术")* [荆棘之鞭](Thorn_Whip.md "荆棘之鞭")* | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") 选择1项技能 [驯兽](Animal_Handling.md "驯兽") [自然](Nature.md "自然") [求生](Survival.md "求生") |
-| [风暴](Tempest_Domain.md "风暴领域") | [风暴狂怒](Wrath_of_the_Storm.md "风暴狂怒") | [雷鸣波](Thunderwave.md "雷鸣波")* [云雾术](Fog_Cloud.md "云雾术") * | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") [军用武器](Martial_weapons.md "军用武器") |
-| [诡术](Trickery_Domain.md "诡术领域") | [诡术祝福](Blessing_of_the_Trickster.md "诡术祝福") | [魅惑人类](Charm_Person.md "魅惑人类")* [伪装术](Disguise_Self.md "伪装术") * | - |
-| [战争](War_Domain.md "战争领域") | [战争祭司](War_Priest.md "战争祭司") | [神恩](Divine_Favour.md "神恩") * [虔诚护盾](Shield_of_Faith.md "虔诚护盾") | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") [军用武器](Martial_weapons.md "军用武器") |
+| [知识领域](Knowledge_Domain.md "知识领域") | [知识祝福](Blessings_of_Knowledge.md "知识祝福") | [命令术](Command.md "命令术") [睡眠](Sleep.md "睡眠")* | 选择2项技能，获得双倍加值：[奥秘](Arcana.md "奥秘") [历史的](History.md "历史的") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
+| [生命领域](Life_Domain.md "生命领域") | [生命门徒](Disciple_of_Life.md "生命门徒") | [疗伤术](Cure_Wounds.md "疗伤术") [祝福术](Bless.md "祝福术") | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") |
+| [光明领域](Light_Domain.md "光明领域") | [守御闪光](Warding_Flare.md "守御闪光") | [轻型](Light.md "轻型") [燃烧之手](Burning_Hands.md "燃烧之手")* [妖火](Faerie_Fire.md "妖火") * | - |
+| [自然领域](Nature_Domain.md "自然领域") | [自然侍僧](Acolyte_of_Nature.md "自然侍僧") | [动物交谈](Speak_with_Animals.md "动物交谈") * [化兽为友](Animal_Friendship.md "化兽为友")* 选择1个戏法：[毒气喷溅](Poison_Spray.md "毒气喷溅")* [燃火术](Produce_Flame.md "燃火术") [橡棍术](Shillelagh.md "橡棍术")* [荆棘之鞭](Thorn_Whip.md "荆棘之鞭")* | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") 选择1项技能 [驯兽](Animal_Handling.md "驯兽") [自然](Nature.md "自然") [求生](Survival.md "求生") |
+| [风暴领域](Tempest_Domain.md "风暴领域") | [风暴狂怒](Wrath_of_the_Storm.md "风暴狂怒") | [雷鸣波](Thunderwave.md "雷鸣波")* [云雾术](Fog_Cloud.md "云雾术") * | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") [军用武器](Martial_weapons.md "军用武器") |
+| [诡术领域](Trickery_Domain.md "诡术领域") | [诡术祝福](Blessing_of_the_Trickster.md "诡术祝福") | [魅惑人类](Charm_Person.md "魅惑人类")* [伪装术](Disguise_Self.md "伪装术") * | - |
+| [战争领域](War_Domain.md "战争领域") | [战争祭司](War_Priest.md "战争祭司") | [神恩](Divine_Favour.md "神恩") * [虔诚护盾](Shield_of_Faith.md "虔诚护盾") | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲") [军用武器](Martial_weapons.md "军用武器") |
 
 - [操纵死尸](Animate_Dead.md "操纵死尸")
 - [吸血鬼之触](Vampiric_Touch.md "吸血鬼之触") \*
@@ -385,11 +385,11 @@ ______________________________________________________________________
 
 - [昼明术](Daylight.md "昼明术")
 
-- [火球术术](Fireball.md "火球术术")\*
+- [火球术](Fireball.md "火球术")\*
 
 |
 
-- [缓慢术](Slow.md "缓慢术") \*
+- [减速](Slow.md "减速") \*
 
 | - [死者交谈](Speak_with_Dead.md "死者交谈") [自然领域](Nature_Domain.md "自然领域") | [风暴领域](Tempest_Domain.md "风暴领域") | [诡术领域](Trickery_Domain.md "诡术领域") | [战争领域](War_Domain.md "战争领域") |
 
@@ -404,7 +404,7 @@ ______________________________________________________________________
 
 |
 
-- [降咒](Bestow_Curse.md "降咒") * [恐惧术](Fear.md "恐惧术") \*
+- [降咒](Bestow_Curse.md "降咒") * [恐惧](Fear.md "恐惧") \*
 
 |
 
@@ -502,7 +502,7 @@ ______________________________________________________________________
 
 | [死亡领域](Death_Domain.md "死亡领域") | [生命领域](Life_Domain.md "生命领域") | [光明领域](Light_Domain.md "光明领域") | [知识领域](Knowledge_Domain.md "知识领域") |
 | --- | --- | --- | --- |
-| [失明术](Blindness.md "失明术") [衰弱射线](Ray_of_Enfeeblement.md "衰弱射线") * | [援助术](Aid.md "援助术") [恢复](Lesser_Restoration.md "恢复") | [炽焰法球](Flaming_Sphere.md "炽焰法球") * [灼热射线](Scorching_Ray.md "灼热射线")* | [安定心神](Calm_Emotions.md "安定心神") [人类定身术](Hold_Person.md "人类定身术") |
+| [失明术](Blindness.md "失明术") [衰弱射线](Ray_of_Enfeeblement.md "衰弱射线") * | [支援术](Aid.md "支援术") [恢复](Lesser_Restoration.md "恢复") | [炽焰法球](Flaming_Sphere.md "炽焰法球") * [灼热射线](Scorching_Ray.md "灼热射线")* | [安定心神](Calm_Emotions.md "安定心神") [人类定身术](Hold_Person.md "人类定身术") |
 | [自然领域](Nature_Domain.md "自然领域") | [风暴领域](Tempest_Domain.md "风暴领域") | [诡术领域](Trickery_Domain.md "诡术领域") | [战争领域](War_Domain.md "战争领域") |
 | [荆棘丛生](Spike_Growth.md "荆棘丛生") * [树肤术](Barkskin.md "树肤术") * | [粉碎音波](Shatter.md "粉碎音波")* [造风术](Gust_of_Wind.md "造风术")* | [镜像术](Mirror_Image.md "镜像术")* [行动无踪](Pass_Without_Trace.md "行动无踪") * | [灵体武器](Spiritual_Weapon.md "灵体武器") [魔法武器](Magic_Weapon.md "魔法武器") * |
 
@@ -527,7 +527,7 @@ ______________________________________________________________________
 [神圣干预：击破异端](Divine_Intervention_colon__Sunder_the_Heretical.md "神圣干预：击破异端") ()
 呼唤您的神祇在附近所有敌人身上引发一场光耀大灾变。
 [神圣干预：武装仆从](Divine_Intervention_colon__Arm_Thy_Servant.md "神圣干预：武装仆从") ()
-呼唤您的神祇赐予您一把在神圣契约之火中锻造的[传奇武器](Devotee's_Mace.md "信徒硬头锤")。
+呼唤您的神祇赐予您一把在神圣契约之火中锻造的[信徒硬头锤](Devotee's_Mace.md "信徒硬头锤")。
 [神圣干预：光耀复苏](Divine_Intervention_colon__Opulent_Revival.md "神圣干预：光耀复苏") ()
 复活倒下的伙伴，使其生命值恢复一半，并使所有附近盟友恢复，如同他们进行了[长休](Long_Rest.md "长休")。
 [神圣干预：神圣馈赠](Divine_Intervention_colon__Golden_Generosity.md "神圣干预：神圣馈赠") ()
@@ -556,8 +556,8 @@ ______________________________________________________________________
 新6环法术
 
 [剑刃屏障](Blade_Barrier.md "剑刃屏障") [唤起死灵](Create_Undead.md "唤起死灵")
-[伤害术](Harm.md "伤害术")
-[治愈术](Heal.md "治愈术")
+[重伤术](Harm.md "重伤术")
+[治疗](Heal.md "治疗")
 [英雄盛宴](Heroes'_Feast.md "英雄盛宴")
 [异界誓盟](Planar_Ally.md "异界誓盟")
 

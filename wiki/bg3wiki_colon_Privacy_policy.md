@@ -2,14 +2,14 @@
 
 ## 目录
 
-- [1 bg3.wiki 收集的数据](#data-collected-by-bg3.wiki)
-  - [1.1 服务器日志](#server-logs)
-  - [1.2 MediaWiki 日志](#mediawiki-logs)
-  - [1.3 付款申请表](#payment-application-form)
-- [2 来自广告服务器的第三方 Cookie](#third-party_cookies_from_ad_servers)
-  - [2.1 Publift](#publift)
-  - [2.2 Playwire](#playwire)
-  - [2.3 Cookie 设置](#cookie-settings)
+- [1 bg3.wiki 收集的数据](#bg3.wiki-收集的数据)
+  - [1.1 服务器日志](#服务器日志)
+  - [1.2 MediaWiki 日志](#MediaWiki-日志)
+  - [1.3 付款申请表](#付款申请表)
+- [2 来自广告服务器的第三方 Cookie](#来自广告服务器的第三方-Cookie)
+  - [2.1 Publift](#Publift)
+  - [2.2 Playwire](#Playwire)
+  - [2.3 Cookie 设置](#Cookie-设置)
 
 ## bg3.wiki 收集的数据
 

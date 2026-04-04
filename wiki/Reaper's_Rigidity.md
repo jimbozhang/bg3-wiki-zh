@@ -22,7 +22,7 @@
 
 ## 简要预览
 
-激活后，不会被强制移动，但会在[敏捷](DEX.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")。
+激活后，不会被强制移动，但会在[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")。
 
 ---
 *Source: [Reaper's Rigidity](https://bg3.wiki/wiki/Reaper's_Rigidity)*

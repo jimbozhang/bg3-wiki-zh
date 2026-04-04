@@ -18,7 +18,7 @@
 [附赠动作](Actions.md#Resources "Actions")
 
 - 为你的主动武器涂抹油料，直至[长休](Long_Rest.md "Long Rest")。
-  - 当涂抹于⁠⁠[穿刺](Piercing.md "Piercing")或⁠⁠[挥砍](Slashing.md "Slashing")武器时，提供+3的[攻击掷骰](Attack_roll.md "Attack Roll")和[伤害](Damage_Roll.md "Damage Roll")加值。
+  - 当涂抹于⁠⁠[穿刺](Piercing.md "Piercing")或⁠⁠[挥砍](Slashing.md "Slashing")武器时，提供+3的[攻击掷骰](Attack_roll.md "Attack Roll")和[伤害掷骰](Damage_Roll.md "伤害掷骰")加值。
 
 ## 外部链接
 

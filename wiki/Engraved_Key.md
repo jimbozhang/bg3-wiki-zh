@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 
@@ -18,7 +18,7 @@
 
 ## 获取地点
 
-- 在[阴暗墓穴](Dank_Crypt.md "阴暗墓穴")中一个设有陷阱的石棺内，需要通过 DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来解除陷阱 X: -291 Y: -326
+- 在[阴暗墓穴](Dank_Crypt.md "阴暗墓穴")中一个设有陷阱的石棺内，需要通过 DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来解除陷阱 X: -291 Y: -326
 
 ## 用途
 

@@ -1,6 +1,6 @@
 # 元素武器：寒冷
 
-**元素武器：寒冷** 是一个 [等级 3 变化学派法术](Spells.md "Spells")。此法术是 [元素武器](Elemental_Weapon.md "Elemental Weapon") 的变体，为武器注入冰冷力量，使其获得额外的寒冷伤害和攻击掷骰加值。
+**元素武器：寒冷** 是一个 [法术](Spells.md "法术")。此法术是 [元素武器](Elemental_Weapon.md "Elemental Weapon") 的变体，为武器注入冰冷力量，使其获得额外的寒冷伤害和攻击掷骰加值。
 
 ## 描述
 

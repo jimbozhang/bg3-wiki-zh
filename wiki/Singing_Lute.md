@@ -25,14 +25,14 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 餐厅布局](#restaurant-layout)
-- [3 相关事件](#involvement)
-- [4 角色](#characters)
-- [5 相关文献](#related-literature)
-- [6 成就](#achievement)
-- [7 注释与参考](#notes-and-references)
-- [8 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 餐厅布局](#餐厅布局)
+- [3 相关事件](#相关事件)
+- [4 角色](#角色)
+- [5 相关文献](#相关文献)
+- [6 成就](#成就)
+- [7 注释与参考](#注释与参考)
+- [8 外部链接](#外部链接)
 
 ## 概述
 

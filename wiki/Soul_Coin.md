@@ -50,7 +50,7 @@
 
 ## 备注
 
-- 来自纳迪拉的钱币可以拾取或扒窃，或者在从[熊地精刺客](Bugbear_Assassin.md "熊地精刺客")手中救下她后，通过通过[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")或[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")让她主动提供
+- 来自纳迪拉的钱币可以拾取或扒窃，或者在从[熊地精刺客](Bugbear_Assassin.md "熊地精刺客")手中救下她后，通过通过[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")或[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")让她主动提供
 - 如果[卡菈克](Karlach.md "卡菈克")在场时与兰恩·塔夫交谈，聆听三个灵魂背后的故事后，无需花费金钱即可获得这些钱币
 - 首次收集灵魂钱币时，会授予具有[贵族](Noble.md "贵族")背景的队友[待售灵魂](Noble.md#Soul_for_Sale "贵族")
 

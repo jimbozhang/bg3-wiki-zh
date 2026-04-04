@@ -54,11 +54,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
@@ -94,11 +94,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
@@ -134,19 +134,19 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**预兆戏法**](Potent_Cantrip.md "Potent Cantrip")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人成功通过戏法的[豁免检定](Saving_throw.md "豁免检定")后仍会受到一半伤害。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深植于心。
 
@@ -156,14 +156,14 @@
 
 属性
 
-`Githyanki_IntelligenceOfficer` **吉斯洋基炽念者**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")中遭遇的[类职业](Class.md "类职业")原型[吉斯洋基人](Githyanki.md "吉斯洋基人")[NPC](NPC.md "NPC")。专精于灵能战斗的法师，炽念者是游戏中遭遇的最纯粹的吉斯洋基施法者。
+`Githyanki_IntelligenceOfficer` **吉斯洋基炽念者**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")中遭遇的[职业](Class.md "职业")原型[吉斯洋基人](Githyanki.md "吉斯洋基人")[NPC](NPC.md "NPC")。专精于灵能战斗的法师，炽念者是游戏中遭遇的最纯粹的吉斯洋基施法者。
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-- [2 命名炽念者](#named-ardents)
-  - [2.1 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+- [2 命名炽念者](#命名炽念者)
+  - [2.1 伊雷珂养育间](#伊雷珂养育间)
 
 ## 战斗
 

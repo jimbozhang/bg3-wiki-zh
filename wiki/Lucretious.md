@@ -104,23 +104,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个活物会获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**高强死灵法术**](Heightened_Necromancy.md "高强死灵法术")
+- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
 
-生物对抗你的[死灵学派法术](Necromancy.md "死灵学派")的[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物对抗你的[死灵学派](Necromancy.md "死灵学派")的[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -172,23 +172,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个活物会获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**高强死灵法术**](Heightened_Necromancy.md "高强死灵法术")
+- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
 
-生物对抗你的[死灵学派法术](Necromancy.md "死灵学派")的[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物对抗你的[死灵学派](Necromancy.md "死灵学派")的[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -240,23 +240,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个活物会获得相当于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**高强死灵法术**](Heightened_Necromancy.md "高强死灵法术")
+- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
 
-生物对抗你的[死灵学派法术](Necromancy.md "死灵学派")的[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物对抗你的[死灵学派](Necromancy.md "死灵学派")的[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -286,18 +286,18 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 描述](#description)
-- [2 参与度](#involvement)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 值得一提的战利品](#notable-loot)
-- [4 语录](#quotes)
-- [5 相关文献](#related-literature)
-- [6 相关任务](#related-quests)
-- [7 画廊](#gallery)
-- [8 注释与参考](#notes-and-references)
-- [9 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 描述](#描述)
+- [2 参与度](#参与度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 值得一提的战利品](#值得一提的战利品)
+- [4 语录](#语录)
+- [5 相关文献](#相关文献)
+- [6 相关任务](#相关任务)
+- [7 画廊](#画廊)
+- [8 注释与参考](#注释与参考)
+- [9 外部链接](#外部链接)
 
 ## 概述
 

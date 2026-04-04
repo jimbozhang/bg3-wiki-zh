@@ -32,7 +32,7 @@
 
 所需提取物：
 
---- [多瘤树皮盐](Salts_of_Tree_Bark.md "多瘤树皮盐")
+--- [树皮盐](Salts_of_Tree_Bark.md "树皮盐")
 
 --- [泥泞粘物](Suspension_of_Muddy_Goo.md "泥泞粘物") 或 [天蓝石](Laculite.md "天蓝石") 的悬液
 

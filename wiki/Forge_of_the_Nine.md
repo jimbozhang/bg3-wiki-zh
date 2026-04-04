@@ -24,21 +24,21 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 进入方式](#access)
-- [2 建筑布局](#building-layout)
-  - [2.1 一楼](#ground-floor)
-  - [2.2 二楼](#first-floor)
-  - [2.3 地下室](#basement)
-- [3 炉外区域](#outside-the-forge)
-- [4 相关地点](#related-locations)
-- [5 相关任务](#related-quests)
-- [6 角色](#characters)
-- [7 战利品](#loot)
-  - [7.1 戴摩出售](#sold-by-dammon)
-  - [7.2 其他](#other)
-- [8 相关文献](#related-literature)
-- [9 备注](#notes)
+- [1 概述](#概述)
+  - [1.1 进入方式](#进入方式)
+- [2 建筑布局](#建筑布局)
+  - [2.1 一楼](#一楼)
+  - [2.2 二楼](#二楼)
+  - [2.3 地下室](#地下室)
+- [3 炉外区域](#炉外区域)
+- [4 相关地点](#相关地点)
+- [5 相关任务](#相关任务)
+- [6 角色](#角色)
+- [7 战利品](#战利品)
+  - [7.1 戴摩出售](#戴摩出售)
+  - [7.2 其他](#其他)
+- [8 相关文献](#相关文献)
+- [9 备注](#备注)
 
 ## 概述
 
@@ -58,9 +58,9 @@
 
 ### 进入方式
 
-从街道进入铁匠铺的入口位于 X: Y: 。沿着露台继续前进，队伍会到达通往锻炉本身的门，位于 X: -11 Y: -6。这扇门是锁定的且轮廓为红色；打开它需要戴摩携带的[熔炉钥匙](The_Forge_Key.md "熔炉钥匙")，或者进行一次DC 15的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁。
+从街道进入铁匠铺的入口位于 X: Y: 。沿着露台继续前进，队伍会到达通往锻炉本身的门，位于 X: -11 Y: -6。这扇门是锁定的且轮廓为红色；打开它需要戴摩携带的[熔炉钥匙](The_Forge_Key.md "熔炉钥匙")，或者进行一次DC 15的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来撬锁。
 
-位于 X: -15 Y: 1 的侧门通向建筑的地下室。它同样被锁定，但可以毫无后果地打开；打开它的[钥匙](Basement_Key_(Forge_of_the_Nine).md "地下室钥匙（九层锻炉）")位于锻炉门（露台上）的邮箱中。否则，可以通过DC 15的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来撬锁。
+位于 X: -15 Y: 1 的侧门通向建筑的地下室。它同样被锁定，但可以毫无后果地打开；打开它的[钥匙](Basement_Key_(Forge_of_the_Nine).md "地下室钥匙（九层锻炉）")位于锻炉门（露台上）的邮箱中。否则，可以通过DC 15的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来撬锁。
 
 ## 建筑布局
 
@@ -72,7 +72,7 @@
 
 如果[卡菈克](Karlach.md "卡菈克")在队伍中，戴摩会告诉她，他还没有想出如何让她的机械心脏在物质位面存活。此外，如果队伍之前没有要求他用[地狱铁](Infernal_Iron.md "地狱铁")或[金属面具](Devilfoil_Mask.md "金属面具")制作物品，他们可以在这里进行。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]<sup>[\[2\]](#cite_note-2)</sup>
 
-建筑内部有另一个带风箱和各种锻造用品的锻炉。散落着多个[青铜锭](Bronze_Ingot.md "青铜锭")和[银锭](Silver_Ingot.md "银锭")。后部区域有一个锁定的重箱子；需要DC 20的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")才能打开，里面存放着另外三个[银锭](Silver_Ingot.md "银锭")。
+建筑内部有另一个带风箱和各种锻造用品的锻炉。散落着多个[青铜锭](Bronze_Ingot.md "青铜锭")和[银锭](Silver_Ingot.md "银锭")。后部区域有一个锁定的重箱子；需要DC 20的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")才能打开，里面存放着另外三个[银锭](Silver_Ingot.md "银锭")。
 
 ### 二楼
 

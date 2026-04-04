@@ -4,16 +4,16 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 获得医师内蒂的帮助](#get-help-from-healer-nettie)
-  - [2.2 向地精女祭司寻求帮助](#ask-the-goblin-priestess-for-help)
-  - [2.3 获得埃赛尔婶婶的帮助](#get-help-from-auntie-ethel)
-  - [2.4 解救德鲁伊哈尔辛](#rescue-the-druid-halsin)
-  - [2.5 帮助奥米伦调查寄生虫的事](#help-omeluum-investigate-the-parasite)
-  - [2.6 找到吉斯洋基养育间](#find-the-githyanki-cr%C3%A8che)
-  - [2.7 月出之塔及之后](#moonrise-towers-and-beyond)
-- [3 相关任务](#related-quests)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 获得医师内蒂的帮助](#获得医师内蒂的帮助)
+  - [2.2 向地精女祭司寻求帮助](#向地精女祭司寻求帮助)
+  - [2.3 获得埃赛尔婶婶的帮助](#获得埃赛尔婶婶的帮助)
+  - [2.4 解救德鲁伊哈尔辛](#解救德鲁伊哈尔辛)
+  - [2.5 帮助奥米伦调查寄生虫的事](#帮助奥米伦调查寄生虫的事)
+  - [2.6 找到吉斯洋基养育间](#找到吉斯洋基养育间)
+  - [2.7 月出之塔及之后](#月出之塔及之后)
+- [3 相关任务](#相关任务)
 
 ## 目标
 
@@ -97,7 +97,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 ### 月出之塔及之后
 
-队伍最终必须前往月出之塔——要么通过[幽暗地域](Travel_through_the_Underdark.md "穿越幽暗地域")，要么通过[瑰晨修道院小径](Travel_through_the_Mountain_Pass.md "穿越山隘")，以了解更多关于[绝对邪教](Cult_of_the_Absolute.md "绝对邪教")的信息，希望能治愈蝌蚪。这导致了一个结论：为了有任何希望摧毁蝌蚪，必须击败邪教——不仅是为了队伍，也是为了所有感染者。
+队伍最终必须前往月出之塔——要么通过[穿越幽暗地域](Travel_through_the_Underdark.md "穿越幽暗地域")，要么通过[穿越山隘](Travel_through_the_Mountain_Pass.md "穿越山隘")，以了解更多关于[绝对邪教](Cult_of_the_Absolute.md "绝对邪教")的信息，希望能治愈蝌蚪。这导致了一个结论：为了有任何希望摧毁蝌蚪，必须击败邪教——不仅是为了队伍，也是为了所有感染者。
 
 ## 相关任务
 

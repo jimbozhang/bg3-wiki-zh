@@ -1,6 +1,6 @@
 # 奉献之盾
 
-奉献之盾是一件非常稀有的[盾牌](Shields.md "Shields")，它提供一个1级[法术位](Spell.md "Spell")、[盾牌猛击](Shield_Bash.md "Shield Bash")，并允许持有者每[长休](Long_Rest.md "Long Rest")一次施放3级[奉献之盾：协助](Shield_of_Devotion_colon__Aid.md "Shield_of_Devotion: Aid")。
+奉献之盾是一件非常稀有的[盾牌](Shields.md "Shields")，它提供一个1级[法术](Spell.md "法术")、[盾牌猛击](Shield_Bash.md "Shield Bash")，并允许持有者每[长休](Long_Rest.md "Long Rest")一次施放3级[奉献之盾：协助](Shield_of_Devotion_colon__Aid.md "Shield_of_Devotion: Aid")。
 
 关于[维伦的圣武士](https://forgottenrealms.fandom.com/wiki/Paladins_of_Velen)的任何传说都古老到几乎肯定是道听途说。然而，无可辩驳的是他们在这面古老盾牌上留下的强大祝福，至今仍能激发令人心跳加速的勇气。
 

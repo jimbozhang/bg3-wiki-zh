@@ -92,7 +92,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -122,14 +122,14 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 商店](#shop)
-- [4 相关文献](#related-literature)
-- [5 相关任务](#related-quests)
-- [6 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 商店](#商店)
+- [4 相关文献](#相关文献)
+- [5 相关任务](#相关任务)
+- [6 外部链接](#外部链接)
 
 ## 参与
 
@@ -153,7 +153,7 @@ UUID
 
 从手中爆发出一阵霜冻、凛冽的空气和凝结的雪晶。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：自身
 
 [火焰箭](Fire_Bolt.md "火焰箭") ()
@@ -176,7 +176,7 @@ UUID
 
 召唤一阵冰雹和冰风暴从天而降，覆盖地面并打击射程内的所有物体和生物，造成[钝击](Bludgeoning.md "钝击")和[寒冷](Cold.md "寒冷")伤害。还会创建一个持续2回合的[冰](Ice_(surface).md "冰（地表）")地表。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [魔法飞弹](Magic_Missile.md "魔法飞弹") (+ )
@@ -189,7 +189,7 @@ UUID
 
 \+ 1d4 + 1⁠[力场](Force.md "力场")
 
-创造**三**枚魔法力场飞镖，每枚对目标造成[1d4 + 1 力场](Force.md "力场")伤害。
+创造**三**枚魔法力场飞镖，每枚对目标造成[力场](Force.md "力场")伤害。
 
 飞镖总是命中目标，并且可以单独瞄准。
 
@@ -220,7 +220,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

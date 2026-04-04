@@ -16,7 +16,7 @@
 
 ### 阵营
 
-[莎尔教会](Shar.md "莎尔")
+[莎尔](Shar.md "莎尔")
 
 ### 家庭
 
@@ -93,15 +93,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
@@ -155,15 +155,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
@@ -227,15 +227,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
@@ -393,7 +393,7 @@ UUID
 近战：1.5米（5英尺）
 
 [暗影步](Shadow_Step.md "暗影步")（）
-从[阴影](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 范围：18米（60英尺）
 

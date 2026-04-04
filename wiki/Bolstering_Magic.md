@@ -41,7 +41,7 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[野蛮
 ### 等级 10[&action=edit&section=6> "Edit section's source code: Level 10") | &veaction=edit&section=6> "Edit section: Level 10")]
 
 [动荡反冲](Unstable_Backlash.md "动荡反冲") ()
-在[激怒](Rage.md "狂暴")状态下，当你受到伤害或[豁免检定](Saving_throw.md "豁免检定")失败时，你会触发另一个[狂野魔法](Wild_Magic_table_(Barbarian).md) 效果来替换当前效果。
+在[狂暴](Rage.md "狂暴")状态下，当你受到伤害或[豁免检定](Saving_throw.md "豁免检定")失败时，你会触发另一个[狂野魔法](Wild_Magic_table_(Barbarian).md) 效果来替换当前效果。
 
 ## 外部链接[&action=edit&section=7> "Edit section's source code: External links") | &veaction=edit&section=7> "Edit section: External links")]
 

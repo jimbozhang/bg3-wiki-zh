@@ -16,7 +16,7 @@
 
 ### 阵营
 
-[莎尔教会](Shar.md "莎尔")
+[莎尔](Shar.md "莎尔")
 
 ## 属性
 
@@ -86,19 +86,19 @@
 
 ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
@@ -146,19 +146,19 @@
 
 ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
@@ -212,19 +212,19 @@
 
 ## 特性
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲（状态）")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
@@ -254,12 +254,12 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 重要战利品](#notable-loot)
-- [3 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 重要战利品](#重要战利品)
+- [3 外部链接](#外部链接)
 
 ## 出场
 
@@ -281,7 +281,7 @@ Stats
 
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

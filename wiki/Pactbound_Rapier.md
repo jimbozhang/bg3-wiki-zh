@@ -37,7 +37,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 
 **[魔契武器](Pact_Weapon_(Condition).md "魔契武器（状态）")**
 
-- 与此武器誓缚的邪术师始终对其[熟练](Proficiency.md "熟练项")。武器的伤害为魔法伤害。
+- 与此武器誓缚的邪术师始终对其[熟练项](Proficiency.md "熟练项")。武器的伤害为魔法伤害。
 - 此武器使用施法者的[魅力调整值](Abilities.md#Ability_score_modifiers "属性")进行[攻击掷骰](Attack_roll.md "攻击掷骰")和伤害掷骰。
 - 防止武器被掉落或以其他方式缴械。
 

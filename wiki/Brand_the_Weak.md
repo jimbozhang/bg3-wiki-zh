@@ -1,6 +1,6 @@
 # 标点弱点
 
-**标点弱点**是一个[等级1变化学派法术](Spells.md "Spells")。它使敌人对[钝击](Bludgeoning.md "Bludgeoning")、[挥砍](Slashing.md "Slashing")或[穿刺](Piercing.md "Piercing")伤害变得[易伤](Vulnerable.md "Vulnerable")。
+**标点弱点**是一个[法术](Spells.md "法术")。它使敌人对[钝击](Bludgeoning.md "Bludgeoning")、[挥砍](Slashing.md "Slashing")或[穿刺](Piercing.md "Piercing")伤害变得[易伤](Vulnerable.md "Vulnerable")。
 
 ## 描述
 

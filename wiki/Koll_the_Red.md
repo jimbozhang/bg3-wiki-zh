@@ -83,19 +83,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对邻近你的敌人进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[优势](Advantage.md "Advantage")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下进行攻击掷骰和[察觉技能](Perception.md "Perception")检定时具有劣势。
 
@@ -143,19 +143,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对邻近你的敌人进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[优势](Advantage.md "Advantage")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下进行攻击掷骰和[察觉技能](Perception.md "Perception")检定时具有劣势。
 
@@ -203,23 +203,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 米 (10 英尺) 内的盟友对邻近你的敌人进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[优势](Advantage.md "Advantage")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下进行攻击掷骰和[察觉技能](Perception.md "Perception")检定时具有劣势。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
@@ -249,11 +249,11 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 商店](#store)
-- [3 桌上的物品](#items-on-the-table)
-- [4 画廊](#gallery)
-- [5 注释](#notes)
+- [1 参与](#参与)
+- [2 商店](#商店)
+- [3 桌上的物品](#桌上的物品)
+- [4 画廊](#画廊)
+- [5 注释](#注释)
 
 ## 参与
 

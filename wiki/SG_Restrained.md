@@ -6,10 +6,10 @@
 
 ## 目录
 
-- [1 移除](#removal)
-- [2 免疫](#immunity)
-- [3 优势与劣势](#advantage-and-disadvantage)
-- [4 SG_Restrained 中的状态列表](#list-of-conditions-in-sg-restrained)
+- [1 移除](#移除)
+- [2 免疫](#免疫)
+- [3 优势与劣势](#优势与劣势)
+- [4 SG_Restrained 中的状态列表](#SG_Restrained-中的状态列表)
 
 ## 移除
 

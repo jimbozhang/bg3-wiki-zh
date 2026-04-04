@@ -105,19 +105,19 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -167,19 +167,19 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -229,19 +229,19 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
@@ -357,12 +357,12 @@ UUID
 如果暗夜之歌在[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")期间去对抗洛若坎，罗兰也会登上拉玛吉斯高塔。罗兰在听到他对[艾琳女士](Aylin.md "艾琳女士")的计划后，是站在主人一边还是反对他，取决于几个因素：
 
 - 如果他的兄弟姐妹都在第二幕中幸存，他会自动反对洛若坎。
-- 如果只有一人在第二幕中幸存，罗兰需要通过 DC 20 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")、DC 18 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定") 或 DC 15 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")。
+- 如果只有一人在第二幕中幸存，罗兰需要通过 DC 20 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")、DC 18 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定") 或 DC 15 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")。
 - 如果两人都未获救，他会站在洛若坎一边；但如果他的兄弟姐妹在队伍第一次访问终焉光芒旅店之前获救，他也可能站在洛若坎一边。如果罗兰在第一幕中没有被说服留在林地，这个结果也会自动发生，暗示他们没有在旅途中幸存下来。
 
 如果罗兰在对抗中死亡，可以使用[死者交谈](Speak_with_Dead.md "死者交谈")来了解更多他的背景，包括他与卡尔和莉娅没有血缘关系。
 
-最后，如果队伍自己攻击了洛若坎，罗兰会在洛若坎被击败后对抗队伍，要求知道发生了什么。说话的队伍成员必须通过 DC 18 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定") 或 DC 18 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")，否则罗兰会攻击队伍。
+最后，如果队伍自己攻击了洛若坎，罗兰会在洛若坎被击败后对抗队伍，要求知道发生了什么。说话的队伍成员必须通过 DC 18 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定") 或 DC 18 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")，否则罗兰会攻击队伍。
 
 #### 拉玛吉斯高塔的主人
 
@@ -394,11 +394,11 @@ UUID
 
 ## 特性
 
-- [**强效塑能**](Empowered_Evocation.md "强效塑能")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 在塑能法术的伤害掷骰中添加智力调整值。
 
-- [**预兆戏法**](Potent_Cantrip.md "预兆戏法")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人通过戏法的豁免检定时，仍会受到一半伤害。
 
@@ -424,11 +424,11 @@ UUID
 
 ## 特性
 
-- [**强效塑能**](Empowered_Evocation.md "强效塑能")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 在塑能法术的伤害掷骰中添加智力调整值。
 
-- [**预兆戏法**](Potent_Cantrip.md "预兆戏法")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人通过戏法的豁免检定时，仍会受到一半伤害。
 
@@ -516,7 +516,7 @@ UUID
 
 \+ 1d4 + 1⁠[力场](Force.md "力场")
 
-创造**三**枚魔法力场飞镖，每枚对目标造成 ⁠[1d4 + 1 力场](Force.md "力场") 伤害。
+创造**三**枚魔法力场飞镖，每枚对目标造成 ⁠[力场](Force.md "力场") 伤害。
 
 飞镖总是命中目标，并且可以单独瞄准。
 

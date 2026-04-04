@@ -111,11 +111,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -173,11 +173,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -233,15 +233,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -297,15 +297,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -335,16 +335,16 @@ UUID
 
 ## 内容
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 商店](#store)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 商店](#商店)
   - [2.1 库存[1]](#stock%5B1%5D)
-  - [2.2 地精武器](#goblin-weapons)
-  - [2.3 战利品](#loot)
-  - [2.4 补给品](#supplies)
-- [3 图库](#gallery)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+  - [2.2 地精武器](#地精武器)
+  - [2.3 战利品](#战利品)
+  - [2.4 补给品](#补给品)
+- [3 图库](#图库)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 出场
 

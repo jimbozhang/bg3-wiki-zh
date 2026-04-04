@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**立如磐石**是一种[戏法](Spells.md "Spells")。它允许施法者将自己固定在地面上，使其无法被移动。
+**立如磐石**是一种[法术](Spells.md "法术")。它允许施法者将自己固定在地面上，使其无法被移动。
 
 ## 描述
 

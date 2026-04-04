@@ -1,10 +1,10 @@
 # 脆弱诅咒
 
-**脆弱诅咒**是一个[一级惑控学派法术](Spells.md "Spells")。它允许施法者诅咒一个生物，并对其造成额外的黯蚀伤害。该诅咒还会使目标在你选择的属性检定上处于[劣势](Disadvantage.md "Disadvantage")。
+**脆弱诅咒**是一个[法术](Spells.md "法术")。它允许施法者诅咒一个生物，并对其造成额外的黯蚀伤害。该诅咒还会使目标在你选择的属性检定上处于[劣势](Disadvantage.md "Disadvantage")。
 
 ## 描述
 
-使你的攻击对目标造成额外的1d6⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害，并使其在你选择的[属性](Ability_Scores.md "Ability Scores")上处于[劣势](Disadvantage.md "Disadvantage")。
+使你的攻击对目标造成额外的1d6⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害，并使其在你选择的[属性值](Ability_Scores.md "属性值")上处于[劣势](Disadvantage.md "Disadvantage")。
 
 如果目标在法术结束前死亡，你可以[再度施展脆弱诅咒](Reapply_Hex.md "Reapply Hex")到一个新生物上，而无需消耗[法术位](Spells.md#Spell_Slots "Spells")。
 
@@ -73,7 +73,7 @@ UID
   - 五级邪术师施放[灼热射线](Scorching_Ray.md "Scorching Ray")并用_所有四道_射线命中目标：额外4d6⁠⁠[黯蚀](Necrotic.md "Necrotic")，因为命中四次。
 - 脆弱诅咒仅在攻击掷骰成功命中目标时触发，而非由其他伤害来源触发。示例场景：
   - 邪术师施放[魔法飞弹](Magic_Missile.md "Magic Missile")（不需要攻击掷骰）：脆弱诅咒不造成额外伤害。
-  - 邪术师施放[火球术术](Fireball.md "Fireball")（需要[豁免检定](Saving_throw.md "Saving Throw")，而非攻击掷骰）：脆弱诅咒不造成额外伤害。
+  - 邪术师施放[火球术](Fireball.md "火球术")（需要[豁免检定](Saving_throw.md "Saving Throw")，而非攻击掷骰）：脆弱诅咒不造成额外伤害。
 - 与桌面版不同，此法术持续到施法者的专注被打破为止。
 - 脆弱诅咒有两种咒语：**Te Exsecro**（拉丁语，意为“我诅咒你”）和**Maledictus**（拉丁语，意为“说坏话/虐待”）。
 

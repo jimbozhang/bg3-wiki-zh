@@ -4,7 +4,7 @@
 
 - 附近的火元素执政官使受影响实体获得对[火焰](Fire.md "Fire")伤害的[免疫](Immune.md "Immune")，并为[元素叱喝](Elemental_Retort.md "Elemental_Retort")附加3d8⁠⁠[火焰](Fire.md "Fire")伤害。
 
-- 受影响实体还临时获得[火球术术](Fireball.md "Fireball")的使用权，并每[驱散](Actions.md#Reactions "Actions")获得一次额外的[反应](Actions.md#Reactions "Actions")。
+- 受影响实体还临时获得[火球术](Fireball.md "火球术")的使用权，并每[驱散](Actions.md#Reactions "Actions")获得一次额外的[反应](Actions.md#Reactions "Actions")。
 
 ## 属性
 
@@ -26,7 +26,7 @@ _维基数据库中未定义_
 
 - 附近的火元素执政官使受影响实体获得对[火焰](Fire.md "Fire")伤害的[免疫](Immune.md "Immune")，并为[元素叱喝](Elemental_Retort.md "Elemental_Retort")附加3d8⁠⁠[火焰](Fire.md "Fire")伤害。
 
-- 受影响实体还临时获得[火球术术](Fireball.md "Fireball")的使用权，并每[驱散](Actions.md#Reactions "Actions")获得一次额外的[反应](Actions.md#Reactions "Actions")。
+- 受影响实体还临时获得[火球术](Fireball.md "火球术")的使用权，并每[驱散](Actions.md#Reactions "Actions")获得一次额外的[反应](Actions.md#Reactions "Actions")。
 
 ## 简要预览
 

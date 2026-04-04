@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [1 属性](#properties)
-  - [1.1 动作](#actions)
-- [2 战锤列表](#list-of-warhammers)
-- [3 遗留内容](#legacy-content)
-- [4 外部链接](#external-links)
+- [1 属性](#属性)
+  - [1.1 动作](#动作)
+- [2 战锤列表](#战锤列表)
+- [3 遗留内容](#遗留内容)
+- [4 外部链接](#外部链接)
 
 ## 属性
 
@@ -49,7 +49,7 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 | [破誓者](Faithbreaker.md "破誓者") | +1 | 1d8 + 1 | 钝击 | 2.7 公斤 / 5.4 磅 | 300 | [至上力量](Absolute_Power.md "至上力量") () 挥舞时伴随神圣能量涌动。造成额外 1d6[力场](Force.md "力场")伤害，并可能将目标击退 5 米 / 17 英尺。（充能：[短休](Short_rest.md "短休")。） |
 | [顽固战锤](Intransigent_Warhammer.md "顽固战锤") |  | 1d8 | 钝击 | 2.7 公斤 / 5.4 磅 | 100 | [斥力爆](Impulse_Blast.md "斥力爆")在击杀目标或造成[重击](Critical_Hit.md "重击")后，使附近生物[倒伏](Prone_(Condition).md "倒伏（状态）")。 |
 | [战锤 +1](Warhammer_+1.md "战锤 +1") | +1 | 1d8 + 1 | 钝击 | 2.7 公斤 / 5.4 磅 | 65 |  |
-| [闪电誓缚战锤](Charge-Bound_Warhammer.md "闪电誓缚战锤") | +1 | 1d8 + 1 | 钝击 | 2.7 公斤 / 5.4 磅 | 310 | [心仪武器](Favoured_Weapon.md "心仪武器")此武器在伤害和[攻击掷骰](Attack_roll.md "攻击掷骰")上有 +1 加值。[动电电流](Galvanic_Currents.md "动电电流")此武器造成额外 1d6⁠⁠[闪电](Lightning.md "闪电")伤害。此战锤的魔法效果仅在它被[绑定](Weapon_Bond.md "武器绑定")到[奥法骑士](Eldritch_Knight.md "奥法骑士")或是[邪术师](Warlock.md "邪术师")的[魔契](Bind_Pact_Weapon.md "魔契武器誓缚")或[诅咒](Bind_Hexed_Weapon.md "诅咒武器誓缚")武器时生效。这些效果是武器 +1 附魔的额外加成。由于附魔和心仪武器加值叠加，此武器在绑定时相当于 +2 武器。 |
+| [闪电誓缚战锤](Charge-Bound_Warhammer.md "闪电誓缚战锤") | +1 | 1d8 + 1 | 钝击 | 2.7 公斤 / 5.4 磅 | 310 | [心仪武器](Favoured_Weapon.md "心仪武器")此武器在伤害和[攻击掷骰](Attack_roll.md "攻击掷骰")上有 +1 加值。[动电电流](Galvanic_Currents.md "动电电流")此武器造成额外 1d6⁠⁠[闪电](Lightning.md "闪电")伤害。此战锤的魔法效果仅在它被[武器绑定](Weapon_Bond.md "武器绑定")到[奥法骑士](Eldritch_Knight.md "奥法骑士")或是[邪术师](Warlock.md "邪术师")的[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")或[诅咒](Bind_Hexed_Weapon.md "诅咒武器誓缚")武器时生效。这些效果是武器 +1 附魔的额外加成。由于附魔和心仪武器加值叠加，此武器在绑定时相当于 +2 武器。 |
 | [小丑之锤](Clown_Hammer.md "小丑之锤") | +2 | 1d8 + 2 | 钝击 | 2.7 公斤 / 5.4 磅 | 310 | [惧怖讽刺](Grim_Irony.md "惧怖讽刺")每当此武器造成重击时，目标和攻击者都必须成功通过感知豁免检定，否则将受[狂笑](Hideous_Laughter_(Condition).md "狂笑（状态）")影响。 |
 | [正义之锤](Hammer_of_the_Just.md "正义之锤") | +2 | 1d8 + 2 / 1d4 | 钝击 / 光耀 | 2.7 公斤 / 5.4 磅 | 310 | [清洗邪恶](Slay_the_Wicked_(Bludgeoning).md "清洗邪恶（钝击）")此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外 1d6⁠⁠[钝击](Bludgeoning.md "钝击")伤害。[侦测思想](Detect_Thoughts.md "侦测思想") () 施放 2 级法术（充能：[长休](Long_Rest.md "长休")。） |
 | [凯瑟里克的战锤](Ketheric's_Warhammer.md "凯瑟里克的战锤") | +1 | 1d8 + 1 / 1d4 | 钝击 / 心灵 | 2.7 公斤 / 5.4 磅 | 310 |  |

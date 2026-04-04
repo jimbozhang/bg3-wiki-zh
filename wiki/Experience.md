@@ -4,15 +4,15 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 角色经验值](#character-experience)
-- [3 经验值来源](#experience-sources)
-  - [3.1 击败生物](#defeating-creatures)
-  - [3.2 发现地点](#discovering-locations)
-  - [3.3 完成任务步骤](#completing-quests-steps)
-  - [3.4 完成背景目标以获得激励点](#completing-background-goals-for-inspiration)
-- [4 错误](#bugs)
-- [5 备注](#notes)
+- [1 概述](#概述)
+- [2 角色经验值](#角色经验值)
+- [3 经验值来源](#经验值来源)
+  - [3.1 击败生物](#击败生物)
+  - [3.2 发现地点](#发现地点)
+  - [3.3 完成任务步骤](#完成任务步骤)
+  - [3.4 完成背景目标以获得激励点](#完成背景目标以获得激励点)
+- [4 错误](#错误)
+- [5 备注](#备注)
 
 ## 概述
 

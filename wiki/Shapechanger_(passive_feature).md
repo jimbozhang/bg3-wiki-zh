@@ -4,7 +4,7 @@
 
 ## 描述
 
-你可以施放[变形术](Shapechanger.md "变形生物")，而无需消耗[法术位](Spell_Slot.md "法术位")。
+你可以施放[变形生物](Shapechanger.md "变形生物")，而无需消耗[法术位](Spell_Slot.md "法术位")。
 
 ## 获得
 

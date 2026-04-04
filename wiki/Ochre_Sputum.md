@@ -1,6 +1,6 @@
 # 赭色唾液
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Ochre_Sputum.md "Special:WhatLinksHere/Ochre Sputum")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[赭色唾液](Special_colon_WhatLinksHere/Ochre_Sputum.md "赭色唾液")的，请考虑编辑该链接，将其指向正确的页面。
 
 **赭色唾液**可能指：
 

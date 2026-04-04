@@ -91,11 +91,11 @@
 
 - ## 特性
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -145,7 +145,7 @@
 
 - ## 特性
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
@@ -195,11 +195,11 @@
 
 - ## 特性
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -229,16 +229,16 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 伙伴好感度](#companion-approval)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 闲聊](#idle-banter)
-- [6 备注](#notes)
-- [7 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 闲聊](#闲聊)
+- [6 备注](#备注)
+- [7 外部链接](#外部链接)
 
 ## 出场
 
@@ -248,7 +248,7 @@ UUID
 
 队伍可以说服[提夫林](Tiefling.md "提夫林")离开该区域，或提议帮忙杀死莱埃泽尔。如果达梅斯和奈美莎没有被威吓解决，队伍可以询问附近的治疗师。他们建议寻找[内蒂](Nettie.md "内蒂")，这会推进[寻找治疗方法](Find_a_Cure.md "寻找治疗方法")和[获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "获得医师内蒂的帮助")。
 
-通过任何方式攻击达梅斯和奈美莎，包括对话中出现的选项，对于[任何誓言副职的圣武士](Paladin.md "圣武士")来说，都被视为[违背誓言的行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
+通过任何方式攻击达梅斯和奈美莎，包括对话中出现的选项，对于[圣武士](Paladin.md "圣武士")来说，都被视为[违背誓言的行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
 
 ## 伙伴好感度
 

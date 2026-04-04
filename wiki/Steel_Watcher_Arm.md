@@ -4,7 +4,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 - 稀有度：普通
 - 重量：0.2 千克 (0.4 磅)
 - 价格：1 金币
@@ -15,7 +15,7 @@
 ## 备注
 
 - 用于制作 [地狱火引擎弩](Hellfire_Engine_Crossbow.md "地狱火引擎弩") 的三个组件之一，另外两个是 [守望者之弩蓝图](Watcher_Crossbow_Blueprint.md "守望者之弩蓝图") 和 [瞄准模组](Targeting_Module.md "瞄准模组")。
-- 该物品旁边的牌匾上写着“手臂组件可挥舞强大的 [卫士巨剑](Watcher_Greatsword.md "卫士巨剑")，但也配备了可折叠的 [弩](Watcher_Crossbow.md "守望者轻型弩") 用于远程战斗”。
+- 该物品旁边的牌匾上写着“手臂组件可挥舞强大的 [卫士巨剑](Watcher_Greatsword.md "卫士巨剑")，但也配备了可折叠的 [守望者轻型弩](Watcher_Crossbow.md "守望者轻型弩") 用于远程战斗”。
 
 ---
 *Source: [Steel Watcher Arm](https://bg3.wiki/wiki/Steel_Watcher_Arm)*

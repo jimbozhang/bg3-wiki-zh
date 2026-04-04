@@ -1,6 +1,6 @@
 # 艾蒿粉
 
-**艾蒿粉**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[抗毒剂](Antidote.md "抗毒剂")。
+**艾蒿粉**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[抗毒剂](Antidote.md "抗毒剂")。
 
 常见的⁠[艾蒿](https://forgottenrealms.fandom.com/wiki/mugwort)杂草的根部可以被干燥并压碎，制成一种看似平凡但充满潜力的粉末。
 

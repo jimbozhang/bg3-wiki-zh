@@ -6,11 +6,11 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 通过职业或卷轴获得的惑控法术列表](#list-of-enchantment-spells-granted-by-class-or-through-scrolls)
-- [3 通过物品获得的惑控法术列表](#list-of-enchantment-spells-granted-by-items)
-- [4 仅NPC可用的惑控法术列表](#list-of-enchantment-spells-available-only-to-npcs)
-- [5 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 通过职业或卷轴获得的惑控法术列表](#通过职业或卷轴获得的惑控法术列表)
+- [3 通过物品获得的惑控法术列表](#通过物品获得的惑控法术列表)
+- [4 仅NPC可用的惑控法术列表](#仅NPC可用的惑控法术列表)
+- [5 外部链接](#外部链接)
 
 ## 概述
 

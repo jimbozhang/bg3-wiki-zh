@@ -77,11 +77,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以1点生命值复活。
 
@@ -137,11 +137,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以1点生命值复活。
 
@@ -197,11 +197,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以1点生命值复活。
 

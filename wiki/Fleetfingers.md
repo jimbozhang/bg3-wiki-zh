@@ -22,7 +22,7 @@
 
 ## 获取地点
 
-- [森林](Forest.md "森林") X: 80 Y: 347：在成功通过 DC 20 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")后，从一个埋藏的宝箱中获得
+- [森林](Forest.md "森林") X: 80 Y: 347：在成功通过 DC 20 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")后，从一个埋藏的宝箱中获得
 
 ## 备注
 

@@ -32,7 +32,7 @@
 
 - 尽管看起来并非如此，但在此当前错误的形式下，此戒指（可以说）是一个非常有用的物品：
 - 当被复活时，[暗影附身](Shadow_Possession_(Condition).md "暗影附身 (状态)")状态*应该*强制受影响的角色每回合攻击最近的生物（友方或敌方）。虽然对受影响的角色施放[移除诅咒](Remove_Curse.md "移除诅咒")或[高等复原术](Greater_Restoration.md "高等复原术")也应该移除该状态并将其交还给玩家控制，但两者都不是必需的，因为[暗影附身](Shadow_Possession_(Condition).md "暗影附身 (状态)")会在穿戴者离开[倒地](Downed_(Condition).md "倒地 (状态)")状态时立即被移除。
-  - 鉴于以上情况，即使可能不愿意（考虑到奥斯卡·费拉斯的性格），在第一幕中[解救](Free_the_Artist.md "解救艺术家")奥斯卡脱离散塔林会仍然是可取的。
+  - 鉴于以上情况，即使可能不愿意（考虑到奥斯卡·费拉斯的性格），在第一幕中[解救艺术家](Free_the_Artist.md "解救艺术家")奥斯卡脱离散塔林会仍然是可取的。
 
 ---
 *Source: [After Death Do Us Part](https://bg3.wiki/wiki/After_Death_Do_Us_Part)*

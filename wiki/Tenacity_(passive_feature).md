@@ -26,7 +26,7 @@
 
 ## 简要预览
 
-近战攻击未命中时，依然造成等于 [力量](STR.md "力量") 调整值或最低为 1 的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，依然造成等于 [力](STR.md "力") 调整值或最低为 1 的 [钝击](Bludgeoning.md "钝击") 伤害。
 
 ---
 *Source: [Tenacity (passive feature)](https://bg3.wiki/wiki/Tenacity_(passive_feature)*

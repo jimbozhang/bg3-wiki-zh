@@ -8,7 +8,7 @@
 
 - 地点：
   - ⁠[巫术杂物店地窖](Sorcerous_Vault.md "Sorcerous Vault") - 位于 ⁠[巫术杂物店](Sorcerous_Sundries.md "Sorcerous Sundries") 内部
-  - ⁠[清账屋](The_Counting_House.md "The Counting House") 内的 [保险库](The_Counting_House_-_Vaults.md "The Counting House - Vaults")
+  - ⁠[清账屋](The_Counting_House.md "The Counting House") 内的 [清账屋 —— 保险库](The_Counting_House_-_Vaults.md "清账屋 —— 保险库")
   - ⁠[清账屋](The_Counting_House.md "The Counting House") 内的 [高安保保险库](The_Counting_House_-_High_Security_Vaults.md "The Counting House - High Security Vaults")
   - ⁠[清账屋](The_Counting_House.md "The Counting House") 内的 [保险柜](The_Counting_House_-_Safes.md "The Counting House - Safes")
   - ⁠[隐藏金库](Hidden_Vault.md "Hidden Vault") - 位于 ⁠[翠绿林地](Emerald_Grove.md "Emerald Grove") 内部

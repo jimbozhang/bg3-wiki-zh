@@ -1,6 +1,6 @@
 # 增强武器 - 销售账本
 
-**增强武器 - 销售账本**由[弗兰克·梨木](Franc_Peartree.md "Franc Peartree")撰写，他是[巴尔教派谋杀案](Investigate_the_Murders.md "调查谋杀案")的受害者之一。
+**增强武器 - 销售账本**由[弗兰克·梨木](Franc_Peartree.md "Franc Peartree")撰写，他是[调查谋杀案](Investigate_the_Murders.md "调查谋杀案")的受害者之一。
 
 这本书散发着诱人的纸张和墨水气味。
 

@@ -2,7 +2,7 @@
 
 **失落之器：吸血术**
 
-- 外科医生可以使用其工具对病人施展[吸血术](Lethal_Leech.md "致命吸血器")。
+- 外科医生可以使用其工具对病人施展[致命吸血器](Lethal_Leech.md "致命吸血器")。
 
 ## 属性
 
@@ -31,7 +31,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 外科医生可以使用其工具对病人施展[吸血术](Lethal_Leech.md "致命吸血器")。
+- 外科医生可以使用其工具对病人施展[致命吸血器](Lethal_Leech.md "致命吸血器")。
 
 ---
 *Source: [Instrument of Loss: Leech (Condition)](https://bg3.wiki/wiki/Instrument_of_Loss:_Leech_(Condition)*

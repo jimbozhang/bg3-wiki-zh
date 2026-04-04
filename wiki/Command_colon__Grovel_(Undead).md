@@ -1,6 +1,6 @@
 # 命令术：匍匐（不死生物）
 
-**命令术：匍匐**是一个[等级1惑控学派法术](Spells.md "Spells")。此法术是[劝诫复生者](Exhort_the_Risen.md "Exhort_the Risen")的变体，与[命令术：匍匐](Command_colon__Grovel.md "Command: Grovel")法术类似，但仅适用于不死生物。它允许施法者命令其不死生物目标倒伏并停止一切行动。
+**命令术：匍匐**是一个[法术](Spells.md "法术")。此法术是[劝诫复生者](Exhort_the_Risen.md "Exhort_the Risen")的变体，与[命令术：匍匐](Command_colon__Grovel.md "Command: Grovel")法术类似，但仅适用于不死生物。它允许施法者命令其不死生物目标倒伏并停止一切行动。
 
 ## 描述
 

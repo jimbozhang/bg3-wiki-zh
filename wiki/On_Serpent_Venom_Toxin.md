@@ -24,7 +24,7 @@
 
 你想知道些有趣的事吗
 
-如果你将 [毒牙悬液](Suspension_of_Snake_Venom.md "蛇毒悬液") 与 [罗丝的蜡烛酸解物](Vitriol_of_Lolth's_Candle.md "罗丝的蜡烛酸解物")（任何 [酸解物](Alchemy.md#Extractions "炼金术") 都可以！）混合，就会得到一种 [毒素](Serpent_Fang_Toxin.md "蛇牙毒素") 滴答滴答滴答
+如果你将 [蛇毒悬液](Suspension_of_Snake_Venom.md "蛇毒悬液") 与 [罗丝的蜡烛酸解物](Vitriol_of_Lolth's_Candle.md "罗丝的蜡烛酸解物")（任何 [酸解物](Alchemy.md#Extractions "炼金术") 都可以！）混合，就会得到一种 [蛇牙毒素](Serpent_Fang_Toxin.md "蛇牙毒素") 滴答滴答滴答
 
 当炼金术令我困惑时
 

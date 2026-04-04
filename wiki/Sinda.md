@@ -83,11 +83,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 16 / (+3) | 12 / (+1) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -133,11 +133,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +2 | +6 | +1 | 0 | 0 | 0 |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -183,15 +183,15 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 16 / (+3) | 12 / (+1) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(详情)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "Permanently Armed")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -221,13 +221,13 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 外部链接](#外部链接)
 
 ## 出场
 
@@ -256,7 +256,7 @@ UUID
   - [魔契之刃] [欺瞒] 我被一把异界武器割伤——我想伤口感染了。(DC 14)
 - [阿斯代伦] 亲爱的女士——看看我的脸色。我已命悬一线。_(自动通过)_
 
-如果通过检定，辛妲会指引队伍去找医生[马鲁斯·索姆](Malus_Thorm.md "Malus Thorm")。否则，她会坚持让队伍“排队等候”，阻止他们进入她身后的门厅。队伍可以通过从任何侧门进入建筑，或者通过辛妲姐妹右侧的门（通向外部，一条通往儿童病房的短路）来绕过她。儿童病房可以通过打破南侧被封锁的门进入，或者使用通往屋顶的大型藤蔓坡道到达北侧。或者，可以杀死她，或者由[弃誓者圣武士](Paladin.md#Becoming_an_Oathbreaker "Paladin")[控制](Control_Undead.md "Control Undead")她；后者在效果激活时让队伍获得她强大的[心灵尖啸](Mind_Screech.md "Mind_Screech")能力。
+如果通过检定，辛妲会指引队伍去找医生[马鲁斯·索姆](Malus_Thorm.md "Malus Thorm")。否则，她会坚持让队伍“排队等候”，阻止他们进入她身后的门厅。队伍可以通过从任何侧门进入建筑，或者通过辛妲姐妹右侧的门（通向外部，一条通往儿童病房的短路）来绕过她。儿童病房可以通过打破南侧被封锁的门进入，或者使用通往屋顶的大型藤蔓坡道到达北侧。或者，可以杀死她，或者由[弃誓者圣武士](Paladin.md#Becoming_an_Oathbreaker "Paladin")[控制不死生物](Control_Undead.md "控制不死生物")她；后者在效果激活时让队伍获得她强大的[心灵尖啸](Mind_Screech.md "Mind_Screech")能力。
 
 如果选择[邪念](Dark_Urge.md "Dark Urge")作为[出身](Origin.md "Origin")，则会出现独特的互动。他们可以坚持自己有问题，并允许馨妲姐妹检查。事实上，她注意到了邪念大脑的损伤，并允许队伍在没有[技能检定](Skill_Check.md "Skill Check")的情况下继续前往马鲁斯·索姆。这也是确认邪念历史中一个关键事件的事件之一：它所遭受的失忆是实际颅脑创伤的结果，与[夺心魔](Mind_flayer.md "Mind Flayer")蝌蚪无关。
 
@@ -298,7 +298,7 @@ UUID
 
 你的[力量](Strength.md "Strength")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "Thrown")属性的武器的伤害与武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与武器的近战伤害相同。
 
 范围: 3-18 米 (10-60 英尺)
 

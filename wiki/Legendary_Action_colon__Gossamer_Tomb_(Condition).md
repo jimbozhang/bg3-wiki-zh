@@ -8,7 +8,7 @@
 
 ## 备注
 
-它不仅在她的 [后代](Phase_Spiderling.md "相位幼蛛") 被攻击时生效，在 [热修复 #27](Patch_notes.md "补丁说明")、[热修复 #28](Patch_notes.md "补丁说明") 中，当 [相位蜘蛛](Phase_Spider.md "相位蜘蛛") 被攻击时也会生效。
+它不仅在她的 [相位幼蛛](Phase_Spiderling.md "相位幼蛛") 被攻击时生效，在 [热修复 #27](Patch_notes.md "补丁说明")、[热修复 #28](Patch_notes.md "补丁说明") 中，当 [相位蜘蛛](Phase_Spider.md "相位蜘蛛") 被攻击时也会生效。
 
 ## 传奇动作：蛛丝墓穴 的来源
 

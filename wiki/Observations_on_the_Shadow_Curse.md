@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[这份关于[幽影诅咒](Shadow_Curse.md "幽影诅咒")的实地研究由晨曦之神[洛山达](https://forgottenrealms.fandom.com/wiki/Lathander)的一位牧师执笔。他们的观察并非特别聪明或富有洞察力，但解读中缺乏的细微之处，却被十足的决心所弥补。这位牧师似乎怀着热切而充满希望的心，出发前往诅咒之地的最深处进行分析，不过根据书本末尾附近这些沾满血迹的书页，你猜测他们并未如愿走那么远。\]
+\[幽影诅咒](Shadow_Curse.md "幽影诅咒")的实地研究由晨曦之神[洛山达](https://forgottenrealms.fandom.com/wiki/Lathander)的一位牧师执笔。他们的观察并非特别聪明或富有洞察力，但解读中缺乏的细微之处，却被十足的决心所弥补。这位牧师似乎怀着热切而充满希望的心，出发前往诅咒之地的最深处进行分析，不过根据书本末尾附近这些沾满血迹的书页，你猜测他们并未如愿走那么远。\]
 
 ---
 *Source: [Observations on the Shadow Curse](https://bg3.wiki/wiki/Observations_on_the_Shadow_Curse)*

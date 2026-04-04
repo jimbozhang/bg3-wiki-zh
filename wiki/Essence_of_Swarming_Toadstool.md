@@ -1,6 +1,6 @@
 # 群集伞菌精华
 
-**群集伞菌精华**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[卓尔毒药](Drow_Poison.md "卓尔毒药")。
+**群集伞菌精华**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[卓尔毒药](Drow_Poison.md "卓尔毒药")。
 
 欢快舞动的生物发光微粒，已还原为其基本物质。
 

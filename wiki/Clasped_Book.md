@@ -1,6 +1,6 @@
 # 扣紧的书
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Clasped_Book.md "Special:WhatLinksHere/Clasped Book")的，请考虑编辑该链接，使其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[扣紧的书](Special_colon_WhatLinksHere/Clasped_Book.md "扣紧的书")的，请考虑编辑该链接，使其指向正确的页面。
 
 **扣紧的书**可能指：
 

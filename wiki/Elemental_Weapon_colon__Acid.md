@@ -1,6 +1,6 @@
 # 元素武器：强酸
 
-**元素武器：强酸** 是一个 [等级 3 变化学派法术](Spells.md "Spells")。此法术是 [元素武器](Elemental_Weapon.md "Elemental Weapon") 的一个变体，它为武器注入腐蚀之力，使其获得额外的强酸伤害和攻击掷骰加值。
+**元素武器：强酸** 是一个 [法术](Spells.md "法术")。此法术是 [元素武器](Elemental_Weapon.md "Elemental Weapon") 的一个变体，它为武器注入腐蚀之力，使其获得额外的强酸伤害和攻击掷骰加值。
 
 ## 描述
 

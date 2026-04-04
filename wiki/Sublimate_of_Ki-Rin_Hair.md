@@ -1,6 +1,6 @@
 # 麒麟毛熏香
 
-**麒麟毛熏香**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")。
+**麒麟毛熏香**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")。
 
 来自[麒麟](https://forgottenrealms.fandom.com/wiki/Ki-rin)毛发的烟雾散发出舒缓的香气，并释放出其大部分天界魔法。
 

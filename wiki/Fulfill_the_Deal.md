@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 夏芮丝的爱抚](#sharess'-caress)
-  - [2.2 被迫履行协议](#being-forced-to-fulfill-the-deal)
-  - [2.3 击败耐色脑之后](#after-defeating-the-netherbrain)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 夏芮丝的爱抚](#夏芮丝的爱抚)
+  - [2.2 被迫履行协议](#被迫履行协议)
+  - [2.3 击败耐色脑之后](#击败耐色脑之后)
 
 ## 目标
 

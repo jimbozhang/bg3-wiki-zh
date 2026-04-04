@@ -88,19 +88,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -108,7 +108,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**隐匿**](Stealthy.md "隐匿")
+- [隐匿](Stealthy.md "隐匿")
 
 [隐匿](Stealth.md "隐匿") +1。
 
@@ -158,19 +158,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -178,7 +178,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**隐匿**](Stealthy.md "隐匿")
+- [隐匿](Stealthy.md "隐匿")
 
 [隐匿](Stealth.md "隐匿") +1。
 
@@ -228,19 +228,19 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -248,7 +248,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**隐匿**](Stealthy.md "隐匿")
+- [隐匿](Stealthy.md "隐匿")
 
 [隐匿](Stealth.md "隐匿") +1。
 
@@ -270,7 +270,7 @@ Stats
 
 ## 参与
 
-如果[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在[第一幕](Act_One.md "第一幕")或[第二幕](Act_Two.md "第二幕")被杀，且[弗里奥尔老板](Friol.md "弗里奥尔老板")在[废弃蓄水池](Abandoned_Cistern.md "废弃蓄水池")被杀（在她逃脱之前），特立尼达会与其他散塔林会成员一起试图接管公会大厅。
+如果[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在[第一幕](Act_One.md "第一幕")或[第二幕](Act_Two.md "第二幕")被杀，且[弗里奥尔](Friol.md "弗里奥尔")在[废弃蓄水池](Abandoned_Cistern.md "废弃蓄水池")被杀（在她逃脱之前），特立尼达会与其他散塔林会成员一起试图接管公会大厅。
 
 与罗阿和弗里奥尔不同，特立尼达始终是敌对的，并且不会给队伍提供在即将到来的战斗中加入散塔林会的机会。
 

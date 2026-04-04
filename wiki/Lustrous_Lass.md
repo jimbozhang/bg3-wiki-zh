@@ -23,15 +23,15 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 进入方式](#access)
-  - [1.2 船上情况](#onboard)
-  - [1.3 海疫](#sea-plague)
-- [2 敌人](#enemies)
-- [3 相关地点](#related-locations)
-- [4 战利品](#loot)
-- [5 备注](#notes)
-- [6 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 进入方式](#进入方式)
+  - [1.2 船上情况](#船上情况)
+  - [1.3 海疫](#海疫)
+- [2 敌人](#敌人)
+- [3 相关地点](#相关地点)
+- [4 战利品](#战利品)
+- [5 备注](#备注)
+- [6 外部链接](#外部链接)
 
 ## 概述
 
@@ -48,7 +48,7 @@
 
 ### 船上情况
 
-在船上，队伍可以找到[哈方船长](Harfang.md "哈方")、[迪兹比](Dizby.md "迪兹比")、[约肯斯](Jorkens.md "约肯斯")和[裴妮塔修女](Penita.md "裴妮塔")的尸体。
+在船上，队伍可以找到[哈方](Harfang.md "哈方")、[迪兹比](Dizby.md "迪兹比")、[约肯斯](Jorkens.md "约肯斯")和[裴妮塔](Penita.md "裴妮塔")的尸体。
 
 阅读在船员尸体上找到的书籍可知，这艘船被来自[克罗恩岛](https://forgottenrealms.fandom.com/wiki/Crone_Island)的[暗影巫婆](https://forgottenrealms.fandom.com/wiki/Gloom_Crone)诅咒了。哈方船长接受了一个好得令人难以置信的交易，导致船员被诅咒并最终因此死亡。裴妮塔修女被派去调查这艘被隔离的船，但在查明真相之前也倒在了诅咒之下<sup>[\[1\]](#cite_note-1)</sup>。
 
@@ -58,7 +58,7 @@
 
 船员被海疫击倒
 
-光耀少女号的船员被船上肆虐的海疫击倒。任何穿越该船的角色必须通过 DC 20 的[体质](Constitution.md "体质")[检定](Ability_Check.md "属性检定")，否则也会被感染。该状态是一种[疾病](Diseased_(Condition_Type).md)，会持续存在，直到通过魔法或[长休](Long_Rest.md "长休")治愈。
+光耀少女号的船员被船上肆虐的海疫击倒。任何穿越该船的角色必须通过 DC 20 的[体质](Constitution.md "体质")[属性检定](Ability_Check.md "属性检定")，否则也会被感染。该状态是一种[疾病](Diseased_(Condition_Type).md)，会持续存在，直到通过魔法或[长休](Long_Rest.md "长休")治愈。
 
 ## 敌人
 

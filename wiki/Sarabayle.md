@@ -97,21 +97,21 @@
 
 - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "坟墓魔法")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 每当使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍造成等于 [力量](STR.md "力量") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击")伤害。
 
 ## 探索者难度属性
 
@@ -159,21 +159,21 @@
 
 - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "坟墓魔法")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 每当使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍造成等于 [力量](STR.md "力量") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击")伤害。
 
 ## 硬核难度属性
 
@@ -221,25 +221,25 @@
 
 - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "坟墓魔法")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 每当使用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "法术塑形")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动成功豁免使用者的法术。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍造成等于 [力量](STR.md "力量") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击")伤害。
 
 ## 技术
 
@@ -293,7 +293,7 @@ Stats
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[火球术术](Fireball.md "火球术术") (+ )
+[火球术](Fireball.md "火球术") (+ )
 
 伤害：8~48
 

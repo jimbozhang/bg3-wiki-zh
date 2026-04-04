@@ -19,14 +19,14 @@
 
 ## 目录
 
-- [1 我需要什么才能开始？](#what-do-i-need-to-begin?)
-- [2 从哪些模组开始最好？](#what-mods-are-best-to-start-with?)
-- [3 模组网站](#modding-sites)
-- [4 权限](#permissions)
-  - [4.1 权限示例](#example-of-permissions)
-  - [4.2 Nexusmods](#nexusmods)
-  - [4.3 其他模组制作者的权限](#other-modders-permissions)
-  - [4.4 您的权限](#your-permissions)
+- [1 我需要什么才能开始？](#我需要什么才能开始？)
+- [2 从哪些模组开始最好？](#从哪些模组开始最好？)
+- [3 模组网站](#模组网站)
+- [4 权限](#权限)
+  - [4.1 权限示例](#权限示例)
+  - [4.2 Nexusmods](#Nexusmods)
+  - [4.3 其他模组制作者的权限](#其他模组制作者的权限)
+  - [4.4 您的权限](#您的权限)
 
 ## 我需要什么才能开始？
 

@@ -66,17 +66,17 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
-当用[近战攻击](melee.md "近战攻击")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动最多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
+当用[近战](melee.md "近战")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动最多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
 ## 探索者难度属性
 
@@ -118,17 +118,17 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
-当用[近战攻击](melee.md "近战攻击")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动最多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
+当用[近战](melee.md "近战")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动最多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
 ## 硬核难度属性
 
@@ -170,17 +170,17 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
-当用[近战攻击](melee.md "近战攻击")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动最多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
+当用[近战](melee.md "近战")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动最多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
 **豺狼人猎手**是在[第一章](Act_One.md "第一章")中出现的普通豺狼人敌人。他们是野性的鬣狗类人生物，为了平息其恶魔创造者[伊诺古](Yeenoghu.md "伊诺古")赋予的永不满足的饥饿感而肆意屠杀。
 
@@ -188,11 +188,11 @@
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 值得一提的战利品](#notable-loot)
-- [2 已知的豺狼人猎手](#known-gnoll-hunters)
-- [3 画廊](#gallery)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 值得一提的战利品](#值得一提的战利品)
+- [2 已知的豺狼人猎手](#已知的豺狼人猎手)
+- [3 画廊](#画廊)
 - [4 外部链接](#external-links)
 
 ## 战斗
@@ -212,7 +212,7 @@
 
 射击敌人的大腿，可能使其[移动速度](Movement_speed.md "移动速度")降低 50%。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

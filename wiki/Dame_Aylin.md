@@ -36,7 +36,7 @@
 
 ### 体型
 
-[中型](Medium.md "Medium")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -110,23 +110,23 @@
 
 - - ## 特性
 
-- [**塞伦涅之女**](Child_of_the_Moonmaiden.md "Child of the Moonmaiden")
+- [塞伦涅之女](Child_of_the_Moonmaiden.md "塞伦涅之女")
 
 受到女神眷顾的祝福，暗夜之歌无法被永久杀死。当昏迷时，她的回合开始时会恢复1点[生命值](Hit_Points.md "Hit points")。
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "Improved Divine Smite")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成+1d8[光耀](Radiant.md "Radiant")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -182,23 +182,23 @@
 
 - - ## 特性
 
-- [**塞伦涅之女**](Child_of_the_Moonmaiden.md "Child of the Moonmaiden")
+- [塞伦涅之女](Child_of_the_Moonmaiden.md "塞伦涅之女")
 
 受到女神眷顾的祝福，暗夜之歌无法被永久杀死。当昏迷时，她的回合开始时会恢复1点[生命值](Hit_Points.md "Hit points")。
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "Improved Divine Smite")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成+1d8[光耀](Radiant.md "Radiant")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -270,25 +270,25 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-  - [1.2 个性](#personality)
-  - [1.3 招募](#recruitment)
-  - [1.4 历史](#history)
-- [2 参与剧情](#involvement)
-  - [2.1 第二幕](#act-two)
-  - [2.2 第三幕](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 装备](#equipment)
-- [4 相关任务](#related-quests)
-- [5 相关物品](#related-items)
-- [6 相关文献](#related-literature)
-- [7 画廊](#gallery)
-- [8 挖掘内容](#datamined-content)
-- [9 注释](#notes)
-- [10 参考文献](#references)
-- [11 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+  - [1.2 个性](#个性)
+  - [1.3 招募](#招募)
+  - [1.4 历史](#历史)
+- [2 参与剧情](#参与剧情)
+  - [2.1 第二幕](#第二幕)
+  - [2.2 第三幕](#第三幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 装备](#装备)
+- [4 相关任务](#相关任务)
+- [5 相关物品](#相关物品)
+- [6 相关文献](#相关文献)
+- [7 画廊](#画廊)
+- [8 挖掘内容](#挖掘内容)
+- [9 注释](#注释)
+- [10 参考文献](#参考文献)
+- [11 外部链接](#外部链接)
 
 ## 概述
 

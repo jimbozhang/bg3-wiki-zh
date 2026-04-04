@@ -4,7 +4,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 - 稀有度：常见
 - 重量：5 kg (10 lb)
 - 价格：1 gp
@@ -17,7 +17,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 - 稀有度：常见
 - 重量：5 kg (10 lb)
 - 价格：1 gp

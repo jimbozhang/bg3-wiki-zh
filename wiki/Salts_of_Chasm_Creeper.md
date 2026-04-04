@@ -1,6 +1,6 @@
 # 裂谷蔓晶盐
 
-**裂谷蔓晶盐**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[巨像灵药](Elixir_of_the_Colossus.md "巨像灵药")。
+**裂谷蔓晶盐**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[巨像灵药](Elixir_of_the_Colossus.md "巨像灵药")。
 
 裂谷蔓晶的孤独韧性或许能部分解释其炼金特性——如此强大的力量若能加以利用，将会非常有用。
 

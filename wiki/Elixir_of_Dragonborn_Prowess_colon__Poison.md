@@ -16,7 +16,7 @@
 [附赠动作](Actions.md#Resources "Actions")
 
 - 消耗后获得：
-  - [威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability Check")的[优势](Advantage.md "Advantage")
+  - [威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")的[优势](Advantage.md "Advantage")
   - 对[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")
   - 在下一次[长休](Long_Rest.md "Long Rest")前，可施放一次[疾病射线](Ray_of_Sickness.md "Ray of Sickness")
 
@@ -26,11 +26,11 @@
 
 持续时间：直到[长休](Long_Rest.md "长休")
 
-- 受影响实体在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability Check")上拥有[优势](Advantage.md "Advantage")，对[中毒](Poison.md "Poison")伤害拥有[抗性](Resistance.md "Resistance")，并且可以在其下一次[长休](Long_Rest.md "Long Rest")前使用一次[疾病射线](Ray_of_Sickness.md "Ray_of_Sickness")。
+- 受影响实体在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "Advantage")，对[中毒](Poison.md "Poison")伤害拥有[抗性](Resistance.md "Resistance")，并且可以在其下一次[长休](Long_Rest.md "Long Rest")前使用一次[疾病射线](Ray_of_Sickness.md "Ray_of_Sickness")。
 
 ## 获取地点
 
-由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在[月出之塔](Moonrise_Towers.md "Moonrise_Towers")以及之后在[下城区](Lower_City.md "Lower City")以[绿](Green_Dragonborn.md "Green Dragonborn")[龙裔](Dragonborn.md "Dragonborn")的血液交换给予。
+由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在[月出之塔](Moonrise_Towers.md "Moonrise_Towers")以及之后在[下城区](Lower_City.md "Lower City")以[绿龙裔](Green_Dragonborn.md "绿龙裔")[龙裔](Dragonborn.md "Dragonborn")的血液交换给予。
 
 ---
 *Source: [Elixir of Dragonborn Prowess: Poison](https://bg3.wiki/wiki/Elixir_of_Dragonborn_Prowess:_Poison)*

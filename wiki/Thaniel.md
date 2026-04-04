@@ -209,10 +209,10 @@ Stats
 
 ## Contents
 
-- [1 Involvement](#involvement)
-  - [1.1 Act Two](#act-two)
-- [2 Related quests](#related-quests)
-- [3 Gallery](#gallery)
+- [1 Involvement](#Involvement)
+  - [1.1 Act Two](#Act-Two)
+- [2 Related quests](#Related-quests)
+- [3 Gallery](#Gallery)
 
 ## Involvement
 

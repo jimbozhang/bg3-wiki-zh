@@ -8,7 +8,7 @@
 
 触发后，石像鬼的头颅每回合会发出一次[火焰箭](Fire_Bolt.md "火焰箭")。该法术在命中射线上任何障碍物时造成2d6⁠⁠[火焰](Fire.md "火焰")伤害。唯一的例外是[巫术杂物店地窖](Sorcerous_Vault.md "巫术杂物店地窖")其中一个大厅中的石像鬼的头颅，它们发射类似于[寒冰箭](Arrow_of_Ice.md "寒冰箭")的法术（2d4⁠⁠[寒冷](Cold.md "寒冷")伤害）。
 
-石像鬼的头颅可以在[巧手](Sleight_of_Hand.md "巧手")技能的帮助下解除，但角色必须在物品栏中拥有[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")。难度等级要求是DC 10的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")掷骰。
+石像鬼的头颅可以在[巧手](Sleight_of_Hand.md "巧手")技能的帮助下解除，但角色必须在物品栏中拥有[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")。难度等级要求是DC 10的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")掷骰。
 
 成功解除后，石像鬼的头颅会碎裂成一堆石头碎块。
 

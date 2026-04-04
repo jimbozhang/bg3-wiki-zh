@@ -65,15 +65,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**森林之握**](Grasp_of_the_Forest.md "森林之握")
+- [森林之握](Grasp_of_the_Forest.md "森林之握")
 
 武器攻击可以使目标[缠绕](Entangled_(Condition).md "缠绕（状态）")。
 
@@ -117,15 +117,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**森林之握**](Grasp_of_the_Forest.md "森林之握")
+- [森林之握](Grasp_of_the_Forest.md "森林之握")
 
 武器攻击可以使目标[缠绕](Entangled_(Condition).md "缠绕（状态）")。
 
@@ -169,19 +169,19 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**森林之握**](Grasp_of_the_Forest.md "森林之握")
+- [森林之握](Grasp_of_the_Forest.md "森林之握")
 
 武器攻击可以使目标[缠绕](Entangled_(Condition).md "缠绕（状态）")。
 
-**树精**是一种在[博德之门3](Baldur's_Gate_3.md "博德之门3")中出现的不可游玩的[妖精](List_of_creature_types.md#Fey "生物类型列表")种族。她们引导强大的[德鲁伊力量](Druid.md "德鲁伊")，使她们能够缠绕敌人并召唤[菘蓝树人](Wood_Woad.md "菘蓝树人")寻求帮助。
+**树精**是一种在[博德之门3](Baldur's_Gate_3.md "博德之门3")中出现的不可游玩的[妖精](List_of_creature_types.md#Fey "生物类型列表")种族。她们引导强大的[德鲁伊](Druid.md "德鲁伊")，使她们能够缠绕敌人并召唤[菘蓝树人](Wood_Woad.md "菘蓝树人")寻求帮助。
 
 ## 关于树精
 

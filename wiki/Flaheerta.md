@@ -77,15 +77,15 @@
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 Advantage on [saving throws](Saving_throw.md "Saving throw") against being [charmed](Charmed_(Condition).md); can't be put to [sleep](Sleeping_(Condition).md) by magic.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
@@ -129,15 +129,15 @@ Attack an enemy moving out of reach.
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 Advantage on [saving throws](Saving_throw.md "Saving throw") against being [charmed](Charmed_(Condition).md); can't be put to [sleep](Sleeping_(Condition).md) by magic.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
@@ -181,15 +181,15 @@ Attack an enemy moving out of reach.
 
 ## Features
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 Advantage on [saving throws](Saving_throw.md "Saving throw") against being [charmed](Charmed_(Condition).md); can't be put to [sleep](Sleeping_(Condition).md) by magic.
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 

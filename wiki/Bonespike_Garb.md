@@ -22,7 +22,7 @@
 每当您[狂暴](Rage.md "狂暴")时，获得15点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 [外骨骼耐久](Exoskeletal_Endurance.md "外骨骼耐久")
-使所有受到的伤害降低**2**点。当穿戴者被近战攻击击中时，攻击者会受到[体质调整值](Constitution.md "体质")⁠⁠[穿刺](Piercing.md "穿刺")伤害。
+使所有受到的伤害降低**2**点。当穿戴者被近战攻击击中时，攻击者会受到[体质](Constitution.md "体质")⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 
 ## 获取地点
 

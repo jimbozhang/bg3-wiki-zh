@@ -22,7 +22,7 @@
 
 ## 备注
 
-- 一次 DC 10 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")会揭示这个掘穴。
+- 一次 DC 10 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")会揭示这个掘穴。
 - 附近的[营地](Campsite.md "营地")曾被埃莉·梅的丈夫用来在她的墓前哀悼。
 - 埃莉下葬时戴着这枚戒指，但后来被某种小型生物挖出并带到了它的掘穴中。在墓穴附近成功进行一次察觉检定会揭示一组通向悬崖的“野兽足迹”。
 - 这枚戒指在《[未寄出的信](Unsent_Letter_(robber)_..md) Ellie May's husband asked a robber to retrieve the ring for him, but they died before they could find it.》中被提及。埃莉·梅的丈夫曾请求一名盗贼为他取回戒指，但盗贼在找到戒指前就已死亡。

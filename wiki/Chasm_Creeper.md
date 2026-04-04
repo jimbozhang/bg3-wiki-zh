@@ -1,6 +1,6 @@
 # 裂谷蔓晶
 
-**裂谷蔓晶**是一种[炼金术材料](Alchemy.md "炼金术")。将3个裂谷蔓晶研磨可制成[裂谷蔓晶盐](Salts_of_Chasm_Creeper.md "裂谷蔓晶盐")，用于制作[巨像灵药](Elixir_of_the_Colossus.md "巨像灵药")。
+**裂谷蔓晶**是一种[炼金术](Alchemy.md "炼金术")。将3个裂谷蔓晶研磨可制成[裂谷蔓晶盐](Salts_of_Chasm_Creeper.md "裂谷蔓晶盐")，用于制作[巨像灵药](Elixir_of_the_Colossus.md "巨像灵药")。
 
 这些稀有水晶只能在广阔裂谷的边缘找到，它们顽固地附着在垂直的岩石上。
 

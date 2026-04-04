@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：故事道具
 
@@ -16,12 +16,12 @@
 
 - UID `UNI_UND_MyconidRevenge_NereHead_Shroomed` UUID `55249c82-7b97-4f8b-8fc2-ba0053aa6621` ## 获取地点
 
-- 在[黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto")的[蕈人王斯伯](Spaw.md "Spaw")旁边，在[交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head")任务中交付[Nere的头](Nere's_Head.md "Nere's Head")后出现。
+- 在[黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto")的[蕈人王斯伯](Spaw.md "Spaw")旁边，在[交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head")任务中交付[尼讷的头](Nere's_Head.md "尼讷的头")后出现。
 
 ## 备注
 
 - 此物品可用于打开[月出之塔](Moonrise_Towers.md "Moonrise Towers")中[巴萨扎尔](Balthazar.md "Balthazar")住所的密室门。
-- 如果放置并从[平庸宝箱](Chest_of_the_Mundane.md "Chest of the Mundane")中取出，它会变回[Nere的头](Nere's_Head.md "Nere's Head")。
+- 如果放置并从[平庸宝箱](Chest_of_the_Mundane.md "Chest of the Mundane")中取出，它会变回[尼讷的头](Nere's_Head.md "尼讷的头")。
 
 ---
 *Source: [Blooming Drow Head](https://bg3.wiki/wiki/Blooming_Drow_Head)*

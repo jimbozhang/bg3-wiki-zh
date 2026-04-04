@@ -2,7 +2,7 @@
 
 **侏儒天才**
 
-- 受影响实体在巧手[检定](Ability_Check.md "属性检定")中[重甲的](Proficient.md "重甲的")，并且可以施放[敲击术](Knock.md "敲击术")，直到它进行一次[长休](Long_Rest.md "长休")。
+- 受影响实体在巧手[属性检定](Ability_Check.md "属性检定")中[重甲的](Proficient.md "重甲的")，并且可以施放[敲击术](Knock.md "敲击术")，直到它进行一次[长休](Long_Rest.md "长休")。
 
 ## 属性
 
@@ -23,7 +23,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体在巧手[检定](Ability_Check.md "属性检定")中[重甲的](Proficient.md "重甲的")，并且可以施放[敲击术](Knock.md "敲击术")，直到它进行一次[长休](Long_Rest.md "长休")。
+- 受影响实体在巧手[属性检定](Ability_Check.md "属性检定")中[重甲的](Proficient.md "重甲的")，并且可以施放[敲击术](Knock.md "敲击术")，直到它进行一次[长休](Long_Rest.md "长休")。
 
 ---
 *Source: [Gnomish Ingenuity (Condition)](https://bg3.wiki/wiki/Gnomish_Ingenuity_(Condition)*

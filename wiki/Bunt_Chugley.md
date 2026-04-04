@@ -61,7 +61,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -93,7 +93,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -125,7 +125,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -147,7 +147,7 @@ UUID
 
 > “
 >
-> 现在每条头条都是关于——*嗝*——已故的[戈塔什勋爵](Gortash.md "Gortash")。也许我会为他举杯致敬。
+> 现在每条头条都是关于——*嗝*——已故的[戈塔什](Gortash.md "戈塔什")。也许我会为他举杯致敬。
 >
 > „
 
@@ -155,10 +155,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 闲聊](#idle-banter)
-- [3 相关文献](#related-literature)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 闲聊](#闲聊)
+- [3 相关文献](#相关文献)
 
 ## 出场
 
@@ -174,7 +174,7 @@ UUID
   很多人喜欢那个戈塔什家伙，从所有讣告来看。*(如果戈塔什已被击败)*
 
 - 邦特·恰格雷
-  真不敢相信戈塔什勋爵永远地走了。现在[公报](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")上全是这些。
+  真不敢相信戈塔什勋爵永远地走了。现在[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")上全是这些。
 
 - 邦特·恰格雷
   我自己对勋爵们没什么好感——但从我读到的来看，戈塔什是个正直的家伙。

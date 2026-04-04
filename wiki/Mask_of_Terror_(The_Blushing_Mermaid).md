@@ -22,7 +22,7 @@
 
 ### 种族
 
-[高等精灵](Elf.md "精灵")
+[精灵](Elf.md "精灵")
 
 ### 职业
 
@@ -90,7 +90,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -98,19 +98,19 @@
 
 使用你的反应将远程武器攻击的伤害减少 1d10 + 你的敏捷 [调整值](Modifier.md "调整值") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使其伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗 [魅惑](Charmed_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")；不会被魔法 [沉睡](Sleeping_(Condition).md)。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击视为魔法攻击，以克服敌人对非魔法伤害的 [抗性](Resistance.md "抗性") 和 [免疫](Immunity.md "免疫")。
 
@@ -126,15 +126,15 @@
 
 使用 [武僧武器](Monk.md#Monk_weapons "武僧") 和徒手攻击时，如果你的敏捷更高，则按你的敏捷而非力量计算伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
-- [**轻身坠**](Slow_Fall.md "轻身坠")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，你可以使用你的反应获得对 [坠落伤害](Falling_damage.md "坠落伤害") 的 [抗性](Resistance.md "抗性")。
 
@@ -146,7 +146,7 @@
 
 你的反射如同任何 [护甲](Armour.md "护甲") 一样有效。当你未穿戴护甲时，你将你的 [感知调整值](Wisdom.md#Wisdom_Modifier_Chart "感知") 加到你的 [护甲等级](Armour_Class.md "护甲等级") 上。
 
-- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿戴护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 
@@ -206,7 +206,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -214,19 +214,19 @@
 
 使用你的反应将远程武器攻击的伤害减少 1d10 + 你的敏捷 [调整值](Modifier.md "调整值") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使其伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗 [魅惑](Charmed_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")；不会被魔法 [沉睡](Sleeping_(Condition).md)。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击视为魔法攻击，以克服敌人对非魔法伤害的 [抗性](Resistance.md "抗性") 和 [免疫](Immunity.md "免疫")。
 
@@ -242,15 +242,15 @@
 
 使用 [武僧武器](Monk.md#Monk_weapons "武僧") 和徒手攻击时，如果你的敏捷更高，则按你的敏捷而非力量计算伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
-- [**轻身坠**](Slow_Fall.md "轻身坠")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，你可以使用你的反应获得对 [坠落伤害](Falling_damage.md "坠落伤害") 的 [抗性](Resistance.md "抗性")。
 
@@ -262,7 +262,7 @@
 
 你的反射如同任何 [护甲](Armour.md "护甲") 一样有效。当你未穿戴护甲时，你将你的 [感知调整值](Wisdom.md#Wisdom_Modifier_Chart "感知") 加到你的 [护甲等级](Armour_Class.md "护甲等级") 上。
 
-- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿戴护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 
@@ -322,7 +322,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -330,19 +330,19 @@
 
 使用你的反应将远程武器攻击的伤害减少 1d10 + 你的敏捷 [调整值](Modifier.md "调整值") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使其伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗 [魅惑](Charmed_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")；不会被魔法 [沉睡](Sleeping_(Condition).md)。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击视为魔法攻击，以克服敌人对非魔法伤害的 [抗性](Resistance.md "抗性") 和 [免疫](Immunity.md "免疫")。
 
@@ -358,15 +358,15 @@
 
 使用 [武僧武器](Monk.md#Monk_weapons "武僧") 和徒手攻击时，如果你的敏捷更高，则按你的敏捷而非力量计算伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
-- [**轻身坠**](Slow_Fall.md "轻身坠")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，你可以使用你的反应获得对 [坠落伤害](Falling_damage.md "坠落伤害") 的 [抗性](Resistance.md "抗性")。
 
@@ -378,7 +378,7 @@
 
 你的反射如同任何 [护甲](Armour.md "护甲") 一样有效。当你未穿戴护甲时，你将你的 [感知调整值](Wisdom.md#Wisdom_Modifier_Chart "感知") 加到你的 [护甲等级](Armour_Class.md "护甲等级") 上。
 
-- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿戴护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 

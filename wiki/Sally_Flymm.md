@@ -82,7 +82,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -122,7 +122,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -162,7 +162,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -192,12 +192,12 @@ UUID
 
 ## 目录
 
-- [1 历史](#history)
-- [2 参与](#involvement)
-  - [2.1 第三幕](#act-three)
-- [3 重要战利品](#notable-loot)
-- [4 死者交谈](#speak-with-dead)
-- [5 参考文献](#references)
+- [1 历史](#历史)
+- [2 参与](#参与)
+  - [2.1 第三幕](#第三幕)
+- [3 重要战利品](#重要战利品)
+- [4 死者交谈](#死者交谈)
+- [5 参考文献](#参考文献)
 
 ## 历史
 

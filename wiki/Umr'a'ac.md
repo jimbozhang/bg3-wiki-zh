@@ -95,17 +95,17 @@
 
 - - - ## 特性
 
-- [**元素注能**](Elemental_Infusion.md "元素注能")
+- [元素注能](Elemental_Infusion.md "元素注能")
 
 当你使用[法术](Spell.md "法术")或[戏法](Cantrip.md "戏法")造成[强酸](Acid.md "强酸")、[寒冷](Cold.md "寒冷")、[火焰](Fire.md "火焰")、[闪电](Lightning.md "闪电")或[雷鸣](Thunder.md "雷鸣")伤害时，该元素会注能你的武器。
 
 直到你的下一回合结束，你的第一次成功武器攻击将额外造成 **1d4** 点该元素伤害。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-施放[法术或戏法](Spells.md "法术或戏法")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
+施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -155,17 +155,17 @@
 
 - - - ## 特性
 
-- [**元素注能**](Elemental_Infusion.md "元素注能")
+- [元素注能](Elemental_Infusion.md "元素注能")
 
 当你使用[法术](Spell.md "法术")或[戏法](Cantrip.md "戏法")造成[强酸](Acid.md "强酸")、[寒冷](Cold.md "寒冷")、[火焰](Fire.md "火焰")、[闪电](Lightning.md "闪电")或[雷鸣](Thunder.md "雷鸣")伤害时，该元素会注能你的武器。
 
 直到你的下一回合结束，你的第一次成功武器攻击将额外造成 **1d4** 点该元素伤害。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-施放[法术或戏法](Spells.md "法术或戏法")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
+施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -215,21 +215,21 @@
 
 - - - ## 特性
 
-- [**元素注能**](Elemental_Infusion.md "元素注能")
+- [元素注能](Elemental_Infusion.md "元素注能")
 
 当你使用[法术](Spell.md "法术")或[戏法](Cantrip.md "戏法")造成[强酸](Acid.md "强酸")、[寒冷](Cold.md "寒冷")、[火焰](Fire.md "火焰")、[闪电](Lightning.md "闪电")或[雷鸣](Thunder.md "雷鸣")伤害时，该元素会注能你的武器。
 
 直到你的下一回合结束，你的第一次成功武器攻击将额外造成 **1d4** 点该元素伤害。
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-施放[法术或戏法](Spells.md "法术或戏法")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
+施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深入骨髓。
 
@@ -267,11 +267,11 @@ UUID
 
 ## 目录
 
-- [1 登场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 登场](#登场)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 登场
 
@@ -312,7 +312,7 @@ UUID
 射程：自身
 
 [人类定身术](Hold_Person.md "人类定身术") (+ )
-定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[行动](Action.md "动作")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
+定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)

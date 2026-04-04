@@ -10,16 +10,16 @@
 
 ## 目录
 
-- [1 灵药的工作原理](#how-elixirs-work)
-- [2 奥术滋养灵药列表](#list-of-arcane-cultivation-elixirs)
-- [3 抗性灵药列表](#list-of-resistance-elixirs)
-- [4 力量灵药列表](#list-of-strength-elixirs)
-- [5 其他灵药列表](#list-of-other-elixirs)
-- [6 独特灵药](#unique-elixirs)
-- [7 其他](#other)
-  - [7.1 基于回合的持续时间](#turn-based-duration)
-- [8 术语说明](#terminology-note)
-- [9 注释](#notes)
+- [1 灵药的工作原理](#灵药的工作原理)
+- [2 奥术滋养灵药列表](#奥术滋养灵药列表)
+- [3 抗性灵药列表](#抗性灵药列表)
+- [4 力量灵药列表](#力量灵药列表)
+- [5 其他灵药列表](#其他灵药列表)
+- [6 独特灵药](#独特灵药)
+- [7 其他](#其他)
+  - [7.1 基于回合的持续时间](#基于回合的持续时间)
+- [8 术语说明](#术语说明)
+- [9 注释](#注释)
 
 ## 灵药的工作原理
 
@@ -51,7 +51,7 @@
 | [火焰抗性灵药](Elixir_of_Fire_Resistance.md "Elixir_of_Fire_Resistance") | [龙蛋蘑菇](Dragon_Egg_Mushroom.md "Dragon Egg Mushroom") | 13 | 1 | 是 | ⁠[火焰](Fire.md "Fire") [抗性](Resistance.md "Resistance") |
 | [闪电抗性灵药](Elixir_of_Lightning_Resistance.md "Elixir_of_Lightning_Resistance") | [破损的机器](Broken_Machinery.md "Broken Machinery") | 20 | 1 | 是 | ⁠[闪电](Lightning.md "Lightning") [抗性](Resistance.md "Resistance") |
 | [黯蚀抗性灵药](Elixir_of_Necrotic_Resistance.md "Elixir_of_Necrotic_Resistance") | [黑夹竹桃](Black_Oleander.md "Black Oleander") | 25 | 6[[](#cite_note-can_be_bought_earlier-3 "[")3] | 是[[](#cite_note-no_highlight-4 "[")4] | ⁠[黯蚀](Necrotic.md "Necrotic") [抗性](Resistance.md "Resistance") |
-| [毒素抗性灵药](Elixir_of_Poison_Resistance.md "Elixir_of_Poison_Resistance") | [泥魔蝠的翅膀](Mud_Mephit_Wing.md "Mud Mephit Wing") | 16 | 1 | 是 | ⁠[毒素](Poison.md "Poison") [抗性](Resistance.md "Resistance") |
+| [毒素抗性灵药](Elixir_of_Poison_Resistance.md "Elixir_of_Poison_Resistance") | [泥魔蝠的翅膀](Mud_Mephit_Wing.md "Mud Mephit Wing") | 16 | 1 | 是 | ⁠[中毒](Poison.md "中毒") [抗性](Resistance.md "Resistance") |
 | [心灵抗性灵药](Elixir_of_Psychic_Resistance.md "Elixir_of_Psychic_Resistance") | [噬脑怪的小脑](Intellect_Devourer_Cerebellum.md "Intellect Devourer Cerebellum") | 100 | 1 | 是[[](#cite_note-no_highlight-4 "[")4] | ⁠[心灵](Psychic.md "Psychic") [抗性](Resistance.md "Resistance") |
 | [光耀抗性灵药](Elixir_of_Radiant_Resistance.md "Elixir_of_Radiant_Resistance") | 不可制作 | 10 | 9 | 是 | ⁠[光耀](Radiant.md "Radiant") [抗性](Resistance.md "Resistance") |
 | [万能抗性灵药](Elixir_of_Universal_Resistance.md "Elixir_of_Universal_Resistance") | [圣骨碎片](Divine_Bone_Shard.md "Divine Bone Shard") | 200 | 1[[](#cite_note-only_availabe-5 "[")5] | 否 | 对所有伤害类型具有[抗性](Resistance.md "Resistance")[[](#cite_note-6 "[")6] |
@@ -93,18 +93,18 @@
 | 名称 | 种族 | 价值 | 效果 |
 | --- | --- | --- | --- |
 | [龙裔威能灵药: 酸液](Elixir_of_Dragonborn_Prowess_colon__Acid.md "Elixir of Dragonborn Prowess: Acid") | [龙裔](Dragonborn.md "Dragonborn") (黑色/铜色) | 10 | 在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")检定上获得[优势](Advantage.md "Advantage") ⁠[强酸](Acid.md "Acid") [抗性](Resistance.md "Resistance") 可以施放一次[马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow") |
-| [龙裔威能灵药：火焰](Elixir_of_Dragonborn_Prowess_colon__Fire.md "Elixir of Dragonborn Prowess: Fire") | [龙裔](Dragonborn.md "Dragonborn") (黄铜色/金色/红色) | 10 | 在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")检定上获得[优势](Advantage.md "Advantage") ⁠[火焰](Fire.md "Fire") [抗性](Resistance.md "Resistance") 可以施放一次[火球术术](Fireball.md "Fireball") |
+| [龙裔威能灵药：火焰](Elixir_of_Dragonborn_Prowess_colon__Fire.md "Elixir of Dragonborn Prowess: Fire") | [龙裔](Dragonborn.md "Dragonborn") (黄铜色/金色/红色) | 10 | 在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")检定上获得[优势](Advantage.md "Advantage") ⁠[火焰](Fire.md "Fire") [抗性](Resistance.md "Resistance") 可以施放一次[火球术](Fireball.md "火球术") |
 | [龙裔威能灵药：冰霜](Elixir_of_Dragonborn_Prowess_colon__Frost.md "Elixir of Dragonborn Prowess: Frost") | [龙裔](Dragonborn.md "Dragonborn") (银色/白色) | 10 | 在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")检定上获得[优势](Advantage.md "Advantage") ⁠[寒冷](Cold.md "Cold") [抗性](Resistance.md "Resistance") 可以施放一次[冰风暴](Ice_Storm.md "Ice Storm") |
 | [龙裔威能灵药：闪电](Elixir_of_Dragonborn_Prowess_colon__Lightning.md "Elixir of Dragonborn Prowess: Lightning") | [龙裔](Dragonborn.md "Dragonborn") (蓝色/青铜色) | 10 | 在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")检定上获得[优势](Advantage.md "Advantage") ⁠[闪电](Lightning.md "Lightning") [抗性](Resistance.md "Resistance") 可以施放一次[闪电束](Lightning_Bolt.md "Lightning Bolt") |
-| [龙裔威能灵药：毒素](Elixir_of_Dragonborn_Prowess_colon__Poison.md "Elixir of Dragonborn Prowess: Poison") | [龙裔](Dragonborn.md "Dragonborn") (绿色) | 10 | 在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")检定上获得[优势](Advantage.md "Advantage") ⁠[毒素](Poison.md "Poison") [抗性](Resistance.md "Resistance") 可以施放一次[疾病射线](Ray_of_Sickness.md "Ray of Sickness") |
+| [龙裔威能灵药：毒素](Elixir_of_Dragonborn_Prowess_colon__Poison.md "Elixir of Dragonborn Prowess: Poison") | [龙裔](Dragonborn.md "Dragonborn") (绿色) | 10 | 在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")检定上获得[优势](Advantage.md "Advantage") ⁠[中毒](Poison.md "中毒") [抗性](Resistance.md "Resistance") 可以施放一次[疾病射线](Ray_of_Sickness.md "Ray of Sickness") |
 | [矮人耐久灵药](Elixir_of_Dwarven_Resilience.md "Elixir_of_Dwarven_Resilience") | [矮人](Dwarf.md "Dwarf")[[](#cite_note-8 "[")8] | 10 | 将你的熟练项加值添加到[豁免检定](Saving_throws.md "Saving Throws")中，直到你成功通过3次豁免检定 |
 | [精灵优雅灵药](Elixir_of_Elven_Elegance.md "Elixir_of_Elven_Elegance") | [精灵](Elf.md "Elf")[[](#cite_note-9 "[")9] | 10 | 获得10米的[移动速度](Movement_speed.md "Movement speed") 获得[黑暗视觉](Darkvision_(Condition).md "Darkvision (Condition)") 免疫被[魅惑](Charmed_(Condition).md "Charmed (Condition)") |
 | [吉斯洋基预见灵药](Elixir_of_Githyanki_Providence.md "Elixir_of_Githyanki_Providence") | [吉斯洋基人](Githyanki.md "Githyanki") | 10 | 可以施放一次[迷踪步](Misty_Step.md "Misty Step") 可以施放一次[强化跳跃](Enhance_Leap.md "Enhance Leap") 可以施放一次[朦胧术](Blur.md "Blur") |
-| [侏儒天才灵药](Elixir_of_Gnomish_Ingenuity.md "Elixir_of_Gnomish_Ingenuity") | [侏儒](Gnome.md "Gnome") | 10 | 在[巧手](Sleight_of_Hand.md "Sleight of Hand") [检定](Ability_Check.md "Ability check")上获得[熟练](Proficiency.md "Proficiency")，并可以施放[敲击术](Knock.md "Knock") |
+| [侏儒天才灵药](Elixir_of_Gnomish_Ingenuity.md "Elixir_of_Gnomish_Ingenuity") | [侏儒](Gnome.md "Gnome") | 10 | 在[巧手](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定")上获得[熟练项](Proficiency.md "熟练项")，并可以施放[敲击术](Knock.md "Knock") |
 | [半精灵治疗灵药](Elixir_of_Half-Elven_Healing.md "Elixir_of_Half-Elven_Healing") | [半精灵](Half-Elf.md "Half-Elf") | 10 | 恢复等于你[体质](Constitution.md "Constitution")值的[生命值](Hit_Points.md "Hit Points")。（这是一个瞬时效果，更像药水而非灵药。） |
 | [半兽人愤怒灵药](Elixir_of_Half-Orcish_Fury.md "Elixir_of_Half-Orcish_Fury") | [半兽人](Half-Orc.md "Half-Orc") | 10 | 下次你被[击倒](Downed_(Condition).md "Downed (Condition)")时，你将降至1点生命值 |
 | [半身人幸运灵药](Elixir_of_Halfling_Luck.md "Elixir_of_Halfling_Luck") | [半身人](Halfling.md "Halfling") | 10 | 在[技能检定](Skill_Checks.md "Skill Checks")上获得[优势](Advantage.md "Advantage") |
-| [人类通才灵药](Elixir_of_Human_Versatility.md "Elixir_of_Human_Versatility") | [人类](Human.md "Human") | 10 | 在所有[技能](Skills.md "Skills")上获得[熟练](Proficiency.md "Proficiency") |
+| [人类通才灵药](Elixir_of_Human_Versatility.md "Elixir_of_Human_Versatility") | [人类](Human.md "Human") | 10 | 在所有[技能](Skills.md "Skills")上获得[熟练项](Proficiency.md "熟练项") |
 | [提夫林罪恶灵药](Elixir_of_Tiefling_Vice.md "Elixir_of_Tiefling_Vice") | [提夫林](Tiefling.md "Tiefling") | 10 | 可以施放一次[奇术](Thaumaturgy.md "Thaumaturgy") 可以施放一次[炼狱叱喝](Hellish_Rebuke.md "Hellish Rebuke") 可以施放一次[燃烧之手](Burning_Hands.md "Burning Hands") 可以施放一次[火焰刀](Flame_Blade.md "Flame Blade") |
 
 ## 其他

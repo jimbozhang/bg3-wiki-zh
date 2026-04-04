@@ -1,6 +1,6 @@
 # 臭云术
 
-**臭云术** 是一个 [等级 3 咒法学派法术](Spells.md "Spells")。它允许施法者创造一团令人作呕的气体，可以阻止生物采取动作。目标必须在效果区域内每回合进行 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则会变得 [恶心](Nauseous_(Condition).md "Nauseous (Condition)")。
+**臭云术** 是一个 [法术](Spells.md "法术")。它允许施法者创造一团令人作呕的气体，可以阻止生物采取动作。目标必须在效果区域内每回合进行 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则会变得 [恶心](Nauseous_(Condition).md "Nauseous (Condition)")。
 
 ## 描述
 
@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "Actions") + [等级 3 法术位](Spells.md#Spell_slots "Spells")
 详情
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米（60 英尺）
 创造区域：臭云术
 [专注](Concentration.md "Concentration")
@@ -46,7 +46,7 @@ UID
 
 **[恶心](Nauseous_(Condition).md "Nauseous (Condition)")**
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 无法采取 [动作](Action.md "Action")
 

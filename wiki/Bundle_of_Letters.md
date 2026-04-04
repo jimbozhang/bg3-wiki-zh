@@ -1,6 +1,6 @@
 # 一捆信件
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Bundle_of_Letters.md "Special:WhatLinksHere/Bundle of Letters")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[一捆信件](Special_colon_WhatLinksHere/Bundle_of_Letters.md "一捆信件")的，请考虑编辑该链接，将其指向正确的页面。
 
 **一捆信件**可能指：
 

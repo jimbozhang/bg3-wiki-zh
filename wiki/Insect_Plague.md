@@ -2,11 +2,11 @@
 
 本文介绍的是法术。其他用法，请参见[虫群瘟疫（消歧义）](Insect_Plague_(disambiguation)..md)
 
-**虫群瘟疫**是一个[5环咒法学派法术](Spells.md "Spells")。它允许施法者在战场的一部分区域创造一个具有伤害和削弱效果的昆虫群。
+**虫群瘟疫**是一个[法术](Spells.md "法术")。它允许施法者在战场的一部分区域创造一个具有伤害和削弱效果的昆虫群。
 
 ## 描述
 
-蝗虫攻击范围内的所有人，使该区域成为[劣势地形](Difficult_Terrain.md "Difficult_Terrain")，并对[察觉技能](Perception.md "Perception")的[检定](Ability_Check.md "Ability Check")施加[劣势](Disadvantage.md "Disadvantage")。
+蝗虫攻击范围内的所有人，使该区域成为[劣势地形](Difficult_Terrain.md "Difficult_Terrain")，并对[察觉技能](Perception.md "Perception")的[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "Disadvantage")。
 
 ## 属性
 
@@ -53,7 +53,7 @@ UID
 
 **\_(状态)[虫群瘟疫](Insect_Plague_(Aura)_(Condition).md "虫群瘟疫 (光环) (状态)")**
 
-- 成群的咬人蝗虫充斥空中。它们每回合造成4d10⁠⁠[穿刺](Piercing.md "Piercing")伤害，使该区域成为[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")，并对[察觉技能](Perception.md "Perception")的[检定](Ability_Check.md "Ability Check")施加[劣势](Disadvantage.md "Disadvantage")。
+- 成群的咬人蝗虫充斥空中。它们每回合造成4d10⁠⁠[穿刺](Piercing.md "Piercing")伤害，使该区域成为[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")，并对[察觉技能](Perception.md "Perception")的[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "Disadvantage")。
 
 ## 学习方式
 

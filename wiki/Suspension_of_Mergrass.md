@@ -1,6 +1,6 @@
 # 芒草悬液
 
-**芒草悬液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以创造[读心药水](Potion_of_Mind_Reading.md "读心药水")。
+**芒草悬液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以创造[读心药水](Potion_of_Mind_Reading.md "读心药水")。
 
 将少许物质触碰嘴唇，你开始听到沉闷的脉动声——附近人们思绪的点滴。
 

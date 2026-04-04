@@ -1,6 +1,6 @@
 # 墓地蓝火把
 
-**火把**可作为[光源](Category_colon_Light_Sources.md "Category:Light Sources")使用，并可兼作[短棒](Clubs.md "Clubs")家族的即兴武器。它是一种单手挥舞的[简易近战武器](Weapons.md "Weapons")。它是一种[轻型](Light.md "Light")武器，任何人都无需特殊训练即可双持。若正确接触，可点燃易燃的地表或云。
+**火把**可作为[光源](Category_colon_Light_Sources.md "Category:Light Sources")使用，并可兼作[短棒](Clubs.md "Clubs")家族的即兴武器。它是一种单手挥舞的[武器](Weapons.md "武器")。它是一种[轻型](Light.md "Light")武器，任何人都无需特殊训练即可双持。若正确接触，可点燃易燃的地表或云。
 
 一股浓重的油味从这根粗糙的树枝上飘散开来。
 

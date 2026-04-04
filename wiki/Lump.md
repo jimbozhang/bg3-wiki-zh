@@ -82,15 +82,15 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**食人魔印记**](Ogre's_Mark.md "Ogre's Mark")
+- [食人魔印记](Ogre's_Mark.md "食人魔印记")
 
 伤害增加 1d6。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -148,15 +148,15 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**食人魔印记**](Ogre's_Mark.md "Ogre's Mark")
+- [食人魔印记](Ogre's_Mark.md "食人魔印记")
 
 伤害增加 1d6。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -214,15 +214,15 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**食人魔印记**](Ogre's_Mark.md "Ogre's Mark")
+- [食人魔印记](Ogre's_Mark.md "食人魔印记")
 
 伤害增加 1d6。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -256,15 +256,15 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 伙伴好感度](#companion-approval)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-  - [3.3 战术](#tactics)
-- [4 注释与参考](#notes-and-references)
-- [5 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+  - [3.3 战术](#战术)
+- [4 注释与参考](#注释与参考)
+- [5 外部链接](#外部链接)
 
 ## 出场
 
@@ -293,9 +293,9 @@ Stats
 - [游说] 我会用倒下敌人的血肉支付你——你会吃饱的。[DC 20]<sup>[\[2\]](#cite_note-notteased-2)</sup>
 - [圣武士] [威吓] 为我和我的誓言而战，否则我就从你肚子里切出最后一餐。(DC 20)
 
-如果朗普同意为冒险队伍效力，他会提供 [朗普的战争号角](Lump's_War_Horn.md "Lump's War Horn")，使用三次可召唤朗普及其两名食人魔同伴。他和他的食人魔同伴会离开染疫村落，如果冒险队伍没有走得太远，可以召唤他们。例如，号角无法在 [幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed_Lands") 使用。如果冒险队伍 [扒窃](Sleight_of_Hand.md "Sleight of Hand") 了他的号角，吹响号角会导致与食人魔的战斗，因为朗普推断号角是从他那里偷来的。
+如果朗普同意为冒险队伍效力，他会提供 [朗普的战争号角](Lump's_War_Horn.md "Lump's War Horn")，使用三次可召唤朗普及其两名食人魔同伴。他和他的食人魔同伴会离开染疫村落，如果冒险队伍没有走得太远，可以召唤他们。例如，号角无法在 [幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed_Lands") 使用。如果冒险队伍 [巧手](Sleight_of_Hand.md "巧手") 了他的号角，吹响号角会导致与食人魔的战斗，因为朗普推断号角是从他那里偷来的。
 
-如果承诺了金币，朗普会在第一次战斗后收取，此时可以支付他、攻击他，或通过 DC 15 [欺瞒](Deception.md "Deception") [检定](Ability_Check.md "Ability check") 说服他等待下一场战斗后支付 2500 金币。
+如果承诺了金币，朗普会在第一次战斗后收取，此时可以支付他、攻击他，或通过 DC 15 [欺瞒](Deception.md "Deception") [属性检定](Ability_Check.md "属性检定") 说服他等待下一场战斗后支付 2500 金币。
 
 如果朗普被承诺了金币但从未被召唤，他最终会出现在营地收取，冒险队伍可以支付他或威吓他离开：
 
@@ -359,7 +359,7 @@ Stats
 
 \+ 2d4⁠[强酸](Acid.md "Acid")
 
-射出一支绿色箭矢，在酸液喷雾中爆裂。立即造成 ⁠[4d4 强酸](Acid.md "Acid") 伤害，并在目标下一回合结束时造成 ⁠[2d4 强酸](Acid.md "Acid") 伤害。
+射出一支绿色箭矢，在酸液喷雾中爆裂。立即造成 ⁠[强酸](Acid.md "强酸") 伤害，并在目标下一回合结束时造成 ⁠[强酸](Acid.md "强酸") 伤害。
 
 如果法术未命中，目标仍承受一半初始伤害，但在其下一回合结束时不会受到伤害。
 

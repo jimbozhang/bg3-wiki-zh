@@ -91,11 +91,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在一定距离内于黑暗中视物。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
@@ -103,23 +103,23 @@
 
 此物品在 6 米 / 20 英尺 的半径范围内发出发光的光芒。
 
-- [**闪光舞者**](Gleamdancer.md "Gleamdancer")
+- [闪光舞者](Gleamdancer.md "闪光舞者")
 
 当此匕首在副手挥舞时，挥舞者获得 +1 的 [护甲等级](Armour_Class.md "Armour Class") 加值。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的 [豁免检定](Saving_throws.md "Saving Throws") 上具有 [优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用 [反应](Reaction.md "Reaction") 将受到的命中伤害减半。
 
@@ -167,11 +167,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在一定距离内于黑暗中视物。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
@@ -179,23 +179,23 @@
 
 此物品在 6 米 / 20 英尺 的半径范围内发出发光的光芒。
 
-- [**闪光舞者**](Gleamdancer.md "Gleamdancer")
+- [闪光舞者](Gleamdancer.md "闪光舞者")
 
 当此匕首在副手挥舞时，挥舞者获得 +1 的 [护甲等级](Armour_Class.md "Armour Class") 加值。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的 [豁免检定](Saving_throws.md "Saving Throws") 上具有 [优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用 [反应](Reaction.md "Reaction") 将受到的命中伤害减半。
 
@@ -243,11 +243,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在一定距离内于黑暗中视物。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
@@ -255,23 +255,23 @@
 
 此物品在 6 米 / 20 英尺 的半径范围内发出发光的光芒。
 
-- [**闪光舞者**](Gleamdancer.md "Gleamdancer")
+- [闪光舞者](Gleamdancer.md "闪光舞者")
 
 当此匕首在副手挥舞时，挥舞者获得 +1 的 [护甲等级](Armour_Class.md "Armour Class") 加值。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的 [豁免检定](Saving_throws.md "Saving Throws") 上具有 [优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用 [反应](Reaction.md "Reaction") 将受到的命中伤害减半。
 
@@ -301,19 +301,19 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 死者交谈](#speak-with-dead)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-  - [3.3 盟友](#allies)
-- [4 相关任务](#related-quests)
-- [5 注释与参考](#notes-and-references)
-- [6 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 死者交谈](#死者交谈)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+  - [3.3 盟友](#盟友)
+- [4 相关任务](#相关任务)
+- [5 注释与参考](#注释与参考)
+- [6 外部链接](#外部链接)
 
 ## 出场
 
-法尔林可以在 [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing") 的 [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") 以西的 [西滩](Western_Beach.md "Western Beach") 遇到，位置在 X: -212 Y: Y:87，处于 [第三幕](Act_Three.md "Act Three")。她和一群 [公会](Guild.md "Guild") 成员正在与 [石王的](Minsc.md "Minsc") 船员（由 [卡利欧斯](Ca%C3%AFros.md "Caïros") 带领）在 [月出之塔](Moonrise_Towers.md "Moonrise Towers") 的一艘停泊船只附近争吵，可通过在 [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") 和 [慈爱神殿](Open_Hand_Temple.md "Open Hand Temple") 之间向西走的小路到达。
+法尔林可以在 [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing") 的 [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") 以西的 [西滩](Western_Beach.md "Western Beach") 遇到，位置在 X: -212 Y: Y:87，处于 [第三幕](Act_Three.md "Act Three")。她和一群 [公会](Guild.md "Guild") 成员正在与 [明斯克](Minsc.md "明斯克") 船员（由 [卡利欧斯](Ca%C3%AFros.md "Caïros") 带领）在 [月出之塔](Moonrise_Towers.md "Moonrise Towers") 的一艘停泊船只附近争吵，可通过在 [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") 和 [慈爱神殿](Open_Hand_Temple.md "Open Hand Temple") 之间向西走的小路到达。
 
 当接近这两群人时，法尔林请求帮助对抗石王的手下，并承诺公会会支付报酬。如果同意帮助，公会将加入队伍，与石王的手下战斗。这样做会使拥有 [罪犯](Criminal.md "Criminal") 背景的队伍成员获得激励点 [堆叠牌组](Criminal.md#Stacking_the_Deck "Criminal")。
 
@@ -399,7 +399,7 @@ UUID
 
 [不死生物](Undead.md "Undead") 和 [构装生物](Constructs.md "Constructs") 无法获得开放伤口。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 

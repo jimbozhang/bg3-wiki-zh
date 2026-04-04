@@ -4,12 +4,12 @@
 
 ## 目录
 
-- [1 手部装备列表](#list-of-handwear)
-  - [1.1 非护甲类](#non-armour)
-  - [1.2 轻甲类](#light)
-  - [1.3 中甲类](#medium)
-  - [1.4 重甲类](#heavy)
-  - [1.5 遗留内容](#legacy-content)
+- [1 手部装备列表](#手部装备列表)
+  - [1.1 非护甲类](#非护甲类)
+  - [1.2 轻甲类](#轻甲类)
+  - [1.3 中甲类](#中甲类)
+  - [1.4 重甲类](#重甲类)
+  - [1.5 遗留内容](#遗留内容)
 
 ## 手部装备列表
 
@@ -46,13 +46,13 @@
 | [偷窃手套](Gloves_of_Thievery.md "偷窃手套") | 0.5 公斤 / 1 磅 | 60 | [巧手](Sleight_of_Hand.md "巧手")检定具有[优势](Advantage.md "优势")。 |
 | [地狱骑士的骄傲](Hellrider's_Pride.md "地狱骑士的骄傲") | 0.5 公斤 / 1 磅 | 110 | [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 [海姆的庇护](Helm's_Protection.md "海姆的庇护")当你治疗另一个生物时，它获得对武器攻击造成的[钝击](Bludgeoning.md "钝击")、[穿刺](Piercing.md "穿刺")和[挥砍](Slashing.md "挥砍")伤害的[抗性](Resistance.md "抗性")，持续2回合[[参见：错误](Helm's_Protection#Bugs.md#Bugs "海姆的庇护")]。 |
 | [草药师手套](Herbalist's_Gloves.md "草药师手套") | 0.5 公斤 / 1 磅 | 90 | [净化之触](Cleansing_Touch.md "净化之触")如果穿戴者治疗一个[中毒](Poisoned_(Condition).md "中毒（状态）")的生物，该生物不再中毒。 |
-| [腐液手套](Ichorous_Gloves.md "腐液手套") | 0.5 公斤 / 1 磅 | 90 | [腐液侵蚀](Ichorous_Corrosion.md "腐液侵蚀")当穿戴者造成[酸蚀](Acid.md "酸蚀")伤害时，他们还会对目标施加[有毒烟雾](Noxious_Fumes_(Condition).md "有毒烟雾（状态）")。 |
+| [腐液手套](Ichorous_Gloves.md "腐液手套") | 0.5 公斤 / 1 磅 | 90 | [腐液侵蚀](Ichorous_Corrosion.md "腐液侵蚀")当穿戴者造成[强酸](Acid.md "强酸")伤害时，他们还会对目标施加[有毒烟雾](Noxious_Fumes_(Condition).md "有毒烟雾（状态）")。 |
 | [灵指手套](Knock_Knuckle_Gloves.md "灵指手套") | 0.5 公斤 / 1 磅 | 90 | [巧手](Sleight_of_Hand.md "巧手") +1 [敲击术](Knock.md "敲击术")() 施放为2环法术（[长休](Long_Rest.md "长休")后充能。） |
 | [发光手套](Luminous_Gloves.md "发光手套") | 0.5 公斤 / 1 磅 | 110 | [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 [光耀法球手套](Radiating_Orb_Gloves.md "光耀法球手套")当穿戴者造成[光耀](Radiant.md "光耀")伤害时，目标获得2回合的[光耀法球](Radiating_Orb_(Condition).md "光耀法球（状态）")。 |
 | [理智之握](Reason's_Grasp.md "理智之握") | 0.5 公斤 / 1 磅 | 90 | [保持戒备](Ever_Vigilant.md "保持戒备")当穿戴者选择[结束狂暴](End_Rage.md "结束狂暴")时，他们获得15点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
 | [奥术热能手套](Thermoarcanic_Gloves.md "奥术热能手套") | 0.5 公斤 / 1 磅 | 90 | [奥术灰烬](Arcane_Ashes.md "奥术灰烬")每当你造成[火焰](Fire.md "火焰")伤害时，你获得2回合的[热能](Heat_(Condition).md "热能（状态）")。 |
 | [不幸窃贼手套](Unlucky_Thief's_Gloves.md "不幸窃贼手套") | 0.5 公斤 / 1 磅 | 1 | [巧手](Sleight_of_Hand.md "巧手") +2 每偷窃一件物品，为穿戴者的物品栏添加一块[木炭](Charcoal.md "木炭")。偷窃20次后，下一次偷窃将添加一个[煤桶](Coal_Bucket.md "煤桶")，这会使玩家获得持续1回合的[燃烧](Burning_(Condition).md "燃烧（状态）")状态。 |
-| [寒冬之握](Winter's_Clutches.md "寒冬之握") | 0.5 公斤 / 1 磅 | 90 | [寒冬之握](Winter's_Clutches_(passive_feature).md "寒冬之握（被动特性）")当穿戴者造成[冷冻](Cold.md "冷冻")伤害时，对目标施加2回合的[冷冻](Encrusted_with_Frost_(Condition).md "冷冻（状态）")。 |
+| [寒冬之握](Winter's_Clutches.md "寒冬之握") | 0.5 公斤 / 1 磅 | 90 | [寒冬之握](Winter's_Clutches_(passive_feature).md "寒冬之握（被动特性）")当穿戴者造成[寒冷](Cold.md "寒冷")伤害时，对目标施加2回合的[冷冻](Encrusted_with_Frost_(Condition).md "冷冻（状态）")。 |
 | [防御护腕](Bracers_of_Defence.md "防御护腕") | 0.5 公斤 / 1 磅 | 160 | [筑起壁垒](Become_the_Bulwark.md "筑起壁垒")只要你没有穿戴[护甲](Armour.md "护甲")或手持[盾牌](Shields.md "盾牌")，你获得+2的[护甲等级](Armour_Class.md "护甲等级")加值。 |
 | [额叶堡垒手套](Cerebral_Citadel_Gloves.md "额叶堡垒手套") | 0.5 公斤 / 1 磅 | 290 | [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 [灵吸怪狂喜](Illithid_Euphoria.md "灵吸怪狂喜")[魅惑](Charmed_(Condition).md "魅惑（状态）")或[恐吓](Frightened_(Condition).md "恐吓（状态）")一个生物以获得1d4的[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")加值。 |
 | [飞灰手套](Cindersnap_Gloves.md "飞灰手套") | 0.5 公斤 / 1 磅 | 240 | [防魔法飞弹](Protection_from_Missiles.md "防魔法飞弹")() 施放为2环法术（[短休](Short_rest.md "短休")后充能。） |
@@ -72,13 +72,13 @@
 | [詹尼尔的手套](Jhannyl's_Gloves.md "詹尼尔的手套") | 0.5 公斤 / 1 磅 | 240 | [豁免检定](Saving_throw.md "豁免检定") +1 [对抗邪恶](Defy_Villainy.md "对抗邪恶")当穿戴者变为[目盲](Blinded_(Condition).md "目盲（状态）")、[麻痹](Paralysed_(Condition).md "麻痹（状态）")或[中毒](Poisoned_(Condition).md "中毒（状态）")时，他们会自动对自己施放[恢复](Lesser_Restoration.md "恢复")。 |
 | [界限突破手套](Martial_Exertion_Gloves.md "界限突破手套") | 0.5 公斤 / 1 磅 | 160 | [界限突破](Martial_Exertion.md "界限突破")突破你的身体极限，承受6d6[穿刺](Piercing.md "穿刺")伤害以获得每回合一次额外攻击，并使你的[移动速度](Movement_speed.md "移动速度")翻倍。（[短休](Short_rest.md "短休")后充能。） |
 | [灵指手套](Nimblefinger_Gloves.md "灵指手套") | 0.5 公斤 / 1 磅 | 160 | [巧手](Sleight_of_Hand.md "巧手") +1 [灵巧手指](Nimblefinger.md "灵巧手指")[侏儒](Gnome.md "侏儒")获得+2的[敏捷](Dexterity.md "敏捷")。[半身人](Halfling.md "半身人")和[矮人](Dwarf.md "矮人")获得+1敏捷。 |
-| [投毒者的手套](Poisoner's_Gloves.md "投毒者的手套") | 0.5 公斤 / 1 磅 | 240 | [施毒](Envenom.md "施毒")每当你造成[毒素](Poison.md "毒素")伤害时，目标需要通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则变为[中毒](Poisoned_(Condition).md "中毒（状态）")。 |
+| [投毒者的手套](Poisoner's_Gloves.md "投毒者的手套") | 0.5 公斤 / 1 磅 | 240 | [施毒](Envenom.md "施毒")每当你造成[中毒](Poison.md "中毒")伤害时，目标需要通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则变为[中毒](Poisoned_(Condition).md "中毒（状态）")。 |
 | [渡鸦手套](Raven_Gloves.md "渡鸦手套") | 0.5 公斤 / 1 磅 | 160 | [召唤渡鸦科斯](Summon_Quothe_the_Raven.md "召唤渡鸦科斯")() 召唤一个渡鸦使魔，可以用喙使敌人目盲。（[短休](Short_rest.md "短休")后充能。） |
 | [拳击天使](Seraphic_Pugilist_Gloves.md "拳击天使") | 0.5 公斤 / 1 磅 | 240 | [曳光弹](Guiding_Bolt.md "曳光弹")() 施放为4环法术（[长休](Long_Rest.md "长休")后充能。）[天使重拳](Angelclocker_Knuckles.md "天使重拳")你的徒手攻击额外造成1d4[光耀](Radiant.md "光耀")伤害。 |
-| [黑色之手侍从手套](Servitor_of_the_Black_Hand_Gloves.md "黑色之手侍从手套") | 0.5 公斤 / 1 磅 | 240 | [恐惧术](Fear.md "恐惧术")() 施放为3环法术（[长休](Long_Rest.md "长休")后充能。）[削弱一击](Enervating_Suffusion.md "削弱一击")你的徒手攻击额外造成1d4[力场](Force.md "力场")伤害。 |
-| [雪尘修道院手套](Snow-Dusted_Monastery_Gloves.md "雪尘修道院手套") | 0.5 公斤 / 1 磅 | 450 | [冰刃术](Ice_Knife.md "冰刃术")() 施放为3环法术（[长休](Long_Rest.md "长休")后充能。）[寒冰打击](Chilling_Strike.md "寒冰打击")你的徒手攻击额外造成1d4[冷冻](Cold.md "冷冻")伤害。 |
+| [黑色之手侍从手套](Servitor_of_the_Black_Hand_Gloves.md "黑色之手侍从手套") | 0.5 公斤 / 1 磅 | 240 | [恐惧](Fear.md "恐惧")() 施放为3环法术（[长休](Long_Rest.md "长休")后充能。）[削弱一击](Enervating_Suffusion.md "削弱一击")你的徒手攻击额外造成1d4[力场](Force.md "力场")伤害。 |
+| [雪尘修道院手套](Snow-Dusted_Monastery_Gloves.md "雪尘修道院手套") | 0.5 公斤 / 1 磅 | 450 | [冰刃术](Ice_Knife.md "冰刃术")() 施放为3环法术（[长休](Long_Rest.md "长休")后充能。）[寒冰打击](Chilling_Strike.md "寒冰打击")你的徒手攻击额外造成1d4[寒冷](Cold.md "寒冷")伤害。 |
 | [法术搜寻手套](Spellseeking_Gloves.md "法术搜寻手套") | 0.5 公斤 / 1 磅 | 160 | [搜寻法术](Seeking_Spell.md "搜寻法术")当你进行[法术攻击掷骰](Spell_Attack_Roll.md "法术攻击掷骰")时，你可以消耗1个[术法点](Sorcery_Point.md "术法点")以获得[优势](Advantage.md "优势")。每环法术位消耗1个术法点。[戏法](Cantrip.md "戏法")消耗1个术法点。 |
-| [追猎者](Stalker_Gloves.md "追猎者") | 0.5 公斤 / 1 磅 | 400 | [鲜少措手不及](Seldom_Caught_Unawares_(+1).md "鲜少措手不及（+1）")你获得+1的[先攻掷骰](Initiative.md "先攻掷骰")加值。[阴招](Skullduggery_Attack.md "阴招")你的[偷袭](Sneak_Attack.md "偷袭")额外造成1d4[力场](Force.md "力场")[DRS](Damage_rider_as_source.md "伤害来源")伤害。 |
+| [追猎者](Stalker_Gloves.md "追猎者") | 0.5 公斤 / 1 磅 | 400 | [鲜少措手不及](Seldom_Caught_Unawares_(+1).md "鲜少措手不及（+1）")你获得+1的[先攻](Initiative.md "先攻")加值。[阴招](Skullduggery_Attack.md "阴招")你的[偷袭](Sneak_Attack.md "偷袭")额外造成1d4[力场](Force.md "力场")[DRS](Damage_rider_as_source.md "伤害来源")伤害。 |
 | [剑圣手套](Swordmaster_Gloves.md "剑圣手套") | 0.5 公斤 / 1 磅 | 160 | [刀剑精通](Sword_Mastery.md "刀剑精通")你获得[短剑](Shortswords.md "短剑")、[长剑](Longswords.md "长剑")和[巨剑](Greatswords.md "巨剑")的[熟练项](Proficiency.md "熟练项")。此外，你获得+1的近战[攻击掷骰](Attack_roll.md "攻击掷骰")加值。 |
 | [火花之手](The_Sparkle_Hands.md "火花之手") | 0.5 公斤 / 1 磅 | 110 | [导电攻击](Conductive_Strikes.md "导电攻击")徒手攻击命中时，穿戴者获得2点[闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）")。[高效导体](Effective_Transmitter.md "高效导体")当充满[闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）")时，对金属[构装生物](Construct.md "构装生物")和穿戴金属护甲的敌人的攻击获得[优势](Advantage.md "优势")。 |
 | [雷掌前锋](Thunderpalm_Strikers.md "雷掌前锋") | 0.5 公斤 / 1 磅 | 450 | [雷鸣波](Thunderwave.md "雷鸣波")() 施放为3环法术（[长休](Long_Rest.md "长休")后充能。）[轰鸣打击](Booming_Blows.md "轰鸣打击")你的徒手攻击额外造成1d4[雷鸣](Thunder.md "雷鸣")伤害。 |
@@ -95,7 +95,7 @@
 | [赫'拉克'尼尔护腕](Hr'a'cknir_Bracers.md "赫'拉克'尼尔护腕") | 0.5 公斤 / 1 磅 | 540 | [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 [心灵遥控](Telekinesis.md "心灵遥控")() 施放为5环法术（[短休](Short_rest.md "短休")后充能。）[瞬发法师之手](Quickened_Mage_Hand.md "瞬发法师之手")你可以将[法师之手](Mage_Hand.md "法师之手")作为[附赠动作](Actions#Resources.md#Resources "动作")施放。 |
 | [快速施法手套](Quickspell_Gloves.md "快速施法手套") | 0.5 公斤 / 1 磅 | 300 | [快速施法护圈](Quickspell_Flinger.md "快速施法护圈")消耗[动作](Actions#Resources.md#Resources "动作")的[戏法](Cantrip.md "戏法")改为消耗[附赠动作](Actions#Resources.md#Resources "动作")。此效果每[短休](Short_rest.md "短休")可使用一次。 |
 | [法威手套](Spellmight_Gloves.md "法威手套") | 0.5 公斤 / 1 磅 | 300 | [法术威力](Spellmight.md "法术威力")当你施放需要[攻击掷骰](Attack_roll.md "攻击掷骰")的法术时，你可以承受-5的掷骰减值以额外造成1d8伤害。 |
-| [灵魂捕捉手套](Gloves_of_Soul_Catching.md "灵魂捕捉手套") | 0.5 公斤 / 1 磅 | 960 | [体质](Constitution.md "体质") +2，最高至20。[灵魂之拳](Soul_Fist.md "灵魂之拳")你的徒手攻击额外造成1d10[力场](Force.md "力场")伤害。[灵魂捕捉](Soul_Catching.md "灵魂捕捉")每回合一次，在徒手命中时，你恢复10[生命值](Healing.md "生命值")。或者，你可以放弃治疗，在你的下一回合结束前获得+5的[攻击掷骰](Attack_roll.md "攻击掷骰")或[豁免检定](Saving_throw.md "豁免检定")加值。[[参见：错误](Soul_Catching#Bugs.md#Bugs "灵魂捕捉")] |
+| [灵魂捕捉手套](Gloves_of_Soul_Catching.md "灵魂捕捉手套") | 0.5 公斤 / 1 磅 | 960 | [体质](Constitution.md "体质") +2，最高至20。[灵魂之拳](Soul_Fist.md "灵魂之拳")你的徒手攻击额外造成1d10[力场](Force.md "力场")伤害。[灵魂捕捉](Soul_Catching.md "灵魂捕捉")每回合一次，在徒手命中时，你恢复10[治疗](Healing.md "治疗")。或者，你可以放弃治疗，在你的下一回合结束前获得+5的[攻击掷骰](Attack_roll.md "攻击掷骰")或[豁免检定](Saving_throw.md "豁免检定")加值。[[参见：错误](Soul_Catching#Bugs.md#Bugs "灵魂捕捉")] |
 
 ### 轻甲类
 

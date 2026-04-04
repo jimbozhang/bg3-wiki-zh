@@ -77,7 +77,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -121,7 +121,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -165,7 +165,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -183,7 +183,7 @@ UUID
 
 属性
 
-`Human_Child` **报纸小贩查拉那**是[博德之门](Baldur's_Gate.md "Baldur's Gate")中一个在[第三幕](Act_Three.md "Act Three")贩卖[报纸](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")的人类孩童。
+`Human_Child` **报纸小贩查拉那**是[博德之门](Baldur's_Gate.md "Baldur's Gate")中一个在[第三幕](Act_Three.md "Act Three")贩卖[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")的人类孩童。
 
 > “
 >

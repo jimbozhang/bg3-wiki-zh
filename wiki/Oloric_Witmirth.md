@@ -51,7 +51,7 @@ UUID
 
 奥洛瑞克出现在桌面冒险《⁠[博德之门：炼狱陷落](https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate:_Descent_into_Avernus)》中提供的精灵之歌酒馆常客角色列表中，他被描述为“一位贫穷的剧作家，在一本小书中潦草地写下他的私人想法和观察”。在《博德之门3》中，他的境遇似乎没有改变。
 
-他可以被发现坐在一张桌子旁，手里拿着一份[哀伤之邸](House_of_Grief.md "哀伤之邸")的小册子——[放下重担](Surrender_your_Burdens.md "放下重担")，他似乎不确定自己是否真的认识玩家角色。[客户清单](Client_List.md "客户清单")证实，根据[心灵映射](Mapping_of_the_Heart.md "心灵映射")的结果，他被确定为拥有“[忧郁之心](Warming_the_Melancholy_Heart.md "温暖忧郁之心")”，并且他的记忆已被移除。《炼狱陷落》中的事件可能太过创伤。
+他可以被发现坐在一张桌子旁，手里拿着一份[哀伤之邸](House_of_Grief.md "哀伤之邸")的小册子——[放下重担](Surrender_your_Burdens.md "放下重担")，他似乎不确定自己是否真的认识玩家角色。[客户清单](Client_List.md "客户清单")证实，根据[心灵映射](Mapping_of_the_Heart.md "心灵映射")的结果，他被确定为拥有“[温暖忧郁之心](Warming_the_Melancholy_Heart.md "温暖忧郁之心")”，并且他的记忆已被移除。《炼狱陷落》中的事件可能太过创伤。
 
 ---
 *Source: [Oloric Witmirth](https://bg3.wiki/wiki/Oloric_Witmirth)*

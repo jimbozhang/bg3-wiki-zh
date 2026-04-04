@@ -79,15 +79,15 @@
 - - -
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -134,15 +134,15 @@
 - - -
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -189,23 +189,23 @@
 - - -
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**腐蚀攻击**](Caustic_Strikes.md "腐蚀攻击")
+- [腐蚀攻击](Caustic_Strikes.md "腐蚀攻击")
 
 此生物的攻击造成额外 4d8⁠⁠[强酸](Acid.md "强酸")伤害，并可能施加[麻痹](Paralysed.md "麻痹")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -235,23 +235,23 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第二幕](#act-two)
-  - [1.3 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力（第二幕）](#attacks-and-abilities-(Act_2))
-  - [2.2 攻击与能力（第三幕）](#attacks-and-abilities-(Act_3))
-  - [2.3 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 错误](#bugs)
-- [5 注释](#notes)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第二幕](#第二幕)
+  - [1.3 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力（第二幕）](#攻击与能力第二幕))
+  - [2.2 攻击与能力（第三幕）](#攻击与能力第三幕))
+  - [2.3 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 错误](#错误)
+- [5 注释](#注释)
 
 ## 出场
 
 ### 第一幕
 
-经过古怪公牛时会触发 DC 10 [洞悉](Insight.md "洞悉") [检定](Ability_Check.md "属性检定")以注意到其异常行为。通过检定的角色可以通过[动物交谈](Speak_with_Animals.md "动物交谈")或[动物交谈药水](Potion_of_Animal_Speaking.md "动物交谈药水")与古怪公牛对话，并进行 DC 10 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")以进一步调查：
+经过古怪公牛时会触发 DC 10 [洞悉](Insight.md "洞悉") [属性检定](Ability_Check.md "属性检定")以注意到其异常行为。通过检定的角色可以通过[动物交谈](Speak_with_Animals.md "动物交谈")或[动物交谈药水](Potion_of_Animal_Speaking.md "动物交谈药水")与古怪公牛对话，并进行 DC 10 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")以进一步调查：
 
 - [奥秘] _这头公牛让你感到不安。试着找出原因。_ (DC 10)
 - [奥秘] _这头公牛有些奇怪。它是什么？_ (DC 10) (使用动物交谈)
@@ -260,7 +260,7 @@ UUID
 
 该神秘生物呈现为一种罕见的红背河牛。
 
-队伍必须成功通过 DC 10 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")、DC 10 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")或 DC 10 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定")以迫使公牛揭示其秘密。成功后，公牛会告诉队伍它正前往博德之门，但拒绝进一步详述。
+队伍必须成功通过 DC 10 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")、DC 10 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")或 DC 10 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定")以迫使公牛揭示其秘密。成功后，公牛会告诉队伍它正前往博德之门，但拒绝进一步详述。
 
 在第一幕攻击古怪公牛会导致其看护者[托龙](Toron.md "托龙")和邻近的公牛变得敌对。公牛在受伤时会滴下[强酸](Acid_(surface).md "强酸（地表）")。死亡时，它会掉落一个[守卫刻文：强酸](Glyph_of_Warding_colon__Acid.md "守卫刻文：强酸")，立即爆炸造成 8d8⁠⁠[强酸](Acid.md "强酸")伤害。
 
@@ -274,7 +274,7 @@ UUID
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -327,15 +327,15 @@ UUID
 - - -
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -378,15 +378,15 @@ UUID
 - - -
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -429,27 +429,27 @@ UUID
 - - -
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**腐蚀攻击**](Caustic_Strikes.md "腐蚀攻击")
+- [腐蚀攻击](Caustic_Strikes.md "腐蚀攻击")
 
 此生物的攻击造成额外 4d8⁠⁠[强酸](Acid.md "强酸")伤害，并可能施加[麻痹](Paralysed.md "麻痹")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-走向[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")马厩中的古怪公牛时，会触发 DC 10 [洞悉](Insight.md "洞悉") [检定](Ability_Check.md "属性检定")以回忆玩家角色是否之前见过它。通过此检定并非与古怪公牛对话的必要条件。使用[动物交谈](Speak_with_Animals.md "动物交谈")，队伍可以继续从[翠绿林地](Emerald_Grove.md "翠绿林地")开始的对话。无论如何，交互的队伍成员必须通过属性检定才能继续：
+走向[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")马厩中的古怪公牛时，会触发 DC 10 [洞悉](Insight.md "洞悉") [属性检定](Ability_Check.md "属性检定")以回忆玩家角色是否之前见过它。通过此检定并非与古怪公牛对话的必要条件。使用[动物交谈](Speak_with_Animals.md "动物交谈")，队伍可以继续从[翠绿林地](Emerald_Grove.md "翠绿林地")开始的对话。无论如何，交互的队伍成员必须通过属性检定才能继续：
 
 - [游说] 得了吧，现在你勾起了我的好奇心... (DC 14)
 - [察觉] 你是我之前在林地遇到的那头公牛。那时你非常饥饿；我救了你们所有人，现在你有食物了。 (DC 14) (如果之前用动物交谈过)
@@ -467,7 +467,7 @@ UUID
 
 ### 第三幕
 
-如果古怪公牛存活到[第三幕](Act_Three.md "第三幕")，可以在[利文顿](Rivington.md "利文顿")的 X: 36 Y: -149 处，强制征用的谷仓西边的山上遇到它。接近它会触发 DC 10 [洞悉](Insight.md "洞悉") [检定](Ability_Check.md "属性检定")以确认其相似性。这次，公牛很高兴见到队伍。它担心队伍的精神健康，因为之前的遭遇，但也许它只是在假装，因为它需要从队伍那里得到些什么。
+如果古怪公牛存活到[第三幕](Act_Three.md "第三幕")，可以在[利文顿](Rivington.md "利文顿")的 X: 36 Y: -149 处，强制征用的谷仓西边的山上遇到它。接近它会触发 DC 10 [洞悉](Insight.md "洞悉") [属性检定](Ability_Check.md "属性检定")以确认其相似性。这次，公牛很高兴见到队伍。它担心队伍的精神健康，因为之前的遭遇，但也许它只是在假装，因为它需要从队伍那里得到些什么。
 
 像以前一样，可以询问公牛其真实本性，像以前一样，这样做会导致它变形为其自然形态并变得敌对。任何其他对话路径都会导致启动⁠[帮助魔鬼牛](Help_the_Devilish_Ox.md "帮助魔鬼牛")。如果决定帮助，它会变成马厩地板上的一个苹果，可以拾取。当活跃队伍带着它进入[下城区](Lower_City.md "下城区")时，公牛会宣布：“哦嚯！谢谢你载我一程，我的朋友。真的非常感谢。再见！”任务随即结束，它消失，留下[变形者的恩赐之戒](Shapeshifter's_Boon_Ring.md "变形者的恩赐之戒")和[黏稠笔记](Slightly_Slimy_Note.md "黏稠笔记")。<sup>[\[6\]](#cite_note-6)</sup> 如果在与公牛交谈之前进入下城区，它会消失，任务无法开始。如果之前没有开始任务，公牛无法被招募用于⁠[召集盟友](Gather_Your_Allies.md "召集盟友")。<sup>[\[7\]](#cite_note-7)</sup>
 
@@ -532,15 +532,15 @@ UUID
 - - -
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -583,15 +583,15 @@ UUID
 - - -
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -634,23 +634,23 @@ UUID
 - - -
 ## 特性
 
-- [**盲视术**](Blindsight.md "盲视术")
+- [盲视术](Blindsight.md "盲视术")
 
 此生物无需依赖视觉即可感知周围环境。
 
-- [**腐蚀攻击**](Caustic_Strikes.md "腐蚀攻击")
+- [腐蚀攻击](Caustic_Strikes.md "腐蚀攻击")
 
 此生物的攻击造成额外 4d8⁠⁠[强酸](Acid.md "强酸")伤害，并可能施加[麻痹](Paralysed.md "麻痹")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可在徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

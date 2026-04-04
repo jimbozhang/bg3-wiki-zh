@@ -2,7 +2,7 @@
 
 此页面内容为 [荣誉模式](Honour_Mode.md "荣誉模式") 独占。
 
-**传奇动作：召唤配偶** 是 [枭熊母亲](Owlbear.md "枭熊") 在其 [巢穴](Owlbear_Nest.md "枭熊巢穴") 中于荣誉模式下可用的 [被动特性](Passive_feature.md "被动特性")。它使她能够使用 [召唤配偶](Call_Consort.md "召唤配偶") 来召唤她的 [配偶](Owlbear_Mate.md "枭熊配偶")，该配偶拥有相同的基础属性并可以使用 [睚眦必报的父亲](Vengeful_Father.md "睚眦必报的父亲")。
+**传奇动作：召唤配偶** 是 [枭熊](Owlbear.md "枭熊") 在其 [枭熊巢穴](Owlbear_Nest.md "枭熊巢穴") 中于荣誉模式下可用的 [被动特性](Passive_feature.md "被动特性")。它使她能够使用 [召唤配偶](Call_Consort.md "召唤配偶") 来召唤她的 [配偶](Owlbear_Mate.md "枭熊配偶")，该配偶拥有相同的基础属性并可以使用 [睚眦必报的父亲](Vengeful_Father.md "睚眦必报的父亲")。
 
 ## 描述
 

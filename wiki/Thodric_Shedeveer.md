@@ -78,19 +78,19 @@
 | --- | --- | --- |
 | [黄金](Gold.md "Gold") [[](#cite_note-poor_8_12-1 "[")1] | 144 - 576 | 总是 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -132,19 +132,19 @@
 | --- | --- | --- | --- |
 | 几率 | 1/3 | 1/3 | 1/3 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -189,19 +189,19 @@
 | [鱼](Fish.md "Fish") | 1 | 4/13 |
 | [鱼](Fish.md "Fish") | 1 | 4/13 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "Fire")具有[抗性](Resistant.md "Resistant")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -231,12 +231,12 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 语录](#quotes)
-- [3 商店](#shop)
-  - [3.1 黄金](#gold)
-  - [3.2 鱼](#fish)
-- [4 画廊](#gallery)
+- [1 出场](#出场)
+- [2 语录](#语录)
+- [3 商店](#商店)
+  - [3.1 黄金](#黄金)
+  - [3.2 鱼](#鱼)
+- [4 画廊](#画廊)
 
 ## 出场
 

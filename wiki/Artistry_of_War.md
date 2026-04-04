@@ -1,6 +1,6 @@
 # 战争艺术：战争艺术卷轴
 
-**战争艺术：战争艺术卷轴**是一个[5级塑能学派法术](Spells.md "Spells")。这是一个独特的法术，会发射一连串毁灭性的追踪弹丸，造成[力场](Force.md "Force")伤害。只有[法师](Wizard.md "Wizard")可以通过[抄录](Transcribing_scrolls.md "Transcribing scrolls")[独特卷轴](Scroll_of_Artistry_of_War.md "Scroll of Artistry of War")来学习这个法术。
+**战争艺术：战争艺术卷轴**是一个[法术](Spells.md "法术")。这是一个独特的法术，会发射一连串毁灭性的追踪弹丸，造成[力场](Force.md "Force")伤害。只有[法师](Wizard.md "Wizard")可以通过[抄录](Transcribing_scrolls.md "Transcribing scrolls")[战争艺术卷轴](Scroll_of_Artistry_of_War.md "战争艺术卷轴")来学习这个法术。
 
 ## 描述
 

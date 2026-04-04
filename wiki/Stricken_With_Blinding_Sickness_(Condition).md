@@ -2,7 +2,7 @@
 
 **失明症**
 
-- 灼痛的指甲刺入受影响实体的眼睛。它在[感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并且处于[目盲](Blinded_(Condition)状态.md)。
+- 灼痛的指甲刺入受影响实体的眼睛。它在[感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并且处于[目盲](Blinded_(Condition)状态.md)。
 
 [目盲](Blinded_(status_group).md), [患病](Diseased_(status_group).md)
 
@@ -22,7 +22,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 灼痛的指甲刺入受影响实体的眼睛。它在[感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并且处于[目盲](Blinded_(Condition)状态.md)。
+- 灼痛的指甲刺入受影响实体的眼睛。它在[感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并且处于[目盲](Blinded_(Condition)状态.md)。
 
 ---
 *Source: [Stricken With Blinding Sickness (Condition)](https://bg3.wiki/wiki/Stricken_With_Blinding_Sickness_(Condition)*

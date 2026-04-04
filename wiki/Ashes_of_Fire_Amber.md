@@ -1,6 +1,6 @@
 # 火焰琥珀灰
 
-**火焰琥珀灰**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[炼金火焰](Alchemist's_Fire.md "炼金火焰")。
+**火焰琥珀灰**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制造[炼金火焰](Alchemist's_Fire.md "炼金火焰")。
 
 当你用手指搅动这些灰烬时，噼啪作响、刺痛的火花会从中跃出——但灰烬本身却几乎冷得反常。
 

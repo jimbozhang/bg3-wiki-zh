@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏方式获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**驱散魔法**是[等级 3 防护学派法术](Spells.md "Spells")。此法术允许施法者驱散施加于角色或物体上的魔法。
+**驱散魔法**是[法术](Spells.md "法术")。此法术允许施法者驱散施加于角色或物体上的魔法。
 
 ## 描述
 

@@ -16,7 +16,7 @@
 
 **[棘墙术](Wall_of_Thorns_(Condition).md "棘墙术 (状态)")**
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 穿过柔韧扭曲的荆棘墙。
 

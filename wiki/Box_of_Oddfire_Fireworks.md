@@ -24,7 +24,7 @@
 
 持续时间：1 驱散
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 12）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 12）
 
 - 在[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")。攻击和法术的范围减少至 3 m (10 ft)。
 

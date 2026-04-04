@@ -97,11 +97,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -157,11 +157,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -217,15 +217,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型比你大的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -281,15 +281,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型比你大的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -319,18 +319,18 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 外部链接](#外部链接)
 
 ## 参与情况
 
 ### 第一幕
 
-邪术师古尔克可以在地精营地的主室外区域找到。如果队伍发起对话，古尔克会要求比较 [至上真神印记](Brand_of_the_Absolute.md "Brand of the Absolute")。如果角色没有印记，古尔克会鼓励他们去找 [女祭司迦特](Gut.md "Gut") 获得一个。
+邪术师古尔克可以在地精营地的主室外区域找到。如果队伍发起对话，古尔克会要求比较 [至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")。如果角色没有印记，古尔克会鼓励他们去找 [女祭司迦特](Gut.md "Gut") 获得一个。
 
 ## 战斗
 
@@ -362,7 +362,7 @@ UUID
 
 1d6⁠[黯蚀](Necrotic.md "Necrotic")
 
-使你的攻击对目标额外造成 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使其在你选择的 [属性](Ability_Scores.md "Ability Scores") 上获得 [劣势](Disadvantage.md "Disadvantage")。
+使你的攻击对目标额外造成 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使其在你选择的 [属性值](Ability_Scores.md "属性值") 上获得 [劣势](Disadvantage.md "Disadvantage")。
 
 如果目标在法术结束前死亡，你可以 [再度施展脆弱诅咒](Reapply_Hex.md "Reapply Hex") 到一个新生物上，而无需消耗 [法术位](Spells.md#Spell_Slots "Spells")。
 

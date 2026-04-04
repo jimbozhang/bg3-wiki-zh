@@ -1,6 +1,6 @@
 # 形塑：翼猫
 
-**形塑翼猫**是一个[等级 9 变化学派法术](Spells.md "Spells")。它将一个生物变形为[翼猫](https://forgottenrealms.fandom.com/wiki/Tressym)。
+**形塑翼猫**是一个[法术](Spells.md "法术")。它将一个生物变形为[翼猫](https://forgottenrealms.fandom.com/wiki/Tressym)。
 
 ## 描述
 

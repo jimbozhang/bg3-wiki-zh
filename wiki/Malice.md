@@ -40,7 +40,7 @@
 
 持续时间：直到成功通过[豁免检定](Saving_throw.md "豁免检定")
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
 
 - 受影响实体目盲且中毒。
 - 在[攻击掷骰](Attack_rolls.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，其攻击和法术范围缩小至 3 米 (10 英尺)。
@@ -63,7 +63,7 @@
 
 **[受怨恨影响](Stricken_with_Malice_(Condition).md "受怨恨影响（状态）")**
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 10)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 10)
 
 - 受影响实体目盲且中毒。
 - 在[攻击掷骰](Attack_rolls.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，其攻击和法术范围缩小至 3 米 (10 英尺)。

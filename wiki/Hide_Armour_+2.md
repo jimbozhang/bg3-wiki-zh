@@ -21,10 +21,10 @@
 穿着此物品者获得：
 
 [平衡](Balance.md "平衡")
-获得+1的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")和[检定](Ability_Check.md "检定")加值
+获得+1的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")和[属性检定](Ability_Check.md "属性检定")加值
 
 [伏击](Ambusher_(+1).md)
-获得+1的[先攻掷骰](Initiative.md "先攻")加值。
+获得+1的[先攻](Initiative.md "先攻")加值。
 
 ## 获取地点
 

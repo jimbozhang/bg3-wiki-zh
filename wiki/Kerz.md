@@ -73,19 +73,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**坚韧不屈**](Relentless_Endurance.md "坚韧不屈")
+- [坚韧不屈](Relentless_Endurance.md "坚韧不屈")
 
 生命值降至 0 时，恢复 1 点生命值，每[长休](Long_Rest.md "长休")一次。
 
-- [**凶蛮打击**](Savage_Attacks.md "凶蛮打击")
+- [凶蛮打击](Savage_Attacks.md "凶蛮打击")
 
 近战[重击](Critical_Hit.md "重击")时，额外投掷一个伤害骰。
 
@@ -121,10 +121,10 @@ UUID
 
 ## 目录
 
-- [1 背景故事](#backstory)
-- [2 成就](#achievements)
-- [3 备注](#notes)
-- [4 外部链接](#external-links)
+- [1 背景故事](#背景故事)
+- [2 成就](#成就)
+- [3 备注](#备注)
+- [4 外部链接](#外部链接)
 
 ## 背景故事
 

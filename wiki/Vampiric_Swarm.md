@@ -2,7 +2,7 @@
 
 此页面内容为 [荣誉模式](Honour_Mode.md "荣誉模式") 独占。
 
-**蝙蝠群** 是一个 [等级 6 咒法学派法术](Spells.md "Spells")。它在荣誉模式中作为 [卡扎多尔](Cazador.md "Cazador") 的 [传奇](Legendary.md "Legendary") [反应](Reaction.md "Reaction") 施放。队伍成员无法学习此法术。
+**蝙蝠群** 是一个 [法术](Spells.md "法术")。它在荣誉模式中作为 [卡扎多尔](Cazador.md "Cazador") 的 [传奇](Legendary.md "Legendary") [反应](Reaction.md "Reaction") 施放。队伍成员无法学习此法术。
 
 ## 描述
 
@@ -15,7 +15,7 @@
 12d12⁠[穿刺](Piercing.md "穿刺")
 
 详情
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：10 米（33 英尺）
 范围效果：5 米（17 英尺）立方体
 
@@ -39,7 +39,7 @@ UID
 
 持续时间：2 驱散
 
-- 受影响实体对 [穿刺](Piercing.md "穿刺") 伤害 [易伤](Vulnerable.md "易伤")，并且每驱散受到 4d8⁠⁠[穿刺](Piercing.md "穿刺") 伤害。当实体处于 **蝙蝠群围攻** 状态时，卡扎多尔每驱散会恢复 4d8⁠⁠[生命值](Healing.md "治疗")。
+- 受影响实体对 [穿刺](Piercing.md "穿刺") 伤害 [易伤](Vulnerable.md "易伤")，并且每驱散受到 4d8⁠⁠[穿刺](Piercing.md "穿刺") 伤害。当实体处于 **蝙蝠群围攻** 状态时，卡扎多尔每驱散会恢复 4d8⁠⁠[治疗](Healing.md "治疗")。
 
 ## 学习方式
 

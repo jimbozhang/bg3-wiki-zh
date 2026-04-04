@@ -1,6 +1,6 @@
 # 加速孢子升华物
 
-**加速孢子升华物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[精华](Alchemy.md#Extractions "炼金术")结合，以制造[加速孢子弹](Haste_Spore_Grenade.md "加速孢子弹")。
+**加速孢子升华物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[精华](Alchemy.md#Extractions "炼金术")结合，以制造[加速孢子弹](Haste_Spore_Grenade.md "加速孢子弹")。
 
 一阵微小的蘑菇形状的云朵在这升华物的表面嘶嘶作响并爆裂。
 

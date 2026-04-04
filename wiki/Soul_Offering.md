@@ -1,6 +1,6 @@
 # 灵魂奉献
 
-**灵魂奉献**是一个[等级 3 法术](Spells.md "Spells")。它允许[伊诺胡利齿豺狼人](Gnoll_Fang_of_Yeenoghu.md "Gnoll Fang of Yeenoghu")禁用目标生物的附赠动作或反应。队友无法学习此法术。
+**灵魂奉献**是一个[法术](Spells.md "法术")。它允许[伊诺胡利齿豺狼人](Gnoll_Fang_of_Yeenoghu.md "Gnoll Fang of Yeenoghu")禁用目标生物的附赠动作或反应。队友无法学习此法术。
 
 ## 描述
 

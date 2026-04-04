@@ -1,6 +1,6 @@
 # 获得魔宠：顽皮夸塞魔
 
-**获得魔宠：顽皮夸塞魔** 是一个 [1级咒法学派法术](Spells.md "Spells")。它是 [获得魔宠：夸塞魔](Find_Familiar_colon__Quasit.md "获得魔宠：夸塞魔") 的特殊版本，会召唤名为 [铲子](Shovel_(familiar).md) 的 [夸塞魔](Quasit.md "Quasit")。
+**获得魔宠：顽皮夸塞魔** 是一个 [法术](Spells.md "法术")。它是 [获得魔宠：夸塞魔](Find_Familiar_colon__Quasit.md "获得魔宠：夸塞魔") 的特殊版本，会召唤名为 [铲子](Shovel_(familiar).md) 的 [夸塞魔](Quasit.md "Quasit")。
 
 ## 描述
 

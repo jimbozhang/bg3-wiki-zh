@@ -1,6 +1,6 @@
 # 编织苔藓
 
-**编织苔藓**是一种[炼金术材料](Alchemy.md "炼金术")。将3个编织苔藓组合可制成[编织苔藓的污物](Vitriol_of_Weavemoss.md "编织苔藓的污物")，用于制作[奥术滋养灵药](Elixir_of_Arcane_Cultivation.md "奥术滋养灵药")。
+**编织苔藓**是一种[炼金术](Alchemy.md "炼金术")。将3个编织苔藓组合可制成[编织苔藓的污物](Vitriol_of_Weavemoss.md "编织苔藓的污物")，用于制作[奥术滋养灵药](Elixir_of_Arcane_Cultivation.md "奥术滋养灵药")。
 
 这种地衣俗称法师之须，能在魔网力量强大的地方生长。
 

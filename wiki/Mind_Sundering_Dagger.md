@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-**心灵割裂匕首**是[匕首](Daggers.md "Daggers")武器家族中一种不常见、轻度惑控（+1）的变体。它是一种单手挥舞的[简易近战武器](Weapons.md "Weapons")。作为一种[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷调整值，而不仅仅是力量。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。其设计非常适合作为投射物[投掷](Thrown.md "Thrown")向敌人。
+**心灵割裂匕首**是[匕首](Daggers.md "Daggers")武器家族中一种不常见、轻度惑控（+1）的变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为一种[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷调整值，而不仅仅是力量。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。其设计非常适合作为投射物[投掷攻击](Thrown.md "投掷攻击")向敌人。
 
 这把匕首轻如思绪，却惯于撕裂它们，造成剧痛，甚至偶尔致命。
 

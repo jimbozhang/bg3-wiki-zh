@@ -71,27 +71,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 对陷阱、法术、地表的敏捷豁免具有优势。不能处于目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 m / 10 ft。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 m (7 ft) 范围内且未[失能](Incapacitated_(Condition).md)，每回合一次可以在武器攻击中添加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

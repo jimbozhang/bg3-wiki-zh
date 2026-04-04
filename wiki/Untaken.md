@@ -4,7 +4,7 @@
 
 ### 阵营
 
-[安博里教会](Umberlee.md "安博里")
+[安博里](Umberlee.md "安博里")
 
 ## 属性
 
@@ -62,7 +62,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -102,7 +102,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -142,7 +142,7 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -156,11 +156,11 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 已知的黑暗破坏者](#known-dark-breakers)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 已知的黑暗破坏者](#已知的黑暗破坏者)
 
 ## 参与
 
@@ -189,7 +189,7 @@
 
 此法术可以在你[沉默](Silenced_(Condition).md "沉默（状态）")时施放。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：18 m (60 ft)
 
 [割裂](Lacerate.md "割裂") () – [镰刀](Sickle.md "镰刀")
@@ -202,7 +202,7 @@
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

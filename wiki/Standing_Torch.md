@@ -44,7 +44,7 @@
 
 在[第二章](Act_Two.md "第二章")的[废弃战场](Ruined_Battlefield.md "废弃战场")中，可以找到五支立式火炬，位置在 X: -49 Y: 36 附近。
 
-检查时，队伍会发现火炬无法熄灭。会进行一次 DC 14 的 [奥术](Arcane.md "奥术") [检定](Ability_Check.md "属性检定")，如果成功，检查火炬的角色会发现火炬具有[不灭明焰](Continual_Flame_(Condition).md "不灭明焰 (状态)")，无法被熄灭。
+检查时，队伍会发现火炬无法熄灭。会进行一次 DC 14 的 [奥术](Arcane.md "奥术") [属性检定](Ability_Check.md "属性检定")，如果成功，检查火炬的角色会发现火炬具有[不灭明焰](Continual_Flame_(Condition).md "不灭明焰 (状态)")，无法被熄灭。
 
 水对灭火无效，火炬只能被摧毁。摧毁所有五支火炬后，会生成一只[幽影獒犬首领](Shadow_Mastiff_Alpha.md "幽影獒犬首领")，以及三只[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")。
 

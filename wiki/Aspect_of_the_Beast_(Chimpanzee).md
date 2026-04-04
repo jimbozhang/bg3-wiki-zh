@@ -14,7 +14,7 @@
 
 持续时间：2 驱散
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 
 - 受影响的生物在[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")。
 - 受影响的生物的攻击和法术范围减少至 3 米（10 英尺）。

@@ -4,18 +4,18 @@
 
 ## 目录
 
-- [1 基本信息](#general-information)
-- [2 通用效果](#general-effects)
-- [3 职业特性](#class-features)
+- [1 基本信息](#基本信息)
+- [2 通用效果](#通用效果)
+- [3 职业特性](#职业特性)
   - [3.1 野蛮人](#barbarian)
   - [3.2 德鲁伊](#druid)
   - [3.3 武僧](#monk)
-- [4 角色特性](#character-features)
-- [5 物品](#items)
-  - [5.1 额外伤害](#bonus-damage)
-  - [5.2 额外伤害与互动](#bonus-damage-and-interaction)
-  - [5.3 额外互动](#bonus-interaction)
-- [6 备注](#notes)
+- [4 角色特性](#角色特性)
+- [5 物品](#物品)
+  - [5.1 额外伤害](#额外伤害)
+  - [5.2 额外伤害与互动](#额外伤害与互动)
+  - [5.3 额外互动](#额外互动)
+- [6 备注](#备注)
 
 ## 基本信息
 
@@ -88,7 +88,7 @@
 ### 额外伤害与互动
 
 - [残缺的黯狱手套](Flawed_Helldusk_Gloves.md "残缺的黯狱手套") - 徒手打击造成额外 1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。徒手命中时，目标必须通过 [DC](DC.md "DC") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则陷入[流血](Bleeding_(Condition).md "流血（状态）") 2 回合。
-- [灵魂捕捉手套](Gloves_of_Soul_Catching.md "灵魂捕捉手套") - 徒手打击造成额外 1d10⁠⁠[力场](Force.md "力场")伤害。徒手命中时，每回合一次，恢复 10⁠⁠[生命值](Healing.md "治疗")。或者，你可以选择将治疗反应替换为对下一次[攻击掷骰](Dice_rolls.md#Attack_rolls "攻击掷骰")或[豁免检定](Saving_throws.md "豁免检定")的 +5 加值，持续至你的下一回合结束。
+- [灵魂捕捉手套](Gloves_of_Soul_Catching.md "灵魂捕捉手套") - 徒手打击造成额外 1d10⁠⁠[力场](Force.md "力场")伤害。徒手命中时，每回合一次，恢复 10⁠⁠[治疗](Healing.md "治疗")。或者，你可以选择将治疗反应替换为对下一次[攻击掷骰](Dice_rolls.md#Attack_rolls "攻击掷骰")或[豁免检定](Saving_throws.md "豁免检定")的 +5 加值，持续至你的下一回合结束。
 - [黯狱手套](Helldusk_Gloves.md "黯狱手套") - 徒手打击造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。徒手命中时，目标必须通过 [DC](DC.md "DC") 15 [体质](Constitution.md "体质") [豁免检定](Saves.md "豁免检定")，否则陷入[流血](Bleeding_(Condition).md "流血（状态）") 2 回合。
 
 ### 额外互动

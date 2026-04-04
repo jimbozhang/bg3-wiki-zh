@@ -22,7 +22,7 @@
 
 杜费管家-
 
-我们用来培训新仆人如何操作舞厅门的[扎克拉语词典](Kozakuran_Dictionary.md "Kozakuran Dictionary")不见了，仅靠我的[家族戒指](Szarr_Family_Ring.md "Szarr Family Ring")无法完成工作。请让仆人们处理此事，这不该是我来解决的问题。
+我们用来培训新仆人如何操作舞厅门的[扎克拉语词典](Kozakuran_Dictionary.md "Kozakuran Dictionary")不见了，仅靠我的[扎尔家族戒指](Szarr_Family_Ring.md "扎尔家族戒指")无法完成工作。请让仆人们处理此事，这不该是我来解决的问题。
 
 -戈迪
 

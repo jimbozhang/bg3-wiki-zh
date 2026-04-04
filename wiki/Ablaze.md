@@ -14,7 +14,7 @@
 
 **[炽焰法球](Flaming_Sphere_(Condition).md "炽焰法球（状态）")**
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[施法关键属性](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[施法关键属性](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 
 - 在其回合结束时，距离法球 1.5 米（5 英尺）内的敌人和物体将受到 2d6 [火焰](Fire.md "火焰") 伤害。豁免检定成功时，仍会受到一半伤害。
 

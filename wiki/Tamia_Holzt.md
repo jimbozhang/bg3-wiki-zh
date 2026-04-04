@@ -22,7 +22,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -98,19 +98,19 @@
 
 - - - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**地狱武器**](Infernal_Weapon.md "地狱武器")
+- [地狱武器](Infernal_Weapon.md "地狱武器")
 
 命中时，此武器造成额外 3⁠⁠[中毒](Poison.md "中毒")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒（状态）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -162,19 +162,19 @@
 
 - - - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**地狱武器**](Infernal_Weapon.md "地狱武器")
+- [地狱武器](Infernal_Weapon.md "地狱武器")
 
 命中时，此武器造成额外 3⁠⁠[中毒](Poison.md "中毒")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒（状态）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -226,19 +226,19 @@
 
 - - - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**地狱武器**](Infernal_Weapon.md "地狱武器")
+- [地狱武器](Infernal_Weapon.md "地狱武器")
 
 命中时，此武器造成额外 3⁠⁠[中毒](Poison.md "中毒")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒（状态）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**战术铁律**](Tactical_Discipline.md "战术铁律")
+- [战术铁律](Tactical_Discipline.md "战术铁律")
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")获得[优势](Advantage.md "优势")。
 
@@ -260,14 +260,14 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 画廊](#gallery)
-- [5 空闲对话](#idle-conversation)
-- [6 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 画廊](#画廊)
+- [5 空闲对话](#空闲对话)
+- [6 外部链接](#外部链接)
 
 ## 参与
 
@@ -275,7 +275,7 @@ Stats
 
 初次遭遇时，队伍可以目睹她胁迫一名贡德信徒，启动普林斯基的激发序列，如果完成，将引爆每个贡德信徒佩戴的[夺命项圈](Kill_Collar.md "夺命项圈")。
 
-在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")，队伍可以遇见[布莱森·索克斯](Blarson_Throaks.md "布莱森·索克斯")和他的妻子[克洛维亚](Clovia_Throaks.md "克洛维亚·索克斯")，他们正在讨论他们的儿子[加斯珀](Gasper_Throaks.md "加斯珀·索克斯")刚刚在塔米亚·霍尔兹的帮助下，在钢铁卫士铸造厂找到了一份守卫的新工作。随着讨论的继续，克洛维亚透露塔米亚已成为她新的情人，她将离开她的丈夫。
+在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")，队伍可以遇见[布莱森·索克斯](Blarson_Throaks.md "布莱森·索克斯")和他的妻子[克洛维亚·索克斯](Clovia_Throaks.md "克洛维亚·索克斯")，他们正在讨论他们的儿子[加斯珀](Gasper_Throaks.md "加斯珀·索克斯")刚刚在塔米亚·霍尔兹的帮助下，在钢铁卫士铸造厂找到了一份守卫的新工作。随着讨论的继续，克洛维亚透露塔米亚已成为她新的情人，她将离开她的丈夫。
 
 ## 战斗
 

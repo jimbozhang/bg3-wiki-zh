@@ -4,7 +4,7 @@
 
 ## 描述
 
-如果你达到0[生命值](Hit_Points.md "生命值")，你将恢复1点[生命值](Healing.md "治疗")，而不是进入[倒地](Downed_(Condition).md "倒地（状态）")状态。
+如果你达到0[生命值](Hit_Points.md "生命值")，你将恢复1点[治疗](Healing.md "治疗")，而不是进入[倒地](Downed_(Condition).md "倒地（状态）")状态。
 
 ### 详情
 

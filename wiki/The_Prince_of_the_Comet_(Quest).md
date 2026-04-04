@@ -7,8 +7,8 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
 
 ## 目标
 
@@ -33,11 +33,11 @@ _目标和日志条目可能因玩家决策和结果而异。_
 
 在第三幕早期，[维拉基斯](Vlaakith.md "Vlaakith")会在[长休](Long_Rest.md "Long Rest")期间，当队伍进入[利文顿](Rivington.md "Rivington")时，以星界投影的形式现身，并要求[莱埃泽尔](Lae'zel.md "Lae'zel")杀死[俄耳甫斯](Orpheus.md "Orpheus")，承诺加冕她为选民。
 
-否则，莱埃泽尔可以选择拒绝她，并继续完成任务[彗星王子](The_Prince_of_the_Comet.md "The Prince of the Comet")。根据游戏前期关于此剧情部分的事件发展情况（例如，既从[沃斯](Voss.md "Voss")处得知了关于俄耳甫斯的真相，又在离开[星界棱镜](Mysterious_Artefact.md "Mysterious Artefact")于[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")时遭维拉基斯背叛），莱埃泽尔可能会自动拒绝她的要求——无需玩家角色干预。
+否则，莱埃泽尔可以选择拒绝她，并继续完成任务[彗星王子](The_Prince_of_the_Comet.md "The Prince of the Comet")。根据游戏前期关于此剧情部分的事件发展情况（例如，既从[沃斯](Voss.md "Voss")处得知了关于俄耳甫斯的真相，又在离开[神秘遗物](Mysterious_Artefact.md "神秘遗物")于[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")时遭维拉基斯背叛），莱埃泽尔可能会自动拒绝她的要求——无需玩家角色干预。
 
 如果莱埃泽尔拒绝，实际上不会产生任何后果，尽管维拉基斯威胁说她将被其龙骑士战士追杀。此子任务可能在游戏最终阶段解决，当队伍进入星界棱镜内部后，或在与[耐色脑](Netherbrain.md "Netherbrain")战斗之后。
 
-然而，可以说服莱埃泽尔（DC 30 [游说](Persuasion.md "Persuasion")或[感知](Wisdom.md "Wisdom")[检定](Ability_Check.md "Ability check")）再次改变主意。在这种情况下，将启动另一个子任务[维拉基斯的意志](Vlaakith's_Will.md "Vlaakith's Will")。
+然而，可以说服莱埃泽尔（DC 30 [游说](Persuasion.md "Persuasion")或[感知](Wisdom.md "Wisdom")[属性检定](Ability_Check.md "属性检定")）再次改变主意。在这种情况下，将启动另一个子任务[维拉基斯的意志](Vlaakith's_Will.md "Vlaakith's Will")。
 
 ---
 *Source: [The Prince of the Comet (Quest)](https://bg3.wiki/wiki/The_Prince_of_the_Comet_(Quest)*

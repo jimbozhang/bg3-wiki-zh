@@ -40,12 +40,12 @@ UID
 
 ## 学习方式
 
-由以下生物使用：[乌鸦座](Corvus.md "乌鸦座")、[乌鸦座主星](Corvus_Major.md "乌鸦座主星")、[神速鸦](Corvus_Celer.md "神速鸦")、[凶残乌鸦](Murderous_Crow.md "凶残乌鸦") 以及 [荒野形态：恐鸦](Wild_Shape_colon__Dire_Raven.md "荒野形态：恐鸦")
+由以下生物使用：[乌鸦座](Corvus.md "乌鸦座")、[乌鸦座](Corvus_Major.md "乌鸦座")、[神速鸦](Corvus_Celer.md "神速鸦")、[凶残乌鸦](Murderous_Crow.md "凶残乌鸦") 以及 [荒野形态：恐鸦](Wild_Shape_colon__Dire_Raven.md "荒野形态：恐鸦")
 
 ## 备注
 
 - 在 [荒野形态：恐鸦](Wild_Shape_colon__Dire_Raven.md "荒野形态：恐鸦") 形态下，此攻击会因 [酒馆殴斗者](Tavern_Brawler.md "酒馆殴斗者") 专长获得来自力量调整值的额外攻击加成，尽管正常攻击加成由敏捷调整值决定。
-- 驯兽师伙伴的等级在 5、7 和 11 级时离散提升，因此在 5 级前不会获得 4 级额外伤害（[乌鸦座主星](Corvus_Major.md "乌鸦座主星")），在 11 级前不会获得 8 级额外伤害（[神速鸦](Corvus_Celer.md "神速鸦")）。它永远不会获得 12 级伤害升级。
+- 驯兽师伙伴的等级在 5、7 和 11 级时离散提升，因此在 5 级前不会获得 4 级额外伤害（[乌鸦座](Corvus_Major.md "乌鸦座")），在 11 级前不会获得 8 级额外伤害（[神速鸦](Corvus_Celer.md "神速鸦")）。它永远不会获得 12 级伤害升级。
 - 此攻击造成非魔法伤害，除非是拥有 [原初打击](Primal_Strike.md "原初打击") 的 [月亮结社](Circle_of_the_Moon.md "月亮结社") 荒野形态德鲁伊。
 
 ---

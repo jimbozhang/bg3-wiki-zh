@@ -70,7 +70,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -106,7 +106,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -142,7 +142,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -160,7 +160,7 @@ UUID
 
 属性
 
-`Human_Child` **辛塔·戈莱维茨** 是一个 [人类](Human.md "人类") 难民儿童，居住在 [第三幕](Act_Three.md "第三幕") 的 [阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸")。她可以与她的父亲 [本](Ben_Golewits.md "本·戈莱维茨") 和母亲 [马尔帕](Marpha_Golewits.md "马尔帕·戈莱维茨") 一起被找到。
+`Human_Child` **辛塔·戈莱维茨** 是一个 [人类](Human.md "人类") 难民儿童，居住在 [第三幕](Act_Three.md "第三幕") 的 [阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸")。她可以与她的父亲 [本·戈莱维茨](Ben_Golewits.md "本·戈莱维茨") 和母亲 [马尔帕·戈莱维茨](Marpha_Golewits.md "马尔帕·戈莱维茨") 一起被找到。
 
 ## 参与
 

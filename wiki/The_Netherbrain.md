@@ -80,26 +80,26 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-  - [1.2 游戏玩法](#gameplay)
-- [2 描述](#description)
-  - [2.1 外观](#appearance)
-  - [2.2 性格](#personality)
-- [3 历史](#history)
-- [4 相关剧情](#involvement)
-  - [4.1 第一幕](#act-one)
-  - [4.2 第二幕](#act-two)
-  - [4.3 第三幕](#act-three)
-- [5 战斗](#combat)
-  - [5.1 战利品](#loot)
-- [6 相关文献](#related-literature)
-- [7 相关任务](#related-quests)
-- [8 成就](#achievements)
-- [9 画廊](#gallery)
-- [10 参考文献](#references)
-- [11 注释](#notes)
-- [12 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+  - [1.2 游戏玩法](#游戏玩法)
+- [2 描述](#描述)
+  - [2.1 外观](#外观)
+  - [2.2 性格](#性格)
+- [3 历史](#历史)
+- [4 相关剧情](#相关剧情)
+  - [4.1 第一幕](#第一幕)
+  - [4.2 第二幕](#第二幕)
+  - [4.3 第三幕](#第三幕)
+- [5 战斗](#战斗)
+  - [5.1 战利品](#战利品)
+- [6 相关文献](#相关文献)
+- [7 相关任务](#相关任务)
+- [8 成就](#成就)
+- [9 画廊](#画廊)
+- [10 参考文献](#参考文献)
+- [11 注释](#注释)
+- [12 外部链接](#外部链接)
 
 ## 概述
 
@@ -131,11 +131,11 @@ UUID
 
 在游戏事件发生之前，一个[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")在[雷斯文小镇](Reithwin_Town.md "Reithwin Town")和后来的[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方建立。随着殖民地在镇上居民不知情的情况下稳步发展，最终，一个[主脑](Elder_Brain.md "Elder Brain")出现，领导其推进[伟大蓝图](https://forgottenrealms.fandom.com/wiki/Grand_Design)，一项恢复曾被击败的灵吸怪帝国的神圣使命。
 
-在[恩弗·戈塔什](Enver_Gortash.md "Enver Gortash")努力接管[博德之门](Baldur's_Gate.md "Baldur's Gate")期间的某个时刻，他在访问月出之塔的[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")时偶然进入了这个殖民地，并察觉到一个机会，迅速制定了一个计划：使用[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")——一件曾属于[耐瑟瑞尔](Netheril.md "Netheril")大法师[卡尔萨斯](Karsus.md "Karsus")的古代强大神器——来奴役大脑，以利用其力量并接管[宝剑海岸](https://forgottenrealms.fandom.com/wiki/Sword_Coast)，以[灾祸](Bane_(God).md) name.<sup>[\[6\]](#cite_note-6)</sup> 与其伙伴，[巴尔之子](The_Dark_Urge.md "The Dark Urge")，他们雇佣了一位名为[赫尔希克](Helsik.md "Helsik")的魔鬼契约师，以提供通往[梅菲斯特](https://forgottenrealms.fandom.com/wiki/Mephistar)的通道，[梅菲斯特](Mephistopheles.md "Mephistopheles")的巢穴，王冠所在地。获得王冠后，两人返回月出之塔加入凯瑟里克，束缚主脑，然而在巴尔之子将王冠戴在大脑上后，<sup>[\[2\]](#cite_note-placed_the_crown-2)</sup>[腥红奥林](Orin.md "Orin")，巴尔之子的副手，背叛了她的亲属和上级。<sup>[\[3\]](#cite_note-Orin_siblicide-3)</sup> 她相信自己已杀死邪念，宣布自己为[巴尔](Bhaal.md "Bhaal")的新选民。<sup>[\[7\]](#cite_note-7)</sup><sup>[\[8\]](#cite_note-8)</sup>
+在[恩弗·戈塔什](Enver_Gortash.md "Enver Gortash")努力接管[博德之门](Baldur's_Gate.md "Baldur's Gate")期间的某个时刻，他在访问月出之塔的[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")时偶然进入了这个殖民地，并察觉到一个机会，迅速制定了一个计划：使用[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")——一件曾属于[耐瑟瑞尔](Netheril.md "Netheril")大法师[卡尔萨斯](Karsus.md "Karsus")的古代强大神器——来奴役大脑，以利用其力量并接管[宝剑海岸](https://forgottenrealms.fandom.com/wiki/Sword_Coast)，以[灾祸](Bane_(God).md) name.<sup>[\[6\]](#cite_note-6)</sup> 与其伙伴，[邪念](The_Dark_Urge.md "邪念")，他们雇佣了一位名为[赫尔希克](Helsik.md "Helsik")的魔鬼契约师，以提供通往[梅菲斯特](https://forgottenrealms.fandom.com/wiki/Mephistar)的通道，[梅菲斯特](Mephistopheles.md "Mephistopheles")的巢穴，王冠所在地。获得王冠后，两人返回月出之塔加入凯瑟里克，束缚主脑，然而在巴尔之子将王冠戴在大脑上后，<sup>[\[2\]](#cite_note-placed_the_crown-2)</sup>[奥林](Orin.md "奥林")，巴尔之子的副手，背叛了她的亲属和上级。<sup>[\[3\]](#cite_note-Orin_siblicide-3)</sup> 她相信自己已杀死邪念，宣布自己为[巴尔](Bhaal.md "Bhaal")的新选民。<sup>[\[7\]](#cite_note-7)</sup><sup>[\[8\]](#cite_note-8)</sup>
 
 大脑被控制后，[死亡三神](Dead_Three.md "Dead Three")的选民开始了接管宝剑海岸的计划，提出了[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")，一个致力于[至上真神](Absolute.md "Absolute")形象的教派，这是新奴役大脑的名称。他们将利用主脑的蝌蚪感染重要城市的人口，并集结军队接管整个海岸，以一位强大新女神的承诺引诱他们，这位女神欢迎弱者和被遗弃者。王冠的耐瑟魔法使他们能够创造特殊的蝌蚪，这些蝌蚪会以蜕变的暂停状态留在受害者体内，能够在精神上被控制，而不会完全变成灵吸怪。<sup>[\[9\]](#cite_note-9)</sup> 这样，该团体就能够瞄准重要目标，同时维持宗教狂热的伪装，而不是更险恶的真相。<sup>[\[10\]](#cite_note-10)</sup><sup>[\[11\]](#cite_note-11)</sup>
 
-三位选民不知道的是，大脑愿意配合巴尔之子的计划，直到他们开始内斗。大脑随后开始策划，<sup>[\[4\]](#cite_note-opportunity-4] 其计划之一包括[星界棱镜](Mysterious_Artefact.md "Mysterious Artefact")</sup>，一件古代奥术物品，是打破其主人控制的关键。<sup>[\[12\]](#cite_note-liberation-12)</sup><sup>[\[13\]](#cite_note-13)</sup> 只要三颗耐色石与王冠分离，大脑就能被控制，但它仍能引导事件向有利于自己的方向发展。耐色脑，即主脑在注入王冠的耐瑟魔法后进化而成的形式，允许[君主](The_Emperor.md "The Emperor")以意志力强大的伪装获得自由，以便其取回棱镜，并植入了关于[俄耳甫斯](Orpheus.md "Orpheus")力量的知识<sup>[\[12\]](#cite_note-liberation-12)</sup>，从而启动了其解放的伟大计划。
+三位选民不知道的是，大脑愿意配合巴尔之子的计划，直到他们开始内斗。大脑随后开始策划，<sup>[\[4\]](#cite_note-opportunity-4] 其计划之一包括[神秘遗物](Mysterious_Artefact.md "神秘遗物")</sup>，一件古代奥术物品，是打破其主人控制的关键。<sup>[\[12\]](#cite_note-liberation-12)</sup><sup>[\[13\]](#cite_note-13)</sup> 只要三颗耐色石与王冠分离，大脑就能被控制，但它仍能引导事件向有利于自己的方向发展。耐色脑，即主脑在注入王冠的耐瑟魔法后进化而成的形式，允许[君主](The_Emperor.md "The Emperor")以意志力强大的伪装获得自由，以便其取回棱镜，并植入了关于[俄耳甫斯](Orpheus.md "Orpheus")力量的知识<sup>[\[12\]](#cite_note-liberation-12)</sup>，从而启动了其解放的伟大计划。
 
 ## 相关剧情
 
@@ -149,13 +149,13 @@ UUID
 
 如果玩家角色通过将手插入[月出之塔](Moonrise_Towers.md "Moonrise Towers")椽子上一堵裂缝的墙来调查可疑声音，耐色脑会对他们的存在做出反应，并试图将他们拉入内部。如果第一次抵抗属性检定失败，大脑会直接与玩家角色沟通，如果邪念被选为[出身](Origin.md "Origin")，则对其前主人的出现表示好笑。随后需要进行第二次属性检定以逃脱；如果失败，玩家角色和队伍其余成员会被拖入[月出之塔监狱](Moonrise_Towers_Prison.md "Moonrise Towers Prison")下方的[地下密牢](Oubliette.md "Oubliette")，在此过程中玩家角色会遭受[肩部脱臼](Dislocated_Shoulder_(Condition).md "Dislocated Shoulder (Condition)")伤害。
 
-在第二幕结束时，大脑从殖民地出现，命令至上真神的军队向[博德之门](Baldur's_Gate.md "Baldur's Gate")进军。大脑本身也被剩余的选民移至博德之门，他们将其藏在[城市下方](Undercity_Ruins.md "Undercity Ruins")。
+在第二幕结束时，大脑从殖民地出现，命令至上真神的军队向[博德之门](Baldur's_Gate.md "Baldur's Gate")进军。大脑本身也被剩余的选民移至博德之门，他们将其藏在[底城废墟](Undercity_Ruins.md "底城废墟")。
 
 如果玩家角色试图返回第一幕，违反梦境守护者的警告，耐色脑将压倒他们的防御并出现在他们面前，强迫他们转变，导致[游戏结束](Game_Over.md "Game Over")。
 
 ### 第三幕
 
-随着队伍击败凯瑟里克·索姆并导致其耐色石丢失，剩余选民对大脑的控制严重减弱。结果，耐色脑频繁尝试摆脱奴役，导致定期的精神爆发，被其他民众认为是地震。知道这对他们计划构成的威胁，戈塔什和奥林都试图[说服](Consider_Gortash's_Bargain.md "Consider Gortash's Bargain")（或[胁迫](Rescue_Orin's_Victim.md "Rescue Orin's Victim")）队伍杀死另一位选民，并将其各自的耐色石带给他们，以重新建立对大脑的控制。
+随着队伍击败凯瑟里克·索姆并导致其耐色石丢失，剩余选民对大脑的控制严重减弱。结果，耐色脑频繁尝试摆脱奴役，导致定期的精神爆发，被其他民众认为是地震。知道这对他们计划构成的威胁，戈塔什和奥林都试图[考虑戈塔什的提议](Consider_Gortash's_Bargain.md "考虑戈塔什的提议")（或[拯救奥林的受害者](Rescue_Orin's_Victim.md "拯救奥林的受害者")）队伍杀死另一位选民，并将其各自的耐色石带给他们，以重新建立对大脑的控制。
 
 抵达[飞龙岩瞭望台](Wyrm's_Lookout.md "Wyrm's Lookout")后，大脑向队伍呼喊，强迫他们进入星界棱镜避难，梦境守护者在此揭示其真实身份为夺心魔。如果队伍选择在此杀死君主，他们的防御将停止，耐色脑会将他们转变为夺心魔，导致游戏结束。
 
@@ -231,7 +231,7 @@ UUID
    后来耐色脑本身在[塑境秘潭](Morphic_Pool.md "Morphic Pool")与邪念对话时证实了这一点：_“你以为你能通过用耐色石摧毁我来弥补你赋予我力量的过错吗，巴尔之子……”_
 1. ↑ [2.0](#cite_ref-placed_the_crown_2-0) [2.1](#cite_ref-placed_the_crown_2-1) 塑境秘潭，耐色脑在被邪念及其同伴对峙时说的话。
    _“你在月出之塔深处将王冠戴在我头上，我便在那里诞生。”_
-1. ↑ [3.0](#cite_ref-Orin_siblicide_3-0) [3.1](#cite_ref-Orin_siblicide_3-1) [3.2](#cite_ref-Orin_siblicide_3-2) _“你的计划狡猾，你的残忍无与伦比。我本会遵循它，如果你的头脑没有被你的[姐妹](Orin.md "Orin")摧毁。”_
+1. ↑ [3.0](#cite_ref-Orin_siblicide_3-0) [3.1](#cite_ref-Orin_siblicide_3-1) [3.2](#cite_ref-Orin_siblicide_3-2) _“你的计划狡猾，你的残忍无与伦比。我本会遵循它，如果你的头脑没有被你的[奥林](Orin.md "奥林")摧毁。”_
 1. ↑ [4.0](#cite_ref-opportunity_4-0) [4.1](#cite_ref-opportunity_4-1) _“……你离开后，三个可怜的[选民](Absolute.md#The_Chosen "Absolute")像孩子一样在你的余波中争斗。我赋予他们互相伤害的力量，而我则精心设计我的蓝图。”_
 1. [↑](#cite_ref-5) [主脑支配](Elder_Brain_Domination.md "Elder Brain Domination") by [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")
 1. [↑](#cite_ref-6) [回忆笔记及近期附录](Memoir_Notes_with_Recent_Addenda.md "Memoir Notes with Recent Addenda") by [恩弗·戈塔什](Enver_Gortash.md "Enver Gortash")

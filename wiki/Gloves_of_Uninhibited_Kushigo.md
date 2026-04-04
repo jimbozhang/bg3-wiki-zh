@@ -1,6 +1,6 @@
 # 不羁库席戈的手套
 
-不羁库席戈的手套是一双稀有手套，能在[投掷](Throw.md "Throw")和[即兴武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")攻击中造成额外伤害。
+不羁库席戈的手套是一双稀有手套，能在[投掷](Throw.md "Throw")和[即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器")攻击中造成额外伤害。
 
 库席戈抛弃了他那臭名昭著的护甲，离开了艾瑞希的身体，赤身裸体、漫无目的、无忧无虑地游荡到了贫瘠的乡野。在红金色的阳光下，这片土地平坦而荒凉，但与他孤独的心相比，它似乎充满了生机与欢乐。
 
@@ -18,7 +18,7 @@
 此物品的穿戴者获得：
 
 [库席戈之力](Kushigo's_Might.md "Kushigo's Might")
-穿戴者使用[投掷](Throw.md "Throw")攻击和[即兴武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")进行的攻击造成额外 **1d4** 点伤害。
+穿戴者使用[投掷](Throw.md "Throw")攻击和[即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器")进行的攻击造成额外 **1d4** 点伤害。
 
 ## 获取地点
 

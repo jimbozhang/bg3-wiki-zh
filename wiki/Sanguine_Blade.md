@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-染血之刃是一把[稀有](Rapier.md "刺剑")[刺剑](Rapier.md "刺剑")，每击杀一名敌人（最多3名），即可提升[攻击掷骰](Attack_roll.md "攻击掷骰")、伤害和[法术](Spell.md "法术")豁免DC。
+染血之刃是一把[刺剑](Rapier.md "刺剑")[刺剑](Rapier.md "刺剑")，每击杀一名敌人（最多3名），即可提升[攻击掷骰](Attack_roll.md "攻击掷骰")、伤害和[法术](Spell.md "法术")豁免DC。
 
 鲜血在动荡的时代中，对人们施加着迷人的统治。其酒红色的污渍甚至能为和平主义者施以膏抹。
 
@@ -26,7 +26,7 @@ UID `MAG_Zhentarim_BloodfeederBlade_Rapier` UUID `a8dc9927-1aa3-45ee-8fea-4106e4
 
 **持有此物品者获得：**
 
-- **[猩红再生](Scarlet_Regeneration.md "猩红再生")：** 如果你拥有来自[猩红叠加](Scarlet_Remittance_+3_(Condition).md "猩红叠加 +3 (状态)")的 +3 奖励，则消耗它以恢复 3d10⁠⁠[生命值](Healing.md "治疗")（充能：[长休](Long_Rest.md "长休")）。
+- **[猩红再生](Scarlet_Regeneration.md "猩红再生")：** 如果你拥有来自[猩红叠加](Scarlet_Remittance_+3_(Condition).md "猩红叠加 +3 (状态)")的 +3 奖励，则消耗它以恢复 3d10⁠⁠[治疗](Healing.md "治疗")（充能：[长休](Long_Rest.md "长休")）。
 
 [猩红叠加](Scarlet_Remittance.md "猩红叠加")
 每击杀一名敌人，获得 +1 奖励至[攻击掷骰](Attack_roll.md "攻击掷骰")、伤害和[法术](Spell.md "法术")豁免DC，最高可达 +3。

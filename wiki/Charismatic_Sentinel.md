@@ -87,27 +87,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于 [轻度遮蔽](Lightly_Obscured.md "轻度遮蔽") 或 [重度遮蔽](Heavily_Obscured.md "重度遮蔽") 时，该角色对所有伤害具有 [抗性](Damage_types.md "伤害类型")，除了 ⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵") 或 ⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**魅力典范**](Paragon_of_Charisma.md "魅力典范")
+- [魅力典范](Paragon_of_Charisma.md "魅力典范")
 
 所有 [魅力](Charisma.md "魅力") [豁免检定](Saving_throw.md "豁免检定") 和法术 [攻击掷骰](Attack_rolls.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被 [目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**日照弱点**](Sunlight_Weakness.md "日照弱点")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰") 和 [豁免检定](Saving_throws.md "豁免检定") 具有 [劣势](Disadvantage.md "劣势")。
 
@@ -165,27 +165,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于 [轻度遮蔽](Lightly_Obscured.md "轻度遮蔽") 或 [重度遮蔽](Heavily_Obscured.md "重度遮蔽") 时，该角色对所有伤害具有 [抗性](Damage_types.md "伤害类型")，除了 ⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵") 或 ⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**魅力典范**](Paragon_of_Charisma.md "魅力典范")
+- [魅力典范](Paragon_of_Charisma.md "魅力典范")
 
 所有 [魅力](Charisma.md "魅力") [豁免检定](Saving_throw.md "豁免检定") 和法术 [攻击掷骰](Attack_rolls.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被 [目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**日照弱点**](Sunlight_Weakness.md "日照弱点")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰") 和 [豁免检定](Saving_throws.md "豁免检定") 具有 [劣势](Disadvantage.md "劣势")。
 
@@ -243,35 +243,35 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**影子召唤**](Living_Shadow.md "影子召唤")
+- [影子召唤](Living_Shadow.md "影子召唤")
 
 当处于 [轻度遮蔽](Lightly_Obscured.md "轻度遮蔽") 或 [重度遮蔽](Heavily_Obscured.md "重度遮蔽") 时，该角色对所有伤害具有 [抗性](Damage_types.md "伤害类型")，除了 ⁠[力场](Force.md "力场")、⁠[心灵](Psychic.md "心灵") 或 ⁠[光耀](Radiant.md "光耀")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**魅力典范**](Paragon_of_Charisma.md "魅力典范")
+- [魅力典范](Paragon_of_Charisma.md "魅力典范")
 
 所有 [魅力](Charisma.md "魅力") [豁免检定](Saving_throw.md "豁免检定") 和法术 [攻击掷骰](Attack_rolls.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
 
-- [**莎尔视界**](Shar's_Sight.md "莎尔视界")
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
 
 暗夜法官不会被 [目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-- [**日照弱点**](Sunlight_Weakness.md "日照弱点")
+- [日照弱点](Sunlight_Weakness.md "日照弱点")
 
 在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰") 和 [豁免检定](Saving_throws.md "豁免检定") 具有 [劣势](Disadvantage.md "劣势")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**坚韧复仇**](Relentless_Avenger.md "坚韧复仇")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你用 [借机攻击](Opportunity_Attack.md "借机攻击") 命中敌人，你的 [移动速度](Movement_speed.md "移动速度") 在你的下一回合增加 4.5 米 / 15 英尺。
 
@@ -324,7 +324,7 @@ UUID
 范围: 正常武器范围
 
 [暗影步](Shadow_Step.md "暗影步") ()
-从 [阴影](Lightly_Obscured.md "轻度遮蔽") 传送到阴影。之后，你的下一次近战 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
+从 [轻度遮蔽](Lightly_Obscured.md "轻度遮蔽") 传送到阴影。之后，你的下一次近战 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
 
 范围: 18 米 (60 英尺)
 

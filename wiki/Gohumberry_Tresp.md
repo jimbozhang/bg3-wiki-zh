@@ -77,7 +77,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -125,7 +125,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -173,7 +173,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -199,19 +199,19 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 相关任务](#related-quests)
-- [3 战利品](#loot)
-- [4 备注](#notes)
-- [5 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 相关任务](#相关任务)
+- [3 战利品](#战利品)
+- [4 备注](#备注)
+- [5 外部链接](#外部链接)
 
 ## 出场
 
 戈恩贝里·特雷斯普的尸体可在 [石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "石化蜥蜴之门营房") 附近的一处类似澡堂的建筑内找到。
 
-戈恩贝里被 [腥红奥林](Orin.md "腥红奥林") 所杀。他的尸体被用作奥林“艺术”的组成部分，作为对 [巴萨扎尔](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_which_are_referenced "博德之门系列前作角色参考列表") 的拟像——一名一个多世纪前被击败的武僧巴尔之子。他被斩首，尸体穿着类似武僧的长袍。
+戈恩贝里被 [奥林](Orin.md "奥林") 所杀。他的尸体被用作奥林“艺术”的组成部分，作为对 [巴萨扎尔](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_which_are_referenced "博德之门系列前作角色参考列表") 的拟像——一名一个多世纪前被击败的武僧巴尔之子。他被斩首，尸体穿着类似武僧的长袍。
 
-戈恩贝里的尸体可被搜刮，获得 [小丑德里波斯的身体部位](Find_Dribbles_the_Clown.md "寻找小丑德里波斯") 之一以及 [奥林的仪式笔记](Orin's_Ritual_Note.md "奥林的仪式笔记") 的第五份。
+戈恩贝里的尸体可被搜刮，获得 [寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯") 之一以及 [奥林的仪式笔记](Orin's_Ritual_Note.md "奥林的仪式笔记") 的第五份。
 
 ## 相关任务
 

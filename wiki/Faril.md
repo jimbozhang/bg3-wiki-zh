@@ -91,23 +91,23 @@
 
 ## 特性
 
-- [**冲锋**](Charger.md "冲锋")
+- [冲锋](Charger.md "冲锋")
 
 让你的速度强化你的猛攻。攻击时，你可以 [推击](Charger_colon__Shove.md "冲锋：推击") 或造成额外的 [武器伤害](Charger_colon__Weapon_Attack.md "冲锋：武器攻击")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -117,9 +117,9 @@
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "力量") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
 
-- [**健壮**](Tough.md "健壮")
+- [健壮](Tough.md "健壮")
 
 你每升一级，[生命值](Hit_Points.md "生命值") 最大值增加 2 点。
 
@@ -177,23 +177,23 @@
 
 ## 特性
 
-- [**冲锋**](Charger.md "冲锋")
+- [冲锋](Charger.md "冲锋")
 
 让你的速度强化你的猛攻。攻击时，你可以 [推击](Charger_colon__Shove.md "冲锋：推击") 或造成额外的 [武器伤害](Charger_colon__Weapon_Attack.md "冲锋：武器攻击")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -203,9 +203,9 @@
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "力量") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
 
-- [**健壮**](Tough.md "健壮")
+- [健壮](Tough.md "健壮")
 
 你每升一级，[生命值](Hit_Points.md "生命值") 最大值增加 2 点。
 
@@ -263,23 +263,23 @@
 
 ## 特性
 
-- [**冲锋**](Charger.md "冲锋")
+- [冲锋](Charger.md "冲锋")
 
 让你的速度强化你的猛攻。攻击时，你可以 [推击](Charger_colon__Shove.md "冲锋：推击") 或造成额外的 [武器伤害](Charger_colon__Weapon_Attack.md "冲锋：武器攻击")。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 
 近战武器攻击造成 +1d8 [光耀](Radiant.md "光耀") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -289,9 +289,9 @@
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "力量") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "钝击") 伤害。
 
-- [**健壮**](Tough.md "健壮")
+- [健壮](Tough.md "健壮")
 
 你每升一级，[生命值](Hit_Points.md "生命值") 最大值增加 2 点。
 
@@ -313,15 +313,15 @@ UUID
 
 ## 目录
 
-- [1 登场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 重要战利品](#notable-loot)
-- [3 闲聊](#idle-banter)
+- [1 登场](#登场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 重要战利品](#重要战利品)
+- [3 闲聊](#闲聊)
 
 ## 登场
 
-法里尔可以在[下城区](Lower_City.md "下城区")的清账屋下层入口处守卫。她会要求出示[保险库通行证](Bank_Pass.md "银行通行证")，队伍可以从[总管米德霍尼](Bloris_Meadhoney.md "布洛里斯·米德霍尼")处获得并出示，或者尝试贿赂法里尔以进入保险库：
+法里尔可以在[下城区](Lower_City.md "下城区")的清账屋下层入口处守卫。她会要求出示[银行通行证](Bank_Pass.md "银行通行证")，队伍可以从[总管米德霍尼](Bloris_Meadhoney.md "布洛里斯·米德霍尼")处获得并出示，或者尝试贿赂法里尔以进入保险库：
 
 - [游说] 你守着那么多黄金，自己却从未尝过一口？这似乎不公平。(5000) (DC 18)
 - [欺瞒] 你今天见过比我更奇怪的访客了。我不会被注意到，而你可以赚点外快。(DC 18) _(如果与米德霍尼交谈并了解了邪教徒)_

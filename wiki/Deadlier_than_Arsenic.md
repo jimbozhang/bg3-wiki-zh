@@ -1,6 +1,6 @@
 # 毒过砒霜
 
-**毒过砒霜** 是一个 [4级塑能学派法术](Spells.md "Spells")。它是 [克雷斯卡的恩惠](Kereska's_Favour.md "Kereska's Favour") 的一个变体，允许施法者将自己灌注中毒之力，并解锁与之相关的抗性和法术。它由 [玛科赫什基](Markoheshkir.md "Markoheshkir") 提供。
+**毒过砒霜** 是一个 [法术](Spells.md "法术")。它是 [克雷斯卡的恩惠](Kereska's_Favour.md "Kereska's Favour") 的一个变体，允许施法者将自己灌注中毒之力，并解锁与之相关的抗性和法术。它由 [玛科赫什基](Markoheshkir.md "Markoheshkir") 提供。
 
 ## 描述
 

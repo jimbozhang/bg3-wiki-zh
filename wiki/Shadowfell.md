@@ -22,26 +22,26 @@ ______________________________________________________________________
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 地点](#locations)
-  - [2.1 阴影岔路](#shadow-crossing)
-  - [2.2 暗夜之歌监狱](#nightsong's-prison)
-- [3 相关事件](#involvement)
-  - [3.1 暗夜之歌](#the-nightsong)
-- [4 相关地点](#related-locations)
-- [5 相关任务](#related-quests)
-- [6 角色](#characters)
-- [7 战利品](#loot)
-  - [7.1 任务奖励](#quest-rewards)
-- [8 相关文献](#related-literature)
-- [9 注释](#notes)
-- [10 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 地点](#地点)
+  - [2.1 阴影岔路](#阴影岔路)
+  - [2.2 暗夜之歌监狱](#暗夜之歌监狱)
+- [3 相关事件](#相关事件)
+  - [3.1 暗夜之歌](#暗夜之歌)
+- [4 相关地点](#相关地点)
+- [5 相关任务](#相关任务)
+- [6 角色](#角色)
+- [7 战利品](#战利品)
+  - [7.1 任务奖励](#任务奖励)
+- [8 相关文献](#相关文献)
+- [9 注释](#注释)
+- [10 外部链接](#外部链接)
 
 ## 概述
 
 堕影冥界被[莎尔](Shar.md "Shar")宣称为其领域。它最初被称为影界，莎尔将负能量与之绑定，从而创造了堕影冥界。与[星界](Astral_Plane.md "Astral Plane")类似，这里的重力比物质位面弱，可以轻松地在破碎的地貌间跳跃很远的距离。
 
-堕影冥界的居民是[影灵](Shadar-Kai.md "Shadar-Kai")，<sup>[\[1\]](#cite_note-1)</sup>尽管在游戏中并未在此区域具体遭遇他们。
+堕影冥界的居民是[影灵（类人生物）](Shadar-Kai.md "影灵（类人生物）")，<sup>[\[1\]](#cite_note-1)</sup>尽管在游戏中并未在此区域具体遭遇他们。
 
 进入堕影冥界是游戏[第二幕](Act_Two.md "Act Two")的一个**事件视界**，之后将无法返回任何[第一幕](Act_One.md "Act One")地点（包括[幽暗地域](Underdark.md "Underdark")、[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")和[伊雷珂养育间](Creche_Y'llek.md "Creche Y'llek")），导致与这些区域相关的未完成任务失败。此外，如果未先访问[月出之塔](Moonrise_Towers.md "Moonrise Towers")，那里的大量内容将自动完成。
 
@@ -146,7 +146,7 @@ _所有可能的结果和奖励在[寻找凯瑟里克·索姆的遗物](Find_Ket
 - [变节的哨兵](Apostate_Sentinel.md "Apostate Sentinel")<sup>[\[5\]](#cite_note-balthazaralive-5)</sup> - 6x
 - [巴萨扎尔](Balthazar.md "Balthazar")<sup>[\[5\]](#cite_note-balthazaralive-5)</sup>
 - [审判复仇者](Justiciar_Avenger.md "Justiciar Avenger")<sup>[\[6\]](#cite_note-6)</sup> - 11x
-- [暗夜之歌 / 艾琳女士](Dame_Aylin.md "Dame Aylin")
+- [艾琳女士](Dame_Aylin.md "艾琳女士")
 
 ## 战利品
 

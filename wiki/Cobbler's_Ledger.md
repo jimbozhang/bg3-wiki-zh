@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[弗莱姆皮匠店收到和完成的订单账簿。在中等数量的内外工作清单之后，有一个为[焰拳](Flaming_Fist.md "焰拳")侦察兵靴子订购26双的大型订单，需在当前旬末交付至[飞龙岩要塞](Wyrm's_Rock.md "飞龙岩要塞")。该订单被划了三次线，页边空白处有一条注释写道：⁠['泰摩拉](https://forgottenrealms.fandom.com/wiki/Tymora)的乳房啊，我们永远无法按时完成！...我是说，多么慷慨啊。'\]
+\[焰拳](Flaming_Fist.md "焰拳")侦察兵靴子订购26双的大型订单，需在当前旬末交付至[飞龙岩要塞](Wyrm's_Rock.md "飞龙岩要塞")。该订单被划了三次线，页边空白处有一条注释写道：⁠['泰摩拉](https://forgottenrealms.fandom.com/wiki/Tymora)的乳房啊，我们永远无法按时完成！...我是说，多么慷慨啊。'\]
 
 ---
 *Source: [Cobbler's Ledger](https://bg3.wiki/wiki/Cobbler's_Ledger)*

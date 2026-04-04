@@ -69,7 +69,7 @@
 
 - - - - - - - - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -81,27 +81,27 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成的[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")持续时间加倍。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**虚无形态**](Ethereal.md "虚无形态")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**虚体移动**](Incorporeal_Movement.md "虚体移动")
+- [虚体移动](Incorporeal_Movement.md "虚体移动")
 
 针对你的[借机攻击](Opportunity_Attack.md "借机攻击")具有[劣势](Disadvantage.md "劣势")。
 
-- [**人类亲密好友**](Man's_Best_Friend.md "人类亲密好友")
+- [人类亲密好友](Man's_Best_Friend.md "人类亲密好友")
 
 这只猎犬的[护甲等级](Armour_Class.md "护甲等级")和伤害增加量等于其训犬师的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 
-- [**多重攻击防御**](Multiattack_Defence.md "多重攻击防御")
+- [多重攻击防御](Multiattack_Defence.md "多重攻击防御")
 
 当敌人攻击你时，他们在其下一回合开始前，对你进行的额外[攻击掷骰](Attack_rolls.md "攻击掷骰")会受到 -4 惩罚。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -151,7 +151,7 @@
 
 - - - - - - - - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -163,27 +163,27 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成的[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")持续时间加倍。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**虚无形态**](Ethereal.md "虚无形态")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**虚体移动**](Incorporeal_Movement.md "虚体移动")
+- [虚体移动](Incorporeal_Movement.md "虚体移动")
 
 针对你的[借机攻击](Opportunity_Attack.md "借机攻击")具有[劣势](Disadvantage.md "劣势")。
 
-- [**人类亲密好友**](Man's_Best_Friend.md "人类亲密好友")
+- [人类亲密好友](Man's_Best_Friend.md "人类亲密好友")
 
 这只猎犬的[护甲等级](Armour_Class.md "护甲等级")和伤害增加量等于其训犬师的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 
-- [**多重攻击防御**](Multiattack_Defence.md "多重攻击防御")
+- [多重攻击防御](Multiattack_Defence.md "多重攻击防御")
 
 当敌人攻击你时，他们在其下一回合开始前，对你进行的额外[攻击掷骰](Attack_rolls.md "攻击掷骰")会受到 -4 惩罚。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -233,11 +233,11 @@
 
 - - - - - - - - - ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")且无法被[受惊](Surprised.md "受惊")。
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
@@ -249,27 +249,27 @@
 
 你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成的[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")持续时间加倍。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**虚无形态**](Ethereal.md "虚无形态")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**虚体移动**](Incorporeal_Movement.md "虚体移动")
+- [虚体移动](Incorporeal_Movement.md "虚体移动")
 
 针对你的[借机攻击](Opportunity_Attack.md "借机攻击")具有[劣势](Disadvantage.md "劣势")。
 
-- [**人类亲密好友**](Man's_Best_Friend.md "人类亲密好友")
+- [人类亲密好友](Man's_Best_Friend.md "人类亲密好友")
 
 这只猎犬的[护甲等级](Armour_Class.md "护甲等级")和伤害增加量等于其训犬师的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 
-- [**多重攻击防御**](Multiattack_Defence.md "多重攻击防御")
+- [多重攻击防御](Multiattack_Defence.md "多重攻击防御")
 
 当敌人攻击你时，他们在其下一回合开始前，对你进行的额外[攻击掷骰](Attack_rolls.md "攻击掷骰")会受到 -4 惩罚。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -295,18 +295,18 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 笔记](#notes)
-- [4 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 笔记](#笔记)
+- [4 外部链接](#外部链接)
 
 ## 概述
 
 生前，波尔是杜林伯德家族的训犬师，该家族以[杜林伯德奶酪片](Durinbold_Cheese_Wedge.md "杜林伯德奶酪片")闻名。
 
-他和他的三只幽灵犬（[戈迪斯](Gordis.md "戈迪斯")、[洛奇](Rocky.md "洛奇")和[吉娜](Zina.md "吉娜")）会攻击队伍，前提是他们的石棺被以成功的 DC 15 [力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")扰动。
+他和他的三只幽灵犬（[戈迪斯](Gordis.md "戈迪斯")、[洛奇](Rocky.md "洛奇")和[吉娜](Zina.md "吉娜")）会攻击队伍，前提是他们的石棺被以成功的 DC 15 [力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")扰动。
 
 ## 战斗
 
@@ -320,7 +320,7 @@ UUID
 
 射出一道黯蚀能量箭矢。你可以消耗[捕食者精华](Predator_Essence_(Condition).md "捕食者精华 (状态)")来强化这次射击。
 
-每层捕食者精华增加 4d10[黯蚀](Necrotic.md "黯蚀")伤害，并为你恢复 4d10[生命值](Healing.md "治疗")。
+每层捕食者精华增加 4d10[黯蚀](Necrotic.md "黯蚀")伤害，并为你恢复 4d10[治疗](Healing.md "治疗")。
 
 射程：18 米 (60 英尺)
 

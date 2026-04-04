@@ -72,7 +72,7 @@
 
 - [投石索](Slings.md "投石索")
 
-- [矛](Spears.md "矛")
+- [短矛](Spears.md "短矛")
 
 - [三叉戟](Tridents.md "三叉戟")
 
@@ -80,27 +80,27 @@
 
 - [战锤](Warhammers.md "战锤")
 
-**武器**是一种用于造成伤害的[攻击](Attack_rolls.md "攻击掷骰")的[装备](Equipment.md "装备")。武器还让[熟练](Proficiency.md "熟练项")的使用者能够使用特殊的[武器动作](Weapon_actions.md "武器动作")，是任何冒险者的必备工具。
+**武器**是一种用于造成伤害的[攻击](Attack_rolls.md "攻击掷骰")的[装备](Equipment.md "装备")。武器还让[熟练项](Proficiency.md "熟练项")的使用者能够使用特殊的[武器动作](Weapon_actions.md "武器动作")，是任何冒险者的必备工具。
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 武器栏位](#weapon-slots)
-  - [1.2 熟练项](#proficiency)
-- [2 属性](#properties)
-- [3 简易武器](#simple-weapons)
-- [4 军用武器](#martial-weapons)
-- [5 种族和职业授予的熟练项](#proficiencies-granted-by-race-and-class)
-- [6 即兴武器](#improvised-weapons)
-- [7 武器属性表](#weapon-properties-table)
-- [8 故事相关武器](#story-related_weapons)
-- [9 未使用武器](#unused-weapons)
-  - [9.1 未使用武器类型](#unused-weapon-types)
-  - [9.2 无法获取的武器](#inaccessible-weapons)
-  - [9.3 已移除武器](#removed-weapons)
-- [10 召唤物使用的武器](#weapons-used-by-summons)
-- [11 其他武器列表](#other-weapon-lists)
-- [12 注释和参考文献](#notes-and-references)
+- [1 概述](#概述)
+  - [1.1 武器栏位](#武器栏位)
+  - [1.2 熟练项](#熟练项)
+- [2 属性](#属性)
+- [3 简易武器](#简易武器)
+- [4 军用武器](#军用武器)
+- [5 种族和职业授予的熟练项](#种族和职业授予的熟练项)
+- [6 即兴武器](#即兴武器)
+- [7 武器属性表](#武器属性表)
+- [8 故事相关武器](#故事相关武器)
+- [9 未使用武器](#未使用武器)
+  - [9.1 未使用武器类型](#未使用武器类型)
+  - [9.2 无法获取的武器](#无法获取的武器)
+  - [9.3 已移除武器](#已移除武器)
+- [10 召唤物使用的武器](#召唤物使用的武器)
+- [11 其他武器列表](#其他武器列表)
+- [12 注释和参考文献](#注释和参考文献)
 
 ## 概述
 
@@ -119,7 +119,7 @@
 | 近战简易武器 |  |  |  |
 | --- | --- | --- | --- |
 | 轻型 | 单手 | 两用 | 双手 |
-| [匕首](Daggers.md "匕首") [手斧](Handaxes.md "手斧") [轻锤](Light_Hammers.md "轻锤") [镰刀](Sickles.md "镰刀") | [短棒](Clubs.md "短棒") [标枪](Javelins.md "标枪") [硬头锤](Maces.md "硬头锤") | [长棍](Quarterstaves.md "长棍") [矛](Spears.md "矛") | [巨棒](Greatclubs.md "巨棒") |
+| [匕首](Daggers.md "匕首") [手斧](Handaxes.md "手斧") [轻锤](Light_Hammers.md "轻锤") [镰刀](Sickles.md "镰刀") | [短棒](Clubs.md "短棒") [标枪](Javelins.md "标枪") [硬头锤](Maces.md "硬头锤") | [长棍](Quarterstaves.md "长棍") [短矛](Spears.md "短矛") | [巨棒](Greatclubs.md "巨棒") |
 | 远程简易武器 |  |  |  |
 | 轻型 | 单手 | 两用 | 双手 |
 | (无) | (无) | (无) | [轻弩](Light_Crossbows.md "轻弩") [短弓](Shortbows.md "短弓") |
@@ -142,7 +142,7 @@
 
 简易武器易于学习和使用。除德鲁伊、法师和术士外，所有[职业](Class.md "职业")在1级时都熟练于所有简易武器。否则，可以在4级时通过选择合适的[专长](Feat.md "专长")来获得简易武器熟练项。生物的[种族](Race.md "种族")和职业也可能授予其特定类型简易武器的熟练项；请参见下面的[种族和职业授予的熟练项](#proficiencies-granted-by-race-and-class)。
 
-- **德鲁伊：** [短棒](Club.md "短棒")、[匕首](Dagger.md "匕首")、[标枪](Javelin.md "标枪")、[硬头锤](Mace.md "硬头锤")、[长棍](Quarterstaff.md "长棍")、[镰刀](Sickle.md "镰刀")、[矛](Spear.md "矛")
+- **德鲁伊：** [短棒](Club.md "短棒")、[匕首](Dagger.md "匕首")、[标枪](Javelin.md "标枪")、[硬头锤](Mace.md "硬头锤")、[长棍](Quarterstaff.md "长棍")、[镰刀](Sickle.md "镰刀")、[短矛](Spear.md "短矛")
 - **法师、术士：** [匕首](Dagger.md "匕首")、[长棍](Quarterstaff.md "长棍")、[轻弩](Light_Crossbow.md "轻弩")
 
 ## 近战简易武器
@@ -172,7 +172,7 @@
 | [额外范围](Extra_Reach.md "额外范围") | 具有此属性的近战武器可用于攻击最多2.5米（8英尺）外的敌人，而不是常规的1.5米（5英尺）。 |
 | 银化 | (未实现。) 有些怪物对非魔法武器免疫或有抗性，但对银制武器易感。 |
 | 特殊 | 此武器适用各种特殊规则，其描述中有解释。 |
-| [投掷](Thrown.md "投掷") | 具有此属性的近战武器可以被投掷[[](#cite_note-3 "[")3][[](#cite_note-4 "[")4][[](#cite_note-5 "[")5]进行远程攻击，并正常受益于[属性值调整值](Ability_score_modifier.md "属性值调整值")（力量）和[熟练项加值](Proficiency_Bonus.md "熟练项加值")，而不是被视为即兴武器。这与灵巧属性相结合：如果投掷一把同时具有投掷和灵巧属性的[匕首](Dagger.md "匕首")，则投掷者的敏捷调整值用于攻击和伤害掷骰。 |
+| [投掷攻击](Thrown.md "投掷攻击") | 具有此属性的近战武器可以被投掷[[](#cite_note-3 "[")3][[](#cite_note-4 "[")4][[](#cite_note-5 "[")5]进行远程攻击，并正常受益于[属性值调整值](Ability_score_modifier.md "属性值调整值")（力量）和[熟练项加值](Proficiency_Bonus.md "熟练项加值")，而不是被视为即兴武器。这与灵巧属性相结合：如果投掷一把同时具有投掷和灵巧属性的[匕首](Dagger.md "匕首")，则投掷者的敏捷调整值用于攻击和伤害掷骰。 |
 | [双手](Two-Handed.md "双手") | 表示这是一把双手武器。使用它进行攻击时必须用双手持握，但也可以只用一只手携带。 |
 | [两用](Versatile.md "两用") | 表示这是一把两用武器。它可以用单手或双手使用。通常，用双手使用两用武器可提供更高的最大伤害。 |
 
@@ -206,7 +206,7 @@
 | 近战简易武器 |  |  |  |
 | --- | --- | --- | --- |
 | 轻型 | 单手 | 两用 | 双手 |
-| [匕首](Daggers.md "匕首") [手斧](Handaxes.md "手斧") [轻锤](Light_Hammers.md "轻锤") [镰刀](Sickles.md "镰刀") | [短棒](Clubs.md "短棒") [标枪](Javelins.md "标枪") [硬头锤](Maces.md "硬头锤") | [长棍](Quarterstaves.md "长棍") [矛](Spears.md "矛") | [巨棒](Greatclubs.md "巨棒") |
+| [匕首](Daggers.md "匕首") [手斧](Handaxes.md "手斧") [轻锤](Light_Hammers.md "轻锤") [镰刀](Sickles.md "镰刀") | [短棒](Clubs.md "短棒") [标枪](Javelins.md "标枪") [硬头锤](Maces.md "硬头锤") | [长棍](Quarterstaves.md "长棍") [短矛](Spears.md "短矛") | [巨棒](Greatclubs.md "巨棒") |
 | 远程简易武器 |  |  |  |
 | 轻型 | 单手 | 两用 | 双手 |
 | (无) | (无) | (无) | [轻弩](Light_Crossbows.md "轻弩") [短弓](Shortbows.md "短弓") |
@@ -234,7 +234,7 @@
 | [硬头锤](Maces.md "硬头锤") | 1d6 钝击 | 1.5米 (5英尺) |  | [震荡猛击](Concussive_Smash.md "震荡猛击") |  |
 | [镰刀](Sickles.md "镰刀") | 1d4 挥砍 | 1.5米 (5英尺) | 轻型 | [割裂](Lacerate.md "割裂") |  |
 | [长棍](Quarterstaves.md "长棍") | 1d6 钝击 | 1d8 钝击 | 1.5米 (5英尺) | 两用 | [摔绊](Topple.md "摔绊") |
-| [矛](Spears.md "矛") | 1d6 穿刺 | 1d8 穿刺 | 1.5米 (5英尺) | 两用, 投掷 | [突进攻击](Rush_Attack.md "突进攻击") |
+| [短矛](Spears.md "短矛") | 1d6 穿刺 | 1d8 穿刺 | 1.5米 (5英尺) | 两用, 投掷 | [突进攻击](Rush_Attack.md "突进攻击") |
 | [巨棒](Greatclubs.md "巨棒") | 1d8 钝击 | 1.5米 (5英尺) | 双手 | [震荡猛击](Concussive_Smash.md "震荡猛击"), [韧性](Tenacity.md "韧性") |  |
 | 军用近战武器 |  |  |  |  |  |
 | [链枷](Flails.md "链枷") | 1d8 钝击 | 1.5米 (5英尺) |  | [震荡猛击](Concussive_Smash.md "震荡猛击"), [韧性](Tenacity.md "韧性"), [弱化打击](Weakening_Strike.md "弱化打击") |  |
@@ -263,7 +263,7 @@
 
 ## 即兴武器
 
-并非武器的物品仍可作为[即兴武器](Improvised_Melee_Weapon.md "即兴近战武器")使用。请注意，这与使用非武器物品（因其外观足够像武器而允许其作为武器使用）不同。例如，当[腊肠](Salami.md "腊肠")被用作武器时，它实际上作为[短棒](Clubs.md "短棒")起作用，而不是作为即兴武器。
+并非武器的物品仍可作为[即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器")使用。请注意，这与使用非武器物品（因其外观足够像武器而允许其作为武器使用）不同。例如，当[腊肠](Salami.md "腊肠")被用作武器时，它实际上作为[短棒](Clubs.md "短棒")起作用，而不是作为即兴武器。
 
 ## 武器属性表
 
@@ -278,7 +278,7 @@
 | [额外范围](Extra_Reach.md "额外范围") | 具有此属性的近战武器可用于攻击最多2.5米（8英尺）外的敌人，而不是常规的1.5米（5英尺）。 |
 | 银化 | (未实现。) 有些怪物对非魔法武器免疫或有抗性，但对银制武器易感。 |
 | 特殊 | 此武器适用各种特殊规则，其描述中有解释。 |
-| [投掷](Thrown.md "投掷") | 具有此属性的近战武器可以被投掷[[](#cite_note-3 "[")3][[](#cite_note-4 "[")4][[](#cite_note-5 "[")5]进行远程攻击，并正常受益于[属性值调整值](Ability_score_modifier.md "属性值调整值")（力量）和[熟练项加值](Proficiency_Bonus.md "熟练项加值")，而不是被视为即兴武器。这与灵巧属性相结合：如果投掷一把同时具有投掷和灵巧属性的[匕首](Dagger.md "匕首")，则投掷者的敏捷调整值用于攻击和伤害掷骰。 |
+| [投掷攻击](Thrown.md "投掷攻击") | 具有此属性的近战武器可以被投掷[[](#cite_note-3 "[")3][[](#cite_note-4 "[")4][[](#cite_note-5 "[")5]进行远程攻击，并正常受益于[属性值调整值](Ability_score_modifier.md "属性值调整值")（力量）和[熟练项加值](Proficiency_Bonus.md "熟练项加值")，而不是被视为即兴武器。这与灵巧属性相结合：如果投掷一把同时具有投掷和灵巧属性的[匕首](Dagger.md "匕首")，则投掷者的敏捷调整值用于攻击和伤害掷骰。 |
 | [双手](Two-Handed.md "双手") | 表示这是一把双手武器。使用它进行攻击时必须用双手持握，但也可以只用一只手携带。 |
 | [两用](Versatile.md "两用") | 表示这是一把两用武器。它可以用单手或双手使用。通常，用双手使用两用武器可提供更高的最大伤害。 |
 
@@ -300,7 +300,7 @@
 | 近战简易武器 |  |  |  |
 | --- | --- | --- | --- |
 | 轻型 | 单手 | 两用 | 双手 |
-| [匕首](Daggers.md "匕首") [手斧](Handaxes.md "手斧") [轻锤](Light_Hammers.md "轻锤") [镰刀](Sickles.md "镰刀") | [短棒](Clubs.md "短棒") [标枪](Javelins.md "标枪") [硬头锤](Maces.md "硬头锤") | [长棍](Quarterstaves.md "长棍") [矛](Spears.md "矛") | [巨棒](Greatclubs.md "巨棒") |
+| [匕首](Daggers.md "匕首") [手斧](Handaxes.md "手斧") [轻锤](Light_Hammers.md "轻锤") [镰刀](Sickles.md "镰刀") | [短棒](Clubs.md "短棒") [标枪](Javelins.md "标枪") [硬头锤](Maces.md "硬头锤") | [长棍](Quarterstaves.md "长棍") [短矛](Spears.md "短矛") | [巨棒](Greatclubs.md "巨棒") |
 | 远程简易武器 |  |  |  |
 | 轻型 | 单手 | 两用 | 双手 |
 | (无) | (无) | (无) | [轻弩](Light_Crossbows.md "轻弩") [短弓](Shortbows.md "短弓") |
@@ -336,12 +336,12 @@
 | [矮人](Dwarf.md "矮人") | [战斧](Battleaxes.md "战斧")、[手斧](Handaxes.md "手斧")、[轻锤](Light_Hammers.md "轻锤")、[战锤](Warhammers.md "战锤") |
 | [精灵](Elf.md "精灵") | [长剑](Longswords.md "长剑")、[短剑](Shortswords.md "短剑")、[长弓](Longbows.md "长弓")、[短弓](Shortbows.md "短弓") |
 | [吉斯洋基人](Githyanki.md "吉斯洋基人") | [巨剑](Greatswords.md "巨剑")、[长剑](Longswords.md "长剑")、[短剑](Shortswords.md "短剑") |
-| [半精灵](Half-Elf.md "半精灵")、[人类](Human.md "人类") | [长矛](Pikes.md "长矛")、[矛](Spears.md "矛")、[长戟](Halberds.md "长戟")、[长柄刀](Glaives.md "长柄刀") |
+| [半精灵](Half-Elf.md "半精灵")、[人类](Human.md "人类") | [长矛](Pikes.md "长矛")、[短矛](Spears.md "短矛")、[长戟](Halberds.md "长戟")、[长柄刀](Glaives.md "长柄刀") |
 | 职业武器熟练项 |  |
 | [野蛮人](Barbarian.md "野蛮人")、[战士](Fighter.md "战士")、[圣武士](Paladin.md "圣武士")、[游侠](Ranger.md "游侠") | [军用武器](Martial_weapons.md "军用武器")、[简易武器](Simple_weapons.md "简易武器")（实际上，除即兴武器外的所有武器。） |
 | [吟游诗人](Bard.md "吟游诗人")、[游荡者](Rogue.md "游荡者") | [简易武器](Simple_weapons.md "简易武器")、[手弩](Hand_Crossbows.md "手弩")、[长剑](Longswords.md "长剑")、[刺剑](Rapiers.md "刺剑")、[短剑](Shortswords.md "短剑") |
 | [牧师](Cleric.md "牧师") | [简易武器](Simple_weapons.md "简易武器")、[链枷](Flails.md "链枷")、[钉头锤](Morningstars.md "钉头锤") |
-| [德鲁伊](Druid.md "德鲁伊") | [短棒](Clubs.md "短棒")、[匕首](Daggers.md "匕首")、[标枪](Javelins.md "标枪")、[硬头锤](Maces.md "硬头锤")、[长棍](Quarterstaves.md "长棍")、[弯刀](Scimitars.md "弯刀")、[镰刀](Sickles.md "镰刀")、[矛](Spears.md "矛") |
+| [德鲁伊](Druid.md "德鲁伊") | [短棒](Clubs.md "短棒")、[匕首](Daggers.md "匕首")、[标枪](Javelins.md "标枪")、[硬头锤](Maces.md "硬头锤")、[长棍](Quarterstaves.md "长棍")、[弯刀](Scimitars.md "弯刀")、[镰刀](Sickles.md "镰刀")、[短矛](Spears.md "短矛") |
 | [武僧](Monk.md "武僧") | [简易武器](Simple_weapons.md "简易武器")、[短剑](Shortswords.md "短剑") |
 | [术士](Sorcerer.md "术士")、[法师](Wizard.md "法师") | [匕首](Daggers.md "匕首")、[轻弩](Light_Crossbows.md "轻弩")、[长棍](Quarterstaves.md "长棍") |
 | [邪术师](Warlock.md "邪术师") | [简易武器](Simple_weapons.md "简易武器") |
@@ -429,8 +429,8 @@
 
 1. [↑](#cite_ref-1) 双持客[专长](Feat.md "专长")消除了此限制，并允许双持两用武器，这些武器从不是轻型的。
 1. [↑](#cite_ref-2) 在[抢先体验](Early_Access.md "抢先体验")中，有两个属性称为[重型](Heavy_(weapon_property).md "重型（武器属性）")和加载中。这些是桌面游戏中的属性，但它们的效果从未实现，也未进入最终游戏。
-1. [↑](#cite_ref-3) 在大多数情况下，投掷具有[投掷](Thrown.md "投掷")标签的武器只会添加该武器的[基础伤害](Thrown.md#Notes "投掷")以及使用者的[属性值调整值](Ability_score_modifier.md "属性值调整值")（力量）和[熟练项加值](Proficiency_Bonus.md "熟练项加值")。额外的伤害属性，例如来自[闪亮的碎颅锤](Shining_Staver-of-Skulls.md "闪亮的碎颅锤")的[光耀](Radiant.md "光耀")伤害，不会被应用。
-1. [↑](#cite_ref-4) 在大多数情况下，投掷具有[投掷](Thrown.md "投掷")标签的武器不会添加来自[武器动作](Weapon_actions.md "武器动作")的额外效果。
+1. [↑](#cite_ref-3) 在大多数情况下，投掷具有[投掷攻击](Thrown.md "投掷攻击")标签的武器只会添加该武器的[基础伤害](Thrown.md#Notes "投掷")以及使用者的[属性值调整值](Ability_score_modifier.md "属性值调整值")（力量）和[熟练项加值](Proficiency_Bonus.md "熟练项加值")。额外的伤害属性，例如来自[闪亮的碎颅锤](Shining_Staver-of-Skulls.md "闪亮的碎颅锤")的[光耀](Radiant.md "光耀")伤害，不会被应用。
+1. [↑](#cite_ref-4) 在大多数情况下，投掷具有[投掷攻击](Thrown.md "投掷攻击")标签的武器不会添加来自[武器动作](Weapon_actions.md "武器动作")的额外效果。
 1. [↑](#cite_ref-5) 明确说明投掷时会添加特定类型额外伤害的物品，例如来自[闪电混语](Lightning_Jabber.md "闪电混语")的[闪电](Lightning.md "闪电")伤害，将会添加其额外伤害。
 1. [↑](#cite_ref-6) 扩展范围增加的距离尚未精确测量，但增加量不超过标准范围的5%。
 

@@ -14,7 +14,7 @@
   - [1.5 战斗](#战斗)
   - [1.6 施法](#施法)
   - [1.7 动作经济](#动作经济)
-  - [1.8 已删除/移除的动作](#已删除移除的动作)
+  - [1.8 已删除/移除的动作](#已删除-移除的动作)
   - [1.9 装备](#装备)
   - [1.10 状态](#状态)
   - [1.11 杂项](#杂项)
@@ -77,8 +77,8 @@
   - [高级黑暗视觉](Darkvision.md "Darkvision")缩短至 40 英尺，[高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")缩短至 80 英尺。
 - 覆盖机制未实现，但远程武器攻击、[投掷](Throw.md "Throw")攻击和弹道法术仍需要对目标有视线。
 - 当生物至少高于目标 10 英尺进行远程攻击时，会因[高地](High_ground.md "High ground")获得 +2 攻击掷骰加值。当生物至少低于目标 10 英尺进行远程攻击时，会因低地获得 -2 攻击掷骰惩罚。[神射手](Sharpshooter.md "Sharpshooter")专长会移除低地惩罚。
-- 基于听觉的探测规则未实现，NPC 可能仅探测他们看到的内容。如果角色在任何生物的视线锥外[隐藏](Hide.md "Hide")，则自动成功。如果他们在生物的视线锥内尝试隐藏，或已隐藏并进入生物的视线锥，则根据生物的感官（如黑暗视觉或[盲视术](Blindsight.md "Blindsight")）和隐藏者的[隐蔽](Obscurity.md "Obscurity")等级，可能会被自动探测或可能投掷[隐匿](Stealth.md "Stealth")检定对抗生物的被动察觉。
-- 当使用同时具有[灵巧](Finesse.md "Finesse")和[投掷](Thrown.md "Thrown")属性的武器进行远程攻击时，攻击掷骰使用攻击者的[力量](Strength.md "Strength")调整值，而非选择力量和[敏捷](Dexterity.md "Dexterity")中较高的调整值（这可能是无意的开发者疏忽）。然而，伤害掷骰使用攻击者力量或敏捷调整值中较高的一个。
+- 基于听觉的探测规则未实现，NPC 可能仅探测他们看到的内容。如果角色在任何生物的视线锥外[躲藏](Hide.md "躲藏")，则自动成功。如果他们在生物的视线锥内尝试隐藏，或已隐藏并进入生物的视线锥，则根据生物的感官（如黑暗视觉或[盲视术](Blindsight.md "Blindsight")）和隐藏者的[隐蔽](Obscurity.md "Obscurity")等级，可能会被自动探测或可能投掷[隐匿](Stealth.md "Stealth")检定对抗生物的被动察觉。
+- 当使用同时具有[灵巧](Finesse.md "Finesse")和[投掷攻击](Thrown.md "投掷攻击")属性的武器进行远程攻击时，攻击掷骰使用攻击者的[力量](Strength.md "Strength")调整值，而非选择力量和[敏捷](Dexterity.md "Dexterity")中较高的调整值（这可能是无意的开发者疏忽）。然而，伤害掷骰使用攻击者力量或敏捷调整值中较高的一个。
 
 ### 施法
 
@@ -106,7 +106,7 @@
 - [坠落伤害](Falling_damage.md "Falling damage")由坠落高度决定，并根据生物最大生命值的百分比造成固定伤害。如果坠落造成超过其最大生命值 25% 的伤害，则保证使生物倒地，否则永远不会使生物倒地。
 - 对[倒地](Downed_(Condition).md "Downed (Condition)")盟友使用[协助](Help.md "Help")动作会使其恢复至 1 点生命值。此动作也可用于移除各种其他有害状态，例如[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "Ensnared (Ensnaring Strike) (Condition)")、[网缚](Enwebbed_(Condition).md "Enwebbed (Condition)")或[沉睡](Sleeping_(Condition).md "Sleeping (Condition)")。它不能用于为盟友提供攻击掷骰或属性检定的优势。
 - [跳跃](Jump.md "Jump")是一个附赠动作，消耗 10 英尺移动速度。力量值为 10 或以下时，生物可以跳跃 15 英尺，每超过 10 点的每两点力量增加 3 英尺。跳跃总是消耗 10 英尺移动，无论实际跳跃距离如何，这有效地将生物的移动速度提高了最多 20 英尺（在力量 20 时）。角色不会投掷[运动](Athletics.md "Athletics")检定以避免被跳跃过的障碍物击中，也不会投掷[体操](Acrobatics.md "Acrobatics")检定以避免在劣势地形着陆时倒地。
-- 闪避动作未实现，但[武僧](Monk.md "Monk")的[坚强防御](Patient_Defence.md "Patient Defence")和[战斗大师战士](Battle_Master.md "Battle Master")的[灵巧步法](Evasive_Footwork.md "Evasive_Footwork")策略功能类似。
+- 闪避动作未实现，但[武僧](Monk.md "Monk")的[坚强防御](Patient_Defence.md "Patient Defence")和[战斗大师](Battle_Master.md "战斗大师")的[灵巧步法](Evasive_Footwork.md "Evasive_Footwork")策略功能类似。
 - 准备动作未实现。
 - 擒抱未实现。
 - 消耗[药水](Potions.md "Potions")仅需一个附赠动作。这大大增加了在战斗中饮用药水的实用性。
@@ -129,9 +129,9 @@
 ### 装备
 
 - [武器](Weapons.md "Weapons")根据武器类型被赋予特殊的[武器动作](Weapon_actions.md "Weapon actions")。这些动作只能在使用者熟练该武器时使用，并且通常每个[短休](Short_rest.md "Short rest")只能使用一次。一些魔法武器具有其独有的额外武器动作。
-- 当角色站在[地表](Surface.md "Surface")（如火、酸或毒）上时，大多数武器可以作为附赠动作[浸蘸](Dip.md "Dip")在该地表中。这会使它们在接下来的几次攻击中造成额外的适当类型伤害。
+- 当角色站在[地表](Surface.md "Surface")（如火、酸或毒）上时，大多数武器可以作为附赠动作[蘸取](Dip.md "蘸取")在该地表中。这会使它们在接下来的几次攻击中造成额外的适当类型伤害。
 - 没有魔法物品同调系统。所有魔法物品都可以立即装备，并且可以在每个装备槽中装备一个。有两个[戒指](Rings.md "Rings")槽。
-- 常规武器攻击不存在弹药。只有[特殊箭矢](Arrows.md "Arrows")数量有限。
+- 常规武器攻击不存在弹药。只有[箭](Arrows.md "箭")数量有限。
 - 角色可以装备一套近战武器和一套远程武器，并可以自由切换。如果在近战套件中装备了盾牌，但正在主动使用远程武器套件，生物仍能受益于盾牌提供的护甲等级加成。
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")在没有手持近战武器时无法使用。无法将远程武器用作即兴武器，也无法将近战武器与手弩一起使用。
   - 借机攻击似乎直接与[受威胁](Threatened_(Condition).md "Threatened (Condition)")状态相关，该状态仅发生在装备近战武器的敌方的触及范围内。
@@ -168,7 +168,7 @@
 - [麻痹](Paralysed_(Condition).md "Paralysed (Condition)")：10 英尺内的攻击自动命中且总是暴击，而非 5 英尺内的攻击自动暴击。
 - [倒地](Prone_(Condition).md "Prone (Condition)")：倒地会对[力量](Strength.md "Strength")和[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throws.md "Saving throws")施加劣势，对倒地生物的攻击在 10 英尺范围内具有[优势](Advantage.md "Advantage")，而非 5 英尺，并且对倒地生物的远程攻击没有劣势。生物在倒地时无法做任何事情。在倒地状态下开始回合会使生物自动使用一半移动起身；如果生物在自己的回合内倒地，回合会自动结束。倒地还会使生物停止专注需要专注的法术或类似能力。
 - [被驱散](Turned_(Condition).md "Turned (Condition)")：被驱散的生物不会闪避，因为闪避未作为动作实现。如果被驱散的生物无法移动，它只会停留在原地并无所作为。
-- [湿润](Wet_(Condition).md "Wet (Condition)")：这是一个新状态，可防止角色[燃烧](Burning_(Condition).md "Burning (Condition)")，并赋予对[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "Resistance")，但也会使生物对[闪电](Lightning.md "Lightning")和[冷冻](Cold.md "Cold")伤害[易伤](Vulnerable.md "Vulnerable")。
+- [湿润](Wet_(Condition).md "Wet (Condition)")：这是一个新状态，可防止角色[燃烧](Burning_(Condition).md "Burning (Condition)")，并赋予对[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "Resistance")，但也会使生物对[闪电](Lightning.md "Lightning")和[寒冷](Cold.md "寒冷")伤害[易伤](Vulnerable.md "Vulnerable")。
 - [受威胁](Threatened_(Condition).md "Threatened (Condition)")：在目标 10 英尺内的远程攻击具有劣势，而在 5e 中，此惩罚的范围是 5 英尺。
 
 ### 杂项

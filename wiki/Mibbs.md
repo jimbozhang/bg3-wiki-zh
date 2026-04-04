@@ -88,7 +88,7 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "Archery")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "Weapons")进行的[攻击掷骰](Attack_roll.md "Attack roll")获得 +2 奖励。
 
@@ -96,11 +96,11 @@
 
 来自近战距离的弩攻击不会受到[劣势](Disadvantage.md "Disadvantage")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在一次徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -150,7 +150,7 @@
 
 - - ## 特性
 
-- [**箭术**](Archery.md "Archery")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "Weapons")进行的[攻击掷骰](Attack_roll.md "Attack roll")获得 +2 奖励。
 
@@ -158,11 +158,11 @@
 
 来自近战距离的弩攻击不会受到[劣势](Disadvantage.md "Disadvantage")。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在一次徒手或武器攻击后进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -192,12 +192,12 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
   - [2.1 攻击与能力[3]](#attacks-and-abilities%5B3%5D)
-  - [2.2 战利品](#loot)
-- [3 参考文献](#references)
-- [4 外部链接](#external-links)
+  - [2.2 战利品](#战利品)
+- [3 参考文献](#参考文献)
+- [4 外部链接](#外部链接)
 
 ## 出场
 
@@ -205,7 +205,7 @@ UUID
 
 如果队伍到达桥的尽头并与达博纳进行对话<sup>[\[1\]](#cite_note-1)</sup>，米布斯会加入对话，阻止达博纳并欢迎队伍进入上城区<sup>[\[2\]](#cite_note-2），而[君主](The_Emperor.md "The Emperor")</sup>会插话（正如它在过桥时反复做的那样），警告队伍正在被愚弄，并敦促他们立刻折返。
 
-通过 DC 15 的[洞悉](Insight.md "Insight")[检定](Ability_Check.md "Ability check")可以发现米布斯的行为并非出于他本人，他正被控制（大概是由[耐色脑](Netherbrain.md "Netherbrain")控制）。
+通过 DC 15 的[洞悉](Insight.md "Insight")[属性检定](Ability_Check.md "属性检定")可以发现米布斯的行为并非出于他本人，他正被控制（大概是由[耐色脑](Netherbrain.md "Netherbrain")控制）。
 
 如果队伍在获得所有[耐色石](Netherstone.md "Netherstone")后返回城市，队列附近的三名受感染难民会转变为[夺心魔](Mind_flayer.md "Mind Flayer")并攻击路人。米布斯[受惊](Surprised_(Condition).md "Surprised (Condition)")，但会与队伍并肩作战。一旦夺心魔死亡，他和周围的所有焰拳成员都会跑去警告他们的上级，然后在跑得足够远后从游戏中完全消失。
 

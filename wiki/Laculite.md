@@ -1,6 +1,6 @@
 # 天蓝石
 
-**天蓝石**是一种[炼金术材料](Alchemy.md "炼金术")。将3个天蓝石组合可制成[天蓝石悬液](Suspension_of_Laculite.md "天蓝石悬液")，用于制作[高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation.md "高效奥术滋养灵药")。
+**天蓝石**是一种[炼金术](Alchemy.md "炼金术")。将3个天蓝石组合可制成[天蓝石悬液](Suspension_of_Laculite.md "天蓝石悬液")，用于制作[高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation.md "高效奥术滋养灵药")。
 
 这种水晶形成于[幽暗地域](Underdark.md "幽暗地域")浑浊扭曲的水域中。常由[地底侏儒](Deep_Gnome.md "地底侏儒")开采，但被认为不如他们偏爱的红宝石珍贵。
 

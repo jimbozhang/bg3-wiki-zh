@@ -33,7 +33,7 @@
 
 ## 备注
 
-- 可通过任何治愈[疾病](Diseased.md "患病")的效果提前结束，例如[恢复](Lesser_Restoration.md "恢复")、[圣疗](Lay_on_Hands.md "圣疗")或[活力药水](Potion_of_Vitality.md "活力药水")。
+- 可通过任何治愈[患病](Diseased.md "患病")的效果提前结束，例如[恢复](Lesser_Restoration.md "恢复")、[圣疗](Lay_on_Hands.md "圣疗")或[活力药水](Potion_of_Vitality.md "活力药水")。
 
 ## 烂肉症来源
 

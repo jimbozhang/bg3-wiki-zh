@@ -28,7 +28,7 @@
 
 ## 备注
 
-- 此物品位于上锁的书柜后，可通过DC 18的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")开启。
+- 此物品位于上锁的书柜后，可通过DC 18的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")开启。
 - [卡利德](Khalid.md "Khalid")是贾希拉已故的丈夫，也是原版《博德之门》中的伙伴。帮助他收集制作此护符的材料是《博德之门：巨龙之矛围攻》中的一个支线任务主题，之后该物品成为游戏中的物品。参见：⁠[The Gift](https://baldursgate.fandom.com/wiki/The_Gift)
 
 _关于奇怪礼物：_

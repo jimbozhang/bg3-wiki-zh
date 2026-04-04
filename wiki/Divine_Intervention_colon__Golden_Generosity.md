@@ -2,7 +2,7 @@
 
 **神圣干预：神圣馈赠**是[牧师](Cleric.md "牧师")的一次性职业动作，可以执行[神圣干预](Divine_Intervention.md "神圣干预")。
 
-此能力会在牧师身边的地面上生成一个名为*恩赐之礼*的宝箱，其中包含[营地补给](Camp_supplies.md "营地补给")、[特效](Potion_of_Superior_Healing.md "特效治疗药水")或[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")，以及六到七瓶灵药。
+此能力会在牧师身边的地面上生成一个名为*恩赐之礼*的宝箱，其中包含[营地补给](Camp_supplies.md "营地补给")、[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")或[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")，以及六到七瓶灵药。
 
 ## 描述
 

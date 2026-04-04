@@ -4,13 +4,13 @@
 
 ## 目录
 
-- [1 描述](#description)
-- [2 可用法术](#available-spells)
-  - [2.1 戏法](#cantrips)
-  - [2.2 1环法术](#level-1-spells)
-  - [2.3 2环法术](#level-2-spells)
+- [1 描述](#描述)
+- [2 可用法术](#可用法术)
+  - [2.1 戏法](#戏法)
+  - [2.2 1环法术](#1环法术)
+  - [2.3 2环法术](#2环法术)
   - [2.4 3环法术](#level-3-spells)
-  - [2.5 4环法术](#level-4-spells)
+  - [2.5 4环法术](#4环法术)
   - [2.6 5环法术](#level-5-spells)
 
 ## 描述
@@ -62,7 +62,7 @@
 
 - [十字军披风](Crusader's_Mantle.md "Crusader's Mantle") * [昼明术](Daylight.md "Daylight")
 
-- [火球术术](Fireball.md "Fireball")
+- [火球术](Fireball.md "火球术")
 
 - [气化形体](Gaseous_Form.md "Gaseous Form") *[给予飞行](Grant_Flight.md "Grant Flight")* [加速术](Haste.md "Haste") *[哈达之饥渴](Hunger_of_Hadar.md "Hunger of Hadar")* [闪电束](Lightning_Bolt.md "Lightning Bolt")
 

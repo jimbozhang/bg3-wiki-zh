@@ -14,12 +14,12 @@
 
 ## 目录
 
-- [1 智力调整值表](#intelligence-modifier-chart)
-- [2 提升方式](#ways-to-increase)
-- [3 相关物品](#related-items)
-  - [3.1 影响智力](#affecting-intelligence)
-  - [3.2 影响豁免检定](#affecting-saving-throws)
-  - [3.3 受益于智力](#benefiting-from-intelligence)
+- [1 智力调整值表](#智力调整值表)
+- [2 提升方式](#提升方式)
+- [3 相关物品](#相关物品)
+  - [3.1 影响智力](#影响智力)
+  - [3.2 影响豁免检定](#影响豁免检定)
+  - [3.3 受益于智力](#受益于智力)
 
 ## 智力调整值表
 

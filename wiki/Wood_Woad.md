@@ -63,23 +63,23 @@
 
 - [**再生**](Regeneration_(Condition).md "再生 (状态)")
 
-- 菘蓝树人如果穿过藤蔓地表，会恢复 10⁠⁠[生命值](Healing.md "治疗")，除非它最近受到了 ⁠[火焰](Fire.md "火焰")伤害。
+- 菘蓝树人如果穿过藤蔓地表，会恢复 10⁠⁠[治疗](Healing.md "治疗")，除非它最近受到了 ⁠[火焰](Fire.md "火焰")伤害。
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔力短棒**](Magic_Club.md "魔力短棒")
+- [魔力短棒](Magic_Club.md "魔力短棒")
 
 在菘蓝树人手中，普通的[短棒](Club.md "短棒")变得具有魔法，并额外造成 3d4⁠⁠[钝击](Bludgeoning.md "钝击")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**再生**](Regeneration.md "再生")
+- [再生](Regeneration.md "再生")
 
 菘蓝树人如果穿过藤蔓地表，会恢复 10 生命值，除非它最近受到了 ⁠[火焰](Fire.md "火焰")伤害。
 
@@ -123,23 +123,23 @@
 
 - [**再生**](Regeneration_(Condition).md "再生 (状态)")
 
-- 菘蓝树人如果穿过藤蔓地表，会恢复 10⁠⁠[生命值](Healing.md "治疗")，除非它最近受到了 ⁠[火焰](Fire.md "火焰")伤害。
+- 菘蓝树人如果穿过藤蔓地表，会恢复 10⁠⁠[治疗](Healing.md "治疗")，除非它最近受到了 ⁠[火焰](Fire.md "火焰")伤害。
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔力短棒**](Magic_Club.md "魔力短棒")
+- [魔力短棒](Magic_Club.md "魔力短棒")
 
 在菘蓝树人手中，普通的[短棒](Club.md "短棒")变得具有魔法，并额外造成 3d4⁠⁠[钝击](Bludgeoning.md "钝击")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**再生**](Regeneration.md "再生")
+- [再生](Regeneration.md "再生")
 
 菘蓝树人如果穿过藤蔓地表，会恢复 10 生命值，除非它最近受到了 ⁠[火焰](Fire.md "火焰")伤害。
 
@@ -183,23 +183,23 @@
 
 - [**再生**](Regeneration_(Condition).md "再生 (状态)")
 
-- 菘蓝树人如果穿过藤蔓地表，会恢复 10⁠⁠[生命值](Healing.md "治疗")，除非它最近受到了 ⁠[火焰](Fire.md "火焰")伤害。
+- 菘蓝树人如果穿过藤蔓地表，会恢复 10⁠⁠[治疗](Healing.md "治疗")，除非它最近受到了 ⁠[火焰](Fire.md "火焰")伤害。
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔力短棒**](Magic_Club.md "魔力短棒")
+- [魔力短棒](Magic_Club.md "魔力短棒")
 
 在菘蓝树人手中，普通的[短棒](Club.md "短棒")变得具有魔法，并额外造成 3d4⁠⁠[钝击](Bludgeoning.md "钝击")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**再生**](Regeneration.md "再生")
+- [再生](Regeneration.md "再生")
 
 菘蓝树人如果穿过藤蔓地表，会恢复 10 生命值，除非它最近受到了 ⁠[火焰](Fire.md "火焰")伤害。
 

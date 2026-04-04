@@ -12,22 +12,22 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 地点](#locations)
-  - [2.1 孵化室](#nursery)
-  - [2.2 手术室](#surgery-room)
-  - [2.3 小魔鬼战斗室](#imp-battle-room)
-  - [2.4 蜕变室](#ceremorphosis-chambers)
-  - [2.5 舰桥](#helm)
-- [3 相关地点](#related-locations)
-- [4 相关任务](#related-quests)
-- [5 角色](#characters)
-- [6 生物](#creatures)
-- [7 战利品](#loot)
-- [8 画廊](#gallery)
-- [9 成就](#achievements)
-- [10 注释](#notes)
-- [11 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 地点](#地点)
+  - [2.1 孵化室](#孵化室)
+  - [2.2 手术室](#手术室)
+  - [2.3 小魔鬼战斗室](#小魔鬼战斗室)
+  - [2.4 蜕变室](#蜕变室)
+  - [2.5 舰桥](#舰桥)
+- [3 相关地点](#相关地点)
+- [4 相关任务](#相关任务)
+- [5 角色](#角色)
+- [6 生物](#生物)
+- [7 战利品](#战利品)
+- [8 画廊](#画廊)
+- [9 成就](#成就)
+- [10 注释](#注释)
+- [11 外部链接](#外部链接)
 
 ## 概述
 
@@ -57,9 +57,9 @@ _关于如何逃离的完整描述可在相关任务⁠[逃离鹦鹉螺](Escape_
 
 在附近的一个夺心魔贮囊中困着[影心](Shadowheart.md "影心")，解救她即可完成⁠[解救灵吸怪的俘虏](Rescue_the_Illithids'_Captive.md "解救灵吸怪的俘虏")。贮囊可以通过几种方式打开：
 
-- [邪术师](Warlock.md "邪术师")、[法师](Wizard.md "法师")和[术士](Sorcerer.md "术士")可以通过通过 DC 7 [奥秘](Arcana.md "奥秘")[检定](Ability_Check.md "属性检定")来释放她
-- [野蛮人](Barbarian.md "野蛮人")可以通过通过 DC 10 [力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")来释放她
-- 使用第二个房间中一具尸体携带的[石板](Eldritch_Rune.md "诡异符文")
+- [邪术师](Warlock.md "邪术师")、[法师](Wizard.md "法师")和[术士](Sorcerer.md "术士")可以通过通过 DC 7 [奥秘](Arcana.md "奥秘")[属性检定](Ability_Check.md "属性检定")来释放她
+- [野蛮人](Barbarian.md "野蛮人")可以通过通过 DC 10 [力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")来释放她
+- 使用第二个房间中一具尸体携带的[诡异符文](Eldritch_Rune.md "诡异符文")
 
 在第二个蜕变室中，与影心的房间相邻，一个毫无反应的女人被困在夺心魔贮囊中。她身后的控制台有一个标有“完美”的按钮。按下按钮会使她经历[蜕变](Ceremorphosis.md "蜕变")。
 

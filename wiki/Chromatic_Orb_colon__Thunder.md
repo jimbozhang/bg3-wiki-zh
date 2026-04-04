@@ -1,6 +1,6 @@
 # 繁彩球：雷鸣
 
-**繁彩球：雷鸣** 是一个 [等级1 塑能学派法术](Spells.md "Spells")。此法术是 [繁彩球](Chromatic_Orb.md "Chromatic Orb") 的一个变体。它允许施法者投掷一个雷鸣球，造成雷鸣伤害。
+**繁彩球：雷鸣** 是一个 [法术](Spells.md "法术")。此法术是 [繁彩球](Chromatic_Orb.md "Chromatic Orb") 的一个变体。它允许施法者投掷一个雷鸣球，造成雷鸣伤害。
 
 ## 描述
 

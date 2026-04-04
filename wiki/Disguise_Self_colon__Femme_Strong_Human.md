@@ -1,6 +1,6 @@
 # 伪装术：强壮女性人类
 
-**伪装术：强壮女性人类** 是一个 [等级 1 幻术学派法术](Spells.md "Spells")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。此法术允许施法者暂时将自己的外观改变为强壮的女性 [人类](Human.md "Human") 形态。
+**伪装术：强壮女性人类** 是一个 [法术](Spells.md "法术")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。此法术允许施法者暂时将自己的外观改变为强壮的女性 [人类](Human.md "Human") 形态。
 
 ## 描述
 

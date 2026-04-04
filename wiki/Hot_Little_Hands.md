@@ -18,7 +18,7 @@
 
 持续时间：2 驱散
 
-[体](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws")（[DC](DC.md "DC"）8）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "Saving throws")（[DC](DC.md "DC"）8）
 
 - 每驱散受到 1d4⁠⁠[火焰](Fire.md "Fire") 伤害。
 - 可通过[协助](Help.md "Help")动作、使用[治疗药水](Potion_of_Healing.md "Potion of Healing")或获得[濡湿](Wet_(Condition).md "Wet (Condition)")状态来移除。

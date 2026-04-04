@@ -94,25 +94,25 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
-此生物可以看穿魔法和非魔法的[黑暗](Darkness.md "Darkness")，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
+此生物可以看穿魔法和非魔法的[黑暗术](Darkness.md "黑暗术")，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
 ## 探索者难度属性
 
@@ -158,25 +158,25 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
-此生物可以看穿魔法和非魔法的[黑暗](Darkness.md "Darkness")，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
+此生物可以看穿魔法和非魔法的[黑暗术](Darkness.md "黑暗术")，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
 ## 硬核难度属性
 
@@ -222,25 +222,25 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
-此生物可以看穿魔法和非魔法的[黑暗](Darkness.md "Darkness")，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
+此生物可以看穿魔法和非魔法的[黑暗术](Darkness.md "黑暗术")，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
 ## 技术
 
@@ -270,7 +270,7 @@ Stats
 
 全力攻击敌人造成伤害，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 

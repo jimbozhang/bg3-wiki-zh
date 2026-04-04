@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[在这段文字中，你遇到了由一位名为“绝不容忍末日鲱鱼生存的奥莱利”的[圣武士](Paladin.md "圣武士")转录和诠释的海姆神的强硬教义。他选择这个名字是因为他确信[赞萨塔尔](https://forgottenrealms.fandom.com/wiki/Xanathar)组织并非由一只多眼的[眼魔](https://forgottenrealms.fandom.com/wiki/beholder)怪物领导，而是由一种名为末日鲱鱼的东西领导。这些教义是常见的宗教内容，仅因海姆专注于为需要保护的人提供保护而略有不同，形成了钢铁般的护盾以及对温顺和被压迫者的同情。\]
+\[圣武士](Paladin.md "圣武士")转录和诠释的海姆神的强硬教义。他选择这个名字是因为他确信[赞萨塔尔](https://forgottenrealms.fandom.com/wiki/Xanathar)组织并非由一只多眼的[眼魔](https://forgottenrealms.fandom.com/wiki/beholder)怪物领导，而是由一种名为末日鲱鱼的东西领导。这些教义是常见的宗教内容，仅因海姆专注于为需要保护的人提供保护而略有不同，形成了钢铁般的护盾以及对温顺和被压迫者的同情。\]
 
 ---
 *Source: [Lessons of Helm](https://bg3.wiki/wiki/Lessons_of_Helm)*

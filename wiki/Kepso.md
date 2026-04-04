@@ -93,19 +93,19 @@ Male
 
 ## Features
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 Can make an additional attack after an unarmed or weapon attack.
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 When rolling [双手](Two-Handed.md "Two-Handed") melee damage, any die rolling 1 or 2 is rerolled once.
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack rolls") within 3 m / 10 ft of an ally with a shield who isn't [失能](Incapacitated_(Condition)..md)
 
@@ -161,19 +161,19 @@ Upon being missed with a melee attack, can expend a [卓越骰子](Superiority_D
 
 ## Features
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 Can make an additional attack after an unarmed or weapon attack.
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 When rolling [双手](Two-Handed.md "Two-Handed") melee damage, any die rolling 1 or 2 is rerolled once.
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack rolls") within 3 m / 10 ft of an ally with a shield who isn't [失能](Incapacitated_(Condition)..md)
 
@@ -229,19 +229,19 @@ Upon being missed with a melee attack, can expend a [卓越骰子](Superiority_D
 
 ## Features
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 Can make an additional attack after an unarmed or weapon attack.
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 When rolling [双手](Two-Handed.md "Two-Handed") melee damage, any die rolling 1 or 2 is rerolled once.
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 Attack an enemy moving out of reach.
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack rolls") within 3 m / 10 ft of an ally with a shield who isn't [失能](Incapacitated_(Condition)..md)
 
@@ -275,11 +275,11 @@ Stats
 
 ## Contents
 
-- [1 Involvement](#involvement)
-- [2 Combat](#combat)
-  - [2.1 Attacks and abilities](#attacks-and-abilities)
-  - [2.2 Notable loot](#notable-loot)
-- [3 Idle banter](#idle-banter)
+- [1 Involvement](#Involvement)
+- [2 Combat](#Combat)
+  - [2.1 Attacks and abilities](#Attacks-and-abilities)
+  - [2.2 Notable loot](#Notable-loot)
+- [3 Idle banter](#Idle-banter)
 
 ## Involvement
 
@@ -311,7 +311,7 @@ Slash at your target's vital points to make it [流血](Bleeding_(Condition).md 
 
 [不死生物](Undead.md "Undead") and [构装生物](Constructs.md "Constructs") can't bleed.
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 Range: Normal weapon range
 Recharge: [短休](Short_rest.md "Short rest")
 
@@ -333,7 +333,7 @@ Damage: 6~9
 
 Charge forward and attack the first enemy in your way, possibly pushing them [失衡](Off_Balance_(Condition).md "Off Balance (Condition)").
 
-[力](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "Saving throws")
 Range: 9 m (30 ft)
 Recharge: [短休](Short_rest.md "Short rest")
 

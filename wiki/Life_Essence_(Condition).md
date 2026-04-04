@@ -2,7 +2,7 @@
 
 **生命精华**
 
-- 受影响实体已吸收了一个生物的精华。它可以使用该精华来施放任何[死灵学派法术](Necromancy.md "死灵学派")，而不会消耗[法术位](Spells.md#Spell_slots "法术")。
+- 受影响实体已吸收了一个生物的精华。它可以使用该精华来施放任何[死灵学派](Necromancy.md "死灵学派")，而不会消耗[法术位](Spells.md#Spell_slots "法术")。
 
 ## 属性
 
@@ -34,7 +34,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 受影响实体已吸收了一个生物的精华。它可以使用该精华来施放任何[死灵学派法术](Necromancy.md "死灵学派")，而不会消耗[法术位](Spells.md#Spell_slots "法术")。
+- 受影响实体已吸收了一个生物的精华。它可以使用该精华来施放任何[死灵学派](Necromancy.md "死灵学派")，而不会消耗[法术位](Spells.md#Spell_slots "法术")。
 
 ---
 *Source: [Life Essence (Condition)](https://bg3.wiki/wiki/Life_Essence_(Condition)*

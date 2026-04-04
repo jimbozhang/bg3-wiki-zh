@@ -1,32 +1,32 @@
 # 神圣打击
 
-**神圣打击**是以下领域8级[牧师](Cleric.md "牧师")可用的[武器动作](Weapon_actions.md "武器动作")：[生命](Life_Domain.md "生命领域")、[诡术](Trickery_Domain.md "诡术领域")、[自然](Nature_Domain.md "自然领域")、[风暴](Tempest_Domain.md "风暴领域")和[战争](War_Domain.md "战争领域")。它每回合可使用一次，在武器打击（近战或远程）时造成1d8点额外伤害，伤害类型取决于所选领域。
+**神圣打击**是以下领域8级[牧师](Cleric.md "牧师")可用的[武器动作](Weapon_actions.md "武器动作")：[生命领域](Life_Domain.md "生命领域")、[诡术领域](Trickery_Domain.md "诡术领域")、[自然领域](Nature_Domain.md "自然领域")、[风暴领域](Tempest_Domain.md "风暴领域")和[战争领域](War_Domain.md "战争领域")。它每回合可使用一次，在武器打击（近战或远程）时造成1d8点额外伤害，伤害类型取决于所选领域。
 
 ## 目录
 
-- [1 变体](#variations)
-- [2 使用神圣打击](#using-divine-strike)
-- [3 注意事项](#notes)
-- [4 错误](#bugs)
+- [1 变体](#变体)
+- [2 使用神圣打击](#使用神圣打击)
+- [3 注意事项](#注意事项)
+- [4 错误](#错误)
 
 ## 变体
 
 | 领域 | 伤害 | 变体 |
 | --- | --- | --- |
 | [死亡](Death_Domain.md "死亡领域") | 1d8⁠⁠[黯蚀](Necrotic.md "黯蚀") | [神圣打击：黯蚀（近战）](Divine_Strike_colon__Necrotic_(Melee).md "神圣打击：黯蚀（近战）") [神圣打击：黯蚀（远程）](Divine_Strike_colon__Necrotic_(Ranged).md "神圣打击：黯蚀（远程）") |
-| [生命](Life_Domain.md "生命领域") | 1d8⁠⁠[光耀](Radiant.md "光耀") | [神圣打击：光耀（近战）](Divine_Strike_colon__Radiant_(Melee).md "神圣打击：光耀（近战）") [神圣打击：光耀（远程）](Divine_Strike_colon__Radiant_(Ranged).md "神圣打击：光耀（远程）") |
-| [自然](Nature_Domain.md "自然领域") | 1d8⁠⁠[寒冷](Cold.md "寒冷") | [神圣打击：寒冷（近战）](Divine_Strike_colon__Cold_(Melee).md "神圣打击：寒冷（近战）") [神圣打击：寒冷（远程）](Divine_Strike_colon__Cold_(Ranged).md "神圣打击：寒冷（远程）") |
+| [生命领域](Life_Domain.md "生命领域") | 1d8⁠⁠[光耀](Radiant.md "光耀") | [神圣打击：光耀（近战）](Divine_Strike_colon__Radiant_(Melee).md "神圣打击：光耀（近战）") [神圣打击：光耀（远程）](Divine_Strike_colon__Radiant_(Ranged).md "神圣打击：光耀（远程）") |
+| [自然领域](Nature_Domain.md "自然领域") | 1d8⁠⁠[寒冷](Cold.md "寒冷") | [神圣打击：寒冷（近战）](Divine_Strike_colon__Cold_(Melee).md "神圣打击：寒冷（近战）") [神圣打击：寒冷（远程）](Divine_Strike_colon__Cold_(Ranged).md "神圣打击：寒冷（远程）") |
 | 1d8⁠⁠[火焰](Fire.md "火焰") | [神圣打击：火焰（近战）](Divine_Strike_colon__Fire_(Melee).md "神圣打击：火焰（近战）") [神圣打击：火焰（远程）](Divine_Strike_colon__Fire_(Ranged).md "神圣打击：火焰（远程）") |  |
 | 1d8⁠⁠[闪电](Lightning.md "闪电") | [神圣打击：闪电（近战）](Divine_Strike_colon__Lightning_(Melee).md "神圣打击：闪电（近战）") [神圣打击：闪电（远程）](Divine_Strike_colon__Lightning_(Ranged).md "神圣打击：闪电（远程）") |  |
-| [风暴](Tempest_Domain.md "风暴领域") | 1d8⁠⁠[雷鸣](Thunder.md "雷鸣") | [神圣打击：雷鸣（近战）](Divine_Strike_colon__Thunder_(Melee).md "神圣打击：雷鸣（近战）") [神圣打击：雷鸣（远程）](Divine_Strike_colon__Thunder_(Ranged).md "神圣打击：雷鸣（远程）") |
-| [诡术](Trickery_Domain.md "诡术领域") | 1d8⁠⁠[中毒](Poison.md "中毒") | [神圣打击：中毒（近战）](Divine_Strike_colon__Poison_(Melee).md "神圣打击：中毒（近战）") [神圣打击：中毒（远程）](Divine_Strike_colon__Poison_(Ranged).md "神圣打击：中毒（远程）") |
-| [战争](War_Domain.md "战争领域") | 1d8⁠⁠[武器](Weapon.md "武器") | [神圣打击：武器（近战）](Divine_Strike_colon__Weapon_(Melee).md "神圣打击：武器（近战）") [神圣打击：武器（远程）](Divine_Strike_colon__Weapon_(Ranged).md "神圣打击：武器（远程）") |
+| [风暴领域](Tempest_Domain.md "风暴领域") | 1d8⁠⁠[雷鸣](Thunder.md "雷鸣") | [神圣打击：雷鸣（近战）](Divine_Strike_colon__Thunder_(Melee).md "神圣打击：雷鸣（近战）") [神圣打击：雷鸣（远程）](Divine_Strike_colon__Thunder_(Ranged).md "神圣打击：雷鸣（远程）") |
+| [诡术领域](Trickery_Domain.md "诡术领域") | 1d8⁠⁠[中毒](Poison.md "中毒") | [神圣打击：中毒（近战）](Divine_Strike_colon__Poison_(Melee).md "神圣打击：中毒（近战）") [神圣打击：中毒（远程）](Divine_Strike_colon__Poison_(Ranged).md "神圣打击：中毒（远程）") |
+| [战争领域](War_Domain.md "战争领域") | 1d8⁠⁠[武器](Weapon.md "武器") | [神圣打击：武器（近战）](Divine_Strike_colon__Weapon_(Melee).md "神圣打击：武器（近战）") [神圣打击：武器（远程）](Divine_Strike_colon__Weapon_(Ranged).md "神圣打击：武器（远程）") |
 
 ## 使用神圣打击
 
 有两种使用神圣打击的方式。第一种是直接使用相应的攻击能力（例如[神圣打击：光耀（近战）](Divine_Strike_colon__Radiant_(Melee).md "神圣打击：光耀（近战）")）。第二种是使用任何其他武器攻击，并让神圣打击在命中后作为后击反应触发。以此方式触发不会消耗[反应](Actions.md#Reactions "动作")，但其配置方式与[反应选项卡](Actions.md#The_Reactions_tab "动作")中的其他反应相同。
 
-将神圣打击用作反应意味着它可以与任何攻击结合使用，例如副手攻击、[武器动作](Weapon_action.md "武器动作")、使用[特殊箭矢](Arrows.md "箭矢")或[借机攻击](Opportunity_Attack.md "借机攻击")。另一方面，直接使用该能力始终等同于一次基础主手攻击，并附加神圣打击的1d8点额外伤害。因此，通常最好将神圣打击作为反应触发，因为它在更多情况下有效。
+将神圣打击用作反应意味着它可以与任何攻击结合使用，例如副手攻击、[武器动作](Weapon_action.md "武器动作")、使用[箭](Arrows.md "箭")或[借机攻击](Opportunity_Attack.md "借机攻击")。另一方面，直接使用该能力始终等同于一次基础主手攻击，并附加神圣打击的1d8点额外伤害。因此，通常最好将神圣打击作为反应触发，因为它在更多情况下有效。
 
 神圣打击仅适用于近战和远程武器，不能用于徒手攻击或投掷武器，即使作为反应也不行。
 

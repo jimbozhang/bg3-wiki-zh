@@ -93,27 +93,27 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**岩石伪装**](Stone_Camouflage.md "岩石伪装")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
-你在[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "检定")上具有[优势](Advantage.md "优势")。
+你在[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个生物时，你获得等于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -163,27 +163,27 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**岩石伪装**](Stone_Camouflage.md "岩石伪装")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
-你在[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "检定")上具有[优势](Advantage.md "优势")。
+你在[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个生物时，你获得等于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -233,27 +233,27 @@
 
 - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**岩石伪装**](Stone_Camouflage.md "岩石伪装")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
-你在[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "检定")上具有[优势](Advantage.md "优势")。
+你在[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**惧怖收割**](Grim_Harvest.md "惧怖收割")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
 
 杀死一个生物时，你获得等于所用法术位等级两倍的生命值，如果是死灵学派法术则为三倍。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -275,10 +275,10 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
 
 ## 参与
 
@@ -294,7 +294,7 @@ Stats
 
 4d10⁠[穿刺](Piercing.md "穿刺")
 
-蝗虫攻击范围内的所有人，使该区域成为[劣势地形](Difficult_Terrain.md "劣势地形")，并对[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "检定")施加[劣势](Disadvantage.md "劣势")。
+蝗虫攻击范围内的所有人，使该区域成为[劣势地形](Difficult_Terrain.md "劣势地形")，并对[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。
 
 [体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")
 范围: 18 米 (60 英尺)

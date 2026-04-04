@@ -35,7 +35,7 @@
 
 ### 第二章
 
-[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")被揭示为米尔寇的选民。在[月出之塔](Moonrise_Towers.md "月出之塔")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，凯瑟里克·索姆由[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")和[腥红奥林](Orin.md "腥红奥林")陪同。人们发现死之三神——[灾祸术](Bane_(God).md), ⁠[巴尔](Bhaal.md "巴尔")和米尔寇——再次结盟，让他们的选民创建至上真神教团。凯瑟里克使用他的[耐色石](Ketheric's_Netherstone.md "凯瑟里克的耐色石")，即米尔寇的遗嘱，向[耐色脑](Netherbrain.md "耐色脑")下令，让至上真神的军队向[博德之门](Baldur's_Gate.md "博德之门")进军。
+[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")被揭示为米尔寇的选民。在[月出之塔](Moonrise_Towers.md "月出之塔")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，凯瑟里克·索姆由[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")和[奥林](Orin.md "奥林")陪同。人们发现死之三神——[灾祸术](Bane_(God).md), ⁠[巴尔](Bhaal.md "巴尔")和米尔寇——再次结盟，让他们的选民创建至上真神教团。凯瑟里克使用他的[凯瑟里克的耐色石](Ketheric's_Netherstone.md "凯瑟里克的耐色石")，即米尔寇的遗嘱，向[耐色脑](Netherbrain.md "耐色脑")下令，让至上真神的军队向[博德之门](Baldur's_Gate.md "博德之门")进军。
 
 当与凯瑟里克·索姆对峙时，他透露米尔寇复活了他的女儿[伊索贝尔](Isobel_Thorm.md "伊索贝尔·索姆")，以换取成为他的选民，并协助灾祸术和巴尔的选民发展[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")，以及他最终背叛他们以掌控该教团。
 

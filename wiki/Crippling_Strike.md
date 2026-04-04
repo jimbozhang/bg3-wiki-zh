@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：1~4 + 调整值
 
-1d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[武器](Weapon.md "武器")
+1d4 + [灵巧](Finesse.md "灵巧")⁠[武器](Weapon.md "武器")
 
 详情
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
@@ -53,7 +53,7 @@ UID
 - [塞伦涅的暗夜短矛](Sel%C3%BBne's_Spear_of_Night.md "塞伦涅的暗夜短矛")
 - [尼鲁纳](Nyrulna.md "尼鲁纳")
 
-通过[熟练](Proficiency.md "熟练")使用以下武器类型提供：
+通过[熟练项](Proficiency.md "熟练项")使用以下武器类型提供：
 
 - [战斧](Battleaxes.md "战斧")
 - [战镐](War_Picks.md "战镐")

@@ -89,7 +89,7 @@
 
 - - - - - ## Features
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
@@ -139,7 +139,7 @@
 
 - - - - - ## Features
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
@@ -189,7 +189,7 @@
 
 - - - - - ## Features
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开攻击范围的敌人。
 
@@ -248,7 +248,7 @@ Recharge: Per combat
 
 尝试阻止一个正在施放的法术。
 
-如果该法术的等级高于你用于法术反制的法术位，你必须使用你的施法关键属性进行一次 [检定](Ability_Check.md "Ability Check") _\[[查看注释](Counterspell.md#Notes "Counterspell")\]_ 来阻止它。检定的难度等于 10 加上你试图反制的法术的等级。
+如果该法术的等级高于你用于法术反制的法术位，你必须使用你的施法关键属性进行一次 [属性检定](Ability_Check.md "属性检定") _\[[查看注释](Counterspell.md#Notes "Counterspell")\]_ 来阻止它。检定的难度等于 10 加上你试图反制的法术的等级。
 
 此法术可以在你处于 [沉默](Silenced_(Condition).md "Silenced (Condition)") 状态时施放。
 
@@ -275,7 +275,7 @@ Damage: 6~24
 
 \+ 2d4⁠[强酸](Acid.md "Acid")
 
-射出一支绿色的箭，爆裂成强酸喷雾。立即造成 ⁠[4d4 强酸](Acid.md "Acid") 伤害，并在目标下一回合结束时造成 ⁠[2d4 强酸](Acid.md "Acid") 伤害。
+射出一支绿色的箭，爆裂成强酸喷雾。立即造成 ⁠[强酸](Acid.md "强酸") 伤害，并在目标下一回合结束时造成 ⁠[强酸](Acid.md "强酸") 伤害。
 
 如果法术未命中，目标仍会受到一半的初始伤害，但在其下一回合结束时不会受到伤害。
 

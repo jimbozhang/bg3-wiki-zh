@@ -2,7 +2,7 @@
 
 另请参阅：[发光物品与法术](Category_colon_Light_Emitting.md "Category:Light Emitting")
 
-**光源**是[简单近战武器](Weapons.md "Weapons")，单手挥舞，可添加至“光源”[装备](Equipment.md "Equipment")栏位。添加后，可通过快捷键装备到主手，为角色周围区域提供[光亮](Light.md "Light")。先前装备的武器将被卸下，直到再次按下快捷键或手动重新装备，这需要消耗一个[动作](Actions.md "Actions")。
+**光源**是[武器](Weapons.md "武器")，单手挥舞，可添加至“光源”[装备](Equipment.md "Equipment")栏位。添加后，可通过快捷键装备到主手，为角色周围区域提供[轻型](Light.md "轻型")。先前装备的武器将被卸下，直到再次按下快捷键或手动重新装备，这需要消耗一个[动作](Actions.md "Actions")。
 
 光源也可以手动装备到副手栏位，但前提是主手装备有[轻型武器](Light_(weapon_property).md)>（除非角色拥有[双持客](Feats.md#Dual_Wielder "Feats")专长）。
 

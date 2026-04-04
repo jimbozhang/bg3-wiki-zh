@@ -21,7 +21,7 @@
 
 ### 阵营
 
-[巴尔教团](Bhaal.md "Bhaal")
+[巴尔](Bhaal.md "巴尔")
 
 ### 家族
 
@@ -85,7 +85,7 @@ UUID
 
 Stats
 
-`GLO_Orin_Slayer` **腥红奥林**是 ⁠[巴尔](Bhaal.md "Bhaal")的选民，神秘的[绝对值教团](Cult_of_the_Absolute.md "Cult of the Absolute")的领袖之一，也是[_博德之门3_](Baldur's_Gate_3.md "Baldur's Gate 3")中的主要反派之一。
+`GLO_Orin_Slayer` **腥红奥林**是 ⁠[巴尔](Bhaal.md "Bhaal")的选民，神秘的[绝对值教团](Cult_of_the_Absolute.md "Cult of the Absolute")的领袖之一，也是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的主要反派之一。
 
 > “
 >
@@ -97,36 +97,36 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-  - [1.2 游戏玩法](#gameplay)
-  - [1.3 外观](#appearance)
-  - [1.4 性格](#personality)
-- [2 历史](#history)
-  - [2.1 巴尔教徒的成长](#bhaalist-upbringing)
-  - [2.2 奥林的背叛](#orin's-betrayal)
-- [3 相关剧情](#involvement)
-  - [3.1 第一幕](#act-one)
-  - [3.2 第二幕](#act-two)
-  - [3.3 第三幕](#act-three)
-- [4 奥林的变形](#orin's-shapeshifting)
-  - [4.1 伪装](#disguises)
-- [5 战斗](#combat)
-  - [5.1 战利品](#loot)
-- [6 相关任务](#related-quests)
-- [7 相关文献](#related-literature)
-- [8 成就](#achievements)
-- [9 画廊](#gallery)
-- [10 注释与参考](#notes-and-references)
-- [11 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+  - [1.2 游戏玩法](#游戏玩法)
+  - [1.3 外观](#外观)
+  - [1.4 性格](#性格)
+- [2 历史](#历史)
+  - [2.1 巴尔教徒的成长](#巴尔教徒的成长)
+  - [2.2 奥林的背叛](#奥林的背叛)
+- [3 相关剧情](#相关剧情)
+  - [3.1 第一幕](#第一幕)
+  - [3.2 第二幕](#第二幕)
+  - [3.3 第三幕](#第三幕)
+- [4 奥林的变形](#奥林的变形)
+  - [4.1 伪装](#伪装)
+- [5 战斗](#战斗)
+  - [5.1 战利品](#战利品)
+- [6 相关任务](#相关任务)
+- [7 相关文献](#相关文献)
+- [8 成就](#成就)
+- [9 画廊](#画廊)
+- [10 注释与参考](#注释与参考)
+- [11 外部链接](#外部链接)
 
 ## 概述
 
-作为[巴尔孽种](Bhaal.md "Bhaal")的女儿和谋杀与痛苦艺术的虔诚实践者，奥林<sup>[\[1\]](#cite_note-1)</sup>多年来以她父亲之名将街道染成红色。凭借变形能力至今未被抓获，她现在准备将博德之门打造成献给她父亲的最盛大的血腥祭品。
+作为[巴尔](Bhaal.md "巴尔")的女儿和谋杀与痛苦艺术的虔诚实践者，奥林<sup>[\[1\]](#cite_note-1)</sup>多年来以她父亲之名将街道染成红色。凭借变形能力至今未被抓获，她现在准备将博德之门打造成献给她父亲的最盛大的血腥祭品。
 
 ### 背景
 
-奥林最初通过字条被暗示，在第二幕结尾才正式登场，成为教团的三位共谋者之一，与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")和[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")并列。凭借狡诈和谋杀式的虔诚，她和她的盟友在[博德之门](Baldur's_Gate.md "Baldur's Gate")市建立了稳固的巴尔教徒据点。如今，在[耐色石](Orin's_Netherstone.md "Orin's Netherstone")的加持下，随着教团计划的推进，她意图用鲜血将城市染成深红，作为对巴尔的盛大献祭。
+奥林最初通过字条被暗示，在第二幕结尾才正式登场，成为教团的三位共谋者之一，与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")和[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")并列。凭借狡诈和谋杀式的虔诚，她和她的盟友在[博德之门](Baldur's_Gate.md "Baldur's Gate")市建立了稳固的巴尔教徒据点。如今，在[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")的加持下，随着教团计划的推进，她意图用鲜血将城市染成深红，作为对巴尔的盛大献祭。
 
 ### 游戏玩法
 
@@ -180,7 +180,7 @@ Stats
 
 ### 第二幕
 
-奥林首次与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")和[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起出现在[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "Mind_Flayer_Colony")。<sup>[\[19\]](#cite_note-19] 戈塔什和凯瑟里克之间爆发了争吵，由于她的干预才没有演变成打斗。她成功绑架了[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")</sup>，并在公爵的眼睛里植入了蝌蚪，作为他们接管城市计划的一部分。然后她加入其他选民，并使用她的[耐色石](Orin's_Netherstone.md "Orin's Netherstone")——*巴尔之鞭*，与他们一起命令[耐色脑](Netherbrain.md "Netherbrain")让绝对值的军队向[博德之门](Baldur's_Gate.md "Baldur's Gate")进军。她和戈塔什前往城市，而凯瑟里克留下来对付队伍。
+奥林首次与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")和[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起出现在[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "Mind_Flayer_Colony")。<sup>[\[19\]](#cite_note-19] 戈塔什和凯瑟里克之间爆发了争吵，由于她的干预才没有演变成打斗。她成功绑架了[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")</sup>，并在公爵的眼睛里植入了蝌蚪，作为他们接管城市计划的一部分。然后她加入其他选民，并使用她的[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")——*巴尔之鞭*，与他们一起命令[耐色脑](Netherbrain.md "Netherbrain")让绝对值的军队向[博德之门](Baldur's_Gate.md "Baldur's Gate")进军。她和戈塔什前往城市，而凯瑟里克留下来对付队伍。
 
 ### 第三幕
 
@@ -190,7 +190,7 @@ Stats
 
 到达[利文顿](Rivington.md "Rivington")后，队伍可以首次亲自遭遇奥林。她透露，她知道他们的目标是面对她和戈塔什并收集耐色石，并威胁要从此跟踪队伍，监视他们的每一步，然后再次消失。如果被邪念搭话，她会嘲弄地揭示他们作为兄弟姐妹的关系，并嘲讽他们（在此过程中授予激励点⁠[私人关系](Haunted_One.md#Personal_Relations "Haunted One")）。从那时起，她开始骚扰队伍，利用她的变形者能力变形成不同的角色。当与这些看似无害的角色交谈时，对话会逐渐变得更加暴力，直到奥林卸下伪装，煽动队伍暴力，最终与她进行血腥的遭遇。
 
-如果在与奥林对峙之前与戈塔什交谈，他可能会向队伍提供联盟。戈塔什厌倦了她的戏剧性和不可靠性，如果队伍杀死奥林并⁠[将她的耐色石带给他](Consider_Gortash's_Bargain.md "Consider Gortash's Bargain")，他愿意联手彻底制服耐色脑，并共同统治⁠[宝剑海岸](https://forgottenrealms.fandom.com/wiki/Sword_Coast)。为了说服队伍，他还透露他们的营地已被奥林渗透，她伪装成了一名队伍成员。<sup>[\[20\]](#cite_note-20] 如果达成交易，戈塔什在条件满足时会信守诺言。
+如果在与奥林对峙之前与戈塔什交谈，他可能会向队伍提供联盟。戈塔什厌倦了她的戏剧性和不可靠性，如果队伍杀死奥林并⁠[考虑戈塔什的提议](Consider_Gortash's_Bargain.md "考虑戈塔什的提议")，他愿意联手彻底制服耐色脑，并共同统治⁠[宝剑海岸](https://forgottenrealms.fandom.com/wiki/Sword_Coast)。为了说服队伍，他还透露他们的营地已被奥林渗透，她伪装成了一名队伍成员。<sup>[\[20\]](#cite_note-20] 如果达成交易，戈塔什在条件满足时会信守诺言。
 
 进入[下城区](Lower_City.md "Lower City")</sup>后，奥林在队伍其他成员不知情的情况下绑架了一名队伍成员。她绑架谁、何时绑架以及如何被发现，很大程度上取决于玩家角色与同伴的关系。奥林随后与队伍对峙，宣布她有人质在手，要求他们先处理戈塔什，然后在战斗中面对她，胜者通吃。这次遭遇开启了任务⁠[拯救奥林的受害者](Rescue_Orin's_Victim.md "Rescue Orin's Victim")。
 
@@ -198,9 +198,9 @@ Stats
 
 奥林可以在巴尔神殿的祭坛处找到。在那里，她正在玩弄她绑架的受害者，周围是巴尔教徒。当接近时，奥林威胁要杀死她的人质，不过可以通过对话说服她改变主意。如果选择邪念作为[出身](Origin.md "Origin")，他们必须按照巴尔教徒的传统，挑战她进行一对一的决斗，双方同伴不得干涉。如果邪念拒绝与奥林决斗，她会立即处决人质。队伍随后必须与标准版本的首领遭遇战战斗；战斗结束后，剧情将按照邪念输掉决斗的方式推进。
 
-或者，如果队伍对[海伦娜·安基夫](Helena_Anchev.md "Helena Anchev")的尸体使用[死者交谈](Speak_with_Dead.md "Speak with Dead")，他们可以发现沙洛佛克命令她献祭奥林。向奥林揭示这一点会导致她完全失去杀死受害者的注意力。通过阅读[沙洛佛克之书的一页](A_page_from_Sarevok's_book.md "A page from Sarevok's book")，揭露沙洛佛克是她的父亲，也可以达到同样的效果。如果队伍随后选择没有属性检定的对话选项，奥林会变得愤怒，并召唤巴尔的力量变身为[杀戮者](Slayer.md "Slayer")。然而，队伍也可以选择通过成功通过DC 25的[欺瞒](Deception.md "Deception")、[游说](Persuasion.md "Persuasion")或[宗教](Religion.md "Religion")[检定](Ability_Check.md "Ability check")来进一步嘲讽她，这会导致奥林彻底崩溃，因为她无法应对真相。巴尔通过刻在神殿墙壁上的巨大骷髅雕像对她说话，命令她战斗，并以非自然的方式强迫她的身体变成杀戮者形态。无论对话结果如何，奥林都会在对话结束时发动攻击。
+或者，如果队伍对[海伦娜·安基夫](Helena_Anchev.md "Helena Anchev")的尸体使用[死者交谈](Speak_with_Dead.md "Speak with Dead")，他们可以发现沙洛佛克命令她献祭奥林。向奥林揭示这一点会导致她完全失去杀死受害者的注意力。通过阅读[沙洛佛克之书的一页](A_page_from_Sarevok's_book.md "A page from Sarevok's book")，揭露沙洛佛克是她的父亲，也可以达到同样的效果。如果队伍随后选择没有属性检定的对话选项，奥林会变得愤怒，并召唤巴尔的力量变身为[杀戮者](Slayer.md "Slayer")。然而，队伍也可以选择通过成功通过DC 25的[欺瞒](Deception.md "Deception")、[游说](Persuasion.md "Persuasion")或[宗教](Religion.md "Religion")[属性检定](Ability_Check.md "属性检定")来进一步嘲讽她，这会导致奥林彻底崩溃，因为她无法应对真相。巴尔通过刻在神殿墙壁上的巨大骷髅雕像对她说话，命令她战斗，并以非自然的方式强迫她的身体变成杀戮者形态。无论对话结果如何，奥林都会在对话结束时发动攻击。
 
-一旦被击败，队伍可以掠夺她的尸体并获得她的[耐色石](Orin's_Netherstone.md "Orin's Netherstone")。如果邪念在场，他会获得⁠[确保你的血脉](Haunted_One.md#Securing_Your_Line "Haunted One")激励点。
+一旦被击败，队伍可以掠夺她的尸体并获得她的[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")。如果邪念在场，他会获得⁠[确保你的血脉](Haunted_One.md#Securing_Your_Line "Haunted One")激励点。
 
 ## 奥林的变形
 
@@ -218,7 +218,7 @@ Stats
 
 - [濒死的石头领主暴徒](Dying_Stone_Lord_Thug.md "Dying Stone Lord Thug")，位于利文顿的[西滩](Western_Beach.md "Western Beach")附近
 - [吉尔德罗·安格尔艾恩](Gyldro_Angleiron.md "Gyldro Angleiron")，[利文顿杂货店](Rivington_General.md "Rivington General")的铁匠
-- [莱恩斯](Lens.md "Lens")，为[博德之口公报](Baldur's_Mouth.md "Baldur's Mouth")工作的利文顿记者
+- [莱恩斯](Lens.md "Lens")，为[博德之口](Baldur's_Mouth.md "博德之口")工作的利文顿记者
 - [罗文](Rowan_(Requisitioned_Barn).md "Rowan (Requisitioned Barn)")，[焰拳](Flaming_Fist.md "Flaming Fist")成员，站在利文顿捐赠谷仓的后部附近
 - [泽希诺](Zethino.md "Zethino")，[终末马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days")的费伦爱情大师，位于利文顿
 
@@ -231,7 +231,7 @@ Stats
 ### 战利品
 
 - [祭坛钥匙](Altar_Key.md "Altar Key")
-  - [耐色石柄嗜血](Bloodthirst.md "Bloodthirst") – 拾取时分离为：
+  - [嗜血](Bloodthirst.md "嗜血") – 拾取时分离为：
   - [嗜血](Bloodthirst.md "Bloodthirst")
   - [奥林的耐色石](Orin's_Netherstone.md "Orin's Netherstone")
 - [猩红诡计](Crimson_Mischief.md "Crimson Mischief")

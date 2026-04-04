@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：10~100 + 调整值
 
-10d10 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
+10d10 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
 
 治疗：6~36
 

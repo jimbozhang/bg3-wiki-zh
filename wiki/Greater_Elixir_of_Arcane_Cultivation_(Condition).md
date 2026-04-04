@@ -85,7 +85,7 @@ _维基数据库中未定义_
 |
 
 - [体型](Creature_size.md "生物体型")增加
-- 武器造成额外**1d4**伤害，且受影响实体在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+- 武器造成额外**1d4**伤害，且受影响实体在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 - [负重](Carrying_capacity.md "负重")也增加25%。
 
 | 状态 | 效果 |
@@ -102,7 +102,7 @@ _维基数据库中未定义_
 | [英勇灵药](Elixir_of_Heroism_(Condition).md "英勇灵药 (状态)") | 受影响实体获得1d4加值至[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")，直到下一次长休。 |
 | [山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength_(Condition).md "山丘巨人力量灵药 (状态)") | [力量](Strength.md "力量")提升至21。 |
 | [卓越专注灵药](Elixir_of_Peerless_Focus_(Condition).md "卓越专注灵药 (状态)") | 受影响实体维持法术的能力提升。对抗被[魅惑](Charmed_(status_group).md "魅惑 (状态组)")和维持[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。不会被[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。 |
-| [巨像灵药](Elixir_of_The_Colossus_(Condition).md "巨像灵药 (状态)") | [体型](Creature_size.md "生物体型")增加。武器造成额外1d4伤害，且受影响实体在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。[负重](Carrying_capacity.md "负重")也增加25%。 |
+| [巨像灵药](Elixir_of_The_Colossus_(Condition).md "巨像灵药 (状态)") | [体型](Creature_size.md "生物体型")增加。武器造成额外1d4伤害，且受影响实体在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。[负重](Carrying_capacity.md "负重")也增加25%。 |
 | [邪恶灵药](Elixir_of_Viciousness_(Condition).md "邪恶灵药 (状态)") | 攻击时[重击](Critical_Hit.md "重击")所需的[掷骰](Attack_roll.md "攻击掷骰")数值减少1。此效果可叠加。饮用时替换其他灵药的效果。 |
 | [警觉灵药](Elixir_of_Vigilance_(Condition).md "警觉灵药 (状态)") | 受影响实体获得+5先攻加值，且不会被[受惊](Surprised_(Condition).md "受惊 (状态)")。饮用时替换其他灵药的效果。 |
 | [火焰抗性](Fire_Resistance_(Condition).md "火焰抗性 (状态)") | 获得对[火焰](Fire.md "火焰")伤害的[抗性](Resistant.md "抗性")，且不再[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |

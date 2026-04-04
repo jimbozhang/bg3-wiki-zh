@@ -4,7 +4,7 @@
 
 ## 描述
 
-你在进行 [欺瞒](Deception.md "Deception") [检定](Ability_Check.md "Ability Check") 和 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability Check") 时拥有 [优势](Advantage.md "Advantage")。
+你在进行 [欺瞒](Deception.md "Deception") [属性检定](Ability_Check.md "属性检定") 和 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定") 时拥有 [优势](Advantage.md "Advantage")。
 
 ## 如何习得
 

@@ -58,7 +58,7 @@
   - [艾伦·埃利斯](Alan_Alyth.md "艾伦·埃利斯")：[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")的老板/酒保
   - [阿兰德拉·格雷](Allandra_Grey.md "阿兰德拉·格雷")：[水女王之家](Water_Queen's_House.md "水女王之家")的潮汐波浪女主人
   - [布洛里斯·蜜糖](Bloris_Meadhoney.md "布洛里斯·蜜糖")：[清账屋](The_Counting_House.md "清账屋")的首席职员
-  - [格雷斯利船长](Quenora_Grisly.md "奎诺拉·格雷斯利")：[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")的老板。
+  - [奎诺拉·格雷斯利](Quenora_Grisly.md "奎诺拉·格雷斯利")：[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")的老板。
   - [科拉·海伯瑞](Cora_Highberry.md "科拉·海伯瑞")：在家中举办品酒节的公民
   - [埃塔瓦德·针](Ettvard_Needle.md "埃塔瓦德·针")：_[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_的主编
   - [罗根神父](Lorgan.md "罗根神父")：[伊尔梅特](Ilmater.md "伊尔梅特")的已故牧师，[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")的牧师

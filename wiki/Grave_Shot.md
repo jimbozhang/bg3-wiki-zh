@@ -6,7 +6,7 @@
 
 发射一束黯蚀能量。你可以消耗[捕食者精华](Predator_Essence_(Condition).md "捕食者精华 (状态)")来强化这次射击。
 
-每层捕食者精华增加4d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害，并为你恢复4d10⁠⁠[生命值](Healing.md "治疗")。
+每层捕食者精华增加4d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害，并为你恢复4d10⁠⁠[治疗](Healing.md "治疗")。
 
 ## 属性
 
@@ -22,12 +22,12 @@
 
 ## 更高等级效果
 
-- 拥有[捕食者精华：1](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成5d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复4d10⁠⁠[生命值](Healing.md "治疗")。
-- 拥有[捕食者精华：2](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成9d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复8d10⁠⁠[生命值](Healing.md "治疗")。
-- 拥有[捕食者精华：3](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成13d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复12d10⁠⁠[生命值](Healing.md "治疗")。
-- 拥有[捕食者精华：4](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成17d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复16d10⁠⁠[生命值](Healing.md "治疗")。
-- 拥有[捕食者精华：5](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成21d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复20d10⁠⁠[生命值](Healing.md "治疗")。
-- 拥有[捕食者精华：6](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成25d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复24d10⁠⁠[生命值](Healing.md "治疗")。
+- 拥有[捕食者精华：1](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成5d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复4d10⁠⁠[治疗](Healing.md "治疗")。
+- 拥有[捕食者精华：2](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成9d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复8d10⁠⁠[治疗](Healing.md "治疗")。
+- 拥有[捕食者精华：3](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成13d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复12d10⁠⁠[治疗](Healing.md "治疗")。
+- 拥有[捕食者精华：4](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成17d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复16d10⁠⁠[治疗](Healing.md "治疗")。
+- 拥有[捕食者精华：5](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成21d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复20d10⁠⁠[治疗](Healing.md "治疗")。
+- 拥有[捕食者精华：6](Predator_Essence_(Condition).md "捕食者精华 (状态)")时，攻击造成25d10 + 5⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害并恢复24d10⁠⁠[治疗](Healing.md "治疗")。
 
 ## 技术细节
 

@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[公会对[焰拳](Flaming_Fist.md "焰拳")的拳师艾薇娜的档案。\]
+\[焰拳](Flaming_Fist.md "焰拳")的拳师艾薇娜的档案。\]
 
 ---
 *Source: [Scroll (Edwynna dossier)](https://bg3.wiki/wiki/Scroll_(Edwynna_dossier)*

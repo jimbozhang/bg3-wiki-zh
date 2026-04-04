@@ -33,7 +33,7 @@
 
 _关于削弱一击：_
 
-- **削弱一击**提供的额外力场伤害不会添加到[投掷](Thrown.md "Thrown")武器（例如[酒馆殴斗者](Tavern_Brawler.md "Tavern Brawler")）中。
+- **削弱一击**提供的额外力场伤害不会添加到[投掷攻击](Thrown.md "投掷攻击")武器（例如[酒馆殴斗者](Tavern_Brawler.md "Tavern Brawler")）中。
 
 ## 图库
 

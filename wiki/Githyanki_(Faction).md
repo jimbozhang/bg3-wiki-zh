@@ -6,7 +6,7 @@
 
 吉斯洋基人由[吉斯](https://forgottenrealms.fandom.com/wiki/Gith)创立，她将他们从[灵吸怪](Illithid.md "灵吸怪")帝国的压迫中解放出来，并将他们锻造成一个决心消灭所有曾经统治他们的夺心魔的军事化社会。为了寻求与[提亚马特](Tiamat.md "提亚马特")的联盟，她冒险进入[九层地狱](Nine_Hells.md "九层地狱")，却神秘失踪，随后由[维拉基斯一世](https://forgottenrealms.fandom.com/wiki/Vlaakith_I)继位，后者与提亚马特结盟，以换取[红龙](Red_Dragon.md "红龙")的联盟。
 
-吉斯洋基人目前由[维拉基斯CLVII](Vlaakith.md "Vlaakith")统治，她是原始维拉基斯的后裔，为了延续其永恒统治而成为[巫妖](https://forgottenrealms.fandom.com/wiki/Lich)。
+吉斯洋基人目前由[维拉基斯](Vlaakith.md "维拉基斯")统治，她是原始维拉基斯的后裔，为了延续其永恒统治而成为[巫妖](https://forgottenrealms.fandom.com/wiki/Lich)。
 
 ## 成员
 
@@ -119,7 +119,7 @@
 
 - [吉斯洋基套装](Githyanki_set.md "吉斯洋基套装")
 
-- [星界棱镜](Mysterious_Artefact.md "神秘遗物")
+- [神秘遗物](Mysterious_Artefact.md "神秘遗物")
 
 - [精致的石板](Elaborate_Slate.md "精致的石板")
 

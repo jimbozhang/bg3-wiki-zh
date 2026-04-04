@@ -29,7 +29,7 @@
 | 防化服 | [主手近战](Main_Hand_Melee.md "主手近战") ([重甲](Heavy_Armour.md "重甲")) | 获得对 ⁠[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。不会使隐匿检定具有劣势。 |
 | 莎尔的仪式匕首 | [主手近战](Main_Hand_Melee.md "主手近战") ([匕首](Daggers.md "匕首")) | 造成额外 1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。 |
 | 死灵珍爱法杖 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | 造成额外 1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。 [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")生物对你[死灵学派](Necromancy.md "死灵学派")法术的[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 [获取生命精华](Life_Essence_Harvest.md "获取生命精华")当使用者用法术杀死敌对生物时，他们会贪婪地吸收其能量并获得[生命精华](Life_Essence_(Condition).md "生命精华 (状态)")，直到下一次长休。 |
-| 混沌之剑 | [主手近战](Main_Hand_Melee.md "主手近战") ([巨剑](Greatswords.md "巨剑")) | 造成额外 1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。 [混乱](Chaos.md "混乱")用该武器造成伤害时，恢复 1d6⁠⁠[生命值](Healing.md "治疗")。[[见注释](Chaos#Notes.md#Notes "混乱")] |
+| 混沌之剑 | [主手近战](Main_Hand_Melee.md "主手近战") ([巨剑](Greatswords.md "巨剑")) | 造成额外 1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。 [混乱](Chaos.md "混乱")用该武器造成伤害时，恢复 1d6⁠⁠[治疗](Healing.md "治疗")。[[见注释](Chaos#Notes.md#Notes "混乱")] |
 | 偷生之剑 | [主手近战](Main_Hand_Melee.md "主手近战") ([短剑](Shortswords.md "短剑")) | [生命窃取重击](Life_Stealing_Critical.md "生命窃取重击")在[重击](Critical_Hit.md "重击")时，目标受到额外 10⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源")伤害，只要它不是构装生物或不死生物。你还会获得 10 点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
 | 观察者眼魔的眼柄 | [护符](Amulet.md "护符") | [恐惧射线](Ray_of_Fear.md "恐惧射线") () 施放 3 级法术 ( 重充：[长休](Long_Rest.md "长休")。) [致伤射线](Wounding_Ray.md "致伤射线") () 施放 3 级法术 ( 重充：[长休](Long_Rest.md "长休")。) |
 | 手术圆锯 (+1) | [主手近战](Main_Hand_Melee.md "主手近战") ([短剑](Shortswords.md "短剑")) | 有错误；玩家无法使用该武器动作。 [劈颅](Trephination.md "劈颅") () 在敌人的头骨上钻孔，可能使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。 |

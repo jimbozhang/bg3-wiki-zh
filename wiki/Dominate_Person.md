@@ -1,6 +1,6 @@
 # 支配人类
 
-**支配人类**是一个[5级惑控学派法术](Spells.md "Spells")。它允许施法者强迫一个[类人生物](Humanoid.md "Humanoid")暂时作为盟友战斗。
+**支配人类**是一个[法术](Spells.md "法术")。它允许施法者强迫一个[类人生物](Humanoid.md "Humanoid")暂时作为盟友战斗。
 
 ## 描述
 

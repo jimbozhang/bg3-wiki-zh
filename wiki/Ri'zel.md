@@ -81,11 +81,11 @@
 
 - [**星界导管**](Astral_Conduit_(Condition).md "Astral Conduit (Condition)")
 
-在维持 [星界裂缝](Astral_Rift.md "Astral Rift") 开启时无法移动、执行动作、附赠动作或反应，但可以每两回合 [召唤](Extraplanar_Summons.md "Extraplanar Summons") 一名盟友。
+在维持 [星界裂缝](Astral_Rift.md "Astral Rift") 开启时无法移动、执行动作、附赠动作或反应，但可以每两回合 [跨位面召唤](Extraplanar_Summons.md "跨位面召唤") 一名盟友。
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -141,11 +141,11 @@
 
 - [**星界导管**](Astral_Conduit_(Condition).md "Astral Conduit (Condition)")
 
-在维持 [星界裂缝](Astral_Rift.md "Astral Rift") 开启时无法移动、执行动作、附赠动作或反应，但可以每两回合 [召唤](Extraplanar_Summons.md "Extraplanar Summons") 一名盟友。
+在维持 [星界裂缝](Astral_Rift.md "Astral Rift") 开启时无法移动、执行动作、附赠动作或反应，但可以每两回合 [跨位面召唤](Extraplanar_Summons.md "跨位面召唤") 一名盟友。
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -201,15 +201,15 @@
 
 - [**星界导管**](Astral_Conduit_(Condition).md "Astral Conduit (Condition)")
 
-在维持 [星界裂缝](Astral_Rift.md "Astral Rift") 开启时无法移动、执行动作、附赠动作或反应，但可以每两回合 [召唤](Extraplanar_Summons.md "Extraplanar Summons") 一名盟友。
+在维持 [星界裂缝](Astral_Rift.md "Astral Rift") 开启时无法移动、执行动作、附赠动作或反应，但可以每两回合 [跨位面召唤](Extraplanar_Summons.md "跨位面召唤") 一名盟友。
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic_Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic") 伤害——灵吸怪奴役的伤痕根深蒂固。
 
@@ -231,10 +231,10 @@ Stats
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 仅限硬核难度](#tactician-only)
-  - [1.3 值得一提的战利品](#notable-loot)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 仅限硬核难度](#仅限硬核难度)
+  - [1.3 值得一提的战利品](#值得一提的战利品)
 
 ## 战斗
 

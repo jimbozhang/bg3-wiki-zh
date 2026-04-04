@@ -80,15 +80,15 @@
 
 ## 特性
 
-- [**诅咒硬币**](Accursed_Coins.md "Accursed Coins")
+- [诅咒硬币](Accursed_Coins.md "诅咒硬币")
 
-此被诅咒的面容控制着保护[收费员](Gerringothe_Thorm.md "Gerringothe Thorm")的部分硬币。
+此被诅咒的面容控制着保护[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")的部分硬币。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -144,15 +144,15 @@
 
 ## 特性
 
-- [**诅咒硬币**](Accursed_Coins.md "Accursed Coins")
+- [诅咒硬币](Accursed_Coins.md "诅咒硬币")
 
-此被诅咒的面容控制着保护[收费员](Gerringothe_Thorm.md "Gerringothe Thorm")的部分硬币。
+此被诅咒的面容控制着保护[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")的部分硬币。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -208,19 +208,19 @@
 
 ## 特性
 
-- [**诅咒硬币**](Accursed_Coins.md "Accursed Coins")
+- [诅咒硬币](Accursed_Coins.md "诅咒硬币")
 
-此被诅咒的面容控制着保护[收费员](Gerringothe_Thorm.md "Gerringothe Thorm")的部分硬币。
+此被诅咒的面容控制着保护[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")的部分硬币。
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**驱散抗性**](Turn_Resistance.md "Turn_Resistance")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对任何驱散不死生物效果的[豁免检定](Saving_throw.md "Saving Throw")具有[优势](Advantage.md "Advantage")。
 
@@ -250,10 +250,10 @@ UUID
 
 ## 目录
 
-- [1 关于](#about)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
+- [1 关于](#关于)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
 
 ## 关于
 
@@ -271,7 +271,7 @@ UUID
 
 释放一声哀号，伤害并[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")附近的敌人。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 充能: 每回合
 
 [死亡尖啸](Death_Shriek.md "Death_Shriek") ()
@@ -292,7 +292,7 @@ UUID
 
 用头部猛击敌人。
 
-[力](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "Saving throws")
 近战: 1.5 米 (5 英尺)
 
 ### 盟友

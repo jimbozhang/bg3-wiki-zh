@@ -6,19 +6,19 @@ The [Monk's Manifestation](Monk's_Manifestation.md "Monk's Manifestation")
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 第一幕](#act-one)
-    - [2.1.1 复仇之炉](#the-grymforge)
-    - [2.1.2 精金熔炉](#the-adamantine-forge)
-  - [2.2 第三幕](#act-three)
-    - [2.2.1 慈爱神殿](#the-open-hand-temple)
-    - [2.2.2 地穴](#the-crypt)
-    - [2.2.3 处理诅咒](#dealing-with-the-curse)
-- [3 奖励](#rewards)
-- [4 伙伴好感度](#companion-approval)
-- [5 语录](#quotes)
-- [6 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 第一幕](#第一幕)
+    - [2.1.1 复仇之炉](#复仇之炉)
+    - [2.1.2 精金熔炉](#精金熔炉)
+  - [2.2 第三幕](#第三幕)
+    - [2.2.1 慈爱神殿](#慈爱神殿)
+    - [2.2.2 地穴](#地穴)
+    - [2.2.3 处理诅咒](#处理诅咒)
+- [3 奖励](#奖励)
+- [4 伙伴好感度](#伙伴好感度)
+- [5 语录](#语录)
+- [6 备注](#备注)
 
 ## 目标
 
@@ -60,13 +60,13 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 #### 精金熔炉
 
-要找到护符，队伍必须到达 [精金熔炉](Adamantine_Forge_(location).md) 本身。在那里，从熔炉平台的上层位置，队伍可以跳跃到达半满熔岩的侧洞，坐标 X: -570 Y: 229。这里的熔岩与其他地方不同；靠近时它会沸腾并爆裂，产生气泡并留下 [火焰](Fire_(surface).md "Fire (surface)")。成功的被动检定（DC 10 [自然](Nature.md "Nature") [检定](Ability_Check.md "Ability check")，DC 15 [奥秘](Arcana.md "Arcana") [检定](Ability_Check.md "Ability check")）允许观察者理解这种现象的原因：一个 [岩浆元素](Lava_Elemental.md "Lava Elemental") 正在洞穴中游荡。
+要找到护符，队伍必须到达 [精金熔炉](Adamantine_Forge_(location).md) 本身。在那里，从熔炉平台的上层位置，队伍可以跳跃到达半满熔岩的侧洞，坐标 X: -570 Y: 229。这里的熔岩与其他地方不同；靠近时它会沸腾并爆裂，产生气泡并留下 [火焰](Fire_(surface).md "Fire (surface)")。成功的被动检定（DC 10 [自然](Nature.md "Nature") [属性检定](Ability_Check.md "属性检定")，DC 15 [奥秘](Arcana.md "Arcana") [属性检定](Ability_Check.md "属性检定")）允许观察者理解这种现象的原因：一个 [岩浆元素](Lava_Elemental.md "Lava Elemental") 正在洞穴中游荡。
 
 该元素本身具有攻击性，会主动攻击。击败它会使到达护符的路径容易得多，因为沸腾、爆裂和产生气泡并留下火焰地表的现象在其死亡后会停止。然而，与它战斗可能会很麻烦，因为它站在熔岩中时每回合都会恢复全部生命值。像 [冻僵](Bone_Chill.md "Bone Chill") 这样的法术可能很有用。
 
 带有箱子的建筑遗迹
 
-洞穴中央有一个岩石“岛屿”，上面放着一个上锁的精金箱子，里面是 [感知护符](Sentient_Amulet_(Rare).md "Sentient Amulet (Rare)")，以及少量金币、一颗随机宝石和两瓶不常见灵药（见下文）。箱子可以用在熔岩湖边 X: -619 Y: 244 的骷髅身上找到的 [精金钥匙](Adamantine_Key.md "Adamantine Key") 打开，或者通过撬锁（DC 20 [巧手](Sleight_of_Hand.md "Sleight of Hand") [检定](Ability_Check.md "Ability check")）打开。
+洞穴中央有一个岩石“岛屿”，上面放着一个上锁的精金箱子，里面是 [感知护符](Sentient_Amulet_(Rare).md "Sentient Amulet (Rare)")，以及少量金币、一颗随机宝石和两瓶不常见灵药（见下文）。箱子可以用在熔岩湖边 X: -619 Y: 244 的骷髅身上找到的 [精金钥匙](Adamantine_Key.md "Adamantine Key") 打开，或者通过撬锁（DC 20 [巧手](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定")）打开。
 
 如果之前没有找到 [暗夜法官日志](Dark_Justiciar's_Journal.md "Dark Justiciar's Journal")，拾取护符会触发任务。
 
@@ -93,8 +93,8 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 与灵魂的对话包含几个属性检定，可以揭示武僧灵体故事的一些信息。
 
-- DC 10 [调查](Investigation.md "Investigation") [检定](Ability_Check.md "Ability check") 和随后的 DC 10 [宗教](Religion.md "Religion") [检定](Ability_Check.md "Ability check") 将揭示这位武僧崇拜 [洛山达](Lathander.md "Lathander")——黎明与重生之神。
-- DC 10 [洞悉](Insight.md "Insight") [检定](Ability_Check.md "Ability check") 会告诉玩家，这个灵魂没有故意伤害其携带者的意图。
+- DC 10 [调查](Investigation.md "Investigation") [属性检定](Ability_Check.md "属性检定") 和随后的 DC 10 [宗教](Religion.md "Religion") [属性检定](Ability_Check.md "属性检定") 将揭示这位武僧崇拜 [洛山达](Lathander.md "Lathander")——黎明与重生之神。
+- DC 10 [洞悉](Insight.md "Insight") [属性检定](Ability_Check.md "属性检定") 会告诉玩家，这个灵魂没有故意伤害其携带者的意图。
 
 如果同意帮助灵魂，武僧灵体说他将与队伍同行，并在旅途中提供一些帮助。感知护符可以由任何队伍成员佩戴，为他们提供每短休一次施放 [粉碎音波](Shatter.md "Shatter") 的能力、[回气（次级）](Ki_Restoration_(Lesser).md "Ki Restoration (Lesser)") 以及一项能力 [与活体护符交谈](Talk_to_the_Sentient_Amulet.md "Talk to the Sentient Amulet")，这允许在任何时候重新考虑关于帮助灵魂的决定。将护符留在物品栏中不会获得任何这些能力。
 

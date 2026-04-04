@@ -22,7 +22,7 @@
 | [舞光术](Dancing_Lights.md "舞光术") | C |  |  | 10 回合 | 18 m / 60ft / 9m / 30ft (半径) | - | - |
 | [火焰箭](Fire_Bolt.md "火焰箭") | C |  |  | - | 18 m / 60ft | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d10⁠[火焰](Fire.md "火焰") |
 | [交友术](Friends.md "交友术") | C |  |  | 10 回合 | 9 m / 30ft | - | - |
-| [光亮术](Light.md "光亮术") | C |  |  | 长休 | 1.5 m / 5 ft | - | - |
+| [轻型](Light.md "轻型") | C |  |  | 长休 | 1.5 m / 5 ft | - | - |
 | [法师之手](Mage_Hand.md "法师之手") | C |  |  | - | 18 m / 60ft | - | - |
 | [初级幻影](Minor_Illusion.md "初级幻影") | C |  |  | - | 18 m / 60ft | - | - |
 | [毒气喷溅](Poison_Spray.md "毒气喷溅") | C |  |  | - | 3 m / 10ft | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[中毒](Poison.md "中毒") |

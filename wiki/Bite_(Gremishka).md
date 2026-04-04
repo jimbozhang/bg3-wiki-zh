@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：2~10 + 调整值
 
-1d4 + [力量或敏捷调整值](Finesse.md "灵巧")[穿刺](Piercing.md "穿刺")
+1d4 + [灵巧](Finesse.md "灵巧")[穿刺](Piercing.md "穿刺")
 
 \+ 1d6[力场](Force.md "力场")
 

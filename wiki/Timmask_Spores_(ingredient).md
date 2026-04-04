@@ -2,7 +2,7 @@
 
 另请参阅：[鬼头蘑菇孢子 (消歧义)](Timmask_Spores_(disambiguation).md)
 
-**鬼头蘑菇孢子**是一种[炼金术材料](Alchemy.md "炼金术")，可以精炼成[鬼头蘑菇孢子精华](Essence_of_Timmask_Spores.md "鬼头蘑菇孢子精华")，并组合以制造[真菌迷药](Fungal_Bamboozler.md "真菌迷药")。
+**鬼头蘑菇孢子**是一种[炼金术](Alchemy.md "炼金术")，可以精炼成[鬼头蘑菇孢子精华](Essence_of_Timmask_Spores.md "鬼头蘑菇孢子精华")，并组合以制造[真菌迷药](Fungal_Bamboozler.md "真菌迷药")。
 
 孢子是[鬼头蘑菇](https://forgottenrealms.fandom.com/wiki/Timmask)的主要防御系统，会毒害并迷惑任何吸入它们的人。
 

@@ -26,10 +26,10 @@
 | [有毒烟雾](Noxious_Fumes.md "有毒烟雾") | 每回合造成1d4⁠⁠[中毒](Poison.md "中毒") + 2d4⁠⁠[中毒](Poison.md "中毒")（体质豁免减半）伤害。 |
 | [抚慰孢子](Pacifying_Spores_(cloud).md "抚慰孢子 (云)") | 阻止云内生物的动作、附赠动作和反应。 |
 | [毒云](Poison_Cloud.md "毒云") | 使范围内的生物有几率[中毒](Poisoned_(Condition).md "中毒 (状态)")。 |
-| [高等治疗药水](Potion_of_Greater_Healing_(cloud).md "高等治疗药水 (云)") | 恢复4d4+4⁠⁠[生命值](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |
-| [治疗药水](Potion_of_Healing_(cloud).md "治疗药水 (云)") | 恢复2d4+2⁠⁠[生命值](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |
-| [特效治疗药水](Potion_of_Superior_Healing_(cloud).md "特效治疗药水 (云)") | 恢复8d4+8⁠⁠[生命值](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |
-| [极效治疗药水](Potion_of_Supreme_Healing_(cloud).md "极效治疗药水 (云)") | 恢复10d4+20⁠⁠[生命值](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |
+| [高等治疗药水](Potion_of_Greater_Healing_(cloud).md "高等治疗药水 (云)") | 恢复4d4+4⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |
+| [治疗药水](Potion_of_Healing_(cloud).md "治疗药水 (云)") | 恢复2d4+2⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |
+| [特效治疗药水](Potion_of_Superior_Healing_(cloud).md "特效治疗药水 (云)") | 恢复8d4+8⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |
+| [极效治疗药水](Potion_of_Supreme_Healing_(cloud).md "极效治疗药水 (云)") | 恢复10d4+20⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |
 | [Steam云服务](Steam_Cloud.md "Steam云服务") | 使范围内的生物获得[濡湿](Wet_(Condition).md "濡湿 (状态)")。 |
 | [臭云术](Stinking_Cloud_(cloud).md "臭云术 (云)") | 阻止范围内的生物进行动作。 |
 | [奇异气体](Strange_Gas.md "奇异气体") | 通过赋予非吉斯生物[易伤](Vulnerability.md "易伤")（钝击、穿刺和挥砍伤害）来削弱他们。通过赋予吉斯生物[抗性](Resistance.md "抗性")（钝击、穿刺和挥砍伤害）来强化他们。 |

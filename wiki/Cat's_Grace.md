@@ -1,10 +1,10 @@
 # 猫之轻灵
 
-**猫之轻灵**是一个[等级2变法学派法术](Spells.md "Spells")。此法术允许施法者赋予生物猫一般的轻灵。受影响的生物获得对[坠落伤害](Falling_damage.md "Falling damage")的[抗性](Damage_types.md#Resistance "Damage Types")，并在[敏捷](Dexterity.md "Dexterity")[检定](Ability_Check.md "Ability Check")上获得[优势](Advantage.md "Advantage")。
+**猫之轻灵**是一个[法术](Spells.md "法术")。此法术允许施法者赋予生物猫一般的轻灵。受影响的生物获得对[坠落伤害](Falling_damage.md "Falling damage")的[抗性](Damage_types.md#Resistance "Damage Types")，并在[敏捷](Dexterity.md "Dexterity")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "Advantage")。
 
 ## 描述
 
-生物在[敏捷](Dexterity.md "Dexterity")[检定](Ability_Check.md "Ability Check")上获得[优势](Advantage.md "Advantage")，并且坠落时只承受一半伤害。
+生物在[敏捷](Dexterity.md "Dexterity")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "Advantage")，并且坠落时只承受一半伤害。
 
 ## 属性
 
@@ -34,7 +34,7 @@ UID
 
 持续时间：直至[长休](Long_Rest.md "Long rest")
 
-- 在[敏捷](Dexterity.md "Dexterity")[检定](Ability_Check.md "Ability Check")上拥有[优势](Advantage.md "Advantage")。
+- 在[敏捷](Dexterity.md "Dexterity")[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "Advantage")。
 - 承受一半坠落伤害。
 
 ## 如何习得

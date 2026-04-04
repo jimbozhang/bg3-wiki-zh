@@ -24,7 +24,7 @@
 
 ## 备注
 
-- 如果 DC 1 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定") 成功，则会高亮显示
+- 如果 DC 1 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定") 成功，则会高亮显示
 
 ---
 *Source: [Note to Sanitation Workers](https://bg3.wiki/wiki/Note_to_Sanitation_Workers)*

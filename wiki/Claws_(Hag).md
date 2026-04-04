@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：2~16 + 调整值
 
-2d8 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[挥砍](Slashing.md "挥砍")
+2d8 + [灵巧](Finesse.md "灵巧")⁠[挥砍](Slashing.md "挥砍")
 
 详情
 [攻击掷骰](Attack_roll.md "攻击掷骰")

@@ -22,7 +22,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 法术领域
 你获得来自该领域的法术。它们是[始终准备](Spells.md#Known_Spells "法术")的。
 
-- [光](Light.md "光")
+- [轻型](Light.md "轻型")
 - [燃烧之手](Burning_Hands.md "燃烧之手")
 - [妖火](Faerie_Fire.md "妖火") ### 等级 2
 
@@ -43,7 +43,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 你获得来自该领域的法术。它们是[始终准备](Spells.md#Known_Spells "法术")的。
 
 - [昼明术](Daylight.md "昼明术")
-- [火球术术](Fireball.md "火球术术")
+- [火球术](Fireball.md "火球术")
 
 ### 等级 6
 

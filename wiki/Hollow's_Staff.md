@@ -34,7 +34,7 @@ UID `MAG_HigherNecromancy_Staff` UUID `bb1fef3b-ac2b-427e-9b6f-273a8c7e4ff8` ###
 以 3 级法术施放 (充能：[长休](Long_Rest.md "Long rest")。)
 
 [高强死灵法术](Heightened_Necromancy.md "Heightened Necromancy")
-生物对抗你的[死灵学派法术](Necromancy.md "Necromancy")时，[豁免检定](Saving_throw.md "Saving Throw")具有[劣势](Disadvantage.md "Disadvantage")。
+生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，[豁免检定](Saving_throw.md "Saving Throw")具有[劣势](Disadvantage.md "Disadvantage")。
 
 ### 武器动作
 

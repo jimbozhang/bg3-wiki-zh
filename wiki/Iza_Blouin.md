@@ -77,15 +77,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在一定距离的黑暗中视物。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -129,15 +129,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在一定距离的黑暗中视物。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -181,15 +181,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在一定距离的黑暗中视物。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；免疫魔法[沉睡](Sleeping_(Condition)效果.md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -221,7 +221,7 @@ Stats
 
 ### 第三幕
 
-伊萨·布劳因和[萨尔兹·莫拉](Sharlz_Molar.md "萨尔兹·莫拉")在[博德之门](Baldur's_Gate.md "博德之门")的[下城区传送点](Ancient_Sigil_Circle.md "上古符文法阵")旁边，坐标 X: -50 Y: -55。像许多博德人一样，伊萨和萨尔兹对城市的状况感到担忧，但两人都不相信公报对实际问题的报道。
+伊萨·布劳因和[萨尔兹·莫拉](Sharlz_Molar.md "萨尔兹·莫拉")在[博德之门](Baldur's_Gate.md "博德之门")的[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")旁边，坐标 X: -50 Y: -55。像许多博德人一样，伊萨和萨尔兹对城市的状况感到担忧，但两人都不相信公报对实际问题的报道。
 
 ## 闲置对话
 

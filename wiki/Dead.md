@@ -18,15 +18,15 @@
     - [莱埃泽尔](Lae'zel.md "莱埃泽尔")在营地的晚间过场动画中，因与[影心](Shadowheart.md "影心")就[神秘遗物](Mysterious_Artefact.md "神秘遗物")发生[争执](Shadowheart.md#Act_One_2 "影心")后，被影心杀死。
       - 当莱埃泽尔透露其意图对队伍执行安乐死时，诱骗她先自杀。
     - [明斯克](Minsc.md "明斯克")在[下城区下水道](Lower_City_Sewers.md "下城区下水道")的[战斗](Minsc.md#Recruitment "明斯克")中被杀。
-    - [明萨拉](Minthara.md "明萨拉")在被[护送出月出之塔](Decide_Minthara's_Fate.md "决定明萨拉的命运")期间，在被接纳入队前被杀。
+    - [明萨拉](Minthara.md "明萨拉")在被[决定明萨拉的命运](Decide_Minthara's_Fate.md "决定明萨拉的命运")期间，在被接纳入队前被杀。
       - 明萨拉在[破碎圣所](Shattered_Sanctum.md "破碎圣所")中被杀，或在她领导的[洗劫翠绿林地](Raid_the_Emerald_Grove.md "洗劫翠绿林地")期间被杀。
     - [影心](Shadowheart.md "影心")在[堕影冥界](Shadowfell.md "堕影冥界")中与队伍发生冲突后，在其任务[莎尔的选民](The_Chosen_of_Shar.md "莎尔的选民")过程中被杀。
     - [威尔](Wyll.md "威尔")在长休前的[过场动画](Karlach.md#Act_One "卡菈克")对峙中，被卡菈克或其他队伍成员杀死（双方均已入队）。
     - 伙伴或雇工在[溃烂洞穴](The_Festering_Cove.md "溃烂洞穴")中被献祭给[波尔](BOOOAL.md "波尔")。
-    - 莱埃泽尔、哈尔辛、盖尔或明萨拉在被[奥林](Orin.md "奥林")[锁在巴尔的祭坛上](Rescue_Orin's_Victim.md "拯救奥林的受害者")时被杀。
+    - 莱埃泽尔、哈尔辛、盖尔或明萨拉在被[奥林](Orin.md "奥林")[拯救奥林的受害者](Rescue_Orin's_Victim.md "拯救奥林的受害者")时被杀。
     - 伙伴将其身体和灵魂交给[哈勒普](Haarlep.md "哈勒普")。
   - [阿尔菲拉](Alfira.md "阿尔菲拉")作为临时伙伴，是上述情况的例外。如果她在被招募后于_**任何**_时间点死亡，则无法被复活。
-  - [洛希尔](Losiir.md "洛希尔")作为临时伙伴，也是上述情况的例外。在[鹦鹉螺](Nautiloid.md "鹦鹉螺")上招募后，即使在与[指挥官扎尔克](Zhalk.md "指挥官扎尔克")的战斗中幸存以[逃离](Escape_the_Nautiloid.md "逃离鹦鹉螺")，他也会在坠毁于[疮痍的海滩](Ravaged_Beach.md "疮痍的海滩")时死亡且无法被复活。
+  - [洛希尔](Losiir.md "洛希尔")作为临时伙伴，也是上述情况的例外。在[鹦鹉螺](Nautiloid.md "鹦鹉螺")上招募后，即使在与[指挥官扎尔克](Zhalk.md "指挥官扎尔克")的战斗中幸存以[逃离鹦鹉螺](Escape_the_Nautiloid.md "逃离鹦鹉螺")，他也会在坠毁于[疮痍的海滩](Ravaged_Beach.md "疮痍的海滩")时死亡且无法被复活。
 
 ## 简要预览
 

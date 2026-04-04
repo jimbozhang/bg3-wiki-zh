@@ -1,6 +1,6 @@
 # 匕根草
 
-**匕根草**是一种[炼金术材料](Alchemy.md "炼金术")。将3个匕根草组合可煅烧成[匕根草灰烬](Ashes_of_Daggerroot.md "匕根草灰烬")，用于制作[精准油](Oil_of_Accuracy.md "精准油")。
+**匕根草**是一种[炼金术](Alchemy.md "炼金术")。将3个匕根草组合可煅烧成[匕根草灰烬](Ashes_of_Daggerroot.md "匕根草灰烬")，用于制作[精准油](Oil_of_Accuracy.md "精准油")。
 
 这种草药被称为“[处刑者的点缀](https://forgottenrealms.fandom.com/wiki/Daggerroot)”，在血沃土壤中繁茂生长，并为无数最后的餐点增添风味。
 

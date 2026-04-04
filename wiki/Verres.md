@@ -63,11 +63,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
@@ -111,11 +111,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
@@ -159,11 +159,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外 1d6 伤害。
 
@@ -181,7 +181,7 @@ UUID
 
 属性
 
-`Companion_Boar` **野猪座**是一只通过[驯兽师](Beast_Master.md "驯兽师")的[野猪伙伴](Boar_Companion.md "野猪伙伴")能力召唤的[野猪](Boar.md "野猪")，是[游侠伙伴](Ranger's_Companion.md "游侠伙伴")的变体。当驯兽师达到 5 级时，野猪座会“升级”为[野猪座 (大型)](Verres_Major.md "野猪座 (大型)")，当驯兽师达到 11 级时，会成为[灾祸豕](Verres_Calamitosus.md "灾祸豕")。
+`Companion_Boar` **野猪座**是一只通过[驯兽师](Beast_Master.md "驯兽师")的[野猪伙伴](Boar_Companion.md "野猪伙伴")能力召唤的[野猪](Boar.md "野猪")，是[游侠伙伴](Ranger's_Companion.md "游侠伙伴")的变体。当驯兽师达到 5 级时，野猪座会“升级”为[野猪座](Verres_Major.md "野猪座")，当驯兽师达到 11 级时，会成为[灾祸豕](Verres_Calamitosus.md "灾祸豕")。
 
 ## 战斗
 

@@ -4,12 +4,12 @@
 
 ## 描述
 
-消耗一个 [幸运点](Lucky.md "幸运")，使你的 [攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定") 或 [豁免检定](Saving_throw.md "豁免检定") 获得 [优势](Advantage.md "优势")。
+消耗一个 [幸运](Lucky.md "幸运")，使你的 [攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定") 或 [豁免检定](Saving_throw.md "豁免检定") 获得 [优势](Advantage.md "优势")。
 
 ## 属性
 
 消耗
-[幸运点](Lucky.md "幸运")
+[幸运](Lucky.md "幸运")
 
 ## 技术细节
 

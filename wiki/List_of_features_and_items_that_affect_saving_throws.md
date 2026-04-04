@@ -4,52 +4,52 @@
 
 ## 目录
 
-- [1 基本信息](#general-information)
-- [2 豁免检定加值](#bonus-to-saving-throws)
-  - [2.1 职业特性](#class-features)
-  - [2.2 法术](#spells)
-  - [2.3 物品](#items)
-    - [2.3.1 所有豁免](#all-saves)
-    - [2.3.2 力量豁免](#strength-saves)
-    - [2.3.3 敏捷豁免](#dexterity-saves)
-    - [2.3.4 其他豁免](#other-saves)
-  - [2.4 被动能力](#passives)
-  - [2.5 状态](#conditions)
-- [3 豁免检定减益](#penalty-to-saving-throws)
-  - [3.1 职业特性](#class-features-2)
-  - [3.2 法术](#spells-2)
-  - [3.3 灵吸怪威能](#illithid-powers)
-  - [3.4 物品](#items-2)
-  - [3.5 状态](#conditions-2)
-- [4 豁免检定熟练项](#proficiency-in-saving-throws)
-  - [4.1 职业特性](#class-features-3)
-  - [4.2 物品](#items-3)
-- [5 豁免检定优势](#advantage-on-saving-throws)
-  - [5.1 种族](#races)
-  - [5.2 职业特性](#class-features-4)
-  - [5.3 法术](#spells-3)
-  - [5.4 物品](#items-4)
-    - [5.4.1 所有豁免](#all-saves-2)
-    - [5.4.2 体质豁免](#constitution-saves)
-    - [5.4.3 敏捷豁免](#dexterity-saves-2)
-    - [5.4.4 其他豁免](#other-saves-2)
-    - [5.4.5 法术豁免](#spell-saves)
-  - [5.5 状态](#conditions-3)
-- [6 豁免检定劣势](#disadvantage-on-saving-throws)
-  - [6.1 职业特性](#class-features-5)
-  - [6.2 法术](#spells-4)
-  - [6.3 武器动作](#weapon-actions)
-  - [6.4 物品](#items-5)
-  - [6.5 状态](#conditions-4)
-- [7 豁免检定自动失败](#automatical-failure-on-saving-throws)
-  - [7.1 法术](#spells-5)
-  - [7.2 物品](#items-6)
-  - [7.3 状态](#conditions-5)
-- [8 其他](#other)
-  - [8.1 职业特性](#class-features-6)
-  - [8.2 法术](#spells-6)
-  - [8.3 物品](#items-7)
-  - [8.4 状态](#conditions-6)
+- [1 基本信息](#基本信息)
+- [2 豁免检定加值](#豁免检定加值)
+  - [2.1 职业特性](#职业特性)
+  - [2.2 法术](#法术)
+  - [2.3 物品](#物品)
+    - [2.3.1 所有豁免](#所有豁免)
+    - [2.3.2 力量豁免](#力量豁免)
+    - [2.3.3 敏捷豁免](#敏捷豁免)
+    - [2.3.4 其他豁免](#其他豁免)
+  - [2.4 被动能力](#被动能力)
+  - [2.5 状态](#状态)
+- [3 豁免检定减益](#豁免检定减益)
+  - [3.1 职业特性](#职业特性)
+  - [3.2 法术](#法术)
+  - [3.3 灵吸怪威能](#灵吸怪威能)
+  - [3.4 物品](#物品)
+  - [3.5 状态](#状态)
+- [4 豁免检定熟练项](#豁免检定熟练项)
+  - [4.1 职业特性](#职业特性)
+  - [4.2 物品](#物品)
+- [5 豁免检定优势](#豁免检定优势)
+  - [5.1 种族](#种族)
+  - [5.2 职业特性](#职业特性)
+  - [5.3 法术](#法术)
+  - [5.4 物品](#物品)
+    - [5.4.1 所有豁免](#所有豁免)
+    - [5.4.2 体质豁免](#体质豁免)
+    - [5.4.3 敏捷豁免](#敏捷豁免)
+    - [5.4.4 其他豁免](#其他豁免)
+    - [5.4.5 法术豁免](#法术豁免)
+  - [5.5 状态](#状态)
+- [6 豁免检定劣势](#豁免检定劣势)
+  - [6.1 职业特性](#职业特性)
+  - [6.2 法术](#法术)
+  - [6.3 武器动作](#武器动作)
+  - [6.4 物品](#物品)
+  - [6.5 状态](#状态)
+- [7 豁免检定自动失败](#豁免检定自动失败)
+  - [7.1 法术](#法术)
+  - [7.2 物品](#物品)
+  - [7.3 状态](#状态)
+- [8 其他](#其他)
+  - [8.1 职业特性](#职业特性)
+  - [8.2 法术](#法术)
+  - [8.3 物品](#物品)
+  - [8.4 状态](#状态)
 
 ## 基本信息
 
@@ -64,7 +64,7 @@
 ### 职业特性
 
 - [盾牌大师 (专长)](Shield_Master_(Feat).md) - 挥舞[盾牌](Shields.md "Shields")时，敏捷豁免+2。如果法术强制你进行敏捷豁免，你可以使用你的[反应](Actions.md#Reactions "Actions")来减少效果伤害。豁免失败时，你只承受一半伤害。豁免成功时，你不受任何伤害，即使你通常会承受伤害。
-- [守护灵光](Aura_of_Protection.md "Aura_of Protection") - 拥有此灵光的[圣武士](Paladin.md "Paladin")周围3米/10英尺半径内的所有盟友，获得等于圣武士魅力[调整值](Ability_Scores.md "Ability scores")的豁免加值。
+- [守护灵光](Aura_of_Protection.md "Aura_of Protection") - 拥有此灵光的[圣武士](Paladin.md "Paladin")周围3米/10英尺半径内的所有盟友，获得等于圣武士魅力[属性值](Ability_Scores.md "属性值")的豁免加值。
 - [诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)") - [吟游诗人防御](Bardic_Defence.md "Bardic Defence")的目标，下一次豁免检定获得1d6加值。
 - [战斗激励](Combat_Inspiration.md "Combat Inspiration") - [英勇防御](Valiant_Defence.md "Valiant Defence")为施法者下一次豁免检定提供1d6加值。
 - [魔法感知](Magic_Awareness.md "Magic Awareness") - [野魔法野蛮人](Wild_Magic_(barbarian_subclass)周围3米/10英尺半径内的所有盟友.md)，对抗法术的豁免检定获得等于其[熟练项加值](Proficiency_Bonus.md "Proficiency bonus")的加值，持续1回合。
@@ -79,7 +79,7 @@
 
 #### 所有豁免
 
-- [至上神的战争阔盾](Absolute's_Warboard.md "Absolute's Warboard") - 如果持有者拥有[至上真神的印记](Brand_of_the_Absolute.md "Brand of the Absolute")，则豁免检定+1。
+- [至上真神的战争阔盾](Absolute's_Warboard.md "至上真神的战争阔盾") - 如果持有者拥有[至上真神的印记](Brand_of_the_Absolute.md "Brand of the Absolute")，则豁免检定+1。
 - [敏捷之铠](Armour_of_Agility.md "Armour of Agility") - 豁免检定+2。
 - [骨刺靴](Bonespike_Boots.md "Bonespike Boots") - 当未穿戴[护甲](Armour.md "Armour")或未持握[盾牌](Shields.md "Shields")时，豁免检定+1。
 - [额叶堡垒手套](Cerebral_Citadel_Gloves.md "Cerebral Citadel Gloves") - [魅惑](Charmed_(Condition).md "Charmed (Condition)")或[恐吓](Frightened_(Condition).md "Frightened (Condition)")目标后，3回合内豁免检定获得1d4加值。力量豁免+1。
@@ -149,21 +149,21 @@
 
 ### 状态
 
-- [辉煌受膏](Anointed_in_Splendour_(Condition).md "Anointed in Splendour (Condition)") - 豁免检定+2（在[风暴海岸礼拜堂](Statue_of_the_Gods.md "Statue of the Gods")获得）。
+- [辉煌受膏](Anointed_in_Splendour_(Condition).md "Anointed in Splendour (Condition)") - 豁免检定+2（在[诸神雕像](Statue_of_the_Gods.md "诸神雕像")获得）。
 - [祝福术](Bless_(Condition).md "Bless (Condition)") - 目标获得1d4的豁免检定加值。
 - [极乐孢子](Bliss_Spores_(Condition).md "Bliss Spores (Condition)") - 获得1d6的豁免检定加值，直到下一次[长休](Long_Rest.md "Long rest")（在完成[击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders")后授予队伍）。
-- [访问者的恩惠](Fetcher's_Favour_(Condition).md "Fetcher's Favour (Condition)") - 获得魅力豁免1d4加值（在完成[找到摩尔](Find_Mol.md "Find Mol")并使其成为盟友后，在[高厅](High_Hall.md "High Hall")授予队伍）。
+- [访问者的恩惠](Fetcher's_Favour_(Condition).md "Fetcher's Favour (Condition)") - 获得魅力豁免1d4加值（在完成[找到摩尔](Find_Mol.md "Find Mol")并使其成为盟友后，在[至高大殿](High_Hall.md "至高大殿")授予队伍）。
 - [愉悦](Happy_(Condition).md "Happy (Condition)") - 豁免检定+1。
 - [劳薇塔之爱](Loviatar's_Love_(Condition).md "Loviatar's Love (Condition)") - 当生命值低于30%时，感知豁免+2，持续3回合。
 - [狂喜](Rapture_(Condition).md "Rapture (Condition)") - 获得1d6的豁免检定加值，直到下一次[长休](Long_Rest.md "Long rest")（详见[妮夏·纳林托](Naoise_Nallinto.md "Naoise Nallinto")页面）。
 - [抗性](Resistance_(Condition).md "Resistance (Condition)") - 获得1d4的豁免检定加值。
-- [瓦罗的怪物指南](Volo's_Guide_to_Monsters_(Condition).md "Volo's Guide to Monsters (Condition)") - 豁免检定+2（在完成[解救瓦罗](Rescue_Volo.md "Rescue Volo")后，在[高厅](High_Hall.md "High Hall")授予队伍）。
+- [瓦罗的怪物指南](Volo's_Guide_to_Monsters_(Condition).md "Volo's Guide to Monsters (Condition)") - 豁免检定+2（在完成[解救瓦罗](Rescue_Volo.md "Rescue Volo")后，在[至高大殿](High_Hall.md "至高大殿")授予队伍）。
 
 ## 豁免检定减益
 
 ### 职业特性
 
-- [野猪伙伴](Boar_Companion.md "Boar Companion") - [扬起泥泞](Kick_Up_Muck.md "Kick Up Muck")区域内的所有生物，敏捷豁免承受-2减益。
+- [野猪伙伴](Boar_Companion.md "Boar Companion") - [激起淤泥](Kick_Up_Muck.md "激起淤泥")区域内的所有生物，敏捷豁免承受-2减益。
 - [狼伙伴](Wolf_Companion.md "Wolf Companion") - [传染啃咬](Infectious_Bite_(Wolf_Companion).md "Infectious Bite (Wolf Companion)")的目标，体质豁免承受-1减益。目标体质豁免还承受劣势。
 
 ### 法术
@@ -194,7 +194,7 @@
 ### 职业特性
 
 - [钢铁意志](Iron_Mind.md "Iron Mind") - 熟练感知和智力豁免。
-- [坚韧](Resilient.md "Resilient") - 一项[属性](Abilities.md "Abilities")增加1（最高20）。获得该属性豁免的熟练项。
+- [坚如磐石](Resilient.md "坚如磐石") - 一项[属性](Abilities.md "Abilities")增加1（最高20）。获得该属性豁免的熟练项。
 - [变形术士之石：体质](Transmuter's_Stone_colon__Constitution.md "Transmuter's Stone: Constitution") - 熟练体质豁免。
 
 ### 物品
@@ -217,7 +217,7 @@
 
 ### 职业特性
 
-- [反制魅惑](Countercharm.md "Countercharm") - [吟游诗人](Bard.md "Bard")周围9米/30英尺半径内的所有盟友，3回合内对抗[魅惑](Charmed_(Condition).md "Charmed (Condition)")或[恐慌](Frightened_(Condition).md "Frightened (Condition)")的豁免检定具有优势。
+- [反魅惑](Countercharm.md "反魅惑") - [吟游诗人](Bard.md "Bard")周围9米/30英尺半径内的所有盟友，3回合内对抗[魅惑](Charmed_(Condition).md "Charmed (Condition)")或[恐慌](Frightened_(Condition).md "Frightened (Condition)")的豁免检定具有优势。
 - [狂怒](Frenzy.md "Frenzy") - 力量豁免具有优势。
 - [幸运](Lucky.md "Lucky") - 获得3个**幸运点**，在[长休](Long_Rest.md "Long rest")后充能，可用于使下一次豁免检定具有优势，每次豁免消耗一点。
 - [坚强防御](Patient_Defence.md "Patient Defence") - 敏捷豁免具有优势。
@@ -231,7 +231,7 @@
 ### 法术
 
 - [英雄盛宴](Heroes'_Feast.md "Heroes' Feast") - 感知豁免具有优势。
-- [法师杀手 (专长)](Mage_Slayer.md "Mage Slayer") - 对抗在近战范围内对你施放的任何法术的豁免检定具有优势。你命中的敌人[专注](Concentration.md "Concentration")豁免承受劣势。
+- [法师杀手](Mage_Slayer.md "法师杀手") - 对抗在近战范围内对你施放的任何法术的豁免检定具有优势。你命中的敌人[专注](Concentration.md "Concentration")豁免承受劣势。
 - [防护毒素](Protection_from_Poison.md "Protection from Poison") - 对抗[中毒](Poisoned_(Condition).md "Poisoned (Condition)")的豁免检定具有优势。
 
 ### 物品
@@ -280,9 +280,9 @@
 - [月照护甲](Armour_of_Moonbasking.md "Armour of Moonbasking") - 对抗法术的豁免检定具有优势，即使处于[荒野形态](Wild_Shape.md "Wild Shape")中。
 - [俄耳甫斯之锤](Orphic_Hammer.md "Orphic Hammer") - 对抗法术的豁免检定具有优势。
 - [阿斯卡特拉避难所](Shelter_of_Athkatla.md "Shelter of Athkatla") - 对抗法术的豁免检定具有优势。
-- [清晨面纱](Veil_of_the_Morning.md "Veil of the Morning") - 对抗[亡灵](Undead.md "Undead")攻击和法术的豁免检定具有优势。
+- [清晨面纱](Veil_of_the_Morning.md "Veil of the Morning") - 对抗[不死生物](Undead.md "不死生物")攻击和法术的豁免检定具有优势。
 - [维康妮亚的行走堡垒](Viconia's_Walking_Fortress.md "Viconia's Walking Fortress") - 对抗法术的豁免检定具有优势。
-- [守护圣甲虫](Scarab_of_Protection.md "Scarab of Protection") - 对抗法术的豁免检定具有优势，并且可以消耗一次反应来成功对抗死灵法术或由[亡灵](Undead.md "Undead")施放的法术的失败豁免。
+- [守护圣甲虫](Scarab_of_Protection.md "Scarab of Protection") - 对抗法术的豁免检定具有优势，并且可以消耗一次反应来成功对抗死灵法术或由[不死生物](Undead.md "不死生物")施放的法术的失败豁免。
 
 ### 状态
 
@@ -311,13 +311,13 @@
 - [疫病：癫痫](Contagion_colon__Seizure.md "Contagion: Seizure") - 目标敏捷豁免承受劣势。
 - [疫病：粘液末日](Contagion_colon__Slimy_Doom.md "Contagion: Slimy Doom") - 目标体质豁免承受劣势。
 - [艾伐黑触手](Evard's_Black_Tentacles.md "Evard's Black Tentacles") - 目标敏捷豁免承受劣势。
-- [获得魔宠：青蛙](Find_Familiar_colon__Frog.md "Find Familiar: Frog") - [蟾毒素](Bufotoxin.md "Bufotoxin")的目标敏捷豁免承受劣势。
+- [获得魔宠：青蛙](Find_Familiar_colon__Frog.md "Find Familiar: Frog") - [蛙毒](Bufotoxin.md "蛙毒")的目标敏捷豁免承受劣势。
 - [石化术](Flesh_to_Stone.md "Flesh to Stone")（在[石化](Petrified_(Condition).md "Petrified (Condition)")前的3个阶段） - 目标敏捷豁免承受劣势。
 - [奥图迷舞](Otto's_Irresistible_Dance.md "Otto's Irresistible Dance") - 目标敏捷豁免承受劣势。
 
 ### 武器动作
 
-- [心搏停止](Heartstopper.md "Heartstopper") - 目标体质豁免承受劣势。
+- [惊心打击](Heartstopper.md "惊心打击") - 目标体质豁免承受劣势。
 - [弱化打击](Weakening_Strike.md "Weakening Strike") - 目标力量豁免承受劣势。
 
 ### 物品
@@ -325,8 +325,8 @@
 - [龙息](Drakethroat_Glaive.md "Drakethroat Glaive") - 目标对抗持有者[龙裔](Dragonborn.md "Dragonborn")吐息武器的豁免检定承受劣势。
 - [踌躇意志](Faltering_Will.md "Faltering Will") - 饮用后，感知豁免承受劣势，直到[长休](Long_Rest.md "Long rest")。
 - [战神的铁手套](Gauntlets_of_the_Warmaster.md "Gauntlets of the Warmaster") - 目标对抗穿戴者[战术动作](Manoeuvres.md "Manoeuvres")和[武器动作](Weapon_actions.md "Weapon actions")的豁免检定承受劣势。
-- [霍洛的法杖](Hollow's_Staff.md "Hollow's Staff") - 目标对抗持有者[死灵](Necromancy.md "Necromancy")法术的豁免检定承受劣势。
-- [尖锐短矛](Jagged_Spear.md "Jagged Spear") - 用此矛命中时，如果目标魅力豁免DC 10失败，则在2回合内体质豁免承受劣势。
+- [霍洛的法杖](Hollow's_Staff.md "Hollow's Staff") - 目标对抗持有者[死灵学派](Necromancy.md "死灵学派")法术的豁免检定承受劣势。
+- [锯齿矛](Jagged_Spear.md "锯齿矛") - 用此矛命中时，如果目标魅力豁免DC 10失败，则在2回合内体质豁免承受劣势。
 - [收缩油](Oil_of_Diminution.md "Oil of Diminution") - 如果目标体质豁免DC 11失败，则在2回合内力量豁免承受劣势。
 - [收割者的拥抱](Reaper's_Embrace.md "Reaper's Embrace") - 当[收割者的刚体](Reaper's_Rigidity.md "Reaper's Rigidity")开启时，穿戴者敏捷豁免承受劣势。
 - [共鸣石](Resonance_Stone.md "Resonance Stone") - 9米/30英尺半径内的所有生物，感知、智力和魅力豁免承受劣势。
@@ -334,7 +334,7 @@
 - [风险戒指](Risky_Ring.md "Risky Ring") - 穿戴者豁免检定承受劣势。
 - [尖锐陷阱胸甲](Sharpened_Snare_Cuirass.md "Sharpened Snare Cuirass") - 目标对抗穿戴者[束缚](Restrained_(Condition).md "Restrained (Condition)")攻击和法术的豁免检定承受劣势。
 - [不诚者之盾](Shield_of_the_Undevout.md "Shield of the Undevout") - 敌人对抗持有者施加[恐惧](Fearful_(Condition).md "Fearful (Condition)")的法术或动作的豁免检定承受劣势。
-- [死灵珍爱法杖](Staff_of_Cherished_Necromancy.md "Staff of Cherished Necromancy") - 目标对抗持有者[死灵](Necromancy.md "Necromancy")法术的豁免检定承受劣势。
+- [死灵珍爱法杖](Staff_of_Cherished_Necromancy.md "Staff of Cherished Necromancy") - 目标对抗持有者[死灵学派](Necromancy.md "死灵学派")法术的豁免检定承受劣势。
 - [夺心魔蝌蚪灵药](Tadpole_Elixir.md "Tadpole Elixir") - 饮用后，体质、感知和智力豁免承受劣势。
 
 ### 状态
@@ -343,7 +343,7 @@
 - [高等奥术饥渴](Greater_Arcane_Hunger_(Condition).md "Greater Arcane Hunger (Condition)") - [盖尔](Gale.md "Gale")豁免检定承受劣势。
 - [严重奥术饥渴](Severe_Arcane_Hunger_(Condition).md "Severe Arcane Hunger (Condition)") - [盖尔](Gale.md "Gale")豁免检定承受劣势。
 - [流血](Bleeding_(Condition).md "Bleeding (Condition)") - 目标体质豁免承受劣势。
-- [时间重负灵光](Burden_of_Time_Aura_(Condition).md "Burden of Time Aura (Condition)") - [他曾经存在](He_Who_Was.md "He Who Was")周围3米/10英尺半径内的[野兽](Beast.md "Beast")和非[精灵](Elf.md "Elf")[类人生物](Humanoid.md "Humanoid")豁免检定承受劣势。
+- [时间重负灵光](Burden_of_Time_Aura_(Condition).md "Burden of Time Aura (Condition)") - [往日身影](He_Who_Was.md "往日身影")周围3米/10英尺半径内的[野兽](Beast.md "Beast")和非[精灵](Elf.md "Elf")[类人生物](Humanoid.md "Humanoid")豁免检定承受劣势。
 - [命令：匍匐](Command_colon__Grovel_(Condition).md "Command: Grovel (Condition)") - 目标力量和敏捷豁免承受劣势。
 - [勒紧](Constricted_(Condition).md "Constricted (Condition)") - 目标敏捷豁免承受劣势。
 - [晕眩](Dazed_(Condition).md "Dazed (Condition)") - 目标感知豁免承受劣势。
@@ -404,18 +404,18 @@
 
 ### 法术
 
-- [希望信标](Beacon_of_Hope.md "Beacon of Hope") - 目标感知和[死亡](Death_Saving_Throw.md "Death Saving Throw")豁免具有优势。
+- [希望信标](Beacon_of_Hope.md "Beacon of Hope") - 目标感知和[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")豁免具有优势。
 
 ### 物品
 
-- [至上真神的护符](Absolute's_Talisman.md "Absolute's Talisman") - 如果穿戴者拥有[至上真神的印记](Brand_of_the_Absolute.md "Brand of the Absolute")，则[死亡豁免](Death_Saving_Throw.md "Death Saving Throw")具有优势。
+- [至上真神的护符](Absolute's_Talisman.md "Absolute's Talisman") - 如果穿戴者拥有[至上真神的印记](Brand_of_the_Absolute.md "Brand of the Absolute")，则[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")具有优势。
 - [埃赛尔的精华](Essence_of_Ether.md "Essence of Ether") - 饮用后，遭受催眠药物效果，所有力量和敏捷豁免自动失败。
-- [家传戒指](Family_Ring.md "Family Ring") - [死亡豁免](Death_Saving_Throw.md "Death Saving Throw")+2。
+- [家族戒指](Family_Ring.md "家族戒指") - [死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")+2。
 - [虔诚仆人礼帽](Gibus_of_the_Worshipful_Servant.md "Gibus of the Worshipful Servant") - [专注](Concentration.md#Concentration_Saving_Throw "Concentration")豁免具有优势。
 - [黯狱之靴](Helldusk_Boots.md "Helldusk Boots") - 当穿戴者豁免失败时，可以使用其[反应](Actions.md#Reactions "Actions")来改为成功。
 - [噩梦馈赠](Karabasan's_Gift.md "Karabasan's Gift") - 目标遭受麻痹毒素效果，所有力量和敏捷豁免自动失败。
 - [闪避戒指](Ring_of_Evasion.md "Ring of Evasion") - 当穿戴者敏捷豁免失败时，可以使用其[反应](Actions.md#Reactions "Actions")来改为成功。
-- [暗淡的饰物](Tarnished_Charm.md "Tarnished Charm") - 将穿戴者[死亡豁免](Death_Saving_Throw.md "Death Saving Throw")的[DC](DC.md "DC")从10降低至5。
+- [暗淡的饰物](Tarnished_Charm.md "Tarnished Charm") - 将穿戴者[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")的[DC](DC.md "DC")从10降低至5。
 - [法师灾祸油](Wizardsbane_Oil.md "Wizardsbane Oil") - 目标[专注](Concentration.md#Concentration_Saving_Throw "Concentration")豁免承受劣势。
 
 ### 状态

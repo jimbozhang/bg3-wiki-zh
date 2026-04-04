@@ -17,11 +17,11 @@ Race/class modding
 
 ## 目录
 
-- [1 什么是依赖？](#what-is-a-dependency?)
-- [2 为什么要使用依赖？](#why-do-we-want-to-use-dependencies?)
-- [3 示例](#example)
-- [4 为 Mod Pak 添加依赖](#adding-dependencies-to-mod-paks)
-- [5 原版依赖](#vanilla-dependencies)
+- [1 什么是依赖？](#什么是依赖？)
+- [2 为什么要使用依赖？](#为什么要使用依赖？)
+- [3 示例](#示例)
+- [4 为 Mod Pak 添加依赖](#为-Mod-Pak-添加依赖)
+- [5 原版依赖](#原版依赖)
 
 ## 什么是依赖？
 

@@ -2,7 +2,7 @@
 
 本文介绍的是法术。关于卷轴，请参见 [回生术卷轴](Scroll_of_Revivify.md "回生术卷轴")。
 
-**回生术**是一个[3级死灵学派法术](Spells.md "Spells")。它允许施法者将一名[生命值](Hit_Points.md "生命值")为0的[伙伴](Companion.md "伙伴")复活。
+**回生术**是一个[法术](Spells.md "法术")。它允许施法者将一名[生命值](Hit_Points.md "生命值")为0的[伙伴](Companion.md "伙伴")复活。
 
 ## 描述
 

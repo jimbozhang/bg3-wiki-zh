@@ -16,7 +16,7 @@
 
 - UID `ARM_Camp_Body_Astarion` UUID `b7392453-6569-4c24-9a1b-cbaea7cebac8` Stats `ARM_Camp_Body_Astarion` File `CLT_Camp_Outfit_Astarion_Body` * File `ARM_Astarion_Pants` ## 获取地点
 
-- [阿斯代伦的](Astarion.md "阿斯代伦")初始营地服装
+- [阿斯代伦](Astarion.md "阿斯代伦")初始营地服装
 
 - 阿斯代伦穿着他的营地服装
 

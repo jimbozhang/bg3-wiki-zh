@@ -1,6 +1,6 @@
 # 元素武器：火焰
 
-**元素武器：火焰** 是一个 [等级 3 变化学派法术](Spells.md "Spells")。此法术是 [元素武器](Elemental_Weapon.md "Elemental Weapon") 的变体，为武器注入火焰之力，使其获得额外的火焰伤害和攻击掷骰加值。
+**元素武器：火焰** 是一个 [法术](Spells.md "法术")。此法术是 [元素武器](Elemental_Weapon.md "Elemental Weapon") 的变体，为武器注入火焰之力，使其获得额外的火焰伤害和攻击掷骰加值。
 
 ## 描述
 

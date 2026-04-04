@@ -1,6 +1,6 @@
 # 座狼牙
 
-**座狼牙**是一种[炼金术材料](Alchemy.md "炼金术")。将3个座狼牙合成为[座狼牙灰烬](Ashes_of_Worg_Fang.md "座狼牙灰烬")，可用于制作[嗜血灵药](Elixir_of_Bloodlust.md "嗜血灵药")。
+**座狼牙**是一种[炼金术](Alchemy.md "炼金术")。将3个座狼牙合成为[座狼牙灰烬](Ashes_of_Worg_Fang.md "座狼牙灰烬")，可用于制作[嗜血灵药](Elixir_of_Bloodlust.md "嗜血灵药")。
 
 这颗獠牙散发着腐烂血肉和死亡的气息——这是[座狼](https://forgottenrealms.fandom.com/wiki/Worg)多次狩猎的残余。
 

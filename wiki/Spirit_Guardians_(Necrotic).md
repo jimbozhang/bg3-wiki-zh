@@ -2,7 +2,7 @@
 
 本文介绍该法术的黯蚀变体。其他用法，请参见 [精魂守卫（消歧义）](Spirit_Guardians_(disambiguation)..md)
 
-**精魂守卫：黯蚀** 是一个 [3级咒法学派法术](Spells.md "Spells")。此法术是 [精魂守卫](Spirit_Guardians.md "Spirit Guardians") 法术的变体。此变体造成 ⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并减缓附近敌人的 [移动](Movement_speed.md "Movement Speed")。
+**精魂守卫：黯蚀** 是一个 [法术](Spells.md "法术")。此法术是 [精魂守卫](Spirit_Guardians.md "Spirit Guardians") 法术的变体。此变体造成 ⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并减缓附近敌人的 [移动](Movement_speed.md "Movement Speed")。
 
 ## 描述
 

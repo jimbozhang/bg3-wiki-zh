@@ -1,6 +1,6 @@
 # 颠茄
 
-**颠茄**是一种[炼金术材料](Alchemy.md "炼金术")。将3个颠茄组合可制成[颠茄升华物](Sublimate_of_Belladonna.md "颠茄升华物")，用于制作[卓越专注灵药](Elixir_of_Peerless_Focus.md "卓越专注灵药")
+**颠茄**是一种[炼金术](Alchemy.md "炼金术")。将3个颠茄组合可制成[颠茄升华物](Sublimate_of_Belladonna.md "颠茄升华物")，用于制作[卓越专注灵药](Elixir_of_Peerless_Focus.md "卓越专注灵药")
 
 古老的韵文写道：'若你畏惧变幻之月 / 若你遭逢诅咒或厄运 / 若你受狼人之力所困 / 请寻觅颠茄之花。' 古老的韵文虽美，却往往使人丧命。⁠[颠茄](https://forgottenrealms.fandom.com/wiki/Belladonna) 花朵具有毒性。
 

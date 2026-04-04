@@ -2,7 +2,7 @@
 
 另见：[雷鸣波](Thunderwave.md "雷鸣波")
 
-**罗兰的雷鸣波**是一个[1级塑能学派法术](Spells.md "Spells")。此法术是[雷鸣波](Thunderwave.md "雷鸣波")法术的变体，为[罗兰](Rolan.md "Rolan")独有。队伍成员无法学习此法术。
+**罗兰的雷鸣波**是一个[法术](Spells.md "法术")。此法术是[雷鸣波](Thunderwave.md "雷鸣波")法术的变体，为[罗兰](Rolan.md "Rolan")独有。队伍成员无法学习此法术。
 
 ## 描述
 

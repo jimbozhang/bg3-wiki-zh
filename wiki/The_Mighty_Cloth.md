@@ -31,7 +31,7 @@
 
 **[牛之蛮力](Bull's_Strength_(Condition).md "牛之蛮力 (状态)")**
 
-- 在[力量](Strength.md "Strength")[检定](Ability_Check.md "Ability Check")上具有[优势](Advantage.md "Advantage")。
+- 在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "Advantage")。
 - [负重](Carrying_capacity.md "Carrying Capacity")翻倍。
 
 ## 获取地点
@@ -58,7 +58,7 @@
 
 - 染色变体
 
-- 稀有[染料](Dye.md "Dye")颜色
+- 稀有[染色](Dye.md "染色")颜色
 
 ## 外部链接
 

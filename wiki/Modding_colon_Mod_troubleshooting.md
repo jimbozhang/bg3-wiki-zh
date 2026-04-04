@@ -13,9 +13,9 @@
 
 ## 目录
 
-- [1 通用技巧](#general-tips)
-- [2 自我提问](#questions-to-ask-yourself)
-- [3 常见错误](#common-bugs)
+- [1 通用技巧](#通用技巧)
+- [2 自我提问](#自我提问)
+- [3 常见错误](#常见错误)
   - [3.1 站在田野中，周围是裸男和1个龙裔。](#standing-in-a-field-surrounded-by-naked-men-and-1-dragonborn.)
 
 ## 通用技巧

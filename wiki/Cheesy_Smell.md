@@ -1,6 +1,6 @@
 # 难闻气味
 
-**难闻气味**是一个[等级 3 咒法学派法术](Spells.md "Spells")。此动作允许变形的奶酪轮创建一团令人作呕的气体，可以阻止生物执行动作。目标必须在效果区域内每回合进行[体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则会变得[恶心](Nauseous_(Condition).md "恶心（状态）")。
+**难闻气味**是一个[法术](Spells.md "法术")。此动作允许变形的奶酪轮创建一团令人作呕的气体，可以阻止生物执行动作。目标必须在效果区域内每回合进行[体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则会变得[恶心](Nauseous_(Condition).md "恶心（状态）")。
 
 ## 描述
 
@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 创建区域：臭云术
 
@@ -38,7 +38,7 @@ UID
 
 **[恶心](Nauseous_(Condition).md "恶心（状态）")**
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 无法执行[动作](Action.md "动作")
 

@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法](Category_colon_Inaccessible.md "Category:Inaccessible")通过正常游戏流程获取**。但仍可通过第三方工具访问。
 
-地狱长剑是稀有、轻度附魔（+1）的[长剑](Longsword.md "Longsword")家族变体武器。这是一件[军用近战武器](Weapons.md "Weapons")，可单手持用，或双手持用以造成额外伤害。
+地狱长剑是稀有、轻度附魔（+1）的[长剑](Longsword.md "Longsword")家族变体武器。这是一件[武器](Weapons.md "武器")，可单手持用，或双手持用以造成额外伤害。
 
 精确的地狱符文被编织进这把武器的装饰中，暗示其制造者精通地狱奥秘。
 

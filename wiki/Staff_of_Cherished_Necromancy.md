@@ -32,7 +32,7 @@ UID `MAG_GreaterNecromancy_Staff` UUID `ecb02247-a407-445e-8046-856133d198bf` St
 **持有此物品者获得：**
 
 [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
-生物对你[死灵学派法术](Necromancy.md "死灵学派")的[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物对你[死灵学派](Necromancy.md "死灵学派")的[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
 [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
 当使用者用法术杀死一个敌对生物时，他们会贪婪地吸收其能量，并获得[生命精华](Life_Essence_(Condition).md "生命精华（状态）")，直到下一次长休。

@@ -87,15 +87,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
@@ -143,15 +143,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
@@ -199,15 +199,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
@@ -229,10 +229,10 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击和能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击和能力](#攻击和能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
 
 ## 参与
 
@@ -250,7 +250,7 @@ UUID
 
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -264,7 +264,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")不会流血。
 
-[体](Constitution.md "体") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 

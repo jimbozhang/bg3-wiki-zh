@@ -5,7 +5,7 @@
 **暗夜之歌**可能指：
 
 - ⁠[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌") - 寻找一件古老“遗物”的任务
-- [暗夜之歌](Dame_Aylin.md "艾琳女士") - 那件“遗物”
+- [艾琳女士](Dame_Aylin.md "艾琳女士") - 那件“遗物”
 - ⁠[暗夜之歌监狱](Nightsong's_Prison.md "暗夜之歌监狱") - 可以找到该“遗物”的地点
 - [暗夜之歌点数](Nightsong_Point.md "暗夜之歌点数") - 与[影心](Shadowheart.md "影心")相关的游戏机制
 - [暗夜之歌护甲](Nightsong's_Armour.md "暗夜之歌护甲") - 一件无法获得的物品

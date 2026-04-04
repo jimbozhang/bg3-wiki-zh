@@ -15,7 +15,7 @@
 4d8 + 3⁠[黯蚀](Necrotic.md "黯蚀")（需通过 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 以减半）
 
 详情
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围效果：20米（67英尺）半径
 
 ## 技术细节

@@ -1,6 +1,6 @@
 # 元素武器：闪电
 
-**元素武器：闪电** 是一个 [3级变化学派法术](Spells.md "Spells")。此法术是 [元素武器](Elemental_Weapon.md "Elemental Weapon") 的一个变体，为武器注入电能之力，使其获得额外的闪电伤害和攻击掷骰加值。
+**元素武器：闪电** 是一个 [法术](Spells.md "法术")。此法术是 [元素武器](Elemental_Weapon.md "Elemental Weapon") 的一个变体，为武器注入电能之力，使其获得额外的闪电伤害和攻击掷骰加值。
 
 ## 描述
 

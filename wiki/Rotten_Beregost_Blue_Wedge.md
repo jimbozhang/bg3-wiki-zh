@@ -4,7 +4,7 @@ A **腐烂贝尔苟斯特蓝奶酪片**是常见的[杂物消耗品](Miscellaneo
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：常见
 
@@ -34,7 +34,7 @@ A **腐烂贝尔苟斯特蓝奶酪片**是常见的[杂物消耗品](Miscellaneo
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：常见
 

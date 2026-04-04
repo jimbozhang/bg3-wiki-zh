@@ -14,11 +14,11 @@
 [动作](Actions.md#Resources "动作")
 伤害：1~4 + 调整值
 
-1d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[武器](Weapon.md "武器")
+1d4 + [灵巧](Finesse.md "灵巧")⁠[武器](Weapon.md "武器")
 
 详情
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
 近战：1.5 米（5 英尺）
 充能：[短休](Short_rest.md "短休")
 必须[熟练](Proficiency.md#Weapon_proficiency "熟练项")该武器
@@ -39,7 +39,7 @@ UID
 
 持续时间：2 回合
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
 
 - 受影响生物的[移动速度](Movement_speed.md "移动速度")降至 0。
 - 受影响生物在敏捷[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
@@ -53,7 +53,7 @@ UID
 - [塞伦涅的暗夜短矛](Sel%C3%BBne's_Spear_of_Night.md "塞伦涅的暗夜短矛")
 - [尼鲁纳](Nyrulna.md "尼鲁纳")
 
-由[熟练](Proficiency.md "熟练")使用以下武器类型授予：
+由[熟练项](Proficiency.md "熟练项")使用以下武器类型授予：
 
 - [战斧](Battleaxes.md "战斧")
 - [战镐](War_Picks.md "战镐")

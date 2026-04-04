@@ -1,6 +1,6 @@
 # See Invisibility
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/See_Invisibility.md "Special:WhatLinksHere/See Invisibility")的，请考虑编辑该链接以指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[识破隐形](Special_colon_WhatLinksHere/See_Invisibility.md "识破隐形")的，请考虑编辑该链接以指向正确的页面。
 
 **See Invisibility** 可能指：
 

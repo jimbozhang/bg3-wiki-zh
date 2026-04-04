@@ -89,7 +89,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 15 / (+2) | 10 / (0) | 17 / (+3) | 15 / (+2) | 20 / (+5) | 16 / (+3) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 状态
 
@@ -111,19 +111,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**高强死灵法术**](Heightened_Necromancy.md "高强死灵法术")
+- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
 
-生物对抗你的[死灵学派法术](Necromancy.md "死灵学派法术")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**获取生命精华**](Life_Essence_Harvest.md "获取生命精华")
+- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
 
 当持有者用法术杀死敌对生物时，贪婪地吸收其能量并获得[生命精华](Life_Essence_(Condition).md "生命精华 (状态)")，直到下一次长休。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -131,15 +131,15 @@
 
 如果目标处于[恐慌](Frightened_(Condition)状态.md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -189,7 +189,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +2 | 0 | +7 | +6 | +9 | +7 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 状态
 
@@ -211,19 +211,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**高强死灵法术**](Heightened_Necromancy.md "高强死灵法术")
+- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
 
-生物对抗你的[死灵学派法术](Necromancy.md "死灵学派法术")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**获取生命精华**](Life_Essence_Harvest.md "获取生命精华")
+- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
 
 当持有者用法术杀死敌对生物时，贪婪地吸收其能量并获得[生命精华](Life_Essence_(Condition).md "生命精华 (状态)")，直到下一次长休。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -231,15 +231,15 @@
 
 如果目标处于[恐慌](Frightened_(Condition)状态.md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -289,7 +289,7 @@
 | --- | --- | --- | --- |
 |  | 2 | 0 | 5 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 状态
 
@@ -315,19 +315,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**高强死灵法术**](Heightened_Necromancy.md "高强死灵法术")
+- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
 
-生物对抗你的[死灵学派法术](Necromancy.md "死灵学派法术")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**获取生命精华**](Life_Essence_Harvest.md "获取生命精华")
+- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
 
 当持有者用法术杀死敌对生物时，贪婪地吸收其能量并获得[生命精华](Life_Essence_(Condition).md "生命精华 (状态)")，直到下一次长休。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -335,15 +335,15 @@
 
 如果目标处于[恐慌](Frightened_(Condition)状态.md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -393,7 +393,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 15 / (+2) | 10 / (0) | 17 / (+3) | 15 / (+2) | 20 / (+5) | 16 / (+3) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 状态
 
@@ -423,19 +423,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**高强死灵法术**](Heightened_Necromancy.md "高强死灵法术")
+- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
 
-生物对抗你的[死灵学派法术](Necromancy.md "死灵学派法术")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，进行[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-- [**获取生命精华**](Life_Essence_Harvest.md "获取生命精华")
+- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
 
 当持有者用法术杀死敌对生物时，贪婪地吸收其能量并获得[生命精华](Life_Essence_(Condition).md "生命精华 (状态)")，直到下一次长休。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -443,15 +443,15 @@
 
 如果目标处于[恐慌](Frightened_(Condition)状态.md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**驱散抗性**](Turn_Resistance.md "驱散抗性")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 对抗任何驱散不死生物效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -499,21 +499,21 @@ UUID
 
 ## 目录
 
-- [1 登场](#involvement)
-- [2 商店](#store)
-- [3 器官](#organs)
-- [4 战斗](#combat)
-  - [4.1 攻击与能力](#attacks-and-abilities)
-    - [4.1.1 硬核和荣誉模式](#tactician-and-honour-mode)
-    - [4.1.2 荣誉模式](#honour-mode)
-  - [4.2 盟友](#allies)
-  - [4.3 免疫](#immunities)
-  - [4.4 战利品](#loot)
-- [5 相关任务](#related-quests)
-- [6 相关文献](#related-literature)
-- [7 图库](#gallery)
-- [8 注释](#notes)
-- [9 错误](#bugs)
+- [1 登场](#登场)
+- [2 商店](#商店)
+- [3 器官](#器官)
+- [4 战斗](#战斗)
+  - [4.1 攻击与能力](#攻击与能力)
+    - [4.1.1 硬核和荣誉模式](#硬核和荣誉模式)
+    - [4.1.2 荣誉模式](#荣誉模式)
+  - [4.2 盟友](#盟友)
+  - [4.3 免疫](#免疫)
+  - [4.4 战利品](#战利品)
+- [5 相关任务](#相关任务)
+- [6 相关文献](#相关文献)
+- [7 图库](#图库)
+- [8 注释](#注释)
+- [9 错误](#错误)
 
 ## 登场
 
@@ -640,7 +640,7 @@ UUID
 ### 战利品
 
 - [收购记录](Acquisitions_Record.md "收购记录") – 在镀金箱子中
-- [钥匙 (菲尔格雷弗宅邸)](Key_(Philgrave's_Mansion).md "钥匙 (菲尔格雷弗宅邸)") (打开楼上的锁着的双开门；最终通向一个舱口，可进入[宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸")的地下室)
+- [钥匙 (菲尔格雷弗宅邸)](Key_(Philgrave's_Mansion).md "钥匙 (菲尔格雷弗宅邸)") (打开楼上的锁着的双开门；最终通向一个舱口，可进入[菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸")的地下室)
 - [锈钥匙](Rusty_Key.md "锈钥匙") (用于[镀金箱子](Gilded_Chest.md "镀金箱子"))
 - [死灵珍爱法杖](Staff_of_Cherished_Necromancy.md "死灵珍爱法杖")
 - [驱散火炬](Torch_of_Revocation.md "驱散火炬") – 在镀金箱子中

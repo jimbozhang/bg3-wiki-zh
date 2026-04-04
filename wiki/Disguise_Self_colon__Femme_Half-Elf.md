@@ -1,6 +1,6 @@
 # 伪装术：女性半精灵
 
-**伪装术：女性半精灵** 是一个 [等级 1 幻术学派法术](Spells.md "Spells")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。此法术允许施法者暂时将自己的外观改变为女性 [半精灵](Half-Elf.md#High_Half-Elves "Half-Elf") 的形态。
+**伪装术：女性半精灵** 是一个 [法术](Spells.md "法术")。它是 [伪装术](Disguise_Self.md "Disguise Self") 的一个变体。此法术允许施法者暂时将自己的外观改变为女性 [半精灵](Half-Elf.md#High_Half-Elves "Half-Elf") 的形态。
 
 ## 描述
 

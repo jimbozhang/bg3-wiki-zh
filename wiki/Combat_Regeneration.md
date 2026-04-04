@@ -4,7 +4,7 @@
 
 ## 描述
 
-在你的回合开始时，戒指会激活并治疗你 1d4⁠⁠[生命值](Healing.md "治疗")。
+在你的回合开始时，戒指会激活并治疗你 1d4⁠⁠[治疗](Healing.md "治疗")。
 
 ## 如何习得
 
@@ -20,7 +20,7 @@
 
 与以下装备搭配效果良好：
 
-- [神佑医师](Blessed_Healer.md "神佑医师")，可额外获得 3⁠⁠[生命值](Healing.md "治疗")
+- [神佑医师](Blessed_Healer.md "神佑医师")，可额外获得 3⁠⁠[治疗](Healing.md "治疗")
 - [疗愈之靴](Boots_of_Aid_and_Comfort.md "疗愈之靴")，可额外获得 3 [临时生命值](Temporary_Hit_Points.md "临时生命值")
 - [巢穴之母的复仇](Broodmother's_Revenge.md "巢穴之母的复仇")，可在武器攻击时额外造成 1d6⁠⁠[中毒](Poison.md "中毒")伤害
 - [草药师手套](Herbalist's_Gloves.md "草药师手套")，可移除[中毒](Poisoned_(Condition).md "中毒（状态）")状态

@@ -14,12 +14,12 @@
 
 ## 目录
 
-- [1 感知调整值表](#wisdom-modifier-chart)
-- [2 提升方式](#ways-to-increase)
-- [3 相关物品](#related-items)
-  - [3.1 影响感知](#affecting-wisdom)
-  - [3.2 影响豁免检定](#affecting-saving-throws)
-  - [3.3 受益于感知](#benefiting-from-wisdom)
+- [1 感知调整值表](#感知调整值表)
+- [2 提升方式](#提升方式)
+- [3 相关物品](#相关物品)
+  - [3.1 影响感知](#影响感知)
+  - [3.2 影响豁免检定](#影响豁免检定)
+  - [3.3 受益于感知](#受益于感知)
 
 ## 感知调整值表
 

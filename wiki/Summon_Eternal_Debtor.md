@@ -2,7 +2,7 @@
 
 本文介绍的是**[无法通过正常游戏获取](Category_colon_Inaccessible.md "Category:Inaccessible")**的内容。仍可通过第三方工具访问。
 
-**召唤永恒债务人**是一个[6级咒法学派法术](Spells.md "Spells")。这个未使用的法术允许[拉斐尔](Raphael.md "Raphael")在没有任何灵魂要求的情况下召唤一个[永恒债务人](Eternal_Debtor.md "Eternal_Debtor")。队友无法学习此法术。
+**召唤永恒债务人**是一个[法术](Spells.md "法术")。这个未使用的法术允许[拉斐尔](Raphael.md "Raphael")在没有任何灵魂要求的情况下召唤一个[永恒债务人](Eternal_Debtor.md "Eternal_Debtor")。队友无法学习此法术。
 
 ## 描述
 

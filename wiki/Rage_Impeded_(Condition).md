@@ -2,7 +2,7 @@
 
 **狂暴受阻**
 
-- 被[重甲](Heavy_Armour.md "重甲")所累。在移除护甲前，[狂暴](Rage.md "狂暴")不会提供额外伤害、对[物理伤害](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")的[抗性](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "抗性")，或在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上的[优势](Advantage.md "优势")。
+- 被[重甲](Heavy_Armour.md "重甲")所累。在移除护甲前，[狂暴](Rage.md "狂暴")不会提供额外伤害、对[物理伤害](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")的[抗性](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "抗性")，或在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上的[优势](Advantage.md "优势")。
 
 ## 属性
 
@@ -36,7 +36,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 被[重甲](Heavy_Armour.md "重甲")所累。在移除护甲前，[狂暴](Rage.md "狂暴")不会提供额外伤害、对[物理伤害](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")的[抗性](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "抗性")，或在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上的[优势](Advantage.md "优势")。
+- 被[重甲](Heavy_Armour.md "重甲")所累。在移除护甲前，[狂暴](Rage.md "狂暴")不会提供额外伤害、对[物理伤害](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")的[抗性](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "抗性")，或在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上的[优势](Advantage.md "优势")。
 
 ---
 *Source: [Rage Impeded (Condition)](https://bg3.wiki/wiki/Rage_Impeded_(Condition)*

@@ -82,19 +82,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 10 / (0) | 12 / (+1) | 16 / (+3) | 12 / (+1) | 12 / (+1) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -140,19 +140,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | 0 | +1 | +5 | +3 | +1 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -198,19 +198,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 10 / (0) | 12 / (+1) | 16 / (+3) | 12 / (+1) | 12 / (+1) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -240,15 +240,15 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与情况](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第三幕](#act-three)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 画廊](#gallery)
-- [6 注释](#notes)
-- [7 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 参与情况](#参与情况)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第三幕](#第三幕)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 画廊](#画廊)
+- [6 注释](#注释)
+- [7 外部链接](#外部链接)
 
 ## 概述
 

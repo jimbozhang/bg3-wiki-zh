@@ -83,19 +83,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**埃赛尔的扭曲祝福**](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
+- [埃赛尔的扭曲祝福](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
 
 作为埃赛尔的忠实仆从，此红帽子拥有额外的 40 [生命值](Hit_Points.md "生命值")，其[力量](Strength.md "力量")和[体质](Constitution.md "体质")属性值各增加 +2，且其攻击造成额外的 1~12⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-- [**纵情狂欢**](Merry_Revelry.md "纵情狂欢")
+- [纵情狂欢](Merry_Revelry.md "纵情狂欢")
 
 当目标血液中有酒精痕迹时，此红帽子的嗜血状态会减弱，这意味着它们会优先攻击清醒的生物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -103,7 +103,7 @@
 
 红帽子在[嗜血](Bloodlust_(Condition).md "嗜血 (状态)")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击 (红帽子)")。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血 (状态)")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
@@ -151,19 +151,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**埃赛尔的扭曲祝福**](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
+- [埃赛尔的扭曲祝福](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
 
 作为埃赛尔的忠实仆从，此红帽子拥有额外的 40 [生命值](Hit_Points.md "生命值")，其[力量](Strength.md "力量")和[体质](Constitution.md "体质")属性值各增加 +2，且其攻击造成额外的 1~12⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-- [**纵情狂欢**](Merry_Revelry.md "纵情狂欢")
+- [纵情狂欢](Merry_Revelry.md "纵情狂欢")
 
 当目标血液中有酒精痕迹时，此红帽子的嗜血状态会减弱，这意味着它们会优先攻击清醒的生物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -171,7 +171,7 @@
 
 红帽子在[嗜血](Bloodlust_(Condition).md "嗜血 (状态)")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击 (红帽子)")。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血 (状态)")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
@@ -219,19 +219,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**埃赛尔的扭曲祝福**](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
+- [埃赛尔的扭曲祝福](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
 
 作为埃赛尔的忠实仆从，此红帽子拥有额外的 40 [生命值](Hit_Points.md "生命值")，其[力量](Strength.md "力量")和[体质](Constitution.md "体质")属性值各增加 +2，且其攻击造成额外的 1~12⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 
-- [**纵情狂欢**](Merry_Revelry.md "纵情狂欢")
+- [纵情狂欢](Merry_Revelry.md "纵情狂欢")
 
 当目标血液中有酒精痕迹时，此红帽子的嗜血状态会减弱，这意味着它们会优先攻击清醒的生物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -239,7 +239,7 @@
 
 红帽子在[嗜血](Bloodlust_(Condition).md "嗜血 (状态)")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击 (红帽子)")。
 
-- [**沉浸杀戮**](Steeped_in_Slaughter.md "沉浸杀戮")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 对[流血](Bleeding_(Condition).md "流血 (状态)")的敌人进行[攻击掷骰](Attack_rolls.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 

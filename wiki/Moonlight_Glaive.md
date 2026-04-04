@@ -1,6 +1,6 @@
 # 月光
 
-月光是一把稀有的+2 [长柄刀](Glaives.md "长柄刀")，造成额外的光耀伤害，具有永久的[光亮术](Light.md "光亮术")效果，并授予其持有者[月光蝴蝶](Moonlight_Butterflies_(Weapon_Action).md "月光蝴蝶")武器动作。
+月光是一把稀有的+2 [长柄刀](Glaives.md "长柄刀")，造成额外的光耀伤害，具有永久的[轻型](Light.md "轻型")效果，并授予其持有者[月光蝴蝶](Moonlight_Butterflies_(Weapon_Action).md "月光蝴蝶")武器动作。
 
 这是[艾琳女士](Aylin.md "艾琳女士")和她的[光耀女神](Sel%C3%BBne.md "塞伦涅")的礼物，这把武器的轮廓拥有一种银白色的美感，宛如每晚升上天穹的夜灯。
 

@@ -2,7 +2,7 @@
 
 **狂喜**
 
-- 对[攻击掷骰](Attack_roll.md "攻击掷骰")、[检定](Ability_Check.md "检定")和[豁免检定](Saving_throw.md "豁免检定")有+1d6加值。直到下一次长休。
+- 对[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")有+1d6加值。直到下一次长休。
 
 ## 属性
 
@@ -14,7 +14,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 对[攻击掷骰](Attack_roll.md "攻击掷骰")、[检定](Ability_Check.md "检定")和[豁免检定](Saving_throw.md "豁免检定")有+1d6加值。直到下一次长休。
+- 对[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")有+1d6加值。直到下一次长休。
 
 ---
 *Source: [Rapture (Condition)](https://bg3.wiki/wiki/Rapture_(Condition)*

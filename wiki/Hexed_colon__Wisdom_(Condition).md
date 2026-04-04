@@ -3,7 +3,7 @@
 **脆弱诅咒（感知）**
 
 - 生物受到施法者额外的 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 它在[感知](Wisdom.md "感知") [检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 它在[感知](Wisdom.md "感知") [属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 [被诅咒](Cursed_(status_group).md)
 

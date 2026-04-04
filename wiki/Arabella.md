@@ -89,11 +89,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
@@ -139,11 +139,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
@@ -189,11 +189,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
@@ -223,17 +223,17 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第二幕](#act-two)
-  - [1.3 第三幕](#act-three)
-  - [1.4 尾声](#epilogue)
-- [2 死者交谈](#speak-with-dead)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 画廊](#gallery)
-- [6 注释](#notes)
-- [7 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第二幕](#第二幕)
+  - [1.3 第三幕](#第三幕)
+  - [1.4 尾声](#尾声)
+- [2 死者交谈](#死者交谈)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 画廊](#画廊)
+- [6 注释](#注释)
+- [7 外部链接](#外部链接)
 
 ## 出场
 

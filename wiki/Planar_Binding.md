@@ -1,6 +1,6 @@
 # 异界誓缚
 
-**异界誓缚**是一个[5级防护学派法术](Spells.md "Spells")。它允许施法者[掌控](To_Take_Control.md "掌控之中")一个[天界生物](Celestial.md "Celestial")、[元素生物](Elemental.md "Elemental")、[妖精](Fey.md "Fey")或[邪魔](Fiend.md "Fiend")。
+**异界誓缚**是一个[法术](Spells.md "法术")。它允许施法者[掌控之中](To_Take_Control.md "掌控之中")一个[天界生物](Celestial.md "Celestial")、[元素生物](Elemental.md "Elemental")、[妖精](Fey.md "Fey")或[邪魔](Fiend.md "Fiend")。
 
 ## 描述
 

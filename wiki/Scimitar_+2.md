@@ -1,6 +1,6 @@
 # 弯刀 +2
 
-**弯刀 +2** 是一种稀有、中等附魔（+2）的 [弯刀](Scimitars.md "Scimitars") 武器变体。它是一种 [军用近战武器](Weapons.md "Weapons")，可单手挥舞。作为 [灵巧](Finesse.md "Finesse") 武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种 [轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
+**弯刀 +2** 是一种稀有、中等附魔（+2）的 [弯刀](Scimitars.md "Scimitars") 武器变体。它是一种 [武器](Weapons.md "武器")，可单手挥舞。作为 [灵巧](Finesse.md "Finesse") 武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种 [轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
 
 这把刀刃的每一次挥动都伴随着一道拱形的电蓝色残影。
 

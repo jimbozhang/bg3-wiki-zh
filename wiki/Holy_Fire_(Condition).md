@@ -30,7 +30,7 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| [燃烧](Burning_(Orthonic)_(Condition).md "燃烧 (奥瑟通) (状态)") | 每回合受到 1d4⁠⁠[火焰](Fire.md "火焰") 伤害。无法通过 [协助](Help.md "协助") 动作、使用 [治疗类药水](Potion_of_Healing.md "治疗药水") 或获得 [濡湿](Wet_(Condition).md "濡湿 (状态)") 来移除。 |
+| [燃烧](Burning_(Orthonic)_(Condition).md "燃烧 (奥瑟通) (状态)") | 每回合受到 1d4⁠⁠[火焰](Fire.md "火焰") 伤害。无法通过 [协助](Help.md "协助") 动作、使用 [治疗药水](Potion_of_Healing.md "治疗药水") 或获得 [濡湿](Wet_(Condition).md "濡湿 (状态)") 来移除。 |
 | [燃烧](Burning_(Condition).md "燃烧 (状态)") | 每回合受到 1d4⁠⁠[火焰](Fire.md "火焰") 伤害。可以通过 [协助](Help.md "协助") 动作、使用 [治疗药水](Potion_of_Healing.md "治疗药水") 或获得 [濡湿](Wet_(Condition).md "濡湿 (状态)") 来移除。如果处于 [濡湿](Wet_(Condition).md "濡湿 (状态)") 状态则免疫。[蘸取](Dip.md "蘸取") 动作可用于燃烧的角色或物体。 |
 | [灼烧](Burning_Fiercely_(Condition).md "灼烧 (状态)") | 每回合受到 1d10⁠⁠[火焰](Fire.md "火焰") 伤害。 |
 | 圣火 | 每回合受到 1~4⁠⁠[光耀](Radiant.md "光耀") 伤害。 |

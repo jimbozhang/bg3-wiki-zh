@@ -29,7 +29,7 @@
 ## 备注
 
 - 任何长剑、硬头锤、战锤或战斧，只要放置在正确的祭坛上，同样有效。
-- 或者，通过一次被动 DC 10 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定") 可揭示包含徽记的隐藏密室，并且一次 DC 30 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定") 可以解锁它，从而绕过将武器放置在祭坛上的需要。
+- 或者，通过一次被动 DC 10 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定") 可揭示包含徽记的隐藏密室，并且一次 DC 30 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定") 可以解锁它，从而绕过将武器放置在祭坛上的需要。
 - 另请参阅：
   - [黎明大师瓦赛德的寓言](The_Parables_of_Dawnmaster_Vaseid.md "黎明大师瓦赛德的寓言")
 

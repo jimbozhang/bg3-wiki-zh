@@ -4,17 +4,17 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 对内蒂坦诚相告](#being-truthful-with-nettie)
-  - [2.2 对内蒂有所隐瞒](#not-being-truthful-with-nettie)
-  - [2.3 避免中毒](#avoiding-getting-poisoned)
-  - [2.4 中毒与被困](#poisoned-and-trapped)
-    - [2.4.1 从内蒂处获得解毒剂](#getting-an-andidote-from-nettie)
-    - [2.4.2 配制解毒剂](#brewing-an-antidote)
-  - [2.5 如果内蒂被杀](#if-nettie-is-killed)
-- [3 任务奖励](#quest-rewards)
-- [4 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 对内蒂坦诚相告](#对内蒂坦诚相告)
+  - [2.2 对内蒂有所隐瞒](#对内蒂有所隐瞒)
+  - [2.3 避免中毒](#避免中毒)
+  - [2.4 中毒与被困](#中毒与被困)
+    - [2.4.1 从内蒂处获得解毒剂](#从内蒂处获得解毒剂)
+    - [2.4.2 配制解毒剂](#配制解毒剂)
+  - [2.5 如果内蒂被杀](#如果内蒂被杀)
+- [3 任务奖励](#任务奖励)
+- [4 备注](#备注)
 
 ## 目标
 
@@ -54,7 +54,7 @@
 
 [内蒂](Nettie.md "Nettie")可以在[翠绿林地](Druid_Grove.md "Druid Grove")内找到，位于[卡哈](Kagha.md "Kagha")和[拉斯](Rath.md "Rath")所在的休息室后面的房间里。在向她承认被夺心魔蝌蚪感染之前，她不会提供帮助。她邀请队伍加入她，到圣所深处的图书馆房间谈话。
 
-一旦进入房间，她会锁上已经进入房间的队伍成员身后的门。因此，这些队伍成员无法再进行[快速旅行](Ancient_Sigil_Circle.md "Ancient Sigil Circle")。接近内蒂会触发对话。
+一旦进入房间，她会锁上已经进入房间的队伍成员身后的门。因此，这些队伍成员无法再进行[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")。接近内蒂会触发对话。
 
 ### 对内蒂坦诚相告
 

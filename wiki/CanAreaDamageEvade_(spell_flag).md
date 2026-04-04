@@ -31,7 +31,7 @@
 | [火焰吐息 (锥形)](Fire_Breath_(Cone).md "火焰吐息 (锥形)") | 动作 | [短休](Short_rest.md "短休") | 自身 5 米 (17 英尺) (锥形) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 2d6⁠[火焰](Fire.md "火焰") |
 | [火焰吐息 (岩浆魔蝠)](Fire_Breath_(Magma_Mephit).md "火焰吐息 (岩浆魔蝠)") | 动作 | 每回合 | 5 米 (17 英尺) (锥形) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 2d6⁠[火焰](Fire.md "火焰") |
 | [火焰吐息 (龙)](Fire_Breath_(Dragons).md "火焰吐息 (龙)") | 动作 | 每回合 | 30 米 (100 英尺) 6 米 (20 英尺) (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 14d6⁠[火焰](Fire.md "火焰") 施加 [燃烧](Burning_(Condition).md "燃烧 (状态)") |
-| [火球术术](Fireball.md "火球术术") | 3 级法术 | + | 18 米 (60 英尺) 4 米 (13 英尺) (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
+| [火球术](Fireball.md "火球术") | 3 级法术 | + | 18 米 (60 英尺) 4 米 (13 英尺) (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 8d6⁠[火焰](Fire.md "火焰") |
 | [火酒爆炸](Firewine_Explosion.md "火酒爆炸") | 动作 |  | 4 米 (13 英尺) (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 2d6⁠[火焰](Fire.md "火焰") |
 | [焰击术](Flame_Strike.md "焰击术") | 5 级法术 | + | 18 米 (60 英尺) 3 米 (10 英尺) (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 5d6⁠[火焰](Fire.md "火焰") + 5d6⁠[光耀](Radiant.md "光耀") |
 | [阿弗纳斯之焰 (法术)](Flames_of_Avernus_(spell).md "阿弗纳斯之焰 (法术)") | 6 级法术 |  | 自身 5 米 (17 英尺) (锥形) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 6d6⁠[火焰](Fire.md "火焰") |
@@ -47,7 +47,7 @@
 | [涌动之风](Gushing_Air.md "涌动之风") | 动作 |  | 18 米 (60 英尺) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 2d6 + 1⁠[雷鸣](Thunder.md "雷鸣") + 2d6 + 1⁠[雷鸣](Thunder.md "雷鸣") |
 | [排放地狱火](Hellfire_Exhaust.md "排放地狱火") | 动作 |  | 自身 3 米 (10 英尺) (锥形) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 3d8⁠[火焰](Fire.md "火焰") + 3d8⁠[火焰](Fire.md "火焰") (若目标正在燃烧) 施加 [翻腾地狱火](Roiling_Hellfire_(Condition).md "翻腾地狱火 (状态)") |
 | [地狱火飞弹](Hellfire_Missiles.md "地狱火飞弹") | 动作 |  | 100 米 (333 英尺) 6 米 (20 英尺) (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 4d6⁠[火焰](Fire.md "火焰") (每枚飞弹) |
-| [地狱火球术](Hellfire_Orb.md "地狱火球术") | 6 级法术 | 每场战斗 | 18 米 (60 英尺) 4 米 (13 英尺) (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 20d6⁠[火焰](Fire.md "火焰") |
+| [地狱火球](Hellfire_Orb.md "地狱火球") | 6 级法术 | 每场战斗 | 18 米 (60 英尺) 4 米 (13 英尺) (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 20d6⁠[火焰](Fire.md "火焰") |
 | [地狱火撕裂](Hellflame_Cleave.md "地狱火撕裂") | 戏法 | [短休](Short_rest.md "短休") | 3 米 (10 英尺) (锥形) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 正常武器伤害 + 2d6⁠[火焰](Fire.md "火焰") 施加 [翻腾地狱火](Roiling_Hellfire_(Condition).md "翻腾地狱火 (状态)") |
 | [寒冰吐息](Ice_Breath.md "寒冰吐息") | 动作 | 每回合 | 5 米 (17 英尺) (锥形) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 2d6⁠[寒冷](Cold.md "寒冷") |
 | [冰风暴](Ice_Storm.md "冰风暴") | 4 级法术 | + | 18 米 (60 英尺) 6 米 (20 英尺) (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[钝击](Bludgeoning.md "钝击") + 4d6⁠[寒冷](Cold.md "寒冷") |

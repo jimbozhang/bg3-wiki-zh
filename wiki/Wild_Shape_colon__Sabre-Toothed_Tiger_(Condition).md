@@ -53,7 +53,7 @@
 扑向生物的喉咙。如果目标处于 [倒伏](Prone_(Condition).md "倒伏 (状态)") 状态，你将造成额外的 2d6 + 力量或敏捷调整值 [穿刺](Piercing.md "穿刺") 伤害。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-消耗 [法术位](Spells.md#Spell_slots "法术") 以在荒野形态下恢复 [生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复 1d8 [生命值](Healing.md "治疗")。
+消耗 [法术位](Spells.md#Spell_slots "法术") 以在荒野形态下恢复 [生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复 1d8 [治疗](Healing.md "治疗")。
 
 [破甲撕裂](Shred_Armour.md "破甲撕裂") ()
 撕裂目标的弱点，使其 [护甲等级](Armour_Class.md "护甲等级") 降低 2。
@@ -62,7 +62,7 @@
 
 **[野兽活力](Animalistic_Vitality_(Condition).md "野兽活力 (状态)")**
 
-- 受影响实体在生命值低于 60 时，每回合恢复 2d8 [生命值](Healing.md "治疗")。它还会获得额外的 3.5 米（12 英尺）移动速度。_\[[参见：错误](Animalistic_Vitality_(Condition).md#Bugs).md#Bugs> "野兽活力 (状态)")\]_
+- 受影响实体在生命值低于 60 时，每回合恢复 2d8 [治疗](Healing.md "治疗")。它还会获得额外的 3.5 米（12 英尺）移动速度。_\[[参见：错误](Animalistic_Vitality_(Condition).md#Bugs).md#Bugs> "野兽活力 (状态)")\]_
 
 ## 荒野形态：剑齿虎的来源
 

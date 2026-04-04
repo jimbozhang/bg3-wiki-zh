@@ -8,7 +8,7 @@
 
 一旦触发，震慑通风口首先会像[爆破地雷](Blast_Mine.md "爆破地雷")一样运作，通过爆炸对触碰它的队伍成员造成2d6⁠⁠[火焰](Fire.md "火焰")伤害，然后使其[震慑](Stunned_(Condition).md "震慑（状态）")3回合。要避免后者，角色必须通过一次难度等级（DC）为15的[体质](Constitution.md "体质")[豁免检定](Saving_Trap.md "豁免检定")。
 
-震慑通风口可以通过DC 15的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")发现，并通过DC 10的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")解除；不过，进行交互的队伍成员必须在物品栏中拥有[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")才能做到这一点。
+震慑通风口可以通过DC 15的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")发现，并通过DC 10的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")解除；不过，进行交互的队伍成员必须在物品栏中拥有[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")才能做到这一点。
 
 解除后，震慑通风口的外观几乎相同，但会变为非激活状态。
 

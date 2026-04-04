@@ -77,15 +77,15 @@ _[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_ 前记者
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -125,15 +125,15 @@ _[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_ 前记者
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -173,15 +173,15 @@ _[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_ 前记者
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -215,7 +215,7 @@ Stats
 
 席亚拉·布朗克可在[费洛杰尔烟花铺](Felogyr's_Fireworks.md "费洛杰尔烟花铺")周围的一条小路上找到。与她交谈时，席亚拉会对《博德之口》的衰落状态发表负面评论，包括印刷质量和所用纸张。她曾是该报的记者，但在报社开始使用新[印刷机](Jelliwig.md "印刷机")后被解雇。
 
-席亚拉对队伍的反应可能因公报中关于他们的[刊发文章](Stop_the_Presses.md "阻止刊发")而异。如果[戈塔什](Gortash.md "戈塔什")被击败，她也会对此发表评论。
+席亚拉对队伍的反应可能因公报中关于他们的[阻止刊发](Stop_the_Presses.md "阻止刊发")而异。如果[戈塔什](Gortash.md "戈塔什")被击败，她也会对此发表评论。
 
 ---
 *Source: [Ciara Blank](https://bg3.wiki/wiki/Ciara_Blank)*

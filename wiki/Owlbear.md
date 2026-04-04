@@ -86,7 +86,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -94,7 +94,7 @@
 
 枭熊在[枭熊之怒](Owlbear's_Rage_(Condition).md "Owlbear's Rage (Condition)")效果下可进行[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -144,7 +144,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -152,7 +152,7 @@
 
 枭熊在[枭熊之怒](Owlbear's_Rage_(Condition).md "Owlbear's Rage (Condition)")效果下可进行[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -202,7 +202,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -210,7 +210,7 @@
 
 枭熊在[枭熊之怒](Owlbear's_Rage_(Condition).md "Owlbear's Rage (Condition)")效果下可进行[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -264,7 +264,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -276,7 +276,7 @@
 
 枭熊在[枭熊之怒](Owlbear's_Rage_(Condition).md "Owlbear's Rage (Condition)")效果下可进行[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -284,19 +284,19 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-    - [1.1.1 未使用动物交谈](#without-speak-with-animals)
-    - [1.1.2 使用动物交谈](#with-speak-with-animals)
-- [2 伙伴好感度](#companion-approval)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 荣誉模式](#honour-mode)
-  - [3.3 战术](#tactics)
-  - [3.4 战利品](#loot)
-- [4 画廊](#gallery)
-- [5 注释](#notes)
-- [6 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+    - [1.1.1 未使用动物交谈](#未使用动物交谈)
+    - [1.1.2 使用动物交谈](#使用动物交谈)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 荣誉模式](#荣誉模式)
+  - [3.3 战术](#战术)
+  - [3.4 战利品](#战利品)
+- [4 画廊](#画廊)
+- [5 注释](#注释)
+- [6 外部链接](#外部链接)
 
 ## 出场
 
@@ -402,7 +402,7 @@
 
 她的许多能力能将他人击至[倒伏](Prone_(Condition).md)，例如粉碎跃击，使她能够对倒伏的受害者连续攻击时具有[优势](Advantage.md "Advantage")。当生命值降至一半时，她的狂暴能力会触发，通过提高[力量](Strength.md "Strength")和[多重攻击](Multiattack.md "Multiattack")来增加她的伤害。她还有[枭熊幼兽](Owlbear_Cub.md "Owlbear Cub")的支持，尽管它很弱，可能会被忽略。如果计划招募它到[营地](Campsite.md "Campsite")，最好忽略她的幼兽。然而，如果它受到重创，它会试图逃跑。
 
-枭熊母亲的伤势导致她在[察觉技能](Perception.md "Perception")检定上具有[劣势](Disadvantage.md "Disadvantage")，这应该会使[被动察觉](Perception.md#Passive_Perception "Perception")对[隐藏](Hide.md "Hide")生物的检测产生-5的惩罚。然而，这被一个未列出的+5察觉加值所抵消。或者，可以说服[安德里克](Andrick.md "Andrick")和[布拉娜](Brynna.md "Brynna")在战斗中提供帮助。他们可以作为有用的诱饵和支援。需要[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")的法术、物品或武器能力，如[油脂](Grease.md "Grease")、[油脂瓶](Grease_Bottle.md "Grease Bottle")或[摔绊](Topple.md "Topple")，能有效减缓枭熊。当枭熊母亲激怒时，最好在她的多重攻击撕裂队伍之前迅速结束战斗。
+枭熊母亲的伤势导致她在[察觉技能](Perception.md "Perception")检定上具有[劣势](Disadvantage.md "Disadvantage")，这应该会使[被动察觉](Perception.md#Passive_Perception "Perception")对[躲藏](Hide.md "躲藏")生物的检测产生-5的惩罚。然而，这被一个未列出的+5察觉加值所抵消。或者，可以说服[安德里克](Andrick.md "Andrick")和[布拉娜](Brynna.md "Brynna")在战斗中提供帮助。他们可以作为有用的诱饵和支援。需要[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")的法术、物品或武器能力，如[油脂](Grease.md "Grease")、[油脂瓶](Grease_Bottle.md "Grease Bottle")或[摔绊](Topple.md "Topple")，能有效减缓枭熊。当枭熊母亲激怒时，最好在她的多重攻击撕裂队伍之前迅速结束战斗。
 
 说服枭熊母亲不直接攻击有助于战前定位，并允许队伍准备隐匿伏击。
 

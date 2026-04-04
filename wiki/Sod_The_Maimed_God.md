@@ -1,6 +1,6 @@
 # 去他妈的残废之神
 
-**去他妈的残废之神** 是一本由一位 [提尔](Tyr.md "提尔") 的 [圣武士](Paladin.md "Paladin") 所写的书，他[违背了自己的誓言](Oathbreaker.md "Oathbreaker")。
+**去他妈的残废之神** 是一本由一位 [提尔](Tyr.md "提尔") 的 [圣武士](Paladin.md "Paladin") 所写的书，他[弃誓者](Oathbreaker.md "弃誓者")。
 
 这本书散发着纸张和墨水的诱人气息。
 

@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [1 超级类别与子类别](#supercategories-and-subcategories)
-  - [1.1 概述](#overview)
-  - [1.2 讨论](#discussion)
-    - [1.2.1 手动类别与超级类别](#manual-categories-and-supercategories)
-- [2 通用与共享图像](#generic-and-shared-images)
+- [1 超级类别与子类别](#超级类别与子类别)
+  - [1.1 概述](#概述)
+  - [1.2 讨论](#讨论)
+    - [1.2.1 手动类别与超级类别](#手动类别与超级类别)
+- [2 通用与共享图像](#通用与共享图像)
 
 ## 超级类别与子类别
 

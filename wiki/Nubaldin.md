@@ -85,23 +85,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "Improved Extra Attack")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可进行两次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -131,12 +131,12 @@ UUID
 
 ## 目录
 
-- [1 历史](#history)
-- [2 参与](#involvement)
-- [3 相关任务](#related-quests)
-- [4 相关角色](#related-characters)
-- [5 相关文献](#related-literature)
-- [6 注释与参考](#notes-and-references)
+- [1 历史](#历史)
+- [2 参与](#参与)
+- [3 相关任务](#相关任务)
+- [4 相关角色](#相关角色)
+- [5 相关文献](#相关文献)
+- [6 注释与参考](#注释与参考)
 
 ## 历史
 

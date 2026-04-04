@@ -79,15 +79,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
 当用[近战攻击](Downed_(Condition).md) 击倒一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
@@ -141,15 +141,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
 当用[近战攻击](Downed_(Condition).md) 击倒一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
@@ -203,15 +203,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
 当用[近战攻击](Downed_(Condition).md) 击倒一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
@@ -243,7 +243,7 @@ UUID
 
 ### 第二幕
 
-'提摩西'和他的豺狼人同伴，['巴纳巴斯']('Barnabus'.md "'巴纳巴斯'")和['托梅利亚']('Tomelia'.md "'托梅利亚'")，在[林赛拉](Linsella.md "林赛拉")手下于月出之塔的厨房工作，接受训练以克服其凶残本性，学习礼貌地说话和行事。队伍可以通过成功通过DC 16的[感知](Wisdom.md "感知")[检定](Ability_Check.md "属性检定")来将他们从她的控制中解放出来。
+'提摩西'和他的豺狼人同伴，['巴纳巴斯']('Barnabus'.md "'巴纳巴斯'")和['托梅利亚']('Tomelia'.md "'托梅利亚'")，在[林赛拉](Linsella.md "林赛拉")手下于月出之塔的厨房工作，接受训练以克服其凶残本性，学习礼貌地说话和行事。队伍可以通过成功通过DC 16的[感知](Wisdom.md "感知")[属性检定](Ability_Check.md "属性检定")来将他们从她的控制中解放出来。
 
 如果豺狼人从精神奴役中解放出来，他们会在袭击月出之塔时与队伍结盟。
 

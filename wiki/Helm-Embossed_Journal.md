@@ -2,7 +2,7 @@
 
 本文包含[敏感内容](Help_colon_Style_Guide.md#Content_warnings "Help:Style Guide")，包括提及或暗示自残和自杀。
 
-**刻有海姆浮雕的日志**是一本日记，由一位被[鬼婆](Auntie_Ethel.md "Auntie Ethel")俘虏后又重新发现[海姆](Helm_(God)..md))的人所写。
+**刻有海姆浮雕的日志**是一本日记，由一位被[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")俘虏后又重新发现[海姆](Helm_(God)..md))的人所写。
 
 这本书散发着纸张和墨水的诱人气息。
 
@@ -26,7 +26,7 @@
 
 [这本日记用优雅的笔迹书写。每一页上都精心绘制着一只带有凝视之眼的臂铠。]
 
-当我来到这座[城市](Baldur's_Gate.md "Baldur's Gate")时，我迷失了。一个懦夫。一个酒鬼。我以为那个安妮丝鬼婆夺走了我所有的价值。
+当我来到这座[博德之门](Baldur's_Gate.md "博德之门")时，我迷失了。一个懦夫。一个酒鬼。我以为那个安妮丝鬼婆夺走了我所有的价值。
 
 然后[梅丽娜](Mayrina.md "Mayrina")找到了我。她帮助我记起了我曾经为之奋斗的信条——勇气、荣誉、责任。她将我带回了[海姆](https://forgottenrealms.fandom.com/wiki/Helm)——她救了我的命。
 

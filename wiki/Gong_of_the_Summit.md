@@ -15,7 +15,7 @@
 3d8⁠[雷鸣](Thunder.md "雷鸣")
 
 详情
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")) (豁免成功时：目标仍承受一半伤害。)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")) (豁免成功时：目标仍承受一半伤害。)
 范围：18 米 (60 英尺)
 范围效果：3 米 (10 英尺) 半径
 

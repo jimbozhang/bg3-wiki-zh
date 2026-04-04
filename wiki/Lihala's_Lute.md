@@ -27,7 +27,7 @@
 
 ## 备注
 
-- 如果玩家同意帮助阿尔菲拉完成她的歌曲，阿尔菲拉会将这把鲁特琴赠予玩家。玩家可以在收到后立即将其收起，或者通过通过 DC 10 的[表演](Performance.md "Performance")[检定](Ability_Check.md "Ability check")与阿尔菲拉一起表演。
+- 如果玩家同意帮助阿尔菲拉完成她的歌曲，阿尔菲拉会将这把鲁特琴赠予玩家。玩家可以在收到后立即将其收起，或者通过通过 DC 10 的[表演](Performance.md "Performance")[属性检定](Ability_Check.md "属性检定")与阿尔菲拉一起表演。
   - 帮助阿尔菲拉完成歌曲还会获得[乐器](Musical_Instruments.md "Musical Instruments")的[熟练项](Proficiency.md "Proficiency")。
 
 ## 图库

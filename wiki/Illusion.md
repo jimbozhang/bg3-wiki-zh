@@ -6,11 +6,11 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 通过职业或卷轴获得的幻术学派法术列表](#list-of-illusion-spells-granted-by-class-or-through-scrolls)
-- [3 通过物品获得的幻术学派法术列表](#list-of-illusion-spells-granted-by-items)
-- [4 仅限NPC使用的幻术学派法术列表](#list-of-illusion-spells-available-only-to-npcs)
-- [5 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 通过职业或卷轴获得的幻术学派法术列表](#通过职业或卷轴获得的幻术学派法术列表)
+- [3 通过物品获得的幻术学派法术列表](#通过物品获得的幻术学派法术列表)
+- [4 仅限NPC使用的幻术学派法术列表](#仅限NPC使用的幻术学派法术列表)
+- [5 外部链接](#外部链接)
 
 ## 概述
 
@@ -29,7 +29,7 @@
 | [隐形](Invisibility_(spell).md "隐形 (法术)") | 2 |  |  | 10 回合 | 1.5 m / 5 ft | - | - |
 | [镜像术](Mirror_Image.md "镜像术") | 2 |  |  | 10 回合 | 自身 | - | - |
 | [魅影之力](Phantasmal_Force.md "魅影之力") | 2 |  |  | 10 回合 | 18 m / 60 ft | [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定") | - |
-| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
+| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [灵巧](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
 | [沉默术](Silence.md "沉默术") | 2 |  |  | - | 18 m / 60ft | - | - |
 | [恐惧](Fear.md "恐惧") | 3 |  |  | 2 回合 | 自身 / 9m / 30ft (锥形) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [催眠图纹](Hypnotic_Pattern.md "催眠图纹") | 3 |  |  | 2 回合 | 18 m / 60 ft / 9m / 30ft (圆形) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | - |

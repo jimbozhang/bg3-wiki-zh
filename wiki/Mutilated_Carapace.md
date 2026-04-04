@@ -24,7 +24,7 @@
 当你变形或伪装时，攻击和伤害掷骰获得+1加成。
 
 [无面假面舞会](Faceless_Masquerade.md "无面假面舞会")
-你在[欺瞒](Deception.md "欺瞒")[检定](Ability_Check.md "检定")和[游说](Persuasion.md "游说")[检定](Ability_Check.md "检定")上拥有[优势](Advantage.md "优势")。
+你在[欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")和[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "优势")。
 
 ## 获取地点
 
@@ -34,11 +34,11 @@
 
 - 染色变体
 
-- 不常见[染料](Dye.md "染料")颜色
+- 不常见[染色](Dye.md "染色")颜色
 
-- 稀有[染料](Dye.md "染料")颜色
+- 稀有[染色](Dye.md "染色")颜色
 
-- 超稀有[染料](Dye.md "染料")颜色
+- 超稀有[染色](Dye.md "染色")颜色
 
 ---
 *Source: [Mutilated Carapace](https://bg3.wiki/wiki/Mutilated_Carapace)*

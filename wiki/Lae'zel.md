@@ -37,7 +37,7 @@ Kevin VanOrd
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -101,15 +101,15 @@ Kevin VanOrd
 
 ## 特性
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当使用[双手](Two-Handed.md "双手")近战武器伤害掷骰时，任何掷出1或2的骰子可重掷一次。
 
-- [**军事奇才**](Martial_Prodigy.md "军事奇才")
+- [军事奇才](Martial_Prodigy.md "军事奇才")
 
 获得[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")、[短剑](Shortswords.md "短剑")、[长剑](Longswords.md "长剑")和[巨剑](Greatswords.md "巨剑")的熟练项。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -141,7 +141,7 @@ UUID
 
 属性
 
-`POC_Player_Fighter` **伊雷珂养育间的莱埃泽尔**是一位[出身角色](Origin_characters.md "出身角色")和可招募的[伙伴](Companion.md "伙伴"), 可被任何性别的角色[浪漫追求](Romance.md "浪漫追求"). 她是一位拥有[士兵](Soldier.md "士兵")背景的[吉斯洋基人](Githyanki.md "吉斯洋基人")[战士](Fighter.md "战士"). 除非作为出身角色游玩，莱埃泽尔首次出现在[鹦鹉螺](Nautiloid.md "鹦鹉螺")的[序幕](Prologue.md "序幕")中，作为临时伙伴，之后可在[Act One](Act_One.md "Act One")的[路边山崖](Wilderness.md "Wilderness")被正式招募。
+`POC_Player_Fighter` **伊雷珂养育间的莱埃泽尔**是一位[出身角色](Origin_characters.md "出身角色")和可招募的[伙伴](Companion.md "伙伴"), 可被任何性别的角色[浪漫追求](Romance.md "浪漫追求"). 她是一位拥有[士兵](Soldier.md "士兵")背景的[吉斯洋基人](Githyanki.md "吉斯洋基人")[战士](Fighter.md "战士"). 除非作为出身角色游玩，莱埃泽尔首次出现在[鹦鹉螺](Nautiloid.md "鹦鹉螺")的[序幕](Prologue.md "序幕")中，作为临时伙伴，之后可在[Act One](Act_One.md "Act One")的[荒野](Wilderness.md "荒野")被正式招募。
 
 这位凶猛的战士狂热地效忠于巫妖女王[维拉基斯](Vlaakith.md "维拉基斯")，莱埃泽尔将不惜一切代价终结[灵吸怪](Illithid.md "灵吸怪")的恐怖，并向她的女王证明自己的价值。
 
@@ -155,47 +155,47 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-  - [1.2 初始职业](#starting-class)
-  - [1.3 特殊特性](#special-features)
-  - [1.4 个人任务](#personal-quest)
-  - [1.5 招募](#recruitment)
-    - [1.5.1 序幕](#prologue)
-    - [1.5.2 Act One](#act-one)
-  - [1.6 好感度](#approval)
-  - [1.7 浪漫](#romance)
-- [2 描述](#description)
-  - [2.1 外观](#appearance)
-  - [2.2 性格](#personality)
-- [3 历史](#history)
-  - [3.1 伊雷珂养育间](#cr%C3%A8che_K'liir)
-- [4 剧情参与](#involvement)
-  - [4.1 序幕](#prologue-2)
-  - [4.2 Act One](#act-one-2)
-  - [4.3 Act Two](#act-two)
-  - [4.4 Act Three](#act-three)
-  - [4.5 结局](#endings)
-    - [4.5.1 对抗维拉基斯的战争](#war-against-vlaakith)
-    - [4.5.2 升华](#ascension)
-    - [4.5.3 在费伦的生活](#life-in-faer%C3%BBn)
-- [5 任务奖励](#quest-rewards)
-- [6 互动](#interactions)
-  - [6.1 伙伴互动](#companion-interactions)
-    - [6.1.1 Act One](#act-one-3)
-    - [6.1.2 Act Two](#act-two-2)
-    - [6.1.3 Act Three](#act-three-2)
-  - [6.2 独特互动](#unique-interactions)
-    - [6.2.1 Act One](#act-one-4)
-    - [6.2.2 Act Two](#act-two-3)
-    - [6.2.3 Act Three](#act-three-3)
-  - [6.3 死者交谈](#speak-with-dead)
-- [7 战利品](#loot)
-  - [7.1 初始装备](#starting-equipment)
-- [8 成就](#achievements)
-- [9 画廊](#gallery)
-- [10 注释与参考](#notes-and-references)
-- [11 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+  - [1.2 初始职业](#初始职业)
+  - [1.3 特殊特性](#特殊特性)
+  - [1.4 个人任务](#个人任务)
+  - [1.5 招募](#招募)
+    - [1.5.1 序幕](#序幕)
+    - [1.5.2 Act One](#Act-One)
+  - [1.6 好感度](#好感度)
+  - [1.7 浪漫](#浪漫)
+- [2 描述](#描述)
+  - [2.1 外观](#外观)
+  - [2.2 性格](#性格)
+- [3 历史](#历史)
+  - [3.1 伊雷珂养育间](#伊雷珂养育间)
+- [4 剧情参与](#剧情参与)
+  - [4.1 序幕](#序幕)
+  - [4.2 Act One](#Act-One)
+  - [4.3 Act Two](#Act-Two)
+  - [4.4 Act Three](#Act-Three)
+  - [4.5 结局](#结局)
+    - [4.5.1 对抗维拉基斯的战争](#对抗维拉基斯的战争)
+    - [4.5.2 升华](#升华)
+    - [4.5.3 在费伦的生活](#在费伦的生活)
+- [5 任务奖励](#任务奖励)
+- [6 互动](#互动)
+  - [6.1 伙伴互动](#伙伴互动)
+    - [6.1.1 Act One](#Act-One)
+    - [6.1.2 Act Two](#Act-Two)
+    - [6.1.3 Act Three](#Act-Three)
+  - [6.2 独特互动](#独特互动)
+    - [6.2.1 Act One](#Act-One)
+    - [6.2.2 Act Two](#Act-Two)
+    - [6.2.3 Act Three](#Act-Three)
+  - [6.3 死者交谈](#死者交谈)
+- [7 战利品](#战利品)
+  - [7.1 初始装备](#初始装备)
+- [8 成就](#成就)
+- [9 画廊](#画廊)
+- [10 注释与参考](#注释与参考)
+- [11 外部链接](#外部链接)
 
 ## 概述
 
@@ -242,7 +242,7 @@ UUID
 
 ### 好感度
 
-主文章：[莱埃泽尔/好感度](Lae'zel/Approval.md "莱埃泽尔/好感度")
+主文章：[好感度](Lae'zel/Approval.md "好感度")
 
 莱埃泽尔赞同
 
@@ -339,7 +339,7 @@ UUID
 #### Act One
 
 - 首次遭遇沃斯时，如果莱埃泽尔透露她感染了蝌蚪，沃斯会判处她死刑。处理完吉斯洋基人后，莱埃泽尔对沃斯表示愤怒，加倍努力寻找附近的养育间。
-- 维拉基斯在莱埃泽尔首次访问[星界棱镜](Mysterious_Artefact.md "神秘遗物")后称她为叛徒，莱埃泽尔对女王的背叛感到痛苦。可以安慰莱埃泽尔，或告诉她这可能是维拉基斯的考验。
+- 维拉基斯在莱埃泽尔首次访问[神秘遗物](Mysterious_Artefact.md "神秘遗物")后称她为叛徒，莱埃泽尔对女王的背叛感到痛苦。可以安慰莱埃泽尔，或告诉她这可能是维拉基斯的考验。
 
 #### Act Two
 
@@ -430,7 +430,7 @@ UUID
 - [吉斯洋基半身甲](Githyanki_Half_Plate.md "吉斯洋基半身甲")
 - [钥匙链](Keychain.md "钥匙链")
 - [莱埃泽尔的衣物](Lae'zel's_Clothes.md "莱埃泽尔的衣物")
-- [莱埃泽尔的雅致的靴子](Tasteful_Boots.md "雅致的靴子")
+- [雅致的靴子](Tasteful_Boots.md "雅致的靴子")
 - [莱埃泽尔的内衣](Lae'zel's_Underwear.md "莱埃泽尔的内衣")
 - [长剑](Longsword.md "长剑")
 - [治疗药水](Potion_of_Healing.md "治疗药水") x2

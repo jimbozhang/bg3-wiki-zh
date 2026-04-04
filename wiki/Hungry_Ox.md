@@ -160,14 +160,14 @@ UUID
 
 Stats
 
-`Ox` **饥饿的公牛**是一只[牛](Ox.md "Ox")，可以在[第一幕](Act_One.md "Act_One")的[翠绿林地](Emerald_Grove.md "Emerald_Grove")中找到。
+`Ox` **饥饿的公牛**是一只[公牛](Ox.md "公牛")，可以在[第一幕](Act_One.md "Act_One")的[翠绿林地](Emerald_Grove.md "Emerald_Grove")中找到。
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
+- [1 参与](#参与)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
 
 ## 参与
 

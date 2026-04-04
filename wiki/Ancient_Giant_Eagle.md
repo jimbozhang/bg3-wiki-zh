@@ -78,7 +78,7 @@
 
 如果目标处于[倒伏](Prone_(状态).md "倒伏 (状态)")或[束缚](Restrained_(状态).md "束缚 (状态)")状态，巨鹰可进行[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -130,7 +130,7 @@
 
 如果目标处于[倒伏](Prone_(状态).md "倒伏 (状态)")或[束缚](Restrained_(状态).md "束缚 (状态)")状态，巨鹰可进行[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -182,7 +182,7 @@
 
 如果目标处于[倒伏](Prone_(状态).md "倒伏 (状态)")或[束缚](Restrained_(状态).md "束缚 (状态)")状态，巨鹰可进行[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -236,7 +236,7 @@ Stats
 [大风](Gale_(职业动作).md "大风 (职业动作)") ()
 拍打雄伟的翅膀制造强风，将生物击退5 m / 17 ft并使其陷入[倒伏](Prone_(状态).md "倒伏 (状态)")状态。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 
 [多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)") ()
 

@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：1~12 + 调整值
 
-1d12 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵")
+1d12 + [灵巧](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵")
 
 详情
 近战 徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")

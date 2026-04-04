@@ -2,11 +2,11 @@
 
 关于同名成就，请参见 [多面手](Achievements.md#Jack-of-all-Trades "成就").
 
-**多面手**是[吟游诗人](Bard.md "Bard")的被动特性，它使你在进行非[熟练项](Proficiency.md "Proficiency")的[检定](Ability_Check.md "Ability Check")时，添加你[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")的一半。
+**多面手**是[吟游诗人](Bard.md "Bard")的被动特性，它使你在进行非[熟练项](Proficiency.md "Proficiency")的[属性检定](Ability_Check.md "属性检定")时，添加你[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")的一半。
 
 ## 描述
 
-你丰富的经验使你在任何尝试中都更有可能成功。在你非[熟练项](Proficiency.md "Proficiency")的[检定](Ability_Check.md "Ability Check")中，添加你[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")的一半（向下取整）。
+你丰富的经验使你在任何尝试中都更有可能成功。在你非[熟练项](Proficiency.md "Proficiency")的[属性检定](Ability_Check.md "属性检定")中，添加你[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")的一半（向下取整）。
 
 ## 如何习得
 

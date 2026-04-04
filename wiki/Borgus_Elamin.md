@@ -91,15 +91,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -149,15 +149,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -207,15 +207,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；无法被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -245,16 +245,16 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
 
 ## 出场
 
 ### 第三幕
 
-博格斯和埃尔斯邦在夏芮丝的爱抚后方窃窃私语。接近他们会触发一个被动 DC 15 [历史的](History.md "历史的") [检定](Ability_Check.md "属性检定")（游荡者和博德人具有优势）和一个 DC 10 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定")或 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")以确定他们正在谈论[九指基恩](Nine-Fingers_Keene.md "九指基恩")。队伍可以通过通过另一个属性检定来询问埃尔斯邦九指在哪里。
+博格斯和埃尔斯邦在夏芮丝的爱抚后方窃窃私语。接近他们会触发一个被动 DC 15 [历史的](History.md "历史的") [属性检定](Ability_Check.md "属性检定")（游荡者和博德人具有优势）和一个 DC 10 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定")或 DC 15 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")以确定他们正在谈论[九指基恩](Nine-Fingers_Keene.md "九指基恩")。队伍可以通过通过另一个属性检定来询问埃尔斯邦九指在哪里。
 
 ## 战斗
 

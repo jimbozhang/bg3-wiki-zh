@@ -4,23 +4,23 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 种族](#race)
-  - [1.2 亚种](#subraces)
-  - [1.3 职业](#class)
-  - [1.4 副职](#subclass)
-  - [1.5 牧师神祇](#cleric-deity)
-  - [1.6 出身角色](#origin-characters)
-  - [1.7 特殊标签](#special-tags)
-- [2 特殊互动](#special-interactions)
-  - [2.1 伪装术](#disguise-self)
-  - [2.2 变形](#shapeshifting)
-- [3 注释](#notes)
-- [4 另见](#see-also)
+- [1 概述](#概述)
+  - [1.1 种族](#种族)
+  - [1.2 亚种](#亚种)
+  - [1.3 职业](#职业)
+  - [1.4 副职](#副职)
+  - [1.5 牧师神祇](#牧师神祇)
+  - [1.6 出身角色](#出身角色)
+  - [1.7 特殊标签](#特殊标签)
+- [2 特殊互动](#特殊互动)
+  - [2.1 伪装术](#伪装术)
+  - [2.2 变形](#变形)
+- [3 注释](#注释)
+- [4 另见](#另见)
 
 ## 概述
 
-标签附加在角色上，服务于几种不同的目的。大多数标签用于对话选项；例如，[武僧](Monk.md "Monk")专属对话选项通过武僧标签启用。像[烙印之人](Branded.md "Branded")这样的标签是使用物品某些特性所必需的。哪些标签适用于某个角色，可以在角色面板的“详细视图”底部找到。请注意，并非所有出现在对话选项旁边的标签都必然与角色标签相关联；例如，[灵吸怪](Illithid_Persuasion.md "Illithid Persuasion")选项会出现在对话中，但不是角色面板中的标签。
+标签附加在角色上，服务于几种不同的目的。大多数标签用于对话选项；例如，[武僧](Monk.md "Monk")专属对话选项通过武僧标签启用。像[烙印之人](Branded.md "Branded")这样的标签是使用物品某些特性所必需的。哪些标签适用于某个角色，可以在角色面板的“详细视图”底部找到。请注意，并非所有出现在对话选项旁边的标签都必然与角色标签相关联；例如，[灵吸怪游说](Illithid_Persuasion.md "灵吸怪游说")选项会出现在对话中，但不是角色面板中的标签。
 
 以下是游戏中所有可能标签的列表：
 
@@ -95,57 +95,57 @@
 
 ### 牧师神祇
 
-牧师获得以其选择的神祇命名的职业标签。[莎尔的牧师](Shar.md "Shar")是一个特殊标签，专属于[影心](Shadowheart.md "Shadowheart")，只要她在游戏中保持对莎尔的忠诚。<sup>[\[1\]](#cite_note-1)</sup>在第二幕的[特定时刻](Shadowheart.md#Act_Two "Shadowheart")之后，她可以将标签切换为[塞伦涅的牧师](Sel%C3%BBne.md "Selûne")。
+牧师获得以其选择的神祇命名的职业标签。[莎尔](Shar.md "莎尔")是一个特殊标签，专属于[影心](Shadowheart.md "Shadowheart")，只要她在游戏中保持对莎尔的忠诚。<sup>[\[1\]](#cite_note-1)</sup>在第二幕的[特定时刻](Shadowheart.md#Act_Two "Shadowheart")之后，她可以将标签切换为[塞伦涅的牧师](Sel%C3%BBne.md "Selûne")。
 
-- [巴哈姆特的牧师](Bahamut.md "Bahamut")
-- [柯瑞隆·拉瑞斯安的牧师](Corellon_Larethian.md "Corellon Larethian")
-- [伊莉丝翠的牧师](Eilistraee.md "Eilistraee")
-- [加尔·闪金的牧师](Garl_Glittergold.md "Garl Glittergold")
-- [格乌什的牧师](Gruumsh.md "Gruumsh")
+- [巴哈姆特](Bahamut.md "巴哈姆特")
+- [柯瑞隆·拉瑞斯安](Corellon_Larethian.md "柯瑞隆·拉瑞斯安")
+- [伊莉丝翠](Eilistraee.md "伊莉丝翠")
+- [加尔·闪金](Garl_Glittergold.md "加尔·闪金")
+- [格乌什](Gruumsh.md "格乌什")
 - [海姆的牧师](Helm_(God).md)
-- [伊尔梅特的牧师](Ilmater.md "Ilmater")
-- [凯兰沃的牧师](Kelemvor.md "Kelemvor")
-- [拉杜格的牧师](Laduguer.md "Laduguer")
-- [洛山达的牧师](Lathander.md "Lathander")
-- [罗丝的牧师](Lolth.md "Lolth")
-- [梅莉凯的牧师](Mielikki.md "Mielikki")
-- [摩拉丁的牧师](Moradin.md "Moradin")
-- [密斯特拉的牧师](Mystra.md "Mystra")
-- [欧格玛的牧师](Oghma.md "Oghma")
+- [伊尔梅特](Ilmater.md "伊尔梅特")
+- [凯兰沃](Kelemvor.md "凯兰沃")
+- [拉杜格](Laduguer.md "拉杜格")
+- [洛山达](Lathander.md "洛山达")
+- [罗丝](Lolth.md "罗丝")
+- [梅莉凯](Mielikki.md "梅莉凯")
+- [摩拉丁](Moradin.md "摩拉丁")
+- [密斯特拉](Mystra.md "密斯特拉")
+- [欧格玛](Oghma.md "欧格玛")
 - [塞伦涅的牧师](Sel%C3%BBne.md "Selûne")
-- [塔洛斯的牧师](Talos.md "Talos")
-- [坦帕斯的牧师](Tempus.md "Tempus")
-- [提亚马特的牧师](Tiamat.md "Tiamat")
-- [泰摩拉的牧师](Tymora.md "Tymora")
-- [提尔的牧师](Tyr.md "Tyr")
-- [维拉基斯的牧师](Vlaakith.md "Vlaakith")
-- [悠妲拉的牧师](Yondalla.md "Yondalla")
+- [塔洛斯](Talos.md "塔洛斯")
+- [坦帕斯](Tempus.md "坦帕斯")
+- [提亚马特](Tiamat.md "提亚马特")
+- [泰摩拉](Tymora.md "泰摩拉")
+- [提尔](Tyr.md "提尔")
+- [维拉基斯](Vlaakith.md "维拉基斯")
+- [悠妲拉](Yondalla.md "悠妲拉")
 
-此外，同时身兼牧师和圣武士的角色会获得另一个与其神祇对应的标签。圣武士选择神祇的能力在[抢先体验](Early_Access.md "Early Access")之后被移除，但拥有牧师等级的圣武士仍可能获得这些标签。与牧师标签类似，存在一个特殊的[莎尔的圣武士](Shar.md "Shar")标签，专属于[影心](Shadowheart.md "Shadowheart")。
+此外，同时身兼牧师和圣武士的角色会获得另一个与其神祇对应的标签。圣武士选择神祇的能力在[抢先体验](Early_Access.md "Early Access")之后被移除，但拥有牧师等级的圣武士仍可能获得这些标签。与牧师标签类似，存在一个特殊的[莎尔](Shar.md "莎尔")标签，专属于[影心](Shadowheart.md "Shadowheart")。
 
-- [巴哈姆特的圣武士](Bahamut.md "Bahamut")
-- [柯瑞隆·拉瑞斯安的圣武士](Corellon_Larethian.md "Corellon Larethian")
-- [伊莉丝翠的圣武士](Eilistraee.md "Eilistraee")
-- [加尔·闪金的圣武士](Garl_Glittergold.md "Garl Glittergold")
-- [格乌什的圣武士](Gruumsh.md "Gruumsh")
+- [巴哈姆特](Bahamut.md "巴哈姆特")
+- [柯瑞隆·拉瑞斯安](Corellon_Larethian.md "柯瑞隆·拉瑞斯安")
+- [伊莉丝翠](Eilistraee.md "伊莉丝翠")
+- [加尔·闪金](Garl_Glittergold.md "加尔·闪金")
+- [格乌什](Gruumsh.md "格乌什")
 - [海姆的圣武士](Helm_(God).md)
-- [伊尔梅特的圣武士](Ilmater.md "Ilmater")
-- [凯兰沃的圣武士](Kelemvor.md "Kelemvor")
-- [拉杜格的圣武士](Laduguer.md "Laduguer")
-- [洛山达的圣武士](Lathander.md "Lathander")
-- [罗丝的圣武士](Lolth.md "Lolth")
-- [梅莉凯的圣武士](Mielikki.md "Mielikki")
-- [摩拉丁的圣武士](Moradin.md "Moradin")
-- [密斯特拉的圣武士](Mystra.md "Mystra")
-- [欧格玛的圣武士](Oghma.md "Oghma")
+- [伊尔梅特](Ilmater.md "伊尔梅特")
+- [凯兰沃](Kelemvor.md "凯兰沃")
+- [拉杜格](Laduguer.md "拉杜格")
+- [洛山达](Lathander.md "洛山达")
+- [罗丝](Lolth.md "罗丝")
+- [梅莉凯](Mielikki.md "梅莉凯")
+- [摩拉丁](Moradin.md "摩拉丁")
+- [密斯特拉](Mystra.md "密斯特拉")
+- [欧格玛](Oghma.md "欧格玛")
 - [塞伦涅的圣武士](Sel%C3%BBne.md "Selûne")
-- [塔洛斯的圣武士](Talos.md "Talos")
-- [坦帕斯的圣武士](Tempus.md "Tempus")
-- [提亚马特的圣武士](Tiamat.md "Tiamat")
-- [泰摩拉的圣武士](Tymora.md "Tymora")
-- [提尔的圣武士](Tyr.md "Tyr")
-- [维拉基斯的圣武士](Vlaakith.md "Vlaakith")
-- [悠妲拉的圣武士](Yondalla.md "Yondalla")
+- [塔洛斯](Talos.md "塔洛斯")
+- [坦帕斯](Tempus.md "坦帕斯")
+- [提亚马特](Tiamat.md "提亚马特")
+- [泰摩拉](Tymora.md "泰摩拉")
+- [提尔](Tyr.md "提尔")
+- [维拉基斯](Vlaakith.md "维拉基斯")
+- [悠妲拉](Yondalla.md "悠妲拉")
 
 ### 出身角色
 
@@ -174,7 +174,7 @@
   - [侦测思想](Detect_Thoughts.md "Detect Thoughts") – 在法术效果下或拥有施放该法术的手段时。
 - 信仰守望者 – 作为德鲁伊完成[调查卡哈](Investigate_Kagha.md "Investigate Kagha")，且[卡哈](Kagha.md "Kagha")存活。
 - [禁忌的知识](Forbidden_Knowledge.md "Forbidden Knowledge") – 部分破译[塞尔死灵法术](Necromancy_of_Thay.md "Necromancy of Thay")后。
-- [鬼婆之眼](Paid_the_Price.md "Paid the Price") – 在第一幕中接受[埃赛尔婶婶的交易](Get_Help_from_Auntie_Ethel.md "Get Help from Auntie Ethel")。
+- [付出代价](Paid_the_Price.md "付出代价") – 在第一幕中接受[埃赛尔婶婶的交易](Get_Help_from_Auntie_Ethel.md "Get Help from Auntie Ethel")。
 - [类人生物](Humanoid.md "Humanoid") – 始终授予，但可以被（暂时）移除，参见[变形](#shapeshifting)。
 - 独眼 – 在以下情况下授予：
   - 角色是[威尔](Wyll.md "Wyll")（他有一颗由[血石](Bloodstone.md "Bloodstone")制成的石眼\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]）

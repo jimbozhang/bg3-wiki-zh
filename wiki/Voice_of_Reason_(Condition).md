@@ -6,7 +6,7 @@
 
 ## 备注
 
-- [圣武士](Paladin.md "Paladin")在首次佩戴[低语面具](Whispering_Mask.md "Whispering Mask")时，若通过DC 15的[魅力](Charisma.md "Charisma")[检定](Ability_Check.md "Ability check")，即可获得此状态。
+- [圣武士](Paladin.md "Paladin")在首次佩戴[低语面具](Whispering_Mask.md "Whispering Mask")时，若通过DC 15的[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")，即可获得此状态。
 - 尽管效果描述为你的誓言在你脑海中回响，但[弃誓者](Oathbreaker.md "Oathbreaker")圣武士同样会进行此检定。
 
 ## 理性之声的来源

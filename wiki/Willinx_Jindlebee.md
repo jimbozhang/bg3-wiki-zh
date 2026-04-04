@@ -97,21 +97,21 @@
 
 - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 当你用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "STR") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 探索者难度属性
 
@@ -159,21 +159,21 @@
 
 - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 当你用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "STR") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 硬核难度属性
 
@@ -221,25 +221,25 @@
 
 - - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 当你用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "Sculpt Spells")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者的法术豁免检定。
 
 - [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-近战攻击未命中时，仍会造成等于 [力量](STR.md "STR") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
+近战攻击未命中时，仍会造成等于 [力](STR.md "力") 调整值或最低 1 点的 [钝击](Bludgeoning.md "Bludgeoning") 伤害。
 
 ## 技术信息
 
@@ -293,7 +293,7 @@ Stats
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[火球术术](Fireball.md "Fireball") (+ )
+[火球术](Fireball.md "火球术") (+ )
 
 伤害：8~48
 

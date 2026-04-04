@@ -2,7 +2,7 @@
 
 **悲恸**
 
-- 受影响的生物在处理失去珍贵之物时，[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，但[属性](Ability.md "属性")[检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")。
+- 受影响的生物在处理失去珍贵之物时，[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，但[属性](Ability.md "属性")[属性检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")。
 
 ## 属性
 
@@ -20,7 +20,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响的生物在处理失去珍贵之物时，[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，但[属性](Ability.md "属性")[检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")。
+- 受影响的生物在处理失去珍贵之物时，[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，但[属性](Ability.md "属性")[属性检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")。
 
 ---
 *Source: [Grieving (Condition)](https://bg3.wiki/wiki/Grieving_(Condition)*

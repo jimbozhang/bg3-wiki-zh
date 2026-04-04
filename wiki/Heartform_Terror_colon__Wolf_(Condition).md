@@ -55,7 +55,7 @@
 
 ## 具有相同堆叠ID的状态
 
-| [力](Strength.md "力量") 12 (+1) | [敏](Dexterity.md "敏捷") 15 (+2) | [体](Constitution.md "体质") 15 (+2) |
+| [力量](Strength.md "力量") 12 (+1) | [敏捷](Dexterity.md "敏捷") 15 (+2) | [体质](Constitution.md "体质") 15 (+2) |
 | --- | --- | --- |
 |  |  |  |
 | 生命值 | 31 |  |

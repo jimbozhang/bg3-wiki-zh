@@ -95,33 +95,33 @@
 
 当你攻击一个[流血](Bleeding_(Condition).md "流血 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")的目标时，你也会使其[跛足](Maimed_(Condition).md "跛足 (状态)")1回合。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能目盲或失能。
 
-- [**飞鹰之心**](Eagle_Heart.md "飞鹰之心")
+- [飞鹰之心](Eagle_Heart.md "飞鹰之心")
 
 进入一种[飞鹰般的狂暴](Rage_colon__Eagle_Heart_(Condition)..md)
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当你未穿着[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加3米/10英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加+3，并且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或至少1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或至少1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 - [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
@@ -181,33 +181,33 @@
 
 当你攻击一个[流血](Bleeding_(Condition).md "流血 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")的目标时，你也会使其[跛足](Maimed_(Condition).md "跛足 (状态)")1回合。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能目盲或失能。
 
-- [**飞鹰之心**](Eagle_Heart.md "飞鹰之心")
+- [飞鹰之心](Eagle_Heart.md "飞鹰之心")
 
 进入一种[飞鹰般的狂暴](Rage_colon__Eagle_Heart_(Condition)..md)
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当你未穿着[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加3米/10英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加+3，并且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或至少1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或至少1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 - [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
@@ -267,33 +267,33 @@
 
 当你攻击一个[流血](Bleeding_(Condition).md "流血 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")的目标时，你也会使其[跛足](Maimed_(Condition).md "跛足 (状态)")1回合。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能目盲或失能。
 
-- [**飞鹰之心**](Eagle_Heart.md "飞鹰之心")
+- [飞鹰之心](Eagle_Heart.md "飞鹰之心")
 
 进入一种[飞鹰般的狂暴](Rage_colon__Eagle_Heart_(Condition)..md)
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当你未穿着[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加3米/10英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加+3，并且不会[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开你触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或至少1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或至少1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 - [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
@@ -317,12 +317,12 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-  - [2.3 盟友](#allies)
-- [3 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+  - [2.3 盟友](#盟友)
+- [3 外部链接](#外部链接)
 
 ## 参与
 

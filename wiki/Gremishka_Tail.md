@@ -1,6 +1,6 @@
 # 小法妖尾
 
-**小法妖尾**是一种[炼金术材料](Alchemy.md "炼金术")。将3个合在一起可以提取出[小法妖尾精华](Essence_of_Gremishka_Tail.md "小法妖尾精华")，用于制作[法师灾祸油](Wizardsbane_Oil.md "法师灾祸油")。
+**小法妖尾**是一种[炼金术](Alchemy.md "炼金术")。将3个合在一起可以提取出[小法妖尾精华](Essence_of_Gremishka_Tail.md "小法妖尾精华")，用于制作[法师灾祸油](Wizardsbane_Oil.md "法师灾祸油")。
 
 当一个无能的施法者试图创造生命却搞砸了，结果就是一只[小法妖](https://forgottenrealms.fandom.com/wiki/Gremishka)。小法妖充满恶意且畸形，对奥术技艺的实践者怀有特殊的憎恨，这是典型父母之爱的黑暗倒影。
 

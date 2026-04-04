@@ -1,6 +1,6 @@
 # 神圣瘴气酸解物
 
-**神圣瘴气酸解物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[万能抗性灵药](Elixir_of_Universal_Resistance.md "万能抗性灵药")。
+**神圣瘴气酸解物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[万能抗性灵药](Elixir_of_Universal_Resistance.md "万能抗性灵药")。
 
 由一位死亡神祇的骨碎片散发出的浓稠瘴气。出于某种无法解释的原因，它让你感到保险柜。
 

@@ -19,13 +19,13 @@
 
 此物品的穿戴者获得：
 
-- [隐匿检定](Stealth.md "Stealth")的[优势](Advantage.md "Advantage")。
+- [隐匿](Stealth.md "隐匿")的[优势](Advantage.md "Advantage")。
 
 [护盾术](Shield_(spell).md "护盾术 (法术)") ()
 以1环法术施展（充能：[短休](Short_rest.md "Short rest")。）
 
 [伏击](Ambusher_(+2).md)
-获得+2的[先攻掷骰](Initiative.md "Initiative")加成。
+获得+2的[先攻](Initiative.md "先攻")加成。
 
 ## 获取地点
 

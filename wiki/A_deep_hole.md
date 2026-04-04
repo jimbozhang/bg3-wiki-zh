@@ -17,17 +17,17 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 轻语树](#sussur-tree)
-  - [1.2 噼啪砰洞穴](#bibberbang-grotto)
-  - [1.3 奥法高塔瞭望点](#arcane-tower-overlook)
-  - [1.4 深洞](#a-deep-hole)
-- [2 传送点](#waypoints)
-- [3 相关任务](#related-quests)
-- [4 角色](#characters)
-- [5 生物](#creatures)
-- [6 战利品](#loot)
-- [7 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+  - [1.1 轻语树](#轻语树)
+  - [1.2 噼啪砰洞穴](#噼啪砰洞穴)
+  - [1.3 奥法高塔瞭望点](#奥法高塔瞭望点)
+  - [1.4 深洞](#深洞)
+- [2 传送点](#传送点)
+- [3 相关任务](#相关任务)
+- [4 角色](#角色)
+- [5 生物](#生物)
+- [6 战利品](#战利品)
+- [7 注释与参考](#注释与参考)
 
 ## 概述
 
@@ -41,7 +41,7 @@
 
 通过爬上X: -14 Y: -138处的轻语树枝干，队伍可以获得一片[轻语树皮](Sussur_Tree_Bark.md "Sussur_Tree_Bark")，这是完成[完成大师武器](Finish_the_Masterwork_Weapon.md "Finish_the_Masterwork_Weapon")任务所必需的。这样做会为具有[公会工匠](Guild_Artisan.md "Guild_Artisan")背景的角色赢得[最上等的材料](Guild_Artisan.md#The_Finest_Ingredients "Guild_Artisan")激励事件。
 
-此外，这棵树的[花朵](Sussur_Bloom.md "Sussur Bloom")会给进入其范围内的角色施加[魔法吸取效果](Sussur_Antimagic_Field_(Condition).md "Sussur Antimagic Field (Condition)")，阻止他们施放法术或戏法。如果将这些花拾起并放入角色的背包中，它们也会阻止附近的实体做同样的事情。
+此外，这棵树的[轻语树花](Sussur_Bloom.md "轻语树花")会给进入其范围内的角色施加[魔法吸取效果](Sussur_Antimagic_Field_(Condition).md "Sussur Antimagic Field (Condition)")，阻止他们施放法术或戏法。如果将这些花拾起并放入角色的背包中，它们也会阻止附近的实体做同样的事情。
 
 ### 噼啪砰洞穴
 

@@ -22,7 +22,7 @@
 
 ## 文本
 
-戈塔什领主将晋升为大公。盛大仪式将在[飞龙岩要塞礼堂](Wyrm's_Rock_Fortress.md "飞龙岩要塞")举行。
+戈塔什领主将晋升为大公。盛大仪式将在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")举行。
 
 ---
 *Source: [Gortash Coronation Poster](https://bg3.wiki/wiki/Gortash_Coronation_Poster)*

@@ -6,12 +6,12 @@
 
 ## 目录
 
-- [1 准备](#setup)
-  - [1.1 其他增益](#other-buffs)
-  - [1.2 最大化术法点](#maximising-sorcery-points)
-  - [1.3 计算最小掷骰值](#calculating-minimum-roll)
-- [2 方法](#method)
-- [3 结论](#conclusion)
+- [1 准备](#准备)
+  - [1.1 其他增益](#其他增益)
+  - [1.2 最大化术法点](#最大化术法点)
+  - [1.3 计算最小掷骰值](#计算最小掷骰值)
+- [2 方法](#方法)
+- [3 结论](#结论)
 
 ## 准备
 
@@ -63,7 +63,7 @@
 
 最终，为了[对耐色脑造成20%的生命值减少](Against_All_Odds_(Condition).md)（以及使用非战斗优化的构建——如狂野魔法术士——可能会比生命值损失带来的难度增加更大），付出如此多的努力可能并不值得。至少你可以说你做到了。
 
-此方法也适用于游戏中任何其他属性检定，并且速度更快得多，因此如果你需要保证通过DC 30的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来扒窃重要物品，也许可以考虑带上一名狂野魔法术士。
+此方法也适用于游戏中任何其他属性检定，并且速度更快得多，因此如果你需要保证通过DC 30的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来扒窃重要物品，也许可以考虑带上一名狂野魔法术士。
 
 ---
 *Source: [Guide:Guaranteeing a 99 Roll Against the Netherbrain](https://bg3.wiki/wiki/Guide:Guaranteeing_a_99_Roll_Against_the_Netherbrain)*

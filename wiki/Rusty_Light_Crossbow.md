@@ -1,6 +1,6 @@
 # 锈轻弩
 
-**锈轻弩**是[轻弩](Light_Crossbows.md "Light Crossbows")武器家族的一种常见变体。它是一种需要双手持握的[简单远程武器](Weapons.md "Weapons")。
+**锈轻弩**是[轻弩](Light_Crossbows.md "Light Crossbows")武器家族的一种常见变体。它是一种需要双手持握的[武器](Weapons.md "武器")。
 
 这把弩的枪托已被腐朽侵蚀。
 

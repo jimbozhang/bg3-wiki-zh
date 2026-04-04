@@ -39,7 +39,7 @@ UID
 
 持续时间：直至[长休](Long_Rest.md "长休")
 
-- 班恩已降临援助戈塔什！戈塔什拥有150点[临时生命值](Temporary_Hit_Points.md "临时生命值")，在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")……并且现在获得了可怕的新能力！
+- 班恩已降临援助戈塔什！戈塔什拥有150点[临时生命值](Temporary_Hit_Points.md "临时生命值")，在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")……并且现在获得了可怕的新能力！
 - 受影响实体的徒手攻击额外造成1d4点[钝击](Bludgeoning.md "钝击")伤害，并免疫[雷鸣](Thunder.md "雷鸣")、[火焰](Fire.md "火焰")和[力场](Force.md "力场")伤害。
 
 ## 如何习得

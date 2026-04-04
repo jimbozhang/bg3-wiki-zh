@@ -96,19 +96,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 12 / (+1) | 15 / (+2) | 10 / (0) | 10 / (0) | 12 / (+1) |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -154,19 +154,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +5 | +1 | +4 | 0 | 0 | +1 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -212,19 +212,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 12 / (+1) | 15 / (+2) | 10 / (0) | 10 / (0) | 12 / (+1) |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -242,7 +242,7 @@ UUID
 
 属性
 
-`DEN_Refugees_Tiefling_Melee` **提尔瑟斯**是一名提夫林难民，也是前[地狱骑士](Hellrider.md "地狱骑士")，在[第一幕](Act_One.md "第一幕")中于[翠绿林地](Emerald_Grove.md "翠绿林地")寻求庇护。她曾是[赛夫洛](Zevlor.md "赛夫洛")的前副官<sup>[\[1\]](#cite_note-1)</sup>，现在担任他的副手，帮助管理派往前方寻找通往[博德之门](Baldur's_Gate.md "博德之门")道路的[侦察兵](Cerys.md "赛瑞斯")。
+`DEN_Refugees_Tiefling_Melee` **提尔瑟斯**是一名提夫林难民，也是前[地狱骑士](Hellrider.md "地狱骑士")，在[第一幕](Act_One.md "第一幕")中于[翠绿林地](Emerald_Grove.md "翠绿林地")寻求庇护。她曾是[赛夫洛](Zevlor.md "赛夫洛")的前副官<sup>[\[1\]](#cite_note-1)</sup>，现在担任他的副手，帮助管理派往前方寻找通往[博德之门](Baldur's_Gate.md "博德之门")道路的[赛瑞斯](Cerys.md "赛瑞斯")。
 
 > “
 >
@@ -254,15 +254,15 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 可拾取战利品](#notable-loot)
-- [3 相关任务](#related-quests)
-- [4 备注](#notes)
-- [5 参考文献](#references)
-- [6 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 可拾取战利品](#可拾取战利品)
+- [3 相关任务](#相关任务)
+- [4 备注](#备注)
+- [5 参考文献](#参考文献)
+- [6 外部链接](#外部链接)
 
 ## 参与情况
 

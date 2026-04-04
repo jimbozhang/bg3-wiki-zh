@@ -40,15 +40,15 @@
 
 *不幸的是，最后一页被深紫色污渍染黑，掩盖了包裹的目的地。*
 
-\[*若通过 DC 14 [智力](Intelligence.md "智力") [检定](Ability_Check.md "属性检定")以辨识地点，[旁白](Narrator.md "旁白")将继续：*\]
+\[智力](Intelligence.md "智力") [属性检定](Ability_Check.md "属性检定")以辨识地点，[旁白](Narrator.md "旁白")将继续：*\]
 
 *你的思绪将黑色与蓝色分离，揭示了藏匿点的位置。你在地图上标记以作提醒。*
 
-*包裹中包含的死尸玫瑰花瓣，或许能让你制造[西索博得的紫虫毒药](Thisobald's_Brewed-Up_Bellyglummer.md "西索博得的特制穿肠散")。*
+*包裹中包含的死尸玫瑰花瓣，或许能让你制造[西索博得的特制穿肠散](Thisobald's_Brewed-Up_Bellyglummer.md "西索博得的特制穿肠散")。*
 
 ## 备注
 
-- 如上所述，当[旁白](Narrator.md "旁白")阐述此书内容时，需要通过 DC 14 [智力](Intelligence.md "智力") [检定](Ability_Check.md "属性检定")才能辨识[花瓣](Corpse_Rose.md "死尸玫瑰")的位置。
+- 如上所述，当[旁白](Narrator.md "旁白")阐述此书内容时，需要通过 DC 14 [智力](Intelligence.md "智力") [属性检定](Ability_Check.md "属性检定")才能辨识[死尸玫瑰](Corpse_Rose.md "死尸玫瑰")的位置。
 
 ---
 *Source: [Research Notes (Waning Moon)](https://bg3.wiki/wiki/Research_Notes_(Waning_Moon)*

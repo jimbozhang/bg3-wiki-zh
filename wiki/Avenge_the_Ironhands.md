@@ -4,7 +4,7 @@
 
 > “
 >
-> 当[他](Gortash.md "Gortash")成为大公爵时，情况只会更糟。法律会改变，自由会消失，很快你甚至还没犯罪就会被指控和判刑。而这一切都怪那些该死的[熔铁会成员](Gondians.md "Gondians")。
+> 当[戈塔什](Gortash.md "戈塔什")成为大公爵时，情况只会更糟。法律会改变，自由会消失，很快你甚至还没犯罪就会被指控和判刑。而这一切都怪那些该死的[熔铁会成员](Gondians.md "Gondians")。
 >
 > „
 
@@ -75,7 +75,7 @@
 
 侏儒洞穴位置。
 
-地底侏儒藏身点可以通过在 X: 38 Y: 26 处爬下藤蔓进入。接近洞穴会触发 DC 15 的[求生](Survival.md "Survival")[检定](Ability_Check.md "Ability check")，如果通过，会揭示一组脚印通向洞穴，从而进入[角铁地窖](Angleiron's_Cellar.md "Angleiron's Cellar")。
+地底侏儒藏身点可以通过在 X: 38 Y: 26 处爬下藤蔓进入。接近洞穴会触发 DC 15 的[求生](Survival.md "Survival")[属性检定](Ability_Check.md "属性检定")，如果通过，会揭示一组脚印通向洞穴，从而进入[角铁地窖](Angleiron's_Cellar.md "Angleiron's Cellar")。
 
 进入洞穴后，一名地底侏儒会迎接队伍，表示乌尔布伦没有忘记他们在月出之塔为他所做的一切。乌尔布伦可以在西南房间的 X: -258 Y: -1084 处找到，如果[巴克斯·鲁特](Barcus_Wroot.md "Barcus Wroot")幸存，他也在那里。乌尔布伦断言城市已经陷入地狱，[熔铁会成员](Gondian.md "Gondian")对此负有责任，因为他们创造了在城市中巡逻的钢铁卫士。乌尔布伦随后要求队伍与他一起执行计划，彻底终结熔铁会成员及其造物。
 

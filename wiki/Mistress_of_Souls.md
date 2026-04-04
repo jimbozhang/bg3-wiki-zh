@@ -85,15 +85,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 当你用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -145,15 +145,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 当你用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -205,19 +205,19 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
 
 当你用法术造成伤害时，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**法术塑形**](Sculpt_Spells.md "Sculpt Spells")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者的法术豁免检定。
 
@@ -235,13 +235,13 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 硬核](#tactician)
-  - [2.3 战利品](#loot)
-- [3 已知灵魂侍女](#known-mistresses-of-souls)
-- [4 注释与参考](#notes-and-references)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 硬核](#硬核)
+  - [2.3 战利品](#战利品)
+- [3 已知灵魂侍女](#已知灵魂侍女)
+- [4 注释与参考](#注释与参考)
 
 ## 参与
 
@@ -263,7 +263,7 @@
 
 射程: 18 米 (60 英尺)
 
-[火球术术](Fireball.md "Fireball") (+ )
+[火球术](Fireball.md "火球术") (+ )
 
 伤害: 8~48
 
@@ -271,7 +271,7 @@
 
 从指尖射出明亮的火焰，接触时爆炸，对附近的一切造成 8d6⁠⁠[火焰](Fire.md "Fire") 伤害。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 射程: 18 米 (60 英尺)
 
 [孵化死亡](Incubate_Death.md "Incubate Death") ()
@@ -282,7 +282,7 @@
 
 生成一个骸骨蒴苞。1 回合后，骸骨蒴苞爆炸，造成 3d8[黯蚀](Necrotic.md "Necrotic") 伤害并诞生一个死灵侍僧。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 射程: 24 米 (80 英尺)
 
 [迷踪步](Misty_Step.md "Misty Step") (+ )

@@ -85,7 +85,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -133,7 +133,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -181,7 +181,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -211,11 +211,11 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与度
 
@@ -225,7 +225,7 @@ UUID
 
 与昆瑞尔对话（对话涉及她和特拉恩），玩家角色可能会了解养育间内当前局势的细节，以及审判庭在吉斯洋基社会中的角色。
 
-玩家可以进行一次 DC 14 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")（或者如果他们是吉斯洋基人，则进行 DC 14 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定")；[邪念](Dark_Urge.md "邪念")出身在这两次检定上有独特的表述）来获取更多关于为何审判官被派往养育间、他与[基斯拉克·特雷兹恩](Therezzyn.md "基斯拉克·特雷兹恩")之间的紧张关系，以及搜寻工作进展如何的信息。
+玩家可以进行一次 DC 14 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")（或者如果他们是吉斯洋基人，则进行 DC 14 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定")；[邪念](Dark_Urge.md "邪念")出身在这两次检定上有独特的表述）来获取更多关于为何审判官被派往养育间、他与[基斯拉克·特雷兹恩](Therezzyn.md "基斯拉克·特雷兹恩")之间的紧张关系，以及搜寻工作进展如何的信息。
 
 ## 战斗
 
@@ -241,7 +241,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 恢复：[短休](Short_rest.md "短休")
 
@@ -263,7 +263,7 @@ UUID
 
 对敌人进行非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 恢复：[短休](Short_rest.md "短休")
 
@@ -275,7 +275,7 @@ UUID
 
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")状态。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 恢复：[短休](Short_rest.md "短休")
 

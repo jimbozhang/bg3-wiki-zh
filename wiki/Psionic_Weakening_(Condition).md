@@ -85,7 +85,7 @@ _维基数据库中未定义_
 |
 
 - [体型](Creature_size.md "Creature Size")增大
-- 武器造成额外的 **1d4** 伤害，且受影响实体在[力量](Strength.md "Strength")[检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。
+- 武器造成额外的 **1d4** 伤害，且受影响实体在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。
 - [负重](Carrying_capacity.md "Carrying Capacity")也提高 25%。
 
 | 状态 | 效果 |
@@ -102,7 +102,7 @@ _维基数据库中未定义_
 | [英勇灵药](Elixir_of_Heroism_(Condition).md "Elixir of Heroism (Condition)") | 受影响实体获得 1d4 的[攻击掷骰](Attack_roll.md "Attack Roll")和[豁免检定](Saving_throw.md "Saving Throw")加值，直至下一次长休。 |
 | [山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength_(Condition).md "Elixir of Hill Giant Strength (Condition)") | [力量](Strength.md "Strength")提升至 21。 |
 | [卓越专注灵药](Elixir_of_Peerless_Focus_(Condition).md "Elixir of Peerless Focus (Condition)") | 受影响实体维持法术的能力得到提升。在对抗[魅惑](Charmed_(status_group).md "Charmed (status group)")和维持[专注](Concentration.md "Concentration")的[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。不会被[沉睡](Sleeping_(Condition).md "Sleeping (Condition)")。 |
-| [巨像灵药](Elixir_of_The_Colossus_(Condition).md "Elixir of The Colossus (Condition)") | [体型](Creature_size.md "Creature Size")增大。武器造成额外 1d4 伤害，且受影响实体在[力量](Strength.md "Strength")[检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。[负重](Carrying_capacity.md "Carrying Capacity")也提高 25%。 |
+| [巨像灵药](Elixir_of_The_Colossus_(Condition).md "Elixir of The Colossus (Condition)") | [体型](Creature_size.md "Creature Size")增大。武器造成额外 1d4 伤害，且受影响实体在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。[负重](Carrying_capacity.md "Carrying Capacity")也提高 25%。 |
 | [邪恶灵药](Elixir_of_Viciousness_(Condition).md "Elixir of Viciousness (Condition)") | 攻击时[重击](Critical_Hit.md "Critical Hit")所需的[攻击掷骰](Attack_roll.md "Attack Roll")点数减少 1。此效果可叠加。饮用时会替换其他灵药的效果。 |
 | [警觉灵药](Elixir_of_Vigilance_(Condition).md "Elixir of Vigilance (Condition)") | 受影响实体获得 +5 先攻加值，且不会被[受惊](Surprised_(Condition).md "Surprised (Condition)")。饮用时会替换其他灵药的效果。 |
 | [火焰抗性](Fire_Resistance_(Condition).md "Fire Resistance (Condition)") | 获得对[火焰](Fire.md "Fire")伤害的[抗性](Resistant.md "Resistant")，且不再[燃烧](Burning_(Condition).md "Burning (Condition)")。 |

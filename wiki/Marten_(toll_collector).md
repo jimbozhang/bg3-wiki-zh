@@ -73,7 +73,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -119,7 +119,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -161,7 +161,7 @@ UUID
 - 死去的收费员
   ... [地精](Goblin.md "地精")... 在笑... 砍杀...
 
-- 锁着的门的[钥匙](Toll_Collector's_Key.md "收费员的钥匙")在哪里？
+- 锁着的门的[收费员的钥匙](Toll_Collector's_Key.md "收费员的钥匙")在哪里？
 
 - 死去的收费员
 ... [万斯](Vance_(Dead_Toll_Collector).md) 拿走了... 逃跑了... 地精在追...

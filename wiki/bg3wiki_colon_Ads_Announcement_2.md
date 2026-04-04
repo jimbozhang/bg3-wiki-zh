@@ -10,10 +10,10 @@
 
 ## 目录
 
-- [1 版权与许可](#copyrights-and-licensing)
-- [2 资金分配方式](#how-the-money-will-be-split)
-  - [2.1 我作为 bg3.wiki “员工”的角色](#my-role-as-%22employee%22_of_bg3.wiki)
-- [3 广告类型与位置](#ad-types-and-placement)
+- [1 版权与许可](#版权与许可)
+- [2 资金分配方式](#资金分配方式)
+  - [2.1 我作为 bg3.wiki “员工”的角色](#我作为-bg3.wiki-“员工”的角色)
+- [3 广告类型与位置](#广告类型与位置)
 
 ## 版权与许可
 

@@ -20,7 +20,7 @@
 
 ## 备注
 
-- 如果本里恩未提前告知队伍，必须通过一次 DC 15 的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "属性检定")来发现干草堆中的箱子。
+- 如果本里恩未提前告知队伍，必须通过一次 DC 15 的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")来发现干草堆中的箱子。
 
 ## 相关任务
 

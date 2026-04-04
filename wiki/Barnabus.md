@@ -84,15 +84,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
 当用[近战攻击](Downed_(Condition).md) 击倒一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动最多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
@@ -146,15 +146,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
 当用[近战攻击](Downed_(Condition).md) 击倒一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动最多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
@@ -208,15 +208,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**横冲直撞**](Rampage.md "横冲直撞")
+- [横冲直撞](Rampage.md "横冲直撞")
 
 当用[近战攻击](Downed_(Condition).md) 击倒一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动最多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
@@ -250,9 +250,9 @@ Stats
 
 '巴那布斯'和他的豺狼人同伴，['提摩西']('Timothy'.md "'提摩西'")和['托梅莉亚']('Tomelia'.md "'托梅莉亚'")，在月出之塔的厨房工作，被[林赛拉](Linsella.md "林赛拉")训练以对抗他们凶残的本性，学习说话和礼貌行为。
 
-在目睹林赛拉的能力展示后，可以通过通过 DC 16 [感知](Wisdom.md "感知") [检定](Ability_Check.md "属性检定")来打破她对'巴那布斯'的控制连接。豺狼人攻击并杀死了林赛拉，然后攻击队伍，除非通过另一个技能检定。
+在目睹林赛拉的能力展示后，可以通过通过 DC 16 [感知](Wisdom.md "感知") [属性检定](Ability_Check.md "属性检定")来打破她对'巴那布斯'的控制连接。豺狼人攻击并杀死了林赛拉，然后攻击队伍，除非通过另一个技能检定。
 
-要求林赛拉让'巴那布斯'说话，然后未能通过 DC 16 [感知](Wisdom.md "感知") [检定](Ability_Check.md "属性检定")会导致'巴那布斯'死于心脏病发作。
+要求林赛拉让'巴那布斯'说话，然后未能通过 DC 16 [感知](Wisdom.md "感知") [属性检定](Ability_Check.md "属性检定")会导致'巴那布斯'死于心脏病发作。
 
 如果[邪念](Dark_Urge.md "邪念")切断林赛拉对'巴那布斯'的控制，他会向他的"领主"卑躬屈膝，他和另外两个豺狼人成为盟友。
 
@@ -285,7 +285,7 @@ Stats
 
 射击敌人的大腿，并可能将其[移动速度](Movement_speed.md "移动速度")降低 50%。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 

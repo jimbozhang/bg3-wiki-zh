@@ -4,19 +4,19 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 引言](#introduction)
-  - [2.2 定位三选民](#locating-the-chosen-three)
-  - [2.3 可选活动](#optional-activities)
-    - [2.3.1 招募我们](#recruiting-us)
-    - [2.3.2 皮肤松弛的脑袋](#slack-Skinned_Head)
-    - [2.3.3 精神谜题](#mind-puzzle)
-    - [2.3.4 解救囚犯](#freeing-prisoners)
-    - [2.3.5 克雷萨·骨女](#kressa-bonedaughter)
-- [3 任务奖励](#quest-rewards)
-- [4 备注](#notes)
-- [5 成就](#achievements)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 引言](#引言)
+  - [2.2 定位三选民](#定位三选民)
+  - [2.3 可选活动](#可选活动)
+    - [2.3.1 招募我们](#招募我们)
+    - [2.3.2 皮肤松弛的脑袋](#皮肤松弛的脑袋)
+    - [2.3.3 精神谜题](#精神谜题)
+    - [2.3.4 解救囚犯](#解救囚犯)
+    - [2.3.5 克雷萨·骨女](#克雷萨·骨女)
+- [3 任务奖励](#任务奖励)
+- [4 备注](#备注)
+- [5 成就](#成就)
 
 ## 目标
 
@@ -65,9 +65,9 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 索姆化身为米尔寇的使徒。
 
-队伍在殖民地东端定位到神经装置后，必须下降面对凯瑟里克·索姆。装置旁有一个恢复舱，可让队伍获得长休的所有益处，为最终对决做准备。下降并打开门后，会播放一段场景，揭示索姆与两名合作者——[戈塔什](Gortash.md "Gortash")和[腥红奥林](Orin.md "Orin")——以及一名被俘的公爵[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")同在。三人使用耐色石控制着一顶耐色王冠下的[耐色脑](The_Netherbrain.md "The Netherbrain")。若盖尔在队伍中，必须劝阻他通过引爆耐色球牺牲自己，否则游戏会提前结束，并显示一条不祥的提示：宝剑海岸各处已发生大规模蜕变。
+队伍在殖民地东端定位到神经装置后，必须下降面对凯瑟里克·索姆。装置旁有一个恢复舱，可让队伍获得长休的所有益处，为最终对决做准备。下降并打开门后，会播放一段场景，揭示索姆与两名合作者——[戈塔什](Gortash.md "Gortash")和[奥林](Orin.md "奥林")——以及一名被俘的公爵[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")同在。三人使用耐色石控制着一顶耐色王冠下的[耐色脑](The_Netherbrain.md "The Netherbrain")。若盖尔在队伍中，必须劝阻他通过引爆耐色球牺牲自己，否则游戏会提前结束，并显示一条不祥的提示：宝剑海岸各处已发生大规模蜕变。
 
-接近凯瑟里克·索姆（通过三级台阶）会触发他威胁队伍。若[艾琳](Aylin.md "Aylin")曾被俘或被释放，她会在场，可通过协助动作解救她。隐形角色可在不被凯瑟里克察觉的情况下接近她，但协助动作会触发与他的过场动画。对话期间，仍有最后一次与他交谈的机会。通过一次DC 18的[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")，可部分说服他，导致凯瑟里克·索姆跳入坑中并化身为[米尔寇的使徒](Apostle_of_Myrkul.md "Apostle of Myrkul")，随后必须击败它。否则，凯瑟里克·索姆会先与队伍死战。此外，若伊索贝尔曾被绑架，她也会在场，并站在其父一方对抗队伍。几乎击败凯瑟里克·索姆后，他会坠入坑中并化身为米尔寇的使徒。击败它将导致米尔寇抛弃凯瑟里克·索姆，使其最终死亡。队伍必须取走他的耐色石，并通过传送门返回月出之塔底层。
+接近凯瑟里克·索姆（通过三级台阶）会触发他威胁队伍。若[艾琳](Aylin.md "Aylin")曾被俘或被释放，她会在场，可通过协助动作解救她。隐形角色可在不被凯瑟里克察觉的情况下接近她，但协助动作会触发与他的过场动画。对话期间，仍有最后一次与他交谈的机会。通过一次DC 18的[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")，可部分说服他，导致凯瑟里克·索姆跳入坑中并化身为[米尔寇的使徒](Apostle_of_Myrkul.md "Apostle of Myrkul")，随后必须击败它。否则，凯瑟里克·索姆会先与队伍死战。此外，若伊索贝尔曾被绑架，她也会在场，并站在其父一方对抗队伍。几乎击败凯瑟里克·索姆后，他会坠入坑中并化身为米尔寇的使徒。击败它将导致米尔寇抛弃凯瑟里克·索姆，使其最终死亡。队伍必须取走他的耐色石，并通过传送门返回月出之塔底层。
 
 ### 可选活动
 
@@ -75,7 +75,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 #### 招募我们
 
-若[我们](Us.md "Us")曾在[鹦鹉螺](Nautiloid.md "Nautiloid")上被招募并存活，可在停尸房找到它，它被一只名为[切割者](Chop.md "Chop")的生物关在笼中。队伍可潜行撬开笼门（DC 14的[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability check")），或尝试说服切割者释放我们。队伍可使用一次DC 14的[灵吸怪智慧](Illithid_Wisdom.md "Illithid Wisdom")[检定](Ability_Check.md "Ability check")、一次DC 14的[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")，或一次DC 18的[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")。检定失败会使切割者变为敌对。
+若[我们](Us.md "Us")曾在[鹦鹉螺](Nautiloid.md "Nautiloid")上被招募并存活，可在停尸房找到它，它被一只名为[切割者](Chop.md "Chop")的生物关在笼中。队伍可潜行撬开笼门（DC 14的[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")），或尝试说服切割者释放我们。队伍可使用一次DC 14的[灵吸怪智慧](Illithid_Wisdom.md "Illithid Wisdom")[属性检定](Ability_Check.md "属性检定")、一次DC 14的[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")，或一次DC 18的[威吓](Intimidation.md "Intimidation")[属性检定](Ability_Check.md "属性检定")。检定失败会使切割者变为敌对。
 
 #### 皮肤松弛的脑袋
 
@@ -104,7 +104,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 #### 克雷萨·骨女
 
-[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter")在兵营中，正向[多毛亨利](Hairy_Henry.md "Hairy Henry")、[铁指](Ironfinger.md "Ironfinger")和[麦修·布吉](Maghtew_Budj.md "Maghtew Budj")发表演讲。若过于接近她，她会指出队伍很可能是入侵者。可通过一次DC 21的[欺瞒](Deception.md "Deception")[检定](Ability_Check.md "Ability check")说服她，或与她战斗。对于[邪念](Dark_Urge.md "Dark Urge")角色，与克雷萨有独特对话，揭示更多其过往经历，但在此出身下与她战斗不可避免。
+[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter")在兵营中，正向[多毛亨利](Hairy_Henry.md "Hairy Henry")、[铁指](Ironfinger.md "Ironfinger")和[麦修·布吉](Maghtew_Budj.md "Maghtew Budj")发表演讲。若过于接近她，她会指出队伍很可能是入侵者。可通过一次DC 21的[欺瞒](Deception.md "Deception")[属性检定](Ability_Check.md "属性检定")说服她，或与她战斗。对于[邪念](Dark_Urge.md "Dark Urge")角色，与克雷萨有独特对话，揭示更多其过往经历，但在此出身下与她战斗不可避免。
 
 ## 任务奖励
 

@@ -1,6 +1,6 @@
 # 信仰守望者
 
-这是一个消歧义页面，链接到名称模糊的文章。如果文章中的链接将您[带到这里](Special_colon_WhatLinksHere/Faithwarden.md "Special:WhatLinksHere/Faithwarden")，请考虑编辑它以指向预期页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果文章中的链接将您[信仰守望者](Special_colon_WhatLinksHere/Faithwarden.md "信仰守望者")，请考虑编辑它以指向预期页面。
 
 **信仰守望者**可能指：
 

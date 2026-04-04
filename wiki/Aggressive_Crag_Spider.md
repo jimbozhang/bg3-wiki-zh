@@ -59,15 +59,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被蛛网地表减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -107,15 +107,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被蛛网地表减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -155,15 +155,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**蛛网行者**](Web_Walker.md "蛛网行者")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 不会被蛛网地表减速或[网缚](Enwebbed_(Condition).md)。
 
@@ -171,7 +171,7 @@
 
 ## 涉及
 
-在[路边山崖](Roadside_Cliffs.md "路边山崖")的[哈珀前哨站](Harper_Outpost.md "哈珀前哨站")，尝试从[崎岖的裂缝](Rocky_Crevice.md "崎岖的裂缝")中安全获取小袋子失败后，会遭遇好斗的岩石蛛。在两次[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")（DC 15）失败后，会生成四只。
+在[路边山崖](Roadside_Cliffs.md "路边山崖")的[哈珀前哨站](Harper_Outpost.md "哈珀前哨站")，尝试从[崎岖的裂缝](Rocky_Crevice.md "崎岖的裂缝")中安全获取小袋子失败后，会遭遇好斗的岩石蛛。在两次[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")（DC 15）失败后，会生成四只。
 
 好斗的岩石蛛与通过使用[蜘蛛卵囊](Spider_Egg_Sac.md "蜘蛛卵囊")召唤的[岩石蛛](Crag_Spider.md "岩石蛛")完全相同。
 

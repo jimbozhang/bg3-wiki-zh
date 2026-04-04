@@ -54,7 +54,7 @@
 
 - [带电马甲](The_Jolty_Vest.md "The Jolty Vest"): 当穿戴者在拥有闪电充能时受到伤害，攻击者必须通过[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")，否则变为[感电](Shocked_(Condition).md "Shocked (Condition)")。
 
-- [赋命者](The_Lifebringer.md "The Lifebringer"): 当穿戴者获得闪电充能时，同时获得3点[临时生命值](Hit_Points.md "Hit Points")。如果穿戴者耗尽闪电充能，临时生命值消失。
+- [赋命者](The_Lifebringer.md "The Lifebringer"): 当穿戴者获得闪电充能时，同时获得3点[生命值](Hit_Points.md "生命值")。如果穿戴者耗尽闪电充能，临时生命值消失。
 - [守护火花壁垒](The_Protecty_Sparkswall.md "The Protecty Sparkswall"): 只要穿戴者拥有[闪电充能](Lightning_Charges.md "Lightning Charges")，其[护甲等级](Armour_Class.md "Armour Class")和[豁免检定](Saving_throw.md "Saving Throw")具有+1加值。
 - [现实火花壁垒](The_Real_Sparky_Sparkswall.md "The Real Sparky Sparkswall"): 提供**闪电灵光**[动作](Actions.md#Resources "Actions")，消耗3点闪电充能以创建闪电灵光，对附近敌人造成伤害。
 - [火花之手](The_Sparkle_Hands.md "The Sparkle Hands"): 用徒手攻击命中时，穿戴者获得2点闪电充能。当充能闪电时，对金属[构装生物](Construct.md "Construct")和穿戴金属护甲的敌人的攻击具有[优势](Advantage.md "Advantage")。

@@ -74,7 +74,7 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -82,7 +82,7 @@
 
 魔蝠死亡时会爆炸，对 2 米 (7 英尺) 范围内的所有生物造成 2d6⁠⁠[力场](Force.md "Force") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -128,7 +128,7 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -136,7 +136,7 @@
 
 魔蝠死亡时会爆炸，对 2 米 (7 英尺) 范围内的所有生物造成 2d6⁠⁠[力场](Force.md "Force") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -182,7 +182,7 @@
 
 - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -190,7 +190,7 @@
 
 魔蝠死亡时会爆炸，对 2 米 (7 英尺) 范围内的所有生物造成 2d6⁠⁠[力场](Force.md "Force") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -198,11 +198,11 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
-- [4 闲聊](#idle-banter)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
+- [4 闲聊](#闲聊)
 
 ## 出场
 

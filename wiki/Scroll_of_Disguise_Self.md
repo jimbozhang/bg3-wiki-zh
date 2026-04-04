@@ -26,7 +26,7 @@
 
 ## 获取地点
 
-- 在[石匠行会地下室](Mason's_Guild_Basement.md "石匠行会地下室")的后室，坐标 X: 134 Y: -738，需通过 DC 10 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")发现入口按钮
+- 在[石匠行会地下室](Mason's_Guild_Basement.md "石匠行会地下室")的后室，坐标 X: 134 Y: -738，需通过 DC 10 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")发现入口按钮
 - 由[木乃伊扎拉](Zara.md "木乃伊扎拉")在[终焉马戏团](Circus_of_the_Last_Days.md "终焉马戏团")出售
 
 ---

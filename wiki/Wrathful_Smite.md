@@ -1,6 +1,6 @@
 # 激愤斩
 
-**激愤斩**是一个[1级塑能学派法术](Spells.md "Spells")。它允许施法者通过近战武器引导他们的怒火，可能在命中时使目标[恐慌](Frightened_(Condition).md "Frightened (Condition)")。
+**激愤斩**是一个[法术](Spells.md "法术")。它允许施法者通过近战武器引导他们的怒火，可能在命中时使目标[恐慌](Frightened_(Condition).md "Frightened (Condition)")。
 
 ## 描述
 
@@ -46,7 +46,7 @@ UID
 
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
-- 受影响的生物无法移动。恐慌的生物在[检定](Ability_Check.md "Ability Check")和[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")。
+- 受影响的生物无法移动。恐慌的生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")。
 
 ## 如何习得
 

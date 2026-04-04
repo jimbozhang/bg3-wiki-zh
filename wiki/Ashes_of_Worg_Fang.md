@@ -1,6 +1,6 @@
 # 座狼牙灰烬
 
-**座狼牙灰烬**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制作[嗜血灵药](Elixir_of_Bloodlust.md "嗜血灵药")。
+**座狼牙灰烬**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以制作[嗜血灵药](Elixir_of_Bloodlust.md "嗜血灵药")。
 
 ⁠[座狼](https://forgottenrealms.fandom.com/wiki/Worg)，与凤凰不同，不会从灰烬中重生——但它们的野性会。
 

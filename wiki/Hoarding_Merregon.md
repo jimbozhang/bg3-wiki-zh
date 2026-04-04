@@ -17,7 +17,7 @@
 
 ### 体型
 
-[中型](Medium.md "Medium")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -76,19 +76,19 @@
 
 - - - - - - ## 特性
 
-- [**魔鬼视界**](Devil's_Sight.md "Devil's Sight")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -138,19 +138,19 @@
 
 - - - - - - ## 特性
 
-- [**魔鬼视界**](Devil's_Sight.md "Devil's Sight")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中视物，包括魔法黑暗，范围达 24 m (80 ft)。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -184,12 +184,12 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 商店](#store)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
-- [4 画廊](#gallery)
+- [1 参与](#参与)
+- [2 商店](#商店)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
+- [4 画廊](#画廊)
 
 ## 参与
 

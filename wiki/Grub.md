@@ -79,15 +79,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**猫之轻落**](Feline_Fall.md "猫之轻落")
+- [猫之轻落](Feline_Fall.md "猫之轻落")
 
 由于天生的猫科动物优雅，猫对[抗性](Resistant.md "Resistant")具有抗性。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -135,15 +135,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**猫之轻落**](Feline_Fall.md "猫之轻落")
+- [猫之轻落](Feline_Fall.md "猫之轻落")
 
 由于天生的猫科动物优雅，猫对[抗性](Resistant.md "Resistant")具有抗性。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -191,15 +191,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**猫之轻落**](Feline_Fall.md "猫之轻落")
+- [猫之轻落](Feline_Fall.md "猫之轻落")
 
 由于天生的猫科动物优雅，猫对[抗性](Resistant.md "Resistant")具有抗性。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -236,7 +236,7 @@ Stats
 - [驯兽] _你感觉到这是一只沉默寡言的猫——通过忽略它来获得它的信任。_ (DC 15)
 - [驯兽] _凝视猫的眼睛。它知道耶娜母亲的命运吗？_ (DC 15)
 
-如果[腥红奥林](Orin.md "腥红奥林")绑架了耶娜，格鲁布就会被杀死。这可以通过在营地留下一个替代伙伴来防止（[莱埃泽尔](Lae'zel.md "莱埃泽尔")、[盖尔](Gale.md "盖尔")、[哈尔辛](Halsin.md "哈尔辛")或[明萨拉](Minthara.md "明萨拉")）。
+如果[奥林](Orin.md "奥林")绑架了耶娜，格鲁布就会被杀死。这可以通过在营地留下一个替代伙伴来防止（[莱埃泽尔](Lae'zel.md "莱埃泽尔")、[盖尔](Gale.md "盖尔")、[哈尔辛](Halsin.md "哈尔辛")或[明萨拉](Minthara.md "明萨拉")）。
 
 如果耶娜被杀，格鲁布会尽职地坐在她身边，哀伤地喵喵叫。
 

@@ -67,19 +67,19 @@
 
 - - ## 特性
 
-- [**燃烧兽皮**](Blazing_Hide.md "燃烧兽皮")
+- [燃烧兽皮](Blazing_Hide.md "燃烧兽皮")
 
 当受到近战攻击时，攻击者会开始[燃烧](Burning_(Condition).md) 3回合。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**金戒指**](Gold_Plating.md "金戒指")
+- [金戒指](Gold_Plating.md "金戒指")
 
-此生物受到玛门的祝福，赋予其一层黄金皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点生命值⁠⁠[生命值](Healing.md "治疗")。
+此生物受到玛门的祝福，赋予其一层黄金皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点生命值⁠⁠[治疗](Healing.md "治疗")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -125,19 +125,19 @@
 
 - - ## 特性
 
-- [**燃烧兽皮**](Blazing_Hide.md "燃烧兽皮")
+- [燃烧兽皮](Blazing_Hide.md "燃烧兽皮")
 
 当受到近战攻击时，攻击者会开始[燃烧](Burning_(Condition).md) 3回合。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**金戒指**](Gold_Plating.md "金戒指")
+- [金戒指](Gold_Plating.md "金戒指")
 
-此生物受到玛门的祝福，赋予其一层黄金皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点生命值⁠⁠[生命值](Healing.md "治疗")。
+此生物受到玛门的祝福，赋予其一层黄金皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点生命值⁠⁠[治疗](Healing.md "治疗")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -183,19 +183,19 @@
 
 - - ## 特性
 
-- [**燃烧兽皮**](Blazing_Hide.md "燃烧兽皮")
+- [燃烧兽皮](Blazing_Hide.md "燃烧兽皮")
 
 当受到近战攻击时，攻击者会开始[燃烧](Burning_(Condition).md) 3回合。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**金戒指**](Gold_Plating.md "金戒指")
+- [金戒指](Gold_Plating.md "金戒指")
 
-此生物受到玛门的祝福，赋予其一层黄金皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点生命值⁠⁠[生命值](Healing.md "治疗")。
+此生物受到玛门的祝福，赋予其一层黄金皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点生命值⁠⁠[治疗](Healing.md "治疗")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 

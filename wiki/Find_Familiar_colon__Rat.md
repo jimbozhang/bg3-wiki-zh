@@ -1,6 +1,6 @@
 # 获得魔宠：老鼠
 
-**获得魔宠：老鼠** 是一个 [1级咒法学派法术](Spells.md "Spells")。此法术是 [获得魔宠](Find_Familiar.md "Get Familiar") 法术的一个变体，用于召唤一只小型老鼠。
+**获得魔宠：老鼠** 是一个 [法术](Spells.md "法术")。此法术是 [获得魔宠](Find_Familiar.md "Get Familiar") 法术的一个变体，用于召唤一只小型老鼠。
 
 ## 描述
 

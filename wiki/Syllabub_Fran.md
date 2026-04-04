@@ -83,7 +83,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -137,7 +137,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -191,7 +191,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -213,11 +213,11 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 重要战利品](#notable-loot)
-- [3 相关文献](#related-literature)
-- [4 备注](#notes)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 重要战利品](#重要战利品)
+- [3 相关文献](#相关文献)
+- [4 备注](#备注)
 
 ## 出场
 

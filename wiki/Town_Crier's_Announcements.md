@@ -28,7 +28,7 @@
 
 - 遗留的尸体？[治疗中心](House_of_Healing.md "治疗中心")寻求用于研究的尸体。保密保证！
 
-- 注意！一名9岁男孩失踪。如发现，请送至[征税所](Reithwin_Tollhouse.md "雷斯文征税所")的弗蕾雅·十趾。有赏金！
+- 注意！一名9岁男孩失踪。如发现，请送至[雷斯文征税所](Reithwin_Tollhouse.md "雷斯文征税所")的弗蕾雅·十趾。有赏金！
 
 ---
 *Source: [Town Crier's Announcements](https://bg3.wiki/wiki/Town_Crier's_Announcements)*

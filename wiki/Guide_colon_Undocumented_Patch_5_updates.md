@@ -10,17 +10,17 @@
 
 ## 目录
 
-- [1 荣誉模式](#honour-mode)
-  - [1.1 动作经济](#action-economy)
-  - [1.2 伤害机制简化](#simplification-of-damage-mechanics)
-  - [1.3 物品稀有度与价格更改](#item-rarity-and-price-changes)
-  - [1.4 杂项平衡更改](#miscellaneous-balance-changes)
-- [2 通用更改](#universal-changes)
-  - [2.1 法术更改](#spell-changes)
-  - [2.2 属性更改](#ability-changes)
-  - [2.3 物品更改](#item-changes)
-  - [2.4 效果更改](#effect-changes)
-  - [2.5 微小更改](#minor-changes)
+- [1 荣誉模式](#荣誉模式)
+  - [1.1 动作经济](#动作经济)
+  - [1.2 伤害机制简化](#伤害机制简化)
+  - [1.3 物品稀有度与价格更改](#物品稀有度与价格更改)
+  - [1.4 杂项平衡更改](#杂项平衡更改)
+- [2 通用更改](#通用更改)
+  - [2.1 法术更改](#法术更改)
+  - [2.2 属性更改](#属性更改)
+  - [2.3 物品更改](#物品更改)
+  - [2.4 效果更改](#效果更改)
+  - [2.5 微小更改](#微小更改)
 
 ## 荣誉模式
 
@@ -31,7 +31,7 @@
 - 通过[加速](Hastened_(Condition).md "Hastened (Condition)")或[嗜血灵药](Elixir_of_Bloodlust.md "Elixir of Bloodlust")获得的额外动作不再受益于[额外攻击](Extra_Attack.md "Extra Attack")。
   - 例如，如果你处于[加速](Hastened_(Condition).md "Hastened (Condition)")状态并拥有[额外攻击](Extra_Attack.md "Extra Attack")，你可以用第一个动作攻击两次，但第二个动作只能攻击一次。
   - [动作如潮](Action_Surge.md "Action Surge")的额外动作仍然受益于[额外攻击](Extra_Attack.md "Extra Attack")。
-- [刃之魔契](Deepened_Pact.md "Deepened Pact")不再与[额外攻击](Extra_Attack.md "Extra Attack")叠加。以前，兼职[邪术师](Warlock.md "Warlock")和任何战斗职业的角色每动作可以获得3次攻击，并且比[战士](Fighter.md "Fighter")的[精通额外攻击](Improved_Extra_Attack.md "Improved Extra Attack")更早获得。
+- [加深魔契](Deepened_Pact.md "加深魔契")不再与[额外攻击](Extra_Attack.md "Extra Attack")叠加。以前，兼职[邪术师](Warlock.md "Warlock")和任何战斗职业的角色每动作可以获得3次攻击，并且比[战士](Fighter.md "Fighter")的[精通额外攻击](Improved_Extra_Attack.md "Improved Extra Attack")更早获得。
 
 这些更改更接近[桌面游戏使用的规则](D&D_5e_rule_changes.md#Action_Economy "D&D 5e rule changes")。
 
@@ -126,7 +126,7 @@
 
 - [召唤魔像铃铛](Summon_Golem_Bell.md "Summon Golem Bell")现在需要一个动作来使用，并且不再算作“疾走”以激活[奥术强化之靴](Boots_of_Arcane_Bolstering.md "Boots of Arcane Bolstering")等物品。以前，它是激活疾走物品的完全免费方式。
 - [永恒玻璃酒瓶（有时是强酸）](Eternal_Carafe_of_Wine_(Or_Sometimes_Acid).md "Eternal Carafe of Wine (Or Sometimes Acid)")现在使用需要[附赠动作](Resources.md#Common_resources "Resources")。以前，它是[酒精](Alcohol_(Condition).md "Alcohol (Condition)")（或有时[强酸](Acid_(Condition).md "Acid (Condition)")）的完全免费来源。
-- [岁月知识：感知](Knowledge_of_the_Ages.md "Knowledge of the Ages")现在给予[驯兽](Animal_Handling.md "Animal Handling")、[洞悉](Insight.md "Insight")、[察觉技能](Perception.md "Perception")、[医药](Medicine.md "Medicine")和[求生](Survival.md "Survival")的熟练项。它以前给予[驯兽](Animal_Handling.md "Animal Handling")、[历史的](History.md "History")、[调查](Investigation.md "Investigation")、[自然](Nature.md "Nature")和[宗教](Religion.md "Religion")的熟练项。
+- [岁月知识](Knowledge_of_the_Ages.md "岁月知识")现在给予[驯兽](Animal_Handling.md "Animal Handling")、[洞悉](Insight.md "Insight")、[察觉技能](Perception.md "Perception")、[医药](Medicine.md "Medicine")和[求生](Survival.md "Survival")的熟练项。它以前给予[驯兽](Animal_Handling.md "Animal Handling")、[历史的](History.md "History")、[调查](Investigation.md "Investigation")、[自然](Nature.md "Nature")和[宗教](Religion.md "Religion")的熟练项。
 
 ---
 *Source: [Guide:Undocumented Patch 5 updates](https://bg3.wiki/wiki/Guide:Undocumented_Patch_5_updates)*

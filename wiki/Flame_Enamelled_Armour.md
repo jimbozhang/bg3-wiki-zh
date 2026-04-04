@@ -23,7 +23,7 @@
 作为4级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [鲜少措手不及](Seldom_Caught_Unawares_(+2).md)
-你获得+2的[先攻掷骰](Initiative.md "先攻")加值。
+你获得+2的[先攻](Initiative.md "先攻")加值。
 
 [火之耐力](Endurance_by_Fire.md "火之耐力")
 你对[火焰](Fire.md "火焰")伤害拥有[抗性](Resistance.md "抗性")，并且所有[豁免检定](Saving_throw.md "豁免检定")+2。

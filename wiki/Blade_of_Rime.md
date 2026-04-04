@@ -20,7 +20,7 @@
 
 详情
 远程法术 [攻击掷骰](Attack_roll.md "攻击掷骰")（未命中：冰晶碎片仍会爆炸。）
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：爆炸伤害被抵消。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：爆炸伤害被抵消。）
 范围：18 米（60 英尺）
 范围效果：2 米（7 英尺）半径
 创建区域：冰
@@ -55,7 +55,7 @@ UID
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**
 
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响的生物无法移动或采取 [动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作") 或 [反应](Actions.md#Reactions "动作"), 并在 [力量](Strength.md "力量") 和 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
 - 在生物 3 米（10 英尺）范围内进行的攻击对倒伏生物具有 [优势](Advantage.md "优势")。

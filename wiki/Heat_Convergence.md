@@ -27,7 +27,7 @@
 ## 注释
 
 - 命中多次的法术，例如[灼热射线](Scorching_Ray.md "灼热射线")，将在第一次命中时消耗[灼热](Heat_(Condition).md "灼热 (状态)")，并且**仅**在该第一次命中时造成额外伤害。
-- 范围效果法术，例如[火球术术](Fireball.md "火球术术")，将对所有受影响目标造成加成伤害。
+- 范围效果法术，例如[火球术](Fireball.md "火球术")，将对所有受影响目标造成加成伤害。
 
 ---
 *Source: [Heat Convergence](https://bg3.wiki/wiki/Heat_Convergence)*

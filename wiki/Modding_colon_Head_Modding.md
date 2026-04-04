@@ -18,10 +18,10 @@
 ## 目录
 
 - [1 头部模组制作](#head-modding)
-  - [1.1 所需工具](#tools-required)
-  - [1.2 在Blender中的流程](#process-in-blender)
-    - [1.2.1 修复头部问题](#fixing-issues-with-your-heads)
-  - [1.3 书面流程](#the-written-process)
+  - [1.1 所需工具](#所需工具)
+  - [1.2 在Blender中的流程](#在Blender中的流程)
+    - [1.2.1 修复头部问题](#修复头部问题)
+  - [1.3 书面流程](#书面流程)
 
 # 头部模组制作
 

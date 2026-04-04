@@ -59,7 +59,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 14 / (+2) | 17 / (+3) | 6 / (-2) | 12 / (+1) | 8 / (-1) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
@@ -69,7 +69,7 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -81,11 +81,11 @@
 
 此生物的武器会在其回合开始时点燃，造成额外 1d4⁠⁠[火焰](Fire.md "火焰")伤害。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -123,7 +123,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +4 | +2 | +3 | -2 | +1 | -1 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
@@ -133,7 +133,7 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -145,11 +145,11 @@
 
 此生物的武器会在其回合开始时点燃，造成额外 1d4⁠⁠[火焰](Fire.md "火焰")伤害。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -187,7 +187,7 @@
 | --- | --- | --- | --- |
 |  | 4 | 2 | 1 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
@@ -197,15 +197,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中视物，包括魔法黑暗，范围达 24 米 (80 英尺)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -213,11 +213,11 @@
 
 此军团魔的攻击会使目标陷入[火焰衰弱](Flame-Feeble_(Condition).md "火焰衰弱 (状态)")。
 
-- [**地狱武器**](Infernal_Weapon.md "地狱武器")
+- [地狱武器](Infernal_Weapon.md "地狱武器")
 
 命中时，此武器造成额外 3⁠⁠[中毒](Poison.md "中毒")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 

@@ -1,6 +1,6 @@
 # 食腐虫触手盐
 
-**食腐虫触手盐**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[爬行者粘液](Crawler_Mucus.md "爬行者粘液")。
+**食腐虫触手盐**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[爬行者粘液](Crawler_Mucus.md "爬行者粘液")。
 
 当乌鸦从战场上的尸体上撕扯肉块时，[食腐虫](https://forgottenrealms.fandom.com/wiki/Carrion_crawler)更喜欢在下水道和墓地的僻静处享用盛宴。
 

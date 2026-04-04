@@ -10,7 +10,7 @@
 
 **[震慑](Stunned_(Condition).md "震慑 (状态)")**
 
-持续时间：1 [回合](Turn.md "回合")
+持续时间：1 [驱散](Turn.md "驱散")
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
 

@@ -65,25 +65,25 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**金戒指**](Gold_Plating.md "金戒指")
+- [金戒指](Gold_Plating.md "金戒指")
 
-此生物受到玛门的祝福，赋予其一层金色的第二皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点[生命值](Healing.md "生命值")。
+此生物受到玛门的祝福，赋予其一层金色的第二皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点[治疗](Healing.md "治疗")。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用[运动](Athletics.md "运动")的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_Throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 探索者难度属性
 
@@ -125,25 +125,25 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**金戒指**](Gold_Plating.md "金戒指")
+- [金戒指](Gold_Plating.md "金戒指")
 
-此生物受到玛门的祝福，赋予其一层金色的第二皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点[生命值](Healing.md "生命值")。
+此生物受到玛门的祝福，赋予其一层金色的第二皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点[治疗](Healing.md "治疗")。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用[运动](Athletics.md "运动")的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_Throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 ## 硬核难度属性
 
@@ -185,42 +185,42 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会额外投掷一个伤害骰。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**金戒指**](Gold_Plating.md "金戒指")
+- [金戒指](Gold_Plating.md "金戒指")
 
-此生物受到玛门的祝福，赋予其一层金色的第二皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点[生命值](Healing.md "生命值")。
+此生物受到玛门的祝福，赋予其一层金色的第二皮肤，使其[体质](Constitution.md "体质")提升至20，基础[护甲等级](Armour_Class.md "护甲等级")提升至15，并额外获得66点[治疗](Healing.md "治疗")。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用[运动](Athletics.md "运动")的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_Throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷伤害骰两次并使用较高的结果。
 
 - [**韧性**](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-近战攻击未命中时，仍会造成等于[力量](STR.md "力量")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
+近战攻击未命中时，仍会造成等于[力](STR.md "力")调整值或最低1点的[钝击](Bludgeoning.md "钝击")伤害。
 
 **镀金牛头人**是[牛头人](Minotaur.md "牛头人")的一种稀有变体，拥有金色皮肤，由[赫尔希克](Helsik.md "赫尔希克")召唤。
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 画廊](#gallery)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 画廊](#画廊)
 
 ## 概述
 

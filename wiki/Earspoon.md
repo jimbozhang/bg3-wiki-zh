@@ -92,23 +92,23 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "Reaction")将即将受到的攻击伤害减半。
 
@@ -158,23 +158,23 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "Reaction")将即将受到的攻击伤害减半。
 
@@ -224,23 +224,23 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**反射闪避**](Evasion.md "Evasion")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**直觉闪避**](Uncanny_Dodge.md "Uncanny Dodge")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "Reaction")将即将受到的攻击伤害减半。
 
@@ -274,7 +274,7 @@ UUID
 
 ## 涉及
 
-埃尔斯邦可以在夏芮丝的爱抚后部找到与博格斯窃窃私语。接近他们会触发被动DC 15的[历史的](History.md "History")[检定](Ability_Check.md "Ability check")（游荡者和博德人具有优势）以及DC 10的[欺瞒](Deception.md "Deception")[检定](Ability_Check.md "Ability check")或DC 15的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")，以确定他们正在谈论[九指基恩](Nine-Fingers_Keene.md "Nine-Fingers Keene")。队伍随后可以通过通过一项属性检定来询问埃尔斯邦九指的位置：
+埃尔斯邦可以在夏芮丝的爱抚后部找到与博格斯窃窃私语。接近他们会触发被动DC 15的[历史的](History.md "History")[属性检定](Ability_Check.md "属性检定")（游荡者和博德人具有优势）以及DC 10的[欺瞒](Deception.md "Deception")[属性检定](Ability_Check.md "属性检定")或DC 15的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")，以确定他们正在谈论[九指基恩](Nine-Fingers_Keene.md "Nine-Fingers Keene")。队伍随后可以通过通过一项属性检定来询问埃尔斯邦九指的位置：
 
 - [游说] 来吧，跟我说实话。我不会出卖另一个矮人的。(DC 15)
 - [游说] 我打赌几个硬币就能让你开口。(DC 15)

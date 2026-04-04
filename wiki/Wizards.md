@@ -10,34 +10,34 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 副职](#subclasses)
-- [3 职业进阶](#class-progression)
-- [4 职业信息](#class-information)
-  - [4.1 属性](#attributes)
-  - [4.2 初始熟练项](#starting-proficiencies)
-  - [4.3 多职业熟练项](#multiclass-proficiencies)
-- [5 等级进阶](#level-progression)
-  - [5.1 等级 1](#level-1)
+- [1 概述](#概述)
+- [2 副职](#副职)
+- [3 职业进阶](#职业进阶)
+- [4 职业信息](#职业信息)
+  - [4.1 属性](#属性)
+  - [4.2 初始熟练项](#初始熟练项)
+  - [4.3 多职业熟练项](#多职业熟练项)
+- [5 等级进阶](#等级进阶)
+  - [5.1 等级 1](#等级-1)
   - [5.2 等级 2](#level-2)
-    - [5.2.1 选择副职（学派）](#select-a-subclass-(School))
-  - [5.3 等级 3](#level-3)
+    - [5.2.1 选择副职（学派）](#选择副职学派))
+  - [5.3 等级 3](#等级-3)
   - [5.4 等级 4](#level-4)
-  - [5.5 等级 5](#level-5)
-    - [5.5.1 副职特性](#subclass-features)
-  - [5.6 等级 6](#level-6)
-    - [5.6.1 副职特性](#subclass-features-2)
-  - [5.7 等级 7](#level-7)
+  - [5.5 等级 5](#等级-5)
+    - [5.5.1 副职特性](#副职特性)
+  - [5.6 等级 6](#等级-6)
+    - [5.6.1 副职特性](#副职特性)
+  - [5.7 等级 7](#等级-7)
   - [5.8 等级 8](#level-8)
-  - [5.9 等级 9](#level-9)
-    - [5.9.1 副职特性](#subclass-features-3)
-  - [5.10 等级 10](#level-10)
-    - [5.10.1 副职特性](#subclass-features-4)
-  - [5.11 等级 11](#level-11)
+  - [5.9 等级 9](#等级-9)
+    - [5.9.1 副职特性](#副职特性)
+  - [5.10 等级 10](#等级-10)
+    - [5.10.1 副职特性](#副职特性)
+  - [5.11 等级 11](#等级-11)
   - [5.12 等级 12](#level-12)
-- [6 著名法师](#notable-wizards)
-- [7 另见](#see-also)
-- [8 外部链接](#external-links)
+- [6 著名法师](#著名法师)
+- [7 另见](#另见)
+- [8 外部链接](#外部链接)
 
 ## 概述
 
@@ -71,7 +71,7 @@
 [8级](#level-8) | [专长](Feats.md "专长") | 20 | 4 | 3 | 3 | 2 | - | - [9级](#level-9) | +4 | - | 5 | 22 | 4 | 3 | 3 | 3 | 1 | -
 | 法师职业进阶 | [法术位](Spells#Spell_Slots.md#Spell_Slots "法术") 按 [法术等级](Spells#Spell_Level.md#Spell_Level "法术") |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 等级 | 熟练项加值 | 特性 | [奥术回想充能](Arcane_Recovery.md "奥术回想") | 已知戏法 | 已学法术 | 1环 | 2环 | 3环 | 4环 | 5环 | 6环 |
+| 等级 | 熟练项加值 | 特性 | [奥术回想](Arcane_Recovery.md "奥术回想") | 已知戏法 | 已学法术 | 1环 | 2环 | 3环 | 4环 | 5环 | 6环 |
 | [1级](#Level_1 "1级") | +2 | [施法](#Spellcasting "施法"), [奥术回想](Arcane_Recovery.md "奥术回想"), [抄录卷轴](Transcribing_scrolls.md "抄录卷轴") | 1 | 3 | 6 | 2 | - | - | - | - | - |
 | [2级](#Level_2 "2级") | [选择副职](#Level_2 "选择副职") | 8 | 3 | - | - | - | - | - |  |  |  |
 | [3级](#Level_3 "3级") | - | 2 | 10 | 4 | 2 | - | - | - | - |  |  |
@@ -115,7 +115,7 @@
 [匕首](Daggers.md "匕首"), [长棍](Quarterstaves.md "长棍"), [轻弩](Light_Crossbows.md "轻弩")
 技能熟练项（选择2项）
 [奥秘](Arcana.md "奥秘"), [历史的](History.md "历史的"), [调查](Investigation.md "调查"), [洞悉](Insight.md "洞悉"), [医药](Medicine.md "医药"), [宗教](Religion.md "宗教")
-你获得对每个你[熟练](Proficiency.md "熟练")的[技能](Character_creation.md#Skills "角色创建")的加值。在角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
+你获得对每个你[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。在角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
 初始装备
 [长棍](Quarterstaff.md "长棍"), [简易长袍](Simple_Robe.md "简易长袍")（绿色变体）, [简易靴子](Simple_Boots.md "简易靴子")
 
@@ -134,7 +134,7 @@
 在非战斗状态下补充[法术位](Spells.md#Spell_Slots "法术")。你无法恢复5环以上的法术位。
 
 每天一次在非战斗状态下，你可以恢复已消耗的法术位。
-[奥术回想充能](Arcane_Recovery.md "奥术回想")：1
+[奥术回想](Arcane_Recovery.md "奥术回想")：1
 奥术回想动作可以恢复的[法术位](Spell_slots.md "法术位")的总数和等级。
 
 施法
@@ -163,7 +163,7 @@
 
 - [舞光术](Dancing_Lights.md "舞光术") * [火焰箭](Fire_Bolt.md "火焰箭")
 
-- [交友术](Friends.md "交友术") * [光亮术](Light.md "光亮术")
+- [交友术](Friends.md "交友术") * [轻型](Light.md "轻型")
 
 - [法师之手](Mage_Hand.md "法师之手")
 
@@ -201,7 +201,7 @@
 
 - [护盾术](Shield_(spell).md "护盾术")
 
-- [睡眠术](Sleep.md "睡眠术")
+- [睡眠](Sleep.md "睡眠")
 
 - [塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术") * [雷鸣波](Thunderwave.md "雷鸣波")
 
@@ -221,7 +221,7 @@
 
 | 法师职业进阶 | [法术位](Spells#Spell_Slots.md#Spell_Slots "法术") 按 [法术等级](Spells#Spell_Level.md#Spell_Level "法术") |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 等级 | 熟练项加值 | 特性 | [奥术回想充能](Arcane_Recovery.md "奥术回想") | 已知戏法 | 已学法术 | 1环 | 2环 | 3环 | 4环 | 5环 | 6环 |
+| 等级 | 熟练项加值 | 特性 | [奥术回想](Arcane_Recovery.md "奥术回想") | 已知戏法 | 已学法术 | 1环 | 2环 | 3环 | 4环 | 5环 | 6环 |
 | [1级](#Level_1 "1级") | +2 | [施法](#Spellcasting "施法"), [奥术回想](Arcane_Recovery.md "奥术回想"), [抄录卷轴](Transcribing_scrolls.md "抄录卷轴") | 1 | 3 | 6 | 2 | - | - | - | - | - |
 | [2级](#Level_2 "2级") | [选择副职](#Level_2 "选择副职") | 8 | 3 | - | - | - | - | - |  |  |  |
 | [3级](#Level_3 "3级") | - | 2 | 10 | 4 | 2 | - | - | - | - |  |  |
@@ -298,7 +298,7 @@
 
 ### 等级 3
 
-[奥术回想充能](Arcane_Recovery.md "奥术回想")：2
+[奥术回想](Arcane_Recovery.md "奥术回想")：2
 奥术回想动作可以恢复的[法术位](Spell_slots.md "法术位")的总数和等级。
 
 施法
@@ -321,7 +321,7 @@
 
 - [朦胧术](Blur.md "朦胧术") *[匕首之云](Cloud_of_Daggers.md "匕首之云")* [疯狂](Crown_of_Madness.md "疯狂") *[黑暗术](Darkness.md "黑暗术")* [高级黑暗视觉](Darkvision_(spell).md "高级黑暗视觉")
 
-- [侦测思想](Detect_Thoughts.md "侦测思想") *[巨化术/缩小术](Enlarge/Reduce.md "巨化术/缩小术")* [炽焰法球](Flaming_Sphere.md "炽焰法球") * [造风术](Gust_of_Wind.md "造风术")
+- [侦测思想](Detect_Thoughts.md "侦测思想") *[缩小](Enlarge/Reduce.md "缩小")* [炽焰法球](Flaming_Sphere.md "炽焰法球") * [造风术](Gust_of_Wind.md "造风术")
 
 - [人类定身术](Hold_Person.md "人类定身术") *[隐形术](Invisibility_(spell).md "隐形术")* [敲击术](Knock.md "敲击术")
 
@@ -357,7 +357,7 @@
 
 ### 等级 5
 
-[奥术回想充能](Arcane_Recovery.md "奥术回想")：3
+[奥术回想](Arcane_Recovery.md "奥术回想")：3
 奥术回想动作可以恢复的[法术位](Spell_slots.md "法术位")的总数和等级。
 
 施法
@@ -373,14 +373,14 @@
 可用的新3环法术
 
 - [操纵死尸](Animate_Dead.md "操纵死尸")
-- [降咒](Bestow_Curse.md "降咒") * [闪现术](Blink.md "闪现术")
+- [降咒](Bestow_Curse.md "降咒") * [闪现](Blink.md "闪现")
 - [法术反制](Counterspell.md "法术反制")
-- [恐惧术](Fear.md "恐惧术") * [假死术](Feign_Death.md "假死术")
-- [火球术术](Fireball.md "火球术术")
+- [恐惧](Fear.md "恐惧") * [假死术](Feign_Death.md "假死术")
+- [火球术](Fireball.md "火球术")
 - [气化形体](Gaseous_Form.md "气化形体") * [守卫刻文](Glyph_of_Warding.md "守卫刻文")
 - [给予飞行](Grant_Flight.md "给予飞行")*[加速术](Haste.md "加速术")* [催眠图纹](Hypnotic_Pattern.md "催眠图纹") * [闪电束](Lightning_Bolt.md "闪电束")
 - [防护能量伤害](Protection_from_Energy.md "防护能量伤害") * [移除诅咒](Remove_Curse.md "移除诅咒")
-- [雪雨暴](Sleet_Storm.md "雪雨暴")*[缓慢术](Slow.md "缓慢术")* [臭云术](Stinking_Cloud.md "臭云术") * [吸血鬼之触](Vampiric_Touch.md "吸血鬼之触") #### 副职特性
+- [雪雨暴](Sleet_Storm.md "雪雨暴")*[减速](Slow.md "减速")* [臭云术](Stinking_Cloud.md "臭云术") * [吸血鬼之触](Vampiric_Touch.md "吸血鬼之触") #### 副职特性
 
 ## [剑咏](Bladesinging.md "剑咏")
 
@@ -412,7 +412,7 @@
 
 ### 等级 7
 
-[奥术回想充能](Arcane_Recovery.md "奥术回想")：4
+[奥术回想](Arcane_Recovery.md "奥术回想")：4
 奥术回想动作可以恢复的[法术位](Spell_slots.md "法术位")的总数和等级。
 
 施法
@@ -453,7 +453,7 @@
 
 ### 等级 9
 
-[奥术回想充能](Arcane_Recovery.md "奥术回想")：5
+[奥术回想](Arcane_Recovery.md "奥术回想")：5
 奥术回想动作可以恢复的[法术位](Spell_slots.md "法术位")的总数和等级。
 
 施法
@@ -505,7 +505,7 @@
 
 ### 等级 11
 
-[奥术回想充能](Arcane_Recovery.md "奥术回想")：6
+[奥术回想](Arcane_Recovery.md "奥术回想")：6
 奥术回想动作可以恢复的[法术位](Spell_slots.md "法术位")的总数和等级。\_\_
 
 施法

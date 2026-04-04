@@ -2,7 +2,7 @@
 
 **预言：博学**
 
-- 通过学习或使用[法术卷轴](Scroll.md "Scroll")，将获得一个新的[预兆骰子](Portent.md "Portent")。
+- 通过学习或使用[卷轴](Scroll.md "卷轴")，将获得一个新的[预兆](Portent.md "预兆")。
 
 ## 备注
 

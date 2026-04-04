@@ -1,6 +1,6 @@
 # 云巨人指甲盐
 
-**云巨人指甲盐**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[云巨人力量灵药](Elixir_of_Cloud_Giant_Strength.md "云巨人力量灵药")。
+**云巨人指甲盐**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[云巨人力量灵药](Elixir_of_Cloud_Giant_Strength.md "云巨人力量灵药")。
 
 专横、富有艺术感且极其强大，[云巨人](https://forgottenrealms.fandom.com/wiki/Cloud_giant)通常将自己视为优雅的君主，凌驾于更粗野、更陆生的巨人亲属之上。
 

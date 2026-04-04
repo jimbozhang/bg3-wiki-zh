@@ -1,6 +1,6 @@
 # 月光闪耀
 
-**月光闪耀**是[等级2塑能学派法术](Spells.md "Spells")。此法术由[艾琳女士](Dame_Aylin.md "Dame_Aylin")使用，以光耀飞弹击中敌人，造成[光耀](Radiant.md "Radiant")伤害、[圣火](Holy_Fire_(Condition).md), 并对针对它们进行的[攻击掷骰](Attack_rolls.md "Attack Rolls")授予[优势](Advantage.md "Advantage")。
+**月光闪耀**是[法术](Spells.md "法术")。此法术由[艾琳女士](Dame_Aylin.md "Dame_Aylin")使用，以光耀飞弹击中敌人，造成[光耀](Radiant.md "Radiant")伤害、[圣火](Holy_Fire_(Condition).md), 并对针对它们进行的[攻击掷骰](Attack_rolls.md "Attack Rolls")授予[优势](Advantage.md "Advantage")。
 
 ## 描述
 

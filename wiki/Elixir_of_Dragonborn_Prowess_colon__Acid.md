@@ -26,7 +26,7 @@
 
 持续时间：直到[长休](Long_Rest.md "长休")
 
-- 受影响实体在威吓和游说[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，获得强酸伤害[抗性](Resistance.md "抗性")，并且可以在其下一次[长休](Long_Rest.md "长休")之前使用[马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭")一次。
+- 受影响实体在威吓和游说[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，获得强酸伤害[抗性](Resistance.md "抗性")，并且可以在其下一次[长休](Long_Rest.md "长休")之前使用[马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭")一次。
 
 ## 获取地点
 

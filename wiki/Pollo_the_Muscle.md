@@ -89,31 +89,31 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**对决**](Duelling.md "对决")
+- [对决](Duelling.md "对决")
 
 当你单手持用非双手近战武器，且另一只手未持武器时，该武器造成额外 2 点伤害。
 
-- [**精通卓越战技**](Improved_Combat_Superiority.md "精通卓越战技")
+- [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")
 
 你的[卓越骰子](Battle_Master.md#Level_3 "战斗大师")大小增加至 d10。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -165,31 +165,31 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**对决**](Duelling.md "对决")
+- [对决](Duelling.md "对决")
 
 当你单手持用非双手近战武器，且另一只手未持武器时，该武器造成额外 2 点伤害。
 
-- [**精通卓越战技**](Improved_Combat_Superiority.md "精通卓越战技")
+- [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")
 
 你的[卓越骰子](Battle_Master.md#Level_3 "战斗大师")大小增加至 d10。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -241,31 +241,31 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**对决**](Duelling.md "对决")
+- [对决](Duelling.md "对决")
 
 当你单手持用非双手近战武器，且另一只手未持武器时，该武器造成额外 2 点伤害。
 
-- [**精通卓越战技**](Improved_Combat_Superiority.md "精通卓越战技")
+- [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")
 
 你的[卓越骰子](Battle_Master.md#Level_3 "战斗大师")大小增加至 d10。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -287,12 +287,12 @@ Stats
 
 ## 内容
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-- [3 相关任务](#related-quests)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+- [3 相关任务](#相关任务)
 
 ## 出场
 

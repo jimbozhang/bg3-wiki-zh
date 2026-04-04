@@ -10,32 +10,32 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 副职](#subclasses)
-- [3 职业进阶](#class-progression)
-- [4 职业信息](#class-information)
-  - [4.1 属性](#attributes)
-  - [4.2 初始熟练项](#starting-proficiencies)
-  - [4.3 多职业熟练项](#multiclass-proficiencies)
-- [5 等级进阶](#level-progression)
-  - [5.1 等级 1](#level-1)
-  - [5.2 等级 2](#level-2)
-  - [5.3 等级 3](#level-3)
+- [1 概述](#概述)
+- [2 副职](#副职)
+- [3 职业进阶](#职业进阶)
+- [4 职业信息](#职业信息)
+  - [4.1 属性](#属性)
+  - [4.2 初始熟练项](#初始熟练项)
+  - [4.3 多职业熟练项](#多职业熟练项)
+- [5 等级进阶](#等级进阶)
+  - [5.1 等级 1](#等级-1)
+  - [5.2 等级 2](#等级-2)
+  - [5.3 等级 3](#等级-3)
     - [5.3.1 选择副职](#select-a-subclass)
-  - [5.4 等级 4](#level-4)
-  - [5.5 等级 5](#level-5)
+  - [5.4 等级 4](#等级-4)
+  - [5.5 等级 5](#等级-5)
   - [5.6 等级 6](#level-6)
-    - [5.6.1 副职特性](#subclass-features)
-  - [5.7 等级 7](#level-7)
+    - [5.6.1 副职特性](#副职特性)
+  - [5.7 等级 7](#等级-7)
   - [5.8 等级 8](#level-8)
-  - [5.9 等级 9](#level-9)
+  - [5.9 等级 9](#等级-9)
   - [5.10 等级 10](#level-10)
-  - [5.11 等级 11](#level-11)
+  - [5.11 等级 11](#等级-11)
   - [5.12 等级 12](#level-12)
-- [6 注释](#notes)
-- [7 著名诗人](#notable-bards)
-- [8 另见](#see-also)
-- [9 外部链接](#external-links)
+- [6 注释](#注释)
+- [7 著名诗人](#著名诗人)
+- [8 另见](#另见)
+- [9 外部链接](#外部链接)
 
 ## 概述
 
@@ -100,7 +100,7 @@
 [轻甲](Armour.md#List_of_light_armour "护甲")
 熟练技能（选择3项）
 [历史的](History.md "历史的"), [洞悉](Insight.md "洞悉"), [医药](Medicine.md "医药"), [游说](Persuasion.md "游说"), [宗教](Religion.md "宗教"), [欺瞒](Deception.md "欺瞒"), [威吓](Intimidation.md "威吓"), [表演](Performance.md "表演"), [体操](Acrobatics.md "体操"), [巧手](Sleight_of_Hand.md "巧手"), [隐匿](Stealth.md "隐匿"), [驯兽](Animal_Handling.md "驯兽"), [奥秘](Arcana.md "奥秘"), [调查](Investigation.md "调查"), [运动](Athletics.md "运动"), [自然](Nature.md "自然"), [察觉技能](Perception.md "察觉技能"), [求生](Survival.md "求生")
-你获得对每个你[熟练](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
+你获得对每个你[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
 初始装备
 [手弩](Hand_Crossbow.md "手弩"), [简易坎肩](Simple_Jerkin.md "简易坎肩"), [皮靴](Leather_Boots.md "皮靴"), 一个在角色创建时选择的[乐器](Instrument.md "乐器")
 
@@ -141,7 +141,7 @@
 - [剑刃防护](Blade_Ward.md "剑刃防护")
 - [法师之手](Mage_Hand.md "法师之手")
 - [克敌机先](True_Strike.md "克敌机先") *[交友术](Friends.md "交友术")* [舞光术](Dancing_Lights.md "舞光术")
-- [光亮术](Light.md "光亮术")
+- [轻型](Light.md "轻型")
 - [初级幻影](Minor_Illusion.md "初级幻影")
 - [恶毒嘲笑](Vicious_Mockery.md "恶毒嘲笑")
 
@@ -151,7 +151,7 @@
 - [降咒](Bane_(spell).md "降咒（法术）") *[魅惑人类](Charm_Person.md "魅惑人类")* [疗伤术](Cure_Wounds.md "疗伤术")
 - [伪装术](Disguise_Self.md "伪装术") * [不谐低语](Dissonant_Whispers.md "不谐低语")
 - [妖火](Faerie_Fire.md "妖火") *[羽落术](Feather_Fall.md "羽落术")* [治愈真言](Healing_Word.md "治愈真言")
-- [英雄气概](Heroism.md "英雄气概") *[大步奔行](Longstrider.md "大步奔行")* [睡眠术](Sleep.md "睡眠术")
+- [英雄气概](Heroism.md "英雄气概") *[大步奔行](Longstrider.md "大步奔行")* [睡眠](Sleep.md "睡眠")
 - [动物交谈](Speak_with_Animals.md "动物交谈") *[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")* [雷鸣波](Thunderwave.md "雷鸣波")
 
 ### 等级 2
@@ -160,7 +160,7 @@
 用你的技艺抚慰人心。你和你的盟友恢复精神，如同进行了一次[短休](Short_rest.md "短休")。（充能：[长休](Long_Rest.md "长休")。）
 
 [多面手](Jack_of_All_Trades.md "多面手")
-你的丰富经验使你更有可能在任何任务中成功。将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")的一半（向下取整）添加到你未[熟练](Proficiency.md "熟练项")的[属性检定](Ability_Check.md "属性检定")中。
+你的丰富经验使你更有可能在任何任务中成功。将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")的一半（向下取整）添加到你未[熟练项](Proficiency.md "熟练项")的[属性检定](Ability_Check.md "属性检定")中。
 
 施法
 

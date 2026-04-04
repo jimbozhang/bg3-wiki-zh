@@ -79,7 +79,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -127,7 +127,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -175,7 +175,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -205,19 +205,19 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 相关任务](#related-quests)
-- [3 战利品](#loot)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 相关任务](#相关任务)
+- [3 战利品](#战利品)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 出场
 
 温斯洛·雷吉诺尔的尸体可在[雨林之家](Rainforest's_Home.md "雨林之家")的地下室中找到。
 
-温斯洛被[腥红奥林](Orin.md "腥红奥林")杀害。他的尸体被用作奥林“艺术”的组成部分，作为[阿巴济戈](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "对先前博德之门游戏的引用列表")的雕像——一个一个多世纪前被击败的巴尔之子，与凯特比·波尔的尸体一起。
+温斯洛被[奥林](Orin.md "奥林")杀害。他的尸体被用作奥林“艺术”的组成部分，作为[阿巴济戈](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "对先前博德之门游戏的引用列表")的雕像——一个一个多世纪前被击败的巴尔之子，与凯特比·波尔的尸体一起。
 
-温斯洛的尸体可被搜刮，获得[小丑德里波斯的身体部位](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")之一，以及[奥林的仪式笔记](Orin's_Ritual_Note.md "奥林的仪式笔记")中的第四篇。
+温斯洛的尸体可被搜刮，获得[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")之一，以及[奥林的仪式笔记](Orin's_Ritual_Note.md "奥林的仪式笔记")中的第四篇。
 
 ## 相关任务
 

@@ -1,6 +1,6 @@
 # 群集伞菌
 
-**群集伞菌**是一种[炼金术材料](Alchemy.md "炼金术")。将3个群集伞菌组合可提取其[群集伞菌精华](Essence_of_Swarming_Toadstool.md "群集伞菌精华")，用于制作[卓尔毒药](Drow_Poison.md "卓尔毒药")。
+**群集伞菌**是一种[炼金术](Alchemy.md "炼金术")。将3个群集伞菌组合可提取其[群集伞菌精华](Essence_of_Swarming_Toadstool.md "群集伞菌精华")，用于制作[卓尔毒药](Drow_Poison.md "卓尔毒药")。
 
 群集伞菌通常在较大的真菌周围成群生长，只要能找到同伴，它几乎可以在任何地方生长。
 

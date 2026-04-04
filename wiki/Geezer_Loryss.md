@@ -77,7 +77,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -121,7 +121,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -165,7 +165,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -195,10 +195,10 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-- [2 备注](#notes)
-- [3 画廊](#gallery)
-- [4 外部链接](#external-links)
+- [1 参与度](#参与度)
+- [2 备注](#备注)
+- [3 画廊](#画廊)
+- [4 外部链接](#外部链接)
 
 ## 参与度
 

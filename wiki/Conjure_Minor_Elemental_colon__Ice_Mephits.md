@@ -1,10 +1,10 @@
 # 召唤初级元素生物：冰魔蝠
 
-**召唤初级元素生物：冰魔蝠** 是一个 [等级 4 咒法学派法术](Spells.md "Spells")。它是 [召唤初级元素生物](Conjure_Minor_Elemental.md "Conjure Minor Elemental") 的一个变体，可以召唤两个 [冰魔蝠](Ice_Mephit.md "Ice Mephit")。
+**召唤初级元素生物：冰魔蝠** 是一个 [法术](Spells.md "法术")。它是 [召唤初级元素生物](Conjure_Minor_Elemental.md "Conjure Minor Elemental") 的一个变体，可以召唤两个 [冰魔蝠](Ice_Mephit.md "Ice Mephit")。
 
 ## 描述
 
-从元素混沌中召唤两只冰魔蝠。它们可以 [猛投](Chromatic_Orb_colon__Cold.md "繁彩球：寒冷") 和 [呼出](Ice_Breath.md "寒冰吐息") 冰，并在死亡时 [爆炸](Death_Burst_(Cold).md "死亡爆裂（寒冷）")。
+从元素混沌中召唤两只冰魔蝠。它们可以 [猛投](Chromatic_Orb_colon__Cold.md "繁彩球：寒冷") 和 [寒冰吐息](Ice_Breath.md "寒冰吐息") 冰，并在死亡时 [爆炸](Death_Burst_(Cold).md "死亡爆裂（寒冷）")。
 
 ## 属性
 

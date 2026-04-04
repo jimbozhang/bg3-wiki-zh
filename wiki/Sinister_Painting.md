@@ -1,6 +1,6 @@
 **邪恶画作**是一个常见的[珍品](Valuables.md "Valuables"), 主要用于[议价](Traders.md "Traders"), 或出售给[商人](Traders.md "Traders").
 
-这里[柯瑞隆](Corellon_Larethian.md "Corellon Larethian")并未被描绘成一位美丽的金发精灵神祇，而是一位黑发精灵女神，其身体以美妙的优雅姿态镜像扭曲，并嵌在深红色的细棉布上。
+这里[柯瑞隆·拉瑞斯安](Corellon_Larethian.md "柯瑞隆·拉瑞斯安")并未被描绘成一位美丽的金发精灵神祇，而是一位黑发精灵女神，其身体以美妙的优雅姿态镜像扭曲，并嵌在深红色的细棉布上。
 
 ## 属性
 

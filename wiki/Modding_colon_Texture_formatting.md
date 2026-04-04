@@ -28,16 +28,16 @@
 
 ## 目录
 
-- [1 Substance Painter 导出预设](#substance-painter-export-preset)
-- [2 创建DDS文件](#creating-the-dds-files)
-  - [2.1 使用Paint.NET进行简单转换](#simple-conversion-with-paint.NET)
-  - [2.2 使用GIMP手动分配通道](#manually-assign-channels-with-gimp)
-    - [2.2.1 法线地图](#normal-map)
-    - [2.2.2 物理地图](#physical-map)
-    - [2.2.3 基础颜色地图](#basecolor-map)
-    - [2.2.4 遮罩地图](#mask-map)
-- [3 导出设置TL;DR](#export-settings-tl;DR)
-- [4 图标/图集导出设置](#icon/Atlas_Export_Settings)
+- [1 Substance Painter 导出预设](#Substance-Painter-导出预设)
+- [2 创建DDS文件](#创建DDS文件)
+  - [2.1 使用Paint.NET进行简单转换](#使用Paint.NET进行简单转换)
+  - [2.2 使用GIMP手动分配通道](#使用GIMP手动分配通道)
+    - [2.2.1 法线地图](#法线地图)
+    - [2.2.2 物理地图](#物理地图)
+    - [2.2.3 基础颜色地图](#基础颜色地图)
+    - [2.2.4 遮罩地图](#遮罩地图)
+- [3 导出设置TL;DR](#导出设置TL;DR)
+- [4 图标/图集导出设置](#图标-图集导出设置)
 
 ## Substance Painter 导出预设
 

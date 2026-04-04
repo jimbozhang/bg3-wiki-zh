@@ -2,7 +2,7 @@
 
 本文介绍的是[召唤元素生物](Conjure_Elemental_(disambiguation)的一个特定变体。其他用法，请参见[召唤元素生物（消歧义）](Conjure_Elemental_(disambiguation)。
 
-**召唤元素生物：水元素**是一个[5级咒法学派法术](Spells.md "法术")。该法术是[召唤元素生物](Conjure_Elemental.md "召唤元素生物")的一个变体，允许施法者召唤一个[水元素](Water_Elemental.md "水元素")。
+**召唤元素生物：水元素**是一个[法术](Spells.md "法术")。该法术是[召唤元素生物](Conjure_Elemental.md "召唤元素生物")的一个变体，允许施法者召唤一个[水元素](Water_Elemental.md "水元素")。
 
 ## 描述
 

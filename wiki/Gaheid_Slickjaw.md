@@ -79,11 +79,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[倒地](Knocked_Out_(Condition).md "倒地（状态）")而非杀死他们。
 
@@ -131,11 +131,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[倒地](Knocked_Out_(Condition).md "倒地（状态）")而非杀死他们。
 
@@ -174,7 +174,7 @@ UUID
 - 哈肯兹·布林
   你答应过会带我们进城的。说过你会不惜一切代价！
 - 加埃德·滑锯
-  那是在我看到守卫检查站的[巨型金属怪物](Steel_Watcher.md "钢铁卫士")之前。
+  那是在我看到守卫检查站的[钢铁卫士](Steel_Watcher.md "钢铁卫士")之前。
 - 哈肯兹·布林
   如果我们潜入时被抓到，最坏的情况是什么？在牢房里待几天？至少我们会有张床！
 - 加埃德·滑锯

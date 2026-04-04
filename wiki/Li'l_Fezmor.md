@@ -88,7 +88,7 @@ Female
 
 ## Features
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击一个正在离开触及范围的敌人。
 

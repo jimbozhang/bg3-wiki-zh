@@ -25,7 +25,7 @@ _此副职除了下文概述的独特特性外，还获得其基础职业[战士
 你是自身身体的大师，你的运动能力超越常人。你的跳跃距离增加3米（10英尺）。
 
 [运动健将：熟练项](Remarkable_Athlete_colon__Proficiency.md "运动健将：熟练项")
-你是自身身体的大师，你的运动能力超越常人。你可以将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")的一半加到任何你未[熟练](Proficiency.md "熟练")的[力量](Strength.md "力量")、[敏捷](Dexterity.md "敏捷")和[体质](Constitution.md "体质")[检定](Ability_Check.md "属性检定")上。
+你是自身身体的大师，你的运动能力超越常人。你可以将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")的一半加到任何你未[熟练项](Proficiency.md "熟练项")的[力量](Strength.md "力量")、[敏捷](Dexterity.md "敏捷")和[体质](Constitution.md "体质")[属性检定](Ability_Check.md "属性检定")上。
 
 ### 等级 10
 

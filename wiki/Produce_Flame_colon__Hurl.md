@@ -1,6 +1,6 @@
 # 燃火术：猛投
 
-**燃火术：猛投** 是一个 [戏法（咒法学派）](Spells.md "Spells")。它将你通过 [燃火术](Produce_Flame.md "Produce Flame") 在手中召唤的火焰投向目标。
+**燃火术：猛投** 是一个 [法术](Spells.md "法术")。它将你通过 [燃火术](Produce_Flame.md "Produce Flame") 在手中召唤的火焰投向目标。
 
 ## 描述
 

@@ -8,12 +8,12 @@
 
 ## 目录
 
-- [1 bg3.wiki 使用的许可](#licenses-used-by-bg3.wiki)
-- [2 单一许可的旧内容](#single-licensed_old_content)
-- [3 新内容的双重许可](#dual-licensing_of_new_content)
-- [4 混入旧内容的新内容](#new-content-mixed-into-old-content)
-- [5 从别处复制的特定许可内容](#content-copied-from-elsewhere-under-a-specific-license)
-- [6 文件上传](#file-uploads)
+- [1 bg3.wiki 使用的许可](#bg3.wiki-使用的许可)
+- [2 单一许可的旧内容](#单一许可的旧内容)
+- [3 新内容的双重许可](#新内容的双重许可)
+- [4 混入旧内容的新内容](#混入旧内容的新内容)
+- [5 从别处复制的特定许可内容](#从别处复制的特定许可内容)
+- [6 文件上传](#文件上传)
 
 ## bg3.wiki 使用的许可
 

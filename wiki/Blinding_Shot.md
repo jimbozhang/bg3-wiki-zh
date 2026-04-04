@@ -39,7 +39,7 @@ UID
 
 持续时间：2 回合
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
 
 - 受影响的生物在 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。
 - 受影响的生物的攻击和法术射程减少至 3 米（10 英尺）。

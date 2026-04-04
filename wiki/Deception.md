@@ -14,13 +14,13 @@
 
 ## 目录
 
-- [1 熟练项](#proficiency)
-- [2 用途](#uses)
-- [3 相关物品](#related-items)
-  - [3.1 技能检定+1](#+1_to_Skill_Checks)
-  - [3.2 所有技能检定+1d4](#+1d4_to_All_Skill_Checks)
-  - [3.3 技能检定优势](#advantage-on-skill-checks)
-- [4 相关法术](#related-spells)
+- [1 熟练项](#熟练项)
+- [2 用途](#用途)
+- [3 相关物品](#相关物品)
+  - [3.1 技能检定+1](#技能检定+1)
+  - [3.2 所有技能检定+1d4](#所有技能检定+1d4)
+  - [3.3 技能检定优势](#技能检定优势)
+- [4 相关法术](#相关法术)
 
 ## 熟练项
 
@@ -42,7 +42,7 @@
 
 选择**演员**[专长](Feat.md "专长")的角色获得**欺瞒**和[表演](Performance.md "表演")的[专精](Expertise.md "专精")（及熟练项）。
 
-选择[灵吸怪威能](Illithid_powers.md "灵吸怪威能")[灵吸怪专精](Illithid_Expertise.md "灵吸怪专精")的角色获得[游说](Persuasion.md "游说")、欺瞒或[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")的专精（及熟练项）。
+选择[灵吸怪威能](Illithid_powers.md "灵吸怪威能")[灵吸怪专精](Illithid_Expertise.md "灵吸怪专精")的角色获得[游说](Persuasion.md "游说")、欺瞒或[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")的专精（及熟练项）。
 
 ## 用途
 

@@ -6,7 +6,7 @@
 
 ## 描述
 
-攻击目标时造成额外 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使目标在 [魅力](Charisma.md "Charisma") [检定](Ability_Check.md "Ability Check") 上处于 [劣势](Disadvantage.md "Disadvantage")。
+攻击目标时造成额外 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使目标在 [魅力](Charisma.md "Charisma") [属性检定](Ability_Check.md "属性检定") 上处于 [劣势](Disadvantage.md "Disadvantage")。
 
 ## 属性
 

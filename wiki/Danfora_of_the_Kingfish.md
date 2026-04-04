@@ -80,19 +80,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
@@ -140,19 +140,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
@@ -200,19 +200,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有劣势。
 
@@ -230,11 +230,11 @@ UUID
 
 ## 相关剧情
 
-金鱼的丹佛拉可在[拉韦尔尼卡之家](Lavernica's_Home.md "拉韦尔尼卡之家")的地下室中被发现死亡，是[腥红奥林](Orin.md "腥红奥林")所发动大屠杀的受害者。
+金鱼的丹佛拉可在[拉韦尔尼卡之家](Lavernica's_Home.md "拉韦尔尼卡之家")的地下室中被发现死亡，是[奥林](Orin.md "奥林")所发动大屠杀的受害者。
 
 丹佛拉的尸体是此次屠杀中少数有战利品的尸体之一，即关于森代，第三人的[神秘笔记](Orin's_Ritual_Note.md "腥红奥林的仪式笔记")。
 
-丹佛拉的UID显示为_"FakeDiaytha"_。迪亚萨是《博德之门II》游戏中的角色，一名受巴尔之子[森代](Echo_of_Sendai.md "森代的回声")指挥的卓尔牧师。丹佛拉的肖像画设计也模仿了迪亚萨的形象。
+丹佛拉的UID显示为_"FakeDiaytha"_。迪亚萨是《博德之门II》游戏中的角色，一名受巴尔之子[森代的回声](Echo_of_Sendai.md "森代的回声")指挥的卓尔牧师。丹佛拉的肖像画设计也模仿了迪亚萨的形象。
 
 ## 战利品
 

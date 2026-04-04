@@ -54,7 +54,7 @@ UUID
 
 Stats
 
-`Orthon` **尤格**是一名血甲魔，一种来自九层地狱的强大[邪魔](Fiend.md "Fiend")。他和他的[军团魔步兵](Merregon.md "Merregon")小队可以在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet_of_Shar")中找到，他们因与[拉斐尔](Raphael.md "Raphael")签订的契约而被困在那里。
+`Orthon` **尤格**是一名血甲魔，一种来自九层地狱的强大[邪魔](Fiend.md "Fiend")。他和他的[军团魔](Merregon.md "军团魔")小队可以在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet_of_Shar")中找到，他们因与[拉斐尔](Raphael.md "Raphael")签订的契约而被困在那里。
 
 > “
 >
@@ -66,27 +66,27 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-  - [1.2 描述](#description)
-  - [1.3 历史](#history)
-- [2 参与](#involvement)
-  - [2.1 第二章](#act-two)
-    - [2.1.1 杀死尤格](#killing-yurgir)
-    - [2.1.2 打破尤格的契约](#breaking-yurgir's-contract)
-  - [2.2 第三章](#act-three)
-    - [2.2.1 拜访营地](#visiting-camp)
-    - [2.2.2 希望之邸](#house-of-hope)
-- [3 伙伴好感度](#companion-approval)
-- [4 战斗](#combat)
-  - [4.1 战利品](#loot)
-    - [4.1.1 尤格携带的物品](#carried-by-yurgir)
-    - [4.1.2 附近的战利品](#nearby-loot)
-- [5 相关文献](#related-literature)
-- [6 相关任务](#related-quests)
-- [7 画廊](#gallery)
-- [8 注释与参考](#notes-and-references)
-- [9 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+  - [1.2 描述](#描述)
+  - [1.3 历史](#历史)
+- [2 参与](#参与)
+  - [2.1 第二章](#第二章)
+    - [2.1.1 杀死尤格](#杀死尤格)
+    - [2.1.2 打破尤格的契约](#打破尤格的契约)
+  - [2.2 第三章](#第三章)
+    - [2.2.1 拜访营地](#拜访营地)
+    - [2.2.2 希望之邸](#希望之邸)
+- [3 伙伴好感度](#伙伴好感度)
+- [4 战斗](#战斗)
+  - [4.1 战利品](#战利品)
+    - [4.1.1 尤格携带的物品](#尤格携带的物品)
+    - [4.1.2 附近的战利品](#附近的战利品)
+- [5 相关文献](#相关文献)
+- [6 相关任务](#相关任务)
+- [7 画廊](#画廊)
+- [8 注释与参考](#注释与参考)
+- [9 外部链接](#外部链接)
 
 ## 概述
 
@@ -104,7 +104,7 @@ Stats
 
 很久以前，尤格在血腥战争的前线作战。<sup>[\[1\]](#cite_note-1)</sup>
 
-大约在DR 14世纪末期，[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")开始集结一支[暗夜法官](Dark_Justiciar.md "Dark Justiciar")军队。曾为凯瑟里克工作过的塞伦涅信徒石匠[地狱石匠](Infernal_Mason.md "Infernal Mason")，包括建造[月出之塔](Moonrise_Towers.md "Moonrise Towers")，<sup>[\[2\]](#cite_note-2)</sup>曾试图建立抵抗力量对抗他，但无济于事。他最终联系了[拉斐尔](Raphael.md "Raphael")，请求他摧毁凯瑟里克的军队。<sup>[\[3\]](#cite_note-3)</sup> 拉斐尔随后招募了尤格和他的[军团魔步兵](Merregon.md "Merregon")小队来执行这项任务；尤格与拉斐尔签订了一份契约：
+大约在DR 14世纪末期，[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")开始集结一支[暗夜法官](Dark_Justiciar.md "Dark Justiciar")军队。曾为凯瑟里克工作过的塞伦涅信徒石匠[地狱石匠](Infernal_Mason.md "Infernal Mason")，包括建造[月出之塔](Moonrise_Towers.md "Moonrise Towers")，<sup>[\[2\]](#cite_note-2)</sup>曾试图建立抵抗力量对抗他，但无济于事。他最终联系了[拉斐尔](Raphael.md "Raphael")，请求他摧毁凯瑟里克的军队。<sup>[\[3\]](#cite_note-3)</sup> 拉斐尔随后招募了尤格和他的[军团魔](Merregon.md "军团魔")小队来执行这项任务；尤格与拉斐尔签订了一份契约：
 
 “
 |
@@ -134,7 +134,7 @@ Stats
 
 #### 杀死尤格
 
-[吟游诗人](Bard.md "Bard")和[邪术师](Warlock.md "Warlock")有独特的机会通过对话检定击败尤格和他的队伍。其他职业如果通过尤格背诵契约后的DC 14 [洞悉](Insight.md "Insight") [检定](Ability_Check.md "Ability check")，也可以做到。<sup>[\[10\]](#cite_note-10)</sup>
+[吟游诗人](Bard.md "Bard")和[邪术师](Warlock.md "Warlock")有独特的机会通过对话检定击败尤格和他的队伍。其他职业如果通过尤格背诵契约后的DC 14 [洞悉](Insight.md "Insight") [属性检定](Ability_Check.md "属性检定")，也可以做到。<sup>[\[10\]](#cite_note-10)</sup>
 
 在对付尤格时，可以获得多个[激励点](Inspiration.md "Inspiration")：
 
@@ -155,7 +155,7 @@ Stats
 
 队伍可以击败老鼠，然后击败[莱辛多尔](Lyrthindor.md "Lyrthindor")，然后返回尤格那里，以便他和拉斐尔可以重新协商他的雇佣条款。这可以预先完成，在这种情况下，尤格和所有军团魔会变得友好，即使尚未与他们交谈。对话结束后，尤格立即返回拉斐尔的[希望之邸](House_of_Hope.md "House_of_Hope")。<sup>[\[11\]](#cite_note-11)</sup>
 
-此外，如果[阿斯代伦](Astarion.md "Astarion")在场，他会因为队伍没有杀死尤格而感到不安并质问他们。他非常愤怒，并询问他为什么还应该留在队伍中。需要通过DC 14 [游说](Persuasion.md "Persuasion")或[欺瞒](Deception.md "Deception") [检定](Ability_Check.md "Ability check")来说服他留在队伍中。<sup>[\[12\]](#cite_note-12)</sup>
+此外，如果[阿斯代伦](Astarion.md "Astarion")在场，他会因为队伍没有杀死尤格而感到不安并质问他们。他非常愤怒，并询问他为什么还应该留在队伍中。需要通过DC 14 [游说](Persuasion.md "Persuasion")或[欺瞒](Deception.md "Deception") [属性检定](Ability_Check.md "属性检定")来说服他留在队伍中。<sup>[\[12\]](#cite_note-12)</sup>
 
 ### 第三章
 
@@ -167,7 +167,7 @@ Stats
 
 #### 希望之邸
 
-在从希望之邸偷窃拉斐尔后离开时，会再次遇到尤格。在随后的战斗中，如果队伍帮助他从契约中解脱，他会改变立场，帮助队伍杀死拉斐尔。如果队伍在第二章杀死了尤格，仍然可以通过DC 30 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check")说服他帮助队伍。如果执行了解放他契约的动作，但没有进行相关对话，那么仍然需要说服尤格。
+在从希望之邸偷窃拉斐尔后离开时，会再次遇到尤格。在随后的战斗中，如果队伍帮助他从契约中解脱，他会改变立场，帮助队伍杀死拉斐尔。如果队伍在第二章杀死了尤格，仍然可以通过DC 30 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定")说服他帮助队伍。如果执行了解放他契约的动作，但没有进行相关对话，那么仍然需要说服尤格。
 
 如果尤格帮助队伍，他将成为⁠[召集盟友](Gather_Your_Allies.md "Gather Your Allies")的盟友。当被召唤时，他通过动作[地狱潜行者尤格](Hellstalker_Yurgir.md "Hellstalker Yurgir")成为[Attached Follower](Attached_Follower.md "Attached Follower")。
 
@@ -194,7 +194,7 @@ Stats
 #### 附近的战利品
 
 - [暗夜法官手套（普通）](Dark_Justiciar_Gauntlets_(Uncommon).md "Dark Justiciar Gauntlets (Uncommon)") - 可在莎尔铁手神殿中尤格所在位置的门附近的箱子堆上找到，坐标 X: -662 Y: -761
-- [阴影宝石](Umbral_Gem.md "Umbral Gem") - 在尤格的[床](Orthon's_Bed.md "Orthon's Bed")（由尸体构成）旁边，[内萨](Nessa.md "Nessa")在此处开始战斗
+- [阴影宝石](Umbral_Gem.md "Umbral Gem") - 在尤格的[血甲魔的床](Orthon's_Bed.md "血甲魔的床")（由尸体构成）旁边，[内萨](Nessa.md "Nessa")在此处开始战斗
 
 ## 相关文献
 
@@ -225,7 +225,7 @@ Stats
 1. [↑](#cite_ref-7) 在复仇之炉的上锁房间中发现的[军团魔步兵](Merregon_Legionnaire.md "Merregon Legionnaire")以及三只[地狱野猪](Hellsboar.md "Hellsboar")，很可能是这次攻击的残余
 1. [↑](#cite_ref-8) [一化众多](One_Becomes_Many.md "One Becomes Many")，作者[拉斐尔](Raphael.md "Raphael")
 1. [↑](#cite_ref-9) 有一个军团魔，[军团魔囤宝者](Hoarding_Merregon.md "Hoarding Merregon")，可以进行交易，在坐标 X: -660 Y: -760 处找到。如果与该军团魔交易，但随后杀死了尤格和他的爪牙，则它不会掉落用于购买商品的金币，也不会掉落大多数交易的普通物品。
-1. [↑](#cite_ref-10) 对话中有一个洞悉检定，以弄清楚歌词中隐藏着一个诡计，然后是一个DC 16 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check")来说服尤格杀死他的爪牙，接着是一个DC 21 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check")来说服他杀死他的移位兽，然后又是一个DC 21 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check")来说服他自杀。即使只在第一次掷骰中成功，也会使战斗变得容易得多。
+1. [↑](#cite_ref-10) 对话中有一个洞悉检定，以弄清楚歌词中隐藏着一个诡计，然后是一个DC 16 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定")来说服尤格杀死他的爪牙，接着是一个DC 21 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定")来说服他杀死他的移位兽，然后又是一个DC 21 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定")来说服他自杀。即使只在第一次掷骰中成功，也会使战斗变得容易得多。
 1. [↑](#cite_ref-11) 此时仍然可以杀死尤格，这也会导致他返回拉斐尔的希望之邸。
 1. [↑](#cite_ref-12) 通常，[阿斯代伦](Astarion.md "Astarion")强烈反对[拉斐尔](Raphael.md "Raphael")提出揭示他伤疤背后含义的任何行动，但如果杀死尤格的交易未完成（例如，如果尤格自杀），他可能不会反对。然而，如果拉斐尔从未提出交易，阿斯代伦不会反对队伍与尤格达成交易或说服他自杀。如果阿斯代伦在队伍中并希望避免拉斐尔提出交易，他必须在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")和[大陵寝](Grand_Mausoleum.md "Grand Mausoleum")入口处遇到拉斐尔时[伪装术](Disguise_Self.md "Disguise Self")，或者离得足够远，以免在对话开始时被带入与拉斐尔的这些对话过场。
 1. [↑](#cite_ref-13) 如果尤格在[第二章](Act_Two.md "Act Two")和[第三章](Act_Three.md "Act Three")都被击败，地狱火手弩仍然只能被拾取一次。如果尤格在战斗中被缴械了近战和远程武器，他的武器在随后出现的任何战斗中都不会补充，这使他无法使用与这些武器相关的任何能力。

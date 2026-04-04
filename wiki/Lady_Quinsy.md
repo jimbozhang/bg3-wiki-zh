@@ -87,27 +87,27 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "重击")或击杀目标时，你可以在该回合使用[附赠动作](Actions.md#Resources "动作")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你装备[盾牌](Shields.md "盾牌")时，若你在 1.5 米（5 英尺）范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能看见该敌人。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并取最高值。
 
-- [**鬼祟反击**](Sneaky_Riposte.md "鬼祟反击")
+- [鬼祟反击](Sneaky_Riposte.md "鬼祟反击")
 
 对刚刚攻击未命中的敌人进行反击，若你拥有优势则造成偷袭伤害。
 
@@ -159,27 +159,27 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "重击")或击杀目标时，你可以在该回合使用[附赠动作](Actions.md#Resources "动作")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你装备[盾牌](Shields.md "盾牌")时，若你在 1.5 米（5 英尺）范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能看见该敌人。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并取最高值。
 
-- [**鬼祟反击**](Sneaky_Riposte.md "鬼祟反击")
+- [鬼祟反击](Sneaky_Riposte.md "鬼祟反击")
 
 对刚刚攻击未命中的敌人进行反击，若你拥有优势则造成偷袭伤害。
 
@@ -231,27 +231,27 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "重击")或击杀目标时，你可以在该回合使用[附赠动作](Actions.md#Resources "动作")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "守护")
+- [守护](Protection.md "守护")
 
 当你装备[盾牌](Shields.md "盾牌")时，若你在 1.5 米（5 英尺）范围内，可对攻击你一名盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能看见该敌人。
 
-- [**凶蛮打手**](Savage_Attacker.md "凶蛮打手")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并取最高值。
 
-- [**鬼祟反击**](Sneaky_Riposte.md "鬼祟反击")
+- [鬼祟反击](Sneaky_Riposte.md "鬼祟反击")
 
 对刚刚攻击未命中的敌人进行反击，若你拥有优势则造成偷袭伤害。
 

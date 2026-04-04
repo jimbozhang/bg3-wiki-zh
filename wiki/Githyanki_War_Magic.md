@@ -6,7 +6,7 @@
 
 ## 描述
 
-吉斯洋基人施放 [法术或戏法](Spells.md "法术或戏法") 后，可以使用 [附赠动作](Actions.md#Resources "动作") 进行一次武器攻击。
+吉斯洋基人施放 [法术](Spells.md "法术") 后，可以使用 [附赠动作](Actions.md#Resources "动作") 进行一次武器攻击。
 
 ## 状态：吉斯洋基战斗魔法
 
@@ -26,7 +26,7 @@
 
 ## 简要预览
 
-施放 [法术或戏法](Spells.md "法术或戏法") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+施放 [法术](Spells.md "法术") 后，可以进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
 
 ---
 *Source: [Githyanki War Magic](https://bg3.wiki/wiki/Githyanki_War_Magic)*

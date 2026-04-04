@@ -48,7 +48,7 @@
 
 失败 - 为什么？！魔法诅咒？
 
-[完全复生术](Scroll_of_True_Resurrection.md "完全复生术卷轴")
+[完全复生术卷轴](Scroll_of_True_Resurrection.md "完全复生术卷轴")
 
 我已达到技能和资源的极限。那本书提供了帮助。我敢接受吗？
 

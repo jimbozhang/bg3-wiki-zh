@@ -24,7 +24,7 @@
 
 [一张匆忙潦草的笔记。]
 
-我有你想要的信息。你说得对，[神殿](Bhaal_Temple.md "Bhaal Temple")的成员在增加。我会告诉你所有关于他们所谓的[裁判所](Murder_Tribunal.md "Murder Tribunal")的事。明天见，你知道在哪里。
+我有你想要的信息。你说得对，[巴尔神殿](Bhaal_Temple.md "巴尔神殿")的成员在增加。我会告诉你所有关于他们所谓的[谋杀裁判所](Murder_Tribunal.md "谋杀裁判所")的事。明天见，你知道在哪里。
 
 ---
 *Source: ['Let's meet'](https://bg3.wiki/wiki/'Let's_meet')*

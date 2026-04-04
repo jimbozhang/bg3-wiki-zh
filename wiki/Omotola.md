@@ -90,7 +90,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -138,7 +138,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -186,7 +186,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -216,10 +216,10 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 出售物品](#items-sold)
-- [3 战利品](#loot)
-- [4 相关文献](#related-literature)
+- [1 参与情况](#参与情况)
+- [2 出售物品](#出售物品)
+- [3 战利品](#战利品)
+- [4 相关文献](#相关文献)
 
 ## 参与情况
 

@@ -64,11 +64,11 @@ _关于受人喜爱且防御稳固：_
 
 - 染色变体
 
-- 普通[染料](Dye.md "染料")颜色
+- 普通[染色](Dye.md "染色")颜色
 
-- 稀有[染料](Dye.md "染料")颜色
+- 稀有[染色](Dye.md "染色")颜色
 
-- 非常稀有[染料](Dye.md "染料")颜色
+- 非常稀有[染色](Dye.md "染色")颜色
 
 ---
 *Source: [Potent Robe](https://bg3.wiki/wiki/Potent_Robe)*

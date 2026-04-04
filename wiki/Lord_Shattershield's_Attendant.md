@@ -95,15 +95,15 @@
 
 来自近战范围的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
@@ -111,7 +111,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -119,7 +119,7 @@
 
 你受到的[穿刺](Piercing.md "穿刺")伤害减少1点。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 当你进行副手攻击时，你可以将你的[属性值调整值](Ability_score_modifier.md "属性值调整值")加到攻击的伤害上。
 
@@ -173,15 +173,15 @@
 
 来自近战范围的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
@@ -189,7 +189,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -197,7 +197,7 @@
 
 你受到的[穿刺](Piercing.md "穿刺")伤害减少1点。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 当你进行副手攻击时，你可以将你的[属性值调整值](Ability_score_modifier.md "属性值调整值")加到攻击的伤害上。
 
@@ -251,15 +251,15 @@
 
 来自近战范围的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
@@ -267,7 +267,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -275,7 +275,7 @@
 
 你受到的[穿刺](Piercing.md "穿刺")伤害减少1点。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 当你进行副手攻击时，你可以将你的[属性值调整值](Ability_score_modifier.md "属性值调整值")加到攻击的伤害上。
 
@@ -297,10 +297,10 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
+- [1 参与情况](#参与情况)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
 
 ## 参与情况
 
@@ -349,7 +349,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程: 正常武器射程
 充能: [短休](Short_rest.md "短休")
 

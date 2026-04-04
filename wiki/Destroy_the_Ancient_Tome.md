@@ -4,8 +4,8 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
 
 ## 目标
 
@@ -24,7 +24,7 @@
 
 ## 流程攻略
 
-[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术")是在[搜查地窖](Search_the_Cellar.md "搜查地窖")期间，在药剂师的秘密实验室中获得的，该实验室需经过[装饰镜](Ornate_Mirror.md "装饰镜")才能进入。将书从其陷阱房间中取出会触发一个任务，要求要么[解锁塞尔死灵法术的秘密](Unlock_the_Ancient_Tome.md "解锁古代典籍")，要么将其永久摧毁。
+[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术")是在[搜查地窖](Search_the_Cellar.md "搜查地窖")期间，在药剂师的秘密实验室中获得的，该实验室需经过[装饰镜](Ornate_Mirror.md "装饰镜")才能进入。将书从其陷阱房间中取出会触发一个任务，要求要么[解锁古代典籍](Unlock_the_Ancient_Tome.md "解锁古代典籍")，要么将其永久摧毁。
 
 这本书只能通过将其丢在地上并用[光耀](Radiant.md "光耀")伤害（如[曳光弹](Guiding_Bolt.md "曳光弹")）攻击来摧毁。摧毁这本书会降低[阿斯代伦](Astarion.md "阿斯代伦")的[好感度](Approval.md "好感度")，但会增加[卡菈克](Karlach.md "卡菈克")、[莱埃泽尔](Lae'zel.md "莱埃泽尔")和[威尔](Wyll.md "威尔")的[好感度](Approval.md "好感度")。摧毁这本书还会生成3个敌对的[暗影](Shadow.md "暗影")。
 

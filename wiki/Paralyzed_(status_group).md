@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 移除](#removal)
-- [2 免疫](#immunity)
-- [3 SG_Paralyzed 中的状态列表](#list-of-conditions-in-sg-paralyzed)
-- [4 备注](#notes)
+- [1 移除](#移除)
+- [2 免疫](#免疫)
+- [3 SG_Paralyzed 中的状态列表](#SG_Paralyzed-中的状态列表)
+- [4 备注](#备注)
 
 ## 移除
 
@@ -74,7 +74,7 @@
 [地狱眩晕](Infernal_Stun_(Condition).md "Infernal Stun (Condition)")
 |
 
-- 该生物无法移动或行动，拉斐尔可以随意对其使用 [灵魂扭曲](Soul_Drain.md "Soul Drain")。
+- 该生物无法移动或行动，拉斐尔可以随意对其使用 [吸取灵魂](Soul_Drain.md "吸取灵魂")。
 
 \_(状态)[麻痹](Paralysed_(Karabasan's_Gift)_(Condition).md "Paralysed (Karabasan's Gift) (Condition)")
 |

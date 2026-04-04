@@ -58,19 +58,19 @@
 
 ## 特性
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3米（10英尺）范围内的盟友对邻近你的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被你的游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外1d6伤害。
 
@@ -110,19 +110,19 @@
 
 ## 特性
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 获得等于其熟练项加值的护甲等级和伤害加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3米（10英尺）范围内的盟友对邻近你的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-- [**猎物的气味**](Prey's_Scent.md "猎物的气味")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 你对被你的游侠[猎人印记](Hunter's_Mark.md "猎人印记")的目标造成额外1d6伤害。
 
@@ -172,11 +172,11 @@ UUID
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-  - [1.2 更高等级](#at-higher-levels)
-    - [1.2.1 等级 7](#level-7)
-    - [1.2.2 等级 8](#level-8)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+  - [1.2 更高等级](#更高等级)
+    - [1.2.1 等级 7](#等级-7)
+    - [1.2.2 等级 8](#等级-8)
 
 ## 战斗
 

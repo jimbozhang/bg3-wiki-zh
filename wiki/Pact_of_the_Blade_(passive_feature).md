@@ -4,7 +4,7 @@
 
 ## 描述
 
-你可以[召唤](Pact_of_the_Blade.md "刃之魔契")一把魔契武器，或[誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")你正在挥舞的武器作为魔契武器，使其变为魔法武器。
+你可以[刃之魔契](Pact_of_the_Blade.md "刃之魔契")一把魔契武器，或[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")你正在挥舞的武器作为魔契武器，使其变为魔法武器。
 
 魔契武器使用持有者的[魅力调整值](Abilities.md#Ability_score_modifiers "属性")，而非[力量](Strength.md "力量")或[敏捷](Dexterity.md "敏捷")。
 

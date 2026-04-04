@@ -66,15 +66,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物在阴影中攻击时，额外造成 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
@@ -114,15 +114,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物在阴影中攻击时，额外造成 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
@@ -162,15 +162,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物在阴影中攻击时，额外造成 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，且不会被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
@@ -190,13 +190,13 @@
 
 ## 内容
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 已知的莎尔哨兵](#known-sharran-sentries)
-- [4 相关任务](#related-quests)
-- [5 备注](#notes)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 已知的莎尔哨兵](#已知的莎尔哨兵)
+- [4 相关任务](#相关任务)
+- [5 备注](#备注)
 
 ## 参与
 

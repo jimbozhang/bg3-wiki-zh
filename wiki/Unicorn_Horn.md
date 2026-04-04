@@ -1,6 +1,6 @@
 # 独角兽角
 
-**独角兽角**是一种[炼金术材料](Alchemy.md "炼金术")。需要三个才能提取[独角兽角金属箔](Essence_of_Unicorn_Horn.md "独角兽角金属箔")，后者用于制作[深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水")。
+**独角兽角**是一种[炼金术](Alchemy.md "炼金术")。需要三个才能提取[独角兽角金属箔](Essence_of_Unicorn_Horn.md "独角兽角金属箔")，后者用于制作[深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水")。
 
 独角兽的血液干燥在象牙底座上，亵渎了野兽号角的神圣魔法。
 

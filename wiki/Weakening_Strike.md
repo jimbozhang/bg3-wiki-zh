@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：1~4 + 调整值
 
-1d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[武器](Weapon.md "武器")（非致命）
+1d4 + [灵巧](Finesse.md "灵巧")⁠[武器](Weapon.md "武器")（非致命）
 
 详情
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
@@ -46,7 +46,7 @@ UID
 
 ## 如何习得
 
-通过[熟练](Proficiency.md "熟练")使用以下类型的武器获得：
+通过[熟练项](Proficiency.md "熟练项")使用以下类型的武器获得：
 
 - [链枷](Flails.md "链枷")
 - [刺剑](Rapiers.md "刺剑")

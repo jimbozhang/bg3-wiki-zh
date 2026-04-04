@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法](Category_colon_Inaccessible.md "Category:Inaccessible")通过正常游戏流程获取**。但仍可通过第三方工具访问。
 
-**衰弱灌注**是一种[戏法](Spells.md "Spells")。
+**衰弱灌注**是一种[法术](Spells.md "法术")。
 
 ## 描述
 

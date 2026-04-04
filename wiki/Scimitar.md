@@ -2,7 +2,7 @@
 
 For the equipment type, see [Scimitars](Scimitars.md "Scimitars").
 
-**弯刀**是一种普通的、非魔法的[弯刀](Scimitars.md "Scimitars")武器家族变体。它是一种单手挥舞的[近战武器](Weapons.md "Weapons")。作为一种[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的[敏捷](Dexterity.md "Dexterity")，而不仅仅是[力量](Strength.md "Strength")。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
+**弯刀**是一种普通的、非魔法的[弯刀](Scimitars.md "Scimitars")武器家族变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为一种[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的[敏捷](Dexterity.md "Dexterity")，而不仅仅是[力量](Strength.md "Strength")。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
 
 这把人造弯刀远未达到它明显模仿的卓尔风格的质量。
 

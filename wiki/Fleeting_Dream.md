@@ -1,6 +1,6 @@
 # Fleeting Dream
 
-**Fleeting Dream** 是一个 [等级 2 咒法学派法术](Spells.md "Spells")。此法术允许施法者将自己传送到一个他们可见的未被占据的空间。
+**Fleeting Dream** 是一个 [法术](Spells.md "法术")。此法术允许施法者将自己传送到一个他们可见的未被占据的空间。
 
 ## 描述
 

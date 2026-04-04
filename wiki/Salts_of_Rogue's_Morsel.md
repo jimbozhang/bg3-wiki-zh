@@ -1,6 +1,6 @@
 # 游荡者的零嘴盐
 
-**游荡者的零嘴盐**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[治疗药水](Potion_of_Healing.md "治疗药水")。
+**游荡者的零嘴盐**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[治疗药水](Potion_of_Healing.md "治疗药水")。
 
 这种粉末由游荡者的零嘴蘑菇的干鳃制成，闻起来出奇地香甜。
 

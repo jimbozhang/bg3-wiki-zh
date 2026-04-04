@@ -77,15 +77,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -123,15 +123,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -169,15 +169,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -209,7 +209,7 @@ UUID
 
 ### 第三幕
 
-吕基斯可以在神殿外与妻子[罗兹·卡利斯塔](Rozes_Kallista.md "罗兹·卡利斯塔")以及孩子们[伊亚多](Iados_Kallista.md "伊亚多·卡利斯塔")和[涅米·卡利斯塔](Nemi_Kallista.md "涅米·卡利斯塔")一起找到。由于最近[罗根神父](Lorgan.md "罗根神父")被谋杀，神殿已对公众关闭。吕基斯对祭司们像许多人一样背弃难民感到失望。
+吕基斯可以在神殿外与妻子[罗兹·卡利斯塔](Rozes_Kallista.md "罗兹·卡利斯塔")以及孩子们[伊亚多·卡利斯塔](Iados_Kallista.md "伊亚多·卡利斯塔")和[涅米·卡利斯塔](Nemi_Kallista.md "涅米·卡利斯塔")一起找到。由于最近[罗根神父](Lorgan.md "罗根神父")被谋杀，神殿已对公众关闭。吕基斯对祭司们像许多人一样背弃难民感到失望。
 
 ---
 *Source: [Leucis Kallista](https://bg3.wiki/wiki/Leucis_Kallista)*

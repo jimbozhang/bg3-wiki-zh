@@ -15,7 +15,7 @@
 | 吉斯洋基巨剑（灵能） | [主手近战](Main_Hand_Melee.md "主手近战") ([巨剑](Greatswords.md "巨剑")) | [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器造成额外1d4点[心灵](Psychic.md "心灵")伤害。 |
 | 暗夜法官弯刀 | [主手近战](Main_Hand_Melee.md "主手近战") ([弯刀](Scimitars.md "弯刀")) | [暗影遮目](Shadow-Blinding.md "暗影遮目")如果你以[优势](Advantage.md "优势")攻击，你有几率使目标[目盲](Blinded_(Condition).md "目盲（状态）")。[[参见：错误](Shadow-Blinding#Bugs.md#Bugs "暗影遮目")] [浸影打击](Shadowsoaked_Blow.md "浸影打击") () 攻击敌人，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")加到伤害上。此外，如果攻击命中，会造成额外1d6点[心灵](Psychic.md "心灵")伤害。此攻击不会打破隐匿。 |
 | 凯瑟里克的战锤 | [主手近战](Main_Hand_Melee.md "主手近战") ([战锤](Warhammers.md "战锤")) | 造成额外1d4点[心灵](Psychic.md "心灵")伤害。 |
-| 灵能守御护甲 | [护甲](Armour.md "护甲") ([中甲](Medium_Armour.md "中甲")) | [灵能守御](Psionic_Ward_(passive_feature).md "灵能守御（被动特性）") 如果物品检测到穿戴者是吉斯人，则其获得对[心灵](Psychic.md "心灵")伤害的[抗性](Resistance.md "抗性")。每当穿戴者成功通过针对法术的[豁免检定](Saving_throw.md "豁免检定")时，其恢复1d4点[生命值](Healing.md "治疗")。 |
+| 灵能守御护甲 | [护甲](Armour.md "护甲") ([中甲](Medium_Armour.md "中甲")) | [灵能守御](Psionic_Ward_(passive_feature).md "灵能守御（被动特性）") 如果物品检测到穿戴者是吉斯人，则其获得对[心灵](Psychic.md "心灵")伤害的[抗性](Resistance.md "抗性")。每当穿戴者成功通过针对法术的[豁免检定](Saving_throw.md "豁免检定")时，其恢复1d4点[治疗](Healing.md "治疗")。 |
 | 身心撕裂者 | [主手近战](Main_Hand_Melee.md "主手近战") ([短剑](Shortswords.md "短剑")) | [钢铁意志大师](Psychic_Steel_Virtuoso.md "钢铁意志大师")当持用者以[优势](Advantage.md "优势")攻击时，造成额外1d8点[心灵](Psychic.md "心灵")伤害。 |
 | 精神抑制之戒 | [戒指](Ring.md "戒指") | [精神抑制](Mental_Inhibition.md "精神抑制")当敌人未能通过你的法术或动作的[豁免检定](Saving_throw.md "豁免检定")时，其获得持续2回合的[精神疲劳](Mental_Fatigue_(Condition).md "精神疲劳（状态）")。 |
 | 幽影之刃戒指 | [戒指](Ring.md "戒指") | [破影利刃](Shadow_Blade.md "破影利刃") ( + ) 作为2环法术施放( 充能：[长休](Long_Rest.md "长休")。) |

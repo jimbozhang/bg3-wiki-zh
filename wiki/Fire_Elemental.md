@@ -66,11 +66,11 @@
 
 - ## 特性
 
-- [**虚无形态**](Ethereal.md "Ethereal")
+- [虚无形态](Ethereal.md "虚无形态")
 
 不可被推击、投掷或用作即兴近战武器。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -116,11 +116,11 @@
 
 - ## 特性
 
-- [**虚无形态**](Ethereal.md "Ethereal")
+- [虚无形态](Ethereal.md "虚无形态")
 
 不可被推击、投掷或用作即兴近战武器。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -128,10 +128,10 @@
 
 ## 目录
 
-- [1 战斗](#combat)
-  - [1.1 攻击与能力](#attacks-and-abilities)
-- [2 画廊](#gallery)
-- [3 外部链接](#external-links)
+- [1 战斗](#战斗)
+  - [1.1 攻击与能力](#攻击与能力)
+- [2 画廊](#画廊)
+- [3 外部链接](#外部链接)
 
 ## 战斗
 

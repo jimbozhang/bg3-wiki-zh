@@ -71,7 +71,7 @@
 - [破誓者](Faithbreaker.md "破誓者")：通过[至上力量](Absolute_Power.md "至上力量")造成 1d6⁠⁠力场伤害。
 - [维康妮亚的行走堡垒](Viconia's_Walking_Fortress.md "维康妮亚的行走堡垒")：通过[壁垒叱喝](Bulwark_Rebuke.md "壁垒叱喝")造成 2d4⁠⁠力场伤害。
 - [火热之欲手套](Craterflesh_Gloves.md "火热之欲手套")：为[重击](Critical_Hit.md "重击")添加 +1d6⁠⁠力场伤害。
-- [追猎者手套](Stalker_Gloves.md "追猎者手套")：为[偷袭](Sneak_Attack.md "偷袭")添加 +1d4⁠⁠力场伤害。
+- [追猎者](Stalker_Gloves.md "追猎者")：为[偷袭](Sneak_Attack.md "偷袭")添加 +1d4⁠⁠力场伤害。
 - [黑色之手侍从手套](Servitor_of_the_Black_Hand_Gloves.md "黑色之手侍从手套")：为徒手攻击添加 +1d4⁠⁠力场伤害。
 - [暴君铁手套](Gauntlet_of_the_Tyrant.md "暴君铁手套")：为徒手攻击添加 +1d4⁠⁠力场伤害。
 - [灵魂捕捉手套](Gloves_of_Soul_Catching.md "灵魂捕捉手套")：为徒手攻击添加 +1d10⁠⁠力场伤害。

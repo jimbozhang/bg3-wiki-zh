@@ -1,6 +1,6 @@
 # 财富承诺
 
-**财富承诺**是一个[等级 6 的预言学派法术](Spells.md "Spells")。它为[赫尔希克](Helsik.md "Helsik")独有，会标记一个目标并使其获得[传染贪婪](Infectious_Greed_(Condition).md); 它会获得额外的 6d6⁠⁠[挥砍](Slashing.md "Slashing")伤害和[优势](Advantage.md "Advantage")于[攻击掷骰](Attack_roll.md "Attack Roll")。队伍成员无法学习此法术。
+**财富承诺**是一个[法术](Spells.md "法术")。它为[赫尔希克](Helsik.md "Helsik")独有，会标记一个目标并使其获得[传染贪婪](Infectious_Greed_(Condition).md); 它会获得额外的 6d6⁠⁠[挥砍](Slashing.md "Slashing")伤害和[优势](Advantage.md "Advantage")于[攻击掷骰](Attack_roll.md "Attack Roll")。队伍成员无法学习此法术。
 
 ## 描述
 

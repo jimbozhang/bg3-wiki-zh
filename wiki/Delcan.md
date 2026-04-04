@@ -73,7 +73,7 @@ _[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_ 的工人
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -117,7 +117,7 @@ _[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_ 的工人
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -161,7 +161,7 @@ _[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_ 的工人
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 

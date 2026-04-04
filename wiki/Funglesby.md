@@ -93,23 +93,23 @@
 
 - - ## 特性
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 护甲等级和伤害加值等于其熟练项加值。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md)、[撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")和[协助](Help_(bonus_action).md)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -117,17 +117,17 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
 
 你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
 - [**荒野漫游者：毒素**](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
 
-你曾在恶臭的沼泽中度过了无数求生之日。获得对[毒素](Poison.md "毒素")的[抗性](Resistance.md "抗性")，仅承受其一半伤害。
+你曾在恶臭的沼泽中度过了无数求生之日。获得对[中毒](Poison.md "中毒")的[抗性](Resistance.md "抗性")，仅承受其一半伤害。
 
 ## 探索者难度属性
 
@@ -177,23 +177,23 @@
 
 - - ## 特性
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 护甲等级和伤害加值等于其熟练项加值。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md)、[撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")和[协助](Help_(bonus_action).md)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -201,17 +201,17 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
 
 你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
 - [**荒野漫游者：毒素**](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
 
-你曾在恶臭的沼泽中度过了无数求生之日。获得对[毒素](Poison.md "毒素")的[抗性](Resistance.md "抗性")，仅承受其一半伤害。
+你曾在恶臭的沼泽中度过了无数求生之日。获得对[中毒](Poison.md "中毒")的[抗性](Resistance.md "抗性")，仅承受其一半伤害。
 
 ## 硬核难度属性
 
@@ -261,23 +261,23 @@
 
 - - ## 特性
 
-- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
 
 护甲等级和伤害加值等于其熟练项加值。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [**训练有素**](Exceptional_Training.md "训练有素")
+- [训练有素](Exceptional_Training.md "训练有素")
 
 可以使用附赠动作进行[疾走](Dash_(bonus_action).md)、[撤离](Disengage_colon__Bonus_Action.md "撤离：附赠动作")和[协助](Help_(bonus_action).md)。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -285,17 +285,17 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
 
 你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
 - [**荒野漫游者：毒素**](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
 
-你曾在恶臭的沼泽中度过了无数求生之日。获得对[毒素](Poison.md "毒素")的[抗性](Resistance.md "抗性")，仅承受其一半伤害。
+你曾在恶臭的沼泽中度过了无数求生之日。获得对[中毒](Poison.md "中毒")的[抗性](Resistance.md "抗性")，仅承受其一半伤害。
 
 ## 技术
 
@@ -315,12 +315,12 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-  - [2.3 盟友](#allies)
-- [3 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+  - [2.3 盟友](#盟友)
+- [3 外部链接](#外部链接)
 
 ## 参与
 
@@ -373,9 +373,9 @@ Stats
 
 伤害：1~12
 
-1d12⁠[毒素](Poison.md "毒素")
+1d12⁠[中毒](Poison.md "中毒")
 
-喷出一股有毒气体，对目标造成 1d12⁠⁠[毒素](Poison.md "毒素")伤害。
+喷出一股有毒气体，对目标造成 1d12⁠⁠[中毒](Poison.md "中毒")伤害。
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：3 米 (10 英尺)
@@ -384,7 +384,7 @@ Stats
 
 触碰一个生物，中和影响它的所有毒素，并使其免受有毒影响。
 
-赋予对抗[中毒](Poisoned_(Condition).md "中毒（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+赋予对抗[中毒](Poisoned_(Condition).md "中毒（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 近战：1.5 米 (5 英尺)
 

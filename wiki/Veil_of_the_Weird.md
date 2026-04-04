@@ -1,6 +1,6 @@
 # 诡异面纱
 
-**诡异面纱**是一种[戏法（幻术学派）](Spells.md "法术")。它是一种独特的法术，仅在[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")任务期间可用，允许施法者对最多五个生物施加[高等隐形术](Greater_Invisibility_(Condition).md "高等隐形术（状态）")。
+**诡异面纱**是一种[法术](Spells.md "法术")。它是一种独特的法术，仅在[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")任务期间可用，允许施法者对最多五个生物施加[高等隐形术](Greater_Invisibility_(Condition).md "高等隐形术（状态）")。
 
 ## 描述
 
@@ -34,7 +34,7 @@ UID
 持续时间：2轮
 
 - 实体在[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[优势](Advantage.md "优势")。对其的攻击掷骰具有[劣势](Disadvantage.md "劣势")
-- 当与物品交互、施放法术或攻击时，实体需要成功通过[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")以维持隐形。每次成功尝试后，检定难度都会增加。
+- 当与物品交互、施放法术或攻击时，实体需要成功通过[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")以维持隐形。每次成功尝试后，检定难度都会增加。
 
 ## 如何学习
 

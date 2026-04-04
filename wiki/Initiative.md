@@ -4,15 +4,15 @@
 
 ## 目录
 
-- [1 掷先攻](#rolling-initiative)
-- [2 先攻加值](#initiative-bonuses)
-- [3 概述](#overview)
-- [4 如何使敌人受惊](#how-to-surprise-enemies)
-  - [4.1 从隐形状态触发受惊](#triggering-surprised-from-invisibility)
-- [5 受惊遭遇列表](#list-of-surprise-encounters)
-  - [5.1 第一幕](#act-1)
-  - [5.2 第二幕](#act-2)
-  - [5.3 第三幕](#act-3)
+- [1 掷先攻](#掷先攻)
+- [2 先攻加值](#先攻加值)
+- [3 概述](#概述)
+- [4 如何使敌人受惊](#如何使敌人受惊)
+  - [4.1 从隐形状态触发受惊](#从隐形状态触发受惊)
+- [5 受惊遭遇列表](#受惊遭遇列表)
+  - [5.1 第一幕](#第一幕)
+  - [5.2 第二幕](#第二幕)
+  - [5.3 第三幕](#第三幕)
 
 ## 掷先攻
 
@@ -38,11 +38,11 @@
 | [优雅镶钉皮甲](Elegant_Studded_Leather.md "Elegant Studded Leather") | +2 | 护甲 | 轻甲 |  |
 | [精灵锁甲](Elven_Chain.md "Elven Chain") | +2 | 护甲 | 中甲 |  |
 | [火焰搪瓷护甲](Flame_Enamelled_Armour.md "Flame Enamelled Armour") | +2 | 护甲 | 中甲 |  |
-| [伏击者](Ambusher.md "Ambusher") | +1 | 武器 | 短剑 |  |
+| [伏击](Ambusher.md "伏击") | +1 | 武器 | 短剑 |  |
 | [警觉短弓](Bow_of_Awareness.md "Bow of Awareness") | +1 | 武器 | 短弓 |  |
 | [破拳头盔](Fistbreaker_Helm.md "Fistbreaker Helm") | +1 | 头部装备 | - |  |
 | [警觉长戟](Halberd_of_Vigilance.md "Halberd of Vigilance") | +1 | 武器 | 长戟 |  |
-| [追猎者手套](Stalker_Gloves.md "Stalker Gloves") | +1 | 手部装备 | - |  |
+| [追猎者](Stalker_Gloves.md "追猎者") | +1 | 手部装备 | - |  |
 | [镶钉皮甲 +2](Studded_Leather_Armour_+2.md "Studded Leather Armour +2") | +1 | 护甲 | 轻甲 |  |
 | [兽皮甲 + 2](Hide_Armour_+2.md "Hide Armour +2") | +1 | 护甲 | 中甲 |  |
 | [鳞甲 +2](Scale_Mail_+2.md "Scale Mail +2") | +1 | 护甲 | 中甲 |  |
@@ -62,7 +62,7 @@
 
 这使得成功惊吓一群敌人变得具有挑战性和反直觉。以下预防措施可能有助于此过程：
 
-1. 使用 [隐藏](Hide.md "Hide") 使 _整个_ 队伍进入隐匿状态，包括宠物。
+1. 使用 [躲藏](Hide.md "躲藏") 使 _整个_ 队伍进入隐匿状态，包括宠物。
 2. 解散队伍（包括宠物），然后选择一名队伍成员作为伏击者，并将其移动到位置以触发受惊。
 | 来源 | 数值 | 类型 | 子类型 | 其他 |
 | --- | --- | --- | --- | --- |
@@ -80,11 +80,11 @@
 | [优雅镶钉皮甲](Elegant_Studded_Leather.md "Elegant Studded Leather") | +2 | 护甲 | 轻甲 |  |
 | [精灵锁甲](Elven_Chain.md "Elven Chain") | +2 | 护甲 | 中甲 |  |
 | [火焰搪瓷护甲](Flame_Enamelled_Armour.md "Flame Enamelled Armour") | +2 | 护甲 | 中甲 |  |
-| [伏击者](Ambusher.md "Ambusher") | +1 | 武器 | 短剑 |  |
+| [伏击](Ambusher.md "伏击") | +1 | 武器 | 短剑 |  |
 | [警觉短弓](Bow_of_Awareness.md "Bow of Awareness") | +1 | 武器 | 短弓 |  |
 | [破拳头盔](Fistbreaker_Helm.md "Fistbreaker Helm") | +1 | 头部装备 | - |  |
 | [警觉长戟](Halberd_of_Vigilance.md "Halberd of Vigilance") | +1 | 武器 | 长戟 |  |
-| [追猎者手套](Stalker_Gloves.md "Stalker Gloves") | +1 | 手部装备 | - |  |
+| [追猎者](Stalker_Gloves.md "追猎者") | +1 | 手部装备 | - |  |
 | [镶钉皮甲 +2](Studded_Leather_Armour_+2.md "Studded Leather Armour +2") | +1 | 护甲 | 轻甲 |  |
 | [兽皮甲 + 2](Hide_Armour_+2.md "Hide Armour +2") | +1 | 护甲 | 中甲 |  |
 | [鳞甲 +2](Scale_Mail_+2.md "Scale Mail +2") | +1 | 护甲 | 中甲 |  |
@@ -96,7 +96,7 @@
    2. 在近战范围内进行的远程攻击总是有效。
    3. 法术攻击规则要么有错误，要么很复杂。法术攻击在近战范围内几乎总是有效，在非近战范围内效果稍差。以下示例展示了差异：
       1. [魔能爆](Eldritch_Blast.md "Eldritch Blast")（攻击掷骰）在近战和非近战范围内都有效。
-      2. [火球术术](Fireball.md "Fireball")（敏捷豁免）在近战范围内有效，但在非近战范围内无效。
+      2. [火球术](Fireball.md "火球术")（敏捷豁免）在近战范围内有效，但在非近战范围内无效。
       3. [恐惧](Fear.md "Fear")（感知豁免）在近战和非近战范围内都有效。
       4. [魔法飞弹](Magic_Missile.md "Magic Missile")（无攻击掷骰）在近战和非近战范围内均无效。
       5. [巫术箭](Witch_Bolt.md "Witch Bolt")（攻击掷骰）在近战范围内有效，但在非近战范围内无效。
@@ -105,7 +105,7 @@
    6. 对于 [伏击](Ambushing_(Condition).md "Ambushing (Condition)") 敌人，所有类型的攻击，甚至手雷，只要敌人尚未发现队伍，都有效。即使 [察觉技能](Perception.md "Perception") 检定失败并攻击敌人当前所在的空位置（敌人随后会出现），也是如此。
 5. 一旦敌人受惊，其余队伍成员可以移动到位置加入战斗。当他们进入敌人的视野锥或攻击敌人时，他们会被拉入战斗。
 
-如果角色的隐匿值足够高，敌人有时即使他们的盟友在远处被攻击和杀死，也无法注意到他们。这甚至可以与 [火球术术](Fireball.md "Fireball") 等范围效果法术一起使用，只要施法的队伍成员保持隐藏。敌人会四处奔跑，拼命搜寻该队伍成员但无法找到他们。这可以通过高 [敏捷](Dexterity.md "Dexterity") 分数、[熟练项](Proficiency.md "Proficiency") 和 [专精](Expertise.md "Expertise") 隐匿、敏捷或隐匿检定的 [优势](Advantage.md "Advantage")，以及某些法术和能力（如 [行动无踪](Pass_Without_Trace.md "Pass Without Trace")）来实现。
+如果角色的隐匿值足够高，敌人有时即使他们的盟友在远处被攻击和杀死，也无法注意到他们。这甚至可以与 [火球术](Fireball.md "火球术") 等范围效果法术一起使用，只要施法的队伍成员保持隐藏。敌人会四处奔跑，拼命搜寻该队伍成员但无法找到他们。这可以通过高 [敏捷](Dexterity.md "Dexterity") 分数、[熟练项](Proficiency.md "Proficiency") 和 [专精](Expertise.md "Expertise") 隐匿、敏捷或隐匿检定的 [优势](Advantage.md "Advantage")，以及某些法术和能力（如 [行动无踪](Pass_Without_Trace.md "Pass Without Trace")）来实现。
 
 ### 从隐形状态触发受惊
 
@@ -133,7 +133,7 @@
 ### 第三幕
 
 - 在 [马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days") 上 "[小丑](Dribbles.md "Dribbles")" 表演结束时，除非通过被动 [察觉技能](Perception.md "Perception") 检定注意到伏击，否则队伍成员会受惊（此时伏击者会受惊）。
-- 在 [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe") 的 [恩萨尔的地下室](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe") 中，为完成 [高阶竖琴手](The_High_Harper.md "The High Harper") 任务，可以与一群伪装成竖琴手的 [变形怪](Doppelganger.md "Doppelganger") 对话。对话检定和选择的组合可能导致队伍成员或伏击者受惊。
+- 在 [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe") 的 [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") 中，为完成 [高阶竖琴手](The_High_Harper.md "The High Harper") 任务，可以与一群伪装成竖琴手的 [变形怪](Doppelganger.md "Doppelganger") 对话。对话检定和选择的组合可能导致队伍成员或伏击者受惊。
 
 ---
 *Source: [Initiative](https://bg3.wiki/wiki/Initiative)*

@@ -1,6 +1,6 @@
 # 圣骨碎片
 
-**圣骨碎片**是一种[炼金术材料](Alchemy.md "炼金术")。将3个圣骨碎片组合可制作[神圣瘴气酸解物](Vitriol_of_Divine_Miasma.md "神圣瘴气酸解物")，用于制作[万能抗性灵药](Elixir_of_Universal_Resistance.md "万能抗性灵药")。
+**圣骨碎片**是一种[炼金术](Alchemy.md "炼金术")。将3个圣骨碎片组合可制作[神圣瘴气酸解物](Vitriol_of_Divine_Miasma.md "神圣瘴气酸解物")，用于制作[万能抗性灵药](Elixir_of_Universal_Resistance.md "万能抗性灵药")。
 
 每次触摸这曾是神祇遗骸的碎片时，你手臂上的汗毛都会竖立起来。
 

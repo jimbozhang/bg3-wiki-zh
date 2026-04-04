@@ -88,7 +88,7 @@
 
 - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -96,7 +96,7 @@
 
 在6级时：[中毒](Poison.md "中毒")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
 
-- [**龙族韧性**](Draconic_Resilience.md "龙族韧性")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
 
 不穿护甲时，基础[护甲等级](Armour_Class.md "护甲等级")为13。
 
@@ -104,7 +104,7 @@
 
 当你施放与你龙族血统相关的伤害类型的法术时，你会将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -112,7 +112,7 @@
 
 法术的射程增加50%。近战法术的射程增加至9 m (30 ft)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -160,7 +160,7 @@
 
 - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -168,7 +168,7 @@
 
 在6级时：[中毒](Poison.md "中毒")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
 
-- [**龙族韧性**](Draconic_Resilience.md "龙族韧性")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
 
 不穿护甲时，基础[护甲等级](Armour_Class.md "护甲等级")为13。
 
@@ -176,7 +176,7 @@
 
 当你施放与你龙族血统相关的伤害类型的法术时，你会将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -184,7 +184,7 @@
 
 法术的射程增加50%。近战法术的射程增加至9 m (30 ft)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -232,7 +232,7 @@
 
 - - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -240,7 +240,7 @@
 
 在6级时：[中毒](Poison.md "中毒")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
 
-- [**龙族韧性**](Draconic_Resilience.md "龙族韧性")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
 
 不穿护甲时，基础[护甲等级](Armour_Class.md "护甲等级")为13。
 
@@ -248,7 +248,7 @@
 
 当你施放与你龙族血统相关的伤害类型的法术时，你会将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
@@ -256,7 +256,7 @@
 
 法术的射程增加50%。近战法术的射程增加至9 m (30 ft)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -286,12 +286,12 @@ Stats
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 注释](#notes)
-- [4 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 注释](#注释)
+- [4 外部链接](#外部链接)
 
 ## 参与度
 

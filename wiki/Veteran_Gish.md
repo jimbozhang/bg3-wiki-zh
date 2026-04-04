@@ -6,7 +6,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -70,11 +70,11 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-施放[法术或戏法](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
+施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -118,11 +118,11 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-施放[法术或戏法](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
+施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -166,15 +166,15 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-施放[法术或戏法](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
+施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕刻骨铭心。
 
@@ -196,11 +196,11 @@
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 命名的历战熟手](#named-veteran-gish)
-  - [3.1 精灵之歌酒馆](#elfsong-tavern)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 命名的历战熟手](#命名的历战熟手)
+  - [3.1 精灵之歌酒馆](#精灵之歌酒馆)
 
 ## 参与
 
@@ -220,7 +220,7 @@
 [失明术](Blindness.md "失明术") (+ )
 限制敌人的视线范围。更容易命中，且该生物会更频繁地未命中。对其的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，且敌人攻击时具有[劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [燃烧之手](Burning_Hands.md "燃烧之手") (+ )
@@ -231,21 +231,21 @@
 
 每个可燃目标都会受到 3d6⁠⁠[火焰](Fire.md "火焰")伤害。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：自身
 
 [法术反制](Counterspell.md "法术反制") (+ )
 
 尝试阻止施放法术。
 
-如果该法术的等级高于你用于反制的法术位，你必须使用你的施法关键属性进行一次[检定](Ability_Check.md "属性检定")_\\[[参见注释](Counterspell.md#Notes "法术反制")\\]_来阻止它。检定难度等于 10 加上你试图反制的法术等级。
+如果该法术的等级高于你用于反制的法术位，你必须使用你的施法关键属性进行一次[属性检定](Ability_Check.md "属性检定")_\\[[参见注释](Counterspell.md#Notes "法术反制")\\]_来阻止它。检定难度等于 10 加上你试图反制的法术等级。
 
 此法术可在你[沉默](Silenced_(Condition).md "沉默 (状态)")时施放。
 
 [人类定身术](Hold_Person.md "人类定身术") (+ )
 定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 来自 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")来结束此状态。
 
-[感](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
 [迷踪步](Misty_Step.md "迷踪步") ()

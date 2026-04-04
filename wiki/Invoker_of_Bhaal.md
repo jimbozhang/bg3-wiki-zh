@@ -86,19 +86,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**咒法专注**](Focused_Conjuration.md "咒法专注")
+- [咒法专注](Focused_Conjuration.md "咒法专注")
 
 当你[专注](Concentration.md "专注")于咒法学派法术时，受到的伤害不会打断你的[专注](Concentration.md "专注")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术狙击**](Spell_Sniper.md "法术狙击")
+- [法术狙击](Spell_Sniper.md "法术狙击")
 
 你学会一个戏法，并且使用[法术](Spells.md "法术")攻击时，打出[重击](Critical_Hit.md "重击")所需的点数减少 1。此效果可叠加。
 
@@ -152,19 +152,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**咒法专注**](Focused_Conjuration.md "咒法专注")
+- [咒法专注](Focused_Conjuration.md "咒法专注")
 
 当你[专注](Concentration.md "专注")于咒法学派法术时，受到的伤害不会打断你的[专注](Concentration.md "专注")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术狙击**](Spell_Sniper.md "法术狙击")
+- [法术狙击](Spell_Sniper.md "法术狙击")
 
 你学会一个戏法，并且使用[法术](Spells.md "法术")攻击时，打出[重击](Critical_Hit.md "重击")所需的点数减少 1。此效果可叠加。
 
@@ -210,7 +210,7 @@
 
 投掷一块冰片，造成 1d10[穿刺](Piercing.md "穿刺")伤害。它会爆炸并对附近的任何人造成 2d6[寒冷](Cold.md "寒冷")伤害。它留下一个[冰](Ice_(surface).md) 地表。未命中时，冰片仍会爆炸。
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [冷冻射线](Ray_of_Frost.md "冷冻射线") ()
@@ -226,7 +226,7 @@
 [减速](Slow.md "减速") (+ )
 改变最多 6 个敌人周围的时间以使其减速。他们无法走远，无法做太多事，并且更容易被击中。
 
-[感](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 ## 已知的巴尔之祈

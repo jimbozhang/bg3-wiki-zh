@@ -6,7 +6,7 @@
 
 ## 备注
 
-- 当玩家在其视线范围内杀死一名友方[守卫](Crime.md "犯罪")时，会影响该NPC。
+- 当玩家在其视线范围内杀死一名友方[犯罪](Crime.md "犯罪")时，会影响该NPC。
 
 ---
 *Source: [Witness (Condition)](https://bg3.wiki/wiki/Witness_(Condition)*

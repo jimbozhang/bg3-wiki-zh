@@ -11,7 +11,7 @@
 
 通过求生检定会使互动的队伍成员意识到该孔洞来自一个[食腐虫](https://forgottenrealms.fandom.com/wiki/Carrion_crawler)巢穴，这是一种以死亡生物为食的蜈蚣状生物。
 
-如果队伍成员是矮小体型角色（或通过[伪装术](Disguise_Self.md "Disguise Self")伪装成矮小体型），并将手臂伸入其中一个孔洞，他们的手会触碰到一条“肉肉触手”，并进行一次被动 DC 15 的[感知](Wisdom.md "Wisdom") [检定](Ability_Check.md "Ability check")（如果通过了求生检定则获得优势）。通过检定将为具有[化外之民](Outlander.md "Outlander")背景的队伍成员获得[不入虎穴](Outlander.md#Nest_Egg "Outlander")激励事件，并获得一颗随机的珍贵宝石。
+如果队伍成员是矮小体型角色（或通过[伪装术](Disguise_Self.md "Disguise Self")伪装成矮小体型），并将手臂伸入其中一个孔洞，他们的手会触碰到一条“肉肉触手”，并进行一次被动 DC 15 的[感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定")（如果通过了求生检定则获得优势）。通过检定将为具有[化外之民](Outlander.md "Outlander")背景的队伍成员获得[不入虎穴](Outlander.md#Nest_Egg "Outlander")激励事件，并获得一颗随机的珍贵宝石。
 
 被动检定失败会使互动的队伍成员感到恐惧，他们将不会再次尝试将手臂伸入孔洞。
 

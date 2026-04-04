@@ -21,7 +21,7 @@
 
 持续时间：3 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 12)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 12)
 
 - 该生物正看到无数无法估量的世界幻象——或者他们一直坚持这么认为。
 - 受影响实体[失能](Incapacitated.md "失能")。

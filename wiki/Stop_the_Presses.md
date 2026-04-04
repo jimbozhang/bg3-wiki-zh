@@ -14,14 +14,14 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 叶斯特拉·斯特尔与博德之口公报](#estra-stir-and-the-baldur's-mouth-gazette)
-  - [2.2 阻止诽谤文章](#stopping-the-hit-piece)
-  - [2.3 杀死埃塔瓦德](#killing-ettvard)
-- [3 结果](#result)
-- [4 激励点](#inspiration)
-- [5 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 叶斯特拉·斯特尔与博德之口公报](#叶斯特拉·斯特尔与博德之口公报)
+  - [2.2 阻止诽谤文章](#阻止诽谤文章)
+  - [2.3 杀死埃塔瓦德](#杀死埃塔瓦德)
+- [3 结果](#结果)
+- [4 激励点](#激励点)
+- [5 备注](#备注)
 
 ## 目标
 
@@ -76,7 +76,7 @@
 
 公报地下室。
 
-进入后，有两名钢铁卫士在走廊巡逻。使用[隐形](Invisibility_(spell).md "Invisibility (spell)")、[高等隐形术](Greater_Invisibility.md "Greater Invisibility")或[隐藏](Hide.md "Hide")，启用回合制模式，并使用[疾走](Dash.md "Dash")动作，可以在不引发战斗的情况下潜行通过。两个走廊之间有一扇铁门，可以撬锁。否则，可以进入北侧的房间；那里有路障可以摧毁，以便在两个房间之间自由穿行。通过大门后，就是印刷机。
+进入后，有两名钢铁卫士在走廊巡逻。使用[隐形](Invisibility_(spell).md "Invisibility (spell)")、[高等隐形术](Greater_Invisibility.md "Greater Invisibility")或[躲藏](Hide.md "躲藏")，启用回合制模式，并使用[疾走](Dash.md "Dash")动作，可以在不引发战斗的情况下潜行通过。两个走廊之间有一扇铁门，可以撬锁。否则，可以进入北侧的房间；那里有路障可以摧毁，以便在两个房间之间自由穿行。通过大门后，就是印刷机。
 
 到达印刷室后，小队发现印刷机是一台由名为[多利多利多利](Jelliwig.md "Jelliwig")的妖精魔法驱动的机器。
 

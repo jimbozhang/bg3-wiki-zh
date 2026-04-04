@@ -44,7 +44,7 @@ UID
 
 ## 如何习得
 
-通过[熟练](Proficiency.md "熟练")使用以下武器类型获得：
+通过[熟练项](Proficiency.md "熟练项")使用以下武器类型获得：
 
 - [巨剑](Greatswords.md "巨剑")
 - [长剑](Longswords.md "长剑")
@@ -52,7 +52,7 @@ UID
 ## 备注
 
 - 剑柄打击不会执行主手武器的函数。
-- 对于可被击晕的目标，该伤害为[非致命](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")。
+- 对于可被击晕的目标，该伤害为[非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")。
 
 ---
 *Source: [Pommel Strike](https://bg3.wiki/wiki/Pommel_Strike)*

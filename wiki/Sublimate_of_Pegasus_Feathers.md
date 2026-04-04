@@ -1,6 +1,6 @@
 # 飞马羽升华物
 
-**飞马羽升华物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[英勇灵药](Elixir_of_Heroism.md "英勇灵药")。
+**飞马羽升华物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[英勇灵药](Elixir_of_Heroism.md "英勇灵药")。
 
 飞马源自[极乐境](https://forgottenrealms.fandom.com/wiki/Arborea)。在那里，它们侍奉精灵诸神，翅膀如宽大的扇子般展开在郁郁葱葱的花园上空，羽毛因祝福和生命力的力量而明亮。
 

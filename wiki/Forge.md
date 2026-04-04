@@ -1,6 +1,6 @@
 # 锻炉
 
-这是一个消歧义页面，指向名称模糊的文章。如果某篇文章中的链接将您[带至此处](Special_colon_WhatLinksHere/Forge.md "Special:WhatLinksHere/Forge")，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果某篇文章中的链接将您[锻炉](Special_colon_WhatLinksHere/Forge.md "锻炉")，请考虑编辑该链接，将其指向正确的页面。
 
 **锻炉**可能指：
 

@@ -1,6 +1,6 @@
 # 永恒债务祈唤
 
-**永恒债务祈唤**是一个[等级 6 咒法学派法术](Spells.md "Spells")。此法术仅[拉斐尔](Raphael.md "Raphael")可用，允许他召唤一个[永恒债务人](Eternal_Debtor.md "Eternal Debtor")。队伍成员无法学习此法术。
+**永恒债务祈唤**是一个[法术](Spells.md "法术")。此法术仅[拉斐尔](Raphael.md "Raphael")可用，允许他召唤一个[永恒债务人](Eternal_Debtor.md "Eternal Debtor")。队伍成员无法学习此法术。
 
 ## 描述
 

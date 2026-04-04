@@ -22,7 +22,7 @@
 
 ## 暗夜歌者之眷的来源
 
-- 在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet of Shar")的[莎尔祭坛](Altar_to_Shar.md "Altar to Shar")处，通过一次DC 14的[宗教](Religion.md "宗教")[检定](Ability_Check.md "属性检定")。检定失败将导致被[莎尔之灾](Shar-Stricken_(Condition).md "莎尔之灾 (状态)")诅咒。
+- 在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet of Shar")的[莎尔祭坛](Altar_to_Shar.md "Altar to Shar")处，通过一次DC 14的[宗教](Religion.md "宗教")[属性检定](Ability_Check.md "属性检定")。检定失败将导致被[莎尔之灾](Shar-Stricken_(Condition).md "莎尔之灾 (状态)")诅咒。
 - 如果[影心](Shadowheart.md "影心")在[莎尔](Shar.md "莎尔")的祭坛祈祷，她必须提供比祈祷更多的东西才能获得莎尔的祝福。
 
 ## 备注

@@ -31,12 +31,12 @@
   - 必须通过将 [暗紫水晶](Dark_Amethyst.md "暗紫水晶") 放入其封面来解锁这本书，之后最多可以翻动三页，这会触发逐渐变难的 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定") ([难度等级](Difficulty_Class.md "难度等级") 10、15 和 20)。
   - 一次豁免检定失败会使读者受到 [疯狂低语](Whispers_of_Madness_(Condition).md "疯狂低语 (状态)") 的诅咒，第二次失败会使读者受到 [有害知识](Baleful_Knowledge_(Condition).md "有害知识 (状态)") 的诅咒。两者都会对感知检定施加 [劣势](Disadvantage.md "劣势")，但前者可以通过 [长休](Long_Rest.md "长休") 清除，而后者只能通过 [移除诅咒](Remove_Curse.md "移除诅咒") 清除。
   - 某些职业和某些队伍成员有特殊选项可以修改或降低这些难度等级；使用任何这些选项都会导致相同的结果。
-    - [吟游诗人](Bard.md "吟游诗人") 可以进行难度等级 5、10 和 15 的 [表演](Performance.md "表演") [检定](Ability_Check.md "属性检定")。
-    - [术士](Sorcerer.md "术士") 可以进行难度等级 5、10 和 15 的 [魅力](Charisma.md "魅力") [检定](Ability_Check.md "属性检定")。
-    - [邪术师](Warlock.md "邪术师") 可以为第一页进行一次难度等级 5 的 [魅力](Charisma.md "魅力") [检定](Ability_Check.md "属性检定")。其他页面使用默认的感知豁免。
-    - [法师](Wizard.md "法师") 可以为第一页进行一次难度等级 5 的 [智力](Intelligence.md "智力") [检定](Ability_Check.md "属性检定")。其他页面使用默认的感知豁免。
-    - 邪恶阵营神祇的 [牧师](Cleric.md "牧师") 为第三页获得一次难度等级 10 的 [感知](Wisdom.md "感知") [检定](Ability_Check.md "属性检定")。这包括作为 [莎尔](Shar.md "莎尔") 牧师的 [影心](Shadowheart.md "影心")。
-- [阿斯代伦](Astarion.md "阿斯代伦") 有一个特殊选项：_“啜饮黑暗，拥抱它，然后翻页，”_ 用于翻动第三页，需要一次难度等级 15 的 [感知](Wisdom.md "感知") [检定](Ability_Check.md "属性检定")。
+    - [吟游诗人](Bard.md "吟游诗人") 可以进行难度等级 5、10 和 15 的 [表演](Performance.md "表演") [属性检定](Ability_Check.md "属性检定")。
+    - [术士](Sorcerer.md "术士") 可以进行难度等级 5、10 和 15 的 [魅力](Charisma.md "魅力") [属性检定](Ability_Check.md "属性检定")。
+    - [邪术师](Warlock.md "邪术师") 可以为第一页进行一次难度等级 5 的 [魅力](Charisma.md "魅力") [属性检定](Ability_Check.md "属性检定")。其他页面使用默认的感知豁免。
+    - [法师](Wizard.md "法师") 可以为第一页进行一次难度等级 5 的 [智力](Intelligence.md "智力") [属性检定](Ability_Check.md "属性检定")。其他页面使用默认的感知豁免。
+    - 邪恶阵营神祇的 [牧师](Cleric.md "牧师") 为第三页获得一次难度等级 10 的 [感知](Wisdom.md "感知") [属性检定](Ability_Check.md "属性检定")。这包括作为 [莎尔](Shar.md "莎尔") 牧师的 [影心](Shadowheart.md "影心")。
+- [阿斯代伦](Astarion.md "阿斯代伦") 有一个特殊选项：_“啜饮黑暗，拥抱它，然后翻页，”_ 用于翻动第三页，需要一次难度等级 15 的 [感知](Wisdom.md "感知") [属性检定](Ability_Check.md "属性检定")。
   - 翻动至少一页会永久授予读者 [死者交谈](Speak_with_Dead.md "死者交谈")。该法术可以作为 [仪式](Spells.md#仪式法术 "法术") 施放，并且不消耗 [法术位](Spell_Slot.md "法术位")。
   - 翻动三页，无论成功与否，都会授予 _禁忌的知识_ [标签](Tags.md "标签") 和 [禁忌的知识](Forbidden_Knowledge.md "禁忌的知识") 被动特性。
   - 在翻动三页之前关闭书籍会使任务 [搜查地窖](Search_the_Cellar.md "搜查地窖") 未完成，并允许读者稍后重新打开书籍。

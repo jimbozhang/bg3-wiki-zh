@@ -1,6 +1,6 @@
 # 湿地发蓬
 
-**湿地发蓬**是一种[炼金术材料](Alchemy.md "炼金术")。将3个湿地发蓬组合可制成[湿地发蓬升华物](Sublimate_of_Wispweed.md "湿地发蓬升华物")，用于制作[光荣一跃药水](Potion_of_Glorious_Vaulting.md "光荣一跃药水")。
+**湿地发蓬**是一种[炼金术](Alchemy.md "炼金术")。将3个湿地发蓬组合可制成[湿地发蓬升华物](Sublimate_of_Wispweed.md "湿地发蓬升华物")，用于制作[光荣一跃药水](Potion_of_Glorious_Vaulting.md "光荣一跃药水")。
 
 因单相思而遭拒的年轻人常醉酒后误入剑湾沿岸的[银光沼泽](https://forgottenrealms.fandom.com/wiki/Silverwisp_Swamp)等沼泽。有些人就此失踪。据传这种植物是溺水者头皮上散落的发丝。
 

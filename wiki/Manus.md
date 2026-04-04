@@ -88,11 +88,11 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -142,11 +142,11 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -196,11 +196,11 @@
 
 - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -230,19 +230,19 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 终焉光芒旅店](#last-light-inn)
-    - [1.1.2 伏击](#ambush)
-    - [1.1.3 伏击之后](#after-the-ambush)
-    - [1.1.4 进攻月出之塔](#assault-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 终焉光芒旅店](#终焉光芒旅店)
+    - [1.1.2 伏击](#伏击)
+    - [1.1.3 伏击之后](#伏击之后)
+    - [1.1.4 进攻月出之塔](#进攻月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 参与情况
 
@@ -252,7 +252,7 @@ UUID
 
 如果通过[复仇之炉](Grymforge.md "复仇之炉")到达[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，马努斯会首先出现在终焉光芒旅店南岸码头巡逻。
 
-与[贾希拉](Jaheira.md "贾希拉")交谈后，马努斯会与[布兰索斯](Branthos.md "布兰索斯")、[埃林代尔](Elindale.md "埃林代尔")、[兰桑德拉](Lassandra.md "兰桑德拉")和[斯凯温](Skywin.md "斯凯温")一起移动到终焉光芒旅店前的桥上。他们等待着队伍，以便能够拦截并[伏击](Follow_the_Convoy.md "跟随护卫队")附近的一支至上真神教徒护卫队，以获取对抗[幽影诅咒](Shadow_Curse.md "幽影诅咒")的[保护来源](Seek_Protection_from_the_Shadow_Curse.md "寻求幽影诅咒的保护")。接受任务后，马努斯和他的竖琴手小队会给武器施放[光亮术](Light.md "光亮术")，并移动到[废弃战场](Ruined_Battlefield.md "废弃战场")，在那里伏击[至上真神教](Absolute.md "至上真神教")护卫队。队伍可以立即与小组一同前往，也可以稍后赶上，因为伏击地点会在他们的地图上标记出来。
+与[贾希拉](Jaheira.md "贾希拉")交谈后，马努斯会与[布兰索斯](Branthos.md "布兰索斯")、[埃林代尔](Elindale.md "埃林代尔")、[兰桑德拉](Lassandra.md "兰桑德拉")和[斯凯温](Skywin.md "斯凯温")一起移动到终焉光芒旅店前的桥上。他们等待着队伍，以便能够拦截并[跟随护卫队](Follow_the_Convoy.md "跟随护卫队")附近的一支至上真神教徒护卫队，以获取对抗[幽影诅咒](Shadow_Curse.md "幽影诅咒")的[保护来源](Seek_Protection_from_the_Shadow_Curse.md "寻求幽影诅咒的保护")。接受任务后，马努斯和他的竖琴手小队会给武器施放[轻型](Light.md "轻型")，并移动到[废弃战场](Ruined_Battlefield.md "废弃战场")，在那里伏击[至上真神教](Absolute.md "至上真神教")护卫队。队伍可以立即与小组一同前往，也可以稍后赶上，因为伏击地点会在他们的地图上标记出来。
 
 如果与[伊索贝尔](Isobel_Thorm.md "伊索贝尔·索姆")交谈并触发与[马库斯](Marcus_Falgor.md "马库斯·法尔戈")的战斗，马努斯会移动到桥上，远离战斗范围。如果伊索贝尔没有被拯救，马努斯会变成[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物（状态）")。
 
@@ -262,7 +262,7 @@ UUID
 
 或者，队伍可以说服卡'尼斯交出月亮提灯，并将护卫队成员的命运交给他们成为[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物（状态）")。无论哪种方式，埃林代尔和他的小队都会友好地离开并返回终焉光芒旅店。
 
-如果选择通过[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")到达幽影诅咒之地，一名地精会迎接队伍，并将他们送到一个会合点，等待[卡'尼斯](Kar'niss.md "卡'尼斯")和[护卫队](Follow_the_Convoy.md "跟随护卫队")引导他们前往[月出之塔](Moonrise_Towers.md "月出之塔")，在那里队伍可以[冒充](Infiltrate_Moonrise_Towers.md "潜入月出之塔")[真魂者](True_Soul.md "真魂者")。这会开始[跟随护卫队](Follow_the_Convoy.md "跟随护卫队")。
+如果选择通过[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")到达幽影诅咒之地，一名地精会迎接队伍，并将他们送到一个会合点，等待[卡'尼斯](Kar'niss.md "卡'尼斯")和[跟随护卫队](Follow_the_Convoy.md "跟随护卫队")引导他们前往[月出之塔](Moonrise_Towers.md "月出之塔")，在那里队伍可以[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")[真魂者](True_Soul.md "真魂者")。这会开始[跟随护卫队](Follow_the_Convoy.md "跟随护卫队")。
 
 卡'尼斯将队伍以及护卫队的其他成员运送到月出之塔。在旅途中，马努斯与布兰索斯、埃林代尔和斯凯温一起伏击了护卫队。队伍可以选择倒戈攻击护卫队并帮助竖琴手，或者保护护卫队以便潜入月出之塔。
 

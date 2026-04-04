@@ -4,7 +4,7 @@
 
 ## 描述
 
-恢复 2d4+2⁠⁠[生命值](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧（状态）")。
+恢复 2d4+2⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧（状态）")。
 
 ## 属性
 

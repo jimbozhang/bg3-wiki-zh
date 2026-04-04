@@ -90,19 +90,19 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -156,19 +156,19 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -222,19 +222,19 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -264,19 +264,19 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 伙伴好感度](#companion-approval)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 盟友](#allies)
-  - [3.3 遭遇详情](#encounter-details)
-  - [3.4 战术](#tactics)
-  - [3.5 战利品](#loot)
-- [4 相关任务](#related-quests)
-- [5 空闲对话](#idle-banter)
-- [6 注释与参考](#notes-and-references)
-- [7 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 盟友](#盟友)
+  - [3.3 遭遇详情](#遭遇详情)
+  - [3.4 战术](#战术)
+  - [3.5 战利品](#战利品)
+- [4 相关任务](#相关任务)
+- [5 空闲对话](#空闲对话)
+- [6 注释与参考](#注释与参考)
+- [7 外部链接](#外部链接)
 
 ## 出场
 
@@ -284,7 +284,7 @@ UUID
 
 安德斯、[赛丽尔](Cyrel.md "赛丽尔")、[特里恩](Trynn.md "特里恩") 和一名[未命名](Refugee_(The_Risen_Road).md "难民 (晋升之路)") 的已故第四名同伴位于 [晋升之路收费站](The_Risen_Road.md#Toll_House "晋升之路")。<sup>[\[1\]](#cite_note-1)</sup> 如果与他交谈，安德斯会告诉队伍收费站处于提尔的守护之下。他解释说，他们正在追捕一个危险的单角魔鬼，它对难民进行了屠杀，并伪装成 [提夫林](Tiefling.md "提夫林")。他请求队伍协助追捕魔鬼，从而触发任务 [狩猎魔鬼](Hunt_the_Devil.md "狩猎魔鬼")。
 
-队伍可以通过多种方式发现这些“提尔信徒”的骗局，包括在与安德斯互动时通过 DC 15 的 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定")，作为 [牧师](Cleric.md "牧师") 挑战他背诵信条，或者通过 [死者交谈](Speak_with_Dead.md "死者交谈") 与隔壁房间的未命名同伴尸体交谈。这揭示了他是一名与大魔鬼 [扎瑞尔](Zariel.md "扎瑞尔") 签订契约的堕落提尔圣武士。<sup>[\[2\]](#cite_note-2)</sup>
+队伍可以通过多种方式发现这些“提尔信徒”的骗局，包括在与安德斯互动时通过 DC 15 的 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定")，作为 [牧师](Cleric.md "牧师") 挑战他背诵信条，或者通过 [死者交谈](Speak_with_Dead.md "死者交谈") 与隔壁房间的未命名同伴尸体交谈。这揭示了他是一名与大魔鬼 [扎瑞尔](Zariel.md "扎瑞尔") 签订契约的堕落提尔圣武士。<sup>[\[2\]](#cite_note-2)</sup>
 
 如果队伍将 [卡菈克的头](Karlach's_Head.md "卡菈克的头") 带给安德斯，他会用他的 [正义神剑](Sword_of_Justice.md "正义神剑") 作为奖励。否则，战斗爆发，可以从他的尸体上拾取这把剑。杀死安德斯会授予拥有 [士兵](Soldier.md "士兵") 背景的队伍成员 [地狱战士](Soldier.md#Warrior_of_the_Hells "士兵") 激励点，如果 [莱埃泽尔](Lae'zel.md "莱埃泽尔") 在场，她也包括在内。
 

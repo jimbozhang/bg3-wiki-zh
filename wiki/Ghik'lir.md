@@ -97,7 +97,7 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 | 运动 | 体操 | 察觉技能 |
 | --- | --- | --- |
@@ -109,15 +109,15 @@
 
 使用你的[反应](reaction.md "反应")将来自[远程武器攻击](Ranged Weapon Attack.md "远程武器攻击")的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "调整值") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击被视为魔法攻击，用于克服敌人对非魔法伤害的抗性和免疫。
 
@@ -131,11 +131,11 @@
 
 武僧武器和徒手攻击造成 1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，除非其正常伤害更高。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害 - 灵吸怪奴役的伤痕深重。
 
@@ -199,7 +199,7 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 | 运动 | 体操 | 察觉技能 |
 | --- | --- | --- |
@@ -211,15 +211,15 @@
 
 使用你的[反应](reaction.md "反应")将来自[远程武器攻击](Ranged Weapon Attack.md "远程武器攻击")的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "调整值") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击被视为魔法攻击，用于克服敌人对非魔法伤害的抗性和免疫。
 
@@ -233,11 +233,11 @@
 
 武僧武器和徒手攻击造成 1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，除非其正常伤害更高。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害 - 灵吸怪奴役的伤痕深重。
 
@@ -301,7 +301,7 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 | 运动 | 体操 | 察觉技能 |
 | --- | --- | --- |
@@ -313,15 +313,15 @@
 
 使用你的[反应](reaction.md "反应")将来自[远程武器攻击](Ranged Weapon Attack.md "远程武器攻击")的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "调整值") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 可以在徒手或武器攻击后进行一次额外攻击。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击被视为魔法攻击，用于克服敌人对非魔法伤害的抗性和免疫。
 
@@ -335,11 +335,11 @@
 
 武僧武器和徒手攻击造成 1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，除非其正常伤害更高。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害 - 灵吸怪奴役的伤痕深重。
 
@@ -373,14 +373,14 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
 
 ## 参与
 
-吉基尔与他的吉斯洋基武僧同伴[Hr'ack'la](Hr'ack'la.md "Hr'ack'la")和[Nyk](Nyk.md "Nyk")一起，是[俄耳甫斯](Orpheus.md "俄耳甫斯")的荣誉卫队成员。当卫队试图释放俄耳甫斯并逃离[星界棱镜](Mysterious_Artefact.md "神秘遗物")时，这三人在[第三幕](Act_Three.md "第三幕")开始时，在前往[博德之门](Baldur's_Gate.md "博德之门")的路上，于[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")外的第一次长休期间与队伍发生冲突。
+吉基尔与他的吉斯洋基武僧同伴[Hr'ack'la](Hr'ack'la.md "Hr'ack'la")和[Nyk](Nyk.md "Nyk")一起，是[俄耳甫斯](Orpheus.md "俄耳甫斯")的荣誉卫队成员。当卫队试图释放俄耳甫斯并逃离[神秘遗物](Mysterious_Artefact.md "神秘遗物")时，这三人在[第三幕](Act_Three.md "第三幕")开始时，在前往[博德之门](Baldur's_Gate.md "博德之门")的路上，于[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")外的第一次长休期间与队伍发生冲突。
 
 ## 战斗
 

@@ -3,7 +3,7 @@
 **脆弱诅咒：力量**
 
 - 生物受到施法者额外的 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
-- 其在[力量](Strength.md "Strength")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 其在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 [被诅咒](Cursed_(status_group).md)
 

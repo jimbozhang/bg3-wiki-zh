@@ -8,7 +8,7 @@
 
 | 名称 | 描述 |
 | --- | --- |
-| 属性提升 | 将一项[属性值](Abilities.md "Abilities")提高 2 点，或将两项属性值各提高 1 点，最高不超过 20。 |
+| 属性提升 | 将一项[属性](Abilities.md "属性")提高 2 点，或将两项属性值各提高 1 点，最高不超过 20。 |
 | 演员 | [演员](Actor.md "Actor") |
 | 你的[魅力](Charisma.md "Charisma")属性值提高 1 点，最高不超过 20。你获得[欺瞒](Deception.md "Deception")和[表演](Performance.md "Performance")的[专精](Proficiency#Expertise.md#Expertise "Proficiency")。 |  |
 | 备注 |  |
@@ -28,7 +28,7 @@
 | [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "Crossbow Expert: Wounding") |  |
 | 你的[穿刺射击](Piercing_Shot.md "Piercing Shot")还会施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")状态，持续时间加倍。 |  |
 | 防御式决斗 | [防御式决斗](Defensive_Duellist.md "Defensive_Duellist") |
-| 当你使用[灵巧](Finesse.md "Finesse")武器且[熟练](Proficiency.md "Proficiency")该武器时，若被近战攻击攻击，你可以使用[反应](Actions#Reactions.md#Reactions "Actions")来提高你的[护甲等级](Armour_Class.md "Armour Class")，提高值为你的熟练项加值，这可能导致攻击未命中。需要[敏捷](Dexterity.md "Dexterity")至少为 13。 |  |
+| 当你使用[灵巧](Finesse.md "Finesse")武器且[熟练项](Proficiency.md "熟练项")该武器时，若被近战攻击攻击，你可以使用[反应](Actions#Reactions.md#Reactions "Actions")来提高你的[护甲等级](Armour_Class.md "Armour Class")，提高值为你的熟练项加值，这可能导致攻击未命中。需要[敏捷](Dexterity.md "Dexterity")至少为 13。 |  |
 | 备注 |  |
 | 主手装备的武器必须具有灵巧属性。 |  |
 | 双持客 | [双持客](Dual_Wielder.md "Dual_Wielder") |
@@ -36,7 +36,7 @@
 | [双持客：附赠护甲等级](Dual_Wielder_colon__Bonus_Armour_Class.md "Dual Wielder: Bonus Armour Class") |  |
 | 当你每只手都持有一把近战武器时，你的[护甲等级](Armour_Class.md "Armour Class")获得 +1 加值。 |  |
 | 备注 |  |
-| 此专长允许生物双持非[轻型](Light_(weapon_property).md "Light (weapon property)")的武器，前提是它们不是[双手](Two-Handed.md "Two-Handed")武器。但是，它不会授予[双武器战斗风格](Two-Weapon_Fighting.md "Two-Weapon Fighting")；没有此风格，持用者在副手近战伤害掷骰中仍然不会添加其[属性调整值](Ability_Modifier.md "Ability Modifier")。简单近战武器：[标枪](Javelins.md "Javelins")、[硬头锤](Maces.md "Maces")、[长棍](Quarterstaves.md "Quarterstaves")和[短矛](Spears.md "Spears")。 martial 近战武器：[战斧](Battleaxes.md "Battleaxes")、[链枷](Flails.md "Flails")、[长剑](Longswords.md "Longswords")、[钉头锤](Morningstars.md "Morningstars")、[刺剑](Rapiers.md "Rapiers")、[三叉戟](Tridents.md "Tridents")、[战镐](War_Picks.md "War Picks")和[战锤](Warhammers.md "Warhammers")。 |  |
+| 此专长允许生物双持非[轻型](Light_(weapon_property).md "Light (weapon property)")的武器，前提是它们不是[双手](Two-Handed.md "Two-Handed")武器。但是，它不会授予[双武器战斗](Two-Weapon_Fighting.md "双武器战斗")；没有此风格，持用者在副手近战伤害掷骰中仍然不会添加其[属性调整值](Ability_Modifier.md "Ability Modifier")。简单近战武器：[标枪](Javelins.md "Javelins")、[硬头锤](Maces.md "Maces")、[长棍](Quarterstaves.md "Quarterstaves")和[短矛](Spears.md "Spears")。 martial 近战武器：[战斧](Battleaxes.md "Battleaxes")、[链枷](Flails.md "Flails")、[长剑](Longswords.md "Longswords")、[钉头锤](Morningstars.md "Morningstars")、[刺剑](Rapiers.md "Rapiers")、[三叉戟](Tridents.md "Tridents")、[战镐](War_Picks.md "War Picks")和[战锤](Warhammers.md "Warhammers")。 |  |
 | 地牢探索者 | [地牢探索者：察觉](Dungeon_Delver_colon__Perception.md "Dungeon Delver: Perception") |
 | 你在用于探测隐藏物体的[察觉技能](Perception.md "Perception")检定和用于躲避或抵抗陷阱的[豁免检定](Saving_throw.md "Saving Throw")上获得[优势](Advantage.md "Advantage")。 |  |
 | [地牢探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "Dungeon Delver: Resist Traps") |  |
@@ -51,7 +51,7 @@
 | 巨武器大师 | [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "Great Weapon Master: Bonus Attack") |
 | 当近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或杀死一个生物时，你可以在该回合使用[附赠动作](Actions#Resources.md#Resources "Actions")进行另一次近战武器攻击。 |  |
 | [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "Great Weapon Master: All In") |  |
-| 当使用你[熟练](Proficiency.md "Proficiency")的[双手](Two-Handed.md "Two-Handed")或[两用](Versatile.md "Versatile")近战武器（双手持握）进行攻击时，[攻击掷骰](Attack_roll.md "Attack Roll")会受到 -5 惩罚，但伤害增加 10。 |  |
+| 当使用你[熟练项](Proficiency.md "熟练项")的[双手](Two-Handed.md "Two-Handed")或[两用](Versatile.md "Versatile")近战武器（双手持握）进行攻击时，[攻击掷骰](Attack_roll.md "Attack Roll")会受到 -5 惩罚，但伤害增加 10。 |  |
 | 备注 |  |
 | 全力一击是一个可切换的被动能力。 |  |
 | 重甲运用 | [重甲运用](Heavily_Armoured.md "Heavily Armoured") |
@@ -95,7 +95,7 @@
 | 灵活移动 | [灵活移动](Mobile.md "Mobile") |
 | 你的[移动速度](Movement_speed.md "Movement Speed")增加 3 米（10 英尺）。 |  |
 | [灵活移动：回避劣势地形](Mobile_colon__Evade_Difficult_Terrain.md "Mobile: Evade Difficult Terrain") |  |
-| 当你使用[冲刺](Dash.md "Dash")动作时，[劣势地形](Difficult_Terrain.md "Difficult Terrain")不会减慢你的速度。 |  |
+| 当你使用[疾走](Dash.md "疾走")动作时，[劣势地形](Difficult_Terrain.md "Difficult Terrain")不会减慢你的速度。 |  |
 | [灵活移动：躲避借机攻击](Mobile_colon__Evade_Opportunity_Attack.md "Mobile: Evade Opportunity Attack") |  |
 | 如果你在进行近战攻击后移动，你不会从该目标引发[借机攻击](Opportunity_Attack.md "Opportunity Attack")。 |  |
 | 中甲运用 | [中甲运用](Moderately_Armoured.md "Moderately Armoured") |
@@ -108,9 +108,9 @@
 | 当目标进入范围内时，你也可以进行[借机攻击](Opportunity_Attack.md "Opportunity Attack")。 |  |
 | 备注 |  |
 | 此攻击的伤害调整值使用力量或敏捷中较高者，即使武器没有[灵巧](Finesse.md "Finesse")属性。当使用[橡棍术](Shillelagh.md "Shillelagh")时，这仍然成立。长柄武器大师对长矛有效，尽管游戏中未说明。（见 [[](#cite_note-PikesPolearmMaster-2 "[")注 2]）如果在升级时选择此专长，之后在角色表的“显著特性”下没有指示。此外，被动[长柄武器大师：附赠攻击](Polearm_Master_colon__Bonus_Attack.md "Polearm Master: Bonus Attack")和[长柄武器大师：借机攻击](Polearm_Master_colon__Opportunity_Attack.md "Polearm Master: Opportunity Attack")是[情境动作](Actions#Overview.md#Overview "Actions")，仅在战斗中在热键栏上可见。 |  |
-| 坚如磐石 | 你将一项[属性](Ability_Scores.md "Ability Scores")提高 1 点，最高不超过 20。获得该属性[豁免检定](Saving_throw.md "Saving Throw")的[熟练项](Proficiency.md "Proficiency")。可用的被动特性是：[坚如磐石：力量](Resilient_colon__Strength.md "Resilient: Strength") [坚如磐石：敏捷](Resilient_colon__Dexterity.md "Resilient: Dexterity") [坚如磐石：体质](Resilient_colon__Constitution.md "Resilient: Constitution") [坚如磐石：智力](Resilient_colon__Intelligence.md "Resilient: Intelligence") [坚如磐石：感知](Resilient_colon__Wisdom.md "Resilient: Wisdom") [坚如磐石：魅力](Resilient_colon__Charisma.md "Resilient: Charisma") |
+| 坚如磐石 | 你将一项[属性值](Ability_Scores.md "属性值")提高 1 点，最高不超过 20。获得该属性[豁免检定](Saving_throw.md "Saving Throw")的[熟练项](Proficiency.md "Proficiency")。可用的被动特性是：[坚如磐石：力量](Resilient_colon__Strength.md "Resilient: Strength") [坚如磐石：敏捷](Resilient_colon__Dexterity.md "Resilient: Dexterity") [坚如磐石：体质](Resilient_colon__Constitution.md "Resilient: Constitution") [坚如磐石：智力](Resilient_colon__Intelligence.md "Resilient: Intelligence") [坚如磐石：感知](Resilient_colon__Wisdom.md "Resilient: Wisdom") [坚如磐石：魅力](Resilient_colon__Charisma.md "Resilient: Charisma") |
 | 备注 |  |
-| 此[属性](Ability_Scores.md "Ability Scores")增加适用于[德鲁伊](Druid.md "Druid")在[荒野形态](Wild_Shape.md "Wild Shape")中。[[](#cite_note-DruidWSInteractions-1 "[")注 1] |  |
+| 此[属性值](Ability_Scores.md "属性值")增加适用于[德鲁伊](Druid.md "Druid")在[荒野形态](Wild_Shape.md "Wild Shape")中。[[](#cite_note-DruidWSInteractions-1 "[")注 1] |  |
 | 仪式施法者 | [仪式施法者：法术研习](Ritual_Caster_colon__Free_Spells.md "Ritual Caster: Free Spells") |
 | 你学习两个你选择的[仪式](Spells#Ritual_spells.md#Ritual_spells "Spells")法术。 |  |
 | 备注 |  |

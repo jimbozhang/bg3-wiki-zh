@@ -3,7 +3,7 @@
 | 状态 | 效果 |
 | --- | --- |
 | [诗人激励](Bardic_Inspiration_(Condition).md "诗人激励 (状态)") | 可以使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励 (职业动作)")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d6加值。加值取决于来源[吟游诗人](Bard.md "吟游诗人")的等级 |
-| [战斗激励](Combat_Inspiration_(Condition).md "战斗激励 (状态)") | 可以使用其[诗人激励](Combat_Inspiration.md "战斗激励")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d6加值。他们也可以选择为下一个武器攻击的伤害添加+1d6加值，或为一次攻击的[护甲等级](Armour_Class.md "护甲等级")添加+1d6加值。加值取决于来源[吟游诗人](Bard.md "吟游诗人")的等级 |
+| [战斗激励](Combat_Inspiration_(Condition).md "战斗激励 (状态)") | 可以使用其[战斗激励](Combat_Inspiration.md "战斗激励")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d6加值。他们也可以选择为下一个武器攻击的伤害添加+1d6加值，或为一次攻击的[护甲等级](Armour_Class.md "护甲等级")添加+1d6加值。加值取决于来源[吟游诗人](Bard.md "吟游诗人")的等级 |
 | 精通诗人激励 | 可以使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励 (职业动作)")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d12加值。 |
 
 ## 属性
@@ -33,7 +33,7 @@
 | 状态 | 效果 |
 | --- | --- |
 | [诗人激励](Bardic_Inspiration_(Condition).md "诗人激励 (状态)") | 可以使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励 (职业动作)")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d6加值。加值取决于来源[吟游诗人](Bard.md "吟游诗人")的等级 |
-| [战斗激励](Combat_Inspiration_(Condition).md "战斗激励 (状态)") | 可以使用其[诗人激励](Combat_Inspiration.md "战斗激励")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d6加值。他们也可以选择为下一个武器攻击的伤害添加+1d6加值，或为一次攻击的[护甲等级](Armour_Class.md "护甲等级")添加+1d6加值。加值取决于来源[吟游诗人](Bard.md "吟游诗人")的等级 |
+| [战斗激励](Combat_Inspiration_(Condition).md "战斗激励 (状态)") | 可以使用其[战斗激励](Combat_Inspiration.md "战斗激励")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d6加值。他们也可以选择为下一个武器攻击的伤害添加+1d6加值，或为一次攻击的[护甲等级](Armour_Class.md "护甲等级")添加+1d6加值。加值取决于来源[吟游诗人](Bard.md "吟游诗人")的等级 |
 | 精通诗人激励 | 可以使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励 (职业动作)")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d12加值。 |
 
 ## 拥有精通诗人激励的生物
@@ -48,7 +48,7 @@ _维基数据库中未定义_
 [战斗激励](Combat_Inspiration_(Condition).md "战斗激励 (状态)")
 |
 
-- 可以使用其[诗人激励](Combat_Inspiration.md "战斗激励")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d6加值。
+- 可以使用其[战斗激励](Combat_Inspiration.md "战斗激励")为下一个[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")添加+1d6加值。
 - 他们也可以选择为下一个武器攻击的伤害添加+1d6加值，或为一次攻击的[护甲等级](Armour_Class.md "护甲等级")添加+1d6加值
 - 加值取决于来源[吟游诗人](Bard.md "吟游诗人")的等级
 

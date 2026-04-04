@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 - 稀有度：普通
 - 重量：0.7 kg (1.4 lb)
 - 价格：5 gp

@@ -12,9 +12,9 @@
 [动作](Actions.md#Resources "动作")
 伤害：3~16 + 调整值
 
-1d4 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
+1d4 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")
 
-\+ 2d6 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")（对[倒伏](Prone_(Condition).md "倒伏 (状态)")目标）
+\+ 2d6 + [灵巧](Finesse.md "灵巧")⁠[穿刺](Piercing.md "穿刺")（对[倒伏](Prone_(Condition).md "倒伏 (状态)")目标）
 
 详情
 近战徒手[攻击掷骰](Attack_roll.md "攻击掷骰")

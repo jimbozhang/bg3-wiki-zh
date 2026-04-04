@@ -97,15 +97,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出1或2的骰子可重掷一次。
 
@@ -113,7 +113,7 @@
 
 当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "Superiority Die")进行反击。
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "Attack rolls")获得[优势](Advantage.md "Advantage")。
 
@@ -165,15 +165,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出1或2的骰子可重掷一次。
 
@@ -181,7 +181,7 @@
 
 当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "Superiority Die")进行反击。
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "Attack rolls")获得[优势](Advantage.md "Advantage")。
 
@@ -233,15 +233,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当进行[双手](Two-Handed.md "Two-Handed")近战伤害掷骰时，任何掷出1或2的骰子可重掷一次。
 
@@ -249,7 +249,7 @@
 
 当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "Superiority Die")进行反击。
 
-- [**方阵队形**](Phalanx_Formation.md "Phalanx Formation")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与一名持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "Attack rolls")获得[优势](Advantage.md "Advantage")。
 
@@ -279,10 +279,10 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与
 

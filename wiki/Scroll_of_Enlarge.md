@@ -26,7 +26,7 @@
 [体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - [体型](Creature_size.md "生物体型")增大。
-- 武器攻击造成额外 **1d4** 伤害。在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
+- 武器攻击造成额外 **1d4** 伤害。在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
 ## 状态：缩小
 
@@ -37,7 +37,7 @@
 [体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - [体型](Creature_size.md "生物体型")减小。
-- 武器攻击造成 **1d4** 更少伤害。在[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 武器攻击造成 **1d4** 更少伤害。在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - [负重](Carrying_capacity.md "负重")减少 25%
 
 ## 获取地点

@@ -102,7 +102,7 @@
 | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 14 / (+2) | 16 / (+3) | 16 / (+3) | 18 / (+4) |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -114,39 +114,39 @@
 
 ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 将 [魅力](Charisma.md "Charisma") 调整值加入 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 伤害。
 
-- [**黑暗强运**](Dark_One's_Own_Luck.md "黑暗强运")
+- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
 
 召唤你的宗主改变命运，为一次 [属性检定](Ability_Check.md "Ability Check") 增加 1d10。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离内在黑暗中视物。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 能在黑暗中视物，包括魔法黑暗，最远 24 米 (80 英尺)。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 拥有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害拥有 [抗性](Resistance.md "Resistance")。
 
-- [**魔能短矛**](Eldritch_Spear.md "魔能短矛")
+- [魔能短矛](Eldritch_Spear.md "魔能短矛")
 
 你的 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 范围增加一半。
 
-- [**传染贪婪**](Infectious_Greed.md "传染贪婪")
+- [传染贪婪](Infectious_Greed.md "传染贪婪")
 
 被玛门提供给最虔诚信徒的财富所诱惑，此生物周围的所有盟友都会受到 [传染贪婪](Infectious_Greed_(Condition).md "传染贪婪 (状态)") 的影响。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 可将一个生物推开最多 4.5 米 (15 英尺)。
 
@@ -192,7 +192,7 @@
 | --- | --- | --- | --- | --- | --- |
 |  | +2 | +2 | +3 | +7 | +8 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -204,39 +204,39 @@
 
 ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 将 [魅力](Charisma.md "Charisma") 调整值加入 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 伤害。
 
-- [**黑暗强运**](Dark_One's_Own_Luck.md "黑暗强运")
+- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
 
 召唤你的宗主改变命运，为一次 [属性检定](Ability_Check.md "Ability Check") 增加 1d10。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离内在黑暗中视物。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 能在黑暗中视物，包括魔法黑暗，最远 24 米 (80 英尺)。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 拥有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害拥有 [抗性](Resistance.md "Resistance")。
 
-- [**魔能短矛**](Eldritch_Spear.md "魔能短矛")
+- [魔能短矛](Eldritch_Spear.md "魔能短矛")
 
 你的 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 范围增加一半。
 
-- [**传染贪婪**](Infectious_Greed.md "传染贪婪")
+- [传染贪婪](Infectious_Greed.md "传染贪婪")
 
 被玛门提供给最虔诚信徒的财富所诱惑，此生物周围的所有盟友都会受到 [传染贪婪](Infectious_Greed_(Condition).md "传染贪婪 (状态)") 的影响。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 可将一个生物推开最多 4.5 米 (15 英尺)。
 
@@ -282,7 +282,7 @@
 | --- | --- | --- | --- |
 |  | 2 | 2 | 3 |
 
-## 抗性 [(信息)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - ## 额外资源
 
@@ -294,39 +294,39 @@
 
 ## 特性
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 将 [魅力](Charisma.md "Charisma") 调整值加入 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 伤害。
 
-- [**黑暗强运**](Dark_One's_Own_Luck.md "黑暗强运")
+- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
 
 召唤你的宗主改变命运，为一次 [属性检定](Ability_Check.md "Ability Check") 增加 1d10。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离内在黑暗中视物。
 
-- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 能在黑暗中视物，包括魔法黑暗，最远 24 米 (80 英尺)。
 
-- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 拥有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害拥有 [抗性](Resistance.md "Resistance")。
 
-- [**魔能短矛**](Eldritch_Spear.md "魔能短矛")
+- [魔能短矛](Eldritch_Spear.md "魔能短矛")
 
 你的 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 范围增加一半。
 
-- [**传染贪婪**](Infectious_Greed.md "传染贪婪")
+- [传染贪婪](Infectious_Greed.md "传染贪婪")
 
 被玛门提供给最虔诚信徒的财富所诱惑，此生物周围的所有盟友都会受到 [传染贪婪](Infectious_Greed_(Condition).md "传染贪婪 (状态)") 的影响。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 [魔能爆](Eldritch_Blast.md "Eldritch Blast") 可将一个生物推开最多 4.5 米 (15 英尺)。
 
@@ -356,26 +356,26 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第三幕](#act-three)
-  - [2.2 潜入希望之邸](#breaking-into-the-house-of-hope)
-  - [2.3 从希望之邸返回后](#after-returning-from-the-house-of-hope)
-- [3 商店](#store)
-  - [3.1 常规物品](#regular-items)
-  - [3.2 精选物品](#curated-selection)
-  - [3.3 她面前的桌子上](#on-the-desk-in-front-of-her)
-- [4 战斗](#combat)
-  - [4.1 攻击与能力](#attacks-and-abilities)
-    - [4.1.1 仅限硬核](#tactician-only)
-    - [4.1.2 战利品](#loot)
-- [5 死者交谈](#speak-with-dead)
-- [6 相关文献](#related-literature)
-- [7 相关任务](#related-quests)
-- [8 图库](#gallery)
-- [9 错误](#bugs)
-- [10 注释与参考](#notes-and-references)
-- [11 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第三幕](#第三幕)
+  - [2.2 潜入希望之邸](#潜入希望之邸)
+  - [2.3 从希望之邸返回后](#从希望之邸返回后)
+- [3 商店](#商店)
+  - [3.1 常规物品](#常规物品)
+  - [3.2 精选物品](#精选物品)
+  - [3.3 她面前的桌子上](#她面前的桌子上)
+- [4 战斗](#战斗)
+  - [4.1 攻击与能力](#攻击与能力)
+    - [4.1.1 仅限硬核](#仅限硬核)
+    - [4.1.2 战利品](#战利品)
+- [5 死者交谈](#死者交谈)
+- [6 相关文献](#相关文献)
+- [7 相关任务](#相关任务)
+- [8 图库](#图库)
+- [9 错误](#错误)
+- [10 注释与参考](#注释与参考)
+- [11 外部链接](#外部链接)
 
 ## 概述
 
@@ -385,7 +385,7 @@ Stats
 
 ### 第三幕
 
-赫尔希克最初只提供 [炼金术](Alchemy.md "Alchemy") 材料、[手雷](Grenades.md "Grenades") 和 [染料](Dyes.md "Dyes")，但队伍可以通过通过多次 DC 5 的 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check") 来注意到她收藏中的魔鬼奇珍，并至少通过一次 DC 15 的 [奥秘](Arcana.md "Arcana") [检定](Ability_Check.md "Ability check") 来确认这些物品是真品，从而解锁与她的“精选物品”交易权限。互动的队伍成员可以说 _“经营这家商店的一定是位魔鬼信徒，有这么多魔鬼神器”_ 来解锁精选物品对话。对于 [卡菈克](Karlach.md "Karlach") 来说，由于她在地狱待过，这些奥秘检定的 DC 为 0。
+赫尔希克最初只提供 [炼金术](Alchemy.md "Alchemy") 材料、[手雷](Grenades.md "Grenades") 和 [染料](Dyes.md "Dyes")，但队伍可以通过通过多次 DC 5 的 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定") 来注意到她收藏中的魔鬼奇珍，并至少通过一次 DC 15 的 [奥秘](Arcana.md "Arcana") [属性检定](Ability_Check.md "属性检定") 来确认这些物品是真品，从而解锁与她的“精选物品”交易权限。互动的队伍成员可以说 _“经营这家商店的一定是位魔鬼信徒，有这么多魔鬼神器”_ 来解锁精选物品对话。对于 [卡菈克](Karlach.md "Karlach") 来说，由于她在地狱待过，这些奥秘检定的 DC 为 0。
 
 起初，赫尔希克只有与队伍交易的对话选项，但如果 ⁠[对付魔鬼](Deal_with_the_Devil.md "Deal with the Devil")、⁠[帮助凯斯拉克百夫长沃斯](Help_Kith'rak_Voss.md "Help Kith'rak Voss") 或 ⁠[吉斯洋基战士](The_Githyanki_Warrior.md "The Githyanki Warrior") 进展充分，并且至少通过一次奥秘检定，就会揭示她是一名魔鬼信徒，从而解锁谈论 [希望之邸](House_of_Hope.md "House of Hope") 的特殊对话选项。
 
@@ -393,7 +393,7 @@ Stats
 
 ### 潜入希望之邸
 
-赫尔希克可以帮助队伍潜入地狱，交换条件是 20,000 金币。队伍可以支付全款，或者通过通过 DC 25 的 [威吓](Intimidation.md "Intimidation") [检定](Ability_Check.md "Ability check") 说服她将费用降至 10,000 金币，如果玩家是邪术师，则通过 DC 25 的 [游说](Persuasion.md "Persuasion") [检定](Ability_Check.md "Ability check")。除了支付金币，也可以同意为她从希望之邸偷取 [山丘巨人的力量铁手套](Gauntlets_of_Hill_Giant_Strength.md "Gauntlets of Hill Giant Strength")，这将启动 ⁠[为赫尔希克取回铁手套](Acquire_the_Gauntlets_for_Helsik.md "Acquire the Gauntlets for Helsik")。
+赫尔希克可以帮助队伍潜入地狱，交换条件是 20,000 金币。队伍可以支付全款，或者通过通过 DC 25 的 [威吓](Intimidation.md "Intimidation") [属性检定](Ability_Check.md "属性检定") 说服她将费用降至 10,000 金币，如果玩家是邪术师，则通过 DC 25 的 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定")。除了支付金币，也可以同意为她从希望之邸偷取 [山丘巨人的力量铁手套](Gauntlets_of_Hill_Giant_Strength.md "Gauntlets of Hill Giant Strength")，这将启动 ⁠[为赫尔希克取回铁手套](Acquire_the_Gauntlets_for_Helsik.md "Acquire the Gauntlets for Helsik")。
 
 在说服她提供帮助后，赫尔希克会给予队伍一本 [小魔鬼皮装订魔法书](Grimoire_Bound_in_Imp_Skin.md "Grimoire Bound in Imp Skin")、[开启一扇地狱大门](Opening_a_Hell_Gate.md "Opening a Hell Gate") 和一个包含打开传送门所需物品的 [仪式小袋](Ritual_Pouch.md "Ritual Pouch")。她指引队伍上楼到一个五芒星处，该五芒星会打开通往 [希望之邸](House_of_Hope.md "House of Hope") 的传送门。
 
@@ -401,7 +401,7 @@ Stats
 
 ### 从希望之邸返回后
 
-从希望之邸返回后，如果队伍同意通过 ⁠[为赫尔希克取回铁手套](Acquire_the_Gauntlets_for_Helsik.md "Acquire the Gauntlets for Helsik") 获得 [山丘巨人的力量铁手套](Gauntlets_of_Hill_Giant_Strength.md "Gauntlets of Hill Giant Strength")，赫尔希克会要求铁手套或原定的 20,000 金币费用。队伍可以通过通过 DC 10 的 [威吓](Intimidation.md "Intimidation") [检定](Ability_Check.md "Ability check") 来保留铁手套，而不会使赫尔希克变得敌对。赫尔希克只有在队伍完成希望之邸的所有相关任务后才会要求铁手套。否则，如果队伍没有同意为她获取铁手套，他们可以保留或出售给赫尔希克。
+从希望之邸返回后，如果队伍同意通过 ⁠[为赫尔希克取回铁手套](Acquire_the_Gauntlets_for_Helsik.md "Acquire the Gauntlets for Helsik") 获得 [山丘巨人的力量铁手套](Gauntlets_of_Hill_Giant_Strength.md "Gauntlets of Hill Giant Strength")，赫尔希克会要求铁手套或原定的 20,000 金币费用。队伍可以通过通过 DC 10 的 [威吓](Intimidation.md "Intimidation") [属性检定](Ability_Check.md "属性检定") 来保留铁手套，而不会使赫尔希克变得敌对。赫尔希克只有在队伍完成希望之邸的所有相关任务后才会要求铁手套。否则，如果队伍没有同意为她获取铁手套，他们可以保留或出售给赫尔希克。
 
 ## 商店
 

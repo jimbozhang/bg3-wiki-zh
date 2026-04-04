@@ -1,6 +1,6 @@
 # 魔法飞弹 (灵吸怪奥术师)
 
-**魔法飞弹**是一个[等级 1 塑能学派法术](Spells.md "Spells")。它是[灵吸怪奥术师](Illithid_Arcanist.md "Illithid_Arcanist")独有的[魔法飞弹](Magic_Missile.md "Magic Missile")版本，其效果大致相当于正常法术升环至 4 环。队伍成员无法学习此法术。
+**魔法飞弹**是一个[法术](Spells.md "法术")。它是[灵吸怪奥术师](Illithid_Arcanist.md "Illithid_Arcanist")独有的[魔法飞弹](Magic_Missile.md "Magic Missile")版本，其效果大致相当于正常法术升环至 4 环。队伍成员无法学习此法术。
 
 ## 描述
 

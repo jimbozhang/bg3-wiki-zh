@@ -84,15 +84,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 在对抗[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -136,15 +136,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 在对抗[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -188,15 +188,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 在对抗[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -232,9 +232,9 @@ UUID
 
 然而，如果萨扎在队伍中，芬德尔意识到他撞见了一次救援行动。队伍可以：
 
-- 说服芬德尔是[哈尔辛](Halsin.md "哈尔辛")让他们来释放萨扎 DC 15 [欺瞒](Deception.md "欺瞒") [检定](Ability_Check.md "属性检定")
-- 游说芬德尔萨扎会帮助他们摧毁[地精营地](Goblin_Camp.md "地精营地") DC 15 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")
-- 威吓芬德尔 DC 15 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")
+- 说服芬德尔是[哈尔辛](Halsin.md "哈尔辛")让他们来释放萨扎 DC 15 [欺瞒](Deception.md "欺瞒") [属性检定](Ability_Check.md "属性检定")
+- 游说芬德尔萨扎会帮助他们摧毁[地精营地](Goblin_Camp.md "地精营地") DC 15 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")
+- 威吓芬德尔 DC 15 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")
 - 将萨扎交给芬德尔
 
 如果失败，芬德尔会变得敌对并攻击。如果将萨扎交给芬德尔，他们两人会互相战斗。

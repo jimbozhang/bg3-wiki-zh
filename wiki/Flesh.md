@@ -81,27 +81,27 @@
 
 - - - - - ## 特性
 
-- [**厌火**](Aversion_of_Fire.md "厌火")
+- [厌火](Aversion_of_Fire.md "厌火")
 
 如果此实体受到火焰伤害，它将在其下一回合结束前获得[劣势](Disadvantage.md "劣势")于[攻击掷骰](Attack_rolls.md "攻击掷骰")和[属性检定](Ability_checks.md "属性检定")。
 
-- [**失心狂怒**](Berserk.md "失心狂怒")
+- [失心狂怒](Berserk.md "失心狂怒")
 
 如果此实体生命值降低，它将进入[失心狂怒](Berserk_(Condition).md "失心狂怒 (状态)")状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。在对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")上获得+5。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 在对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")上获得[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -155,27 +155,27 @@
 
 - - - - - ## 特性
 
-- [**厌火**](Aversion_of_Fire.md "厌火")
+- [厌火](Aversion_of_Fire.md "厌火")
 
 如果此实体受到火焰伤害，它将在其下一回合结束前获得[劣势](Disadvantage.md "劣势")于[攻击掷骰](Attack_rolls.md "攻击掷骰")和[属性检定](Ability_checks.md "属性检定")。
 
-- [**失心狂怒**](Berserk.md "失心狂怒")
+- [失心狂怒](Berserk.md "失心狂怒")
 
 如果此实体生命值降低，它将进入[失心狂怒](Berserk_(Condition).md "失心狂怒 (状态)")状态。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**不变形态**](Immutable_Form.md "不变形态")
+- [不变形态](Immutable_Form.md "不变形态")
 
 免疫改变形态的法术。在对抗[放逐术](Banishment.md "放逐术")的[豁免检定](Saving_throws.md "豁免检定")上获得+5。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 在对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")上获得[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -199,7 +199,7 @@ UUID
 
 在莎尔铁手神殿中击败巴萨扎尔房间外的各种[暗夜法官](Dark_Justiciar.md "暗夜法官")和[暗影战栗](Umbral_Tremor.md "暗影战栗")后，队伍可以进入并与巴萨扎尔交谈。在对话过程中，可以询问巴萨扎尔关于肉肉的事情，他透露肉肉部分是由他未出生的双胞胎兄弟的碎片组成的。
 
-如果队伍向巴萨扎尔请求补给并成功通过DC 14的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")，他们可以获得召唤肉肉作为临时盟友的能力。然后他会给队伍[召唤魔像铃铛](Summon_Golem_Bell.md "召唤魔像铃铛")，允许他们在莎尔铁手神殿内的任何地方召唤肉肉作为盟友进行战斗。<sup>[\[2\]](#cite_note-2)</sup> 这样做会为具有[贵族](Noble.md "贵族")背景的队伍成员获得[肉盾](Noble.md#Meat_Shield "贵族")激励点。
+如果队伍向巴萨扎尔请求补给并成功通过DC 14的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")，他们可以获得召唤肉肉作为临时盟友的能力。然后他会给队伍[召唤魔像铃铛](Summon_Golem_Bell.md "召唤魔像铃铛")，允许他们在莎尔铁手神殿内的任何地方召唤肉肉作为盟友进行战斗。<sup>[\[2\]](#cite_note-2)</sup> 这样做会为具有[贵族](Noble.md "贵族")背景的队伍成员获得[肉盾](Noble.md#Meat_Shield "贵族")激励点。
 
 ## 战斗
 
@@ -260,7 +260,7 @@ UUID
 ## 注释和参考
 
 1. [↑](#cite_ref-1) 与[巴萨扎尔](Balthazar.md "巴萨扎尔")的其他死灵造物不同，肉肉被归类为构装生物而非不死生物，因为它是[血肉魔像](Flesh_Golem.md "血肉魔像")。
-1. [↑](#cite_ref-2) 肉肉无法通过任何法术或药水治疗。\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 如果由巴萨扎尔的[铃铛](Summon_Golem_Bell.md "召唤魔像铃铛")召唤，并且肉肉处于或进入[不死狂怒](Corpulent_Rage.md "不死狂怒")状态，它会攻击最近的可用目标，包括（前）盟友。因此，如果肉肉在战斗遭遇结束时处于狂怒状态，而队伍返回巴萨扎尔处，他和他的随从会立即变得敌对并攻击队伍。
+1. [↑](#cite_ref-2) 肉肉无法通过任何法术或药水治疗。\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 如果由巴萨扎尔的[召唤魔像铃铛](Summon_Golem_Bell.md "召唤魔像铃铛")召唤，并且肉肉处于或进入[不死狂怒](Corpulent_Rage.md "不死狂怒")状态，它会攻击最近的可用目标，包括（前）盟友。因此，如果肉肉在战斗遭遇结束时处于狂怒状态，而队伍返回巴萨扎尔处，他和他的随从会立即变得敌对并攻击队伍。
 
 ---
 *Source: [Flesh](https://bg3.wiki/wiki/Flesh)*

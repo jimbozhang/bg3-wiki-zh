@@ -14,7 +14,7 @@
 
 ## 文本
 
-\[一本由巴克斯·鲁特撰写的日记，他担忧他的朋友[乌尔布伦](Wulbren.md "乌尔布伦")暴力推翻[熔炉侏儒](Gondians.md "熔炉侏儒")的欲望。他炸毁[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")的计划令人发指；必须找到一种方法来避免造成如此多的死亡。\]
+\[乌尔布伦](Wulbren.md "乌尔布伦")暴力推翻[熔炉侏儒](Gondians.md "熔炉侏儒")的欲望。他炸毁[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")的计划令人发指；必须找到一种方法来避免造成如此多的死亡。\]
 
 ---
 *Source: [Writings of a Wroot](https://bg3.wiki/wiki/Writings_of_a_Wroot)*

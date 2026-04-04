@@ -27,7 +27,7 @@
 作为 1 级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [莎尔的暗影](Shar's_Umbrae.md "莎尔的暗影")
-处于 [隐匿](Obscured.md "隐匿") 状态时，穿戴者在 [隐匿检定](Stealth.md "隐匿") 上具有 [优势](Advantage.md "优势")。
+处于 [隐匿](Obscured.md "隐匿") 状态时，穿戴者在 [隐匿](Stealth.md "隐匿") 上具有 [优势](Advantage.md "优势")。
 
 [莎尔的保护](Shar's_Protection.md "莎尔的保护")
 当穿戴者拥有 [虔诚护盾](Shield_of_Faith_(Condition).md "虔诚护盾 (状态)") 激活时，所有受到的伤害减少 2 点，并将受到的伤害反射给攻击者，攻击者受到 1d4⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。

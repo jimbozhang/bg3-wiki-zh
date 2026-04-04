@@ -97,23 +97,23 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**不屈**](Indomitable.md "不屈")
+- [不屈](Indomitable.md "不屈")
 
 每当豁免检定失败时，可以重新投掷，并使用新结果代替。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -175,23 +175,23 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**不屈**](Indomitable.md "不屈")
+- [不屈](Indomitable.md "不屈")
 
 每当豁免检定失败时，可以重新投掷，并使用新结果代替。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -253,23 +253,23 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**不屈**](Indomitable.md "不屈")
+- [不屈](Indomitable.md "不屈")
 
 每当豁免检定失败时，可以重新投掷，并使用新结果代替。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -299,7 +299,7 @@ UUID
 
 属性
 
-`WYR_SmugglersCave_StoneLord_Tiefling` **卡利欧斯**是[石勋爵](Minsc.md "明斯克")的使者，可以在[利文顿](Rivington.md "利文顿")的[西滩](Western_Beach.md "西滩")上与[公会](The_Guild.md "公会")成员发生争执时找到他，这发生在[第三幕](Act_Three.md "第三幕")期间。
+`WYR_SmugglersCave_StoneLord_Tiefling` **卡利欧斯**是[明斯克](Minsc.md "明斯克")的使者，可以在[利文顿](Rivington.md "利文顿")的[西滩](Western_Beach.md "西滩")上与[公会](The_Guild.md "公会")成员发生争执时找到他，这发生在[第三幕](Act_Three.md "第三幕")期间。
 
 > “
 >
@@ -311,7 +311,7 @@ UUID
 
 ## 参与
 
-卡利欧斯位于[飞龙关](Wyrm's_Crossing.md "飞龙关")的[西滩](Western_Beach.md "西滩")上，[南翼检查点](South_Span_Checkpoint.md "南翼检查点")以西，在[第三幕](Act_Three.md "第三幕")期间，坐标 X: -212 Y: Y:87。他和一群[石勋爵](Minsc.md "明斯克")的暴徒成员正在与[公会](Guild.md "公会")的一些成员在[月出之塔](Moonrise_Towers.md "月出之塔")的一艘停泊船只附近发生争执，可以通过在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")和[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")之间走西边的小路到达。
+卡利欧斯位于[飞龙关](Wyrm's_Crossing.md "飞龙关")的[西滩](Western_Beach.md "西滩")上，[南翼检查点](South_Span_Checkpoint.md "南翼检查点")以西，在[第三幕](Act_Three.md "第三幕")期间，坐标 X: -212 Y: Y:87。他和一群[明斯克](Minsc.md "明斯克")的暴徒成员正在与[公会](Guild.md "公会")的一些成员在[月出之塔](Moonrise_Towers.md "月出之塔")的一艘停泊船只附近发生争执，可以通过在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")和[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")之间走西边的小路到达。
 
 当接近这两组人时，[法尔林](Farlin.md "法尔林")请求帮助对抗石勋爵的手下，并承诺公会会支付报酬。如果队伍同意帮助，公会将加入他们对抗石勋爵的手下。这样做会为具有[罪犯](Criminal.md "罪犯")背景的队伍成员获得激励点⁠[堆叠牌组](Criminal.md#Stacking_the_Deck "罪犯")。
 
@@ -403,7 +403,7 @@ UUID
 
 1d10 + 战士等级⁠[治疗](Healing.md "治疗")
 
-利用你的体力保护自己。你恢复 1d10 + 战士等级⁠⁠[生命值](Healing.md "治疗")。
+利用你的体力保护自己。你恢复 1d10 + 战士等级⁠⁠[治疗](Healing.md "治疗")。
 
 范围：自身
 充能：[短休](Short_rest.md "短休")

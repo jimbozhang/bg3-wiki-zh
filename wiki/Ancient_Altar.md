@@ -1,6 +1,6 @@
 # 古代祭坛
 
-这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Ancient_Altar.md "Special:WhatLinksHere/Ancient Altar")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果您是通过文章中的链接[古代祭坛](Special_colon_WhatLinksHere/Ancient_Altar.md "古代祭坛")的，请考虑编辑该链接，将其指向正确的页面。
 
 **古代祭坛**可能指：
 

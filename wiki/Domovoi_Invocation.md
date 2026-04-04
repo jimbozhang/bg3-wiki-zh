@@ -24,7 +24,7 @@
 
 \[一张写有命名日祝福的平坦羊皮卷。它似乎是在向“⁠[毛怪](https://forgottenrealms.fandom.com/wiki/Domovoi)”献祭——一种被认为是拉什玛尔家宅的守护灵，会向幸运的庆祝者倾洒礼物。
 
-仅由“[M](Minsc.md "明斯克")”签名，旁边还有一只小[啮齿动物](Boo.md "布布")的图画——边缘似乎用的是真毛皮。\]
+仅由“[M](Minsc.md "明斯克")”签名，旁边还有一只小[布布](Boo.md "布布")的图画——边缘似乎用的是真毛皮。\]
 
 ---
 *Source: [Domovoi Invocation](https://bg3.wiki/wiki/Domovoi_Invocation)*

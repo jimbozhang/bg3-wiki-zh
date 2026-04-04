@@ -83,7 +83,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -123,7 +123,7 @@ UUID
 1. _我前几天晚上试图和一个龙裔睡觉，但没成功——他有爬虫功能障碍。_
 1. _我们的牧师试图对一块火腿施放治愈真言，但它已经被腌制了。_
 
-可以尝试威吓观众鼓掌（DC 20 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")，然后 DC 25 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")），但即使成功，玩家角色也会输掉比赛。
+可以尝试威吓观众鼓掌（DC 20 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")，然后 DC 25 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")），但即使成功，玩家角色也会输掉比赛。
 
 ### 死亡
 

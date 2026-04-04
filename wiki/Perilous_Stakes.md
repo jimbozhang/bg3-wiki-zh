@@ -36,7 +36,7 @@ UID
 
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 
-- 受影响实体对所有伤害[易伤](Vulnerable.md "易伤")，但当其攻击时，它会获得2d8⁠⁠[生命值](Healing.md "治疗")的治疗。
+- 受影响实体对所有伤害[易伤](Vulnerable.md "易伤")，但当其攻击时，它会获得2d8⁠⁠[治疗](Healing.md "治疗")的治疗。
 
 ## 学习方式
 

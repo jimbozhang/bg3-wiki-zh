@@ -74,19 +74,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 m (10 ft) 范围内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下进行攻击掷骰和[察觉技能](Perception.md "察觉技能")检定时具有劣势。
 
@@ -136,19 +136,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 m (10 ft) 范围内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下进行攻击掷骰和[察觉技能](Perception.md "察觉技能")检定时具有劣势。
 
@@ -198,23 +198,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 m (10 ft) 范围内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下进行攻击掷骰和[察觉技能](Perception.md "察觉技能")检定时具有劣势。
 
@@ -264,23 +264,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "集群战术")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 m (10 ft) 范围内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下进行攻击掷骰和[察觉技能](Perception.md "察觉技能")检定时具有劣势。
 
@@ -288,14 +288,14 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战术](#tactics)
-  - [2.3 战利品](#loot)
-- [3 画廊](#gallery)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战术](#战术)
+  - [2.3 战利品](#战利品)
+- [3 画廊](#画廊)
 
 ## 出场
 
@@ -309,7 +309,7 @@
 
 ## 战斗
 
-- 瑰晨修道院的狗头人因[火酒](Firewine_Barrel.md "火酒桶")而醉酒，这使他们获得了[火酒肚](Firewine_Belly_(Condition).md "火酒肚 (状态)")状态。
+- 瑰晨修道院的狗头人因[火酒桶](Firewine_Barrel.md "火酒桶")而醉酒，这使他们获得了[火酒肚](Firewine_Belly_(Condition).md "火酒肚 (状态)")状态。
 
 ### 攻击与能力
 
@@ -327,7 +327,7 @@
 
 狗头人斥候几乎不构成威胁，因为他们的投掷石头攻击非常不准确且伤害低。
 
-由于狗头人还遭受[火酒肚](Firewine_Belly_(Condition).md "火酒肚 (状态)")的影响，他们都是等待引爆的炸弹，而且还有[酒精地表](Alcohol.md "酒")和[火酒桶](Firewine_Barrel.md "火酒桶")可以蔓延。最好避免使用任何造成⁠[火焰](Fire.md "火焰")伤害的物品，以免点燃整个房间。
+由于狗头人还遭受[火酒肚](Firewine_Belly_(Condition).md "火酒肚 (状态)")的影响，他们都是等待引爆的炸弹，而且还有[酒](Alcohol.md "酒")和[火酒桶](Firewine_Barrel.md "火酒桶")可以蔓延。最好避免使用任何造成⁠[火焰](Fire.md "火焰")伤害的物品，以免点燃整个房间。
 
 修道院中一半的狗头人完全醉倒，留下相当数量处于[沉睡](Sleeping_(Condition).md "沉睡 (状态)")状态。最好的方法是潜入，因为警戒的眼睛很少，而且没有醒着的狗头人在巡逻。将你的队伍分散布置可以带来一场迅速的战斗，如果**发明者**首先被杀死以避免火灾爆发。
 

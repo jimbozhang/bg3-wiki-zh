@@ -30,7 +30,7 @@
 可在黑暗中看清 12 米（40 英尺）内的事物。
 
 [矮人活力](Dwarven_Resilience.md "矮人活力")
-你在对抗[中毒](Poisoned_(Condition).md "中毒（状态）")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并且对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+你在对抗[中毒](Poisoned_(Condition).md "中毒（状态）")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并且对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 ## 亚种
 
@@ -66,7 +66,7 @@
 #### 亚种特性
 
 [矮人护甲训练](Dwarven_Armour_Training.md "矮人护甲训练")
-你对[轻甲](Armour.md#List_of_light_armour "护甲")和[中甲](Armour.md#List_of_medium_armour "护甲")拥有[护甲熟练项](Proficiency.md "熟练项")。
+你对[轻甲](Armour.md#List_of_light_armour "护甲")和[中甲](Armour.md#List_of_medium_armour "护甲")拥有[熟练项](Proficiency.md "熟练项")。
 
 ### 灰矮人
 

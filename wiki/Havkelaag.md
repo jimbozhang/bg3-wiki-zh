@@ -107,15 +107,15 @@
 
 在 6 级时：[寒冷](Cold.md "Cold") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
 
-- [**龙族韧性**](Draconic_Resilience.md "Draconic Resilience")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
 
 不穿护甲时，基础 [护甲等级](Armour_Class.md "Armour Class") 为 13。
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对抗 [幻术学派](Illusion.md "Illusion") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "Advantage")。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害具有 [抗性](Resistance.md "Resistance")。
 
@@ -123,15 +123,15 @@
 
 当你施放与你的龙族血统相关的伤害类型的法术时，你会将你的 [魅力](Charisma.md "Charisma") [调整值](Ability_score_modifier.md "Ability Score Modifier") 加到伤害上。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和 [察觉技能](Perception.md "Perception") 检定具有 [劣势](Disadvantage.md "Disadvantage")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -191,15 +191,15 @@
 
 在 6 级时：[寒冷](Cold.md "Cold") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
 
-- [**龙族韧性**](Draconic_Resilience.md "Draconic Resilience")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
 
 不穿护甲时，基础 [护甲等级](Armour_Class.md "Armour Class") 为 13。
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对抗 [幻术学派](Illusion.md "Illusion") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "Advantage")。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害具有 [抗性](Resistance.md "Resistance")。
 
@@ -207,15 +207,15 @@
 
 当你施放与你的龙族血统相关的伤害类型的法术时，你会将你的 [魅力](Charisma.md "Charisma") [调整值](Ability_score_modifier.md "Ability Score Modifier") 加到伤害上。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和 [察觉技能](Perception.md "Perception") 检定具有 [劣势](Disadvantage.md "Disadvantage")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -275,15 +275,15 @@
 
 在 6 级时：[寒冷](Cold.md "Cold") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
 
-- [**龙族韧性**](Draconic_Resilience.md "Draconic Resilience")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
 
 不穿护甲时，基础 [护甲等级](Armour_Class.md "Armour Class") 为 13。
 
-- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
 对抗 [幻术学派](Illusion.md "Illusion") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "Advantage")。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对抗被 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "Advantage")，并对 [中毒](Poison.md "Poison") 伤害具有 [抗性](Resistance.md "Resistance")。
 
@@ -291,15 +291,15 @@
 
 当你施放与你的龙族血统相关的伤害类型的法术时，你会将你的 [魅力](Charisma.md "Charisma") [调整值](Ability_score_modifier.md "Ability Score Modifier") 加到伤害上。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和 [察觉技能](Perception.md "Perception") 检定具有 [劣势](Disadvantage.md "Disadvantage")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
@@ -329,12 +329,12 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 相关文献](#related-literature)
-- [4 死者交谈](#speak-with-dead)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 相关文献](#相关文献)
+- [4 死者交谈](#死者交谈)
 
 ## 参与
 

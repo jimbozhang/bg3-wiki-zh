@@ -25,7 +25,7 @@
 
 - **[猩红饱和](Scarlet_Saturation.md "猩红饱和")：** 如果您拥有来自猩红叠加的 +3 加值，消耗它使您的下一次攻击成为 [重击](Critical_Hit.md "重击")（充能：[长休](Long_Rest.md "长休")）。
 - **[猩红昏迷](Scarlet_Stupor.md "猩红昏迷")：** 如果您拥有来自猩红叠加的 +3 加值，消耗它使敌对生物在对抗您法术的 [豁免检定](Saving_throw.md "豁免检定") 上获得 [劣势](Disadvantage.md "劣势")（充能：[长休](Long_Rest.md "长休")）。
-- **[猩红再生](Scarlet_Regeneration.md "猩红再生")：** 如果您拥有来自猩红叠加的 +3 加值，消耗它以恢复 3d10⁠⁠[生命值](Healing.md "治疗")（充能：[长休](Long_Rest.md "长休")）。
+- **[猩红再生](Scarlet_Regeneration.md "猩红再生")：** 如果您拥有来自猩红叠加的 +3 加值，消耗它以恢复 3d10⁠⁠[治疗](Healing.md "治疗")（充能：[长休](Long_Rest.md "长休")）。
 
 ## 猩红叠加的来源
 

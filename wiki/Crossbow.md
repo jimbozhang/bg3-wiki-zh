@@ -1,6 +1,6 @@
 # 鞠躬
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Bow.md "Special:WhatLinksHere/Bow")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[鞠躬](Special_colon_WhatLinksHere/Bow.md "鞠躬")的，请考虑编辑该链接，将其指向正确的页面。
 
 **鞠躬** 可以指代以下几个相似的武器类别：
 

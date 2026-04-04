@@ -16,7 +16,7 @@
 
 [神祇](Deity.md "神祇")
 
-**伊莉丝翠**是卓尔的美丽与自由女神，混乱善良。她与[生命](Life_Domain.md "生命领域")、[光明](Light_Domain.md "光明领域")、[自然](Nature_Domain.md "自然领域")领域相关。
+**伊莉丝翠**是卓尔的美丽与自由女神，混乱善良。她与[生命领域](Life_Domain.md "生命领域")、[光明领域](Light_Domain.md "光明领域")、[自然领域](Nature_Domain.md "自然领域")领域相关。
 
 > “
 >

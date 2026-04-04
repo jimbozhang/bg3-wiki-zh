@@ -95,15 +95,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -152,15 +152,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -208,15 +208,15 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -246,18 +246,18 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 伙伴好感度](#companion-approval)
-- [3 商店](#shop)
-  - [3.1 出售的著名物品](#notable-items-sold)
-  - [3.2 炼金材料](#alchemy-supplies)
-  - [3.3 魔法护甲](#magic-armour)
-  - [3.4 药水](#potions)
-  - [3.5 卷轴](#scrolls)
-  - [3.6 箭](#arrows)
-  - [3.7 补给品](#supplies)
-- [4 注释](#notes)
-- [5 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 商店](#商店)
+  - [3.1 出售的著名物品](#出售的著名物品)
+  - [3.2 炼金材料](#炼金材料)
+  - [3.3 魔法护甲](#魔法护甲)
+  - [3.4 药水](#药水)
+  - [3.5 卷轴](#卷轴)
+  - [3.6 箭](#箭)
+  - [3.7 补给品](#补给品)
+- [4 注释](#注释)
+- [5 外部链接](#外部链接)
 
 ## 参与
 

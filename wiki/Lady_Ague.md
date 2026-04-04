@@ -88,27 +88,27 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合以[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "Fast Hands")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "Bonus action")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "Protection")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "Shields")时，对在 1.5 米（5 英尺）范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "Disadvantage")。你必须能够看到该敌人。
 
-- [**凶蛮打手**](Savage_Attacker.md "Savage Attacker")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并使用较高的结果。
 
-- [**鬼祟反击**](Sneaky_Riposte.md "Sneaky Riposte")
+- [鬼祟反击](Sneaky_Riposte.md "鬼祟反击")
 
 对刚刚攻击未命中的敌人进行打击，如果你拥有优势，则造成偷袭伤害。
 
@@ -160,27 +160,27 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合以[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "Fast Hands")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "Bonus action")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "Protection")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "Shields")时，对在 1.5 米（5 英尺）范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "Disadvantage")。你必须能够看到该敌人。
 
-- [**凶蛮打手**](Savage_Attacker.md "Savage Attacker")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并使用较高的结果。
 
-- [**鬼祟反击**](Sneaky_Riposte.md "Sneaky Riposte")
+- [鬼祟反击](Sneaky_Riposte.md "鬼祟反击")
 
 对刚刚攻击未命中的敌人进行打击，如果你拥有优势，则造成偷袭伤害。
 
@@ -232,27 +232,27 @@
 
 当你用近战武器攻击造成[重击](Critical_Hit.md "Critical Hit")或击杀目标时，你可以在该回合以[附赠动作](Actions.md#Resources "Actions")进行另一次近战武器攻击。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "Fast Hands")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "Bonus action")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**守护**](Protection.md "Protection")
+- [守护](Protection.md "守护")
 
 当你持有[盾牌](Shields.md "Shields")时，对在 1.5 米（5 英尺）范围内攻击你盟友的敌人施加[劣势](Disadvantage.md "Disadvantage")。你必须能够看到该敌人。
 
-- [**凶蛮打手**](Savage_Attacker.md "Savage Attacker")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
 进行近战武器攻击时，你投掷两次伤害骰并使用较高的结果。
 
-- [**鬼祟反击**](Sneaky_Riposte.md "Sneaky Riposte")
+- [鬼祟反击](Sneaky_Riposte.md "鬼祟反击")
 
 对刚刚攻击未命中的敌人进行打击，如果你拥有优势，则造成偷袭伤害。
 

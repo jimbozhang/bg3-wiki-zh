@@ -66,10 +66,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 重要战利品](#notable-loot)
-- [3 相关任务](#related-quests)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 重要战利品](#重要战利品)
+- [3 相关任务](#相关任务)
 
 ## 出场
 
@@ -81,9 +81,9 @@ UUID
 
 尽管他看起来富有，但他不记得自己生活的任何细节。使用[侦测思想](Detect_Thoughts.md "Detect Thoughts")会揭示，他的记忆混乱不堪，但“摩伊拉”这个名字偶尔会从混乱中闪现。
 
-可以通过一次 DC 20 的[欺瞒](Deception.md "Deception")[检定](Ability_Check.md "Ability check")来利用他的状况，说服他给队伍一些金币。了解摩伊拉的情况会为此检定提供[优势](Advantage.md "Advantage")。
+可以通过一次 DC 20 的[欺瞒](Deception.md "Deception")[属性检定](Ability_Check.md "属性检定")来利用他的状况，说服他给队伍一些金币。了解摩伊拉的情况会为此检定提供[优势](Advantage.md "Advantage")。
 
-阿维斯最初来到哀伤之邸，是为了在妻子摩伊拉去世后哀悼。他们反过来抹去了他关于她的所有记忆——似乎还有更多。根据[客户清单](Client_List.md "Client List")，这是因为他通过[心灵映射](Mapping_of_the_Heart.md "Mapping of the Heart")被确定为拥有“[忧郁之心](Warming_the_Melancholy_Heart.md "Warming the Melancholy Heart")”。
+阿维斯最初来到哀伤之邸，是为了在妻子摩伊拉去世后哀悼。他们反过来抹去了他关于她的所有记忆——似乎还有更多。根据[客户清单](Client_List.md "Client List")，这是因为他通过[心灵映射](Mapping_of_the_Heart.md "Mapping of the Heart")被确定为拥有“[温暖忧郁之心](Warming_the_Melancholy_Heart.md "温暖忧郁之心")”。
 
 如果在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace")内与[失落之镜](Mirror_of_Loss.md "Mirror of Loss")互动，有可能被注入阿维斯对他亡妻的记忆。然而，在获得他失去的记忆后与阿维斯交谈，不会产生新的对话选项。
 

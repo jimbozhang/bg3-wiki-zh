@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 伤害：3~30 + 调整值
 
-3d10 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[挥砍](Slashing.md "挥砍")
+3d10 + [灵巧](Finesse.md "灵巧")⁠[挥砍](Slashing.md "挥砍")
 
 治疗：3~30
 

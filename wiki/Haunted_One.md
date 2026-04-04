@@ -26,34 +26,34 @@
 | 25 | 克制你的欲望 | 抵抗你的邪念。有许多机会获得此版本，通常通过选择与拒绝屈服于欲望相关的对话选项，但只有第一次这样做才会实际授予激励点。互动催化剂包括：拯救盖尔、奥克塔、阿拉贝尔和训练官凯斯克等。 |  |
 | 95 | 不友好的火焰 | 在单回合内击败5个中立生物。 |  |
 | 第一章 |  |  |  |
-| [染疫村落](Blighted_Village.md "染疫村落") | 25 | 嗜血生物 | 招募[食人魔佣兵](Lump_the_Enlightened.md "开明的朗普")，使用敌人的尸体作为报酬。此激励点与[雇佣保镖](Noble#Bodyguards_for_Hire.md#Bodyguards_for_Hire "贵族")和[金字塔骗局](Urchin#Pyramid_Scheme.md#Pyramid_Scheme "流浪儿")共享。 |
+| [染疫村落](Blighted_Village.md "染疫村落") | 25 | 嗜血生物 | 招募[开明的朗普](Lump_the_Enlightened.md "开明的朗普")，使用敌人的尸体作为报酬。此激励点与[雇佣保镖](Noble#Bodyguards_for_Hire.md#Bodyguards_for_Hire "贵族")和[金字塔骗局](Urchin#Pyramid_Scheme.md#Pyramid_Scheme "流浪儿")共享。 |
 | [营地](Campsite.md "营地") | 25 | 剪断琴弦 | 冷血杀死[阿尔菲拉](Alfira.md "阿尔菲拉")。[奎尔·古罗兹兰古](Quil_Grootslang.md "奎尔·古罗兹兰古")不算数。 |
 | [阴暗墓穴](Overgrown_Ruins#Dank_Crypt.md#Dank_Crypt "蔓生废墟") | 20 | 陌生的熟悉感 | 将[守墓人](Withers.md "守墓人")从他的墓穴中释放出来。 |
-| [德鲁伊林地](Druids_Grove.md "德鲁伊林地") | 50 | 嗜血中的同志情谊 | [流尽提夫林的血](Raid_the_Emerald_Grove.md "洗劫翠绿林地")。 |
-| 50 | 道德上可接受的大屠杀 | [流尽地精的血](Defeat_the_Goblins.md "击败地精")。 |  |
+| [德鲁伊林地](Druids_Grove.md "德鲁伊林地") | 50 | 嗜血中的同志情谊 | [洗劫翠绿林地](Raid_the_Emerald_Grove.md "洗劫翠绿林地")。 |
+| 50 | 道德上可接受的大屠杀 | [击败地精](Defeat_the_Goblins.md "击败地精")。 |  |
 | [森林](Forest.md "森林") | 25 | 朋友重聚 | 杀死[布拉娜](Brynna.md "布拉娜")和[安德里克](Andrick.md "安德里克")，让他们与已故的同伴团聚。 |
-| [地精营地](Goblin_Camp.md "地精营地") | 25 | 美味的长猪 | 吃一块[烤矮人](Roasted_Dwarf_Belly.md "烤矮人肚")。 |
+| [地精营地](Goblin_Camp.md "地精营地") | 25 | 美味的长猪 | 吃一块[烤矮人肚](Roasted_Dwarf_Belly.md "烤矮人肚")。 |
 | 25 | 双手握住拨火棍 | 折磨[利亚姆](Liam.md "利亚姆")。作为卓尔无法完成。 |  |
 | 25 | 现在才叫派对！ | 毒死[偷来的麦酒](Goblin_Camp#Centre_Courtyard.md#Centre_Courtyard "地精营地")，屠杀地精。与[清理人群](Criminal#Culling_the_Crowd.md#Culling_the_Crowd "罪犯")和[下毒](Charlatan#Spiked.md#Spiked "骗子")共享。 |
-| [复仇之炉](Grymforge.md "复仇之炉") | 50 | 蛇之头 | 取下[尼讷](Nere.md "尼讷")的[头](Nere's_Head.md "尼讷的头")。 |
+| [复仇之炉](Grymforge.md "复仇之炉") | 50 | 蛇之头 | 取下[尼讷](Nere.md "尼讷")的[尼讷的头](Nere's_Head.md "尼讷的头")。 |
 | [路边山崖](Roadside_Cliffs.md "路边山崖") | 20 | 睡吧，或许能梦见触手之梦 | 永远闭上被钉住的夺心魔的眼睛。 |
 | [幽暗地域](Underdark.md "幽暗地域") | 50 | 新管理层 | 为[格鲁特](Glut.md "格鲁特")杀死[蕈人王](Spaw.md "蕈人王")。 |
 | [渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地") | 30 | 火的新柴火 | 让被钉住的[本里恩](Benryn.md "本里恩")被烧死。释放他但在他逃脱前让他死于火灾也算数。 |
 | 第二章 |  |  |  |
-| [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") | 75 | 吸干尸体的血 | 杀死[死灵法师](Balthazar.md "巴萨扎尔")。 |
+| [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") | 75 | 吸干尸体的血 | 杀死[巴萨扎尔](Balthazar.md "巴萨扎尔")。 |
 | 75 | 血月 | 杀死[月之女](Aylin.md "艾琳")。 |  |
-| 75 | 杀手诗歌 | 用虚假的漏洞欺骗[奥术魔](Yurgir.md "尤格")。 |  |
+| 75 | 杀手诗歌 | 用虚假的漏洞欺骗[尤格](Yurgir.md "尤格")。 |  |
 | 75 | 自我鞭笞 | 在莎尔的试炼中杀死你的镜像自我。 |
 | [终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店") | 75 | 强迫退休 | 永久结束[贾希拉](Jaheira.md "贾希拉")的职业生涯。 |
-| 75 | 月食 | 杀死[终焉光芒](Last_Light_Inn.md "终焉光芒旅店")的[保护者](Isobel_Thorm.md "伊索贝尔·索姆")。 |  |
+| 75 | 月食 | 杀死[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")的[保护者](Isobel_Thorm.md "伊索贝尔·索姆")。 |  |
 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") | 95 | 三者中的次级 | 杀死米尔寇的使者。 |
 | [月出之塔](Moonrise_Towers.md "月出之塔") | 50 | 太简单了 | 处决无用的地精。 |
 | 60 | 与阴影共泳 | 强迫[散塔林会走私者](Marls.md "马尔斯")跳下码头。 |  |
 | 60 | 谁放出了豺狼人 | 释放被拴住的豺狼人。 |  |
-| [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") | 60 | 灵魂脑叶切除术 | [折磨明萨拉](Decide_Minthara's_Fate.md "决定明萨拉的命运")，将她变成其前身的空壳。如果邪念亲自抹去明萨拉的心智即可获得；让审判官动手则不会授予激励点。 |
-| [雷斯文小镇](Reithwin_Town.md "雷斯文小镇") | 60 | 缺乏节制是关键 | 用他自己的酿酒杀死[酿酒师](Thisobald_Thorm.md "西索博得·索姆")。 |
-| 60 | 刀下亡魂 | 使用他自己的顺从护士杀死[外科医生](Malus_Thorm.md "马鲁斯·索姆")。 |  |
-| [幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地") | 50 | 拍苍蝇 | 杀死[戏法妖精](Dolly_Dolly_Dolly.md "多利多利多利")。与卡'尼斯的车队一同抵达月出之塔也可触发此事件。 |
+| [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") | 60 | 灵魂脑叶切除术 | [决定明萨拉的命运](Decide_Minthara's_Fate.md "决定明萨拉的命运")，将她变成其前身的空壳。如果邪念亲自抹去明萨拉的心智即可获得；让审判官动手则不会授予激励点。 |
+| [雷斯文小镇](Reithwin_Town.md "雷斯文小镇") | 60 | 缺乏节制是关键 | 用他自己的酿酒杀死[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")。 |
+| 60 | 刀下亡魂 | 使用他自己的顺从护士杀死[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")。 |  |
+| [幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地") | 50 | 拍苍蝇 | 杀死[多利多利多利](Dolly_Dolly_Dolly.md "多利多利多利")。与卡'尼斯的车队一同抵达月出之塔也可触发此事件。 |
 | 50 | 强迫负责 | 要求[地精](Gronag.md "格罗纳格")取回他的骨头。 |  |
 | 第三章 |  |  |  |
 | [巴尔神殿](Bhaal_Temple.md "巴尔神殿") | 275 | 不再是巴尔后裔 | 拒绝你的传承。 |
@@ -62,18 +62,18 @@
 | 220 | 确保你的血脉 | 成为巴尔的主要后裔。 |  |
 | [下城区](Lower_City.md "下城区") | 220 | 超乎想象的大屠杀 | 使用[乌尔布伦](Wulbren.md "乌尔布伦")的秘密武器摧毁[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")。 |
 | 220 | 迟来的屠杀 | 为[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")的生命带来迟来的高潮。 |  |
-| 170 | 清理模仿者 | 杀死[冒牌刺客](Dolor.md "多洛")。 |  |
-| 220 | 高处不胜寒 | 杀死自负的[准永生者](Lorroakan.md "洛若坎")。 |  |
-| 220 | 重温杀戮 | 第二次杀死[埃赛尔](Auntie_Ethel.md "埃赛尔婶婶")——那个顽固、沼泽般的丑闻鬼婆。尽管提到第二次，但即使埃赛尔在第一章未被杀死，此激励点也会授予。 |  |
-| 170 | 给弱者的微薄礼物 | 将[微薄的供品](Stormshore_Tabernacle.md "风暴海岸礼拜堂")据为己有，献给众神。 |  |
+| 170 | 清理模仿者 | 杀死[多洛](Dolor.md "多洛")。 |  |
+| 220 | 高处不胜寒 | 杀死自负的[洛若坎](Lorroakan.md "洛若坎")。 |  |
+| 220 | 重温杀戮 | 第二次杀死[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")——那个顽固、沼泽般的丑闻鬼婆。尽管提到第二次，但即使埃赛尔在第一章未被杀死，此激励点也会授予。 |  |
+| 170 | 给弱者的微薄礼物 | 将[风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂")据为己有，献给众神。 |  |
 | 170 | 血书 | 接受奥林的结盟提议。 |  |
 | [谋杀裁判所](Murder_Tribunal.md "谋杀裁判所") | 220 | 过犹不及 | 拯救[瓦莱里亚](Valeria.md "瓦莱里亚")，拒绝[巴尔的礼物](Investigate_the_Murders#Infiltrate_the_Murder_Tribunal.md#Infiltrate_the_Murder_Tribunal "调查谋杀案")。 |  |
-| 220 | 无辜者的死亡 | 成为[巴尔的邪神圣武士](Impress_the_Murder_Tribunal.md "打动谋杀裁判所")。 |  |
+| 220 | 无辜者的死亡 | 成为[打动谋杀裁判所](Impress_the_Murder_Tribunal.md "打动谋杀裁判所")。 |  |
 | 275 | 后裔清理小队 | 击败巴尔的[可憎传承](Sarevok.md "萨里多克")。 |  |
 | [利文顿](Rivington.md "利文顿") | 135 | 万千之始 | 请求一尊你凡人形态的雕像。 |  |
 | 135 | 趁年轻杀掉 | 处决新生的[夺心魔](Mind_flayer_(windmill).md "夺心魔（风车）")。 |  |
 | 135 | 私人关系 | 见到[奥林](Orin.md "奥林")的某个冒充者。 |  |
-| 170 | 血迹之路 | 收集[小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")的所有部件。 |  |
+| 170 | 血迹之路 | 收集[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")的所有部件。 |  |
 | 135 | 意外育儿 | 喂新生的[夺心魔](Mind_flayer_(windmill).md "夺心魔（风车）")吃脑子。 |  |
 | [西滩](Western_Beach.md "西滩") | 170 | 清理渣滓 | 杀死敌对的两个走私派系。 |  |
 | [飞龙关](Wyrm's_Crossing.md "飞龙关") | 135 | 放血的狂喜 | 接受[诺伊丝](Naoise.md "诺伊丝")的淫秽提议。 |  |

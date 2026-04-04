@@ -25,15 +25,15 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 建筑布局](#building-layout)
-  - [2.1 地下室](#basement)
-- [3 建筑外部](#outside-the-building)
-- [4 相关地点](#related-locations)
-- [5 角色](#characters)
-- [6 相关文献](#related-literature)
-- [7 注释与参考](#notes-and-references)
-- [8 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 建筑布局](#建筑布局)
+  - [2.1 地下室](#地下室)
+- [3 建筑外部](#建筑外部)
+- [4 相关地点](#相关地点)
+- [5 角色](#角色)
+- [6 相关文献](#相关文献)
+- [7 注释与参考](#注释与参考)
+- [8 外部链接](#外部链接)
 
 ## 概述
 
@@ -48,11 +48,11 @@
 闪耀盛会内部
 （由 Edvard Vanderghote 绘制）
 
-在 X: -176 Y: -66 处，成功的 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")会高亮显示[奥莫托拉的宝箱钥匙](Omotola's_Chest_Key.md "奥莫托拉的宝箱钥匙")。它能打开奥莫托拉柜台后面的华丽箱子。其复制品位于箱子附近的展示柜顶部。
+在 X: -176 Y: -66 处，成功的 DC 15 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")会高亮显示[奥莫托拉的宝箱钥匙](Omotola's_Chest_Key.md "奥莫托拉的宝箱钥匙")。它能打开奥莫托拉柜台后面的华丽箱子。其复制品位于箱子附近的展示柜顶部。
 
-销售区有两个上锁的镀金箱子，都需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来撬锁。柜台上的那个包含金币和随机药水，而另一个则存放着金币、随机宝石和两支随机箭。
+销售区有两个上锁的镀金箱子，都需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。柜台上的那个包含金币和随机药水，而另一个则存放着金币、随机宝石和两支随机箭。
 
-柜台后面的地板上有一个通往建筑地下室的舱口。它呈红色轮廓并上锁，需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")或[闪耀盛会仓库钥匙](The_Glitter_Gala_Stockroom_Key.md "闪耀盛会仓库钥匙")才能打开，后者可以从奥莫托拉身上扒窃获得。<sup>[\[2\]](#cite_note-2)</sup>
+柜台后面的地板上有一个通往建筑地下室的舱口。它呈红色轮廓并上锁，需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")或[闪耀盛会仓库钥匙](The_Glitter_Gala_Stockroom_Key.md "闪耀盛会仓库钥匙")才能打开，后者可以从奥莫托拉身上扒窃获得。<sup>[\[2\]](#cite_note-2)</sup>
 
 奥莫托拉口袋里还装着[清账屋保险库钥匙6](Counting_House_Vault_n%C2%BA6_Key.md "清账屋保险库钥匙6")。
 
@@ -60,12 +60,12 @@
 
 地下室走廊被几条[绊绳](Tripwire.md "绊绳")和装有[死云术](Cloudkill.md "死云术")的[通风口](Vent.md "通风口")穿过。向西的第一个房间是[半音商店](Chromatic_Scale.md "半音商店")的储藏区。
 
-闪耀盛会的储藏区位于一扇铁门后面，需要 DC 25 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")，门后有一块[大理石板](Marble_Plate.md "大理石板")，会触发另外三个死云术通风口。
+闪耀盛会的储藏区位于一扇铁门后面，需要 DC 25 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")，门后有一块[大理石板](Marble_Plate.md "大理石板")，会触发另外三个死云术通风口。
 
 储藏区有两个带陷阱的箱子：
 
-- 重箱子需要 DC 20 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")才能发现陷阱，DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来解除陷阱，然后 DC 20 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来撬锁。里面是金币和几块金锭。
-- 华丽的箱子分别需要 DC 25 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")、DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")和 DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")才能打开，但只包含少量随机战利品。
+- 重箱子需要 DC 20 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")才能发现陷阱，DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来解除陷阱，然后 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。里面是金币和几块金锭。
+- 华丽的箱子分别需要 DC 25 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")、DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")和 DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")才能打开，但只包含少量随机战利品。
 
 这里的一些[珍品](Valuables.md "珍品")也可以从架子上拿走。
 

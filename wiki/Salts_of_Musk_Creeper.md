@@ -1,6 +1,6 @@
 # 麝香藤蔓盐
 
-**麝香藤蔓盐**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")。
+**麝香藤蔓盐**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")。
 
 在存活时，[麝香黄藤](https://forgottenrealms.fandom.com/wiki/yellow_musk_creeper)会以类人生物的尸体为食，将其转化为[僵尸](Zombie.md "僵尸")，但在熟练的炼金术士手中，它们的花瓣可以用于善途。
 

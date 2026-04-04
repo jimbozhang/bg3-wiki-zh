@@ -1,6 +1,6 @@
 # 研究笔记
 
-这是一个消歧义页面，指向名称模糊的文章。如果文章中的链接将您[带到此处](Special_colon_WhatLinksHere/Research_Notes.md "Special:WhatLinksHere/Research Notes")，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果文章中的链接将您[研究笔记](Special_colon_WhatLinksHere/Research_Notes.md "研究笔记")，请考虑编辑该链接，将其指向正确的页面。
 
 **研究笔记**可能指：
 

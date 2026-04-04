@@ -1,6 +1,6 @@
 # 龙蛋蘑菇
 
-**龙蛋蘑菇**是一种[炼金术材料](Alchemy.md "炼金术")。将3个龙蛋蘑菇组合可煅烧成[龙蛋蘑菇灰烬](Ashes_of_Dragon_Egg_Mushroom.md "龙蛋蘑菇灰烬")，用于制作[火焰抗性灵药](Elixir_of_Fire_Resistance.md "火焰抗性灵药")。
+**龙蛋蘑菇**是一种[炼金术](Alchemy.md "炼金术")。将3个龙蛋蘑菇组合可煅烧成[龙蛋蘑菇灰烬](Ashes_of_Dragon_Egg_Mushroom.md "龙蛋蘑菇灰烬")，用于制作[火焰抗性灵药](Elixir_of_Fire_Resistance.md "火焰抗性灵药")。
 
 这些蘑菇上美丽的图案是魔法还是自然的产物尚不清楚，但铁匠经常寻找这种真菌，将其混合成糊状物以防止烧伤。
 

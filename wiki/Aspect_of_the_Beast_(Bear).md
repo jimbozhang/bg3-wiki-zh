@@ -6,7 +6,7 @@
 
 熊的面貌使你获得力量。
 
-你的[负重](Carrying_capacity.md "负重")翻倍，并且你在力量[检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
+你的[负重](Carrying_capacity.md "负重")翻倍，并且你在力量[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
 
 ## 如何学习
 

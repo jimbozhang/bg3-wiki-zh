@@ -90,19 +90,19 @@
 
 ## 特性
 
-- [**兴奋激发**](Adrenaline_Rush.md "兴奋激发")
+- [兴奋激发](Adrenaline_Rush.md "兴奋激发")
 
 当你[疾走](Dash.md "疾走")时，你获得[怒火](Wrath_(Condition).md "怒火（状态）")，持续3回合。_\[[见：错误](Adrenaline_Rush.md#Bugs "兴奋激发")\]_
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 当你进行副手攻击时，你可以将你的[属性值调整值](Ability_score_modifier.md "属性值调整值")加到攻击的伤害上。
 
@@ -150,19 +150,19 @@
 
 ## 特性
 
-- [**兴奋激发**](Adrenaline_Rush.md "兴奋激发")
+- [兴奋激发](Adrenaline_Rush.md "兴奋激发")
 
 当你[疾走](Dash.md "疾走")时，你获得[怒火](Wrath_(Condition).md "怒火（状态）")，持续3回合。_\[[见：错误](Adrenaline_Rush.md#Bugs "兴奋激发")\]_
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 当你进行副手攻击时，你可以将你的[属性值调整值](Ability_score_modifier.md "属性值调整值")加到攻击的伤害上。
 
@@ -210,23 +210,23 @@
 
 ## 特性
 
-- [**兴奋激发**](Adrenaline_Rush.md "兴奋激发")
+- [兴奋激发](Adrenaline_Rush.md "兴奋激发")
 
 当你[疾走](Dash.md "疾走")时，你获得[怒火](Wrath_(Condition).md "怒火（状态）")，持续3回合。_\[[见：错误](Adrenaline_Rush.md#Bugs "兴奋激发")\]_
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "物理")伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+- [双武器战斗](Two-Weapon_Fighting.md "双武器战斗")
 
 当你进行副手攻击时，你可以将你的[属性值调整值](Ability_score_modifier.md "属性值调整值")加到攻击的伤害上。
 
@@ -250,12 +250,12 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 外部链接](#外部链接)
 
 ## 参与度
 

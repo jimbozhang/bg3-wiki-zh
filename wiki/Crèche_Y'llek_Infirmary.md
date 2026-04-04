@@ -16,34 +16,34 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 养育间入口](#entrances-to-the-cr%C3%A8che)
-    - [1.1.1 修道院地下室入口](#monastery-basement-entrance)
-    - [1.1.2 悬崖入口](#cliffside-entrance)
-  - [1.2 入口大厅（前厅）](#entrance-hall-(antechamber))
-  - [1.3 主走廊](#main-corridor)
-  - [1.4 孵化室](#hatchery)
-  - [1.5 医务室与宿舍](#infirmary-and-dormitory)
-    - [1.5.1 医生办公室](#doctor's-office)
-  - [1.6 教室](#classroom)
-  - [1.7 贸易站](#trade-post)
-  - [1.8 队长办公区](#captain's-quarters)
-  - [1.9 审判官的房间](#inquisitor's-chamber)
-- [2 要点](#points-of-interest)
-- [3 连接地点](#connected-locations)
-- [4 传送点](#waypoints)
-- [5 相关任务](#related-quests)
-- [6 角色](#characters)
-- [7 生物](#creatures)
-- [8 重要物品](#notable-items)
-  - [8.1 可能获得的战利品](#potential-loot)
-  - [8.2 交易物品](#traded-items)
-  - [8.3 奖励](#rewards)
-  - [8.4 故事与任务物品](#story-and-quest-items)
-- [9 相关文献](#related-literature)
-  - [9.1 书籍与笔记](#books-and-notes)
-  - [9.2 吉斯洋基石板](#githyanki-slates)
-- [10 注释](#notes)
+- [1 概述](#概述)
+  - [1.1 养育间入口](#养育间入口)
+    - [1.1.1 修道院地下室入口](#修道院地下室入口)
+    - [1.1.2 悬崖入口](#悬崖入口)
+  - [1.2 入口大厅（前厅）](#入口大厅前厅))
+  - [1.3 主走廊](#主走廊)
+  - [1.4 孵化室](#孵化室)
+  - [1.5 医务室与宿舍](#医务室与宿舍)
+    - [1.5.1 医生办公室](#医生办公室)
+  - [1.6 教室](#教室)
+  - [1.7 贸易站](#贸易站)
+  - [1.8 队长办公区](#队长办公区)
+  - [1.9 审判官的房间](#审判官的房间)
+- [2 要点](#要点)
+- [3 连接地点](#连接地点)
+- [4 传送点](#传送点)
+- [5 相关任务](#相关任务)
+- [6 角色](#角色)
+- [7 生物](#生物)
+- [8 重要物品](#重要物品)
+  - [8.1 可能获得的战利品](#可能获得的战利品)
+  - [8.2 交易物品](#交易物品)
+  - [8.3 奖励](#奖励)
+  - [8.4 故事与任务物品](#故事与任务物品)
+- [9 相关文献](#相关文献)
+  - [9.1 书籍与笔记](#书籍与笔记)
+  - [9.2 吉斯洋基石板](#吉斯洋基石板)
+- [10 注释](#注释)
 
 ## 概述
 
@@ -51,7 +51,7 @@
 
 居住在伊雷珂养育间的吉斯洋基人征服了该地区，并屠杀了其先前的居民——一群[洛山达](Lathander.md "Lathander")的信徒。它被用来在[雄狮河](River_Chionthar.md "River_Chionthar")沿线发动行动，作为储存补给和战利品、训练新的吉斯洋基战士，甚至孵化蛋的地方。这里还有一个位面投射器和一个[扎伊斯克净化者](Zaith'isk.md "Zaith'isk")。
 
-许多任务可以在伊雷珂养育间推进，包括[莱埃泽尔](Lae'zel.md "Lae'zel")的[伙伴任务](The_Githyanki_Warrior.md "The Githyanki Warrior")。这里的吉斯洋基人内部存在一些冲突，主要源于养育间指挥官[凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn")和最近抵达的维拉基斯宣判官[审判官瓦尔'戈兹](W'wargaz.md "W'wargaz")之间的紧张关系。
+许多任务可以在伊雷珂养育间推进，包括[莱埃泽尔](Lae'zel.md "Lae'zel")的[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")。这里的吉斯洋基人内部存在一些冲突，主要源于养育间指挥官[凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn")和最近抵达的维拉基斯宣判官[审判官瓦尔'戈兹](W'wargaz.md "W'wargaz")之间的紧张关系。
 
 在到达[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed_Lands")后，根据队伍在第一幕访问养育间时的选择，队伍可以在第二幕的大部分时间里自由返回伊雷珂养育间。
 
@@ -75,7 +75,7 @@
 
 当队伍进入时，熟手法'拉格会质问他们；他们有几个选项可以进入养育间的核心区域。
 
-根据队伍与[凯斯拉克百夫长沃斯](Voss.md "Voss")的对话结果，队伍可能有选项说他们携带着他正在寻找的_“[武器](Mysterious_Artefact.md "Mysterious Artefact")”_。这样做的好处是可以在不提及角色头中有夺心魔蝌蚪的情况下结束对话。法'拉格随后要求队伍出示遗物作为证明。对此的回应选项包括：
+根据队伍与[凯斯拉克百夫长沃斯](Voss.md "Voss")的对话结果，队伍可能有选项说他们携带着他正在寻找的_“[神秘遗物](Mysterious_Artefact.md "神秘遗物")”_。这样做的好处是可以在不提及角色头中有夺心魔蝌蚪的情况下结束对话。法'拉格随后要求队伍出示遗物作为证明。对此的回应选项包括：
 
 - _出示遗物作为证据。_
 - [表演] 我是维拉基斯女王的化身。你将让我通过，维尼'伊斯克。（DC 30）
@@ -132,7 +132,7 @@
 
 医务室位于养育间的西南端。它有四个区域，每个角落都有带帘子的海报，里面放着铺盖卷。左侧是一个通往**宿舍**的门道，里面有几张双层床。房间的另一端是一扇通往医生办公室的门。
 
-在医务室里，队伍会遇到吉斯洋基青年：[皮林达斯](Pyrindath.md "Pyrindath")（跪坐在入口右侧）、[米尔雅尔](Mirya'al.md "Mirya'al")（站在入口左侧的区域）和[迪尔'卡斯](Dyrr'kas.md "Dyrr'kas")（在医务室里四处走动，清理地板）。此外，还有两个吉斯洋基儿童，[泽尔'伊](Zel'i.md "Zel'i")和[拉'雅克](Ra'jak.md "Ra'jak")，正在磨练他们的[法师之手](Mage_Hand.md "Mage Hand")技能，来回推一个上锁的[旅行者的箱子](Traveller's_Chest.md "Traveller's Chest")（DC 18 [巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_check.md "Ability check")）。当被击中时，箱子会发出哀嚎声，声音可以传到医务室之外。声音来自箱子里的一只小法妖。如果被释放，它会攻击队伍。
+在医务室里，队伍会遇到吉斯洋基青年：[皮林达斯](Pyrindath.md "Pyrindath")（跪坐在入口右侧）、[米尔雅尔](Mirya'al.md "Mirya'al")（站在入口左侧的区域）和[迪尔'卡斯](Dyrr'kas.md "Dyrr'kas")（在医务室里四处走动，清理地板）。此外，还有两个吉斯洋基儿童，[泽'利尔](Zel'i.md "泽'利尔")和[拉'雅克](Ra'jak.md "Ra'jak")，正在磨练他们的[法师之手](Mage_Hand.md "Mage Hand")技能，来回推一个上锁的[旅行者的箱子](Traveller's_Chest.md "Traveller's Chest")（DC 18 [巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_check.md "Ability check")）。当被击中时，箱子会发出哀嚎声，声音可以传到医务室之外。声音来自箱子里的一只小法妖。如果被释放，它会攻击队伍。
 
 在宿舍里，队伍可以与三个成年吉斯洋基人交谈：[熟手乌姆拉'阿克](Umr'a'ac.md "Umr'a'ac")、[掠夺者吉'伊尔](Jy'ir.md "Jy'ir")和[炽念者库尔'阿什克](Kur'ashk.md "Kur'ashk")（审判官随从成员）。
 
@@ -174,7 +174,7 @@
 
 队长办公区内有赛泽恩、[炽念者格'努里尔](G'nuril.md "G'nuril")以及两只狼，[达'哈克](D'hak.md "D'hak")和[乌尔'乌特](Ur'uth.md "Ur'uth")，它们正在啃食最近捕获的[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")追随者的尸体（如果队伍在门口没有干预）。
 
-如果[影心](Shadowheart.md "Shadowheart")在队伍中，当接近狼时，她会进行一次被动的[感知](Wisdom.md "Wisdom")[检定](Ability_check.md "Ability check")（前提是之前没有发生过）。如果失败，她会提示与玩家角色进行对话，这可以推进她的[伙伴任务](Daughter_of_Darkness.md "Daughter of Darkness")。
+如果[影心](Shadowheart.md "Shadowheart")在队伍中，当接近狼时，她会进行一次被动的[感知](Wisdom.md "Wisdom")[检定](Ability_check.md "Ability check")（前提是之前没有发生过）。如果失败，她会提示与玩家角色进行对话，这可以推进她的[黑暗之女](Daughter_of_Darkness.md "黑暗之女")。
 
 ### 审判官的房间
 
@@ -254,7 +254,7 @@
 - [青年迪尔'卡斯](Dyrr'kas.md "Dyrr'kas")
 - [青年米尔雅尔](Mirya'al.md "Mirya'al")
 - [青年皮林达斯](Pyrindath.md "Pyrindath")
-- [泽尔'伊](Zel'i.md "Zel'i")
+- [泽'利尔](Zel'i.md "泽'利尔")
 
 **教室**
 

@@ -16,7 +16,7 @@
 
 [附赠动作](Actions.md#Resources "动作")
 
-- 吞噬浆果以恢复 1d4[生命值](Healing.md "治疗")
+- 吞噬浆果以恢复 1d4[治疗](Healing.md "治疗")
 
 ## 获取地点
 

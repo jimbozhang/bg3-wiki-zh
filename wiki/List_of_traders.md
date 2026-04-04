@@ -6,17 +6,17 @@
 
 ## 目录
 
-- [1 第一幕](#act-one)
-  - [1.1 荒野](#wilderness)
-  - [1.2 瑰晨修道院](#rosymorn-monastery)
-  - [1.3 幽暗地域](#underdark)
-- [2 第二幕](#act-two)
-- [3 第三幕](#act-three)
-  - [3.1 利文顿](#rivington)
-  - [3.2 飞龙关](#wyrm's-crossing)
-  - [3.3 下城区](#lower-city)
-  - [3.4 下城区下水道](#lower-city-sewers)
-  - [3.5 至高大殿](#high-hall)
+- [1 第一幕](#第一幕)
+  - [1.1 荒野](#荒野)
+  - [1.2 瑰晨修道院](#瑰晨修道院)
+  - [1.3 幽暗地域](#幽暗地域)
+- [2 第二幕](#第二幕)
+- [3 第三幕](#第三幕)
+  - [3.1 利文顿](#利文顿)
+  - [3.2 飞龙关](#飞龙关)
+  - [3.3 下城区](#下城区)
+  - [3.4 下城区下水道](#下城区下水道)
+  - [3.5 至高大殿](#至高大殿)
 
 ## 第一幕
 
@@ -30,7 +30,7 @@
 | [赛丽尔](Cyrel.md "Cyrel") | [晋升之路收费站](The_Risen_Road#Toll_House.md#Toll_House "The Risen Road") | 普通 | 消耗品 |
 | [戴摩](Dammon.md "Dammon") | [翠绿林地](Emerald_Grove.md "Emerald Grove") | 普通 | 武器和护甲 |
 | [马蒂斯](Mattis.md "Mattis") | [翠绿林地](Emerald_Grove.md "Emerald Grove") | 贫穷 | 废品 |
-| [莫尔](Mol.md "Mol") | [翠绿林地](Emerald_Grove.md "Emerald Grove") | 一般 | 废品 |
+| [摩尔](Mol.md "摩尔") | [翠绿林地](Emerald_Grove.md "Emerald Grove") | 一般 | 废品 |
 | [拾荒者格洛姆](Glomp.md "Glomp") | [地精营地](Goblin_Camp.md "Goblin Camp") | 富有 | 战利品[[#cite_note-2](#cite_note-2) [2]] |
 | [商人格拉](Grat.md "Grat") | [地精营地](Goblin_Camp.md "Goblin Camp") | 普通 | 杂货 |
 | [奥克塔](Okta.md "Okta") | [翠绿林地](Emerald_Grove.md "Emerald Grove") |  | 营地补给 |
@@ -200,8 +200,8 @@
 | --- | --- | --- | --- |
 | [巴雷基](Bareki.md "Bareki") | [底城废墟](Undercity_Ruins.md "Undercity Ruins") | 普通 | 护甲 |
 | [阿巴济戈的回声](Echo_of_Abazigal.md "Echo of Abazigal")[[#cite_note-20](#cite_note-20) [1]] | [谋杀裁判所](Murder_Tribunal.md "Murder Tribunal") |  | 武器和护甲、消耗品 |
-| [莫尔](Mol.md "Mol") | [公会大厅](Guildhall.md "Guildhall") | 无 | 消耗品、卷轴 |
-| [塞弗恩](Severn.md "Severn") | [公会大厅酒吧](Guildhall.md "Guildhall") | 普通 | 营地补给 |
+| [摩尔](Mol.md "摩尔") | [公会大厅](Guildhall.md "Guildhall") | 无 | 消耗品、卷轴 |
+| [塞弗恩](Severn.md "Severn") | [公会大厅](Guildhall.md "公会大厅") | 普通 | 营地补给 |
 | [黏糊糊的东多](Sticky_Dondo.md "Sticky Dondo") | [公会大厅](Guildhall.md "Guildhall") | 富有 | 消耗品、护甲 |
 
 1. [↑](#cite_ref-20) 如果玩家角色成为巴尔的亵渎刺客。

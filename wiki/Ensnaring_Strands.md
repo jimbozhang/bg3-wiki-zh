@@ -1,6 +1,6 @@
 # 诱捕绳索
 
-**诱捕绳索**是一个[等级1咒法学派法术](Spells.md "Spells")。它是一个物品法术，类似于[诱捕打击](Ensnaring_Strike.md "Ensnaring Strike")，可以在装备[残忍蛰刺](Cruel_Sting.md "Cruel Sting")时施放。
+**诱捕绳索**是一个[法术](Spells.md "法术")。它是一个物品法术，类似于[诱捕打击](Ensnaring_Strike.md "Ensnaring Strike")，可以在装备[残忍蛰刺](Cruel_Sting.md "Cruel Sting")时施放。
 
 ## 描述
 

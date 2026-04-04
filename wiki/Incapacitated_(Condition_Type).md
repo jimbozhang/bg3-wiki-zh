@@ -59,7 +59,7 @@
 [蛛丝墓穴](Gossamer_Tomb_(Condition).md "蛛丝墓穴 (状态)")
 |
 
-- 该生物被[感染](Infested_(Condition).md "感染 (状态)")的蛛丝包裹，无法移动或进行动作。除非用[强酸](Acid.md "强酸")或[火焰](Fire.md "Fire")伤害移除蛛丝，否则蛛丝会爆炸，对被包裹的生物造成8d10[毒素](Poison.md "毒素")伤害。
+- 该生物被[感染](Infested_(Condition).md "感染 (状态)")的蛛丝包裹，无法移动或进行动作。除非用[强酸](Acid.md "强酸")或[火焰](Fire.md "Fire")伤害移除蛛丝，否则蛛丝会爆炸，对被包裹的生物造成8d10[中毒](Poison.md "中毒")伤害。
 
 [被擒抱](Grappled_(Condition).md "被擒抱 (状态)")
 |
@@ -75,7 +75,7 @@
 |
 
 - 膨胀到无可救药。轻微触碰即会爆炸。
-- 触碰受此状态影响的实体将导致半径3米（10英尺）范围内爆发8d6[毒素](Poison.md "毒素")伤害，形成相同大小的[毒云](Poison_Cloud.md "毒云")，并彻底摧毁该实体。
+- 触碰受此状态影响的实体将导致半径3米（10英尺）范围内爆发8d6[中毒](Poison.md "中毒")伤害，形成相同大小的[毒云](Poison_Cloud.md "毒云")，并彻底摧毁该实体。
 
 [心形恐怖：蜕变](Heartform_Terror_colon__Ceremorphosis_(Condition).md "心形恐怖：蜕变 (状态)")
 |
@@ -134,7 +134,7 @@
 |
 
 - 受影响实体暂时转变为黄金。无法移动或进行[动作](Action.md "Action")、[附赠动作](Bonus_action.md "Bonus Action")或[反应](Reaction.md "Reaction")。
-- 对[毒素](Poison.md "毒素")和[疾病](Disease.md "疾病")免疫。
+- 对[中毒](Poison.md "中毒")和[疾病](Disease.md "疾病")免疫。
 - 无法被[缴械](Weapon_Dropped!_(Condition).md "武器掉落！ (状态)")。
 
 \_(状态)[麻痹](Paralysed_(Karabasan's_Gift)_(Condition).md "麻痹 (噩梦馈赠) (状态)")

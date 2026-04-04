@@ -91,23 +91,23 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "Relentless Avenger")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你用[借机攻击](Opportunity_Attack.md "Opportunity Attack")命中敌人，你的[移动速度](Movement_speed.md "Movement Speed")在下一回合增加4.5米/15英尺。
 
@@ -161,23 +161,23 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "Relentless Avenger")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你用[借机攻击](Opportunity_Attack.md "Opportunity Attack")命中敌人，你的[移动速度](Movement_speed.md "Movement Speed")在下一回合增加4.5米/15英尺。
 
@@ -231,23 +231,23 @@
 
 ## 特性
 
-- [**神佑**](Divine_Health.md "Divine Health")
+- [神佑](Divine_Health.md "神佑")
 
 免疫[疾病](Disease.md "Disease")效果。
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "Two-Handed")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "Relentless Avenger")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你用[借机攻击](Opportunity_Attack.md "Opportunity Attack")命中敌人，你的[移动速度](Movement_speed.md "Movement Speed")在下一回合增加4.5米/15英尺。
 
@@ -269,18 +269,18 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 死者交谈](#speak-with-dead)
-- [3 战利品](#loot)
-- [4 注释与参考](#notes-and-references)
+- [1 出场](#出场)
+- [2 死者交谈](#死者交谈)
+- [3 战利品](#战利品)
+- [4 注释与参考](#注释与参考)
 
 ## 出场
 
-刘易斯·莫雷尔被[城市守卫](Watcher_Guardian.md "Watcher Guardian")的残余势力杀害，是位于 X: 254 Y: 76 区域的两具尸体之一，可使用[死者交谈](Speak_with_Dead.md "Speak with Dead")与之对话，另一具是[哈尔法尔](Halfar.md "Halfar")。
+刘易斯·莫雷尔被[守望者卫士](Watcher_Guardian.md "守望者卫士")的残余势力杀害，是位于 X: 254 Y: 76 区域的两具尸体之一，可使用[死者交谈](Speak_with_Dead.md "Speak with Dead")与之对话，另一具是[哈尔法尔](Halfar.md "Halfar")。
 
 刘易斯·莫雷尔曾是博德之门的一名工人，但因担心[钢铁卫士](Steel_Watcher.md "Steel Watcher")可能取代他的工作，他很快被卷入[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")，无论是被迫还是自愿。<sup>[\[1\]](#cite_note-1)</sup>
 
-作为至上真神军队中的一名教徒，刘易斯·莫雷尔参与了从[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")深处对[至高大殿](High_Hall.md "High Hall")的大规模进攻。在与[城市守卫](Watcher_Guardian.md "Watcher Guardian")的后续战斗中，教徒们击败了城市守卫并迫使其残余势力逃离该区域，但付出了高昂的伤亡代价——刘易斯·莫雷尔也在其中。
+作为至上真神军队中的一名教徒，刘易斯·莫雷尔参与了从[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")深处对[至高大殿](High_Hall.md "High Hall")的大规模进攻。在与[守望者卫士](Watcher_Guardian.md "守望者卫士")的后续战斗中，教徒们击败了城市守卫并迫使其残余势力逃离该区域，但付出了高昂的伤亡代价——刘易斯·莫雷尔也在其中。
 
 ## 死者交谈
 
@@ -361,7 +361,7 @@ UUID
 ## 注释与参考
 
 1. [↑](#cite_ref-1) 目前尚不清楚刘易斯·莫雷尔是如何加入[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")的，因为他的对话既提到了放弃博德之门的个人动机、对至上真神的忠诚，以及希望冒险小队失败，但也提到他对教派的依附并非出于自愿。
-1. [↑](#cite_ref-2) 根据开发者注释，刘易斯·莫雷尔的对话可能是为了让好奇的玩家知道正面进攻至高大殿是危险的，并微妙地提示他们[至上真神使用的秘密地下通道](Upper_City_Sewers.md "Upper City Sewers")的位置。
+1. [↑](#cite_ref-2) 根据开发者注释，刘易斯·莫雷尔的对话可能是为了让好奇的玩家知道正面进攻至高大殿是危险的，并微妙地提示他们[上城区下水道](Upper_City_Sewers.md "上城区下水道")的位置。
 
 ---
 *Source: [Lewis Morell](https://bg3.wiki/wiki/Lewis_Morell)*

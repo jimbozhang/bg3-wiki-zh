@@ -1,6 +1,6 @@
 # 弱点挥砍
 
-**弱点挥砍**是一个[等级 1 变化学派法术](Spells.md "Spells")。此法术是[标点弱点](Brand_the_Weak.md "标点弱点")的变体，它使敌人对[挥砍](Slashing.md "Slashing")伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
+**弱点挥砍**是一个[法术](Spells.md "法术")。此法术是[标点弱点](Brand_the_Weak.md "标点弱点")的变体，它使敌人对[挥砍](Slashing.md "Slashing")伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
 
 ## 描述
 

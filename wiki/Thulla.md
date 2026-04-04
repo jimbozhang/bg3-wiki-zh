@@ -91,23 +91,23 @@
 
 ## 特性
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**岩石伪装**](Stone_Camouflage.md "岩石伪装")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
 你在[隐匿](Stealth.md "隐匿")检定上具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -161,23 +161,23 @@
 
 ## 特性
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**岩石伪装**](Stone_Camouflage.md "岩石伪装")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
 
 你在[隐匿](Stealth.md "隐匿")检定上具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Superior_Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 可在黑暗中看到 24 米 / 80 英尺。
 
@@ -245,7 +245,7 @@ UUID
 
 有几种方法可以治愈图拉。小队可以使用[抗毒剂](Antidote.md "抗毒剂")、[灰矮人解毒剂](Duergar_Antidote.md "灰矮人解毒剂")、[毒素抗性灵药](Elixir_of_Poison_Resistance.md "毒素抗性灵药")，或施展法术如[圣疗](Lay_on_Hands.md "圣疗")、[恢复](Lesser_Restoration.md "恢复")或[防护毒素](Protection_from_Poison.md "防护毒素")。
 
-如果交互的小队成员通过 DC 15 的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")来结束她的痛苦，也可以对她进行仁慈处决。以这种方式杀死图拉会奖励小队 10 点经验值，但会吸引蕈人的注意，要求解释这一行为。
+如果交互的小队成员通过 DC 15 的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")来结束她的痛苦，也可以对她进行仁慈处决。以这种方式杀死图拉会奖励小队 10 点经验值，但会吸引蕈人的注意，要求解释这一行为。
 
 或者，也可以不治愈她就获得靴子，通过调查检定后偷窃，或在她死亡时掠夺她的尸体。这样做会为具有[罪犯](Criminal.md "罪犯")背景的小队成员授予激励点⁠[迅速偷窃](Criminal.md#Swiftly_Stolen "罪犯")。
 
@@ -281,7 +281,7 @@ UUID
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体](Constitution.md "体质")[豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质")[豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 

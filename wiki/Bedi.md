@@ -94,19 +94,19 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能是目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当你未穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -114,7 +114,7 @@
 
 未穿戴护甲时，将[体质](Constitution.md "体质")调整值加到[护甲等级](AC.md "护甲等级")上。
 
-- [**狂狼之心**](Wolf_Heart.md "狂狼之心")
+- [狂狼之心](Wolf_Heart.md "狂狼之心")
 
 在[狂暴](Rage_(Condition).md "狂暴（状态）")时可以使用[激励咆哮](Inciting_Howl.md "激励咆哮"), 盟友对 2 米 (7 英尺) 范围内的敌人进行近战攻击掷骰时具有[优势](Advantage.md "优势")。
 
@@ -166,19 +166,19 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能是目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当你未穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -186,7 +186,7 @@
 
 未穿戴护甲时，将[体质](Constitution.md "体质")调整值加到[护甲等级](AC.md "护甲等级")上。
 
-- [**狂狼之心**](Wolf_Heart.md "狂狼之心")
+- [狂狼之心](Wolf_Heart.md "狂狼之心")
 
 在[狂暴](Rage_(Condition).md "狂暴（状态）")时可以使用[激励咆哮](Inciting_Howl.md "激励咆哮"), 盟友对 2 米 (7 英尺) 范围内的敌人进行近战攻击掷骰时具有[优势](Advantage.md "优势")。
 
@@ -238,19 +238,19 @@
 
 ## 特性
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的敏捷豁免检定中具有优势。不能是目盲或失能状态。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当你未穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -258,7 +258,7 @@
 
 未穿戴护甲时，将[体质](Constitution.md "体质")调整值加到[护甲等级](AC.md "护甲等级")上。
 
-- [**狂狼之心**](Wolf_Heart.md "狂狼之心")
+- [狂狼之心](Wolf_Heart.md "狂狼之心")
 
 在[狂暴](Rage_(Condition).md "狂暴（状态）")时可以使用[激励咆哮](Inciting_Howl.md "激励咆哮"), 盟友对 2 米 (7 英尺) 范围内的敌人进行近战攻击掷骰时具有[优势](Advantage.md "优势")。
 
@@ -288,18 +288,18 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第二幕](#act-two)
-    - [1.1.1 跟随护卫队](#follow-the-convoy)
-    - [1.1.2 伏击](#ambush)
-    - [1.1.3 抵达月出之塔](#arriving-at-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 注释](#notes)
-- [5 参考文献](#references)
+- [1 参与度](#参与度)
+  - [1.1 第二幕](#第二幕)
+    - [1.1.1 跟随护卫队](#跟随护卫队)
+    - [1.1.2 伏击](#伏击)
+    - [1.1.3 抵达月出之塔](#抵达月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 注释](#注释)
+- [5 参考文献](#参考文献)
 
 ## 参与度
 
@@ -395,7 +395,7 @@ UUID
 
 你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "投掷")属性的武器的伤害与武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与武器的近战伤害相同。
 
 射程：3-18 米 (10-60 英尺)
 

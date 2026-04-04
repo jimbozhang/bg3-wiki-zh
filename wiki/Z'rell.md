@@ -30,7 +30,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -100,19 +100,19 @@
 
 - - - - - ## 特性
 
-- [**至上真神的守御**](Absolute's_Aegis.md "至上真神的守御")
+- [至上真神的守御](Absolute's_Aegis.md "至上真神的守御")
 
 如果持有者带有[至上真神烙印](Absolute's_Brand.md "至上真神烙印")，则受到的所有法术伤害减少1点。
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力")调整值加到[魔能爆](Eldritch_Blast.md "魔能爆")伤害上。
 
-- [**黑暗之子的祝福**](Dark_One's_Blessing.md "黑暗之子的祝福")
+- [黑暗之子的祝福](Dark_One's_Blessing.md "黑暗之子的祝福")
 
 每当你将一个敌对生物的生命值降至0时，你的契约主赐予的这份礼物将为你提供[魅力](Charisma.md "魅力")调整值 + [邪术师](Warlock.md "邪术师")等级的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -120,9 +120,9 @@
 
 当敌人施放法术时，可以使用[反应](Reaction_(Resource)来造成每法术等级1d4.md)点[心灵](Psychic.md "心灵")伤害。
 
-- [**盾牌猛击**](Shield_Bash.md "盾牌猛击")
+- [盾牌猛击](Shield_Bash.md "盾牌猛击")
 
-当被近战攻击命中时，可以使用[反应](Reaction_(Resource)将攻击者击.md)至[倒伏](Prone_(Condition).md)，除非他们通过[敏捷](DEX.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")。
+当被近战攻击命中时，可以使用[反应](Reaction_(Resource)将攻击者击.md)至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 探索者难度属性
 
@@ -170,19 +170,19 @@
 
 - - - - - ## 特性
 
-- [**至上真神的守御**](Absolute's_Aegis.md "至上真神的守御")
+- [至上真神的守御](Absolute's_Aegis.md "至上真神的守御")
 
 如果持有者带有[至上真神烙印](Absolute's_Brand.md "至上真神烙印")，则受到的所有法术伤害减少1点。
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力")调整值加到[魔能爆](Eldritch_Blast.md "魔能爆")伤害上。
 
-- [**黑暗之子的祝福**](Dark_One's_Blessing.md "黑暗之子的祝福")
+- [黑暗之子的祝福](Dark_One's_Blessing.md "黑暗之子的祝福")
 
 每当你将一个敌对生物的生命值降至0时，你的契约主赐予的这份礼物将为你提供[魅力](Charisma.md "魅力")调整值 + [邪术师](Warlock.md "邪术师")等级的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -190,9 +190,9 @@
 
 当敌人施放法术时，可以使用[反应](Reaction_(Resource)来造成每法术等级1d4.md)点[心灵](Psychic.md "心灵")伤害。
 
-- [**盾牌猛击**](Shield_Bash.md "盾牌猛击")
+- [盾牌猛击](Shield_Bash.md "盾牌猛击")
 
-当被近战攻击命中时，可以使用[反应](Reaction_(Resource)将攻击者击.md)至[倒伏](Prone_(Condition).md)，除非他们通过[敏捷](DEX.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")。
+当被近战攻击命中时，可以使用[反应](Reaction_(Resource)将攻击者击.md)至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 硬核难度属性
 
@@ -240,19 +240,19 @@
 
 - - - - - ## 特性
 
-- [**至上真神的守御**](Absolute's_Aegis.md "至上真神的守御")
+- [至上真神的守御](Absolute's_Aegis.md "至上真神的守御")
 
 如果持有者带有[至上真神烙印](Absolute's_Brand.md "至上真神烙印")，则受到的所有法术伤害减少1点。
 
-- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
 
 [魅力](Charisma.md "魅力")调整值加到[魔能爆](Eldritch_Blast.md "魔能爆")伤害上。
 
-- [**黑暗之子的祝福**](Dark_One's_Blessing.md "黑暗之子的祝福")
+- [黑暗之子的祝福](Dark_One's_Blessing.md "黑暗之子的祝福")
 
 每当你将一个敌对生物的生命值降至0时，你的契约主赐予的这份礼物将为你提供[魅力](Charisma.md "魅力")调整值 + [邪术师](Warlock.md "邪术师")等级的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -260,11 +260,11 @@
 
 当敌人施放法术时，可以使用[反应](Reaction_(Resource)来造成每法术等级1d4.md)点[心灵](Psychic.md "心灵")伤害。
 
-- [**盾牌猛击**](Shield_Bash.md "盾牌猛击")
+- [盾牌猛击](Shield_Bash.md "盾牌猛击")
 
-当被近战攻击命中时，可以使用[反应](Reaction_(Resource)将攻击者击.md)至[倒伏](Prone_(Condition).md)，除非他们通过[敏捷](DEX.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")。
+当被近战攻击命中时，可以使用[反应](Reaction_(Resource)将攻击者击.md)至[倒伏](Prone_(Condition).md)，除非他们通过[敏](DEX.md "敏")[豁免检定](Saving_throw.md "豁免检定")。
 
-- [**黑暗强运**](Dark_One's_Own_Luck.md "黑暗强运")
+- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
 
 召唤你的契约主改变你的命运，为一次[属性检定](Ability_Check.md "属性检定")添加1d10。
 
@@ -324,7 +324,7 @@ Stats
 
 商人[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")有一个秘密储藏室，可以通过说服泽'瑞尔让队伍进入来解锁。
 
-如果对话选项“他被派去取回的遗物究竟是什么？”没有出现，建议施放[侦测思想](Detect_Thoughts.md "侦测思想")。选择对话选项或施放法术后，必须通过DC 14的[洞悉](Insight.md "洞悉")[检定](Ability_Check.md "属性检定")，然后通过DC 18的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")。如果两次检定都成功，队伍就可以与兰恩·塔夫交谈以进入他的秘密储藏室。
+如果对话选项“他被派去取回的遗物究竟是什么？”没有出现，建议施放[侦测思想](Detect_Thoughts.md "侦测思想")。选择对话选项或施放法术后，必须通过DC 14的[洞悉](Insight.md "洞悉")[属性检定](Ability_Check.md "属性检定")，然后通过DC 18的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")。如果两次检定都成功，队伍就可以与兰恩·塔夫交谈以进入他的秘密储藏室。
 
 #### 袭击月出之塔
 
@@ -332,7 +332,7 @@ Stats
 
 #### 浪漫反应
 
-如果玩家角色通过DC 14的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")，用他们浪漫伴侣的想法分散泽'瑞尔的注意力，她会对每个伴侣有独特的对话台词。
+如果玩家角色通过DC 14的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")，用他们浪漫伴侣的想法分散泽'瑞尔的注意力，她会对每个伴侣有独特的对话台词。
 
 - 如果与[阿斯代伦](Astarion.md "阿斯代伦")浪漫：_“哎呀，你对那个脖子刺客的欲望真是诱人。我自己都想咬他一口。”_
 - 如果与[盖尔](Gale.md "盖尔")浪漫：_“嗯，你把那个法师用得很好。但那个会爱上如此可怜男人的绝望之人，内心深处一定渴望着更大的欢愉。”_
@@ -374,7 +374,7 @@ Stats
 
 尝试阻止一个正在施放的法术。
 
-如果它比你用于法术反制的法术位等级更高，你必须使用你的施法关键属性进行一次[检定](Ability_Check.md "属性检定")_[参见注释](Counterspell.md#Notes "法术反制")_来阻止它。检定的难度等于10加上你试图反制的法术等级。
+如果它比你用于法术反制的法术位等级更高，你必须使用你的施法关键属性进行一次[属性检定](Ability_Check.md "属性检定")_[参见注释](Counterspell.md#Notes "法术反制")_来阻止它。检定的难度等于10加上你试图反制的法术等级。
 
 此法术可以在你[沉默](Silenced_(Condition).md "沉默（状态）")时施放。
 
@@ -422,7 +422,7 @@ Stats
 
 ### 战术
 
-- 使用大范围法术如[火球术术](Fireball.md "火球术术")或[哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴")来开始战斗可能很诱人，因为泽'瑞尔通常在一个被盟友包围的大型开放式入口中央开始战斗。这是一个诱饵，因为她会对队伍施放的第一个法术使用[法术反制](Counterspell.md "法术反制")。建议先施放一个戏法，而不是更强的法术。
+- 使用大范围法术如[火球术](Fireball.md "火球术")或[哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴")来开始战斗可能很诱人，因为泽'瑞尔通常在一个被盟友包围的大型开放式入口中央开始战斗。这是一个诱饵，因为她会对队伍施放的第一个法术使用[法术反制](Counterspell.md "法术反制")。建议先施放一个戏法，而不是更强的法术。
 
 ### 战利品
 

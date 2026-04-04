@@ -8,15 +8,15 @@
 
 ## 目录
 
-- [1 药水的工作原理](#how-potions-work)
-- [2 治疗药水](#healing-potions)
-- [3 普通药水](#regular-potions)
-- [4 鬼婆的药水](#hag's-potions)
-- [5 毒品](#drugs)
-- [6 独特药水](#unique-potions)
-- [7 遗留药水](#legacy-potions)
-- [8 术语说明](#terminology-note)
-- [9 图库](#gallery)
+- [1 药水的工作原理](#药水的工作原理)
+- [2 治疗药水](#治疗药水)
+- [3 普通药水](#普通药水)
+- [4 鬼婆的药水](#鬼婆的药水)
+- [5 毒品](#毒品)
+- [6 独特药水](#独特药水)
+- [7 遗留药水](#遗留药水)
+- [8 术语说明](#术语说明)
+- [9 图库](#图库)
 
 ## 药水的工作原理
 
@@ -30,10 +30,10 @@
 
 | 名称 | 治疗量 | 价值 | 交易等级[[](#cite_note-trade_level-1 "[")1] | 可投掷 | 制作 |
 | --- | --- | --- | --- | --- | --- |
-| [治疗药水](Potion_of_Healing.md "治疗药水") | 2d4+2⁠⁠[生命值](Healing.md "治疗") | 10 | 1 | 是 | 3 [游荡者的零嘴](Rogue's_Morsel.md "游荡者的零嘴") + 任意[悬液](Suspension.md "悬液") |
-| [高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水") | 4d4+4⁠⁠[生命值](Healing.md "治疗") | 16 | 1 | 是 | 3 [凤仙花](Balsam.md "凤仙花") + 任意[盐](Salt.md "盐") |
-| [特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水") | 8d4+8⁠⁠[生命值](Healing.md "治疗") | 25 | 8[[](#cite_note-Jeera-2 "[")2] | 是 | 3 [麝香黄藤花瓣](Yellow_Musk_Creeper_Petals.md "麝香黄藤花瓣") + 任意[悬液](Suspension.md "悬液")。 |
-| [极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水") | 10d4+20⁠⁠[生命值](Healing.md "治疗") | 45 | 11[[](#cite_note-Jeera-2 "[")2] | 是 | 3 [麒麟毛](Ki-Rin_Hair.md "麒麟毛") + 任意[灰烬](Ash.md "灰烬") |
+| [治疗药水](Potion_of_Healing.md "治疗药水") | 2d4+2⁠⁠[治疗](Healing.md "治疗") | 10 | 1 | 是 | 3 [游荡者的零嘴](Rogue's_Morsel.md "游荡者的零嘴") + 任意[悬液](Suspension.md "悬液") |
+| [高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水") | 4d4+4⁠⁠[治疗](Healing.md "治疗") | 16 | 1 | 是 | 3 [凤仙花](Balsam.md "凤仙花") + 任意[盐](Salt.md "盐") |
+| [特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水") | 8d4+8⁠⁠[治疗](Healing.md "治疗") | 25 | 8[[](#cite_note-Jeera-2 "[")2] | 是 | 3 [麝香黄藤花瓣](Yellow_Musk_Creeper_Petals.md "麝香黄藤花瓣") + 任意[悬液](Suspension.md "悬液")。 |
+| [极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水") | 10d4+20⁠⁠[治疗](Healing.md "治疗") | 45 | 11[[](#cite_note-Jeera-2 "[")2] | 是 | 3 [麒麟毛](Ki-Rin_Hair.md "麒麟毛") + 任意[灰烬](Ash.md "灰烬") |
 
 1. [↑](#cite_ref-trade_level_1-0) 交易等级此处指购买消耗品所需的等级要求。
 1. ↑ [2.0](#cite_ref-Jeera_2-0) [2.1](#cite_ref-Jeera_2-1) 特效治疗药水和极效治疗药水可在1级时从[Jeera](Jeera.md "Jeera")处购买。

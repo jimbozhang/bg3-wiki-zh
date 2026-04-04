@@ -76,15 +76,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
-- [**睚眦必报**](Vengeful.md "睚眦必报")
+- [睚眦必报](Vengeful.md "睚眦必报")
 
 生物获得一次额外反应。当被攻击时，该生物可以使用反应以[复仇打击](Vengeful_Strike.md "复仇打击")进行反击，造成武器伤害和2d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
@@ -132,15 +132,15 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
-- [**睚眦必报**](Vengeful.md "睚眦必报")
+- [睚眦必报](Vengeful.md "睚眦必报")
 
 生物获得一次额外反应。当被攻击时，该生物可以使用反应以[复仇打击](Vengeful_Strike.md "复仇打击")进行反击，造成武器伤害和2d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
@@ -164,14 +164,14 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与动作](#attacks-and-actions)
-  - [2.2 盟友](#allies)
-  - [2.3 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 备注](#notes)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与动作](#攻击与动作)
+  - [2.2 盟友](#盟友)
+  - [2.3 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 备注](#备注)
 
 ## 出场
 
@@ -179,7 +179,7 @@ Stats
 
 与其他[面具](Category_colon_Hag_Victims.md "Category:Hag Victims")一样，复仇面具最初因佩戴[低语面具](Whispering_Mask.md "低语面具")而处于敌对状态，这使她受到[羊群一员](Part_of_the_Flock.md "羊群一员")的[魅惑](Charmed_(Condition).md "魅惑 (状态)")效果影响。
 
-如果她在埃赛尔死后被遇到，她将不再敌对，但她的理智已经崩溃。如果埃赛尔已被击败但队伍接受了[鬼婆的头发](Auntie_Ethel's_Hair.md "埃赛尔婶婶的头发")的提议并让埃赛尔逃脱，她仍然会敌对。
+如果她在埃赛尔死后被遇到，她将不再敌对，但她的理智已经崩溃。如果埃赛尔已被击败但队伍接受了[埃赛尔婶婶的头发](Auntie_Ethel's_Hair.md "埃赛尔婶婶的头发")的提议并让埃赛尔逃脱，她仍然会敌对。
 
 ## 战斗
 

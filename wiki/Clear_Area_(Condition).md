@@ -34,7 +34,7 @@
 
 ## 清晰区域的来源
 
-- 在无遮蔽区域中 [隐藏](Hide.md "Hide") 时获得。
+- 在无遮蔽区域中 [躲藏](Hide.md "躲藏") 时获得。
 
 ---
 *Source: [Clear Area (Condition)](https://bg3.wiki/wiki/Clear_Area_(Condition)*

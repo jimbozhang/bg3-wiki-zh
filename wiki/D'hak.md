@@ -75,13 +75,13 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
-3 米 (10 英尺) 内的盟友对与你相邻的敌人进行[攻击掷骰](Advantage.md "Advantage")时具有[优势](Advantage.md "Advantage")。
+3 米 (10 英尺) 内的盟友对与你相邻的敌人进行[优势](Advantage.md "优势")时具有[优势](Advantage.md "Advantage")。
 
 ## 探索者难度属性
 
@@ -127,13 +127,13 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
-3 米 (10 英尺) 内的盟友对与你相邻的敌人进行[攻击掷骰](Advantage.md "Advantage")时具有[优势](Advantage.md "Advantage")。
+3 米 (10 英尺) 内的盟友对与你相邻的敌人进行[优势](Advantage.md "优势")时具有[优势](Advantage.md "Advantage")。
 
 ## 硬核难度属性
 
@@ -179,17 +179,17 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "Extra Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
-3 米 (10 英尺) 内的盟友对与你相邻的敌人进行[攻击掷骰](Advantage.md "Advantage")时具有[优势](Advantage.md "Advantage")。
+3 米 (10 英尺) 内的盟友对与你相邻的敌人进行[优势](Advantage.md "优势")时具有[优势](Advantage.md "Advantage")。
 
 ## 技术
 
@@ -217,11 +217,11 @@ Stats
 
 ## 内容
 
-- [1 参与剧情](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 图集](#gallery)
+- [1 参与剧情](#参与剧情)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 图集](#图集)
 
 ## 参与剧情
 

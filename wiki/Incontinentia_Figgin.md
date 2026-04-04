@@ -81,19 +81,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
 
@@ -141,19 +141,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
 
@@ -201,19 +201,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
 
@@ -239,19 +239,19 @@ UUID
 
 ## 目录
 
-- [1 参与情况](#involvement)
-- [2 相关任务](#related-quests)
-- [3 战利品](#loot)
-- [4 备注](#notes)
-- [5 外部链接](#external-links)
+- [1 参与情况](#参与情况)
+- [2 相关任务](#相关任务)
+- [3 战利品](#战利品)
+- [4 备注](#备注)
+- [5 外部链接](#外部链接)
 
 ## 参与情况
 
 费金的尸体可在[拉韦尔尼卡之家](Lavernica's_Home.md "拉韦尔尼卡之家")地下室后方的一个洞穴中找到。
 
-费金被[腥红奥林](Orin.md "腥红奥林")杀害。她的尸体被用作奥林“艺术”的一部分，作为[森代](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "博德之门前作参考列表")的肖像——森代是一名一个多世纪前被击败的巴尔之子，同时还有许多其他女性卓尔的尸体（全部与她本人外观相同），以及数名灰矮人、土元素，甚至一名夺心魔。
+费金被[奥林](Orin.md "奥林")杀害。她的尸体被用作奥林“艺术”的一部分，作为[森代](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "博德之门前作参考列表")的肖像——森代是一名一个多世纪前被击败的巴尔之子，同时还有许多其他女性卓尔的尸体（全部与她本人外观相同），以及数名灰矮人、土元素，甚至一名夺心魔。
 
-费金的尸体可被搜刮，获得[小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")的身体部位之一，以及[奥林的仪式笔记](Orin's_Ritual_Note.md "奥林的仪式笔记")的第三份。
+费金的尸体可被搜刮，获得[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")的身体部位之一，以及[奥林的仪式笔记](Orin's_Ritual_Note.md "奥林的仪式笔记")的第三份。
 
 ## 相关任务
 

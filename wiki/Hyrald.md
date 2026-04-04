@@ -29,7 +29,7 @@
 
 ### 原型
 
-[莎尔信徒](Sharran_Fidelian.md "Sharran Fidelian")
+[莎尔信徒菲蒂利安](Sharran_Fidelian.md "莎尔信徒菲蒂利安")
 
 ### 职业
 
@@ -87,15 +87,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
@@ -145,15 +145,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
@@ -203,15 +203,15 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**阴影伏击**](Shadow_Ambush.md "Shadow Ambush")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 此生物从阴影中攻击时，造成额外 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
 此生物可以看穿魔法和非魔法的黑暗，并且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
@@ -229,19 +229,19 @@ UUID
 
 属性
 
-`LOW_HouseOfGrief_Cultist_Caster_Human` **海拉德**是位于 X: -375 Y: -1639 的[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace")中的一名[莎尔信徒](Sharran_Fidelian.md "Sharran Fidelian")。
+`LOW_HouseOfGrief_Cultist_Caster_Human` **海拉德**是位于 X: -375 Y: -1639 的[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace")中的一名[莎尔信徒菲蒂利安](Sharran_Fidelian.md "莎尔信徒菲蒂利安")。
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关文献](#related-literature)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关文献](#相关文献)
 
 ## 参与
 
-如果队伍拒绝交出[影心](Shadowheart.md "Shadowheart")，海拉德会与女祭司长[维康妮亚·迪佛](Viconia_DeVir.md "Viconia DeVir")并肩作战。与其他[莎尔信徒](Sharran_Fidelian.md "Sharran Fidelian")一样，他主要是一名施法者，并用黑暗笼罩战场以削弱对手。
+如果队伍拒绝交出[影心](Shadowheart.md "Shadowheart")，海拉德会与女祭司长[维康妮亚·迪佛](Viconia_DeVir.md "Viconia DeVir")并肩作战。与其他[莎尔信徒菲蒂利安](Sharran_Fidelian.md "莎尔信徒菲蒂利安")一样，他主要是一名施法者，并用黑暗笼罩战场以削弱对手。
 
 ## 战斗
 
@@ -275,7 +275,7 @@ UUID
 范围: 18 米 (60 英尺)
 
 [暗影步](Shadow_Step.md "Shadow Step") ()
-从[阴影](Lightly_Obscured.md "Lightly Obscured")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
 
 范围: 18 米 (60 英尺)
 

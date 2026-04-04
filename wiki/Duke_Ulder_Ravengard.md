@@ -104,7 +104,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 20 / (+5) | 14 / (+2) | 19 / (+4) | 11 / (0) | 10 / (0) | 19 / (+4) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -112,15 +112,15 @@
 
 ## 特性
 
-- [**火之耐力**](Endurance_by_Fire.md "火之耐力")
+- [火之耐力](Endurance_by_Fire.md "火之耐力")
 
 对[火焰](Fire.md "火焰")的[抗性](Resistance.md "抗性")，且[豁免检定](Saving_throws.md "豁免检定")+2。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
@@ -128,11 +128,11 @@
 
 所有受到的伤害减少2点。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -140,9 +140,9 @@
 
 被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**激励击杀**](Stirring_Execution.md "激励击杀")
+- [激励击杀](Stirring_Execution.md "激励击杀")
 
-击杀敌人时，9米/30英尺范围内的盟友获得基于[魅力](CHA.md "魅力")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+击杀敌人时，9米/30英尺范围内的盟友获得基于[魅](CHA.md "魅")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 ## 探索者难度属性
 
@@ -186,7 +186,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +9 | +2 | +8 | 0 | +4 | +4 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -194,15 +194,15 @@
 
 ## 特性
 
-- [**火之耐力**](Endurance_by_Fire.md "火之耐力")
+- [火之耐力](Endurance_by_Fire.md "火之耐力")
 
 对[火焰](Fire.md "火焰")的[抗性](Resistance.md "抗性")，且[豁免检定](Saving_throws.md "豁免检定")+2。
 
-- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 
 主手武器攻击后可再进行两次攻击。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
@@ -210,11 +210,11 @@
 
 所有受到的伤害减少2点。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
 
 在3米/10英尺范围内，与持有盾牌且未[失能](Incapacitated_(Condition)的盟友一起时.md)，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
@@ -222,9 +222,9 @@
 
 被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
 
-- [**激励击杀**](Stirring_Execution.md "激励击杀")
+- [激励击杀](Stirring_Execution.md "激励击杀")
 
-击杀敌人时，9米/30英尺范围内的盟友获得基于[魅力](CHA.md "魅力")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+击杀敌人时，9米/30英尺范围内的盟友获得基于[魅](CHA.md "魅")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 ## 技术数据
 
@@ -276,7 +276,7 @@ UUID
 
 雷文伽德公爵被感染
 
-队伍可以得知他被[绝对](Absolute.md "绝对")的追随者带到了[月出之塔](Moonrise_Towers.md "月出之塔")。在月出之塔下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，会与三选民——[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")、[腥红奥林](Orin.md "腥红奥林")和[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")以及乌尔德·雷文伽德相遇。三选民用夺心魔蝌蚪感染了雷文伽德，然后将他送往[博德之门](Baldur's_Gate.md "博德之门")。
+队伍可以得知他被[绝对](Absolute.md "绝对")的追随者带到了[月出之塔](Moonrise_Towers.md "月出之塔")。在月出之塔下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，会与三选民——[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")、[奥林](Orin.md "奥林")和[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")以及乌尔德·雷文伽德相遇。三选民用夺心魔蝌蚪感染了雷文伽德，然后将他送往[博德之门](Baldur's_Gate.md "博德之门")。
 
 ### 第三幕
 
@@ -302,7 +302,7 @@ UUID
 
 如果米佐拉和她的见证人[西拉斯](Cirrus.md "西拉斯")和[菲娜](Feena.md "菲娜")未在营地首先交谈，公爵会被发现死亡。逃离钢铁王座后，队伍可以与米佐拉达成协议，以复活公爵为条件换取更新威尔的契约，或拒绝协议以打破契约。此选项的可用性取决于威尔的状态和早期选择。
 
-如果获救，雷文伽德公爵在[星界棱镜](Mysterious_Artefact.md "神秘遗物")的保护下留在营地。如果威尔与队伍在一起，两人可以和解，雷文伽德要求队伍寻找[安苏](Ansur.md "安苏")，这位博德之门的守护龙沉睡在城市下方。如果[威尔](Wyll.md "威尔")被杀（例如，在[第一幕](Act_One.md "第一幕")中与[卡菈克](Karlach.md "卡菈克")发生冲突），在通过[君主](The_Emperor.md "君主")分享玩家角色的记忆时，此细节不会与雷文伽德分享。
+如果获救，雷文伽德公爵在[神秘遗物](Mysterious_Artefact.md "神秘遗物")的保护下留在营地。如果威尔与队伍在一起，两人可以和解，雷文伽德要求队伍寻找[安苏](Ansur.md "安苏")，这位博德之门的守护龙沉睡在城市下方。如果[威尔](Wyll.md "威尔")被杀（例如，在[第一幕](Act_One.md "第一幕")中与[卡菈克](Karlach.md "卡菈克")发生冲突），在通过[君主](The_Emperor.md "君主")分享玩家角色的记忆时，此细节不会与雷文伽德分享。
 
 ## 相关文献
 
@@ -444,7 +444,7 @@ UUID
 
 - 数据挖掘表明，在开发过程中曾有一个阶段，乌尔德·雷文伽德可以在[第二幕](Act_Two.md "第二幕")期间被营救。参见 Dialogs/Act2/Haven/HAV_Ravengard 和 Dialogs/Act2/MoonriseTowers/HAV_Minthara
 - 在任何时候攻击乌尔德·雷文伽德都会导致威尔与队伍敌对。
-- 雷文伽德可以被杀死，他的[长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑")、[护甲](Emblazoned_Plate_of_the_Marshal.md "元帅纹章板甲")和[《安苏传奇》](The_Legend_of_Ansur.md "《安苏传奇》")可以在公爵从钢铁王座释放后从其尸体上掠夺，而在某些情况下不会使威尔或营地敌对。通过[维多利亚](Victoria.md "维多利亚")的[枯竭诅咒 (状态)](Sapping_Curse_(Condition)暴露杀死他不被视为玩家角色的攻击.md)。
+- 雷文伽德可以被杀死，他的[雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑")、[元帅纹章板甲](Emblazoned_Plate_of_the_Marshal.md "元帅纹章板甲")和[《安苏传奇》](The_Legend_of_Ansur.md "《安苏传奇》")可以在公爵从钢铁王座释放后从其尸体上掠夺，而在某些情况下不会使威尔或营地敌对。通过[维多利亚](Victoria.md "维多利亚")的[枯竭诅咒 (状态)](Sapping_Curse_(Condition)暴露杀死他不被视为玩家角色的攻击.md)。
 
 ## 相关链接
 

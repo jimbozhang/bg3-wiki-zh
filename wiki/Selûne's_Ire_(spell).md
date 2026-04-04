@@ -1,6 +1,6 @@
 # 塞伦涅之怒 (法术)
 
-**塞伦涅之怒**是一个[5级塑能学派法术](Spells.md "Spells")。[月光碎片](Moonlight_Sliver.md "月光碎片")可以在被击中时将其用作[反应](reaction.md "reaction")，以造成[光耀伤害](Radiant.md "Radiant")。玩家角色无法学习此法术。
+**塞伦涅之怒**是一个[法术](Spells.md "法术")。[月光碎片](Moonlight_Sliver.md "月光碎片")可以在被击中时将其用作[反应](reaction.md "reaction")，以造成[光耀](Radiant.md "光耀")。玩家角色无法学习此法术。
 
 ## 描述
 

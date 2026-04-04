@@ -69,7 +69,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -99,11 +99,11 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 伙伴好感度](#companion-approval)
-- [3 空闲对话](#idle-banter)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第三幕](#第三幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 空闲对话](#空闲对话)
+- [4 外部链接](#外部链接)
 
 ## 出场
 

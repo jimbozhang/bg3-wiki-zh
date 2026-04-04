@@ -2,7 +2,7 @@
 
 **诅咒头骨**
 
-- 这个[头骨](Cursed_Skull.md "诅咒头骨")被死灵法术力量诅咒，会发射[雷鸣波](Thunderwave.md "雷鸣波")。
+- 这个[诅咒头骨](Cursed_Skull.md "诅咒头骨")被死灵法术力量诅咒，会发射[雷鸣波](Thunderwave.md "雷鸣波")。
 
 [诅咒](Cursed_(status_group).md)
 
@@ -28,7 +28,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 这个[头骨](Cursed_Skull.md "诅咒头骨")被死灵法术力量诅咒，会发射[雷鸣波](Thunderwave.md "雷鸣波")。
+- 这个[诅咒头骨](Cursed_Skull.md "诅咒头骨")被死灵法术力量诅咒，会发射[雷鸣波](Thunderwave.md "雷鸣波")。
 
 ---
 *Source: [Cursed Skull (Condition)](https://bg3.wiki/wiki/Cursed_Skull_(Condition)*

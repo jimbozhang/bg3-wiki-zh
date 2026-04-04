@@ -75,19 +75,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -131,19 +131,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -187,19 +187,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -233,7 +233,7 @@ UUID
 
 ### 第三幕
 
-梅丽·费尔韦瑟可以在[脸红的美人鱼](The_Blushing_Mermaid.md "The Blushing Mermaid")外找到，她正试图鼓起勇气请求[格雷斯利船长](Quenora_Grisly.md "Quenora Grisly")在她的小册子上签名。梅丽对[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")充满敬畏，她形容他“年轻、聪明，而且_帅极了_”。尽管她的母亲坚持认为她不应该阅读[博德之口公报](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")，但梅丽相信这是博德之门唯一一份讲述真相的报纸。
+梅丽·费尔韦瑟可以在[脸红的美人鱼](The_Blushing_Mermaid.md "The Blushing Mermaid")外找到，她正试图鼓起勇气请求[奎诺拉·格雷斯利](Quenora_Grisly.md "奎诺拉·格雷斯利")在她的小册子上签名。梅丽对[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")充满敬畏，她形容他“年轻、聪明，而且_帅极了_”。尽管她的母亲坚持认为她不应该阅读[博德之口公报](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")，但梅丽相信这是博德之门唯一一份讲述真相的报纸。
 
 ---
 *Source: [Merri Fairweather](https://bg3.wiki/wiki/Merri_Fairweather)*

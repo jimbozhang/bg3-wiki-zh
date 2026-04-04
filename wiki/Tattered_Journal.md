@@ -28,7 +28,7 @@
 
 ...
 
-我醒来时收到了一份用蛛丝包裹的礼物：一双[靴子](Spiderstep_Boots.md "蜘蛛步伐靴子")，取自一个异端的尸体。⁠[罗丝](https://forgottenrealms.fandom.com/wiki/Lolth)派她的女儿们来奖励我的信仰，让我知道我走在正确的道路上。
+我醒来时收到了一份用蛛丝包裹的礼物：一双[蜘蛛步伐靴子](Spiderstep_Boots.md "蜘蛛步伐靴子")，取自一个异端的尸体。⁠[罗丝](https://forgottenrealms.fandom.com/wiki/Lolth)派她的女儿们来奖励我的信仰，让我知道我走在正确的道路上。
 
 ...
 

@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[这是一本关于大公爵瓦拉肯试图篡夺[博德之门](Baldur's_Gate.md "博德之门")四人议会权力的流行历史记述，他在其中策划了一场由名为“红月帮”的狼人邪教支持的失败政变。页边空白处有几处[戈塔什](Enver_Gortash.md "Enver Gortash")用精确笔迹写下的注释，扉页上潦草地写着：‘两个教训——第一，仅靠暗杀是不够的，第二，公爵[迪拉德·波提尔](Dillard_Portyr.md "Dillard Portyr")活过了这次事件，所以不要低估他。’\]
+\[博德之门](Baldur's_Gate.md "博德之门")四人议会权力的流行历史记述，他在其中策划了一场由名为“红月帮”的狼人邪教支持的失败政变。页边空白处有几处[戈塔什](Enver_Gortash.md "Enver Gortash")用精确笔迹写下的注释，扉页上潦草地写着：‘两个教训——第一，仅靠暗杀是不够的，第二，公爵[迪拉德·波提尔](Dillard_Portyr.md "Dillard Portyr")活过了这次事件，所以不要低估他。’\]
 
 ---
 *Source: [Valarken's Failed Coup](https://bg3.wiki/wiki/Valarken's_Failed_Coup)*

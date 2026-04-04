@@ -26,7 +26,7 @@
 
 [埃米琳·圣叶](Emmeline_Hallowleaf.md "埃米琳·圣叶")
 
-[阿利斯·波缪男爵](Baron_Bormul's_Will.md "波缪男爵的遗嘱") - 已故
+[波缪男爵的遗嘱](Baron_Bormul's_Will.md "波缪男爵的遗嘱") - 已故
 
 未知闯入者 - 已故
 

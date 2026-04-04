@@ -6,7 +6,7 @@
 
 ## 描述
 
-你获得对[先攻检定](Initiative.md "Initiative")的+2加值。
+你获得对[先攻](Initiative.md "先攻")的+2加值。
 
 ## 如何习得
 

@@ -73,7 +73,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -113,7 +113,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -153,7 +153,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -171,7 +171,7 @@ UUID
 
 Stats
 
-`Human_Child` **报纸小贩杰森**是[人类](Human.md "Human")儿童，在[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")广场 X: -31 Y: -52 销售[报纸](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")。
+`Human_Child` **报纸小贩杰森**是[人类](Human.md "Human")儿童，在[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")广场 X: -31 Y: -52 销售[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")。
 
 > “
 >

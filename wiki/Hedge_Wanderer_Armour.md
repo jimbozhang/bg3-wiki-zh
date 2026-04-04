@@ -1,6 +1,6 @@
 # 树篱漫游者皮甲
 
-树篱漫游者皮甲是一件[中甲](Armour.md#Medium_Armour "护甲")，能为[敏捷](Dexterity.md "敏捷")相关掷骰和[自然](Nature.md "自然")[技能检定](Ability_Check.md "属性检定")提供小幅加成。
+树篱漫游者皮甲是一件[中甲](Armour.md#Medium_Armour "护甲")，能为[敏捷](Dexterity.md "敏捷")相关掷骰和[自然](Nature.md "自然")[属性检定](Ability_Check.md "属性检定")提供小幅加成。
 
 这件简单的鞣制山羊皮由一位旅行的德鲁伊附魔。一位牧羊人曾帮助她穿过一片奇特的树篱迷宫，因此她祝福了他所有的山羊以表感谢。
 

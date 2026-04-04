@@ -89,11 +89,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -141,11 +141,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -193,15 +193,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "物理")伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -249,15 +249,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "物理")伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -302,7 +302,7 @@ UUID
 
 ### 第一幕
 
-哨兵奥拉克会盘问任何接近检查站的冒险者，并攻击任何看似擅闯的人。可以通过伪装成[卓尔](Drow.md "卓尔")（例如通过[伪装术](Disguise_Self.md "伪装术")）、携带[萨扎](Sazza.md "萨扎")、使用[灵吸怪游说](Illithid_Persuasion.md "灵吸怪游说")或通过[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")来避免战斗。
+哨兵奥拉克会盘问任何接近检查站的冒险者，并攻击任何看似擅闯的人。可以通过伪装成[卓尔](Drow.md "卓尔")（例如通过[伪装术](Disguise_Self.md "伪装术")）、携带[萨扎](Sazza.md "萨扎")、使用[灵吸怪游说](Illithid_Persuasion.md "灵吸怪游说")或通过[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")来避免战斗。
 
 - [真魂者] [灵吸怪] [感知] 让开 (DC 5)
 - [战士] [威吓] 为你的首领献上我的剑。如果你愿意，我可以拿你做第一个示范。(DC 10 )

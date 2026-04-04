@@ -57,7 +57,7 @@
 
 当实体进入你的攻击范围时，你可以攻击它们。
 
-- [**永久武装**](Permanently_Armed.md "Permanently Armed")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 

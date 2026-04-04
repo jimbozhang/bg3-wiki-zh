@@ -1,10 +1,10 @@
 # 高强死灵法术
 
-**高强死灵法术**是一个被动特性，使生物更有可能在对抗你的[死灵学派法术](Necromancy.md "死灵学派法术")时失败。
+**高强死灵法术**是一个被动特性，使生物更有可能在对抗你的[死灵学派](Necromancy.md "死灵学派")时失败。
 
 ## 描述
 
-生物在对抗你的[死灵学派法术](Necromancy.md "死灵学派法术")时，[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物在对抗你的[死灵学派](Necromancy.md "死灵学派")时，[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
 ## 如何习得
 
@@ -38,7 +38,7 @@
 
 ## 简要预览
 
-生物在对抗你的[死灵学派法术](Necromancy.md "死灵学派法术")时，[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+生物在对抗你的[死灵学派](Necromancy.md "死灵学派")时，[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
 ---
 *Source: [Heightened Necromancy](https://bg3.wiki/wiki/Heightened_Necromancy)*

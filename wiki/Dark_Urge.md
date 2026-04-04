@@ -45,29 +45,29 @@
 
 ## 目录
 
-- [1 描述](#description)
-- [2 历史](#history)
-  - [2.1 早年生活](#early-life)
-  - [2.2 计划](#the-plan)
-  - [2.3 背叛](#betrayal)
-- [3 邪念](#the-urge)
-- [4 过往关系](#past-relationships)
-  - [4.1 绝对者](#the-absolute)
-  - [4.2 巴尔及其神殿](#bhaal-and-his-temple)
-  - [4.3 恩维尔·戈塔什](#enver-gortash)
-  - [4.4 奥林](#orin)
-  - [4.5 沙洛佛克·安基夫](#sarevok-anchev)
-  - [4.6 塞莱瑞塔斯·菲尔](#sceleritas-fel)
-- [5 相关文献](#related-literature)
-- [6 另见](#see-also)
-- [7 语录](#quotes)
-- [8 画廊](#gallery)
-- [9 注释](#notes)
-- [10 参考文献](#references)
+- [1 描述](#描述)
+- [2 历史](#历史)
+  - [2.1 早年生活](#早年生活)
+  - [2.2 计划](#计划)
+  - [2.3 背叛](#背叛)
+- [3 邪念](#邪念)
+- [4 过往关系](#过往关系)
+  - [4.1 绝对者](#绝对者)
+  - [4.2 巴尔及其神殿](#巴尔及其神殿)
+  - [4.3 恩维尔·戈塔什](#恩维尔·戈塔什)
+  - [4.4 奥林](#奥林)
+  - [4.5 沙洛佛克·安基夫](#沙洛佛克·安基夫)
+  - [4.6 塞莱瑞塔斯·菲尔](#塞莱瑞塔斯·菲尔)
+- [5 相关文献](#相关文献)
+- [6 另见](#另见)
+- [7 语录](#语录)
+- [8 画廊](#画廊)
+- [9 注释](#注释)
+- [10 参考文献](#参考文献)
 
 ## 描述
 
-在失忆之前，邪念比其血亲[腥红奥林](Orin.md "Orin")更为冷酷和精于算计。<sup>[\[2\]](#cite_note-gortashcontrol-2)</sup> 他们为杀而杀，偏好实用简单的方法而非浮夸与优雅，并对铺张或不必要的创造性杀戮提出异议。<sup>[\[3\]](#cite_note-kidnapdialogue-3)</sup><sup>[\[4\]](#cite_note-orinletter-4)</sup> 他们对巴尔极为忠诚，很少违抗他。<sup>[\[5\]](#cite_note-colonyletter-5)</sup><sup>[\[6\]](#cite_note-6)</sup><sup>[\[7\]](#cite_note-7)</sup>
+在失忆之前，邪念比其血亲[奥林](Orin.md "奥林")更为冷酷和精于算计。<sup>[\[2\]](#cite_note-gortashcontrol-2)</sup> 他们为杀而杀，偏好实用简单的方法而非浮夸与优雅，并对铺张或不必要的创造性杀戮提出异议。<sup>[\[3\]](#cite_note-kidnapdialogue-3)</sup><sup>[\[4\]](#cite_note-orinletter-4)</sup> 他们对巴尔极为忠诚，很少违抗他。<sup>[\[5\]](#cite_note-colonyletter-5)</sup><sup>[\[6\]](#cite_note-6)</sup><sup>[\[7\]](#cite_note-7)</sup>
 
 ## 历史
 
@@ -102,7 +102,7 @@
 
 邪念被[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter")发现，她对其意志力和抵抗主脑影响的能力印象深刻，开始研究他们。她在[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")中连续数日反复切开并缝合他们，在此期间邪念无法说话或做任何事情，只能试图对自己或他人施加暴力。<sup>[\[26\]](#cite_note-kressapast-26)</sup><sup>[\[25\]](#cite_note-kressanotes-25)</sup>
 
-克雷萨的丈夫[麦修·布吉](Maghtew_Budj.md "Maghtew Budj")注意到妻子的痴迷，希望她能清醒过来，于是安排将破碎失忆的邪念送上[鹦鹉螺船](Nautiloid.md "Nautiloid")，在那里他们很快就会醒来，对自己或过去毫无记忆。<sup>[\[27\]](#cite_note-27][[28]](#cite_note-28)</sup>
+克雷萨的丈夫[麦修·布吉](Maghtew_Budj.md "Maghtew Budj")注意到妻子的痴迷，希望她能清醒过来，于是安排将破碎失忆的邪念送上[鹦鹉螺](Nautiloid.md "鹦鹉螺")，在那里他们很快就会醒来，对自己或过去毫无记忆。<sup>[\[27\]](#cite_note-27][[28]](#cite_note-28)</sup>
 
 ## 邪念
 

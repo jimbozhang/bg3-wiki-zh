@@ -15,7 +15,7 @@
 佩戴此物品者获得：
 
 [愉悦爱抚](Fond_Caress.md "Fond_Caress")
-作为魔法戒指对之一，此戒指允许佩戴者从佩戴[匹配戒指](True_Love's_Embrace.md "True Love's Embrace")的生物处接收[守护之链](Warding_Bond.md "Warding Bond")。
+作为魔法戒指对之一，此戒指允许佩戴者从佩戴[真爱之拥](True_Love's_Embrace.md "真爱之拥")的生物处接收[守护之链](Warding_Bond.md "Warding Bond")。
 
 ## 获取地点
 

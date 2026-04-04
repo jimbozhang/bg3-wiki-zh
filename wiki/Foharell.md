@@ -16,7 +16,7 @@
 
 ### 阵营
 
-[安博里教会](Umberlee.md "Umberlee")
+[安博里](Umberlee.md "安博里")
 
 ## 属性
 
@@ -92,15 +92,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven_Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md "Poisoned (Condition)")的[豁免检定](Saving_throw.md "Saving_throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -154,15 +154,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven_Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md "Poisoned (Condition)")的[豁免检定](Saving_throw.md "Saving_throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -216,15 +216,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven_Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md "Poisoned (Condition)")的[豁免检定](Saving_throw.md "Saving_throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -254,11 +254,11 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 空闲对话](#idle-banter)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 空闲对话](#空闲对话)
 
 ## 出场
 
@@ -299,7 +299,7 @@ UUID
 
 飞行生物无法被跛足。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving_throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving_throws")
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
@@ -313,7 +313,7 @@ UUID
 
 可能使目标[恐慌](Frightened_(Condition).md "Frightened (Condition)")。他们将在[属性检定](Ability_Check.md "Ability Check")和[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")，并且无法移动。
 
-[感](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving_throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving_throws")
 范围：正常武器范围
 
 [心灵钉刺](Mind_Spike.md "Mind_Spike") (+ )
@@ -324,7 +324,7 @@ UUID
 
 深入敌人的思维，使其感知[豁免检定](Saving_throw.md "Saving throw")具有[劣势](Disadvantage.md "Disadvantage")。
 
-[感](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving_throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving_throws")
 范围：18 米 (60 英尺)
 
 [穿刺打击](Piercing_Strike.md "Piercing_Strike") () – [战镐](War_Pick.md "War Pick")
@@ -337,7 +337,7 @@ UUID
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法获得开放伤口。
 
-[体](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving_throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving_throws")
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
@@ -351,7 +351,7 @@ UUID
 
 没有武器的生物无法获得弱腕。
 
-[力](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving_throws")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "Saving_throws")
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 

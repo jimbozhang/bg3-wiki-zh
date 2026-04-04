@@ -50,12 +50,12 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 ## 备注
 
-- 当武器被[投掷](Thrown.md "投掷攻击")时，不会产生水地表。
+- 当武器被[投掷攻击](Thrown.md "投掷攻击")时，不会产生水地表。
 
 ## 错误
 
 - 此[武器](Weapon.md "武器")的游戏代码表明其应造成额外 1d4⁠⁠[寒冷](Cold.md "寒冷")伤害，但正常获取时该伤害不存在；仍可通过招募[雇佣兵](Hireling.md "雇佣兵")，让其装备三叉戟，将其遣返至魂归之所，然后再次招募来获得额外伤害。雇佣兵返回时生成的三叉戟版本带有额外 1d4⁠⁠[寒冷](Cold.md "寒冷")伤害。
-  - 另一种强制游戏生成带有额外 1d4⁠⁠[寒冷](Cold.md "寒冷")伤害的三叉戟的方法是使用[召唤分身](Invoke_Duplicity.md#Bugs "召唤分身")页面上描述的[漏洞](Invoke_Duplicity.md "召唤分身")来复制它。
+  - 另一种强制游戏生成带有额外 1d4⁠⁠[寒冷](Cold.md "寒冷")伤害的三叉戟的方法是使用[召唤分身](Invoke_Duplicity.md#Bugs "召唤分身")页面上描述的[召唤分身](Invoke_Duplicity.md "召唤分身")来复制它。
 
 ---
 *Source: [Trident of the Waves](https://bg3.wiki/wiki/Trident_of_the_Waves)*

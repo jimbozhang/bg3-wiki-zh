@@ -2,7 +2,7 @@
 
 另请参阅：[极致悲痛](Overwhelming_Grief.md "极致悲痛")
 
-**召唤黑暗**是一个[4级死灵学派法术](Spells.md "法术")。它诅咒一个生物，如果该生物进入或在其回合开始时处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)")区域，则会受到[黯蚀](Necrotic.md "黯蚀")伤害。
+**召唤黑暗**是一个[法术](Spells.md "法术")。它诅咒一个生物，如果该生物进入或在其回合开始时处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)")区域，则会受到[黯蚀](Necrotic.md "黯蚀")伤害。
 
 ## 描述
 
@@ -17,7 +17,7 @@
 2d8[黯蚀](Necrotic.md "黯蚀")（每回合）
 
 详情
-[魅](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
 射程：4米（13英尺）
 
 ## 高等级施法
@@ -40,7 +40,7 @@ UID
 
 持续时间：2回合
 
-[魅](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
 
 - 被黑暗所困扰。
 - 受影响实体如果进入或在其回合开始时处于轻度或重度遮蔽区域，则会受到2d8[黯蚀](Necrotic.md "黯蚀")伤害。

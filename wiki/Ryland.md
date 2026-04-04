@@ -74,7 +74,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -82,7 +82,7 @@
 
 如果目标处于[伏击](Ambushed_(Condition).md "伏击")状态，可进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击（变形怪）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -130,7 +130,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -138,7 +138,7 @@
 
 如果目标处于[伏击](Ambushed_(Condition).md "伏击")状态，可进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击（变形怪）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -186,11 +186,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**读心者**](Mindreader.md "读心者")
+- [读心者](Mindreader.md "读心者")
 
 远程攻击对该生物具有[劣势](Disadvantage.md "劣势")。
 
@@ -198,7 +198,7 @@
 
 如果目标处于[伏击](Ambushed_(Condition).md "伏击")状态，可进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击（变形怪）")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -242,10 +242,10 @@ UUID
 
 ## 目录
 
-- [1 互动](#interactions)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 重要战利品](#notable-loot)
+- [1 互动](#互动)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 重要战利品](#重要战利品)
 
 ## 互动
 

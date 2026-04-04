@@ -1,10 +1,10 @@
 # 枭之感知
 
-**枭之感知**是一个[等级 2 变化学派法术](Spells.md "法术")。此法术允许施法者赋予生物猫头鹰般的直觉。受影响的生物在进行[感知](Wisdom.md "感知")[检定](Ability_Check.md "属性检定")时获得[优势](Advantage.md "优势")。
+**枭之感知**是一个[法术](Spells.md "法术")。此法术允许施法者赋予生物猫头鹰般的直觉。受影响的生物在进行[感知](Wisdom.md "感知")[属性检定](Ability_Check.md "属性检定")时获得[优势](Advantage.md "优势")。
 
 ## 描述
 
-生物在进行[感知](Wisdom.md "感知")[检定](Ability_Check.md "属性检定")时获得[优势](Advantage.md "优势")。
+生物在进行[感知](Wisdom.md "感知")[属性检定](Ability_Check.md "属性检定")时获得[优势](Advantage.md "优势")。
 
 ## 属性
 
@@ -34,7 +34,7 @@ UID
 
 持续时间：直至[长休](Long_Rest.md "长休")
 
-- 在进行[感知](Wisdom.md "感知")[检定](Ability_Check.md "属性检定")时拥有[优势](Advantage.md "优势")。
+- 在进行[感知](Wisdom.md "感知")[属性检定](Ability_Check.md "属性检定")时拥有[优势](Advantage.md "优势")。
 
 ## 如何习得
 

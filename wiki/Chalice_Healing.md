@@ -20,7 +20,7 @@
 
 ## 更高等级
 
-在10级时，[闪烁星座](Twinkling_Constellations.md "闪烁星座")将基础治疗提高到2d8⁠⁠[生命值](Healing.md "治疗")。
+在10级时，[闪烁星座](Twinkling_Constellations.md "闪烁星座")将基础治疗提高到2d8⁠⁠[治疗](Healing.md "治疗")。
 
 ## 技术细节
 

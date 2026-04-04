@@ -4,7 +4,7 @@
 
 ## 描述
 
-这是一对魔法戒指中的一枚，允许佩戴者每[长休](Long_Rest.md "长休")一次，对佩戴[配套戒指](True_Love's_Caress.md "真爱之抚")的生物施放[守护之链](Warding_Bond.md "守护之链")。
+这是一对魔法戒指中的一枚，允许佩戴者每[长休](Long_Rest.md "长休")一次，对佩戴[真爱之抚](True_Love's_Caress.md "真爱之抚")的生物施放[守护之链](Warding_Bond.md "守护之链")。
 
 ## 学习方式
 

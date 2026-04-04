@@ -1,6 +1,6 @@
 # 索尔石怪的鳞屑
 
-**索尔石怪的鳞屑**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extraction "炼金术")结合，以制造[康复药水](Remedial_Potion.md "康复药水")。
+**索尔石怪的鳞屑**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extraction "炼金术")结合，以制造[康复药水](Remedial_Potion.md "康复药水")。
 
 这些研磨过的[索尔石怪](https://forgottenrealms.fandom.com/wiki/xorn)鳞片，若非其异界光泽，会与一堆沙子难以区分。
 

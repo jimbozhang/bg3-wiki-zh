@@ -1,6 +1,6 @@
 # 燃火术：熄灭
 
-**燃火术：熄灭** 是一个 [戏法（咒法学派）](Spells.md "Spells")。熄灭首次施放 [燃火术](Produce_Flame.md "Produce Flame") 后在你手中创造的火焰。
+**燃火术：熄灭** 是一个 [法术](Spells.md "法术")。熄灭首次施放 [燃火术](Produce_Flame.md "Produce Flame") 后在你手中创造的火焰。
 
 ## 描述
 

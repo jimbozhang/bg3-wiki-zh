@@ -31,9 +31,9 @@
 
 以下页面按幕列出了所有已知的激励点来源：
 
-- [第一幕/激励点](Act_One/Inspiration.md "第一幕/激励点")
-- [第二幕/激励点](Act_Two/Inspiration.md "第二幕/激励点")
-- [第三幕/激励点](Act_Three/Inspiration.md "第三幕/激励点")
+- [激励点](Act_One/Inspiration.md "激励点")
+- [激励点](Act_Two/Inspiration.md "激励点")
+- [激励点](Act_Three/Inspiration.md "激励点")
 
 ### 经验值奖励
 

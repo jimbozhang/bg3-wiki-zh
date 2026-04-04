@@ -1,6 +1,6 @@
 # 扭曲的橡木
 
-**扭曲的橡木**是[法杖](Quarterstaves.md "法杖")武器家族中一种常见的、轻度附魔（+1）的变体。它是一种[简易近战武器](Weapons.md "武器")，可以用单手挥舞，或用双手挥舞以造成额外伤害。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
+**扭曲的橡木**是[法杖](Quarterstaves.md "法杖")武器家族中一种常见的、轻度附魔（+1）的变体。它是一种[武器](Weapons.md "武器")，可以用单手挥舞，或用双手挥舞以造成额外伤害。它是一种[轻型](Light_(weapon_property).md) 武器，任何人都无需特殊训练即可双持。
 
 一根刻有树叶图案的法杖，枫叶和橡树叶在森林中蜿蜒，经历生命的每一个阶段，从春天到光秃秃的树枝的冬天。
 
@@ -37,7 +37,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 持续时间：1 驱散
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
 
 - 受影响实体无法移动。
 - 对其进行的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，而其攻击掷骰和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。

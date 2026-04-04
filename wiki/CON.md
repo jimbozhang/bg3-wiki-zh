@@ -1,6 +1,6 @@
 # 体质
 
-**体质**是一种[属性值](Ability_Score.md "属性值")。体质影响你的最大[生命值](Hit_Points.md "生命值")和[专注豁免检定](Concentration.md "专注")。
+**体质**是一种[属性值](Ability_Score.md "属性值")。体质影响你的最大[生命值](Hit_Points.md "生命值")和[专注](Concentration.md "专注")。
 
 你的体质调整值会加到每级获得的生命值数量上（包括负值），并且会追溯应用。
 
@@ -14,14 +14,14 @@
 
 ## 目录
 
-- [1 体质调整值表](#constitution-modifier-chart)
-- [2 提升方式](#ways-to-increase)
-- [3 相关物品与特性](#related-items-and-features)
-  - [3.1 影响体质](#affecting-constitution)
-  - [3.2 影响体质豁免检定](#affecting-constitution-saving-throws)
-  - [3.3 影响专注豁免检定](#affecting-concentration-saving-throws)
-  - [3.4 受益于体质](#benefiting-from-constitution)
-- [4 相关状态](#related-conditions)
+- [1 体质调整值表](#体质调整值表)
+- [2 提升方式](#提升方式)
+- [3 相关物品与特性](#相关物品与特性)
+  - [3.1 影响体质](#影响体质)
+  - [3.2 影响体质豁免检定](#影响体质豁免检定)
+  - [3.3 影响专注豁免检定](#影响专注豁免检定)
+  - [3.4 受益于体质](#受益于体质)
+- [4 相关状态](#相关状态)
 
 ## 体质调整值表
 

@@ -12,7 +12,7 @@
 | [至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "Absolute's Talisman: Aid") | 2级法术 |  | 自身 | - | 5⁠[治疗](Healing.md "Healing")施加[协助](Aid_(Condition).md "Aid (Condition)") |
 | [酸液飞溅](Acid_Splash.md "Acid Splash") | 戏法 |  | 18米 (60尺) 2米 (7尺) (半径) | [敏捷](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws") | 1d6⁠[强酸](Acid.md "Acid") ( [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving throw") 以无效化) |
 | [激活召雷术](Activate_Call_Lightning.md "Activate Call Lightning") | 3级法术 |  | 18米 (60尺) 2米 (7尺) (半径) | [敏捷](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws") | 3d10⁠[闪电](Lightning.md "Lightning") |
-| [协助](Aid.md "Aid") | 2级法术 | + | 自身 9米 (30尺) (半径) | - | 施加[协助](Aid_(Condition).md "Aid (Condition)") |
+| [支援术](Aid.md "支援术") | 2级法术 | + | 自身 9米 (30尺) (半径) | - | 施加[协助](Aid_(Condition).md "Aid (Condition)") |
 | [切换形态：恐狼](Alternate_Form_colon__Dire_Wolf.md "Alternate Form: Dire Wolf") | 动作 | 每回合 | - | - | 施加[切换形态：恐狼](Alternate_Form_colon__Dire_Wolf_(Condition).md "Alternate Form: Dire Wolf (Condition)") |
 | [切换形态：牛头人](Alternate_Form_colon__Minotaur.md "Alternate Form: Minotaur") | 动作 | 每回合 | - | - | 施加[切换形态：牛头人](Alternate_Form_colon__Minotaur_(Condition).md "Alternate Form: Minotaur (Condition)") |
 | [切换形态：相位蜘蛛](Alternate_Form_colon__Phase_Spider.md "Alternate Form: Phase Spider") | 动作 | 每回合 | - | - | 施加[切换形态：相位蜘蛛](Alternate_Form_colon__Phase_Spider_(Condition).md "Alternate Form: Phase Spider (Condition)") |

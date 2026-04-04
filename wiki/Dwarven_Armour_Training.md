@@ -4,7 +4,7 @@
 
 ## 描述
 
-你拥有对 [轻甲](Armour.md#List_of_light_armour "Armour") 和 [中甲](Armour.md#List_of_medium_armour "Armour") 的 [护甲熟练项](Proficiency.md "Proficiency")。
+你拥有对 [轻甲](Armour.md#List_of_light_armour "Armour") 和 [中甲](Armour.md#List_of_medium_armour "Armour") 的 [熟练项](Proficiency.md "熟练项")。
 
 ## 如何习得
 

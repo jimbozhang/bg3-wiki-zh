@@ -4,7 +4,7 @@
 
 ## 描述
 
-附近的[血](Surface.md "地表")地表会转化为受你控制的[血髓骷髅](Bloodmarrow_Skeleton.md "血髓骷髅")。
+附近的[地表](Surface.md "地表")地表会转化为受你控制的[血髓骷髅](Bloodmarrow_Skeleton.md "血髓骷髅")。
 
 ## 属性
 

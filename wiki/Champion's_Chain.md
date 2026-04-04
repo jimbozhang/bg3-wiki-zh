@@ -18,7 +18,7 @@
 佩戴此物品获得：
 
 [暴君之舌](Tyrant_Tongue.md "暴君之舌") ()
-为一名盟友提供+2的[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。）
+为一名盟友提供+2的[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点
 

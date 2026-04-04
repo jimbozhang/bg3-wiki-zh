@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-- [3 任务奖励](#quest-rewards)
-- [4 备注](#notes)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+- [3 任务奖励](#任务奖励)
+- [4 备注](#备注)
 
 ## 目标
 
@@ -48,9 +48,9 @@
 
 在任务开始前，会有一系列三个[属性检定](Ability_Check.md "Ability check")：
 
-1. DC 15 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")：马蒂斯向西尔菲示意。在打开交易窗口时发生。可以通过或失败以触发下一个检定。
-2. DC 10 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")：西尔菲扒窃对话队伍成员。在关闭交易窗口时发生。必须失败才能触发下一个检定。
-3. DC 5 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")：交互的队伍成员注意到扒窃行为。在结束对话时发生。必须通过才能开始此任务。
+1. DC 15 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")：马蒂斯向西尔菲示意。在打开交易窗口时发生。可以通过或失败以触发下一个检定。
+2. DC 10 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")：西尔菲扒窃对话队伍成员。在关闭交易窗口时发生。必须失败才能触发下一个检定。
+3. DC 5 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")：交互的队伍成员注意到扒窃行为。在结束对话时发生。必须通过才能开始此任务。
 
 要稳定触发第二个检定（即西尔菲扒窃对话队伍成员），队伍必须在交易窗口中等待约30秒再关闭。否则检定不一定发生，导致任务无法开始。
 

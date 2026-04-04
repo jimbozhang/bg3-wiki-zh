@@ -7,7 +7,7 @@
 | [元素折磨护符](Amulet_of_Elemental_Torment.md "元素折磨护符") | [护符](Amulets.md "护符") | [希望之邸](House_of_Hope.md "希望之邸")坐标 X: -6477 Y: 2884：在[希望之屋门厅](House_of_Hope#Foyer.md#Foyer "希望之屋门厅")与[拉斐尔](Raphael.md "拉斐尔")战斗时由[希望](Hope.md "希望")携带 |
 | [迷踪步护符](Amulet_of_Misty_Step.md "迷踪步护符") | [护符](Amulets.md "护符") | [被亵渎的神殿](Defiled_Temple.md "被亵渎的神殿")坐标 X: 386 Y: 8：在[古特](Gut.md "古特")私人房间内[波尔玛](Polma.md "波尔玛")床后的镀金宝箱中<br>[真菌人殖民地](Myconid_Colony.md "真菌人殖民地")坐标 X: 112 Y: -88：完成[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "帮助奥米伦调查寄生虫的事")后由[奥米伦](Omeluum.md "奥米伦")出售 |
 | [塞伦涅选民护符](Amulet_of_Selûne's_Chosen.md "塞伦涅选民护符") | [护符](Amulets.md "护符") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 296 Y: 71：在[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")的宝藏堆中 |
-| [西凡那斯护符](Amulet_of_Silvanus.md "西凡那斯护符") | [护符](Amulets.md "护符") | [翠绿林地](Emerald_Grove.md "翠绿林地")坐标 X: 262 Y: 481：在熊[奥姆恩](Ormn.md "奥姆恩")附近，藏在一块需要移动的扁平岩石下 |
+| [西凡那斯护符](Amulet_of_Silvanus.md "西凡那斯护符") | [护符](Amulets.md "护符") | [翠绿林地](Emerald_Grove.md "翠绿林地")坐标 X: 262 Y: 481：在熊[奥姆](Ormn.md "奥姆")附近，藏在一块需要移动的扁平岩石下 |
 | [龃龉护符](Amulet_of_the_Unworthy.md "龃龉护符") | [护符](Amulets.md "护符") | [幽暗地域](Underdark.md "幽暗地域")坐标 X: 160 Y: -147：由一只游荡的[牛头人](Minotaur.md "牛头人")携带 |
 | [不羁库席戈之衣](Armour_of_Uninhibited_Kushigo.md "不羁库席戈之衣") | [服装](Clothing.md "服装") | [复仇之炉](Grymforge.md "复仇之炉")坐标 X: -628 Y: 320：在任务[找到丢失的靴子](Find_the_Missing_Boots.md "找到丢失的靴子")中归还她的靴子后，由[军士长斯林](Elenna_Thrinn.md "艾伦娜·斯林")奖励 |
 | [慈善外套](Blazer_of_Benevolence.md "慈善外套") | [轻甲](Light_Armour.md "轻甲") | [营地（第一幕）](Campsite_(Act_One).md "营地（第一幕）")：在任务[解救瓦罗](Rescue_Volo.md "解救瓦罗")期间从[地精营地](Goblin_Camp.md "地精营地")救出[瓦罗](Volo.md "瓦罗")的奖励 |
@@ -17,7 +17,7 @@
 | [疗愈软帽](Cap_of_Curing.md "疗愈软帽") | [头盔](Helmets.md "头盔") | [圣池](Sacred_Pool.md "圣池")坐标 X: 289 Y: 488：在翡翠林地[阿尔菲拉](Alfira.md "阿尔菲拉")创作歌曲处附近的柱子后方一个上锁的镀金宝箱中 |
 | [暗夜法官链甲](Dark_Justiciar_Mail.md "暗夜法官链甲") | [中甲](Medium_Armour.md "中甲") | [复仇之炉](Grymforge.md "复仇之炉")坐标 X: -655 Y: 424：在幽暗地域——复仇之炉[上古符文法阵](Ancient_Rune_Circle.md "上古符文法阵")北边的骷髅上<br>[复仇之炉](Grymforge.md "复仇之炉")坐标 X: -609 Y: -246：在古老熔炉[上古符文法阵](Ancient_Rune_Circle.md "上古符文法阵")南边的骷髅上 |
 | [暗夜法官面具](Dark_Justiciar_Mask.md "暗夜法官面具") | [头盔](Helmets.md "头盔") / (轻甲) | [被弃避难所](Abandoned_Refuge.md "被弃避难所")坐标 X: -606 Y: 282：在古老熔炉[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近的骷髅上 |
-| [跃动指套](Fleetfingers.md "跃动指套") | [手套](Gloves.md "手套") | [森林](Forest.md "森林")坐标 X: 80 Y: 347：在通过 DC 20 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")后出现的埋藏宝箱中 |
+| [跃动指套](Fleetfingers.md "跃动指套") | [手套](Gloves.md "手套") | [森林](Forest.md "森林")坐标 X: 80 Y: 347：在通过 DC 20 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")后出现的埋藏宝箱中 |
 | [箭术手套](Gloves_of_Archery.md "箭术手套") | [手套](Gloves.md "手套") | [地精营地](Goblin_Camp.md "地精营地")坐标 X: -99 Y: 424：由[商人格拉](Grat.md "格拉")出售 |
 | [棘雹术手套](Gloves_of_Hail_of_Thorns.md "棘雹术手套") | [手套](Gloves.md "手套") | [散塔林会地下室](Zhentarim_Basement.md "散塔林会地下室")坐标 X: 295 Y: -250：完成任务[找到丢失的货物](Find_the_Missing_Shipment.md "找到丢失的货物")后由[布雷姆](Brem.md "布雷姆")出售<br>[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")坐标 X: 55 Y: -93：由[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")出售 |
 | [英勇手套](Gloves_of_Heroism.md "英勇手套") | [手套](Gloves.md "手套") | [晋升之路](The_Risen_Road.md "晋升之路")坐标 X: -674 Y: -401：在收费站地窖隐藏房间后部的木箱中 |
@@ -62,7 +62,7 @@
 | [愤怒之心](Enraging_Heart_Garb.md "愤怒之心") | [服装](Clothing.md "服装") | [月出之塔](Moonrise_Towers.md "月出之塔")坐标 X: -164 Y: -167：由主层的[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")出售 |
 | [使者护符](Envoy's_Amulet.md "使者护符") | [护符](Amulets.md "护符") | [黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")坐标 X: 79 Y: -106：在任务[交送尼讷的头](Deliver_Nere's_Head.md "交送尼讷的头")中将[尼讷的头](Nere's_Head.md "尼讷的头")交给[斯伯](Spaw.md "斯伯")的奖励 |
 | [卡勒杜兰·滑手的物像](Fetish_of_Callarduran_Smoothhands.md "卡勒杜兰·滑手的物像") | [戒指](Rings.md "戒指") | [复仇之炉](Grymforge.md "复仇之炉")坐标 X: -610 Y: 408：在一对灰矮人正扔进湖里的死去的[地底侏儒](Deep_Gnome.md "地底侏儒")之一身上 |
-| [热情灰烬手套](Gloves_of_Cinder_and_Sizzle.md "热情灰烬手套") | [手套](Gloves.md "手套") | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")坐标 X: -43 Y: -129：由[以斯帖夫人](Esther.md "以斯帖夫人")出售，位于[特瑞尔塔崖](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")东北方向 |
+| [热情灰烬手套](Gloves_of_Cinder_and_Sizzle.md "热情灰烬手套") | [手套](Gloves.md "手套") | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")坐标 X: -43 Y: -129：由[以斯帖夫人](Esther.md "以斯帖夫人")出售，位于[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")东北方向 |
 | [摘星手套](Gloves_of_Missile_Snaring.md "摘星手套") | [手套](Gloves.md "手套") | [空谷](The_Hollow.md "空谷")坐标 X: 205 Y: 516：由[艾隆](Arron.md "艾隆")在西凡那斯雕像旁出售 |
 | [不羁库席戈的手套](Gloves_of_Uninhibited_Kushigo.md "不羁库席戈的手套") | [手套](Gloves.md "手套") | [黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")坐标 X: -55 Y: -93：在任务[找到蘑菇猎人](Find_the_Mushroom_Picker.md "找到蘑菇猎人")中拯救[巴伦·骨篷](Baelen_Bonecloak.md "巴伦·骨篷")后，由[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")奖励 |
 | [迅捷头盔](Haste_Helm.md "迅捷头盔") | [头盔](Helmets.md "头盔") | [染疫村落](Blighted_Village.md "染疫村落")坐标 X: 29 Y: 405：在[满是苔藓的箱子](Moss-Covered_Chest.md "满是苔藓的箱子")内 |
@@ -97,12 +97,12 @@
 
 此列表旨在编录可被[盖尔](Gale.md "盖尔")消耗的物品。
 
-这些物品也是许多[召唤物](Summons.md "召唤物")（如[法师之手](Mage_Hand.md "法师之手")）可以通过与地面上的物品互动来装备的物品。
+这些物品也是许多[召唤](Summons.md "召唤")（如[法师之手](Mage_Hand.md "法师之手")）可以通过与地面上的物品互动来装备的物品。
 
 ## 目录
 
-- [1 装备](#equipment)
-- [2 武器](#weapons)
+- [1 装备](#装备)
+- [2 武器](#武器)
 
 ## 装备
 
@@ -120,7 +120,7 @@
 | [当锤棒喝](Hamarhraft.md "当锤棒喝") | [巨锤](Mauls.md "巨锤") | [渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")坐标 X: -85 Y: 631：在旅店顶层一个燃烧房间内的镀金宝箱中 |
 | [跳跳](Hoppy.md "跳跳") | [战镐](War_Picks.md "战镐") | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")坐标 X: -43 Y: -129：由[以斯帖夫人](Esther.md "以斯帖夫人")在特瑞尔塔崖传送点东北方向出售 |
 | [顽固战锤](Intransigent_Warhammer.md "顽固战锤") | [战锤](Warhammers.md "战锤") | [复仇之炉](Grymforge.md "复仇之炉")坐标 X: -447 Y: -525：在从[破败村落](Decrepit_Village.md "破败村落")首次前往[复仇之炉](Grymforge.md "复仇之炉")的灰矮人小艇上的一个[防水箱子](Watertight_Chest.md "防水箱子")中 |
-| [锯齿矛](Jagged_Spear.md "锯齿矛") | [矛](Spears.md "矛") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 334 Y: -37：在折磨者斯派克附近的地面上，圣所入口东边 |
+| [锯齿矛](Jagged_Spear.md "锯齿矛") | [短矛](Spears.md "短矛") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 334 Y: -37：在折磨者斯派克附近的地面上，圣所入口东边 |
 | [劳薇塔的灾祸](Loviatar's_Scourge.md "劳薇塔的灾祸") | [硬头锤](Maces.md "硬头锤") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 338 Y: -21：由[阿布狄拉克](Abdirak.md "阿布狄拉克")携带 |
 | [仪式斧](Ritual_Axe.md "仪式斧") | [手斧](Handaxes.md "手斧") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 338 Y: -26：在[阿布狄拉克](Abdirak.md "阿布狄拉克")旁边的桌子上 |
 | [仪式匕首](Ritual_Dagger.md "仪式匕首") | [匕首](Daggers.md "匕首") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 338 Y: -26：在[阿布狄拉克](Abdirak.md "阿布狄拉克")附近或由他携带 |
@@ -132,7 +132,7 @@
 | [奥术祝福法杖](Staff_of_Arcane_Blessing.md "奥术祝福法杖") | [长杖](Quarterstaves.md "长杖") | [奥法高塔](Arcane_Tower.md "奥法高塔")坐标 X: 164 Y: 432：靠在地下室的一张桌子上 |
 | [正义神剑](Sword_of_Justice.md "正义神剑") | [巨剑](Greatswords.md "巨剑") | [晋升之路](The_Risen_Road.md "晋升之路")坐标 X: 110 Y: 560：由[安德斯](Anders.md "安德斯")在[收费站](The_Risen_Road#Toll_House.md#Toll_House "晋升之路")携带，或作为[狩猎魔鬼](Hunt_the_Devil.md "狩猎魔鬼")中杀死[卡菈克](Karlach.md "卡菈克")的奖励 |
 | [尖叫之剑](Sword_of_Screams.md "尖叫之剑") | [刺剑](Rapiers.md "刺剑") | [复仇之炉](Grymforge.md "复仇之炉")坐标 X: -854 Y: -780：由[尼讷](Nere.md "尼讷")在主熔炉区域的塌方附近携带 |
-| [钢铁卫士的指引](The_Watcher's_Guide.md "钢铁卫士的指引") | [矛](Spears.md "矛") | [阴暗墓穴](Dank_Crypt.md "阴暗墓穴")坐标 X: -293 Y: -323：在被雕像和陷阱包围的石棺中 |
+| [钢铁卫士的指引](The_Watcher's_Guide.md "钢铁卫士的指引") | [短矛](Spears.md "短矛") | [阴暗墓穴](Dank_Crypt.md "阴暗墓穴")坐标 X: -293 Y: -323：在被雕像和陷阱包围的石棺中 |
 | [巫术破除](Witchbreaker.md "巫术破除") | [战斧](Battleaxes.md "战斧") | [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")坐标 X: 1380 Y: -798：由[阿贾克'尼尔·吉拉](Jeera.md "吉拉")出售 |
 | [艾克斯阎蒂](Xyanyde.md "艾克斯阎蒂") | [硬头锤](Maces.md "硬头锤") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 335 Y: 43：由[明萨拉](Minthara.md "明萨拉")在[第一幕](Act_One.md "第一幕")携带 |
 | [精金长剑](Adamantine_Longsword.md "精金长剑") | [长剑](Longswords.md "长剑") | [精金熔炉（位置）](Adamantine_Forge_(location).md "精金熔炉（位置）")坐标 X: -558 Y: 230：由[长剑模具](Longsword_Mould.md "长剑模具")和[秘银矿石](Mithral_Ore.md "秘银矿石")锻造而成 |
@@ -168,7 +168,7 @@
 | [当锤棒喝](Hamarhraft.md "当锤棒喝") | [巨锤](Mauls.md "巨锤") | [渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")坐标 X: -85 Y: 631：在旅店顶层一个燃烧房间内的镀金宝箱中 |
 | [跳跳](Hoppy.md "跳跳") | [战镐](War_Picks.md "战镐") | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")坐标 X: -43 Y: -129：由[以斯帖夫人](Esther.md "以斯帖夫人")在特瑞尔塔崖传送点东北方向出售 |
 | [顽固战锤](Intransigent_Warhammer.md "顽固战锤") | [战锤](Warhammers.md "战锤") | [复仇之炉](Grymforge.md "复仇之炉")坐标 X: -447 Y: -525：在从[破败村落](Decrepit_Village.md "破败村落")首次前往[复仇之炉](Grymforge.md "复仇之炉")的灰矮人小艇上的一个[防水箱子](Watertight_Chest.md "防水箱子")中 |
-| [锯齿矛](Jagged_Spear.md "锯齿矛") | [矛](Spears.md "矛") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 334 Y: -37：在折磨者斯派克附近的地面上，圣所入口东边 |
+| [锯齿矛](Jagged_Spear.md "锯齿矛") | [短矛](Spears.md "短矛") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 334 Y: -37：在折磨者斯派克附近的地面上，圣所入口东边 |
 | [劳薇塔的灾祸](Loviatar's_Scourge.md "劳薇塔的灾祸") | [硬头锤](Maces.md "硬头锤") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 338 Y: -21：由[阿布狄拉克](Abdirak.md "阿布狄拉克")携带 |
 | [仪式斧](Ritual_Axe.md "仪式斧") | [手斧](Handaxes.md "手斧") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 338 Y: -26：在[阿布狄拉克](Abdirak.md "阿布狄拉克")旁边的桌子上 |
 | [仪式匕首](Ritual_Dagger.md "仪式匕首") | [匕首](Daggers.md "匕首") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 338 Y: -26：在[阿布狄拉克](Abdirak.md "阿布狄拉克")附近或由他携带 |
@@ -180,7 +180,7 @@
 | [奥术祝福法杖](Staff_of_Arcane_Blessing.md "奥术祝福法杖") | [长杖](Quarterstaves.md "长杖") | [奥法高塔](Arcane_Tower.md "奥法高塔")坐标 X: 164 Y: 432：靠在地下室的一张桌子上 |
 | [正义神剑](Sword_of_Justice.md "正义神剑") | [巨剑](Greatswords.md "巨剑") | [晋升之路](The_Risen_Road.md "晋升之路")坐标 X: 110 Y: 560：由[安德斯](Anders.md "安德斯")在[收费站](The_Risen_Road#Toll_House.md#Toll_House "晋升之路")携带，或作为[狩猎魔鬼](Hunt_the_Devil.md "狩猎魔鬼")中杀死[卡菈克](Karlach.md "卡菈克")的奖励 |
 | [尖叫之剑](Sword_of_Screams.md "尖叫之剑") | [刺剑](Rapiers.md "刺剑") | [复仇之炉](Grymforge.md "复仇之炉")坐标 X: -854 Y: -780：由[尼讷](Nere.md "尼讷")在主熔炉区域的塌方附近携带 |
-| [钢铁卫士的指引](The_Watcher's_Guide.md "钢铁卫士的指引") | [矛](Spears.md "矛") | [阴暗墓穴](Dank_Crypt.md "阴暗墓穴")坐标 X: -293 Y: -323：在被雕像和陷阱包围的石棺中 |
+| [钢铁卫士的指引](The_Watcher's_Guide.md "钢铁卫士的指引") | [短矛](Spears.md "短矛") | [阴暗墓穴](Dank_Crypt.md "阴暗墓穴")坐标 X: -293 Y: -323：在被雕像和陷阱包围的石棺中 |
 | [破咒者](
 
 ---

@@ -43,7 +43,7 @@
 
 由装备提供：
 
-- [雪花迸射戒指](Snowburst_Ring.md "雪花迸射戒指")
+- [雪花迸射](Snowburst_Ring.md "雪花迸射")
 
 ## 备注
 

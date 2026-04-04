@@ -88,7 +88,7 @@
 
 - ## 特性
 
-- [**至上真神的守护**](Absolute's_Ward.md "至上真神的守护")
+- [至上真神的守护](Absolute's_Ward.md "至上真神的守护")
 
 如果持有者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，则获得[豁免检定](Saving_throw.md "豁免检定")+1加值。
 
@@ -96,11 +96,11 @@
 
 如果持有者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，则在[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -152,7 +152,7 @@
 
 - ## 特性
 
-- [**至上真神的守护**](Absolute's_Ward.md "至上真神的守护")
+- [至上真神的守护](Absolute's_Ward.md "至上真神的守护")
 
 如果持有者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，则获得[豁免检定](Saving_throw.md "豁免检定")+1加值。
 
@@ -160,11 +160,11 @@
 
 如果持有者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，则在[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -216,7 +216,7 @@
 
 - ## 特性
 
-- [**至上真神的守护**](Absolute's_Ward.md "至上真神的守护")
+- [至上真神的守护](Absolute's_Ward.md "至上真神的守护")
 
 如果持有者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，则获得[豁免检定](Saving_throw.md "豁免检定")+1加值。
 
@@ -224,15 +224,15 @@
 
 如果持有者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，则在[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒**](Fury_of_the_Small.md "小型之怒")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理](Physical.md "物理")伤害。每场战斗限一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -262,22 +262,22 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 盟友](#allies)
-  - [3.3 遭遇详情](#encounter-details)
-  - [3.4 战术](#tactics)
-  - [3.5 战利品](#loot)
-- [4 死者交谈](#speak-with-dead)
-- [5 相关文献](#related-literature)
-- [6 相关任务](#related-quests)
-- [7 笔记](#notes)
-- [8 画廊](#gallery)
-- [9 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 盟友](#盟友)
+  - [3.3 遭遇详情](#遭遇详情)
+  - [3.4 战术](#战术)
+  - [3.5 战利品](#战利品)
+- [4 死者交谈](#死者交谈)
+- [5 相关文献](#相关文献)
+- [6 相关任务](#相关任务)
+- [7 笔记](#笔记)
+- [8 画廊](#画廊)
+- [9 外部链接](#外部链接)
 
 ## 概述
 

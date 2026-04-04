@@ -1,6 +1,6 @@
 # 胸甲 + 2
 
-胸甲 + 2 是一件稀有 [中甲](Armour.md#Medium_Armour "护甲")，可减少穿刺伤害，并为敏捷 [豁免检定](Saving_throw.md "豁免检定") 和 [检定](Ability_Check.md "属性检定") 提供 +1 奖励。
+胸甲 + 2 是一件稀有 [中甲](Armour.md#Medium_Armour "护甲")，可减少穿刺伤害，并为敏捷 [豁免检定](Saving_throw.md "豁免检定") 和 [属性检定](Ability_Check.md "属性检定") 提供 +1 奖励。
 
 这件护甲的前主人在内胸袋里留下了一些个人物品：一小片黄樟、一小段线和半颗薄荷糖。
 
@@ -24,7 +24,7 @@
 你受到的 [穿刺](Piercing.md "穿刺") 伤害减少 1 点。
 
 [平衡](Balance.md "平衡")
-获得 +1 奖励至 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 和 [检定](Ability_Check.md "属性检定")
+获得 +1 奖励至 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 和 [属性检定](Ability_Check.md "属性检定")
 
 ## 获取地点
 

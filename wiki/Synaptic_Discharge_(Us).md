@@ -2,7 +2,7 @@
 
 本文介绍的是非脑叶切除的我们所使用的攻击。对于普通噬脑怪和脑叶切除的我们所使用的版本，请参见 [突触放电](Synaptic_Discharge.md "突触放电")。
 
-**突触放电**是 [我们](Us.md "我们") 在被 [召唤我们](Conjure_Us.md "召唤我们") 召唤时使用的动作。这是一个远程攻击，会造成大量的 ⁠[心灵](Psychic.md "心灵") 伤害。如果我们在 [序幕](Prologue.md "序幕") 中被 [脑叶切除](Lobotomised_(Condition).md "脑叶切除 (状态)")，它将使用普通 [噬脑怪](Intellect_Devourer.md "噬脑怪") 所使用的 [较弱版本](Synaptic_Discharge.md "突触放电")。
+**突触放电**是 [我们](Us.md "我们") 在被 [召唤我们](Conjure_Us.md "召唤我们") 召唤时使用的动作。这是一个远程攻击，会造成大量的 ⁠[心灵](Psychic.md "心灵") 伤害。如果我们在 [序幕](Prologue.md "序幕") 中被 [脑叶切除](Lobotomised_(Condition).md "脑叶切除 (状态)")，它将使用普通 [噬脑怪](Intellect_Devourer.md "噬脑怪") 所使用的 [突触放电](Synaptic_Discharge.md "突触放电")。
 
 ## 描述
 

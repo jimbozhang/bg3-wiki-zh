@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物物品](Miscellaneous.md "杂物")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：普通
 
@@ -22,7 +22,7 @@
 
 ## 备注
 
-- 这是少数几个有“使用”选项的 [杂物物品](Miscellaneous.md "杂物") 之一。在 [莱埃泽尔](Lae'zel.md "莱埃泽尔") 面前使用它会触发语音浮动文字。
+- 这是少数几个有“使用”选项的 [杂物](Miscellaneous.md "杂物") 之一。在 [莱埃泽尔](Lae'zel.md "莱埃泽尔") 面前使用它会触发语音浮动文字。
 
 ---
 *Source: [Goblet With Dead Tadpoles](https://bg3.wiki/wiki/Goblet_With_Dead_Tadpoles)*

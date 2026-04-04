@@ -1,6 +1,6 @@
 # 夹竹桃粘液
 
-**夹竹桃粘液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[黯蚀抗性灵药](Elixir_of_Necrotic_Resistance.md "黯蚀抗性灵药")。
+**夹竹桃粘液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[升华物](Alchemy.md#Extractions "炼金术")结合，以制造[黯蚀抗性灵药](Elixir_of_Necrotic_Resistance.md "黯蚀抗性灵药")。
 
 这种汁液颜色深暗、质地粘稠、甜得发腻，掩盖了其有益的潜力。
 

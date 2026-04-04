@@ -14,86 +14,86 @@
 
 ## 目录
 
-- [1 新内容概览](#new-content-overview)
-  - [1.1 副职](#subclasses)
-  - [1.2 法术](#spells)
-- [2 新副职](#new-subclasses)
+- [1 新内容概览](#新内容概览)
+  - [1.1 副职](#副职)
+  - [1.2 法术](#法术)
+- [2 新副职](#新副职)
   - [2.1 奥术射手战士](#arcane-archer-fighter)
-  - [2.2 等级3](#level-3)
-  - [2.3 等级7](#level-7)
-  - [2.4 等级10](#level-10)
+  - [2.2 等级3](#等级3)
+  - [2.3 等级7](#等级7)
+  - [2.4 等级10](#等级10)
   - [2.5 剑咏法师](#bladesinging-wizard)
-  - [2.6 等级2](#level-2)
-  - [2.7 等级5](#level-5)
-  - [2.8 等级6](#level-6)
-  - [2.9 等级9](#level-9)
-  - [2.10 等级10](#level-10-2)
+  - [2.6 等级2](#等级2)
+  - [2.7 等级5](#等级5)
+  - [2.8 等级6](#等级6)
+  - [2.9 等级9](#等级9)
+  - [2.10 等级10](#等级10)
   - [2.11 星辰结社德鲁伊](#circle-of-the-stars-druid)
-  - [2.12 等级2](#level-2-2)
-  - [2.13 等级5](#level-5-2)
-  - [2.14 等级6](#level-6-2)
-  - [2.15 等级9](#level-9-2)
-  - [2.16 等级10](#level-10-3)
+  - [2.12 等级2](#等级2)
+  - [2.13 等级5](#等级5)
+  - [2.14 等级6](#等级6)
+  - [2.15 等级9](#等级9)
+  - [2.16 等级10](#等级10)
   - [2.17 魅惑诗篇吟游诗人](#college-of-glamour-bard)
-  - [2.18 等级3](#level-3-2)
-  - [2.19 等级6](#level-6-3)
-  - [2.20 等级10](#level-10-4)
+  - [2.18 等级3](#等级3)
+  - [2.19 等级6](#等级6)
+  - [2.20 等级10](#等级10)
   - [2.21 死亡领域牧师](#death-domain-cleric)
-  - [2.22 等级1](#level-1)
-  - [2.23 等级2](#level-2-3)
-  - [2.24 等级3](#level-3-3)
-  - [2.25 等级5](#level-5-3)
-  - [2.26 等级6](#level-6-4)
-  - [2.27 等级7](#level-7-2)
-  - [2.28 等级8](#level-8)
-  - [2.29 等级9](#level-9-3)
+  - [2.22 等级1](#等级1)
+  - [2.23 等级2](#等级2)
+  - [2.24 等级3](#等级3)
+  - [2.25 等级5](#等级5)
+  - [2.26 等级6](#等级6)
+  - [2.27 等级7](#等级7)
+  - [2.28 等级8](#等级8)
+  - [2.29 等级9](#等级9)
   - [2.30 巨人野蛮人](#giant-barbarian)
-  - [2.31 等级3](#level-3-4)
-  - [2.32 等级5](#level-5-4)
-  - [2.33 等级6](#level-6-5)
-  - [2.34 等级10](#level-10-5)
+  - [2.31 等级3](#等级3)
+  - [2.32 等级5](#等级5)
+  - [2.33 等级6](#等级6)
+  - [2.34 等级10](#等级10)
   - [2.35 诅咒之刃邪术师](#hexblade-warlock)
-  - [2.36 等级1](#level-1-2)
-  - [2.37 等级3](#level-3-5)
-  - [2.38 等级5](#level-5-5)
-  - [2.39 等级6](#level-6-6)
-  - [2.40 等级7](#level-7-3)
-  - [2.41 等级9](#level-9-4)
-  - [2.42 等级10](#level-10-6)
+  - [2.36 等级1](#等级1)
+  - [2.37 等级3](#等级3)
+  - [2.38 等级5](#等级5)
+  - [2.39 等级6](#等级6)
+  - [2.40 等级7](#等级7)
+  - [2.41 等级9](#等级9)
+  - [2.42 等级10](#等级10)
   - [2.43 王冠之誓圣武士](#oath-of-the-crown-paladin)
-  - [2.44 等级1](#level-1-3)
-  - [2.45 等级3](#level-3-6)
-  - [2.46 等级5](#level-5-6)
-  - [2.47 等级7](#level-7-4)
-  - [2.48 等级9](#level-9-5)
+  - [2.44 等级1](#等级1)
+  - [2.45 等级3](#等级3)
+  - [2.46 等级5](#等级5)
+  - [2.47 等级7](#等级7)
+  - [2.48 等级9](#等级9)
   - [2.49 暗影魔法术士](#shadow-magic-sorcerer)
-  - [2.50 等级1](#level-1-4)
-  - [2.51 等级3](#level-3-7)
-  - [2.52 等级6](#level-6-7)
-  - [2.53 等级11](#level-11)
+  - [2.50 等级1](#等级1)
+  - [2.51 等级3](#等级3)
+  - [2.52 等级6](#等级6)
+  - [2.53 等级11](#等级11)
   - [2.54 虫群使者游侠](#swarmkeeper-ranger)
-  - [2.55 等级3](#level-3-8)
-  - [2.56 等级5](#level-5-7)
-  - [2.57 等级7](#level-7-5)
-  - [2.58 等级9](#level-9-6)
-  - [2.59 等级11](#level-11-2)
+  - [2.55 等级3](#等级3)
+  - [2.56 等级5](#等级5)
+  - [2.57 等级7](#等级7)
+  - [2.58 等级9](#等级9)
+  - [2.59 等级11](#等级11)
   - [2.60 花式剑客游荡者](#swashbuckler-rogue)
-  - [2.61 等级3](#level-3-9)
-  - [2.62 等级4](#level-4)
-  - [2.63 等级9](#level-9-7)
+  - [2.61 等级3](#等级3)
+  - [2.62 等级4](#等级4)
+  - [2.63 等级9](#等级9)
   - [2.64 醉拳宗师武僧](#way-of-the-drunken-master-monk)
-  - [2.65 等级3](#level-3-10)
-  - [2.66 等级4](#level-4-2)
-  - [2.67 等级6](#level-6-8)
-  - [2.68 等级9](#level-9-8)
-  - [2.69 等级11](#level-11-3)
-- [3 新法术](#new-spells)
-  - [3.1 轰鸣剑](#booming-blade)
-  - [3.2 肌腱爆裂](#bursting-sinew)
-  - [3.3 破影利刃](#shadow-blade)
-  - [3.4 惊惧斩](#staggering-smite)
-  - [3.5 丧钟](#toll-the-dead)
-- [4 杂项](#miscellaneous)
+  - [2.65 等级3](#等级3)
+  - [2.66 等级4](#等级4)
+  - [2.67 等级6](#等级6)
+  - [2.68 等级9](#等级9)
+  - [2.69 等级11](#等级11)
+- [3 新法术](#新法术)
+  - [3.1 轰鸣剑](#轰鸣剑)
+  - [3.2 肌腱爆裂](#肌腱爆裂)
+  - [3.3 破影利刃](#破影利刃)
+  - [3.4 惊惧斩](#惊惧斩)
+  - [3.5 丧钟](#丧钟)
+- [4 杂项](#杂项)
 
 ## 新内容概览
 
@@ -140,7 +140,7 @@
 获得一个戏法
 从以下三个戏法中选择一个：
 
-- [神导术](Guidance.md "Guidance") * [光亮术](Light.md "Light")
+- [神导术](Guidance.md "Guidance") * [轻型](Light.md "轻型")
 - [克敌机先](True_Strike.md "True Strike")
 
 [奥术箭矢](Arcane_Archer.md#Arcane_Arrow "Arcane Archer")：4
@@ -408,7 +408,7 @@
 你的[负重](Carrying_capacity.md "Carrying capacity")增加四分之一。
 
 [奇术](Thaumaturgy.md "Thaumaturgy") ()
-在[威吓](Intimidation.md "Intimidation")和[表演](Performance.md "Performance")[检定](Skill_Check.md "Skill Check")上获得[优势](Advantage.md "Advantage")。
+在[威吓](Intimidation.md "Intimidation")和[表演](Performance.md "Performance")[技能检定](Skill_Check.md "技能检定")上获得[优势](Advantage.md "Advantage")。
 
 ### 等级5
 
@@ -418,7 +418,7 @@
 ### 等级6
 
 [元素斩击者](Elemental_Cleaver.md "Elemental Cleaver")
-将原始力量引导到你的武器中。在你的[怒气](Rage_(Condition).md "Rage (Condition)")结束前，你的武器将造成1d6额外的⁠[酸液](Acid.md "Acid")、⁠[冷冻](Cold.md "Cold")、⁠[火焰](Fire.md "Fire")、⁠[闪电](Lightning.md "Lightning")或⁠[雷鸣](Thunder.md "Thunder")伤害，并获得[投掷](Thrown.md "Thrown")属性。如果被投掷，它会立即出现在你手中。
+将原始力量引导到你的武器中。在你的[怒气](Rage_(Condition).md "Rage (Condition)")结束前，你的武器将造成1d6额外的⁠[强酸](Acid.md "强酸")、⁠[寒冷](Cold.md "寒冷")、⁠[火焰](Fire.md "Fire")、⁠[闪电](Lightning.md "Lightning")或⁠[雷鸣](Thunder.md "Thunder")伤害，并获得[投掷攻击](Thrown.md "投掷攻击")属性。如果被投掷，它会立即出现在你手中。
 
 ### 等级10
 
@@ -460,11 +460,11 @@
 扩展法术列表
 3环法术
 
-- [闪现术](Blink.md "Blink")
+- [闪现](Blink.md "闪现")
 - [元素武器](Elemental_Weapon.md "Elemental Weapon") ### 等级6
 
 [受诅幽魂](Accursed_Spectre_(reaction).md "Accursed Spectre (reaction)") ()
-从一个被[诅咒](Hexblade's_Curse_(Condition).md) 目标的灵魂中唤起一个受诅幽魂为你作战。倒下生物的体型将决定你唤起的是[虚弱幽魂](Feeble_Spectre.md "Feeble Spectre")、[普通幽魂](Mundane_Spectre.md "Mundane Spectre")还是[原始幽魂](Primordial_Spectre.md "Primordial Spectre")。对[构装生物](Constructs.md "Constructs")、[元素生物](Elemental.md "Elemental")、[泥型怪物](Ooze.md "Ooze")、[植物](Plant.md "Plant")或[亡灵](Undead.md "Undead")无效。
+从一个被[诅咒](Hexblade's_Curse_(Condition).md) 目标的灵魂中唤起一个受诅幽魂为你作战。倒下生物的体型将决定你唤起的是[虚弱幽魂](Feeble_Spectre.md "Feeble Spectre")、[普通幽魂](Mundane_Spectre.md "Mundane Spectre")还是[原始幽魂](Primordial_Spectre.md "Primordial Spectre")。对[构装生物](Constructs.md "Constructs")、[元素生物](Elemental.md "Elemental")、[泥型怪物](Ooze.md "Ooze")、[植物](Plant.md "Plant")或[不死生物](Undead.md "不死生物")无效。
 
 ### 等级7
 
@@ -809,7 +809,7 @@
 
 伤害：2~16 + 调整值
 
-2d8 + [力量或敏捷调整值](Finesse.md "Finesse")⁠[心灵](Psychic.md "Psychic")
+2d8 + [灵巧](Finesse.md "灵巧")⁠[心灵](Psychic.md "Psychic")
 
 在你的手中编织一把阴影短剑，造成2d8⁠⁠[心灵](Psychic.md "Psychic")伤害。
 
@@ -868,7 +868,7 @@
 - [詹尼尔的手套](Jhannyl's_Gloves.md "Jhannyl's Gloves")的[对抗邪恶](Defy_Villainy.md "Defy Villainy")特性移除了冷却时间。它现在可以无限次激活，而不是每次长休一次。
 - [破影利刃](Shadow_Blade.md "Shadow Blade")召唤的武器现在授予召唤者天生熟练项。这意味着法师和术士（缺乏短剑熟练项）可以无惩罚地挥舞该武器。
 - [水元素执政官](Water_Myrmidon.md "Water Myrmidon")的[治愈薄雾](Healing_Vapours.md "Healing Vapours")能力不再对范围内的所有生物施加[湿润](Wet_(Condition).md "Wet (Condition)")。
-- [冰墙](Wall_of_Ice.md "Wall of Ice")现在在被摧毁时正确地用[冰雾术](Ice_Cloud.md "Ice Cloud")造成10d6⁠⁠[冷冻](Cold.md "Cold")伤害。以前它错误地造成5d6⁠⁠[冷冻](Cold.md "Cold")伤害。豁免检定仍然是固定的[DC](Dice_rolls.md#Save_DCs "Dice rolls") 16 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。
+- [冰墙](Wall_of_Ice.md "Wall of Ice")现在在被摧毁时正确地用[冰雾术](Ice_Cloud.md "Ice Cloud")造成10d6⁠⁠[寒冷](Cold.md "寒冷")伤害。以前它错误地造成5d6⁠⁠[寒冷](Cold.md "寒冷")伤害。豁免检定仍然是固定的[DC](Dice_rolls.md#Save_DCs "Dice rolls") 16 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。
 - [魔契武器誓缚](Bind_Pact_Weapon.md "Bind Pact Weapon")和[武器绑定](Weapon_Bond.md "Weapon Bond")现在在更换职业时正确移除。以前，武器会无限期地保持绑定状态并享有所有好处（例如使用魅力进行攻击），即使从邪术师切换。
 - [贪婪藤蔓](Grasping_Vine.md "Grasping Vine")现在即使在升阶施法时也使用[附赠动作](Actions.md#Resources "Actions")。以前，它在升阶施法时错误地使用了完整[动作](Actions.md#Resources "Actions")。
 - [卡'尼斯](Kar'niss.md "Kar'niss")施加的[蛛网怀疑](Spindleweb_Skepticism_(Condition).md "Spindleweb Skepticism (Condition)")现在施加-6的[护甲等级](Armour_Class.md "Armour Class")惩罚，而不是-4。

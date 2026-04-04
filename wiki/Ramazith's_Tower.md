@@ -12,30 +12,30 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 历史与进入方式](#history-and-access)
-- [2 建筑布局](#building-layout)
-  - [2.1 顶层](#top-floor)
-  - [2.2 中层](#middle-floor)
-    - [2.2.1 魔网按钮](#weave-buttons)
-  - [2.3 底层](#bottom-floor)
-- [3 相关剧情](#involvement)
-  - [3.1 罗兰的命运](#rolan's-fate)
-- [4 相关地点](#related-locations)
-- [5 相关任务](#related-quests)
-- [6 角色](#characters)
-  - [6.1 生物](#creatures)
-- [7 战利品](#loot)
-- [8 相关文献](#related-literature)
-- [9 图集](#gallery)
-- [10 脚注与参考文献](#footnotes-and-references)
-- [11 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 历史与进入方式](#历史与进入方式)
+- [2 建筑布局](#建筑布局)
+  - [2.1 顶层](#顶层)
+  - [2.2 中层](#中层)
+    - [2.2.1 魔网按钮](#魔网按钮)
+  - [2.3 底层](#底层)
+- [3 相关剧情](#相关剧情)
+  - [3.1 罗兰的命运](#罗兰的命运)
+- [4 相关地点](#相关地点)
+- [5 相关任务](#相关任务)
+- [6 角色](#角色)
+  - [6.1 生物](#生物)
+- [7 战利品](#战利品)
+- [8 相关文献](#相关文献)
+- [9 图集](#图集)
+- [10 脚注与参考文献](#脚注与参考文献)
+- [11 外部链接](#外部链接)
 
 ## 概述
 
 拉玛吉斯高塔是博德之门市的一个主要地标，位于其神殿区。其轮廓在游戏的初始加载屏幕上清晰可见。塔呈圆形，类似宝塔，有数个同心层，直径从地基到顶部逐渐减小。在游戏过程中，只有塔的三个内部层以及环绕其中一个层的阳台可供进入，阳台上可以欣赏到整个城市的壮丽景色。
 
-该塔与[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")的魔法商店及其[地窖](Sorcerous_Vault.md "巫术杂物店地窖")相连，最珍贵的物品就存放在那里。这里是贯穿游戏三幕的任务[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")最终可以完成的地方。几位著名角色的剧情线也可以在这里迎来结局，从而更新[召集盟友](Gather_Your_Allies.md "召集盟友")任务。
+该塔与[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")的魔法商店及其[巫术杂物店地窖](Sorcerous_Vault.md "巫术杂物店地窖")相连，最珍贵的物品就存放在那里。这里是贯穿游戏三幕的任务[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")最终可以完成的地方。几位著名角色的剧情线也可以在这里迎来结局，从而更新[召集盟友](Gather_Your_Allies.md "召集盟友")任务。
 
 ### 历史与进入方式
 
@@ -73,7 +73,7 @@
 
 探索此区域时，建议使用[识破隐形](See_Invisibility.md "识破隐形")法术或药水。如果队伍中没有成员能获得此效果，可以从外部环上的一个背包（坐标 X: 4979 Y: 704）中取一瓶[识破隐形灵药](Elixir_of_See_Invisibility.md "识破隐形灵药")。
 
-该层布满了[死云术](Cloudkill.md "死云术")[通风口](Vent.md "通风口")和四座[奥术炮台](Arcane_Cannon.md "奥术炮台")。在此处探测其中任何一个都需要 DC 15 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")，这与大多数其他地点不同。
+该层布满了[死云术](Cloudkill.md "死云术")[通风口](Vent.md "通风口")和四座[奥术炮台](Arcane_Cannon.md "奥术炮台")。在此处探测其中任何一个都需要 DC 15 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")，这与大多数其他地点不同。
 
 该区域周围有几个未上锁的展示柜、华丽的箱子和较小的镀金箱子，可能包含黄金、珍品、随机的[炼金术](Alchemy.md "炼金术")成分和药水，以及随机的箭矢和[极稀有](Very_rare.md "极稀有")法术卷轴。
 
@@ -99,11 +99,11 @@
 
 底层可以通过中层标记为“下方”的魔网按钮进入。也可以从中层跳下到达；建议使用[羽落术](Feather_Fall.md "羽落术")。
 
-该层有两个[法术无效结界](Globe_of_Invulnerability.md "法术无效结界")奥术屏障，保护着[传奇](Legendary.md "传奇")法杖[玛科赫什基](Markoheshkir.md "玛科赫什基")和[魔网长袍](Robe_of_the_Weave.md "魔网长袍")。每个屏障前都有一个隐形拉杆，可以用[识破隐形](See_Invisibility.md "识破隐形")揭示，并通过通过 DC 20 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")来禁用。
+该层有两个[法术无效结界](Globe_of_Invulnerability.md "法术无效结界")奥术屏障，保护着[传奇](Legendary.md "传奇")法杖[玛科赫什基](Markoheshkir.md "玛科赫什基")和[魔网长袍](Robe_of_the_Weave.md "魔网长袍")。每个屏障前都有一个隐形拉杆，可以用[识破隐形](See_Invisibility.md "识破隐形")揭示，并通过通过 DC 20 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")来禁用。
 
 两个标记为[阿斯卡特拉之像](Aspect_of_Athkatla.md "阿斯卡特拉之像")的石像实际上是与这些拉杆相连的陷阱。如果对拉杆的奥秘检定失败，石像会对互动的队伍成员施放[崩溃](Disintegrate.md "崩溃")。此外，失败的检定会将该队伍成员锁定，无法再次尝试该拉杆；该队伍成员的进一步尝试总是会导致阿斯卡特拉之像攻击他们。因此，队伍获得受保护物品的尝试次数有限。
 
-附近的一个展示柜设有陷阱（需要 DC 13 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")来探测，DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来解除），里面装有[清账屋](The_Counting_House.md "清账屋")储物柜的[高安保险库1钥匙](High_Security_Vault_n%C2%BA1_Key.md "高安保险库1钥匙")。旁边是一个镀金箱子，里面有黄金、一块[金锭](Gold_Ingot.md "金锭")、随机药水，以及[巫术杂物店的秘门钥匙](Sorcerous_Sundries_Mystery_Door_Key.md "巫术杂物店的秘门钥匙")，这把钥匙可以打开通往[巫术杂物店地窖南部](Sorcerous_Vault.md#Southern_part "巫术杂物店地窖")的门。在底层的另一侧是另一个未上锁的展示柜，里面装有[死亡法阵卷轴](Scroll_of_Circle_of_Death.md "死亡法阵卷轴")。
+附近的一个展示柜设有陷阱（需要 DC 13 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")来探测，DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来解除），里面装有[清账屋](The_Counting_House.md "清账屋")储物柜的[高安保险库1钥匙](High_Security_Vault_n%C2%BA1_Key.md "高安保险库1钥匙")。旁边是一个镀金箱子，里面有黄金、一块[金锭](Gold_Ingot.md "金锭")、随机药水，以及[巫术杂物店的秘门钥匙](Sorcerous_Sundries_Mystery_Door_Key.md "巫术杂物店的秘门钥匙")，这把钥匙可以打开通往[巫术杂物店地窖南部](Sorcerous_Vault.md#Southern_part "巫术杂物店地窖")的门。在底层的另一侧是另一个未上锁的展示柜，里面装有[死亡法阵卷轴](Scroll_of_Circle_of_Death.md "死亡法阵卷轴")。
 
 还有一个标记为**上方**的魔网按钮，可以将队伍传送回中层。
 
@@ -133,13 +133,13 @@
 
 ### 罗兰的命运
 
-如果[罗兰](Rolan.md "罗兰")在[第一幕](Act_One.md "第一幕")和[第二幕](Act_Two.md "第二幕")的事件中幸存下来，他也会出现在这里。他的效忠选择取决于队伍是否从[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")救出了他的兄弟姐妹：如果两人都被救出，他会站在队伍一边。如果[卡尔](Cal.md "卡尔")或[莉娅](Lia.md "莉娅")中有一人死亡，则必须通过 DC 20 [威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")、DC 18 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")或 DC 15 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")来说服他。[法师](Wizard.md "法师")角色还有一个通过 DC 18 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定")的额外选项。<sup>[\[2\]](#cite_note-2)</sup> 如果罗兰的兄弟姐妹都死了，他不可避免地会站在洛若坎一边，并且无法被说服重新考虑。
+如果[罗兰](Rolan.md "罗兰")在[第一幕](Act_One.md "第一幕")和[第二幕](Act_Two.md "第二幕")的事件中幸存下来，他也会出现在这里。他的效忠选择取决于队伍是否从[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")救出了他的兄弟姐妹：如果两人都被救出，他会站在队伍一边。如果[卡尔](Cal.md "卡尔")或[莉娅](Lia.md "莉娅")中有一人死亡，则必须通过 DC 20 [威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")、DC 18 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")或 DC 15 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")来说服他。[法师](Wizard.md "法师")角色还有一个通过 DC 18 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定")的额外选项。<sup>[\[2\]](#cite_note-2)</sup> 如果罗兰的兄弟姐妹都死了，他不可避免地会站在洛若坎一边，并且无法被说服重新考虑。
 
 如果罗兰幸存下来，并且队伍支持艾琳女士完成[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")，他将接管高塔。可以请他帮助对抗[绝对者](Absolute.md "绝对者")的战斗。<sup>[\[3\]](#cite_note-3)</sup> 如果询问他关于洗劫高塔的事，他允许队伍拿走任何他们喜欢的东西，除了书籍和卷轴。在这种情况下，高塔三层的所有容器都变得可用，尽管罗兰自己说过，但他并不反对拿走法术卷轴。经过[长休](Long_Rest.md "长休")后，罗兰成为[召集盟友](Gather_Your_Allies.md "召集盟友")任务的盟友。
 
-如果队伍支持洛若坎，但他在战斗中被击败，罗兰决定亲自抓捕艾琳。然而，这项任务超出了他的能力：长休后，队伍可以在拉玛吉斯高塔中找到罗兰的尸体和艾琳的[威胁信](An_Assurance.md "一个保证")。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")]
+如果队伍支持洛若坎，但他在战斗中被击败，罗兰决定亲自抓捕艾琳。然而，这项任务超出了他的能力：长休后，队伍可以在拉玛吉斯高塔中找到罗兰的尸体和艾琳的[一个保证](An_Assurance.md "一个保证")。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")]
 
-如果队伍选择自己攻击洛若坎，罗兰会在洛若坎被击败后与队伍对峙，要求知道发生了什么。为了避免与罗兰发生另一场战斗，队伍必须成功通过 DC 18 [游说](Persuasion.md "游说")或[威吓](Intimidation.md "威吓") [检定](Ability_Check.md "属性检定")。
+如果队伍选择自己攻击洛若坎，罗兰会在洛若坎被击败后与队伍对峙，要求知道发生了什么。为了避免与罗兰发生另一场战斗，队伍必须成功通过 DC 18 [游说](Persuasion.md "游说")或[威吓](Intimidation.md "威吓") [属性检定](Ability_Check.md "属性检定")。
 
 ## 相关地点
 

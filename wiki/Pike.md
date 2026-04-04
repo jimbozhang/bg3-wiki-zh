@@ -2,7 +2,7 @@
 
 关于装备类型，请参阅 [长矛](Pikes.md "Pikes")。
 
-**长矛**是 [长矛](Pikes.md "Pikes") 武器家族中一种普通的、非魔法的变体。它是一种需要双手挥舞的[近战武器](Weapons.md "Weapons")。它为使用者在近战中提供[额外范围](Extra_Reach.md "Extra reach")。
+**长矛**是 [长矛](Pikes.md "Pikes") 武器家族中一种普通的、非魔法的变体。它是一种需要双手挥舞的[武器](Weapons.md "武器")。它为使用者在近战中提供[额外范围](Extra_Reach.md "Extra reach")。
 
 这把长矛的宽钢头被反复弯曲并锤打回原形。
 

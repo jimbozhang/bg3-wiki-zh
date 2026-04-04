@@ -20,7 +20,7 @@
 
 ## 备注
 
-- 拾取此物品会进行一次DC 13的[察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")。成功后，拾取它的角色会评论其稀有性和价值。
+- 拾取此物品会进行一次DC 13的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")。成功后，拾取它的角色会评论其稀有性和价值。
 
 ---
 *Source: [Envoys at Table](https://bg3.wiki/wiki/Envoys_at_Table)*

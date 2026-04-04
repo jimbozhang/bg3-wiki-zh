@@ -23,9 +23,9 @@
 ## 目录
 
 - [1 顶点颜色遮罩槽](#vertexcolormaskslots)
-  - [1.1 顶点颜色遮罩槽表](#vertexcolormaskslots-table)
-  - [1.2 图像参考](#image-references)
-  - [1.3 隐藏网格部分的其他方法](#other-ways-to-hide-mesh-parts)
+  - [1.1 顶点颜色遮罩槽表](#顶点颜色遮罩槽表)
+  - [1.2 图像参考](#图像参考)
+  - [1.3 隐藏网格部分的其他方法](#隐藏网格部分的其他方法)
 
 # 顶点颜色遮罩槽
 

@@ -21,7 +21,7 @@
 | 尖刺环带 | [戒指](Ring.md "戒指") | [火事场力](Frantic_Urgency.md "火事场力")在战斗中，当佩戴者以低于或等于50%的[生命值](Hit_Points.md "生命值")开始回合时，他们获得[亢奋](Momentum_(Condition).md "亢奋 (状态)")，持续1回合。 |
 | 橡树之父的拥抱 | [护甲](Armour.md "护甲") ([中甲](Medium_Armour.md "中甲")) | [自然秩序](Order_of_Nature.md "自然秩序")击中佩戴者的[不死生物](Undead.md "不死生物")将受到1d6⁠⁠[光耀](Radiant.md "光耀")伤害。击中佩戴者的[野兽](Beasts.md "野兽")将造成额外1d6⁠⁠[光耀](Radiant.md "光耀")伤害。 |
 | 水中火花 | [靴子](Footwear.md "靴子") ([非护甲](Footwear#Non-Armour.md#非护甲 "脚部装备")) | [电化液体](Electrify_Water.md "电化液体")当佩戴者在战斗中站在[水](Water_(surface).md "水 (地表)")中时，水会变成[带电的水](Electrified_Water.md "带电的水")。 [水中火花](Watersparks.md "水中火花")如果佩戴者在[带电的水](Electrified_Water.md "带电的水")地表上开始回合，他们获得3点[闪电充能](Lightning_Charges_(Condition).md "闪电充能 (状态)")。 |
-| 真爱之拥 | [戒指](Ring.md "戒指") | [亲密拥抱](Intimate_Embrace.md "亲密拥抱")作为一对魔法戒指之一，这允许佩戴者每[长休](Long_Rest.md "长休")一次，对佩戴[配对戒指](True_Love's_Caress.md "真爱之抚")的生物施放[守护之链](Warding_Bond.md "守护之链")。 |
+| 真爱之拥 | [戒指](Ring.md "戒指") | [亲密拥抱](Intimate_Embrace.md "亲密拥抱")作为一对魔法戒指之一，这允许佩戴者每[长休](Long_Rest.md "长休")一次，对佩戴[真爱之抚](True_Love's_Caress.md "真爱之抚")的生物施放[守护之链](Warding_Bond.md "守护之链")。 |
 | 维康妮亚的行走堡垒 | [副手近战](Off-Hand_Melee.md "副手近战") ([盾牌](Shields.md "盾牌")) | [壁垒叱喝](Bulwark_Rebuke.md "壁垒叱喝") () 当敌人用近战攻击击中你时，对其造成2d4[力场](Force.md "力场")伤害，并可能将其击倒[倒伏](Prone_(Condition).md "倒伏 (状态)")。 [反射外壳](Reflective_Shell.md "反射外壳") () 一个保护性的外壳包裹着你。它将任何针对你的投射物反射回其原点。 [守护之链](Warding_Bond.md "守护之链") ( + ) 作为2环法术施放（充能：[长休](Long_Rest.md "长休")。） [法术防范](Spellguard.md "法术防范")你对法术的[豁免检定](Saving_throw.md "豁免检定")获得[优势](Advantage.md "优势")。针对你的[法术攻击掷骰](Spell_Attack_Roll.md "法术攻击掷骰")具有[劣势](Disadvantage.md "劣势")。 |
 
 ---

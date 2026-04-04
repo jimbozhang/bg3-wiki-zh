@@ -1,6 +1,6 @@
 # 腐化印记
 
-**腐化印记**是一个[等级 4 死灵学派法术](Spells.md "Spells")。它使目标对[黯蚀](Necrotic.md "Necrotic")伤害[易伤](Vulnerable.md "Vulnerable")。玩家角色无法学习此法术。
+**腐化印记**是一个[法术](Spells.md "法术")。它使目标对[黯蚀](Necrotic.md "Necrotic")伤害[易伤](Vulnerable.md "Vulnerable")。玩家角色无法学习此法术。
 
 ## 描述
 

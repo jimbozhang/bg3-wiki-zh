@@ -28,7 +28,7 @@ UID `MAG_Githborn_Mindcrusher_Greatsword` UUID `523a959d-4101-4beb-9a8e-276c3f68
 当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器造成额外 1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
 
 [罕遭突袭](Seldom_Caught_Unawares_(+2).md)
-你获得 +2 的[先攻掷骰](Initiative.md "先攻")加值。
+你获得 +2 的[先攻](Initiative.md "先攻")加值。
 
 ### 武器动作
 

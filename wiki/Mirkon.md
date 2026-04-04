@@ -80,11 +80,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
 
@@ -130,11 +130,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
 
@@ -180,11 +180,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看清一定距离内的事物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
 
@@ -216,7 +216,7 @@ UUID
 
 ### 第一幕
 
-在[翠绿林地](Emerald_Grove.md "Emerald Grove")的[隐秘河湾](Secluded_Cove.md "Secluded Cove")进行[调查海滩](Investigate_the_Beach.md "Investigate the Beach")时，米尔克处于一种奇怪的恍惚状态。如果在他被歌声魅惑时偷窃，交互的队伍成员必须是[游荡者](Rogue.md "Rogue")，并通过DC 5的[巧手](Sleight_of_Hands.md "Sleight of Hands")[检定](Ability_Check.md "Ability check")。这会为具有[罪犯](Criminal.md "Criminal")背景的队伍成员提供激励点[金钱的诱惑](Criminal.md#The_Allure_of_Coin "Criminal")。
+在[翠绿林地](Emerald_Grove.md "Emerald Grove")的[隐秘河湾](Secluded_Cove.md "Secluded Cove")进行[调查海滩](Investigate_the_Beach.md "Investigate the Beach")时，米尔克处于一种奇怪的恍惚状态。如果在他被歌声魅惑时偷窃，交互的队伍成员必须是[游荡者](Rogue.md "Rogue")，并通过DC 5的[巧手](Sleight_of_Hands.md "Sleight of Hands")[属性检定](Ability_Check.md "属性检定")。这会为具有[罪犯](Criminal.md "Criminal")背景的队伍成员提供激励点[金钱的诱惑](Criminal.md#The_Allure_of_Coin "Criminal")。
 
 探索海滩或与米尔克交谈会引出一些[鸟妖](Harpy.md "Harpy")，它们会攻击队伍和米尔克。如果米尔克在鸟妖遭遇中幸存，他会提供[提夫林避难所](Tiefling_Hideout.md "Tiefling Hideout")的密码，并告诉队伍去拜访[摩尔](Mol.md "Mol")。这会为具有[流浪儿](Urchin.md "Urchin")背景的队伍成员提供激励点[杀戮吹笛者](Urchin.md#Slaying_the_Piper "Urchin")，以及为具有[平民英雄](Folk_Hero.md "Folk Hero")背景的队伍成员提供激励点[弱小者的守护者](Folk_Hero.md#Protector_of_the_Small "Folk Hero")。激励点[金钱的诱惑](Criminal.md#The_Allure_of_Coin "Criminal")和[杀戮吹笛者](Urchin.md#Slaying_the_Piper "Urchin")是互斥的。
 

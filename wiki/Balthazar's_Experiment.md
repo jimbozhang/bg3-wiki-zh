@@ -1,6 +1,6 @@
 # 巴萨扎尔的试验
 
-**巴萨扎尔的试验**是[盖尔](Gale.md "盖尔")的[伙伴任务](The_Wizard_of_Waterdeep.md "深水城的法师")和[出身任务](The_Wizard_of_Waterdeep_(Origin).md "深水城的法师（出身）")的子任务。当队伍调查[月出之塔](Moonrise_Towers.md "月出之塔")中[巴萨扎尔](Balthazar.md "巴萨扎尔")秘密书房里的仪式圈时，该任务会自动触发。
+**巴萨扎尔的试验**是[盖尔](Gale.md "盖尔")的[深水城的法师](The_Wizard_of_Waterdeep.md "深水城的法师")和[出身任务](The_Wizard_of_Waterdeep_(Origin).md "深水城的法师（出身）")的子任务。当队伍调查[月出之塔](Moonrise_Towers.md "月出之塔")中[巴萨扎尔](Balthazar.md "巴萨扎尔")秘密书房里的仪式圈时，该任务会自动触发。
 
 > “
 >

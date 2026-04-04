@@ -3,7 +3,7 @@
 | 状态 | 效果 |
 | --- | --- |
 | [蛊惑](Beguiled_(Condition).md "蛊惑 (状态)") | 此生物已被[拉斐尔](Raphael.md "拉斐尔")魅惑，无法以攻击或法术瞄准他。 |
-| 魅惑 | 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。 |
+| 魅惑 | 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。 |
 | [邪魔顺从](Fiendish_Obeisance_(Condition).md "邪魔顺从 (状态)") | 受影响实体必须服从直接控制它的邪魔的命令。 |
 | [观察者眼魔魅惑术](Spectator's_Charm_(Condition).md "观察者眼魔魅惑术 (状态)") | 一道微弱的惑控术阻止此生物攻击观察者眼魔。任何伤害都可能打破它... |
 
@@ -42,7 +42,7 @@
 | 状态 | 效果 |
 | --- | --- |
 | [蛊惑](Beguiled_(Condition).md "蛊惑 (状态)") | 此生物已被[拉斐尔](Raphael.md "拉斐尔")魅惑，无法以攻击或法术瞄准他。 |
-| 魅惑 | 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。 |
+| 魅惑 | 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。 |
 | [邪魔顺从](Fiendish_Obeisance_(Condition).md "邪魔顺从 (状态)") | 受影响实体必须服从直接控制它的邪魔的命令。 |
 | [观察者眼魔魅惑术](Spectator's_Charm_(Condition).md "观察者眼魔魅惑术 (状态)") | 一道微弱的惑控术阻止此生物攻击观察者眼魔。任何伤害都可能打破它... |
 

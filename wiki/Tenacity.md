@@ -24,7 +24,7 @@ UID
 
 ## 学习方式
 
-通过[熟练](Proficiency.md "熟练")装备以下武器类型获得：
+通过[熟练项](Proficiency.md "熟练项")装备以下武器类型获得：
 
 - [链枷](Flails.md "链枷")
 - [钉头锤](Morningstars.md "钉头锤")

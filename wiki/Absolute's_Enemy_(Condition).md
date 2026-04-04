@@ -2,7 +2,7 @@
 
 **绝对之敌**
 
-- 敌人对你的[攻击](Advantage.md "优势")具有[优势](Advantage.md "优势")。
+- 敌人对你的[优势](Advantage.md "优势")具有[优势](Advantage.md "优势")。
 
 ## 属性
 
@@ -19,7 +19,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 敌人对你的[攻击](Advantage.md "优势")具有[优势](Advantage.md "优势")。
+- 敌人对你的[优势](Advantage.md "优势")具有[优势](Advantage.md "优势")。
 
 ---
 *Source: [Absolute's Enemy (Condition)](https://bg3.wiki/wiki/Absolute's_Enemy_(Condition)*

@@ -69,11 +69,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地（状态）")而非杀死他们。
 
@@ -113,11 +113,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地（状态）")而非杀死他们。
 
@@ -157,11 +157,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**非致命攻击开关**](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
+- [非致命攻击开关](Toggle_Non-Lethal_Attacks.md "非致命攻击开关")
 
 使某人[昏迷](Knocked_Out_(Condition).md "倒地（状态）")而非杀死他们。
 
@@ -207,7 +207,7 @@ Stats
   我的第四个了。这城市越来越糟了。
 
 - 加里·奥恩
-  有人应该向[公报](Baldur's_Mouth_Gazette.md "博德之口公报")报告这事。
+  有人应该向[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")报告这事。
 
 - 德贝蒂克斯
   如果常识无法说服他们，也许一场公关灾难可以。

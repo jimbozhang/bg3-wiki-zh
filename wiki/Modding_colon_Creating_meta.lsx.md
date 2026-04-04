@@ -19,14 +19,14 @@
 
 ## 目录
 
-- [1 所需工具](#tools-you'll-need)
-- [2 Meta.lsx](#meta.lsx)
-  - [2.1 手动创建您的 meta.lsx](#creating-your-meta.lsx_manually)
-  - [2.2 使用工具生成版本号](#generating-a-version-number-with-the-tools)
-    - [2.2.1 多功能工具](#multitool)
-    - [2.2.2 BG3 模组管理器](#bg3-mod-manager)
-    - [2.2.3 BG3 迷你工具](#bg3-mini-tool)
-  - [2.3 使用多功能工具创建您的 meta.lsx](#creating-your-meta.lsx_with_the_Multitool)
+- [1 所需工具](#所需工具)
+- [2 Meta.lsx](#Meta.lsx)
+  - [2.1 手动创建您的 meta.lsx](#手动创建您的-meta.lsx)
+  - [2.2 使用工具生成版本号](#使用工具生成版本号)
+    - [2.2.1 多功能工具](#多功能工具)
+    - [2.2.2 BG3 模组管理器](#BG3-模组管理器)
+    - [2.2.3 BG3 迷你工具](#BG3-迷你工具)
+  - [2.3 使用多功能工具创建您的 meta.lsx](#使用多功能工具创建您的-meta.lsx)
   - [2.4 使用 Padme4000 的 bg3 迷你工具创建您的 meta.lsx](#creating-your-meta.lsx_with_bg3_mini_tool_by_Padme4000)
 
 ## 所需工具

@@ -1,6 +1,6 @@
 # 濒死
 
-这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Dying.md "Special:WhatLinksHere/Dying")的，请考虑编辑该链接，将其指向正确的页面。
+这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[濒死](Special_colon_WhatLinksHere/Dying.md "濒死")的，请考虑编辑该链接，将其指向正确的页面。
 
 **濒死**可能指：
 

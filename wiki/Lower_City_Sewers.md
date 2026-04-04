@@ -25,30 +25,30 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 入口](#entrances)
-- [2 地点](#locations)
-  - [2.1 东部隧道](#eastern-tunnels)
-  - [2.2 公会大厅](#guildhall)
-  - [2.3 阿拉贝尔的洞穴](#arabella's-cave)
-  - [2.4 污物筏](#sewage-raft)
-  - [2.5 萨林的葬礼](#sarin's-funeral)
-  - [2.6 底城废墟入口](#undercity-ruins-entryway)
-  - [2.7 底城废墟](#undercity-ruins)
-  - [2.8 宝藏室](#treasure-room)
-  - [2.9 废弃蓄水池](#abandoned-cistern)
-- [3 涉及内容](#involvement)
-- [4 传送点](#waypoints)
-- [5 相关地点](#related-locations)
-- [6 相关任务](#related-quests)
-- [7 角色](#characters)
-  - [7.1 巴尔教徒](#bhaal-cultists)
-  - [7.2 生物](#creatures)
-- [8 战利品](#loot)
-- [9 相关文献](#related-literature)
-- [10 图库](#gallery)
-- [11 注释与参考](#notes-and-references)
-- [12 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 入口](#入口)
+- [2 地点](#地点)
+  - [2.1 东部隧道](#东部隧道)
+  - [2.2 公会大厅](#公会大厅)
+  - [2.3 阿拉贝尔的洞穴](#阿拉贝尔的洞穴)
+  - [2.4 污物筏](#污物筏)
+  - [2.5 萨林的葬礼](#萨林的葬礼)
+  - [2.6 底城废墟入口](#底城废墟入口)
+  - [2.7 底城废墟](#底城废墟)
+  - [2.8 宝藏室](#宝藏室)
+  - [2.9 废弃蓄水池](#废弃蓄水池)
+- [3 涉及内容](#涉及内容)
+- [4 传送点](#传送点)
+- [5 相关地点](#相关地点)
+- [6 相关任务](#相关任务)
+- [7 角色](#角色)
+  - [7.1 巴尔教徒](#巴尔教徒)
+  - [7.2 生物](#生物)
+- [8 战利品](#战利品)
+- [9 相关文献](#相关文献)
+- [10 图库](#图库)
+- [11 注释与参考](#注释与参考)
+- [12 外部链接](#外部链接)
 
 ## 概述
 
@@ -72,7 +72,7 @@
 | 梯子 | [废弃蓄水池](#Abandoned_Cistern "废弃蓄水池") | X: -283 Y: 879 | X: -251 Y: -87 [下城区](Lower_City.md "下城区") | 通过园丁地下室的华丽木制舱口，穿过标有“禁地”的木门 |
 | 梯子 | [废弃蓄水池](#Abandoned_Cistern "废弃蓄水池") | X: -283 Y: 879 | X: -251 Y: -87 [下城区](Lower_City.md "下城区") | 通过园丁地下室的华丽木制舱口，穿过标有“禁地”的木门 |
 | 油腻、恶臭的攀爬 | [宝藏室](#Treasure_Room "宝藏室") | X: -158 Y: 835 | X: -1097 Y: 335 [弗莱姆货运](Flymm_Cargo.md "弗莱姆货运") | 通过[弗莱姆货运](Flymm_Cargo#Basement.md#Basement "弗莱姆货运")地下室内的油腻、恶臭的攀爬点 |
-| 阴暗下行 | [污物筏](#Sewage_Raft "污物筏") | X: -111 Y: 886 | X: -1981 Y: 843 [卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢") | 在[卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢")内解锁地穴大门（DC 30 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")）后，通过阴暗上行点 - 在从地牢侧使用前，无法从下水道侧进入 |
+| 阴暗下行 | [污物筏](#Sewage_Raft "污物筏") | X: -111 Y: 886 | X: -1981 Y: 843 [卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢") | 在[卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢")内解锁地穴大门（DC 30 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")）后，通过阴暗上行点 - 在从地牢侧使用前，无法从下水道侧进入 |
 | 禁止出入门 | [公会大厅](#Guildhall "公会大厅") | X: -14 Y: 772 | X: -14 Y: 772 下城区下水道 | 通过[公会](Guild.md "公会")总部，吧台后面 |
 | 隐藏门 | [秘密下水道宝库](Guildhall#Secret_Sewer_Vault.md#Secret_Sewer_Vault "公会大厅") | X: -60 Y: 784 | X: -60 Y: 784 下城区下水道 | 通过[秘密下水道宝库](Guildhall#Secret_Sewer_Vault.md#Secret_Sewer_Vault "公会大厅")旁边的走廊，可从[九指基恩](Nine-Fingers_Keene.md "九指基恩")的卧室进入 - 在打开前，无法从下水道侧进入 |
 
@@ -90,7 +90,7 @@
 
 从小巷井盖进入的入口最初通向一个没有出口的房间，但可以打破一堵墙。从房间向西走，沿着楼梯是通往[公会大厅](Guildhall.md "公会大厅")的入口。
 
-所有三个外部入口最终都通向同一条隧道，隧道内有从地面通风口散发的[有毒烟雾](Noxious_Fumes.md "有毒烟雾")。可以通过击中南墙上的一个拉杆（例如用[远程攻击](Ranged_Attack.md "远程攻击")）来禁用它们。房间中央的架子上有一个[粗糙的箱子](Rustic_Chest.md "粗糙的箱子")。其锁（DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")）后面是[博德之门入侵计划](Invasion_Plans_for_Baldur's_Gate.md "博德之门入侵计划")和各种葡萄酒。
+所有三个外部入口最终都通向同一条隧道，隧道内有从地面通风口散发的[有毒烟雾](Noxious_Fumes.md "有毒烟雾")。可以通过击中南墙上的一个拉杆（例如用[远程攻击](Ranged_Attack.md "远程攻击")）来禁用它们。房间中央的架子上有一个[粗糙的箱子](Rustic_Chest.md "粗糙的箱子")。其锁（DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")）后面是[博德之门入侵计划](Invasion_Plans_for_Baldur's_Gate.md "博德之门入侵计划")和各种葡萄酒。
 
 房间的西侧可以出去，通向隧道的不同部分。这里的[巴尔](Bhaal.md "巴尔")教徒正在与难民战斗。如果队伍与[奥林](Orin.md "奥林")达成了作为[拯救奥林的受害者](Rescue_Orin's_Victim.md "拯救奥林的受害者")一部分的协议，他们不会立即敌对，队伍可以决定加入、支持难民或忽略他们。房间两侧都有拉杆，可以禁用地面上散发[有毒烟雾](Noxious_Fumes.md "有毒烟雾")的通风口。
 
@@ -106,7 +106,7 @@
 
 博德之门臭名昭著的犯罪派系“公会”的行动基地，由[九指基恩](Nine-Fingers_Keene.md "九指基恩")领导。[公会大厅](Guildhall.md "公会大厅")与下城区下水道有两个连接点。
 
-- 一个是位于吧台后方 X: -14 Y: 772 处的上锁门，名为“禁止出入”——或者，如果从下水道过来——该门位于从最南端入口（如[东部隧道](#eastern-tunnels)所述）下来的楼梯尽头。需要[塞弗恩的下水道钥匙](Severn's_Sewer_Key.md "塞弗恩的下水道钥匙")或可以用 DC 20 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")撬开。
+- 一个是位于吧台后方 X: -14 Y: 772 处的上锁门，名为“禁止出入”——或者，如果从下水道过来——该门位于从最南端入口（如[东部隧道](#eastern-tunnels)所述）下来的楼梯尽头。需要[塞弗恩的下水道钥匙](Severn's_Sewer_Key.md "塞弗恩的下水道钥匙")或可以用 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")撬开。
 - 另一扇是隐藏门，只能从公会大厅内的[秘密下水道宝库](Guildhall.md#Secret_Sewer_Vault "公会大厅")附近打开。
 
 ### 阿拉贝尔的洞穴
@@ -117,7 +117,7 @@
 
 如果交谈的队伍成员通过[奥秘](Arcana.md "奥秘")检定，他们会得知这块石头是魔法物品，吸收了城市上方许多世代的故事。阿拉贝尔现在也在吸收它们。她告诉队伍，“骨头人”（她对[守墓人](Withers.md "守墓人")的称呼）是对的：织法引导着她。她暗示队伍可能会再次见到她。阿拉贝尔可以作为[召集盟友](Gather_Your_Allies.md "召集盟友")任务的一部分被招募。
 
-在 X: -127 Y: 772 处埋着一个[木箱子](Wooden_Chest.md "木箱子")，通过 DC 15 [求生](Survival.md "求生") [检定](Ability_Check.md "属性检定")可以发现。
+在 X: -127 Y: 772 处埋着一个[木箱子](Wooden_Chest.md "木箱子")，通过 DC 15 [求生](Survival.md "求生") [属性检定](Ability_Check.md "属性检定")可以发现。
 
 洞穴北面和初始桥附近，地面覆盖着[油脂](Grease_(surface).md "油脂（地表）")和[油](Oil.md "油")。地面上的[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")包含[羊皮卷](Parchment_(Lower_City_Sewers).md "羊皮卷（下城区下水道）")和各种[炼金材料](Alchemical_Ingredients.md "炼金材料")。更北面是另一座桥，通往主下水道区域。
 
@@ -125,7 +125,7 @@
 
 筏子的通行区域
 
-下水道内有一个筏子，可用于在三个码头之间旅行。其初始位置在中间的码头，该码头被一扇门锁住（DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")），位于 X: -78 Y: 827，就在[加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖")前井盖下的梯子入口南边一点。
+下水道内有一个筏子，可用于在三个码头之间旅行。其初始位置在中间的码头，该码头被一扇门锁住（DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")），位于 X: -78 Y: 827，就在[加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖")前井盖下的梯子入口南边一点。
 
 码头旁边，上锁门后的房间内可能还有[凯斯拉克百夫长沃斯](Voss.md "凯斯拉克百夫长沃斯")和[奎德诺斯](Qudenos.md "奎德诺斯")<sup>[\[2\]](#cite_note-dragonborn-2)</sup>。他们是否在这里取决于[帮助凯斯拉克百夫长沃斯](Help_Kith'rak_Voss.md "帮助凯斯拉克百夫长沃斯")的状态。如果队伍在下水道攻击他们，队伍会被称作叛徒，两人会在自己的回合尝试传送离开，即使被束缚、沉默或失能。然而，两人仍可在同一回合内被杀死。
 
@@ -153,9 +153,9 @@
 
 通往[底城废墟](Undercity_Ruins.md "底城废墟")的入口位于下水道北部。几扇门允许自由进入该区域。房间内有四块松动的石头。所有石头都需要成功的察觉检定才能发现并可以掠夺。
 
-- X: -131 Y: 880 处 DC 20 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")，包含[染漆钥匙](Painted_Key.md "染漆钥匙")，用于解锁附近的漆箱子
-- X: -133 Y: 894 处 DC 15 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")
-- X: -131 Y: 880 处 DC 10 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")，包含[青铜戒指](Bronze_Ring.md "青铜戒指")和[盗贼工具](Thieves'_Tools.md "盗贼工具")
+- X: -131 Y: 880 处 DC 20 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")，包含[染漆钥匙](Painted_Key.md "染漆钥匙")，用于解锁附近的漆箱子
+- X: -133 Y: 894 处 DC 15 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")
+- X: -131 Y: 880 处 DC 10 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")，包含[青铜戒指](Bronze_Ring.md "青铜戒指")和[盗贼工具](Thieves'_Tools.md "盗贼工具")
 - X: -146 Y: 902 处一个必定成功的检定，包含[不完整的日志](Incomplete_Journal.md "不完整的日志")和黄金
 
 门附近的地板上有一份[撕下的日志碎片](Torn_Journal_Fragment.md "撕下的日志碎片")，提供了关于[萨林](Sarin.md "萨林")及其同伴的背景信息。旁边有一个上锁的[漆箱子](Painted_Chest.md "漆箱子")，可以用钥匙或撬锁打开。可以掠夺到黄金、一件[镶钉皮甲](Studded_Leather_Armour.md "镶钉皮甲")，以及一支稀有和一支普通箭矢。西北角有一份[染色的日志碎片](Stained_Journal_Fragment.md "染色的日志碎片")和一个油脂瓶。附近有一个背包，内含[你在公会有朋友](You've_Got_Friends_in_the_Guild.md "你在公会有朋友")。
@@ -180,14 +180,14 @@
 
 一个[狗头人盗贼](Kobold_Thief.md "狗头人盗贼")在管道的另一侧，X: -171 Y: 854。它携带一张下水道地图，提到了[巴格辛博](Bugthimble.md "巴格辛博")和“龙。部落宝藏。”，指向宝藏的最终位置。
 
-阅读地图后，小地图上会出现一个名为“藏匿处”的标记，指向五个周围的[土堆](Dirt_Mound.md "土堆")之一。挖掘宝箱会触发 DC 25 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")，可以揭示宝箱设有陷阱。其他每个土堆都有类似的陷阱和挑衅便条。可以挖出的便条有：
+阅读地图后，小地图上会出现一个名为“藏匿处”的标记，指向五个周围的[土堆](Dirt_Mound.md "土堆")之一。挖掘宝箱会触发 DC 25 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")，可以揭示宝箱设有陷阱。其他每个土堆都有类似的陷阱和挑衅便条。可以挖出的便条有：
 
 - [潦草的笔记（下水道，王冠）](Scrawled_Note_(Sewers,_crown).md "潦草的笔记（下水道，王冠）")
 - [潦草的笔记（下水道，宝石）](Scrawled_Note_(Sewers,_gem).md "潦草的笔记（下水道，宝石）")
 - [潦草的笔记（下水道，剑）](Scrawled_Note_(Sewers,_sword).md "潦草的笔记（下水道，剑）")
 - [潦草的笔记（下水道，硬币）](Scrawled_Note_(Sewers,_coin).md "潦草的笔记（下水道，硬币）")
 
-真正的宝藏可以在最北端的土堆 X: -178 Y: 862 处找到。从中可以发现“记号箱：龙”，该宝箱也设有陷阱，需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")来撬锁。内含黄金、一条[金项链](Gold_Necklace.md "金项链")和一个[玻璃高脚杯](Glass_Goblet.md "玻璃高脚杯")。
+真正的宝藏可以在最北端的土堆 X: -178 Y: 862 处找到。从中可以发现“记号箱：龙”，该宝箱也设有陷阱，需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。内含黄金、一条[金项链](Gold_Necklace.md "金项链")和一个[玻璃高脚杯](Glass_Goblet.md "玻璃高脚杯")。
 
 沿着大管道向入口相反方向走会到达[废弃蓄水池](Abandoned_Cistern.md "废弃蓄水池")。也可以通过西侧流动污水内的破门进入蓄水池。
 
@@ -199,7 +199,7 @@
 
 废弃蓄水池是[明斯克](Minsc.md "明斯克")追随者的藏身之处。可以通过下水道从[底城废墟](Undercity_Ruins.md "底城废墟")入口处的西门进入，或通过宝藏室进入。蓄水池位于下城区下水道的最西端，在最西端有从下水道外部进入的入口，需要上一些楼梯。入口梯子将其与[园丁地下室](Lady_Jannath's_Estate.md#Outside,_around_the_building "迦纳斯夫人的宅邸")连接，后者是[迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "迦纳斯夫人的宅邸")的一部分。
 
-该区域分为两个房间；最西边的房间需要解开一个谜题才能解锁<sup>[\[4\]](#cite_note-4)</sup>。其中[明斯克](Minsc.md "明斯克")和[罗阿·月光](Roah_Moonglow.md "罗阿·月光")正在与[巴尔教徒](Bhaal.md "巴尔")和[变形怪](Doppelganger.md "变形怪")做交易。
+该区域分为两个房间；最西边的房间需要解开一个谜题才能解锁<sup>[\[4\]](#cite_note-4)</sup>。其中[明斯克](Minsc.md "明斯克")和[罗阿·月光](Roah_Moonglow.md "罗阿·月光")正在与[巴尔](Bhaal.md "巴尔")和[变形怪](Doppelganger.md "变形怪")做交易。
 
 ## 涉及内容
 
@@ -305,7 +305,7 @@
 1. [↑](#cite_ref-1) 如[扫把和水桶](Broom_and_Bucket.md "扫把和水桶")和[市政环卫提示](Municipal_Sanitation_Notice.md "市政环卫提示")中所述
 1. ↑ [2.0](#cite_ref-dragonborn_2-0) [2.1](#cite_ref-dragonborn_2-1) 将呈现龙裔形态
 1. [↑](#cite_ref-3) 详情参见[底城废墟](Undercity_Ruins.md#Entry_area "底城废墟")
-1. [↑](#cite_ref-4) 闸门谜题只能从下水道内部解决。如果从外部进入西房间，需要在 X: -252 Y: 877 处的阀门上进行 DC 25 [运动](Athletics.md "运动") [检定](Ability_Check.md "属性检定")才能解锁
+1. [↑](#cite_ref-4) 闸门谜题只能从下水道内部解决。如果从外部进入西房间，需要在 X: -252 Y: 877 处的阀门上进行 DC 25 [运动](Athletics.md "运动") [属性检定](Ability_Check.md "属性检定")才能解锁
 1. [↑](#cite_ref-5) 如果在[第三幕](Act_Three.md "第三幕")中存活。
 1. ↑ [6.0](#cite_ref-helpvoss_6-0) [6.1](#cite_ref-helpvoss_6-1) 根据[帮助凯斯拉克百夫长沃斯](Help_Kith'rak_Voss.md "帮助凯斯拉克百夫长沃斯")的状态出现。
 1. [↑](#cite_ref-7) 最初伪装成[拯救奥林的受害者](Rescue_Orin's_Victim.md "拯救奥林的受害者")的绑架受害者，之后奥林揭示自己和绑架阴谋。

@@ -2,7 +2,7 @@
 
 **预言：钝器工具**
 
-- 对敌人造成至少 1⁠⁠[钝击](Bludgeoning.md "Bludgeoning") 伤害，以恢复一个 [预兆骰子](Portent.md "预兆骰子")。
+- 对敌人造成至少 1⁠⁠[钝击](Bludgeoning.md "Bludgeoning") 伤害，以恢复一个 [预兆](Portent.md "预兆")。
 
 ## 属性
 

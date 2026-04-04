@@ -1,6 +1,6 @@
 # 刷新死者交谈
 
-**刷新死者交谈**是一个[3级死灵学派法术](Spells.md "Spells")。此能力允许施法者在不消耗[法术位](Spell_Slot.md "Spell Slot")的情况下重新施放[死者交谈](Speak_with_Dead.md "死者交谈")。
+**刷新死者交谈**是一个[法术](Spells.md "法术")。此能力允许施法者在不消耗[法术位](Spell_Slot.md "Spell Slot")的情况下重新施放[死者交谈](Speak_with_Dead.md "死者交谈")。
 
 ## 描述
 

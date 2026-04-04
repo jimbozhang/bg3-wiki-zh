@@ -2,7 +2,7 @@
 
 本文档介绍的内容——例如物品、法术或装备——**[无法使用](Category_colon_Unusable_content.md "Category:Unusable content")**，但仍可通过游戏内或第三方工具访问或获取。
 
-**短剑（尤格）**是[短剑](Shortswords.md "Shortswords")武器家族的一个特殊变体。它是一种单手挥舞的[近战武器](Weapons.md "Weapons")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
+**短剑（尤格）**是[短剑](Shortswords.md "Shortswords")武器家族的一个特殊变体。它是一种单手挥舞的[武器](Weapons.md "武器")。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷，而不仅仅是力量。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
 
 这把匕首的握柄光滑轻盈，锯齿状的刀刃被磨成薄而锋利的刃口。
 

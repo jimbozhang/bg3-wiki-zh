@@ -1,6 +1,6 @@
 # 森林之石精华
 
-**森林之石精华**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[收缩油](Oil_of_Diminution.md "收缩油")。
+**森林之石精华**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extractions "炼金术")结合，以制造[收缩油](Oil_of_Diminution.md "收缩油")。
 
 认为[妖精荒野](https://forgottenrealms.fandom.com/wiki/Feywild)是一个充满异想天开冒险的梦幻位面是愚蠢的。这种物质偶尔闪现的彩虹色光泽很容易让人联想到危险的油膜。
 

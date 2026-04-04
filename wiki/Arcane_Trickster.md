@@ -10,20 +10,20 @@
 
 ## 目录
 
-- [1 副职特性](#subclass-features)
-  - [1.1 等级 3](#level-3)
-  - [1.2 等级 4](#level-4)
-  - [1.3 等级 5](#level-5)
-  - [1.4 等级 6](#level-6)
-  - [1.5 等级 7](#level-7)
-  - [1.6 等级 8](#level-8)
-  - [1.7 等级 9](#level-9)
-  - [1.8 等级 10](#level-10)
-  - [1.9 等级 11](#level-11)
-  - [1.10 等级 12](#level-12)
-- [2 诡术师施法图表](#arcane-trickster-spellcasting-chart)
-- [3 注释](#notes)
-- [4 外部链接](#external-links)
+- [1 副职特性](#副职特性)
+  - [1.1 等级 3](#等级-3)
+  - [1.2 等级 4](#等级-4)
+  - [1.3 等级 5](#等级-5)
+  - [1.4 等级 6](#等级-6)
+  - [1.5 等级 7](#等级-7)
+  - [1.6 等级 8](#等级-8)
+  - [1.7 等级 9](#等级-9)
+  - [1.8 等级 10](#等级-10)
+  - [1.9 等级 11](#等级-11)
+  - [1.10 等级 12](#等级-12)
+- [2 诡术师施法图表](#诡术师施法图表)
+- [3 注释](#注释)
+- [4 外部链接](#外部链接)
 
 ## 副职特性
 
@@ -141,7 +141,7 @@
 - [秘法锁](Arcane_Lock.md "秘法锁")
 - [失明术](Blindness.md "失明术")
 - [朦胧术](Blur.md "朦胧术") *[匕首之云](Cloud_of_Daggers.md "匕首之云")* [疯狂](Crown_of_Madness.md "疯狂") *[黑暗术](Darkness.md "黑暗术")* [高级黑暗视觉](Darkvision_(spell).md "高级黑暗视觉")
-- [侦测思想](Detect_Thoughts.md "侦测思想") *[巨化/缩小](Enlarge/Reduce.md "巨化/缩小")* [炽焰法球](Flaming_Sphere.md "炽焰法球") * [造风术](Gust_of_Wind.md "造风术")
+- [侦测思想](Detect_Thoughts.md "侦测思想") *[缩小](Enlarge/Reduce.md "缩小")* [炽焰法球](Flaming_Sphere.md "炽焰法球") * [造风术](Gust_of_Wind.md "造风术")
 - [人类定身术](Hold_Person.md "人类定身术") *[隐形](Invisibility_(spell).md "隐形")* [敲击术](Knock.md "敲击术")
 - [魔法武器](Magic_Weapon.md "魔法武器") * [马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭")
 - [镜像术](Mirror_Image.md "镜像术")

@@ -4,7 +4,7 @@
 
 ## 描述
 
-获得所选[属性](Ability_Scores.md "属性值")所有[技能](Skills.md "技能")的[熟练项](Proficiency.md "熟练项")。
+获得所选[属性值](Ability_Scores.md "属性值")所有[技能](Skills.md "技能")的[熟练项](Proficiency.md "熟练项")。
 
 ## 属性
 

@@ -2,7 +2,7 @@
 
 **龙裔威能：毒素**
 
-- 受影响实体在威吓和游说[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")之前使用一次[疾病射线](Ray_of_Sickness.md "疾病射线")。
+- 受影响实体在威吓和游说[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")之前使用一次[疾病射线](Ray_of_Sickness.md "疾病射线")。
 
 ## 属性
 
@@ -18,7 +18,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体在威吓和游说[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")之前使用一次[疾病射线](Ray_of_Sickness.md "疾病射线")。
+- 受影响实体在威吓和游说[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")，并且可以在下一次[长休](Long_Rest.md "长休")之前使用一次[疾病射线](Ray_of_Sickness.md "疾病射线")。
 
 ---
 *Source: [Draconic Prowess: Poison (Condition)](https://bg3.wiki/wiki/Draconic_Prowess:_Poison_(Condition)*

@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [1 区域类型](#area-types)
-  - [1.1 地表](#surface)
-  - [1.2 云](#cloud)
-  - [1.3 召唤](#summoned)
-- [2 区域交互](#area-interactions)
+- [1 区域类型](#区域类型)
+  - [1.1 地表](#地表)
+  - [1.2 云](#云)
+  - [1.3 召唤](#召唤)
+- [2 区域交互](#区域交互)
 
 ## 区域类型
 
@@ -63,8 +63,8 @@
 | Douse | 熄灭火焰 | 可以移除火焰 | [冷冻射线](Ray_of_Frost.md "冷冻射线") |
 | Electrify | 使地表带电 | 可以将水变成带电的水 | [电爪](Shocking_Grasp.md "电爪") |
 | Freeze | 冻结区域 | 可以将水变成冰 | [冷冻射线](Ray_of_Frost.md "冷冻射线") |
-| Ignite | 爆炸区域或将其点燃 | 可以引爆烟粉并将多个地表变成火焰 | [火球术术](Fireball.md "火球术术"), [火焰箭](Fire_Bolt.md "火焰箭") |
-| Melt | 融化地表 | 可以将冰变成水 | [火球术术](Fireball.md "火球术术"), [火焰箭](Fire_Bolt.md "火焰箭") |
+| Ignite | 爆炸区域或将其点燃 | 可以引爆烟粉并将多个地表变成火焰 | [火球术](Fireball.md "火球术"), [火焰箭](Fire_Bolt.md "火焰箭") |
+| Melt | 融化地表 | 可以将冰变成水 | [火球术](Fireball.md "火球术"), [火焰箭](Fire_Bolt.md "火焰箭") |
 | TurnHellfire |  |  | [排放地狱火](Hellfire_Exhaust.md "排放地狱火"), [地狱火飞弹](Hellfire_Missiles.md "地狱火飞弹"), [爆燃火花](Igniting_Spark.md "爆燃火花"), [恶魔锁链](Diabolic_Chains.md "恶魔锁链"), [肆虐地狱](Ravaging_Inferno.md "肆虐地狱") |
 | UnturnHellfire |  |  |  |
 | Vaporize | 蒸发地表 |  |  |

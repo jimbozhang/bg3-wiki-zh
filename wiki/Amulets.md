@@ -4,13 +4,13 @@
 
 ## 目录
 
-- [1 护符列表](#list-of-amulets)
-  - [1.1 普通](#common)
-  - [1.2 不常见](#uncommon)
-  - [1.3 稀有](#rare)
-  - [1.4 非常稀有](#very-rare)
-  - [1.5 故事道具](#story-item)
-  - [1.6 遗留内容](#legacy-content)
+- [1 护符列表](#护符列表)
+  - [1.1 普通](#普通)
+  - [1.2 不常见](#不常见)
+  - [1.3 稀有](#稀有)
+  - [1.4 非常稀有](#非常稀有)
+  - [1.5 故事道具](#故事道具)
+  - [1.6 遗留内容](#遗留内容)
 
 ## 护符列表
 
@@ -74,14 +74,14 @@
 | [西凡那斯护符](Amulet_of_Silvanus.md "西凡那斯护符") | 0.05 kg 0.1 lb | 65 | [恢复](Lesser_Restoration.md "恢复") () 施放为2环法术（充能：[短休](Short_rest.md "短休")。） |
 | [龃龉护符](Amulet_of_the_Unworthy.md "龃龉护符") | 0.05 kg 0.1 lb | 65 | 对[挥砍](Slashing.md "挥砍")伤害的[抗性](Resistance.md "抗性") 对[钝击](Bludgeoning.md "钝击")伤害的[易伤](Vulnerability.md "易伤") |
 | [驯兽师铁链](Beastmaster's_Chain.md "驯兽师铁链") | 0.05 kg 0.1 lb | 65 | [化兽为友](Animal_Friendship.md "化兽为友") () 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） |
-| [巢穴之母的复仇](Broodmother's_Revenge.md "巢穴之母的复仇") | 0.05 kg 0.1 lb | 65 | [恶毒复仇](Venomous_Revenge.md "恶毒复仇")每当佩戴者被治疗时，其武器会附魔并造成额外的1d6[毒素](Poison.md "毒素")伤害。 |
+| [巢穴之母的复仇](Broodmother's_Revenge.md "巢穴之母的复仇") | 0.05 kg 0.1 lb | 65 | [恶毒复仇](Venomous_Revenge.md "恶毒复仇")每当佩戴者被治疗时，其武器会附魔并造成额外的1d6[中毒](Poison.md "中毒")伤害。 |
 | [火焰之心](Fireheart.md "火焰之心") | 0.05 kg 0.1 lb | 65 | [炽热之焰](Fervent_Flames.md "炽热之焰")每当你受到其他生物造成的[火焰](Fire.md "火焰")伤害时，你获得2回合的[热](Heat_(Condition).md "热（状态）")。 |
 | [冰霜王子](Frost_Prince.md "冰霜王子") | 0.05 kg 0.1 lb | 65 | [冰刃术](Ice_Knife.md "冰刃术") () 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） |
 | [严厉之锤的薄雾护符](Hammergrim_Mist_Amulet.md "严厉之锤的薄雾护符") | 0.05 kg 0.1 lb | 65 | [云雾术](Fog_Cloud.md "云雾术") () 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） |
 | [夺命项圈](Kill_Collar.md "夺命项圈") | 0.05 kg 0.1 lb | 65 |  |
 | [柯米拉的吊坠](Komira's_Locket.md "柯米拉的吊坠") | 0.05 kg 0.1 lb | 65 | [舞光术](Dancing_Lights.md "舞光术") () 施放为戏法（充能：每回合。） |
 | [月泪坠饰](Moondrop_Pendant.md "月泪坠饰") | 0.05 kg 0.1 lb | 65 | [痛苦之舞](Writhing_Dance.md "痛苦之舞")当佩戴者生命值低于或等于50%时，不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。 |
-| [元素强化项链](Necklace_of_Elemental_Augmentation.md "元素强化项链") | 0.05 kg 0.1 lb | 65 | [元素强化](Elemental_Augmentation.md "元素强化")当你的一个[戏法](List_of_cantrips.md "戏法列表")造成[酸液](Acid.md "酸液")、[冷冻](Cold.md "冷冻")、[火焰](Fire.md "火焰")、[闪电](Lightning.md "闪电")或[雷鸣](Thunder.md "雷鸣")伤害时，将你的[施法调整值](Spellcasting_Modifier.md "施法调整值")加到造成伤害上。 |
+| [元素强化项链](Necklace_of_Elemental_Augmentation.md "元素强化项链") | 0.05 kg 0.1 lb | 65 | [元素强化](Elemental_Augmentation.md "元素强化")当你的一个[戏法](List_of_cantrips.md "戏法列表")造成[强酸](Acid.md "强酸")、[寒冷](Cold.md "寒冷")、[火焰](Fire.md "火焰")、[闪电](Lightning.md "闪电")或[雷鸣](Thunder.md "雷鸣")伤害时，将你的[施法调整值](Spellcasting_Modifier.md "施法调整值")加到造成伤害上。 |
 | [珍珠力量护符](Pearl_of_Power_Amulet.md "珍珠力量护符") | 0.05 kg 0.1 lb | 45 | [珠光复原术](Pearlescent_Restoration.md "珠光复原术") () 你可以选择恢复至多3环的已消耗[法术位](Spell_Slot.md "法术位")。（充能：[长休](Long_Rest.md "长休")。） |
 | [心灵火花](Psychic_Spark.md "心灵火花") | 0.05 kg 0.1 lb | 65 | [魔法飞弹](Magic_Missile.md "魔法飞弹") () 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[心灵飞弹](Psychic_Missiles.md "心灵飞弹")每当你施放[魔法飞弹](Magic_Missile.md "魔法飞弹")时，发射额外的飞弹。 |
 | [莎尔的诱惑](Shar's_Temptation.md "莎尔的诱惑") | 0.05 kg 0.1 lb | 65 | [魅惑人类](Charm_Person.md "魅惑人类") () 施放为1环法术（充能：[短休](Short_rest.md "短休")。） |
@@ -97,11 +97,11 @@
 | --- | --- | --- | --- |
 | [烙印护符](Amulet_of_Branding.md "烙印护符") | 0.05 kg 0.1 lb | 125 | [标点弱点](Brand_the_Weak.md "标点弱点") () 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） |
 | [修复护符](Amulet_of_Restoration.md "修复护符") | 0.05 kg 0.1 lb | 160 | [治愈真言](Healing_Word.md "治愈真言") () 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[群体治愈真言](Mass_Healing_Word.md "群体治愈真言") () 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） |
-| [酒鬼护符](Amulet_of_the_Drunkard.md "酒鬼护符") | 0.05 kg 0.1 lb | 190 | [酒精治疗](Booze_Remedy.md "酒精治疗")佩戴此护符时，在[醉酒](Alcohol_(Condition).md "醉酒（状态）")状态下每回合恢复2d4[生命值](Healing.md "治疗")。此外，你的醉酒持续时间延长5轮。 |
+| [酒鬼护符](Amulet_of_the_Drunkard.md "酒鬼护符") | 0.05 kg 0.1 lb | 190 | [酒精治疗](Booze_Remedy.md "酒精治疗")佩戴此护符时，在[醉酒](Alcohol_(Condition).md "醉酒（状态）")状态下每回合恢复2d4[治疗](Healing.md "治疗")。此外，你的醉酒持续时间延长5轮。 |
 | [竖琴手护符](Amulet_of_the_Harpers.md "竖琴手护符") | 0.05 kg 0.1 lb | 125 | [优势](Advantage.md "优势")于[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")。[护盾术](Shield_(spell).md "护盾术") () 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） |
-| [勇者链条](Champion's_Chain.md "勇者链条") | 0.05 kg 0.1 lb | 125 | [暴君之舌](Tyrant_Tongue.md "暴君之舌") () 为一名盟友提供+2的[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。） |
+| [勇者链条](Champion's_Chain.md "勇者链条") | 0.05 kg 0.1 lb | 125 | [暴君之舌](Tyrant_Tongue.md "暴君之舌") () 为一名盟友提供+2的[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。） |
 | [机遇者颈饰](Chancer's_Carcanet.md "机遇者颈饰") | 0.05 kg 0.1 lb | 190 | [天生坚毅](Innate_Fortitude.md "天生坚毅")每[长休](Long_Rest.md "长休")一次，你可以使用[反应](Actions#Reactions.md#反应 "动作")使一次[攻击掷骰](Attack_roll.md "攻击掷骰")或[豁免检定](Saving_throw.md "豁免检定")获得[优势](Advantage.md "优势")。 |
-| [使者护符](Envoy's_Amulet.md "使者护符") | 0.05 kg 0.1 lb | 125 | [圆环之声](Voice_of_the_Circle.md "圆环之声") () 为一名盟友提供+2的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。） |
+| [使者护符](Envoy's_Amulet.md "使者护符") | 0.05 kg 0.1 lb | 125 | [圆环之声](Voice_of_the_Circle.md "圆环之声") () 为一名盟友提供+2的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。） |
 | [伤口闭合护符](Periapt_of_Wound_Closure.md "伤口闭合护符") | 0.05 kg 0.1 lb | 125 | [伤口闭合](Wound_Closure.md "伤口闭合")当[倒地](Downed_(Condition).md "倒地（状态）")时，在回合开始时自动稳定。[强力治疗](Potent_Healing.md "强力治疗")每当被治疗时，你恢复最大可能的[生命值](Hit_Points.md "生命值")。 |
 | [感知护符（稀有）](Sentient_Amulet_(Rare).md "感知护符（稀有）") | 0.05 kg 0.1 lb | 125 | [粉碎音波](Shatter.md "粉碎音波") () 施放为2环法术（充能：[短休](Short_rest.md "短休")。）[与活体护符交谈](Talk_to_the_Sentient_Amulet.md "与活体护符交谈")与感知护符内残留的意识交谈。[回气（次级）](Ki_Restoration_(Lesser).md "回气（次级）") () 使用护符中的精神能量，恢复2[气点](Ki_Point.md "气点")。（充能：[长休](Long_Rest.md "长休")。）佩戴此护符会施加状态：[高昂情绪](High_Spirits_(Condition).md "高昂情绪（状态）")护符的精神萦绕不去，让一切显得更加生动。使用护符力量时，必须通过[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")（[DC](Difficulty_Class.md "难度等级") 10/15，见注释），否则会变得[歇斯底里](Hysterical_(Condition).md "歇斯底里（状态）")（效果等同于[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")，持续1回合）。 |
 | [法术学者护符](Spell_Savant_Amulet.md "法术学者护符") | 0.05 kg 0.1 lb | 125 | [法术扩增](Spell_Amplification.md "法术扩增")你获得一个额外的[2环法术位](Spells#Spell_slots.md#法术位 "法术")。 |

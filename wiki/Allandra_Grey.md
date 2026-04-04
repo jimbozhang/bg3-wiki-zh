@@ -19,7 +19,7 @@
 
 ### 阵营
 
-[安博里教会](Umberlee.md "安博里")
+[安博里](Umberlee.md "安博里")
 
 ### 家乡
 
@@ -99,7 +99,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 14 / (+2) | 14 / (+2) | 16 / (+3) | 20 / (+5) | 14 / (+2) |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -111,7 +111,7 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非 [轻型](Light_(weapon_property).md) 的单手武器，也能使用双武器战斗。
 
@@ -119,15 +119,15 @@
 
 双持时 [护甲等级](AC.md "护甲等级") +1。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**水之指引**](Watery_Guidance.md "水之指引")
+- [水之指引](Watery_Guidance.md "水之指引")
 
 此武器对 [濡湿](Wet_(Condition).md "濡湿 (状态)") 生物具有 [优势](Advantage.md "优势")。
 
@@ -173,7 +173,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +2 | +2 | +2 | +7 | +9 | +2 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -185,7 +185,7 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非 [轻型](Light_(weapon_property).md) 的单手武器，也能使用双武器战斗。
 
@@ -193,15 +193,15 @@
 
 双持时 [护甲等级](AC.md "护甲等级") +1。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**水之指引**](Watery_Guidance.md "水之指引")
+- [水之指引](Watery_Guidance.md "水之指引")
 
 此武器对 [濡湿](Wet_(Condition).md "濡湿 (状态)") 生物具有 [优势](Advantage.md "优势")。
 
@@ -247,7 +247,7 @@
 | --- | --- | --- | --- |
 |  | 2 | 2 | 5 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -259,7 +259,7 @@
 
 ## 特性
 
-- [**双持客**](Dual_Wielder.md "双持客")
+- [双持客](Dual_Wielder.md "双持客")
 
 即使使用非 [轻型](Light_(weapon_property).md) 的单手武器，也能使用双武器战斗。
 
@@ -267,15 +267,15 @@
 
 双持时 [护甲等级](AC.md "护甲等级") +1。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对抗法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**水之指引**](Watery_Guidance.md "水之指引")
+- [水之指引](Watery_Guidance.md "水之指引")
 
 此武器对 [濡湿](Wet_(Condition).md "濡湿 (状态)") 生物具有 [优势](Advantage.md "优势")。
 

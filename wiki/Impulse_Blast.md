@@ -12,7 +12,7 @@
 
 持续时间：2 驱散
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 14)
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 14)
 
 - 受影响的生物无法移动或使用 [动作](Actions.md#Resources "Actions")、[附赠动作](Actions.md#Resources "Actions") 或 [反应](Actions.md#Reactions "Actions")，并且在 [力量](Strength.md "Strength") 和 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw") 上具有 [劣势](Disadvantage.md "Disadvantage")。
 - 在 3 米（10 英尺）范围内对倒伏生物进行的攻击具有 [优势](Advantage.md "Advantage")。

@@ -82,7 +82,7 @@ Portrait
 
 如果目标处于[倒伏](Prone_(Condition).md "倒伏 (状态)")状态或其[生命值](Hit_Points.md "生命值")低于或等于60%，则可进行[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -136,7 +136,7 @@ Portrait
 
 如果目标处于[倒伏](Prone_(Condition).md "倒伏 (状态)")状态或其[生命值](Hit_Points.md "生命值")低于或等于60%，则可进行[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -190,7 +190,7 @@ Portrait
 
 如果目标处于[倒伏](Prone_(Condition).md "倒伏 (状态)")状态或其[生命值](Hit_Points.md "生命值")低于或等于60%，则可进行[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -208,7 +208,7 @@ UUID
 
 属性
 
-`Werewolf` **布莱斯·胡内**是一名[狼人](Werewolf.md "狼人")，出现在_博德之门3_中。他可以在[卡扎多尔·扎尔的宅邸](Szarr_Palace.md "扎尔宅邸")的舞厅中找到。
+`Werewolf` **布莱斯·胡内**是一名[狼人](Werewolf.md "狼人")，出现在_博德之门3_中。他可以在[扎尔宅邸](Szarr_Palace.md "扎尔宅邸")的舞厅中找到。
 
 > “
 >
@@ -220,10 +220,10 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 外部链接](#外部链接)
 
 ## 参与
 

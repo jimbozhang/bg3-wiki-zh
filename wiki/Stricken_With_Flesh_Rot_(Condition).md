@@ -2,7 +2,7 @@
 
 **烂肉症**
 
-- 受影响的实体在自身恶臭的肉液中腐烂，其[魅力](Charisma.md "魅力") [检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")，且对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
+- 受影响的实体在自身恶臭的肉液中腐烂，其[魅力](Charisma.md "魅力") [属性检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")，且对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
 
 [患病](Diseased_(状态组).md)
 
@@ -23,7 +23,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响的实体在自身恶臭的肉液中腐烂，其[魅力](Charisma.md "魅力") [检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")，且对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
+- 受影响的实体在自身恶臭的肉液中腐烂，其[魅力](Charisma.md "魅力") [属性检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")，且对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
 
 ---
 *Source: [Stricken With Flesh Rot (Condition)](https://bg3.wiki/wiki/Stricken_With_Flesh_Rot_(Condition)*

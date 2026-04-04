@@ -2,7 +2,7 @@
 
 **求生直觉**
 
-- 如果角色的生命值降至 0 [生命值](Hit_Points.md "生命值")，它将恢复 3d4 [生命值](Healing.md "治疗")，而不是陷入 [昏迷](Unconscious.md "昏迷")。
+- 如果角色的生命值降至 0 [生命值](Hit_Points.md "生命值")，它将恢复 3d4 [治疗](Healing.md "治疗")，而不是陷入 [昏迷](Unconscious.md "昏迷")。
 
 ## 属性
 
@@ -18,7 +18,7 @@
 
 ## 具有相同堆叠 ID 的状态
 
-- 如果角色的生命值降至 0 [生命值](Hit_Points.md "生命值")，它将恢复 3d4 [生命值](Healing.md "治疗")，而不是陷入 [昏迷](Unconscious.md "昏迷")。
+- 如果角色的生命值降至 0 [生命值](Hit_Points.md "生命值")，它将恢复 3d4 [治疗](Healing.md "治疗")，而不是陷入 [昏迷](Unconscious.md "昏迷")。
 
 ---
 *Source: [Survival Instinct (Condition)](https://bg3.wiki/wiki/Survival_Instinct_(Condition)*

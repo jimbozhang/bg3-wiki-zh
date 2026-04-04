@@ -32,7 +32,7 @@
 
 武僧们很友好，很快会再来拜访。
 
-作为一名铁匠，能亲眼见到黎明大师本人的[四件仪式](Rosymorn_Monastery.md#Find_the_Blood_of_Lathander "瑰晨修道院")武器真是莫大的荣幸！我自己并非[洛山达信徒](Lathander.md "洛山达")，但我强烈推荐给同行。金属工艺的精细程度令人惊叹！
+作为一名铁匠，能亲眼见到黎明大师本人的[四件仪式](Rosymorn_Monastery.md#Find_the_Blood_of_Lathander "瑰晨修道院")武器真是莫大的荣幸！我自己并非[洛山达](Lathander.md "洛山达")，但我强烈推荐给同行。金属工艺的精细程度令人惊叹！
 
 ## 外部链接
 

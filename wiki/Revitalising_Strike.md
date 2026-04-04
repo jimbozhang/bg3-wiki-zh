@@ -6,7 +6,7 @@
 
 猛击敌人，使其受伤并治疗自身的伤势。
 
-命中时，治疗 1d6⁠⁠[生命值](Healing.md "生命值")。你造成额外的 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害，伤害值等于你的 [熟练项加值](Proficiency_Bonus.md "熟练项加值")。
+命中时，治疗 1d6⁠⁠[治疗](Healing.md "治疗")。你造成额外的 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害，伤害值等于你的 [熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 
 ## 属性
 

@@ -87,11 +87,11 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -141,11 +141,11 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -195,15 +195,15 @@
 
 - - - ## 特性
 
-- [**魅惑**](Charm.md "魅惑")
+- [魅惑](Charm.md "魅惑")
 
 可以[魅惑](Charmed_(Condition).md) 攻击的敌人，阻止其在下一回合前进行进一步攻击。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -247,24 +247,24 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 背景](#background)
-- [2 参与情况](#involvement)
-  - [2.1 第一幕](#act-one)
-    - [2.1.1 遇见奥米伦](#meeting-omeluum)
-    - [2.1.2 帮助奥米伦调查寄生虫](#helping-omeluum-investigate-the-parasite)
-  - [2.2 第三幕](#act-three)
-    - [2.2.1 奥米伦失踪](#omeluum-has-vanished)
-    - [2.2.2 营救奥米伦](#rescuing-omeluum)
-- [3 商店](#shop)
-  - [3.1 出售的著名物品](#notable-items-sold)
-- [4 战斗](#combat)
-  - [4.1 攻击与能力](#attacks-and-abilities)
-- [5 相关文献](#related-literature)
-- [6 相关任务](#related-quests)
-- [7 画廊](#gallery)
-- [8 注释与参考文献](#notes-and-references)
-- [9 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 背景](#背景)
+- [2 参与情况](#参与情况)
+  - [2.1 第一幕](#第一幕)
+    - [2.1.1 遇见奥米伦](#遇见奥米伦)
+    - [2.1.2 帮助奥米伦调查寄生虫](#帮助奥米伦调查寄生虫)
+  - [2.2 第三幕](#第三幕)
+    - [2.2.1 奥米伦失踪](#奥米伦失踪)
+    - [2.2.2 营救奥米伦](#营救奥米伦)
+- [3 商店](#商店)
+  - [3.1 出售的著名物品](#出售的著名物品)
+- [4 战斗](#战斗)
+  - [4.1 攻击与能力](#攻击与能力)
+- [5 相关文献](#相关文献)
+- [6 相关任务](#相关任务)
+- [7 画廊](#画廊)
+- [8 注释与参考文献](#注释与参考文献)
+- [9 外部链接](#外部链接)
 
 ## 概述
 
@@ -386,7 +386,7 @@ UUID
 
 除了布尔格模糊的假设外，没有明确的线索表明从何处开始搜索。然而，如果队伍帮助[赞纳·图宾](Zanner_Toobin.md "赞纳·图宾")或[安博里](Umberlee.md "安博里")的仆从（任务分别为[解救贡德信徒](Save_the_Gondians.md "解救贡德信徒")和[为溺死鬼复仇](Avenge_the_Drowned.md "为溺死鬼复仇")），当队伍在[钢铁王座](Iron_Throne.md "钢铁王座")停靠时，奥米伦会通过心灵感应与队伍联系。它无私地敦促队伍拯救同样被关在水下监狱的[雷文伽德公爵](Ulder_Ravengard.md "雷文伽德公爵")，并恳请队伍不要担心它的命运。尽管如此，还是可以同时拯救奥米伦、雷文伽德以及一些（甚至全部）[贡德信徒](Gond.md "贡德信徒")俘虏。
 
-奥米伦被关在钢铁王座西南角的一个单独牢房里，门是锁着的（DC 25 [巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")），并被束缚在手术床上。如果被帮助，它会成为一个[随从](Attached_Follower.md "随从")，并拥有[潜水器传送](Teleport_to_Submersible.md "潜水器传送")的能力。
+奥米伦被关在钢铁王座西南角的一个单独牢房里，门是锁着的（DC 25 [巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")），并被束缚在手术床上。如果被帮助，它会成为一个[随从](Attached_Follower.md "随从")，并拥有[潜水器传送](Teleport_to_Submersible.md "潜水器传送")的能力。
 
 一旦获救，奥米伦会传送到会馆。与布尔格不同，它不再能进行交易，但可以被扒窃。要完成任务[找回奥米伦](Retrieve_Omeluum.md "找回奥米伦")，队伍必须再次与灵吸怪交谈。奥米伦解释说，光耀会不会在队伍的后续战斗中提供主动帮助。但是，为了感谢被拯救，它向队伍提供了一个名为奥米伦恩赐的[小袋子](Pouch.md "小袋子")，里面装有从光耀会宝库中挑选的几件物品：
 
@@ -441,7 +441,7 @@ _对应`UND_SocietyOfBrilliance_Mindflayer`。_
 | --- | --- | --- | --- | --- | --- |
 | 0 | +1 | +1 | +7 | +6 | +6 |
 
-定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[行动](Action.md "动作")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
+定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 
 [浮空术](Levitate_(Illithid_Power).md "浮空术（灵吸怪能力）") ()
 轻松漂浮到目的地。
@@ -457,7 +457,7 @@ _对应`UND_SocietyOfBrilliance_Mindflayer`。_
 [沉默术](Silence.md "沉默术") (+ )
 创建一个隔音球体。所有内部生物均[沉默](Silenced_(Condition).md "沉默（状态）")并[免疫](Damage_types.md#Immunity "伤害类型")[雷鸣](Thunder.md "雷鸣")伤害。
 
-[睡眠术](Sleep.md "睡眠术") (+ )
+[睡眠](Sleep.md "睡眠") (+ )
 让生物进入魔法睡眠。选择生命值总和不超过 24 [生命值](Hit_Points.md "生命值")的目标。
 
 传送自己和最多一名盟友返回潜水器。

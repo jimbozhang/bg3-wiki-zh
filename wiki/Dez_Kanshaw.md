@@ -79,19 +79,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -139,19 +139,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -199,19 +199,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")上具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
@@ -243,7 +243,7 @@ UUID
 
 德兹是[博德之门](Baldur's_Gate.md "博德之门")[下城区](Lower_City.md "Lower City")的[精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")的一名顾客。与他交谈时，他会告诉队伍他是一名农民，由于至上真神，他所有的作物都消失了。他提到需要为他的儿子科尔森找个地方，因为他一个人的饭量抵得上全家人加起来，但不知道该送他去哪里。
 
-队伍可以告诉他送他去[清账屋](Counting_House.md "Counting House")、[焰拳](Flaming_Fist.md "Flaming Fist")、荒野（仅限野蛮人、游侠和王冠圣武士）、[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")，或者如果玩家角色是游荡者，则去[盗贼公会](Guildhall.md "Guildhall")：
+队伍可以告诉他送他去[清账屋](Counting_House.md "Counting House")、[焰拳](Flaming_Fist.md "Flaming Fist")、荒野（仅限野蛮人、游侠和王冠圣武士）、[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")，或者如果玩家角色是游荡者，则去[公会大厅](Guildhall.md "公会大厅")：
 
 - 三件听起来像个骗子。最好加入焰拳。
 - 那个清洁工的工作听起来稳定。让你有空回农场。

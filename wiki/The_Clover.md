@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**苜蓿**是传奇级、中等附魔（+2）的[弯刀](Scimitars.md "Scimitars")家族特殊变种武器。它是一种[军用近战武器](Weapons.md "Weapons")，可单手持握。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷而非仅力量。它是[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
+**苜蓿**是传奇级、中等附魔（+2）的[弯刀](Scimitars.md "Scimitars")家族特殊变种武器。它是一种[武器](Weapons.md "武器")，可单手持握。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷而非仅力量。它是[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
 
 ## 属性
 

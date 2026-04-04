@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-**长袍 +1** 是一件**[稀有](Category_colon_Uncommon.md "Category:Uncommon")**的**[惑控学派](Enchantment.md "Enchantment")**[长袍](Clothing.md "Clothing")。
+**长袍 +1** 是一件**[稀有](Category_colon_Uncommon.md "Category:Uncommon")**的**[惑控学派](Enchantment.md "Enchantment")**[服装](Clothing.md "服装")。
 
 这件长袍工艺精湛，舒适而优雅。
 

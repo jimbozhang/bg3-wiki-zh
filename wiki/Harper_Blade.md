@@ -1,6 +1,6 @@
 # 竖琴手之刃
 
-**竖琴手之刃**是[短剑](Shortswords.md "Shortswords")家族中一种普通的、非魔法的变体。它是一种[军用近战武器](Weapons.md "Weapons")，单手挥舞。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷值，而不仅仅是力量值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
+**竖琴手之刃**是[短剑](Shortswords.md "Shortswords")家族中一种普通的、非魔法的变体。它是一种[武器](Weapons.md "武器")，单手挥舞。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷值，而不仅仅是力量值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。
 
 这是一把常见且有效的剑，被冒险者、盗贼和守卫广泛携带。
 

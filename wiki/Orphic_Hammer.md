@@ -67,7 +67,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 _关于解缚打击：_
 
 - 这是游戏中唯一能摧毁囚禁[希望](Hope.md "希望")的地狱水晶的动作。
-- 解缚打击不会释放[俄耳甫斯](Orpheus.md "俄耳甫斯")，相反，需要使用[常规攻击](Main_Hand_Attack.md "主手攻击")并装备俄耳甫斯之锤来击中地狱水晶（*而非* 次级支配之球）。
+- 解缚打击不会释放[俄耳甫斯](Orpheus.md "俄耳甫斯")，相反，需要使用[主手攻击](Main_Hand_Attack.md "主手攻击")并装备俄耳甫斯之锤来击中地狱水晶（*而非* 次级支配之球）。
 - 解缚打击使用近战武器攻击掷骰，这意味着对高[护甲等级](Armor_Class.md "护甲等级")的友方角色使用很可能导致未命中。
 - 此动作的图标让人想起《博德之门1》和《博德之门2》中的驱散魔法图标，并且在游戏文件中实际上被标记为 `Spell_Abjuration_DispelMagic`。然而，根据 Swen Vincke 的说法，驱散魔法是《博德之门3》的删减内容。他讲述了《博德之门3》开发者如何试图让 D&D 的驱散魔法工作很长时间，但最终放弃了：[_"它会让游戏的规模翻倍。"_](https://www.pcgamer.com/baldurs-gate-3-devs-tried-to-make-dandds-dispel-magic-work-for-a-long-time-but-they-had-to-can-it-it-wouldve-doubled-the-size-of-the-game/)
 

@@ -2,10 +2,10 @@
 
 ## 目录
 
-- [1 游戏机制部分存在令人困惑的语言](#some-confusing-language-in-the-game-mechanics-section)
-- [2 部分职业等级提升概述需要重做！目前部分信息有误](#a-partial-redo-of-the-class-level-up-overviews-is-needed!_Currently,_some_info_is_wrong)
-- [3 荣誉模式敌人经验表缺少等级13、14、15和16](#missing-level-13,_14,_15_and_16_in_the_experience_table_for_the_enemies_in_honour_mode)
-- [4 击杀等级3岩浆魔蝠获得75经验值未解释](#unexplained-75-xp-killing-level-3-magma-mephit)
+- [1 游戏机制部分存在令人困惑的语言](#游戏机制部分存在令人困惑的语言)
+- [2 部分职业等级提升概述需要重做！目前部分信息有误](#部分职业等级提升概述需要重做！目前部分信息有误)
+- [3 荣誉模式敌人经验表缺少等级13、14、15和16](#荣誉模式敌人经验表缺少等级13、14、15和16)
+- [4 击杀等级3岩浆魔蝠获得75经验值未解释](#击杀等级3岩浆魔蝠获得75经验值未解释)
 
 ## 游戏机制部分存在令人困惑的语言
 

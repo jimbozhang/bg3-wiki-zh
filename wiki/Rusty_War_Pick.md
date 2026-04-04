@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏过程获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**锈战镐**是[战镐](War_Picks.md "战镐")武器家族的常见变体。它是一种单手挥舞的[军用近战武器](Weapons.md "武器")。
+**锈战镐**是[战镐](War_Picks.md "战镐")武器家族的常见变体。它是一种单手挥舞的[武器](Weapons.md "武器")。
 
 挥舞这把战镐时，锈蚀的镐头可能会直接脱落。
 

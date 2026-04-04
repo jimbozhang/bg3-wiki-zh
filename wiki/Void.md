@@ -38,7 +38,7 @@
 
 ## 注释
 
-- 虚空是[第二幕](Act_Two.md "第二幕")中[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")前厅出现的独特区域，前提是触发或未能解除隐藏的[通风口陷阱](Vent.md "通风口")。
+- 虚空是[第二幕](Act_Two.md "第二幕")中[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")前厅出现的独特区域，前提是触发或未能解除隐藏的[通风口](Vent.md "通风口")。
 
 ---
 *Source: [Void](https://bg3.wiki/wiki/Void)*

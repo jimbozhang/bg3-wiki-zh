@@ -103,11 +103,11 @@
 
 ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "法术") 后，可进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -165,11 +165,11 @@
 
 ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "法术") 后，可进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -227,15 +227,15 @@
 
 ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放 [法术或戏法](Spells.md "法术") 后，可进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
+在施放 [法术](Spells.md "法术") 后，可进行一次 [附赠](Bonus_action.md "附赠动作") 武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "心灵") 伤害 - 灵吸怪奴役的伤痕根深蒂固。
 
@@ -275,7 +275,7 @@ UUID
 [失明术](Blindness.md "失明术") (+ )
 限制敌人的视线范围。更容易命中，且该生物会更频繁地失手。对其的 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")，且敌人攻击时具有 [劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [燃烧之手](Burning_Hands.md "燃烧之手") (+ )
@@ -286,13 +286,13 @@ UUID
 
 每个可燃目标受到 3d6⁠⁠[火焰](Fire.md "火焰") 伤害。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 范围：自身
 
 [人类定身术](Hold_Person.md "人类定身术") (+ )
-定住一个类人生物敌人。他们无法 [移动](Movement_speed.md "移动速度")、[行动](Action.md "动作") 或 [反应](Reaction_(Resource).md)。3 米 / 10 英尺内的攻击总是 [重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可进行一次 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定") 以结束此状态。
+定住一个类人生物敌人。他们无法 [移动](Movement_speed.md "移动速度")、[动作](Action.md "动作") 或 [反应](Reaction_(Resource).md)。3 米 / 10 英尺内的攻击总是 [重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可进行一次 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定") 以结束此状态。
 
-[感](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [割裂](Lacerate.md "割裂") () – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
@@ -305,7 +305,7 @@ UUID
 
 [不死生物](Undead.md "不死生物") 和 [构装生物](Constructs.md "构装生物") 无法流血。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -333,7 +333,7 @@ UUID
 
 对敌人进行一次非致命攻击，并可能使其 [眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
@@ -355,7 +355,7 @@ UUID
 
 向前冲锋并攻击路径上的第一个敌人，可能将其推至 [失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 
-[力](Strength.md "力量") [豁免](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 

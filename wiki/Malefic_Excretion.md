@@ -14,7 +14,7 @@
 
 ## 备注
 
-- 邪恶分泌的额外伤害适用于所有武器：[近战](Main_Hand_Attack.md "Main Hand Attack")、[远程攻击](Ranged_Attack.md "Ranged Attack") 和 [投掷攻击](Thrown.md "Thrown")，但不适用于[徒手打击](Unarmed_Strike.md "Unarmed Strike")。
+- 邪恶分泌的额外伤害适用于所有武器：[主手攻击](Main_Hand_Attack.md "主手攻击")、[远程攻击](Ranged_Attack.md "Ranged Attack") 和 [投掷攻击](Thrown.md "Thrown")，但不适用于[徒手打击](Unarmed_Strike.md "Unarmed Strike")。
 
 ---
 *Source: [Malefic Excretion](https://bg3.wiki/wiki/Malefic_Excretion)*

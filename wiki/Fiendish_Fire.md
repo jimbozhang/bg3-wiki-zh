@@ -12,7 +12,7 @@
 
 持续时间：1 驱散
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 13)
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 13)
 
 - 散发微光。受到的攻击具有[优势](Advantage.md "优势")。无法处于[隐形](Condition.md#Invisible "状态")状态。
 

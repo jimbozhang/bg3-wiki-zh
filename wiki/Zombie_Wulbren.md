@@ -64,27 +64,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 m (25 ft)。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是[重击](Critical_Hit.md "重击")且不是[光耀伤害](Radiant_damage.md "光耀伤害")，此不死生物将以 1 点生命值复活。
 
@@ -126,27 +126,27 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 m (25 ft)。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是[重击](Critical_Hit.md "重击")且不是[光耀伤害](Radiant_damage.md "光耀伤害")，此不死生物将以 1 点生命值复活。
 
@@ -168,7 +168,7 @@ UUID
 
 ## 参与情况
 
-如果队伍既将[暗夜之歌](Aylin.md "暗夜之歌")交给了死灵法师，又没有[提前解救乌尔布伦](Rescue_Wulbren.md "解救乌尔布伦")，乌尔布伦会在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")的[巴萨扎尔](Balthazar.md "巴萨扎尔")的[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")中潜行。
+如果队伍既将[暗夜之歌](Aylin.md "暗夜之歌")交给了死灵法师，又没有[解救乌尔布伦](Rescue_Wulbren.md "解救乌尔布伦")，乌尔布伦会在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")的[巴萨扎尔](Balthazar.md "巴萨扎尔")的[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")中潜行。
 
 ## 攻击与能力
 

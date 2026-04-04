@@ -15,7 +15,7 @@
 佩戴此物品者获得：
 
 [行动无踪](Pass_Without_Trace.md "Pass Without Trace") ()
-召唤一道阴影与寂静的帷幕，为你及附近盟友提供+10的[隐匿](Stealth.md "Stealth")[检定](Ability_Check.md "Ability check")加值。（充能：[长休](Long_Rest.md "Long rest")。）
+召唤一道阴影与寂静的帷幕，为你及附近盟友提供+10的[隐匿](Stealth.md "Stealth")[属性检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点
 

@@ -1,6 +1,6 @@
 # 侏儒天才灵药
 
-侏儒天才灵药是一种稀有[灵药](Elixirs.md "Elixirs")，由侏儒的所有最佳品质蒸馏而成。得益于被遗忘种族的狡黠技巧，你在[长休](Long_Rest.md "Long Rest")前能[重甲的](Proficient.md "Proficient")进行[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability Check")，并能施放[敲击术](Knock.md "Knock")。
+侏儒天才灵药是一种稀有[灵药](Elixirs.md "Elixirs")，由侏儒的所有最佳品质蒸馏而成。得益于被遗忘种族的狡黠技巧，你在[长休](Long_Rest.md "Long Rest")前能[重甲的](Proficient.md "Proficient")进行[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")，并能施放[敲击术](Knock.md "Knock")。
 
 这是血贩子[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")的灵药之一，由特定的血液品质蒸馏而成，其特性与同样特定的种族相符。
 
@@ -15,7 +15,7 @@
 
 [附赠动作](Actions.md#Resources "Actions")
 
-- 你[重甲的](Proficient.md "Proficient")进行[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability check")
+- 你[重甲的](Proficient.md "Proficient")进行[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")
 - 在下次[长休](Long_Rest.md "Long Rest")前可施放一次[敲击术](Knock.md "Knock")
 
 ## 状态：侏儒天才
@@ -24,7 +24,7 @@
 
 持续时间：直至[长休](Long_Rest.md "Long rest")
 
-- 受影响实体[重甲的](Proficient.md "Proficient")进行[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability Check")，并在进行[长休](Long_Rest.md "Long Rest")前可施放[敲击术](Knock.md "Knock")。
+- 受影响实体[重甲的](Proficient.md "Proficient")进行[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")，并在进行[长休](Long_Rest.md "Long Rest")前可施放[敲击术](Knock.md "Knock")。
 
 ## 获取地点
 

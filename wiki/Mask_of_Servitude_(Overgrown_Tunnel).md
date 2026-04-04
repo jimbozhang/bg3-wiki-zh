@@ -82,15 +82,15 @@
 
 ## 特性
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -138,15 +138,15 @@
 
 ## 特性
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -194,15 +194,15 @@
 
 ## 特性
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -230,7 +230,7 @@ Stats
 
 与其他[面具](Category_colon_Hag_Victims.md "类别:鬼婆受害者")一样，奴役面具最初因佩戴[低语面具](Whispering_Mask.md "低语面具")而处于敌对状态，这使她受到[羊群一员](Part_of_the_Flock.md "羊群一员")的[魅惑](Charmed_(Condition).md "魅惑 (状态)")效果影响。
 
-如果在埃赛尔死后遇到她，她不再敌对，但她的理智已崩溃。如果埃赛尔已被击败，但小队接受了[鬼婆的头发](Auntie_Ethel's_Hair.md "埃赛尔婶婶的头发")的提议并让埃赛尔逃脱，她仍然敌对。
+如果在埃赛尔死后遇到她，她不再敌对，但她的理智已崩溃。如果埃赛尔已被击败，但小队接受了[埃赛尔婶婶的头发](Auntie_Ethel's_Hair.md "埃赛尔婶婶的头发")的提议并让埃赛尔逃脱，她仍然敌对。
 
 ## 战斗
 
@@ -241,7 +241,7 @@ Stats
 奴役面具充当埃赛尔婶婶和其他面具的治疗者和增益者。
 
 [奴役恩赐](Boon_of_Servitude.md "奴役恩赐") ()
-沐浴在埃赛尔的恩赐中。你每回合恢复 2d4+[施法调整值](Spellcasting_Modifier.md "施法调整值")⁠⁠[生命值](Healing.md "治疗")，并且你的[护甲等级](Armour_Class.md "护甲等级")提高 2。
+沐浴在埃赛尔的恩赐中。你每回合恢复 2d4+[施法调整值](Spellcasting_Modifier.md "施法调整值")⁠⁠[治疗](Healing.md "治疗")，并且你的[护甲等级](Armour_Class.md "护甲等级")提高 2。
 
 范围：18 米 (60 英尺)
 

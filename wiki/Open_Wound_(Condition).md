@@ -20,7 +20,7 @@
 
 持续时间：25 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
 
 - 伤口裸露开始腐烂。
 - 在使用魅力的 [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
@@ -42,7 +42,7 @@
 | --- | --- |
 | 伤口裸露 | 生物近期割伤了自己。如果一次 [DC](Dice_rolls#Save_DCs.md#Save_DCs "骰子掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 失败，将导致 [腐烂](Rotting_(Condition).md "腐烂 (状态)") 状态。可通过治疗移除。 |
 
-- 荆棘芦苇：与植物互动会触发一次自动的 DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")，如果失败则使角色获得伤口裸露。位于 [日照湿地](Sunlit_Wetlands.md "日照湿地")。
+- 荆棘芦苇：与植物互动会触发一次自动的 DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")，如果失败则使角色获得伤口裸露。位于 [日照湿地](Sunlit_Wetlands.md "日照湿地")。
 - 尖刺陷阱：如果触发，陷阱会造成 [流血](Bleeding_(Condition).md "流血 (状态)") 和伤口裸露，且无 [豁免检定](Saving_throw.md "豁免检定")。位于 [日照湿地](Sunlit_Wetlands.md "日照湿地") 的较深水道各处。
 
 ---

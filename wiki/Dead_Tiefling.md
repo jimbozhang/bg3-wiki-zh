@@ -93,15 +93,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离内于黑暗中视物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -153,15 +153,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离内于黑暗中视物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -213,15 +213,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离内于黑暗中视物。
 
-- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "Resistant") 所有 [火焰](Fire.md "Fire")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -243,16 +243,16 @@ Stats
 
 ## 内容
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战利品](#loot)
-- [3 死者交谈](#speak-with-dead)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 战利品](#战利品)
+- [3 死者交谈](#死者交谈)
 
 ## 出场
 
 ### 第一幕
 
-如果队伍通过 [死者交谈](Speak_with_Dead.md "Speak with Dead") 与提夫林互动，并通过 DC 5 的 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check")，他们会得知尸体被巨大的双手撕开，推测是朗普和他的同伴所为。
+如果队伍通过 [死者交谈](Speak_with_Dead.md "Speak with Dead") 与提夫林互动，并通过 DC 5 的 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")，他们会得知尸体被巨大的双手撕开，推测是朗普和他的同伴所为。
 
 提夫林声称是 [苏洛](Zorru.md "Zorru") 的朋友。食人魔称她从东边来，呼唤 [尤尔](Yul.md "Yul")。她透露自己来到染疫村落是因为看到了 [吉斯洋基人](Githyanki.md "Githyanki")。[莱埃泽尔](Lae'zel.md "Lae'zel") 可能会评论说她一定跑得很快才躲过了吉斯洋基猎手。
 

@@ -20,39 +20,39 @@
 
 ## 不同外观
 
-- [龙裔内衣 A](Underwear/Dragonborn.md "Underwear/Dragonborn")
+- [龙裔](Underwear/Dragonborn.md "龙裔")
 
-- [矮人内衣 A](Underwear/Dwarf.md "Underwear/Dwarf")
+- [矮人](Underwear/Dwarf.md "矮人")
 
-- [矮人内衣 B](Underwear/Dwarf.md "Underwear/Dwarf")
+- [矮人](Underwear/Dwarf.md "矮人")
 
-- [木精灵内衣](Underwear/Elf.md "Underwear/Elf")
+- [精灵](Underwear/Elf.md "精灵")
 
-- [高等精灵内衣](Underwear/Half-Elf.md "Underwear/Half-Elf")
+- [半精灵](Underwear/Half-Elf.md "半精灵")
 
-- [黑暗精灵内衣](Underwear/Drow.md "Underwear/Drow")
+- [卓尔](Underwear/Drow.md "卓尔")
 
-- [吉斯洋基人内衣 A](Underwear/Githyanki.md "Underwear/Githyanki")
+- [吉斯洋基人](Underwear/Githyanki.md "吉斯洋基人")
 
-- [吉斯洋基人内衣 B](Underwear/Githyanki.md "Underwear/Githyanki")
+- [吉斯洋基人](Underwear/Githyanki.md "吉斯洋基人")
 
-- [侏儒内衣 A](Underwear/Gnome.md "Underwear/Gnome")
+- [侏儒](Underwear/Gnome.md "侏儒")
 
-- [侏儒内衣 B](Underwear/Gnome.md "Underwear/Gnome")
+- [侏儒](Underwear/Gnome.md "侏儒")
 
-- [半身人内衣 A](Underwear/Halfling.md "Underwear/Halfling")
+- [半身人](Underwear/Halfling.md "半身人")
 
-- [半兽人内衣 A](Underwear/Half-Orc.md "Underwear/Half-Orc")
+- [半兽人](Underwear/Half-Orc.md "半兽人")
 
-- [半兽人内衣 B](Underwear/Half-Orc.md "Underwear/Half-Orc")
+- [半兽人](Underwear/Half-Orc.md "半兽人")
 
-- [人类内衣 A](Underwear/Human.md "Underwear/Human")
+- [人类](Underwear/Human.md "人类")
 
-- [人类内衣 B](Underwear/Human.md "Underwear/Human")
+- [人类](Underwear/Human.md "人类")
 
-- [人类内衣 C](Underwear/Human.md "Underwear/Human")
+- [人类](Underwear/Human.md "人类")
 
-- [提夫林内衣 A](Underwear/Tiefling.md "Underwear/Tiefling")
+- [提夫林](Underwear/Tiefling.md "提夫林")
 
 ## 图库
 

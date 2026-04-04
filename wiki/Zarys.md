@@ -86,7 +86,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -134,7 +134,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -182,7 +182,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -359,7 +359,7 @@ UUID
 
 你的[力量](Strength.md "Strength")影响你能投掷的重量。较重的物品造成更多伤害。
 
-具有[投掷](Thrown.md "Thrown")属性的武器的伤害与该武器的近战伤害相同。
+具有[投掷攻击](Thrown.md "投掷攻击")属性的武器的伤害与该武器的近战伤害相同。
 
 射程：3-18 米 (10-60 英尺)
 
@@ -435,7 +435,7 @@ UUID
 
 1. ↑ [1.0](#cite_ref-REALLY_GITHYANKI_1-0) [1.1](#cite_ref-REALLY_GITHYANKI_1-1) [伪装术](Disguise_Self.md "Disguise Self") 不会解锁吉斯洋基人选项，因为游戏检查的是 `REALLY_GITHYANKI` 标签，而不是 `GITHYANKI` 标签。
 1. [↑](#cite_ref-2) 一种获取保险箱内[铁烧瓶](Iron_Flask.md "Iron Flask")和布雷姆特殊库存中魔法物品的简单方法是，将箱子交给扎瑞斯，从布雷姆处购买物品，然后杀死扎瑞斯或从她那里偷回来。鉴于她位于悬崖顶部，可以很容易地[推击](Shove.md "Shove")或[投掷](Throw.md "Throw")她下去，然后点燃[烟粉桶](Smokepowder_Barrel.md "Smokepowder Barrel")炸死大部分散塔林会成员。
-1. [↑](#cite_ref-3) 如果队伍想要这个物品，建议在第一次离开窝点前获取，因为据报道，某些操作——也许是[长休](Long_Rest.md "Long rest")或[快速旅行](Ancient_Sigil_Circle.md "Ancient Sigil Circle")——会导致商队保险箱从扎瑞斯的物品栏中消失。
+1. [↑](#cite_ref-3) 如果队伍想要这个物品，建议在第一次离开窝点前获取，因为据报道，某些操作——也许是[长休](Long_Rest.md "Long rest")或[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")——会导致商队保险箱从扎瑞斯的物品栏中消失。
 
 ## 外部链接
 

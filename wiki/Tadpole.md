@@ -6,7 +6,7 @@
 
 ### 第一幕
 
-在[第一幕](Act_One.md "Act One")中揭示，[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")与灵吸怪的绑架行为有关。通过寻找不同的治疗者来寻找治疗方法，队伍可以了解更多关于他们感染的情况。同时揭示，吸收更多的[蝌蚪](Mind_Flayer_Parasite_Specimen.md "Mind Flayer Parasite Specimen")是可能的，这将解锁[灵吸怪威能](Illithid_powers.md "Illithid Powers")。
+在[第一幕](Act_One.md "Act One")中揭示，[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")与灵吸怪的绑架行为有关。通过寻找不同的治疗者来寻找治疗方法，队伍可以了解更多关于他们感染的情况。同时揭示，吸收更多的[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")是可能的，这将解锁[灵吸怪威能](Illithid_powers.md "Illithid Powers")。
 
 如果与[埃赛尔婶婶](Auntie_Ethel.md "Auntie Ethel")或[哈尔辛](Halsin.md "Halsin")交谈，他们会揭示蝌蚪受到暗影魔法的保护，无法通过常规手段移除。如果发起[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite")，[奥米伦](Omeluum.md "Omeluum")会揭示队伍的夺心魔寄生虫处于停滞状态。
 

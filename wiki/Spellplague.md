@@ -78,11 +78,11 @@
 
 ## 特性
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -132,11 +132,11 @@
 
 ## 特性
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的 [豁免检定](Saving_throws.md "豁免检定") 具有 [优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -144,11 +144,11 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 动作与能力](#actions-and-abilities)
-- [3 战利品](#loot)
-- [4 注释](#notes)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 动作与能力](#动作与能力)
+- [3 战利品](#战利品)
+- [4 注释](#注释)
 
 ## 出场
 
@@ -172,7 +172,7 @@
 
 吞噬敌人的智力，每回合降低其 [智力](Intelligence.md "智力") 1点，并在 5 回合内治疗你的伤口。
 
-[智](Intelligence.md "智力") [豁免](Saving_throws.md "豁免检定")
+[智力](Intelligence.md "智力") [豁免](Saving_throws.md "豁免检定")
 范围：9 m (30 ft)
 充能：[短休](Short_rest.md "短休")
 
@@ -180,7 +180,7 @@
 
 尝试阻止施放法术。
 
-如果法术的等级高于你用于反制的法术位等级，你必须使用你的施法关键属性进行一次 [检定](Ability_Check.md "属性检定") _\[[参见注释](Counterspell.md#Notes "法术反制")\]_ 来阻止它。检定的难度等于 10 加上你试图反制的法术等级。
+如果法术的等级高于你用于反制的法术位等级，你必须使用你的施法关键属性进行一次 [属性检定](Ability_Check.md "属性检定") _\[[参见注释](Counterspell.md#Notes "法术反制")\]_ 来阻止它。检定的难度等于 10 加上你试图反制的法术等级。
 
 此法术可在你处于 [沉默](Silenced_(Condition).md "沉默 (状态)") 状态时施放。
 
@@ -192,7 +192,7 @@
 
 如果目标豁免 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 失败，并且法术将其生命值降至 0，它将化为碎屑灰烬。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 范围：9 m (30 ft)
 
 [冰风暴](Ice_Storm.md "冰风暴") (+ )
@@ -205,7 +205,7 @@
 
 召唤一阵冰雹和冰风暴从天而降，覆盖地面并打击范围内的所有物体和生物，造成 ⁠[钝击](Bludgeoning.md "钝击") 和 ⁠[寒冷](Cold.md "寒冷") 伤害。同时会创造一个持续 2 回合的 [冰](Ice_(surface).md "冰 (地表)") 地表。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 范围：18 m (60 ft)
 
 [魔法飞弹](Magic_Missile.md "魔法飞弹") (+ )
@@ -218,7 +218,7 @@
 
 \+ 1d4 + 1⁠[力场](Force.md "力场")
 
-创造 **三** 枚魔法力场飞镖，每枚对目标造成 ⁠[1d4 + 1 力场](Force.md "力场") 伤害。
+创造 **三** 枚魔法力场飞镖，每枚对目标造成 ⁠[力场](Force.md "力场") 伤害。
 
 飞镖总是命中目标，并且可以单独瞄准。
 
@@ -240,7 +240,7 @@
 
 如果绵羊的 [生命值](Hit_Points.md "生命值") 降至 0，目标将恢复其原始形态及其原始生命值。
 
-[感](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 范围：18 m (60 ft)
 
 ## 战利品

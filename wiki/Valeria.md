@@ -78,7 +78,7 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -124,7 +124,7 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -170,7 +170,7 @@
 
 - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -200,15 +200,15 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 相关任务](#related-quests)
-- [4 相关文献](#related-literature)
-- [5 画廊](#gallery)
-- [6 注释](#notes)
-- [7 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 相关任务](#相关任务)
+- [4 相关文献](#相关文献)
+- [5 画廊](#画廊)
+- [6 注释](#注释)
+- [7 外部链接](#外部链接)
 
 ## 概述
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-在你的 [狂暴](Rage_(Condition).md "狂暴 (状态)") 结束前，你每 [驱散](Turn.md "驱散") 都可以召唤一个 [无形精魂](Spectral_Flumph.md "幽灵呋噜")。
+在你的 [狂暴](Rage_(Condition).md "狂暴 (状态)") 结束前，你每 [驱散](Turn.md "驱散") 都可以召唤一个 [幽灵呋噜](Spectral_Flumph.md "幽灵呋噜")。
 
 ## 技术细节
 

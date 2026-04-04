@@ -1,10 +1,10 @@
 # 鹰之光彩
 
-**鹰之光彩**是一个[等级 2 变化学派法术](Spells.md "法术")。此法术允许施法者赋予生物鹰的优雅。受影响的生物在[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
+**鹰之光彩**是一个[法术](Spells.md "法术")。此法术允许施法者赋予生物鹰的优雅。受影响的生物在[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
 
 ## 描述
 
-生物在[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
+生物在[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
 
 ## 属性
 
@@ -34,7 +34,7 @@ UID
 
 持续时间：直至[长休](Long_Rest.md "长休")
 
-- 在[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "优势")。
+- 在[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "优势")。
 
 ## 如何习得
 

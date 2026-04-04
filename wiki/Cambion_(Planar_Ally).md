@@ -63,19 +63,19 @@
 
 - - - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**邪魔祝福**](Fiendish_Blessing.md "邪魔祝福")
+- [邪魔祝福](Fiendish_Blessing.md "邪魔祝福")
 
 [护甲等级](AC.md "护甲等级") +2。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -117,19 +117,19 @@
 
 - - - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**邪魔祝福**](Fiendish_Blessing.md "邪魔祝福")
+- [邪魔祝福](Fiendish_Blessing.md "邪魔祝福")
 
 [护甲等级](AC.md "护甲等级") +2。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -171,19 +171,19 @@
 
 - - - - - - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在一定距离的黑暗中视物。
 
-- [**邪魔祝福**](Fiendish_Blessing.md "邪魔祝福")
+- [邪魔祝福](Fiendish_Blessing.md "邪魔祝福")
 
 [护甲等级](AC.md "护甲等级") +2。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -215,7 +215,7 @@
 
 [邪魔魅惑](Fiendish_Charm.md "邪魔魅惑") ()
 
-[魅惑](Charmed_(Condition).md "魅惑（状态）")类人生物，使其无法攻击你。在对话中，你在魅力[检定](Ability_Check.md "检定")上获得[优势](Advantage.md "优势")。
+[魅惑](Charmed_(Condition).md "魅惑（状态）")类人生物，使其无法攻击你。在对话中，你在魅力[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
 
 你每天只能用此动作魅惑一个类人生物一次。
 

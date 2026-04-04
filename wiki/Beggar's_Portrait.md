@@ -13,11 +13,11 @@
 
 ## 用法
 
-- 对乞丐肖像进行 DC 15 的[奥秘](Arcana.md "奥秘")[检定](Ability_Check.md "属性检定")可揭示[斯郎博的字条](Thrumbo's_Note.md "斯郎博的字条")。
+- 对乞丐肖像进行 DC 15 的[奥秘](Arcana.md "奥秘")[属性检定](Ability_Check.md "属性检定")可揭示[斯郎博的字条](Thrumbo's_Note.md "斯郎博的字条")。
 
 ## 备注
 
-- 需要 DC 10 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")才能发现这幅画。
+- 需要 DC 10 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")才能发现这幅画。
 - 这幅画设有陷阱。
 
 ---

@@ -2,8 +2,8 @@
 
 **复苏血污**
 
-- 受影响实体浸染敌人的鲜血。每[驱散](Turn.md "Turn")恢复 2d6⁠⁠[生命值](Healing.md "Healing")。
-- 在[等级](Level.md "Level") 10 时，治疗效果提升至每[驱散](Turn.md "Turn")恢复 4d6⁠⁠[生命值](Healing.md "Healing")。
+- 受影响实体浸染敌人的鲜血。每[驱散](Turn.md "Turn")恢复 2d6⁠⁠[治疗](Healing.md "治疗")。
+- 在[等级](Level.md "Level") 10 时，治疗效果提升至每[驱散](Turn.md "Turn")恢复 4d6⁠⁠[治疗](Healing.md "治疗")。
 
 ## 属性
 
@@ -24,8 +24,8 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 受影响实体浸染敌人的鲜血。每[驱散](Turn.md "Turn")恢复 2d6⁠⁠[生命值](Healing.md "Healing")。
-- 在[等级](Level.md "Level") 10 时，治疗效果提升至每[驱散](Turn.md "Turn")恢复 4d6⁠⁠[生命值](Healing.md "Healing")。
+- 受影响实体浸染敌人的鲜血。每[驱散](Turn.md "Turn")恢复 2d6⁠⁠[治疗](Healing.md "治疗")。
+- 在[等级](Level.md "Level") 10 时，治疗效果提升至每[驱散](Turn.md "Turn")恢复 4d6⁠⁠[治疗](Healing.md "治疗")。
 
 ---
 *Source: [Revitalising Gore (Condition)](https://bg3.wiki/wiki/Revitalising_Gore_(Condition)*

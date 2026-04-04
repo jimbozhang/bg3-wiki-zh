@@ -1,10 +1,10 @@
 # 召唤林地妖精
 
-**召唤林地妖精**是一个[4级咒法学派法术](Spells.md "Spells")。它会召唤一个[树精](Dryad_(Conjure_Woodland_Being).md) 与施法者并肩作战。
+**召唤林地妖精**是一个[法术](Spells.md "法术")。它会召唤一个[树精](Dryad_(Conjure_Woodland_Being).md) 与施法者并肩作战。
 
 ## 描述
 
-召唤一个[树精](Dryad.md "Dryad")与你并肩作战。她可以使用[自然步伐](Nature's_Step.md "Nature's Step")、[纠缠](Entangle.md "Entangle")敌人，并[召唤](Fallen_Lover.md "Fallen Lover")一个[菘蓝树人](Wood_Woad.md "Wood Woad")。
+召唤一个[树精](Dryad.md "Dryad")与你并肩作战。她可以使用[自然步伐](Nature's_Step.md "Nature's Step")、[纠缠](Entangle.md "Entangle")敌人，并[坠落连理](Fallen_Lover.md "坠落连理")一个[菘蓝树人](Wood_Woad.md "Wood Woad")。
 
 ## 属性
 

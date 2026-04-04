@@ -18,7 +18,7 @@
 
 - UID `S_COL_Barracks_Journal_HairyHenry` UUID `418920ae-6579-41e2-9aff-e4584d1b6bb7` ## 获取地点
 
-- 位于[兵营](Mind_Flayer_Colony.md#Barracks "夺心魔殖民地")西南部[亨利](Hairy_Henry.md "多毛亨利")房间的桌子上，坐标 X: 712 Y: 4
+- 位于[兵营](Mind_Flayer_Colony.md#Barracks "夺心魔殖民地")西南部[多毛亨利](Hairy_Henry.md "多毛亨利")房间的桌子上，坐标 X: 712 Y: 4
 
 ## 文本
 

@@ -8,12 +8,12 @@
 
 ## 目录
 
-- [1 传奇动作列表](#list-of-legendary-actions)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第二幕](#act-two)
-  - [1.3 第三幕](#act-three)
-- [2 龙类](#dragons)
-- [3 注释](#notes)
+- [1 传奇动作列表](#传奇动作列表)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第二幕](#第二幕)
+  - [1.3 第三幕](#第三幕)
+- [2 龙类](#龙类)
+- [3 注释](#注释)
 
 ## 传奇动作列表
 
@@ -54,13 +54,13 @@
 |
 
 [传奇动作：死亡荒芜](Legendary_Action_colon__The_Dead_Wastes.md "传奇动作：死亡荒芜")
-每当一个生物死亡时，每回合一次，巴萨扎尔可以使用其传奇动作在其死亡地点制造一片黯蚀瘴气，该瘴气会治疗不死生物 4d6⁠⁠[生命值](Healing.md "治疗")，并在活物回合开始时对其造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
+每当一个生物死亡时，每回合一次，巴萨扎尔可以使用其传奇动作在其死亡地点制造一片黯蚀瘴气，该瘴气会治疗不死生物 4d6⁠⁠[治疗](Healing.md "治疗")，并在活物回合开始时对其造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
 [传奇动作：幽灵形态](Legendary_Action_colon__Spectral_Aspect.md "传奇动作：幽灵形态")
 | 角色 | 动作 |
 | --- | --- |
 | [米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒") | [传奇动作：死亡凝视](Legendary_Action_colon__Gaze_of_the_Dead.md "传奇动作：死亡凝视")每回合一次，米尔寇的使徒可以在被攻击时花费一个传奇动作，对一个生物施放 [死亡凝视](Gaze_of_the_Dead.md "死亡凝视")。 |
-| [巴萨扎尔](Balthazar.md "巴萨扎尔") | [传奇动作：死亡荒芜](Legendary_Action_colon__The_Dead_Wastes.md "传奇动作：死亡荒芜")每当一个生物死亡时，每回合一次，巴萨扎尔可以使用其传奇动作在其死亡地点制造一片黯蚀瘴气，该瘴气会治疗不死生物 4d6⁠⁠[生命值](Healing.md "治疗")，并在活物回合开始时对其造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。 |
+| [巴萨扎尔](Balthazar.md "巴萨扎尔") | [传奇动作：死亡荒芜](Legendary_Action_colon__The_Dead_Wastes.md "传奇动作：死亡荒芜")每当一个生物死亡时，每回合一次，巴萨扎尔可以使用其传奇动作在其死亡地点制造一片黯蚀瘴气，该瘴气会治疗不死生物 4d6⁠⁠[治疗](Healing.md "治疗")，并在活物回合开始时对其造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。 |
 | [传奇动作：幽灵形态](Legendary_Action_colon__Spectral_Aspect.md "传奇动作：幽灵形态")每回合一次，巴萨扎尔可以在被击中后使用其传奇动作，获得 [幽灵形态](Spectral_Aspect_(Condition).md "幽灵形态（状态）")。 |  |
 | [格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆") | [传奇动作：升华](Legendary_Action_colon__Sublimation.md "传奇动作：升华")每回合一次，如果她失去一件护甲，格灵哥斯·索姆可以花费一个传奇动作尝试将敌人变成黄金，使其失能 4 回合。 |
 | [卡'尼斯](Kar'niss.md "卡'尼斯") | [传奇动作：狂热报偿](Legendary_Action_colon__Fanatic_Retaliation.md "传奇动作：狂热报偿")每回合一次，当一个 [纺丝狂热者](Spindleweb_Fanatic_(Condition).md "纺丝狂热者（状态）") 被杀死时，卡'尼斯可以使用一个传奇动作，可能对攻击者造成 6d10⁠⁠[心灵](Psychic.md "心灵") 伤害并使其 [沉默](Silenced_(Condition).md "沉默（状态）")。 |

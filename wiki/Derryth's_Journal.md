@@ -1,6 +1,6 @@
 # 德里丝的日志
 
-**德里丝的日志**是常见的[书籍](Books.md "书籍")。它记录了[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")对其丈夫[巴伦](Baelen_Bonecloak.md "巴伦")的看法。
+**德里丝的日志**是常见的[书籍](Books.md "书籍")。它记录了[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")对其丈夫[巴伦·骨篷](Baelen_Bonecloak.md "巴伦·骨篷")的看法。
 
 这本书散发着纸张和墨水的诱人气息。
 
@@ -24,7 +24,7 @@
 
 _如果巴伦未被给予[箴言菇](Noblestalk.md "箴言菇")_ ( UID `UNI_BOOK_LOW_BonecloakApothecary_Journal_BaelenUnhealed` / UUID `4ef75ca7-1f32-4cc7-a490-089aded03514` )：
 
-⁠[杜马索因](https://forgottenrealms.fandom.com/wiki/Dumathoin)带走这个男人吧！我以为当我们回到[城市](Baldur's_Gate.md "博德之门")并再次置身于熟悉的环境中时，他会变得温和一些，重新集中注意力。
+⁠[杜马索因](https://forgottenrealms.fandom.com/wiki/Dumathoin)带走这个男人吧！我以为当我们回到[博德之门](Baldur's_Gate.md "博德之门")并再次置身于熟悉的环境中时，他会变得温和一些，重新集中注意力。
 
 但没有。他还是像以前一样糊涂，这只老狼蛛，甚至比在[幽暗地域](Underdark.md "幽暗地域")时更易怒。他需要我的帮助，而他讨厌这样——他一直如此。我不会再忍受了。如果他再打我，第二天早上他的粥里就会发现[翼龙毒素](Wyvern_Toxin.md "翼龙毒素")！
 
@@ -50,7 +50,7 @@ _如果巴伦在[第一幕](Act_One.md "第一幕")中死亡_ ( UID `UNI_BOOK_LO
 
 现在我该怎么办？我忍不住想尝尝自己的货来改善心情，但巴伦就是这样开始滑向糊涂的，所以我猜我不会。
 
-我想知道[格鲁姆波](To_Glumbor_from_Derryth.md "格鲁姆波给德里丝的信")还活着吗？当我还是个年轻貌美的人时，他比我大二十岁似乎很重要，但对一个矮人来说，二十年又算什么呢？
+我想知道[格鲁姆波给德里丝的信](To_Glumbor_from_Derryth.md "格鲁姆波给德里丝的信")还活着吗？当我还是个年轻貌美的人时，他比我大二十岁似乎很重要，但对一个矮人来说，二十年又算什么呢？
 
 不过以我的运气，他大概和巴伦一样死了。
 

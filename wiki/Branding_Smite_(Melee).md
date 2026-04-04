@@ -1,6 +1,6 @@
 # 印记斩（近战）
 
-**印记斩（近战）** 是一个[2级塑能学派法术](Spells.md "Spells")。此法术是[印记斩](Branding_Smite.md "Branding Smite")的变体。它允许施法者让他们的近战武器散发出星界光耀，使他们能够用光标记目标，防止其进入[隐形](Invisible_(Condition).md "Invisible (Condition)")状态。
+**印记斩（近战）** 是一个[法术](Spells.md "法术")。此法术是[印记斩](Branding_Smite.md "Branding Smite")的变体。它允许施法者让他们的近战武器散发出星界光耀，使他们能够用光标记目标，防止其进入[隐形](Invisible_(Condition).md "Invisible (Condition)")状态。
 
 ## 描述
 

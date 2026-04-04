@@ -22,7 +22,7 @@
 
 ### 体型
 
-[中型](Medium.md "Medium")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -96,25 +96,25 @@
 
 - [**元素叱喝**](Elemental_Retort_(passive_feature).md "Elemental Retort (passive feature)")
 
-被攻击时，可使用[吸取](Elemental_Siphon.md "Elemental Siphon")的魔法施放[元素叱喝](Elemental_Retort.md "Elemental Retort")。
+被攻击时，可使用[元素吸取](Elemental_Siphon.md "元素吸取")的魔法施放[元素叱喝](Elemental_Retort.md "Elemental Retort")。
 
-- [**元素吸取**](Elemental_Siphon.md "Elemental Siphon")
+- [元素吸取](Elemental_Siphon.md "元素吸取")
 
 从 30 米 (100 英尺) 内的任何附近执政官汲取元素力量。
 
-- [**强效塑能**](Empowered_Evocation.md "Empowered Evocation")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 对塑能法术的伤害掷骰添加智力调整值。
 
-- [**预兆戏法**](Potent_Cantrip.md "Potent Cantrip")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人成功通过戏法的[豁免检定](Saving_throw.md "Saving throw")后，仍会受到一半伤害。
 
-- [**法术塑形**](Sculpt_Spells.md "Sculpt Spells")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
-- [**法术抗性**](Spell_Resistance.md "Spell Resistance")
+- [法术抗性](Spell_Resistance.md "法术抗性")
 
 对法术的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")。
 
@@ -168,25 +168,25 @@
 
 - [**元素叱喝**](Elemental_Retort_(passive_feature).md "Elemental Retort (passive feature)")
 
-被攻击时，可使用[吸取](Elemental_Siphon.md "Elemental Siphon")的魔法施放[元素叱喝](Elemental_Retort.md "Elemental Retort")。
+被攻击时，可使用[元素吸取](Elemental_Siphon.md "元素吸取")的魔法施放[元素叱喝](Elemental_Retort.md "Elemental Retort")。
 
-- [**元素吸取**](Elemental_Siphon.md "Elemental Siphon")
+- [元素吸取](Elemental_Siphon.md "元素吸取")
 
 从 30 米 (100 英尺) 内的任何附近执政官汲取元素力量。
 
-- [**强效塑能**](Empowered_Evocation.md "Empowered Evocation")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 对塑能法术的伤害掷骰添加智力调整值。
 
-- [**预兆戏法**](Potent_Cantrip.md "Potent Cantrip")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人成功通过戏法的[豁免检定](Saving_throw.md "Saving throw")后，仍会受到一半伤害。
 
-- [**法术塑形**](Sculpt_Spells.md "Sculpt Spells")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
-- [**法术抗性**](Spell_Resistance.md "Spell Resistance")
+- [法术抗性](Spell_Resistance.md "法术抗性")
 
 对法术的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")。
 
@@ -240,25 +240,25 @@
 
 - [**元素叱喝**](Elemental_Retort_(passive_feature).md "Elemental Retort (passive feature)")
 
-被攻击时，可使用[吸取](Elemental_Siphon.md "Elemental Siphon")的魔法施放[元素叱喝](Elemental_Retort.md "Elemental Retort")。
+被攻击时，可使用[元素吸取](Elemental_Siphon.md "元素吸取")的魔法施放[元素叱喝](Elemental_Retort.md "Elemental Retort")。
 
-- [**元素吸取**](Elemental_Siphon.md "Elemental Siphon")
+- [元素吸取](Elemental_Siphon.md "元素吸取")
 
 从 30 米 (100 英尺) 内的任何附近执政官汲取元素力量。
 
-- [**强效塑能**](Empowered_Evocation.md "Empowered Evocation")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 对塑能法术的伤害掷骰添加智力调整值。
 
-- [**预兆戏法**](Potent_Cantrip.md "Potent Cantrip")
+- [预兆戏法](Potent_Cantrip.md "预兆戏法")
 
 敌人成功通过戏法的[豁免检定](Saving_throw.md "Saving throw")后，仍会受到一半伤害。
 
-- [**法术塑形**](Sculpt_Spells.md "Sculpt Spells")
+- [法术塑形](Sculpt_Spells.md "法术塑形")
 
 盟友自动通过使用者法术的豁免检定。
 
-- [**法术抗性**](Spell_Resistance.md "Spell Resistance")
+- [法术抗性](Spell_Resistance.md "法术抗性")
 
 对法术的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")。
 
@@ -290,21 +290,21 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第三幕](#act-three)
-    - [1.2.1 帮助暗夜之歌](#helping-the-nightsong)
-    - [1.2.2 帮助洛若坎](#helping-lorroakan)
-- [2 战斗](#combat)
-  - [2.1 值得一提的战利品](#notable-loot)
-- [3 死者交谈](#speak-with-dead)
-- [4 相关文献](#related-literature)
-- [5 相关任务](#related-quests)
-- [6 语录](#quotes)
-- [7 画廊](#gallery)
-- [8 注释](#notes)
-- [9 参考文献](#references)
-- [10 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第三幕](#第三幕)
+    - [1.2.1 帮助暗夜之歌](#帮助暗夜之歌)
+    - [1.2.2 帮助洛若坎](#帮助洛若坎)
+- [2 战斗](#战斗)
+  - [2.1 值得一提的战利品](#值得一提的战利品)
+- [3 死者交谈](#死者交谈)
+- [4 相关文献](#相关文献)
+- [5 相关任务](#相关任务)
+- [6 语录](#语录)
+- [7 画廊](#画廊)
+- [8 注释](#注释)
+- [9 参考文献](#参考文献)
+- [10 外部链接](#外部链接)
 
 ## 参与
 
@@ -352,7 +352,7 @@ UUID
 | --- | --- | --- | --- | --- | --- |
 | 0 | +2 | +2 | +4 | +2 | +3 |
 
-如果被击败，洛若坎会将艾琳关进另一个[灵魂笼](Find_the_Nightsong.md "Find the Nightsong")，最终获得了他长期寻求的不朽之身。洛若坎奖励玩家 5000 金币，并为⁠[召集盟友](Gather_Your_Allies.md "Gather Your Allies")提供帮助，在最终战斗中授予[洛若坎的火焰风暴](Lorroakan's_Firestorm.md "Lorroakan's Firestorm")（与罗兰的[职业动作](Class_action.md "Class action")相同）。玩家成员若拥有[智者](Sage.md "Sage")背景，还会获得激励点⁠[我们时代的卡尔萨斯](Sage.md#The_Karsus_of_Our_Times "Sage")。在[至高大殿](High_Hall.md "High Hall")，洛若坎出现时带有 \_(Condition)[无敌](Invulnerability_(Lorroakan)_(Condition).md "Invulnerability (Lorroakan) (Condition)") 状态，使他对所有伤害类型[免疫](Immune.md "Immune")。
+如果被击败，洛若坎会将艾琳关进另一个[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")，最终获得了他长期寻求的不朽之身。洛若坎奖励玩家 5000 金币，并为⁠[召集盟友](Gather_Your_Allies.md "Gather Your Allies")提供帮助，在最终战斗中授予[洛若坎的火焰风暴](Lorroakan's_Firestorm.md "Lorroakan's Firestorm")（与罗兰的[职业动作](Class_action.md "Class action")相同）。玩家成员若拥有[智者](Sage.md "Sage")背景，还会获得激励点⁠[我们时代的卡尔萨斯](Sage.md#The_Karsus_of_Our_Times "Sage")。在[至高大殿](High_Hall.md "High Hall")，洛若坎出现时带有 \_(Condition)[无敌](Invulnerability_(Lorroakan)_(Condition).md "Invulnerability (Lorroakan) (Condition)") 状态，使他对所有伤害类型[免疫](Immune.md "Immune")。
 
 返回伊索贝尔并告知她艾琳被重新捕获，但欺骗她玩家背叛了她，会导致她冲向拉玛吉斯高塔亲自与洛若坎对质。
 

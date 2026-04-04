@@ -2,11 +2,11 @@
 
 对于被动特性，请参见 [Bull's Strength (passive feature)](Bull's_Strength_(passive_feature)..md)
 
-**牛之蛮力** 是一个 [等级 2 变化学派法术](Spells.md "Spells")。此法术允许施法者赋予生物公牛般的力量。受影响的生物其 [负重](Carrying_capacity.md "Carrying Capacity") 翻倍，并获得 [优势](Advantage.md "Advantage") 进行 [力量](Strength.md "Strength") [检定](Ability_Check.md "Ability Check")。
+**牛之蛮力** 是一个 [法术](Spells.md "法术")。此法术允许施法者赋予生物公牛般的力量。受影响的生物其 [负重](Carrying_capacity.md "Carrying Capacity") 翻倍，并获得 [优势](Advantage.md "Advantage") 进行 [力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")。
 
 ## 描述
 
-生物获得进行 [力量](Strength.md "Strength") [检定](Ability_Check.md "Ability Check") 的 [优势](Advantage.md "Advantage")，且其 [负重上限](Carrying_capacity.md "Carrying Capacity") 翻倍。
+生物获得进行 [力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定") 的 [优势](Advantage.md "Advantage")，且其 [负重](Carrying_capacity.md "负重") 翻倍。
 
 ## 属性
 
@@ -36,8 +36,8 @@ UID
 
 持续时间：直至 [长休](Long_Rest.md "Long rest")
 
-- 进行 [力量](Strength.md "Strength") [检定](Ability_Check.md "Ability Check") 时具有 [优势](Advantage.md "Advantage")。
-- [负重上限](Carrying_capacity.md "Carrying Capacity") 翻倍。
+- 进行 [力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定") 时具有 [优势](Advantage.md "Advantage")。
+- [负重](Carrying_capacity.md "负重") 翻倍。
 
 ## 如何习得
 

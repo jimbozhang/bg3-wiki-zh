@@ -85,19 +85,19 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将即将受到的命中伤害减半。
 
@@ -145,19 +145,19 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将即将受到的命中伤害减半。
 
@@ -205,19 +205,19 @@
 
 ## 特性
 
-- [**勇敢**](Brave.md "勇敢")
+- [勇敢](Brave.md "勇敢")
 
 对[恐慌](Frightened.md "恐慌")的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将即将受到的命中伤害减半。
 
@@ -247,14 +247,14 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 伙伴好感度](#companion-approval)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 盟友](#allies)
-  - [3.3 战利品](#loot)
-- [4 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 盟友](#盟友)
+  - [3.3 战利品](#战利品)
+- [4 外部链接](#外部链接)
 
 ## 参与
 
@@ -262,9 +262,9 @@ Stats
 
 惠度和他的团伙位于[会馆](The_Lodge.md "会馆")下方的码头，灰色港口码头传送点以北。如果接近惠度，会触发与他的对话。
 
-惠度告诉队伍离开，解释说他正在等待公会来取货。通过DC 15的[欺瞒](Deception.md "欺瞒")[检定](Ability_Check.md "属性检定")，玩家角色可以对惠度撒谎，说他们来自公会，然后支付1000金币来掠夺货物。之后，可以掠夺附近的大木箱和板条箱，并拿走三桶[火酒](Firewine_Barrel.md "火酒桶")。
+惠度告诉队伍离开，解释说他正在等待公会来取货。通过DC 15的[欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")，玩家角色可以对惠度撒谎，说他们来自公会，然后支付1000金币来掠夺货物。之后，可以掠夺附近的大木箱和板条箱，并拿走三桶[火酒桶](Firewine_Barrel.md "火酒桶")。
 
-作为替代方案，玩家角色可以通过DC 15的[威吓](Intimidation.md "威吓")[检定](Ability_Check.md "属性检定")来恐吓惠度。如果成功，他会说他们可以掠夺货物。然而，这仍然被视为偷窃。通过第二次威吓检定并要求惠度掏空口袋，他会交出少量金币。
+作为替代方案，玩家角色可以通过DC 15的[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")来恐吓惠度。如果成功，他会说他们可以掠夺货物。然而，这仍然被视为偷窃。通过第二次威吓检定并要求惠度掏空口袋，他会交出少量金币。
 
 如果任一检定失败，或者过于接近货物，惠度和他的团伙会变得敌对。
 

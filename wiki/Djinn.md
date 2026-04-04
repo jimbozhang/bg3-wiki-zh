@@ -65,11 +65,11 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -111,11 +111,11 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -149,7 +149,7 @@
 
 用令人陶醉的风迫使敌人靠近你，使他们[醉酒](Drunk_(Condition).md "醉酒 (状态)")。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
 [迷踪步](Misty_Step.md "迷踪步") ()
@@ -160,7 +160,7 @@
 [甜莓狂风](Sweetplum_Gales.md "甜莓狂风") ()
 凝聚空气形成一股芬芳但猛烈的旋风，[束缚](Restrained_(Condition).md "束缚 (状态)")范围内的目标。
 
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [雷鸣波](Thunderwave.md "雷鸣波") ()
@@ -171,7 +171,7 @@
 
 释放一股雷鸣之力，推开区域内的所有生物和物体，同时造成[雷鸣](Thunder.md "雷鸣")伤害。
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
 ## 气巨灵角色

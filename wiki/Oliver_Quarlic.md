@@ -90,7 +90,7 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -98,11 +98,11 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于90%，其[移动速度](Movement_speed.md "移动速度")翻倍，且不会被[借机攻击](Opportunity_Attack.md "借机攻击")锁定。
 
@@ -156,7 +156,7 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -164,11 +164,11 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于90%，其[移动速度](Movement_speed.md "移动速度")翻倍，且不会被[借机攻击](Opportunity_Attack.md "借机攻击")锁定。
 
@@ -222,7 +222,7 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -230,11 +230,11 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再使你减速。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于90%，其[移动速度](Movement_speed.md "移动速度")翻倍，且不会被[借机攻击](Opportunity_Attack.md "借机攻击")锁定。
 
@@ -270,13 +270,13 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关任务](#related-quests)
-- [4 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关任务](#相关任务)
+- [4 外部链接](#外部链接)
 
 ## 参与度
 

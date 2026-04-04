@@ -42,7 +42,7 @@
 
 - [眼柄动作](Beholder_Ray.md "眼魔射线")
 
-- [幸运点](Lucky.md "幸运")
+- [幸运](Lucky.md "幸运")
 
 **资源**是_博德之门3_中可消耗的单位，决定了[生物](Creatures.md "生物")在任何给定时间能够做什么，以及他们必须等待多久才能再次执行该操作。
 
@@ -54,21 +54,21 @@
 
 ## 目录
 
-- [1 通用资源](#common-resources)
-  - [1.1 动作](#actions)
-    - [1.1.1 附赠动作](#bonus-action)
-    - [1.1.2 反应](#reaction)
-  - [1.2 移动速度](#movement-speed)
-- [2 法术位](#spell-slots)
-- [3 激励点](#inspiration-points)
-- [4 职业特性资源列表](#lists-of-class-feature-resources)
-  - [4.1 长休充能](#recharge-on-long-rest)
-  - [4.2 短休充能](#recharge-on-short-rest)
-- [5 其他资源](#other-resources)
-- [6 隐藏资源](#hidden-resources)
-- [7 保留资源](#reserved-resources)
-- [8 另见](#see-also)
-- [9 注释](#notes)
+- [1 通用资源](#通用资源)
+  - [1.1 动作](#动作)
+    - [1.1.1 附赠动作](#附赠动作)
+    - [1.1.2 反应](#反应)
+  - [1.2 移动速度](#移动速度)
+- [2 法术位](#法术位)
+- [3 激励点](#激励点)
+- [4 职业特性资源列表](#职业特性资源列表)
+  - [4.1 长休充能](#长休充能)
+  - [4.2 短休充能](#短休充能)
+- [5 其他资源](#其他资源)
+- [6 隐藏资源](#隐藏资源)
+- [7 保留资源](#保留资源)
+- [8 另见](#另见)
+- [9 注释](#注释)
 
 ## 通用资源
 
@@ -103,7 +103,7 @@
 
 有些动作，通常被称为_附赠动作_，需要在执行时消耗一个附赠动作。
 
-有些[职业特性](Features.md "特性")允许生物通过消耗附赠动作来执行通常需要动作的特定动作。例如[游荡者](Rogue.md "游荡者")职业的“灵巧动作”特性允许角色以附赠动作[疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")、[撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离")或[躲藏](Cunning_Action_colon__Hide.md "灵巧动作：躲藏")。
+有些[特性](Features.md "特性")允许生物通过消耗附赠动作来执行通常需要动作的特定动作。例如[游荡者](Rogue.md "游荡者")职业的“灵巧动作”特性允许角色以附赠动作[疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")、[撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离")或[躲藏](Cunning_Action_colon__Hide.md "灵巧动作：躲藏")。
 
 此外，少数动作在执行时需要_同时_消耗一个动作和一个附赠动作。这通常代表同时做两件事，例如在施放法术增强攻击的同时进行物理攻击（如[炽焰斩](Searing_Smite.md "炽焰斩")和其他[至圣斩](Smite.md "至圣斩")法术）。
 
@@ -127,7 +127,7 @@
 
 大多数可玩种族具有正常移动速度，但[矮人](Dwarf.md "矮人")、[半身人](Halfling.md "半身人")和[侏儒](Gnome.md "侏儒")的移动速度较慢，而[木精灵](Elf.md#Wood_elf "精灵")和[木半精灵](Half-Elf.md#Wood_half-elf "半精灵")的移动速度较快。
 
-某些类型的[地形](Difficult_Terrain.md "劣势地形")会阻碍移动，而某些[状态](Conditions.md "状态")会暂时增加或减少生物的移动速度。所有生物都可以[疾走](Dash.md "疾走")来在该回合将移动速度加倍。还有多种[方式可以增加移动速度](List_of_sources_of_movement_speed.md "移动速度来源列表")，无论是暂时的还是永久的。
+某些类型的[劣势地形](Difficult_Terrain.md "劣势地形")会阻碍移动，而某些[状态](Conditions.md "状态")会暂时增加或减少生物的移动速度。所有生物都可以[疾走](Dash.md "疾走")来在该回合将移动速度加倍。还有多种[方式可以增加移动速度](List_of_sources_of_movement_speed.md "移动速度来源列表")，无论是暂时的还是永久的。
 
 ## 法术位
 
@@ -265,7 +265,7 @@
 
 > 你可以汲取誓言力量来驱动动作的次数。
 
-由[圣武士](Paladin.md "圣武士")用于[引导誓言](Channel_Oath_Charge.md "引导誓言充能")动作。你获得 1 次充能。每长休一次，可以通过[崇敬之甲](Armour_of_Devotion.md "崇敬之甲")恢复一次充能。
+由[圣武士](Paladin.md "圣武士")用于[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")动作。你获得 1 次充能。每长休一次，可以通过[崇敬之甲](Armour_of_Devotion.md "崇敬之甲")恢复一次充能。
 
 [气点](Ki_Point.md "气点")
 

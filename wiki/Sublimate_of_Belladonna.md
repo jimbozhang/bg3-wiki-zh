@@ -1,6 +1,6 @@
 # 颠茄升华物
 
-**颠茄升华物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[卓越专注灵药](Elixir_of_Peerless_Focus.md "卓越专注灵药")。
+**颠茄升华物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[卓越专注灵药](Elixir_of_Peerless_Focus.md "卓越专注灵药")。
 
 在这种转化状态下，⁠[颠茄](https://forgottenrealms.fandom.com/wiki/Belladonna)失去了其毒性特性，取而代之的是一种引人入胜、增强[察觉技能](Perception.md "察觉技能")的特性。
 

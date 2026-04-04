@@ -22,9 +22,7 @@
 
 ## 文本
 
-\[在其处女作《不要嗅探标本》中，奥利蒙克·施鲁斯伯里教授以慵懒的细节描述了他在费伦的公路和林地沿途记录的众多植物和蘑菇的经历。
-
-他讨论了[匕根草](Daggerroot.md "匕根草")在地牢入口附近生长的奇特特性；[骨帽菇](Bonecap.md "骨帽菇")在尸体附近开花；以及[黄色麝香藤](https://forgottenrealms.fandom.com/wiki/Yellow_musk_creeper)丰富而危险的炼金特性；还有更多内容……天哪，这本书超过两千页。
+\[匕根草](Daggerroot.md "匕根草")在地牢入口附近生长的奇特特性；[骨帽菇](Bonecap.md "骨帽菇")在尸体附近开花；以及[黄色麝香藤](https://forgottenrealms.fandom.com/wiki/Yellow_musk_creeper)丰富而危险的炼金特性；还有更多内容……天哪，这本书超过两千页。
 
 不包括附录。\]
 

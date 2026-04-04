@@ -8,7 +8,7 @@
 
 **[目盲](Blinded_(Condition).md "目盲 (状态)")**
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC"] 14）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC"] 14）
 
 ⁠半径：6 米（20 英尺）
 

@@ -13,7 +13,7 @@
 - 价格：14 金币
 - UID `BOOK_GEN_Gods_BhaalSongbook` UUID `94d45ae6-89c1-4917-b0aa-93c1f37c1b8d` ## 文本
 
-\[一本歌颂 ⁠[巴尔](Bhaal.md "Bhaal")——杀戮之主——的歌曲和赞美诗集。\]
+\[巴尔](Bhaal.md "巴尔")——杀戮之主——的歌曲和赞美诗集。\]
 
 ---
 *Source: [The Lord of Murder's Songbook](https://bg3.wiki/wiki/The_Lord_of_Murder's_Songbook)*

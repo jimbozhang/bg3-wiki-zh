@@ -92,25 +92,25 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 18 / (+4) | 15 / (+2) | 9 / (-1) | 16 / (+3) | 14 / (+2) |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
@@ -118,7 +118,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**灵活移动**](Mobile.md "灵活移动")
+- [灵活移动](Mobile.md "灵活移动")
 
 你的移动速度增加 3 米。
 
@@ -172,25 +172,25 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +6 | +8 | +2 | -1 | +3 | +2 |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
@@ -198,7 +198,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**灵活移动**](Mobile.md "灵活移动")
+- [灵活移动](Mobile.md "灵活移动")
 
 你的移动速度增加 3 米。
 
@@ -252,33 +252,33 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 18 / (+4) | 15 / (+2) | 9 / (-1) | 16 / (+3) | 14 / (+2) |
 
-## 抗性 [(详情)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - - - ## 特性
 
-- [**箭术**](Archery.md "箭术")
+- [箭术](Archery.md "箭术")
 
 你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 奖励。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
 每回合一次，如果你的武器攻击目标生命值低于其最大值，则造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
 
-- [**冲出重围**](Escape_the_Horde.md "冲出重围")
+- [冲出重围](Escape_the_Horde.md "冲出重围")
 
 针对你的[借机攻击](Opportunity_Attack.md "借机攻击")具有[劣势](Disadvantage.md "劣势")。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")于所有[火焰](Fire.md "火焰")。
 
@@ -286,7 +286,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再使你减速。
 
-- [**灵活移动**](Mobile.md "灵活移动")
+- [灵活移动](Mobile.md "灵活移动")
 
 你的移动速度增加 3 米。
 

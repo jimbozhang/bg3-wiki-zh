@@ -93,15 +93,15 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "Githyanki War Magic")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放[法术或戏法](Spells.md "Spells")后，可以进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
+在施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**协同戏法**](Synergetic_Cantrips.md "Synergetic Cantrips")
+- [协同戏法](Synergetic_Cantrips.md "协同戏法")
 
 | 运动 | 体操 | 察觉技能 |
 | --- | --- | --- |
@@ -153,19 +153,19 @@
 
 - - - ## 特性
 
-- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "Githyanki War Magic")
+- [吉斯洋基战斗魔法](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
 
-在施放[法术或戏法](Spells.md "Spells")后，可以进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
+在施放[法术](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "Bonus action")武器攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "Psionic Empowerment")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic")伤害——灵吸怪奴役的伤痕根深蒂固。
 
-- [**协同戏法**](Synergetic_Cantrips.md "Synergetic Cantrips")
+- [协同戏法](Synergetic_Cantrips.md "协同戏法")
 
 | 运动 | 体操 | 察觉技能 |
 | --- | --- | --- |
@@ -205,12 +205,12 @@ UUID
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 参与](#involvement)
-  - [2.1 第一幕](#act-one)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 战利品](#loot)
+- [1 概述](#概述)
+- [2 参与](#参与)
+  - [2.1 第一幕](#第一幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 战利品](#战利品)
 
 ## 概述
 
@@ -224,7 +224,7 @@ UUID
 
 在通过前门进入养育间后不久，会触发与该角色的对话。
 
-根据队伍与[凯斯拉克百夫长沃斯](Voss.md "Kith'rak Voss")对话的结果，队伍可以选择说他们携带着他正在寻找的["武器"](Mysterious_Artefact.md "神秘遗物")。这样做的好处是可以在对话中结束，而不提及角色头中有任何蝌蚪。法'拉格会要求队伍展示遗物作为证明。对此的回应选项包括：
+根据队伍与[凯斯拉克百夫长沃斯](Voss.md "Kith'rak Voss")对话的结果，队伍可以选择说他们携带着他正在寻找的[神秘遗物](Mysterious_Artefact.md "神秘遗物")。这样做的好处是可以在对话中结束，而不提及角色头中有任何蝌蚪。法'拉格会要求队伍展示遗物作为证明。对此的回应选项包括：
 
 - _出示遗物作为证据。_
 - [表演] 我以维拉基斯女王的化身发言。你将让我通过，_维尼伊斯克。_ (DC 30)
@@ -271,7 +271,7 @@ UUID
 射程：自身
 
 [人类定身术](Hold_Person.md "Hold Person") (+ )
-定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[行动](Action.md "Action")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")来结束此状态。
+定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")来结束此状态。
 
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)

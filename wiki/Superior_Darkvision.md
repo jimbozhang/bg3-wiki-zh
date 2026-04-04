@@ -26,7 +26,7 @@
 
 ## 备注
 
-- 当一个[隐藏](Hide.md "隐藏")的生物进入拥有高级黑暗视觉的非盟友生物的视线，并且处于高级黑暗视觉范围内时：
+- 当一个[躲藏](Hide.md "躲藏")的生物进入拥有高级黑暗视觉的非盟友生物的视线，并且处于高级黑暗视觉范围内时：
 - [轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")状态将被视为处于[清晰区域](Clear_Area_(Condition).md "清晰区域（状态）")状态。
 - [重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")状态将被视为[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽（状态）")状态。
 

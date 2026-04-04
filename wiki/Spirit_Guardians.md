@@ -2,7 +2,7 @@
 
 本文介绍的是法术。其他用法，请参见[精魂守卫（消歧义）](Spirit_Guardians_(disambiguation)..md)
 
-**精魂守卫**是一个[3级咒法学派法术](Spells.md "Spells")。它允许施法者召唤灵体来伤害附近的目标并减慢其[移动](Movement_speed.md "移动速度")。
+**精魂守卫**是一个[法术](Spells.md "法术")。它允许施法者召唤灵体来伤害附近的目标并减慢其[移动](Movement_speed.md "移动速度")。
 
 ## 描述
 

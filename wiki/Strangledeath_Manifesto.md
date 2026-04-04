@@ -32,7 +32,7 @@
 
 ## 注释
 
-- 此物品可在地面上通过 DC 10 的[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")揭示
+- 此物品可在地面上通过 DC 10 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")揭示
 
 ---
 *Source: [Strangledeath Manifesto](https://bg3.wiki/wiki/Strangledeath_Manifesto)*

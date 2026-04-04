@@ -25,7 +25,7 @@
 
 持续时间：5 驱散
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
 
 - 每移动 1 米 (3 英尺) 造成 1d4⁠⁠[穿刺](Piercing.md "穿刺") 伤害。每次触发伤害时，状态持续时间减少 1。
 

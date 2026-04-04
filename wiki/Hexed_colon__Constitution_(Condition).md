@@ -3,7 +3,7 @@
 **脆弱诅咒：体质**
 
 - 生物受到施法者额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 其在进行[体质](Constitution.md "体质") [检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")。
+- 其在进行[体质](Constitution.md "体质") [属性检定](Ability_Check.md "属性检定")时具有[劣势](Disadvantage.md "劣势")。
 
 [被诅咒](Cursed_(status_group).md)
 

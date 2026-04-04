@@ -25,10 +25,10 @@
 
 ## 内容
 
-- [亚历山大·雨林的手](Alexander's_Hand.md "亚历山大的手")
+- [亚历山大的手](Alexander's_Hand.md "亚历山大的手")
 - [斯特梅公爵的手](Duke_Stelmane's_Hand.md "斯特梅公爵的手")
 - [罗根神父的手](Father_Lorgan's_Hand.md "罗根神父的手")
-- [弗兰克·梨木的手](Franc's_Hand.md "弗兰克的手")
+- [弗兰克的手](Franc's_Hand.md "弗兰克的手")
 
 ---
 *Source: [Hand Bag](https://bg3.wiki/wiki/Hand_Bag)*

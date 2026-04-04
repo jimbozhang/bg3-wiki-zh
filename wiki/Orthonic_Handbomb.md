@@ -38,7 +38,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 17)
 
 - 每驱散受到 1d4⁠⁠[火焰](Fire.md "火焰") 伤害。
-- **无法**通过 [协助](Help.md "协助") 动作、使用 [治疗类药水](Potion_of_Healing.md "治疗药水") 或获得 [濡湿](Wet_(Condition).md "濡湿（状态）") 来移除。
+- **无法**通过 [协助](Help.md "协助") 动作、使用 [治疗药水](Potion_of_Healing.md "治疗药水") 或获得 [濡湿](Wet_(Condition).md "濡湿（状态）") 来移除。
 
 ## 获取地点
 

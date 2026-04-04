@@ -1,6 +1,6 @@
 # 操纵死尸（灰矮人）
 
-**操纵死尸**是一个[4级死灵学派法术](Spells.md "Spells")。格克·煤球使用此法术在[幽暗地域海滩](Underdark.md#Beach "Underdark")操纵一堆尸体。队伍成员无法学习此法术。
+**操纵死尸**是一个[法术](Spells.md "法术")。格克·煤球使用此法术在[幽暗地域海滩](Underdark.md#Beach "Underdark")操纵一堆尸体。队伍成员无法学习此法术。
 
 ## 描述
 

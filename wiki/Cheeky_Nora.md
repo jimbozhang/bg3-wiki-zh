@@ -83,15 +83,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md "魅惑")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md "沉睡")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -144,7 +144,7 @@ UUID
 
 - 此任务未列在任务日志中。
   - 塞弗恩表示诺拉是个“M. F. - M 代表怪物（Monster）。只能说我不喜欢那种类型。”
-  - 截至补丁 #8，热修复 #34，如果选择[智力](Intelligence.md "智力")[检定](Ability_Check.md "属性检定")，会有一些错误：
+  - 截至补丁 #8，热修复 #34，如果选择[智力](Intelligence.md "智力")[属性检定](Ability_Check.md "属性检定")，会有一些错误：
 - 她只在被说服放弃塞弗恩时声称会奖励队伍，但最终并未兑现。
 - 即使在“成功”说服她放下后，她在后续对话中仍会继续思念他。
 

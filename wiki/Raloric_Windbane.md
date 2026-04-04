@@ -6,7 +6,7 @@
 
 ### 阵营
 
-[伊尔梅特教会](Ilmater.md "Ilmater")
+[伊尔梅特](Ilmater.md "伊尔梅特")
 
 ## 属性
 
@@ -82,7 +82,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -136,7 +136,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -190,7 +190,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -212,11 +212,11 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 盟友](#allies)
-- [3 相关任务](#related-quests)
-- [4 图库](#gallery)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 盟友](#盟友)
+- [3 相关任务](#相关任务)
+- [4 图库](#图库)
 
 ## 参与
 

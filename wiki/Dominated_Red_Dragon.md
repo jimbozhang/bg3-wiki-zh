@@ -69,7 +69,7 @@
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "Darkvision")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -77,11 +77,11 @@
 
 所有受到的伤害减少2点。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -129,15 +129,15 @@
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "Darkvision")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -185,7 +185,7 @@
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "Darkvision")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -197,11 +197,11 @@
 
 龙每回合可以使用一次吐息武器反击攻击者。
 
-- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -209,11 +209,11 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 成就](#achievements)
-- [4 备注](#notes)
+- [1 概述](#概述)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 成就](#成就)
+- [4 备注](#备注)
 
 ## 概述
 

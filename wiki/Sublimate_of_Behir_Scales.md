@@ -1,6 +1,6 @@
 # 青足龙蛇鳞片升华物
 
-**青足龙蛇鳞片升华物**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[闪光弹](Flashblinder.md "闪光弹")。
+**青足龙蛇鳞片升华物**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[灰烬](Alchemy.md#Extractions "炼金术")结合，以制造[闪光弹](Flashblinder.md "闪光弹")。
 
 具有讽刺意味的是，[青足龙蛇](https://forgottenrealms.fandom.com/wiki/behir)鳞片的致盲特性反映了创造第一批青足龙蛇的[风暴巨人](https://forgottenrealms.fandom.com/wiki/Storm_giant)的短视——由蛇形闪电塑造而成，它们并未长久地服从于它们的巨人主人。
 

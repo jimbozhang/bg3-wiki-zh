@@ -102,11 +102,11 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 [劣势地形](Difficult_Terrain_(Condition).md) 不会减慢你的速度，并且当你未穿着[护甲](Armour.md "护甲")或使用[盾牌](Shields.md "盾牌")时，你可以额外[跳跃](Jump.md "跳跃")6 米 / 20 英尺。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -114,23 +114,23 @@
 
 使用你的[反应](reaction.md "反应")来减少来自[远程武器攻击](Ranged_Weapon_Attack.md "远程武器攻击")的伤害，数值为 1d10 + 你的敏捷[调整值](Modifier.md "调整值") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击被视为魔法攻击，以克服敌人对非魔法伤害的抗性和免疫。
 
@@ -146,19 +146,19 @@
 
 使用[武僧武器](Monk.md#Monk_weapons "武僧武器")和徒手攻击时，如果你的敏捷更高，则按你的敏捷而非力量来计算伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**百病不侵**](Purity_of_Body.md "百病不侵")
+- [百病不侵](Purity_of_Body.md "百病不侵")
 
 你[免疫](Immune.md "免疫")中毒伤害，并且由于净化真气流经你的经络，你不会中毒或受疾病影响。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**轻身坠**](Slow_Fall.md "轻身坠")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，你可以使用你的[反应](reaction.md "反应")来获得对[坠落伤害](Falling_damage.md "坠落伤害")的[抗性](Resistance.md "抗性")。
 
@@ -170,7 +170,7 @@
 
 你的反射如同任何[护甲](Armour.md "护甲")一样有效。当你未穿着护甲时，你将你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "感知")加到你的[护甲等级](Armour_Class.md "护甲等级")上。
 
-- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿着护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 
@@ -224,11 +224,11 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 [劣势地形](Difficult_Terrain_(Condition).md) 不会减慢你的速度，并且当你未穿着[护甲](Armour.md "护甲")或使用[盾牌](Shields.md "盾牌")时，你可以额外[跳跃](Jump.md "跳跃")6 米 / 20 英尺。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -236,23 +236,23 @@
 
 使用你的[反应](reaction.md "反应")来减少来自[远程武器攻击](Ranged_Weapon_Attack.md "远程武器攻击")的伤害，数值为 1d10 + 你的敏捷[调整值](Modifier.md "调整值") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击被视为魔法攻击，以克服敌人对非魔法伤害的抗性和免疫。
 
@@ -268,19 +268,19 @@
 
 使用[武僧武器](Monk.md#Monk_weapons "武僧武器")和徒手攻击时，如果你的敏捷更高，则按你的敏捷而非力量来计算伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**百病不侵**](Purity_of_Body.md "百病不侵")
+- [百病不侵](Purity_of_Body.md "百病不侵")
 
 你[免疫](Immune.md "免疫")中毒伤害，并且由于净化真气流经你的经络，你不会中毒或受疾病影响。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**轻身坠**](Slow_Fall.md "轻身坠")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，你可以使用你的[反应](reaction.md "反应")来获得对[坠落伤害](Falling_damage.md "坠落伤害")的[抗性](Resistance.md "抗性")。
 
@@ -292,7 +292,7 @@
 
 你的反射如同任何[护甲](Armour.md "护甲")一样有效。当你未穿着护甲时，你将你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "感知")加到你的[护甲等级](Armour_Class.md "护甲等级")上。
 
-- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿着护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 
@@ -346,11 +346,11 @@
 
 ## 特性
 
-- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
 [劣势地形](Difficult_Terrain_(Condition).md) 不会减慢你的速度，并且当你未穿着[护甲](Armour.md "护甲")或使用[盾牌](Shields.md "盾牌")时，你可以额外[跳跃](Jump.md "跳跃")6 米 / 20 英尺。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -358,23 +358,23 @@
 
 使用你的[反应](reaction.md "反应")来减少来自[远程武器攻击](Ranged_Weapon_Attack.md "远程武器攻击")的伤害，数值为 1d10 + 你的敏捷[调整值](Modifier.md "调整值") + 你的武僧等级。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
 
 你在智力、感知和魅力的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
 
 你的徒手攻击被视为魔法攻击，以克服敌人对非魔法伤害的抗性和免疫。
 
@@ -390,19 +390,19 @@
 
 使用[武僧武器](Monk.md#Monk_weapons "武僧武器")和徒手攻击时，如果你的敏捷更高，则按你的敏捷而非力量来计算伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**百病不侵**](Purity_of_Body.md "百病不侵")
+- [百病不侵](Purity_of_Body.md "百病不侵")
 
 你[免疫](Immune.md "免疫")中毒伤害，并且由于净化真气流经你的经络，你不会中毒或受疾病影响。
 
-- [**小步奔行**](Shortened_Stride.md "小步奔行")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 你的移动速度为 7.5 米 (25 英尺)。
 
-- [**轻身坠**](Slow_Fall.md "轻身坠")
+- [轻身坠](Slow_Fall.md "轻身坠")
 
 当你坠落时，你可以使用你的[反应](reaction.md "反应")来获得对[坠落伤害](Falling_damage.md "坠落伤害")的[抗性](Resistance.md "抗性")。
 
@@ -414,7 +414,7 @@
 
 你的反射如同任何[护甲](Armour.md "护甲")一样有效。当你未穿着护甲时，你将你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "感知")加到你的[护甲等级](Armour_Class.md "护甲等级")上。
 
-- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 当你未穿着护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 
@@ -444,16 +444,16 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 保护公会大厅](#protecting-the-guildhall)
-  - [1.2 公会大厅之战](#battle-for-the-guildhall)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 相关任务](#related-quests)
-- [4 闲聊](#idle-banter)
-- [5 注释](#notes)
-- [6 参考文献](#references)
-- [7 外部链接](#external-links)
+- [1 参与](#参与)
+  - [1.1 保护公会大厅](#保护公会大厅)
+  - [1.2 公会大厅之战](#公会大厅之战)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 相关任务](#相关任务)
+- [4 闲聊](#闲聊)
+- [5 注释](#注释)
+- [6 参考文献](#参考文献)
+- [7 外部链接](#外部链接)
 
 ## 参与
 
@@ -524,7 +524,7 @@ Stats
 范围：正常武器范围
 
 [暗影步](Shadow_Step.md "暗影步") ()
-从[阴影](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 范围：18 米 (60 英尺)
 

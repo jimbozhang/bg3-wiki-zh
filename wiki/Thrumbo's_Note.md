@@ -18,7 +18,7 @@
 
 - UID `S_LOW_NoteFromThrumbo` UUID `c1fb827d-eb8c-4898-8d3b-32281695a682` ## 获取地点
 
-- 在 [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") 顶层 X: 6 Y: -150 处的 [乞丐肖像](Beggar's_Portrait.md "乞丐肖像") 上通过 DC 15 [奥秘](Arcana.md "奥秘") [检定](Ability_Check.md "属性检定")
+- 在 [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") 顶层 X: 6 Y: -150 处的 [乞丐肖像](Beggar's_Portrait.md "乞丐肖像") 上通过 DC 15 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")
 
 ## 文本
 

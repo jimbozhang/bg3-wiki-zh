@@ -24,7 +24,7 @@
 持续时间：3 驱散
 
 - 无法移动。
-- 受影响实体在[检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
+- 受影响实体在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 
 ## 获取地点
 

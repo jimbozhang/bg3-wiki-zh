@@ -10,7 +10,7 @@
 
 由以下装备提供：
 
-- [追猎者手套](Stalker_Gloves.md "追猎者手套")
+- [追猎者](Stalker_Gloves.md "追猎者")
 
 ## 错误
 

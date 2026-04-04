@@ -68,7 +68,7 @@
 
 - [交友术](Friends.md "交友术")
 
-- [光亮术](Light.md "光亮术")
+- [轻型](Light.md "轻型")
 
 - [法师之手](Mage_Hand.md "法师之手")
 

@@ -33,7 +33,7 @@
 | [诅咒：魅力](Cursed_colon__Charisma_(Condition).md "诅咒：魅力 (状态)") | 在使用[魅力](Charisma.md "魅力")进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。 |
 | [诅咒：体质](Cursed_colon__Constitution_(Condition).md "诅咒：体质 (状态)") | 在使用[体质](Constitution.md "体质")进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。 |
 | [诅咒：敏捷](Cursed_colon__Dexterity_(Condition).md "诅咒：敏捷 (状态)") | 在使用[敏捷](Dexterity.md "敏捷")进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。 |
-| [诅咒：恐惧](Cursed_colon__Dread_(Condition).md "诅咒：恐惧 (状态)") | 每回合，受影响的实体必须通过一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则[跳过](Skip.md "跳过对话")其回合。 |
+| [诅咒：恐惧](Cursed_colon__Dread_(Condition).md "诅咒：恐惧 (状态)") | 每回合，受影响的实体必须通过一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则[跳过对话](Skip.md "跳过对话")其回合。 |
 | 智力诅咒 | 在使用[智力](Intelligence.md "智力")进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。 |
 | [诅咒：力量](Cursed_colon__Strength_(Condition).md "诅咒：力量 (状态)") | 在使用[力量](Strength.md "力量")进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。 |
 | [诅咒：感知](Cursed_colon__Wisdom_(Condition).md "诅咒：感知 (状态)") | 在使用[感知](Wisdom.md "感知")进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。 |

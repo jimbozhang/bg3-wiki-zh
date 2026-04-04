@@ -12,7 +12,7 @@
 
 ## 注释
 
-- 当俄耳甫斯的荣誉守卫攻击时，队伍成员在[飞龙岩瞭望台营地](Campsite.md "营地")自动获得此状态。下一[驱散](Turn.md "驱散")被[她的声音：变形](Her_Voice_colon__Transforming_(Condition).md "她的声音：变形 (状态)")替换。
+- 当俄耳甫斯的荣誉守卫攻击时，队伍成员在[营地](Campsite.md "营地")自动获得此状态。下一[驱散](Turn.md "驱散")被[她的声音：变形](Her_Voice_colon__Transforming_(Condition).md "她的声音：变形 (状态)")替换。
 
 ## 她的声音：命令术的来源
 

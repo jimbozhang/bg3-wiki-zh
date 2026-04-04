@@ -13,7 +13,7 @@
 消耗
 [附赠动作](Actions.md#Resources "动作")
 详情
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：自身
 范围效果：9米（30英尺）半径
 
@@ -36,7 +36,7 @@ UID
 
 **[显形](Revealed_(Condition).md "显形（状态）")**
 
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 受影响实体因[识破隐形](See_Invisibility_(Condition).md "识破隐形（状态）")的效果而失去了[隐形](Invisible_(Condition).md "隐形（状态）")状态。
 

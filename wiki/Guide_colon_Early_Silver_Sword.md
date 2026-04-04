@@ -8,16 +8,16 @@
 
 ## 目录
 
-- [1 挑战](#the-challenge)
-- [2 方法](#methods)
-  - [2.1 法术](#spells)
-    - [2.1.1 命令术：掉落](#command:_Drop)
-    - [2.1.2 恐惧](#fear)
-    - [2.1.3 灼热金属](#heat-metal)
-  - [2.2 攻击](#attacks)
-    - [2.2.1 缴械攻击](#disarming-attack)
-    - [2.2.2 沾蜜利爪](#honeyed-paws)
-- [3 后果](#consequences)
+- [1 挑战](#挑战)
+- [2 方法](#方法)
+  - [2.1 法术](#法术)
+    - [2.1.1 命令术：掉落](#命令术掉落)
+    - [2.1.2 恐惧](#恐惧)
+    - [2.1.3 灼热金属](#灼热金属)
+  - [2.2 攻击](#攻击)
+    - [2.2.1 缴械攻击](#缴械攻击)
+    - [2.2.2 沾蜜利爪](#沾蜜利爪)
+- [3 后果](#后果)
 
 ## 挑战
 
@@ -78,7 +78,7 @@
 
 #### 缴械攻击
 
-[缴械攻击（远程）](Disarming_Attack_(Ranged).md "Disarming Attack (Ranged)")、[缴械攻击（近战）](Disarming_Attack_(Melee).md "Disarming Attack (Melee)")或[缴械打击](Disarming_Strike.md "Disarming Strike")需克服两个障碍：首先必须命中沃斯，其次他必须豁免失败。通过[隐藏](Hide.md "Hide")或[隐形](Invisible.md "Invisible")，配合20敏捷的角色，命中率可轻松达到99%。不幸的是，除了熟练项和属性值的原始加成外，无法额外提升[战斗大师](Battle_Master.md "Battle Master")的战技DC，因此对抗**1d20 + 8/9**的原始DC为**16**，无暴击未命中情况下成功率为**35%（硬核模式30%）**。不过，[力竭](Lethargic_(Condition).md "Lethargic (Condition)")状态会强制沃斯力量豁免失败。可通过向他投掷[加速药水](Potion_of_Speed.md "Potion of Speed")并等待药水效果消失来实现。注意直接向沃斯投掷药水可能触发对话或战斗。
+[缴械攻击（远程）](Disarming_Attack_(Ranged).md "Disarming Attack (Ranged)")、[缴械攻击（近战）](Disarming_Attack_(Melee).md "Disarming Attack (Melee)")或[缴械打击](Disarming_Strike.md "Disarming Strike")需克服两个障碍：首先必须命中沃斯，其次他必须豁免失败。通过[躲藏](Hide.md "躲藏")或[隐形](Invisible.md "Invisible")，配合20敏捷的角色，命中率可轻松达到99%。不幸的是，除了熟练项和属性值的原始加成外，无法额外提升[战斗大师](Battle_Master.md "Battle Master")的战技DC，因此对抗**1d20 + 8/9**的原始DC为**16**，无暴击未命中情况下成功率为**35%（硬核模式30%）**。不过，[力竭](Lethargic_(Condition).md "Lethargic (Condition)")状态会强制沃斯力量豁免失败。可通过向他投掷[加速药水](Potion_of_Speed.md "Potion of Speed")并等待药水效果消失来实现。注意直接向沃斯投掷药水可能触发对话或战斗。
 
 #### 沾蜜利爪
 

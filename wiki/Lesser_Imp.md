@@ -61,15 +61,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔鬼视界**](Devil's_Sight.md "Devil's Sight")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中看到，包括魔法黑暗，最远 24 m (80 ft)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -109,11 +109,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔鬼视界**](Devil's_Sight.md "Devil's Sight")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中看到，包括魔法黑暗，最远 24 m (80 ft)。
 
@@ -153,19 +153,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**魔鬼视界**](Devil's_Sight.md "Devil's Sight")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
 
 可以在黑暗中看到，包括魔法黑暗，最远 24 m (80 ft)。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-**次级小魔鬼**是在[序幕](Prologue.md "Prologue")期间在[鹦鹉螺](Nautiloid.md "Nautiloid")上发现的一种[邪魔](List_of_creature_types.md#Fiend "List of Creature Types")。它们比[其他小魔鬼](Imp.md "Imp")弱得多，属性值可怜，并且缺乏其他邪魔会有的基本[抗性](Damage_types.md "Damage Types")。除了它们的爪击和弱化版的[火焰箭](Fire_Bolt.md "Fire Bolt")，它们还使用各种简单武器。
+**次级小魔鬼**是在[序幕](Prologue.md "Prologue")期间在[鹦鹉螺](Nautiloid.md "Nautiloid")上发现的一种[邪魔](List_of_creature_types.md#Fiend "List of Creature Types")。它们比[小魔鬼](Imp.md "小魔鬼")弱得多，属性值可怜，并且缺乏其他邪魔会有的基本[抗性](Damage_types.md "Damage Types")。除了它们的爪击和弱化版的[火焰箭](Fire_Bolt.md "Fire Bolt")，它们还使用各种简单武器。
 
 ## 战斗
 

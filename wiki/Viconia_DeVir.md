@@ -18,7 +18,7 @@
 
 ### 阵营
 
-[莎尔教会](Shar.md "莎尔")
+[莎尔](Shar.md "莎尔")
 
 ### 家乡
 
@@ -246,7 +246,7 @@ Stats
 1. [↑](#cite_5) 《信仰与万神殿》（3版，2002年）– '莎尔'，第94页，*“莎尔冷酷无情，以沉默奖励成功，以湮灭惩罚失败。被俘或被欺骗的神职人员被视为软弱且可牺牲。”*
 1. [↑](#cite_6) 《毁灭冠军》（3.5版，2005年）– '莎尔教会'，第154页，*“失落的信条要求无情的效率；一次失足就会给莎尔教徒打上不合适的烙印，被自己的同志‘送回黑夜’。”*
 1. [↑](#cite_7) 《信仰与化身》（2版，1996年）– '莎尔'，第138页，*“那些犯错、被敌人俘虏或泄露秘密的人，被认为不配得到莎尔的恩典，会被同伴驱逐或杀害。”*
-1. [↑](#cite_8) 如果影心是暗夜法官且不在队伍中，可以通过通过 DC 30 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定") 来与维康妮亚谈判，说服她在最终战斗中提供帮助，而无需交出影心。然而，在那之后，所有伙伴仍然谴责玩家角色背叛，就好像影心永远从营地消失了。[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")
+1. [↑](#cite_8) 如果影心是暗夜法官且不在队伍中，可以通过通过 DC 30 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定") 来与维康妮亚谈判，说服她在最终战斗中提供帮助，而无需交出影心。然而，在那之后，所有伙伴仍然谴责玩家角色背叛，就好像影心永远从营地消失了。[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")
 1. [↑](#cite_9) 她根据“心之形态”（假心、懦夫心等）获得独特的法术，这些形态是她通过探索玩家角色在 [心之映射](Mapping_of_the_Heart.md "心之映射") 中的特定恐惧而发现的。
 1. [↑](#cite_10) 她在战斗前的最后一句台词 *(小阿鲁尔！为了莎尔！)* 直接引用了她前作中的 [战吼](https://static.wikia.nocookie.net/baldursgategame/images/1/12/VICON03.ogg/revision/latest?cb=20171205032450)，另见 [维康妮亚在博德之门和剑湾传奇中的语录](https://baldursgate.fandom.com/wiki/Viconia_DeVir#quotes)。
 1. [↑](#cite_11) 博德之门维基：[维康妮亚的原始结局](https://baldursgate.fandom.com/wiki/Viconia_DeVir#epilogues)。检索于 2023-10-10。

@@ -77,7 +77,7 @@ Xavier
 
 巨鹰可以[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)")，如果其目标处于[倒伏](Prone_(Condition).md "倒伏 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")状态。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -125,7 +125,7 @@ Xavier
 
 巨鹰可以[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)")，如果其目标处于[倒伏](Prone_(Condition).md "倒伏 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")状态。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -173,7 +173,7 @@ Xavier
 
 巨鹰可以[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)")，如果其目标处于[倒伏](Prone_(Condition).md "倒伏 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")状态。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -213,7 +213,7 @@ Xavier 可以在他的巢穴中被找到。如果在没有使用[动物交谈](S
 [盖尔](Gale_(class_action).md "盖尔 (职业动作)") ()
 拍打雄伟的翅膀制造强风，将生物击退 5 米 / 17 英尺并使其陷入[倒伏](Prone_(Condition).md "倒伏 (状态)")状态。
 
-[敏](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 
 [多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)") ()
 

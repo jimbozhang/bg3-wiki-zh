@@ -12,7 +12,7 @@
 
 最新评论：[2024年1月28日](#c-Nattern-20240127233700-Weapon_Actions_missing_an_entry.)1条评论1人讨论中
 
-如果我没弄错的话，武器动作页面缺少由贝尔姆授予的完美平衡打击条目。该页面已在维基上[此处](Perfectly_Balanced_Strike.md "完美平衡打击")，但未在武器动作页面上列出。
+如果我没弄错的话，武器动作页面缺少由贝尔姆授予的完美平衡打击条目。该页面已在维基上[完美平衡打击](Perfectly_Balanced_Strike.md "完美平衡打击")，但未在武器动作页面上列出。
 
 - 已添加。[Nattern](User_colon_Nattern.md "用户:Nattern") ([讨论](User_talk_colon_Nattern.md "用户讨论:Nattern")) [2024年1月28日 00:37 (CET)](https://bg3.wiki/wiki/Talk:Weapon_actions#c-Nattern-20240127233700-Weapon_Actions_missing_an_entry.)回复
 

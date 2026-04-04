@@ -108,15 +108,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "Advantage") 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "Saving throw")，并对[中毒](Poison.md "Poison")伤害有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -170,15 +170,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "Advantage") 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "Saving throw")，并对[中毒](Poison.md "Poison")伤害有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -232,15 +232,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
 
 [优势](Advantage.md "Advantage") 对抗[中毒](Poisoned_(Condition).md) 的[豁免检定](Saving_throw.md "Saving throw")，并对[中毒](Poison.md "Poison")伤害有[抗性](Resistance.md "Resistance")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -258,7 +258,7 @@ UUID
 
 属性
 
-`DEN_Apprentice` **内蒂**是[翠绿林地结社](Circle_of_the_Emerald_Grove.md "Circle of the Emerald Grove")中的一名[矮人](Dwarven.md "Dwarven")德鲁伊，出现在[第一幕](Act_One.md "Act One")。内蒂是[首席德鲁伊哈尔辛](Halsin.md "Halsin")的学生。在他缺席期间，她是[翠绿林地](Emerald_Grove.md "Emerald Grove")的主要治疗师。
+`DEN_Apprentice` **内蒂**是[翠绿林地结社](Circle_of_the_Emerald_Grove.md "Circle of the Emerald Grove")中的一名[矮人](Dwarven.md "Dwarven")德鲁伊，出现在[第一幕](Act_One.md "Act One")。内蒂是[哈尔辛](Halsin.md "哈尔辛")的学生。在他缺席期间，她是[翠绿林地](Emerald_Grove.md "Emerald Grove")的主要治疗师。
 
 > “
 >
@@ -270,18 +270,18 @@ UUID
 
 ## 目录
 
-- [1 登场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 伙伴好感度](#companion-approval)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-  - [3.2 可拾取战利品](#notable-loot)
-- [4 相关文献](#related-literature)
-- [5 相关任务](#related-quests)
-- [6 死者交谈](#speak-with-dead)
-  - [6.1 如果哈尔辛存活](#if-halsin-is-alive)
-  - [6.2 如果哈尔辛死亡](#if-halsin-is-dead)
-- [7 外部链接](#external-links)
+- [1 登场](#登场)
+  - [1.1 第一幕](#第一幕)
+- [2 伙伴好感度](#伙伴好感度)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+  - [3.2 可拾取战利品](#可拾取战利品)
+- [4 相关文献](#相关文献)
+- [5 相关任务](#相关任务)
+- [6 死者交谈](#死者交谈)
+  - [6.1 如果哈尔辛存活](#如果哈尔辛存活)
+  - [6.2 如果哈尔辛死亡](#如果哈尔辛死亡)
+- [7 外部链接](#外部链接)
 
 ## 登场
 

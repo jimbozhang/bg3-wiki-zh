@@ -14,22 +14,22 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 被洗劫的商队](#ravaged-caravan)
-  - [1.2 困于洞穴](#trapped-in-cave)
-  - [1.3 遇见卡菈克](#meeting-karlach)
-  - [1.4 征收所](#toll-house)
-  - [1.5 征收所地下室](#toll-house-basement)
-- [2 相关地点](#related-locations)
-- [3 相关任务](#related-quests)
-- [4 角色](#characters)
-  - [4.1 可使用死者交谈的角色](#available-to-speak-with-dead)
-- [5 生物](#creatures)
-- [6 战利品](#loot)
-  - [6.1 隐藏宝藏](#hidden-treasures)
-- [7 相关文献](#related-literature)
-- [8 备注](#notes)
-- [9 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 被洗劫的商队](#被洗劫的商队)
+  - [1.2 困于洞穴](#困于洞穴)
+  - [1.3 遇见卡菈克](#遇见卡菈克)
+  - [1.4 征收所](#征收所)
+  - [1.5 征收所地下室](#征收所地下室)
+- [2 相关地点](#相关地点)
+- [3 相关任务](#相关任务)
+- [4 角色](#角色)
+  - [4.1 可使用死者交谈的角色](#可使用死者交谈的角色)
+- [5 生物](#生物)
+- [6 战利品](#战利品)
+  - [6.1 隐藏宝藏](#隐藏宝藏)
+- [7 相关文献](#相关文献)
+- [8 备注](#备注)
+- [9 外部链接](#外部链接)
 
 ## 概述
 
@@ -69,7 +69,7 @@
 
 从外部靠近洞穴时，队伍与豺狼人之间的战斗开始。弗林德冲向最近的队伍成员进行攻击，但在其第一回合与他们建立了精神链接，玩家角色的蝌蚪做出了回应。玩家角色随后有机会改变局势：他们可以通过几次[感知](Wisdom.md "Wisdom")掷骰（使用蝌蚪强迫她吃掉同类只需DC 2）让整个豺狼人群攻击洞穴里的人，或者攻击豺狼人群，从而使弗林德对队伍保持中立。
 
-在初始命令完成后，玩家角色可以再次与弗林德交谈（如果她靠近队伍，她会自动与最近的队伍成员进行对话）。玩家角色然后可以再次使用感知来强迫弗林德自杀、攻击豺狼人群（如果最初没有下令）或逃跑。任何掷骰失败都会使弗林德对队伍保持敌对。如果弗林德被杀死，可以从其尸体上搜刮到[损坏的链枷](Shattered_Flail.md "Shattered Flail")和[寄生虫](Mind_Flayer_Parasite_Specimen.md "Mind Flayer Parasite Specimen")。
+在初始命令完成后，玩家角色可以再次与弗林德交谈（如果她靠近队伍，她会自动与最近的队伍成员进行对话）。玩家角色然后可以再次使用感知来强迫弗林德自杀、攻击豺狼人群（如果最初没有下令）或逃跑。任何掷骰失败都会使弗林德对队伍保持敌对。如果弗林德被杀死，可以从其尸体上搜刮到[损坏的链枷](Shattered_Flail.md "Shattered Flail")和[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")。
 
 如果鲁根和奥利在战斗开始时保持中立，他们会在第一回合撤退到洞穴深处并脱离战斗。
 
@@ -77,11 +77,11 @@
 
 如果从那里进入洞穴，鲁根会认为他们是盟友，并提议一起反击豺狼人。玩家角色可以同意帮助或拒绝，但后者会使幸存者也变得敌对，此外还有野兽。
 
-根据玩家角色在整个事件中做出的选择，他们之后可以与鲁根讨论此事（与他的对话会自动开始），或者如果他没有幸存，则与他的尸体交谈。如果鲁根幸存，队伍可以了解他们正在运送的重要货物，并且成功通过被动DC 10的[历史的](History.md "History")[检定](Ability_Check.md "Ability check")会揭示两人都是[散塔林会](Zhentarim.md "Zhentarim")的特工。
+根据玩家角色在整个事件中做出的选择，他们之后可以与鲁根讨论此事（与他的对话会自动开始），或者如果他没有幸存，则与他的尸体交谈。如果鲁根幸存，队伍可以了解他们正在运送的重要货物，并且成功通过被动DC 10的[历史的](History.md "History")[属性检定](Ability_Check.md "属性检定")会揭示两人都是[散塔林会](Zhentarim.md "Zhentarim")的特工。
 
 然后，队伍可以放走这两人，或者恐吓他们交出货物，或者与他们讨价还价，出售货物并分摊利润。如果对话结果有利，鲁根会告诉队伍[渥金的休眠地](Waukeen's_Rest.md "Waukeen's Rest")中[散塔林会地下室](Zhentarim_Basement.md "Zhentarim Basement")的密码。否则，可以在审问时从他的尸体上得知。<sup>[\[2\]](#cite_note-2)</sup> 从鲁根和奥利那里获得拯救他们的报酬，会为具有[流浪儿](Urchin.md "Urchin")背景的角色授予[雇佣英雄](Urchin.md#Hero_for_Hire "Urchin")激励事件。如果散塔林会被杀死或货物被抢走，打开保险箱并拿走烧瓶会为具有[罪犯](Criminal.md "Criminal")背景的角色授予[惊喜开箱](Criminal.md#Open_for_a_Surprise "Criminal")激励事件。
 
-在洞穴内 X: 37 Y: 644 处，一个上锁的箱子中放着[理智之握](Reason's_Grasp.md "Reason's Grasp")手套。箱子前的小块地面设有[毒气地雷](Blast_Mine.md "Blast Mine")陷阱。洞口附近躺着一具无名的死去的商队特工尸体，手持[迅捷回击](Speedy_Reply.md "Speedy Reply")弯刀。
+在洞穴内 X: 37 Y: 644 处，一个上锁的箱子中放着[理智之握](Reason's_Grasp.md "Reason's Grasp")手套。箱子前的小块地面设有[爆破地雷](Blast_Mine.md "爆破地雷")陷阱。洞口附近躺着一具无名的死去的商队特工尸体，手持[迅捷回击](Speedy_Reply.md "Speedy Reply")弯刀。
 
 ### 遇见卡菈克
 
@@ -176,15 +176,15 @@
 
 ### 隐藏宝藏
 
-- 在 X: 9 Y: 507 处，一块平石在 DC 15 [察觉技能](Perception.md "Perception")[检定](Ability_Check.md "Ability check")下高亮显示。如果拖到一边，会露出一块[血石](Bloodstone.md "Bloodstone")。
-- 在 X: 74 Y: 549 处，桥下有一个埋藏的箱子（需要 DC 18 [求生](Survival.md "Survival")[检定](Ability_Check.md "Ability check")才能探测到）。
-- 在 X: 95 Y: 608 处，靠近塌方处有另一个埋藏的箱子（需要 DC 12 [求生](Survival.md "Survival")[检定](Ability_Check.md "Ability check")才能探测到）。
-- 在 X: -75 Y: 542 处，靠近渥金的休眠地入口和山隘的桥（需要 DC 20 [求生](Survival.md "Survival")[检定](Ability_Check.md "Ability check")才能探测到）。
+- 在 X: 9 Y: 507 处，一块平石在 DC 15 [察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")下高亮显示。如果拖到一边，会露出一块[血石](Bloodstone.md "Bloodstone")。
+- 在 X: 74 Y: 549 处，桥下有一个埋藏的箱子（需要 DC 18 [求生](Survival.md "Survival")[属性检定](Ability_Check.md "属性检定")才能探测到）。
+- 在 X: 95 Y: 608 处，靠近塌方处有另一个埋藏的箱子（需要 DC 12 [求生](Survival.md "Survival")[属性检定](Ability_Check.md "属性检定")才能探测到）。
+- 在 X: -75 Y: 542 处，靠近渥金的休眠地入口和山隘的桥（需要 DC 20 [求生](Survival.md "Survival")[属性检定](Ability_Check.md "属性检定")才能探测到）。
 
 ## 相关文献
 
 - [盾徽骑士团：论法律与正义](Order_of_the_Gauntlet_colon__On_Matters_of_Law_and_Justice.md "Order of the Gauntlet: On Matters of Law and Justice")
-- [散塔林会的领导者](The_Leadership_of_the_Zhentarim.md "The Leadership of the Zhentarim")
+- [《散塔林会的领导者》](The_Leadership_of_the_Zhentarim.md "《散塔林会的领导者》")
 - [疯狂领主，第4卷：伊诺胡](The_Lords_of_Madness,_Vol_4_colon__Yeenoghu.md "The Lords of Madness, Vol 4: Yeenoghu")
 - [征收所账簿](Tollhouse_Ledger_(Risen_Road).md "Tollhouse Ledger (Risen Road)")
 - [剑湾旅行者指南 第四卷：晋升之路](Traveller's_Guide_to_the_Sword_Coast_Vol._IV_colon__The_Risen_Road.md "Traveller's Guide to the Sword Coast Vol. IV: The Risen Road")

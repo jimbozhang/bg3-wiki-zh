@@ -99,7 +99,7 @@
 
 - ## 特性
 
-- [**警觉**](Alert.md "Alert")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "Initiative") +5，且不会[受惊](Surprised.md "Surprised")。
 
@@ -107,15 +107,15 @@
 
 可以使用[诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对抗[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -167,7 +167,7 @@
 
 - ## 特性
 
-- [**警觉**](Alert.md "Alert")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "Initiative") +5，且不会[受惊](Surprised.md "Surprised")。
 
@@ -175,15 +175,15 @@
 
 可以使用[诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对抗[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -235,7 +235,7 @@
 
 - ## 特性
 
-- [**警觉**](Alert.md "Alert")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "Initiative") +5，且不会[受惊](Surprised.md "Surprised")。
 
@@ -243,15 +243,15 @@
 
 可以使用[诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**勇敢**](Brave.md "Brave")
+- [勇敢](Brave.md "勇敢")
 
 对抗[恐慌](Frightened.md "Frightened")的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
 
 当在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出1时，重掷一次并使用新结果。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -303,7 +303,7 @@ UUID
 
 ## 特性
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后，恢复所有[诗人激励](Bardic_Inspiration_(resource).md)。
 
@@ -339,7 +339,7 @@ UUID
 
 ## 特性
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后，恢复所有[诗人激励](Bardic_Inspiration_(resource).md)。
 
@@ -375,7 +375,7 @@ UUID
 
 ## 特性
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后，恢复所有[诗人激励](Bardic_Inspiration_(resource).md)。
 
@@ -417,11 +417,11 @@ UUID
 
 ## 特性
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你使用你[重甲的](Proficient.md "Proficient")的[技能](Skill.md "Skill")进行[属性检定](Ability_Check.md "Ability Check")时，你掷骰的最低结果为10。
 
@@ -453,11 +453,11 @@ UUID
 
 ## 特性
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你使用你[重甲的](Proficient.md "Proficient")的[技能](Skill.md "Skill")进行[属性检定](Ability_Check.md "Ability Check")时，你掷骰的最低结果为10。
 
@@ -489,11 +489,11 @@ UUID
 
 ## 特性
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你使用你[重甲的](Proficient.md "Proficient")的[技能](Skill.md "Skill")进行[属性检定](Ability_Check.md "Ability Check")时，你掷骰的最低结果为10。
 
@@ -589,7 +589,7 @@ UUID
 [妖火](Faerie_Fire.md "妖火") (+ )
 
 [人类定身术](Hold_Person.md "Hold Person") (+ )
-定住一个类人生物敌人。他们不能[移动](Movement_speed.md "Movement Speed")、[行动](Action.md "Action")或[反应](Reaction_(Resource).md)。3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")以结束此状态。
+定住一个类人生物敌人。他们不能[移动](Movement_speed.md "Movement Speed")、[动作](Action.md "动作")或[反应](Reaction_(Resource).md)。3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")以结束此状态。
 
 [隐形](Invisible_(Condition).md) 如果隐形实体攻击、施放另一个法术、与物体互动、采取动作或附赠动作，或受到伤害，则提前结束。_\[[参见笔记](Invisibility_(spell).md#Notes).md#Notes> "隐形 (法术)")\]_
 

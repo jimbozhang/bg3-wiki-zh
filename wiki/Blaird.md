@@ -87,15 +87,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
@@ -103,7 +103,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再减缓你的速度。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -153,15 +153,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
@@ -169,7 +169,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再减缓你的速度。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -219,15 +219,15 @@
 
 - - - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
@@ -235,7 +235,7 @@
 
 你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再减缓你的速度。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -257,19 +257,19 @@ Stats
 
 ## 目录
 
-- [1 参与情况](#involvement)
-  - [1.1 巴尔神殿](#temple-of-bhaal)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 盟友](#allies)
-  - [2.3 值得一提的战利品](#notable-loot)
-- [3 注释](#notes)
+- [1 参与情况](#参与情况)
+  - [1.1 巴尔神殿](#巴尔神殿)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 盟友](#盟友)
+  - [2.3 值得一提的战利品](#值得一提的战利品)
+- [3 注释](#注释)
 
 ## 参与情况
 
 ### 巴尔神殿
 
-如果邪念击败[腥红奥林](Orin.md "腥红奥林")并拥抱巴尔的馈赠，成为后者的选民，[竖琴手同盟](Harpers.md "竖琴手同盟")会在[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")入口处设下埋伏，前提是[贾希拉](Jaheira.md "贾希拉")还活着。<sup>[\[2\]](#cite_note-2)</sup>
+如果邪念击败[奥林](Orin.md "奥林")并拥抱巴尔的馈赠，成为后者的选民，[竖琴手同盟](Harpers.md "竖琴手同盟")会在[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")入口处设下埋伏，前提是[贾希拉](Jaheira.md "贾希拉")还活着。<sup>[\[2\]](#cite_note-2)</sup>
 
 在贾希拉的带领下，由[明斯克](Minsc.md "明斯克")（如果被救出）陪同，竖琴手同盟成员守卫在通往神殿外的桥梁上，阻止队伍离开。队伍随后与贾希拉就邪念作为[巴尔](Bhaal.md "巴尔")选民的角色进行简短交流，如果明斯克在场，可以通过他的[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")灵能控制他从背后刺伤贾希拉。这样做会立即杀死贾希拉，并触发与明斯克、布莱尔德和其他竖琴手同盟成员的战斗。
 

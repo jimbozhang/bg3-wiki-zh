@@ -62,15 +62,15 @@
 
 - - - - - - ## 特性
 
-- [**虚无形态**](Ethereal.md "虚无形态")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -116,15 +116,15 @@
 
 - - - - - - ## 特性
 
-- [**虚无形态**](Ethereal.md "虚无形态")
+- [虚无形态](Ethereal.md "虚无形态")
 
 无法被推击、投掷或用作即兴近战武器。
 
-- [**永久武装**](Permanently_Armed.md "永久武装")
+- [永久武装](Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -136,12 +136,12 @@
 
 ## 目录
 
-- [1 关于风元素执政官](#about-air-myrmidons)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 注释](#notes)
-- [4 画廊](#gallery)
-- [5 外部链接](#external-links)
+- [1 关于风元素执政官](#关于风元素执政官)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 注释](#注释)
+- [4 画廊](#画廊)
+- [5 外部链接](#外部链接)
 
 ## 关于风元素执政官
 

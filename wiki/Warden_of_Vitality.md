@@ -1,10 +1,10 @@
 # 活力监守
 
-**活力监守**是一个[等级 3 塑能学派法术](Spells.md "Spells")。它允许施法者使用[恢复活力](Restore_Vitality.md "Restore Vitality")反复治疗盟友，仅需附赠动作，持续 10 驱散。
+**活力监守**是一个[法术](Spells.md "法术")。它允许施法者使用[恢复活力](Restore_Vitality.md "Restore Vitality")反复治疗盟友，仅需附赠动作，持续 10 驱散。
 
 ## 描述
 
-当此光环持续时，您可以将[恢复活力](Restore_Vitality.md "Restore Vitality")作为[附赠动作](Actions.md#Resources "Actions")施放，以 2d6⁠⁠[生命值](Healing.md "Healing") 治疗自己或附近的盟友。
+当此光环持续时，您可以将[恢复活力](Restore_Vitality.md "Restore Vitality")作为[附赠动作](Actions.md#Resources "Actions")施放，以 2d6⁠⁠[治疗](Healing.md "治疗") 治疗自己或附近的盟友。
 
 ## 属性
 

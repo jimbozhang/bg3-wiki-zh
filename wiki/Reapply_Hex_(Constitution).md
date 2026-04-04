@@ -2,11 +2,11 @@
 
 另请参阅：[脆弱诅咒](Hex.md "Hex") 和 [再度施展脆弱诅咒](Reapply_Hex.md "Reapply Hex")
 
-**再度诅咒（体质）** 是一个附赠动作，允许[脆弱诅咒](Hex.md "Hex")的施法者在不消耗额外法术位的情况下，将诅咒转移到新目标上。只要维持对脆弱诅咒的[专注](Concentration.md "Concentration")，在先前目标死亡后即可获得此动作。此诅咒变体使目标在进行体质[检定](Ability_Check.md "Ability check")时处于[劣势](Disadvantage.md "Disadvantage")（但不影响[豁免检定](Saving_throw.md "Saving throw")）。
+**再度诅咒（体质）** 是一个附赠动作，允许[脆弱诅咒](Hex.md "Hex")的施法者在不消耗额外法术位的情况下，将诅咒转移到新目标上。只要维持对脆弱诅咒的[专注](Concentration.md "Concentration")，在先前目标死亡后即可获得此动作。此诅咒变体使目标在进行体质[属性检定](Ability_Check.md "属性检定")时处于[劣势](Disadvantage.md "Disadvantage")（但不影响[豁免检定](Saving_throw.md "Saving throw")）。
 
 ## 描述
 
-当你攻击目标时，额外造成 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使目标在进行[体质](Constitution.md "Constitution")[检定](Ability_Check.md "Ability Check")时处于[劣势](Disadvantage.md "Disadvantage")。
+当你攻击目标时，额外造成 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使目标在进行[体质](Constitution.md "Constitution")[属性检定](Ability_Check.md "属性检定")时处于[劣势](Disadvantage.md "Disadvantage")。
 
 ## 属性
 

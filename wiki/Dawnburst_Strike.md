@@ -19,7 +19,7 @@
 
 详情
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
 范围：普通武器范围
 区域效果：3 米（10 英尺）半径
 充能：[短休](Short_rest.md "短休")
@@ -41,7 +41,7 @@ UID
 
 持续时间：3 驱散
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰") + 2）
 
 - 受影响的生物在 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。
 - 受影响的生物的攻击和法术范围缩小至 3 米（10 英尺）。

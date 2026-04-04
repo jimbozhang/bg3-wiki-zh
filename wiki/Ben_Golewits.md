@@ -78,7 +78,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -126,7 +126,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -174,7 +174,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -192,15 +192,15 @@ UUID
 
 属性
 
-`Human_Commoner` **本·戈莱维茨**是生活在[阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸")的[人类](Human.md "人类")难民，位于[第三幕](Act_Three.md "第三幕")。他与妻子[马尔帕](Marpha_Golewits.md "马尔帕·戈莱维茨")和女儿[辛塔](Cinta_Golewits.md "辛塔·戈莱维茨")一起被发现非法占据着这所房子。
+`Human_Commoner` **本·戈莱维茨**是生活在[阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸")的[人类](Human.md "人类")难民，位于[第三幕](Act_Three.md "第三幕")。他与妻子[马尔帕·戈莱维茨](Marpha_Golewits.md "马尔帕·戈莱维茨")和女儿[辛塔·戈莱维茨](Cinta_Golewits.md "辛塔·戈莱维茨")一起被发现非法占据着这所房子。
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 备注](#notes)
+- [1 参与度](#参与度)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 备注](#备注)
 
 ## 参与度
 

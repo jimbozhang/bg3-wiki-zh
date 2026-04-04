@@ -2,7 +2,7 @@
 
 **奴役恩赐**
 
-- [护甲等级](Armour_Class.md "Armour Class") 提升 2。每[驱散](Conditions.md#Duration "Conditions")恢复 2d4+施法调整值⁠⁠[生命值](Healing.md "Healing")。
+- [护甲等级](Armour_Class.md "Armour Class") 提升 2。每[驱散](Conditions.md#Duration "Conditions")恢复 2d4+施法调整值⁠⁠[治疗](Healing.md "治疗")。
 
 ## 属性
 
@@ -18,7 +18,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- [护甲等级](Armour_Class.md "Armour Class") 提升 2。每[驱散](Conditions.md#Duration "Conditions")恢复 2d4+施法调整值⁠⁠[生命值](Healing.md "Healing")。
+- [护甲等级](Armour_Class.md "Armour Class") 提升 2。每[驱散](Conditions.md#Duration "Conditions")恢复 2d4+施法调整值⁠⁠[治疗](Healing.md "治疗")。
 
 ---
 *Source: [Boon of Servitude (Condition)](https://bg3.wiki/wiki/Boon_of_Servitude_(Condition)*

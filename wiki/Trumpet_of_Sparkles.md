@@ -15,7 +15,7 @@
 4d8⁠[光耀](Radiant.md "光耀")
 
 详情
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）（豁免成功时：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）（豁免成功时：目标仍承受一半伤害。）
 范围：6米（20英尺）锥形
 目标：锥形范围内所有非盟友生物
 

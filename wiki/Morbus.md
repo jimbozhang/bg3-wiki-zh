@@ -90,11 +90,11 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以 1 点生命值复活。
 
@@ -128,10 +128,10 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 相关任务](#related-quests)
-- [3 参见](#see-also)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 相关任务](#相关任务)
+- [3 参见](#参见)
+- [4 外部链接](#外部链接)
 
 ## 出场
 

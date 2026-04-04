@@ -81,7 +81,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -89,7 +89,7 @@
 
 如果目标处于[伏击](Ambushed_(Condition).md "伏击 (状态)")状态，可进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -137,7 +137,7 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
@@ -145,7 +145,7 @@
 
 如果目标处于[伏击](Ambushed_(Condition).md "伏击 (状态)")状态，可进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -193,11 +193,11 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**读心者**](Mindreader.md "读心者")
+- [读心者](Mindreader.md "读心者")
 
 远程攻击对该生物具有[劣势](Disadvantage.md "劣势")。
 
@@ -205,7 +205,7 @@
 
 如果目标处于[伏击](Ambushed_(Condition).md "伏击 (状态)")状态，可进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -237,26 +237,26 @@ UUID
 
 属性
 
-`Dwarf_Caster` **加佛**，伪装成**竖琴手索诺斯**，是一个[变形怪](Doppelganger.md "Doppelganger")，冒充[黄金矮人](Gold_Dwarf.md "黄金矮人")成为[竖琴手同盟](Harpers.md "竖琴手同盟")的一员。索诺斯最初的任务是调查城市中的[巴尔信徒活动](Bhaal.md "巴尔")，并寻找[疯狂的拉什玛尔](Minsc.md "明斯克")的下落，但他在一段时间前被杀害并被冒充。
+`Dwarf_Caster` **加佛**，伪装成**竖琴手索诺斯**，是一个[变形怪](Doppelganger.md "Doppelganger")，冒充[黄金矮人](Gold_Dwarf.md "黄金矮人")成为[竖琴手同盟](Harpers.md "竖琴手同盟")的一员。索诺斯最初的任务是调查城市中的[巴尔](Bhaal.md "巴尔")，并寻找[明斯克](Minsc.md "明斯克")的下落，但他在一段时间前被杀害并被冒充。
 
 ## 目录
 
-- [1 历史](#history)
-  - [1.1 巴尔信徒复苏](#bhaalist-resurgence)
-- [2 参与](#involvement)
-  - [2.1 巴尔信徒伏击](#bhaalist-ambush)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-- [4 战利品](#loot)
-- [5 相关任务](#related-quests)
-- [6 注释](#notes)
-- [7 参考文献](#references)
+- [1 历史](#历史)
+  - [1.1 巴尔信徒复苏](#巴尔信徒复苏)
+- [2 参与](#参与)
+  - [2.1 巴尔信徒伏击](#巴尔信徒伏击)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+- [4 战利品](#战利品)
+- [5 相关任务](#相关任务)
+- [6 注释](#注释)
+- [7 参考文献](#参考文献)
 
 ## 历史
 
 ### 巴尔信徒复苏
 
-在[博德之门](Baldur's_Gate.md "博德之门")出现[巴尔信徒活动](Bhaal.md "巴尔")的传言后，[贾希拉](Jaheira.md "贾希拉")命令她的竖琴手们调查巴尔邪教的阴谋，尽可能多地揭露信息，而她则率领另一支竖琴手部队进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")以击败[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")。然而，当贾希拉命令竖琴手们集中精力寻找[拉什玛尔](Minsc.md "明斯克")时，索诺斯和他的竖琴手小组要么被杀，要么被俘，最终被带到[奥林](Orin.md "奥林")。
+在[博德之门](Baldur's_Gate.md "博德之门")出现[巴尔](Bhaal.md "巴尔")的传言后，[贾希拉](Jaheira.md "贾希拉")命令她的竖琴手们调查巴尔邪教的阴谋，尽可能多地揭露信息，而她则率领另一支竖琴手部队进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")以击败[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")。然而，当贾希拉命令竖琴手们集中精力寻找[明斯克](Minsc.md "明斯克")时，索诺斯和他的竖琴手小组要么被杀，要么被俘，最终被带到[奥林](Orin.md "奥林")。
 
 该竖琴手小组的唯一幸存者，一位名叫[杰拉尔杜斯](Geraldus.md "杰拉尔杜斯")的新兵，将被用作诱饵，引诱贾希拉和队伍前来接触，企图伏击并灭口<sup>[\[1\]](#cite_note-1)</sup>。
 
@@ -268,7 +268,7 @@ UUID
 
 在[飞龙关](Wyrm's_Crossing.md "飞龙关")与贾希拉同行时，她指出[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")，一家由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")经营的商店，是竖琴手安全屋的掩护。在商店下方的一个密室中，伪装成索诺斯的[切尔文](Chelvin.md "切尔文")、[莱斯廷](Leistine.md "莱斯廷")和[莱辛](Leysin.md "莱辛")正等待伏击贾希拉和队伍。
 
-当队伍和贾希拉抵达时，[杰拉尔杜斯](Geraldus.md "杰拉尔杜斯")试图通过使用旧的竖琴手暗号来传达在场的[竖琴手](Harpers.md "竖琴手同盟")是[叛徒](Doppelganger.md "变形怪")。如果贾希拉在队伍中，她会理解暗号并向队伍提到伪装的切尔文看起来很眼熟，让她想起了[马库斯](Marcus_Falgor.md "马库斯·法尔戈")。未能识别暗号会导致队伍进入[受惊](Surprised_(Condition).md "受惊 (状态)")状态并开始战斗，而识别暗号并采取行动则会使伪装的竖琴手们措手不及。
+当队伍和贾希拉抵达时，[杰拉尔杜斯](Geraldus.md "杰拉尔杜斯")试图通过使用旧的竖琴手暗号来传达在场的[竖琴手](Harpers.md "竖琴手同盟")是[变形怪](Doppelganger.md "变形怪")。如果贾希拉在队伍中，她会理解暗号并向队伍提到伪装的切尔文看起来很眼熟，让她想起了[马库斯](Marcus_Falgor.md "马库斯·法尔戈")。未能识别暗号会导致队伍进入[受惊](Surprised_(Condition).md "受惊 (状态)")状态并开始战斗，而识别暗号并采取行动则会使伪装的竖琴手们措手不及。
 
 ## 战斗
 

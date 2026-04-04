@@ -2,7 +2,7 @@
 
 **沉浸极乐**
 
-- 被巨大的喜悦攫取，受影响实体精力更充沛，同时精神上也更顺从。实体在物理[检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，在精神[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 被巨大的喜悦攫取，受影响实体精力更充沛，同时精神上也更顺从。实体在物理[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "优势")，在精神[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 实体对[心灵](Psychic.md "心灵")伤害也[易伤](Damage_types.md#Vulnerability "伤害类型")。
 
 ## 属性
@@ -15,7 +15,7 @@
 
 ## 备注
 
-- 物理[检定](Ability_Check.md "属性检定")包括[力量](Strength.md "力量")、[体质](Constitution.md "体质")和[敏捷](Dexterity.md "敏捷")。
+- 物理[属性检定](Ability_Check.md "属性检定")包括[力量](Strength.md "力量")、[体质](Constitution.md "体质")和[敏捷](Dexterity.md "敏捷")。
 - 精神[豁免检定](Saving_throw.md "豁免检定")包括[智力](Intelligence.md "智力")、[感知](Wisdom.md "感知")和[魅力](Charisma.md "魅力")。
 - 虽然游戏中未提及，但[不死生物](Undead.md "不死生物")和[构装生物](Construct.md "构装生物")对沉浸极乐免疫。
 

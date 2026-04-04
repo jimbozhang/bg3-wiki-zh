@@ -1,6 +1,6 @@
 # 地狱骑士团长弓
 
-地狱骑士团长弓是一件稀有度为“精良”的+1 [长弓](Longbows.md "长弓")，能为使用者提供高额的[先攻](Initiative.md "先攻")加成和[优势](Advantage.md "优势")进行[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")。在攻击命中时，它还可能对目标施加[妖火](Faerie_Fire_(Condition).md) 状态。
+地狱骑士团长弓是一件稀有度为“精良”的+1 [长弓](Longbows.md "长弓")，能为使用者提供高额的[先攻](Initiative.md "先攻")加成和[优势](Advantage.md "优势")进行[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")。在攻击命中时，它还可能对目标施加[妖火](Faerie_Fire_(Condition).md) 状态。
 
 这把长弓由银剑斯坦尼斯拉夫的盾牌残骸锻造而成，于数年前在[城堡拉文洛夫](https://forgottenrealms.fandom.com/wiki/Castle_Ravenloft)的废墟附近被发现。
 
@@ -24,7 +24,7 @@ UID `MAG_WYR_Hellrider_Longbow` UUID `75c90d55-c262-446d-937c-8adbef1e3e93` Stat
 **持有此物品者获得：**
 
 [加强感知](Heightened_Awareness.md "加强感知")
-[先攻](Initiative.md "先攻")掷骰获得+3加成，并在进行[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+[先攻](Initiative.md "先攻")掷骰获得+3加成，并在进行[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 [邪魔火焰](Fiendish_Fire.md "邪魔火焰")
 每回合一次，被此武器击中的生物可能遭受[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")效果。

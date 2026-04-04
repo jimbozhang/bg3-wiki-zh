@@ -1,6 +1,6 @@
 # 紫虫粘液悬液
 
-**紫虫粘液悬液**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[紫虫毒素](Purple_Worm_Toxin.md "紫虫毒素")。
+**紫虫粘液悬液**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[酸解物](Alchemy.md#Extractions "炼金术")结合，以制造[紫虫毒素](Purple_Worm_Toxin.md "紫虫毒素")。
 
 ⁠[紫虫](https://forgottenrealms.fandom.com/wiki/Purple_worm) 会被声波振动吸引。⁠[卓尔](https://forgottenrealms.fandom.com/wiki/Drow) 和 ⁠[灰矮人](https://forgottenrealms.fandom.com/wiki/duergar) 聚居地会建立特殊的[奥术屏障](Arcane_Barrier.md "奥术屏障")，以阻止这些可怕怪物的入侵。
 

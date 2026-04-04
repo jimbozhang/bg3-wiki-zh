@@ -1,6 +1,6 @@
 # 看守的小费
 
-**看守的小费**是一个[等级 5 法术](Spells.md "Spells")。它在[硬核](Tactician.md "Tactician")难度下为[赫尔希克](Helsik.md "Helsik")独有，并能[缴械](Disarm.md "Disarm")目标。队伍成员无法学习此法术。
+**看守的小费**是一个[法术](Spells.md "法术")。它在[硬核](Tactician.md "Tactician")难度下为[赫尔希克](Helsik.md "Helsik")独有，并能[缴械](Disarm.md "Disarm")目标。队伍成员无法学习此法术。
 
 ## 描述
 

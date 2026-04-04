@@ -23,11 +23,11 @@ Race/class modding
 
 ## 目录
 
-- [1 如何查找网格名称](#how-to-find-the-mesh-name)
-- [2 使用网格名称查找 GTexFileName](#finding-the-gtexfilename-with-the-mesh-name)
-- [3 使用 Multitool 解包](#unpacking-using-multitool)
-- [4 Lslib](#lslib)
-- [5 记住 Mipmaps](#remember-mipmaps)
+- [1 如何查找网格名称](#如何查找网格名称)
+- [2 使用网格名称查找 GTexFileName](#使用网格名称查找-GTexFileName)
+- [3 使用 Multitool 解包](#使用-Multitool-解包)
+- [4 Lslib](#Lslib)
+- [5 记住 Mipmaps](#记住-Mipmaps)
 
 ### 如何查找网格名称
 

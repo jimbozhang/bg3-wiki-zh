@@ -100,47 +100,47 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")，且不会被[受惊](Surprised.md "受惊")。
 
-- [**平衡**](Balance.md "平衡")
+- [平衡](Balance.md "平衡")
 
 获得+1 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")和[属性检定](Ability_Check.md "属性检定")加值。
 
-- [**匕首专家**](Dagger_Specialist.md "匕首专家")
+- [匕首专家](Dagger_Specialist.md "匕首专家")
 
 此生物每回合可投掷最多3把匕首。
 
-- [**匕首投掷者**](Dagger_Thrower.md "匕首投掷者")
+- [匕首投掷者](Dagger_Thrower.md "匕首投掷者")
 
 此生物使用匕首进行远程攻击时，其造成的伤害会获得双倍[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**孤立猎物**](Isolated_Prey.md "孤立猎物")
+- [孤立猎物](Isolated_Prey.md "孤立猎物")
 
 此生物对5米内没有盟友的目标进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你使用你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")进行[属性检定](Ability_Check.md "属性检定")时，你骰子的最低结果为10。
 
-- [**隐匿**](Stealthy.md "隐匿")
+- [隐匿](Stealthy.md "隐匿")
 
 +1 [隐匿](Stealth.md "隐匿")。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可使用[反应](Reaction.md "反应")将一次命中造成的伤害减半。
 
@@ -188,47 +188,47 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")，且不会被[受惊](Surprised.md "受惊")。
 
-- [**平衡**](Balance.md "平衡")
+- [平衡](Balance.md "平衡")
 
 获得+1 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")和[属性检定](Ability_Check.md "属性检定")加值。
 
-- [**匕首专家**](Dagger_Specialist.md "匕首专家")
+- [匕首专家](Dagger_Specialist.md "匕首专家")
 
 此生物每回合可投掷最多3把匕首。
 
-- [**匕首投掷者**](Dagger_Thrower.md "匕首投掷者")
+- [匕首投掷者](Dagger_Thrower.md "匕首投掷者")
 
 此生物使用匕首进行远程攻击时，其造成的伤害会获得双倍[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**孤立猎物**](Isolated_Prey.md "孤立猎物")
+- [孤立猎物](Isolated_Prey.md "孤立猎物")
 
 此生物对5米内没有盟友的目标进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你使用你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")进行[属性检定](Ability_Check.md "属性检定")时，你骰子的最低结果为10。
 
-- [**隐匿**](Stealthy.md "隐匿")
+- [隐匿](Stealthy.md "隐匿")
 
 +1 [隐匿](Stealth.md "隐匿")。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可使用[反应](Reaction.md "反应")将一次命中造成的伤害减半。
 
@@ -276,47 +276,47 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")，且不会被[受惊](Surprised.md "受惊")。
 
-- [**平衡**](Balance.md "平衡")
+- [平衡](Balance.md "平衡")
 
 获得+1 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")和[属性检定](Ability_Check.md "属性检定")加值。
 
-- [**匕首专家**](Dagger_Specialist.md "匕首专家")
+- [匕首专家](Dagger_Specialist.md "匕首专家")
 
 此生物每回合可投掷最多3把匕首。
 
-- [**匕首投掷者**](Dagger_Thrower.md "匕首投掷者")
+- [匕首投掷者](Dagger_Thrower.md "匕首投掷者")
 
 此生物使用匕首进行远程攻击时，其造成的伤害会获得双倍[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 
-- [**反射闪避**](Evasion.md "反射闪避")
+- [反射闪避](Evasion.md "反射闪避")
 
 成功的敏捷豁免检定使伤害无效；失败的敏捷豁免检定使伤害减半。
 
-- [**快手**](Fast_Hands.md "快手")
+- [快手](Fast_Hands.md "快手")
 
 获得额外的[附赠动作](Bonus_action.md "附赠动作")。
 
-- [**孤立猎物**](Isolated_Prey.md "孤立猎物")
+- [孤立猎物](Isolated_Prey.md "孤立猎物")
 
 此生物对5米内没有盟友的目标进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**可靠才能**](Reliable_Talent.md "可靠才能")
+- [可靠才能](Reliable_Talent.md "可靠才能")
 
 当你使用你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")进行[属性检定](Ability_Check.md "属性检定")时，你骰子的最低结果为10。
 
-- [**隐匿**](Stealthy.md "隐匿")
+- [隐匿](Stealthy.md "隐匿")
 
 +1 [隐匿](Stealth.md "隐匿")。
 
-- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 可使用[反应](Reaction.md "反应")将一次命中造成的伤害减半。
 
@@ -346,15 +346,15 @@ Stats
 
 ## 目录
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 画廊](#gallery)
-- [6 注释](#notes)
-- [7 外部链接](#external-links)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 画廊](#画廊)
+- [6 注释](#注释)
+- [7 外部链接](#外部链接)
 
 ## 参与
 

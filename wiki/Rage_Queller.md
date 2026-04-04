@@ -76,37 +76,37 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**魅惑**](Charm.md "魅惑")
+- [魅惑](Charm.md "魅惑")
 
 可[魅惑](Charmed_(Condition).md) 攻击的敌人，阻止其在下一回合前进行进一步攻击。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的[敏捷](Dexterity.md "敏捷")豁免检定中具有优势。不能被目盲或失能。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，且不会被[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧狂暴**](Relentless_Rage.md "坚韧狂暴")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
 
-每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒 (状态)")状态下生命值降至 0，你将恢复 1⁠⁠[生命值](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地 (状态)")。
+每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒 (状态)")状态下生命值降至 0，你将恢复 1⁠⁠[治疗](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地 (状态)")。
 
 - [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
@@ -160,37 +160,37 @@
 
 ## 特性
 
-- [**凶蛮重击**](Brutal_Critical.md "凶蛮重击")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
 
 你受过训练，能迅速而精准地打击。当你造成[重击](Critical_Hit.md "重击")时，除了正常的额外重击骰外，你还会投掷一个额外的伤害骰。
 
-- [**魅惑**](Charm.md "魅惑")
+- [魅惑](Charm.md "魅惑")
 
 可[魅惑](Charmed_(Condition).md) 攻击的敌人，阻止其在下一回合前进行进一步攻击。
 
-- [**危机感知**](Danger_Sense.md "危机感知")
+- [危机感知](Danger_Sense.md "危机感知")
 
 在对抗陷阱、法术、地表的[敏捷](Dexterity.md "敏捷")豁免检定中具有优势。不能被目盲或失能。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**快速移动**](Fast_Movement.md "快速移动")
+- [快速移动](Fast_Movement.md "快速移动")
 
 当不穿戴[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
 
-- [**野性直觉**](Feral_Instinct.md "野性直觉")
+- [野性直觉](Feral_Instinct.md "野性直觉")
 
 你的先攻值增加 +3，且不会被[受惊](Surprised.md "受惊")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**坚韧狂暴**](Relentless_Rage.md "坚韧狂暴")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
 
-每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒 (状态)")状态下生命值降至 0，你将恢复 1⁠⁠[生命值](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地 (状态)")。
+每[短休](Short_rest.md "短休")一次，如果你在[激怒](Rage_(Condition).md "激怒 (状态)")状态下生命值降至 0，你将恢复 1⁠⁠[治疗](Healing.md "治疗")，而不是[倒地](Downed_(Condition).md "倒地 (状态)")。
 
 - [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
@@ -200,10 +200,10 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-- [3 战利品](#loot)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+- [3 战利品](#战利品)
 
 ## 出场
 

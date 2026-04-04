@@ -10,34 +10,34 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 副职](#subclasses)
-- [3 职业进阶](#class-progression)
-- [4 职业信息](#class-information)
-  - [4.1 属性](#attributes)
-  - [4.2 初始熟练项](#starting-proficiencies)
-  - [4.3 多职业熟练项](#multiclass-proficiencies)
-- [5 等级进阶](#level-progression)
-  - [5.1 等级 1](#level-1)
-  - [5.2 等级 2](#level-2)
+- [1 概述](#概述)
+- [2 副职](#副职)
+- [3 职业进阶](#职业进阶)
+- [4 职业信息](#职业信息)
+  - [4.1 属性](#属性)
+  - [4.2 初始熟练项](#初始熟练项)
+  - [4.3 多职业熟练项](#多职业熟练项)
+- [5 等级进阶](#等级进阶)
+  - [5.1 等级 1](#等级-1)
+  - [5.2 等级 2](#等级-2)
   - [5.3 等级 3](#level-3)
-    - [5.3.1 选择副职](#select-a-subclass)
-  - [5.4 等级 4](#level-4)
-  - [5.5 等级 5](#level-5)
-    - [5.5.1 副职特性](#subclass-features)
+    - [5.3.1 选择副职](#选择副职)
+  - [5.4 等级 4](#等级-4)
+  - [5.5 等级 5](#等级-5)
+    - [5.5.1 副职特性](#副职特性)
   - [5.6 等级 6](#level-6)
-  - [5.7 等级 7](#level-7)
-    - [5.7.1 副职特性](#subclass-features-2)
-  - [5.8 等级 8](#level-8)
-  - [5.9 等级 9](#level-9)
-    - [5.9.1 副职特性](#subclass-features-3)
+  - [5.7 等级 7](#等级-7)
+    - [5.7.1 副职特性](#副职特性)
+  - [5.8 等级 8](#等级-8)
+  - [5.9 等级 9](#等级-9)
+    - [5.9.1 副职特性](#副职特性)
   - [5.10 等级 10](#level-10)
-  - [5.11 等级 11](#level-11)
-    - [5.11.1 副职特性](#subclass-features-4)
-  - [5.12 等级 12](#level-12)
-- [6 著名游侠](#notable-rangers)
-- [7 参见](#see-also)
-- [8 外部链接](#external-links)
+  - [5.11 等级 11](#等级-11)
+    - [5.11.1 副职特性](#副职特性)
+  - [5.12 等级 12](#等级-12)
+- [6 著名游侠](#著名游侠)
+- [7 参见](#参见)
+- [8 外部链接](#外部链接)
 
 ## 概述
 
@@ -89,7 +89,7 @@
 [盾牌](Shields.md "盾牌")
 技能熟练项（选择 3 项）
 [驯兽](Animal_Handling.md "驯兽")、[运动](Athletics.md "运动")、[洞悉](Insight.md "洞悉")、[调查](Investigation.md "调查")、[自然](Nature.md "自然")、[察觉技能](Perception.md "察觉技能")、[隐匿](Stealth.md "隐匿")、[求生](Survival.md "求生")
-你获得每个你[熟练](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。角色等级 1 时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为 +2。
+你获得每个你[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。角色等级 1 时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为 +2。
 初始装备
 [短弓](Shortbow.md "短弓")、[皮甲](Leather_Armour.md "皮甲")（绿色变体）、[皮靴](Leather_Boots.md "皮靴")、[寒冰箭](Arrow_of_Ice.md "寒冰箭")
 
@@ -125,9 +125,9 @@
 | [城市追踪者](Urban_Tracker.md "城市追踪者") | 你擅长在城市中穿行荒野，获得[巧手](Sleight_of_Hand.md "巧手")的[熟练项](Proficiency.md "熟练项")。 | [巧手](Sleight_of_Hand.md "巧手")熟练项 |
 | [荒野漫游者：寒冷](Wasteland_Wanderer_colon__Cold.md "荒野漫游者：寒冷") | 你曾在荒凉的冻原上度过了无数求生日。获得对⁠[寒冷](Cold.md "寒冷")伤害的[抗性](Damage_Types#Resistance.md#Resistance "伤害类型")，仅承受一半伤害。 | ⁠[寒冷](Cold.md "寒冷")[抗性](Damage_Types#Resistance.md#Resistance "伤害类型") |
 | [荒野漫游者：火焰](Wasteland_Wanderer_colon__Fire.md "荒野漫游者：火焰") | 你曾在险恶的沙漠中度过了无数求生日。获得对⁠[火焰](Fire.md "火焰")的[抗性](Damage_Types#Resistance.md#Resistance "伤害类型")，仅承受一半伤害。 | ⁠[火焰](Fire.md "火焰")[抗性](Damage_Types#Resistance.md#Resistance "伤害类型") |
-| [荒野漫游者：毒素](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素") | 你曾在恶臭的沼泽中度过了无数求生日。获得对⁠[毒素](Poison.md "毒素")的[抗性](Damage_Types#Resistance.md#Resistance "伤害类型")，仅承受一半伤害。 | ⁠[毒素](Poison.md "毒素")[抗性](Damage_Types#Resistance.md#Resistance "伤害类型") |
+| [荒野漫游者：毒素](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素") | 你曾在恶臭的沼泽中度过了无数求生日。获得对⁠[中毒](Poison.md "中毒")的[抗性](Damage_Types#Resistance.md#Resistance "伤害类型")，仅承受一半伤害。 | ⁠[中毒](Poison.md "中毒")[抗性](Damage_Types#Resistance.md#Resistance "伤害类型") |
 
-- ⁠[毒素](Poison.md "毒素")[抗性](Damage_types.md#Resistance "伤害类型")
+- ⁠[中毒](Poison.md "中毒")[抗性](Damage_types.md#Resistance "伤害类型")
 
 ### 等级 2
 

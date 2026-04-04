@@ -98,7 +98,7 @@
 
 可以使用 [诗人激励](Bardic_Inspiration_(class_action)..md)
 
-- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+- [激励之泉](Font_of_Inspiration.md "激励之泉")
 
 在长休或短休后恢复所有 [诗人激励](Bardic_Inspiration_(resource).md)。
 
@@ -106,11 +106,11 @@
 
 增加 [诗人激励](Bardic_Inspiration_(class_action).md) 的加值。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
 
 埃赛尔婶婶欢迎你，亲爱的。
 
@@ -142,13 +142,13 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 相关任务](#related-quests)
-- [4 备注](#notes)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 相关任务](#相关任务)
+- [4 备注](#备注)
 
 ## 参与
 
@@ -170,7 +170,7 @@ UUID
 范围：18 米（60 英尺）
 
 [奴役恩赐](Boon_of_Servitude.md "奴役恩赐") ()
-沐浴在埃赛尔的恩赐中。你每回合恢复 2d4+施法调整值[生命值](Healing.md "治疗")，你的 [护甲等级](Armour_Class.md "护甲等级") 提高 2。
+沐浴在埃赛尔的恩赐中。你每回合恢复 2d4+施法调整值[治疗](Healing.md "治疗")，你的 [护甲等级](Armour_Class.md "护甲等级") 提高 2。
 
 范围：18 米（60 英尺）
 

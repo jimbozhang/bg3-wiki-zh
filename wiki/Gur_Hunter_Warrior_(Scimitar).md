@@ -79,15 +79,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**幻影伤痕**](Scar_of_Mirages.md "幻影伤痕")
+- [幻影伤痕](Scar_of_Mirages.md "幻影伤痕")
 
 如果此角色的生命值低于 90%，其攻击可能施加困惑状态。
 
@@ -149,15 +149,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**幻影伤痕**](Scar_of_Mirages.md "幻影伤痕")
+- [幻影伤痕](Scar_of_Mirages.md "幻影伤痕")
 
 如果此角色的生命值低于 90%，其攻击可能施加困惑状态。
 
@@ -219,15 +219,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**幻影伤痕**](Scar_of_Mirages.md "幻影伤痕")
+- [幻影伤痕](Scar_of_Mirages.md "幻影伤痕")
 
 如果此角色的生命值低于 90%，其攻击可能施加困惑状态。
 
@@ -253,10 +253,10 @@ UUID
 
 ## 内容
 
-- [1 参与](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 参与
 

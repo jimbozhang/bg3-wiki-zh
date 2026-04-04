@@ -89,15 +89,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 米 (7 英尺) 范围内且未[失能](Incapacitated_(Condition).md)，则每回合一次，可为武器攻击添加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -153,15 +153,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 米 (7 英尺) 范围内且未[失能](Incapacitated_(Condition).md)，则每回合一次，可为武器攻击添加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -217,15 +217,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**武力优势**](Martial_Advantage.md "武力优势")
+- [武力优势](Martial_Advantage.md "武力优势")
 
 如果盟友在目标 2 米 (7 英尺) 范围内且未[失能](Incapacitated_(Condition).md)，则每回合一次，可为武器攻击添加 +2d6 [物理](Physical.md "物理")伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -259,19 +259,19 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 重要战利品](#notable-loot)
-- [3 相关文献](#related-literature)
-- [4 相关任务](#related-quests)
-- [5 笔记](#notes)
-- [6 参考文献](#references)
-- [7 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 重要战利品](#重要战利品)
+- [3 相关文献](#相关文献)
+- [4 相关任务](#相关任务)
+- [5 笔记](#笔记)
+- [6 参考文献](#参考文献)
+- [7 外部链接](#外部链接)
 
 ## 出场
 
-进入[老加洛之家](Old_Garlow's_Place.md "老加洛之家")后，队伍会发现**克雷德**和[反鬼婆支持小组](Anti-Hag_Support_Group.md "反鬼婆支持小组")的其他成员。他们正被一名[鬼婆](Auntie_Ethel.md "埃赛尔婶婶")跟踪，起初对队伍心存疑虑；除非通过成功的对话检定安抚他们，否则他们会发起攻击。如果[梅丽娜](Mayrina.md "梅丽娜")在[第一章](Act_1.md "第一章")中存活，克雷德会谈论他有多么钦佩她。
+进入[老加洛之家](Old_Garlow's_Place.md "老加洛之家")后，队伍会发现**克雷德**和[反鬼婆支持小组](Anti-Hag_Support_Group.md "反鬼婆支持小组")的其他成员。他们正被一名[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")跟踪，起初对队伍心存疑虑；除非通过成功的对话检定安抚他们，否则他们会发起攻击。如果[梅丽娜](Mayrina.md "梅丽娜")在[第一章](Act_1.md "第一章")中存活，克雷德会谈论他有多么钦佩她。
 
 ## 战斗
 

@@ -87,15 +87,15 @@
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以 1 点生命值复活。
 
@@ -151,15 +151,15 @@
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以 1 点生命值复活。
 
@@ -215,15 +215,15 @@
 
 ## 特性
 
-  - [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+  - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**死灵坚毅**](Undead_Fortitude.md "死灵坚毅")
+- [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
 如果致命一击不是重击且不是光耀伤害，此不死生物将以 1 点生命值复活。
 
@@ -253,13 +253,13 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 硬核及以上难度](#tactician-and-higher)
-  - [2.3 盟友](#allies)
-- [3 图库](#gallery)
+- [1 出场](#出场)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 硬核及以上难度](#硬核及以上难度)
+  - [2.3 盟友](#盟友)
+- [3 图库](#图库)
 
 ## 出场
 

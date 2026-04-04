@@ -28,7 +28,7 @@
 
 ### 体型
 
-[中型](Medium.md "中型")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -100,27 +100,27 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
 
-- [**强效塑能**](Empowered_Evocation.md "强效塑能")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 对塑能法术的伤害掷骰添加智力调整值。
 
-- [**咒法专注**](Focused_Conjuration.md "咒法专注")
+- [咒法专注](Focused_Conjuration.md "咒法专注")
 
 当你在[专注](Concentration.md "专注")于咒法法术时受到的伤害不会打破你的[专注](Concentration.md "专注")。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术狙击**](Spell_Sniper.md "法术狙击")
+- [法术狙击](Spell_Sniper.md "法术狙击")
 
 你学会一个戏法，并且使用[法术](Spells.md "法术")攻击时需要[重击](Critical_Hit.md "重击")的数值减少 1。此效果可叠加。
 
@@ -179,27 +179,27 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
 
-- [**强效塑能**](Empowered_Evocation.md "强效塑能")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
 
 对塑能法术的伤害掷骰添加智力调整值。
 
-- [**咒法专注**](Focused_Conjuration.md "咒法专注")
+- [咒法专注](Focused_Conjuration.md "咒法专注")
 
 当你在[专注](Concentration.md "专注")于咒法法术时受到的伤害不会打破你的[专注](Concentration.md "专注")。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术狙击**](Spell_Sniper.md "法术狙击")
+- [法术狙击](Spell_Sniper.md "法术狙击")
 
 你学会一个戏法，并且使用[法术](Spells.md "法术")攻击时需要[重击](Critical_Hit.md "重击")的数值减少 1。此效果可叠加。
 
@@ -229,21 +229,21 @@ Stats
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 外貌](#appearance)
-- [2 参与情况](#involvement)
-  - [2.1 第一幕](#act-one)
-  - [2.2 第二幕](#act-two)
-  - [2.3 第三幕](#act-three)
-- [3 战斗](#combat)
-  - [3.1 攻击与能力](#attacks-and-abilities)
-- [4 相关任务](#related-quests)
-- [5 相关文献](#related-literature)
-- [6 画廊](#gallery)
-- [7 另见](#see-also)
-- [8 注释](#notes)
-- [9 另见](#see-also-2)
-- [10 外部链接](#external-links)
+- [1 概述](#概述)
+  - [1.1 外貌](#外貌)
+- [2 参与情况](#参与情况)
+  - [2.1 第一幕](#第一幕)
+  - [2.2 第二幕](#第二幕)
+  - [2.3 第三幕](#第三幕)
+- [3 战斗](#战斗)
+  - [3.1 攻击与能力](#攻击与能力)
+- [4 相关任务](#相关任务)
+- [5 相关文献](#相关文献)
+- [6 画廊](#画廊)
+- [7 另见](#另见)
+- [8 注释](#注释)
+- [9 另见](#另见)
+- [10 外部链接](#外部链接)
 
 ## 概述
 
@@ -273,13 +273,13 @@ Stats
 
 ### 第三幕
 
-在盖尔于[巫术杂物店地窖](Sorcerous_Vault.md "巫术杂物店地窖")中阅读[《卡尔萨斯年鉴》](The_Annals_of_Karsus.md "卡尔萨斯年鉴")（在⁠[深水城的法师](The_Wizard_of_Waterdeep.md "深水城的法师")任务期间）后，伊尔明斯特第二次出现，地点在[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")外或营地中。他带来了密斯特拉的又一条信息，要求盖尔在[风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂")的神圣神龛与她会面。
+在盖尔于[巫术杂物店地窖](Sorcerous_Vault.md "巫术杂物店地窖")中阅读[卡尔萨斯年鉴](The_Annals_of_Karsus.md "卡尔萨斯年鉴")（在⁠[深水城的法师](The_Wizard_of_Waterdeep.md "深水城的法师")任务期间）后，伊尔明斯特第二次出现，地点在[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")外或营地中。他带来了密斯特拉的又一条信息，要求盖尔在[风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂")的神圣神龛与她会面。
 
 ## 战斗
 
 ### 攻击与能力
 
-不建议与伊尔明斯特战斗。且不说他在第二幕出现时相对于队伍的等级过高，击败他也不会留下任何战利品，他的敌意将永久阻止盖尔推进其个人任务，导致他在[凯瑟里克](Ketheric_Thorm.md "凯瑟里克·索姆")被击败后永久离开队伍。如果队伍能在战斗中击败伊尔明斯特，他们将获得可观的 1000 点经验值。
+不建议与伊尔明斯特战斗。且不说他在第二幕出现时相对于队伍的等级过高，击败他也不会留下任何战利品，他的敌意将永久阻止盖尔推进其个人任务，导致他在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")被击败后永久离开队伍。如果队伍能在战斗中击败伊尔明斯特，他们将获得可观的 1000 点经验值。
 
 [迷踪步](Misty_Step.md "迷踪步") (+ )
 被银色雾气包围，你传送至一个可见的未被占据空间。

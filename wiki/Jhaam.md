@@ -89,19 +89,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
 
@@ -147,19 +147,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
 
@@ -205,19 +205,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md); 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
 
@@ -239,19 +239,19 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战利品](#loot)
-- [3 相关文献](#related-literature)
-- [4 死者交谈](#speak-with-dead)
-- [5 参考文献](#references)
-- [6 外部链接](#external-links)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 战利品](#战利品)
+- [3 相关文献](#相关文献)
+- [4 死者交谈](#死者交谈)
+- [5 参考文献](#参考文献)
+- [6 外部链接](#外部链接)
 
 ## 出场
 
 ### 第一幕
 
-嘉姆的尸体可以在[复仇之炉](Grymforge.md "复仇之炉")穆马斯附近 X: -632 Y: 388 的一个笼子里找到。她被[贾希拉](Jaheira.md "贾希拉")派去调查复仇之炉中[绝对真神教徒活动](Free_True_Soul_Nere.md "救出真魂者尼讷")的传闻，并查明他们在废墟中“可能寻找什么”。<sup>[\[2\]](#cite_note-2)</sup> 嘉姆奉命将教团的所作所为带回[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")，但她被[穆马斯](Murmath.md "穆马斯")抓住并杀害。
+嘉姆的尸体可以在[复仇之炉](Grymforge.md "复仇之炉")穆马斯附近 X: -632 Y: 388 的一个笼子里找到。她被[贾希拉](Jaheira.md "贾希拉")派去调查复仇之炉中[救出真魂者尼讷](Free_True_Soul_Nere.md "救出真魂者尼讷")的传闻，并查明他们在废墟中“可能寻找什么”。<sup>[\[2\]](#cite_note-2)</sup> 嘉姆奉命将教团的所作所为带回[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")，但她被[穆马斯](Murmath.md "穆马斯")抓住并杀害。
 
 ## 战利品
 
@@ -291,7 +291,7 @@ Stats
 ## 参考文献
 
 1. [↑](#cite_ref-1) 嘉姆是整个游戏中唯一的卓尔竖琴手。
-1. [↑](#cite_ref-2) [_褶皱的信_](Creased_Letter.md "褶皱的信")
+1. [↑](#cite_ref-2) [褶皱的信](Creased_Letter.md "褶皱的信")
 
 ## 外部链接
 

@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[一张复仇之炉的手绘地图，细节高度精确。兴趣点用黑色'X'标记，除了两个点，它们用粗体红色圆圈标识，分别位于要塞的每一层。上层圆圈内写有“隐藏点”。下层圆圈标识为“[烟粉](Smokepowder.md "烟粉")储备”。\]
+\[烟粉](Smokepowder.md "烟粉")储备”。\]
 
 ---
 *Source: [Hand-Drawn Map](https://bg3.wiki/wiki/Hand-Drawn_Map)*

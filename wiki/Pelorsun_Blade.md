@@ -45,7 +45,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 ## 获取地点
 
-- [卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢") X: -1928 Y: 852：在一个[土堆](Dirt_Mound.md "土堆")下，内部有一个带陷阱的红木棺材（棺材仅在 DC 15 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "属性检定")后才会显现）
+- [卡扎多尔的地牢](Cazador's_Dungeon.md "卡扎多尔的地牢") X: -1928 Y: 852：在一个[土堆](Dirt_Mound.md "土堆")下，内部有一个带陷阱的红木棺材（棺材仅在 DC 15 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")后才会显现）
 
 ## 注释
 

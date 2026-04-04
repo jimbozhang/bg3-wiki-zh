@@ -22,7 +22,7 @@
 
 ### 体型
 
-[中型](Medium.md "Medium")
+[中级](Medium.md "中级")
 
 ### 类型
 
@@ -90,7 +90,7 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -104,11 +104,11 @@
 
 带有荆棘、尖刺或类似危险的植物地表不再对你造成伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于90%，其[移动速度](Movement_speed.md "移动速度")翻倍，且不会成为[借机攻击](Opportunity_Attack.md "借机攻击")的目标。
 
@@ -162,7 +162,7 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -176,11 +176,11 @@
 
 带有荆棘、尖刺或类似危险的植物地表不再对你造成伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于90%，其[移动速度](Movement_speed.md "移动速度")翻倍，且不会成为[借机攻击](Opportunity_Attack.md "借机攻击")的目标。
 
@@ -234,7 +234,7 @@
 
 - - - ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
@@ -248,11 +248,11 @@
 
 带有荆棘、尖刺或类似危险的植物地表不再对你造成伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**沙丘伤痕**](Scar_of_the_Dunes.md "沙丘伤痕")
+- [沙丘伤痕](Scar_of_the_Dunes.md "沙丘伤痕")
 
 如果该角色的[生命值](Hit_Points.md "生命值")低于90%，其[移动速度](Movement_speed.md "移动速度")翻倍，且不会成为[借机攻击](Opportunity_Attack.md "借机攻击")的目标。
 
@@ -288,13 +288,13 @@ UUID
 
 ## 目录
 
-- [1 参与](#involvement)
-  - [1.1 第三幕](#act-three)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 闲聊](#idle-banter)
-- [4 相关任务](#related-quests)
+- [1 参与](#参与)
+  - [1.1 第三幕](#第三幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 闲聊](#闲聊)
+- [4 相关任务](#相关任务)
 
 ## 参与
 

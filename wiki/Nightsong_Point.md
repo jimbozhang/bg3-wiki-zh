@@ -4,20 +4,20 @@
 
 ## 目录
 
-- [1 关于暗夜之歌点数](#about-nightsong-points)
-- [2 获取暗夜之歌点数](#obtaining-nightsong-points)
-  - [2.1 点数 1 与 2](#points-1-&_2)
-    - [2.1.1 点数 1](#point-1)
-    - [2.1.2 点数 2](#point-2)
-    - [2.1.3 获取点数 1 和 2 的正确顺序](#the-right-order-of-acquiring-points-1-and-2)
-  - [2.2 点数 3](#point-3)
-  - [2.3 点数 4](#point-4)
-  - [2.4 点数 5](#point-5)
-  - [2.5 点数 6](#point-6)
-- [3 对话变化](#changes-to-dialogue)
-- [4 暗夜之歌](#the-nightsong)
-- [5 另见](#see-also)
-- [6 外部链接](#external-links)
+- [1 关于暗夜之歌点数](#关于暗夜之歌点数)
+- [2 获取暗夜之歌点数](#获取暗夜之歌点数)
+  - [2.1 点数 1 与 2](#点数-1-与-2)
+    - [2.1.1 点数 1](#点数-1)
+    - [2.1.2 点数 2](#点数-2)
+    - [2.1.3 获取点数 1 和 2 的正确顺序](#获取点数-1-和-2-的正确顺序)
+  - [2.2 点数 3](#点数-3)
+  - [2.3 点数 4](#点数-4)
+  - [2.4 点数 5](#点数-5)
+  - [2.5 点数 6](#点数-6)
+- [3 对话变化](#对话变化)
+- [4 暗夜之歌](#暗夜之歌)
+- [5 另见](#另见)
+- [6 外部链接](#外部链接)
 
 ## 关于暗夜之歌点数
 
@@ -55,7 +55,7 @@
 
 #### 点数 1
 
-选项 1：在影心的闪回之后，与影心交谈时，使用以下对话选项成功通过被动 DC 18 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定")：
+选项 1：在影心的闪回之后，与影心交谈时，使用以下对话选项成功通过被动 DC 18 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定")：
     - _“你看起来像是戴着月长石……那不是塞伦涅信徒常戴的吗？”_
 
 选项 2：在触发此对话之前，在 ⁠[枭熊巢穴](Owlbear_Nest.md "枭熊巢穴") 阅读 [塞伦涅仪式](Sel%C3%BBnite_Rite.md "塞伦涅仪式")，会揭示知识以跳过被动属性检定。 (`ORI_Shadowheart_State_NightsongPoint_MadeSeluniteConnection`)
@@ -81,7 +81,7 @@ _完成_ 点数 1 后，继续与影心对话：
 此点数仅在影心的伤口爆发四次后可用。会出现一个新的对话选项：
     - _“你的伤口让你太痛苦了，影心。一定有办法治愈它。”_
 
-如果好感度为 20 或更高，<sup>[\[1\]](#cite_note-med_approval-1)</sup> 玩家角色可以通过 DC 10 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定") 或 DC 12 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定") 来获得暗夜之歌点数。 (`ORI_Shadowheart_State_NightsongPoint_CureIncurableWound`)
+如果好感度为 20 或更高，<sup>[\[1\]](#cite_note-med_approval-1)</sup> 玩家角色可以通过 DC 10 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定") 或 DC 12 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定") 来获得暗夜之歌点数。 (`ORI_Shadowheart_State_NightsongPoint_CureIncurableWound`)
 
 ### 点数 4
 
@@ -145,7 +145,7 @@ _完成_ 点数 1 后，继续与影心对话：
 - [黑暗之女](Daughter_of_Darkness.md "黑暗之女")
 - [寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")
 - [影心](Shadowheart.md "影心")
-- [影心/好感度](Shadowheart/Approval.md "影心/好感度")
+- [好感度](Shadowheart/Approval.md "好感度")
 
 ## 外部链接
 

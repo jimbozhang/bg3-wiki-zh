@@ -73,15 +73,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -125,15 +125,15 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -177,23 +177,23 @@
 
 ## 特性
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可进行一次额外攻击。
 
-- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 
 招架徒手和武器攻击，使其伤害减少10点。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**灵能赋权**](Psionic_Empowerment.md "灵能赋权")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
 你的攻击造成额外1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕深重。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 当投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子可重掷一次。
 
@@ -252,7 +252,7 @@ UUID
 
 1d10 + 战士等级⁠[治疗](Healing.md "治疗")
 
-利用你的耐力保护自己。你恢复1d10 + 战士等级⁠⁠[生命值](Healing.md "生命值")。
+利用你的耐力保护自己。你恢复1d10 + 战士等级⁠⁠[治疗](Healing.md "治疗")。
 
 范围：自身
 充能：[短休](Short_rest.md "短休")

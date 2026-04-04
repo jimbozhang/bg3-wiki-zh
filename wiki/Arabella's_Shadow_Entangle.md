@@ -1,6 +1,6 @@
 # 阿拉贝尔之影纠缠术
 
-**阿拉贝尔之影纠缠术** 是一个 [等级 1 咒法学派法术](Spells.md "Spells")。它允许角色缠绕 [不死生物](Undead.md "Undead") 和 [幽影](Shadow.md "Shadow") 生物。
+**阿拉贝尔之影纠缠术** 是一个 [法术](Spells.md "法术")。它允许角色缠绕 [不死生物](Undead.md "Undead") 和 [幽影](Shadow.md "Shadow") 生物。
 
 ## 描述
 

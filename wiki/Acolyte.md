@@ -10,10 +10,10 @@
 
 ## 目录
 
-- [1 背景特性](#background-features)
-- [2 背景目标](#background-goals)
-- [3 已删除的背景目标](#cut-background-goals)
-- [4 脚注与参考文献](#footnotes-and-references)
+- [1 背景特性](#背景特性)
+- [2 背景目标](#背景目标)
+- [3 已删除的背景目标](#已删除的背景目标)
+- [4 脚注与参考文献](#脚注与参考文献)
 
 ## 背景特性
 

@@ -10,38 +10,38 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 副职](#subclasses)
-- [3 职业进阶](#class-progression)
-- [4 职业信息](#class-information)
-  - [4.1 属性](#attributes)
-  - [4.2 初始熟练项](#starting-proficiencies)
-  - [4.3 多职业熟练项](#multiclass-proficiencies)
-- [5 等级进阶](#level-progression)
-  - [5.1 等级 1](#level-1)
-  - [5.2 等级 2](#level-2)
-    - [5.2.1 选择副职](#select-a-subclass)
+- [1 概述](#概述)
+- [2 副职](#副职)
+- [3 职业进阶](#职业进阶)
+- [4 职业信息](#职业信息)
+  - [4.1 属性](#属性)
+  - [4.2 初始熟练项](#初始熟练项)
+  - [4.3 多职业熟练项](#多职业熟练项)
+- [5 等级进阶](#等级进阶)
+  - [5.1 等级 1](#等级-1)
+  - [5.2 等级 2](#等级-2)
+    - [5.2.1 选择副职](#选择副职)
   - [5.3 等级 3](#level-3)
-    - [5.3.1 副职特性](#subclass-features)
-  - [5.4 等级 4](#level-4)
-    - [5.4.1 副职特性](#subclass-features-2)
-  - [5.5 等级 5](#level-5)
-    - [5.5.1 副职特性](#subclass-features-3)
-  - [5.6 等级 6](#level-6)
-    - [5.6.1 副职特性](#subclass-features-4)
-  - [5.7 等级 7](#level-7)
-    - [5.7.1 副职特性](#subclass-features-5)
-  - [5.8 等级 8](#level-8)
-    - [5.8.1 副职特性](#subclass-features-6)
-  - [5.9 等级 9](#level-9)
-    - [5.9.1 副职特性](#subclass-features-7)
-  - [5.10 等级 10](#level-10)
-    - [5.10.1 副职特性](#subclass-features-8)
-  - [5.11 等级 11](#level-11)
-  - [5.12 等级 12](#level-12)
-- [6 著名德鲁伊](#notable-druids)
-- [7 另见](#see-also)
-- [8 外部链接](#external-links)
+    - [5.3.1 副职特性](#副职特性)
+  - [5.4 等级 4](#等级-4)
+    - [5.4.1 副职特性](#副职特性)
+  - [5.5 等级 5](#等级-5)
+    - [5.5.1 副职特性](#副职特性)
+  - [5.6 等级 6](#等级-6)
+    - [5.6.1 副职特性](#副职特性)
+  - [5.7 等级 7](#等级-7)
+    - [5.7.1 副职特性](#副职特性)
+  - [5.8 等级 8](#等级-8)
+    - [5.8.1 副职特性](#副职特性)
+  - [5.9 等级 9](#等级-9)
+    - [5.9.1 副职特性](#副职特性)
+  - [5.10 等级 10](#等级-10)
+    - [5.10.1 副职特性](#副职特性)
+  - [5.11 等级 11](#等级-11)
+  - [5.12 等级 12](#等级-12)
+- [6 著名德鲁伊](#著名德鲁伊)
+- [7 另见](#另见)
+- [8 外部链接](#外部链接)
 
 ## 概述
 
@@ -104,12 +104,12 @@
 [智力](Intelligence.md "智力"), [感知](Wisdom.md "感知")
 装备熟练项
 [短棒](Clubs.md "短棒"), [匕首](Daggers.md "匕首"), [标枪](Javelins.md "标枪"), [硬头锤](Maces.md "硬头锤")
-[长棍](Quarterstaves.md "长棍"), [弯刀](Scimitars.md "弯刀"), [镰刀](Sickles.md "镰刀"), [矛](Spears.md "矛")
+[长棍](Quarterstaves.md "长棍"), [弯刀](Scimitars.md "弯刀"), [镰刀](Sickles.md "镰刀"), [短矛](Spears.md "短矛")
 [轻甲](Armour.md#List_of_light_armour "护甲"), [中甲](Armour.md#List_of_medium_armour "护甲")
 [盾牌](Shields.md "盾牌")
 熟练技能（选择 2 项）
 [奥秘](Arcana.md "奥秘"), [驯兽](Animal_Handling.md "驯兽"), [洞悉](Insight.md "洞悉"), [医药](Medicine.md "医药"), [自然](Nature.md "自然"), [察觉技能](Perception.md "察觉技能"), [宗教](Religion.md "宗教"), [求生](Survival.md "求生")
-你获得对所有你[熟练](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。角色 1 级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为 +2。
+你获得对所有你[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。角色 1 级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为 +2。
 初始装备
 [德鲁伊长棍](Druid_Quarterstaff.md "德鲁伊长棍"), [德鲁伊皮甲](Druid_Leather_Armour.md "德鲁伊皮甲"), [林地守护者之靴](Grovetender_Boots.md "林地守护者之靴")
 
@@ -182,7 +182,7 @@
 | [11级](#Level_11 "11级") | - | 4 | 3 | 3 | 3 | 2 | 1 |  |  |
 | [12级](#Level_12 "12级") | [专长](Feats.md "专长"), [荒野形态强化](Wild_Shape_Improvement.md "荒野形态强化") | 4 | 3 | 3 | 3 | 2 | 1 |  |  |
 
-变形成一只可以避开注意力并[喵喵叫](Meow.md "喵喵叫")以分散敌人的猫。它有 2 点[生命值](Hit_Points.md "生命值")。
+变形成一只可以避开注意力并[猫叫声](Meow.md "猫叫声")以分散敌人的猫。它有 2 点[生命值](Hit_Points.md "生命值")。
 [荒野形态：蜘蛛](Wild_Shape_colon__Spider.md "荒野形态：蜘蛛") (+ )
 变形成一只巨型蜘蛛，可以[网裹](Web_(Spider).md "网裹（蜘蛛）")敌人。巨型蜘蛛的起始生命值为 20 点[生命值](Hit_Points.md "生命值")，每两级德鲁伊等级增加一次。
 
@@ -259,9 +259,9 @@
 
 | [大地结社](Circle_of_the_Land.md "大地结社") | [月亮结社](Circle_of_the_Moon.md "月亮结社") | [孢子结社](Circle_of_the_Spores.md "孢子结社") | [星辰结社](Circle_of_the_Stars.md "星辰结社") |
 | --- | --- | --- | --- |
-| 获得 2 环[结社法术](Circle_of_the_Land.md "大地结社") 选择一个地形类型，这些法术总是被预备：极地 [人类定身术](Hold_Person.md "人类定身术") [荆棘丛生](Spike_Growth.md "荆棘丛生") 海岸 [镜像术](Mirror_Image.md "镜像术")* [迷踪步](Misty_Step.md "迷踪步")* 沙漠 [朦胧术](Blur.md "朦胧术") * [沉默术](Silence.md "沉默术") * 森林 [树肤术](Barkskin.md "树肤术") [人类定身术](Hold_Person.md "人类定身术") 草原 [隐形术](Invisibility_(spell).md "隐形术（法术）") * [行动无踪](Pass_Without_Trace.md "行动无踪") 山岳 [镜像术](Mirror_Image.md "镜像术")* [荆棘丛生](Spike_Growth.md "荆棘丛生") 沼泽 [马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭")* [黑暗术](Darkness.md "黑暗术") * 幽暗地域 [蛛网术](Web.md "蛛网术") * [迷踪步](Misty_Step.md "迷踪步")* | (无) | 获得 2 环[结社法术](Circle_of_the_Spores.md "孢子结社") [失明术](Blindness.md "失明术")* [侦测思想](Detect_Thoughts.md "侦测思想") * | (无) |
+| 获得 2 环[大地结社](Circle_of_the_Land.md "大地结社") 选择一个地形类型，这些法术总是被预备：极地 [人类定身术](Hold_Person.md "人类定身术") [荆棘丛生](Spike_Growth.md "荆棘丛生") 海岸 [镜像术](Mirror_Image.md "镜像术")* [迷踪步](Misty_Step.md "迷踪步")* 沙漠 [朦胧术](Blur.md "朦胧术") * [沉默术](Silence.md "沉默术") * 森林 [树肤术](Barkskin.md "树肤术") [人类定身术](Hold_Person.md "人类定身术") 草原 [隐形术](Invisibility_(spell).md "隐形术（法术）") * [行动无踪](Pass_Without_Trace.md "行动无踪") 山岳 [镜像术](Mirror_Image.md "镜像术")* [荆棘丛生](Spike_Growth.md "荆棘丛生") 沼泽 [马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭")* [黑暗术](Darkness.md "黑暗术") * 幽暗地域 [蛛网术](Web.md "蛛网术") * [迷踪步](Misty_Step.md "迷踪步")* | (无) | 获得 2 环[孢子结社](Circle_of_the_Spores.md "孢子结社") [失明术](Blindness.md "失明术")* [侦测思想](Detect_Thoughts.md "侦测思想") * | (无) |
 
-获得 3 环[结社法术](Circle_of_the_Land.md "大地结社")
+获得 3 环[大地结社](Circle_of_the_Land.md "大地结社")
 选择一个地形类型，这些法术总是被预备：
 
 极地
@@ -285,7 +285,7 @@
 [臭云术](Stinking_Cloud.md "臭云术") \*
 | (无) |
 
-获得 3 环[结社法术](Circle_of_the_Spores.md "孢子结社")
+获得 3 环[孢子结社](Circle_of_the_Spores.md "孢子结社")
 
 - [操纵死尸](Animate_Dead.md "操纵死尸")\*
 - [气化形体](Gaseous_Form.md "气化形体") \*
@@ -375,9 +375,9 @@
 
 | [大地结社](Circle_of_the_Land.md "大地结社") | [月亮结社](Circle_of_the_Moon.md "月亮结社") | [孢子结社](Circle_of_the_Spores.md "孢子结社") | [星辰结社](Circle_of_the_Stars.md "星辰结社") |
 | --- | --- | --- | --- |
-| 获得 3 环[结社法术](Circle_of_the_Land.md "大地结社") 选择一个地形类型，这些法术总是被预备：极地 [雪雨暴](Sleet_Storm.md "雪雨暴") [加速术](Haste.md "加速术") * 海岸 [雪雨暴](Sleet_Storm.md "雪雨暴") [召雷术](Call_Lightning.md "召雷术") 沙漠 [防护能量伤害](Protection_from_Energy.md "防护能量伤害") [催眠图纹](Hypnotic_Pattern.md "催眠图纹") * 森林 [召雷术](Call_Lightning.md "召雷术") [植物滋长](Plant_Growth.md "植物滋长") 草原 [昼明术](Daylight.md "昼明术") [加速术](Haste.md "加速术") * 山岳 [闪电束](Lightning_Bolt.md "闪电束")* [给予飞行](Grant_Flight.md "给予飞行") * 沼泽 [臭云术](Stinking_Cloud.md "臭云术") * [吸血鬼之触](Vampiric_Touch.md "吸血鬼之触") * 幽暗地域 [气化形体](Gaseous_Form.md "气化形体") * [臭云术](Stinking_Cloud.md "臭云术") * | (无) | 获得 3 环[结社法术](Circle_of_the_Spores.md "孢子结社") [操纵死尸](Animate_Dead.md "操纵死尸")* [气化形体](Gaseous_Form.md "气化形体") * | (无) |
+| 获得 3 环[大地结社](Circle_of_the_Land.md "大地结社") 选择一个地形类型，这些法术总是被预备：极地 [雪雨暴](Sleet_Storm.md "雪雨暴") [加速术](Haste.md "加速术") * 海岸 [雪雨暴](Sleet_Storm.md "雪雨暴") [召雷术](Call_Lightning.md "召雷术") 沙漠 [防护能量伤害](Protection_from_Energy.md "防护能量伤害") [催眠图纹](Hypnotic_Pattern.md "催眠图纹") * 森林 [召雷术](Call_Lightning.md "召雷术") [植物滋长](Plant_Growth.md "植物滋长") 草原 [昼明术](Daylight.md "昼明术") [加速术](Haste.md "加速术") * 山岳 [闪电束](Lightning_Bolt.md "闪电束")* [给予飞行](Grant_Flight.md "给予飞行") * 沼泽 [臭云术](Stinking_Cloud.md "臭云术") * [吸血鬼之触](Vampiric_Touch.md "吸血鬼之触") * 幽暗地域 [气化形体](Gaseous_Form.md "气化形体") * [臭云术](Stinking_Cloud.md "臭云术") * | (无) | 获得 3 环[孢子结社](Circle_of_the_Spores.md "孢子结社") [操纵死尸](Animate_Dead.md "操纵死尸")* [气化形体](Gaseous_Form.md "气化形体") * | (无) |
 
-获得 5 环[结社法术](Circle_of_the_Land.md "大地结社")
+获得 5 环[大地结社](Circle_of_the_Land.md "大地结社")
 选择一个地形类型，这些法术总是被预备。
 
 极地
@@ -401,7 +401,7 @@
 [死云术](Cloudkill.md "死云术") \*
 | (无) |
 
-获得 5 环[结社法术](Circle_of_the_Spores.md "孢子结社")
+获得 5 环[孢子结社](Circle_of_the_Spores.md "孢子结社")
 
 - [疫病术](Contagion.md "疫病术")
 - [死云术](Cloudkill.md "死云术") \*
@@ -449,7 +449,7 @@
 
 新 6 环法术可用
 
-- [疗愈](Heal.md "疗愈")
+- [治疗](Heal.md "治疗")
 - [英雄盛宴](Heroes'_Feast.md "英雄盛宴")
 - [阳炎射线](Sunbeam.md "阳炎射线") *[棘墙术](Wall_of_Thorns.md "棘墙术")* [御风而行](Wind_Walk.md "御风而行")
 

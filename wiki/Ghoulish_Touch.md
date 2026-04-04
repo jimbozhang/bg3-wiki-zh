@@ -1,6 +1,6 @@
 # 残暴之触
 
-**残暴之触**是一个[1级死灵学派法术](Spells.md "Spells")。此法术仅通过[神髓戒指](Ring_of_Exalted_Marrow.md "神髓戒指")获得。它允许使用者攻击一个目标并可能使其[麻痹](Paralysed_(Condition).md "麻痹（状态）")。
+**残暴之触**是一个[法术](Spells.md "法术")。此法术仅通过[神髓戒指](Ring_of_Exalted_Marrow.md "神髓戒指")获得。它允许使用者攻击一个目标并可能使其[麻痹](Paralysed_(Condition).md "麻痹（状态）")。
 
 ## 描述
 

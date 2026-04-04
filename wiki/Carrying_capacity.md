@@ -15,7 +15,7 @@
 | [人类通才](Human_Versatility.md "人类通才") | [人类](Human.md "人类") 种族被动特性。 | 永久 |  |
 | [维普拉克的贪婪](Vaprak's_Greed.md "维普拉克的贪婪") | [巨人（野蛮人副职）](Giant_(barbarian_subclass).md "巨人（野蛮人副职）") 被动。 | 使用该副职时 |  |
 | [维普拉克的贪婪](Vaprak's_Greed.md "维普拉克的贪婪") + [人类通才](Human_Versatility.md "人类通才") | x1.50 |  | 特例 |
-| [牛之蛮力](Bull's_Strength_(Condition).md "牛之蛮力 (状态)") | x2.00 | [强化属性：牛之蛮力](Bull's_Strength.md "牛之蛮力") | 持续时间：直到[长休](Long_Rest.md "长休") |
+| [牛之蛮力](Bull's_Strength_(Condition).md "牛之蛮力 (状态)") | x2.00 | [牛之蛮力](Bull's_Strength.md "牛之蛮力") | 持续时间：直到[长休](Long_Rest.md "长休") |
 | [力量布衣](The_Mighty_Cloth.md "力量布衣") | 装备时 |  |  |
 | [野兽面貌：熊](Aspect_of_the_Beast_colon__Bear.md "野兽面貌：熊") | [荒蛮之心](Wildheart.md "荒蛮之心") 野兽面貌选择。 | 选择时 |  |
 | [星界重力](Astral_Gravity_(Condition).md "星界重力 (状态)") | x3.00 | （情境性） | 在[星界](Astral_Plane.md "星界")时 |

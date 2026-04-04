@@ -1,6 +1,6 @@
 # 异界誓盟：坎比翁
 
-**异界誓盟：坎比翁** 是一个 [6级咒法学派法术](Spells.md "Spells")。此法术是6级咒法学派法术 [异界誓盟](Planar_Ally.md "Planar Ally") 的变体。它允许施法者召唤一个邪魔来提供援助。
+**异界誓盟：坎比翁** 是一个 [法术](Spells.md "法术")。此法术是6级咒法学派法术 [异界誓盟](Planar_Ally.md "Planar Ally") 的变体。它允许施法者召唤一个邪魔来提供援助。
 
 ## 描述
 
@@ -37,7 +37,7 @@ UID
 | 护甲等级 | 14 |  |  |  |  |
 
 [邪魔魅惑](Fiendish_Charm.md "Fiendish Charm") ()
-[魅惑](Charmed_(Condition).md "Charmed (Condition)") 一个类人生物以阻止其攻击你。你在对话中进行魅力[检定](Ability_Check.md "Ability Check")时获得[优势](Advantage.md "Advantage")。
+[魅惑](Charmed_(Condition).md "Charmed (Condition)") 一个类人生物以阻止其攻击你。你在对话中进行魅力[属性检定](Ability_Check.md "属性检定")时获得[优势](Advantage.md "Advantage")。
 
 猛投3道火焰射线。每道射线造成3d6[火焰](Fire.md "Fire")伤害。
 

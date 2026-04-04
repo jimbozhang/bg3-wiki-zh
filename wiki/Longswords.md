@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [1 属性](#properties)
-  - [1.1 动作](#actions)
-- [2 长剑列表](#list-of-longswords)
-- [3 遗留内容](#legacy-content)
-- [4 外部链接](#external-links)
+- [1 属性](#属性)
+  - [1.1 动作](#动作)
+- [2 长剑列表](#长剑列表)
+- [3 遗留内容](#遗留内容)
+- [4 外部链接](#外部链接)
 
 ## 属性
 
@@ -58,7 +58,7 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 | [黑色守卫之剑](Blackguard's_Sword.md "黑色守卫之剑") | +2 | 1d8 + 2 / 1d4 | 挥砍 / 黯蚀 | 1.35 千克 / 2.7 磅 | 250 | [眩晕斩](Dazing_Smite.md "眩晕斩")在一次灌注了您的[至圣斩](Divine_Smite.md "至圣斩")的攻击命中时，目标必须通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[眩晕](Dazed_(Condition).md "眩晕（状态）")。 |
 | [压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑") | +1 | 1d8 + 1 / 1d4 | 挥砍 / 心灵 | 1.35 千克 / 2.7 磅 | 250 | [至高打击](Crowning_Strike.md "至高打击") () 释放死于您剑下的亡魂哀嚎，并可能使目标陷入[疯狂](Crown_of_Madness_(Condition).md "疯狂（状态）")。（充能：[短休](Short_rest.md "短休")。） |
 | [残忍蛰刺](Cruel_Sting.md "残忍蛰刺") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 / 2.7 磅 | 250 | [落井下石](Sting_The_Helpless.md "落井下石")[卓尔](Drow.md "卓尔")装备此武器时，对[束缚](Restrained_(Condition).md "束缚（状态）")目标造成额外 1d4⁠⁠[中毒](Poison.md "中毒")伤害。[诱捕绳索](Ensnaring_Strands.md "诱捕绳索") () 施放为 1 级法术（充能：[短休](Short_rest.md "短休")。） |
-| [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 / 2.7 磅 | 250 | [激励击杀](Stirring_Execution.md "激励击杀")当您击杀一名敌人时，9 米 / 30 英尺内的盟友获得等于您的[[参见：错误](Stirring_Execution#Bugs.md#Bugs "激励击杀")] 魅力[调整值](Ability_Modifier.md "属性调整值")（最低为 1）的[临时生命值](Temporary_Hit_Points.md "临时生命值")。[魅力](Charisma.md "魅力") +2 [指挥官奇袭](Commander's_Strike.md "指挥官奇袭") ( + ) 指挥一名盟友攻击敌人。该盟友在其下一回合使用反应进行一次[武器攻击](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）")。（充能：[短休](Short_rest.md "短休")。） |
+| [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 / 2.7 磅 | 250 | [激励击杀](Stirring_Execution.md "激励击杀")当您击杀一名敌人时，9 米 / 30 英尺内的盟友获得等于您的[[参见：错误](Stirring_Execution#Bugs.md#Bugs "激励击杀")] 魅力[属性调整值](Ability_Modifier.md "属性调整值")（最低为 1）的[临时生命值](Temporary_Hit_Points.md "临时生命值")。[魅力](Charisma.md "魅力") +2 [指挥官奇袭](Commander's_Strike.md "指挥官奇袭") ( + ) 指挥一名盟友攻击敌人。该盟友在其下一回合使用反应进行一次[武器攻击](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）")。（充能：[短休](Short_rest.md "短休")。） |
 | [拉瑞斯安之怒](Larethian's_Wrath.md "拉瑞斯安之怒") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 / 2.7 磅 | 250 | [剃刀狂风](Razor_Gale.md "剃刀狂风") () 挥舞武器形成钢铁旋风，对范围内所有敌人造成剃刀般锋利的伤害。（充能：[短休](Short_rest.md "短休")。） |
 | [长剑 +2](Longsword_+2.md "长剑 +2") | +2 | 1d8 + 2 | 挥砍 | 1.35 千克 / 2.7 磅 | 125 |  |
 | [生离死别](Phalar_Aluve.md "生离死别") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 / 2.7 磅 | 250 | [表演](Performance.md "表演") +1 [生离死别：旋律](Phalar_Aluve_colon__Melody.md "生离死别：旋律") () 剑嗡嗡作响，蓄势待发，准备[歌唱](Phalar_Aluve_colon__Sing.md "生离死别：歌唱")或[尖啸](Phalar_Aluve_colon__Shriek.md "生离死别：尖啸")（参见各自页面上的错误）。（充能：[短休](Short_rest.md "短休")。） |
@@ -87,7 +87,7 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 | [黑色守卫之剑](Blackguard's_Sword.md "黑色守卫之剑") | +2 | 1d8 + 2 1d4 | 挥砍 黯蚀 | 1.35 千克 2.7 磅 | 250 | [眩晕斩](Dazing_Smite.md "眩晕斩")在一次灌注了您的[至圣斩](Divine_Smite.md "至圣斩")的攻击命中时，目标必须通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[眩晕](Dazed_(Condition).md "眩晕（状态）")。 |
 | [压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑") | +1 | 1d8 + 1 1d4 | 挥砍 心灵 | 1.35 千克 2.7 磅 | 250 | [至高打击](Crowning_Strike.md "至高打击") () 释放死于您剑下的亡魂哀嚎，并可能使目标陷入[疯狂](Crown_of_Madness_(Condition).md "疯狂（状态）")。（充能：[短休](Short_rest.md "短休")。） |
 | [残忍蛰刺](Cruel_Sting.md "残忍蛰刺") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 2.7 磅 | 250 | [落井下石](Sting_The_Helpless.md "落井下石")[卓尔](Drow.md "卓尔")装备此武器时，对[束缚](Restrained_(Condition).md "束缚（状态）")目标造成额外 1d4⁠⁠[中毒](Poison.md "中毒")伤害。[诱捕绳索](Ensnaring_Strands.md "诱捕绳索") () 施放为 1 级法术（充能：[短休](Short_rest.md "短休")。） |
-| [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 2.7 磅 | 250 | [激励击杀](Stirring_Execution.md "激励击杀")当您击杀一名敌人时，9 米 / 30 英尺内的盟友获得等于您的[[参见：错误](Stirring_Execution#Bugs.md#Bugs "激励击杀")] 魅力[调整值](Ability_Modifier.md "属性调整值")（最低为 1）的[临时生命值](Temporary_Hit_Points.md "临时生命值")。[魅力](Charisma.md "魅力") +2 [指挥官奇袭](Commander's_Strike.md "指挥官奇袭") ( + ) 指挥一名盟友攻击敌人。该盟友在其下一回合使用反应进行一次[武器攻击](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）")。（充能：[短休](Short_rest.md "短休")。） |
+| [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 2.7 磅 | 250 | [激励击杀](Stirring_Execution.md "激励击杀")当您击杀一名敌人时，9 米 / 30 英尺内的盟友获得等于您的[[参见：错误](Stirring_Execution#Bugs.md#Bugs "激励击杀")] 魅力[属性调整值](Ability_Modifier.md "属性调整值")（最低为 1）的[临时生命值](Temporary_Hit_Points.md "临时生命值")。[魅力](Charisma.md "魅力") +2 [指挥官奇袭](Commander's_Strike.md "指挥官奇袭") ( + ) 指挥一名盟友攻击敌人。该盟友在其下一回合使用反应进行一次[武器攻击](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）")。（充能：[短休](Short_rest.md "短休")。） |
 | [拉瑞斯安之怒](Larethian's_Wrath.md "拉瑞斯安之怒") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 2.7 磅 | 250 | [剃刀狂风](Razor_Gale.md "剃刀狂风") () 挥舞武器形成钢铁旋风，对范围内所有敌人造成剃刀般锋利的伤害。（充能：[短休](Short_rest.md "短休")。） |
 | [长剑 +2](Longsword_+2.md "长剑 +2") | +2 | 1d8 + 2 | 挥砍 | 1.35 千克 2.7 磅 | 125 |  |
 | [生离死别](Phalar_Aluve.md "生离死别") | +1 | 1d8 + 1 | 挥砍 | 1.35 千克 2.7 磅 | 250 | [表演](Performance.md "表演") +1 [生离死别：旋律](Phalar_Aluve_colon__Melody.md "生离死别：旋律") () 剑嗡嗡作响，蓄势待发，准备[歌唱](Phalar_Aluve_colon__Sing.md "生离死别：歌唱")或[尖啸](Phalar_Aluve_colon__Shriek.md "生离死别：尖啸")（参见各自页面上的错误）。（充能：[短休](Short_rest.md "短休")。） |

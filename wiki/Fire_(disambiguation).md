@@ -22,7 +22,7 @@
 - [火焰护盾](Fire_Shield.md "火焰护盾")
 - [火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖")
 - [火焰护盾：寒冷](Fire_Shield_colon__Chill.md "火焰护盾：寒冷")
-- [火球术术](Fireball.md "火球术术")
+- [火球术](Fireball.md "火球术")
 - [火焰箭？](Firebolt_q_.md "火焰箭？")
 - [守卫刻文：火焰](Glyph_of_Warding_colon__Fire.md "守卫刻文：火焰")
 - [火焰射线](Rays_of_Fire.md "火焰射线")

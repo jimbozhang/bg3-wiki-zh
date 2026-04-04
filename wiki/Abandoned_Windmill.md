@@ -18,23 +18,23 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 磨坊外部](#outside-the-windmill)
-- [2 相关地点](#related-locations)
-- [3 相关任务](#related-quests)
-- [4 角色](#characters)
-  - [4.1 建筑外部及周边](#outside-and-around-the-building)
-- [5 战利品](#loot)
-- [6 相关文献](#related-literature)
-- [7 注释与参考](#notes-and-references)
+- [1 概述](#概述)
+  - [1.1 磨坊外部](#磨坊外部)
+- [2 相关地点](#相关地点)
+- [3 相关任务](#相关任务)
+- [4 角色](#角色)
+  - [4.1 建筑外部及周边](#建筑外部及周边)
+- [5 战利品](#战利品)
+- [6 相关文献](#相关文献)
+- [7 注释与参考](#注释与参考)
 
 ## 概述
 
 磨坊位于 X: 44 Y: -32 的山丘上，[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")以北，[古尔营地](Gur_Camp.md "古尔营地")以西。一条血迹通向其入口。当队伍首次接近磨坊时，会听到地窖传来痛苦的声响。
 
-磨坊门已上锁，需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定") 来撬锁。<sup>[\[1\]](#cite_note-1)</sup> 内部，磨石室空无一物，除了最远处的麻袋堆（在中间的舱口后面），从那里可以拿取一套[盗贼工具](Thieves'_Tools.md "盗贼工具")。
+磨坊门已上锁，需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定") 来撬锁。<sup>[\[1\]](#cite_note-1)</sup> 内部，磨石室空无一物，除了最远处的麻袋堆（在中间的舱口后面），从那里可以拿取一套[盗贼工具](Thieves'_Tools.md "盗贼工具")。
 
-通往地下室的舱口。在地下室中，可以遇到一只沉睡的、新[转变](Ceremorphosis.md "蜕变")的[夺心魔](Mind_flayer_(windmill).md "夺心魔（磨坊）")。它携带的纸条指出，在转变前，它是[焰拳](Flaming_Fist.md "焰拳")的成员，名叫阿利扬（Alyan），并且是一名[真魂者](True_Soul.md "真魂者")。
+通往地下室的舱口。在地下室中，可以遇到一只沉睡的、新[蜕变](Ceremorphosis.md "蜕变")的[夺心魔](Mind_flayer_(windmill).md "夺心魔（磨坊）")。它携带的纸条指出，在转变前，它是[焰拳](Flaming_Fist.md "焰拳")的成员，名叫阿利扬（Alyan），并且是一名[真魂者](True_Soul.md "真魂者")。
 
 与该生物互动时，[夺心魔主脑](Emperor.md "夺心魔主脑")会发表评论，怂恿玩家角色利用其弱点并杀死它。
 
@@ -44,7 +44,7 @@
 
 夺心魔会在磨坊地下室等待，直到队伍离开该区域进行长休，然后消失。如果被饶恕并喂食，稍后可以在[下城区](Lower_City.md "下城区")遇到它。
 
-为夺心魔提供尸体喂食被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")，适用于[任何誓言副职的圣武士](Paladin.md "圣武士")。
+为夺心魔提供尸体喂食被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")，适用于[圣武士](Paladin.md "圣武士")。
 
 该情况的各种结果可能授予以下激励点之一：
 
@@ -62,7 +62,7 @@
 - [詹尼维尔·安的列斯](Jenniver_Antilles.md "詹尼维尔·安的列斯")和[斯巴格·奥维丽斯](Spargo_Ovilliers.md "斯巴格·奥维丽斯")在通往磨坊的楼梯脚下交谈。
 - 一位年长的侏儒[谭舍·贝拉吉欧](Tonsure_Bellagio.md "谭舍·贝拉吉欧")爬上了山丘，欣赏从那里看到的景色。
 
-此外，可以调查 X: 59 Y: -39 处的干草堆。成功的 DC 25 [调查](Investigation.md "调查") [检定](Ability_Check.md "属性检定") 会揭示一支[酸液箭](Arrow_of_Acid.md "酸液箭")。
+此外，可以调查 X: 59 Y: -39 处的干草堆。成功的 DC 25 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定") 会揭示一支[酸液箭](Arrow_of_Acid.md "酸液箭")。
 
 ## 相关地点
 
@@ -97,7 +97,7 @@
 
 ## 注释与参考
 
-1. [↑](#cite_ref-1) 开锁的[钥匙](Windmill_Key.md "磨坊钥匙")只能在磨坊地下室找到。
+1. [↑](#cite_ref-1) 开锁的[磨坊钥匙](Windmill_Key.md "磨坊钥匙")只能在磨坊地下室找到。
 
 ---
 *Source: [Abandoned Windmill](https://bg3.wiki/wiki/Abandoned_Windmill)*

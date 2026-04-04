@@ -6,7 +6,7 @@
 
 当受到近战攻击时，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")加到你的[护甲等级](Armour_Class.md "护甲等级")上，可能使攻击未命中。
 
-需要你[熟练](Proficiency.md "熟练项")的[灵巧](Finesse.md "灵巧")武器。
+需要你[熟练项](Proficiency.md "熟练项")的[灵巧](Finesse.md "灵巧")武器。
 
 ## 属性
 

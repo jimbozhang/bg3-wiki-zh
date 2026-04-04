@@ -2,7 +2,7 @@
 
 **暴政之形象**
 
-- 班恩已前来援助戈塔什！戈塔什获得150点[临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")、[力量](Strength.md "Strength") [检定](Ability_Check.md "Ability check")和[力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw")的[优势](Advantage.md "Advantage")……并且现在获得了可怕的新力量！
+- 班恩已前来援助戈塔什！戈塔什获得150点[临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")、[力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw")的[优势](Advantage.md "Advantage")……并且现在获得了可怕的新力量！
 - 受影响实体对徒手攻击额外造成1d4点[钝击](Bludgeoning.md "Bludgeoning")伤害，并免疫[雷鸣](Thunder.md "Thunder")、[火焰](Fire.md "Fire")和[力场](Force.md "Force")伤害。
 
 ## 属性
@@ -37,7 +37,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 班恩已前来援助戈塔什！戈塔什获得150点[临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")、[力量](Strength.md "Strength") [检定](Ability_Check.md "Ability check")和[力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw")的[优势](Advantage.md "Advantage")……并且现在获得了可怕的新力量！
+- 班恩已前来援助戈塔什！戈塔什获得150点[临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")、[力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw")的[优势](Advantage.md "Advantage")……并且现在获得了可怕的新力量！
 - 受影响实体对徒手攻击额外造成1d4点[钝击](Bludgeoning.md "Bludgeoning")伤害，并免疫[雷鸣](Thunder.md "Thunder")、[火焰](Fire.md "Fire")和[力场](Force.md "Force")伤害。
 
 ---

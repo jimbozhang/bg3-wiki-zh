@@ -1,6 +1,6 @@
 # Reach from Beyond
 
-**Reach from Beyond** 是一个 [戏法 (死灵学派)](Spells.md "Spells")。它被 [死灵侍僧](Necromite.md "Necromite") 和 [死亡牧者](Death_Shepherd.md "Death Shepherd") 使用，对单个目标造成黯蚀伤害。队伍成员无法学习此法术。
+**Reach from Beyond** 是一个 [法术](Spells.md "法术")。它被 [死灵侍僧](Necromite.md "Necromite") 和 [死亡牧者](Death_Shepherd.md "Death Shepherd") 使用，对单个目标造成黯蚀伤害。队伍成员无法学习此法术。
 
 ## 描述
 

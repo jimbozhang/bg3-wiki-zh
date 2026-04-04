@@ -1,6 +1,6 @@
 # 恢复活力
 
-**恢复活力**是一个[等级 3 塑能学派法术](Spells.md "Spells")。它是在施放[活力监守](Warden_of_Vitality.md "活力监守")时获得的特殊法术，只需使用一个[附赠动作](Actions.md#Resources "动作")即可治疗施法者或一名盟友。
+**恢复活力**是一个[法术](Spells.md "法术")。它是在施放[活力监守](Warden_of_Vitality.md "活力监守")时获得的特殊法术，只需使用一个[附赠动作](Actions.md#Resources "动作")即可治疗施法者或一名盟友。
 
 ## 描述
 

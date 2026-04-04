@@ -1,6 +1,6 @@
 # 橡子松露精华
 
-**橡子松露精华**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以创造[动物交谈药水](Potion_of_Animal_Speaking.md "动物交谈药水")。
+**橡子松露精华**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[盐](Alchemy.md#Extractions "炼金术")结合，以创造[动物交谈药水](Potion_of_Animal_Speaking.md "动物交谈药水")。
 
 就像从中提取的松露一样，这种精华的鲜艳颜色和气味似乎能吸引各种小动物。
 

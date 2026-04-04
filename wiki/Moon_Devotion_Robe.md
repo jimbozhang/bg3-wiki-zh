@@ -1,6 +1,6 @@
 # 奉献皎月长袍
 
-奉献皎月长袍是一件非常稀有的[服装](Clothing.md "服装")。它赋予[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")的[优势](Advantage.md "优势")，以及施放[燃火术](Produce_Flame.md "燃火术")和[月光壁垒](Mage_Armour.md "魔法护甲")的能力。
+奉献皎月长袍是一件非常稀有的[服装](Clothing.md "服装")。它赋予[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")的[优势](Advantage.md "优势")，以及施放[燃火术](Produce_Flame.md "燃火术")和[魔法护甲](Mage_Armour.md "魔法护甲")的能力。
 
 一段童年的记忆：一张温暖的床。透过破裂的窗户，她能看到月光如同银色的手掌般捧着树上的李子。女神[塞伦涅](Sel%C3%BBne.md "塞伦涅")的名字浮现在她脑海中，从此再未离开。
 

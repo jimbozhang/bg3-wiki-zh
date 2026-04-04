@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏进程获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-这是一面具有[惑控学派](Shields.md "Shields")的[盾牌](Shields.md "Shields")，可为穿戴者提供额外的+2[护甲等级](Armour_Class.md "Armour Class")。尽管如此，它仅被称为“盾牌”。
+这是一面具有[盾牌](Shields.md "盾牌")的[盾牌](Shields.md "Shields")，可为穿戴者提供额外的+2[护甲等级](Armour_Class.md "Armour Class")。尽管如此，它仅被称为“盾牌”。
 
 这面盾牌上刻有一个早已被遗忘的家族的纹章。
 

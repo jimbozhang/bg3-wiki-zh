@@ -7,7 +7,7 @@
 
 ### 阵营
 
-[巴尔邪教](Bhaal.md "Bhaal")
+[巴尔](Bhaal.md "巴尔")
 
 ## 属性
 
@@ -92,15 +92,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离内在黑暗中视物。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术狙击**](Spell_Sniper.md "法术狙击")
+- [法术狙击](Spell_Sniper.md "法术狙击")
 
 你学会一个[戏法](Cantrip.md "戏法")，并且使用[法术](Spells.md "法术")攻击时，打出[重击](Critical_Hit.md "重击")所需的点数减少 1。此效果可叠加。
 
@@ -158,19 +158,19 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可在一定距离内在黑暗中视物。
 
-- [**咒法专注**](Focused_Conjuration.md "咒法专注")
+- [咒法专注](Focused_Conjuration.md "咒法专注")
 
 当你[专注](Concentration.md "专注")于咒法学派法术时，所受伤害不会打断你的[专注](Concentration.md "专注")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**法术狙击**](Spell_Sniper.md "法术狙击")
+- [法术狙击](Spell_Sniper.md "法术狙击")
 
 你学会一个[戏法](Cantrip.md "戏法")，并且使用[法术](Spells.md "法术")攻击时，打出[重击](Critical_Hit.md "重击")所需的点数减少 1。此效果可叠加。
 

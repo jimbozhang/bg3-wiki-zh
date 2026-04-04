@@ -57,9 +57,9 @@ _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获
 ## 备注
 
 - 可以通过以下方式释放这把剑：
-  - 通过 DC 15 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定")将其从石头中拔出。
-  - 通过 DC 15 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定")学习如何解除将其固定在原地的魔法。[罗丝](Lolth.md "罗丝")的牧师在此检定上有[优势](Advantage.md "优势")。
-  - 圣武士可以通过 DC 10 [宗教](Religion.md "宗教") [检定](Ability_Check.md "属性检定")（带有[优势](Advantage.md "优势"))来考虑释放此剑的适当仪式。如果成功，他们可以执行仪式或使用他们的誓言来证明自己的价值（DC 10 [魅力](Charisma.md "魅力") [检定](Ability_Check.md "属性检定")）。
+  - 通过 DC 15 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定")将其从石头中拔出。
+  - 通过 DC 15 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定")学习如何解除将其固定在原地的魔法。[罗丝](Lolth.md "罗丝")的牧师在此检定上有[优势](Advantage.md "优势")。
+  - 圣武士可以通过 DC 10 [宗教](Religion.md "宗教") [属性检定](Ability_Check.md "属性检定")（带有[优势](Advantage.md "优势"))来考虑释放此剑的适当仪式。如果成功，他们可以执行仪式或使用他们的誓言来证明自己的价值（DC 10 [魅力](Charisma.md "魅力") [属性检定](Ability_Check.md "属性检定")）。
   - [伊莉丝翠](Eilistraee.md "伊莉丝翠")的牧师无需进行属性检定即可释放此剑。
   - 在对话外将血洒在剑上也能释放它。可以让一名队伍成员攻击另一名成员，或者如果队伍成员拥有[仪式匕首](Ritual_Dagger.md "仪式匕首")，则执行[血祭](Blood_Sacrifice.md "血祭")，用[血](Blood_(surface).md "血（地表）")地表覆盖剑身。这将使其发光，因此无需任何属性检定即可将其拔出。
 - 长剑通常不具有[灵巧](Finesse.md "灵巧")属性；生离死别在这方面很特别。唯一的另一个例子是[拉瑞斯安之怒](Larethian's_Wrath.md "拉瑞斯安之怒")。

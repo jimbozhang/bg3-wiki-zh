@@ -4,14 +4,14 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 寻找斯郎博](#finding-thrumbo)
-  - [2.2 与秘术师卡里翁结盟](#siding-with-mystic-carrion)
-  - [2.3 与斯郎博结盟](#siding-with-thrumbo)
-- [3 任务奖励](#quest-rewards)
-- [4 备注](#notes)
-- [5 错误](#bugs)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 寻找斯郎博](#寻找斯郎博)
+  - [2.2 与秘术师卡里翁结盟](#与秘术师卡里翁结盟)
+  - [2.3 与斯郎博结盟](#与斯郎博结盟)
+- [3 任务奖励](#任务奖励)
+- [4 备注](#备注)
+- [5 错误](#错误)
 
 ## 目标
 
@@ -75,9 +75,9 @@
 
 ### 与秘术师卡里翁结盟
 
-找到斯郎博后，可以在任何时候攻击他。队伍需要杀死他并拾取他的尸体，然后带回给秘术师卡里翁。秘术师卡里翁立刻认出了斯郎博的气味并拿走了他的尸体。选择“别急。先告诉我你承诺的奖励。”然后“这就是如今卡诺匹斯罐的市价吗？我期待更多。”会打开秘术师卡里翁的潜在议价空间。通过DC 20的[威吓](Intimidation.md "Intimidation")或[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")可以让卡里翁额外添加一些金币来使交易更诱人。
+找到斯郎博后，可以在任何时候攻击他。队伍需要杀死他并拾取他的尸体，然后带回给秘术师卡里翁。秘术师卡里翁立刻认出了斯郎博的气味并拿走了他的尸体。选择“别急。先告诉我你承诺的奖励。”然后“这就是如今卡诺匹斯罐的市价吗？我期待更多。”会打开秘术师卡里翁的潜在议价空间。通过DC 20的[威吓](Intimidation.md "Intimidation")或[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")可以让卡里翁额外添加一些金币来使交易更诱人。
 
-或者，如果队伍曾前往[底城废墟](Undercity_Ruins.md "Undercity Ruins")中的[古代密室](Ancient_Lair.md "Ancient Lair")并找到了[丧葬罐的形式与功能](Funerary_Jar_Form_and_Function.md "Funerary Jar Form and Function")这本书，那么可以选择告诉斯郎博。他吐出了心脏，现在可以收集了。秘术师卡里翁接受了这一点，从而可以完成任务。通过DC 20的[威吓](Intimidation.md "Intimidation")或[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")可以额外添加一些金币。
+或者，如果队伍曾前往[底城废墟](Undercity_Ruins.md "Undercity Ruins")中的[古代密室](Ancient_Lair.md "Ancient Lair")并找到了[丧葬罐的形式与功能](Funerary_Jar_Form_and_Function.md "Funerary Jar Form and Function")这本书，那么可以选择告诉斯郎博。他吐出了心脏，现在可以收集了。秘术师卡里翁接受了这一点，从而可以完成任务。通过DC 20的[威吓](Intimidation.md "Intimidation")或[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")可以额外添加一些金币。
 
 如果基于任务[解救艺术家](Free_the_Artist.md "Free the Artist")来议价队伍的服务，队伍还会获得[驱散火炬](Torch_of_Revocation.md "Torch of Revocation")。
 
@@ -93,7 +93,7 @@
 
 - [秘术师卡里翁大脑罐](Jar_of_Mystic_Carrion's_Brain.md "Jar of Mystic Carrion's Brain")在古代密室的桌子上
 - [秘术师卡里翁肝脏罐](Jar_of_Mystic_Carrion's_Liver.md "Jar of Mystic Carrion's Liver")在古代密室的一个[镀金箱子](Gilded_Chest.md "Gilded Chest")中
-- [秘术师卡里翁肺脏罐](Jar_of_Mystic_Carrion's_Lungs.md "Jar of Mystic Carrion's Lungs")在[墓园停尸房](Mortuary.md "Mortuary")的地下室
+- [秘术师卡里翁肺脏罐](Jar_of_Mystic_Carrion's_Lungs.md "Jar of Mystic Carrion's Lungs")在[停尸房](Mortuary.md "停尸房")的地下室
 
 摧毁心脏后，秘术师卡里翁可以被永久杀死。队伍必须返回宅邸并与他战斗，以永远解放斯郎博和他的朋友们。杀死秘术师卡里翁后，斯郎博和他的三个朋友搬进了宅邸。斯郎博接替卡里翁，成为一名灵媒和商人，出售与他前主人相同的物品。
 

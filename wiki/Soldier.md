@@ -28,22 +28,22 @@
 | 20 | 武装起来！ | 帮助[盖克斯](Guex.md "盖克斯")学会战斗。 |  |
 | [地精营地](Goblin_Camp.md "地精营地") | 25 | 无首部落 | 击杀地精营地中的所有首领。与[屠杀的奖赏](Criminal#Slaughter's_Prize.md#Slaughter's_Prize "罪犯")和[被遗忘者的守护者](Folk_Hero#Guardian_of_the_Forgotten.md#Guardian_of_the_Forgotten "平民英雄")互斥。[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")、[古特](Gut.md "古特")和[明萨拉](Minthara.md "明萨拉")是相关首领。 |
 | [山隘](Mountain_Pass.md "山隘") | 30 | 征服征服者 | 击败吉斯洋基人掠夺小队。与[银刃银舌](Charlatan#Silver_Blades,_Silver_Tongue.md#Silver_Blades,_Silver_Tongue "骗子")互斥。需要实际与他们战斗；和平解决不会授予激励点。 |
-| [升腾之路](Risen_Road.md "升腾之路") | 30 | 命令链 | 在[燃烧的旅店](Waukeen's_Rest.md "渥金的休眠地")遵循[焰拳](Flaming_Fist.md "焰拳")的命令。在撞倒门后获得。 |
-| 30 | 地狱战士 | 击杀寻求[卡菈克](Karlach.md "卡菈克")的[邪教徒首领](Anders.md "安德斯")。 |  |
+| [升腾之路](Risen_Road.md "升腾之路") | 30 | 命令链 | 在[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")遵循[焰拳](Flaming_Fist.md "焰拳")的命令。在撞倒门后获得。 |
+| 30 | 地狱战士 | 击杀寻求[卡菈克](Karlach.md "卡菈克")的[安德斯](Anders.md "安德斯")。 |  |
 | [幽暗地域](Underdark.md "幽暗地域") | 30 | 暗域溺亡 | 击败在[黑檀湖](Ebonlake.md "黑檀湖")巡逻的[灰矮人](Duergar.md "灰矮人")。 |  |
 | 第二幕 |  |  |  |
 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") | 75 | 知己知彼 | 在[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")的镜之试炼中击败自己。 |
-| 75 | 退回发件者 | 击杀[奥诺恩](Yurgir.md "尤格")，将其送回[拉斐尔](Raphael.md "拉斐尔")处。 |  |
+| 75 | 退回发件者 | 击杀[尤格](Yurgir.md "尤格")，将其送回[拉斐尔](Raphael.md "拉斐尔")处。 |  |
 | 75 | 信仰战士 | 拯救并释放暗夜之歌。 |  |
 | 75 | 财富战士 | 将[暗夜之歌](Aylin.md "艾琳")交给[凯瑟里克](Ketheric.md "凯瑟里克")。允许[巴萨扎尔](Balthazar.md "巴萨扎尔")将暗夜之歌从堕影冥界运走。 |  |
 | [终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店") | 75 | 至上的破坏 | 摧毁终焉光芒。 |
 | 50 | 月之护盾 | 从伊索贝尔处获得塞伦涅的祝福。 |  |
 | [月出之塔](Moonrise_Towers.md "月出之塔") | 95 | 骨中挑刺 | 在突袭期间克服月出之塔监狱中的骷髅。 |
 | 75 | 至上真神的毁灭 | 完成对月出之塔的突袭。 |  |
-| 50 | 有缺口的盔甲 | 向[熊地精商人](Lann_Tarv.md "兰恩·塔夫")展示你的实力。 |  |
-| [雷斯文小镇](Reithwin_Town.md "雷斯文小镇") | 60 | 一天一苹果，手术刀远离我 | 在未被手术的情况下击败[外科医生](Malus_Thorm.md "马鲁斯·索姆")。 |  |
-| 60 | 家族灭绝 | 击杀索姆家族的所有成员。这仅包括[格灵哥斯](Gerringothe_Thorm.md "格灵哥斯·索姆")、[马鲁斯](Malus_Thorm.md "马鲁斯·索姆")和[西索博得](Thisobald_Thorm.md "西索博得·索姆")。 |  |
-| 60 | 最好的进攻近乎无稽之谈 | 在不拔剑的情况下击败索姆家族成员。[格灵哥斯](Gerringothe_Thorm.md "格灵哥斯·索姆")、[马鲁斯](Malus_Thorm.md "马鲁斯·索姆")和[西索博得](Thisobald_Thorm.md "西索博得·索姆")都可以通过一系列技能检定被消灭。 |  |
+| 50 | 有缺口的盔甲 | 向[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")展示你的实力。 |  |
+| [雷斯文小镇](Reithwin_Town.md "雷斯文小镇") | 60 | 一天一苹果，手术刀远离我 | 在未被手术的情况下击败[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")。 |  |
+| 60 | 家族灭绝 | 击杀索姆家族的所有成员。这仅包括[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")、[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")和[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")。 |  |
+| 60 | 最好的进攻近乎无稽之谈 | 在不拔剑的情况下击败索姆家族成员。[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")、[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")和[西索博得·索姆](Thisobald_Thorm.md "西索博得·索姆")都可以通过一系列技能检定被消灭。 |  |
 | [幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地") | 50 | 百年宿怨 | 完成哈贝尔的伏击。 |  |
 | 75 | 完美处决 | 在单轮战斗中击杀[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")内及周围的任何首领。 |  |
 | 50 | 战争的现实 | 告诉阿拉贝尔她父母的遭遇。 |  |
@@ -51,17 +51,17 @@
 | [巴尔神殿](Bhaal_Temple.md "巴尔神殿") | 220 | 将过去安息 | 处决[奥林](Orin.md "奥林")。 |  |
 | [希望之邸](House_of_Hope.md "希望之邸") | 220 | 火热撤离 | 逃离[希望之邸](House_of_Hope.md "希望之邸")。 |  |
 | [下城区](Lower_City.md "下城区") | 220 | 双重打击 | 击杀[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")...再次... |  |
-| 170 | 易变性的创新 | 第二次将你的血交给[阿拉吉](Araj_Oblodra.md "阿拉吉·欧布罗扎")。 |  |
+| 170 | 易变性的创新 | 第二次将你的血交给[阿拉吉·欧布罗扎](Araj_Oblodra.md "阿拉吉·欧布罗扎")。 |  |
 | 220 | 踢翻铁锈桶 | 摧毁一名钢铁卫士。 |  |
-| 220 | 暗影中的刀锋 | 在[莎尔修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")的对峙中存活。 |  |
+| 220 | 暗影中的刀锋 | 在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")的对峙中存活。 |  |
 | 135 | 爱那气味 | 援助地底侏儒并使用符文火药炸弹炸毁[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")。 |  |
 | 170 | 紧急通讯 | 与[耐色脑](Netherbrain.md "耐色脑")沟通。在公园伏击后与[精卫埃德诺萨](Manip_Edenosa.md "精卫埃德诺萨")交谈。 |  |
 | 170 | 老兵热点 | 在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")购买一个房间。 |  |
-| [利文顿](Rivington.md "利文顿") | 135 | 清除混乱行动者 | 斩首[地底侏儒起义者](Angleiron's_Cellar.md "角铁地窖")。这需要从[月出之塔](Moonrise_Towers.md "月出之塔")拯救乌尔布伦，但随后作为[处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")的一部分杀死他。 |  |
+| [利文顿](Rivington.md "利文顿") | 135 | 清除混乱行动者 | 斩首[角铁地窖](Angleiron's_Cellar.md "角铁地窖")。这需要从[月出之塔](Moonrise_Towers.md "月出之塔")拯救乌尔布伦，但随后作为[处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")的一部分杀死他。 |  |
 | 135 | 报到执勤 | 向[轻羽指挥官](Commander_Lightfeather.md "轻羽指挥官")报到。 |  |
 | 135 | 分享战利品 | [捐赠](Nestor.md "内斯特")给难民。 |  |
-| [上城区](Upper_City.md "上城区") | 220 | 鲁道夫·范·里克托越过我的尸体 | 击败已升天的[卡扎多尔](Cazador_Szarr.md "卡扎多尔·扎尔")。 |  |
-| [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") | 170 | 军事法庭 | 揭露[焰拳逃兵](Fist_Reynash.md "焰拳雷纳什")。 |  |
+| [上城区](Upper_City.md "上城区") | 220 | 鲁道夫·范·里克托越过我的尸体 | 击败已升天的[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")。 |  |
+| [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") | 170 | 军事法庭 | 揭露[焰拳雷纳什](Fist_Reynash.md "焰拳雷纳什")。 |  |
 | 170 | 伟大的传奇之盔 | 找到[博德安之盔](Helm_of_Balduran.md "博德安之盔")。 |  |
 | 220 | 弑君 | 处决[戈塔什](Gortash.md "戈塔什")。 |  |
 

@@ -1,6 +1,6 @@
 # 树皮盐
 
-**树皮盐**是一种[炼金术萃取物](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extraction "炼金术")结合，以制造[树肤术灵药](Elixir_of_Barkskin.md "树肤术灵药")。
+**树皮盐**是一种[炼金术](Alchemy.md "炼金术")。它可以与任何[悬液](Alchemy.md#Extraction "炼金术")结合，以制造[树肤术灵药](Elixir_of_Barkskin.md "树肤术灵药")。
 
 与恶性的[枯萎术](Blight_(race).md), [菘蓝树人](Wood_Woad.md "菘蓝树人")是为了特定目的而创造的。考虑到创造它们的仪式之残酷，由此衍生的灵药无疑会让人像树皮一样坚韧顽强。
 

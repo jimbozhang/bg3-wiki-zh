@@ -2,13 +2,13 @@
 
 | 物品 | 附魔 | 伤害 | 伤害/类型 | 重量 | 价格 | 特殊效果 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [争端解决者](Argument_Solver.md "争端解决者") | +1 | 1d8 + 1 | 钝击 | 4.5 kg / 9 lb | 65 | [毒雾](Poison_Mist.md "毒雾") () 命中时，造成额外等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的[毒素](Poison.md "毒素")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
-| [手动吸血器 (+1)](Artificial_Leech_(+1).md "手动吸血器 (+1)") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [放血](Bloodletting.md "放血") () 刺穿敌人的肉体，可能使其[流血](Bleeding_(Condition).md "流血（状态）")。某些[亡灵](Undead.md "亡灵")和[构装生物](Construct.md "构装生物")不会流血。 ( 重充能：[短休](Short_rest.md "短休")。) |
+| [争端解决者](Argument_Solver.md "争端解决者") | +1 | 1d8 + 1 | 钝击 | 4.5 kg / 9 lb | 65 | [毒雾](Poison_Mist.md "毒雾") () 命中时，造成额外等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的[中毒](Poison.md "中毒")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
+| [手动吸血器 (+1)](Artificial_Leech_(+1).md "手动吸血器 (+1)") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [放血](Bloodletting.md "放血") () 刺穿敌人的肉体，可能使其[流血](Bleeding_(Condition).md "流血（状态）")。某些[不死生物](Undead.md "不死生物")和[构装生物](Construct.md "构装生物")不会流血。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [刺客短剑](Assassin's_Shortsword.md "刺客短剑") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [优势](Advantage.md "优势")于潜行检定。 |
 | [刺客之触](Assassin's_Touch.md "刺客之触") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 40 | [致命沉睡](Deathly_Slumber.md "致命沉睡")对[倒地](Knocked_Out_(Condition).md "倒地（状态）")或[睡眠](Sleeping_(Condition).md "睡眠（状态）")的生物造成额外1d4[黯蚀](Necrotic.md "黯蚀")伤害。 |
 | [战斧 +1](Battleaxe_+1.md "战斧 +1") | +1 | 1d8 + 1 | 挥砍 | 1.9 kg / 3.8 lb | 65 |  |
 | [骨锯 (+1)](Bonesaw_(+1).md "骨锯 (+1)") | +1 | 1d8 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 85 | [断筋](Incise_Ligaments.md "断筋") () 将锯子最黑的齿磨入敌人的小腿，可能使其[缓慢](Slowed_(Condition).md "缓慢（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
-| [警觉短弓](Bow_of_Awareness.md "警觉短弓") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [鲜少措手不及](Seldom_Caught_Unawares_(+1).md "鲜少措手不及 (+1)")你获得+1到[先攻掷骰](Initiative.md "先攻")。 |
+| [警觉短弓](Bow_of_Awareness.md "警觉短弓") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [鲜少措手不及](Seldom_Caught_Unawares_(+1).md "鲜少措手不及 (+1)")你获得+1到[先攻](Initiative.md "先攻")。 |
 | [仪式战斧](Ceremonial_Battleaxe.md "仪式战斧") | +1 | 1d8 + 1 | 挥砍 | 1.9 kg / 3.8 lb | 65 |  |
 | [仪式长剑](Ceremonial_Longsword.md "仪式长剑") | +1 | 1d8 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 55 |  |
 | [仪式硬头锤](Ceremonial_Mace.md "仪式硬头锤") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 40 |  |
@@ -27,7 +27,7 @@
 | [破誓者](Faithbreaker.md "破誓者") | +1 | 1d8 + 1 | 钝击 | 2.7 kg / 5.4 lb | 300 | [至上力量](Absolute_Power.md "至上力量") () 神圣能量伴随着你的挥击。造成额外1d6[力场](Force.md "力场")伤害，并可能将你的目标击退5米/17英尺。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [引火者](Firestoker.md "引火者") |  | 1d6 | 穿刺 | 0.9 kg / 1.8 lb | 100 | [烈火焚身](Burned_Alive.md "烈火焚身")对[燃烧](Burning_(Condition).md "燃烧（状态）")的目标造成额外1d4[武器](Weapon.md "武器")伤害。 |
 | [链枷 +1](Flail_+1.md "链枷 +1") | +1 | 1d8 + 1 | 钝击 | 0.9 kg / 1.8 lb | 65 |  |
-| [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 130 | [猎魔](Feller_of_Monsters.md "猎魔")你对[怪兽](Monstrosity.md "怪兽")类敌人拥有[优势](Advantage.md "优势")。[神圣弹药](Sacred_Munitions.md "神圣弹药") () 为你的弩箭注入神圣能量。在你本回合剩余时间内，你的远程武器攻击对[亡灵](Undead.md "亡灵")造成[震慑](Turned_(Condition).md "震慑（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
+| [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 130 | [猎魔](Feller_of_Monsters.md "猎魔")你对[怪兽](Monstrosity.md "怪兽")类敌人拥有[优势](Advantage.md "优势")。[神圣弹药](Sacred_Munitions.md "神圣弹药") () 为你的弩箭注入神圣能量。在你本回合剩余时间内，你的远程武器攻击对[不死生物](Undead.md "不死生物")造成[震慑](Turned_(Condition).md "震慑（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 85 |  |
 | [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑") | +1 | 2d6 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 85 |  |
 | [吉斯洋基巨剑 (灵能)](Githyanki_Greatsword_(Psionic).md "吉斯洋基巨剑 (灵能)") | +1 | 2d6 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 130 | [吉斯灵能武器](Githborn_Psionic_Weapon.md "吉斯灵能武器")当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器造成额外1d4[心灵](Psychic.md "心灵")伤害。 |
@@ -42,11 +42,11 @@
 | [手弩 +1](Hand_Crossbow_+1.md "手弩 +1") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 |  |
 | [手斧 +1](Handaxe_+1.md "手斧 +1") | +1 | 1d6 + 1 | 挥砍 | 0.9 kg / 1.8 lb | 40 |  |
 | [重弩 +1](Heavy_Crossbow_+1.md "重弩 +1") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 85 |  |
-| [地狱骑士团长弓](Hellrider_Longbow.md "地狱骑士团长弓") | +1 | 1d8 + 1 | 穿刺 | 1.1 kg / 2.2 lb | 770 | [加强感知](Heightened_Awareness.md "加强感知")获得+3到[先攻](Initiative.md "先攻")掷骰和[察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "检定")的[优势](Advantage.md "优势")。[邪魔火焰](Fiendish_Fire.md "邪魔火焰")每回合一次，被此武器击中的生物可能遭受[妖火](Faerie_Fire_(Condition).md "妖火（状态）")。 |
+| [地狱骑士团长弓](Hellrider_Longbow.md "地狱骑士团长弓") | +1 | 1d8 + 1 | 穿刺 | 1.1 kg / 2.2 lb | 770 | [加强感知](Heightened_Awareness.md "加强感知")获得+3到[先攻](Initiative.md "先攻")掷骰和[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")的[优势](Advantage.md "优势")。[邪魔火焰](Fiendish_Fire.md "邪魔火焰")每回合一次，被此武器击中的生物可能遭受[妖火](Faerie_Fire_(Condition).md "妖火（状态）")。 |
 | [跳跳](Hoppy.md "跳跳") | +1 | 1d8 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 100 | [再生打击](Revitalising_Strike.md "再生打击") () 猛击敌人，使其受伤并治疗自己的伤势。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [猎人匕首](Hunter's_Dagger.md "猎人匕首") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [地动山摇](Rupturing.md "地动山摇")命中时，目标在3回合内[撕裂](Ruptured_(Condition).md "撕裂（状态）")。 |
 | [狩猎短弓](Hunting_Shortbow.md "狩猎短弓") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [猎魔](Feller_of_Monsters.md "猎魔")你对[怪兽](Monstrosity.md "怪兽")类敌人拥有[优势](Advantage.md "优势")。[猎人印记](Hunter's_Mark.md "猎人印记") () 施放为1环法术 ( 重充能：[长休](Long_Rest.md "长休")。) |
-| [地狱硬头锤 (不常见)](Infernal_Mace_(Uncommon).md "地狱硬头锤 (不常见)") | +1 | 1d6 + 1 / 3 | 钝击 / 毒素 | 1.8 kg / 3.6 lb | 65 | [地狱武器](Infernal_Weapon.md "地狱武器")命中时，此武器造成额外3[毒素](Poison.md "毒素")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒（状态）")。 |
+| [地狱硬头锤 (不常见)](Infernal_Mace_(Uncommon).md "地狱硬头锤 (不常见)") | +1 | 1d6 + 1 / 3 | 钝击 / 毒素 | 1.8 kg / 3.6 lb | 65 | [地狱武器](Infernal_Weapon.md "地狱武器")命中时，此武器造成额外3[中毒](Poison.md "中毒")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒（状态）")。 |
 | [顽固战锤](Intransigent_Warhammer.md "顽固战锤") |  | 1d8 | 钝击 | 2.7 kg / 5.4 lb | 100 | [斥力爆](Impulse_Blast.md "斥力爆")在击杀目标或造成[重击](Critical_Hit.md "重击")后，击倒附近的生物使其[倒地](Prone_(Condition).md "倒地（状态）")。 |
 | [硬木短棒](Ironwood_Club.md "硬木短棒") | +1 | 1d4 + 1 | 钝击 | 0.9 kg / 1.8 lb | 65 | 当[橡棍术](Shillelagh.md "橡棍术")施放于此武器时，获得[硬木和谐](Ironwood_Harmony_(Condition).md "硬木和谐（状态）") (+1d4 钝击伤害)。 |
 | [锯齿矛](Jagged_Spear.md "锯齿矛") |  | 1d6 | 穿刺 | 1.35 kg / 2.7 lb | 330 | [拷虐之刃](Torturous_Edges.md "拷虐之刃")受折磨的生物可能在体质[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")。 |
@@ -90,7 +90,7 @@
 | [短矛 +1](Spear_+1.md "短矛 +1") | +1 | 1d6 + 1 | 穿刺 | 1.35 kg / 2.7 lb | 40 |  |
 | [迅捷回击](Speedy_Reply.md "迅捷回击") |  | 1d6 | 挥砍 | 1.35 kg / 2.7 lb | 65 | [灵巧打击](Nimble_Attack.md "灵巧打击")当使用者用此武器击中敌人时，获得2回合的[动量](Momentum_(Condition).md "动量（状态）")。 |
 | [盗法者](Spellthief.md "盗法者") |  | 1d8 | 穿刺 | 1.1 kg / 2.2 lb | 100 | [奥术激荡](Arcane_Vehemence.md "奥术激荡")每[短休](Short_rest.md "短休")一次，当你用盗法者造成[重击](Critical_Hit.md "重击")时，恢复1个1环[法术位](Spell_Slot.md "法术位")。 |
-| [呢喃法师之杖](Staff_of_a_Mumbling_Wizard.md "呢喃法师之杖") |  | 1d6 | 钝击 | 1.8 kg / 3.6 lb | 10 | [火球术术？](Firebolt_q_.md "火球术术？") 随意施放戏法，但有1/20几率引发[火球术术](Fireball.md "火球术术")爆炸。 |
+| [呢喃法师之杖](Staff_of_a_Mumbling_Wizard.md "呢喃法师之杖") |  | 1d6 | 钝击 | 1.8 kg / 3.6 lb | 10 | [火球术术？](Firebolt_q_.md "火球术术？") 随意施放戏法，但有1/20几率引发[火球术](Fireball.md "火球术")爆炸。 |
 | [奥术祝福法杖](Staff_of_Arcane_Blessing.md "奥术祝福法杖") |  | 1d6 | 钝击 | 1.8 kg / 3.6 lb | 100 | [密斯特拉的祝福](Mystra's_Blessing.md "密斯特拉的祝福")你[祝福术](Bless.md "祝福术")的生物也会获得[密斯特拉的祝福](Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md "密斯特拉的祝福（奥术祝福法杖）（状态）")，获得额外1d4到法术攻击掷骰。[[见：错误](Mystra's_Blessing#Bugs.md#Bugs "密斯特拉的祝福")] [祝福术](Bless.md "祝福术") () 施放为1环法术 ( 重充能：[长休](Long_Rest.md "长休")。) |
 | [鬼婆的法杖](Staff_of_Crones.md "鬼婆的法杖") |  | 1d6 | 钝击 | 1.8 kg / 3.6 lb | 430 | [疾病射线](Ray_of_Sickness.md "疾病射线") () 施放为1环法术 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [钢铸剑](Steelforged_Sword.md "钢铸剑") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 60 |  |
@@ -100,7 +100,7 @@
 | [森林弯刀](Sylvan_Scimitar.md "森林弯刀") | +1 | 1d6 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 65 | [近战施法者](Melee_Caster.md "近战施法者")受影响的实体使用其[施法关键属性](Ability_scores#Spellcasting_ability.md#施法关键属性)调整值代替其敏捷[调整值](Ability_scores#Ability_score_modifiers.md#属性调整值)来添加到[攻击掷骰](Attack_roll.md "攻击掷骰")。 |
 | [注射器 (+1)](Syringe_(+1).md "注射器 (+1)") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [注射秘药](Inject_Nostrum.md "注射秘药") () 将注射器中的神秘液体注入敌人，可能使其[中毒](Poisoned_(Condition).md "中毒（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [剥皮者](The_Skinburster.md "剥皮者") | +1 | 1d10 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 130 | [剥皮之力](Skinburster_Force.md "剥皮之力")当使用者用此武器造成近战伤害时，获得2回合的[导力](Force_Conduit_(Condition).md "导力（状态）")。 |
-| [不死灾祸](The_Undead_Bane.md "不死灾祸") | +1 | 1d12 + 1 | 挥砍 | 3.15 kg / 6.3 lb | 130 | [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")此武器对[邪魔](Fiend.md "邪魔")和[亡灵](Undead.md "亡灵")造成额外1d6[挥砍](Slashing.md "挥砍")伤害。[亵渎灾祸](Profane_Scourge.md "亵渎灾祸") () 以征服之怒打击，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")添加到伤害掷骰中。如果击中[邪魔](Fiend.md "邪魔")或[亡灵](Undead.md "亡灵")生物，造成额外2d6[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并可能使其[枯竭](Bane_(Condition).md "枯竭（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
+| [不死灾祸](The_Undead_Bane.md "不死灾祸") | +1 | 1d12 + 1 | 挥砍 | 3.15 kg / 6.3 lb | 130 | [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外1d6[挥砍](Slashing.md "挥砍")伤害。[亵渎灾祸](Profane_Scourge.md "亵渎灾祸") () 以征服之怒打击，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")添加到伤害掷骰中。如果击中[邪魔](Fiend.md "邪魔")或[不死生物](Undead.md "不死生物")生物，造成额外2d6[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并可能使其[枯竭](Bane_(Condition).md "枯竭（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [钢铁卫士的指引](The_Watcher's_Guide.md "钢铁卫士的指引") |  | 1d6 | 穿刺 | 1.35 kg / 2.7 lb | 200 | [至死不渝](Death's_Promise.md "至死不渝")当矛未命中目标时，使用者的下一次对该目标的[攻击掷骰](Attack_roll.md "攻击掷骰")获得[克敌机先](True_Strike_(Condition).md "克敌机先（状态）")。 |
 
 ---

@@ -17,17 +17,17 @@
   - 需要战斗（或潜行绕过）三只[鸟妖](Harpy.md "Harpy")，但这可以极早完成
 - [塞伦涅选民护符](Amulet_of_Sel%C3%BBne's_Chosen.md "塞伦涅选民护符") - 位于[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")的宝藏堆中
   - 赠予[塞伦涅的梦境](Sel%C3%BBne's_Dream.md "塞伦涅的梦境")
-    - 恢复 1d8⁠⁠[生命值](Healing.md "Healing")，但你有让目标[沉睡](Sleeping_(Condition).md "沉睡 (状态)")的风险
+    - 恢复 1d8⁠⁠[治疗](Healing.md "治疗")，但你有让目标[沉睡](Sleeping_(Condition).md "沉睡 (状态)")的风险
   - 在低等级时对付拉格兹林有点棘手，但为盖尔的第三件物品保留这个可能有帮助
 - [照明灯](Guiding_Light.md "照明灯") - 由[伯纳德](Bernard.md "伯纳德")携带，位于[奥法高塔](Arcane_Tower.md "奥法高塔")中 X: -26 Y: -283 处
-  - 赠予[光](Light.md "Light")
+  - 赠予[轻型](Light.md "轻型")
     - 光并非稀有戏法
   - 可以通过对话获得，无需检定
   - 注意：在将其交给盖尔之前，用它进入奥法高塔的隐藏区域
 
 备选：
 
-- [跃动指套](Fleetfingers.md "跃动指套") - 位于[森林](Forest.md "森林")中一个埋藏的宝箱里，在 X: 80 Y: 347 处成功通过 DC 20 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "属性检定")后获得
+- [跃动指套](Fleetfingers.md "跃动指套") - 位于[森林](Forest.md "森林")中一个埋藏的宝箱里，在 X: 80 Y: 347 处成功通过 DC 20 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")后获得
   - 赠予[助跑跳跃](Running_Jump.md "Running Jump")
     - 疾走后的免费跳跃是情境性的
   - 无需战斗

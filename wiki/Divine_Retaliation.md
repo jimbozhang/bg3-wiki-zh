@@ -15,7 +15,7 @@
 \+ 20⁠[光耀](Radiant.md "光耀")（对自己）
 
 详情
-[敏](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（若豁免成功：目标和信仰守卫承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（若豁免成功：目标和信仰守卫承受一半伤害。）
 范围：3米（10英尺）
 
 ## 技术细节

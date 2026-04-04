@@ -104,35 +104,35 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗 [魅惑](Charmed_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")；免疫魔法 [沉睡](Sleeping_(Condition).md)。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 具有 [劣势](Disadvantage.md "劣势")。
 
@@ -186,35 +186,35 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗 [魅惑](Charmed_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")；免疫魔法 [沉睡](Sleeping_(Condition).md)。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 具有 [劣势](Disadvantage.md "劣势")。
 
@@ -268,39 +268,39 @@
 
 - \_(状态)[**守护灵光**](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
 
-该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力调整值](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的 [魅力](Charisma.md "魅力") 作为其 [豁免检定](Saving_throw.md "豁免检定") 的加值。
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**神佑**](Divine_Health.md "神佑")
+- [神佑](Divine_Health.md "神佑")
 
 免疫 [疾病](Disease.md "疾病") 效果。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗 [魅惑](Charmed_(Condition).md) 的 [豁免检定](Saving_throw.md "豁免检定") 具有 [优势](Advantage.md "优势")；免疫魔法 [沉睡](Sleeping_(Condition).md)。
 
-- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
 
 投掷 [双手](Two-Handed.md "双手") 近战伤害时，任何掷出 1 或 2 的骰子可重掷一次。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
-- [**坚韧复仇**](Relentless_Avenger.md "坚韧复仇")
+- [坚韧复仇](Relentless_Avenger.md "坚韧复仇")
 
 如果你用 [借机攻击](Opportunity_Attack.md "借机攻击") 命中敌人，你的 [移动速度](Movement_speed.md "移动速度") 在下一回合增加 4.5 米 / 15 英尺。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和 [察觉技能](Perception.md "察觉技能") 具有 [劣势](Disadvantage.md "劣势")。
 
@@ -330,15 +330,15 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第二章](#act-two)
-    - [1.1.1 月出之塔](#moonrise-towers)
-    - [1.1.2 保卫月出之塔](#defending-moonrise-towers)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-    - [2.1.1 仅限硬核](#tactician-only)
-  - [2.2 战利品](#loot)
-- [3 参考文献](#references)
+- [1 参与度](#参与度)
+  - [1.1 第二章](#第二章)
+    - [1.1.1 月出之塔](#月出之塔)
+    - [1.1.2 保卫月出之塔](#保卫月出之塔)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+    - [2.1.1 仅限硬核](#仅限硬核)
+  - [2.2 战利品](#战利品)
+- [3 参考文献](#参考文献)
 
 ## 参与度
 

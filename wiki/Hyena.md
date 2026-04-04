@@ -66,15 +66,15 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "Alert")
+- [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "Initiative")，且不会[受惊](Surprised.md "Surprised")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 m (10 ft) 内的盟友对与你相邻的敌人进行[攻击掷骰](Attack_Roll.md "Attack Roll")时具有[优势](Advantage.md "Advantage")。
 
@@ -118,15 +118,15 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "Alert")
+- [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "Initiative")，且不会[受惊](Surprised.md "Surprised")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 m (10 ft) 内的盟友对与你相邻的敌人进行[攻击掷骰](Attack_Roll.md "Attack Roll")时具有[优势](Advantage.md "Advantage")。
 
@@ -170,15 +170,15 @@
 
 ## 特性
 
-- [**警觉**](Alert.md "Alert")
+- [警觉](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "Initiative")，且不会[受惊](Surprised.md "Surprised")。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**集群战术**](Pack_Tactics.md "Pack Tactics")
+- [集群战术](Pack_Tactics.md "集群战术")
 
 3 m (10 ft) 内的盟友对与你相邻的敌人进行[攻击掷骰](Attack_Roll.md "Attack Roll")时具有[优势](Advantage.md "Advantage")。
 

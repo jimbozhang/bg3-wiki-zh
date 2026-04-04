@@ -2,7 +2,7 @@
 
 **暴风雨虹吸**
 
-- 附近的风元素执政官使受影响实体获得[闪电伤害](Immune.md "免疫")免疫，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加3d8⁠⁠[闪电](Lightning.md "闪电")伤害。
+- 附近的风元素执政官使受影响实体获得[免疫](Immune.md "免疫")免疫，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加3d8⁠⁠[闪电](Lightning.md "闪电")伤害。
 
 - 受影响实体还临时获得[闪电束](Lightning_Bolt.md "闪电束")，并每回合获得一次额外的[反应](Actions.md#Reactions "动作")。
 
@@ -24,7 +24,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 附近的风元素执政官使受影响实体获得[闪电伤害](Immune.md "免疫")免疫，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加3d8⁠⁠[闪电](Lightning.md "闪电")伤害。
+- 附近的风元素执政官使受影响实体获得[免疫](Immune.md "免疫")免疫，并为[元素叱喝](Elemental_Retort.md "元素叱喝")附加3d8⁠⁠[闪电](Lightning.md "闪电")伤害。
 
 - 受影响实体还临时获得[闪电束](Lightning_Bolt.md "闪电束")，并每回合获得一次额外的[反应](Actions.md#Reactions "动作")。
 

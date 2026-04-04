@@ -1,6 +1,6 @@
 # 妖精仪态：魅惑
 
-**妖精仪态：魅惑**是[至高妖精](Archfey.md "至高妖精")邪术师的[职业动作](Class.md "职业")。此能力允许邪术师在短距离内[魅惑](Charmed_(Condition).md "魅惑 (状态)")敌人。
+**妖精仪态：魅惑**是[至高妖精](Archfey.md "至高妖精")邪术师的[职业](Class.md "职业")。此能力允许邪术师在短距离内[魅惑](Charmed_(Condition).md "魅惑 (状态)")敌人。
 
 ## 描述
 
@@ -35,7 +35,7 @@ UID
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
 
-- 无法攻击施法者。施法者在[对话](Dialogue.md "对话")中进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+- 无法攻击施法者。施法者在[对话](Dialogue.md "对话")中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 ## 学习方式
 

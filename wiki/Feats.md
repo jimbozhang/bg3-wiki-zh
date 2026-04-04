@@ -8,7 +8,7 @@
 
 | 名称 | 描述 |
 | --- | --- |
-| 属性提升 | 将一项[属性值](Abilities.md "属性")提高2点，或将两项属性值各提高1点，上限为20。 |
+| 属性提升 | 将一项[属性](Abilities.md "属性")提高2点，或将两项属性值各提高1点，上限为20。 |
 | 演员 | [演员](Actor.md "演员") |
 | 你的[魅力](Charisma.md "魅力")属性值提高1点，上限为20。你获得[欺瞒](Deception.md "欺瞒")和[表演](Performance.md "表演")的[专精](Proficiency#Expertise.md#Expertise "熟练项")。 |  |
 | 备注 |  |
@@ -28,7 +28,7 @@
 | [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害") |  |
 | 你的[穿刺射击](Piercing_Shot.md "穿刺射击")还会施加持续时间翻倍的[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。 |  |
 | 防御决斗者 | [防御式决斗](Defensive_Duellist.md "防御式决斗") |
-| 当你手持拥有熟练项的[灵巧武器](Finesse.md "灵巧")被近战攻击时，你可以使用[反应](Actions#Reactions.md#Reactions "动作")将[护甲等级](Armour_Class.md "护甲等级")提高等于你的熟练项加值的数值，可能导致攻击未命中。需要[敏捷](Dexterity.md "敏捷")至少13。 |  |
+| 当你手持拥有熟练项的[灵巧](Finesse.md "灵巧")被近战攻击时，你可以使用[反应](Actions#Reactions.md#Reactions "动作")将[护甲等级](Armour_Class.md "护甲等级")提高等于你的熟练项加值的数值，可能导致攻击未命中。需要[敏捷](Dexterity.md "敏捷")至少13。 |  |
 | 备注 |  |
 | 主手装备的武器需要拥有灵巧属性。 |  |
 | 双持客 | [双持客](Dual_Wielder.md "双持客") |
@@ -36,7 +36,7 @@
 | [双持客：附赠护甲等级](Dual_Wielder_colon__Bonus_Armour_Class.md "双持客：附赠护甲等级") |  |
 | 双手各持一把近战武器时，你的[护甲等级](Armour_Class.md "护甲等级")获得+1加值。 |  |
 | 备注 |  |
-| 此专长允许生物双持非[轻型](Light_(weapon_property).md "轻型（武器属性）")武器，但不能是[双手](Two-Handed.md "双手")武器。然而，它不授予[双武器战斗](Two-Weapon_Fighting.md "双武器战斗")战斗风格；没有此风格，持有者仍不会将其[属性调整值](Ability_Modifier.md "属性调整值")加到任何武器的副手近战伤害掷骰上。简易近战武器：[标枪](Javelins.md "标枪")、[硬头锤](Maces.md "硬头锤")、[长棍](Quarterstaves.md "长棍")和[矛](Spears.md "矛")。军用近战武器：[战斧](Battleaxes.md "战斧")、[链枷](Flails.md "链枷")、[长剑](Longswords.md "长剑")、[钉头锤](Morningstars.md "钉头锤")、[刺剑](Rapiers.md "刺剑")、[三叉戟](Tridents.md "三叉戟")、[战镐](War_Picks.md "战镐")和[战锤](Warhammers.md "战锤") |  |
+| 此专长允许生物双持非[轻型](Light_(weapon_property).md "轻型（武器属性）")武器，但不能是[双手](Two-Handed.md "双手")武器。然而，它不授予[双武器战斗](Two-Weapon_Fighting.md "双武器战斗")战斗风格；没有此风格，持有者仍不会将其[属性调整值](Ability_Modifier.md "属性调整值")加到任何武器的副手近战伤害掷骰上。简易近战武器：[标枪](Javelins.md "标枪")、[硬头锤](Maces.md "硬头锤")、[长棍](Quarterstaves.md "长棍")和[短矛](Spears.md "短矛")。军用近战武器：[战斧](Battleaxes.md "战斧")、[链枷](Flails.md "链枷")、[长剑](Longswords.md "长剑")、[钉头锤](Morningstars.md "钉头锤")、[刺剑](Rapiers.md "刺剑")、[三叉戟](Tridents.md "三叉戟")、[战镐](War_Picks.md "战镐")和[战锤](Warhammers.md "战锤") |  |
 | 地城探险者 | [地城探险者：察觉](Dungeon_Delver_colon__Perception.md "地城探险者：察觉") |
 | 你在发现隐藏物品的[察觉技能](Perception.md "察觉技能")检定和避免或抵抗陷阱的[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。 |  |
 | [地城探险者：抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "地城探险者：抗陷阱") |  |
@@ -103,14 +103,14 @@
 | 表演者 | [表演者](Performer.md "表演者") |
 | 你的[魅力](Charisma.md "魅力")属性值提高1点，上限为20。获得[乐器](Instruments.md "乐器")[熟练项](Proficiency#Instrument_proficiency.md#Instrument_proficiency "熟练项")。 |  |
 | 长柄武器大师 | [长柄武器大师：附赠攻击](Polearm_Master_colon__Bonus_Attack.md "长柄武器大师：附赠攻击") |
-| 使用[长柄刀](Glaives.md "长柄刀")、[长戟](Halberds.md "长戟")、[长矛](Pikes.md "长矛")、[长棍](Quarterstaves.md "长棍")或[矛](Spears.md "矛")攻击时，你可以使用[附赠动作](Actions#Resources.md#Resources "动作")用武器末端进行攻击。 |  |
+| 使用[长柄刀](Glaives.md "长柄刀")、[长戟](Halberds.md "长戟")、[长矛](Pikes.md "长矛")、[长棍](Quarterstaves.md "长棍")或[短矛](Spears.md "短矛")攻击时，你可以使用[附赠动作](Actions#Resources.md#Resources "动作")用武器末端进行攻击。 |  |
 | [长柄武器大师：借机攻击](Polearm_Master_colon__Opportunity_Attack.md "长柄武器大师：借机攻击") |  |
 | 当目标进入攻击范围时，你也可以进行[借机攻击](Opportunity_Attack.md "借机攻击")。 |  |
 | 备注 |  |
 | 此攻击的伤害调整值使用力量或敏捷中较高者，即使武器没有[灵巧](Finesse.md "灵巧")属性。使用[橡棍术](Shillelagh.md "橡棍术")时也是如此。长柄武器大师对长矛也有效，尽管游戏内未说明。（参见[[](#cite_note-PikesPolearmMaster-2 "[")注释 2]）如果在升级时选择此专长，角色面板的"重要特性"中不会有相关显示。此外，[长柄武器大师：附赠攻击](Polearm_Master_colon__Bonus_Attack.md "长柄武器大师：附赠攻击")和[长柄武器大师：借机攻击](Polearm_Master_colon__Opportunity_Attack.md "长柄武器大师：借机攻击")是[情境动作](Actions#Overview.md#Overview "动作")，仅在战斗中的快捷栏可见。 |  |
-| 坚如磐石 | 你将一项[属性](Ability_Scores.md "属性值")提高1点，上限为20。获得该属性[豁免检定](Saving_throw.md "豁免检定")的[熟练项](Proficiency.md "熟练项")。可用的被动特性为：[坚如磐石：力量](Resilient_colon__Strength.md "坚如磐石：力量") [坚如磐石：敏捷](Resilient_colon__Dexterity.md "坚如磐石：敏捷") [坚如磐石：体质](Resilient_colon__Constitution.md "坚如磐石：体质") [坚如磐石：智力](Resilient_colon__Intelligence.md "坚如磐石：智力") [坚如磐石：感知](Resilient_colon__Wisdom.md "坚如磐石：感知") [坚如磐石：魅力](Resilient_colon__Charisma.md "坚如磐石：魅力") |
+| 坚如磐石 | 你将一项[属性值](Ability_Scores.md "属性值")提高1点，上限为20。获得该属性[豁免检定](Saving_throw.md "豁免检定")的[熟练项](Proficiency.md "熟练项")。可用的被动特性为：[坚如磐石：力量](Resilient_colon__Strength.md "坚如磐石：力量") [坚如磐石：敏捷](Resilient_colon__Dexterity.md "坚如磐石：敏捷") [坚如磐石：体质](Resilient_colon__Constitution.md "坚如磐石：体质") [坚如磐石：智力](Resilient_colon__Intelligence.md "坚如磐石：智力") [坚如磐石：感知](Resilient_colon__Wisdom.md "坚如磐石：感知") [坚如磐石：魅力](Resilient_colon__Charisma.md "坚如磐石：魅力") |
 | 备注 |  |
-| 此[属性](Ability_Scores.md "属性值")提升适用于[荒野形态](Wild_Shape.md "荒野形态")中的[德鲁伊](Druid.md "德鲁伊")。[[](#cite_note-DruidWSInteractions-1 "[")注释 1] |  |
+| 此[属性值](Ability_Scores.md "属性值")提升适用于[荒野形态](Wild_Shape.md "荒野形态")中的[德鲁伊](Druid.md "德鲁伊")。[[](#cite_note-DruidWSInteractions-1 "[")注释 1] |  |
 | 仪式施法者 | [仪式施法者：免费法术](Ritual_Caster_colon__Free_Spells.md "仪式施法者：免费法术") |
 | 你习得两个自选的[仪式](Spells#Ritual_spells.md#Ritual_spells "法术")法术。 |  |
 | 备注 |  |
@@ -137,7 +137,7 @@
 | BUG：截至热修复25，此专长不会减少豁免失败时受到的伤害。与DnD对应版本不同，此专长不考虑盾牌护甲等级，而仅提供固定的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")加值。 |  |
 | 技能专家 | [熟练习得](Skilled.md "熟练习得") |
 | 你获得自选3项[技能](Skills.md "技能")的[熟练项](Proficiency.md "熟练项")。 |  |
-| 法术狙击手 | [法术狙击手](Spell_Sniper.md "法术狙击手") |
+| 法术狙击手 | [法术狙击](Spell_Sniper.md "法术狙击") |
 | 你习得一个戏法，且使用[法术](Spells.md "法术")攻击时造成[重击](Critical_Hit.md "重击")所需的掷骰数值降低1。此效果可叠加。 |  |
 | 备注 |  |
 | 可选戏法为：[冻僵](Bone_Chill.md "冻僵") [魔能爆](Eldritch_Blast.md "魔能爆") [火焰箭](Fire_Bolt.md "火焰箭") [冷冻射线](Ray_of_Frost.md "冷冻射线") [电爪](Shocking_Grasp.md "电爪") [荆棘之鞭](Thorn_Whip.md "荆棘之鞭")。这些戏法使用角色的[施法关键属性](Spells#Spellcasting_ability.md#Spellcasting_ability "法术")。例如，如果[牧师](Cleric.md "牧师")通过此专长选择魔能爆，则使用其[感知](Wisdom.md "感知")调整值而非[魅力](Charisma.md "魅力")调整值。所有可选戏法均为法术攻击并使用[攻击掷骰](Attack_roll.md "攻击掷骰")。 |  |

@@ -18,7 +18,7 @@
 
 - UID `BOOK_LOW_AuntieEthelsRevenge_NoteMaskedCaptain` UUID `3574bf1f-3843-464e-8149-546b83189a4b` ## 获取地点
 
-- 如果[奎诺拉·格雷斯利](Quenora_Grisly.md "奎诺拉·格雷斯利")戴着[鬼婆面具](Whispering_Mask.md "低语面具")，则由她在[脸红的美人鱼地下室](The_Blushing_Mermaid.md#Involvement "脸红的美人鱼")携带
+- 如果[奎诺拉·格雷斯利](Quenora_Grisly.md "奎诺拉·格雷斯利")戴着[低语面具](Whispering_Mask.md "低语面具")，则由她在[脸红的美人鱼地下室](The_Blushing_Mermaid.md#Involvement "脸红的美人鱼")携带
 
 ## 文本
 

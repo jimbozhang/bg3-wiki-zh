@@ -2,7 +2,7 @@
 
 **预言：雷鸣掌声**
 
-- 对敌人造成至少 1⁠⁠[雷鸣](Thunder.md "Thunder")伤害，以恢复一个[预兆骰子](Portent.md "Portent")。
+- 对敌人造成至少 1⁠⁠[雷鸣](Thunder.md "Thunder")伤害，以恢复一个[预兆](Portent.md "预兆")。
 
 ## 属性
 

@@ -9,7 +9,7 @@
 [魅惑](Charmed_(Condition).md "魅惑 (状态)")
 |
 
-- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+- 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 [邪魔服从](Fiendish_Obeisance_(Condition).md "邪魔服从 (状态)")
 |
@@ -19,7 +19,7 @@
 [交友术](Friends_(Condition).md "交友术 (状态)")
 |
 
-- 对目标生物进行[魅力](Charisma.md "魅力")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+- 对目标生物进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 在更高难度模式下，目标可能会指控你对他们使用惑控学派法术。
 [观察者眼魔魅惑术](Spectator's_Charm_(Condition).md "观察者眼魔魅惑术 (状态)")

@@ -1,10 +1,10 @@
 # 脆弱诅咒（智力）
 
-**脆弱诅咒（智力）** 是一个 [一级惑控学派法术](Spells.md "Spells")。此法术允许施法者对一个生物施加诅咒，并对其造成额外的黯蚀伤害。该诅咒还会使该生物在智力检定上处于劣势。
+**脆弱诅咒（智力）** 是一个 [法术](Spells.md "法术")。此法术允许施法者对一个生物施加诅咒，并对其造成额外的黯蚀伤害。该诅咒还会使该生物在智力检定上处于劣势。
 
 ## 描述
 
-当你攻击目标时，造成额外 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使目标在 [智力](Intelligence.md "Intelligence") [检定](Ability_Check.md "Ability Check") 上处于 [劣势](Disadvantage.md "Disadvantage")。
+当你攻击目标时，造成额外 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害，并使目标在 [智力](Intelligence.md "Intelligence") [属性检定](Ability_Check.md "属性检定") 上处于 [劣势](Disadvantage.md "Disadvantage")。
 
 ## 属性
 
@@ -43,7 +43,7 @@ UID
 持续时间：直至 [长休](Long_Rest.md "Long rest")
 
 - 生物从施法者处承受额外 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
-- 其在 [智力](Intelligence.md "Intelligence") [检定](Ability_Check.md "Ability Check") 上处于 [劣势](Disadvantage.md "Disadvantage")。
+- 其在 [智力](Intelligence.md "Intelligence") [属性检定](Ability_Check.md "属性检定") 上处于 [劣势](Disadvantage.md "Disadvantage")。
 
 ## 如何习得
 

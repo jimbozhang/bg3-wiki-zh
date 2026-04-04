@@ -1,6 +1,6 @@
 # 保险箱钥匙
 
-这是一个消歧义页面，链接到名称模糊的文章。如果文章中的链接将您[带到这里](Special_colon_WhatLinksHere/Safe_Key.md "Special:WhatLinksHere/Safe Key")，请考虑编辑它以指向正确的页面。
+这是一个消歧义页面，链接到名称模糊的文章。如果文章中的链接将您[保险箱钥匙](Special_colon_WhatLinksHere/Safe_Key.md "保险箱钥匙")，请考虑编辑它以指向正确的页面。
 
 **保险箱钥匙**可能指游戏中解锁各种[保险柜](Safe.md "Safe")的多种[钥匙](Keys.md "Keys")：
 

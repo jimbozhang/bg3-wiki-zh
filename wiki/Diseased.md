@@ -30,7 +30,7 @@
 
 ## 患病状态列表
 
-- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 - 每回合，必须成功通过一次[豁免检定](Saving_throw.md "豁免检定")，否则毒素将进入下一阶段。成功3次后恢复。失败3次后，会感染与施放的[疫病术](Contagion.md "疫病术")变体相对应的疾病。
 
 [蠕行啃咬](Crawling_Gnaw_(Condition).md "蠕行啃咬 (状态)")
@@ -43,13 +43,13 @@
 [发烧](Feverish_(Condition).md "发烧 (状态)")
 |
 
-- 体温逐渐升高。在使用力量的[检定](Ability_Check.md "检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 体温逐渐升高。在使用力量的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。失败将施加[污秽热](Filth_Fever_(Condition).md "污秽热 (状态)")状态。
 
 [污秽热](Filth_Fever_(Condition).md "污秽热 (状态)")
 |
 
-- 被高烧压垮。在[攻击掷骰](Attack_roll.md "攻击掷骰")，以及使用力量的[检定](Ability_Check.md "检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 被高烧压垮。在[攻击掷骰](Attack_roll.md "攻击掷骰")，以及使用力量的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。失败将重新施加污秽热状态。
 - 持续时间：25回合
 
@@ -57,7 +57,7 @@
 |
 
 - 肉体正在腐烂。
-- 在使用魅力的[检定](Ability_Check.md "检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在使用魅力的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 对所有伤害具有[易伤](Damage_types.md "伤害类型")。
 - 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以移除状态，否则将重新施加。
 
@@ -90,13 +90,13 @@
 |
 
 - 开放性伤口开始腐烂。
-- 在使用魅力的[检定](Ability_Check.md "检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在使用魅力的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以移除状态。失败将导致你获得[烂肉症](Flesh_Rot_(Condition).md "烂肉症 (状态)")。
 
 [瘟疫](Sea_Plague_(Condition).md "瘟疫 (状态)")
 |
 
-- 受影响实体布满粘稠油汗，珠粒般滴落，在使用[力量](Strength.md "力量")的[属性](Ability.md "属性")[检定](Ability_Check.md "检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
+- 受影响实体布满粘稠油汗，珠粒般滴落，在使用[力量](Strength.md "力量")的[属性](Ability.md "属性")[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 
 [败血症](Septic_(Condition).md "败血症 (状态)")
 |
@@ -106,32 +106,32 @@
 [感染失明症](Stricken_With_Blinding_Sickness_(Condition).md "感染失明症 (状态)")
 |
 
-- 灼痛的指甲刺入受影响实体的眼睛。它在[感知](Wisdom.md "感知")[检定](Ability_Check.md "检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并且还[目盲](Blinded_(Condition)..md)
+- 灼痛的指甲刺入受影响实体的眼睛。它在[感知](Wisdom.md "感知")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并且还[目盲](Blinded_(Condition)..md)
 
 [感染污秽热](Stricken_With_Filth_Fever_(Condition).md "感染污秽热 (状态)")
 |
 
-- 受影响实体布满粘稠油汗，珠粒般滴落，在使用[力量](Strength.md "力量")的[检定](Ability_Check.md "检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
+- 受影响实体布满粘稠油汗，珠粒般滴落，在使用[力量](Strength.md "力量")的[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 
 [感染烂肉症](Stricken_With_Flesh_Rot_(Condition).md "感染烂肉症 (状态)")
 |
 
-- 在自身恶臭的皮肤缸中腐烂，受影响实体在[魅力](Charisma.md "魅力")[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")，并对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
+- 在自身恶臭的皮肤缸中腐烂，受影响实体在[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
 
 [感染心火](Stricken_With_Mindfire_(Condition).md "感染心火 (状态)")
 |
 
-- 受影响实体的大脑在沸腾的热血炖汤中烹煮。它在[智力](Intelligence.md "智力")[检定](Ability_Check.md "检定")上具有[劣势](Disadvantage.md "劣势")，并且在战斗中行为如同[困惑](Confused_(Condition).md "困惑 (状态)")。
+- 受影响实体的大脑在沸腾的热血炖汤中烹煮。它在[智力](Intelligence.md "智力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并且在战斗中行为如同[困惑](Confused_(Condition).md "困惑 (状态)")。
 
 [感染癫痫](Stricken_With_Seizures_(Condition).md "感染癫痫 (状态)")
 |
 
-- 不自主的抽搐使受影响实体颤抖，在使用[敏捷](Dexterity.md "敏捷")的[检定](Ability_Check.md "检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
+- 不自主的抽搐使受影响实体颤抖，在使用[敏捷](Dexterity.md "敏捷")的[属性检定](Ability_Check.md "属性检定")、[豁免检定](Saving_throw.md "豁免检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 
 [感染粘稠厄运](Stricken_With_Slimy_Doom_(Condition).md "感染粘稠厄运 (状态)")
 |
 
-- 受影响实体渗出蜡质、球状的血液。它在[体质](Constitution.md "体质")[检定](Ability_Check.md "检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 受影响实体渗出蜡质、球状的血液。它在[体质](Constitution.md "体质")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 此外，每当它受到伤害时，会[震慑](Stunned_(Condition)直到其下回合结束.md)。
 
 ---

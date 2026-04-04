@@ -1,6 +1,6 @@
 # 贡德与钳握人生
 
-**贡德与钳握人生**描述了[钢铁卫士](Steel_Watcher.md "Steel Watcher")由[贡德信徒](Save_the_Gondians.md "Save the Gondians")创造的过程。
+**贡德与钳握人生**描述了[钢铁卫士](Steel_Watcher.md "Steel Watcher")由[解救贡德信徒](Save_the_Gondians.md "解救贡德信徒")创造的过程。
 
 这本书散发着诱人的纸张和墨水气味。
 

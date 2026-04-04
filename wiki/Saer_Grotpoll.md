@@ -200,7 +200,7 @@ UUID
 
 如果玩家角色本身就是博德人（例如，[人类](Human.md "Human")或[高精灵](High_Elf.md "High Elf")自定义出身，或[卡菈克](Karlach.md "Karlach")、[阿斯代伦](Astarion.md "Astarion")或[影心](Shadowheart.md "Shadowheart")），他们有几个额外的对话选项来反驳格洛特波尔的抱怨，包括关于他自己的口音暴露了他实际上是利文顿人而非“纯粹”博德人的台词（使用此台词会获得[阿斯代伦](Astarion.md "Astarion")、[卡菈克](Karlach.md "Karlach")和[贾希拉](Jaheira.md "Jaheira")的好感度）。
 
-如果玩家角色是明显不是博德之门本地人的自定义出身（如[卓尔](Drow.md "Drow")），他们可以选择进行DC 15的[欺瞒](Deception.md "Deception")[检定](Ability_Check.md "Ability check")来说服他。
+如果玩家角色是明显不是博德之门本地人的自定义出身（如[卓尔](Drow.md "Drow")），他们可以选择进行DC 15的[欺瞒](Deception.md "Deception")[属性检定](Ability_Check.md "属性检定")来说服他。
 
 然而，即使这些选项中的任何一个也不会改变格洛特波尔的观点或平息他的脾气。
 

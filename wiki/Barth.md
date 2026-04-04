@@ -82,15 +82,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -138,15 +138,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -194,15 +194,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -246,7 +246,7 @@ Stats
 
 如果伊卡隆加入，他会质问巴斯为何威胁一个孩子。队伍可以允许梅里保留吊坠，或强迫梅里归还。
 
-如果对话的队伍成员允许梅里拿走吊坠，可以从[提夫林避难所](Tiefling_Hideout.md "提夫林避难所")取回并归还给巴斯。通过通过DC 15的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")或[读取他的思想](Detect_Thoughts.md "侦测思想")，队伍可以得知他的母亲最初是从别人那里偷来的吊坠。归还吊坠后，队伍可以要求硬币作为奖励。[游荡者](Rogue.md "游荡者")可以要求更多，如果游荡者通过DC 15的[游说](Persuasion.md "游说")[检定](Ability_Check.md "属性检定")，巴斯会勉强同意。吊坠归还后，队伍可以要求他归还，导致战斗。
+如果对话的队伍成员允许梅里拿走吊坠，可以从[提夫林避难所](Tiefling_Hideout.md "提夫林避难所")取回并归还给巴斯。通过通过DC 15的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")或[侦测思想](Detect_Thoughts.md "侦测思想")，队伍可以得知他的母亲最初是从别人那里偷来的吊坠。归还吊坠后，队伍可以要求硬币作为奖励。[游荡者](Rogue.md "游荡者")可以要求更多，如果游荡者通过DC 15的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")，巴斯会勉强同意。吊坠归还后，队伍可以要求他归还，导致战斗。
 
 ### 将吊坠归还给巴斯
 

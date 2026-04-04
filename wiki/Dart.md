@@ -4,7 +4,7 @@
 
 本文内容属于 **[无法通过正常游戏获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-**飞镖**是 [飞镖](Darts.md "Darts") 武器家族的常见变体。它是一种 [简易远程武器](Weapons.md "Weapons")，需双手持握。作为 [灵巧](Finesse.md "Finesse") 武器，它能受益于使用者的敏捷，而不仅仅是力量。
+**飞镖**是 [飞镖](Darts.md "Darts") 武器家族的常见变体。它是一种 [武器](Weapons.md "武器")，需双手持握。作为 [灵巧](Finesse.md "Finesse") 武器，它能受益于使用者的敏捷，而不仅仅是力量。
 
 一支使用过的飞镖，其染色的羽毛略微弯曲。
 

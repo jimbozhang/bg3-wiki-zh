@@ -19,7 +19,7 @@
 一半伤害⁠[治疗](Healing.md "治疗")（给予邪术师）
 
 详情
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：18 米（60 英尺）
 
 ## 技术细节

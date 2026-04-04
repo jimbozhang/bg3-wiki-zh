@@ -17,7 +17,7 @@
 详情：
 [攻击掷骰](Attack_roll.md "攻击掷骰")
 射程：18 米 (60 英尺)
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
 
 ## 状态：目盲
 
@@ -25,7 +25,7 @@
 
 持续时间：6 驱散
 
-[体](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
 
 - 受影响的生物在[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 - 受影响的生物的攻击和法术射程减少至 3 米 (10 英尺)。

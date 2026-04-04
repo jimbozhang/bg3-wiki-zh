@@ -2,7 +2,7 @@
 
 本文介绍的是一个物品或其他先前可获取的内容，该内容已被[从游戏中移除](Category_colon_Unobtainable.md "Category:Unobtainable")，在当前版本的游戏中**不再可获取**。
 
-**承诺**是[匕首](Daggers.md "Daggers")武器家族中一种不常见、附有轻度魔法（+1）的变体。它是一种[简易近战武器](Weapons.md "Weapons")，单手挥舞。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷调整值，而不仅仅是力量调整值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。其设计非常适合作为投射物[投掷](Thrown.md "Thrown")向敌人。
+**承诺**是[匕首](Daggers.md "Daggers")武器家族中一种不常见、附有轻度魔法（+1）的变体。它是一种[武器](Weapons.md "武器")，单手挥舞。作为[灵巧](Finesse.md "Finesse")武器，它能受益于使用者的敏捷调整值，而不仅仅是力量调整值。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。其设计非常适合作为投射物[投掷攻击](Thrown.md "投掷攻击")向敌人。
 
 匕首的刀刃上雕刻着叶状图案。它在黑暗中微微发光。
 
@@ -19,7 +19,7 @@
 单手
 [灵巧](Finesse.md "Finesse")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")
-[投掷](Thrown.md "投掷")
+[投掷攻击](Thrown.md "投掷攻击")
 近战：1.5 米（5 英尺）
 重量：0.45 千克（0.9 磅）
 价格：65 金币

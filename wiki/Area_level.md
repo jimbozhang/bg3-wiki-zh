@@ -4,10 +4,10 @@
 
 ## 目录
 
-- [1 经验值奖励](#experience-rewards)
-  - [1.1 击败生物](#defeating-creatures)
-  - [1.2 完成任务步骤](#completing-quest-steps)
-- [2 按等级划分的区域](#areas-by-level)
+- [1 经验值奖励](#经验值奖励)
+  - [1.1 击败生物](#击败生物)
+  - [1.2 完成任务步骤](#完成任务步骤)
+- [2 按等级划分的区域](#按等级划分的区域)
 - [3 备注](#notes)
 
 ## 经验值奖励
@@ -477,11 +477,11 @@
 
 | 12 | CTY_CazAttic | UUID `fbf0e037-a1a1-47ab-ad27-03ab31d161e2` | CTY_CazadorPalace | CTY_Main_A | 0 |
 
-- [扎尔宅邸 - 阁楼](Szarr_Palace.md "扎尔宅邸")
+- [扎尔宅邸](Szarr_Palace.md "扎尔宅邸")
 
 | 12 | CTY_CazSideroom | UUID `c363282d-08de-4974-991c-4e5dbdbaeb4e` | CTY_CazadorPalace | CTY_Main_A | 0 |
 
-- [扎尔宅邸 - 舞厅](Szarr_Palace.md "扎尔宅邸")
+- [扎尔宅邸](Szarr_Palace.md "扎尔宅邸")
 
 | 12 | CTY_BhaalsTemple | UUID `96d29e10-01cb-4133-8715-18c567cfcb9e` | - | CTY_Main_A | 16 |
 

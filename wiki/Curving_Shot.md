@@ -30,7 +30,7 @@
 - 此特性适用于一组硬编码的特殊远程武器攻击<sup>[\[1\]](#cite_note-1)</sup>，包括奥术射击。完整列表如下：
   - 普通远程攻击，但不包括副手攻击
   - 所有奥术射击
-  - 所有[魔法箭](Arrows.md "魔法箭")，但不包括[多靶箭](Arrow_of_Many_Targets.md "多靶箭")、[慰藉箭](Arrow_of_Salving.md "慰藉箭")和[置换箭](Arrow_of_Transposition.md "置换箭")。
+  - 所有[箭](Arrows.md "箭")，但不包括[多靶箭](Arrow_of_Many_Targets.md "多靶箭")、[慰藉箭](Arrow_of_Salving.md "慰藉箭")和[置换箭](Arrow_of_Transposition.md "置换箭")。
   - 基础远程武器动作[腿筋射击](Hamstring_Shot.md "腿筋射击")、[穿刺射击](Piercing_Shot.md "穿刺射击")和[移动射击](Mobile_Shot.md "移动射击")
   - [剑舞学院](College_of_Swords.md "剑舞学院")的华舞[防御华舞（远程）](Defensive_Flourish_(Ranged).md "防御华舞（远程）")、[移动华舞（远程）](Mobile_Flourish_(Ranged).md "移动华舞（远程）")、[挥砍华舞（远程）](Slashing_Flourish_(Ranged).md "挥砍华舞（远程）")
   - 游侠的特殊攻击[灭族者（远程）](Horde_Breaker_(Ranged).md "灭族者（远程）")和[惧怖伏兵（远程）](Dread_Ambusher_(Ranged).md "惧怖伏兵（远程）")

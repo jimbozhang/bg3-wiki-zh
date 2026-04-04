@@ -4,18 +4,18 @@
 
 ## 目录
 
-- [1 队伍与营地](#party-and-camp)
-- [2 序幕](#prologue)
-- [3 第一幕](#act-one)
-  - [3.1 荒野](#wilderness)
-  - [3.2 幽暗地域](#underdark)
-  - [3.3 瑰晨修道院](#rosymorn-monastery)
-- [4 第二幕](#act-two)
-  - [4.1 幽影诅咒之地](#shadow-cursed-lands)
-- [5 第三幕](#act-three)
-  - [5.1 利文顿](#rivington)
-  - [5.2 博德之门](#baldurs-gate)
-- [6 其他位面](#other-planes)
+- [1 队伍与营地](#队伍与营地)
+- [2 序幕](#序幕)
+- [3 第一幕](#第一幕)
+  - [3.1 荒野](#荒野)
+  - [3.2 幽暗地域](#幽暗地域)
+  - [3.3 瑰晨修道院](#瑰晨修道院)
+- [4 第二幕](#第二幕)
+  - [4.1 幽影诅咒之地](#幽影诅咒之地)
+- [5 第三幕](#第三幕)
+  - [5.1 利文顿](#利文顿)
+  - [5.2 博德之门](#博德之门)
+- [6 其他位面](#其他位面)
 
 ## 队伍与营地
 
@@ -178,7 +178,7 @@
 - [Enver Gortash](Enver_Gortash.md)
 - [米佐拉](Mizora.md)
 - [弃誓骑士](Oathbreaker_Knight.md)
-- [腥红奥林](Orin.md)
+- [奥林](Orin.md)
 - [Quil](Quil.md)
 - [拉斐尔](Raphael.md)
 - [塞莱瑞塔斯·菲尔](Sceleritas_Fel.md)
@@ -1177,7 +1177,7 @@
 - [奈美莎](Nymessa.md)
 - [Camp Followers](Camp_Followers.md)
 - [守墓人](Withers.md)
-- [同伴](Companions.md)
+- [伙伴](Companions.md)
 - [阿斯代伦](Astarion.md)
 - [盖尔](Gale.md)
 - [莱埃泽尔](Lae'zel.md)
@@ -1424,7 +1424,7 @@
 
 **角色**
 
-- [同伴](Companions.md)
+- [伙伴](Companions.md)
 - [卡菈克](Karlach.md)
 - [Flaming Fists](Flaming_Fist.md)
 - [Aelis](Aelis_(Fist_Recruit).md)
@@ -1455,7 +1455,7 @@
 - [商人](Traders.md)
 - [布雷姆](Brem.md)
 - [赛丽尔](Cyrel.md)
-- [詹塔林会](Zhentarim.md)
+- [散塔林会](Zhentarim.md)
 - [Amnos](Amnos.md)
 - [贝拉尔](Bellar.md)
 - [格利亚斯](Garias.md)
@@ -2527,7 +2527,7 @@
 - [波尼](Squire.md)
 - [典狱长](The_Warden.md)
 - [Z'rell](Z'rell.md)
-- [同伴](Companions.md)
+- [伙伴](Companions.md)
 - [明萨拉](Minthara.md)
 - [Prisoners](Moonrise_Towers_Prison.md)
 - [卡尔](Cal.md)
@@ -2541,7 +2541,7 @@
 - [阿拉吉·欧布罗扎](Araj_Oblodra.md)
 - [罗阿·月光](Roah_Moonglow.md)
 - [兰恩·塔夫](Lann_Tarv.md)
-- [詹塔林会](Zhentarim.md)
+- [散塔林会](Zhentarim.md)
 - [厄娜](Erna.md)
 - [罗阿·月光](Roah_Moonglow.md)
 - [耶尔勒](Yerle.md)
@@ -3003,7 +3003,7 @@
 **Locations**
 
 - [地下密牢](Oubliette.md)
-- [监狱](Moonrise_Towers_Prison.md)
+- [月出之塔监狱](Moonrise_Towers_Prison.md)
 - [Rooftop](Moonrise_Towers_Rooftop.md)
 
 **任务**

@@ -2,13 +2,13 @@
 
 另见：[缩小（灰矮人）](Reduce_(Duergar).md)
 
-**缩小**是[二级变化学派法术](Spells.md "Spells")。此法术允许施法者减小生物的身体尺寸。受影响的生物使用武器造成的伤害更少，并且在[力量](Strength.md "Strength") [检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
+**缩小**是[法术](Spells.md "法术")。此法术允许施法者减小生物的身体尺寸。受影响的生物使用武器造成的伤害更少，并且在[力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 
 ## 描述
 
 使一个生物变小。
 
-其武器造成的伤害**减少1d4**（最低为1伤害）。它在[力量](Strength.md "Strength") [检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
+其武器造成的伤害**减少1d4**（最低为1伤害）。它在[力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 
 ## 属性
 
@@ -42,13 +42,13 @@ UID
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - [体型](Creature_size.md "Creature Size")减小。
-- 武器攻击造成的伤害**减少1d4**。在[力量](Strength.md "Strength") [检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
+- 武器攻击造成的伤害**减少1d4**。在[力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 - [负重](Carrying_capacity.md "Carrying Capacity")减少25%
 
 ## 如何习得
 
 此法术是以下法术的变体：
-[巨化/缩小](Enlarge/Reduce.md "巨化/缩小")
+[缩小](Enlarge/Reduce.md "缩小")
 
 ## 备注
 

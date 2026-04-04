@@ -81,7 +81,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -129,7 +129,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -177,7 +177,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -195,7 +195,7 @@ UUID
 
 属性
 
-`WYR_RefugeeCamp_HalfOrc_Melee` **格隆奇**是一个[半兽人](Half-Orc.md "半兽人")，可以在[利文顿](Rivington.md "利文顿")难民营 X: 86 Y: -79 处找到。他曾与[格雷戈里](Gregory_Bright.md "格雷戈里·布赖特")和[尼洛斯·布赖特](Nealos_Bright.md "尼洛斯·布赖特")一同旅行。
+`WYR_RefugeeCamp_HalfOrc_Melee` **格隆奇**是一个[半兽人](Half-Orc.md "半兽人")，可以在[利文顿](Rivington.md "利文顿")难民营 X: 86 Y: -79 处找到。他曾与[格雷戈里·布赖特](Gregory_Bright.md "格雷戈里·布赖特")和[尼洛斯·布赖特](Nealos_Bright.md "尼洛斯·布赖特")一同旅行。
 
 > “
 >

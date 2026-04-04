@@ -28,7 +28,7 @@
 
 亚克斯将击败赫拉德，并强迫他宣誓效忠于[绝对](Absolute.md "绝对")，作为回报，我们将支持赫拉德征服并结盟另外两个三塔部落。请在亚克斯爵士从[尖牙林](https://forgottenrealms.fandom.com/wiki/Wood_of_Sharp_Teeth)返回后立即通知他。
 
-\- 门徒泽'瑞尔，代表[凯瑟里克](Ketheric_Thorm.md "凯瑟里克·索姆")将军
+\- 门徒泽'瑞尔，代表[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")将军
 
 ## 笔记
 

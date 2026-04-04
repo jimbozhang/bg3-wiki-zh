@@ -18,7 +18,7 @@
 
 持续时间：2驱散
 
-[体](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 12)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 12)
 
 - 受影响实体完全被冰包裹且处于冰冻状态。如果受到钝击、雷鸣或力场伤害，冰会碎裂，结束该状态。
 - 获得对⁠[钝击](Bludgeoning.md "钝击")、⁠[雷鸣](Thunder.md "雷鸣")和⁠[力场](Force.md "力场")伤害的[易伤](Vulnerability.md "易伤")。

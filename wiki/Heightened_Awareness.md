@@ -4,7 +4,7 @@
 
 ## 描述
 
-获得 +3 的 [先攻](Initiative.md "Initiative") 掷骰加值，并在 [察觉技能](Perception.md "Perception") [检定](Ability_Check.md "Ability check") 上获得 [优势](Advantage.md "Advantage")。
+获得 +3 的 [先攻](Initiative.md "Initiative") 掷骰加值，并在 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定") 上获得 [优势](Advantage.md "Advantage")。
 
 ## 如何习得
 

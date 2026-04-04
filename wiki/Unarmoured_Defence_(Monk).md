@@ -24,7 +24,7 @@
 
 - 正常的自然[护甲等级](Armour_Class.md "护甲等级")是 `10 + [敏捷调整值](<Dexterity`，而此特性将其改为 `10 + [敏捷调整值](<Dexterity + [感知调整值](<Wisdom`。
   - 你仍然会获得其他不改变你自然护甲的来源的加成，例如 +1 护甲等级的[长袍](Robes.md "长袍")、[防御护腕](Bracers_of_Defence.md "防御护腕")、[虔诚护盾](Shield_of_Faith_(Condition).md "虔诚护盾 (状态)")等。
-- 标记为[轻型](Light_Armour.md "轻甲")、[中型](Medium_Armour.md "中甲")或[重甲](Heavy_Armour.md "重甲")的[头盔](Helmets.md "头盔")和[手套](Gloves.md "手套")被视为护甲，并将阻止无甲防御生效。
+- 标记为[轻甲](Light_Armour.md "轻甲")、[中甲](Medium_Armour.md "中甲")或[重甲](Heavy_Armour.md "重甲")的[头盔](Helmets.md "头盔")和[手套](Gloves.md "手套")被视为护甲，并将阻止无甲防御生效。
 - 与[野蛮人版本](Unarmoured_Defence_(Barbarian)不同.md)，此特性在装备[盾牌](Shields.md "盾牌")时无效。
 - [魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")、[龙族韧性](Draconic_Resilience.md "龙族韧性")、[无甲防御 (野蛮人)](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")、无甲防御 (武僧)和[树肤术](Barkskin_(Condition).md "树肤术 (状态)")都会改变你的自然护甲等级，因此不会叠加。
   - 如果你拥有多个此类效果，你只会获得提供最高[护甲等级](Armour_Class.md "护甲等级")的那个效果的增益。

@@ -2,7 +2,7 @@
 
 关于装备类型，请参阅 [轻弩](Light_Crossbows.md "Light Crossbows")。
 
-**轻弩**是 [轻弩](Light_Crossbows.md "Light Crossbows") 武器家族的常见变体。它是一种 [简易远程武器](Weapons.md "Weapons")，需用双手持握。
+**轻弩**是 [轻弩](Light_Crossbows.md "Light Crossbows") 武器家族的常见变体。它是一种 [武器](Weapons.md "武器")，需用双手持握。
 
 这把弩的铸铁闩锁上布满了锈斑。
 

@@ -1,6 +1,6 @@
 # 心灵低语：匍匐
 
-**心灵低语：匍匐** 是一个 [等级 1 惑控学派法术](Spells.md "Spells")。它允许施法者命令目标暂时 [倒伏](Prone_(Condition).md "Prone (Condition)") 并且不做其他任何动作。此法术无法被队伍成员学习。
+**心灵低语：匍匐** 是一个 [法术](Spells.md "法术")。它允许施法者命令目标暂时 [倒伏](Prone_(Condition).md "Prone (Condition)") 并且不做其他任何动作。此法术无法被队伍成员学习。
 
 ## 描述
 

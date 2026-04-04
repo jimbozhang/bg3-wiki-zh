@@ -112,7 +112,7 @@
 | [洋葱汤](Onion_Soup.md "洋葱汤") | 5 | 5 | 1 |
 | [柑橘](Orange.md "柑橘") | 3 | 3 | 1 |
 | [白薄荷](Pale_Mint.md "白薄荷") | 2 | 2 | 1 |
-| [梨子](Pear.md "梨子") | 3 | 3 | 1 |
+| [梨](Pear.md "梨") | 3 | 3 | 1 |
 | [猪头](Pig's_Head.md "猪头") | 4 | 4 | 1 |
 | [猪头](Pig's_Head.md "猪头") | 4 | 4 | 1 |
 | [比萨饼](Pizza.md "比萨饼") | 15 | 15 | 1 |
@@ -194,8 +194,8 @@
 | [贝克斯的手工饼干](Bex's_Handmade_Cookies.md "贝克斯的手工饼干") | 3 | 14 | 0.214 |
 | [无冬贵腐酒](Eigersstor_Noblerot.md "无冬贵腐酒") | 4 | 19 | 0.211 |
 | [黑杖](Blackstaff.md "黑杖") | 4 | 20 | 0.2 |
-| [葡萄酒](Wine.md "葡萄酒") | 4 | 21 | 0.19 |
-| [葡萄酒](Wine.md "葡萄酒") | 4 | 21 | 0.19 |
+| [酒](Wine.md "酒") | 4 | 21 | 0.19 |
+| [酒](Wine.md "酒") | 4 | 21 | 0.19 |
 | [玻璃酒瓶](Carafe_of_Wine.md "玻璃酒瓶") | 4 | 23 | 0.174 |
 | [玻璃酒瓶](Carafe_of_Wine.md "玻璃酒瓶") | 4 | 24 | 0.167 |
 | [枭熊蛋](Owlbear_Egg.md "枭熊蛋") | 40 | 750 | 0.053 |
@@ -207,7 +207,7 @@
 | [猕猴桃](Kiwi.md "猕猴桃") | 2 | 2 | 1 [羊腿](Leg_of_Mutton.md "羊腿") | 5 | 5 | 1 [柠檬](Lemon.md "柠檬") | 2 | 2 | 1 [土豆泥](Mashed_Potatoes.md "土豆泥") | 5 | 5 | 1 [牛奶](Milk.md "牛奶") | 3 | 3 | 1 [奶碗](Milk_bowl.md "奶碗") | 3 | 3 | 1 |
 | [混合咖啡](Mixed_Coffee.md "混合咖啡") | 3 | 3 | 1 [月影仙粉黛1466](Moonshae_Zinfandel_1466.md "月影仙粉黛1466") | 1 | 1 | 1 [月影仙粉黛1475](Moonshae_Zinfandel_1475.md "月影仙粉黛1475") | 1 | 1 | 1 [发霉的奶酪片](Moulded_Cheese_Wedge.md "发霉的奶酪片") | 2 | 2 | 1 [浑浊的炖菜](Murky_Stew.md "浑浊的炖菜") | 7 | 7 | 1 [蘑菇汤](Mushroom_Soup.md "蘑菇汤") | 5 | 5 | 1 |
 | [蘑菇汤](Mushroom_Soup.md "蘑菇汤") | 5 | 5 | 1 [纽吉怪的爪子](Neogi_Claws.md "纽吉怪的爪子") | 10 | 10 | 1 [纽吉怪肉卷](Neogi_Rolls.md "纽吉怪肉卷") | 10 | 10 | 1 [无冬城炖菜](Neverwinter_Stew.md "无冬城炖菜") | 7 | 7 | 1 [奥克塔的替代餐](Okta's_Alternative_Meal.md "奥克塔的替代餐") | 1 | 1 | 1 [洋葱](Onion.md "洋葱") | 3 | 3 | 1 |
-| [洋葱汤](Onion_Soup.md "洋葱汤") | 5 | 5 | 1 [洋葱汤](Onion_Soup.md "洋葱汤") | 5 | 5 | 1 [柑橘](Orange.md "柑橘") | 3 | 3 | 1 [白薄荷](Pale_Mint.md "白薄荷") | 2 | 2 | 1 [梨子](Pear.md "梨子") | 3 | 3 | 1 [猪头](Pig's_Head.md "猪头") | 4 | 4 | 1 |
+| [洋葱汤](Onion_Soup.md "洋葱汤") | 5 | 5 | 1 [洋葱汤](Onion_Soup.md "洋葱汤") | 5 | 5 | 1 [柑橘](Orange.md "柑橘") | 3 | 3 | 1 [白薄荷](Pale_Mint.md "白薄荷") | 2 | 2 | 1 [梨](Pear.md "梨") | 3 | 3 | 1 [猪头](Pig's_Head.md "猪头") | 4 | 4 | 1 |
 | [猪头](Pig's_Head.md "猪头") | 4 | 4 | 1 [比萨饼](Pizza.md "比萨饼") | 15 | 15 | 1 [李子泡沫酒](Plum_Fizz.md "李子泡沫酒") | 1 | 1 | 1 [猪大排](Pork_Loin.md "猪大排") | 5 | 5 | 1 [猪肩肉](Pork_Shoulder.md "猪肩肉") | 10 | 10 | 1 [土豆](Potato.md "土豆") | 3 | 3 | 1 |
 | [土豆粥](Potato_Porridge.md "土豆粥") | 5 | 5 | 1 [薯饼拼盘](Potato_Scone_Platter.md "薯饼拼盘") | 10 | 10 | 1 [薯角](Potato_Wedges.md "薯角") | 5 | 5 | 1 [肉汁薯条](Poutine.md "肉汁薯条") | 20 | 20 | 1 [酥皮辫子面包](Puff_Pastry_Braid.md "酥皮辫子面包") | 5 | 5 | 1 [南瓜汤](Pumpkin_Soup.md "南瓜汤") | 5 | 5 | 1 |
 | [山莓](Raspberry.md "山莓") | 1 | 1 | 1 [生牛排](Raw_Steak.md "生牛排") | 10 | 10 | 1 [红苹果](Red_Apple.md "红苹果") | 3 | 3 | 1 [红辣椒](Red_Pepper.md "红辣椒") | 2 | 2 | 1 [烤牛骨肉](Roast_Beef_Joint.md "烤牛骨肉") | 20 | 20 | 1 [烤猪肉](Roast_Pork.md "烤猪肉") | 15 | 15 | 1 |
@@ -221,7 +221,7 @@
 | [楚尔坦火泔](Chultan_Fireswill.md "楚尔坦火泔") | 1 | 2 | 0.5 [芳香真菌炖汤](Fragrant_Fungus_Stew.md "芳香真菌炖汤") | 10 | 20 | 0.5 [怡人麦芽啤酒](Lovely_Malty_Beer.md "怡人麦芽啤酒") | 1 | 2 | 0.5 [一杯啤酒](Mug_of_Beer.md "一杯啤酒") | 1 | 2 | 0.5 [一杯啤酒](Mug_of_Beer.md "一杯啤酒") | 1 | 2 | 0.5 [一罐啤酒](Pitcher_of_Beer.md "一罐啤酒") | 1 | 2 | 0.5 |
 | [鲸骨香料酒](Whalebone_Spiced.md "鲸骨香料酒") | 1 | 2 | 0.5 [阿萨巴黄昏](Ashaba_Dusk.md "阿萨巴黄昏") | 1 | 3 | 0.333 [布灵登石城胭脂红酒](Blingdenstone_Blush.md "布灵登石城胭脂红酒") | 1 | 3 | 0.333 [修道院火酒](Monastery_Firewine.md "修道院火酒") | 1 | 3 | 0.333 [堤喀玫瑰红](Tyche_Pink.md "堤喀玫瑰红") | 4 | 12 | 0.333 [传送门雪利酒](Portal_Sherry.md "传送门雪利酒") | 4 | 13 | 0.308 |
 | [安姆沙漠红](Amnian_Dessert_Wine.md "安姆沙漠红") | 4 | 14 | 0.286 [牡鹿灵酒](Stagswift_Tonic.md "牡鹿灵酒") | 4 | 15 | 0.267 [苏萨尔甜酒](Suzailian_Sweet.md "苏萨尔甜酒") | 4 | 16 | 0.25 [阿尔肯的密藏](Arkhen's_Hoard.md "阿尔肯的密藏") | 4 | 17 | 0.235 [卡林珊王室专供](Syl-Pashan_Sup.md "卡林珊王室专供") | 4 | 18 | 0.222 [贝克斯的手工饼干](Bex's_Handmade_Cookies.md "贝克斯的手工饼干") | 3 | 14 | 0.214 |
-| [无冬贵腐酒](Eigersstor_Noblerot.md "无冬贵腐酒") | 4 | 19 | 0.211 [黑杖](Blackstaff.md "黑杖") | 4 | 20 | 0.2 [葡萄酒](Wine.md "葡萄酒") | 4 | 21 | 0.19 [葡萄酒](Wine.md "葡萄酒") | 4 | 21 | 0.19 [玻璃酒瓶](Carafe_of_Wine.md "玻璃酒瓶") | 4 | 23 | 0.174 [玻璃酒瓶](Carafe_of_Wine.md "玻璃酒瓶") | 4 | 24 | 0.167 |
+| [无冬贵腐酒](Eigersstor_Noblerot.md "无冬贵腐酒") | 4 | 19 | 0.211 [黑杖](Blackstaff.md "黑杖") | 4 | 20 | 0.2 [酒](Wine.md "酒") | 4 | 21 | 0.19 [酒](Wine.md "酒") | 4 | 21 | 0.19 [玻璃酒瓶](Carafe_of_Wine.md "玻璃酒瓶") | 4 | 23 | 0.174 [玻璃酒瓶](Carafe_of_Wine.md "玻璃酒瓶") | 4 | 24 | 0.167 |
 
 ---
 *Source: [List of camp supplies by cost efficiency](https://bg3.wiki/wiki/List_of_camp_supplies_by_cost_efficiency)*

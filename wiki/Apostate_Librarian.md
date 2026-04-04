@@ -70,7 +70,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -114,7 +114,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -158,7 +158,7 @@
 
 - - ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击正在离开攻击范围的敌人。
 
@@ -180,17 +180,17 @@ Stats
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第二幕](#act-two)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
+- [1 出场](#出场)
+  - [1.1 第二幕](#第二幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
 
 ## 出场
 
 ### 第二幕
 
-如果巴萨扎尔尚未被击败，队伍可以在通过[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")进入堕影冥界时遇到他。一旦队伍成员到达[暗夜之歌](Aylin.md "暗夜之歌")，就会揭示暗夜之歌是一个名叫艾琳的人。如果玩家角色拒绝让巴萨扎尔带走她，巴萨扎尔会从暗夜之歌周围的各个骨堆中召唤出一些变节的[卫士](Apostate_Defender.md "变节的卫士")、[毁灭者](Apostate_Destroyer.md "变节毁灭者")、图书管理员和[哨兵](Apostate_Sentinel.md "变节的哨兵")，然后攻击队伍。
+如果巴萨扎尔尚未被击败，队伍可以在通过[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")进入堕影冥界时遇到他。一旦队伍成员到达[暗夜之歌](Aylin.md "暗夜之歌")，就会揭示暗夜之歌是一个名叫艾琳的人。如果玩家角色拒绝让巴萨扎尔带走她，巴萨扎尔会从暗夜之歌周围的各个骨堆中召唤出一些变节的[变节的卫士](Apostate_Defender.md "变节的卫士")、[变节毁灭者](Apostate_Destroyer.md "变节毁灭者")、图书管理员和[变节的哨兵](Apostate_Sentinel.md "变节的哨兵")，然后攻击队伍。
 
 ## 战斗
 
@@ -199,7 +199,7 @@ Stats
 [失明术](Blindness.md "失明术") (+ )
 限制敌人的视野范围。更容易命中，且该生物会更频繁地失手。对其的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，且敌人攻击时具有[劣势](Disadvantage.md "劣势")。
 
-[体](Constitution.md "体") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
 [主手攻击](Main_Hand_Attack.md "主手攻击") () – [长棍](Quarterstaff.md "长棍")
@@ -235,7 +235,7 @@ Stats
 
 挥击一个生物，使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[敏](Dexterity.md "敏") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 

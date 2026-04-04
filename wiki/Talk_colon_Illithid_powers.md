@@ -2,11 +2,11 @@
 
 ## 目录
 
-- [1 灵吸怪威能属性缩放](#illithid-power-stat-scaling)
-- [2 灵吸怪游说](#illithid-persuasion)
-- [3 更有意义的颜色](#more_meaningful_colours)
-- [4 第一幕礼物](#act-1-gifts)
-- [5 施法关键属性调整值](#spellcasting-ability-modifier)
+- [1 灵吸怪威能属性缩放](#灵吸怪威能属性缩放)
+- [2 灵吸怪游说](#灵吸怪游说)
+- [3 更有意义的颜色](#更有意义的颜色)
+- [4 第一幕礼物](#第一幕礼物)
+- [5 施法关键属性调整值](#施法关键属性调整值)
 
 ## 灵吸怪威能属性缩放
 

@@ -37,7 +37,7 @@ UID
 ## 备注
 
 - 此能力在[抢先体验](Early_Access.md "抢先体验")中可供[异化变身](Aberrant_Shape.md "异化变身")[德鲁伊](Druid.md "德鲁伊")使用。
-- 此攻击由[我们](Us.md "我们")在序幕中使用。如果[我们](Us.md "我们")被[脑叶切除](Lobotomised_(Condition).md "脑叶切除 (状态)")，那么通过[召唤我们](Conjure_Us.md "召唤我们")召唤时，它也会使用此攻击。如果未被脑叶切除，当作为[魔宠](familiar.md "获得魔宠")召唤时，它会获得一个[更强版本](Claws_(Us)的攻击.md)。
+- 此攻击由[我们](Us.md "我们")在序幕中使用。如果[我们](Us.md "我们")被[脑叶切除](Lobotomised_(Condition).md "脑叶切除 (状态)")，那么通过[召唤我们](Conjure_Us.md "召唤我们")召唤时，它也会使用此攻击。如果未被脑叶切除，当作为[获得魔宠](familiar.md "获得魔宠")召唤时，它会获得一个[更强版本](Claws_(Us)的攻击.md)。
 
 ---
 *Source: [Claws (Intellect Devourer)](https://bg3.wiki/wiki/Claws_(Intellect_Devourer)*

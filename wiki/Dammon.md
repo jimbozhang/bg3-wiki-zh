@@ -101,15 +101,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -159,15 +159,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -217,15 +217,15 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**炎狱抗性**](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -255,22 +255,22 @@ UUID
 
 ## 目录
 
-- [1 参与剧情](#involvement)
-  - [1.1 修复卡菈克的心脏](#fixing-karlach's-heart)
-  - [1.2 制造特殊装备](#crafting-special-equipment)
-- [2 相关文献](#related-literature)
-- [3 相关任务](#related-quests)
-- [4 出售物品](#items-sold)
-  - [4.1 第一幕](#act-one)
-  - [4.2 第二幕](#act-two)
-  - [4.3 第三幕](#act-three)
-  - [4.4 其他](#other)
-    - [4.4.1 库存](#stock)
-    - [4.4.2 商人表格](#trader-tables)
-- [5 战利品](#loot)
-- [6 画廊](#gallery)
-- [7 注释与参考](#notes-and-references)
-- [8 外部链接](#external-links)
+- [1 参与剧情](#参与剧情)
+  - [1.1 修复卡菈克的心脏](#修复卡菈克的心脏)
+  - [1.2 制造特殊装备](#制造特殊装备)
+- [2 相关文献](#相关文献)
+- [3 相关任务](#相关任务)
+- [4 出售物品](#出售物品)
+  - [4.1 第一幕](#第一幕)
+  - [4.2 第二幕](#第二幕)
+  - [4.3 第三幕](#第三幕)
+  - [4.4 其他](#其他)
+    - [4.4.1 库存](#库存)
+    - [4.4.2 商人表格](#商人表格)
+- [5 战利品](#战利品)
+- [6 画廊](#画廊)
+- [7 注释与参考](#注释与参考)
+- [8 外部链接](#外部链接)
 
 ## 参与剧情
 
@@ -287,7 +287,7 @@ UUID
 
 ### 修复卡菈克的心脏
 
-由于戴摩是游戏中唯一的炼狱机械师，他是[卡菈克](Karlach.md "卡菈克")个人 ⁠[任务](The_Hellion's_Heart.md "地狱之心") 的一部分。如果戴摩在任务完成前以任何方式被杀，任务将无法进一步推进。
+由于戴摩是游戏中唯一的炼狱机械师，他是[卡菈克](Karlach.md "卡菈克")个人 ⁠[地狱之心](The_Hellion's_Heart.md "地狱之心") 的一部分。如果戴摩在任务完成前以任何方式被杀，任务将无法进一步推进。
 
 ### 制造特殊装备
 

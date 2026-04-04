@@ -22,19 +22,19 @@
 
 ### 体型
 
-[小型 (Small)](Small.md "Small")
+[小型](Small.md "小型")
 
 ### 类型
 
-[类人生物 (Humanoid)](Humanoid.md "Humanoid")
+[类人生物](Humanoid.md "类人生物")
 
 ### 种族
 
-[地精 (Goblin)](Goblin.md "Goblin")
+[地精](Goblin.md "地精")
 
 ### 原型
 
-[地精追踪者 (Goblin Tracker)](Goblin_Tracker.md "Goblin Tracker")
+[地精追踪者](Goblin_Tracker.md "地精追踪者")
 
 - 平衡 (Balanced)
 - 探索者 (Explorer)
@@ -87,15 +87,15 @@
 
 - [**微醺 (Slightly Drunk)**](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
 
-[力量 (Strength)](Strength.md "Strength") 增加 2，[魅力 (Charisma)](Charisma.md "Charisma") 和 [敏捷 (Dexterity)](Dexterity.md "Dexterity") 检定具有[劣势 (Disadvantage)](Disadvantage.md "Disadvantage")。
+[力量](Strength.md "力量") 增加 2，[魅力](Charisma.md "魅力") 和 [敏捷](Dexterity.md "敏捷") 检定具有[劣势](Disadvantage.md "劣势")。
 
 ## 特性
 
-- [**高级黑暗视觉 (Darkvision)**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击 (Opportunity Attack)**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -145,15 +145,15 @@
 
 - [**微醺 (Slightly Drunk)**](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
 
-[力量 (Strength)](Strength.md "Strength") 增加 2，[魅力 (Charisma)](Charisma.md "Charisma") 和 [敏捷 (Dexterity)](Dexterity.md "Dexterity") 检定具有[劣势 (Disadvantage)](Disadvantage.md "Disadvantage")。
+[力量](Strength.md "力量") 增加 2，[魅力](Charisma.md "魅力") 和 [敏捷](Dexterity.md "敏捷") 检定具有[劣势](Disadvantage.md "劣势")。
 
 ## 特性
 
-- [**高级黑暗视觉 (Darkvision)**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击 (Opportunity Attack)**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -203,19 +203,19 @@
 
 - [**微醺 (Slightly Drunk)**](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
 
-[力量 (Strength)](Strength.md "Strength") 增加 2，[魅力 (Charisma)](Charisma.md "Charisma") 和 [敏捷 (Dexterity)](Dexterity.md "Dexterity") 检定具有[劣势 (Disadvantage)](Disadvantage.md "Disadvantage")。
+[力量](Strength.md "力量") 增加 2，[魅力](Charisma.md "魅力") 和 [敏捷](Dexterity.md "敏捷") 检定具有[劣势](Disadvantage.md "劣势")。
 
 ## 特性
 
-- [**高级黑暗视觉 (Darkvision)**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒 (Fury of the Small)**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理 (Physical)](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击 (Opportunity Attack)**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -265,19 +265,19 @@
 
 - [**微醺 (Slightly Drunk)**](Slightly_Drunk_(Condition).md "Slightly Drunk (Condition)")
 
-[力量 (Strength)](Strength.md "Strength") 增加 2，[魅力 (Charisma)](Charisma.md "Charisma") 和 [敏捷 (Dexterity)](Dexterity.md "Dexterity") 检定具有[劣势 (Disadvantage)](Disadvantage.md "Disadvantage")。
+[力量](Strength.md "力量") 增加 2，[魅力](Charisma.md "魅力") 和 [敏捷](Dexterity.md "敏捷") 检定具有[劣势](Disadvantage.md "劣势")。
 
 ## 特性
 
-- [**高级黑暗视觉 (Darkvision)**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**小型之怒 (Fury of the Small)**](Fury_of_the_Small.md "Fury of the Small")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 
 当你对体型大于你的生物造成伤害时，你可以选择额外造成 1d6⁠⁠[物理 (Physical)](Physical.md "Physical") 伤害。每场战斗限一次。
 
-- [**借机攻击 (Opportunity Attack)**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -295,7 +295,7 @@ UUID
 
 属性
 
-`Goblin_Ranger` **追踪者普莉 (Tracker Puli)** 是驻扎在[第一幕 (Act One)](Act_One.md "Act One")中[地精营地 (Goblin Camp)](Goblin_Camp.md "Goblin Camp")的一名地精。
+`Goblin_Ranger` **追踪者普莉 (Tracker Puli)** 是驻扎在[第一幕 (Act One)](Act_One.md "Act One")中[地精营地](Goblin_Camp.md "地精营地")的一名地精。
 
 > “
 >
@@ -307,43 +307,43 @@ UUID
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战利品](#loot)
-- [3 外部链接](#external-links)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战利品](#战利品)
+- [3 外部链接](#外部链接)
 
 ## 参与度
 
 ### 第一幕
 
-追踪者普莉可以在地精营地的主室外区域找到。玩家角色可以鼓励普莉继续喝酒或清醒过来。[卓尔 (Drow)](Drow.md "Drow") 有独特的选项来质疑任何不服从行为。
+追踪者普莉可以在地精营地的主室外区域找到。玩家角色可以鼓励普莉继续喝酒或清醒过来。[卓尔](Drow.md "卓尔") 有独特的选项来质疑任何不服从行为。
 
 ## 战斗
 
 ### 攻击与能力
 
-[腿筋射击 (Hamstring Shot)](Hamstring_Shot.md "Hamstring Shot") () – [地精弓 (Goblin Bow)](Goblin_Bow.md "Goblin Bow")
+[腿筋射击](Hamstring_Shot.md "腿筋射击") () – [地精弓](Goblin_Bow.md "地精弓")
 
 伤害：3~8
 
-1d6 + 2⁠[穿刺 (Piercing)](Piercing.md "Piercing")
+1d6 + 2⁠[穿刺](Piercing.md "穿刺")
 
 射击敌人的大腿，可能使其[移动速度 (Movement speed)](Movement_speed.md "Movement speed") 降低 50%。
 
-[体质 (CON)](Constitution.md "Constitution") [豁免检定 (Saving throws)](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定 (Saving throws)](Saving_throws.md "Saving throws")
 射程：正常武器射程
 充能：[短休 (Short rest)](Short_rest.md "Short rest")
 
-[灵活逃避 (Nimble Escape)](Nimble_Escape.md "Nimble Escape") ()
-安全撤退：移动不会引发[借机攻击 (Opportunity Attacks)](Opportunity_Attack.md "Opportunity Attack")。
+[灵活逃避](Nimble_Escape.md "灵活逃避") ()
+安全撤退：移动不会引发[借机攻击](Opportunity_Attack.md "借机攻击")。
 
-[远程攻击 (Ranged Attack)](Ranged_Attack.md "Ranged Attack") () – [地精弓 (Goblin Bow)](Goblin_Bow.md "Goblin Bow")
+[远程攻击](Ranged_Attack.md "远程攻击") () – [地精弓](Goblin_Bow.md "地精弓")
 
 伤害：3~8
 
-1d6 + 2⁠[穿刺 (Piercing)](Piercing.md "Piercing")
+1d6 + 2⁠[穿刺](Piercing.md "穿刺")
 
 使用装备的武器进行远程攻击。
 
@@ -351,8 +351,8 @@ UUID
 
 ### 战利品
 
-- [地精弓 (Goblin Bow)](Goblin_Bow.md "Goblin Bow")
-- [油脂瓶 (Grease Bottle)](Grease_Bottle.md "Grease Bottle")（如果未使用）
+- [地精弓](Goblin_Bow.md "地精弓")
+- [油脂瓶](Grease_Bottle.md "油脂瓶")（如果未使用）
 
 ## 外部链接
 

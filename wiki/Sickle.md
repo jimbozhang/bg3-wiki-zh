@@ -2,7 +2,7 @@
 
 关于装备类型，请参见 [镰刀](Sickles.md "Sickles")。
 
-**镰刀**是 [镰刀](Sickles.md "Sickles") 武器家族中一种普通的、非魔法的变体。它是一种单手挥舞的 [简易近战武器](Weapons.md "Weapons")。它是一种 [轻型](Light_(weapon_property).md) 武器，任何人都可以在没有特殊训练的情况下双持。
+**镰刀**是 [镰刀](Sickles.md "Sickles") 武器家族中一种普通的、非魔法的变体。它是一种单手挥舞的 [武器](Weapons.md "武器")。它是一种 [轻型](Light_(weapon_property).md) 武器，任何人都可以在没有特殊训练的情况下双持。
 
 一种带有锋利边缘的农具，能轻易地收割谷物和鲜血。
 

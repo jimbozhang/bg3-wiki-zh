@@ -30,7 +30,7 @@ UID `MAG_Cleric_Devotees_Mace` UUID `f8578a13-a857-4043-91e4-8101c9e7c004` Stats
 仅限主手
 
 [治疗熏香灵光](Healing_Incense_Aura.md "治疗熏香灵光") ()
-散发舒缓灵光，你和附近盟友在你的回合开始时恢复 1d4⁠⁠[生命值](Healing.md "治疗")（充能：[长休](Long_Rest.md "长休")）
+散发舒缓灵光，你和附近盟友在你的回合开始时恢复 1d4⁠⁠[治疗](Healing.md "治疗")（充能：[长休](Long_Rest.md "长休")）
 
 ### 武器动作
 

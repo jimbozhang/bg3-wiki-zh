@@ -70,11 +70,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -120,11 +120,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -170,11 +170,11 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -186,12 +186,12 @@
 
 ## 目录
 
-- [1 出场](#involvement)
-  - [1.1 第一幕](#act-one)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 战术](#tactics)
-- [3 备注](#notes)
+- [1 出场](#出场)
+  - [1.1 第一幕](#第一幕)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 战术](#战术)
+- [3 备注](#备注)
 
 ## 出场
 
@@ -215,7 +215,7 @@
 充能：每场战斗一次
 
 [人类定身术](Hold_Person.md "Hold Person") (+ )
-定住一个类人生物敌人。他们无法[移动](Movement_speed.md "Movement Speed")、[行动](Action.md "Action")或[反应](Reaction_(Resource)..md) 来自 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每个回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")来结束此状态。
+定住一个类人生物敌人。他们无法[移动](Movement_speed.md "Movement Speed")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 来自 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每个回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")来结束此状态。
 
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)

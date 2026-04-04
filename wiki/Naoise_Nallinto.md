@@ -86,15 +86,15 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对[魅惑](Charmed_(Condition).md "魅惑")状态的[豁免检定](Saving_throw.md "豁免检定")具有优势；魔法无法使其[沉睡](Sleeping_(Condition).md "沉睡")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -132,7 +132,7 @@ UUID
 
 进入**水妖精洞穴**房间后，过场动画开始。玩家角色和客户[拳头贾拉](Jara.md "拳头贾拉")有片刻的蝌蚪连接。贾拉宣布她认出了玩家角色，因为[至上真神](Absolute.md "至上真神")向她展示过。这触发了她向[夺心魔](Mind_flayer.md "夺心魔")的转变，战斗开始。
 
-之后，当与妮夏交谈时，她表达了对夺心魔之美的钦佩。通过 DC 10 的[洞悉](Insight.md "洞悉")[检定](Ability_Check.md "属性检定")可获得额外对话选项\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]，允许队伍评论她对夺心魔的性唤起。这开启了一个体验狂喜的选项。
+之后，当与妮夏交谈时，她表达了对夺心魔之美的钦佩。通过 DC 10 的[洞悉](Insight.md "洞悉")[属性检定](Ability_Check.md "属性检定")可获得额外对话选项\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]，允许队伍评论她对夺心魔的性唤起。这开启了一个体验狂喜的选项。
 
 接受妮夏的提议可获得以下激励点：
 

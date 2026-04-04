@@ -81,7 +81,7 @@
 
 - - - - - ## 特性 (Features)
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -131,7 +131,7 @@
 
 - - - - - ## 特性 (Features)
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -181,7 +181,7 @@
 
 - - - - - ## 特性 (Features)
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -210,7 +210,7 @@ Stats
 ### 攻击与能力 (Attacks and Abilities)
 
 [熊之坚韧](Bear's_Endurance.md "Bear's Endurance") (+ )
-生物获得 [优势](Advantage.md "Advantage") 进行 [体质](Constitution.md "Constitution") [检定](Ability_Check.md "Ability Check")，并获得 7 点 [临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")。
+生物获得 [优势](Advantage.md "Advantage") 进行 [体质](Constitution.md "Constitution") [属性检定](Ability_Check.md "属性检定")，并获得 7 点 [临时生命值](Hit_Points.md#Temporary_Hit_Points "Hit Points")。
 
 近战：1.5 m (5 ft)
 
@@ -229,7 +229,7 @@ Stats
 
 让神圣火焰之柱如同被冒犯天使的怒火般从天而降。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 m (60 ft)
 
 [曳光弹](Guiding_Bolt.md "Guiding Bolt") (+ )

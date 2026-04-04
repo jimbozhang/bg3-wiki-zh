@@ -79,7 +79,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -129,7 +129,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -179,7 +179,7 @@
 
 ## 特性
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -209,16 +209,16 @@ UUID
 
 ## 目录
 
-- [1 出场](#involvement)
-- [2 相关任务](#related-quests)
-- [3 备注](#notes)
-- [4 外部链接](#external-links)
+- [1 出场](#出场)
+- [2 相关任务](#相关任务)
+- [3 备注](#备注)
+- [4 外部链接](#外部链接)
 
 ## 出场
 
 蓝康纳的尸体可在 [慈爱神殿](Open_Hand_Temple.md "慈爱神殿") 地下的 [洞穴](Open_Hand_Temple_Underground_Area.md#Cave_area "慈爱神殿地下区域") 中找到。
 
-蓝康纳被 [腥红奥林](Orin.md "腥红奥林") 杀害，她的尸体（连同 [本费兰·普拉姆](Benferlaen_Plum.md "本费兰·普拉姆")、[坎德利斯·凯勒姆](Enris_Kellem.md "坎德利斯·凯勒姆")、[卷尘者里翁](Liron_Dustclotter.md "卷尘者里翁") 和 [佩内拉·伦本斯克斯](Penela_Lumpensicks.md "佩内拉·伦本斯克斯") 的尸体）被用作奥林“艺术”的一部分，作为 [伊拉萨拉](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "对先前博德之门游戏的参考列表") 的雕像，伊拉萨拉是一个一个多世纪前被击败的巴尔之子。
+蓝康纳被 [奥林](Orin.md "奥林") 杀害，她的尸体（连同 [本费兰·普拉姆](Benferlaen_Plum.md "本费兰·普拉姆")、[坎德利斯·凯勒姆](Enris_Kellem.md "坎德利斯·凯勒姆")、[卷尘者里翁](Liron_Dustclotter.md "卷尘者里翁") 和 [佩内拉·伦本斯克斯](Penela_Lumpensicks.md "佩内拉·伦本斯克斯") 的尸体）被用作奥林“艺术”的一部分，作为 [伊拉萨拉](List_of_references_to_previous_Baldur's_Gate_games.md#Characters_from_Baldur's_Gate_1_and_2_appearing_as_NPCs "对先前博德之门游戏的参考列表") 的雕像，伊拉萨拉是一个一个多世纪前被击败的巴尔之子。
 
 ## 相关任务
 

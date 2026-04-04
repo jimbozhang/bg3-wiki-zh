@@ -18,7 +18,7 @@
 
 ## 文本
 
-\[一段关于维尔金维尔夫追捕的详细历史，由[卓尔](Drow.md "卓尔")女祭司伊尔瓦拉率领[罗丝](Lolth.md "罗丝")教团进行。\]
+\[卓尔](Drow.md "卓尔")女祭司伊尔瓦拉率领[罗丝](Lolth.md "罗丝")教团进行。\]
 
 ---
 *Source: [The Velkynvelve Pursuit](https://bg3.wiki/wiki/The_Velkynvelve_Pursuit)*

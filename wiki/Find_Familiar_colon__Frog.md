@@ -1,6 +1,6 @@
 # 获得魔宠：青蛙
 
-**获得魔宠：青蛙** 是一个 [1级咒法学派法术](Spells.md "Spells")。这个法术是 [获得魔宠](Find_Familiar.md "Find_Familiar") 法术的一个变体，可以召唤一只小型青蛙。
+**获得魔宠：青蛙** 是一个 [法术](Spells.md "法术")。这个法术是 [获得魔宠](Find_Familiar.md "Find_Familiar") 法术的一个变体，可以召唤一只小型青蛙。
 
 ## 描述
 

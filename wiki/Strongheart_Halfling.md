@@ -44,7 +44,7 @@
 #### 亚种特性
 
 [天生善匿](Naturally_Stealthy.md "天生善匿")
-你灵巧的天性使你擅长隐蔽。你在进行[隐匿](Stealth.md "隐匿")[检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+你灵巧的天性使你擅长隐蔽。你在进行[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 ### 壮心半身人
 

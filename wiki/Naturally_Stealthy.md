@@ -4,7 +4,7 @@
 
 ## 描述
 
-你灵博的天性使你熟练习得隐匿。你在[隐匿](Stealth.md "Stealth")[检定](Ability_Check.md "Ability Check")上具有[优势](Advantage.md "Advantage")。
+你灵博的天性使你熟练习得隐匿。你在[隐匿](Stealth.md "Stealth")[属性检定](Ability_Check.md "属性检定")上具有[优势](Advantage.md "Advantage")。
 
 ## 如何习得
 

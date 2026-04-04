@@ -84,11 +84,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 10 / (0) | 16 / (+3) | 12 / (+1) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -96,15 +96,15 @@
 
 蕈人王格拉特可以对处于[倒伏](Prone_(Condition).md "倒伏 (状态)")状态的目标使用[多重攻击](Multiattack_(Glut).md "多重攻击 (格拉特)")。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用[运动](Athletics.md "运动")的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -150,11 +150,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +2 | 0 | +3 | +1 | 0 | 0 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -162,15 +162,15 @@
 
 蕈人王格拉特可以对处于[倒伏](Prone_(Condition).md "倒伏 (状态)")状态的目标使用[多重攻击](Multiattack_(Glut).md "多重攻击 (格拉特)")。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用[运动](Athletics.md "运动")的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -216,11 +216,11 @@
 | --- | --- | --- | --- |
 |  | 2 | 0 | 0 |
 
-## 抗性 [(信息)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -228,15 +228,15 @@
 
 蕈人王格拉特可以对处于[倒伏](Prone_(Condition).md "倒伏 (状态)")状态的目标使用[多重攻击](Multiattack_(Glut).md "多重攻击 (格拉特)")。
 
-- [**强壮**](Muscular.md "强壮")
+- [强壮](Muscular.md "强壮")
 
 在使用[运动](Athletics.md "运动")的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**太阳病**](Sun_Sickness.md "太阳病")
+- [太阳病](Sun_Sickness.md "太阳病")
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -274,7 +274,7 @@ UUID
 
 一个沉思的格拉特可以在[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")西入口内找到。走近它会开始对话。
 
-最近被取代，没有家园或圆环，格拉特要求队伍描述他们自己的家园。根据[种族](Race.md "种族")和[出身](Origin.md "出身")，队伍可以以多种方式回答。之后，格拉特分享了它关于被灰矮人杀害的蕈人同胞的记忆。如果队伍已经与蕈人王斯伯交谈并接受了任务，格拉特会要求与队伍同行并[杀死灰矮人](Defeat_the_Duergar_Intruders.md "击败灰矮人入侵者")，或者如果他们已经被消灭，则去看看他们的尸体。
+最近被取代，没有家园或圆环，格拉特要求队伍描述他们自己的家园。根据[种族](Race.md "种族")和[出身](Origin.md "出身")，队伍可以以多种方式回答。之后，格拉特分享了它关于被灰矮人杀害的蕈人同胞的记忆。如果队伍已经与蕈人王斯伯交谈并接受了任务，格拉特会要求与队伍同行并[击败灰矮人](Defeat_the_Duergar_Intruders.md "击败灰矮人")，或者如果他们已经被消灭，则去看看他们的尸体。
 
 一旦处理完毕，格拉特看到死去的灰矮人尸体后欣喜若狂，并宣布现在是“格拉特的时代”。它要求队伍消灭[斯伯](Spaw.md "斯伯")，因为黑檀湖洞穴只能有一个王。队伍可以协助格拉特或拒绝，如果拒绝，它会变得敌对并必须被杀死。
 

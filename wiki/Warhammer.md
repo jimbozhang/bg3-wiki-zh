@@ -2,7 +2,7 @@
 
 关于装备类型，请参见 [战锤](Warhammers.md "Warhammers")。
 
-**战锤**是[战锤](Warhammers.md "Warhammers")武器家族中一种普通的、非魔法的变体。它是一种[军用近战武器](Weapons.md "Weapons")，可以用单手挥舞，或用双手挥舞以造成额外伤害。
+**战锤**是[战锤](Warhammers.md "Warhammers")武器家族中一种普通的、非魔法的变体。它是一种[武器](Weapons.md "武器")，可以用单手挥舞，或用双手挥舞以造成额外伤害。
 
 这把锤子几乎不需要维护，这与其重量相比并不重要。
 

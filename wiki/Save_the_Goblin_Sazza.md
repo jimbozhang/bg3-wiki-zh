@@ -4,16 +4,16 @@
 
 ## 目录
 
-- [1 目标](#objectives)
-- [2 流程攻略](#walkthrough)
-  - [2.1 放走萨扎](#free-sazza)
-  - [2.2 护送萨扎](#escorting-sazza)
-  - [2.3 抵达地精营地](#reach-the-goblin-camp)
-  - [2.4 与萨扎和卓尔对话](#speak-to-sazza-and-the-drow)
-- [3 奖励](#rewards)
-- [4 伙伴好感度](#companion-approval)
-- [5 成就](#achievements)
-- [6 错误](#bugs)
+- [1 目标](#目标)
+- [2 流程攻略](#流程攻略)
+  - [2.1 放走萨扎](#放走萨扎)
+  - [2.2 护送萨扎](#护送萨扎)
+  - [2.3 抵达地精营地](#抵达地精营地)
+  - [2.4 与萨扎和卓尔对话](#与萨扎和卓尔对话)
+- [3 奖励](#奖励)
+- [4 伙伴好感度](#伙伴好感度)
+- [5 成就](#成就)
+- [6 错误](#错误)
 
 ## 目标
 
@@ -73,7 +73,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 - [武僧] [洞悉] 我能感受到你背负的痛苦——但杀死这个生物无法减轻你的负担 (DC 10)
 - _让开。_
 
-如果[威吓](Intimidation.md "Intimidation")[检定](Ability_Check.md "Ability check")或其中一个[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")掷骰失败，玩家角色可以再进行一次之前未选择的掷骰。
+如果[威吓](Intimidation.md "Intimidation")[属性检定](Ability_Check.md "属性检定")或其中一个[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")掷骰失败，玩家角色可以再进行一次之前未选择的掷骰。
 
 如果队伍无法说服阿尔卡让步，她会射杀萨扎，任务不会触发。否则，她会气冲冲地离开，萨扎会向队伍呼救。
 
@@ -81,7 +81,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 ### 放走萨扎
 
-如果萨扎通过任一方式存活下来，她会试图说服队伍帮助她逃跑。她解释说，她的女神“绝对者”保护着她，地精们会摧毁整个林地。如果队伍帮助她返回营地，他们将被放过。队伍可以放走萨扎，或者任由她自生自灭。要释放萨扎，必须用DC 10的[巧手](Sleight_of_Hand.md "Sleight of Hand")[检定](Ability_Check.md "Ability check")撬开笼子，用蛮力砸开，或用[铁牢房钥匙](Iron_Cell_Key.md "Iron Cell Key")解锁。释放萨扎奖励15[经验值](Experience.md "Experience")。
+如果萨扎通过任一方式存活下来，她会试图说服队伍帮助她逃跑。她解释说，她的女神“绝对者”保护着她，地精们会摧毁整个林地。如果队伍帮助她返回营地，他们将被放过。队伍可以放走萨扎，或者任由她自生自灭。要释放萨扎，必须用DC 10的[巧手](Sleight_of_Hand.md "Sleight of Hand")[属性检定](Ability_Check.md "属性检定")撬开笼子，用蛮力砸开，或用[铁牢房钥匙](Iron_Cell_Key.md "Iron Cell Key")解锁。释放萨扎奖励15[经验值](Experience.md "Experience")。
 
 可以盘问萨扎，但她拒绝回答，否则她会成为老鼠的早餐：
 
@@ -104,7 +104,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 地下通道地图。
 
-也可以通过通过几个[欺瞒](Deception.md "Deception")[检定](Ability_Check.md "Ability check")或[游说](Persuasion.md "Persuasion")[检定](Ability_Check.md "Ability check")，或者直接屠杀[提夫林](Tiefling.md "Tiefling")，从前门护送萨扎。
+也可以通过通过几个[欺瞒](Deception.md "Deception")[属性检定](Ability_Check.md "属性检定")或[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")，或者直接屠杀[提夫林](Tiefling.md "Tiefling")，从前门护送萨扎。
 
 ### 抵达地精营地
 

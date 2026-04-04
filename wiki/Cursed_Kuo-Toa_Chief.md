@@ -71,7 +71,7 @@
 
 ## 特性
 
-- [**电刺**](Shocking_Sting.md "电刺")
+- [电刺](Shocking_Sting.md "电刺")
 
 命中时使目标陷入[电爪](Shocking_Grasp_(Condition).md "电爪 (状态)")状态。
 
@@ -79,19 +79,19 @@
 
 投掷到目标时，造成额外 1d4⁠⁠[闪电](Lightning.md "闪电")伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**电刑免疫**](Electrocution_Immunity.md "电刑免疫")
+- [电刑免疫](Electrocution_Immunity.md "电刑免疫")
 
 多年在雷暴中伏击船只意味着此生物无法被[电击](Electrocuted_(Condition).md "电击 (状态)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉检定具有劣势。
 
@@ -143,7 +143,7 @@
 
 ## 特性
 
-- [**电刺**](Shocking_Sting.md "电刺")
+- [电刺](Shocking_Sting.md "电刺")
 
 命中时使目标陷入[电爪](Shocking_Grasp_(Condition).md "电爪 (状态)")状态。
 
@@ -151,19 +151,19 @@
 
 投掷到目标时，造成额外 1d4⁠⁠[闪电](Lightning.md "闪电")伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**电刑免疫**](Electrocution_Immunity.md "电刑免疫")
+- [电刑免疫](Electrocution_Immunity.md "电刑免疫")
 
 多年在雷暴中伏击船只意味着此生物无法被[电击](Electrocuted_(Condition).md "电击 (状态)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉检定具有劣势。
 
@@ -215,7 +215,7 @@
 
 ## 特性
 
-- [**电刺**](Shocking_Sting.md "电刺")
+- [电刺](Shocking_Sting.md "电刺")
 
 命中时使目标陷入[电爪](Shocking_Grasp_(Condition).md "电爪 (状态)")状态。
 
@@ -223,23 +223,23 @@
 
 投掷到目标时，造成额外 1d4⁠⁠[闪电](Lightning.md "闪电")伤害。
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 能在黑暗中看到一定距离。
 
-- [**电刑免疫**](Electrocution_Immunity.md "电刑免疫")
+- [电刑免疫](Electrocution_Immunity.md "电刑免疫")
 
 多年在雷暴中伏击船只意味着此生物无法被[电击](Electrocuted_(Condition).md "电击 (状态)")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 在阳光下时，攻击掷骰和察觉检定具有劣势。
 
-- [**闪电撕裂**](Rend_With_White_Lightning.md "闪电撕裂")
+- [闪电撕裂](Rend_With_White_Lightning.md "闪电撕裂")
 
 成功的武器攻击造成额外 1d8⁠⁠[闪电](Lightning.md "闪电")伤害。
 
@@ -247,11 +247,11 @@
 
 ## 目录
 
-- [1 互动](#interactions)
-- [2 战斗](#combat)
-  - [2.1 攻击与能力](#attacks-and-abilities)
-  - [2.2 值得一提的战利品](#notable-loot)
-- [3 脚注](#footnotes)
+- [1 互动](#互动)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 脚注](#脚注)
 
 ## 互动
 

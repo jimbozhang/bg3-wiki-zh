@@ -2,7 +2,7 @@
 
 **糖蜜馅饼肚**
 
-- 在[感知](Wisdom.md "感知")和[智力](Intelligence.md "智力")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[感知](Wisdom.md "感知")和[智力](Intelligence.md "智力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 ## 属性
 
@@ -26,7 +26,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 在[感知](Wisdom.md "感知")和[智力](Intelligence.md "智力")[检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
+- 在[感知](Wisdom.md "感知")和[智力](Intelligence.md "智力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")。
 
 ---
 *Source: [Treacly Tummy (Condition)](https://bg3.wiki/wiki/Treacly_Tummy_(Condition)*

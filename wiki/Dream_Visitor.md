@@ -76,15 +76,15 @@
 
 ## 特性
 
-- [**魅惑**](Charm.md "魅惑")
+- [魅惑](Charm.md "魅惑")
 
 可以[魅惑](Charmed_(Condition).md) 一个攻击的敌人，阻止其在下一回合前进行进一步攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -128,15 +128,15 @@
 
 ## 特性
 
-- [**魅惑**](Charm.md "魅惑")
+- [魅惑](Charm.md "魅惑")
 
 可以[魅惑](Charmed_(Condition).md) 一个攻击的敌人，阻止其在下一回合前进行进一步攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -180,15 +180,15 @@
 
 ## 特性
 
-- [**魅惑**](Charm.md "魅惑")
+- [魅惑](Charm.md "魅惑")
 
 可以[魅惑](Charmed_(Condition).md) 一个攻击的敌人，阻止其在下一回合前进行进一步攻击。
 
-- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
 
 对法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开触及范围的敌人。
 
@@ -198,14 +198,14 @@
 
 ## 目录
 
-- [1 参与度](#involvement)
-  - [1.1 第一幕](#act-one)
-  - [1.2 第二幕](#act-two)
-  - [1.3 第三幕](#act-three)
-- [2 战斗](#combat)
-- [3 抢先体验](#early-access)
-- [4 画廊](#gallery)
-- [5 参考文献](#references)
+- [1 参与度](#参与度)
+  - [1.1 第一幕](#第一幕)
+  - [1.2 第二幕](#第二幕)
+  - [1.3 第三幕](#第三幕)
+- [2 战斗](#战斗)
+- [3 抢先体验](#抢先体验)
+- [4 画廊](#画廊)
+- [5 参考文献](#参考文献)
 
 ## 参与度
 
@@ -222,11 +222,11 @@
 
 梦境守护者在第二幕梦境序列中作为穿着营地服装的女性提夫林。
 
-在击败[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")和[米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒")后，梦境守护者出现在玩家角色的梦境之外，向他们表示祝贺，但敦促他们前往[博德之门](Baldur's_Gate.md "博德之门")，最终摧毁[绝对](Absolute.md "绝对")教派背后的[耐色脑](The_Netherbrain.md "耐色脑")，以及[死亡三神](Dead_Three.md "死亡三神")的其余选民，[腥红奥林](Orin.md "腥红奥林")和[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")。
+在击败[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")和[米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒")后，梦境守护者出现在玩家角色的梦境之外，向他们表示祝贺，但敦促他们前往[博德之门](Baldur's_Gate.md "博德之门")，最终摧毁[绝对](Absolute.md "绝对")教派背后的[耐色脑](The_Netherbrain.md "耐色脑")，以及[死亡三神](Dead_Three.md "死亡三神")的其余选民，[奥林](Orin.md "奥林")和[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")。
 
 ### 第三幕
 
-在第三幕开始时，在营地中，队伍被[耐色脑](The_Netherbrain.md "耐色脑")突然且几乎压倒性的要求所打扰，梦境守护者恳求队伍帮助他们。当队伍抵达[星界棱镜](Mysterious_Artefact.md "神秘遗物")时，他们遇到的不是他们手工制作的梦境守护者，而是一个名为[君主](The_Emperor.md "君主")的[夺心魔](Mind_flayer.md "夺心魔")，他承认以梦境守护者的形式欺骗了队伍。
+在第三幕开始时，在营地中，队伍被[耐色脑](The_Netherbrain.md "耐色脑")突然且几乎压倒性的要求所打扰，梦境守护者恳求队伍帮助他们。当队伍抵达[神秘遗物](Mysterious_Artefact.md "神秘遗物")时，他们遇到的不是他们手工制作的梦境守护者，而是一个名为[君主](The_Emperor.md "君主")的[夺心魔](Mind_flayer.md "夺心魔")，他承认以梦境守护者的形式欺骗了队伍。
 
 如果队伍选择释放[俄耳甫斯](Orpheus.md "俄耳甫斯")并与君主战斗，四个版本的梦境守护者将作为敌人出现。
 

@@ -21,7 +21,7 @@
 此物品的穿戴者获得：
 
 [隐匿](Stealthy.md "隐匿")
-获得 +1 奖励至[隐匿检定](Stealth.md "隐匿")。
+获得 +1 奖励至[隐匿](Stealth.md "隐匿")。
 
 [平衡](Balance.md "平衡")
 获得 +1 奖励至[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")和[属性检定](Ability_Check.md "属性检定")

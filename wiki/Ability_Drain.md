@@ -8,7 +8,7 @@
 
 被降低的属性与进行攻击掷骰时使用的属性相同。
 
-对于近战武器，这通常是[力量](Strength.md "力量")；对于远程武器，通常是[敏捷](Dexterity.md "敏捷")；对于法术，则通常是你的[施法关键属性](Spellcasting_Modifier.md "施法调整值")。
+对于近战武器，这通常是[力量](Strength.md "力量")；对于远程武器，通常是[敏捷](Dexterity.md "敏捷")；对于法术，则通常是你的[施法调整值](Spellcasting_Modifier.md "施法调整值")。
 
 ### 详情
 
@@ -68,7 +68,7 @@
 
 ## 备注
 
-- 使用[施法关键属性](Spellcasting_Modifier.md "施法调整值")的武器攻击（例如通过[橡棍术](Shillelagh.md "橡棍术")、[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")，或直接使用[森林弯刀](Sylvan_Scimitar.md "森林弯刀")或[地狱刺剑](Infernal_Rapier.md "地狱刺剑")武器）会为相应的施法关键属性应用**吸取属性**。
+- 使用[施法调整值](Spellcasting_Modifier.md "施法调整值")的武器攻击（例如通过[橡棍术](Shillelagh.md "橡棍术")、[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")，或直接使用[森林弯刀](Sylvan_Scimitar.md "森林弯刀")或[地狱刺剑](Infernal_Rapier.md "地狱刺剑")武器）会为相应的施法关键属性应用**吸取属性**。
 - 截至热修复 #16，吸取属性不会将目标的属性降低至1点以下。
 
 ---

@@ -12,35 +12,35 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 伙伴](#companions)
-- [2 灵吸怪威能列表](#list-of-illithid-powers)
-  - [2.1 精英威能](#elite-powers)
-  - [2.2 完整蜕变](#full-ceremorphosis)
-  - [2.3 其他威能](#other-powers)
-- [3 夺心魔寄生虫位置](#mind-flayer-parasite-locations)
-  - [3.1 第一幕](#act-one)
-    - [3.1.1 真魂者](#true-souls)
+- [1 概述](#概述)
+  - [1.1 伙伴](#伙伴)
+- [2 灵吸怪威能列表](#灵吸怪威能列表)
+  - [2.1 精英威能](#精英威能)
+  - [2.2 完整蜕变](#完整蜕变)
+  - [2.3 其他威能](#其他威能)
+- [3 夺心魔寄生虫位置](#夺心魔寄生虫位置)
+  - [3.1 第一幕](#第一幕)
+    - [3.1.1 真魂者](#真魂者)
     - [3.1.2 战利品与任务奖励 [12]](#loot-&_Quest_Rewards_%5B12%5D)
-  - [3.2 第二幕](#act-two)
-    - [3.2.1 真魂者](#true-souls-2)
+  - [3.2 第二幕](#第二幕)
+    - [3.2.1 真魂者](#真魂者)
     - [3.2.2 战利品与任务奖励[12]](#loot-&_Quest_rewards%5B12%5D)
-  - [3.3 第三幕](#act-three)
-    - [3.3.1 真魂者](#true-souls-3)
+  - [3.3 第三幕](#第三幕)
+    - [3.3.1 真魂者](#真魂者)
     - [3.3.2 战利品（利文顿与飞龙关）](#loot-(Rivington_and_Wyrm's_Crossing))
     - [3.3.3 战利品（下城区）](#loot-(Lower_City))
-    - [3.3.4 任务奖励](#quest-rewards)
-    - [3.3.5 部分灵吸怪](#partial-illithid)
-- [4 施法关键属性调整值](#spellcasting-ability-modifier)
-- [5 成就](#achievements)
-- [6 图库](#gallery)
-- [7 注释与参考](#notes-and-references)
+    - [3.3.4 任务奖励](#任务奖励)
+    - [3.3.5 部分灵吸怪](#部分灵吸怪)
+- [4 施法关键属性调整值](#施法关键属性调整值)
+- [5 成就](#成就)
+- [6 图库](#图库)
+- [7 注释与参考](#注释与参考)
 
 ## 概述
 
 在[第一幕](Act_One.md "第一幕")首次通过通往[地精营地](Goblin_Camp.md "地精营地")的桥梁时，会触发涉及[神秘遗物](Mysterious_Artefact.md "神秘遗物")的过场动画。在接下来的[长休](Long_Rest.md "长休")期间，玩家角色及其伙伴会受到[梦境守护者](Dream_Guardian.md "梦境守护者")的造访，他鼓励他们接受并运用蝌蚪赋予的力量。这个梦境开启了⁠[拥抱你的潜能](Embrace_Your_Potential.md "拥抱你的潜能")任务，使队伍能够消耗蝌蚪以换取灵吸怪威能。
 
-一旦开始，消耗[寄生虫](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")或招募明萨拉会解锁灵吸怪威能技能树。<sup>[\[2\]](#cite_note-2)</sup> 解锁后，玩家角色及其伙伴物品栏中的所有夺心魔寄生虫标本都会被移除并添加到技能树界面，用于解锁新的灵吸怪威能。
+一旦开始，消耗[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")或招募明萨拉会解锁灵吸怪威能技能树。<sup>[\[2\]](#cite_note-2)</sup> 解锁后，玩家角色及其伙伴物品栏中的所有夺心魔寄生虫标本都会被移除并添加到技能树界面，用于解锁新的灵吸怪威能。
 
 ### 伙伴
 
@@ -56,12 +56,12 @@
     - [心灵反冲](Psionic_Backlash.md "心灵反冲")
   - [威尔](Wyll.md "威尔")<sup>[\[5\]](#cite_note-5)</sup>
 - 不情愿，必须通过对话说服：<sup>[\[6\]](#cite_note-6)</sup>
-  - [卡菈克](Karlach.md "卡菈克") - 根据情况需要DC 15 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")、DC 18 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")或DC 20 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")<sup>[\[7\]](#cite_note-7)</sup>
+  - [卡菈克](Karlach.md "卡菈克") - 根据情况需要DC 15 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")、DC 18 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")或DC 20 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")<sup>[\[7\]](#cite_note-7)</sup>
   - [莱埃泽尔](Lae'zel.md "莱埃泽尔") - 需要两次检定：<sup>[\[8\]](#cite_note-8)</sup>
-    - 第一次是DC 20 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")，或好感度高于60（非常高）时DC 12 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")
-    - 第二次是DC 12 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")、DC 15 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")、DC 18 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")或DC 20 [游说](Persuasion.md "游说") [检定](Ability_check.md "属性检定")<sup>[\[9\]](#cite_note-9)</sup>
+    - 第一次是DC 20 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")，或好感度高于60（非常高）时DC 12 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")
+    - 第二次是DC 12 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")、DC 15 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")、DC 18 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")或DC 20 [游说](Persuasion.md "游说") [检定](Ability_check.md "属性检定")<sup>[\[9\]](#cite_note-9)</sup>
   - [明斯克](Minsc.md "明斯克")
-  - [影心](Shadowheart.md "影心") - DC 15 [游说](Persuasion.md "游说") [检定](Ability_Check.md "属性检定")，若好感度低于20（中等）则具有[劣势](Disadvantage.md "劣势")，高于60（非常高）则具有[优势](Advantage.md "优势")<sup>[\[10\]](#cite_note-10)</sup>
+  - [影心](Shadowheart.md "影心") - DC 15 [游说](Persuasion.md "游说") [属性检定](Ability_Check.md "属性检定")，若好感度低于20（中等）则具有[劣势](Disadvantage.md "劣势")，高于60（非常高）则具有[优势](Advantage.md "优势")<sup>[\[10\]](#cite_note-10)</sup>
 - 未感染蝌蚪，因此无法使用灵吸怪威能：
   - [哈尔辛](Halsin.md "哈尔辛")
   - [贾希拉](Jaheira.md "贾希拉")
@@ -117,7 +117,7 @@
 | [心灵震爆](Mind_Blast.md "心灵震爆") | 职业动作 | 喷出锥形心灵能量波，可能[震慑](Stunned_(Condition).md "震慑（状态）")范围内的目标。造成4d8+施法关键属性调整值⁠⁠[心灵](Psychic.md "心灵")伤害。充能：[长休](Long_Rest.md "长休") | 无 |
 | [心灵庇护](Mind_Sanctuary.md "心灵庇护") | 职业动作 | 雕塑一个魔法枢纽，允许范围内的人互换使用[动作](Actions#Resources.md#Resources "动作")和[附赠动作](Actions#Resources.md#Resources "动作")。充能：[长休](Long_Rest.md "长休") | 解锁以下之一：[心灵反冲](Psionic_Backlash.md "心灵反冲") [自由施法](Freecast.md "自由施法") |
 | [自由施法](Freecast.md "自由施法") | 可切换被动特性 | 你发现了自己体内惊人的适应性。下一个动作或法术的法术位、充能次数和类似资源消耗将被移除。充能：[长休](Long_Rest.md "长休") | 解锁以下之一：[隶属之盾](Shield_of_Thralls.md "隶属之盾") [心灵庇护](Mind_Sanctuary.md "心灵庇护") |
-| [吞噬智力](Absorb_Intellect.md "吞噬智力") | 职业动作 | 吞噬敌人的智力，每回合降低其[智力](Intelligence.md "智力")1点，并在5回合内治疗你的伤口（每回合1d8⁠⁠[生命值](Healing.md "治疗")）。充能：[短休](Short_rest.md "短休") | 解锁以下之一：[孤注一掷](Perilous_Stakes.md "孤注一掷") [移位兽形态](Displacer_Beast_Shape.md "移位兽形态") |
+| [吞噬智力](Absorb_Intellect.md "吞噬智力") | 职业动作 | 吞噬敌人的智力，每回合降低其[智力](Intelligence.md "智力")1点，并在5回合内治疗你的伤口（每回合1d8⁠⁠[治疗](Healing.md "治疗")）。充能：[短休](Short_rest.md "短休") | 解锁以下之一：[孤注一掷](Perilous_Stakes.md "孤注一掷") [移位兽形态](Displacer_Beast_Shape.md "移位兽形态") |
 | [移位兽形态](Displacer_Beast_Shape.md "移位兽形态") | 职业动作 | 变形为移位兽，可以[移位](Displace_(Displacer_Beast).md "移位（移位兽）")自身和敌人，并拥有85点[生命值](Hit_Points.md "生命值")。你获得移位兽的属性，但保留你的[智力](Intelligence.md "智力")、[感知](Wisdom.md "感知")和[魅力](Charisma.md "魅力")值。当你的移位兽形态生命值降至0时，你将恢复原形。充能：[长休](Long_Rest.md "长休") | 解锁以下之一：[怯场](Stage_Fright.md "怯场") [吞噬智力](Absorb_Intellect.md "吞噬智力") |
 
 - [怯场](Stage_Fright.md "怯场")
@@ -136,10 +136,10 @@
 | [强化导力](Strengthened_Force_Tunnel.md "强化导力") | 职业动作 | 向前冲锋，将路径上所有物体和生物推开12米/40英尺。造成3d10+4⁠⁠[力场](Force.md "力场")伤害，并可能使目标[倒地](Prone_(Condition).md "倒地（状态）") |
 | [极端孤注一掷](Fierce_Perilous_Stakes.md "极端孤注一掷") | 职业动作 | 赋予盟友额外15⁠⁠[心灵](Psychic.md "心灵")伤害，当其掷出15或更高时自动[重击](Critical_Hit.md "重击")，并在命中时治疗。然而，他们也会对所有伤害[易伤](Vulnerable.md "易伤")。 |
 | [星云黑洞](Nebulous_Black_Hole.md "星云黑洞") | 职业动作 | 创造一个强引力点，造成3d10+4⁠⁠[力场](Force.md "力场")伤害，并可能使敌人[缓慢](Slowed_(Condition).md "缓慢（状态）")。 |
-| [突触吞噬](Synaptic_Consumption.md "突触吞噬") | 职业动作 | 将敌人的所有[属性值](Ability_Score.md "属性值")降低5点，然后每回合降低1点，并在五回合内每回合恢复2~20⁠⁠[生命值](Healing.md "治疗")。敌人将陷入[倒地](Prone_(Condition).md "倒地（状态）")。 |
+| [突触吞噬](Synaptic_Consumption.md "突触吞噬") | 职业动作 | 将敌人的所有[属性值](Ability_Score.md "属性值")降低5点，然后每回合降低1点，并在五回合内每回合恢复2~20⁠⁠[治疗](Healing.md "治疗")。敌人将陷入[倒地](Prone_(Condition).md "倒地（状态）")。 |
 | [强化隶属之盾](Augmented_Shield_of_Thralls.md "强化隶属之盾") | 职业动作 | 以两个生物为目标，为他们提供25点[临时生命值](Temporary_Hit_Points.md "临时生命值")。一旦这些生命值耗尽，护盾会爆裂并使附近敌人[震慑](Stunned_(Condition).md "震慑（状态）")。 |
 | [强效聚能爆破](Potent_Concentrated_Blast.md "强效聚能爆破") | 职业动作 | 对敌人造成9d6⁠⁠[心灵](Psychic.md "心灵")伤害。如果他们正在[专注](Concentration.md "专注")于一个法术，则恢复等量的生命值。 |
-| [提取大脑](Extract_Brain_(Full-illithid).md "提取大脑（完整的灵吸怪）") | 职业动作 | 对附近处于[震慑](Stunned_(Condition).md "震慑（状态）")、[倒地](Prone_(Condition).md "倒地（状态）")、[沉睡](Sleeping_(Condition).md "沉睡（状态）")或[昏迷](Unconscious.md "昏迷")状态的生物进行脑叶切除术，造成5d10+50⁠⁠[穿刺](Piercing.md "穿刺")伤害并恢复6d6⁠⁠[生命值](Healing.md "治疗")。 |
+| [提取大脑](Extract_Brain_(Full-illithid).md "提取大脑（完整的灵吸怪）") | 职业动作 | 对附近处于[震慑](Stunned_(Condition).md "震慑（状态）")、[倒地](Prone_(Condition).md "倒地（状态）")、[沉睡](Sleeping_(Condition).md "沉睡（状态）")或[昏迷](Unconscious.md "昏迷")状态的生物进行脑叶切除术，造成5d10+50⁠⁠[穿刺](Piercing.md "穿刺")伤害并恢复6d6⁠⁠[治疗](Healing.md "治疗")。 |
 | [触手鞭挞](Tentacle_Whip_(Full-illithid).md "触手鞭挞（完整的灵吸怪）") | 职业动作 | 造成3d10+5⁠⁠[心灵](Psychic.md "心灵")近战伤害，并可能[震慑](Stunned_(Condition).md "震慑（状态）")目标。 |
 | [浮空术](Levitate_(Illithid_Power).md "浮空术（灵吸怪威能）") | 职业动作 | 使用[移动速度](Resources#Movement_speed.md#Movement_speed "资源")漂浮到目的地。 |
 | [灵魂受挫](Fracture_Psyche_(Full-illithid).md "灵魂受挫（完整的灵吸怪）") | 职业动作 | 侵入目标的心灵并扰乱其防御。目标的[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")降低5点。如果目标在灵魂受挫时死亡，你可以对另一个目标施放[灵魂破碎](Shatter_Psyche_(Full-illithid).md "灵魂破碎（完整的灵吸怪）")。充能：[短休](Short_rest.md "短休") |
@@ -196,7 +196,7 @@
 #### 战利品与任务奖励<sup>[\[12\]](#cite_note-absquest-12)</sup>
 
 - 2个 - 在[散塔林货运箱](Zhentarim_Shipping_Crate.md "散塔林货运箱")中 X: -71 Y: -187，位于[月出之塔](Moonrise_Towers.md "月出之塔")的码头。<sup>[\[15\]](#cite_note-15)</sup>
-- 1个 - 在盐水池中 X: 678 Y: 45，通过DC 16 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")后，在月出之塔下的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中。
+- 1个 - 在盐水池中 X: 678 Y: 45，通过DC 16 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")后，在月出之塔下的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中。
 - 1个 - ⁠[抓住塞伦涅牧师伊索贝尔](Capture_Isobel_the_Sel%C3%BBnite_Cleric.md "抓住塞伦涅牧师伊索贝尔")。
 - 1个 - ⁠[寻找凯瑟里克·索姆的遗物](Find_Ketheric_Thorm's_Relic.md "寻找凯瑟里克·索姆的遗物") - 通过支持[巴萨扎尔](Balthazar.md "巴萨扎尔")
 

@@ -82,7 +82,7 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -90,7 +90,7 @@
 
 当魔蝠死亡时，它会爆炸，对 2 米 (7 英尺) 范围内的所有生物造成 2d6⁠⁠[力场](Force.md "Force") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -130,7 +130,7 @@
 
 - ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "Darkvision")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
@@ -138,7 +138,7 @@
 
 当魔蝠死亡时，它会爆炸，对 2 米 (7 英尺) 范围内的所有生物造成 2d6⁠⁠[力场](Force.md "Force") 伤害。
 
-- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -168,7 +168,7 @@ UUID
 
 ## 参与
 
-玩家角色可以花费 5000 金币购买一尊自己的[雕像](True_Hero_of_Baldur's_Gate.md "True Hero of Baldur's Gate")。这尊雕像将留在营地，并为其所描绘的角色永久赋予[甜蜜石特性](Sweet_Stone_Features_(Condition).md "Sweet Stone Features (Condition)")。玩家角色可以通过对话选择让雕像描绘自己时手持武器（包括头部装备）、穿着营地服装或裸体。博尼感谢他们的购买，并透露这些资金将用于他和妻子前往[月之群岛](https://forgottenrealms.fandom.com/wiki/Moonshae_Isles)的旅行。拥有[公会工匠](Guild_Artisan.md "Guild Artisan")背景的队伍成员还会获得[鼓励本地艺术家](Guild_Artisan.md#Encouraging_Local_Artists "Guild Artisan")激励点。
+玩家角色可以花费 5000 金币购买一尊自己的[博德之门真英雄](True_Hero_of_Baldur's_Gate.md "博德之门真英雄")。这尊雕像将留在营地，并为其所描绘的角色永久赋予[甜蜜石特性](Sweet_Stone_Features_(Condition).md "Sweet Stone Features (Condition)")。玩家角色可以通过对话选择让雕像描绘自己时手持武器（包括头部装备）、穿着营地服装或裸体。博尼感谢他们的购买，并透露这些资金将用于他和妻子前往[月之群岛](https://forgottenrealms.fandom.com/wiki/Moonshae_Isles)的旅行。拥有[公会工匠](Guild_Artisan.md "Guild Artisan")背景的队伍成员还会获得[鼓励本地艺术家](Guild_Artisan.md#Encouraging_Local_Artists "Guild Artisan")激励点。
 
 博尼无法被扒窃，因此如果不杀死他，这 5000 金币是无法取回的。不过，这笔钱会显示在他标准商店的可用金币中，因此可以向他出售物品来收回。
 
@@ -188,7 +188,7 @@ UUID
 
 在粘稠的泥浆中爆炸。它会瞬间干燥在任何附近的非泥浆生物上，[束缚](Muddy_(Condition).md "Muddy (Condition)")并伤害它们。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 范围：自身
 
 [飞行](Fly_(class_action).md "Fly (class action)") ()
@@ -199,7 +199,7 @@ UUID
 [泥水呼吸](Mud_Breath.md "Mud Breath") ()
 向敌人喷吐粘稠的泥浆以[束缚](Muddy_(Condition).md "Muddy (Condition)")它。
 
-[敏](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
 充能：每回合
 
 [扔泥巴](Mud_Fling.md "Mud Fling") ()

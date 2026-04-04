@@ -24,7 +24,7 @@
 ## 备注
 
 - 游戏内工具提示存在拼写错误，显示为“Advantage on Constitution Saving Throws Checks”（在体质豁免检定检定上具有优势）。
-- 如果首先用 DC 20 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")解除陷阱，并且不触碰[俄耳甫斯之锤](Orphic_Hammer.md "俄耳甫斯之锤")、[灵魂契约](Soul-Sworn_Contract.md "灵魂契约")和[希望](Hope.md "希望")，则可以无需战斗偷取该护符。
+- 如果首先用 DC 20 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")解除陷阱，并且不触碰[俄耳甫斯之锤](Orphic_Hammer.md "俄耳甫斯之锤")、[灵魂契约](Soul-Sworn_Contract.md "灵魂契约")和[希望](Hope.md "希望")，则可以无需战斗偷取该护符。
 - 此物品可以通过在拾取护符前，在基座上放置一个等重的物品来偷取，从而代替察觉和缴械检定，就像《夺宝奇兵》中那样。
 - 如果佩戴者的体质低于 22，护符会根据体质的增加相应提高其最大[生命值](Hit_Points.md "生命值")，但其当前生命值将保持不变，不会恢复到新的最大值。
 

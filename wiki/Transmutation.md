@@ -6,11 +6,11 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 通过职业或卷轴获得的变化学派法术列表](#list-of-transmutation-spells-granted-by-class-or-through-scrolls)
-- [3 通过物品获得的变化学派法术列表](#list-of-transmutation-spells-granted-by-items)
-- [4 仅限NPC使用的变化学派法术列表](#list-of-transmutation-spells-available-only-to-npcs)
-- [5 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 通过职业或卷轴获得的变化学派法术列表](#通过职业或卷轴获得的变化学派法术列表)
+- [3 通过物品获得的变化学派法术列表](#通过物品获得的变化学派法术列表)
+- [4 仅限NPC使用的变化学派法术列表](#仅限NPC使用的变化学派法术列表)
+- [5 外部链接](#外部链接)
 
 ## 概述
 
@@ -34,7 +34,7 @@
 | [树肤术](Barkskin.md "树肤术") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [高级黑暗视觉](Darkvision_(spell).md "高级黑暗视觉 (法术)") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [强化属性](Enhance_Ability.md "强化属性") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
-| [巨化/缩小](Enlarge/Reduce.md "巨化/缩小") | 2 |  |  | - | 9米 / 30英尺 | - | - |
+| [缩小](Enlarge/Reduce.md "缩小") | 2 |  |  | - | 9米 / 30英尺 | - | - |
 | [灼热金属](Heat_Metal.md "灼热金属") | 2 |  |  | - | 18米 / 60英尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d8⁠[火焰](Fire.md "火焰") |
 | [敲击术](Knock.md "敲击术") | 2 |  |  | - | 18米 / 60英尺 | - | - |
 | [魔法武器](Magic_Weapon.md "魔法武器") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |

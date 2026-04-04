@@ -18,7 +18,7 @@
 - 攻击者无法对佩戴者造成[重击](Critical_Hit.md "重击")。
 
 [博德安的活力](Balduran's_Vitality.md "博德安的活力")
-该头盔在每回合开始时为你恢复 2⁠⁠[生命值](Healing.md "治疗")。
+该头盔在每回合开始时为你恢复 2⁠⁠[治疗](Healing.md "治疗")。
 
 [博德安的青睐](Balduran's_Favour.md "博德安的青睐")
 你的[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")获得 +1 奖励。
@@ -44,7 +44,7 @@ _关于博德安的活力：_
 
 **博德安的活力**与触发治疗效果的物品和被动技能搭配良好。特别是：
 
-- [神佑医师](Blessed_Healer.md "神佑医师") 可额外获得 3⁠⁠[生命值](Healing.md "治疗")
+- [神佑医师](Blessed_Healer.md "神佑医师") 可额外获得 3⁠⁠[治疗](Healing.md "治疗")
 - [疗愈之靴](Boots_of_Aid_and_Comfort.md "疗愈之靴") 可额外获得 3 [临时生命值](Temporary_Hit_Points.md "临时生命值")
 - [巢穴之母的复仇](Broodmother's_Revenge.md "巢穴之母的复仇") 可在武器攻击时额外造成 1d6⁠⁠[中毒](Poison.md "中毒")伤害
 - [草药师手套](Herbalist's_Gloves.md "草药师手套") 可移除[中毒](Poisoned_(Condition).md "中毒（状态）")

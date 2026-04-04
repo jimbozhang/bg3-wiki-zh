@@ -4,24 +4,24 @@
 
 ## 目录
 
-- [1 进入方式](#access)
-- [2 概述](#overview)
-  - [2.1 隐藏房间](#hidden-room)
-- [3 相关地点](#related-locations)
-- [4 战利品](#loot)
-- [5 外部链接](#external-links)
+- [1 进入方式](#进入方式)
+- [2 概述](#概述)
+  - [2.1 隐藏房间](#隐藏房间)
+- [3 相关地点](#相关地点)
+- [4 战利品](#战利品)
+- [5 外部链接](#外部链接)
 
 ## 进入方式
 
-陵墓可通过下城区的[墓园](Graveyard_(Lower_City)进入.md)，位于停尸房北侧，坐标 X: 17 Y: 41。需要[胡内陵墓钥匙](Hhune_Mausoleum_Key.md "胡内陵墓钥匙")（可在[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点")的桃花心木衣柜中找到，坐标 X: -744 Y: 537），或通过 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[检定](Ability_Check.md "属性检定")来打开大门。
+陵墓可通过下城区的[墓园](Graveyard_(Lower_City)进入.md)，位于停尸房北侧，坐标 X: 17 Y: 41。需要[胡内陵墓钥匙](Hhune_Mausoleum_Key.md "胡内陵墓钥匙")（可在[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点")的桃花心木衣柜中找到，坐标 X: -744 Y: 537），或通过 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来打开大门。
 
 ## 概述
 
 陵墓概览
 
-陵墓内有一具石棺和多个隐藏的（DC 15 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")）绊绳陷阱。石棺东侧有一块隐藏的（DC 20 [察觉技能](Perception.md "察觉技能")[检定](Ability_Check.md "属性检定")）裂开的地砖，内含[胡内陵墓铁钥匙](Hhune_Mausoleum_Iron_Key.md "胡内陵墓铁钥匙")。
+陵墓内有一具石棺和多个隐藏的（DC 15 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")）绊绳陷阱。石棺东侧有一块隐藏的（DC 20 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")）裂开的地砖，内含[胡内陵墓铁钥匙](Hhune_Mausoleum_Iron_Key.md "胡内陵墓铁钥匙")。
 
-打开石棺需要通过 DC 15 的[力量](Strength.md "力量")[检定](Ability_Check.md "属性检定")。石棺内有[胡内陵墓金钥匙](Hhune_Mausoleum_Golden_Key.md "胡内陵墓金钥匙")和一张纸条，[胡内的遗产](THE_LEGACY_OF_HHUNE.md "胡内的遗产")，上面写着：“带着你所有珍视之物的重量跪拜于他脚下，他便会显现。”
+打开石棺需要通过 DC 15 的[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")。石棺内有[胡内陵墓金钥匙](Hhune_Mausoleum_Golden_Key.md "胡内陵墓金钥匙")和一张纸条，[胡内的遗产](THE_LEGACY_OF_HHUNE.md "胡内的遗产")，上面写着：“带着你所有珍视之物的重量跪拜于他脚下，他便会显现。”
 
 在石棺脚下的两根柱子之间，一块地砖在察觉检定时会高亮显示。如果队伍成员站在上面，总重量至少达到 400 公斤（800 磅），陵墓东南墙的一扇隐藏门就会打开。
 

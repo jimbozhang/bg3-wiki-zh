@@ -20,7 +20,7 @@
 | [舞光术](Dancing_Lights.md "舞光术") | 戏法 |  |  | 10回合 | 18米 / 60英尺 / 9米 / 30英尺（半径） | - | - |
 | [火焰箭](Fire_Bolt.md "火焰箭") | 戏法 |  |  | - | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d10⁠[火焰](Fire.md "火焰") |
 | [交友术](Friends.md "交友术") | 戏法 |  |  | 10回合 | 9米 / 30英尺 | - | - |
-| [光亮术](Light.md "光亮术") | 戏法 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
+| [轻型](Light.md "轻型") | 戏法 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [法师之手](Mage_Hand.md "法师之手") | 戏法 |  |  | - | 18米 / 60英尺 | - | - |
 | [初级幻影](Minor_Illusion.md "初级幻影") | 戏法 |  |  | - | 18米 / 60英尺 | - | - |
 | [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3米 / 10英尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免") | 1d12⁠[中毒](Poison.md "中毒") |
@@ -53,7 +53,7 @@
 | [高级黑暗视觉](Darkvision_(spell).md "高级黑暗视觉") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [侦测思想](Detect_Thoughts.md "侦测思想") | 2 |  |  | 长休 | 自身 | - | - |
 | [强化属性](Enhance_Ability.md "强化属性") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
-| [巨化术/缩小术](Enlarge/Reduce.md "巨化术/缩小术") | 2 |  |  | - | 9米 / 30英尺 | - | - |
+| [缩小](Enlarge/Reduce.md "缩小") | 2 |  |  | - | 9米 / 30英尺 | - | - |
 | [造风术](Gust_of_Wind.md "造风术") | 2 |  |  | 1回合 | 自身 / 12米 / 40英尺 | [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免") | - |
 | [人类定身术](Hold_Person.md "人类定身术") | 2 |  |  | 10回合 | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免") | - |
 | [隐形术](Invisibility_(spell).md "隐形术") | 2 |  |  | 10回合 | 1.5米 / 5英尺 | - | - |
@@ -63,14 +63,14 @@
 | [魅影之力](Phantasmal_Force.md "魅影之力") | 2 |  |  | 10回合 | 18米 / 60英尺 | [智力](Intelligence.md "智力") [豁免](Saving_throws.md "豁免") | - |
 | [灼热射线](Scorching_Ray.md "灼热射线") | 2 |  |  | - | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d6⁠[火焰](Fire.md "火焰") / 2d6⁠[火焰](Fire.md "火焰") / 2d6⁠[火焰](Fire.md "火焰") |
 | [识破隐形](See_Invisibility_(spell).md "识破隐形") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免") | - |
-| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [力量或敏捷调整值](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
+| [破影利刃](Shadow_Blade.md "破影利刃") | 2 |  |  | - | 自身 | - | 2d8 + [灵巧](Finesse.md "灵巧")⁠[心灵](Psychic.md "心灵") |
 | [粉碎音波](Shatter.md "粉碎音波") | 2 |  |  | - | 18米 / 60英尺 / 3米 / 10英尺（半径） | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免") | 3d8⁠[雷鸣](Thunder.md "雷鸣") |
 | [蛛网术](Web.md "蛛网术") | 2 |  |  | - | 18米 / 60英尺 / 4米 / 13英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免") | - |
 | [闪现](Blink.md "闪现") | 3 |  |  | 10回合 | 自身 | - | - |
 | [法术反制](Counterspell.md "法术反制") | 3 |  |  | - | - | - | - |
 | [昼明术](Daylight.md "昼明术") | 3 |  |  | 长休 | 18米 / 60英尺 | - | - |
 | [恐惧](Fear.md "恐惧") | 3 |  |  | 2回合 | 自身 / 9米 / 30英尺（锥形） | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免") | - |
-| [火球术术](Fireball.md "火球术术") | 3 |  |  | - | 18米 / 60英尺 / 4米 / 13英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免") | 8d6⁠[火焰](Fire.md "火焰") |
+| [火球术](Fireball.md "火球术") | 3 |  |  | - | 18米 / 60英尺 / 4米 / 13英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免") | 8d6⁠[火焰](Fire.md "火焰") |
 | [气化形体](Gaseous_Form.md "气化形体") | 3 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [给予飞行](Grant_Flight.md "给予飞行") | 3 |  |  | 10回合 | 1.5米 / 5英尺 | - | - |
 | [加速术](Haste.md "加速术") | 3 |  |  | 10回合 | 9米 / 30英尺 | - | - |

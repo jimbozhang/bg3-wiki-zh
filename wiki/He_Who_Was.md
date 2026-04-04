@@ -28,7 +28,7 @@
 
 ### 种族
 
-[影灵](Shadar-Kai.md "影灵")
+[影灵（类人生物）](Shadar-Kai.md "影灵（类人生物）")
 
 ### 职业
 
@@ -96,23 +96,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**迷雾仪态**](Misty_Presence.md "迷雾仪态")
+- [迷雾仪态](Misty_Presence.md "迷雾仪态")
 
 受到伤害后，使用[隐形](Invisibility_(Shadar-Kai).md) 变为[隐形](Gloomweave_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -172,23 +172,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**迷雾仪态**](Misty_Presence.md "迷雾仪态")
+- [迷雾仪态](Misty_Presence.md "迷雾仪态")
 
 受到伤害后，使用[隐形](Invisibility_(Shadar-Kai).md) 变为[隐形](Gloomweave_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -248,23 +248,23 @@
 
 ## 特性
 
-- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 
 可以在黑暗中看到一定距离。
 
-- [**额外攻击**](Extra_Attack.md "额外攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
 
 在徒手或武器攻击后可以进行一次额外攻击。
 
-- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
 
 对抗[魅惑](Charmed_(Condition).md) 的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；魔法无法使其[沉睡](Sleeping_(Condition).md)。
 
-- [**迷雾仪态**](Misty_Presence.md "迷雾仪态")
+- [迷雾仪态](Misty_Presence.md "迷雾仪态")
 
 受到伤害后，使用[隐形](Invisibility_(Shadar-Kai).md) 变为[隐形](Gloomweave_(Condition).md)。
 
-- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
@@ -282,7 +282,7 @@ UUID
 
 属性
 
-`SCL_HeWhoWas` **往日身影** 是在[废弃战场](Ruined_Battlefield.md "废弃战场") X: 129 Y: 106 处找到的[影灵](Shadar-Kai.md "影灵")，他给予任务[惩罚邪恶](Punish_the_Wicked.md "惩罚邪恶")。他有一只[渡鸦](Raven_(white).md "渡鸦 (白色)")伙伴。
+`SCL_HeWhoWas` **往日身影** 是在[废弃战场](Ruined_Battlefield.md "废弃战场") X: 129 Y: 106 处找到的[影灵（类人生物）](Shadar-Kai.md "影灵（类人生物）")，他给予任务[惩罚邪恶](Punish_the_Wicked.md "惩罚邪恶")。他有一只[渡鸦](Raven_(white).md "渡鸦 (白色)")伙伴。
 
 > “
 >
@@ -296,7 +296,7 @@ UUID
 
 作为一名影灵，往日身影是[渡鸦女王](https://forgottenrealms.fandom.com/wiki/Raven_Queen)的仆从。影灵曾是精灵，后被困在堕影冥界并被转化。痴迷于收集记忆和精华（通常是失落与悲伤）的渡鸦女王派影灵去取回悲剧事件的纪念物，无论是实体信物、记忆还是死者的灵魂。他们在渡鸦的指引下完成任务；往日身影的渡鸦伙伴就是其中之一。
 
-影灵通常像他们的女王一样冷漠无情，但出于未知原因（可能是幽影诅咒的影响），往日身影变得心胸狭窄且残忍，在收集记忆的同时以折磨他人为乐。往日身影与其渡鸦伙伴的环境对话暗示，他不再遵循[渡鸦女王](Return_at_Once.md "马上回来")下达的命令，这让渡鸦感到不满。
+影灵通常像他们的女王一样冷漠无情，但出于未知原因（可能是幽影诅咒的影响），往日身影变得心胸狭窄且残忍，在收集记忆的同时以折磨他人为乐。往日身影与其渡鸦伙伴的环境对话暗示，他不再遵循[马上回来](Return_at_Once.md "马上回来")下达的命令，这让渡鸦感到不满。
 
 ## 参与
 

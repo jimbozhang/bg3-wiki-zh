@@ -18,7 +18,7 @@
 
 详情
 近战徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[力](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）（豁免成功：目标不会被击退。）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[武器动作DC](Dice_rolls.md#Weapon_action_DC "掷骰")）（豁免成功：目标不会被击退。）
 近战：1.5米（5英尺）
 击退：5米（17英尺）
 

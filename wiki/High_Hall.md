@@ -4,26 +4,26 @@
 
 ## 目录
 
-- [1 概述](#overview)
-- [2 地点](#locations)
-  - [2.1 卫士城堡及周边](#watch-citadel-and-surroundings)
-  - [2.2 至高大殿庭院](#high-hall-courtyard)
-  - [2.3 上城区下水道](#upper-city-sewers)
-  - [2.4 至高大殿](#high-hall)
-- [3 相关任务](#related-quests)
-- [4 角色](#characters)
-  - [4.1 吉斯洋基人](#githyanki)
-  - [4.2 其他角色](#other-characters)
-  - [4.3 可进行死者交谈的角色](#available-to-speak-with-dead)
-- [5 生物与敌人](#creatures-and-enemies)
-- [6 战利品](#loot)
-  - [6.1 腥红科尔出售](#sold-by-koll-the-red)
-  - [6.2 腥红科尔面前的桌子上](#on-the-table-in-front-of-koll-the-red)
-  - [6.3 其他](#other)
-- [7 相关文献](#related-literature)
-- [8 图集](#gallery)
-- [9 备注](#notes)
-- [10 外部链接](#external-links)
+- [1 概述](#概述)
+- [2 地点](#地点)
+  - [2.1 卫士城堡及周边](#卫士城堡及周边)
+  - [2.2 至高大殿庭院](#至高大殿庭院)
+  - [2.3 上城区下水道](#上城区下水道)
+  - [2.4 至高大殿](#至高大殿)
+- [3 相关任务](#相关任务)
+- [4 角色](#角色)
+  - [4.1 吉斯洋基人](#吉斯洋基人)
+  - [4.2 其他角色](#其他角色)
+  - [4.3 可进行死者交谈的角色](#可进行死者交谈的角色)
+- [5 生物与敌人](#生物与敌人)
+- [6 战利品](#战利品)
+  - [6.1 腥红科尔出售](#腥红科尔出售)
+  - [6.2 腥红科尔面前的桌子上](#腥红科尔面前的桌子上)
+  - [6.3 其他](#其他)
+- [7 相关文献](#相关文献)
+- [8 图集](#图集)
+- [9 备注](#备注)
+- [10 外部链接](#外部链接)
 
 ## 概述
 
@@ -33,7 +33,7 @@
 
 ## 地点
 
-穿过星界传送门后，队伍成员从西侧进入至高大殿。队伍走上台阶后，[凯斯拉克百夫长沃斯](Voss.md "凯斯拉克百夫长沃斯")会与他们对峙。他的反应因队伍在星界内做出的选择而有很大差异。他最终可以说服加入，协助完成⁠[召集盟友](Gather_Your_Allies.md "召集盟友")任务。否则他会变得敌对。沃斯由[历战熟手](Gish.md "历战熟手")、[老练掠夺者](Raider.md "老练掠夺者")和[老练战士](Veteran_Warrior.md "老练战士")陪同。对峙结束后，道路通向卫士城堡。
+穿过星界传送门后，队伍成员从西侧进入至高大殿。队伍走上台阶后，[凯斯拉克百夫长沃斯](Voss.md "凯斯拉克百夫长沃斯")会与他们对峙。他的反应因队伍在星界内做出的选择而有很大差异。他最终可以说服加入，协助完成⁠[召集盟友](Gather_Your_Allies.md "召集盟友")任务。否则他会变得敌对。沃斯由[熟手](Gish.md "熟手")、[掠夺者](Raider.md "掠夺者")和[老练战士](Veteran_Warrior.md "老练战士")陪同。对峙结束后，道路通向卫士城堡。
 
 ### 卫士城堡及周边
 
@@ -44,14 +44,14 @@
 城堡有两个出口：
 
 - 东侧的一个，队伍可从此穿过走廊前往庭院的主楼梯，或跳入污水流，摧毁生锈的铁门，进入上城区下水道。
-- 北侧的一个，穿过钟楼，此路线也通向主楼梯。钟楼本身可攀爬，顶部有一只[飞天恐魔](Winged_Horror.md "飞天恐魔")和一个上锁的箱子（DC 10 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")），内含金币、[银锭](Silver_Ingot.md "银锭")、[动物交谈药水](Potion_of_Animal_Speaking.md "动物交谈药水")和一支不常见箭矢。
+- 北侧的一个，穿过钟楼，此路线也通向主楼梯。钟楼本身可攀爬，顶部有一只[飞天恐魔](Winged_Horror.md "飞天恐魔")和一个上锁的箱子（DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")），内含金币、[银锭](Silver_Ingot.md "银锭")、[动物交谈药水](Potion_of_Animal_Speaking.md "动物交谈药水")和一支不常见箭矢。
 
 接近楼梯时，多名未命名的平民逃下楼梯，跑向卫士城堡。其中有一名名为[喊话员维恩福路](Wrenfrew_the_Barker.md "喊话员维恩福路")的角色。<sup>[\[2\]](#cite_note-2)</sup> 在楼梯上时，会触发过场动画，多名卫士守卫从一只[夺心魔](Mind_flayer.md "夺心魔")处逃离并跑出大门。其中两人被杀。队伍随后可与守卫交谈，由[守望者乔迪](Gyordi.md "守望者乔迪")带领，并说服他们在即将到来的庭院战斗中提供帮助。
 
 在进入通往庭院的大门之前，终局队伍可向北或向南前进。
 
 - 向南有两名平民会变成夺心魔并攻击队伍。
-- 向北有一个平台可跳上，最终通向下水道的北入口。入口在一个带金属门的小房间内。房间内有一个上锁的[镀金箱子](Gilded_Chest.md "镀金箱子")（DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")），内含金币、[珍珠](Pearl.md "珍珠")、[紫虫毒素](Purple_Worm_Toxin.md "紫虫毒素")、[自由行动药水](Elixir_of_Guileful_Movement.md "自由行动药水")、[心灵抗性灵药](Elixir_of_Psychic_Resistance.md "心灵抗性灵药")和一瓶[深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水")。
+- 向北有一个平台可跳上，最终通向下水道的北入口。入口在一个带金属门的小房间内。房间内有一个上锁的[镀金箱子](Gilded_Chest.md "镀金箱子")（DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")），内含金币、[珍珠](Pearl.md "珍珠")、[紫虫毒素](Purple_Worm_Toxin.md "紫虫毒素")、[自由行动药水](Elixir_of_Guileful_Movement.md "自由行动药水")、[心灵抗性灵药](Elixir_of_Psychic_Resistance.md "心灵抗性灵药")和一瓶[深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水")。
 
 ### 至高大殿庭院
 
@@ -62,7 +62,7 @@
 
 大门正上方有一个房间，拉动拉杆可开关主大门。
 
-在庭院的东北端，一扇上锁的门后，[平民](Civilian_(High_Hall).md "平民（至高大殿）")<sup>[\[3\]](#cite_note-3)</sup>、[蒂莉](Tilly.md "蒂莉")和[罗宾](Robyn.md "罗宾")设法躲藏起来，因恐惧而瘫痪。可通过与门后的他们交谈来说服他们离开或与之战斗。他们的藏身室内只有一份[告厨房员工](Note_to_the_Kitchen_Staff.md "告厨房员工")。还有另一扇上锁的门通向阳台，阳台上有一个上锁的[重箱子](Heavy_Chest.md "重箱子")（DC 15 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")），内含[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")。
+在庭院的东北端，一扇上锁的门后，[平民](Civilian_(High_Hall).md "平民（至高大殿）")<sup>[\[3\]](#cite_note-3)</sup>、[蒂莉](Tilly.md "蒂莉")和[罗宾](Robyn.md "罗宾")设法躲藏起来，因恐惧而瘫痪。可通过与门后的他们交谈来说服他们离开或与之战斗。他们的藏身室内只有一份[告厨房员工](Note_to_the_Kitchen_Staff.md "告厨房员工")。还有另一扇上锁的门通向阳台，阳台上有一个上锁的[重箱子](Heavy_Chest.md "重箱子")（DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")），内含[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")。
 
 在庭院中战斗时，队伍最终必须到达通往至高大殿主体的楼梯，该处靠近[观察者眼魔](Spectator.md "观察者眼魔")所在位置。一名贵族死在地板上，旁边是[法律笔记](Legal_Notes.md "法律笔记")。他旁边的墙上有一个[记忆贮脑罐](Memory_Brain_Jar.md "记忆贮脑罐")。<sup>[\[4\]](#cite_note-4)</sup> 在通往至高大殿的楼梯北侧一张小桌子上，放着[为每位博德工人提供家园！](A_Home_for_Every_Working_Baldurian!.md "为每位博德工人提供家园！")。
 
@@ -77,13 +77,13 @@
 - 直接在卫士城堡外（所有盟友聚集处）跳入南侧的小污水河，摧毁 X: 258 Y: 33 处生锈的铁门。摧毁后，可从南侧进入下水道。
 - 从卫士城堡向北，上楼梯——但在穿过升起的大门之前向左转朝北。有一段破碎的道路可作为平台跳上。再向前跳一次可到达一个塔状结构。队伍可跳到一个阳台上，该阳台通向一个带金属门的小房间，可进入下水道（位于 X: 263 Y: 126）。此路线由两只巡逻的[飞天恐魔](Winged_Horror.md "飞天恐魔")守卫。
 
-如果队伍从南入口进入，会发现自己身处污水流中。此房间内有一个[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")，内含一瓶[深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水")。附近有一扇门，可通过拉杆解锁（由 DC 5 [察觉技能](Perception.md "察觉技能") [检定](Ability_Check.md "属性检定")高亮显示）。门后的房间内有一个[地精首领](Goblin_Boss.md "地精首领")和三只[颅鼠](Cranium_Rat.md "颅鼠")。
+如果队伍从南入口进入，会发现自己身处污水流中。此房间内有一个[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")，内含一瓶[深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水")。附近有一扇门，可通过拉杆解锁（由 DC 5 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")高亮显示）。门后的房间内有一个[地精首领](Goblin_Boss.md "地精首领")和三只[颅鼠](Cranium_Rat.md "颅鼠")。
 
 用作北入口的金属门也通向此房间。
 
 房间东侧有一扇门通往下水道主区域。这是一个大房间，一条触手从屋顶伸出，探入污水池中。北侧有一条被堵塞的道路，[摩卢格·卷毛·杜加得](Merug_'Curly'_Dugald.md "摩卢格·卷毛·杜加得")被埋在瓦砾堆下（X: -1477 Y: 3160）。他携带一把[至高大殿钥匙](High_Hall_Key.md "至高大殿钥匙")，用于在攀登至高大殿主体时打开沉重的橡木门。南侧走廊保持畅通。队伍进入房间后，所有敌人会变得敌对并攻击。他们包括[地精](Goblin.md "地精")、[死灵侍僧](Necromite.md "死灵侍僧")、多名[至上真神追随者](Absolute.md#Followers_of_the_Absolute "至上真神追随者")、一名[灵吸怪奥术师](Illithid_Arcanist.md "灵吸怪奥术师")和[死亡骑士](Death_Knight.md "死亡骑士")[追踪者斯维尼](Stalker_Svignee.md "追踪者斯维尼")。
 
-主区域尽头另一扇门通向一个小房间，内有一个上锁的[木箱子](Wooden_Chest.md "木箱子")（DC 7 [巧手](Sleight_of_Hand.md "巧手") [检定](Ability_Check.md "属性检定")），包含金币、[变形术卷轴](Scroll_of_Polymorph.md "变形术卷轴")、[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")和一瓶[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")。有一段短楼梯通向另一扇金属门，连接至高大殿庭院的后方。
+主区域尽头另一扇门通向一个小房间，内有一个上锁的[木箱子](Wooden_Chest.md "木箱子")（DC 7 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")），包含金币、[变形术卷轴](Scroll_of_Polymorph.md "变形术卷轴")、[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")和一瓶[极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水")。有一段短楼梯通向另一扇金属门，连接至高大殿庭院的后方。
 
 上升到上层会将队伍带到一个隐藏房间和通往城堡核心的替代路径。房间内一个隐蔽的按钮会解锁一扇秘密门道，提供进入庭院的通道。下一个房间内有一扇无法撬锁的门，唯一出路是走上小楼梯并从半毁的墙跳下。队伍可跳入庭院，或跳过一系列木平台绕过主要防御直接进入至高大殿。
 
@@ -100,7 +100,7 @@
 
 向左（北侧）的路线被一扇沉重的橡木门阻挡，可用[至高大殿钥匙](High_Hall_Key.md "至高大殿钥匙")或撬锁解锁。道路继续向上，跳过一次后可见一个[镀金箱子](Gilded_Chest.md "镀金箱子")，内含一瓶[深邃沉眠药水](Potion_of_Angelic_Slumber.md "深邃沉眠药水")。<sup>[\[5\]](#cite_note-5)</sup>
 
-向右（南侧）的路线类似地上行，某处一座*崩塌的雕像*挡路。可使用[推击](Shove.md "推击")将其推倒，需通过 DC 20 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定")。雕像倒下后，队伍可走过并继续前进。
+向右（南侧）的路线类似地上行，某处一座*崩塌的雕像*挡路。可使用[推击](Shove.md "推击")将其推倒，需通过 DC 20 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定")。雕像倒下后，队伍可走过并继续前进。
 
 两段楼梯均通向至高大殿顶部的一扇门。如果至少一名队伍成员穿过此门走向[耐色脑](Netherbrain.md "耐色脑")的树干，战斗结束。抵达此处后，队伍可使用[恢复站](Restoration_pod.md "恢复站")（在硬核或荣誉[难度](Difficulty.md "难度")下不可用，建议使用替代方案）进行治疗，然后沿树干向上前往最终区域⁠[耐色脑顶部](Confront_the_Elder_Brain.md#Atop_the_Netherbrain "与主脑对峙")。
 
@@ -131,7 +131,7 @@
 - [明斯克](Minsc.md "明斯克")
 - [米琪雅](Mitchia.md "米琪雅")
 - [米佐拉](Mizora.md "米佐拉")
-- [莫尔](Mol.md "莫尔")
+- [摩尔](Mol.md "摩尔")
 - [九指基恩](Nine-Fingers_Keene.md "九指基恩")
 - [马库姆帕的皈依者](Proselyte_of_Mahkloompah.md "马库姆帕的皈依者")
 - [罗阿·月光](Roah_Moonglow.md "罗阿·月光")<sup>[\[7\]](#cite_note-7)</sup>
@@ -154,8 +154,8 @@
 ### 吉斯洋基人
 
 - [凯斯拉克百夫长沃斯](Voss.md "凯斯拉克百夫长沃斯")
-- [历战熟手](Gish.md "历战熟手")
-- [老练掠夺者](Raider.md "老练掠夺者")
+- [熟手](Gish.md "熟手")
+- [掠夺者](Raider.md "掠夺者")
 - [老练战士](Veteran_Warrior.md "老练战士")
 
 ### 其他角色

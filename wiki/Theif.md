@@ -8,7 +8,7 @@
 >
 > „
 
-快手提供的额外附赠动作允许盗贼使用[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")两次，从而在不牺牲动作的情况下使[移动速度](Movement_speed.md "移动速度")翻三倍。灵巧动作：疾走与[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离")相结合，可以在敌人之间移动而不触发[借机攻击](Opportunity_Attack.md "借机攻击"). 这个额外的附赠动作也可以与[物品](Sorrowful_Lash.md "悲伤鞭笞")、[武器动作](Off-Hand_Attack_(Melee).md)、[其他职业](War_Magic.md "战斗魔法")的相同动作配对。
+快手提供的额外附赠动作允许盗贼使用[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")两次，从而在不牺牲动作的情况下使[移动速度](Movement_speed.md "移动速度")翻三倍。灵巧动作：疾走与[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离")相结合，可以在敌人之间移动而不触发[借机攻击](Opportunity_Attack.md "借机攻击"). 这个额外的附赠动作也可以与[悲伤鞭笞](Sorrowful_Lash.md "悲伤鞭笞")、[武器动作](Off-Hand_Attack_(Melee).md)、[战斗魔法](War_Magic.md "战斗魔法")的相同动作配对。
 
 ## 副职特性
 

@@ -1,10 +1,10 @@
 # 疫病术：脑火
 
-**疫病术：脑火** 是一个 [5级死灵学派法术](Spells.md "Spells")。此法术是5级死灵学派法术 [疫病术](Contagion.md "Contagion") 的一种变体。它允许施法者使敌人 [中毒](Poisoned.md "Poisoned")，并有可能使该状态进展为一种会 [吸过血](Sap.md "Sap") 目标 [智力](Intelligence.md "Intelligence") 的疾病。
+**疫病术：脑火** 是一个 [法术](Spells.md "法术")。此法术是5级死灵学派法术 [疫病术](Contagion.md "Contagion") 的一种变体。它允许施法者使敌人 [中毒](Poisoned.md "Poisoned")，并有可能使该状态进展为一种会 [吸过血](Sap.md "Sap") 目标 [智力](Intelligence.md "Intelligence") 的疾病。
 
 ## 描述
 
-目标在智力 [检定](Ability_Check.md "Ability Check") 和 [豁免检定](Saving_throw.md "Saving Throw") 上获得 [劣势](Disadvantage.md "Disadvantage")，并被 [昏沉](Befuddled_(Condition).md "Befuddled (Condition)")。
+目标在智力 [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "Saving Throw") 上获得 [劣势](Disadvantage.md "Disadvantage")，并被 [昏沉](Befuddled_(Condition).md "Befuddled (Condition)")。
 
 该生物的大脑开始在热酸血的腐臭炖汤中烹煮，损害其 [智力](Intelligence.md "Intelligence")。
 
@@ -36,9 +36,9 @@ UID
 
 持续时间：3驱散
 
-[体](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
-- 在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [检定](Ability_Check.md "Ability Check") 上具有 [劣势](Disadvantage.md "Disadvantage")。
+- 在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [属性检定](Ability_Check.md "属性检定") 上具有 [劣势](Disadvantage.md "Disadvantage")。
 - 每驱散，它必须成功通过一次 [豁免检定](Saving_throw.md "Saving Throw")，否则中毒将进入下一阶段。成功3次后，它将恢复。失败3次后，它将感染与所施放的 [疫病术](Contagion.md "Contagion") 法术变体相对应的疾病。
 
 ## 状态：罹患脑火
@@ -47,7 +47,7 @@ UID
 
 持续时间：永久
 
-- 受影响实体的大脑在热血炖汤中烹煮。它在智力 [检定](Ability_Check.md "Ability Check") 上具有 [劣势](Disadvantage.md "Disadvantage")，并在战斗中表现得如同 [困惑](Confused_(Condition).md "Confused (Condition)")。
+- 受影响实体的大脑在热血炖汤中烹煮。它在智力 [属性检定](Ability_Check.md "属性检定") 上具有 [劣势](Disadvantage.md "Disadvantage")，并在战斗中表现得如同 [困惑](Confused_(Condition).md "Confused (Condition)")。
 
 ## 如何习得
 

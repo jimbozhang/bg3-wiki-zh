@@ -14,13 +14,13 @@
 
 ## 目录
 
-- [1 敏捷调整值表](#dexterity-modifier-chart)
-- [2 提升方式](#ways-to-increase)
-- [3 相关物品](#related-items)
-  - [3.1 影响敏捷](#affecting-dexterity)
-  - [3.2 影响豁免检定](#affecting-saving-throws)
-  - [3.3 影响敏捷检定](#affecting-dexterity-checks)
-  - [3.4 受益于敏捷](#benefiting-from-dexterity)
+- [1 敏捷调整值表](#敏捷调整值表)
+- [2 提升方式](#提升方式)
+- [3 相关物品](#相关物品)
+  - [3.1 影响敏捷](#影响敏捷)
+  - [3.2 影响豁免检定](#影响豁免检定)
+  - [3.3 影响敏捷检定](#影响敏捷检定)
+  - [3.4 受益于敏捷](#受益于敏捷)
 
 ## 敏捷调整值表
 
@@ -114,7 +114,7 @@ _博德之门3_ 使用[点数购买](Point_Buy.md "点数购买")规则集。
 
 ### 受益于敏捷
 
-以下[中甲](Armour.md "护甲")具有[特制材料](Exotic_Material.md "特制材料")特性，允许你在装备它们时将完整的敏捷调整值加到护甲等级上，而不是像通常的中甲那样限制为 +2：
+以下[护甲](Armour.md "护甲")具有[特制材料](Exotic_Material.md "特制材料")特性，允许你在装备它们时将完整的敏捷调整值加到护甲等级上，而不是像通常的中甲那样限制为 +2：
 
 - [敏捷之铠](Armour_of_Agility.md "敏捷之铠")
 - [尖锐陷阱胸甲](Sharpened_Snare_Cuirass.md "尖锐陷阱胸甲")

@@ -50,7 +50,7 @@ Hitting an enemy with this weapon heals the wielder for 1d6⁠⁠[hit points](He
 **持有此物品者获得：**
 
 [伊诺胡之馈赠](Yeenoghu's_Gift.md "伊诺胡之馈赠")
-用此武器击中敌人会为持有者恢复1d6⁠⁠[生命值](Healing.md "治疗")——但如果他们没有继续在每回合击中敌人，则可能陷入[疯狂](Madness_(Condition).md "疯狂（状态）")。通过此物品进行的治疗不会触发其他对治疗有反应的被动。
+用此武器击中敌人会为持有者恢复1d6⁠⁠[治疗](Healing.md "治疗")——但如果他们没有继续在每回合击中敌人，则可能陷入[疯狂](Madness_(Condition).md "疯狂（状态）")。通过此物品进行的治疗不会触发其他对治疗有反应的被动。
 
 ### Weapon actions
 

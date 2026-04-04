@@ -1,6 +1,6 @@
 # 霜冻蝾螈舌
 
-**霜冻蝾螈舌**是一种[炼金术材料](Alchemy.md "炼金术")。将3个霜冻蝾螈舌组合可制成[霜冻蝾螈舌悬液](Suspension_of_Frost_Salamander_Tongue.md "霜冻蝾螈舌悬液")，用于制作[冰封油](Oil_of_Freezing.md "冰封油")。
+**霜冻蝾螈舌**是一种[炼金术](Alchemy.md "炼金术")。将3个霜冻蝾螈舌组合可制成[霜冻蝾螈舌悬液](Suspension_of_Frost_Salamander_Tongue.md "霜冻蝾螈舌悬液")，用于制作[冰封油](Oil_of_Freezing.md "冰封油")。
 
 由于[霜冻蝾螈](https://forgottenrealms.fandom.com/wiki/Frost_salamander)对热量有着盲目的渴望，它们经常被青铜锻造的[火矮人](https://forgottenrealms.fandom.com/wiki/Azer)欺骗。火矮人会点燃篝火，蝾螈们便会饥渴地滑向火焰，结果却被撕碎，以获取它们具有炼金价值的舌头。
 

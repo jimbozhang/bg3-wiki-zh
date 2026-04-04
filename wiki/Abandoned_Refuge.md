@@ -22,25 +22,25 @@
 
 ## 目录
 
-- [1 概述](#overview)
-  - [1.1 区域地点](#regional-locations)
-  - [1.2 精金熔炉](#the-adamantine-forge)
-- [2 要点](#points-of-interest)
-  - [2.1 秘银矿脉](#mithral-veins)
-  - [2.2 地标](#landmarks)
-- [3 传送点](#waypoints)
-- [4 相关任务](#related-quests)
-- [5 重要角色](#notable-characters)
-- [6 重要战利品](#notable-loot)
-  - [6.1 任务物品](#quest-items)
-  - [6.2 模具](#moulds)
-  - [6.3 其他重要物品](#other-notable)
-- [7 画廊](#gallery)
-- [8 注释](#notes)
+- [1 概述](#概述)
+  - [1.1 区域地点](#区域地点)
+  - [1.2 精金熔炉](#精金熔炉)
+- [2 要点](#要点)
+  - [2.1 秘银矿脉](#秘银矿脉)
+  - [2.2 地标](#地标)
+- [3 传送点](#传送点)
+- [4 相关任务](#相关任务)
+- [5 重要角色](#重要角色)
+- [6 重要战利品](#重要战利品)
+  - [6.1 任务物品](#任务物品)
+  - [6.2 模具](#模具)
+  - [6.3 其他重要物品](#其他重要物品)
+- [7 画廊](#画廊)
+- [8 注释](#注释)
 
 ## 概述
 
-向东望去，朝向[秘银](Mithral_Ore.md "秘银矿石")矿脉，靠近[精金熔炉](Adamantine_Forge_(location).md)
+向东望去，朝向[秘银矿石](Mithral_Ore.md "秘银矿石")矿脉，靠近[精金熔炉](Adamantine_Forge_(location).md)
 
 被弃避难所的地形由崩塌的建筑与洞穴和熔岩流交织而成，通常需要跳跃或类似方式才能穿行。在此区域，玩家可以发现两条秘银矿脉，从中可以开采[秘银矿石](Mithral_Ore.md "秘银矿石")。这可以在相邻的[精金熔炉](Adamantine_Forge_(location)地点使用.md)。
 
