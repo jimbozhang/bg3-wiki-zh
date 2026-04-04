@@ -42,7 +42,7 @@
 - [方阵队形](Phalanx_Formation.md "方阵队形")
 - [反击](Riposte_(passive_feature).md "反击 (被动特性)")
 
-**精卫法尔考**是一名[人类](Human.md "人类")<sup>[\[1\]](#cite_note-1)</sup> [战士](Fighter.md "战士")，也是[焰拳](Flaming_Fist.md "焰拳")的成员。他可以在[第三幕](Act_Three.md "第三幕")的[飞龙关](Wyrm's_Crossing.md "飞龙关")找到。
+**精卫法尔考**是一名[人类](Human.md "人类")<sup>[\[1\]](#cite_note-1)</sup> [战士](Fighter.md "战士")，也是[焰拳](Flaming_Fist.md "焰拳")的成员。他可以在[第三幕](Act_Three.md "第三幕")的[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")找到。
 
 > “
 >
@@ -65,7 +65,7 @@
 
 ## 参与度
 
-精卫**法尔考**驻扎在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")，坐标 X: 23 Y: 64。如果队伍已进入飞龙关（无论是否得到[铁手侏儒](Clan_Ironhand.md "铁手侏儒")的帮助），法尔考会叫他们靠近，承诺为一些工作支付丰厚报酬。
+精卫**法尔考**驻扎在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")，坐标 X: 23 Y: 64。如果队伍已进入飞龙岩要塞（无论是否得到[铁手侏儒](Clan_Ironhand.md "铁手侏儒")的帮助），法尔考会叫他们靠近，承诺为一些工作支付丰厚报酬。
 
 如果与法尔考交谈，他会向队伍提供一项交易：杀死铁手侏儒<sup>[\[2\]](#cite_note-2)</sup>，他们对抗[钢铁卫士](Steel_Watcher.md "钢铁卫士")的圣战已成为焰拳的眼中钉。玩家角色可以同意或拒绝追捕侏儒的领袖[乌尔布伦](Wulbren.md "乌尔布伦")；他们的决定不会影响法尔考和其他焰拳成员对待他们的方式。
 

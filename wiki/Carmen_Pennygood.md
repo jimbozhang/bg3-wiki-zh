@@ -62,7 +62,7 @@
 
 攻击离开攻击范围的敌人。
 
-**卡尔曼·钱郝**是一位商人，可以在她拥有的商店[卡尔的服装店](Carm's_Garms.md "Carm's Garms")中找到，该店位于[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")。
+**卡尔曼·钱郝**是一位商人，可以在她拥有的商店[卡尔的服装店](Carm's_Garms.md "Carm's Garms")中找到，该店位于[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")。
 
 > “
 >

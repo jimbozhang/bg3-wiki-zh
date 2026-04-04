@@ -49,7 +49,7 @@
 
 [力量](Strength.md "力量") 增加 2，[魅力](Charisma.md "魅力") 和 [敏捷](Dexterity.md "敏捷") 检定具有[劣势](Disadvantage.md "劣势")。
 
-**拳手盖恩梅尔**是[焰拳](Flaming_Fist.md "焰拳")的一名[人类](Human.md "人类")成员，正在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")做客。可以目睹他微醺时对[伊伦亚](Irenya.md "伊伦亚")进行性骚扰。
+**拳手盖恩梅尔**是[焰拳](Flaming_Fist.md "焰拳")的一名[人类](Human.md "人类")成员，正在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")做客。可以目睹他微醺时对[伊伦亚](Irenya.md "伊伦亚")进行性骚扰。
 
 > “
 >

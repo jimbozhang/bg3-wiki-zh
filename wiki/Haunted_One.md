@@ -76,7 +76,7 @@
 | 170 | 血迹之路 | 收集[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")的所有部件。 |  |
 | 135 | 意外育儿 | 喂新生的[夺心魔](Mind_flayer_(windmill).md "夺心魔（风车）")吃脑子。 |  |
 | [西滩](Western_Beach.md "西滩") | 170 | 清理渣滓 | 杀死敌对的两个走私派系。 |  |
-| [飞龙关](Wyrm's_Crossing.md "飞龙关") | 135 | 放血的狂喜 | 接受[诺伊丝](Naoise.md "诺伊丝")的淫秽提议。 |  |
+| [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞") | 135 | 放血的狂喜 | 接受[诺伊丝](Naoise.md "诺伊丝")的淫秽提议。 |  |
 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") | 220 | 粉碎黑手 | 杀死[准暴君](Enver_Gortash.md "恩维尔·戈塔什")。 |  |
 
 ---

@@ -74,7 +74,7 @@
 | [拳击天使](Seraphic_Pugilist_Gloves.md "拳击天使") | [手套](Gloves.md "手套") | [慈爱神殿](Open_Hand_Temple.md "慈爱神殿")坐标 X: -90 Y: -7：在慈爱神殿西端床脚的一个上锁宝箱中 |
 | [黑色之手侍从手套](Servitor_of_the_Black_Hand_Gloves.md "黑色之手侍从手套") | [手套](Gloves.md "手套") | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")坐标 X: -32 Y: 198：在顶层的一个华丽宝箱中 |
 | [魔索布莱城之影](Shadow_of_Menzoberranzan.md "魔索布莱城之影") | [头盔](Helmets.md "头盔") / (轻甲) | [黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")坐标 X: 52 Y: -70：在[苍白尸体](Xargrim.md "苍白尸体")[夏格林](Xargrim.md "夏格林")旁边的地面上，完成任务[击败灰矮人](Defeat_the_Duergar_Intruders.md "击败灰矮人")后解锁的隐藏区域 |
-| [雪尘修道院手套](Snow-Dusted_Monastery_Gloves.md "雪尘修道院手套") | [手套](Gloves.md "手套") | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")坐标 X: -10 Y: 143：由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙关](Wyrm's_Crossing.md "飞龙关")出售 |
+| [雪尘修道院手套](Snow-Dusted_Monastery_Gloves.md "雪尘修道院手套") | [手套](Gloves.md "手套") | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")坐标 X: -10 Y: 143：由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")出售 |
 | [弹力之靴](Springstep_Boots.md "弹力之靴") | [靴子](Boots.md "靴子") | [破碎圣所](Shattered_Sanctum.md "破碎圣所")坐标 X: 296 Y: 71：在[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")王座后的藏宝室中 |
 | [带电马甲](The_Jolty_Vest.md "带电马甲") | [中甲](Medium_Armour.md "中甲") | [散塔林会地下室](Zhentarim_Basement.md "散塔林会地下室")坐标 X: 295 Y: -250：完成任务[找到丢失的货物](Find_the_Missing_Shipment.md "找到丢失的货物")后由[布雷姆](Brem.md "布雷姆")出售 |
 | [守护火花壁垒](The_Protecty_Sparkswall.md "守护火花壁垒") | [服装](Clothing.md "服装") | [复仇之炉](Grymforge.md "复仇之炉")坐标 X: -645 Y: 360：在设陷桥梁尽头的一个镀金宝箱中 |

@@ -26,7 +26,7 @@
 - 在[利文顿](Rivington.md "Rivington")的[强制征用的谷仓](Requisitioned_Barn.md "Requisitioned Barn")内的桌子上，靠近捐赠箱
 - 在[老加洛之家](Old_Garlow's_Place.md "Old Garlow's Place")的地下室
 - 在[半音商店](Chromatic_Scale.md "Chromatic Scale")的地下室，也可从托马斯·C·奎克利乌斯处购买
-- 在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")的[伊尔明斯特的图书馆](Elminster's_Library.md "Elminster's Library")，X: 7 Y: 110 处
+- 在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")的[伊尔明斯特的图书馆](Elminster's_Library.md "Elminster's Library")，X: 7 Y: 110 处
 - 从[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "Knights of the Shield Hideout")进入[下城区下水道](Lower_City_Sewers.md "Lower City Sewers")后，梯子旁架子上
 - [岩侏儒](Rock_Gnome.md "Rock gnome")的初始装备
 

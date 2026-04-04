@@ -289,7 +289,7 @@ _如果[哈尔辛](Halsin.md "哈尔辛")或[明萨拉](Minthara.md "明萨拉")
 
 一旦安抚，军犬允许队伍自由探索和掠夺房间，不会注意红色轮廓的门被开锁，甚至不会注意隔壁房间的拟形怪。再次使用[动物交谈](Speak_with_Animals.md "动物交谈")与她交谈，可以选择抚摸她，这会获得+1 +1 +1 +1和+1好感度。
 
-凯瑟里克的房间内有几件有趣的物品。床附近松动的木板下（通过DC 15[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")可见）是[主脑支配](Elder_Brain_Domination.md "主脑支配")一书，揭示了凯瑟里克计划最终独自控制[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")。这也是队伍可用的关于[戈塔什](Enver_Gortash.md "恩维尔·戈塔什")参与教团崛起的首个证据，也是首次提及夺心魔[耐色脑](Netherbrain.md "耐色脑")作为教团神力的来源。
+凯瑟里克的房间内有几件有趣的物品。床附近松动的木板下（通过DC 15[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")可见）是[主脑支配](Elder_Brain_Domination.md "主脑支配")一书，揭示了凯瑟里克计划最终独自控制[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")。这也是队伍可用的关于[戈塔什](Enver_Gortash.md "恩维尔·戈塔什")参与教团崛起的首个证据，也是首次提及夺心魔[主脑](Netherbrain.md "主脑")作为教团神力的来源。
 
 在床脚的华丽箱子中（DC 14[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")开锁），玩家角色可以找到[元素吸收披风](Cloak_of_Elemental_Absorption.md "元素吸收披风")和[给凯瑟里克的信](Letter_to_Ketheric.md "给凯瑟里克的信")（所有同伴都会评论阅读这封信）。建议拿走并阅读这封信，因为它可以在与凯瑟里克的两场战斗中帮助对付他。
 

@@ -10,7 +10,7 @@
 
 | --- | --- |
 | [恐惧](../Frightened_(Condition).md "恐惧 (状态)") | 受影响的生物无法移动。恐慌生物在 [属性检定](../Ability_Check.md "属性检定") 和 [攻击掷骰](../Attack_roll.md "攻击掷骰") 上也具有 [劣势](../Disadvantage.md "劣势")。 |
-| [绝对护佑](../Aegis_of_the_Absolute_(Condition).md "绝对护佑 (状态)") | 耐色脑在下一回合开始前，对上一轮受到的所有伤害类型 [免疫](../Immune.md "免疫")。 |
+| [绝对护佑](../Aegis_of_the_Absolute_(Condition).md "绝对护佑 (状态)") | 主脑在下一回合开始前，对上一轮受到的所有伤害类型 [免疫](../Immune.md "免疫")。 |
 | [野性活力](../Animalistic_Vitality_(Condition).md "野性活力 (状态)") | 受影响实体在生命值低于 60 时，每回合恢复 2d8⁠⁠[生命值](../Healing.md "治疗")。它还会获得额外 3.5 米（12 英尺）的移动速度。_\[[参见：错误](../Animalistic_Vitality_(Condition).md#Bugs).md#Bugs> "野性活力 (状态)")\]_ |
 | [巴尔教徒仪式目标](../Bhaalist_Ritual_Target_(Condition).md "巴尔教徒仪式目标 (状态)") | 作为进入神殿挑战的一部分，受影响实体已成为一名吟唱邪教徒“远距杀手”的目标，该邪教徒在其亵渎仪式结束后可以施放 [巴尔的律令死亡仪式](../Bhaal's_Power_Word_Kill_Ritual.md "巴尔的律令死亡仪式")。离开远距杀手 55 米（183 英尺）的吟唱范围可使你免受该效果影响。击杀远距杀手可停止仪式并赢得冲突。 |
 | [冻僵](../Bone_Chilled_(Condition).md "冻僵 (状态)") | 无法恢复 [生命值](../Hit_Points.md "生命值")。无法 [协助](../Help.md "协助") [倒地](../Downed_(Condition).md "倒地 (状态)") 的角色。如果是不死生物，在 [攻击掷骰](../Attack_roll.md "攻击掷骰") 上具有 [劣势](../Disadvantage.md "劣势")。 |

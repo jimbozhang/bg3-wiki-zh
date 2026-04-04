@@ -85,7 +85,7 @@
 
 ## 参与
 
-佩特拉斯首次可在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[弗雷戈招待所](Fraygo's_Flophouse.md "Fraygo's Flophouse")一楼遇到，他正与[达利瑞亚](Dalyria.md "Dalyria")一起狩猎。<sup>[\[1\]](#cite_note-1)</sup> 如果[阿斯代伦](Astarion.md "Astarion")在场，三人将就[卡扎多尔](Cazador.md "Cazador")及其仪式意图发生对峙。
+佩特拉斯首次可在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[弗雷戈招待所](Fraygo's_Flophouse.md "Fraygo's Flophouse")一楼遇到，他正与[达利瑞亚](Dalyria.md "Dalyria")一起狩猎。<sup>[\[1\]](#cite_note-1)</sup> 如果[阿斯代伦](Astarion.md "Astarion")在场，三人将就[卡扎多尔](Cazador.md "Cazador")及其仪式意图发生对峙。
 
 如果阿斯代伦不在场，队伍可以偷听他们的对话：
 

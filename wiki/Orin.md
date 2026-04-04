@@ -112,7 +112,7 @@ Stats
 
 ### 第二幕
 
-奥林首次与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")和[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起出现在[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "Mind_Flayer_Colony")。<sup>[\[19\]](#cite_note-19] 戈塔什和凯瑟里克之间爆发了争吵，由于她的干预才没有演变成打斗。她成功绑架了[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")</sup>，并在公爵的眼睛里植入了蝌蚪，作为他们接管城市计划的一部分。然后她加入其他选民，并使用她的[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")——*巴尔之鞭*，与他们一起命令[耐色脑](Netherbrain.md "Netherbrain")让绝对值的军队向[博德之门](Baldur's_Gate.md "Baldur's Gate")进军。她和戈塔什前往城市，而凯瑟里克留下来对付队伍。
+奥林首次与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")和[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起出现在[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "Mind_Flayer_Colony")。<sup>[\[19\]](#cite_note-19] 戈塔什和凯瑟里克之间爆发了争吵，由于她的干预才没有演变成打斗。她成功绑架了[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")</sup>，并在公爵的眼睛里植入了蝌蚪，作为他们接管城市计划的一部分。然后她加入其他选民，并使用她的[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")——*巴尔之鞭*，与他们一起命令[主脑](Netherbrain.md "Netherbrain")让绝对值的军队向[博德之门](Baldur's_Gate.md "Baldur's Gate")进军。她和戈塔什前往城市，而凯瑟里克留下来对付队伍。
 
 ### 第三幕
 
@@ -122,7 +122,7 @@ Stats
 
 到达[利文顿](Rivington.md "Rivington")后，队伍可以首次亲自遭遇奥林。她透露，她知道他们的目标是面对她和戈塔什并收集耐色石，并威胁要从此跟踪队伍，监视他们的每一步，然后再次消失。如果被邪念搭话，她会嘲弄地揭示他们作为兄弟姐妹的关系，并嘲讽他们（在此过程中授予激励点⁠[私人关系](Haunted_One.md#Personal_Relations "Haunted One")）。从那时起，她开始骚扰队伍，利用她的变形者能力变形成不同的角色。当与这些看似无害的角色交谈时，对话会逐渐变得更加暴力，直到奥林卸下伪装，煽动队伍暴力，最终与她进行血腥的遭遇。
 
-如果在与奥林对峙之前与戈塔什交谈，他可能会向队伍提供联盟。戈塔什厌倦了她的戏剧性和不可靠性，如果队伍杀死奥林并⁠[考虑戈塔什的提议](Consider_Gortash's_Bargain.md "考虑戈塔什的提议")，他愿意联手彻底制服耐色脑，并共同统治⁠[宝剑海岸](https://forgottenrealms.fandom.com/wiki/Sword_Coast)。为了说服队伍，他还透露他们的营地已被奥林渗透，她伪装成了一名队伍成员。<sup>[\[20\]](#cite_note-20] 如果达成交易，戈塔什在条件满足时会信守诺言。
+如果在与奥林对峙之前与戈塔什交谈，他可能会向队伍提供联盟。戈塔什厌倦了她的戏剧性和不可靠性，如果队伍杀死奥林并⁠[考虑戈塔什的提议](Consider_Gortash's_Bargain.md "考虑戈塔什的提议")，他愿意联手彻底制服主脑，并共同统治⁠[宝剑海岸](https://forgottenrealms.fandom.com/wiki/Sword_Coast)。为了说服队伍，他还透露他们的营地已被奥林渗透，她伪装成了一名队伍成员。<sup>[\[20\]](#cite_note-20] 如果达成交易，戈塔什在条件满足时会信守诺言。
 
 进入[下城区](Lower_City.md "Lower City")</sup>后，奥林在队伍其他成员不知情的情况下绑架了一名队伍成员。她绑架谁、何时绑架以及如何被发现，很大程度上取决于玩家角色与同伴的关系。奥林随后与队伍对峙，宣布她有人质在手，要求他们先处理戈塔什，然后在战斗中面对她，胜者通吃。这次遭遇开启了任务⁠[拯救奥林的受害者](Rescue_Orin's_Victim.md "Rescue Orin's Victim")。
 
@@ -158,7 +158,7 @@ Stats
 
 主文章：[奥林/战斗](Orin/Combat.md "Orin/Combat")
 
-奥林与[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起，是游戏第三幕的主要反派之一。在面对游戏的最终威胁[耐色脑](The_Netherbrain.md "The Netherbrain")之前，必须击败她。
+奥林与[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起，是游戏第三幕的主要反派之一。在面对游戏的最终威胁[主脑](The_Netherbrain.md "The Netherbrain")之前，必须击败她。
 
 ### 战利品
 
@@ -234,7 +234,7 @@ Stats
 1. [↑](#cite_ref-10] 沙洛佛克·安基夫在邪念成为不洁刺客后对邪念所说的台词：
    _"清除神殿中奥林少女般的神龛，将你原始的屠杀带回巴尔。"_
 1. [↑](#cite_ref-11) [信件剪贴簿](Scrapbook_of_Letters.md "Scrapbook of Letters")，作者：邪念、恩维尔·戈塔什
-1. [↑](#cite_ref-12) [塑境秘潭](Morphic_Pool.md "Morphic Pool")，耐色脑在被邪念及其同伴质问时所说的台词。
+1. [↑](#cite_ref-12) [塑境秘潭](Morphic_Pool.md "Morphic Pool")，主脑在被邪念及其同伴质问时所说的台词。
    _"你将王冠安置在月出之塔深处，我便在那里诞生。(...) 你的计划狡猾，你的残忍无与伦比。我本会遵循它，若非你的心智被你的姐妹摧毁。"_
 1. [↑](#cite_ref-13) [回忆笔记附近期增补](Memoir_Notes_with_Recent_Addenda.md "Memoir Notes with Recent Addenda")，作者：恩维尔·戈塔什
 1. [↑](#cite_ref-14) [主脑支配](Elder_Brain_Domination.md "Elder Brain Domination")，作者：凯瑟里克·索姆

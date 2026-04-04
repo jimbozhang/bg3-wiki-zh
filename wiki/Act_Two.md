@@ -14,9 +14,9 @@
 
 - [游戏结束画面](Game_Over_screens.md "Game Over screens")
 
-**第二幕**的[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")发生在[第一幕](Act_One.md "Act One")之后，玩家进入[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")以抵达[月出之塔](Moonrise_Towers.md "Moonrise Towers")并找出[绝对真神教](Cult_of_the_Absolute.md "Cult of the Absolute")的核心。
+**第二幕**的[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")发生在[第一幕](Act_One.md "Act One")之后，玩家进入[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")以抵达[月出之塔](Moonrise_Towers.md "Moonrise Towers")并找出[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")的核心。
 
-离开荒野后，队伍发现了[幽影诅咒](Shadow_Curse.md "Shadow Curse")的毁灭性影响，它扭曲了土地，并将任何在其中逗留的生物变成幽影诅咒生物和暗影。在寻找月出之塔的过程中，他们可以从绝对真神教信徒的商队、一群[竖琴手](Harpers.md "Harpers")那里获得帮助，或者独自勇敢地面对诅咒。
+离开荒野后，队伍发现了[幽影诅咒](Shadow_Curse.md "Shadow Curse")的毁灭性影响，它扭曲了土地，并将任何在其中逗留的生物变成幽影诅咒生物和暗影。在寻找月出之塔的过程中，他们可以从至上真神教信徒的商队、一群[竖琴手](Harpers.md "Harpers")那里获得帮助，或者独自勇敢地面对诅咒。
 
 ## 目录
 
@@ -49,13 +49,13 @@
 
 ## 概述
 
-第二幕继续队伍摆脱夺心魔蝌蚪的旅程。他们的搜寻将他们引向位于幽影诅咒之地某处的月出之塔，以及以那里为基地活动的绝对真神教。
+第二幕继续队伍摆脱夺心魔蝌蚪的旅程。他们的搜寻将他们引向位于幽影诅咒之地某处的月出之塔，以及以那里为基地活动的至上真神教。
 
 为了首先抵达幽影诅咒之地，队伍必须找到入口；通过⁠[穿越山隘](Travel_through_the_Mountain_Pass.md "Travel through the Mountain Pass")或⁠[穿越幽暗地域](Travel_through_the_Underdark.md "Travel through the Underdark")。一旦到达那里，他们便发现了该教派计划的范围以及他们构成的巨大危险。
 
 队伍还会在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")发现一小股抵抗力量，由塞伦涅牧师[伊索贝尔](Isobel_Thorm.md "Isobel Thorm")保护，并由一群竖琴手和[焰拳](Flaming_Fist.md "Flaming Fist")领导。
 
-在绝对真神离开幽影诅咒之地后，队伍的旅程将引导他们前往[博德之门](Baldur's_Gate.md "Baldur's Gate")，开始[第三幕](Act_Three.md "Act Three")。
+在至上真神离开幽影诅咒之地后，队伍的旅程将引导他们前往[博德之门](Baldur's_Gate.md "Baldur's Gate")，开始[第三幕](Act_Three.md "Act Three")。
 
 ## 无法返回点
 
@@ -150,7 +150,7 @@
 
 **月出之塔**是第二幕的主要地点之一，也是许多任务的中心点。在遥远的过去，这座塔曾是⁠[塞伦涅](Sel%C3%BBne.md "Selûne")的神庙，是雷斯文小镇塞伦涅信徒的纪念碑。
 
-塞伦涅的所有痕迹现已消失，莎尔的黑暗诅咒覆盖了大地，月出之塔现在成为[绝对真神教](Cult_of_the_Absolute.md "Cult of the Absolute")的行动基地，由不朽的[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")领导。
+塞伦涅的所有痕迹现已消失，莎尔的黑暗诅咒覆盖了大地，月出之塔现在成为[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")的行动基地，由不朽的[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")领导。
 
 ### 大陵寝
 

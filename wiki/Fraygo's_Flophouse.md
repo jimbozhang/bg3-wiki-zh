@@ -1,13 +1,13 @@
 # 弗雷戈招待所
 
-## [飞龙关](Wyrm's_Crossing.md "飞龙关")
+## [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
 
 [夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")
 ↑
 |  | **弗雷戈招待所** | → | [夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚") |
 ↓
 [南翼检查点](South_Span_Checkpoint.md "南翼检查点")
-**弗雷戈招待所**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[飞龙关](Wyrm's_Crossing.md "飞龙关")内的一个[地点](Location.md "地点")。它是飞龙关西侧的一座三层建筑，紧邻[南翼检查点](South_Span_Checkpoint.md "南翼检查点")的城墙北侧。
+**弗雷戈招待所**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")内的一个[地点](Location.md "地点")。它是飞龙岩要塞西侧的一座三层建筑，紧邻[南翼检查点](South_Span_Checkpoint.md "南翼检查点")的城墙北侧。
 
 > “
 >
@@ -55,7 +55,7 @@
 
 ## 相关地点
 
-- [飞龙关](Wyrm's_Crossing.md "飞龙关")
+- [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
 
 ## 相关任务
 

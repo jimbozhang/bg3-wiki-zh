@@ -86,7 +86,7 @@
 
 可以使用[反应](Reaction.md "Reaction")将即将受到的攻击伤害减半。
 
-**埃尔斯邦**是[利文顿老鼠](Rivington_rats.md "Rivington rats")的一名[矮人](Dwarf.md "Dwarf")成员，正在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")拜访。他可以在那里找到与[博格斯·阿拉明](Borgus_Elamin.md "Borgus Elamin")窃窃私语。
+**埃尔斯邦**是[利文顿老鼠](Rivington_rats.md "Rivington rats")的一名[矮人](Dwarf.md "Dwarf")成员，正在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")拜访。他可以在那里找到与[博格斯·阿拉明](Borgus_Elamin.md "Borgus Elamin")窃窃私语。
 
 > “
 >

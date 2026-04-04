@@ -4,7 +4,7 @@
 
 ## 描述
 
-引导耐色石的魔法来控制卡尔萨斯王冠并支配[耐色脑](Netherbrain.md "Netherbrain")。
+引导耐色石的魔法来控制卡尔萨斯王冠并支配[主脑](Netherbrain.md "Netherbrain")。
 
 施法者必须[引导](Channelling_Karsus'_Compulsion_(Condition).md "Channelling Karsus' Compulsion (Condition)")此法术直到其下一回合才能生效。
 
@@ -34,7 +34,7 @@
 
 **[卡尔萨斯枷锁](Chains_of_Karsus_(Condition).md "Chains of Karsus (Condition)")**
 
-- 耐色脑过于强大，即使是瞬间之神的魔法——卡尔萨斯强迫术也无法完全支配它。
+- 主脑过于强大，即使是瞬间之神的魔法——卡尔萨斯强迫术也无法完全支配它。
 - 该法术反而暂时束缚了大脑的意志。要完成支配，你必须将其击倒。
 
 ## 如何习得

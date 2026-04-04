@@ -75,7 +75,7 @@
 
 攻击离开攻击范围的敌人。
 
-**旅行者格里斯卡**是[飞龙关](Wyrm's_Crossing.md "飞龙关")的[弗雷戈招待所](Fraygo's_Flophouse.md "弗雷戈招待所")的一名提夫林商人，出现在[第三幕](Act_Three.md "第三幕")期间。
+**旅行者格里斯卡**是[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[弗雷戈招待所](Fraygo's_Flophouse.md "弗雷戈招待所")的一名提夫林商人，出现在[第三幕](Act_Three.md "第三幕")期间。
 
 > “
 >

@@ -73,7 +73,7 @@
 | [底城区](Undercity.md "Undercity") | 170 | 重归故里 | 获得进入[公会大厅](Guildhall.md "公会大厅")的方法。与[门下之物](Outlander#Beneath_the_Gate.md#Beneath_the_Gate "Outlander")、[甜蜜的家](Urchin#Home_Sweet_Home.md#Home_Sweet_Home "Urchin")和[地下外交官](Noble#Underbelly_Diplomat.md#Underbelly_Diplomat "Noble")激励点共享。 |
 | 220 | 盗亦有道 | 支持[九指基恩](Nine-Fingers_Keene.md "Nine-Fingers Keene")对抗散塔林会。与[守信的女人](Charlatan#Woman_of_Her_Word.md#Woman_of_Her_Word "Charlatan")共享。 |  |
 | 220 | 只是生意 | 支持[散塔林会](Zhentarim.md "Zhentarim")对抗九指基恩。与[金翼蛇](Charlatan#Winged_Serpent_of_Gold.md#Winged_Serpent_of_Gold "Charlatan")共享。 |  |
-| [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing") | 170 | 自由的代价 | 向[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")介绍资本主义的微妙之处。 |
+| [飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing") | 170 | 自由的代价 | 向[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")介绍资本主义的微妙之处。 |
 | 170 | 可收买的忠诚 | 为[处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")的首级获得报酬。 |  |
 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "Wyrm's Rock Fortress") | 170 | 错误定罪 | 将[顾问弗洛瑞克](Counsellor_Florrick.md "Counsellor Florrick")从飞龙岩要塞中救出。与[外交营救](Folk_Hero#Diplomatic_Rescue.md#Diplomatic_Rescue "Folk Hero")共享。 |
 

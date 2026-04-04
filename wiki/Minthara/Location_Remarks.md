@@ -22,7 +22,7 @@
   - [2.4 剑湾快递](#sword-coast-couriers)
   - [2.5 慈爱神殿](#open-hand-temple)
   - [2.6 阿尔弗的宅邸地下室](#arfur's-mansion-basement)
-- [3 飞龙关](#wyrm's-crossing)
+- [3 飞龙岩要塞](#wyrm's-crossing)
   - [3.1 丹瑟隆的飞斧](#danthelon's-dancing-axe)
   - [3.2 弗雷戈招待所](#fraygo's-flophouse)
 - [4 飞龙岩要塞](#wyrm's-rock-fortress)
@@ -150,7 +150,7 @@
 - _(在谷仓发现填充熊，不知晓故事):_ “为讨厌的小孩子准备的恶心小熊。”
 - _(知晓故事):_ “这些一定是陷阱玩具。小心处理。”
 
-### [飞龙关](../Wyrm's_Crossing.md "Wyrm's Crossing")
+### [飞龙岩要塞](../Wyrm's_Crossing.md "Wyrm's Crossing")
 
 #### [丹瑟隆的飞斧](../Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")
 
@@ -394,7 +394,7 @@ _在堆岸边：_
 - _(在[公会大厅](../Lodge.md "Lodge")，看到[普塔里斯](../Ptaris.md "Ptaris")引发的大屠杀):_ “呸！无情的屠杀，既不高效也不艺术。”
 - _(在[谋杀裁判所](../Murder_Tribunal.md "Murder Tribunal")，成为不洁刺客):_ “不洁刺客。这很适合我。”
 - _(在[风暴海岸礼拜堂](../Stormshore_Tabernacle.md "Stormshore Tabernacle")，看到众神雕像):_ “啊，角落里有罗丝的神龛。容我吐口唾沫。”
-- _(靠近博德之门（通往[上城区](../Upper_City.md "Upper City")的道路），回应玩家感觉耐色脑接近):_ “斯特拉吉。灵能压力，比我在月出之塔承受的更痛苦。它会摧毁我们的心智。”
+- _(靠近博德之门（通往[上城区](../Upper_City.md "Upper City")的道路），回应玩家感觉主脑接近):_ “斯特拉吉。灵能压力，比我在月出之塔承受的更痛苦。它会摧毁我们的心智。”
 - _(君主警告后试图前进):_ “我厌恶在敌人近在咫尺时转身，但或许我们该听从君主的警告。”
 - _(在[水女王之家](../Water_Queen's_House.md "Water Queen's House")地下室，注意到开裂的墙):_ “这墙很脆弱。确保波涛仆从没看到我们在拆他们的神殿。”
 

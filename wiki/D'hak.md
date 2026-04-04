@@ -35,7 +35,7 @@
 
 ### 第一幕
 
-达'哈克与[凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn")一同站在[队长办公区](Captain's_Quarters.md "Captain's Quarters")，与另一匹狼[乌尔'乌特](Ur'uth.md "Ur'uth")一起，啃食着马琳和博罗克的尸体——他们是[绝对真神教团](Cult_of_the_Absolute.md "Cult_of_the Absolute")的不幸追随者。
+达'哈克与[凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn")一同站在[队长办公区](Captain's_Quarters.md "Captain's Quarters")，与另一匹狼[乌尔'乌特](Ur'uth.md "Ur'uth")一起，啃食着马琳和博罗克的尸体——他们是[至上真神教团](Cult_of_the_Absolute.md "Cult_of_the Absolute")的不幸追随者。
 
 达'哈克可以通过[动物交谈](Speak_with_Animals.md "Speak_with_Animals")与之对话。队伍可以得知，这两匹狼都对赛泽恩让它们吃穿着护甲的受害者这一习惯感到不满。
 

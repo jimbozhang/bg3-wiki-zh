@@ -7,7 +7,7 @@
 - [1 营地](#营地)
 - [2 星界位面](#星界位面)
 - [3 丛林](#丛林)
-- [4 里文顿](#里文顿)
+- [4 利文顿](#利文顿)
 - [5 飞龙岩关隘](#飞龙岩关隘)
 - [6 飞龙岩要塞](#飞龙岩要塞)
 - [7 下城](#下城)
@@ -61,7 +61,7 @@ X: -1566 Y: -1522
 
 [￪ 返回顶部](#top)
 
-## 里文顿
+## 利文顿
 
 | 物品名称 | 物品效果 | 获取地点 | 位置 |
 | --- | --- | --- | --- |
@@ -82,7 +82,7 @@ X: -1566 Y: -1522
 | 猫头鹰项圈 | [心灵遥控](Telekinesis.md "心灵遥控") 施放为5环法术（充能：[长休](Long_Rest.md "长休")。） | 由[塔拉](Tara.md "塔拉")在屋顶佩戴 | [慈爱神殿](Open_Hand_Temple.md "慈爱神殿") X: -87 Y: -7 |
 | 拳击天使 | 你的徒手攻击造成额外1d4⁠⁠[光耀](Radiant.md "光耀")伤害。[曳光弹](Guiding_Bolt.md "曳光弹") 施放为4环法术（充能：[长休](Long_Rest.md "长休")。） | 在慈爱神殿西端床脚的上锁箱子中 | [慈爱神殿](Open_Hand_Temple.md "慈爱神殿") X: -90 Y: -7 |
 | 静默者 | [人类定身术](Hold_Person.md "人类定身术") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 在寺庙下方区域的洞中 | [慈爱神殿](Open_Hand_Temple.md "慈爱神殿") X: 67 Y: -1018 |
-| 失泽之戒 |  | 通过组合创建（收集两者并放入同一玩家物品栏后出现右键“组合”选项）：[无宝石戒指](Gemless_Ring.md "无宝石戒指") - 从里文顿东北悬崖的[难民尸体](Garrett.md "加勒特")处搜刮，坐标X: 46 Y: 66 [无戒指宝石](Ringless_Gem.md "无戒指宝石") - 由里文顿难民营的[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")出售，坐标X: 45 Y: -98 | [利文顿](Rivington.md "利文顿") |
+| 失泽之戒 |  | 通过组合创建（收集两者并放入同一玩家物品栏后出现右键“组合”选项）：[无宝石戒指](Gemless_Ring.md "无宝石戒指") - 从利文顿东北悬崖的[难民尸体](Garrett.md "加勒特")处搜刮，坐标X: 46 Y: 66 [无戒指宝石](Ringless_Gem.md "无戒指宝石") - 由利文顿难民营的[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")出售，坐标X: 45 Y: -98 | [利文顿](Rivington.md "利文顿") |
 | 火焰敏锐之帽 | 每当造成⁠[火焰](Fire.md "火焰")伤害时，你获得[法术灵光](Arcane_Acuity_(Condition).md "法术灵光（状态）")，持续2回合。 | 由[古怪公牛](Strange_Ox.md "古怪公牛")携带，在第三章开始时强制征用谷仓西边的山丘上 | [利文顿](Rivington.md "利文顿") X: 38 Y: -149 |
 | 变形者的恩赐之戒 | 变形或伪装时，所有[属性检定](Ability_Check.md "属性检定")获得+1d4加成。 | 完成[帮助魔鬼牛](Help_the_Devilish_Ox.md "帮助魔鬼牛")任务奖励，或从[古怪公牛](Strange_Ox.md "古怪公牛")处搜刮 | [利文顿](Rivington.md "利文顿") X: 39 Y: -149 |
 | 矮人投掷锤 | 此武器投掷后将返回其所有者。若由[矮人](Dwarf.md "矮人")投掷此战锤，造成额外1d8⁠⁠[钝击](Bludgeoning.md "钝击")伤害。若目标为大型、超大型或巨型生物，打击造成额外2d8⁠⁠[钝击](Bludgeoning.md "钝击")伤害。 | 由[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")在[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")附近出售 | [利文顿](Rivington.md "利文顿") X: 43 Y: -101 |
@@ -93,16 +93,16 @@ X: -1566 Y: -1522
 | 仙女斗篷 | [支配人类](Dominate_Person.md "支配人类") 施放为5环法术（充能：[长休](Long_Rest.md "长休")。） | 由[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")在[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")附近出售 | [利文顿](Rivington.md "利文顿") X: 44 Y: -97 |
 | 乌鸦信物 | 佩戴此护符时，穿戴者的跳跃和飞行速度增加1.5米/5英尺，并获得[羽落术](Feather_Fall_(Condition).md "羽落术（状态）")状态。羽落术效果在穿戴者[变形](Polymorphed_(Condition).md "变形（状态）")或[荒野形态](Wild_Shape.md "荒野形态")时持续存在。[变形术：恐鸦](Polymorph_colon__Dire_Raven.md "变形术：恐鸦") 化为一只恐鸦，可避免注意并[致盲](Blinded_(Condition).md "致盲（状态）")敌人。拥有13点[生命值](Hit_Points.md "生命值")。（充能：[长休](Long_Rest.md "长休")。） | 由[马蒂斯](Mattis.md "马蒂斯")在[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")附近出售 | [利文顿](Rivington.md "利文顿") X: 56 Y: -120 |
 | 斯凯比的拳击手饰环 | 当被2个或更多敌人包围时，你的武器和徒手攻击造成额外2点伤害。 | 由[马蒂斯](Mattis.md "马蒂斯")在[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")附近出售（若他存活至第三章） | [利文顿](Rivington.md "利文顿") X: 56 Y: -120 |
-| 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[埃克维凯普](Exxvikyap.md "埃克维凯普")身后的架子上 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") |
-| 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[里文顿杂货铺](Rivington_General.md "里文顿杂货铺")二楼的架子上 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") |
-| 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 挂在柱子上 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") X: 6 Y: -36 |
-| 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 挂在柱子上 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") X: 6 Y: -36 |
-| 蹁跹清风 | [旋风攻击](Whirlwind_Attack_(Weapon_Action).md "旋风攻击（武器动作）") 攻击所有附近敌人，对每个目标进行单独的[攻击掷骰](Attack_roll.md "攻击掷骰")。（充能：[短休](Short_rest.md "短休")。） | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") X: 7 Y: -35 |
-| 伏击者 | [先攻](Initiative.md "先攻")掷骰+1，[察觉技能](Perception.md "察觉技能")[检定](Checks.md "检定")具有[优势](Advantage.md "优势")。战斗中，你对尚未行动的生物造成额外1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") X: 7 Y: -35 |
-| 骨刺护甲 | 每当你[狂暴](Rage.md "狂暴")时，获得15点[临时生命值](Temporary_Hit_Points.md "临时生命值")。所有受到的伤害减少2点。当穿戴者被近战攻击命中时，攻击者承受[体质](Constitution.md "体质")⁠⁠[穿刺](Piercing.md "穿刺")伤害。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") X: 7 Y: -35 |
-| 精灵链甲 | 佩戴此护甲时，你被视为[重甲的](Proficient.md "重甲的")。穿戴者[先攻](Initiative.md "先攻")掷骰+2，[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") X: 7 Y: -35 |
-| 潜行者手套 | [先攻](Initiative.md "先攻")掷骰+1。你的[偷袭](Sneak_Attack.md "偷袭")造成额外1d4⁠⁠[力场](Force.md "力场")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") X: 7 Y: -35 |
-| 斯怀尔斯的滑板 | 盾牌在战斗开始时使穿戴者获得[力场导体](Force_Conduit_(Condition).md "力场导体（状态）")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [里文顿杂货铺](Rivington_General.md "里文顿杂货铺") X: 7 Y: -35 |
+| 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[埃克维凯普](Exxvikyap.md "埃克维凯普")身后的架子上 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") |
+| 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[利文顿杂货铺](Rivington_General.md "利文顿杂货铺")二楼的架子上 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") |
+| 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 挂在柱子上 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 6 Y: -36 |
+| 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 挂在柱子上 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 6 Y: -36 |
+| 蹁跹清风 | [旋风攻击](Whirlwind_Attack_(Weapon_Action).md "旋风攻击（武器动作）") 攻击所有附近敌人，对每个目标进行单独的[攻击掷骰](Attack_roll.md "攻击掷骰")。（充能：[短休](Short_rest.md "短休")。） | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
+| 伏击者 | [先攻](Initiative.md "先攻")掷骰+1，[察觉技能](Perception.md "察觉技能")[检定](Checks.md "检定")具有[优势](Advantage.md "优势")。战斗中，你对尚未行动的生物造成额外1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
+| 骨刺护甲 | 每当你[狂暴](Rage.md "狂暴")时，获得15点[临时生命值](Temporary_Hit_Points.md "临时生命值")。所有受到的伤害减少2点。当穿戴者被近战攻击命中时，攻击者承受[体质](Constitution.md "体质")⁠⁠[穿刺](Piercing.md "穿刺")伤害。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
+| 精灵链甲 | 佩戴此护甲时，你被视为[重甲的](Proficient.md "重甲的")。穿戴者[先攻](Initiative.md "先攻")掷骰+2，[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
+| 潜行者手套 | [先攻](Initiative.md "先攻")掷骰+1。你的[偷袭](Sneak_Attack.md "偷袭")造成额外1d4⁠⁠[力场](Force.md "力场")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
+| 斯怀尔斯的滑板 | 盾牌在战斗开始时使穿戴者获得[力场导体](Force_Conduit_(Condition).md "力场导体（状态）")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
 | 舞光匕首 | 此物品在⁠6米/20英尺半径内散发光芒。仅副手使用 当此匕首在副手使用时，使用者[护甲等级](Armour_Class.md "护甲等级")+1。 | 由[法尔林](Farlin.md "法尔林")在[利文顿](Rivington.md "利文顿")西海滩携带 | [西海滩](Western_Beach.md "西海滩") X: -210 Y: 99 |
 | 碎尸者 | [全垒打](Grand_Slam.md "全垒打") 将武器猛砸地面，造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外[雷鸣](Thunder.md "雷鸣")伤害，雷鸣冲击附近敌人并可能将其击退。（充能：[短休](Short_rest.md "短休")。） | 由[卡利欧斯](Cairos.md "卡利欧斯")在[利文顿](Rivington.md "利文顿")西海滩携带 | [西海滩](Western_Beach.md "西海滩") X: -222 Y: 93 |
 | 骨刺靴 | 若你未穿着[护甲](Armour.md "护甲")或持握[盾牌](Shields.md "盾牌")，则[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")+1。[跳跃](Jump.md "跳跃")距离增加1.5米（5英尺）。[凶蛮跳跃](Brutal_Leap.md "凶蛮跳跃") ( + ) 跃向目标并可能将其击倒[倒地](Prone_(Condition).md "倒地（状态）")。（充能：每回合。） | 在木箱中，坐标X: -1340 Y: -857，位于[利文顿](Rivington.md "利文顿")[南翼检查点](South_Span_Checkpoint.md "南翼检查点")西行小径尽头的隐蔽通道内 | [西海滩](Western_Beach.md "西海滩") X: -233 Y: 84 |
@@ -120,14 +120,14 @@ X: 23 Y: 131
 - [魅力](Charisma.md "魅力")[豁免检定](Saving_throw.md "豁免检定") +1
 - [感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定") -1
 
-| 在[飞龙关](Wyrm's_Crossing.md "飞龙关")由[纳贝尔](Naaber.md "纳贝尔")奖励，需多次与其对话直至所有对话选项耗尽 | [卡姆的服装店](Carm's_Garms.md "卡姆的服装店") |
+| 在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")由[纳贝尔](Naaber.md "纳贝尔")奖励，需多次与其对话直至所有对话选项耗尽 | [卡姆的服装店](Carm's_Garms.md "卡姆的服装店") |
 X: 23 Y: 131
 [和声决斗者](Harmonic_Dueller.md "和声决斗者")
 |
 
 [老练调谐](Mellow_Harmony.md "老练调谐")
 进行DC 15的[表演](Performance.md "表演")[属性检定](Ability_Check.md "属性检定")，成功则使你所有近战武器攻击获得等于你[魅力](Charisma.md "魅力")的额外伤害（至少1点额外伤害）。（充能：[短休](Short_rest.md "短休")。）
-| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙关](Wyrm's_Crossing.md "飞龙关")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
+| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
 X: -10 Y: 143
 [瘟疫使者](Blightbringer.md "瘟疫使者")
 |
@@ -135,14 +135,14 @@ X: -10 Y: 143
 - 用此武器攻击[侏儒](Gnome.md "侏儒")或[矮人](Dwarf.md "矮人")时，攻击和伤害掷骰获得1d4加成。
 - 当此武器造成[重击](Critical_Hit.md "重击")时，也会[缓慢](Slowed_(Condition).md "缓慢（状态）")目标生物。
 
-| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙关](Wyrm's_Crossing.md "飞龙关")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
+| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
 X: -10 Y: 143
 [移位斗篷](Cloak_of_Displacement.md "移位斗篷")
 |
 
 - 在穿戴者回合开始时，斗篷激活，使敌人对穿戴者的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。此效果持续至穿戴者受到伤害。
 
-| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙关](Wyrm's_Crossing.md "飞龙关")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
+| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
 X: -10 Y: 143
 [大地与天空之服](Garb_of_the_Land_and_Sky.md "大地与天空之服")
 |
@@ -151,7 +151,7 @@ X: -10 Y: 143
 - 使用[飞檐走壁](Step_of_the_Wind.md "飞檐走壁")时，你的下一次[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，并造成额外1d8⁠⁠[力场](Force.md "力场")伤害。
 - [护甲等级](Armour_Class.md "护甲等级") +1
 
-| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙关](Wyrm's_Crossing.md "飞龙关")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
+| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
 X: -10 Y: 143
 [战神的铁手套](Gauntlets_of_the_Warmaster.md "战神的铁手套")
 |
@@ -159,7 +159,7 @@ X: -10 Y: 143
 - 目标对抗你的[战技](Battle_Master.md#Level_3 "战技大师")和[武器动作](Weapon_actions.md "武器动作")的[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 - [攻击掷骰](Attacks.md#Attack_rolls "攻击") +1
 
-| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙关](Wyrm's_Crossing.md "飞龙关")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
+| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
 X: -10 Y: 143
 [狂战士的号角](Horns_of_the_Berserker.md "狂战士的号角")
 |
@@ -167,7 +167,7 @@ X: -10 Y: 143
 - 攻击已受伤的生物时，[攻击掷骰](Attack_roll.md "攻击掷骰")+2。
 - 只要你生命值未满，徒手和近战攻击将造成额外2⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。若你本回合未造成任何伤害，将在回合结束时承受1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙关](Wyrm's_Crossing.md "飞龙关")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
+| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
 X: -10 Y: 143
 [雪尘修道院手套](Snow-Dusted_Monastery_Gloves.md "雪尘修道院手套")
 |
@@ -176,7 +176,7 @@ X: -10 Y: 143
 
 [冰刃术](Ice_Knife.md "冰刃术")
 施放为3环法术（充能：[长休](Long_Rest.md "长休")。）
-| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙关](Wyrm's_Crossing.md "飞龙关")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
+| 由[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")出售 | [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") |
 X: -10 Y: 143
 [猩红皮甲](Scarlet_Leather_Armour.md "猩红皮甲")
 |
@@ -206,7 +206,7 @@ X: 25 Y: 98
 
 - 当你的[戏法](List_of_cantrips.md "戏法列表")造成⁠[强酸](Acid.md "强酸")、⁠[寒冷](Cold.md "寒冷")、⁠[火焰](Fire.md "火焰")、⁠[闪电](Lightning.md "闪电")或⁠[雷鸣](Thunder.md "雷鸣")伤害时，将你的[施法调整值](Spellcasting_Modifier.md "施法调整值")加入造成伤害。
 
-| 在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")西北方向沉船上的[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")内 | [飞龙关](Wyrm's_Crossing.md "飞龙关") |
+| 在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")西北方向沉船上的[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")内 | [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞") |
 X: -97 Y: 107
 
 [￪ 返回顶部](#top)

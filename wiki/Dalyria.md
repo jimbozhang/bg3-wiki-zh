@@ -61,7 +61,7 @@
 
 ## 参与
 
-达利瑞亚首次可以在[飞龙关](Wyrm's_Crossing.md "Wyrm's_Crossing")的[弗雷戈招待所](Fraygo's_Flophouse.md "Fraygo's_Flophouse")一楼遇到，她正与[帕莱·佩特拉斯](Petras.md "Petras")一起狩猎。<sup>[\[3\]](#cite_note-3)</sup> 如果阿斯代伦在场，三人将就卡扎多尔及其在[扎尔宅邸](Szarr_Palace.md "Szarr_Palace")举行的黑弥撒仪式的意图发生冲突。
+达利瑞亚首次可以在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's_Crossing")的[弗雷戈招待所](Fraygo's_Flophouse.md "Fraygo's_Flophouse")一楼遇到，她正与[帕莱·佩特拉斯](Petras.md "Petras")一起狩猎。<sup>[\[3\]](#cite_note-3)</sup> 如果阿斯代伦在场，三人将就卡扎多尔及其在[扎尔宅邸](Szarr_Palace.md "Szarr_Palace")举行的黑弥撒仪式的意图发生冲突。
 
 如果阿斯代伦不在场，队伍可以偷听他们的对话：
 

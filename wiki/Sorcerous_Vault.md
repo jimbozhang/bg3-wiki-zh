@@ -148,7 +148,7 @@ X: 416 Y: 998处是上锁的展示柜，内有[萨奇亚特法典](The_Tharchiat
 
 X: 318 Y: 997处是一个石制书架，上有[废黜卷轴](Scroll_of_Dethrone.md "废黜卷轴")、[金圣杯](Gold_Chalice.md "金圣杯")、[卡尔萨斯年鉴](The_Annals_of_Karsus.md "卡尔萨斯年鉴")和一封据称由卡尔萨斯本人写的[魔术师，小心了](Magus,_Be_Warned.md "魔术师，小心了")。阅读书籍后，互动的小队成员将获得另一份废黜卷轴副本。
 
-书中提到卡尔萨斯创造并留下的三件神器：王冠（现由耐色脑佩戴）、宝珠<sup>[\[3\]](#cite_note-3)</sup>和权杖。后者在游戏发布版本中未实现，但NexusMods上有一个[模组](https://www.nexusmods.com/baldursgate3/mods/15529)可以恢复它。
+书中提到卡尔萨斯创造并留下的三件神器：王冠（现由主脑佩戴）、宝珠<sup>[\[3\]](#cite_note-3)</sup>和权杖。后者在游戏发布版本中未实现，但NexusMods上有一个[模组](https://www.nexusmods.com/baldursgate3/mods/15529)可以恢复它。
 
 此房间还有两个最初隐形的镀金箱子，其中一个包含[破敌者](Foebreaker.md "破敌者")，另一个存放着非常稀有的法术卷轴和少量战利品。四堆卷轴每堆包含一到三个非常稀有的卷轴。房间周围的武器架上展示着一系列+1[惑控学派](Enchantment.md "惑控学派")的不常见武器，包括[军团魔长戟](Merregon_Halberd.md "军团魔长戟")。
 

@@ -58,7 +58,7 @@
 
 如果在完成[寻找凯瑟里克·索姆的遗物](Find_Ketheric_Thorm's_Relic.md "Find Ketheric Thorm's Relic")*之前*进入月出之塔的屋顶，萨斯德拉会阻止并斥责他们回头。回答“我想去哪就去哪”会让她和所有八个[死灵侍僧](Necromite.md "Necromite")变得敌对。[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")不会变得敌对，除非过于靠近他。然而，这次无法击败他，因为他仍然是不朽的。
 
-与狂热者、专家和[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")的其他成员不同，萨斯德拉和其他[灵魂侍女](Mistress_of_Souls.md "Mistress of Souls")似乎完全清楚绝对真神是什么，以及他们正在实施的宗教骗局。<sup>[\[2\]](#cite_note-2)</sup> 这种更深刻的理解（以及随之而来的蔑视）也被服务于索姆将军的其他高级米尔寇死灵法师所共享，[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter")哀叹她所面对的被感染者的软弱奴性，而[巴萨扎尔](Balthazar.md "Balthazar")则使用玩家角色被蠕虫感染的状态作为辱骂。
+与狂热者、专家和[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")的其他成员不同，萨斯德拉和其他[灵魂侍女](Mistress_of_Souls.md "Mistress of Souls")似乎完全清楚至上真神是什么，以及他们正在实施的宗教骗局。<sup>[\[2\]](#cite_note-2)</sup> 这种更深刻的理解（以及随之而来的蔑视）也被服务于索姆将军的其他高级米尔寇死灵法师所共享，[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter")哀叹她所面对的被感染者的软弱奴性，而[巴萨扎尔](Balthazar.md "Balthazar")则使用玩家角色被蠕虫感染的状态作为辱骂。
 
 ## 战斗
 

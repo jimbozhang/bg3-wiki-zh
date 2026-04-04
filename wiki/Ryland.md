@@ -34,7 +34,7 @@
 - [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**瑞兰德**是出现在[第三幕](Act_Three.md "第三幕")中、伪装成人类的[变形怪](Doppelganger.md "变形怪")。瑞兰德和[克伦](Keren.md "克伦")表面上是[终焉马戏团](Circus_of_the_Last_Days.md "终焉马戏团")的驯兽师，但秘密服务于[奥林](Orin.md "奥林")和[绝对真神教团](Cult_of_the_Absolute.md "绝对真神教团")。
+**瑞兰德**是出现在[第三幕](Act_Three.md "第三幕")中、伪装成人类的[变形怪](Doppelganger.md "变形怪")。瑞兰德和[克伦](Keren.md "克伦")表面上是[终焉马戏团](Circus_of_the_Last_Days.md "终焉马戏团")的驯兽师，但秘密服务于[奥林](Orin.md "奥林")和[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")。
 
 > “
 >

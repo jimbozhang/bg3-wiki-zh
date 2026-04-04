@@ -34,7 +34,7 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**奎尼亚·阿维**是[飞龙关](Wyrm's_Crossing.md "飞龙关")的[弗雷戈招待所](Fraygo's_Flophouse.md "弗雷戈招待所")的厨师，出现在[第三幕](Act_Three.md "第三幕")期间。
+**奎尼亚·阿维**是[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[弗雷戈招待所](Fraygo's_Flophouse.md "弗雷戈招待所")的厨师，出现在[第三幕](Act_Three.md "第三幕")期间。
 
 > “
 >

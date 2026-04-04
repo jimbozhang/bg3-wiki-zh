@@ -118,7 +118,7 @@
 - [噬脑怪](Intellect_Devourer.md "噬脑怪")
 - [智力暴食者](Intellect_Glutton.md "智力暴食者")
 - [夺心魔蝌蚪](Mind_Flayer_Tadpole_(creature).md "夺心魔蝌蚪（生物）")
-- [耐色脑](Netherbrain.md "耐色脑")
+- [主脑](Netherbrain.md "主脑")
 - [幽灵呋噜](Spectral_Flumph.md "幽灵呋噜")
 - [触手](Tentacle.md "触手")
 - [我们](Us.md "我们")

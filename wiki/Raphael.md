@@ -126,7 +126,7 @@
 
 ### 第三幕
 
-在第三幕中到达[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")后，可以在[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")的酒吧遇到柯里拉。与她交谈会让她试图说服队伍接受拉斐尔的交易。在[魔鬼的巢穴](Devil's_Den.md "Devil's Den")的楼上，拉斐尔正在与[沃斯](Voss.md "Voss")交谈，沃斯希望与他做交易以换取[俄耳甫斯之锤](Orphic_Hammer.md "Orphic Hammer")。他对沃斯提供的任何东西都不感兴趣，而是向队伍提供锤子，以换取[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")。拉斐尔想用王冠统一地狱，并统治它们。这开启了[对付魔鬼](Deal_with_the_Devil.md "Deal with the Devil")。
+在第三幕中到达[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")后，可以在[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")的酒吧遇到柯里拉。与她交谈会让她试图说服队伍接受拉斐尔的交易。在[魔鬼的巢穴](Devil's_Den.md "Devil's Den")的楼上，拉斐尔正在与[沃斯](Voss.md "Voss")交谈，沃斯希望与他做交易以换取[俄耳甫斯之锤](Orphic_Hammer.md "Orphic Hammer")。他对沃斯提供的任何东西都不感兴趣，而是向队伍提供锤子，以换取[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")。拉斐尔想用王冠统一地狱，并统治它们。这开启了[对付魔鬼](Deal_with_the_Devil.md "Deal with the Devil")。
 
 队伍可以接受这个交易，或者尝试从拉斐尔的[希望之邸](House_of_Hope.md "House of Hope")偷走锤子。也可以只是拜访（或洗劫除锤子外的一切）拉斐尔的家。
 

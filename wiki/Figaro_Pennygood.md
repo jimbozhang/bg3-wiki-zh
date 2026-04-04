@@ -77,7 +77,7 @@
 
 攻击离开攻击范围的敌人。
 
-**费加罗·"焕颜"·钱郝** 是一位商人，在[第三幕](Act_Three.md "第三幕")期间于[下城区](Lower_City.md "下城区")拥有[焕颜精品店](Facemaker's_Boutique.md "焕颜精品店")。他是[卡尔曼·钱郝](Carmen_Pennygood.md "卡尔曼·钱郝")的哥哥，后者在[飞龙关](Wyrm's_Crossing.md "飞龙关")拥有[卡尔的服装店](Carm's_Garms.md "卡尔的服装店")。
+**费加罗·"焕颜"·钱郝** 是一位商人，在[第三幕](Act_Three.md "第三幕")期间于[下城区](Lower_City.md "下城区")拥有[焕颜精品店](Facemaker's_Boutique.md "焕颜精品店")。他是[卡尔曼·钱郝](Carmen_Pennygood.md "卡尔曼·钱郝")的哥哥，后者在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")拥有[卡尔的服装店](Carm's_Garms.md "卡尔的服装店")。
 
 > “
 >

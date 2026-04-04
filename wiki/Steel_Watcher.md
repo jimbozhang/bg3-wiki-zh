@@ -53,7 +53,7 @@
 
 除了[钢铁卫士泰坦](Steel_Watcher_Titan.md "钢铁卫士泰坦")外，钢铁卫士在生命值较低时会获得[即将爆炸！](Detonation_Impending!_(Condition).md "即将爆炸！（状态）")状态。这是由被动特性[保险协议](Failsafe_Protocol.md "Failsafe_Protocol")引起的。爆炸在守望者周围区域造成4d12+26⁠⁠[火焰](Fire.md "Fire")伤害。此攻击无视火焰伤害的[抗性](Resistance.md "Resistance")和[免疫](Immunity.md "Immunity")。目标在成功的[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")下仍会受到一半伤害。
 
-如果队伍在未处理铸造厂的情况下击败戈塔什，且尚未击败[奥林](Orin.md "Orin")，钢铁卫士会被[耐色脑](Netherbrain.md "Nether脑")接管，使其忽略队伍并不在战斗中协助[焰拳](Flaming_Fist.md "Flaming Fist")，以帮助队伍击败奥林。此外，耐色脑会炸毁铸造厂和[钢铁王座](Iron_Throne.md "Iron Throne")。然而，一旦队伍也击败奥林，耐色脑会立即转向队伍，所有钢铁卫士都会对队伍变得敌对（如果[明萨拉](Minthara.md "Minthara")存活到[第三幕](Act_Three.md "Act Three")，这可以说实现了她对钢铁卫士目的的评估），随后焰拳也会被卷入战斗。
+如果队伍在未处理铸造厂的情况下击败戈塔什，且尚未击败[奥林](Orin.md "Orin")，钢铁卫士会被[主脑](Netherbrain.md "Nether脑")接管，使其忽略队伍并不在战斗中协助[焰拳](Flaming_Fist.md "Flaming Fist")，以帮助队伍击败奥林。此外，主脑会炸毁铸造厂和[钢铁王座](Iron_Throne.md "Iron Throne")。然而，一旦队伍也击败奥林，主脑会立即转向队伍，所有钢铁卫士都会对队伍变得敌对（如果[明萨拉](Minthara.md "Minthara")存活到[第三幕](Act_Three.md "Act Three")，这可以说实现了她对钢铁卫士目的的评估），随后焰拳也会被卷入战斗。
 
 ## 钢铁卫士类型
 

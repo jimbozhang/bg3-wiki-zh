@@ -39,7 +39,7 @@
   - [阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在[月出之塔](Moonrise_Towers.md "Moonrise Towers")主层，以及[下城区](Lower_City.md "Lower City")[蜂巢杂货铺](Beehive_General_Goods.md "Beehive General Goods")北边的一所房子里
   - [巴伦·骨篷](Baelen_Bonecloak.md "Baelen Bonecloak")在[下城区](Lower_City.md "Lower City")[白骨斗篷药材店](Bonecloak's_Apothecary.md "Bonecloak's Apothecary")（如果在[找到蘑菇猎人](Find_the_Mushroom_Picker.md "Find the Mushroom Picker")期间用[箴言菇](Noblestalk.md "Noblestalk")治愈了他）
   - [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak")在[下城区](Lower_City.md "Lower City")[白骨斗篷药材店](Bonecloak's_Apothecary.md "Bonecloak's Apothecary")（如果在[找到蘑菇猎人](Find_the_Mushroom_Picker.md "Find the Mushroom Picker")期间将[箴言菇](Noblestalk.md "Noblestalk")交给了她）
-  - [恩索尔·丹瑟隆](Entharl_Danthelon.md "Entharl Danthelon")在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")
+  - [恩索尔·丹瑟隆](Entharl_Danthelon.md "Entharl Danthelon")在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")
   - [赫尔希克](Helsik.md "Helsik")在[下城区](Lower_City.md "Lower City")[魔鬼的小费](Devil's_Fee.md "Devil's Fee")
   - [军团魔囤宝者](Hoarding_Merregon.md "Hoarding Merregon")，[尤格](Yurgir.md "Yurgir")随从中的一名[军团魔](Merregon.md "Merregon")商人，位于[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet of Shar")
   - [马蒂斯](Mattis.md "Mattis")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")和[利文顿](Rivington.md "Rivington")[强制征用的谷仓](Requisitioned_Barn.md "Requisitioned Barn")外，坐标 X: 59 Y: -127
@@ -47,8 +47,8 @@
   - [波珀](Popper.md "Popper")狗头人在[利文顿](Rivington.md "Rivington")[终末马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days")
   - [军需官塔利](Talli.md "Talli")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")和[月出之塔](Moonrise_Towers.md "Moonrise Towers")主层
   - [罗阿·月光](Roah_Moonglow.md "Roah Moonglow")在[月出之塔](Moonrise_Towers.md "Moonrise Towers")
-  - [药水师霍斯特](Stylin'_Horst.md "Stylin' Horst")在[天鹅绒灵药](The_Velveteen_Elixir.md "The Velveteen Elixir")，[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")楼上
-  - [旅行者格里斯卡](Griska.md "Griska")在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")[弗雷戈招待所](Fraygo's_Flophouse.md "Fraygo's Flophouse")一楼
+  - [药水师霍斯特](Stylin'_Horst.md "Stylin' Horst")在[天鹅绒灵药](The_Velveteen_Elixir.md "The Velveteen Elixir")，[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")楼上
+  - [旅行者格里斯卡](Griska.md "Griska")在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")[弗雷戈招待所](Fraygo's_Flophouse.md "Fraygo's Flophouse")一楼
 - 在以下地点找到：
   - [杜林伯德陵墓](Durinbold_Mausoleum.md "Durinbold Mausoleum")内属于[吉娜](Zina.md "Zina")的石棺中，坐标 X: 1225 Y: 790
 - [至高大殿](High_Hall.md "High Hall")内[科尔](Koll_(kobold).md "Koll (kobold)")旁边，坐标 X: 235 Y: 45

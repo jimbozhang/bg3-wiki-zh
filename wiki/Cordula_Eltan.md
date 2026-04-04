@@ -58,7 +58,7 @@
   - [感知] _探查她的思想。_
   - 边境之刃拯救了无数生命。他仍然是你心目中的那个人。
 
-她随后交出[《安苏传奇》](The_Legend_of_Ansur.md "The Legend of Ansur")，并指引冒险队唤醒城市的[安苏](Ansur.md "安苏")，以保护博德之门免受[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")的侵害。任何检定失败都会导致与她及其守卫、[肌肉男波洛](Pollo_the_Muscle.md "Pollo the Muscle")和[旺达·图勒穆尔](Wanda_Tullermoor.md "Wanda Tullermoor")的战斗。
+她随后交出[《安苏传奇》](The_Legend_of_Ansur.md "The Legend of Ansur")，并指引冒险队唤醒城市的[安苏](Ansur.md "安苏")，以保护博德之门免受[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")的侵害。任何检定失败都会导致与她及其守卫、[肌肉男波洛](Pollo_the_Muscle.md "Pollo the Muscle")和[旺达·图勒穆尔](Wanda_Tullermoor.md "Wanda Tullermoor")的战斗。
 
 ### 尾声
 

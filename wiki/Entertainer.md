@@ -62,7 +62,7 @@
 | 170 | 爆炸性艺术 | 从[乌尔布伦](Wulbren.md "Wulbren")处获得[符文火药炸弹](Runepowder_Bomb.md "Runepowder Bomb")。 |  |
 | 135 | 吟唱诗人之歌 | 目睹[古尔](Gur.md "Gur")的葬礼。与[肃穆告别](Outlander#Solemn_Farewell.md#Solemn_Farewell "化外之民")共享。 |  |
 | 135 | 抢占聚光灯 | 自愿登上[马戏团](Circus_of_the_Last_Days.md "终末马戏团")的舞台。 |  |
-| [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing") | 170 | 私人表演 | 在夏芮丝的爱抚接受服务。接受[霍慈·霍利根](Hoots_Hooligan.md "Hoots Hooligan")的免费饮品。体验[妮夏·纳林托](Naoise_Nallinto.md "Naoise Nallinto")的“狂喜”。雇佣[尼姆·奥里斯](Nym_Orlith.md "Nym Orlith")或[索恩·奥里斯](Sorn_Orlith.md "Sorn Orlith")或两者。与[另类职业](Guild_Artisan#Alternative_Vocations.md#Alternative_Vocations "公会工匠")共享。 |  |
+| [飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing") | 170 | 私人表演 | 在夏芮丝的爱抚接受服务。接受[霍慈·霍利根](Hoots_Hooligan.md "Hoots Hooligan")的免费饮品。体验[妮夏·纳林托](Naoise_Nallinto.md "Naoise Nallinto")的“狂喜”。雇佣[尼姆·奥里斯](Nym_Orlith.md "Nym Orlith")或[索恩·奥里斯](Sorn_Orlith.md "Sorn Orlith")或两者。与[另类职业](Guild_Artisan#Alternative_Vocations.md#Alternative_Vocations "公会工匠")共享。 |  |
 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "Wyrm's Rock Fortress") | 170 | 个人邀请 | 目睹[戈塔什](Gortash.md "Gortash")的加冕典礼。与[恐惧主宰的加冕](Sage#Coronation_of_the_Dreadmaster.md#Coronation_of_the_Dreadmaster "智者")共享。 |  |
 
 ---

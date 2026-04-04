@@ -50,7 +50,7 @@
 
 ## 趣闻
 
-- [耐色脑](The_Netherbrain/Combat.md "The_Netherbrain/Combat")在因该法术生命值降至0时不会崩溃。
+- [主脑](The_Netherbrain/Combat.md "The_Netherbrain/Combat")在因该法术生命值降至0时不会崩溃。
 
 ## 外部链接
 

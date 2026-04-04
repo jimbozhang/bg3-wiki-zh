@@ -5,7 +5,7 @@
 | 身份 | 男性 |
 | 声音 / 演员 | [达里奥·科茨](https://www.imdb.com/name/nm2872353/) |
 | 角色 | [商人](Trader.md "Trader") |
-| 家乡 | [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing"), [博德之门](Baldur's_Gate.md "Baldur's Gate") |
+| 家乡 | [飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing"), [博德之门](Baldur's_Gate.md "Baldur's Gate") |
 | 职业 | 蔬果商 |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
@@ -38,13 +38,13 @@
 - [妖精血统](Fey_Ancestry.md "Fey Ancestry")
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing"), [博德之门](Baldur's_Gate.md "Baldur's Gate")
+[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing"), [博德之门](Baldur's_Gate.md "Baldur's Gate")
 
 ### 职业
 
 蔬果商
 
-**维尔森·奥克斯**是[第三幕](Act_Three.md "Act Three")期间[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的一名商人。
+**维尔森·奥克斯**是[第三幕](Act_Three.md "Act Three")期间[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的一名商人。
 
 > “
 >
@@ -65,7 +65,7 @@
 
 ### 第三幕
 
-维尔森·奥克斯可以在飞龙关的 X: -1 Y: 110 附近找到。维尔森出售[营地补给](Camp_supplies.md "Camp_supplies")，如水果、蔬菜和熟食。
+维尔森·奥克斯可以在飞龙岩要塞的 X: -1 Y: 110 附近找到。维尔森出售[营地补给](Camp_supplies.md "Camp_supplies")，如水果、蔬菜和熟食。
 
 ## 商店
 

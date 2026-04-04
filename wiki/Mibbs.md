@@ -64,7 +64,7 @@
 
 如果队伍到达桥的尽头并与达博纳进行对话<sup>[\[1\]](#cite_note-1)</sup>，米布斯会加入对话，阻止达博纳并欢迎队伍进入上城区<sup>[\[2\]](#cite_note-2），而[君主](The_Emperor.md "The Emperor")</sup>会插话（正如它在过桥时反复做的那样），警告队伍正在被愚弄，并敦促他们立刻折返。
 
-通过 DC 15 的[洞悉](Insight.md "Insight")[属性检定](Ability_Check.md "属性检定")可以发现米布斯的行为并非出于他本人，他正被控制（大概是由[耐色脑](Netherbrain.md "Netherbrain")控制）。
+通过 DC 15 的[洞悉](Insight.md "Insight")[属性检定](Ability_Check.md "属性检定")可以发现米布斯的行为并非出于他本人，他正被控制（大概是由[主脑](Netherbrain.md "Netherbrain")控制）。
 
 如果队伍在获得所有[耐色石](Netherstone.md "Netherstone")后返回城市，队列附近的三名受感染难民会转变为[夺心魔](Mind_flayer.md "Mind Flayer")并攻击路人。米布斯[受惊](Surprised_(Condition).md "Surprised (Condition)")，但会与队伍并肩作战。一旦夺心魔死亡，他和周围的所有焰拳成员都会跑去警告他们的上级，然后在跑得足够远后从游戏中完全消失。
 
@@ -138,9 +138,9 @@
 | --- | --- | --- |
 | 1 | 5 | 2 |
 
-1. [↑](#cite_ref-1) 上桥会导致[耐色脑](Netherbrain.md "Netherbrain")试图接管队伍的心智，使他们获得[心智崩溃](Mindbroken_(Condition).md "Mindbroken (Condition)")或[震慑](Stunned_(Condition).md "Stunned (Condition)")状态，并可能导致游戏结束屏幕。这些状态会应用到队伍的每个成员，即使只有一个人试图单独到达桥的尽头。
+1. [↑](#cite_ref-1) 上桥会导致[主脑](Netherbrain.md "Netherbrain")试图接管队伍的心智，使他们获得[心智崩溃](Mindbroken_(Condition).md "Mindbroken (Condition)")或[震慑](Stunned_(Condition).md "Stunned (Condition)")状态，并可能导致游戏结束屏幕。这些状态会应用到队伍的每个成员，即使只有一个人试图单独到达桥的尽头。
 
-1. [↑](#cite_ref-2) 米布斯和达博纳行为背后的含义是，他们可能正被耐色脑精神控制。后者试图引诱队伍进入上城区，以便它能压倒君主的防御并迫使队伍转变。
+1. [↑](#cite_ref-2) 米布斯和达博纳行为背后的含义是，他们可能正被主脑精神控制。后者试图引诱队伍进入上城区，以便它能压倒君主的防御并迫使队伍转变。
 1. [↑](#cite_ref-3) 米布斯有四个一级[法术位](Spell_Slot.md "Spell Slot")和三个二级法术位，尽管他没有法术可以施放。
 
 ## 外部链接

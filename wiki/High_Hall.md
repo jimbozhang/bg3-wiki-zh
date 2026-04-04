@@ -66,7 +66,7 @@
 
 在庭院中战斗时，队伍最终必须到达通往至高大殿主体的楼梯，该处靠近[观察者眼魔](Spectator.md "观察者眼魔")所在位置。一名贵族死在地板上，旁边是[法律笔记](Legal_Notes.md "法律笔记")。他旁边的墙上有一个[记忆贮脑罐](Memory_Brain_Jar.md "记忆贮脑罐")。<sup>[\[4\]](#cite_note-4)</sup> 在通往至高大殿的楼梯北侧一张小桌子上，放着[为每位博德工人提供家园！](A_Home_for_Every_Working_Baldurian!.md "为每位博德工人提供家园！")。
 
-打开大门进入至高大殿，队伍必须向上攀登以抵达[耐色脑](The_Netherbrain.md "耐色脑")。
+打开大门进入至高大殿，队伍必须向上攀登以抵达[主脑](The_Netherbrain.md "主脑")。
 
 ### 上城区下水道
 
@@ -92,7 +92,7 @@
 至高大殿主体
 （由 Joannie Leblanc 绘制）
 
-至高大殿主体位于庭院之后，穿过一扇大型双开门。在入口区域，队伍可与建筑中央的大脑干互动。这样做会导致所有队伍成员变得[心智崩溃](Mindbroken_(Condition).md "心智崩溃（状态）")，从而需要通过几次[DC](Dice_rolls.md#Save_DCs "掷骰") 20 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")以防止被[震慑](Stunned_(Condition).md "震慑（状态）")。耐色脑宣称此处并非正确地点，队伍必须先上升以与其汇合。
+至高大殿主体位于庭院之后，穿过一扇大型双开门。在入口区域，队伍可与建筑中央的大脑干互动。这样做会导致所有队伍成员变得[心智崩溃](Mindbroken_(Condition).md "心智崩溃（状态）")，从而需要通过几次[DC](Dice_rolls.md#Save_DCs "掷骰") 20 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")以防止被[震慑](Stunned_(Condition).md "震慑（状态）")。主脑宣称此处并非正确地点，队伍必须先上升以与其汇合。
 
 小桌子上放着一份[庭登记册](Court_Register.md "庭登记册")。展示柜内有一瓶[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")和一卷[魅影杀手卷轴](Scroll_of_Phantasmal_Killer.md "魅影杀手卷轴")。
 
@@ -102,7 +102,7 @@
 
 向右（南侧）的路线类似地上行，某处一座*崩塌的雕像*挡路。可使用[推击](Shove.md "推击")将其推倒，需通过 DC 20 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定")。雕像倒下后，队伍可走过并继续前进。
 
-两段楼梯均通向至高大殿顶部的一扇门。如果至少一名队伍成员穿过此门走向[耐色脑](Netherbrain.md "耐色脑")的树干，战斗结束。抵达此处后，队伍可使用[恢复站](Restoration_pod.md "恢复站")（在硬核或荣誉[难度](Difficulty.md "难度")下不可用，建议使用替代方案）进行治疗，然后沿树干向上前往最终区域⁠[耐色脑顶部](Confront_the_Elder_Brain.md#Atop_the_Netherbrain "与主脑对峙")。
+两段楼梯均通向至高大殿顶部的一扇门。如果至少一名队伍成员穿过此门走向[主脑](Netherbrain.md "主脑")的树干，战斗结束。抵达此处后，队伍可使用[恢复站](Restoration_pod.md "恢复站")（在硬核或荣誉[难度](Difficulty.md "难度")下不可用，建议使用替代方案）进行治疗，然后沿树干向上前往最终区域⁠[主脑顶部](Confront_the_Elder_Brain.md#Atop_the_Netherbrain "与主脑对峙")。
 
 ## 相关任务
 

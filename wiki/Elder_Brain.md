@@ -8,7 +8,7 @@
 >
 > „
 
-— [明萨拉](Minthara.md "明萨拉")，在与玩家角色谈论想要控制[耐色脑](The_Netherbrain.md "耐色脑")时
+— [明萨拉](Minthara.md "明萨拉")，在与玩家角色谈论想要控制[主脑](The_Netherbrain.md "主脑")时
 
 ## 目录
 
@@ -23,7 +23,7 @@
 
 ## 著名主脑
 
-- [耐色脑](Netherbrain.md "耐色脑")
+- [主脑](Netherbrain.md "主脑")
 
 ## 相关文献
 

@@ -13,7 +13,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 1 |
 
-**苏里沙纳**是一位[龙裔](Dragonborn.md "龙裔")，可以在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[第三幕](Act_Three.md "第三幕")中找到。
+**苏里沙纳**是一位[龙裔](Dragonborn.md "龙裔")，可以在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[第三幕](Act_Three.md "第三幕")中找到。
 
 > “
 >

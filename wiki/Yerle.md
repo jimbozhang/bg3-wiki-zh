@@ -58,7 +58,7 @@
 
 ### 第二幕
 
-在[月出之塔](Moonrise_Towers.md "Moonrise Towers")中，Yerle开始对[绝对真神教](Cult_of_the_Absolute.md "Cult of the Absolute")表示担忧，因为该教派不再仅仅是“地精烙印屁股”，而是真正开始做正事了。
+在[月出之塔](Moonrise_Towers.md "Moonrise Towers")中，Yerle开始对[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")表示担忧，因为该教派不再仅仅是“地精烙印屁股”，而是真正开始做正事了。
 
 ## 战斗
 

@@ -13,7 +13,7 @@
 | 先攻 | 0 |
 | 经验值 | 1 |
 
-**醋蜘蛛**可在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[第三幕](Act_Three.md "Act Three")中遇到。
+**醋蜘蛛**可在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[第三幕](Act_Three.md "Act Three")中遇到。
 
 > “
 >

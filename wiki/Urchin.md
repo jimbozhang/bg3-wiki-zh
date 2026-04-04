@@ -62,7 +62,7 @@
 | [利文顿](Rivington.md "Rivington") | 135 | 捡到归己 | 帮助擅自占用者保住他们的[阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸")。 |
 | 135 | 毫不归还 | 从[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")获取捐赠品。队伍成员必须专门从上锁的箱子中拿取物品。 |  |
 | 135 | 量力而行 | 向大谷仓[捐赠](Nestor.md "Nestor")。 |  |
-| [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing") | 135 | 儿童安全 | 揭露[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")在其玩具中设置陷阱的行为。 |
+| [飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing") | 135 | 儿童安全 | 揭露[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")在其玩具中设置陷阱的行为。 |
 | 170 | 穿梭于犄角旮旯 | 在没有通行证或邀请的情况下进入[飞龙岩要塞](Wyrm's_Rock.md "Wyrm's Rock")。 |  |
 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "Wyrm's Rock Fortress") | 170 | 为他的离开和钱包减负 | 勒索[焰拳雷纳什](Fist_Reynash.md "焰拳雷纳什")。 |  |
 | 170 | 永远不要信任上位者 | 在不与[戈塔什](Enver_Gortash.md "Enver Gortash")达成协议的情况下击败他。 |  |

@@ -36,7 +36,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [隐匿](Stealthy.md "隐匿")
 
-**冒险家德瑞姆**是[弗雷戈招待所](Fraygo's_Flophouse.md "弗雷戈招待所")在[飞龙关](Wyrm's_Crossing.md "飞龙关")的一位客人，出现在[第三幕](Act_Three.md "第三幕")期间。
+**冒险家德瑞姆**是[弗雷戈招待所](Fraygo's_Flophouse.md "弗雷戈招待所")在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的一位客人，出现在[第三幕](Act_Three.md "第三幕")期间。
 
 > “
 >

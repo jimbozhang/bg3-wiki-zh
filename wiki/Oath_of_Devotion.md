@@ -170,7 +170,7 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[圣武
 - 在走私者洞穴中，支持[法尔林](Farlin.md "法尔林")对抗[凯罗斯](Ca%C3%AFros.md "凯罗斯")<sup>[\[1\]](#cite_note-1)</sup>
 - 作为[邪念](The_Dark_Urge.md "邪念")，向[古怪公牛](Strange_Ox.md "古怪公牛")透露玩家角色的堕落
 
-[飞龙关](Wyrm's_Crossing.md "飞龙关")/[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
+[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")/[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
 
 - 同意从阿尔弗·格雷戈里奥那里拿钱“忘记”他捐赠给难民的有缺陷玩具
 - 在授职仪式上接受[戈塔什](Gortash.md "戈塔什")的结盟提议

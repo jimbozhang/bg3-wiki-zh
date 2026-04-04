@@ -74,7 +74,7 @@
 
 攻击离开攻击范围的敌人。
 
-**索斯曼·乔瑞佐**是[第三幕](Act_Three.md "Act Three")期间[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")的厨师。
+**索斯曼·乔瑞佐**是[第三幕](Act_Three.md "Act Three")期间[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")的厨师。
 
 > “
 >

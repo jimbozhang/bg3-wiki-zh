@@ -70,7 +70,7 @@
 
 尽管在前两幕中实际上是队伍的盟友，焰拳在[第三幕](Act_Three.md "第三幕")中更多扮演中立或有时敌对的角色。在那里，凭借[钢铁卫士](Steel_Watcher.md "钢铁卫士")的增援，作为博德之门的警察和军事力量，他们可以在整个地区作为固定哨兵或移动巡逻队出现。还可以看到他们已经抵抗了[利文顿](Rivington.md "利文顿")外至上真神教部队的几次袭击。
 
-在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")，由[铁手埃德温娜](Edwynna.md "铁手埃德温娜")指挥的焰拳驻军和[钢铁卫士](Steel_Watcher.md "钢铁卫士")阻止队伍和难民进入[飞龙关](Wyrm's_Crossing.md "飞龙关")，迫使队伍要么潜入，要么向钢铁卫士投降，要么攻击焰拳。如果[铁手侏儒](Clan_Ironhand.md "铁手侏儒")在月出之塔被拯救，他们将制造干扰并使钢铁卫士瘫痪，为队伍提供通过的机会。然而，当检查点被越过时，[精卫法尔考](Falc%C3%A4o.md "精卫法尔考")试图雇佣队伍杀死铁手侏儒并带回[乌尔布伦·邦格力](Wulbren_Bongle.md "乌尔布伦·邦格力")的头颅。
+在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")，由[铁手埃德温娜](Edwynna.md "铁手埃德温娜")指挥的焰拳驻军和[钢铁卫士](Steel_Watcher.md "钢铁卫士")阻止队伍和难民进入[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")，迫使队伍要么潜入，要么向钢铁卫士投降，要么攻击焰拳。如果[铁手侏儒](Clan_Ironhand.md "铁手侏儒")在月出之塔被拯救，他们将制造干扰并使钢铁卫士瘫痪，为队伍提供通过的机会。然而，当检查点被越过时，[精卫法尔考](Falc%C3%A4o.md "精卫法尔考")试图雇佣队伍杀死铁手侏儒并带回[乌尔布伦·邦格力](Wulbren_Bongle.md "乌尔布伦·邦格力")的头颅。
 
 在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")前，[烈焰艾琳](Elin.md "烈焰艾琳")禁止任何人在[戈塔什](Gortash.md "戈塔什")加冕期间进入要塞。可以通过多种[欺瞒](Deception.md "欺瞒")检定、一次[游说](Persuasion.md "游说")检定和20,000[金币](Gold.md "金币")、使用从[瓦莱里亚](Valeria.md "瓦莱里亚")或[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")获得的[下城区通行证](Lower_City_Pass.md "下城区通行证")、使用[雷文伽德公爵紧急报告](Urgent_Report_for_Duke_Ravengard.md "雷文伽德公爵紧急报告")来说服她，或者通过从要塞下方绕行或使用[飞行](Fly.md "飞行")动作完全避开她。
 
@@ -357,7 +357,7 @@
   - ⁠[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")
   - ⁠[南翼检查点](South_Span_Checkpoint.md "南翼检查点")
 - ⁠[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")
-- ⁠[飞龙关](Wyrm's_Crossing.md "飞龙关")
+- ⁠[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
   - ⁠[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
   - ⁠[飞龙岩监狱](Wyrm's_Rock_Prison.md "飞龙岩监狱")
 

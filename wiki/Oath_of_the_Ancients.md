@@ -179,7 +179,7 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[圣武
 - 为[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")地下室的新生夺心魔提供尸体作为食物
 - 作为[邪念](The_Dark_Urge.md "邪念"), 向[古怪公牛](Strange_Ox.md "古怪公牛")透露玩家角色的堕落
 
-[飞龙关](Wyrm's_Crossing.md "飞龙关")/[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
+[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")/[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
 
 - 同意收取阿尔弗·格雷戈里奥的金币以“忘记”他捐赠给难民的被动过手脚的玩具
 - 在授职仪式上接受[戈塔什](Gortash.md "戈塔什")的结盟提议

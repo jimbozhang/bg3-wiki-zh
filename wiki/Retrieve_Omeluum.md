@@ -35,7 +35,7 @@
 
 ### 第三章
 
-如果[偷一枚吉斯洋基蛋](Steal_a_Githyanki_Egg.md "Steal a Githyanki Egg")任务已解决，且[埃斯特女士](Esther.md "Esther")未获得[吉斯洋基蛋](Githyanki_Egg.md "Githyanki Egg")，队伍可以在[光耀会会馆](Society_of_Brilliance_Lodge.md "Society of Brilliance Lodge")遇见[奥米伦](Omeluum.md "Omeluum")的伙伴[布尔格](Blurg.md "Blurg")。布尔格告知队伍，他们两人都已返回博德之门，向[光耀会](Society_of_Brilliance.md "Society of Brilliance")报告关于队伍状况的发现。然而，不久之后奥米伦决定自行调查情况并失踪了。布尔格说他的朋友认为问题与[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")有关。他似乎并不太担心奥米伦的下落，但如果队伍提议追踪这位灵吸怪，他会同意。
+如果[偷一枚吉斯洋基蛋](Steal_a_Githyanki_Egg.md "Steal a Githyanki Egg")任务已解决，且[埃斯特女士](Esther.md "Esther")未获得[吉斯洋基蛋](Githyanki_Egg.md "Githyanki Egg")，队伍可以在[光耀会会馆](Society_of_Brilliance_Lodge.md "Society of Brilliance Lodge")遇见[奥米伦](Omeluum.md "Omeluum")的伙伴[布尔格](Blurg.md "Blurg")。布尔格告知队伍，他们两人都已返回博德之门，向[光耀会](Society_of_Brilliance.md "Society of Brilliance")报告关于队伍状况的发现。然而，不久之后奥米伦决定自行调查情况并失踪了。布尔格说他的朋友认为问题与[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")有关。他似乎并不太担心奥米伦的下落，但如果队伍提议追踪这位灵吸怪，他会同意。
 
 除了布尔格模糊的假设外，没有明确的线索表明从何处开始搜索。然而，如果帮助了[赞纳·图宾](Zanner_Toobin.md "Zanner Toobin")或[安博里](Umberlee.md "Umberlee")的仆人（分别为任务[解救贡德信徒](Save_the_Gondians.md "Save the Gondians")和[为溺死鬼复仇](Avenge_the_Drowned.md "Avenge the Drowned")），当停靠在[钢铁王座](Iron_Throne.md "Iron Throne")时，奥米伦会通过心灵感应联系队伍。它无私地促使队伍拯救同样被关在水下监狱的[雷文伽德公爵](Ulder_Ravengard.md "Ulder Ravengard")，并叮嘱队伍不必担心它的命运。尽管如此，我们仍有可能在拯救雷文伽德和部分（或全部）[贡德信徒](Gond.md "Gond")俘虏的同时，也拯救这位叛逃的灵吸怪。
 

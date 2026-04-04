@@ -19,7 +19,7 @@
 
 威林克斯在遭遇时总是敌对的。她与她的盟友死灵法师 [达基·维利什](Duckie_Verish.md "Duckie Verish") 和 [萨拉贝勒](Sarabayle.md "Sarabayle") 一起，包抄了任何擅闯监狱的人所遇到的亡灵大军。
 
-与 [绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute") 的狂热者、学徒和其他成员不同，萨拉贝勒和其他 [灵魂侍女](Mistress_of_Souls.md "Mistress of Souls") 似乎完全清楚绝对真神是什么，以及他们正在实施的宗教骗局。<sup>[\[2\]](#cite_note-2)</sup> 这种更深刻的理解（以及随之而来的蔑视）也由其他服务于 [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm") 的高级米尔寇死灵法师所共享，[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter") 哀叹她所面对的被感染者奴性太弱，而 [巴萨扎尔](Balthazar.md "Balthazar") 则用玩家角色的蠕虫感染状态作为辱骂。
+与 [至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute") 的狂热者、学徒和其他成员不同，萨拉贝勒和其他 [灵魂侍女](Mistress_of_Souls.md "Mistress of Souls") 似乎完全清楚至上真神是什么，以及他们正在实施的宗教骗局。<sup>[\[2\]](#cite_note-2)</sup> 这种更深刻的理解（以及随之而来的蔑视）也由其他服务于 [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm") 的高级米尔寇死灵法师所共享，[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter") 哀叹她所面对的被感染者奴性太弱，而 [巴萨扎尔](Balthazar.md "Balthazar") 则用玩家角色的蠕虫感染状态作为辱骂。
 
 赢得战斗会为具有 [士兵](Soldier.md "Soldier") 背景的队伍成员获得 ⁠[挑骨寻衅](Soldier.md#A_Bone_To_Pick "Soldier")。
 

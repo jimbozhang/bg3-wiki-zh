@@ -68,7 +68,7 @@
 
 攻击离开攻击范围的敌人。
 
-**费蓊·金磨**是一具死去的[矮人](Dwarf.md "Dwarf")尸体，可以在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[第三幕](Act_Three.md "Act Three")中找到。
+**费蓊·金磨**是一具死去的[矮人](Dwarf.md "Dwarf")尸体，可以在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[第三幕](Act_Three.md "Act Three")中找到。
 
 > “
 >

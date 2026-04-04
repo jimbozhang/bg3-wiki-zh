@@ -76,9 +76,9 @@
 
 ### 第三幕
 
-镜头可以在[利文顿](Rivington.md "利文顿")的[剑湾快递](Sword_Coast_Couriers.md "剑湾快递")北边、通往[飞龙关](Wyrm's_Crossing.md "飞龙关")的桥旁找到。镜头在队伍经过时向他们打招呼，并告知她正在收集关于城市对难民关闭大门的信息。她可以指引队伍前往博德之口公报以启动[阻止刊发](Stop_the_Presses.md "阻止刊发")。
+镜头可以在[利文顿](Rivington.md "利文顿")的[剑湾快递](Sword_Coast_Couriers.md "剑湾快递")北边、通往[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的桥旁找到。镜头在队伍经过时向他们打招呼，并告知她正在收集关于城市对难民关闭大门的信息。她可以指引队伍前往博德之口公报以启动[阻止刊发](Stop_the_Presses.md "阻止刊发")。
 
-如果队伍尚未遇到[奥林](Orin.md "奥林")两次，她可能会伪装成镜头，并询问几个关于他们战胜[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")以及对[耐色脑](Netherbrain.md "耐色脑")计划的问题。真正的镜头的尸体稍后可以在[巴尔神殿](Bhaal_Temple.md "巴尔神殿")找到。完成奥林的“采访”会获得以下激励点：
+如果队伍尚未遇到[奥林](Orin.md "奥林")两次，她可能会伪装成镜头，并询问几个关于他们战胜[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")以及对[主脑](Netherbrain.md "主脑")计划的问题。真正的镜头的尸体稍后可以在[巴尔神殿](Bhaal_Temple.md "巴尔神殿")找到。完成奥林的“采访”会获得以下激励点：
 
 - [新闻稿](Noble.md#Press_Release "新闻稿") ([贵族](Noble.md "贵族")背景)
 - [大嘴巴](Entertainer.md#Blabbermouth "大嘴巴") ([艺人](Entertainer.md "艺人")背景)

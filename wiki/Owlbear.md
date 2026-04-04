@@ -100,7 +100,7 @@
 
   - 当被攻击时，枭熊可以召唤她的配偶来保护她。
 
-**枭熊**是一种野兽类生物，在[第一幕](Act_One.md "Act_One")的[枭熊巢穴](Owlbear_Nest.md "Owlbear Nest")中作为可选的首领战出现。它们形似长着猫头鹰头部的大型羽熊，易怒、强壮且似乎食欲旺盛。尽管领地意识极强，但枭熊母亲最近被[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")所伤，导致她明显虚弱。
+**枭熊**是一种野兽类生物，在[第一幕](Act_One.md "Act_One")的[枭熊巢穴](Owlbear_Nest.md "Owlbear Nest")中作为可选的首领战出现。它们形似长着猫头鹰头部的大型羽熊，易怒、强壮且似乎食欲旺盛。尽管领地意识极强，但枭熊母亲最近被[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")所伤，导致她明显虚弱。
 
 ## 目录
 

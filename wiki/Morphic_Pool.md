@@ -14,7 +14,7 @@
 >
 > „
 
-— [盖尔](Gale.md "盖尔")，关于面对[耐色脑](Netherbrain.md "耐色脑")的前景
+— [盖尔](Gale.md "盖尔")，关于面对[主脑](Netherbrain.md "主脑")的前景
 
 ## 目录
 
@@ -83,7 +83,7 @@
 
 通往塑境秘潭水域的下坡路
 
-沿着下坡路走会到达塑境秘潭水域。主脑多次尝试使用[精神崩溃](Mindbroken_(Condition).md "精神崩溃 (状态)")破坏队伍的心智，再次需要通过多个 DC 20 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")以避免[震慑](Stunned_(Condition).md "震慑 (状态)")。一旦到达水域，队伍（以及在场的戈塔什）控制[耐色石](Netherstone.md "耐色石")以对抗主脑，主脑从水中缓缓升起，已成为[耐色脑](The_Netherbrain.md "耐色脑")。
+沿着下坡路走会到达塑境秘潭水域。主脑多次尝试使用[精神崩溃](Mindbroken_(Condition).md "精神崩溃 (状态)")破坏队伍的心智，再次需要通过多个 DC 20 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")以避免[震慑](Stunned_(Condition).md "震慑 (状态)")。一旦到达水域，队伍（以及在场的戈塔什）控制[耐色石](Netherstone.md "耐色石")以对抗主脑，主脑从水中缓缓升起，已成为[主脑](The_Netherbrain.md "主脑")。
 
 ## 相关地点
 
@@ -99,7 +99,7 @@
 - [德罗利亚斯·迪斯特利斯](Droralias_Dryselis.md "德罗利亚斯·迪斯特利斯") - 已故
 - [恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")[(5)](#cite_note-5)
 - [莉丝特亚·德塞利斯](Listelia_Dryselis.md "莉丝特亚·德塞利斯") - 已故
-- [耐色脑](The_Netherbrain.md "耐色脑")
+- [主脑](The_Netherbrain.md "主脑")
 
 ### 生物
 

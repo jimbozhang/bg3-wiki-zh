@@ -80,11 +80,11 @@
 
 ### 痛苦的母亲
 
-绝望的母亲罗拉可以在[石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "Basilisk Gate Barracks")的 X: 155 Y: -14 处找到，她正在愤怒地对烈焰拳[莉亚拉·波提尔](Liara_Portyr.md "Liara Portyr")大喊大叫。如果队伍询问发生了什么，罗拉解释说她的女儿[万娜](Vanra_Bergauz.md "Vanra Bergauz")失踪了，烈焰拳说他们有线索。然而，她发泄着她的沮丧，因为她已经向莉亚拉解释了好几次。
+绝望的母亲罗拉可以在[石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "Basilisk Gate Barracks")的 X: 155 Y: -14 处找到，她正在愤怒地对焰拳[莉亚拉·波提尔](Liara_Portyr.md "Liara Portyr")大喊大叫。如果队伍询问发生了什么，罗拉解释说她的女儿[万娜](Vanra_Bergauz.md "Vanra Bergauz")失踪了，焰拳说他们有线索。然而，她发泄着她的沮丧，因为她已经向莉亚拉解释了好几次。
 
 被动 DC 15 的[奥秘](Arcana.md "Arcana")[属性检定](Ability_Check.md "属性检定")会揭示莉亚拉周围有微弱的魔法痕迹。通过另一个奥秘检定会发现她的记忆被魔法篡改了，让她立刻忘记了罗拉为什么在那里：
 
-- [奥秘] _检查烈焰拳。_ (DC 18)
+- [奥秘] _检查焰拳。_ (DC 18)
 
 无论选择哪个选项，队伍都可以选择帮助罗拉寻找她的女儿，从而开始任务。然后罗拉描述了万娜，并补充说她最后被看到是在[脸红的美人鱼](Blushing_Mermaid.md "Blushing Mermaid")。
 

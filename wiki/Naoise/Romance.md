@@ -114,7 +114,7 @@ UUID
 
 `Elf_Commoner`
 
-**妮夏·纳林托**是一位在[飞龙关](../Wyrm's_Crossing.md "飞龙关")的[夏芮丝的爱抚](../Sharess'_Caress.md "夏芮丝的爱抚")工作的[木精灵](../Wood_elf.md "木精灵")交际花。
+**妮夏·纳林托**是一位在[飞龙岩要塞](../Wyrm's_Crossing.md "飞龙岩要塞")的[夏芮丝的爱抚](../Sharess'_Caress.md "夏芮丝的爱抚")工作的[木精灵](../Wood_elf.md "木精灵")交际花。
 
 > “
 >

@@ -34,7 +34,7 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**烈焰艾琳**是一名[人类](Human.md "人类")[法师](Wizard.md "法师")，也是[焰拳](Flaming_Fist.md "焰拳")的一员。她可以在[第三章](Act_Three.md "第三章")的[飞龙关](Wyrm's_Crossing.md "飞龙关")找到。
+**烈焰艾琳**是一名[人类](Human.md "人类")[法师](Wizard.md "法师")，也是[焰拳](Flaming_Fist.md "焰拳")的一员。她可以在[第三章](Act_Three.md "第三章")的[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")找到。
 
 > “
 >

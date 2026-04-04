@@ -64,7 +64,7 @@
 
 ### 第三章
 
-如果从[南翼检查点](South_Span_Checkpoint.md "南翼检查点")进入[飞龙关](Wyrm's_Crossing.md "飞龙关")，队伍必须支付罚款并接受该处[钢铁卫士](Steel_Watcher.md "钢铁卫士")的扫描。如果攻击或（扫描后）接受监禁，灵博和[拉里达](Laridda.md "拉里达")（如果存活）会跑过并朝卫士投掷一枚[闪光弹](Flashblinder.md "闪光弹")手雷。然后他们通过飞龙关西侧的替代入口逃往[角铁地窖](Angleiron's_Cellar.md "角铁地窖")。
+如果从[南翼检查点](South_Span_Checkpoint.md "南翼检查点")进入[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")，队伍必须支付罚款并接受该处[钢铁卫士](Steel_Watcher.md "钢铁卫士")的扫描。如果攻击或（扫描后）接受监禁，灵博和[拉里达](Laridda.md "拉里达")（如果存活）会跑过并朝卫士投掷一枚[闪光弹](Flashblinder.md "闪光弹")手雷。然后他们通过飞龙岩要塞西侧的替代入口逃往[角铁地窖](Angleiron's_Cellar.md "角铁地窖")。
 
 灵博和拉里达之后可以在角铁地窖遇到，通过南翼检查点附近的岩石开口进入。
 

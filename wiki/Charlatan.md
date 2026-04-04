@@ -68,7 +68,7 @@
 | [底城区](Undercity.md "底城区") | 170 | 底层的朋友 | 通过[图斯格朗特](Tusgront.md "图斯格朗特")进入[公会大厅](Guildhall.md "公会大厅")。 |  |
 | 220 | 信守诺言的女人 | 支持[九指](Nine-Fingers.md "九指")对抗[散塔林会](Zhentarim.md "散塔林会")。在[协助地下势力](Aid_the_Underduke.md "协助地下势力")结束时，支持九指。 |  |
 | 220 | 黄金翼蛇 | 支持散塔林会对抗九指。在协助地下势力结束时，支持散塔林会。[罗阿·月光](Roah_Moonglow.md "罗阿·月光")或[弗里奥尔](Friol.md "弗里奥尔")必须在任务[找回拉凯斯的金子](Return_Rakath's_Gold.md "找回拉凯斯的金子")的[废弃蓄水池](Abandoned_Cistern.md "废弃蓄水池")中存活并逃到公会大厅。 |  |
-| [飞龙关](Wyrm's_Crossing.md "飞龙关") | 170 | 并非绝对可靠 | 躲避[南翼检查点](South_Span_Checkpoint.md "南翼检查点")的逮捕。 |  |
+| [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞") | 170 | 并非绝对可靠 | 躲避[南翼检查点](South_Span_Checkpoint.md "南翼检查点")的逮捕。 |  |
 | 170 | 不在场证明 | 成功说服[焰拳](Elin.md "艾琳")让你进入飞龙岩。 |  |
 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") | 135 | 万物皆可交易 | 说服[阿克莱娅·奥洛瑞尔](Arkleia_Oloril.md "阿克莱娅·奥洛瑞尔")与你交易。 |
 

@@ -53,7 +53,7 @@
 
 [装备定位器 (第二章)](Guide_colon_Gear_locator_(Act_Two).md)
 
-[保证对耐色脑掷出99点](Guide_colon_Guaranteeing_a_99_Roll_Against_the_Netherbrain.md "Guide:保证对耐色脑掷出99点")
+[保证对主脑掷出99点](Guide_colon_Guaranteeing_a_99_Roll_Against_the_Netherbrain.md "Guide:保证对主脑掷出99点")
 
 [失落之镜](Guide_colon_Mirror_of_Loss.md "Guide:失落之镜")
 

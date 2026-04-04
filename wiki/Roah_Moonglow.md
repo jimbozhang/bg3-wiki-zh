@@ -51,7 +51,7 @@
 
 ### 第二章
 
-散塔林会商人可以在[月出之塔](Moonrise_Towers.md "Moonrise Towers")的入口大厅再次遇到，坐标 X: -174 Y: -176。罗阿提到她为绝对真理教派进行有利可图的走私活动。[游荡者](Rogue.md "Rogue")获得特殊对话选项，使用盗贼黑话要求折扣，拥有[罪犯](Criminal.md "Criminal")背景的队伍成员在与罗阿交易时会获得激励点⁠[战争暴利者](Criminal.md#War_Profiteer "Criminal")。
+散塔林会商人可以在[月出之塔](Moonrise_Towers.md "Moonrise Towers")的入口大厅再次遇到，坐标 X: -174 Y: -176。罗阿提到她为至上真神教派进行有利可图的走私活动。[游荡者](Rogue.md "Rogue")获得特殊对话选项，使用盗贼黑话要求折扣，拥有[罪犯](Criminal.md "Criminal")背景的队伍成员在与罗阿交易时会获得激励点⁠[战争暴利者](Criminal.md#War_Profiteer "Criminal")。
 
 ### 第三章
 

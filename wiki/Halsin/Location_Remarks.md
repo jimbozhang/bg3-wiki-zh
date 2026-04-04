@@ -25,7 +25,7 @@
     - [2.1.3 剑湾快递](#sword-coast-couriers)
     - [2.1.4 慈爱神殿](#open-hand-temple)
     - [2.1.5 阿尔弗的宅邸](#arfur's-mansion)
-  - [2.2 飞龙关](#wyrm's-crossing)
+  - [2.2 飞龙岩要塞](#wyrm's-crossing)
     - [2.2.1 丹瑟隆的飞斧](#danthelon's-dancing-axe)
     - [2.2.2 弗雷戈招待所](#fraygo's-flophouse)
   - [2.3 飞龙岩要塞](#wyrm's-rock-fortress)
@@ -55,7 +55,7 @@
   - [3.1 塑境秘潭](#morphic-pool)
   - [3.2 星界](#astral-plane)
   - [3.3 至高大殿](#the-high-hall)
-  - [3.4 耐色脑顶部](#atop-the-netherbrain)
+  - [3.4 主脑顶部](#atop-the-netherbrain)
 - [4 未激活/已删除的地点台词](#inactive/Cut_Location_Remarks)
 - [5 注释](#notes)
 
@@ -406,7 +406,7 @@
 - _(在[强制征用的谷仓](../Requisitioned_Barn.md "Requisitioned Barn")发现填充熊，知晓其故事)：_“熊？不是最体面的描绘……”
 - _(不知其故事)：_“玩具制造商的信里提到了被动手脚的熊。最好小心点。”
 
-### [飞龙关](../Wyrm's_Crossing.md "Wyrm's Crossing")
+### [飞龙岩要塞](../Wyrm's_Crossing.md "Wyrm's Crossing")
 
 - _(遇见[拉斐尔](../Raphael.md "Raphael")的信使)：_“等等——他是不是塞了什么东西给我？”
 

@@ -56,7 +56,7 @@
 - ⁠[钢铁王座](Iron_Throne.md "钢铁王座")：在回合计数器到期前未能逃脱该区域。（仅当没有队伍成员成功返回潜艇时。）
 - ⁠[履行契约](Fulfill_the_Deal.md "履行契约")：在与拉斐尔对话时，如果队伍之前未接受他的交易或在导致君主抛弃队伍前未偷取[俄耳甫斯之锤](Orphic_Hammer.md "俄耳甫斯之锤")。在[星界](Astral_Plane.md "星界")内此时拒绝拉斐尔的交易会导致即时游戏结束。
 - 在进入星界后于对话外攻击[君主](The_Emperor.md "君主")，从而在就“决定王子的命运”做出选择之前。
-- ⁠[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")：在回合计数器到期前未能击败[耐色脑](The_Netherbrain.md "耐色脑")。
+- ⁠[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")：在回合计数器到期前未能击败[主脑](The_Netherbrain.md "主脑")。
 
 ## 尾声
 

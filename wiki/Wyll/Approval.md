@@ -38,8 +38,8 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "App
   - [2.4 同伴任务](#companion-quest-2)
 - [3 第三幕](#act-three)
   - [3.1 地点](#locations-3)
-    - [3.1.1 里文顿](#rivington)
-    - [3.1.2 飞龙关](#wyrm's-crossing)
+    - [3.1.1 利文顿](#rivington)
+    - [3.1.2 飞龙岩要塞](#wyrm's-crossing)
     - [3.1.3 飞龙岩要塞](#wyrm's-rock-fortress)
     - [3.1.4 下城区](#lower-city)
   - [3.2 营地和对话](#campsite-and-conversations-3)
@@ -68,9 +68,9 @@ _**注：** 招募本身不会给予额外的好感度_
 
 _在[林地深处](../The_Hollow.md "The Hollow")：_
 
-- 说服[阿拉丁](../Aradin_Beno.md "Aradin Beno")和[泽弗洛尔](../Zevlor.md "Zevlor")停止争吵，且不殴打任何一方（使用[游说](../Persuasion.md "Persuasion")或[威吓](../Intimidation.md "Intimidation")）（+1）
-  - 或者在阿拉丁与泽弗洛尔争吵时打阿拉丁一拳（+1）
-- 向泽弗洛尔承诺你会与[卡加](../Kagha.md "Kagha")谈谈停止仪式的事（+5）_（无论是在入口处的场景后还是在他的洞穴中）_
+- 说服[阿拉丁](../Aradin_Beno.md "Aradin Beno")和[赛夫洛](../Zevlor.md "Zevlor")停止争吵，且不殴打任何一方（使用[游说](../Persuasion.md "Persuasion")或[威吓](../Intimidation.md "Intimidation")）（+1）
+  - 或者在阿拉丁与赛夫洛争吵时打阿拉丁一拳（+1）
+- 向赛夫洛承诺你会与[卡加](../Kagha.md "Kagha")谈谈停止仪式的事（+5）_（无论是在入口处的场景后还是在他的洞穴中）_
 - 告诉[阿尔卡](../Arka.md "Arka")为[卡农](../Kanon.md "Kanon")的死寻求复仇（+1）_（如果[梅姆诺斯](../Memnos.md "Memnos")也死了，此选项同样可用并给予好感度；[邪念](../Haunted_One.md "Haunted One")角色有独特台词，但仅在[梅姆诺斯](../Memnos.md "Memnos")死亡时获得好感度）_
 - 在林地深处招募威尔时，提议一起猎杀魔鬼（即[卡菈克](../Karlach.md "Karlach")）（+5）
 - 协助[格克斯](../Guex.md "Guex")训练（使用[运动](../Athletics.md "Athletics")、[洞察](../Insight.md "Insight")、[侦测思想](../Detect_Thoughts.md "Detect Thoughts")或独特的[吉斯洋基人](../Githyanki.md "Githyanki")、[野蛮人](../Barbarian.md "Barbarian")、[武僧](../Monk.md "Monk")台词）（+1）_（任选其一）_
@@ -95,10 +95,10 @@ _在[圣池](../Sacred_Pool.md "Sacred Pool")和德鲁伊洞穴中：_
 
 _**注：** 无论你是否成功说服她对抗暗影德鲁伊，都会给予好感度_
 
-- 在泽弗洛尔要求你杀死她后攻击卡加（+1）
+- 在赛夫洛要求你杀死她后攻击卡加（+1）
 - 告诉[希尔弗](../Silver.md "Silver")这只狼你只是想给它你的气味（使用[动物交谈](../Speak_with_Animals.md "Speak with Animals")）（+1）
   - 或者，扮演[游侠](../Ranger.md "Ranger")或[德鲁伊](../Druid.md "Druid")时，与希尔弗坐在一起（无需[动物交谈](../Speak_with_Animals.md "Speak with Animals")）（+1）
-- 同意为泽弗洛尔杀死地精部落的首领（+5）
+- 同意为赛夫洛杀死地精部落的首领（+5）
 - 帮助[阿尔菲拉](../Alfira.md "Alfira")完成她的歌曲（+1）
 - 如果你因偷窃[西凡那斯神像](../Idol_of_Silvanus.md "Idol of Silvanus")而被质问，归还神像并道歉（+1）
 
@@ -111,7 +111,7 @@ _**注：** 此好感度可在袭击前或击败地精后获得_
 
 - 告诉[潘迪尔娜](../Pandirna.md "Pandirna")他们有为之战斗的东西（+1）
 - 拒绝为[明萨拉](../Minthara.md "Minthara")打开大门（+5）
-- 成功保卫林地后与泽弗洛尔交谈（+15）
+- 成功保卫林地后与赛夫洛交谈（+15）
 
 #### [日照湿地](../Sunlit_Wetlands.md "Sunlit Wetlands")/[腐臭沼泽](../Putrid_Bog.md "Putrid Bog")
 
@@ -619,10 +619,10 @@ _与[艾琳](../Aylin.md "Aylin")交谈，如果你让[巴尔萨扎](../Balthaza
 
 _与[塞丽丝](../Cerys.md "Cerys")交谈：_
 
-- 告诉她你很高兴他们安全，并提到[泽弗洛尔](../Zevlor.md "Zevlor")已尽力（+1）
+- 告诉她你很高兴他们安全，并提到[赛夫洛](../Zevlor.md "Zevlor")已尽力（+1）
 - 告诉塞丽丝其他人会仰望她（+1）
 - 说没有贾希拉的帮助你无法完成（+1）
-  - 然后告诉她不要说死者的坏话（即泽弗洛尔）（+1）
+  - 然后告诉她不要说死者的坏话（即赛夫洛）（+1）
 - 告诉她[夜莺](../Aylin.md "Aylin")是真正的英雄（+1）
   - 说人们做工作是有报酬的，当塞丽丝回答她没有钱时，说你在开玩笑（+1）
 

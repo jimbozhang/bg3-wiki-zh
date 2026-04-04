@@ -40,7 +40,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [上等材质](Superior_Material_(-1).md "上等材质 (-1)")
 
-**冒险家罗姗娜**是[飞龙关](Wyrm's_Crossing.md "飞龙关")的[弗雷戈招待所](Fraygo's_Flophouse.md "弗雷戈招待所")在[第三幕](Act_Three.md "第三幕")期间的一位客人。
+**冒险家罗姗娜**是[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[弗雷戈招待所](Fraygo's_Flophouse.md "弗雷戈招待所")在[第三幕](Act_Three.md "第三幕")期间的一位客人。
 
 > “
 >

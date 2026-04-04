@@ -296,7 +296,7 @@
 
 #### 解锁方式
 
-将[感知护符](Sentient_Amulet.md "Sentient Amulet")从[复仇之炉](Grymforge.md "Grymforge")带到[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")下的棺材处，完成[帮助被诅咒的僧侣](Help_the_Cursed_Monk.md "Help the Cursed Monk")。必须选择自己接受诅咒。
+将[感知护符](Sentient_Amulet.md "Sentient Amulet")从[复仇之炉](Grymforge.md "Grymforge")带到[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")下的棺材处，完成[帮助被诅咒的僧侣](Help_the_Cursed_Monk.md "Help the Cursed Monk")。必须选择自己接受诅咒。
 
 如果体质/感知豁免失败，可能会损失感知。如果选择自己接受诅咒，[感知护符（稀有）](Sentient_Amulet_(Rare).md "Sentient Amulet (Rare)")将失去所有能力。
 

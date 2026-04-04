@@ -27,7 +27,7 @@
     - [3.2.2 战利品与任务奖励[12]](#loot-&_Quest_rewards%5B12%5D)
   - [3.3 第三幕](#第三幕)
     - [3.3.1 真魂者](#真魂者)
-    - [3.3.2 战利品（利文顿与飞龙关）](#loot-(Rivington_and_Wyrm's_Crossing))
+    - [3.3.2 战利品（利文顿与飞龙岩要塞）](#loot-(Rivington_and_Wyrm's_Crossing))
     - [3.3.3 战利品（下城区）](#loot-(Lower_City))
     - [3.3.4 任务奖励](#任务奖励)
     - [3.3.5 部分灵吸怪](#部分灵吸怪)
@@ -215,7 +215,7 @@
 - [夺心魔（风车）](Mind_flayer_(windmill).md "夺心魔（风车）")<sup>[\[16\]](#cite_note-brain-16)</sup>
 - [萨利·弗莱姆](Sally_Flymm.md "萨利·弗莱姆")
 
-#### 战利品（[利文顿](Rivington.md "利文顿")与[飞龙关](Wyrm's_Crossing.md "飞龙关")）
+#### 战利品（[利文顿](Rivington.md "利文顿")与[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")）
 
 - 1 个 - 在利文顿码头的一个桶上 X: -225 Y: 108。
 - 1 个 - 在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")顶层的上锁镀金箱子中 X: -32 Y: 219<sup>[\[17\]](#cite_note-17)</sup>

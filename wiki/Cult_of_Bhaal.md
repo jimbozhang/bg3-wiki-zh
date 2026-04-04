@@ -19,7 +19,7 @@
 
 ### 第二幕
 
-[奥林](Orin.md "奥林")被揭示为巴尔的选民。在[月出之塔](Moonrise_Towers.md "月出之塔")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，奥林与[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")和[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")同行。人们发现死亡三神——[灾祸](Bane_(God).md), 巴尔，以及[米尔寇](Myrkul.md "米尔寇")——再次结盟，让他们的选民创建至上真神教团。利用她的[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")——巴尔之鞭，奥林命令[耐色脑](Netherbrain.md "耐色脑")让至上真神的军队向[博德之门](Baldur's_Gate.md "博德之门")进军。
+[奥林](Orin.md "奥林")被揭示为巴尔的选民。在[月出之塔](Moonrise_Towers.md "月出之塔")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，奥林与[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")和[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")同行。人们发现死亡三神——[灾祸](Bane_(God).md), 巴尔，以及[米尔寇](Myrkul.md "米尔寇")——再次结盟，让他们的选民创建至上真神教团。利用她的[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")——巴尔之鞭，奥林命令[主脑](Netherbrain.md "主脑")让至上真神的军队向[博德之门](Baldur's_Gate.md "博德之门")进军。
 
 ### 第三幕
 

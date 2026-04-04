@@ -33,7 +33,7 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**药水师霍斯特**是[飞龙关](Wyrm's_Crossing.md "飞龙关")在[第三幕](Act_Three.md "第三幕")期间的一名[商人](Trader.md "商人")。
+**药水师霍斯特**是[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")在[第三幕](Act_Three.md "第三幕")期间的一名[商人](Trader.md "商人")。
 
 > “
 >

@@ -57,7 +57,7 @@
 
 巴克斯可以与其余的铁手侏儒一起在[角铁地窖](Angleiron's_Cellar.md "角铁地窖")遇到。他要求队伍*不要*帮助乌尔布伦，并放过贡德信徒。
 
-后来，如果[赞纳·图宾](Zanner_Toobin.md "赞纳·图宾")和任何其他幸存的贡德信徒成功从[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")获救，可以说服巴克斯领导[铁手侏儒](Clan_Ironhand.md "铁手氏族")而不是乌尔布伦。如果通过[游说](Persuasion.md "游说")检定，他会被招募参加[召集盟友](Gather_Your_Allies.md "召集盟友")，并在对抗[耐色脑](The_Netherbrain.md "耐色脑")的战斗中授予所有伙伴[铁手掷弹兵](Ironhand_Grenadiers.md "铁手掷弹兵")动作。<sup>[\[3\]](#cite_note-3)</sup>
+后来，如果[赞纳·图宾](Zanner_Toobin.md "赞纳·图宾")和任何其他幸存的贡德信徒成功从[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")获救，可以说服巴克斯领导[铁手侏儒](Clan_Ironhand.md "铁手氏族")而不是乌尔布伦。如果通过[游说](Persuasion.md "游说")检定，他会被招募参加[召集盟友](Gather_Your_Allies.md "召集盟友")，并在对抗[主脑](The_Netherbrain.md "主脑")的战斗中授予所有伙伴[铁手掷弹兵](Ironhand_Grenadiers.md "铁手掷弹兵")动作。<sup>[\[3\]](#cite_note-3)</sup>
 
 ## 死者交谈
 

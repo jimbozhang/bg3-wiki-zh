@@ -16,7 +16,7 @@
 
 ## 获取地点
 
-- [伊尔明斯特的图书馆](Elminster's_Library.md "伊尔明斯特的图书馆")，位于[飞龙关](Wyrm's_Crossing.md "飞龙关")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")。坐标：X: 7 Y: 110
+- [伊尔明斯特的图书馆](Elminster's_Library.md "伊尔明斯特的图书馆")，位于[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")。坐标：X: 7 Y: 110
 - [地精营地](Goblin_Camp.md "地精营地")。坐标：X: -104 Y: 403
 
 ## 备注

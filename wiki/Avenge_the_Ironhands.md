@@ -1,6 +1,6 @@
 # 为铁手侏儒复仇
 
-**为铁手侏儒复仇**是《博德之门3》[第三幕](Act_Three.md "Act Three")中的一个[任务](Quest.md "Quest")。可以通过在[第二幕](Act_Two.md "Act Two")结束时在[月出之塔](Moonrise_Towers.md "Moonrise Towers")与[乌尔布伦](Wulbren.md "Wulbren")交谈，或在[利文顿](Rivington.md "Rivington")接近[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的大门来触发。
+**为铁手侏儒复仇**是《博德之门3》[第三幕](Act_Three.md "Act Three")中的一个[任务](Quest.md "Quest")。可以通过在[第二幕](Act_Two.md "Act Two")结束时在[月出之塔](Moonrise_Towers.md "Moonrise Towers")与[乌尔布伦](Wulbren.md "Wulbren")交谈，或在[利文顿](Rivington.md "Rivington")接近[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的大门来触发。
 
 > “
 >

@@ -206,7 +206,7 @@
 
 - UID `ARM_Leather_FlamingFist` UUID `738b0d75-74ce-466b-864d-c5f0f764842b` ## 获取地点
 
-- 在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")的[水妖精洞穴](Nymph's_Grotto.md "水妖精洞穴")的小池塘边缘，坐标 X: 27 Y: 93
+- 在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")的[水妖精洞穴](Nymph's_Grotto.md "水妖精洞穴")的小池塘边缘，坐标 X: 27 Y: 93
 
 - 由[新兵崔斯坦](Tristan.md "崔斯坦")穿着
 

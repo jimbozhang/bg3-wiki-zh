@@ -25,7 +25,7 @@
   - [3.9 剑湾快递](#sword-coast-couriers)
   - [3.10 西滩](#western-beach)
   - [3.11 南翼检查点](#south-span-checkpoint)
-- [4 飞龙关](#wyrm's-crossing)
+- [4 飞龙岩要塞](#wyrm's-crossing)
   - [4.1 夏芮丝的爱抚](#sharess'-caress)
   - [4.2 飞龙岩大门](#wyrm's-rock-gate)
 - [5 飞龙岩要塞](#wyrm's-rock-fortress)
@@ -393,7 +393,7 @@ _与[内斯特](../Nestor.md "Nestor")交谈：_
 
 队伍必须在游戏中避免被绝对的[探知之眼](../Scrying_Eye.md "Scrying Eye")观察，或拒绝被钢铁卫士逮捕。
 
-## 飞龙关
+## 飞龙岩要塞
 
 ### 夏芮丝的爱抚
 
@@ -471,8 +471,8 @@ _与[内斯特](../Nestor.md "Nestor")交谈：_
 
 **遇见[安苏](../Ansur.md "Ansur")：**
 
-⁠[关隘的同名者](../Sage.md#Crossing's_Namesake "Sage")：找到飞龙关下方的不朽哨兵。[学者](../Sage.md "Sage")背景。[盖尔](../Gale.md "Gale") [福泽朗普爵士](../Sir_Fuzzalump.md "Sir_Fuzzalump")
-⁠[屠龙者](../Folk_Hero.md#Wyrmslayers "Folk Hero")：挑战并击败安苏，飞龙关并非不朽的哨兵。[平民英雄](../Folk_Hero.md "Folk Hero")背景。[威尔](../Wyll.md "Wyll") [明斯克](../Minsc.md "Minsc") [丹顿](../Danton.md "Danton")
+⁠[关隘的同名者](../Sage.md#Crossing's_Namesake "Sage")：找到飞龙岩要塞下方的不朽哨兵。[学者](../Sage.md "Sage")背景。[盖尔](../Gale.md "Gale") [福泽朗普爵士](../Sir_Fuzzalump.md "Sir_Fuzzalump")
+⁠[屠龙者](../Folk_Hero.md#Wyrmslayers "Folk Hero")：挑战并击败安苏，飞龙岩要塞并非不朽的哨兵。[平民英雄](../Folk_Hero.md "Folk Hero")背景。[威尔](../Wyll.md "Wyll") [明斯克](../Minsc.md "Minsc") [丹顿](../Danton.md "Danton")
 
 **拾取[博德安之盔](../Helm_of_Balduran.md "Helm of Balduran")：**
 

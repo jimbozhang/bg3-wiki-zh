@@ -2434,7 +2434,7 @@
 - [奥林](Orin.md)
 - [再造奥术师](Reconstituted_Arcanist.md)
 - [皮肤松弛的脑袋](Slack-Skinned_Head.md)
-- [耐色脑](The_Netherbrain.md)
+- [主脑](The_Netherbrain.md)
 - [Ulder Ravengard](Ulder_Ravengard.md)
 - [Us](Us.md)
 - [Yeva](Yeva.md)

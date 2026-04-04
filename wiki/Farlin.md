@@ -72,7 +72,7 @@
 
 ## 出场
 
-法尔林可以在 [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing") 的 [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") 以西的 [西滩](Western_Beach.md "Western Beach") 遇到，位置在 X: -212 Y: Y:87，处于 [第三幕](Act_Three.md "Act Three")。她和一群 [公会](Guild.md "Guild") 成员正在与 [明斯克](Minsc.md "明斯克") 船员（由 [卡利欧斯](Ca%C3%AFros.md "Caïros") 带领）在 [月出之塔](Moonrise_Towers.md "Moonrise Towers") 的一艘停泊船只附近争吵，可通过在 [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") 和 [慈爱神殿](Open_Hand_Temple.md "Open Hand Temple") 之间向西走的小路到达。
+法尔林可以在 [飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing") 的 [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") 以西的 [西滩](Western_Beach.md "Western Beach") 遇到，位置在 X: -212 Y: Y:87，处于 [第三幕](Act_Three.md "Act Three")。她和一群 [公会](Guild.md "Guild") 成员正在与 [明斯克](Minsc.md "明斯克") 船员（由 [卡利欧斯](Ca%C3%AFros.md "Caïros") 带领）在 [月出之塔](Moonrise_Towers.md "Moonrise Towers") 的一艘停泊船只附近争吵，可通过在 [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") 和 [慈爱神殿](Open_Hand_Temple.md "Open Hand Temple") 之间向西走的小路到达。
 
 当接近这两群人时，法尔林请求帮助对抗石王的手下，并承诺公会会支付报酬。如果同意帮助，公会将加入队伍，与石王的手下战斗。这样做会使拥有 [罪犯](Criminal.md "Criminal") 背景的队伍成员获得激励点 [堆叠牌组](Criminal.md#Stacking_the_Deck "Criminal")。
 

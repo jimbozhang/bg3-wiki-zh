@@ -74,7 +74,7 @@
 
 攻击离开攻击范围的敌人。
 
-**恩索尔·丹瑟隆**是[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")的所有者，出现在[第三章](Act_Three.md "Act Three")。
+**恩索尔·丹瑟隆**是[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")的所有者，出现在[第三章](Act_Three.md "Act Three")。
 
 > “
 >
@@ -102,7 +102,7 @@
 | --- | --- | --- |
 | 1 | 2 | 1 |
 
-如果在[第二章](Act_Two.md "Act Two")结束时招募了[贾希拉](Jaheira.md "Jaheira")，她会告知队伍在飞龙关有一个竖琴手安全屋，隐藏在名为[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")的商店中。该商店位于飞龙关西端，[卡姆的服装店](Carm's_Garms.md "Carm's Garms")对面，坐标 X: -6 Y: 133。进入后，恩索尔·丹瑟隆会迎接队伍。如果贾希拉在场，她会让他跳过客套话，恩索尔会提供[锈钥匙（恩索尔）](Rusty_Key_(Entharl).md "Rusty Key (Entharl)")，用于打开坐标 X: -18 Y: 138 的秘密房间，竖琴手们在铁梯尽头等待。如果贾希拉不在场，交互的队伍成员可以告知他，他们是贾希拉派来会见一些竖琴手的。
+如果在[第二章](Act_Two.md "Act Two")结束时招募了[贾希拉](Jaheira.md "Jaheira")，她会告知队伍在飞龙岩要塞有一个竖琴手安全屋，隐藏在名为[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")的商店中。该商店位于飞龙岩要塞西端，[卡姆的服装店](Carm's_Garms.md "Carm's Garms")对面，坐标 X: -6 Y: 133。进入后，恩索尔·丹瑟隆会迎接队伍。如果贾希拉在场，她会让他跳过客套话，恩索尔会提供[锈钥匙（恩索尔）](Rusty_Key_(Entharl).md "Rusty Key (Entharl)")，用于打开坐标 X: -18 Y: 138 的秘密房间，竖琴手们在铁梯尽头等待。如果贾希拉不在场，交互的队伍成员可以告知他，他们是贾希拉派来会见一些竖琴手的。
 
 ### 重要战利品
 

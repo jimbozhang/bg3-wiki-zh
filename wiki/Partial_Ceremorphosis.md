@@ -14,7 +14,7 @@
 
 ## 备注
 
-- 一旦获得，此被动只能通过完全[蜕变](Ceremorphosis.md "蜕变")或摧毁耐色脑来移除（角色的外观会在尾声中恢复）。
+- 一旦获得，此被动只能通过完全[蜕变](Ceremorphosis.md "蜕变")或摧毁主脑来移除（角色的外观会在尾声中恢复）。
 
 ---
 *Source: [Partial Ceremorphosis](https://bg3.wiki/wiki/Partial_Ceremorphosis)*

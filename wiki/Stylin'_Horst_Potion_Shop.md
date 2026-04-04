@@ -1,13 +1,13 @@
 # 天鹅绒灵药
 
-## [飞龙关](Wyrm's_Crossing.md "飞龙关")
+## [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
 
 [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
 ↑
 |  | **天鹅绒灵药** | → | [卡姆的服饰店](Carm's_Garms.md "卡姆的服饰店") |
 ↓
 [夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")
-**天鹅绒灵药**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[飞龙关](Wyrm's_Crossing.md "飞龙关")内的一个[地点](Location.md "地点")。这是一家经营各种灵药、药水和炼金材料的商店，其中不乏相当稀有的物品。
+**天鹅绒灵药**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")内的一个[地点](Location.md "地点")。这是一家经营各种灵药、药水和炼金材料的商店，其中不乏相当稀有的物品。
 
 > “
 >
@@ -46,7 +46,7 @@
 ## 相关地点
 
 - ⁠[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")
-- ⁠[飞龙关](Wyrm's_Crossing.md "飞龙关")
+- ⁠[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
 
 ## 角色
 

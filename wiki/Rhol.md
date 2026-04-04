@@ -13,7 +13,7 @@
 | 先攻 | 0 |
 | 经验值 | 1 |
 
-**掠夺者女王罗尔**是[飞龙关](Wyrm's_Crossing.md "飞龙关")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")中的一名[提夫林](Tiefling.md "提夫林")舞者，出现在[第三幕](Act_Three.md "第三幕")期间。
+**掠夺者女王罗尔**是[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")中的一名[提夫林](Tiefling.md "提夫林")舞者，出现在[第三幕](Act_Three.md "第三幕")期间。
 
 > “
 >

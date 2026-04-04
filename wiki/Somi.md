@@ -35,7 +35,7 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**索米**是[半兽人](Half-Orc.md "半兽人")守卫，在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")为[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")工作，出现在[第三幕](Act_Three.md "第三幕")。
+**索米**是[半兽人](Half-Orc.md "半兽人")守卫，在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")为[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")工作，出现在[第三幕](Act_Three.md "第三幕")。
 
 > “
 >

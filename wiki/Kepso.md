@@ -66,7 +66,7 @@
 
 ## Involvement
 
-Kepso is stationed together with [Fist Wearne](Wearne.md "Wearne") and [Fist Silena](Silena.md "Silena") outside the [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") and is responsible for addressing local complaints. They form the first line of guard, preventing refugees from entering [博德之门](Baldur's_Gate.md "Baldur's Gate") through [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing"). Silena and Kepso are arguing with [诺瑞拉·克里斯特](Noira_Crysst.md "Noira Crysst") and [荷鲁斯·克里斯特](Horus_Crysst.md "Horus Crysst"), who fruitlessly beg to let them in.
+Kepso is stationed together with [Fist Wearne](Wearne.md "Wearne") and [Fist Silena](Silena.md "Silena") outside the [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") and is responsible for addressing local complaints. They form the first line of guard, preventing refugees from entering [博德之门](Baldur's_Gate.md "Baldur's Gate") through [飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing"). Silena and Kepso are arguing with [诺瑞拉·克里斯特](Noira_Crysst.md "Noira Crysst") and [荷鲁斯·克里斯特](Horus_Crysst.md "Horus Crysst"), who fruitlessly beg to let them in.
 
 Like most other Fists at the checkpoint, Kepso abhors the presence of refugees. Unlike Silena, he does not mince words while expessing his opinion in their faces.
 

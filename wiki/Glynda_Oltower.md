@@ -34,7 +34,7 @@
 
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-**格林达·奥尔托尔**是[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")在[第三幕](Act_Three.md "Act Three")期间的一名商人。
+**格林达·奥尔托尔**是[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")在[第三幕](Act_Three.md "Act Three")期间的一名商人。
 
 > “
 >
@@ -55,7 +55,7 @@
 
 ### 第三幕
 
-格林达是位于飞龙关桥上 X: 0 Y: 144 处的众多商人之一。格林达带着淘气的眨眼，声称拥有适合'_任何_'工作的工具。
+格林达是位于飞龙岩要塞桥上 X: 0 Y: 144 处的众多商人之一。格林达带着淘气的眨眼，声称拥有适合'_任何_'工作的工具。
 
 ## 商店
 

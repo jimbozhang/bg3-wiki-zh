@@ -13,7 +13,7 @@
 | 先攻 | 0 |
 | 经验值 | 1 |
 
-**尼诺·奎尔托普**正在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")购买补给品，处于[第三幕](Act_Three.md "Act Three")。
+**尼诺·奎尔托普**正在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")购买补给品，处于[第三幕](Act_Three.md "Act Three")。
 
 > “
 >
@@ -27,7 +27,7 @@
 
 ### 第三幕
 
-在[绝对者](Absolute.md "Absolute")对[利文顿](Rivington.md "Rivington")的进攻失败后，尼诺·奎尔托普和[卡利·哈默汉德](Kali_Hammerhand.md "Kali Hammerhand")正在飞龙关购买补给品。尼诺对可能的新袭击感到恐慌，并试图用各种能想到的东西填满她的库存。卡利试图让她冷静下来，并说服她只购买必需品。
+在[绝对者](Absolute.md "Absolute")对[利文顿](Rivington.md "Rivington")的进攻失败后，尼诺·奎尔托普和[卡利·哈默汉德](Kali_Hammerhand.md "Kali Hammerhand")正在飞龙岩要塞购买补给品。尼诺对可能的新袭击感到恐慌，并试图用各种能想到的东西填满她的库存。卡利试图让她冷静下来，并说服她只购买必需品。
 
 ## 闲置对话
 
@@ -74,7 +74,7 @@
   如果绝对者的军队围城，他们才不会管什么愚蠢的清单。我们必须做好准备！
 
 - 卡利·哈默汉德
-  无论我们需要什么，都可以在飞龙关买到。
+  无论我们需要什么，都可以在飞龙岩要塞买到。
 
 ---
 *Source: [Neno Quilltop](https://bg3.wiki/wiki/Neno_Quilltop)*

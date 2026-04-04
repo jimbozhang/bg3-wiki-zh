@@ -40,7 +40,7 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**拳手盖伊**是一名[人类](Human.md "人类")[游侠](Ranger.md "游侠")，也是[焰拳](Flaming_Fist.md "焰拳")的一员。他可以在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[第三幕](Act_Three.md "第三幕")中找到。
+**拳手盖伊**是一名[人类](Human.md "人类")[游侠](Ranger.md "游侠")，也是[焰拳](Flaming_Fist.md "焰拳")的一员。他可以在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[第三幕](Act_Three.md "第三幕")中找到。
 
 > “
 >
@@ -60,7 +60,7 @@
 
 ## 参与情况
 
-盖伊与[拳手沙](Shah.md "沙")、[烈焰艾琳](Elin.md "艾琳")和三名[钢铁卫士](Steel_Watcher.md "钢铁卫士")一同驻守在从[飞龙关](Wyrm's_Crossing.md "飞龙关")通往[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")的桥上。他们守卫着入口，阻止任何人进入要塞（进而进入[博德之门](Baldur's_Gate.md "博德之门")的[下城区](Lower_City.md "下城区")），除非有正当理由通过。盖伊拒绝与队伍讨论任何事情，将他们派往艾琳处尝试获得通行许可。
+盖伊与[拳手沙](Shah.md "沙")、[烈焰艾琳](Elin.md "艾琳")和三名[钢铁卫士](Steel_Watcher.md "钢铁卫士")一同驻守在从[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")通往[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")的桥上。他们守卫着入口，阻止任何人进入要塞（进而进入[博德之门](Baldur's_Gate.md "博德之门")的[下城区](Lower_City.md "下城区")），除非有正当理由通过。盖伊拒绝与队伍讨论任何事情，将他们派往艾琳处尝试获得通行许可。
 
 在获得进入飞龙岩要塞的权限后（无论以何种方式），盖伊会将队伍视为其他有资格在任何方向通过检查站的公民。
 

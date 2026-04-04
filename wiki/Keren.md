@@ -35,7 +35,7 @@
 - [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**克伦**是[第三幕](Act_Three.md "第三幕")中出现的[怪兽](Monstrosity.md "怪兽")角色。虽然表面上是[终末马戏团](Circus_of_the_Last_Days.md "终末马戏团")的驯兽师，但克伦和[瑞兰德](Ryland.md "瑞兰德")是服务于[奥林](Orin.md "奥林")和[绝对真神教](Cult_of_the_Absolute.md "绝对真神教")的[变形怪](Doppelganger.md "变形怪")。
+**克伦**是[第三幕](Act_Three.md "第三幕")中出现的[怪兽](Monstrosity.md "怪兽")角色。虽然表面上是[终末马戏团](Circus_of_the_Last_Days.md "终末马戏团")的驯兽师，但克伦和[瑞兰德](Ryland.md "瑞兰德")是服务于[奥林](Orin.md "奥林")和[至上真神教](Cult_of_the_Absolute.md "至上真神教")的[变形怪](Doppelganger.md "变形怪")。
 
 > “
 >

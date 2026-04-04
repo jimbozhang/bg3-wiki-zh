@@ -14,7 +14,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 1 |
 
-**特里根·加佐兹**可以在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[第三幕](Act_Three.md "Act Three")中遇到。
+**特里根·加佐兹**可以在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[第三幕](Act_Three.md "Act Three")中遇到。
 
 > “
 >

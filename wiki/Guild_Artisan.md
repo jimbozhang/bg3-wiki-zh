@@ -71,7 +71,7 @@
 | 170 | 遵循指示 | 将[感知护符](Sentient_Amulet.md "感知护符")归还给[希拉](Shirra.md "希拉")。 |  |
 | 135 | 不道德的巧思 | 发现装有陷阱的玩具。 |  |
 | 170 | 恐怖谜题 | 将[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")的尸体拼凑起来。 |  |
-| [飞龙关](Wyrm's_Crossing.md "飞龙关") | 170 | 替代职业 | 参与[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")的一项服务：接受[霍慈·霍利根](Hoots_Hooligan.md "霍慈·霍利根")的免费饮品；体验[妮夏·纳林托](Naoise_Nallinto.md "妮夏·纳林托")的“狂喜”；雇佣[尼姆·奥里斯](Nym_Orlith.md "尼姆·奥里斯")或[索恩·奥里斯](Sorn_Orlith.md "索恩·奥里斯")或两者。 |
+| [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞") | 170 | 替代职业 | 参与[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")的一项服务：接受[霍慈·霍利根](Hoots_Hooligan.md "霍慈·霍利根")的免费饮品；体验[妮夏·纳林托](Naoise_Nallinto.md "妮夏·纳林托")的“狂喜”；雇佣[尼姆·奥里斯](Nym_Orlith.md "尼姆·奥里斯")或[索恩·奥里斯](Sorn_Orlith.md "索恩·奥里斯")或两者。 |
 
 ## 已删除的背景目标
 

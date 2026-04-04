@@ -12,7 +12,7 @@
 | 移动速度 | 15 m (50 ft) |
 | 经验值 | 20 |
 
-**鬣狗**是一种野兽和非可玩[种族](Race.md "Race")，可以与[豺狼人](Gnoll.md "Gnoll")和[绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")一起旅行。
+**鬣狗**是一种野兽和非可玩[种族](Race.md "Race")，可以与[豺狼人](Gnoll.md "Gnoll")和[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")一起旅行。
 
 > “
 >
@@ -26,7 +26,7 @@
 
 鬣狗是群体狩猎者和食腐动物，经常作为豺狼人的狩猎伙伴或宠物。鬣狗的尸体子宫经常作为新豺狼人的出生地。
 
-在[第一幕](Act_One.md "Act One")期间，可以在[复生之路](Risen_Road.md "Risen Road")附近的一辆被毁的商队附近找到它们；在[第二幕](Act_Two.md "Act Two")期间，可以在[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed_Lands")与绝对真神教团成员一起找到它们。
+在[第一幕](Act_One.md "Act One")期间，可以在[复生之路](Risen_Road.md "Risen Road")附近的一辆被毁的商队附近找到它们；在[第二幕](Act_Two.md "Act Two")期间，可以在[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed_Lands")与至上真神教团成员一起找到它们。
 
 一只[臃肿的鬣狗](Bloated_Hyena.md "Bloated Hyena")，如果未被首先杀死，会因塞满新鲜屠杀的战利品而猛烈爆发，并产下一只[幼年豺狼人](Newborn_Gnoll.md "Newborn Gnoll")。
 

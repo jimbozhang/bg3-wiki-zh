@@ -68,9 +68,9 @@
 
 拉迪娅可以在通往 [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶") 的华丽门外遇到。如果 [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm") 已经在屋顶上，队伍可以请求与他见面，但她会拒绝。
 
-与狂热者、侍僧和其他 [绝对真神教团](Cult_of_the_Absolute.md "Cult of the Absolute") 成员不同，萨拉贝勒和其他 [灵魂侍女](Mistress_of_Souls.md "Mistress of Souls") 似乎完全清楚绝对真神是什么，以及他们正在实施的宗教骗局。<sup>[\[2\]](#cite_note-2)</sup> 这种更深刻的理解（以及随之而来的蔑视）也由其他服务于 [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm") 的米尔寇派系高阶死灵法师所共享，[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter") 哀叹她所接触到的被感染者的软弱奴性，而 [巴萨扎尔](Balthazar.md "Balthazar") 则用玩家角色脑中寄生蠕虫的状态作为骂人话。
+与狂热者、侍僧和其他 [至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute") 成员不同，萨拉贝勒和其他 [灵魂侍女](Mistress_of_Souls.md "Mistress of Souls") 似乎完全清楚至上真神是什么，以及他们正在实施的宗教骗局。<sup>[\[2\]](#cite_note-2)</sup> 这种更深刻的理解（以及随之而来的蔑视）也由其他服务于 [凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm") 的米尔寇派系高阶死灵法师所共享，[克雷萨·骨女](Kressa_Bonedaughter.md "Kressa Bonedaughter") 哀叹她所接触到的被感染者的软弱奴性，而 [巴萨扎尔](Balthazar.md "Balthazar") 则用玩家角色脑中寄生蠕虫的状态作为骂人话。
 
-拉迪娅暗示，绝对真神教团的活动远不止夺心魔感染。如果通过 DC 14 [感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定")，就会揭示尽管地位崇高，拉迪娅自己并没有寄生虫，并且蔑视真魂者，视其为不知情的工具。
+拉迪娅暗示，至上真神教团的活动远不止夺心魔感染。如果通过 DC 14 [感知](Wisdom.md "Wisdom") [属性检定](Ability_Check.md "属性检定")，就会揭示尽管地位崇高，拉迪娅自己并没有寄生虫，并且蔑视真魂者，视其为不知情的工具。
 
 ## 战斗
 

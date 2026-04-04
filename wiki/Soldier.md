@@ -28,7 +28,7 @@
 | 20 | 武装起来！ | 帮助[盖克斯](Guex.md "盖克斯")学会战斗。 |  |
 | [地精营地](Goblin_Camp.md "地精营地") | 25 | 无首部落 | 击杀地精营地中的所有首领。与[屠杀的奖赏](Criminal#Slaughter's_Prize.md#Slaughter's_Prize "罪犯")和[被遗忘者的守护者](Folk_Hero#Guardian_of_the_Forgotten.md#Guardian_of_the_Forgotten "平民英雄")互斥。[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")、[古特](Gut.md "古特")和[明萨拉](Minthara.md "明萨拉")是相关首领。 |
 | [山隘](Mountain_Pass.md "山隘") | 30 | 征服征服者 | 击败吉斯洋基人掠夺小队。与[银刃银舌](Charlatan#Silver_Blades,_Silver_Tongue.md#Silver_Blades,_Silver_Tongue "骗子")互斥。需要实际与他们战斗；和平解决不会授予激励点。 |
-| [升腾之路](Risen_Road.md "升腾之路") | 30 | 命令链 | 在[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")遵循[焰拳](Flaming_Fist.md "焰拳")的命令。在撞倒门后获得。 |
+| [晋升之路](Risen_Road.md "晋升之路") | 30 | 命令链 | 在[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")遵循[焰拳](Flaming_Fist.md "焰拳")的命令。在撞倒门后获得。 |
 | 30 | 地狱战士 | 击杀寻求[卡菈克](Karlach.md "卡菈克")的[安德斯](Anders.md "安德斯")。 |  |
 | [幽暗地域](Underdark.md "幽暗地域") | 30 | 暗域溺亡 | 击败在[黑檀湖](Ebonlake.md "黑檀湖")巡逻的[灰矮人](Duergar.md "灰矮人")。 |  |
 | 第二幕 |  |  |  |
@@ -55,7 +55,7 @@
 | 220 | 踢翻铁锈桶 | 摧毁一名钢铁卫士。 |  |
 | 220 | 暗影中的刀锋 | 在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")的对峙中存活。 |  |
 | 135 | 爱那气味 | 援助地底侏儒并使用符文火药炸弹炸毁[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")。 |  |
-| 170 | 紧急通讯 | 与[耐色脑](Netherbrain.md "耐色脑")沟通。在公园伏击后与[精卫埃德诺萨](Manip_Edenosa.md "精卫埃德诺萨")交谈。 |  |
+| 170 | 紧急通讯 | 与[主脑](Netherbrain.md "主脑")沟通。在公园伏击后与[精卫埃德诺萨](Manip_Edenosa.md "精卫埃德诺萨")交谈。 |  |
 | 170 | 老兵热点 | 在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")购买一个房间。 |  |
 | [利文顿](Rivington.md "利文顿") | 135 | 清除混乱行动者 | 斩首[角铁地窖](Angleiron's_Cellar.md "角铁地窖")。这需要从[月出之塔](Moonrise_Towers.md "月出之塔")拯救乌尔布伦，但随后作为[处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")的一部分杀死他。 |  |
 | 135 | 报到执勤 | 向[轻羽指挥官](Commander_Lightfeather.md "轻羽指挥官")报到。 |  |

@@ -54,7 +54,7 @@
 下城主墙 | [博德之门](Baldur's_Gate.md "博德之门") | X: -50 Y: -55
 塑境秘潭码头 | [底城废墟](Undercity_Ruins.md "底城废墟") | X: -74 Y: 1115
 利文顿 | [利文顿](Rivington.md "利文顿") | X: -9 Y: -117
-飞龙关南段 | [飞龙关](Wyrm's_Crossing.md "飞龙关") | X: 15 Y: 74
+飞龙岩要塞南段 | [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞") | X: 15 Y: 74
 巴尔神殿 | [底城废墟](Undercity_Ruins.md "底城废墟") | X: -55 Y: 1006
 底城废墟 | [底城废墟](Undercity_Ruins.md "底城废墟") | X: -140 Y: 940
 飞龙岩要塞 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") | X: -9 Y: 214

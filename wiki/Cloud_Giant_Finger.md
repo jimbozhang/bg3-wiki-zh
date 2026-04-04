@@ -34,7 +34,7 @@
 
     - [秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")在[下城区](Lower_City.md "下城区")
 
-    - [药水师霍斯特](Stylin'_Horst.md "药水师霍斯特")在其位于飞龙关的[药水店](The_Velveteen_Elixir.md "药水店")
+    - [药水师霍斯特](Stylin'_Horst.md "药水师霍斯特")在其位于飞龙岩要塞的[药水店](The_Velveteen_Elixir.md "药水店")
 
     - [无声忏悔者巴瑞克](Bareki.md "无声忏悔者巴瑞克")，在底城废墟[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")旁边
 

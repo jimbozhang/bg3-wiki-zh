@@ -167,7 +167,7 @@
 
 荒野是_[博德之门3]_第一幕中包含多个地点的[区域](Region.md "区域")。在游戏中，它也是第一幕主地图上最大的地点之一，连接该区域的大多数其他地点。
 
-[升腾之路](Risen_Road.md "升腾之路")是一条连接博德之门和艾尔图雷尔的长路，与[希翁塔尔河](River_Chionthar.md "希翁塔尔河")平行穿过荒野。该地区的著名定居点包括[翠绿林地](Emerald_Grove.md "翠绿林地")、前[染疫村落](Blighted_Village.md "染疫村落")和[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")。
+[晋升之路](Risen_Road.md "晋升之路")是一条连接博德之门和艾尔图雷尔的长路，与[希翁塔尔河](River_Chionthar.md "希翁塔尔河")平行穿过荒野。该地区的著名定居点包括[翠绿林地](Emerald_Grove.md "翠绿林地")、前[染疫村落](Blighted_Village.md "染疫村落")和[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")。
 
 荒野还包含多个通往[幽暗地域](Underdark.md "幽暗地域")的入口。
 

@@ -41,8 +41,8 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "App
   - [2.4 同伴任务](#companion-quest-2)
 - [3 第三幕](#act-three)
   - [3.1 地点](#locations-3)
-    - [3.1.1 里文顿](#rivington)
-    - [3.1.2 飞龙关](#wyrm's-crossing)
+    - [3.1.1 利文顿](#rivington)
+    - [3.1.2 飞龙岩要塞](#wyrm's-crossing)
     - [3.1.3 飞龙岩要塞](#wyrm's-rock-fortress)
     - [3.1.4 下城区](#lower-city)
   - [3.2 营地和对话](#campsite-and-conversations-3)
@@ -73,10 +73,10 @@ _**注：** 招募本身不会给予额外的好感度_
 
 _在林间空地：_
 
-- 说服[阿拉丁](../Aradin_Beno.md "Aradin Beno")和[泽弗洛尔](../Zevlor.md "Zevlor")停止争吵，而不殴打任何一方（使用[说服](../Persuasion.md "Persuasion")或[威吓](../Intimidation.md "Intimidation")）（+1）
-  - 在阿拉丁与泽弗洛尔争吵时打阿拉丁一拳（+1）
-- 向泽弗洛尔承诺你会与[卡迦](../Kagha.md "Kagha")谈谈停止仪式的事（+3）_（在入口处场景后或在他的洞穴中均可）_
-  - 同意为泽弗洛尔杀死地精部落的首领（+5）
+- 说服[阿拉丁](../Aradin_Beno.md "Aradin Beno")和[赛夫洛](../Zevlor.md "Zevlor")停止争吵，而不殴打任何一方（使用[说服](../Persuasion.md "Persuasion")或[威吓](../Intimidation.md "Intimidation")）（+1）
+  - 在阿拉丁与赛夫洛争吵时打阿拉丁一拳（+1）
+- 向赛夫洛承诺你会与[卡迦](../Kagha.md "Kagha")谈谈停止仪式的事（+3）_（在入口处场景后或在他的洞穴中均可）_
+  - 同意为赛夫洛杀死地精部落的首领（+5）
 - 作为[坦帕斯](../Tempus.md "Tempus")的[牧师](../Cleric.md "Cleric")，在与阿拉丁交谈后，告诉[瑞米拉](../Remira.md "Remira")说[利亚姆](../Liam.md "Liam")在战士安息处赢得了一席之地（+1）
 - 告诉[阿尔卡](../Arka.md "Arka")为[卡农](../Kanon.md "Kanon")的死寻求复仇（+1）_（如果[梅姆诺斯](../Memnos.md "Memnos")也死了，此选项同样可用并给予好感度；[邪念](../Haunted_One.md "Haunted One")角色有独特台词，但仅在[梅姆诺斯](../Memnos.md "Memnos")死亡时获得好感度）_
 - 在从[熊地精刺客](../Bugbear_Assassin.md "Bugbear Assassin")手中救下[纳迪拉](../Nadira.md "Nadira")后，说服她将[灵魂硬币](../Soul_Coin.md "Soul Coin")给你（+1）
@@ -99,7 +99,7 @@ _在[圣池](../Sacred_Pool.md "Sacred Pool")和德鲁伊洞穴中：_
   - 或者，作为[卓尔](../Drow.md "Drow")，说你不威胁/杀害儿童（+5）
 - 说服卡迦对抗[暗影德鲁伊](../Shadow_Druids.md "Shadow Druids")（如果发现她与他们密谋）（+5）
   - 或者选择攻击卡迦而不是说服她（+1）_（无论你是否成功说服她对抗他们，都会获得好感度）_
-- 在泽弗洛尔要求你杀死她后攻击卡迦（+1）
+- 在赛夫洛要求你杀死她后攻击卡迦（+1）
 - 在处理[托帕兹](../Topaz_(Blue_Jay).md) 鸟时，通过[动物交谈](../Speak_with_Animals.md "Speak with Animals")：
   - 告诉它它巢里的钥匙很暗淡（+1）
   - 或者使用[矮人](../Dwarf.md "Dwarf")或[吟游诗人](../Bard.md "Bard")的职业台词（+1）_（任选其一）_
@@ -122,7 +122,7 @@ _当翠绿林地为地精袭击做准备时_
 _**注：** 此场景仅在威尔因你在与[明萨拉](../Minthara.md "Minthara")的对话中做出的选择而离开队伍后出现，**并且**你已向她透露了林地的位置_
 
 - 拒绝为[明萨拉](../Minthara.md "Minthara")开门（+5）
-- 成功保卫林地后与泽弗洛尔交谈（+10）
+- 成功保卫林地后与赛夫洛交谈（+10）
 
 #### [日照湿地](../Sunlit_Wetlands.md "Sunlit Wetlands")/[腐臭沼泽](../Putrid_Bog.md "Putrid Bog")
 

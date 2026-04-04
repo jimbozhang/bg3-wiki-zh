@@ -13,7 +13,7 @@
 
 ## 获取地点
 
-在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")上方炼金术商店的卧室中找到。坐标：X: -19 Y: 127
+在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")上方炼金术商店的卧室中找到。坐标：X: -19 Y: 127
 
 ---
 *Source: [Ghastly Bottle](https://bg3.wiki/wiki/Ghastly_Bottle)*

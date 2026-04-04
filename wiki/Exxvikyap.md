@@ -52,7 +52,7 @@
 
 埃克维凯普是铁匠铺的店员，也是其所有者[吉尔德罗·安格尔艾伦](Gyldro_Angleiron.md "吉尔德罗·安格尔艾伦")的狂热粉丝。
 
-她位于[利文顿](Rivington.md "利文顿")区域的[利文顿杂货店](Rivington_General.md "利文顿杂货店") X: 8 Y: -32 处，介于利文顿和飞龙关南段[传送点](Ancient_Rune_Circle.md "古代符文圈")之间。
+她位于[利文顿](Rivington.md "利文顿")区域的[利文顿杂货店](Rivington_General.md "利文顿杂货店") X: 8 Y: -32 处，介于利文顿和飞龙岩要塞南段[传送点](Ancient_Rune_Circle.md "古代符文圈")之间。
 
 ## 参与情况
 

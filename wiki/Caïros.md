@@ -134,7 +134,7 @@
 
 ## 参与
 
-卡利欧斯位于[飞龙关](Wyrm's_Crossing.md "飞龙关")的[西部海滩](Western_Beach.md "西部海滩")上，[南翼检查点](South_Span_Checkpoint.md "南翼检查点")以西，在[第三幕](Act_Three.md "第三幕")期间，坐标 X: -212 Y: Y:87。他和一群[明斯克](Minsc.md "明斯克")的打手正在与一些[公会](Guild.md "公会")成员在[月出之塔](Moonrise_Towers.md "月出之塔")的一艘停泊船只附近发生争执，可以通过在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")和[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")之间向西走的小路到达。
+卡利欧斯位于[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[西部海滩](Western_Beach.md "西部海滩")上，[南翼检查点](South_Span_Checkpoint.md "南翼检查点")以西，在[第三幕](Act_Three.md "第三幕")期间，坐标 X: -212 Y: Y:87。他和一群[明斯克](Minsc.md "明斯克")的打手正在与一些[公会](Guild.md "公会")成员在[月出之塔](Moonrise_Towers.md "月出之塔")的一艘停泊船只附近发生争执，可以通过在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")和[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")之间向西走的小路到达。
 
 接近两组人时，[法尔林](Farlin.md "法尔林")请求帮助对抗石主的手下，并承诺公会会支付报酬。如果队伍同意帮助，公会将加入他们对抗石主的手下。这样做会为具有[罪犯](Criminal.md "罪犯")背景的队伍成员获得激励点⁠[堆叠牌组](Criminal.md#Stacking_the_Deck "罪犯")。
 

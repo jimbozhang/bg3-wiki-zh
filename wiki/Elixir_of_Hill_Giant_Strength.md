@@ -58,7 +58,7 @@
 
   - 在[德鲁伊林地](Druid_Grove.md "德鲁伊林地")的[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")商店中展示
 
-  - 在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[南翼检查点](South_Span_Checkpoint.md "南翼检查点")二楼，坐标 X: -13 Y: 55
+  - 在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[南翼检查点](South_Span_Checkpoint.md "南翼检查点")二楼，坐标 X: -13 Y: 55
 
 ## 备注
 

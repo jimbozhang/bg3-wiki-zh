@@ -188,7 +188,7 @@ _目标和日志条目可能因玩家的决定而有所不同。_
 
 ### 卡菈克的命运
 
-在[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间，队伍未能控制主脑，因为它已成为[耐色脑](Netherbrain.md "Netherbrain")。[君主](The_Emperor.md "The Emperor")出现，将队伍带到[星界](Astral_Plane.md "Astral Plane")的安全地带，并解释说只有灵吸怪才有希望在此刻击败大脑。如果队伍不信任君主或支持[俄耳甫斯](Orpheus.md "Orpheus")，那么卡菈克可以自愿成为夺心魔。如果发生这种情况，卡菈克会说她的引擎感觉安静了，她能够留在物质位面。
+在[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间，队伍未能控制主脑，因为它已成为[主脑](Netherbrain.md "Netherbrain")。[君主](The_Emperor.md "The Emperor")出现，将队伍带到[星界](Astral_Plane.md "Astral Plane")的安全地带，并解释说只有灵吸怪才有希望在此刻击败大脑。如果队伍不信任君主或支持[俄耳甫斯](Orpheus.md "Orpheus")，那么卡菈克可以自愿成为夺心魔。如果发生这种情况，卡菈克会说她的引擎感觉安静了，她能够留在物质位面。
 
 如果卡菈克没有变成夺心魔，她的引擎在战斗结束后最终过热。如果威尔在他的故事任务[边境之刃](The_Blade_of_Frontiers.md "The Blade of Frontiers")中成为阿弗纳斯之刃，那么他提出与卡菈克一起去阿弗纳斯，试图为她的引擎问题找到解决方案。好感度足够高的角色可以提出与她一起去，可以单独去，也可以和威尔三人一起去。否则，可以尊重卡菈克不想回到地狱的愿望，此时她的引擎完全过热，她爆炸成火焰。
 

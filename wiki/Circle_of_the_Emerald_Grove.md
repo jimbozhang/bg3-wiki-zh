@@ -47,7 +47,7 @@
 
 然而，如果冒险者⁠[调查卡哈](Investigate_Kagha.md "Investigate Kagha")并在内殿发现一个隐藏的箱子，根据箱内物品的线索找到[腐烂泥潭](Putrid_Bog.md "Putrid Bog")中的一截树干，一封[写给卡哈的信](Letter_to_Kagha.md "Letter to Kagha")会揭示教团已被[幽影德鲁伊](Shadow_Druids.md "Shadow Druids")渗透，并受到其反社会教条的影响。冒险者随后可以在林地揭露卡哈，这将使内殿中的老鼠暴露为幽影德鲁伊[欧罗丹](Olodan.md "Olodan")、[雷恩](Wren.md "Wren")和[平塔](Pinta.md "Pinta")。卡哈随后可以被杀死，或在随后的战斗中被说服放弃幽影德鲁伊。无论哪种情况，如果他们幸存下来，卡哈或拉斯将停止荆棘仪式，并允许提夫林人留下——如果冒险者领袖是德鲁伊，他们将被任命为[苍白橡树](Pale_Oak.md "Pale Oak")。
 
-在地精营地中，可以在[座狼兽栏](Worg_Pens.md "Worg Pens")找到以[熊](Bear.md "Bear")形态野性的哈尔辛。拯救他并消灭营地的领导层将允许提夫林人离开翠绿林地，翠绿林地之环将取消荆棘仪式（如果之前未取消），卡哈将被降级为新手。或者，忠于[绝对真神教](Cult_of_the_Absolute.md "Cult of the Absolute")和[明萨拉](Minthara.md "Minthara")的地精可以对林地发动攻击；根据所采取的路线，翠绿林地之环可能被完全消灭，或者突袭队在提夫林难民于门口的帮助下被歼灭。
+在地精营地中，可以在[座狼兽栏](Worg_Pens.md "Worg Pens")找到以[熊](Bear.md "Bear")形态野性的哈尔辛。拯救他并消灭营地的领导层将允许提夫林人离开翠绿林地，翠绿林地之环将取消荆棘仪式（如果之前未取消），卡哈将被降级为新手。或者，忠于[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")和[明萨拉](Minthara.md "Minthara")的地精可以对林地发动攻击；根据所采取的路线，翠绿林地之环可能被完全消灭，或者突袭队在提夫林难民于门口的帮助下被歼灭。
 
 在[第一幕](Act_One.md "Act One")结束时，翠绿林地之环可能被摧毁、与外界隔绝，或因消灭地精而保持开放。如果哈尔辛获救，他将作为[伙伴](Companion.md "Companion")加入冒险者队伍，即使林地在保护提夫林难民时被封闭或摧毁；如果林地在明萨拉及其地精的帮助下遭到袭击，哈尔辛将闯入冒险者的[营地](Camp.md "Camp")并攻击他们。
 

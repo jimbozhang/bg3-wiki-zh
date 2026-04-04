@@ -191,9 +191,9 @@ _这些激励点可在整个游戏过程中获得，不限于第一幕。_
 
 #### 隐蔽房间
 
-**与[泽弗洛尔](../Zevlor.md "Zevlor")交谈：**
+**与[赛夫洛](../Zevlor.md "Zevlor")交谈：**
 
-⁠[蛇之赏金](../Criminal.md#Serpent's_Bounty "Criminal")：接受泽弗洛尔为[杀死卡哈](../Kill_Kagha.md "Kill Kagha")支付的报酬。[罪犯](../Criminal.md "Criminal")背景。[维'瑞尔·文基尔](../Ver'yll_Wenkiir.md "Ver'yll Wenkiir")
+⁠[蛇之赏金](../Criminal.md#Serpent's_Bounty "Criminal")：接受赛夫洛为[杀死卡哈](../Kill_Kagha.md "Kill Kagha")支付的报酬。[罪犯](../Criminal.md "Criminal")背景。[维'瑞尔·文基尔](../Ver'yll_Wenkiir.md "Ver'yll Wenkiir")
 
 队伍必须同意杀死卡哈，然后回来领取报酬。
 
@@ -258,7 +258,7 @@ _这些激励点可在整个游戏过程中获得，不限于第一幕。_
 
 ⁠[西凡那斯之避世](../Acolyte.md#Silvanus'_Solitude "Acolyte")：见证[封闭](../Rite_of_Thorns_(ritual).md#Completion_Triggers).md#Completion_Triggers> "荆棘仪式 (仪式)")林地与世隔绝的仪式。[侍僧](../Acolyte.md "Acolyte")背景。[影心](../Shadowheart.md "Shadowheart") [齐尼斯·弗'赛尔](../Zenith_Feur'sel.md "Zenith Feur'sel")
 
-偷走神像、杀死泽弗洛尔、只杀死卡哈或前往修道院或幽影诅咒之地会触发仪式完成，永久封闭林地。如果哈尔辛返回，仪式会被阻止，因此无法完成。
+偷走神像、杀死赛夫洛、只杀死卡哈或前往修道院或幽影诅咒之地会触发仪式完成，永久封闭林地。如果哈尔辛返回，仪式会被阻止，因此无法完成。
 
 ### 内部圣所
 
