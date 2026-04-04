@@ -37,7 +37,7 @@
 
 决定 AC 的默认公式是：
 
-10 + [敏捷](Dexterity.md "敏捷") + 护甲加值 + 盾牌加值 + 其他加值和减值
+$$10 + \text{敏捷} + \text{护甲加值} + \text{盾牌加值} + \text{其他加值和减值}$$
 
 [中甲](Armour.md#Medium_armour "护甲")将敏捷调整值上限设为 +2。<sup>[\[1\]](#cite_note-1)</sup><sup>[\[2\]](#cite_note-2)</sup> [重甲](Armour.md#Heavy_armour "护甲")完全忽略该调整值。
 
@@ -49,15 +49,15 @@
 
 [魔法护甲](Mage_Armour.md "魔法护甲") 或 [龙族韧性](Draconic_Resilience.md "龙族韧性")：
 
-13 + 敏捷调整值 + 盾牌加值 + 其他加值和减值
+$$13 + \text{敏捷调整值} + \text{盾牌加值} + \text{其他加值和减值}$$
 
 [无甲防御 (野蛮人)](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")：
 
-10 + 体质调整值 + 敏捷调整值 + 盾牌加值 + 其他加值和减值
+$$10 + \text{体质调整值} + \text{敏捷调整值} + \text{盾牌加值} + \text{其他加值和减值}$$
 
 [无甲防御 (武僧)](Unarmoured_Defence_(Monk).md "无甲防御 (武僧)")：
 
-10 + 感知调整值 + 敏捷调整值 + 其他加值和减值
+$$10 + \text{感知调整值} + \text{敏捷调整值} + \text{其他加值和减值}$$
 
 ## 数学
 

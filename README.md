@@ -66,7 +66,7 @@
 
 - [序幕](wiki/Prologue.md) — 逃离鹦鹉螺
 - [第一幕](wiki/Act_One.md) — 荒野
-- [第二幕](wiki/Act_Two.md) — 暗影诅咒之地
+- [第二幕](wiki/Act_Two.md) — 幽影诅咒之地
 - [第三幕](wiki/Act_Three.md) — 博德之门
 
 ## 游戏机制
