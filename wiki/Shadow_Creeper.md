@@ -24,7 +24,7 @@
 
 ### 攻击与能力
 
-[刺藤](Barbed_Vine.md "刺藤") ()
+[刺藤](Barbed_Vine.md "刺藤")
 
 伤害: 5~11
 
@@ -34,12 +34,12 @@
 
 射程: 6 m (20 ft)
 
-[掘穴](Burrow_(Shadow_Creeper).md "掘穴 (幽影潜行者)") ()
+[掘穴](Burrow_(Shadow_Creeper).md "掘穴 (幽影潜行者)")
 钻入地下并在不同位置重新出现。
 
 射程: 18 m (60 ft)
 
-[诅咒荆棘](Cursed_Thorns.md "诅咒荆棘") ()
+[诅咒荆棘](Cursed_Thorns.md "诅咒荆棘")
 
 伤害: 2~12
 
@@ -49,7 +49,7 @@
 
 射程: 6 m (20 ft)
 
-[幽影拖拽](Shadow_Pull.md "幽影拖拽") ()
+[幽影拖拽](Shadow_Pull.md "幽影拖拽")
 
 伤害: 1~6
 

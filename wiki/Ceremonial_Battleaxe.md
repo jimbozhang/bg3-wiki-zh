@@ -27,13 +27,13 @@ UID `S_CRE_Abbot4_Weapon` UUID `0698b266-b7f8-4593-9063-f1189082c6e1` Stats `WPN
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥舞武器进行大范围弧线攻击，最多同时攻击 3 个敌人。每个敌人受到你的武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足（状态）")。他们无法移动。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -3,15 +3,48 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Ash Rizi](https://www.imdb.com/name/nm7787239/) |
+| 声音 / 演员 | [Ash Rizi](https://www.imdb.com/name/nm7787239/) |
+| 职业 | [战士](Fighter.md "战士") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
-| 等级 | 10 |
-| 生命值 | 76 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 经验值 | 250 |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "黄金矮人") |
+| 副职 | [战斗大师](Battle_Master.md "战斗大师") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 76 | 53 | 98 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +4 | +6 | +4 |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 21 / (+5) | 13 / (+1) | 19 / (+4) | 10 / (0) | 14 / (+2) | 8 / (-1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 

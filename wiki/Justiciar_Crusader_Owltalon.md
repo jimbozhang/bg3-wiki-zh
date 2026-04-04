@@ -3,15 +3,46 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Ami Okumura Jones](https://www.imdb.com/name/nm10992162/) |
+| 声音 / 演员 | [Ami Okumura Jones](https://www.imdb.com/name/nm10992162/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [精灵](Elf.md "Elf") |
-| 等级 | 7 |
-| 生命值 | 150 |
-| 护甲等级 | 14 |
-| 先攻 | +2 |
-| 经验值 | 510 |
+| 亚种 | [高精灵](High_Elf.md "High elf") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 150 | 105 | 195 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 24 m (80 ft) | 24 m (80 ft) | 24 m (80 ft) |
+| 经验值 | 510 | 510 | 510 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 13 / (+1) | 12 / (+1) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [生于黑暗](Born_into_Darkness.md "Born into Darkness")
+- [黑暗复仇](Dark_Vengeance.md "Dark Vengeance")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [阴影伏击](Shadow_Ambush.md "Shadow Ambush")
+
+**特性**
+
+- [生于黑暗](Born_into_Darkness.md "Born into Darkness")
+- [黑暗复仇](Dark_Vengeance.md "Dark Vengeance")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [阴影伏击](Shadow_Ambush.md "Shadow Ambush")
 
 **审判十字军鹰爪**是[高精灵](High_Elf.md "High elf")角色，可在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace")中找到。
 
@@ -34,7 +65,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨剑](Greatsword.md "Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：6~16
 
@@ -44,7 +75,7 @@
 
 近战：1.5 m (5 ft)
 
-[吸取生命](Life_Drain.md "Life Drain") ()
+[吸取生命](Life_Drain.md "Life Drain")
 
 伤害：4~18
 
@@ -54,7 +85,7 @@
 
 近战：1.5 m (5 ft)
 
-[极致悲痛](Overwhelming_Grief.md "Overwhelming Grief") ()
+[极致悲痛](Overwhelming_Grief.md "Overwhelming Grief")
 
 伤害：2~12
 
@@ -67,7 +98,7 @@
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 范围：6 m (20 ft)
 
-[归入阴影](Subsume_Shadow.md "Subsume Shadow") ()
+[归入阴影](Subsume_Shadow.md "Subsume Shadow")
 审判十字军进入其[阴影形态](Umbral_Form_(Condition).md "Umbral Form (Condition)")。
 
 范围：自身

@@ -17,7 +17,7 @@
 
 ### 攻击和能力
 
-[炽火魔弹](Fiery_Bolt.md "Fiery Bolt") ()
+[炽火魔弹](Fiery_Bolt.md "Fiery Bolt")
 
 伤害: 1~4
 
@@ -27,7 +27,7 @@
 
 射程: 8 m (27 ft)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [手斧](Handaxe.md "Handaxe")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [手斧](Handaxe.md "Handaxe")
 
 伤害: -2~3
 
@@ -37,7 +37,7 @@
 
 近战: 1.5 m (5 ft)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [弯刀](Scimitar.md "Scimitar")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [弯刀](Scimitar.md "Scimitar")
 
 伤害: 0~5
 
@@ -47,7 +47,7 @@
 
 近战: 1.5 m (5 ft)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [轻弩](Light_Crossbow.md "Light Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [轻弩](Light_Crossbow.md "Light Crossbow")
 
 伤害: 0~7
 

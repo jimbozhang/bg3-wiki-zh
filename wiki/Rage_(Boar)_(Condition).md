@@ -22,7 +22,7 @@
 
 ## 赋予
 
-[狂怒攻击](Frenzied_Strike_(Boar).md "狂怒攻击：野猪") ()
+[狂怒攻击](Frenzied_Strike_(Boar).md "狂怒攻击：野猪")
 在狂暴状态下以附赠动作猛撞敌人。
 
 ## 注释

@@ -134,7 +134,7 @@
 
 范围：9 米 (30 英尺)
 
-[跛足打击](Maiming_Strike.md "跛足打击") () – [深度挖掘](Deep_Delver.md "深度挖掘")
+[跛足打击](Maiming_Strike.md "跛足打击") – [深度挖掘](Deep_Delver.md "深度挖掘")
 
 伤害：5~8
 
@@ -148,7 +148,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [深度挖掘](Deep_Delver.md "深度挖掘")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [深度挖掘](Deep_Delver.md "深度挖掘")
 
 伤害：5~12
 
@@ -158,7 +158,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [深度挖掘](Deep_Delver.md "深度挖掘")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [深度挖掘](Deep_Delver.md "深度挖掘")
 
 伤害：5~12
 
@@ -172,7 +172,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[投掷](Throw.md "投掷") () – [标枪](Javelin.md "标枪")
+[投掷](Throw.md "投掷") – [标枪](Javelin.md "标枪")
 
 伤害：5~10
 
@@ -186,7 +186,7 @@
 
 范围：3-18 米 (10-60 英尺)
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [深度挖掘](Deep_Delver.md "深度挖掘")
+[弱化打击](Weakening_Strike.md "弱化打击") – [深度挖掘](Deep_Delver.md "深度挖掘")
 
 伤害：5~8
 

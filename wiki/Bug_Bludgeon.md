@@ -36,12 +36,12 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [长弓](Longbow.md "长弓")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [长弓](Longbow.md "长弓")
 消耗 6 米 (20 英尺) 的 [移动速度](Movement_speed.md "移动速度")。在本回合剩余时间内，投掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [短弓](Shortbow.md "短弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [短弓](Shortbow.md "短弓")
 
 伤害：5~10
 
@@ -51,7 +51,7 @@
 
 射程：18 米 (60 英尺)
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") () – [短弓](Shortbow.md "短弓")
+[腿筋射击](Hamstring_Shot.md "腿筋射击") – [短弓](Shortbow.md "短弓")
 
 伤害：5~10
 

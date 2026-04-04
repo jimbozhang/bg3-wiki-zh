@@ -25,7 +25,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [硬头锤](Mace.md "硬头锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [硬头锤](Mace.md "硬头锤")
 
 伤害：3~8
 
@@ -45,7 +45,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[圣火术](Sacred_Flame.md "圣火术") ()
+[圣火术](Sacred_Flame.md "圣火术")
 
 伤害：1~8
 
@@ -69,14 +69,14 @@
 [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 射程：自身
 
-[暗影步](Shadow_Step.md "暗影步") ()
+[暗影步](Shadow_Step.md "暗影步")
 从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 射程：18 米 (60 英尺)
 
 在硬核难度及以上，博学的哨兵获得 2 个[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")，允许其使用：
 
-[幽影斗篷](Cloak_of_Shadows.md "幽影斗篷") ()
+[幽影斗篷](Cloak_of_Shadows.md "幽影斗篷")
 用阴影包裹自己，如果处于[遮蔽](Obscured.md "遮蔽")状态，则变为[隐形](Cloak_of_Shadows_(Condition).md "幽影斗篷 (状态)")。
 
 射程：自身

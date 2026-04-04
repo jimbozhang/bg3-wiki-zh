@@ -2,15 +2,23 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 声音 / 演员 | [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 角色 | [商人](Trader.md "Trader") |
+| 家乡 | [博德之门](Baldur's_Gate.md "Baldur's Gate") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling") |
-| 等级 | 1 |
-| 生命值 | 8 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 经验值 | 1 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 1 | 1 | 1 |
+| 生命值 | 8 | 5 | 10 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 12 m (40 ft) | 12 m (40 ft) | 12 m (40 ft) |
+| 经验值 | 1 | 1 | 1 |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 

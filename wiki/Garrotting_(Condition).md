@@ -7,7 +7,7 @@
 
 ## 赋予
 
-[阴影传送](Shadow_Teleport_(Meazel).md "阴影传送 (鬼魊)") ()
+[阴影传送](Shadow_Teleport_(Meazel).md "阴影传送 (鬼魊)")
 传送至一个阴影位置。如果你正在[绞杀术](Garrotte_(Meazel).md "绞杀术 (鬼魊)")一个生物，它会与你一同传送。
 
 ## 绞杀的来源

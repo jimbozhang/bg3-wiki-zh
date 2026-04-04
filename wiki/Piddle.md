@@ -3,15 +3,27 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
+| 声优 / 演员 | [George Taylor](https://www.imdb.com/name/nm4122118/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [地精](Goblin.md "Goblin") |
-| 等级 | 2 |
-| 生命值 | 13 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 20 |
+| 职业 | [法师](Wizard.md "Wizard") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 2 | 2 | 2 |
+| 生命值 | 13 | 9 | 20 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 12 / (+1) | 10 / (0) | 12 / (+1) | 8 / (-1) | 8 / (-1) |
 
 ## 荣耀难度属性
 
@@ -101,7 +113,7 @@
 
 ### 攻击与能力
 
-[酸液飞溅](Acid_Splash.md "Acid_Splash") ()
+[酸液飞溅](Acid_Splash.md "Acid_Splash")
 
 伤害: 1~6
 
@@ -119,7 +131,7 @@
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
 射程: 18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [仪式法杖](Ritual_Staff.md "Ritual Staff")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [仪式法杖](Ritual_Staff.md "Ritual Staff")
 
 伤害: 0~5
 
@@ -145,7 +157,7 @@
 
 射程: 18 米 (60 英尺)
 
-[摔绊](Topple.md "Topple") () – [仪式法杖](Ritual_Staff.md "Ritual Staff")
+[摔绊](Topple.md "Topple") – [仪式法杖](Ritual_Staff.md "Ritual Staff")
 
 伤害: 1~4
 

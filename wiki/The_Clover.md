@@ -27,7 +27,7 @@ UID `MAG_TheClover_Scimitar` UUID `517231eb-e812-43ed-9ce3-482ba7ed31e6` ### 特
 
 - [护甲等级](Armour_Class.md "护甲等级") +1（仅限副手）
 
-[克敌机先](True_Strike.md "克敌机先") ()
+[克敌机先](True_Strike.md "克敌机先")
 以戏法形式施放（充能：[短休](Short_rest.md "短休")。）
 
 [开膛破肚](Organ_Rearranger.md "开膛破肚")
@@ -47,10 +47,10 @@ _仅限副手_
 
 _若你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡（状态）")。充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标要害使其[流血](Bleeding_(Condition).md "流血（状态）")。充能：[短休](Short_rest.md "短休")。）
 
 ## 备注

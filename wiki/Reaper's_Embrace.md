@@ -19,7 +19,7 @@
 
 穿戴此物品获得：
 
-[亡者哀嚎](Howl_of_the_Dead.md "亡者哀嚎") ()
+[亡者哀嚎](Howl_of_the_Dead.md "亡者哀嚎")
 发出令人毛骨悚然的嚎叫，使附近所有生物[麻木](Numbed_(Condition).md "麻木（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 [魔法板甲](Magical_Plate_(-2).md)

@@ -3,16 +3,37 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Holly-Marie Michael](https://www.imdb.com/name/nm3997487/) |
+| 声音 / 演员 | [Holly-Marie Michael](https://www.imdb.com/name/nm3997487/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [地精](Goblin.md "Goblin") |
-| 等级 | 2 |
-| 生命值 | 14 |
-| 护甲等级 | 14 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 20 |
+| 职业 | [牧师](Cleric.md "Cleric") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 2 | 2 | 2 |
+| 生命值 | 14 | 9 | 22 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 11 / (0) | 10 / (0) | 10 / (0) | 14 / (+2) | 8 / (-1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 荣誉难度属性
 
@@ -90,7 +111,7 @@
 
 射程：9 米 (30 英尺)
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [粗制硬头锤](Crude_Mace.md "Crude Mace")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [粗制硬头锤](Crude_Mace.md "Crude Mace")
 
 伤害：1~6
 
@@ -112,7 +133,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [粗制硬头锤](Crude_Mace.md "Crude Mace")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [粗制硬头锤](Crude_Mace.md "Crude Mace")
 
 伤害：1~6
 
@@ -122,7 +143,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[圣火术](Sacred_Flame.md "Sacred Flame") ()
+[圣火术](Sacred_Flame.md "Sacred Flame")
 
 伤害：1~8
 

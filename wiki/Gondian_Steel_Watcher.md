@@ -28,10 +28,10 @@
 | 移动速度 | 18 米（60 英尺） |  |  |  |  |
 | 体型 | 大型 |  |  |  |  |
 
-[主手攻击](Main_Hand_Attack_(Steel_Watcher).md "主手攻击 (钢铁卫士)") ()
+[主手攻击](Main_Hand_Attack_(Steel_Watcher).md "主手攻击 (钢铁卫士)")
 用巨大的剑刃打击，使目标[倒伏](Prone_(Condition).md "倒伏 (状态)")并[跛足](Maimed_(Condition).md "跛足 (状态)")。
 
-[回头是岸](Reposition_Malefactor.md "回头是岸") ()
+[回头是岸](Reposition_Malefactor.md "回头是岸")
 将生物拉近 9 米 / 30 英尺至你身边。
 
 [爆炸](Self-Detonate.md "爆炸")

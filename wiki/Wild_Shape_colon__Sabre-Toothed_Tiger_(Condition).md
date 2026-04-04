@@ -49,13 +49,13 @@
 [强化跳跃](Enhanced_Jump.md "强化跳跃") (+ )
 向上、向下和向前跳跃。你的 [力量](Strength.md "力量") 影响你能跳多远。
 
-[锁喉扑击](Jugular_Strike.md "锁喉扑击") ()
+[锁喉扑击](Jugular_Strike.md "锁喉扑击")
 扑向生物的喉咙。如果目标处于 [倒伏](Prone_(Condition).md "倒伏 (状态)") 状态，你将造成额外的 2d6 + 力量或敏捷调整值 [穿刺](Piercing.md "穿刺") 伤害。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
 消耗 [法术位](Spells.md#Spell_slots "法术") 以在荒野形态下恢复 [生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复 1d8 [治疗](Healing.md "治疗")。
 
-[破甲撕裂](Shred_Armour.md "破甲撕裂") ()
+[破甲撕裂](Shred_Armour.md "破甲撕裂")
 撕裂目标的弱点，使其 [护甲等级](Armour_Class.md "护甲等级") 降低 2。
 
 ## 状态：野兽活力

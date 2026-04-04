@@ -78,8 +78,6 @@
 
 其下三次[豁免检定](Saving_throw.md "豁免检定")具有 +10 加值。
 
-属性
-
 **审判官茨卡'安**是一名[吉斯洋基人](Githyanki.md "吉斯洋基人")[邪术师](Warlock.md "邪术师")<sup>[\[1\]](#cite_note-1)</sup>，在[第二章](Act_Two.md "第二章")遭遇。
 
 > “
@@ -102,12 +100,12 @@
 
 ### 攻击与能力
 
-[星界步伐](Astral_Step.md "星界步伐") ()
+[星界步伐](Astral_Step.md "星界步伐")
 被银色雾气环绕，你传送至一个可见的未被占据空间。
 
 范围：18 m (60 ft)
 
-[魔能爆](Eldritch_Blast.md "魔能爆") ()
+[魔能爆](Eldritch_Blast.md "魔能爆")
 伤害：1~10
 1d10 [力场](Force.md "力场")
 
@@ -115,7 +113,7 @@
 
 范围：18 m (60 ft)
 
-[恐惧形态](Form_of_Dread.md "恐惧形态") ()
+[恐惧形态](Form_of_Dread.md "恐惧形态")
 展现维拉基斯的部分力量与外貌。
 
 你获得 15 [临时生命值](Temporary_Hit_Points.md "临时生命值")且不会被[恐慌](Frightened_(status_group)..md) 每当你攻击一个敌人时，该敌人有几率陷入[恐慌](Frightened_(Condition).md "恐慌（状态）") 2 回合。
@@ -123,7 +121,7 @@
 范围：自身
 冷却：每场战斗一次
 
-[割裂](Lacerate.md "割裂") () – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
+[割裂](Lacerate.md "割裂") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 伤害：2~9
 1d8 + 1 [挥砍](Slashing.md "挥砍")
 
@@ -134,18 +132,18 @@
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 
-[轻型](Light.md "轻型") ()
+[轻型](Light.md "轻型")
 为物品注入光晕。
 
 近战：1.5 m (5 ft)
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气环绕，你传送至一个可见的未被占据空间。
 
 范围：18 m (60 ft)
 冷却：[长休](Long_Rest.md "长休")
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 伤害：1~4
 1d4 [钝击](Bludgeoning.md "钝击")
 
@@ -155,7 +153,7 @@
 近战：1.5 m (5 ft)
 冷却：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
+[突进攻击](Rush_Attack.md "突进攻击") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 伤害：4~7
 1d4 + 3 [穿刺](Piercing.md "穿刺")
 

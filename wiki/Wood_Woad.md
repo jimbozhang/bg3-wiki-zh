@@ -39,13 +39,13 @@
 
 ### 攻击与能力
 
-[纠缠](Entangle_(Wood_Woad).md "纠缠 (菘蓝树人)") ()
+[纠缠](Entangle_(Wood_Woad).md "纠缠 (菘蓝树人)")
 创造一个藤蔓地表，减慢生物速度，可能使其[缠绕](Entangled_(Condition).md "缠绕 (状态)")。
 
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：6 米 (20 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [扭曲的树枝](Twisting_Branch.md "扭曲的树枝")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [扭曲的树枝](Twisting_Branch.md "扭曲的树枝")
 
 伤害：5~8
 

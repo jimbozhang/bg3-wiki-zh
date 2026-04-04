@@ -16,7 +16,7 @@
 
 佩戴此物品者获得：
 
-[诱捕电击](Ensnaring_Shock.md "Ensnaring Shock") ()
+[诱捕电击](Ensnaring_Shock.md "Ensnaring Shock")
 消耗 4 点你的[闪电充能](Lightning_Charges_(Condition).md "Lightning Charges (Condition)")来标记一个敌人。当目标移动时，创造一个范围：2 米 / 6.5 英尺半径的电爆，造成 1d4[闪电](Lightning.md "Lightning")伤害。（充能：[短休](Short_rest.md "Short rest")。）
 
 ---

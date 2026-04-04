@@ -32,13 +32,13 @@ UID `MAG_TheDestroyer_Maul` UUID `89eacf71-5bf6-4e7f-ac9d-e2d7d1d6bcb0` Stats `M
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[摔翻打击](Backbreaker.md "摔翻打击") ()
+[摔翻打击](Backbreaker.md "摔翻打击")
 为你的攻击注入额外力量，可能使敌人[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人，造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[韧性](Tenacity.md "韧性") ()
+[韧性](Tenacity.md "韧性")
 当你攻击未命中时，仍会基于你的[力量](Strength.md "力量")[调整值](Ability_Scores.md#Ability_score_modifiers "属性值")造成[钝击](Bludgeoning.md "Bludgeoning")伤害（最低为1）。
 
 ## 获取地点

@@ -5,11 +5,36 @@
 | 体型 | 中级 |
 | 类型 | 妖精 |
 | 种族 | [妖精](Fey.md "Fey") |
-| 等级 | 6 |
-| 生命值 | 22 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 |
+| --- | --- | --- |
+| 等级 | 6 | 6 |
+| 生命值 | 22 | 44 |
+| 护甲等级 | 13 | 13 |
+| 先攻 | +2 | +2 |
+| 熟练项 | +3 | +5 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 50 千克 (100 磅) | 50 千克 (100 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 14 / (+2) | 11 / (0) | 14 / (+2) | 15 / (+2) | 18 / (+4) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [永久武装](Permanently_Armed.md "Permanently Armed")
+- [魔法抗性](Magic_Resistance.md "Magic Resistance")
+- [自然步伐](Nature's_Step.md "Nature's Step")
+- [森林之握](Grasp_of_the_Forest.md "Grasp of the Forest")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [永久武装](Permanently_Armed.md "Permanently Armed")
+- [魔法抗性](Magic_Resistance.md "Magic Resistance")
+- [自然步伐](Nature's_Step.md "Nature's Step")
+- [森林之握](Grasp_of_the_Forest.md "Grasp of the Forest")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -26,24 +51,24 @@
 
 ### 攻击与能力[&action=edit&section=2> "编辑章节源代码：攻击与能力") | &veaction=edit&section=2> "编辑章节：攻击与能力")]
 
-[强化橡棍术](Strengthened_Shillelagh.md "强化橡棍术") ()
+[强化橡棍术](Strengthened_Shillelagh.md "强化橡棍术")
 你的[长棍](Quarterstaff.md "长棍")或[短棒](Club.md "短棒")变为魔法武器：造成 4d8[钝击](Bludgeoning.md "钝击")伤害，并使用你的[施法关键属性](Ability_score_modifier.md "属性值调整值")进行[攻击掷骰](Attack_roll.md "攻击掷骰")。
 
 范围：自身
 
-[纠缠](Entangle_(Dryad).md "纠缠 (树精)") ()
+[纠缠](Entangle_(Dryad).md "纠缠 (树精)")
 创造一片藤蔓地表，减慢生物速度，并可能使其[缠绕](Entangled_(Condition).md "缠绕 (状态)")。
 
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "Saving_throws")
 范围：18 米 (60 英尺)
 
-[坠落连理](Fallen_Lover.md "坠落连理") ()
+[坠落连理](Fallen_Lover.md "坠落连理")
 召唤一个与你的树誓缚的[菘蓝树人](Wood_Woad.md "菘蓝树人")与你并肩作战。
 
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[荆棘丛生](Spike_Growth.md "荆棘丛生") ()
+[荆棘丛生](Spike_Growth.md "荆棘丛生")
 
 伤害：2~8
 

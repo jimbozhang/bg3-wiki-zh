@@ -3,16 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
+| 声音 / 演员 | [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
+| 家乡 | [博德之门](Baldur's_Gate.md "Baldur's Gate") |
 | 体型 | 中型 |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 62 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 250 |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 62 | 43 | 80 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [反击](Riposte_(passive_feature).md "Riposte (被动特性)")
+- [方阵队形](Phalanx_Formation.md "Phalanx Formation")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [反击](Riposte_(passive_feature).md "Riposte (被动特性)")
+- [方阵队形](Phalanx_Formation.md "Phalanx Formation")
 
 **拳手克罗斯**是一名[人类](Human.md "Human") [战士](Fighter.md "Fighter")，也是[焰拳](Flaming_Fist.md "Flaming Fist")的成员。他可以在[下城区](Lower_City.md "Lower City")的[第三幕](Act_Three.md "Act Three")中找到。
 
@@ -41,7 +69,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") () – [长戟](Halberd.md "Halberd")
+[劈砍](Cleave.md "Cleave") – [长戟](Halberd.md "Halberd")
 
 伤害：
 
@@ -51,7 +79,7 @@
 
 充能：[短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [长戟](Halberd.md "Halberd")
+[割裂](Lacerate.md "Lacerate") – [长戟](Halberd.md "Halberd")
 
 伤害：6~15
 
@@ -65,7 +93,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长戟](Halberd.md "Halberd")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长戟](Halberd.md "Halberd")
 
 伤害：6~15
 
@@ -75,7 +103,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [长戟](Halberd.md "Halberd")
+[突进攻击](Rush_Attack.md "Rush Attack") – [长戟](Halberd.md "Halberd")
 
 伤害：6~9
 

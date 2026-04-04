@@ -3,16 +3,60 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [David Alwyn](https://www.imdb.com/name/nm4753587/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [David Alwyn](https://www.imdb.com/name/nm4753587/) |
+| 体型 | [中型](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [精灵](Elf.md "Elf") |
-| 等级 | 10 |
-| 生命值 | 84 |
-| 护甲等级 | 18 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 400 |
+| 亚种 | [高精灵](High_Elf.md "High elf") |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 84 | 58 | 109 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 400 | 400 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 15 / (+2) | 11 / (0) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "Great Weapon Master: All In")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "Great Weapon Master: Bonus Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "Great Weapon Master: All In")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "Great Weapon Master: Bonus Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "Great Weapon Master: All In")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "Great Weapon Master: Bonus Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "Great Weapon Master: All In")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "Great Weapon Master: Bonus Attack")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **卫士埃伯**是[第三幕](Act_Three.md "第三幕")中[上城区](Upper_City.md "上城区")[卫士](City_Watch.md "City Watch")的一员。在[至高大殿](High_Hall.md "至高大殿")的庭院被[绝对真神](Absolute.md "绝对真神")的势力攻占后，他试图逃离。
 
@@ -47,7 +91,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨剑](Greatsword.md "巨剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨剑](Greatsword.md "巨剑")
 
 伤害：6~16
 
@@ -57,7 +101,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[劈砍](Cleave.md "劈砍") () – [巨剑](Greatsword.md "巨剑")
+[劈砍](Cleave.md "劈砍") – [巨剑](Greatsword.md "巨剑")
 
 伤害：
 
@@ -67,7 +111,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [巨剑](Greatsword.md "巨剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [巨剑](Greatsword.md "巨剑")
 
 伤害：1~4
 
@@ -79,7 +123,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [巨剑](Greatsword.md "巨剑")
+[突进攻击](Rush_Attack.md "突进攻击") – [巨剑](Greatsword.md "巨剑")
 
 伤害：5~8
 

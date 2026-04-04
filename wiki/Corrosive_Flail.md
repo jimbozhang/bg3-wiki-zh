@@ -24,20 +24,20 @@ UID `MAG_Corrosive_Flail` UUID `0a44de18-b355-4692-9256-d920b9bb25b7` ### 武器
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 用全力击打敌人，造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[弱化打击](Weakening_Strike.md "弱化打击") ()
+[弱化打击](Weakening_Strike.md "弱化打击")
 以非致命攻击瞄准敌人的手部，可能施加[弱腕](Weak_Grip_(Condition).md "弱腕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[韧性](Tenacity.md "韧性") ()
+[韧性](Tenacity.md "韧性")
 当你攻击未命中时，依然造成等于你[力量](Strength.md "力量")[调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的 ⁠[钝击](Bludgeoning.md "钝击") 伤害（最低为 1）。
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[腐蚀打击](Corrosive_Strike.md "腐蚀打击") ()
+[腐蚀打击](Corrosive_Strike.md "腐蚀打击")
 造成额外的 ⁠[强酸](Acid.md "强酸") 伤害，伤害值等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。命中时，在目标周围形成一滩强酸，使其[护甲等级](Armour_Class.md "护甲等级")降低 2。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

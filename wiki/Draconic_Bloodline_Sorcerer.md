@@ -38,12 +38,12 @@
 [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "元素亲和：伤害")
 当你施放一个造成与你龙族血统相关伤害类型的法术时，你将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性值调整值")加到伤害上。
 
-[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性") ()
+[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")
 当你施放一个造成与你龙族血统匹配伤害的法术时，你可以消耗一个[术法点](Sorcery_Point.md "术法点")来获得对该伤害类型的[抗性](Damage_types.md#Resistance "伤害类型")。
 
 ### 等级 11
 
-[飞行](Fly_(class_action).md "飞行（职业动作）") ()
+[飞行](Fly_(class_action).md "飞行（职业动作）")
 飞向目标位置
 
 ## 外观

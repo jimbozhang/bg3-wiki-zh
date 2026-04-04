@@ -12,13 +12,13 @@
 
 ## 赋予
 
-[多重攻击](Multiattack_(Flind).md "多重攻击（弗林德）") ()
+[多重攻击](Multiattack_(Flind).md "多重攻击（弗林德）")
 瞄准一个目标，使用一把[疯狂链枷](Flail_of_Madness.md "疯狂链枷")、一把[痛苦链枷](Flail_of_Pain.md "痛苦链枷")和一把[麻痹链枷](Flail_of_Paralysis.md "麻痹链枷")。
 
-[多重攻击](Multiattack_(Ranged).md "多重攻击（远程）") ()
+[多重攻击](Multiattack_(Ranged).md "多重攻击（远程）")
 瞄准一个目标进行三次攻击。（充能：每回合。）
 
-[多重攻击](Multiattack_(Gnoll).md "多重攻击（豺狼人）") ()
+[多重攻击](Multiattack_(Gnoll).md "多重攻击（豺狼人）")
 瞄准一个目标进行多次攻击。
 
 ## 怒气冲天的来源

@@ -3,16 +3,27 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
+| 声音 / 演员 | [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [地精](Goblin.md "Goblin") |
-| 等级 | 2 |
-| 生命值 | 13 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 20 |
+| 职业 | [邪术师](Warlock.md "Warlock") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 2 | 2 | 2 |
+| 生命值 | 13 | 9 | 20 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 12 / (+1) | 10 / (0) | 10 / (0) | 8 / (-1) | 14 / (+2) |
 
 ## 荣誉难度属性
 
@@ -95,7 +106,7 @@
 
 射程：自身
 
-[魔能爆](Eldritch_Blast.md "Eldritch Blast") ()
+[魔能爆](Eldritch_Blast.md "Eldritch Blast")
 
 伤害：1~10
 
@@ -117,7 +128,7 @@
 
 射程：18 米 (60 英尺)
 
-[割裂](Lacerate.md "Lacerate") () – [手斧](Handaxe.md "Handaxe")
+[割裂](Lacerate.md "Lacerate") – [手斧](Handaxe.md "Handaxe")
 
 伤害：1~6
 
@@ -131,7 +142,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [手斧](Handaxe.md "Handaxe")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [手斧](Handaxe.md "Handaxe")
 
 伤害：1~6
 

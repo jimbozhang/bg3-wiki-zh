@@ -22,7 +22,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Sharran_Wolf).md "啃咬（莎尔之狼）") ()
+[啃咬](Bite_(Sharran_Wolf).md "啃咬（莎尔之狼）")
 
 伤害：1~8
 

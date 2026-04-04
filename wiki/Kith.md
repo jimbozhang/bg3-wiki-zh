@@ -140,7 +140,7 @@ _对应`UND_KC_Trader_Utility`。_
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "Backbreaker") () – [战锤](Warhammer.md "Warhammer")
+[摔翻打击](Backbreaker.md "Backbreaker") – [战锤](Warhammer.md "Warhammer")
 
 伤害：5~8
 
@@ -152,7 +152,7 @@ _对应`UND_KC_Trader_Utility`。_
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [战锤](Warhammer.md "Warhammer")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [战锤](Warhammer.md "Warhammer")
 
 伤害：5~12
 
@@ -164,7 +164,7 @@ _对应`UND_KC_Trader_Utility`。_
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[巨化](Enlarge_(Duergar).md "Enlarge (Duergar)") ()
+[巨化](Enlarge_(Duergar).md "Enlarge (Duergar)")
 
 体型增大以变得更强
 
@@ -173,7 +173,7 @@ _对应`UND_KC_Trader_Utility`。_
 范围：自身
 充能：[长休](Long_Rest.md "Long rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [战锤](Warhammer.md "Warhammer")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [战锤](Warhammer.md "Warhammer")
 
 伤害：5~12
 
@@ -183,7 +183,7 @@ _对应`UND_KC_Trader_Utility`。_
 
 近战：1.5 米 (5 英尺)
 
-[投掷石头](Throw_Stone.md "Throw Stone") ()
+[投掷石头](Throw_Stone.md "Throw Stone")
 
 伤害：5~8
 
@@ -193,7 +193,7 @@ _对应`UND_KC_Trader_Utility`。_
 
 范围：9 米 (30 英尺)
 
-[弱化打击](Weakening_Strike.md "Weakening_Strike") () – [战锤](Warhammer.md "Warhammer")
+[弱化打击](Weakening_Strike.md "Weakening_Strike") – [战锤](Warhammer.md "Warhammer")
 
 伤害：5~8
 

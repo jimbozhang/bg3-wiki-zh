@@ -17,7 +17,7 @@ _此副职获得其基础职业[法师](Wizard.md "法师")的所有特性，以
 [咒刃之力](#level-2)：2
 用于施展咒刃。在[长休](Long_Rest.md "长休")时恢复。即使熟练，也无法在中甲或重甲中进行咒刃；穿着这些护甲时，你将获得“咒刃受阻”状态。
 
-[咒刃](Bladesong.md "咒刃") ()
+[咒刃](Bladesong.md "咒刃")
 唤起咒刃。你获得+2的[护甲等级](Armour_Class.md "护甲等级")加值，并且你的[移动速度](Movement_speed.md "移动速度")增加3米（10英尺）。你还在[体操](Acrobatics.md "体操")上获得[优势](Advantage.md "优势")，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上获得+2加值。
 
 [战争与歌谣训练](Training_in_War_and_Song.md "战争与歌谣训练")
@@ -27,7 +27,7 @@ _此副职获得其基础职业[法师](Wizard.md "法师")的所有特性，以
 
 [咒刃之力](#level-2)：3
 获得一次额外的咒刃使用次数。
-[咒刃](Bladesong.md "咒刃") ()
+[咒刃](Bladesong.md "咒刃")
 护甲等级和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")加值增加至+3。
 
 ### 等级 6
@@ -39,7 +39,7 @@ _此副职获得其基础职业[法师](Wizard.md "法师")的所有特性，以
 
 [咒刃之力](#level-2)：4
 获得一次额外的咒刃使用次数。
-[咒刃](Bladesong.md "咒刃") ()
+[咒刃](Bladesong.md "咒刃")
 护甲等级和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")加值增加至+4。
 
 ### 等级 10

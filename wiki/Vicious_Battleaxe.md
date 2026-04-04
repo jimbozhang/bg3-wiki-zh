@@ -33,13 +33,13 @@ UID `MAG_Vicious_Battleaxe` UUID `3ff89075-1ef3-487e-b456-a1b536fd681a` Stats `M
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击 3 个敌人。每个敌人受到您的武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害点，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足（状态）")。他们无法移动。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

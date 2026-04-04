@@ -32,14 +32,14 @@
 
 ### 攻击与能力
 
-[恐惧凝视](Dreadful_Glare.md "恐惧凝视") ()
+[恐惧凝视](Dreadful_Glare.md "恐惧凝视")
 用你邪恶的目光锁定目标，使其[恐慌](Frightened_(Condition).md "恐慌 (状态)")。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 m (60 ft)
 充能：每回合
 
-[多重攻击](Multiattack_(Mummy).md "多重攻击 (木乃伊)") ()
+[多重攻击](Multiattack_(Mummy).md "多重攻击 (木乃伊)")
 
 伤害：16~66
 
@@ -56,7 +56,7 @@
 近战：1.5 m (5 ft)
 充能：每回合
 
-[腐烂之拳](Rotting_Fist.md "腐烂之拳") ()
+[腐烂之拳](Rotting_Fist.md "腐烂之拳")
 
 伤害：8~33
 

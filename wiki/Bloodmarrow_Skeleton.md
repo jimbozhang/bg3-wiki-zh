@@ -25,7 +25,7 @@
 
 ### 攻击与能力
 
-[血骷髅猛击](Blood_Skeleton_Slam.md "Blood Skeleton Slam") ()
+[血骷髅猛击](Blood_Skeleton_Slam.md "Blood Skeleton Slam")
 
 伤害: 5~19
 

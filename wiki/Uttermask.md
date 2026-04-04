@@ -3,16 +3,27 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [James Bradwell](https://www.imdb.com/name/nm10525457/) |
+| 声音 / 演员 | [James Bradwell](https://www.imdb.com/name/nm10525457/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 7 |
-| 生命值 | 74 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 9米（30英尺） |
-| 经验值 | 320 |
+| 职业 | [法师](Wizard.md "Wizard") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 74 | 51 | 96 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +3 | +3 |
+| 移动速度 | 9米（30英尺） | 9米（30英尺） | 9米（30英尺） |
+| 重量 | 75千克（150磅） | 75千克（150磅） | 75千克（150磅） |
+| 暗视 | 24米（80英尺） | 24米（80英尺） | 24米（80英尺） |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 10 / (0) | 10 / (0) | 18 / (+4) | 12 / (+1) | 10 / (0) |
 
 **极面**是位于X: -391 Y: -1663的[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace")中的一名[莎尔信徒菲蒂利安](Sharran_Fidelian.md "Sharran Fidelian")。
 
@@ -31,7 +42,7 @@
 
 ### 攻击与能力
 
-[召唤黑暗](Beckoning_Darkness.md "Beckoning Darkness") ()
+[召唤黑暗](Beckoning_Darkness.md "Beckoning Darkness")
 
 伤害：2~16
 
@@ -42,7 +53,7 @@
 [魅力](Charisma.md "Charisma") [豁免检定](Saving_throws.md "Saving throws")
 范围：4米（13英尺）
 
-[冻僵](Bone_Chill.md "Bone Chill") ()
+[冻僵](Bone_Chill.md "Bone Chill")
 
 伤害：1~8
 
@@ -57,7 +68,7 @@
 
 范围：18米（60英尺）
 
-[暗影步](Shadow_Step.md "Shadow Step") ()
+[暗影步](Shadow_Step.md "Shadow Step")
 从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送至阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")获得[优势](Advantage.md "Advantage")。
 
 范围：18米（60英尺）

@@ -3,14 +3,27 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
+| 声音 / 演员 | [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 1 |
-| 生命值 | 6 |
-| 护甲等级 | 10 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 1 | 1 | 1 |
+| 生命值 | 6 | 4 | 8 |
+| 护甲等级 | 10 | 10 | 10 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **邦特·恰格雷**可以在[第三幕](Act_Three.md "Act Three")期间，在[下城区](Lower_City.md "Lower City")的[精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")附近区域找到。
 

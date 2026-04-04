@@ -3,16 +3,38 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Declan Perring](https://www.imdb.com/name/nm9779536/) |
+| 声音 / 演员 | [Declan Perring](https://www.imdb.com/name/nm9779536/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [怪兽](Monstrosity.md "怪兽") |
 | 种族 | [变形怪](Doppelganger.md "变形怪") |
-| 等级 | 8 |
-| 生命值 | 52 |
-| 护甲等级 | 14 |
-| 先攻 | +4 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 200 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 52 | 26 | 67 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 65 千克 (130 磅) | 65 千克 (130 磅) | 65 千克 (130 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 18 / (+4) | 14 / (+2) | 11 / (0) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **佐姆** 是一个[变形怪](Doppelganger.md "变形怪")，在[第三幕](Act_Three.md "第三幕")的[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")下方的[神殿洞穴区域](Under_Temple_Cave_Area.md "神殿洞穴区域")中被发现。
 
@@ -37,7 +59,7 @@
 
 佐姆拥有通用[变形怪](Doppelganger.md "变形怪")的属性、攻击和能力。
 
-[华舞](Flourish.md "华舞") () – [短剑](Shortsword.md "短剑")
+[华舞](Flourish.md "华舞") – [短剑](Shortsword.md "短剑")
 
 伤害：1~4
 
@@ -49,7 +71,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短剑](Shortsword.md "短剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短剑](Shortsword.md "短剑")
 
 伤害：5~10
 
@@ -59,13 +81,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[形态伏击](Morphic_Ambush.md "形态伏击") ()
+[形态伏击](Morphic_Ambush.md "形态伏击")
 经历惊人的变形以惊吓你的敌人。成功[伏击](Ambushed_(Condition).md "伏击 (状态)")的实体更容易受到你的攻击。
 
 范围：自身
 充能：每场战斗
 
-[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)") ()
+[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")
 
 伤害：12~32
 
@@ -78,7 +100,7 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [短剑](Shortsword.md "短剑")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [短剑](Shortsword.md "短剑")
 
 伤害：5~10
 
@@ -92,7 +114,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[猛击](Slam_(Doppelganger).md "猛击 (变形怪)") ()
+[猛击](Slam_(Doppelganger).md "猛击 (变形怪)")
 
 伤害：2~16
 

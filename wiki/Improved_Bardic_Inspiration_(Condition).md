@@ -12,7 +12,7 @@
 
 ## 赋予
 
-[吟游诗人攻击](Bardic_Attack.md "吟游诗人攻击") ()
+[吟游诗人攻击](Bardic_Attack.md "吟游诗人攻击")
 为你的[攻击掷骰](Attack_roll.md "攻击掷骰")添加+1d6加值。
 
 [吟游诗人防御](Bardic_Defence.md "吟游诗人防御")

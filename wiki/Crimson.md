@@ -44,7 +44,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Dilophosaurus).md "啃咬（双脊龙）") ()
+[啃咬](Bite_(Dilophosaurus).md "啃咬（双脊龙）")
 
 伤害：6~22
 
@@ -56,7 +56,7 @@
 
 近战：1.5米（5英尺）
 
-[腐蚀唾液](Corrosive_Spit.md "腐蚀唾液") ()
+[腐蚀唾液](Corrosive_Spit.md "腐蚀唾液")
 
 伤害：4~34
 

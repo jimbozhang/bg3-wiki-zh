@@ -53,7 +53,7 @@
 
 ### 攻击与能力
 
-[赭色唾液](Ochre_Sputum_(grease).md "赭色唾液 (油脂)") ()
+[赭色唾液](Ochre_Sputum_(grease).md "赭色唾液 (油脂)")
 
 伤害：2~12
 
@@ -63,7 +63,7 @@
 
 射程：18 米 (60 英尺)
 
-[伪足](Pseudopod_(Greaseball).md "伪足 (油脂球)") ()
+[伪足](Pseudopod_(Greaseball).md "伪足 (油脂球)")
 
 伤害：5~26
 

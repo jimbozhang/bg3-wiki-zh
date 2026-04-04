@@ -8,10 +8,10 @@
 
 当你造成法术伤害时，获得2回合*_[参见注释](#notes)_*的[灼热](Heat_(Condition).md "灼热（状态）")。当你与克雷斯卡的火焰共鸣时，你可以在每个[短休](Short_rest.md "短休")中各施放一次[火球术](Fireball.md "火球术")和[火墙术](Wall_of_Fire.md "火墙术")。
 
-[火球术](Fireball.md "火球术") ()
+[火球术](Fireball.md "火球术")
 以3环法术施放（充能：[短休](Short_rest.md "短休")。）
 
-[火墙术](Wall_of_Fire.md "火墙术") ()
+[火墙术](Wall_of_Fire.md "火墙术")
 以5环法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 属性

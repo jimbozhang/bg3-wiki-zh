@@ -27,7 +27,7 @@
 
 ### 攻击与能力
 
-[铁意追击](Ironbound_Pursuit.md "铁意追击") ()
+[铁意追击](Ironbound_Pursuit.md "铁意追击")
 
 伤害：7~28
 
@@ -38,7 +38,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [镰刀](Sickle.md "镰刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [镰刀](Sickle.md "镰刀")
 
 伤害：5~8
 
@@ -50,7 +50,7 @@
 
 仅在[嗜血](Bloodlust_(Condition).md "嗜血 (状态)")效果下可用：
 
-[多重攻击](Multiattack_(Redcap).md "多重攻击 (红帽子)") ()
+[多重攻击](Multiattack_(Redcap).md "多重攻击 (红帽子)")
 
 伤害：
 

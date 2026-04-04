@@ -129,13 +129,13 @@
 
 ### 攻击与能力
 
-[以太漫游](Ethereal_Jaunt.md "以太漫游") ()
+[以太漫游](Ethereal_Jaunt.md "以太漫游")
 被银色雾气环绕，你传送到一个可见的未被占据的空间。
 
 范围：22 米 (73 英尺)
 冷却：每回合
 
-[女族长的召唤](Matriarch's_Call.md "女族长的召唤") ()
+[女族长的召唤](Matriarch's_Call.md "女族长的召唤")
 蜘蛛女王召唤她的后代，使附近的卵孵化。
 
 范围：3 米 (10 英尺)
@@ -148,7 +148,7 @@
 范围：自身
 冷却：每场战斗
 
-[猛毒之噬](Venomous_Bite_(Phase_Spider_Matriarch).md "猛毒之噬 (相位蜘蛛女王)") ()
+[猛毒之噬](Venomous_Bite_(Phase_Spider_Matriarch).md "猛毒之噬 (相位蜘蛛女王)")
 
 伤害：10~37
 
@@ -165,7 +165,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[猛毒扩散](Venomous_Discharge_(Phase_Spider_Matriarch).md "猛毒扩散 (相位蜘蛛女王)") ()
+[猛毒扩散](Venomous_Discharge_(Phase_Spider_Matriarch).md "猛毒扩散 (相位蜘蛛女王)")
 
 伤害：9~29
 
@@ -180,7 +180,7 @@
 
 仅在荣誉模式中，女王和她的[相位蜘蛛](Phase_Spider.md "相位蜘蛛")都将拥有识破隐形。
 
-[蛛丝墓穴](Gossamer_Tomb.md "蛛丝墓穴") ()
+[蛛丝墓穴](Gossamer_Tomb.md "蛛丝墓穴")
 
 伤害：8~80
 

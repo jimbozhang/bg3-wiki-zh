@@ -27,12 +27,12 @@
 | 生命值 | 20 |  |  |  |  |
 | 护甲等级 | 17 |  |  |  |  |
 
-[爪击](Claws_(Ghast).md "爪击（妖鬼）") ()
+[爪击](Claws_(Ghast).md "爪击（妖鬼）")
 用致命的爪子猛击，并可能使目标[麻痹](Paralysed_(Condition).md "麻痹（状态）")。
 
 爆炸并对3米/10英尺范围内的所有生物造成6d6[黯蚀](Necrotic.md "黯蚀")伤害。
 
-[吞噬](Devour_(Animate_Dead_Ghoul).md "吞噬（操纵死尸：食尸鬼）") ()
+[吞噬](Devour_(Animate_Dead_Ghoul).md "吞噬（操纵死尸：食尸鬼）")
 
 啃咬一个倒地、倒伏或沉睡的目标，造成3d10 + 力量调整值[挥砍](Slashing.md "挥砍")伤害。治疗等同于该数值的生命值。
 

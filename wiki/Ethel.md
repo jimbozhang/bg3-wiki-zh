@@ -3,12 +3,15 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Rena Valeh](https://www.imdb.com/name/nm2830239/) |
+| 声音 / 演员 | [Rena Valeh](https://www.imdb.com/name/nm2830239/) |
+| 角色 | [商人](Trader.md "商人") |
+| 家乡 | [河边茶室](Riverside_Teahouse.md "河边茶室"), [日照湿地](Sunlit_Wetlands.md "日照湿地") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [妖精](Fey.md "妖精") |
 | 种族 | [鬼婆](Hag.md "鬼婆") |
 
-属性
+| | |
+| --- | --- |
 
 **埃赛尔婶婶**是一位挑剔的药水、药膏、古怪玩意和杂货商人，最初可以在[翠绿林地](Emerald_Grove.md "翠绿林地")的[空谷](The_Hollow.md "空谷")遇到她。之后，她会回到她在[日照湿地](Sunlit_Wetlands.md "日照湿地")的[河边茶室](Riverside_Teahouse.md "河边茶室")的家。
 

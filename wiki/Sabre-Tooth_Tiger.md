@@ -16,7 +16,7 @@
 
 ### 攻击和能力
 
-[啃咬](Bite_(Sabre-Toothed_Tiger).md "啃咬 (剑齿虎)") ()
+[啃咬](Bite_(Sabre-Toothed_Tiger).md "啃咬 (剑齿虎)")
 
 伤害: 6~16
 
@@ -26,7 +26,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[锁喉扑击](Jugular_Strike.md "锁喉扑击") ()
+[锁喉扑击](Jugular_Strike.md "锁喉扑击")
 
 伤害: 11~24
 
@@ -38,7 +38,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[破甲撕裂](Shred_Armour.md "破甲撕裂") ()
+[破甲撕裂](Shred_Armour.md "破甲撕裂")
 
 伤害: 6~12
 

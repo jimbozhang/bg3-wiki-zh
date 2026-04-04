@@ -3,15 +3,50 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Aisling Groves McKeown](https://www.imdb.com/name/nm6092518/) |
+| 声音 / 演员 | [Aisling Groves McKeown](https://www.imdb.com/name/nm6092518/) |
+| 角色 | [随从](Attached_Follower.md "随从") |
+| 家庭 | [柯里拉](Korrilla.md "柯里拉") (妹妹) |
+| 家乡 | [希望之邸](House_of_Hope.md "希望之邸") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "黄金矮人") |
+| 职业 | [牧师](Cleric.md "牧师") |
+| 副职 | [生命领域](Life_Domain.md "生命领域") |
+
+| | |
+| --- | --- |
 | 等级 | 10 |
 | 生命值 | 94 |
 | 护甲等级 | 20 |
 | 先攻 | 0 |
+| 熟练项 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) |
 | 经验值 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 10 / (0) | 14 / (+2) | 13 / (+1) | 18 / (+4) | 11 / (0) |
+
+**特性**
+
+- [神佑医师](Blessed_Healer.md "神佑医师")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [生命门徒](Disciple_of_Life.md "生命门徒")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [最后希望](Last_Hope.md "最后希望")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [神佑医师](Blessed_Healer.md "神佑医师")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [生命门徒](Disciple_of_Life.md "生命门徒")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [最后希望](Last_Hope.md "最后希望")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -97,7 +132,7 @@
 
 射程：自身
 
-[神圣打击：光耀](Divine_Strike_colon__Radiant.md "神圣打击：光耀") ()
+[神圣打击：光耀](Divine_Strike_colon__Radiant.md "神圣打击：光耀")
 
 伤害：1~8
 
@@ -110,7 +145,7 @@
 射程：普通武器射程
 充能：每回合
 
-[神导术](Guidance.md "神导术") ()
+[神导术](Guidance.md "神导术")
 目标获得**+1d4**加值到[属性检定](Ability_Check.md "属性检定")。
 
 近战：1.5 米 (5 英尺)
@@ -143,7 +178,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长棍](Quarterstaff.md "长棍")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长棍](Quarterstaff.md "长棍")
 
 伤害：4~9
 
@@ -183,7 +218,7 @@
 
 射程：自身
 
-[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 伤害：1~8
 
@@ -203,7 +238,7 @@
 
 射程：18 米 (60 英尺)
 
-[摔绊](Topple.md "摔绊") () – [长棍](Quarterstaff.md "长棍")
+[摔绊](Topple.md "摔绊") – [长棍](Quarterstaff.md "长棍")
 
 伤害：1~4
 

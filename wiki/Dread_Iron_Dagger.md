@@ -32,7 +32,7 @@ UID `MAG_Zhentarim_SleeperDagger` UUID `9829ba14-b236-4e50-ad54-426ff618074b` St
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -123,7 +123,7 @@
 
 ### 攻击与能力
 
-[恐怖灵光](Aura_of_Terror.md "恐怖灵光") ()
+[恐怖灵光](Aura_of_Terror.md "恐怖灵光")
 
 使敌人在你的压迫性存在范围内进行[攻击](Attack.md "攻击")和[豁免检定](Saving_throws.md "豁免检定")时具有[劣势](Disadvantage.md "劣势")。
 

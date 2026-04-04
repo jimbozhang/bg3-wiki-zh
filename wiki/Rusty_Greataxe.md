@@ -25,13 +25,13 @@ UID `WPN_HUM_Greataxe_A_0_Rusty_A` UUID `a8f37e10-8590-4a65-85d1-29bf8ef5bd64` #
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[劈砍](Cleave.md "Cleave") ()
+[劈砍](Cleave.md "Cleave")
 挥动武器进行大范围横扫，同时攻击最多 3 个敌人。每个敌人受到你武器通常伤害的一半。（充能：[短休](Short_rest.md "Short rest")。）
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[准备](Prepare.md "Prepare") ()
+[准备](Prepare.md "Prepare")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害（最低 1 点）。（充能：[短休](Short_rest.md "Short rest")。）
 
 ---

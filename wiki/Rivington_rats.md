@@ -38,7 +38,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "华舞") () – [弯刀](Scimitar.md "弯刀")
+[华舞](Flourish.md "华舞") – [弯刀](Scimitar.md "弯刀")
 
 伤害：1~4
 
@@ -50,7 +50,7 @@
 范围：普通武器范围
 充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [弯刀](Scimitar.md "弯刀")
+[割裂](Lacerate.md "割裂") – [弯刀](Scimitar.md "弯刀")
 
 伤害：5~10
 
@@ -64,7 +64,7 @@
 范围：普通武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [弯刀](Scimitar.md "弯刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [弯刀](Scimitar.md "弯刀")
 
 伤害：5~10
 

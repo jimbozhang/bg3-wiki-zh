@@ -10,8 +10,6 @@
 | 先攻 | +5 |
 | 移动速度 | 9 米 (30 英尺) |
 
-属性
-
 **布布**是[明斯克](Minsc.md "明斯克")的魔宠和伙伴。他是一只[迷你巨太空仓鼠](https://forgottenrealms.fandom.com/wiki/miniature_giant_space_hamster)，明斯克可以用[获得魔宠：小布](Find_Familiar_colon__Boo.md "获得魔宠：小布")召唤他。
 
 布布是玩家角色即使在使用[动物交谈](Speak_with_Animals.md "动物交谈")时也无法理解的少数[野兽](Category_colon_Beasts.md "Category:Beasts")之一。然而，明斯克断言布布“说了很多”，也许有一天他们能够理解他。
@@ -54,7 +52,7 @@
 
 ### 动作
 
-[啃咬](Bite_(Base).md "啃咬 (基础)") ()
+[啃咬](Bite_(Base).md "啃咬 (基础)")
 
 伤害: 7~13
 

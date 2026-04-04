@@ -29,12 +29,12 @@
 
 ### 攻击与能力
 
-[黑暗回声](Echoes_in_the_Dark.md "黑暗回声") ()
+[黑暗回声](Echoes_in_the_Dark.md "黑暗回声")
 此生物发出警报以提醒其盟友。
 
 每次遭遇充能
 
-[钩子](Hook_(class_action).md "钩子 (职业动作)") ()
+[钩子](Hook_(class_action).md "钩子 (职业动作)")
 
 伤害：6~16
 
@@ -45,7 +45,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[多重攻击](Multiattack_(Hook_Horror).md "多重攻击 (恐爪怪)") ()
+[多重攻击](Multiattack_(Hook_Horror).md "多重攻击 (恐爪怪)")
 
 伤害：12~32
 

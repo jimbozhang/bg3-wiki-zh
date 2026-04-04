@@ -3,15 +3,27 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [米歇尔·莫兰](https://www.imdb.com/name/nm2508189/) |
+| 声音 / 演员 | [米歇尔·莫兰](https://www.imdb.com/name/nm2508189/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [地精](Goblin.md "Goblin") |
-| 等级 | 2 |
-| 生命值 | 12 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
-| 经验值 | 20 |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 2 | 2 | 2 |
+| 生命值 | 12 | 8 | 19 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 14 / (+2) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
 
 ## 荣誉难度属性
 
@@ -99,7 +111,7 @@
 [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[腿筋射击](Hamstring_Shot.md "Hamstring Shot") () – [地精弓](Goblin_Bow.md "Goblin Bow")
+[腿筋射击](Hamstring_Shot.md "Hamstring Shot") – [地精弓](Goblin_Bow.md "Goblin Bow")
 
 伤害：3~8
 
@@ -111,10 +123,10 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[灵活逃避](Nimble_Escape.md "Nimble Escape") ()
+[灵活逃避](Nimble_Escape.md "Nimble Escape")
 安全撤退：移动不会引发[借机攻击](Opportunity_Attack.md "Opportunity Attack")。
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [地精弓](Goblin_Bow.md "Goblin Bow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [地精弓](Goblin_Bow.md "Goblin Bow")
 
 伤害：3~8
 
@@ -124,7 +136,7 @@
 
 射程：18 米 (60 英尺)
 
-[座狼伙伴](Worg_Companion.md "Worg Companion") ()
+[座狼伙伴](Worg_Companion.md "Worg Companion")
 获得一个野兽伙伴，陪伴你冒险并肩作战。
 
 射程：18 米 (60 英尺)

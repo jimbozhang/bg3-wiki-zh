@@ -24,7 +24,7 @@
 
 ### 等级 9
 
-[极效潜行](Supreme_Sneak.md "极效潜行") ()
+[极效潜行](Supreme_Sneak.md "极效潜行")
 完全融入环境，使你变得[隐形](Invisible_(Condition).md "隐形 (状态)"). (充能：[短休](Short_rest.md "短休").)
 
 ## 外部链接

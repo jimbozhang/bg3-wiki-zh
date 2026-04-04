@@ -18,7 +18,7 @@
 
 佩戴此物品者获得：
 
-[恶毒嘲笑](Vicious_Mockery.md "Vicious Mockery") ()
+[恶毒嘲笑](Vicious_Mockery.md "Vicious Mockery")
 可作为戏法随意施放。
 
 ---

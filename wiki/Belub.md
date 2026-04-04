@@ -137,7 +137,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [轻弩](Light_Crossbow.md "轻弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [轻弩](Light_Crossbow.md "轻弩")
 
 伤害：1~8
 
@@ -151,7 +151,7 @@
 范围：常规武器范围
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [轻弩](Light_Crossbow.md "轻弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [轻弩](Light_Crossbow.md "轻弩")
 
 伤害：1~8
 
@@ -161,7 +161,7 @@
 
 范围：18 米 (60 英尺)
 
-[圣火术](Sacred_Flame.md "圣火术") ()
+[圣火术](Sacred_Flame.md "圣火术")
 
 伤害：1~8
 

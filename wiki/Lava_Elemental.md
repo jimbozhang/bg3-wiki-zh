@@ -66,12 +66,12 @@
 
 ### 攻击与能力
 
-[创造岩浆](Create_Lava.md "创造岩浆") ()
+[创造岩浆](Create_Lava.md "创造岩浆")
 从火位面汲取力量，融化地面并在自身下方创造一小块[熔岩](Lava.md "熔岩")地表。
 
 范围：自身
 
-[多重攻击](Multiattack_(Lava_Elemental).md "多重攻击 (岩浆元素)") ()
+[多重攻击](Multiattack_(Lava_Elemental).md "多重攻击 (岩浆元素)")
 
 伤害：16~56
 
@@ -87,7 +87,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[猛击](Slam_(Lava_Elemental).md "猛击 (岩浆元素)") ()
+[猛击](Slam_(Lava_Elemental).md "猛击 (岩浆元素)")
 
 伤害：8~28
 

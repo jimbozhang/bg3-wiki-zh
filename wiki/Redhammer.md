@@ -3,16 +3,29 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Kit Esuruoso](https://www.imdb.com/name/nm8331478/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [Kit Esuruoso](https://www.imdb.com/name/nm8331478/) |
+| 体型 | [中型](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 11 |
-| 生命值 | 80 |
-| 护甲等级 | 15 |
-| 先攻 | +1 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 320 |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "Gold Dwarf") |
+| 职业 | [战士](Fighter.md "Fighter") |
+| 副职 | [战斗大师](Battle_Master.md "Battle Master") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 80 | 56 | 104 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 12 / (+1) | 16 / (+3) | 10 / (0) | 14 / (+2) | 12 / (+1) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -152,7 +165,7 @@
 [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [短矛 +1](Spear_+1.md "Spear +1")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [短矛 +1](Spear_+1.md "Spear +1")
 
 伤害：6~11
 
@@ -162,7 +175,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [短矛 +1](Spear_+1.md "Spear +1")
+[突进攻击](Rush_Attack.md "Rush Attack") – [短矛 +1](Spear_+1.md "Spear +1")
 
 伤害：5~8
 
@@ -174,7 +187,7 @@
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[回气](Second_Wind.md "Second Wind") ()
+[回气](Second_Wind.md "Second Wind")
 
 治疗：1~10 + 调整值
 

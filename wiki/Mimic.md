@@ -55,7 +55,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Mimic).md "啃咬 (拟形怪)") ()
+[啃咬](Bite_(Mimic).md "啃咬 (拟形怪)")
 
 伤害: 5~19
 
@@ -66,7 +66,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 近战: 1.5 米 (5 英尺)
 
-[伪足抽击](Pseudopod_Lash.md "伪足抽击") ()
+[伪足抽击](Pseudopod_Lash.md "伪足抽击")
 
 伤害: 6~21
 

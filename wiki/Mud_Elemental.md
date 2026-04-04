@@ -59,7 +59,7 @@
 
 ### 攻击与能力
 
-[猛击](Slam_(Mud_Elemental).md "猛击 (泥土元素)") ()
+[猛击](Slam_(Mud_Elemental).md "猛击 (泥土元素)")
 
 伤害：5~11
 
@@ -70,7 +70,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[多重攻击](Multiattack_(Mud_Elemental).md "多重攻击 (泥土元素)") ()
+[多重攻击](Multiattack_(Mud_Elemental).md "多重攻击 (泥土元素)")
 
 伤害：16~66
 

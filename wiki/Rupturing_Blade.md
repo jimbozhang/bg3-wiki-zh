@@ -25,20 +25,20 @@ UID `MAG_OfRupture_Rapier` UUID `2d55309e-52ab-4270-9211-e432e4d8fc59` Stats `MA
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[弱化打击](Weakening_Strike.md "弱化打击") ()
+[弱化打击](Weakening_Strike.md "弱化打击")
 以非致命攻击瞄准敌人的手部，可能施加[弱腕](Weak_Grip_(Condition).md "弱腕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[灼热血液](Searing_Blood.md "灼热血液") ()
+[灼热血液](Searing_Blood.md "灼热血液")
 切入敌人，对其造成额外熟练项加值⁠⁠[火焰](Fire.md "火焰")伤害和1d6⁠⁠[火焰](Fire.md "火焰")伤害，同时你自己受到1d6⁠⁠[挥砍](Slashing.md "挥砍")伤害。此外，攻击可能使目标[流血](Bleeding_(Condition).md "流血（状态）")和[燃烧](Burning_(Condition).md "燃烧（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

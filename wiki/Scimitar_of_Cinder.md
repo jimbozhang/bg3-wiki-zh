@@ -26,7 +26,7 @@ UID `WPN_Scimitar_Fire_Myrmidon_ConjureElemental` UUID `cac16ce7-f5fd-4314-8b79-
 
 该武器还提供以下动作：
 
-[炽热打击](Scorching_Strike.md "炽热打击") ()
+[炽热打击](Scorching_Strike.md "炽热打击")
 以炽热的打击猛击，并可能使目标[燃烧](Burning_(Condition).md "燃烧（状态）")。
 
 ## 获取地点

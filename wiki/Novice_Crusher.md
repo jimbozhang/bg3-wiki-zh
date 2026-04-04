@@ -188,7 +188,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "华舞") () – [地精弯刀](Goblin_Scimitar.md "地精弯刀")
+[华舞](Flourish.md "华舞") – [地精弯刀](Goblin_Scimitar.md "地精弯刀")
 
 伤害：1~4
 
@@ -200,7 +200,7 @@
 范围：正常武器范围
 恢复：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [地精弯刀](Goblin_Scimitar.md "地精弯刀")
+[割裂](Lacerate.md "割裂") – [地精弯刀](Goblin_Scimitar.md "地精弯刀")
 
 伤害：4~9
 
@@ -214,7 +214,7 @@
 范围：正常武器范围
 恢复：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [地精弯刀](Goblin_Scimitar.md "地精弯刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [地精弯刀](Goblin_Scimitar.md "地精弯刀")
 
 伤害：4~9
 
@@ -224,7 +224,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[无畏战吼](Reckless_Warcry.md "无畏战吼") ()
+[无畏战吼](Reckless_Warcry.md "无畏战吼")
 将你的[力量](Strength.md "力量")提高 3，代价是降低你的[护甲等级](Armour_Class.md "护甲等级") 1。
 
 范围：自身

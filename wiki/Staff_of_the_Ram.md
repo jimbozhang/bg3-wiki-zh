@@ -35,7 +35,7 @@ UID `S_LOW_JaheirasHouse_StaffOfTheRam` UUID `f6b9701c-66ca-43d1-adea-2e5b443fa3
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物使其 [倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -2,16 +2,27 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Sofia Zervudachi](https://www.imdb.com/name/nm10343093/) |
+| 声音 / 演员 | [Sofia Zervudachi](https://www.imdb.com/name/nm10343093/) |
+| 家乡 | [扎尔宅邸](Szarr_Palace.md "Szarr_Palace"), [博德之门](Baldur's_Gate.md "Baldur's Gate") |
 | 体型 | 中级 |
 | 类型 | [不死生物](Undead.md "Undead") |
 | 种族 | [吸血鬼衍体](Vampire_spawn.md "Vampire_spawn") |
+
+| | |
+| --- | --- |
 | 等级 | 11 |
 | 生命值 | 82 |
 | 护甲等级 | 18 |
 | 先攻 | +3 |
+| 熟练项 | +4 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 16 米 (53 英尺) |
 | 经验值 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 16 / (+3) | 16 / (+3) | 11 / (0) | 10 / (0) | 12 / (+1) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -65,7 +76,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Vampire_Spawn).md "Bite (Vampire Spawn)") ()
+[啃咬](Bite_(Vampire_Spawn).md "Bite (Vampire Spawn)")
 
 伤害: 6~21
 
@@ -79,7 +90,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[爪击](Claws_(action).md "Claws (action)") ()
+[爪击](Claws_(action).md "Claws (action)")
 
 伤害: 5~11
 
@@ -89,7 +100,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[多重攻击](Multiattack_(Vampire_Spawn).md "Multiattack (Vampire Spawn)") ()
+[多重攻击](Multiattack_(Vampire_Spawn).md "Multiattack (Vampire Spawn)")
 
 伤害: 10~22
 

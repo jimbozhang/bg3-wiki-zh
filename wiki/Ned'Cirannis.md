@@ -2,14 +2,43 @@
 
 | | |
 | --- | --- |
+| 全名 | 内德'奇兰尼斯 |
+| 性别 | 男性 |
+| 声优 / 演员 | [Matthew Biddulph](https://www.imdb.com/name/nm9890041/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [卓尔](Drow.md "Drow") |
-| 等级 | 2 |
-| 生命值 | 20 |
-| 护甲等级 | 13 |
-| 先攻 | +3 |
-| 移动速度 | 9 米 (30 英尺) |
+| 亚种 | [罗丝誓约卓尔](Lolth-Sworn_Drow.md "Lolth-sworn drow") |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 2 | 2 | 2 |
+| 生命值 | 20 | 14 | 26 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 16 米 (53 英尺) | 16 米 (53 英尺) | 16 米 (53 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 16 / (+3) | 12 / (+1) | 10 / (0) | 14 / (+2) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
 
 ## 状态
 

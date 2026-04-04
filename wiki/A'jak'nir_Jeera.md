@@ -58,7 +58,7 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[标点弱点](Brand_the_Weak.md "Brand the Weak") () – [烙印护符](Amulet_of_Branding.md "Amulet of Branding")
+[标点弱点](Brand_the_Weak.md "Brand the Weak") – [烙印护符](Amulet_of_Branding.md "Amulet of Branding")
 
 暴露敌人的弱点。他们变得对⁠[钝击](Bludgeoning.md "Bludgeoning")、⁠[挥砍](Slashing.md "Slashing")或⁠[穿刺](Piercing.md "Piercing")伤害[易伤](Vulnerable.md "Vulnerable")。
 
@@ -84,7 +84,7 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[割裂](Lacerate.md "Lacerate") () – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[割裂](Lacerate.md "Lacerate") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
 
 伤害：3~10
 
@@ -98,7 +98,7 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 射程：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
 
 伤害：3~10
 
@@ -108,13 +108,13 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 
 近战：1.5 米 (5 英尺)
 
-[迷踪步](Misty_Step.md "Misty Step") ()
+[迷踪步](Misty_Step.md "Misty Step")
 被银色雾气包围，你传送到一个可见的未被占据的空间。
 
 射程：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "Long rest")
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
 
 伤害：1~4
 
@@ -126,7 +126,7 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[冷冻射线](Ray_of_Frost.md "Ray of Frost") ()
+[冷冻射线](Ray_of_Frost.md "Ray of Frost")
 
 伤害：1~8
 
@@ -136,7 +136,7 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 
 射程：18 米 (60 英尺)
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[突进攻击](Rush_Attack.md "Rush Attack") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
 
 伤害：3~6
 
@@ -148,7 +148,7 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 射程：9 米 (30 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[电爪](Shocking_Grasp.md "Shocking Grasp") ()
+[电爪](Shocking_Grasp.md "Shocking Grasp")
 
 伤害：1~8
 

@@ -21,7 +21,7 @@
 
 ## 攻击与能力
 
-[爪击](Claws_(Intellect_Devourer).md "爪击（噬脑怪）") ()
+[爪击](Claws_(Intellect_Devourer).md "爪击（噬脑怪）")
 
 伤害：4~10
 
@@ -31,7 +31,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[突触放电](Synaptic_Discharge.md "突触放电") ()
+[突触放电](Synaptic_Discharge.md "突触放电")
 
 伤害：3~8
 

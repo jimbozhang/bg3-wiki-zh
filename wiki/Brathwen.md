@@ -3,16 +3,46 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Ash Rizi](https://www.imdb.com/name/nm7787239/) |
+| 声音 / 演员 | [Ash Rizi](https://www.imdb.com/name/nm7787239/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
-| 等级 | 5 |
-| 生命值 | 54 |
-| 护甲等级 | 12 |
-| 先攻 | +1 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 75 |
+| 亚种 | [灰矮人](Duergar.md "灰矮人") |
+| 职业 | [战士](Fighter.md "战士") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 54 | 37 | 70 |
+| 护甲等级 | 12 | 12 | 12 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 19 / (+4) | 12 / (+1) | 16 / (+3) | 10 / (0) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
+
+**特性**
+
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -73,7 +103,7 @@
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [战锤](Warhammer.md "战锤")
+[摔翻打击](Backbreaker.md "摔翻打击") – [战锤](Warhammer.md "战锤")
 
 伤害：5~8
 
@@ -85,7 +115,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[冻僵](Bone_Chill.md "冻僵") ()
+[冻僵](Bone_Chill.md "冻僵")
 
 伤害：1~8
 
@@ -95,7 +125,7 @@
 
 范围：18 米 (60 英尺)
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [战锤](Warhammer.md "战锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [战锤](Warhammer.md "战锤")
 
 伤害：5~12
 
@@ -107,7 +137,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [战锤](Warhammer.md "战锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [战锤](Warhammer.md "战锤")
 
 伤害：5~12
 
@@ -130,7 +160,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[投掷](Throw.md "投掷") () – [烟粉炸弹](Smokepowder_Bomb.md "烟粉炸弹")
+[投掷](Throw.md "投掷") – [烟粉炸弹](Smokepowder_Bomb.md "烟粉炸弹")
 
 伤害：
 
@@ -144,7 +174,7 @@
 
 范围：3-18 米 (10-60 英尺)
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [战锤](Warhammer.md "战锤")
+[弱化打击](Weakening_Strike.md "弱化打击") – [战锤](Warhammer.md "战锤")
 
 伤害：5~8
 

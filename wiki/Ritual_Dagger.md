@@ -29,7 +29,7 @@ UID `WPN_GOB_PainPriest_Dagger` UUID `11aa209f-6e42-40bd-a12c-aa33445c21ea` Stat
 
 **持有此物品获得：**
 
-[血祭](Blood_Sacrifice.md "血祭") ()
+[血祭](Blood_Sacrifice.md "血祭")
 痛苦是通往力量的道路。承受 1d4⁠⁠[挥砍](Slashing.md "挥砍") 伤害，以获得 +1d4 的 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [豁免检定](Saving_throw.md "豁免检定") 加值。
 
 [痛苦女神的祝福](The_Pain_Maiden's_Blessing.md "痛苦女神的祝福")
@@ -39,7 +39,7 @@ UID `WPN_GOB_PainPriest_Dagger` UUID `11aa209f-6e42-40bd-a12c-aa33445c21ea` Stat
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加 [开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

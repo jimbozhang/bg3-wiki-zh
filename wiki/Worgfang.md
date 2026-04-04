@@ -33,7 +33,7 @@ UID `S_GOB_WolfPens_BloodFang` UUID `hb31cf979gfaf2g4dd6ga4degcd3517187b06` ### 
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing Strike")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）").（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

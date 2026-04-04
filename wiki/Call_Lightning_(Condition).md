@@ -9,7 +9,7 @@
 [堆叠 ID](Stack_ID.md "Stack ID"): `CALL_LIGHTNING_SPELL`
 ## 赋予：
 
-[激活召雷术](Activate_Call_Lightning.md "Activate Call Lightning") ()
+[激活召雷术](Activate_Call_Lightning.md "Activate Call Lightning")
 召唤更多闪电击中效果区域内的所有目标。
 
 ## 备注

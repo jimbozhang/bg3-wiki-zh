@@ -19,13 +19,13 @@
 
 穿戴此物品获得：
 
-[粉碎音波](Shatter.md "粉碎音波") ()
+[粉碎音波](Shatter.md "粉碎音波")
 以2级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 [与活体护符交谈](Talk_to_the_Sentient_Amulet.md "与活体护符交谈")
 与感知护符内残留的意识交谈。
 
-[回气](Ki_Restoration_(Lesser).md "次级回气") ()
+[回气](Ki_Restoration_(Lesser).md "次级回气")
 使用护符中的灵能，你恢复2[气点](Ki_Point.md "气点")。（充能：[长休](Long_Rest.md "长休")。）
 
 穿戴此护符会施加状态：

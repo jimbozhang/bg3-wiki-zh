@@ -24,7 +24,7 @@ UID `WPN_DUE_Whipping_Cane_A_0` UUID `3a9e4e60-9f58-4fb9-8a16-4cf784ad6f0d` ### 
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") ()
+[震荡猛击](Concussive_Smash.md "Concussive Smash")
 全力击中敌人以造成伤害并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

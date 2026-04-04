@@ -70,7 +70,7 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [长弓](Longbow.md "Longbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [长弓](Longbow.md "Longbow")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")。在本回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "Short rest")
@@ -100,7 +100,7 @@
 [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[腿筋射击](Hamstring_Shot.md "Hamstring Shot") () – [长弓](Longbow.md "Longbow")
+[腿筋射击](Hamstring_Shot.md "Hamstring Shot") – [长弓](Longbow.md "Longbow")
 
 伤害：4~11
 
@@ -112,7 +112,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") ()
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack")
 
 伤害：
 
@@ -122,7 +122,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [长弓](Longbow.md "Longbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [长弓](Longbow.md "Longbow")
 
 伤害：4~11
 
@@ -132,7 +132,7 @@
 
 射程：18 米 (60 英尺)
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "Sneak Attack (Melee)") ()
+[偷袭（近战）](Sneak_Attack_(Melee).md "Sneak Attack (Melee)")
 
 伤害：1~6
 
@@ -147,7 +147,7 @@
 射程：正常武器射程
 充能：每回合
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "Sneak Attack (Ranged)") () – [长弓](Longbow.md "Longbow")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "Sneak Attack (Ranged)") – [长弓](Longbow.md "Longbow")
 
 伤害：5~17
 
@@ -162,7 +162,7 @@
 射程：正常武器射程
 充能：每回合
 
-[投掷](Throw.md "Throw") () – [炼金火焰](Alchemist's_Fire.md "Alchemist's Fire")
+[投掷](Throw.md "Throw") – [炼金火焰](Alchemist's_Fire.md "Alchemist's Fire")
 
 伤害：
 

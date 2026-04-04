@@ -3,15 +3,30 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Glen McCready](https://www.imdb.com/name/nm1959185/) |
+| 声音 / 演员 | [Glen McCready](https://www.imdb.com/name/nm1959185/) |
+| 家乡 | [艾尔图瑞尔](Elturel.md "Elturel") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [提夫林](Tiefling.md "Tiefling") |
-| 等级 | 4 |
-| 生命值 | 44 |
-| 护甲等级 | 17 |
-| 先攻 | +2 |
-| 经验值 | 75 |
+| 亚种 | [阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling") |
+| 职业 | [圣武士](Paladin.md "Paladin") |
+| 副职 | [奉献之誓](Oath_of_Devotion.md "Oath of Devotion")/[弃誓者](Oathbreaker.md "Oathbreaker") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 44 | 33 | 54 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 14 / (+2) | 15 / (+2) | 10 / (0) | 11 / (0) | 17 / (+3) |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -222,12 +237,12 @@
 
 ### 第一幕
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")。在你的回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "Short rest")
 
-[至圣斩](Divine_Smite_(reaction).md "Divine Smite (reaction)") ()
+[至圣斩](Divine_Smite_(reaction).md "Divine Smite (reaction)")
 
 伤害：3~24
 
@@ -247,7 +262,7 @@
 
 如果目标成功通过豁免，仍会受到一半伤害。
 
-[割裂](Lacerate.md "Lacerate") () – [长剑](Longsword.md "Longsword")
+[割裂](Lacerate.md "Lacerate") – [长剑](Longsword.md "Longsword")
 
 伤害：5~12
 
@@ -261,7 +276,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长剑](Longsword.md "Longsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长剑](Longsword.md "Longsword")
 
 伤害：5~12
 
@@ -271,7 +286,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：3~12
 
@@ -285,7 +300,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [长剑](Longsword.md "Longsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [长剑](Longsword.md "Longsword")
 
 伤害：1~4
 
@@ -297,7 +312,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：3~12
 
@@ -307,7 +322,7 @@
 
 范围：18 米 (60 英尺)
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [长剑](Longsword.md "Longsword")
+[突进攻击](Rush_Attack.md "Rush Attack") – [长剑](Longsword.md "Longsword")
 
 伤害：5~8
 

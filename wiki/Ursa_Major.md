@@ -5,10 +5,32 @@
 | 体型 | 大型 |
 | 类型 | [野兽](Beast.md "野兽") |
 | 种族 | [Bear](Bear.md "熊") |
-| 等级 | 5 |
-| 生命值 | 39 |
-| 护甲等级 | 15 |
-| 先攻 | 0 |
+
+| | 平衡 | 探索者 |
+| --- | --- | --- |
+| 等级 | 5 | 5 |
+| 生命值 | 39 | 78 |
+| 护甲等级 | 15 | 17 |
+| 先攻 | 0 | 0 |
+| 熟练项 | +3 | +5 |
+| 重量 | 250 kg (500 lb) | 250 kg (500 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 10 / (0) | 16 / (+3) | 2 / (-4) | 12 / (+1) | 7 / (-2) |
+
+**特性**
+
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
+
+**特性**
+
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [猎物的气味](Prey's_Scent.md "猎物的气味")
 
 **大熊座**是通过[驯兽师](Beast_Master.md "驯兽师")的[熊伙伴](Bear_Companion.md "熊伙伴")能力召唤的[熊](Bear.md "熊")，是[游侠伙伴](Ranger's_Companion.md "游侠伙伴")的变体。当驯兽师达到5级时，大熊座会从[大熊座](Ursa.md "大熊座")升级而来，并在驯兽师达到11级时变为[熊战士](Ursa_Ingens.md "熊战士")。
 
@@ -24,7 +46,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Bear_Companion).md "爪击 (熊伙伴)") ()
+[爪击](Claws_(Bear_Companion).md "爪击 (熊伙伴)")
 
 伤害：3~10
 
@@ -34,12 +56,12 @@
 
 近战：1.5 m (5 ft)
 
-[挑衅咆哮](Goading_Roar.md "挑衅咆哮") ()
+[挑衅咆哮](Goading_Roar.md "挑衅咆哮")
 对附近的敌人咆哮，挑衅他们攻击你。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 
-[沾蜜利爪](Honeyed_Paws.md "沾蜜利爪") ()
+[沾蜜利爪](Honeyed_Paws.md "沾蜜利爪")
 
 伤害：3~10
 
@@ -59,17 +81,17 @@
 
 - 大熊座获得被动[训练有素](Exceptional_Training.md "训练有素")，使其获得：
 
-[疾走](Dash_(bonus_action).md "疾走 (附赠动作)") ()
+[疾走](Dash_(bonus_action).md "疾走 (附赠动作)")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
 范围：自身
 
-[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作") ()
+[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作")
 安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。
 
 范围：自身
 
-[协助](Help_(bonus_action).md "协助 (附赠动作)") ()
+[协助](Help_(bonus_action).md "协助 (附赠动作)")
 帮助需要帮助的盟友。移除[燃烧](Burning_(Condition).md "燃烧 (状态)")、[倒地](Downed_(Condition).md "倒地 (状态)")、\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕 (缠绕打击) (状态)")、[缠绕](Entangled_(Condition).md "缠绕 (状态)")、[网缚](Enwebbed_(Condition).md "网缚 (状态)")、[倒伏](Prone_(status_group).md), [沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
 范围：1.5 m (5 ft)

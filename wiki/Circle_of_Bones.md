@@ -14,7 +14,7 @@
 
 穿戴此物品获得：
 
-[操纵死尸](Animate_Dead.md "操纵死尸") ()
+[操纵死尸](Animate_Dead.md "操纵死尸")
 以 3 级法术施展（充能：[长休](Long_Rest.md "长休")。）
 
 [防护不死生物](Undead_Ward.md "防护不死生物")

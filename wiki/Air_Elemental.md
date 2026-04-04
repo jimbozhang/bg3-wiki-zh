@@ -45,7 +45,7 @@
 
 ### 攻击与能力
 
-[涌动之风](Gushing_Air.md "涌动之风") ()
+[涌动之风](Gushing_Air.md "涌动之风")
 
 伤害: 6~26
 
@@ -58,7 +58,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围: 18 米 (60 英尺)
 
-[原始雷暴](Primordial_Gales.md "原始雷暴") ()
+[原始雷暴](Primordial_Gales.md "原始雷暴")
 
 伤害: 2~12
 
@@ -69,7 +69,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围: 自身
 
-[多重攻击](Multiattack_(Air_Elemental).md "多重攻击 (风元素)") ()
+[多重攻击](Multiattack_(Air_Elemental).md "多重攻击 (风元素)")
 
 伤害: 12~36
 
@@ -88,12 +88,12 @@
 近战: 1.5 米 (5 英尺)
 充能: 每回合
 
-[元素扭曲](Elemental_Warp.md "元素扭曲") ()
+[元素扭曲](Elemental_Warp.md "元素扭曲")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。
 
 范围: 18 米 (60 英尺)
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞向目标位置
 
 范围: 18 米 (60 英尺)

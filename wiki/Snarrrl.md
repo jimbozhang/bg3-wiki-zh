@@ -17,7 +17,7 @@
 
 ### 攻击和属性
 
-[啃咬](Bite_(Worg).md "Bite (Worg)") ()
+[啃咬](Bite_(Worg).md "Bite (Worg)")
 
 伤害: 8~28
 

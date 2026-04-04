@@ -31,14 +31,14 @@ UID `MAG_Shadow_Blinding_Bow` UUID `2199a407-0ae8-4ada-b3cd-b19df5adeadd` Stats 
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 射击敌人的大腿，并可能将其[移动速度](Movement_speed.md "移动速度")降低 50%。(充能：[短休](Short_rest.md "短休")。)
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[致盲射击](Blinding_Shot.md "致盲射击") ()
+[致盲射击](Blinding_Shot.md "致盲射击")
 将深杜埃拉子女的失落魔法编织入你的射击中，并可能使目标[目盲](Blinded_(Condition).md "目盲 (状态)")。(充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

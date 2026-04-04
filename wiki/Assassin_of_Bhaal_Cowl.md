@@ -17,7 +17,7 @@
 
 穿戴此物品获得：
 
-[识破隐形](See_Invisibility_(spell).md "识破隐形（法术）") ()
+[识破隐形](See_Invisibility_(spell).md "识破隐形（法术）")
 以 2 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 [谋杀视觉](Murderous_Sight.md "谋杀视觉")

@@ -74,7 +74,7 @@ Like most other Fists at the checkpoint, Kepso abhors the presence of refugees. 
 
 ### Attacks and abilities
 
-[劈砍](Cleave.md "Cleave") () – [长戟](Halberd.md "Halberd")
+[劈砍](Cleave.md "Cleave") – [长戟](Halberd.md "Halberd")
 
 Damage:
 
@@ -84,7 +84,7 @@ Swing your weapon in a large arc to attack up to 3 enemies at once. They each ta
 
 Recharge: [短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [长戟](Halberd.md "Halberd")
+[割裂](Lacerate.md "Lacerate") – [长戟](Halberd.md "Halberd")
 
 Damage: 6~15
 
@@ -98,7 +98,7 @@ Slash at your target's vital points to make it [流血](Bleeding_(Condition).md 
 Range: Normal weapon range
 Recharge: [短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长戟](Halberd.md "Halberd")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长戟](Halberd.md "Halberd")
 
 Damage: 6~15
 
@@ -108,7 +108,7 @@ Make a melee attack with your equipped weapon.
 
 Melee: 1.5 m (5 ft)
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [长戟](Halberd.md "Halberd")
+[突进攻击](Rush_Attack.md "Rush Attack") – [长戟](Halberd.md "Halberd")
 
 Damage: 6~9
 
@@ -130,7 +130,7 @@ Swing your weapon in a rapid, sweeping arc to attack multiple enemies at once. R
 
 Recharge: Per turn
 
-[投掷](Throw.md "Throw") () – [标枪](Javelin.md "Javelin")
+[投掷](Throw.md "Throw") – [标枪](Javelin.md "Javelin")
 
 Damage: 6~11
 

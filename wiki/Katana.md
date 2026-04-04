@@ -27,13 +27,13 @@ UID `WPN_HUM_Katana_A` UUID `7050c02e-f0e1-46b8-9400-2514805ecd2e` 统计 `WPN_K
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使你的对手[失衡](Off_Balance_(Condition).md "失衡（状态）").（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位使其[流血](Bleeding_(Condition).md "流血（状态）").（充能：[短休](Short_rest.md "短休")。）
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）").（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

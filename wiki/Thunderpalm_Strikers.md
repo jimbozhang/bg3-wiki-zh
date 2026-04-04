@@ -17,7 +17,7 @@
 
 此物品的穿戴者获得：
 
-[雷鸣波](Thunderwave.md "Thunderwave") ()
+[雷鸣波](Thunderwave.md "Thunderwave")
 以 3 级法术施放（充能：[长休](Long_Rest.md "Long rest")。）
 
 [轰鸣打击](Booming_Blows.md "Booming Blows")

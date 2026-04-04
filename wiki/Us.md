@@ -2,9 +2,14 @@
 
 | | |
 | --- | --- |
+| 声优 / 演员 | [Clare Corbett](https://www.imdb.com/name/nm1352940/) |
+| 角色 | [依附追随者](Attached_Follower.md "依附追随者"), [获得魔宠](Familiar.md "获得魔宠") |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [异怪](Aberration.md "异怪") |
 | 种族 | [噬脑怪](Intellect_Devourer.md "噬脑怪") |
+
+| | |
+| --- | --- |
 
 **我们** 是一个 [噬脑怪](Intellect_Devourer.md "噬脑怪")，也是可能的 [依附追随者](Attached_Follower.md "依附追随者")，可以在 _[博德之门3](Baldur's_Gate_3.md "博德之门3")_ 的 [序幕](Prologue.md "序幕") 期间，在 [鹦鹉螺](Nautiloid.md "鹦鹉螺") 上，被困在一位名为 [米纳斯](Myrnath.md "米纳斯") 的精灵头部中遇到。
 

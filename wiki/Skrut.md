@@ -3,16 +3,38 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [马克·诺布尔](https://www.imdb.com/name/nm1646345/) |
+| 声音 / 演员 | [马克·诺布尔](https://www.imdb.com/name/nm1646345/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [地精](Goblin.md "Goblin") |
-| 等级 | 3 |
-| 生命值 | 31 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 50 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 31 | 21 | 40 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 50 | 50 | 50 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 13 / (+1) | 12 / (+1) | 10 / (0) | 8 / (-1) | 13 / (+1) |
+
+**特性**
+
+- [原始狂怒](Crude_Frenzy.md "Crude Frenzy")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [原始狂怒](Crude_Frenzy.md "Crude Frenzy")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **斯格鲁特**是驻扎在[地精营地](Goblin_Camp.md "Goblin Camp")的地精，位于[第一幕](Act_One.md "Act_One")。
 
@@ -45,7 +67,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
 
 伤害：3~8
 
@@ -55,13 +77,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[无畏战吼](Reckless_Warcry.md "Reckless Warcry") ()
+[无畏战吼](Reckless_Warcry.md "Reckless Warcry")
 将你的[力量](Strength.md "Strength")提高 3，代价是降低你的[护甲等级](Armour_Class.md "Armour Class") 1。
 
 范围：自身
 充能：[短休](Short_rest.md "Short rest")
 
-[投掷石头](Throw_Stone.md "Throw Stone") ()
+[投掷石头](Throw_Stone.md "Throw Stone")
 
 伤害：3~6
 

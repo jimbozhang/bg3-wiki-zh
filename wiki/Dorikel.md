@@ -122,7 +122,7 @@
 范围：18 米 (60 英尺)
 冷却：每次战斗
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长棍](Quarterstaff.md "长棍")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长棍](Quarterstaff.md "长棍")
 
 伤害：2~7
 
@@ -132,7 +132,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[圣火术](Sacred_Flame.md "圣火术") ()
+[圣火术](Sacred_Flame.md "圣火术")
 
 伤害：1~8
 
@@ -143,7 +143,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[摔绊](Topple.md "摔绊") () – [长棍](Quarterstaff.md "长棍")
+[摔绊](Topple.md "摔绊") – [长棍](Quarterstaff.md "长棍")
 
 伤害：1~4
 

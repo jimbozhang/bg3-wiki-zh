@@ -27,8 +27,6 @@
 
 属性
 
-属性
-
 **图拉**是[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")中的一名[铁手氏族](Clan_Ironhand.md "铁手氏族")侏儒，位于[第一幕](Act_One.md "第一幕")。
 
 > “
@@ -67,7 +65,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：1~4
 
@@ -77,7 +75,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：1~4
 

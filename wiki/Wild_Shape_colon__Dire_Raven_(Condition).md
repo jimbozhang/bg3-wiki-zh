@@ -43,7 +43,7 @@
 | [荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger_(Condition).md "荒野形态：剑齿虎 (状态)") | 变形为剑齿虎 |
 | [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon_(Condition).md "荒野形态：水元素执政官 (状态)") | 变形为水元素执政官 |
 
-[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击 (恐鸦)") ()
+[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击 (恐鸦)")
 
 [解除变形](Dismiss_Wild_Shape.md "解除变形")
 解除你的荒野形态并变回原始形态。
@@ -53,7 +53,7 @@
 [月光修复](Lunar_Mend.md "月光修复") (+ )
 消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态时恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[治疗](Healing.md "治疗")。
 
-[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠 (恐鸦)") ()
+[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠 (恐鸦)")
 攻击生物的眼睛并使其[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
 ## 荒野形态：恐鸦的来源

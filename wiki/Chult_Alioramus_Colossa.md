@@ -19,7 +19,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Alioramus).md "啃咬 (分支龙)") ()
+[啃咬](Bite_(Alioramus).md "啃咬 (分支龙)")
 
 伤害：6~12
 
@@ -30,7 +30,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[释放交配信息素](Exude_Mating_Pheromones.md "释放交配信息素") ()
+[释放交配信息素](Exude_Mating_Pheromones.md "释放交配信息素")
 分支龙分泌信息素，驱使附近其他分支龙进入[狂怒](Mating_Frenzy_(Condition).md "交配狂怒 (状态)")。
 
 范围：自身

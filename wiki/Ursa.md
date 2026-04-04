@@ -14,7 +14,7 @@
 
 ### 攻击和能力
 
-[爪击](Claws_(Bear_Companion).md "爪击 (熊伙伴)") ()
+[爪击](Claws_(Bear_Companion).md "爪击 (熊伙伴)")
 
 伤害：3~10
 
@@ -24,7 +24,7 @@
 
 近战：1.5 m (5 ft)
 
-[挑衅咆哮](Goading_Roar.md "挑衅咆哮") ()
+[挑衅咆哮](Goading_Roar.md "挑衅咆哮")
 向附近的敌人咆哮，挑衅他们攻击你。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")

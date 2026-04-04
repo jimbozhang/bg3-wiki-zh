@@ -3,16 +3,39 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [丹·博顿利](https://www.imdb.com/name/nm7694024/) |
+| 声音 / 演员 | [丹·博顿利](https://www.imdb.com/name/nm7694024/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半身人](Halfling.md "Halfling") |
-| 等级 | 1 |
-| 生命值 | 8 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 1 |
+| 亚种 | [轻足半身人](Halfling.md#Lightfoot_halflings "Halfling") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 1 | 1 | 1 |
+| 生命值 | 8 | 5 | 10 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [勇敢](Brave.md "Brave")
+- [半身人幸运](Halfling_Luck.md "Halfling Luck")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [勇敢](Brave.md "Brave")
+- [半身人幸运](Halfling_Luck.md "Halfling Luck")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **达什肯特·莫里弗**是[利文顿](Rivington.md "Rivington")的[弗雷戈招待所](Fraygo's_Flophouse.md "Fraygo's Flophouse")的管理员，出现在[第三幕](Act_Three.md "Act Three")。
 

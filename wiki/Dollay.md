@@ -20,7 +20,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [硬头锤](Mace.md "Mace")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [硬头锤](Mace.md "Mace")
 
 伤害：5~10
 
@@ -32,7 +32,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [硬头锤](Mace.md "Mace")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [硬头锤](Mace.md "Mace")
 
 伤害：5~10
 

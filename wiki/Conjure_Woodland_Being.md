@@ -26,15 +26,15 @@
 | 生命值 | 22 |  |  |  |  |
 | 护甲等级 | 13 |  |  |  |  |
 
-[强化橡棍术](Strengthened_Shillelagh.md "强化橡棍术") ()
+[强化橡棍术](Strengthened_Shillelagh.md "强化橡棍术")
 你的[长棍](Quarterstaff.md "长棍")或[短棒](Club.md "短棒")变为魔法武器：造成4d8[钝击](Bludgeoning.md "钝击")伤害，并使用你的[施法关键属性](Ability_score_modifier.md "属性值调整值")进行[攻击掷骰](Attack_roll.md "攻击掷骰")。
 
 创造一个藤蔓地表，减缓生物速度，并可能[缠绕](Entangled_(Condition).md "缠绕（状态）")它们。
 
-[坠落连理](Fallen_Lover.md "坠落连理") ()
+[坠落连理](Fallen_Lover.md "坠落连理")
 召唤一个与你的树相连的[菘蓝树人](Wood_Woad.md "菘蓝树人")与你并肩作战。（充能：[短休](Short_rest.md "短休")。）
 
-[荆棘丛生](Spike_Growth.md "荆棘丛生") ()
+[荆棘丛生](Spike_Growth.md "荆棘丛生")
 将一片地面塑造成坚硬的尖刺。生物在尖刺上行走时，每移动1.5米（5英尺）会受到2d4⁠⁠[穿刺](Piercing.md "穿刺")伤害。尖刺是[劣势地形](Difficult_Terrain.md "劣势地形")，使生物的[移动速度](Movement_speed.md "移动速度")减半。
 
 ## 如何习得

@@ -33,7 +33,7 @@ UID `UNI_UND_DuergarBlacksmithHammer` UUID `733a70a1-2e0f-46f4-aca1-037c0335dc72
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") ()
+[震荡猛击](Concussive_Smash.md "Concussive Smash")
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

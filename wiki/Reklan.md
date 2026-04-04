@@ -2,16 +2,35 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Declan Perring](https://www.imdb.com/name/nm9779536/) |
+| 声音 / 演员 | [Declan Perring](https://www.imdb.com/name/nm9779536/) |
 | 体型 | 中级 |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 11 |
-| 生命值 | 72 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 320 |
+| 职业 | [法师](Wizard.md "Wizard") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 72 | 50 | 93 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 10 / (0) | 10 / (0) | 16 / (+3) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **瑞克兰**是一名[人类](Human.md "Human")守卫，驻扎在[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")的[中央瞭望塔](Central_Watch_Tower.md "Central Watch Tower")梯子顶部。
 
@@ -26,7 +45,7 @@
 
 ### 攻击与能力
 
-[火焰箭](Fire_Bolt.md "Fire Bolt") ()
+[火焰箭](Fire_Bolt.md "Fire Bolt")
 
 伤害: 1~10
 

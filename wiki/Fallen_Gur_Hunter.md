@@ -37,7 +37,7 @@
 
 ## 攻击与能力
 
-[爪击](Claws_(Fallen_Gur_Hunter).md "爪击 (堕落古尔猎人)") ()
+[爪击](Claws_(Fallen_Gur_Hunter).md "爪击 (堕落古尔猎人)")
 
 伤害: 8~28
 
@@ -48,7 +48,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战: 1.5 米 (5 英尺)
 
-[恶臭](Stench.md "恶臭") ()
+[恶臭](Stench.md "恶臭")
 
 散发墓穴霉菌和屠宰场的恶臭，使附近敌人[作呕](Ghastly_Fume_(Condition).md "恶臭气体 (状态)")。
 

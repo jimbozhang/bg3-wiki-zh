@@ -35,13 +35,13 @@ UID `MAG_Infernal_Warhammer` UUID `855f49c9-5724-4df9-a23d-0af82116af76` ### 特
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[摔翻打击](Backbreaker.md "Backbreaker") ()
+[摔翻打击](Backbreaker.md "Backbreaker")
 在攻击中施加额外力量，可能使敌人[倒伏](Prone_(Condition).md "Prone (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") ()
+[震荡猛击](Concussive_Smash.md "Concussive Smash")
 全力击中敌人造成伤害，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[弱化打击](Weakening_Strike.md "Weakening Strike") ()
+[弱化打击](Weakening_Strike.md "Weakening Strike")
 以非致命攻击瞄准敌人的手，可能施加[弱腕](Weak_Grip_(Condition).md "Weak Grip (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 错误

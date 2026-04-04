@@ -23,10 +23,10 @@
 | 生命值 | 42 |  |  |  |  |
 | 护甲等级 | 16 |  |  |  |  |
 
-[纠缠](Entangle_(Wood_Woad).md "纠缠（菘蓝树人）") ()
+[纠缠](Entangle_(Wood_Woad).md "纠缠（菘蓝树人）")
 创建藤蔓地表，减慢生物速度，可能使其[缠绕](Entangled_(Condition).md "缠绕（状态）")。
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") ()
+[主手攻击](Main_Hand_Attack.md "主手攻击")
 用装备的武器进行近战攻击。
 
 [魔力短棒](Magic_Club.md "魔力短棒")

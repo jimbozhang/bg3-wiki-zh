@@ -17,7 +17,7 @@
 
 ### 攻击与能力
 
-[猛毒之噬](Venomous_Bite_(Spider_Wild_Shape).md "猛毒之噬 (蜘蛛荒野形态)") ()
+[猛毒之噬](Venomous_Bite_(Spider_Wild_Shape).md "猛毒之噬 (蜘蛛荒野形态)")
 
 伤害: 4~11
 
@@ -28,13 +28,13 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战: 1.5 米 (5 英尺)
 
-[蛛网术](Web_(Spider_Wild_Shape).md "蛛网术 (蜘蛛荒野形态)") ()
+[蛛网术](Web_(Spider_Wild_Shape).md "蛛网术 (蜘蛛荒野形态)")
 喷出厚实、易燃的蛛网，减缓范围内的生物并可能使其[网缚](Enwebbed_(Condition).md "网缚 (状态)")。
 
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程: 18 米 (60 英尺)
 
-[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃") ()
+[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃")
 向上、向下和横向跳跃。你的[力量](Strength.md "力量")影响你能跳多远。
 
 射程: 11 米 (37 英尺)

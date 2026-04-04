@@ -143,7 +143,7 @@ _对应`UND_KC_Trader_Weapons`。_
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") () – [巨斧](Greataxe.md "Greataxe")
+[劈砍](Cleave.md "Cleave") – [巨斧](Greataxe.md "Greataxe")
 
 伤害：
 
@@ -166,7 +166,7 @@ _对应`UND_KC_Trader_Weapons`。_
 [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws")
 范围：正常武器范围
 
-[巨化](Enlarge_(Duergar).md "Enlarge (Duergar)") ()
+[巨化](Enlarge_(Duergar).md "Enlarge (Duergar)")
 
 体型增大，变得更强壮
 
@@ -175,7 +175,7 @@ _对应`UND_KC_Trader_Weapons`。_
 范围：自身
 充能：[长休](Long_Rest.md "Long rest")
 
-[割裂](Lacerate.md "Lacerate") () – [巨斧](Greataxe.md "Greataxe")
+[割裂](Lacerate.md "Lacerate") – [巨斧](Greataxe.md "Greataxe")
 
 伤害：5~16
 
@@ -189,7 +189,7 @@ _对应`UND_KC_Trader_Weapons`。_
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨斧](Greataxe.md "Greataxe")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨斧](Greataxe.md "Greataxe")
 
 伤害：5~16
 
@@ -199,7 +199,7 @@ _对应`UND_KC_Trader_Weapons`。_
 
 近战：1.5 米 (5 英尺)
 
-[准备](Prepare.md "Prepare") () – [巨斧](Greataxe.md "Greataxe")
+[准备](Prepare.md "Prepare") – [巨斧](Greataxe.md "Greataxe")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击造成额外的力量调整值⁠⁠[物理](Physical.md "Physical")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害（最低 1）。
 
 范围：自身

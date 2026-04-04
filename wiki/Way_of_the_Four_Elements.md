@@ -33,7 +33,7 @@
 - [风暴之触](Touch_of_the_Storm.md "风暴之触")
 - [清流鞭](Water_Whip.md "清流鞭")
 
-[水火调和](Harmony_of_Fire_and_Water.md "水火调和") ()
+[水火调和](Harmony_of_Fire_and_Water.md "水火调和")
 非战斗状态下，恢复一半的[气点](Ki_Point.md "气点")（向下取整）。（充能：[长休](Long_Rest.md "长休")。）
 
 ### 等级 6

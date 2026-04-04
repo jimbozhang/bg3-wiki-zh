@@ -3,16 +3,35 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [马克·诺布尔](https://www.imdb.com/name/nm1646345/) |
+| 声音 / 演员 | [马克·诺布尔](https://www.imdb.com/name/nm1646345/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 生命值 | 8 |
 | 护甲等级 | 10 |
 | 先攻 | 0 |
+| 熟练项 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) |
 | 经验值 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **卡格兰**可以在[地精营地](Goblin_Camp.md "Goblin Camp")的[第一幕](Act_One.md "Act One")中找到。
 
@@ -45,7 +64,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [短棒](Club.md "Club")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [短棒](Club.md "Club")
 
 伤害：1~4
 
@@ -57,7 +76,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [短棒](Club.md "Club")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [短棒](Club.md "Club")
 
 伤害：1~4
 

@@ -2,16 +2,39 @@
 
 | | |
 | --- | --- |
-| 配音 | - [阿米娜·科罗玛](https://www.imdb.com/name/nm13339876/) |
+| 声音 / 演员 | [阿米娜·科罗玛](https://www.imdb.com/name/nm13339876/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
-| 等级 | 5 |
-| 生命值 | 41 |
-| 护甲等级 | 17 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 75 |
+| 职业 | [战士](Warrior.md "战士") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 41 | 28 | 53 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 17 / (+3) | 14 / (+2) | 15 / (+2) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **战士 伊瑟杜尔**是[审判官 W'wargaz](W'wargaz.md "W'wargaz")于[第一幕](Act_One.md "第一幕")抵达前，伊雷珂养育间吉斯洋基社群的一员。
 
@@ -47,7 +70,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
+[劈砍](Cleave.md "劈砍") – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 
 伤害：
 
@@ -70,13 +93,13 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "吉斯洋基心灵异能：跳跃术") ()
+[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "吉斯洋基心灵异能：跳跃术")
 使生物的[跳跃](Jump.md "跳跃")距离变为三倍。
 
 近战：1.5 米 (5 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[割裂](Lacerate.md "割裂") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
+[割裂](Lacerate.md "割裂") – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 
 伤害：6~16
 
@@ -90,7 +113,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 
 伤害：6~16
 
@@ -100,7 +123,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 
 伤害：1~4
 
@@ -112,7 +135,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[回气](Second_Wind.md "回气") ()
+[回气](Second_Wind.md "回气")
 
 治疗：1~10 + 调整值
 

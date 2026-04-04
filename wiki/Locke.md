@@ -95,7 +95,7 @@
 
 ### 攻击和能力
 
-[徒手打击](Unarmed_Strike.md "徒手打击") ()
+[徒手打击](Unarmed_Strike.md "徒手打击")
 
 伤害: 1
 

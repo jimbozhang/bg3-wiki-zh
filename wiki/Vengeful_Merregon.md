@@ -47,7 +47,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [军团魔长戟](Merregon_Halberd.md "军团魔长戟")
+[劈砍](Cleave.md "劈砍") – [军团魔长戟](Merregon_Halberd.md "军团魔长戟")
 
 伤害：
 
@@ -57,7 +57,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[弩射](Crossbow_Shot.md "弩射") ()
+[弩射](Crossbow_Shot.md "弩射")
 
 伤害：3~8
 
@@ -68,7 +68,7 @@
 射程：14 米 (47 英尺)
 充能：每回合
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [军团魔长戟](Merregon_Halberd.md "军团魔长戟")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [军团魔长戟](Merregon_Halberd.md "军团魔长戟")
 
 伤害：6~15
 
@@ -78,7 +78,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[割裂](Lacerate.md "割裂") () – [军团魔长戟](Merregon_Halberd.md "军团魔长戟")
+[割裂](Lacerate.md "割裂") – [军团魔长戟](Merregon_Halberd.md "军团魔长戟")
 
 伤害：6~15
 
@@ -92,7 +92,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [军团魔长戟](Merregon_Halberd.md "军团魔长戟")
+[突进攻击](Rush_Attack.md "突进攻击") – [军团魔长戟](Merregon_Halberd.md "军团魔长戟")
 
 伤害：5~8
 

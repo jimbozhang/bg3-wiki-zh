@@ -25,20 +25,20 @@ UID `MAG_Finesse_Glaive` UUID `0a6e5a22-414d-4f4e-b9e1-6083822648c4` Stats `MAG_
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其击至[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[备战（近战）](Brace_(Melee).md "备战（近战）") ()
+[备战（近战）](Brace_(Melee).md "备战（近战）")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在本回合剩余时间内，掷两次近战伤害并取较高值。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[旋风斩](Whirlwind_Attack_(Weapon_Action).md "旋风斩（武器动作）") ()
+[旋风斩](Whirlwind_Attack_(Weapon_Action).md "旋风斩（武器动作）")
 攻击所有附近的敌人，对每个目标分别进行[攻击掷骰](Attack_roll.md "攻击掷骰")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

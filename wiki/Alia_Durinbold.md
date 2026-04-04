@@ -3,16 +3,40 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [菲奥娜·希恩](https://www.imdb.com/name/nm3120410/) |
+| 声音 / 演员 | [菲奥娜·希恩](https://www.imdb.com/name/nm3120410/) |
+| 家乡 | [博德之门](Baldur's_Gate.md "Baldur's Gate") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [精灵](Elf.md "Elf") |
+| 亚种 | [木精灵](Wood_elf.md "Wood elf") |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 生命值 | 8 |
 | 护甲等级 | 10 |
 | 先攻 | 0 |
+| 熟练项 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) |
 | 经验值 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **阿莉亚·杜林博尔德夫人**是[博德之门](Baldur's_Gate.md "Baldur's Gate")的一位夫人，出席了[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")被任命为城市大公的仪式。
 

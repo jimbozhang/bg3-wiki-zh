@@ -30,13 +30,13 @@ UID `WPN_HUM_Trident_A_0` UUID `d3807461-7c32-44ae-9aba-49ef4d3bf35e` ### 武器
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[缴械打击](Disarming_Strike.md "Disarming_Strike") ()
+[缴械打击](Disarming_Strike.md "Disarming_Strike")
 将你的攻击集中在对手的手上，可能迫使他们丢弃正在持有的武器。（充能：[短休](Short_rest.md "Short rest")。）
 
-[穿刺打击](Piercing_Strike.md "Piercing_Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing_Strike")
 刺击敌人，可能造成 [开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[突进攻击](Rush_Attack.md "Rush_Attack") ()
+[突进攻击](Rush_Attack.md "Rush_Attack")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至 [失衡](Off_Balance_(Condition).md "Off Balance (Condition)") 状态。（充能：[短休](Short_rest.md "Short rest")。）
 
 ---

@@ -22,12 +22,12 @@ _此副职除了下述的独特特性外，还获得其基础职业[野蛮人](B
 [瓦普拉克的贪婪](Vaprak's_Greed.md "瓦普拉克的贪婪")
 你的[负重](Carrying_capacity.md "负重")增加四分之一。
 
-[奇术](Thaumaturgy.md "奇术") ()
+[奇术](Thaumaturgy.md "奇术")
 在[威吓](Intimidation.md "威吓")和[表演](Performance.md "表演")[技能检定](Skill_Check.md "技能检定")上获得[优势](Advantage.md "优势")。
 
 ### 等级 5
 
-[巨人之靴](Boot_of_the_Giants.md "巨人之靴") ()
+[巨人之靴](Boot_of_the_Giants.md "巨人之靴")
 尝试将目标踢开。你的成功率取决于你的[运动](Athletics.md "运动")值，如果你处于[隐藏](Hidden.md "隐藏")或[隐形](Invisible.md "隐形")状态，成功率会更高。
 
 ### 等级 6
@@ -37,7 +37,7 @@ _此副职除了下述的独特特性外，还获得其基础职业[野蛮人](B
 
 ### 等级 10
 
-[强力投掷](Mighty_Impel.md "强力投掷") ()
+[强力投掷](Mighty_Impel.md "强力投掷")
 投掷一个中型或更小体型的生物或物体。
 
 ## 参考资料

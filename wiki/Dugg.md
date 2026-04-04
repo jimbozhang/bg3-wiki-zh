@@ -3,16 +3,43 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Joseph Capp](https://www.imdb.com/name/nm3516054/) |
+| 声音 / 演员 | [Joseph Capp](https://www.imdb.com/name/nm3516054/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 9 |
-| 生命值 | 85 |
-| 护甲等级 | 19 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 250 |
+| 职业 | [圣武士](Paladin.md "圣武士") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 85 | 59 | 110 |
+| 护甲等级 | 19 | 19 | 19 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 15 / (+2) |
+
+**特性**
+
+- [冲锋](Charger.md "冲锋")
+- [神佑](Divine_Health.md "神佑")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
+
+**特性**
+
+- [冲锋](Charger.md "冲锋")
+- [神佑](Divine_Health.md "神佑")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
 **现金守卫 达格** ，是位于 [博德之门](Baldur's_Gate.md "博德之门") [下城区](Lower_City.md "下城区") [清账屋](The_Counting_House.md "清账屋") 的现金守卫中的一名人类成员。
 
@@ -33,7 +60,7 @@
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [巨锤](Maul.md "巨锤")
+[摔翻打击](Backbreaker.md "摔翻打击") – [巨锤](Maul.md "巨锤")
 
 伤害：5~8
 
@@ -58,7 +85,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [巨锤](Maul.md "巨锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [巨锤](Maul.md "巨锤")
 
 伤害：6~16
 
@@ -94,7 +121,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨锤](Maul.md "巨锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨锤](Maul.md "巨锤")
 
 伤害：6~16
 
@@ -104,7 +131,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[移动射击](Mobile_Shot.md "移动射击") () – [手弩](Hand_Crossbow.md "手弩")
+[移动射击](Mobile_Shot.md "移动射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：2~7
 
@@ -115,7 +142,7 @@
 范围：15 米 (50 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [手弩](Hand_Crossbow.md "手弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：2~7
 
@@ -129,7 +156,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [手弩](Hand_Crossbow.md "手弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：2~7
 
@@ -139,7 +166,7 @@
 
 范围：18 米 (60 英尺)
 
-[韧性](Tenacity.md "韧性") () – [巨锤](Maul.md "巨锤")
+[韧性](Tenacity.md "韧性") – [巨锤](Maul.md "巨锤")
 
 伤害：4
 

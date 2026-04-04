@@ -14,7 +14,7 @@
 
 佩戴此物品的角色获得：
 
-[强化跳跃](Enhance_Leap.md "Enhance Leap") ()
+[强化跳跃](Enhance_Leap.md "Enhance Leap")
 作为1环法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

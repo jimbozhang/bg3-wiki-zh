@@ -8,7 +8,7 @@
 
 [堆叠ID](Stack_ID.md "堆叠ID"): `LOW_CAZADORSPALACE_UNARMED_STANCE` ## 赋予：
 
-[多重攻击](Multiattack_(Vampire).md "多重攻击 (吸血鬼)") ()
+[多重攻击](Multiattack_(Vampire).md "多重攻击 (吸血鬼)")
 目标必须处于[吸过血](Blood-Sapped_(Condition).md "吸过血 (状态)")状态。(充能：每回合。)
 
 ## 不灭之怒的来源

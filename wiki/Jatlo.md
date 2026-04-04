@@ -49,7 +49,7 @@
 
 范围：18 米 (60 英尺)
 
-[铁意追击](Ironbound_Pursuit.md "铁意追击") ()
+[铁意追击](Ironbound_Pursuit.md "铁意追击")
 
 伤害：7~28
 

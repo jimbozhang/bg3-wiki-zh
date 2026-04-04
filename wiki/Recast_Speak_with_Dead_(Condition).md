@@ -15,7 +15,7 @@
 
 ## 赋予
 
-[刷新死者交谈](Recast_Speak_with_Dead.md "刷新死者交谈") ()
+[刷新死者交谈](Recast_Speak_with_Dead.md "刷新死者交谈")
 在不消耗[法术位](Spell_Slot.md "法术位")的情况下，对另一具尸体施放[死者交谈](Speak_with_Dead.md "死者交谈")。
 
 ## 刷新死者交谈的来源

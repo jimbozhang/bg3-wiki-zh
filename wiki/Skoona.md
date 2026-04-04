@@ -3,15 +3,59 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
+| 声优 / 演员 | [Jacqui Bardelang](https://www.imdb.com/name/nm11624408/) |
+| 家乡 | [博德之门](Baldur's_Gate.md "Baldur's Gate") |
+| 职业 | [战士](Fighter.md "Fighter") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半兽人](Half-Orc.md "Half-orc") |
-| 等级 | 11 |
-| 生命值 | 86 |
-| 护甲等级 | 19 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 320 |
+| 副职 | [冠军勇士](Champion.md "Champion") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 86 | 60 | 111 |
+| 护甲等级 | 19 | 19 | 19 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 100 千克 (200 磅) | 100 千克 (200 磅) | 100 千克 (200 磅) |
+| 暗视 | 18 米 (60 英尺) | 18 米 (60 英尺) | 18 米 (60 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20 / (+5) | 10 / (0) | 16 / (+3) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [防御](Defence.md "Defence")
+- [双持客](Dual_Wielder.md "Dual Wielder")
+- [双持客：附赠护甲等级](Dual_Wielder_colon__Bonus_Armour_Class.md "Dual Wielder: Bonus Armour Class")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [精通重击](Improved_Critical_Hit.md "Improved Critical Hit")
+- [精通额外攻击](Improved_Extra_Attack.md "Improved Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [坚韧不屈](Relentless_Endurance.md "Relentless Endurance")
+- [凶蛮打击](Savage_Attacks.md "Savage Attacks")
+- [精良材质](Superior_Material_(-1).md "Superior Material (-1)")
+- [双武器战斗](Two-Weapon_Fighting.md "Two-Weapon Fighting")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [防御](Defence.md "Defence")
+- [双持客](Dual_Wielder.md "Dual Wielder")
+- [双持客：附赠护甲等级](Dual_Wielder_colon__Bonus_Armour_Class.md "Dual Wielder: Bonus Armour Class")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [精通重击](Improved_Critical_Hit.md "Improved Critical Hit")
+- [精通额外攻击](Improved_Extra_Attack.md "Improved Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [坚韧不屈](Relentless_Endurance.md "Relentless Endurance")
+- [凶蛮打击](Savage_Attacks.md "Savage Attacks")
+- [精良材质](Superior_Material_(-1).md "Superior Material (-1)")
+- [双武器战斗](Two-Weapon_Fighting.md "Two-Weapon Fighting")
 
 **执法者 斯库娜**是[半兽人](Half-orc.md "Half-orc")<sup>[\[1\]](#cite_note-1)</sup> [精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")的员工，位于[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")。
 
@@ -33,7 +77,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [弯刀 +1](Scimitar_+1.md "Scimitar +1")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [弯刀 +1](Scimitar_+1.md "Scimitar +1")
 
 伤害：7~12
 
@@ -43,7 +87,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[副手攻击（近战）](Off-Hand_Attack_(Melee).md "Off-Hand Attack (Melee)") () – [弯刀 +1](Scimitar_+1.md "Scimitar +1")
+[副手攻击（近战）](Off-Hand_Attack_(Melee).md "Off-Hand Attack (Melee)") – [弯刀 +1](Scimitar_+1.md "Scimitar +1")
 
 伤害：7~12
 
@@ -53,7 +97,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[鲁莽攻击](Reckless_Attack.md "Reckless Attack") ()
+[鲁莽攻击](Reckless_Attack.md "Reckless Attack")
 
 伤害：
 

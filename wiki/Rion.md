@@ -31,7 +31,7 @@
 
 ### 攻击与能力
 
-[酸液飞溅](Acid_Splash.md "酸液飞溅") ()
+[酸液飞溅](Acid_Splash.md "酸液飞溅")
 
 伤害: 1~6
 
@@ -42,7 +42,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程: 18 米 (60 英尺)
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [战锤](Warhammer.md "战锤")
+[摔翻打击](Backbreaker.md "摔翻打击") – [战锤](Warhammer.md "战锤")
 
 伤害: 3~6
 
@@ -54,7 +54,7 @@
 射程: 正常武器射程
 充能: [短休](Short_rest.md "短休")
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [战锤](Warhammer.md "战锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [战锤](Warhammer.md "战锤")
 
 伤害: 0~7
 
@@ -85,7 +85,7 @@
 
 射程: 18 米 (60 英尺)
 
-[毒气喷溅](Poison_Spray.md "毒气喷溅") ()
+[毒气喷溅](Poison_Spray.md "毒气喷溅")
 
 伤害: 1~12
 
@@ -96,7 +96,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程: 3 米 (10 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [战锤](Warhammer.md "战锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [战锤](Warhammer.md "战锤")
 
 伤害: 0~7
 
@@ -118,7 +118,7 @@
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [战锤](Warhammer.md "战锤")
+[弱化打击](Weakening_Strike.md "弱化打击") – [战锤](Warhammer.md "战锤")
 
 伤害: 3~6
 

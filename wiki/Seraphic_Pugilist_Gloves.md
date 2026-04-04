@@ -17,7 +17,7 @@
 
 此物品的穿戴者获得：
 
-[曳光弹](Guiding_Bolt.md "曳光弹") ()
+[曳光弹](Guiding_Bolt.md "曳光弹")
 以4环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [天使重拳](Angelclocker_Knuckles.md "天使重拳")

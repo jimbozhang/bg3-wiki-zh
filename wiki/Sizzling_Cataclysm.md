@@ -8,10 +8,10 @@
 
 当你造成法术伤害时，可能对目标施加3回合的[有毒烟雾](Noxious_Fumes_(Condition).md "有毒烟雾（状态）")（*参见[注释](#notes)*）。当你与克雷斯卡的强酸同调时，你可以在每个[短休](Short_rest.md "短休")中各施放一次[马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭")和[哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴")。
 
-[马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭") ()
+[马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭")
 作为5级法术施放（充能：[短休](Short_rest.md "短休")。）
 
-[哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴") ()
+[哈达之饥渴](Hunger_of_Hadar.md "哈达之饥渴")
 作为5级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 属性

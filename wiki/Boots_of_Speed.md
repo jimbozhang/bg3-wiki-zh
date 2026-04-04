@@ -14,7 +14,7 @@
 
 穿戴此物品获得：
 
-[碰撞鞋跟](Click_Heels.md "碰撞鞋跟") ()
+[碰撞鞋跟](Click_Heels.md "碰撞鞋跟")
 点击靴子的鞋跟以获得速度和[行动自如](Freedom_of_Movement.md "行动自如")。
 
 ## 获取地点

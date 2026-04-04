@@ -3,15 +3,26 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [阿米娜·科罗马](https://www.imdb.com/name/nm13339876/) |
+| 声音 / 演员 | [阿米娜·科罗马](https://www.imdb.com/name/nm13339876/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 10 |
-| 生命值 | 68 |
-| 护甲等级 | 14 |
-| 先攻 | 0 |
-| 经验值 | 250 |
+| 职业 | [暗破者](Dark_Breaker.md "Dark Breaker") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 68 | 47 | 88 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) | 0 m (0 ft) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 10 / (0) | 12 / (+1) | 16 / (+3) | 18 / (+4) | 12 / (+1) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -84,7 +95,7 @@
 
 射程：18 m (60 ft)
 
-[缴械打击](Disarming_Strike.md "Disarming_Strike") () – [三叉戟](Trident.md "Trident")
+[缴械打击](Disarming_Strike.md "Disarming_Strike") – [三叉戟](Trident.md "Trident")
 
 伤害：4~7
 
@@ -111,7 +122,7 @@
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 m (60 ft)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [三叉戟](Trident.md "Trident")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [三叉戟](Trident.md "Trident")
 
 伤害：4~9
 
@@ -121,7 +132,7 @@
 
 近战：1.5 m (5 ft)
 
-[穿刺打击](Piercing_Strike.md "Piercing_Strike") () – [三叉戟](Trident.md "Trident")
+[穿刺打击](Piercing_Strike.md "Piercing_Strike") – [三叉戟](Trident.md "Trident")
 
 伤害：4~9
 
@@ -135,7 +146,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[突进攻击](Rush_Attack.md "Rush_Attack") () – [三叉戟](Trident.md "Trident")
+[突进攻击](Rush_Attack.md "Rush_Attack") – [三叉戟](Trident.md "Trident")
 
 伤害：4~7
 

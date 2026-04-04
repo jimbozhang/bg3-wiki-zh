@@ -14,7 +14,7 @@
 
 穿戴此物品获得：
 
-[支配人类](Dominate_Person.md "Dominate Person") ()
+[支配人类](Dominate_Person.md "Dominate Person")
 以 5 级法术施展（充能：[长休](Long_Rest.md "Long_Rest")。）
 
 ## 获取地点

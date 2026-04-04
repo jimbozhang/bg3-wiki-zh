@@ -8,7 +8,7 @@
 
 [堆叠ID](Stack_ID.md "堆叠ID"): `MAG_CONSTRUCT_MODE` ## 赋予：
 
-[解除构装模式](Dismiss_Construct_Mode.md "解除构装模式") ()
+[解除构装模式](Dismiss_Construct_Mode.md "解除构装模式")
 返回正常状态。
 
 ## 机械形态的来源

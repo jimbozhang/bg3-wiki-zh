@@ -5,10 +5,31 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
-| 等级 | 9 |
-| 生命值 | 73 |
-| 护甲等级 | 17 |
-| 先攻 | +2 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 73 | 51 | 94 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +4 | +6 | +4 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 16 / (+3) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **吉斯洋基老练战士**是[吉斯洋基战士](Warrior_(githyanki).md) archetype encountered throughout _[博德之门3](Baldur's_Gate_3.md "博德之门3")_的更强版本。
 
@@ -43,13 +64,13 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：普通武器范围
 
-[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "吉斯洋基心灵异能：跳跃术") ()
+[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "吉斯洋基心灵异能：跳跃术")
 使生物的[跳跃](Jump.md "跳跃")距离变为三倍。
 
 近战：1.5 m (5 ft)
 充能：[长休](Long_Rest.md "长休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 
 伤害：7~17
 
@@ -59,7 +80,7 @@
 
 近战：1.5 m (5 ft)
 
-[回气](Second_Wind.md "回气") ()
+[回气](Second_Wind.md "回气")
 
 治疗：1~10 + 调整值
 

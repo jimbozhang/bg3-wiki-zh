@@ -46,21 +46,21 @@
 [解除变形](Dismiss_Wild_Shape.md "解除变形")
 解除你的荒野形态并变回原始形态。
 
-[电气猛击](Electrified_Flail.md "电气猛击") ()
+[电气猛击](Electrified_Flail.md "电气猛击")
 用你充满闪电的连枷猛击敌人，并[震慑](Stunned_(Condition).md "震慑 (状态)")他们。
 
-[元素扭曲](Elemental_Warp.md "元素扭曲") ()
+[元素扭曲](Elemental_Warp.md "元素扭曲")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。
 
 飞向目标位置
 
-[隐形](Invisibility_(Air_Myrmidon).md "隐形 (风元素执政官)") ()
+[隐形](Invisibility_(Air_Myrmidon).md "隐形 (风元素执政官)")
 操纵气流使自己无法被侦测。（充能：[短休](Short_rest.md "短休")。）
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
 消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。你每消耗一个法术位等级恢复1d8[治疗](Healing.md "治疗")。
 
-[狂暴漩涡](Raging_Vortex.md "狂暴漩涡") ()
+[狂暴漩涡](Raging_Vortex.md "狂暴漩涡")
 将风螺旋成令人窒息的漩涡，每回合造成2d8⁠⁠[钝击](Bludgeoning.md "钝击")伤害并使生物[沉默](Silenced_(Condition).md "沉默 (状态)")。
 
 [虚无形态](Ethereal.md "虚无形态")

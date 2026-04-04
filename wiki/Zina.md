@@ -5,11 +5,20 @@
 | 体型 | 小型 |
 | 类型 | 不死生物 |
 | 种族 | 幽魂 |
-| 等级 | 8 |
-| 生命值 | 66 |
-| 护甲等级 | 13 |
-| 先攻 | +5 |
-| 经验值 | 1 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 66 | 46 | 105 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +5 | +5 | +5 |
+| 重量 | 0.01 千克 (0.02 磅) | 0.01 千克 (0.02 磅) | 0.01 千克 (0.02 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 20 / (+5) | 12 / (+1) | 6 / (-2) | 12 / (+1) | 7 / (-2) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -75,8 +84,6 @@
 
 3 米 (10 英尺) 内的盟友对与你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "Advantage")。
 
-属性
-
 **吉娜**是一只[不死生物](Undead.md "Undead") [狗](Dog.md "Dog")，可以在[博德之门](Baldur's_Gate.md "Baldur's Gate") [下城区](Lower_City.md "Lower City")的[杜林伯德陵墓](Durinbold_Mausoleum.md "Durinbold Mausoleum")中找到。“
 |
 
@@ -97,7 +104,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Ghost_Dogs).md "Bite (Ghost Dogs)") ()
+[啃咬](Bite_(Ghost_Dogs).md "Bite (Ghost Dogs)")
 
 伤害：8~23
 
@@ -107,22 +114,22 @@
 
 近战：1.5 米 (5 英尺)
 
-[飞行](Fly_(class_action).md "Fly (class action)") ()
+[飞行](Fly_(class_action).md "Fly (class action)")
 飞向目标位置
 
 范围：18 米 (60 英尺)
 
-[骇人咆哮](Terrifying_Howl.md "Terrifying Howl") ()
+[骇人咆哮](Terrifying_Howl.md "Terrifying Howl")
 发出令人毛骨悚然的咆哮，使听到的所有野兽和类人生物[恐慌](Frightened_(Condition).md "Frightened (Condition)")。
 
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 
-[送你个好礼物！](Have_Nice_Gift!.md "Have Nice Gift!") ()
+[送你个好礼物！](Have_Nice_Gift!.md "Have Nice Gift!")
 将你收集的[猎物精华](Prey_Essence_(Condition).md "Prey Essence (Condition)")交给你的训犬师。
 
 近战：1.5 米 (5 英尺)
 
-[忠诚的毛绒朋友](Loyal_Furry_Friend.md "Loyal Furry Friend") ()
+[忠诚的毛绒朋友](Loyal_Furry_Friend.md "Loyal Furry Friend")
 哀悼[训犬师](Pol.md "Pol")的死亡，并随他一同前往来世。
 
 近战：1.5 米 (5 英尺)

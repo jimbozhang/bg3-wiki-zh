@@ -3,16 +3,37 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Lara Sawalha](https://www.imdb.com/name/nm2700338/) |
+| 声音 / 演员 | [Lara Sawalha](https://www.imdb.com/name/nm2700338/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 7 |
-| 生命值 | 60 |
-| 护甲等级 | 14 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 110 |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 60 | 42 | 78 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 110 | 110 | 110 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 11 / (0) | 14 / (+2) | 12 / (+1) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **拳手尼帕瓦**是[第二幕](Act_Two.md "Act Two")中的一名[人类](Human.md "Human")[焰拳](Flaming_Fist.md "Flaming Fist")。她可以在[潜入月出之塔](Infiltrate_Moonrise_Towers.md "Infiltrate Moonrise Towers")期间帮助队伍。
 
@@ -44,7 +65,7 @@
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "Lacerate") () – [长剑](Longsword.md "Longsword")
+[割裂](Lacerate.md "Lacerate") – [长剑](Longsword.md "Longsword")
 
 伤害：4~11
 
@@ -58,7 +79,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长剑](Longsword.md "Longsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长剑](Longsword.md "Longsword")
 
 伤害：4~11
 
@@ -68,7 +89,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [长剑](Longsword.md "Longsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [长剑](Longsword.md "Longsword")
 
 伤害：1~4
 
@@ -80,7 +101,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [长剑](Longsword.md "Longsword")
+[突进攻击](Rush_Attack.md "Rush Attack") – [长剑](Longsword.md "Longsword")
 
 伤害：4~7
 

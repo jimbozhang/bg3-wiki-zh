@@ -31,13 +31,13 @@ UID `MAG_Mobility_ExplosionOnJump_Maul` UUID `efb003c3-af98-43d7-bcf4-af29702fb5
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[摔翻打击](Backbreaker.md "Backbreaker") ()
+[摔翻打击](Backbreaker.md "Backbreaker")
 在你的攻击中施加额外力量，有可能将敌人击至[倒伏](Prone_(Condition).md "Prone (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") ()
+[震荡猛击](Concussive_Smash.md "Concussive Smash")
 全力击中敌人，造成伤害并有可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[韧性](Tenacity.md "Tenacity") ()
+[韧性](Tenacity.md "Tenacity")
 当你攻击未命中时，仍然造成等于你[力量](Strength.md "Strength") [调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的⁠[钝击](Bludgeoning.md "钝击")伤害（最低为 1）。
 
 ## 获取地点

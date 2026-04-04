@@ -28,7 +28,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [火矮人战锤](Azer_Warhammer.md "火矮人战锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [火矮人战锤](Azer_Warhammer.md "火矮人战锤")
 
 伤害：5~17
 
@@ -40,7 +40,7 @@
 
 近战：1.5米（5英尺）
 
-[过热](Overheat.md "过热") ()
+[过热](Overheat.md "过热")
 
 伤害：1~10
 
@@ -51,7 +51,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
-[炽焰斩](Searing_Smite_(Azer).md "炽焰斩 (火矮人)") () – [火矮人战锤](Azer_Warhammer.md "火矮人战锤")
+[炽焰斩](Searing_Smite_(Azer).md "炽焰斩 (火矮人)") – [火矮人战锤](Azer_Warhammer.md "火矮人战锤")
 
 伤害：7~29
 

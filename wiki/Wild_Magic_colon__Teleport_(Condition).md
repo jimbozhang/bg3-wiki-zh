@@ -6,7 +6,7 @@
 
 ## 赋予
 
-\_(术士)[狂野魔法：传送](Wild_Magic_colon__Teleport_(Activate)_(Sorcerer).md "狂野魔法：传送 (激活) (术士)") ()
+\_(术士)[狂野魔法：传送](Wild_Magic_colon__Teleport_(Activate)_(Sorcerer).md "狂野魔法：传送 (激活) (术士)")
 传送至一个你可见的未被占据的空间。
 
 ## 狂野魔法：传送的来源

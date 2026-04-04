@@ -108,7 +108,7 @@
 
 ### 攻击与能力
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") ()
+[穿刺射击](Piercing_Shot.md "穿刺射击")
 
 伤害：
 
@@ -122,7 +122,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [轻弩](Light_Crossbow.md "轻弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [轻弩](Light_Crossbow.md "轻弩")
 
 伤害：3~10
 

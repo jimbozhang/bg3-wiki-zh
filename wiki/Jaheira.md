@@ -3,17 +3,42 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Tracy Wiles](https://www.imdb.com/name/nm1518695/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [Tracy Wiles](https://www.imdb.com/name/nm1518695/) |
+| 角色 | [伙伴](Companions.md "Companions") |
+| 家庭 | [卡利德](Khalid.md "Khalid")（配偶，已故） |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
+| 体型 | [中型](Medium.md "中型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半精灵](Half-Elf.md "半精灵") |
+| 亚种 | [半高精灵](High_Half-Elf.md "半高精灵") |
+| 职业 | [德鲁伊](Druid.md "德鲁伊") |
+| 副职 | [大地结社](Circle_of_the_Land.md "大地结社") |
+| 背景 | [士兵](Soldier.md "士兵") |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 生命值 | 17 |
 | 护甲等级 | 13 |
 | 先攻 | +2 |
+| 熟练项 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) |
 
-属性
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 14 / (+2) | 14 / (+2) | 8 / (-1) | 17 / (+3) | 12 / (+1) |
+
+**特性**
+
+- [近战施法者](Melee_Caster.md "近战施法者")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [近战施法者](Melee_Caster.md "近战施法者")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **贾希拉**是一位可招募的[伙伴](Companion.md "伙伴")。她和[明斯克](Minsc.md "明斯克")从《博德之门》和《博德之门II：安姆的阴影》中回归，是仅有的两位无法被[追求](Romance.md "追求")的可招募伙伴。<sup>[\[1\]](#cite_note-1)</sup> 她是一位[半高精灵](High_Half-Elf.md "半高精灵")和[德鲁伊](Druid.md "德鲁伊")<sup>[\[2\]](#cite_note-2)</sup>，拥有[士兵](Soldier.md "士兵")背景，可以在[第二幕](Act_Two.md "第二幕")期间于[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")首次找到。
 

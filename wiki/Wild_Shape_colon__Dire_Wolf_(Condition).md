@@ -49,10 +49,10 @@
 [月光修复](Lunar_Mend.md "月光修复") (+ )
 消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。你每消耗一个法术位，恢复1d8[治疗](Healing.md "治疗")。
 
-[激励咆哮](Inciting_Howl_(Wolf).md "激励咆哮 (狼)") ()
+[激励咆哮](Inciting_Howl_(Wolf).md "激励咆哮 (狼)")
 集结你的族群。每个在听觉范围内的盟友在其下一回合可以额外移动3米（10英尺）。（充能：每场战斗。）
 
-[暴露啃咬](Exposing_Bite.md "暴露啃咬") ()
+[暴露啃咬](Exposing_Bite.md "暴露啃咬")
 轻咬目标并使其分心。如果你的攻击命中，下一个来自2米（7英尺）内对目标的攻击将是[重击](Critical_Hit.md "重击")。（充能：[短休](Short_rest.md "短休")。）
 
 [集群战术](Pack_Tactics.md "集群战术")

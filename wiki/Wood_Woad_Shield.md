@@ -19,7 +19,7 @@
 
 穿戴此物品者获得：
 
-[菘蓝树人诱捕打击](Woad's_Ensnaring_Strike.md "菘蓝树人诱捕打击") ()
+[菘蓝树人诱捕打击](Woad's_Ensnaring_Strike.md "菘蓝树人诱捕打击")
 你的攻击会召唤荆棘藤蔓，造成武器伤害，并可能使目标陷入\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕 (诱捕打击) (状态)")。(充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

@@ -3,15 +3,42 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [芬妮拉·福吉](https://www.imdb.com/name/nm6233172/) |
+| 声音 / 演员 | [芬妮拉·福吉](https://www.imdb.com/name/nm6233172/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [提夫林](Tiefling.md "Tiefling") |
-| 等级 | 6 |
-| 生命值 | 48 |
-| 护甲等级 | 14 |
-| 先攻 | +2 |
-| 经验值 | 90 |
+| 亚种 | [阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling") |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+| 生命值 | 48 | 33 | 62 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 90 | 90 | 90 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 14 / (+2) | 12 / (+1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [炎狱抗性](Hellish_Resistance.md "Hellish Resistance")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [炎狱抗性](Hellish_Resistance.md "Hellish Resistance")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -77,7 +104,7 @@
 
 ### 攻击与能力
 
-[腿筋射击](Hamstring_Shot.md "Hamstring Shot") () – [长弓](Longbow.md "Longbow")
+[腿筋射击](Hamstring_Shot.md "Hamstring Shot") – [长弓](Longbow.md "Longbow")
 
 伤害：3~10
 
@@ -89,7 +116,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [长弓](Longbow.md "Longbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [长弓](Longbow.md "Longbow")
 
 伤害：3~10
 

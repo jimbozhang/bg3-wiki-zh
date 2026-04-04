@@ -70,7 +70,7 @@
 
 ### 攻击与能力
 
-[拳头](Fist.md "拳头") ()
+[拳头](Fist.md "拳头")
 
 伤害：2~12
 
@@ -82,13 +82,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[幻觉孢子](Hallucination_Spores.md "幻觉孢子") ()
+[幻觉孢子](Hallucination_Spores.md "幻觉孢子")
 赋予类人生物幻觉，使其不受控制地游荡。
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：3 米 (10 英尺)
 
-[鬼头蘑菇孢子](Timmask_Spores_(class_action).md "鬼头蘑菇孢子 (职业动作)") ()
+[鬼头蘑菇孢子](Timmask_Spores_(class_action).md "鬼头蘑菇孢子 (职业动作)")
 
 伤害：3~9
 

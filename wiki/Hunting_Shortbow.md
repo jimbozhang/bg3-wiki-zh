@@ -23,7 +23,7 @@ UID `MAG_Hunting_Shortbow` UUID `a1d1634c-02e6-4428-a822-7603e9163264` Stats `MA
 
 **持有此物品者获得：**
 
-[猎人印记](Hunter's_Mark.md "猎人印记") ()
+[猎人印记](Hunter's_Mark.md "猎人印记")
 以1级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [猎魔](Feller_of_Monsters.md "猎魔")
@@ -33,7 +33,7 @@ UID `MAG_Hunting_Shortbow` UUID `a1d1634c-02e6-4428-a822-7603e9163264` Stats `MA
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 射击敌人的大腿，并可能使其[移动速度](Movement_speed.md "移动速度")降低50%。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -28,7 +28,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Rat_Combatant).md "啃咬 (老鼠战斗单位)") ()
+[啃咬](Bite_(Rat_Combatant).md "啃咬 (老鼠战斗单位)")
 
 伤害: 3~9
 

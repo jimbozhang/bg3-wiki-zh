@@ -10,7 +10,7 @@
 
 ## 赋予
 
-[Have Nice Gift!](Have_Nice_Gift!.md "Have Nice Gift!") ()
+[Have Nice Gift!](Have_Nice_Gift!.md "Have Nice Gift!")
 | 状态 | 效果 |
 | --- | --- |
 | 猎物精华 | 获得 30 点临时生命值 |

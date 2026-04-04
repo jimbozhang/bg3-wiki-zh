@@ -40,7 +40,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [匕首](Dagger.md "Dagger")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 

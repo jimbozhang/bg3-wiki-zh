@@ -3,15 +3,46 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
+| 声音 / 演员 | [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半兽人](Half-Orc.md "半兽人") |
-| 等级 | 5 |
-| 生命值 | 52 |
-| 护甲等级 | 13 |
-| 先攻 | 0 |
-| 经验值 | 75 |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
+| 副职 | [荒蛮之心](Wildheart.md "荒蛮之心") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 52 | 36 | 67 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 100 千克 (200 磅) | 100 千克 (200 磅) | 100 千克 (200 磅) |
+| 暗视 | 18 米 (60 英尺) | 18 米 (60 英尺) | 18 米 (60 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20 / (+5) | 10 / (0) | 16 / (+3) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
+- [狂狼之心](Wolf_Heart.md "狂狼之心")
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
+- [狂狼之心](Wolf_Heart.md "狂狼之心")
 
 **贝迪**是[至上真神教](Cult_of_the_Absolute.md "至上真神教")的新成员，可以在[第二幕](Act_Two.md "第二幕")中遇到。他最初出现在[废弃战场](Ruined_Battlefield.md "废弃战场")的外围，执行护送一名[真魂者](True_Soul.md "真魂者")前往[月出之塔](Moonrise_Towers.md "月出之塔")的任务。
 
@@ -66,7 +97,7 @@
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "割裂") () – [手斧](Handaxe.md "手斧")
+[割裂](Lacerate.md "割裂") – [手斧](Handaxe.md "手斧")
 
 伤害：6~11
 
@@ -80,7 +111,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [手斧](Handaxe.md "手斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [手斧](Handaxe.md "手斧")
 
 伤害：6~11
 
@@ -90,7 +121,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") () – [提灯](Lantern.md "提灯")
+[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") – [提灯](Lantern.md "提灯")
 
 伤害：7~13
 
@@ -110,7 +141,7 @@
 
 射程：自身
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") () – [手斧](Handaxe.md "手斧")
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") – [手斧](Handaxe.md "手斧")
 
 伤害：6~11
 
@@ -122,7 +153,7 @@
 
 射程：正常武器射程
 
-[投掷](Throw.md "投掷") () – [炼金火焰](Alchemist's_Fire.md "炼金火焰")
+[投掷](Throw.md "投掷") – [炼金火焰](Alchemist's_Fire.md "炼金火焰")
 
 伤害：
 

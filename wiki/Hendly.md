@@ -18,7 +18,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [弯刀（莎尔）](Scimitar_(Sharran).md "Scimitar (Sharran)")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [弯刀（莎尔）](Scimitar_(Sharran).md "Scimitar (Sharran)")
 
 伤害：
 

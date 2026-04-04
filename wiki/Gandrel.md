@@ -3,15 +3,43 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Selva Rasalingam](https://www.imdb.com/name/nm0864900/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [Selva Rasalingam](https://www.imdb.com/name/nm0864900/) |
+| 家庭 | [凯萨](Chessa.md "凯萨") _(女儿)_ |
+| 职业 | [游侠](Ranger.md "游侠") |
+| 体型 | [中型](Medium.md "中型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 5 |
-| 生命值 | 64 |
-| 护甲等级 | 15 |
-| 先攻 | +4 |
-| 经验值 | 75 |
+| 副职 | [驯兽师](Beast_Master.md "驯兽师") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 64 | 44 | 83 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 18 / (+4) | 16 / (+3) | 12 / (+1) | 16 / (+3) | 10 / (0) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [猎魔](Feller_of_Monsters.md "猎魔")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [猎魔](Feller_of_Monsters.md "猎魔")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
 
 **根德莱尔**是一名古尔人类怪兽猎人，可以在[第一幕](Act_One.md "第一幕")的[河边茶室](Riverside_Teahouse.md "河边茶室")传送点西南方向找到。他来到[日照湿地](Sunlit_Wetlands.md "日照湿地")向[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")寻求帮助，以完成他当前的狩猎。
 
@@ -62,13 +90,13 @@
 
 ### 攻击与能力
 
-[野猪伙伴](Boar_Companion.md "野猪伙伴") ()
+[野猪伙伴](Boar_Companion.md "野猪伙伴")
 召唤一头野猪，可以扫过战场并用其[野猪冲撞](Boar_Charge.md "野猪冲撞")将敌人击倒在地。
 
 范围：18 米 (60 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在本回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "短休")
@@ -97,7 +125,7 @@
 
 范围：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：5~8
 
@@ -107,7 +135,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望")
 
 伤害：6~15
 
@@ -121,7 +149,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：5~8
 
@@ -140,7 +168,7 @@
 
 范围：18 米 (60 英尺)
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望")
+[远程攻击](Ranged_Attack.md "远程攻击") – [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望")
 
 伤害：6~15
 
@@ -150,7 +178,7 @@
 
 范围：18 米 (60 英尺)
 
-[神圣弹药](Sacred_Munitions.md "神圣弹药") () – [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望")
+[神圣弹药](Sacred_Munitions.md "神圣弹药") – [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望")
 为你的弩箭注入神圣能量。在本回合剩余时间内，你的远程武器攻击会对[不死生物](Undead.md "不死生物")施加[被驱散](Turned_(Condition).md "被驱散（状态）")。
 
 范围：自身

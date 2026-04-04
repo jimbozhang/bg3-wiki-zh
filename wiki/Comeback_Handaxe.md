@@ -25,7 +25,7 @@ UID `UNI_WYR_Circus_HandaxeReturning` UUID `82999790-f80d-47f7-9383-9bb6cf57a10b
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标的要害点使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

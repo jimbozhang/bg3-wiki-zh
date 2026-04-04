@@ -2,16 +2,38 @@
 
 | | |
 | --- | --- |
+| 全名 | 克鲁格 |
 | 身份 | 男性 |
-| 配音 | - [Shaun Mendum](https://www.imdb.com/name/nm7471114/) |
+| 声音 / 演员 | [Shaun Mendum](https://www.imdb.com/name/nm7471114/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [地精](Goblin.md "Goblin") |
-| 等级 | 2 |
-| 生命值 | 13 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
+| 职业 | [邪术师](Warlock.md "Warlock") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 2 | 2 | 2 |
+| 生命值 | 13 | 9 | 16 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 12 / (+1) | 10 / (0) | 12 / (+1) | 8 / (-1) | 8 / (-1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **克鲁格**，名为**死去的地精掠夺者**，可在[渥金的休眠地](Waukeen's_Rest.md "Waukeen's Rest")前找到，位于[第一幕](Act_One.md "Act One")。
 

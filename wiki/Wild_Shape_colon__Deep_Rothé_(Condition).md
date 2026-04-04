@@ -45,7 +45,7 @@
 
 冲锋向前，攻击路径上的所有敌人，并可能将其击至 [倒伏](Prone_(状态).md "倒伏 (状态)")。
 
-[舞光术](Dancing_Lights_(Deep_Roth%C3%A9).md "舞光术 (地底洛斯兽)") ()
+[舞光术](Dancing_Lights_(Deep_Roth%C3%A9).md "舞光术 (地底洛斯兽)")
 照亮 9 米 / 30 英尺半径范围。
 
 [解除变形](Dismiss_Wild_Shape.md "解除变形")

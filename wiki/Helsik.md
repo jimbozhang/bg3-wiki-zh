@@ -3,15 +3,55 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Alex Tregear](https://www.imdb.com/name/nm2587402/) |
+| 声音 / 演员 | [Alex Tregear](https://www.imdb.com/name/nm2587402/) |
+| 角色 | [商人](Trader.md "Trader") |
+| 家乡 | [博德之门](Baldur's_Gate.md "Baldur's Gate") |
+| 职业 | [邪术师](Warlock.md "Warlock") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 12 |
-| 生命值 | 96 |
-| 护甲等级 | 12 |
-| 先攻 | +2 |
-| 经验值 | 400 |
+| 亚种 | [黄金矮人](Dwarf.md#Gold_Dwarves "Dwarf") |
+| 副职 | [邪魔](The_Fiend.md "The Fiend") (玛门) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 12 | 12 | 12 |
+| 生命值 | 96 | 67 | 124 |
+| 护甲等级 | 12 | 12 | 12 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 400 | 400 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 14 / (+2) | 16 / (+3) | 16 / (+3) | 18 / (+4) |
+
+**特性**
+
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
+- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [魔能短矛](Eldritch_Spear.md "魔能短矛")
+- [传染贪婪](Infectious_Greed.md "传染贪婪")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
+
+**特性**
+
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
+- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [魔能短矛](Eldritch_Spear.md "魔能短矛")
+- [传染贪婪](Infectious_Greed.md "传染贪婪")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -124,7 +164,7 @@
 
 ### 攻击与能力
 
-[魔能爆](Eldritch_Blast.md "Eldritch Blast") ()
+[魔能爆](Eldritch_Blast.md "Eldritch Blast")
 
 伤害: 1~10
 
@@ -146,7 +186,7 @@
 范围: 18 米 (60 英尺)
 冷却: 每回合
 
-[财富承诺](Promise_of_Wealth.md "Promise of Wealth") ()
+[财富承诺](Promise_of_Wealth.md "Promise of Wealth")
 用 [财富承诺](Promise_of_Wealth_(Condition).md "财富承诺 (状态)") 标记一个目标。拥有 [传染贪婪](Infectious_Greed_(Condition).md "传染贪婪 (状态)") 的盟友对目标的 [攻击掷骰](Attack_roll.md "Attack roll") 拥有 [优势](Advantage.md "Advantage")，因为他们确信目标携带着巨大的财富。
 
 范围: 18 米 (60 英尺)
@@ -160,7 +200,7 @@
 
 #### 仅限硬核
 
-[看守的小费](Keeper's_Fee.md "Keeper's Fee") ()
+[看守的小费](Keeper's_Fee.md "Keeper's Fee")
 从目标手中魔法般地夺取武器。
 
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")

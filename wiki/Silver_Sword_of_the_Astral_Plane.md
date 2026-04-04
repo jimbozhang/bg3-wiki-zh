@@ -35,20 +35,20 @@ UID `MAG_GreaterSilver_Greatsword` UUID `f01c3f5d-c542-420f-86c5-bdddf7819e29` S
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥舞武器进行大范围弧线攻击，最多同时攻击 3 个敌人。每个敌人受到武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其 [流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") ()
+[剑柄打击](Pommel_Strike.md "剑柄打击")
 对敌人进行非致命攻击，并可能使其 [眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[碎魂者](Soulbreaker.md "碎魂者") ()
+[碎魂者](Soulbreaker.md "碎魂者")
 撕裂敌人的身体和灵魂，造成额外 ⁠[心灵](Psychic.md "心灵") 伤害，伤害值等于你的 [熟练项加值](Proficiency_Bonus.md "熟练项加值")，并可能 [震慑](Stunned_(Condition).md "震慑（状态）") 他们。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

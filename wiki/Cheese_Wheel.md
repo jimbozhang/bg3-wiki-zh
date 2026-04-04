@@ -15,7 +15,7 @@
 
 ## 战斗
 
-[难闻气味](Cheesy_Smell.md "难闻气味") ()
+[难闻气味](Cheesy_Smell.md "难闻气味")
 创造一团气味刺鼻的气体，使范围内的生物无法采取动作。
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")

@@ -48,7 +48,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[徒手打击](Unarmed_Strike_(Monk).md "徒手打击 (武僧)") ()
+[徒手打击](Unarmed_Strike_(Monk).md "徒手打击 (武僧)")
 
 伤害：5~8
 

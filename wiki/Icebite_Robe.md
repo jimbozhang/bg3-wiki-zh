@@ -16,7 +16,7 @@
 
 - 对⁠[寒冷](Cold.md "寒冷")伤害的[抗性](Resistance.md "抗性")。
 
-[艾嘉西斯之铠](Armour_of_Agathys.md "艾嘉西斯之铠") ()
+[艾嘉西斯之铠](Armour_of_Agathys.md "艾嘉西斯之铠")
 以3级法术施展（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

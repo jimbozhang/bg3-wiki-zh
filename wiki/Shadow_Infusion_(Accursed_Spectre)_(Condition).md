@@ -12,7 +12,7 @@
 
 ## 赋予
 
-[裂影](Splinter_Shadow.md "裂影") ()
+[裂影](Splinter_Shadow.md "裂影")
 当你被不造成[光耀伤害](Radiant_damage.md "光耀伤害")的近战攻击击中时，分裂出一部分自身，从暗影中召唤出一个新版本。
 
 ## 错误

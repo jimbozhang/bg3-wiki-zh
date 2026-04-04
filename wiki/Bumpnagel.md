@@ -3,15 +3,45 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [艾什·里兹](https://www.imdb.com/name/nm7787239/) |
+| 声音 / 演员 | [艾什·里兹](https://www.imdb.com/name/nm7787239/) |
+| 角色 | [商人](Trader.md "Trader") |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [侏儒](Gnome.md "Gnome") |
-| 等级 | 9 |
-| 生命值 | 60 |
-| 护甲等级 | 16 |
-| 先攻 | +4 |
-| 经验值 | 200 |
+| 亚种 | [地底侏儒](Deep_Gnome.md "Deep gnome") |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 60 | 42 | 78 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 18 / (+4) | 13 / (+1) | 12 / (+1) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
+- [岩石伪装](Stone_Camouflage.md "Stone Camouflage")
+- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
+
+**特性**
+
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
+- [岩石伪装](Stone_Camouflage.md "Stone Camouflage")
+- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
 
 **邦普纳格尔**是一名[地底侏儒](Deep_Gnome.md "Deep gnome")商人，也是[铁手侏儒](Clan_Ironhand.md "Clan Ironhand")的成员。
 
@@ -74,7 +104,7 @@
 [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长剑](Longsword.md "Longsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长剑](Longsword.md "Longsword")
 
 伤害：1~8
 
@@ -84,7 +114,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害：5~10
 

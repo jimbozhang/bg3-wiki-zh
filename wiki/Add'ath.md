@@ -39,18 +39,18 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "移动速度")。在你的回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "短休")
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气包围，你传送至一个可见的未被占据空间。
 
 范围：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 
 伤害：5~14
 
@@ -64,7 +64,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 
 伤害：5~14
 

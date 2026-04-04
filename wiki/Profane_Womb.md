@@ -4,12 +4,6 @@
 
 - 平衡
 
-## 平衡难度属性
-
-### 生命值
-
-18
-
 ## 状态
 
 - [亵渎子宫-誓缚](Profane_Womb-Bound_(Condition).md "Profane Womb-Bound (Condition)")

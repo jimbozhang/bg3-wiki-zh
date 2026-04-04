@@ -26,7 +26,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长棍](Quarterstaff.md "Quarterstaff")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长棍](Quarterstaff.md "Quarterstaff")
 
 伤害：2~7
 
@@ -36,7 +36,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[冻僵](Bone_Chill.md "Bone Chill") ()
+[冻僵](Bone_Chill.md "Bone Chill")
 
 伤害：1~8
 
@@ -66,7 +66,7 @@
 [智力](Intelligence.md "Intelligence") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[暗影步](Shadow_Step.md "Shadow Step") ()
+[暗影步](Shadow_Step.md "Shadow Step")
 从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
 
 射程：18 米 (60 英尺)

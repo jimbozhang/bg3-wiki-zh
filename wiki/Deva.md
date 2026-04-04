@@ -33,7 +33,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [使徒硬头锤](Deva_Mace.md "使徒硬头锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [使徒硬头锤](Deva_Mace.md "使徒硬头锤")
 
 伤害：9~42
 
@@ -47,17 +47,17 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞至目标位置
 
 射程：18 米 (60 英尺)
 
-[协助](Help.md "协助") ()
+[协助](Help.md "协助")
 扶起[倒地](Downed_(Condition).md "倒地 (状态)")的角色，或移除燃烧、诱捕、缠绕、网缚、倒伏和沉睡状态。
 
 射程：2 米 (7 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [使徒硬头锤](Deva_Mace.md "使徒硬头锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [使徒硬头锤](Deva_Mace.md "使徒硬头锤")
 
 伤害：9~42
 
@@ -69,13 +69,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[回生术](Revivify.md "回生术") ()
+[回生术](Revivify.md "回生术")
 复活一名伙伴。他们以 1 [生命值](Hit_Points.md "生命值") 回生。
 
 射程：9 米 (30 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[激愤斩](Wrathful_Smite.md "激愤斩") () – [使徒硬头锤](Deva_Mace.md "使徒硬头锤")
+[激愤斩](Wrathful_Smite.md "激愤斩") – [使徒硬头锤](Deva_Mace.md "使徒硬头锤")
 
 伤害：10~48
 

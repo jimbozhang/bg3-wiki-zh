@@ -29,13 +29,13 @@
 | 生命值 | 24 |  |
 | 护甲等级 | 13 |  |
 
-[以太漫游](Ethereal_Jaunt.md "以太漫游") ()
+[以太漫游](Ethereal_Jaunt.md "以太漫游")
 被银色雾气包围，传送到一个你能看到的未被占据的空间。（充能：每回合。）
 
-[猛毒之噬](Venomous_Bite_(Phase_Spider).md "猛毒之噬（相位蜘蛛）") ()
+[猛毒之噬](Venomous_Bite_(Phase_Spider).md "猛毒之噬（相位蜘蛛）")
 撕咬一个目标，并可能使其 [中毒](Poisoned_(Condition).md "中毒（状态）")。
 
-[猛毒扩散](Venomous_Discharge_(Phase_Spider).md "猛毒扩散（相位蜘蛛）") ()
+[猛毒扩散](Venomous_Discharge_(Phase_Spider).md "猛毒扩散（相位蜘蛛）")
 喷出一种有毒物质，并可能使击中的目标 [中毒](Poisoned_(Condition).md "中毒（状态）")。
 
 喷出一种浓密、易燃的蛛网，减缓范围内的生物，并可能使其 [网缚](Enwebbed_(Condition).md "网缚（状态）")。

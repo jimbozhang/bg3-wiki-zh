@@ -26,12 +26,12 @@
 | 生命值 | 82 |  |  |  |  |
 | 护甲等级 | 14 |  |  |  |  |
 
-[邪魔魅惑](Fiendish_Charm.md "Fiendish Charm") ()
+[邪魔魅惑](Fiendish_Charm.md "Fiendish Charm")
 [魅惑](Charmed_(Condition).md "Charmed (Condition)") 一个类人生物以阻止其攻击你。你在对话中进行魅力[属性检定](Ability_Check.md "属性检定")时获得[优势](Advantage.md "Advantage")。
 
 猛投3道火焰射线。每道射线造成3d6[火焰](Fire.md "Fire")伤害。
 
-[汲命之吻](Draining_Kiss.md "Draining_Kiss") ()
+[汲命之吻](Draining_Kiss.md "Draining_Kiss")
 对一个被你的[邪魔魅惑](Fiendish_Charm.md "Fiendish Charm")[魅惑](Charmed_(Condition).md "Charmed (Condition)")的敌人施以致命之吻。
 
 飞行至目标位置

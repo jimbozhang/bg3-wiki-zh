@@ -21,10 +21,10 @@
 
 - 获得对[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "Resistance")。
 
-[盾牌猛击](Shield_Blow.md "Shield Blow") ()
+[盾牌猛击](Shield_Blow.md "Shield Blow")
 当敌人用近战攻击命中你时，你可以使用你的[反应](reaction.md "reaction")将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")，除非他们成功通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving throw")。
 
-[火热复仇](Blazing_Retaliation.md "Blazing Retaliation") ()
+[火热复仇](Blazing_Retaliation.md "Blazing Retaliation")
 蜷缩在盾牌后，使你的[护甲等级](Armour_Class.md "Armour Class")提高1点，并对未命中你的攻击进行灼热复仇。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

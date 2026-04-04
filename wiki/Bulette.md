@@ -100,7 +100,7 @@ Stats
 
 ### 攻击和能力
 
-[啃咬](Bite_(Bulette).md "啃咬 (鲨蜥兽)") ()
+[啃咬](Bite_(Bulette).md "啃咬 (鲨蜥兽)")
 
 伤害：8~52
 
@@ -110,7 +110,7 @@ Stats
 
 近战：1.5 米 (5 英尺)
 
-[腐蚀粘液](Corrosive_Phlegm.md "腐蚀粘液") ()
+[腐蚀粘液](Corrosive_Phlegm.md "腐蚀粘液")
 
 伤害：5~19
 
@@ -121,7 +121,7 @@ Stats
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：14 米 (47 英尺)
 
-[死亡之跃](Deadly_Leap.md "死亡之跃") ()
+[死亡之跃](Deadly_Leap.md "死亡之跃")
 
 伤害：14~44
 
@@ -137,7 +137,7 @@ Stats
 
 ### 仅限 AI
 
-[掘穴](Burrow_(Bulette).md "掘穴 (鲨蜥兽)") ()
+[掘穴](Burrow_(Bulette).md "掘穴 (鲨蜥兽)")
 
 治疗：18~74
 

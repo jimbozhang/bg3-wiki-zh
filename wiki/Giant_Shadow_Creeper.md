@@ -45,7 +45,7 @@
 
 ### 攻击与能力
 
-[诅咒荆棘 (巨型幽影潜行者)](Cursed_Thorns_(Giant_Shadow_Creeper).md "诅咒荆棘 (巨型幽影潜行者)") ()
+[诅咒荆棘 (巨型幽影潜行者)](Cursed_Thorns_(Giant_Shadow_Creeper).md "诅咒荆棘 (巨型幽影潜行者)")
 
 伤害: 3~18
 
@@ -55,7 +55,7 @@
 
 范围: 6 米 (20 英尺)
 
-[无情碾压](Merciless_Crush.md "无情碾压") ()
+[无情碾压](Merciless_Crush.md "无情碾压")
 
 伤害: 4~24
 
@@ -68,7 +68,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 范围: 6 米 (20 英尺)
 
-[针刺风暴](Needlestorm.md "针刺风暴") ()
+[针刺风暴](Needlestorm.md "针刺风暴")
 
 伤害: 4~24
 

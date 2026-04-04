@@ -49,7 +49,7 @@
 
 ### 攻击与能力
 
-[恐怖灵光](Aura_of_Terror.md "Aura_of_Terror") ()
+[恐怖灵光](Aura_of_Terror.md "Aura_of_Terror")
 
 在你压迫性的存在范围内，给予敌人[攻击](Attack.md "Attack")和[豁免检定](Saving_throws.md "Saving throws")的[劣势](Disadvantage.md "Disadvantage")。
 

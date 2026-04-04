@@ -2,16 +2,40 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Declan Perring](https://www.imdb.com/name/nm9779536/) |
+| 声音 / 演员 | [Declan Perring](https://www.imdb.com/name/nm9779536/) |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [妖精](Fey.md "妖精") |
 | 种族 | [红帽子](Redcap.md "红帽子") |
-| 等级 | 4 |
-| 生命值 | 45 |
-| 护甲等级 | 14 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 200 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 45 | 31 | 58 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +2 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 18 米 (60 英尺) | 18 米 (60 英尺) | 18 米 (60 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 13 / (+1) | 18 / (+4) | 10 / (0) | 12 / (+1) | 9 / (-1) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [多重攻击：嗜血](Multiattack_colon__Bloodlust.md "多重攻击：嗜血")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [多重攻击：嗜血](Multiattack_colon__Bloodlust.md "多重攻击：嗜血")
 
 **帕拉梅德斯**是[终末马戏团](Circus_of_the_Last_Days.md "终末马戏团")的一名[红帽子](Redcap.md "红帽子")，位于[第三幕](Act_Three.md "第三幕")。
 
@@ -40,7 +64,7 @@
 
 ### 攻击与能力
 
-[铁意追击](Ironbound_Pursuit.md "铁意追击") ()
+[铁意追击](Ironbound_Pursuit.md "铁意追击")
 
 伤害：7~28
 
@@ -51,7 +75,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[割裂](Lacerate.md "割裂") () – [镰刀](Sickle.md "镰刀")
+[割裂](Lacerate.md "割裂") – [镰刀](Sickle.md "镰刀")
 
 伤害：5~8
 
@@ -65,7 +89,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [镰刀](Sickle.md "镰刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [镰刀](Sickle.md "镰刀")
 
 伤害：5~8
 
@@ -77,7 +101,7 @@
 
 仅在[嗜血](Bloodlust_(Condition).md "嗜血 (状态)")效果下可用：
 
-[多重攻击](Multiattack_(Redcap).md "多重攻击 (红帽子)") () – [镰刀](Sickle.md "镰刀")
+[多重攻击](Multiattack_(Redcap).md "多重攻击 (红帽子)") – [镰刀](Sickle.md "镰刀")
 
 伤害：15~24
 

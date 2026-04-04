@@ -3,16 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
+| 声音 / 演员 | [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
+| 家乡 | [翠绿林地](Emerald_Grove.md "Emerald Grove") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半精灵](Half-Elf.md "Half-elf") |
-| 等级 | 3 |
-| 生命值 | 22 |
-| 护甲等级 | 14 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 20 |
+| 亚种 | [半高精灵](High_Half-Elf.md "High half-elf") |
+| 职业 | [德鲁伊](Druid.md "Druid") (新手) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 22 | 15 | 28 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 10 / (0) | 12 / (+1) | 16 / (+3) | 14 / (+2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **马克里尔**是[第一幕](Act_One.md "Act One")期间翠绿林地的一名德鲁伊。他不喜欢访客，并且非常关心林地的安全。
 
@@ -47,7 +72,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [短棒](Club.md "Club")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [短棒](Club.md "Club")
 
 伤害：1~4
 
@@ -84,7 +109,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [短棒](Club.md "Club")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [短棒](Club.md "Club")
 
 伤害：1~4
 
@@ -94,7 +119,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[橡棍术](Shillelagh.md "Shillelagh") ()
+[橡棍术](Shillelagh.md "Shillelagh")
 需要长棍或短棒。你的[法杖](Quarterstaves.md "Quarterstaves")或[短棒](Clubs.md "Clubs")变为魔法武器：造成 1d8 + [施法调整值](Spellcasting_Modifier.md "Spellcasting modifier")⁠⁠[钝击](Bludgeoning.md "Bludgeoning")伤害，并使用你的[施法调整值](Spellcasting_Modifier.md "Spellcasting modifier")进行[攻击掷骰](Attack_roll.md "Attack Roll")。
 
 射程：自身

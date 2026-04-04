@@ -17,7 +17,7 @@
 
 佩戴此物品获得：
 
-[隐形](Invisibility_(spell).md "Invisibility (spell)") ()
+[隐形](Invisibility_(spell).md "Invisibility (spell)")
 以2环法术施展（充能：[长休](Long_Rest.md "Long rest")）
 
 ## 获取地点

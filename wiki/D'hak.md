@@ -43,7 +43,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Dire_Wolf).md "Bite (Dire Wolf)") ()
+[啃咬](Bite_(Dire_Wolf).md "Bite (Dire Wolf)")
 
 伤害: 5~15
 
@@ -53,7 +53,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[暴露啃咬](Exposing_Bite.md "Exposing Bite") ()
+[暴露啃咬](Exposing_Bite.md "Exposing Bite")
 
 伤害: 4~7
 

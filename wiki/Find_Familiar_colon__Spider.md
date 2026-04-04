@@ -28,7 +28,7 @@
 | 护甲等级 | 9 |  |  |  |  |
 | 体型 | 微型 |  |  |  |  |
 
-[蛛形跳跃](Arachnid_Jump.md "Arachnid Jump") ()
+[蛛形跳跃](Arachnid_Jump.md "Arachnid Jump")
 向上、向下和横向跳跃。你的 [力量](Strength.md "Strength") 影响你能跳多远。（充能：每回合。）
 
 啃咬一个目标。

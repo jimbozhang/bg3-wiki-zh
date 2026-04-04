@@ -37,7 +37,7 @@
 
 ### 攻击与能力
 
-[猛击](Slam_(Water_Elemental).md "猛击 (水元素)") ()
+[猛击](Slam_(Water_Elemental).md "猛击 (水元素)")
 
 伤害: 7~17
 
@@ -49,7 +49,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[寒冬吹息](Winter's_Breath.md "寒冬吹息") ()
+[寒冬吹息](Winter's_Breath.md "寒冬吹息")
 
 伤害: 4~24
 
@@ -60,7 +60,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围: 自身
 
-[多重攻击](Multiattack_(Water_Elemental).md "多重攻击 (水元素)") ()
+[多重攻击](Multiattack_(Water_Elemental).md "多重攻击 (水元素)")
 
 伤害: 16~40
 
@@ -79,7 +79,7 @@
 近战: 1.5 米 (5 英尺)
 充能: 每回合
 
-[元素扭曲](Elemental_Warp.md "元素扭曲") ()
+[元素扭曲](Elemental_Warp.md "元素扭曲")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。
 
 范围: 18 米 (60 英尺)

@@ -16,7 +16,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 
 ### 等级 1
 
-[守御闪光](Warding_Flare.md "守御闪光") ()
+[守御闪光](Warding_Flare.md "守御闪光")
 以神圣之光护佑自身。使用你的[反应](Reaction.md "反应")对攻击者施加[劣势](Disadvantage.md "劣势")，可能使其攻击落空。
 
 法术领域
@@ -47,7 +47,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 
 ### 等级 6
 
-[精通守御闪光](Improved_Warding_Flare.md "精通守御闪光") ()
+[精通守御闪光](Improved_Warding_Flare.md "精通守御闪光")
 当敌人攻击盟友时，你可以使用你的[反应](Reaction.md "反应")对[攻击掷骰](Attack_roll.md "攻击掷骰")施加[劣势](Disadvantage.md "劣势")，可能使其攻击落空。
 
 ### 等级 7

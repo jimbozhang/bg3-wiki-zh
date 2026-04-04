@@ -33,7 +33,7 @@ _此副职除了以下列出的独特特性外，还获得其基础职业[邪术
 
 - [降咒](Bestow_Curse.md "降咒") * [减速](Slow.md "减速") ### 等级 6
 
-[熵光结界](Entropic_Ward.md "熵光结界") ()
+[熵光结界](Entropic_Ward.md "熵光结界")
 对攻击你的[攻击掷骰](Attack_roll.md "攻击掷骰")施加[劣势](Disadvantage.md "劣势")。如果攻击未命中，你将在接下来的1回合内对攻击者发动的下一次[攻击掷骰](Attack_roll.md "攻击掷骰")获得[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 等级 7

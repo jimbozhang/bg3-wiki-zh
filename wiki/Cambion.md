@@ -84,7 +84,7 @@
 
 ### 攻击与能力
 
-[火焰箭](Fire_Bolt.md "火焰箭") ()
+[火焰箭](Fire_Bolt.md "火焰箭")
 
 伤害: 1~10
 
@@ -94,12 +94,12 @@
 
 射程: 18 m (60 ft)
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞至目标位置
 
 射程: 18 m (60 ft)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [三叉戟](Trident.md "三叉戟")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [三叉戟](Trident.md "三叉戟")
 
 伤害: 5~12
 

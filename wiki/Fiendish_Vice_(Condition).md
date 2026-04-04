@@ -19,7 +19,7 @@
 [炼狱叱喝](Hellish_Rebuke.md "炼狱叱喝") (+ )
 以火焰回应你的下一个攻击者，造成2d10⁠⁠[火焰](Fire.md "火焰")伤害。
 
-[奇术](Thaumaturgy.md "奇术") ()
+[奇术](Thaumaturgy.md "奇术")
 在[威吓](Intimidation.md "威吓")和[表演](Performance.md "表演")[技能检定](Skill_Check.md "技能检定")上获得[优势](Advantage.md "优势")。
 
 ## 邪魔罪恶的来源

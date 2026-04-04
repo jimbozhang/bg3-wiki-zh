@@ -25,10 +25,10 @@ UID `QUEST_FOR_Village_Blacksmith_FineWeapon` UUID `65b41886-823d-416b-b53e-c332
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

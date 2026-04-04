@@ -30,7 +30,7 @@
 
 ### 攻击与能力
 
-[移位](Displace_(Displacer_Beast).md "移位 (移位兽)") ()
+[移位](Displace_(Displacer_Beast).md "移位 (移位兽)")
 
 伤害：2~16
 
@@ -41,12 +41,12 @@
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")
 范围：3 米 (10 英尺)
 
-[幻影复制体](Illusory_Copy.md "幻影复制体") ()
+[幻影复制体](Illusory_Copy.md "幻影复制体")
 创造一个幻影移位兽攻击附近敌人。
 
 范围：18 米 (60 英尺)
 
-[触手鞭击](Tentacle_Whip_(Displacer_Beast).md "触手鞭击 (移位兽)") ()
+[触手鞭击](Tentacle_Whip_(Displacer_Beast).md "触手鞭击 (移位兽)")
 
 伤害：8~28
 

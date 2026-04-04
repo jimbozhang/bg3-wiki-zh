@@ -17,7 +17,7 @@
 
 佩戴此物品获得：
 
-[闪电释能](Lightning_Blast.md "闪电释能") ()
+[闪电释能](Lightning_Blast.md "闪电释能")
 集中你血管中的电流，以强化你的下一个法术或[戏法](Cantrip.md "戏法")。（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

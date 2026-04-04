@@ -22,7 +22,7 @@ UID `MAG_BG_OfAges_Flail` UUID `01338cbe-9ff6-485e-9052-838c82a2a753` Stats `MAG
 
 **持有此物品获得：**
 
-[元素年代](Elemental_Age.md "元素年代") ()
+[元素年代](Elemental_Age.md "元素年代")
 施放为3环法术（充能：[长休](Long_Rest.md "长休")）
 
 [时代元素](Elements_of_an_Epoch.md "时代元素")
@@ -32,13 +32,13 @@ UID `MAG_BG_OfAges_Flail` UUID `01338cbe-9ff6-485e-9052-838c82a2a753` Stats `MAG
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")（充能：[短休](Short_rest.md "短休")）
 
-[韧性](Tenacity.md "韧性") ()
+[韧性](Tenacity.md "韧性")
 当你攻击未命中时，仍然造成相当于你[力量](Strength.md "力量")[调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的[钝击](Bludgeoning.md "钝击")伤害（最低为1）。
 
-[弱化打击](Weakening_Strike.md "弱化打击") ()
+[弱化打击](Weakening_Strike.md "弱化打击")
 以非致命攻击瞄准敌人的手部，可能施加[弱腕](Weak_Grip_(Condition).md "弱腕（状态）")（充能：[短休](Short_rest.md "短休")）
 
 ## 获取地点

@@ -2,16 +2,43 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
+| 声音 / 演员 | [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
 | 体型 | 中级 |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 9 |
-| 生命值 | 85 |
-| 护甲等级 | 18 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 250 |
+| 职业 | [圣武士](Paladin.md "Paladin") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 85 | 59 | 110 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 15 / (+2) |
+
+**特性**
+
+- [冲锋](Charger.md "Charger")
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
+
+**特性**
+
+- [冲锋](Charger.md "Charger")
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
 **现金守卫打手 Humgoole** ，是位于 [博德之门](Baldur's_Gate.md "Baldur's Gate") [下城区](Lower_City.md "Lower City") [清账屋](The_Counting_House.md "The Counting House") 的现金守卫中的一名人类成员。他可以在禁区外的码头巡逻时找到。
 
@@ -35,7 +62,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨锤](Maul.md "Maul")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨锤](Maul.md "Maul")
 
 伤害: 6~16
 
@@ -45,7 +72,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害: 2~7
 

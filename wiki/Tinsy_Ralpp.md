@@ -3,15 +3,25 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Luyanda Unati Lewis-Nyawo](https://www.imdb.com/name/nm9117332/) |
+| 声音 / 演员 | [Luyanda Unati Lewis-Nyawo](https://www.imdb.com/name/nm9117332/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 11 |
-| 生命值 | 54 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 经验值 | 320 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 54 | 37 | 70 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +4 | +6 | +4 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) | 0 m (0 ft) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 16 / (+3) | 15 / (+2) | 12 / (+1) |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -59,7 +69,7 @@ Tinsy Ralpp 可在博德之门下城区的 [水女王地窖](Water_Queen's_Cella
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [硬头锤](Mace.md "硬头锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [硬头锤](Mace.md "硬头锤")
 
 伤害: 2~7
 
@@ -95,7 +105,7 @@ Tinsy Ralpp 可在博德之门下城区的 [水女王地窖](Water_Queen's_Cella
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围: 18 m (60 ft)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [硬头锤](Mace.md "硬头锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [硬头锤](Mace.md "硬头锤")
 
 伤害: 2~7
 
@@ -105,7 +115,7 @@ Tinsy Ralpp 可在博德之门下城区的 [水女王地窖](Water_Queen's_Cella
 
 近战: 1.5 m (5 ft)
 
-[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 伤害: 1~8
 

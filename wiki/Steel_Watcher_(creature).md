@@ -2,15 +2,25 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Pieter Lawman](https://www.imdb.com/name/nm1886367/) |
+| 声音 / 演员 | [Pieter Lawman](https://www.imdb.com/name/nm1886367/) |
 | 体型 | [大型](Large.md "大型") |
 | 类型 | [构装生物](Construct.md "构装生物") |
 | 种族 | [钢铁卫士](Steel_Watcher.md "钢铁卫士") |
-| 等级 | 11 |
-| 生命值 | 206 |
-| 护甲等级 | 16 |
-| 先攻 | +6 |
-| 移动速度 | 18 米 (60 英尺) |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 11 | 11 |
+| 生命值 | 206 | 267 |
+| 护甲等级 | 16 | 16 |
+| 先攻 | +6 | +6 |
+| 熟练项 | +4 | +4 |
+| 施法DC | 18 (敏捷) | 20 (敏捷) |
+| 移动速度 | 18 米 (60 英尺) | 18 米 (60 英尺) |
+| 重量 | 750 千克 (1500 磅) | 750 千克 (1500 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 22 / (+6) | 18 / (+4) | 6 / (-2) | 10 / (0) | 10 / (0) |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -120,7 +130,7 @@ _此页面为钢铁卫士生物。关于种族，请参见[钢铁卫士](Steel_W
 
 ### 攻击与能力
 
-[衰弱射击](Debilitating_Shot.md "衰弱射击") () – [守望者轻型弩](Watcher_Crossbow.md "守望者轻型弩")
+[衰弱射击](Debilitating_Shot.md "衰弱射击") – [守望者轻型弩](Watcher_Crossbow.md "守望者轻型弩")
 
 伤害：9~36
 
@@ -131,7 +141,7 @@ _此页面为钢铁卫士生物。关于种族，请参见[钢铁卫士](Steel_W
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack_(Steel_Watcher).md "主手攻击 (钢铁卫士)") () – [卫士巨剑](Watcher_Greatsword.md "卫士巨剑")
+[主手攻击](Main_Hand_Attack_(Steel_Watcher).md "主手攻击 (钢铁卫士)") – [卫士巨剑](Watcher_Greatsword.md "卫士巨剑")
 
 伤害：7~40
 
@@ -141,7 +151,7 @@ _此页面为钢铁卫士生物。关于种族，请参见[钢铁卫士](Steel_W
 
 射程：3 米 (10 英尺)
 
-[回头是岸](Reposition_Malefactor_(Steel_Watcher).md "回头是岸 (钢铁卫士)") ()
+[回头是岸](Reposition_Malefactor_(Steel_Watcher).md "回头是岸 (钢铁卫士)")
 
 伤害：3~24
 
@@ -152,7 +162,7 @@ _此页面为钢铁卫士生物。关于种族，请参见[钢铁卫士](Steel_W
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：14 米 (47 英尺)
 
-[训斥](Reprimand.md "训斥") ()
+[训斥](Reprimand.md "训斥")
 
 伤害：7~28
 
@@ -163,7 +173,7 @@ _此页面为钢铁卫士生物。关于种族，请参见[钢铁卫士](Steel_W
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[探查矩阵](Seeker_Matrix.md "探查矩阵") ()
+[探查矩阵](Seeker_Matrix.md "探查矩阵")
 能够看到[隐形](Invisible_(Condition).md "隐形 (状态)")的生物，并可能将其揭示给他人。
 
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")

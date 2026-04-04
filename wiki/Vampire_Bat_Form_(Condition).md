@@ -43,7 +43,7 @@
 | [荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger_(Condition).md "荒野形态：剑齿虎 (状态)") | 荒野形态变为剑齿虎 |
 | [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon_(Condition).md "荒野形态：水元素执政官 (状态)") | 荒野形态变为水元素执政官 |
 
-[至尊噬咬](Ascendant_Bite.md "至尊噬咬") ()
+[至尊噬咬](Ascendant_Bite.md "至尊噬咬")
 从活物身上吸血以治疗自己。（充能：[短休](Short_rest.md "短休")。）
 
 [解除吸血鬼蝙蝠形态](Dismiss_Vampire_Bat_Form.md "解除吸血鬼蝙蝠形态")

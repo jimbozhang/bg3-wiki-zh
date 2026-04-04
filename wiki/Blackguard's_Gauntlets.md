@@ -18,7 +18,7 @@
 - [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw") +1
 - [攻击掷骰](Attacks.md#Attack_rolls "Attacks") +1
 
-[致伤术](Inflict_Wounds.md "Inflict Wounds") ()
+[致伤术](Inflict_Wounds.md "Inflict Wounds")
 以4级法术施展（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点

@@ -3,11 +3,19 @@
 | | |
 | --- | --- |
 | 身份 | 男性 (Male) |
-| 配音 | - [Joshua B. Sklar](https://www.imdb.com/name/nm9157161/) |
-| 体型 | [中级](Medium.md "中级") |
-| 类型 | [怪兽](Monstrosity.md "怪兽") |
-| 种族 | [蛛化精灵](Drider.md "蛛化精灵") |
-| 等级 | 6 |
+| 声音 / 演员 | [Joshua B. Sklar](https://www.imdb.com/name/nm9157161/) |
+| 角色 | [月亮提灯 (Moonlantern)](Moonlantern.md "Moonlantern") 持有者 |
+| 体型 | [中级 (Medium)](Medium.md "Medium") |
+| 类型 | [怪兽 (Monstrosity)](Monstrosity.md "Monstrosity") |
+| 种族 | [蛛化精灵 (Drider)](Drider.md "Drider") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+
+| 属性值 (Ability scores) | 力量 (STR) | 敏捷 (DEX) | 体质 (CON) | 智力 (INT) | 感知 (WIS) | 魅力 (CHA) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 16 / (+3) | 18 / (+4) | 13 / (+1) | 16 / (+3) | 12 / (+1) |
 
 ## 特性 (Features)
 
@@ -205,7 +213,7 @@ Stats
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "割裂") () – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
+[割裂](Lacerate.md "割裂") – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
 
 伤害：5~12
 
@@ -219,7 +227,7 @@ Stats
 范围：正常武器范围
 充能：[短休 (Short rest)](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
 
 伤害：5~12
 
@@ -229,7 +237,7 @@ Stats
 
 近战：1.5 m (5 ft)
 
-[多重攻击 (Multiattack)](Multiattack_(Drider).md "Multiattack (Drider)") () – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
+[多重攻击 (Multiattack)](Multiattack_(Drider).md "Multiattack (Drider)") – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
 
 伤害：15~36
 
@@ -244,7 +252,7 @@ Stats
 近战：1.5 m (5 ft)
 充能：每回合
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
 
 伤害：1~4
 
@@ -256,7 +264,7 @@ Stats
 近战：1.5 m (5 ft)
 充能：[短休 (Short rest)](Short_rest.md "Short rest")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
+[突进攻击](Rush_Attack.md "突进攻击") – [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")
 
 伤害：4~7
 
@@ -276,7 +284,7 @@ Stats
 
 范围：18 m (60 ft)
 
-[毒液之爪](Venom_Claws.md "毒液之爪") ()
+[毒液之爪](Venom_Claws.md "毒液之爪")
 
 伤害：8~37
 

@@ -58,7 +58,7 @@ _对应 `CRE_GithQuartermistress_Trade` 和 `CRE_MagicItem_Gith_Trader`。_
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[标点弱点](Brand_the_Weak.md "标点弱点") () – [烙印护符](Amulet_of_Branding.md "烙印护符")
+[标点弱点](Brand_the_Weak.md "标点弱点") – [烙印护符](Amulet_of_Branding.md "烙印护符")
 
 暴露敌人的弱点。他们变得对[钝击](Bludgeoning.md "钝击")、[挥砍](Slashing.md "挥砍")或[穿刺](Piercing.md "穿刺")伤害[易伤](Vulnerable.md "易伤")。
 
@@ -84,7 +84,7 @@ _对应 `CRE_GithQuartermistress_Trade` 和 `CRE_MagicItem_Gith_Trader`。_
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[割裂](Lacerate.md "割裂") () – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
+[割裂](Lacerate.md "割裂") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 
 伤害：3~10
 
@@ -98,7 +98,7 @@ _对应 `CRE_GithQuartermistress_Trade` 和 `CRE_MagicItem_Gith_Trader`。_
 射程：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 
 伤害：3~10
 
@@ -108,13 +108,13 @@ _对应 `CRE_GithQuartermistress_Trade` 和 `CRE_MagicItem_Gith_Trader`。_
 
 近战：1.5 米 (5 英尺)
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气包围，你传送到一个可见的未被占据空间。
 
 射程：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 
 伤害：1~4
 
@@ -126,7 +126,7 @@ _对应 `CRE_GithQuartermistress_Trade` 和 `CRE_MagicItem_Gith_Trader`。_
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 伤害：1~8
 
@@ -136,7 +136,7 @@ _对应 `CRE_GithQuartermistress_Trade` 和 `CRE_MagicItem_Gith_Trader`。_
 
 射程：18 米 (60 英尺)
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
+[突进攻击](Rush_Attack.md "突进攻击") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 
 伤害：3~6
 
@@ -148,7 +148,7 @@ _对应 `CRE_GithQuartermistress_Trade` 和 `CRE_MagicItem_Gith_Trader`。_
 射程：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[电爪](Shocking_Grasp.md "电爪") ()
+[电爪](Shocking_Grasp.md "电爪")
 
 伤害：1~8
 

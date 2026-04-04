@@ -28,7 +28,7 @@ UID `WPN_DRYAD_Staff_A_ConjureWoodlandBeings` UUID `b61f3c6e-a224-4af8-ad16-51b3
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 对一个生物挥击以将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 状态：诱捕

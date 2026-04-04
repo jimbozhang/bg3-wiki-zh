@@ -22,7 +22,7 @@
 | 生命值 | 55 |  |  |  |  |
 | 护甲等级 | 12 |  |  |  |  |
 
-[爪击](Claws_(Us).md "爪击（我们）") ()
+[爪击](Claws_(Us).md "爪击（我们）")
 用致命的爪子猛击。
 
 吞噬一个生物的心智。如果其 [智力](Intelligence.md "智力") 低于 4，它会受到伤害并被 [震慑](Stunned_(Condition).md "震慑（状态）")。否则，其智力降低 3。
@@ -40,12 +40,12 @@
 
 如果我们在序幕中被 [脑叶切除](Lobotomised_(Condition).md "脑叶切除（状态）")，通过此动作召唤时会显著衰弱。
 
-[爪击](Claws_(Intellect_Devourer).md "爪击（噬脑怪）") ()
+[爪击](Claws_(Intellect_Devourer).md "爪击（噬脑怪）")
 用致命的爪子猛击。
 
 吞噬一个生物的心智。如果其 [智力](Intelligence.md "智力") 低于 4，它会受到伤害并被 [震慑](Stunned_(Condition).md "震慑（状态）")。否则，其智力降低 3。
 
-[突触放电](Synaptic_Discharge.md "突触放电") ()
+[突触放电](Synaptic_Discharge.md "突触放电")
 释放一波心灵能量。（充能：每回合。）
 
 ## 如何习得

@@ -5,11 +5,38 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [寇涛鱼人](Kuo-toa.md "寇涛鱼人") |
-| 等级 | 7 |
-| 生命值 | 97 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
-| 移动速度 | 9 m (30 ft) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 97 | 67 | 126 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 60 kg (120 lb) | 60 kg (120 lb) | 60 kg (120 lb) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 14 / (+2) | 16 / (+3) | 13 / (+1) | 16 / (+3) | 14 / (+2) |
+
+**特性**
+
+- [电刺](Shocking_Sting.md "电刺")
+- [投掷：闪电伤害](Throwing_colon__Lightning_Damage.md "投掷：闪电伤害")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [电刑免疫](Electrocution_Immunity.md "电刑免疫")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+
+**特性**
+
+- [电刺](Shocking_Sting.md "电刺")
+- [投掷：闪电伤害](Throwing_colon__Lightning_Damage.md "投掷：闪电伤害")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [电刑免疫](Electrocution_Immunity.md "电刑免疫")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -57,7 +84,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [闪电混语](Lightning_Jabber.md "闪电混语")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [闪电混语](Lightning_Jabber.md "闪电混语")
 
 伤害：6~14
 
@@ -69,7 +96,7 @@
 
 近战：1.5 m (5 ft)
 
-[渔网](Net.md "渔网") ()
+[渔网](Net.md "渔网")
 
 投掷渔网以\_(状态)[诱捕](Ensnared_(Net)_(Condition).md "诱捕 (渔网) (状态)")目标。
 

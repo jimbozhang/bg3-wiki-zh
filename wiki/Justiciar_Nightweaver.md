@@ -26,7 +26,7 @@
 
 ### 攻击与能力
 
-[召唤黑暗](Beckoning_Darkness.md "召唤黑暗") ()
+[召唤黑暗](Beckoning_Darkness.md "召唤黑暗")
 
 伤害：2~16
 
@@ -37,7 +37,7 @@
 [魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")
 射程：4 米 (13 英尺)
 
-[暗影步](Shadow_Step.md "暗影步") ()
+[暗影步](Shadow_Step.md "暗影步")
 从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 射程：18 米 (60 英尺)
@@ -47,7 +47,7 @@
 
 射程：18 米 (60 英尺)
 
-[难守秘密](Untenable_Secret.md "难守秘密") ()
+[难守秘密](Untenable_Secret.md "难守秘密")
 
 伤害：3~24
 

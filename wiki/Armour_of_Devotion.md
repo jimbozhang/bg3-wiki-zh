@@ -19,7 +19,7 @@
 
 此物品的穿戴者获得：
 
-[永恒奉献](Eternal_Devotion.md "永恒奉献") ()
+[永恒奉献](Eternal_Devotion.md "永恒奉献")
 诵读你的誓言以恢复 1 [引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")。（充能：[长休](Long_Rest.md "长休")。）
 
 - [隐匿](Stealth.md "隐匿")检定具有[劣势](Disadvantage.md "劣势")。

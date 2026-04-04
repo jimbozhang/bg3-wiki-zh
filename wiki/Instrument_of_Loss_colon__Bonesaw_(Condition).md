@@ -18,7 +18,7 @@
 
 ## 赋予
 
-[骨锯术](Bloody_Bonesaw.md "骨锯术") ()
+[骨锯术](Bloody_Bonesaw.md "骨锯术")
 劈砍一个目标并可能使其[减速](Slowed_(Condition).md "减速（状态）")。
 
 ## 丧失之器：骨锯的来源

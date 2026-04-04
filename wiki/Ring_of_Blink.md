@@ -14,7 +14,7 @@
 
 佩戴此物品获得：
 
-[闪现](Blink.md "Blink") ()
+[闪现](Blink.md "Blink")
 作为 3 等级法术施放（充能：[长休](Long_Rest.md "Long_Rest")。）
 
 ## 获取地点

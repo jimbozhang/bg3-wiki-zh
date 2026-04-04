@@ -2,9 +2,16 @@
 
 | | |
 | --- | --- |
+| 全名 | 卡扎多尔·扎尔 |
+| 性别 | 男性 |
+| 声优 / 演员 | [格雷厄姆·霍德利](https://www.imdb.com/name/nm0387422/) |
+| 家乡 | [扎尔宅邸](Szarr_Palace.md "扎尔宅邸")，[博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [不死生物](Undead.md "不死生物") |
 | 种族 | [不死生物](Undead.md "不死生物")，[吸血鬼](Vampire.md "吸血鬼") |
+
+| | |
+| --- | --- |
 
 **卡扎多尔·扎尔**<sup>[\[2\]](#cite_note-2)</sup> 是 _[博德之门3](Baldur's_Gate_3.md "博德之门3")_ 中的[吸血鬼](Vampire.md "Vampire")，也是[阿斯代伦](Astarion.md "阿斯代伦")的前主人。他是阿斯代伦个人任务[苍白的精灵](The_Pale_Elf.md "苍白的精灵")中的主要反派。
 

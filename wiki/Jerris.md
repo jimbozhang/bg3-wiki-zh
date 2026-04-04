@@ -264,7 +264,7 @@
 
 ### 攻击与能力 (Attacks and abilities)
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 消耗6 m (20 ft)的[移动速度](Movement_speed.md "Movement Speed")。在本回合剩余时间内，掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "Short rest")
@@ -284,7 +284,7 @@
 [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 m (60 ft)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [匕首](Dagger.md "Dagger")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 
@@ -294,7 +294,7 @@
 
 近战：1.5 m (5 ft)
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：3~12
 
@@ -308,7 +308,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 
@@ -322,7 +322,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：3~12
 

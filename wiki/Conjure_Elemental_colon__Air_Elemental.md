@@ -31,7 +31,7 @@
 
 发射2股雷鸣般的、翻腾的气流。
 
-[多重攻击](Multiattack_(Air_Elemental).md "多重攻击（风元素）") ()
+[多重攻击](Multiattack_(Air_Elemental).md "多重攻击（风元素）")
 俯冲到一个生物身上，用带电的挥击进行打击。（充能：每回合。）
 
 咯咯作响的暴风雨狂风在你周围盘旋，冲击附近的生物并使其[感电](Shocked_(Condition).md "感电（状态）")。

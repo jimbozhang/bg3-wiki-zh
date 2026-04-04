@@ -6,12 +6,33 @@
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半兽人](Half-Orc.md "Half-orc") |
-| 等级 | 10 |
-| 生命值 | 64 |
-| 护甲等级 | 18 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 250 |
+| 职业 | [圣武士](Paladin.md "Paladin") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 64 | 44 | 93 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 100 千克 (200 磅) | 100 千克 (200 磅) | 100 千克 (200 磅) |
+| 暗视 | 18 米 (60 英尺) | 18 米 (60 英尺) | 18 米 (60 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 10 / (0) | 18 / (+4) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **乌拉姆夫**是[死眼帮](Dead_Eyes.md "Dead Eyes")的成员，这是[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")的一个强盗团体，出现在[第三幕](Act_Three.md "Act Three")期间。
 
@@ -39,7 +60,7 @@
 
 范围：自身
 
-[摔翻打击](Backbreaker.md "Backbreaker") () – [战锤](Warhammer.md "Warhammer")
+[摔翻打击](Backbreaker.md "Backbreaker") – [战锤](Warhammer.md "Warhammer")
 
 伤害：5~8
 
@@ -69,7 +90,7 @@
 
 范围：正常武器范围
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [战锤](Warhammer.md "Warhammer")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [战锤](Warhammer.md "Warhammer")
 
 伤害：5~12
 
@@ -81,7 +102,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [战锤](Warhammer.md "Warhammer")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [战锤](Warhammer.md "Warhammer")
 
 伤害：5~12
 
@@ -105,7 +126,7 @@
 
 范围：正常武器范围
 
-[弱化打击](Weakening_Strike.md "Weakening_Strike") () – [战锤](Warhammer.md "Warhammer")
+[弱化打击](Weakening_Strike.md "Weakening_Strike") – [战锤](Warhammer.md "Warhammer")
 
 伤害：5~8
 

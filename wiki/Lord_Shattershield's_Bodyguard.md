@@ -43,7 +43,7 @@
 
 射程: 自身
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长棍](Quarterstaff.md "长棍")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长棍](Quarterstaff.md "长棍")
 
 伤害: 0~5
 
@@ -53,7 +53,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 伤害: 1~8
 

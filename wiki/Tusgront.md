@@ -35,7 +35,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [巨斧](Greataxe.md "巨斧")
+[劈砍](Cleave.md "劈砍") – [巨斧](Greataxe.md "巨斧")
 
 伤害：
 
@@ -45,7 +45,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨斧](Greataxe.md "巨斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨斧](Greataxe.md "巨斧")
 
 伤害：6~17
 
@@ -63,7 +63,7 @@
 
 范围：自身
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") ()
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击")
 
 伤害：
 

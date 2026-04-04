@@ -31,10 +31,10 @@ UID `S_LOW_CountingHouse_Vault3_Crossbow` UUID `b2fb13a7-ce3e-4721-b2ea-1dee3037
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") ()
+[穿刺射击](Piercing_Shot.md "穿刺射击")
 造成常规伤害，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")，使攻击造成额外伤害。（充能：[短休](Short_rest.md "短休")。）
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") ()
+[备战（远程）](Brace_(Ranged).md "备战（远程）")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，掷两次远程伤害并取最高值。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

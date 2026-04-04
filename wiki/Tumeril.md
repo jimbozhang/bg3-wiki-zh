@@ -3,16 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Declan Perring](https://www.imdb.com/name/nm9779536/) |
+| 声音 / 演员 | [Declan Perring](https://www.imdb.com/name/nm9779536/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [精灵](Elf.md "Elf") |
-| 等级 | 6 |
-| 生命值 | 42 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 90 |
+| 亚种 | [高精灵](High_Elf.md "High elf") |
+| 职业 | [法师](Wizard.md "Wizard") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+| 生命值 | 42 | 29 | 54 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 90 | 90 | 90 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 10 / (0) | 18 / (+4) | 12 / (+1) | 14 / (+2) |
 
 **图梅里尔**是一位年轻的<sup>[\[1\]](#cite_note-1)</sup> [竖琴手](Harper.md "Harper")，他在[第二幕](Act_Two.md "Act Two")期间守卫着[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")的入口。
 
@@ -60,7 +72,7 @@
 
 ### 攻击与能力
 
-[火焰箭](Fire_Bolt.md "Fire Bolt") ()
+[火焰箭](Fire_Bolt.md "Fire Bolt")
 
 伤害: 1~10
 
@@ -70,7 +82,7 @@
 
 射程: 18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [匕首](Dagger.md "Dagger")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [匕首](Dagger.md "Dagger")
 
 伤害: 2~5
 
@@ -88,7 +100,7 @@
 
 射程: 自身
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 伤害: 2~5
 

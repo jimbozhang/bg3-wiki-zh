@@ -19,7 +19,7 @@
 
 ## 赋予
 
-[指挥官奇袭 (攻击)](Commander's_Strike_(Attack).md "指挥官奇袭 (攻击)") ()
+[指挥官奇袭 (攻击)](Commander's_Strike_(Attack).md "指挥官奇袭 (攻击)")
 由你的盟友指示。使用你的[反应](Actions.md#Reactions "动作")进行一次武器攻击，附加[卓越骰子](Battle_Master.md#Level_3 "战斗大师")伤害。
 
 ## 说明

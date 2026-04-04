@@ -14,7 +14,7 @@
 
 穿戴此物品获得：
 
-[吸收元素](Absorb_Elements.md "Absorb Elements") ()
+[吸收元素](Absorb_Elements.md "Absorb Elements")
 每[短休](Short_rest.md "Short Rest")一次吸收元素伤害。对下一次针对你的元素攻击承受一半伤害，并在你的下一次攻击中额外造成 1d6 点该元素类型的伤害。（充能：[短休](Short_rest.md "Short rest")。）
 
 [奥术增强](Arcane_Enchantment_(+1).md)

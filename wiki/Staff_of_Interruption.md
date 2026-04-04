@@ -27,14 +27,14 @@ UID `MAG_LC_Counterspell_Quarterstaff` UUID `fcbb2c63-ac59-42e0-ad0b-d91cf9a47b6
 
 **持有此物品获得：**
 
-[法术反制](Counterspell.md "法术反制") ()
+[法术反制](Counterspell.md "法术反制")
 作为5级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 ### 武器动作
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

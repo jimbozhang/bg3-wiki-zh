@@ -42,7 +42,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [匕首](Dagger.md "Dagger")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 
@@ -52,7 +52,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 

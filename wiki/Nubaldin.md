@@ -3,15 +3,61 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Graham Hoadly](https://www.imdb.com/name/nm0387422/) |
+| 声音 / 演员 | [Graham Hoadly](https://www.imdb.com/name/nm0387422/) |
+| 家乡 | [希望之邸](House_of_Hope.md "House of Hope"), [九层地狱](Nine_Hells.md "Nine Hells") |
+| 职业 | 监工 |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [侏儒](Gnome.md "Gnome") |
+| 亚种 | [岩侏儒](Rock_Gnome.md "Rock gnome") |
+
+| | |
+| --- | --- |
 | 等级 | 12 |
 | 生命值 | 26 |
 | 护甲等级 | 12 |
 | 先攻 | +2 |
+| 熟练项 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) |
 | 经验值 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 15 / (+2) | 15 / (+2) | 12 / (+1) | 13 / (+1) | 13 / (+1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [精通额外攻击](Improved_Extra_Attack.md "Improved Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [精通额外攻击](Improved_Extra_Attack.md "Improved Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [精通额外攻击](Improved_Extra_Attack.md "Improved Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [精通额外攻击](Improved_Extra_Attack.md "Improved Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
 
 **努巴尔丁**是受雇于[拉斐尔](Raphael.md "Raphael")的[岩侏儒](Rock_Gnome.md "Rock Gnome")，担任[希望之邸](House_of_Hope.md "House of Hope")出口大厅的看守。他自视甚高且易怒，怀念曾负责希望之邸监狱的日子，那时他犯了一个错误并被调离。
 

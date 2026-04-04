@@ -50,7 +50,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短剑](Shortsword.md "短剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短剑](Shortsword.md "短剑")
 
 伤害：2~7
 

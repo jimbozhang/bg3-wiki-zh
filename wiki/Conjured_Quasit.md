@@ -29,7 +29,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Quasit).md "爪击 (夸塞魔)") ()
+[爪击](Claws_(Quasit).md "爪击 (夸塞魔)")
 
 伤害：4~7
 
@@ -39,10 +39,10 @@
 
 近战：1.5 米 (5 英尺)
 
-[隐形](Invisibility_(Quasit).md "隐形 (夸塞魔)") ()
+[隐形](Invisibility_(Quasit).md "隐形 (夸塞魔)")
 进入隐形状态。
 
-[恐吓](Scare.md "恐吓") ()
+[恐吓](Scare.md "恐吓")
 猛击一个生物以使其[恐慌](Frightened_(Condition).md "恐慌 (状态)")。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")

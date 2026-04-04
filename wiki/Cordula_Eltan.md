@@ -3,15 +3,27 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Lucy Paterson](https://www.imdb.com/name/nm13687455/) |
+| 声音 / 演员 | [Lucy Paterson](https://www.imdb.com/name/nm13687455/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 11 |
-| 生命值 | 72 |
-| 护甲等级 | 18 |
-| 先攻 | +3 |
-| 经验值 | 320 |
+| 职业 | [法师](Wizard.md "Wizard") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 72 | 50 | 93 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 14 / (+2) | 18 / (+4) | 11 / (0) | 15 / (+2) |
 
 **考杜拉·伊尔坦**是一名[人类](Human.md "Human")[法师](Wizard.md "Wizard")和贵族<sup>[\[1\]](#cite_note-1)</sup>，她在[下城区](Lower_City.md "Lower City")就[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")之死以及[《安苏传奇》](The_Legend_of_Ansur.md "The Legend of Ansur")一事质询冒险队——前提是[弗洛瑞克](Florrick.md "Florrick")无法亲自处理此事。
 
@@ -73,7 +85,7 @@
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 范围: 18 米 (60 英尺)
 
-[火焰箭](Fire_Bolt.md "Fire Bolt") ()
+[火焰箭](Fire_Bolt.md "Fire Bolt")
 
 伤害: 1~10
 
@@ -110,7 +122,7 @@
 
 范围: 18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长棍 +1](Quarterstaff_+1.md "Quarterstaff +1")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长棍 +1](Quarterstaff_+1.md "Quarterstaff +1")
 
 伤害: 3~8
 

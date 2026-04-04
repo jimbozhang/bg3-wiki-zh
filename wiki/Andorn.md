@@ -44,7 +44,7 @@
 
 ### 攻击和能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短剑](Shortsword.md "短剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短剑](Shortsword.md "短剑")
 
 伤害：3~8
 
@@ -54,7 +54,7 @@
 
 近战：1.5 米（5 英尺）
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") () – [短剑](Shortsword.md "短剑")
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") – [短剑](Shortsword.md "短剑")
 
 伤害：4~14
 

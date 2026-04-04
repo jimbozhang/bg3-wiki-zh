@@ -32,7 +32,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [钉头锤](Morningstar.md "钉头锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [钉头锤](Morningstar.md "钉头锤")
 
 伤害: 3~10
 
@@ -42,7 +42,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[投掷石头](Throw_Stone.md "投掷石头") ()
+[投掷石头](Throw_Stone.md "投掷石头")
 
 伤害: 3~6
 

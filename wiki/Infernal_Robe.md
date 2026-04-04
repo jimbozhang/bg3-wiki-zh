@@ -17,7 +17,7 @@
 - 获得对[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。
 - [护甲等级](Armour_Class.md "护甲等级") +1
 
-[火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖") ()
+[火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖")
 以 4 级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

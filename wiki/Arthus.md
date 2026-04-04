@@ -3,14 +3,47 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Stefan Chanyaem](https://www.imdb.com/name/nm9175408/) |
+| 声音 / 演员 | [Stefan Chanyaem](https://www.imdb.com/name/nm9175408/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半精灵](Half-Elf.md "半精灵") |
-| 等级 | 6 |
-| 生命值 | 62 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
+| 亚种 | [半高精灵](High_Half-Elf.md "半高精灵") |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+| 生命值 | 62 | 43 | 80 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 14 / (+2) | 15 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
 
 **阿瑟斯**是[第二幕](Act_Two.md "第二幕")中一位粗鲁的[半高精灵](High_Half-Elf.md "半高精灵")[野蛮人](Barbarian.md "野蛮人")和[哈尔珀](Harper.md "哈尔珀")。他受信任持有[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")，当队伍将来自[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")的难民送到[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")码头时，他会打断队伍，检查他们是否有[绝对邪教感染](Cult_of_the_Absolute.md "绝对邪教")的迹象。
 
@@ -54,7 +87,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [战斧](Battleaxe.md "战斧")
+[劈砍](Cleave.md "劈砍") – [战斧](Battleaxe.md "战斧")
 
 伤害：
 
@@ -64,7 +97,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [战斧](Battleaxe.md "战斧")
+[割裂](Lacerate.md "割裂") – [战斧](Battleaxe.md "战斧")
 
 伤害：3~10
 
@@ -78,7 +111,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[跛足打击](Maiming_Strike.md "跛足打击") () – [战斧](Battleaxe.md "战斧")
+[跛足打击](Maiming_Strike.md "跛足打击") – [战斧](Battleaxe.md "战斧")
 
 伤害：3~6
 
@@ -92,7 +125,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [战斧](Battleaxe.md "战斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [战斧](Battleaxe.md "战斧")
 
 伤害：3~10
 
@@ -110,7 +143,7 @@
 
 范围：自身
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") ()
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击")
 
 伤害：
 

@@ -6,11 +6,53 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [龙裔](Dragonborn.md "龙裔") |
-| 等级 | 8 |
-| 生命值 | 60 |
-| 护甲等级 | 15 |
-| 先攻 | +4 |
-| 经验值 | 140 |
+| 亚种 | [赤铜龙裔](Copper_Dragonborn.md "赤铜龙裔") |
+| 职业 | [游侠](Ranger.md "游侠") |
+| 副职 | [猎人](Hunter.md "猎人") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 60 | 42 | 78 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 100 千克 (200 磅) | 100 千克 (200 磅) | 100 千克 (200 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 140 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 18 / (+4) | 12 / (+1) | 12 / (+1) | 14 / (+2) | 10 / (0) |
+
+**特性**
+
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
+- [龙族血统：赤铜（强酸）](Draconic_Ancestry_colon__Copper_(Acid).md "龙族血统：赤铜（强酸）")
+- [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "元素亲和：伤害")
+- [冲出重围](Escape_the_Horde.md "冲出重围")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
+- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+- [多重攻击防御](Multiattack_Defence.md "多重攻击防御")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [钢铁意志](Steel_Will.md "钢铁意志")
+- [荒野漫游者：中毒](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：中毒")
+
+**特性**
+
+- [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
+- [龙族血统：赤铜（强酸）](Draconic_Ancestry_colon__Copper_(Acid).md "龙族血统：赤铜（强酸）")
+- [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "元素亲和：伤害")
+- [冲出重围](Escape_the_Horde.md "冲出重围")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
+- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+- [多重攻击防御](Multiattack_Defence.md "多重攻击防御")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [钢铁意志](Steel_Will.md "钢铁意志")
+- [荒野漫游者：中毒](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：中毒")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -44,7 +86,7 @@
 
 ### 攻击与能力
 
-[强酸吐息](Acid_Breath.md "强酸吐息") ()
+[强酸吐息](Acid_Breath.md "强酸吐息")
 
 伤害：2~12
 
@@ -56,7 +98,7 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-[酸液飞溅](Acid_Splash.md "酸液飞溅") ()
+[酸液飞溅](Acid_Splash.md "酸液飞溅")
 
 伤害：1~6
 
@@ -67,12 +109,12 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") ()
+[备战（远程）](Brace_(Ranged).md "备战（远程）")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "移动速度")。在你的本回合剩余时间内，投掷两次远程伤害并使用较高结果。
 
 充能：[短休](Short_rest.md "短休")
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 
 伤害：
 
@@ -96,7 +138,7 @@
 
 范围：18 米 (60 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 
 伤害：
 
@@ -110,7 +152,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [长弓](Longbow.md "长弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [长弓](Longbow.md "长弓")
 
 伤害：5~12
 
@@ -126,7 +168,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[克敌机先](True_Strike.md "克敌机先") ()
+[克敌机先](True_Strike.md "克敌机先")
 
 在你的下一次[攻击掷骰](Attack_roll.md "攻击掷骰")上获得[优势](Advantage.md "优势")。
 

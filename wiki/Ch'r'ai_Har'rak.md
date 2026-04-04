@@ -87,12 +87,12 @@
 
 ### 攻击与能力
 
-[星界步伐](Astral_Step.md "星界步伐") ()
+[星界步伐](Astral_Step.md "星界步伐")
 被银色雾气环绕，你传送至一个可见的未占用空间。
 
 范围：18 米 (60 英尺)
 
-[劈砍](Cleave.md "劈砍") () – [吉斯洋基巨剑 (灵能)](Githyanki_Greatsword_(Psionic).md "吉斯洋基巨剑 (灵能)")
+[劈砍](Cleave.md "劈砍") – [吉斯洋基巨剑 (灵能)](Githyanki_Greatsword_(Psionic).md "吉斯洋基巨剑 (灵能)")
 
 伤害：
 
@@ -108,12 +108,12 @@
 [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 范围：自身
 
-[吉斯本能：飞靴](Githborn_colon__Flying_Boots.md "吉斯本能：飞靴") () – [灵能移动之靴](Boots_of_Psionic_Movement.md "灵能移动之靴")
+[吉斯本能：飞靴](Githborn_colon__Flying_Boots.md "吉斯本能：飞靴") – [灵能移动之靴](Boots_of_Psionic_Movement.md "灵能移动之靴")
 赋予自己[飞行](Fly_(class_action).md "飞行 (职业动作)")能力。
 
 充能：[长休](Long_Rest.md "长休")
 
-[割裂](Lacerate.md "割裂") () – [吉斯洋基巨剑 (灵能)](Githyanki_Greatsword_(Psionic).md "吉斯洋基巨剑 (灵能)")
+[割裂](Lacerate.md "割裂") – [吉斯洋基巨剑 (灵能)](Githyanki_Greatsword_(Psionic).md "吉斯洋基巨剑 (灵能)")
 
 伤害：
 
@@ -127,7 +127,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [吉斯洋基巨剑 (灵能)](Githyanki_Greatsword_(Psionic).md "吉斯洋基巨剑 (灵能)")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [吉斯洋基巨剑 (灵能)](Githyanki_Greatsword_(Psionic).md "吉斯洋基巨剑 (灵能)")
 
 伤害：
 
@@ -142,13 +142,13 @@
 
 范围：18 米 (60 英尺)
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气环绕，你传送至一个可见的未占用空间。
 
 范围：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [吉斯洋基巨剑 (灵能)](Githyanki_Greatsword_(Psionic).md "吉斯洋基巨剑 (灵能)")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [吉斯洋基巨剑 (灵能)](Githyanki_Greatsword_(Psionic).md "吉斯洋基巨剑 (灵能)")
 
 伤害：1~4
 

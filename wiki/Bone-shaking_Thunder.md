@@ -8,10 +8,10 @@
 
 当你造成法术伤害时，对目标施加2回合 *\[参见注释\]* 的[残响](Reverberation_(Condition).md "残响（状态）")。当你与克雷斯卡的雷鸣共鸣时，你可以每[短休](Short_rest.md "短休")一次施放[粉碎音波](Shatter.md "粉碎音波")和[湮灭波](Destructive_Wave.md "湮灭波")。
 
-[粉碎音波](Shatter.md "粉碎音波") ()
+[粉碎音波](Shatter.md "粉碎音波")
 以5环法术施放（充能：[短休](Short_rest.md "短休")。）
 
-[湮灭波](Destructive_Wave.md "湮灭波") ()
+[湮灭波](Destructive_Wave.md "湮灭波")
 以5环法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 属性

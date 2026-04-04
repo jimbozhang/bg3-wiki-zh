@@ -52,7 +52,7 @@
 
 ### 攻击与能力
 
-[放逐斩(近战)](Banishing_Smite_(Melee).md "放逐斩(近战)") ()
+[放逐斩(近战)](Banishing_Smite_(Melee).md "放逐斩(近战)")
 
 伤害: 5~50
 
@@ -78,7 +78,7 @@
 
 射程: 普通武器射程
 
-[塞伦涅之怒](Sel%C3%BBne's_Ire_(spell).md "塞伦涅之怒 (法术)") ()
+[塞伦涅之怒](Sel%C3%BBne's_Ire_(spell).md "塞伦涅之怒 (法术)")
 
 伤害: 12~144
 
@@ -89,7 +89,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程: 18 m (60 ft)
 
-[银光壁垒](Silvered_Bulwark.md "银光壁垒") ()
+[银光壁垒](Silvered_Bulwark.md "银光壁垒")
 在目标周围形成一道无法穿透的月光屏障，屏障会跟随目标，并使范围内所有生物 [免疫](Immune.md "免疫") 伤害。
 
 射程: 18 m (60 ft)

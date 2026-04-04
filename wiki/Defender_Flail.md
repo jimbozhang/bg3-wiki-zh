@@ -32,13 +32,13 @@ UID `MAG_BG_OfEasthaven_Defender_Flail` UUID `cf19058b-2be6-411c-9227-7058053fa3
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[弱化打击](Weakening_Strike.md "弱化打击") ()
+[弱化打击](Weakening_Strike.md "弱化打击")
 以非致命攻击瞄准敌人的手部，可能使其陷入[弱腕](Weak_Grip_(Condition).md "弱腕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[韧性](Tenacity.md "韧性") ()
+[韧性](Tenacity.md "韧性")
 当你攻击未命中时，仍然造成等于你[力量](Strength.md "力量")[调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的 ⁠[钝击](Bludgeoning.md "钝击") 伤害（最低为1）。
 
 ## 获取地点

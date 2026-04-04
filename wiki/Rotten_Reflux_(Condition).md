@@ -14,7 +14,7 @@
 
 ## 赋予
 
-[腐蚀回流](Rotting_Regurgitation.md "腐蚀回流") ()
+[腐蚀回流](Rotting_Regurgitation.md "腐蚀回流")
 啜饮酿酒师的特调酒会导致他呕吐出黯蚀液体。（充能：每回合。）
 
 ## 腐烂回流的来源

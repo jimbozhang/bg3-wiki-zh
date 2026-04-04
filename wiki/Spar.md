@@ -2,15 +2,33 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Horatio Baskerville](https://www.imdb.com/name/nm15123575/) |
+| 声音 / 演员 | [Horatio Baskerville](https://www.imdb.com/name/nm15123575/) |
 | 体型 | [微型](Tiny.md "Tiny") |
 | 类型 | [野兽](Beast.md "Beast") |
 | 种族 | [松鼠](Squirrel.md "Squirrel") |
-| 等级 | 2 |
-| 生命值 | 1 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 经验值 | 1 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 2 | 2 | 2 |
+| 生命值 | 1 | 1 | 1 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 重量 | 1 千克 (2 磅) | 1 千克 (2 磅) | 1 千克 (2 磅) |
+| 暗视 | 16 米 (53 英尺) | 16 米 (53 英尺) | 16 米 (53 英尺) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 2 / (-4) | 11 / (0) | 9 / (-1) | 2 / (-4) | 10 / (0) | 4 / (-3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
 
 **斯巴尔**是[翠绿林地](Emerald_Grove.md "Emerald Grove")中的一只[松鼠](Squirrel.md "Squirrel")，出现在[第一幕](Act_One.md "Act One")。他可以在[阿尔菲拉](Alfira.md "Alfira")旁边找到，痛苦地听着她与[科琳娜](Corinna.md "Corinna")一起唱歌。
 

@@ -28,12 +28,12 @@
 | 护甲等级 | 13 |  |  |  |  |
 | 体型 | 小型 |  |  |  |  |
 
-[爪击](Claws_(Imp).md "Claws (Imp)") ()
+[爪击](Claws_(Imp).md "Claws (Imp)")
 用致命的爪子猛击。
 
 飞至目标位置
 
-[隐形](Invisibility_(Imp).md "Invisibility (Imp)") ()
+[隐形](Invisibility_(Imp).md "Invisibility (Imp)")
 进入隐形状态。
 
 钉刺目标。

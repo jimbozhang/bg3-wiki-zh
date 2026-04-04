@@ -22,9 +22,9 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 [风暴狂怒](Wrath_of_the_Storm.md "风暴狂怒")
 作为[反应](Actions.md#Reactions "动作")，反击攻击你的生物，造成2d8⁠⁠[闪电](Lightning.md "闪电")或2d8⁠⁠[雷鸣](Thunder.md "雷鸣")伤害。目标在成功通过[豁免检定](Saving_throw.md "豁免检定")时承受一半伤害。
 
-[风暴狂怒：闪电](Wrath_of_the_Storm_colon__Lightning.md "风暴狂怒：闪电") ()
+[风暴狂怒：闪电](Wrath_of_the_Storm_colon__Lightning.md "风暴狂怒：闪电")
 如果附近敌人攻击你，你可以用闪电打击进行反击，造成2d8⁠⁠[闪电](Lightning.md "闪电")伤害。
-[风暴狂怒：雷鸣](Wrath_of_the_Storm_colon__Thunder.md "风暴狂怒：雷鸣") ()
+[风暴狂怒：雷鸣](Wrath_of_the_Storm_colon__Thunder.md "风暴狂怒：雷鸣")
 如果附近敌人攻击你，你可以用雷鸣爆发进行反击，造成2d8⁠⁠[雷鸣](Thunder.md "雷鸣")伤害。
 
 法术领域
@@ -33,7 +33,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 - [雷鸣波](Thunderwave.md "雷鸣波")
 - [云雾术](Fog_Cloud.md "云雾术") ### 等级 2
 
-[毁灭狂怒](Destructive_Wrath.md "毁灭狂怒") ()
+[毁灭狂怒](Destructive_Wrath.md "毁灭狂怒")
 当你掷出[雷鸣](Thunder.md "雷鸣")或[闪电](Lightning.md "闪电")伤害时，你可以使用你的[引导神力](Cleric.md#Level_2 "牧师")来造成最大伤害。
 
 ### 等级 3
@@ -64,7 +64,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 
 ### 等级 8
 
-[神圣打击：雷鸣](Divine_Strike_colon__Thunder.md "神圣打击：雷鸣") ()
+[神圣打击：雷鸣](Divine_Strike_colon__Thunder.md "神圣打击：雷鸣")
 每回合一次，在你进行近战攻击时，除了武器伤害外，额外造成1d8⁠⁠[雷鸣](Thunder.md "雷鸣")伤害。（充能：每回合。）
 
 ### 等级 9

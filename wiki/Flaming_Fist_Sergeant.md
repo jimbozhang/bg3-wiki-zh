@@ -2,11 +2,18 @@
 
 | | |
 | --- | --- |
+| 全名 | 腥红奥林 |
+| 性别 | 女性 |
+| 声优 / 演员 | [Maggie Robertson](https://www.imdb.com/name/nm7047380/) |
+| 家乡 | [巴尔神殿](Temple_of_Bhaal.md "巴尔神殿") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") / ⁠[换形者](https://forgottenrealms.fandom.com/wiki/Changeling) |
+| 职业 | [游荡者](Rogue.md "游荡者") |
+| 副职 | [盗贼](Thief.md "盗贼") |
 
-属性
+| | |
+| --- | --- |
 
 **腥红奥林**是 ⁠[巴尔](Bhaal.md "巴尔")的选民，也是神秘的[绝对真神教团](Cult_of_the_Absolute.md "绝对真神教团")的领袖之一，并作为[博德之门3](Baldur's_Gate_3.md "博德之门3")中的主要反派之一。
 

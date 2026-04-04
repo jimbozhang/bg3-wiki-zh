@@ -45,7 +45,7 @@
 | [荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger_(Condition).md "Wild Shape: Sabre-Toothed Tiger (Condition)") | 变形为剑齿虎 |
 | [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon_(Condition).md "Wild Shape: Water Myrmidon (Condition)") | 变形为水元素执政官 |
 
-[蛛形跳跃](Arachnid_Jump.md "Arachnid Jump") ()
+[蛛形跳跃](Arachnid_Jump.md "Arachnid Jump")
 向上、向下或横向跳跃。你的[力量](Strength.md "Strength")影响跳跃距离。（充能：每回合。）
 
 [解除变形](Dismiss_Wild_Shape.md "Dismiss Wild Shape")
@@ -54,7 +54,7 @@
 [月光修复](Lunar_Mend.md "Lunar Mend") (+ )
 消耗[法术位](Spells.md#Spell_slots "Spells")以在荒野形态下恢复[生命值](Hit_Points.md "Hit Points")。每个法术位等级恢复1d8[治疗](Healing.md "治疗")。
 
-[猛毒之噬](Venomous_Bite_(Spider_Wild_Shape).md "Venomous Bite (Spider Wild Shape)") ()
+[猛毒之噬](Venomous_Bite_(Spider_Wild_Shape).md "Venomous Bite (Spider Wild Shape)")
 啃咬目标，造成1d8 + 敏捷调整值⁠⁠[穿刺](Piercing.md "Piercing")伤害，并可能使其[中毒](Poisoned_(Condition).md "Poisoned (Condition)")。
 
 喷出厚重、易燃的蛛网，减缓范围内生物并可能[网缚](Enwebbed_(Condition).md "Enwebbed (Condition)")它们。

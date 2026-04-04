@@ -26,13 +26,13 @@
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：使你的[移动速度](Movement_speed.md "移动速度")翻倍。
 
 范围：自身
 充能：每回合
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [长弓 +1](Longbow_+1.md "长弓 +1")
+[远程攻击](Ranged_Attack.md "远程攻击") – [长弓 +1](Longbow_+1.md "长弓 +1")
 
 伤害：4~11
 
@@ -42,7 +42,7 @@
 
 范围：18 米 (60 英尺)
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") () – [长弓 +1](Longbow_+1.md "长弓 +1")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") – [长弓 +1](Longbow_+1.md "长弓 +1")
 
 伤害：5~17
 

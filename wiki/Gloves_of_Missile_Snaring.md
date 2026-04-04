@@ -18,7 +18,7 @@
 
 此物品的穿戴者获得：
 
-[摘星](Missile_Snaring.md "摘星") ()
+[摘星](Missile_Snaring.md "摘星")
 你可以用[反应](Actions.md#Reactions "动作")拦截来自远程武器攻击的投射物，将其伤害减少 **1d10** + 你的[敏捷调整值](Ability_score_modifier.md "属性值调整值")。
 
 ## 获取地点

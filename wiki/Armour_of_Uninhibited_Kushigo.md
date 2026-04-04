@@ -23,7 +23,7 @@
 
 此物品的穿着者获得：
 
-[库席戈还击](Kushigo_Counter.md "库席戈还击") ()
+[库席戈还击](Kushigo_Counter.md "库席戈还击")
 当[坚强防御](Patient_Defence_(Condition).md "坚强防御（状态）")激活时：穿着者可以使用其反应，对任何未命中的攻击者进行徒手打击。
 
 ## 获取地点

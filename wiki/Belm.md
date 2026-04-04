@@ -24,20 +24,20 @@ UID `MAG_PHB_OfSpeed_Scimitar` UUID `d60524f4-583e-4b16-91b2-871221d441cf` Stats
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使你的对手[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[完美平衡打击](Perfectly_Balanced_Strike.md "完美平衡打击") ()
+[完美平衡打击](Perfectly_Balanced_Strike.md "完美平衡打击")
 以毒蛇般的速度送出贝尔姆，这是钢铁中体现的迅捷典范。（充能：每回合。）
 
-[旋风斩](Whirlwind_Attack_(Weapon_Action).md "旋风斩（武器动作）") ()
+[旋风斩](Whirlwind_Attack_(Weapon_Action).md "旋风斩（武器动作）")
 对所有附近的敌人进行打击，对每个目标进行单独的[攻击掷骰](Attack_roll.md "攻击掷骰")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

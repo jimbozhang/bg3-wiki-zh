@@ -30,13 +30,13 @@
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**中可获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")状态。（充能：[短休](Short_rest.md "短休")。）
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人，可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[缴械打击](Disarming_Strike.md "缴械打击") ()
+[缴械打击](Disarming_Strike.md "缴械打击")
 集中攻击敌人的手部，可能迫使其丢弃手持的武器。（充能：[短休](Short_rest.md "短休")。）
 
 ## 三叉戟列表
@@ -45,13 +45,13 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**中
 | --- | --- | --- | --- | --- | --- | --- |
 | [魔契三叉戟](Pactbound_Trident.md "魔契三叉戟") |  | 1d6 | 穿刺 | 1.8 千克 / 3.6 磅 | 0 |  |
 | [锈三叉戟](Rusty_Trident.md "锈三叉戟") |  | 1d6 | 穿刺 | 1.8 千克 / 3.6 磅 | 4 |  |
-| [深海三叉戟](Trident_of_the_Depths.md "深海三叉戟") | +3 | 1d6 + 3 / 1d6 | 穿刺 / 寒冷 | 1.6 千克 / 3.2 磅 | 40 | [寒冬打击](Hiemal_Strike.md "寒冬打击") () 用您结霜的三叉戟刺穿生物并使其[冻僵](Chilled_(Condition).md "冻僵（状态）")。 |
+| [深海三叉戟](Trident_of_the_Depths.md "深海三叉戟") | +3 | 1d6 + 3 / 1d6 | 穿刺 / 寒冷 | 1.6 千克 / 3.2 磅 | 40 | [寒冬打击](Hiemal_Strike.md "寒冬打击") 用您结霜的三叉戟刺穿生物并使其[冻僵](Chilled_(Condition).md "冻僵（状态）")。 |
 | [三叉戟](Trident.md "三叉戟") |  | 1d6 | 穿刺 | 1.8 千克 / 3.6 磅 | 40 |  |
 | [三叉戟 +1](Trident_+1.md "三叉戟 +1") | +1 | 1d6 + 1 | 穿刺 | 1.8 千克 / 3.6 磅 | 55 |  |
 | [闪电三叉戟](The_Sparky_Points.md "闪电三叉戟") |  | 1d6 | 穿刺 | 1.8 千克 / 3.6 磅 | 390 | [闪电之血](Electric_Blood.md "闪电之血")当持用者使用此武器造成伤害时，获得 2 点[闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）")。 |
 | [三叉戟 +2](Trident_+2.md "三叉戟 +2") | +2 | 1d6 + 2 | 穿刺 | 1.8 千克 / 3.6 磅 | 125 |  |
 | [波涛三叉戟](Trident_of_the_Waves.md "波涛三叉戟") | +1 | 1d6 + 1 | 穿刺 | 1.8 千克 / 3.6 磅 | 630 | [求水得水](The_Water_Caller.md "求水得水")命中时，施加[濡湿](Wet_(Condition).md "濡湿（状态）")并在目标周围创建一个 ⁠2 米 / 7 英尺的[水](Water_(surface).md "水（地表）")地表。 |
-| [尼鲁纳](Nyrulna.md "尼鲁纳") | +3 | 1d6 + 3 / 1d6 | 穿刺 / 雷鸣 | 1.8 千克 / 3.6 磅 | 840 | [和风连接](Zephyr_Connection.md "和风连接")此武器投掷后将返回您手中。您无法被强迫丢弃三叉戟。投掷时，武器在目标中心创建一个爆炸，在 ⁠6 米 / 20 英尺范围内造成 3d4⁠⁠[雷鸣](Thunder.md "雷鸣")[DRS](Damage_rider_as_source.md "伤害来源附加")伤害。[风之纱](Veil_of_the_Wind.md "风之纱")您获得 +3 米 / 10 英尺的[移动速度](Movement_speed.md "移动速度")和跳跃距离加成。装备此武器可使您对[坠落伤害](Damage_Types#Damage_Vulnerability,_Resistance_and_Immunity.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")免疫。[尼鲁纳：发光](Nyrulna_colon__Glowing.md "尼鲁纳：发光")此物品在 ⁠6 米 / 20 英尺半径内散发光芒。[西风闪](Zephyr_Flash.md "西风闪") () 向前急冲，创建一个气旋冲击敌人，可能施加[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）[西风破裂](Zephyr_Break.md "西风破裂") () 西风破裂模仿法术[造风术](Gust_of_Wind.md "造风术")的效果，同时造成雷鸣伤害。（充能：[短休](Short_rest.md "短休")。）
+| [尼鲁纳](Nyrulna.md "尼鲁纳") | +3 | 1d6 + 3 / 1d6 | 穿刺 / 雷鸣 | 1.8 千克 / 3.6 磅 | 840 | [和风连接](Zephyr_Connection.md "和风连接")此武器投掷后将返回您手中。您无法被强迫丢弃三叉戟。投掷时，武器在目标中心创建一个爆炸，在 ⁠6 米 / 20 英尺范围内造成 3d4⁠⁠[雷鸣](Thunder.md "雷鸣")[DRS](Damage_rider_as_source.md "伤害来源附加")伤害。[风之纱](Veil_of_the_Wind.md "风之纱")您获得 +3 米 / 10 英尺的[移动速度](Movement_speed.md "移动速度")和跳跃距离加成。装备此武器可使您对[坠落伤害](Damage_Types#Damage_Vulnerability,_Resistance_and_Immunity.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")免疫。[尼鲁纳：发光](Nyrulna_colon__Glowing.md "尼鲁纳：发光")此物品在 ⁠6 米 / 20 英尺半径内散发光芒。[西风闪](Zephyr_Flash.md "西风闪") 向前急冲，创建一个气旋冲击敌人，可能施加[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）[西风破裂](Zephyr_Break.md "西风破裂") 西风破裂模仿法术[造风术](Gust_of_Wind.md "造风术")的效果，同时造成雷鸣伤害。（充能：[短休](Short_rest.md "短休")。）
 
 ## 遗留内容
 

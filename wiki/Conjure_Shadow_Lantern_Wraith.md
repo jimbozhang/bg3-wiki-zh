@@ -27,11 +27,11 @@
 | 护甲等级 | 13 |  |  |  |  |
 | 移动速度 | 10米（33英尺） |  |  |  |  |
 
-[黯蚀爪](Necrotic_Claws_(Shadow).md "黯蚀爪（暗影）") ()
+[黯蚀爪](Necrotic_Claws_(Shadow).md "黯蚀爪（暗影）")
 
 用被诅咒的爪子猛击。
 
-[力量汲取](Strength_Drain.md "力量汲取") ()
+[力量汲取](Strength_Drain.md "力量汲取")
 抓击敌人的心脏，并可能吸取其[力量](Strength.md "力量")3点。如果目标的力量降至0，则死亡。
 
 ## 如何习得

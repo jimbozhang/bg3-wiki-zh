@@ -3,15 +3,36 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [克里斯托弗·约克](https://www.imdb.com/name/nm6758298/) |
+| 声音 / 演员 | [克里斯托弗·约克](https://www.imdb.com/name/nm6758298/) |
+| 角色 | [商人](Trader.md "Trader") |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
+| 职业 | [蜂巢杂货铺](Beehive_General_Goods.md "Beehive General Goods") 的所有者 |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 1 |
-| 生命值 | 6 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 经验值 | 1 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 1 | 1 | 1 |
+| 生命值 | 6 | 4 | 7 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) | 0 m (0 ft) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **奥利弗·特福科** 是在[蜂巢杂货铺](Beehive_General_Goods.md "Beehive General Goods")工作的商人。他出售各种药水和营地补给。
 

@@ -8,10 +8,10 @@
 
 当你造成法术伤害时，对目标施加 2 驱散 _\[[参见注释](#notes)\]_ 的 [中毒](Poisoned_(Condition).md "中毒（状态）") 状态。当你与克雷斯卡的毒力共鸣时，你可以在每个 [短休](Short_rest.md "短休") 中施放一次 [死云术](Cloudkill.md "Cloudkill") 和一次 [疾病射线](Ray_of_Sickness.md "Ray of Sickness")。
 
-[死云术](Cloudkill.md "Cloudkill") ()
+[死云术](Cloudkill.md "Cloudkill")
 以 5 环法术施放（充能：[短休](Short_rest.md "短休")。）
 
-[疾病射线](Ray_of_Sickness.md "Ray_of_Sickness") ()
+[疾病射线](Ray_of_Sickness.md "Ray_of_Sickness")
 以 5 环法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 属性

@@ -3,10 +3,14 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Penelope Rawlins](https://www.imdb.com/name/nm2857799/) |
+| 声音 / 演员 | [Penelope Rawlins](https://www.imdb.com/name/nm2857799/) |
+| 家乡 | [雷斯文小镇](Reithwin_Town.md "雷斯文小镇") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [不死生物](Undead.md "不死生物") |
 | 种族 | [不死生物](Undead.md "不死生物") |
+
+| | |
+| --- | --- |
 
 **格灵哥斯·索姆**是一位独特的智能不死生物，[雷斯文征税所](Reithwin_Tollhouse.md "雷斯文征税所")的征税官。
 

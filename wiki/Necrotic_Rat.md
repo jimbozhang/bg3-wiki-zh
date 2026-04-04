@@ -22,7 +22,7 @@
 
 ### 攻击与能力
 
-[死灵噬咬](Necrotic_Bite.md "Necrotic_Bite") ()
+[死灵噬咬](Necrotic_Bite.md "Necrotic_Bite")
 
 伤害: 5~22
 

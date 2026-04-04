@@ -5,11 +5,54 @@
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [异怪](Aberration.md "Aberration") |
 | 种族 | [异怪](Aberration.md "Aberration") |
-| 等级 | 12 |
-| 生命值 | 99 |
-| 护甲等级 | 22 |
-| 先攻 | +6 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 12 | 12 | 12 |
+| 生命值 | 99 | 69 | 128 |
+| 护甲等级 | 22 | 22 | 22 |
+| 先攻 | +6 | +6 | +6 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 90 千克 (180 磅) | 90 千克 (180 磅) | 90 千克 (180 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 22 / (+6) | 16 / (+3) | 10 / (0) | 18 / (+4) | 8 / (-1) |
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "Advanced Unarmoured Movement")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "Deflect Missiles (passive feature)")
+- [反射闪避](Evasion.md "Evasion")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [真气驻拳](Ki-Empowered_Strikes.md "Ki-Empowered Strikes")
+- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "Martial Arts: Bonus Unarmed Strike")
+- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "Martial Arts: Deft Strikes")
+- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "Martial Arts: Dextrous Attacks")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [百病不侵](Purity_of_Body.md "Purity of Body")
+- [轻身坠](Slow_Fall.md "Slow Fall")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "Stillness of Mind (passive feature)")
+- [无甲防御](Unarmoured_Defence_(Monk).md "Unarmoured Defence (Monk)")
+- [无甲移动](Unarmoured_Movement.md "Unarmoured Movement")
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "Advanced Unarmoured Movement")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "Deflect Missiles (passive feature)")
+- [反射闪避](Evasion.md "Evasion")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [真气驻拳](Ki-Empowered_Strikes.md "Ki-Empowered Strikes")
+- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "Martial Arts: Bonus Unarmed Strike")
+- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "Martial Arts: Deft Strikes")
+- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "Martial Arts: Dextrous Attacks")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [百病不侵](Purity_of_Body.md "Purity of Body")
+- [轻身坠](Slow_Fall.md "Slow Fall")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "Stillness of Mind (passive feature)")
+- [无甲防御](Unarmoured_Defence_(Monk).md "Unarmoured Defence (Monk)")
+- [无甲移动](Unarmoured_Movement.md "Unarmoured Movement")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -57,7 +100,7 @@
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 射程：正常武器射程
 
-[徒手打击](Unarmed_Strike.md "Unarmed Strike") ()
+[徒手打击](Unarmed_Strike.md "Unarmed Strike")
 
 伤害： 4
 

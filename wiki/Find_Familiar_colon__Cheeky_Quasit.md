@@ -26,10 +26,10 @@
 | 护甲等级 | 13 |  |  |  |  |
 | 体型 | 小型 |  |  |  |  |
 
-[爪击](Claws_(Quasit).md "爪击（夸塞魔）") ()
+[爪击](Claws_(Quasit).md "爪击（夸塞魔）")
 用致命的利爪猛击。
 
-[隐形](Invisibility_(Quasit).md "隐形（夸塞魔）") ()
+[隐形](Invisibility_(Quasit).md "隐形（夸塞魔）")
 进入隐形状态。
 
 鞭打一个生物以使其[恐慌](Frightened_(Condition).md "恐慌（状态）")。（充能：[短休](Short_rest.md "短休")。）

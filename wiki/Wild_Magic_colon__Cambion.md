@@ -14,15 +14,15 @@
 | 生命值 | 82 |  |  |  |  |
 | 护甲等级 | 14 |  |  |  |  |
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其击至 [失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[邪魔魅惑](Fiendish_Charm.md "邪魔魅惑") ()
+[邪魔魅惑](Fiendish_Charm.md "邪魔魅惑")
 [魅惑](Charmed_(Condition).md "魅惑（状态）") 一个类人生物，使其无法攻击你。在对话中，你在魅力 [属性检定](Ability_Check.md "属性检定") 上获得 [优势](Advantage.md "优势")。
 
 猛投 3 道火焰射线。每道射线造成 3d6[火焰](Fire.md "火焰") 伤害。
 
-[汲命之吻](Draining_Kiss.md "汲命之吻") ()
+[汲命之吻](Draining_Kiss.md "汲命之吻")
 对一个被你的 [邪魔魅惑](Fiendish_Charm.md "邪魔魅惑") [魅惑](Charmed_(Condition).md "魅惑（状态）") 的敌人施放致命之吻。
 
 飞至目标位置

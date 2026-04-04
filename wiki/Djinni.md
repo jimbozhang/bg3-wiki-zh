@@ -26,7 +26,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [气巨灵弯刀](Djinni_Scimitar.md "气巨灵弯刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [气巨灵弯刀](Djinni_Scimitar.md "气巨灵弯刀")
 
 伤害：9~32
 
@@ -38,7 +38,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[醉意龙卷](Drunken_Inhale.md "醉意龙卷") ()
+[醉意龙卷](Drunken_Inhale.md "醉意龙卷")
 
 伤害：4~32
 
@@ -49,18 +49,18 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气包围，你传送到一个可见的未被占据的空间。
 
 范围：18 米 (60 英尺)
 
-[甜莓狂风](Sweetplum_Gales.md "甜莓狂风") ()
+[甜莓狂风](Sweetplum_Gales.md "甜莓狂风")
 凝聚空气形成一股芬芳但猛烈的旋风， [束缚](Restrained_(Condition).md "束缚（状态）") 范围内的目标。
 
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[雷鸣波](Thunderwave.md "雷鸣波") ()
+[雷鸣波](Thunderwave.md "雷鸣波")
 
 伤害：2~16
 

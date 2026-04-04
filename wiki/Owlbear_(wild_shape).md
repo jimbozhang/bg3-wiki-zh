@@ -17,7 +17,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Owlbear).md "爪击 (枭熊)") ()
+[爪击](Claws_(Owlbear).md "爪击 (枭熊)")
 
 伤害：7~21
 
@@ -44,7 +44,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
-[裂地](Rupture.md "裂地") ()
+[裂地](Rupture.md "裂地")
 
 伤害：2~16
 

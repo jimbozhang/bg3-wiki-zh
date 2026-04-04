@@ -3,15 +3,29 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [David Alwyn](https://www.imdb.com/name/nm4753587/) |
+| 声音 / 演员 | [David Alwyn](https://www.imdb.com/name/nm4753587/) |
+| 家庭 | [尼姆·奥里斯](Nym_Orlith.md "Nym Orlith")（孪生妹妹） |
+| 家乡 | [博德之门](Baldur's_Gate.md "Baldur's Gate") |
+| 职业 | [法师](Wizard.md "Wizard") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [卓尔](Drow.md "Drow") |
-| 等级 | 6 |
-| 生命值 | 8 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 经验值 | 1 |
+| 亚种 | [席德瑞恩卓尔](Seldarine_Drow.md "Seldarine drow") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+| 生命值 | 8 | 5 | 10 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +5 | +3 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 16 m (53 ft) | 16 m (53 ft) | 16 m (53 ft) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
 **索恩·奥里斯**是一名[席德瑞恩卓尔](Seldarine_Drow.md "Seldarine Drow")性工作者，受雇于[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")，在那里他与他的孪生妹妹[尼姆·奥里斯](Nym_Orlith.md "Nym Orlith")一起工作。
 
@@ -77,7 +91,7 @@
 
 ### 攻击与能力
 
-[冻僵](Bone_Chill.md "Bone Chill") ()
+[冻僵](Bone_Chill.md "Bone Chill")
 
 伤害: 1~8
 
@@ -95,7 +109,7 @@
 [敲击术](Knock.md "Knock") (+ )
 解锁被普通锁锁住的物体。
 
-[绞杀术](Garrotte_(Sorn_Orlith).md "Garrotte (Sorn Orlith)") ()
+[绞杀术](Garrotte_(Sorn_Orlith).md "Garrotte (Sorn Orlith)")
 
 用绳子缠绕生物的喉咙以开始绞杀它。
 

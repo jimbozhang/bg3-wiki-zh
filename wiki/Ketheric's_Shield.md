@@ -21,7 +21,7 @@
 
 - 在进行[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throws.md "Saving Throws")时获得[优势](Advantage.md "Advantage")
 
-[盾牌猛击](Shield_Blow.md "Shield_Blow") ()
+[盾牌猛击](Shield_Blow.md "Shield_Blow")
 当敌人用近战攻击命中你时，你可以使用你的[反应](reaction.md "reaction")将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")，除非他们成功通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving throw")。
 
 [奥术增强](Arcane_Enchantment_(+1).md)

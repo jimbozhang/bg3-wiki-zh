@@ -17,7 +17,7 @@
 
 ### 攻击与能力
 
-[猛毒之噬](Venomous_Bite_(Wolf_Spider_Companion).md "猛毒之噬 (狼蛛伙伴)") ()
+[猛毒之噬](Venomous_Bite_(Wolf_Spider_Companion).md "猛毒之噬 (狼蛛伙伴)")
 
 伤害：4~11
 

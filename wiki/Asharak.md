@@ -105,7 +105,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") () – [长弓](Longbow.md "长弓")
+[腿筋射击](Hamstring_Shot.md "腿筋射击") – [长弓](Longbow.md "长弓")
 
 伤害：2~9
 
@@ -117,7 +117,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨剑](Greatsword.md "巨剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨剑](Greatsword.md "巨剑")
 
 伤害：6~16
 
@@ -127,7 +127,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [巨剑](Greatsword.md "巨剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [巨剑](Greatsword.md "巨剑")
 
 伤害：1~4
 
@@ -139,7 +139,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [长弓](Longbow.md "长弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [长弓](Longbow.md "长弓")
 
 伤害：2~9
 

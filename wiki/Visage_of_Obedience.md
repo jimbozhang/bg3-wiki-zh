@@ -62,7 +62,7 @@
 
 ### 攻击与能力
 
-[残忍奴役](Brutal_Servitude.md "Brutal_Servitude") ()
+[残忍奴役](Brutal_Servitude.md "Brutal_Servitude")
 
 伤害: 4~18
 
@@ -74,7 +74,7 @@
 范围: 自身
 充能: 每回合
 
-[死亡尖啸](Death_Shriek.md "Death_Shriek") ()
+[死亡尖啸](Death_Shriek.md "Death_Shriek")
 
 伤害: 3~9
 
@@ -84,7 +84,7 @@
 
 范围: 自身
 
-[头槌](Headbutt.md "Headbutt") ()
+[头槌](Headbutt.md "Headbutt")
 
 伤害: 0~6
 

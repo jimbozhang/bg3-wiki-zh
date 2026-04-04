@@ -3,14 +3,48 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [塔玛琳·佩恩](https://www.imdb.com/name/nm2568196/) |
+| 声音 / 演员 | [塔玛琳·佩恩](https://www.imdb.com/name/nm2568196/) |
+| 角色 | [邪魔](The_Fiend.md "邪魔") [威尔](Wyll.md "威尔")的契约主，[附属追随者](Attached_Follower.md "附属追随者") |
+| 家乡 | [九层地狱](Nine_Hells.md "九层地狱") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [邪魔](Fiend.md "邪魔") |
 | 种族 | [坎比翁](Cambion.md "坎比翁") |
-| 等级 | 12 |
-| 生命值 | 75 |
-| 护甲等级 | 12 |
-| 先攻 | +2 |
+| 职业 | [术士](Sorcerer.md "术士") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 12 | 12 |
+| 生命值 | 75 | 97 |
+| 护甲等级 | 12 | 12 |
+| 先攻 | +2 | +2 |
+| 熟练项 | +4 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 18 米 (60 英尺) | 18 米 (60 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 15 / (+2) | 16 / (+3) | 14 / (+2) | 12 / (+1) | 20 / (+5) |
+
+**特性**
+
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [超魔：远距法术](Metamagic_colon__Distant_Spell.md "超魔：远距法术")
+- [超魔：延长法术](Metamagic_colon__Extended_Spell.md "超魔：延长法术")
+- [超魔：高强法术](Metamagic_colon__Heightened_Spell.md "超魔：高强法术")
+- [超魔：瞬发法术](Metamagic_colon__Quickened_Spell.md "超魔：瞬发法术")
+- [超魔：成双法术](Metamagic_colon__Twinned_Spell.md "超魔：成双法术")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [超魔：远距法术](Metamagic_colon__Distant_Spell.md "超魔：远距法术")
+- [超魔：延长法术](Metamagic_colon__Extended_Spell.md "超魔：延长法术")
+- [超魔：高强法术](Metamagic_colon__Heightened_Spell.md "超魔：高强法术")
+- [超魔：瞬发法术](Metamagic_colon__Quickened_Spell.md "超魔：瞬发法术")
+- [超魔：成双法术](Metamagic_colon__Twinned_Spell.md "超魔：成双法术")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -285,7 +319,7 @@ UUID
 [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 施法距离：18 米 (60 英尺)
 
-[火焰箭](Fire_Bolt.md "火焰箭") ()
+[火焰箭](Fire_Bolt.md "火焰箭")
 
 伤害：1~10
 
@@ -295,7 +329,7 @@ UUID
 
 施法距离：18 米 (60 英尺)
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞到目标位置
 
 施法距离：18 米 (60 英尺)

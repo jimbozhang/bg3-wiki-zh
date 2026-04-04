@@ -3,15 +3,50 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [莉安-罗斯·邦斯](https://www.imdb.com/name/nm3332140/) |
+| 声音 / 演员 | [莉安-罗斯·邦斯](https://www.imdb.com/name/nm3332140/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [侏儒](Gnome.md "Gnome") |
-| 等级 | 9 |
-| 生命值 | 52 |
-| 护甲等级 | 15 |
-| 先攻 | +4 |
-| 经验值 | 110 |
+| 亚种 | [岩侏儒](Rock_Gnome.md "Rock gnome") |
+| 职业 | [游荡者](Rogue.md "Rogue") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 52 | 36 | 67 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 110 | 110 | 110 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 18 / (+4) | 13 / (+1) | 12 / (+1) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [反射闪避](Evasion.md "Evasion")
+- [舞光匕首：发光](Gleamdance_Dagger_colon__Glowing.md "Gleamdance Dagger: Glowing")
+- [闪光舞者](Gleamdancer.md "Gleamdancer")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
+- [直觉闪避](Uncanny_Dodge.md "Uncanny Dodge")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [反射闪避](Evasion.md "Evasion")
+- [舞光匕首：发光](Gleamdance_Dagger_colon__Glowing.md "Gleamdance Dagger: Glowing")
+- [闪光舞者](Gleamdancer.md "Gleamdancer")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
+- [直觉闪避](Uncanny_Dodge.md "Uncanny Dodge")
 
 **法尔林**是 [公会](The_Guild.md "The Guild") 的成员，也是 [九指基恩](Nine-Fingers_Keene.md "Nine-Fingers Keene") 的使者。
 
@@ -80,7 +115,7 @@
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "Cunning Action: Dash") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "Cunning Action: Dash")
 本回合移动更远的距离：使你的 [移动速度](Movement_speed.md "Movement Speed") 翻倍。
 
 范围：自身
@@ -93,7 +128,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [舞光匕首](Gleamdance_Dagger.md "Gleamdance Dagger")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [舞光匕首](Gleamdance_Dagger.md "Gleamdance Dagger")
 
 伤害：7~10
 
@@ -103,7 +138,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[副手攻击（近战）](Off-Hand_Attack_(Melee).md "Off-Hand Attack (Melee)") () – [匕首](Dagger.md "Dagger")
+[副手攻击（近战）](Off-Hand_Attack_(Melee).md "Off-Hand Attack (Melee)") – [匕首](Dagger.md "Dagger")
 
 伤害：5~8
 
@@ -113,7 +148,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [舞光匕首](Gleamdance_Dagger.md "Gleamdance Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [舞光匕首](Gleamdance_Dagger.md "Gleamdance Dagger")
 
 伤害：7~10
 
@@ -127,7 +162,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "Sneak Attack (Melee)") () – [舞光匕首](Gleamdance_Dagger.md "Gleamdance Dagger")
+[偷袭（近战）](Sneak_Attack_(Melee).md "Sneak Attack (Melee)") – [舞光匕首](Gleamdance_Dagger.md "Gleamdance Dagger")
 
 伤害：8~16
 

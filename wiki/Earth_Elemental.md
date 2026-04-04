@@ -17,7 +17,7 @@
 
 ### 攻击与能力
 
-[泥泞猛击](Soil-Clogged_Slam.md "泥泞猛击") ()
+[泥泞猛击](Soil-Clogged_Slam.md "泥泞猛击")
 
 伤害: 8~18
 
@@ -27,7 +27,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[撼地锤击](Seismic_Strike.md "撼地锤击") ()
+[撼地锤击](Seismic_Strike.md "撼地锤击")
 
 伤害: 4~24
 
@@ -38,7 +38,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围: 自身
 
-[多重攻击](Multiattack_(Earth_Elemental).md "多重攻击 (土元素)") ()
+[多重攻击](Multiattack_(Earth_Elemental).md "多重攻击 (土元素)")
 
 伤害: 14~26
 
@@ -53,7 +53,7 @@
 近战: 1.5 米 (5 英尺)
 充能: 每回合
 
-[元素扭曲](Elemental_Warp.md "元素扭曲") ()
+[元素扭曲](Elemental_Warp.md "元素扭曲")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。
 
 范围: 18 米 (60 英尺)

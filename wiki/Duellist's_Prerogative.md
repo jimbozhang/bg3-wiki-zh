@@ -28,7 +28,7 @@ UID `MAG_TheDueller_Rapier` UUID `d49bf05e-4f94-4860-bd8c-ae63dae811be` Stats `M
 
 **持有此物品获得：**
 
-[决斗挑战](Challenge_to_Duel.md "决斗挑战") ()
+[决斗挑战](Challenge_to_Duel.md "决斗挑战")
 挑战一名敌人只攻击你，对目标施加[流血](Bleeding_(Condition).md "流血 (状态)")。
 
 [优雅决斗者](Elegant_Duellist.md "优雅决斗者")
@@ -41,20 +41,20 @@ UID `MAG_TheDueller_Rapier` UUID `d49bf05e-4f94-4860-bd8c-ae63dae811be` Stats `M
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使你的对手[失衡](Off_Balance_(Condition).md "失衡 (状态)")。(充能：[短休](Short_rest.md "短休")。)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击一名敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")。(充能：[短休](Short_rest.md "短休")。)
 
-[弱化打击](Weakening_Strike.md "弱化打击") ()
+[弱化打击](Weakening_Strike.md "弱化打击")
 以非致命攻击瞄准敌人的手部，并可能施加[弱腕](Weak_Grip_(Condition).md "弱腕 (状态)")。(充能：[短休](Short_rest.md "短休")。)
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[决斗者的热枕](Dueller's_Enthusiasm.md "决斗者的热枕") ()
+[决斗者的热枕](Dueller's_Enthusiasm.md "决斗者的热枕")
 当你未双持且副手空置时，你可以用决斗者进行一次额外的近战攻击。(充能：每回合。)
 
 ## 获取地点

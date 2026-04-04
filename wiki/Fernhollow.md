@@ -3,15 +3,49 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
+| 声优 / 演员 | [Tariyé Peterside](https://www.imdb.com/name/nm7346673/) |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半身人](Halfling.md "半身人") |
-| 等级 | 9 |
-| 生命值 | 69 |
-| 护甲等级 | 15 |
-| 先攻 | +1 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 200 |
+| 亚种 | [轻足半身人](Lightfoot_Halfling.md "轻足半身人") |
+| 职业 | [战士](Fighter.md "战士") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 69 | 48 | 89 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+
+**特性**
+
+- [勇敢](Brave.md "勇敢")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
+
+**特性**
+
+- [勇敢](Brave.md "勇敢")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
 
 **拳手费恩霍洛**是一名[半身人](Halfling.md "半身人")[战士](Fighter.md "战士")，也是[焰拳](Flaming_Fist.md "焰拳")的成员。她可以在[第三幕](Act_Three.md "第三幕")的[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")中找到。
 
@@ -46,7 +80,7 @@
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "割裂") () – [长剑](Longsword.md "长剑")
+[割裂](Lacerate.md "割裂") – [长剑](Longsword.md "长剑")
 
 伤害：6~13
 
@@ -60,7 +94,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长剑](Longsword.md "长剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长剑](Longsword.md "长剑")
 
 伤害：6~13
 
@@ -70,7 +104,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [长剑](Longsword.md "长剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [长剑](Longsword.md "长剑")
 
 伤害：1~4
 
@@ -82,7 +116,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [长剑](Longsword.md "长剑")
+[突进攻击](Rush_Attack.md "突进攻击") – [长剑](Longsword.md "长剑")
 
 伤害：6~9
 

@@ -17,7 +17,7 @@
 
 佩戴此物品获得：
 
-[恢复](Lesser_Restoration.md "恢复") ()
+[恢复](Lesser_Restoration.md "恢复")
 作为 2 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

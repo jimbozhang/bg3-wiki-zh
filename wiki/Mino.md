@@ -3,15 +3,29 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Richard Cotton](https://www.imdb.com/name/nm1376812/) |
+| 声音 / 演员 | [Richard Cotton](https://www.imdb.com/name/nm1376812/) |
+| 家乡 | [翠绿林地](Emerald_Grove.md "Emerald Grove") |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [侏儒](Gnome.md "Gnome") |
-| 等级 | 3 |
-| 生命值 | 24 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 经验值 | 20 |
+| 亚种 | [岩侏儒](Rock_Gnome.md "Rock gnome") |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 24 | 16 | 31 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 16 / (+3) | 13 / (+1) | 10 / (0) | 12 / (+1) | 10 / (0) |
 
 **米诺**在[第一幕](Act_One.md "Act_One")期间守卫着[翠绿林地](Emerald_Grove.md "Emerald Grove")中[圣池](Sacred_Pool.md "Sacred Pool")的入口。
 
@@ -42,7 +56,7 @@
 
 ### 攻击与能力
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [短弓](Shortbow.md "Shortbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [短弓](Shortbow.md "Shortbow")
 
 伤害：4~9
 

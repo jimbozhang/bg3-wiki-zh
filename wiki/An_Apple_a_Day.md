@@ -27,22 +27,22 @@
 | 护甲等级 | 10 |  |  |  |  |
 | 体型 | 大型 |  |  |  |  |
 
-[切换形态：恐狼](Alternate_Form_colon__Dire_Wolf.md "切换形态：恐狼") ()
+[切换形态：恐狼](Alternate_Form_colon__Dire_Wolf.md "切换形态：恐狼")
 变为[恐狼](Dire_Wolf.md "恐狼")形态。（充能：每回合。）
 
-[切换形态：牛头人](Alternate_Form_colon__Minotaur.md "切换形态：牛头人") ()
+[切换形态：牛头人](Alternate_Form_colon__Minotaur.md "切换形态：牛头人")
 变为[牛头人](Minotaur.md "牛头人")形态。（充能：每回合。）
 
-[切换形态：相位蜘蛛](Alternate_Form_colon__Phase_Spider.md "切换形态：相位蜘蛛") ()
+[切换形态：相位蜘蛛](Alternate_Form_colon__Phase_Spider.md "切换形态：相位蜘蛛")
 变为[相位蜘蛛](Phase_Spider.md "相位蜘蛛")形态。（充能：每回合。）
 
-[切换形态：幽影獒犬](Alternate_Form_colon__Shadow_Mastiff.md "切换形态：幽影獒犬") ()
+[切换形态：幽影獒犬](Alternate_Form_colon__Shadow_Mastiff.md "切换形态：幽影獒犬")
 变为[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")形态。（充能：每回合。）
 
-[赭色唾液](Ochre_Sputum_(acid).md "赭色唾液（强酸）") ()
+[赭色唾液](Ochre_Sputum_(acid).md "赭色唾液（强酸）")
 吐出酸性物质并在冲击时创造一个[强酸](Acid_(surface).md) 地表。
 
-[伪足](Pseudopod.md "伪足") ()
+[伪足](Pseudopod.md "伪足")
 用一条粘稠的灰色触手猛击。
 
 ## 如何习得

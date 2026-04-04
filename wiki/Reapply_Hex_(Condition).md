@@ -8,7 +8,7 @@
 
 [堆叠ID](Stack_ID.md "堆叠ID"): `HEX_REAPPLY` ## 赋予：
 
-[再度施展脆弱诅咒](Reapply_Hex.md "再度施展脆弱诅咒") ()
+[再度施展脆弱诅咒](Reapply_Hex.md "再度施展脆弱诅咒")
 诅咒一个新的生物而不消耗额外的[法术位](Spells.md#Spell_Slots "法术位")。
 
 ## 再度施展脆弱诅咒的来源

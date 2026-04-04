@@ -76,7 +76,7 @@
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "割裂") () – [手斧](Handaxe.md "手斧")
+[割裂](Lacerate.md "割裂") – [手斧](Handaxe.md "手斧")
 
 伤害：2~7
 
@@ -90,7 +90,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [手斧](Handaxe.md "手斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [手斧](Handaxe.md "手斧")
 
 伤害：2~7
 
@@ -113,7 +113,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 
-[投掷石头](Throw_Stone.md "投掷石头") ()
+[投掷石头](Throw_Stone.md "投掷石头")
 
 伤害：2~5
 

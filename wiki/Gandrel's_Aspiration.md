@@ -30,17 +30,17 @@ UID `MAG_Gandrel_UndeadSlayer_HeavyCrossbow` UUID `12710611-6c85-4280-a597-8286e
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") ()
+[穿刺射击](Piercing_Shot.md "Piercing Shot")
 造成常规伤害，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")，使攻击造成额外伤害。（充能：[短休](Short_rest.md "Short rest")。）
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") ()
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)")
 消耗6米（20英尺）的[移动](Movement_speed.md "Movement Speed")。在你本回合剩余时间内，掷两次远程伤害骰并取最高值。（充能：[短休](Short_rest.md "Short rest")。）
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[神圣弹药](Sacred_Munitions.md "Sacred Munitions") ()
+[神圣弹药](Sacred_Munitions.md "Sacred Munitions")
 为你的弩箭注入神圣能量。在你本回合剩余时间内，你的远程武器攻击对[不死生物](Undead.md "Undead")施加[被驱散](Turned_(Condition).md "Turned (Condition)")状态。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

@@ -29,13 +29,13 @@ UID `UNI_UND_WPN_SwordOfScreams` UUID `df6698d2-b690-4aea-be83-956d3b2ea97e` * U
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡 (状态)"). (充能：[短休](Short_rest.md "短休").)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)"). (充能：[短休](Short_rest.md "短休").)
 
-[弱化打击](Weakening_Strike.md "弱化打击") ()
+[弱化打击](Weakening_Strike.md "弱化打击")
 以非致命攻击瞄准敌人的手部，并可能造成[弱腕](Weak_Grip_(Condition).md "弱腕 (状态)"). (充能：[短休](Short_rest.md "短休").)
 
 ## 获取地点

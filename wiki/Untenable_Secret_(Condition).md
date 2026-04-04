@@ -16,7 +16,7 @@
 
 ## 赋予
 
-[分享难守秘密](Share_Untenable_Secret.md "分享难守秘密") ()
+[分享难守秘密](Share_Untenable_Secret.md "分享难守秘密")
 与一名盟友分享一个秘密，以防止由 [难守秘密](Untenable_Secret.md "难守秘密") 造成的伤害。该盟友必须通过感知 [豁免检定](Saving_throw.md "豁免检定")，否则将被迫将秘密传递给另一名盟友。
 
 ## 状态：难守秘密：效果

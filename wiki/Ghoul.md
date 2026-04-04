@@ -62,7 +62,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Ghoul).md "爪击（食尸鬼）") ()
+[爪击](Claws_(Ghoul).md "爪击（食尸鬼）")
 
 伤害：3~9
 
@@ -73,7 +73,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米（5 英尺）
 
-[吞噬](Devour_(Ghoul).md "吞噬（食尸鬼）") ()
+[吞噬](Devour_(Ghoul).md "吞噬（食尸鬼）")
 吞噬一个[倒地](Downed_(Condition).md "倒地（状态）")的生物，立即杀死它。
 
 近战：1.5 米（5 英尺）

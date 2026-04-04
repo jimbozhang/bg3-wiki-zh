@@ -23,10 +23,10 @@
 
 传送你自己和一个目标到附近地点，撕裂目标的心智并留下一个你的幻影复制体。
 
-[幻影复制体](Illusory_Copy.md "幻影复制体") ()
+[幻影复制体](Illusory_Copy.md "幻影复制体")
 创造一个幻影移位兽来攻击附近的敌人。
 
-[触手鞭](Tentacle_Whip_(Displacer_Beast).md "触手鞭 (移位兽)") ()
+[触手鞭](Tentacle_Whip_(Displacer_Beast).md "触手鞭 (移位兽)")
 用光滑、带刺的触手猛击。
 
 [额外攻击](Extra_Attack.md "额外攻击")

@@ -28,7 +28,7 @@
 | 护甲等级 | 11 |  |  |  |  |
 | 体型 | 小型 |  |  |  |  |
 
-[致残钳击](Maiming_Pinch.md "Maiming Pinch") ()
+[致残钳击](Maiming_Pinch.md "Maiming Pinch")
 攻击一个生物的脚部并施加 [拘束](Pinched_(Condition).md "拘束 (状态)")。
 
 ## 如何习得

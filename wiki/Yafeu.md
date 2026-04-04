@@ -73,7 +73,7 @@
 
 ### 攻击与能力
 
-[醉意龙卷](Drunken_Inhale.md "醉意龙卷") ()
+[醉意龙卷](Drunken_Inhale.md "醉意龙卷")
 
 伤害：4~32
 
@@ -84,7 +84,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [弯刀](Scimitar.md "弯刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [弯刀](Scimitar.md "弯刀")
 
 伤害：6~11
 
@@ -94,7 +94,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[变幻风向](Shifting_Winds.md "变幻风向") ()
+[变幻风向](Shifting_Winds.md "变幻风向")
 被银色雾气包围，你传送到一个可见的未被占据空间。
 
 范围：18 米 (60 英尺)

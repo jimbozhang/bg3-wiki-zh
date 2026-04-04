@@ -3,16 +3,39 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Durassie Kiangangu](https://www.imdb.com/name/nm3698863/) |
+| 声音 / 演员 | [Durassie Kiangangu](https://www.imdb.com/name/nm3698863/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 9 |
-| 生命值 | 68 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 200 |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 68 | 47 | 88 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 19 / (+4) | 12 / (+1) | 14 / (+2) | 12 / (+1) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [愤怒伤痕](Scar_of_Fury.md "Scar of Fury")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [愤怒伤痕](Scar_of_Fury.md "Scar of Fury")
 
 **普姆勒·格雷吉特**是[古尔](Gur.md "Gur")部落的成员，这是一个[人类](Human.md "Human")游牧部落。他可以在[利文顿](Rivington.md "Rivington")的[古尔营地](Gur_Camp.md "Gur Camp")中找到，位于[第三幕](Act_3.md "Act 3")。
 
@@ -56,7 +79,7 @@
 范围：自身
 充能：[短休](Short_rest.md "Short rest")
 
-[劈砍](Cleave.md "Cleave") () – [巨剑](Greatsword.md "Greatsword")
+[劈砍](Cleave.md "Cleave") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：
 
@@ -66,7 +89,7 @@
 
 充能：[短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [巨剑](Greatsword.md "Greatsword")
+[割裂](Lacerate.md "Lacerate") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：6~16
 
@@ -80,7 +103,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨剑](Greatsword.md "Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：6~16
 
@@ -90,7 +113,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "Pommel_Strike") () – [巨剑](Greatsword.md "Greatsword")
+[剑柄打击](Pommel_Strike.md "Pommel_Strike") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：1~4
 
@@ -102,7 +125,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[回气](Second_Wind.md "Second_Wind") ()
+[回气](Second_Wind.md "Second_Wind")
 
 治疗：1~10 + 调整值
 

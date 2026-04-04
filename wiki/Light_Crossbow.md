@@ -25,7 +25,7 @@ UID `WPN_HUM_LightCrossbow_A_0` UUID `43b7fbf5-7f6e-4e9e-bce7-c679eea44593` Stat
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") ()
+[穿刺射击](Piercing_Shot.md "Piercing Shot")
 造成常规伤害，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")，使攻击造成额外伤害。（充能：[短休](Short_rest.md "Short rest")。）
 
 ---

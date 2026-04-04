@@ -16,7 +16,7 @@
 
 ### 攻击与能力
 
-[不祥之兆](Bad_Omen.md "不祥之兆") ()
+[不祥之兆](Bad_Omen.md "不祥之兆")
 
 伤害：2~16
 
@@ -28,7 +28,7 @@
 射程：9 米 (30 英尺)
 充能：每回合
 
-[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击（恐鸦）") ()
+[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击（恐鸦）")
 
 伤害：4~10
 
@@ -38,32 +38,32 @@
 
 近战：1.5 米 (5 英尺)
 
-[疾走](Dash_(bonus_action).md "疾走（附赠动作）") ()
+[疾走](Dash_(bonus_action).md "疾走（附赠动作）")
 本回合移动更远距离：你的[移动速度](Movement_speed.md "移动速度")翻倍。
 
 射程：自身
 
-[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作") ()
+[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作")
 安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。
 
 射程：自身
 
-[飞行](Fly_(Dire_Raven_Companion).md "飞行（恐鸦伙伴）") ()
+[飞行](Fly_(Dire_Raven_Companion).md "飞行（恐鸦伙伴）")
 飞至目标位置并制造一小片[黑暗术](Darkness_(cloud).md)。
 
 射程：18 米 (60 英尺)
 
-[协助](Help_(bonus_action).md "协助（附赠动作）") ()
+[协助](Help_(bonus_action).md "协助（附赠动作）")
 帮助需要帮助的盟友。移除[燃烧](Burning_(Condition).md "燃烧（状态）")、[倒地](Downed_(Condition).md "倒地（状态）")、\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕（诱捕打击）（状态）")、[缠绕](Entangled_(Condition).md "缠绕（状态）")、[网缚](Enwebbed_(Condition).md "网缚（状态）")、[倒伏](Prone_(status_group).md)、[沉睡](Sleeping_(Condition).md "沉睡（状态）")。
 
 射程：1.5 米 (5 英尺)
 
-[黑色之翼](On_Black_Wings.md "黑色之翼") ()
+[黑色之翼](On_Black_Wings.md "黑色之翼")
 召唤两只与你结盟的渡鸦。你无法控制渡鸦。
 
 射程：9 米 (30 英尺)
 
-[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠（恐鸦）") ()
+[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠（恐鸦）")
 
 伤害：3~8
 

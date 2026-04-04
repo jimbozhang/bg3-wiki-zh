@@ -21,7 +21,7 @@
 
 ### 攻击与能力
 
-[死亡爆裂](Death_Burst_(Mud).md "死亡爆裂 (泥)") ()
+[死亡爆裂](Death_Burst_(Mud).md "死亡爆裂 (泥)")
 
 伤害: 6~36
 
@@ -34,18 +34,18 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围: 自身
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞向目标位置
 
 范围: 18 米 (60 英尺)
 
-[泥水呼吸](Mud_Breath.md "泥水呼吸") ()
+[泥水呼吸](Mud_Breath.md "泥水呼吸")
 向敌人喷吐粘稠泥巴以[束缚](Muddy_(Condition).md "泥泞 (状态)")它。
 
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 充能: 每回合
 
-[泥泞利爪](Muddy_Claws.md "泥泞利爪") ()
+[泥泞利爪](Muddy_Claws.md "泥泞利爪")
 
 伤害: 4~19
 
@@ -55,7 +55,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[扔泥巴](Mud_Fling.md "扔泥巴") ()
+[扔泥巴](Mud_Fling.md "扔泥巴")
 
 伤害: 2~5
 

@@ -36,7 +36,7 @@
 
 ### 攻击和能力[&action=edit&section=2> "编辑部分源代码：攻击和能力") | &veaction=edit&section=2> "编辑部分：攻击和能力")]
 
-[爪击](Claws_(Imp).md "爪击 (小魔鬼)") ()
+[爪击](Claws_(Imp).md "爪击 (小魔鬼)")
 
 伤害: 4~7
 

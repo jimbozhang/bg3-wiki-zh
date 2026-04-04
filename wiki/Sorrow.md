@@ -24,20 +24,20 @@ UID `UNI_DEN_HalsinBlade` UUID `0de9e072-7048-4d07-8bbe-79e0591674c2` Stats `DEN
 
 **持有此物品获得：**
 
-[悲伤鞭笞](Sorrowful_Lash.md "悲伤鞭笞") ()
+[悲伤鞭笞](Sorrowful_Lash.md "悲伤鞭笞")
 以戏法施放（充能：每回合。）
 
 ### 武器动作
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[备战（近战）](Brace_(Melee).md "备战（近战）") ()
+[备战（近战）](Brace_(Melee).md "备战（近战）")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，掷两次近战伤害并取最高值。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能使其[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -37,7 +37,7 @@ UID `MAG_OfSpellPower_Quarterstaff` UUID `d09685e8-0122-4ecb-8e9d-2f6f1850427e` 
 
 _如果你有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[摔绊](Topple.md "Topple") ()
+[摔绊](Topple.md "Topple")
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")。 (充能：[短休](Short_rest.md "Short rest")。)
 
 ## 获取地点

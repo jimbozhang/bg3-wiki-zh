@@ -5,11 +5,36 @@
 | 体型 | 中级 |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
-| 等级 | 5 |
-| 生命值 | 32 |
-| 护甲等级 | 15 |
-| 先攻 | +3 |
-| 经验值 | 250 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 32 | 22 | 41 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 17 / (+3) | 14 / (+2) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
 
 **掠夺者泽迪因**是一名[吉斯洋基人](Githyanki.md "吉斯洋基人")士兵，可以通过[门主瑞'泽尔](Ri'zel.md "门主瑞'泽尔")在[博德之门](Baldur's_Gate.md "博德之门")[下城区](Lower_City.md "下城区")的[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点")开启的[星界裂缝](Astral_Rift.md "星界裂缝")召唤。
 
@@ -24,18 +49,18 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 花费 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在本回合剩余时间内，掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "短休")
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。
 
 范围：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 
 伤害：5~14
 
@@ -49,7 +74,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 
 伤害：5~14
 

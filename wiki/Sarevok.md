@@ -3,12 +3,15 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Redd Pepper](https://www.imdb.com/name/nm1005611/) |
+| 声音 / 演员 | [Redd Pepper](https://www.imdb.com/name/nm1005611/) |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
+| 职业 | [战士](Fighter.md "战士") |
 
-属性
+| | |
+| --- | --- |
 
 **沙洛佛克·安基夫**是一位传奇的[巴尔之子](Bhaalspawn.md "巴尔之子")。他是《博德之门》的主要反派，也是《博德之门II：巴尔王座》中可能的伙伴。他可以在[谋杀裁判所](Murder_Tribunal.md "谋杀裁判所")中找到，该裁判所位于[坎德哈洛墓碑店](Candulhallow's_Tombstones.md "坎德哈洛墓碑店")下方，出现在[第三幕](Act_Three.md "第三幕")期间。
 

@@ -3,10 +3,14 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Sean Baker](https://www.imdb.com/name/nm0048917/) |
+| 声音 / 演员 | [Sean Baker](https://www.imdb.com/name/nm0048917/) |
+| 家乡 | [雷斯文小镇](Reithwin_Town.md "雷斯文小镇") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [不死生物](Undead.md "不死生物") |
 | 种族 | [不死生物](Undead.md "不死生物") |
+
+| | |
+| --- | --- |
 
 **马鲁斯**是[治疗中心](House_of_Healing.md "治疗中心")的亡灵主刀外科医生，[莎尔](Shar.md "莎尔")的扭曲追随者，也是索姆家族的成员。<sup>[\[2\]](#cite_note-2)</sup>
 

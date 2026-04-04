@@ -30,13 +30,13 @@ UID `MAG_TWN_Brewery_Greatclub` UUID `82029987-a77c-4bb5-99b9-3b513cb551f1` Stat
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "Concussive_Smash") ()
+[震荡猛击](Concussive_Smash.md "Concussive_Smash")
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。（充能：[短休](Short_rest.md "Short_rest")。）
 
-[摔翻打击](Backbreaker.md "Backbreaker") ()
+[摔翻打击](Backbreaker.md "Backbreaker")
 在你的打击中施加额外力量，以可能将敌人击至[倒伏](Prone_(Condition).md "Prone (Condition)")。（充能：[短休](Short_rest.md "Short_rest")。）
 
-[劈砍](Cleave.md "Cleave") ()
+[劈砍](Cleave.md "Cleave")
 以大弧度挥动你的武器，一次攻击最多 3 个敌人。他们每人受到你的武器通常造成伤害的一半。（充能：[短休](Short_rest.md "Short_rest")。）
 
 ## 获取地点

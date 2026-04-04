@@ -25,7 +25,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨剑](Greatsword.md "巨剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨剑](Greatsword.md "巨剑")
 
 伤害: 4~14
 
@@ -49,7 +49,7 @@
 
 范围: 正常武器范围
 
-[暗影步](Shadow_Step.md "暗影步") ()
+[暗影步](Shadow_Step.md "暗影步")
 从 [轻度遮蔽](Lightly_Obscured.md "轻度遮蔽") 传送到阴影。之后，你的下一次近战 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
 
 范围: 18 米 (60 英尺)

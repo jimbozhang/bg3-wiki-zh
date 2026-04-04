@@ -38,13 +38,13 @@ UID `WPN_HUM_Longsword_Adamantine_A` UUID `d116f35c-4399-408c-ba90-b455a5d29a1f`
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") ()
+[剑柄打击](Pommel_Strike.md "剑柄打击")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

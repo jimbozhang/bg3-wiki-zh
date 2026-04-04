@@ -6,7 +6,7 @@
 
 ## 赋予
 
-[啃咬](Bite_(Mother's_Loathing).md "啃咬 (母亲的憎恶)") ()
+[啃咬](Bite_(Mother's_Loathing).md "啃咬 (母亲的憎恶)")
 啃咬一个目标。（充能：每回合一次。）
 
 ## 母亲的憎恶的来源

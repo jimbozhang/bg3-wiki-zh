@@ -209,7 +209,7 @@
 
 - [初级幻影](Minor_Illusion.md "初级幻影")
 
-[拨挡飞弹](Deflect_Missiles.md "拨挡飞弹") ()
+[拨挡飞弹](Deflect_Missiles.md "拨挡飞弹")
 将来自远程武器攻击的伤害减少1d10 + 你的敏捷[调整值](Modifier.md "调整值") + 你的武僧等级。如果伤害减少到0，你可以使用一个[气点](Ki_Point.md "气点")来[拨挡飞弹](Deflect_Missiles_colon__Redirect.md "拨挡飞弹：重定向")。
 
 使用你的[反应](Actions.md#Reactions "动作")将来自远程武器攻击的伤害减少1d10 + 你的[敏捷](Dexterity.md "敏捷")调整值 + 你的武僧等级。如果伤害减少到0，你可以使用一个气点将飞弹返回给发送者。

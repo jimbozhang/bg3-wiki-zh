@@ -3,16 +3,52 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Steve Chusak](https://www.imdb.com/name/nm7067240/) |
+| 声音 / 演员 | [Steve Chusak](https://www.imdb.com/name/nm7067240/) |
+| 家乡 | [下城区下水道](Lower_City_Sewers.md "下城区下水道"), [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半精灵](Half-Elf.md "半精灵") |
-| 等级 | 10 |
-| 生命值 | 119 |
-| 护甲等级 | 15 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 320 |
+| 亚种 | [半卓尔](Drow_Half-Elf.md "半卓尔") |
+| 职业 | [术士](Sorcerer.md "术士") |
+| 副职 | [龙族血脉](Draconic_Bloodline.md "龙族血脉") (红色) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 119 | 83 | 154 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 15 / (+2) | 14 / (+2) | 16 / (+3) | 12 / (+1) | 18 / (+4) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [龙族血统：红色（火焰）](Draconic_Ancestry_colon__Red_(Fire).md "龙族血统：红色（火焰）")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
+- [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "元素亲和：伤害")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [火焰护罩](Flaming_Shroud.md "火焰护罩")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [龙族血统：红色（火焰）](Draconic_Ancestry_colon__Red_(Fire).md "龙族血统：红色（火焰）")
+- [龙族韧性](Draconic_Resilience.md "龙族韧性")
+- [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "元素亲和：伤害")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [火焰护罩](Flaming_Shroud.md "火焰护罩")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -118,7 +154,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[火焰箭](Fire_Bolt.md "火焰箭") ()
+[火焰箭](Fire_Bolt.md "火焰箭")
 
 伤害：1~10
 
@@ -128,7 +164,7 @@
 
 射程：18 米 (60 英尺)
 
-[飞行术](Fly_(class_action).md "飞行术 (职业动作)") ()
+[飞行术](Fly_(class_action).md "飞行术 (职业动作)")
 飞向目标位置
 
 射程：18 米 (60 英尺)
@@ -138,7 +174,7 @@
 
 射程：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长棍 +2](Quarterstaff_+2.md "长棍 +2")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长棍 +2](Quarterstaff_+2.md "长棍 +2")
 
 伤害：3~8
 
@@ -162,7 +198,7 @@
 
 射程：18 米 (60 英尺)
 
-[摔绊](Topple.md "摔绊") () – [长棍 +2](Quarterstaff_+2.md "长棍 +2")
+[摔绊](Topple.md "摔绊") – [长棍 +2](Quarterstaff_+2.md "长棍 +2")
 
 伤害：1~4
 

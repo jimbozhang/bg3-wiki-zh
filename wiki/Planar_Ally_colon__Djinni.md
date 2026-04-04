@@ -26,12 +26,12 @@
 | 生命值 | 161 |  |  |  |  |
 | 护甲等级 | 19 |  |  |  |  |
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") ()
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack")
 使用装备的武器进行一次近战攻击。
 
 用令人陶醉的风强迫敌人走向你，使他们陷入 [醉酒](Drunk_(Condition).md "Drunk (Condition)") 状态。
 
-[迷踪步](Misty_Step.md "Misty Step") ()
+[迷踪步](Misty_Step.md "Misty Step")
 被银色薄雾包围，传送到一个你能看到的未被占据的空间。
 
 凝聚空气形成一股芬芳但猛烈的旋风， [束缚](Restrained_(Condition).md "Restrained (Condition)") 范围内的目标。

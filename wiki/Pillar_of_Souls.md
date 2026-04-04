@@ -4,12 +4,6 @@
 
 - 平衡
 
-## 平衡难度属性
-
-### 生命值
-
-99
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - - - - ## 状态

@@ -2,17 +2,28 @@
 
 | | |
 | --- | --- |
+| 全名 | 马库斯·法尔戈 |
 | 身份 | 男性 |
-| 配音 | - [斯科特·约瑟夫](https://www.imdb.com/name/nm1517710/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [斯科特·约瑟夫](https://www.imdb.com/name/nm1517710/) |
+| 体型 | [中型](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [异怪](Aberration.md "Aberration"), [人类](Human.md "Human")（前） |
-| 等级 | 6 |
-| 生命值 | 86 |
-| 护甲等级 | 17 |
-| 先攻 | +6 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 150 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+| 生命值 | 86 | 60 | 111 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +6 | +6 | +6 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 150 | 150 | 150 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 23 / (+6) | 16 / (+3) | 16 / (+3) | 10 / (0) | 10 / (0) | 10 / (0) |
 
 **焰拳马库斯** 是 [焰拳](Flaming_Fist.md "Flaming Fist") 的前成员，后来在 [第二幕](Act_Two.md "Act Two") 期间转变为 [至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute") 的精英密探。
 
@@ -73,7 +84,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [巨棒 +1](Greatclub_+1.md "Greatclub +1")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [巨棒 +1](Greatclub_+1.md "Greatclub +1")
 
 伤害：8~15
 
@@ -85,14 +96,14 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[飞行](Fly_(class_action).md "Fly (class action)") ()
+[飞行](Fly_(class_action).md "Fly (class action)")
 飞至目标位置
 
 范围：18 米 (60 英尺)
 
 <sup>[\[2\]](#cite_note-2)</sup>
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨棒 +1](Greatclub_+1.md "Greatclub +1")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨棒 +1](Greatclub_+1.md "Greatclub +1")
 
 伤害：8~15
 
@@ -102,7 +113,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[韧性](Tenacity.md "Tenacity") () – [巨棒 +1](Greatclub_+1.md "Greatclub +1")
+[韧性](Tenacity.md "Tenacity") – [巨棒 +1](Greatclub_+1.md "Greatclub +1")
 
 伤害：6
 
@@ -110,7 +121,7 @@
 
 当你未命中攻击时，仍会造成等于你的 [力量](Strength.md "Strength") [调整值](Ability_Scores.md#Ability_score_modifiers "Ability scores") 的 ⁠[钝击](Bludgeoning.md "Bludgeoning") 伤害（最小值为 1）。
 
-[吸血鬼尖啸](Vampiric_Shout.md "Vampiric Shout") ()
+[吸血鬼尖啸](Vampiric_Shout.md "Vampiric Shout")
 
 伤害：2~16
 

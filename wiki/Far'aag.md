@@ -3,15 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Lara Sawalha](https://www.imdb.com/name/nm2700338/) |
+| 声音 / 演员 | [Lara Sawalha](https://www.imdb.com/name/nm2700338/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
-| 等级 | 5 |
-| 生命值 | 53 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 经验值 | 75 |
+| 职业 | [战士](Fighter.md "Fighter") |
+| 副职 | [奥法骑士](Eldritch_Knight.md "Eldritch Knight") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 5 | 5 |
+| 生命值 | 53 | 68 |
+| 护甲等级 | 16 | 16 |
+| 先攻 | +1 | +1 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 12 / (+1) | 16 / (+3) | 16 / (+3) | 15 / (+2) | 16 / (+3) |
 
 **熟手法'拉格**是[吉斯洋基熟手](Githyanki_gish.md "Githyanki gish")，负责守卫[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的入口。任何寻求进入养育间的人都必须先说服她放行。
 
@@ -96,7 +109,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[割裂](Lacerate.md "Lacerate") () – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[割裂](Lacerate.md "Lacerate") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
 
 伤害：3~10
 
@@ -110,7 +123,7 @@
 射程：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
 
 伤害：3~10
 
@@ -120,13 +133,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[迷踪步](Misty_Step.md "Misty Step") ()
+[迷踪步](Misty_Step.md "Misty Step")
 被银色薄雾包围，你传送到一个你能看到的未被占据的空间。
 
 射程：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "Long rest")
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
 
 伤害：1~4
 
@@ -138,7 +151,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[冷冻射线](Ray_of_Frost.md "Ray of Frost") ()
+[冷冻射线](Ray_of_Frost.md "Ray of Frost")
 
 伤害：1~8
 
@@ -148,7 +161,7 @@
 
 射程：18 米 (60 英尺)
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[突进攻击](Rush_Attack.md "Rush Attack") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
 
 伤害：3~6
 
@@ -160,7 +173,7 @@
 射程：9 米 (30 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[电爪](Shocking_Grasp.md "Shocking Grasp") ()
+[电爪](Shocking_Grasp.md "Shocking Grasp")
 
 伤害：1~8
 

@@ -3,15 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Jay Taylor](https://www.imdb.com/name/nm2497266) |
+| 声音 / 演员 | [Jay Taylor](https://www.imdb.com/name/nm2497266) |
+| 角色 | [商人](Trader.md "Trader") |
+| 家乡 | [博德之门](Baldur's_Gate.md "Baldur's Gate") |
+| 职业 | 牧师，神殿守护者 |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [侏儒](Gnome.md "Gnome") |
-| 等级 | 7 |
-| 生命值 | 18 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 经验值 | 250 |
+| 亚种 | [岩侏儒](Rock_Gnome.md "Rock gnome") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 7 | 7 |
+| 生命值 | 18 | 26 |
+| 护甲等级 | 11 | 11 |
+| 先攻 | +1 | +1 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 15 / (+2) | 12 / (+1) | 16 / (+3) | 13 / (+1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
 
 **维卡·谦趾**是[风暴海岸礼拜堂](Stormshore_Tabernacle.md "Stormshore Tabernacle")的守护者，也是玩家可以与之交易的商人。
 

@@ -14,7 +14,7 @@
 
 佩戴此物品者获得：
 
-[自我献祭](Self_Immolation.md "自我献祭") ()
+[自我献祭](Self_Immolation.md "自我献祭")
 点燃自己以获得[灼热](Heat_(Condition).md "灼热 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

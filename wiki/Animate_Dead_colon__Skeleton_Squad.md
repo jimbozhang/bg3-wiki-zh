@@ -29,7 +29,7 @@
 | 生命值 | 19 |  |  |  |  |
 | 护甲等级 | 11 |  |  |  |  |
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [临时弓](Makeshift_Bow.md "临时弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [临时弓](Makeshift_Bow.md "临时弓")
 
 伤害：5~19
 

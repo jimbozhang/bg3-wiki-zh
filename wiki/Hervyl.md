@@ -40,7 +40,7 @@
 
 ### 攻击与能力
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：3~12
 

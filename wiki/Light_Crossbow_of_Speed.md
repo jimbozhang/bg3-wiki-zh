@@ -24,14 +24,14 @@ UID `MAG_BG_OfSpeed_LightCrossbow` UUID `664ff469-770a-4597-9be2-506465e5486f` #
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") ()
+[穿刺射击](Piercing_Shot.md "Piercing Shot")
 造成常规伤害，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")，使攻击造成额外伤害。（充能：[短休](Short_rest.md "Short rest")。）
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[瞬息飞矢](Blink-of-an-eye_Bolt.md "Blink-of-an-eye Bolt") ()
+[瞬息飞矢](Blink-of-an-eye_Bolt.md "Blink-of-an-eye Bolt")
 用你装备的武器进行一次远程攻击。
 
 ## 注释

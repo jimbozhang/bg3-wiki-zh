@@ -115,7 +115,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [匕首](Dagger.md "Dagger")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [匕首](Dagger.md "Dagger")
 
 伤害：5~8
 
@@ -125,7 +125,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "Sneak Attack (Melee)") ()
+[偷袭（近战）](Sneak_Attack_(Melee).md "Sneak Attack (Melee)")
 
 伤害：1~6
 

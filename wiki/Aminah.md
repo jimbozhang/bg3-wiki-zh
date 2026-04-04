@@ -128,7 +128,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [硬头锤 +1](Mace_+1.md "Mace +1")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [硬头锤 +1](Mace_+1.md "Mace +1")
 
 伤害：6~11
 
@@ -138,7 +138,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害：1~6
 

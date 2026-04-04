@@ -3,16 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Stefan Chanyaem](https://www.imdb.com/name/nm9175408/) |
+| 声音 / 演员 | [Stefan Chanyaem](https://www.imdb.com/name/nm9175408/) |
+| 职业 | [圣武士](Paladin.md "Paladin") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 70 |
-| 护甲等级 | 18 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 140 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 70 | 49 | 91 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 140 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
+
+**特性**
+
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 状态
 
@@ -101,7 +126,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长戟](Halberd.md "Halberd")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长戟](Halberd.md "Halberd")
 
 伤害: 5~14
 
@@ -111,7 +136,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [短弓](Shortbow.md "Shortbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [短弓](Shortbow.md "Shortbow")
 
 伤害: 1~6
 

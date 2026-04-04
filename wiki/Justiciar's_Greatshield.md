@@ -20,10 +20,10 @@
 
 - 在[察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "Advantage")。
 
-[黑暗斗篷](Darkness_Cloak.md "Darkness Cloak") ()
+[黑暗斗篷](Darkness_Cloak.md "Darkness Cloak")
 创造一团魔法黑暗并立即尝试[躲藏](Hiding_(Condition).md "Hiding (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[盾牌猛击](Shield_Blow.md "Shield Blow") ()
+[盾牌猛击](Shield_Blow.md "Shield Blow")
 当敌人用近战攻击命中你时，你可以使用你的[反应](Reaction.md "Reaction")将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")，除非他们通过[力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving throw")。
 
 ## 获取地点

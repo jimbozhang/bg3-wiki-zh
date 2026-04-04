@@ -26,13 +26,13 @@
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能使其[失衡](Off_Balance_(Condition).md "失衡 (状态)")。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血 (状态)")。（充能：[短休](Short_rest.md "短休")。）
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥舞武器进行大范围弧线攻击，最多同时攻击 3 个敌人。每个敌人受到武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
 ## 长戟列表

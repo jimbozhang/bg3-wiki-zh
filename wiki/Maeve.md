@@ -45,7 +45,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短矛](Spear.md "短矛")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短矛](Spear.md "短矛")
 
 伤害：6~11
 
@@ -55,7 +55,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [短矛](Spear.md "短矛")
+[突进攻击](Rush_Attack.md "突进攻击") – [短矛](Spear.md "短矛")
 
 伤害：6~9
 
@@ -67,7 +67,7 @@
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[命令之声](Voice_of_Command.md "命令之声") ()
+[命令之声](Voice_of_Command.md "命令之声")
 以黑暗之主的名义命令一名盟友，让其引导[班恩之怒](Bane's_Wrath.md "班恩之怒")。
 
 范围：9 米 (30 英尺)

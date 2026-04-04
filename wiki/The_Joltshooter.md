@@ -31,10 +31,10 @@ UID `MAG_ChargedLightning_Longbow` UUID `38b80bf8-9cf8-4495-8267-eb84c7779d0c` S
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 射击敌人的大腿，可能使其[移动速度](Movement_speed.md "移动速度")降低50%。（充能：[短休](Short_rest.md "短休")。）
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") ()
+[备战（远程）](Brace_(Ranged).md "备战（远程）")
 消耗6米（20英尺）的[移动](Movement_speed.md "移动速度")。在本回合剩余时间内，掷两次远程伤害并取较高值。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

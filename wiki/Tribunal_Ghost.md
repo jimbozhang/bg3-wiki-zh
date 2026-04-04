@@ -2,15 +2,37 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Andrew Futaishi](https://www.imdb.com/name/nm4551148/) |
+| 声音 / 演员 | [Andrew Futaishi](https://www.imdb.com/name/nm4551148/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [不死生物](Undead.md "Undead") |
 | 种族 | [幽魂](Ghost.md "Ghost") |
+
+| | |
+| --- | --- |
 | 等级 | 3 |
 | 生命值 | 18 |
 | 护甲等级 | 10 |
 | 先攻 | +2 |
+| 熟练项 | +2 |
 | 移动速度 | 9 m (30 ft) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 15 / (+2) | 12 / (+1) | 10 / (0) | 11 / (0) | 14 / (+2) |
+
+**特性**
+
+- [虚无形态](Ethereal.md "Ethereal")
+- [虚体移动](Incorporeal_Movement.md "Incorporeal_Movement")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [永久武装](Permanently_Armed.md "Permanently_Armed")
+
+**特性**
+
+- [虚无形态](Ethereal.md "Ethereal")
+- [虚体移动](Incorporeal_Movement.md "Incorporeal_Movement")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [永久武装](Permanently_Armed.md "Permanently_Armed")
 
 **裁判所幽魂**是_博德之门3_中的[不死生物](Undead.md "Undead")幽灵生物。可以在[谋杀裁判所](Murder_Tribunal.md "Murder_Tribunal")的屠宰场中找到它们。
 
@@ -49,12 +71,12 @@
 
 ### 攻击与能力
 
-[飞行](Fly_(class_action).md "Fly (class action)") ()
+[飞行](Fly_(class_action).md "Fly (class action)")
 飞到目标位置
 
 范围：18 m (60 ft)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [匕首](Dagger.md "Dagger")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 
@@ -64,7 +86,7 @@
 
 近战：1.5 m (5 ft)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 
@@ -78,7 +100,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[投掷](Throw.md "Throw") () – [匕首](Dagger.md "Dagger")
+[投掷](Throw.md "Throw") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 

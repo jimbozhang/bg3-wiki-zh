@@ -17,7 +17,7 @@
 
 ### 攻击与能力
 
-[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击 (恐鸦)") ()
+[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击 (恐鸦)")
 
 伤害：4~10
 
@@ -27,7 +27,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠 (恐鸦)") ()
+[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠 (恐鸦)")
 
 伤害：3~8
 
@@ -37,7 +37,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞向目标位置
 
 范围：18 米 (60 英尺)

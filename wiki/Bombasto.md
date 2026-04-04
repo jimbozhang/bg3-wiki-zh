@@ -3,15 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Stefan Chanyaem](https://www.imdb.com/name/nm9175408/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [Stefan Chanyaem](https://www.imdb.com/name/nm9175408/) |
+| 体型 | [中型](Medium.md "中型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 5 |
-| 生命值 | 58 |
-| 护甲等级 | 13 |
-| 先攻 | 0 |
-| 经验值 | 250 |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
+| 副职 | [狂战士](Berserker.md "狂战士") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 58 | 40 | 75 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 11 / (0) | 16 / (+3) | 10 / (0) | 10 / (0) | 14 / (+2) |
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
 **伯姆巴托**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的人类角色。
 
@@ -31,7 +60,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [巨斧](Greataxe.md "巨斧")
+[劈砍](Cleave.md "劈砍") – [巨斧](Greataxe.md "巨斧")
 
 伤害：
 
@@ -41,7 +70,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[愤怒投掷](Enraged_Throw.md "愤怒投掷") () – [标枪](Javelin.md "标枪")
+[愤怒投掷](Enraged_Throw.md "愤怒投掷") – [标枪](Javelin.md "标枪")
 
 伤害：4~9
 
@@ -59,7 +88,7 @@
 
 范围：18 米 (60 英尺)
 
-[狂怒攻击](Frenzied_Strike.md "狂怒攻击") () – [巨斧](Greataxe.md "巨斧")
+[狂怒攻击](Frenzied_Strike.md "狂怒攻击") – [巨斧](Greataxe.md "巨斧")
 
 伤害：4~15
 
@@ -80,7 +109,7 @@
 
 范围：自身
 
-[割裂](Lacerate.md "割裂") () – [巨斧](Greataxe.md "巨斧")
+[割裂](Lacerate.md "割裂") – [巨斧](Greataxe.md "巨斧")
 
 伤害：4~15
 
@@ -94,7 +123,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨斧](Greataxe.md "巨斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨斧](Greataxe.md "巨斧")
 
 伤害：4~15
 
@@ -104,13 +133,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[准备](Prepare.md "准备") () – [巨斧](Greataxe.md "巨斧")
+[准备](Prepare.md "准备") – [巨斧](Greataxe.md "巨斧")
 花费 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击造成额外的力量调整值⁠⁠[物理](Physical.md "物理")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害（最少 1 点）。
 
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") ()
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击")
 
 伤害：
 

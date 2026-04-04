@@ -16,7 +16,7 @@
 
 穿戴此物品获得：
 
-[阴影传送](Shadow_Teleportation.md "Shadow_Teleportation") ()
+[阴影传送](Shadow_Teleportation.md "Shadow_Teleportation")
 传送至一个无人占据的隐蔽地点。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 备注

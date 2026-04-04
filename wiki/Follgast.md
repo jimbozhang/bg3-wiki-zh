@@ -31,7 +31,7 @@
 
 ### 攻击与能力
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [长弓](Longbow.md "长弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [长弓](Longbow.md "长弓")
 
 伤害：4~11
 

@@ -41,7 +41,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 
 伤害：
 
@@ -53,7 +53,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [长弓](Longbow.md "长弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [长弓](Longbow.md "长弓")
 
 伤害：5~12
 

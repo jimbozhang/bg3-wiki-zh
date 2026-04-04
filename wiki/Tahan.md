@@ -3,16 +3,42 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [珍妮·德莱尼](https://www.imdb.com/name/nm9860537/) |
+| 声音 / 演员 | [珍妮·德莱尼](https://www.imdb.com/name/nm9860537/) |
+| 家乡 | [翠绿林地](Emerald_Grove.md "Emerald Grove") |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [侏儒](Gnome.md "Gnome") |
-| 等级 | 3 |
-| 生命值 | 18 |
-| 护甲等级 | 12 |
-| 先攻 | +1 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 20 |
+| 亚种 | [岩侏儒](Rock_Gnome.md "Rock gnome") |
+| 职业 | [德鲁伊](Druid.md "Druid") |
+| 副职 | [大地结社](Circle_of_the_Land.md "Circle of the Land") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 18 | 12 | 23 |
+| 护甲等级 | 12 | 12 | 12 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 12 / (+1) | 14 / (+2) | 16 / (+3) | 12 / (+1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **塔汉**是[第一幕](Act_One.md "Act One")期间执行[荆棘仪式](Rite_of_Thorns_(ritual)的德鲁伊之一.md)。
 
@@ -61,7 +87,7 @@
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长棍](Quarterstaff.md "Quarterstaff")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长棍](Quarterstaff.md "Quarterstaff")
 
 伤害：1~6
 
@@ -79,7 +105,7 @@
 
 范围：自身
 
-[燃火术](Produce_Flame.md "Produce Flame") ()
+[燃火术](Produce_Flame.md "Produce Flame")
 
 伤害：1~8
 

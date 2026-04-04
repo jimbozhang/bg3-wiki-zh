@@ -16,10 +16,10 @@
 
 穿戴此物品获得：
 
-[诱捕绳索](Ensnaring_Strands.md "Ensnaring Strands") ()
+[诱捕绳索](Ensnaring_Strands.md "Ensnaring Strands")
 施放为1级法术（充能：[短休](Short_rest.md "Short rest")。）
 
-[拉扯之网](Pulling_Web.md "Pulling Web") ()
+[拉扯之网](Pulling_Web.md "Pulling Web")
 施放为戏法（充能：[长休](Long_Rest.md "Long rest")。）
 
 [蛛网术](Web.md "Web") (+ )

@@ -14,7 +14,7 @@
 
 穿戴此物品获得：
 
-[地狱爬行者](Hellcrawler.md "Hellcrawler") ()
+[地狱爬行者](Hellcrawler.md "Hellcrawler")
 传送至一个区域，并在落地时造成 2d8[火焰](Fire.md "Fire")伤害。冲击波在 3 米 / 10 英尺范围内扩散。（充能：[短休](Short_rest.md "Short rest")。）
 
 [坚韧不拔](Steadfast.md "Steadfast")

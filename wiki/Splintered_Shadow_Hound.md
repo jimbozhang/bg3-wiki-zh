@@ -14,7 +14,7 @@
 
 ## 战斗
 
-[幽影缠绕](Umbral_Tangle.md "幽影缠绕") ()
+[幽影缠绕](Umbral_Tangle.md "幽影缠绕")
 
 伤害：2~12
 
@@ -27,7 +27,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
-[碎裂幽影](Splinter_Shadow.md "碎裂幽影") ()
+[碎裂幽影](Splinter_Shadow.md "碎裂幽影")
 当你受到不造成[光耀伤害](Radiant_damage.md "光耀伤害")的近战攻击时，从自身分裂出一块碎片，从暗影中召唤一个新的版本。
 
 ---

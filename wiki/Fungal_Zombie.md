@@ -29,7 +29,7 @@
 
 ### 攻击和能力
 
-[猛击](Slam_(Animate_Dead_Zombie).md "猛击 (操纵死尸僵尸)") ()
+[猛击](Slam_(Animate_Dead_Zombie).md "猛击 (操纵死尸僵尸)")
 
 伤害：5~15
 

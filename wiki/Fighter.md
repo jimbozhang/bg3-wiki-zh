@@ -115,7 +115,7 @@
 
 ### 等级 1
 
-[回气](Second_Wind.md "回气") ()
+[回气](Second_Wind.md "回气")
 消耗您的耐力来保护自己。您恢复 1d10 + 战士等级 [治疗](Healing.md "治疗")。（充能：[短休](Short_rest.md "短休")。）
 
 [战斗风格](Fighting_style.md "战斗风格")

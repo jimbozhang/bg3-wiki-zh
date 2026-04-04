@@ -35,13 +35,13 @@
 
 ### 攻击与能力
 
-[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃") ()
+[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃")
 向上、向下和横向跳跃。你的[力量](Strength.md "力量")影响你能跳多远。
 
 范围：11 米 (37 英尺)
 充能：每回合
 
-[啃咬](Bite_(Tiny_Spider).md "啃咬 (微型蜘蛛)") ()
+[啃咬](Bite_(Tiny_Spider).md "啃咬 (微型蜘蛛)")
 
 伤害：5~11
 
@@ -56,7 +56,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[幼蛛爆炸](Spiderling_Burst.md "幼蛛爆炸") ()
+[幼蛛爆炸](Spiderling_Burst.md "幼蛛爆炸")
 
 伤害：3~18
 

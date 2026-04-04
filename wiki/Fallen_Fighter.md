@@ -5,11 +5,35 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [不死生物](Undead.md "不死生物") |
 | 种族 | [骷髅](Skeleton.md "骷髅") |
+
+| | |
+| --- | --- |
 | 等级 | 5 |
 | 生命值 | 36 |
 | 护甲等级 | 9 |
 | 先攻 | -1 |
+| 熟练项 | +3 |
 | 移动速度 | 9 m (30 ft) |
+| 重量 | 20 kg (40 lb) |
+| 暗视 | 12 m (40 ft) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 8 / (-1) | 16 / (+3) | 6 / (-2) | 8 / (-1) | 5 / (-3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [沉默](Silent.md "沉默")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [沉默](Silent.md "沉默")
 
 **堕落战士**是一种[不死生物](Undead.md "不死生物")[骷髅](Skeleton.md "骷髅")生物，仅在[第三幕](Act_Three.md "第三幕")中出现。
 
@@ -31,7 +55,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [巨棒](Greatclub.md "巨棒")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [巨棒](Greatclub.md "巨棒")
 
 伤害：5~12
 
@@ -43,7 +67,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨棒](Greatclub.md "巨棒")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨棒](Greatclub.md "巨棒")
 
 伤害：5~12
 

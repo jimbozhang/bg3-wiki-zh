@@ -308,7 +308,7 @@
 
 - [气化形体](Gaseous_Form.md "气化形体") ### 等级 10
 
-[环境融合](Hide_in_Plain_Sight.md "环境融合") ()
+[环境融合](Hide_in_Plain_Sight.md "环境融合")
 用环境伪装自己，变得[隐形](Invisible.md "隐形")，并在[隐匿](Stealth.md "隐匿")检定上获得 +10 加值，只要你保持静止。
 
 替换法术（可选）

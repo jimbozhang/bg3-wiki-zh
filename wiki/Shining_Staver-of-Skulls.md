@@ -35,7 +35,7 @@ UID `MAG_Radiant_Radiating_Hammer` UUID `b76baf78-5aaf-4c15-9468-6333a0eb4b92` S
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

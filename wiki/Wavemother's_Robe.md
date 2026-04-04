@@ -20,7 +20,7 @@
 
 - [护甲等级](Armour_Class.md "护甲等级") +1。
 
-[造水/枯水术](Create_or_Destroy_Water.md "造水/枯水术") ()
+[造水/枯水术](Create_or_Destroy_Water.md "造水/枯水术")
 作为 4 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 [温度调节](Temperature_Adjustment.md "温度调节")

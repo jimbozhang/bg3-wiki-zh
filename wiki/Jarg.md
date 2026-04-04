@@ -3,16 +3,35 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Jay Taylor](https://www.imdb.com/name/nm2497266) |
+| 声音 / 演员 | [Jay Taylor](https://www.imdb.com/name/nm2497266) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 4 |
-| 生命值 | 28 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 40 |
+| 职业 | [游侠](Ranger.md "游侠"), [游荡者](Rogue.md "游荡者") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 28 | 19 | 36 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 40 | 40 | 40 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 12 / (+1) | 14 / (+2) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **扎格**是[第一幕](Act_One.md "第一幕")中[散塔林会地下室](Zhentarim_Basement.md "散塔林会地下室")的一名人类。
 
@@ -44,7 +63,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：4~7
 
@@ -54,7 +73,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[移动射击](Mobile_Shot.md "移动射击") () – [手弩](Hand_Crossbow.md "手弩")
+[移动射击](Mobile_Shot.md "移动射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -65,7 +84,7 @@
 射程：15 米 (50 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[副手攻击（远程）](Off-Hand_Attack_(Ranged).md "副手攻击（远程）") () – [手弩](Hand_Crossbow.md "手弩")
+[副手攻击（远程）](Off-Hand_Attack_(Ranged).md "副手攻击（远程）") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -75,7 +94,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [手弩](Hand_Crossbow.md "手弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -89,7 +108,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "短休")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：4~7
 
@@ -103,7 +122,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [手弩](Hand_Crossbow.md "手弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -113,7 +132,7 @@
 
 射程：18 米 (60 英尺)
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") () – [匕首](Dagger.md "匕首")
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") – [匕首](Dagger.md "匕首")
 
 伤害：5~13
 
@@ -128,7 +147,7 @@
 射程：常规武器射程
 充能：每回合
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") () – [手弩](Hand_Crossbow.md "手弩")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：5~15
 

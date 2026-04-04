@@ -22,7 +22,7 @@
 
 ### 攻击与能力
 
-[急冲](Rush_(Hellsboar).md "急冲 (地狱野猪)") ()
+[急冲](Rush_(Hellsboar).md "急冲 (地狱野猪)")
 
 伤害: 1~6
 
@@ -32,7 +32,7 @@
 
 范围: 9 m (30 ft)
 
-[牙撕攻击](Tusk_Attack_(Gilded_Hellsboar).md "牙撕攻击 (镶金地狱野猪)") ()
+[牙撕攻击](Tusk_Attack_(Gilded_Hellsboar).md "牙撕攻击 (镶金地狱野猪)")
 
 伤害: 6~33
 

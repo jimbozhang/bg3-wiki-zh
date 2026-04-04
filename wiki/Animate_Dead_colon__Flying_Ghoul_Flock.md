@@ -32,10 +32,10 @@
 | 护甲等级 | 15 |  |  |  |  |
 | 移动速度 | 12米（40英尺） |  |  |  |  |
 
-[爪击](Claws_(Flying_Ghoul).md "爪击（飞行食尸鬼）") ()
+[爪击](Claws_(Flying_Ghoul).md "爪击（飞行食尸鬼）")
 受影响的生物可以用致命的爪子猛击，并可能使目标[麻痹](Paralysed_(Condition).md "麻痹（状态）")。
 
-[吞噬](Devour_(Animate_Dead_Ghoul).md "吞噬（操纵死尸食尸鬼）") ()
+[吞噬](Devour_(Animate_Dead_Ghoul).md "吞噬（操纵死尸食尸鬼）")
 啃咬一个被击倒、倒伏或沉睡的目标，造成3d10 + 力量调整值[挥砍](Slashing.md "挥砍")伤害。治疗等同于该伤害值的生命值。
 
 飞至目标位置

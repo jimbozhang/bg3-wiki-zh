@@ -66,7 +66,7 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [轻锤](Light_Hammer.md "轻锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [轻锤](Light_Hammer.md "轻锤")
 
 伤害：5~8
 
@@ -91,7 +91,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [轻锤](Light_Hammer.md "轻锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [轻锤](Light_Hammer.md "轻锤")
 
 伤害：5~8
 
@@ -101,7 +101,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[回气](Second_Wind.md "回气") ()
+[回气](Second_Wind.md "回气")
 
 治疗：1~10 + 调整值
 

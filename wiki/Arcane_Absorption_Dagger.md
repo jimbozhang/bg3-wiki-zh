@@ -36,7 +36,7 @@ UID `MAG_ArcaneAbsorption_Dagger` UUID `cf89e4d8-485c-4cef-8098-959834cc8ac1` St
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing Strike")
 刺击一名敌人，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ---

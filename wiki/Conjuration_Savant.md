@@ -17,12 +17,12 @@ _此副职获得其基础职业[法师](Wizard.md "法师")的所有特性，以
 咒法学者
 从[卷轴](Scrolls.md "卷轴")学习[咒法法术](Conjuration_spells.md "咒法法术")的成本减半。学习这些法术每个法术等级仅需花费 **25 gp**。
 
-[次级咒法：造水术](Minor_Conjuration_colon__Create_Water.md "次级咒法：造水术") ()
+[次级咒法：造水术](Minor_Conjuration_colon__Create_Water.md "次级咒法：造水术")
 召唤降雨。它会熄灭暴露的火焰并形成一个[水](Water_(surface).md "水（地表）")地表。（充能：[短休](Short_rest.md "短休")。）
 
 ### 等级 6
 
-[王车易位：传送](Benign_Transposition_colon__Teleport.md "王车易位：传送") ()
+[王车易位：传送](Benign_Transposition_colon__Teleport.md "王车易位：传送")
 传送至附近一个未被占据的空间，或与一名盟友交换位置。（充能：[长休](Long_Rest.md "长休")。）
 
 ### 等级 10

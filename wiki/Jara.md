@@ -90,7 +90,7 @@ Recharge: Per combat
 
 此法术可以在你处于 [沉默](Silenced_(Condition).md "Silenced (Condition)") 状态时施放。
 
-[火焰箭](Fire_Bolt.md "Fire Bolt") ()
+[火焰箭](Fire_Bolt.md "Fire Bolt")
 
 Damage: 1~10
 
@@ -100,7 +100,7 @@ Damage: 1~10
 
 Range: 18 m (60 ft)
 
-[浮空术](Levitate_(Illithid_Power).md "Levitate (Illithid Power)") ()
+[浮空术](Levitate_(Illithid_Power).md "Levitate (Illithid Power)")
 轻松地飘浮到目的地。
 
 Range: 18 m (60 ft)
@@ -119,7 +119,7 @@ Damage: 6~24
 
 Range: 18 m (60 ft)
 
-[心灵震爆](Mind_Blast.md "Mind Blast") ()
+[心灵震爆](Mind_Blast.md "Mind Blast")
 
 Damage: 4~32 + modifiers
 
@@ -142,7 +142,7 @@ Range: Self
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 Range: 18 m (60 ft)
 
-[触手鞭笞](Tentacle_Whip_(Mind_Flayer).md "Tentacle Whip (Mind Flayer)") ()
+[触手鞭笞](Tentacle_Whip_(Mind_Flayer).md "Tentacle Whip (Mind Flayer)")
 
 Damage: 6~24
 

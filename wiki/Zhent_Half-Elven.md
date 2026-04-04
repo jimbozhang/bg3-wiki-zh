@@ -3,15 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 声音 / 演员 | [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 职业 | [游荡者](Rogue.md "Rogue") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半精灵](Half-Elf.md "Half-Elf") |
+| 亚种 | [半高精灵](High_Half-Elf.md "High Half-Elf") |
+
+| | |
+| --- | --- |
 | 等级 | 9 |
 | 生命值 | 75 |
 | 护甲等级 | 10 |
 | 先攻 | +3 |
+| 熟练项 | +4 |
+| 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 9 米 (30 英尺) |
 | 经验值 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [反射闪避](Evasion.md "Evasion")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [直觉闪避](Uncanny_Dodge.md "Uncanny Dodge")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [反射闪避](Evasion.md "Evasion")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [直觉闪避](Uncanny_Dodge.md "Uncanny Dodge")
 
 **散塔林半精灵**是一名[散塔林会](Zhentarim.md "Zhentarim")佣兵，可在[第三幕](Act_Three.md "Act Three")的[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间被召唤。
 
@@ -31,12 +60,12 @@
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "Cunning Action: Dash") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "Cunning Action: Dash")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "Movement Speed")。
 
 范围：自身
 
-[移动射击](Mobile_Shot.md "Mobile Shot") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[移动射击](Mobile_Shot.md "Mobile Shot") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害：4~9
 
@@ -47,7 +76,7 @@
 范围：15 米 (50 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害：4~9
 
@@ -57,7 +86,7 @@
 
 范围：18 米 (60 英尺)
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害：4~9
 

@@ -17,7 +17,7 @@
 
 穿戴此物品获得：
 
-[圆环之声](Voice_of_the_Circle.md "圆环之声") ()
+[圆环之声](Voice_of_the_Circle.md "圆环之声")
 为一名盟友提供+2的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

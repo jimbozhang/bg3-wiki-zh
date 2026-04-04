@@ -8,10 +8,10 @@
 
 当你造成法术伤害时，获得 2 _\[[参见注释](#notes)\]_ [闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）")。当你与克雷斯卡的闪电共鸣时，你可以在每个[短休](Short_rest.md "短休")中各施放一次[链状闪电](Chain_Lightning.md "链状闪电")和[闪电束](Lightning_Bolt.md "闪电束")。
 
-[链状闪电](Chain_Lightning.md "链状闪电") ()
+[链状闪电](Chain_Lightning.md "链状闪电")
 以 6 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
-[闪电束](Lightning_Bolt.md "闪电束") ()
+[闪电束](Lightning_Bolt.md "闪电束")
 以 3 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 属性

@@ -14,7 +14,7 @@
 
 佩戴此物品获得：
 
-[化兽为友](Animal_Friendship.md "化兽为友") ()
+[化兽为友](Animal_Friendship.md "化兽为友")
 以1级法术施展（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

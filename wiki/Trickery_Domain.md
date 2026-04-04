@@ -16,7 +16,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 
 ### 等级 1
 
-[诡术祝福](Blessing_of_the_Trickster.md "诡术祝福") ()
+[诡术祝福](Blessing_of_the_Trickster.md "诡术祝福")
 使另一个生物在隐匿[检定](Checks.md "检定")上获得[优势](Advantage.md "优势")。
 
 法术领域
@@ -52,7 +52,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 - [任意门](Dimension_Door.md "任意门")
 - [变形术](Polymorph.md "变形术") ### 等级 8
 
-[神圣打击：毒素](Divine_Strike_colon__Poison.md "神圣打击：毒素") ()
+[神圣打击：毒素](Divine_Strike_colon__Poison.md "神圣打击：毒素")
 每回合一次，在你进行近战攻击时，除了武器伤害外，额外造成 1d8⁠⁠[中毒](Poison.md "中毒")伤害。（充能：每回合。）
 
 ### 等级 9

@@ -82,7 +82,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Vampire_Spawn).md "Bite (Vampire Spawn)") ()
+[啃咬](Bite_(Vampire_Spawn).md "Bite (Vampire Spawn)")
 
 伤害: 6~21
 
@@ -96,7 +96,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[爪击](Claws_(action).md "Claws (action)") ()
+[爪击](Claws_(action).md "Claws (action)")
 
 伤害: 5~11
 
@@ -106,7 +106,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[多重攻击](Multiattack_(Vampire_Spawn).md "Multiattack (Vampire_Spawn)") ()
+[多重攻击](Multiattack_(Vampire_Spawn).md "Multiattack (Vampire_Spawn)")
 
 伤害: 10~22
 

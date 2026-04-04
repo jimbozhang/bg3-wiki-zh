@@ -2,14 +2,14 @@
 
 自我治疗套装是一套专注于[治疗](Healing.md "治疗")和为穿戴者提供[临时生命值](Temporary_Hit_Points.md "临时生命值")的装备。部分物品在被治疗时还会提供额外增益。此套装与[治疗套装](Healing_set.md "治疗套装")有互动，但此处不重复列出。
 
-[至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助") ()
+[至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助")
 以2环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [至上真神的怜悯](The_Absolute's_Mercy.md "至上真神的怜悯")
 如果穿戴者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，他们在[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")上具有[优势](Advantage.md "优势")。
 | 名称 | 插槽 | 效果 |
 | --- | --- | --- |
-| 至上真神的护符 | [护符](Amulet.md "护符") | [至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助") () 以2环法术施放（充能：[长休](Long_Rest.md "长休")。）[至上真神的怜悯](The_Absolute's_Mercy.md "至上真神的怜悯")如果穿戴者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，他们在[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")上具有[优势](Advantage.md "优势")。 |
+| 至上真神的护符 | [护符](Amulet.md "护符") | [至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助") 以2环法术施放（充能：[长休](Long_Rest.md "长休")。）[至上真神的怜悯](The_Absolute's_Mercy.md "至上真神的怜悯")如果穿戴者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，他们在[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")上具有[优势](Advantage.md "优势")。 |
 | 至死不渝 | [戒指](Ring.md "戒指") | [至死不渝](After_Death_Do_Us_Part_(passive_feature).md "至死不渝（被动特性）")当穿戴者[倒地](Downed_(Condition).md "倒地（状态）")时，他们将恢复一半[生命值](Hit_Points.md "生命值")并再次站起，但会陷入[暗影附身](Shadow_Possession_(Condition).md "暗影附身（状态）")。 |
 | 酒鬼护符 | [护符](Amulet.md "护符") | [酒精治疗](Booze_Remedy.md "酒精治疗")佩戴此护符时，若处于[醉酒](Alcohol_(Condition).md "醉酒（状态）")状态，每回合恢复2d4⁠⁠[治疗](Healing.md "治疗")。此外，醉酒状态持续时间增加5回合。 |
 | 山崩护甲 | [护甲](Armour.md "护甲")（[轻甲](Armour#List_of_light_armour.md#List_of_light_armour "护甲")） | [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势") [植物滋长](Plant_Growth.md "植物滋长")（+）以3环法术施放（充能：[短休](Short_rest.md "短休")。）[高阶施法](High_Spellcasting_(+1).md "高阶施法（+1）")你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")获得+1加值。[绿床再生](Green_Bed_Regeneration.md "绿床再生")当你的回合开始时，若处于[植物滋长](Plant_Growth_(Condition).md "植物滋长（状态）")或[藤蔓](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓（状态）")上，恢复1d4⁠⁠[治疗](Healing.md "治疗")。 |

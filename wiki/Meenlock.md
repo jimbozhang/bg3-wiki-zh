@@ -44,7 +44,7 @@
 
 ### 攻击和能力
 
-[爪击](Claws_(Meenlock).md "爪击 (凌弱怪)") ()
+[爪击](Claws_(Meenlock).md "爪击 (凌弱怪)")
 
 伤害: 1~10
 
@@ -54,12 +54,12 @@
 
 近战: 1.5 m (5 ft)
 
-[感知隐藏存在](Sense_Hidden_Presence.md "感知隐藏存在") ()
+[感知隐藏存在](Sense_Hidden_Presence.md "感知隐藏存在")
 搜索[隐形](Invisible.md "隐形")生物，可能将其揭示给他人。
 
 范围: 自身
 
-[阴影传送 (凌弱怪)](Shadow_Teleport_(Meenlock).md "阴影传送 (凌弱怪)") ()
+[阴影传送 (凌弱怪)](Shadow_Teleport_(Meenlock).md "阴影传送 (凌弱怪)")
 传送至阴影位置。
 
 范围: 16 m (53 ft)

@@ -23,7 +23,7 @@ UID `S_UND_SharranTargetPractice_Crossbow` UUID `7189447e-3897-48ec-b1e8-4c44319
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") ()
+[穿刺射击](Piercing_Shot.md "穿刺射击")
 造成常规伤害并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")，该状态会使攻击造成额外伤害。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

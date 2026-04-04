@@ -3,15 +3,40 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [达里奥·科茨](https://www.imdb.com/name/nm2872353/) |
+| 声音 / 演员 | [达里奥·科茨](https://www.imdb.com/name/nm2872353/) |
+| 角色 | [商人](Trader.md "Trader") |
+| 家乡 | [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing"), [博德之门](Baldur's_Gate.md "Baldur's Gate") |
+| 职业 | 蔬果商 |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [木精灵](Wood_elf.md "Wood_elf") |
-| 等级 | 1 |
-| 生命值 | 8 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 经验值 | 1 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 1 | 1 | 1 |
+| 生命值 | 8 | 5 | 10 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 12 m (40 ft) | 12 m (40 ft) | 12 m (40 ft) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 [飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing"), [博德之门](Baldur's_Gate.md "Baldur's Gate")
 

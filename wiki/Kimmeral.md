@@ -3,16 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [詹姆斯·布拉德威尔](https://www.imdb.com/name/nm10525457/) |
+| 声音 / 演员 | [詹姆斯·布拉德威尔](https://www.imdb.com/name/nm10525457/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [精灵](Elf.md "Elf") |
-| 等级 | 4 |
-| 生命值 | 27 |
-| 护甲等级 | 11 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 110 |
+| 亚种 | [高精灵](High_Elf.md "High elf") |
+| 职业 | [牧师](Cleric.md "Cleric") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 27 | 18 | 35 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +2 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 110 | 110 | 110 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 10 / (0) | 12 / (+1) | 8 / (-1) | 14 / (+2) | 9 / (-1) |
 
 **侍僧 金梅拉尔**可以在[第二幕](Act_Two.md "Act Two")期间，在[月出之塔](Moonrise_Towers.md "Moonrise Towers")一楼西侧的[兵营](Barracks.md "Barracks")中找到他正在休息。
 
@@ -67,7 +79,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [轻弩](Light_Crossbow.md "Light Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [轻弩](Light_Crossbow.md "Light Crossbow")
 
 伤害：1~8
 
@@ -81,7 +93,7 @@
 范围：常规武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [轻弩](Light_Crossbow.md "Light Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [轻弩](Light_Crossbow.md "Light Crossbow")
 
 伤害：1~8
 
@@ -91,7 +103,7 @@
 
 范围：18 米 (60 英尺)
 
-[圣火术](Sacred_Flame.md "Sacred Flame") ()
+[圣火术](Sacred_Flame.md "Sacred Flame")
 
 伤害：1~8
 

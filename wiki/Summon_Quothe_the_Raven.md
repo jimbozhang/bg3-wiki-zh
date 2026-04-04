@@ -34,7 +34,7 @@
 
 飞至目标位置
 
-[啄咬眼珠](Rend_Vision_(Raven_Familiar).md "啄咬眼珠（渡鸦魔宠）") ()
+[啄咬眼珠](Rend_Vision_(Raven_Familiar).md "啄咬眼珠（渡鸦魔宠）")
 攻击一个生物的眼睛并使其[目盲](Blinded_(Condition).md "目盲（状态）")。
 
 ## 如何习得

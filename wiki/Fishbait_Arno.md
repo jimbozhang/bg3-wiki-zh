@@ -33,12 +33,12 @@
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：你的[移动速度](Movement_speed.md "移动速度")翻倍。
 
 范围：自身
 
-[华舞](Flourish.md "华舞") () – [刺剑 +1](Rapier_+1.md "刺剑 +1")
+[华舞](Flourish.md "华舞") – [刺剑 +1](Rapier_+1.md "刺剑 +1")
 
 伤害：1~4
 
@@ -50,7 +50,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [刺剑 +1](Rapier_+1.md "刺剑 +1")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [刺剑 +1](Rapier_+1.md "刺剑 +1")
 
 伤害：5~12
 
@@ -60,7 +60,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [刺剑 +1](Rapier_+1.md "刺剑 +1")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [刺剑 +1](Rapier_+1.md "刺剑 +1")
 
 伤害：5~12
 
@@ -74,7 +74,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") () – [刺剑 +1](Rapier_+1.md "刺剑 +1")
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") – [刺剑 +1](Rapier_+1.md "刺剑 +1")
 
 伤害：6~18
 
@@ -89,7 +89,7 @@
 范围：正常武器范围
 充能：每回合
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [刺剑 +1](Rapier_+1.md "刺剑 +1")
+[弱化打击](Weakening_Strike.md "弱化打击") – [刺剑 +1](Rapier_+1.md "刺剑 +1")
 
 伤害：4~7
 

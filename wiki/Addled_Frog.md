@@ -38,8 +38,6 @@
 
 [护甲等级](Armour_Class.md "护甲等级") +2，将第一个投射物反射回攻击者，之后粘液消失。
 
-属性
-
 **混乱青蛙**是[日照湿地](Sunlit_Wetlands.md "日照湿地")中发现的一只[青蛙](Frog.md "青蛙")，出现在[第一幕](Act_One.md "第一幕")期间。
 
 > “
@@ -70,13 +68,13 @@
 
 范围：自身
 
-[反射粘液](Reflective_Mucus.md "反射粘液") ()
+[反射粘液](Reflective_Mucus.md "反射粘液")
 使[护甲等级](Armour_Class.md "护甲等级")提高 2，并将飞向它的第一个投射物反射回攻击者，之后粘液消失。
 
 范围：自身
 充能：每回合
 
-[猛毒扩散](Venomous_Discharge_(Addled_Frog).md "猛毒扩散 (混乱青蛙)") ()
+[猛毒扩散](Venomous_Discharge_(Addled_Frog).md "猛毒扩散 (混乱青蛙)")
 
 伤害：8~29
 

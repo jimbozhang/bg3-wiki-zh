@@ -18,7 +18,7 @@
 
 - [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") +1
 
-[召唤黑暗](Beckoning_Darkness.md "召唤黑暗") ()
+[召唤黑暗](Beckoning_Darkness.md "召唤黑暗")
 诅咒一个生物被黑暗萦绕。如果它进入或在其回合开始时处于轻度或重度遮蔽区域，它将受到2d8点[黯蚀](Necrotic.md "黯蚀")伤害。
 
 [阴影攻击](Umbral_Attack.md "阴影攻击")

@@ -6,7 +6,7 @@
 
 ## 赋予
 
-[狂野魔法：光箭](Wild_Magic_colon__Bolt_of_Light_(Activate).md "狂野魔法：光箭（激活）") ()
+[狂野魔法：光箭](Wild_Magic_colon__Bolt_of_Light_(Activate).md "狂野魔法：光箭（激活）")
 从胸口射出一支光箭，使目标[目盲](Blinded_(Condition).md "目盲（状态）")
 
 ## 狂野魔法：光箭的来源

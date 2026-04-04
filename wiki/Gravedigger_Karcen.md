@@ -3,15 +3,42 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 声音 / 演员 | [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
 | 体型 | 中级 |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 12 |
-| 生命值 | 92 |
-| 护甲等级 | 15 |
-| 先攻 | +1 |
-| 经验值 | 400 |
+| 职业 | [战士](Fighter.md "战士") |
+| 副职 | [战斗大师](Battlemaster.md "战斗大师") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 12 | 12 |
+| 生命值 | 92 | 120 |
+| 护甲等级 | 15 | 15 |
+| 先攻 | +1 | +1 |
+| 熟练项 | +4 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 400 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20 / (+5) | 13 / (+1) | 15 / (+2) | 11 / (0) | 14 / (+2) | 13 / (+1) |
+
+**特性**
+
+- [适应舞弊](Adaptable_Skullduggery.md "适应舞弊")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "巨武器大师：附赠攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [适应舞弊](Adaptable_Skullduggery.md "适应舞弊")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "巨武器大师：附赠攻击")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **掘墓人卡森**是一名[人类](Human.md "人类")[战士](Fighter.md "战士")和[散塔林会](Zhentarim.md "散塔林会")佣兵，可在[公会大厅](Guildhall.md "公会大厅")的[第三幕](Act_Three.md "第三幕")期间找到。他负责守卫和巡逻公会大厅的南半部，以防[明斯克](Minsc.md "明斯克")可能发动的袭击。
 
@@ -48,7 +75,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长剑 +1](Longsword_+1.md "长剑 +1")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长剑 +1](Longsword_+1.md "长剑 +1")
 
 伤害：7~14
 
@@ -58,7 +85,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[割裂](Lacerate.md "割裂") () – [长剑 +1](Longsword_+1.md "长剑 +1")
+[割裂](Lacerate.md "割裂") – [长剑 +1](Longsword_+1.md "长剑 +1")
 
 伤害：7~14
 
@@ -72,7 +99,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [长剑 +1](Longsword_+1.md "长剑 +1")
+[突进攻击](Rush_Attack.md "突进攻击") – [长剑 +1](Longsword_+1.md "长剑 +1")
 
 伤害：6~9
 
@@ -84,7 +111,7 @@
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [长剑 +1](Longsword_+1.md "长剑 +1")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [长剑 +1](Longsword_+1.md "长剑 +1")
 
 伤害：1~4
 
@@ -109,7 +136,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[多变偷袭（近战）](Versatile_Sneak_Attack_(Melee).md "多变偷袭（近战）") () – [长剑 +1](Longsword_+1.md "长剑 +1")
+[多变偷袭（近战）](Versatile_Sneak_Attack_(Melee).md "多变偷袭（近战）") – [长剑 +1](Longsword_+1.md "长剑 +1")
 
 伤害：13~50
 
@@ -124,7 +151,7 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：[移动速度](Movement_speed.md "移动速度")翻倍。
 
 范围：自身

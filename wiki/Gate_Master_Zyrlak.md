@@ -5,12 +5,30 @@
 | 体型 | 中型 |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
-| 等级 | 5 |
-| 生命值 | 24 |
-| 护甲等级 | 13 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 250 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 24 | 16 | 55 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 16 / (+3) | 18 / (+4) | 14 / (+2) | 12 / (+1) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **门主雅拉克**是一位 [吉斯洋基人](Githyanki.md "Githyanki")，可在 [博德之门](Baldur's_Gate.md "Baldur's Gate") 的 [下城区](Lower_City.md "Lower City") 的 [盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "Knights of the Shield Hideout") 遇到。她正专注于维持一个 [星界裂缝](Astral_Rift.md "Astral Rift") 开启，以召唤更多吉斯洋基战士。
 
@@ -30,7 +48,7 @@
 
 充能：每两回合
 
-[心灵撕裂](Psychic_Rend.md "Psychic_Rend") ()
+[心灵撕裂](Psychic_Rend.md "Psychic_Rend")
 
 伤害：2~16 + 调整值
 
@@ -41,7 +59,7 @@
 [智力](Intelligence.md "Intelligence") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[迷踪步](Misty_Step.md "Misty Step") ()
+[迷踪步](Misty_Step.md "Misty Step")
 被银色雾气包围，你传送到一个可见的未被占据的空间。
 
 射程：18 米 (60 英尺)

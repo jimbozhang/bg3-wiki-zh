@@ -53,7 +53,7 @@
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：5~14
 

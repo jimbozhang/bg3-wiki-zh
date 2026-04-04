@@ -28,7 +28,7 @@ UID `WPN_SAHUAGIN_Spear_B` UUID `8323e1ec-1588-4044-9119-70b87a5fe938` Stats `WP
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[突进攻击](Rush_Attack.md "Rush Attack") ()
+[突进攻击](Rush_Attack.md "Rush Attack")
 向前冲锋并攻击路径上的第一个敌人，可能将其击至[失衡](Off_Balance_(Condition).md "失衡 (状态)")。(充能：[短休](Short_rest.md "短休")。)
 
 ## 备注

@@ -19,7 +19,7 @@
 
 由于[猎物的气味](Prey's_Scent.md "猎物的气味")被动特性，驯兽师游侠可能希望攻击被[猎人印记](Hunter's_Mark.md "猎人印记")标记的目标以获得最佳伤害。
 
-[野猪冲撞](Boar_Charge.md "野猪冲撞") ()
+[野猪冲撞](Boar_Charge.md "野猪冲撞")
 
 伤害：2~5
 
@@ -31,7 +31,7 @@
 
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 
-[牙撕攻击](Tusk_Attack_(Boar).md "牙撕攻击 (野猪)") ()
+[牙撕攻击](Tusk_Attack_(Boar).md "牙撕攻击 (野猪)")
 
 伤害：2~7
 

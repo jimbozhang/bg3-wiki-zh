@@ -117,7 +117,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [巨斧](Greataxe.md "巨斧")
+[劈砍](Cleave.md "劈砍") – [巨斧](Greataxe.md "巨斧")
 
 伤害：
 
@@ -127,7 +127,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[巨化](Enlarge_(Duergar).md "巨化 (灰矮人)") ()
+[巨化](Enlarge_(Duergar).md "巨化 (灰矮人)")
 
 体型增大以变得更强
 
@@ -136,7 +136,7 @@
 范围：自身
 充能：[长休](Long_Rest.md "长休")
 
-[割裂](Lacerate.md "割裂") () – [巨斧](Greataxe.md "巨斧")
+[割裂](Lacerate.md "割裂") – [巨斧](Greataxe.md "巨斧")
 
 伤害：5~16
 
@@ -150,7 +150,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨斧](Greataxe.md "巨斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨斧](Greataxe.md "巨斧")
 
 伤害：5~16
 
@@ -160,7 +160,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[准备](Prepare.md "准备") () – [巨斧](Greataxe.md "巨斧")
+[准备](Prepare.md "准备") – [巨斧](Greataxe.md "巨斧")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击造成额外的力量调整值⁠⁠[物理](Physical.md "物理")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害（最少 1 点）。
 
 范围：自身

@@ -24,7 +24,7 @@ UID `ORI_Wyll_Infernal_Rapier` UUID `e925fb75-96a5-4634-9e0b-a239e48da115` Stats
 
 **持有此物品获得：**
 
-[异界誓盟：坎比翁](Planar_Ally_colon__Cambion.md "异界誓盟：坎比翁") ()
+[异界誓盟：坎比翁](Planar_Ally_colon__Cambion.md "异界誓盟：坎比翁")
 以6环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [高阶施法](High_Spellcasting_(+1).md)
@@ -37,13 +37,13 @@ UID `ORI_Wyll_Infernal_Rapier` UUID `e925fb75-96a5-4634-9e0b-a239e48da115` Stats
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击一名敌人，并可能造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[弱化打击](Weakening_Strike.md "弱化打击") ()
+[弱化打击](Weakening_Strike.md "弱化打击")
 以非致命攻击瞄准敌人的手部，并可能造成[弱腕](Weak_Grip_(Condition).md "弱腕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

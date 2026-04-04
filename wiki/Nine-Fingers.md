@@ -2,15 +2,58 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Bryony Corrigan](https://www.imdb.com/name/nm6790622/) |
+| 全名 | 阿斯特尔·基恩<sup>[\[1\]](#cite_note-1)</sup> |
+| 性别 | 女性 |
+| 声音 / 演员 | [Bryony Corrigan](https://www.imdb.com/name/nm6790622/) |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 12 |
-| 生命值 | 118 |
-| 护甲等级 | 18 |
-| 先攻 | +10 |
-| 经验值 | 1000 |
+| 职业 | [游荡者](Rogue.md "游荡者") |
+| 副职 | [盗贼](Thief.md "盗贼") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 12 | 12 | 12 |
+| 生命值 | 118 | 82 | 153 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | +10 | +10 | +10 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 1000 | 1000 | 1000 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 20 / (+5) | 14 / (+2) | 13 / (+1) | 17 / (+3) | 14 / (+2) |
+
+**特性**
+
+- [警觉](Alert.md "警觉")
+- [平衡](Balance.md "平衡")
+- [匕首专家](Dagger_Specialist.md "匕首专家")
+- [匕首投掷者](Dagger_Thrower.md "匕首投掷者")
+- [反射闪避](Evasion.md "反射闪避")
+- [快手](Fast_Hands.md "快手")
+- [孤立猎物](Isolated_Prey.md "孤立猎物")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [可靠才能](Reliable_Talent.md "可靠才能")
+- [隐匿](Stealthy.md "隐匿")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
+
+**特性**
+
+- [警觉](Alert.md "警觉")
+- [平衡](Balance.md "平衡")
+- [匕首专家](Dagger_Specialist.md "匕首专家")
+- [匕首投掷者](Dagger_Thrower.md "匕首投掷者")
+- [反射闪避](Evasion.md "反射闪避")
+- [快手](Fast_Hands.md "快手")
+- [孤立猎物](Isolated_Prey.md "孤立猎物")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [可靠才能](Reliable_Talent.md "可靠才能")
+- [隐匿](Stealthy.md "隐匿")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 **九指**基恩是[博德之门](Baldur's_Gate.md "博德之门")市[公会](The_Guild.md "公会")的[人类](Human.md "人类")公会首领。<sup>[\[2\]](#cite_note-2)</sup>
 
@@ -46,13 +89,13 @@
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
 范围：自身
 冷却：每回合
 
-[最小预期之剑](The_Blade_Least_Expected.md "最小预期之剑") ()
+[最小预期之剑](The_Blade_Least_Expected.md "最小预期之剑")
 
 伤害：20~53
 

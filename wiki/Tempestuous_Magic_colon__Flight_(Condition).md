@@ -10,7 +10,7 @@
 
 ## 赋予
 
-[魔法飓风：飞行术](Tempestuous_Magic_colon__Flight.md "魔法飓风：飞行术") ()
+[魔法飓风：飞行术](Tempestuous_Magic_colon__Flight.md "魔法飓风：飞行术")
 飞至附近位置，且不会受到[借机攻击](Opportunity_Attacks.md "借机攻击")。
 
 ## 魔法飓风：飞行术的来源

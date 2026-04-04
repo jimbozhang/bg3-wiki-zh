@@ -68,7 +68,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Owlbear).md "爪击 (枭熊)") ()
+[爪击](Claws_(Owlbear).md "爪击 (枭熊)")
 
 伤害: 8~22
 
@@ -78,7 +78,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[裂地](Rupture.md "裂地") ()
+[裂地](Rupture.md "裂地")
 
 伤害: 2~16
 
@@ -100,7 +100,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围: 21 米 (70 英尺)
 
-[多重攻击](Multiattack_(Owlbear).md "多重攻击 (枭熊)") ()
+[多重攻击](Multiattack_(Owlbear).md "多重攻击 (枭熊)")
 
 伤害: 15~38
 

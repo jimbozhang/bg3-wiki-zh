@@ -17,7 +17,7 @@
 
 佩戴此物品的角色获得：
 
-[防护善恶](Protection_from_Evil_and_Good.md "防护善恶") ()
+[防护善恶](Protection_from_Evil_and_Good.md "防护善恶")
 作为 1 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

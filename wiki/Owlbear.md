@@ -2,15 +2,37 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Charlotte Lucas](https://www.imdb.com/name/nm0524099/) |
+| 声音 / 演员 | [Charlotte Lucas](https://www.imdb.com/name/nm0524099/) |
 | 体型 | [大型](Large.md "Large") |
 | 类型 | [野兽](Beast.md "Beast") |
 | 种族 | [野兽](Beast.md "Beast") |
-| 等级 | 3 |
-| 生命值 | 91 |
-| 护甲等级 | 13 |
-| 先攻 | +1 |
-| 移动速度 | 12米（40英尺） |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 91 | 63 | 118 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 施法DC | 6（智力） | 8（智力） | 8（智力） |
+| 移动速度 | 12米（40英尺） | 12米（40英尺） | 12米（40英尺） |
+| 重量 | 550千克（1100磅） | 550千克（1100磅） | 550千克（1100磅） |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20 / (+5) | 12 / (+1) | 17 / (+3) | 3 / (-4) | 12 / (+1) | 7 / (-2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [多重攻击：激怒](Multiattack_colon__Enraged.md "Multiattack: Enraged")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [多重攻击：激怒](Multiattack_colon__Enraged.md "Multiattack: Enraged")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 状态
 
@@ -149,7 +171,7 @@
 
 充能：每场战斗一次
 
-[爪击](Claws_(Owlbear).md "Claws (Owlbear)") ()
+[爪击](Claws_(Owlbear).md "Claws (Owlbear)")
 
 伤害：7~21
 
@@ -166,7 +188,7 @@
 范围：21米（70英尺）
 充能：每回合
 
-[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)") ()
+[多重攻击](Multiattack_(Owlbear).md "Multiattack (Owlbear)")
 
 伤害：13~36
 

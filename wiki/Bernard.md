@@ -159,7 +159,7 @@
 
 ### 攻击与能力
 
-[多重攻击](Multiattack_(Bernard).md "多重攻击 (伯纳德)") () – [造物之光](Light_of_Creation.md "造物之光")
+[多重攻击](Multiattack_(Bernard).md "多重攻击 (伯纳德)") – [造物之光](Light_of_Creation.md "造物之光")
 
 伤害：16~44
 
@@ -176,7 +176,7 @@
 范围：2.5 米 (8 英尺)
 冷却：每回合
 
-[静电过载](Static_Overdrive.md "静电过载") ()
+[静电过载](Static_Overdrive.md "静电过载")
 
 伤害：2~16
 

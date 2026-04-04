@@ -2,15 +2,29 @@
 
 | | |
 | --- | --- |
+| 全名 | 罗拉·贝尔高兹 |
+| 性别 | 女性 |
+| 声优 / 演员 | [哈丽特·克肖](https://www.imdb.com/name/nm8830109/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 74 |
-| 护甲等级 | 13 |
-| 先攻 | +3 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 250 |
+| 职业 | [牧师](Cleric.md "Cleric"), [光明领域](Light_Domain.md "Light Domain") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 74 | 51 | 96 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 16 / (+3) | 14 / (+2) | 12 / (+1) | 18 / (+4) | 14 / (+2) |
 
 **罗拉**，也被称为**罗拉·贝尔高兹**，<sup>[\[2\]](#cite_note-2)</sup> 是[博德之门](Baldur's_Gate.md "Baldur's Gate")中的一名人类，最初在[第三幕](Act_Three.md "Act Three")期间于[石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "Basilisk Gate Barracks")内被发现。她是[万娜](Vanra.md "Vanra")的母亲。与她交谈可以触发任务[解救万娜](Save_Vanra.md "Save Vanra")。
 
@@ -73,7 +87,7 @@
 
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 
-[圣火术](Sacred_Flame.md "Sacred Flame") ()
+[圣火术](Sacred_Flame.md "Sacred Flame")
 
 伤害: 1~8
 

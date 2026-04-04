@@ -154,7 +154,7 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [绞尸机](Corpsegrinder.md "绞尸机")
+[摔翻打击](Backbreaker.md "摔翻打击") – [绞尸机](Corpsegrinder.md "绞尸机")
 
 伤害：5~8
 
@@ -166,7 +166,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [绞尸机](Corpsegrinder.md "绞尸机")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [绞尸机](Corpsegrinder.md "绞尸机")
 
 伤害：9~22
 
@@ -193,7 +193,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[全垒打](Grand_Slam.md "全垒打") () – [绞尸机](Corpsegrinder.md "绞尸机")
+[全垒打](Grand_Slam.md "全垒打") – [绞尸机](Corpsegrinder.md "绞尸机")
 
 伤害：13~26
 
@@ -208,7 +208,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [绞尸机](Corpsegrinder.md "绞尸机")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [绞尸机](Corpsegrinder.md "绞尸机")
 
 伤害：9~22
 
@@ -220,7 +220,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[回气](Second_Wind.md "回气") ()
+[回气](Second_Wind.md "回气")
 
 治疗：1~10 + 调整值
 
@@ -231,7 +231,7 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-[韧性](Tenacity.md "韧性") () – [绞尸机](Corpsegrinder.md "绞尸机")
+[韧性](Tenacity.md "韧性") – [绞尸机](Corpsegrinder.md "绞尸机")
 
 伤害：4
 

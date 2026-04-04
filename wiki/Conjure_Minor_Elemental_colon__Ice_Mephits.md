@@ -27,9 +27,9 @@
 | 护甲等级 | 11 |  |  |  |  |
 | 体型 | 微型 |  |  |  |  |
 
-[寒冰爪](Freezing_Claws.md "寒冰爪") ()
+[寒冰爪](Freezing_Claws.md "寒冰爪")
 
-[寒冰吐息](Ice_Breath.md "寒冰吐息") ()
+[寒冰吐息](Ice_Breath.md "寒冰吐息")
 呼出锥形冰以伤害敌人。（充能：每回合。）
 
 [繁彩球：寒冷](Chromatic_Orb_colon__Cold.md "繁彩球：寒冷") (+ )

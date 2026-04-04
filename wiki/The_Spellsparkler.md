@@ -35,7 +35,7 @@ UID `MAG_ChargedLightning_Quarterstaff` UUID `53d6be1b-eac1-4b88-83ab-ba17956eca
 
 _若你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物，使其[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -2,16 +2,26 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Pieter Lawman](https://www.imdb.com/name/nm1886367/) |
+| 声音 / 演员 | [Pieter Lawman](https://www.imdb.com/name/nm1886367/) |
 | 体型 | [大型](Large.md "Large") |
 | 类型 | [构装生物](Construct.md "Construct") |
 | 种族 | [钢铁卫士](Steel_Watcher.md "钢铁卫士") |
-| 等级 | 11 |
-| 生命值 | 206 |
-| 护甲等级 | 16 |
-| 先攻 | +6 |
-| 移动速度 | 18 米 (60 英尺) |
-| 经验值 | 510 |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 11 | 11 |
+| 生命值 | 206 | 267 |
+| 护甲等级 | 16 | 16 |
+| 先攻 | +6 | +6 |
+| 熟练项 | +4 | +4 |
+| 施法DC | 18 (敏捷) | 20 (敏捷) |
+| 移动速度 | 18 米 (60 英尺) | 18 米 (60 英尺) |
+| 重量 | 750 千克 (1500 磅) | 750 千克 (1500 磅) |
+| 经验值 | 510 | 510 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 22 / (+6) | 18 / (+4) | 6 / (-2) | 10 / (0) | 10 / (0) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -101,7 +111,7 @@
 
 ### 攻击与能力
 
-[衰弱射击](Debilitating_Shot.md "Debilitating_Shot") ()
+[衰弱射击](Debilitating_Shot.md "Debilitating_Shot")
 
 伤害：9~36
 
@@ -114,7 +124,7 @@
 
 <sup>[\[1\]](#cite_note-1)</sup>
 
-[排放地狱火](Hellfire_Exhaust.md "Hellfire_Exhaust") ()
+[排放地狱火](Hellfire_Exhaust.md "Hellfire_Exhaust")
 
 伤害：6~48
 
@@ -127,7 +137,7 @@
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving_throws")
 射程：自身
 
-[主手攻击](Main_Hand_Attack_(Steel_Watcher).md "Main_Hand_Attack_(Steel_Watcher)") ()
+[主手攻击](Main_Hand_Attack_(Steel_Watcher).md "Main_Hand_Attack_(Steel_Watcher)")
 
 伤害：7~40
 
@@ -137,7 +147,7 @@
 
 射程：3 米 (10 英尺)
 
-[回头是岸](Reposition_Malefactor.md "Reposition_Malefactor") ()
+[回头是岸](Reposition_Malefactor.md "Reposition_Malefactor")
 
 伤害：
 

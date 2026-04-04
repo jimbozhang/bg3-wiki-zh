@@ -3,15 +3,46 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Matt Addis](https://www.imdb.com/name/nm3035562/) |
+| 声音 / 演员 | [Matt Addis](https://www.imdb.com/name/nm3035562/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 5 |
-| 生命值 | 54 |
-| 护甲等级 | 15 |
-| 先攻 | +4 |
-| 经验值 | 75 |
+| 亚种 | [灰矮人](Duergar.md "Duergar") |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 5 | 5 |
+| 生命值 | 54 | 70 |
+| 护甲等级 | 15 | 15 |
+| 先攻 | +4 | +4 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 18 / (+4) | 16 / (+3) | 10 / (0) | 16 / (+3) | 12 / (+1) |
+
+**特性**
+
+- [灰矮人坚韧](Duergar_Resilience.md "Duergar Resilience")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
+
+**特性**
+
+- [灰矮人坚韧](Duergar_Resilience.md "Duergar Resilience")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -71,7 +102,7 @@
 
 如果目标在法术结束前死亡，你可以使用[重新施展猎人印记](Reapply_Hunter's_Mark.md "Reapply Hunter's Mark")来标记一个新生物。
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 造成常规伤害，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")，导致攻击时造成额外伤害。
 

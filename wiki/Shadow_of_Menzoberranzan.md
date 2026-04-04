@@ -18,7 +18,7 @@
 
 此物品的穿戴者获得：
 
-[阴影遮蔽](Shrouded_in_Shadow.md "阴影遮蔽") ()
+[阴影遮蔽](Shrouded_in_Shadow.md "阴影遮蔽")
 进入[隐形](Invisible_(Condition).md "隐形（状态）")状态。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

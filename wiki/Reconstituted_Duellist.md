@@ -2,15 +2,28 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
+| 声音 / 演员 | [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [不死生物](Undead.md "Undead") |
 | 种族 | [骷髅](Skeleton.md "Skeleton") |
-| 等级 | 7 |
-| 生命值 | 16 |
-| 护甲等级 | 14 (_巨剑_) |
-| 先攻 | 0 |
-| 移动速度 | 9 m (30 ft) |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 7 | 7 |
+| 生命值 | 16 | 20 |
+| 护甲等级 | 14 (_巨剑_) | 14 (_巨剑_) |
+| 先攻 | 0 | 0 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 20 kg (40 lb) | 20 kg (40 lb) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -37,7 +50,7 @@
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "Lacerate") () – [锈长剑](Rusty_Longsword.md "Rusty Longsword")
+[割裂](Lacerate.md "Lacerate") – [锈长剑](Rusty_Longsword.md "Rusty Longsword")
 
 伤害: 3~10
 
@@ -51,7 +64,7 @@
 射程: 正常武器射程
 恢复: [短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [锈长剑](Rusty_Longsword.md "Rusty Longsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [锈长剑](Rusty_Longsword.md "Rusty Longsword")
 
 伤害: 3~10
 
@@ -61,7 +74,7 @@
 
 近战: 1.5 m (5 ft)
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [锈长剑](Rusty_Longsword.md "Rusty Longsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [锈长剑](Rusty_Longsword.md "Rusty Longsword")
 
 伤害: 1~4
 
@@ -73,7 +86,7 @@
 近战: 1.5 m (5 ft)
 恢复: [短休](Short_rest.md "Short rest")
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [锈长剑](Rusty_Longsword.md "Rusty Longsword")
+[突进攻击](Rush_Attack.md "Rush Attack") – [锈长剑](Rusty_Longsword.md "Rusty Longsword")
 
 伤害: 3~6
 
@@ -87,7 +100,7 @@
 
 或
 
-[劈砍](Cleave.md "Cleave") () – [生锈巨剑](Rusty_Greatsword.md "Rusty Greatsword")
+[劈砍](Cleave.md "Cleave") – [生锈巨剑](Rusty_Greatsword.md "Rusty Greatsword")
 
 伤害:
 
@@ -97,7 +110,7 @@
 
 恢复: [短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [生锈巨剑](Rusty_Greatsword.md "Rusty Greatsword")
+[割裂](Lacerate.md "Lacerate") – [生锈巨剑](Rusty_Greatsword.md "Rusty Greatsword")
 
 伤害: 4~14
 
@@ -111,7 +124,7 @@
 射程: 正常武器射程
 恢复: [短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [生锈巨剑](Rusty_Greatsword.md "Rusty Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [生锈巨剑](Rusty_Greatsword.md "Rusty Greatsword")
 
 伤害: 4~14
 
@@ -121,7 +134,7 @@
 
 近战: 1.5 m (5 ft)
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [生锈巨剑](Rusty_Greatsword.md "Rusty Greatsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [生锈巨剑](Rusty_Greatsword.md "Rusty Greatsword")
 
 伤害: 1~4
 

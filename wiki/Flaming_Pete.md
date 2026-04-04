@@ -2,18 +2,46 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Rishi Manuel](https://www.imdb.com/name/nm11062938/) |
+| 全名 | 弗莱明·皮特 |
+| 性别 | 男 |
+| 声音 / 演员 | [Rishi Manuel](https://www.imdb.com/name/nm11062938/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [妖精](Fey.md "Fey") |
 | 种族 | [红帽子](Redcap.md "Redcap") |
-| 等级 | 4 |
-| 生命值 | 85 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 250 |
 
-属性
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 85 | 59 | 110 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 18 米 (60 英尺) | 18 米 (60 英尺) | 18 米 (60 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20 / (+5) | 13 / (+1) | 20 / (+5) | 10 / (0) | 12 / (+1) | 9 / (-1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [埃赛尔的扭曲祝福](Ethel's_Twisted_Blessing.md "Ethel's Twisted Blessing")
+- [纵情狂欢](Merry_Revelry.md "Merry Revelry")
+- [多重攻击：嗜血](Multiattack_colon__Bloodlust.md "多重攻击：嗜血")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [埃赛尔的扭曲祝福](Ethel's_Twisted_Blessing.md "Ethel's Twisted Blessing")
+- [纵情狂欢](Merry_Revelry.md "Merry Revelry")
+- [多重攻击：嗜血](Multiattack_colon__Bloodlust.md "多重攻击：嗜血")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [沉浸杀戮](Steeped_in_Slaughter.md "沉浸杀戮")
 
 **弗莱明·皮特** ，伪装成**醺醉的客人**，是[博德之门](Baldur's_Gate.md "博德之门")在[第三幕](Act_Three.md "第三幕")期间的一名[红帽子水手长](Redcap_Boatswain.md "红帽子水手长")。
 
@@ -44,7 +72,7 @@
 
 ### 攻击与能力
 
-[铁意追击](Ironbound_Pursuit.md "铁意追击") ()
+[铁意追击](Ironbound_Pursuit.md "铁意追击")
 
 伤害: 8~29
 
@@ -55,7 +83,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战: 1.5 米 (5 英尺)
 
-[多重攻击](Multiattack_(Redcap).md "多重攻击 (红帽子)") ()
+[多重攻击](Multiattack_(Redcap).md "多重攻击 (红帽子)")
 
 伤害:
 

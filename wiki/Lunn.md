@@ -2,16 +2,38 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Michael Gukas](https://www.imdb.com/name/nm11933813/) |
+| 声音 / 演员 | [Michael Gukas](https://www.imdb.com/name/nm11933813/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [怪兽](Monstrosity.md "Monstrosity") |
 | 种族 | [变形怪](Doppelganger.md "Doppelganger") |
-| 等级 | 8 |
-| 生命值 | 52 |
-| 护甲等级 | 14 |
-| 先攻 | +4 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 200 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 52 | 36 | 67 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 18 / (+4) | 14 / (+2) | 11 / (0) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **莱辛**曾是[竖琴手同盟](Harpers.md "Harpers")的一名[木精灵](Wood_elf.md "木精灵")成员。她最初的任务是调查[巴尔](Bhaal.md "巴尔")在城中的活动，并寻找[明斯克](Minsc.md "明斯克")的下落，但后来被一只名为**伦恩**的[变形怪](Doppelganger.md "变形怪")杀害并冒充。
 
@@ -50,13 +72,13 @@
 
 ### 攻击与能力
 
-[形态伏击](Morphic_Ambush.md "形态伏击") ()
+[形态伏击](Morphic_Ambush.md "形态伏击")
 经历一次惊人的变形以惊吓你的敌人。成功[伏击](Ambushed_(Condition).md "伏击 (状态)")的实体更容易受到你的攻击。
 
 范围：自身
 冷却：每场战斗
 
-[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)") ()
+[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")
 
 伤害：12~32
 
@@ -69,7 +91,7 @@
 近战：1.5 米 (5 英尺)
 冷却：每回合
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [轻弩](Light_Crossbow.md "轻弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [轻弩](Light_Crossbow.md "轻弩")
 
 伤害：5~12
 

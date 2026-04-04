@@ -30,7 +30,7 @@ UID `MAG_Generic_01_Shortbow_1` UUID `c57ba806-b340-4307-9c37-170792052b8d` ### 
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 射击敌人的大腿，可能使其[移动速度](Movement_speed.md "移动速度")降低 50%。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

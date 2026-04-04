@@ -33,7 +33,7 @@ UID `MAG_Fire_IncreaseSlashingDamageToBurning_Handaxe` UUID `4f67b6cb-ccc4-497e-
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

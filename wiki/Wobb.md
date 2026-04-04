@@ -13,8 +13,6 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 140 |
 
-属性
-
 **沃博**是一个[变形怪](Doppelganger.md "Doppelganger")。如果[多洛](Dolor.md "Dolor")正试图杀死[菲格·彭尼古德](Figaro_Pennygood.md "Figaro Pennygood")作为[调查谋杀案](Investigate_the_Murders.md "Investigate the Murders")的一部分，可以在[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")的[焕颜精品店](Facemaker's_Boutique.md "Facemaker's Boutique")找到它。
 
 ## 内容
@@ -33,13 +31,13 @@
 
 ### 攻击与能力
 
-[形态伏击](Morphic_Ambush.md "Morphic Ambush") ()
+[形态伏击](Morphic_Ambush.md "Morphic Ambush")
 经历一次令人震惊的变形以惊吓你的敌人。成功[伏击](Ambushed_(Condition).md "Ambushed (Condition)")的实体更容易受到你的攻击。
 
 范围：自身
 充能：每场战斗
 
-[多重攻击](Multiattack_(Doppelganger).md "Multiattack (Doppelganger)") ()
+[多重攻击](Multiattack_(Doppelganger).md "Multiattack (Doppelganger)")
 
 伤害：12~32
 
@@ -52,7 +50,7 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-[猛击](Slam_(Doppelganger).md "Slam (Doppelganger)") ()
+[猛击](Slam_(Doppelganger).md "Slam (Doppelganger)")
 
 伤害：2~16
 

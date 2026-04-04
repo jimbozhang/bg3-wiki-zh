@@ -86,7 +86,7 @@
 
 范围：自身
 
-[魔能爆](Eldritch_Blast.md "Eldritch_Blast") ()
+[魔能爆](Eldritch_Blast.md "Eldritch_Blast")
 
 伤害：1~10
 
@@ -108,7 +108,7 @@
 
 范围：18 米 (60 英尺)
 
-[割裂](Lacerate.md "Lacerate") () – [手斧](Handaxe.md "Handaxe")
+[割裂](Lacerate.md "Lacerate") – [手斧](Handaxe.md "Handaxe")
 
 伤害：1~6
 
@@ -122,7 +122,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [手斧](Handaxe.md "Handaxe")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [手斧](Handaxe.md "Handaxe")
 
 伤害：1~6
 

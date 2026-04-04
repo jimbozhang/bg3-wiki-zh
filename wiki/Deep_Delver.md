@@ -30,13 +30,13 @@ UID `UNI_UND_KC_Elder_Warpick` UUID `a42bf0f7-3a78-4aae-b94f-ed92a89e847c` Stats
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[跛足打击](Maiming_Strike.md "Maiming Strike") ()
+[跛足打击](Maiming_Strike.md "Maiming Strike")
 可能使目标[跛足](Maimed_(Condition).md "Maimed (Condition)")。他们无法移动。(充能：[短休](Short_rest.md "Short rest")。)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing Strike")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")。(充能：[短休](Short_rest.md "Short rest")。)
 
-[弱化打击](Weakening_Strike.md "Weakening Strike") ()
+[弱化打击](Weakening_Strike.md "Weakening Strike")
 以非致命攻击瞄准敌人的手部，可能施加[弱腕](Weak_Grip_(Condition).md "Weak Grip (Condition)")。(充能：[短休](Short_rest.md "Short rest")。)
 
 ## 获取地点

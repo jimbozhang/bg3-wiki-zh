@@ -23,7 +23,7 @@
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [巨锤](Maul.md "巨锤")
+[摔翻打击](Backbreaker.md "摔翻打击") – [巨锤](Maul.md "巨锤")
 
 伤害：5~8
 
@@ -35,7 +35,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [巨锤](Maul.md "巨锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [巨锤](Maul.md "巨锤")
 
 伤害：6~16
 
@@ -47,7 +47,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[愤怒投掷](Enraged_Throw.md "愤怒投掷") () – [手斧](Handaxe.md "手斧")
+[愤怒投掷](Enraged_Throw.md "愤怒投掷") – [手斧](Handaxe.md "手斧")
 
 伤害：5~10
 
@@ -65,7 +65,7 @@
 
 范围：18 米 (60 英尺)
 
-[狂怒攻击](Frenzied_Strike.md "狂怒攻击") () – [巨锤](Maul.md "巨锤")
+[狂怒攻击](Frenzied_Strike.md "狂怒攻击") – [巨锤](Maul.md "巨锤")
 
 伤害：6~16
 
@@ -86,7 +86,7 @@
 
 范围：自身
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨锤](Maul.md "巨锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨锤](Maul.md "巨锤")
 
 伤害：6~16
 
@@ -96,7 +96,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") () – [巨锤](Maul.md "巨锤")
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") – [巨锤](Maul.md "巨锤")
 
 伤害：6~16
 
@@ -108,7 +108,7 @@
 
 范围：正常武器范围
 
-[韧性](Tenacity.md "韧性") () – [巨锤](Maul.md "巨锤")
+[韧性](Tenacity.md "韧性") – [巨锤](Maul.md "巨锤")
 
 伤害：4
 

@@ -34,7 +34,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨剑](Greatsword.md "Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：6~16
 
@@ -44,7 +44,7 @@
 
 近战：1.5 m (5 ft)
 
-[吸取生命](Life_Drain.md "Life Drain") ()
+[吸取生命](Life_Drain.md "Life Drain")
 
 伤害：4~18
 
@@ -54,7 +54,7 @@
 
 近战：1.5 m (5 ft)
 
-[极致悲痛](Overwhelming_Grief.md "Overwhelming Grief") ()
+[极致悲痛](Overwhelming_Grief.md "Overwhelming Grief")
 
 伤害：2~12
 
@@ -67,7 +67,7 @@
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 范围：6 m (20 ft)
 
-[归入阴影](Subsume_Shadow.md "Subsume Shadow") ()
+[归入阴影](Subsume_Shadow.md "Subsume Shadow")
 审判十字军进入其[阴影形态](Umbral_Form_(Condition).md "Umbral Form (Condition)")。
 
 范围：自身

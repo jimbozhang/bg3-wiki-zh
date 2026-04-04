@@ -38,17 +38,17 @@
 
 ### 攻击与能力
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞向目标位置
 
 范围：18 米 (60 英尺)
 
-[盖尔](Gale_(class_action).md "盖尔 (职业动作)") ()
+[盖尔](Gale_(class_action).md "盖尔 (职业动作)")
 拍打雄伟的翅膀制造强风，将生物击退 5 米 / 17 英尺并使其陷入[倒伏](Prone_(Condition).md "倒伏 (状态)")状态。
 
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 
-[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)") ()
+[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击 (巨鹰)")
 
 伤害：10~38
 
@@ -61,7 +61,7 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-[利爪](Talons.md "利爪") ()
+[利爪](Talons.md "利爪")
 
 伤害：5~19
 

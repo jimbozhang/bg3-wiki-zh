@@ -33,7 +33,7 @@ UID `WPN_GOB_PainPriest_Handaxe` UUID `5c996c03-99e9-40c1-8acf-d761550d26f5` Sta
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害使其[流血](Bleeding_(Condition).md "流血 (状态)")。（充能：[短休](Short_rest.md "短休"）。）
 
 ## 获取地点

@@ -152,7 +152,7 @@
 
 ### 等级7
 
-[曲射](Curving_Shot.md "Curving Shot") ()
+[曲射](Curving_Shot.md "Curving Shot")
 当你使用任何魔法远程攻击未命中时，使用[附赠动作](Actions.md#Resources "Actions")以相同的攻击攻击下一个最近的目标。（每回合充能。）
 
 [魔法箭](Magic_Arrow.md "Magic Arrow")
@@ -185,7 +185,7 @@
 [剑咏之力](Bladesinging.md#Level_2 "Bladesinging")：2
 用于施展剑咏。通过[长休](Long_Rest.md "Long Rest")补充。即使你熟练，也无法在中甲或重甲下进行剑咏；穿着这些护甲时，你将获得“剑咏受阻”状态。
 
-[剑咏](Bladesong.md "Bladesong") ()
+[剑咏](Bladesong.md "Bladesong")
 唤起剑咏。你获得+2的[护甲等级](Armour_Class.md "Armour Class")加值，你的[移动速度](Movement_speed.md "Movement speed")增加3米（10英尺）。你还在[体操](Acrobatics.md "Acrobatics")上获得[优势](Advantage.md "Advantage")，并在[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")上获得+2加值。
 
 [战争与歌谣训练](Training_in_War_and_Song.md "Training in War and Song")
@@ -195,7 +195,7 @@
 
 [剑咏之力](Bladesinging.md#Level_2 "Bladesinging")：3
 获得一次额外的剑咏使用次数。
-[剑咏](Bladesong.md "Bladesong") ()
+[剑咏](Bladesong.md "Bladesong")
 护甲等级和[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")加值增加至+3。
 
 ### 等级6
@@ -207,7 +207,7 @@
 
 [剑咏之力](Bladesinging.md#Level_2 "Bladesinging")：4
 获得一次额外的剑咏使用次数。
-[剑咏](Bladesong.md "Bladesong") ()
+[剑咏](Bladesong.md "Bladesong")
 护甲等级和[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")加值增加至+4。
 
 ### 等级10
@@ -307,7 +307,7 @@
 
 ### 等级6
 
-[威严斗篷：命令](Mantle_of_Majesty_colon__Command.md "Mantle of Majesty: Command") ()
+[威严斗篷：命令](Mantle_of_Majesty_colon__Command.md "Mantle of Majesty: Command")
 命令一个生物逃跑、靠近、冻结、倒地或放下武器。被[魅惑](Charmed_(Condition).md "Charmed (Condition)")的目标自动豁免检定失败。（充能：[长休](Long_Rest.md "Long rest")。）
 
 灵感斗篷
@@ -349,7 +349,7 @@
 [引导神力：死亡之触](Channel_Divinity_colon__Touch_of_Death.md "Channel Divinity: Touch of Death")
 当用近战攻击命中一个生物时，可以使用[引导神力充能](Channel_Divinity_Charge.md "Channel Divinity Charge")来造成额外的5 + 2 ×（牧师等级）⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-[死亡之触](Touch_of_Death.md "Touch_of_Death") ()
+[死亡之触](Touch_of_Death.md "Touch_of_Death")
 当用近战攻击命中一个生物时，可以使用[引导神力充能](Channel_Divinity_Charge.md "Channel Divinity Charge")来造成额外的⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
 ### 等级3
@@ -379,7 +379,7 @@
 
 ### 等级8
 
-[神赐打击：黯蚀](Divine_Strike_colon__Necrotic.md "Divine Strike: Necrotic") ()
+[神赐打击：黯蚀](Divine_Strike_colon__Necrotic.md "Divine Strike: Necrotic")
 每回合一次，在进行近战攻击时，除了武器伤害外，额外造成1d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。（每回合充能。）
 
 ### 等级9
@@ -407,12 +407,12 @@
 [瓦普拉克的贪婪](Vaprak's_Greed.md "Vaprak's_Greed")
 你的[负重](Carrying_capacity.md "Carrying capacity")增加四分之一。
 
-[奇术](Thaumaturgy.md "Thaumaturgy") ()
+[奇术](Thaumaturgy.md "Thaumaturgy")
 在[威吓](Intimidation.md "Intimidation")和[表演](Performance.md "Performance")[技能检定](Skill_Check.md "技能检定")上获得[优势](Advantage.md "Advantage")。
 
 ### 等级5
 
-[巨人之靴](Boot_of_the_Giants.md "Boot of the Giants") ()
+[巨人之靴](Boot_of_the_Giants.md "Boot of the Giants")
 尝试踢开一个目标。你的成功率取决于你的[运动](Athletics.md "Athletics")，如果你处于隐藏或隐形状态，成功率更高。
 
 ### 等级6
@@ -422,7 +422,7 @@
 
 ### 等级10
 
-[强力投掷](Mighty_Impel.md "Mighty Impel") ()
+[强力投掷](Mighty_Impel.md "Mighty Impel")
 投掷一个中型或更小的生物或物体。
 
 [￪ 返回顶部](#top)
@@ -440,10 +440,10 @@
 [诅咒战士](Hex_Warrior.md "Hex Warrior")
 你获得[中甲](Armour.md#List_of_medium_armour "Armour")、[盾牌](Shields.md "Shields")和[军用武器](Martial_weapons.md "Martial weapons")熟练项。你获得[诅咒武器誓缚](Bind_Hexed_Weapon.md "Bind Hexed Weapon")，这让你在使用你熟练的武器攻击时，可以用你的[魅力](Charisma.md "Charisma")调整值代替力量或敏捷。
 
-[诅咒武器誓缚](Bind_Hexed_Weapon.md "Bind Hexed Weapon") ()
+[诅咒武器誓缚](Bind_Hexed_Weapon.md "Bind Hexed Weapon")
 誓缚到你的主手武器。它的伤害变为魔法伤害，你无法丢弃或投掷它，并且如果你之前不熟练，你将变得[重甲的](Proficient.md "Proficient")。当你使用此武器攻击时，有几率_\\[见备注](Bind_Hexed_Weapon.md#Notes "Bind Hexed Weapon")\\]_对目标施加[诅咒之刃的诅咒](Hexblade's_Curse_(Condition).md "Hexblade's Curse (Condition)")。
 
-[诅咒之刃的诅咒](Hexblade's_Curse.md "Hexblade's Curse") ()
+[诅咒之刃的诅咒](Hexblade's_Curse.md "Hexblade's Curse")
 诅咒一个目标。你对目标的伤害掷骰获得等于你的[熟练项加值](Proficiency_Bonus.md "Proficiency bonus")的加值。攻击目标时，造成[重击](Critical_Hit.md "Critical Hit")所需的掷骰值也减少1。如果目标死亡，你将恢复邪术师等级 + 魅力调整值的[生命值](Hit_Points.md "Hit points")。（充能：[短休](Short_rest.md "Short rest")。）
 
 扩展法术列表
@@ -463,7 +463,7 @@
 - [闪现](Blink.md "闪现")
 - [元素武器](Elemental_Weapon.md "Elemental Weapon") ### 等级6
 
-[受诅幽魂](Accursed_Spectre_(reaction).md "Accursed Spectre (reaction)") ()
+[受诅幽魂](Accursed_Spectre_(reaction).md "Accursed Spectre (reaction)")
 从一个被[诅咒](Hexblade's_Curse_(Condition).md) 目标的灵魂中唤起一个受诅幽魂为你作战。倒下生物的体型将决定你唤起的是[虚弱幽魂](Feeble_Spectre.md "Feeble Spectre")、[普通幽魂](Mundane_Spectre.md "Mundane Spectre")还是[原始幽魂](Primordial_Spectre.md "Primordial Spectre")。对[构装生物](Constructs.md "Constructs")、[元素生物](Elemental.md "Elemental")、[泥型怪物](Ooze.md "Ooze")、[植物](Plant.md "Plant")或[不死生物](Undead.md "不死生物")无效。
 
 ### 等级7
@@ -483,7 +483,7 @@
 
 ### 等级10
 
-[诅咒护甲](Armour_of_Hexes.md "Armour of Hexes") ()
+[诅咒护甲](Armour_of_Hexes.md "Armour of Hexes")
 当一个被你用[诅咒之刃的诅咒](Hexblade's_Curse_(Condition).md "Hexblade's Curse (Condition)")诅咒的生物攻击你时，可以作为[反应](Reaction.md "Reaction")来无效化这次攻击。此操作有50%的成功率。
 
 [￪ 返回顶部](#top)
@@ -575,7 +575,7 @@
 
 ### 等级11
 
-[暗影行走](Shadow_Walk.md "Shadow Walk") ()
+[暗影行走](Shadow_Walk.md "Shadow Walk")
 传送到阴影中。你本回合施放的下一个法术将受益于[超魔：远距法术](Metamagic_colon__Distant_Spell.md "Metamagic: Distant Spell")，且不消耗任何术法点。
 
 [￪ 返回顶部](#top)
@@ -692,9 +692,9 @@
 
 普通偷袭被潇洒偷袭取代。
 
-[潇洒偷袭（近战）](Rakish_Sneak_Attack_(Melee).md "Rakish Sneak Attack (Melee)") ()
+[潇洒偷袭（近战）](Rakish_Sneak_Attack_(Melee).md "Rakish Sneak Attack (Melee)")
 对你拥有[优势](Advantage.md "Advantage")的敌人造成额外伤害。如果没有其他战斗单位在目标2米/7英尺范围内，或者你有盟友在此范围内，你也可以在没有优势的情况下使用此攻击。（每回合充能。）
-[潇洒偷袭（远程）](Rakish_Sneak_Attack_(Ranged).md "Rakish Sneak Attack (Ranged)") ()
+[潇洒偷袭（远程）](Rakish_Sneak_Attack_(Ranged).md "Rakish Sneak Attack (Ranged)")
 对你拥有[优势](Advantage.md "Advantage")的敌人造成额外伤害。如果没有其他战斗单位在目标2米/7英尺范围内，或者你有盟友在此范围内，你也可以在没有优势的情况下使用此攻击。（每回合充能。）
 
 ### 等级4
@@ -703,16 +703,16 @@
 学习以下下流伎俩。
 [魅力](Charisma.md "Charisma")是这些能力的施法调整值，除了沙尘投掷使用敏捷。
 
-[下流伎俩：手腕轻弹](Dirty_Trick_colon__Flick_o'_the_Wrist.md "Dirty Trick: Flick o' the Wrist") ()
+[下流伎俩：手腕轻弹](Dirty_Trick_colon__Flick_o'_the_Wrist.md "Dirty Trick: Flick o' the Wrist")
 轻弹你的武器攻击目标，并可能使其[缴械](Disarmed_(Condition).md "Disarmed (Condition)")。
-[下流伎俩：沙尘投掷](Dirty_Trick_colon__Sand_Toss.md "Dirty Trick: Sand Toss") ()
+[下流伎俩：沙尘投掷](Dirty_Trick_colon__Sand_Toss.md "Dirty Trick: Sand Toss")
 向敌人投掷一把沙子，并可能使其[目盲](Blinded_(Condition).md "Blinded (Condition)")。
-[下流伎俩：恶毒嘲笑](Dirty_Trick_colon__Vicious_Mockery.md "Dirty Trick: Vicious Mockery") ()
+[下流伎俩：恶毒嘲笑](Dirty_Trick_colon__Vicious_Mockery.md "Dirty Trick: Vicious Mockery")
 侮辱一个生物：其下一次⁠[攻击掷骰](Attack_roll.md "Attack roll")具有[劣势](Disadvantage.md "Disadvantage")。
 
 ### 等级9
 
-[魅惑](Panache.md "Panache") ()
+[魅惑](Panache.md "Panache")
 进行一次[游说](Persuasion.md "Persuasion")检定以迷惑一个人类生物，该生物必须用[洞悉](Insight.md "Insight")检定对抗。检定失败的敌人获得[魅惑：劣势](Panache_colon__Disadvantage_(Condition).md "Panache: Disadvantage (Condition)")；其他检定失败的生物则被[魅惑](Charmed_(Condition).md "Charmed (Condition)")。
 
 [￪ 返回顶部](#top)
@@ -771,7 +771,7 @@
 
 ### 轰鸣剑
 
-[轰鸣剑](Booming_Blade.md "Booming Blade") ()
+[轰鸣剑](Booming_Blade.md "Booming Blade")
 
 伤害：1~8
 
@@ -790,7 +790,7 @@
 
 ### 肌腱爆裂
 
-[肌腱爆裂](Bursting_Sinew.md "Bursting Sinew") ()
+[肌腱爆裂](Bursting_Sinew.md "Bursting Sinew")
 
 伤害：1~10
 
@@ -840,7 +840,7 @@
 
 ### 丧钟
 
-[丧钟](Toll_the_Dead.md "Toll_the_Dead") ()
+[丧钟](Toll_the_Dead.md "Toll_the_Dead")
 
 伤害：1~12
 

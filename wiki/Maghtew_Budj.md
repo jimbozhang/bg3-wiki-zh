@@ -33,7 +33,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [米尔寇链枷](Flail_of_Myrkul.md "Flail of Myrkul")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [米尔寇链枷](Flail_of_Myrkul.md "Flail of Myrkul")
 
 伤害：2~9
 
@@ -45,7 +45,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [米尔寇链枷](Flail_of_Myrkul.md "Flail of Myrkul")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [米尔寇链枷](Flail_of_Myrkul.md "Flail of Myrkul")
 
 伤害：2~9
 
@@ -71,7 +71,7 @@
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
-[韧性](Tenacity.md "Tenacity") () – [米尔寇链枷](Flail_of_Myrkul.md "Flail of Myrkul")
+[韧性](Tenacity.md "Tenacity") – [米尔寇链枷](Flail_of_Myrkul.md "Flail of Myrkul")
 
 伤害：1
 
@@ -79,7 +79,7 @@
 
 当你攻击未命中时，仍会造成等于你的[力量](Strength.md "Strength") [调整值](Ability_Scores.md#Ability_score_modifiers "Ability scores")的⁠[钝击](Bludgeoning.md "Bludgeoning")伤害（最低为1）。
 
-[弱化打击](Weakening_Strike.md "Weakening Strike") () – [米尔寇链枷](Flail_of_Myrkul.md "Flail of Myrkul")
+[弱化打击](Weakening_Strike.md "Weakening Strike") – [米尔寇链枷](Flail_of_Myrkul.md "Flail of Myrkul")
 
 伤害：2~5
 

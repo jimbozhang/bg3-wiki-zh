@@ -26,7 +26,7 @@
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 短棒列表
@@ -47,7 +47,7 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 | [短棒 +1](Club_+1.md "短棒 +1") | +1 | 1d4 + 1 | 钝击 | 0.9 kg / 1.8 lb | 17 |  |
 | [山丘巨人力量短棒](Club_of_Hill_Giant_Strength.md "山丘巨人力量短棒") |  | 1d4 | 钝击 | 0.9 kg / 1.8 lb | 65 | [巨人之力的碎片](Splinters_of_a_Giant's_Might.md "巨人之力的碎片")将[力量](Strength.md "力量")提升至19。 |
 | [硬木短棒](Ironwood_Club.md "硬木短棒") | +1 | 1d4 + 1 | 钝击 | 0.9 kg / 1.8 lb | 65 | 当对武器施放[橡棍术](Shillelagh.md "橡棍术")时，获得[硬木和谐](Ironwood_Harmony_(Condition).md "硬木和谐（状态）")（+1d4 钝击伤害）。 |
-| [暗影提灯](Shadow_Lantern.md "暗影提灯") |  | 1d4 | 钝击 | 0.9 kg / 1.8 lb | 190 | [召唤影灯缚灵](Conjure_Shadow_Lantern_Wraith.md "召唤影灯缚灵") () 作为6环法术施放（ 充能：[长休](Long_Rest.md "长休")。） |
+| [暗影提灯](Shadow_Lantern.md "暗影提灯") |  | 1d4 | 钝击 | 0.9 kg / 1.8 lb | 190 | [召唤影灯缚灵](Conjure_Shadow_Lantern_Wraith.md "召唤影灯缚灵") 作为6环法术施放（ 充能：[长休](Long_Rest.md "长休")。） |
 | [月亮提灯](Moonlantern.md "月亮提灯") |  | 1d4 | 钝击 | 0.9 kg / 1.8 lb | 30 |  |
 | [驱散火炬](Torch_of_Revocation.md "驱散火炬") | +1 | 1d4 + 1 / 1d4 / 1d4 | 钝击 / 黯蚀 / 火焰 | 0.9 kg / 1.8 lb | 145 |  |
 

@@ -3,15 +3,40 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [布莱恩·拉金](https://www.imdb.com/name/nm1385922/) |
+| 声音 / 演员 | [布莱恩·拉金](https://www.imdb.com/name/nm1385922/) |
 | 体型 | [大型](Large.md "Large") |
 | 类型 | [巨人](Giant.md "Giant") |
 | 种族 | [食人魔](Ogre.md "Ogre") |
-| 等级 | 4 |
-| 生命值 | 67<sup>[\[1\]](#cite_note-1)</sup> |
-| 护甲等级 | 13 |
-| 先攻 | +1 |
-| 移动速度 | 12 米 (40 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 67<sup>[\[1\]](#cite_note-1)</sup> | 46 | 87 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 施法DC | 13 (智力) | 15 (智力) | 15 (智力) |
+| 移动速度 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 重量 | 500 千克 (1000 磅) | 500 千克 (1000 磅) | 500 千克 (1000 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 19 / (+4) | 12 / (+1) | 16 / (+3) | 17 / (+3) | 7 / (-2) | 7 / (-2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [食人魔印记](Ogre's_Mark.md "Ogre's Mark")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (被动特性)")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [食人魔印记](Ogre's_Mark.md "Ogre's Mark")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (被动特性)")
 
 **开明的朗普**与两名食人魔同伴潜伏在 [染疫村落](Blighted_Village.md "Blighted Village") 的废墟中，处于 [第一幕](Act_One.md "Act_One")。尽管是食人魔，朗普却拥有异常高的智力。
 
@@ -100,7 +125,7 @@
 范围：自身
 充能：战斗结束
 
-[火焰箭](Fire_Bolt.md "Fire Bolt") ()
+[火焰箭](Fire_Bolt.md "Fire Bolt")
 
 伤害：1~10
 
@@ -110,7 +135,7 @@
 
 范围：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [重尖刺棒](Heavy_Spiked_Club.md "Heavy Spiked Club")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [重尖刺棒](Heavy_Spiked_Club.md "Heavy Spiked Club")
 
 伤害：7~21
 

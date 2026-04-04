@@ -30,7 +30,7 @@ UID `QUEST_FOR_SussurSickle` UUID `6b95bb45-41c3-4954-ac2f-ef1aa169b0b6` Stats `
 
 _若你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[Lacerate](Lacerate.md "割裂") ()
+[Lacerate](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 状态：沉默

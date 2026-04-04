@@ -87,7 +87,7 @@ If Spike witnesses a party member undergo the pain ritual, he claims that he nee
 
 ### Attacks and abilities
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [短棒](Club.md "短棒")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [短棒](Club.md "短棒")
 
 Damage: 2~5
 
@@ -99,7 +99,7 @@ Hit an enemy with all your might to deal damage and possibly [Daze](Dazed_(Condi
 Range: Normal weapon range
 Recharge: [短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短棒](Club.md "短棒")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短棒](Club.md "短棒")
 
 Damage: 2~5
 
@@ -122,7 +122,7 @@ Possibly [Frighten](Frightened_(Condition).md "Frightened (Condition)") your tar
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 Range: Normal weapon range
 
-[投掷](Throw.md "投掷") () – [强酸瓶](Acid_Vial.md "强酸瓶")
+[投掷](Throw.md "投掷") – [强酸瓶](Acid_Vial.md "强酸瓶")
 
 Damage:
 
@@ -136,7 +136,7 @@ The damage of weapons with the [thrown](Thrown.md "Thrown") property is the same
 
 Range: 3-18 m (10-60 ft)
 
-[投掷](Throw.md "投掷") () – [炼金火焰](Alchemist's_Fire.md "炼金火焰")
+[投掷](Throw.md "投掷") – [炼金火焰](Alchemist's_Fire.md "炼金火焰")
 
 Damage:
 

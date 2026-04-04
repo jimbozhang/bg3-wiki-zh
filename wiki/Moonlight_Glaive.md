@@ -35,20 +35,20 @@ UID `MAG_Moonlight_Glaive` UUID `24f276e7-f08f-44f1-ab97-3df34fd52add` Stats `MA
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")状态。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[备战（近战）](Brace_(Melee).md "备战（近战）") ()
+[备战（近战）](Brace_(Melee).md "备战（近战）")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在本回合剩余时间内，掷两次近战伤害并取最高值。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[月光蝴蝶](Moonlight_Butterflies.md "月光蝴蝶") ()
+[月光蝴蝶](Moonlight_Butterflies.md "月光蝴蝶")
 攻击一个敌人，召唤一群月光色的幻影蝴蝶，并对目标获得攻击[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

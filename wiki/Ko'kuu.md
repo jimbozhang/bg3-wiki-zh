@@ -3,15 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Jay Taylor](https://www.imdb.com/name/nm2497266) |
+| 声音 / 演员 | [Jay Taylor](https://www.imdb.com/name/nm2497266) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
-| 等级 | 5 |
-| 生命值 | 64 |
-| 护甲等级 | 13 |
-| 先攻 | +3 |
-| 经验值 | 75 |
+| 职业 | [战士](Fighter.md "Fighter") |
+| 副职 | [奥法骑士](Eldritch_Knight.md "Eldritch Knight") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 64 | 44 | 83 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 17 / (+3) | 16 / (+3) | 16 / (+3) | 15 / (+2) | 10 / (0) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -115,12 +128,12 @@
 
 ### 攻击与能力
 
-[星界步伐](Astral_Step.md "Astral Step") ()
+[星界步伐](Astral_Step.md "Astral Step")
 被银色雾气环绕，你传送到一个可见的未占用空间。
 
 范围：18 米 (60 英尺)
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
 消耗 6 米 (20 英尺) 的 [移动速度](Movement_speed.md "Movement Speed")。在你的回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "Short rest")
@@ -138,7 +151,7 @@
 
 范围：18 米 (60 英尺)
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
 
 伤害：5~14
 
@@ -152,7 +165,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
 
 伤害：5~14
 
@@ -162,7 +175,7 @@
 
 范围：18 米 (60 英尺)
 
-[冷冻射线](Ray_of_Frost.md "Ray of Frost") ()
+[冷冻射线](Ray_of_Frost.md "Ray of Frost")
 
 伤害：1~8
 
@@ -185,7 +198,7 @@
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
-[电爪](Shocking_Grasp.md "Shocking Grasp") ()
+[电爪](Shocking_Grasp.md "Shocking Grasp")
 
 伤害：1~8
 

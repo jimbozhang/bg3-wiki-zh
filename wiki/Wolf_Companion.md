@@ -44,7 +44,7 @@
 | 生命值 | 31 |  |  |  |  |
 | 护甲等级 | 16 |  |  |  |  |
 
-[传染啃咬](Infectious_Bite_(Wolf_Companion).md "传染啃咬（狼伙伴）") ()
+[传染啃咬](Infectious_Bite_(Wolf_Companion).md "传染啃咬（狼伙伴）")
 啃咬目标并可能使其[败血症](Septic_(Condition).md "败血症（状态）")。
 
 [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
@@ -73,7 +73,7 @@
 
 新能力：
 
-[残忍挥砍](Lupine_Slash.md "残忍挥砍") ()
+[残忍挥砍](Lupine_Slash.md "残忍挥砍")
 使用出现在你颚间的灵体剑攻击3米/10英尺范围内的附近目标。
 
 [兽性狂怒](Bestial_Fury.md "兽性狂怒")

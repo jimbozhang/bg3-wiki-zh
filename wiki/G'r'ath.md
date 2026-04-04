@@ -3,15 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Kerri McLean](https://www.imdb.com/name/nm1667723/) |
+| 声音 / 演员 | [Kerri McLean](https://www.imdb.com/name/nm1667723/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
-| 等级 | 5 |
-| 生命值 | 32 |
-| 护甲等级 | 15 |
-| 先攻 | +3 |
-| 经验值 | 75 |
+| 职业 | [掠夺者](Raider.md "掠夺者") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 32 | 22 | 41 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 17 / (+3) | 14 / (+2) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **掠夺者 G'r'ath** 是[审判官 W'wargaz](W'wargaz.md "W'wargaz")在[第一幕](Act_One.md "第一幕")期间抵达之前，伊雷珂养育间吉斯洋基社群的一名成员。
 
@@ -70,18 +96,18 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，掷两次远程伤害并使用较高结果。
 
 充能：[短休](Short_rest.md "短休")
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气包围，你传送至一个你能看到的未被占据的空间。
 
 范围：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 
 伤害：5~14
 
@@ -95,7 +121,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 
 伤害：5~14
 

@@ -17,7 +17,7 @@
 
 佩戴此物品获得：
 
-[迷踪步](Misty_Step.md "Misty Step") ()
+[迷踪步](Misty_Step.md "Misty Step")
 以2环法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

@@ -2,15 +2,27 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Andrew Wincott](https://www.imdb.com/name/nm1218328/) |
+| 声音 / 演员 | [Andrew Wincott](https://www.imdb.com/name/nm1218328/) |
+| 家乡 | [希望之邸](House_of_Hope.md "House of Hope"), [九层地狱](Nine_Hells.md "Nine Hells") |
+| 职业 | 交际花 |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [邪魔](Fiend.md "Fiend") |
 | 种族 | [梦魔](Incubus.md "Incubus") |
-| 等级 | 9 |
-| 生命值 | 169 |
-| 护甲等级 | 17 |
-| 先攻 | +5 |
-| 经验值 | 400 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 169 | 118 | 219 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +5 | +5 | +5 |
+| 熟练项 | +4 | +6 | +4 |
+| 重量 | 50 千克 (100 磅) | 50 千克 (100 磅) | 50 千克 (100 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 400 | 400 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 20 / (+5) | 13 / (+1) | 15 / (+2) | 12 / (+1) | 20 / (+5) |
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -122,7 +134,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(action).md "Claws (action)") ()
+[爪击](Claws_(action).md "Claws (action)")
 
 伤害: 7~13
 
@@ -132,7 +144,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[汲命之吻 (哈勒普)](Draining_Kiss_(Haarlep).md "Draining Kiss (Haarlep)") ()
+[汲命之吻 (哈勒普)](Draining_Kiss_(Haarlep).md "Draining Kiss (Haarlep)")
 
 对被你的[梦魔魅惑](Incubus_Charm.md "Incubus Charm") [魅惑](Charmed_(Condition).md "Charmed (Condition)") 的敌人施放致命之吻。
 
@@ -141,7 +153,7 @@
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 射程: 9 米 (30 英尺)
 
-[梦魔魅惑](Incubus_Charm.md "Incubus Charm") ()
+[梦魔魅惑](Incubus_Charm.md "Incubus Charm")
 
 魔法[魅惑](Incubus_Charmed_(Condition).md "Incubus Charmed (Condition)") 类人生物。
 

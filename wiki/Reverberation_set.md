@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | 喧嚣风暴之靴 | [鞋类](Footwear.md "鞋类") ([非护甲](Footwear#Non-Armour.md#非护甲 "鞋类")) | [奥术共振](Arcane_Echomalefaction.md "奥术共振")当穿戴者对敌对生物施加状态时，他们也会施加2回合的[残响](Reverberation_(Condition).md "残响 (状态)")。[[参见：错误](Arcane_Echomalefaction#Bugs.md#错误 "奥术共振")] |
 | 天崩手套 | [手套](Gloves.md "手套") ([非护甲](Handwear#Non-Armour.md#非护甲 "手部装备")) | [雷鸣转化](Thunderous_Conversion.md "雷鸣转化")当穿戴者造成[雷鸣](Thunder.md "雷鸣")、[闪电](Lightning.md "闪电")或[光耀](Radiant.md "光耀")伤害时，对目标施加2回合的[残响](Reverberation_(Condition).md "残响 (状态)")。 |
-| 玛科赫什基 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | [奥术增强](Arcane_Enchantment_(+1).md "奥术增强 (+1)")你获得+1加值到[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")检定。[奥术蓄能](Arcane_Battery.md "奥术蓄能")用这根法杖的力量减轻施法的奥术负担。你施放的下一个法术不消耗[法术位](Spell_Slot.md "法术位")。[克雷斯卡的恩惠](Kereska's_Favour.md "克雷斯卡的恩惠") () 用源自龙神克雷斯卡的元素能量灌注自身。( 重充：[短休](Short_rest.md "短休")。) |
+| 玛科赫什基 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | [奥术增强](Arcane_Enchantment_(+1).md "奥术增强 (+1)")你获得+1加值到[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")检定。[奥术蓄能](Arcane_Battery.md "奥术蓄能")用这根法杖的力量减轻施法的奥术负担。你施放的下一个法术不消耗[法术位](Spell_Slot.md "法术位")。[克雷斯卡的恩惠](Kereska's_Favour.md "克雷斯卡的恩惠") 用源自龙神克雷斯卡的元素能量灌注自身。( 重充：[短休](Short_rest.md "短休")。) |
 | 颤脊护符 | [护符](Amulet.md "护符") ([非护甲](Handwear#Non-Armour.md#非护甲 "手部装备")) | [爆裂共鸣](Crackling_Resonance.md "爆裂共鸣")当穿戴者使用远程[法术攻击](Spell_Attack.md "法术攻击")造成伤害时，对目标施加2回合的[残响](Reverberation_(Condition).md "残响 (状态)")。 |
 
 ## 与残响交互的物品

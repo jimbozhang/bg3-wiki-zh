@@ -17,7 +17,7 @@
 
 穿戴此物品获得：
 
-[荆雹术](Hail_of_Thorns.md "Hail of Thorns") ()
+[荆雹术](Hail_of_Thorns.md "Hail of Thorns")
 以1环法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

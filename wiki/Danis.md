@@ -3,16 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Dario Coates](https://www.imdb.com/name/nm2872353/) |
+| 声音 / 演员 | [Dario Coates](https://www.imdb.com/name/nm2872353/) |
+| 家庭 | [贝克斯](Bex.md "Bex")（妻子） |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [提夫林](Tiefling.md "Tiefling") |
-| 等级 | 1 |
-| 生命值 | 8 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 9 m (30 ft) |
-| 经验值 | 1 |
+| 亚种 | [阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 28 | 19 | 36 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 12 m (40 ft) | 12 m (40 ft) | 12 m (40 ft) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -116,7 +128,7 @@
 
 ### 攻击与能力
 
-[徒手打击](Unarmed_Strike.md "Unarmed Strike") ()
+[徒手打击](Unarmed_Strike.md "Unarmed Strike")
 
 伤害：1 + 调整值
 

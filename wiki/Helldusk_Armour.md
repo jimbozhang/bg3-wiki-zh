@@ -22,7 +22,7 @@
 
 穿戴此物品者获得：
 
-[飞行术](Fly_(bonus_action).md "Fly (bonus action)") ()
+[飞行术](Fly_(bonus_action).md "Fly (bonus action)")
 赋予自身[飞行](Fly_(class_action).md "Fly (class action)")能力。（充能：[长休](Long_Rest.md "Long rest")。）
 
 [黯狱护甲](Helldusk_Armour_(passive_feature).md)

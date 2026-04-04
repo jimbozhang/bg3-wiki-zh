@@ -22,20 +22,20 @@ UID `MAG_Gortash_HeavyCrossbow` UUID `45d888b5-e002-4bb8-85d7-6df569aceaa4` Stat
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") ()
+[穿刺射击](Piercing_Shot.md "穿刺射击")
 造成常规伤害并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")，导致攻击时造成额外伤害。（充能：[短休](Short_rest.md "短休")。）
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") ()
+[备战（远程）](Brace_(Ranged).md "备战（远程）")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，投掷两次远程伤害并使用最高结果。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[炫目射线](Dazzling_Ray.md "炫目射线") ()
+[炫目射线](Dazzling_Ray.md "炫目射线")
 释放一道耀眼的光束，[目盲](Blinded_(Condition).md "目盲（状态）")其路径上的所有生物。（充能：[短休](Short_rest.md "短休")。）
 
-[照亮射击](Illuminating_Shot.md "照亮射击") ()
+[照亮射击](Illuminating_Shot.md "照亮射击")
 发射一道闪烁的弩矢，对目标施加 1 回合的[光耀法球](Radiating_Orb_(Condition).md "光耀法球（状态）")。
 
 ## 获取地点

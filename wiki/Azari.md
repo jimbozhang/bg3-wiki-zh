@@ -2,16 +2,43 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Steve Chusak](https://www.imdb.com/name/nm7067240/) |
+| 声音 / 演员 | [Steve Chusak](https://www.imdb.com/name/nm7067240/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 8 |
-| 生命值 | 62 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 200 |
+| 职业 | [战士](Fighter.md "战士") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 62 | 59 | 64 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
 
 **拳头阿扎里**是[人类](Human.md "人类")[战士](Fighter.md "战士")，也是[焰拳](Flaming_Fist.md "焰拳")的一员。她可以在[第三幕](Act_Three.md "第三幕")期间于[飞龙关](Wyrm's_Crossing.md "飞龙关")找到。
 
@@ -39,7 +66,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [长戟](Halberd.md "长戟")
+[劈砍](Cleave.md "劈砍") – [长戟](Halberd.md "长戟")
 
 伤害：
 
@@ -49,7 +76,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [长戟](Halberd.md "长戟")
+[割裂](Lacerate.md "割裂") – [长戟](Halberd.md "长戟")
 
 伤害：6~15
 
@@ -63,7 +90,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长戟](Halberd.md "长戟")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长戟](Halberd.md "长戟")
 
 伤害：6~15
 
@@ -73,7 +100,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [标枪](Javelin.md "标枪")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [标枪](Javelin.md "标枪")
 
 伤害：6~11
 
@@ -87,7 +114,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [长戟](Halberd.md "长戟")
+[突进攻击](Rush_Attack.md "突进攻击") – [长戟](Halberd.md "长戟")
 
 伤害：6~9
 
@@ -99,7 +126,7 @@
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[投掷](Throw.md "投掷") () – [标枪](Javelin.md "标枪")
+[投掷](Throw.md "投掷") – [标枪](Javelin.md "标枪")
 
 伤害：6~11
 

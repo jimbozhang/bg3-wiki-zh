@@ -14,7 +14,7 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[邪术
 
 ### 等级 1
 
-[妖精仪态](Fey_Presence.md "妖精仪态") ()
+[妖精仪态](Fey_Presence.md "妖精仪态")
 使用妖精界的迷人、扰人魔法，使附近的敌人[魅惑](Charmed_(Condition).md "魅惑（状态）")或[恐慌](Frightened_(Condition).md "恐慌（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 扩展法术列表

@@ -25,7 +25,7 @@ UID `S_FOR_ShovelFlavourItem_Knife` UUID `26398e41-8636-4fd5-bc12-d7971dfe1ca8` 
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

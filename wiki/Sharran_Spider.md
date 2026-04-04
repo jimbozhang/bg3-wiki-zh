@@ -15,13 +15,13 @@
 
 ### 攻击与能力
 
-[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃") ()
+[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃")
 向上、向下和横向跳跃。你的[力量](Strength.md "力量")影响你能跳多远。
 
 射程：11 m (37 ft)
 充能：每回合
 
-[啃咬](Bite_(Sharran_Spider).md "啃咬（莎尔信徒蜘蛛）") ()
+[啃咬](Bite_(Sharran_Spider).md "啃咬（莎尔信徒蜘蛛）")
 
 伤害：1~8
 

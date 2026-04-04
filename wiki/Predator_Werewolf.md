@@ -54,7 +54,7 @@
 
 ### 攻击与属性
 
-[爪击](Claws_(action).md "爪击 (动作)") ()
+[爪击](Claws_(action).md "爪击 (动作)")
 
 伤害: 6~12
 
@@ -64,7 +64,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)") ()
+[多重攻击](Multiattack_(Werewolf).md "多重攻击 (狼人)")
 
 伤害: 14~44
 

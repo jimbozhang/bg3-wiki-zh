@@ -3,15 +3,39 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 声音 / 演员 | [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 家乡 | [翠绿林地](Emerald_Grove.md "Emerald Grove") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 4 |
-| 生命值 | 31 |
-| 护甲等级 | 12 |
-| 先攻 | 0 |
-| 经验值 | 40 |
+| 职业 | [德鲁伊](Druid.md "Druid") |
+| 副职 | [月亮结社](Circle_of_the_Moon.md "Circle of the Moon") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 31 | 21 | 40 |
+| 护甲等级 | 12 | 12 | 12 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 40 | 40 | 40 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 10 / (0) | 14 / (+2) | 12 / (+1) | 18 / (+4) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
 **拉斯**是 [翠绿林地](Emerald_Grove.md "Emerald Grove") 中的一名人类德鲁伊，出现在 [第一幕](Act_One.md "Act One")。
 
@@ -57,7 +81,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨棒](Greatclub.md "Greatclub")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨棒](Greatclub.md "Greatclub")
 
 伤害：2~9
 

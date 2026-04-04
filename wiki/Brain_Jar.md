@@ -10,12 +10,6 @@
 
 - 平衡
 
-## 平衡难度属性
-
-### 生命值
-
-1
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - - - - - **贮脑罐**，也被称为心灵庇护，是[鹦鹉螺](Nautiloid.md "鹦鹉螺")上发现的一种环境杂物。它有几种视觉变体。被摧毁时，会生成一片[腐蚀性卤水](Caustic_Brine.md "Caustic Brine")[地表](Surface.md "Surface")。

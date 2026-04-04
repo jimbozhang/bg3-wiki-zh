@@ -16,7 +16,7 @@
 
 - [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw") +1
 
-[火焰射线](Rays_of_Fire_(Cantrip).md "火焰射线 (戏法)") ()
+[火焰射线](Rays_of_Fire_(Cantrip).md "火焰射线 (戏法)")
 以戏法形式施放（充能：[短休](Short_rest.md "短休")。）
 
 [地狱之锐利](Infernal_Acuity.md "地狱之锐利")

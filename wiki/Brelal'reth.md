@@ -3,16 +3,39 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [哈丽特·黑尔](https://www.imdb.com/name/nm9839003/) |
+| 声音 / 演员 | [哈丽特·黑尔](https://www.imdb.com/name/nm9839003/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
-| 等级 | 5 |
-| 生命值 | 41 |
-| 护甲等级 | 17 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 75 |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 41 | 28 | 53 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 17 / (+3) | 14 / (+2) | 15 / (+2) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [吉斯洋基招架](Githyanki_Parry.md "Githyanki Parry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [吉斯洋基招架](Githyanki_Parry.md "Githyanki Parry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **战士 布雷拉尔雷斯**是[审判官 瓦尔加兹](W'wargaz.md "W'wargaz")在[第一幕](Act_One.md "Act One")期间的随从之一。
 
@@ -44,7 +67,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[劈砍](Cleave.md "Cleave") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：
 
@@ -67,13 +90,13 @@
 [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 
-[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "Githyanki Psionics: Jump") ()
+[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "Githyanki Psionics: Jump")
 使生物的[跳跃](Jump.md "Jump")距离变为三倍。
 
 近战：1.5 米 (5 英尺)
 充能：[长休](Long_Rest.md "Long rest")
 
-[割裂](Lacerate.md "Lacerate") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[割裂](Lacerate.md "Lacerate") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：6~16
 
@@ -87,7 +110,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：6~16
 
@@ -97,7 +120,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：1~4
 
@@ -109,7 +132,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[回气](Second_Wind.md "Second Wind") ()
+[回气](Second_Wind.md "Second Wind")
 
 治疗：1~10 + 调整值
 

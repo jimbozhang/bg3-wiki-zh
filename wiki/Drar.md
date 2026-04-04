@@ -89,7 +89,7 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")。在你的回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "Short rest")
@@ -109,7 +109,7 @@
 [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：3~12
 
@@ -123,7 +123,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：3~12
 

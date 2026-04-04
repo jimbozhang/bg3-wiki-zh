@@ -48,7 +48,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [手斧](Handaxe.md "手斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [手斧](Handaxe.md "手斧")
 
 伤害：5~10
 
@@ -58,7 +58,7 @@
 
 近战：1.5 米（5 英尺）
 
-[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") () – [手斧](Handaxe.md "手斧")
+[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") – [手斧](Handaxe.md "手斧")
 
 伤害：5~10
 

@@ -2,16 +2,45 @@
 
 | | |
 | --- | --- |
-| 配音 | - [David Alwyn](https://www.imdb.com/name/nm4753587/) |
+| 声音 / 演员 | [David Alwyn](https://www.imdb.com/name/nm4753587/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [不死生物](Undead.md "Undead") |
 | 种族 | [暗夜法官](Dark_Justiciar.md "Dark Justiciar") |
-| 等级 | 7 |
-| 生命值 | 34 |
-| 护甲等级 | 14 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 60 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 34 | 23 | 44 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 30 千克 (60 磅) | 30 千克 (60 磅) | 30 千克 (60 磅) |
+| 经验值 | 60 | 60 | 60 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 14 / (+2) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [影子召唤](Living_Shadow.md "Living Shadow")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [幽影隐匿](Shadow_Stealth.md "Shadow Stealth")
+- [莎尔视界](Shar's_Sight.md "Shar's Sight")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [影子召唤](Living_Shadow.md "Living Shadow")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [幽影隐匿](Shadow_Stealth.md "Shadow Stealth")
+- [莎尔视界](Shar's_Sight.md "Shar's Sight")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -42,7 +71,7 @@
 
 ### 攻击与能力
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") ()
+[远程攻击](Ranged_Attack.md "Ranged Attack")
 
 伤害：
 
@@ -52,7 +81,7 @@
 
 范围：18 米 (60 英尺)
 
-[暗影步](Shadow_Step.md "Shadow Step") ()
+[暗影步](Shadow_Step.md "Shadow Step")
 从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
 
 范围：18 米 (60 英尺)

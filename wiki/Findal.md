@@ -72,7 +72,7 @@
 [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[毒气喷溅](Poison_Spray.md "毒气喷溅") ()
+[毒气喷溅](Poison_Spray.md "毒气喷溅")
 
 伤害：1~12
 

@@ -24,9 +24,9 @@
 | 移动速度 | 15米（50英尺） |  |  |  |  |
 | 体型 | 微型 |  |  |  |  |
 
-[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击（恐鸦）") ()
+[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击（恐鸦）")
 
-[啄咬眼珠](Rend_Vision_(Murderous_Crow).md "啄咬眼珠（凶残乌鸦）") ()
+[啄咬眼珠](Rend_Vision_(Murderous_Crow).md "啄咬眼珠（凶残乌鸦）")
 攻击生物的眼睛并使其[目盲](Blinded_(Condition).md "目盲（状态）")。
 
 飞至目标位置

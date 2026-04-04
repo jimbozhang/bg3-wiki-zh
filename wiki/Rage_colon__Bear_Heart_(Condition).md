@@ -22,7 +22,7 @@
 
 ## 赋予
 
-[结束狂暴](End_Rage.md "End Rage") ()
+[结束狂暴](End_Rage.md "End Rage")
 使用附赠动作结束你的狂暴。
 
 ## 注释

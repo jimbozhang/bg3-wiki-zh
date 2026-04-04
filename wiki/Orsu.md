@@ -3,14 +3,33 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
+| 家乡 | [翠绿林地](Emerald_Grove.md "Emerald Grove") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [野兽](Beast.md "Beast") |
 | 种族 | [熊](Bear.md "Bear") |
+
+| | |
+| --- | --- |
 | 等级 | 3 |
 | 生命值 | 19 |
 | 护甲等级 | 11 |
 | 先攻 | 0 |
+| 熟练项 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 200 千克 (400 磅) |
+| 暗视 | 0 米 (0 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 10 / (0) | 14 / (+2) | 2 / (-4) | 12 / (+1) | 7 / (-2) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **奥苏**是[第一幕](Act_One.md "Act_One")期间翠绿林地之环的一只熊。
 
@@ -31,7 +50,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Bear).md "Bite (Bear)") ()
+[啃咬](Bite_(Bear).md "Bite (Bear)")
 
 伤害: 3~10
 
@@ -41,7 +60,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[爪击](Claws_(Bear_Wild_Shape).md "Claws (Bear Wild Shape)") ()
+[爪击](Claws_(Bear_Wild_Shape).md "Claws (Bear Wild Shape)")
 
 伤害: 4~10
 

@@ -16,7 +16,7 @@
 
 ## 赋予
 
-[激活巫术箭](Activate_Witch_Bolt.md "Activate Witch Bolt") ()
+[激活巫术箭](Activate_Witch_Bolt.md "Activate Witch Bolt")
 激活电弧并造成 1d12[闪电](Lightning.md "Lightning")。
 
 ## 巫术箭来源

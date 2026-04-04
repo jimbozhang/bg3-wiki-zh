@@ -47,7 +47,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [钉头锤](Morningstar.md "钉头锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [钉头锤](Morningstar.md "钉头锤")
 
 伤害：3~10
 
@@ -57,7 +57,7 @@
 
 近战：1.5 m (5 ft)
 
-[投掷](Throw.md "投掷") () – [标枪](Javelin.md "标枪")
+[投掷](Throw.md "投掷") – [标枪](Javelin.md "标枪")
 
 伤害：3~8
 

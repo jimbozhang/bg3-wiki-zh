@@ -24,7 +24,7 @@ UID `WPN_HUM_Handaxe_A_1` UUID `7a05135d-b285-4186-8a32-a870f1684b60` ### 武器
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

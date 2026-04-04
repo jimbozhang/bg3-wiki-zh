@@ -43,10 +43,10 @@
 | [荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger_(Condition).md "荒野形态：剑齿虎 (状态)") | 变形为剑齿虎 |
 | [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon_(Condition).md "荒野形态：水元素执政官 (状态)") | 变形为水元素执政官 |
 
-[灰烬猛击](Cinderous_Swipe.md "灰烬猛击") ()
+[灰烬猛击](Cinderous_Swipe.md "灰烬猛击")
 在猛击敌人时制造一片绽放的火焰锥形区域。
 
-[元素扭曲](Elemental_Warp.md "元素扭曲") ()
+[元素扭曲](Elemental_Warp.md "元素扭曲")
 被银色雾气包围，你传送至一个可见的空位。
 
 飞至目标位置
@@ -57,10 +57,10 @@
 [月光修复](Lunar_Mend.md "月光修复") (+ )
 消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。每消耗一个法术位，你恢复1d8[治疗](Healing.md "治疗")。
 
-[元素执政官自燃](Myrmidon's_Immolation.md "元素执政官自燃") ()
+[元素执政官自燃](Myrmidon's_Immolation.md "元素执政官自燃")
 以炽热的原始火焰点燃自身，使你[加速](Hastened_(Condition).md "加速 (状态)")。
 
-[炽热打击](Scorching_Strike.md "炽热打击") ()
+[炽热打击](Scorching_Strike.md "炽热打击")
 以炽热的打击猛击敌人，并可能使目标[燃烧](Burning_(Condition).md "燃烧 (状态)")。
 
 [炼狱叱喝](Hellish_Rebuke_(passive_feature).md "炼狱叱喝 (被动特性)")

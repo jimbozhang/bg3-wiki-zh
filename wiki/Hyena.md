@@ -51,7 +51,7 @@
 
 ### 攻击和能力
 
-[啃咬](Bite_(Hyena).md "Bite (Hyena)") ()
+[啃咬](Bite_(Hyena).md "Bite (Hyena)")
 
 伤害: 3~9
 

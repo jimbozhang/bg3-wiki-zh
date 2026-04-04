@@ -28,7 +28,7 @@ UID `WPN_Trident_Water_Myrmidon_ConjureElemental` UUID `ba86b029-9232-4ad2-9e2d-
 
 该武器还提供以下效果：
 
-[寒冬打击](Hiemal_Strike.md "Hiemal Strike") ()
+[寒冬打击](Hiemal_Strike.md "Hiemal Strike")
 用你的霜覆三叉戟刺穿一个生物并使其[冻僵](Chilled_(Condition).md "Chilled (Condition)")。
 
 ## 获取地点

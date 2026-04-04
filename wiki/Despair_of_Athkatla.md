@@ -34,7 +34,7 @@ UID `MAG_LC_Lorroakan_Quarterstaff` UUID `e8eca87d-e01f-40d3-8097-a787602f1dc9` 
 
 _如果你有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[摔绊](Topple.md "Topple") ()
+[摔绊](Topple.md "Topple")
 挥击一个生物以使其[倒伏](Prone_(Condition).md "Prone (Condition)")。 (充能：[短休](Short_rest.md "Short rest")。)
 
 ## 获取地点

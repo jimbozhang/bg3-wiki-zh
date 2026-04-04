@@ -45,7 +45,7 @@
 | 10 | 57 | 1d8 |
 | 12 | 74 | 1d10 |
 
-[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃") ()
+[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃")
 向上、向下或横向跳跃。你的[力量](Strength.md "力量")影响跳跃距离。（充能：每回合。）
 
 [解除变形](Dismiss_Wild_Shape.md "解除变形")

@@ -46,18 +46,18 @@
 [解除变形](Dismiss_Wild_Shape.md "解除变形")
 解除你的荒野形态并变回原始形态。
 
-[元素扭曲](Elemental_Warp.md "元素扭曲") ()
+[元素扭曲](Elemental_Warp.md "元素扭曲")
 被银色雾气环绕，你传送至一个可见的空位。
 
-[三棱冰柱](Explosive_Icicle.md "三棱冰柱") ()
+[三棱冰柱](Explosive_Icicle.md "三棱冰柱")
 猛投三把由闪亮冰晶锻造的三叉戟，它们会穿透目标并在命中时创造冰面。
 
 飞至目标位置
 
-[治愈薄雾](Healing_Vapours.md "治愈薄雾") ()
+[治愈薄雾](Healing_Vapours.md "治愈薄雾")
 散发出你元素躯体的水汽，为附近生物恢复2d8⁠⁠[治疗](Healing.md "治疗")。
 
-[寒冬打击](Hiemal_Strike.md "寒冬打击") ()
+[寒冬打击](Hiemal_Strike.md "寒冬打击")
 用你的霜覆三叉戟刺穿一个生物并使其[冻僵](Chilled_(Condition).md "冻僵 (状态)")。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )

@@ -36,10 +36,10 @@
 | 生命值 | 49 |  |  |  |  |
 | 护甲等级 | 11 |  |  |  |  |
 
-[召唤黑暗](Beckoning_Darkness.md "召唤黑暗") ()
+[召唤黑暗](Beckoning_Darkness.md "召唤黑暗")
 诅咒一个生物被黑暗缠绕。如果它进入或在其回合开始时处于轻度或重度遮蔽区域，则受到 2d8[黯蚀](Necrotic.md "黯蚀") 伤害。
 
-[冻僵](Bone_Chill.md "冻僵") ()
+[冻僵](Bone_Chill.md "冻僵")
 阻止目标治疗，直至你的下一回合。目标无法协助 [倒地](Downed_(Condition).md "倒地 (状态)") 的角色。不死生物目标在 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。
 
 [黑暗术](Darkness.md "黑暗术") (+ )

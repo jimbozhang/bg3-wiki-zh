@@ -2,14 +2,27 @@
 
 | | |
 | --- | --- |
+| 全名 | 兹洛布 (Zlorb) |
+| 声优 / 演员 | [菲内拉·弗吉 (Fenella Fudge)](https://www.imdb.com/name/nm6233172/) |
+| 角色 | [随从](Attached_Follower.md "随从") |
 | 体型 | [大型](Large.md "大型") |
 | 类型 | [野兽](Beast.md "野兽") |
 | 种族 | [野兽](Beast.md "野兽") |
-| 等级 | 3 |
-| 生命值 | 15 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 15 | 15 | 15 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 600 千克 (1200 磅) | 600 千克 (1200 磅) | 600 千克 (1200 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 10 / (0) | 14 / (+2) | 2 / (-4) | 10 / (0) | 4 / (-3) |
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -256,7 +269,7 @@
 
 ### 攻击与能力（第二幕）
 
-[赭色唾液](Ochre_Sputum_(acid).md "赭色唾液（强酸）") ()
+[赭色唾液](Ochre_Sputum_(acid).md "赭色唾液（强酸）")
 
 伤害：2~12
 
@@ -268,27 +281,27 @@
 
 ### 攻击与能力（第三幕）
 
-[切换形态：恐狼](Alternate_Form_colon__Dire_Wolf.md "切换形态：恐狼") ()
+[切换形态：恐狼](Alternate_Form_colon__Dire_Wolf.md "切换形态：恐狼")
 化身为[恐狼](Dire_Wolf.md "恐狼")。
 
 充能：每回合
 
-[切换形态：牛头人](Alternate_Form_colon__Minotaur.md "切换形态：牛头人") ()
+[切换形态：牛头人](Alternate_Form_colon__Minotaur.md "切换形态：牛头人")
 化身为[牛头人](Minotaur.md "牛头人")。
 
 充能：每回合
 
-[切换形态：相位蜘蛛](Alternate_Form_colon__Phase_Spider.md "切换形态：相位蜘蛛") ()
+[切换形态：相位蜘蛛](Alternate_Form_colon__Phase_Spider.md "切换形态：相位蜘蛛")
 化身为[相位蜘蛛](Phase_Spider.md "相位蜘蛛")。
 
 充能：每回合
 
-[切换形态：幽影獒犬](Alternate_Form_colon__Shadow_Mastiff.md "切换形态：幽影獒犬") ()
+[切换形态：幽影獒犬](Alternate_Form_colon__Shadow_Mastiff.md "切换形态：幽影獒犬")
 化身为[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")。
 
 充能：每回合
 
-[赭色唾液](Ochre_Sputum_(acid).md "赭色唾液（强酸）") ()
+[赭色唾液](Ochre_Sputum_(acid).md "赭色唾液（强酸）")
 
 伤害：2~12
 
@@ -298,7 +311,7 @@
 
 范围：12 米 (40 英尺)
 
-[伪足](Pseudopod.md "伪足") ()
+[伪足](Pseudopod.md "伪足")
 
 伤害：8~28
 

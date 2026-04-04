@@ -27,7 +27,7 @@
 
 ### 攻击与能力
 
-[冻僵](Bone_Chill.md "冻僵") ()
+[冻僵](Bone_Chill.md "冻僵")
 
 伤害: 1~8
 
@@ -37,7 +37,7 @@
 
 射程: 18 米 (60 英尺)
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
 
 伤害: 3~15
 
@@ -62,7 +62,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程: 18 米 (60 英尺)
 
-[孵化死亡](Incubate_Death.md "孵化死亡") ()
+[孵化死亡](Incubate_Death.md "孵化死亡")
 
 伤害: 6~27
 
@@ -73,7 +73,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程: 24 米 (80 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
 
 伤害: 3~15
 
@@ -90,7 +90,7 @@
 
 射程: 18 米 (60 英尺)
 
-[韧性](Tenacity.md "韧性") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
+[韧性](Tenacity.md "韧性") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
 
 伤害:
 
@@ -98,7 +98,7 @@
 
 当你攻击未命中时，仍造成等于你的 [力量](Strength.md "力量") [调整值](Ability_Scores.md#Ability_score_modifiers "属性值") 的 ⁠[钝击](Bludgeoning.md "钝击")伤害（至少 1 点）。
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
+[弱化打击](Weakening_Strike.md "弱化打击") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
 
 伤害: 3~6
 

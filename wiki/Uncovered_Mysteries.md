@@ -17,7 +17,7 @@
 
 佩戴此物品的角色获得：
 
-[侦测思想](Detect_Thoughts.md "侦测思想") ()
+[侦测思想](Detect_Thoughts.md "侦测思想")
 作为 2 级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

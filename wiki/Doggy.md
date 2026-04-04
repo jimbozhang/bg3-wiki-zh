@@ -50,7 +50,7 @@
 
 ### 攻击与能力
 
-[阴影之噬](Shadowjaw_Bite.md "阴影之噬") ()
+[阴影之噬](Shadowjaw_Bite.md "阴影之噬")
 
 伤害: 5~15
 

@@ -35,7 +35,7 @@
 
 ## 攻击和能力
 
-[爪击](Claws_(Danse_Macabre).md "爪击 (死亡之舞)") ()
+[爪击](Claws_(Danse_Macabre).md "爪击 (死亡之舞)")
 
 伤害: 5~15
 
@@ -56,7 +56,7 @@
 
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 
-[吞噬](Devour_(Animate_Dead_Ghoul).md "吞噬 (操纵死尸食尸鬼)") ()
+[吞噬](Devour_(Animate_Dead_Ghoul).md "吞噬 (操纵死尸食尸鬼)")
 
 伤害: 6~33
 

@@ -11,13 +11,13 @@
 
 ## 赋予
 
-[班恩的紧握之拳](The_Closed_Fist_of_Bane.md "The Closed Fist of Bane") ()
+[班恩的紧握之拳](The_Closed_Fist_of_Bane.md "The Closed Fist of Bane")
 召唤班恩的神圣形象——一只悬在空中的拳头，直到回合结束前落下，碾压其下的任何人，造成12d10点[力场](Force.md "Force")伤害。
 
-[暴君誓缚](Tyrant's_Bindings.md "Tyrant's Bindings") ()
+[暴君誓缚](Tyrant's_Bindings.md "Tyrant's Bindings")
 创造沉重的魔法锁链，束缚你的目标，使其[移动](Movement_speed.md "Movement Speed")速度减半。如果锁链在你的下一回合开始时仍然存在，它们会断裂，对所有目标造成8d8点[力场](Force.md "Force")伤害。
 
-[强效徒手打击](Empowered_Unarmed_Strike.md "Empowered Unarmed Strike") ()
+[强效徒手打击](Empowered_Unarmed_Strike.md "Empowered Unarmed Strike")
 受到班恩的邪恶力量祝福，造成1d4 + 力量调整值点[钝击](Bludgeoning.md "Bludgeoning")伤害和4d8 + 力量调整值点[力场](Force.md "Force")伤害。（充能：每回合。）
 
 [额外攻击](Extra_Attack.md "Extra Attack")

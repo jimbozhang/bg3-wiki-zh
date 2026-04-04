@@ -16,7 +16,7 @@
 
 ## 战斗
 
-[传染啃咬](Infectious_Bite_(Rat).md "传染啃咬 (老鼠)") ()
+[传染啃咬](Infectious_Bite_(Rat).md "传染啃咬 (老鼠)")
 
 伤害：1
 

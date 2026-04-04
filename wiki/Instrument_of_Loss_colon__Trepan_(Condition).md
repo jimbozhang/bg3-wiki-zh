@@ -18,7 +18,7 @@
 
 ## 赋予
 
-[环锯术](Terror_Trepan.md "环锯术") ()
+[环锯术](Terror_Trepan.md "环锯术")
 钻入敌人的大脑并使其[恐慌](Frightened_(Condition).md "恐慌 (状态)")。(充能：每回合。)
 
 ## 丧失器械：手术圆锯的来源

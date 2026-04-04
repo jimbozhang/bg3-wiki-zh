@@ -34,7 +34,7 @@ UID `SHA_SharSpear` UUID `d590884d-55a2-4136-9777-531ee7d53f7e` Stats `SHA_SharS
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")状态。（充能：[短休](Short_rest.md "短休"）。）
 
 ## 获取地点

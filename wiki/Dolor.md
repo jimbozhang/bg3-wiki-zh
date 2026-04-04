@@ -173,8 +173,6 @@
 
 可以使用[反应](Reaction.md "Reaction")将一次命中的伤害减半。
 
-属性
-
 **多洛**<sup>[\[1\]](#cite_note-1)</sup>是一名连环杀手，试图通过打动[谋杀裁判所](Murder_Tribunal.md "Murder Tribunal")来获得巴尔教徒的_不洁刺客_称号。他是[费蓊·金磨](Ffion_Goldgrind.md "Ffion Goldgrind")的儿子，费蓊曾是[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")的性工作者，后被多洛谋杀。他首次出现时使用化名**梅泽里**大师。
 
 > “
@@ -207,7 +205,7 @@
 
 ### 攻击与能力
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "Sneak Attack (Melee)") ()
+[偷袭（近战）](Sneak_Attack_(Melee).md "Sneak Attack (Melee)")
 
 伤害：1~6
 
@@ -222,7 +220,7 @@
 射程：普通武器射程
 充能：每回合
 
-[投掷](Throw.md "Throw") () – [噩梦馈赠](Karabasan's_Gift.md "Karabasan's Gift")
+[投掷](Throw.md "Throw") – [噩梦馈赠](Karabasan's_Gift.md "Karabasan's Gift")
 
 伤害：
 

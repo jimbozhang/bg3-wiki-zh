@@ -30,7 +30,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短矛](Spear.md "短矛")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短矛](Spear.md "短矛")
 
 伤害：6~11
 
@@ -40,7 +40,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [短矛](Spear.md "短矛")
+[突进攻击](Rush_Attack.md "突进攻击") – [短矛](Spear.md "短矛")
 
 伤害：6~9
 
@@ -52,7 +52,7 @@
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[投掷](Throw.md "投掷") () – [标枪](Javelin.md "标枪")
+[投掷](Throw.md "投掷") – [标枪](Javelin.md "标枪")
 
 伤害：6~11
 

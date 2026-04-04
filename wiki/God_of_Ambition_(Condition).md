@@ -16,13 +16,13 @@
 
 ## 赋予能力
 
-[神圣欢宴](Divine_Revelry.md "神圣欢宴") ()
+[神圣欢宴](Divine_Revelry.md "神圣欢宴")
 从深水城之口召唤一桶影暗麦酒，并对所有附近生物施放[奥图迷舞](Otto's_Irresistible_Dance_(Condition).md "奥图迷舞 (状态)")。
 
-[塑形翼猫](Formsculpt_colon__Tressym.md "塑形：翼猫") ()
+[塑形翼猫](Formsculpt_colon__Tressym.md "塑形：翼猫")
 将一个生物的形态重塑为盖尔心爱宠物的模样。
 
-[毁灭真言](Power_Word_colon__Ruin.md "毁灭真言") ()
+[毁灭真言](Power_Word_colon__Ruin.md "毁灭真言")
 向盖尔编织的魔网低语灾难之词，召唤三道纯粹的毁灭光束，每道造成 10d6+40⁠⁠[力场](Force.md "力场") 伤害。
 
 ## 状态：可能性灵光 (光环)

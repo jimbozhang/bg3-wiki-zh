@@ -2,15 +2,50 @@
 
 | | |
 | --- | --- |
-| 体型 | [中级](Medium.md "中级") |
+| 全名 | 珍妮维尔·圣叶（原名） |
+| 性别 | 女性 |
+| 声优 / 演员 | [詹妮弗·英格利希](https://www.imdb.com/name/nm10804818/) |
+| 主笔 | 约翰·科科伦 |
+| 角色 | [起源角色](Origin_characters.md "起源角色") |
+| 家庭 | [阿内尔·圣叶](Arnell_Hallowleaf.md "阿内尔·圣叶")（父亲） |
+| 家乡 | [月出镇](Blighted_Village.md "染疫村落") |
+| 体型 | [中型](Medium.md "中型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半精灵](Half-Elf.md "半精灵") |
+| 亚种 | [半高精灵](High_Half-Elf.md "半高精灵") |
+| 职业 | [牧师](Cleric.md "牧师") |
+| 副职 | [诡术领域](Trickery_Domain.md "诡术领域") |
+| 神祇 | [莎尔](Shar.md "莎尔") / [塞伦涅](Sel%C3%BBne.md "塞伦涅") |
+| 背景 | [侍僧](Acolyte.md "侍僧")<sup>[\[1\]](#cite_note-1)</sup> |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 生命值 | 10 |
 | 护甲等级 | 15 |
 | 先攻 | +1 |
+| 熟练项 | +2 |
+| 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) |
 
-属性
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 13 / (+1) | 13 / (+1) | 14 / (+2) | 10 / (0) | 17 / (+3) | 8 / (-1) |
+
+**特性**
+
+- [民兵](Civil_Militia.md "民兵")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [畏狼](Fear_of_Wolves.md "畏狼")
+
+**特性**
+
+- [民兵](Civil_Militia.md "民兵")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [畏狼](Fear_of_Wolves.md "畏狼")
 
 **影心**（原名珍妮维尔<sup>[\[2\]](#cite_note-2)</sup>·圣叶）是一位[起源角色](Origin_characters.md "起源角色")和可招募的[伙伴](Companion.md "伙伴")，可被任何性别的角色[攻略](Romance.md "攻略")。她是[半高精灵](High_Half-Elf.md "半高精灵")和[诡术领域](Trickery_Domain.md "诡术领域")[牧师](Cleric.md "牧师")，拥有[侍僧](Acolyte.md "侍僧")背景。影心最初在[序幕](Prologue.md "序幕")期间的[鹦鹉螺](Nautiloid.md "鹦鹉螺")上被找到，她作为临时伙伴出现，并可在[第一幕](Act_One.md "第一幕")的各个地点被正式招募。
 

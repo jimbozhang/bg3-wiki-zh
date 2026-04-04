@@ -43,7 +43,7 @@
 | [荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger_(Condition).md "荒野形态：剑齿虎 (状态)") | 荒野形态变为剑齿虎 |
 | [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon_(Condition).md "荒野形态：水元素执政官 (状态)") | 荒野形态变为水元素执政官 |
 
-[腐蚀唾液](Corrosive_Spit.md "腐蚀唾液") ()
+[腐蚀唾液](Corrosive_Spit.md "腐蚀唾液")
 向目标喷洒腐蚀性液体，缓慢降低其[护甲等级](Armour_Class.md "护甲等级")。
 
 [解除变形](Dismiss_Wild_Shape.md "解除变形")

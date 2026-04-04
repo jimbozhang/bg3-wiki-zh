@@ -27,7 +27,7 @@
 
 ### 攻击与能力
 
-[冻僵](Bone_Chill.md "Bone Chill") ()
+[冻僵](Bone_Chill.md "Bone Chill")
 
 伤害：1~8
 
@@ -37,7 +37,7 @@
 
 范围：18 米 (60 英尺)
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
 
 伤害：3~15
 
@@ -62,7 +62,7 @@
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
-[孵化死亡](Incubate_Death.md "Incubate Death") ()
+[孵化死亡](Incubate_Death.md "Incubate Death")
 
 伤害：6~27
 
@@ -73,7 +73,7 @@
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
 范围：24 米 (80 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
 
 伤害：3~15
 
@@ -90,7 +90,7 @@
 
 范围：18 米 (60 英尺)
 
-[韧性](Tenacity.md "Tenacity") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
+[韧性](Tenacity.md "Tenacity") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
 
 伤害：
 
@@ -98,7 +98,7 @@
 
 当你未命中攻击时，仍会造成等于你的 [力量](Strength.md "Strength") [调整值](Ability_Scores.md#Ability_score_modifiers "Ability scores") 的 ⁠[钝击](Bludgeoning.md "Bludgeoning") 伤害（最低 1 点）。
 
-[弱化打击](Weakening_Strike.md "Weakening Strike") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
+[弱化打击](Weakening_Strike.md "Weakening Strike") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
 
 伤害：3~6
 

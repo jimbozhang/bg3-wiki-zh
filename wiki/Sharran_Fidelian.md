@@ -40,7 +40,7 @@
 
 ### 攻击与能力
 
-[召唤黑暗](Beckoning_Darkness.md "Beckoning Darkness") ()
+[召唤黑暗](Beckoning_Darkness.md "Beckoning Darkness")
 
 伤害：2~16
 
@@ -51,7 +51,7 @@
 [魅力](Charisma.md "Charisma") [豁免检定](Saving_throws.md "Saving throws")
 范围：4 米 (13 英尺)
 
-[冻僵](Bone_Chill.md "Bone Chill") ()
+[冻僵](Bone_Chill.md "Bone Chill")
 
 伤害：1~8
 
@@ -66,7 +66,7 @@
 
 范围：18 米 (60 英尺)
 
-[暗影步](Shadow_Step.md "Shadow Step") ()
+[暗影步](Shadow_Step.md "Shadow Step")
 从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
 
 范围：18 米 (60 英尺)

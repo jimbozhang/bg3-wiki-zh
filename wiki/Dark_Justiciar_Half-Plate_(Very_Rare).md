@@ -23,7 +23,7 @@
 
 - [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 的 [优势](Advantage.md "优势")。
 
-[莎尔神盾](Shar's_Aegis.md "莎尔神盾") ()
+[莎尔神盾](Shar's_Aegis.md "莎尔神盾")
 作为 1 级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [莎尔的暗影](Shar's_Umbrae.md "莎尔的暗影")

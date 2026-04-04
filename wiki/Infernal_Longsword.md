@@ -35,13 +35,13 @@ UID `MAG_Infernal_Longsword` UUID `e1c37edf-ad63-44a5-8fd4-44687169747e` ### 特
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[剑柄打击](Pommel_Strike.md "Pommel_Strike") ()
+[剑柄打击](Pommel_Strike.md "Pommel_Strike")
 对敌人进行非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。（充能：[短休](Short_rest.md "Short_rest")。）
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。（充能：[短休](Short_rest.md "Short_rest")。）
 
-[突进攻击](Rush_Attack.md "Rush_Attack") ()
+[突进攻击](Rush_Attack.md "Rush_Attack")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")状态。（充能：[短休](Short_rest.md "Short_rest")。）
 
 ## 错误

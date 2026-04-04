@@ -3,15 +3,51 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Marcel McCalla](https://www.imdb.com/name/nm0565561/) |
+| 声音 / 演员 | [Marcel McCalla](https://www.imdb.com/name/nm0565561/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 10 |
-| 生命值 | 90 |
-| 护甲等级 | 15 |
-| 先攻 | +2 |
-| 经验值 | 250 |
+| 亚种 | [灰矮人](Duergar.md "Duergar") |
+| 职业 | [术士](Sorcerer.md "Sorcerer") |
+| 副职 | [龙族血脉](Draconic_Bloodline.md "Draconic Bloodline") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 90 | 63 | 117 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 14 / (+2) | 13 / (+1) | 18 / (+4) | 13 / (+1) | 11 / (0) |
+
+**特性**
+
+- [龙族血统：银龙（寒冷）](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
+- [龙族韧性](Draconic_Resilience.md "Draconic Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "Duergar Resilience")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
+
+**特性**
+
+- [龙族血统：银龙（寒冷）](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
+- [龙族韧性](Draconic_Resilience.md "Draconic Resilience")
+- [灰矮人坚韧](Duergar_Resilience.md "Duergar Resilience")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -89,7 +125,7 @@
 [迷踪步](Misty_Step.md "Misty Step") (+ )
 被银色薄雾包围，你传送到一个你可见的未被占据的空间。
 
-[冷冻射线](Ray_of_Frost.md "Ray of Frost") ()
+[冷冻射线](Ray_of_Frost.md "Ray of Frost")
 
 将目标的 [移动速度](Movement_speed.md "Movement Speed") 降低 3 米 / 10 英尺。
 

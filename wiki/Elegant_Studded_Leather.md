@@ -21,7 +21,7 @@
 
 - [隐匿](Stealth.md "隐匿")的[优势](Advantage.md "Advantage")。
 
-[护盾术](Shield_(spell).md "护盾术 (法术)") ()
+[护盾术](Shield_(spell).md "护盾术 (法术)")
 以1环法术施展（充能：[短休](Short_rest.md "Short rest")。）
 
 [伏击](Ambusher_(+2).md)

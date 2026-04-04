@@ -17,7 +17,7 @@
 
 佩戴此物品获得：
 
-[塞伦涅的梦境](Sel%C3%BBne's_Dream.md "Selûne's Dream") ()
+[塞伦涅的梦境](Sel%C3%BBne's_Dream.md "Selûne's Dream")
 你触碰的一名盟友恢复生命值，但可能陷入[沉睡](Sleeping_(Condition).md "Sleeping (Condition)")。（充能：[长休](Long_rest.md "Long rest")。）
 
 ## 获取地点

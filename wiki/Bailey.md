@@ -3,16 +3,35 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Shaun Mendum](https://www.imdb.com/name/nm7471114/) |
+| 声音 / 演员 | [Shaun Mendum](https://www.imdb.com/name/nm7471114/) |
+| 家乡 | [博德之门](Baldur's_Gate.md "Baldur's Gate") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 生命值 | 8 |
 | 护甲等级 | 10 |
 | 先攻 | 0 |
+| 熟练项 | +2 |
 | 移动速度 | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) |
+| 暗视 | 0 米 (0 英尺) |
 | 经验值 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **贝利**是[迦纳斯夫人](Fireliia_Jannath.md "Fireliia Jannath")的[人类](Human.md "Human")仆人，可能在[下城区](Lower_City.md "Lower City")的[迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "Lady Jannath's Estate")二楼找到。
 

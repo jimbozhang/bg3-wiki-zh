@@ -30,12 +30,12 @@
 
 ### 攻击与能力
 
-[舞光术](Dancing_Lights.md "舞光术") ()
+[舞光术](Dancing_Lights.md "舞光术")
 照亮 9 米 / 30 英尺半径范围。
 
 射程：18 米 (60 英尺)
 
-[狂热冲锋](Frenzied_Charge.md "狂热冲锋") ()
+[狂热冲锋](Frenzied_Charge.md "狂热冲锋")
 
 伤害：1~8
 
@@ -45,7 +45,7 @@
 
 充能：每回合
 
-[顶撞](Gore_(Deep_Roth%C3%A9).md "顶撞 (地底洛斯兽)") ()
+[顶撞](Gore_(Deep_Roth%C3%A9).md "顶撞 (地底洛斯兽)")
 
 伤害：18~27
 

@@ -3,15 +3,49 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [艾什·里兹](https://www.imdb.com/name/nm7787239/) |
+| 声音 / 演员 | [艾什·里兹](https://www.imdb.com/name/nm7787239/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
-| 等级 | 4 |
-| 生命值 | 52 |
-| 护甲等级 | 14 |
-| 先攻 | +1 |
-| 经验值 | 40 |
+| 亚种 | [灰矮人](Duergar.md "灰矮人") |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
+| 副职 | [荒蛮之心](Wildheart.md "荒蛮之心") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 52 | 36 | 67 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 40 | 40 | 40 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -61,7 +95,7 @@
 
 ### 攻击与能力
 
-[巨化](Enlarge_(Duergar).md "巨化 (灰矮人)") ()
+[巨化](Enlarge_(Duergar).md "巨化 (灰矮人)")
 
 体型变大以增强力量
 
@@ -70,7 +104,7 @@
 范围：自身
 充能：[长休](Long_Rest.md "长休")
 
-[劈砍](Cleave.md "劈砍") () – [巨斧](Greataxe.md "巨斧")
+[劈砍](Cleave.md "劈砍") – [巨斧](Greataxe.md "巨斧")
 
 伤害：
 
@@ -80,7 +114,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [巨斧](Greataxe.md "巨斧")
+[割裂](Lacerate.md "割裂") – [巨斧](Greataxe.md "巨斧")
 
 伤害：4~15
 
@@ -94,7 +128,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨斧](Greataxe.md "巨斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨斧](Greataxe.md "巨斧")
 
 伤害：4~15
 
@@ -104,7 +138,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[准备](Prepare.md "准备") () – [巨斧](Greataxe.md "巨斧")
+[准备](Prepare.md "准备") – [巨斧](Greataxe.md "巨斧")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害（最少 1 点）。
 
 范围：自身
@@ -118,7 +152,7 @@
 
 范围：自身
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") () – [巨斧](Greataxe.md "巨斧")
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") – [巨斧](Greataxe.md "巨斧")
 
 伤害：4~15
 
@@ -130,7 +164,7 @@
 
 范围：正常武器范围
 
-[投掷](Throw.md "投掷") () – [标枪](Javelin.md "标枪")
+[投掷](Throw.md "投掷") – [标枪](Javelin.md "标枪")
 
 伤害：4~9
 
@@ -144,7 +178,7 @@
 
 范围：3-18 米 (10-60 英尺)
 
-[无情残暴](Unrelenting_Ferocity.md "无情残暴") ()
+[无情残暴](Unrelenting_Ferocity.md "无情残暴")
 
 治疗：4~11
 

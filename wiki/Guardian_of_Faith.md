@@ -37,7 +37,7 @@
 | 护甲等级 | 20 |  |  |  |  |
 | 移动速度 | 0 米 (0 英尺) |  |  |  |  |
 
-[守护者之击](Strike_of_the_Guardian.md "Strike_of_the Guardian") ()
+[守护者之击](Strike_of_the_Guardian.md "Strike_of_the Guardian")
 在你的剑击中引导你神祇的力量，以保护召唤你的牧师。
 
 [神圣复仇](Divine_Retaliation.md "Divine Retaliation")

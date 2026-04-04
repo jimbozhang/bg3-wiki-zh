@@ -17,7 +17,7 @@
 
 穿戴此物品获得：
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 作为2级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 [伏形夜影](Night_Walker.md "伏形夜影")

@@ -20,7 +20,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Sharran_Wolf,_Viconia).md "啃咬（莎尔之狼，维康妮亚）") ()
+[啃咬](Bite_(Sharran_Wolf,_Viconia).md "啃咬（莎尔之狼，维康妮亚）")
 
 伤害: 1~12
 

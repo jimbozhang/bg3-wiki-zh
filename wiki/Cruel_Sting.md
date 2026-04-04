@@ -27,7 +27,7 @@ UID `MAG_Drowelf_SpiderSnare_Longsword` UUID `67ae6ce9-08fd-4ee7-9343-9a408f8ad9
 
 **持有此物品者获得：**
 
-[诱捕绳索](Ensnaring_Strands.md "诱捕绳索") ()
+[诱捕绳索](Ensnaring_Strands.md "诱捕绳索")
 你的攻击会召唤出厚实的粘性蛛网，可能使目标[网缚](Enwebbed_(Condition).md "网缚 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
 [落井下石](Sting_The_Helpless.md "落井下石")
@@ -37,13 +37,13 @@ UID `MAG_Drowelf_SpiderSnare_Longsword` UUID `67ae6ce9-08fd-4ee7-9343-9a408f8ad9
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") ()
+[剑柄打击](Pommel_Strike.md "剑柄打击")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

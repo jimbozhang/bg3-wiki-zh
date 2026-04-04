@@ -12,7 +12,7 @@
 
 ## 赋予
 
-[震慑凝视](Stunning_Gaze.md "震慑凝视") ()
+[震慑凝视](Stunning_Gaze.md "震慑凝视")
 目标 18 米（60 英尺）内它能看见的一个生物。目标必须通过 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则将被 [震慑](Stunned_(Condition).md "震慑 (状态)") 直至其下一回合结束。**硬核难度：** 此动作不需要 [专注](Concentration.md "专注")。（充能：每回合。）
 
 ## 备注

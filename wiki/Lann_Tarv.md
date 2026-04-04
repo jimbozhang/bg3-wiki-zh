@@ -3,16 +3,45 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Andrew Spooner](https://www.imdb.com/name/nm0819381/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [Andrew Spooner](https://www.imdb.com/name/nm0819381/) |
+| 角色 | [商人](Trader.md "Trader") |
+| 体型 | [中型](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [熊地精](Bugbear.md "Bugbear") |
-| 等级 | 5 |
-| 生命值 | 46 |
-| 护甲等级 | 16 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 110 |
+| 职业 | [圣武士](Paladin.md "Paladin") |
+| 副职 | [复仇之誓](Oath_of_Vengeance.md "Oath of Vengeance") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 46 | 32 | 59 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 110 千克 (220 磅) | 110 千克 (220 磅) | 110 千克 (220 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 110 | 110 | 110 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 17 / (+3) | 14 / (+2) | 14 / (+2) | 11 / (0) | 12 / (+1) | 11 / (0) |
+
+**特性**
+
+- [蛮暴](Brute.md "Brute")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
+
+**特性**
+
+- [蛮暴](Brute.md "Brute")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
 **兰恩·塔夫**是 [月出之塔](Moonrise_Towers.md "Moonrise Towers") 一楼的商人，位于 [第二幕](Act_Two.md "Act Two")。除非在月出之塔更深处的介绍场景后通过特定检定，否则无法获得他的特殊库存。
 
@@ -93,7 +122,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [钉头锤](Morningstar.md "Morningstar")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [钉头锤](Morningstar.md "Morningstar")
 
 伤害：4~11
 
@@ -105,7 +134,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[惊心打击](Heartstopper.md "Heartstopper") () – [钉头锤](Morningstar.md "Morningstar")
+[惊心打击](Heartstopper.md "Heartstopper") – [钉头锤](Morningstar.md "Morningstar")
 
 伤害：4~7
 
@@ -117,7 +146,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [钉头锤](Morningstar.md "Morningstar")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [钉头锤](Morningstar.md "Morningstar")
 
 伤害：4~11
 
@@ -127,7 +156,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[韧性](Tenacity.md "Tenacity") () – [钉头锤](Morningstar.md "Morningstar")
+[韧性](Tenacity.md "Tenacity") – [钉头锤](Morningstar.md "Morningstar")
 
 伤害：3
 
@@ -135,7 +164,7 @@
 
 当你未命中攻击时，仍会基于你的 [力量](Strength.md "Strength") [调整值](Ability_Scores.md#Ability_score_modifiers "Ability scores") 造成 [钝击](Bludgeoning.md "Bludgeoning") 伤害（最低为 1）。
 
-[投掷](Throw.md "Throw") () – [标枪](Javelin.md "Javelin")
+[投掷](Throw.md "Throw") – [标枪](Javelin.md "Javelin")
 
 伤害：4~9
 

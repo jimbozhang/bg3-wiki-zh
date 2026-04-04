@@ -25,13 +25,13 @@
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足（状态）")。他们无法移动。（充能：[短休](Short_rest.md "短休")。）
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[弱化打击](Weakening_Strike.md "弱化打击") ()
+[弱化打击](Weakening_Strike.md "弱化打击")
 以非致命攻击瞄准敌人的手部，可能造成[弱腕](Weak_Grip_(Condition).md "弱腕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 战镐列表
@@ -41,7 +41,7 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 | [十字镐](Pickaxe.md "十字镐") |  | 1d8 | 穿刺 | 0.9 kg / 1.8 lb | 10 |  |
 | [战镐](War_Pick.md "战镐") |  | 1d8 | 穿刺 | 0.9 kg / 1.8 lb | 50 |  |
 | [深度挖掘](Deep_Delver.md "深度挖掘") |  | 1d8 | 穿刺 | 0.9 kg / 1.8 lb | 100 | [钻骨敲髓](Dig_Deep.md "钻骨敲髓")击中时使目标[粉碎](Shattered_(Condition).md "粉碎（状态）")。 |
-| [跳跳](Hoppy.md "跳跳") | +1 | 1d8 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 100 | [再生打击](Revitalising_Strike.md "再生打击") () 猛击敌人，使其受伤并治疗自己的伤势。（充能：[短休](Short_rest.md "短休")。） |
+| [跳跳](Hoppy.md "跳跳") | +1 | 1d8 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 100 | [再生打击](Revitalising_Strike.md "再生打击") 猛击敌人，使其受伤并治疗自己的伤势。（充能：[短休](Short_rest.md "短休")。） |
 | [战镐 +1](War_Pick_+1.md "战镐 +1") | +1 | 1d8 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 40 |  |
 
 ## 遗留内容

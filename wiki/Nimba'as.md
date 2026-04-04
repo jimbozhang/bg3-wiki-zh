@@ -21,13 +21,13 @@
 
 ### 攻击与能力
 
-[迷踪步](Misty_Step.md "Misty Step") ()
+[迷踪步](Misty_Step.md "Misty Step")
 被银色雾气包围，你传送到一个可见的未被占据空间。
 
 射程：18 m (60 ft)
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
 
 伤害：6~15
 

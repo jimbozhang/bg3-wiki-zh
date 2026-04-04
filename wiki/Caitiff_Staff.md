@@ -26,7 +26,7 @@ UID `MAG_PHB_PactKeeper_Quarterstaff` UUID `518d1630-d2bf-4dca-8c24-9d7ba9d529f3
 
 **持有此物品获得：**
 
-[凯蒂夫的修复术](Caitiff's_Restoration.md "凯蒂夫的修复术") ()
+[凯蒂夫的修复术](Caitiff's_Restoration.md "凯蒂夫的修复术")
 补充 1 个已消耗的邪术师[法术位](Spell_Slot.md "法术位")。（充能：[长休](Long_Rest.md "长休")。）
 
 [奥术增强](Arcane_Enchantment_(+1).md)
@@ -36,7 +36,7 @@ UID `MAG_PHB_PactKeeper_Quarterstaff` UUID `518d1630-d2bf-4dca-8c24-9d7ba9d529f3
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

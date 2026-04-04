@@ -5,12 +5,31 @@
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [豺狼人](Gnoll.md "Gnoll") |
-| 等级 | 4 |
-| 生命值 | 22 |
-| 护甲等级 | 15 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 40 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 22 | 15 | 28 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 100 千克 (200 磅) | 100 千克 (200 磅) | 100 千克 (200 磅) |
+| 经验值 | 40 | 40 | 40 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 14 / (+2) | 12 / (+1) | 8 / (-1) | 10 / (0) | 8 / (-1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **豺狼人食肉者**是一种普通豺狼人敌人，在[第一幕](Act_One.md "Act_One")的[晋升之路](The_Risen_Road.md "The_Risen_Road")沿线出现。
 
@@ -34,7 +53,7 @@
 
 ### 攻击与能力
 
-[血宴](Bloodfest.md "Bloodfest") ()
+[血宴](Bloodfest.md "Bloodfest")
 
 治疗：1~8
 
@@ -45,7 +64,7 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-[爪击](Claws_(action).md "Claws (action)") ()
+[爪击](Claws_(action).md "Claws (action)")
 
 伤害：4~10
 

@@ -30,7 +30,7 @@
 
 ### 攻击和能力
 
-[恶毒嘲笑](Vicious_Mockery_(Milil).md "恶毒嘲笑 (米里尔)") ()
+[恶毒嘲笑](Vicious_Mockery_(Milil).md "恶毒嘲笑 (米里尔)")
 
 伤害：4~32
 

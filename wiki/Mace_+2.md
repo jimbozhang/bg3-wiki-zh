@@ -23,7 +23,7 @@ UID `WPN_HUM_Mace_A_2` UUID `f203a318-ea9a-4117-8d27-299dabafd1d3` ### 武器动
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 用全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

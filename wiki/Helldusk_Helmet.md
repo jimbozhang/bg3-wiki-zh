@@ -16,7 +16,7 @@
 
 - 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。
 
-[焚寂凝视](Immolating_Gaze.md "焚寂凝视") ()
+[焚寂凝视](Immolating_Gaze.md "焚寂凝视")
 仅凭怒视即可灼烧并[恐惧](Fearful_(Condition).md "恐惧 (状态)")目标。（充能：[短休](Short_rest.md "短休"）。）
 
 [地狱视野](Infernal_Sight.md "地狱视野")

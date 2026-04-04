@@ -18,7 +18,7 @@
 
 ## 赋予
 
-[This Won't Hurt A Bit](This_Won't_Hurt_A_Bit.md "This Won't Hurt A Bit") ()
+[This Won't Hurt A Bit](This_Won't_Hurt_A_Bit.md "This Won't Hurt A Bit")
 用手术针管刺击一名敌人并使其[中毒](Poisoned_(Condition).md "Poisoned (Condition)")。
 
 ## 丢失的乐器：手术针管的来源

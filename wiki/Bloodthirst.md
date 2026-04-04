@@ -27,7 +27,7 @@ UID `S_GLO_Orin_Bhaalist_Dagger` UUID `51c312d5-ce5e-4f8c-a5ad-edc2beced3e6` Sta
 
 **持有此物品获得：**
 
-[克敌机先](True_Strike.md "克敌机先") ()
+[克敌机先](True_Strike.md "克敌机先")
 以戏法形式施放（充能：[短休](Short_rest.md "短休")。）
 
 - [誓缚武器](Bound_Weapon_(Condition).md "誓缚武器（状态）")
@@ -50,7 +50,7 @@ _仅限副手_
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 状态：誓缚武器

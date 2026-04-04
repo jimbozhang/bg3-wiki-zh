@@ -29,7 +29,7 @@
 | 生命值 | 33 |  |
 | 护甲等级 | 14 |  |
 
-[阴影之噬](Shadowjaw_Bite.md "阴影之噬") ()
+[阴影之噬](Shadowjaw_Bite.md "阴影之噬")
 将牙齿咬入目标，并可能使其[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
 [击倒啃咬](Knockdown_Jaws.md "击倒啃咬")

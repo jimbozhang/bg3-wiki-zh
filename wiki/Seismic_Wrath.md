@@ -27,18 +27,18 @@
 
 吸引4只岩浆魔蝠（如果它们尚未出现）。它们拥有以下动作：
 
-[燃烧爪](Burning_Claws.md "燃烧爪") ()
+[燃烧爪](Burning_Claws.md "燃烧爪")
 用燃烧的爪子猛击，造成1d4[火焰](Fire.md "火焰")伤害。
 
 [死亡爆裂](Death_Burst_(Fire).md "死亡爆裂（火焰）")
 在火焰爆发中爆炸。
 
-[火焰吐息](Fire_Breath_(Magma_Mephit).md "火焰吐息（岩浆魔蝠）") ()
+[火焰吐息](Fire_Breath_(Magma_Mephit).md "火焰吐息（岩浆魔蝠）")
 呼出锥形火焰。（充能：每回合。）
 
 飞至目标位置
 
-[灼热金属](Heat_Metal.md "灼热金属") ()
+[灼热金属](Heat_Metal.md "灼热金属")
 使金属武器或护甲炽热发红，迫使穿戴者松手或在[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")上获得[劣势](Disadvantage.md "劣势")。
 
 ## 学习方式

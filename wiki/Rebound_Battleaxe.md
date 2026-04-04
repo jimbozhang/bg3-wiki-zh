@@ -40,13 +40,13 @@ UID `MAG_Bonded_Throwing_Battleaxe` UUID `d2d5141a-9804-49b6-96e2-5738d85feffa` 
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击 3 个敌人。每个敌人受到武器通常伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足（状态）")。目标无法移动。（充能：[短休](Short_rest.md "短休")。）
 
 ## 错误

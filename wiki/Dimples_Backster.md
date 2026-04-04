@@ -45,7 +45,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：3~6
 
@@ -55,7 +55,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：3~6
 
@@ -69,7 +69,7 @@
 范围：普通武器范围
 充能：[短休](Short_rest.md "短休")
 
-[恶毒嘲笑](Vicious_Mockery.md "恶毒嘲笑") ()
+[恶毒嘲笑](Vicious_Mockery.md "恶毒嘲笑")
 
 伤害：1~4
 

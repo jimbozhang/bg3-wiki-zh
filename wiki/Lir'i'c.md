@@ -3,15 +3,56 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [艾米·麦卡利斯特](https://www.imdb.com/name/nm3577620/) |
+| 声音 / 演员 | [艾米·麦卡利斯特](https://www.imdb.com/name/nm3577620/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
-| 等级 | 9 |
-| 生命值 | 136 |
-| 护甲等级 | 19 |
-| 先攻 | +5 |
-| 经验值 | 500 |
+| 职业 | [武僧](Monk.md "Monk") |
+| 副职 | [散打宗](Way_of_the_Open_Hand.md "散打宗") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 136 | 95 | 176 |
+| 护甲等级 | 19 | 19 | 19 |
+| 先攻 | +5 | +5 | +5 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 13.5 米 (45 英尺) | 13.5 米 (45 英尺) | 13.5 米 (45 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 500 | 500 | 500 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 20 / (+5) | 16 / (+3) | 15 / (+2) | 18 / (+4) | 13 / (+1) |
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "拨挡飞弹 (被动特性)")
+- [反射闪避](Evasion.md "反射闪避")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
+- [武术：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武术：灵巧打击")
+- [武术：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武术：敏捷攻击")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "心如止水 (被动特性)")
+- [无甲防御](Unarmoured_Defence_(Monk).md "无甲防御 (武僧)")
+- [老练毒辣](Experienced_And_Deadly.md "老练毒辣")
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "拨挡飞弹 (被动特性)")
+- [反射闪避](Evasion.md "反射闪避")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
+- [武术：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武术：灵巧打击")
+- [武术：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武术：敏捷攻击")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "心如止水 (被动特性)")
+- [无甲防御](Unarmoured_Defence_(Monk).md "无甲防御 (武僧)")
+- [老练毒辣](Experienced_And_Deadly.md "老练毒辣")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -69,7 +110,7 @@
 
 ### 攻击与能力
 
-[共鸣之气：爆炸](Ki_Resonation_colon__Blast.md "共鸣之气：爆炸") ()
+[共鸣之气：爆炸](Ki_Resonation_colon__Blast.md "共鸣之气：爆炸")
 
 伤害: 3~18
 
@@ -83,7 +124,7 @@
 射程: 18 米 (60 英尺)
 充能: 每回合
 
-[共鸣之气：拳击](Ki_Resonation_colon__Punch.md "共鸣之气：拳击") ()
+[共鸣之气：拳击](Ki_Resonation_colon__Punch.md "共鸣之气：拳击")
 
 伤害:
 
@@ -95,7 +136,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[共鸣之气：拳击 (附赠动作)](Ki_Resonation_colon__Punch_(Bonus_Action).md "共鸣之气：拳击 (附赠动作)") ()
+[共鸣之气：拳击 (附赠动作)](Ki_Resonation_colon__Punch_(Bonus_Action).md "共鸣之气：拳击 (附赠动作)")
 
 伤害:
 
@@ -112,7 +153,7 @@
 
 射程: 自身
 
-[徒手打击](Unarmed_Strike_(Monk).md "徒手打击 (武僧)") ()
+[徒手打击](Unarmed_Strike_(Monk).md "徒手打击 (武僧)")
 
 伤害: 6~9
 

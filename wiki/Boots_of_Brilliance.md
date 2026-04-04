@@ -17,7 +17,7 @@
 
 此物品的穿戴者获得：
 
-[恢复诗人激励](Restore_Bardic_Inspiration.md "恢复诗人激励") ()
+[恢复诗人激励](Restore_Bardic_Inspiration.md "恢复诗人激励")
 演奏你的乐器以恢复一个[诗人激励](Bardic_Inspiration_(resource).md) 槽位。（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

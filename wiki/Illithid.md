@@ -38,12 +38,12 @@
 
 ### 攻击和能力
 
-[浮空术](Levitate_(Illithid_Power).md "Levitate (Illithid Power)") ()
+[浮空术](Levitate_(Illithid_Power).md "Levitate (Illithid Power)")
 轻松飘浮到目的地。
 
 范围：18 m (60 ft)
 
-[心灵震爆](Mind_Blast.md "Mind Blast") ()
+[心灵震爆](Mind_Blast.md "Mind Blast")
 
 伤害：4~32 + 调整值
 
@@ -54,13 +54,13 @@
 [智力](Intelligence.md "Intelligence") [豁免检定](Saving_throws.md "Saving throws")
 充能：[长休](Long_Rest.md "Long rest")
 
-[夺心魔支配](Mind_Flayer_Domination.md "Mind Flayer Domination") ()
+[夺心魔支配](Mind_Flayer_Domination.md "Mind Flayer Domination")
 支配附近的类人生物。盟友不受影响。每次被支配的生物受到伤害时，它可能重复进行[豁免检定](Saving_throw.md "Saving throw")以抵抗你的支配。
 
 [智力](Intelligence.md "Intelligence") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 m (60 ft)
 
-[触手鞭挞](Tentacle_Whip_(Mind_Flayer).md "Tentacle Whip (Mind Flayer)") ()
+[触手鞭挞](Tentacle_Whip_(Mind_Flayer).md "Tentacle Whip (Mind Flayer)")
 
 伤害：6~24
 

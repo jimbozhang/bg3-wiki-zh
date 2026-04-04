@@ -3,15 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Sydney Craven](https://www.imdb.com/name/nm7373540/) |
+| 声音 / 演员 | [Sydney Craven](https://www.imdb.com/name/nm7373540/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [提夫林](Tiefling.md "Tiefling") |
-| 等级 | 3 |
-| 生命值 | 23 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
-| 经验值 | 20 |
+| 亚种 | [阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "Asmodeus tiefling") |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 23 | 15 | 28 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 14 / (+2) | 12 / (+1) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -113,12 +126,12 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") ()
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "Movement Speed")。在你的回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "Short rest")
 
-[腿筋射击](Hamstring_Shot.md "Hamstring Shot") ()
+[腿筋射击](Hamstring_Shot.md "Hamstring Shot")
 
 伤害：
 
@@ -130,7 +143,7 @@
 射程：普通武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长弓](Longbow.md "Longbow")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长弓](Longbow.md "Longbow")
 
 伤害：3~10
 
@@ -140,7 +153,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [长弓](Longbow.md "Longbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [长弓](Longbow.md "Longbow")
 
 伤害：3~10
 

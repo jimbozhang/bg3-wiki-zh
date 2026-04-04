@@ -8,10 +8,10 @@
 
 当你造成法术伤害时，对目标施加 2 驱散 _\[[参见注释](#notes)\]_ 的[冷冻](Encrusted_with_Frost_(Condition).md "冷冻（状态）")。当与克雷斯卡的冰调谐时，你可以在每个[短休](Short_rest.md "短休")中各施放一次[寒冰锥](Cone_of_Cold.md "寒冰锥")和[冰风暴](Ice_Storm.md "冰风暴")。
 
-[寒冰锥](Cone_of_Cold.md "寒冰锥") ()
+[寒冰锥](Cone_of_Cold.md "寒冰锥")
 以 5 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
-[冰风暴](Ice_Storm.md "冰风暴") ()
+[冰风暴](Ice_Storm.md "冰风暴")
 以 4 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 属性

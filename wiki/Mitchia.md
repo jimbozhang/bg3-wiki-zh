@@ -71,13 +71,13 @@
 
 ### 攻击和能力
 
-[恐惧拥抱](Dread_Embrace.md "恐惧拥抱") ()
+[恐惧拥抱](Dread_Embrace.md "恐惧拥抱")
 抓住一个人类敌人使其静止。他们无法移动、行动或反应。3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：8~16
 

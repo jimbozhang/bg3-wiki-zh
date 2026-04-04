@@ -2,13 +2,46 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Gordon Cooper](https://www.imdb.com/name/nm2090228/) |
+| 声音 / 演员 | [Gordon Cooper](https://www.imdb.com/name/nm2090228/) |
+| 角色 | [营地随从](Camp_Follower.md "营地随从") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [不死生物](Undead.md "不死生物") |
-| 等级 | 12 |
-| 生命值 | 234 |
-| 先攻 | +3 |
-| 经验值 | 640 |
+| 职业 | [圣武士](Paladin.md "圣武士") |
+| 副职 | [弃誓者](Oathbreaker.md "弃誓者") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 12 | 12 | 12 |
+| 生命值 | 234 | 156 | 291 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +4 | +6 | +4 |
+| 重量 | 50 kg (100 lb) | 50 kg (100 lb) | 50 kg (100 lb) |
+| 暗视 | 12 m (40 ft) | 12 m (40 ft) | 12 m (40 ft) |
+| 经验值 | 640 | 640 | 640 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 19 / (+4) | 16 / (+3) | 17 / (+3) | 10 / (0) | 16 / (+3) | 20 / (+5) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [神佑](Divine_Health.md "神佑")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [神佑](Divine_Health.md "神佑")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 

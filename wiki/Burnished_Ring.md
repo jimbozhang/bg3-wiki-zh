@@ -14,7 +14,7 @@
 
 此物品的佩戴者获得：
 
-[麻痹射线](Paralyzing_Ray.md "Paralyzing Ray") ()
+[麻痹射线](Paralyzing_Ray.md "Paralyzing Ray")
 以 3 级法术施展（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点

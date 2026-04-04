@@ -19,7 +19,7 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[吟游
 
 ### 等级 6
 
-[威严斗篷：命令术](Mantle_of_Majesty_colon__Command.md "威严斗篷：命令术") ()
+[威严斗篷：命令术](Mantle_of_Majesty_colon__Command.md "威严斗篷：命令术")
 命令一个生物逃跑、靠近、冻结、倒地或放下武器。被[魅惑](Charmed_(Condition).md "魅惑（状态）")的目标自动豁免检定失败。（充能：[长休](Long_Rest.md "长休")。）
 
 激励斗篷

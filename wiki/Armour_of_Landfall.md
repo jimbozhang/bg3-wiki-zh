@@ -21,7 +21,7 @@
 
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")[优势](Advantage.md "优势")。
 
-[植物滋长](Plant_Growth.md "植物滋长") ()
+[植物滋长](Plant_Growth.md "植物滋长")
 以3环法术施放（充能：[短休](Short_rest.md "短休")。）
 
 [高阶施法](High_Spellcasting_(+1).md)

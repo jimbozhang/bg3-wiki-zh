@@ -3,16 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
+| 声音 / 演员 | [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 5 |
-| 生命值 | 38 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 75 |
+| 亚种 | [灰矮人](Duergar.md "Duergar") |
+| 职业 | [法师](Wizard.md "Wizard") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 5 | 5 |
+| 生命值 | 38 | 49 |
+| 护甲等级 | 11 | 11 |
+| 先攻 | +1 | +1 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 12 / (+1) | 16 / (+3) | 12 / (+1) | 10 / (0) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -97,7 +109,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [鞭刑杖](Whipping_Cane.md "Whipping_Cane")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [鞭刑杖](Whipping_Cane.md "Whipping_Cane")
 
 伤害：1~4
 
@@ -109,13 +121,13 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[灰矮人隐形](Invisibility_(Duergar).md "Invisibility (Duergar)") ()
+[灰矮人隐形](Invisibility_(Duergar).md "Invisibility (Duergar)")
 变为隐形。
 
 射程：自身
 充能：每场战斗
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [鞭刑杖](Whipping_Cane.md "Whipping_Cane")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [鞭刑杖](Whipping_Cane.md "Whipping_Cane")
 
 伤害：1~4
 
@@ -125,7 +137,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[心智奴役](Mind_Mastery.md "Mind Mastery") ()
+[心智奴役](Mind_Mastery.md "Mind Mastery")
 使敌人对其一名盟友进行武器攻击。
 
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
@@ -143,7 +155,7 @@
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[缩小](Reduce_(Duergar).md "Reduce (Duergar)") ()
+[缩小](Reduce_(Duergar).md "Reduce (Duergar)")
 
 缩小体型以更难被击中，但力量稍弱。
 

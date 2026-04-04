@@ -2,16 +2,27 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
+| 角色 | [商人](Trader.md "Trader") |
+| 体型 | [中型](Medium.md "Medium") |
 | 类型 | [邪魔](Fiend.md "Fiend") |
 | 种族 | [军团魔](Merregon.md "Merregon") |
-| 等级 | 5 |
-| 生命值 | 45 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 9 m (30 ft) |
-| 经验值 | 110 |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 5 | 5 |
+| 生命值 | 45 | 58 |
+| 护甲等级 | 16 | 16 |
+| 先攻 | +1 | +1 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 24 m (80 ft) | 24 m (80 ft) |
+| 经验值 | 110 | 110 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 12 / (+1) | 17 / (+3) | 6 / (-2) | 12 / (+1) | 8 / (-1) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -98,7 +109,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") () – [军团魔长戟](Merregon_Halberd.md "Merregon Halberd")
+[劈砍](Cleave.md "Cleave") – [军团魔长戟](Merregon_Halberd.md "Merregon Halberd")
 
 伤害：
 
@@ -108,7 +119,7 @@
 
 充能：[短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [军团魔长戟](Merregon_Halberd.md "Merregon Halberd")
+[割裂](Lacerate.md "Lacerate") – [军团魔长戟](Merregon_Halberd.md "Merregon Halberd")
 
 伤害：6~15
 
@@ -122,7 +133,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [军团魔长戟](Merregon_Halberd.md "Merregon Halberd")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [军团魔长戟](Merregon_Halberd.md "Merregon Halberd")
 
 伤害：6~15
 
@@ -132,7 +143,7 @@
 
 近战：1.5 m (5 ft)
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [军团魔长戟](Merregon_Halberd.md "Merregon Halberd")
+[突进攻击](Rush_Attack.md "Rush Attack") – [军团魔长戟](Merregon_Halberd.md "Merregon Halberd")
 
 伤害：5~8
 

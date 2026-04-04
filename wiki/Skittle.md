@@ -2,16 +2,35 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Shaun Mendum](https://www.imdb.com/name/nm7471114/) |
+| 声音 / 演员 | [Shaun Mendum](https://www.imdb.com/name/nm7471114/) |
+| 角色 | [商人](Trader.md "Trader") |
 | 体型 | 微型 |
 | 类型 | [野兽](Beast.md "Beast") |
 | 种族 | [老鼠](Rat.md "Rat") |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 生命值 | 32 |
 | 护甲等级 | 12 |
 | 先攻 | +2 |
+| 熟练项 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 1 千克 (2 磅) |
+| 暗视 | 16 米 (53 英尺) |
 | 经验值 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 4 / (-3) | 15 / (+2) | 13 / (+1) | 4 / (-3) | 10 / (0) | 4 / (-3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
 
 **小柱**是一只[老鼠](Rat.md "Rat")商人，在[第三幕](Act_Three.md "Act Three")期间，可以在[山坡区监狱](Heapside_Prison.md "Heapside Prison")的一个牢房内找到。
 

@@ -3,16 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [哈里特·黑尔](https://www.imdb.com/name/nm9839003/) |
+| 声音 / 演员 | [哈里特·黑尔](https://www.imdb.com/name/nm9839003/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [卓尔](Drow.md "Drow") |
-| 等级 | 8 |
-| 生命值 | 58 |
-| 护甲等级 | 15 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 140 |
+| 亚种 | [罗丝誓约卓尔](Lolth-Sworn_Drow.md "Lolth-sworn drow") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 58 | 40 | 75 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 16 米 (53 英尺) | 16 米 (53 英尺) | 16 米 (53 英尺) |
+| 经验值 | 140 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 13 / (+1) | 12 / (+1) | 16 / (+3) | 10 / (0) | 18 / (+4) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -128,7 +153,7 @@
 范围：18 米 (60 英尺)
 重置：每场战斗
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长棍](Quarterstaff.md "Quarterstaff")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长棍](Quarterstaff.md "Quarterstaff")
 
 伤害：2~7
 
@@ -138,7 +163,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[圣火术](Sacred_Flame.md "Sacred Flame") ()
+[圣火术](Sacred_Flame.md "Sacred Flame")
 
 伤害：1~8
 
@@ -149,7 +174,7 @@
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
-[摔绊](Topple.md "Topple") () – [长棍](Quarterstaff.md "Quarterstaff")
+[摔绊](Topple.md "Topple") – [长棍](Quarterstaff.md "Quarterstaff")
 
 伤害：1~4
 

@@ -32,7 +32,7 @@ UID `TWN_SharDagger` UUID `7773610f-f246-4837-a75f-2d260f815718` Stats `TWN_Shar
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "Piercing_Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing_Strike")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 备注

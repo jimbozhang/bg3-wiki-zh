@@ -32,12 +32,12 @@
 
 奴役面具充当埃赛尔婶婶和其他面具的治疗者和增益者。
 
-[奴役恩赐](Boon_of_Servitude.md "奴役恩赐") ()
+[奴役恩赐](Boon_of_Servitude.md "奴役恩赐")
 沐浴在埃赛尔的恩赐中。你每回合恢复 2d4+[施法调整值](Spellcasting_Modifier.md "施法调整值")⁠⁠[治疗](Healing.md "治疗")，并且你的[护甲等级](Armour_Class.md "护甲等级")提高 2。
 
 范围：18 米 (60 英尺)
 
-[投掷](Throw.md "投掷") () – [沉重的石头](Heavy_Stone.md "沉重的石头")
+[投掷](Throw.md "投掷") – [沉重的石头](Heavy_Stone.md "沉重的石头")
 
 伤害：
 

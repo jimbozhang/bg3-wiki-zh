@@ -52,7 +52,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Owlbear).md "爪击（枭熊）") ()
+[爪击](Claws_(Owlbear).md "爪击（枭熊）")
 
 伤害：7~21
 
@@ -69,7 +69,7 @@
 射程：21 米 (70 英尺)
 充能：每回合
 
-[多重攻击](Multiattack_(Owlbear).md "多重攻击（枭熊）") ()
+[多重攻击](Multiattack_(Owlbear).md "多重攻击（枭熊）")
 
 伤害：13~36
 

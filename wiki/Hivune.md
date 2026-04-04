@@ -61,7 +61,7 @@
 
 ### 攻击与能力
 
-[王车易位：传送](Benign_Transposition_colon__Teleport.md "王车易位：传送") ()
+[王车易位：传送](Benign_Transposition_colon__Teleport.md "王车易位：传送")
 传送至附近空置位置，或与盟友交换位置。
 
 射程：9 米 (30 英尺)
@@ -93,7 +93,7 @@
 
 使用装备的武器进行近战攻击。
 
-[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 使目标的[移动速度](Movement_speed.md "移动速度")减少 3 米 / 10 英尺。
 

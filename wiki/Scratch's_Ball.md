@@ -23,7 +23,7 @@
 
 此物品的佩戴者获得：
 
-[获得魔宠：挠挠](Find_Familiar_colon__Scratch.md "获得魔宠：挠挠") ()
+[获得魔宠：挠挠](Find_Familiar_colon__Scratch.md "获得魔宠：挠挠")
 作为 1 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

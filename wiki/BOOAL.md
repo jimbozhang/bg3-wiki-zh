@@ -75,7 +75,7 @@
 
 ### 攻击与能力
 
-[铁意追击](Ironbound_Pursuit.md "铁意追击") ()
+[铁意追击](Ironbound_Pursuit.md "铁意追击")
 
 伤害：8~29
 
@@ -86,7 +86,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[伤口裸露](Open_Wounds.md "伤口裸露") ()
+[伤口裸露](Open_Wounds.md "伤口裸露")
 
 伤害：2~12
 

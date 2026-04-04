@@ -32,7 +32,7 @@ UID `QUEST_FOR_SussurDagger` UUID `8733edb7-f04e-4b6d-ad48-7d49fb782bef` Stats `
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing Strike")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 状态：沉默

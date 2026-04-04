@@ -67,7 +67,7 @@
 
 ### 攻击与能力
 
-[酸液飞溅](Acid_Splash.md "酸液飞溅") ()
+[酸液飞溅](Acid_Splash.md "酸液飞溅")
 
 伤害：1~6
 
@@ -84,7 +84,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [仪式法杖](Ritual_Staff.md "仪式法杖")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [仪式法杖](Ritual_Staff.md "仪式法杖")
 
 伤害：0~5
 
@@ -105,7 +105,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[摔绊](Topple.md "摔绊") () – [仪式法杖](Ritual_Staff.md "仪式法杖")
+[摔绊](Topple.md "摔绊") – [仪式法杖](Ritual_Staff.md "仪式法杖")
 
 伤害：1~4
 

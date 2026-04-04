@@ -29,17 +29,17 @@ UID `MAG_FlamingFist_StaffOfFire` UUID `b2758975-82c2-4405-ad2d-99cfa21059ff` ##
 - 远程[法术攻击](Spell_Attack.md "法术攻击") +1
 - [火焰](Fire.md "火焰")伤害抗性
 
-[火焰箭](Fire_Bolt.md "火焰箭") ()
+[火焰箭](Fire_Bolt.md "火焰箭")
 作为戏法随时施放。
 
-[火球术](Fireball.md "火球术") ()
+[火球术](Fireball.md "火球术")
 作为 3 级法术施放（充能：[长休](Long_Rest.md "长休")）。
 
 ### 武器动作
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物，使其[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

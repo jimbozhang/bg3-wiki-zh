@@ -2,14 +2,13 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Cissy Jones](https://www.imdb.com/name/nm4047315/) |
+| 声音 / 演员 | [Cissy Jones](https://www.imdb.com/name/nm4047315/) |
 | 体型 | [巨型](Huge.md "Huge") |
 | 类型 | [异怪](Aberration.md "Aberration") |
 | 种族 | [主脑](Elder_Brain.md "Elder Brain") |
 
-属性
-
-属性
+| | |
+| --- | --- |
 
 **耐色脑**是一种体型庞大的[异怪](Aberration.md "Aberration")，作为游戏的最终首领。它是一个被古代[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")奴役并强化的[主脑](Elder_Brain.md "Elder Brain")，耐色脑是游戏的终极反派，其险恶计划推动了故事事件的发生。
 

@@ -2,14 +2,46 @@
 
 | | |
 | --- | --- |
+| 全名 | 威尔·雷文伽德 |
+| 性别 | 男性 |
+| 角色 | [出身角色](Origin_characters.md "出身角色") |
+| 家庭 | [乌尔德·雷文伽德](Ulder_Ravengard.md "乌尔德·雷文伽德") (父亲) |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
+| 职业 | [邪术师](Warlock.md "邪术师") |
+| 副职 | [邪魔](The_Fiend.md "邪魔") ([米佐拉](Mizora.md "米佐拉")) |
+| 背景 | [平民英雄](Folk_Hero.md "平民英雄") |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 生命值 | 10 |
 | 护甲等级 | 12 |
 | 先攻 | +1 |
+| 熟练项 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 13 / (+1) | 14 / (+2) | 13 / (+1) | 10 / (0) | 17 / (+3) |
+
+**特性**
+
+- [民兵](Civil_Militia.md "民兵")
+- [人类通才](Human_Versatility.md "人类通才")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [边境之刃](The_Blade_of_Frontiers_(passive_feature).md "边境之刃 (被动特性)")
+
+**特性**
+
+- [民兵](Civil_Militia.md "民兵")
+- [人类通才](Human_Versatility.md "人类通才")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [边境之刃](The_Blade_of_Frontiers_(passive_feature).md "边境之刃 (被动特性)")
 
 - **表达式错误：意外的 > 运算符。**[1级邪术师法术位.png](https://bg3.wiki/w/index.php?title=Special:Upload&wpDestFile=Level_1_Warlock_Spell_Slots.png "文件:1级邪术师法术位.png")**表达式错误：意外的 > 运算符。**
 

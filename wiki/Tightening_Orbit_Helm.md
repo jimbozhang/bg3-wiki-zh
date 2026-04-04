@@ -18,7 +18,7 @@
 
 - [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") +1
 
-[紧缩轨道](Tightening_Orbit.md "Tightening Orbit") ()
+[紧缩轨道](Tightening_Orbit.md "Tightening Orbit")
 消耗 1 [驱散](Turn.md "Turn") 的[导力](Force_Conduit_(Condition).md "Force Conduit (Condition)")状态，以破坏性力量将半径内所有敌人拉向你。（充能：[短休](Short_rest.md "Short rest")。）
 
 ---

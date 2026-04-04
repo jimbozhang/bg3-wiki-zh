@@ -41,7 +41,7 @@
 [解除变形](Dismiss_Wild_Shape.md "解除变形")
 解除你的荒野形态并变回原始形态。
 
-[元素扭曲](Elemental_Warp.md "元素扭曲") ()
+[元素扭曲](Elemental_Warp.md "元素扭曲")
 被银色雾气包围，传送到你可见的一个未被占据的空间。
 
 用石拳和雷鸣猛击敌人，有可能使其[倒伏](Prone_(Condition).md "倒伏（状态）")。
@@ -49,10 +49,10 @@
 [月光修复](Lunar_Mend.md "月光修复") (+ )
 消耗[法术位](Spells.md#Spell_slots "法术位")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。你每法术位等级恢复1d8[治疗](Healing.md "治疗")。
 
-[点泥成金](Muck_to_Metal.md "点泥成金") ()
+[点泥成金](Muck_to_Metal.md "点泥成金")
 将你滑溜的身体硬化为类似钢铁的物质，使你的[护甲等级](Armour_Class.md "护甲等级")提高2。
 
-[泥泞投掷](Sludgy_Sling.md "泥泞投掷") ()
+[泥泞投掷](Sludgy_Sling.md "泥泞投掷")
 用痛苦沉重的泥浆淹没生物，使你周围的区域陷入厚泥中。
 
 ## 学习方式

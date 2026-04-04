@@ -8,11 +8,11 @@
 
 | 在[治疗中心](House_of_Healing.md "治疗中心")西侧悬崖上的一对骷髅之一身上 | [短剑](Shortswords.md "短剑") | 单手 | 近战 | 是 | 否 | [刺客短剑](Assassin's_Shortsword.md "刺客短剑")是一件不常见的+1[短剑](Shortswords.md "短剑")，赋予使用者[隐匿](Stealth.md "隐匿")检定的[优势](Advantage.md "优势")。 | 否 | 是 | [刺客之触](Assassin's_Touch.md "刺客之触") | | 完成任务[解救地精萨扎](Save_the_Goblin_Sazza.md "解救地精萨扎")的奖励，护送[萨扎](Sazza.md "萨扎")到达[地精营地](Goblin_Camp.md "地精营地") | [匕首](Daggers.md "匕首") | 单手 | 近战 | 是 | 是 | [刺客之触](Assassin's_Touch.md "刺客之触")是一件不常见的+1[匕首](Daggers.md "匕首")，对[睡眠](Sleeping_(Condition).md)或[击倒](Knocked_Out_(Condition)的目标造成额外伤害.md)。 | 否 | 是 | [博德安的巨人杀手](Balduran's_Giantslayer.md "博德安的巨人杀手") |
 
-[巨人形态](Giant_Form.md "巨人形态") ()
+[巨人形态](Giant_Form.md "巨人形态")
 增长到可怕的尺寸。你的武器造成额外1d6伤害，你获得27[临时生命值](Temporary_Hit_Points.md "临时生命值")和力量[属性检定](Ability_Check.md "属性检定")与[豁免](Saving_throw.md "豁免")的[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
 | 在[安苏](Ansur.md "安苏")的尸体上 | [巨剑](Greatswords.md "巨剑") | 双手 | 近战 | 否 | 否 | [博德安的巨人杀手](Balduran's_Giantslayer.md "博德安的巨人杀手")是一件传奇+3[巨剑](Greatswords.md "巨剑")，从[力量](Strength.md "力量")获得双倍伤害加成，赋予使用者[巨人形态](Giant_Form.md "巨人形态")职业动作和[推翻大个](Topple_the_Big_Folk.md "推翻大个")武器动作，以及对大型、超大型和巨型生物的[攻击掷骰](Attack_rolls.md "攻击掷骰")[优势](Advantage.md "优势")。 | 是 | 否 | [战斧 +1](Battleaxe_+1.md "战斧 +1") | | 从使用[魔法近战武器商人列表](Magic_Melee_Weapon_Trader_Table.md#Traders "魔法近战武器商人列表")的任何商人处购买 | [战斧](Battleaxes.md "战斧") | 双手 | 近战 | 否 | 否 | | 否 | 否 | [贝尔姆](Belm.md "贝尔姆") | | 在地下室一个华丽的箱子中 | [弯刀](Scimitars.md "弯刀") | 单手 | 近战 | 是 | 否 | [贝尔姆](Belm.md "贝尔姆")是一件非常稀有的+2[弯刀](Scimitars.md "弯刀")。它赋予[旋风攻击](Whirlwind_Attack_(Weapon_Action).md)和[完美平衡打击](Perfectly_Balanced_Strike.md "完美平衡打击")武器动作。 | 否 | 是 | [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "大男孩的磨牙玩具") |
 
-[谁是大个子？](Whossa_Large_Fellow_q_.md "谁是大个子？") ()
+[谁是大个子？](Whossa_Large_Fellow_q_.md "谁是大个子？")
 施放为2级法术（充能：[长休](Long_Rest.md "长休")。）
 | 从[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主楼层处购买 | [长柄杖](Quarterstaves.md "长柄杖") | 双手 | 近战 | 否 | 否 | [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "大男孩的磨牙玩具")是一件稀有的+1[长柄杖](Quarterstaves.md "长柄杖")，赋予使用者每天一次长休施放[巨化](Enlarge.md "巨化")的能力。 | 否 | 否 | [黑色守卫之剑](Blackguard's_Sword.md "黑色守卫之剑") | | 由死亡骑士[守卫者](That_Which_Guards.md "守卫者")携带 | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | [黑色守卫之剑](Blackguard's_Sword.md "黑色守卫之剑")是一件稀有的+2[长剑](Longswords.md "长剑")，可能使被使用者[至圣斩](Smite.md "至圣斩")的目标[目眩](Dazed_(Condition).md "目眩")。 | 否 | 否 | [压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑") | | 在由[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")谜题解锁的区域中 | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | | 否 | 否 | [压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑") | | 在[科尔](Koll_(kobold).md "科尔（狗头人）")拥有的货物桌上 | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | | 否 | 否 | [瘟疫使者](Blightbringer.md "瘟疫使者") | | 从[飞龙关](Wyrm's_Crossing.md "飞龙关")的[恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆")处购买 | [短弓](Shortbows.md "短弓") | 双手 | 远程 | 否 | 否 | [瘟疫使者](Blightbringer.md "瘟疫使者")是一件非常稀有的+1[短弓](Shortbows.md "短弓")，对[侏儒](Gnome.md "侏儒")和[矮人](Dwarf.md "矮人")的攻击和伤害掷骰有加成，并在重击时[减速](Slowed_(Condition).md)。 | 否 | 否 | [血缚剑](Blood-Bound_Blade.md "血缚剑") |
 
@@ -20,7 +20,7 @@
 
 | | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | [血缚剑](Blood-Bound_Blade.md "血缚剑")是一件稀有的、轻度附魔(+1)的[长剑](Longsword.md "长剑")家族特殊变体。它是一件[武器](Weapons.md "武器")，可以单手挥舞，或双手使用以造成额外伤害。 | 否 | 否 | [染血的巨斧](Blooded_Greataxe.md "染血的巨斧") | | 从[罗阿·月光](Roah_Moonglow.md "罗阿·月光")处购买 | [巨斧](Greataxes.md "巨斧") | 双手 | 近战 | 否 | 否 | [染血的巨斧](Blooded_Greataxe.md "染血的巨斧")是一件稀有的+1[巨斧](Greataxes.md "巨斧")，当使用者生命值低于50%时造成额外挥砍伤害。 | 是 | 否 | [嗜血](Bloodthirst.md "嗜血") |
 
-[克敌机先](True_Strike.md "克敌机先") ()
+[克敌机先](True_Strike.md "克敌机先")
 施放为戏法（充能：[短休](Short_rest.md "短休")。）
 
 - [绑定武器](Bound_Weapon_(Condition).md "绑定武器 (状态)")
@@ -32,7 +32,7 @@
 施放为1级法术（充能：[短休](Short_rest.md "短休")。）
 | 从[以斯帖夫人](Esther.md "以斯帖夫人")处购买，位于特瑞尔塔峭壁传送点东北方 | [长柄杖](Quarterstaves.md "长柄杖") | 双手 | 近战 | 否 | 否 | [不和谐音](Cacophony.md "不和谐音")是一件稀有的+1[长柄杖](Quarterstaves.md "长柄杖")，赋予使用者[雷鸣打击](Thunderous_Smite.md "雷鸣打击")法术。 | 否 | 否 | [卑鄙法杖](Caitiff_Staff.md "卑鄙法杖") |
 
-[凯蒂夫的修复术](Caitiff's_Restoration.md "凯蒂夫的修复术") ()
+[凯蒂夫的修复术](Caitiff's_Restoration.md "凯蒂夫的修复术")
 恢复1个已消耗的邪术师[法术位](Spell_Slot.md "法术位")。（充能：[长休](Long_Rest.md "长休")。）
 | 从[赫尔希克](Helsik.md "赫尔希克")处购买，一旦她的特殊库存解锁 | [长柄杖](Quarterstaves.md "长柄杖") | 双手 | 近战 | 否 | 否 | | 否 | 否 | [仪式战斧](Ceremonial_Battleaxe.md "仪式战斧") | | 在受[守卫信仰](Guardian_of_Faith_(Creature).md "守卫信仰（生物）")保护的宿舍之一中 | [战斧](Battleaxes.md "战斧") | 双手 | 近战 | 否 | 否 | [仪式战斧](Ceremonial_Battleaxe.md "仪式战斧")是一件不常见的、轻度附魔(+1)的[战斧](Battleaxes.md "战斧")家族变体。虽然功能上与[战斧 +1](Battleaxe_+1.md "战斧 +1")相同，但可用于解决瑰晨修道院小教堂内的谜题。 | 否 | 否 | [仪式长剑](Ceremonial_Longsword.md "仪式长剑") | | 在[黎明大师纪念碑](Rosymorn_Monastery.md#Dawnmasters_Memorial "瑰晨修道院")西北的基座上 | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | [仪式长剑](Ceremonial_Longsword.md "仪式长剑")是一件不常见的、轻度附魔(+1)的[长剑](Longswords.md "长剑")。虽然功能上与[长剑 +1](Longsword_+1.md "长剑 +1")相同，但可用于解决瑰晨修道院小教堂内的谜题。 | 否 | 否 | [仪式硬头锤](Ceremonial_Mace.md "仪式硬头锤") | | 由[狗头人劫掠者](Kobold_Looter.md "狗头人劫掠者")在火酒储藏室随机携带 | [硬头锤](Maces.md "硬头锤") | 单手 | 近战 | 否 | 否 | [仪式硬头锤](Ceremonial_Mace.md "仪式硬头锤")是一件不常见的、轻度附魔(+1)的[硬头锤](Mace.md "硬头锤")。虽然功能上与[硬头锤 +1](Mace_+1.md "硬头锤 +1")相同，但可用于解决瑰晨修道院小教堂内的谜题。 | 否 | 否 | [仪式战锤](Ceremonial_Warhammer.md "仪式战锤") | | 在屋顶上，在[巨鹰](Giant_Eagle.md "巨鹰")的巢中 | [战锤](Warhammers.md "战锤") | 双手 | 近战 | 否 | 否 | [仪式战锤](Ceremonial_Warhammer.md "仪式战锤")是一件不常见的、轻度附魔(+1)的[战锤](Warhammer.md "战锤")。虽然功能上与[战锤 +1](Warhammer_+1.md "战锤 +1")相同，但可用于解决瑰晨修道院小教堂内的谜题。 | 否 | 否 | [闪电誓缚战锤](Charge-Bound_Warhammer.md "闪电誓缚战锤") |
 
@@ -43,7 +43,7 @@
 - [护甲等级](Armour_Class.md "护甲等级") +1（仅限副手）
 | 从[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")处购买，位于[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")附近 | [匕首](Daggers.md "匕首") | 单手 | 近战 | 是 | 是 | [寒潮](Cold_Snap.md "寒潮")是一件稀有的[匕首](Daggers.md "匕首")，当敌人攻击并错过使用者时，会[冷冻](Chilled_(Condition)敌人.md)；如果用于副手，还会增加使用者的[护甲等级](Armour_Class.md "护甲等级")。 | 否 | 是 | [合成斧](Combination_Axe.md "合成斧") | | | [战斧](Battleaxes.md "战斧") | 双手 | 近战 | 否 | 否 | | 否 | 否 | [回旋手斧](Comeback_Handaxe.md "回旋手斧") | | 由[阿卡比](Akabi.md "阿卡比")在未能赢得[命运之轮](Circus_of_the_Last_Days.md#Layout "终末马戏团")头奖后作为安慰奖给予 | [手斧](Handaxes.md "手斧") | 单手 | 近战 | 否 | 是 | | 否 | 是 | [柯瑞隆的恩赐](Corellon's_Grace.md "柯瑞隆的恩赐") | | 从[翠绿林地](Emerald_Grove.md "翠绿林地")[空洞](Hollow.md "空洞")的[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")处购买 | [长柄杖](Quarterstaves.md "长柄杖") | 双手 | 近战 | 否 | 否 | [柯瑞隆的恩赐](Corellon's_Grace.md "柯瑞隆的恩赐")是一件不常见的[长柄杖](Quarterstaves.md "长柄杖")，如果使用者未穿护甲，则增加其[豁免](Saving_throws.md "豁免")。如果徒手攻击，还会获得[攻击掷骰](Attack_roll.md "攻击掷骰")和[伤害掷骰](Damage_rolls.md "伤害掷骰")的加成。 | 否 | 否 | [绞尸机](Corpsegrinder.md "绞尸机") | | 由[卡利欧斯](Cairos.md "卡利欧斯")在[利文顿](Rivington.md "利文顿")西侧的海滩携带 | [巨锤](Mauls.md "巨锤") | 双手 | 近战 | 否 | 否 | [绞尸机](Corpsegrinder.md "绞尸机")是一件稀有的+2[巨锤](Mauls.md "巨锤")，造成额外雷鸣伤害，并赋予使用者[全垒打](Grand_Slam.md "全垒打")武器动作。 | 是 | 否 | [腐蚀链枷](Corrosive_Flail.md "腐蚀链枷") | | 从[幽暗地域](Underdark.md "幽暗地域")的[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")处购买 | [链枷](Flails.md "链枷") | 单手 | 近战 | 否 | 否 | [腐蚀链枷](Corrosive_Flail.md "腐蚀链枷")是一件稀有的+1[链枷](Flails.md "链枷")，赋予特殊的武器动作[腐蚀打击](Corrosive_Strike.md "腐蚀打击")。 | 否 | 否 | [造物回音](Creation's_Echo.md "造物回音") | | 完成任务[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "帮助奥米伦调查寄生虫的事")后，从[奥米伦](Omeluum.md "奥米伦")处购买 | [长柄杖](Quarterstaves.md "长柄杖") | 双手 | 近战 | 否 | 否 | [造物回音](Creation's_Echo.md "造物回音")是一件稀有的[长柄杖](Quarterstaves.md "长柄杖")，在首次造成该元素伤害后，赋予使用者对酸、火、闪电、光耀或黯蚀伤害的抗性。 | 否 | 否 | [猩红诡计](Crimson_Mischief.md "猩红诡计") | | 在任务[拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")期间由[奥林](Orin.md "奥林")携带 | [短剑](Shortswords.md "短剑") | 单手 | 近战 | 是 | 否 | [猩红诡计](Crimson_Mischief.md "猩红诡计")是一件传奇+2[短剑](Shortswords.md "短剑")，当主手装备时，在攻击具有[优势](Advantage.md "优势")或生命值低于50%的目标时造成额外伤害。当副手装备时，则允许使用者将其[属性调整值](Ability_Modifier.md "属性调整值")加到伤害上。 | 否 | 是 | [奥术力场之弩](Crossbow_of_Arcane_Force.md "奥术力场之弩") | | 由[袭击者格拉特](G'r'ath.md "袭击者格拉特")在[育碧点](Cr%C3%A8che_Y'llek.md "育碧点")传送点南侧的营地区域携带 | [重弩](Heavy_Crossbows.md "重弩") | 双手 | 远程 | 否 | 否 | [奥术力场之弩](Crossbow_of_Arcane_Force.md "奥术力场之弩")是一件不常见的+1[重弩](Heavy_Crossbows.md "重弩")，赋予使用者特殊的[奥术弹药](Arcane_Ammunition_(Weapon_Action)武器动作.md)，为远程攻击增加额外力场伤害。 | 否 | 否 | [残忍蛰刺](Cruel_Sting.md "残忍蛰刺") |
 
-[诱捕绳索](Ensnaring_Strands.md "诱捕绳索") ()
+[诱捕绳索](Ensnaring_Strands.md "诱捕绳索")
 施放为1级法术（充能：[短休](Short_rest.md "短休")。）
 | 由[卡'尼斯](Kar'niss.md "卡'尼斯")携带 | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | [残忍蛰刺](Cruel_Sting.md "残忍蛰刺")是一件稀有的+1[长剑](Longswords.md "长剑")，如果使用者是卓尔精灵，则对[束缚](Restrained_(Condition).md "束缚")目标造成额外毒素伤害。它还赋予[诱捕绳索](Ensnaring_Strands.md "诱捕绳索")法术。 | 否 | 否 | [匕首 +1](Dagger_+1.md "匕首 +1") |  | 从使用[魔法近战武器商人列表](Magic_Melee_Weapon_Trader_Table.md#Traders "魔法近战武器商人列表")的任何商人处购买 |
 
@@ -54,7 +54,7 @@
 - [抗性](Damage_types.md#Resistance "伤害类型")于⁠[火焰](Fire.md "火焰")伤害。
 - [抗性](Damage_types.md#Resistance "伤害类型")于⁠[寒冷](Cold.md "寒冷")伤害。
 
-[加速术](Haste.md "加速术") ()
+[加速术](Haste.md "加速术")
 施放为3级法术（充能：[长休](Long_Rest.md "长休")。）
 | 在[第二章](Act_Two.md "第二章")从[戴摩](Dammon.md "戴摩")处购买 | [短弓](Shortbows.md "短弓") | 双手 | 远程 | 否 | 否 | [黑火短弓](Darkfire_Shortbow.md "黑火短弓")是一件稀有的+2[短弓](Shortbows.md "短弓")，赋予对火焰和冷冻的[抗性](Damage_types.md#Resistance "伤害类型")，并赋予施放[加速术](Haste.md "加速术")的能力。 | 否 | 否 | [飞镖 +1](Dart_+1.md "飞镖 +1") | | | [飞镖](Darts.md "飞镖") | 双手 | 远程 | 是 | 否 | | 否 | 否 | [飞镖 +2](Dart_+2.md "飞镖 +2") | | | [飞镖](Darts.md "飞镖") | 双手 | 远程 | 是 | 否 | | 否 | 否 | [深度挖掘](Deep_Delver.md "深度挖掘") | | 由[长老布里特瓦尔](Brithvar.md "长老布里特瓦尔")携带 | [战镐](War_Picks.md "战镐") | 单手 | 近战 | 否 | 否 | [深度挖掘](Deep_Delver.md "深度挖掘")是一件不常见的[战镐](War_Picks.md "战镐")，命中时使目标陷入[破碎](Shattered_(Condition)状态.md)。 | 否 | 否 | [守卫者链枷](Defender_Flail.md "守卫者链枷") |
 
@@ -62,15 +62,15 @@
 
 | 从[阿贾克尼尔·吉拉](Jeera.md "阿贾克尼尔·吉拉")处购买 | [链枷](Flails.md "链枷") | 单手 | 近战 | 否 | 否 | [守卫者链枷](Defender_Flail.md "守卫者链枷")是一件稀有的+1[链枷](Flails.md "链枷")，减少佩戴者受到的物理武器伤害，并增加[护甲等级](Armour_Class.md "护甲等级")。 | 否 | 否 | [守卫者巨斧](Defender_Greataxe.md "守卫者巨斧") |  | 从[军需官塔利](Talli.md "军需官塔利")处购买，位于最后之光旅店传送点附近 | [巨斧](Greataxes.md "巨斧") | 双手 | 近战 | 否 | 否 | [守卫者巨斧](Defender_Greataxe.md "守卫者巨斧")是一件稀有的+2[巨斧](Greataxes.md "巨斧")，可以在回合的第一次攻击中降低其[惑控学派](Enchantment.md "惑控学派")，以增加使用者的[护甲等级](Armour_Class.md "护甲等级")和[豁免](Saving_throws.md "豁免")加成。 | 是 | 否 | [阿斯卡特拉的绝望](Despair_of_Athkatla.md "阿斯卡特拉的绝望") |  | 在击败[洛若坎](Lorroakan.md "洛若坎")后，从其尸体上获得 | [长柄杖](Quarterstaves.md "长柄杖") | 双手 | 近战 | 否 | 否 | [阿斯卡特拉的绝望](Despair_of_Athkatla.md "阿斯卡特拉的绝望")是一件稀有的+2[长柄杖](Quarterstaves.md "长柄杖")，能增强使用者的法术。 | 否 | 否 | [信徒硬头锤](Devotee's_Mace.md "信徒硬头锤") | 仅限主手 |
 
-[治疗熏香灵光](Healing_Incense_Aura.md "治疗熏香灵光") ()
+[治疗熏香灵光](Healing_Incense_Aura.md "治疗熏香灵光")
 散发出舒缓的灵光，你和附近的盟友在回合开始时恢复1d4[治疗](Healing.md "治疗")（充能：[长休](Long_Rest.md "长休")。）
 | 通过施放[神圣干预：武装仆从](Divine_Intervention_colon__Arm_Thy_Servant.md "神圣干预：武装仆从")的[神圣干预](Divine_Intervention.md "神圣干预")变体获得。当队伍达到10级以上时，可以[雇佣](Hirelings.md "雇佣")一名牧师，让其施放武装仆从，然后将此武器交易给另一名队员。 | [硬头锤](Maces.md "硬头锤") | 单手 | 近战 | 否 | 否 | [信徒硬头锤](Devotee's_Mace.md "信徒硬头锤")是一件传奇+3[硬头锤](Maces.md "硬头锤")，命中时造成额外光耀伤害，并能创造治疗灵光治疗使用者和附近的盟友。 | 否 | 否 | [多洛的凄凉](Dolor_Amarus.md "多洛的凄凉") | | 由[多洛](Dolor.md "多洛")携带 | [匕首](Daggers.md "匕首") | 单手 | 近战 | 是 | 是 | [多洛的凄凉](Dolor_Amarus.md "多洛的凄凉")是一件稀有的+2[匕首](Daggers.md "匕首")，在[重击](Critical_Hit.md "重击")时造成7点额外伤害。 | 否 | 是 | [多洛的凄凉](Dolor_Amarus.md "多洛的凄凉") | | 从[阿巴济戈的回声](Echo_of_Abazigal.md "阿巴济戈的回声")处购买 | [匕首](Daggers.md "匕首") | 单手 | 近战 | 是 | 是 | [多洛的凄凉](Dolor_Amarus.md "多洛的凄凉")是一件稀有的+2[匕首](Daggers.md "匕首")，在[重击](Critical_Hit.md "重击")时造成7点额外伤害。 | 否 | 是 | [末日斧](Doom_Axe.md "末日斧") | | | [巨斧](Greataxes.md "巨斧") | 双手 | 近战 | 否 | 否 | [末日斧](Doom_Axe.md "末日斧")是一件不常见的[巨斧](Greataxes.md "巨斧")，每次成功命中都会使目标陷入[骨寒](Bone_Chilled_(Condition)状态.md)。 | 是 | 否 | [厄运之锤](Doom_Hammer.md "厄运之锤") | | 从[商人格拉特](Grat.md "商人格拉特")处购买 | [巨锤](Mauls.md "巨锤") | 双手 | 近战 | 否 | 否 | [厄运之锤](Doom_Hammer.md "厄运之锤")是一件不常见的[巨锤](Mauls.md "巨锤")，每次成功命中都会使目标陷入[骨寒](Bone_Chilled_(Condition).md "骨寒")状态。 | 是 | 否 | [巨龙之握](Dragon's_Grasp.md "巨龙之握") | | 从[艾隆](Arron.md "艾隆")处购买，位于席尔瓦努斯雕像旁 | [手斧](Handaxes.md "手斧") | 单手 | 近战 | 否 | 是 | [巨龙之握](Dragon's_Grasp.md "巨龙之握")是一件不常见的[手斧](Handaxes.md "手斧")，对[燃烧](Burning_(Condition)目标造成额外挥砍伤害.md)。 | 否 | 是 | [龙息](Drakethroat_Glaive.md "龙息") |
 
-[龙族元素武器](Draconic_Elemental_Weapon.md "龙族元素武器") ()
+[龙族元素武器](Draconic_Elemental_Weapon.md "龙族元素武器")
 施放为3级法术（充能：[长休](Long_Rest.md "长休")。）
 | 从[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主楼层处购买 | [长柄刀](Glaives.md "长柄刀") | 双手 | 近战 | 否 | 否 | [龙息](Drakethroat_Glaive.md "龙息")是一件稀有的+2[长柄刀](Glaives.md "长柄刀")，赋予使用者[龙族元素武器](Draconic_Elemental_Weapon.md "龙族元素武器")武器动作，以及对[龙裔](Dragonborn.md "龙裔")吐息种族动作的加成。 | 是 | 否 | [恐惧铁匕首](Dread_Iron_Dagger.md "恐惧铁匕首") | | 从[阿巴济戈的回声](Echo_of_Abazigal.md "阿巴济戈的回声")处购买 | [匕首](Daggers.md "匕首") | 单手 | 近战 | 是 | 是 | [恐惧铁匕首](Dread_Iron_Dagger.md "恐惧铁匕首")是一件稀有的+1[匕首](Daggers.md "匕首")，当使用者[隐匿](Hiding_(Condition)时造成额外黯蚀伤害.md)。 | 否 | 是 | [决斗者的特权](Duellist's_Prerogative.md "决斗者的特权") |
 
-[决斗挑战](Challenge_to_Duel.md "决斗挑战") ()
+[决斗挑战](Challenge_to_Duel.md "决斗挑战")
 挑战一个敌人只攻击你，使目标陷入[流血](Bleeding_(Condition).md "流血")状态。
 | 完成任务[解救万娜](Save_Vanra.md "解救万娜")后，从[萝拉·贝尔高兹](Lora_Bergauz.md "萝拉·贝尔高兹")处获得的奖励 | [刺剑](Rapiers.md "刺剑") | 单手 | 近战 | 是 | 否 | [决斗者的特权](Duellist's_Prerogative.md "决斗者的特权")是一件传奇+3[刺剑](Rapiers.md "刺剑")，赋予使用者更高的重击几率，如果副手空置，则提供额外的[反应](Reaction.md "反应")。使用者还可以使用反应在命中时造成额外黯蚀伤害。 | 否 | 否 | [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") |
 
@@ -93,7 +93,7 @@
 
 | [链枷](Flails.md "链枷") | 单手 | 近战 | 否 | 否 | | 否 | 否 | [传古链枷](Flail_of_Ages.md "传古链枷") |
 
-[元素年代](Elemental_Age.md "元素年代") ()
+[元素年代](Elemental_Age.md "元素年代")
 施放为3级法术（充能：[长休](Long_Rest.md "长休")。）
 | 从[炮仗菲兹](Fytz.md "炮仗菲兹")处购买，位于[下城主墙](Lower_City.md#Waypoints "下城")传送点附近 | [链枷](Flails.md "链枷") | 单手 | 近战 | 否 | 否 | [传古链枷](Flail_of_Ages.md "传古链枷")是一件稀有的+1[链枷](Flails.md "链枷")，根据链枷造成的伤害类型施加不同的状态。 | 否 | 否 | [惧髅链枷](Flail_of_Dread_Skulls.md "惧髅链枷") |  |  | [链枷](Flails.md "链枷") | 单手 | 近战 | 否 | 否 | | 否 | 否 | [血肉裁决者](Fleshrender.md "血肉裁决者") |  | 从[阿巴济戈的回声](Echo_of_Abazigal.md "阿巴济戈的回声")处购买 | [短剑](Shortswords.md "短剑") | 单手 | 近战 | 是 | 否 | [血肉裁决者](Fleshrender.md "血肉裁决者")是一件稀有的+2[短剑](Shortswords.md "短剑")，允许使用者进行恶魔般的打击，可能阻碍目标的治疗能力。 | 否 | 是 | [破敌者](Foebreaker.md "破敌者") |  | 在卡苏斯区域的隐藏箱子中 | [巨锤](Mauls.md "巨锤") | 双手 | 近战 | 否 | 否 | [破敌者](Foebreaker.md "破敌者")是一件非常稀有的+2[巨锤](Mauls.md "巨锤")，无视目标的⁠[钝击](Bludgeoning.md "钝击")[抗性](Damage_types.md#Resistance "伤害类型")。 | 是 | 否 | [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望") |  | 在[第一章](Act_One.md "第一章")由[根德莱尔](Gandrel.md "根德莱尔")携带 | [重弩](Heavy_Crossbows.md "重弩") | 双手 | 远程 | 否 | 否 | [根德莱尔的渴望](Gandrel's_Aspiration.md "根德莱尔的渴望")是一件不常见的+1[重弩](Heavy_Crossbows.md "重弩")，对[怪兽](Monstrosity.md "怪兽")目标有[优势](Advantage.md "优势")，并赋予[神圣弹药](Sacred_Munitions.md "神圣弹药")职业动作，可[震慑](Turned_(Condition).md) [不死生物](Undead.md "不死生物")。 | 是 | 否 | [巨人扫荡者](Giantbreaker.md "巨人扫荡者") |  | 完成任务[找到丢失的货物](Find_the_Missing_Shipment.md "找到丢失的货物")后，从[布雷姆](Brem.md "布雷姆")处购买 | [重弩](Heavy_Crossbows.md "重弩") | 双手 | 远程 | 否 | 否 | [巨人扫荡者](Giantbreaker.md "巨人扫荡者")是一件稀有的+1[重弩](Heavy_Crossbows.md "重弩")，在成功命中时使目标[踉跄](Reeling_(Condition).md)。 | 是 | 否 | [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩") |  | [山隘](Mountain_Pass.md "山隘")：由吉斯洋基巡逻队的[袭击者乔斯特](Chost.md "袭击者乔斯特")、[袭击者扎斯特里](Zastri.md "袭击者扎斯特里")和[凯斯拉克沃斯](Voss.md "凯斯拉克沃斯")携带 | [重弩](Heavy_Crossbows.md "重弩") | 双手 | 远程 | 否 | 否 | | 是 | 否 | [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑") |  | 由[育碧点](Cr%C3%A8che_Y'llek.md "育碧点")的多名[吉斯洋基人](Githyanki.md "吉斯洋基人")携带 |
 
@@ -101,15 +101,15 @@
 
 | [巨剑](Greatswords.md "巨剑") | 双手 | 近战 | 否 | 否 | [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")是一件不常见的、轻度附魔(+1)的[巨剑](Greatswords.md "巨剑")。 | 是 | 否 | [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑") | | 由吉斯洋基巡逻队领袖[萨斯十夫长巴瑞萨](Sarth_Baretha.md "萨斯十夫长巴瑞萨")携带 | [巨剑](Greatswords.md "巨剑") | 双手 | 近战 | 否 | 否 | [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")是一件不常见的+1[巨剑](Greatswords.md "巨剑")，当由[吉斯洋基人](Githyanki.md "吉斯洋基人")挥舞时造成额外心灵伤害。 | 是 | 否 | [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md) | | [山隘](Mountain_Pass.md "山隘")：由吉斯洋基巡逻队成员[吉什·福瑞斯](For'reth.md "吉什·福瑞斯")在X: -143 Y: 562携带 | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")是一件不常见的、轻度附魔的[长剑](Longswords.md "长剑")。 | 否 | 否 | [吉斯洋基长剑（灵能）](Githyanki_Longsword_(Psionic).md) | | | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | | 否 | 否 | [吉斯洋基短剑](Githyanki_Shortsword.md "吉斯洋基短剑") | | 由多名[吉斯洋基人](Githyanki.md "吉斯洋基人")携带 | [短剑](Shortswords.md "短剑") | 单手 | 近战 | 是 | 否 | | 否 | 是 | [长柄刀 +1](Glaive_+1.md "长柄刀 +1") | | 从使用[魔法近战武器商人列表](Magic_Melee_Weapon_Trader_Table.md#Traders "魔法近战武器商人列表")的任何商人处购买 | [长柄刀](Glaives.md "长柄刀") | 双手 | 近战 | 否 | 否 | [长柄刀 +1](Glaive_+1.md "长柄刀 +1")是一件不常见的、轻度附魔(+1)的[长柄刀](Glaives.md "长柄刀")。 | 是 | 否 | [舞光匕首](Gleamdance_Dagger.md "舞光匕首") | | 由[法尔林](Farlin.md "法尔林")在[利文顿](Rivington.md "利文顿")西侧的海滩携带 | [匕首](Daggers.md "匕首") | 单手 | 近战 | 是 | 是 | [舞光匕首](Gleamdance_Dagger.md "舞光匕首")是一件稀有的+2[匕首](Daggers.md "匕首")，散发出半径光芒，如果装备在副手，会增加使用者的[护甲等级](Armour_Class.md "护甲等级")。 | 否 | 是 | [地精灾祸匕首](Goblinbane_Dagger.md "地精灾祸匕首") | | | [匕首](Daggers.md "匕首") | 单手 | 近战 | 是 | 是 | [地精灾祸匕首](Goblinbane_Dagger.md "地精灾祸匕首")是一件不常见的[匕首](Daggers.md "匕首")，赋予使用者对抗[地精](Goblin.md "地精")的防御能力。任何攻击地精灾祸持有者的地精都会在[攻击掷骰](Attack_roll.md "攻击掷骰")上遭受[劣势](Disadvantage.md "劣势")。 | 否 | 是 | [黄金雏龙法杖](Gold_Wyrmling_Staff.md "黄金雏龙法杖") |
 
-[火焰箭](Fire_Bolt.md "火焰箭") ()
+[火焰箭](Fire_Bolt.md "火焰箭")
 随意施放为戏法。
 | 从[罗阿·月光](Roah_Moonglow.md "罗阿·月光")处购买，位于圣所入口左侧 | [长柄杖](Quarterstaves.md "长柄杖") | 双手 | 近战 | 否 | 否 | [黄金雏龙法杖](Gold_Wyrmling_Staff.md "黄金雏龙法杖")是一件稀有的+1[长柄杖](Quarterstaves.md "长柄杖")，在近战攻击中造成额外火焰伤害，并赋予使用者[火焰箭](Fire_Bolt.md "火焰箭")戏法。 | 否 | 否 | [黄金雏龙法杖](Gold_Wyrmling_Staff.md "黄金雏龙法杖") |
 
-[火焰箭](Fire_Bolt.md "火焰箭") ()
+[火焰箭](Fire_Bolt.md "火焰箭")
 随意施放为戏法。
 | 在底层熔岩和水元素后方的彩色玻璃窗下的基座上 | [长柄杖](Quarterstaves.md "长柄杖") | 双手 | 近战 | 否 | 否 | [黄金雏龙法杖](Gold_Wyrmling_Staff.md "黄金雏龙法杖")是一件稀有的+1[长柄杖](Quarterstaves.md "长柄杖")，在近战攻击中造成额外火焰伤害，并赋予使用者[火焰箭](Fire_Bolt.md "火焰箭")戏法。 | 否 | 否 | [锻神旋涡](Gontr_Mael.md "锻神旋涡") |
 
-[天界加速](Celestial_Haste.md "天界加速") ()
+[天界加速](Celestial_Haste.md "天界加速")
 施放为3级法术（充能：[长休](Long_Rest.md "长休")。）
 | 在控制中心由[钢铁卫士泰坦](Steel_Watcher_Titan.md "钢铁卫士泰坦")携带 | [长弓](Longbows.md "长弓") | 双手 | 远程 | 否 | 否 | [锻神旋涡](Gontr_Mael.md "锻神旋涡")是一件传奇+3[长弓](Longbows.md "长弓")，可能使目标陷入[导引箭](Guiding_Bolt_(Condition).md "导引箭")状态，并赋予使用者[天界加速](Celestial_Haste.md "天界加速")法术和[天界光箭](Bolt_of_Celestial_Light.md "天界光箭")动作。 | 否 | 否 | [巨斧 +1](Greataxe_+1.md "巨斧 +1") |  | 从使用[魔法近战武器商人列表](Magic_Melee_Weapon_Trader_Table.md#Traders "魔法近战武器商人列表")的任何商人处购买 |
 

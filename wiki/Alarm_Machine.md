@@ -6,12 +6,6 @@
 
 - 平衡
 
-## 平衡难度属性
-
-### 生命值
-
-50
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - - **警报机械**是一种独特的装置，其功能类似于[陷阱](Trap.md "陷阱")，在游戏的[第三章](Act_Three.md "第三章")中，于[清账屋](Counting_House.md "清账屋")及其码头遭遇。

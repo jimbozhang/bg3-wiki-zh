@@ -25,7 +25,7 @@
 
 向附近的敌人咆哮，挑衅他们攻击你。
 
-[爪击](Claws_(Bear_Companion).md "爪击 (熊伙伴)") ()
+[爪击](Claws_(Bear_Companion).md "爪击 (熊伙伴)")
 用致命的爪子猛击。
 
 [猎物的气味](Prey's_Scent.md "猎物的气味")
@@ -44,7 +44,7 @@
 | 护甲等级 | 15 |  |  |  |  |
 | 体型 | 大型 |  |  |  |  |
 
-[沾蜜利爪](Honeyed_Paws.md "沾蜜利爪") ()
+[沾蜜利爪](Honeyed_Paws.md "沾蜜利爪")
 用沾满蜂蜜的爪子猛击，并[缴械](Disarmed_(Condition).md "缴械 (状态)")目标。如果目标没有持有任何武器，则使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
 [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
@@ -74,7 +74,7 @@
 
 新能力：
 
-[熊的增援](Ursine_Reinforcements.md "熊的增援") ()
+[熊的增援](Ursine_Reinforcements.md "熊的增援")
 你召唤一只额外的熊与你并肩作战。（充能：[短休](Short_rest.md "短休")。）
 
 [兽性狂怒](Bestial_Fury.md "兽性狂怒")

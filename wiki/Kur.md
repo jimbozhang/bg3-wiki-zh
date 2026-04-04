@@ -69,7 +69,7 @@
 
 用装备的武器进行一次近战攻击。
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [重弩](Heavy_Crossbow.md "重弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [重弩](Heavy_Crossbow.md "重弩")
 
 造成常规伤害并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")，导致攻击时造成额外伤害。
 
@@ -78,7 +78,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "短休")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。
 
@@ -91,7 +91,7 @@
 
 ### 仅限硬核
 
-[推击](Shove.md "推击") ()
+[推击](Shove.md "推击")
 
 尝试推开你的目标。你的成功率取决于你的[运动](Athletics.md "运动")，如果你处于隐藏或隐形状态则更高。
 

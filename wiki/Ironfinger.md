@@ -32,7 +32,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [米尔寇链枷](Flail_of_Myrkul.md "米尔寇链枷")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [米尔寇链枷](Flail_of_Myrkul.md "米尔寇链枷")
 
 伤害：2~9
 

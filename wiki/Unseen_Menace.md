@@ -31,13 +31,13 @@ UID `MAG_Invisible_Pike` UUID `cd6c6adc-8792-4378-8c63-8169cfad6c55` Stats `MAG_
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "Rush Attack") ()
+[突进攻击](Rush_Attack.md "Rush Attack")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")状态。（充能：[短休](Short_rest.md "Short rest")。）
 
-[穿刺打击](Piercing_Strike.md "Piercing_Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing_Strike")
 刺击敌人，可能造成[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")状态。（充能：[短休](Short_rest.md "Short rest")。）
 
-[备战（近战）](Brace_(Melee).md "Brace (Melee)") ()
+[备战（近战）](Brace_(Melee).md "Brace (Melee)")
 消耗6米（20英尺）的[移动](Movement_speed.md "Movement Speed")。在本回合剩余时间内，掷两次近战伤害并取最高值。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

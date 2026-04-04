@@ -27,7 +27,7 @@ UID `UNI_GLO_Moonlantern_Gale` UUID `c9ebcfae-8c9a-4acc-8a30-da7830b32121` Stats
 
 **持有此物品获得：**
 
-[召唤影灯缚灵](Conjure_Shadow_Lantern_Wraith.md "召唤影灯缚灵") ()
+[召唤影灯缚灵](Conjure_Shadow_Lantern_Wraith.md "召唤影灯缚灵")
 施放为 6 级法术（充能：[长休](Long_Rest.md "长休")。）
 
 ## 状态：月之守护

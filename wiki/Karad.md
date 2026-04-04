@@ -2,15 +2,35 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
+| 声音 / 演员 | [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 4 |
-| 生命值 | 28 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 经验值 | 40 |
+| 职业 | [游侠](Ranger.md "Ranger"), [游荡者](Rogue.md "Rogue") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 28 | 19 | 36 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 40 | 40 | 40 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 12 / (+1) | 14 / (+2) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **卡拉德**是在[第一幕](Act_One.md "Act_One")中巡逻[散塔林会地下室](Zhentarim_Basement.md "Zhentarim Basement")的人类守卫之一。
 
@@ -43,7 +63,7 @@
 
 ### 攻击与能力
 
-[腿筋射击](Hamstring_Shot.md "Hamstring Shot") () – [短弓](Shortbow.md "Shortbow")
+[腿筋射击](Hamstring_Shot.md "Hamstring Shot") – [短弓](Shortbow.md "Shortbow")
 
 伤害：4~9
 
@@ -55,7 +75,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [短弓](Shortbow.md "Shortbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [短弓](Shortbow.md "Shortbow")
 
 伤害：4~9
 
@@ -67,7 +87,7 @@
 
 #### 仅限硬核
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "Sneak Attack (Ranged)") () – [短弓](Shortbow.md "Shortbow")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "Sneak Attack (Ranged)") – [短弓](Shortbow.md "Shortbow")
 
 伤害：5~15
 

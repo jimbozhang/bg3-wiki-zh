@@ -37,14 +37,14 @@ UID `DEN_Apprentice_DaggerOfShar` UUID `12f1e6ce-7042-481b-879b-fa81c7688c7d` ##
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）").（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[黑暗之刃](Edge_of_Darkness.md "黑暗之刃") ()
+[黑暗之刃](Edge_of_Darkness.md "黑暗之刃")
 在攻击时制造一团黑暗术云。_\[[参见注释](Edge_of_Darkness.md#Notes "黑暗之刃")\]_（充能：[短休](Short_rest.md "短休")。）
 
 ## 注释

@@ -3,15 +3,42 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
+| 声优 / 演员 | [查琳·麦肯纳](https://www.imdb.com/name/nm1800670/) |
+| 家乡 | [翠绿林地](Emerald_Grove.md "Emerald Grove") |
+| 职业 | [德鲁伊](Druid.md "Druid") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 3 |
-| 生命值 | 24 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 8 米 (27 英尺) |
-| 经验值 | 20 |
+| 亚种 | [黄金矮人](Dwarf.md#Gold_Dwarves "Dwarf") |
+| 副职 | [月亮结社](Circle_of_the_Moon.md "Circle of the Moon") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 24 | 16 | 31 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 8 米 (27 英尺) | 8 米 (27 英尺) | 8 米 (27 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 13 / (+1) | 12 / (+1) | 15 / (+2) | 11 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -126,7 +153,7 @@
 [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长棍](Quarterstaff.md "Quarterstaff")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长棍](Quarterstaff.md "Quarterstaff")
 
 伤害：1~6
 
@@ -136,7 +163,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[毒气喷溅](Poison_Spray.md "Poison Spray") ()
+[毒气喷溅](Poison_Spray.md "Poison Spray")
 
 伤害：1~12
 

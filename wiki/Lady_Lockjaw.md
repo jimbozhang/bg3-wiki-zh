@@ -126,12 +126,12 @@
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
 范围：自身
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") () – [匕首](Dagger.md "匕首")
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") – [匕首](Dagger.md "匕首")
 
 伤害：7~15
 
@@ -150,7 +150,7 @@
 | --- | --- | --- | --- | --- | --- |
 | +1 | +9 | +1 | +6 | 0 | +1 |
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") () – [长弓 +1](Longbow_+1.md "长弓 +1")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") – [长弓 +1](Longbow_+1.md "长弓 +1")
 
 伤害：8~20
 

@@ -5,11 +5,32 @@
 | 体型 | 中级 |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 10 |
-| 生命值 | 78 |
-| 护甲等级 | 15 |
-| 先攻 | +1 |
-| 经验值 | 250 |
+| 职业 | [牧师](Cleric.md "牧师") |
+| 神祇 | [凯兰沃](Kelemvor.md "凯兰沃") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 78 | 54 | 101 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 12 / (+1) | 18 / (+4) | 12 / (+1) | 18 / (+4) | 14 / (+2) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **亡灵大祭司 格雷西·赛尔** 是一名人类 [牧师](Cleric.md "牧师")，位于 [墓园](Graveyard_(Lower_City).md) in [博德之门3](Baldur's_Gate_3.md "博德之门3")。她是 [凯兰沃](Kelemvor.md "Kelemvor") 的信徒，负责管理墓园。
 
@@ -43,7 +64,7 @@
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "Backbreaker") () – [战锤](Warhammer.md "Warhammer")
+[摔翻打击](Backbreaker.md "Backbreaker") – [战锤](Warhammer.md "Warhammer")
 
 伤害：3~6
 
@@ -55,7 +76,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [战锤](Warhammer.md "Warhammer")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [战锤](Warhammer.md "Warhammer")
 
 伤害：3~10
 
@@ -67,7 +88,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [战锤](Warhammer.md "Warhammer")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [战锤](Warhammer.md "Warhammer")
 
 伤害：3~10
 
@@ -107,7 +128,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
 范围：自身
 
-[弱化打击](Weakening_Strike.md "Weakening Strike") () – [战锤](Warhammer.md "Warhammer")
+[弱化打击](Weakening_Strike.md "Weakening Strike") – [战锤](Warhammer.md "Warhammer")
 
 伤害：3~6
 

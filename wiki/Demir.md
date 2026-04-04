@@ -39,7 +39,7 @@
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "割裂") () – [切肉刀](Cleaver.md "切肉刀")
+[割裂](Lacerate.md "割裂") – [切肉刀](Cleaver.md "切肉刀")
 
 伤害：1~6
 
@@ -53,7 +53,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [切肉刀](Cleaver.md "切肉刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [切肉刀](Cleaver.md "切肉刀")
 
 伤害：1~6
 

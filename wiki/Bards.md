@@ -156,7 +156,7 @@
 
 ### 等级 2
 
-[休憩曲](Song_of_Rest.md "休憩曲") ()
+[休憩曲](Song_of_Rest.md "休憩曲")
 用你的技艺抚慰人心。你和你的盟友恢复精神，如同进行了一次[短休](Short_rest.md "短休")。（充能：[长休](Long_Rest.md "长休")。）
 
 [多面手](Jack_of_All_Trades.md "多面手")
@@ -274,7 +274,7 @@
 - [催眠图纹](Hypnotic_Pattern.md "催眠图纹") * [植物滋长](Plant_Growth.md "植物滋长")
 - [死者交谈](Speak_with_Dead.md "死者交谈") * [臭云术](Stinking_Cloud.md "臭云术") ### 等级 6
 
-[反魅惑](Countercharm.md "反魅惑") ()
+[反魅惑](Countercharm.md "反魅惑")
 你和9米/30英尺范围内的任何盟友在对抗[魅惑](Charmed_(Condition).md "魅惑（状态）")或[恐慌](Frightened_(Condition).md "恐慌（状态）")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
 施法

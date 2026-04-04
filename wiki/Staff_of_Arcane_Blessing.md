@@ -28,7 +28,7 @@ UID `UNI_UND_Tower_StaffBlessMystra` UUID `da0ba39a-366d-456b-8dbd-1c5790ca40bf`
 
 **持有此物品获得：**
 
-[祝福术](Bless.md "祝福术") ()
+[祝福术](Bless.md "祝福术")
 以1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [密斯特拉的祝福](Mystra's_Blessing.md "密斯特拉的祝福")
@@ -38,7 +38,7 @@ UID `UNI_UND_Tower_StaffBlessMystra` UUID `da0ba39a-366d-456b-8dbd-1c5790ca40bf`
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -52,7 +52,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长棍](Quarterstaff.md "Quarterstaff")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长棍](Quarterstaff.md "Quarterstaff")
 
 伤害：1~6
 
@@ -62,7 +62,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [短弓](Shortbow.md "Shortbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [短弓](Shortbow.md "Shortbow")
 
 伤害：2~7
 
@@ -72,7 +72,7 @@
 
 范围：18 米 (60 英尺)
 
-[抗性](Resistance_(Cantrip).md "Resistance (Cantrip)") ()
+[抗性](Resistance_(Cantrip).md "Resistance (Cantrip)")
 使目标对法术效果和状态更具抗性：其在[豁免检定](Saving_throw.md "Saving throw")上获得 **+1d4** 加值。
 
 近战：1.5 米 (5 英尺)

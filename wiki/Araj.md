@@ -3,15 +3,42 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Hanako Footman](https://www.imdb.com/name/nm5427256/) |
+| 声音 / 演员 | [Hanako Footman](https://www.imdb.com/name/nm5427256/) |
+| 角色 | [商人](Trader.md "商人") |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门")， |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [卓尔](Drow.md "卓尔") |
-| 等级 | 6 |
-| 生命值 | 52 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 经验值 | 110 |
+| 亚种 | [罗丝誓约卓尔](Lolth-Sworn_Drow.md "罗丝誓约卓尔") |
+| 职业 | [游荡者](Rogue.md "游荡者") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+| 生命值 | 52 | 36 | 67 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 16 米 (53 英尺) | 16 米 (53 英尺) | 16 米 (53 英尺) |
+| 经验值 | 110 | 110 | 110 |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 ⁠[魔索布莱城](https://forgottenrealms.fandom.com/wiki/Menzoberranzan) 位于 ⁠[北地幽暗地域](https://forgottenrealms.fandom.com/wiki/Northdark)
 
@@ -192,17 +219,17 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
 范围：自身
 
-[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离") ()
+[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离")
 安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。
 
 范围：自身
 
-[移动射击](Mobile_Shot.md "移动射击") () – [手弩](Hand_Crossbow.md "手弩")
+[移动射击](Mobile_Shot.md "移动射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -213,7 +240,7 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 范围：15 米 (50 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：4~7
 
@@ -227,7 +254,7 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [手弩](Hand_Crossbow.md "手弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -241,7 +268,7 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") () – [匕首](Dagger.md "匕首")
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") – [匕首](Dagger.md "匕首")
 
 伤害：5~13
 
@@ -256,7 +283,7 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 范围：正常武器范围
 充能：每回合
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") () – [手弩](Hand_Crossbow.md "手弩")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：5~15
 

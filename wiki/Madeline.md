@@ -3,14 +3,42 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
+| 声优 / 演员 | [Jennie Delaney](https://www.imdb.com/name/nm9860537/) |
+| 家乡 | [雷斯文小镇](Reithwin_Town.md "Reithwin Town") |
+| 职业 | [游侠](Ranger.md "Ranger") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "Gold Dwarf") |
+
+| | |
+| --- | --- |
 | 等级 | 5 |
 | 生命值 | 7 |
 | 护甲等级 | 10 |
 | 先攻 | +2 |
+| 熟练项 | +3 |
 | 移动速度 | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 

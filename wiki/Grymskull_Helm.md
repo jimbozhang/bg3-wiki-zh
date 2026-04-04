@@ -21,7 +21,7 @@
 - 攻击者无法对穿戴者造成[重击](Critical_Hit.md "Critical Hit")。
 - 获得对[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "Resistance")。
 
-[猎人印记](Hunter's_Mark.md "Hunter's Mark") ()
+[猎人印记](Hunter's_Mark.md "Hunter's Mark")
 作为1环法术施放（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点

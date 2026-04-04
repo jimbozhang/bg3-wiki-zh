@@ -40,7 +40,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 充能：每回合
 
-[顶撞](Gore_(Minotaur).md "顶撞 (牛头人)") ()
+[顶撞](Gore_(Minotaur).md "顶撞 (牛头人)")
 
 伤害：6~24
 
@@ -51,7 +51,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[鲁莽咆哮](Reckless_Roar.md "鲁莽咆哮") ()
+[鲁莽咆哮](Reckless_Roar.md "鲁莽咆哮")
 获得[优势](Advantage.md "优势")于[攻击掷骰](Attack_rolls.md "攻击掷骰")。攻击者也获得[优势](Advantage.md "优势")于对你的[攻击掷骰](Attack_rolls.md "攻击掷骰")。
 
 充能：每回合

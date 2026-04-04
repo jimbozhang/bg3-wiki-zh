@@ -39,7 +39,7 @@
 
 范围：自身
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 
 伤害：1~4
 
@@ -57,7 +57,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18米（60英尺）
 
-[毒气喷溅](Poison_Spray.md "毒气喷溅") ()
+[毒气喷溅](Poison_Spray.md "毒气喷溅")
 
 伤害：1~12
 

@@ -18,7 +18,7 @@
 
 ### 攻击与能力
 
-[触手鞭击](Tentacle_Whip_(Displacer_Beast).md "触手鞭击 (移位兽)") ()
+[触手鞭击](Tentacle_Whip_(Displacer_Beast).md "触手鞭击 (移位兽)")
 
 伤害：8~28
 

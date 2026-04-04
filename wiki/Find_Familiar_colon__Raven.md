@@ -28,7 +28,7 @@
 | 护甲等级 | 12 |  |  |  |  |
 | 体型 | 微型 |  |  |  |  |
 
-[喙啄攻击](Beak_Attack_(Raven_Familiar).md "喙啄攻击 (渡鸦魔宠)") ()
+[喙啄攻击](Beak_Attack_(Raven_Familiar).md "喙啄攻击 (渡鸦魔宠)")
 
 飞至目标位置
 

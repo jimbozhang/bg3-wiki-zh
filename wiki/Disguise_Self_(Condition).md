@@ -12,7 +12,7 @@
 
 ## 赋予
 
-[驱散伪装](Dispel_Disguise.md "驱散伪装") ()
+[驱散伪装](Dispel_Disguise.md "驱散伪装")
 驱散你的伪装并恢复原形。
 
 ## 注释

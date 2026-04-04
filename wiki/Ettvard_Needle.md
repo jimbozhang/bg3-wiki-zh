@@ -3,10 +3,15 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Andrew Spooner](https://www.imdb.com/name/nm0819381/) |
+| 声音 / 演员 | [Andrew Spooner](https://www.imdb.com/name/nm0819381/) |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
+| 职业 | _[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_ 的主编 |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
+
+| | |
+| --- | --- |
 
 **埃塔瓦德·针**是_[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_的人类主编，可在其主楼[博德之口](Baldur's_Mouth.md "博德之口")、[下城区](Lower_City.md "下城区")找到。
 
@@ -47,7 +52,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [硬头锤](Mace.md "硬头锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [硬头锤](Mace.md "硬头锤")
 
 伤害：1~6 + 调整值
 

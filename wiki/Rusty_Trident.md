@@ -28,13 +28,13 @@ UID `WPN_HUM_Trident_A_0_Rusty_A` UUID `27ef84b1-ea40-4f06-a013-f6281511f0e9` ##
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "Rush Attack") ()
+[突进攻击](Rush_Attack.md "Rush Attack")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")状态。 (充能：[短休](Short_rest.md "Short rest")。)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing Strike")
 刺击一名敌人，可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")状态。 (充能：[短休](Short_rest.md "Short rest")。)
 
-[缴械打击](Disarming_Strike.md "Disarming Strike") ()
+[缴械打击](Disarming_Strike.md "Disarming Strike")
 集中攻击敌人的手部，可能迫使其丢弃手持的武器。 (充能：[短休](Short_rest.md "Short rest")。)
 
 ## 获取地点

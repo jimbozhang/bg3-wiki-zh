@@ -3,15 +3,39 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Declan Perring](https://www.imdb.com/name/nm9779536/) |
+| 声音 / 演员 | [Declan Perring](https://www.imdb.com/name/nm9779536/) |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [地精](Goblin.md "地精") |
-| 等级 | 3 |
-| 生命值 | 21 |
-| 护甲等级 | 14 |
-| 先攻 | +2 |
-| 经验值 | 50 |
+| 职业 | [战士](Fighter.md "战士") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 21 | 14 | 31 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 50 | 50 | 50 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 14 / (+2) | 11 / (0) | 10 / (0) | 8 / (-1) | 10 / (0) |
+
+**特性**
+
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [原始狂怒](Crude_Frenzy.md "原始狂怒")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 ## 荣誉难度属性
 
@@ -100,7 +124,7 @@
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "割裂") () – [沉重巨斧](Very_Heavy_Greataxe.md "沉重巨斧")
+[割裂](Lacerate.md "割裂") – [沉重巨斧](Very_Heavy_Greataxe.md "沉重巨斧")
 
 伤害：3~14
 
@@ -114,7 +138,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[巨像切割者](Gargantuan_Cleave.md "巨像切割者") () – [沉重巨斧](Very_Heavy_Greataxe.md "沉重巨斧")
+[巨像切割者](Gargantuan_Cleave.md "巨像切割者") – [沉重巨斧](Very_Heavy_Greataxe.md "沉重巨斧")
 
 伤害：1~6 + 调整值
 
@@ -136,10 +160,10 @@
 
 可能使目标[恐慌](Frightened_(Condition).md "恐慌（状态）")。他们将在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。
 
-[准备](Prepare.md "准备") () – [沉重巨斧](Very_Heavy_Greataxe.md "沉重巨斧")
+[准备](Prepare.md "准备") – [沉重巨斧](Very_Heavy_Greataxe.md "沉重巨斧")
 花费 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害（最少 1 点）。
 
-[投掷石头](Throw_Stone.md "投掷石头") ()
+[投掷石头](Throw_Stone.md "投掷石头")
 
 向敌人投掷一块尖锐的石头。
 

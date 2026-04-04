@@ -3,15 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [詹姆斯·亚历山大](https://www.imdb.com/name/nm9298458/) |
+| 声音 / 演员 | [詹姆斯·亚历山大](https://www.imdb.com/name/nm9298458/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 55 |
-| 护甲等级 | 16 |
-| 先攻 | +5 |
-| 经验值 | 250 |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 8 | 8 |
+| 生命值 | 55 | 58 |
+| 护甲等级 | 16 | 16 |
+| 先攻 | +5 | +5 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 21 / (+5) | 14 / (+2) | 8 / (-1) | 14 / (+2) | 10 / (0) |
+
+**特性**
+
+- [箭术](Archery.md "Archery")
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "Crossbow Expert: Point-Blank")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [箭术](Archery.md "Archery")
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "Crossbow Expert: Point-Blank")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **拳手“神射手”米布斯**是一名[人类](Human.md "Human")[游侠](Ranger.md "Ranger")，也是[焰拳](Flaming_Fist.md "Flaming Fist")的成员。他可以在[下城区](Lower_City.md "Lower City")的[第三幕](Act_Three.md "Act Three")中找到。
 
@@ -46,7 +72,7 @@
 
 ### 攻击与能力<sup>[\[3\]](#cite_note-3)</sup>
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "Movement Speed")。在你的回合剩余时间内，掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "Short rest")
@@ -66,7 +92,7 @@
 [力量](Strength.md "Strength")[豁免](Saving_throws.md "Saving throws")
 范围：18 米 (60 英尺)
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：6~15
 
@@ -80,7 +106,7 @@
 范围：常规武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：6~15
 
@@ -90,7 +116,7 @@
 
 范围：18 米 (60 英尺)
 
-[疾速齐射](Volley.md "Volley") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[疾速齐射](Volley.md "Volley") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：6~15
 

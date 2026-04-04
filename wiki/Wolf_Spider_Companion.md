@@ -46,7 +46,7 @@
 | 生命值 | 24 |  |  |  |  |
 | 护甲等级 | 18 |  |  |  |  |
 
-[茧缚](Cocoon.md "茧缚") ()
+[茧缚](Cocoon.md "茧缚")
 用你的蛛网困住一个生物，使其[茧缚](Cocooned_(Condition).md "茧缚 (状态)")。
 
 [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
@@ -73,7 +73,7 @@
 | 生命值 | 60 |  |  |  |  |
 | 护甲等级 | 21 |  |  |  |  |
 
-[爆裂幼蛛](Bursting_Brood.md "爆裂幼蛛") ()
+[爆裂幼蛛](Bursting_Brood.md "爆裂幼蛛")
 释放一窝幼蛛，使目标[感染](Infested_(Bursting_Brood)_(Condition).md "感染 (爆裂幼蛛) (状态)")。
 
 [兽性狂怒](Bestial_Fury.md "兽性狂怒")

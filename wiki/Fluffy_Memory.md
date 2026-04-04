@@ -27,7 +27,7 @@
 [粉碎跃击](Crushing_Flight.md "粉碎跃击") (+ )
 跃向目标进行啃咬并将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：每回合。）
 
-[幽影利爪](Shadowy_Claws.md "幽影利爪") ()
+[幽影利爪](Shadowy_Claws.md "幽影利爪")
 用致命利爪猛击并将目标击退1.5米/5英尺。
 
 [虚无形态](Ethereal.md "虚无形态")

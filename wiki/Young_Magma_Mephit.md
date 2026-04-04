@@ -65,12 +65,12 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
-[飞行](Fly_(class_action).md "飞行（职业动作）") ()
+[飞行](Fly_(class_action).md "飞行（职业动作）")
 飞至目标位置
 
 范围：18 m (60 ft)
 
-[燃烧爪](Burning_Claws.md "燃烧爪") ()
+[燃烧爪](Burning_Claws.md "燃烧爪")
 
 伤害：3~9
 

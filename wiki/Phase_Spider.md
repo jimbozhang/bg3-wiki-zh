@@ -119,13 +119,13 @@
 
 ### 攻击与能力
 
-[以太漫游](Ethereal_Jaunt.md "以太漫游") ()
+[以太漫游](Ethereal_Jaunt.md "以太漫游")
 被银色雾气包围，传送到一个你能看到的未被占据的空间。
 
 范围：22 米 (73 英尺)
 充能：每回合
 
-[猛毒之噬](Venomous_Bite_(Phase_Spider).md "猛毒之噬 (相位蜘蛛)") ()
+[猛毒之噬](Venomous_Bite_(Phase_Spider).md "猛毒之噬 (相位蜘蛛)")
 
 伤害：6~21
 
@@ -142,7 +142,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[猛毒扩散](Venomous_Discharge_(Phase_Spider).md "猛毒扩散 (相位蜘蛛)") ()
+[猛毒扩散](Venomous_Discharge_(Phase_Spider).md "猛毒扩散 (相位蜘蛛)")
 
 伤害：5~15
 
@@ -153,7 +153,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：12 米 (40 英尺)
 
-[蛛网术](Web_(Spider).md "蛛网术 (蜘蛛)") ()
+[蛛网术](Web_(Spider).md "蛛网术 (蜘蛛)")
 喷出浓密、易燃的蛛网，减慢范围内的生物并可能使其[网缚](Enwebbed_(Condition).md "网缚 (状态)")。
 
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")

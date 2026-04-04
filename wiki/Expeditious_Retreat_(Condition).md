@@ -14,7 +14,7 @@
 
 ## 赋予
 
-[疾走](Dash_(bonus_action).md "Dash (bonus action)") ()
+[疾走](Dash_(bonus_action).md "Dash (bonus action)")
 本回合移动更远距离：双倍你的 [移动速度](Movement_speed.md "Movement Speed")。
 
 ## 脚底抹油的来源

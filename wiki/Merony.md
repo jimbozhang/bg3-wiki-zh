@@ -67,7 +67,7 @@
 
 ### 攻击与能力
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [轻弩](Light_Crossbow.md "轻弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [轻弩](Light_Crossbow.md "轻弩")
 
 伤害：3~10
 

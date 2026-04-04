@@ -2,15 +2,38 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Colm Gleeson](https://www.imdb.com/name/nm5896769/) |
+| 声音 / 演员 | [Colm Gleeson](https://www.imdb.com/name/nm5896769/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [猎人鱼人](Kuo-toa.md "Kuo-toa") |
-| 等级 | 2 |
-| 生命值 | 16 |
-| 护甲等级 | 12 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 2 | 2 | 2 |
+| 生命值 | 16 | 11 | 20 |
+| 护甲等级 | 12 | 12 | 12 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 60 千克 (120 磅) | 60 千克 (120 磅) | 60 千克 (120 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 13 / (+1) | 11 / (0) | 11 / (0) | 10 / (0) | 8 / (-1) |
+
+**特性**
+
+- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+
+**特性**
+
+- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 ## 状态
 
@@ -43,7 +66,7 @@
 
 ### 攻击与能力
 
-[渔网](Net.md "渔网") ()
+[渔网](Net.md "渔网")
 
 投掷渔网以\_(状态)[诱捕](Ensnared_(Net)_(Condition).md "诱捕 (渔网) (状态)")目标。
 
@@ -52,7 +75,7 @@
 范围：8 米 (27 英尺)
 每次战斗充能一次
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [轻弩](Light_Crossbow.md "轻弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [轻弩](Light_Crossbow.md "轻弩")
 
 伤害：2~9
 
@@ -66,7 +89,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [轻弩](Light_Crossbow.md "轻弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [轻弩](Light_Crossbow.md "轻弩")
 
 伤害：2~9
 

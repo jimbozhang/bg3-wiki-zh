@@ -30,7 +30,7 @@
 
 范围：自身
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") ()
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击")
 
 伤害：
 
@@ -42,7 +42,7 @@
 
 范围：正常武器范围
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") ()
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）")
 
 伤害：1~6
 

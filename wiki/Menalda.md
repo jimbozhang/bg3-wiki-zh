@@ -3,15 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Yasmin Mwanza](https://www.imdb.com/name/nm5684254/) |
+| 声音 / 演员 | [Yasmin Mwanza](https://www.imdb.com/name/nm5684254/) |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [侏儒](Gnome.md "侏儒") |
+| 亚种 | [岩侏儒](Rock_Gnome.md "岩侏儒") |
+
+| | |
+| --- | --- |
 | 等级 | 8 |
 | 生命值 | 67 |
 | 护甲等级 | 14 |
 | 先攻 | +2 |
+| 熟练项 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) |
 | 经验值 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 14 / (+2) | 10 / (0) | 18 / (+4) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [小步奔行](Shortened_Stride.md "小步奔行")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [小步奔行](Shortened_Stride.md "小步奔行")
 
 **梅纳尔德**是[贡德教会](Church_of_Gond.md "贡德教会")的一名[侏儒](Gnome.md "侏儒")成员，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")的[第三章](Act_Three.md "第三章")期间找到。
 
@@ -43,7 +69,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [轻锤](Light_Hammer.md "轻锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [轻锤](Light_Hammer.md "轻锤")
 
 伤害：0~3
 
@@ -66,7 +92,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [轻锤](Light_Hammer.md "轻锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [轻锤](Light_Hammer.md "轻锤")
 
 伤害：0~3
 
@@ -81,7 +107,7 @@
 
 范围：18 米 (60 英尺)
 
-[电爪](Shocking_Grasp.md "电爪") ()
+[电爪](Shocking_Grasp.md "电爪")
 
 伤害：1~8
 

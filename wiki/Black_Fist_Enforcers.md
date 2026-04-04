@@ -28,16 +28,16 @@
 
 斯力克·伊娜塔拉是[游侠](Ranger.md "游侠")/[游荡者](Rogue.md "游荡者")兼职，拥有[偷袭](Sneak_Attack.md "偷袭")和[额外攻击](Extra_Attack.md "额外攻击")，装备有[长弓 +1](Longbow_+1.md "长弓 +1")。
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
 [诱捕攻击（远程）](Ensnaring_Strike_(Ranged).md "诱捕攻击（远程）") (+ + )
 你的攻击会召唤荆棘藤蔓，可能\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕（诱捕攻击）（状态）")你的目标。
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") ()
+[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）")
 对一名你拥有[优势](Advantage.md "优势")的敌人造成额外1d6点伤害。（充能：每回合。）
 
-[狼伙伴](Wolf_Companion.md "狼伙伴") ()
+[狼伙伴](Wolf_Companion.md "狼伙伴")
 召唤一匹狼，可以造成毁灭性伤口并用其[飞扑啃咬](Lunging_Bite.md "飞扑啃咬")击倒敌人。（充能：[短休](Short_rest.md "短休")。）
 
 ## 生物：鱼饵阿诺
@@ -53,16 +53,16 @@
 
 鱼饵阿诺是[游荡者](Rogue.md "游荡者")，装备有[刺剑 +1](Rapier_+1.md "刺剑 +1")。
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使你的对手[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击一名敌人并可能造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") ()
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）")
 对一名你拥有[优势](Advantage.md "优势")的敌人造成额外1d6点伤害。（充能：每回合。）
 
 [弱化打击](Weakening_Strike.md "弱化打击")()

@@ -2,16 +2,37 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Robert G. Slade](https://www.imdb.com/name/nm0805195/) |
+| 声音 / 演员 | [Robert G. Slade](https://www.imdb.com/name/nm0805195/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [妖精](Fey.md "Fey") |
 | 种族 | [红帽子](Redcap.md "Redcap") |
-| 等级 | 4 |
-| 生命值 | 45 |
-| 护甲等级 | 14 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 40 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 45 | 31 | 58 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 经验值 | 40 | 40 | 40 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 13 / (+1) | 18 / (+4) | 10 / (0) | 12 / (+1) | 9 / (-1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [多重攻击：嗜血](Multiattack_colon__Bloodlust.md "多重攻击：嗜血")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [多重攻击：嗜血](Multiattack_colon__Bloodlust.md "多重攻击：嗜血")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **红帽子**是为[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")服务的[妖精](List_of_creature_types.md#Fey "生物类型列表")生物。它们可以在[第一幕](Act_One.md "第一幕")期间在[日照湿地](Sunlit_Wetlands.md "日照湿地")找到。这些小型、嗜血的生物诞生于嗜血欲望，必须将帽子浸泡在血液中才能生存。
 
@@ -30,7 +51,7 @@
 
 ### 攻击与能力
 
-[铁意追击](Ironbound_Pursuit.md "铁意追击") ()
+[铁意追击](Ironbound_Pursuit.md "铁意追击")
 
 伤害：7~28
 
@@ -41,7 +62,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [镰刀](Sickle.md "镰刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [镰刀](Sickle.md "镰刀")
 
 伤害：5~8
 
@@ -53,7 +74,7 @@
 
 仅在[嗜血](Bloodlust_(Condition).md "嗜血（状态）")效果下可用：
 
-[多重攻击](Multiattack_(Redcap).md "多重攻击（红帽子）") ()
+[多重攻击](Multiattack_(Redcap).md "多重攻击（红帽子）")
 
 伤害：
 

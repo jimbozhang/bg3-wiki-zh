@@ -3,15 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Enzo Squillino Jr.](https://www.imdb.com/name/nm0820076/) |
+| 声音 / 演员 | [Enzo Squillino Jr.](https://www.imdb.com/name/nm0820076/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 8 |
-| 生命值 | 62 |
-| 护甲等级 | 16 |
-| 先攻 | +5 |
-| 经验值 | 250 |
+| 职业 | [游侠](Ranger.md "游侠") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 62 | 59 | 64 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +5 | +5 | +5 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 21 / (+5) | 14 / (+2) | 8 / (-1) | 14 / (+2) | 10 / (0) |
+
+**特性**
+
+- [箭术](Archery.md "箭术")
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [箭术](Archery.md "箭术")
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **拳手帕德**是一名[人类](Human.md "人类")[游侠](Ranger.md "游侠")，也是[焰拳](Flaming_Fist.md "焰拳")的成员。他可以在[下城区](Lower_City.md "下城区")的[第三幕](Act_Three.md "第三幕")中找到。
 
@@ -42,12 +68,12 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [重弩](Heavy_Crossbow.md "重弩")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [重弩](Heavy_Crossbow.md "重弩")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，投掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [重弩](Heavy_Crossbow.md "重弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：6~15
 
@@ -61,7 +87,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：6~15
 
@@ -86,7 +112,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[疾速齐射](Volley.md "疾速齐射") ()
+[疾速齐射](Volley.md "疾速齐射")
 
 伤害：
 

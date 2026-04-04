@@ -34,7 +34,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [轻锤](Light_Hammer.md "轻锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [轻锤](Light_Hammer.md "轻锤")
 
 伤害：0~3
 
@@ -57,7 +57,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [轻锤](Light_Hammer.md "轻锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [轻锤](Light_Hammer.md "轻锤")
 
 伤害：0~3
 
@@ -72,7 +72,7 @@
 
 范围：18 米 (60 英尺)
 
-[电爪](Shocking_Grasp.md "电爪") ()
+[电爪](Shocking_Grasp.md "电爪")
 
 伤害：1~8
 

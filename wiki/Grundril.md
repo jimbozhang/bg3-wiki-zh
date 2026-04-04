@@ -43,7 +43,7 @@
 
 ### 攻击与能力
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") () – [短弓](Shortbow.md "短弓")
+[腿筋射击](Hamstring_Shot.md "腿筋射击") – [短弓](Shortbow.md "短弓")
 
 伤害：3~8
 
@@ -67,7 +67,7 @@
 
 射程：18 米 (60 英尺)
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [短弓](Shortbow.md "短弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [短弓](Shortbow.md "短弓")
 
 伤害：3~8
 

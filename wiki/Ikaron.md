@@ -90,7 +90,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") () – [巨斧](Greataxe.md "Greataxe")
+[劈砍](Cleave.md "Cleave") – [巨斧](Greataxe.md "Greataxe")
 
 伤害：
 
@@ -100,7 +100,7 @@
 
 充能：[短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [巨斧](Greataxe.md "Greataxe")
+[割裂](Lacerate.md "Lacerate") – [巨斧](Greataxe.md "Greataxe")
 
 伤害：4~15
 
@@ -114,7 +114,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨斧](Greataxe.md "Greataxe")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨斧](Greataxe.md "Greataxe")
 
 伤害：4~15
 
@@ -124,7 +124,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[准备](Prepare.md "Prepare") () – [巨斧](Greataxe.md "Greataxe")
+[准备](Prepare.md "Prepare") – [巨斧](Greataxe.md "Greataxe")
 花费 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害（最低 1 点）。
 
 范围：自身

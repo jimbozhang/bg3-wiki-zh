@@ -32,7 +32,7 @@
 
 通过你的表演激励盟友超越其能力。他们可以为下一次 [攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定") 或 [豁免检定](Saving_throw.md "豁免检定") 添加 +1d6 奖励。
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合覆盖更多距离：使你的 [移动速度](Movement_speed.md "移动速度") 翻倍。
 
 [妖火](Faerie_Fire.md "妖火") (+ )
@@ -48,7 +48,7 @@
 | 护甲等级 | 16 |  |  |  |  |
 | 移动速度 | 7.5 米（25 英尺） |  |  |  |  |
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合覆盖更多距离：使你的 [移动速度](Movement_speed.md "移动速度") 翻倍。
 
 ## 如何学习

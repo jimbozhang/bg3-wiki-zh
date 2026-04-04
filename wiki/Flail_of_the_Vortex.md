@@ -24,7 +24,7 @@ UID `WPN_Flail_Air_Myrmidon_ConjureElemental` UUID `8f8ad4f1-ee45-45f5-9368-3da9
 
 该武器还提供以下动作：
 
-[电气猛击](Electrified_Flail.md "电气猛击") ()
+[电气猛击](Electrified_Flail.md "电气猛击")
 用你充满闪电的链枷猛击敌人，并使其[震慑](Stunned_(Condition).md "震慑（状态）")。
 
 ## 获取地点

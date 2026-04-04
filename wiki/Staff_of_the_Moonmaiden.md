@@ -27,7 +27,7 @@ UID `WPN_HUM_Staff_Selune_A` UUID `4f0bc5b8-ff1e-49cd-b1f0-ee45c1ae4a9e` ### 武
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物以使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

@@ -2,15 +2,36 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Jay Taylor](https://www.imdb.com/name/nm2497266) |
+| 声音 / 演员 | [Jay Taylor](https://www.imdb.com/name/nm2497266) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [异怪](Aberration.md "异怪") |
 | 种族 | [夺心魔](Mind_flayer.md "夺心魔") |
-| 等级 | 8 |
-| 生命值 | 55 |
-| 护甲等级 | 15 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 55 | 38 | 71 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 60 千克 (120 磅) | 60 千克 (120 磅) | 60 千克 (120 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 12 / (+1) | 12 / (+1) | 19 / (+4) | 17 / (+3) | 17 / (+3) |
+
+**特性**
+
+- [强效塑能](Empowered_Evocation.md "强效塑能")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [强效塑能](Empowered_Evocation.md "强效塑能")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -66,7 +87,7 @@
 
 ### 攻击与能力
 
-[法术反制](Counterspell.md "法术反制") ()
+[法术反制](Counterspell.md "法术反制")
 
 尝试阻止施放法术。
 
@@ -76,7 +97,7 @@
 
 充能：每场战斗
 
-[提取大脑](Extract_Brain.md "提取大脑") ()
+[提取大脑](Extract_Brain.md "提取大脑")
 
 伤害：11~101
 
@@ -92,25 +113,25 @@
 
 尝试提取[震慑](Stunned_(status_group).md) or [昏迷](Unconscious_(status_group).md) 生物的大脑。
 
-[浮空术](Levitate_(Illithid_Power).md "浮空术 (灵吸怪能力)") ()
+[浮空术](Levitate_(Illithid_Power).md "浮空术 (灵吸怪能力)")
 轻松漂浮到目的地。
 
 创造六枚魔法力场飞镖，每枚对目标造成 1d4 + 5⁠⁠[力场](Force.md "力场")伤害。
 
 飞镖总是命中目标，并且可以单独瞄准每个飞镖。
 
-[心灵震爆](Mind_Blast.md "心灵震爆") ()
+[心灵震爆](Mind_Blast.md "心灵震爆")
 
 伤害：4~32 + 调整值
 
 喷出锥形心灵能量波，并可能[震慑](Stunned_(Condition).md "震慑 (状态)")范围内的目标。
 
-[夺心魔支配](Mind_Flayer_Domination.md "夺心魔支配") ()
+[夺心魔支配](Mind_Flayer_Domination.md "夺心魔支配")
 支配附近的一个类人生物。盟友不受影响。每次被支配的生物受到伤害时，它都可以重复进行[豁免检定](Saving_throw.md "豁免检定")以对抗你的支配。
 
 当即将被敌人击中时，使用你的[反应](Reaction.md "反应")将你的[护甲等级](Armour_Class.md "护甲等级")提高 5。你也不会因[魔法飞弹](Magic_Missile.md "魔法飞弹")而受到伤害。这些效果持续到你的下一回合开始。
 
-[触手鞭笞](Tentacle_Whip_(Mind_Flayer).md "触手鞭笞 (夺心魔)") ()
+[触手鞭笞](Tentacle_Whip_(Mind_Flayer).md "触手鞭笞 (夺心魔)")
 
 用你的触手猛击，并可能震慑你的目标。
 

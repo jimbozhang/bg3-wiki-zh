@@ -24,7 +24,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [巨剑](Greatsword.md "巨剑")
+[劈砍](Cleave.md "劈砍") – [巨剑](Greatsword.md "巨剑")
 
 伤害：
 
@@ -47,7 +47,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器射程
 
-[割裂](Lacerate.md "割裂") () – [巨剑](Greatsword.md "巨剑")
+[割裂](Lacerate.md "割裂") – [巨剑](Greatsword.md "巨剑")
 
 伤害：6~16
 
@@ -61,7 +61,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨剑](Greatsword.md "巨剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨剑](Greatsword.md "巨剑")
 
 伤害：6~16
 
@@ -71,7 +71,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [巨剑](Greatsword.md "巨剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [巨剑](Greatsword.md "巨剑")
 
 伤害：1~4
 

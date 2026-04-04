@@ -3,15 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [戴夫·琼斯](https://www.imdb.com/name/nm10439801/) |
+| 声音 / 演员 | [戴夫·琼斯](https://www.imdb.com/name/nm10439801/) |
+| 职业 | [圣武士](Paladin.md "Paladin") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 70 |
-| 护甲等级 | 18 |
-| 先攻 | 0 |
-| 经验值 | 140 |
+| 副职 | [复仇之誓](Oath_of_Vengeance.md "Oath of Vengeance") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 70 | 49 | 91 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 140 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
+
+**特性**
+
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [坚韧复仇](Relentless_Avenger.md "Relentless Avenger")
+
+**特性**
+
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [坚韧复仇](Relentless_Avenger.md "Relentless Avenger")
 
 ## 状态
 
@@ -88,7 +117,7 @@
 
 范围: 正常武器范围
 
-[劈砍](Cleave.md "Cleave") () – [长戟](Halberd.md "Halberd")
+[劈砍](Cleave.md "Cleave") – [长戟](Halberd.md "Halberd")
 
 伤害:
 
@@ -98,7 +127,7 @@
 
 充能: [短休](Short_rest.md "Short rest")
 
-[腿筋射击](Hamstring_Shot.md "Hamstring Shot") () – [短弓](Shortbow.md "Shortbow")
+[腿筋射击](Hamstring_Shot.md "Hamstring Shot") – [短弓](Shortbow.md "Shortbow")
 
 伤害: 1~6
 
@@ -110,7 +139,7 @@
 范围: 正常武器范围
 充能: [短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [长戟](Halberd.md "Halberd")
+[割裂](Lacerate.md "Lacerate") – [长戟](Halberd.md "Halberd")
 
 伤害: 5~14
 
@@ -144,7 +173,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长戟](Halberd.md "Halberd")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长戟](Halberd.md "Halberd")
 
 伤害: 5~14
 
@@ -154,7 +183,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [短弓](Shortbow.md "Shortbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [短弓](Shortbow.md "Shortbow")
 
 伤害: 1~6
 
@@ -164,7 +193,7 @@
 
 范围: 18 米 (60 英尺)
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [长戟](Halberd.md "Halberd")
+[突进攻击](Rush_Attack.md "Rush Attack") – [长戟](Halberd.md "Halberd")
 
 伤害: 5~8
 
@@ -176,7 +205,7 @@
 范围: 9 米 (30 英尺)
 充能: [短休](Short_rest.md "Short rest")
 
-[投掷](Throw.md "Throw") () – [粘性球茎](Caustic_Bulb.md "Caustic Bulb")
+[投掷](Throw.md "Throw") – [粘性球茎](Caustic_Bulb.md "Caustic Bulb")
 
 伤害:
 

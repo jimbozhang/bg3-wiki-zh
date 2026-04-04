@@ -3,16 +3,46 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [亚当·伯顿](https://www.imdb.com/name/nm1544070/) |
+| 声音 / 演员 | [亚当·伯顿](https://www.imdb.com/name/nm1544070/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半身人](Halfling.md "Halfling") |
-| 等级 | 7 |
-| 生命值 | 48 |
-| 护甲等级 | 18 |
-| 先攻 | +2 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 320 |
+| 亚种 | [轻足半身人](Lightfoot_Halfling.md "Lightfoot halfling") |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 48 | 33 | 62 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 12 / (+1) | 12 / (+1) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [勇敢](Brave.md "Brave")
+- [半身人幸运](Halfling_Luck.md "Halfling Luck")
+- [阴影伏击](Shadow_Ambush.md "Shadow Ambush")
+- [生于黑暗](Born_into_Darkness.md "Born into Darkness")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [勇敢](Brave.md "Brave")
+- [半身人幸运](Halfling_Luck.md "Halfling Luck")
+- [阴影伏击](Shadow_Ambush.md "Shadow Ambush")
+- [生于黑暗](Born_into_Darkness.md "Born into Darkness")
 
 **哨兵 弗莱德里克**是[莎尔](Shar.md "Shar")的追随者，守卫着位于 X: -348 Y: -1651 的[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace")。
 
@@ -37,7 +67,7 @@
 
 ### 攻击与能力
 
-[召唤黑暗](Beckoning_Darkness.md "Beckoning Darkness") ()
+[召唤黑暗](Beckoning_Darkness.md "Beckoning Darkness")
 
 伤害：2~16
 
@@ -48,7 +78,7 @@
 [魅力](Charisma.md "Charisma") [豁免](Saving_throws.md "Saving throws")
 范围：4 米 (13 英尺)
 
-[冻僵](Bone_Chill.md "Bone Chill") ()
+[冻僵](Bone_Chill.md "Bone Chill")
 
 伤害：1~8
 
@@ -63,7 +93,7 @@
 
 范围：18 米 (60 英尺)
 
-[暗影步](Shadow_Step.md "Shadow Step") ()
+[暗影步](Shadow_Step.md "Shadow Step")
 从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
 
 范围：18 米 (60 英尺)

@@ -21,7 +21,7 @@ UID `S_CRE_BloodOfLathander` 状态 `CRE_BloodOfLathander` *UID `UNI_CRE_HUM_Sun
 
 **持有此物品获得：**
 
-[阳炎射线](Sunbeam.md "阳炎射线") ()
+[阳炎射线](Sunbeam.md "阳炎射线")
 作为 6 级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [洛山达的祝福](Lathander's_Blessing.md "洛山达的祝福")
@@ -34,7 +34,7 @@ UID `S_CRE_BloodOfLathander` 状态 `CRE_BloodOfLathander` *UID `UNI_CRE_HUM_Sun
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

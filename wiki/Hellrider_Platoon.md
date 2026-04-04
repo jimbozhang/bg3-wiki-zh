@@ -25,7 +25,7 @@
 | 生命值 | 44 |  |  |  |  |
 | 护甲等级 | 17 |  |  |  |  |
 
-[至圣斩](Divine_Smite_(reaction).md "至圣斩 (反应)") ()
+[至圣斩](Divine_Smite_(reaction).md "至圣斩 (反应)")
 你的武器造成额外 2d8⁠⁠[光耀](Radiant.md "光耀")伤害，当攻击[邪魔](Fiends.md "邪魔")或[不死生物](Undead.md "不死生物")时，伤害增加 1d8⁠⁠[光耀](Radiant.md "光耀")。
 
 [炼狱叱喝](Hellish_Rebuke.md "炼狱叱喝") (+ )
@@ -53,7 +53,7 @@
 [群体治愈真言](Mass_Healing_Word.md "群体治愈真言") (+ )
 治疗你附近的盟友。
 
-[圣火术](Sacred_Flame.md "圣火术") ()
+[圣火术](Sacred_Flame.md "圣火术")
 用火焰般的光耀吞噬目标。
 
 [黎明曙光](Radiance_of_the_Dawn.md "黎明曙光") (+ )

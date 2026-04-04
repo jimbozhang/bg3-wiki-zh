@@ -14,7 +14,7 @@
 
 佩戴此物品获得：
 
-[侦测思想](Detect_Thoughts.md "Detect Thoughts") ()
+[侦测思想](Detect_Thoughts.md "Detect Thoughts")
 以2级法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 [灵魂察觉](Soul_Perception.md "Soul Perception")

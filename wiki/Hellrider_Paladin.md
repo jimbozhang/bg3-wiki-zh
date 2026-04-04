@@ -3,15 +3,48 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [James Howard](https://www.imdb.com/name/nm1546326/) |
+| 声音 / 演员 | [James Howard](https://www.imdb.com/name/nm1546326/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [提夫林](Tiefling.md "提夫林") |
-| 等级 | 10 |
-| 生命值 | 92 |
-| 护甲等级 | 19 |
-| 先攻 | +1 |
-| 移动速度 | 9 m (30 ft) |
+| 亚种 | [阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "阿斯蒙蒂斯提夫林") |
+| 职业 | [圣武士](Paladin.md "圣武士") |
+| 副职 | [复仇之誓](Oath_of_Vengeance.md "复仇之誓") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 92 | 65 | 119 |
+| 护甲等级 | 19 | 19 | 19 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 12 m (40 ft) | 12 m (40 ft) | 12 m (40 ft) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 12 / (+1) | 16 / (+3) | 10 / (0) | 10 / (0) | 16 / (+3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
+- [神佑](Divine_Health.md "神佑")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [卓越板甲](Superior_Plate_(-1).md "卓越板甲 (-1)")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
+- [神佑](Divine_Health.md "神佑")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [卓越板甲](Superior_Plate_(-1).md "卓越板甲 (-1)")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -93,7 +126,7 @@
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [巨锤 +1](Maul_+1.md "巨锤 +1")
+[摔翻打击](Backbreaker.md "摔翻打击") – [巨锤 +1](Maul_+1.md "巨锤 +1")
 
 伤害: 5~8
 
@@ -105,7 +138,7 @@
 范围: 正常武器范围
 充能: [短休](Short_rest.md "短休")
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [巨锤 +1](Maul_+1.md "巨锤 +1")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [巨锤 +1](Maul_+1.md "巨锤 +1")
 
 伤害: 7~17
 
@@ -141,7 +174,7 @@
 
 近战: 1.5 m (5 ft)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨锤 +1](Maul_+1.md "巨锤 +1")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨锤 +1](Maul_+1.md "巨锤 +1")
 
 伤害: 7~17
 
@@ -156,7 +189,7 @@
 
 范围: 18 m (60 ft)
 
-[韧性](Tenacity.md "韧性") () – [巨锤 +1](Maul_+1.md "巨锤 +1")
+[韧性](Tenacity.md "韧性") – [巨锤 +1](Maul_+1.md "巨锤 +1")
 
 伤害: 4
 

@@ -3,16 +3,27 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Shala Nyx](https://www.imdb.com/name/nm5964389/) |
+| 声音 / 演员 | [Shala Nyx](https://www.imdb.com/name/nm5964389/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 9 |
-| 生命值 | 54 |
-| 护甲等级 | 11 |
-| 先攻 | 0 |
-| 移动速度 | 9 m (30 ft) |
-| 经验值 | 200 |
+| 职业 | [牧师](Cleric.md "Cleric") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 54 | 37 | 70 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) | 0 m (0 ft) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 11 / (0) | 14 / (+2) | 12 / (+1) | 18 / (+4) | 14 / (+2) |
 
 **卡特林·莱尔斯金**是[古尔](Gur.md "Gur")部落的[人类](Human.md "Human")游牧民之一。她可以在[利文顿](Rivington.md "Rivington")的[古尔营地](Gur_Camp.md "Gur Camp")找到，位于[第三幕](Act_3.md "Act 3")。
 
@@ -55,7 +66,7 @@
 
 范围：9 m (30 ft)
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [轻锤](Light_Hammer.md "Light Hammer")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [轻锤](Light_Hammer.md "Light Hammer")
 
 伤害：3~6
 
@@ -77,7 +88,7 @@
 
 范围：18 m (60 ft)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [轻锤](Light_Hammer.md "Light Hammer")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [轻锤](Light_Hammer.md "Light Hammer")
 
 伤害：3~6
 
@@ -107,7 +118,7 @@
 
 范围：自身
 
-[圣火术](Sacred_Flame.md "Sacred Flame") ()
+[圣火术](Sacred_Flame.md "Sacred Flame")
 
 伤害：1~8
 

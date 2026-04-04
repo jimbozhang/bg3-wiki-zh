@@ -3,16 +3,38 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Hara Yannas](https://www.imdb.com/name/nm3925968/) |
+| 声音 / 演员 | [Hara Yannas](https://www.imdb.com/name/nm3925968/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 9 |
-| 生命值 | 64 |
-| 护甲等级 | 11 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 200 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 64 | 44 | 83 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 19 / (+4) | 11 / (0) | 14 / (+2) | 12 / (+1) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [幻影伤痕](Scar_of_Mirages.md "幻影伤痕")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [幻影伤痕](Scar_of_Mirages.md "幻影伤痕")
 
 **卡西沃拉·多菲尔**是[古尔](Gur.md "古尔")——一个[人类](Human.md "Human")游牧部落的成员。她可以在[利文顿](Rivington.md "Rivington")的[古尔营地](Gur_Camp.md "Gur_Camp")找到，位于[第三幕](Act_3.md "Act_3")。
 
@@ -50,7 +72,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "华舞") () – [弯刀](Scimitar.md "弯刀")
+[华舞](Flourish.md "华舞") – [弯刀](Scimitar.md "弯刀")
 
 伤害：1~4
 
@@ -62,7 +84,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [弯刀](Scimitar.md "弯刀")
+[割裂](Lacerate.md "Lacerate") – [弯刀](Scimitar.md "弯刀")
 
 伤害：5~10
 
@@ -76,7 +98,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [弯刀](Scimitar.md "弯刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [弯刀](Scimitar.md "弯刀")
 
 伤害：5~10
 

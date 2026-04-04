@@ -40,7 +40,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [干草叉](Pitchfork.md "干草叉")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [干草叉](Pitchfork.md "干草叉")
 
 伤害：2~7
 
@@ -50,7 +50,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [干草叉](Pitchfork.md "干草叉")
+[突进攻击](Rush_Attack.md "突进攻击") – [干草叉](Pitchfork.md "干草叉")
 
 伤害：2~5
 

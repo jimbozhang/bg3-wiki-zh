@@ -112,13 +112,13 @@
 
 ### 攻击与能力
 
-[灰矮人隐形](Invisibility_(Duergar).md "灰矮人隐形") ()
+[灰矮人隐形](Invisibility_(Duergar).md "灰矮人隐形")
 进入隐形状态。
 
 范围：自身
 冷却：每场战斗
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：2~5
 
@@ -128,7 +128,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[心智奴役](Mind_Mastery.md "心智奴役") ()
+[心智奴役](Mind_Mastery.md "心智奴役")
 使敌人对其一名盟友发动武器攻击。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
@@ -146,7 +146,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：2~5
 
@@ -160,7 +160,7 @@
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 
-[缩小](Reduce_(Duergar).md "缩小 (灰矮人)") ()
+[缩小](Reduce_(Duergar).md "缩小 (灰矮人)")
 
 缩小体型以更难被击中，但力量稍弱。
 

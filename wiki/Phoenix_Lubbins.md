@@ -3,15 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [格蕾丝·海登](https://www.imdb.com/name/nm14667542/) |
+| 声音 / 演员 | [格蕾丝·海登](https://www.imdb.com/name/nm14667542/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [侏儒](Gnome.md "Gnome") |
-| 等级 | 1 |
-| 生命值 | 18 |
-| 护甲等级 | 14 |
-| 先攻 | 0 |
-| 经验值 | 1 |
+| 亚种 | [岩侏儒](Rock_Gnome.md "Rock gnome") |
+
+| | 平衡 | 探索者 |
+| --- | --- | --- |
+| 等级 | 1 | 1 |
+| 生命值 | 18 | 27 |
+| 护甲等级 | 14 | 14 |
+| 先攻 | 0 | 0 |
+| 熟练项 | +2 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [小步奔行](Shortened_Stride.md "Shortened Stride")
 
 **菲尼克斯·鲁宾斯**是[贡德教会](Church_of_Gond.md "Church of Gond")的[岩侏儒](Rock_Gnome.md "Rock Gnome")成员，被[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")扣押在[钢铁王座](Iron_Throne.md "Iron Throne")作为人质。
 
@@ -34,7 +60,7 @@
 
 菲尼克斯·鲁宾斯每回合只使用疾走，这得益于牢房打开时施加的[自由一瞥](Glimpse_of_Freedom_(Condition).md "Glimpse of Freedom (Condition)")状态。
 
-[疾走](Dash.md "Dash") ()
+[疾走](Dash.md "Dash")
 本回合移动更远距离：使你的[移动速度](Movement_speed.md "Movement Speed")翻倍。
 
 范围：自身

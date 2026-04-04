@@ -3,15 +3,34 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Lara Sawalha](https://www.imdb.com/name/nm2700338/) |
+| 声音 / 演员 | [Lara Sawalha](https://www.imdb.com/name/nm2700338/) |
+| 家庭 | [黑兹纳特](Hazelnut.md "Hazelnut") (儿子) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 1 |
-| 生命值 | 6 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 1 | 1 | 1 |
+| 生命值 | 6 | 4 | 7 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **嫲嫲法莱斯**是一位[人类](Human.md "Human")平民，也是[黑兹纳特](Hazelnut.md "Hazelnut")的母亲，可以在[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")的[博德之口](Baldur's_Mouth.md "Baldur's Mouth")以南找到，出现在[第三章](Act_Three.md "Act Three")。
 

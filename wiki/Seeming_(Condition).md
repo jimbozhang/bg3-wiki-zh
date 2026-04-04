@@ -12,10 +12,10 @@
 
 ## 赋予
 
-[驱散伪装](Dispel_Disguise.md "驱散伪装") ()
+[驱散伪装](Dispel_Disguise.md "驱散伪装")
 驱散你的伪装并恢复原始形态。
 
-[调整幻象](Adjust_Seeming.md "调整幻象") ()
+[调整幻象](Adjust_Seeming.md "调整幻象")
 选择不同的外观。
 
 ## 伪装术的来源

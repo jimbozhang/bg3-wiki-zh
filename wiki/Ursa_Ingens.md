@@ -16,7 +16,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Bear_Companion).md "爪击 (熊伙伴)") ()
+[爪击](Claws_(Bear_Companion).md "爪击 (熊伙伴)")
 
 伤害：5~12
 
@@ -26,27 +26,27 @@
 
 近战：1.5 米 (5 英尺)
 
-[疾走](Dash_(bonus_action).md "疾走 (附赠动作)") ()
+[疾走](Dash_(bonus_action).md "疾走 (附赠动作)")
 本回合覆盖更多距离：使你的[移动速度](Movement_speed.md "移动速度")翻倍。
 
 范围：自身
 
-[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作") ()
+[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作")
 安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。
 
 范围：自身
 
-[挑衅咆哮](Goading_Roar.md "挑衅咆哮") ()
+[挑衅咆哮](Goading_Roar.md "挑衅咆哮")
 向附近的敌人咆哮，挑衅他们攻击你。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 
-[协助](Help_(bonus_action).md "协助 (附赠动作)") ()
+[协助](Help_(bonus_action).md "协助 (附赠动作)")
 帮助需要帮助的盟友。移除[燃烧](Burning_(Condition).md "燃烧 (状态)")、[倒地](Downed_(Condition).md "倒地 (状态)")、\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕 (诱捕打击) (状态)")、[缠绕](Entangled_(Condition).md "缠绕 (状态)")、[网缚](Enwebbed_(Condition).md "网缚 (状态)")、[倒伏](Prone_(status_group).md), [沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
 范围：1.5 米 (5 英尺)
 
-[沾蜜利爪](Honeyed_Paws.md "沾蜜利爪") ()
+[沾蜜利爪](Honeyed_Paws.md "沾蜜利爪")
 
 伤害：5~12
 
@@ -56,7 +56,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[熊的增援](Ursine_Reinforcements.md "熊的增援") ()
+[熊的增援](Ursine_Reinforcements.md "熊的增援")
 你召唤一只额外的熊与你并肩作战。
 
 充能：[短休](Short_rest.md "短休")

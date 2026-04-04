@@ -17,7 +17,7 @@
 
 穿戴此物品获得：
 
-[恐惧](Fear.md "Fear") ()
+[恐惧](Fear.md "Fear")
 以 3 级法术施放（充能：[长休](Long_Rest.md "Long rest")。）
 
 [削弱一击](Enervating_Suffusion.md "Enervating_Suffusion")

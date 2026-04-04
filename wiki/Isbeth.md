@@ -3,16 +3,36 @@
 | | |
 | --- | --- |
 | 身份 | 雄性 |
-| 配音 | - [John O'Mahony](https://www.imdb.com/name/nm1372889/) |
+| 声音 / 演员 | [John O'Mahony](https://www.imdb.com/name/nm1372889/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [野兽](Beast.md "Beast") |
 | 种族 | [狼](Wolf.md "Wolf") |
-| 等级 | 4 |
-| 生命值 | 11 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 20 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 11 | 7 | 14 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 60 千克 (120 磅) | 60 千克 (120 磅) | 60 千克 (120 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 3 / (-4) | 12 / (+1) | 6 / (-2) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [集群战术](Pack_Tactics.md "Pack Tactics")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [集群战术](Pack_Tactics.md "Pack Tactics")
 
 **伊莎贝丝**是[第一幕](Act_One.md "Act One")中[散塔林会地下室](Zhentarim_Basement.md "Zhentarim Basement")里的一匹狼。
 
@@ -42,7 +62,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Wolf).md "Bite (Wolf)") ()
+[啃咬](Bite_(Wolf).md "Bite (Wolf)")
 
 伤害: 4~10
 

@@ -3,16 +3,37 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [凯伦·布莱森](https://www.imdb.com/name/nm0117464/) |
+| 声音 / 演员 | [凯伦·布莱森](https://www.imdb.com/name/nm0117464/) |
+| 角色 | [商人](Trader.md "Trader") |
+| 家乡 | [博德之门](Baldur's_Gate.md "Baldur's Gate") |
+| 职业 | [闪耀盛会](Glitter_Gala.md "Glitter Gala")商店的所有者 |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 1 |
-| 生命值 | 6 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 1 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 1 | 1 | 1 |
+| 生命值 | 6 | 4 | 7 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **奥莫托拉**是[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")[闪耀盛会](The_Glitter_Gala.md "The Glitter Gala")的[人类](Human.md "Human")[商人](Trader.md "Trader")。
 

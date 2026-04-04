@@ -24,24 +24,24 @@ UID `MAG_WATCHER_Human_Crossbow` UUID `f746397f-c489-4121-8499-40017981e290` Sta
 
 **持有此物品者获得：**
 
-[闪电箭](Lightning_Arrow.md "闪电箭") ()
+[闪电箭](Lightning_Arrow.md "闪电箭")
 施放为4级法术（充能：[长休](Long_Rest.md "长休")。）
 
 ### 武器动作
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") ()
+[穿刺射击](Piercing_Shot.md "穿刺射击")
 造成常规伤害，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")，使攻击造成额外伤害。（充能：[短休](Short_rest.md "短休")。）
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") ()
+[备战（远程）](Brace_(Ranged).md "备战（远程）")
 消耗6米（20英尺）的[移动](Movement_speed.md "移动速度")。在本回合剩余时间内，掷两次远程伤害并取最高值。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[回头是岸](Reposition_Malefactor.md "回头是岸") ()
+[回头是岸](Reposition_Malefactor.md "回头是岸")
 将生物拉近9米/30英尺。
 
 ## 获取地点

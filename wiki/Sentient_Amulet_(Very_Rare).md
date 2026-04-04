@@ -19,10 +19,10 @@
 
 穿戴此物品获得：
 
-[粉碎音波](Shatter.md "粉碎音波") ()
+[粉碎音波](Shatter.md "粉碎音波")
 以 3 级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
-[回气](Ki_Restoration_(Greater).md "回气 (强效)") ()
+[回气](Ki_Restoration_(Greater).md "回气 (强效)")
 利用护符中的灵能，你恢复的[气点](Ki_Point.md "气点")数量等于你的武术骰。_\[[参见注释](Ki_Restoration_(Greater).md#Notes).md#Notes> "回气 (强效)")\]_（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

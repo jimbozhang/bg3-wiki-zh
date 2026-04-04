@@ -23,7 +23,7 @@
 
 - [优势](Advantage.md "优势")进行[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
-[莎尔神盾](Shar's_Aegis.md "莎尔神盾") ()
+[莎尔神盾](Shar's_Aegis.md "莎尔神盾")
 用闪烁的魔法场包裹自己，使你的[护甲等级](Armour_Class.md "护甲等级")提高 2。(充能：[长休](Long_Rest.md "长休")。)
 
 [莎尔的暗影](Shar's_Umbrae.md "莎尔的暗影")

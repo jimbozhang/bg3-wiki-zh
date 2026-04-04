@@ -36,7 +36,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [多节树枝](Gnarled_Tree_Branch.md "多节树枝")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [多节树枝](Gnarled_Tree_Branch.md "多节树枝")
 
 伤害：7~21
 
@@ -48,7 +48,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [多节树枝](Gnarled_Tree_Branch.md "多节树枝")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [多节树枝](Gnarled_Tree_Branch.md "多节树枝")
 
 伤害：7~21
 
@@ -58,7 +58,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[猛击](Slam_(Ogre).md "猛击 (食人魔)") ()
+[猛击](Slam_(Ogre).md "猛击 (食人魔)")
 
 伤害：7~21
 
@@ -69,7 +69,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：3 米 (10 英尺)
 
-[韧性](Tenacity.md "韧性") () – [多节树枝](Gnarled_Tree_Branch.md "多节树枝")
+[韧性](Tenacity.md "韧性") – [多节树枝](Gnarled_Tree_Branch.md "多节树枝")
 
 伤害：5
 
@@ -77,7 +77,7 @@
 
 当你攻击未命中时，仍然造成等于你的[力量](Strength.md "力量") [调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的⁠[钝击](Bludgeoning.md "钝击")伤害（最少为 1）。
 
-[投掷石头](Throw_Stone_(Ogre).md "投掷石头 (食人魔)") ()
+[投掷石头](Throw_Stone_(Ogre).md "投掷石头 (食人魔)")
 
 伤害：7~17
 

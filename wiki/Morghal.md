@@ -88,7 +88,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [轻锤](Light_Hammer.md "轻锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [轻锤](Light_Hammer.md "轻锤")
 
 伤害：2~5
 
@@ -133,7 +133,7 @@
 
 范围：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [轻锤](Light_Hammer.md "轻锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [轻锤](Light_Hammer.md "轻锤")
 
 伤害：2~5
 
@@ -143,7 +143,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[圣火术](Sacred_Flame.md "圣火术") ()
+[圣火术](Sacred_Flame.md "圣火术")
 
 伤害：1~8
 

@@ -33,7 +33,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 [引导神力：死亡之触](Channel_Divinity_colon__Touch_of_Death.md "引导神力：死亡之触")
 当用近战攻击命中一个生物时，可以使用[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")来造成额外的 5 + 2 ×（牧师等级）⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-[死亡之触](Touch_of_Death.md "死亡之触") ()
+[死亡之触](Touch_of_Death.md "死亡之触")
 当用近战攻击命中一个生物时，可以使用[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")来造成额外的 ⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
 ### 等级 3
@@ -63,7 +63,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 
 ### 等级 8
 
-[神圣打击：黯蚀](Divine_Strike_colon__Necrotic.md "神圣打击：黯蚀") ()
+[神圣打击：黯蚀](Divine_Strike_colon__Necrotic.md "神圣打击：黯蚀")
 每回合一次，在进行近战攻击时，除了武器伤害外，额外造成 1d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。（充能：每回合。）
 
 ### 等级 9

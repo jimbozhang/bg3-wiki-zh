@@ -22,7 +22,7 @@ UID `MAG_TheVictory_Longbow` UUID `7e81bb6a-f465-4fe9-b1db-7ce6198246ba` Stats `
 
 **持有此物品者获得：**
 
-[天界加速](Celestial_Haste.md "天界加速") ()
+[天界加速](Celestial_Haste.md "天界加速")
 获得 [加速](Celestial_Haste_(Condition).md "天界加速（状态）")。 (充能：[长休](Long_Rest.md "长休")。)
 
 [胜券在握](Promised_Victory.md "胜券在握")
@@ -35,17 +35,17 @@ UID `MAG_TheVictory_Longbow` UUID `7e81bb6a-f465-4fe9-b1db-7ce6198246ba` Stats `
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 射击敌人的大腿，有几率使其[移动速度](Movement_speed.md "移动速度")降低 50%。 (充能：[短休](Short_rest.md "短休")。)
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") ()
+[备战（远程）](Brace_(Ranged).md "备战（远程）")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，掷两次远程伤害并取最高值。 (充能：[短休](Short_rest.md "短休")。)
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[天界光箭](Bolt_of_Celestial_Light.md "天界光箭") ()
+[天界光箭](Bolt_of_Celestial_Light.md "天界光箭")
 用威慑性的箭矢[恐吓](Frightened_(Condition).md "恐慌（状态）")你的目标。攻击后，锻神旋涡进行的远程武器攻击将额外造成 1d4⁠⁠[光耀](Radiant.md "光耀")伤害。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

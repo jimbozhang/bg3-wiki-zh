@@ -14,10 +14,10 @@
 
 此物品的穿戴者获得：
 
-[治愈真言](Healing_Word.md "治愈真言") ()
+[治愈真言](Healing_Word.md "治愈真言")
 作为1级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
-[群体治愈真言](Mass_Healing_Word.md "群体治愈真言") ()
+[群体治愈真言](Mass_Healing_Word.md "群体治愈真言")
 作为3级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

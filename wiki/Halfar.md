@@ -2,16 +2,45 @@
 
 | | |
 | --- | --- |
+| 全名 | 哈尔法 |
 | 身份 | 男性 |
-| 配音 | - [Andrew Wincott](https://www.imdb.com/name/nm1218328/) |
+| 声音 / 演员 | [Andrew Wincott](https://www.imdb.com/name/nm1218328/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 62 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
+| 职业 | [牧师](Cleric.md "牧师")<sup>[\[1\]](#cite_note-1)</sup> |
+| 神祇 | [伊尔梅特](Ilmater.md "Ilmater") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 62 | 58 | 65 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击 (被动特性)")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击 (被动特性)")
 
 ## 状态
 

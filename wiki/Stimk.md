@@ -3,16 +3,40 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Brian Caspe](https://www.imdb.com/name/nm1340370/) |
+| 声音 / 演员 | [Brian Caspe](https://www.imdb.com/name/nm1340370/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [熊地精](Bugbear.md "熊地精") |
-| 等级 | 3 |
-| 生命值 | 27 |
-| 护甲等级 | 14 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 20 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 27 | 18 | 35 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 110 千克 (220 磅) | 110 千克 (220 磅) | 110 千克 (220 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 14 / (+2) | 13 / (+1) | 8 / (-1) | 11 / (0) | 9 / (-1) |
+
+**特性**
+
+- [蛮暴](Brute.md "蛮暴")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
+
+**特性**
+
+- [蛮暴](Brute.md "蛮暴")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
 ## 状态
 
@@ -85,7 +109,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [钉头锤](Morningstar.md "钉头锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [钉头锤](Morningstar.md "钉头锤")
 
 伤害：3~10
 
@@ -97,7 +121,7 @@
 范围：普通武器范围
 充能：[短休](Short_rest.md "短休")
 
-[惊心打击](Heartstopper.md "惊心打击") () – [钉头锤](Morningstar.md "钉头锤")
+[惊心打击](Heartstopper.md "惊心打击") – [钉头锤](Morningstar.md "钉头锤")
 
 伤害：3~6
 
@@ -109,7 +133,7 @@
 范围：普通武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [钉头锤](Morningstar.md "钉头锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [钉头锤](Morningstar.md "钉头锤")
 
 伤害：3~10
 
@@ -119,7 +143,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [标枪](Javelin.md "标枪")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [标枪](Javelin.md "标枪")
 
 伤害：3~8
 
@@ -133,7 +157,7 @@
 范围：普通武器范围
 充能：[短休](Short_rest.md "短休")
 
-[韧性](Tenacity.md "韧性") () – [钉头锤](Morningstar.md "钉头锤")
+[韧性](Tenacity.md "韧性") – [钉头锤](Morningstar.md "钉头锤")
 
 伤害：2
 
@@ -141,7 +165,7 @@
 
 当你攻击未命中时，仍会根据你的[力量](Strength.md "力量")[调整值](Ability_Scores.md#Ability_score_modifiers "属性值")造成[钝击](Bludgeoning.md "钝击")伤害（最低为 1）。
 
-[投掷](Throw.md "投掷") () – [标枪](Javelin.md "标枪")
+[投掷](Throw.md "投掷") – [标枪](Javelin.md "标枪")
 
 伤害：3~8
 

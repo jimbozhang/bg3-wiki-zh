@@ -6,7 +6,7 @@
 
 ## 赋予
 
-[狂野魔法：无形精魂](Wild_Magic_colon__Intangible_Spirit_(Activate).md "狂野魔法：无形精魂（激活）") ()
+[狂野魔法：无形精魂](Wild_Magic_colon__Intangible_Spirit_(Activate).md "狂野魔法：无形精魂（激活）")
 召唤一个[幽灵呋噜](Spectral_Flumph.md "幽灵呋噜")。该呋噜在你的回合结束时[爆炸](Explode.md "爆炸")，对2米（7英尺）范围内的每个生物造成1d6⁠⁠[力场](Force.md "力场")伤害。
 
 ## 狂野魔法：无形精魂的来源

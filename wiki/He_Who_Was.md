@@ -106,7 +106,7 @@
 [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 范围：自身
 
-[幽影之矛](Shadow_Spear.md "幽影之矛") () – [短矛](Spear.md "短矛")
+[幽影之矛](Shadow_Spear.md "幽影之矛") – [短矛](Spear.md "短矛")
 
 伤害：5~54
 

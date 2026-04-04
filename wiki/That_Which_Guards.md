@@ -2,16 +2,54 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Ben Onwukwe](https://www.imdb.com/name/nm0648936/) |
+| 声音 / 演员 | [Ben Onwukwe](https://www.imdb.com/name/nm0648936/) |
 | 体型 | 中级 |
 | 类型 | [不死生物](Undead.md "Undead") |
 | 种族 | [死亡骑士](Death_Knight.md "Death Knight") |
-| 等级 | 12 |
-| 生命值 | 238 |
-| 护甲等级 | 20 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 640 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 12 | 12 | 12 |
+| 生命值 | 238 | 166 | 309 |
+| 护甲等级 | 20 | 20 | 20 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 80 千克 (160 磅) | 80 千克 (160 磅) | 80 千克 (160 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 640 | 640 | 640 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20 / (+5) | 11 / (0) | 20 / (+5) | 12 / (+1) | 16 / (+3) | 18 / (+4) |
+
+**特性**
+
+- [额外法术位](Additional_Spell_Slot.md "额外法术位")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [眩晕斩](Dazing_Smite.md "眩晕斩")
+- [恐惧砍伐者](Dreadful_Hewer.md "恐惧砍伐者")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [招架](Parry.md "招架")
+- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
+- [反击](Riposte_(passive_feature).md "反击 (被动特性)")
+- [盾牌猛击](Shield_Bash.md "盾牌猛击")
+
+**特性**
+
+- [额外法术位](Additional_Spell_Slot.md "额外法术位")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [眩晕斩](Dazing_Smite.md "眩晕斩")
+- [恐惧砍伐者](Dreadful_Hewer.md "恐惧砍伐者")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [招架](Parry.md "招架")
+- [幽魂之怒](Revenant's_Ire.md "幽魂之怒")
+- [反击](Riposte_(passive_feature).md "反击 (被动特性)")
+- [盾牌猛击](Shield_Bash.md "盾牌猛击")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -78,7 +116,7 @@
 [感知](Wisdom.md "感知")[豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 
-[地狱火球](Hellfire_Orb.md "地狱火球") ()
+[地狱火球](Hellfire_Orb.md "地狱火球")
 
 伤害：20~120
 

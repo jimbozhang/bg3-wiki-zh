@@ -2,9 +2,13 @@
 
 | | |
 | --- | --- |
+| 角色 | [依附追随者](Attached_Follower.md "依附追随者"), [获得魔宠](Familiar.md "获得魔宠") |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [异怪](Aberration.md "异怪") |
 | 种族 | [噬脑怪](Intellect_Devourer.md "噬脑怪") |
+
+| | |
+| --- | --- |
 
 **我们 (Us)** 是一只[噬脑怪](Intellect_Devourer.md "噬脑怪")，也是可能的[依附追随者](Attached_Follower.md "依附追随者")，可在 _[博德之门3](Baldur's_Gate_3.md "博德之门3")_ 的[序幕](Prologue.md "序幕")期间，在[鹦鹉螺](Nautiloid.md "鹦鹉螺")上，被困在名为[米纳斯](Myrnath.md "米纳斯")的精灵头部时遭遇。
 
@@ -241,7 +245,7 @@
 
 #### 攻击与能力
 
-[爪击](Claws_(Intellect_Devourer).md "爪击 (噬脑怪)") ()
+[爪击](Claws_(Intellect_Devourer).md "爪击 (噬脑怪)")
 
 伤害：4~10
 
@@ -374,7 +378,7 @@
 
 #### 攻击与能力
 
-[爪击](Claws_(Us).md "爪击 (我们)") ()
+[爪击](Claws_(Us).md "爪击 (我们)")
 
 伤害：4~18
 
@@ -384,7 +388,7 @@
 
 近战：1.5米（5英尺）
 
-[吞噬智力](Devour_Intellect.md "吞噬智力") ()
+[吞噬智力](Devour_Intellect.md "吞噬智力")
 
 伤害：2~20
 
@@ -395,7 +399,7 @@
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5米（5英尺）
 
-[突触放电](Synaptic_Discharge_(Us).md "突触放电 (我们)") ()
+[突触放电](Synaptic_Discharge_(Us).md "突触放电 (我们)")
 
 伤害：5~26
 
@@ -537,7 +541,7 @@
 
 如果我们在序幕中被[脑叶切除](Lobotomised_(Condition).md "脑叶切除 (状态)")，在第二幕中作为魔宠召唤时会显著削弱；其属性值、生命值、移动速度、抗性和动作都会受到影响。
 
-[爪击](Claws_(Intellect_Devourer).md "爪击 (噬脑怪)") ()
+[爪击](Claws_(Intellect_Devourer).md "爪击 (噬脑怪)")
 
 伤害：4~10
 
@@ -547,7 +551,7 @@
 
 近战：1.5米（5英尺）
 
-[吞噬智力](Devour_Intellect.md "吞噬智力") ()
+[吞噬智力](Devour_Intellect.md "吞噬智力")
 
 伤害：2~20
 
@@ -558,7 +562,7 @@
 [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5米（5英尺）
 
-[突触放电](Synaptic_Discharge.md "突触放电") ()
+[突触放电](Synaptic_Discharge.md "突触放电")
 
 伤害：3~8
 

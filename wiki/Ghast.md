@@ -55,7 +55,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Ghast).md "爪击 (妖鬼)") ()
+[爪击](Claws_(Ghast).md "爪击 (妖鬼)")
 
 伤害：5~15
 
@@ -66,7 +66,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[恶臭](Stench.md "恶臭") ()
+[恶臭](Stench.md "恶臭")
 
 散发墓穴霉菌和屠宰场的恶臭以[使附近敌人作呕](Ghastly_Fume_(Condition).md "妖鬼恶臭 (状态)")。
 

@@ -3,20 +3,14 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Andrew Wincott](https://www.imdb.com/name/nm1218328/) |
+| 声音 / 演员 | [Andrew Wincott](https://www.imdb.com/name/nm1218328/) |
+| 家乡 | [希望之邸](House_of_Hope.md "House_of_Hope"), [九层地狱](Nine_Hells.md "Nine_Hells") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [邪魔](Fiend.md "Fiend") |
 | 种族 | [坎比翁](Cambion.md "Cambion") / ⁠[魔鬼](https://forgottenrealms.fandom.com/wiki/Devil) |
 
-属性
-
-属性
-
-属性
-
-属性
-
-属性
+| | |
+| --- | --- |
 
 > “
 >

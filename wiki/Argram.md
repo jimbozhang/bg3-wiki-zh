@@ -112,7 +112,7 @@
 
 ### 攻击与能力
 
-[火焰箭](Fire_Bolt.md "火焰箭") ()
+[火焰箭](Fire_Bolt.md "火焰箭")
 
 伤害: 1~10
 
@@ -122,13 +122,13 @@
 
 射程: 18 米 (60 英尺)
 
-[灰矮人隐形](Invisibility_(Duergar).md "灰矮人隐形") ()
+[灰矮人隐形](Invisibility_(Duergar).md "灰矮人隐形")
 变为隐形。
 
 射程: 自身
 充能: 每场战斗
 
-[跛足打击](Maiming_Strike.md "跛足打击") () – [战镐](War_Pick.md "战镐")
+[跛足打击](Maiming_Strike.md "跛足打击") – [战镐](War_Pick.md "战镐")
 
 伤害: 2~5
 
@@ -142,7 +142,7 @@
 近战: 1.5 米 (5 英尺)
 充能: [短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [战镐](War_Pick.md "战镐")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [战镐](War_Pick.md "战镐")
 
 伤害: 1~8
 
@@ -157,7 +157,7 @@
 
 射程: 18 米 (60 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [战镐](War_Pick.md "战镐")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [战镐](War_Pick.md "战镐")
 
 伤害: 1~8
 
@@ -171,7 +171,7 @@
 射程: 正常武器射程
 充能: [短休](Short_rest.md "短休")
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [战镐](War_Pick.md "战镐")
+[弱化打击](Weakening_Strike.md "弱化打击") – [战镐](War_Pick.md "战镐")
 
 伤害: 2~5
 

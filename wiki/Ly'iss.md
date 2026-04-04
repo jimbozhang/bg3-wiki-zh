@@ -21,7 +21,7 @@
 | --- | --- | --- |
 | 0 | 4 | 3 |
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "Movement Speed")。在你的回合剩余时间内，投掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "Short rest")
@@ -34,7 +34,7 @@
 
 被诱捕的生物无法移动，并在每回合开始时受到 1d6⁠⁠[穿刺](Piercing.md "Piercing")伤害。盟友可以使用他们的[协助](Help.md "Help")动作尝试撕开藤蔓。
 
-[迷踪步](Misty_Step.md "Misty Step") ()
+[迷踪步](Misty_Step.md "Misty Step")
 被银色雾气包围，你传送到一个可见的未被占据的空间。
 
 造成常规伤害并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")，导致攻击时造成额外伤害。

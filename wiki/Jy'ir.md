@@ -2,15 +2,41 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Lucy Paterson](https://www.imdb.com/name/nm13687455/) |
+| 声音 / 演员 | [Lucy Paterson](https://www.imdb.com/name/nm13687455/) |
 | 体型 | [Medium](Medium.md "Medium") |
 | 类型 | [Humanoid](Humanoid.md "Humanoid") |
 | 种族 | [Githyanki](Githyanki.md "Githyanki") |
-| 等级 | 5 |
-| 生命值 | 32 |
-| 护甲等级 | 15 |
-| 先攻 | +3 |
-| 经验值 | 75 |
+| 职业 | [Fighter](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 32 | 22 | 41 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) | 0 m (0 ft) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 17 / (+3) | 14 / (+2) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "Crossbow Expert: Point-Blank")
+- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "Crossbow Expert: Wounding")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "Crossbow Expert: Point-Blank")
+- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "Crossbow Expert: Wounding")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 目录
 
@@ -36,18 +62,18 @@ Jy'ir最初可以在[Crèche Infirmary](Cr%C3%A8che_Y'llek.md#Infirmary "Crèche
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
 消耗6 m (20 ft)的[移动](Movement_speed.md "Movement Speed")。在你的回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "Short rest")
 
-[迷踪步](Misty_Step.md "Misty Step") ()
+[迷踪步](Misty_Step.md "Misty Step")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。
 
 范围：18 m (60 ft)
 充能：[长休](Long_Rest.md "Long rest")
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
 
 伤害：5~14
 
@@ -61,7 +87,7 @@ Jy'ir最初可以在[Crèche Infirmary](Cr%C3%A8che_Y'llek.md#Infirmary "Crèche
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [吉斯洋基弩](Githyanki_Crossbow.md "Githyanki Crossbow")
 
 伤害：5~14
 

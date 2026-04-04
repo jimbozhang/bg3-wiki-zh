@@ -3,15 +3,25 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Steve Chusak](https://www.imdb.com/name/nm7067240/) |
+| 声音 / 演员 | [Steve Chusak](https://www.imdb.com/name/nm7067240/) |
+| 家乡 | [慈爱神殿](Open_Hand_Temple.md "Open Hand Temple"), [利文顿](Rivington.md "Rivington") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半精灵](Half-Elf.md "Half-elf") |
-| 生命值 | 26 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 200 |
+| 亚种 | [半木精灵](Wood_Half-Elf.md "Wood half-elf") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 生命值 | 26 | 18 | 33 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | +1 | +1 | +1 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 12 / (+1) | 14 / (+2) | 10 / (0) | 18 / (+4) | 12 / (+1) |
 
 **多尼克兄弟**是[利文顿](Rivington.md "Rivington")的[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")成员，出现在[第三幕](Act_Three.md "Act Three")。
 

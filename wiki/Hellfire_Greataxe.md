@@ -33,20 +33,20 @@ UID `MAG_WATCHER_Human_Greataxe` UUID `dd0e9fa2-e012-454d-9f2d-53c0a0776015` Sta
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥舞武器进行大范围弧线攻击，最多同时攻击3个敌人。每个敌人受到你武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 砍向目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[准备](Prepare.md "准备") ()
+[准备](Prepare.md "准备")
 消耗6米（20英尺）的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击都会造成额外的力量调整值⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害（最低1点）。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[地狱火撕裂](Hellflame_Cleave.md "地狱火撕裂") ()
+[地狱火撕裂](Hellflame_Cleave.md "地狱火撕裂")
 喷吐地狱烈焰并攻击你的敌人。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

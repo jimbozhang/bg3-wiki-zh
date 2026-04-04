@@ -26,8 +26,6 @@
 
 - 5
 
-属性
-
 高公爵**乌尔德·雷文伽德**是[人类](Human.md "人类")，[焰拳](Flaming_Fist.md "焰拳")的最高元帅，也是[威尔](Wyll.md "威尔")的父亲。他的故事贯穿《博德之门3》的全部三幕，且在游戏后期可成为[营地随从](Camp_Followers.md "营地随从")。
 
 乌尔德·雷文伽德是《龙与地下城》被遗忘的国度设定中的常驻角色，出现在5e冒险中：《⁠[博德之门谋杀案](https://forgottenrealms.fandom.com/wiki/Murder_in_Baldur%27s_Gate)》、《⁠[提亚马特的崛起](https://forgottenrealms.fandom.com/wiki/The_Rise_of_Tiamat)》和《⁠[博德之门：炼狱陷落](https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate:_Descent_into_Avernus)》。
@@ -109,14 +107,14 @@
 
 范围：9 米 (30 英尺)
 
-[火焰护盾](Fire_Shield.md "火焰护盾") () – [元帅纹章板甲](Emblazoned_Plate_of_the_Marshal.md "元帅纹章板甲")
+[火焰护盾](Fire_Shield.md "火焰护盾") – [元帅纹章板甲](Emblazoned_Plate_of_the_Marshal.md "元帅纹章板甲")
 
 用火焰包裹身体，在3米（10英尺）半径范围内提供光照，对⁠[火焰](Fire.md "火焰")或⁠[寒冷](Cold.md "寒冷")伤害提供[抗性](Resistance.md "抗性")，并对近战攻击进行反击。
 
 范围：自身
 充能：[长休](Long_Rest.md "长休")
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 
 伤害：
 
@@ -130,7 +128,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") ()
+[剑柄打击](Pommel_Strike.md "剑柄打击")
 
 伤害：1~4
 
@@ -142,7 +140,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 
 伤害：6~9
 

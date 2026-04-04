@@ -2,15 +2,36 @@
 
 | | |
 | --- | --- |
-| 配音 | - [David Alwyn](https://www.imdb.com/name/nm4753587/) |
+| 声音 / 演员 | [David Alwyn](https://www.imdb.com/name/nm4753587/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [地精](Goblin.md "Goblin") |
-| 等级 | 3 |
-| 生命值 | 21 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 21 | 14 | 31 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 14 / (+2) | 11 / (0) | 10 / (0) | 8 / (-1) | 10 / (0) |
+
+**特性**
+
+- [原始狂怒](Crude_Frenzy.md "Crude Frenzy")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [原始狂怒](Crude_Frenzy.md "Crude Frenzy")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 荣誉难度属性
 
@@ -59,7 +80,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
 
 伤害：3~8
 
@@ -69,13 +90,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[无畏战吼](Reckless_Warcry.md "Reckless Warcry") ()
+[无畏战吼](Reckless_Warcry.md "Reckless Warcry")
 使你的[力量](Strength.md "Strength")提高 3，代价是降低你的[护甲等级](Armour_Class.md "Armour Class") 1。
 
 范围：自身
 充能：[短休](Short_rest.md "Short rest")
 
-[投掷石头](Throw_Stone.md "Throw Stone") ()
+[投掷石头](Throw_Stone.md "Throw Stone")
 
 伤害：2~5
 

@@ -31,20 +31,20 @@ UID `MAG_Illithid_MindOverload_Weapon_Longsword` UUID `0a024202-84d0-4466-a958-7
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") ()
+[剑柄打击](Pommel_Strike.md "剑柄打击")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[至高打击](Crowning_Strike.md "至高打击") ()
+[至高打击](Crowning_Strike.md "至高打击")
 释放被你剑刃所杀的死者的哀嚎，并可能使目标陷入[疯狂](Crown_of_Madness_(Condition).md "疯狂（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

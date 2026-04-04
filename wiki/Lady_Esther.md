@@ -3,15 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Rachel Atkins](https://www.imdb.com/name/nm1477053/) |
+| 声音 / 演员 | [Rachel Atkins](https://www.imdb.com/name/nm1477053/) |
+| 角色 | [商人](Trader.md "Trader") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 5 |
-| 生命值 | 48 |
-| 护甲等级 | 16 |
-| 先攻 | +4 |
-| 经验值 | 75 |
+| 职业 | [战士](Fighter.md "Fighter") |
+| 副职 | [战斗大师](Battle_Master.md "Battle Master") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 48 | 33 | 62 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 18 / (+4) | 14 / (+2) | 12 / (+1) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [对决](Duelling.md "Duelling")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [对决](Duelling.md "Duelling")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **埃斯特女士**是[光耀会](Society_of_Brilliance.md "Society of Brilliance")的成员，在[第一幕](Act_One.md "Act One")期间位于[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")。
 
@@ -94,7 +120,7 @@ _对应`CRE_Expeditioner_Trade`。_
 
 范围：9 米 (30 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") ()
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack")
 
 伤害：
 

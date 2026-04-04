@@ -16,7 +16,7 @@
 
 在[荣誉模式](Honour_Mode.md "荣誉模式")中，该神器本身每轮获得一个免费法术，类似于[传奇动作](Legendary_action.md "传奇动作")：
 
-[卡尔萨特之握](Karsite_Grip.md "卡尔萨特之握") ()
+[卡尔萨特之握](Karsite_Grip.md "卡尔萨特之握")
 
 伤害: 8~64
 

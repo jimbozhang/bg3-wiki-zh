@@ -2,15 +2,49 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Nenda Neururer](https://www.imdb.com/name/nm10130242/) |
+| 声音 / 演员 | [Nenda Neururer](https://www.imdb.com/name/nm10130242/) |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 10 |
-| 生命值 | 85 |
-| 护甲等级 | 14 |
-| 先攻 | 0 |
-| 经验值 | 250 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 85 | 59 | 110 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20 / (+5) | 10 / (0) | 16 / (+3) | 8 / (-1) | 10 / (0) | 6 / (-2) |
+
+**特性**
+
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [上等材质](Superior_Material_(-1).md "上等材质 (-1)")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+
+**特性**
+
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [上等材质](Superior_Material_(-1).md "上等材质 (-1)")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
 **迦纳斯勋爵的保镖**是一位[人类](Human.md "人类")[野蛮人](Barbarian.md "野蛮人")，她陪同主人参加在[第三幕](Act_Three.md "第三幕")中为[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")举行的博德之门大公爵授职仪式。
 
@@ -33,7 +67,7 @@
 
 ### 攻击与能力
 
-[缴械打击](Disarming_Strike.md "缴械打击") () – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
+[缴械打击](Disarming_Strike.md "缴械打击") – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
 
 伤害：6~9
 
@@ -45,7 +79,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[愤怒投掷](Enraged_Throw.md "愤怒投掷") () – [标枪 +1](Javelin_+1.md "标枪 +1")
+[愤怒投掷](Enraged_Throw.md "愤怒投掷") – [标枪 +1](Javelin_+1.md "标枪 +1")
 
 伤害：7~12
 
@@ -63,7 +97,7 @@
 
 射程：18 米 (60 英尺)
 
-[狂怒攻击](Frenzied_Strike.md "狂怒攻击") () – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
+[狂怒攻击](Frenzied_Strike.md "狂怒攻击") – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
 
 伤害：7~12
 
@@ -84,7 +118,7 @@
 
 射程：自身
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
 
 伤害：7~12
 
@@ -94,7 +128,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
 
 伤害：7~12
 
@@ -108,7 +142,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") () – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
 
 伤害：7~12
 
@@ -120,7 +154,7 @@
 
 射程：正常武器射程
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
+[突进攻击](Rush_Attack.md "突进攻击") – [三叉戟 +1](Trident_+1.md "三叉戟 +1")
 
 伤害：6~9
 

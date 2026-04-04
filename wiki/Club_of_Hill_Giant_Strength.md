@@ -32,7 +32,7 @@ UID `UND_StrengthChair_Leg` UUID `768010ce-dcfe-43bb-8398-2d681d4fa6eb` Stats `U
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 用全力击中敌人，造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

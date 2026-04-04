@@ -26,7 +26,7 @@
 | [变形](Polymorphed_(Tressym)_(Condition).md "变形 (翼猫) (状态)") | 变为野兽。 |
 | [蟾蜍模式](Toad_Mode_(Condition).md "蟾蜍模式 (状态)") | 如果你不想思考，多莉·斯赖斯会让你缩小。 |
 
-[阴影之噬](Shadowjaw_Bite.md "阴影之噬") ()
+[阴影之噬](Shadowjaw_Bite.md "阴影之噬")
 将牙齿咬入目标，并可能使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
 [击倒啃咬](Knockdown_Jaws.md "击倒啃咬")

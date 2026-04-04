@@ -3,15 +3,42 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
+| 声优 / 演员 | [Bronwen Price](https://www.imdb.com/name/nm9711141/) |
+| 职业 | [法师](Wizard.md "法师") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 8 |
-| 生命值 | 65 |
-| 护甲等级 | 15 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 140 |
+| 副职 | [塑能学派](Evocation_School.md "塑能学派") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 65 | 45 | 84 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 140 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 14 / (+2) | 17 / (+3) | 19 / (+4) | 14 / (+2) | 13 / (+1) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [坟墓魔法](Grave_Magic.md "坟墓魔法")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
 **克雷萨·骨女**是[米尔寇教团](Cult_of_Myrkul.md "米尔寇教团")的一员，可在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")兵营北面的圣所中找到。“
 |
@@ -59,7 +86,7 @@
 
 ### 攻击与能力
 
-[冻僵](Bone_Chill.md "冻僵") ()
+[冻僵](Bone_Chill.md "冻僵")
 
 伤害: 1~8
 
@@ -69,7 +96,7 @@
 
 射程: 18 米 (60 英尺)
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
 
 伤害: 3~15
 
@@ -94,7 +121,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程: 18 米 (60 英尺)
 
-[孵化死亡](Incubate_Death.md "孵化死亡") ()
+[孵化死亡](Incubate_Death.md "孵化死亡")
 
 伤害: 6~27
 
@@ -105,7 +132,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程: 24 米 (80 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
 
 伤害: 3~15
 
@@ -122,7 +149,7 @@
 
 射程: 18 米 (60 英尺)
 
-[韧性](Tenacity.md "韧性") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
+[韧性](Tenacity.md "韧性") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
 
 伤害:
 
@@ -130,7 +157,7 @@
 
 当你未命中攻击时，仍造成等于你的[力量](Strength.md "力量") [调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的⁠[钝击](Bludgeoning.md "钝击") 伤害（至少 1 点）。
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
+[弱化打击](Weakening_Strike.md "弱化打击") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "米尔寇的残忍链枷")
 
 伤害: 3~6
 

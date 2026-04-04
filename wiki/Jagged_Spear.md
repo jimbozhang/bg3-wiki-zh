@@ -36,7 +36,7 @@ UID `GOB_Torturer_Spear` UUID `1fea9dfa-96a6-43c5-bce8-34452baa073e` ### 特殊
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

@@ -17,7 +17,7 @@
 
 此物品的佩戴者获得：
 
-[长年怀恨](Ancient_Grudges.md "长年怀恨") ()
+[长年怀恨](Ancient_Grudges.md "长年怀恨")
 触摸你的护符以吸收吉斯洋基人知识的一小部分。你获得对[异怪](List_of_creature_types.md#Aberration "生物类型列表")的[攻击掷骰](Attack_rolls.md "攻击掷骰")[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
 
 [异怪猎人](Aberration_Hunter.md "异怪猎人")

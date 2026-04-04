@@ -82,12 +82,12 @@
 
 ### 攻击与能力
 
-[星界步伐](Astral_Step.md "Astral Step") ()
+[星界步伐](Astral_Step.md "Astral Step")
 被银色雾气包围，你传送到一个可见的未被占用空间。
 
 范围：18 米 (60 英尺)
 
-[劈砍](Cleave.md "Cleave") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[劈砍](Cleave.md "Cleave") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：
 
@@ -97,7 +97,7 @@
 
 充能：[短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[割裂](Lacerate.md "Lacerate") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：6~16
 
@@ -111,7 +111,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：6~16
 
@@ -121,7 +121,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[夺心连接](Mindsteal_Link.md "Mindsteal Link") ()
+[夺心连接](Mindsteal_Link.md "Mindsteal Link")
 
 吸取敌人的灵能能量，使其更脆弱并强化自身。
 
@@ -132,7 +132,7 @@
 [智力](Intelligence.md "Intelligence") [豁免检定](Saving_throws.md "Saving throws")
 范围：20 米 (67 英尺)
 
-[夺心风暴](Mindsteal_Tempest.md "Mindsteal Tempest") ()
+[夺心风暴](Mindsteal_Tempest.md "Mindsteal Tempest")
 
 强迫周围的生物建立灵能连接。对所有附近的生物使用[夺心连接](Mindsteal_Link.md "Mindsteal Link")。
 
@@ -144,7 +144,7 @@
 范围：20 米 (67 英尺)
 充能：每次战斗
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：1~4
 

@@ -17,7 +17,7 @@
 
 此物品的穿戴者获得：
 
-[冰刃术](Ice_Knife.md "冰刃术") ()
+[冰刃术](Ice_Knife.md "冰刃术")
 以3环法术施展（充能：[长休](Long_Rest.md "长休")。）
 
 [寒冰打击](Chilling_Strike.md "寒冰打击")

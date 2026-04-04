@@ -3,16 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Lucy Paterson](https://www.imdb.com/name/nm13687455/) |
+| 声音 / 演员 | [Lucy Paterson](https://www.imdb.com/name/nm13687455/) |
+| 职业 | [法师](Wizard.md "Wizard") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 63 |
-| 护甲等级 | 15 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 140 |
+| 副职 | [塑能学派](Evocation_School.md "Evocation School") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 63 | 45 | 84 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 140 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 14 / (+2) | 17 / (+3) | 19 / (+4) | 14 / (+2) | 13 / (+1) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [坟墓魔法](Grave_Magic.md "Grave Magic")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [法术塑形](Sculpt_Spells.md "Sculpt Spells")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [坟墓魔法](Grave_Magic.md "Grave Magic")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [法术塑形](Sculpt_Spells.md "Sculpt Spells")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
 **萨斯德拉**是[米尔寇教团](Cult_of_Myrkul.md "Cult of Myrkul")的一名死灵法师<sup>[\[1\]](#cite_note-1)</sup>。她可以在[月出之塔](Moonrise_Towers.md "Moonrise Towers")的顶部找到，并在战斗中协助[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")对抗队伍。
 
@@ -36,7 +64,7 @@
 
 ### 攻击与能力
 
-[冻僵](Bone_Chill.md "Bone Chill") ()
+[冻僵](Bone_Chill.md "Bone Chill")
 
 伤害: 1~8
 
@@ -57,7 +85,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 射程: 18 米 (60 英尺)
 
-[孵化死亡](Incubate_Death.md "Incubate Death") ()
+[孵化死亡](Incubate_Death.md "Incubate Death")
 
 伤害: 6~27
 
@@ -68,7 +96,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 射程: 24 米 (80 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [米尔寇的残忍链枷](Myrkulite_Scourge.md "Myrkulite Scourge")
 
 伤害: 3~15
 

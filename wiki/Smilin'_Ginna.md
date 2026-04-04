@@ -2,16 +2,34 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Hara Yannas](https://www.imdb.com/name/nm3925968/) |
+| 声音 / 演员 | [Hara Yannas](https://www.imdb.com/name/nm3925968/) |
 | 体型 | 中级 |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 11 |
-| 生命值 | 46 |
-| 护甲等级 | 15 |
-| 先攻 | +4 |
-| 移动速度 | 9 m (30 ft) |
-| 经验值 | 320 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 46 | 32 | 59 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) | 0 m (0 ft) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 18 / (+4) | 12 / (+1) | 12 / (+1) | 14 / (+2) | 13 / (+1) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **笑容满面的金娜**是[散塔林会](Zhentarim.md "Zhentarim")的[人类](Human.md "Human")成员，可在[公会大厅](Guildhall.md "Guildhall")中找到，发生在[第三幕](Act_Three.md "Act Three")期间。
 
@@ -31,7 +49,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [短剑](Shortsword.md "Shortsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [短剑](Shortsword.md "Shortsword")
 
 伤害：5~10
 

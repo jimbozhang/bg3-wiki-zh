@@ -3,16 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Gordon Cooper](https://www.imdb.com/name/nm2090228/) |
+| 声音 / 演员 | [Gordon Cooper](https://www.imdb.com/name/nm2090228/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半身人](Halfling.md "Halfling") |
-| 等级 | 11 |
-| 生命值 | 82 |
-| 护甲等级 | 16 |
-| 先攻 | +2 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 320 |
+| 亚种 | [轻足半身人](Lightfoot_Halfling.md "Lightfoot halfling") |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 82 | 57 | 106 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 14 / (+2) | 12 / (+1) | 12 / (+1) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [勇敢](Brave.md "勇敢")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
+
+**特性**
+
+- [勇敢](Brave.md "勇敢")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
 
 ## 状态
 
@@ -63,7 +91,7 @@
 [力量](Strength.md "力量")[豁免](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [连枷](Flail.md "连枷")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [连枷](Flail.md "连枷")
 
 伤害：3~10
 
@@ -73,7 +101,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[回气](Second_Wind.md "回气") ()
+[回气](Second_Wind.md "回气")
 
 治疗：1~10 + 调整值
 

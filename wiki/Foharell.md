@@ -3,16 +3,39 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 声音 / 演员 | [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 10 |
-| 生命值 | 8 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 1 |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "Gold Dwarf") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 8 | 5 | 10 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [矮人活力](Dwarven_Resilience.md "Dwarven_Resilience")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [矮人活力](Dwarven_Resilience.md "Dwarven_Resilience")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 状态
 
@@ -60,7 +83,7 @@
 
 ### 攻击与能力
 
-[巨化](Enlarge_(Duergar).md "Enlarge (Duergar)") ()
+[巨化](Enlarge_(Duergar).md "Enlarge (Duergar)")
 
 体型增大以变得更强
 
@@ -69,7 +92,7 @@
 范围：自身
 充能：[长休](Long_Rest.md "Long rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [战镐](War_Pick.md "War Pick")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [战镐](War_Pick.md "War Pick")
 
 伤害：1~8
 
@@ -79,7 +102,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[跛足打击](Maiming_Strike.md "Maiming_Strike") () – [战镐](War_Pick.md "War Pick")
+[跛足打击](Maiming_Strike.md "Maiming_Strike") – [战镐](War_Pick.md "War Pick")
 
 伤害：1~4
 
@@ -117,7 +140,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving_throws")
 范围：18 米 (60 英尺)
 
-[穿刺打击](Piercing_Strike.md "Piercing_Strike") () – [战镐](War_Pick.md "War Pick")
+[穿刺打击](Piercing_Strike.md "Piercing_Strike") – [战镐](War_Pick.md "War Pick")
 
 伤害：1~8
 
@@ -131,7 +154,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[弱化打击](Weakening_Strike.md "Weakening_Strike") () – [战镐](War_Pick.md "War Pick")
+[弱化打击](Weakening_Strike.md "Weakening_Strike") – [战镐](War_Pick.md "War Pick")
 
 伤害：1~4
 

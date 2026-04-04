@@ -27,10 +27,10 @@
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 短剑列表
@@ -53,12 +53,12 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 | [短剑 +1](Shortsword_+1.md "短剑 +1") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 40 |  |
 | [第一滴血短剑](Shortsword_of_First_Blood.md "第一滴血短剑") |  | 1d6 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [锉金败玉](Break_the_Unbroken.md "锉金败玉")对仍拥有全部[生命值](Hit_Points.md "生命值")的目标造成额外1d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。 |
 | [钢铸剑](Steelforged_Sword.md "钢铸剑") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 60 |  |
-| [手术圆锯 (+1)](Trepan_(+1).md "手术圆锯 (+1)") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 16 | [劈颅](Trephination.md "劈颅") () 在敌人的头骨上钻一个孔，可能使其[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。） |
+| [手术圆锯 (+1)](Trepan_(+1).md "手术圆锯 (+1)") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 16 | [劈颅](Trephination.md "劈颅") 在敌人的头骨上钻一个孔，可能使其[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。） |
 | [伏击](Ambusher.md "伏击") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [智能武器](Sentinel_Weapon.md "智能武器")[先攻](Initiative.md "先攻")掷骰获得+1加值，[察觉技能](Perception.md "察觉技能")[检定](Checks.md "检定")具有[优势](Advantage.md "优势")。[伏击连杀](Ambusher's_Streak.md "伏击连杀")在战斗中，对尚未行动的生物造成额外1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。 |
-| [血肉裁决者](Fleshrender.md "血肉裁决者") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [血肉分离](Part_the_Flesh.md "血肉分离") () 以恶魔般的精准向前刺击，可能阻碍目标的治疗能力。（充能：[短休](Short_rest.md "短休")。） |
+| [血肉裁决者](Fleshrender.md "血肉裁决者") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [血肉分离](Part_the_Flesh.md "血肉分离") 以恶魔般的精准向前刺击，可能阻碍目标的治疗能力。（充能：[短休](Short_rest.md "短休")。） |
 | [短剑 +2](Shortsword_+2.md "短剑 +2") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 95 |  |
 | [切割短剑](Slicing_Shortsword.md "切割短剑") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [深度切割](Deepflesh_Slice.md "深度切割")当使用者以[优势](Advantage.md "优势")攻击时，攻击会施加[流血](Bleeding_(Condition).md "流血（状态）")。 |
-| [阴影之握](Sword_of_Clutching_Umbra.md "阴影之握") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [浸影打击](Shadowsoaked_Blow.md "浸影打击") () 攻击敌人，将您的[熟练项加值](Proficiency_Bonus.md "熟练项加值")加到伤害上。此外，如果攻击命中，会造成额外1d6⁠⁠[心灵](Psychic.md "心灵")伤害。此攻击不会打破隐匿状态。（充能：[短休](Short_rest.md "短休")。） |
+| [阴影之握](Sword_of_Clutching_Umbra.md "阴影之握") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [浸影打击](Shadowsoaked_Blow.md "浸影打击") 攻击敌人，将您的[熟练项加值](Proficiency_Bonus.md "熟练项加值")加到伤害上。此外，如果攻击命中，会造成额外1d6⁠⁠[心灵](Psychic.md "心灵")伤害。此攻击不会打破隐匿状态。（充能：[短休](Short_rest.md "短休")。） |
 | [灾祸短剑](The_Baneful.md "灾祸短剑") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 190 | [心仪武器](Favoured_Weapon.md "心仪武器")此武器伤害和[攻击掷骰](Attack_roll.md "攻击掷骰")具有+1加值。[灾祸连接](Baneful_Bond.md "灾祸连接")命中时，可能对目标施加[灾祸术](Bane_(Condition).md "灾祸术（状态）")。 |
 | [山下国王之刃](Knife_of_the_Undermountain_King.md "山下国王之刃") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 480 | [开膛破肚](Organ_Rearranger.md "开膛破肚")攻击时，[重击](Critical_Hit.md "重击")所需的掷骰数值减少1。此效果可叠加。当掷出2点或更低伤害时，重掷骰子，取最高值。[破影利刃](Shadow_Blade_(passive_feature).md "破影利刃（被动特性）")使用此刃时，对轻度或重度遮蔽目标进行[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。 |
 | [偷生之剑](Sword_of_Life_Stealing.md "偷生之剑") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 480 | [生命窃取重击](Life_Stealing_Critical.md "生命窃取重击")在[重击](Critical_Hit.md "重击")时，目标会受到额外10⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害附加源")伤害，只要它不是构装生物或不死生物。您还会获得10点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |

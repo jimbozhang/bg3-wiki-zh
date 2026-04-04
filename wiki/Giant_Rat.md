@@ -2,15 +2,34 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Akbar Kurtha](https://www.imdb.com/name/nm0475988/) |
+| 声音 / 演员 | [Akbar Kurtha](https://www.imdb.com/name/nm0475988/) |
 | 体型 | 微型 |
 | 类型 | [野兽](Beast.md "Beast") |
 | 种族 | [老鼠](Rat.md "Rat") |
-| 等级 | 1 |
-| 生命值 | 4 |
-| 护甲等级 | 10 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 1 | 1 |
+| 生命值 | 4 | 5 |
+| 护甲等级 | 10 | 10 |
+| 先攻 | +1 | +1 |
+| 熟练项 | +2 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 1 千克 (2 磅) | 1 千克 (2 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 9 / (-1) | 2 / (-4) | 10 / (0) | 4 / (-3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [集群战术](Pack_Tactics.md "Pack Tactics")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [集群战术](Pack_Tactics.md "Pack Tactics")
 
 **巨鼠**是一种可以在[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")中找到的老鼠。
 
@@ -31,7 +50,7 @@
 
 ### 攻击与能力
 
-[吸血鬼害虫](Vampiric_Vermin.md "Vampiric Vermin") ()
+[吸血鬼害虫](Vampiric_Vermin.md "Vampiric Vermin")
 
 伤害: 2~8
 

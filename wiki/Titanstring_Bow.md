@@ -30,17 +30,17 @@ UID `MAG_StrongString_Longbow` UUID `13236988-83df-4bf2-8005-b4ac31f21ff4` Stats
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") ()
+[备战（远程）](Brace_(Ranged).md "备战（远程）")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的本回合剩余时间内，掷两次远程伤害并取最高值。（充能：[短休](Short_rest.md "短休")。）
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 射击敌人的大腿，可能使其[移动速度](Movement_speed.md "移动速度")降低 50%。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[推撞攻击（远程）](Pushing_Attack_(Titanstring_Bow).md "推撞攻击（泰坦弦弓）") ()
+[推撞攻击（远程）](Pushing_Attack_(Titanstring_Bow).md "推撞攻击（泰坦弦弓）")
 将你的目标推回 4.5 米 (15 英尺)。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取位置

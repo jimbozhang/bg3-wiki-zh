@@ -18,7 +18,7 @@
 
 穿戴此物品获得：
 
-[镜像术](Mirror_Image.md "镜像术") ()
+[镜像术](Mirror_Image.md "镜像术")
 以2环法术施展（充能：[长休](Long_Rest.md "长休")。）
 
 [法术抗性](Spell_Resistance.md "法术抗性")

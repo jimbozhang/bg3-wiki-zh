@@ -5,11 +5,21 @@
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [红帽子](Redcap.md "Redcap") |
-| 等级 | 4 |
-| 生命值 | 27 |
-| 护甲等级 | 12 |
-| 先攻 | +1 |
-| 经验值 | 40 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 27 | 18 | 35 |
+| 护甲等级 | 12 | 12 | 12 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 经验值 | 40 | 40 | 40 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 13 / (+1) | 16 / (+3) | 10 / (0) | 14 / (+2) | 9 / (-1) |
 
 **红帽子鲜血贤者**是[第一幕](Act_One.md "Act One")期间在[日照湿地](Sunlit_Wetlands.md "Sunlit Wetlands")出现的一种[妖精](List_of_creature_types.md#Fey "List of Creature Types")生物。
 
@@ -32,7 +42,7 @@
 
 ### 攻击与能力
 
-[嗜血](Bloodlust_(Redcap).md "Bloodlust (Redcap)") ()
+[嗜血](Bloodlust_(Redcap).md "Bloodlust (Redcap)")
 
 治疗：3~18
 
@@ -49,7 +59,7 @@
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[伤口裸露](Open_Wounds.md "Open Wounds") ()
+[伤口裸露](Open_Wounds.md "Open Wounds")
 
 伤害：2~12
 

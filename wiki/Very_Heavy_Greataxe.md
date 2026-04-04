@@ -23,17 +23,17 @@ UID `UNI_WPN_HeavyGreataxe` UUID `b3ed22d9-dd32-46c3-928a-e7253a843dfc` Stats `U
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
-[准备](Prepare.md "准备") ()
+[准备](Prepare.md "准备")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害 (最小 1)。 (充能：[短休](Short_rest.md "短休")。)
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[巨像切割者](Gargantuan_Cleave.md "巨像切割者") ()
+[巨像切割者](Gargantuan_Cleave.md "巨像切割者")
 全力挥动武器。你可以攻击多个目标，造成额外 1d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害，但会进入\_(状态)[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡 (巨像切割者) (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

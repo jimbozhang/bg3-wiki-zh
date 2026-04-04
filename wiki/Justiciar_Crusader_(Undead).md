@@ -38,7 +38,7 @@
 
 审判十字军永久受[光耀报复](Radiant_Retort_(Condition).md "光耀报复（状态）")影响。
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨剑](Greatsword.md "巨剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨剑](Greatsword.md "巨剑")
 
 伤害：6~16
 
@@ -48,7 +48,7 @@
 
 近战：1.5 米（5 英尺）
 
-[极致悲痛](Overwhelming_Grief.md "极致悲痛") ()
+[极致悲痛](Overwhelming_Grief.md "极致悲痛")
 
 伤害：2~12
 
@@ -61,7 +61,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：6 米（20 英尺）
 
-[归入阴影](Subsume_Shadow.md "归入阴影") ()
+[归入阴影](Subsume_Shadow.md "归入阴影")
 审判十字军进入其[阴影形态](Umbral_Form_(Condition).md "阴影形态（状态）")。
 
 射程：自身

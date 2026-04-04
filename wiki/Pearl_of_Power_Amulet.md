@@ -14,7 +14,7 @@
 
 佩戴此物品获得：
 
-[珠光复原术](Pearlescent_Restoration.md "Pearlescent Restoration") ()
+[珠光复原术](Pearlescent_Restoration.md "Pearlescent Restoration")
 你可以补充你选择的、最高至3级的已消耗[法术位](Spell_Slot.md "Spell Slot")。（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点

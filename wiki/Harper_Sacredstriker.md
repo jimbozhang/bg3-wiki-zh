@@ -27,14 +27,14 @@ UID `MAG_Harpers_OfWeapons_Quarterstaff` UUID `111e30c6-ced0-478b-9922-3428cb50b
 
 **持有此物品获得：**
 
-[灵体武器](Spiritual_Weapon.md "Spiritual Weapon") ()
+[灵体武器](Spiritual_Weapon.md "Spiritual Weapon")
 以 6 级法术施展（充能：[长休](Long_Rest.md "Long Rest")。）
 
 ### 武器动作
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[摔绊](Topple.md "Topple") ()
+[摔绊](Topple.md "Topple")
 挥击一个生物以使其[倒伏](Prone_(Condition).md "Prone (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

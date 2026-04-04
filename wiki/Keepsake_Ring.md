@@ -14,7 +14,7 @@
 
 此物品的佩戴者获得：
 
-[支配野兽](Dominate_Beast.md "Dominate Beast") ()
+[支配野兽](Dominate_Beast.md "Dominate Beast")
 以5级法术施展（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点

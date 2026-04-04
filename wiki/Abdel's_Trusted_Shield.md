@@ -19,10 +19,10 @@
 
 此物品的穿戴者获得：
 
-[盾牌猛击](Shield_Blow.md "盾牌猛击") ()
+[盾牌猛击](Shield_Blow.md "盾牌猛击")
 当敌人用近战攻击命中你时，你可以使用你的反应将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。
 
-[防箭术](Protection_from_Missiles.md "防箭术") ()
+[防箭术](Protection_from_Missiles.md "防箭术")
 增强你的反射神经以更好地应对来袭的箭矢。针对你的[远程攻击](Ranged_Attack.md "远程攻击")具有[劣势](Disadvantage.md "劣势")，且其伤害减半。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

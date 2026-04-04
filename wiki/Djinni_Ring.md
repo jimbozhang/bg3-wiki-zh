@@ -14,7 +14,7 @@
 
 此物品的佩戴者获得：
 
-[法师之手](Mage_Hand.md "Mage Hand") ()
+[法师之手](Mage_Hand.md "Mage Hand")
 作为戏法施放（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

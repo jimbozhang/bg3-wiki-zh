@@ -16,7 +16,7 @@
 
 [Attack Rolls](Attack_roll.md "攻击掷骰") +1
 
-[Garrotte](Garrotte.md "绞杀术") ()
+[Garrotte](Garrotte.md "绞杀术")
 用阴影绳索缠绕[Humanoid](Humanoid.md "类人生物")生物的喉咙，开始对其施加[Garrotting](Garrotted_(Condition).md "绞杀（状态）")。（充能：[Short rest](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -36,7 +36,7 @@
 
 用你辉煌的刀刃劈砍目标。
 
-[割裂](Lacerate_(Spiritual_Weapon).md "割裂（灵体武器）") ()
+[割裂](Lacerate_(Spiritual_Weapon).md "割裂（灵体武器）")
 劈砍目标的要害部位使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 飞向目标位置

@@ -22,7 +22,7 @@
 
 穿戴此物品获得：
 
-[闪电灵光](Lightning_Aura.md "闪电灵光") ()
+[闪电灵光](Lightning_Aura.md "闪电灵光")
 消耗 3 [闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）")并释放一道电击波，对附近敌人造成伤害并使其[触电](Jolted_(Condition).md "触电（状态）")。（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

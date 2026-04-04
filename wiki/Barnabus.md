@@ -59,7 +59,7 @@
 
 ### 攻击和能力
 
-[啃咬](Bite_(Gnoll).md "啃咬 (豺狼人)") ()
+[啃咬](Bite_(Gnoll).md "啃咬 (豺狼人)")
 
 伤害：2~5
 
@@ -69,12 +69,12 @@
 
 近战：1.5 米 (5 英尺)
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [长弓](Longbow.md "长弓")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [长弓](Longbow.md "长弓")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "短休")
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") () – [长弓](Longbow.md "长弓")
+[腿筋射击](Hamstring_Shot.md "腿筋射击") – [长弓](Longbow.md "长弓")
 
 伤害：4~11
 
@@ -86,7 +86,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [长弓](Longbow.md "长弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [长弓](Longbow.md "长弓")
 
 伤害：4~11
 
@@ -96,7 +96,7 @@
 
 射程：18 米 (60 英尺)
 
-[怒火中烧](Seething_Fury.md "怒火中烧") ()
+[怒火中烧](Seething_Fury.md "怒火中烧")
 让愤怒在你体内积聚。一旦它溢出，你将能够在一回合内攻击多次。
 
 射程：自身

@@ -59,7 +59,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 
@@ -69,7 +69,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：6~15
 
@@ -79,7 +79,7 @@
 
 射程：18 米 (60 英尺)
 
-[自我藏匿](Shroud_Self.md "自我藏匿") ()
+[自我藏匿](Shroud_Self.md "自我藏匿")
 用阴影包裹自己，变为[隐形](Invisible_(Condition).md "隐形 (状态)")
 
 射程：自身

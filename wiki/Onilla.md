@@ -64,7 +64,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [凶残切割](Murderous_Cut.md "Murderous Cut")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [凶残切割](Murderous_Cut.md "Murderous Cut")
 
 伤害：7~10
 
@@ -74,7 +74,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[自我藏匿](Shroud_Self.md "Shroud Self") ()
+[自我藏匿](Shroud_Self.md "Shroud Self")
 用阴影包裹自己，变为[隐形](Invisible_(Condition).md "Invisible (Condition)")
 
 范围：自身

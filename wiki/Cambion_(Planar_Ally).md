@@ -75,7 +75,7 @@
 
 ## 法术与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长柄刀](Glaive.md "长柄刀")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长柄刀](Glaive.md "长柄刀")
 
 伤害：5~14
 
@@ -85,7 +85,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 
 伤害：5~8
 
@@ -97,7 +97,7 @@
 射程：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[邪魔魅惑](Fiendish_Charm.md "邪魔魅惑") ()
+[邪魔魅惑](Fiendish_Charm.md "邪魔魅惑")
 
 [魅惑](Charmed_(Condition).md "魅惑（状态）")类人生物，使其无法攻击你。在对话中，你在魅力[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "优势")。
 
@@ -106,7 +106,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[火焰射线](Rays_of_Fire.md "火焰射线") ()
+[火焰射线](Rays_of_Fire.md "火焰射线")
 
 伤害：9~54
 
@@ -120,7 +120,7 @@
 
 射程：18 米 (60 英尺)
 
-[汲命之吻](Draining_Kiss.md "汲命之吻") ()
+[汲命之吻](Draining_Kiss.md "汲命之吻")
 
 伤害：10~55
 
@@ -133,7 +133,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：9 米 (30 英尺)
 
-[飞行](Fly_(class_action).md "飞行（职业动作）") ()
+[飞行](Fly_(class_action).md "飞行（职业动作）")
 飞向目标位置
 
 射程：18 米 (60 英尺)

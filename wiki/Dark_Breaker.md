@@ -73,7 +73,7 @@
 
 射程：18 m (60 ft)
 
-[缴械打击](Disarming_Strike.md "Disarming Strike") () – [三叉戟](Trident.md "Trident")
+[缴械打击](Disarming_Strike.md "Disarming Strike") – [三叉戟](Trident.md "Trident")
 
 伤害：4~7
 
@@ -100,7 +100,7 @@
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 m (60 ft)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [三叉戟](Trident.md "Trident")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [三叉戟](Trident.md "Trident")
 
 伤害：4~9
 
@@ -110,7 +110,7 @@
 
 近战：1.5 m (5 ft)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [三叉戟](Trident.md "Trident")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [三叉戟](Trident.md "Trident")
 
 伤害：4~9
 
@@ -124,7 +124,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [三叉戟](Trident.md "Trident")
+[突进攻击](Rush_Attack.md "Rush Attack") – [三叉戟](Trident.md "Trident")
 
 伤害：4~7
 

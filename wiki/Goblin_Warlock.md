@@ -62,7 +62,7 @@
 
 范围：自身
 
-[魔能爆](Eldritch_Blast.md "Eldritch Blast") ()
+[魔能爆](Eldritch_Blast.md "Eldritch Blast")
 
 伤害：1~10
 

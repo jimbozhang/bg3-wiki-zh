@@ -16,7 +16,7 @@
 
 - [感知](Wisdom.md "Wisdom") +1 (上限为21)
 
-[卡利德的礼物：支援术](Khalid's_Gift_colon__Aid.md "卡利德的礼物：支援术") ()
+[卡利德的礼物：支援术](Khalid's_Gift_colon__Aid.md "卡利德的礼物：支援术")
 以3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [奇怪礼物](Odd_Gift.md "奇怪礼物")

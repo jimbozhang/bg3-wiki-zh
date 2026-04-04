@@ -64,7 +64,7 @@
 
 范围：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：5~8
 
@@ -74,7 +74,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [短弓](Shortbow.md "短弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [短弓](Shortbow.md "短弓")
 
 伤害：5~10
 

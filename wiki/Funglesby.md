@@ -6,12 +6,48 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
-| 等级 | 8 |
-| 生命值 | 60 |
-| 护甲等级 | 15 |
-| 先攻 | +4 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 140 |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "黄金矮人") |
+| 职业 | [游侠](Ranger.md "游侠") |
+| 副职 | [驯兽师](Beast_Master.md "驯兽师") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 60 | 42 | 78 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +4 | +4 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 140 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 18 / (+4) | 12 / (+1) | 10 / (0) | 16 / (+3) | 12 / (+1) |
+
+**特性**
+
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [训练有素](Exceptional_Training.md "训练有素")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [荒野漫游者：毒素](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
+
+**特性**
+
+- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [训练有素](Exceptional_Training.md "训练有素")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+- [法师破坏者](Mage_Breaker.md "法师破坏者")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [荒野漫游者：毒素](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -67,7 +103,7 @@
 
 射程：18 米 (60 英尺)
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [轻弩](Light_Crossbow.md "轻弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [轻弩](Light_Crossbow.md "轻弩")
 
 伤害：5~12
 
@@ -81,7 +117,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "短休")
 
-[毒气喷溅](Poison_Spray.md "毒气喷溅") ()
+[毒气喷溅](Poison_Spray.md "毒气喷溅")
 
 伤害：1~12
 
@@ -100,7 +136,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [轻弩](Light_Crossbow.md "轻弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [轻弩](Light_Crossbow.md "轻弩")
 
 伤害：5~12
 
@@ -110,7 +146,7 @@
 
 射程：18 米 (60 英尺)
 
-[狼伙伴](Wolf_Companion.md "狼伙伴") ()
+[狼伙伴](Wolf_Companion.md "狼伙伴")
 召唤一匹狼，它可以造成毁灭性伤口，并用[飞扑啃咬](Lunging_Bite.md "飞扑啃咬")击倒敌人。
 
 射程：18 米 (60 英尺)

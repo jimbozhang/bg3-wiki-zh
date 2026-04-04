@@ -10,7 +10,7 @@
 
 ## 赋予
 
-[重新施展炫目射线](Recast_Dazzling_Ray.md "重新施展炫目射线") ()
+[重新施展炫目射线](Recast_Dazzling_Ray.md "重新施展炫目射线")
 释放一道耀眼的光束，使路径上的所有生物[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
 ## 炫目射线来源

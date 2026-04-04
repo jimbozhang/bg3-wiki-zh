@@ -29,17 +29,17 @@ UID `MAG_Cleric_Devotees_Mace` UUID `f8578a13-a857-4043-91e4-8101c9e7c004` Stats
 
 仅限主手
 
-[治疗熏香灵光](Healing_Incense_Aura.md "治疗熏香灵光") ()
+[治疗熏香灵光](Healing_Incense_Aura.md "治疗熏香灵光")
 散发舒缓灵光，你和附近盟友在你的回合开始时恢复 1d4⁠⁠[治疗](Healing.md "治疗")（充能：[长休](Long_Rest.md "长休")）
 
 ### 武器动作
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击打敌人造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")（充能：[短休](Short_rest.md "短休")）
 
-[摔翻打击](Backbreaker.md "摔翻打击") ()
+[摔翻打击](Backbreaker.md "摔翻打击")
 在攻击中施加额外力量，可能使敌人[倒伏](Prone_(Condition).md "倒伏（状态）")（充能：[短休](Short_rest.md "短休")）
 
 ## 获取地点

@@ -26,7 +26,7 @@ UID `MAG_Orthon_Hellfire_HandCrossbow` UUID `f5b3b579-3569-4f6d-835c-9c19245152d
 
 **持有此物品获得：**
 
-[灼热射线](Scorching_Ray.md "灼热射线") ()
+[灼热射线](Scorching_Ray.md "灼热射线")
 以3环法术施放（充能：[短休](Short_rest.md "短休")。）
 
 [地狱潜行者](Hellstalker.md "地狱潜行者")
@@ -36,10 +36,10 @@ UID `MAG_Orthon_Hellfire_HandCrossbow` UUID `f5b3b579-3569-4f6d-835c-9c19245152d
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") ()
+[穿刺射击](Piercing_Shot.md "穿刺射击")
 造成常规伤害，并可能使目标进入[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")状态，该状态会使攻击造成额外伤害。充能：[短休](Short_rest.md "短休")。）
 
-[移动射击](Mobile_Shot.md "移动射击") ()
+[移动射击](Mobile_Shot.md "移动射击")
 在本回合使用[疾走](Dash.md "疾走")或[撤离](Disengage.md "撤离")后，你可以以附赠动作进行一次远程攻击。充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -23,13 +23,13 @@ UID `HAG_SwampedHero_OldFancyGreatsword` UUID `0bf738cf-c0b7-471c-b66e-91578a6f6
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") ()
+[剑柄打击](Pommel_Strike.md "剑柄打击")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击 3 个敌人。每个敌人受到武器通常伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

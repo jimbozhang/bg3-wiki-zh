@@ -152,7 +152,7 @@
 
 ### 等级7
 
-[弧形射击](Curving_Shot.md "弧形射击") ()
+[弧形射击](Curving_Shot.md "弧形射击")
 当你使用任何魔法远程攻击未命中时，使用[附赠动作](Actions.md#Resources "动作")以相同攻击攻击下一个最近的目标。（充能：每回合。）
 
 [魔法箭](Magic_Arrow.md "魔法箭")
@@ -185,7 +185,7 @@
 [刀锋咏唱能量](Bladesinging.md#Level_2 "刀锋咏唱")：2
 用于施展刀锋咏唱。通过[长休](Long_Rest.md "长休")补充。即使在熟练的情况下，穿着中甲或重甲也无法进行刀锋咏唱；穿着这些护甲时，你会获得“刀锋咏唱受阻”状态。
 
-[刀锋咏唱](Bladesong.md "刀锋咏唱") ()
+[刀锋咏唱](Bladesong.md "刀锋咏唱")
 唤起刀锋咏唱。你获得+2的[护甲等级](Armour_Class.md "护甲等级")加值，你的[移动速度](Movement_speed.md "移动速度")增加3米（10英尺）。你还在[体操](Acrobatics.md "体操")上获得[优势](Advantage.md "优势")，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上获得+2加值。
 
 [战争与歌曲训练](Training_in_War_and_Song.md "战争与歌曲训练")
@@ -195,7 +195,7 @@
 
 [刀锋咏唱能量](Bladesinging.md#Level_2 "刀锋咏唱")：3
 获得一次额外的刀锋咏唱使用次数。
-[刀锋咏唱](Bladesong.md "刀锋咏唱") ()
+[刀锋咏唱](Bladesong.md "刀锋咏唱")
 护甲等级和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")加值增加到+3。
 
 ### 等级6
@@ -207,7 +207,7 @@
 
 [刀锋咏唱能量](Bladesinging.md#Level_2 "刀锋咏唱")：4
 获得一次额外的刀锋咏唱使用次数。
-[刀锋咏唱](Bladesong.md "刀锋咏唱") ()
+[刀锋咏唱](Bladesong.md "刀锋咏唱")
 护甲等级和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")加值增加到+4。
 
 ### 等级10
@@ -307,7 +307,7 @@
 
 ### 等级6
 
-[威严斗篷：命令](Mantle_of_Majesty_colon__Command.md "威严斗篷：命令") ()
+[威严斗篷：命令](Mantle_of_Majesty_colon__Command.md "威严斗篷：命令")
 命令一个生物逃跑、靠近、冻结、趴下或放下武器。[魅惑](Charmed_(Condition).md "魅惑（状态）")的目标会自动豁免失败。（充能：[长休](Long_Rest.md "长休")。）
 
 灵感斗篷
@@ -349,7 +349,7 @@
 [引导神力：死亡之触](Channel_Divinity_colon__Touch_of_Death.md "引导神力：死亡之触")
 当你用近战攻击击中一个生物时，可以使用[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")来造成额外的5 + 2 ×（牧师等级）⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-[死亡之触](Touch_of_Death.md "死亡之触") ()
+[死亡之触](Touch_of_Death.md "死亡之触")
 当你用近战攻击击中一个生物时，可以使用[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")来造成额外的⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
 ### 等级3
@@ -379,7 +379,7 @@
 
 ### 等级8
 
-[神赐打击：黯蚀](Divine_Strike_colon__Necrotic.md "神赐打击：黯蚀") ()
+[神赐打击：黯蚀](Divine_Strike_colon__Necrotic.md "神赐打击：黯蚀")
 每回合一次，在进行近战攻击时，除了武器伤害外，额外造成1d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。（充能：每回合。）
 
 ### 等级9
@@ -407,12 +407,12 @@
 [瓦普拉克的贪婪](Vaprak's_Greed.md "瓦普拉克的贪婪")
 你的[负重](Carrying_capacity.md "负重")增加四分之一。
 
-[奇术](Thaumaturgy.md "奇术") ()
+[奇术](Thaumaturgy.md "奇术")
 在[威吓](Intimidation.md "威吓")和[表演](Performance.md "表演")[技能检定](Skill_Check.md "技能检定")上获得[优势](Advantage.md "优势")。
 
 ### 等级5
 
-[巨人之靴](Boot_of_the_Giants.md "巨人之靴") ()
+[巨人之靴](Boot_of_the_Giants.md "巨人之靴")
 尝试踢开一个目标。你的成功率取决于你的[运动](Athletics.md "运动")值，如果你处于隐匿或隐形状态，成功率更高。
 
 ### 等级6
@@ -422,7 +422,7 @@
 
 ### 等级10
 
-[强力投掷](Mighty_Impel.md "强力投掷") ()
+[强力投掷](Mighty_Impel.md "强力投掷")
 投掷一个中型或更小的生物或物体。
 
 [￪ 返回顶部](#top)
@@ -440,10 +440,10 @@
 [诅咒战士](Hex_Warrior.md "诅咒战士")
 你获得[中甲](Armour.md#List_of_medium_armour "护甲")、[盾牌](Shields.md "盾牌")和[军用武器](Martial_weapons.md "军用武器")熟练项。你获得[束缚诅咒武器](Bind_Hexed_Weapon.md "束缚诅咒武器")，这让你在使用熟练的武器攻击时，使用你的[魅力](Charisma.md "魅力")调整值代替力量或敏捷。
 
-[束缚诅咒武器](Bind_Hexed_Weapon.md "束缚诅咒武器") ()
+[束缚诅咒武器](Bind_Hexed_Weapon.md "束缚诅咒武器")
 绑定到你的主手武器。它的伤害变为魔法伤害，你不能丢弃或投掷它，并且如果你之前不熟练，你会变得[重甲的](Proficient.md "重甲的")。当你使用此武器攻击时，有几率_【参见注释】_对目标施加[诅咒之刃的诅咒](Hexblade's_Curse_(Condition).md "诅咒之刃的诅咒（状态）")。
 
-[诅咒之刃的诅咒](Hexblade's_Curse.md "诅咒之刃的诅咒") ()
+[诅咒之刃的诅咒](Hexblade's_Curse.md "诅咒之刃的诅咒")
 诅咒一个目标。你对目标的伤害掷骰获得等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")的加值。攻击目标时需要掷出[重击](Critical_Hit.md "重击")的数值也减少1。如果目标死亡，你恢复邪术师等级 + 魅力调整值的[生命值](Hit_Points.md "生命值")。（充能：[短休](Short_rest.md "短休"）。
 
 扩展法术列表
@@ -463,7 +463,7 @@
 - [闪现](Blink.md "闪现")
 - [元素武器](Elemental_Weapon.md "元素武器") ### 等级6
 
-[诅咒幽魂](Accursed_Spectre_(reaction).md "诅咒幽魂（反应）") ()
+[诅咒幽魂](Accursed_Spectre_(reaction).md "诅咒幽魂（反应）")
 从一个被[诅咒](Hexblade's_Curse_(Condition).md) 目标的灵魂中召唤一个诅咒幽魂为你战斗。已故生物的体型将决定你召唤的是[虚弱幽魂](Feeble_Spectre.md "虚弱幽魂")、[普通幽魂](Mundane_Spectre.md "普通幽魂")还是[原始幽魂](Primordial_Spectre.md "原始幽魂")。对[构装生物](Constructs.md "构装生物")、[元素生物](Elemental.md "元素生物")、[泥型怪物](Ooze.md "泥型怪物")、[植物](Plant.md "植物")或[不死生物](Undead.md "不死生物")无效。
 
 ### 等级7
@@ -483,7 +483,7 @@
 
 ### 等级10
 
-[诅咒护甲](Armour_of_Hexes.md "诅咒护甲") ()
+[诅咒护甲](Armour_of_Hexes.md "诅咒护甲")
 当一个被你用[诅咒之刃的诅咒](Hexblade's_Curse_(Condition).md "诅咒之刃的诅咒（状态）")诅咒的生物攻击你时，可以作为一个[反应](Reaction.md "反应")来无效化这次攻击。此操作有50%的成功几率。
 
 [￪ 返回顶部](#top)
@@ -575,7 +575,7 @@
 
 ### 等级11
 
-[暗影行走](Shadow_Walk.md "暗影行走") ()
+[暗影行走](Shadow_Walk.md "暗影行走")
 传送到阴影中。你本回合施放的下一个法术将受益于[超魔：远距法术](Metamagic_colon__Distant_Spell.md "超魔：远距法术")，且不消耗任何术法点。
 
 [￪ 返回顶部](#top)
@@ -692,9 +692,9 @@
 
 普通偷袭被潇洒偷袭取代。
 
-[潇洒偷袭（近战）](Rakish_Sneak_Attack_(Melee).md "潇洒偷袭（近战）") ()
+[潇洒偷袭（近战）](Rakish_Sneak_Attack_(Melee).md "潇洒偷袭（近战）")
 对你拥有[优势](Advantage.md "优势")的敌人造成额外伤害。如果目标2米/7英尺范围内没有其他战斗人员，或者你在此范围内有盟友，你也可以在没有优势的情况下使用此攻击。（充能：每回合。）
-[潇洒偷袭（远程）](Rakish_Sneak_Attack_(Ranged).md "潇洒偷袭（远程）") ()
+[潇洒偷袭（远程）](Rakish_Sneak_Attack_(Ranged).md "潇洒偷袭（远程）")
 对你拥有[优势](Advantage.md "优势")的敌人造成额外伤害。如果目标2米/7英尺范围内没有其他战斗人员，或者你在此范围内有盟友，你也可以在没有优势的情况下使用此攻击。（充能：每回合。）
 
 ### 等级4
@@ -703,16 +703,16 @@
 学习以下下流伎俩。
 [魅力](Charisma.md "魅力")是这些能力的施法调整值，除了沙尘投掷使用敏捷。
 
-[下流伎俩：手腕轻弹](Dirty_Trick_colon__Flick_o'_the_Wrist.md "下流伎俩：手腕轻弹") ()
+[下流伎俩：手腕轻弹](Dirty_Trick_colon__Flick_o'_the_Wrist.md "下流伎俩：手腕轻弹")
 轻弹你的武器攻击目标，并可能使其[缴械](Disarmed_(Condition).md "缴械（状态）")。
-[下流伎俩：沙尘投掷](Dirty_Trick_colon__Sand_Toss.md "下流伎俩：沙尘投掷") ()
+[下流伎俩：沙尘投掷](Dirty_Trick_colon__Sand_Toss.md "下流伎俩：沙尘投掷")
 向你的敌人投掷一把沙子，并可能使其[目盲](Blinded_(Condition).md "目盲（状态）")。
-[下流伎俩：恶毒嘲笑](Dirty_Trick_colon__Vicious_Mockery.md "下流伎俩：恶毒嘲笑") ()
+[下流伎俩：恶毒嘲笑](Dirty_Trick_colon__Vicious_Mockery.md "下流伎俩：恶毒嘲笑")
 侮辱一个生物：其下一次⁠[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
 ### 等级9
 
-[魅力](Panache.md "魅力") ()
+[魅力](Panache.md "魅力")
 进行一次[游说](Persuasion.md "游说")检定以迷惑一个人类生物，该生物必须用[洞悉](Insight.md "洞悉")检定来对抗。失败的敌人获得[魅力：劣势](Panache_colon__Disadvantage_(Condition).md "魅力：劣势（状态）")；其他失败的生物则变得[魅惑](Charmed_(Condition).md "魅惑（状态）")。
 
 [￪ 返回顶部](#top)
@@ -771,7 +771,7 @@
 
 ### 轰鸣剑
 
-[轰鸣剑](Booming_Blade.md "轰鸣剑") ()
+[轰鸣剑](Booming_Blade.md "轰鸣剑")
 
 伤害：1~8
 
@@ -790,7 +790,7 @@
 
 ### 爆裂筋腱
 
-[爆裂筋腱](Bursting_Sinew.md "爆裂筋腱") ()
+[爆裂筋腱](Bursting_Sinew.md "爆裂筋腱")
 
 伤害：1~10
 
@@ -840,7 +840,7 @@
 
 ### 丧钟
 
-[丧钟](Toll_the_Dead.md "丧钟") ()
+[丧钟](Toll_the_Dead.md "丧钟")
 
 伤害：1~12
 

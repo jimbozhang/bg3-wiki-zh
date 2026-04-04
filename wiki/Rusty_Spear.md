@@ -28,7 +28,7 @@ UID `WPN_HUM_Spear_A_0_Rusty_A` UUID `86450ec8-d876-457f-92c0-7bb11e8f38f8` ### 
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能使其[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

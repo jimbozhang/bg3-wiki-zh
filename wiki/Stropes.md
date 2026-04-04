@@ -31,7 +31,7 @@
 
 ### 攻击与能力
 
-[火焰箭](Fire_Bolt.md "火焰箭") ()
+[火焰箭](Fire_Bolt.md "火焰箭")
 
 伤害: 1~10
 
@@ -51,7 +51,7 @@
 
 射程: 18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长棍](Quarterstaff.md "长棍")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长棍](Quarterstaff.md "长棍")
 
 伤害: 2~7
 
@@ -61,7 +61,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[摔绊](Topple.md "摔绊") () – [长棍](Quarterstaff.md "长棍")
+[摔绊](Topple.md "摔绊") – [长棍](Quarterstaff.md "长棍")
 
 伤害: 1~4
 

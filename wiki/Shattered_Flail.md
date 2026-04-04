@@ -56,14 +56,14 @@ Hitting an enemy with this weapon heals the wielder for 1d6⁠⁠[hit points](He
 
 _If you have[proficiency](Proficiency.md "Proficiency"), equip in **main hand** to gain:_
 
-[Concussive Smash](Concussive_Smash.md "Concussive Smash") ()
+[Concussive Smash](Concussive_Smash.md "Concussive Smash")
 Hit an enemy with all your might to deal damage and possibly [Daze](Dazed_(Condition).md "Dazed (Condition)") them. (Recharge: [Short rest](Short_rest.md "Short rest").)
 
 ### 武器动作
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## Where to find

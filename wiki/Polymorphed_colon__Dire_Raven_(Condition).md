@@ -43,9 +43,9 @@
 | [荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger_(Condition).md "荒野形态：剑齿虎 (状态)") | 荒野形态变为剑齿虎 |
 | [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon_(Condition).md "荒野形态：水元素执政官 (状态)") | 荒野形态变为水元素执政官 |
 
-[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击 (恐鸦)") ()
+[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击 (恐鸦)")
 
-[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠 (恐鸦)") ()
+[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠 (恐鸦)")
 攻击生物的眼睛并使其[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
 飞至目标位置

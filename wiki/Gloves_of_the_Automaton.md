@@ -16,7 +16,7 @@
 
 - [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw") +1。
 
-[电路接口](Circuitry_Interface.md "Circuitry Interface") ()
+[电路接口](Circuitry_Interface.md "Circuitry Interface")
 你被视为[构装生物](Construct.md "Construct")。你的武器[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")，并且你对[闪电](Lightning.md "Lightning")伤害具有[抗性](Resistance.md "Resistance")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

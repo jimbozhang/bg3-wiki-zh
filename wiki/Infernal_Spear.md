@@ -38,7 +38,7 @@ UID `MAG_Infernal_Spear` UUID `e8f6c0aa-de5c-45a5-97fd-599addc036f1` ### 特殊
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[突进攻击](Rush_Attack.md "Rush Attack") ()
+[突进攻击](Rush_Attack.md "Rush Attack")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")状态。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 状态：中毒

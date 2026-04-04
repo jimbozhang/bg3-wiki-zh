@@ -27,14 +27,14 @@ UID `S_HAG_GaleMagicItem` UUID `544e81be-cc28-4fdf-aea7-9a31940af4d0` ### 特殊
 
 **持有此物品获得：**
 
-[疾病射线](Ray_of_Sickness.md "疾病射线") ()
+[疾病射线](Ray_of_Sickness.md "疾病射线")
 施放为 1 级法术（充能：[短休](Short_rest.md "短休")）
 
 ### 武器动作
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物以使其[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")）
 
 ## 获取地点

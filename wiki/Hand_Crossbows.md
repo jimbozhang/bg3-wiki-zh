@@ -26,10 +26,10 @@
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") ()
+[穿刺射击](Piercing_Shot.md "穿刺射击")
 造成常规伤害并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")，使攻击造成额外伤害。（充能：[短休](Short_rest.md "短休")。）
 
-[移动射击](Mobile_Shot.md "移动射击") ()
+[移动射击](Mobile_Shot.md "移动射击")
 在本回合使用[疾走](Dash.md "疾走")或[撤离](Disengage.md "撤离")后，您可以作为附赠动作进行一次远程攻击。（充能：[短休](Short_rest.md "短休")。）
 
 ## 手弩列表
@@ -41,8 +41,8 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 | [引火者](Firestoker.md "引火者") |  | 1d6 | 穿刺 | 0.9 kg / 1.8 lb | 100 | [烈火焚身](Burned_Alive.md "烈火焚身")对[燃烧](Burning_(Condition).md "燃烧（状态）")目标造成额外1d4⁠⁠[武器](Weapon.md "武器")伤害。 |
 | [手弩 +1](Hand_Crossbow_+1.md "手弩 +1") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 |  |
 | [手弩 +2](Hand_Crossbow_+2.md "手弩 +2") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 155 |  |
-| [从未射失](Ne'er_Misser.md "从未射失") | +1 | 1d6 + 1 | 力场 | 0.9 kg / 1.8 lb | 310 | [魔法飞弹](Magic_Missile.md "魔法飞弹") () 施放为3环法术（ 充能：[短休](Short_rest.md "短休")。） |
-| [地狱火手弩](Hellfire_Hand_Crossbow.md "地狱火手弩") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 770 | [地狱潜行者](Hellstalker.md "地狱潜行者")在[隐藏](Hiding_(Condition).md "隐藏（状态）")或[隐形](Invisible_(Condition).md "隐形（状态）")时攻击可能施加[燃烧](Burning_(Condition).md "燃烧（状态）")。 [灼热射线](Scorching_Ray.md "灼热射线") () 施放为3环法术（ 充能：[短休](Short_rest.md "短休")。） |
+| [从未射失](Ne'er_Misser.md "从未射失") | +1 | 1d6 + 1 | 力场 | 0.9 kg / 1.8 lb | 310 | [魔法飞弹](Magic_Missile.md "魔法飞弹") 施放为3环法术（ 充能：[短休](Short_rest.md "短休")。） |
+| [地狱火手弩](Hellfire_Hand_Crossbow.md "地狱火手弩") | +2 | 1d6 + 2 | 穿刺 | 0.9 kg / 1.8 lb | 770 | [地狱潜行者](Hellstalker.md "地狱潜行者")在[隐藏](Hiding_(Condition).md "隐藏（状态）")或[隐形](Invisible_(Condition).md "隐形（状态）")时攻击可能施加[燃烧](Burning_(Condition).md "燃烧（状态）")。 [灼热射线](Scorching_Ray.md "灼热射线") 施放为3环法术（ 充能：[短休](Short_rest.md "短休")。） |
 
 ## 遗留内容
 

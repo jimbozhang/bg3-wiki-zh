@@ -53,7 +53,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [三叉戟](Trident.md "三叉戟")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [三叉戟](Trident.md "三叉戟")
 
 伤害：5~10
 
@@ -76,7 +76,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [三叉戟](Trident.md "三叉戟")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [三叉戟](Trident.md "三叉戟")
 
 伤害：5~10
 
@@ -103,7 +103,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [三叉戟](Trident.md "三叉戟")
+[突进攻击](Rush_Attack.md "突进攻击") – [三叉戟](Trident.md "三叉戟")
 
 伤害：5~8
 

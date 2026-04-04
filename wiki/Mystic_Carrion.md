@@ -3,16 +3,50 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Enzo Squillino Jr.](https://www.imdb.com/name/nm0820076/) |
+| 声音 / 演员 | [Enzo Squillino Jr.](https://www.imdb.com/name/nm0820076/) |
+| 角色 | [商人](Trader.md "Trader") |
+| 家乡 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸"), [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [不死生物](Undead.md "不死生物") |
 | 种族 | [木乃伊领主](Mummy_Lord.md "木乃伊领主") |
-| 等级 | 12 |
-| 生命值 | 143 |
-| 护甲等级 | 17 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 400 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 12 | 12 | 12 |
+| 生命值 | 143 | 100 | 185 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 50 千克 (100 磅) | 50 千克 (100 磅) | 50 千克 (100 磅) |
+| 暗视 | 16 米 (53 英尺) | 16 米 (53 英尺) | 16 米 (53 英尺) |
+| 经验值 | 400 | 400 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 10 / (0) | 17 / (+3) | 15 / (+2) | 20 / (+5) | 16 / (+3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
+- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [多重攻击：恐慌](Multiattack_colon__Frightened.md "多重攻击：恐慌")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [永久武装](Permanently_Armed.md "永久武装")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [高强死灵法术](Heightened_Necromancy.md "高强死灵法术")
+- [获取生命精华](Life_Essence_Harvest.md "获取生命精华")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [多重攻击：恐慌](Multiattack_colon__Frightened.md "多重攻击：恐慌")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [永久武装](Permanently_Armed.md "永久武装")
+- [驱散抗性](Turn_Resistance.md "驱散抗性")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -152,8 +186,6 @@
 
 当肺部完好无损时，无法被[沉默](Silenced_(Condition).md)。
 
-属性
-
 **秘术师卡里翁**是[博德之门](Baldur's_Gate.md "博德之门")中的一名[不死生物](Undead.md "不死生物")[木乃伊领主](Mummy_Lord.md "木乃伊领主")。
 
 > “
@@ -219,7 +251,7 @@
 
 ### 攻击与能力
 
-[冻僵](Bone_Chill.md "冻僵") ()
+[冻僵](Bone_Chill.md "冻僵")
 
 伤害: 1~8
 
@@ -229,7 +261,7 @@
 
 范围: 18 米 (60 英尺)
 
-[卡里翁的爆炸死云术](Carrion's_Explosive_Cloudkill.md "卡里翁的爆炸死云术") ()
+[卡里翁的爆炸死云术](Carrion's_Explosive_Cloudkill.md "卡里翁的爆炸死云术")
 
 伤害: 9~54
 
@@ -243,14 +275,14 @@
 范围: 18 米 (60 英尺)
 充能: 每回合
 
-[恐惧凝视](Dreadful_Glare.md "恐惧凝视") ()
+[恐惧凝视](Dreadful_Glare.md "恐惧凝视")
 用你邪恶的凝视固定目标，使其[恐慌](Frightened_(Condition).md "恐慌 (状态)")。
 
 [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 范围: 18 米 (60 英尺)
 充能: 每回合
 
-[多重攻击](Multiattack_(Mummy).md "多重攻击 (木乃伊)") ()
+[多重攻击](Multiattack_(Mummy).md "多重攻击 (木乃伊)")
 
 伤害: 14~64
 
@@ -266,19 +298,19 @@
 | --- | --- | --- |
 | 2 | 0 | 5 |
 
-[秘术师卡里翁的邪恶诅咒](Mystic_Carrion's_Vile_Curse.md "秘术师卡里翁的邪恶诅咒") ()
+[秘术师卡里翁的邪恶诅咒](Mystic_Carrion's_Vile_Curse.md "秘术师卡里翁的邪恶诅咒")
 将[秘术师卡里翁的中毒诅咒](Mystic_Carrion's_Poisoned_Curse_(Condition).md "秘术师卡里翁的中毒诅咒 (状态)")施加给敌人。
 
 除非目标能成功进行[豁免检定](Saving_throw.md "豁免检定")，否则诅咒会随时间恶化。
 
-[腐烂之拳](Rotting_Fist.md "腐烂之拳") ()
+[腐烂之拳](Rotting_Fist.md "腐烂之拳")
 将拳头打入敌人，可能使其感染[木乃伊腐毒](Mummy_Rot_(Condition).md "木乃伊腐毒 (状态)")。
 
 #### 硬核和荣誉模式
 
 [文件:Mortal Uncoiling.webp](https://bg3.wiki/w/index.php?title=Special:Upload&wpDestFile=Mortal_Uncoiling.webp "文件:Mortal Uncoiling.webp")
 
-[凡人解缚](Mortal_Uncoiling.md "凡人解缚") ()
+[凡人解缚](Mortal_Uncoiling.md "凡人解缚")
 使一名[不死生物](Undead.md "不死生物")实体反叛其主人，直到战斗结束。效果结束时，实体被摧毁。
 
 #### 荣誉模式

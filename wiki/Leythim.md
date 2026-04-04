@@ -3,16 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Phillipe Bosher](https://www.imdb.com/name/nm11598337/) |
+| 声音 / 演员 | [Phillipe Bosher](https://www.imdb.com/name/nm11598337/) |
+| 家庭 | 亨丽埃塔·洪恩 _（前未婚妻）_ |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 62 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 250 |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 62 | 59 | 64 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [方阵队形](Phalanx_Formation.md "Phalanx Formation")
+- [反击](Riposte_(passive_feature).md "Riposte (passive feature)")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [方阵队形](Phalanx_Formation.md "Phalanx Formation")
+- [反击](Riposte_(passive_feature).md "Riposte (passive feature)")
 
 **精卫莱希姆**是一名[人类](Human.md "Human")[战士](Fighter.md "Fighter")，也是[焰拳](Flaming_Fist.md "Flaming Fist")的一员。他可以在[下城区](Lower_City.md "Lower City")的[第三幕](Act_Three.md "Act Three")期间找到。
 
@@ -47,7 +75,7 @@
 
 ### 攻击与能力
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 伤害：6~9
 
@@ -71,7 +99,7 @@
 
 充能：每回合
 
-[投掷](Throw.md "Throw") () – [标枪](Javelin.md "Javelin")
+[投掷](Throw.md "Throw") – [标枪](Javelin.md "Javelin")
 
 伤害：6~11
 

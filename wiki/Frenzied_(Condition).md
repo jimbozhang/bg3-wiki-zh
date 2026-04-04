@@ -22,10 +22,10 @@
 
 ## 赋予
 
-[结束狂暴](End_Rage.md "End Rage") ()
+[结束狂暴](End_Rage.md "End Rage")
 使用附赠动作结束你的狂暴。
 
-[即兴近战武器](Improvised_Melee_Weapon_(Bonus_Action).md "Improvised Melee Weapon (Bonus Action)") ()
+[即兴近战武器](Improvised_Melee_Weapon_(Bonus_Action).md "Improvised Melee Weapon (Bonus Action)")
 拾取一个物品或生物，并用其进行近战攻击。
 
 ## 狂乱的来源

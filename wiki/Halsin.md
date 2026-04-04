@@ -2,13 +2,45 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Dave Jones](https://www.imdb.com/name/nm10439801/) |
+| 全名 | 哈尔辛 |
+| 性别 | 男性 |
+| 声音 / 演员 | [Dave Jones](https://www.imdb.com/name/nm10439801/) |
+| 角色 | [随从](Attached_Follower.md "随从") |
+| 家乡 | [翠绿林地](Emerald_Grove.md "翠绿林地") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [精灵](Elf.md "精灵") |
+| 亚种 | [木精灵](Wood_elf.md "木精灵") |
+| 职业 | [德鲁伊](Druid.md "德鲁伊") |
+| 副职 | [月亮结社](Circle_of_the_Moon.md "月亮结社") |
+| 背景 | [化外之民](Outlander.md "化外之民") |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 先攻 | +2 |
+| 熟练项 | +2 |
 | 移动速度 | 10.5 米 (35 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 14 / (+2) | 14 / (+2) | 8 / (-1) | 17 / (+3) | 12 / (+1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [精灵武器训练](Elven_Weapon_Training.md "精灵武器训练")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [精灵武器训练](Elven_Weapon_Training.md "精灵武器训练")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **哈尔辛**是一位可招募的[伙伴](Companion.md "伙伴"), 可被任何性别的角色[追求](Romance.md "追求"). 他是一位[精灵](Elf.md "精灵")和[月亮结社](Circle_of_the_Moon.md "月亮结社")[德鲁伊](Druid.md "德鲁伊"), 拥有[化外之民](Outlander.md "化外之民")背景. 哈尔辛可以在[第一幕](Act_One.md "第一幕")期间在[破碎圣所](Shattered_Sanctum.md "破碎圣所")首次找到, 作为[随从](Attached_Followers.md "随从")或[营地随从](Camp_Followers.md "营地随从").
 

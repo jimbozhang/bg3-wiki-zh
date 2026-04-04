@@ -27,13 +27,13 @@ UID `WPN_HUM_Warhammer_Pact` UUID `fdaf8461-4d1a-4364-8d7d-4dd9ce824a1e` ### 武
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[摔翻打击](Backbreaker.md "摔翻打击") ()
+[摔翻打击](Backbreaker.md "摔翻打击")
 在攻击中施加额外力量，可能使敌人[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[弱化打击](Weakening_Strike.md "弱化打击") ()
+[弱化打击](Weakening_Strike.md "弱化打击")
 以非致命攻击瞄准敌人的手部，可能施加[弱腕](Weak_Grip_(Condition).md "弱腕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 状态：魔契武器

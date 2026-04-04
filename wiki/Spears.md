@@ -31,7 +31,7 @@
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能使其[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 短矛列表
@@ -52,8 +52,8 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 | [地狱短矛](Infernal_Spear.md "地狱短矛") | +1 | 1d6 + 1 / 3 | 穿刺 / 中毒 | 1.35 千克 / 2.7 磅 | 190 | [地狱武器](Infernal_Weapon.md "地狱武器")命中时，此武器额外造成 3⁠⁠[中毒](Poison.md "中毒")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒（状态）")。 |
 | [短矛 +2](Spear_+2.md "短矛 +2") | +2 | 1d6 + 2 | 穿刺 | 1.35 千克 / 2.7 磅 | 95 |  |
 | [暗夜之矛](Spear_of_Night.md "暗夜之矛") | +1 | 1d6 + 1 | 穿刺 | 1.35 千克 / 2.7 磅 | 190 | [莎尔的祝福](Shar's_Blessing_(Spear_of_Night).md "莎尔的祝福（暗夜之矛）")如果莎尔允许，使用此矛杀死暗夜之歌。 |
-| [塞伦涅的暗夜短矛](Selûne's_Spear_of_Night.md "塞伦涅的暗夜短矛") | +3 | 1d6 + 3 | 穿刺 | 1.35 千克 / 2.7 磅 | 640 | [塞伦涅的祝福](Selûne's_Blessing_(passive_feature).md "塞伦涅的祝福（被动特性）")您在[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")和[察觉技能](Perception.md "察觉技能")检定上获得[优势](Advantage.md "优势")。[高级黑暗视觉](Darkvision.md "高级黑暗视觉")能在黑暗中看到 12 米（40 英尺）内的事物。[月华之光](Moonbeam.md "月华之光") () 施放为 3 级法术（充能：[长休](Long_Rest.md "长休")。）[月之尘埃](Moonmote.md "月之尘埃") () 施放为戏法（充能：[长休](Long_Rest.md "长休")。） |
-| [莎尔的黄昏短矛](Shar's_Spear_of_Evening.md "莎尔的黄昏短矛") | +3 | 1d6 + 3 | 穿刺 | 2.7 千克 / 5.4 磅 | 640 | [莎尔的祝福](Shar's_Blessing.md "莎尔的祝福")当处于轻度或重度[遮蔽](Obscured.md "遮蔽")状态时，您在[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。此武器对处于轻度或重度遮蔽状态的生物额外造成 1d6 伤害。[目盲免疫](Blind_Immunity.md "目盲免疫")穿戴者不会被[目盲](Blinded_(Condition).md "目盲（状态）")。[莎尔的黑暗](Shar's_Darkness.md "莎尔的黑暗") () 施放为 2 级法术（充能：每回合。）[黑暗之刃](Edge_of_Darkness.md "黑暗之刃") () 在攻击时创造一团黑暗云。[[见注释](Edge_of_Darkness#Notes.md#Notes "黑暗之刃")]（充能：[短休](Short_rest.md "短休")。） |
+| [塞伦涅的暗夜短矛](Selûne's_Spear_of_Night.md "塞伦涅的暗夜短矛") | +3 | 1d6 + 3 | 穿刺 | 1.35 千克 / 2.7 磅 | 640 | [塞伦涅的祝福](Selûne's_Blessing_(passive_feature).md "塞伦涅的祝福（被动特性）")您在[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")和[察觉技能](Perception.md "察觉技能")检定上获得[优势](Advantage.md "优势")。[高级黑暗视觉](Darkvision.md "高级黑暗视觉")能在黑暗中看到 12 米（40 英尺）内的事物。[月华之光](Moonbeam.md "月华之光") 施放为 3 级法术（充能：[长休](Long_Rest.md "长休")。）[月之尘埃](Moonmote.md "月之尘埃") 施放为戏法（充能：[长休](Long_Rest.md "长休")。） |
+| [莎尔的黄昏短矛](Shar's_Spear_of_Evening.md "莎尔的黄昏短矛") | +3 | 1d6 + 3 | 穿刺 | 2.7 千克 / 5.4 磅 | 640 | [莎尔的祝福](Shar's_Blessing.md "莎尔的祝福")当处于轻度或重度[遮蔽](Obscured.md "遮蔽")状态时，您在[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。此武器对处于轻度或重度遮蔽状态的生物额外造成 1d6 伤害。[目盲免疫](Blind_Immunity.md "目盲免疫")穿戴者不会被[目盲](Blinded_(Condition).md "目盲（状态）")。[莎尔的黑暗](Shar's_Darkness.md "莎尔的黑暗") 施放为 2 级法术（充能：每回合。）[黑暗之刃](Edge_of_Darkness.md "黑暗之刃") 在攻击时创造一团黑暗云。[[见注释](Edge_of_Darkness#Notes.md#Notes "黑暗之刃")]（充能：[短休](Short_rest.md "短休")。） |
 
 ## 旧版内容
 

@@ -3,16 +3,48 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [弗雷泽·布莱克斯兰](https://www.imdb.com/name/nm7257504/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [弗雷泽·布莱克斯兰](https://www.imdb.com/name/nm7257504/) |
+| 体型 | [中型](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 8 |
-| 生命值 | 62 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 250 |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "Gold Dwarf") |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 62 | 58 | 65 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [方阵队形](Phalanx_Formation.md "Phalanx Formation")
+- [反击](Riposte_(passive_feature).md "Riposte (passive feature)")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [方阵队形](Phalanx_Formation.md "Phalanx Formation")
+- [反击](Riposte_(passive_feature).md "Riposte (passive feature)")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -69,7 +101,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") () – [长戟](Halberd.md "Halberd")
+[劈砍](Cleave.md "Cleave") – [长戟](Halberd.md "Halberd")
 
 伤害：
 
@@ -79,7 +111,7 @@
 
 充能：[短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [长戟](Halberd.md "Halberd")
+[割裂](Lacerate.md "Lacerate") – [长戟](Halberd.md "Halberd")
 
 伤害：6~15
 
@@ -93,7 +125,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长戟](Halberd.md "Halberd")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长戟](Halberd.md "Halberd")
 
 伤害：6~15
 
@@ -103,7 +135,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [标枪](Javelin.md "Javelin")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [标枪](Javelin.md "Javelin")
 
 伤害：6~11
 
@@ -117,7 +149,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [长戟](Halberd.md "Halberd")
+[突进攻击](Rush_Attack.md "Rush Attack") – [长戟](Halberd.md "Halberd")
 
 伤害：6~9
 

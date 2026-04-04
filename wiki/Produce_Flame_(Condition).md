@@ -10,10 +10,10 @@
 
 ## 赋予
 
-[燃火术：投掷](Produce_Flame_colon__Hurl.md "燃火术：投掷") ()
+[燃火术：投掷](Produce_Flame_colon__Hurl.md "燃火术：投掷")
 将手中召唤的火焰投向目标并使其嘶嘶熄灭。
 
-[燃火术：熄灭](Produce_Flame_colon__Dismiss.md "燃火术：熄灭") ()
+[燃火术：熄灭](Produce_Flame_colon__Dismiss.md "燃火术：熄灭")
 熄灭手中召唤的火焰。
 
 ## 燃火术的来源

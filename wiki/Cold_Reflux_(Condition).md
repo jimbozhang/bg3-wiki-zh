@@ -14,7 +14,7 @@
 
 ## 赋予
 
-[寒冰回流](Icy_Regurgitation.md "寒冰回流") ()
+[寒冰回流](Icy_Regurgitation.md "寒冰回流")
 啜饮酿酒师的特制烈酒会让他呕吐出冰块，可以[冻僵](Chilled_(Condition).md "冻僵 (状态)")击中的目标。（充能：每回合。）
 
 ## 寒冰回流的来源

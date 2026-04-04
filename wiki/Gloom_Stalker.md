@@ -16,7 +16,7 @@
 
 你获得以下法术。它处于[总是准备](Spells.md#Known_Spells "法术")状态：
 
-- [伪装术](Disguise_Self.md "伪装术") [暗影幔](Umbral_Shroud.md "暗影幔") ()
+- [伪装术](Disguise_Self.md "伪装术") [暗影幔](Umbral_Shroud.md "暗影幔")
 用阴影包裹自己，如果被遮蔽则变为[隐形](Umbral_Shroud_(Condition).md "暗影幔（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
@@ -29,7 +29,7 @@
 在每场战斗的第一回合，以一次额外的迅捷而精准的攻击伏击目标。（充能：每场战斗。）
 [惧怖伏兵（远程）](Dread_Ambusher_(Ranged).md "惧怖伏兵（远程）")
 在每场战斗的第一回合，以一次额外的迅捷而精准的攻击伏击目标。（充能：每场战斗。）
-[惧怖伏兵：躲藏](Dread_Ambusher_colon__Hide.md "惧怖伏兵：躲藏") ()
+[惧怖伏兵：躲藏](Dread_Ambusher_colon__Hide.md "惧怖伏兵：躲藏")
 通过成功通过[隐匿](Stealth.md "隐匿")来躲避敌人。紧贴黑暗并避开敌人的视线。攻击或施法会暴露你的位置。
 
 ### 等级 5

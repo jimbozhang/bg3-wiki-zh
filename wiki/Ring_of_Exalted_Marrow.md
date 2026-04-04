@@ -14,10 +14,10 @@
 
 佩戴此物品获得：
 
-[劝诫复生者](Exhort_the_Risen.md "Exhort the Risen") ()
+[劝诫复生者](Exhort_the_Risen.md "Exhort the Risen")
 作为1级法术施放（充能：[长休](Long_Rest.md "Long rest")。）
 
-[残暴之触](Ghoulish_Touch.md "Ghoulish Touch") ()
+[残暴之触](Ghoulish_Touch.md "Ghoulish Touch")
 作为1级法术施放（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点

@@ -14,7 +14,7 @@
 
 ## 赋予
 
-[毒液回流](Venomous_Regurgitation.md "毒液回流") ()
+[毒液回流](Venomous_Regurgitation.md "毒液回流")
 啜饮酿酒师的特制烈酒会使他呕吐出一种有毒液体，可使被击中的目标 [中毒](Poisoned_(Condition).md "中毒 (状态)")。（充能：每回合。）
 
 ## 毒液回流的来源

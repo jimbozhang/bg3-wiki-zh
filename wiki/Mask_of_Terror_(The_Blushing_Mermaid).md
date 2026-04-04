@@ -71,7 +71,7 @@
 
 ### 攻击与能力
 
-[恐惧诅咒](Curse_of_Terror.md "恐惧诅咒") ()
+[恐惧诅咒](Curse_of_Terror.md "恐惧诅咒")
 
 伤害: 3~9
 

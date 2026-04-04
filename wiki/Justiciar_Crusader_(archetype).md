@@ -5,11 +5,40 @@
 | 体型 | 中级 |
 | 类型 | 类人生物 |
 | 种族 | [高精灵](High_Elf.md "高精灵") |
-| 等级 | 7 |
-| 生命值 | 150 |
-| 护甲等级 | 14 |
-| 先攻 | +2 |
-| 经验值 | 280 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 150 | 105 | 195 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 经验值 | 280 | 280 | 280 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 13 / (+1) | 12 / (+1) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
+- [黑暗复仇](Dark_Vengeance.md "黑暗复仇")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
+
+**特性**
+
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
+- [黑暗复仇](Dark_Vengeance.md "黑暗复仇")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
 
 ## 目录
 
@@ -29,7 +58,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨剑](Greatsword.md "巨剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨剑](Greatsword.md "巨剑")
 
 伤害: 6~16
 
@@ -39,7 +68,7 @@
 
 近战: 1.5 m (5 ft)
 
-[吸取生命](Life_Drain.md "吸取生命") ()
+[吸取生命](Life_Drain.md "吸取生命")
 
 伤害: 4~18
 
@@ -49,7 +78,7 @@
 
 近战: 1.5 m (5 ft)
 
-[极致悲痛](Overwhelming_Grief.md "极致悲痛") ()
+[极致悲痛](Overwhelming_Grief.md "极致悲痛")
 
 伤害: 2~12
 
@@ -62,7 +91,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围: 6 m (20 ft)
 
-[归入阴影](Subsume_Shadow.md "归入阴影") ()
+[归入阴影](Subsume_Shadow.md "归入阴影")
 审判十字军进入其[阴影形态](Umbral_Form_(Condition).md "阴影形态（状态）")。
 
 范围: 自身

@@ -3,7 +3,7 @@
 | 物品 | 附魔 | 伤害 | 伤害/类型 | 重量 | 价格 | 特殊效果 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [手动吸血器](Artificial_Leech.md "手动吸血器") |  | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 16 |  |
-| [火矮人战锤](Azer_Warhammer.md "火矮人战锤") |  | 1d8 / 1d6 | 钝击 / 火焰 | 2.7 kg / 5.4 lb | 0 | [过热](Overheat.md "过热") () 释放一部分你内在的火焰。所有附近的生物受到伤害并开始[灼烧](Burning_Fiercely_(Condition).md "灼烧")。 |
+| [火矮人战锤](Azer_Warhammer.md "火矮人战锤") |  | 1d8 / 1d6 | 钝击 / 火焰 | 2.7 kg / 5.4 lb | 0 | [过热](Overheat.md "过热") 释放一部分你内在的火焰。所有附近的生物受到伤害并开始[灼烧](Burning_Fiercely_(Condition).md "灼烧")。 |
 | [久战剑](Battle-Worn_Blade.md "久战剑") |  | 1d8 | 挥砍 | 1.35 kg / 2.7 lb | 40 |  |
 | [战斧](Battleaxe.md "战斧") |  | 1d8 | 挥砍 | 1.8 kg / 3.6 lb | 50 |  |
 | [骨锯](Bonesaw.md "骨锯") |  | 1d8 | 挥砍 | 1.35 kg / 2.7 lb | 40 |  |
@@ -19,7 +19,7 @@
 | [迷醉紫火把](Drunk-Purple_Torch.md "迷醉紫火把") |  | 1d4 / 1d4 | 钝击 / 火焰 | 0.9 kg / 1.8 lb | 10 |  |
 | [伪暗夜之矛](False_Spear_of_the_Night.md "伪暗夜之矛") |  | 1d6 | 穿刺 | 1.35 kg / 2.7 lb | 2 |  |
 | [米尔寇链枷](Flail_of_Myrkul.md "米尔寇链枷") |  | 1d8 | 钝击 | 0.9 kg / 1.8 lb | 50 |  |
-| [旋涡链枷](Flail_of_the_Vortex.md "旋涡链枷") | +3 | 1d8 + 3 / 1d8 | 钝击 / 闪电 | 0.9 kg / 1.8 lb | 50 | [电气猛击](Electrified_Flail.md "电气猛击") () 用你充满闪电的链枷猛击敌人并[震慑](Stunned_(Condition).md "震慑")他们。 |
+| [旋涡链枷](Flail_of_the_Vortex.md "旋涡链枷") | +3 | 1d8 + 3 / 1d8 | 钝击 / 闪电 | 0.9 kg / 1.8 lb | 50 | [电气猛击](Electrified_Flail.md "电气猛击") 用你充满闪电的链枷猛击敌人并[震慑](Stunned_(Condition).md "震慑")他们。 |
 | [火焰刀 (武器)](Flame_Blade_(weapon).md "火焰刀 (武器)") |  | 3d6 | 火焰 | 0.5 kg / 1 lb | 30 |  |
 | [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑") |  | 1d8 | 挥砍 | 1.35 kg / 2.7 lb | 40 |  |
 | [吉斯洋基短剑](Githyanki_Shortsword.md "吉斯洋基短剑") |  | 1d6 | 穿刺 | 0.9 kg / 1.8 lb | 16 |  |
@@ -78,12 +78,12 @@
 | [手术刀](Scalpel.md "手术刀") |  | 1d4 | 穿刺 | 0.45 kg / 0.9 lb | 16 |  |
 | [弯刀 (莎尔信徒)](Scimitar_(Sharran).md "弯刀 (莎尔信徒)") |  | 1d8 | 挥砍 | 1.35 kg / 2.7 lb | 30 |  |
 | [弯刀 (阿卡比)](Scimitar_(Akabi).md "弯刀 (阿卡比)") |  | 1d6 | 挥砍 | 1.35 kg / 2.7 lb | 30 |  |
-| [灰烬弯刀](Scimitar_of_Cinder.md "灰烬弯刀") | +3 | 1d6 + 3 / 1d6 | 挥砍 / 火焰 | 1.2 kg / 2.4 lb | 30 | [炽热打击](Scorching_Strike.md "炽热打击") () 用炽热的一击猛击，并可能使目标[燃烧](Burning_(Condition).md "燃烧")。 |
+| [灰烬弯刀](Scimitar_of_Cinder.md "灰烬弯刀") | +3 | 1d6 + 3 / 1d6 | 挥砍 / 火焰 | 1.2 kg / 2.4 lb | 30 | [炽热打击](Scorching_Strike.md "炽热打击") 用炽热的一击猛击，并可能使目标[燃烧](Burning_(Condition).md "燃烧")。 |
 | [短剑](Shortsword.md "短剑") |  | 1d6 | 穿刺 | 0.9 kg / 1.8 lb | 16 |  |
 | [手术针管](Syringe.md "手术针管") |  | 1d4 | 穿刺 | 0.45 kg / 0.9 lb | 16 |  |
 | [火把](Torch.md "火把") |  | 1d4 / 1d4 | 钝击 / 火焰 | 0.9 kg / 1.8 lb | 10 |  |
 | [手术圆锯](Trepan.md "手术圆锯") |  | 1d6 | 穿刺 | 0.9 kg / 1.8 lb | 16 |  |
-| [深海三叉戟](Trident_of_the_Depths.md "深海三叉戟") | +3 | 1d6 + 3 / 1d6 | 穿刺 / 寒冷 | 1.6 kg / 3.2 lb | 40 | [寒冬打击](Hiemal_Strike.md "寒冬打击") () 用你覆霜的三叉戟刺穿生物并使其[冻僵](Chilled_(Condition).md "冻僵")。 |
+| [深海三叉戟](Trident_of_the_Depths.md "深海三叉戟") | +3 | 1d6 + 3 / 1d6 | 穿刺 / 寒冷 | 1.6 kg / 3.2 lb | 40 | [寒冬打击](Hiemal_Strike.md "寒冬打击") 用你覆霜的三叉戟刺穿生物并使其[冻僵](Chilled_(Condition).md "冻僵")。 |
 | [扭曲的橡木](Twisted_Oak_Crook.md "扭曲的橡木") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 10 |  |
 | [扭曲的树枝](Twisting_Branch.md "扭曲的树枝") |  | 1d4 | 钝击 | 0.9 kg / 1.8 lb | 10 |  |
 | [战镐](War_Pick.md "战镐") |  | 1d8 | 穿刺 | 0.9 kg / 1.8 lb | 50 |  |

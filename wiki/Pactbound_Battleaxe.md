@@ -27,13 +27,13 @@ UID `WPN_HUM_Battleaxe_Pact` UUID `407954e3-71e4-4611-9221-0ba3ea71d6e8` ### 武
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击 3 个敌人。每个敌人受到武器通常伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足（状态）")。目标无法移动。（充能：[短休](Short_rest.md "短休")。）
 
 ## 状态：魔契武器

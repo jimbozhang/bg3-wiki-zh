@@ -3,15 +3,49 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [John O'Mahony](https://www.imdb.com/name/nm1372889/) |
+| 声音 / 演员 | [John O'Mahony](https://www.imdb.com/name/nm1372889/) |
 | 体型 | [中级](Medium.md "中级") / [大型](Large.md "大型") (硬核) |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
-| 等级 | 7 |
-| 生命值 | 62 |
-| 护甲等级 | 12 |
-| 先攻 | +2 |
-| 经验值 | 110 |
+| 亚种 | [灰矮人](Duergar.md "灰矮人") |
+| 职业 | [法师](Wizard.md "法师") |
+| 副职 | [死灵学派](Necromancy_School.md "死灵学派") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 62 | 43 | 80 |
+| 护甲等级 | 12 | 12 | 15 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 205 千克 (410 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 110 | 110 | 110 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 14 / (+2) | 15 / (+2) | 18 / (+4) | 9 / (-1) | 15 / (+2) |
+
+**特性**
+
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [害虫灾祸](Scourge_of_Pests.md "害虫灾祸")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
+
+**特性**
+
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [惧怖收割](Grim_Harvest.md "惧怖收割")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [害虫灾祸](Scourge_of_Pests.md "害虫灾祸")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -114,7 +148,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[劈砍](Cleave.md "劈砍") () – [剿灭者之斧](Exterminator's_Axe.md "剿灭者之斧")
+[劈砍](Cleave.md "劈砍") – [剿灭者之斧](Exterminator's_Axe.md "剿灭者之斧")
 
 伤害：
 
@@ -132,7 +166,7 @@
 
 此法术可在你 [沉默](Silenced_(Condition).md "沉默 (状态)") 时施放。
 
-[巨化](Enlarge_(Duergar).md "巨化 (灰矮人)") ()
+[巨化](Enlarge_(Duergar).md "巨化 (灰矮人)")
 
 体型变大，变得更强壮
 
@@ -141,13 +175,13 @@
 范围：自身
 充能：[长休](Long_Rest.md "长休")
 
-[灰矮人隐形](Invisibility_(Duergar).md "隐形 (灰矮人)") ()
+[灰矮人隐形](Invisibility_(Duergar).md "隐形 (灰矮人)")
 变得隐形。
 
 范围：自身
 充能：每场战斗一次
 
-[割裂](Lacerate.md "割裂") () – [剿灭者之斧](Exterminator's_Axe.md "剿灭者之斧")
+[割裂](Lacerate.md "割裂") – [剿灭者之斧](Exterminator's_Axe.md "剿灭者之斧")
 
 伤害：4~15
 
@@ -161,7 +195,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [剿灭者之斧](Exterminator's_Axe.md "剿灭者之斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [剿灭者之斧](Exterminator's_Axe.md "剿灭者之斧")
 
 伤害：4~15
 
@@ -171,7 +205,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[准备](Prepare.md "准备") () – [剿灭者之斧](Exterminator's_Axe.md "剿灭者之斧")
+[准备](Prepare.md "准备") – [剿灭者之斧](Exterminator's_Axe.md "剿灭者之斧")
 消耗 6 米 (20 英尺) 的 [移动速度](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击造成额外的力量调整值⁠⁠[物理](Physical.md "物理")[伤害来源](Damage_rider_as_source.md "伤害来源") 伤害（最少 1 点）。
 
 范围：自身

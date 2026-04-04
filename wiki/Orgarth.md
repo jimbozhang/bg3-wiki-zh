@@ -105,7 +105,7 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [国王匕首](King's_Knife.md "国王匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [国王匕首](King's_Knife.md "国王匕首")
 
 伤害：5~12
 
@@ -115,7 +115,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[割裂](Lacerate.md "割裂") () – [国王匕首](King's_Knife.md "国王匕首")
+[割裂](Lacerate.md "割裂") – [国王匕首](King's_Knife.md "国王匕首")
 
 伤害：5~12
 
@@ -142,7 +142,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [国王匕首](King's_Knife.md "国王匕首")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [国王匕首](King's_Knife.md "国王匕首")
 
 伤害：1~4
 
@@ -154,7 +154,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [国王匕首](King's_Knife.md "国王匕首")
+[突进攻击](Rush_Attack.md "突进攻击") – [国王匕首](King's_Knife.md "国王匕首")
 
 伤害：5~8
 
@@ -166,7 +166,7 @@
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[投掷](Throw.md "投掷") () – [标枪](Javelin.md "标枪")
+[投掷](Throw.md "投掷") – [标枪](Javelin.md "标枪")
 
 伤害：5~10
 
@@ -180,7 +180,7 @@
 
 范围：3-18 米 (10-60 英尺)
 
-[投掷](Throw.md "投掷") () – [烟粉炸弹](Smokepowder_Bomb.md "烟粉炸弹")
+[投掷](Throw.md "投掷") – [烟粉炸弹](Smokepowder_Bomb.md "烟粉炸弹")
 
 伤害：
 
@@ -196,7 +196,7 @@
 
 ### 仅限硬核
 
-[推击](Shove.md "推击") ()
+[推击](Shove.md "推击")
 
 尝试推开你的目标。你的成功率取决于你的[运动](Athletics.md "运动")，如果你处于隐藏或隐形状态则更高。
 

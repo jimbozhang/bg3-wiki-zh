@@ -45,13 +45,13 @@
 
 解除你的杀戮者形态并变回原始形态。
 
-[杀戮开始](Let_the_Slaughter_Begin.md "杀戮开始") ()
+[杀戮开始](Let_the_Slaughter_Begin.md "杀戮开始")
 在附近生物身上烙下邪恶印记，使它们的死亡让你更难被杀死。
 
-[多重攻击](Multiattack_(Slayer).md "多重攻击 (杀戮者)") ()
+[多重攻击](Multiattack_(Slayer).md "多重攻击 (杀戮者)")
 用你的爪子猛烈攻击，将敌人撕成尖叫的碎片。（充能：每回合。）
 
-[穿刺咆哮](Piercing_Growl.md "穿刺咆哮") ()
+[穿刺咆哮](Piercing_Growl.md "穿刺咆哮")
 凶猛的嚎叫从你的内脏中升起，伤害附近的敌人，可能造成[流血](Bleeding_(Condition).md "流血 (状态)")和[恐惧](Fearful_(Condition).md "恐惧 (状态)")。
 
 [无情猛扑](Relentless_Lunge.md "无情猛扑") (+ )
@@ -59,7 +59,7 @@
 
 用你恶意的爪子划过目标的身体。
 
-[血浴盛宴](Sumptuous_Blood_Bath.md "血浴盛宴") ()
+[血浴盛宴](Sumptuous_Blood_Bath.md "血浴盛宴")
 劈开敌人的关键动脉。他们开始[流血](Bleeding_(Condition).md "流血 (状态)")，随之而来的喷涌会持续治疗你的伤口。
 
 [杀戮者的额外攻击](Slayer's_Extra_Attack.md "杀戮者的额外攻击")

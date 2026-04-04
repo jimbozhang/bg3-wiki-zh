@@ -17,7 +17,7 @@
 
 佩戴此物品获得：
 
-[目盲](Colour_Spray.md "Colour Spray") ()
+[目盲](Colour_Spray.md "Colour Spray")
 作为1级法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

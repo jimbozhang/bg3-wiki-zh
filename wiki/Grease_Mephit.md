@@ -5,11 +5,33 @@
 | 体型 | [微型](Tiny.md "Tiny") |
 | 类型 | [元素生物](Elemental.md "Elemental") |
 | 种族 | [魔蝠](Mephit.md "Mephit") |
-| 等级 | 4 |
-| 生命值 | 14 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 14 | 9 | 23 |
+| 护甲等级 | 11 | 11 | 14 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +2 | +4 | +2 |
+| 施法DC | 11 (敏捷) | 13 (敏捷) | 13 (敏捷) |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 4 千克 (8 磅) | 4 千克 (8 磅) | 4 千克 (8 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 12 / (+1) | 12 / (+1) | 9 / (-1) | 11 / (0) | 7 / (-2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [死亡爆裂：力场](Death_Burst_colon__Force.md "Death Burst: Force")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [死亡爆裂：力场](Death_Burst_colon__Force.md "Death Burst: Force")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -35,7 +57,7 @@
 
 ### 攻击与能力
 
-[投掷油脂](Hurl_Grease.md "投掷油脂") ()
+[投掷油脂](Hurl_Grease.md "投掷油脂")
 
 伤害: 2~5
 
@@ -45,13 +67,13 @@
 
 射程: 14 米 (47 英尺)
 
-[分泌油脂](Greasy_Discharge.md "分泌油脂") ()
+[分泌油脂](Greasy_Discharge.md "分泌油脂")
 向目标喷吐可燃油脂，使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 充能: 每回合
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞向目标位置
 
 射程: 18 米 (60 英尺)

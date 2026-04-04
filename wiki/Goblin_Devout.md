@@ -57,7 +57,7 @@
 
 射程：9 米 (30 英尺)
 
-[震荡猛击](Concussive_Smash.md "Concussive_Smash") () – [粗制硬头锤](Crude_Mace.md "Crude_Mace")
+[震荡猛击](Concussive_Smash.md "Concussive_Smash") – [粗制硬头锤](Crude_Mace.md "Crude_Mace")
 
 伤害：0~5
 
@@ -79,7 +79,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main_Hand_Attack") () – [粗制硬头锤](Crude_Mace.md "Crude_Mace")
+[主手攻击](Main_Hand_Attack.md "Main_Hand_Attack") – [粗制硬头锤](Crude_Mace.md "Crude_Mace")
 
 伤害：0~5
 
@@ -89,7 +89,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[圣火术](Sacred_Flame.md "Sacred_Flame") ()
+[圣火术](Sacred_Flame.md "Sacred_Flame")
 
 伤害：1~8
 

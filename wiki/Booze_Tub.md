@@ -4,12 +4,6 @@
 
 - 平衡
 
-## 平衡难度属性
-
-### 生命值
-
-10
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - **酒缸**是[地精营地](Goblin_Camp.md "Goblin Camp")中的一个环境物品，地精们在此储存他们的酒。"

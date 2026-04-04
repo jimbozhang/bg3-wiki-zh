@@ -30,7 +30,7 @@
 | 护甲等级 | 13 |  |  |  |  |
 | 移动速度 | 0 米 (0 英尺) |  |  |  |  |
 
-[抓钩拉扯](Grasping_Pull.md "Grasping Pull") ()
+[抓钩拉扯](Grasping_Pull.md "Grasping Pull")
 抓住一个目标并将其拉向你 9 米 / 30 英尺。（充能：每驱散。）
 
 ## 区域：扭曲的藤蔓

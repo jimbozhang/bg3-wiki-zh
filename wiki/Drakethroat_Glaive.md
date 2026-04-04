@@ -24,7 +24,7 @@ UID `MAG_BG_DragonsBreath_Glaive` UUID `89f511d6-6d36-4480-9ee8-6e0145c960ef` St
 
 **持有此物品者获得：**
 
-[龙族元素武器](Draconic_Elemental_Weapon.md "龙族元素武器") ()
+[龙族元素武器](Draconic_Elemental_Weapon.md "龙族元素武器")
 施放为3级法术（充能：[长休](Long_Rest.md "长休")。）
 
 [恶龙吐息](Vicious_Dragon_Breath.md "恶龙吐息")
@@ -34,13 +34,13 @@ UID `MAG_BG_DragonsBreath_Glaive` UUID `89f511d6-6d36-4480-9ee8-6e0145c960ef` St
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其击至[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击3个敌人。每个敌人受到你的武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

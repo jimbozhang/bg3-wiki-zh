@@ -3,15 +3,42 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
+| 声音 / 演员 | [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
-| 等级 | 5 |
-| 生命值 | 73 |
-| 护甲等级 | 17 |
-| 先攻 | +3 |
-| 经验值 | 75 |
+| 职业 | [战士](Fighter.md "战士") |
+| 副职 | [战斗大师](Battle_Master.md "战斗大师") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 73 | 51 | 94 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 17 / (+3) | 14 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+
+**特性**
+
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **训练官凯斯克**是[第一幕](Act_One.md "第一幕")期间[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")[教室](Cr%C3%A8che_Y'llek.md#Classroom "伊雷珂养育间")中的一名教官。
 
@@ -46,17 +73,17 @@
 
 ### 攻击与能力
 
-[星界步伐](Astral_Step.md "星界步伐") ()
+[星界步伐](Astral_Step.md "星界步伐")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。
 
 范围：18 米 (60 英尺)
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "移动速度")。在你的回合剩余时间内，掷两次远程伤害并使用较高的结果。
 
 充能：[短休](Short_rest.md "短休")
 
-[精神指令](Mental_Instruction.md "精神指令") ()
+[精神指令](Mental_Instruction.md "精神指令")
 
 给予你的一名学生心灵感应指令，以灵能增强他们。
 
@@ -64,13 +91,13 @@
 
 范围：18 米 (60 英尺)
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。
 
 范围：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 
 伤害：5~14
 
@@ -94,7 +121,7 @@
 
 范围：18 米 (60 英尺)
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
 
 伤害：5~14
 

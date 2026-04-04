@@ -25,7 +25,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨棒](Greatclub.md "巨棒")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨棒](Greatclub.md "巨棒")
 
 伤害: 5~12
 

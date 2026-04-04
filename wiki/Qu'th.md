@@ -5,12 +5,23 @@
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
-| 等级 | 5 |
-| 生命值 | 28 |
-| 护甲等级 | 12 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 75 |
+| 职业 | [热诚者](Ardent.md "Ardent") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 28 | 19 | 36 |
+| 护甲等级 | 12 | 12 | 12 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 14 / (+2) | 16 / (+3) | 16 / (+3) | 14 / (+2) | 10 / (0) |
 
 **热诚者库斯**是[审判官瓦尔加斯](W'wargaz.md "W'wargaz")在[第一幕](Act_One.md "Act_One")期间的随从之一。
 
@@ -42,7 +53,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "Flourish") () – [吉斯洋基短剑](Githyanki_Shortsword.md "Githyanki Shortsword")
+[华舞](Flourish.md "Flourish") – [吉斯洋基短剑](Githyanki_Shortsword.md "Githyanki Shortsword")
 
 伤害：1~4
 
@@ -54,7 +65,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [吉斯洋基短剑](Githyanki_Shortsword.md "Githyanki Shortsword")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [吉斯洋基短剑](Githyanki_Shortsword.md "Githyanki Shortsword")
 
 伤害：3~8
 
@@ -64,13 +75,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气包围，你传送到一个可见的未被占据的空间。
 
 范围：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "Long rest")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [吉斯洋基短剑](Githyanki_Shortsword.md "Githyanki Shortsword")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [吉斯洋基短剑](Githyanki_Shortsword.md "Githyanki Shortsword")
 
 伤害：3~8
 
@@ -84,7 +95,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[心灵撕裂](Psychic_Rend.md "心灵撕裂") ()
+[心灵撕裂](Psychic_Rend.md "心灵撕裂")
 
 伤害：2~16 + 调整值
 

@@ -29,13 +29,13 @@
 | 护甲等级 | 13 |  |  |  |  |
 | 移动速度 | 10 米（33 英尺） |  |  |  |  |
 
-[黑暗狂潮](Dark_Currents.md "Dark Currents") ()
+[黑暗狂潮](Dark_Currents.md "Dark Currents")
 融入地面，并从不同位置的阴影中出现。（充能：每回合。）
 
-[黯蚀爪](Necrotic_Claws_(Shadow).md "Necrotic Claws (Shadow)") ()
+[黯蚀爪](Necrotic_Claws_(Shadow).md "Necrotic Claws (Shadow)")
 用被诅咒的爪子猛击。
 
-[力量汲取](Strength_Drain.md "Strength Drain") ()
+[力量汲取](Strength_Drain.md "Strength Drain")
 抓击敌人的心脏，并可能吸取其[力量](Strength.md "Strength") 3 点。如果目标的力量降至 0，则死亡。
 
 ## 如何学习

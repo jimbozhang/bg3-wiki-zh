@@ -22,18 +22,18 @@
 
 （当角色等级为3或更低时召唤）
 
-[死亡爆裂](Death_Burst_(Mud).md "死亡爆裂（泥）") ()
+[死亡爆裂](Death_Burst_(Mud).md "死亡爆裂（泥）")
 在一团粘稠的泥巴中爆炸。泥巴会瞬间干燥在任何附近的非泥巴生物上，[束缚](Muddy_(Condition).md "泥泞（状态）")并伤害它们。
 
 飞向目标位置
 
-[泥水呼吸](Mud_Breath.md "泥水呼吸") ()
+[泥水呼吸](Mud_Breath.md "泥水呼吸")
 向敌人喷吐粘稠的泥巴以[束缚](Muddy_(Condition).md "泥泞（状态）")它。（充能：每回合。）
 
-[泥泞利爪](Muddy_Claws.md "泥泞利爪") ()
+[泥泞利爪](Muddy_Claws.md "泥泞利爪")
 用致命的拳头猛击。
 
-[扔泥巴](Mud_Fling.md "扔泥巴") ()
+[扔泥巴](Mud_Fling.md "扔泥巴")
 扔出一块泥巴。
 
 ## 生物：岩浆魔蝠
@@ -47,13 +47,13 @@
 
 （当角色等级高于3时召唤）
 
-[燃烧爪](Burning_Claws.md "燃烧爪") ()
+[燃烧爪](Burning_Claws.md "燃烧爪")
 用燃烧的爪子猛击，造成1d4[火焰](Fire.md "火焰")伤害。
 
 [死亡爆裂](Death_Burst_(Fire).md "死亡爆裂（火焰）")
 在一团火焰中爆炸。
 
-[火焰吐息](Fire_Breath_(Magma_Mephit).md "火焰吐息（岩浆魔蝠）") ()
+[火焰吐息](Fire_Breath_(Magma_Mephit).md "火焰吐息（岩浆魔蝠）")
 呼出一锥形火焰。（充能：每回合。）
 
 飞向目标位置

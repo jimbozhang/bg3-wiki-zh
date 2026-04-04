@@ -54,7 +54,7 @@
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "Backbreaker") () – [战锤](Warhammer.md "Warhammer")
+[摔翻打击](Backbreaker.md "Backbreaker") – [战锤](Warhammer.md "Warhammer")
 
 伤害：4~7
 
@@ -66,7 +66,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [战锤](Warhammer.md "Warhammer")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [战锤](Warhammer.md "Warhammer")
 
 伤害：4~11
 
@@ -86,7 +86,7 @@
 
 范围：自身
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [战锤](Warhammer.md "Warhammer")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [战锤](Warhammer.md "Warhammer")
 
 伤害：4~11
 
@@ -96,7 +96,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[鲁莽攻击](Reckless_Attack.md "Reckless Attack") () – [战锤](Warhammer.md "Warhammer")
+[鲁莽攻击](Reckless_Attack.md "Reckless Attack") – [战锤](Warhammer.md "Warhammer")
 
 伤害：4~11
 
@@ -108,7 +108,7 @@
 
 范围：正常武器范围
 
-[投掷](Throw.md "Throw") () – [标枪](Javelin.md "Javelin")
+[投掷](Throw.md "Throw") – [标枪](Javelin.md "Javelin")
 
 伤害：4~9
 
@@ -122,7 +122,7 @@
 
 范围：3-18 米 (10-60 英尺)
 
-[弱化打击](Weakening_Strike.md "Weakening_Strike") () – [战锤](Warhammer.md "Warhammer")
+[弱化打击](Weakening_Strike.md "Weakening_Strike") – [战锤](Warhammer.md "Warhammer")
 
 伤害：4~7
 

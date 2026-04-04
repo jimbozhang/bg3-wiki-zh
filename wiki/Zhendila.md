@@ -19,7 +19,7 @@
 
 ### 攻击与能力
 
-[星界步伐](Astral_Step.md "星界步伐") ()
+[星界步伐](Astral_Step.md "星界步伐")
 银色雾气环绕，你传送至一个可见的未占用空间。
 
 范围：18 米 (60 英尺)
@@ -47,7 +47,7 @@
 [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[割裂](Lacerate.md "割裂") () – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
+[割裂](Lacerate.md "割裂") – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
 
 伤害：5~12
 
@@ -61,7 +61,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
 
 伤害：5~12
 
@@ -71,13 +71,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 银色雾气环绕，你传送至一个可见的未占用空间。
 
 范围：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
 
 伤害：1~4
 
@@ -89,7 +89,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 伤害：1~8
 
@@ -99,7 +99,7 @@
 
 范围：18 米 (60 英尺)
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
+[突进攻击](Rush_Attack.md "突进攻击") – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
 
 伤害：4~7
 
@@ -111,7 +111,7 @@
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[电爪](Shocking_Grasp.md "电爪") ()
+[电爪](Shocking_Grasp.md "电爪")
 
 伤害：1~8
 

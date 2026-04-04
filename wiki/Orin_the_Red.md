@@ -2,9 +2,18 @@
 
 | | |
 | --- | --- |
+| 全名 | 腥红奥林 |
+| 性别 | 女性 |
+| 声优 / 演员 | [Maggie Robertson](https://www.imdb.com/name/nm7047380/) |
+| 家乡 | [巴尔神殿](Temple_of_Bhaal.md "巴尔神殿") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") / ⁠[变形者](https://forgottenrealms.fandom.com/wiki/Changeling) |
+| 职业 | [游荡者](Rogue.md "游荡者") |
+| 副职 | [盗贼](Thief.md "盗贼") |
+
+| | |
+| --- | --- |
 
 Stats
 

@@ -29,13 +29,13 @@
 | 生命值 | 93 |  |  |  |  |
 | 护甲等级 | 18 |  |  |  |  |
 
-[恐惧凝视](Dreadful_Glare.md "恐惧凝视") ()
+[恐惧凝视](Dreadful_Glare.md "恐惧凝视")
 用你那不祥的凝视锁定目标，使其[恐慌](Frightened_(Condition).md "恐慌（状态）")。（充能：每回合。）
 
-[多重攻击](Multiattack_(Mummy).md "多重攻击（木乃伊）") ()
+[多重攻击](Multiattack_(Mummy).md "多重攻击（木乃伊）")
 对一个处于[恐慌](Frightened_(Condition).md "恐慌（状态）")状态的目标发动多次攻击。每次攻击造成2d6[钝击](Bludgeoning.md "钝击")和3d6[黯蚀](Necrotic.md "黯蚀")伤害。（充能：每回合。）
 
-[腐烂之拳](Rotting_Fist.md "腐烂之拳") ()
+[腐烂之拳](Rotting_Fist.md "腐烂之拳")
 将你的拳头砸向敌人，并可能使其感染[木乃伊腐毒](Mummy_Rot_(Condition).md "木乃伊腐毒（状态）")。
 
 ## 如何习得

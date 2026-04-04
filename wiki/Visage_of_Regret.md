@@ -5,12 +5,34 @@
 | 体型 | [微型](Tiny.md "Tiny") |
 | 类型 | [不死生物](Undead.md "Undead") |
 | 种族 | [阴森面容](Grim_Visage.md "Grim_Visage") |
-| 等级 | 7 |
-| 生命值 | 34 |
-| 护甲等级 | 12 |
-| 先攻 | 0 |
-| 移动速度 | 12 米 (40 英尺) |
-| 经验值 | 110 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 34 | 23 | 44 |
+| 护甲等级 | 12 | 12 | 12 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 重量 | 6 千克 (12 磅) | 6 千克 (12 磅) | 6 千克 (12 磅) |
+| 暗视 | 16 米 (53 英尺) | 16 米 (53 英尺) | 16 米 (53 英尺) |
+| 经验值 | 110 | 110 | 110 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 6 / (-2) | 10 / (0) | 8 / (-1) | 14 / (+2) | 14 / (+2) | 8 / (-1) |
+
+**特性**
+
+- [诅咒硬币](Accursed_Coins.md "Accursed Coins")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [诅咒硬币](Accursed_Coins.md "Accursed Coins")
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -61,7 +83,7 @@
 
 ### 攻击与能力
 
-[窒息哀号](Choking_Wail.md "Choking_Wail") ()
+[窒息哀号](Choking_Wail.md "Choking_Wail")
 
 伤害: 4~18
 
@@ -72,7 +94,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 充能: 每回合
 
-[死亡尖啸](Death_Shriek.md "Death_Shriek") ()
+[死亡尖啸](Death_Shriek.md "Death_Shriek")
 
 伤害: 3~9
 
@@ -82,7 +104,7 @@
 
 射程: 自身
 
-[头槌](Headbutt.md "Headbutt") ()
+[头槌](Headbutt.md "Headbutt")
 
 伤害: 0~6
 

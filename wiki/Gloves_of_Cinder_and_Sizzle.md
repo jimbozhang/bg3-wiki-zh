@@ -17,7 +17,7 @@
 
 穿戴此物品获得：
 
-[灼热射线](Scorching_Ray.md "Scorching Ray") ()
+[灼热射线](Scorching_Ray.md "Scorching Ray")
 以3环法术施放（充能：[长休](Long_Rest.md "Long rest")。）
 
 [龙焰之拳](Dragonfire_Fists.md "Dragonfire Fists")

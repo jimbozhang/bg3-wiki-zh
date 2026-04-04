@@ -25,7 +25,7 @@
 
 ### 攻击和能力
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [临时弓](Makeshift_Bow.md "临时弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [临时弓](Makeshift_Bow.md "临时弓")
 
 伤害：5~19
 

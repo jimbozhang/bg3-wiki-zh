@@ -23,7 +23,7 @@ UID `WPN_HUM_Sickle_A_0_Rusty_A` UUID `1d75dc84-b276-47b0-a0be-a5b25dfcb086` ###
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

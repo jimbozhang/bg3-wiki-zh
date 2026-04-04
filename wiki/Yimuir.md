@@ -3,15 +3,34 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Jack Maddison](https://www.imdb.com/name/nm13354855/) |
+| 声音 / 演员 | [Jack Maddison](https://www.imdb.com/name/nm13354855/) |
+| 职业 | [精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")的服务员 |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 1 |
-| 生命值 | 6 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 经验值 | 1 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 1 | 1 | 1 |
+| 生命值 | 6 | 4 | 7 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) | 0 m (0 ft) |
+| 经验值 | 1 | 1 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **Yimuir** ，或称 **服务员 Yimuir** ，是[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")的[精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")的服务员。
 

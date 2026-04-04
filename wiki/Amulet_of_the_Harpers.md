@@ -16,7 +16,7 @@
 
 - [优势](Advantage.md "Advantage")于[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")。
 
-[护盾术](Shield_(spell).md "Shield (spell)") ()
+[护盾术](Shield_(spell).md "Shield (spell)")
 作为1级法术施放（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点

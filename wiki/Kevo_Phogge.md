@@ -46,7 +46,7 @@
 
 ### 攻击与能力
 
-[召唤乌鸦杀手](Conjure_Murder_of_Crows.md "召唤乌鸦杀手") ()
+[召唤乌鸦杀手](Conjure_Murder_of_Crows.md "召唤乌鸦杀手")
 召唤一群乌鸦杀手为你而战。
 
 范围：18 米 (60 英尺)
@@ -65,7 +65,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[移动射击](Mobile_Shot.md "移动射击") () – [手弩 +1](Hand_Crossbow_+1.md "手弩 +1")
+[移动射击](Mobile_Shot.md "移动射击") – [手弩 +1](Hand_Crossbow_+1.md "手弩 +1")
 
 伤害：6~11
 
@@ -76,7 +76,7 @@
 范围：15 米 (50 英尺)
 冷却：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [手弩 +1](Hand_Crossbow_+1.md "手弩 +1")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [手弩 +1](Hand_Crossbow_+1.md "手弩 +1")
 
 伤害：7~12
 
@@ -90,7 +90,7 @@
 范围：普通武器范围
 冷却：[短休](Short_rest.md "短休")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：6~9
 
@@ -104,7 +104,7 @@
 范围：普通武器范围
 冷却：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [手弩 +1](Hand_Crossbow_+1.md "手弩 +1")
+[远程攻击](Ranged_Attack.md "远程攻击") – [手弩 +1](Hand_Crossbow_+1.md "手弩 +1")
 
 伤害：7~12
 
@@ -114,7 +114,7 @@
 
 范围：18 米 (60 英尺)
 
-[震慑凝视](Stunning_Gaze.md "震慑凝视") ()
+[震慑凝视](Stunning_Gaze.md "震慑凝视")
 以 18 米 (60 英尺) 内一个可见的生物为目标。目标必须成功通过[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将被[震慑](Stunned_(Condition).md "震慑 (状态)")直到其下一回合结束。**硬核难度：** 此动作不需要[专注](Concentration.md "专注")。
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")

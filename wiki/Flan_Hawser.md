@@ -3,15 +3,26 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [瑞秋·阿特金斯](https://www.imdb.com/name/nm1477053/) |
+| 声音 / 演员 | [瑞秋·阿特金斯](https://www.imdb.com/name/nm1477053/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 11 |
-| 生命值 | 54 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 经验值 | 250 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 54 | 37 | 70 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 16 / (+3) | 15 / (+2) | 12 / (+1) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -73,7 +84,7 @@
 | --- | --- | --- | --- | --- | --- |
 | +1 | +3 | +1 | +7 | +6 | +1 |
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")。在本回合剩余时间内，投掷两次远程伤害并取最高值。
 
 | 运动 | 体操 | 察觉 |
@@ -96,7 +107,7 @@
 
 使用装备的武器进行近战攻击。
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 刺击敌人并可能造成[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")。
 
@@ -105,7 +116,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
 
 造成常规伤害并可能造成[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")，导致攻击时造成额外伤害。
 
@@ -116,7 +127,7 @@
 
 使用装备的武器进行远程攻击。
 
-[冷冻射线](Ray_of_Frost.md "Ray of Frost") ()
+[冷冻射线](Ray_of_Frost.md "Ray of Frost")
 
 使目标的[移动速度](Movement_speed.md "Movement Speed")减少 3 米 / 10 英尺。
 

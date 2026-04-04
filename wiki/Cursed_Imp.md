@@ -45,7 +45,7 @@
 
 ### 攻击与能力
 
-[腐蚀爪](Caustic_Claws.md "腐蚀爪") ()
+[腐蚀爪](Caustic_Claws.md "腐蚀爪")
 
 伤害: 4~32
 
@@ -55,7 +55,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞向目标位置
 
 范围: 18 米 (60 英尺)
@@ -71,7 +71,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围: 18 米 (60 英尺)
 
-[钉刺](Sting_(Cursed_Imp).md "钉刺 (被诅咒的小恶魔)") ()
+[钉刺](Sting_(Cursed_Imp).md "钉刺 (被诅咒的小恶魔)")
 
 伤害: 8~31
 

@@ -3,16 +3,48 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [詹姆斯·布拉德威尔](https://www.imdb.com/name/nm10525457/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [詹姆斯·布拉德威尔](https://www.imdb.com/name/nm10525457/) |
+| 体型 | [中型](Medium.md "中型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半精灵](Half-Elf.md "半精灵") |
-| 等级 | 6 |
-| 生命值 | 62 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 90 |
+| 亚种 | [半高精灵](High_Half-Elf.md "半高精灵") |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+| 生命值 | 62 | 43 | 80 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 90 | 90 | 90 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 15 / (+2) | 14 / (+2) | 15 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
 **博尔**是一位乐观的[哈尔博](Harper.md "哈尔博")老兵<sup>[\[1\]](#cite_note-1)</sup>，在[第二幕](Act_Two.md "第二幕")期间巡逻于[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")的酒吧和卧室。
 
@@ -58,7 +90,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [战斧](Battleaxe.md "战斧")
+[劈砍](Cleave.md "劈砍") – [战斧](Battleaxe.md "战斧")
 
 伤害：
 
@@ -68,7 +100,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [战斧](Battleaxe.md "战斧")
+[割裂](Lacerate.md "割裂") – [战斧](Battleaxe.md "战斧")
 
 伤害：3~10
 
@@ -82,7 +114,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[跛足打击](Maiming_Strike.md "跛足打击") () – [战斧](Battleaxe.md "战斧")
+[跛足打击](Maiming_Strike.md "跛足打击") – [战斧](Battleaxe.md "战斧")
 
 伤害：3~6
 
@@ -96,7 +128,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [战斧](Battleaxe.md "战斧")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [战斧](Battleaxe.md "战斧")
 
 伤害：3~10
 
@@ -114,7 +146,7 @@
 
 范围：自身
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") ()
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击")
 
 伤害：
 

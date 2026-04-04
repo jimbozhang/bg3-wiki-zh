@@ -29,7 +29,7 @@ UID `MAG_SHA_SharBlessing_Spear` UUID `61f31bf6-47ec-41e1-9385-2f6c26facc87` Sta
 
 **持有此物品者获得：**
 
-[莎尔的黑暗](Shar's_Darkness.md "莎尔的黑暗") ()
+[莎尔的黑暗](Shar's_Darkness.md "莎尔的黑暗")
 施放为 2 级法术（充能：每回合。）
 
 [莎尔的祝福](Shar's_Blessing.md "莎尔的祝福")
@@ -42,17 +42,17 @@ UID `MAG_SHA_SharBlessing_Spear` UUID `61f31bf6-47ec-41e1-9385-2f6c26facc87` Sta
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足（状态）")。他们无法移动。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[黑暗之刃](Edge_of_Darkness.md "黑暗之刃") ()
+[黑暗之刃](Edge_of_Darkness.md "黑暗之刃")
 在攻击时创造一团黑暗云。_\[[见注释](Edge_of_Darkness.md#Notes "黑暗之刃")\]_（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

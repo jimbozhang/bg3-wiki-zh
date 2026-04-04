@@ -40,7 +40,7 @@
 | 生命值 | 3 |  |
 | 护甲等级 | 10 |  |
 
-[疾走](Dash.md "Dash") ()
+[疾走](Dash.md "Dash")
 本回合移动更远距离：使你的 [移动速度](Movement_speed.md "Movement Speed") 翻倍。
 
 ## 如何习得

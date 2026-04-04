@@ -35,10 +35,10 @@ UID `MAG_LC_UndeadSlayer_HeavyCrossbow` UUID `85f60e49-d868-4897-afc5-b22e965a04
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") ()
+[穿刺射击](Piercing_Shot.md "Piercing Shot")
 造成常规伤害，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")，使攻击造成额外伤害。（充能：[短休](Short_rest.md "Short rest")。）
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") ()
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "Movement Speed")。在本回合剩余时间内，掷两次远程伤害并取最高值。（充能：[短休](Short_rest.md "Short rest")。）
 
 ---

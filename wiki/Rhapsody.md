@@ -28,7 +28,7 @@ UID `UNI_Cazador_RitualDagger` UUID `c5375a2c-f03c-464b-a482-5251debbfabb` Stats
 
 当叠加3层猩红叠加时：
 
-[猩红盛宴](Scarlet_Feast.md "猩红盛宴") ()
+[猩红盛宴](Scarlet_Feast.md "猩红盛宴")
 如果你有来自[猩红叠加](Scarlet_Remittance_+3_(Condition).md "猩红叠加 +3（状态）")的+3加值，消耗它以在战斗中强化自己。（充能：[长休](Long_Rest.md "长休")。）
 
 [猩红叠加](Scarlet_Remittance.md "猩红叠加")
@@ -41,7 +41,7 @@ UID `UNI_Cazador_RitualDagger` UUID `c5375a2c-f03c-464b-a482-5251debbfabb` Stats
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

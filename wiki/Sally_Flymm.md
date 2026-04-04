@@ -3,14 +3,35 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [凯蒂·布里坦](https://www.imdb.com/name/nm1433038/) |
+| 声音 / 演员 | [凯蒂·布里坦](https://www.imdb.com/name/nm1433038/) |
+| 角色 | [商人](Traders.md "Traders") |
+| 家庭 | [恩弗·戈塔什](Enver_Gortash.md "恩弗·戈塔什") (儿子) |
+| 家乡 | [下城区](Lower_City.md "Lower City"), [博德之门](Baldur's_Gate.md "Baldur's Gate") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 1 |
-| 生命值 | 6 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 1 | 1 | 1 |
+| 生命值 | 6 | 4 | 7 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **萨利·弗莱姆**是一位[人类](Human.md "Human")，她与丈夫[德拉沃·弗莱姆](Dravo_Flymm.md "Dravo Flymm")共同经营[弗莱姆皮匠](Flymm's_Cobblers.md "Flymm's Cobblers")。她也是[恩弗·戈塔什](Enver_Gortash.md "Enver Gortash")的母亲。萨利和德拉沃可以进行交易，出售少量[营地鞋](Camp_Shoes.md "Camp Shoes")。
 

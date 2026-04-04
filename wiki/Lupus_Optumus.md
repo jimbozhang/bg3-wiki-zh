@@ -16,7 +16,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Wolf).md "啃咬（狼）") ()
+[啃咬](Bite_(Wolf).md "啃咬（狼）")
 
 伤害：6~12
 
@@ -26,12 +26,12 @@
 
 近战：1.5 米 (5 英尺)
 
-[疾走](Dash_(bonus_action).md "疾走（附赠动作）") ()
+[疾走](Dash_(bonus_action).md "疾走（附赠动作）")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
 范围：自身
 
-[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作") ()
+[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作")
 安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。
 
 范围：自身
@@ -42,15 +42,15 @@
 
 协助需要帮助的盟友。移除[燃烧](Burning_(Condition).md "燃烧（状态）")、[倒地](Downed_(Condition).md "倒地（状态）")、\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕（诱捕打击）（状态）")、[缠绕](Entangled_(Condition).md "缠绕（状态）")、[网缚](Enwebbed_(Condition).md "网缚（状态）")、[倒伏](Prone_(status_group).md)、[沉睡](Sleeping_(Condition).md "沉睡（状态）")。
 
-[传染啃咬](Infectious_Bite_(Wolf_Companion).md "传染啃咬（狼伙伴）") ()
+[传染啃咬](Infectious_Bite_(Wolf_Companion).md "传染啃咬（狼伙伴）")
 
 啃咬一个目标并可能使其[败血症](Septic_(Condition).md "败血症（状态）")。
 
-[飞扑啃咬](Lunging_Bite.md "飞扑啃咬") ()
+[飞扑啃咬](Lunging_Bite.md "飞扑啃咬")
 
 扑向一个目标啃咬它并可能使其[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-[残忍挥砍](Lupine_Slash.md "残忍挥砍") ()
+[残忍挥砍](Lupine_Slash.md "残忍挥砍")
 
 使用出现在你颚间的灵界之剑攻击3米/10英尺内的附近目标。
 

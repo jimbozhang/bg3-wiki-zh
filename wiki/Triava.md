@@ -18,7 +18,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [刺剑](Rapier.md "刺剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [刺剑](Rapier.md "刺剑")
 
 伤害：5~12
 
@@ -28,7 +28,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：5~14
 

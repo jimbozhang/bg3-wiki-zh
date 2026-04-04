@@ -19,13 +19,13 @@
 
 穿戴此物品者获得：
 
-[壁垒叱喝](Bulwark_Rebuke.md "Bulwark_Rebuke") ()
+[壁垒叱喝](Bulwark_Rebuke.md "Bulwark_Rebuke")
 当敌人以近战攻击命中你时，对其造成2d4[力场](Force.md "Force")伤害，并可能使其[倒伏](Prone_(Condition).md "Prone (Condition)")。
 
-[反射外壳](Reflective_Shell.md "Reflective Shell") ()
+[反射外壳](Reflective_Shell.md "Reflective Shell")
 一个保护性外壳包裹着你。它将任何以你为目标的弹射物反射回其起点。（充能：[短休](Short_rest.md "Short rest")。）
 
-[守护之链](Warding_Bond.md "Warding Bond") ()
+[守护之链](Warding_Bond.md "Warding Bond")
 守护一名盟友。他们获得对所有伤害的[抗性](Resistances.md "Resistances")，以及其[护甲等级](Armour_Class.md "Armour Class")和[豁免检定](Saving_throw.md "Saving throw")的+1加值。（充能：[长休](Long_Rest.md "Long rest")。）
 
 [法术防范](Spellguard.md "Spellguard")

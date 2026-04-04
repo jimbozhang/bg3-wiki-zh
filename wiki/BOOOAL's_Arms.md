@@ -23,7 +23,7 @@ UID `WPN_Kuotoa_Javelin_A_1` UUID `8fdd7b33-6740-4d15-935c-9e54f54e16d4` Stats `
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing Strike")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

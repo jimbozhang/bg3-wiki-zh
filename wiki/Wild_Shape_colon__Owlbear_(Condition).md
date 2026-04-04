@@ -57,7 +57,7 @@
 [月光修复](Lunar_Mend.md "月光修复") (+ )
 消耗[法术位](Spells.md#Spell_slots "法术")以在荒野形态下恢复[生命值](Hit_Points.md "生命值")。你每消耗一个法术位等级恢复1d8[治疗](Healing.md "治疗")。
 
-[裂地](Rupture.md "裂地") ()
+[裂地](Rupture.md "裂地")
 撕裂大地，使碎片撕裂附近的物体和生物。
 
 ## 荒野形态：枭熊的来源

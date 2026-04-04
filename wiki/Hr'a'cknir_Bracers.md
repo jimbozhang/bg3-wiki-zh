@@ -16,7 +16,7 @@
 
 - [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw") +1
 
-[心灵遥控](Telekinesis.md "Telekinesis") ()
+[心灵遥控](Telekinesis.md "Telekinesis")
 以 5 级法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 [瞬发法师之手](Quickened_Mage_Hand.md "Quickened Mage Hand")

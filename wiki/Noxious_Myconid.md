@@ -70,7 +70,7 @@
 
 ### 攻击与能力
 
-[噼啪砰孢子](Bibberbang_Spores.md "Bibberbang Spores") ()
+[噼啪砰孢子](Bibberbang_Spores.md "Bibberbang Spores")
 
 伤害: 3~9
 
@@ -81,7 +81,7 @@
 射程: 18 米 (60 英尺)
 充能: [长休](Long_Rest.md "Long rest")
 
-[拳头](Fist.md "Fist") ()
+[拳头](Fist.md "Fist")
 
 伤害: 2~12
 

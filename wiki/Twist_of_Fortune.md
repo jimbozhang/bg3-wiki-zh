@@ -30,20 +30,20 @@ UID `MAG_TWN_Taxblade_Morningstar` UUID `12e19834-cf53-4207-93c3-5f0facef5889` #
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[惊心打击](Heartstopper.md "惊心打击") ()
+[惊心打击](Heartstopper.md "惊心打击")
 击碎敌人的胸膛，并可能造成[胸外伤](Chest_Trauma_(Condition).md "胸外伤（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[韧性](Tenacity.md "韧性") ()
+[韧性](Tenacity.md "韧性")
 当你攻击未命中时，仍造成等于你[力量](Strength.md "力量") [调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的[钝击](Bludgeoning.md "钝击")伤害（至少为1）。
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[血钱](Blood_Money.md "血钱") ()
+[血钱](Blood_Money.md "血钱")
 贪婪地挥击，根据目标拥有的每300 [金币](Gold.md "金币")造成额外的熟练项加值⁠⁠[穿刺](Piercing.md "穿刺")伤害。金币将被吞噬。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

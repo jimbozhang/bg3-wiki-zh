@@ -30,7 +30,7 @@ UID `MAG_HigherNecromancy_Staff` UUID `bb1fef3b-ac2b-427e-9b6f-273a8c7e4ff8` ###
 
 **持有此物品者获得：**
 
-[哈达之臂](Arms_of_Hadar.md "Arms_of Hadar") ()
+[哈达之臂](Arms_of_Hadar.md "Arms_of Hadar")
 以 3 级法术施放 (充能：[长休](Long_Rest.md "Long rest")。)
 
 [高强死灵法术](Heightened_Necromancy.md "Heightened Necromancy")
@@ -40,7 +40,7 @@ UID `MAG_HigherNecromancy_Staff` UUID `bb1fef3b-ac2b-427e-9b6f-273a8c7e4ff8` ###
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[摔绊](Topple.md "Topple") ()
+[摔绊](Topple.md "Topple")
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")。 (充能：[短休](Short_rest.md "Short rest")。)
 
 ## 获取地点

@@ -24,17 +24,17 @@ UID `MAG_MagicMissile_HandCrossbow` UUID `c9dcf78e-a46c-4959-aade-707d9dd2c51a` 
 
 **持有此物品获得：**
 
-[魔法飞弹](Magic_Missile.md "Magic Missile") ()
+[魔法飞弹](Magic_Missile.md "Magic Missile")
 以3级法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 ### 武器动作
 
 _如果你有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") ()
+[穿刺射击](Piercing_Shot.md "Piercing Shot")
 造成常规伤害并可能施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")，使攻击造成额外伤害。（充能：[短休](Short_rest.md "Short rest")。）
 
-[移动射击](Mobile_Shot.md "Mobile Shot") ()
+[移动射击](Mobile_Shot.md "Mobile Shot")
 在本回合使用[疾走](Dash.md "Dash")或[撤离](Disengage.md "Disengage")后，你可以以附赠动作进行一次远程攻击。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

@@ -24,18 +24,18 @@
 | 护甲等级 | 18 |  |  |  |  |
 | 移动速度 | 15米（50英尺） |  |  |  |  |
 
-[厄兆啃咬](Ominous_Bite.md "厄兆啃咬") ()
+[厄兆啃咬](Ominous_Bite.md "厄兆啃咬")
 啃咬一个目标，并可能在其身上施加[厄兆](Hound's_Omen_(Condition).md "猎犬的厄兆（状态）")。
 
-[暗影缠绕](Umbral_Tangle.md "暗影缠绕") ()
+[暗影缠绕](Umbral_Tangle.md "暗影缠绕")
 用暗影藤蔓困住你的敌人。
 
-[暗影裂片](Splinter_Shadow.md "暗影裂片") ()
+[暗影裂片](Splinter_Shadow.md "暗影裂片")
 当你受到不造成[光耀伤害](Radiant_damage.md "光耀伤害")的近战攻击时，分裂出自己的一部分，从暗影中生成一个新的版本。
 
 **仅在特殊情况下：**
 
-[紧随其后](Right_Behind_You.md "紧随其后") ()
+[紧随其后](Right_Behind_You.md "紧随其后")
 在你的召唤者的受害者旁边实体化。
 
 ## 学习方式

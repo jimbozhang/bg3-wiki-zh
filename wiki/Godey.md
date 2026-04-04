@@ -2,16 +2,46 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Simon Thorp](https://www.imdb.com/name/nm1206096/) |
+| 声音 / 演员 | [Simon Thorp](https://www.imdb.com/name/nm1206096/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [不死生物](Undead.md "不死生物") |
 | 种族 | [骷髅](Skeleton.md "骷髅") |
-| 等级 | 12 |
-| 生命值 | 74 |
-| 护甲等级 | 20 |
-| 先攻 | +3 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 210 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 12 | 12 | 12 |
+| 生命值 | 74 | 51 | 96 |
+| 护甲等级 | 20 | 20 | 20 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 20 千克 (40 磅) | 20 千克 (40 磅) | 20 千克 (40 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 210 | 210 | 210 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 17 / (+3) | 15 / (+2) | 14 / (+2) | 8 / (-1) | 5 / (-3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [招架](Parry.md "招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
+- [沉默](Silent.md "沉默")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [招架](Parry.md "招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
+- [沉默](Silent.md "沉默")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -50,7 +80,7 @@
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "割裂") () – [长剑](Longsword.md "长剑")
+[割裂](Lacerate.md "割裂") – [长剑](Longsword.md "长剑")
 
 伤害：1~8
 
@@ -64,7 +94,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长剑](Longsword.md "长剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长剑](Longsword.md "长剑")
 
 伤害：1~8
 
@@ -74,7 +104,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [长剑](Longsword.md "长剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [长剑](Longsword.md "长剑")
 
 伤害：1~4
 
@@ -86,7 +116,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [长剑](Longsword.md "长剑")
+[突进攻击](Rush_Attack.md "突进攻击") – [长剑](Longsword.md "长剑")
 
 伤害：4~7
 

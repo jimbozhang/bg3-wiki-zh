@@ -48,7 +48,7 @@
 [解除变形](Dismiss_Wild_Shape.md "解除变形")
 解除你的荒野形态并变回原始形态。
 
-[挑衅咆哮](Goading_Roar.md "挑衅咆哮") ()
+[挑衅咆哮](Goading_Roar.md "挑衅咆哮")
 对附近的敌人咆哮，挑衅他们攻击你。
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )

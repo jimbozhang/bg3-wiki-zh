@@ -111,7 +111,7 @@
 
 用你的表演激励盟友超越其能力。他们可以在下一次[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中获得+1d6加值。
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") ()
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)")
 消耗6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")。在本回合剩余时间内，掷两次远程伤害并使用较高结果。
 
 [妖火](Faerie_Fire.md "妖火") (+ )
@@ -121,15 +121,15 @@
 
 [隐形](Invisible_(Condition).md) 如果隐形实体攻击、施放另一个法术、与物体互动、采取动作或附赠动作，或受到伤害，则提前结束。_\[[参见笔记](Invisibility_(spell).md#Notes).md#Notes> "隐形 (法术)")\]_
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [长弓](Longbow.md "Longbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [长弓](Longbow.md "Longbow")
 
 用装备的武器进行远程攻击。
 
-[恶毒嘲笑](Vicious_Mockery.md "恶毒嘲笑") ()
+[恶毒嘲笑](Vicious_Mockery.md "恶毒嘲笑")
 
 侮辱一个生物：其下一次⁠[攻击掷骰](Attack_roll.md "Attack roll")具有[劣势](Disadvantage.md "Disadvantage")。
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") () – [长弓](Longbow.md "Longbow")
+[腿筋射击](Hamstring_Shot.md "腿筋射击") – [长弓](Longbow.md "Longbow")
 
 射击敌人的大腿，并可能使其[移动速度](Movement_speed.md "Movement speed")降低50%。
 

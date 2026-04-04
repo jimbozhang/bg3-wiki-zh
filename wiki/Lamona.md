@@ -3,16 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Grace Haydn](https://www.imdb.com/name/nm14667542/) |
+| 声音 / 演员 | [Grace Haydn](https://www.imdb.com/name/nm14667542/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [精灵](Elf.md "Elf") |
-| 等级 | 7 |
-| 生命值 | 78 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 320 |
+| 亚种 | [木精灵](Wood_elf.md "Wood elf") |
+| 职业 | [法师](Wizard.md "Wizard") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 7 | 7 | 7 |
+| 生命值 | 78 | 54 | 101 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 10 / (0) | 18 / (+4) | 12 / (+1) | 14 / (+2) |
 
 **拉莫纳**是[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace")内的一名[莎尔信徒菲蒂利安](Sharran_Fidelian.md "Sharran Fidelian")，位于 X: -421 Y: -1651。
 
@@ -44,7 +56,7 @@
 
 ### 攻击与能力
 
-[召唤黑暗](Beckoning_Darkness.md "Beckoning Darkness") ()
+[召唤黑暗](Beckoning_Darkness.md "Beckoning Darkness")
 
 伤害：2~16
 
@@ -55,7 +67,7 @@
 [魅力](Charisma.md "Charisma") [豁免检定](Saving_throws.md "Saving throws")
 射程：4 米 (13 英尺)
 
-[冻僵](Bone_Chill.md "Bone Chill") ()
+[冻僵](Bone_Chill.md "Bone Chill")
 
 伤害：1~8
 
@@ -73,7 +85,7 @@
 
 从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")。
 
-[摔绊](Topple.md "Topple") () – [长棍](Quarterstaff.md "Quarterstaff")
+[摔绊](Topple.md "Topple") – [长棍](Quarterstaff.md "Quarterstaff")
 
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")。
 

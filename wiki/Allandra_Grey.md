@@ -114,7 +114,7 @@
 
 召唤一阵冰雹和冰风暴从天而降，覆盖地面并打击范围内所有物体和生物，造成⁠[钝击](Bludgeoning.md "钝击")和⁠[寒冷](Cold.md "寒冷")伤害。它还会创建一个持续2回合的[冰](Ice_(surface).md "冰 (地表)")面。
 
-[割裂](Lacerate.md "割裂") () – [海浪之母的镰刀](Wavemother's_Sickle.md "海浪之母的镰刀")
+[割裂](Lacerate.md "割裂") – [海浪之母的镰刀](Wavemother's_Sickle.md "海浪之母的镰刀")
 
 劈砍目标的要害部位使其[流血](Bleeding_(Condition).md "流血 (状态)")。
 
@@ -125,7 +125,7 @@
 
 使用装备的武器进行一次近战攻击。
 
-[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 使目标的[移动速度](Movement_speed.md "移动速度")降低 3 米 / 10 英尺。
 

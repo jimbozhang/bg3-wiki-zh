@@ -3,16 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Dan Bottomley](https://www.imdb.com/name/nm7694024/) |
+| 声音 / 演员 | [Dan Bottomley](https://www.imdb.com/name/nm7694024/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [精灵](Elf.md "Elf") |
-| 等级 | 10 |
-| 生命值 | 84 |
-| 护甲等级 | 18 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 400 |
+| 亚种 | [高精灵](High_Elf.md "High elf") |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 84 | 58 | 109 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 400 | 400 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 15 / (+2) | 11 / (0) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "Great Weapon Master: All In")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "Great Weapon Master: Bonus Attack")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "Great Weapon Master: All In")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "Great Weapon Master: Bonus Attack")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **守望者乔迪**是[博德之门](Baldur's_Gate.md "Baldur's Gate")第三幕[上城区](Upper_City.md "Upper City")[卫士](City_Watch.md "City Watch")的一员。在[至高大殿](High_Hall.md "High Hall")的庭院被[绝对者](Absolute.md "Absolute")的势力占领后，他试图逃离。
 
@@ -78,7 +106,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") () – [巨剑](Greatsword.md "Greatsword")
+[劈砍](Cleave.md "Cleave") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：
 
@@ -88,7 +116,7 @@
 
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨剑](Greatsword.md "Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：6~16
 
@@ -98,7 +126,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [巨剑](Greatsword.md "Greatsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：1~4
 
@@ -110,7 +138,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [巨剑](Greatsword.md "Greatsword")
+[突进攻击](Rush_Attack.md "Rush Attack") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：5~8
 

@@ -55,7 +55,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [硬头锤](Mace.md "硬头锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [硬头锤](Mace.md "硬头锤")
 
 伤害: 3~8
 

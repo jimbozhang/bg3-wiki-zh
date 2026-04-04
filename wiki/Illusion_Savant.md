@@ -22,12 +22,12 @@ _此副职除了以下列出的独特特性外，还获得其基础职业[法师
 
 ### 等级 6
 
-[识破隐形](See_Invisibility_(class_action).md "识破隐形（职业动作）") ()
+[识破隐形](See_Invisibility_(class_action).md "识破隐形（职业动作）")
 瞥见[隐形](Invisible_(Condition).md "隐形（状态）")生物，并可能将其显露给他人。（充能：[短休](Short_rest.md "短休")。）
 
 ### 等级 10
 
-[幻影化形](Illusory_Self.md "幻影化形") ()
+[幻影化形](Illusory_Self.md "幻影化形")
 在你与攻击者的打击之间插入一个自身的幻影分身，使其攻击落空。（充能：[短休](Short_rest.md "短休")。）
 
 ---

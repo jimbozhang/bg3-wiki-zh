@@ -24,21 +24,21 @@
 |
 | [火花四射的承诺](A_Sparking_Promise.md "火花四射的承诺") |
 
-[诱捕电击](Ensnaring_Shock.md "诱捕电击") ()
+[诱捕电击](Ensnaring_Shock.md "诱捕电击")
 作为戏法施放（充能：[短休](Short_rest.md "短休")。）
 | | 戒指 |
 |
 |
 | [埃布德的可靠盾牌](Abdel's_Trusted_Shield.md "埃布德的可靠盾牌") |
 
-[盾牌猛击](Shield_Blow.md "盾牌猛击") ()
+[盾牌猛击](Shield_Blow.md "盾牌猛击")
 当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒地](Prone_(Condition).md "倒地（状态）")，除非他们成功通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。
 
-[防护投射物](Protection_from_Missiles.md "防护投射物") ()
+[防护投射物](Protection_from_Missiles.md "防护投射物")
 作为2环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 由[戈尔布雷思](Golbraith_Stredivas.md "戈尔布雷思·斯特雷迪瓦斯")在其家一楼给予 | 盾牌 | 盾牌 | | +2 | [异怪猎人护符](Aberration_Hunters'_Amulet.md "异怪猎人护符") |
 
-[长年怀恨](Ancient_Grudges.md "长年怀恨") ()
+[长年怀恨](Ancient_Grudges.md "长年怀恨")
 触碰你的护符以吸收吉斯人知识的一小部分。你对[异怪](List_of_creature_types.md#Aberration "生物类型列表")的[攻击检定](Attack_rolls.md "攻击检定")具有[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
 | 由[古斯蒂尔·斯托努戈斯](Stornugoss.md "斯托努戈斯")携带，在医务室以西的医生办公室 | 护符 |
 |
@@ -53,10 +53,10 @@
 |
 | [至上真神保护者](Absolute's_Protector.md "至上真神保护者") |
 
-[盾牌猛击](Shield_Blow.md "盾牌猛击") ()
+[盾牌猛击](Shield_Blow.md "盾牌猛击")
 当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒地](Prone_(Condition).md "倒地（状态）")，除非他们成功通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。
 
-[火焰护盾：寒霜](Fire_Shield_colon__Chill.md "火焰护盾：寒霜") ()
+[火焰护盾：寒霜](Fire_Shield_colon__Chill.md "火焰护盾：寒霜")
 作为4环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[泽瑞尔](Z'rell.md "泽瑞尔")携带 | 盾牌 | | | +2 | [至上真神的惩罚](Absolute's_Smite.md "至上真神的惩罚") |
 
@@ -67,14 +67,14 @@
 |
 | [至上真神的护符](Absolute's_Talisman.md "至上真神的护符") |
 
-[至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助") ()
+[至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助")
 作为2环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[祭司古特](Gut.md "古特")穿戴 | 护符 |
 |
 |
 | [至上真神的战争阔盾](Absolute's_Warboard.md "至上真神的战争阔盾") |
 
-[英雄气概](Heroism.md "英雄气概") ()
+[英雄气概](Heroism.md "英雄气概")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[真魂者古特](Gut.md "古特")携带 | 盾牌 | 盾牌 | | +2 | [深渊召唤者](Abyss_Beckoners.md "深渊召唤者") | | 在牢房中上锁的箱子内 | 手套 |
 |
@@ -93,7 +93,7 @@
 | 由[鳞甲模具](Scale_Mail_Mould.md "鳞甲模具")和[秘银矿石](Mithral_Ore.md "秘银矿石")锻造 | 中型护甲 | 中型护甲 | 16 | | [精金盾牌](Adamantine_Shield.md "精金盾牌") |
 - 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。
 
-[盾牌猛击](Shield_Blow.md "盾牌猛击") ()
+[盾牌猛击](Shield_Blow.md "盾牌猛击")
 当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒地](Prone_(Condition).md "倒地（状态）")，除非他们成功通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。
 | 由[盾牌模具](Shield_Mould.md "盾牌模具")和[秘银矿石](Mithral_Ore.md "秘银矿石")锻造 | 盾牌 | 盾牌 | | +2 | [精金板条甲](Adamantine_Splint_Armour.md "精金板条甲") |
 
@@ -108,7 +108,7 @@
 |
 | [烙印护符](Amulet_of_Branding.md "烙印护符") |
 
-[标点弱点](Brand_the_Weak.md "标点弱点") ()
+[标点弱点](Brand_the_Weak.md "标点弱点")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[阿贾克尼尔·吉拉](Jeera.md "吉拉")携带 | 护符 |
 |
@@ -126,31 +126,31 @@
 |
 | [迷踪步护符](Amulet_of_Misty_Step.md "迷踪步护符") |
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 作为2环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 在[古特](Gut.md "古特")私人房间中[波尔玛](Polma.md "波尔玛")床后的镀金箱子中 | 护符 |
 |
 |
 | [修复护符](Amulet_of_Restoration.md "修复护符") |
 
-[治愈真言](Healing_Word.md "治愈真言") ()
+[治愈真言](Healing_Word.md "治愈真言")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
-[群体治愈真言](Mass_Healing_Word.md "群体治愈真言") ()
+[群体治愈真言](Mass_Healing_Word.md "群体治愈真言")
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")在[幽暗地域](Underdark.md "幽暗地域")出售 | 护符 |
 |
 |
 | [塞伦涅选民护符](Amulet_of_Sel%C3%BBne's_Chosen.md "塞伦涅选民护符") |
 
-[塞伦涅之梦](Sel%C3%BBne's_Dream.md "塞伦涅之梦") ()
+[塞伦涅之梦](Sel%C3%BBne's_Dream.md "塞伦涅之梦")
 作为戏法施放（充能：[长休](Long_Rest.md "长休")。）
 | 在[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")的宝藏堆中 | 护符 |
 |
 |
 | [西凡那斯护符](Amulet_of_Silvanus.md "西凡那斯护符") |
 
-[恢复](Lesser_Restoration.md "恢复") ()
+[恢复](Lesser_Restoration.md "恢复")
 作为2环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 在熊[奥姆](Ormn.md "奥姆")附近，藏在必须移动的扁平岩石下 | 护符 |
 |
@@ -165,7 +165,7 @@
 
 - [感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-[护盾术](Shield_(spell).md "护盾术") ()
+[护盾术](Shield_(spell).md "护盾术")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[军需官塔利](Quartermaster_Talli.md "军需官塔利")在最后轻语旅店传送点附近出售 | 护符 |
 |
@@ -180,10 +180,10 @@
 |
 | [驭风护符](Amulet_of_Windrider.md "驭风护符") |
 
-[攀云步](Ride_the_Winds.md "攀云步") ()
+[攀云步](Ride_the_Winds.md "攀云步")
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
-[造风术](Gust_of_Wind.md "造风术") ()
+[造风术](Gust_of_Wind.md "造风术")
 作为2环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 在任务[解救万娜](Save_Vanra.md "解救万娜")期间拯救[洛拉·贝尔高兹](Lora_Bergauz.md "洛拉·贝尔高兹")的女儿后奖励 | 护符 |
 |
@@ -194,21 +194,21 @@
 
 | 由[沮丧的芬东森](Gloomy_Fentonson.md "沮丧的芬东森")在[下城主墙](Lower_City.md#Waypoints "下城")传送点附近出售 | 中型护甲 | 中型护甲 | 17 | | [崇敬之甲](Armour_of_Devotion.md "崇敬之甲") |
 
-[永恒奉献](Eternal_Devotion.md "永恒奉献") ()
+[永恒奉献](Eternal_Devotion.md "永恒奉献")
 诵读你的誓言以恢复1点[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")。（充能：[长休](Long_Rest.md "长休")。）
 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在一楼出售 | 重型护甲 | 重型护甲 | 18 | | [山崩护甲](Armour_of_Landfall.md "山崩护甲") |
 
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-[植物滋长](Plant_Growth.md "植物滋长") ()
+[植物滋长](Plant_Growth.md "植物滋长")
 作为3环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | 轻型护甲 | 轻型护甲 | 13 | | [月照护甲](Armour_of_Moonbasking.md "月照护甲") | | 由[无声忏悔者巴瑞克](Bareki.md "巴瑞克")出售 | 轻型护甲 | 轻型护甲 | 11 | | [坚毅之甲](Armour_of_Persistence.md "坚毅之甲") | | 由[戴摩](Dammon.md "戴摩")在[第三幕](Act_Three.md "第三幕")出售 | 重型护甲 | 重型护甲 | 20 | | [孢子守护者护甲](Armour_of_the_Sporekeeper.md "孢子守护者护甲") | | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | 轻型护甲 | 轻型护甲 | 13 | | [不羁库席戈之衣](Armour_of_Uninhibited_Kushigo.md "不羁库席戈之衣") |
 
-[库席戈还击](Kushigo_Counter.md "库席戈还击") ()
+[库席戈还击](Kushigo_Counter.md "库席戈还击")
 当[戒备姿态](Patient_Defence_(Condition).md "戒备姿态（状态）")激活时：穿戴者可以用反应对任何未命中的攻击者进行一次徒手打击。
 | 在任务[找到丢失的靴子](Find_the_Missing_Boots.md "找到丢失的靴子")中归还她的靴子后，由[赛尔格特·斯林](Elenna_Thrinn.md "艾伦娜·斯林")奖励 | 服装 | | 10 | | [巴尔的斗篷刺客](Assassin_of_Bhaal_Cowl.md "巴尔的斗篷刺客") |
 
-[识破隐形](See_Invisibility_(spell).md "识破隐形") ()
+[识破隐形](See_Invisibility_(spell).md "识破隐形")
 作为2环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 由[阿巴济戈的回声](Echo_of_Abazigal.md "阿巴济戈的回声")出售 | 头盔 |
 |
@@ -226,14 +226,14 @@
 |
 | [驯兽师铁链](Beastmaster's_Chain.md "驯兽师铁链") |
 
-[化兽为友](Animal_Friendship.md "化兽为友") ()
+[化兽为友](Animal_Friendship.md "化兽为友")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 在桌子旁有肉的箱子中 | 护符 |
 |
 |
 | [巴尔信徒护甲](Bhaalist_Armour.md "巴尔信徒护甲") |  | 由[阿巴济戈的回声](Echo_of_Abazigal.md "阿巴济戈的回声")出售 | 轻型护甲 | 轻型护甲 | 14 |  | [巴尔信徒手套](Bhaalist_Gloves.md "巴尔信徒手套") | [攻击检定](Attack_roll.md "攻击检定") +1 |
 
-[绞杀术](Garrotte.md "绞杀术") ()
+[绞杀术](Garrotte.md "绞杀术")
 将影绳缠绕在[类人生物](Humanoid.md "类人生物")的喉咙上以开始[绞杀](Garrotted_(Condition).md "绞杀（状态）")。（充能：[短休](Short_rest.md "短休")。）
 | 由[阿巴济戈的回声](Echo_of_Abazigal.md "阿巴济戈的回声")出售 | 手套 |
 |
@@ -250,7 +250,7 @@
 - [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1
 - [攻击检定](Attacks.md#Attack_rolls "攻击") +1
 
-[致伤术](Inflict_Wounds.md "致伤术") ()
+[致伤术](Inflict_Wounds.md "致伤术")
 作为4环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由死亡骑士[观察者](That_Which_Watches.md "观察者")携带 | 手套 | 中型护甲 |
 |
@@ -293,7 +293,7 @@
 
 - [威吓](Intimidation.md "威吓") +2
 
-[恐吓攻击（近战）](Menacing_Attack_(Bonespike_Helmet).md "恐吓攻击（骨刺头盔）") ()
+[恐吓攻击（近战）](Menacing_Attack_(Bonespike_Helmet).md "恐吓攻击（骨刺头盔）")
 可能[恐吓](Frightened_(Condition).md "恐吓（状态）")你的目标。他们将在[能力检定](Ability_checks.md "能力检定")和[攻击检定](Attack_roll.md "攻击检定")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。（充能：每回合。）
 | 由[无声忏悔者巴瑞克](Bareki.md "巴瑞克")出售 | 头盔 |
 |
@@ -313,7 +313,7 @@
 |
 | [响亮之靴](Boots_of_Brilliance.md "响亮之靴") |
 
-[恢复诗人激励](Restore_Bardic_Inspiration.md "恢复诗人激励") ()
+[恢复诗人激励](Restore_Bardic_Inspiration.md "恢复诗人激励")
 演奏你的乐器以恢复一个[诗人激励](Bardic_Inspiration_(resource).md) slots. (充能：[长休](Long_Rest.md "长休")。）
 | 在[尤格](Yurgir.md "尤格")北侧房间的重箱中 | 靴子 |
 |
@@ -337,14 +337,14 @@
 | [灵能移动之靴](Boots_of_Psionic_Movement.md "灵能移动之靴") |
 - [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1
 
-[吉斯本能：飞靴](Githborn_colon__Flying_Boots.md "吉斯本能：飞靴") ()
+[吉斯本能：飞靴](Githborn_colon__Flying_Boots.md "吉斯本能：飞靴")
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[赤莱·哈拉克](Har'rak.md "哈拉克")穿戴 | 靴子 | 中型护甲 |
 |
 |
 | [速度之靴](Boots_of_Speed.md "速度之靴") |
 
-[碰撞鞋跟](Click_Heels.md "碰撞鞋跟") ()
+[碰撞鞋跟](Click_Heels.md "碰撞鞋跟")
 点击你的靴跟以获得速度和行动自由。
 | 由[图拉](Thulla.md "图拉")穿戴 | 靴子 |
 |
@@ -364,7 +364,7 @@
 |
 | [超速闪烁之靴](Boots_of_Very_Fast_Blinking.md "超速闪烁之靴") |
 
-[脱衣闪烁步](Disrobing_Blinkstep.md "脱衣闪烁步") ()
+[脱衣闪烁步](Disrobing_Blinkstep.md "脱衣闪烁步")
 作为2环法术施放（充能：每回合。）
 | 由[阿卡比](Akabi.md "阿卡比")在[幸运之轮](Circus_of_the_Last_Days.md#Layout "末日马戏团")未能赢得头奖后作为安慰奖给予 | 靴子 |
 |
@@ -396,7 +396,7 @@
 |
 | [铮亮的戒指](Burnished_Ring.md "铮亮的戒指") |
 
-[麻痹射线](Paralyzing_Ray.md "麻痹射线") ()
+[麻痹射线](Paralyzing_Ray.md "麻痹射线")
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[观察者眼魔](Spectator.md "观察者眼魔")在[希望的牢房](House_of_Hope.md#Hope's_prison "希望之屋")携带 | 戒指 |
 |
@@ -422,7 +422,7 @@
 |
 | [链甲 +1](Chain_Mail_+1.md "链甲 +1") | | 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家等级在4到6级之间 | 重型护甲 | 重型护甲 | 17 | | [链甲 +2](Chain_Mail_+2.md "链甲 +2") | | 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家等级达到7级或以上 | 重型护甲 | 重型护甲 | 18 | | [解放锁链](Chain_of_Liberation.md "解放锁链") | | 此物品仅在抢先体验版中可获得。在[塞伦涅哨站](Sel%C3%BBnite_Outpost.md "塞伦涅哨站") X: 175 Y: -248 的隐藏房间箱子中找到。在完整版游戏中被[发光护甲](Luminous_Armour.md "发光护甲")取代。 | 中型护甲 | 中型护甲 | 13 | | [链甲衫 +1](Chain_Shirt_+1.md "链甲衫 +1") | | 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家角色等级在2到4级之间 | 中型护甲 | 中型护甲 | 14 | | [链甲衫 +2](Chain_Shirt_+2.md "链甲衫 +2") | | 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家等级在5到8级之间 | 中型护甲 | 中型护甲 | 15 | | [勇者链条](Champion's_Chain.md "勇者链条") |
 
-[暴君之舌](Tyrant_Tongue.md "暴君之舌") ()
+[暴君之舌](Tyrant_Tongue.md "暴君之舌")
 给予盟友+2的[威吓](Intimidation.md "威吓")[属性检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。）
 | 在任务[交送尼讷的头](Deliver_Nere's_Head.md "交送尼讷的头")期间将[尼讷的头](Nere's_Head.md "尼讷的头")交给[格鲁特](Glut.md "格鲁特")的奖励 | 护符 |
 |
@@ -438,21 +438,21 @@
 |
 | [飞灰手套](Cindersnap_Gloves.md "飞灰手套") |
 
-[防护投射物](Protection_from_Missiles.md "防护投射物") ()
+[防护投射物](Protection_from_Missiles.md "防护投射物")
 作为2环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 由[军需官塔利](Talli.md "塔利")在最后轻语旅店传送点附近出售 | 手套 |
 |
 |
 | [骸骨饰环](Circle_of_Bones.md "骸骨饰环") |
 
-[操纵死尸](Animate_Dead.md "操纵死尸") ()
+[操纵死尸](Animate_Dead.md "操纵死尸")
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[巴萨扎尔](Balthazar.md "巴萨扎尔")在其祭坛处携带 | 头盔 |
 |
 |
 | [爆炸饰环](Circlet_of_Blasting.md "爆炸饰环") |
 
-[灼热射线](Scorching_Ray.md "灼热射线") ()
+[灼热射线](Scorching_Ray.md "灼热射线")
 作为2环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[布尔格](Blurg.md "布尔格")出售 | 头盔 |
 |
@@ -484,7 +484,7 @@
 |
 | [元素吸收披风](Cloak_of_Elemental_Absorption.md "元素吸收披风") |
 
-[吸收元素](Absorb_Elements.md "吸收元素") ()
+[吸收元素](Absorb_Elements.md "吸收元素")
 每[短休](Short_rest.md "短休")吸收一次元素伤害。对下一个针对你的元素攻击承受一半伤害，并在你的下一次攻击中造成额外1d6点该元素类型的伤害。（充能：[短休](Short_rest.md "短休")。）
 | 在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")二楼房间的华丽箱子中 | 披风 |
 |
@@ -499,7 +499,7 @@
 |
 | [织法者披风](Cloak_of_the_Weave.md "织法者披风") |
 
-[吸收元素](Absorb_Elements.md "吸收元素") ()
+[吸收元素](Absorb_Elements.md "吸收元素")
 每[短休](Short_rest.md "短休")吸收一次元素伤害。对下一个针对你的元素攻击承受一半伤害，并在你的下一次攻击中造成额外1d6点该元素类型的伤害。（充能：[短休](Short_rest.md "短休")。）
 | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | 披风 |
 |
@@ -517,7 +517,7 @@
 |
 | [乌鸦徽记](Corvid_Token.md "乌鸦徽记") |
 
-[变形术：恐鸦](Polymorph_colon__Dire_Raven.md "变形术：恐鸦") ()
+[变形术：恐鸦](Polymorph_colon__Dire_Raven.md "变形术：恐鸦")
 变成一只恐鸦的形态，可以避开注意力并[致盲](Blinded_(Condition).md "致盲（状态）")敌人。它有13点[生命值](Hit_Points.md "生命值")。（充能：[长休](Long_Rest.md "长休")。）
 | 由[马蒂斯](Mattis.md "马蒂斯")在[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")附近出售 | 护符 |
 |
@@ -542,7 +542,7 @@
 |
 | [地穴领主戒指](Crypt_Lord_Ring.md "地穴领主戒指") |
 
-[唤起死灵](Create_Undead.md "唤起死灵") ()
+[唤起死灵](Create_Undead.md "唤起死灵")
 作为6环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 完成任务[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")的奖励，如果[斯郎博](Thrumbo.md "斯郎博")存活 | 戒指 |
 |
@@ -561,7 +561,7 @@
 
 - [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1
 
-[阴影传送](Shadow_Teleportation.md "阴影传送") ()
+[阴影传送](Shadow_Teleportation.md "阴影传送")
 传送至一个无人占据、被遮蔽的地点。（充能：[短休](Short_rest.md "短休")。）
 | 在杀死[夜之歌](Aylin.md "艾琳")后奖励给[影心](Shadowheart.md "影心") | 靴子 | 中型护甲 |
 |
@@ -577,7 +577,7 @@
 
 - [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1
 
-[召唤黑暗](Beckoning_Darkness.md "召唤黑暗") ()
+[召唤黑暗](Beckoning_Darkness.md "召唤黑暗")
 作为4环法术随意施放。
 | 在杀死[夜之歌](Aylin.md "艾琳")后奖励给[影心](Shadowheart.md "影心") | 手套 |
 |
@@ -586,13 +586,13 @@
 
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-[莎尔神盾](Shar's_Aegis.md "莎尔神盾") ()
+[莎尔神盾](Shar's_Aegis.md "莎尔神盾")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 放在[寂静图书馆](Silent_Library.md "寂静图书馆")谜题门后[暗夜之矛](Spear_of_Night.md "暗夜之矛")所在祭坛旁边的地上 | 中型护甲 | 中型护甲 | 16 | | [暗夜法官半身甲](Dark_Justiciar_Half-Plate.md "暗夜法官半身甲") |
 
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-[莎尔神盾](Shar's_Aegis.md "莎尔神盾") ()
+[莎尔神盾](Shar's_Aegis.md "莎尔神盾")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 在杀死[夜之歌](Aylin.md "艾琳")后奖励给[影心](Shadowheart.md "影心") | 中型护甲 | 中型护甲 | 17 | | [暗夜法官头盔](Dark_Justiciar_Helmet.md "暗夜法官头盔") |
 
@@ -632,14 +632,14 @@
 |
 | [分崩离析的伏形夜影](Disintegrating_Night_Walkers.md "分崩离析的伏形夜影") |
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 作为2环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 由[尼讷](Nere.md "尼讷")穿戴 | 靴子 |
 |
 |
 | [气巨灵戒指](Djinni_Ring.md "气巨灵戒指") ]
 
-[法师之手](Mage_Hand.md "法师之手") ()
+[法师之手](Mage_Hand.md "法师之手")
 作为戏法施放（充能：[短休](Short_rest.md "短休")。）
 | 由[阿卡比](Akabi.md "阿卡比")穿戴，[气巨灵](Djinni.md "气巨灵") | 戒指 |
 |
@@ -659,11 +659,11 @@
 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在一楼出售 | 重型护甲 | 重型护甲 | 19 | | [优雅镶钉皮甲](Elegant_Studded_Leather.md "优雅镶钉皮甲") |
 - [隐匿](Stealth.md "隐匿")具有[优势](Advantage.md "优势")。
 
-[护盾术](Shield_(spell).md "护盾术") ()
+[护盾术](Shield_(spell).md "护盾术")
 作为1环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 在[高安保险库9号](The_Counting_House.md#High_security_vaults "计价所") | 轻型护甲 | 轻型护甲 | 14 | | [精灵锁甲](Elven_Chain.md "精灵锁甲") | | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在[利文顿](Rivington.md "利文顿")于[第三幕](Act_Three.md "第三幕")期间出售 | 中型护甲 | | 14 | | [元帅纹章板甲](Emblazoned_Plate_of_the_Marshal.md "元帅纹章板甲") |
 
-[火焰护盾](Fire_Shield.md "火焰护盾") ()
+[火焰护盾](Fire_Shield.md "火焰护盾")
 作为4环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 如果在观众厅被杀，可从[乌尔德·雷文伽德公爵](Duke_Ulder_Ravengard.md "乌尔德·雷文伽德公爵")的尸体上掠夺 | 重型护甲 | 重型护甲 | 19 | | [执法者头盔](Enforcer_Helmet.md "执法者头盔") |
 
@@ -679,7 +679,7 @@
 - [体质](Constitution.md "体质") +2（最高20）
 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在一楼出售 | 服装 | | 10 | | [使者护符](Envoy's_Amulet.md "使者护符") |
 
-[圆环之声](Voice_of_the_Circle.md "圆环之声") ()
+[圆环之声](Voice_of_the_Circle.md "圆环之声")
 给予盟友+2的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")加值。（充能：[长休](Long_Rest.md "长休")。）
 | 在任务[交送尼讷的头](Deliver_Nere's_Head.md "交送尼讷的头")期间将[尼讷的头](Nere's_Head.md "尼讷的头")交给[斯帕](Spaw.md "斯帕")的奖励 | 护符 |
 |
@@ -715,7 +715,7 @@
 |
 | [卡勒杜兰·滑手的物像](Fetish_of_Callarduran_Smoothhands.md "卡勒杜兰·滑手的物像") |
 
-[隐形术](Invisibility_(spell).md "隐形术") ()
+[隐形术](Invisibility_(spell).md "隐形术")
 作为2环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 在一对灰矮人正扔进湖里的深地精尸体之一上 | 戒指 |
 |
@@ -738,7 +738,7 @@
 |
 | [火焰搪瓷护甲](Flame_Enamelled_Armour.md "火焰搪瓷护甲") |
 
-[火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖") ()
+[火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖")
 作为4环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 在[飞龙岩要塞](Wyrm's_Rock.md "飞龙岩要塞")传送点西南军械库角落的重箱中（铁门后） | 中型护甲 | 中型护甲 | 16 | | [残缺的黯狱护甲](Flawed_Helldusk_Armour.md "残缺的黯狱护甲") | | 由[戴摩](Dammon.md "戴摩")制作 | 重型护甲 | 重型护甲 | 18 | | [残缺的黯狱手套](Flawed_Helldusk_Gloves.md "残缺的黯狱手套") |
 
@@ -761,7 +761,7 @@
 |
 | [冰霜王子](Frost_Prince.md "冰霜王子") |
 
-[冰刃术](Ice_Knife.md "冰刃术") ()
+[冰刃术](Ice_Knife.md "冰刃术")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 在东南方的镀金箱子中，靠近[幽影诅咒枯针怪](Shadow-Cursed_Needle_Blight.md "幽影诅咒枯针怪")和[幽影诅咒枯藤怪](Shadow-Cursed_Vine_Blight.md "幽影诅咒枯藤怪")的伏击处 | 护符 |
 |
@@ -777,14 +777,14 @@
 
 - [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +2
 
-[石像鬼面容](Gargoyle's_Countenance.md "石像鬼面容") ()
+[石像鬼面容](Gargoyle's_Countenance.md "石像鬼面容")
 作为4环法术施放（充能：[短休](Short_rest.md "短休")。）
 | | 靴子 |
 |
 |
 | [暴君铁手套](Gauntlet_of_the_Tyrant.md "暴君铁手套") |
 
-[命令术](Command.md "命令术") ()
+[命令术](Command.md "命令术")
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")穿戴 | 手套 |
 |
@@ -836,7 +836,7 @@
 |
 | [热情灰烬手套](Gloves_of_Cinder_and_Sizzle.md "热情灰烬手套") |
 
-[灼热射线](Scorching_Ray.md "灼热射线") ()
+[灼热射线](Scorching_Ray.md "灼热射线")
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[女士埃丝特](Esther.md "埃丝特")在[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")传送点东北方向出售 | 手套 |
 |

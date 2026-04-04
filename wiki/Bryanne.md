@@ -35,7 +35,7 @@
 
 ### 攻击与能力
 
-[割裂](Lacerate.md "割裂") () – [长剑](Longsword.md "长剑")
+[割裂](Lacerate.md "割裂") – [长剑](Longsword.md "长剑")
 
 伤害：2~9
 
@@ -49,7 +49,7 @@
 范围：普通武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长剑](Longsword.md "长剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长剑](Longsword.md "长剑")
 
 伤害：2~9
 
@@ -59,7 +59,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [长剑](Longsword.md "长剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [长剑](Longsword.md "长剑")
 
 伤害：1~4
 
@@ -71,7 +71,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [长剑](Longsword.md "长剑")
+[突进攻击](Rush_Attack.md "突进攻击") – [长剑](Longsword.md "长剑")
 
 伤害：2~5
 

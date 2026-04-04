@@ -8,7 +8,7 @@
 
 [堆叠 ID](Stack_ID.md "堆叠 ID"): `MOO_NECROMITE_OFFERSELF` ## 赋予：
 
-[为了骨头领主！](For_the_Lord_of_Bones!.md "为了骨头领主！") ()
+[为了骨头领主！](For_the_Lord_of_Bones!.md "为了骨头领主！")
 赋予使徒 [收割者奖励](Reaper's_Reward_(Condition).md "收割者奖励 (状态)")。
 
 ## 米尔寇的召唤来源

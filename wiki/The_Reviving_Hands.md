@@ -17,7 +17,7 @@
 
 - [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") +1
 
-[回生术](Revivify.md "回生术") ()
+[回生术](Revivify.md "回生术")
 以 3 级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [保护之掌](Aegis_Palms.md "保护之掌")

@@ -78,7 +78,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[恶毒嘲笑](Vicious_Mockery.md "恶毒嘲笑") ()
+[恶毒嘲笑](Vicious_Mockery.md "恶毒嘲笑")
 
 伤害：1~4
 

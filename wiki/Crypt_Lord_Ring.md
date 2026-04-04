@@ -14,7 +14,7 @@
 
 此物品的佩戴者获得：
 
-[唤起死灵](Create_Undead.md "Create Undead") ()
+[唤起死灵](Create_Undead.md "Create Undead")
 作为 6 级法术施放（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点

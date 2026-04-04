@@ -5,10 +5,43 @@
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
-| 等级 | 5 |
-| 生命值 | 41 |
-| 护甲等级 | 17 |
-| 先攻 | +2 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 41 | 28 | 53 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 17 / (+3) | 14 / (+2) | 15 / (+2) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [吉斯洋基招架](Githyanki_Parry.md "Githyanki Parry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [吉斯洋基招架](Githyanki_Parry.md "Githyanki Parry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [吉斯洋基招架](Githyanki_Parry.md "Githyanki Parry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [吉斯洋基招架](Githyanki_Parry.md "Githyanki Parry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **吉斯洋基战士**是贯穿_[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")_的[职业](Class.md "职业")[吉斯洋基人](Githyanki.md "Githyanki")角色原型。
 
@@ -44,13 +77,13 @@
 [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 
-[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "Githyanki Psionics: Jump") ()
+[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "Githyanki Psionics: Jump")
 使生物的[跳跃](Jump.md "Jump")距离变为三倍。
 
 近战：1.5 m (5 ft)
 充能：[长休](Long_Rest.md "Long rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：6~16
 
@@ -60,7 +93,7 @@
 
 近战：1.5 m (5 ft)
 
-[回气](Second_Wind.md "Second Wind") ()
+[回气](Second_Wind.md "Second Wind")
 
 治疗：1~10 + 调整值
 

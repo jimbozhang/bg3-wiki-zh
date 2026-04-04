@@ -29,13 +29,13 @@ UID `MAG_LC_OfTheFist_MorningStar` UUID `83715b12-8d39-48b7-a981-fe50a4ec2d4e` S
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[惊心打击](Heartstopper.md "Heartstopper") ()
+[惊心打击](Heartstopper.md "Heartstopper")
 击碎敌人的胸膛，并可能造成[胸外伤](Chest_Trauma_(Condition).md "胸外伤（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人，造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[韧性](Tenacity.md "韧性") ()
+[韧性](Tenacity.md "韧性")
 当你攻击未命中时，仍会造成等于你[力量](Strength.md "Strength") [调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的⁠[钝击](Bludgeoning.md "钝击")伤害（最低为1）。
 
 ## 获取地点

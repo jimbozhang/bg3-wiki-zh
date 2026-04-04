@@ -29,7 +29,7 @@
 
 冲锋向前并攻击路径上的所有敌人和物体。
 
-[牙撕攻击](Tusk_Attack_(Gilded_Hellsboar).md "牙撕攻击 (镶金地狱野猪)") ()
+[牙撕攻击](Tusk_Attack_(Gilded_Hellsboar).md "牙撕攻击 (镶金地狱野猪)")
 
 刺穿目标
 

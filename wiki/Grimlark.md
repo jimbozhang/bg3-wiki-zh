@@ -64,7 +64,7 @@
 
 ### 攻击与能力
 
-[王车易位：传送](Benign_Transposition_colon__Teleport.md "王车易位：传送") ()
+[王车易位：传送](Benign_Transposition_colon__Teleport.md "王车易位：传送")
 传送至附近的空地，或与盟友交换位置。
 
 范围：9 米 (30 英尺)
@@ -97,7 +97,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 伤害：1~8
 

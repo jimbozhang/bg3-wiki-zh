@@ -2,15 +2,38 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Amy McAllister](https://www.imdb.com/name/nm3577620/) |
+| 声音 / 演员 | [Amy McAllister](https://www.imdb.com/name/nm3577620/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [Kuo-toa](Kuo-toa.md "Kuo-toa") |
-| 等级 | 2 |
-| 生命值 | 18 |
-| 护甲等级 | 13 |
-| 先攻 | 0 |
-| 移动速度 | 9 m (30 ft) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 2 | 2 | 2 |
+| 生命值 | 18 | 12 | 62 |
+| 护甲等级 | 13 | 13 | 15 |
+| 先攻 | 0 | 0 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 60 kg (120 lb) | 60 kg (120 lb) | 60 kg (120 lb) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 13 / (+1) | 10 / (0) | 11 / (0) | 11 / (0) | 10 / (0) | 8 / (-1) |
+
+**特性**
+
+- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+
+**特性**
+
+- [波尔的忠诚](BOOOAL's_Faithful.md "波尔的忠诚")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 ## 状态
 
@@ -81,7 +104,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [波尔之臂](BOOOAL's_Arms.md "波尔之臂")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [波尔之臂](BOOOAL's_Arms.md "波尔之臂")
 
 伤害：2~7
 
@@ -91,7 +114,7 @@
 
 近战：1.5 m (5 ft)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [波尔之臂](BOOOAL's_Arms.md "波尔之臂")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [波尔之臂](BOOOAL's_Arms.md "波尔之臂")
 
 伤害：2~7
 

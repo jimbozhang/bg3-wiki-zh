@@ -14,10 +14,10 @@
 
 佩戴此物品者获得：
 
-[隐形](Invisibility_(spell).md "隐形（法术）") ()
+[隐形](Invisibility_(spell).md "隐形（法术）")
 以2环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
-[朦胧术](Blur.md "朦胧术") ()
+[朦胧术](Blur.md "朦胧术")
 以2环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

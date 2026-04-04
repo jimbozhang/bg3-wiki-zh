@@ -66,7 +66,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "华舞") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[华舞](Flourish.md "华舞") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：1~4
 
@@ -78,7 +78,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[割裂](Lacerate.md "割裂") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 
@@ -92,7 +92,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 
@@ -102,7 +102,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 
@@ -116,7 +116,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[自我藏匿](Shroud_Self.md "自我藏匿") ()
+[自我藏匿](Shroud_Self.md "自我藏匿")
 用阴影包裹自己以变得[隐形](Invisible_(Condition).md "隐形 (状态)")
 
 射程：自身

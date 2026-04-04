@@ -63,12 +63,12 @@
 
 ### 攻击与能力
 
-[呼叫协助](Calling_for_Help.md "Calling for Help") ()
+[呼叫协助](Calling_for_Help.md "Calling for Help")
 该生物发出警报以提醒其盟友。
 
 充能：每次战斗
 
-[爪击](Claws_(Flying_Ghoul).md "Claws (Flying Ghoul)") ()
+[爪击](Claws_(Flying_Ghoul).md "Claws (Flying Ghoul)")
 
 伤害：6~21
 
@@ -79,7 +79,7 @@
 [体质](Constitution.md "体质")[豁免检定](Saving_throws.md "Saving throws")
 近战：1.5 米 (5 英尺)
 
-[飞行](Fly_(class_action).md "Fly (class action)") ()
+[飞行](Fly_(class_action).md "Fly (class action)")
 飞至目标位置
 
 范围：18 米 (60 英尺)

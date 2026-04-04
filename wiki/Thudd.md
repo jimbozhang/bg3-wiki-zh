@@ -3,15 +3,54 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
+| 声音 / 演员 | [Frazer Blaxland](https://www.imdb.com/name/nm7257504/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 5 |
-| 生命值 | 80 |
-| 护甲等级 | 13 |
-| 先攻 | +1 |
-| 经验值 | 75 |
+| 亚种 | [灰矮人](Duergar.md "Duergar") |
+| 职业 | [野蛮人](Barbarian.md "Barbarian") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 5 | 5 |
+| 生命值 | 80 | 80 |
+| 护甲等级 | 13 | 13 |
+| 先攻 | +1 | +1 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+
+**特性**
+
+- [危机感知](Danger_Sense.md "Danger Sense")
+- [灰矮人坚韧](Duergar_Resilience.md "Duergar Resilience")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [快速移动](Fast_Movement.md "Fast Movement")
+- [背水一战](Last_Stand.md "Last Stand")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
+
+**特性**
+
+- [危机感知](Danger_Sense.md "Danger Sense")
+- [灰矮人坚韧](Duergar_Resilience.md "Duergar Resilience")
+- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [快速移动](Fast_Movement.md "Fast Movement")
+- [背水一战](Last_Stand.md "Last Stand")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
+- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -55,7 +94,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [巨棒](Greatclub.md "Greatclub")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [巨棒](Greatclub.md "Greatclub")
 
 伤害：4~11
 
@@ -72,7 +111,7 @@
 
 范围：9 米 (30 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨棒](Greatclub.md "Greatclub")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨棒](Greatclub.md "Greatclub")
 
 伤害：4~11
 
@@ -90,7 +129,7 @@
 
 范围：自身
 
-[鲁莽攻击](Reckless_Attack.md "Reckless Attack") ()
+[鲁莽攻击](Reckless_Attack.md "Reckless Attack")
 
 伤害：
 
@@ -102,7 +141,7 @@
 
 范围：正常武器范围
 
-[韧性](Tenacity.md "Tenacity") () – [巨棒](Greatclub.md "Greatclub")
+[韧性](Tenacity.md "Tenacity") – [巨棒](Greatclub.md "Greatclub")
 
 伤害：3
 
@@ -110,7 +149,7 @@
 
 当你攻击未命中时，仍会造成等于你的[力量](Strength.md "Strength") [调整值](Ability_Scores.md#Ability_score_modifiers "Ability scores")的[钝击](Bludgeoning.md "Bludgeoning")伤害（最小值为 1）。
 
-[投掷](Throw.md "Throw") () – [标枪](Javelin.md "Javelin")
+[投掷](Throw.md "Throw") – [标枪](Javelin.md "Javelin")
 
 伤害：4~9
 

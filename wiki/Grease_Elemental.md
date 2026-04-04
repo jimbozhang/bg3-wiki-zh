@@ -21,7 +21,7 @@
 
 ### 攻击与能力
 
-[猛击](Slam_(Grease_Elemental).md "猛击 (油脂元素)") ()
+[猛击](Slam_(Grease_Elemental).md "猛击 (油脂元素)")
 
 伤害：8~36
 

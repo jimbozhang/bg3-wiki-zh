@@ -125,7 +125,7 @@
 
 ### 等级 2
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") ()
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击")
 抛开所有谨慎，使你的近战[攻击掷骰](Attack_roll.md "攻击掷骰")获得[优势](Advantage.md "优势")。直到你的下一回合，你在攻击掷骰上具有优势，但敌人在对你的攻击掷骰上也具有优势。
 
 [危机感知](Danger_Sense.md "危机感知")

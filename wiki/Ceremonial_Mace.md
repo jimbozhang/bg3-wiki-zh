@@ -23,7 +23,7 @@ UID `S_CRE_Abbot1_Weapon` UUID `5a948b12-ca43-4256-9821-0d151036dbd1` Stats `WPN
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 用全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

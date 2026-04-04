@@ -3,15 +3,47 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Joshua B. Sklar](https://www.imdb.com/name/nm9157161/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [Joshua B. Sklar](https://www.imdb.com/name/nm9157161/) |
+| 家乡 | [拉玛吉斯高塔](Ramazith's_Tower.md "Ramazith's Tower"), [博德之门](Baldur's_Gate.md "Baldur's Gate"), ⁠[阿斯卡特拉](https://forgottenrealms.fandom.com/wiki/Athkatla) |
+| 体型 | [中型](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 10 |
-| 生命值 | 98 |
-| 护甲等级 | 12 |
-| 先攻 | +2 |
-| 经验值 | 400 |
+| 职业 | [法师](Wizard.md "Wizard") |
+| 副职 | [塑能学派](Evocation_School.md "Evocation School") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 98 | 68 | 127 |
+| 护甲等级 | 12 | 12 | 12 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +4 | +6 | +4 |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 400 | 400 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 14 / (+2) | 14 / (+2) | 19 / (+4) | 15 / (+2) | 16 / (+3) |
+
+**特性**
+
+- [奥术增强](Arcane_Enchantment_(+1).md "Arcane Enchantment (+1)")
+- [元素叱喝](Elemental_Retort_(passive_feature).md "Elemental Retort (passive feature)")
+- [元素吸取](Elemental_Siphon.md "Elemental Siphon")
+- [强效塑能](Empowered_Evocation.md "Empowered Evocation")
+- [预兆戏法](Potent_Cantrip.md "Potent Cantrip")
+- [法术塑形](Sculpt_Spells.md "Sculpt Spells")
+- [法术抗性](Spell_Resistance.md "Spell Resistance")
+
+**特性**
+
+- [奥术增强](Arcane_Enchantment_(+1).md "Arcane Enchantment (+1)")
+- [元素叱喝](Elemental_Retort_(passive_feature).md "Elemental Retort (passive feature)")
+- [元素吸取](Elemental_Siphon.md "Elemental Siphon")
+- [强效塑能](Empowered_Evocation.md "Empowered Evocation")
+- [预兆戏法](Potent_Cantrip.md "Potent Cantrip")
+- [法术塑形](Sculpt_Spells.md "Sculpt Spells")
+- [法术抗性](Spell_Resistance.md "Spell Resistance")
 
 **洛若坎**是[巫术杂物店](Sorcerous_Sundries.md "Sorcerous Sundries")的[人类](Human.md "Human")店主，在[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")的[第三幕](Act_Three.md "Act Three")中相遇。他可以在[拉玛吉斯高塔](Ramazith's_Tower.md "Ramazith's Tower")找到，从[下城区](Lower_City.md "Lower City")的[博德之门](Baldur's_Gate.md "Baldur's Gate")的巫术杂物店传送过去。
 

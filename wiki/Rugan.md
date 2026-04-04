@@ -3,16 +3,35 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Dean Williamson](https://www.imdb.com/name/nm0932017/) |
+| 声音 / 演员 | [Dean Williamson](https://www.imdb.com/name/nm0932017/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 4 |
-| 生命值 | 28 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 40 |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 4 | 4 | 4 |
+| 生命值 | 28 | 19 | 36 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 40 | 40 | 40 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 12 / (+1) | 14 / (+2) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **鲁根**是一位[人类](Human.md "Human") [散塔林会](Zhentarim.md "Zhentarim")特工，可以在[晋升之路](The_Risen_Road.md "The_Risen Road")上的一个洞穴中找到，他被困在那里，拼命地试图抵挡[弗林德](Flind.md "Flind")的豺狼人群。
 
@@ -106,7 +125,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "华舞") () – [短剑](Shortsword.md "短剑")
+[华舞](Flourish.md "华舞") – [短剑](Shortsword.md "短剑")
 
 伤害：1~4
 
@@ -118,7 +137,7 @@
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短剑](Shortsword.md "短剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短剑](Shortsword.md "短剑")
 
 伤害：4~9
 
@@ -128,7 +147,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[移动射击](Mobile_Shot.md "移动射击") () – [手弩](Hand_Crossbow.md "手弩")
+[移动射击](Mobile_Shot.md "移动射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -139,7 +158,7 @@
 范围：15 米 (50 英尺)
 冷却：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [手弩](Hand_Crossbow.md "手弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -153,7 +172,7 @@
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [短剑](Shortsword.md "短剑")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [短剑](Shortsword.md "短剑")
 
 伤害：4~9
 
@@ -167,7 +186,7 @@
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [手弩](Hand_Crossbow.md "手弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -177,7 +196,7 @@
 
 范围：18 米 (60 英尺)
 
-[炼金火焰](Alchemist's_Fire_(action).md "炼金火焰 (动作)") ()
+[炼金火焰](Alchemist's_Fire_(action).md "炼金火焰 (动作)")
 
 伤害：1~4
 

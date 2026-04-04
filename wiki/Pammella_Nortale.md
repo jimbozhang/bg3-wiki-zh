@@ -3,16 +3,39 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [克劳迪娅·卡德特](https://www.imdb.com/name/nm1534806/) |
+| 声音 / 演员 | [克劳迪娅·卡德特](https://www.imdb.com/name/nm1534806/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半身人](Halfling.md "Halfling") |
+| 亚种 | [轻足半身人](Lightfoot_Halfling.md "Lightfoot halfling") |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 生命值 | 8 |
 | 护甲等级 | 10 |
 | 先攻 | 0 |
+| 熟练项 | +2 |
 | 移动速度 | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) |
+| 暗视 | 0 米 (0 英尺) |
 | 经验值 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [勇敢](Brave.md "Brave")
+- [半身人幸运](Halfling_Luck.md "Halfling Luck")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [勇敢](Brave.md "Brave")
+- [半身人幸运](Halfling_Luck.md "Halfling Luck")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **帕梅拉·诺泰尔**是[博德之门](Baldur's_Gate.md "Baldur's Gate")的一名[半身人](Halfling.md "Halfling")。
 

@@ -17,7 +17,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨锤](Maul.md "巨锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨锤](Maul.md "巨锤")
 
 伤害：6~16
 

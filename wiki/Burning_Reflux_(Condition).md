@@ -14,7 +14,7 @@
 
 ## 赋予
 
-[火焰回流](Fiery_Regurgitation.md "火焰回流") ()
+[火焰回流](Fiery_Regurgitation.md "火焰回流")
 啜饮酿造师的特制烈酒会导致他呕吐火焰。（充能：每回合。）
 
 ## 备注

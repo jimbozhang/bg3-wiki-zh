@@ -31,13 +31,13 @@ UID `MAG_LowHP_IncreaseDamage_Greataxe` UUID `e1e090ec-ab8c-4db4-a0c3-8b7ab24bb1
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击3个敌人。每个敌人受到你武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[准备](Prepare.md "准备") ()
+[准备](Prepare.md "准备")
 消耗6米（20英尺）的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击造成额外的力量调整值⁠⁠[物理](Physical.md "物理")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害（最低1点）。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

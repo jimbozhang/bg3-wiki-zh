@@ -41,7 +41,7 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [重弩](Heavy_Crossbow.md "重弩")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [重弩](Heavy_Crossbow.md "重弩")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "移动速度")。在你本回合剩余时间内，投掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "短休")
@@ -61,13 +61,13 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[灰矮人隐形](Invisibility_(Duergar).md "灰矮人隐形") ()
+[灰矮人隐形](Invisibility_(Duergar).md "灰矮人隐形")
 进入隐形状态。
 
 射程：自身
 充能：每次战斗
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：3~6
 
@@ -77,7 +77,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [重弩](Heavy_Crossbow.md "重弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：3~12
 
@@ -91,7 +91,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：3~6
 
@@ -105,7 +105,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：3~12
 

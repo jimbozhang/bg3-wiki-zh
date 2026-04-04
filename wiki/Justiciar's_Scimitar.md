@@ -35,17 +35,17 @@ UID `MAG_Justiciar_Scimitar` UUID `74ecc6e4-ee5d-4cd8-96cb-dd677a4acc82` Stats `
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[摔翻打击](Backbreaker.md "摔翻打击") ()
+[摔翻打击](Backbreaker.md "摔翻打击")
 为你的打击施加额外力量，可能将敌人击至[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[浸影打击](Shadowsoaked_Blow.md "浸影打击") ()
+[浸影打击](Shadowsoaked_Blow.md "浸影打击")
 打击敌人，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")加到伤害上。此外，如果攻击命中，将额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害。此攻击不会打破隐蔽状态。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

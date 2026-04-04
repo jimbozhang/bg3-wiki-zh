@@ -35,12 +35,12 @@
 
 ### 攻击与能力
 
-[舞光术](Dancing_Lights_(Deep_Roth%C3%A9).md "Dancing Lights (Deep Rothé)") ()
+[舞光术](Dancing_Lights_(Deep_Roth%C3%A9).md "Dancing Lights (Deep Rothé)")
 照亮 9 米 / 30 英尺半径范围。
 
 射程：18 米 (60 英尺)
 
-[狂热冲锋](Frenzied_Charge.md "Frenzied Charge") ()
+[狂热冲锋](Frenzied_Charge.md "Frenzied Charge")
 
 伤害：1~8
 
@@ -50,7 +50,7 @@
 
 充能：每回合
 
-[顶撞](Gore_(Deep_Roth%C3%A9).md "Gore (Deep Rothé)") ()
+[顶撞](Gore_(Deep_Roth%C3%A9).md "Gore (Deep Rothé)")
 
 伤害：18~27
 

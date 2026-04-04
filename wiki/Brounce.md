@@ -6,11 +6,40 @@
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [侏儒](Gnome.md "侏儒") |
+| 亚种 | [地底侏儒](Deep_Gnome.md "地底侏儒") |
+| 职业 | [战士](Fighter.md "战士") |
+
+| | |
+| --- | --- |
 | 等级 | 10 |
 | 生命值 | 20 |
 | 护甲等级 | 10 |
 | 先攻 | +2 |
+| 熟练项 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) |
+| 暗视 | 24 米 (80 英尺) |
 | 经验值 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 14 / (+2) | 15 / (+2) | 12 / (+1) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [小步奔行](Shortened_Stride.md "小步奔行")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
+
+**特性**
+
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [小步奔行](Shortened_Stride.md "小步奔行")
+- [岩石伪装](Stone_Camouflage.md "岩石伪装")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 **铁盾布朗斯**是[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一名[铁手氏族](Clan_Ironhand.md "铁手氏族")侏儒。
 
@@ -33,7 +62,7 @@
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [战锤](Warhammer.md "战锤")
+[摔翻打击](Backbreaker.md "摔翻打击") – [战锤](Warhammer.md "战锤")
 
 伤害：3~6
 
@@ -45,7 +74,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [战锤](Warhammer.md "战锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [战锤](Warhammer.md "战锤")
 
 伤害：3~10
 
@@ -57,7 +86,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [战锤](Warhammer.md "战锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [战锤](Warhammer.md "战锤")
 
 伤害：3~10
 
@@ -67,7 +96,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [战锤](Warhammer.md "战锤")
+[弱化打击](Weakening_Strike.md "弱化打击") – [战锤](Warhammer.md "战锤")
 
 伤害：3~6
 

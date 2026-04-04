@@ -120,7 +120,7 @@
 
 ### 攻击与能力
 
-[跛足打击](Maiming_Strike.md "Maiming Strike") () – [战镐](War_Pick.md "War Pick")
+[跛足打击](Maiming_Strike.md "Maiming Strike") – [战镐](War_Pick.md "War Pick")
 
 伤害：5~8
 
@@ -134,7 +134,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [战镐](War_Pick.md "War Pick")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [战镐](War_Pick.md "War Pick")
 
 伤害：5~12
 
@@ -144,7 +144,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [战镐](War_Pick.md "War Pick")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [战镐](War_Pick.md "War Pick")
 
 伤害：5~12
 
@@ -158,7 +158,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[弱化打击](Weakening_Strike.md "Weakening Strike") () – [战镐](War_Pick.md "War Pick")
+[弱化打击](Weakening_Strike.md "Weakening Strike") – [战镐](War_Pick.md "War Pick")
 
 伤害：5~8
 

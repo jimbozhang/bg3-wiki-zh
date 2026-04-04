@@ -62,7 +62,7 @@
 
 ### 攻击与能力
 
-[死亡尖啸](Death_Shriek.md "死亡尖啸") ()
+[死亡尖啸](Death_Shriek.md "死亡尖啸")
 
 伤害: 3~9
 
@@ -72,7 +72,7 @@
 
 范围: 自身
 
-[头槌](Headbutt.md "头槌") ()
+[头槌](Headbutt.md "头槌")
 
 伤害: 0~6
 
@@ -83,7 +83,7 @@
 [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定")
 近战: 1.5 米 (5 英尺)
 
-[剧毒之罪](Venomous_Guilt.md "剧毒之罪") ()
+[剧毒之罪](Venomous_Guilt.md "剧毒之罪")
 
 伤害: 4~18
 

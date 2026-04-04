@@ -26,7 +26,7 @@ UID `WPN_HUM_Dart_A_2_NOT_APPROVED` UUID `e292c502-b116-4a46-a232-dd53f7838f6f` 
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") ()
+[备战（远程）](Brace_(Ranged).md "备战（远程）")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的本回合剩余时间内，进行两次远程伤害掷骰并取最高值。（充能：[短休](Short_rest.md "短休")。）
 
 ---

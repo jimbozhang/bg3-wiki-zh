@@ -3,15 +3,41 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Nneka Okoye](https://www.imdb.com/name/nm6143542/) |
+| 声音 / 演员 | [Nneka Okoye](https://www.imdb.com/name/nm6143542/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半精灵](Half-Elf.md "Half-elf") |
-| 等级 | 3 |
-| 生命值 | 25 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
-| 移动速度 | 9 m (30 ft) |
+| 亚种 | [半高精灵](High_Half-Elf.md "High half-elf") |
+| 职业 | [游侠](Ranger.md "Ranger") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 46 | 38 | 53 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 12 m (40 ft) | 12 m (40 ft) | 12 m (40 ft) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +2 | +2 | +2 | +6 | +4 | +1 |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 目录
 
@@ -38,7 +64,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "Flourish") () – [短剑](Shortsword.md "Shortsword")
+[华舞](Flourish.md "Flourish") – [短剑](Shortsword.md "Shortsword")
 
 伤害：1~4
 
@@ -50,7 +76,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [短剑](Shortsword.md "Shortsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [短剑](Shortsword.md "Shortsword")
 
 伤害：3~8
 
@@ -60,7 +86,7 @@
 
 近战：1.5 m (5 ft)
 
-[移动射击](Mobile_Shot.md "Mobile Shot") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[移动射击](Mobile_Shot.md "Mobile Shot") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害：3~8
 
@@ -71,7 +97,7 @@
 射程：15 m (50 ft)
 充能：[短休](Short_rest.md "Short rest")
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害：3~8
 
@@ -85,7 +111,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [短剑](Shortsword.md "Shortsword")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [短剑](Shortsword.md "Shortsword")
 
 伤害：3~8
 
@@ -99,7 +125,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害：3~8
 

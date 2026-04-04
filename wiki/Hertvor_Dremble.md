@@ -3,16 +3,39 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [丹·博顿利](https://www.imdb.com/name/nm7694024/) |
+| 声音 / 演员 | [丹·博顿利](https://www.imdb.com/name/nm7694024/) |
+| 职业 | _[博德之口公报](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")_ 的卫兵 |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 11 |
-| 生命值 | 93 |
-| 护甲等级 | 18 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 320 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 93 | 65 | 120 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20 / (+5) | 11 / (0) | 16 / (+3) | 10 / (0) | 15 / (+2) | 16 / (+3) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [战术铁律](Tactical_Discipline.md "Tactical Discipline")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [战术铁律](Tactical_Discipline.md "Tactical Discipline")
 
 **卫兵 赫特沃·德伦布尔**是[博德之门](Baldur's_Gate.md "Baldur's Gate")的一名[人类](Human.md "Human")卫兵。
 
@@ -39,7 +62,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [短矛](Spear.md "Spear")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [短矛](Spear.md "Spear")
 
 伤害：6~11
 
@@ -49,7 +72,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[移动射击](Mobile_Shot.md "Mobile Shot") ()
+[移动射击](Mobile_Shot.md "Mobile Shot")
 
 伤害：1~6
 
@@ -60,7 +83,7 @@
 射程：15 米 (50 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") ()
+[穿刺射击](Piercing_Shot.md "Piercing Shot")
 
 伤害：
 
@@ -74,7 +97,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [手弩](Hand_Crossbow.md "Hand Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [手弩](Hand_Crossbow.md "Hand Crossbow")
 
 伤害：1~6
 
@@ -84,7 +107,7 @@
 
 射程：18 米 (60 英尺)
 
-[突进攻击](Rush_Attack.md "Rush Attack") ()
+[突进攻击](Rush_Attack.md "Rush Attack")
 
 伤害：6~9
 
@@ -96,7 +119,7 @@
 射程：9 米 (30 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[命令之声](Voice_of_Command.md "Voice_of Command") ()
+[命令之声](Voice_of_Command.md "Voice_of Command")
 以黑暗之主之名命令一名盟友，让其引导[班恩之怒](Bane's_Wrath.md "Bane's Wrath")。
 
 射程：9 米 (30 英尺)

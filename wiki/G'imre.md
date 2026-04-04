@@ -67,7 +67,7 @@
 
 范围：自身
 
-[徒手打击](Unarmed_Strike_(Monk).md "徒手打击 (武僧)") ()
+[徒手打击](Unarmed_Strike_(Monk).md "徒手打击 (武僧)")
 
 伤害：5~8
 

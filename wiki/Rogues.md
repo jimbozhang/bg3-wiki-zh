@@ -120,23 +120,23 @@
 
 偷袭
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") ()
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）")
 对拥有[优势](Advantage.md "优势")的敌人造成额外1d6伤害。（充能：每回合。）
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") ()
+[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）")
 对拥有[优势](Advantage.md "优势")的敌人造成额外1d6伤害。（充能：每回合。）
 
 ### 等级 2
 
 灵巧动作
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
-[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离") ()
+[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离")
 安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。
 
-[灵巧动作：躲藏](Cunning_Action_colon__Hide.md "灵巧动作：躲藏") ()
+[灵巧动作：躲藏](Cunning_Action_colon__Hide.md "灵巧动作：躲藏")
 通过成功进行[隐匿](Stealth.md "隐匿")[检定](Ability_checks.md "属性检定")来躲避敌人。贴紧黑暗并避开敌人的视线。攻击或施法会暴露你的位置。
 
 ### 等级 3

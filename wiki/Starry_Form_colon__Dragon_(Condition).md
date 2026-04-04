@@ -7,7 +7,7 @@
 
 ## 赋予
 
-[炫目吐息](Dazzling_Breath.md "Dazzling Breath") ()
+[炫目吐息](Dazzling_Breath.md "Dazzling Breath")
 喷出炫目的星形锥形区域。（充能：每回合。）
 
 [解除变形](Dismiss_Wild_Shape.md "Dismiss Wild Shape")

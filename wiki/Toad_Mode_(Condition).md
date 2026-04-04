@@ -26,7 +26,7 @@
 | [变形](Polymorphed_(Tressym)_(Condition).md "变形 (翼猫) (状态)") | 变为野兽。 |
 | 蛤蟆模式 | 如果你不想思考，多利三世会让你缩小。 |
 
-[蛙毒](Bufotoxin.md "蛙毒") ()
+[蛙毒](Bufotoxin.md "蛙毒")
 触摸一个生物，并可能使其敏捷[豁免检定](Saving_throw.md "豁免检定")处于[劣势](Disadvantage.md "劣势")。
 
 向上、向下和向前跳跃。你的[力量](Strength.md "力量")影响你能跳多远。

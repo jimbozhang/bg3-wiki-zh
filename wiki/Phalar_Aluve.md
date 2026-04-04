@@ -34,20 +34,20 @@ UID `S_UND_SwordInStone_SwordReward` UUID `cc16c1cb-d355-47df-820a-33a83c42234b`
 
 - [表演](Performance.md "表演") +1
 
-[生离死别：旋律](Phalar_Aluve_colon__Melody.md "生离死别：旋律") ()
+[生离死别：旋律](Phalar_Aluve_colon__Melody.md "生离死别：旋律")
 剑在期待中嗡鸣，准备[吟唱](Phalar_Aluve_colon__Sing.md "生离死别：吟唱")或[尖啸](Phalar_Aluve_colon__Shriek.md "生离死别：尖啸")（参见各自页面的错误）。（充能：[短休](Short_rest.md "短休")。）
 
 ### 武器动作
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 斩向目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") ()
+[剑柄打击](Pommel_Strike.md "剑柄打击")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -35,10 +35,10 @@
 | 移动速度 | 6 米 (20 英尺) |  |  |  |  |
 | 体型 | 微型 |  |  |  |  |
 
-[巨斧挥砍](Greataxe_Slash.md "Greataxe Slash") ()
+[巨斧挥砍](Greataxe_Slash.md "Greataxe Slash")
 用你强大的头部劈砍目标。
 
-[割裂](Lacerate_(Spiritual_Weapon).md "Lacerate (Spiritual Weapon)") ()
+[割裂](Lacerate_(Spiritual_Weapon).md "Lacerate (Spiritual Weapon)")
 劈砍目标的要害部位使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 飞向目标位置

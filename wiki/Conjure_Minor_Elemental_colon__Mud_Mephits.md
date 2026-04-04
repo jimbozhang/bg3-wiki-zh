@@ -27,7 +27,7 @@
 | 护甲等级 | 11 |  |  |  |  |
 | 体型 | 微型 |  |  |  |  |
 
-[泥泞利爪](Muddy_Claws.md "Muddy_Claws") ()
+[泥泞利爪](Muddy_Claws.md "Muddy_Claws")
 用致命的拳头猛击。
 
 [扔泥巴](Mud_Fling.md "Mud_Fling")()

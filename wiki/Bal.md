@@ -77,7 +77,7 @@
 
 ### 攻击与能力
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") () – [地精弓](Goblin_Bow.md "地精弓")
+[腿筋射击](Hamstring_Shot.md "腿筋射击") – [地精弓](Goblin_Bow.md "地精弓")
 
 伤害：3~8
 
@@ -89,10 +89,10 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[灵活逃避](Nimble_Escape.md "灵活逃避") ()
+[灵活逃避](Nimble_Escape.md "灵活逃避")
 安全撤退：移动不会引发[借机攻击](Opportunity_Attack.md "借机攻击")。
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [地精弓](Goblin_Bow.md "地精弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [地精弓](Goblin_Bow.md "地精弓")
 
 伤害：3~8
 

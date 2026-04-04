@@ -3,15 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [丹妮拉·诺曼](https://www.imdb.com/name/nm9660531/) |
+| 声音 / 演员 | [丹妮拉·诺曼](https://www.imdb.com/name/nm9660531/) |
+| 家庭 | [维尔米娜](Vilmina.md "Vilmina")（伴侣） |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 10 |
-| 生命值 | 68 |
-| 护甲等级 | 14 |
-| 先攻 | 0 |
-| 经验值 | 250 |
+| 职业 | [黑暗破坏者](Dark_Breaker.md "Dark Breaker") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 68 | 47 | 88 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米（30 英尺） | 9 米（30 英尺） | 9 米（30 英尺） |
+| 重量 | 75 千克（150 磅） | 75 千克（150 磅） | 75 千克（150 磅） |
+| 暗视 | 0 米（0 英尺） | 0 米（0 英尺） | 0 米（0 英尺） |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 10 / (0) | 12 / (+1) | 16 / (+3) | 18 / (+4) | 12 / (+1) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -69,7 +82,7 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
 消耗 6 米（20 英尺）的[移动速度](Movement_speed.md "Movement Speed")。在本回合剩余时间内，投掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "Short rest")
@@ -104,7 +117,7 @@
 
 射程：18 米（60 英尺）
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [匕首](Dagger.md "Dagger")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [匕首](Dagger.md "Dagger")
 
 伤害：4~7
 
@@ -114,7 +127,7 @@
 
 近战：1.5 米（5 英尺）
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 伤害：4~7
 
@@ -128,7 +141,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
 
 伤害：2~11
 
@@ -142,7 +155,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
 
 伤害：2~11
 

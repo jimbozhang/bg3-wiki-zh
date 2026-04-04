@@ -103,7 +103,7 @@
 
 在硬核难度或更高难度下，不死狂怒还会永久赋予[鲁莽攻击](Reckless_Attack_(Condition).md "鲁莽攻击 (状态)")。
 
-[多重攻击](Multiattack_(Flesh).md "多重攻击 (肉肉)") ()
+[多重攻击](Multiattack_(Flesh).md "多重攻击 (肉肉)")
 
 伤害：18~74
 

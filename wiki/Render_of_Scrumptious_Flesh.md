@@ -32,20 +32,20 @@ UID `MAG_LC_Fleshred_Longsword` UUID `5c41bb72-9a50-4d98-a12a-0de374c43f19` ### 
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") ()
+[剑柄打击](Pommel_Strike.md "Pommel Strike")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标要害，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[突进攻击](Rush_Attack.md "Rush Attack") ()
+[突进攻击](Rush_Attack.md "Rush Attack")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[血肉分离](Part_the_Flesh.md "Part the Flesh") ()
+[血肉分离](Part_the_Flesh.md "Part the Flesh")
 以恶魔般的精准向前突刺，可能阻碍目标的治疗能力。（充能：[短休](Short_rest.md "短休")。）
 
 ## 画廊

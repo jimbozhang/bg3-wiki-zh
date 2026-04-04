@@ -20,9 +20,9 @@ _此副职获得其基础职业[野蛮人](Barbarian.md "野蛮人")的所有特
 [狂怒](Frenzy.md "狂怒") (+ )
 你的[狂暴](Rage_(Condition).md "狂暴（状态）")转变为狂乱！你获得[狂怒攻击](Frenzied_Strike.md "狂怒攻击")和[愤怒投掷](Enraged_Throw.md "愤怒投掷")。你还可以使用[即兴近战武器](Improvised_Melee_Weapon_(Bonus_Action).md "即兴近战武器（附赠动作）")进行攻击作为附赠动作。
 
-[狂怒攻击](Frenzied_Strike.md "狂怒攻击") ()
+[狂怒攻击](Frenzied_Strike.md "狂怒攻击")
 作为附赠动作，使用你装备的武器进行一次近战攻击。（充能：每回合一次。）
-[愤怒投掷](Enraged_Throw.md "愤怒投掷") ()
+[愤怒投掷](Enraged_Throw.md "愤怒投掷")
 拾起一个物品或生物并将其投向目标，造成额外伤害并将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")。
 
 ### 等级 6
@@ -32,7 +32,7 @@ _此副职获得其基础职业[野蛮人](Barbarian.md "野蛮人")的所有特
 
 ### 等级 10
 
-[威慑之姿](Intimidating_Presence.md "威慑之姿") ()
+[威慑之姿](Intimidating_Presence.md "威慑之姿")
 威吓一名敌人并使其陷入可怕的[恐惧](Fearful_(Condition).md "恐惧（状态）")。
 你可以使用[维持威慑之姿](Maintain_Intimidating_Presence.md "维持威慑之姿")来延长目标的恐惧时间。
 

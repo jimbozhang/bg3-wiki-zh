@@ -28,13 +28,13 @@ UID `WPN_HUM_Trident_A_1` UUID `2fab5801-76b1-4669-95d9-7df76bed12dd` ### 武器
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至 [失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加 [开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[缴械打击](Disarming_Strike.md "缴械打击") ()
+[缴械打击](Disarming_Strike.md "缴械打击")
 集中攻击对手的手部，可能迫使其掉落手中武器。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

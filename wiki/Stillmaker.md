@@ -26,20 +26,20 @@ UID `MAG_Bhaalist_Paralyzing_Dagger` UUID `0cfbd2ef-6eb3-4283-b0c9-8e23a4f9bf8c`
 
 **持有此物品者获得：**
 
-[人类定身术](Hold_Person.md "Hold Person") ()
+[人类定身术](Hold_Person.md "Hold Person")
 施放为 3 级法术（充能：[长休](Long_Rest.md "Long rest")。）
 
 ### 武器动作
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") ()
+[剑柄打击](Pommel_Strike.md "Pommel Strike")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") ()
+[穿刺打击](Piercing_Strike.md "Piercing Strike")
 刺击敌人，并可能造成[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

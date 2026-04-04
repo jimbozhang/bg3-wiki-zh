@@ -16,7 +16,7 @@
 
 ### 攻击与能力
 
-[野猪冲撞](Boar_Charge.md "野猪冲撞") ()
+[野猪冲撞](Boar_Charge.md "野猪冲撞")
 
 伤害：2~5
 
@@ -28,17 +28,17 @@
 
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 
-[疾走](Dash_(bonus_action).md "疾走（附赠动作）") ()
+[疾走](Dash_(bonus_action).md "疾走（附赠动作）")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
 范围：自身
 
-[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作") ()
+[撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作")
 安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。
 
 范围：自身
 
-[狂怒攻击](Frenzied_Strike_(Boar).md "狂怒攻击（野猪）") ()
+[狂怒攻击](Frenzied_Strike_(Boar).md "狂怒攻击（野猪）")
 
 伤害：3~8
 
@@ -48,17 +48,17 @@
 
 近战：1.5 米 (5 英尺)
 
-[协助](Help_(bonus_action).md "协助（附赠动作）") ()
+[协助](Help_(bonus_action).md "协助（附赠动作）")
 帮助需要帮助的盟友。移除[燃烧](Burning_(Condition).md "燃烧（状态）")、[倒地](Downed_(Condition).md "倒地（状态）")、\_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕（诱捕打击）（状态）")、[缠绕](Entangled_(Condition).md "缠绕（状态）")、[网缚](Enwebbed_(Condition).md "网缚（状态）")、[倒伏](Prone_(status_group).md), [沉睡](Sleeping_(Condition).md "沉睡（状态）")。
 
 范围：1.5 米 (5 英尺)
 
-[激起淤泥](Kick_Up_Muck.md "激起淤泥") ()
+[激起淤泥](Kick_Up_Muck.md "激起淤泥")
 将目标裹满泥巴，使其[浑身泥泞](Mud-Drenched.md "浑身泥泞")。
 
 范围：自身
 
-[狂暴](Rage_(Boar).md "狂暴（野猪）") ()
+[狂暴](Rage_(Boar).md "狂暴（野猪）")
 
 进入狂乱状态，增大体型并通过原始愤怒变得更强。
 
@@ -69,7 +69,7 @@
 范围：自身
 充能：每场战斗
 
-[牙撕攻击](Tusk_Attack_(Boar).md "牙撕攻击（野猪）") ()
+[牙撕攻击](Tusk_Attack_(Boar).md "牙撕攻击（野猪）")
 
 伤害：3~8
 

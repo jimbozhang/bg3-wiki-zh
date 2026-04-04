@@ -34,7 +34,7 @@ UID `WPN_HUM_Mace_Adamantine_A` UUID `df08ec01-52f0-4fdf-b5e7-4fa0970a480a` Stat
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

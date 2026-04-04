@@ -5,10 +5,34 @@
 | 体型 | [巨型](Huge.md "Huge") |
 | 类型 | [龙](Dragon.md "Dragon") |
 | 种族 | [龙](Dragon.md "Dragon") |
-| 等级 | 17 |
-| 生命值 | 400 |
-| 护甲等级 | 19 |
-| 先攻 | 0 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 17 | 17 | 17 |
+| 生命值 | 400 | 280 | 520 |
+| 护甲等级 | 19 | 19 | 19 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +6 | +8 | +6 |
+| 施法DC | 17 (智力) | 19 (智力) | 19 (智力) |
+| 重量 | 6000 千克 (12000 磅) | 6000 千克 (12000 磅) | 6000 千克 (12000 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 27 / (+8) | 10 / (0) | 25 / (+7) | 16 / (+3) | 13 / (+1) | 21 / (+5) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [古龙鳞甲](Great_Wyrm's_Scales.md "Great Wyrm's Scales")
+- [魔法抗性](Magic_Resistance.md "Magic Resistance")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [古龙鳞甲](Great_Wyrm's_Scales.md "Great Wyrm's Scales")
+- [魔法抗性](Magic_Resistance.md "Magic Resistance")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -54,7 +78,7 @@
 
 ### 攻击与能力
 
-[火焰吐息](Fire_Breath_(Dragons).md "Fire Breath (Dragons)") ()
+[火焰吐息](Fire_Breath_(Dragons).md "Fire Breath (Dragons)")
 
 伤害：14~84
 
@@ -66,20 +90,20 @@
 范围：30 米 (100 英尺)
 冷却：每回合
 
-[飞行](Fly_(Dragons).md "Fly (Dragons)") ()
+[飞行](Fly_(Dragons).md "Fly (Dragons)")
 拍打龙翼，开始飞行。
 
 范围：30 米 (100 英尺)
 冷却：每回合
 
-[骇人威仪](Frightful_Presence.md "Frightful Presence") ()
+[骇人威仪](Frightful_Presence.md "Frightful Presence")
 散发恐怖，使你的敌人[恐惧](Fearful_(Condition).md "Fearful (Condition)")。
 
 [感知](Wisdom.md "Wisdom") [豁免](Saving_throws.md "Saving throws")
 范围：自身
 冷却：每回合
 
-[多重攻击](Multiattack_(Red_Dragon).md "Multiattack (Red Dragon)") ()
+[多重攻击](Multiattack_(Red_Dragon).md "Multiattack (Red Dragon)")
 
 伤害：27~96
 

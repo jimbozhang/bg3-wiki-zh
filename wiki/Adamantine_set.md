@@ -26,10 +26,10 @@
 
 - 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。
 
-[盾牌猛击](Shield_Blow.md "盾牌猛击") ()
+[盾牌猛击](Shield_Blow.md "盾牌猛击")
 | 名称 | 装备栏位 | 效果 | 模具 |
 | --- | --- | --- | --- |
-| 精金盾牌 | [副手近战](Off-Hand_Melee.md "副手近战") ([盾牌](Shields.md "盾牌")) | 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。[盾牌猛击](Shield_Blow.md "盾牌猛击") () 当敌人用近战攻击命中你时，你可以使用你的[反应](reaction.md "反应")将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。[精金盾牌](Adamantine_Shield_(passive_feature).md "精金盾牌（被动特性）")当近战攻击未命中你时，攻击者将陷入[手酸臂软](Reeling_(Condition).md "手酸臂软（状态）")状态，持续2回合。 | [盾牌模具](Shield_Mould.md "盾牌模具") |
+| 精金盾牌 | [副手近战](Off-Hand_Melee.md "副手近战") ([盾牌](Shields.md "盾牌")) | 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用你的[反应](reaction.md "反应")将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。[精金盾牌](Adamantine_Shield_(passive_feature).md "精金盾牌（被动特性）")当近战攻击未命中你时，攻击者将陷入[手酸臂软](Reeling_(Condition).md "手酸臂软（状态）")状态，持续2回合。 | [盾牌模具](Shield_Mould.md "盾牌模具") |
 | [盾牌模具](Shield_Mould.md "盾牌模具") |  |  |  |
 
 ### 武器
@@ -62,7 +62,7 @@
 - 攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。
 - 获得对[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。
 
-[猎人印记](Hunter's_Mark.md "猎人印记") ()
+[猎人印记](Hunter's_Mark.md "猎人印记")
 作为1级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 ---

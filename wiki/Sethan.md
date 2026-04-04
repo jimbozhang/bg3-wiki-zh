@@ -23,23 +23,23 @@ UID `MAG_SpiritualStand_Greataxe` UUID `7bbc2408-14de-4129-bab0-db29927b7f43` ##
 
 **持有此物品获得：**
 
-[塞山：灵体巨斧](Sethan_colon__Spiritual_Greataxe.md "塞山：灵体巨斧") ()
+[塞山：灵体巨斧](Sethan_colon__Spiritual_Greataxe.md "塞山：灵体巨斧")
 在你能看见的地点召唤塞山的灵体分身，命中时造成 3d8 + 1 + [施法调整值](Spells.md#Spellcasting_ability "法术")[力场](Force.md "力场") 伤害。（充能：[长休](Long_Rest.md "长休")。）
 
-[塞山：缩小](Sethan_colon__Reduce.md "塞山：缩小") ()
+[塞山：缩小](Sethan_colon__Reduce.md "塞山：缩小")
 使一个生物变小。其武器伤害减少 **1d4**（最小为1伤害）。其[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。（充能：[长休](Long_Rest.md "长休")。）
 
 ### 武器动作
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击3个敌人。每个敌人受到你武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[准备](Prepare.md "准备") ()
+[准备](Prepare.md "准备")
 消耗 6 m (20 ft) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害（最小为1）。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -36,7 +36,7 @@
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [战锤](Warhammer.md "战锤")
+[摔翻打击](Backbreaker.md "摔翻打击") – [战锤](Warhammer.md "战锤")
 
 伤害：2~5
 
@@ -54,7 +54,7 @@
 [魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [战锤](Warhammer.md "战锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [战锤](Warhammer.md "战锤")
 
 伤害：2~9
 
@@ -71,7 +71,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [战锤](Warhammer.md "战锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [战锤](Warhammer.md "战锤")
 
 伤害：2~9
 
@@ -81,7 +81,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[圣火术](Sacred_Flame.md "圣火术") ()
+[圣火术](Sacred_Flame.md "圣火术")
 
 伤害：1~8
 
@@ -92,7 +92,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [战锤](Warhammer.md "战锤")
+[弱化打击](Weakening_Strike.md "弱化打击") – [战锤](Warhammer.md "战锤")
 
 伤害：2~5
 

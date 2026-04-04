@@ -16,7 +16,7 @@
 
 - [威吓](Intimidation.md "威吓") +2
 
-[恐吓攻击（近战）](Menacing_Attack_(Bonespike_Helmet).md "恐吓攻击（骨刺头盔）") ()
+[恐吓攻击（近战）](Menacing_Attack_(Bonespike_Helmet).md "恐吓攻击（骨刺头盔）")
 可能[恐慌](Frightened_(Condition).md "恐慌（状态）")你的目标。他们将在[检定](Ability_checks.md "检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。（充能：每回合。）
 
 [怒入骨髓](Fury_In_The_Marrow.md "怒入骨髓")

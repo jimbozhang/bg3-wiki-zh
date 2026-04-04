@@ -30,20 +30,20 @@ UID `MAG_WYRM_UndeadBane_GreatAxe` UUID `9a81cb70-6a5c-465b-b4b9-0931d544095c` S
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击3个敌人。每个敌人受到你武器通常伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[准备](Prepare.md "准备") ()
+[准备](Prepare.md "准备")
 消耗6米（20英尺）的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害（最低1点）。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[亵渎灾祸](Profane_Scourge.md "亵渎灾祸") ()
+[亵渎灾祸](Profane_Scourge.md "亵渎灾祸")
 以征服性的狂怒进行打击，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")添加到伤害掷骰中。如果你击中[邪魔](Fiend.md "Fiend")或[不死生物](Undead.md "Undead")生物，造成额外的2d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害，并可能使其[灾祸](Bane_(Condition).md "灾祸（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

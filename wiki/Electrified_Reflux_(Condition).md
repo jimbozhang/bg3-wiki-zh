@@ -14,7 +14,7 @@
 
 ## 赋予
 
-[闪电回流](Electrified_Regurgitation.md "闪电回流") ()
+[闪电回流](Electrified_Regurgitation.md "闪电回流")
 啜饮酿酒师的特制佳酿会使他呕吐出带电的液体，可[震慑](Stunned_(Condition).md "震慑 (状态)")击中的目标。（充能：每回合。）
 
 ## 注释

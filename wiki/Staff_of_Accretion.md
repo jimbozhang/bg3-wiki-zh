@@ -35,7 +35,7 @@ UID `MAG_CQCaster_GainArcaneChargeOnDamage_Quarterstaff` UUID `26c24ccf-8f4a-44a
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[摔绊](Topple.md "Topple") ()
+[摔绊](Topple.md "Topple")
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 备注

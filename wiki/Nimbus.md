@@ -14,7 +14,7 @@
 
 ## 战斗
 
-[不祥啃咬](Ominous_Bite.md "不祥啃咬") ()
+[不祥啃咬](Ominous_Bite.md "不祥啃咬")
 
 伤害：3~18
 
@@ -25,7 +25,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[暗影缠绕](Umbral_Tangle.md "暗影缠绕") ()
+[暗影缠绕](Umbral_Tangle.md "暗影缠绕")
 
 伤害：2~12
 
@@ -38,12 +38,12 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 范围：自身
 
-[暗影分裂](Splinter_Shadow.md "暗影分裂") ()
+[暗影分裂](Splinter_Shadow.md "暗影分裂")
 当你受到不造成[光耀伤害](Radiant_damage.md "光耀伤害")的近战攻击时，分裂出一部分自身，从暗影中生成一个新的版本。
 
 此外，当移动到友方[被诅咒的幽鬼](Accursed_Spectre.md "被诅咒的幽鬼")相邻位置时，尼姆巴斯会获得 \_(状态)[暗影灌注](Shadow_Infusion_(Hound_of_Ill_Omen)_(Condition).md "暗影灌注（凶兆猎犬）（状态）") 状态，该状态会赋予幽鬼一个特殊反应，直到下一次长休。当召唤者用近战武器攻击击中目标时，会触发该反应。
 
-[在你身后](Right_Behind_You.md "在你身后") ()
+[在你身后](Right_Behind_You.md "在你身后")
 
 伤害：1~12 + 调整值
 

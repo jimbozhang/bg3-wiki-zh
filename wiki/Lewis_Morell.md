@@ -5,10 +5,38 @@
 | 体型 | 中型 |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 70 |
-| 护甲等级 | 16 |
-| 先攻 | 0 |
+| 职业 | [圣武士](Paladin.md "Paladin") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 70 | 49 | 91 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
+
+**特性**
+
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [坚韧复仇](Relentless_Avenger.md "Relentless Avenger")
+
+**特性**
+
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [坚韧复仇](Relentless_Avenger.md "Relentless Avenger")
 
 ## 状态
 

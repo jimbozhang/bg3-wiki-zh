@@ -3,16 +3,45 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Richard Cotton](https://www.imdb.com/name/nm1376812/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [Richard Cotton](https://www.imdb.com/name/nm1376812/) |
+| 体型 | [中型](Medium.md "中型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
-| 等级 | 12 |
-| 生命值 | 135 |
-| 护甲等级 | 17 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 400 |
+| 职业 | [战士](Fighter.md "战士") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 12 | 12 | 12 |
+| 生命值 | 135 | 94 | 175 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +2 | +2 | +3 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 400 | 400 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 15 / (+2) | 17 / (+3) | 16 / (+3) | 14 / (+2) | 17 / (+3) |
+
+**特性**
+
+- [吉斯灵能抗性](Githborn_Psionic_Resistance.md "吉斯灵能抗性")
+- [吉斯灵能武器](Githborn_Psionic_Weapon_(1d6).md "吉斯灵能武器 (1d6)")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+- [极效吉斯洋基招架](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
+
+**特性**
+
+- [吉斯灵能抗性](Githborn_Psionic_Resistance.md "吉斯灵能抗性")
+- [吉斯灵能武器](Githborn_Psionic_Weapon_(1d6).md "吉斯灵能武器 (1d6)")
+- [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+- [极效吉斯洋基招架](Supreme_Githyanki_Parry.md "极效吉斯洋基招架")
 
 ## 状态
 
@@ -31,10 +60,6 @@
 - \_(状态)[准备招架](Ready_to_Parry_(Supreme)_(Condition).md "准备招架 (极效) (状态)")
 
 使用反应使下一次武器攻击伤害减少20，前提是他们装备[巨剑](Greatswords.md "巨剑")且未目盲、失能或束缚。
-
-属性
-
-属性
 
 **凯斯拉克百夫长沃斯**是效忠于其女王[维拉基斯](Vlaakith.md "维拉基斯")的冷酷[吉斯洋基人](Githyanki.md "吉斯洋基人")骑士。他骑乘着名为[奎德诺斯](Qudenos.md "奎德诺斯")的红龙。
 
@@ -135,7 +160,7 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-[星界步伐](Astral_Step.md "星界步伐") ()
+[星界步伐](Astral_Step.md "星界步伐")
 被银色雾气包围，你传送至一个你可见的未被占据的空间。
 
 范围：18 米 (60 英尺)
@@ -148,7 +173,7 @@
 
 范围：自身
 
-[割裂](Lacerate.md "割裂") () – [沃斯的银剑](Voss'_Silver_Sword.md "沃斯的银剑")
+[割裂](Lacerate.md "割裂") – [沃斯的银剑](Voss'_Silver_Sword.md "沃斯的银剑")
 
 伤害：9~19
 
@@ -164,7 +189,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [沃斯的银剑](Voss'_Silver_Sword.md "沃斯的银剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [沃斯的银剑](Voss'_Silver_Sword.md "沃斯的银剑")
 
 伤害：9~19
 
@@ -176,7 +201,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [沃斯的银剑](Voss'_Silver_Sword.md "沃斯的银剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [沃斯的银剑](Voss'_Silver_Sword.md "沃斯的银剑")
 
 伤害：1~4
 
@@ -188,7 +213,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [沃斯的银剑](Voss'_Silver_Sword.md "沃斯的银剑")
+[突进攻击](Rush_Attack.md "突进攻击") – [沃斯的银剑](Voss'_Silver_Sword.md "沃斯的银剑")
 
 伤害：6~9
 

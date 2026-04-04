@@ -23,20 +23,20 @@ UID `MAG_Colossal_Greatsword` UUID `26ac9758-19f4-4867-9d5d-57437d6b9794` 统计
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") ()
+[剑柄打击](Pommel_Strike.md "剑柄打击")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击3个敌人。他们各自承受你武器通常造成伤害的一半。 (充能：[短休](Short_rest.md "短休")。)
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[巨大冲击](Colossal_Onslaught.md "巨大冲击") ()
+[巨大冲击](Colossal_Onslaught.md "巨大冲击")
 引导你坚韧的力量，攻击一条直线上的所有生物，造成额外 ⁠[挥砍](Slashing.md "挥砍")伤害，伤害值等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

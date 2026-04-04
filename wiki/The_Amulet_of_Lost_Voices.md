@@ -14,7 +14,7 @@
 
 佩戴此物品获得：
 
-[死者交谈](Speak_with_Dead.md "Speak_with_Dead") ()
+[死者交谈](Speak_with_Dead.md "Speak_with_Dead")
 以3级法术施放（充能：[长休](Long_Rest.md "Long_Rest")。）
 
 ## 获取地点

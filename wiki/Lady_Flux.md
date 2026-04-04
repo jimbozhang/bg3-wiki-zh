@@ -3,15 +3,61 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Mia Foo](https://www.imdb.com/name/nm8046695/) |
+| 声音 / 演员 | [Mia Foo](https://www.imdb.com/name/nm8046695/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [精灵](Elf.md "精灵") |
-| 等级 | 11 |
-| 生命值 | 104 |
-| 护甲等级 | 13 |
-| 先攻 | 0 |
-| 经验值 | 320 |
+| 亚种 | [高精灵](High_Elf.md "高精灵") |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
+| 副职 | [荒蛮之心](Wildheart.md "荒蛮之心") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 104 | 72 | 135 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 11 / (0) | 17 / (+3) | 10 / (0) | 12 / (+1) | 11 / (0) |
+
+**特性**
+
+- [适应舞弊](Adaptable_Skullduggery.md "适应舞弊")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
+- [危机感知](Danger_Sense.md "危机感知")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快手](Fast_Hands.md "快手")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "巨武器大师：全力一击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
+
+**特性**
+
+- [适应舞弊](Adaptable_Skullduggery.md "适应舞弊")
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
+- [危机感知](Danger_Sense.md "危机感知")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快手](Fast_Hands.md "快手")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "巨武器大师：全力一击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
+- [凶蛮打手](Savage_Attacker.md "凶蛮打手")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
 
 **弗勒克斯女士**是女士法庭的一员，[九指基恩](Nine-Fingers_Keene.md "九指基恩")的精英保镖之一，也是[公会](The_Guild.md "公会")的一部分。
 
@@ -31,7 +77,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨斧 +1](Greataxe_+1.md "巨斧 +1")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨斧 +1](Greataxe_+1.md "巨斧 +1")
 
 伤害：6~17
 
@@ -49,7 +95,7 @@
 
 范围：自身
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") () – [巨斧 +1](Greataxe_+1.md "巨斧 +1")
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") – [巨斧 +1](Greataxe_+1.md "巨斧 +1")
 
 伤害：6~17
 
@@ -61,7 +107,7 @@
 
 范围：正常武器范围
 
-[多变偷袭（近战）](Versatile_Sneak_Attack_(Melee).md "多变偷袭（近战）") () – [巨斧 +1](Greataxe_+1.md "巨斧 +1")
+[多变偷袭（近战）](Versatile_Sneak_Attack_(Melee).md "多变偷袭（近战）") – [巨斧 +1](Greataxe_+1.md "巨斧 +1")
 
 伤害：12~53
 
@@ -76,7 +122,7 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远的距离：你的[移动速度](Movement_speed.md "移动速度")翻倍。
 
 范围：自身

@@ -3,15 +3,71 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Jack Maddison](https://www.imdb.com/name/nm13354855/) |
+| 声音 / 演员 | [Jack Maddison](https://www.imdb.com/name/nm13354855/) |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [侏儒](Gnome.md "侏儒") |
-| 等级 | 12 |
-| 生命值 | 97 |
-| 护甲等级 | 16 |
-| 先攻 | +4 |
-| 经验值 | 400 |
+| 亚种 | [岩侏儒](Rock_Gnome.md "岩侏儒") |
+| 职业 | [武僧](Monk.md "武僧") |
+| 副职 | [暗影宗](Way_of_Shadow.md "暗影宗") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 12 | 12 | 12 |
+| 生命值 | 97 | 67 | 126 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 400 | 400 | 400 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8 / (-1) | 18 / (+4) | 13 / (+1) | 10 / (0) | 14 / (+2) | 12 / (+1) |
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "拨挡飞弹（被动特性）")
+- [反射闪避](Evasion.md "反射闪避")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快手](Fast_Hands.md "快手")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
+- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")
+- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武艺：灵巧打击")
+- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：敏捷攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [百病不侵](Purity_of_Body.md "百病不侵")
+- [小步奔行](Shortened_Stride.md "小步奔行")
+- [轻身坠](Slow_Fall.md "轻身坠")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "心如止水（被动特性）")
+- [无甲防御](Unarmoured_Defence_(Monk).md "无甲防御（武僧）")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "拨挡飞弹（被动特性）")
+- [反射闪避](Evasion.md "反射闪避")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快手](Fast_Hands.md "快手")
+- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
+- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")
+- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武艺：灵巧打击")
+- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：敏捷攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [百病不侵](Purity_of_Body.md "百病不侵")
+- [小步奔行](Shortened_Stride.md "小步奔行")
+- [轻身坠](Slow_Fall.md "轻身坠")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "心如止水（被动特性）")
+- [无甲防御](Unarmoured_Defence_(Monk).md "无甲防御（武僧）")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -72,7 +128,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：5~8
 
@@ -82,7 +138,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：5~8
 
@@ -96,7 +152,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") ()
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）")
 
 伤害：1~6
 
@@ -122,7 +178,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[暗影步](Shadow_Step.md "暗影步") ()
+[暗影步](Shadow_Step.md "暗影步")
 从[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")传送到阴影。之后，你的下一次近战[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
 范围：18 米 (60 英尺)

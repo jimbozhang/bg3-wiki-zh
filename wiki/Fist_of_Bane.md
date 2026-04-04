@@ -37,7 +37,7 @@
 
 ### 攻击与能力
 
-[班恩之怒](Bane's_Wrath.md "班恩之怒") ()
+[班恩之怒](Bane's_Wrath.md "班恩之怒")
 
 伤害：6~36
 
@@ -50,7 +50,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [硬头锤 +1](Mace_+1.md "硬头锤 +1")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [硬头锤 +1](Mace_+1.md "硬头锤 +1")
 
 伤害：6~11
 

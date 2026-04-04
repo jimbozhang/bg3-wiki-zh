@@ -3,16 +3,29 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Robert G. Slade](https://www.imdb.com/name/nm0805195/) |
+| 声音 / 演员 | [Robert G. Slade](https://www.imdb.com/name/nm0805195/) |
+| 家乡 | [恐怖窟窿](Dread_Hollow.md "Dread Hollow"), [幽暗地域](Underdark.md "Underdark") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [卓尔](Drow.md "Drow") |
-| 等级 | 5 |
-| 生命值 | 32 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 75 |
+| 亚种 | [罗丝誓约卓尔](Lolth-Sworn_Drow.md "Lolth-sworn drow") |
+| 职业 | [法师](Wizard.md "Wizard") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 5 | 5 |
+| 生命值 | 32 | 41 |
+| 护甲等级 | 11 | 11 |
+| 先攻 | +1 | +1 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 16 米 (53 英尺) | 16 米 (53 英尺) |
+| 经验值 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 12 / (+1) | 14 / (+2) | 17 / (+3) | 8 / (-1) | 9 / (-1) |
 
 **被遗忘的菲尔罗**是位于[幽暗地域](Underdark.md "Underdark")[恐怖窟窿](Dread_Hollow.md "Dread Hollow")区域的敌对男性[卓尔](Drow.md "Drow")[法师](Wizard.md "Wizard")。
 
@@ -118,7 +131,7 @@
 
 ### 攻击与能力
 
-[火焰箭](Fire_Bolt.md "Fire Bolt") ()
+[火焰箭](Fire_Bolt.md "Fire Bolt")
 
 伤害: 1~10
 

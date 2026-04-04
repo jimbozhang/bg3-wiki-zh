@@ -24,13 +24,13 @@ UID `WPN_HUM_Pike_A_1` UUID `40fa8049-b6c1-4463-b212-52ad13b5d687` ### 武器动
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能使其[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击一名敌人，可能造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[备战（近战）](Brace_(Melee).md "备战（近战）") ()
+[备战（近战）](Brace_(Melee).md "备战（近战）")
 消耗 6 米（20 英尺）的[移动](Movement_speed.md "移动速度")。在本回合剩余时间内，掷两次近战伤害骰并取最高值。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

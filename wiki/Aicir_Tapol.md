@@ -2,15 +2,40 @@
 
 | | |
 | --- | --- |
+| 全名 | 瓦特 |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [怪兽](Monstrosity.md "怪兽") |
 | 种族 | [变形怪](Doppelganger.md "变形怪") |
-| 等级 | 8 |
-| 生命值 | 52 |
-| 护甲等级 | 14 |
-| 先攻 | +4 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 320 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 52 | 36 | 67 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 18 / (+4) | 14 / (+2) | 11 / (0) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
 
 **瓦特** ，伪装成**夜刃 艾西尔·塔波尔**，是[博德之门](Baldur's_Gate.md "博德之门")[底城区](Undercity.md "底城区")[废弃蓄水池](Abandoned_Cistern.md "废弃蓄水池")中石王藏身点发现的[变形怪](Doppelganger.md "变形怪")。
 
@@ -31,7 +56,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "华舞") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[华舞](Flourish.md "华舞") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：1~4
 
@@ -43,7 +68,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[割裂](Lacerate.md "割裂") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：6~9
 
@@ -57,7 +82,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：6~9
 
@@ -67,7 +92,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)") ()
+[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")
 
 伤害：12~32
 
@@ -80,7 +105,7 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：6~9
 
@@ -94,7 +119,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[猛击](Slam_(Doppelganger).md "猛击 (变形怪)") ()
+[猛击](Slam_(Doppelganger).md "猛击 (变形怪)")
 
 伤害：2~16
 

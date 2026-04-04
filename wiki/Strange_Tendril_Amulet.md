@@ -14,7 +14,7 @@
 
 此物品的佩戴者获得：
 
-[艾伐黑触手](Evard's_Black_Tentacles.md "Evard's Black Tentacles") ()
+[艾伐黑触手](Evard's_Black_Tentacles.md "Evard's Black Tentacles")
 以 4 级法术施放（充能：[长休](Long_Rest.md "Long rest")。）
 
 ## 获取地点

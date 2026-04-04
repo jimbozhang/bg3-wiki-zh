@@ -112,7 +112,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "Flourish") () – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
+[华舞](Flourish.md "Flourish") – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
 
 伤害：1~4
 
@@ -124,7 +124,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
+[割裂](Lacerate.md "Lacerate") – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
 
 伤害：2~7
 
@@ -138,7 +138,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")
 
 伤害：2~7
 
@@ -148,7 +148,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[投掷石头](Throw_Stone.md "Throw Stone") ()
+[投掷石头](Throw_Stone.md "Throw Stone")
 
 伤害：2~5
 

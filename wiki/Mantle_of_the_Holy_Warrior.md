@@ -14,7 +14,7 @@
 
 此物品的穿戴者获得：
 
-[十字军披风](Crusader's_Mantle.md "Crusader's Mantle") ()
+[十字军披风](Crusader's_Mantle.md "Crusader's Mantle")
 以 3 级法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

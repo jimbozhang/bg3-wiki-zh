@@ -2,18 +2,15 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Scott Joseph](https://www.imdb.com/name/nm1517710/) |
+| 声音 / 演员 | [Scott Joseph](https://www.imdb.com/name/nm1517710/) |
+| 角色 | [依附的追随者](Attached_Follower.md "依附的追随者") |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [异怪](Aberration.md "异怪") |
 | 种族 | [夺心魔](Mind_flayer.md "夺心魔") |
 
-属性
-
-属性
-
-属性
-
-属性
+| | |
+| --- | --- |
 
 **君主**是出现在[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一个[夺心魔](Mind_flayer.md "夺心魔")。它<sup>[\[1\]](#cite_note-1)</sup>在主线故事中扮演关键角色，但其身份在游戏后期之前被有意隐藏，允许玩家角色最终自行决定是否想了解更多关于它的信息，以及它是否值得信任。
 

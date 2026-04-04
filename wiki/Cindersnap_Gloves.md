@@ -14,7 +14,7 @@
 
 佩戴此物品者获得：
 
-[防弹术](Protection_from_Missiles.md "防弹术") ()
+[防弹术](Protection_from_Missiles.md "防弹术")
 增强你的反应能力以更好地应对来袭的投射物。对你进行的[远程攻击](Ranged_Attack.md "远程攻击")具有[劣势](Disadvantage.md "劣势")，且其伤害减半。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

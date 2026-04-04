@@ -17,7 +17,7 @@
 
 - [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw") +1
 
-[阴影传送](Shadow_Teleportation.md "Shadow Teleportation") ()
+[阴影传送](Shadow_Teleportation.md "Shadow Teleportation")
 传送至一个未被占据且处于阴影中的位置。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

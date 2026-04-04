@@ -14,7 +14,7 @@
 
 此物品的穿戴者获得：
 
-[变形术：恐鸦](Polymorph_colon__Dire_Raven.md "变形术：恐鸦") ()
+[变形术：恐鸦](Polymorph_colon__Dire_Raven.md "变形术：恐鸦")
 变形成一只恐鸦，可以避免被注意并[目盲](Blinded_(Condition).md "目盲（状态）")敌人。它有 13 [生命值](Hit_Points.md "生命值")。（充能：[长休](Long_Rest.md "长休")。）
 
 [渡鸦女王的恩赐](Boon_of_the_Raven_Queen.md "渡鸦女王的恩赐")

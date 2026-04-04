@@ -14,7 +14,7 @@
 
 穿戴此物品获得：
 
-[命令术](Command.md "Command") ()
+[命令术](Command.md "Command")
 以3环法术施展（充能：[长休](Long_Rest.md "Long rest")。）
 
 [削弱一击](Enervating_Suffusion.md "Enervating_Suffusion")

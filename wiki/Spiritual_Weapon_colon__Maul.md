@@ -36,7 +36,7 @@
 
 用你强大的头部猛击目标。
 
-[震荡猛击](Concussive_Smash_(Spiritual_Weapon).md "震荡猛击（灵体武器）") ()
+[震荡猛击](Concussive_Smash_(Spiritual_Weapon).md "震荡猛击（灵体武器）")
 
 飞到目标位置
 

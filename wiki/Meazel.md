@@ -34,7 +34,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Meazel).md "爪击 (鬼魊)") ()
+[爪击](Claws_(Meazel).md "爪击 (鬼魊)")
 
 伤害: 6~16
 
@@ -44,7 +44,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[绞杀术](Garrotte_(Meazel).md "绞杀术 (鬼魊)") ()
+[绞杀术](Garrotte_(Meazel).md "绞杀术 (鬼魊)")
 
 伤害: 3~18
 
@@ -60,7 +60,7 @@
 
 ### 硬核及以上难度
 
-[绞杀术](Garrotte_(Meazel,_tactician).md "绞杀术 (鬼魊, 硬核)") ()
+[绞杀术](Garrotte_(Meazel,_tactician).md "绞杀术 (鬼魊, 硬核)")
 
 伤害: 3~18
 

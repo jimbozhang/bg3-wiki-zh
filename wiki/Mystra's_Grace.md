@@ -17,7 +17,7 @@
 
 穿戴此物品获得：
 
-[羽落术](Feather_Fall.md "Feather Fall") ()
+[羽落术](Feather_Fall.md "Feather Fall")
 以1级法术随意施放。
 
 ## 获取地点

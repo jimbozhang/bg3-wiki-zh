@@ -65,7 +65,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 射程：自身
 
-[火焰箭](Fire_Bolt.md "Fire Bolt") ()
+[火焰箭](Fire_Bolt.md "Fire Bolt")
 
 伤害：1~10
 
@@ -75,7 +75,7 @@
 
 射程：18 米 (60 英尺)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 伤害：2~5
 

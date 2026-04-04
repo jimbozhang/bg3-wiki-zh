@@ -49,8 +49,8 @@
 | [瓦皮拉的皇冠](Wapira's_Crown.md "瓦皮拉的皇冠") | 0.5 kg / 1 lb | 90 | [最高礼赞](Crowning_Glory.md "最高礼赞")当治疗他人时，佩戴者恢复1d6⁠⁠[治疗](Healing.md "治疗")。 |
 | [弯曲的智力头带](Warped_Headband_of_Intellect.md "弯曲的智力头带") | 0.5 kg / 1 lb | 250 | 将佩戴者的[智力](Intelligence.md "智力")分数设为17。如果佩戴者的智力分数在不装备此物品时更高，则附魔无效。 |
 | [狂怒头盔](Cap_of_Wrath.md "狂怒头盔") | 0.5 kg / 1 lb | 640 | [背水一战](Last_Stand.md "背水一战")战斗中，当佩戴者开始其回合时生命值低于或等于50%，他们获得2回合的[狂怒](Wrath_(Condition).md "狂怒 (状态)")。 |
-| [骸骨饰环](Circle_of_Bones.md "骸骨饰环") | 0.5 kg / 1 lb | 240 | [操纵死尸](Animate_Dead.md "操纵死尸") () 施放为3环法术（充能：[长休](Long_Rest.md "长休")。）[防护不死生物](Undead_Ward.md "防护不死生物")6米（20英尺）内的盟友[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害具有[抗性](Resistant.md "抗性")。[[见：错误](Undead_Ward#Bugs.md#Bugs "防护不死生物")] |
-| [爆炸饰环](Circlet_of_Blasting.md "爆炸饰环") | 0.5 kg / 1 lb | 300 | [灼热射线](Scorching_Ray.md "灼热射线") () 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） |
+| [骸骨饰环](Circle_of_Bones.md "骸骨饰环") | 0.5 kg / 1 lb | 240 | [操纵死尸](Animate_Dead.md "操纵死尸") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。）[防护不死生物](Undead_Ward.md "防护不死生物")6米（20英尺）内的盟友[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害具有[抗性](Resistant.md "抗性")。[[见：错误](Undead_Ward#Bugs.md#Bugs "防护不死生物")] |
+| [爆炸饰环](Circlet_of_Blasting.md "爆炸饰环") | 0.5 kg / 1 lb | 300 | [灼热射线](Scorching_Ray.md "灼热射线") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） |
 | [精神剧痛饰环](Circlet_of_Mental_Anguish.md "精神剧痛饰环") | 0.5 kg / 1 lb | 240 | [灵能榨取](Psychic_Leech.md "灵能榨取")当敌人在对抗你的法术或戏法的[魅力](Charisma.md "魅力")、[智力](Intelligence.md "智力")或[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")中失败时，你恢复1d4⁠⁠[治疗](Healing.md "治疗")。 |
 | [异能复仇饰环](Circlet_of_Psionic_Revenge.md "异能复仇饰环") | 0.5 kg / 1 lb | 240 | [异能复仇](Psionic_Revenge.md "异能复仇")当你成功通过[豁免检定](Saving_throw.md "豁免检定")时，导致该检定的敌人受到1d4⁠⁠[心灵](Psychic.md "心灵")伤害。[吉斯洋基人](Githyanki.md "吉斯洋基人")还会获得+1[智力](Intelligence.md "智力")、[感知](Wisdom.md "感知")和[魅力](Charisma.md "魅力")[豁免检定](Saving_throw.md "豁免检定")加值。 |
 | [奥术协同王冠](Diadem_of_Arcane_Synergy.md "奥术协同王冠") | 0.5 kg / 1 lb | 240 | [协同时刻](Synergetic_Moments.md "协同时刻")当你施加一个状态时，获得2回合的[奥术协同](Arcane_Synergy_(Condition).md "奥术协同 (状态)")。[[见：错误](Synergetic_Moments#Bugs.md#Bugs "协同时刻")] |
@@ -61,18 +61,18 @@
 | [不羁库席戈之帽](Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽") | 0.5 kg / 1 lb | 240 | [暴露弱点](Lay_Bare_Their_Weakness.md "暴露弱点")在徒手攻击造成伤害后，佩戴者在其回合结束前获得+1[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值。 |
 | [斯凯比的拳击手饰环](Scabby_Pugilist_Circlet.md "斯凯比的拳击手饰环") | 0.5 kg / 1 lb | 120 | [陷阵之志](Martial_Bravery.md "陷阵之志")当你被2个或更多敌人包围时，你的武器和徒手攻击造成额外2点伤害。 |
 | [尖顶帽](The_Pointy_Hat.md "尖顶帽") | 0.5 kg / 1 lb | 35 | [华丽尖顶帽](Glorious_Pointy_Hat.md "华丽尖顶帽")你获得等于你[智力](Intelligence.md "智力")调整值的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")加值。 |
-| [巴尔的斗篷刺客](Assassin_of_Bhaal_Cowl.md "巴尔的斗篷刺客") | 0.5 kg / 1 lb | 450 | [识破隐形](See_Invisibility_(spell).md "识破隐形 (法术)") () 施放为2环法术（充能：[短休](Short_rest.md "短休")。）[谋杀视觉](Murderous_Sight.md "谋杀视觉")你可以在黑暗中看到3米/10英尺。此外，你获得+2[先攻](Initiative.md "先攻")加值。 |
+| [巴尔的斗篷刺客](Assassin_of_Bhaal_Cowl.md "巴尔的斗篷刺客") | 0.5 kg / 1 lb | 450 | [识破隐形](See_Invisibility_(spell).md "识破隐形 (法术)") 施放为2环法术（充能：[短休](Short_rest.md "短休")。）[谋杀视觉](Murderous_Sight.md "谋杀视觉")你可以在黑暗中看到3米/10英尺。此外，你获得+2[先攻](Initiative.md "先攻")加值。 |
 | [天赋神权](Birthright.md "天赋神权") | 0.5 kg / 1 lb | 410 | [魅力](Charisma.md "魅力") +2 (最高至22) |
-| [骨刺头盔](Bonespike_Helmet.md "骨刺头盔") | 0.5 kg / 1 lb | 450 | [威吓](Intimidation.md "威吓") +2 [恐吓攻击（近战）](Menacing_Attack_(Bonespike_Helmet).md "恐吓攻击（近战） (骨刺头盔)") () 可能[恐慌](Frightened_(Condition).md "恐慌 (状态)")你的目标。他们将在[属性检定](Ability_checks.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。（充能：每回合。）[怒入骨髓](Fury_In_The_Marrow.md "怒入骨髓")当你[狂暴](Rage.md "狂暴")时，3米/10英尺半径内的敌对生物必须通过[武器动作DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰")[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则受到2d4⁠⁠[心灵](Psychic.md "心灵")伤害。豁免成功的目标受到一半伤害。 |
+| [骨刺头盔](Bonespike_Helmet.md "骨刺头盔") | 0.5 kg / 1 lb | 450 | [威吓](Intimidation.md "威吓") +2 [恐吓攻击（近战）](Menacing_Attack_(Bonespike_Helmet).md "恐吓攻击（近战） (骨刺头盔)") 可能[恐慌](Frightened_(Condition).md "恐慌 (状态)")你的目标。他们将在[属性检定](Ability_checks.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。（充能：每回合。）[怒入骨髓](Fury_In_The_Marrow.md "怒入骨髓")当你[狂暴](Rage.md "狂暴")时，3米/10英尺半径内的敌对生物必须通过[武器动作DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰")[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则受到2d4⁠⁠[心灵](Psychic.md "心灵")伤害。豁免成功的目标受到一半伤害。 |
 | [狩猎饰环](Circlet_of_Hunting.md "狩猎饰环") | 0.5 kg / 1 lb | 230 | [猎人之眼](Hunter's_Eye.md "猎人之眼")你对被[猎人印记](Hunter's_Mark_Quarry_(Condition).md "猎人印记猎物 (状态)")、[克敌机先](True_Strike_(Condition).md "克敌机先 (状态)")、[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")或[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")标记的生物获得+1d4[攻击掷骰](Attack_roll.md "攻击掷骰")加值。 |
-| [黯狱头盔](Helldusk_Helmet.md "黯狱头盔") | 1 kg / 2 lb | 570 | 攻击者无法对佩戴者造成[重击](Critical_Hit.md "重击")。[焚寂凝视](Immolating_Gaze.md "焚寂凝视") () 仅凭怒视灼烧并[恐慌](Fearful_(Condition).md "恐慌 (状态)")目标。（充能：[短休](Short_rest.md "短休")。）[地狱视野](Infernal_Sight.md "地狱视野")你可以在魔法[[见：错误](Infernal_Sight#Bugs.md#Bugs "地狱视野")]和普通黑暗中看到12米/40英尺的范围。你不会被[致盲](Blinded_(Condition).md "致盲 (状态)")。[魔法耐久](Magical_Durability_(+2).md "魔法耐久 (+2)")使用者获得+2[豁免检定](Saving_throw.md "豁免检定")对抗法术的加值。 |
+| [黯狱头盔](Helldusk_Helmet.md "黯狱头盔") | 1 kg / 2 lb | 570 | 攻击者无法对佩戴者造成[重击](Critical_Hit.md "重击")。[焚寂凝视](Immolating_Gaze.md "焚寂凝视") 仅凭怒视灼烧并[恐慌](Fearful_(Condition).md "恐慌 (状态)")目标。（充能：[短休](Short_rest.md "短休")。）[地狱视野](Infernal_Sight.md "地狱视野")你可以在魔法[[见：错误](Infernal_Sight#Bugs.md#Bugs "地狱视野")]和普通黑暗中看到12米/40英尺的范围。你不会被[致盲](Blinded_(Condition).md "致盲 (状态)")。[魔法耐久](Magical_Durability_(+2).md "魔法耐久 (+2)")使用者获得+2[豁免检定](Saving_throw.md "豁免检定")对抗法术的加值。 |
 | [魔网兜帽](Hood_of_the_Weave.md "魔网兜帽") | 0.5 kg / 1 lb | 1450 | [奥术增强](Arcane_Enchantment_(+2).md "奥术增强 (+2)")你获得+2[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰加值。 |
 | [狂战士的号角](Horns_of_the_Berserker.md "狂战士的号角") | 0.5 kg / 1 lb | 230 | [寻血](Seeking_Blood.md "寻血")当你攻击已经受伤的生物时，你获得+2[攻击掷骰](Attack_roll.md "攻击掷骰")加值。[嗜血](Blood_Thirst.md "嗜血")只要你的生命值未满，徒手和近战攻击将造成额外2⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。如果你在本回合未造成任何伤害，你将在回合结束时受到1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。 |
 | [迦纳斯的帽子](Jannath's_Hat.md "迦纳斯的帽子") | 0.5 kg / 1 lb | 450 | [游说](Persuasion.md "游说")检定具有[优势](Advantage.md "优势")。[欺瞒](Deception.md "欺瞒")检定具有[优势](Advantage.md "优势")。 |
-| [识魂面具](Mask_of_Soul_Perception.md "识魂面具") | 0.5 kg / 1 lb | 1300 | [侦测思想](Detect_Thoughts.md "侦测思想") () 施放为2环法术（充能：[短休](Short_rest.md "短休")。）[灵魂察觉](Soul_Perception.md "灵魂察觉")获得+2[攻击掷骰](Attack_roll.md "攻击掷骰")、[先攻](Initiative.md "先攻")和[察觉技能](Perception.md "察觉技能")加值。 |
+| [识魂面具](Mask_of_Soul_Perception.md "识魂面具") | 0.5 kg / 1 lb | 1300 | [侦测思想](Detect_Thoughts.md "侦测思想") 施放为2环法术（充能：[短休](Short_rest.md "短休")。）[灵魂察觉](Soul_Perception.md "灵魂察觉")获得+2[攻击掷骰](Attack_roll.md "攻击掷骰")、[先攻](Initiative.md "先攻")和[察觉技能](Perception.md "察觉技能")加值。 |
 | [疾速纵火帽](Pyroquickness_Hat.md "疾速纵火帽") | 0.5 kg / 1 lb | 160 | [火焰回收](Fiery_Return.md "火焰回收")当你用环法术造成⁠[火焰](Fire.md "火焰")伤害时，你[燃烧](Burning_(Condition).md "燃烧 (状态)")自己并获得一个额外的[附赠动作](Actions#Resources.md#Resources "动作")。 |
 | [变形生物帽子](Shapeshifter_Hat.md "变形生物帽子") | 0.5 kg / 1 lb | 70 | [自然](Nature.md "自然") +1 [自然之拥](Nature's_Embrace.md "自然之拥")你的[荒野形态](Wild_Shape.md "荒野形态")充能增加1。这个额外的充能在[长休](Long_Rest.md "长休")后恢复。 |
-| [变形生物面具](Mask_of_the_Shapeshifter.md "变形生物面具") | 0.5 kg / 1 lb | 1 | [伪装术](Disguise_Self.md "伪装术") () 随意施放为1环法术。 |
+| [变形生物面具](Mask_of_the_Shapeshifter.md "变形生物面具") | 0.5 kg / 1 lb | 1 | [伪装术](Disguise_Self.md "伪装术") 随意施放为1环法术。 |
 | [远古之匙](Key_of_the_Ancients.md "远古之匙") | 0.5 kg / 1 lb | 90 | [自然](Nature.md "自然") +1 当站在[德鲁伊营地](Druid_Grove.md "德鲁伊营地")中[内蒂](Nettie.md "内蒂")房间的石门前时，你可以打开通往[地下通道](Underground_Passage.md "地下通道")的捷径。 |
 
 ### 轻甲
@@ -92,7 +92,7 @@
 | [暗夜法官面具](Dark_Justiciar_Mask.md "暗夜法官面具") | 0.3 kg 0.6 lb | 210 | [威吓](Intimidation.md "威吓") +1 |
 | [战法师的骄傲](Helmet_of_Arcane_Acuity.md "战法师的骄傲") | 0.5 kg 1 lb | 70 | [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1 [战法师的敏锐](Battle_Acuity.md "战法师的敏锐")每当你用武器攻击造成伤害时，你获得2回合的[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。 |
 | [自治头盔](Helmet_of_Autonomy.md "自治头盔") | 0.5 kg 1 lb | 70 | [熟练项](Proficiency.md "熟练项")于[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定") |
-| [魔索布莱城之影](Shadow_of_Menzoberranzan.md "魔索布莱城之影") | 0.5 kg 1 lb | 190 | [阴影遮蔽](Shrouded_in_Shadow.md "阴影遮蔽") () 变为[隐形](Invisible_(Condition).md "隐形 (状态)")。（充能：[短休](Short_rest.md "短休")。） |
+| [魔索布莱城之影](Shadow_of_Menzoberranzan.md "魔索布莱城之影") | 0.5 kg 1 lb | 190 | [阴影遮蔽](Shrouded_in_Shadow.md "阴影遮蔽") 变为[隐形](Invisible_(Condition).md "隐形 (状态)")。（充能：[短休](Short_rest.md "短休")。） |
 | [勇气头盔](Helmet_of_Grit.md "勇气头盔") | 0.5 kg 1 lb | 360 | [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1 [咬紧牙关](Grit.md "咬紧牙关")当佩戴者生命值低于或等于50%时，他们拥有一个额外的[附赠动作](Actions#Resources.md#Resources "动作")。 |
 
 - [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1
@@ -236,7 +236,7 @@
 - 攻击者无法对佩戴者造成[重击](Critical_Hit.md "重击")。
 - 授予对⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。
 
-[猎人印记](Hunter's_Mark.md "猎人印记") ()
+[猎人印记](Hunter's_Mark.md "猎人印记")
 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）
 
 ### 遗留内容

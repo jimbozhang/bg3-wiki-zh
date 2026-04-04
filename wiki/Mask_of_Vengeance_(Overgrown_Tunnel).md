@@ -6,12 +6,35 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半精灵](Half-Elf.md "半精灵") |
-| 等级 | 4 |
-| 生命值 | 28 |
-| 护甲等级 | 12 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 40 |
+| 亚种 | [半卓尔](Drow_Half-Elf.md "半卓尔") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 4 | 4 |
+| 生命值 | 28 | 36 |
+| 护甲等级 | 12 | 12 |
+| 先攻 | 0 | 0 |
+| 熟练项 | +2 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 16 米 (53 英尺) | 16 米 (53 英尺) |
+| 经验值 | 40 | 40 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 11 / (0) | 13 / (+1) | 10 / (0) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
+- [睚眦必报](Vengeful.md "睚眦必报")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [羊群一员](Part_of_the_Flock.md "羊群一员")
+- [睚眦必报](Vengeful.md "睚眦必报")
 
 **复仇面具**是[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")羊群中的一名[卓尔](Drow.md "卓尔")[半精灵](Half-Elf.md "半精灵")成员。她出现在[第一幕](Act_One.md "第一幕")中[河边茶室](Riverside_Teahouse.md "河边茶室") / [粗陋的茶室](Gnarled_Teahouse.md "粗陋的茶室")内的[蔓生地道](Overgrown_Tunnel.md "蔓生地道")中。
 
@@ -40,7 +63,7 @@
 
 复仇面具必须在每回合开始时成功通过[DC](DC.md "DC") 17的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将受到[鬼婆的仆从](Hag's_Pawn_(Condition).md) 影响。如果她豁免成功，她将跳过回合而不伤害队伍。
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [战锤](Warhammer.md "战锤")
+[摔翻打击](Backbreaker.md "摔翻打击") – [战锤](Warhammer.md "战锤")
 
 伤害：4~7
 
@@ -52,7 +75,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [战锤](Warhammer.md "战锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [战锤](Warhammer.md "战锤")
 
 伤害：4~11
 
@@ -64,7 +87,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [战锤](Warhammer.md "战锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [战锤](Warhammer.md "战锤")
 
 伤害：4~11
 
@@ -74,7 +97,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[复仇打击](Vengeful_Strike.md "复仇打击") () – [战锤](Warhammer.md "战锤")
+[复仇打击](Vengeful_Strike.md "复仇打击") – [战锤](Warhammer.md "战锤")
 
 伤害：9~22
 
@@ -88,7 +111,7 @@
 
 范围：2 米 (7 英尺)
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [战锤](Warhammer.md "战锤")
+[弱化打击](Weakening_Strike.md "弱化打击") – [战锤](Warhammer.md "战锤")
 
 伤害：4~7
 

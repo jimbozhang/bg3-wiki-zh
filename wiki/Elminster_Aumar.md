@@ -2,16 +2,48 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Crispin Redman](https://www.imdb.com/name/nm0714995/) |
-| 体型 | [中级](Medium.md "中级") |
+| 全名 | 伊尔明斯特·艾摩 |
+| 性别 | 男性 |
+| 声音 / 演员 | [Crispin Redman](https://www.imdb.com/name/nm0714995/) |
+| 家乡 | ⁠[苏泽尔](https://forgottenrealms.fandom.com/wiki/Suzail), ⁠[科米尔](https://forgottenrealms.fandom.com/wiki/Cormyr) |
+| 体型 | [中型](Medium.md "中型") |
 | 类型 | [类人生物](Humanoid.md "类人生物")/[构装生物](Construct.md "构装生物") |
 | 种族 | [人类](Human.md "人类")/[构装生物](Construct.md "构装生物") |
-| 等级 | 20 |
-| 生命值 | 185 |
-| 护甲等级 | 17 |
-| 先攻 | +9 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 1000 |
+| 职业 | [法师](Wizard.md "法师") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 20 | 20 |
+| 生命值 | 185 | 240 |
+| 护甲等级 | 17 | 17 |
+| 先攻 | +9 | +9 |
+| 熟练项 | +6 | +6 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 1000 | 1000 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 13 / (+1) | 18 / (+4) | 24 / (+7) | 27 / (+8) | 18 / (+4) | 17 / (+3) |
+
+**特性**
+
+- [警觉](Alert.md "警觉")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
+- [咒法专注](Focused_Conjuration.md "咒法专注")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [法术狙击](Spell_Sniper.md "法术狙击")
+
+**特性**
+
+- [警觉](Alert.md "警觉")
+- [强效塑能](Empowered_Evocation.md "强效塑能")
+- [咒法专注](Focused_Conjuration.md "咒法专注")
+- [魔法抗性](Magic_Resistance.md "魔法抗性")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [法术狙击](Spell_Sniper.md "法术狙击")
 
 ## 状态
 

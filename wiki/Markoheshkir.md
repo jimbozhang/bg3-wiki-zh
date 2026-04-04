@@ -27,7 +27,7 @@ UID `MAG_TheChromatic_Staff` UUID `7e39ad11-f8c3-421a-940c-05348c420c7d` Stats `
 
 **持有此物品获得：**
 
-[克雷斯卡的恩惠](Kereska's_Favour.md "克雷斯卡的恩惠") ()
+[克雷斯卡的恩惠](Kereska's_Favour.md "克雷斯卡的恩惠")
 用源自龙神克雷斯卡的元素能量灌注自身。（充能：[短休](Short_rest.md "短休")。）
 
 [奥术增强](Arcane_Enchantment_(+1).md)
@@ -40,7 +40,7 @@ UID `MAG_TheChromatic_Staff` UUID `7e39ad11-f8c3-421a-940c-05348c420c7d` Stats `
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物以将其击至[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

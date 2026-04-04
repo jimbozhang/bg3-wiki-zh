@@ -2,15 +2,36 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Clare Corbett](https://www.imdb.com/name/nm1352940/) |
+| 声音 / 演员 | [Clare Corbett](https://www.imdb.com/name/nm1352940/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [野兽](Beast.md "野兽") |
 | 种族 | [蜘蛛](Spider.md "蜘蛛") |
-| 等级 | 3 |
-| 生命值 | 32 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 经验值 | 10 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 32 | 22 | 41 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +2 | +4 | +2 |
+| 重量 | 120 kg (240 lb) | 120 kg (240 lb) | 120 kg (240 lb) |
+| 经验值 | 10 | 10 | 10 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 16 / (+3) | 12 / (+1) | 2 / (-4) | 11 / (0) | 4 / (-3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [蛛网行者](Web_Walker.md "蛛网行者")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [蛛网行者](Web_Walker.md "蛛网行者")
 
 **大型巨蜘蛛**可以在[地精营地](Goblin_Camp.md "地精营地")的[第一幕](Act_One.md "第一幕")中找到。
 
@@ -47,13 +68,13 @@
 
 ### 攻击与能力
 
-[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃") ()
+[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃")
 向上、向下和横向跳跃。你的[力量](Strength.md "力量")影响你能跳多远。
 
 范围：11 m (37 ft)
 充能：每回合
 
-[螫毛飞刺](Urticating_Hairs.md "螫毛飞刺") ()
+[螫毛飞刺](Urticating_Hairs.md "螫毛飞刺")
 
 伤害：5~15
 
@@ -64,7 +85,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 m (60 ft)
 
-[猛毒之噬](Venomous_Bite_(Wolf_Spider_Companion).md "猛毒之噬 (狼蛛伙伴)") ()
+[猛毒之噬](Venomous_Bite_(Wolf_Spider_Companion).md "猛毒之噬 (狼蛛伙伴)")
 
 伤害：4~11
 

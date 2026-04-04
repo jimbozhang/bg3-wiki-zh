@@ -27,16 +27,16 @@
 | 护甲等级 | 19 |  |  |  |  |
 | 体型 | 大型 |  |  |  |  |
 
-[爪击](Claws_(Owlbear).md "爪击 (枭熊)") ()
+[爪击](Claws_(Owlbear).md "爪击 (枭熊)")
 用致命的爪子猛击，将目标击退1.5米/5英尺。
 
-[裂地](Rupture.md "裂地") ()
+[裂地](Rupture.md "裂地")
 撕裂大地，使碎片撕裂附近的物体和生物。
 
 [粉碎跃击](Crushing_Flight_(Owlbear_Wild_Shape).md "粉碎跃击 (枭熊荒野形态)") (+ )
 跃向目标进行啃咬，并将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[多重攻击](Multiattack_(Owlbear).md "多重攻击 (枭熊)") ()
+[多重攻击](Multiattack_(Owlbear).md "多重攻击 (枭熊)")
 对目标进行多次攻击。若第二次攻击命中，目标将被击退1.5米/5英尺并击至[倒伏](Prone_(Condition).md "倒伏 (状态)")。（充能：每回合。）
 
 ## 如何习得

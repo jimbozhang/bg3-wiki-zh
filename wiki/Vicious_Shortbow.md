@@ -30,7 +30,7 @@ UID `MAG_Vicious_Shortbow` UUID `0a17e147-25bf-4ae5-b24a-3307db4bec56` Stats `MA
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 射击敌人的大腿，可能使其[移动速度](Movement_speed.md "移动速度")降低50%。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

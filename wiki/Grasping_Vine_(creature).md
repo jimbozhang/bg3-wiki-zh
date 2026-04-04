@@ -19,7 +19,7 @@
 
 ### 攻击与属性
 
-[抓钩拉扯](Grasping_Pull.md "Grasping Pull") ()
+[抓钩拉扯](Grasping_Pull.md "Grasping Pull")
 抓住目标并将其拉向你 9 m / 30 ft。
 
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")

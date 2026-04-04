@@ -25,7 +25,7 @@
 
 ### 等级 9
 
-[专业渗透](Infiltration_Expertise.md "专业渗透") ()
+[专业渗透](Infiltration_Expertise.md "专业渗透")
 采用新身份，改变你的外貌。
 
 ## 外部链接

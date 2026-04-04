@@ -29,10 +29,10 @@ _此副职除了以下列出的独特特性外，还获得其基础职业[法师
 
 第三只眼的两个加成可以同时生效。
 
-[第三只眼：高级黑暗视觉](Third_Eye_colon__Darkvision.md "第三只眼：高级黑暗视觉") ()
+[第三只眼：高级黑暗视觉](Third_Eye_colon__Darkvision.md "第三只眼：高级黑暗视觉")
 你获得在24米（80英尺）范围内黑暗中视物的能力（充能：[长休](Long_Rest.md "长休")）。
 
-[第三只眼：识破隐形](Third_Eye_colon__See_Invisibility.md "第三只眼：识破隐形") ()
+[第三只眼：识破隐形](Third_Eye_colon__See_Invisibility.md "第三只眼：识破隐形")
 能够看见[隐形](Invisible_(Condition).md "隐形（状态）")生物，并可能将其暴露给他人。（充能：[长休](Long_Rest.md "长休")。）
 
 ---

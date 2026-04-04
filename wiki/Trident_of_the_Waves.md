@@ -35,13 +35,13 @@ UID `MAG_LC_Wave_Trident` UUID `657678f2-5924-4d8e-b8ce-a2079154c91b` Stats `MAG
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。 (充能：[短休](Short_rest.md "短休")。)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人，可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。 (充能：[短休](Short_rest.md "短休")。)
 
-[缴械打击](Disarming_Strike.md "缴械打击") ()
+[缴械打击](Disarming_Strike.md "缴械打击")
 集中攻击敌人的手部，可能迫使其丢弃所持武器。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

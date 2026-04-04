@@ -37,7 +37,7 @@
 
 ### 攻击与能力
 
-[血腥狂怒](Blood_Frenzy.md "血腥狂怒") ()
+[血腥狂怒](Blood_Frenzy.md "血腥狂怒")
 
 | 运动 | 体操 | 察觉 |
 | --- | --- | --- |
@@ -45,7 +45,7 @@
 
 [鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)") 使沙华鱼人对任何未满[生命值](Hit_Points.md "生命值")的目标进行近战[攻击掷骰](Attack_roll.md "攻击掷骰")时具有[优势](Advantage.md "优势")，前提是目标不是构装生物、泥型怪物、植物或元素生物。
 
-[爪击](Claws_(action).md "爪击 (动作)") ()
+[爪击](Claws_(action).md "爪击 (动作)")
 
 用致命的爪子猛击。
 

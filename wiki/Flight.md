@@ -10,7 +10,7 @@
 
 ## 赋予
 
-[Fly](Fly_(class_action).md "Fly (class action)") ()
+[Fly](Fly_(class_action).md "Fly (class action)")
 飞向目标位置
 
 ## 飞行术来源

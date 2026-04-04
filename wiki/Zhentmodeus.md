@@ -3,14 +3,43 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
+| 职业 | [游荡者](Rogue.md "游荡者") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [提夫林](Tiefling.md "提夫林") |
+| 亚种 | [阿斯蒙蒂斯提夫林](Asmodeus_Tiefling.md "阿斯蒙蒂斯提夫林") |
+
+| | |
+| --- | --- |
 | 等级 | 9 |
 | 生命值 | 75 |
 | 护甲等级 | 10 |
 | 先攻 | +3 |
+| 熟练项 | +4 |
+| 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 9 米 (30 英尺) |
 | 经验值 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 11 / (0) | 10 / (0) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [反射闪避](Evasion.md "反射闪避")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [反射闪避](Evasion.md "反射闪避")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 **散塔林魅魔**是一名[散塔林会](Zhentarim.md "散塔林会")佣兵，可在[第三幕](Act_Three.md "第三幕")的⁠[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")期间被召唤。
 
@@ -30,12 +59,12 @@
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：移动速度翻倍。
 
 范围：自身
 
-[移动射击](Mobile_Shot.md "移动射击") () – [手弩](Hand_Crossbow.md "手弩")
+[移动射击](Mobile_Shot.md "移动射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -46,7 +75,7 @@
 范围：15 米 (50 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [手弩](Hand_Crossbow.md "手弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -56,7 +85,7 @@
 
 范围：18 米 (60 英尺)
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [手弩](Hand_Crossbow.md "手弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 

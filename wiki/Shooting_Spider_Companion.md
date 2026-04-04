@@ -26,10 +26,10 @@
 | 生命值 | 24 |  |  |  |  |
 | 护甲等级 | 15 |  |  |  |  |
 
-[蛛形跳跃](Arachnid_Jump.md "Arachnid Jump") ()
+[蛛形跳跃](Arachnid_Jump.md "Arachnid Jump")
 向上、向下和横向跳跃。你的 [力量](Strength.md "Strength") 影响跳跃距离。（充能：每回合。）
 
-[螫毛飞刺](Urticating_Hairs.md "Urticating Hairs") ()
+[螫毛飞刺](Urticating_Hairs.md "Urticating Hairs")
 向目标发射带刺刚毛，并可能使其 [目盲](Blinded_(Condition).md "Blinded (Condition)")。
 
 喷出浓密、易燃的蛛网，减缓范围内生物的速度，并可能使其 [网缚](Enwebbed_(Condition).md "Enwebbed (Condition)")。

@@ -49,7 +49,7 @@
 
 ## 法术和能力
 
-[爪击](Claws_(Animate_Dead_Ghoul).md "爪击（操纵死尸 食尸鬼）") ()
+[爪击](Claws_(Animate_Dead_Ghoul).md "爪击（操纵死尸 食尸鬼）")
 
 伤害: 6~21
 
@@ -60,7 +60,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战: 1.5 米 (5 英尺)
 
-[吞噬](Devour_(Animate_Dead_Ghoul).md "吞噬（操纵死尸 食尸鬼）") ()
+[吞噬](Devour_(Animate_Dead_Ghoul).md "吞噬（操纵死尸 食尸鬼）")
 
 伤害: 6~33
 

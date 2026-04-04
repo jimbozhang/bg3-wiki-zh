@@ -25,10 +25,10 @@
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[韧性](Tenacity.md "韧性") ()
+[韧性](Tenacity.md "韧性")
 当您攻击未命中时，仍然造成等于您[力量](Strength.md "力量")[调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的⁠[钝击](Bludgeoning.md "钝击")伤害（最低为 1）。
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人，造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 巨棒列表
@@ -39,7 +39,7 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 | [巨棒（牛头人）](Greatclub_(Minotaur).md "巨棒（牛头人）") |  | 2d12 | 钝击 | 8.5 公斤 / 17 磅 | 16 | 类人生物不可用。 |
 | [巨棒](Greatclub.md "巨棒") |  | 1d8 | 钝击 | 4.5 公斤 / 9 磅 | 16 |  |
 | [重尖刺棒](Heavy_Spiked_Club.md "重尖刺棒") |  | 2d8 | 钝击 | 4.5 公斤 / 9 磅 | 20 | 类人生物不可用。 |
-| [争端解决者](Argument_Solver.md "争端解决者") | +1 | 1d8 + 1 | 钝击 | 4.5 公斤 / 9 磅 | 65 | [毒雾](Poison_Mist.md "毒雾") () 命中时，额外造成等于您[熟练项加值](Proficiency_Bonus.md "熟练项加值")的⁠[中毒](Poison.md "中毒")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒（状态）")。（充能：[短休](Short_rest.md "短休")。） |
+| [争端解决者](Argument_Solver.md "争端解决者") | +1 | 1d8 + 1 | 钝击 | 4.5 公斤 / 9 磅 | 65 | [毒雾](Poison_Mist.md "毒雾") 命中时，额外造成等于您[熟练项加值](Proficiency_Bonus.md "熟练项加值")的⁠[中毒](Poison.md "中毒")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒（状态）")。（充能：[短休](Short_rest.md "短休")。） |
 | [巨棒 +1](Greatclub_+1.md "巨棒 +1") | +1 | 1d8 + 1 | 钝击 | 4.5 公斤 / 9 磅 | 40 |  |
 | [东倒西歪](Punch-Drunk_Bastard.md "东倒西歪") | +1 | 1d8 + 1 | 钝击 | 4.5 公斤 / 9 磅 | 190 | [酒徒之怒](Tippler's_Rage.md "酒徒之怒")当您处于[醉酒](Drunk_(Condition).md "醉酒（状态）")状态时，您的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。每次近战命中时，您还会产生一次爆炸，对半径 3 米（10 英尺）内的所有生物和物体造成 1d4⁠⁠[雷鸣](Thunder.md "雷鸣")伤害（不包括您自己）。 |
 | [卑劣短棒](Rat_Bat.md "卑劣短棒") | +1 | 1d8 + 1 / 1d6 | 钝击 / 穿刺 | 4.5 公斤 / 9 磅 | 190 | [捕鼠人](Rat_Catcher.md "捕鼠人")对[野兽](List_of_Creature_Types#Beast.md#Beast "生物类型列表")的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。 |

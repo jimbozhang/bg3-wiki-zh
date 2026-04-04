@@ -69,10 +69,10 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[灵活逃避](Nimble_Escape.md "灵活逃避") ()
+[灵活逃避](Nimble_Escape.md "灵活逃避")
 安全撤退：移动不会引发[借机攻击](Opportunity_Attack.md "借机攻击")。
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [地精弓](Goblin_Bow.md "地精弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [地精弓](Goblin_Bow.md "地精弓")
 
 伤害：3~8
 
@@ -82,7 +82,7 @@
 
 射程：18 米 (60 英尺)
 
-[座狼伙伴](Worg_Companion.md "座狼伙伴") ()
+[座狼伙伴](Worg_Companion.md "座狼伙伴")
 获得一个野兽伙伴，陪伴你冒险并与你并肩作战。
 
 射程：18 米 (60 英尺)

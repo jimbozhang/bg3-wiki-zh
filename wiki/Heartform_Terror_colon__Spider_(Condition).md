@@ -45,7 +45,7 @@
 | [荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger_(Condition).md "荒野形态：剑齿虎 (状态)") | 荒野形态变为剑齿虎 |
 | [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon_(Condition).md "荒野形态：水元素执政官 (状态)") | 荒野形态变为水元素执政官 |
 
-[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃") ()
+[蛛形跳跃](Arachnid_Jump.md "蛛形跳跃")
 向上、向下和横向跳跃。你的 [力量](Strength.md "力量") 影响你能跳多远。（充能：每回合。）
 
 [额外攻击](Extra_Attack.md "额外攻击")

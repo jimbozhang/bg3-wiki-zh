@@ -2,15 +2,42 @@
 
 | | |
 | --- | --- |
+| 全名 | 法姆 |
+| 声优 / 演员 | [理查德·布斯](https://www.imdb.com/name/nm15124090/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [怪兽](Monstrosity.md "怪兽") |
 | 种族 | [变形怪](Doppelganger.md "变形怪") |
-| 等级 | 8 |
-| 生命值 | 88 |
-| 护甲等级 | 16 |
-| 先攻 | +4 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 200 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 88 | 61 | 114 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 18 / (+4) | 14 / (+2) | 14 / (+2) | 14 / (+2) | 14 / (+2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [惧怖讽刺](Grim_Irony.md "惧怖讽刺")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [惧怖讽刺](Grim_Irony.md "惧怖讽刺")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 ## 状态
 
@@ -195,7 +222,7 @@
 
 ### 攻击与能力
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [小丑之锤](Clown_Hammer.md "小丑之锤")
+[摔翻打击](Backbreaker.md "摔翻打击") – [小丑之锤](Clown_Hammer.md "小丑之锤")
 
 伤害：5~8
 
@@ -207,7 +234,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [小丑之锤](Clown_Hammer.md "小丑之锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [小丑之锤](Clown_Hammer.md "小丑之锤")
 
 伤害：7~14
 
@@ -219,7 +246,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [小丑之锤](Clown_Hammer.md "小丑之锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [小丑之锤](Clown_Hammer.md "小丑之锤")
 
 伤害：7~14
 
@@ -229,13 +256,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[形态伏击](Morphic_Ambush.md "形态伏击") ()
+[形态伏击](Morphic_Ambush.md "形态伏击")
 经历一次惊人的变形以惊吓你的敌人。成功 [伏击](Ambushed_(Condition).md "伏击 (状态)") 的实体更容易受到你的攻击。
 
 范围：自身
 充能：每场战斗
 
-[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)") ()
+[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")
 
 伤害：12~32
 
@@ -248,7 +275,7 @@
 近战：1.5 米 (5 英尺)
 充能：每回合
 
-[猛击](Slam_(Doppelganger).md "猛击 (变形怪)") ()
+[猛击](Slam_(Doppelganger).md "猛击 (变形怪)")
 
 伤害：6~20
 
@@ -258,7 +285,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [小丑之锤](Clown_Hammer.md "小丑之锤")
+[弱化打击](Weakening_Strike.md "弱化打击") – [小丑之锤](Clown_Hammer.md "小丑之锤")
 
 伤害：5~8
 

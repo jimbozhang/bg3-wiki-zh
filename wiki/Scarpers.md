@@ -23,12 +23,12 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [长弓](Longbow.md "Longbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [长弓](Longbow.md "Longbow")
 消耗6米（20英尺）的[移动速度](Movement_speed.md "Movement Speed")。在本回合剩余时间内，远程伤害掷两次并使用最高结果。
 
 充能：[短休](Short_rest.md "Short rest")
 
-[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "Cunning Action: Disengage") ()
+[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "Cunning Action: Disengage")
 安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "Attack of Opportunity")。
 
 范围：自身
@@ -46,7 +46,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 范围：18米（60英尺）
 
-[腿筋射击](Hamstring_Shot.md "Hamstring Shot") () – [长弓](Longbow.md "Longbow")
+[腿筋射击](Hamstring_Shot.md "Hamstring Shot") – [长弓](Longbow.md "Longbow")
 
 伤害：5~12
 
@@ -58,7 +58,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [长弓](Longbow.md "Longbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [长弓](Longbow.md "Longbow")
 
 伤害：5~12
 
@@ -68,7 +68,7 @@
 
 范围：18米（60英尺）
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "Sneak Attack (Ranged)") () – [长弓](Longbow.md "Longbow")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "Sneak Attack (Ranged)") – [长弓](Longbow.md "Longbow")
 
 伤害：6~18
 

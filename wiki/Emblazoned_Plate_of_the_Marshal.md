@@ -19,7 +19,7 @@
 
 穿戴此物品获得：
 
-[火焰护盾](Fire_Shield.md "火焰护盾") ()
+[火焰护盾](Fire_Shield.md "火焰护盾")
 以4环法术施展（充能：[长休](Long_Rest.md "长休")。）
 
 [魔法板甲](Magical_Plate_(-2).md)

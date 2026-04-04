@@ -24,7 +24,7 @@ UID `WPN_HUM_Halberd_A_0_Rusty_A` UUID `7addb7c0-f428-4033-9065-f4ad6e4c7e81` ##
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡 (状态)")。(充能：[短休](Short_rest.md "短休")。)
 
 [割裂](Lacerate.md "割裂")()

@@ -88,19 +88,19 @@
 
 ### 攻击与能力
 
-[变形怪](Doppelganger_(class_action).md "变形怪 (职业动作)") ()
+[变形怪](Doppelganger_(class_action).md "变形怪 (职业动作)")
 变形成你见过的小型或中型生物。
 
 范围：自身
 充能：每回合
 
-[形态伏击](Morphic_Ambush.md "形态伏击") ()
+[形态伏击](Morphic_Ambush.md "形态伏击")
 经历一次惊人的变形以惊吓你的敌人。成功被[伏击](Ambushed_(Condition).md "伏击 (状态)")的实体更容易受到你的攻击。
 
 范围：自身
 充能：每场战斗
 
-[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)") ()
+[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")
 
 伤害：12~32
 

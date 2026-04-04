@@ -28,7 +28,7 @@
 
 释放你内在火焰的一部分。所有附近的生物受到伤害并开始 [灼烧](Burning_Fiercely_(Condition).md "灼烧 (状态)")。
 
-[炽焰斩](Searing_Smite_(Azer).md "炽焰斩 (火矮人)") ()
+[炽焰斩](Searing_Smite_(Azer).md "炽焰斩 (火矮人)")
 你的武器闪耀着白热的强度。除了武器伤害外，它还额外造成 1d6 [火焰](Fire.md "火焰") 伤害，并用 [炽焰斩](Searing_Smite_(Condition).md "炽焰斩 (状态)") 标记目标。（充能：每场战斗一次。）
 
 ## 如何习得

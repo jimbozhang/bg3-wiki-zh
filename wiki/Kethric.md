@@ -3,10 +3,17 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [J.K. Simmons](https://www.imdb.com/name/nm0799777/) |
+| 声音 / 演员 | [J.K. Simmons](https://www.imdb.com/name/nm0799777/) |
+| 家乡 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [不死生物](Undead.md "不死生物") |
 | 种族 | [不死生物](Undead.md "不死生物") [半高精灵](High_Half-Elf.md "半高精灵") [可能]<sup>[\[4\]](#cite_note-ancestry-4)</sup> |
+| 职业 | [圣武士](Paladin.md "圣武士") |
+| 副职 | [弃誓者](Oathbreaker.md "弃誓者") |
+| 神祇 | [塞伦涅](Sel%C3%BBne.md "塞伦涅") / [莎尔](Shar.md "莎尔") / [米尔寇](Myrkul.md "米尔寇") |
+
+| | |
+| --- | --- |
 
 Stats
 

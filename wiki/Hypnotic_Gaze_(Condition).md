@@ -21,7 +21,7 @@
 
 ## 赋予
 
-[维持催眠凝视](Maintain_Hypnotic_Gaze.md "维持催眠凝视") ()
+[维持催眠凝视](Maintain_Hypnotic_Gaze.md "维持催眠凝视")
 维持您的[催眠凝视](Hypnotic_Gaze.md "催眠凝视")以延长其持续时间。
 
 ## 催眠凝视的来源

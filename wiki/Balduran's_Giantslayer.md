@@ -23,7 +23,7 @@ UID `MAG_Giantslayer_Greatsword` UUID `7219fca3-5f41-43a0-8253-f4c09d8b6308` Sta
 
 **持有此物品者获得：**
 
-[巨人形态](Giant_Form.md "巨人形态") ()
+[巨人形态](Giant_Form.md "巨人形态")
 增长至骇人体型。你的武器造成额外 1d6 伤害，并获得 27 点[临时生命值](Temporary_Hit_Points.md "临时生命值")以及力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
 
 [巨人杀手](Giantslayer.md "巨人杀手")
@@ -33,20 +33,20 @@ UID `MAG_Giantslayer_Greatsword` UUID `7219fca3-5f41-43a0-8253-f4c09d8b6308` Sta
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") ()
+[剑柄打击](Pommel_Strike.md "剑柄打击")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥舞武器进行大范围弧线攻击，最多同时攻击 3 个敌人。每个敌人受到你的武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还赋予以下动作：
 
-[推翻大个](Topple_the_Big_Folk.md "推翻大个") ()
+[推翻大个](Topple_the_Big_Folk.md "推翻大个")
 造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外伤害。命中时，大型、巨型或超巨型生物受到额外 2d6⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并且必须通过一次[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

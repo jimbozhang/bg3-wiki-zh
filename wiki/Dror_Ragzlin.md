@@ -3,16 +3,49 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
+| 声音 / 演员 | [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
+| 家乡 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [大地精](Hobgoblin.md "大地精") |
-| 等级 | 5 |
-| 生命值 | 75 |
-| 护甲等级 | 14 |
-| 先攻 | +1 |
-| 移动速度 | 9米（30英尺） |
-| 经验值 | 75 |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 75 | 52 | 97 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 施法DC | 15（力量） | 17（力量） | 17（力量） |
+| 移动速度 | 9米（30英尺） | 9米（30英尺） | 9米（30英尺） |
+| 重量 | 50千克（100磅） | 50千克（100磅） | 50千克（100磅） |
+| 暗视 | 16米（53英尺） | 16米（53英尺） | 16米（53英尺） |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 12 / (+1) | 16 / (+3) | 12 / (+1) | 10 / (0) | 15 / (+2) |
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [武力优势](Martial_Advantage.md "武力优势")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
+
+**特性**
+
+- [危机感知](Danger_Sense.md "危机感知")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [武力优势](Martial_Advantage.md "武力优势")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
 
 ## 荣誉难度属性
 
@@ -123,7 +156,7 @@
 
 ### 攻击与能力
 
-[至上力量](Absolute_Power.md "至上力量") ()
+[至上力量](Absolute_Power.md "至上力量")
 
 伤害：5~10
 
@@ -145,7 +178,7 @@
 范围：自身
 充能：[短休](Short_rest.md "短休")
 
-[摔翻打击](Backbreaker.md "摔翻打击") () – [破誓者](Faithbreaker.md "破誓者")
+[摔翻打击](Backbreaker.md "摔翻打击") – [破誓者](Faithbreaker.md "破誓者")
 
 伤害：5~8
 
@@ -157,7 +190,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [破誓者](Faithbreaker.md "破誓者")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [破誓者](Faithbreaker.md "破誓者")
 
 伤害：6~13
 
@@ -169,7 +202,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[领导力](Leadership.md "领导力") ()
+[领导力](Leadership.md "领导力")
 | 运动 | 体操 | 察觉 |
 | --- | --- | --- |
 | 4 | 1 | 0 |
@@ -178,15 +211,15 @@
 
 获得对物理伤害的[抗性](Resistance.md "抗性")，以及力量[检定](Checks.md "检定")和[豁免检定](Saving_throws.md "豁免检定")的[优势](Advantage.md "优势")。
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") ()
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击")
 
 抛开所有谨慎，使你的近战[攻击掷骰](Attack_roll.md "攻击掷骰")获得[优势](Advantage.md "优势")。
 
-[冲击之力](Repulsor_(Dror_Ragzlin).md "冲击之力（德罗尔·拉格兹林）") ()
+[冲击之力](Repulsor_(Dror_Ragzlin).md "冲击之力（德罗尔·拉格兹林）")
 
 释放至上真神的力量，伤害并击退任何事物和任何人6米/20英尺。
 
-[弱化打击](Weakening_Strike.md "弱化打击") () – [破誓者](Faithbreaker.md "破誓者")
+[弱化打击](Weakening_Strike.md "弱化打击") – [破誓者](Faithbreaker.md "破誓者")
 
 以非致命攻击瞄准敌人的手，可能施加[弱腕](Weak_Grip_(Condition).md "弱腕（状态）")。
 
@@ -194,7 +227,7 @@
 
 ### 荣誉模式
 
-[蛛类强制](Arachnid_Compulsion.md "蛛类强制") ()
+[蛛类强制](Arachnid_Compulsion.md "蛛类强制")
 借用一段卓尔魔法控制附近的蜘蛛。
 
 范围：10米（33英尺）

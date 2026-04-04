@@ -57,7 +57,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Vampire_Spawn).md "啃咬 (吸血鬼衍体)") ()
+[啃咬](Bite_(Vampire_Spawn).md "啃咬 (吸血鬼衍体)")
 
 伤害：3~18 + 调整值
 
@@ -71,7 +71,7 @@
 
 近战：1.5米（5英尺）
 
-[爪击](Claws_(action).md "爪击 (动作)") ()
+[爪击](Claws_(action).md "爪击 (动作)")
 
 伤害：2~8 + 调整值
 
@@ -81,7 +81,7 @@
 
 近战：1.5米（5英尺）
 
-[多重攻击](Multiattack_(Vampire_Spawn).md "多重攻击 (吸血鬼衍体)") ()
+[多重攻击](Multiattack_(Vampire_Spawn).md "多重攻击 (吸血鬼衍体)")
 
 伤害：4~16 + 调整值
 

@@ -5,11 +5,35 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [不死生物](Undead.md "不死生物") |
 | 种族 | [骷髅](Skeleton.md "骷髅") |
+
+| | |
+| --- | --- |
 | 等级 | 5 |
 | 生命值 | 29 |
 | 护甲等级 | 15 |
 | 先攻 | +4 |
+| 熟练项 | +3 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 20 千克 (40 磅) |
+| 暗视 | 12 米 (40 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 18 / (+4) | 14 / (+2) | 6 / (-2) | 8 / (-1) | 5 / (-3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [沉默](Silent.md "沉默")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [沉默](Silent.md "沉默")
 
 **堕落游侠**是一种[不死生物](Undead.md "不死生物")[骷髅](Skeleton.md "骷髅")生物，仅在[第三幕](Act_Three.md "第三幕")中出现。
 
@@ -31,12 +55,12 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [重弩](Heavy_Crossbow.md "重弩")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [重弩](Heavy_Crossbow.md "重弩")
 消耗6米（20英尺）的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [重弩](Heavy_Crossbow.md "重弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：5~14
 
@@ -50,7 +74,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：5~14
 

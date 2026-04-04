@@ -3,16 +3,36 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [凯蒂·布瑞坦](https://www.imdb.com/name/nm1433038/) |
+| 声音 / 演员 | [凯蒂·布瑞坦](https://www.imdb.com/name/nm1433038/) |
+| 家乡 | [翠绿林地](Emerald_Grove.md "Emerald Grove") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 3 |
-| 生命值 | 20 |
-| 护甲等级 | 11 |
-| 先攻 | 0 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 20 |
+| 职业 | [德鲁伊](Druid.md "Druid") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 20 | 15 | 28 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 10 / (0) | 10 / (0) | 12 / (+1) | 16 / (+3) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **埃尔温**是[翠绿林地教团](Circle_of_the_Emerald_Grove.md "Circle of the Emerald Grove")中的一名人类德鲁伊，出现在[第一幕](Act_One.md "Act One")。
 
@@ -56,7 +76,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [长棍](Quarterstaff.md "Quarterstaff")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长棍](Quarterstaff.md "Quarterstaff")
 
 伤害：2~7
 
@@ -77,7 +97,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：18 米 (60 英尺)
 
-[毒气喷溅](Poison_Spray.md "Poison Spray") ()
+[毒气喷溅](Poison_Spray.md "Poison Spray")
 
 伤害：1~12
 
@@ -88,7 +108,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
 射程：3 米 (10 英尺)
 
-[燃火术](Produce_Flame.md "Produce Flame") ()
+[燃火术](Produce_Flame.md "Produce Flame")
 
 伤害：1~8
 

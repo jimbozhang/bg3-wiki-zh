@@ -16,7 +16,7 @@
 
 ### 攻击与能力
 
-[喙啄攻击](Beak_Attack_(Dire_Raven).md "Beak Attack (Dire Raven)") ()
+[喙啄攻击](Beak_Attack_(Dire_Raven).md "Beak Attack (Dire Raven)")
 
 伤害：6~12
 
@@ -26,12 +26,12 @@
 
 近战：1.5 m (5 ft)
 
-[飞行](Fly_(class_action).md "Fly (class action)") ()
+[飞行](Fly_(class_action).md "Fly (class action)")
 飞至目标位置
 
 射程：18 m (60 ft)
 
-[啄咬眼珠](Rend_Vision_(Murderous_Crow).md "Rend Vision (Murderous Crow)") ()
+[啄咬眼珠](Rend_Vision_(Murderous_Crow).md "Rend Vision (Murderous Crow)")
 
 伤害：6~12
 

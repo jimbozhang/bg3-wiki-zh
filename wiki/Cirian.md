@@ -20,8 +20,6 @@
 
 将下一次伤害减少至1，并消耗一层不可撼动。无法被外力移动。
 
-属性
-
 **希莱恩**是[巴尔教团](Cult_of_Bhaal.md "巴尔教团")的成员，在[第三幕](Act_Three.md "第三幕")期间于[下城区](Lower_City.md "下城区")的[繁花山脊公园](Bloomridge_Park.md "繁花山脊公园")被找到。
 
 > “
@@ -49,7 +47,7 @@
 范围：自身
 重置：每次战斗
 
-[华舞](Flourish.md "华舞") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[华舞](Flourish.md "华舞") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：1~4
 
@@ -61,7 +59,7 @@
 范围：正常武器范围
 重置：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[割裂](Lacerate.md "割裂") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 
@@ -75,7 +73,7 @@
 范围：正常武器范围
 重置：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 
@@ -85,7 +83,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 
@@ -99,7 +97,7 @@
 范围：正常武器范围
 重置：[短休](Short_rest.md "短休")
 
-[震慑凝视](Stunning_Gaze.md "震慑凝视") ()
+[震慑凝视](Stunning_Gaze.md "震慑凝视")
 以18米（60英尺）内一个可见的生物为目标。目标必须成功通过[感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则将被[震慑](Stunned_(Condition).md "震慑 (状态)")直到其下一回合结束。**硬核难度：**此动作不需要[专注](Concentration.md "专注")。
 
 [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")

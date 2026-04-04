@@ -30,10 +30,10 @@ UID `MAG_SHA_SeluneBlessing_Spear` UUID `2eeabe97-8f29-4f4f-827e-6cfcd8fd1779` S
 
 **持有此物品者获得：**
 
-[月华之光](Moonbeam.md "月华之光") ()
+[月华之光](Moonbeam.md "月华之光")
 施放为 3 级法术（充能：[长休](Long_rest.md "长休")。）
 
-[月之尘埃](Moonmote.md "月之尘埃") ()
+[月之尘埃](Moonmote.md "月之尘埃")
 用月光般的微光照亮你周围的区域，使敌人移动困难并增强盟友的伤害。（充能：[长休](Long_rest.md "长休")。）
 
 [塞伦涅的祝福](Sel%C3%BBne's_Blessing_(passive_feature).md)
@@ -46,10 +46,10 @@ UID `MAG_SHA_SeluneBlessing_Spear` UUID `2eeabe97-8f29-4f4f-827e-6cfcd8fd1779` S
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足（状态）")。他们无法移动。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

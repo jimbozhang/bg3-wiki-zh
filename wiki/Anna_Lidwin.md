@@ -3,15 +3,35 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [珍妮·德莱尼](https://www.imdb.com/name/nm9860537/) |
+| 声音 / 演员 | [珍妮·德莱尼](https://www.imdb.com/name/nm9860537/) |
+| 角色 | [商人](Trader.md "Trader") |
+| 家乡 | [治疗中心](House_of_Healing.md "House of Healing"), [雷斯文小镇](Reithwin_Town.md "Reithwin Town") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [不死生物](Undead.md "Undead") |
 | 种族 | [不死生物](Undead.md "Undead") |
-| 等级 | 6 |
-| 生命值 | 48 |
-| 护甲等级 | 13 |
-| 先攻 | +3 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+| 生命值 | 48 | 33 | 62 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 65 千克 (130 磅) | 65 千克 (130 磅) | 65 千克 (130 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 16 / (+3) | 12 / (+1) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 [治疗中心](House_of_Healing.md "House of Healing"), [雷斯文小镇](Reithwin_Town.md "Reithwin Town")
 
@@ -64,7 +84,7 @@
 
 ### 攻击与能力
 
-[心灵尖啸](Mind_Screech.md "Mind Screech") ()
+[心灵尖啸](Mind_Screech.md "Mind Screech")
 
 伤害: 4~24
 
@@ -75,7 +95,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
 充能: 每回合
 
-[亲切助手](Obliging_Assistant.md "Obliging Assistant") ()
+[亲切助手](Obliging_Assistant.md "Obliging Assistant")
 
 治疗: 3~18 + 调整值
 

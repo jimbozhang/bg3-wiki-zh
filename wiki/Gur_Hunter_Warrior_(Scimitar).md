@@ -48,7 +48,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [弯刀 +1](Scimitar_+1.md "弯刀 +1")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [弯刀 +1](Scimitar_+1.md "弯刀 +1")
 
 伤害：6~11
 
@@ -58,7 +58,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") () – [弯刀 +1](Scimitar_+1.md "弯刀 +1")
+[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") – [弯刀 +1](Scimitar_+1.md "弯刀 +1")
 
 伤害：6~11
 

@@ -5,11 +5,36 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [异怪](Aberration.md "异怪") |
 | 种族 | [异怪](Aberration.md "异怪") |
-| 等级 | 12 |
-| 生命值 | 100 |
-| 护甲等级 | 18 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 12 | 12 |
+| 生命值 | 100 | 130 |
+| 护甲等级 | 18 | 18 |
+| 先攻 | +2 | +2 |
+| 熟练项 | +4 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 90 千克 (180 磅) | 90 千克 (180 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 14 / (+2) | 14 / (+2) | 10 / (0) | 8 / (-1) | 22 / (+6) |
+
+**特性**
+
+- [反射闪避](Evasion.md "反射闪避")
+- [超魔：高强法术](Metamagic_colon__Heightened_Spell.md "超魔：高强法术")
+- [超魔：默发法术](Metamagic_colon__Subtle_Spell.md "超魔：默发法术")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能统御](Psionic_Dominance_(passive_feature).md "灵能统御（被动特性）")
+
+**特性**
+
+- [反射闪避](Evasion.md "反射闪避")
+- [超魔：高强法术](Metamagic_colon__Heightened_Spell.md "超魔：高强法术")
+- [超魔：默发法术](Metamagic_colon__Subtle_Spell.md "超魔：默发法术")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能统御](Psionic_Dominance_(passive_feature).md "灵能统御（被动特性）")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -33,7 +58,7 @@
 
 ### 攻击与能力
 
-[黑洞](Black_Hole.md "黑洞") ()
+[黑洞](Black_Hole.md "黑洞")
 
 创建一个强引力点，将所有附近的敌人拉入，并可能使其[减速](Slowed_(Condition).md "减速（状态）")。
 
@@ -54,7 +79,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[聚能爆破](Concentrated_Blast.md "聚能爆破") ()
+[聚能爆破](Concentrated_Blast.md "聚能爆破")
 
 伤害：3~18
 
@@ -71,7 +96,7 @@
 范围：9 米 (30 英尺)
 充能：每回合
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长棍 +2](Quarterstaff_+2.md "长棍 +2")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长棍 +2](Quarterstaff_+2.md "长棍 +2")
 
 伤害：6~11
 

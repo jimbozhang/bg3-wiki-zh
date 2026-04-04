@@ -23,7 +23,7 @@
 
 召唤五个影子朋友。死亡时，对[夜穹](Nightdome.md "夜穹")造成10⁠⁠[力场](Force.md "力场")伤害。
 
-[黯蚀爪](Necrotic_Claws_(Shadow).md "黯蚀爪（影子）") ()
+[黯蚀爪](Necrotic_Claws_(Shadow).md "黯蚀爪（影子）")
 
 用被诅咒的爪子猛击。
 

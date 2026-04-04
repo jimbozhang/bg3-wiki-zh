@@ -33,7 +33,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短矛 +1](Spear_+1.md "短矛 +1")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短矛 +1](Spear_+1.md "短矛 +1")
 
 伤害：7~12
 
@@ -48,7 +48,7 @@
 
 射程：18 m (60 ft)
 
-[命令之声](Voice_of_Command.md "命令之声") ()
+[命令之声](Voice_of_Command.md "命令之声")
 以黑暗之主之名命令一名盟友，使其引导[班恩之怒](Bane's_Wrath.md "班恩之怒")。
 
 射程：9 m (30 ft)

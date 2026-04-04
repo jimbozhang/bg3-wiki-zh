@@ -3,155 +3,46 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Hanako Footman](https://www.imdb.com/name/nm5427256/) |
+| 声音 / 演员 | [Hanako Footman](https://www.imdb.com/name/nm5427256/) |
+| 角色 | [商人](Trader.md "商人") |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门")， |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [卓尔](Drow.md "卓尔") |
+| 亚种 | [罗丝誓约卓尔](Lolth-Sworn_Drow.md "罗丝誓约卓尔") |
+| 职业 | [游荡者](Rogue.md "游荡者") |
 
-## 平衡模式难度属性
-
-### 等级
-
-6
-
-### 生命值
-
-52
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-110
-
-| 种族 | 灵药 |
+| | |
 | --- | --- |
-| [龙裔](Dragonborn.md "龙裔") - [黑龙裔](Black_Dragonborn.md "黑龙裔") | [龙裔威能灵药: 酸液](Elixir_of_Dragonborn_Prowess_colon__Acid.md "龙裔威能灵药: 酸液") |
-| [龙裔](Dragonborn.md "龙裔") - [蓝龙裔](Blue_Dragonborn.md "蓝龙裔") | [龙裔威能灵药：闪电](Elixir_of_Dragonborn_Prowess_colon__Lightning.md "龙裔威能灵药：闪电") |
-| [龙裔](Dragonborn.md "龙裔") - [黄铜龙裔](Brass_Dragonborn.md "黄铜龙裔") | [龙裔威能灵药：火焰](Elixir_of_Dragonborn_Prowess_colon__Fire.md "龙裔威能灵药：火焰") |
-| [龙裔](Dragonborn.md "龙裔") - [青铜龙裔](Bronze_Dragonborn.md "青铜龙裔") | [龙裔威能灵药：闪电](Elixir_of_Dragonborn_Prowess_colon__Lightning.md "龙裔威能灵药：闪电") |
-| [龙裔](Dragonborn.md "龙裔") - [赤铜龙裔](Copper_Dragonborn.md "赤铜龙裔") | [龙裔威能灵药: 酸液](Elixir_of_Dragonborn_Prowess_colon__Acid.md "龙裔威能灵药: 酸液") |
-| [龙裔](Dragonborn.md "龙裔") - [金龙裔](Gold_Dragonborn.md "金龙裔") | [龙裔威能灵药：火焰](Elixir_of_Dragonborn_Prowess_colon__Fire.md "龙裔威能灵药：火焰") |
-| [龙裔](Dragonborn.md "龙裔") - [绿龙裔](Green_Dragonborn.md "绿龙裔") | [龙裔威能灵药：毒素](Elixir_of_Dragonborn_Prowess_colon__Poison.md "龙裔威能灵药：毒素") |
-| [龙裔](Dragonborn.md "龙裔") - [红龙裔](Red_Dragonborn.md "红龙裔") | [龙裔威能灵药：火焰](Elixir_of_Dragonborn_Prowess_colon__Fire.md "龙裔威能灵药：火焰") |
-| [龙裔](Dragonborn.md "龙裔") - [银龙裔](Silver_Dragonborn.md "银龙裔") | [龙裔威能灵药：冰霜](Elixir_of_Dragonborn_Prowess_colon__Frost.md "龙裔威能灵药：冰霜") |
-| [龙裔](Dragonborn.md "龙裔") - [白龙裔](White_Dragonborn.md "白龙裔") | [龙裔威能灵药：冰霜](Elixir_of_Dragonborn_Prowess_colon__Frost.md "龙裔威能灵药：冰霜") |
-| [卓尔](Drow.md "卓尔") | [精灵优雅灵药](Elixir_of_Elven_Elegance.md "精灵优雅灵药") |
-| [矮人](Dwarf.md "矮人") | [矮人耐久灵药](Elixir_of_Dwarven_Resilience.md "矮人耐久灵药") |
-| [精灵](Elf.md "精灵") | [精灵优雅灵药](Elixir_of_Elven_Elegance.md "精灵优雅灵药") |
-| [吉斯洋基人](Githyanki.md "吉斯洋基人") | [吉斯洋基预见灵药](Elixir_of_Githyanki_Providence.md "吉斯洋基预见灵药") |
-| [侏儒](Gnome.md "侏儒") | [侏儒天才灵药](Elixir_of_Gnomish_Ingenuity.md "侏儒天才灵药") |
-| [半精灵](Half-Elf.md "半精灵") | [半精灵治疗灵药](Elixir_of_Half-Elven_Healing.md "半精灵治疗灵药") |
-| [半兽人](Half-Orc.md "半兽人") | [半兽人愤怒灵药](Elixir_of_Half-Orcish_Fury.md "半兽人愤怒灵药") |
-| [半身人](Halfling.md "半身人") | [半身人幸运灵药](Elixir_of_Halfling_Luck.md "半身人幸运灵药") |
-| [人类](Human.md "人类") | [人类通才灵药](Elixir_of_Human_Versatility.md "人类通才灵药") |
-| [提夫林](Tiefling.md "提夫林") | [提夫林罪恶灵药](Elixir_of_Tiefling_Vice.md "提夫林罪恶灵药") |
+| 等级 | 6 |
+| 生命值 | 67 |
+| 护甲等级 | 14 |
+| 先攻 | +3 |
+| 熟练项 | +3 |
+| 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 16 米 (53 英尺) |
+| 经验值 | 110 |
 
-## 探索者模式难度属性
-
-### 等级
-
-6
-
-### 生命值
-
-36
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+5
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 0 | +6 | +1 | +4 | 0 | +1 |
-
-## 硬核模式难度属性
-
-### 等级
-
-6
-
-### 生命值
-
-67
-
-### 护甲等级
-
-14
-
-### 先攻
-
-+3
-
-### 熟练项
-
-+3
-
-### 移动速度
-
-9 米 (30 英尺)
-
-### 重量
-
-75 千克 (150 磅)
-
-### 高级黑暗视觉
-
-16 米 (53 英尺)
-
-### 经验值奖励
-
-110
-
-| 属性值 | 运动 | 体操 | 察觉 |
+| 属性值 | 运动 | 体操 | 察觉技能 |
 | --- | --- | --- | --- |
 |  | 0 | 3 | 0 |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
 **阿拉吉·欧布罗扎**是一位[卓尔](Drow.md "卓尔")[商人](Traders.md "商人")和血液炼金术士，可以在[月出之塔](Moonrise_Towers.md "月出之塔")和博德之门的[下城区](Lower_City.md "下城区")找到。除了她出售的物品外，她还提供独特的药水以换取血液样本，并要求与[阿斯代伦](Astarion.md "阿斯代伦")交谈。
 
@@ -330,17 +221,17 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "灵巧动作：疾走")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "移动速度")。
 
 范围：自身
 
-[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离") ()
+[灵巧动作：撤离](Cunning_Action_colon__Disengage.md "灵巧动作：撤离")
 安全撤退。移动不会引发[借机攻击](Attack_of_Opportunity.md "借机攻击")。
 
 范围：自身
 
-[移动射击](Mobile_Shot.md "移动射击") () – [手弩](Hand_Crossbow.md "手弩")
+[移动射击](Mobile_Shot.md "移动射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -351,7 +242,7 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 范围：15 米 (50 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：4~7
 
@@ -365,7 +256,7 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [手弩](Hand_Crossbow.md "手弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：4~9
 
@@ -379,7 +270,7 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") () – [匕首](Dagger.md "匕首")
+[偷袭（近战）](Sneak_Attack_(Melee).md "偷袭（近战）") – [匕首](Dagger.md "匕首")
 
 伤害：5~13
 
@@ -394,7 +285,7 @@ _当阿斯代伦被带到阿拉吉·欧布罗扎面前时：_
 范围：正常武器范围
 充能：每回合
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") () – [手弩](Hand_Crossbow.md "手弩")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：5~15
 

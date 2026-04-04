@@ -22,9 +22,9 @@
 
 普通偷袭被替换为狂妄偷袭。
 
-[狂妄偷袭（近战）](Rakish_Sneak_Attack_(Melee).md "狂妄偷袭（近战）") ()
+[狂妄偷袭（近战）](Rakish_Sneak_Attack_(Melee).md "狂妄偷袭（近战）")
 对拥有[优势](Advantage.md "优势")的敌人造成额外伤害。如果目标2米/7英尺范围内没有其他战斗人员，或者你在此范围内有盟友，你也可以在没有优势的情况下使用此攻击。（充能：每回合。）
-[狂妄偷袭（远程）](Rakish_Sneak_Attack_(Ranged).md "狂妄偷袭（远程）") ()
+[狂妄偷袭（远程）](Rakish_Sneak_Attack_(Ranged).md "狂妄偷袭（远程）")
 对拥有[优势](Advantage.md "优势")的敌人造成额外伤害。如果目标2米/7英尺范围内没有其他战斗人员，或者你在此范围内有盟友，你也可以在没有优势的情况下使用此攻击。（充能：每回合。）
 
 ### 等级 4
@@ -33,16 +33,16 @@
 学习以下肮脏伎俩。
 [魅力](Charisma.md "魅力")是这些能力的施法调整值，除了沙投（使用敏捷）。
 
-[肮脏伎俩：手腕轻弹](Dirty_Trick_colon__Flick_o'_the_Wrist.md "肮脏伎俩：手腕轻弹") ()
+[肮脏伎俩：手腕轻弹](Dirty_Trick_colon__Flick_o'_the_Wrist.md "肮脏伎俩：手腕轻弹")
 轻弹武器攻击目标，并可能使其[缴械](Disarmed_(Condition).md "缴械（状态）")。
-[肮脏伎俩：沙投](Dirty_Trick_colon__Sand_Toss.md "肮脏伎俩：沙投") ()
+[肮脏伎俩：沙投](Dirty_Trick_colon__Sand_Toss.md "肮脏伎俩：沙投")
 向敌人投掷一把沙子，并可能使其[目盲](Blinded_(Condition).md "目盲（状态）")。
-[肮脏伎俩：恶毒嘲笑](Dirty_Trick_colon__Vicious_Mockery.md "肮脏伎俩：恶毒嘲笑") ()
+[肮脏伎俩：恶毒嘲笑](Dirty_Trick_colon__Vicious_Mockery.md "肮脏伎俩：恶毒嘲笑")
 侮辱一个生物：其下一次[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 
 ### 等级 9
 
-[魅力](Panache.md "魅力") ()
+[魅力](Panache.md "魅力")
 进行[游说](Persuasion.md "游说")检定以迷惑一个类人生物，该生物必须用[洞悉](Insight.md "洞悉")检定进行对抗。失败的敌人获得[魅力：劣势](Panache_colon__Disadvantage_(Condition).md "魅力：劣势（状态）")；其他失败者则被[魅惑](Charmed_(Condition).md "魅惑（状态）")。
 
 ## 参考文献

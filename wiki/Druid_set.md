@@ -15,7 +15,7 @@ Cast as a level 3 spell (Recharge: [Short rest](Short_rest.md "Short rest").)
 | 硬木短棒 | [主手近战](Main_Hand_Melee.md "主手近战") ([短棒](Clubs.md "短棒")) | 当[橡棍术](Shillelagh.md "橡棍术")施放于此武器时，赋予[硬木和谐](Ironwood_Harmony_(Condition).md "硬木和谐 (状态)") (+1d4 钝击伤害)。 |
 | 铁藤盾牌 | [副手近战](Off-Hand_Melee.md "副手近战") ([盾牌](Shields.md "盾牌")) | [铁蔓](Ironvine.md "铁蔓")当持有者手持被[橡棍术](Shillelagh_(Condition).md "橡棍术 (状态)")强化的武器，且当他们被近战攻击命中时，攻击者受到⁠[穿刺](Piercing.md "穿刺")伤害，伤害值等于持有者的[感知](Wisdom.md "感知")调整值。 |
 | 残破甲壳 | [护甲](Armour.md "护甲") ([服装](Clothing.md "服装")) | [护甲等级](Armour_Class.md "护甲等级") +1 [无形杀戮](Formless_Slaughter.md "无形杀戮")当你变形或伪装时，攻击检定和伤害掷骰获得+1加值。[无面假面](Faceless_Masquerade.md "无面假面")你在[欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")和[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "Advantage")。 |
-| 苍白橡树 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | 仅德鲁伊玩家角色可获得。[信仰守望者之步](Faithwarden's_Stride.md "信仰守望者之步")德鲁伊藤蔓无法[缠绕](Entangled_(Condition).md "缠绕 (状态)")你，且不计入劣势地形。[信仰守望者的藤蔓](Faithwarden's_Vines.md "信仰守望者的藤蔓") () 施放为1级法术 ( recharge: [长休](Long_Rest.md "长休")。) |
+| 苍白橡树 | [主手近战](Main_Hand_Melee.md "主手近战") ([长棍](Quarterstaves.md "长棍")) | 仅德鲁伊玩家角色可获得。[信仰守望者之步](Faithwarden's_Stride.md "信仰守望者之步")德鲁伊藤蔓无法[缠绕](Entangled_(Condition).md "缠绕 (状态)")你，且不计入劣势地形。[信仰守望者的藤蔓](Faithwarden's_Vines.md "信仰守望者的藤蔓") 施放为1级法术 ( recharge: [长休](Long_Rest.md "长休")。) |
 | 变形生物帽子 | [帽子](Headgear.md "帽子") ([非护甲](Headwear#Non-Armour.md#Non-Armour "头部装备")) | [自然](Nature.md "自然") +1 [自然之拥](Nature's_Embrace.md "自然之拥")你的[荒野形态](Wild_Shape.md "荒野形态")冲锋次数增加1。此额外冲锋次数在进行[长休](Long_Rest.md "长休")后恢复。 |
 | 变形者的恩赐之戒 | [戒指](Ring.md "戒指") | [变形者的恩赐](Shapeshifter's_Boon.md "变形者的恩赐")当你变形或伪装自己时，所有[属性检定](Ability_Check.md "属性检定")获得+1d4加值。 |
 

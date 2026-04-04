@@ -26,17 +26,17 @@ UID `MAG_Surgeon_Bonesaw` UUID `81177d6e-6761-4f8e-9bbe-1e291dd18664` ### 武器
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[华舞](Flourish.md "Flourish") ()
+[华舞](Flourish.md "Flourish")
 佯攻以可能使你的对手[失衡](Off_Balance_(Condition).md "失衡 (状态)"). (充能：[短休](Short_rest.md "短休").)
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标的要害使其[流血](Bleeding_(Condition).md "流血 (状态)"). (充能：[短休](Short_rest.md "短休").)
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[断筋](Incise_Ligaments.md "Incise Ligaments") ()
+[断筋](Incise_Ligaments.md "Incise Ligaments")
 将锯子最黑的锯齿磨入敌人的小腿，可能使其[减速](Slowed_(Condition).md "减速 (状态)"). (充能：[短休](Short_rest.md "短休").)
 
 ## 获取地点

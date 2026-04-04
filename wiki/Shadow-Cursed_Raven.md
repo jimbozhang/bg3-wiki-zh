@@ -35,7 +35,7 @@
 
 ## 动作
 
-[喙啄攻击](Beak_Attack_(Shadow-Cursed_Raven).md "喙啄攻击 (幽影诅咒渡鸦)") ()
+[喙啄攻击](Beak_Attack_(Shadow-Cursed_Raven).md "喙啄攻击 (幽影诅咒渡鸦)")
 
 伤害: 1~6
 
@@ -45,7 +45,7 @@
 
 近战: 1.5 米 (5 英尺)
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞向目标位置
 
 射程: 18 米 (60 英尺)

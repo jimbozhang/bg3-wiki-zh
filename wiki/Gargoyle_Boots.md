@@ -18,7 +18,7 @@
 
 - [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw") +2
 
-[石像鬼面容](Gargoyle's_Countenance.md "石像鬼面容") ()
+[石像鬼面容](Gargoyle's_Countenance.md "石像鬼面容")
 以4级法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 备注

@@ -54,7 +54,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "Flourish") () – [凶残切割](Murderous_Cut.md "Murderous Cut")
+[华舞](Flourish.md "Flourish") – [凶残切割](Murderous_Cut.md "Murderous Cut")
 
 伤害：1~4
 
@@ -66,7 +66,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[割裂](Lacerate.md "Lacerate") () – [凶残切割](Murderous_Cut.md "Murderous Cut")
+[割裂](Lacerate.md "Lacerate") – [凶残切割](Murderous_Cut.md "Murderous Cut")
 
 伤害：7~10
 
@@ -80,7 +80,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [凶残切割](Murderous_Cut.md "Murderous Cut")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [凶残切割](Murderous_Cut.md "Murderous Cut")
 
 伤害：7~10
 
@@ -90,7 +90,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [凶残切割](Murderous_Cut.md "Murderous Cut")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [凶残切割](Murderous_Cut.md "Murderous Cut")
 
 伤害：7~10
 
@@ -104,7 +104,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[震慑凝视](Stunning_Gaze.md "Stunning_Gaze") ()
+[震慑凝视](Stunning_Gaze.md "Stunning_Gaze")
 以 18 米 (60 英尺) 内一个可见的生物为目标。目标必须通过[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")，否则将被[震慑](Stunned_(Condition).md "Stunned (Condition)")直到其下一回合结束。**硬核难度：** 此动作不需要[专注](Concentration.md "Concentration")。
 
 [感知](Wisdom.md "感知") [豁免](Saving_throws.md "Saving throws")

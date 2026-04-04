@@ -51,18 +51,18 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")。在你的回合剩余时间内，掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "Short rest")
 
-[灰矮人隐形](Invisibility_(Duergar).md "Invisibility (Duergar)") ()
+[灰矮人隐形](Invisibility_(Duergar).md "Invisibility (Duergar)")
 变为隐形。
 
 范围：自身
 充能：每次战斗
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [匕首](Dagger.md "Dagger")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 
@@ -72,7 +72,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 伤害：3~6
 
@@ -86,7 +86,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：3~12
 
@@ -100,7 +100,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [重弩](Heavy_Crossbow.md "Heavy Crossbow")
 
 伤害：3~12
 
@@ -112,7 +112,7 @@
 
 ### 仅限硬核难度
 
-[推击](Shove.md "Shove") ()
+[推击](Shove.md "Shove")
 
 尝试推开你的目标。你的成功率取决于你的[运动](Athletics.md "Athletics")技能，如果你处于隐藏或隐形状态，成功率更高。
 

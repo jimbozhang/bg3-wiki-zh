@@ -38,7 +38,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短棒](Club.md "短棒")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短棒](Club.md "短棒")
 
 伤害：1~4
 

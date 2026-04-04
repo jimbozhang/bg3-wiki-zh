@@ -25,17 +25,17 @@ UID `MAG_LC_PirateCommander_Scimitar` UUID `f9100179-19f6-49f9-8ad5-bda4d21220bc
 
 **持有此物品获得：**
 
-[命令术](Command.md "命令术") ()
+[命令术](Command.md "命令术")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 ### 武器动作
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使你的对手[失衡](Off_Balance_(Condition).md "失衡 (状态)"). (充能：[短休](Short_rest.md "短休").)
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害点使其[流血](Bleeding_(Condition).md "流血 (状态)"). (充能：[短休](Short_rest.md "短休").)
 
 ## 获取地点

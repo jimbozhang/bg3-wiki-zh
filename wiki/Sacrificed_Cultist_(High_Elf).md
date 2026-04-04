@@ -53,7 +53,7 @@
 
 ### 攻击与能力
 
-[酸液飞溅](Acid_Splash.md "酸液飞溅") ()
+[酸液飞溅](Acid_Splash.md "酸液飞溅")
 
 伤害：1~6
 
@@ -64,7 +64,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 m (60 ft)
 
-[徒手打击](Unarmed_Strike.md "徒手打击") ()
+[徒手打击](Unarmed_Strike.md "徒手打击")
 
 伤害：1
 

@@ -29,7 +29,7 @@
 
 ### 攻击与能力
 
-[恐怖灵光](Aura_of_Terror.md "恐怖灵光") ()
+[恐怖灵光](Aura_of_Terror.md "恐怖灵光")
 
 在你的压迫性存在范围内，使敌人在[攻击](Attack.md "攻击")和[豁免检定](Saving_throws.md "豁免检定")上处于[劣势](Disadvantage.md "劣势")。
 
@@ -48,7 +48,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：9 米 (30 英尺)
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") () – [地狱硬头锤](Infernal_Mace.md "地狱硬头锤")
+[震荡猛击](Concussive_Smash.md "震荡猛击") – [地狱硬头锤](Infernal_Mace.md "地狱硬头锤")
 
 伤害：9~14
 
@@ -81,13 +81,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[启动颈圈爆炸](Initiate_Collar_Detonation.md "启动颈圈爆炸") ()
+[启动颈圈爆炸](Initiate_Collar_Detonation.md "启动颈圈爆炸")
 倒计时结束后，所有贡迪安人都将遭受可怕的命运。
 
 范围：9 米 (30 英尺)
 充能：每次战斗
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [地狱硬头锤](Infernal_Mace.md "地狱硬头锤")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [地狱硬头锤](Infernal_Mace.md "地狱硬头锤")
 
 伤害：9~14
 

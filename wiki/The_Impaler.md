@@ -36,20 +36,20 @@ UID `MAG_Generic_01_Pike_2` UUID `53023726-12bd-4871-805a-66744321dfdb` * UID `M
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[备战（近战）](Brace_(Melee).md "Brace（近战）") ()
+[备战（近战）](Brace_(Melee).md "Brace（近战）")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在本回合剩余时间内，掷两次近战伤害并取最高值。（充能：[短休](Short_rest.md "短休")。）
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击一名敌人，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[突进攻击](Rush_Attack.md "突进攻击") ()
+[突进攻击](Rush_Attack.md "突进攻击")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[血腥高歌](Bloodrender.md "血腥高歌") ()
+[血腥高歌](Bloodrender.md "血腥高歌")
 造成等同于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外伤害。成功命中后，你获得[血腥高歌](Bloodrender_(Condition).md "血腥高歌（状态）")，使你能够以消耗部分生命值为代价造成更多伤害。（充能：[短休](Short_rest.md "短休")。）
 
 ## 备注

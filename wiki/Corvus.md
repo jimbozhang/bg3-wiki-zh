@@ -17,7 +17,7 @@
 
 ### 攻击与属性
 
-[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击 (恐鸦)") ()
+[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击 (恐鸦)")
 
 伤害: 4~10
 

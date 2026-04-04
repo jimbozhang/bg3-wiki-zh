@@ -12,13 +12,13 @@
 
 ## 赋予
 
-[噼啪砰孢子](Bibberbang_Spores.md "噼啪砰孢子") ()
+[噼啪砰孢子](Bibberbang_Spores.md "噼啪砰孢子")
 喷射有毒的噼啪砰孢子并制造一团[有毒烟雾](Noxious_Fumes.md "有毒烟雾")。（充能：[长休](Long_Rest.md "长休")。）
 
-[加速孢子](Haste_Spores.md "加速孢子") ()
+[加速孢子](Haste_Spores.md "加速孢子")
 喷射一团白色孢子，对进入该云团的任何生物施加[加速术](Haste_Spores_(Condition).md "加速孢子 (状态)")。（充能：[长休](Long_Rest.md "长休")。）
 
-[鬼头蘑菇孢子](Timmask_Spores_(class_action).md "鬼头蘑菇孢子 (职业动作)") ()
+[鬼头蘑菇孢子](Timmask_Spores_(class_action).md "鬼头蘑菇孢子 (职业动作)")
 喷射鬼头蘑菇孢子，可使生物[昏沉](Befuddled_(Condition).md "昏沉 (状态)")。（充能：[长休](Long_Rest.md "长休")。）
 
 ## 备注

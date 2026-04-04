@@ -28,20 +28,20 @@ UID `MAG_FlamingFist_Longsword` UUID `d4cb8410-096a-480e-88fb-7224c6b654f6` ### 
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[剑柄打击](Pommel_Strike.md "Pommel_Strike") ()
+[剑柄打击](Pommel_Strike.md "Pommel_Strike")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[突进攻击](Rush_Attack.md "Rush_Attack") ()
+[突进攻击](Rush_Attack.md "Rush_Attack")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[火炎剑](Flaming_Blade.md "Flaming_Blade") ()
+[火炎剑](Flaming_Blade.md "Flaming_Blade")
 将你的刀刃如凤凰之翼般点燃，并用其炽热的钢铁打击敌人。（充能：[短休](Short_rest.md "短休")。）
 
 ---

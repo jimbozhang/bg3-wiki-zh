@@ -27,7 +27,7 @@
 
 ### 攻击与能力
 
-[猛击](Slam_(Ogre).md "Slam (Ogre)") ()
+[猛击](Slam_(Ogre).md "Slam (Ogre)")
 
 伤害：7~21
 
@@ -38,7 +38,7 @@
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
 射程：3 米 (10 英尺)
 
-[投掷](Throw_(Ogre_Brute).md "Throw (Ogre Brute)") ()
+[投掷](Throw_(Ogre_Brute).md "Throw (Ogre Brute)")
 
 伤害：1~4
 
@@ -52,7 +52,7 @@
 
 射程：29 米 (97 英尺)
 
-[投掷石头](Throw_Stone_(Ogre).md "Throw Stone (Ogre)") ()
+[投掷石头](Throw_Stone_(Ogre).md "Throw Stone (Ogre)")
 
 伤害：7~17
 

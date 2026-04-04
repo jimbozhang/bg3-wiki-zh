@@ -19,7 +19,7 @@
 
 ### 攻击和能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [刺剑 +1](Rapier_+1.md "Rapier +1")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [刺剑 +1](Rapier_+1.md "Rapier +1")
 
 伤害：6~13
 
@@ -29,7 +29,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "Cunning Action: Dash") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "Cunning Action: Dash")
 本回合覆盖更多距离：使你的[移动速度](Movement_speed.md "Movement Speed")翻倍。
 
 范围：自身

@@ -32,7 +32,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 - [神恩](Divine_Favour.md "神恩") * [虔诚护盾](Shield_of_Faith.md "虔诚护盾")
 ### 等级 2
 
-[导引打击](Guided_Strike.md "导引打击") ()
+[导引打击](Guided_Strike.md "导引打击")
 你的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +10 加值。
 
 ### 等级 3
@@ -53,7 +53,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 - [精魂守卫](Spirit_Guardians.md "精魂守卫") * [十字军披风](Crusader's_Mantle.md "十字军披风")
 ### 等级 6
 
-[战神赐福](War_God's_Blessing.md "战神赐福") ()
+[战神赐福](War_God's_Blessing.md "战神赐福")
 将你神祇的荣耀赋予附近盟友，使其[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +10 加值。
 
 ### 等级 7
@@ -68,7 +68,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 [战争祭司冲锋](#level-1)：5
 获得一次额外冲锋
 
-[神恩打击：武器](Divine_Strike_colon__Weapon.md "神恩打击：武器") ()
+[神恩打击：武器](Divine_Strike_colon__Weapon.md "神恩打击：武器")
 每回合一次，在武器伤害之外额外造成 1d8⁠⁠[武器](Weapon.md "武器")伤害。（充能：每回合。）
 
 ### 等级 9

@@ -2,15 +2,38 @@
 
 | | |
 | --- | --- |
-| 配音 | - [James Alexander](https://www.imdb.com/name/nm9298458/) |
+| 声音 / 演员 | [James Alexander](https://www.imdb.com/name/nm9298458/) |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [狗头人](Kobold.md "狗头人") |
-| 等级 | 5 |
-| 生命值 | 17 |
-| 护甲等级 | 12 |
-| 先攻 | +2 |
-| 移动速度 | 9 m (30 ft) |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 17 | 11 | 27 |
+| 护甲等级 | 12 | 12 | 13 |
+| 先攻 | +2 | +2 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 35 kg (70 lb) | 35 kg (70 lb) | 35 kg (70 lb) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 7 / (-2) | 15 / (+2) | 12 / (+1) | 8 / (-1) | 7 / (-2) | 8 / (-1) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [集群战术](Pack_Tactics.md "集群战术")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [集群战术](Pack_Tactics.md "集群战术")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
 ## 状态
 
@@ -57,7 +80,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：4~7
 
@@ -67,7 +90,7 @@
 
 近战：1.5 m (5 ft)
 
-[投掷](Throw.md "投掷") () – [炼金火焰](Alchemist's_Fire.md "炼金火焰")
+[投掷](Throw.md "投掷") – [炼金火焰](Alchemist's_Fire.md "炼金火焰")
 
 伤害：
 
@@ -81,7 +104,7 @@
 
 范围：3-18 m (10-60 ft)
 
-[投掷石头](Throw_Stone_(Kobold).md "投掷石头 (狗头人)") ()
+[投掷石头](Throw_Stone_(Kobold).md "投掷石头 (狗头人)")
 
 伤害：4~7
 
@@ -95,7 +118,7 @@
 
 第三幕中的绿色变种也可以投掷强酸瓶：
 
-[投掷](Throw.md "投掷") () – [强酸瓶](Acid_Vial.md "强酸瓶")
+[投掷](Throw.md "投掷") – [强酸瓶](Acid_Vial.md "强酸瓶")
 
 伤害：
 

@@ -33,7 +33,7 @@
 
 ### 攻击和能力
 
-[猛击](Slam_(Greater_Zombie).md "猛击 (大僵尸)") ()
+[猛击](Slam_(Greater_Zombie).md "猛击 (大僵尸)")
 
 伤害: 9~34
 

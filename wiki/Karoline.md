@@ -31,7 +31,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [长戟](Halberd.md "长戟")
+[劈砍](Cleave.md "劈砍") – [长戟](Halberd.md "长戟")
 
 伤害：
 
@@ -41,7 +41,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [长戟](Halberd.md "长戟")
+[割裂](Lacerate.md "割裂") – [长戟](Halberd.md "长戟")
 
 伤害：6~15
 
@@ -55,7 +55,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [长戟](Halberd.md "长戟")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长戟](Halberd.md "长戟")
 
 伤害：6~15
 
@@ -65,7 +65,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[突进攻击](Rush_Attack.md "突进攻击") () – [长戟](Halberd.md "长戟")
+[突进攻击](Rush_Attack.md "突进攻击") – [长戟](Halberd.md "长戟")
 
 伤害：6~9
 
@@ -87,7 +87,7 @@
 
 充能：每回合
 
-[投掷](Throw.md "投掷") () – [标枪](Javelin.md "标枪")
+[投掷](Throw.md "投掷") – [标枪](Javelin.md "标枪")
 
 伤害：6~11
 

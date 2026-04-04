@@ -8,7 +8,7 @@
 
 ## 赋予
 
-\_(野蛮人)[狂野魔法：传送](Wild_Magic_colon__Teleport_(Activate)_(Barbarian).md "狂野魔法：传送 (激活) (野蛮人)") ()
+\_(野蛮人)[狂野魔法：传送](Wild_Magic_colon__Teleport_(Activate)_(Barbarian).md "狂野魔法：传送 (激活) (野蛮人)")
 作为附赠动作，传送至多 18 米（60 英尺）至一个你可见的未被占据空间。（充能：每驱散。）
 
 ## 狂野魔法：传送的来源

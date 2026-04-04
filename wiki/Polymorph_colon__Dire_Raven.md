@@ -41,9 +41,9 @@
 | 护甲等级 | 16 |  |
 | 体型 | 小型 |  |
 
-[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击（恐鸦）") ()
+[喙啄攻击](Beak_Attack_(Dire_Raven).md "喙啄攻击（恐鸦）")
 
-[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠（恐鸦）") ()
+[啄咬眼珠](Rend_Vision_(Dire_Raven).md "啄咬眼珠（恐鸦）")
 攻击生物的眼睛并使其 [目盲](Blinded_(Condition).md "目盲（状态）")。
 
 飞至目标位置

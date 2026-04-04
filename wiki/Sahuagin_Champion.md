@@ -23,7 +23,7 @@
 
 ### 攻击与能力
 
-[血腥狂怒](Blood_Frenzy.md "血腥狂怒") ()
+[血腥狂怒](Blood_Frenzy.md "血腥狂怒")
 
 鲜血的气味让沙华鱼人进入[鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)")！
 
@@ -32,7 +32,7 @@
 范围：12 米 (40 英尺)
 充能：每回合
 
-[爪击](Claws_(action).md "爪击 (动作)") ()
+[爪击](Claws_(action).md "爪击 (动作)")
 
 伤害：5~11
 

@@ -19,10 +19,10 @@
 
 此物品的穿戴者获得：
 
-[盾牌猛击](Shield_Blow.md "Shield_Blow") ()
+[盾牌猛击](Shield_Blow.md "Shield_Blow")
 当敌人用近战攻击命中你时，你可以使用你的[反应](reaction.md "reaction")将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")，除非它们成功通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving throw")。
 
-[奉献之盾：协助](Shield_of_Devotion_colon__Aid.md "Shield_of_Devotion: Aid") ()
+[奉献之盾：协助](Shield_of_Devotion_colon__Aid.md "Shield_of_Devotion: Aid")
 治疗自身并使你的生命值上限提高10点[生命值](Hit_Points.md "Hit points")。（充能：[长休](Long_Rest.md "Long rest")。）
 
 [额外法术位](Additional_Spell_Slot.md "Additional Spell Slot")

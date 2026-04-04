@@ -46,7 +46,7 @@
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围: 18 m (60 ft)
 
-[电爪](Shocking_Grasp.md "电爪") ()
+[电爪](Shocking_Grasp.md "电爪")
 
 伤害: 1~8
 

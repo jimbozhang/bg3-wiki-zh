@@ -3,16 +3,37 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Stephen Hogan](https://www.imdb.com/name/nm0389621/) |
+| 声音 / 演员 | [Stephen Hogan](https://www.imdb.com/name/nm0389621/) |
+| 家庭 | [布拉娜](Brynna.md "Brynna") (妹妹) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 3 |
-| 生命值 | 15 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 7.5 米 (25 英尺) |
-| 经验值 | 20 |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "Gold dwarf") |
+| 职业 | [牧师](Cleric.md "Cleric") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 15 | 10 | 19 |
+| 护甲等级 | 10 | 10 | 10 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +2 | +2 | +2 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 13 / (+1) | 10 / (0) | 12 / (+1) | 10 / (0) | 15 / (+2) | 9 / (-1) |
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **艾督因**是[至上真神](Absolute.md "Absolute")的[真魂者](True_Soul.md "True Soul")。他与[安德里克](Andrick.md "Andrick")和[布拉娜](Brynna.md "Brynna")一起在[荒野](Wilderness.md "Wilderness")中搜寻鹦鹉螺号坠毁的幸存者，以定位一件武器。
 

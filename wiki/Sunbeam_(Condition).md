@@ -12,7 +12,7 @@
 
 ## 赋予
 
-[再召阳炎射线](Recast_Sunbeam.md "Recast Sunbeam") ()
+[再召阳炎射线](Recast_Sunbeam.md "Recast Sunbeam")
 召唤另一道灼热光线，对路径上所有生物造成伤害并使其[目盲](Blinded_(Condition).md "Blinded (Condition)")，且不消耗[法术位](Spell_Slot.md "Spell Slot")。
 
 ## 阳炎射线来源

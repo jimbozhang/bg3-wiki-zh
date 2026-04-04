@@ -25,14 +25,14 @@ UID `MAG_Surgeon_Syringe` UUID `95c3af3c-83b9-4cc0-b633-1493b7daca4d` ### 武器
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击一名敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[注射秘药](Inject_Nostrum.md "注射秘药") ()
+[注射秘药](Inject_Nostrum.md "注射秘药")
 用你手术针管中的神秘液体注射一名敌人，并可能使其[中毒](Poisoned_(Condition).md "中毒（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

@@ -14,7 +14,7 @@
 
 此物品的穿戴者获得：
 
-[脱衣闪烁步](Disrobing_Blinkstep.md "Disrobing_Blinkstep") ()
+[脱衣闪烁步](Disrobing_Blinkstep.md "Disrobing_Blinkstep")
 你传送至一个你可见的未被占据空间。然而，你的衣物不会随你传送。（充能：每回合。）
 
 ## 获取地点

@@ -49,12 +49,12 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [重弩](Heavy_Crossbow.md "重弩")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [重弩](Heavy_Crossbow.md "重弩")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "移动速度")。在你的回合剩余时间内，投掷两次远程伤害并使用较高的结果。
 
 充能：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [重弩](Heavy_Crossbow.md "重弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：3~12
 
@@ -68,7 +68,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：3~12
 

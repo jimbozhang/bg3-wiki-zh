@@ -34,10 +34,10 @@
 | 移动速度 | 6米（20英尺） |  |  |  |  |
 | 体型 | 微型 |  |  |  |  |
 
-[短矛突刺](Spear_Thrust.md "短矛突刺") ()
+[短矛突刺](Spear_Thrust.md "短矛突刺")
 用你的神圣尖刺刺穿目标。
 
-[穿刺打击](Piercing_Strike_(Spiritual_Weapon).md "穿刺打击（灵体武器）") ()
+[穿刺打击](Piercing_Strike_(Spiritual_Weapon).md "穿刺打击（灵体武器）")
 造成常规伤害并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")，导致攻击造成额外伤害。（充能：[短休](Short_rest.md "短休")。）
 
 飞到目标位置

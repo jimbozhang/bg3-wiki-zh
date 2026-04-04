@@ -17,7 +17,7 @@
 
 佩戴此物品获得：
 
-[魔法飞弹](Magic_Missile.md "魔法飞弹") ()
+[魔法飞弹](Magic_Missile.md "魔法飞弹")
 以1环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [心灵飞弹](Psychic_Missiles.md "心灵飞弹")

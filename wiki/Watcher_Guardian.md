@@ -2,15 +2,43 @@
 
 | | |
 | --- | --- |
-| 配音 | - [James Alexander](https://www.imdb.com/name/nm9298458/) |
+| 声音 / 演员 | [James Alexander](https://www.imdb.com/name/nm9298458/) |
 | 体型 | 中型 |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半兽人](Half-Orc.md "Half-Orc") 或 [黄金矮人](Gold_Dwarf.md "Gold Dwarf") 或 [提夫林](Tiefling.md "Tiefling") |
-| 等级 | 10 |
-| 生命值 | 84 |
-| 护甲等级 | 18 |
-| 先攻 | +2 |
-| 经验值 | 250 |
+| 职业 | [战士](Fighter.md "Fighter") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 10 | 10 | 10 |
+| 生命值 | 84 | 58 | 109 |
+| 护甲等级 | 18 | 18 | 18 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 15 / (+2) | 11 / (0) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "Great Weapon Master: All In")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "Great Weapon Master: Bonus Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "Great Weapon Master: All In")
+- [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "Great Weapon Master: Bonus Attack")
+- [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **守望者卫士**是在[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间可召唤的盟友，他们运用巨武器大师的技艺保护城市免受[绝对真理教派势力](Absolute.md "Absolute")的入侵。
 
@@ -47,7 +75,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") () – [巨剑](Greatsword.md "Greatsword")
+[劈砍](Cleave.md "Cleave") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：
 
@@ -57,7 +85,7 @@
 
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨剑](Greatsword.md "Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：6~16
 
@@ -67,7 +95,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [巨剑](Greatsword.md "Greatsword")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：1~4
 
@@ -79,7 +107,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "Short rest")
 
-[突进攻击](Rush_Attack.md "Rush Attack") () – [巨剑](Greatsword.md "Greatsword")
+[突进攻击](Rush_Attack.md "Rush Attack") – [巨剑](Greatsword.md "Greatsword")
 
 伤害：5~8
 

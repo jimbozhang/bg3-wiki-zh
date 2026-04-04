@@ -36,7 +36,7 @@
 
 ### 攻击和能力
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [短弓](Shortbow.md "短弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [短弓](Shortbow.md "短弓")
 
 伤害：3~8
 
@@ -46,7 +46,7 @@
 
 射程：18 米 (60 英尺)
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") () – [短弓](Shortbow.md "短弓")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "偷袭（远程）") – [短弓](Shortbow.md "短弓")
 
 伤害：4~14
 
@@ -61,7 +61,7 @@
 射程：正常武器射程
 充能：每回合
 
-[投掷](Throw.md "投掷") () – [炼金火焰](Alchemist's_Fire.md "炼金火焰")
+[投掷](Throw.md "投掷") – [炼金火焰](Alchemist's_Fire.md "炼金火焰")
 
 伤害：
 

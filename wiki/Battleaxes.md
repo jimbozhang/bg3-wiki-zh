@@ -29,13 +29,13 @@
 
 _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器进行大范围弧线攻击，最多同时攻击 3 个敌人。每个敌人受到武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足（状态）")。目标无法移动。（充能：[短休](Short_rest.md "短休")。）
 
 ## 战斧列表
@@ -46,7 +46,7 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 | [魔契战斧](Pactbound_Battleaxe.md "魔契战斧") |  | 1d8 | 挥砍 | 1.8 千克 / 3.6 磅 | 0 |  |
 | [战斧 +1](Battleaxe_+1.md "战斧 +1") | +1 | 1d8 + 1 | 挥砍 | 1.9 千克 / 3.8 磅 | 65 |  |
 | [仪式战斧](Ceremonial_Battleaxe.md "仪式战斧") | +1 | 1d8 + 1 | 挥砍 | 1.9 千克 / 3.8 磅 | 65 |  |
-| [巫术破除](Witchbreaker.md "巫术破除") | +1 | 1d8 + 1 | 挥砍 | 1.8 千克 / 3.6 磅 | 100 | [巫术破除](Witchbreaker_(passive_feature).md "巫术破除（被动特性）")您对处于[专注](Concentration.md "专注")状态的生物进行[攻击掷骰](Attack_roll.md "攻击掷骰")时获得[优势](Advantage.md "优势")。[肃静！](Hush_You!.md "肃静！") () 劈砍目标并可能使其[沉默](Silenced_(Condition).md "沉默（状态）")。（充能：[短休](Short_rest.md "短休")。） |
+| [巫术破除](Witchbreaker.md "巫术破除") | +1 | 1d8 + 1 | 挥砍 | 1.8 千克 / 3.6 磅 | 100 | [巫术破除](Witchbreaker_(passive_feature).md "巫术破除（被动特性）")您对处于[专注](Concentration.md "专注")状态的生物进行[攻击掷骰](Attack_roll.md "攻击掷骰")时获得[优势](Advantage.md "优势")。[肃静！](Hush_You!.md "肃静！") 劈砍目标并可能使其[沉默](Silenced_(Condition).md "沉默（状态）")。（充能：[短休](Short_rest.md "短休")。） |
 | [热力之斧](Thermodynamo_Axe.md "热力之斧") | +1 | 1d8 + 1 | 挥砍 | 1.8 千克 / 3.6 磅 | 310 | [热力充沛](Thermodynamo.md "热力充沛")每当您使用此武器造成伤害时，获得 2 回合的[灼热](Heat_(Condition).md "灼热（状态）")。 |
 | [恶毒战斧](Vicious_Battleaxe.md "恶毒战斧") | +2 | 1d8 + 2 | 挥砍 | 1.8 千克 / 3.6 磅 | 310 | [多洛的凄凉](Dolor_Amarus_(passive_feature).md "多洛的凄凉（被动特性）")当您使用武器或徒手攻击造成[重击](Critical_Hit.md "重击")时，[[参见：错误](Dolor_Amarus_(passive_feature)#Bugs.md#Bugs "多洛的凄凉（被动特性）")]额外造成 7 点伤害。 |
 

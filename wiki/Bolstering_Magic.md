@@ -21,26 +21,26 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[野蛮
 
 #### 狂野魔法效果[&action=edit&section=3> "Edit section's source code: Wild Magic Effects") | &veaction=edit&section=3> "Edit section: Wild Magic Effects")]
 
-[魔法感知](Magic_Awareness.md "魔法感知") ()
+[魔法感知](Magic_Awareness.md "魔法感知")
 范围内的所有生物在[豁免检定](Saving_throw.md "豁免检定")上获得 1d4 加值。（充能：[短休](Short_rest.md "短休")。）
 
 ### 等级 6[&action=edit&section=4> "Edit section's source code: Level 6") | &veaction=edit&section=4> "Edit section: Level 6")]
 
-[强化魔法：恩赐](Bolstering_Magic_colon__Boon.md "强化魔法：恩赐") ()
+[强化魔法：恩赐](Bolstering_Magic_colon__Boon.md "强化魔法：恩赐")
 你或一名盟友在 10 驱散内获得 **+1d4** 加值，用于[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")。（充能：[长休](Long_Rest.md "长休")。）
-[强化魔法：一级法术位](Bolstering_Magic_colon__Level_1_Spell_Slot.md "强化魔法：一级法术位") ()
+[强化魔法：一级法术位](Bolstering_Magic_colon__Level_1_Spell_Slot.md "强化魔法：一级法术位")
 你或一名盟友恢复一个[一级法术位](Spells.md#Spell_slots "法术")。（充能：[长休](Long_Rest.md "长休")。）
-[强化魔法：二级法术位](Bolstering_Magic_colon__Level_2_Spell_Slot.md "强化魔法：二级法术位") ()
+[强化魔法：二级法术位](Bolstering_Magic_colon__Level_2_Spell_Slot.md "强化魔法：二级法术位")
 你或一名盟友恢复一个[二级法术位](Spells.md#Spell_slots "法术")。（充能：[长休](Long_Rest.md "长休")。）
 
 ### 等级 9[&action=edit&section=5> "Edit section's source code: Level 9") | &veaction=edit&section=5> "Edit section: Level 9")]
 
-[强化魔法：三级法术位](Bolstering_Magic_colon__Level_3_Spell_Slot.md "强化魔法：三级法术位") ()
+[强化魔法：三级法术位](Bolstering_Magic_colon__Level_3_Spell_Slot.md "强化魔法：三级法术位")
 你或一名盟友恢复一个[三级法术位](Spells.md#Spell_slots "法术")。（充能：[长休](Long_Rest.md "长休")。）
 
 ### 等级 10[&action=edit&section=6> "Edit section's source code: Level 10") | &veaction=edit&section=6> "Edit section: Level 10")]
 
-[动荡反冲](Unstable_Backlash.md "动荡反冲") ()
+[动荡反冲](Unstable_Backlash.md "动荡反冲")
 在[狂暴](Rage.md "狂暴")状态下，当你受到伤害或[豁免检定](Saving_throw.md "豁免检定")失败时，你会触发另一个[狂野魔法](Wild_Magic_table_(Barbarian).md) 效果来替换当前效果。
 
 ## 外部链接[&action=edit&section=7> "Edit section's source code: External links") | &veaction=edit&section=7> "Edit section: External links")]

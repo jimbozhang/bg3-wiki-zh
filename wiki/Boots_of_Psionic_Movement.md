@@ -17,7 +17,7 @@
 
 - [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw") +1
 
-[吉斯本能：飞靴](Githborn_colon__Flying_Boots.md "吉斯本能：飞靴") ()
+[吉斯本能：飞靴](Githborn_colon__Flying_Boots.md "吉斯本能：飞靴")
 以3环法术施展（充能：[长休](Long_Rest.md "长休")。）
 
 [飞行攻击](Flying_Strike.md "飞行攻击")

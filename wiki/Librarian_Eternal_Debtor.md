@@ -2,15 +2,37 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Akbar Kurtha](https://www.imdb.com/name/nm0475988/) |
+| 声音 / 演员 | [Akbar Kurtha](https://www.imdb.com/name/nm0475988/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [不死生物](Undead.md "Undead") |
 | 种族 | [骷髅](Skeleton.md "Skeleton") |
+
+| | |
+| --- | --- |
 | 等级 | 1 |
 | 生命值 | 6 |
 | 护甲等级 | 11 |
 | 先攻 | -1 |
+| 熟练项 | +2 |
 | 移动速度 | 9 m (30 ft) |
+| 重量 | 20 kg (40 lb) |
+| 暗视 | 12 m (40 ft) |
+
+| 属性值 | STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 8 / (-1) | 15 / (+2) | 6 / (-2) | 8 / (-1) | 5 / (-3) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [永恒债务](Forever_Indebted_(passive_feature).md "Forever Indebted (passive feature)")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [永恒债务](Forever_Indebted_(passive_feature).md "Forever Indebted (passive feature)")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -42,7 +64,7 @@
 
 ### 攻击与能力
 
-[冻僵](Bone_Chill.md "Bone Chill") ()
+[冻僵](Bone_Chill.md "Bone Chill")
 
 伤害: 1~8
 

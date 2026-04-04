@@ -35,7 +35,7 @@
 
 ## 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") ()
+[主手攻击](Main_Hand_Attack.md "主手攻击")
 
 伤害：
 

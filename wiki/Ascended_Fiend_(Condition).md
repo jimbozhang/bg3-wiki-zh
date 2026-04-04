@@ -14,7 +14,7 @@
 
 ## 赋予
 
-[多重攻击](Multiattack_(Raphael,_tactician).md "多重攻击 (拉斐尔，硬核)") ()
+[多重攻击](Multiattack_(Raphael,_tactician).md "多重攻击 (拉斐尔，硬核)")
 对一个目标瞄准多次攻击。
 
 ## 备注

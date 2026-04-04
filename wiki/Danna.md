@@ -123,7 +123,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 范围: 自身
 
-[劈砍](Cleave.md "劈砍") () – [长戟](Halberd.md "长戟")
+[劈砍](Cleave.md "劈砍") – [长戟](Halberd.md "长戟")
 
 伤害:
 
@@ -140,10 +140,10 @@
 
 在地面覆盖易燃油脂。它变成[劣势地形](Difficult_Terrain.md "劣势地形")，其中的生物可能[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[灰矮人隐形](Invisibility_(Duergar).md "隐形 (灰矮人)") ()
+[灰矮人隐形](Invisibility_(Duergar).md "隐形 (灰矮人)")
 变为隐形。
 
-[割裂](Lacerate.md "割裂") () – [长戟](Halberd.md "长戟")
+[割裂](Lacerate.md "割裂") – [长戟](Halberd.md "长戟")
 
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血 (状态)")。
 

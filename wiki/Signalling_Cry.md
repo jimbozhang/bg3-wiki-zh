@@ -27,11 +27,11 @@
 
 拍打雄伟的翅膀制造强风，将生物击退 5 米 / 17 英尺并使其陷入[倒伏](Prone_(Condition).md "倒伏（状态）")状态。
 
-[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击（巨鹰）") ()
+[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击（巨鹰）")
 
 对目标进行多次攻击。（充能：每回合。）
 
-[利爪](Talons.md "利爪") ()
+[利爪](Talons.md "利爪")
 用强大的利爪猛击。
 
 ## 如何习得

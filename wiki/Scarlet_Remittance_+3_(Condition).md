@@ -10,7 +10,7 @@
 
 [堆叠 ID](Stack_ID.md "堆叠 ID")：`MAG_BLOODFEEDER_SCARLET_REMITTANCE_1` ## 赋予：
 
-[猩红盛宴](Scarlet_Feast.md "猩红盛宴") ()
+[猩红盛宴](Scarlet_Feast.md "猩红盛宴")
 | 状态 | 效果 |
 | --- | --- |
 | 猩红叠加 | 受影响实体获得 +3 加值至 [攻击掷骰](Attack_roll.md "攻击掷骰")、伤害和 [法术豁免 DC](Saving_throw#The_Difficulty_Class_of_Saving_Throws.md#The_Difficulty_Class_of_Saving_Throws "豁免检定")。 |

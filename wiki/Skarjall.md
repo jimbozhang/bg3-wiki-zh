@@ -3,15 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Richard Cotton](https://www.imdb.com/name/nm1376812/) |
-| 体型 | [中级](Medium.md "中级") |
+| 声音 / 演员 | [Richard Cotton](https://www.imdb.com/name/nm1376812/) |
+| 体型 | [中型](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [矮人](Dwarf.md "Dwarf") |
-| 等级 | 5 |
-| 生命值 | 54 |
-| 护甲等级 | 15 |
-| 先攻 | +1 |
-| 移动速度 | 7.5 米 (25 英尺) |
+| 亚种 | [灰矮人](Duergar.md "Duergar") |
+| 职业 | [战士](Fighter.md "Fighter") |
+| 副职 | [战斗大师](Battle_Master.md "Battle Master") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 54 | 37 | 70 |
+| 护甲等级 | 15 | 15 | 15 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) | 24 米 (80 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -128,7 +141,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "Concussive_Smash") () – [鞭刑杖](Whipping_Cane.md "Whipping_Cane")
+[震荡猛击](Concussive_Smash.md "Concussive_Smash") – [鞭刑杖](Whipping_Cane.md "Whipping_Cane")
 
 伤害：5~8
 
@@ -140,7 +153,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "Short rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [鞭刑杖](Whipping_Cane.md "Whipping_Cane")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [鞭刑杖](Whipping_Cane.md "Whipping_Cane")
 
 伤害：5~8
 

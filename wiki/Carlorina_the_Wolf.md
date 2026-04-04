@@ -3,16 +3,40 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Shala Nyx](https://www.imdb.com/name/nm5964389/) |
+| 声音 / 演员 | [Shala Nyx](https://www.imdb.com/name/nm5964389/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半精灵](Half-Elf.md "Half-elf") |
-| 等级 | 3 |
-| 生命值 | 45 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 320 |
+| 亚种 | [半高精灵](High_Half-Elf.md "High half-elf") |
+| 职业 | [游荡者](Rogue.md "Rogue") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 45 | 31 | 58 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 16 米 (53 英尺) | 16 米 (53 英尺) | 16 米 (53 英尺) |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 16 / (+3) | 12 / (+1) | 12 / (+1) | 10 / (0) | 14 / (+2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
 
 **独狼卡洛琳娜**是一名[高精灵](High_Elf.md "High Elf")游荡者[散塔林会](Zhentarim.md "Zhentarim")成员，在[第三章](Act_Three.md "Act Three")期间于[公会大厅](Guildhall.md "Guildhall")被找到。
 
@@ -33,7 +57,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [短剑](Shortsword.md "Shortsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [短剑](Shortsword.md "Shortsword")
 
 伤害: 4~9
 

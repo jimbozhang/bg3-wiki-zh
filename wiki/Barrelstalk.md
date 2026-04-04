@@ -4,12 +4,6 @@
 
 - 平衡
 
-## 平衡难度属性
-
-### HP
-
-14
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - - - **桶菇** 是一种在 [幽暗地域](Underdark.md "Underdark") 发现的蘑菇，大多无害。

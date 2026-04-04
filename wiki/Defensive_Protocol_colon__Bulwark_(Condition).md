@@ -24,10 +24,10 @@
 
 ## 赋予
 
-[推斥协议](Repelling_Protocol.md "推斥协议") ()
+[推斥协议](Repelling_Protocol.md "推斥协议")
 释放一道力场波，将攻击者击退 8 米 / 27 英尺并使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
-[目标协议：地狱火飞弹](Targeting_Protocol_colon__Hellfire_Missiles.md "目标协议：地狱火飞弹") ()
+[目标协议：地狱火飞弹](Targeting_Protocol_colon__Hellfire_Missiles.md "目标协议：地狱火飞弹")
 启动并瞄准你的[地狱火飞弹](Hellfire_Missiles.md "地狱火飞弹")对目标，以便在你的下一回合开火。（充能：每回合。）
 
 ## 防御协议：壁垒的来源

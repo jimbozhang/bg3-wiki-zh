@@ -27,7 +27,7 @@ UID `MAG_LC_CazadorVampiric_Quarterstaff` UUID `cf42b0d0-89d8-4756-b6d7-1e258dce
 
 **持有此物品者获得：**
 
-[枯萎术](Blight.md "枯萎术") ()
+[枯萎术](Blight.md "枯萎术")
 以4环法术施展（充能：[长休](Long_Rest.md "长休")。）
 
 [奥术增强](Arcane_Enchantment_(+1).md)
@@ -40,7 +40,7 @@ UID `MAG_LC_CazadorVampiric_Quarterstaff` UUID `cf42b0d0-89d8-4756-b6d7-1e258dce
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物以使其[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 状态：誓缚武器

@@ -3,15 +3,55 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [吉娜·默里](https://www.imdb.com/name/nm0614964/) |
+| 声音 / 演员 | [吉娜·默里](https://www.imdb.com/name/nm0614964/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 9 |
-| 生命值 | 68 |
-| 护甲等级 | 14 |
-| 先攻 | 0 |
-| 经验值 | 200 |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 68 | 47 | 88 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20 / (+5) | 11 / (0) | 16 / (+3) | 10 / (0) | 10 / (0) | 14 / (+2) |
+
+**特性**
+
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
+- [沙蚀伤痕](Scar_of_the_Sand_Eclipse.md "沙蚀伤痕")
+- [热风伤痕](Scar_of_the_Sirocco.md "热风伤痕")
+- [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+
+**特性**
+
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [愤怒伤痕](Scar_of_Fury.md "愤怒伤痕")
+- [沙蚀伤痕](Scar_of_the_Sand_Eclipse.md "沙蚀伤痕")
+- [热风伤痕](Scar_of_the_Sirocco.md "热风伤痕")
+- [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
 **乌玛**是[古尔](Gur.md "古尔")的[人类](Human.md "人类")领袖。她可以在[利文顿](Rivington.md "利文顿")的[古尔营地](Gur_Camp.md "古尔营地")找到，位于[第三幕](Act_Three.md "第三幕")。
 
@@ -47,7 +87,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "劈砍") () – [不死灾祸](The_Undead_Bane.md "不死灾祸")
+[劈砍](Cleave.md "劈砍") – [不死灾祸](The_Undead_Bane.md "不死灾祸")
 
 伤害：
 
@@ -57,7 +97,7 @@
 
 充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "割裂") () – [不死灾祸](The_Undead_Bane.md "不死灾祸")
+[割裂](Lacerate.md "割裂") – [不死灾祸](The_Undead_Bane.md "不死灾祸")
 
 伤害：7~18
 
@@ -71,7 +111,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [不死灾祸](The_Undead_Bane.md "不死灾祸")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [不死灾祸](The_Undead_Bane.md "不死灾祸")
 
 伤害：7~18
 
@@ -81,7 +121,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[准备](Prepare.md "准备") () – [不死灾祸](The_Undead_Bane.md "不死灾祸")
+[准备](Prepare.md "准备") – [不死灾祸](The_Undead_Bane.md "不死灾祸")
 花费 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击造成额外的力量调整值⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害（最低 1）。
 
 范围：自身
@@ -95,7 +135,7 @@
 
 范围：自身
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") () – [不死灾祸](The_Undead_Bane.md "不死灾祸")
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") – [不死灾祸](The_Undead_Bane.md "不死灾祸")
 
 伤害：7~18
 

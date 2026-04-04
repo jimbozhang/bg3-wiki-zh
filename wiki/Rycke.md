@@ -68,7 +68,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 
@@ -78,7 +78,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 
@@ -88,7 +88,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [凶残切割](Murderous_Cut.md "凶残切割")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [凶残切割](Murderous_Cut.md "凶残切割")
 
 伤害：7~10
 

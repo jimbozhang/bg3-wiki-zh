@@ -524,13 +524,13 @@ ______________________________________________________________________
 [神圣干预](Divine_Intervention.md "神圣干预")
 在最需要的时刻呼唤你的神祇。一旦他们干预，你的神祇将永远不会以这种方式再次干预。
 
-[神圣干预：击破异端](Divine_Intervention_colon__Sunder_the_Heretical.md "神圣干预：击破异端") ()
+[神圣干预：击破异端](Divine_Intervention_colon__Sunder_the_Heretical.md "神圣干预：击破异端")
 呼唤你的神祇在附近所有敌人身上引发一场光耀大灾变。
-[神圣干预：武装仆从](Divine_Intervention_colon__Arm_Thy_Servant.md "神圣干预：武装仆从") ()
+[神圣干预：武装仆从](Divine_Intervention_colon__Arm_Thy_Servant.md "神圣干预：武装仆从")
 呼唤你的神祇赐予你一把在神圣契约之火中锻造的[信徒硬头锤](Devotee's_Mace.md "信徒硬头锤")。
-[神圣干预：光耀复苏](Divine_Intervention_colon__Opulent_Revival.md "神圣干预：光耀复苏") ()
+[神圣干预：光耀复苏](Divine_Intervention_colon__Opulent_Revival.md "神圣干预：光耀复苏")
 复活倒下的伙伴，使其生命值恢复一半，并使所有附近盟友恢复，如同他们进行了[长休](Long_Rest.md "长休")。
-[神圣干预：神圣馈赠](Divine_Intervention_colon__Golden_Generosity.md "神圣干预：神圣馈赠") ()
+[神圣干预：神圣馈赠](Divine_Intervention_colon__Golden_Generosity.md "神圣干预：神圣馈赠")
 呼唤你的神祇为你提供丰富的药水和[营地补给](Camp_supplies.md "营地补给")。
 
 施法

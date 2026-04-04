@@ -3,16 +3,47 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Helen Keeley](https://www.imdb.com/name/nm8195734/) |
+| 声音 / 演员 | [Helen Keeley](https://www.imdb.com/name/nm8195734/) |
+| 角色 | [营地伙伴](Camp_Follower.md "Camp Follower") |
+| 家庭 | [伊索贝尔·索姆](Isobel_Thorm.md "Isobel Thorm")（伴侣） |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [阿斯莫](Aasimar.md "Aasimar") |
-| 等级 | 11 |
-| 生命值 | 85 |
-| 护甲等级 | 18 |
-| 先攻 | 0 |
-| 移动速度 | 9米（30尺） |
-| 经验值 | 140 |
+| 职业 | [圣武士](Paladin.md "Paladin") |
+| 副职 | [复仇之誓](Oath_of_Vengeance.md "Oath of Vengeance") |
+
+| | 平衡 | 探索者 |
+| --- | --- | --- |
+| 等级 | 11 | 11 |
+| 生命值 | 85 | 110 |
+| 护甲等级 | 18 | 18 |
+| 先攻 | 0 | 0 |
+| 熟练项 | +4 | +6 |
+| 施法DC | 15（魅力） | 17（魅力） |
+| 移动速度 | 9米（30尺） | 9米（30尺） |
+| 重量 | 75千克（150磅） | 75千克（150磅） |
+| 暗视 | 60米（200尺） | 60米（200尺） |
+| 经验值 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 10 / (0) | 16 / (+3) | 11 / (0) | 13 / (+1) | 17 / (+3) |
+
+**特性**
+
+- [塞伦涅之女](Child_of_the_Moonmaiden.md "Child of the Moonmaiden")
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [精通至圣斩](Improved_Divine_Smite.md "Improved Divine Smite")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [塞伦涅之女](Child_of_the_Moonmaiden.md "Child of the Moonmaiden")
+- [神佑](Divine_Health.md "Divine Health")
+- [额外攻击](Extra_Attack.md "Extra Attack")
+- [精通至圣斩](Improved_Divine_Smite.md "Improved Divine Smite")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **艾琳女士**是一位[阿斯莫](Aasimar.md "Aasimar")，也是[塞伦涅](Sel%C3%BBne.md "Selûne")的女儿，出现在_[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")_中。她于[第二幕](Act_Two.md "Act Two")首次登场，她的故事在围绕[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")和[月出之塔](Moonrise_Towers.md "Moonrise Towers")的谜团中扮演着关键角色。她可以成为[营地伙伴](Camp_Follower.md "Camp Follower")，之后还可以成为[随行伙伴](Attached_Follower.md "Attached Follower")。
 
@@ -113,7 +144,7 @@
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") () – [巨剑 +1](Greatsword_+1.md "Greatsword +1")
+[劈砍](Cleave.md "Cleave") – [巨剑 +1](Greatsword_+1.md "Greatsword +1")
 
 伤害：
 
@@ -132,12 +163,12 @@
 [感知](Wisdom.md "Wisdom") [豁免](Saving_throws.md "Saving throws")
 范围：18米（60尺）
 
-[飞行](Fly_(class_action).md "Fly (class action)") ()
+[飞行](Fly_(class_action).md "Fly (class action)")
 飞至目标位置
 
 范围：18米（60尺）
 
-[割裂](Lacerate.md "Lacerate") () – [巨剑 +1](Greatsword_+1.md "Greatsword +1")
+[割裂](Lacerate.md "Lacerate") – [巨剑 +1](Greatsword_+1.md "Greatsword +1")
 
 伤害：6~16
 
@@ -186,7 +217,7 @@
 
 范围：正常武器范围
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [巨剑 +1](Greatsword_+1.md "Greatsword +1")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨剑 +1](Greatsword_+1.md "Greatsword +1")
 
 伤害：6~16
 
@@ -196,7 +227,7 @@
 
 近战：1.5米（5尺）
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") () – [巨剑 +1](Greatsword_+1.md "Greatsword +1")
+[剑柄打击](Pommel_Strike.md "Pommel Strike") – [巨剑 +1](Greatsword_+1.md "Greatsword +1")
 
 伤害：1~4
 

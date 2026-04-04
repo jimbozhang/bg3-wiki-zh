@@ -3,16 +3,96 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
+| 声音 / 演员 | [Okezie Morro](https://www.imdb.com/name/nm2768619/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
-| 等级 | 9 |
-| 生命值 | 76 |
-| 护甲等级 | 17 |
-| 先攻 | +4 |
-| 移动速度 | 13.5 米 (45 英尺) |
-| 经验值 | 200 |
+| 职业 | [武僧](Monk.md "Monk") |
+| 副职 | [散打宗](Way_of_the_Open_Hand.md "Way of the Open Hand") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 9 | 9 | 9 |
+| 生命值 | 76 | 53 | 98 |
+| 护甲等级 | 17 | 17 | 17 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 13.5 米 (45 英尺) | 13.5 米 (45 英尺) | 13.5 米 (45 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 200 | 200 | 200 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 19 / (+4) | 16 / (+3) | 15 / (+2) | 17 / (+3) | 13 / (+1) |
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "拨挡飞弹 (被动特性)")
+- [反射闪避](Evasion.md "反射闪避")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
+- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")
+- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：敏捷攻击")
+- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武艺：灵巧打击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+- [轻身坠](Slow_Fall.md "轻身坠")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "心如止水 (被动特性)")
+- [无甲防御](Unarmoured_Defence_(Monk).md "无甲防御 (武僧)")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "拨挡飞弹 (被动特性)")
+- [反射闪避](Evasion.md "反射闪避")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
+- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")
+- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：敏捷攻击")
+- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武艺：灵巧打击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+- [轻身坠](Slow_Fall.md "轻身坠")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "心如止水 (被动特性)")
+- [无甲防御](Unarmoured_Defence_(Monk).md "无甲防御 (武僧)")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "拨挡飞弹 (被动特性)")
+- [反射闪避](Evasion.md "反射闪避")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
+- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")
+- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：敏捷攻击")
+- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武艺：灵巧打击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+- [轻身坠](Slow_Fall.md "轻身坠")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "心如止水 (被动特性)")
+- [无甲防御](Unarmoured_Defence_(Monk).md "无甲防御 (武僧)")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
+
+**特性**
+
+- [增强无甲移动](Advanced_Unarmoured_Movement.md "增强无甲移动")
+- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "拨挡飞弹 (被动特性)")
+- [反射闪避](Evasion.md "反射闪避")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [真气驻拳](Ki-Empowered_Strikes.md "真气驻拳")
+- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")
+- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：敏捷攻击")
+- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武艺：灵巧打击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+- [轻身坠](Slow_Fall.md "轻身坠")
+- [心如止水](Stillness_of_Mind_(passive_feature).md "心如止水 (被动特性)")
+- [无甲防御](Unarmoured_Defence_(Monk).md "无甲防御 (武僧)")
+- [无甲移动](Unarmoured_Movement.md "无甲移动")
 
 **高阶熟手尼克**是一名[熟手](Gish'ra_(melee).md)，在[第三幕](Act_Three.md "第三幕")开始时于[飞龙关](Wyrm's_Crossing.md "飞龙关")的[营地](Campsite.md "营地")遭遇。
 
@@ -49,7 +129,7 @@
 
 范围：自身
 
-[徒手打击](Unarmed_Strike_(Monk).md "徒手打击 (武僧)") ()
+[徒手打击](Unarmed_Strike_(Monk).md "徒手打击 (武僧)")
 
 伤害：5~8
 

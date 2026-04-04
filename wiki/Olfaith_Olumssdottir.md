@@ -5,13 +5,33 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [怪兽](Monstrosity.md "怪兽") |
 | 种族 | [变形怪](Doppelganger.md "变形怪") |
-| 等级 | 8 |
-| 生命值 | 52 |
-| 护甲等级 | 14 |
-| 先攻 | +4 |
-| 经验值 | 140 |
 
-属性
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 52 | 36 | 67 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +3 | +5 | +3 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 24 m (80 ft) | 24 m (80 ft) | 24 m (80 ft) |
+| 经验值 | 140 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 18 / (+4) | 14 / (+2) | 11 / (0) | 12 / (+1) | 14 / (+2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 **爱管闲事的人**是服务于[巴尔](Bhaal.md "巴尔")邪教的[变形怪](Doppelganger.md "变形怪")。
 
@@ -43,19 +63,19 @@
 
 ### 攻击与能力
 
-[变形怪](Doppelganger_(class_action).md "变形怪 (职业动作)") ()
+[变形怪](Doppelganger_(class_action).md "变形怪 (职业动作)")
 采取你见过的小型或中级生物的形态。
 
 范围：自身
 冷却：每回合
 
-[形态伏击](Morphic_Ambush.md "形态伏击") ()
+[形态伏击](Morphic_Ambush.md "形态伏击")
 经历一次惊人的变形以惊吓你的敌人。成功[伏击](Ambushed_(Condition).md "伏击")的实体更容易受到你的攻击。
 
 范围：自身
 冷却：每场战斗
 
-[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)") ()
+[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")
 
 伤害：12~32
 
@@ -68,7 +88,7 @@
 近战：1.5 m (5 ft)
 冷却：每回合
 
-[移动射击](Mobile_Shot.md "移动射击") () – [手弩](Hand_Crossbow.md "手弩")
+[移动射击](Mobile_Shot.md "移动射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：5~10
 
@@ -79,7 +99,7 @@
 范围：15 m (50 ft)
 冷却：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [手弩](Hand_Crossbow.md "手弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：5~10
 
@@ -93,7 +113,7 @@
 范围：正常武器范围
 冷却：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [手弩](Hand_Crossbow.md "手弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [手弩](Hand_Crossbow.md "手弩")
 
 伤害：5~10
 

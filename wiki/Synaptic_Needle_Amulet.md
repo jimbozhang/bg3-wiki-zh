@@ -16,7 +16,7 @@
 
 佩戴此物品获得：
 
-[大脑税费](Mind_Tax.md "大脑税费") ()
+[大脑税费](Mind_Tax.md "大脑税费")
 劈砍进入[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")敌人的脑组织，并使你的身体恢复活力。（充能：[短休](Short_rest.md "短休")。）
 
 ---

@@ -34,13 +34,13 @@
 [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 
-[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "Githyanki Psionics: Jump") ()
+[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "Githyanki Psionics: Jump")
 使生物的[跳跃](Jump.md "Jump")距离变为三倍。
 
 近战：1.5 m (5 ft)
 充能：[长休](Long_Rest.md "Long rest")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 
 伤害：7~17
 
@@ -50,7 +50,7 @@
 
 近战：1.5 m (5 ft)
 
-[回气](Second_Wind.md "Second Wind") ()
+[回气](Second_Wind.md "Second Wind")
 
 治疗：1~10 + 调整值
 

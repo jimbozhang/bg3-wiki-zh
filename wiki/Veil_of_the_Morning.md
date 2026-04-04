@@ -18,7 +18,7 @@
 
 穿戴此物品者获得：
 
-[驱散不死生物](Turn_Undead.md "Turn Undead") ()
+[驱散不死生物](Turn_Undead.md "Turn Undead")
 向[驱散](Turned_(Condition).md "被驱散 (状态)")所有能看到你的不死生物祈祷。（充能：[长休](Long_Rest.md "长休")。）
 
 [让不死生物恐惧褪色](Let_The_Undead_Blanch_With_Fear.md "让不死生物恐惧褪色")

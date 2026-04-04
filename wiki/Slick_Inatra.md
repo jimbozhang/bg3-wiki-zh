@@ -3,15 +3,29 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Carla Mendonça](https://www.imdb.com/name/nm0579185/) |
+| 声音 / 演员 | [Carla Mendonça](https://www.imdb.com/name/nm0579185/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半精灵](Half-Elf.md "Half-elf") |
-| 等级 | 11 |
-| 生命值 | 82 |
-| 护甲等级 | 16 |
-| 先攻 | +4 |
-| 经验值 | 320 |
+| 亚种 | [半高精灵](High_Half-Elf.md "High half-elf") |
+| 职业 | [游侠](Ranger.md "Ranger") |
+| 副职 | [驯兽师](Beast_Master.md "Beast Master") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 82 | 57 | 106 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +4 | +4 | +4 |
+| 熟练项 | +4 | +6 | +4 |
+| 移动速度 | 9米（30英尺） | 9米（30英尺） | 9米（30英尺） |
+| 重量 | 75千克（150磅） | 75千克（150磅） | 75千克（150磅） |
+| 暗视 | 12米（40英尺） | 12米（40英尺） | 12米（40英尺） |
+| 经验值 | 320 | 320 | 320 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 18 / (+4) | 12 / (+1) | 10 / (0) | 17 / (+3) | 10 / (0) |
 
 **斯力克·伊娜塔拉**是一位[半高精灵](High_Half-Elf.md "High half-elf")[游侠](Ranger.md "Ranger")，也是[散塔林会](Zhentarim.md "Zhentarim")的中士，可以在[公会大厅](Guildhall.md "Guildhall")的[第三幕](Act_Three.md "Act Three")期间找到她。她是散塔林会雇佣兵的本地领袖，负责保护公会大厅免受[石领主](Stone_Lord.md "Stone Lord")的入侵。
 
@@ -57,7 +71,7 @@
 
 ### 攻击与能力
 
-[灵巧动作：疾走](Cunning_Action_colon__Dash.md "Cunning Action: Dash") ()
+[灵巧动作：疾走](Cunning_Action_colon__Dash.md "Cunning Action: Dash")
 本回合移动更远距离：双倍你的[移动速度](Movement_speed.md "Movement Speed")。
 
 射程：自身
@@ -77,7 +91,7 @@
 [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws")
 射程：18米（60英尺）
 
-[远程攻击](Ranged_Attack.md "Ranged Attack") () – [长弓 +1](Longbow_+1.md "Longbow +1")
+[远程攻击](Ranged_Attack.md "Ranged Attack") – [长弓 +1](Longbow_+1.md "Longbow +1")
 
 伤害：6~13
 
@@ -87,7 +101,7 @@
 
 射程：18米（60英尺）
 
-[偷袭（远程）](Sneak_Attack_(Ranged).md "Sneak Attack (Ranged)") () – [长弓 +1](Longbow_+1.md "Longbow +1")
+[偷袭（远程）](Sneak_Attack_(Ranged).md "Sneak Attack (Ranged)") – [长弓 +1](Longbow_+1.md "Longbow +1")
 
 伤害：7~19
 
@@ -102,7 +116,7 @@
 射程：正常武器射程
 充能：每回合
 
-[狼伙伴](Wolf_Companion.md "Wolf Companion") ()
+[狼伙伴](Wolf_Companion.md "Wolf Companion")
 召唤一匹狼，可以造成毁灭性伤口并用其[飞扑啃咬](Lunging_Bite.md "Lunging Bite")击倒敌人。
 
 射程：18米（60英尺）

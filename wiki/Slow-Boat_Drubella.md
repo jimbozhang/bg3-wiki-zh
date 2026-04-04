@@ -3,15 +3,25 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [玛德琳·阿库亚](https://www.imdb.com/name/nm12471663/) |
+| 声音 / 演员 | [玛德琳·阿库亚](https://www.imdb.com/name/nm12471663/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 11 |
-| 生命值 | 54 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 经验值 | 250 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 11 | 11 | 11 |
+| 生命值 | 54 | 37 | 70 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +4 | +6 | +4 |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) | 0 m (0 ft) |
+| 经验值 | 250 | 250 | 250 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 16 / (+3) | 15 / (+2) | 12 / (+1) |
 
 ## 抗性 [(info)](Resistances.md "Resistances")
 
@@ -73,7 +83,7 @@
 | --- | --- | --- | --- | --- | --- |
 | +1 | +3 | +1 | +7 | +6 | +1 |
 
-[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") () – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
+[备战（远程）](Brace_(Ranged).md "Brace (Ranged)") – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
 消耗 6 m (20 ft) 的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "短休")
@@ -92,7 +102,7 @@
 
 用装备的武器进行一次近战攻击。
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [匕首](Dagger.md "Dagger")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [匕首](Dagger.md "Dagger")
 
 刺击敌人并可能造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")。
 
@@ -101,7 +111,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[穿刺射击](Piercing_Shot.md "Piercing Shot") () – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
+[穿刺射击](Piercing_Shot.md "Piercing Shot") – [重弩 +1](Heavy_Crossbow_+1.md "Heavy Crossbow +1")
 
 造成常规伤害并可能造成[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")，导致攻击时造成额外伤害。
 
@@ -112,7 +122,7 @@
 
 用装备的武器进行一次远程攻击。
 
-[冷冻射线](Ray_of_Frost.md "Ray of Frost") ()
+[冷冻射线](Ray_of_Frost.md "Ray of Frost")
 
 将目标的[移动速度](Movement_speed.md "移动速度")降低 3 m / 10 ft。
 

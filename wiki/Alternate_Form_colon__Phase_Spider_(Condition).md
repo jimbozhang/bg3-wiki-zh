@@ -26,13 +26,13 @@
 | [变形](Polymorphed_(Tressym)_(Condition).md "变形 (翼猫) (状态)") | 变为野兽。 |
 | [蟾蜍模式](Toad_Mode_(Condition).md "蟾蜍模式 (状态)") | 如果你不想思考，多莉·斯赖斯会让你缩小。 |
 
-[以太漫游](Ethereal_Jaunt.md "以太漫游") ()
+[以太漫游](Ethereal_Jaunt.md "以太漫游")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。（充能：每回合。）
 
-[猛毒之噬](Venomous_Bite_(Phase_Spider).md "猛毒之噬 (相位蜘蛛)") ()
+[猛毒之噬](Venomous_Bite_(Phase_Spider).md "猛毒之噬 (相位蜘蛛)")
 咬击目标并可能使其[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 
-[猛毒扩散](Venomous_Discharge_(Phase_Spider).md "猛毒扩散 (相位蜘蛛)") ()
+[猛毒扩散](Venomous_Discharge_(Phase_Spider).md "猛毒扩散 (相位蜘蛛)")
 喷出有毒物质，并可能使击中的目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 
 排出一种厚实、易燃的蛛网，减缓其中的生物并可能将其[网缚](Enwebbed_(Condition).md "网缚 (状态)")。

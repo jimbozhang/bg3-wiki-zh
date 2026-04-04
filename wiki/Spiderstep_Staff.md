@@ -36,7 +36,7 @@ UID `UNI_FOR_WebStaff` UUID `baa8bd91-09ec-4c92-a0e1-4a5a9d4ea8ed` ### 特殊效
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[摔绊](Topple.md "摔绊") ()
+[摔绊](Topple.md "摔绊")
 挥击一个生物使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 注释

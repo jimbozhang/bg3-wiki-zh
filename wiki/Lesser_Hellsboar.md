@@ -40,7 +40,7 @@
 
 ### 攻击与能力
 
-[牙撕攻击](Tusk_Attack_(Lesser_Hellsboar).md "牙撕攻击 (次级地狱野猪)") ()
+[牙撕攻击](Tusk_Attack_(Lesser_Hellsboar).md "牙撕攻击 (次级地狱野猪)")
 
 伤害: 1~4
 

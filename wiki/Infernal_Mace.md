@@ -33,7 +33,7 @@ UID `MAG_Infernal_Mace_2` UUID `70909020-27ff-4a63-a03f-30d4818dd1c3` Stats `MAG
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 状态：中毒

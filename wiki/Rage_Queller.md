@@ -5,10 +5,44 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [异怪](Aberration.md "异怪") |
 | 种族 | [异怪](Aberration.md "异怪") |
-| 等级 | 12 |
-| 生命值 | 149 |
-| 护甲等级 | 18 |
-| 先攻 | +2 |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 12 | 12 |
+| 生命值 | 149 | 193 |
+| 护甲等级 | 18 | 18 |
+| 先攻 | +2 | +2 |
+| 熟练项 | +4 | +4 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 90 千克 (180 磅) | 90 千克 (180 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 22 / (+6) | 14 / (+2) | 20 / (+5) | 10 / (0) | 8 / (-1) | 8 / (-1) |
+
+**特性**
+
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
+- [魅惑](Charm.md "魅惑")
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+
+**特性**
+
+- [凶蛮重击](Brutal_Critical.md "凶蛮重击")
+- [魅惑](Charm.md "魅惑")
+- [危机感知](Danger_Sense.md "危机感知")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -51,12 +85,12 @@
 
 ### 攻击与能力
 
-[安定心神](Calm_Emotions.md "安定心神") ()
+[安定心神](Calm_Emotions.md "安定心神")
 [类人生物](Humanoids.md "类人生物")不能被[魅惑](Charmed_(Condition).md "魅惑 (状态)")、[恐慌](Frightened_(Condition).md "恐慌 (状态)")，或变得激怒。_\[[参见：漏洞](Calm_Emotions.md#Bugs "安定心神")\]_
 
 范围：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨斧 +2](Greataxe_+2.md "巨斧 +2")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨斧 +2](Greataxe_+2.md "巨斧 +2")
 
 伤害：9~20
 

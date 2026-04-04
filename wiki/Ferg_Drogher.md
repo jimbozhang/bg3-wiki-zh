@@ -67,7 +67,7 @@
 [力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 
-[华舞](Flourish.md "Flourish") () – [短剑](Shortsword.md "Shortsword")
+[华舞](Flourish.md "Flourish") – [短剑](Shortsword.md "Shortsword")
 
 伤害：1~4
 
@@ -92,7 +92,7 @@
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
 范围：正常武器范围
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [短剑](Shortsword.md "Shortsword")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [短剑](Shortsword.md "Shortsword")
 
 伤害：1~6
 
@@ -102,7 +102,7 @@
 
 近战：1.5 m (5 ft)
 
-[穿刺打击](Piercing_Strike.md "Piercing Strike") () – [短剑](Shortsword.md "Shortsword")
+[穿刺打击](Piercing_Strike.md "Piercing Strike") – [短剑](Shortsword.md "Shortsword")
 
 伤害：1~6
 

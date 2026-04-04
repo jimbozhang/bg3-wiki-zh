@@ -86,7 +86,7 @@ Stats
 
 钱币长戟冲锋，刺穿敌人并将其击退 2 米 / 7 英尺。
 
-[穿刺](Pierce.md "Pierce") ()
+[穿刺](Pierce.md "Pierce")
 
 伤害: 4~18
 

@@ -3,15 +3,44 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Clare Corbett](https://www.imdb.com/name/nm1352940/) |
+| 声音 / 演员 | [Clare Corbett](https://www.imdb.com/name/nm1352940/) |
+| 家乡 | [翠绿林地](Emerald_Grove.md "翠绿林地") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [精灵](Elf.md "精灵") |
-| 等级 | 5 |
-| 生命值 | 65 |
-| 护甲等级 | 14 |
-| 先攻 | +3 |
-| 经验值 | 150 |
+| 亚种 | [木精灵](Wood_elf.md "木精灵") |
+| 职业 | [德鲁伊](Druid.md "德鲁伊") |
+| 副职 | [大地结社](Circle_of_the_Land.md "大地结社") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 65 | 45 | 84 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +3 | +3 | +3 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+| 经验值 | 150 | 150 | 150 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 16 / (+3) | 14 / (+2) | 14 / (+2) | 16 / (+3) | 14 / (+2) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [恶毒复仇](Venomous_Revenge.md "恶毒复仇")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [妖精血统](Fey_Ancestry.md "妖精血统")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [恶毒复仇](Venomous_Revenge.md "恶毒复仇")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -129,7 +158,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[华舞](Flourish.md "华舞") () – [弯刀](Scimitar.md "弯刀")
+[华舞](Flourish.md "华舞") – [弯刀](Scimitar.md "弯刀")
 
 伤害：1~4
 
@@ -155,7 +184,7 @@
 [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[割裂](Lacerate.md "割裂") () – [弯刀](Scimitar.md "弯刀")
+[割裂](Lacerate.md "割裂") – [弯刀](Scimitar.md "弯刀")
 
 伤害：4~9
 
@@ -169,7 +198,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：4~7
 
@@ -195,7 +224,7 @@
 [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") () – [弯刀](Scimitar.md "弯刀")
+[副手攻击（近战）](Off-Hand_Attack_(Melee).md "副手攻击（近战）") – [弯刀](Scimitar.md "弯刀")
 
 伤害：4~9
 

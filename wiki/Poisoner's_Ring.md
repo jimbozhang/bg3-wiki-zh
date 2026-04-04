@@ -14,7 +14,7 @@
 
 佩戴此物品获得：
 
-[致命毒液](Virulent_Venom.md "致命毒液") ()
+[致命毒液](Virulent_Venom.md "致命毒液")
 用戴着戒指的手指指向一个目标，使其对[中毒](Poison.md "中毒")伤害[易伤](Vulnerable.md "易伤")，除非它对[中毒](Poison.md "中毒")伤害[免疫](Immune.md "免疫")。（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点

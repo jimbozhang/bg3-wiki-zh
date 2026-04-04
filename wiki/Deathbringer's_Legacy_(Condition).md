@@ -17,10 +17,10 @@
 
 ## 赋予
 
-[死亡使者袭击](Deathbringer_Assault.md "死亡使者袭击") ()
+[死亡使者袭击](Deathbringer_Assault.md "死亡使者袭击")
 向目标释放恐惧领主的怒火。巴尔的信徒崇拜谋杀——死亡使者则化身谋杀。(充能：每回合。)
 
-[死亡使者袭击](Deathbringer_Assault_(Orin).md "死亡使者袭击 (奥林)") ()
+[死亡使者袭击](Deathbringer_Assault_(Orin).md "死亡使者袭击 (奥林)")
 引导谋杀的遗赠，进行7次打击，每次造成3d10⁠⁠[穿刺](Piercing.md "穿刺")伤害。(充能：每回合。)
 
 ## 死亡使者的遗赠来源

@@ -45,7 +45,7 @@
 
 向前冲锋，攻击路径上的所有敌人，并可能使其 [倒伏](Prone_(Condition).md "倒伏（状态）")。
 
-[舞光术](Dancing_Lights_(Deep_Roth%C3%A9).md "舞光术") ()
+[舞光术](Dancing_Lights_(Deep_Roth%C3%A9).md "舞光术")
 照亮 9 米 / 30 英尺半径范围。
 
 [解除变形](Dismiss_Wild_Shape.md "解除变形")

@@ -52,7 +52,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(action).md "爪击 (动作)") ()
+[爪击](Claws_(action).md "爪击 (动作)")
 
 伤害：4~10
 
@@ -62,7 +62,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[多重攻击](Multiattack_(Ettercap).md "多重攻击 (伊特怪)") ()
+[多重攻击](Multiattack_(Ettercap).md "多重攻击 (伊特怪)")
 
 伤害：8~28
 

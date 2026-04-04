@@ -45,7 +45,7 @@
 
 ### 攻击与能力
 
-[啃咬](Bite_(Cloaker).md "啃咬 (蛰伏伪怪)") ()
+[啃咬](Bite_(Cloaker).md "啃咬 (蛰伏伪怪)")
 
 伤害: 7~22
 
@@ -55,12 +55,12 @@
 
 近战: 1.5 米 (5 英尺)
 
-[飞行](Fly_(class_action).md "飞行 (职业动作)") ()
+[飞行](Fly_(class_action).md "飞行 (职业动作)")
 飞向目标位置
 
 范围: 18 米 (60 英尺)
 
-[多重攻击](Multiattack_(Cloaker).md "多重攻击 (蛰伏伪怪)") ()
+[多重攻击](Multiattack_(Cloaker).md "多重攻击 (蛰伏伪怪)")
 
 伤害: 14~50
 

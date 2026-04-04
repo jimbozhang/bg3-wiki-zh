@@ -16,7 +16,7 @@
 
 ## 战斗
 
-[致残钳击](Maiming_Pinch.md "致残钳击") ()
+[致残钳击](Maiming_Pinch.md "致残钳击")
 
 伤害：2~5
 

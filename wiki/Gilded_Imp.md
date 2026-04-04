@@ -39,7 +39,7 @@
 
 ## 攻击和能力
 
-[石化之刺](Petrifying_Sting.md "石化之刺") ()
+[石化之刺](Petrifying_Sting.md "石化之刺")
 
 伤害: 10~60
 

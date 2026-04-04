@@ -34,7 +34,7 @@ UID `MAG_LC_Umberlee_Cold_Sickle` UUID `5b4b10cd-089f-4675-8392-5bfa6749d79c` St
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标的要害使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

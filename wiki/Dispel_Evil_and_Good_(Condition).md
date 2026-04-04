@@ -9,7 +9,7 @@
 
 [堆叠ID](Stack_ID.md "堆叠ID")：`DISPEL_EVIL_AND_GOOD` ## 赋予：
 
-[反制善恶：解除惑控](Dispel_Evil_And_Good_colon__Break_Enchantment.md "反制善恶：解除惑控") ()
+[反制善恶：解除惑控](Dispel_Evil_And_Good_colon__Break_Enchantment.md "反制善恶：解除惑控")
 触摸一个被其他位面实体[魅惑](Charmed_(Condition).md "魅惑 (状态)")、[恐慌](Frightened_(Condition).md "恐慌 (状态)") _\[[参见：错误](Dispel_Evil_And_Good_colon__Break_Enchantment.md#Bugs "反制善恶：解除惑控")\]_ 或[附身](Malefic_Possession_(Condition).md "恶毒附身 (状态)")的生物，以解放其心智。
 
 ## 反制善恶的来源

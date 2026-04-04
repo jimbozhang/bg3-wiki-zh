@@ -18,10 +18,10 @@
 
 穿戴此物品获得：
 
-[盾牌猛击](Shield_Blow.md "盾牌猛击") ()
+[盾牌猛击](Shield_Blow.md "盾牌猛击")
 当敌人用近战攻击命中你时，你可以使用你的[反应](reaction.md "reaction")将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。
 
-[护盾术](Shield_(spell).md "护盾术") ()
+[护盾术](Shield_(spell).md "护盾术")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")）。
 
 ## 获取地点

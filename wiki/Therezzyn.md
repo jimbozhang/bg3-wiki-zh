@@ -39,12 +39,12 @@
 
 赛泽恩的行为类似于_[熟手](Gish.md "熟手")_，或吉斯洋基战斗法师，同样擅长施法和挥舞巨剑。与其他_熟手_不同，她挥舞的是[碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")而非[吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")，并且拥有更高的[智力](Intelligence.md "智力")。
 
-[星界步伐](Astral_Step.md "星界步伐") ()
+[星界步伐](Astral_Step.md "星界步伐")
 被银色雾气环绕，你传送到一个可见的未被占据空间。
 
 范围：18 米 (60 英尺)
 
-[朦胧术](Blur.md "朦胧术") ()
+[朦胧术](Blur.md "朦胧术")
 
 攻击者在对你进行[攻击掷骰](Attack_roll.md "攻击掷骰")时具有[劣势](Disadvantage.md "劣势")。
 
@@ -63,7 +63,7 @@
 [敏捷](Dexterity.md "敏捷")[豁免](Saving_throws.md "豁免检定")
 范围：自身
 
-[劈砍](Cleave.md "劈砍") () – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
+[劈砍](Cleave.md "劈砍") – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
 
 伤害：
 
@@ -82,7 +82,7 @@
 [感知](Wisdom.md "感知")[豁免](Saving_throws.md "豁免检定")
 范围：自身
 
-[割裂](Lacerate.md "割裂") () – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
+[割裂](Lacerate.md "割裂") – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
 
 伤害：5~15
 
@@ -96,7 +96,7 @@
 范围：正常武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
 
 伤害：5~15
 
@@ -106,13 +106,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[迷踪步](Misty_Step.md "迷踪步") ()
+[迷踪步](Misty_Step.md "迷踪步")
 被银色雾气环绕，你传送到一个可见的未被占据空间。
 
 范围：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "长休")
 
-[剑柄打击](Pommel_Strike.md "剑柄打击") () – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
 
 伤害：1~4
 
@@ -124,7 +124,7 @@
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
-[冷冻射线](Ray_of_Frost.md "冷冻射线") ()
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 伤害：1~8
 
@@ -134,7 +134,7 @@
 
 范围：18 米 (60 英尺)
 
-[电爪](Shocking_Grasp.md "电爪") ()
+[电爪](Shocking_Grasp.md "电爪")
 
 伤害：1~8
 
@@ -144,7 +144,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[碎魂者](Soulbreaker.md "碎魂者") () – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
+[碎魂者](Soulbreaker.md "碎魂者") – [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑")
 
 伤害：8~18
 

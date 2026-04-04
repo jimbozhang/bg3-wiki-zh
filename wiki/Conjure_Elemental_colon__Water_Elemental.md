@@ -30,12 +30,12 @@
 
 猛击一个敌人并在冲击点周围形成一滩水。
 
-[多重攻击](Multiattack_(Water_Elemental).md "多重攻击（水元素）") ()
+[多重攻击](Multiattack_(Water_Elemental).md "多重攻击（水元素）")
 降临在一个生物身上，用你强健的水拳击打它。（充能：每回合。）
 
 呼出一股冰冻的冰流。[燃烧](Burning_(Condition).md "燃烧（状态）")的生物会迅速冷却并变得[易碎](Brittle_(Condition).md "易碎（状态）")。对无生命物体无效。
 
-[元素扭曲](Elemental_Warp.md "元素扭曲") ()
+[元素扭曲](Elemental_Warp.md "元素扭曲")
 被银色雾气包围，你传送到一个你能看到的未被占据的空间。
 
 ## 如何学习

@@ -24,17 +24,17 @@ UID `MAG_LC_Fleshrend_Shortsword` UUID `3db6b7be-1e36-405e-94fd-cf5a9f0e4b68` ##
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[华舞](Flourish.md "华舞") ()
+[华舞](Flourish.md "华舞")
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "失衡（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[血肉分离](Part_the_Flesh.md "血肉分离") ()
+[血肉分离](Part_the_Flesh.md "血肉分离")
 以恶魔般的精准向前突刺，可能阻碍目标的治疗能力。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

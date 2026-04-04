@@ -40,12 +40,12 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [长弓](Longbow.md "长弓")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [长弓](Longbow.md "长弓")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的剩余回合中，投掷两次远程伤害并使用最高结果。
 
 充能：[短休](Short_rest.md "短休")
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") () – [长弓](Longbow.md "长弓")
+[腿筋射击](Hamstring_Shot.md "腿筋射击") – [长弓](Longbow.md "长弓")
 
 伤害：3~10
 
@@ -57,7 +57,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [长弓](Longbow.md "长弓")
+[远程攻击](Ranged_Attack.md "远程攻击") – [长弓](Longbow.md "长弓")
 
 伤害：3~10
 
@@ -67,7 +67,7 @@
 
 射程：18 米 (60 英尺)
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：3~6
 
@@ -77,7 +77,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：3~6
 

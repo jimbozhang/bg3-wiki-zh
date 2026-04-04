@@ -3,10 +3,16 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Rebecca Hanssen](https://www.imdb.com/name/nm5336712/) |
+| 声音 / 演员 | [Rebecca Hanssen](https://www.imdb.com/name/nm5336712/) |
+| 角色 | [营地追随者](Camp_Follower.md "营地追随者") |
+| 家庭 | [格鲁布](Grub.md "格鲁布") (宠物) |
+| 家乡 | [利文顿](Rivington.md "利文顿") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
+
+| | |
+| --- | --- |
 
 **耶娜**是一位[人类](Human.md "人类")，是潜在的[营地追随者](Camp_Follower.md "营地追随者")，与她的母亲和她的猫[格鲁布](Grub.md "格鲁布")一起居住在[利文顿](Rivington.md "Rivington")。
 

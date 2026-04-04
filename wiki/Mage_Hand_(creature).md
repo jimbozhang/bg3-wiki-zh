@@ -25,7 +25,7 @@
 
 ### 攻击与能力
 
-[推击](Shove.md "Shove") ()
+[推击](Shove.md "Shove")
 
 尝试将目标推开。你的成功率取决于你的[运动](Athletics.md "Athletics")属性，如果你处于隐藏或隐形状态，成功率会更高。
 
@@ -33,7 +33,7 @@
 
 射程：1.5 米 (5 英尺)
 
-[投掷](Throw.md "Throw") ()
+[投掷](Throw.md "Throw")
 
 伤害：
 

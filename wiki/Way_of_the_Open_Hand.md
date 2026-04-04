@@ -38,18 +38,18 @@
 [灵魂具现](Manifestation_of_Soul.md "灵魂具现")
 你的双手从敌人的身体中吸取气。你的徒手攻击造成额外1d4 + 感知调整值⁠⁠[光耀](Radiant.md "光耀")伤害。
 
-[混元体](Wholeness_of_Body.md "混元体") ()
+[混元体](Wholeness_of_Body.md "混元体")
 恢复一半的[气点](Ki_Point.md "气点")，并进入临时的[混元体](Wholeness_of_Body_(Condition).md "混元体（状态）")状态，在此状态下你恢复气点并获得额外的[附赠动作](Actions.md#Resources "动作")。（充能：[长休](Long_Rest.md "长休")。）
 
 ### 等级 9
 
-[共鸣之气：拳击](Ki_Resonation_colon__Punch.md "共鸣之气：拳击") ()
+[共鸣之气：拳击](Ki_Resonation_colon__Punch.md "共鸣之气：拳击")
 用你的空拳击中一个生物，使其体内的气与你的气[共鸣](Resonating_Ki_(Condition).md "共鸣之气（状态）")。
 
-[共鸣之气：拳击（附赠动作）](Ki_Resonation_colon__Punch_(Bonus_Action).md "共鸣之气：拳击（附赠动作）") ()
+[共鸣之气：拳击（附赠动作）](Ki_Resonation_colon__Punch_(Bonus_Action).md "共鸣之气：拳击（附赠动作）")
 用你的空拳击中一个生物，使其体内的气与你的气[共鸣](Resonating_Ki_(Condition).md "共鸣之气（状态）")。
 
-[共鸣之气：爆炸](Ki_Resonation_colon__Blast.md "共鸣之气：爆炸") ()
+[共鸣之气：爆炸](Ki_Resonation_colon__Blast.md "共鸣之气：爆炸")
 引爆一个与你[共鸣](Resonating_Ki_(Condition).md "共鸣之气（状态）")的生物的气，击中该生物以及其5米/17英尺范围内所有非队友和非召唤生物的单位。（充能：每回合。）
 
 ### 等级 11

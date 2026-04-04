@@ -25,7 +25,7 @@ UID `WPN_HUM_Dagger_A_0_Rusty_A` UUID `6a321455-d00f-4164-ab12-3601fef2ae6e` ###
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

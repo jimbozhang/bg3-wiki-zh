@@ -34,7 +34,7 @@
 
 刺穿一个目标并将其击退 2 米 / 7 英尺。
 
-[鲁莽咆哮](Reckless_Roar.md "鲁莽咆哮") ()
+[鲁莽咆哮](Reckless_Roar.md "鲁莽咆哮")
 获得[优势](Advantage.md "优势")于[攻击掷骰](Attack_rolls.md "攻击掷骰")。攻击者也获得[优势](Advantage.md "优势")于对你的[攻击掷骰](Attack_rolls.md "攻击掷骰")。(充能：每回合。)
 
 [强壮](Muscular.md "强壮")

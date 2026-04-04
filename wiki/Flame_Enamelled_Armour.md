@@ -19,7 +19,7 @@
 
 此物品的穿戴者获得：
 
-[火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖") ()
+[火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖")
 作为4级法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [鲜少措手不及](Seldom_Caught_Unawares_(+2).md)

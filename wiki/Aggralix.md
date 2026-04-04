@@ -3,14 +3,45 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [凯伦·布莱森](https://www.imdb.com/name/nm0117464/) |
+| 声音 / 演员 | [凯伦·布莱森](https://www.imdb.com/name/nm0117464/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
-| 等级 | 8 |
-| 生命值 | 55 |
-| 护甲等级 | 16 |
-| 先攻 | +5 |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "黄金矮人") |
+| 职业 | [游侠](Ranger.md "游侠") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 55 | 38 | 71 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +5 | +5 | +5 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 21 / (+5) | 14 / (+2) | 8 / (-1) | 14 / (+2) | 10 / (0) |
+
+**特性**
+
+- [箭术](Archery.md "箭术")
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**特性**
+
+- [箭术](Archery.md "箭术")
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -51,7 +82,7 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [重弩](Heavy_Crossbow.md "重弩")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [重弩](Heavy_Crossbow.md "重弩")
 消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")。在你的回合剩余时间内，投掷两次远程伤害并使用较高结果。
 
 充能：[短休](Short_rest.md "短休")
@@ -71,7 +102,7 @@
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [重弩](Heavy_Crossbow.md "重弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：6~15
 
@@ -85,7 +116,7 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：6~15
 
@@ -95,7 +126,7 @@
 
 射程：18 米 (60 英尺)
 
-[疾速齐射](Volley.md "疾速齐射") () – [重弩](Heavy_Crossbow.md "重弩")
+[疾速齐射](Volley.md "疾速齐射") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：6~15
 

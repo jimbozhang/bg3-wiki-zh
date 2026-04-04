@@ -35,20 +35,20 @@ UID `MAG_Spellbreaker_Battleaxe` UUID `c77553e2-f192-4835-baa9-bdfb63521532` Sta
 
 _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[劈砍](Cleave.md "劈砍") ()
+[劈砍](Cleave.md "劈砍")
 挥动武器划出大弧线，一次攻击最多3个敌人。每个敌人受到你武器通常造成伤害的一半。（充能：[短休](Short_rest.md "短休")。）
 
-[割裂](Lacerate.md "割裂") ()
+[割裂](Lacerate.md "割裂")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足（状态）")。他们无法移动。（充能：[短休](Short_rest.md "短休")。）
 
 ### 特殊武器动作
 
 此武器还提供以下动作：
 
-[安静！](Hush_You!.md "安静！") ()
+[安静！](Hush_You!.md "安静！")
 劈砍目标并可能使其[沉默](Silenced_(Condition).md "沉默（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

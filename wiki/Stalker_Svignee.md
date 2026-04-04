@@ -57,7 +57,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围: 普通武器范围
 
-[地狱火球](Hellfire_Orb.md "地狱火球") ()
+[地狱火球](Hellfire_Orb.md "地狱火球")
 
 伤害: 20~120
 

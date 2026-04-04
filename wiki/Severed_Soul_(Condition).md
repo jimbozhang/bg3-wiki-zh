@@ -12,7 +12,7 @@
 
 ## 赋予
 
-[找回灵魂](Restore_Soul.md "Restore Soul") ()
+[找回灵魂](Restore_Soul.md "Restore Soul")
 通过从拉斐尔或灵魂之柱夺回你的灵魂，克服灵魂被撕裂的状态
 
 ## 说明

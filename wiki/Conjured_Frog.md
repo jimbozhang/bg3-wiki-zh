@@ -16,7 +16,7 @@
 
 ## 战斗
 
-[蛙毒](Bufotoxin.md "蛙毒") ()
+[蛙毒](Bufotoxin.md "蛙毒")
 
 伤害：1
 

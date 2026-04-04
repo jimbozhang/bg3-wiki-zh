@@ -25,10 +25,10 @@ UID `WPN_HUM_Greatclub_A_2` UUID `adf0ef57-7811-40ed-9d29-05c6336f9e1f` Stats `W
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[韧性](Tenacity.md "Tenacity") ()
+[韧性](Tenacity.md "Tenacity")
 当你攻击未命中时，依然造成等于你[力量](Strength.md "Strength") [调整值](Ability_Scores.md#Ability_score_modifiers "属性值")的 ⁠[钝击](Bludgeoning.md "Bludgeoning") 伤害（最低为 1）。
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") ()
+[震荡猛击](Concussive_Smash.md "Concussive Smash")
 全力击中敌人，造成伤害并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 外部链接

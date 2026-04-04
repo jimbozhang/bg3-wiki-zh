@@ -3,15 +3,46 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [艾米·麦卡利斯特](https://www.imdb.com/name/nm3577620/) |
+| 声音 / 演员 | [艾米·麦卡利斯特](https://www.imdb.com/name/nm3577620/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
-| 等级 | 5 |
-| 生命值 | 54 |
-| 护甲等级 | 13 |
-| 先攻 | +2 |
-| 经验值 | 75 |
+| 亚种 | [灰矮人](Duergar.md "灰矮人") |
+| 职业 | [游侠](Ranger.md "游侠") |
+
+| | 平衡 | 硬核 |
+| --- | --- | --- |
+| 等级 | 5 | 5 |
+| 生命值 | 54 | 65 |
+| 护甲等级 | 13 | 13 |
+| 先攻 | +2 | +2 |
+| 熟练项 | +3 | +3 |
+| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 24 米 (80 英尺) | 24 米 (80 英尺) |
+| 经验值 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 12 / (+1) |
+
+**特性**
+
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
+
+**特性**
+
+- [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
+- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -55,12 +86,12 @@
 
 ### 攻击与能力
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") () – [匕首](Dagger.md "匕首")
+[备战（远程）](Brace_(Ranged).md "备战（远程）") – [匕首](Dagger.md "匕首")
 消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "移动速度")。在本回合剩余时间内，投掷两次远程伤害并取最高值。
 
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [匕首](Dagger.md "匕首")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [匕首](Dagger.md "匕首")
 
 伤害：3~6
 
@@ -70,7 +101,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺射击](Piercing_Shot.md "穿刺射击") () – [重弩](Heavy_Crossbow.md "重弩")
+[穿刺射击](Piercing_Shot.md "穿刺射击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：3~12
 
@@ -84,7 +115,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "短休")
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [匕首](Dagger.md "匕首")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [匕首](Dagger.md "匕首")
 
 伤害：3~6
 
@@ -98,7 +129,7 @@
 射程：常规武器射程
 充能：[短休](Short_rest.md "短休")
 
-[远程攻击](Ranged_Attack.md "远程攻击") () – [重弩](Heavy_Crossbow.md "重弩")
+[远程攻击](Ranged_Attack.md "远程攻击") – [重弩](Heavy_Crossbow.md "重弩")
 
 伤害：3~12
 

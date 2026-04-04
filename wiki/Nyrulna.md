@@ -45,20 +45,20 @@ UID `MAG_TheThorns_Trident` UUID `daf0be7f-87d9-448a-b94e-471ffec40ac5` Stats `M
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") ()
+[穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加 [开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
-[跛足打击](Maiming_Strike.md "跛足打击") ()
+[跛足打击](Maiming_Strike.md "跛足打击")
 可能使目标[跛足](Maimed_(Condition).md "跛足 (状态)")。他们无法移动。 (充能：[短休](Short_rest.md "短休")。)
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[西风闪](Zephyr_Flash.md "西风闪") ()
+[西风闪](Zephyr_Flash.md "西风闪")
 向前冲刺，产生气旋冲击敌人并可能施加 [流血](Bleeding_(Condition).md "流血 (状态)")。 (充能：[短休](Short_rest.md "短休")。)
 
-[西风破裂](Zephyr_Break.md "西风破裂") ()
+[西风破裂](Zephyr_Break.md "西风破裂")
 西风破裂模仿 [造风术](Gust_of_Wind.md "造风术") 法术的效果，同时造成雷鸣伤害。 (充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点

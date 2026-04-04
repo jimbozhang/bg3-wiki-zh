@@ -40,13 +40,13 @@ UID `MAG_Bonded_Lethal_Longsword` UUID `faf8d98c-103d-4524-b609-41d3f1790c5a` ##
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**可获得：_
 
-[剑柄打击](Pommel_Strike.md "Pommel_Strike") ()
+[剑柄打击](Pommel_Strike.md "Pommel_Strike")
 对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[割裂](Lacerate.md "Lacerate") ()
+[割裂](Lacerate.md "Lacerate")
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血（状态）")。（充能：[短休](Short_rest.md "Short rest")。）
 
-[突进攻击](Rush_Attack.md "Rush_Attack") ()
+[突进攻击](Rush_Attack.md "Rush_Attack")
 向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")状态。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 备注

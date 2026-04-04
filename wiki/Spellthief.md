@@ -31,10 +31,10 @@ UID `UNI_Bow_SpellslotRecharge` UUID `db4a3e0f-6315-4337-abce-aad5f38513aa` Stat
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获得：_
 
-[腿筋射击](Hamstring_Shot.md "腿筋射击") ()
+[腿筋射击](Hamstring_Shot.md "腿筋射击")
 射击敌人的大腿，可能使其[移动速度](Movement_speed.md "移动速度")降低50%。（充能：[短休](Short_rest.md "短休")。）
 
-[备战（远程）](Brace_(Ranged).md "备战（远程）") ()
+[备战（远程）](Brace_(Ranged).md "备战（远程）")
 消耗6米（20英尺）的[移动](Movement_speed.md "移动速度")。在本回合剩余时间内，掷两次远程伤害并取最高值。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

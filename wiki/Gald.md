@@ -50,12 +50,12 @@
 
 ### 攻击和能力
 
-[疾走](Dash.md "Dash") ()
+[疾走](Dash.md "Dash")
 本回合移动更远距离：移动速度翻倍。
 
 范围：自身
 
-[引爆](Detonate.md "Detonate") ()
+[引爆](Detonate.md "Detonate")
 
 伤害：44~68
 

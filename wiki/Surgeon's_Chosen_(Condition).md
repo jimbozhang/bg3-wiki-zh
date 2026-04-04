@@ -20,16 +20,16 @@
 
 ## 赋予
 
-[递给我骨锯](Hand_Me_My_Saw.md "递给我骨锯") ()
+[递给我骨锯](Hand_Me_My_Saw.md "递给我骨锯")
 为外科医生装备一把血淋淋的锯齿骨锯，允许其施放[骨锯术](Bloody_Bonesaw.md "骨锯术")。（充能：每回合。）
 
-[递给我手术针管](Hand_Me_My_Syringe.md "递给我手术针管") ()
+[递给我手术针管](Hand_Me_My_Syringe.md "递给我手术针管")
 为外科医生装备一把结痂生锈的手术针管，允许其施放[这不会疼](This_Won't_Hurt_A_Bit.md "这不会疼")。（充能：每回合。）
 
-[递给我手术圆锯](Hand_Me_My_Trepan.md "递给我手术圆锯") ()
+[递给我手术圆锯](Hand_Me_My_Trepan.md "递给我手术圆锯")
 为外科医生装备一把带毒的手术圆锯，允许其施放[环锯术](Terror_Trepan.md "环锯术")。（充能：每回合。）
 
-[递给我吸血术](Hand_Me_My_Leech.md "递给我吸血术") ()
+[递给我吸血术](Hand_Me_My_Leech.md "递给我吸血术")
 为外科医生装备一只肿胀咬人的吸血虫，允许其施放[致命吸血器](Lethal_Leech.md "致命吸血器")。（充能：每回合。）
 
 ## 备注

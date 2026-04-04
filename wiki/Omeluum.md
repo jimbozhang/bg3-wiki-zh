@@ -2,15 +2,28 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Glen McCready](https://www.imdb.com/name/nm1959185/) |
+| 声音 / 演员 | [Glen McCready](https://www.imdb.com/name/nm1959185/) |
+| 角色 | [商人](Traders.md "商人"), [随从](Companions.md#Attached_Followers "伙伴") |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [异怪](Aberration.md "异怪") |
 | 种族 | [夺心魔](Mind_flayers.md "夺心魔") |
-| 等级 | 5 |
-| 生命值 | 62 |
-| 护甲等级 | 11 |
-| 先攻 | +1 |
-| 经验值 | 75 |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 5 | 5 | 5 |
+| 生命值 | 62 | 43 | 80 |
+| 护甲等级 | 11 | 11 | 11 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 60 千克 (120 磅) | 60 千克 (120 磅) | 60 千克 (120 磅) |
+| 暗视 | 18 米 (60 英尺) | 18 米 (60 英尺) | 18 米 (60 英尺) |
+| 经验值 | 75 | 75 | 75 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 12 / (+1) | 12 / (+1) | 18 / (+4) | 16 / (+3) | 16 / (+3) |
 
 **奥米伦**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中一位友好的[夺心魔](Mind_flayers.md "夺心魔")和[商人](Traders.md "商人")。奥米伦在被[布尔格](Blurg.md "布尔格")联系后，来到了[幽暗地域](Underdark.md "幽暗地域")的[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")。它是[光耀会](Society_of_Brilliance.md "光耀会")的成员，可以请求它帮助[移除其蝌蚪](Help_Omeluum_investigate_the_parasite.md "帮助奥米伦调查寄生虫的事")。
 
@@ -124,10 +137,10 @@ _对应`UND_SocietyOfBrilliance_Mindflayer`。_
 
 定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource)..md) 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 
-[浮空术](Levitate_(Illithid_Power).md "浮空术（灵吸怪能力）") ()
+[浮空术](Levitate_(Illithid_Power).md "浮空术（灵吸怪能力）")
 轻松漂浮到目的地。
 
-[心灵震爆](Mind_Blast.md "心灵震爆") ()
+[心灵震爆](Mind_Blast.md "心灵震爆")
 
 伤害：4~32 + 调整值
 

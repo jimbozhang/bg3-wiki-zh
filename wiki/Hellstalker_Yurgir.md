@@ -27,18 +27,18 @@
 | 护甲等级 | 17 |  |  |  |  |
 | 体型 | 大型 |  |  |  |  |
 
-[震荡爆炸](Concussive_Burst.md "震荡爆炸") ()
+[震荡爆炸](Concussive_Burst.md "震荡爆炸")
 一道雷鸣般的爆炸在你的敌人身上扩散并将他们击退。（充能：每回合。）
 
-[爆破惩戒](Explosive_Retribution.md "爆破惩戒") ()
+[爆破惩戒](Explosive_Retribution.md "爆破惩戒")
 在你周围投掷一簇具有伤害性的爆炸物，它们将在2回合后爆炸，造成 4d8[火焰](Fire.md "火焰") 和 4d8[力场](Force.md "力场") 伤害。（充能：每场战斗一次。）
 
-[地狱匕首](Infernal_Dagger.md "地狱匕首") ()
+[地狱匕首](Infernal_Dagger.md "地狱匕首")
 进行一次邪魔打击，可能使目标[中毒](Poisoned_(Condition).md "中毒（状态）")并造成额外的 4d10[中毒](Poison.md "中毒") 伤害。（充能：每回合。）
 
-[隐形](Invisibility_(class_action).md "隐形（类动作）") ()
+[隐形](Invisibility_(class_action).md "隐形（类动作）")
 
-[挥发集群](Volatile_Cluster.md "挥发集群") ()
+[挥发集群](Volatile_Cluster.md "挥发集群")
 投掷一簇3枚炸弹，可能使附近的生物[倒伏](Prone_(Condition).md "倒伏（状态）")。每枚炸弹将在一次[邪魔爆焰](Fiendish_Flameblast.md "邪魔爆焰")中爆炸。（充能：每回合。）
 
 ## 如何学习

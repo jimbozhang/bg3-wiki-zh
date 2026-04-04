@@ -3,16 +3,39 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 配音 | - [Roger Ringrose](https://www.imdb.com/name/nm1403331/) |
+| 声音 / 演员 | [Roger Ringrose](https://www.imdb.com/name/nm1403331/) |
 | 体型 | [小型](Small.md "Small") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半身人](Halfling.md "Halfling") |
+| 亚种 | [轻足半身人](Lightfoot_Halfling.md "Lightfoot halfling") |
+
+| | |
+| --- | --- |
 | 等级 | 3 |
 | 生命值 | 8 |
 | 护甲等级 | 10 |
 | 先攻 | 0 |
+| 熟练项 | +2 |
 | 移动速度 | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) |
+| 暗视 | 0 米 (0 英尺) |
 | 经验值 | 1 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+**特性**
+
+- [勇敢](Brave.md "Brave")
+- [半身人幸运](Halfling_Luck.md "Halfling Luck")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+**特性**
+
+- [勇敢](Brave.md "Brave")
+- [半身人幸运](Halfling_Luck.md "Halfling Luck")
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
 **因普托·尼克西姆**是一位[半身人](Halfling.md "Halfling")贵族，可能出现在[下城区](Lower_City.md "Lower City")的[迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "Lady_Jannath's Estate")厨房中。
 

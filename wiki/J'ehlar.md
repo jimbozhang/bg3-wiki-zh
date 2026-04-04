@@ -3,16 +3,28 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 配音 | - [Jacqui Bardelang](https://www.imdb.com/name/nm11624408/) |
+| 声音 / 演员 | [Jacqui Bardelang](https://www.imdb.com/name/nm11624408/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 6 |
-| 生命值 | 52 |
-| 护甲等级 | 16 |
-| 先攻 | 0 |
-| 移动速度 | 9 m (30 ft) |
-| 经验值 | 90 |
+| 职业 | [牧师](Cleric.md "Cleric") |
+| 副职 | [光明领域](Light_Domain.md "Light Domain") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 6 | 6 | 6 |
+| 生命值 | 52 | 36 | 67 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | 0 | 0 | 0 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 0 m (0 ft) | 0 m (0 ft) | 0 m (0 ft) |
+| 经验值 | 90 | 90 | 90 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 11 / (0) | 14 / (+2) | 12 / (+1) | 16 / (+3) | 14 / (+2) |
 
 ## 目录
 
@@ -71,7 +83,7 @@
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws")
 范围：自身
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") () – [短棒](Club.md "Club")
+[震荡猛击](Concussive_Smash.md "Concussive Smash") – [短棒](Club.md "Club")
 
 伤害：3~6
 
@@ -93,7 +105,7 @@
 
 近战：1.5 m (5 ft)
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") () – [短棒](Club.md "Club")
+[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [短棒](Club.md "Club")
 
 伤害：3~6
 
@@ -103,7 +115,7 @@
 
 近战：1.5 m (5 ft)
 
-[圣火术](Sacred_Flame.md "Sacred Flame") ()
+[圣火术](Sacred_Flame.md "Sacred Flame")
 
 伤害：1~8
 

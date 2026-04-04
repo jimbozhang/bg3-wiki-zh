@@ -4,12 +4,6 @@
 
 - 平衡
 
-## 平衡难度属性
-
-### 生命值
-
-4
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 - - - - - - **夜灯** 是在 [幽暗地域](Underdark.md "Underdark") 中发现的一种无害蘑菇。

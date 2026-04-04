@@ -6,11 +6,48 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
-| 等级 | 8 |
-| 生命值 | 104 |
-| 护甲等级 | 14 |
-| 先攻 | +1 |
-| 经验值 | 140 |
+| 职业 | [野蛮人](Barbarian.md "野蛮人") |
+| 副职 | [荒蛮之心](Wildheart.md "荒蛮之心") |
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 104 | 72 | 135 |
+| 护甲等级 | 14 | 14 | 14 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 140 | 140 | 140 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 19 / (+4) | 12 / (+1) | 16 / (+3) | 9 / (-1) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [野兽之相：狼獾](Aspect_of_the_Beast_colon__Wolverine.md "野兽之相：狼獾")
+- [危机感知](Danger_Sense.md "危机感知")
+- [飞鹰之心](Eagle_Heart.md "飞鹰之心")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+
+**特性**
+
+- [野兽之相：狼獾](Aspect_of_the_Beast_colon__Wolverine.md "野兽之相：狼獾")
+- [危机感知](Danger_Sense.md "危机感知")
+- [飞鹰之心](Eagle_Heart.md "飞鹰之心")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [快速移动](Fast_Movement.md "快速移动")
+- [野性直觉](Feral_Instinct.md "野性直觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
+- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
 ## 目录
 
@@ -29,7 +66,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 
 伤害：
 
@@ -41,12 +78,12 @@
 射程：正常武器射程
 充能：[短休](Short_rest.md "短休")
 
-[疾走](Dash_(bonus_action).md "疾走 (附赠动作)") ()
+[疾走](Dash_(bonus_action).md "疾走 (附赠动作)")
 本回合覆盖更多距离：使你的[移动速度](Movement_speed.md "移动速度")翻倍。
 
 射程：自身
 
-[俯冲突袭](Diving_Strike.md "俯冲突袭") () – [巨棒](Greatclub.md "巨棒")
+[俯冲突袭](Diving_Strike.md "俯冲突袭") – [巨棒](Greatclub.md "巨棒")
 
 伤害：5~12
 
@@ -60,7 +97,7 @@
 
 射程：[跳跃](Jump.md "跳跃")范围
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [巨棒](Greatclub.md "巨棒")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [巨棒](Greatclub.md "巨棒")
 
 伤害：5~12
 
@@ -80,7 +117,7 @@
 
 射程：自身
 
-[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") () – [巨棒](Greatclub.md "巨棒")
+[鲁莽攻击](Reckless_Attack.md "鲁莽攻击") – [巨棒](Greatclub.md "巨棒")
 
 伤害：5~12
 

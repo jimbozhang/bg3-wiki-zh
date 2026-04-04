@@ -21,10 +21,10 @@
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。
 - [豁免检定](Saving_throw.md "豁免检定") +1
 
-[月光壁垒](Lunar_Bulwark.md "月光壁垒") ()
+[月光壁垒](Lunar_Bulwark.md "月光壁垒")
 沐浴在[塞伦涅](Sel%C3%BBne.md "塞伦涅")守护目光的防护魔法中。（充能：[长休](Long_Rest.md "长休")。）
 
-[燃火术](Produce_Flame.md "燃火术") ()
+[燃火术](Produce_Flame.md "燃火术")
 手中燃起火焰，在 9 米 / 30 英尺半径范围内散发光芒，投掷时造成 1d8⁠⁠[火焰](Fire.md "火焰")伤害。
 
 [塞伦涅的保护](Sel%C3%BBne's_Protection.md "塞伦涅的保护")

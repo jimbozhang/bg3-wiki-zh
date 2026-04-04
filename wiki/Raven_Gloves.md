@@ -14,7 +14,7 @@
 
 穿戴此物品获得：
 
-[召唤渡鸦科斯](Summon_Quothe_the_Raven.md "Summon Quothe the Raven") ()
+[召唤渡鸦科斯](Summon_Quothe_the_Raven.md "Summon Quothe the Raven")
 召唤一只渡鸦魔宠，可用喙使敌人目盲。（充能：[短休](Short_rest.md "Short rest")。）
 
 ## 获取地点

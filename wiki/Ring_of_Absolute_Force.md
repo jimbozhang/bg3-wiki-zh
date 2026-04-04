@@ -14,7 +14,7 @@
 
 佩戴此物品获得：
 
-[雷鸣波](Thunderwave.md "Thunderwave") ()
+[雷鸣波](Thunderwave.md "Thunderwave")
 以1环法术施放（充能：[短休](Short_rest.md "Short rest")。）
 
 [至上真神的雷霆](Absolute's_Tempest.md "Absolute's Tempest")

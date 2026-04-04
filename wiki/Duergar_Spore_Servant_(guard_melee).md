@@ -2,15 +2,38 @@
 
 | | |
 | --- | --- |
-| 配音 | - [Gary Lilburn](https://www.imdb.com/name/nm0510180/) |
+| 声音 / 演员 | [Gary Lilburn](https://www.imdb.com/name/nm0510180/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [植物](Plant.md "植物") |
 | 种族 | [灰矮人](Duergar.md "灰矮人")（原为） |
+
+| | |
+| --- | --- |
 | 等级 | 3 |
 | 生命值 | 34 |
 | 护甲等级 | 11 |
 | 先攻 | 0 |
+| 熟练项 | +2 |
 | 移动速度 | 8 米 (27 英尺) |
+| 重量 | 80 千克 (160 磅) |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 14 / (+2) | 11 / (0) | 14 / (+2) | 2 / (-4) | 6 / (-2) | 1 / (-5) |
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [太阳病](Sun_Sickness.md "太阳病")
+- [韧性](Tenacity_(passive_feature).md "韧性（被动特性）")
+
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [太阳病](Sun_Sickness.md "太阳病")
+- [韧性](Tenacity_(passive_feature).md "韧性（被动特性）")
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -36,7 +59,7 @@
 
 ### 攻击与能力
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 
 伤害：
 

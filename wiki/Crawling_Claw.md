@@ -62,7 +62,7 @@
 
 ### 攻击与能力
 
-[爪击](Claws_(Crawling_Claw).md "Claws (Crawling Claw)") ()
+[爪击](Claws_(Crawling_Claw).md "Claws (Crawling Claw)")
 
 伤害：3~17
 

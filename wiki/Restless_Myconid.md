@@ -70,7 +70,7 @@
 
 ### 攻击与能力
 
-[拳头](Fist.md "Fist") ()
+[拳头](Fist.md "Fist")
 
 伤害：2~12
 
@@ -82,13 +82,13 @@
 
 近战：1.5 米 (5 英尺)
 
-[加速孢子](Haste_Spores.md "Haste Spores") ()
+[加速孢子](Haste_Spores.md "Haste Spores")
 喷出一团白色孢子云，使进入云中的任何生物[加速](Haste_Spores_(Condition).md "Haste Spores (Condition)")。
 
 范围：18 米 (60 英尺)
 充能：[长休](Long_Rest.md "Long rest")
 
-[抚慰孢子](Pacifying_Spores.md "Pacifying Spores") ()
+[抚慰孢子](Pacifying_Spores.md "Pacifying Spores")
 安抚一个生物。它不能移动或采取动作、附赠动作或反应。
 
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")

@@ -38,7 +38,7 @@
 
 ### 攻击与能力
 
-[华舞](Flourish.md "华舞") () – [短剑](Shortsword.md "短剑")
+[华舞](Flourish.md "华舞") – [短剑](Shortsword.md "短剑")
 
 伤害：1~4
 
@@ -50,7 +50,7 @@
 范围：普通武器范围
 充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "主手攻击") () – [短剑](Shortsword.md "短剑")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [短剑](Shortsword.md "短剑")
 
 伤害：3~8
 
@@ -60,7 +60,7 @@
 
 近战：1.5 米 (5 英尺)
 
-[穿刺打击](Piercing_Strike.md "穿刺打击") () – [短剑](Shortsword.md "短剑")
+[穿刺打击](Piercing_Strike.md "穿刺打击") – [短剑](Shortsword.md "短剑")
 
 伤害：3~8
 

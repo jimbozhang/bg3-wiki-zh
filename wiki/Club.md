@@ -26,7 +26,7 @@ UID `WPN_HUM_Club_A_0` UUID `d9c87013-1f41-4c17-b71d-f353ec0d64e8` ### 武器动
 
 _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**以获得：_
 
-[震荡猛击](Concussive_Smash.md "Concussive Smash") ()
+[震荡猛击](Concussive_Smash.md "Concussive Smash")
 全力击中敌人以造成伤害并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 ---

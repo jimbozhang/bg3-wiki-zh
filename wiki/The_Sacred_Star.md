@@ -36,20 +36,20 @@ UID `MAG_RadiantLight_Morningstar` UUID `5637bf93-ebd4-4170-a251-d77d9687c58a` #
 
 _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获得：_
 
-[惊心打击](Heartstopper.md "惊心打击") ()
+[惊心打击](Heartstopper.md "惊心打击")
 击碎敌人的胸膛，并可能施加[胸外伤](Chest_Trauma_(Condition).md "胸外伤（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[震荡猛击](Concussive_Smash.md "震荡猛击") ()
+[震荡猛击](Concussive_Smash.md "震荡猛击")
 全力击中敌人以造成伤害，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-[韧性](Tenacity.md "韧性") ()
+[韧性](Tenacity.md "韧性")
 当你攻击未命中时，仍会根据你的[力量](Strength.md "力量") [调整值](Ability_Scores.md#Ability_score_modifiers "属性值")造成等量的[钝击](Bludgeoning.md "钝击")伤害（最低为1）。
 
 ### 特殊武器动作
 
 此武器还授予以下动作：
 
-[黎明爆裂打击](Dawnburst_Strike.md "黎明爆裂打击") ()
+[黎明爆裂打击](Dawnburst_Strike.md "黎明爆裂打击")
 造成等同于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外[光耀](Radiant.md "光耀")伤害。命中时，你周围3米/10英尺区域爆发光芒。光芒中的敌人必须通过[体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将[目盲](Blinded_(Condition).md "目盲（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点
