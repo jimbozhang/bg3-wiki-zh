@@ -1,0 +1,99 @@
+<ul>
+  <li><a href="{{ "/" | relURL }}"><strong>首页</strong></a></li>
+</ul>
+
+{{ $currentURL := $.Page.RelPermalink }}
+
+{{ define "menu-item" }}
+  {{/* .item = dict with "title" and "page", .currentURL = current page URL */}}
+  {{ $item := .item }}
+  {{ $currentURL := .currentURL }}
+  <li>
+    {{ with site.GetPage $item.page }}
+      {{ $title := $item.title }}
+      {{ with .Title }}{{ $title = . }}{{ end }}
+      <a href="{{ .RelPermalink }}" {{ if eq $currentURL .RelPermalink }}class="active"{{ end }}>{{ $title }}</a>
+    {{ else }}
+      <span>{{ $item.title }}</span>
+    {{ end }}
+  </li>
+{{ end }}
+
+<h3>游戏内容</h3>
+<ul>
+  {{ range (slice
+    (dict "title" "掷骰" "page" "Dice_rolls")
+    (dict "title" "生物" "page" "List_of_creature_types")
+    (dict "title" "NPC" "page" "Non-player_characters")
+    (dict "title" "伙伴" "page" "Companions")
+    (dict "title" "任务" "page" "Quests")
+    (dict "title" "武器" "page" "Weapons")
+    (dict "title" "物品" "page" "Items")
+    (dict "title" "地点" "page" "List_of_locations")
+    (dict "title" "成就" "page" "Achievements")
+    (dict "title" "消耗品" "page" "Consumables")
+    (dict "title" "炼金术" "page" "Alchemy")
+  ) }}
+    {{ template "menu-item" (dict "item" . "currentURL" $currentURL) }}
+  {{ end }}
+</ul>
+
+<h3>角色创建</h3>
+<ul>
+  {{ range (slice
+    (dict "title" "起源" "page" "Origins")
+    (dict "title" "种族" "page" "Races")
+    (dict "title" "职业" "page" "Classes")
+    (dict "title" "法术" "page" "Spells")
+    (dict "title" "专长" "page" "Feats")
+    (dict "title" "背景" "page" "Backgrounds")
+    (dict "title" "属性" "page" "Abilities")
+    (dict "title" "技能" "page" "Skills")
+    (dict "title" "角色创建" "page" "Character_creation")
+  ) }}
+    {{ template "menu-item" (dict "item" . "currentURL" $currentURL) }}
+  {{ end }}
+</ul>
+
+<h3>章节</h3>
+<ul>
+  {{ range (slice
+    (dict "title" "序幕" "page" "Prologue")
+    (dict "title" "第一幕" "page" "Act_One")
+    (dict "title" "第二幕" "page" "Act_Two")
+    (dict "title" "第三幕" "page" "Act_Three")
+  ) }}
+    {{ template "menu-item" (dict "item" . "currentURL" $currentURL) }}
+  {{ end }}
+</ul>
+
+<h3>游戏机制</h3>
+<ul>
+  {{ range (slice
+    (dict "title" "动作" "page" "Action")
+    (dict "title" "附赠动作" "page" "Bonus_action")
+    (dict "title" "反应" "page" "Reaction")
+    (dict "title" "状态" "page" "Conditions")
+    (dict "title" "伤害类型" "page" "Damage_types")
+    (dict "title" "护甲等级" "page" "Armour_Class")
+    (dict "title" "先攻" "page" "Initiative")
+    (dict "title" "休息" "page" "Resting")
+  ) }}
+    {{ template "menu-item" (dict "item" . "currentURL" $currentURL) }}
+  {{ end }}
+</ul>
+
+<h3>角色</h3>
+<ul>
+  {{ range (slice
+    (dict "title" "阿斯代伦" "page" "Astarion")
+    (dict "title" "盖尔" "page" "Gale")
+    (dict "title" "卡菈克" "page" "Karlach")
+    (dict "title" "莱埃泽尔" "page" "Lae'zel")
+    (dict "title" "影心" "page" "Shadowheart")
+    (dict "title" "威尔" "page" "Wyll")
+    (dict "title" "全部角色" "page" "List_of_characters")
+  ) }}
+    {{ template "menu-item" (dict "item" . "currentURL" $currentURL) }}
+  {{ end }}
+</ul>

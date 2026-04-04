@@ -3,3 +3,9 @@
 *.sh
 __pycache__/
 scripts/
+
+# Hugo build output
+public/
+resources/_gen/
+hugo_stats.json
+.hugo_build.lock

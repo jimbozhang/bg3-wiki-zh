@@ -1,0 +1,47 @@
+baseURL = 'https://bg3.wiki.cn/'
+title = '博德之门3 中文维基'
+theme = 'hugo-book'
+
+contentDir = 'wiki'
+
+languageCode = 'zh-CN'
+defaultContentLanguage = 'zh'
+
+disablePathToLower = true
+
+disableKinds = ['taxonomy', 'term', 'RSS']
+enableGitInfo = false
+
+ignoreFiles = ['\.py$', '\.sh$', '\.json$', '\.xml$', '\.glo\.txt$']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      strikethrough = true
+      table = true
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+      [markup.goldmark.extensions.passthrough.delimiters]
+        block = [['$$', '$$']]
+        inline = [['$', '$']]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookSection = '/'
+  BookSearch = false
+  BookComments = false
+  BookPortableLinks = true
+  BookDateFormat = '2006年1月2日'
+  BookRepo = 'https://github.com/jimbozhang/bg3-wiki-zh'
+
+[menu]
+  [[menu.after]]
+    name = 'GitHub'
+    url = 'https://github.com/jimbozhang/bg3-wiki-zh'
+    weight = 10
