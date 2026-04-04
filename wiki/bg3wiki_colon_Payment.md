@@ -1,7 +1,5 @@
 # bg3wiki:Payment
 
-[索引](Help_colon_Index.md "Help:Index") • [指南](Help_colon_Guide_namespace.md "Help:Guide namespace") • [模组](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
-
 2024年8月，bg3.wiki [决定开始投放广告](bg3wiki_colon_Ads.md "bg3wiki:Ads")。部分理由是，所有**截至当时**的重要贡献者都将获得一份分成。
 
 要申请您的分成，请阅读以下协议条款，然后继续填写下面的申请表。

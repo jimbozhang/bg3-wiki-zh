@@ -1,7 +1,5 @@
 # bg3wiki:验证
 
-[索引](Help_colon_Index.md "Help:Index") • [指南](Help_colon_Guide_namespace.md "Help:Guide namespace") • [模组](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
-
 我们希望维基上的信息是可信的，并且在某些情况下，可以通过外部来源进行验证。
 
 我们使用_参考文献_来告知读者维基上的信息来源。有关注释、脚注和参考文献的详细信息，请参见[帮助:样式手册](Help_colon_Style_manual.md "Help:Style manual")。

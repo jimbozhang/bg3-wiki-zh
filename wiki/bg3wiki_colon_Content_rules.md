@@ -1,7 +1,5 @@
 # bg3wiki:内容规则
 
-[索引](Help_colon_Index.md "Help:Index") • [指南](Help_colon_Guide_namespace.md "Help:Guide namespace") • [模组](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
-
 BG3Wiki 的**内容规则**在为维基做贡献时应始终遵循。
 
 有关行为和编辑原则及指南，请参阅[编辑政策](Help_colon_Editing_Policy.md "Help:Editing Policy")。

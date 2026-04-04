@@ -1,7 +1,5 @@
 # 帮助:术语表
 
-[索引](Help_colon_Index.md "Help:Index") • [指南](Help_colon_Guide_namespace.md "Help:Guide namespace") • [模组](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
-
 这是一个**术语表**，包含缩写、缩略词和其他晦涩术语，您可能会在游戏内或关于[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")的讨论中看到。它并非完整列表，但如果您遇到不理解的术语，可能会有所帮助。
 
 ## 目录

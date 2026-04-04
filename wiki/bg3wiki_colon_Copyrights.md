@@ -1,7 +1,4 @@
 # bg3wiki:版权
-
-[索引](Help_colon_Index.md "Help:Index") • [指南](Help_colon_Guide_namespace.md "Help:Guide namespace") • [模组](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
-
 本页面为法律文件。关于许可的非正式指南，请参见 [bg3wiki:许可](bg3wiki_colon_Licensing.md "bg3wiki:Licensing")。
 
 Bg3.wiki 是由 [Larian Studios](https://larian.com) 开发的视频游戏 [博德之门3](https://baldursgate3.game) 的非官方粉丝维基。在 bg3.wiki 上发布的任何受版权保护的作品（文本、代码、图像等，统称为“内容”）均根据 [知识共享署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) 和 [知识共享署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 双重许可，除非另有说明，并附有本页面描述的额外例外情况。

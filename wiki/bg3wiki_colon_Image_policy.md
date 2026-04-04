@@ -1,7 +1,5 @@
 # bg3wiki:图片政策
 
-[索引](Help_colon_Index.md "Help:Index") • [指南](Help_colon_Guide_namespace.md "Help:Guide namespace") • [模组](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
-
 ## 目录
 
 - [1 命名约定](#naming-convention)

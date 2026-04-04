@@ -1,7 +1,5 @@
 # bg3wiki:许可
 
-[索引](Help_colon_Index.md "Help:Index") • [指南](Help_colon_Guide_namespace.md "Help:Guide namespace") • [模组](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
-
 这是一份关于 bg3.wiki 上版权和许可的非正式指南。如需精确解释，请参阅 [bg3wiki:版权](bg3wiki_colon_Copyrights.md "bg3wiki:Copyrights")。
 
 当您创建新页面、向现有页面添加一些独立文本块，或向 bg3.wiki 上传文件，并且您提交的内容是您自己的作品（例如，您自己撰写的文本，而非从别处复制），您在提交的那一刻即**许可**您的贡献给 bg3.wiki（以及世界其他地方）。您仍然是该作品的版权持有者，可以在 bg3.wiki 之外做任何您想做的事情（例如，根据其他许可向他人提供），但公众会收到一份**不可撤销**的许可，允许在特定条款下复制和使用该内容（下一节将解释这些条款）。

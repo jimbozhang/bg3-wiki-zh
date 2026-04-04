@@ -1,7 +1,5 @@
 # bg3wiki:编辑政策
 
-[索引](Help_colon_Index.md "Help:Index") • [指南](Help_colon_Guide_namespace.md "Help:Guide namespace") • [模组](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
-
 BG3.wiki 的**编辑政策**是一套供 wiki 贡献者遵循的指南和原则。它们并非必须始终遵守的硬性规定，而是在合理情况下适用。
 
 有关 wiki 上允许内容的规则，请参阅[内容规则](bg3wiki_colon_Content_rules.md "bg3wiki:Content rules")。
