@@ -42,7 +42,7 @@
 
 ### 第一幕
 
-焰拳最初在[渥金的休眠地](Waukeen's_Rest.md "Waukeen's Rest")遭遇，当时[绝对](Absolute.md "Absolute")的[卓尔](Drow.md "Drow")和[地精](Goblins.md "Goblins")发动了一次袭击。旅馆着火后，[铁手叶娃](Yeva.md "Yeva")和剩余的焰拳成员试图破门而入，拯救[雷文伽德公爵](Ulder_Ravengard.md "Ulder Ravengard")。然而，成功进入旅馆后发现公爵已不见踪影，最终可能救出[顾问弗洛瑞克](Counsellor_Florrick.md "Counsellor Florrick")，她透露公爵已被俘并被带到[月出之塔](Moonrise_Towers.md "Moonrise_Towers")。弗洛瑞克随后请求队伍营救公爵，开启了[营救高公爵](Rescue_the_Grand_Duke.md "Rescue the Grand Duke")任务。在未进行任何营救的情况下离开渥金的休眠地，将导致顾问弗洛瑞克死亡，以及当地焰拳成员提前撤离。
+焰拳最初在[渥金的休眠地](Waukeen's_Rest.md "Waukeen's Rest")遭遇，当时[至上真神](Absolute.md "至上真神")的[卓尔](Drow.md "Drow")和[地精](Goblins.md "Goblins")发动了一次袭击。旅馆着火后，[铁手叶娃](Yeva.md "Yeva")和剩余的焰拳成员试图破门而入，拯救[雷文伽德公爵](Ulder_Ravengard.md "Ulder Ravengard")。然而，成功进入旅馆后发现公爵已不见踪影，最终可能救出[顾问弗洛瑞克](Counsellor_Florrick.md "Counsellor Florrick")，她透露公爵已被俘并被带到[月出之塔](Moonrise_Towers.md "Moonrise_Towers")。弗洛瑞克随后请求队伍营救公爵，开启了[营救高公爵](Rescue_the_Grand_Duke.md "Rescue the Grand Duke")任务。在未进行任何营救的情况下离开渥金的休眠地，将导致顾问弗洛瑞克死亡，以及当地焰拳成员提前撤离。
 
 第二组焰拳佣兵可以在[山隘](Mountain_Pass.md "Mountain_Pass")遭遇。由[铁手迪恩](Dion.md "Dion")率领的一队焰拳试图解除由[萨斯十夫长巴瑞萨](Sarth_Baretha.md "Sarth Baretha")率领的[吉斯洋基人](Githyanki.md "Githyanki")巡逻队的武装，但未成功，随后遭到[凯斯拉克百夫长沃斯](Kith'rak_Voss.md "Kith'rak Voss")的[龙](Dragon.md "Dragon")攻击并烧毁。
 
@@ -54,7 +54,7 @@
 
 在楼上，根据他是否干预了队伍的防御并保持友好，马库斯会在[伊索贝尔](Isobel.md "Isobel")的房间等待队伍，并向队伍透露他奉[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")之命绑架伊索贝尔——队伍可以选择帮助或挫败这一阴谋。攻击马库斯或与伊索贝尔互动将触发[解决绑架问题](Resolve_the_Abduction.md "Resolve the Abduction")战斗，最终以马库斯的死亡或终焉光芒旅店及其焰拳成员的彻底覆灭告终。
 
-如果[暗夜之歌](Aylin.md "Aylin")被释放并前往月出之塔，焰拳将参与对月出之塔的进攻。在队伍抵达之前，竖琴手和焰拳已经清除了绝对者的大部分力量，但代价是在战斗中几乎损失了所有成员。剩余的焰拳成员将在随后的战斗中协助队伍和竖琴手，作为近战[战士](Fighter.md "Fighter")。如果在主厅的初始战斗后仍有焰拳成员存活，他们将前往[月出之塔监狱](Moonrise_Towers_Prison.md "Moonrise Towers Prison")，在一场额外战斗中对抗[灵魂侍女](Mistress_of_Souls.md "Mistress of Souls")及其[死灵侍僧](Necromite.md "Necromite")。
+如果[暗夜之歌](Aylin.md "Aylin")被释放并前往月出之塔，焰拳将参与对月出之塔的进攻。在队伍抵达之前，竖琴手和焰拳已经清除了至上真神的大部分力量，但代价是在战斗中几乎损失了所有成员。剩余的焰拳成员将在随后的战斗中协助队伍和竖琴手，作为近战[战士](Fighter.md "Fighter")。如果在主厅的初始战斗后仍有焰拳成员存活，他们将前往[月出之塔监狱](Moonrise_Towers_Prison.md "Moonrise Towers Prison")，在一场额外战斗中对抗[灵魂侍女](Mistress_of_Souls.md "Mistress of Souls")及其[死灵侍僧](Necromite.md "Necromite")。
 
 ### 第三幕
 
@@ -68,13 +68,13 @@
 
 — [铁手埃德温娜](Edwynna.md "Edwynna")于[焰拳新兵手册](Flaming_Fist_New_Recruit_Booklet.md "Flaming Fist New Recruit Booklet")
 
-尽管在前两幕中实际上是队伍的盟友，焰拳在[第三幕](Act_Three.md "Act Three")中更多扮演中立或有时是敌对的角色。在那里，由于[钢铁卫士](Steel_Watcher.md "Steel Watcher")的增援以及作为博德之门的警察和军事力量，可以在整个地区看到他们作为固定哨兵或移动巡逻队。还可以看到他们已经在[利文顿](Rivington.md "Rivington")外抵抗了绝对者部队的几次袭击。
+尽管在前两幕中实际上是队伍的盟友，焰拳在[第三幕](Act_Three.md "Act Three")中更多扮演中立或有时是敌对的角色。在那里，由于[钢铁卫士](Steel_Watcher.md "Steel Watcher")的增援以及作为博德之门的警察和军事力量，可以在整个地区看到他们作为固定哨兵或移动巡逻队。还可以看到他们已经在[利文顿](Rivington.md "Rivington")外抵抗了至上真神部队的几次袭击。
 
 在[南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint")，由[铁手埃德温娜](Edwynna.md "Edwynna")指挥的焰拳驻军和[钢铁卫士](Steel_Watcher.md "Steel Watcher")阻止队伍和难民进入[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")，迫使队伍要么潜入，要么向钢铁卫士投降，要么攻击焰拳。如果从月出之塔拯救了[铁手侏儒](Clan_Ironhand.md "Clan Ironhand")，他们将制造干扰并使钢铁卫士瘫痪，为队伍提供通过的机会。然而，当检查点被越过时，[精卫法尔考](Falc%C3%A4o.md "Falcäo")试图雇佣队伍杀死铁手侏儒并带回[乌尔布伦·邦格力](Wulbren_Bongle.md "Wulbren Bongle")的头颅。
 
 在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "Wyrm's Rock Fortress")前，[烈焰艾琳](Elin.md "Elin")禁止任何人在[戈塔什](Gortash.md "Gortash")加冕期间进入要塞。可以通过各种[欺瞒](Deception.md "Deception")检定、[游说](Persuasion.md "Persuasion")检定和20,000[金币](Gold.md "Gold")、使用从[瓦莱里亚](Valeria.md "Valeria")或[夏芮丝的爱抚](Sharess'_Caress.md "Sharess' Caress")获得的[下城区通行证](Lower_City_Pass.md "Lower City Pass")、使用[雷文伽德公爵紧急报告](Urgent_Report_for_Duke_Ravengard.md "Urgent Report for Duke Ravengard")来说服她，或者通过要塞下方或使用[飞行](Fly.md "Fly")动作完全避开。
 
-飞龙岩要塞是焰拳的总部和兵营，一些最高级别的拳士和军需官[阿克莱娅·奥洛瑞尔](Arkleia_Oloril.md "Arkleia Oloril")位于要塞内。焰拳元帅乌尔布伦·雷文伽德将在戈塔什加冕期间在场，尽管他脑中有蝌蚪，并且对自己作为棋子的身份浑然不觉；被囚禁的弗洛瑞克在[飞龙岩监狱](Wyrm's_Rock_Prison.md "Wyrm's Rock Prison")，要塞内散落的各种笔记和信息显示，焰拳正在被改造成一支无法承受绝对者进攻的力量，而焰拳对戈塔什作为[灾祸](Bane_(God)的选民身份一无所知.md)。因此，参与戈塔什的加冕仪式并攻击他将导致要塞内所有焰拳成员变为敌对。
+飞龙岩要塞是焰拳的总部和兵营，一些最高级别的拳士和军需官[阿克莱娅·奥洛瑞尔](Arkleia_Oloril.md "Arkleia Oloril")位于要塞内。焰拳元帅乌尔布伦·雷文伽德将在戈塔什加冕期间在场，尽管他脑中有蝌蚪，并且对自己作为棋子的身份浑然不觉；被囚禁的弗洛瑞克在[飞龙岩监狱](Wyrm's_Rock_Prison.md "Wyrm's Rock Prison")，要塞内散落的各种笔记和信息显示，焰拳正在被改造成一支无法承受至上真神进攻的力量，而焰拳对戈塔什作为[灾祸](Bane_(God)的选民身份一无所知.md)。因此，参与戈塔什的加冕仪式并攻击他将导致要塞内所有焰拳成员变为敌对。
 
 在博德之门市区，[洛拉·贝尔高兹](Lora_Bergauz.md "Lora Bergauz")试图让[烈焰莉亚拉·波提尔](Liara_Portyr.md "Liara Portyr")调查她失踪的女儿[万娜](Vanra.md "Vanra")的下落，但无果——允许队伍介入并接管搜索以[解救万娜](Save_Vanra.md "Save Vanra")。在[精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")，警官兼[铁手德维拉·方坦黑德](Devella_Fountainhead.md "Devella Fountainhead")可以在调查[公爵斯特尔曼](Belynne_Stelmane.md "Belynne Stelmane")谋杀案时遇到，如果之前未触发，则开启[调查谋杀案](Investigate_the_Murders.md "Investigate the Murders")任务，或者在[邪念](Dark_Urge.md "Dark Urge")出身下以德维拉本人可能被谋杀告终。协助德维拉则会与她合作追捕凶手[多洛](Dolor.md "Dolor")。
 

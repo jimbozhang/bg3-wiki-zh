@@ -544,7 +544,7 @@ _在从[钢铁王座](../Iron_Throne.md "钢铁王座")救出[奥梅鲁姆](../O
 **[下城区下水道](../Lower_City_Sewers.md "下城区下水道")"
 
   - _与[洛娜·埃斯萨连](../Lorna_Esthelian.md "洛娜·埃斯萨连")交谈，_ 告诉她她的男朋友最终会出现 (-1)
-- _在[废弃蓄水池](../Abandoned_Cistern.md "废弃蓄水池")，_ 当[夺心魔主脑](../Emperor.md "主脑")拒绝从[绝对者](../Absolute.md "绝对者")手中拯救[明斯克](../Minsc.md "明斯克")时表示同意 (-1)
+- _在[废弃蓄水池](../Abandoned_Cistern.md "废弃蓄水池")，_ 当[夺心魔主脑](../Emperor.md "主脑")拒绝从[至上真神](../Absolute.md "至上真神")手中拯救[明斯克](../Minsc.md "明斯克")时表示同意 (-1)
 - _在[公会大厅](../Guildhall.md "公会大厅")，_ 当面对[罗阿·月光](../Roah_Moonglow.md "罗阿·月光")或[弗里奥尔](../Friol.md "弗里奥尔")时，选择支持[散塔林会](../Zhentarim.md "散塔林会") (-1)
 
 **[巫术杂物店](../Sorcerous_Sundries.md "巫术杂物店")"

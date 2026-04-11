@@ -45,7 +45,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
 
-**阿瑟斯**是[第二幕](Act_Two.md "第二幕")中一位粗鲁的[半高精灵](High_Half-Elf.md "半高精灵")[野蛮人](Barbarian.md "野蛮人")和[哈尔珀](Harper.md "哈尔珀")。他受信任持有[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")，当队伍将来自[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")的难民送到[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")码头时，他会打断队伍，检查他们是否有[绝对邪教感染](Cult_of_the_Absolute.md "绝对邪教")的迹象。
+**阿瑟斯**是[第二幕](Act_Two.md "第二幕")中一位粗鲁的[半高精灵](High_Half-Elf.md "半高精灵")[野蛮人](Barbarian.md "野蛮人")和[哈尔珀](Harper.md "哈尔珀")。他受信任持有[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")，当队伍将来自[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")的难民送到[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")码头时，他会打断队伍，检查他们是否有[至上真神教团感染](Cult_of_the_Absolute.md "至上真神教团")的迹象。
 
 > “
 >

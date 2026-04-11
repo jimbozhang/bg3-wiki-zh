@@ -79,7 +79,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 ### 解救德鲁伊哈尔辛
 
-与[翠绿林地](Emerald_Grove.md "Emerald Grove")中的主要角色之一（例如[拉斯](Rath.md "Rath")或[赛夫洛](Zevlor.md "Zevlor")）交谈会揭示，林地的首席德鲁伊哈尔辛或许能治愈队伍，但他失踪了。这会开始[解救德鲁伊哈尔辛](Rescue_the_Druid_Halsin.md "Rescue the Druid Halsin")以及[解救首席德鲁伊](Save_the_First_Druid.md "Save the First Druid")。哈尔辛在[艾拉丁](Aradin_Beno.md "Aradin Beno")领导的一次失败的远征后被地精绑架，可以在地精营地的[座狼兽栏](Worg_Pens.md "Worg Pens")找到他，他当时[荒野形态](Wild_Shape.md "Wild Shape")为一只[洞熊](Cave_Bear.md "Cave Bear")。一群地精小孩正在向他扔石头。队伍可以干预，这会导致一场战斗。之后，可以与哈尔辛交谈，他解释了他所知道的关于蝌蚪的事：他没有能力治愈它们，但他对它们进行了广泛的研究，知道它们与[绝对](The_Absolute.md "The Absolute")的邪教有关。他一直在追踪该邪教的动向，并知道他们正前往[月出之塔](Moonrise_Towers.md "Moonrise Towers")，他建议队伍的下一个目的地就是那里。
+与[翠绿林地](Emerald_Grove.md "Emerald Grove")中的主要角色之一（例如[拉斯](Rath.md "Rath")或[赛夫洛](Zevlor.md "Zevlor")）交谈会揭示，林地的首席德鲁伊哈尔辛或许能治愈队伍，但他失踪了。这会开始[解救德鲁伊哈尔辛](Rescue_the_Druid_Halsin.md "Rescue the Druid Halsin")以及[解救首席德鲁伊](Save_the_First_Druid.md "Save the First Druid")。哈尔辛在[艾拉丁](Aradin_Beno.md "Aradin Beno")领导的一次失败的远征后被地精绑架，可以在地精营地的[座狼兽栏](Worg_Pens.md "Worg Pens")找到他，他当时[荒野形态](Wild_Shape.md "Wild Shape")为一只[洞熊](Cave_Bear.md "Cave Bear")。一群地精小孩正在向他扔石头。队伍可以干预，这会导致一场战斗。之后，可以与哈尔辛交谈，他解释了他所知道的关于蝌蚪的事：他没有能力治愈它们，但他对它们进行了广泛的研究，知道它们与[至上真神](The_Absolute.md "至上真神")的邪教有关。他一直在追踪该邪教的动向，并知道他们正前往[月出之塔](Moonrise_Towers.md "Moonrise Towers")，他建议队伍的下一个目的地就是那里。
 
 如果队伍完成[击败地精](Defeat_the_Goblins.md "Defeat the Goblins")并站在德鲁伊和提夫林一边对抗地精，哈尔辛会主动加入队伍，一同前往月出之塔。
 
@@ -97,7 +97,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 ### 月出之塔及之后
 
-队伍最终必须前往月出之塔——要么通过[穿越幽暗地域](Travel_through_the_Underdark.md "Travel through the Underdark")，要么通过[穿越山隘](Travel_through_the_Mountain_Pass.md "Travel through the Mountain Pass")，以了解更多关于[绝对邪教](Cult_of_the_Absolute.md "Cult of the Absolute")的信息，希望能治愈蝌蚪。这导致了一个结论：为了有任何希望摧毁蝌蚪，必须击败邪教——不仅是为了队伍，也是为了所有感染者。
+队伍最终必须前往月出之塔——要么通过[穿越幽暗地域](Travel_through_the_Underdark.md "Travel through the Underdark")，要么通过[穿越山隘](Travel_through_the_Mountain_Pass.md "Travel through the Mountain Pass")，以了解更多关于[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")的信息，希望能治愈蝌蚪。这导致了一个结论：为了有任何希望摧毁蝌蚪，必须击败邪教——不仅是为了队伍，也是为了所有感染者。
 
 ## 相关任务
 

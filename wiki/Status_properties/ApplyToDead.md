@@ -135,12 +135,12 @@
 [她的声音：万物终结](../Her_Voice_colon__the_End_of_All_(Condition).md "她的声音：万物终结 (状态)")
 |
 
-- 受影响实体的大脑正受绝对者的意志折磨。其智力、感知和魅力 [属性](../Ability_Scores.md "属性值") 降低 4，并在其回合结束时承受 1d6 [心灵](../Psychic.md "心灵") 伤害。
+- 受影响实体的大脑正受至上真神的意志折磨。其智力、感知和魅力 [属性](../Ability_Scores.md "属性值") 降低 4，并在其回合结束时承受 1d6 [心灵](../Psychic.md "心灵") 伤害。
 
 [她的声音：转化](../Her_Voice_colon__Transforming_(Condition).md "她的声音：转化 (状态)")
 |
 
-- 受影响实体的大脑正受绝对者的意志折磨。其智力、感知和魅力 [属性](../Ability_Scores.md "属性值") 降低 2，并在其回合结束时承受 1d6 [心灵](../Psychic.md "心灵") 伤害。
+- 受影响实体的大脑正受至上真神的意志折磨。其智力、感知和魅力 [属性](../Ability_Scores.md "属性值") 降低 2，并在其回合结束时承受 1d6 [心灵](../Psychic.md "心灵") 伤害。
 
 [魔能诅咒](../Hexblade's_Curse_(Condition).md "魔能诅咒 (状态)")
 |

@@ -1,6 +1,6 @@
 # 战场报告
 
-**战场报告**记录了[钢铁卫士](Steel_Watcher.md "Steel Watcher")与[绝对](Absolute.md "Absolute")之间的战争状态。
+**战场报告**记录了[钢铁卫士](Steel_Watcher.md "Steel Watcher")与[至上真神](Absolute.md "至上真神")之间的战争状态。
 
 此书散发着纸张与墨水的诱人气息。
 

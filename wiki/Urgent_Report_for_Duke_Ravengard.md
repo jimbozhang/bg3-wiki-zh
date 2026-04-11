@@ -28,7 +28,7 @@
 
 雷文伽德公爵亲启
 
-在从[月出之塔](Moonrise_Towers.md "月出之塔")向西进军后，[绝对](Absolute.md "绝对")的军队占领了安加·弗莱德，随后兵分两路。其中一路主要由[熊地精](Bugbear.md "熊地精")、[人类](Human.md "人类")佣兵和强盗组成，停留在[奇昂萨河](Chionthar.md "奇昂萨河")以北，并沿着[斯库达斯克公路](https://forgottenrealms.fandom.com/wiki/Skuldask_Road)向西行进，威胁着[坦帕斯之泪](https://forgottenrealms.fandom.com/wiki/Tempus%27s_Tears)，当你读到这封信时，它可能已经陷落。
+在从[月出之塔](Moonrise_Towers.md "月出之塔")向西进军后，[至上真神](Absolute.md "至上真神")的军队占领了安加·弗莱德，随后兵分两路。其中一路主要由[熊地精](Bugbear.md "熊地精")、[人类](Human.md "人类")佣兵和强盗组成，停留在[奇昂萨河](Chionthar.md "奇昂萨河")以北，并沿着[斯库达斯克公路](https://forgottenrealms.fandom.com/wiki/Skuldask_Road)向西行进，威胁着[坦帕斯之泪](https://forgottenrealms.fandom.com/wiki/Tempus%27s_Tears)，当你读到这封信时，它可能已经陷落。
 
 第二路军队主要由七部族的[地精](Goblin.md "地精")组成，并得到[大地精](Hobgoblin.md "大地精")的增援，已渡河至南岸，正向西越过[日出尖塔](https://forgottenrealms.fandom.com/wiki/Sunrise_Spire)，最终威胁[利文顿](Rivington.md "利文顿")和[飞龙关](Wyrm's_Crossing.md "飞龙关")。
 

@@ -20,7 +20,7 @@
 
 ## 内容
 
-[晨曦之主](Lathander.md "Lathander") 你从来没有在任何东西上升起过 你就是个他妈的骗子 跟所有[神](Deities.md "Deities")一样 肮脏愚蠢的畜生 你们全是发情的猪 发情的猪 咿咿咿 你们在[大绝对者](Absolute.md "Absolute")面前啥也不是 它太美了 它会像对最廉价的婊子一样操翻你们
+[晨曦之主](Lathander.md "Lathander") 你从来没有在任何东西上升起过 你就是个他妈的骗子 跟所有[神](Deities.md "Deities")一样 肮脏愚蠢的畜生 你们全是发情的猪 发情的猪 咿咿咿 你们在[至上真神](Absolute.md "Absolute")面前啥也不是 它太美了 它会像对最廉价的婊子一样操翻你们
 
 ---
 *Source: [Pilgrim's Curse](https://bg3.wiki/wiki/Pilgrim's_Curse)*

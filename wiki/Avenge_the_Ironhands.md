@@ -71,7 +71,7 @@
 
 如果乌尔布伦在[解救乌尔布伦](Rescue_Wulbren.md "Rescue Wulbren")中被救出，他会在[击败凯瑟里克·索姆](Defeat_Ketheric_Thorm.md "Defeat Ketheric Thorm")完成后出现在[月出之塔](Moonrise_Towers.md "Moonrise Towers")。在这里，可以与他交谈，他提到对博德之门城市的宏伟计划。这会将任务添加到任务日志中，但任务的大部分内容直到[第三幕](Act_Three.md "Act Three")开始才会进行。
 
-当队伍接近检查站并回答[焰拳](Flaming_Fist.md "Flaming Fist")的问题，让[钢铁卫士](Steel_Watcher.md "Steel Watcher")扫描他们时，会遇到侏儒。当队伍即将被作为[绝对](Absolute.md "Absolute")的敌人逮捕时，一些地底侏儒出现并使用闪光手雷使钢铁卫士失效。检查站的焰拳会追赶，侏儒们则跑向东方某处。
+当队伍接近检查站并回答[焰拳](Flaming_Fist.md "Flaming Fist")的问题，让[钢铁卫士](Steel_Watcher.md "Steel Watcher")扫描他们时，会遇到侏儒。当队伍即将被作为[至上真神](Absolute.md "至上真神")的敌人逮捕时，一些地底侏儒出现并使用闪光手雷使钢铁卫士失效。检查站的焰拳会追赶，侏儒们则跑向东方某处。
 
 侏儒洞穴位置。
 

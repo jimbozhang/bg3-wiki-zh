@@ -92,7 +92,7 @@
 
 #### 进攻月出之塔
 
-如果伊索贝尔在终焉光芒旅店被拯救，且[暗夜之歌](Aylin.md "Aylin")已从笼中被释放并前往[月出之塔](Moonrise_Towers.md "Moonrise Towers")，奈萨将跟随贾希拉参与对月出之塔的进攻。在那里，她与竖琴手[安东尼](Antony.md "Antony")、[埃修斯](Essius.md "Essius")和[林恩](Lymn.md "Lymn")一起在第一次进攻中幸存，并协助队伍对抗[绝对](Absolute.md "Absolute")势力的剩余战斗。
+如果伊索贝尔在终焉光芒旅店被拯救，且[暗夜之歌](Aylin.md "Aylin")已从笼中被释放并前往[月出之塔](Moonrise_Towers.md "Moonrise Towers")，奈萨将跟随贾希拉参与对月出之塔的进攻。在那里，她与竖琴手[安东尼](Antony.md "Antony")、[埃修斯](Essius.md "Essius")和[林恩](Lymn.md "Lymn")一起在第一次进攻中幸存，并协助队伍对抗[至上真神](Absolute.md "至上真神")势力的剩余战斗。
 
 主战斗结束后，如果她幸存，她将与剩余的[竖琴手同盟](Harpers.md "Harpers")一起守卫月出之塔的一楼。
 

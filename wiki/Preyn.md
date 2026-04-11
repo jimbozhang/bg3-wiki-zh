@@ -39,7 +39,7 @@
 - [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-**卫士普雷恩**是[第三幕](Act_Three.md "Act Three")中[上城区](Upper_City.md "Upper City")[卫士](City_Watch.md "City Watch")的一员。在[至高大殿](High_Hall.md "High Hall")的庭院被[绝对](Absolute.md "Absolute")势力占领后，他试图逃离。
+**卫士普雷恩**是[第三幕](Act_Three.md "Act Three")中[上城区](Upper_City.md "Upper City")[卫士](City_Watch.md "City Watch")的一员。在[至高大殿](High_Hall.md "High Hall")的庭院被[至上真神](Absolute.md "至上真神")势力占领后，他试图逃离。
 
 ## 目录
 
@@ -51,7 +51,7 @@
 
 ## 参与情况
 
-在至高大殿的初始战斗中，一支来自[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")的大量绝对教派信徒摧毁了要塞，并将城市卫士击溃，迫使卫士残部逃离。<sup>[\[1\]](#cite_note-1)</sup> 面对严重伤亡，卫士的最后残余由[弗莱](Fry.md "Fry")、[埃伯](Ebber.md "Ebber")、[古奇](Goodge.md "Goodge")、[乔迪](Gyordi.md "Gyordi")、[马修](Matthew.md "Matthew")和普雷恩组成。当卫士们试图逃离至高大殿时，一只[夺心魔](Mind_flayer.md "Mind Flayer")用[心灵震爆](Mind_Blast.md "Mind Blast")消灭了马修和普雷恩，随后与队伍遭遇。
+在至高大殿的初始战斗中，一支来自[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")的大量至上真神教信徒摧毁了要塞，并将城市卫士击溃，迫使卫士残部逃离。<sup>[\[1\]](#cite_note-1)</sup> 面对严重伤亡，卫士的最后残余由[弗莱](Fry.md "Fry")、[埃伯](Ebber.md "Ebber")、[古奇](Goodge.md "Goodge")、[乔迪](Gyordi.md "Gyordi")、[马修](Matthew.md "Matthew")和普雷恩组成。当卫士们试图逃离至高大殿时，一只[夺心魔](Mind_flayer.md "Mind Flayer")用[心灵震爆](Mind_Blast.md "Mind Blast")消灭了马修和普雷恩，随后与队伍遭遇。
 
 ## 战斗
 

@@ -40,7 +40,7 @@
 - [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-**守望者卫士**是在[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间可召唤的盟友，他们运用巨武器大师的技艺保护城市免受[绝对真理教派势力](Absolute.md "Absolute")的入侵。
+**守望者卫士**是在[与主脑对峙](Confront_the_Elder_Brain.md "Confront the Elder Brain")期间可召唤的盟友，他们运用巨武器大师的技艺保护城市免受[至上真神势力](Absolute.md "Absolute")的入侵。
 
 > “
 >
@@ -65,7 +65,7 @@
 
 ### 第三幕
 
-在[至高大殿](High_Hall.md "High Hall")的初始战斗中，一支从[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")潜入的大量[绝对真理教派信徒](Absolute.md "Absolute")摧毁并击溃了[城市卫士](City_Watch.md "City Watch")，迫使其残部逃离。面对惨重的伤亡，可用于夺回至高大殿的剩余城市卫士力量，是以[瓦莱里亚](Valeria.md "瓦莱里亚")的命令下的一小队守望者卫士，以及一群试图逃离至高大殿庭院的[守望者乔迪](Watchman_Gyordi.md "守望者乔迪")。<sup>[\[1\]](#cite_note-1)</sup>
+在[至高大殿](High_Hall.md "High Hall")的初始战斗中，一支从[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")潜入的大量[至上真神教信徒](Absolute.md "Absolute")摧毁并击溃了[城市卫士](City_Watch.md "City Watch")，迫使其残部逃离。面对惨重的伤亡，可用于夺回至高大殿的剩余城市卫士力量，是以[瓦莱里亚](Valeria.md "瓦莱里亚")的命令下的一小队守望者卫士，以及一群试图逃离至高大殿庭院的[守望者乔迪](Watchman_Gyordi.md "守望者乔迪")。<sup>[\[1\]](#cite_note-1)</sup>
 
 如果瓦莱里亚已被拯救并作为盟友参与最终战斗，可以使用[召集盟友](Gather_Your_Allies_(class_action).md "Gather Your Allies (class action)")的变体[卫士](The_Watch.md "The Watch")来召唤这些守望者卫士。召唤一名男性[半兽人](Half-Orc.md "Half-orc")、一名女性[提夫林](Tiefling.md "Tiefling")和一名女性[黄金矮人](Gold_Dwarf.md "Gold dwarf")在队伍身边战斗。
 

@@ -26,7 +26,7 @@
 
 ### 第三幕
 
-佐格可以在[终末马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days")和[利文顿综合商店](Rivington_General.md "Rivington General")之间找到，他正在与他的冒险队伍[奎纳拉](Quinara.md "Quinara")、[萨拉芬](Sarafin.md "Sarafin")和[约克斯](Yonks.md "Yonks")讨论是留下还是离开。萨拉芬想留下来过夜，因为床很舒服，然而佐格提醒她[绝对](Absolute.md "Absolute")正在前往[博德之门](Baldur's_Gate.md "Baldur's Gate")，并告诫队伍离开。
+佐格可以在[终末马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days")和[利文顿综合商店](Rivington_General.md "Rivington General")之间找到，他正在与他的冒险队伍[奎纳拉](Quinara.md "Quinara")、[萨拉芬](Sarafin.md "Sarafin")和[约克斯](Yonks.md "Yonks")讨论是留下还是离开。萨拉芬想留下来过夜，因为床很舒服，然而佐格提醒她[至上真神](Absolute.md "至上真神")正在前往[博德之门](Baldur's_Gate.md "Baldur's Gate")，并告诫队伍离开。
 
 ## 闲聊
 
@@ -49,7 +49,7 @@
   急什么，佐格？我们不能在这里待一会儿吗？
 
 - 佐格
-  绝对的军队正在路上？没门。
+  至上真神的军队正在路上？没门。
 
 - 萨拉芬
   待一晚有什么害处？想想看——真正的床。_枕头。_

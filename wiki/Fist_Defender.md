@@ -91,7 +91,7 @@
 
 ### 第三幕
 
-焰拳防御者可以在[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")期间召唤。他们使用盾牌和阵型战术保护[博德之门](Baldur's_Gate.md "博德之门")免受[绝对主义](Absolute.md "绝对主义")的入侵。
+焰拳防御者可以在[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")期间召唤。他们使用盾牌和阵型战术保护[博德之门](Baldur's_Gate.md "博德之门")免受[至上真神](Absolute.md "至上真神")的入侵。
 
 使用[召集盟友](Gather_Your_Allies_(class_action).md "召集盟友 (职业动作)")变体可以召唤一名焰拳防御者。或者，如果在[释放顾问弗洛瑞克](Free_Counsellor_Florrick.md "释放顾问弗洛瑞克")中救出了[弗洛瑞克](Florrick.md "弗洛瑞克")，则可以使用[弗洛瑞克的支持者](Florrick's_Cohort.md "弗洛瑞克的支持者")来召唤一名黄金矮人和两名[焰拳攻击手](Fist_Attacker.md "焰拳攻击手")作为盟友。
 

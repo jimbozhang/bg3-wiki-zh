@@ -1,6 +1,6 @@
 # 三塔山丘的兽人
 
-**三塔山丘的兽人**是[泽'瑞尔](Z'rell.md "泽'瑞尔")下达的命令，内容关于如何强迫兽人加入[绝对](Absolute.md "绝对")。
+**三塔山丘的兽人**是[泽'瑞尔](Z'rell.md "泽'瑞尔")下达的命令，内容关于如何强迫兽人加入[至上真神](Absolute.md "至上真神")。
 
 这本书散发着纸张和墨水的诱人气息。
 
@@ -26,7 +26,7 @@
 
 派遣使者进行谈判被视为软弱的表现，因此我们必须在下一次尝试中采取支配性的态度。我们之中最了解兽人习俗的真魂者无疑是来自[斯科努贝尔](https://forgottenrealms.fandom.com/wiki/Scornubel)的[亚克斯爵士](https://forgottenrealms.fandom.com/wiki/Sir_Yax)——他将被派遣，并由一对食人魔支援，以 Mhoss 被肢解为借口，向赫拉德勋爵发出直接的个人挑战。
 
-亚克斯将击败赫拉德，并强迫他宣誓效忠于[绝对](Absolute.md "绝对")，作为回报，我们将支持赫拉德征服并结盟另外两个三塔部落。请在亚克斯爵士从[尖牙林](https://forgottenrealms.fandom.com/wiki/Wood_of_Sharp_Teeth)返回后立即通知他。
+亚克斯将击败赫拉德，并强迫他宣誓效忠于[至上真神](Absolute.md "至上真神")，作为回报，我们将支持赫拉德征服并结盟另外两个三塔部落。请在亚克斯爵士从[尖牙林](https://forgottenrealms.fandom.com/wiki/Wood_of_Sharp_Teeth)返回后立即通知他。
 
 \- 门徒泽'瑞尔，代表[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")将军
 

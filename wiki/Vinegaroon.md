@@ -31,7 +31,7 @@
 
 最近，醋蜘蛛试图研究钢铁卫士的光学系统。为此，他爬到了其中一个钢铁卫士身上，结果被弹飞了出去。他和他的同伴们将此视为对这项发明感到欣喜的又一个理由。
 
-如果[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")被摧毁，这三位爱好者的闲聊内容会发生变化：他们现在因此感到悲伤，并指责（绝对之神的）邪教所为。
+如果[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")被摧毁，这三位爱好者的闲聊内容会发生变化：他们现在因此感到悲伤，并指责（至上真神的）邪教所为。
 
 ---
 *Source: [Vinegaroon](https://bg3.wiki/wiki/Vinegaroon)*

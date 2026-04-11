@@ -42,7 +42,7 @@
 - [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-**卫兵 弗莱**是[第三幕](Act_Three.md "Act Three")中[上城区](Upper_City.md "Upper City")[卫士](City_Watch.md "City Watch")的一员。在[至高大殿](High_Hall.md "High Hall")的庭院被[绝对](Absolute.md "Absolute")的势力攻占后，他试图逃离。
+**卫兵 弗莱**是[第三幕](Act_Three.md "Act Three")中[上城区](Upper_City.md "Upper City")[卫士](City_Watch.md "City Watch")的一员。在[至高大殿](High_Hall.md "High Hall")的庭院被[至上真神](Absolute.md "至上真神")的势力攻占后，他试图逃离。
 
 > “
 >
@@ -63,7 +63,7 @@
 
 ## 参与
 
-在争夺至高大殿的初始战斗中，一支来自[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")的庞大绝对教派信徒部队摧毁了要塞，并将城市卫士击溃，迫使卫士的残余部队逃离。<sup>[\[1\]](#cite_note-1)</sup> 面对惨重的伤亡，卫士的最后残余由弗莱、[埃伯](Ebber.md "Ebber")、[古奇](Goodge.md "Goodge")、[乔迪](Gyordi.md "Gyordi")、[马修](Matthew.md "Matthew")和[普雷恩](Preyn.md "Preyn")组成。当卫兵试图逃离至高大殿时，一只[夺心魔](Mind_flayer.md "Mind Flayer")消灭了马修和普雷恩，随后与队伍遭遇。
+在争夺至高大殿的初始战斗中，一支来自[上城区下水道](Upper_City_Sewers.md "Upper City Sewers")的庞大至上真神教信徒部队摧毁了要塞，并将城市卫士击溃，迫使卫士的残余部队逃离。<sup>[\[1\]](#cite_note-1)</sup> 面对惨重的伤亡，卫士的最后残余由弗莱、[埃伯](Ebber.md "Ebber")、[古奇](Goodge.md "Goodge")、[乔迪](Gyordi.md "Gyordi")、[马修](Matthew.md "Matthew")和[普雷恩](Preyn.md "Preyn")组成。当卫兵试图逃离至高大殿时，一只[夺心魔](Mind_flayer.md "Mind Flayer")消灭了马修和普雷恩，随后与队伍遭遇。
 
 如果队伍中存在夺心魔（无论是玩家角色、[卡菈克](Karlach.md "Karlach")、[君主](The_Emperor.md "The Emperor")还是[俄耳甫斯](Orpheus.md "Orpheus")），弗莱和乔迪带领的剩余卫兵会对队伍感到[恐慌](Frightened.md "Frightened")。通过被动DC 20的[洞悉](Insight.md "Insight")[属性检定](Ability_Check.md "属性检定")，可以选择让剩余的卫兵在队伍一侧战斗。夺心魔玩家角色可以通过DC 18的[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")或[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")说服他们作为盟友参与随后的战斗。非夺心魔必须通过DC 20的[游说](Persuasion.md "Persuasion")、[威吓](Intimidation.md "Intimidation")、[欺瞒](Deception.md "Deception")或[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")来说服他们。
 

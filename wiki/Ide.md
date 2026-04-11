@@ -87,7 +87,7 @@
 
 ### 第二幕
 
-如果艾德存活到[第二幕](Act_Two.md "Act Two")，可以在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")内找到她。如果[卡尔](Cal.md "Cal")、[莉娅](Lia.md "Lia")和[罗兰](Rolan.md "Rolan")被说服留在林地，艾德会在吧台工作，她告诉队伍罗兰在一次伏击中保护了孩子们。罗兰留在吧台，因卡尔和莉娅被[绝对](Absolute.md "Absolute")势力俘虏而绝望地借酒消愁。孩子们试图限制罗兰的饮酒，但无济于事。
+如果艾德存活到[第二幕](Act_Two.md "Act Two")，可以在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")内找到她。如果[卡尔](Cal.md "Cal")、[莉娅](Lia.md "Lia")和[罗兰](Rolan.md "Rolan")被说服留在林地，艾德会在吧台工作，她告诉队伍罗兰在一次伏击中保护了孩子们。罗兰留在吧台，因卡尔和莉娅被[至上真神](Absolute.md "至上真神")势力俘虏而绝望地借酒消愁。孩子们试图限制罗兰的饮酒，但无济于事。
 
 如果被询问，艾德透露她拥有[流浪者之道](The_Way_of_the_Wanderer.md "The Way of the Wanderer")，她本想把它送给罗兰让他振作起来。队伍可以使用[游说](Persuasion.md "Persuasion")或[欺瞒](Deception.md "Deception")来为自己拿走这本书。
 

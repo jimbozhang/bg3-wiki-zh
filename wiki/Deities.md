@@ -168,7 +168,7 @@
 
 除了对世界命运的有序记录漠不关心外，杰加尔被称为最终书记官，他保存着所有死者最终命运的记录。
 
-暗示[守墓人](Withers.md "Withers")是[杰加尔](Jergal.md "Jergal")，他被[海姆](#helm)恳求帮助队伍对抗[绝对者](The_Absolute.md "The Absolute")。
+暗示[守墓人](Withers.md "Withers")是[杰加尔](Jergal.md "Jergal")，他被[海姆](#helm)恳求帮助队伍对抗[至上真神](The_Absolute.md "The Absolute")。
 
 ## 凯兰沃
 
@@ -224,7 +224,7 @@
 
 ⁠[玛格鲁比耶](https://forgottenrealms.fandom.com/wiki/Maglubiyet)是地精之神，守序邪恶。相关领域：秩序、[战争领域](War_Domain.md "战争领域")。
 
-在剑湾被[绝对者教团](The_Absolute.md "The Absolute")排挤，玛格鲁比耶在游戏[第一幕](Act_One.md "Act One")中仅被两个角色提及；他们是[瓦罗](Volo.md "Volo")，他指出地精们抛弃了他们的“原始神”，以及[布拉克卡伊](Brakkal.md "Brakkal")，一个被关在[破碎圣所](Shattered_Sanctum.md "Shattered Sanctum")笼子里的唯一忠诚地精。关于他的描述很少，只知道他是“一个真正的神”。
+在剑湾被[至上真神教团](The_Absolute.md "The Absolute")排挤，玛格鲁比耶在游戏[第一幕](Act_One.md "Act One")中仅被两个角色提及；他们是[瓦罗](Volo.md "Volo")，他指出地精们抛弃了他们的“原始神”，以及[布拉克卡伊](Brakkal.md "Brakkal")，一个被关在[破碎圣所](Shattered_Sanctum.md "Shattered Sanctum")笼子里的唯一忠诚地精。关于他的描述很少，只知道他是“一个真正的神”。
 
 ## 梅莉凯
 

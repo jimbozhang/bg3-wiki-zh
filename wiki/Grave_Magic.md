@@ -1,6 +1,6 @@
 # 坟墓魔法
 
-**坟墓魔法**是[绝对真理教团](Cult_of_the_Absolute.md "绝对真理教团")的[死灵法师](Necromancer.md "死灵法师")可用的被动特性。它使他们的法术攻击额外造成1d8点[黯蚀](Necrotic.md "黯蚀")伤害。
+**坟墓魔法**是[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")的[死灵法师](Necromancer.md "死灵法师")可用的被动特性。它使他们的法术攻击额外造成1d8点[黯蚀](Necrotic.md "黯蚀")伤害。
 
 ## 描述
 

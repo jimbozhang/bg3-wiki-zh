@@ -8,7 +8,7 @@
 
 - [书籍](Books.md "书籍")
 
-- 作者：[绝对教派](Cult_of_the_Absolute.md "绝对教派")
+- 作者：[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")
 
 - 稀有度：普通
 
@@ -26,7 +26,7 @@
 
 ## 文本
 
-\[在这本关于[绝对教派](Absolute.md "绝对教派")及其带来的危险的书下方，潦草地写着对文本的回应：\] 这篇仓促写就的胡言乱语，诚然，是出于好意。其作者显然对绝对存在充满了恐惧。问题在于，他们将教派的兴起与宇宙热寂、独眼[巫妖维克那](https://forgottenrealms.fandom.com/wiki/Vecna)的复生、死灵法术的过度泛滥，甚至是一些来自[楚尔特](https://forgottenrealms.fandom.com/wiki/Chult)的进口水果的枯萎等其他事物混为一谈。这个人需要一杯水，然后躺下休息。
+\[在这本关于[至上真神教团](Absolute.md "至上真神教团")及其带来的危险的书下方，潦草地写着对文本的回应：\] 这篇仓促写就的胡言乱语，诚然，是出于好意。其作者显然对绝对存在充满了恐惧。问题在于，他们将教派的兴起与宇宙热寂、独眼[巫妖维克那](https://forgottenrealms.fandom.com/wiki/Vecna)的复生、死灵法术的过度泛滥，甚至是一些来自[楚尔特](https://forgottenrealms.fandom.com/wiki/Chult)的进口水果的枯萎等其他事物混为一谈。这个人需要一杯水，然后躺下休息。
 
 ---
 *Source: [The Absolute End](https://bg3.wiki/wiki/The_Absolute_End)*

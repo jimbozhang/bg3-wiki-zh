@@ -53,7 +53,7 @@
 
 ### 第二幕
 
-如果[伊索贝尔](Isobel.md "Isobel")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")获救，并且[暗夜之歌](Aylin.md "Aylin")从她的牢笼中被释放并前往[月出之塔](Moonrise_Towers.md "Moonrise Towers")，尼帕瓦与焰拳成员[哈登威尔](Hadenwell.md "Hadenwell")、[海伦娜](Helena.md "Helena")、[瑞德](Rhed.md "Rhed")和[乌尔雷德](Ulthred.md "Ulthred")在第一次突袭中幸存下来，并协助队伍对抗[绝对](Absolute.md "Absolute")势力的剩余战斗。与她交谈时，她会评论说他们正在杀死那些信仰伪神的邪教徒。<sup>[\[1\]](#cite_note-1)</sup>
+如果[伊索贝尔](Isobel.md "Isobel")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")获救，并且[暗夜之歌](Aylin.md "Aylin")从她的牢笼中被释放并前往[月出之塔](Moonrise_Towers.md "Moonrise Towers")，尼帕瓦与焰拳成员[哈登威尔](Hadenwell.md "Hadenwell")、[海伦娜](Helena.md "Helena")、[瑞德](Rhed.md "Rhed")和[乌尔雷德](Ulthred.md "Ulthred")在第一次突袭中幸存下来，并协助队伍对抗[至上真神](Absolute.md "至上真神")势力的剩余战斗。与她交谈时，她会评论说他们正在杀死那些信仰伪神的邪教徒。<sup>[\[1\]](#cite_note-1)</sup>
 
 战斗结束后，如果她幸存下来，她和剩余的焰拳成员会侦察[月出之塔监狱](Moonrise_Towers_Prison.md "Moonrise Towers Prison")，并与迈尔库尔信徒[达基·维利什](Duckie_Verish.md "Duckie Verish")、[萨拉贝勒](Sarabayle.md "Sarabayle")和[威林克斯·金德比](Willinx_Jindlebee.md "Willinx Jindlebee")，以及一名[死亡牧者](Death_Shepherd.md "Death Shepherd")和一群[死灵侍僧](Necromite.md "Necromite")进行第二场战斗。队伍可以在这场可选战斗中协助焰拳成员。如果焰拳成员幸存下来，他们会守卫监狱，直到[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")被击败。
 

@@ -1,6 +1,6 @@
 # 真魂者科利斯的日志
 
-**真魂者科利斯的日志**描述了一名[绝对](Absolute.md "绝对")成员的最后远征。
+**真魂者科利斯的日志**描述了一名[至上真神](Absolute.md "至上真神")成员的最后远征。
 
 这本书散发着纸张和墨水的诱人气息。
 
@@ -26,13 +26,13 @@
 
 第四天。
 
-由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")派遣的侦察任务前往[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")。目标：定位[绝对](Absolute.md "绝对")的[非信徒](Harpers.md "非信徒")巢穴。
+由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")派遣的侦察任务前往[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")。目标：定位[至上真神](Absolute.md "至上真神")的[非信徒](Harpers.md "非信徒")巢穴。
 
 到达村庄外围。令人不安的声音在阴影中回荡。必须避开追捕。
 
 准备创建一道光之屏障，以抵御潜伏的怪物和致命的[黑暗术](Darkness.md "黑暗术")。
 
-愿[绝对](Absolute.md "绝对")指引我。
+愿[至上真神](Absolute.md "至上真神")指引我。
 
 ---
 *Source: [Journal Log of True Soul Korliss](https://bg3.wiki/wiki/Journal_Log_of_True_Soul_Korliss)*

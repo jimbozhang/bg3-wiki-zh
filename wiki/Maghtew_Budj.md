@@ -13,7 +13,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 140 |
 
-**麦修·布吉**是[绝对信众](Followers_of_the_Absolute.md "Followers of the Absolute")的一员，可在[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")兵营北面的圣所中找到。
+**麦修·布吉**是[至上真神信众](Followers_of_the_Absolute.md "Followers of the Absolute")的一员，可在[夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")兵营北面的圣所中找到。
 
 ## 参与情况
 

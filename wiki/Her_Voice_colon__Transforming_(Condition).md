@@ -2,7 +2,7 @@
 
 **她的声音：转化**
 
-- 受影响实体的大脑正受绝对者意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-2减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。
+- 受影响实体的大脑正受至上真神意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-2减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。
 
 ## 属性
 
@@ -31,11 +31,11 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| [她的声音：命令术](Her_Voice_colon__Commanding_(Condition).md "她的声音：命令术 (状态)") | 受影响实体的大脑正受绝对者意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-1减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。 |
-| [她的声音：万物终结](Her_Voice_colon__the_End_of_All_(Condition).md "她的声音：万物终结 (状态)") | 受影响实体的大脑正受绝对者意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-4减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。 |
-| 她的声音：转化 | 受影响实体的大脑正受绝对者意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-2减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。 |
+| [她的声音：命令术](Her_Voice_colon__Commanding_(Condition).md "她的声音：命令术 (状态)") | 受影响实体的大脑正受至上真神意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-1减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。 |
+| [她的声音：万物终结](Her_Voice_colon__the_End_of_All_(Condition).md "她的声音：万物终结 (状态)") | 受影响实体的大脑正受至上真神意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-4减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。 |
+| 她的声音：转化 | 受影响实体的大脑正受至上真神意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-2减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。 |
 
-- 受影响实体的大脑正受绝对者意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-2减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。
+- 受影响实体的大脑正受至上真神意志的折磨。它在智力、感知和魅力[属性值](Ability_Scores.md "Ability Scores")上获得-2减值，并在其回合结束时受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。
 
 ---
 *Source: [Her Voice: Transforming (Condition)](https://bg3.wiki/wiki/Her_Voice:_Transforming_(Condition)*

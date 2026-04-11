@@ -1,6 +1,6 @@
 # 边疆发现 - 新版
 
-**边疆发现 - 新版** 涵盖了最近崛起的 [绝对邪教](Cult_of_the_Absolute.md "绝对邪教")。
+**边疆发现 - 新版** 涵盖了最近崛起的 [至上真神教团](Cult_of_the_Absolute.md "至上真神教团")。
 
 这本季刊似乎是最近出版的，并迅速转手多次，其前后封面因使用而变得肮脏柔软。大部分页面已被撕掉。
 
@@ -28,7 +28,7 @@
 
 虽然本刊对来自我们美丽土地最偏远地区的惊人消息并不陌生，但我必须警告，本期包含的消息可能会让一些人感到震惊。
 
-我们特工在 ⁠[艾尔特加德](https://forgottenrealms.fandom.com/wiki/Elturgard) 报告的“绝对邪教”可能会像其他邪教一样消亡，但地精与罗丝誓约卓尔、⁠巨魔与灰矮人结盟的报告尤其令人担忧。
+我们特工在 ⁠[艾尔特加德](https://forgottenrealms.fandom.com/wiki/Elturgard) 报告的“至上真神教团”可能会像其他邪教一样消亡，但地精与罗丝誓约卓尔、⁠巨魔与灰矮人结盟的报告尤其令人担忧。
 
 附上报告的严重性在我们的历史上是独一无二的。在出版之前，信使已被派往包括 [博德之门](Baldur's_Gate.md "博德之门")、⁠[斯科努贝尔](https://forgottenrealms.fandom.com/wiki/Scornubel) 和 ⁠[烛堡](https://baldursgate.fandom.com/wiki/Candlekeep) 在内的地方。让我们希望这些报告能以应有的严肃性被接收，为了所有人的安全。
 

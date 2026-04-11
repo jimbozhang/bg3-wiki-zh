@@ -34,7 +34,7 @@ On the corpse of [Jhaam](Jhaam.md "Jhaam") an executed [drow](Drow.md "Drow") in
 ## 备注
 
 - 拾取时，当前队伍成员必须通过 DC 10 的[历史的](History.md "历史的")[属性检定](Ability_Check.md "属性检定")才能认出这是[竖琴手](Harper.md "竖琴手")的别针。
-- 可以对被处决的卓尔施放[死者交谈](Speak_with_Dead.md "死者交谈")，以得知她是一位名叫[贾姆](Jhaam.md "贾姆")的竖琴手，奉[贾希拉](Jaheira.md "贾希拉")之命从[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")出发，调查绝对邪教。
+- 可以对被处决的卓尔施放[死者交谈](Speak_with_Dead.md "死者交谈")，以得知她是一位名叫[贾姆](Jhaam.md "贾姆")的竖琴手，奉[贾希拉](Jaheira.md "贾希拉")之命从[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")出发，调查至上真神教团。
 - 虽然在[第一幕](Act_One.md "第一幕")获得，但这枚别针可以插入[第三幕](Act_Three.md "第三幕")中[戈尔布雷斯之家](Elerrathin's_Home.md "戈尔布雷斯之家")内一张书桌的隐藏插槽中。这样做可以通往贾希拉位于地下室的私人总部，并将此物品转换为[竖琴形状别针](Harp-Shaped_Pin.md "竖琴形状别针")。
 
 ---

@@ -98,7 +98,7 @@
 
 根据剑湾快递的通讯簿，哈克拉格对邮政服务有“哲学上的反对”，所有信件必须寄给 [加尔布雷斯](Golbraith_Stredivas.md "Golbraith Stredivas")。
 
-队伍可以请求哈克拉格成为会员，但他会拒绝，并表示由于 [绝对](Absolute.md "Absolute")，新会员资格已暂停。拥有 [智者](Sage.md "Sage") 背景的队伍成员仍会获得激励点 ⁠[会员准入](Sage.md#Membership_Admittance "Sage")。
+队伍可以请求哈克拉格成为会员，但他会拒绝，并表示由于 [至上真神](Absolute.md "至上真神")，新会员资格已暂停。拥有 [智者](Sage.md "Sage") 背景的队伍成员仍会获得激励点 ⁠[会员准入](Sage.md#Membership_Admittance "Sage")。
 
 ## 战斗
 

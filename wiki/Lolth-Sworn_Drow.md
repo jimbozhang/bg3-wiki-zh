@@ -93,9 +93,9 @@
 
 [伊莉丝翠](Eilistraee.md "Eilistraee")是席德瑞恩卓尔、美丽、歌曲和自由的女神。黑暗少女渴望所有种族之间的平衡，并与她母亲罗丝的腐败目标作斗争。
 
-### 绝对邪教
+### 至上真神教团
 
-在[月出之塔](Moonrise_Towers.md "Moonrise Towers")的[绝对邪教](Absolute.md "Absolute")成员中，可以找到各种罗丝誓约卓尔和至少一名席德瑞恩卓尔。
+在[月出之塔](Moonrise_Towers.md "Moonrise Towers")的[至上真神教团](Absolute.md "Absolute")成员中，可以找到各种罗丝誓约卓尔和至少一名席德瑞恩卓尔。
 
 ### 牧师神祇
 

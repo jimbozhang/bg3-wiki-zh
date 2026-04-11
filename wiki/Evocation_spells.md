@@ -157,7 +157,7 @@
 | [卡瑟利之握](Karsite_Grip.md "卡瑟利之握") | 6 |  |  | 1 驱散 | 60 米 / 200尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 8d8⁠[力场](Force.md "力场") |
 | [肆虐地狱](Ravaging_Inferno.md "肆虐地狱") | 6 |  |  | - | 18 米 / 60尺 / 4米 / 13尺 (半径) | [攻击掷骰](Attack_roll.md "攻击掷骰") [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 20d6⁠[火焰](Fire.md "火焰") |
 | [灵魂升华](Soul_Ascension.md "灵魂升华") | 6 |  |  | - | 18 米 / 60 尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 6d10⁠[黯蚀](Necrotic.md "黯蚀") |
-| [绝对护佑](Aegis_of_the_Absolute.md "绝对护佑") | 9 |  |  | 1 驱散 | 18 米 / 60尺 | - | - |
+| [至上真神的守御](Aegis_of_the_Absolute.md "至上真神的守御") | 9 |  |  | 1 驱散 | 18 米 / 60尺 | - | - |
 
 ## 外部链接
 

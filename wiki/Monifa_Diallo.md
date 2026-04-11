@@ -12,7 +12,7 @@
 | 先攻 | 0 |
 | 移动速度 | 9 米 (30 英尺) |
 
-**莫尼法·迪亚洛**是[利文顿](Rivington.md "Rivington")的一位[人类](Human.md "Human")母亲，在[第三幕](Act_Three.md "Act Three")期间，她对即将到来的[绝对](Absolute.md "Absolute")大军感到担忧。
+**莫尼法·迪亚洛**是[利文顿](Rivington.md "Rivington")的一位[人类](Human.md "Human")母亲，在[第三幕](Act_Three.md "Act Three")期间，她对即将到来的[至上真神](Absolute.md "至上真神")大军感到担忧。
 
 > “
 >

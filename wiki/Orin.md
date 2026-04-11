@@ -17,7 +17,7 @@
 
 Stats
 
-**腥红奥林**是 ⁠[巴尔](Bhaal.md "Bhaal")的选民，神秘的[绝对值教团](Cult_of_the_Absolute.md "Cult of the Absolute")的领袖之一，也是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的主要反派之一。
+**腥红奥林**是 ⁠[巴尔](Bhaal.md "Bhaal")的选民，神秘的[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")的领袖之一，也是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的主要反派之一。
 
 > “
 >
@@ -108,11 +108,11 @@ Stats
 
 ### 第一幕
 
-尽管奥林并未出现在游戏的第一幕，但当[绝对值](Absolute.md "Absolute")</sup>试图接管队伍的思想时，她的剧情参与被暗示，他们在被[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")拯救之前看到了选民的幻象。玩家角色在[破碎圣所](Shattered_Sanctum.md "Shattered Sanctum")首次遇到卓尔时，也可以看到奥林操纵被迷惑的明萨拉的幻象。
+尽管奥林并未出现在游戏的第一幕，但当[至上真神](Absolute.md "Absolute")</sup>试图接管队伍的思想时，她的剧情参与被暗示，他们在被[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")拯救之前看到了选民的幻象。玩家角色在[破碎圣所](Shattered_Sanctum.md "Shattered Sanctum")首次遇到卓尔时，也可以看到奥林操纵被迷惑的明萨拉的幻象。
 
 ### 第二幕
 
-奥林首次与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")和[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起出现在[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "Mind_Flayer_Colony")。<sup>[\[19\]](#cite_note-19] 戈塔什和凯瑟里克之间爆发了争吵，由于她的干预才没有演变成打斗。她成功绑架了[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")</sup>，并在公爵的眼睛里植入了蝌蚪，作为他们接管城市计划的一部分。然后她加入其他选民，并使用她的[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")——*巴尔之鞭*，与他们一起命令[主脑](Netherbrain.md "Netherbrain")让绝对值的军队向[博德之门](Baldur's_Gate.md "Baldur's Gate")进军。她和戈塔什前往城市，而凯瑟里克留下来对付队伍。
+奥林首次与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")和[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起出现在[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "Mind_Flayer_Colony")。<sup>[\[19\]](#cite_note-19] 戈塔什和凯瑟里克之间爆发了争吵，由于她的干预才没有演变成打斗。她成功绑架了[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")</sup>，并在公爵的眼睛里植入了蝌蚪，作为他们接管城市计划的一部分。然后她加入其他选民，并使用她的[奥林的耐色石](Orin's_Netherstone.md "奥林的耐色石")——*巴尔之鞭*，与他们一起命令[主脑](Netherbrain.md "Netherbrain")让至上真神的军队向[博德之门](Baldur's_Gate.md "Baldur's Gate")进军。她和戈塔什前往城市，而凯瑟里克留下来对付队伍。
 
 ### 第三幕
 

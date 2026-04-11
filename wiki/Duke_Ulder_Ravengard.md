@@ -48,7 +48,7 @@
 
 雷文伽德公爵被感染
 
-队伍可以得知他被[绝对](Absolute.md "绝对")的追随者带到了[月出之塔](Moonrise_Towers.md "月出之塔")。在月出之塔下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，会与三选民——[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")、[奥林](Orin.md "奥林")和[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")以及乌尔德·雷文伽德相遇。三选民用夺心魔蝌蚪感染了雷文伽德，然后将他送往[博德之门](Baldur's_Gate.md "博德之门")。
+队伍可以得知他被[至上真神](Absolute.md "至上真神")的追随者带到了[月出之塔](Moonrise_Towers.md "月出之塔")。在月出之塔下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，会与三选民——[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")、[奥林](Orin.md "奥林")和[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")以及乌尔德·雷文伽德相遇。三选民用夺心魔蝌蚪感染了雷文伽德，然后将他送往[博德之门](Baldur's_Gate.md "博德之门")。
 
 ### 第三幕
 

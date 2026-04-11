@@ -20,7 +20,7 @@
 
 ## 文本
 
-我不知道你们凭什么认为有权在我们美好的城市开店，但[博德之门](Baldur's_Gate.md "博德之门")不欢迎你们。滚回[幽暗地域](Underdark.md "幽暗地域")或[绝对](Absolute.md "绝对")去，或者你们从哪来就滚回哪去，别再把你们的夺心魔胡言乱语带进我们的城市！
+我不知道你们凭什么认为有权在我们美好的城市开店，但[博德之门](Baldur's_Gate.md "博德之门")不欢迎你们。滚回[幽暗地域](Underdark.md "幽暗地域")或[至上真神](Absolute.md "至上真神")去，或者你们从哪来就滚回哪去，别再把你们的夺心魔胡言乱语带进我们的城市！
 
 ---
 *Source: [You're Not Wanted Here](https://bg3.wiki/wiki/You're_Not_Wanted_Here)*

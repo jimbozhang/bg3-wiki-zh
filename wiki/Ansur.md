@@ -11,7 +11,7 @@
 | | |
 | --- | --- |
 
-**安苏**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中发现的[不死龙](Undead_Dragon.md "不死龙")。他曾是被称为“等待之雷”和“心之门”的[青铜龙](List_of_creature_types.md#Dragon "生物类型列表")，通常被认为是纯粹的传说。根据队伍的行动，[乌尔德·雷文加德](Ulder_Ravengard.md "乌尔德·雷文加德")、[顾问弗洛瑞克](Counsellor_Florrick.md "顾问弗洛瑞克")或[考杜拉·伊尔坦](Cordula_Eltan.md "考杜拉·伊尔坦")会揭示安苏是真实存在的，并向队伍提供一本书，开启他们寻找安苏并寻求其帮助对抗[绝对](Absolute.md "绝对")的旅程。
+**安苏**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中发现的[不死龙](Undead_Dragon.md "不死龙")。他曾是被称为“等待之雷”和“心之门”的[青铜龙](List_of_creature_types.md#Dragon "生物类型列表")，通常被认为是纯粹的传说。根据队伍的行动，[乌尔德·雷文加德](Ulder_Ravengard.md "乌尔德·雷文加德")、[顾问弗洛瑞克](Counsellor_Florrick.md "顾问弗洛瑞克")或[考杜拉·伊尔坦](Cordula_Eltan.md "考杜拉·伊尔坦")会揭示安苏是真实存在的，并向队伍提供一本书，开启他们寻找安苏并寻求其帮助对抗[至上真神](Absolute.md "至上真神")的旅程。
 
 > “
 >

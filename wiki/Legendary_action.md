@@ -38,7 +38,7 @@
 | [伯纳德](Bernard.md "伯纳德") | [传奇动作：跃动静电](Legendary_Action_colon__Leaping_Static.md "传奇动作：跃动静电")每回合一次，伯纳德可以在被攻击后花费一个传奇动作，立即向敌人发射 [跃动静电](Leaping_Static.md "跃动静电")。 |
 | [鲨蜥兽](Bulette.md "鲨蜥兽") | [传奇动作：碎鳞](Legendary_Action_colon__Shredding_Scales.md "传奇动作：碎鳞")每回合一次，鲨蜥兽可以在被击中后，如果其 [钻石鳞片](Diamond_Scales_(Condition).md "钻石鳞片（状态）") 处于激活状态，则花费一个传奇动作使用 [碎鳞](Shredding_Scales.md "碎鳞")。 |
 | [德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林") | [蛛类强迫](Arachnid_Compulsion.md "蛛类强迫") 借用一段卓尔魔法控制附近的蜘蛛。 |
-| [传奇动作：忠诚电震](Legendary_Action_colon__Devoted_Galvanism.md "传奇动作：忠诚电震")每当敌人以能力瞄准其盟友时，每回合一次，德罗尔·拉格兹林可以使用传奇动作对 5 米（17 英尺）范围内的绝对主义者进行 [电震](Galvanise.md "电震")，授予他们 [动作如潮](Action_Surge_(Condition).md "动作如潮（状态）")。 |  |
+| [传奇动作：忠诚电震](Legendary_Action_colon__Devoted_Galvanism.md "传奇动作：忠诚电震")每当敌人以能力瞄准其盟友时，每回合一次，德罗尔·拉格兹林可以使用传奇动作对 5 米（17 英尺）范围内的至上真神教徒进行 [电震](Galvanise.md "电震")，授予他们 [动作如潮](Action_Surge_(Condition).md "动作如潮（状态）")。 |  |
 | [复仇侍卫](Grym.md "复仇侍卫") | [传奇动作：金刚回响](Legendary_Action_colon__Adamantine_Reverberation.md "传奇动作：金刚回响")每回合一次，复仇侍卫可以在被击中时使用其传奇动作进行 [回响](Adamantine_Reverberation.md "金刚回响")，使其移动速度翻倍并获得 10 点临时生命值。 |
 | [尼讷](Nere.md "尼讷") | [传奇动作：灵能面容](Legendary_Action_colon__Psionic_Visage.md "传奇动作：灵能面容")每回合一次，尼讷可以在被攻击时使用其传奇动作对自己施放 [灵能面容](Psionic_Visage.md "灵能面容")。 |
 | [枭熊](Owlbear.md "枭熊") | [传奇动作：呼唤配偶](Legendary_Action_colon__Call_Consort.md "传奇动作：呼唤配偶")每场战斗一次，枭熊母亲可以在被攻击时花费一个传奇动作 [召唤](Call_Consort.md "呼唤配偶") 她的配偶。 |

@@ -72,7 +72,7 @@
 
 莉亚拉·波特尔是[博德之门](Baldur's_Gate.md "博德之门")的贵族，来自富裕且有影响力的波特尔贵族家族。她曾指挥楚尔特的贝卢阿利安堡，与当地海盗达成协议，允许博德人的商船安全通行，并计划在丛林中搜寻和获取遗物与宝藏。<sup>[\[2\]](#cite_note-2)</sup>
 
-在[深渊坠落](https://forgottenrealms.fandom.com/wiki/Descent_into_Avernus)事件期间，莉亚拉·波特尔被召回博德之门，担任焰拳代理元帅，直到[雷文伽德公爵](Ulder_Ravengard.md "雷文伽德公爵")归来。[戈塔什](Gortash.md "戈塔什")最终计划通过用[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")感染莉亚拉·波特尔，使她臣服于[绝对](Absolute.md "绝对")，然后威胁她的叔叔迪拉德·波特尔辞去公爵议会席位，以便让她接任。<sup>[\[3\]](#cite_note-3)</sup>
+在[深渊坠落](https://forgottenrealms.fandom.com/wiki/Descent_into_Avernus)事件期间，莉亚拉·波特尔被召回博德之门，担任焰拳代理元帅，直到[雷文伽德公爵](Ulder_Ravengard.md "雷文伽德公爵")归来。[戈塔什](Gortash.md "戈塔什")最终计划通过用[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")感染莉亚拉·波特尔，使她臣服于[至上真神](Absolute.md "至上真神")，然后威胁她的叔叔迪拉德·波特尔辞去公爵议会席位，以便让她接任。<sup>[\[3\]](#cite_note-3)</sup>
 
 与此同时，[拉斐尔](Raphael.md "拉斐尔")计划通过一系列涉及宗教领袖、<sup>[\[4\]](#cite_note-4)</sup> [博德安座塔](https://forgottenrealms.fandom.com/wiki/Seatower_of_Balduran)的焰拳指挥官<sup>[\[5\]](#cite_note-5)</sup>以及焰拳营房中一名身份不明的个体的阴谋，将莉亚拉·波特尔推上风口浪尖并巩固她的权力。<sup>[\[6\]](#cite_note-6)</sup>
 

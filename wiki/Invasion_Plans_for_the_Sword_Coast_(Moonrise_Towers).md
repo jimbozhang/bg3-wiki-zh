@@ -19,7 +19,7 @@
 
 ## 文本
 
-[一张剑湾地图，从移动冰海一直到安姆以北，包括剑湾中的几个较近的群岛。一个巨大的红色箭头从东方伸出，然后分支成无数小箭头，扇形展开覆盖陆地，象征着绝对者的计划征服。]
+[一张剑湾地图，从移动冰海一直到安姆以北，包括剑湾中的几个较近的群岛。一个巨大的红色箭头从东方伸出，然后分支成无数小箭头，扇形展开覆盖陆地，象征着至上真神的计划征服。]
 
 ---
 *Source: [Invasion Plans for the Sword Coast (Moonrise Towers)](https://bg3.wiki/wiki/Invasion_Plans_for_the_Sword_Coast_(Moonrise_Towers)*

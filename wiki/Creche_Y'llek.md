@@ -169,7 +169,7 @@
 
 瓦尔'戈兹通过北侧的拱门前往审判官的房间后，赛泽恩使用拱门旁边的*吉斯洋基屏障干扰器*激活了一个屏障。队伍必须停用屏障才能探索该地点北出口以外的区域。
 
-队长办公区内有赛泽恩、[炽念者格努里尔](G'nuril.md "G'nuril")以及两只狼，[达'哈克](D'hak.md "达'哈克")和[乌尔'乌特](Ur'uth.md "乌尔'乌特")，它们正在啃食最近捕获的[绝对邪教](Cult_of_the_Absolute.md "Cult of the Absolute")追随者的尸体（如果队伍在门口没有干预）。
+队长办公区内有赛泽恩、[炽念者格努里尔](G'nuril.md "G'nuril")以及两只狼，[达'哈克](D'hak.md "达'哈克")和[乌尔'乌特](Ur'uth.md "乌尔'乌特")，它们正在啃食最近捕获的[至上真神教团](Cult_of_the_Absolute.md "Cult of the Absolute")追随者的尸体（如果队伍在门口没有干预）。
 
 如果队伍中有[影心](Shadowheart.md "Shadowheart")，当接近狼时，她会进行一次被动的[感知](Wisdom.md "Wisdom")[属性检定](Ability_Check.md "属性检定")（前提是之前未发生过）。如果失败，她会提示与玩家角色对话，这可以推进她的[黑暗之女](Daughter_of_Darkness.md "黑暗之女")。
 

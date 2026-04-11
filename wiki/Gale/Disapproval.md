@@ -59,7 +59,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "App
 
 _在翠绿林地为地精袭击做准备时_
 
-- 告诉[泽弗洛尔](../Zevlor.md "Zevlor")（如果泽弗洛尔已死则告诉[阿沙拉克](../Asharak.md "Asharak")）是你带领部落来到林地，然后说这个地方属于[绝对者](../Absolute.md "Absolute") (-10)
+- 告诉[泽弗洛尔](../Zevlor.md "Zevlor")（如果泽弗洛尔已死则告诉[阿沙拉克](../Asharak.md "Asharak")）是你带领部落来到林地，然后说这个地方属于[至上真神](../Absolute.md "Absolute") (-10)
   - 或者说部落来了，由卓尔带领——而你*与他们*同在 (-10)
   - 或者，扮演[邪念](../Haunted_One.md "Haunted One")时，告诉[泽弗洛尔](../Zevlor.md "Zevlor")地精部落是你的 (-1)
 - 吹响号角后背叛林地（打开大门）(-5)
@@ -395,7 +395,7 @@ _**注意：**选择任何这些选项会使发现你站在尸体旁的伙伴敌
 
 ### [伙伴任务](../The_Wizard_of_Waterdeep.md "The Wizard of Waterdeep")
 
-  - 与[伊尔明斯特·艾摩](../Elminster.md "Elminster")交谈，开玩笑说同时除掉[绝对者](../Absolute.md "Absolute")和盖尔 (-1)
+  - 与[伊尔明斯特·艾摩](../Elminster.md "Elminster")交谈，开玩笑说同时除掉[至上真神](../Absolute.md "Absolute")和盖尔 (-1)
 - 如果你不知道盖尔的背景故事，说他一直都是最阴险的邪恶 (-1)
 
 ## 第三幕

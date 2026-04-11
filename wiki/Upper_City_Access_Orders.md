@@ -23,7 +23,7 @@
 ## 文本
 
 奉高阶警官兼城墙大师之命
-绝对主义者对贵族构成威胁。在另行通知前封锁上城区。禁止任何未经授权的访客进入。
+至上真神教徒对贵族构成威胁。在另行通知前封锁上城区。禁止任何未经授权的访客进入。
 
 ---
 *Source: [Upper City Access Orders](https://bg3.wiki/wiki/Upper_City_Access_Orders)*

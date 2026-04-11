@@ -36,7 +36,7 @@
 
 虽然维康妮亚服从了女神的命令，但她长期以来对影心被选为她的继任者成为女院长心怀怨恨，并以非常苛刻的方式对待影心。例如，影心一直梦想成为一名 [暗夜法官](Dark_Justiciar.md "Dark Justiciar")，但维康妮亚阻挠了她任何尝试。<sup>[\[3\]](#cite_note-3)</sup>
 
-最后，就在游戏开始前不久，维康妮亚指派影心和其他最熟练但可牺牲的追随者<sup>[\[4\]](#cite_note-4)</sup> 去取回 [神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")，该遗物可以帮助莎尔教派对抗 [绝对者](The_Absolute.md "The Absolute")。如果影心碰巧未能完成任务，维康妮亚可能仍会保留她作为女院长的地位，并在影心因未能完成莎尔的任务而死亡时保持合理的推诿。<sup>[\[5\]](#cite_note-5)</sup><sup>[\[6\]](#cite_note-6)</sup><sup>[\[7\]](#cite_note-7)</sup>
+最后，就在游戏开始前不久，维康妮亚指派影心和其他最熟练但可牺牲的追随者<sup>[\[4\]](#cite_note-4)</sup> 去取回 [神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")，该遗物可以帮助莎尔教派对抗 [至上真神](The_Absolute.md "The Absolute")。如果影心碰巧未能完成任务，维康妮亚可能仍会保留她作为女院长的地位，并在影心因未能完成莎尔的任务而死亡时保持合理的推诿。<sup>[\[5\]](#cite_note-5)</sup><sup>[\[6\]](#cite_note-6)</sup><sup>[\[7\]](#cite_note-7)</sup>
 
 ## 参与
 
@@ -52,7 +52,7 @@
 
 在追寻 [黑暗之女](Daughter_of_Darkness.md#House_of_Grief "Daughter of Darkness") 时，有必要访问 [阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace")，它位于 [哀伤之邸](House_of_Grief.md "House of Grief") 下方的莎尔废墟中。维康妮亚·迪佛伪装成 *哀伤之邸调查员* 居住在那里，并为需要莎尔指引的人提供 [心之映射](Mapping_of_the_Heart.md "Mapping of the Heart")。
 
-如果玩家角色或影心接受了心之映射，维康妮亚会摘下兜帽揭示身份，并邀请队伍前往修道院。她解释说，她知道队伍拥有遗物，她需要它来摧毁绝对者。如果通过了 [威吓](Intimidation.md "Intimidation") 或 [游说](Persuasion.md "Persuasion") 检定，维康妮亚会让步。然而，她要求将影心交给她。队伍可以同意，开始 [把影心交给维康妮亚](Surrender_Shadowheart_to_Viconia.md "Surrender Shadowheart to Viconia") 任务，或者拒绝，开始战斗。如果影心是暗夜法官，她可以说服一些邪教徒与队伍并肩作战，在维康妮亚被击败后接管修道院。<sup>[\[8\]](#cite_note-8)</sup> 在进行 [心之映射](Mapping_of_the_Heart.md "Mapping of the Heart") 的房间中，如果 [贾希拉](Jaheira.md "Jaheira")、[明斯克](Minsc.md "Minsc") 或两人在场，他们会评论与维康妮亚的重逢。
+如果玩家角色或影心接受了心之映射，维康妮亚会摘下兜帽揭示身份，并邀请队伍前往修道院。她解释说，她知道队伍拥有遗物，她需要它来摧毁至上真神。如果通过了 [威吓](Intimidation.md "Intimidation") 或 [游说](Persuasion.md "Persuasion") 检定，维康妮亚会让步。然而，她要求将影心交给她。队伍可以同意，开始 [把影心交给维康妮亚](Surrender_Shadowheart_to_Viconia.md "Surrender Shadowheart to Viconia") 任务，或者拒绝，开始战斗。如果影心是暗夜法官，她可以说服一些邪教徒与队伍并肩作战，在维康妮亚被击败后接管修道院。<sup>[\[8\]](#cite_note-8)</sup> 在进行 [心之映射](Mapping_of_the_Heart.md "Mapping of the Heart") 的房间中，如果 [贾希拉](Jaheira.md "Jaheira")、[明斯克](Minsc.md "Minsc") 或两人在场，他们会评论与维康妮亚的重逢。
 
 如果会面导致战斗，维康妮亚会显现她从队伍那里了解到的恐惧：变成狼来恐吓影心，或者——如果玩家角色告诉她害怕变成狼——暂时将玩家角色变成夺心魔。<sup>[\[9\]](#cite_note-9)</sup><sup>[\[10\]](#cite_note-10)</sup>
 
