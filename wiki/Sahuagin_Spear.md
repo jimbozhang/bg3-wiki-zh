@@ -17,7 +17,7 @@
 详情
 [短矛](Spears.md "Spears")
 稀有度：普通
-惑控学派：无
+附魔：无
 [两用](Versatile.md "Versatile")
 [投掷攻击](Thrown.md "Thrown")
 [可蘸取](Dippable.md "Dippable")

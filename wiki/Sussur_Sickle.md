@@ -13,7 +13,7 @@
 详情
 [镰刀](Sickles.md "镰刀")
 稀有度：稀有
-惑控学派：**+ 1**
+附魔：**+ 1**
 单手
 [轻型](Light_(weapon_property).md "轻型（武器属性）")
 [可蘸取](Dippable.md "可蘸取")

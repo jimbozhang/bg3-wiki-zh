@@ -17,7 +17,7 @@
 详情
 [巨剑](Greatswords.md "巨剑")
 稀有度：不常见
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "双手")
 [可消耗](List_of_Items_consumable_by_Gale.md "盖尔可消耗物品列表")（由[盖尔](Gale.md "盖尔")消耗）
 近战：1.5 m (5 ft)

@@ -16,7 +16,7 @@
 - [中甲](Medium_Armour.md "Medium Armour")
 - 所需熟练项：[中甲](Medium_Armour.md "Medium Armour")
 - 稀有度：不常见
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：12 千克 (24 磅)
 - 价格：160 金币
 

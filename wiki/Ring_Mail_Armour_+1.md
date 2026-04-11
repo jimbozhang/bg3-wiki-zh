@@ -11,7 +11,7 @@
 - [重甲](Heavy_Armour.md "Heavy Armour")
 - 所需熟练项：[重甲](Heavy_Armour.md "Heavy Armour")
 - 稀有度：不常见
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：17 kg (34 lb)
 - 价格：200 gp
 - UID `ARM_RingMail_1` UUID `4837915c-080b-491f-813e-be5a71571a17` ### 特殊

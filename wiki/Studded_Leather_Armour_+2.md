@@ -13,7 +13,7 @@
 - [轻甲](Light_Armour.md "Light Armour")
 - 所需熟练项：[轻甲](Light_Armour.md "Light Armour")
 - 稀有度：稀有
-- 惑控学派：**+ 2**
+- 附魔：**+ 2**
 - 重量：5.85 千克 (11.7 磅)
 - 价格：770 金币
 - UID `ARM_StuddedLeather_2` UUID `83603f36-d158-4a0e-b9c9-358413ba3a92` Stats `ARM_StuddedLeather_Body_2` File `ARM_StuddedLeather_A_2_Body` *File `ARM_StuddedLeather_A_2_Pants`* File `ARM_StuddedLeather_A_Sleeves_C` ### 特殊效果

@@ -15,7 +15,7 @@
 详情
 [轻弩](Light_Crossbows.md "Light Crossbows")
 稀有度：稀有
-惑控学派：**+ 1**
+附魔：**+ 1**
 [双手](Two-Handed.md "Two-Handed")
 射程：18 米 (60 英尺)
 重量：2.25 千克 (4.5 磅)

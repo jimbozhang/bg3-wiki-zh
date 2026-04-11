@@ -17,7 +17,7 @@
 详情
 [长剑](Longswords.md "Longswords")
 稀有度：不常见
-惑控学派：**+ 1**
+附魔：**+ 1**
 [两用](Versatile.md "Versatile")
 [可蘸取](Dippable.md "Dippable")
 近战：1.5 m (5 ft)

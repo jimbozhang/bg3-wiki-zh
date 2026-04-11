@@ -17,7 +17,7 @@
 详情
 [镰刀](Sickles.md "Sickles")
 稀有度：稀有
-惑控学派：**+ 2**
+附魔：**+ 2**
 单手
 [轻型](Light_(weapon_property).md "Light (weapon property)")
 近战：1.5 m (5 ft)

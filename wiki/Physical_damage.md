@@ -53,12 +53,12 @@
 
 - 徒手攻击、近战武器攻击和投掷武器攻击通常添加攻击生物的[力量](Strength.md "力量")调整值。
 - 使用远程武器的攻击添加生物的[敏捷](Dexterity.md "敏捷")调整值。
-- 具有[灵巧](Finesse.md "灵巧")属性的武器攻击、[武僧](Monk.md "武僧")武器攻击，以及具有[ martial arts: dextrous attacks](Martial_Arts_colon__Dextrous_Attacks.md " martial arts: dextrous attacks")的生物的徒手攻击，会添加攻击者的力量或敏捷调整值中较高者。
+- 具有[灵巧](Finesse.md "灵巧")属性的武器攻击、[武僧](Monk.md "武僧")武器攻击，以及具有[武艺：灵巧攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：灵巧攻击")的生物的徒手攻击，会添加攻击者的力量或敏捷调整值中较高者。
 - 法术攻击添加施法者的[施法关键属性](Spells.md#施法 "施法")调整值，通常由其[职业](Class.md "职业")决定。
 
 法术攻击、徒手攻击以及攻击者熟练的武器攻击还会添加其[熟练项](Proficiency.md "熟练项")加值。某些攻击还会添加额外调整值：
 
-- 如果攻击者使用[惑控学派](Enchantment.md "惑控学派")武器，则添加附魔值，从 +1 到 +3。
+- 如果攻击者使用[附魔](Enchantment.md "附魔")武器，则添加附魔值，从 +1 到 +3。
 - 根据[高地规则](High_ground_rules.md "高地规则")，从至少 2.5 米（8 英尺）上方攻击会为攻击掷骰应用 +2 奖励，而从至少 2.5 米（8 英尺）下方攻击会应用 -2 惩罚。
 
 攻击掷骰还受以下因素影响：

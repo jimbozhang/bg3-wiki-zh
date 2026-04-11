@@ -1,6 +1,6 @@
 # 动物交谈药水
 
-"Animal Speaking" redirects here. For the spell, see [动物交谈](Speak_with_Animals.md "动物交谈"). For other uses, see [动物交谈 (消歧义)](Speak_with_Animals_(disambiguation)..md)
+「动物交谈」重定向至此。关于法术，请参见 [动物交谈](Speak_with_Animals.md "动物交谈")。关于其他用途，请参见 [动物交谈 (消歧义)](Speak_with_Animals_(disambiguation)..md)
 
 **动物交谈药水**是[消耗品](Consumables.md "消耗品")（[药水](Potions.md "Potions")）。它具有有益的实用效果。
 

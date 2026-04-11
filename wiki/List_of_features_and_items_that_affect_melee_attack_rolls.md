@@ -78,7 +78,7 @@
 - [幽影斗篷](Cloak_of_Shadows.md "Cloak of Shadows") - 如果处于[遮蔽](Obscured.md "Obscured")状态，则变为[隐形](Cloak_of_Shadows_(Condition).md "Cloak of Shadows (Condition)")
 - [凝气刚拳](Fist_of_Unbroken_Air.md "Fist of Unbroken Air") - 将生物推回，可能将其击倒至[倒伏](Prone_(Condition).md "Prone (Condition)")状态
 - [疾风连击：摔绊](Flurry_of_Blows_colon__Topple.md "Flurry of Blows: Topple") - 连续出拳两次，可能将生物击倒至[倒伏](Prone_(Condition).md "Prone (Condition)")状态
-- [武术：灵巧攻击](Martial_Arts_colon__Dextrous_Attacks.md "Martial Arts: Dextrous Attacks") - 使用武僧武器和徒手攻击进行近战攻击掷骰时，如果敏捷更高，则使用[敏捷](Dexterity.md "Dexterity")而非[力量](Strength.md "Strength")
+- [武术：灵巧攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：灵巧攻击") - 使用武僧武器和徒手攻击进行近战攻击掷骰时，如果敏捷更高，则使用[敏捷](Dexterity.md "Dexterity")而非[力量](Strength.md "Strength")
 - [坚强防御](Patient_Defence.md "Patient Defence") - 对自身的近战攻击掷骰具有[劣势](Disadvantage.md "Disadvantage")
 - [疾风之灵冲击](Rush_of_the_Gale_Spirits.md "Rush of the Gale Spirits") - 召唤强风将生物推回，迫使其[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")
 - [暗影技艺：躲藏](Shadow_Arts_colon__Hide.md "Shadow Arts: Hide") - 使用附赠动作[躲藏](Hiding_(Condition).md "Hiding (Condition)")，近战攻击掷骰获得[优势](Advantage.md "Advantage")

@@ -2,7 +2,7 @@
 
 **预言：法术束缚**
 
-- 施放一个[惑控学派](Enchantment.md "惑控学派")法术将产生一个新的[预兆](Portent.md "预兆")。
+- 施放一个[惑控学派](Enchantment_(school).md "惑控学派")法术将产生一个新的[预兆](Portent.md "预兆")。
 
 ## 属性
 

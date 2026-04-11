@@ -1,6 +1,6 @@
 # 守卫者巨斧
 
-守卫者巨斧是一件稀有的+2 [巨斧](Greataxes.md "巨斧")，其[惑控学派](Enchantment.md "惑控学派")效果可在每回合首次攻击时降低，以提升使用者的[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throws.md "豁免检定")加值。
+守卫者巨斧是一件稀有的+2 [巨斧](Greataxes.md "巨斧")，其[附魔](Enchantment.md "附魔")效果可在每回合首次攻击时降低，以提升使用者的[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throws.md "豁免检定")加值。
 
 这把斧头的力量在于其波动的奥术增强效果，它在斧刃与斧身之间以及使用者自身之间流动。
 
@@ -13,7 +13,7 @@
 详情
 [巨斧](Greataxes.md "巨斧")
 稀有度：稀有
-惑控学派：**+ 2**
+附魔：**+ 2**
 [双手](Two-Handed.md "双手")
 [可蘸取](Dippable.md "可蘸取")
 近战：1.5 m (5 ft)
@@ -24,7 +24,7 @@ UID `MAG_PHB_Defender_Greataxe` UUID `560fa90c-942b-4661-a86b-e20f9362c9ba` ### 
 **持有此物品获得：**
 
 [防御攻击](Defensive_Attack_(passive_feature).md)
-当进行每回合首次攻击时，可将此武器的惑控学派效果降低1点，使自身[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")加值提升1点。
+当进行每回合首次攻击时，可将此武器的附魔效果降低1点，使自身[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")加值提升1点。
 
 ### 武器动作
 

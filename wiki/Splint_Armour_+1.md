@@ -13,7 +13,7 @@
 - [重甲](Heavy_Armour.md "重甲")
 - 所需熟练项：[重甲](Heavy_Armour.md "重甲")
 - 稀有度：罕见
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：19 千克（38 磅）
 - 价格：480 金币
 - UID `ARM_Splint_1` UUID `ecfb1364-b1a0-4d0e-b82a-0becd8c291fd` ### 特殊效果

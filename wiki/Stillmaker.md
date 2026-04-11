@@ -13,7 +13,7 @@
 详情
 [Daggers](Daggers.md "Daggers")
 稀有度：非常稀有
-惑控学派：**+ 2**
+附魔：**+ 2**
 单手
 [灵巧](Finesse.md "Finesse")
 [轻型](Light_(weapon_property).md "Light (weapon property)")

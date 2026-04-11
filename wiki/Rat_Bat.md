@@ -17,7 +17,7 @@
 详情
 [巨棒](Greatclubs.md "Greatclubs")
 稀有度：稀有
-惑控学派：**+ 1**
+附魔：**+ 1**
 [双手](Two-Handed.md "Two-Handed")
 [可蘸取](Dippable.md "Dippable")
 近战：1.5 米 (5 英尺)

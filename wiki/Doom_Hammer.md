@@ -13,7 +13,7 @@
 详情
 [巨锤](Mauls.md "巨锤")
 稀有度：不常见
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "双手")
 [可蘸取](Dippable.md "可蘸取")
 [可消耗](List_of_Items_consumable_by_Gale.md "盖尔可消耗物品列表")（由[盖尔](Gale.md "盖尔")消耗）

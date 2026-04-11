@@ -1,6 +1,6 @@
 # 防御华舞（近战）
 
-"Defensive Flourish" redirects here. For the ranged version, see, see [防御华舞（远程）](Defensive_Flourish_(Ranged)..md)
+「防御华舞」重定向至此。关于远程版本，请参见 [防御华舞（远程）](Defensive_Flourish_(Ranged)..md)
 
 **防御华舞（近战）** 是 [剑舞学院](College_of_Swords.md "剑舞学院") 吟游诗人的武器动作。此华舞策略允许吟游诗人在进行近战武器攻击后，花费 [诗人激励](Bardic_Inspiration_(resource).md) 进入防御姿态，使护甲等级提高4点。
 

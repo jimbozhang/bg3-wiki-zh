@@ -13,7 +13,7 @@
 - [中甲](Medium_Armour.md "中甲")
 - 所需熟练项：[中甲](Medium_Armour.md "中甲")
 - 稀有度：普通
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：9 公斤 (18 磅)
 - 价格：200 金币
 - UID `ARM_BreastPlate_1` UUID `ad912cef-8bfb-4bf3-98f0-f2c5e3b45915` ### 特殊

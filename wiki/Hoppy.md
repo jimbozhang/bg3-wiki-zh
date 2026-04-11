@@ -13,7 +13,7 @@
 详情
 [战镐](War_Picks.md "War Picks")
 稀有度：罕见
-惑控学派：**+ 1**
+附魔：**+ 1**
 单手
 [可蘸取](Dippable.md "Dippable")
 [可消耗](List_of_Items_consumable_by_Gale.md "List of Items consumable by Gale")（由[盖尔](Gale.md "Gale")消耗）

@@ -13,7 +13,7 @@
 - [中甲](Medium_Armour.md "中甲")
 - 所需熟练项：[中甲](Medium_Armour.md "中甲")
 - 稀有度：稀有
-- 惑控学派：**+ 2**
+- 附魔：**+ 2**
 - 重量：12 千克 (24 磅)
 - 价格：480 金币
 - UID `ARM_ScaleMail_2` UUID `21f0dd84-6f02-4be9-8654-4cebd00dcbaf` Stats `ARM_ScaleMail_Body_2` File `ARM_Scalemail_A_2_Body` *File `ARM_Scalemail_A_2_Shoulderpads`* File `ARM_Scalemail_A_Pants_B` ### 特殊

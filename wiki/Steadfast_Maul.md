@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取。但仍可通过第三方工具访问。
 
-坚毅巨锤是一件不常见、带有轻微[惑控学派](Enchantment.md "Enchantment")效果的[巨锤](Mauls.md "Mauls")。
+坚毅巨锤是一件不常见、带有轻微[附魔](Enchantment.md "Enchantment")效果的[巨锤](Mauls.md "Mauls")。
 
 坚毅·艾德温娜在冰风谷挥舞这把巨锤多年，之后才追求她梦寐以求的小说写作事业。她花了三十年时间创作以深水城为背景的犯罪小说，去世时鲜为人知。但她很高兴。
 
@@ -15,7 +15,7 @@
 详情
 [巨锤](Mauls.md "Mauls")
 稀有度：不常见
-惑控学派：**+ 1**
+附魔：**+ 1**
 [双手](Two-Handed.md "Two-Handed")
 [可蘸取](Dippable.md "Dippable")
 近战：1.5 米（5 英尺）

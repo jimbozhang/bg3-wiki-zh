@@ -1,6 +1,6 @@
 # 镶钉盾 +1
 
-镶钉盾 +1 是一件稀有的 [盾牌](Shields.md "Shields")，其惑控学派能提升其 [护甲等级](Armour_Class.md "Armour Class") 加值。
+镶钉盾 +1 是一件稀有的 [盾牌](Shields.md "Shields")，其附魔能提升其 [护甲等级](Armour_Class.md "Armour Class") 加值。
 
 盾牌上的一些铆钉开始出现小块锈蚀。
 
@@ -13,7 +13,7 @@
 - [盾牌](Shields.md "Shields")
 - 所需熟练项：[盾牌](Shields.md "Shields")
 - 稀有度：稀有
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：2.7 千克 (5.4 磅)
 - 价格：300 金币
 - UID `WPN_HUM_Shield_C_1` UUID `badf2418-01ac-410d-931e-72b1dac071c7` ### 特殊效果

@@ -17,7 +17,7 @@
 详情
 [短棒](Clubs.md "短棒")
 稀有度：稀有
-惑控学派：无
+附魔：无
 [两用](Versatile.md "两用")
 [轻型](Light_(weapon_property).md "轻型 (武器属性)")
 近战：1.5 米 (5 英尺)

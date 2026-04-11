@@ -1,6 +1,6 @@
 # 动作
 
-"Action" redirects here. For the resource, see [Resources#Action](Resources.md#Action "Resources").
+「动作」重定向至此。关于资源，请参见 [Resources#Action](Resources.md#Action "Resources").
 
 **动作**是[Baldur's Gate 3](Baldur's_Gate_3.md "Baldur's Gate 3")中[生物](Creatures.md "Creatures")在其回合中采取的行为。动作通常用于造成[伤害](Damage.md "Damage")或施加有害的[状态](Conditions.md "Conditions")，但也可以用于[治疗](Healing.md "Healing")或援助盟友。
 

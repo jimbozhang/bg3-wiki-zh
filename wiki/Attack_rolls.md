@@ -1,6 +1,6 @@
 # 攻击
 
-"Attack" redirects here. For melee Attack, see [主手攻击](Main_Hand_Attack.md "主手攻击"). For ranged Attack, see [远程攻击](Ranged_Attack.md "远程攻击"). For melee bonus Attack, see [副手攻击（近战）](Off-Hand_Attack_(Melee)..md) For ranged bonus Attack, see [副手攻击（远程）](Off-Hand_Attack_(Ranged)..md) For other uses, see [Attack (disambiguation)](Attack_(disambiguation)..md)
+「攻击」重定向至此。关于近战攻击，请参见 [主手攻击](Main_Hand_Attack.md "主手攻击")。关于远程攻击，请参见 [远程攻击](Ranged_Attack.md "远程攻击")。关于近战附赠攻击，请参见 [副手攻击（近战）](Off-Hand_Attack_(Melee)..md)。关于远程附赠攻击，请参见 [副手攻击（远程）](Off-Hand_Attack_(Ranged)..md)。关于其他用途，请参见 [Attack (disambiguation)](Attack_(disambiguation)..md)
 
 **攻击**是[生物](Creatures.md "生物")尝试击中目标的行为，通常使用[武器](Weapon.md "武器")或[法术](Spells.md "法术")。
 
@@ -48,7 +48,7 @@
 
 法术攻击、徒手攻击以及攻击者熟练的武器攻击还会增加其[熟练项](Proficiency.md "熟练项")加值。某些攻击还会增加额外调整值：
 
-- 如果攻击者使用[惑控学派](Enchantment.md "惑控学派")武器，则增加惑控值，从+1到+3。
+- 如果攻击者使用[附魔](Enchantment.md "附魔")武器，则增加惑控值，从+1到+3。
 - 根据[高地规则](High_ground_rules.md "高地规则")，从至少2.5米（8英尺）高处攻击会为攻击掷骰应用+2加值，而从至少2.5米（8英尺）低处攻击会应用-2惩罚。
 
 攻击掷骰还受以下因素调整：

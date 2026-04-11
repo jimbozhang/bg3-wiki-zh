@@ -1,6 +1,6 @@
 # 流放 (状态)
 
-"Banished" redirects here. For the note by the same name, see [Banished (note)](Banished_(note)..md)
+「放逐」重定向至此。关于同名笔记，请参见 [放逐（笔记）](Banished_(note)..md)
 
 **流放**
 

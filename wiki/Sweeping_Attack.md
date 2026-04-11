@@ -35,7 +35,7 @@
 
 ## 备注
 
-- 大多数常规伤害加成不会应用于此攻击，包括[惑控学派](Enchantment.md "惑控学派")、[力量](Strength.md "力量")调整值和[巨武器大师](Great_Weapon_Master.md "巨武器大师")伤害（尽管命中惩罚仍然适用）。因此，此动作造成的伤害将显著低于类似攻击，如[猛虎嗜血](Tiger's_Bloodlust.md "猛虎嗜血")、[挥砍华舞（近战）](Slashing_Flourish_(Melee).md "挥砍华舞（近战）")，甚至基础的[劈砍](Cleave.md "劈砍")。
+- 大多数常规伤害加成不会应用于此攻击，包括[附魔](Enchantment.md "附魔")、[力量](Strength.md "力量")调整值和[巨武器大师](Great_Weapon_Master.md "巨武器大师")伤害（尽管命中惩罚仍然适用）。因此，此动作造成的伤害将显著低于类似攻击，如[猛虎嗜血](Tiger's_Bloodlust.md "猛虎嗜血")、[挥砍华舞（近战）](Slashing_Flourish_(Melee).md "挥砍华舞（近战）")，甚至基础的[劈砍](Cleave.md "劈砍")。
 - 与其他策略不同，此动作会消耗[卓越骰子](Battle_Master.md#Level_3 "战斗大师")，即使所有攻击都未命中。
 
 ---

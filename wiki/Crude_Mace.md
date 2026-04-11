@@ -13,7 +13,7 @@
 详情
 [硬头锤](Maces.md "Maces")
 稀有度：普通
-惑控学派：无
+附魔：无
 单手
 [可蘸取](Dippable.md "Dippable")
 近战：1.5 米 (5 英尺)

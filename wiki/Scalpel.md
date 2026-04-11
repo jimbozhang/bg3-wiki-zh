@@ -11,7 +11,7 @@
 详情
 [匕首](Daggers.md "匕首")
 稀有度：普通
-惑控学派：无
+附魔：无
 单手
 [灵巧](Finesse.md "灵巧")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")
@@ -46,7 +46,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 详情
 [匕首](Daggers.md "匕首")
 稀有度：普通
-惑控学派：无
+附魔：无
 单手
 [灵巧](Finesse.md "灵巧")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")

@@ -13,7 +13,7 @@
 - [中甲](Medium_Armour.md "Medium Armour")
 - 所需熟练项: [中甲](Medium_Armour.md "Medium Armour")
 - 稀有度: 稀有
-- 惑控学派: **+ 2**
+- 附魔: **+ 2**
 - 重量: 12 kg (24 lb)
 - 价格: 1100 gp
 - UID `ARM_HalfPlate_2` UUID `15338da1-c4f8-4b43-912c-c14e7d9a8579` Stats `ARM_HalfPlate_Body_2` ### 特殊

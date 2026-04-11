@@ -13,7 +13,7 @@
 详情
 [长柄刀](Glaives.md "长柄刀")
 稀有度：普通
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "双手")
 [额外范围](Extra_Reach.md "额外范围")
 [可蘸取](Dippable.md "可蘸取")

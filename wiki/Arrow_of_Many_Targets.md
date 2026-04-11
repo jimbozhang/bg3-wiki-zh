@@ -37,7 +37,7 @@
 
 ## 注释
 
-- 该箭对次要目标的效果与常规射击完全相同，除了将伤害来源部分减半（[武器伤害](Damage_rolls.md "伤害掷骰"）+ [武器附魔](Enchantment.md "惑控学派"）+ [属性调整值](Ability_score_modifier.md "属性值"））。
+- 该箭对次要目标的效果与常规射击完全相同，除了将伤害来源部分减半（[武器伤害](Damage_rolls.md "伤害掷骰"）+ [武器附魔](Enchantment.md "附魔"）+ [属性调整值](Ability_score_modifier.md "属性值"））。
 - 减半对[伤害附加](Damage_mechanics.md "伤害机制"）（除上述列出的伤害加成外的其他伤害加成）没有影响。不受减半影响的显著加成包括[神射手：孤注一掷](Sharpshooter_colon__All_In.md "神射手：孤注一掷"）和[泰坦弦弓](Titanstring_Bow.md "泰坦弦弓"）的[泰坦武器](Titan_Weapon.md "泰坦武器"）。
 - 箭可能会反弹：
   - 从任何目标反弹，包括无生命物体，这对于对抗原本受[庇护术](Sanctuary.md "庇护术"）保护的目标很有用。

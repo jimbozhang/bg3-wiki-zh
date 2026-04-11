@@ -1,6 +1,6 @@
 # 震慑拳（徒手）
 
-"Stunning Strike" redirects here. For the armed version, see [震慑打击（近战）](Stunning_Strike_(Melee)..md)
+「震慑打击」重定向至此。关于持械版本，请参见 [震慑打击（近战）](Stunning_Strike_(Melee)..md)
 
 **震慑打击（近战）** 是一种 [武僧](Monk.md "Monk") 武器动作。它允许武僧尝试用徒手打击使目标震慑。
 

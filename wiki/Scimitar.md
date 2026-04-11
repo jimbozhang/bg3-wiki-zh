@@ -15,7 +15,7 @@ For the equipment type, see [Scimitars](Scimitars.md "Scimitars").
 详情
 [弯刀](Scimitars.md "Scimitars")
 稀有度：普通
-惑控学派：无
+附魔：无
 单手
 [灵巧](Finesse.md "Finesse")
 [轻型](Light_(weapon_property).md "Light (weapon property)")

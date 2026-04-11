@@ -49,7 +49,7 @@
 [预备法术](Prepared_Spells.md "预备法术")
 诡术师法术是**总是预备的**。
 [习得法术](Known_Spells.md "习得法术")
-从[法师法术列表](List_of_Arcane_Trickster_spells.md "诡术师法术列表")中选择 2 个法术（仅限[惑控学派](Enchantment.md "惑控学派")或[幻术学派](Illusion.md "幻术学派")），最高至等级 1。这些法术是**总是预备的**。
+从[法师法术列表](List_of_Arcane_Trickster_spells.md "诡术师法术列表")中选择 2 个法术（仅限[惑控学派](Enchantment_(school).md "惑控学派")或[幻术学派](Illusion.md "幻术学派")），最高至等级 1。这些法术是**总是预备的**。
 从[法师法术列表](List_of_Wizard_spells.md "法师法术列表")中选择 1 个法术（任何法术学派），最高至等级 1。此法术是**总是预备的**。
 
 可用的新[戏法](Cantrip.md "戏法")
@@ -67,7 +67,7 @@
 - [Toll the Dead](Toll_the_Dead.md "Toll the Dead")
 - [克敌机先](True_Strike.md "克敌机先")
 
-可用的新等级 1 [惑控学派](Enchantment.md "惑控学派")和[幻术学派](Illusion.md "幻术学派")法术
+可用的新等级 1 [惑控学派](Enchantment_(school).md "惑控学派")和[幻术学派](Illusion.md "幻术学派")法术
 
 - [魅惑人类](Charm_Person.md "魅惑人类") * [目盲](Colour_Spray.md "目盲")
 - [伪装术](Disguise_Self.md "伪装术") * [睡眠](Sleep.md "睡眠")
@@ -97,7 +97,7 @@
 你获得一个额外的等级 1 法术位。
 
 [习得法术](Known_Spells.md "习得法术")
-从[诡术师法术列表](List_of_Arcane_Trickster_spells.md "诡术师法术列表")中选择 1 个法术（仅限[惑控学派](Enchantment.md "惑控学派")或[幻术学派](Illusion.md "幻术学派")）。此法术是**总是预备的**。
+从[诡术师法术列表](List_of_Arcane_Trickster_spells.md "诡术师法术列表")中选择 1 个法术（仅限[惑控学派](Enchantment_(school).md "惑控学派")或[幻术学派](Illusion.md "幻术学派")）。此法术是**总是预备的**。
 替换法术 _(可选)_
 选择 1 个[习得法术](Known_Spells.md "习得法术")，并从完整的[法师法术列表](List_of_Wizard_spells.md "法师法术列表")中替换为另一个法术。替换法术必须仍是诡术师拥有法术位的等级。
 
@@ -121,9 +121,9 @@
 你获得两个等级 2 法术位。
 
 [习得法术](Known_Spells.md "习得法术")
-从[法师法术列表](#arcane-trickster-spell-list)中选择 1 个法术（仅限[惑控学派](Enchantment.md "惑控学派")或[幻术学派](Illusion.md "幻术学派")）。此法术是**总是预备的**。
+从[法师法术列表](#arcane-trickster-spell-list)中选择 1 个法术（仅限[惑控学派](Enchantment_(school).md "惑控学派")或[幻术学派](Illusion.md "幻术学派")）。此法术是**总是预备的**。
 
-可用的新等级 2 [惑控学派](Enchantment.md "惑控学派")和[幻术学派](Illusion.md "幻术学派")法术
+可用的新等级 2 [惑控学派](Enchantment_(school).md "惑控学派")和[幻术学派](Illusion.md "幻术学派")法术
 
 - [朦胧术](Blur.md "朦胧术") *[疯狂](Crown_of_Madness.md "疯狂")* [人类定身术](Hold_Person.md "人类定身术") *[隐形](Invisibility_(spell).md "隐形")* [镜像术](Mirror_Image.md "镜像术")
 - [魅影之力](Phantasmal_Force.md "魅影之力")
@@ -175,12 +175,12 @@
 从[法师法术列表](List_of_Arcane_Trickster_spells.md "诡术师法术列表")中选择 1 个[戏法](Cantrip.md "戏法")。
 
 [习得法术](Known_Spells.md "习得法术")
-从[法师法术列表](List_of_Arcane_Trickster_spells.md "诡术师法术列表")中选择 1 个法术（仅限[惑控学派](Enchantment.md "惑控学派")或[幻术学派](Illusion.md "幻术学派")）。此法术是**总是预备的**。
+从[法师法术列表](List_of_Arcane_Trickster_spells.md "诡术师法术列表")中选择 1 个法术（仅限[惑控学派](Enchantment_(school).md "惑控学派")或[幻术学派](Illusion.md "幻术学派")）。此法术是**总是预备的**。
 
 ### 等级 11
 
 [习得法术](Known_Spells.md "习得法术")
-从[法师法术列表](List_of_Arcane_Trickster_spells.md "诡术师法术列表")中选择 1 个法术（仅限[惑控学派](Enchantment.md "惑控学派")或[幻术学派](Illusion.md "幻术学派")）。此法术是**总是预备的**。
+从[法师法术列表](List_of_Arcane_Trickster_spells.md "诡术师法术列表")中选择 1 个法术（仅限[惑控学派](Enchantment_(school).md "惑控学派")或[幻术学派](Illusion.md "幻术学派")）。此法术是**总是预备的**。
 
 ### 等级 12
 

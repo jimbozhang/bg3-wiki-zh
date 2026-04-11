@@ -224,7 +224,7 @@
 
 ## 注释
 
-- 洛若坎的执政官武器比游戏中遇到的其他执政官更弱。它们没有固有的元素伤害成分，也没有[惑控学派](Enchantment.md "Enchantment")。独特的武器能力没有改变。
+- 洛若坎的执政官武器比游戏中遇到的其他执政官更弱。它们没有固有的元素伤害成分，也没有[附魔](Enchantment.md "Enchantment")。独特的武器能力没有改变。
 - 洛若坎首次出现在 5 版《龙与地下城》的⁠[博德之门谋杀案](https://forgottenrealms.fandom.com/wiki/Murder_in_Baldur%27s_Gate)冒险以及⁠[博德之门：炼狱陷落](https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate:_Descent_into_Avernus)中。
   - 在 D&D 5e 中，他是[上城区](Upper_City.md "Upper City")[拉玛吉斯高塔](Ramazith's_Tower.md "Ramazith's Tower")的现任所有者，而[巫术杂物店](Sorcerous_Sundries.md "Sorcerous Sundries")属于另一位法师，⁠[瑞瓦伦·黑手](https://forgottenrealms.fandom.com/wiki/Rivalen_Blackhand)。洛若坎破产了，对金钱有迫切的需求，他拼命想学习已故法师拉玛吉斯藏在他塔下的财富秘密。洛若坎急于雇佣一些冒险者为他做这件事。
   - 很可能，在开发早期上城区被取消时，[拉瑞安](Larian_Studios.md "Larian Studios")不得不将洛若坎和他的故事线移到巫术杂物店，使他成为两座建筑的富有店主。也有可能[巫术杂物店地窖](Sorcerous_Vault.md "Sorcerous Vault")最初设计为拉玛吉斯的保险库，因为它具有塔楼般的特征。巫术杂物店地窖中通往大法师枢纽的门被命名为“拉玛吉斯”。

@@ -1,6 +1,6 @@
 # 缴械攻击（近战）
 
-"Disarming Attack" redirects here. For the ranged version, see [缴械攻击（远程）](Disarming_Attack_(Ranged)..md) For the similar trident weapon action, see [缴械打击](Disarming_Strike.md "缴械打击").
+「缴械攻击」重定向至此。关于远程版本，请参见 [缴械攻击（远程）](Disarming_Attack_(Ranged)..md)。关于类似的三叉戟武器动作，请参见 [缴械打击](Disarming_Strike.md "缴械打击").
 
 **缴械攻击（近战）** 是一名 [战斗大师](Battle_Master.md "战斗大师") [战士](Fighter.md "战士") 的武器动作。这项战斗策略允许战斗大师用近战武器对敌人造成伤害，并可能迫使他们掉落其 [武器](Weapons.md "武器")。
 

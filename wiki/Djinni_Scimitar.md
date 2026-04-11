@@ -17,7 +17,7 @@
 详情
 [弯刀](Scimitars.md "弯刀")
 稀有度：普通
-惑控学派：**+ 1**
+附魔：**+ 1**
 单手
 [灵巧](Finesse.md "灵巧")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")

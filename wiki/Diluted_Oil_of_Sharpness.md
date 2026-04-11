@@ -13,7 +13,7 @@
 - 价格：25 金币
 - UID `ALCH_Solution_Oil_DamageAttackBuff` UUID `955d3880-3d10-4fb5-845b-96b6b52aef9a` Stats `ALCH_Solution_Oil_DamageAttackBuff` ### 效果
 
-[附赠动作](Actions.md#Resources "动作") 将锐利之油涂抹在你的主动武器上，使其变为魔法武器并获得 +1 武器惑控学派。
+[附赠动作](Actions.md#Resources "动作") 将锐利之油涂抹在你的主动武器上，使其变为魔法武器并获得 +1 武器附魔。
 
 ## 状态：涂抹了稀释的锐利之油
 

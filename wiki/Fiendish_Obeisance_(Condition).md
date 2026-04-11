@@ -29,9 +29,9 @@
 | [蛊惑](Beguiled_(Condition).md "蛊惑 (状态)") | 此生物已被[拉斐尔](Raphael.md "拉斐尔")魅惑，无法以攻击或法术针对他。 |
 | [魅惑](Charmed_(Condition).md "魅惑 (状态)") | 无法攻击施法者。施法者在对话中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。 |
 | 邪魔服从 | 受影响实体必须服从直接控制它的邪魔的命令。 |
-| [观察者眼魔魅惑术](Spectator's_Charm_(Condition).md "观察者眼魔魅惑术 (状态)") | 一个微弱的[惑控学派](Enchantment.md "惑控学派")法术阻止此生物攻击观察者眼魔。任何伤害都可能打破它... |
+| [观察者眼魔魅惑术](Spectator's_Charm_(Condition).md "观察者眼魔魅惑术 (状态)") | 一个微弱的[惑控学派](Enchantment_(school).md "惑控学派")法术阻止此生物攻击观察者眼魔。任何伤害都可能打破它... |
 
-- 一个微弱的[惑控学派](Enchantment.md "惑控学派")法术阻止此生物攻击观察者眼魔。任何伤害都可能打破它...
+- 一个微弱的[惑控学派](Enchantment_(school).md "惑控学派")法术阻止此生物攻击观察者眼魔。任何伤害都可能打破它...
 
 ---
 *Source: [Fiendish Obeisance (Condition)](https://bg3.wiki/wiki/Fiendish_Obeisance_(Condition)*

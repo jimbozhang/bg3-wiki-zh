@@ -21,7 +21,7 @@
 详情
 [长棍](Quarterstaves.md "Quarterstaves")
 稀有度：稀有
-惑控学派：**+ 1**
+附魔：**+ 1**
 [两用](Versatile.md "Versatile")
 近战：1.5 米 (5 英尺)
 重量：1.8 千克 (3.6 磅)

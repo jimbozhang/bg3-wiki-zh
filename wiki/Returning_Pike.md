@@ -13,7 +13,7 @@
 详情
 [长矛](Pikes.md "长矛")
 稀有度：不常见 / 罕见HHonour
-惑控学派：**+ 1**
+附魔：**+ 1**
 [双手](Two-Handed.md "双手")
 [额外范围](Extra_Reach.md "额外范围")
 [投掷攻击](Thrown.md "投掷攻击")

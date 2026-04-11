@@ -22,7 +22,7 @@
 
 穿戴此物品者获得：
 
-- 除了[护甲等级](Armour_Class.md "Armour Class")惑控学派外，无其他特殊属性。
+- 除了[护甲等级](Armour_Class.md "Armour Class")附魔外，无其他特殊属性。
 
 ## 备注
 

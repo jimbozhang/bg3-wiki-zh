@@ -1,6 +1,6 @@
 # 推撞攻击（近战）
 
-"Pushing Attack" redirects here. For the ranged version, see, see [Pushing Attack (Ranged)](Pushing_Attack_(Ranged)..md) For the Titanstring Bow ability, see, see [Pushing Attack (Titanstring Bow)](Pushing_Attack_(Titanstring_Bow)..md)
+「推击攻击」重定向至此。关于远程版本，请参见 [推击攻击（远程）](Pushing_Attack_(Ranged)..md)。关于巨弦弓技能，请参见 [推击攻击（巨弦弓）](Pushing_Attack_(Titanstring_Bow)..md)
 
 **推撞攻击（近战）** 是 [战斗大师](Battle_Master.md "Battle Master") [战士](Fighter.md "Fighter") 职业的动作。这项战斗策略允许战士使用近战武器对敌人造成伤害并将其推开。
 

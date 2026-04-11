@@ -11,7 +11,7 @@
 - [中甲](Medium_Armour.md "中甲")
 - 所需熟练项: [中甲](Medium_Armour.md "中甲")
 - 稀有度: 普通
-- 惑控学派: **+ 1**
+- 附魔: **+ 1**
 - 重量: 12 kg (24 lb)
 - 价格: 360 gp
 - UID `ARM_HalfPlate_1` UUID `c3407c8d-0180-4f5a-9530-e1167e7290b3` ### 特殊
@@ -38,7 +38,7 @@
 - [中甲](Medium_Armour.md "中甲")
 - 所需熟练项: [中甲](Medium_Armour.md "中甲")
 - 稀有度: 普通
-- 惑控学派: **+ 1**
+- 附魔: **+ 1**
 - 重量: 12 kg (24 lb)
 - 价格: 360 gp
 - UID `ARM_HalfPlate_EndGame` UUID `4a712833-fe5c-4780-bc56-620972336eda` ### 特殊

@@ -15,7 +15,7 @@
 详情
 [轻弩](Light_Crossbows.md "Light Crossbows")
 稀有度：普通
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "Two-Handed")
 [可蘸取](Dippable.md "Dippable")
 射程：18 米 (60 英尺)

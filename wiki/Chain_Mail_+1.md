@@ -13,7 +13,7 @@
 - [重甲](Heavy_Armour.md "重甲")
 - 所需熟练项：[重甲](Heavy_Armour.md "重甲")
 - 稀有度：不常见
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：18 kg (36 lb)
 - 价格：260 gp
 - UID `ARM_ChainMail_1` UUID `ed7a8055-cf36-42c8-ad77-15a80d19744f` Stats `ARM_ChainMail_Body_1` File `ARM_ChainMail_A_1_Body` *File `ARM_ChainMail_A_1_Shoulderpads`* File `ARM_ChainMail_A_Pants` ### 特殊

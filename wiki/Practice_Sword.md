@@ -13,7 +13,7 @@
 详情
 [短剑](Shortswords.md "短剑")
 稀有度：普通
-惑控学派：无
+附魔：无
 单手持用
 [灵巧](Finesse.md "灵巧")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")

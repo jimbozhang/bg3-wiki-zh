@@ -17,7 +17,7 @@
 详情
 [长矛](Pikes.md "Pikes")
 稀有度：稀有
-惑控学派：**+ 2**
+附魔：**+ 2**
 [双手](Two-Handed.md "Two-Handed")
 [额外范围](Extra_Reach.md "Extra Reach")
 范围：2.5米（8英尺）

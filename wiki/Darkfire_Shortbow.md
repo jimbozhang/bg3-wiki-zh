@@ -13,7 +13,7 @@
 详情
 [短弓](Shortbows.md "Shortbows")
 稀有度：稀有
-惑控学派：**+ 2**
+附魔：**+ 2**
 [双手](Two-Handed.md "双手")
 [可蘸取](Dippable.md "可蘸取")
 射程：18 米 (60 英尺)

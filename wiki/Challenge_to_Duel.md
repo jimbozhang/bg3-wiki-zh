@@ -35,7 +35,7 @@
 ## 备注
 
 - 此动作本身不会施加[流血](Bleeding_(Condition).md "流血（状态）")。相反，每次装备[决斗者的特权](Duellist's_Prerogative.md "决斗者的特权")击中具有[强令对决](Compelled_to_Duel_(Condition).md "强令对决（状态）")的目标时，被动技能优雅决斗者会触发一次[体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")（[DC](Dice_rolls.md#Save_DCs "掷骰") 15）以开始流血。此豁免检定掷骰不会显示在战斗日志中。
-- 尽管被列为1级[惑控学派](Enchantment.md "惑控学派")法术，但此动作在技术上并非法术（缺少`IsSpell`标志）。因此，它不会与任何法术特定效果互动，如[活力披风](Vivacious_Cloak.md "活力披风")或[分裂惑控](Split_Enchantment.md "分裂惑控")。
+- 尽管被列为1级[惑控学派](Enchantment_(school).md "惑控学派")法术，但此动作在技术上并非法术（缺少`IsSpell`标志）。因此，它不会与任何法术特定效果互动，如[活力披风](Vivacious_Cloak.md "活力披风")或[分裂惑控](Split_Enchantment.md "分裂惑控")。
 - 它还使用[武器动作DC](Dice_rolls.md#Weapon_save_DC "掷骰")而非施法DC，因此受益于[高强战技](Heightened_Manoeuvre.md "高强战技")被动特性。
 - 与法术[强令对决](Compelled_Duel.md "强令对决")不同，此动作不需要[专注](Concentration.md "专注")。
 

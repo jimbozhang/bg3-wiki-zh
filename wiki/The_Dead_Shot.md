@@ -13,7 +13,7 @@
 详情
 [长弓](Longbows.md "Longbows")
 稀有度：非常稀有
-惑控学派：**+ 2**
+附魔：**+ 2**
 [双手](Two-Handed.md "Two-Handed")
 [可蘸取](Dippable.md "Dippable")
 射程：18米（60英尺）

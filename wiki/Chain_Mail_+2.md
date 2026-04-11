@@ -13,7 +13,7 @@
 - [重甲](Heavy_Armour.md "重甲")
 - 所需熟练项：[重甲](Heavy_Armour.md "重甲")
 - 稀有度：稀有
-- 惑控学派：**+ 2**
+- 附魔：**+ 2**
 - 重量：18 千克（36 磅）
 - 价格：770 金币
 - UID `ARM_ChainMail_2` UUID `d8120501-e5bb-4eb1-b5cf-120b8bfd2ab2` ### 特殊

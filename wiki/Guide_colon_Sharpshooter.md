@@ -271,7 +271,7 @@ BG3中的战斗通常持续1-4回合。
 
 [手弩](Hand_Crossbows.md "Hand Crossbows")本身造成1d6⁠⁠[穿刺](Piercing.md "Piercing")伤害，平均为3.5⁠⁠[穿刺](Piercing.md "Piercing")。
 在此基础上，[敏捷](Dexterity.md "Dexterity")增加**3-5**点伤害，平均+4⁠⁠[穿刺](Piercing.md "Piercing")伤害。
-武器[惑控学派](Enchantment.md "Enchantment")通常增加+1⁠⁠[穿刺](Piercing.md "Piercing")伤害。
+武器[附魔](Enchantment.md "Enchantment")通常增加+1⁠⁠[穿刺](Piercing.md "Piercing")伤害。
 [神射手](Sharpshooter.md "Sharpshooter")增加+10⁠⁠[穿刺](Piercing.md "Piercing")。
 所有这些加起来总计18.5⁠⁠[穿刺](Piercing.md "Piercing")，四舍五入为20⁠⁠[穿刺](Piercing.md "Piercing")。
 实际上，你的角色可以拥有多个物品，每次命中增加更多伤害，因此每次攻击**20**点伤害听起来是一个合理的平均值。

@@ -19,7 +19,7 @@
 详情
 [重弩](Heavy_Crossbows.md "Heavy Crossbows")
 稀有度：稀有
-惑控学派：**+ 2**
+附魔：**+ 2**
 [双手](Two-Handed.md "Two-Handed")
 射程：18 米 (60 英尺)
 重量：8.1 千克 (16.2 磅)

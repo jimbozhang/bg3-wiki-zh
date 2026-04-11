@@ -1,6 +1,6 @@
 # 挥砍华舞（近战）
 
-"Slashing Flourish" redirects here. For the ranged version, see [挥砍华舞（远程）](Slashing_Flourish_(Ranged)..md)
+「挥砍华舞」重定向至此。关于远程版本，请参见 [挥砍华舞（远程）](Slashing_Flourish_(Ranged)..md)
 
 **挥砍华舞（近战）** 是一种 [剑舞学院](College_of_Swords.md "剑舞学院") 吟游诗人的武器动作。它允许吟游诗人使用 [诗人激励](Bardic_Inspiration_(resource).md) 进行一次横扫的近战武器攻击，该攻击会造成额外伤害，并且可以击中最多两个敌人。
 

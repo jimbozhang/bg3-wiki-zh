@@ -13,7 +13,7 @@
 - [重甲](Heavy_Armour.md "Heavy Armour")
 - 所需熟练项：[重甲](Heavy_Armour.md "Heavy Armour")
 - 稀有度：罕见
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：20 kg (40 lb)
 - 价格：800 gp
 - UID `ARM_Nightsong` UUID `bc4d3f9d-714c-4c40-a54c-b974c8e9d0c6` Stats `ARM_Plate_Body_1` ### 特殊效果

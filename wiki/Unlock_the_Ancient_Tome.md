@@ -1,6 +1,6 @@
 # 解锁古代典籍
 
-"Ancient tome" redirects here. For the quest to destroy the tome, see [摧毁古代典籍](Destroy_the_Ancient_Tome.md "摧毁古代典籍").
+「古代典籍」重定向至此。关于摧毁典籍的任务，请参见 [摧毁古代典籍](Destroy_the_Ancient_Tome.md "摧毁古代典籍").
 
 塞尔死灵法术已开启...
 

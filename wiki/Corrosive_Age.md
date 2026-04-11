@@ -1,6 +1,6 @@
 # 腐蚀年代
 
-**腐蚀年代**是一个[法术](Spells.md "法术")。此法术是[元素年代](Elemental_Age.md "Elemental Age")的变体，使你的*主手武器*蕴含腐蚀年代，为其附加强酸伤害加成和+1[惑控学派](Enchantment.md "Enchantment")。
+**腐蚀年代**是一个[法术](Spells.md "法术")。此法术是[元素年代](Elemental_Age.md "Elemental Age")的变体，使你的*主手武器*蕴含腐蚀年代，为其附加强酸伤害加成和+1[附魔](Enchantment.md "Enchantment")。
 
 ## 描述
 

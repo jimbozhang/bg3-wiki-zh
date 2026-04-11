@@ -1,6 +1,6 @@
 # 钉刺 (小魔鬼)
 
-"Sting" redirects here. For the version used by the Cursed Imp, see [Sting (Cursed Imp)](Sting_(Cursed_Imp)..md)
+「钉刺」重定向至此。关于被诅咒的小恶魔版本，请参见 [钉刺（被诅咒的小恶魔）](Sting_(Cursed_Imp)..md)
 
 **钉刺**是[获得魔宠：小魔鬼](Find_Familiar_colon__Imp.md "获得魔宠：小魔鬼")使用的基本攻击。这是一种啃咬攻击，如果目标豁免检定失败，有可能造成额外的[中毒](Poison.md "中毒")伤害。
 

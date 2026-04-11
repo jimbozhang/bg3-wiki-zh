@@ -17,7 +17,7 @@
 详情
 [短剑](Shortswords.md "Shortswords")
 稀有度：传奇
-惑控学派：**+ 2**
+附魔：**+ 2**
 单手
 [灵巧](Finesse.md "Finesse")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")

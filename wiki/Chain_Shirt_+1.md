@@ -13,7 +13,7 @@
 - [中甲](Medium_Armour.md "中甲")
 - 所需熟练项: [中甲](Medium_Armour.md "中甲")
 - 稀有度: 不常见
-- 惑控学派: **+ 1**
+- 附魔: **+ 1**
 - 重量: 9 公斤 (18 磅)
 - 价格: 130 金币
 - UID `ARM_ChainShirt_1` UUID `eac652ed-ecf7-4505-bf64-0fec29e7d677` Stats `ARM_ChainShirt_Body_1` File `ARM_ChainShirt_A_1_Body` *File `ARM_ChainShirt_A_1_Shoulderpads`* File `ARM_ChainShirt_A_2_Pants` ### 特殊

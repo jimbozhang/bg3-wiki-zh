@@ -1,6 +1,6 @@
 # 攻击
 
-"Attack" redirects here. For melee Attack, see [主手攻击](Main_Hand_Attack.md "主手攻击"). For ranged Attack, see [远程攻击](Ranged_Attack.md "远程攻击"). For melee bonus Attack, see [副手攻击（近战）](Off-Hand_Attack_(Melee)..md) For ranged bonus Attack, see [副手攻击（远程）](Off-Hand_Attack_(Ranged)..md) For other uses, see [攻击（消歧义）](Attack_(disambiguation)..md)
+「攻击」重定向至此。关于近战攻击，请参见 [主手攻击](Main_Hand_Attack.md "主手攻击")。关于远程攻击，请参见 [远程攻击](Ranged_Attack.md "远程攻击")。关于近战附赠攻击，请参见 [副手攻击（近战）](Off-Hand_Attack_(Melee)..md)。关于远程附赠攻击，请参见 [副手攻击（远程）](Off-Hand_Attack_(Ranged)..md)。关于其他用途，请参见 [攻击（消歧义）](Attack_(disambiguation)..md)
 
 **攻击**是[生物](Creatures.md "生物")试图击中目标的尝试，通常使用[武器](Weapon.md "武器")或[法术](Spells.md "法术")。
 
@@ -43,12 +43,12 @@
 
 - 徒手攻击、近战武器攻击和投掷武器攻击通常增加攻击生物的[力量](Strength.md "力量")调整值。
 - 使用远程武器进行的攻击增加生物的[敏捷](Dexterity.md "敏捷")调整值。
-- 具有[灵巧](Finesse.md "灵巧")属性的武器进行的攻击或[武僧](Monk.md "武僧")武器以及具有[ martial arts: dextrous attacks](Martial_Arts_colon__Dextrous_Attacks.md "Martial Arts: Dextrous Attacks")的生物进行的徒手攻击，会增加攻击者的力敏调整值中较高的那个。
+- 具有[灵巧](Finesse.md "灵巧")属性的武器进行的攻击或[武僧](Monk.md "武僧")武器以及具有[武艺：灵巧攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：灵巧攻击")的生物进行的徒手攻击，会增加攻击者的力敏调整值中较高的那个。
 - 法术攻击增加施法者的[施法关键属性调整值](Spells.md#Spellcasting "施法关键属性调整值)，通常由其[职业](Class.md "职业")决定。
 
 法术攻击、徒手攻击以及攻击者熟练的武器攻击还会增加其[熟练项](Proficiency.md "熟练项")加值。某些攻击还会增加额外调整值：
 
-- 如果攻击者使用[惑控学派](Enchantment.md "惑控学派")武器，则会增加附魔值，从+1到+3。
+- 如果攻击者使用[附魔](Enchantment.md "附魔")武器，则会增加附魔值，从+1到+3。
 - 根据[高地规则](High_ground_rules.md "高地规则")，从至少2.5米（8英尺）高处攻击会为攻击掷骰提供+2加值，而从至少2.5米（8英尺）低处攻击会施加-2惩罚。
 
 攻击掷骰还会受到以下因素的修改：

@@ -15,7 +15,7 @@
 详情
 [手弩](Hand_Crossbows.md "Hand Crossbows")
 稀有度：普通
-惑控学派：无
+附魔：无
 单手
 [轻型](Light_(weapon_property).md "Light (weapon property)")
 [可蘸取](Dippable.md "Dippable")

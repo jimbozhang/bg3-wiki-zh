@@ -13,7 +13,7 @@
 详情
 [巨斧](Greataxes.md "Greataxes")
 稀有度：常见
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "双手")
 [可蘸取](Dippable.md "可蘸取")
 近战：1.5 米 (5 英尺)
@@ -51,7 +51,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 详情
 [巨斧](Greataxes.md "Greataxes")
 稀有度：常见
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "双手")
 [可蘸取](Dippable.md "可蘸取")
 近战：1.5 米 (5 英尺)

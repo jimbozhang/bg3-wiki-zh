@@ -13,7 +13,7 @@
 详情
 [长矛](Pikes.md "Pikes")
 稀有度：常见
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "Two-Handed")
 [额外范围](Extra_Reach.md "Extra Reach")
 [可蘸取](Dippable.md "Dippable")

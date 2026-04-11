@@ -1,6 +1,6 @@
 # 移动华舞（近战）
 
-"Mobile Flourish" redirects here. For the ranged version, see [移动华舞（远程）](Mobile_Flourish_(Ranged)..md)
+「移动华舞」重定向至此。关于远程版本，请参见 [移动华舞（远程）](Mobile_Flourish_(Ranged)..md)
 
 **移动华舞（近战）** 是 [剑舞学院](College_of_Swords.md "剑舞学院") 吟游诗人的武器动作。此华舞策略允许吟游诗人使用 [诗人激励](Bardic_Inspiration_(resource).md) 以近战武器对目标造成额外伤害，并将其击退。随后，您可以传送至其身边。
 

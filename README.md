@@ -6,6 +6,25 @@
 
 ---
 
+## 中英文对照表
+
+翻译本项目时，所有人名、地名、法术、物品、状态效果及游戏术语均以官方简体中文本地化为准。为此，我们从游戏本体的本地化资源文件中提取并整理了一份完整的中英文对照词汇表：
+
+**[GLOSSARY.md](GLOSSARY.md)** — 共 10,000+ 条词条，分为 22 个类别。
+
+该词汇表通过 [`resource/extract_glossary.py`](resource/extract_glossary.py) 脚本自动生成，数据来源包括：
+
+- `resource/Tooltips.json` — 游戏工具提示数据（含类型标注：Spell / Status / Passive / ActionResource 等），用于对词条进行初步分类
+- `resource/Tooltips_zh-CN.glo.txt` — 工具提示的中英文对照（UTF-16LE 编码的制表符分隔文件）
+- `resource/String_ENGtoCHS.glo.txt` — 游戏全量字符串的中英文对照（约 17 万行），涵盖 UI 文本、物品名称、技能描述、对话等
+- `resource/String/EnglishString/.../english.xml` 与 `resource/String/ChineseString/.../chinese.xml` — 游戏的完整本地化 XML（共约 22 万条），通过 `contentuid` 中英文交叉匹配
+
+脚本的处理流程：解析上述四个数据源 → 去除 XML/HTML 标签 → 过滤对话、旁白、角色自定义等噪声 → 基于工具提示类型和关键词规则进行分类 → 与 Wiki 页面文件名交叉比对以保留翻译相关的词条 → 去重合并 → 输出为 Markdown 表格。
+
+**局限性：** 该词汇表仍存在一定数量的无用条目，例如混入的对话片段、角色自定义选项（发型/肤色编号等）、内部调试文本，以及被错误分类的词条。这是因为游戏本地化文件本身不区分"术语名称"和"一般文本"——所有 UI 文本、对话、物品描述、系统提示等都混在同一批字符串中。脚本只能通过字符串长度、标点符号、代词、关键词匹配等启发式规则进行筛选，难以做到完全精确。
+
+---
+
 ## 版权声明
 
 本项目原始内容来自 [bg3.wiki](https://bg3.wiki)，基于 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 及/或 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可发布，详见[版权说明](wiki/bg3wiki_colon_Copyrights.md)和[许可协议](wiki/bg3wiki_colon_Licensing.md)。
@@ -116,22 +135,3 @@
 
 **外部链接：**
 [Larian 反馈](https://larian.com/support/baldur-s-gate-3#modal) · [官方 Mod 文档](https://docs.baldursgate3.game/index.php?title=Main_Page) · [游戏文件搜索](https://bg3.norbyte.dev/) · [互动地图](https://mapgenie.io/baldurs-gate-3) · [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
-
----
-
-## 中英文对照表
-
-翻译本项目时，所有人名、地名、法术、物品、状态效果及游戏术语均以官方简体中文本地化为准。为此，我们从游戏本体的本地化资源文件中提取并整理了一份完整的中英文对照词汇表：
-
-**[GLOSSARY.md](GLOSSARY.md)** — 共 10,000+ 条词条，分为 22 个类别。
-
-该词汇表通过 [`resource/extract_glossary.py`](resource/extract_glossary.py) 脚本自动生成，数据来源包括：
-
-- `resource/Tooltips.json` — 游戏工具提示数据（含类型标注：Spell / Status / Passive / ActionResource 等），用于对词条进行初步分类
-- `resource/Tooltips_zh-CN.glo.txt` — 工具提示的中英文对照（UTF-16LE 编码的制表符分隔文件）
-- `resource/String_ENGtoCHS.glo.txt` — 游戏全量字符串的中英文对照（约 17 万行），涵盖 UI 文本、物品名称、技能描述、对话等
-- `resource/String/EnglishString/.../english.xml` 与 `resource/String/ChineseString/.../chinese.xml` — 游戏的完整本地化 XML（共约 22 万条），通过 `contentuid` 中英文交叉匹配
-
-脚本的处理流程：解析上述四个数据源 → 去除 XML/HTML 标签 → 过滤对话、旁白、角色自定义等噪声 → 基于工具提示类型和关键词规则进行分类 → 与 Wiki 页面文件名交叉比对以保留翻译相关的词条 → 去重合并 → 输出为 Markdown 表格。
-
-**局限性：** 该词汇表仍存在一定数量的无用条目，例如混入的对话片段、角色自定义选项（发型/肤色编号等）、内部调试文本，以及被错误分类的词条。这是因为游戏本地化文件本身不区分"术语名称"和"一般文本"——所有 UI 文本、对话、物品描述、系统提示等都混在同一批字符串中。脚本只能通过字符串长度、标点符号、代词、关键词匹配等启发式规则进行筛选，难以做到完全精确。

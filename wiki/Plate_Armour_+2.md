@@ -11,7 +11,7 @@
 - [重甲](Heavy_Armour.md "重甲")
 - 所需熟练项：[重甲](Heavy_Armour.md "重甲")
 - 稀有度：稀有
-- 惑控学派：**+ 2**
+- 附魔：**+ 2**
 - 重量：20 kg (40 lb)
 - 价格：2400 gp
 - UID `ARM_Plate_Body_2` UUID `fdb8ce53-51dc-4ccb-9e29-d1d99040e60b` ### 特殊

@@ -1,6 +1,6 @@
 # 摔绊攻击（近战）
 
-"Trip Attack" redirects here. For the ranged version, see [摔绊攻击（远程）](Trip_Attack_(Ranged)..md)
+「摔绊攻击」重定向至此。关于远程版本，请参见 [摔绊攻击（远程）](Trip_Attack_(Ranged)..md)
 
 **摔绊攻击（近战）** 是 [战斗大师](Battle_Master.md "战斗大师") 战士的武器动作。此战斗策略允许战斗大师用近战武器对敌人造成伤害，并可能将其击倒在地。
 

@@ -17,7 +17,7 @@
 详情
 [长棍](Quarterstaves.md "Quarterstaves")
 稀有度：稀有
-惑控学派：无
+附魔：无
 [两用](Versatile.md "两用")
 [可蘸取](Dippable.md "Dippable")
 可被[盖尔](Gale.md "Gale")[消耗](List_of_Items_consumable_by_Gale.md "盖尔可消耗物品列表")

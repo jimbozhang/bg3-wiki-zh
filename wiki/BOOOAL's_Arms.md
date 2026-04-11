@@ -13,7 +13,7 @@
 详情
 [标枪](Javelins.md "Javelins")
 稀有度：普通
-惑控学派：无
+附魔：无
 单手
 [投掷攻击](Thrown.md "Thrown")
 近战：1.5米（5英尺）

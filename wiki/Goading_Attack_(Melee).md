@@ -1,6 +1,6 @@
 # 挑衅攻击（近战）
 
-"Goading Attack" redirects here. For the ranged version, see [Goading Attack (Ranged)](Goading_Attack_(Ranged)..md)
+「挑衅攻击」重定向至此。关于远程版本，请参见 [挑衅攻击（远程）](Goading_Attack_(Ranged)..md)
 
 **挑衅攻击（近战）** 是一种 [战斗大师](Battle_Master.md "战斗大师") 武器动作。这项战斗策略允许战斗大师嘲讽另一个生物攻击它，同时造成额外伤害。
 

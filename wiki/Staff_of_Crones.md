@@ -17,7 +17,7 @@
 详情
 [长棍](Quarterstaves.md "Quarterstaves")
 稀有度：不常见
-惑控学派：无
+附魔：无
 [两用](Versatile.md "两用")
 [可蘸取](Dippable.md "Dippable")
 近战：1.5 米 (5 英尺)

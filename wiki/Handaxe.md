@@ -15,7 +15,7 @@
 详情
 [手斧](Handaxes.md "Handaxes")
 稀有度：普通
-惑控学派：无
+附魔：无
 单手
 [轻型](Light_(weapon_property).md "Light (weapon property)")
 [投掷攻击](Thrown.md "投掷攻击")

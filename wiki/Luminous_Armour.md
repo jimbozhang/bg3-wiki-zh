@@ -13,7 +13,7 @@
 - [中甲](Medium_Armour.md "中甲")
 - 所需熟练项：[中甲](Medium_Armour.md "中甲")
 - 稀有度：罕见
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：9 公斤 (18 磅)
 - 价格：250 金币
 - UID `MAG_Radiant_RadiatingOrb_Armor` UUID `a2cbaf4f-3eb8-4362-9f2e-d325a0d47a36` Stats `MAG_Radiant_RadiatingOrb_Armor` 文件 `ARM_BreastPlate_A_1_Body` * 文件 `ARM_BreastPlate_A_1_Pants` ### 特殊效果

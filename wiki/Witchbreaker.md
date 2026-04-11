@@ -17,7 +17,7 @@
 详情
 [战斧](Battleaxes.md "战斧")
 稀有度：不常见
-惑控学派：**+ 1**
+附魔：**+ 1**
 [两用](Versatile.md "两用")
 [可蘸取](Dippable.md "可蘸取")
 [可消耗](List_of_Items_consumable_by_Gale.md "盖尔可消耗物品列表") 由 [盖尔](Gale.md "盖尔")

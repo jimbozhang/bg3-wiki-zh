@@ -13,7 +13,7 @@
 - [盾牌](Shields.md "盾牌")
 - 所需熟练项：[盾牌](Shields.md "盾牌")
 - 稀有度：普通
-- 惑控学派：
+- 附魔：
 - 重量：2.7 千克（5.4 磅）
 - 价格：45 金币
 - UID `MAG_Druid_Ironvine_Shield` UUID `eb06636a-8052-492e-bfb1-67fcb18358d1` Stats `MAG_Druid_Ironvine_Shield` ### 特殊

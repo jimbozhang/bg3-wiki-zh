@@ -95,7 +95,7 @@
 
 大厅西端是通往一楼的楼梯。通往一楼的门未上锁，但禁止进入。
 
-客户大厅周围摆放的几个展示柜是红色轮廓的，包含普通或+1[惑控学派](Enchantment.md "惑控学派")[精良](https://bg3.wiki/w/index.php?title=Uncommon&action=edit&redlink=1 "精良（页面不存在）")武器和/或盔甲部件，或普通贵重物品。较大的柜子上了锁，需要DC 10的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")才能打开。
+客户大厅周围摆放的几个展示柜是红色轮廓的，包含普通或+1[附魔](Enchantment.md "附魔")[精良](https://bg3.wiki/w/index.php?title=Uncommon&action=edit&redlink=1 "精良（页面不存在）")武器和/或盔甲部件，或普通贵重物品。较大的柜子上了锁，需要DC 10的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")才能打开。
 
 ### 一楼
 

@@ -1,6 +1,6 @@
 # 策动攻击（近战）
 
-"Manoeuvring Attack" redirects here. For the ranged version, see [Manoeuvring Attack (Ranged)](Manoeuvring_Attack_(Ranged)..md)
+「策动攻击」重定向至此。关于远程版本，请参见 [策动攻击（远程）](Manoeuvring_Attack_(Ranged)..md)
 
 **策动攻击（近战）** 是 [战斗大师](Battle_Master.md "战斗大师") 武器动作。在近战攻击命中后，战斗大师可以为一名盟友提供额外的 [移动速度](Movement_speed.md "移动速度") 并使其在一 [驱散](Turn.md "Turn") 内免疫 [借机攻击](Opportunity_Attack.md "Opportunity Attack")。
 

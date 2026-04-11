@@ -13,7 +13,7 @@
 详情
 [轻锤](Light_Hammers.md "Light Hammers")
 稀有度：不常见
-惑控学派：**+ 1**
+附魔：**+ 1**
 单手
 [轻型](Light_(weapon_property).md "Light (weapon property)")
 [投掷攻击](Thrown.md "Thrown")

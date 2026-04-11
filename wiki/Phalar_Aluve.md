@@ -20,7 +20,7 @@
 详情
 [长剑](Longswords.md "长剑")
 稀有度：稀有
-惑控学派：**+ 1**
+附魔：**+ 1**
 [两用](Versatile.md "两用")
 [灵巧](Finesse.md "灵巧")
 [可蘸取](Dippable.md "可蘸取")

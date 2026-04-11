@@ -13,7 +13,7 @@ For the equipment type, see [Greatswords](Greatswords.md "Greatswords").
 详情
 [巨剑](Greatswords.md "巨剑")
 稀有度：普通
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "双手")
 [可蘸取](Dippable.md "可蘸取")
 近战：1.5 米 (5 英尺)
@@ -51,7 +51,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 详情
 [巨剑](Greatswords.md "巨剑")
 稀有度：普通
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "双手")
 [可蘸取](Dippable.md "可蘸取")
 近战：1.5 米 (5 英尺)

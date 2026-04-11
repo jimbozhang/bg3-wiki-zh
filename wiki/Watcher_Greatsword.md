@@ -13,7 +13,7 @@
 详情
 [巨剑](Greatswords.md "Greatswords")
 稀有度：普通
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "Two-Handed")
 近战：1.5米（5英尺）
 重量：100千克（200磅）

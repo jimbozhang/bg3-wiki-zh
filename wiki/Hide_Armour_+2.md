@@ -13,7 +13,7 @@
 - [中甲](Medium_Armour.md "中甲")
 - 所需熟练项：[中甲](Medium_Armour.md "中甲")
 - 稀有度：稀有
-- 惑控学派：**+ 2**
+- 附魔：**+ 2**
 - 重量：5.4 千克 (10.8 磅)
 - 价格：310 金币
 - UID `ARM_Hide_2` UUID `fd4ab5b0-67e6-4a8b-8745-2003f2f5ada3` Stats `ARM_Hide_Body_2` ### 特殊效果

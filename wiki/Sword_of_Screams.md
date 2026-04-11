@@ -17,7 +17,7 @@
 详情
 [刺剑](Rapiers.md "Rapiers")
 稀有度：不常见
-惑控学派：无
+附魔：无
 单手
 [灵巧](Finesse.md "Finesse")
 [可蘸取](Dippable.md "Dippable")

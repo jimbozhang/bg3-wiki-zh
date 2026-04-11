@@ -15,7 +15,7 @@
 详情
 [匕首](Daggers.md "Daggers")
 稀有度：罕见
-惑控学派：无
+附魔：无
 单手
 [灵巧](Finesse.md "Finesse")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")

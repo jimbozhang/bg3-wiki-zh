@@ -21,7 +21,7 @@
 详情
 [短矛](Spears.md "Spears")
 稀有度：稀有
-惑控学派：**+ 1**
+附魔：**+ 1**
 [两用](Versatile.md "Versatile")
 [投掷攻击](Thrown.md "Thrown")
 近战：1.5 米 (5 英尺)

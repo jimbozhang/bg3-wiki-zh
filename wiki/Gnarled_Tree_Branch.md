@@ -15,7 +15,7 @@
 详情
 [巨棒](Greatclubs.md "Greatclubs")
 稀有度：普通
-惑控学派：无
+附魔：无
 [双手](Two-Handed.md "Two-Handed")
 近战：1.5米（5英尺）
 重量：8.5千克（17磅）

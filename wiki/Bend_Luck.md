@@ -1,6 +1,6 @@
 # 扭曲幸运
 
-"Bend Luck" redirects here. For the passive feature, see, see [扭曲幸运（被动特性）](Bend_Luck_(passive_feature)..md)
+「扭曲幸运」重定向至此。关于被动特性，请参见 [扭曲幸运（被动特性）](Bend_Luck_(passive_feature)..md)
 
 **扭曲幸运** 是 [狂野魔法](Wild_Magic_(sorcerer_subclass).md) 术士可用的自由动作和反应，可为目标的攻击掷骰、属性检定或豁免检定提供加值或减值。
 

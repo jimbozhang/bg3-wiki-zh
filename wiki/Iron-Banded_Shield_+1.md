@@ -1,6 +1,6 @@
 # 铁条盾 +1
 
-铁条盾 +1 是一件稀有[盾牌](Shields.md "Shields")，其[惑控学派](Enchantment.md "Enchantment")能提升其[护甲等级](Armour_Class.md "Armour Class")加值。
+铁条盾 +1 是一件稀有[盾牌](Shields.md "Shields")，其[附魔](Enchantment.md "Enchantment")能提升其[护甲等级](Armour_Class.md "Armour Class")加值。
 
 这面厚实的橡木盾牌用粗锻铁框架加固。
 
@@ -13,14 +13,14 @@
 - [盾牌](Shields.md "Shields")
 - 所需熟练项：[盾牌](Shields.md "Shields")
 - 稀有度：稀有
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：2.7 千克 (5.4 磅)
 - 价格：300 金币
 - UID `WPN_Drow_Shield_A_0_Absolute` UUID `26b81847-b0dd-4150-aef7-602fcbb72eca` ### 特殊效果
 
 此物品的穿戴者获得：
 
-- 除了[护甲等级](Armour_Class.md "Armour Class")惑控学派外，无特殊属性。
+- 除了[护甲等级](Armour_Class.md "Armour Class")附魔外，无特殊属性。
 
 ## 获取地点
 
@@ -29,7 +29,7 @@
 
 # 变体
 
-铁条盾 +1 是一件稀有[盾牌](Shields.md "Shields")，其[惑控学派](Enchantment.md "Enchantment")能提升其[护甲等级](Armour_Class.md "Armour Class")加值。
+铁条盾 +1 是一件稀有[盾牌](Shields.md "Shields")，其[附魔](Enchantment.md "Enchantment")能提升其[护甲等级](Armour_Class.md "Armour Class")加值。
 
 尽管盾牌表面有众多细小划痕，但没有一把刀刃能在厚重的木头上留下凹痕。
 
@@ -42,14 +42,14 @@
 - [盾牌](Shields.md "Shields")
 - 所需熟练项：[盾牌](Shields.md "Shields")
 - 稀有度：稀有
-- 惑控学派：**+ 1**
+- 附魔：**+ 1**
 - 重量：2.7 千克 (5.4 磅)
 - 价格：300 金币
 - UID `WPN_HUM_Shield_B_1` UUID `a28ecc05-b67b-493b-8cd2-ac7229e703d2` ### 特殊效果
 
 此物品的穿戴者获得：
 
-- 除了[护甲等级](Armour_Class.md "Armour Class")惑控学派外，无特殊属性。
+- 除了[护甲等级](Armour_Class.md "Armour Class")附魔外，无特殊属性。
 
 ## 获取地点
 
