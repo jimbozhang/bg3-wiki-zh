@@ -5,7 +5,7 @@
 | 身份 | 男性 |
 | 配音 | - [Dario Coates](https://www.imdb.com/name/nm2872353/) |
 | 体型 | [小型](Small.md "小型") |
-| 类型 | [类人生物](Humanoid.md "人类生物") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [侏儒](Gnome.md "侏儒") |
 | 等级 | 1 |
 | 生命值 | 20 |

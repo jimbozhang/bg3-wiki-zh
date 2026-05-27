@@ -58,14 +58,14 @@
 
 以下是所有状态属性的列表：
 
-[表演](Status_properties/Performing.md "状态属性/表演")
+[表演](Status_properties/Performing.md "表演")
 |
 [引发战斗](Status_properties/InitiateCombat.md "状态属性/引发战斗")
 |
 | 名称 | 描述 |
 | --- | --- |
 | [无](Status_properties/None.md "状态属性/无") |  |
-| [表演](Status_properties/Performing.md "状态属性/表演") |  |
+| [表演](Status_properties/Performing.md "表演") |  |
 | [引发战斗](Status_properties/InitiateCombat.md "状态属性/引发战斗") |  |
 | [带入战斗](Status_properties/BringIntoCombat.md "状态属性/带入战斗") | 当应用带有此标签的状态时：队伍被迫进入战斗。 |
 | [强制头顶显示](Status_properties/ForceOverhead.md "状态属性/强制头顶显示") | 应用和移除状态时，将在生物模型上方显示该状态。 |
@@ -81,7 +81,7 @@
 | [切换](Status_properties/Toggle.md "状态属性/切换") |  |
 | [忽略休息](Status_properties/IgnoreResting.md "状态属性/忽略休息") | 此状态在[长休](Long_Rest.md "长休")后不会被移除。 |
 | [被定身忽略](Status_properties/IgnoredByImmobilized.md "状态属性/被定身忽略") |  |
-| [目盲](Status_properties/Blind.md "状态属性/目盲") |  |
+| [目盲](Status_properties/Blind.md "目盲") |  |
 | [效果乘以持续时间](Status_properties/MultiplyEffectsByDuration.md "状态属性/效果乘以持续时间") | 此状态的效果乘以剩余回合数。 |
 | [随来源节拍](Status_properties/TickingWithSource.md "状态属性/随来源节拍") | 持续时间在状态来源的回合减少。 |
 | [禁用头顶显示](Status_properties/DisableOverhead.md "状态属性/禁用头顶显示") | 应用和移除状态时，不在生物模型上方显示该状态。 |
@@ -139,7 +139,7 @@
 | 名称 | 描述 |
 | --- | --- |
 | [无](Status_properties/None.md "状态属性/无") |  |
-| [表演](Status_properties/Performing.md "状态属性/表演") |  |
+| [表演](Status_properties/Performing.md "表演") |  |
 | [引发战斗](Status_properties/InitiateCombat.md "状态属性/引发战斗") |  |
 | [带入战斗](Status_properties/BringIntoCombat.md "状态属性/带入战斗") | 当应用带有此标签的状态时：队伍被迫进入战斗。 |
 | [强制头顶显示](Status_properties/ForceOverhead.md "状态属性/强制头顶显示") | 应用和移除状态时，将在生物模型上方显示该状态。 |
@@ -155,7 +155,7 @@
 | [切换](Status_properties/Toggle.md "状态属性/切换") |  |
 | [忽略休息](Status_properties/IgnoreResting.md "状态属性/忽略休息") | 此状态在[长休](Long_Rest.md "长休")后不会被移除。 |
 | [被定身忽略](Status_properties/IgnoredByImmobilized.md "状态属性/被定身忽略") |  |
-| [目盲](Status_properties/Blind.md "状态属性/目盲") |  |
+| [目盲](Status_properties/Blind.md "目盲") |  |
 | [效果乘以持续时间](Status_properties/MultiplyEffectsByDuration.md "状态属性/效果乘以持续时间") | 此状态的效果乘以剩余回合数。 |
 | [随来源节拍](Status_properties/TickingWithSource.md "状态属性/随来源节拍") | 持续时间在状态来源的回合减少。 |
 | [禁用头顶显示](Status_properties/DisableOverhead.md "状态属性/禁用头顶显示") | 应用和移除状态时，不在生物模型上方显示该状态。 |

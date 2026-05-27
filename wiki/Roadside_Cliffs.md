@@ -42,7 +42,7 @@
 
 疮痍的海滩是[第一幕](Act_One.md "第一幕")的起点，玩家角色在[鹦鹉螺](Nautiloid.md "鹦鹉螺")坠毁后在此醒来。它位于[奇恩萨河](River_Chionthar.md "奇恩萨河")的河岸上；该区域被坠毁的残骸所主导。坠毁的飞船从西北延伸到东北；其巨大的触手仍在搏动，周围的沙石上散落着组织碎片和船体碎片。
 
-[阿斯代伦](Astarion.md "Astarion")、[盖尔](Gale.md "Gale")、[莱埃泽尔](Lae'zel.md "Lae'zel")和[影心](Shadowheart.md "Shadow心")可以在该区域的不同地点被招募到队伍中。
+[阿斯代伦](Astarion.md "Astarion")、[盖尔](Gale.md "Gale")、[莱埃泽尔](Lae'zel.md "Lae'zel")和[影心](Shadowheart.md "影心")可以在该区域的不同地点被招募到队伍中。
 
 ### 南部和东部海滩
 

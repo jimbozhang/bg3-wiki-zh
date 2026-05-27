@@ -5,7 +5,7 @@
 | 身份 | 女性 |
 | 配音 | - [Carla Mendonça](https://www.imdb.com/name/nm0579185/) |
 | 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "人类生物") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
 | 等级 | 8 |
 | 生命值 | 76 |

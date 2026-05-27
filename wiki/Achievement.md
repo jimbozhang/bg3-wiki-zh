@@ -14,7 +14,7 @@ Escapologist | 被捕后越狱——你真是胆大包天？ |  | Expand Your Mi
 First Blood | 在奥莉恩的邪教徒进行仪式吟唱时杀死她。 | 是 | Fists of Fury | 用[徒手打击](Unarmed_Strike.md "徒手打击")杀死一个角色。<sup>[\[1\]](#cite_note-1)</sup> |  |
 Foehammer | 在[荣誉](Honour.md "荣誉")模式下完成游戏。 | 是 (GOG) | Forged in Blood and Fire | 在[精金熔炉](Adamantine_Forge_(location)中制作一件物品.md)。 | 是 |
 Hero of the Forgotten Realms | 拯救世界：杀死耐色脑并摧毁至上寄生虫。 | 是 | Homebrewer | 在单次游戏流程中创造三种独特的[炼金术](Alchemy.md "炼金术")——干杯！ |  |
-Hot Date | 与[卡菈克](Karlach.md "卡尔拉克")约会——这可真是玩火。 | 是 | Interfectorem Draconis | 杀死[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")。 | 是 |
+Hot Date | 与[卡菈克](Karlach.md "卡菈克")约会——这可真是玩火。 | 是 | Interfectorem Draconis | 杀死[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")。 | 是 |
 Jack-of-all-Trades | 在单次游戏流程中多重职业至所有职业，而无需让守墓人更改你的角色。<sup>[\[2\]](#cite_note-2)</sup> |  | Just a Nibble | 让[阿斯代伦](Astarion.md "阿斯代伦")咬你一口——哎哟。 | 是 |
 Kill Two Birds With One Gnome | 用一个敌人作为即兴武器攻击另一个敌人。<sup>[\[3\]](#cite_note-3)</sup> |  | [Leave No One Behind](Leave_No_One_Behind.md "不落一人") | 在单次游戏流程中拯救所有你能救的提夫林难民。 | 是 |
 Loophole | 打破[威尔](Wyll.md "威尔")与[米佐拉](Mizora.md "米佐拉")的契约。 | 是 | Mind Blown | 与[君主](The_Emperor.md "君主")建立浪漫关系。 | 是 |

@@ -1,6 +1,6 @@
 # 远海沼泽酒
 
-**远海沼泽酒**是一种[消耗品](Consumables.md "Consum品")，可作为[营地补给](Camp_supplies.md "营地补给")用于发起[长休](Long_Rest.md "长休")。
+**远海沼泽酒**是一种[消耗品](Consumables.md "消耗品")，可作为[营地补给](Camp_supplies.md "营地补给")用于发起[长休](Long_Rest.md "长休")。
 
 苦涩且湿漉漉的，这种[科米尔](https://forgottenrealms.fandom.com/wiki/Cormyr)红酒尝起来就像被扔下了船。
 

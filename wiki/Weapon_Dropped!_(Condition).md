@@ -6,7 +6,7 @@
 
 ## 属性
 
-[更多属性](Conditions.md "状态属性")：
+[更多属性](Conditions.md "状态")：
 
 - [强制头顶显示](ForceOverhead.md "状态属性/强制头顶显示")
 - [禁用战斗日志](DisableCombatlog.md "状态属性/禁用战斗日志")

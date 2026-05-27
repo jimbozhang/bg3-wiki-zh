@@ -26,7 +26,7 @@
 职业：
 
 - 职业等级1：[法师](Wizard.md "法师")和[游侠](Ranger.md "游侠")（通过[驯兽师](Beast_Tamer.md "驯兽师")）
-- 职业等级3：[奥法骑士](Eldritch_Knight.md "奥法骑士")、[诡术师](Arcane_Trickster.md "诡术师")和[邪术师](Warlock.md "邪术师")（通过[链之魔契](Pact_of_the_Chain.md "链之魔魔契")）
+- 职业等级3：[奥法骑士](Eldritch_Knight.md "奥法骑士")、[诡术师](Arcane_Trickster.md "诡术师")和[邪术师](Warlock.md "邪术师")（通过[链之魔契](Pact_of_the_Chain.md "链之魔契")）
 
 由特性授予：
 

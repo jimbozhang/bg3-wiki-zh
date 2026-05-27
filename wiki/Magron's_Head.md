@@ -2,7 +2,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "杂货")
+- [杂物](Miscellaneous.md "杂物")
 
 - 稀有度：
 

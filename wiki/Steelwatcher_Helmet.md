@@ -22,7 +22,7 @@
 
 ## 获取地点
 
-- [钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁_Watch_Foundry") X: -275 Y: -134：靠近东入口的地面层桌子上
+- [钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂") X: -275 Y: -134：靠近东入口的地面层桌子上
 
 ## 备注
 

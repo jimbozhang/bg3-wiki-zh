@@ -275,7 +275,7 @@
 如果被拾取：
 
 - [明萨拉的休闲服装](Minthara's_At-Ease_Clothes.md "明萨拉的休闲服装")
-- [明萨拉的雅致靴子](Tasteful_Boots.md "雅致靴子")
+- [明萨拉的雅致靴子](Tasteful_Boots.md "雅致的靴子")
 - [明萨拉的内衣](Minthara's_Underwear.md "明萨拉的内衣")
 
 如果未被拾取：
@@ -287,7 +287,7 @@
 - [卓尔皮手套](Drow_Leather_Gloves.md "卓尔皮手套")
 - [钉锤](Mace.md "钉锤")
 - [明萨拉的休闲服装](Minthara's_At-Ease_Clothes.md "明萨拉的休闲服装")
-- [明萨拉的雅致靴子](Tasteful_Boots.md "雅致靴子")
+- [明萨拉的雅致靴子](Tasteful_Boots.md "雅致的靴子")
 - [明萨拉的内衣](Minthara's_Underwear.md "明萨拉的内衣")
 - [蜘蛛里拉琴](Spider's_Lyre.md "蜘蛛里拉琴")
 - [蛛丝甲](Spidersilk_Armour.md "蛛丝甲")

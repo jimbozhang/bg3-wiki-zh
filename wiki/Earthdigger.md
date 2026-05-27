@@ -6,7 +6,7 @@
 | 声音 / 演员 | [Stephen Hogan](https://www.imdb.com/name/nm0389621/) |
 | 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "人类生物") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
 | 职业 | [法师](Wizard.md "法师") |
 

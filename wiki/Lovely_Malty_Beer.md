@@ -1,6 +1,6 @@
 # 怡人麦芽啤酒
 
-**怡人麦芽啤酒**是一种[消耗品](Consumables.md "Consum品")物品，可用作[营地补给](Camp_supplies.md "营地补给")以发起[长休](Long_Rest.md "长休")。
+**怡人麦芽啤酒**是一种[消耗品](Consumables.md "消耗品")物品，可用作[营地补给](Camp_supplies.md "营地补给")以发起[长休](Long_Rest.md "长休")。
 
 这种淡黄色的酿造物散发着麦芽的香气。
 

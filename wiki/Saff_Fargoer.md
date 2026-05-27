@@ -38,7 +38,7 @@
 
 能在一定距离内的黑暗中看见事物。
 
-- [**矮人韧性**](Dwarven_Resilience.md "矮人韧性")
+- [**矮人韧性**](Dwarven_Resilience.md "矮人活力")
 
 对被[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")获得[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
 

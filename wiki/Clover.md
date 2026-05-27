@@ -5,7 +5,7 @@
 | 身份 | 女性 |
 | 声音 / 演员 | [Anna Leong Brophy](https://www.imdb.com/name/nm5578003/) |
 | 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "人类生物") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
 | 职业 | [游侠](Ranger.md "游侠") |
 

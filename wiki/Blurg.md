@@ -6,7 +6,7 @@
 | 声音 / 演员 | [马克·诺布尔](https://www.imdb.com/name/nm1646345/) |
 | 角色 | [商人](Trader.md "商人") |
 | 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "Human人形生物") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [大地精](Hobgoblin.md "大地精") |
 | 职业 | [法师](Wizard.md "法师") |
 

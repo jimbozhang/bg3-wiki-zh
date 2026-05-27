@@ -18,7 +18,7 @@
 
 - UID `S_UND_FairyRings_DrowDiary` UUID `96330d15-fe1a-4179-9b67-5bf5a335d206` ## 获取地点
 
-- 在[幽暗地域](Underdark.md "Underdark")的[奥法高塔](Arcane_Tower.md "Arcane高塔")附近的火炬蘑菇田中，由一名死去的卓尔携带，坐标 X: 66 Y: -259
+- 在[幽暗地域](Underdark.md "Underdark")的[奥法高塔](Arcane_Tower.md "奥法高塔")附近的火炬蘑菇田中，由一名死去的卓尔携带，坐标 X: 66 Y: -259
 
 ## 文本
 

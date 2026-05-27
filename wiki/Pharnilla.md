@@ -5,7 +5,7 @@
 | 身份 | 女性 |
 | 配音 | - [Hara Yannas](https://www.imdb.com/name/nm3925968/) |
 | 体型 | [小型](Small.md "小型") |
-| 类型 | [类人生物](Humanoid.md "人类生物") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
 | 等级 | 1 |
 | 生命值 | 5 |

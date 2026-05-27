@@ -11,7 +11,7 @@
 
 [如果已应用](Status_properties.md#Stack_type "状态"): 增加持续时间
 
-[更多属性](Conditions.md "状态属性"):
+[更多属性](Conditions.md "状态"):
 
 - [冻结持续时间](FreezeDuration.md "状态属性/冻结持续时间")
 

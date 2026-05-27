@@ -20,7 +20,7 @@
 [更多属性](Status_properties.md "状态属性"):
 
 - [启动战斗](Status_properties/InitiateCombat.md "状态属性/启动战斗")
-- [目盲](Status_properties/Blind.md "状态属性/目盲")
+- [目盲](Status_properties/Blind.md "目盲")
 
 ## 失明术来源
 

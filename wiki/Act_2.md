@@ -14,7 +14,7 @@
 
 - [游戏结束画面](Game_Over_screens.md "游戏结束画面")
 
-**第二幕**的[博德之门3](Baldur's_Gate_3.md "博德之门3")发生在[第一幕](Act_One.md "第一幕")之后，玩家进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")以到达[月出之塔](Moonrise_Towers.md "Moon出之塔")并找到[至上真神教](Cult_of_the_Absolute.md "至上真神教")的核心。
+**第二幕**的[博德之门3](Baldur's_Gate_3.md "博德之门3")发生在[第一幕](Act_One.md "第一幕")之后，玩家进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")以到达[月出之塔](Moonrise_Towers.md "月出之塔")并找到[至上真神教](Cult_of_the_Absolute.md "至上真神教")的核心。
 
 离开荒野后，队伍发现了[幽影诅咒](Shadow_Curse.md "幽影诅咒")的毁灭性影响，它扭曲了土地，并将任何在其中逗留的人变成幽影诅咒生物和阴影。在寻找月出之塔的过程中，他们可以从至上真神教徒的商队、[竖琴手](Harpers.md "竖琴手")团体获得帮助，或者独自勇敢面对诅咒。
 

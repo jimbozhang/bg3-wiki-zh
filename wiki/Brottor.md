@@ -6,7 +6,7 @@
 | 声音 / 演员 | [詹姆斯·布拉德威尔](https://www.imdb.com/name/nm10525457/) |
 | 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "人类生物") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
 | 亚种 | [黄金矮人](Gold_Dwarf.md "黄金矮人") |
 | 职业 | [战士](Fighter.md "战士") |

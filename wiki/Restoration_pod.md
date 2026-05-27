@@ -27,8 +27,8 @@
 ### 第三幕
 
 - 在[希望之邸](House_of_Hope.md "希望之邸")中[拉斐尔](Raphael.md "拉斐尔")的[内室](Boudoir.md "内室")内的水池旁<sup>[\[2\]](#cite_note-2)</sup>
-- 在[至高大殿](High_Hall.md "高殿")中庭院入口旁<sup>[\[3\]](#cite_note-honourmode-3)</sup>
-- 在[至高大殿](High_Hall.md "高殿")中脑干旁，紧邻在[耐色脑顶部](Confront_the_Elder_Brain.md#Atop_the_Netherbrain "与主脑对峙")的最终战斗前<sup>[\[3\]](#cite_note-honourmode-3)</sup>
+- 在[至高大殿](High_Hall.md "至高大殿")中庭院入口旁<sup>[\[3\]](#cite_note-honourmode-3)</sup>
+- 在[至高大殿](High_Hall.md "至高大殿")中脑干旁，紧邻在[耐色脑顶部](Confront_the_Elder_Brain.md#Atop_the_Netherbrain "与主脑对峙")的最终战斗前<sup>[\[3\]](#cite_note-honourmode-3)</sup>
 
 ## 注释和参考
 

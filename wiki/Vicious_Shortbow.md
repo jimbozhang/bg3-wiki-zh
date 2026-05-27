@@ -11,7 +11,7 @@
 1d6 + 2 (3~8) + [敏捷调整值](Damage_Roll.md#Modifiers "伤害掷骰") ⁠[穿刺](Piercing.md "穿刺")
 
 详情
-[短弓](Shortbows.md "Short弓")
+[短弓](Shortbows.md "短弓")
 稀有度：稀有
 附魔：**+ 2**
 [双手](Two-Handed.md "双手")

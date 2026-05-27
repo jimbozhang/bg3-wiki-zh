@@ -16,7 +16,7 @@
 
 - UID `ARM_Camp_Rich_D` UUID `d0b540dd-c778-4573-b0cb-149a0309bfa2` Stats `ARM_Vanity_Body_Rich_D` 文件 `CLT_Camp_Citizen_Shirt_B` *文件 `CLT_Camp_Shar_Pants`* 文件 `ARM_Robe_Shar_Pants_A` ## 获取地点
 
-- 由 [费加罗·"焕颜"·钱郝](Figaro_'Facemaker'_Pennygood.md "费加罗·'焕颜'·钱郝") 在 [博德之门](Baldur's_Gate.md "博德之门") [下城区](Lower_City.md "下城区") 的 [焕颜精品店](Facemaker's_Boutique.md "焕颜精品店") 出售，靠近博德之门的 [传送点](Waypoint.md "传送点")。
+- 由 [费加罗·"焕颜"·钱郝](Figaro_'Facemaker'_Pennygood.md "费加罗·"焕颜"·钱郝") 在 [博德之门](Baldur's_Gate.md "博德之门") [下城区](Lower_City.md "下城区") 的 [焕颜精品店](Facemaker's_Boutique.md "焕颜精品店") 出售，靠近博德之门的 [传送点](Waypoint.md "传送点")。
 
 ## 图库
 

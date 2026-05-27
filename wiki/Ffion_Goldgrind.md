@@ -89,7 +89,7 @@
 
 ## 概述
 
-费蓊是[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")一位著名的施虐女王，她失踪了，队伍的任务是在[寻找"严厉图书馆员"费蓊](Find_the_'Stern_Librarian'_Ffion.md "寻找'严厉图书馆员'费蓊")中找到她。
+费蓊是[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")一位著名的施虐女王，她失踪了，队伍的任务是在[寻找"严厉图书馆员"费蓊](Find_the_'Stern_Librarian'_Ffion.md "寻找"严厉图书馆员"费蓊")中找到她。
 
 ## 互动
 
@@ -104,7 +104,7 @@
 
 ## 相关任务
 
-- [寻找"严厉图书馆员"费蓊](Find_the_'Stern_Librarian'_Ffion.md "寻找'严厉图书馆员'费蓊")
+- [寻找"严厉图书馆员"费蓊](Find_the_'Stern_Librarian'_Ffion.md "寻找"严厉图书馆员"费蓊")
 - [打动谋杀裁判所](Impress_the_Murder_Tribunal.md "打动谋杀裁判所")
 - [调查谋杀案](Investigate_the_Murders.md "调查谋杀案")
 

@@ -14,7 +14,7 @@
 [更多属性](Status_properties.md "状态属性")：
 
 - [InitiateCombat](Status_properties/InitiateCombat.md "状态属性/InitiateCombat")
-- [Blind](Status_properties/Blind.md "状态属性/Blind")
+- [Blind](Status_properties/Blind.md "目盲")
 
 ## 备注
 

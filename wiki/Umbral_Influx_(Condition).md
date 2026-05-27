@@ -8,7 +8,7 @@
 
 [持续时间结束](Status_properties.md#Duration "状态"): 驱散结束
 
-[更多属性](Conditions.md "状态属性"):
+[更多属性](Conditions.md "状态"):
 
 - [对死亡生效](状态属性/ApplyToDead.md "状态属性/对死亡生效")
 

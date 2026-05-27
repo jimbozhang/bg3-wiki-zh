@@ -18,7 +18,7 @@
 
 - - 在[下城区](Lower_City.md "下城区")的[清账屋](Counting_House.md "清账屋")内，7号保险柜中找到。
 
-- 由[费加罗·"焕颜"·钱郝](Figaro_'Facemaker'_Pennygood.md "费加罗·'焕颜'·钱郝")在下城区的焕颜精品店出售。
+- 由[费加罗·"焕颜"·钱郝](Figaro_'Facemaker'_Pennygood.md "费加罗·"焕颜"·钱郝")在下城区的焕颜精品店出售。
 
 ## 图库
 

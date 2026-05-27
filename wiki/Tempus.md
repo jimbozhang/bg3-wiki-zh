@@ -224,7 +224,7 @@
 
 [玛格鲁比耶](https://forgottenrealms.fandom.com/wiki/Maglubiyet)是地精之神，守序邪恶。相关领域：秩序、[战争领域](War_Domain.md "战争领域")。
 
-在剑湾被[至上真神教团](The_Absolute.md "至上真神")排挤，玛格鲁比耶在游戏[第一幕](Act_One.md "第一幕")中仅被两个角色提及；他们是[瓦罗](Volo.md "瓦olo")，他指出地精们抛弃了他们的“原始神”，以及[布拉克卡伊](Brakkal.md "Brakkal")，一个被关在[破碎圣所](Shattered_Sanctum.md "破碎圣所")笼子里的唯一忠诚的地精。关于他的描述很少，只知道他是“一个真正的神”。
+在剑湾被[至上真神教团](The_Absolute.md "至上真神")排挤，玛格鲁比耶在游戏[第一幕](Act_One.md "第一幕")中仅被两个角色提及；他们是[瓦罗](Volo.md "瓦罗")，他指出地精们抛弃了他们的“原始神”，以及[布拉克卡伊](Brakkal.md "Brakkal")，一个被关在[破碎圣所](Shattered_Sanctum.md "破碎圣所")笼子里的唯一忠诚的地精。关于他的描述很少，只知道他是“一个真正的神”。
 
 ## 梅莉凯
 

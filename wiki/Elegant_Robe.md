@@ -16,7 +16,7 @@
 
 - UID `ARM_Vanity_ElegantRobe` UUID `2f7aadd5-65ea-4ab6-8c55-88ee584c72df` 文件 `CLT_Daisy_Dress_A` * 文件 `CLT_Daisy_Dress_A_Accessories` ## 获取地点
 
-- 由[费加罗·"焕颜"·钱郝](Figaro_'Facemaker'_Pennygood.md "费加罗·'焕颜'·钱郝")在[焕颜精品店](Facemaker's_Boutique.md "焕颜精品店")出售
+- 由[费加罗·"焕颜"·钱郝](Figaro_'Facemaker'_Pennygood.md "费加罗·"焕颜"·钱郝")在[焕颜精品店](Facemaker's_Boutique.md "焕颜精品店")出售
 
 - 在[扎尔宅邸](Szarr_Palace.md "扎尔宅邸")顶层 X: -1241 Y: 982 处
 

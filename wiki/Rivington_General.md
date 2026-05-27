@@ -81,7 +81,7 @@
 - [保持双手干净](Folk_Hero.md#Keeping_Your_Hands_Clean "平民英雄")（[平民英雄](Folk_Hero.md "平民英雄")背景）——拒绝乌尔布伦
 - [爆破艺术](Entertainer.md#Explosive_Artistry "艺人")（[艺人](Entertainer.md "艺人")背景）——拿走炸弹
 
-或者，如果小队已经在侏儒的帮助下进入[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")并接取了[处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")任务，他们可以攻击乌尔布伦，将其[头颅](Wulbren's_Head.md "乌尔布伦的头颅")作为战利品交给[精卫法尔考](Manip_Falcäo.md "法尔考")。
+或者，如果小队已经在侏儒的帮助下进入[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")并接取了[处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")任务，他们可以攻击乌尔布伦，将其[头颅](Wulbren's_Head.md "乌尔布伦的头颅")作为战利品交给[精卫法尔考](Manip_Falcäo.md "精卫法尔考")。
 
 壁炉附近，小队可以找到侏儒商人[邦普纳格尔](Bumpnagel.md "邦普纳格尔")。
 
