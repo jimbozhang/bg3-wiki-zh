@@ -1,6 +1,6 @@
 # 潇洒的胆识
 
-**潇洒的胆识**是[游荡者](Swashbuckler.md "游荡者")职业中[潇洒游荡者](Swashbuckler.md "潇洒游荡者")可用的被动特性，它提供一个随等级提升的[先攻](Initiative.md "先攻")加值，并放宽了触发[偷袭](Sneak_Attack.md "偷袭")的部分要求。
+**潇洒的胆识**是[游荡者](Swashbuckler.md "游荡者")职业中[风流剑客](Swashbuckler.md "风流剑客")可用的被动特性，它提供一个随等级提升的[先攻](Initiative.md "先攻")加值，并放宽了触发[偷袭](Sneak_Attack.md "偷袭")的部分要求。
 
 ## 描述
 
@@ -17,7 +17,7 @@
 
 职业：
 
-- 职业等级3：[潇洒游荡者](Swashbuckler.md "潇洒游荡者")
+- 职业等级3：[风流剑客](Swashbuckler.md "风流剑客")
 
 ## 错误
 

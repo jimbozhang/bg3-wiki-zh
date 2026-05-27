@@ -36,7 +36,7 @@
 [ 奥术射击：爆裂箭 ](Arcane_Shot_colon__Bursting_Arrow.md "奥术射击：爆裂箭")
 |
 
-- 与大多数其他奥术射击选项不同，此动作会立即消耗[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")，而非在命中时消耗。相反，此资源消耗会在未命中时返还，这几乎等同于原有效果。这导致与[曲射](Curving_Shot.md "曲射")产生一些不寻常的交互。如果爆裂箭未命中其初始目标，[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")消耗将被返还，然后攻击将被重定向到新目标。如果此目标被命中，爆裂箭将免费生效。如果重定向的命中也未命中，它将返还另一支奥术箭，总计获得 +1 支[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")。
+- 与大多数其他奥术射击选项不同，此动作会立即消耗[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")，而非在命中时消耗。相反，此资源消耗会在未命中时返还，这几乎等同于原有效果。这导致与[曲射](Curving_Shot.md "曲射")产生一些不寻常的交互。如果爆裂箭未命中其初始目标，[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")消耗将被返还，然后攻击将被重定向到新目标。如果此目标被命中，爆裂箭将免费生效。如果重定向的命中也未命中，它将返还另一支奥术箭，总计获得 +1 支[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")。
 
 [ 奥术射击：衰弱箭 ](Arcane_Shot_colon__Enfeebling_Arrow.md "奥术射击：衰弱箭")
 |
@@ -184,7 +184,7 @@
 | [强酸吐息](Acid_Breath.md "强酸吐息") | 工具提示错误地将效果区域描述为锥形，而实际上它是线形。 |
 | [ 奥术射击：放逐箭 ](Arcane_Shot_colon__Banishing_Arrow.md "奥术射击：放逐箭") | 由于错误地使用了 DamageBonus 函数，奥术射击在击中敌人时造成的额外伤害永远无法造成重击。 |
 | [ 奥术射击：魅惑箭 ](Arcane_Shot_colon__Beguiling_Arrow.md "奥术射击：魅惑箭") | 由于错误地使用了 DamageBonus 函数，奥术射击在击中敌人时造成的额外伤害永远无法造成重击。 |
-| [ 奥术射击：爆裂箭 ](Arcane_Shot_colon__Bursting_Arrow.md "奥术射击：爆裂箭") | 与大多数其他奥术射击选项不同，此动作会立即消耗[奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "奥术射手")，而非在命中时消耗。相反，此资源消耗会在未命中时返还，这几乎等同于原有效果。这导致与[曲射](Curving_Shot.md "曲射")产生一些不寻常的交互。如果爆裂箭未命中其初始目标，[奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "奥术射手")消耗将被返还，然后攻击将被重定向到新目标。如果此目标被命中，爆裂箭将免费生效。如果重定向的命中也未命中，它将返还另一支奥术箭，总计获得 +1 支[奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "奥术射手")。 |
+| [ 奥术射击：爆裂箭 ](Arcane_Shot_colon__Bursting_Arrow.md "奥术射击：爆裂箭") | 与大多数其他奥术射击选项不同，此动作会立即消耗[奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "魔射手")，而非在命中时消耗。相反，此资源消耗会在未命中时返还，这几乎等同于原有效果。这导致与[曲射](Curving_Shot.md "曲射")产生一些不寻常的交互。如果爆裂箭未命中其初始目标，[奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "魔射手")消耗将被返还，然后攻击将被重定向到新目标。如果此目标被命中，爆裂箭将免费生效。如果重定向的命中也未命中，它将返还另一支奥术箭，总计获得 +1 支[奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "魔射手")。 |
 | [ 奥术射击：衰弱箭 ](Arcane_Shot_colon__Enfeebling_Arrow.md "奥术射击：衰弱箭") | 由于错误地使用了 DamageBonus 函数，奥术射击在击中敌人时造成的额外伤害永远无法造成重击。 |
 | [ 奥术射击：抓取箭 ](Arcane_Shot_colon__Grasping_Arrow.md "奥术射击：抓取箭") | 由于错误地使用了 DamageBonus 函数，奥术射击在击中敌人时获得的额外伤害永远无法造成重击。 |
 | [ 奥术射击：穿透箭 ](Arcane_Shot_colon__Piercing_Arrow.md "奥术射击：穿透箭") | 由于此攻击不涉及攻击掷骰，因此无法受益于某些检查攻击掷骰类型的额外伤害来源，尽管工具提示中列出了额外伤害。这些包括：[奥术协同](Arcane_Synergy_(Condition).md "奥术协同（状态）") [箭术手套](Gloves_of_Archery.md "箭术手套") [猎人印记](Hunter's_Mark.md "猎人印记") [神射手：孤注一掷](Sharpshooter_colon__All_In.md "神射手：孤注一掷") [泰坦弦弓](Titanstring_Bow.md "泰坦弦弓") |

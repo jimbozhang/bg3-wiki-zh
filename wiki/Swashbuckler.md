@@ -1,6 +1,6 @@
-# 海盗
+# 风流剑客
 
-**海盗**是[游荡者](Rogue.md "游荡者")的[副职](Rogue.md#Level_3 "游荡者")之一。与其他游荡者不同，他们专注于在单挑中与敌人正面交锋。作为2025年补丁8的一部分发布。[[url 1]](#cite_note-1)
+**风流剑客**是[游荡者](Rogue.md "游荡者")的[副职](Rogue.md#Level_3 "游荡者")之一。与其他游荡者不同，他们专注于在单挑中与敌人正面交锋。作为2025年补丁8的一部分发布。[[url 1]](#cite_note-1)
 
 > “
 >
@@ -51,7 +51,7 @@
 
 ## 外部链接
 
-[被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)上的[海盗](https://forgottenrealms.fandom.com/wiki/Swashbuckler)
+[被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)上的[风流剑客](https://forgottenrealms.fandom.com/wiki/Swashbuckler)
 
 ---
 *Source: [Swashbuckler](https://bg3.wiki/wiki/Swashbuckler)*

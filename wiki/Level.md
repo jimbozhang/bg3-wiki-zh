@@ -124,7 +124,7 @@
 >
 > „
 
-- [魅惑学院](College_of_Glamour.md "魅惑学院")
+- [迷惑学院](College_of_Glamour.md "迷惑学院")
 
 - [逸闻学院](College_of_Lore.md "逸闻学院")
 
@@ -186,7 +186,7 @@
 >
 > „
 
-- [奥术射手](Arcane_Archer.md "奥术射手")
+- [魔射手](Arcane_Archer.md "魔射手")
 
 - [战斗大师](Battle_Master.md "战斗大师")
 
@@ -264,7 +264,7 @@
 
 - [刺客](Assassin.md "刺客")
 
-- [剑术大师](Swashbuckler.md "剑术大师")
+- [风流剑客](Swashbuckler.md "风流剑客")
 
 - [盗贼](Thief.md "盗贼")
 
@@ -280,7 +280,7 @@
 
 - [龙族血脉](Draconic_Bloodline.md "龙族血脉")
 
-- [暗影魔法](Shadow_Magic.md "暗影魔法")
+- [幽影术士](Shadow_Magic.md "幽影术士")
 
 - [风暴术士](Storm_Sorcery.md "风暴术士")
 
@@ -316,7 +316,7 @@
 
 - [防护学派](Abjuration_School.md "防护学派")
 
-- [剑咏](Bladesinging.md "剑咏")
+- [剑咏者](Bladesinging.md "剑咏者")
 
 - [咒法学派](Conjuration_School.md "咒法学派")
 

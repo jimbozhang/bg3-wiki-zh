@@ -1,6 +1,6 @@
 # 奥术射击：寻的箭
 
-**奥术射击：寻的箭**是[奥术射手](Arcane_Archer.md "奥术射手")可用的一种特殊奥术箭攻击，它保证命中并造成额外的1d6⁠⁠[力场](Force.md "力场")伤害，并可能用[妖火](Faerie_Fire_(Condition).md "妖火（状态）")标记目标。
+**奥术射击：寻的箭**是[魔射手](Arcane_Archer.md "魔射手")可用的一种特殊奥术箭攻击，它保证命中并造成额外的1d6⁠⁠[力场](Force.md "力场")伤害，并可能用[妖火](Faerie_Fire_(Condition).md "妖火（状态）")标记目标。
 
 ## 描述
 
@@ -11,7 +11,7 @@
 ## 属性
 
 消耗
-[动作](Actions.md#Resources "动作") + [奥术箭](Arcane_Archer.md#Arcane_Archer "奥术射手")
+[动作](Actions.md#Resources "动作") + [奥术箭](Arcane_Archer.md#Arcane_Archer "魔射手")
 伤害：1~6
 
 正常武器伤害
@@ -36,7 +36,7 @@
 
 职业：
 
-- 职业等级 3：[奥术射手](Arcane_Archer.md "奥术射手")
+- 职业等级 3：[魔射手](Arcane_Archer.md "魔射手")
 
 ## 备注
 

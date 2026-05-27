@@ -2,7 +2,7 @@
 
 另请参阅：[恶毒嘲笑（消歧义）](Vicious_Mockery_(disambiguation).md)>
 
-**肮脏伎俩：恶毒嘲笑**是一种[法术](Spells.md "法术")。它仅对[恶棍](Swashbuckler.md "Swashbuckler")游荡者可用。
+**肮脏伎俩：恶毒嘲笑**是一种[法术](Spells.md "法术")。它仅对[风流剑客](Swashbuckler.md "风流剑客")游荡者可用。
 
 ## 描述
 
@@ -47,7 +47,7 @@
 
 职业：
 
-- 职业等级4：[恶棍](Swashbuckler.md "Swashbuckler")
+- 职业等级4：[风流剑客](Swashbuckler.md "风流剑客")
 
 ## 备注
 

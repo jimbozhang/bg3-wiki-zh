@@ -1,6 +1,6 @@
 # 奥术射击：穿刺箭
 
-**奥术射击：穿刺箭**是[奥术射手](Arcane_Archer.md "奥术射手")可用的一种特殊奥术箭攻击，它会击中一条直线内的所有目标，并造成额外的1d6⁠⁠[穿刺](Piercing.md "穿刺")伤害。
+**奥术射击：穿刺箭**是[魔射手](Arcane_Archer.md "魔射手")可用的一种特殊奥术箭攻击，它会击中一条直线内的所有目标，并造成额外的1d6⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 
 ## 描述
 
@@ -9,7 +9,7 @@
 ## 属性
 
 消耗
-[动作](Actions.md#Resources "动作") + [奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")
+[动作](Actions.md#Resources "动作") + [奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")
 伤害：1~6
 
 普通武器伤害
@@ -25,7 +25,7 @@
 
 职业：
 
-- 职业等级 3：[奥术射手](Arcane_Archer.md "奥术射手")
+- 职业等级 3：[魔射手](Arcane_Archer.md "魔射手")
 
 ## 备注
 

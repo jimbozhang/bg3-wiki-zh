@@ -1,6 +1,6 @@
 # 战歌训练
 
-**战歌训练**是[剑咏](Bladesinging.md "剑咏")[法师](Wizard.md "法师")的被动特性，使他们获得[轻甲](Armour.md#List_of_light_armour "护甲")和单手刃类武器的[熟练项](Proficiency.md "熟练项")。
+**战歌训练**是[剑咏者](Bladesinging.md "剑咏者")[法师](Wizard.md "法师")的被动特性，使他们获得[轻甲](Armour.md#List_of_light_armour "护甲")和单手刃类武器的[熟练项](Proficiency.md "熟练项")。
 
 ## 描述
 
@@ -10,7 +10,7 @@
 
 职业：
 
-- 职业等级 2：[剑咏](Bladesinging.md "剑咏")
+- 职业等级 2：[剑咏者](Bladesinging.md "剑咏者")
 
 ---
 *Source: [Training in War and Song](https://bg3.wiki/wiki/Training_in_War_and_Song)*

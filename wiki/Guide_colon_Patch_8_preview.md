@@ -18,7 +18,7 @@
   - [1.1 副职](#副职)
   - [1.2 法术](#法术)
 - [2 新副职](#新副职)
-  - [2.1 奥术射手战士](#arcane-archer-fighter)
+  - [2.1 魔射手战士](#arcane-archer-fighter)
   - [2.2 等级3](#等级3)
   - [2.3 等级7](#等级7)
   - [2.4 等级10](#等级10)
@@ -66,7 +66,7 @@
   - [2.46 等级5](#等级5)
   - [2.47 等级7](#等级7)
   - [2.48 等级9](#等级9)
-  - [2.49 暗影魔法术士](#shadow-magic-sorcerer)
+  - [2.49 幽影术士](#shadow-magic-sorcerer)
   - [2.50 等级1](#等级1)
   - [2.51 等级3](#等级3)
   - [2.52 等级6](#等级6)
@@ -101,17 +101,17 @@
 
 ### 副职
 
-- [奥术射手战士](Arcane_Archer.md "Arcane Archer")
+- [魔射手战士](Arcane_Archer.md "魔射手")
 - [剑咏法师](Bladesinging.md "Bladesinging")
 - [星辰结社德鲁伊](Circle_of_Stars.md "Circle of Stars")
-- [魅惑诗篇吟游诗人](College_of_Glamour.md "College of Glamour")
+- [迷惑学院](College_of_Glamour.md "迷惑学院")
 - [死亡领域牧师](Death_Domain.md "Death Domain")
 - [巨人野蛮人](Giant_Barbarian.md "Giant Barbarian")
 - [诅咒之刃邪术师](The_Hexblade.md "The Hexblade")
 - [王冠之誓圣武士](Oath_of_the_Crown.md "Oath of the Crown")
-- [暗影魔法术士](Shadow_Magic.md "Shadow Magic")
+- [幽影术士](Shadow_Magic.md "幽影术士")
 - [虫群使者游侠](Swarmkeeper.md "Swarmkeeper")
-- [花式剑客游荡者](Swashbuckler.md "Swashbuckler")
+- [风流剑客](Swashbuckler.md "风流剑客")
 - [醉拳宗师武僧](Way_of_the_Drunken_Master.md "Way of the Drunken Master")
 
 ### 法术
@@ -123,7 +123,7 @@
 
 ## 新副职
 
-### [奥术射手战士](Arcane_Archer.md "Arcane Archer")
+### [魔射手战士](Arcane_Archer.md "魔射手")
 
 > “
 >
@@ -133,7 +133,7 @@
 
 ### 等级3
 
-奥术射手传说
+魔射手传说
 获得[奥秘](Arcana.md "Arcana")熟练项。
 获得[自然](Nature.md "Nature")熟练项。
 
@@ -143,10 +143,10 @@
 - [神导术](Guidance.md "Guidance") * [轻型](Light.md "轻型")
 - [克敌机先](True_Strike.md "True Strike")
 
-[奥术箭矢](Arcane_Archer.md#Arcane_Arrow "Arcane Archer")：4
+[奥术箭矢](Arcane_Archer.md#Arcane_Arrow "魔射手")：4
 用于发射奥术射击的资源。通过[短休](Short_rest.md "Short Rest")或[长休](Long_Rest.md "Long Rest")补充。
 
-[奥术射击](Arcane_Archer.md#Arcane_Shots "Arcane Archer")：3
+[奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")：3
 选择3种奥术射击。
 每升一级可以更换一种奥术射击选项。
 
@@ -158,16 +158,16 @@
 [魔法箭](Magic_Arrow.md "Magic Arrow")
 你所有的远程攻击都被视为魔法攻击，以克服[抗性](Resistance.md "Resistance")。
 
-[奥术箭矢](Arcane_Archer.md#Arcane_Arrow "Arcane Archer")：7
+[奥术箭矢](Arcane_Archer.md#Arcane_Arrow "魔射手")：7
 获得三支额外的奥术箭矢。
-[奥术射击](Arcane_Archer.md#Arcane_Shots "Arcane Archer")：4
+[奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")：4
 选择1种额外的奥术射击。
 
 ### 等级10
 
-[奥术箭矢](Arcane_Archer.md#Arcane_Arrow "Arcane Archer")：10
+[奥术箭矢](Arcane_Archer.md#Arcane_Arrow "魔射手")：10
 获得三支额外的奥术箭矢。
-[奥术射击](Arcane_Archer.md#Arcane_Shots "Arcane Archer")：5
+[奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")：5
 选择1种额外的奥术射击。
 
 [￪ 返回顶部](#top)
@@ -292,7 +292,7 @@
 
 [￪ 返回顶部](#top)
 
-### [魅惑诗篇吟游诗人](College_of_Glamour.md "College of Glamour")
+### [迷惑学院](College_of_Glamour.md "迷惑学院")
 
 > “
 >
@@ -441,9 +441,9 @@
 你获得[中甲](Armour.md#List_of_medium_armour "Armour")、[盾牌](Shields.md "Shields")和[军用武器](Martial_weapons.md "Martial weapons")熟练项。你获得[诅咒武器誓缚](Bind_Hexed_Weapon.md "Bind Hexed Weapon")，这让你在使用你熟练的武器攻击时，可以用你的[魅力](Charisma.md "Charisma")调整值代替力量或敏捷。
 
 [诅咒武器誓缚](Bind_Hexed_Weapon.md "Bind Hexed Weapon")
-誓缚到你的主手武器。它的伤害变为魔法伤害，你无法丢弃或投掷它，并且如果你之前不熟练，你将变得[重甲的](Proficient.md "Proficient")。当你使用此武器攻击时，有几率_\\[见备注](Bind_Hexed_Weapon.md#Notes "Bind Hexed Weapon")\\]_对目标施加[诅咒之刃的诅咒](Hexblade's_Curse_(Condition).md "Hexblade's Curse (Condition)")。
+誓缚到你的主手武器。它的伤害变为魔法伤害，你无法丢弃或投掷它，并且如果你之前不熟练，你将变得[重甲的](Proficient.md "Proficient")。当你使用此武器攻击时，有几率_\\[见备注](Bind_Hexed_Weapon.md#Notes "Bind Hexed Weapon")\\]_对目标施加[咒剑士诅咒](Hexblade's_Curse_(Condition).md "Hexblade's Curse (Condition)")。
 
-[诅咒之刃的诅咒](Hexblade's_Curse.md "Hexblade's Curse")
+[咒剑士诅咒](Hexblade's_Curse.md "Hexblade's Curse")
 诅咒一个目标。你对目标的伤害掷骰获得等于你的[熟练项加值](Proficiency_Bonus.md "Proficiency bonus")的加值。攻击目标时，造成[重击](Critical_Hit.md "Critical Hit")所需的掷骰值也减少1。如果目标死亡，你将恢复邪术师等级 + 魅力调整值的[生命值](Hit_Points.md "Hit points")。（充能：[短休](Short_rest.md "Short rest")。）
 
 扩展法术列表
@@ -484,7 +484,7 @@
 ### 等级10
 
 [诅咒护甲](Armour_of_Hexes.md "Armour of Hexes")
-当一个被你用[诅咒之刃的诅咒](Hexblade's_Curse_(Condition).md "Hexblade's Curse (Condition)")诅咒的生物攻击你时，可以作为[反应](Reaction.md "Reaction")来无效化这次攻击。此操作有50%的成功率。
+当一个被你用[咒剑士诅咒](Hexblade's_Curse_(Condition).md "Hexblade's Curse (Condition)")诅咒的生物攻击你时，可以作为[反应](Reaction.md "Reaction")来无效化这次攻击。此操作有50%的成功率。
 
 [￪ 返回顶部](#top)
 
@@ -544,7 +544,7 @@
 
 - [精魂守卫](Spirit_Guardians.md "Spirit Guardians") * [十字军披风](Crusader's_Mantle.md "Crusader's Mantle") [￪ 返回顶部](#top)
 
-### [暗影魔法术士](Shadow_Magic.md "Shadow Magic")
+### [幽影术士](Shadow_Magic.md "幽影术士")
 
 > “
 >
@@ -674,7 +674,7 @@
 
 [￪ 返回顶部](#top)
 
-### [花式剑客游荡者](Swashbuckler.md "Swashbuckler")
+### [风流剑客](Swashbuckler.md "风流剑客")
 
 > “
 >

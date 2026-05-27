@@ -387,7 +387,7 @@ d20 + 属性值调整值 + 熟练项加值（如果熟练） + 其他调整值
 - 进行武器攻击时，攻击生物通常将相同的属性值调整值添加到攻击掷骰和伤害掷骰中。
 - 属性值调整值通常不会添加到法术和法术攻击的伤害掷骰中，除非特性特别启用，例如[苦痛魔爆](Agonising_Blast.md "Agonising_Blast")。虽然法术描述中未说明，但[破影利刃](Shadow_Blade.md "Shadow_Blade")在进行武器攻击时，会添加施法者的力量或敏捷调整值中较高者到其伤害中，这与[火焰刀](Flame_Blade.md "Flame_Blade")不同。
 
-熟练项加值不会添加到伤害掷骰中，除非所使用的攻击另有说明，例如[浸影打击](Shadowsoaked_Blow.md "Shadowsoaked_Blow")，或由特性启用，例如[魔刃诅咒](Hexblade's_Curse.md "Hexblade's Curse")。
+熟练项加值不会添加到伤害掷骰中，除非所使用的攻击另有说明，例如[浸影打击](Shadowsoaked_Blow.md "Shadowsoaked_Blow")，或由特性启用，例如[咒剑士诅咒](Hexblade's_Curse.md "Hexblade's Curse")。
 
 ## 其他掷骰
 

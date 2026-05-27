@@ -1,6 +1,6 @@
 # 蛾群乱舞：强力传送
 
-**蛾群乱舞：强力传送**是[虫群守护者](Swarmkeeper.md "虫群守护者")游侠在选择了[蛾群乱舞](Flurry_of_Moths.md "蛾群乱舞")后可用的自由动作。它可以在每回合命中敌人时触发一次，进行短距离[传送](Teleport.md "传送")，同时获得[护甲等级](Armour_Class.md "护甲等级")加值。这是[蛾群乱舞](Flurry_of_Moths.md "蛾群乱舞")在11级通过[强力虫群](Mighty_Swarm.md "强力虫群")解锁的升级版本。
+**蛾群乱舞：强力传送**是[集群牧者](Swarmkeeper.md "集群牧者")游侠在选择了[蛾群乱舞](Flurry_of_Moths.md "蛾群乱舞")后可用的自由动作。它可以在每回合命中敌人时触发一次，进行短距离[传送](Teleport.md "传送")，同时获得[护甲等级](Armour_Class.md "护甲等级")加值。这是[蛾群乱舞](Flurry_of_Moths.md "蛾群乱舞")在11级通过[强力虫群](Mighty_Swarm.md "强力虫群")解锁的升级版本。
 
 ## 描述
 
@@ -24,7 +24,7 @@
 
 职业：
 
-- 职业等级11：[虫群守护者](Swarmkeeper.md "虫群守护者")
+- 职业等级11：[集群牧者](Swarmkeeper.md "集群牧者")
 
 ---
 *Source: [Flurry of Moths: Mighty Teleport](https://bg3.wiki/wiki/Flurry_of_Moths:_Mighty_Teleport)*

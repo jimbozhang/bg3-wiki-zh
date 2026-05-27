@@ -18,7 +18,7 @@
   - [1.1 副职](#副职)
   - [1.2 法术](#法术)
 - [2 新副职](#新副职)
-  - [2.1 奥术射手战士](#arcane-archer-fighter)
+  - [2.1 魔射手战士](#arcane-archer-fighter)
   - [2.2 等级3](#等级3)
   - [2.3 等级7](#等级7)
   - [2.4 等级10](#等级10)
@@ -34,7 +34,7 @@
   - [2.14 等级6](#等级6)
   - [2.15 等级9](#等级9)
   - [2.16 等级10](#等级10)
-  - [2.17 魅惑学院吟游诗人](#college-of-glamour-bard)
+  - [2.17 迷惑学院吟游诗人](#college-of-glamour-bard)
   - [2.18 等级3](#等级3)
   - [2.19 等级6](#等级6)
   - [2.20 等级10](#等级10)
@@ -66,7 +66,7 @@
   - [2.46 等级5](#等级5)
   - [2.47 等级7](#等级7)
   - [2.48 等级9](#等级9)
-  - [2.49 暗影魔法术士](#shadow-magic-sorcerer)
+  - [2.49 幽影术士](#shadow-magic-sorcerer)
   - [2.50 等级1](#等级1)
   - [2.51 等级3](#等级3)
   - [2.52 等级6](#等级6)
@@ -101,18 +101,18 @@
 
 ### 副职
 
-- [奥术射手战士](Arcane_Archer.md "奥术射手")
-- [刀锋咏唱法师](Bladesinging.md "刀锋咏唱")
+- [魔射手战士](Arcane_Archer.md "魔射手")
+- [剑咏者](Bladesinging.md "剑咏者")
 - [星辰结社德鲁伊](Circle_of_Stars.md "星辰结社")
-- [魅惑学院吟游诗人](College_of_Glamour.md "魅惑学院")
+- [迷惑学院吟游诗人](College_of_Glamour.md "迷惑学院")
 - [死亡领域牧师](Death_Domain.md "死亡领域")
 - [巨人野蛮人](Giant_Barbarian.md "巨人野蛮人")
-- [诅咒之刃邪术师](The_Hexblade.md "诅咒之刃")
+- [诅咒之刃邪术师](The_Hexblade.md "咒剑士")
 - [王冠之誓圣武士](Oath_of_the_Crown.md "王冠之誓")
-- [暗影魔法术士](Shadow_Magic.md "暗影魔法")
-- [虫群使者游侠](Swarmkeeper.md "虫群使者")
-- [花式剑客游荡者](Swashbuckler.md "花式剑客")
-- [醉拳宗师武僧](Way_of_the_Drunken_Master.md "醉拳宗师")
+- [幽影术士](Shadow_Magic.md "幽影术士")
+- [虫群使者游侠](Swarmkeeper.md "集群牧者")
+- [风流剑客](Swashbuckler.md "风流剑客")
+- [醉拳宗师武僧](Way_of_the_Drunken_Master.md "醉拳宗")
 
 ### 法术
 
@@ -123,7 +123,7 @@
 
 ## 新副职
 
-### [奥术射手战士](Arcane_Archer.md "奥术射手")
+### [魔射手战士](Arcane_Archer.md "魔射手")
 
 > “
 >
@@ -133,7 +133,7 @@
 
 ### 等级3
 
-奥术射手传说
+魔射手传说
 获得[奥秘](Arcana.md "奥秘")熟练项。
 获得[自然](Nature.md "自然")熟练项。
 
@@ -143,10 +143,10 @@
 - [神导术](Guidance.md "神导术") * [轻型](Light.md "轻型")
 - [克敌机先](True_Strike.md "克敌机先")
 
-[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")：4
+[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")：4
 用于发射奥术射击的资源。通过[短休](Short_rest.md "短休")或[长休](Long_Rest.md "长休")补充。
 
-[奥术射击](Arcane_Archer.md#Arcane_Shots "奥术射手")：3
+[奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")：3
 选择3种奥术射击。
 每升一级可以更换一种奥术射击选项。
 
@@ -158,21 +158,21 @@
 [魔法箭](Magic_Arrow.md "魔法箭")
 你所有的远程攻击都被视为魔法攻击，以克服[抗性](Resistance.md "抗性")。
 
-[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")：7
+[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")：7
 获得三支额外的奥术箭。
-[奥术射击](Arcane_Archer.md#Arcane_Shots "奥术射手")：4
+[奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")：4
 选择一种额外的奥术射击。
 
 ### 等级10
 
-[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")：10
+[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")：10
 获得三支额外的奥术箭。
-[奥术射击](Arcane_Archer.md#Arcane_Shots "奥术射手")：5
+[奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")：5
 选择一种额外的奥术射击。
 
 [￪ 返回顶部](#top)
 
-### [刀锋咏唱法师](Bladesinging.md "刀锋咏唱")
+### [剑咏者](Bladesinging.md "剑咏者")
 
 > “
 >
@@ -182,7 +182,7 @@
 
 ### 等级2
 
-[刀锋咏唱能量](Bladesinging.md#Level_2 "刀锋咏唱")：2
+[剑咏者](Bladesinging.md#Level_2 "剑咏者")：2
 用于施展刀锋咏唱。通过[长休](Long_Rest.md "长休")补充。即使在熟练的情况下，穿着中甲或重甲也无法进行刀锋咏唱；穿着这些护甲时，你会获得“刀锋咏唱受阻”状态。
 
 [刀锋咏唱](Bladesong.md "刀锋咏唱")
@@ -193,7 +193,7 @@
 
 ### 等级5
 
-[刀锋咏唱能量](Bladesinging.md#Level_2 "刀锋咏唱")：3
+[剑咏者](Bladesinging.md#Level_2 "剑咏者")：3
 获得一次额外的刀锋咏唱使用次数。
 [刀锋咏唱](Bladesong.md "刀锋咏唱")
 护甲等级和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")加值增加到+3。
@@ -205,7 +205,7 @@
 
 ### 等级9
 
-[刀锋咏唱能量](Bladesinging.md#Level_2 "刀锋咏唱")：4
+[剑咏者](Bladesinging.md#Level_2 "剑咏者")：4
 获得一次额外的刀锋咏唱使用次数。
 [刀锋咏唱](Bladesong.md "刀锋咏唱")
 护甲等级和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")加值增加到+4。
@@ -292,7 +292,7 @@
 
 [￪ 返回顶部](#top)
 
-### [魅惑学院吟游诗人](College_of_Glamour.md "魅惑学院")
+### [迷惑学院吟游诗人](College_of_Glamour.md "迷惑学院")
 
 > “
 >
@@ -427,7 +427,7 @@
 
 [￪ 返回顶部](#top)
 
-### [诅咒之刃邪术师](The_Hexblade.md "诅咒之刃")
+### [诅咒之刃邪术师](The_Hexblade.md "咒剑士")
 
 > “
 >
@@ -441,9 +441,9 @@
 你获得[中甲](Armour.md#List_of_medium_armour "护甲")、[盾牌](Shields.md "盾牌")和[军用武器](Martial_weapons.md "军用武器")熟练项。你获得[束缚诅咒武器](Bind_Hexed_Weapon.md "束缚诅咒武器")，这让你在使用熟练的武器攻击时，使用你的[魅力](Charisma.md "魅力")调整值代替力量或敏捷。
 
 [束缚诅咒武器](Bind_Hexed_Weapon.md "束缚诅咒武器")
-绑定到你的主手武器。它的伤害变为魔法伤害，你不能丢弃或投掷它，并且如果你之前不熟练，你会变得[重甲的](Proficient.md "重甲的")。当你使用此武器攻击时，有几率_【参见注释】_对目标施加[诅咒之刃的诅咒](Hexblade's_Curse_(Condition).md "诅咒之刃的诅咒（状态）")。
+绑定到你的主手武器。它的伤害变为魔法伤害，你不能丢弃或投掷它，并且如果你之前不熟练，你会变得[重甲的](Proficient.md "重甲的")。当你使用此武器攻击时，有几率_【参见注释】_对目标施加[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒（状态）")。
 
-[诅咒之刃的诅咒](Hexblade's_Curse.md "诅咒之刃的诅咒")
+[咒剑士诅咒](Hexblade's_Curse.md "咒剑士诅咒")
 诅咒一个目标。你对目标的伤害掷骰获得等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")的加值。攻击目标时需要掷出[重击](Critical_Hit.md "重击")的数值也减少1。如果目标死亡，你恢复邪术师等级 + 魅力调整值的[生命值](Hit_Points.md "生命值")。（充能：[短休](Short_rest.md "短休"）。
 
 扩展法术列表
@@ -484,7 +484,7 @@
 ### 等级10
 
 [诅咒护甲](Armour_of_Hexes.md "诅咒护甲")
-当一个被你用[诅咒之刃的诅咒](Hexblade's_Curse_(Condition).md "诅咒之刃的诅咒（状态）")诅咒的生物攻击你时，可以作为一个[反应](Reaction.md "反应")来无效化这次攻击。此操作有50%的成功几率。
+当一个被你用[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒（状态）")诅咒的生物攻击你时，可以作为一个[反应](Reaction.md "反应")来无效化这次攻击。此操作有50%的成功几率。
 
 [￪ 返回顶部](#top)
 
@@ -544,7 +544,7 @@
 
 - [精魂守卫](Spirit_Guardians.md "精魂守卫") * [十字军披风](Crusader's_Mantle.md "十字军披风") [￪ 返回顶部](#top)
 
-### [暗影魔法术士](Shadow_Magic.md "暗影魔法")
+### [幽影术士](Shadow_Magic.md "幽影术士")
 
 > “
 >
@@ -580,7 +580,7 @@
 
 [￪ 返回顶部](#top)
 
-### [虫群使者游侠](Swarmkeeper.md "虫群使者")
+### [虫群使者游侠](Swarmkeeper.md "集群牧者")
 
 > “
 >
@@ -674,7 +674,7 @@
 
 [￪ 返回顶部](#top)
 
-### [花式剑客游荡者](Swashbuckler.md "花式剑客")
+### [风流剑客](Swashbuckler.md "风流剑客")
 
 > “
 >
@@ -717,7 +717,7 @@
 
 [￪ 返回顶部](#top)
 
-### [醉拳宗师武僧](Way_of_the_Drunken_Master.md "醉拳宗师")
+### [醉拳宗师武僧](Way_of_the_Drunken_Master.md "醉拳宗")
 
 > “
 >

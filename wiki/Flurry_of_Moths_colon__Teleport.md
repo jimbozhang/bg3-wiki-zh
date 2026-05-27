@@ -1,6 +1,6 @@
 # 蛾群乱舞：传送
 
-**蛾群乱舞：传送**是[虫群守护者](Swarmkeeper.md "虫群守护者")游侠在选择了[蛾群乱舞](Flurry_of_Moths.md "蛾群乱舞")后可用的自由动作。它可以在命中敌人时每驱散触发一次，进行短距离传送。
+**蛾群乱舞：传送**是[集群牧者](Swarmkeeper.md "集群牧者")游侠在选择了[蛾群乱舞](Flurry_of_Moths.md "蛾群乱舞")后可用的自由动作。它可以在命中敌人时每驱散触发一次，进行短距离传送。
 
 ## 描述
 
@@ -20,7 +20,7 @@
 
 职业：
 
-- 职业等级3：[虫群守护者](Swarmkeeper.md "虫群守护者")
+- 职业等级3：[集群牧者](Swarmkeeper.md "集群牧者")
 
 ---
 *Source: [Flurry of Moths: Teleport](https://bg3.wiki/wiki/Flurry_of_Moths:_Teleport)*

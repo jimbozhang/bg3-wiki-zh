@@ -23,7 +23,7 @@
 ## 备注
 
 - **治疗韵律** 仅由 [诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）") 或 [战斗激励](Combat_Inspiration.md "战斗激励") 触发。
-- 由 [阿尔菲拉](Alfira.md "阿尔菲拉") 提供的 [精通诗人激励（职业动作）](Improved_Bardic_Inspiration_(class_action).md "精通诗人激励（职业动作）") 不会触发治疗，[魅惑学院](College_of_Glamour.md "魅惑学院") 的 [激励斗篷](Mantle_of_Inspiration.md "激励斗篷") 也不会触发。
+- 由 [阿尔菲拉](Alfira.md "阿尔菲拉") 提供的 [精通诗人激励（职业动作）](Improved_Bardic_Inspiration_(class_action).md "精通诗人激励（职业动作）") 不会触发治疗，[迷惑学院](College_of_Glamour.md "迷惑学院") 的 [激励斗篷](Mantle_of_Inspiration.md "激励斗篷") 也不会触发。
 
 ---
 *Source: [Remedial Rhymes](https://bg3.wiki/wiki/Remedial_Rhymes)*

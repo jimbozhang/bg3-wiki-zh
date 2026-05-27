@@ -2,7 +2,7 @@
 
 关于同名成就，请参见 [花哨步法](Achievements.md#Fancy_Footwork "成就")。
 
-**花哨步法**是[游荡者](Swashbuckler.md "游荡者")职业中[欺诈师](Swashbuckler.md "欺诈师")子职业可用的被动特性，可防止其近战攻击的目标对其发动借机攻击。
+**花哨步法**是[游荡者](Swashbuckler.md "游荡者")职业中[风流剑客](Swashbuckler.md "风流剑客")子职业可用的被动特性，可防止其近战攻击的目标对其发动借机攻击。
 
 ## 描述
 
@@ -12,7 +12,7 @@
 
 职业：
 
-- 职业等级 3：[欺诈师](Swashbuckler.md "欺诈师")
+- 职业等级 3：[风流剑客](Swashbuckler.md "风流剑客")
 
 ## 备注
 

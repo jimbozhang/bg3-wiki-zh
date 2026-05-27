@@ -47,7 +47,7 @@
 游戏中可用的术士副职有：
 
 - [龙族血脉](Draconic_Bloodline.md "龙族血脉")
-- [暗影魔法](Shadow_Magic.md "暗影魔法")
+- [幽影术士](Shadow_Magic.md "幽影术士")
 - [风暴术士](Storm_Sorcery.md "风暴术士")
 - [狂野魔法](Wild_Magic_(sorcerer_subclass).md "狂野魔法（术士副职）")
 
@@ -319,7 +319,7 @@
 
 #### 副职特性
 
-| [龙族血脉](Draconic_Bloodline.md "龙族血脉") | [暗影魔法](Shadow_Magic.md "暗影魔法") | [风暴术士](Storm_Sorcery.md "风暴术士") | [狂野魔法](Wild_Magic_(sorcerer_subclass).md "狂野魔法（术士副职）") |
+| [龙族血脉](Draconic_Bloodline.md "龙族血脉") | [幽影术士](Shadow_Magic.md "幽影术士") | [风暴术士](Storm_Sorcery.md "风暴术士") | [狂野魔法](Wild_Magic_(sorcerer_subclass).md "狂野魔法（术士副职）") |
 | --- | --- | --- | --- |
 | [龙族韧性](Draconic_Resilience.md "龙族韧性") [龙族韧性：生命值](Draconic_Bloodline#Level_1.md#Level_1 "龙族血脉") [龙族血脉](Draconic_Bloodline.md "龙族血脉") (选择1种。)：[红龙](Draconic_Ancestry_colon__Red_(Fire).md "龙族血统：红龙（火焰）") [黑龙](Draconic_Ancestry_colon__Black_(Acid).md "龙族血统：黑龙（酸液）") [蓝龙](Draconic_Ancestry_colon__Blue_(Lightning).md "龙族血统：蓝龙（闪电）") [白龙](Draconic_Ancestry_colon__White_(Cold).md "龙族血统：白龙（寒冷）") [绿龙](Draconic_Ancestry_colon__Green_(Poison).md "龙族血统：绿龙（毒素）") [金龙](Draconic_Ancestry_colon__Gold_(Fire).md "龙族血统：金龙（火焰）") [银龙](Draconic_Ancestry_colon__Silver_(Cold).md "龙族血统：银龙（寒冷）") [青铜龙](Draconic_Ancestry_colon__Bronze_(Lightning).md "龙族血统：青铜龙（闪电）") [铜龙](Draconic_Ancestry_colon__Copper_(Acid).md "龙族血统：铜龙（酸液）") [黄铜龙](Draconic_Ancestry_colon__Brass_(Fire).md "龙族血统：黄铜龙（火焰）") | [黑暗之眼](Eyes_of_the_Dark.md "黑暗之眼") [死亡之力](Strength_of_the_Grave.md "死亡之力") | [魔法飓风](Tempestuous_Magic.md "魔法飓风") | [狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法（被动特性）") [混沌之潮](Tides_of_Chaos_(passive_feature).md "混沌之潮（被动特性）") |
 

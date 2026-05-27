@@ -28,7 +28,7 @@
 
 - 职业等级 1：[牧师](Cleric.md "牧师")和[德鲁伊](Druid.md "德鲁伊")
 - 职业等级 2：[星之圆环](Circle_of_Stars.md "星之圆环")
-- 职业等级 3：[邪术师](Warlock.md "邪术师")（通过[书之魔契](Pact_of_the_Tome.md "书之魔契")）和[奥术射手](Arcane_Archer.md "奥术射手")
+- 职业等级 3：[邪术师](Warlock.md "邪术师")（通过[书之魔契](Pact_of_the_Tome.md "书之魔契")）和[魔射手](Arcane_Archer.md "魔射手")
 
 由特性提供：
 

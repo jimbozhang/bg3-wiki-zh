@@ -10,7 +10,7 @@
 | 先攻 | +2 |
 | 移动速度 | 15 米 (50 英尺) |
 
-**尼姆巴斯**是通过[暗影魔法](Shadow_Magic.md "暗影魔法")术士的[凶兆猎犬](Hound_of_Ill_Omen.md "凶兆猎犬")能力召唤的[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")。
+**尼姆巴斯**是通过[幽影术士](Shadow_Magic.md "幽影术士")术士的[凶兆猎犬](Hound_of_Ill_Omen.md "凶兆猎犬")能力召唤的[幽影獒犬](Shadow_Mastiff.md "幽影獒犬")。
 
 ## 战斗
 

@@ -1,6 +1,6 @@
-# 暗影魔法
+# 幽影术士
 
-**暗影魔法**是[术士](Sorcerer.md "术士")的[副职](Sorcerer.md#Level_1 "术士")之一。他们掌控着一只可以攻击并诅咒敌人的阴影獒犬。作为2025年补丁8的一部分发布。[[url 1]](#cite_note-1)
+**幽影术士**是[术士](Sorcerer.md "术士")的[副职](Sorcerer.md#Level_1 "术士")之一。他们掌控着一只可以攻击并诅咒敌人的阴影獒犬。作为2025年补丁8的一部分发布。[[url 1]](#cite_note-1)
 
 > “
 >
@@ -46,7 +46,7 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[术士
 
 ## 外部链接
 
-> )⁠[暗影魔法（术士起源）](https://forgottenrealms.fandom.com/wiki/Shadow_magic_(sorcerous_origin)) 位于[被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+> )⁠[幽影魔法（术士起源）](https://forgottenrealms.fandom.com/wiki/Shadow_magic_(sorcerous_origin)) 位于[被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [Shadow Magic](https://bg3.wiki/wiki/Shadow_Magic)*

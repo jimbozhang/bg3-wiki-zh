@@ -29,7 +29,7 @@
 职业：
 
 - 职业等级1：[吟游诗人](Bard.md "吟游诗人")、[术士](Sorcerer.md "术士")、[邪术师](Warlock.md "邪术师")和[法师](Wizard.md "法师")
-- 职业等级3：[奥法射手](Arcane_Archer.md "奥法射手")、[诡术师](Arcane_Trickster.md "诡术师")和[奥法骑士](Eldritch_Knight.md "奥法骑士")
+- 职业等级3：[魔射手](Arcane_Archer.md "魔射手")、[诡术师](Arcane_Trickster.md "诡术师")和[奥法骑士](Eldritch_Knight.md "奥法骑士")
 
 种族：
 

@@ -253,7 +253,7 @@
 
 > 用于施放奥术射击的资源。
 
-由[奥术射手](Arcane_Archer.md "奥术射手")使用和获得，用于施放[奥术射击](Arcane_Archer.md#Arcane_Shots "奥术射手")。充能数量起始为4，在7级和10级时各增加3。
+由[魔射手](Arcane_Archer.md "魔射手")使用和获得，用于施放[奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")。充能数量起始为4，在7级和10级时各增加3。
 
 [引导神力充能](Channel_Divinity_Charge.md "引导神力充能")
 

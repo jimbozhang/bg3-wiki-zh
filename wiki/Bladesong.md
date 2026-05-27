@@ -1,8 +1,8 @@
 # 刀锋之歌
 
-关于职业，请参见 [刀锋咏唱](Bladesinging.md "刀锋咏唱")。
+关于职业，请参见 [剑咏者](Bladesinging.md "剑咏者")。
 
-**刀锋之歌**是 [刀锋咏唱](Bladesinging.md "刀锋咏唱") 法师的标志性能力。
+**刀锋之歌**是 [剑咏者](Bladesinging.md "剑咏者") 法师的标志性能力。
 
 ## 描述
 
@@ -17,7 +17,7 @@
 ## 属性
 
 消耗
-[刀锋咏唱之力](Bladesinging.md#Level_2 "刀锋咏唱")
+[剑咏者](Bladesinging.md#Level_2 "剑咏者")
 
 ## 更高等级
 

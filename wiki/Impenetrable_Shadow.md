@@ -1,6 +1,6 @@
 # 不透阴影
 
-本页面内容为 [荣誉模式](Honour_Mode.md "荣誉 mode") 独占。
+本页面内容为 [荣誉模式](Honour_Mode.md "荣誉模式") 独占。
 
 **不透阴影**是 [维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛") 在 [荣誉模式](Honour_Mode.md "荣誉模式") 下可用的 [被动](Passive.md "被动") 特性。
 

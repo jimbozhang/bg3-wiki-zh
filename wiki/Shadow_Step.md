@@ -45,7 +45,7 @@
 - [阴影传送（鬼魊）](Shadow_Teleport_(Meazel).md "阴影传送（鬼魊）") - [鬾魊](Meazel.md "鬾魊") 使用的类似动作
 - [阴影传送（凌弱怪）](Shadow_Teleport_(Meenlock).md "阴影传送（凌弱怪）") - [凌弱怪](Meenlock.md "凌弱怪") 使用的类似动作
 - [阴影传送](Shadow_Teleportation.md "阴影传送") - 由 [暗夜法官之靴](Dark_Justiciar_Boots.md "暗夜法官之靴") 授予的类似动作
-- [暗影行](Shadow_Walk.md "暗影行") - [暗影魔法](Shadow_Magic.md "暗影魔法") 术士在 11 级可用的类似动作
+- [暗影行](Shadow_Walk.md "暗影行") - [幽影术士](Shadow_Magic.md "幽影术士") 术士在 11 级可用的类似动作
 
 ---
 *Source: [Shadow Step](https://bg3.wiki/wiki/Shadow_Step)*

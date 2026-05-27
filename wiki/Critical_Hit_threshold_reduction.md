@@ -86,9 +86,9 @@
 | 15 | 30% | 51% | 75.99% | 88.24% |
 | 14 | 35% | 57.75% | 82.15% | 92.46% |
 
-  - [邪能诅咒](Hexblade's_Curse_(Condition).md "邪能诅咒（状态）") - 降低重击阈值1；这可以通过两个[邪能魔剑](Hexblade.md "邪能魔剑")1级特性应用：
-  - [邪能诅咒](Hexblade's_Curse.md "邪能诅咒") - 使用[附赠动作](Actions.md#Resources "动作")直接施加[邪能诅咒](Hexblade's_Curse_(Condition).md "邪能诅咒（状态）")，持续10回合（充能：[短休](Short_rest.md "短休")）
-  - [誓缚邪能武器](Bind_Hexed_Weapon.md "誓缚邪能武器") - 使用[邪能武器](Hexed_Weapon_(Condition).md "邪能武器（状态）")命中攻击时，有20%几率施加[邪能诅咒](Hexblade's_Curse_(Condition).md "邪能诅咒（状态）")，持续10回合。
+  - [咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒（状态）") - 降低重击阈值1；这可以通过两个[咒剑士](Hexblade.md "咒剑士")1级特性应用：
+  - [咒剑士诅咒](Hexblade's_Curse.md "咒剑士诅咒") - 使用[附赠动作](Actions.md#Resources "动作")直接施加[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒（状态）")，持续10回合（充能：[短休](Short_rest.md "短休")）
+  - [誓缚邪能武器](Bind_Hexed_Weapon.md "誓缚邪能武器") - 使用[邪能武器](Hexed_Weapon_(Condition).md "邪能武器（状态）")命中攻击时，有20%几率施加[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒（状态）")，持续10回合。
 
 ### 专长
 

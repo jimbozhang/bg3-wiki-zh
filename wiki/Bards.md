@@ -45,7 +45,7 @@
 
 诗人副职包括：
 
-- [魅惑学院](College_of_Glamour.md "魅惑学院")
+- [迷惑学院](College_of_Glamour.md "迷惑学院")
 - [逸闻学院](College_of_Lore.md "逸闻学院")
 - [剑舞学院](College_of_Swords.md "剑舞学院")
 - [勇气学院](College_of_Valour.md "勇气学院")

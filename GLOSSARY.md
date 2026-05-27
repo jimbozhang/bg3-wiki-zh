@@ -16,7 +16,7 @@
 - [技能检定 / Skills](#技能检定) (18 条)
 - [种族 / Races](#种族) (39 条)
 - [职业 / Classes](#职业) (12 条)
-- [子职业 / Subclasses](#子职业) (51 条)
+- [子职业 / Subclasses](#子职业) (64 条)
 - [背景 / Backgrounds](#背景) (12 条)
 - [职业特性与专长 / Class Features & Feats](#职业特性与专长) (212 条)
 - [法术与技能 / Spells & Abilities](#法术与技能) (875 条)
@@ -202,6 +202,21 @@
 | Way of the Four Elements | 四象宗 |
 | Way of the Open Hand | 散打宗 |
 | Wildheart | 荒蛮之心 |
+| Path of the Giant | 巨人道途 |
+| College of Glamour | 迷惑学院 |
+| Death Domain | 死亡领域 |
+| Circle of Stars | 星辰结社 |
+| Arcane Archer | 魔射手 |
+| Way of the Drunken Master | 醉拳宗 |
+| Oath of the Crown | 王冠之誓 |
+| Swarmkeeper | 集群牧者 |
+| Swashbuckler | 风流剑客 |
+| Shadow Magic | 幽影术士 |
+| Hexblade | 咒剑士 |
+| The Hexblade | 咒剑士 |
+| Bladesinging | 剑咏者 |
+| Hexblade's Curse | 咒剑士诅咒 |
+| Elemental Cleaver | 元素战刃 |
 
 ## 背景
 ### Backgrounds
@@ -261,6 +276,7 @@
 | Corpulent Rage | 不死狂怒 |
 | Cunning Action: Dash | 灵巧动作：疾走 |
 | Cunning Action: Disengage | 灵巧动作：撤离 |
+| Curving Shot | 曲线射击 |
 | Deepened Pact: Extra Attack | 加深魔契：额外攻击 |
 | Dextrous Evasion | 灵巧闪避 |
 | Dismiss Wild Shape | 解除变形 |
@@ -271,6 +287,7 @@
 | Endless Rage | 无尽狂暴 |
 | Evasion | 反射闪避 |
 | Extra Attack | 额外攻击 |
+| Fancy Footwork | 花哨步法 |
 | Feat | 专长 |
 | Fighting Style | 战斗风格 |
 | Fighting Style: Protection | 战斗风格：守护 |
@@ -291,6 +308,7 @@
 | Healer: Healed | 医师：治疗 |
 | Healer: Reviving Physician | 医师：冥土追魂 |
 | Heavily Armoured | 重甲运用 |
+| Hex Warrior | 魔契战士 |
 | Improved Bardic Inspiration | 精通诗人激励 |
 | Improved Bardic Inspiration: Attack Roll or Ability Check | 精通诗人激励：攻击掷骰或属性检定 |
 | Improved Bardic Inspiration: Saving Throw | 精通诗人激励：豁免检定 |
@@ -367,6 +385,7 @@
 | Rage: Elk Heart | 狂暴：麋鹿之心 |
 | Rage: Tiger Heart | 狂暴：猛虎之心 |
 | Rage: Wild Magic | 狂暴：狂野魔法 |
+| Rakish Audacity | 狂妄胆识 |
 | Reckless Attack | 鲁莽攻击 |
 | Relentless Rage | 坚韧狂暴 |
 | Remarkable Athlete: Jump | 运动健将：跳跃 |
@@ -979,7 +998,7 @@
 | Legacy of Avernus: Searing Smite | 阿弗纳斯的遗赠：炽焰斩 |
 | Legacy of Cania: Flame Blade | 卡尼亚的馈赠：火焰刀 |
 | Lesser Infernal Touch | 次级地狱之触 |
-| Lesser Restoration | 恢复 |
+| Lesser Restoration | 次级恢复 |
 | Levitate | 浮空术 |
 | Light: Bonus Cantrip | 光亮术：附赠戏法 |
 | Lightning Absorption | 闪电吸收 |
@@ -1645,6 +1664,7 @@
 | Camp Supply | 营地补给 |
 | Carrying Capacity | 负重 |
 | Critical Hit | 重击 |
+| Cross-Play | 跨平台游戏 |
 | Death Saving Throw | 死亡豁免检定 |
 | Difficulty Class | 难度等级 |
 | Disadvantage | 劣势 |
@@ -1653,6 +1673,7 @@
 | Heavy | 重型 |
 | High Ground | 高地 |
 | Hit Points | 生命值 |
+| Honour Mode | 荣誉模式 |
 | Initiative | 先攻 |
 | Inspiration | 激励点 |
 | Inspiration Point | 激励点 |
@@ -1671,6 +1692,7 @@
 | Multiclassing | 身兼多职 |
 | Opportunity Attack | 借机攻击 |
 | Opportunity Attacks | 借机攻击 |
+| Photo Mode | 拍照模式 |
 | Prepared Spells | 预备法术 |
 | Proficiency | 熟练项 |
 | Proficiency Bonus | 熟练项加值 |
@@ -2390,6 +2412,7 @@
 | Ketheric's Boots | 凯瑟里克之靴 |
 | Ketheric's Shield | 凯瑟里克之盾 |
 | Ketheric's Warhammer | 凯瑟里克的战锤 |
+| Knife of the Undermountain King | 地脉迷城之王的匕首 |
 | Knights of the Shield Hideout | 盾牌骑士藏身点 |
 | Knights of the Shield Report | 盾牌骑士的报告 |
 | Knock Knuckle Gloves | 灵指手套 |
@@ -4681,8 +4704,8 @@ Scroll or letter | 盾牌管家审讯日志
 | Investigate Moonrise Towers | 调查月出之塔 |
 | Iron Throne | 钢铁王座 |
 | Iron Throne - Windup and Shutdown | 钢铁王座 —— 终结与关停 |
-| Iron Throne Hatch | 铁王座活板门 |
-| Iron Throne Prisoner | 铁王座囚徒 |
+| Iron Throne Hatch | 钢铁王座活板门 |
+| Iron Throne Prisoner | 钢铁王座囚徒 |
 | Karsus Vault | 卡尔萨斯保险库 |
 | Keep back, Shadowheart | 留下，影心 |
 | Keep back | 退下 |

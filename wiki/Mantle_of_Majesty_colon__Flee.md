@@ -1,6 +1,6 @@
 # 威严斗篷：逃离
 
-**威严斗篷：逃离**是[魅惑学院](College_of_Glamour.md "魅惑学院")吟游诗人的职业动作，使用附赠动作命令敌人逃离。它对被[魅惑](Charmed_(Condition).md "魅惑（状态）")的敌人保证生效。
+**威严斗篷：逃离**是[迷惑学院](College_of_Glamour.md "迷惑学院")吟游诗人的职业动作，使用附赠动作命令敌人逃离。它对被[魅惑](Charmed_(Condition).md "魅惑（状态）")的敌人保证生效。
 
 ## 描述
 
@@ -41,7 +41,7 @@
 
 职业：
 
-- 职业等级 6：[魅惑学院](College_of_Glamour.md "魅惑学院")
+- 职业等级 6：[迷惑学院](College_of_Glamour.md "迷惑学院")
 
 此法术是以下法术的变体：
 [威严斗篷：命令](Mantle_of_Majesty_colon__Command.md "威严斗篷：命令")

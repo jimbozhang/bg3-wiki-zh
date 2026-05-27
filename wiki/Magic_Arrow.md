@@ -1,6 +1,6 @@
 # 魔法箭
 
-**魔法箭**是[奥术射手](Arcane_Archer.md "奥术射手")战士的被动特性，使其箭矢被视为魔法。
+**魔法箭**是[魔射手](Arcane_Archer.md "魔射手")战士的被动特性，使其箭矢被视为魔法。
 
 ## 描述
 
@@ -16,7 +16,7 @@
 
 职业：
 
-- 职业等级 7：[奥术射手](Arcane_Archer.md "奥术射手")
+- 职业等级 7：[魔射手](Arcane_Archer.md "魔射手")
 
 ---
 *Source: [Magic Arrow](https://bg3.wiki/wiki/Magic_Arrow)*

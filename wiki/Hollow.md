@@ -120,7 +120,7 @@
 
 如果地精幸存下来，队伍成员可以再次与她交谈，推进⁠[寻找治疗方法](Find_a_Cure.md "寻找治疗方法")任务并触发⁠[解救地精萨扎](Save_the_Goblin_Sazza.md "解救地精萨扎")任务。萨扎的笼子可以用[铁牢房钥匙](Iron_Cell_Key.md "铁牢房钥匙")打开，<sup>[\[2\]](#cite_note-2)</sup> 或通过通过 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")。帮助萨扎逃脱的最简单方法是跳下她笼子后面的岩石边缘，并引导萨扎穿过隐藏的石门（需要通过 DC 5 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")才能找到），进入位于 X: -438 Y: -140 的[地下通道](Underground_Passage.md "地下通道")。将萨扎从林地救出是获得成就**“她无法被关押！”**所需的[步骤之一](Guide_colon_She_Cannot_Be_Caged!.md "指南：她无法被关押！")。它还会授予具有[罪犯](Criminal.md "罪犯")背景的角色⁠[越狱者](Criminal.md#Jailbreaker "罪犯")激励点。
 
-让阿尔卡杀死萨扎对于[誓言之冠圣武士](Oath_of_the_Crown.md "誓言之冠")来说是[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")，而帮助她逃脱则会同时破坏[誓言之冠圣武士](Oath_of_the_Crown.md "誓言之冠")和[复仇之誓](Oath_of_Vengeance.md "复仇之誓")的誓言。
+让阿尔卡杀死萨扎对于[誓言之冠圣武士](Oath_of_the_Crown.md "王冠之誓")来说是[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")，而帮助她逃脱则会同时破坏[誓言之冠圣武士](Oath_of_the_Crown.md "王冠之誓")和[复仇之誓](Oath_of_Vengeance.md "复仇之誓")的誓言。
 
 ### 戴摩的铁匠铺与埃赛尔婶婶的商店
 

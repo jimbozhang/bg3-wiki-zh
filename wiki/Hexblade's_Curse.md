@@ -1,6 +1,6 @@
-# 脆弱诅咒
+# 咒剑士诅咒
 
-**脆弱诅咒**是[邪术师](The_Hexblade.md "邪术师")可用的类动作，允许他们诅咒目标。
+**咒剑士诅咒**是[咒剑士](The_Hexblade.md "咒剑士")可用的类动作，允许他们诅咒目标。
 
 ## 描述
 
@@ -20,19 +20,19 @@
 范围：18米（60英尺）
 充能：[短休](Short_rest.md "短休")
 
-## 状态：脆弱诅咒
+## 状态：咒剑士诅咒
 
-**[脆弱诅咒](Hexblade's_Curse_(Condition).md "脆弱诅咒 (状态)")**
+**[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒 (状态)")**
 
 持续时间：10驱散
 
-- 被邪术师诅咒。诅咒此实体的邪术师对其的伤害掷骰获得其[熟练项加值](Proficiency_Bonus.md "熟练项加值")的加值。攻击此实体时需要[掷骰](Attack_roll.md "攻击掷骰")出[重击](Critical_Hit.md "重击")的数值也减少1。
+- 被咒剑士诅咒。诅咒此实体的邪术师对其的伤害掷骰获得其[熟练项加值](Proficiency_Bonus.md "熟练项加值")的加值。攻击此实体时需要[掷骰](Attack_roll.md "攻击掷骰")出[重击](Critical_Hit.md "重击")的数值也减少1。
 
 ## 如何习得
 
 职业：
 
-- 职业等级1：[邪术师](The_Hexblade.md "邪术师")
+- 职业等级1：[咒剑士](The_Hexblade.md "咒剑士")
 
 ---
 *Source: [Hexblade's Curse](https://bg3.wiki/wiki/Hexblade's_Curse)*

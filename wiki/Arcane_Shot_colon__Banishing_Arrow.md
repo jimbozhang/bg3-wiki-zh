@@ -1,6 +1,6 @@
 # 奥术射击：放逐箭
 
-**奥术射击：放逐箭**是[奥术射手](Arcane_Archer.md "奥术射手")可用的一种特殊奥术箭攻击，可以将目标暂时放逐到另一个位面。
+**奥术射击：放逐箭**是[魔射手](Arcane_Archer.md "魔射手")可用的一种特殊奥术箭攻击，可以将目标暂时放逐到另一个位面。
 
 ## 描述
 
@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 命中后消耗
-[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")
+[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")
 伤害：
 
 正常武器伤害
@@ -37,7 +37,7 @@
 
 职业：
 
-- 职业等级 3：[奥术射手](Arcane_Archer.md "奥术射手")
+- 职业等级 3：[魔射手](Arcane_Archer.md "魔射手")
 
 ## 错误
 

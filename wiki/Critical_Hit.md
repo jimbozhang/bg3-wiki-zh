@@ -86,9 +86,9 @@
 | 15 | 30% | 51% | 75.99% | 88.24% |
 | 14 | 35% | 57.75% | 82.15% | 92.46% |
 
-  - [魔能诅咒](Hexblade's_Curse_(Condition).md "魔能诅咒（状态）") - 降低重击阈值1；这可以通过两个[魔能](Hexblade.md "魔能")1级特性应用：
-  - [魔能诅咒](Hexblade's_Curse.md "魔能诅咒") - 使用[附赠动作](Actions.md#Resources "动作")直接施加[魔能诅咒](Hexblade's_Curse_(Condition).md "魔能诅咒（状态）")10回合（充能：[短休](Short_rest.md "短休")）
-  - [誓缚被诅咒武器](Bind_Hexed_Weapon.md "誓缚被诅咒武器") - 使用[被诅咒武器](Hexed_Weapon_(Condition).md "被诅咒武器（状态）")攻击命中时，有20%几率施加[魔能诅咒](Hexblade's_Curse_(Condition).md "魔能诅咒（状态）")10回合。
+  - [咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒（状态）") - 降低重击阈值1；这可以通过两个[咒剑士](Hexblade.md "咒剑士")1级特性应用：
+  - [咒剑士诅咒](Hexblade's_Curse.md "咒剑士诅咒") - 使用[附赠动作](Actions.md#Resources "动作")直接施加[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒（状态）")10回合（充能：[短休](Short_rest.md "短休")）
+  - [誓缚被诅咒武器](Bind_Hexed_Weapon.md "誓缚被诅咒武器") - 使用[被诅咒武器](Hexed_Weapon_(Condition).md "被诅咒武器（状态）")攻击命中时，有20%几率施加[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒（状态）")10回合。
 
 ### 专长
 

@@ -83,7 +83,7 @@
 
 职业：
 
-- 职业等级6：[暗影魔法](Shadow_Magic.md "暗影魔法")
+- 职业等级6：[幽影术士](Shadow_Magic.md "幽影术士")
 
 生物使用：[厄兆猎犬](Hound_of_Ill_Omen.md "厄兆猎犬")
 

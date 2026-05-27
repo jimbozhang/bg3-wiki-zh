@@ -191,7 +191,7 @@
 
 > 用于施放[剑咏](Bladesong.md "剑咏")的资源。
 
-由[剑咏](Bladesinging.md "剑咏")法师使用和获得。可用充能数从 2 开始，在 5 级和 9 级各增加 1。
+由[剑咏者](Bladesinging.md "剑咏者")法师使用和获得。可用充能数从 2 开始，在 5 级和 9 级各增加 1。
 
 宇宙预兆
 
@@ -253,7 +253,7 @@
 
 > 用于施放奥术射击的资源。
 
-由[奥术射手](Arcane_Archer.md "奥术射手")使用和获得，用于施放[奥术射击](Arcane_Archer.md#Arcane_Shots "奥术射手")。充能数从 4 开始，在 7 级和 10 级各增加 3。
+由[魔射手](Arcane_Archer.md "魔射手")使用和获得，用于施放[奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")。充能数从 4 开始，在 7 级和 10 级各增加 3。
 
 [引导神力充能](Channel_Divinity_Charge.md "引导神力充能")
 

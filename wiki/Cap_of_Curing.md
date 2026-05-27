@@ -30,7 +30,7 @@ _关于抚慰之歌：_
 
 - 当角色通过[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")被治疗时，游戏不会将其等同于疗愈软帽佩戴者直接治疗该生物。因此，它不会触发[轻声承诺](The_Whispering_Promise.md "轻声承诺")的[祝福慈悲](Blessed_Mercy.md "祝福慈悲")等效果。
 - 治疗发生在给予诗人激励时，而非生物实际使用激励时。
-- 此效果仅由[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")或[战斗激励](Combat_Inspiration.md "战斗激励")触发。[阿尔菲拉](Alfira.md "阿尔菲拉")提供的[特殊版本](Improved_Bardic_Inspiration_(class_action).md "强化诗人激励（职业动作）")诗人激励不会触发治疗，[魅影学院](College_of_Glamour.md "魅影学院")的[激励斗篷](Mantle_of_Inspiration.md "激励斗篷")也不会触发。
+- 此效果仅由[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")或[战斗激励](Combat_Inspiration.md "战斗激励")触发。[阿尔菲拉](Alfira.md "阿尔菲拉")提供的[特殊版本](Improved_Bardic_Inspiration_(class_action).md "强化诗人激励（职业动作）")诗人激励不会触发治疗，[迷惑学院](College_of_Glamour.md "迷惑学院")的[激励斗篷](Mantle_of_Inspiration.md "激励斗篷")也不会触发。
 
 ## 图库
 

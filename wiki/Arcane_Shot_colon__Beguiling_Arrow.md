@@ -1,6 +1,6 @@
 # 奥术射击：魅惑箭
 
-**奥术射击：魅惑箭**是[奥术射手](Arcane_Archer.md "奥术射手")可用的一种特殊奥术箭攻击，可造成额外的2d6⁠⁠[心灵](Psychic.md "心灵")伤害并可能魅惑目标。
+**奥术射击：魅惑箭**是[魔射手](Arcane_Archer.md "魔射手")可用的一种特殊奥术箭攻击，可造成额外的2d6⁠⁠[心灵](Psychic.md "心灵")伤害并可能魅惑目标。
 
 ## 描述
 
@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 命中消耗
-[奥术箭](Arcane_Archer.md#Arcane_Archer "奥术射手")
+[奥术箭](Arcane_Archer.md#Arcane_Archer "魔射手")
 伤害：2~12
 
 普通武器伤害
@@ -37,7 +37,7 @@
 
 职业：
 
-- 职业等级3：[奥术射手](Arcane_Archer.md "奥术射手")
+- 职业等级3：[魔射手](Arcane_Archer.md "魔射手")
 
 ## 错误
 

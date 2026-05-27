@@ -105,7 +105,7 @@
 | [洛山达的祝福](Lathander's_Blessing.md "Lathander's Blessing") | [洛山达之血](The_Blood_of_Lathander.md "The Blood of Lathander") 被动 | 2d6⁠⁠[治疗](Healing.md "治疗") / 9米（30英尺）范围内的盟友获得+1d6⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
 | [坚韧不屈](Relentless_Endurance.md "Relentless Endurance") | 1级[半兽人](Half-Orc.md "Half-Orc") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
 | [坚韧狂暴](Relentless_Rage.md "Relentless Rage") | 11级[野蛮人](Barbarian.md "Barbarian") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 如果处于[激怒](Rage_(Condition).md "Rage (Condition)")状态 / 充能：[短休](Short_rest.md "Short rest") |
-| [墓穴之力](Strength_of_the_Grave.md "Strength of the Grave") | 1级[暗影魔法](Shadow_Magic.md "Shadow Magic")[术士](Sorcerer.md "Sorcerer") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
+| [墓穴之力](Strength_of_the_Grave.md "Strength of the Grave") | 1级[幽影术士](Shadow_Magic.md "幽影术士")[术士](Sorcerer.md "Sorcerer") 被动 | 1⁠⁠[治疗](Healing.md "治疗") | 持续时间：永久 | 充能：[长休](Long_Rest.md "Long rest") |
 | [求生直觉](Survival_Instinct_(Condition).md "Survival Instinct (Condition)") | [求生直觉](Survival_Instinct.md "Survival Instinct") 动作 | 3d4⁠⁠[治疗](Healing.md "治疗") | 持续时间：3回合 | 充能：[短休](Short_rest.md "Short rest") |
 
 ## 法术位

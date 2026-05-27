@@ -81,7 +81,7 @@
     - [英勇伤害](Valiant_Damage.md "英勇伤害")可以伤害一个额外目标，而[至圣斩](Divine_Smite.md "至圣斩")可以通过消耗多个法术位对同一攻击造成多个目标的伤害。这些特性可以与任何武器一起使用，也可以与上述武器结合使用。
     - 还有一些非伤害特性能够根据隐形攻击掷骰的结果，在灭族者范围效果内对每个目标触发一次：
   - 任何结果：[剑舞疗愈充能](Bladesong_Healing_Charge_(Condition).md "剑舞疗愈充能（状态）")、[野兽形态：狼獾](Aspect_of_the_Beast_colon__Wolverine.md "野兽形态：狼獾")、[灵活移动：躲避借机攻击](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：躲避借机攻击")和[花式步法](Fancy_Footwork.md "花式步法")
-- 命中时：[孤注一掷](Perilous_Stakes.md "孤注一掷")、[检察官的威能](Inquisitor's_Might.md "检察官的威能")（仅[眩晕](Dazed_(Condition).md "眩晕（状态）")）和[脆弱诅咒武器](Hexed_Weapon_(Condition).md "脆弱诅咒武器（状态）")（以及[魔能诅咒](Hexblade's_Curse_(Condition).md "魔能诅咒（状态）")的效果）
+- 命中时：[孤注一掷](Perilous_Stakes.md "孤注一掷")、[检察官的威能](Inquisitor's_Might.md "检察官的威能")（仅[眩晕](Dazed_(Condition).md "眩晕（状态）")）和[脆弱诅咒武器](Hexed_Weapon_(Condition).md "脆弱诅咒武器（状态）")（以及[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒（状态）")的效果）
     - 重击时：[催命警示](Mortal_Reminder.md "催命警示")和[巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack.md "巨武器大师：附赠攻击")
     - 由于条件要求检查错误，灭族者可能在使用后的下一回合无法使用。
 

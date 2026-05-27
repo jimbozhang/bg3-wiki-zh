@@ -43,7 +43,7 @@
 
 轻甲
 职业：[野蛮人](Barbarian.md "野蛮人")、[吟游诗人](Bard.md "吟游诗人")、[牧师](Cleric.md "牧师")、[德鲁伊](Druid.md "德鲁伊")、[战士](Fighter.md "战士")、[圣武士](Paladin.md "圣武士")、[游侠](Ranger.md "游侠")、[游荡者](Rogue.md "游荡者")、[邪术师](Warlock.md "邪术师")。
-职业特性：[剑咏](Bladesinging.md "剑咏")。
+职业特性：[剑咏者](Bladesinging.md "剑咏者")。
 种族：[人类](Human.md "人类")、[半精灵](Half-Elf.md "半精灵")。
 专长：[轻甲运用](Lightly_Armoured.md "轻甲运用")。
 中甲

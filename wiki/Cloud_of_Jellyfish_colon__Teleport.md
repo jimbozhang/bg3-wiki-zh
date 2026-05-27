@@ -1,6 +1,6 @@
 # 云水母：传送
 
-**云水母：传送**是[虫群守护者](Swarmkeeper.md "虫群守护者")游侠在选择了[云水母](Cloud_of_Jellyfish.md "云水母")后可用的自由动作。它可以在每回合击中敌人时触发一次，进行短距离传送。
+**云水母：传送**是[集群牧者](Swarmkeeper.md "集群牧者")游侠在选择了[云水母](Cloud_of_Jellyfish.md "云水母")后可用的自由动作。它可以在每回合击中敌人时触发一次，进行短距离传送。
 
 ## 描述
 
@@ -19,7 +19,7 @@
 
 职业：
 
-- 职业等级3：[虫群守护者](Swarmkeeper.md "虫群守护者")
+- 职业等级3：[集群牧者](Swarmkeeper.md "集群牧者")
 
 ---
 *Source: [Cloud of Jellyfish: Teleport](https://bg3.wiki/wiki/Cloud_of_Jellyfish:_Teleport)*

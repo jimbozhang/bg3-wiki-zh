@@ -31,8 +31,8 @@
 | --- | --- | --- | --- |
 | [扭曲幸运](Bend_Luck.md "扭曲幸运") | 2 + | 使目标获得1d4的[属性检定](Ability_Check.md "属性检定")加值或减值。你也可以作为[反应](Actions#Reactions.md#反应 "动作")，将此加值或减值应用于目标的[攻击掷骰](Attack_roll.md "攻击掷骰")或[豁免检定](Saving_throw.md "豁免检定")。 | 副职等级6 [狂野魔法](Wild_Magic_(sorcerer_subclass).md "狂野魔法（术士副职）") |
 | [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性") | 1 + | 当你施放一个造成与你龙族血统相匹配的伤害的法术时，你可以消耗1点术法点来获得对该伤害类型的[抗性](Damage_Types#Resistance.md#抗性 "伤害类型")。 | 副职等级6 [龙族血脉](Draconic_Bloodline.md "龙族血脉") |
-| [黑暗之眼：黑暗术](Eyes_of_the_Dark_colon__Darkness.md "黑暗之眼：黑暗术") | 2 + 1 | 创造一个黑暗帷幕，使范围内的生物[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")并[目盲](Blinded_(Condition).md "目盲（状态）")。生物无法向帷幕内或外进行远程攻击。[黑暗之眼](Eyes_of_the_Dark_(Condition).md "黑暗之眼（状态）") 你可以在黑暗中正常视物，无论是魔法还是非魔法黑暗，距离可达25米（83英尺）。 | 副职等级3 [暗影魔法](Shadow_Magic.md "暗影魔法") |
-| [凶兆猎犬](Hound_of_Ill_Omen.md "凶兆猎犬") | 3 + | 召唤一个黑暗生物。（参见[凶兆猎犬](Hound_of_Ill_Omen.md "凶兆猎犬")） | 副职等级6 [暗影魔法](Shadow_Magic.md "暗影魔法") |
+| [黑暗之眼：黑暗术](Eyes_of_the_Dark_colon__Darkness.md "黑暗之眼：黑暗术") | 2 + 1 | 创造一个黑暗帷幕，使范围内的生物[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽（状态）")并[目盲](Blinded_(Condition).md "目盲（状态）")。生物无法向帷幕内或外进行远程攻击。[黑暗之眼](Eyes_of_the_Dark_(Condition).md "黑暗之眼（状态）") 你可以在黑暗中正常视物，无论是魔法还是非魔法黑暗，距离可达25米（83英尺）。 | 副职等级3 [幽影术士](Shadow_Magic.md "幽影术士") |
+| [凶兆猎犬](Hound_of_Ill_Omen.md "凶兆猎犬") | 3 + | 召唤一个黑暗生物。（参见[凶兆猎犬](Hound_of_Ill_Omen.md "凶兆猎犬")） | 副职等级6 [幽影术士](Shadow_Magic.md "幽影术士") |
 | [超魔：谨慎法术](Metamagic_colon__Careful_Spell.md "超魔：谨慎法术") | 1 | 盟友自动成功通过需要[豁免检定](Saving_throws.md "豁免检定")的法术豁免。 | [术士](Sorcerer.md "术士")等级2 |
 | [超魔：远距法术](Metamagic_colon__Distant_Spell.md "超魔：远距法术") | 1 | 法术的射程增加50%。近战法术的射程增加至9米（30英尺）。 | [术士](Sorcerer.md "术士")等级2 |
 | [超魔：延长法术](Metamagic_colon__Extended_Spell.md "超魔：延长法术") | 1 | 法术造成的[状态](Condition.md "状态")、召唤物和地表的持续时间加倍。 | [术士](Sorcerer.md "术士")等级2 |

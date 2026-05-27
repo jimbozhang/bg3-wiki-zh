@@ -4,11 +4,11 @@
 
 - 与该武器誓缚的邪术师总是对其[重甲的](Proficient.md "重甲的")。
 - 该武器的伤害是魔法的，并使用邪术师的[魅力](Charisma.md "魅力")调整值。
-- 当邪术师使用该武器攻击时，有几率对目标施加[魔刃诅咒](Hexblade's_Curse_(Condition).md "魔刃诅咒 (状态)")。
+- 当邪术师使用该武器攻击时，有几率对目标施加[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒 (状态)")。
 
 ## 状态：魔刃诅咒
 
-**[魔刃诅咒](Hexblade's_Curse_(Condition).md "魔刃诅咒 (状态)")**
+**[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒 (状态)")**
 
 - 被魔刃邪术师诅咒。诅咒此实体的邪术师在对其造成伤害的[伤害掷骰](Damage_Roll.md "伤害掷骰")上添加其[熟练项加值](Proficiency_Bonus.md "熟练项加值")。攻击此实体时，[重击](Critical_Hit.md "重击")所需的[攻击掷骰](Attack_roll.md "攻击掷骰")数值也减少1。
 

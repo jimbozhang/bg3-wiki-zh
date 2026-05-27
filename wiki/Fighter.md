@@ -47,7 +47,7 @@
 
 战士的副职有：
 
-- [奥术射手](Arcane_Archer.md "奥术射手")
+- [魔射手](Arcane_Archer.md "魔射手")
 - [战斗大师](Battle_Master.md "战斗大师")
 - [冠军勇士](Champion.md "冠军勇士")
 - [奥法骑士](Eldritch_Knight.md "奥法骑士")
@@ -84,7 +84,7 @@
 [力量](Strength.md "力量") 用于物理攻击。
 [敏捷](Dexterity.md "敏捷") 用于使用[灵巧](Finesse.md "灵巧")和[远程攻击](Ranged_Attack.md "远程攻击")武器的物理攻击、[护甲等级](Armour_Class.md "护甲等级")（非[重甲](Armour.md#List_of_heavy_armour "护甲")）和[先攻](Initiative.md "先攻")。
 [体质](Constitution.md "体质") 用于生命值（以及[奥法骑士](Eldritch_Knight.md "奥法骑士")的[专注](Concentration.md "专注")检定）。
-[智力](Intelligence.md "智力") 用于法术（奥法骑士和奥术射手）。
+[智力](Intelligence.md "智力") 用于法术（奥法骑士和魔射手）。
 施法关键属性
 [智力](Intelligence.md "智力") 用于有效使用物品、卷轴和装备。
 
@@ -160,8 +160,8 @@
 
 - 获得 [奥秘](Arcana.md "奥秘") 熟练项。
 - 获得 [自然](Nature.md "自然") 熟练项。
-- 获得 4 支 [奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")
-- 选择 3 种 [奥术射击](Arcane_Archer.md#Arcane_Shots "奥术射手")
+- 获得 4 支 [奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")
+- 选择 3 种 [奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")
 
 获得以下戏法之一：
 
@@ -206,17 +206,17 @@
 
 #### 副职特性
 
-| [奥术射手](Arcane_Archer.md "奥术射手") | [战斗大师](Battle_Master.md "战斗大师") | [冠军勇士](Champion.md "冠军勇士") | [奥法骑士](Eldritch_Knight.md "奥法骑士") |
+| [魔射手](Arcane_Archer.md "魔射手") | [战斗大师](Battle_Master.md "战斗大师") | [冠军勇士](Champion.md "冠军勇士") | [奥法骑士](Eldritch_Knight.md "奥法骑士") |
 | --- | --- | --- | --- |
-| 获得 [奥秘](Arcana.md "奥秘") 熟练项。获得 [自然](Nature.md "自然") 熟练项。获得 4 支 [奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "奥术射手") 选择 3 种 [奥术射击](Arcane_Archer#Arcane_Shots.md#Arcane_Shots "奥术射手") 获得以下戏法之一：[神导术](Guidance.md "神导术") [轻型](Light.md "轻型") [克敌机先](True_Strike.md "克敌机先") | 获得 4 个 [卓越骰子](Battle_Master#Level_3.md#Level_3 "战斗大师") 选择 3 种 [战斗策略](Battle_Master#Level_3.md#Level_3 "战斗大师") | [精通重击](Improved_Critical_Hit.md "精通重击") | [武器绑定](Weapon_Bond.md "武器绑定") 新法术：获得两个一级法术位 选择 2 个 [戏法](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士") 选择 2 个 [法术](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士")（仅限[防护学派](Abjuration.md "防护学派")或[塑能学派](Evocation.md "塑能学派")） 选择 1 个 [法术](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士")（任意学派） |
+| 获得 [奥秘](Arcana.md "奥秘") 熟练项。获得 [自然](Nature.md "自然") 熟练项。获得 4 支 [奥术箭](Arcane_Archer#Arcane_Arrow.md#Arcane_Arrow "魔射手") 选择 3 种 [奥术射击](Arcane_Archer#Arcane_Shots.md#Arcane_Shots "魔射手") 获得以下戏法之一：[神导术](Guidance.md "神导术") [轻型](Light.md "轻型") [克敌机先](True_Strike.md "克敌机先") | 获得 4 个 [卓越骰子](Battle_Master#Level_3.md#Level_3 "战斗大师") 选择 3 种 [战斗策略](Battle_Master#Level_3.md#Level_3 "战斗大师") | [精通重击](Improved_Critical_Hit.md "精通重击") | [武器绑定](Weapon_Bond.md "武器绑定") 新法术：获得两个一级法术位 选择 2 个 [戏法](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士") 选择 2 个 [法术](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士")（仅限[防护学派](Abjuration.md "防护学派")或[塑能学派](Evocation.md "塑能学派")） 选择 1 个 [法术](Eldritch_Knight#Level_3.md#Level_3 "奥法骑士")（任意学派） |
 
 - [曲射](Curving_Shot.md "曲射")
 
 - [魔法箭](Magic_Arrow.md "魔法箭")
 
-- 选择 1 种额外的 [奥术射击](Arcane_Archer.md#Arcane_Shots "奥术射手")
+- 选择 1 种额外的 [奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")
 
-- 获得 3 支 [奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")
+- 获得 3 支 [奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")
 
 |
 
@@ -255,12 +255,12 @@
 
 #### 副职特性
 
-| [奥术射手](Arcane_Archer.md "奥术射手") | [战斗大师](Battle_Master.md "战斗大师") | [冠军勇士](Champion.md "冠军勇士") | [奥法骑士](Eldritch_Knight.md "奥法骑士") |
+| [魔射手](Arcane_Archer.md "魔射手") | [战斗大师](Battle_Master.md "战斗大师") | [冠军勇士](Champion.md "冠军勇士") | [奥法骑士](Eldritch_Knight.md "奥法骑士") |
 | --- | --- | --- | --- |
 | (无) | (无) | (无) | 选择 1 个 [法术](Eldritch_Knight#Level_7.md#Level_7 "奥法骑士")（仅限[防护学派](Abjuration.md "防护学派")或[塑能学派](Evocation.md "塑能学派")） |
 
-- 选择 1 种额外的 [奥术射击](Arcane_Archer.md#Arcane_Shots "奥术射手")
-- 获得 3 支 [奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")
+- 选择 1 种额外的 [奥术射击](Arcane_Archer.md#Arcane_Shots "魔射手")
+- 获得 3 支 [奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")
 
 | [精通卓越战技](Improved_Combat_Superiority.md "精通卓越战技")|
 

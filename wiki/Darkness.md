@@ -45,7 +45,7 @@
 
 职业：
 
-- 职业等级3：[术士](Sorcerer.md "术士")、[邪术师](Warlock.md "邪术师")、[法师](Wizard.md "法师")、[大地结社](Circle_of_the_Land.md "大地结社")（沼泽）和[暗影魔法](Shadow_Magic.md "暗影魔法")
+- 职业等级3：[术士](Sorcerer.md "术士")、[邪术师](Warlock.md "邪术师")、[法师](Wizard.md "法师")、[大地结社](Circle_of_the_Land.md "大地结社")（沼泽）和[幽影术士](Shadow_Magic.md "幽影术士")
 - 职业等级5：[弃誓者](Oathbreaker.md "弃誓者")（誓言法术）
 - 职业等级6：[逸闻学院](College_of_Lore.md "逸闻学院")（通过[魔法秘密](Magical_Secrets.md "魔法秘密")）
 - 职业等级7：[奥法骑士](Eldritch_Knight.md "奥法骑士")

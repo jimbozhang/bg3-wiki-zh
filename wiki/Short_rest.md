@@ -62,7 +62,7 @@
   - 5级或以上的[吟游诗人](Bard.md "吟游诗人")恢复其[诗人激励](Bardic_Inspiration_(resource).md) charges
   - [牧师](Cleric.md "牧师")恢复其[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")
   - [德鲁伊](Druid.md "德鲁伊")恢复其[荒野形态充能](Druid.md#Level_2 "德鲁伊")
-  - [战士](Fighter.md "战士")恢复其[动作如潮](Action_Surge.md "动作如潮")和[回气](Second_Wind.md "回气")能力的使用，以及其[卓越骰](Battle_Master.md#Level_3 "战斗大师")和[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")。
+  - [战士](Fighter.md "战士")恢复其[动作如潮](Action_Surge.md "动作如潮")和[回气](Second_Wind.md "回气")能力的使用，以及其[卓越骰](Battle_Master.md#Level_3 "战斗大师")和[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")。
   - [武僧](Monk.md "武僧")恢复其[气点](Ki_Point.md "气点")
   - [圣武士](Paladin.md "圣武士")恢复其[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")
   - [邪术师](Warlock.md "邪术师")恢复其[邪术师法术位](Spells.md#Pact_Magic "法术")

@@ -1,6 +1,6 @@
-# 魅惑学院
+# 迷惑学院
 
-**魅惑学院**是[吟游诗人](Bard.md "吟游诗人")的[副职](Bard.md#Level_3 "吟游诗人")之一。它能同时激励多个盟友，为其提供临时生命值并影响敌人。作为2025年补丁8的一部分发布。[[url 1]](#cite_note-1)
+**迷惑学院**是[吟游诗人](Bard.md "吟游诗人")的[副职](Bard.md#Level_3 "吟游诗人")之一。它能同时激励多个盟友，为其提供临时生命值并影响敌人。作为2025年补丁8的一部分发布。[[url 1]](#cite_note-1)
 
 > “
 >
@@ -38,7 +38,7 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[吟游
 
 ## 外部链接
 
-⁠[魅惑学院](https://forgottenrealms.fandom.com/wiki/College_of_Glamour) 位于 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+⁠[迷惑学院](https://forgottenrealms.fandom.com/wiki/College_of_Glamour) 位于 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [College of Glamour](https://bg3.wiki/wiki/College_of_Glamour)*

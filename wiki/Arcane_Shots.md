@@ -1,6 +1,6 @@
 # 奥术射击
 
-奥术射击是一套从3级开始可供[奥术射手](Arcane_Archer.md "奥术射手")副职使用的类别动作。它们是强大的攻击，使用[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")为远程攻击添加额外效果。它们在[短休](Short_rest.md "短休")时恢复，并且可用数量较多，允许它们比许多其他法术和类别能力更频繁地使用。
+奥术射击是一套从3级开始可供[魔射手](Arcane_Archer.md "魔射手")副职使用的类别动作。它们是强大的攻击，使用[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")为远程攻击添加额外效果。它们在[短休](Short_rest.md "短休")时恢复，并且可用数量较多，允许它们比许多其他法术和类别能力更频繁地使用。
 
 ## 目录
 
@@ -15,7 +15,7 @@
 
 ## 奥术箭
 
-[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")在[短休](Short_rest.md "短休")或[长休](Long_Rest.md "长休")时恢复至最大值。随着奥术射手等级的提升，可用的[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术射手")数量和已知的奥术射击数量都会增加。
+[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")在[短休](Short_rest.md "短休")或[长休](Long_Rest.md "长休")时恢复至最大值。随着魔射手等级的提升，可用的[奥术箭](Arcane_Archer.md#Arcane_Arrow "魔射手")数量和已知的奥术射击数量都会增加。
 
 ## 奥术射击列表
 

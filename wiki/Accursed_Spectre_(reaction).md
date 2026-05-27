@@ -2,7 +2,7 @@
 
 另请参阅：[诅咒幽鬼 (被动特性)](Accursed_Spectre_(passive_feature).md)
 
-**诅咒幽鬼**是授予[邪术师](The_Hexblade.md "邪术师")的反应，允许他们从被[邪术师诅咒](Hexblade's_Curse_(Condition).md "邪术师诅咒 (状态)")的倒下敌人身上召唤一个幽鬼。
+**诅咒幽鬼**是授予[咒剑士](The_Hexblade.md "咒剑士")的反应，允许他们从被[咒剑士诅咒](Hexblade's_Curse_(Condition).md "咒剑士诅咒 (状态)")的倒下敌人身上召唤一个幽鬼。
 
 ## 描述
 
@@ -90,7 +90,7 @@
 
 职业：
 
-- 职业等级 6：[邪术师](The_Hexblade.md "邪术师")
+- 职业等级 6：[咒剑士](The_Hexblade.md "咒剑士")
 
 ## 备注
 

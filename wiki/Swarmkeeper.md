@@ -1,6 +1,6 @@
-# 虫群守护者
+# 集群牧者
 
-**虫群守护者**是[游侠](Ranger.md "游侠")的[副职](Ranger.md#Level_3 "游侠")之一。他们指挥一群妖精生物在战斗中协助自己。作为2025年补丁8的一部分发布。[[url 1]](#cite_note-1)
+**集群牧者**是[游侠](Ranger.md "游侠")的[副职](Ranger.md#Level_3 "游侠")之一。他们指挥一群妖精生物在战斗中协助自己。作为2025年补丁8的一部分发布。[[url 1]](#cite_note-1)
 
 > “
 >
@@ -16,7 +16,7 @@ _此副职除了下述的独特特性外，还获得其基础职业[游侠](Rang
 
 ### 等级 3
 
-[猎物的气味](Prey's_Scent_(Swarmkeeper).md "猎物的气味 (虫群守护者)")
+[猎物的气味](Prey's_Scent_(Swarmkeeper).md "猎物的气味 (集群牧者)")
 你的蜂群对被[猎人印记](Hunter's_Mark.md "猎人印记")标记的生物造成额外伤害。
 
 集结蜂群
@@ -110,7 +110,7 @@ _此副职除了下述的独特特性外，还获得其基础职业[游侠](Rang
 
 ## 外部链接
 
-- ⁠[虫群守护者](https://forgottenrealms.fandom.com/wiki/Swarmkeeper) 位于 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[集群牧者](https://forgottenrealms.fandom.com/wiki/Swarmkeeper) 位于 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [Swarmkeeper](https://bg3.wiki/wiki/Swarmkeeper)*

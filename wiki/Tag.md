@@ -91,7 +91,7 @@
 - [至高妖精](The_Archfey.md "至高妖精")
 - [邪魔](The_Fiend.md "邪魔")
 - [旧日支配者](The_Great_Old_One.md "旧日支配者")
-- [魔契之刃](The_Hexblade.md "魔契之刃")
+- [咒剑士](The_Hexblade.md "咒剑士")
 
 ### 牧师神祇
 

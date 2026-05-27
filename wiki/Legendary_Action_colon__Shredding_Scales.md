@@ -1,6 +1,6 @@
 # 传奇动作：粉碎天平
 
-此页面内容为 [荣誉模式](Honour_Mode.md "荣誉 mode") 独占。
+此页面内容为 [荣誉模式](Honour_Mode.md "荣誉模式") 独占。
 
 **传奇动作：粉碎天平** 是 [鲨蜥兽](Bulette.md "鲨蜥兽") 在 [荣誉模式](Honour_Mode.md "荣誉模式") 中可用的 [被动特性](Passive_feature.md "被动特性")。
 

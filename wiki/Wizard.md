@@ -49,7 +49,7 @@
 
 - [防护学派](Abjuration_School.md "防护学派")
 
-- [剑咏](Bladesinging.md "剑咏")
+- [剑咏者](Bladesinging.md "剑咏者")
 
 - [咒法学派](Conjuration_School.md "咒法学派")
 
@@ -250,7 +250,7 @@
 
 - [初级咒法：造水](Minor_Conjuration_colon__Create_Water.md "初级咒法：造水")
 
-| [防护学派](Abjuration_School.md "防护学派") | [剑咏](Bladesinging.md "剑咏") | [咒法学派](Conjuration_School.md "咒法学派") |
+| [防护学派](Abjuration_School.md "防护学派") | [剑咏者](Bladesinging.md "剑咏者") | [咒法学派](Conjuration_School.md "咒法学派") |
 | --- | --- | --- |
 | [防护学者](Abjuration_Savant.md "防护学者") 从[卷轴](Scrolls.md "卷轴")学习[防护法术](Abjuration_spells.md "防护法术")的费用减半。 [奥术守御](Arcane_Ward.md "奥术守御") | [剑咏](Bladesong.md "剑咏") [战争与歌谣训练](Training_in_War_and_Song.md "战争与歌谣训练") | [咒法学者](Conjuration_Savant.md "咒法学者") 从[卷轴](Scrolls.md "卷轴")学习[咒法法术](Conjuration_spells.md "咒法法术")的费用减半。 [初级咒法：造水](Minor_Conjuration_colon__Create_Water.md "初级咒法：造水") |
 
@@ -382,9 +382,9 @@
 - [防护能量伤害](Protection_from_Energy.md "防护能量伤害") * [移除诅咒](Remove_Curse.md "移除诅咒")
 - [雪雨暴](Sleet_Storm.md "雪雨暴")*[减速](Slow.md "减速")* [臭云术](Stinking_Cloud.md "臭云术") * [吸血鬼之触](Vampiric_Touch.md "吸血鬼之触") #### 副职特性
 
-## [剑咏](Bladesinging.md "剑咏")
+## [剑咏者](Bladesinging.md "剑咏者")
 
-- [剑咏之力](Bladesinging.md#Level_2 "剑咏")：3
+- [剑咏之力](Bladesinging.md#Level_2 "剑咏者")：3
 
 ### 6级
 
@@ -474,9 +474,9 @@
 - [召唤元素生物](Conjure_Elemental.md "召唤元素生物")
 - [支配人类](Dominate_Person.md "支配人类")*[怪物定身术](Hold_Monster.md "怪物定身术")* [异界誓缚](Planar_Binding.md "异界誓缚")*[伪装术](Seeming.md "伪装术")* [心灵遥控](Telekinesis.md "心灵遥控") * [石墙术](Wall_of_Stone.md "石墙术") #### 副职特性
 
-## [剑咏](Bladesinging.md "剑咏")
+## [剑咏者](Bladesinging.md "剑咏者")
 
-[剑咏之力](Bladesinging.md#Level_2 "剑咏")：4
+[剑咏之力](Bladesinging.md#Level_2 "剑咏者")：4
 
 ### 10级
 
@@ -494,7 +494,7 @@
 
 #### 副职特性
 
-| [剑咏](Bladesinging.md "剑咏") |
+| [剑咏者](Bladesinging.md "剑咏者") |
 | --- |
 | [剑咏之力](Bladesinging#Level_2.md#Level_2 "剑咏")：3 |
 

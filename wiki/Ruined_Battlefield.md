@@ -152,7 +152,7 @@
 
 [邪念](Dark_Urge.md "邪念")角色有一个独特的选项可以杀死多利。这样做自然会阻止他们获得她的祝福，但会获得[捕蝇者](Haunted_One.md#Fly-Swatter "邪念缠身")激励点。
 
-无视多利的恳求对于[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")而言被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。转动提灯的机关从而折磨她会打破[誓言之冠圣武士](Oath_of_the_Crown.md "誓言之冠")和[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")的誓言，而杀死她会打破任何誓言子职圣武士的誓言。
+无视多利的恳求对于[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")而言被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。转动提灯的机关从而折磨她会打破[誓言之冠圣武士](Oath_of_the_Crown.md "王冠之誓")和[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")的誓言，而杀死她会打破任何誓言子职圣武士的誓言。
 
 遭遇解决后，队伍可以从 X: -12 Y: -7 的上锁箱子中掠夺[严厉之锤的薄雾护符](Hammergrim_Mist_Amulet.md "严厉之锤的薄雾护符")，需要 DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁；否则，箱子的[钥匙](Key_(Harpers'_Ambush).md "钥匙（竖琴手伏击）")位于小屋屋顶骷髅附近。此外，如果护卫队被消灭，可以从坎西夫身上掠夺[奥术热能手套](Thermoarcanic_Gloves.md "奥术热能手套")，从卡'尼斯身上掠夺[残忍蛰刺](Cruel_Sting.md "残忍蛰刺")。
 

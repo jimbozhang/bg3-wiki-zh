@@ -1,6 +1,6 @@
 # 威严斗篷：缴械
 
-**威严斗篷：缴械**是[魅惑学院](College_of_Glamour.md "魅惑学院")吟游诗人的职业动作，可通过附赠动作命令敌人丢弃武器。对被[魅惑](Charmed_(Condition).md "魅惑（状态）")的敌人必定生效。
+**威严斗篷：缴械**是[迷惑学院](College_of_Glamour.md "迷惑学院")吟游诗人的职业动作，可通过附赠动作命令敌人丢弃武器。对被[魅惑](Charmed_(Condition).md "魅惑（状态）")的敌人必定生效。
 
 ## 描述
 
@@ -40,7 +40,7 @@
 
 职业：
 
-- 职业等级6：[魅惑学院](College_of_Glamour.md "魅惑学院")
+- 职业等级6：[迷惑学院](College_of_Glamour.md "迷惑学院")
 
 此法术是以下法术的变体：
 [威严斗篷：命令术](Mantle_of_Majesty_colon__Command.md "威严斗篷：命令术")
