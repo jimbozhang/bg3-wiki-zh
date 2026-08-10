@@ -22,7 +22,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "好
     - [1.1.5 地精营地](#goblin-camp)
     - [1.1.6 幽暗地域和复仇之炉](#underdark-and-grymforge)
     - [1.1.7 晋升之路和散塔林会窝点](#the-risen-road-and-zhentarim-hideout)
-    - [1.1.8 山隘和伊雷珂养育间](#mountain-pass-and-cr%C3%A8che_Y'llek)
+    - [1.1.8 山隘和伊雷珂养育间](#mountain-pass-and-Crèche_Y'llek)
   - [1.2 营地和对话](#campsite-and-conversations)
   - [1.3 伙伴任务](#companion-quest)
 - [2 第二幕](#act-two)
@@ -141,7 +141,7 @@ _在[座狼兽栏](../Worg_Pens.md "座狼兽栏")：_
 - 向[奥斯卡·费拉斯](../Oskar_Fevras.md "奥斯卡·费拉斯")承诺会与他的绑架者交谈 (-1)
   - 在释放奥斯卡后，额外给他200金币 (-1)
 
-#### [山隘](../Mountain_Pass.md "山隘")和[伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+#### [山隘](../Mountain_Pass.md "山隘")和[伊雷珂养育间](../Crèche_Y'llek.md "伊雷珂养育间")
 
 - 在遇到吉斯洋基巡逻队的地点附近攻击[艾莉卡](../Ellyka.md "艾莉卡") (-1)
   - 或者，[伪装](../Disguise_Self.md "伪装术")成吉斯洋基人，激怒她攻击你 (-1)

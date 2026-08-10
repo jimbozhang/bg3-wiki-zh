@@ -13,7 +13,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 40 |
 
-**达'哈克**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")中的一匹[狼](Wolf.md "Wolf")，出现在[第一幕](Act_One.md "Act One")。
+**达'哈克**是[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")中的一匹[狼](Wolf.md "Wolf")，出现在[第一幕](Act_One.md "Act One")。
 
 > “
 >

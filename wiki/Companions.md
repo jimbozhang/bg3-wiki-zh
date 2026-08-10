@@ -252,7 +252,7 @@
 - [卡菈克](Karlach.md "卡菈克")可以在[崛起之路](Risen_Road.md "崛起之路")沿线找到，位于[收费站](Risen_Road_Toll_House.md "崛起之路收费站")南方，沿着一条通往河边的血迹小路尽头。
 - [莱埃泽尔](Lae'zel.md "莱埃泽尔")是[序幕](Prologue.md "序幕")中的临时伙伴。之后可以在以下地点找到并招募：
   - 被两名[提夫林](Tiefling.md "提夫林")关在笼子里，位于[翠绿林地](Emerald_Grove.md "翠绿林地")南方
-  - 在[寻找吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "寻找吉斯洋基养育间")任务中与吉斯洋基巡逻队对峙
+  - 在[寻找吉斯洋基养育间](Find_the_Githyanki_Crèche.md "寻找吉斯洋基养育间")任务中与吉斯洋基巡逻队对峙
   - 死亡，在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")。她的尸体损坏严重无法对话，但可以使用[回生术](Revivify.md "回生术")或其卷轴版本将她复活。
 - [影心](Shadowheart.md "影心")是序幕中的可选临时伙伴。之后可以在以下地点找到并招募：
   - 昏迷在[疮痍的海滩](Ravaged_Beach.md "疮痍的海滩")上，靠近玩家角色着陆点——如果在鹦鹉螺号上将她从舱体中释放
@@ -336,7 +336,7 @@
   - 在[营地](Camp.md "营地")的对质后，当[影心](Shadowheart.md "影心")准备在莱埃泽尔睡着时杀死她，站在影心一边或什么都不做
   - 作为[出身](Origin.md "出身")角色[影心](Shadowheart.md "影心")，当莱埃泽尔要求解释[神秘遗物](Mysterious_Artefact.md "神秘遗物")时攻击她，或让她拿走它
   - 当莱埃泽尔在[山隘](Mountain_Pass.md "山隘")去与吉斯洋基战士交谈时，进行长休、快速旅行或攻击[沃斯](Voss.md "沃斯")或任何吉斯洋基战士
-  - 在解决⁠[寻找吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "寻找吉斯洋基养育间")之前前往[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，除非玩家角色威吓她留下
+  - 在解决⁠[寻找吉斯洋基养育间](Find_the_Githyanki_Crèche.md "寻找吉斯洋基养育间")之前前往[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，除非玩家角色威吓她留下
   - 进入[堕影冥界](Shadowfell.md "堕影冥界")时让她在[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")等待
   - 在不选择特定对话的情况下拒绝让她使用[扎伊斯克净化者](Zaith'isk.md "扎伊斯克净化者")
   - 拒绝将[神秘遗物](Mysterious_Artefact.md "神秘遗物")交给[沃瓦加兹](W'wargaz.md "沃瓦加兹")，除非选择仅让他敌对的对话选项

@@ -403,7 +403,7 @@ _“我们战斗，我们死亡，当我们的时刻到来时，我们只希望�
 
 - [炼金术小袋](Alchemy_Pouch.md "炼金术小袋")
 - [营地补给袋](Camp_Supply_Sack.md "营地补给袋")
-- [贾希拉的靴子](Jaheira%E2%80%99s_Boots.md "贾希拉的靴子")
+- [贾希拉的靴子](Jaheira's_Boots.md "贾希拉的靴子")
 - [皮甲](Leather_Armour.md "皮甲")
 - [皮手套](Leather_Gloves.md "皮手套")
 - [贾希拉的体面服装](Jaheira's_Respectable_Clothes.md "贾希拉的体面服装")

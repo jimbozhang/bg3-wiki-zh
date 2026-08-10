@@ -26,7 +26,7 @@
 | [变形](Polymorphed_(Tressym)_(Condition).md "变形 (翼猫) (状态)") | 变为野兽。 |
 | [蟾蜍模式](Toad_Mode_(Condition).md "蟾蜍模式 (状态)") | 如果你不想思考，多利三世会让你缩小。 |
 
-[舞光术](Dancing_Lights_(Deep_Roth%C3%A9).md "舞光术 (地底洛斯兽)")
+[舞光术](Dancing_Lights_(Deep_Rothé).md "舞光术 (地底洛斯兽)")
 照亮 9 米 / 30 英尺半径的区域。
 
 [狂热冲锋](Frenzied_Charge.md "狂热冲锋")

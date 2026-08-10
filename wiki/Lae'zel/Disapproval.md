@@ -21,7 +21,7 @@ _有关好感度系统的更多信息，请参阅[好感度](../Approval.md "好
     - [1.1.4 森林、枭熊巢穴和染疫村落](#forest,_Owlbear_Nest_and_Blighted_Village)
     - [1.1.5 地精营地](#goblin-camp)
     - [1.1.6 幽暗地域**和**复仇之炉](#underdark-and-grymforge)
-    - [1.1.7 山隘和伊雷珂养育间](#mountain-pass-and-cr%C3%A8che_Y'llek)
+    - [1.1.7 山隘和伊雷珂养育间](#mountain-pass-and-Crèche_Y'llek)
     - [1.1.8 星界](#astral-plane)
     - [1.1.9 其他地点](#other-locations)
   - [1.2 营地和对话](#campsite-and-conversations)
@@ -111,7 +111,7 @@ _**注意：** 萨扎必须从翠绿林地的笼子中被释放_
 - 支持尼雷对抗[布利斯瓦尔长老](../Elder_Brithvar.md "布利斯瓦尔长老") (-1)
 - 击败尼雷后，向灰矮人询问侏儒奴隶的事，并称他们为宝贵资产 (-1)
 
-#### [山隘](../Mountain_Pass.md "山隘")和[伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+#### [山隘](../Mountain_Pass.md "山隘")和[伊雷珂养育间](../Crèche_Y'llek.md "伊雷珂养育间")
 
 - 亲自与[沃斯](../Voss.md "沃斯")交谈，而不是让[莱埃泽尔](../Lae'zel.md "莱埃泽尔")去做 (-5) _（两条可用台词任选其一）_
   - 或者向他展示[神秘遗物](../Mysterious_Artefact.md "神秘遗物") (-5)
@@ -124,13 +124,13 @@ _在伊雷珂养育间_
   - 或者，扮演[游侠](../Ranger.md "游侠")时，使用职业专属台词[威吓](../Intimidation.md "威吓")吉斯·法'拉格让你进入 (-1)
 - 亵渎[维拉基斯](../Vlaakith.md "维拉基斯")的肖像 (-1)
 
-_在[医务室](../Cr%C3%A8che_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")中：_
+_在[医务室](../Crèche_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")中：_
 
 - 要求第一个使用*[扎伊斯克净化者](../Zaith'isk.md "扎伊斯克净化者")*，但未能通过说服莱埃泽尔的检定 (-3)
   - 询问这个过程是否会伤害你 (-1)
 - 从*扎伊斯克净化者*中被释放后，成功[欺瞒](../Deception.md "欺瞒")[医疗官斯托努苟斯](../Ghustil_Stornugoss.md "医疗官斯托努苟斯")，说你或莱埃泽尔已被治愈 (-1)
 
-_在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "伊雷珂养育间")中：_
+_在[教室](../Crèche_Y'llek.md#Classroom "伊雷珂养育间")中：_
 
 - 以任何方式拯救[青年瓦尔](../Youth_Varrl.md "青年瓦尔")，然后：
   - 向他展示俄耳甫斯故事的[第一章](../Orpheus,_Prince_of_the_Comet,_Part_One_colon__Betrayal.md "俄耳甫斯，彗星王子，第一部分：背叛")（如果你在[奥法高塔](../Arcane_Tower.md "奥法高塔")中找到了它），并提议用它交换他的石板盘 (-1)
@@ -140,7 +140,7 @@ _**注意：** 如果你与瓦尔战斗并让他倒地，对话会将他视为�
 
 - 解决瓦尔的命运后，再次与[凯斯克](../Kethk.md "凯斯克")交谈，称他的“课程”/他的“示范”应受谴责 (-1)
 
-_在[孵化室](../Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")中：_
+_在[孵化室](../Crèche_Y'llek.md#Hatchery "伊雷珂养育间")中：_
 
 - 告诉[养育官寇库](../Varsh_Ko'kuu.md "养育官寇库")最后一个[吉斯洋基蛋](../Githyanki_Egg.md "吉斯洋基蛋")显然是个坏蛋 (-1)
 - 告诉寇库，如果他把蛋给你，你会以最高价出售它或者给自己做个煎蛋卷 (-1)
@@ -148,7 +148,7 @@ _在[孵化室](../Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")中：_
 
 _**注意：** 任何对蛋造成伤害或摧毁的威胁都会使寇库和孵化室守卫变得敌对_
 
-_在[队长办公区](../Cr%C3%A8che_Y'llek.md#Captain's_Quarters "伊雷珂养育间")和[审判官的房间](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")中：_
+_在[队长办公区](../Crèche_Y'llek.md#Captain's_Quarters "伊雷珂养育间")和[审判官的房间](../Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")中：_
 
 - 询问[审判官瓦尔'戈兹](../W'wargaz.md "审判官瓦尔'戈兹")交出武器会得到什么回报 (-1)
 

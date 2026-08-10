@@ -42,7 +42,7 @@
 
 ## 更高等级
 
-- 4级时获得[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9.md "荒野形态：地底洛斯兽")的使用权。
+- 4级时获得[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Rothé.md "荒野形态：地底洛斯兽")的使用权。
 - 6级时获得[荒野形态：黑豹](Wild_Shape_colon__Panther.md "荒野形态：黑豹")和[荒野形态：枭熊](Wild_Shape_colon__Owlbear.md "荒野形态：枭熊")的使用权。
 - 10级时获得[荒野形态：双脊龙](Wild_Shape_colon__Dilophosaurus.md "荒野形态：双脊龙")的使用权。
 
@@ -56,7 +56,7 @@
 | [蜘蛛](Wild_Shape_colon__Spider.md "荒野形态：蜘蛛") | 2 | 11 | +3 | 14 | 20 | 74 | 14 | 16 | 12 |
 | [狼](Wild_Shape_colon__Wolf.md "荒野形态：狼") | 2 | 12 | +2 | 14 | 18 | 97 | 17 | 15 | 15 |
 | [恐鸦](Wild_Shape_colon__Dire_Raven.md "荒野形态：恐鸦") | 4* | 14 | +2 | 16 | 13 | 13 | 6 | 14 | 8 |
-| [地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9.md "荒野形态：地底洛斯兽") | 4 | 10 | +0 | 10 | 23 | 48 | 18 | 10 | 14 |
+| [地底洛斯兽](Wild_Shape_colon__Deep_Rothé.md "荒野形态：地底洛斯兽") | 4 | 10 | +0 | 10 | 23 | 48 | 18 | 10 | 14 |
 | [黑豹](Wild_Shape_colon__Panther.md "荒野形态：黑豹") | 6 | 12 | +2 | 14 | 45 | 68 | 14 | 15 | 10 |
 | [枭熊](Wild_Shape_colon__Owlbear.md "荒野形态：枭熊") | 6 | 14 | +1 | 15 | 65 | 112 | 20 | 12 | 17 |
 | [剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger.md "荒野形态：剑齿虎") | 8* | 12 | +1 | 13 | 67 | 89 | 18 | 13 | 15 |
@@ -76,7 +76,7 @@
 - [荒野形态：蜘蛛](Wild_Shape_colon__Spider.md "荒野形态：蜘蛛")
 - [荒野形态：狼](Wild_Shape_colon__Wolf.md "荒野形态：狼")
 - [荒野形态：恐鸦](Wild_Shape_colon__Dire_Raven.md "荒野形态：恐鸦")
-- [荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9.md "荒野形态：地底洛斯兽")
+- [荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Rothé.md "荒野形态：地底洛斯兽")
 - [荒野形态：黑豹](Wild_Shape_colon__Panther.md "荒野形态：黑豹")
 - [荒野形态：枭熊](Wild_Shape_colon__Owlbear.md "荒野形态：枭熊")
 - [荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger.md "荒野形态：剑齿虎")

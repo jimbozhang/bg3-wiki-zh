@@ -91,7 +91,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 ### 找到吉斯洋基养育间
 
-如果招募了[莱埃泽尔](Lae'zel.md "Lae'zel")，她会坚持认为吉斯洋基养育间会有治疗方法。她将这个过程称为“净化”，并声称[扎伊斯克净化者](Zaith'isk.md "Zaith'isk")是一种神圣的设备，可以治愈感染者的蝌蚪。这会开始[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "Find the Githyanki Crèche")。队伍可以在[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")的[瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery")内找到一个养育间。在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的医务室里是[医疗官斯托努苟斯](Stornugoss.md "Stornugoss")，如果队伍告诉她他们被感染了，她声称可以净化队伍。不幸的是，通过“净化”过程，揭示了扎伊斯克净化者并非治疗设备：它只是提取感染者的记忆，然后杀死他们。
+如果招募了[莱埃泽尔](Lae'zel.md "Lae'zel")，她会坚持认为吉斯洋基养育间会有治疗方法。她将这个过程称为“净化”，并声称[扎伊斯克净化者](Zaith'isk.md "Zaith'isk")是一种神圣的设备，可以治愈感染者的蝌蚪。这会开始[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "Find the Githyanki Crèche")。队伍可以在[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")的[瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery")内找到一个养育间。在[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的医务室里是[医疗官斯托努苟斯](Stornugoss.md "Stornugoss")，如果队伍告诉她他们被感染了，她声称可以净化队伍。不幸的是，通过“净化”过程，揭示了扎伊斯克净化者并非治疗设备：它只是提取感染者的记忆，然后杀死他们。
 
 任何踏入扎伊斯克净化者的人必须通过三次[豁免检定](Saving_throws.md "Saving Throws")以防止持续的负面效果：分别降低2点感知、智力和体质。通过*全部三次*豁免将获得永久的[被唤醒者](Awakened.md "Awakened")增益。任何获得的负面效果都可以通过消耗[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "Mind Flayer Parasite Specimen")来治愈。
 
@@ -102,7 +102,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 ## 相关任务
 
 - [请求地精女祭司的帮助](Ask_the_Goblin_Priestess_for_Help.md "Ask the Goblin Priestess for Help")
-- [找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "Find the Githyanki Crèche")
+- [找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "Find the Githyanki Crèche")
 - [获得埃赛尔婶婶的帮助](Get_Help_from_Auntie_Ethel.md "Get Help from Auntie Ethel")
 - [获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "Get Help from Healer Nettie")
 - [帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite")

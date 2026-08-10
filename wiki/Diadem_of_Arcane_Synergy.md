@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") X: 1365 Y: -663：由[审判官的房间](Creche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")中的[炽念者吉'瑞萨斯](Jhe'rezath.md "炽念者吉'瑞萨斯")携带
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") X: 1365 Y: -663：由[审判官的房间](Creche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")中的[炽念者吉'瑞萨斯](Jhe'rezath.md "炽念者吉'瑞萨斯")携带
 
 ## 备注
 

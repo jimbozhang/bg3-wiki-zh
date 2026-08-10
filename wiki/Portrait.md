@@ -31,7 +31,7 @@
   - [一个女人的肖像画](Portrait_of_a_Woman.md "Portrait of a Woman")
   - [斯特梅的肖像](Stelmane's_Portrait.md "Stelmane's Portrait") - 在[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "Knights of the Shield Hideout")中
 - 在[解救艺术家](Free_the_Artist.md "Free the Artist")中的附魔肖像
-- [维拉基斯的小肖像画](Small_Portrait_of_Vlaakith.md "Small Portrait of Vlaakith") 在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md#Main_Corridor "Crèche Y'llek")中
+- [维拉基斯的小肖像画](Small_Portrait_of_Vlaakith.md "Small Portrait of Vlaakith") 在[伊雷珂养育间](Crèche_Y'llek.md#Main_Corridor "Crèche Y'llek")中
 - 在[奥斯卡的工作室](Oskar's_Atelier.md "Oskar's Atelier")中的额外肖像<sup>[\[3\]](#cite_note-3)</sup>
 
 ## 注释和参考

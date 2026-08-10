@@ -18,17 +18,17 @@
 
 ## 获取地点
 
-- 位于[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")上的[冠蓝鸦的巢穴](Rosymorn_Monastery_Trail.md#Blue_Jay's_nest "瑰晨修道院小径")，以及[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")主入口附近东侧牢房上方的桌子上
+- 位于[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")上的[冠蓝鸦的巢穴](Rosymorn_Monastery_Trail.md#Blue_Jay's_nest "瑰晨修道院小径")，以及[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")主入口附近东侧牢房上方的桌子上
 
 - 由[战士 Qen](Qen.md "战士 Qen")携带
 
 ## 用途
 
-- 打开通往[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")的[悬崖入口](Cr%C3%A8che_Y'llek.md#Cliffside_Entrance "伊雷珂养育间")
+- 打开通往[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")的[悬崖入口](Crèche_Y'llek.md#Cliffside_Entrance "伊雷珂养育间")
 
 ## 备注
 
-- 与[钥匙（伊雷珂养育间）](Key_(Cr%C3%A8che_Y'llek)不同.md)，这把钥匙*不*能打开养育间主入口附近的四道铁门。
+- 与[钥匙（伊雷珂养育间）](Key_(Crèche_Y'llek)不同.md)，这把钥匙*不*能打开养育间主入口附近的四道铁门。
 
 ---
 *Source: [Key (Crèche Cliffside Entrance)](https://bg3.wiki/wiki/Key_(Crèche_Cliffside_Entrance)*

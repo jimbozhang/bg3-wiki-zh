@@ -54,7 +54,7 @@
 - [荒野形态：蜘蛛](Wild_Shape_colon__Spider.md "荒野形态：蜘蛛")
 - [荒野形态：狼](Wild_Shape_colon__Wolf.md "荒野形态：狼")
 - [荒野形态：恐鸦](Wild_Shape_colon__Dire_Raven.md "荒野形态：恐鸦")
-- [荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9.md "荒野形态：地底洛斯兽")
+- [荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Rothé.md "荒野形态：地底洛斯兽")
 - [荒野形态：黑豹](Wild_Shape_colon__Panther.md "荒野形态：黑豹")
 - [荒野形态：枭熊](Wild_Shape_colon__Owlbear.md "荒野形态：枭熊")
 - [荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger.md "荒野形态：剑齿虎")

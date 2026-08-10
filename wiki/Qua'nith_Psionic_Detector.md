@@ -12,7 +12,7 @@
 - 价格：1 gp
 - UID `QUEST_GLO_Voss_GithRadar` UUID `2a11a29e-ee3e-4ad7-9d06-beb79efea4e5` ## 获取地点
 
-在完成[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")的[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")部分后，由[凯斯拉克百夫长沃斯](Kith'rak_Voss.md "凯斯拉克百夫长沃斯")在[长休](Long_Rest.md "长休")事件期间交给玩家角色。
+在完成[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")的[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")部分后，由[凯斯拉克百夫长沃斯](Kith'rak_Voss.md "凯斯拉克百夫长沃斯")在[长休](Long_Rest.md "长休")事件期间交给玩家角色。
 
 ## 备注
 

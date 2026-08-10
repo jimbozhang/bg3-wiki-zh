@@ -13,7 +13,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "好
 
 - [1 第二章](#act-two)
   - [1.1 地点](#locations)
-    - [1.1.1 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+    - [1.1.1 伊雷珂养育间](#Crèche_Y'llek)
     - [1.1.2 废弃战场](#ruined-battlefield)
     - [1.1.3 终焉光芒旅店](#last-light-inn)
     - [1.1.4 雷斯文小镇](#reithwin-town)
@@ -35,10 +35,10 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "好
 
 ### 地点
 
-#### [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+#### [伊雷珂养育间](../Crèche_Y'llek.md "伊雷珂养育间")
 
 - 当[训练官凯斯克](../Sa'varsh_Kethk.md "训练官凯斯克")要求挑战者时，主动提出与[青年瓦尔](../Youth_Varrl.md "青年瓦尔")战斗，然后确实杀了他 (-1)
-- 在[审判官的房间](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")，与[维拉基斯](../Vlaakith.md "维拉基斯")交谈，告发[影心](../Shadowheart.md "影心")是她偷走了神器 (-1) _（仅当影心**在队伍中**时可用）_
+- 在[审判官的房间](../Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")，与[维拉基斯](../Vlaakith.md "维拉基斯")交谈，告发[影心](../Shadowheart.md "影心")是她偷走了神器 (-1) _（仅当影心**在队伍中**时可用）_
 
 #### [废弃战场](../Ruined_Battlefield.md "废弃战场")
 

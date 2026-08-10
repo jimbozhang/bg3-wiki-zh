@@ -17,7 +17,7 @@
 - 一些[种族](Race.md "Race")特定特性基于角色等级。这些包括：
     - [卓尔](Drow.md "Drow")、[灰矮人](Duergar.md "Duergar")、[提夫林](Tiefling.md "Tiefling")和[吉斯洋基人](Githyanki.md "Githyanki")在1、3和5级时学习的固有法术。
     - [龙裔](Dragonborn.md "Dragonborn")的吐息攻击，其伤害缩放方式类似于戏法，但在6级和11级时增加。
-  - 发现[地点](List_of_locations.md "List of locations")所奖励的[经验值](Experience.md "Experience")基于领队队伍成员的角色等级。例如，当发现[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")时，如果领队角色为4级，游戏授予120经验值；如果为5级，则授予240经验值；如果为6级，则授予280经验值；如果为7级，则授予300经验值。
+  - 发现[地点](List_of_locations.md "List of locations")所奖励的[经验值](Experience.md "Experience")基于领队队伍成员的角色等级。例如，当发现[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")时，如果领队角色为4级，游戏授予120经验值；如果为5级，则授予240经验值；如果为6级，则授予280经验值；如果为7级，则授予300经验值。
   - 商人[库存](Traders.md#Trade_inventory "Traders")中的某些物品基于在库存刷新后第一个与之交易（或扒窃）的队伍成员的角色等级。商人库存会在每次长休或任何角色升级时刷新，但先前出售或交易给他们的物品通常仍可用。
     - 例如，一个在[治疗药水表](Healing_Potion_Table.md "Healing Potion Table")上滚动五次的商人，在3级时实际上保证有五个[治疗药水](Potion_of_Healing.md "Potion of Healing")，但在5级时可能有[治疗药水](Potion_of_Healing.md "Potion of Healing")和[高等治疗药水](Potion_of_Greater_Healing.md "Potion of Greater Healing")的混合。
     - 示例二：第一个与[出售护甲](Armour_Trader_Table.md "Armour Trader Table")的商人交谈的队伍成员角色等级为4级；他们可能能够购买（或[巧手](Sleight_of_Hand.md "巧手")）[环甲](Ring_Mail_Armour.md "Ring Mail Armour")。

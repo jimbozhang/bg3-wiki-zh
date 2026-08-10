@@ -109,7 +109,7 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[圣武
 
 [瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")/[伊雷珂养育间](Creche_Y'llek.md "伊雷珂养育间")
 
-- 在未被挑衅的情况下杀死[伊雷珂养育间](Cr%C3%A8che_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")[医务室](Cr%C3%A8che_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")中的任何吉斯洋基人
+- 在未被挑衅的情况下杀死[伊雷珂养育间](Crèche_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")[医务室](Crèche_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")中的任何吉斯洋基人
 - 当[瓦尔](Varrl.md "瓦尔")拒绝与玩家角色对练时杀死他，或未能通过检定非致命地刺伤他
 - 作为[邪念](The_Dark_Urge.md "邪念")，在与[埃斯特女士](Lady_Esther.md "埃斯特女士")交谈时将[吉斯洋基蛋](Githyanki_Egg.md "吉斯洋基蛋")踢下悬崖
 

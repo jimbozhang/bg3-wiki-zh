@@ -28,7 +28,7 @@
   - [2.9 格瑞姆锻造厂](#grymforge)
   - [2.10 晋升之路与山隘](#the-risen-road-and-mountain-pass)
   - [2.11 瑰晨修道院](#rosymorn-monastery)
-  - [2.12 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+  - [2.12 伊雷珂养育间](#Crèche_Y'llek)
 - [3 第二幕](#act-two)
   - [3.1 幽影诅咒之地](#shadow-Cursed_Lands)
   - [3.2 终焉光芒旅店](#last-light-inn)
@@ -755,21 +755,21 @@
 
 ### 伊雷珂养育间
 
-- _(进入[宿舍](../Cr%C3%A8che_Y'llek.md#Infirmary_and_Dormitory "Crèche Y'llek"))：<sup>[\[7\]](#cite_note-7)</sup>_ “这养育间的床铺看起来太软了，不合我意。”
+- _(进入[宿舍](../Crèche_Y'llek.md#Infirmary_and_Dormitory "Crèche Y'llek"))：<sup>[\[7\]](#cite_note-7)</sup>_ “这养育间的床铺看起来太软了，不合我意。”
 - _(阅读宿舍墙上的规则羊皮纸)：_ “前十条规程。年轻人必须遵守，否则承受_训练官_的倒刺鞭。”
 - _(从[吉斯小孩](../Zel'i.md "Zel'i")的箱子里放出格瑞米什卡)：_ “_啧哇！_”
 - _(回应性语音)：_ “所以这是它们的受害者？_啧_。我宁愿_洋基_把攻击欲发泄在彼此身上。”
 - _(看着[斯托努戈斯](../Stornugoss.md "Stornugoss")实验室里的设备)：_ “吉斯洋基学者仔细研究_盖克_设备。他们甚至将发现融入我们自己的机器和魔法中。”
-- _(在[孵化室](../Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek")吸入[奇怪气体](../Strange_Gas.md "Strange Gas"))：_ “嗯。_令人陶醉_。”
+- _(在[孵化室](../Crèche_Y'llek.md#Hatchery "Crèche Y'llek")吸入[奇怪气体](../Strange_Gas.md "Strange Gas"))：_ “嗯。_令人陶醉_。”
 - _(在孵化室环顾四周)：_ “完全太空了。我至少期待看到十五个蛋。”
-- _(在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "Crèche Y'llek")看到解剖图)：_ “只有通过解剖研究，我们才能了解_盖克_的弱点。我们知道得越多，杀戮就越高效。”
+- _(在[教室](../Crèche_Y'llek.md#Classroom "Crèche Y'llek")看到解剖图)：_ “只有通过解剖研究，我们才能了解_盖克_的弱点。我们知道得越多，杀戮就越高效。”
 - _(在教室尽头击打训练假人)：_ “我们在克利尔养育间就用这样的假人训练。摧毁一个的奖励？再做一个。”
 - _(与[训练官凯斯克](../Kethk.md "Kethk")及其学生开战)：_ “学生们紧盯着他的每一个动作。别低估他们。”
 - _(打开走廊里的苹果箱)：_ “水果？_啧_。有价值的吉斯洋基没人会更喜欢这个而不是新鲜猎物。”
-- _(阅读[船长室](../Cr%C3%A8che_Y'llek.md#Captain's_Quarters "Crèche Y'llek")的地图)：_ “一张剑湾地图。我的族人已经侦察到神庙之外很远的地方。”
+- _(阅读[船长室](../Crèche_Y'llek.md#Captain's_Quarters "Crèche Y'llek")的地图)：_ “一张剑湾地图。我的族人已经侦察到神庙之外很远的地方。”
 - _(杀死[特瑞兹恩](../Therezzyn.md "Therezzyn")，提醒自己审判官)：_ “仆人死了。但主人还在。”
 - _(与失活的屏障互动)：_ “浪费时间。屏障下来了。”
-- _(走向通往[审判官密室](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")的桥梁)：_ “审判官在等着。我们必须快点。”
+- _(走向通往[审判官密室](../Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")的桥梁)：_ “审判官在等着。我们必须快点。”
 - _(回应性语音)：_ “照我做的做。审判官只容忍最高的敬意。”
 - _(回应性语音 2)：_ “我希望——不，期待——_赤艾_会帮助我们。”
 - _(回应性语音 3)：_ “_啧_。审判官可能会指导我们。别激怒他。”
@@ -828,7 +828,7 @@
 - _(成功)：_ “你在那儿。游戏结束，被诅咒的家伙。”
 - _(失败)：_ “那孩子去哪了？我没心情玩游戏。”
 - _(在通往[雷斯文小镇](../Reithwin_Town.md "Reithwin Town")的桥附近遇见[罗兰](../Rolan.md "Rolan"))：_ “那是罗兰？那个傻法师在外面做什么？”
-- _(发现死去的吉斯洋基人，若未去过[养育间](../Cr%C3%A8che_Y'llek.md "Crèche Y'llek"))：_ “一个死去的吉斯洋基人。尸体可能有有用的东西。”
+- _(发现死去的吉斯洋基人，若未去过[养育间](../Crèche_Y'llek.md "Crèche Y'llek"))：_ “一个死去的吉斯洋基人。尸体可能有有用的东西。”
 
 **感受[幽影诅咒](../Shadow_Curse.md "Shadow Curse")的影响：**
 

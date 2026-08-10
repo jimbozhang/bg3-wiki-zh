@@ -14,7 +14,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 75 |
 
-**青年瓦尔**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的[教室](Cr%C3%A8che_Y'llek.md#Classroom "Crèche Y'llek")中的一名学生，出现在[第一幕](Act_One.md "第一幕")期间。
+**青年瓦尔**是[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的[教室](Crèche_Y'llek.md#Classroom "Crèche Y'llek")中的一名学生，出现在[第一幕](Act_One.md "第一幕")期间。
 
 > “
 >

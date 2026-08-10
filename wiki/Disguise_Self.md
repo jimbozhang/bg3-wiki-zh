@@ -95,7 +95,7 @@
   - 角色可以使用此法术逃脱每个监狱一次。在入狱后改变外观——无论是戴上还是卸下伪装——[逃犯](Fugitive_(Condition).md "Fugitive (Condition)")状态不再触发守卫识别。然而，如果角色在状态到期前恢复其“罪犯”形态，其伪装将被揭穿，守卫将识破在同一监狱中后续使用此技巧的任何尝试。
   - 当伪装成不同种族时，会发生额外变化：
     - 角色表顶部的种族描述符更改为所选种族，并使用该种族的闲置动画。
-    - 伙伴和NPC互动中的种族特定对话选项（例如，[伊雷珂养育间前厅](<Cr%C3%A8che_Y'llek#entrance-hall-(antechamber).md#Entrance_hall_(antechamber)> "Crèche Y'llek")）通常变得可用。
+    - 伙伴和NPC互动中的种族特定对话选项（例如，[伊雷珂养育间前厅](<Crèche_Y'llek#entrance-hall-(antechamber).md#Entrance_hall_(antechamber)> "Crèche Y'llek")）通常变得可用。
     - 如果所选形态是具有不同[生物体型](Creature_size.md "Creature Size")的种族，则可用于通过某些有体型要求的入口。
     - 如果在装备或互动前使用，伪装术允许角色绕过物品上的种族限制（例如，[星界银剑](Silver_Sword_of_the_Astral_Plane.md "Silver Sword of the Astral Plane")和[矮人投手](Dwarven_Thrower.md "Dwarven Thrower")）。
 - 由[变形生物面具](Mask_of_the_Shapeshifter.md "Mask of the Shapeshifter")和[异界恩赐](Eldritch_Invocation.md "Eldritch Invocation")[千面之脸](Mask_of_Many_Faces.md "Mask of Many Faces")授予的版本称为[变形](Shapeshift.md "Shapeshift")，且不消耗任何法术位。

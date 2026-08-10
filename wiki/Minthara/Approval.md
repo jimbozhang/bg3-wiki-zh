@@ -17,7 +17,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "好
 
 - [1 第二章](#act-two)
   - [1.1 地点](#locations)
-    - [1.1.1 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+    - [1.1.1 伊雷珂养育间](#Crèche_Y'llek)
     - [1.1.2 废弃战场](#ruined-battlefield)
     - [1.1.3 终焉光芒旅店](#last-light-inn)
     - [1.1.4 雷斯文小镇](#reithwin-town)
@@ -39,22 +39,22 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "好
 
 ### 地点
 
-#### [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+#### [伊雷珂养育间](../Crèche_Y'llek.md "伊雷珂养育间")
 
-_在[医务室](../Cr%C3%A8che_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")：_
+_在[医务室](../Crèche_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")：_
 
 - 如果莱埃泽尔正在使用_[扎伊什克](../Zaith'isk.md "扎伊什克")_，在第一阶段说服她该设备会杀死而非治愈她 (+1)\_\_
 
 _**注释：** 为此，需成功通过被动DC 14 [察觉](../Perception.md "察觉") [检定](../Ability_Check.md "属性检定")，然后成功通过DC 30 [智慧](../Wisdom.md "智慧") [检定](../Ability_Check.md "属性检定")、DC 30 [说服](../Persuasion.md "说服") [检定](../Ability_Check.md "属性检定")或DC 30 [历史](../History.md "历史") [检定](../Ability_Check.md "属性检定")（后者仅限[吉斯洋基人](../Githyanki.md "吉斯洋基人")）_
 
-_在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "伊雷珂养育间")：_
+_在[教室](../Crèche_Y'llek.md#Classroom "伊雷珂养育间")：_
 
 - 当[萨'瓦什·凯斯克](../Sa'varsh_Kethk.md "萨'瓦什·凯斯克")要求挑战者时，主动提出与[青年瓦尔](../Youth_Varrl.md "青年瓦尔")战斗，然后确实杀死他 (+1)
   - 或者，扮演[战士](../Fighter.md "战士")，以任何方式拯救瓦尔，然后告诉他他的老师显然未能灌输纪律 (+1)
 
 _**注释：** 如果与瓦尔战斗并将其击倒，对话会将其视为无限期昏迷，即使他在长休后显示坐起，因此无法获得这些点数_
 
-_在[队长办公区](../Cr%C3%A8che_Y'llek.md#Captain's_Quarters "伊雷珂养育间")和[审判官的房间](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")：_
+_在[队长办公区](../Crèche_Y'llek.md#Captain's_Quarters "伊雷珂养育间")和[审判官的房间](../Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")：_
 
 - 告诉[凯斯拉克百夫长赛泽恩](../Kith'rak_Therezzyn.md "凯斯拉克百夫长赛泽恩")，队伍拥有[神秘遗物](../Mysterious_Artefact.md "神秘遗物")，然后拒绝交出它 (+1) _（引发与赛泽恩的战斗）_
 - 询问[奇'莱·瓦加兹](../W'wargaz.md "奇'莱·瓦加兹")他如何对队伍了解如此之多 (+1)

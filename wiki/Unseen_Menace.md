@@ -42,7 +42,7 @@ _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**�
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798：由[阿贾克'尼尔·吉拉](Jeera.md "Jeera")出售
+- [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798：由[阿贾克'尼尔·吉拉](Jeera.md "Jeera")出售
 
 ## 备注
 

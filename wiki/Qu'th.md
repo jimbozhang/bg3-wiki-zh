@@ -45,7 +45,7 @@
 
 ### 第一幕
 
-库斯与瓦尔加斯一同肃立在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的[审判官的房间](Inquisitor's_Chamber.md "Inquisitor's Chamber")中。他对队伍能够获得审判官接见的能力略感惊讶。
+库斯与瓦尔加斯一同肃立在[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的[审判官的房间](Inquisitor's_Chamber.md "Inquisitor's Chamber")中。他对队伍能够获得审判官接见的能力略感惊讶。
 
 如果队伍拒绝交出[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")，或者在[吉斯洋基战士](The_Githyanki_Warrior.md "The Githyanki Warrior")中推进得足够远，他将对队伍变得敌对。
 

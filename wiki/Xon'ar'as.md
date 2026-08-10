@@ -46,9 +46,9 @@
 
 ## 参与剧情
 
-Xon'ar'as 是由[基斯拉克·特雷兹恩](Therezzyn.md "Therezzyn")派出的小队成员之一，负责搜寻[审判官 W'wargaz](W'wargaz.md "W'wargaz")所追寻的“武器”。当队伍接近[队长室](Cr%C3%A8che_Y'llek.md#Captain's_Quarters "Crèche Y'llek")时，他们恰好离开。
+Xon'ar'as 是由[基斯拉克·特雷兹恩](Therezzyn.md "Therezzyn")派出的小队成员之一，负责搜寻[审判官 W'wargaz](W'wargaz.md "W'wargaz")所追寻的“武器”。当队伍接近[队长室](Crèche_Y'llek.md#Captain's_Quarters "Crèche Y'llek")时，他们恰好离开。
 
-Xon'a'ras 是养育间中无法交谈的角色之一。过场动画结束后，他会立即跑向走廊尽头的[贸易站](Cr%C3%A8che_Y'llek.md#Trade_Post "Crèche Y'llek")并消失。
+Xon'a'ras 是养育间中无法交谈的角色之一。过场动画结束后，他会立即跑向走廊尽头的[贸易站](Crèche_Y'llek.md#Trade_Post "Crèche Y'llek")并消失。
 
 ## 战斗
 

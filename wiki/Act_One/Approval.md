@@ -39,7 +39,7 @@
   - [7.4 座狼兽栏](#worg-pens)
 - [8 瑰晨修道院小径](#rosymorn-monastery-trail)
   - [8.1 埃斯特女士的营地](#lady-esther's-camp)
-- [9 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+- [9 伊雷珂养育间](#Crèche_Y'llek)
   - [9.1 医务室](#infirmary)
   - [9.2 教室](#classroom)
   - [9.3 孵化室](#hatchery)
@@ -906,7 +906,7 @@
 
 ## 伊雷珂养育间
 
-另见：[伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "Crèche Y'llek")
+另见：[伊雷珂养育间](../Crèche_Y'llek.md "Crèche Y'llek")
 
 从前门进入：
 

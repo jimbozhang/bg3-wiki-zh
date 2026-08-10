@@ -45,7 +45,7 @@
 
 ### 第一幕
 
-吉'瑞萨斯在 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") 的 [审判官的房间](Inquisitor's_Chamber.md "审判官的房间") 中与 W'wargaz 一起肃穆地站立。她对冒险者几乎无话可说，只是粗鲁地鼓励他们去和审判官交谈。
+吉'瑞萨斯在 [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") 的 [审判官的房间](Inquisitor's_Chamber.md "审判官的房间") 中与 W'wargaz 一起肃穆地站立。她对冒险者几乎无话可说，只是粗鲁地鼓励他们去和审判官交谈。
 
 如果冒险者拒绝交出 [神秘遗物](Mysterious_Artefact.md "神秘遗物")，或者他们在 ⁠[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士") 中进展足够远，她将对冒险者变得敌对。
 

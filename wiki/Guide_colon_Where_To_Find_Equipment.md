@@ -831,7 +831,7 @@
 | 在二楼带两扇上锁门的房间中上锁的华丽箱子中 | 手套 |
 |
 |
-| [天崩手套](Gloves_of_Belligerent_Skies.md "天崩手套") | | 在[审问官大厅](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "育碧·耶莱克")南墙西侧的优雅箱子中 | 手套 |
+| [天崩手套](Gloves_of_Belligerent_Skies.md "天崩手套") | | 在[审问官大厅](Crèche_Y'llek.md#Inquisitor's_Chamber "育碧·耶莱克")南墙西侧的优雅箱子中 | 手套 |
 |
 |
 | [热情灰烬手套](Gloves_of_Cinder_and_Sizzle.md "热情灰烬手套") |

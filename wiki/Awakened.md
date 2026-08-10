@@ -12,7 +12,7 @@ UID `CRE_GithInfirmary_Awakened` ## 如何习得
 
 其他习得方式：
 
-- 如果你亲自进入 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") 的 [扎伊斯克净化者](Zaith'isk.md "Zaith'isk")，并成功通过所有三次 [豁免检定](Saving_throws.md "Saving throws")。
+- 如果你亲自进入 [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") 的 [扎伊斯克净化者](Zaith'isk.md "Zaith'isk")，并成功通过所有三次 [豁免检定](Saving_throws.md "Saving throws")。
 - 如果 [莱埃泽尔](Lae'zel.md "Lae'zel") 进入扎伊斯克净化者，在第三阶段成功通过 [奥秘](Arcana.md "Arcana") [检定](Check.md "Check")。
 
 ## 备注

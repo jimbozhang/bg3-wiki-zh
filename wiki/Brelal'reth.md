@@ -59,7 +59,7 @@
 
 ### 第一幕
 
-布雷拉尔雷斯站在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的[审判官的房间](Inquisitor's_Chamber.md "Inquisitor's Chamber")内，靠近入口处。她鼓励队伍与审判官交谈，并告诉他们这是一种荣幸。然而，如果互动的队伍成员是吉斯洋基人，她的反应会更温和，表达希望他们带来了好消息。
+布雷拉尔雷斯站在[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的[审判官的房间](Inquisitor's_Chamber.md "Inquisitor's Chamber")内，靠近入口处。她鼓励队伍与审判官交谈，并告诉他们这是一种荣幸。然而，如果互动的队伍成员是吉斯洋基人，她的反应会更温和，表达希望他们带来了好消息。
 
 如果队伍拒绝交出[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")，或者他们已经与[审判官 瓦尔加兹](W'wargaz.md "W'wargaz")交谈过，她会对队伍变得敌对。
 

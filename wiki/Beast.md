@@ -322,7 +322,7 @@
 
 - [猫](Cat.md "猫")
 - [鸡](Chicken.md "鸡")
-- [地底洛斯兽](Deep_Roth%C3%A9.md "地底洛斯兽")
+- [地底洛斯兽](Deep_Rothé.md "地底洛斯兽")
 - [双脊龙](Dilophosaurus.md "双脊龙")
 - [狗](Dog.md "狗")
 - [枭熊](Owlbear.md "枭熊")

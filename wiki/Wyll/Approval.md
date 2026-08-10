@@ -22,7 +22,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "App
     - [1.1.5 地精营地](#goblin-camp)
     - [1.1.6 地底深处和灰矮人熔炉](#underdark-and-grymforge)
     - [1.1.7 晋升之路、渥金的休眠地和散塔林会窝点](#the-risen-road,_Waukeen's_Rest_and_Zhentarim_Hideout)
-    - [1.1.8 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+    - [1.1.8 伊雷珂养育间](#Crèche_Y'llek)
   - [1.2 营地和对话](#campsite-and-conversations)
   - [1.3 同伴任务](#companion-quest)
 - [2 第二幕](#act-two)
@@ -208,7 +208,7 @@ _**注：** 仅当你在[奥术塔](../Arcane_Tower.md "Arcane Tower")中找到�
 
 _在灰矮人熔炉中：_
 
-- [说服](../Persuasion.md "Persuasion")[深洛斯兽](../Deep_Roth%C3%A9.md "Deep Rothé")攻击灰矮人（+1）
+- [说服](../Persuasion.md "Persuasion")[深洛斯兽](../Deep_Rothé.md "Deep Rothé")攻击灰矮人（+1）
 - 告诉[守卫玛格玛](../Magmar.md "Magmar")他让你恶心，或使用[深地侏](../Deep_Gnome.md "Deep Gnome")或[矮人](../Dwarf.md "Dwarf")（除[灰矮人](../Duergar.md "Duergar")外）的种族专属台词（+1）_（任选其一）_
 - 在消灭[布拉思维恩](../Brathwen.md "Brathwen")和[维斯](../Viss.md "Viss")后，向深地侏尸体堆致敬（+1）
 - 向深地侏奴隶承诺你的帮助（+1）
@@ -246,25 +246,25 @@ _在散塔林会窝点中：_
   - 或者使用任何基于检定的选项让他免费释放奥斯卡（+1）
   - 释放奥斯卡后，额外给他 200 金币（+1）
 
-#### [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "Crèche Y'llek")
+#### [伊雷珂养育间](../Crèche_Y'llek.md "Crèche Y'llek")
 
 - 进入养育间时，使用游侠的职业台词[威吓](../Intimidation.md "Intimidation")[吉什·法阿格](../Far'aag.md "Far'aag")让你通过（+1）
 - 如果莱埃泽尔在使用*[治疗机](../Zaith'isk.md "Zaith'isk")*，在第一阶段说服她该设备会杀死而非治愈（+1）_
 
-_**注：** 为此，需成功通过被动 DC 14 [察觉](../Perception.md "Perception") [检定](../Ability_Check.md "Ability check")，然后成功通过 DC 30 [感知](../Wisdom.md "Wisdom") [检定](../Ability_Check.md "Ability check")、DC 30 [游说](../Persuasion.md "Persuasion") [检定](../Ability_Check.md "Ability check") 或 DC 30 [历史](../History.md "History") [检定](../Ability_Check.md "Ability check")（后者仅限[吉斯洋基人](../Githyanki.md "Githyanki")）_ _在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "Crèche Y'llek")中：_
+_**注：** 为此，需成功通过被动 DC 14 [察觉](../Perception.md "Perception") [检定](../Ability_Check.md "Ability check")，然后成功通过 DC 30 [感知](../Wisdom.md "Wisdom") [检定](../Ability_Check.md "Ability check")、DC 30 [游说](../Persuasion.md "Persuasion") [检定](../Ability_Check.md "Ability check") 或 DC 30 [历史](../History.md "History") [检定](../Ability_Check.md "Ability check")（后者仅限[吉斯洋基人](../Githyanki.md "Githyanki")）_ _在[教室](../Crèche_Y'llek.md#Classroom "Crèche Y'llek")中：_
 
 - 说服[萨瓦什·凯斯克](../Sa'varsh_Kethk.md "Sa'varsh Kethk")让[青年瓦尔](../Youth_Varrl.md "Youth Varrl")离开训练（+1）
 - 扮演[战士](../Fighter.md "Fighter")时，通过任何方式拯救瓦尔，然后告诉他战士是为某事而战，而不仅仅是为了杀戮（+1）
 
 _**注：** 如果你与瓦尔战斗并将其击晕，对话会将其视为无限期昏迷，即使他在长休后显示坐起，因此无法获得这些好感度_
 
-_在[孵化室](../Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek")：_
+_在[孵化室](../Crèche_Y'llek.md#Hatchery "Crèche Y'llek")：_
 
 - 成功说服[瓦什·科库](../Varsh_Ko'kuu.md "Varsh Ko'kuu")让你带走[吉斯洋基蛋](../Githyanki_Egg.md "Githyanki Egg")，告诉他：
 - 你会把它带到更好的养育间，或者你会自己抚养它（+1）_（任选其一）_
   - 或者使用[吉斯洋基人](../Githyanki.md "Githyanki")的独特种族选项（+1）
 
-_在[队长办公区](../Cr%C3%A8che_Y'llek.md#Captain's_Quarters "Crèche Y'llek")和[审判官的房间](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")：_
+_在[队长办公区](../Crèche_Y'llek.md#Captain's_Quarters "Crèche Y'llek")和[审判官的房间](../Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")：_
 
 - 询问[崔尔·沃加兹](../W'wargaz.md "W'wargaz")他如何如此了解你（+1）
 - 拒绝将神器交给[沃加兹](../W'wargaz.md "W'wargaz")，并说服[莱埃泽尔](../Lae'zel.md "Lae'zel")信任你_（需要 DC 21 [游说](../Persuasion.md "Persuasion") [检定](../Ability_Check.md "Ability check")）_（+1）

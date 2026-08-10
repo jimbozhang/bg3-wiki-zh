@@ -306,7 +306,7 @@ _后果：_ [塞莱瑞塔斯·菲尔](Sceleritas_Fel.md "塞莱瑞塔斯·菲尔
 
 ### 凯斯拉克百夫长沃斯
 
-_要求：_ 访问[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")，然后使用[山隘](Mountain_Pass.md "山隘")前往[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")或返回[荒野](Wilderness.md "荒野")。
+_要求：_ 访问[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")，然后使用[山隘](Mountain_Pass.md "山隘")前往[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")或返回[荒野](Wilderness.md "荒野")。
 
 _后果：_ [沃斯](Voss.md "沃斯")抵达营地，试图在养育间事件后拉拢[莱埃泽尔](Lae'zel.md "莱埃泽尔")到他一边。玩家角色可以推动莱埃泽尔同意或不同意，可能使她走上俄耳甫斯之路。
 

@@ -4,7 +4,7 @@
 
 **冲锋**是多种[生物](Creature.md "生物")使用的近战攻击：
 
-- [冲锋（地底洛斯兽）](Charge_(Deep_Roth%C3%A9).md "冲锋（地底洛斯兽）")
+- [冲锋（地底洛斯兽）](Charge_(Deep_Rothé).md "冲锋（地底洛斯兽）")
 - [冲锋（牛头人）](Charge_(Minotaur).md "冲锋（牛头人）")
 - [狂热冲锋](Frenzied_Charge.md "狂热冲锋")
 

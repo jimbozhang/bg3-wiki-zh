@@ -24,7 +24,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 14 / (+2) | 16 / (+3) | 16 / (+3) | 14 / (+2) | 10 / (0) |
 
-**热诚 G'nuril** 是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")中的一名[吉斯洋基热诚](Githyanki_ardent.md "Githyanki ardent")，出现在[第一幕](Act_One.md "Act One")。她是[凯斯拉克百夫长赛泽恩](Kith'rak_Therezzyn.md "Kith'rak Therezzyn")的守卫和助手。
+**热诚 G'nuril** 是[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")中的一名[吉斯洋基热诚](Githyanki_ardent.md "Githyanki ardent")，出现在[第一幕](Act_One.md "Act One")。她是[凯斯拉克百夫长赛泽恩](Kith'rak_Therezzyn.md "Kith'rak Therezzyn")的守卫和助手。
 
 > “
 >

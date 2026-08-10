@@ -18,7 +18,7 @@
 
 - UID `S_GLO_OrpheusChapter2` UUID `4dbaf850-49ff-4e41-adc2-7054e416c960` * UID `BOOK_UNI_INT_OrpheusMonksBook_02` UUID `b2fccde5-4dfd-4e2d-9645-d101de82a8c0` ## 获取地点
 
-- 由 [青年瓦尔](Varrl.md "青年瓦尔") 携带，位于 ⁠[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")，坐标 X: 1370 Y: -768
+- 由 [青年瓦尔](Varrl.md "青年瓦尔") 携带，位于 ⁠[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")，坐标 X: 1370 Y: -768
 
 ## 用途
 

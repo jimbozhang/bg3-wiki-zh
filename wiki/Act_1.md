@@ -82,7 +82,7 @@
 
 - ⁠[寻找治疗方法](Find_a_Cure.md "寻找治疗方法")
   - ⁠[向地精女祭司寻求帮助](Ask_the_Goblin_Priestess_for_Help.md "向地精女祭司寻求帮助")
-  - ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")
+  - ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
   - ⁠[获得埃赛尔婶婶的帮助](Get_Help_from_Auntie_Ethel.md "获得埃赛尔婶婶的帮助")
   - ⁠[获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "获得医师内蒂的帮助")
   - ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "帮助奥米伦调查寄生虫的事")
@@ -197,7 +197,7 @@
 
 主文章：[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")和[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")
 
-**瑰晨修道院**是一个可以在瑰晨修道院小径东北部区域找到的地点。最初的居住者，洛山达神职人员，被一群[吉斯洋基人](Githyanki.md "吉斯洋基人")屠杀，他们现在将修道院的地下区域据为己有，作为他们的[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")。
+**瑰晨修道院**是一个可以在瑰晨修道院小径东北部区域找到的地点。最初的居住者，洛山达神职人员，被一群[吉斯洋基人](Githyanki.md "吉斯洋基人")屠杀，他们现在将修道院的地下区域据为己有，作为他们的[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")。
 
 在修道院周围，几群生物已经在此定居，包括一群[狗头人](Kobold.md "狗头人")掠夺者、一些[小法妖](Gremishka.md "小法妖")和两只[巨鹰](Giant_Eagle.md "巨鹰")。
 

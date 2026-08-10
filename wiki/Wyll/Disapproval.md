@@ -22,7 +22,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "好
     - [1.1.5 地精营地](#goblin-camp)
     - [1.1.6 地底深渊与格莱姆格斗场](#underdark-and-grymforge)
     - [1.1.7 晋升之路、渥金的休眠地与散塔林会窝点](#the-risen-road,_Waukeen's_Rest_and_Zhentarim_Hideout)
-    - [1.1.8 山隘与伊雷珂养育间](#mountain-pass-and-cr%C3%A8che_Y'llek)
+    - [1.1.8 山隘与伊雷珂养育间](#mountain-pass-and-Crèche_Y'llek)
   - [1.2 营地与对话](#campsite-and-conversations)
   - [1.3 伙伴任务](#companion-quest)
 - [2 第二幕](#act-two)
@@ -195,7 +195,7 @@ _**注：** 无论你是否知道货物命运的真相，都会分散一点注�
 - 如果你与鲁甘合谋关于丢失货物的事，且他在扎里斯的酷刑和你与其他散塔林会成员的战斗中幸存下来，杀死鲁甘 (-1)
 - 从[布雷姆](../Brem.md "布雷姆")处购买[奥斯卡·费拉斯](../Oskar_Fevras.md "奥斯卡·费拉斯")后，与艺术家交谈并称他为奴隶**两次** (-5)
 
-#### [山隘](../Mountain_Pass.md "山隘") 与 [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+#### [山隘](../Mountain_Pass.md "山隘") 与 [伊雷珂养育间](../Crèche_Y'llek.md "伊雷珂养育间")
 
 - 在遭遇吉斯洋基巡逻队的地点附近攻击[艾莉卡](../Ellyka.md "艾莉卡") (-1)
   - 或，[伪装](../Disguise_Self.md "伪装术")成吉斯洋基人，激怒她攻击你 (-1)

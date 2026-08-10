@@ -1,6 +1,6 @@
 # 扎伊斯克净化者
 
-**扎伊斯克净化者**是一种部分有机、部分机械的[吉斯洋基人](Githyanki.md "吉斯洋基人")装置，由“姆拉尔”（mlar）——天赋异禀的吉斯洋基工匠——打造。<sup>[\[1\]](#cite_note-1)</sup> 据称它能从受感染的受害者体内净化[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")。在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")的医务室中可以找到一台。
+**扎伊斯克净化者**是一种部分有机、部分机械的[吉斯洋基人](Githyanki.md "吉斯洋基人")装置，由“姆拉尔”（mlar）——天赋异禀的吉斯洋基工匠——打造。<sup>[\[1\]](#cite_note-1)</sup> 据称它能从受感染的受害者体内净化[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")。在[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")的医务室中可以找到一台。
 
 ## 目录
 
@@ -14,7 +14,7 @@
 
 ## 相关剧情
 
-主条目：[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")
+主条目：[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
 
 当遇到该装置时，队伍可以与驻场医生[医疗官斯托努苟斯](Stornugoss.md "医疗官斯托努苟斯")交谈，请求使用扎伊斯克净化者移除队伍成员头部的蝌蚪。一旦队伍成员躺进机器，他们必须通过三次豁免检定，才能在无不良影响的情况下成功完成手术，分别是[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12的[智力](Intelligence.md "智力")[豁免检定](Saving_throw.md "豁免检定")、[DC](Dice_rolls.md#Save_DCs "Dice rolls") 15的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，以及最后根据职业而定的[DC](Dice_rolls.md#Save_DCs "Dice rolls") 18的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
@@ -50,7 +50,7 @@
 
 ## 相关任务
 
-- [找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")
+- [找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
 
 ## 参考文献
 

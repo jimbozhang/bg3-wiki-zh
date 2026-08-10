@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") X: 1288 Y: -759：在[养育间](Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")从[养育官寇库](Ko'kuu.md "养育官寇库")处获得
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") X: 1288 Y: -759：在[养育间](Crèche_Y'llek.md#Hatchery "伊雷珂养育间")从[养育官寇库](Ko'kuu.md "养育官寇库")处获得
 
 ## 相关任务
 

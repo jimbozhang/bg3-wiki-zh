@@ -26,7 +26,7 @@ _以下部分可以使用 `{{:Magic Melee Weapon Trader Table}}` 被包含到其
 - [戴摩](Dammon.md "戴摩") 在 [翠绿林地](Emerald_Grove.md "翠绿林地")。
 - [布雷姆](Brem.md "布雷姆") 在 [散塔林会窝点](Zhentarim_Hideout.md "散塔林会窝点")。
 - [罗阿·月光](Roah_Moonglow.md "罗阿·月光") 在 [破碎圣所](Shattered_Sanctum.md "破碎圣所")。
-- [阿贾克'尼尔·吉拉](A'jak'nir_Jeera.md "阿贾克'尼尔·吉拉") 在 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")。
+- [阿贾克'尼尔·吉拉](A'jak'nir_Jeera.md "阿贾克'尼尔·吉拉") 在 [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")。
 
 ### 第二幕
 

@@ -1,6 +1,6 @@
 # 宿舍花名册
 
-**宿舍花名册**解释了为什么[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")中的笔记是用[通用语](https://forgottenrealms.fandom.com/wiki/Common)而非[吉斯洋基人](Githyanki.md "吉斯洋基人")书写系统提尔苏（Tir'su）写成的。
+**宿舍花名册**解释了为什么[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")中的笔记是用[通用语](https://forgottenrealms.fandom.com/wiki/Common)而非[吉斯洋基人](Githyanki.md "吉斯洋基人")书写系统提尔苏（Tir'su）写成的。
 
 一张朴素无华的笔记。
 
@@ -18,7 +18,7 @@
 
 - UID `S_CRE_Dormitory_Schedules` UUID `126d9846-51f4-4622-b73f-826667ef9c71` ## 获取地点
 
-- 贴在[医务室](Cr%C3%A8che_Y'llek.md#Infirmary "伊雷珂养育间")的墙上 X: 1308 Y: -818
+- 贴在[医务室](Crèche_Y'llek.md#Infirmary "伊雷珂养育间")的墙上 X: 1308 Y: -818
 
 ## 文本
 

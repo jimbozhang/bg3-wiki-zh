@@ -16,7 +16,7 @@
 
 - UID `S_CRE_MIOffice_ConfiscatedBook` UUID `14cc5306-e516-4d1c-87ee-a4914a467d4c` ## 位置
 
-- 在 [审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间") 的一张桌子上，坐标 X: 1372 Y: -674
+- 在 [审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间") 的一张桌子上，坐标 X: 1372 Y: -674
 
 ## 文本
 

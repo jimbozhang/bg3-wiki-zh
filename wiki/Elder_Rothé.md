@@ -4,7 +4,7 @@
 | --- | --- |
 | 体型 | [大型](Large.md "Large") |
 | 类型 | [野兽](Beast.md "Beast") |
-| 种族 | [地底洛斯兽](Deep_Roth%C3%A9.md "Deep Rothé") |
+| 种族 | [地底洛斯兽](Deep_Rothé.md "Deep Rothé") |
 | 等级 | 1 |
 | 生命值 | 18 |
 | 护甲等级 | 10 |
@@ -51,7 +51,7 @@
 
 充能：每回合
 
-[顶撞](Gore_(Deep_Roth%C3%A9).md "Gore (Deep Rothé)")
+[顶撞](Gore_(Deep_Rothé).md "Gore (Deep Rothé)")
 
 伤害：16~25
 

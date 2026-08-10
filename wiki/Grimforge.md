@@ -174,7 +174,7 @@ X: -600 Y: 393 的门通向一个房间，房间尽头有一个隐蔽的部分�
 
 ### 地底洛斯兽与斯卡贾尔的船员
 
-沿着码头的长廊走到一半，有三只[地底洛斯兽](Deep_Roth%C3%A9.md "Deep Rothé")。通过[动物交谈](Speak_with_Animals.md "Speak with Animals")与这里的[老年洛斯兽](Elder_Roth%C3%A9.md "Elder Rothé")交谈，可以揭示复仇之炉的历史及其毁灭的根源。此外，在这次对话中，[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")的名字再次出现。如果冒险者之前与[哈尔辛](Halsin.md "Halsin")交谈过，他们可能从他那里听说过这位将军，认为他早已去世。然而，老年洛斯兽却说“感受到了索姆的阴影”*现在*。
+沿着码头的长廊走到一半，有三只[地底洛斯兽](Deep_Rothé.md "Deep Rothé")。通过[动物交谈](Speak_with_Animals.md "Speak with Animals")与这里的[老年洛斯兽](Elder_Rothé.md "Elder Rothé")交谈，可以揭示复仇之炉的历史及其毁灭的根源。此外，在这次对话中，[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")的名字再次出现。如果冒险者之前与[哈尔辛](Halsin.md "Halsin")交谈过，他们可能从他那里听说过这位将军，认为他早已去世。然而，老年洛斯兽却说“感受到了索姆的阴影”*现在*。
 
 如果没有[动物交谈](Speak_with_Animals.md "Speak with Animals")的来源，玩家角色可以进行一系列技能检定（[驯兽](Animal_Handling.md "Animal Handling")和2次[自然](Nature.md "Nature")）来辨别洛斯兽的说话方式，然后尝试理解它们的感受（痛苦、悲伤和恐惧），但仅此而已。
 
@@ -391,9 +391,9 @@ X: -592 Y: 428 处破损的石栏杆允许冒险者使用[羽落术](Feather_Fal
 - [格雷蒙](Greymon.md "Greymon")
 
 #### 动物
-- [地底洛斯兽](Deep_Roth%C3%A9.md "Deep Rothé") - 3只
-- [地底洛斯兽幼崽](Deep_Roth%C3%A9_Calf.md "Deep Rothé Calf")
-- [老年洛斯兽](Elder_Roth%C3%A9.md "Elder Rothé")
+- [地底洛斯兽](Deep_Rothé.md "Deep Rothé") - 3只
+- [地底洛斯兽幼崽](Deep_Rothé_Calf.md "Deep Rothé Calf")
+- [老年洛斯兽](Elder_Rothé.md "Elder Rothé")
 - [路尔·弗](Lur_Fu.md "Lur Fu")
 - [路尔·乔科斯](Lur_Jox.md "Lur Jox")
 - [路尔·欧坦](Lur_Otan.md "Lur Otan")

@@ -213,7 +213,7 @@
 
 - 荒野形态变为穴熊
 
-[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9_(Condition).md "荒野形态：地底洛斯兽 (状态)")
+[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Rothé_(Condition).md "荒野形态：地底洛斯兽 (状态)")
 |
 
 - 荒野形态变为地底洛斯兽

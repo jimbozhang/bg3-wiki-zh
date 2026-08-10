@@ -1138,7 +1138,7 @@ X: -606 Y: 282
 
 [阳炎射线](Sunbeam.md "Sunbeam")
 Cast as a level 6 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| On a locked altar in the [隐蔽房间](Secret_Chamber.md "Secret Chamber") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| On a locked altar in the [隐蔽房间](Secret_Chamber.md "Secret Chamber") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1068 Y: -779
 [异怪猎人护符](Aberration_Hunters'_Amulet.md "Aberration Hunters' Amulet")
 |
@@ -1147,63 +1147,63 @@ X: 1068 Y: -779
 
 [长年怀恨](Ancient_Grudges.md "Ancient Grudges")
 Touch your amulet to subsume a sliver of the knowledge of the gith. You gain [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack Rolls") against [aberrations](List_of_creature_types.md#Aberration "List of Creature Types"). (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Carried by [医疗官斯托努苟斯](Stornugoss.md "Stornugoss") in the Doctor's Office, west of the Infirmary | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Carried by [医疗官斯托努苟斯](Stornugoss.md "Stornugoss") in the Doctor's Office, west of the Infirmary | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1285 Y: -801
 [养育官寇库的靴子](Varsh_Ko'kuu's_Boots.md "Varsh Ko'kuu's Boots")
 |
 
 - [Acidic](Acid_(surface).md "Acid (surface)") surfaces don't affect you, and you are [抗性](Resistant.md "Resistant") to ⁠[强酸](Acid.md "Acid") damage.
 
-| Acquired from [养育官寇库](Ko'kuu.md "Ko'kuu") in the [Hatchery](Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Acquired from [养育官寇库](Ko'kuu.md "Ko'kuu") in the [Hatchery](Crèche_Y'llek.md#Hatchery "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1288 Y: -759
 [元素注能戒指](Ring_of_Elemental_Infusion.md "Ring of Elemental Infusion")
 |
 
 - When you deal ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[雷鸣](Thunder.md "Thunder") damage using a [法术](Spell.md "Spell") or a [戏法](Cantrip.md "Cantrip"), that element infuses your weapon. Until the end of your next turn, you deal an additional **1d4** damage of that element on your first successful weapon attack.
 
-| Worn by [Gish Umr'a'ac](Umr'a'ac.md "Umr'a'ac") in the southern section of the Infirmary | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Worn by [Gish Umr'a'ac](Umr'a'ac.md "Umr'a'ac") in the southern section of the Infirmary | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1303 Y: -798
 [白霜之靴](Hoarfrost_Boots.md "Hoarfrost Boots")
 |
 
 - You cannot fall [倒伏](Prone_(Condition).md "Prone (Condition)") while traversing [Icy](Ice_(surface).md "Ice (surface)") terrain.
 
-| Inside a display case in the [审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Inside a display case in the [审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1335 Y: -660
 [天崩手套](Gloves_of_Belligerent_Skies.md "Gloves of Belligerent Skies")
 |
 
 - When the wearer deals ⁠[雷鸣](Thunder.md "Thunder"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[光耀](Radiant.md "Radiant") damage, inflict 2 turns of [残响](Reverberation_(Condition).md "Reverberation (Condition)") upon the target(s).
 
-| In an elegant chest in the [审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek"), along the southern wall of the room, on the western side | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| In an elegant chest in the [审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek"), along the southern wall of the room, on the western side | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1348 Y: -677
 [奥术协同戒指](Ring_of_Arcane_Synergy.md "Ring of Arcane Synergy")
 |
 
 - When you deal damage with a [戏法](Cantrip.md "Cantrip"), you gain [奥术协同](Arcane_Synergy_(Condition).md "Arcane Synergy (Condition)") for 2 turns.
 
-| Worn by [熟手法'拉格](Far'aag.md "Far'aag") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Worn by [熟手法'拉格](Far'aag.md "Far'aag") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1359 Y: -831
 [奇异通道之戒](Strange_Conduit_Ring.md "Strange Conduit Ring")
 |
 
 - When [Concentrating](Concentration.md "Concentration") on a spell, the wearer's weapon attacks deal an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage.
 
-| Inside an elegant chest in the [审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Inside an elegant chest in the [审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1360 Y: -657
 [奥术协同王冠](Diadem_of_Arcane_Synergy.md "Diadem of Arcane Synergy")
 |
 
 - When you inflict a condition, gain [奥术协同](Arcane_Synergy_(Condition).md "Arcane Synergy (Condition)") for 2 turns._\[[See: Bugs](Synergetic_Moments.md#Bugs "Synergetic Moments")\]_
 
-| Carried by [炽念者吉'瑞萨斯](Jhe'rezath.md "Jhe'rezath") in the [审判官的房间](Creche_Y'llek.md#Inquisitor's_Chamber "Creche Y'llek") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Carried by [炽念者吉'瑞萨斯](Jhe'rezath.md "Jhe'rezath") in the [审判官的房间](Creche_Y'llek.md#Inquisitor's_Chamber "Creche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1365 Y: -663
 [元素强化项链](Necklace_of_Elemental_Augmentation.md "Necklace of Elemental Augmentation")
 |
 
 - When one of your [cantrips](List_of_cantrips.md "List of cantrips") deals ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[雷鸣](Thunder.md "Thunder") damage, add your [施法调整值](Spellcasting_Modifier.md "Spellcasting Modifier") to the damage dealt.
 
-| Inside a display case in the [审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Inside a display case in the [审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1379 Y: -662
 [守卫者链枷](Defender_Flail.md "Defender Flail")
 |
@@ -1212,21 +1212,21 @@ X: 1379 Y: -662
 
 - [护甲等级](Armour_Class.md "Armour Class") +1
 
-| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [拉瑞斯安之怒](Larethian's_Wrath.md "Larethian's Wrath")
 |
 
 [剃刀狂风](Razor_Gale.md "Razor Gale")
 Swing your weapon in a cyclone of steel that deals razorblade-sharp damage to all enemies within range. (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [隐形威胁](Unseen_Menace.md "Unseen Menace")
 |
 
 - This weapon is [隐形](Invisible_Weapon_(Condition).md "Invisible Weapon (Condition)") while equipped. It has [优势](Advantage.md "Advantage") on [Attack rolls](Attack_roll.md "Attack roll"). It loses this property for 2 rounds on a missed [Attack roll](Attack_roll.md "Attack roll"). The weapon also scores a [critical hit](Critical_Hit.md "Critical hit") when rolling a 19.
 
-| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [巫术破除](Witchbreaker.md "Witchbreaker")
 |
@@ -1235,7 +1235,7 @@ X: 1380 Y: -798
 
 [Hush You!](Hush_You!.md "Hush You!")
 Slash a target and possibly [沉默术](Silenced_(Condition).md "Silenced (Condition)") it. (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [Knife of the Undermountain King](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
 |
@@ -1243,14 +1243,14 @@ X: 1380 Y: -798
 - Reduce the number you need to roll a [重击](Critical_Hit.md "Critical Hit") while attacking by 1. This effect can stack. When you roll 2 damage or less, reroll the dice, taking the highest result.
 - You have [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_roll.md "Attack Roll") against Lightly or Heavily Obscured targets when using this blade.
 
-| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [烙印护符](Amulet_of_Branding.md "Amulet of Branding")
 |
 
 [标点弱点](Brand_the_Weak.md "Brand the Weak")
 Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Carried by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Carried by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [蛮勇手套](Daredevil_Gloves.md "Daredevil Gloves")
 |
@@ -1258,7 +1258,7 @@ X: 1380 Y: -798
 - The wearer gains a +1 bonus to [Spell Attack Rolls](Spell_Attack_Roll.md "Spell Attack Roll").
 - Your Ranged [Spell Attacks](Spell_Attack.md "Spell Attack") are made as melee spell attacks when you are adjacent to a hostile creature. This effect can be toggled off.
 
-| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [敏捷手套](Gloves_of_Dexterity.md "Gloves of Dexterity")
 |
@@ -1266,7 +1266,7 @@ X: 1380 Y: -798
 - Set the wearer's [敏捷](Dexterity.md "Dexterity") score to 18. The enchantment has no effect if their Dexterity score is higher without it.
 - [Attack rolls](Attacks.md#Attack_rolls "Attacks") +1
 
-| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [生命通道之靴](Vital_Conduit_Boots.md "Vital Conduit Boots")
 |
@@ -1275,28 +1275,28 @@ X: 1380 Y: -798
 
 - [运动](Athletics.md "Athletics") +1
 
-| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [剥皮者](The_Skinburster.md "The Skinburster")
 |
 
 - When the wielder deals melee damage with this weapon, they gain 2 turns of [导力](Force_Conduit_(Condition).md "Force Conduit (Condition)").
 
-| Leaning against a display case in the [审判官的房间](Creche_Y'llek.md#Inquisitor's_Chamber "Creche Y'llek") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Leaning against a display case in the [审判官的房间](Creche_Y'llek.md#Inquisitor's_Chamber "Creche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1383 Y: -659
 [异能复仇饰环](Circlet_of_Psionic_Revenge.md "Circlet of Psionic Revenge")
 |
 
 - When you succeed a [Saving throw](Saving_throw.md "Saving throw"), the foe that caused the throw takes 1d4⁠⁠[心灵](Psychic.md "Psychic"). [吉斯洋基人](Githyanki.md "Githyanki") also gain a +1 bonus to [智力](Intelligence.md "Intelligence"), [感知](Wisdom.md "Wisdom"), and [魅力](Charisma.md "Charisma") [Saving throws](Saving_throw.md "Saving throw").
 
-| Carried by Githyanki Inquisitor [审判官瓦尔'戈兹](W'wargaz.md "W'wargaz") in the Inquisitor's Chamber | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Carried by Githyanki Inquisitor [审判官瓦尔'戈兹](W'wargaz.md "W'wargaz") in the Inquisitor's Chamber | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1392 Y: -752
 [奥术力场之弩](Crossbow_of_Arcane_Force.md "Crossbow of Arcane Force")
 |
 
 [奥术弹药](Arcane_Ammunition.md "Arcane Ammunition")
 Infuse your crossbow bolts with arcane energy. Your ranged weapon attacks deal an additional 1d4⁠⁠[力场](Force.md "Force") damage. (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Carried by [Raider G'r'ath](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") [waypoint](Ancient_Sigil_Circle.md "Ancient Sigil Circle") | [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") |
+| Carried by [Raider G'r'ath](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") [waypoint](Ancient_Sigil_Circle.md "Ancient Sigil Circle") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1396 Y: -839
 [碎魂者巨剑](Soulbreaker_Greatsword.md "Soulbreaker Greatsword")
 |

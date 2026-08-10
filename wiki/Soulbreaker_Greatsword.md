@@ -52,7 +52,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") X: 1408 Y: -763：由[凯斯拉克百夫长赛泽恩](Therezzyn.md "赛泽恩")携带，在[队长办公区](Cr%C3%A8che_Y'llek.md#Captain's_Quarters "伊雷珂养育间")
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") X: 1408 Y: -763：由[凯斯拉克百夫长赛泽恩](Therezzyn.md "赛泽恩")携带，在[队长办公区](Crèche_Y'llek.md#Captain's_Quarters "伊雷珂养育间")
 
 ## 注释
 

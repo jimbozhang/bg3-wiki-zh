@@ -28,7 +28,7 @@
 
 ### 第一幕
 
-在将遗物交给[审判官瓦尔'戈兹](W'wargaz.md "W'wargaz")或在战斗中杀死他之后，维拉基斯以巨大的位面投射器投影形式出现在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的队伍面前。维拉基斯试图说服队伍星界棱镜已被腐蚀。她命令队伍进入遗物内部，她称之为星界棱镜，以杀死其中的居住者，声称他们腐蚀了棱镜。
+在将遗物交给[审判官瓦尔'戈兹](W'wargaz.md "W'wargaz")或在战斗中杀死他之后，维拉基斯以巨大的位面投射器投影形式出现在[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的队伍面前。维拉基斯试图说服队伍星界棱镜已被腐蚀。她命令队伍进入遗物内部，她称之为星界棱镜，以杀死其中的居住者，声称他们腐蚀了棱镜。
 
 通过要求她亲自杀死棱镜内的存在来违抗维拉基斯，以持续的不敬态度对待她，未能通过[侦测思想](Detect_Thoughts.md "Detect Thoughts")检定来读取维拉基斯的思想，或揭露[影心](Shadowheart.md "Shadowheart")是偷走棱镜的小偷，都会导致她对队伍施放许愿术，祝愿队伍终结，从而导致即时游戏结束。
 
@@ -55,8 +55,8 @@
 
 ## 相关地点
 
-- [伊雷珂克'利尔养育间](Cr%C3%A8che_K'liir.md "Crèche K'liir")
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")
+- [伊雷珂克'利尔养育间](Crèche_K'liir.md "Crèche K'liir")
+- [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")
 
 ## 语录
 
@@ -66,7 +66,7 @@
 >
 > „
 
-— [莱埃泽尔](Lae'zel.md "Lae'zel")，在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")观察维拉基斯的肖像画时。
+— [莱埃泽尔](Lae'zel.md "Lae'zel")，在[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")观察维拉基斯的肖像画时。
 
 ## 注释
 

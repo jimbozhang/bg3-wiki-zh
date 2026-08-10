@@ -48,7 +48,7 @@
 ## 获取地点
 
 - 在[序幕](Prologue.md "序幕")期间的鹦鹉螺上
-- 在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md#Doctor's_Office "伊雷珂养育间")的[医疗官斯托努苟斯](Ghustil_Stornugoss.md "医疗官斯托努苟斯")办公室内，坐标 X: 1286 Y: -799
+- 在[伊雷珂养育间](Crèche_Y'llek.md#Doctor's_Office "伊雷珂养育间")的[医疗官斯托努苟斯](Ghustil_Stornugoss.md "医疗官斯托努苟斯")办公室内，坐标 X: 1286 Y: -799
 - 在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")
 - 在[至高大殿](High_Hall.md "至高大殿")
 

@@ -16,7 +16,7 @@
 
 - UID `S_CRE_InfirmaryDoorKey_01` UUID `9d3de6ea-df9e-4eda-ac2d-939bc1149223` ## 获取地点
 
-- 由[医疗官斯托努苟斯](Stornugoss.md "Stornugoss")和[熟手乌姆拉阿克](Umr'a'ac.md "Umr'a'ac")携带于[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+- 由[医疗官斯托努苟斯](Stornugoss.md "Stornugoss")和[熟手乌姆拉阿克](Umr'a'ac.md "Umr'a'ac")携带于[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")
 
 ## 用途
 

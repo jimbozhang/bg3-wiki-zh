@@ -57,7 +57,7 @@
 - [啃咬（剑齿虎）](Bite_(Sabre-Toothed_Tiger).md "啃咬（剑齿虎）")
 - [野猪冲撞](Boar_Charge.md "野猪冲撞")
 - [凶蛮跳跃](Brutal_Leap.md "凶蛮跳跃")
-- [冲锋（地底洛斯兽）](Charge_(Deep_Roth%C3%A9).md "冲锋（地底洛斯兽）")
+- [冲锋（地底洛斯兽）](Charge_(Deep_Rothé).md "冲锋（地底洛斯兽）")
 - [冲锋（牛头人）](Charge_(Minotaur).md "冲锋（牛头人）")
 - [粉碎跃击](Crushing_Flight.md "粉碎跃击")
 - [死亡之跃](Deadly_Leap.md "死亡之跃")

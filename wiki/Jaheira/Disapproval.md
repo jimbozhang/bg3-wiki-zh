@@ -13,7 +13,7 @@
 
 - [1 第二章](#act-two)
   - [1.1 地点](#locations)
-    - [1.1.1 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+    - [1.1.1 伊雷珂养育间](#Crèche_Y'llek)
   - [1.2 与米尔寇使徒的最终战斗后](#after-the-final-fight-with-apostle-of-myrkul)
 - [2 第三章](#act-three)
   - [2.1 地点](#locations-2)
@@ -29,9 +29,9 @@
 
 ### 地点
 
-#### [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+#### [伊雷珂养育间](../Crèche_Y'llek.md "伊雷珂养育间")
 
-- 在[审判官的房间](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")与[维拉基斯](../Vlaakith.md "维拉基斯")交谈时，告发[影心](../Shadowheart.md "影心")是她偷走了神器 (-1) _（仅当影心**在队伍中**时可用）_
+- 在[审判官的房间](../Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")与[维拉基斯](../Vlaakith.md "维拉基斯")交谈时，告发[影心](../Shadowheart.md "影心")是她偷走了神器 (-1) _（仅当影心**在队伍中**时可用）_
 
 **[夺心魔殖民地](../Mind_Flayer_Colony.md "夺心魔殖民地")**
 _在[黯蚀实验室](../Necrotic_Laboratory.md "黯蚀实验室")：_

@@ -34,7 +34,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")：由众多[吉斯洋基人](Githyanki.md "吉斯洋基人")携带
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")：由众多[吉斯洋基人](Githyanki.md "吉斯洋基人")携带
 
 ---
 *Source: [Githyanki Shortsword (+1)](https://bg3.wiki/wiki/Githyanki_Shortsword_(+1)*

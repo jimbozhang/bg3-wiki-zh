@@ -16,7 +16,7 @@
 
 - UID `ALCH_Ingredient_Loot_DivineBoneShard` UUID `8f7f7240-0218-4aa9-b849-bc2f57e21b5e` ## 获取地点
 
-- 2个 - 在进入[星界](Astral_Plane.md "星界")时，位于[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+- 2个 - 在进入[星界](Astral_Plane.md "星界")时，位于[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")
 
 - 3个 - 在[星界](Astral_Plane.md "星界")中，于[第三幕](Act_Three.md "第三幕")开始时被吉斯洋基人伏击，两个在漂浮于头骨周围的岛屿上，一个在头骨岛上，[俄耳甫斯](Orpheus.md "俄耳甫斯")和[夺心魔主宰](Emperor.md "夺心魔主宰")位于其上
 

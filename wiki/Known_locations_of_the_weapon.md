@@ -16,7 +16,7 @@
 
 - UID `S_CRE_MIOffice_Map` UUID `688f7d69-64a3-482f-8165-ca2e3257f3e8` ## 获取地点
 
-- 在 [审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间") 的一张桌子上，坐标 X: 1345 Y: -672
+- 在 [审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间") 的一张桌子上，坐标 X: 1345 Y: -672
 
 ## 文本
 

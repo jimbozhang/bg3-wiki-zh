@@ -18,7 +18,7 @@
 
 - UID `S_CRE_Infirmary_DissectionNotes` UUID `19fcecdf-4d71-4f1c-bb58-62c244604990` ## 获取地点
 
-- 在[医疗官斯托努苟斯](Ghustil_Stornugoss.md "医疗官斯托努苟斯")的[办公室](Cr%C3%A8che_Y'llek.md#Doctor's_Office "伊雷珂养育间")的桌子上，坐标 X: 1287 Y: -820
+- 在[医疗官斯托努苟斯](Ghustil_Stornugoss.md "医疗官斯托努苟斯")的[办公室](Crèche_Y'llek.md#Doctor's_Office "伊雷珂养育间")的桌子上，坐标 X: 1287 Y: -820
 
 ## 文本
 

@@ -42,7 +42,7 @@ _如果你有[熟练项](Proficiency.md "熟练项")，装备在**主手**以获
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") X: 1383 Y: -659：靠在[审判官的房间](Creche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")的展示柜上
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") X: 1383 Y: -659：靠在[审判官的房间](Creche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")的展示柜上
 
 ## 备注
 

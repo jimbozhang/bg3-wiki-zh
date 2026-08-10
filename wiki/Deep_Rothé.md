@@ -10,11 +10,11 @@
 | 先攻 | 0 |
 | 移动速度 | 9 米 (30 英尺) |
 
-**地底洛斯兽**是一种动物，可在游戏[第一幕](Act_One.md "Act_One")的[幽暗地域](Underdark.md "Underdark")中找到。德鲁伊也可以使用[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9.md "Wild Shape: Deep Rothé")变形成它们。
+**地底洛斯兽**是一种动物，可在游戏[第一幕](Act_One.md "Act_One")的[幽暗地域](Underdark.md "Underdark")中找到。德鲁伊也可以使用[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Rothé.md "Wild Shape: Deep Rothé")变形成它们。
 
 ## 关于
 
-地底洛斯兽<sup>[\[1\]](#cite_note-1)</sup>是费伦大陆常见的野兽，主要用作肉牛和役畜；游戏中常见的补给品之一是[烤洛斯兽肋排](Grilled_Roth%C3%A9_Ribs.md "Grilled Rothé Ribs")，玩家可以在周围找到或从商人处购买。地底洛斯兽是普通洛斯兽的一个亚种，适应了在幽暗地域生活。洛斯兽在外观上很像麝牛或牦牛等群居动物，可能也具有相似的性情和行为。
+地底洛斯兽<sup>[\[1\]](#cite_note-1)</sup>是费伦大陆常见的野兽，主要用作肉牛和役畜；游戏中常见的补给品之一是[烤洛斯兽肋排](Grilled_Rothé_Ribs.md "Grilled Rothé Ribs")，玩家可以在周围找到或从商人处购买。地底洛斯兽是普通洛斯兽的一个亚种，适应了在幽暗地域生活。洛斯兽在外观上很像麝牛或牦牛等群居动物，可能也具有相似的性情和行为。
 
 ## 参与
 
@@ -26,16 +26,16 @@
 | --- | --- | --- |
 | 4 | 0 | 0 |
 
-- 在[黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake_Grotto") - [地底洛斯兽](Deep_Roth%C3%A9_(myconid_colony).md) at X: 54 Y: -89
+- 在[黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake_Grotto") - [地底洛斯兽](Deep_Rothé_(myconid_colony).md) at X: 54 Y: -89
 
-- 在[复仇之炉](Grymforge.md "Grymforge") - 地底洛斯兽、[地底洛斯兽幼崽](Deep_Roth%C3%A9_Calf.md "Deep Rothé Calf")和[老年洛斯兽](Elder_Roth%C3%A9.md "Elder Rothé")在 X: -657 Y: 402
+- 在[复仇之炉](Grymforge.md "Grymforge") - 地底洛斯兽、[地底洛斯兽幼崽](Deep_Rothé_Calf.md "Deep Rothé Calf")和[老年洛斯兽](Elder_Rothé.md "Elder Rothé")在 X: -657 Y: 402
 - 在复仇之炉 - 另一对地底洛斯兽在清理碎石堆，位置 X: -670 Y: 441
 
 ## 战斗
 
 ### 攻击与能力
 
-[舞光术](Dancing_Lights_(Deep_Roth%C3%A9).md "Dancing Lights (Deep Rothé)")
+[舞光术](Dancing_Lights_(Deep_Rothé).md "Dancing Lights (Deep Rothé)")
 照亮 9 米 / 30 英尺半径范围。
 
 射程：18 米 (60 英尺)
@@ -50,7 +50,7 @@
 
 充能：每回合
 
-[顶撞](Gore_(Deep_Roth%C3%A9).md "Gore (Deep Rothé)")
+[顶撞](Gore_(Deep_Rothé).md "Gore (Deep Rothé)")
 
 伤害：18~27
 
@@ -66,9 +66,9 @@
 
 ## 地底洛斯兽角色
 
-- [地底洛斯兽（蕈人聚落）](Deep_Roth%C3%A9_(myconid_colony).md "Deep Rothé (myconid colony)")
-- [地底洛斯兽幼崽](Deep_Roth%C3%A9_Calf.md "Deep Rothé Calf")
-- [老年洛斯兽](Elder_Roth%C3%A9.md "Elder Rothé")
+- [地底洛斯兽（蕈人聚落）](Deep_Rothé_(myconid_colony).md "Deep Rothé (myconid colony)")
+- [地底洛斯兽幼崽](Deep_Rothé_Calf.md "Deep Rothé Calf")
+- [老年洛斯兽](Elder_Rothé.md "Elder Rothé")
 
 ## 相关任务
 
@@ -77,7 +77,7 @@
 
 ## 另见
 
-- [荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9.md "Wild Shape: Deep Rothé")
+- [荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Rothé.md "Wild Shape: Deep Rothé")
 
 ## 注释
 

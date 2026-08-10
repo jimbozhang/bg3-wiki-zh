@@ -13,7 +13,7 @@
 
 ## 获取地点
 
-- 由[战士武恩](Vu'un.md "战士武恩")携带于[伊雷珂养育间](Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")
+- 由[战士武恩](Vu'un.md "战士武恩")携带于[伊雷珂养育间](Crèche_Y'llek.md#Hatchery "伊雷珂养育间")
 
 ## 用途
 

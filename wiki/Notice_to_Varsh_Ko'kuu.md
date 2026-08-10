@@ -18,7 +18,7 @@
 
 - UID `S_CRE_Hatchery_NewBatchNotification` UUID `41396845-0c1e-47ff-aee1-f33849a5d8ea` ## 获取地点
 
-- 在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek")的花岗岩长凳上，坐标 X: 1315 Y: -783
+- 在[伊雷珂养育间](Crèche_Y'llek.md#Hatchery "Crèche Y'llek")的花岗岩长凳上，坐标 X: 1315 Y: -783
 
 ## 文本
 

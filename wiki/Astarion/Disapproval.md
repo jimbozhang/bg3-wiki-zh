@@ -20,7 +20,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "好
     - [1.1.3 染疫村落和地精营地](#blighted-village-and-goblin-camp)
     - [1.1.4 复仇之炉](#grymforge)
     - [1.1.5 升路、渥金的休眠地和散塔林会窝点](#risen-road,_Waukeen's_Rest_and_Zhentarim_Hideout)
-    - [1.1.6 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+    - [1.1.6 伊雷珂养育间](#Crèche_Y'llek)
   - [1.2 营地和对话](#campsite-and-conversations)
   - [1.3 伙伴任务](#companion-quest)
 - [2 第二幕](#act-two)
@@ -134,21 +134,21 @@ _**注：**在本林要求寻找之后才找到并归还嫁妆不会获得不悦
   - 以初始价格从[布雷姆](../Brem.md "Brem")处购买[奥斯卡·费拉斯](../Oskar_Fevras.md "Oskar Fevras") (-1)
 - 在释放奥斯卡后额外给予200金币 (-1)
 
-#### [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "Crèche Y'llek")
+#### [伊雷珂养育间](../Crèche_Y'llek.md "Crèche Y'llek")
 
-_在[孵化室](../Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek")中：_
+_在[孵化室](../Crèche_Y'llek.md#Hatchery "Crèche Y'llek")中：_
 
   - 说服[养育官寇库](../Varsh_Ko'kuu.md "Varsh Ko'kuu")让你带走[吉斯洋基蛋](../Githyanki_Egg.md "Githyanki Egg")，告诉他你会把它带到更好的养育间，或者你会自己抚养它 (-1) _（任选其一）_
 - 或者使用基于种族的吉斯洋基人台词 (-1)
 
-_在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "Crèche Y'llek")中：_
+_在[教室](../Crèche_Y'llek.md#Classroom "Crèche Y'llek")中：_
 
   - 扮演[战士](../Fighter.md "Fighter")，以任何方式拯救[青年瓦尔](../Youth_Varrl.md "Youth Varrl")，然后告诉他怜悯的能力将我们与野兽区分开来 (-1)
 - 或者说他的老师显然未能灌输纪律 (-1)
 
 _**注：**如果你与瓦尔战斗并让他倒地，对话会将他视为无限期昏迷，即使他在长休后显示坐起，因此无法获得这些点数。_
 
-_在[队长办公区](../Cr%C3%A8che_Y'llek.md#Captain's_Quarters "Crèche Y'llek")和[审判官的房间](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")中：_
+_在[队长办公区](../Crèche_Y'llek.md#Captain's_Quarters "Crèche Y'llek")和[审判官的房间](../Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")中：_
 
 - 将[神秘遗物](../Mysterious_Artefact.md "Mysterious Artefact")交给[凯斯拉克百夫长赛泽恩](../Kith'rak_Therezzyn.md "Kith'rak Therezzyn") (-1)
 - 告诉[维拉基斯](../Vlaakith.md "Vlaakith")你是带来遗物给她的朋友 (-1)

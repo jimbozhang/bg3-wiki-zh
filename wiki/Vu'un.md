@@ -36,7 +36,7 @@
 - [吉斯洋基招架](Githyanki_Parry.md "Githyanki Parry")
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-**战士 Vu'un** 是在[审判官 W'wargaz](W'wargaz.md "W'wargaz") 于[第一幕](Act_One.md "Act_One")期间抵达之前，居住在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的吉斯洋基社群成员。
+**战士 Vu'un** 是在[审判官 W'wargaz](W'wargaz.md "W'wargaz") 于[第一幕](Act_One.md "Act_One")期间抵达之前，居住在[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的吉斯洋基社群成员。
 
 > “
 >
@@ -59,7 +59,7 @@
 
 ### 第一幕
 
-Vu'un 和[掠夺者 Zar'an](Zar'an.md "Zar'an") 守卫着伊雷珂养育间的[孵化室](Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek")。他站在孵化室入口附近的低矮岩石悬崖处放哨。
+Vu'un 和[掠夺者 Zar'an](Zar'an.md "Zar'an") 守卫着伊雷珂养育间的[孵化室](Crèche_Y'llek.md#Hatchery "Crèche Y'llek")。他站在孵化室入口附近的低矮岩石悬崖处放哨。
 
 如果与他交谈，他会不满陌生人被允许在养育间的孵化室里闲逛，但仍会警告他们注意附近的陷阱。如果互动的队伍成员是吉斯洋基人，Vu'un 会解释吉斯洋基蛋如何在孵化室中被培育，以及[Varsh Ko'kuu](Ko'kuu.md "Ko'kuu") 负责照料蛋和构建孵化室的防御。此外，Vu'un 警告队伍不要靠近那枚蛋。
 
@@ -150,7 +150,7 @@ Vu'un 和[掠夺者 Zar'an](Zar'an.md "Zar'an") 守卫着伊雷珂养育间的[�
 - [强酸抗性灵药](Elixir_of_Acid_Resistance.md "Elixir of Acid Resistance")
 - [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
 - [吉斯洋基半身甲](Githyanki_Half_Plate.md "Githyanki Half Plate")
-- [钥匙（养育间孵化室）](Key_(Cr%C3%A8che_Hatchery).md "Key (Crèche Hatchery)")
+- [钥匙（养育间孵化室）](Key_(Crèche_Hatchery).md "Key (Crèche Hatchery)")
 
 ## 外部链接
 

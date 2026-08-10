@@ -23,7 +23,7 @@
 ## 获取地点
 
 - 当队伍成员达到角色等级6时，此物品通常由游戏中的许多[商人](Traders.md "商人"）出售，包括：
-  - [阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉"）在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间"）
+  - [阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉"）在[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间"）
   - [阿克莱娅·奥洛瑞尔](Arkleia_Oloril.md "阿克莱娅·奥洛瑞尔"）在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞"）
   - [恩索尔·丹瑟隆](Entharl_Danthelon.md "恩索尔·丹瑟隆"）在[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧"）
   - [埃丝特](Esther.md "埃丝特"）在[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径"）

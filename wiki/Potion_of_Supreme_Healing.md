@@ -41,7 +41,7 @@
 
 - 可从各种商人处获得（通常需要角色达到 10 级以上）
   - 通常提供此物品的商人示例包括：
-  - [阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉") 在 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+  - [阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉") 在 [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")
   - [阿拉吉·欧布罗扎](Araj_Oblodra.md "阿拉吉·欧布罗扎") 在 [腥红跳棋](Crimson_Draughts.md "腥红跳棋")，[博德之门](Baldur's_Gate.md "博德之门")
   - [赫尔希克](Helsik.md "赫尔希克") 在 [魔鬼的小费](Devil's_Fee.md "魔鬼的小费")，[博德之门](Baldur's_Gate.md "博德之门")
   - [奥利弗·特福科](Oliver_Tefoco.md "奥利弗·特福科") 在 [蜂巢杂货铺](Beehive_General_Goods.md "蜂巢杂货铺")，[博德之门](Baldur's_Gate.md "博德之门")

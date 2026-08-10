@@ -18,7 +18,7 @@
 
 - UID `BOOK_LOW_Golbraith_ProtectingYourMind` UUID `2e4538b2-03e2-4208-82bb-40f1e70e5def` ## 获取地点
 
-- 在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")的 X: 1369 Y: -825 处
+- 在[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")的 X: 1369 Y: -825 处
 
 - 在[下城区下水道](Lower_City_Sewers.md "下城区下水道")的一个[书堆](Stack_of_Books.md "书堆")中，位于 X: 44 Y: 796
 

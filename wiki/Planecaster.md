@@ -1,6 +1,6 @@
 # 伊雷珂养育间
 
-本文介绍的是[第一幕](Act_1.md "第一幕")中的养育间。关于[莱埃泽尔](Lae'zel.md "莱埃泽尔")的养育间，请参见[克'利尔养育间](Cr%C3%A8che_K'liir.md "克'利尔养育间")。
+本文介绍的是[第一幕](Act_1.md "第一幕")中的养育间。关于[莱埃泽尔](Lae'zel.md "莱埃泽尔")的养育间，请参见[克'利尔养育间](Crèche_K'liir.md "克'利尔养育间")。
 
 伊雷珂养育间的入口大厅。
 
@@ -215,7 +215,7 @@
 - [发现俄耳甫斯王子的历史](Discover_the_History_of_Prince_Orpheus.md "发现俄耳甫斯王子的历史")
 - [寻找洛山达之血](Find_the_Blood_of_Lathander.md "寻找洛山达之血")
 - [寻找治疗方法](Find_a_Cure.md "寻找治疗方法")
-  - [找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")
+  - [找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
 - [偷一枚吉斯洋基蛋](Steal_a_Githyanki_Egg.md "偷一枚吉斯洋基蛋")
 - [吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")
 

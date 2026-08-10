@@ -258,7 +258,7 @@
 [破布](Rags.md "破布")
 [胸腔 (杂项)](Ribcage_(Clutter).md "胸腔 (杂项)")
 [名贵时钟](Rich_Clock.md "名贵时钟")
-[洛斯兽腿骨](Roth%C3%A9_Femur.md "洛斯兽腿骨")
+[洛斯兽腿骨](Rothé_Femur.md "洛斯兽腿骨")
 [绳子](Rope.md "绳子")
 [腐烂的篮子](Rotting_Basket.md "腐烂的篮子")
 [圆底烧瓶](Round_Flask.md "圆底烧瓶")

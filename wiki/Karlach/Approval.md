@@ -25,7 +25,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "App
     - [1.1.6 地底深渊和灰矮人熔炉](#underdark-and-grymforge)
     - [1.1.7 晋升之路[2]](#the-risen-road%5B2%5D)
     - [1.1.8 渥金的休眠地和散塔林会窝点](#waukeen's-rest-and-zhentarim-hideout)
-    - [1.1.9 山隘和伊雷珂养育间](#mountain-pass-and-cr%C3%A8che_Y'llek)
+    - [1.1.9 山隘和伊雷珂养育间](#mountain-pass-and-Crèche_Y'llek)
   - [1.2 营地和对话](#campsite-and-conversations)
   - [1.3 同伴任务](#companion-quest)
 - [2 第二幕](#act-two)
@@ -244,7 +244,7 @@ _在灰矮人熔炉中：_
 - 告诉[守卫玛格玛](../Ward_Magmar.md "Ward Magmar")他让你感到恶心（+1）
 - 说服[斯基克皮特](../Skickpit.md "Skickpit")你会帮助他，然后问他是否真的想让你杀死他的奴隶主（使用[说服](../Persuasion.md "Persuasion")台词）（+1）
 - 在处理掉[布拉思维恩](../Brathwen.md "Brathwen")和[维斯](../Viss.md "Viss")后，向深地侏的尸体堆致敬（+1）
-- [说服](../Persuasion.md "Persuasion")[深罗塞](../Deep_Roth%C3%A9.md "Deep Rothé")攻击灰矮人（+1）
+- [说服](../Persuasion.md "Persuasion")[深罗塞](../Deep_Rothé.md "Deep Rothé")攻击灰矮人（+1）
 - 向深地侏奴隶承诺你的帮助（+1）
 - 找到[菲洛敏](../Philomeen.md "Philomeen")（并让她离开）后，与[伦克巴格](../Lunkbug.md "Lunkbug")交谈，提到她希望[拉瑞达](../Laridda.md "Laridda")继续前进，或直接告诉拉瑞达（+1）
 - 当[尼雷](../Nere.md "Nere")被释放后要杀死深地侏奴隶时，为他们辩护（+5）
@@ -278,7 +278,7 @@ _在散塔林会窝点中：_
   - 或者让他免费放走奥斯卡，使用任何基于检定的选项（+1）
   - 释放奥斯卡后，额外给他200金币（+1）
 
-#### [山隘](../Mountain_Pass.md "Mountain Pass") 和 [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "Crèche Y'llek")
+#### [山隘](../Mountain_Pass.md "Mountain Pass") 和 [伊雷珂养育间](../Crèche_Y'llek.md "Crèche Y'llek")
 
 - 作为[吉斯洋基人](../Githyanki.md "Githyanki")，告诉[艾莉卡](../Ellyka.md "Ellyka")吉斯洋基巡逻队对你来说毫无意义（+1）
   - 或者，[伪装](../Disguise_Self.md "Disguise Self")成吉斯洋基人，告诉她你其实不是他们，或者说她安全了（+1）
@@ -286,18 +286,18 @@ _在散塔林会窝点中：_
 - 沃斯离开后，[说服](../Persuasion.md "Persuasion")莱埃泽尔将怒火留给[维拉基斯](../Vlaakith.md "Vlaakith")的敌人（+1）_（[武僧](../Monk.md "Monk")不可用）_
   - 作为[吉斯洋基人](../Githyanki.md "Githyanki")，称沃斯为异端（+1）
 
-_在[伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "Crèche Y'llek")中：_
+_在[伊雷珂养育间](../Crèche_Y'llek.md "Crèche Y'llek")中：_
 
 - 进入养育间后，首先告诉[吉什·法拉格](../Gish_Far'aag.md "Gish Far'aag")是[沃斯](../Voss.md "Voss")派你来的；然后假装是维拉基斯的化身，并成功通过DC 30[表演](../Performance.md "Performance")[检定](../Ability_Check.md "Ability check")（+1）
 - 破坏[维拉基斯](../Vlaakith.md "Vlaakith")的肖像（+1）
 
-_在[医务室](../Cr%C3%A8che_Y'llek.md#Infirmary_and_Dormitories "Crèche Y'llek")中：_
+_在[医务室](../Crèche_Y'llek.md#Infirmary_and_Dormitories "Crèche Y'llek")中：_
 
 - 如果莱埃泽尔正在使用[治愈机](../Zaith'isk.md "Zaith'isk")，在第一阶段说服她该设备会杀死而非治愈（+1）
 
 _**注：** 为此，需成功通过被动DC 14[察觉](../Perception.md "Perception")[检定](../Ability_Check.md "Ability check")，然后成功通过DC 30[感知](../Wisdom.md "Wisdom")[检定](../Ability_Check.md "Ability check")、DC 30[说服](../Persuasion.md "Persuasion")[检定](../Ability_Check.md "Ability check")或DC 30[历史](../History.md "History")[检定](../Ability_Check.md "Ability check")（后者仅限[吉斯洋基人](../Githyanki.md "Githyanki")）_
 
-_在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "Crèche Y'llek")中：_
+_在[教室](../Crèche_Y'llek.md#Classroom "Crèche Y'llek")中：_
 
 - 说服[萨'瓦什·凯斯克](../Sa'varsh_Kethk.md "Sa'varsh Kethk")让[青年瓦尔](../Youth_Varrl.md "Youth Varrl")离开训练（+1）
 - 作为[战士](../Fighter.md "Fighter")，通过任何方式拯救瓦尔，然后告诉他：
@@ -306,13 +306,13 @@ _在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "Crèche Y'llek")中：_
 
 _**注：** 如果你与瓦尔战斗并将其击晕，对话会将其视为无限期昏迷，即使他在长休后显示坐起，因此无法获得这些点数_
 
-_在[孵化室](../Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek")中：_
+_在[孵化室](../Crèche_Y'llek.md#Hatchery "Crèche Y'llek")中：_
 
   - 成功说服[瓦什·科库](../Varsh_Ko'kuu.md "Varsh Ko'kuu")让你带走[吉斯洋基蛋](../Githyanki_Egg.md "Githyanki Egg")，告诉他：
   - 你会把它带到一个更好的养育间，或者你会自己抚养它（+1）_（任选其一）_
 - 或者使用[吉斯洋基人](../Githyanki.md "Githyanki")的种族选项（+1）
 
-_在[队长办公区](../Cr%C3%A8che_Y'llek.md#Captain's_Quarters "Crèche Y'llek")和[审判官的房间](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")中：_
+_在[队长办公区](../Crèche_Y'llek.md#Captain's_Quarters "Crèche Y'llek")和[审判官的房间](../Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")中：_
 
 - 告诉[凯斯拉克百夫长赛泽恩](../Kith'rak_Therezzyn.md "Kith'rak Therezzyn")你拥有[神秘遗物](../Mysterious_Artefact.md "Mysterious Artefact")，然后拒绝交出它（+1）
   - 询问[审判官瓦尔'戈兹](../W'wargaz.md "W'wargaz")他为何如此了解你（+1）

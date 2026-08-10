@@ -282,7 +282,7 @@ _"我们未能取出夺心魔寄生虫，并与维拉基斯女王为敌。莱埃
 
 ### 找到养育间
 
-主条目：[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")
+主条目：[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
 
 招募莱埃泽尔后，她立即坚持前往最近的养育间。她声称养育间内有一个[扎伊斯克净化者](Zaith'isk.md "扎伊斯克净化者")，这是一种神圣装置，可以通过净化治愈感染者的蝌蚪。如果完成了[释放莱埃泽尔](Free_Lae'zel.md "释放莱埃泽尔")，则会揭示一位名叫[苏洛](Zorru.md "苏洛")的[提夫林](Tiefling.md "提夫林")最近遇到了一支吉斯洋基巡逻队。苏洛可以在[德鲁伊营地](Druid_Grove.md "德鲁伊营地")的储藏谷仓附近找到。如果莱埃泽尔在队伍中时与苏洛交谈，他会承认在山隘附近遇到过吉斯洋基人。
 
@@ -416,7 +416,7 @@ _Yisk Gith'ka tavki krash'ht_
 - [对付魔鬼](Deal_with_the_Devil.md "对付魔鬼")
 - [找出遗物的秘密](Discover_the_Artefact's_Secrets.md "找出遗物的秘密")
 - [发现俄耳甫斯王子的历史](Discover_the_History_of_Prince_Orpheus.md "发现俄耳甫斯王子的历史")
-- [找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")
+- [找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
 - [释放莱埃泽尔](Free_Lae'zel.md "释放莱埃泽尔")
 - [释放俄耳甫斯](Free_Orpheus.md "释放俄耳甫斯")
 - [帮助凯斯拉克百夫长沃斯](Help_Kith'rak_Voss.md "帮助凯斯拉克百夫长沃斯")

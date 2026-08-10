@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") X: 1303 Y: -798：由医疗区南部的[熟手乌姆拉阿克](Umr'a'ac.md "Umr'a'ac")佩戴
+- [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1303 Y: -798：由医疗区南部的[熟手乌姆拉阿克](Umr'a'ac.md "Umr'a'ac")佩戴
 
 ## 备注
 

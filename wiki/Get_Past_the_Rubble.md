@@ -28,7 +28,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 ## 流程攻略
 
-进入[复仇之炉](Grymforge.md "Grymforge")后，队伍可以爬上楼梯，向北前往X: -668 Y: 442处与[牧主斯卡贾尔](Skarjall.md "Skarjall")会面。斯卡贾尔命令队伍鞭打正在清理碎石堆的[地底洛斯兽](Deep_Roth%C3%A9.md "Deep Rothé")。如果询问原因，通过DC 15的[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")会让斯卡贾尔向队伍展示一块[精金矿渣](Adamantine_Slag.md "Adamantine Slag")，揭示附近存在精金。他提出如果队伍清理碎石堆就支付金币，但声称[精金熔炉](Adamantine_Forge_(location)是氏族财产.md)。
+进入[复仇之炉](Grymforge.md "Grymforge")后，队伍可以爬上楼梯，向北前往X: -668 Y: 442处与[牧主斯卡贾尔](Skarjall.md "Skarjall")会面。斯卡贾尔命令队伍鞭打正在清理碎石堆的[地底洛斯兽](Deep_Rothé.md "Deep Rothé")。如果询问原因，通过DC 15的[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")会让斯卡贾尔向队伍展示一块[精金矿渣](Adamantine_Slag.md "Adamantine Slag")，揭示附近存在精金。他提出如果队伍清理碎石堆就支付金币，但声称[精金熔炉](Adamantine_Forge_(location)是氏族财产.md)。
 
 队伍与地底洛斯兽的互动会影响碎石堆的清理方式：
 

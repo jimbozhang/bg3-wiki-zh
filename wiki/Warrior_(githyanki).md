@@ -58,7 +58,7 @@
 
 吉斯洋基战士是基于[力量](Strength.md "Strength")的[战斗大师](Battle_Master.md "Battle Master")[战士](Fighter.md "Fighter")。
 
-他们可以在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")各处找到，并作为[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "Knights of the Shield Hideout")的增援出现。
+他们可以在[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")各处找到，并作为[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "Knights of the Shield Hideout")的增援出现。
 
 ## 战斗
 

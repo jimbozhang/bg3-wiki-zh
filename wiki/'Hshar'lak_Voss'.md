@@ -18,7 +18,7 @@
 
 - UID `S_CRE_MIOffice_VossDocument` UUID `85158042-95b2-47e6-8dbb-28e804614e49` ## 位置
 
-- ⁠[审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")，位于 X: 1345 Y: -669
+- ⁠[审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")，位于 X: 1345 Y: -669
 
 ## 文本
 

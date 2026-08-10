@@ -81,7 +81,7 @@
 - [吉斯洋基人] 他们可能是我的族人。我会去调查。
 - [吉斯洋基人] 首次也是最后警告——放下武器。
 
-艾丽卡后来可以在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")的牢房里被发现死亡。对其尸体使用[死者交谈](Speak_with_Dead.md "死者交谈")可以揭示她曾前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")寻找[洛山达之血](The_Blood_of_Lathander.md "洛山达之血")，但被吉斯洋基人俘虏并折磨，以获取关于[月出之塔](Moonrise_Towers.md "月出之塔")的情报。如果艾丽卡在山隘被杀，则无法通过[死者交谈](Speak_with_Dead.md "死者交谈")与她互动。
+艾丽卡后来可以在[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")的牢房里被发现死亡。对其尸体使用[死者交谈](Speak_with_Dead.md "死者交谈")可以揭示她曾前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")寻找[洛山达之血](The_Blood_of_Lathander.md "洛山达之血")，但被吉斯洋基人俘虏并折磨，以获取关于[月出之塔](Moonrise_Towers.md "月出之塔")的情报。如果艾丽卡在山隘被杀，则无法通过[死者交谈](Speak_with_Dead.md "死者交谈")与她互动。
 
 ## 战利品
 

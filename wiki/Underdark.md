@@ -268,7 +268,7 @@
 - [奥术炮塔](Arcane_Turret.md "奥术炮塔")
 - [活化护甲](Animated_Armour.md "活化护甲")
 - [鲨蜥兽](Bulette.md "鲨蜥兽")
-- [地底洛斯兽（蕈人栖息地）](Deep_Roth%C3%A9_(myconid_colony).md "地底洛斯兽（蕈人栖息地）")
+- [地底洛斯兽（蕈人栖息地）](Deep_Rothé_(myconid_colony).md "地底洛斯兽（蕈人栖息地）")
 - [恐爪怪](Hook_Horror.md "恐爪怪")
 - [鱼人](Kuo-toa.md "鱼人")
 - [牛头人](Minotaur.md "牛头人")

@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") X: 1359 Y: -831：由[熟手法'拉格](Far'aag.md "Far'aag")穿戴
+- [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1359 Y: -831：由[熟手法'拉格](Far'aag.md "Far'aag")穿戴
 
 ---
 *Source: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)*

@@ -13,7 +13,7 @@
 | 先攻 | +3 |
 | 经验值 | 75 |
 
-**掠夺者 阿胡拉格**在[第一幕](Act_One.md "Act One")期间定期巡逻[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的走廊。
+**掠夺者 阿胡拉格**在[第一幕](Act_One.md "Act One")期间定期巡逻[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的走廊。
 
 > “
 >

@@ -134,7 +134,7 @@
 
 - [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 - [吉斯洋基半身甲](Githyanki_Half_Plate.md "吉斯洋基半身甲")
-- [钥匙 (伊雷珂养育间)](Key_(Cr%C3%A8che_Y'llek).md "钥匙 (伊雷珂养育间)")\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- [钥匙 (伊雷珂养育间)](Key_(Crèche_Y'llek).md "钥匙 (伊雷珂养育间)")\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
 
 ---
 *Source: [Khunaruth](https://bg3.wiki/wiki/Khunaruth)*

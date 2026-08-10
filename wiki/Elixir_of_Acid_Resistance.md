@@ -33,7 +33,7 @@
 
 ## 获取地点
 
-- 由[Vu'un](Vu'un.md "Vu'un")和[Zar'an](Zar'an.md "Zar'an")携带，位于[伊雷珂养育间孵化室](Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")。
+- 由[Vu'un](Vu'un.md "Vu'un")和[Zar'an](Zar'an.md "Zar'an")携带，位于[伊雷珂养育间孵化室](Crèche_Y'llek.md#Hatchery "伊雷珂养育间")。
 
 ## 备注
 

@@ -40,7 +40,7 @@
 ## 获取地点
 
 - 可在整个游戏中的各种商人、敌人和地点获得（从等级 8 开始，将随机出现在商人处）
-  - 通常提供此物品的商人示例包括 [治疗中心](House_of_Healing.md "治疗中心") 的 [丽德雯姐妹](Anna_Lidwin.md "丽德雯姐妹") 和 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") 的 [阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉")
+  - 通常提供此物品的商人示例包括 [治疗中心](House_of_Healing.md "治疗中心") 的 [丽德雯姐妹](Anna_Lidwin.md "丽德雯姐妹") 和 [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") 的 [阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉")
 - 可通过[炼金术](Alchemy.md "炼金术")制作，组合[麝香藤蔓盐](Salts_of_Musk_Creeper.md "麝香藤蔓盐")（从[麝香黄藤花瓣](Yellow_Musk_Creeper_Petals.md "麝香黄藤花瓣")获取）和任意[悬液](Alchemy.md#Extractions "炼金术")
 - 在大多数情况下，购买原料的成本将远高于直接从商人处购买药水
 

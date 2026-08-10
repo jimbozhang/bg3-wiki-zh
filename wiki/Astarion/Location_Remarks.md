@@ -28,7 +28,7 @@
   - [2.9 格瑞姆锻造厂](#grymforge)
   - [2.10 晋升之路与山隘](#the-risen-road-and-mountain-pass)
   - [2.11 瑰晨修道院](#rosymorn-monastery)
-  - [2.12 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+  - [2.12 伊雷珂养育间](#Crèche_Y'llek)
 - [3 第二幕](#act-two)
   - [3.1 幽影诅咒之地](#shadow-Cursed_Lands)
   - [3.2 终焉光芒旅店](#last-light-inn)

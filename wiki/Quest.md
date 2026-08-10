@@ -43,7 +43,7 @@
 [寻找治疗方法](Find_a_Cure.md "寻找治疗方法")，主线任务。子任务：
 
 [向地精女祭司寻求帮助](Ask_the_Goblin_Priestess_for_Help.md "向地精女祭司寻求帮助")
-[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")
+[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
 [从艾塞尔阿姨那里获得帮助](Get_Help_from_Auntie_Ethel.md "从艾塞尔阿姨那里获得帮助")
 [获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "获得医师内蒂的帮助")
 [帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "帮助奥米伦调查寄生虫的事")
@@ -290,7 +290,7 @@
 
 [寻找洛山达之血](Find_the_Blood_of_Lathander.md "寻找洛山达之血")，我们得知一件强大的圣物，洛山达之血，可能就在附近。我们在探索修道院时应该留意它。
 
-[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")，莱埃泽尔告诉我们，吉斯洋基人应该能治愈我们，如果我们能找到他们的养育间。
+[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")，莱埃泽尔告诉我们，吉斯洋基人应该能治愈我们，如果我们能找到他们的养育间。
 
 [夺回蓝松鸦的巢穴](Reclaim_the_Blue_Jay's_Nest.md "夺回蓝松鸦的巢穴")，我们遇到了一只蓝松鸦，它要求我们杀死修道院屋顶上的鹰。它声称鹰偷了它的巢。
 

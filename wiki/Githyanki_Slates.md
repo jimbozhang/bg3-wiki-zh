@@ -38,7 +38,7 @@
 
 ## 雕刻的石板
 
-所有雕刻的石板在游戏中共享相同的名称，这使得区分它们具有挑战性。括号中的描述是为 Wiki 目的添加的，并未在游戏中出现。其中一张圆盘，[雕刻的吉斯洋基石板（地图）](Inscribed_Githyanki_Slate_(map).md "雕刻的吉斯洋基石板（地图）")，可以在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")找到，并揭示了[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")的位置。另外四张可以在[星界](Astral_Plane.md "星界")找到，涉及历史事件。按推测的事件发生时间顺序列出，它们是：
+所有雕刻的石板在游戏中共享相同的名称，这使得区分它们具有挑战性。括号中的描述是为 Wiki 目的添加的，并未在游戏中出现。其中一张圆盘，[雕刻的吉斯洋基石板（地图）](Inscribed_Githyanki_Slate_(map).md "雕刻的吉斯洋基石板（地图）")，可以在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")找到，并揭示了[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")的位置。另外四张可以在[星界](Astral_Plane.md "星界")找到，涉及历史事件。按推测的事件发生时间顺序列出，它们是：
 
 - [雕刻的吉斯洋基石板（龙）](Inscribed_Githyanki_Slate_(Dragon).md "雕刻的吉斯洋基石板（龙）")
 - [雕刻的吉斯洋基石板（军队）](Inscribed_Githyanki_Slate_(Army).md "雕刻的吉斯洋基石板（军队）")
@@ -51,7 +51,7 @@
 
 以下石板描述了吉斯洋基人对[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")的侦察和征服，他们随后在其围墙内建立了伊雷珂养育间：
 
-- [伊雷珂养育间建立记](Account_of_the_Establishment_of_Cr%C3%A8che_Y'llek.md "伊雷珂养育间建立记")
+- [伊雷珂养育间建立记](Account_of_the_Establishment_of_Crèche_Y'llek.md "伊雷珂养育间建立记")
 - [吉斯洋基石板](Githyanki_Slate_(item).md "吉斯洋基石板（物品）")
 - [收入清单](Inventory_of_Takings.md "收入清单")
 

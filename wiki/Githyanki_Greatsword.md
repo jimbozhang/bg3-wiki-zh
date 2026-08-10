@@ -36,7 +36,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 ## 获取地点
 
-- 由 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") 中的多个 [吉斯洋基人](Githyanki.md "吉斯洋基人") 携带
+- 由 [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") 中的多个 [吉斯洋基人](Githyanki.md "吉斯洋基人") 携带
 - 由 [终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店") 的 [幽影诅咒吉斯洋基战士](Shadow-Cursed_Githyanki_Warrior.md "幽影诅咒吉斯洋基战士") 携带
 
 ## 备注

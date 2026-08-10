@@ -39,7 +39,7 @@
 - [奥术射击：爆发箭](Arcane_Shot_colon__Bursting_Arrow.md "奥术射击：爆发箭")
 - [奥术射击：追踪箭](Arcane_Shot_colon__Seeking_Arrow.md "奥术射击：追踪箭")
 - [剑舞高潮](Bladesong_Climax.md "剑舞高潮")
-- [顶撞（地底洛斯兽）](Gore_(Deep_Roth%C3%A9).md "顶撞（地底洛斯兽）")
+- [顶撞（地底洛斯兽）](Gore_(Deep_Rothé).md "顶撞（地底洛斯兽）")
 - [共鸣之气：爆炸](Ki_Resonation_colon__Blast.md "共鸣之气：爆炸")
 - [残忍挥砍](Lupine_Slash.md "残忍挥砍")
 

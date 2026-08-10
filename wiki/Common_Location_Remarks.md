@@ -22,7 +22,7 @@
   - [2.4 森林与枭熊巢穴](#forest-and-owlbear-nest)
   - [2.5 复仇之炉](#grymforge)
   - [2.6 瑰晨修道院](#rosymorn-monastery)
-  - [2.7 伊雷珂养育间](#cr%C3%A8che_Y%E2%80%99llek)
+  - [2.7 伊雷珂养育间](#Crèche_Y'llek)
 - [3 未激活/已删除的地点语音](#inactive/Cut_Location_Remarks)
 - [4 第二幕](#act-two)
 - [5 第三幕](#act-three)

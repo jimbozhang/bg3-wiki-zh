@@ -12,7 +12,7 @@ _(信息尚未添加。)_
 
 ## 备注
 
-- 可通过摄入[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")来移除。需要使用蝌蚪来解锁[灵吸怪能力](Illithid_power.md "灵吸怪能力")。如果[莱埃泽尔](Laezel.md "莱埃泽尔")在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")使用扎伊斯克净化者，必须说服她在状态治愈前使用蝌蚪的力量。
+- 可通过摄入[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")来移除。需要使用蝌蚪来解锁[灵吸怪能力](Illithid_power.md "灵吸怪能力")。如果[莱埃泽尔](Laezel.md "莱埃泽尔")在[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")使用扎伊斯克净化者，必须说服她在状态治愈前使用蝌蚪的力量。
 
 ---
 *Source: [Weakened Intelligence](https://bg3.wiki/wiki/Weakened_Intelligence)*

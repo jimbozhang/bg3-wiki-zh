@@ -24,7 +24,7 @@
 ## 普通
 
 ['Hshar'lak Voss']('Hshar'lak_Voss'.md "'Hshar'lak Voss'")
-[伊雷珂养育间建立记录](Account_of_the_Establishment_of_Cr%C3%A8che_Y'llek.md "伊雷珂养育间建立记录")
+[伊雷珂养育间建立记录](Account_of_the_Establishment_of_Crèche_Y'llek.md "伊雷珂养育间建立记录")
 [丧葬罐的形式与功能](Funerary_Jar_Form_and_Function.md "丧葬罐的形式与功能")
 [吉斯洋基命令](Githyanki_Orders.md "吉斯洋基命令")
 [吉斯洋基报告](Githyanki_Report.md "吉斯洋基报告")

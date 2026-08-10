@@ -121,7 +121,7 @@
 
 ## 生物
 
-- [地底洛斯兽（蕈人栖息地）](Deep_Roth%C3%A9_(myconid_colony).md "地底洛斯兽（蕈人栖息地）")
+- [地底洛斯兽（蕈人栖息地）](Deep_Rothé_(myconid_colony).md "地底洛斯兽（蕈人栖息地）")
 - [灰矮人孢子仆从（守卫施法者）](Duergar_Spore_Servant_(guard_caster).md "灰矮人孢子仆从（守卫施法者）")
 - [灰矮人孢子仆从（守卫近战）](Duergar_Spore_Servant_(guard_melee).md "灰矮人孢子仆从（守卫近战）")
 - [灰矮人孢子仆从（巡逻近战）](Duergar_Spore_Servant_(patrol_melee).md "灰矮人孢子仆从（巡逻近战）")

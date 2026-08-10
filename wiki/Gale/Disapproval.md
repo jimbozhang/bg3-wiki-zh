@@ -19,7 +19,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "App
     - [1.1.2 日照湿地/腐烂泥潭](#sunlit-wetlands/Putrid_Bog)
     - [1.1.3 森林与染疫村落](#forest-and-blighted-village)
     - [1.1.4 地精营地](#goblin-camp)
-    - [1.1.5 伊雷珂养育间](#cr%C3%A8che_Y'llek)
+    - [1.1.5 伊雷珂养育间](#Crèche_Y'llek)
     - [1.1.6 其他地点](#other-locations)
   - [1.2 营地与对话](#campsite-and-conversations)
   - [1.3 伙伴任务](#companion-quest)
@@ -94,7 +94,7 @@ _在[破碎圣所](../Shattered_Sanctum.md "Shattered Sanctum")：_
   - 审问[利亚姆](../Liam.md "Liam")后，将他留在刑架上铐着 (-1)
 - 同意与明萨拉一起攻击[翠绿林地](../Emerald_Grove.md "Emerald Grove")，无论是否要求奖励 (-5)
 
-#### [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "Crèche Y'llek")
+#### [伊雷珂养育间](../Crèche_Y'llek.md "Crèche Y'llek")
 
 - 当[训练官凯斯克](../Sa'varsh_Kethk.md "Sa'varsh Kethk")要求挑战者时，主动提出与[青年瓦尔](../Youth_Varrl.md "Youth Varrl")战斗 (-1)，然后确实杀死他 (-1)
 - 告诉[养育官寇库](../Varsh_Ko'kuu.md "Varsh Ko'kuu")，如果他给你[吉斯洋基蛋](../Githyanki_Egg.md "Githyanki Egg")，你会以最高价出售或自己做煎蛋卷

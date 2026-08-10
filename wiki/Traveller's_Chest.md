@@ -31,7 +31,7 @@ At the [Campsite](Campsite.md "Campsite")
 - Gold can be used from the trading and bartering menu, and in dialog. _(This feature was mentioned in patch notes, but is not functional on consoles as of Patch 7/Hotfix 29)_
 - Certain quest-related items can be accessed on the spot.<sup>[\[1\]](#cite_note-1)</sup>
 - In Multiplayer each player character gets one uniquely colored chest determined by the order joined that the other players characters can not access. The host of the session always gets a yellow chest. The second player gets a green, the third a pink and the fourth a blue one.\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
-- A Traveller's Chest with the same icon as the one in camp that is usable as a regular container can be acquired from the [Crèche Y'llek Infirmary](Cr%C3%A8che_Y'llek.md#Infirmary_and_Dormitory "Crèche Y'llek") by unlocking and freeing the trapped Gremishka from the Githyanki children tossing it around.
+- A Traveller's Chest with the same icon as the one in camp that is usable as a regular container can be acquired from the [Crèche Y'llek Infirmary](Crèche_Y'llek.md#Infirmary_and_Dormitory "Crèche Y'llek") by unlocking and freeing the trapped Gremishka from the Githyanki children tossing it around.
   - It is possible to unlock additional chests in a singleplayer playthrough by deleting the 'profile8.lsf' file in the save folder, likely due to a new profile UID being generated. This also occurs if cross-save is enabled and the player loads a cross-save on a new device for the first time.
 
 ## 注释
@@ -41,7 +41,7 @@ At the [Campsite](Campsite.md "Campsite")
   - 金币可以在交易和议价菜单以及对话中使用。_(此功能在补丁说明中提到，但在补丁7/热修复29中，主机端尚未实现此功能)_
   - 某些任务相关物品可以就地访问。<sup>[\[1\]](#cite_note-1)</sup>
   - 在多人游戏中，每个玩家角色都会获得一个根据加入顺序确定的独特颜色的箱子，其他玩家角色无法访问。会话主持人总是获得黄色箱子。第二个玩家获得绿色，第三个获得粉色，第四个获得蓝色。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
-- 可以通过在[伊雷珂养育间医务室](Cr%C3%A8che_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")解锁并释放被吉斯洋基儿童抛来抛去的小法妖，获得一个与营地中图标相同、可作为普通容器使用的旅行者箱子。
+- 可以通过在[伊雷珂养育间医务室](Crèche_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")解锁并释放被吉斯洋基儿童抛来抛去的小法妖，获得一个与营地中图标相同、可作为普通容器使用的旅行者箱子。
   - 在单人游戏流程中，通过删除存档文件夹中的 'profile8.lsf' 文件，可以解锁额外的箱子，这可能是由于生成了新的配置文件UID。如果启用了跨平台存档，并且玩家首次在新设备上加载跨平台存档，也会发生这种情况。
 
 ## Contents

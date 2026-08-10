@@ -9,7 +9,7 @@
 ## 目录
 
 - [1 第二幕](#act-two)
-  - [1.1 瑰晨修道院与伊雷珂养育间](#rosymorn-monastery-and-cr%C3%A8che_Y'llek)
+  - [1.1 瑰晨修道院与伊雷珂养育间](#rosymorn-monastery-and-Crèche_Y'llek)
   - [1.2 幽影诅咒之地](#shadow-Cursed_Lands)
   - [1.3 终焉光芒旅店](#last-light-inn)
   - [1.4 雷斯文小镇](#reithwin-town)
@@ -61,23 +61,23 @@
 
 ## 第二幕
 
-### [瑰晨修道院](../Rosymorn_Monastery.md "Rosymorn Monastery") 与 [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "Crèche Y'llek")
+### [瑰晨修道院](../Rosymorn_Monastery.md "Rosymorn Monastery") 与 [伊雷珂养育间](../Crèche_Y'llek.md "Crèche Y'llek")
 
 - _(来到断桥处 X: -106 Y: -184)：_“没用。我们得另找路过去。”
 - _(与醉酒的[狗头人](../Kobold.md "Kobold")交战)：_“这些狗头人喝得烂醉——气味都传到我们这儿了。”
 - _(发现吉斯洋基人骨架，曾去过养育间)：_“古老的遗骸。也许是此地首次被占领时留下的？”
 - _(尚未发现养育间)：_“看样子是吉斯洋基人。”
 - _(战斗中[巨鹰](../Giant_Eagle.md "Giant Eagle")呼救)：_“这鸟鸣可不和谐——可能会引来更多巨鹰。”
-- _(进入[宿舍](../Cr%C3%A8che_Y'llek#infirmary-and-dormitory.md#Infirmary_and_Dormitory "Crèche Y'llek")<sup>[\[1\]](#cite_note-1)</sup>)：_“奇怪。我没想到吉斯洋基人的住宿安排会这么……常规。”
+- _(进入[宿舍](../Crèche_Y'llek#infirmary-and-dormitory.md#Infirmary_and_Dormitory "Crèche Y'llek")<sup>[\[1\]](#cite_note-1)</sup>)：_“奇怪。我没想到吉斯洋基人的住宿安排会这么……常规。”
 - _(阅读宿舍墙上的羊皮纸规则)：_“如此严苛的规矩。这地方长大成人想必不易。”
 - _(查看[斯托努戈斯](../Stornugoss.md "Stornugoss")实验室的装置)：_“奇特的装置。比我在这林地能用的还要先进。”
-- _(在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "Crèche Y'llek")看到解剖图)：_“夺心魔的解剖草图……细节惊人。既精妙又骇人。”
+- _(在[教室](../Crèche_Y'llek.md#Classroom "Crèche Y'llek")看到解剖图)：_“夺心魔的解剖草图……细节惊人。既精妙又骇人。”
 - _(在教室远端击中训练假人)：_“我猜真家伙会更吓人。”
 - _(与[训练官凯斯克](../Kethk.md "Kethk")及其学生开战)：_“他对学生有影响力。他们会为他杀人——为他而死。”
-- _(在[孵化室](../Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek")四处查看)：_“这是什么地方……？”
+- _(在[孵化室](../Crèche_Y'llek.md#Hatchery "Crèche Y'llek")四处查看)：_“这是什么地方……？”
 - _(打开走廊里的苹果箱)：_“战士训练的伙食。”
-- _(阅读[船长室](../Cr%C3%A8che_Y'llek.md#Captain's_Quarters "Crèche Y'llek")的地图)：_“剑湾。博德之门在这儿。吉斯洋基人在计划什么……？”
-- _(解开[审判官室](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")的雕像谜题)：_“雕像揭示了一条隐藏路径。真聪明。”
+- _(阅读[船长室](../Crèche_Y'llek.md#Captain's_Quarters "Crèche Y'llek")的地图)：_“剑湾。博德之门在这儿。吉斯洋基人在计划什么……？”
+- _(解开[审判官室](../Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek")的雕像谜题)：_“雕像揭示了一条隐藏路径。真聪明。”
 - _(摧毁屏障源头后取走[洛山达之血](../Blood_of_Lathander.md "Blood_of_Lathander"))：_“整个结构要塌了！”
 - _(回应台词 1)：_“该离开这地方了。”
 - _(回应台词 2)：_“我们得马上离开这儿——立刻。”

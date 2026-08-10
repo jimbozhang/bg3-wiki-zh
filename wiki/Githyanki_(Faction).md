@@ -150,8 +150,8 @@
 ## 相关地点
 
 - [星界](Astral_Plane.md "星界")
-- [伊雷珂养育间](Cr%C3%A8che_K'liir.md "伊雷珂养育间")
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+- [伊雷珂养育间](Crèche_K'liir.md "伊雷珂养育间")
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")
 
 ## 外部链接
 

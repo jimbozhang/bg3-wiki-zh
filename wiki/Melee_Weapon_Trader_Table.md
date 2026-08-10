@@ -19,7 +19,7 @@
 
 - [戴摩](Dammon.md "戴摩")在[翠绿林地](Emerald_Grove.md "翠绿林地")和[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")
 - [罗阿·月光](Roah_Moonglow.md "罗阿·月光")在[破碎圣所](Shattered_Sanctum.md "破碎圣所")和[月出之塔](Moonrise_Towers.md "月出之塔")
-- [阿贾克'尼尔·吉拉](A'jak'nir_Jeera.md "阿贾克'尼尔·吉拉")在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+- [阿贾克'尼尔·吉拉](A'jak'nir_Jeera.md "阿贾克'尼尔·吉拉")在[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")
 
 ---
 *Source: [Melee Weapon Trader Table](https://bg3.wiki/wiki/Melee_Weapon_Trader_Table)*

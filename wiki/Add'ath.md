@@ -13,7 +13,7 @@
 | 先攻 | +3 |
 | 经验值 | 75 |
 
-**掠夺者 阿达斯**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")吉斯洋基人社群的一名成员，位于[审判官 W'wargaz](W'wargaz.md "审判官 W'wargaz")在[第一幕](Act_One.md "第一幕")期间抵达之前。
+**掠夺者 阿达斯**是[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")吉斯洋基人社群的一名成员，位于[审判官 W'wargaz](W'wargaz.md "审判官 W'wargaz")在[第一幕](Act_One.md "第一幕")期间抵达之前。
 
 > “
 >
@@ -29,7 +29,7 @@
 
 阿达斯首次出现于接近[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")主门时，他与[战士 伊思杜尔](Ith'dul.md "战士 伊思杜尔")护送几名三名[至上真神教徒](Cult_of_the_Absolute.md "至上真神教团")进入养育间接受审问。当其中一名教徒，[科利斯 昂德特伦普](Corliss_Undertump.md "科利斯 昂德特伦普")试图逃跑时，阿达斯从背后射中了她。
 
-此过场动画后，阿达斯和伊思杜尔可在[养育间贸易站](Cr%C3%A8che_Y'llek.md#Trade_Post "伊雷珂养育间")附近区域找到。
+此过场动画后，阿达斯和伊思杜尔可在[养育间贸易站](Crèche_Y'llek.md#Trade_Post "伊雷珂养育间")附近区域找到。
 
 如果与阿达斯交谈，他会告诉队伍他们很幸运没有被养育间抓住；否则，队长会扣留他们进行审讯。如果互动的队伍成员是吉斯洋基人，阿达斯建议立即向队长报告，因为她的耐心正在减弱。
 
@@ -105,7 +105,7 @@
 ### 战利品
 
 - [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
-- [钥匙（伊雷珂养育间）](Key_(Cr%C3%A8che_Y'llek).md "钥匙（伊雷珂养育间）")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- [钥匙（伊雷珂养育间）](Key_(Crèche_Y'llek).md "钥匙（伊雷珂养育间）")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
 - [镶钉皮甲](Studded_Leather_Armour.md "镶钉皮甲")
 
 ---

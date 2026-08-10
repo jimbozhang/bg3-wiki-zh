@@ -33,7 +33,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [集群战术](Pack_Tactics.md "集群战术")
 
-**乌尔'乌特**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")中的一个[狼](Wolf.md "狼")，出现在[第一幕](Act_One.md "第一幕")。
+**乌尔'乌特**是[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")中的一个[狼](Wolf.md "狼")，出现在[第一幕](Act_One.md "第一幕")。
 
 > “
 >

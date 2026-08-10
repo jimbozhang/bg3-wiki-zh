@@ -126,7 +126,7 @@
 
 在 X: 180 Y: 557 处有一个小铁匠铺，可以找到[戴摩](Dammon.md "戴摩")。他充当[商人](Trader.md "商人")，也许是难民中唯一一个对⁠[陷落](https://forgottenrealms.fandom.com/wiki/Elturel%23The_Descent)表现出矛盾情感的人，因为他在地狱被奴役期间学到了很多东西。与他交谈会推进⁠[地狱之心](The_Hellion's_Heart.md "地狱之心")任务（或者如果[卡菈克](Karlach.md "卡菈克")作为出身扮演，则是⁠[锻造心脏](Forging_a_Heart.md "锻造心脏")任务）。
 
-在戴摩的铁匠铺附近，X: 186 Y: 570 处站着[苏洛](Zorru.md "苏洛")，一个提夫林斥候，他在[山隘](Mountain_Pass.md "山隘")附近遇到吉斯洋基巡逻队后成功逃脱。如果队伍中有[莱埃泽尔](Lae'zel.md "莱埃泽尔")，与他交谈会推进⁠[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")任务。被审问后，苏洛会走到储藏室入口。
+在戴摩的铁匠铺附近，X: 186 Y: 570 处站着[苏洛](Zorru.md "苏洛")，一个提夫林斥候，他在[山隘](Mountain_Pass.md "山隘")附近遇到吉斯洋基巡逻队后成功逃脱。如果队伍中有[莱埃泽尔](Lae'zel.md "莱埃泽尔")，与他交谈会推进⁠[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")任务。被审问后，苏洛会走到储藏室入口。
 
 在铁匠铺对面，[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")在经营她的小店，出售“药膏和药水”。她也可以进行交易，如果玩家角色允许她“在他们周围忙活”，他们可以获得一瓶免费的[高等治疗药水](Potion_of_Greater_Healing.md "高等治疗药水")。如果玩家角色承认头上有寄生虫，埃赛尔会邀请他们到她的[河边茶室](Riverside_Teahouse.md "河边茶室")进行更仔细的检查。
 
@@ -176,7 +176,7 @@
 ## 相关任务
 
 - ⁠[寻找治疗方法](Find_a_Cure.md "寻找治疗方法")
-- ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")
+- ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
 - ⁠[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")
 - ⁠[找到你的行李](Find_Your_Belongings.md "找到你的行李")
 - ⁠[锻造心脏](Forging_a_Heart.md "锻造心脏")

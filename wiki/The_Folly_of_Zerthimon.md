@@ -18,7 +18,7 @@
 
 - UID `S_CRE_Dormitory_TheFollyOfZerthimon` UUID `9afe4b82-e468-4c15-965b-1adf2cf46d78` ## 位置
 
-- 在 [伊雷珂养育间医务室](Cr%C3%A8che_Y'llek_Infirmary.md "伊雷珂养育间医务室") 的一个书架上，坐标 X: 1307 Y: -802
+- 在 [伊雷珂养育间医务室](Crèche_Y'llek_Infirmary.md "伊雷珂养育间医务室") 的一个书架上，坐标 X: 1307 Y: -802
 
 ## 文本
 

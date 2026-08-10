@@ -42,7 +42,7 @@
 
 - 职业等级 1：[吟游诗人](Bard.md "吟游诗人")、[术士](Sorcerer.md "术士")和[法师](Wizard.md "法师")
 - 职业等级 3：[奥法骑士](Eldritch_Knight.md "奥法骑士")和[诡术师](Arcane_Trickster.md "诡术师")
-- 职业等级 5：[德鲁伊](Druid.md "德鲁伊")（通过[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9.md "荒野形态：地底洛斯兽")）
+- 职业等级 5：[德鲁伊](Druid.md "德鲁伊")（通过[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Rothé.md "荒野形态：地底洛斯兽")）
 
 种族：
 

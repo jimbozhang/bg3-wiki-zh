@@ -16,7 +16,7 @@
 
 ## 外部链接
 
-- ⁠[基里尔育幼院](https://forgottenrealms.fandom.com/wiki/Cr%C3%A8che_K%27liir)在[被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)上的页面
+- ⁠[基里尔育幼院](https://forgottenrealms.fandom.com/wiki/Crèche_K%27liir)在[被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)上的页面
 
 ---
 *Source: [Crèche K'liir](https://bg3.wiki/wiki/Crèche_K'liir)*

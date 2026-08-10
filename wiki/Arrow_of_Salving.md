@@ -21,7 +21,7 @@
 ## 获取地点
 
 - 当队伍成员达到角色等级 6 时，此物品通常由游戏中的许多[商人](Traders.md "商人"）出售，包括：
-  - [阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉"）在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间"）
+  - [阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉"）在[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间"）
   - [巴克斯·鲁特](Barcus_Wroot.md "巴克斯·鲁特"）在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店"）
   - [邦普纳格尔](Bumpnagel.md "邦普纳格尔"）在[利文顿](Rivington.md "利文顿"）的[角铁地窖](Angleiron's_Cellar.md "角铁地窖"）
   - [戴摩](Dammon.md "戴摩"）在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地"）的[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店"）和[下城区](Lower_City.md "下城区"）的[九层锻炉](Forge_of_the_Nine.md "九层锻炉"）

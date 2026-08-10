@@ -39,7 +39,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") X: 1396 Y: -839：由 [掠夺者 G'r'ath](G'r'ath.md "掠夺者 G'r'ath") 携带，位于 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") 南侧的营地区域
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") X: 1396 Y: -839：由 [掠夺者 G'r'ath](G'r'ath.md "掠夺者 G'r'ath") 携带，位于 [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") 南侧的营地区域
 
 ## 另见
 

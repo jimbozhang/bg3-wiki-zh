@@ -72,7 +72,7 @@
 
 基础 [护甲等级](Armour_Class.md "Armour Class") 为 13
 
-**养育官寇库** 是一名吉斯洋基人，负责管理 [伊雷珂养育间](Cr%C3%A8che_Y'llek.md#Hatchery "Crèche Y'llek") 中的 [孵化室](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")，出现在 [第一幕](Act_One.md "Act One")。
+**养育官寇库** 是一名吉斯洋基人，负责管理 [伊雷珂养育间](Crèche_Y'llek.md#Hatchery "Crèche Y'llek") 中的 [孵化室](Crèche_Y'llek.md "Crèche Y'llek")，出现在 [第一幕](Act_One.md "Act One")。
 
 > “
 >

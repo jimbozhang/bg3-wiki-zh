@@ -281,7 +281,7 @@
 
 - 吉斯洋基斥候
 
-几乎在河岸上，靠近通往雷斯文小镇的桥梁处，一具死去的吉斯洋基人尸体位于 X: -54 Y: -80。她携带一块[吉斯洋基雕刻石板](Inscribed_Githyanki_Slate_(map).md "吉斯洋基雕刻石板（地图）")。如果队伍尚未去过[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")，这块石板会为他们提供找到它的路线，并推进[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")任务。该吉斯洋基人无法通过[死者交谈](Speak_with_Dead.md "死者交谈")与之对话。
+几乎在河岸上，靠近通往雷斯文小镇的桥梁处，一具死去的吉斯洋基人尸体位于 X: -54 Y: -80。她携带一块[吉斯洋基雕刻石板](Inscribed_Githyanki_Slate_(map).md "吉斯洋基雕刻石板（地图）")。如果队伍尚未去过[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")，这块石板会为他们提供找到它的路线，并推进[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")任务。该吉斯洋基人无法通过[死者交谈](Speak_with_Dead.md "死者交谈")与之对话。
 
 - 宝藏猎人
 
@@ -313,7 +313,7 @@
 ## 相关任务
 
 - ⁠[在幽影里寻找罗兰](Find_Rolan_in_the_Shadows.md "在幽影里寻找罗兰")
-- ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "找到吉斯洋基养育间")
+- ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
 - ⁠[调查塞伦涅信徒抵抗势力](Investigate_the_Sel%C3%BBnite_Resistance.md "调查塞伦涅信徒抵抗势力")
 - ⁠[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")
   - ⁠[跟随护卫队](Follow_the_Convoy.md "跟随护卫队")

@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") X: 1335 Y: -660：在[审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")内的展示柜中
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") X: 1335 Y: -660：在[审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")内的展示柜中
 
 ## 图库
 

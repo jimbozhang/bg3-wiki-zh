@@ -2,7 +2,7 @@
 
 **梨**是一种[消耗品](Consumables.md "消耗品")物品，可用作[营地补给](Camp_supplies.md "营地补给")来发起[长休](Long_Rest.md "长休")。
 
-成熟得当的甜梨几乎没有美食能与之匹敌。未成熟的梨，则带有[罗瑟](https://forgottenrealms.fandom.com/wiki/Roth%C3%A9)未清洗的[皮](https://forgottenrealms.fandom.com/wiki/Roth%C3%A9)的所有吸引力。
+成熟得当的甜梨几乎没有美食能与之匹敌。未成熟的梨，则带有[罗瑟](https://forgottenrealms.fandom.com/wiki/Rothé)未清洗的[皮](https://forgottenrealms.fandom.com/wiki/Rothé)的所有吸引力。
 
 ## 属性
 

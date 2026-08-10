@@ -23,7 +23,7 @@
 ## 获取地点
 
 - 当队伍成员达到角色等级6时，该物品通常会由游戏中的许多[商人](Traders.md "Traders")出售，包括：
-  - [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的[阿贾克'尼尔·吉拉](Jeera.md "Jeera")
+  - [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的[阿贾克'尼尔·吉拉](Jeera.md "Jeera")
   - [晋升之路](The_Risen_Road.md#Toll_House "The Risen Road")收费站的[赛丽尔](Cyrel.md "Cyrel")
   - [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")的[戴摩](Dammon.md "Dammon")和[巴克斯·鲁特](Barcus_Wroot.md "Barcus Wroot")
   - [风暴海岸军械库](Stormshore_Armoury.md "Stormshore Armoury")的[炮仗菲兹](Fytz.md "Fytz")

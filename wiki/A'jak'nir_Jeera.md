@@ -13,7 +13,7 @@
 | 先攻 | +1 |
 | 经验值 | 75 |
 
-**阿贾克'尼尔·吉拉**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的一名[吉斯洋基人](Githyanki.md "Githyanki")[商人](Traders.md "Traders")。
+**阿贾克'尼尔·吉拉**是[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的一名[吉斯洋基人](Githyanki.md "Githyanki")[商人](Traders.md "Traders")。
 
 > “
 >

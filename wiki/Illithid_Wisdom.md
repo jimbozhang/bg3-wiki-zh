@@ -174,7 +174,7 @@
 #### 战利品与任务奖励 <sup>[\[12\]](#cite_note-absquest-12)</sup>
 
 - 1个 - 在[德鲁伊营地](Druid_Grove.md "Druid Grove")的[闲庭图书馆](Enclave_Library.md "Enclave Library")中，一张桌子上 X: -445 Y: 17。
-- 3个 - 在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的[医务室](Cr%C3%A8che_Y'llek.md#Infirmary "Crèche Y'llek")中，扎伊斯克净化者旁边。<sup>[\[13\]](#cite_note-13)</sup>
+- 3个 - 在[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的[医务室](Crèche_Y'llek.md#Infirmary "Crèche Y'llek")中，扎伊斯克净化者旁边。<sup>[\[13\]](#cite_note-13)</sup>
 - 1个 - [洗劫翠绿林地](Raid_the_Emerald_Grove.md "Raid the Emerald Grove")
 - 1个 - [救出真魂者尼讷](Free_True_Soul_Nere.md "Free True Soul Nere") - 通过支持尼讷
 

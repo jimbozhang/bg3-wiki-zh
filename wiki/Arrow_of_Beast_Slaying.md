@@ -23,7 +23,7 @@
 ## 获取地点
 
 - 当队伍成员达到角色等级6时，该物品通常由游戏中的许多[商人](Traders.md "商人")出售，包括：
-  - [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")中的[阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉")
+  - [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")中的[阿贾克'尼尔·吉拉](Jeera.md "阿贾克'尼尔·吉拉")
   - [晋升之路](The_Risen_Road.md "晋升之路")[收费站](The_Risen_Road.md#Toll_House "晋升之路")中的[赛丽尔](Cyrel.md "赛丽尔")
   - [终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")的[戴摩](Dammon.md "戴摩")和[巴克斯·鲁特](Barcus_Wroot.md "巴克斯·鲁特")
   - [破碎圣所](Shattered_Sanctum.md "破碎圣所")和[月出之塔](Moonrise_Towers.md "月出之塔")主楼层的[罗阿·月光](Roah_Moonglow.md "罗阿·月光")

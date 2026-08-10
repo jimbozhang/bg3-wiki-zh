@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") X: 1379 Y: -662：在[审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")的一个展示柜内
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") X: 1379 Y: -662：在[审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")的一个展示柜内
 - [飞龙关](Wyrm's_Crossing.md "飞龙关") X: -97 Y: 107：在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")西北方向一艘失事船只上的[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")内
 
 ## 备注

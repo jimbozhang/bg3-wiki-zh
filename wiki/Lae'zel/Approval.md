@@ -22,7 +22,7 @@ _有关好感度系统的更多信息，请参见[好感度](../Approval.md "好
     - [1.1.5 地精营地](#goblin-camp)
     - [1.1.6 地底深渊与格莱姆格瑞夫](#underdark-and-grymforge)
     - [1.1.7 晋升之路与散塔林会窝点](#the-risen-road-and-zhentarim-hideout)
-    - [1.1.8 山隘、瑰晨修道院小径与伊雷珂养育间[注 4]](#mountain-pass,_Rosymorn_Monastery_Trail_and_Cr%C3%A8che_Y'llek_%5Bnote_4%5D)
+    - [1.1.8 山隘、瑰晨修道院小径与伊雷珂养育间[注 4]](#mountain-pass,_Rosymorn_Monastery_Trail_and_Crèche_Y'llek_%5Bnote_4%5D)
     - [1.1.9 星界位面[注 5]](#astral-plane%5Bnote_5%5D)
   - [1.2 营地与对话](#campsite-and-conversations)
   - [1.3 同伴任务](#companion-quest)
@@ -235,7 +235,7 @@ _处理[守卫玛格玛](../Ward_Magmar.md "守卫玛格玛")：_
   - 告诉他[月出之塔](../Moonrise_Towers.md "月出之塔")掌握着你需要的答案 (+1)
   - 杀死玛格玛和[皮斯托](../Pistle.md "皮斯托")后，告诉[斯基克皮特](../Skickpit.md "斯基克皮特")使用电梯到地表 (+1) _（说服他的进一步选项不会带来更多好感度）_
 - 看着[暗夜法官](../Dark_Justiciar.md "暗夜法官")的骷髅遗骸，说“死了更好”或“死在污秽中吧” (+1) _（任一选项）_
-- [说服](../Persuasion.md "说服")[深地洛斯兽](../Deep_Roth%C3%A9.md "深地洛斯兽")攻击杜尔加 (+1)
+- [说服](../Persuasion.md "说服")[深地洛斯兽](../Deep_Rothé.md "深地洛斯兽")攻击杜尔加 (+1)
 - 通过嘲讽他尝试拿走你的金币，或向[军士长斯林](../Sergeant_Thrinn.md "军士长斯林")告发他反对[内雷](../Nere.md "内雷")的阴谋，来煽动与[长老布利斯瓦尔](../Elder_Brithvar.md "长老布利斯瓦尔")的战斗 (+1)
   - 找到[菲洛敏](../Philomeen.md "菲洛敏")（并让她离开）后，与[伦克巴格](../Lunkbug.md "伦克巴格")交谈并提到她希望拉里达继续前进，或者直接告诉拉里达 (+1)
 - 拯救内雷后，告诉他处理掉奴隶，或者选择沉默 (+1) _（任一选项）_
@@ -259,7 +259,7 @@ _在散塔林会窝点中：_
   - 或者让他免费放走奥斯卡，使用任何基于检定的选项 (+1)
   - 购买艺术家后，与他交谈并称他为奴隶**两次** (+1)
 
-#### [山隘](../Mountain_Pass.md "山隘")、[瑰晨修道院小径](../Rosymorn_Monastery_Trail.md "瑰晨修道院小径") 和 [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "伊雷珂养育间") [[注 4]](#cite_note-CompLaeQuest-4)
+#### [山隘](../Mountain_Pass.md "山隘")、[瑰晨修道院小径](../Rosymorn_Monastery_Trail.md "瑰晨修道院小径") 和 [伊雷珂养育间](../Crèche_Y'llek.md "伊雷珂养育间") [[注 4]](#cite_note-CompLaeQuest-4)
 
 - 作为[吉斯洋基人](../Githyanki.md "吉斯洋基人")扮演时，告诉[艾莉卡](../Ellyka.md "艾莉卡")吉斯洋基巡逻队对你来说毫无意义 (+1)
 
@@ -278,7 +278,7 @@ _进入养育间时：_[[注 4]](#cite_note-CompLaeQuest-4)
 
 _**注：**如果跳过了山隘遭遇，则无法获得任何后门好感度。_
 
-_在[医务室](../Cr%C3%A8che_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")：_
+_在[医务室](../Crèche_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间")：_
 
 - 与[医疗官斯托努苟斯](../Ghustil_Stornugoss.md "医疗官斯托努苟斯")交谈时，让拉耶·泽尔代表队伍 (+1)
 - 接近[治愈机](../Zaith'isk.md "治愈机") (+5)
@@ -298,7 +298,7 @@ _**注：**为此，需成功通过DC 21[感知](../Wisdom.md "感知")[检定](
 
 _**注：**让拉耶·泽尔完成整个“净化”过程**会永久降低她的[智力](../Intelligence.md "智力")2点，然后[感知](../Wisdom.md "感知")和[体质](../Constitution.md "体质")各2点**_
 
-_在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "伊雷珂养育间")：_
+_在[教室](../Crèche_Y'llek.md#Classroom "伊雷珂养育间")：_
 
 - 当[训练官凯斯克](../Kethk.md "凯斯克")要求挑战者时，主动与[青年瓦尔](../Varrl.md "瓦尔")战斗 (+1) _（[邪念](../Haunted_One.md "邪念")有类似的替换台词，但不获得好感度）_
   - 或者，作为[吉斯洋基人](../Githyanki.md "吉斯洋基人")扮演时，告诉凯斯克如果青年不愿战斗，他应该自己杀死瓦尔 (+1)
@@ -308,13 +308,13 @@ _在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "伊雷珂养育间")：_
 
 _**注：**如果你与瓦尔战斗并让他昏迷，对话会将他视为无限期昏迷，即使他在长休后显示坐起，因此无法获得这些点数。_
 
-_在[孵化室](../Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")：_
+_在[孵化室](../Crèche_Y'llek.md#Hatchery "伊雷珂养育间")：_
 
 - 成功[说服](../Persuasion.md "说服")[瓦什·科库](../Varsh_Ko'kuu.md "瓦什·科库")让你带走[吉斯洋基蛋](../Githyanki_Egg.md "吉斯洋基蛋")，然后告诉他：
   - 你会把它带到更好的养育间，或者说你会自己抚养它 (+1) _（任一选项）_
   - 或者使用[吉斯洋基人](../Githyanki.md "吉斯洋基人")的独特种族选项 (+1)
 
-_在[队长办公区](../Cr%C3%A8che_Y'llek.md#Captain's_Quarters "伊雷珂养育间")和[审判官的房间](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")_
+_在[队长办公区](../Crèche_Y'llek.md#Captain's_Quarters "伊雷珂养育间")和[审判官的房间](../Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")_
 
 - 为[凯斯拉克百夫长赛泽恩](../Kith'rak_Therezzyn.md "凯斯拉克百夫长赛泽恩")出示[神秘遗物](../Mysterious_Artefact.md "神秘遗物") (+1)
 - 作为[吉斯洋基人](../Githyanki.md "吉斯洋基人")扮演时，向[审判官瓦尔'戈兹](../W'wargaz.md "审判官瓦尔'戈兹")要求[维拉基斯](../Vlaakith.md "维拉基斯")的晋升作为交出武器的回报 (+1)

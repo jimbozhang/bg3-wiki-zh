@@ -140,7 +140,7 @@
 
 - 荒野形态变为穴熊
 
-[Wild Shape: Deep Rothé](Wild_Shape_colon__Deep_Roth%C3%A9_(Condition).md "Wild Shape: Deep Rothé (状态)")
+[Wild Shape: Deep Rothé](Wild_Shape_colon__Deep_Rothé_(Condition).md "Wild Shape: Deep Rothé (状态)")
 |
 
 - 荒野形态变为地底洛斯兽

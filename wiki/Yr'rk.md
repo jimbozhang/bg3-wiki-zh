@@ -59,7 +59,7 @@
 
 ### 第一幕
 
-伊尔克与[掠夺者 Ahu'u'rag](Ahu'u'rag.md "掠夺者 Ahu'u'rag")一起在养育间主走廊巡逻，从通往[医务室](Cr%C3%A8che_Y'llek.md#Infirmary "伊雷珂养育间")的门走到通往[孵化室](Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")的门，再到[船长室](Cr%C3%A8che_Y'llek.md#Captain's_Quarters "伊雷珂养育间")的入口，从不进入这些地点内部。
+伊尔克与[掠夺者 Ahu'u'rag](Ahu'u'rag.md "掠夺者 Ahu'u'rag")一起在养育间主走廊巡逻，从通往[医务室](Crèche_Y'llek.md#Infirmary "伊雷珂养育间")的门走到通往[孵化室](Crèche_Y'llek.md#Hatchery "伊雷珂养育间")的门，再到[船长室](Crèche_Y'llek.md#Captain's_Quarters "伊雷珂养育间")的入口，从不进入这些地点内部。
 
 如果与他交谈，他会告诉队伍不要分散吉斯洋基青年和孩子们的训练注意力，并自言自语说太烦人的陌生人会是个很好的训练假人。如果玩家角色是吉斯洋基人，伊尔克会谨慎地提到[Sa'varsh Kethk](Kethk.md "Sa'varsh Kethk")对受训者的训练比平时更严格。
 

@@ -109,11 +109,11 @@
 
 ### 第一幕
 
-当 [奈美莎](Nymessa.md "Nymessa") 和 [达梅斯](Damays.md "Damays") 俘虏了 [莱埃泽尔](Lae'zel.md "Lae'zel") 时，他们评论说苏洛描述吉斯洋基人“像蟾蜍一样黄，而且丑两倍”是对的，并且其中一人杀死了他的小队。抵达林地后，如果 [扎基](Zaki.md "Zaki") 看到莱埃泽尔，她会评论莱埃泽尔就是苏洛看到的蟾蜍人之一。任何互动都可能导致莱埃泽尔坚持要找到并询问苏洛关于他看到的吉斯洋基人，希望能找到他们的 [养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") 并治愈队伍中的蝌蚪。
+当 [奈美莎](Nymessa.md "Nymessa") 和 [达梅斯](Damays.md "Damays") 俘虏了 [莱埃泽尔](Lae'zel.md "Lae'zel") 时，他们评论说苏洛描述吉斯洋基人“像蟾蜍一样黄，而且丑两倍”是对的，并且其中一人杀死了他的小队。抵达林地后，如果 [扎基](Zaki.md "Zaki") 看到莱埃泽尔，她会评论莱埃泽尔就是苏洛看到的蟾蜍人之一。任何互动都可能导致莱埃泽尔坚持要找到并询问苏洛关于他看到的吉斯洋基人，希望能找到他们的 [养育间](Crèche_Y'llek.md "Crèche Y'llek") 并治愈队伍中的蝌蚪。
 
 苏洛可以在 [空谷](The_Hollow.md "The Hollow") 找到，就在储藏小屋旁边。如果莱埃泽尔在队伍中，他会质疑她的存在，莱埃泽尔命令苏洛鞠躬。如果允许这种情况发生，会获得莱埃泽尔的好感度，并失去 [影心](Shadowheart.md "Shadowheart") 的好感度。如果不强迫苏洛鞠躬，影心会获得好感度，而莱埃泽尔会失去好感度。
 
-玩家角色可以询问苏洛关于 [吉斯洋基养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek") 的下落，这会导致他提供信息并在地图上更新标记。这会推进 ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "Find the Githyanki Crèche")。
+玩家角色可以询问苏洛关于 [吉斯洋基养育间](Crèche_Y'llek.md "Crèche Y'llek") 的下落，这会导致他提供信息并在地图上更新标记。这会推进 ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "Find the Githyanki Crèche")。
 
 当接近山隘时，队伍可能会遇到 [尤尔](Yul.md "Yul") 的尸体，他是苏洛的朋友兼侦察同伴。使用 [死者交谈](Speak_with_Dead.md "Speak_with Dead") 会揭示苏洛留下尤尔等死。如果 [威尔](Wyll.md "Wyll") 在队伍中，他会称苏洛为懦夫。
 
@@ -203,7 +203,7 @@
 
 ## 相关任务
 
-- ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Cr%C3%A8che.md "Find the Githyanki Crèche")
+- ⁠[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "Find the Githyanki Crèche")
 - ⁠[突袭林地](Raid_the_Grove.md "Raid the Grove")
 - ⁠[解救难民](Save_the_Refugees.md "Save the Refugees")
 

@@ -72,7 +72,7 @@
 
 基础[护甲等级](Armour_Class.md "护甲等级")为 13
 
-**养育官寇库**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")中负责[孵化室](Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")的吉斯洋基人，出现在[第一幕](Act_One.md "第一幕")。
+**养育官寇库**是[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")中负责[孵化室](Crèche_Y'llek.md#Hatchery "伊雷珂养育间")的吉斯洋基人，出现在[第一幕](Act_One.md "第一幕")。
 
 > “
 >

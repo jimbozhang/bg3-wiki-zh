@@ -222,8 +222,8 @@
 [荒野形态强化](Wild_Shape_Improvement.md "荒野形态强化")
 荒野形态攻击伤害增加。
 
-[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Roth%C3%A9.md "荒野形态：地底洛斯兽") (+ )
-变形成一只地底洛斯兽，可以施放[舞光术（地底洛斯兽）](Dancing_Lights_(Deep_Roth%C3%A9).md "舞光术（地底洛斯兽）")并[冲锋](Charge_(Deep_Roth%C3%A9).md "冲锋（地底洛斯兽）")敌人。地底洛斯兽的起始生命值为 23 点[生命值](Hit_Points.md "生命值")，每两级德鲁伊等级增加一次。
+[荒野形态：地底洛斯兽](Wild_Shape_colon__Deep_Rothé.md "荒野形态：地底洛斯兽") (+ )
+变形成一只地底洛斯兽，可以施放[舞光术（地底洛斯兽）](Dancing_Lights_(Deep_Rothé).md "舞光术（地底洛斯兽）")并[冲锋](Charge_(Deep_Rothé).md "冲锋（地底洛斯兽）")敌人。地底洛斯兽的起始生命值为 23 点[生命值](Hit_Points.md "生命值")，每两级德鲁伊等级增加一次。
 
 施法
 

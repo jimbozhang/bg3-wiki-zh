@@ -34,7 +34,7 @@
 
 ## 备注
 
-- 枭熊蛋可用于[偷一枚吉斯洋基蛋](Steal_a_Githyanki_Egg.md "Steal a Githyanki Egg")任务，作为从[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")为[埃斯特女士](Lady_Esther.md "Lady Esther")取蛋的替代方案。
+- 枭熊蛋可用于[偷一枚吉斯洋基蛋](Steal_a_Githyanki_Egg.md "Steal a Githyanki Egg")任务，作为从[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")为[埃斯特女士](Lady_Esther.md "Lady Esther")取蛋的替代方案。
 - 由于该蛋被计入营地补给，当[枭熊幼兽](Owlbear_Cub.md "Owlbear Cub")首次出现在营地时，可能会无意中被喂给它，或在休息时被自动选中，从而成为一顿相当昂贵的晚餐。
 
 ---

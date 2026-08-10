@@ -135,7 +135,7 @@
 
 ### 第一幕
 
-斯卡贾尔可以在 X: -668 Y: 442 处找到，他与[格伦迪尔](Grundril.md "Grundril")和[莫伽耶](Morgya.md "Morgya")一起虐待两只[地底洛斯兽](Deep_Roth%C3%A9.md "Deep Rothé")。在试图胁迫队伍帮助他们[穿过碎石堆](Get_Past_the_Rubble.md "Get Past the Rubble")后，他展示了一块[精金矿渣](Adamantine_Slag.md "Adamantine Slag")，表明附近有一座[精金熔炉](Adamantine_Forge_(location).md)。队伍可以与灰矮人战斗，或帮助他们清理碎石堆。如果通过[动物交谈](Speak_with_Animals.md "Speak_with_Animals")与他对话，可以被说服反抗灰矮人的两只地底洛斯兽。
+斯卡贾尔可以在 X: -668 Y: 442 处找到，他与[格伦迪尔](Grundril.md "Grundril")和[莫伽耶](Morgya.md "Morgya")一起虐待两只[地底洛斯兽](Deep_Rothé.md "Deep Rothé")。在试图胁迫队伍帮助他们[穿过碎石堆](Get_Past_the_Rubble.md "Get Past the Rubble")后，他展示了一块[精金矿渣](Adamantine_Slag.md "Adamantine Slag")，表明附近有一座[精金熔炉](Adamantine_Forge_(location).md)。队伍可以与灰矮人战斗，或帮助他们清理碎石堆。如果通过[动物交谈](Speak_with_Animals.md "Speak_with_Animals")与他对话，可以被说服反抗灰矮人的两只地底洛斯兽。
 
 ## 战斗
 

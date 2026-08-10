@@ -58,9 +58,9 @@ _在[第一幕](Act_One.md "Act_One")地点：_
 - [日照湿地](Sunlit_Wetlands.md "Sunlit Wetlands")/[腐烂泥潭](Putrid_Bog.md "Putrid Bog")：水下的[尖刺陷阱](Sunlit_Wetlands.md#Spike_traps "Sunlit Wetlands")，[蔓生地道](Overgrown_Tunnel.md "Overgrown Tunnel")中的[奇怪的花](Peculiar_Flower.md "Peculiar Flower")和带有[有毒烟雾](Noxious_Fumes.md "Noxious Fumes")的气体通风口
 - [晋升之路](Risen_Road.md "Risen Road")：收费站附近洞穴中的巨石陷阱
 - [渥金的休眠地](Waukeen's_Rest.md "Waukeen's Rest")：[感应炸药](Proximity_Explosive.md "Proximity Explosive")和花岗岩（[大理石板](Marble_Plate.md "Marble Plate")的独特类型）在[散塔林会窝点](Zhentarim_Hideout.md "Zhentarim Hideout")中。
-- [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")、特里尔塔峭壁和[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的孵化室中的[推斥地雷](Repulsion_Mine.md "Repulsion Mine")
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")孵化室中的[传送陷阱](Teleporting_Trap.md "Teleporting Trap")和排放[奇异气体](Strange_Gas.md "Strange Gas")的[通风口](Vent.md "通风口")
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")隐蔽房间中的[破晓者](Dawnbreaker.md "Dawnbreaker")
+- [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")、特里尔塔峭壁和[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的孵化室中的[推斥地雷](Repulsion_Mine.md "Repulsion Mine")
+- [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")孵化室中的[传送陷阱](Teleporting_Trap.md "Teleporting Trap")和排放[奇异气体](Strange_Gas.md "Strange Gas")的[通风口](Vent.md "通风口")
+- [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")隐蔽房间中的[破晓者](Dawnbreaker.md "Dawnbreaker")
 - 幽暗地域[塞伦涅信徒哨站](Sel%C3%BBnite_Outpost.md "Selûnite Outpost")中，闸门正后方的雕像在月长石供能的情况下，会向任何接近闸门的物体发射光耀冲击波
 - 幽暗地域[奥法高塔](Arcane_Tower.md "Arcane Tower")中的[奥术炮塔](Arcane_Turret.md "Arcane Turret")
 - [复仇之炉](Grymforge.md "Grymforge")中的[陷阱灯塔](Trapped_Beacon.md "Trapped Beacon")，位于完成支线任务⁠[穿过碎石堆](Get_Past_the_Rubble.md "Get Past the Rubble")后可进入的走廊上

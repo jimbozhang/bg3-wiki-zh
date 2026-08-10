@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") X: 1360 Y: -657：在[审判官的房间](Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")内的一个[精美的箱子](Elegant_Chest.md "精美的箱子")中
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") X: 1360 Y: -657：在[审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")内的一个[精美的箱子](Elegant_Chest.md "精美的箱子")中
 
 ## 备注
 

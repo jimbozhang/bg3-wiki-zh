@@ -24,7 +24,7 @@
 UID `WPN_HUM_Toy_Sword_A` UUID `5e651778-cc78-425e-b27d-483b1c8afa82` ## 获取地点
 
 - [翠绿林地](Emerald_Grove.md "翠绿林地")：4 把 - 在[空谷](The_Hollow.md "空谷")中，[威尔](Wyll.md "威尔")正在那里帮助训练提夫林儿童
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")：1 把 - 在训练区的医务室中
+- [伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")：1 把 - 在训练区的医务室中
 - [雷斯文小镇](Reithwin_Town.md "雷斯文小镇")：2 把 - 在[治疗中心](House_of_Healing.md "治疗中心")中
 - [阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸") X: 37 Y: -65：1 把在一楼，穿过双开门后挂在墙上
 

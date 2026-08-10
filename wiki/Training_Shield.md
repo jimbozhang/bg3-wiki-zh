@@ -24,7 +24,7 @@
 
 - [翠绿林地](Emerald_Grove.md "Emerald Grove")：在[空谷](The_Hollow.md "The Hollow")靠近[威尔](Wyll.md "Wyll")的地方
 
-- [伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")：在训练区附近的医务室
+- [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")：在训练区附近的医务室
 
 - [阿尔弗的宅邸](Arfur's_Mansion.md "Arfur's Mansion") X: 37 Y: -65：在一楼，穿过双开门，挂在墙上
 

@@ -23,7 +23,7 @@ _有关好感度系统的更多信息，请参阅[好感度](../Approval.md "好
     - [1.1.6 地底深处与格莱姆格斗场](#underdark-and-grymforge)
     - [1.1.7 晋升之路](#the-risen-road)
     - [1.1.8 渥金的休眠地与散塔林会窝点](#waukeen's-rest-and-zhentarim-hideout)
-    - [1.1.9 山隘与伊雷珂养育间](#mountain-pass-and-cr%C3%A8che_Y'llek)
+    - [1.1.9 山隘与伊雷珂养育间](#mountain-pass-and-Crèche_Y'llek)
   - [1.2 营地与对话](#campsite-and-conversations)
   - [1.3 同伴任务](#companion-quest)
 - [2 第二幕](#act-two)
@@ -210,7 +210,7 @@ _在格莱姆格斗场中：_
 - 说服[斯基克皮特](../Skickpit.md "斯基克皮特")你要帮助他，然后告诉他找个地方躲起来 (+1)
 - 当[尼雷](../Nere.md "尼雷")被释放后要杀死深地侏奴隶时，为他们辩护 (+1)
 - 如果你在释放尼雷之前杀死了灰矮人（包括叛军和至上真神信徒），在尼雷脑海中植入释放地侏奴隶的想法 (+1)
-- [说服](../Persuasion.md "游说")[深洛斯兽](../Deep_Roth%C3%A9.md "深洛斯兽")攻击灰矮人 (+1)
+- [说服](../Persuasion.md "游说")[深洛斯兽](../Deep_Rothé.md "深洛斯兽")攻击灰矮人 (+1)
 - 释放地侏后，向[巴克斯·鲁特](../Barcus_Wroot.md "巴克斯·鲁特")道别并祝他好运 (+1)
 
 #### [晋升之路](../The_Risen_Road.md "晋升之路")
@@ -242,23 +242,23 @@ _在格莱姆格斗场中：_
   - 或者让他免费放走奥斯卡，使用任何基于检定的选项 (+1)
 - 释放奥斯卡后，再给他200金币 (+1)
 
-#### [山隘](../Mountain_Pass.md "山隘") 与 [伊雷珂养育间](../Cr%C3%A8che_Y'llek.md "伊雷珂养育间")
+#### [山隘](../Mountain_Pass.md "山隘") 与 [伊雷珂养育间](../Crèche_Y'llek.md "伊雷珂养育间")
 
 - 作为[吉斯洋基人](../Githyanki.md "吉斯洋基人")，告诉[艾莉卡](../Ellyka.md "艾莉卡")吉斯洋基巡逻队对你来说毫无意义，从而让她退下 (+1)
   - 或者，[伪装](../Disguise_Self.md "伪装术")成吉斯洋基人，告诉她你其实不是，或者说她很安全 (+1)
 - 成功通过[欺瞒](../Deception.md "欺瞒")检定，与[凯斯拉克百夫长沃斯](../Voss.md "沃斯")和平解决遭遇 (+1)
 
-_在[教室](../Cr%C3%A8che_Y'llek.md#Classroom "伊雷珂养育间")中：_
+_在[教室](../Crèche_Y'llek.md#Classroom "伊雷珂养育间")中：_
 
 - 说服[训练官凯斯克](../Kethk.md "凯斯克")让[青年瓦尔](../Varrl.md "瓦尔")离开训练 (+1)
   - 解决瓦尔的命运后，再次与凯斯克交谈，称他的“课程”/他的“示范”应受谴责 (+1) _(根据结果任选其一)_
 
-_在[孵化间](../Cr%C3%A8che_Y'llek.md#Hatchery "伊雷珂养育间")中：_
+_在[孵化间](../Crèche_Y'llek.md#Hatchery "伊雷珂养育间")中：_
 
 - 成功说服[瓦什·科库](../Ko'kuu.md "科库")让你带走[吉斯洋基蛋](../Githyanki_Egg.md "吉斯洋基蛋")，告诉他你会把它带到一个更好的养育间，或者你会自己抚养它 (+1) _(任选其一)_
   - 或者使用吉斯洋基人的种族选项 (+1)
 
-_在[队长办公区](../Cr%C3%A8che_Y'llek.md#Captain's_Quarters "伊雷珂养育间")和[审判官的房间](../Cr%C3%A8che_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")中：_
+_在[队长办公区](../Crèche_Y'llek.md#Captain's_Quarters "伊雷珂养育间")和[审判官的房间](../Crèche_Y'llek.md#Inquisitor's_Chamber "伊雷珂养育间")中：_
 
 - 将[神秘遗物](../Mysterious_Artefact.md "神秘遗物")交给[凯斯拉克百夫长赛泽恩](../Therezzyn.md "赛泽恩") (+1)
 - 询问[审判官瓦尔'戈兹](../W'wargaz.md "瓦尔'戈兹")他如何对你如此了解 (+1)

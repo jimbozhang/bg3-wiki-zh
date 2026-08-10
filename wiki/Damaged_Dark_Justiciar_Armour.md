@@ -22,7 +22,7 @@
 
 - UID `ARM_ChainShirt_Justiciar` UUID `51c2ee09-25e3-4872-ab84-e4d6e4af1246` Stats `ARM_ChainShirt_Body_Shar` ## 获取地点
 
-- [复仇之炉](Grymforge.md "复仇之炉") X: -657 Y: 425：在一对骷髅上，经过[老年洛斯兽](Elder_Roth%C3%A9.md "老年洛斯兽")
+- [复仇之炉](Grymforge.md "复仇之炉") X: -657 Y: 425：在一对骷髅上，经过[老年洛斯兽](Elder_Rothé.md "老年洛斯兽")
 
 ## 图库
 

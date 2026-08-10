@@ -40,7 +40,7 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**掠夺者 奇拉格**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")中的一名吉斯洋基[掠夺者](Raider.md "掠夺者")，出现在[第一幕](Act_One.md "第一幕")。
+**掠夺者 奇拉格**是[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")中的一名吉斯洋基[掠夺者](Raider.md "掠夺者")，出现在[第一幕](Act_One.md "第一幕")。
 
 > “
 >

@@ -62,7 +62,7 @@
 
 ### 第一幕
 
-基尔拉阿斯站在[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "Crèche Y'llek")的[审判官的房间](Inquisitor's_Chamber.md "Inquisitor's Chamber")内，靠近入口处。他警告队伍，他们在养育间是被容忍的，而非受欢迎的，并要求他们与[审判官 W'wargaz](W'wargaz.md "W'wargaz")交谈，否则就离开。
+基尔拉阿斯站在[伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek")的[审判官的房间](Inquisitor's_Chamber.md "Inquisitor's Chamber")内，靠近入口处。他警告队伍，他们在养育间是被容忍的，而非受欢迎的，并要求他们与[审判官 W'wargaz](W'wargaz.md "W'wargaz")交谈，否则就离开。
 
 如果队伍拒绝交出[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")，或者他们在[吉斯洋基战士](The_Githyanki_Warrior.md "The Githyanki Warrior")任务中进展足够远，他将对队伍变得敌对。
 

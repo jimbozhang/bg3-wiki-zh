@@ -37,7 +37,7 @@
 - [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**战士 Qen** 是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")吉斯洋基社群的成员，出现在[审判官 W'wargaz](W'wargaz.md "审判官 W'wargaz")于[第一幕](Act_One.md "第一幕")抵达之前。
+**战士 Qen** 是[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")吉斯洋基社群的成员，出现在[审判官 W'wargaz](W'wargaz.md "审判官 W'wargaz")于[第一幕](Act_One.md "第一幕")抵达之前。
 
 > “
 >
@@ -60,11 +60,11 @@
 
 ### 第一幕
 
-Qen 首次出现在通过[悬崖入口](Cr%C3%A8che_Y'llek.md#Cliffside_Entrance "伊雷珂养育间")接近伊雷珂养育间时。可以看到他与[掠夺者 G'r'ath](G'r'ath.md "掠夺者 G'r'ath")交谈，并且是当玩家试图通过隐藏隧道潜入养育间时会质问队伍的哨兵之一。
+Qen 首次出现在通过[悬崖入口](Crèche_Y'llek.md#Cliffside_Entrance "伊雷珂养育间")接近伊雷珂养育间时。可以看到他与[掠夺者 G'r'ath](G'r'ath.md "掠夺者 G'r'ath")交谈，并且是当玩家试图通过隐藏隧道潜入养育间时会质问队伍的哨兵之一。
 
 对话选项与在修道院地下室入口处与[熟手法'拉格](Far'aag.md "熟手法'拉格")交谈时可用的选项类似。根据玩家选择和属性检定，Qen 可能允许队伍通过或发起攻击。如果被说服，他会要求队伍立即向[凯斯拉克百夫长赛泽恩](Therezzyn.md "凯斯拉克百夫长赛泽恩")报告。
 
-在队伍潜入养育间后，Qen 和 G'r'ath 守卫着[养育间贸易站](Cr%C3%A8che_Y'llek.md#Trade_Post "伊雷珂养育间")上方的同一条通道。如果队伍未能解释他们如何潜入养育间，或在与审判官 W'wargaz 战斗后返回养育间，Qen 和其他吉斯洋基人会变得敌对。
+在队伍潜入养育间后，Qen 和 G'r'ath 守卫着[养育间贸易站](Crèche_Y'llek.md#Trade_Post "伊雷珂养育间")上方的同一条通道。如果队伍未能解释他们如何潜入养育间，或在与审判官 W'wargaz 战斗后返回养育间，Qen 和其他吉斯洋基人会变得敌对。
 
 ## 战斗
 
@@ -136,7 +136,7 @@ Qen 首次出现在通过[悬崖入口](Cr%C3%A8che_Y'llek.md#Cliffside_Entrance
 
 - [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 - [吉斯洋基半身甲](Githyanki_Half_Plate.md "吉斯洋基半身甲")
-- [钥匙（伊雷珂养育间）](Key_(Cr%C3%A8che_Y'llek).md "钥匙（伊雷珂养育间）")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- [钥匙（伊雷珂养育间）](Key_(Crèche_Y'llek).md "钥匙（伊雷珂养育间）")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
 
 ## 外部链接
 

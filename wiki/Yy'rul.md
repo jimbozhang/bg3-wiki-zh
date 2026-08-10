@@ -25,7 +25,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 15 / (+2) | 12 / (+1) | 16 / (+3) | 16 / (+3) | 15 / (+2) | 16 / (+3) |
 
-**熟手 伊尔鲁**是[第一幕](Act_One.md "第一幕")中发现的[吉斯洋基人](Githyanki.md "吉斯洋基人")[熟手](Gish.md "熟手")。她是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")吉斯洋基社群的成员，在[审判官 W'wargaz](Inquisitor_W'wargaz.md "审判官 W'wargaz")到来之前。
+**熟手 伊尔鲁**是[第一幕](Act_One.md "第一幕")中发现的[吉斯洋基人](Githyanki.md "吉斯洋基人")[熟手](Gish.md "熟手")。她是[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")吉斯洋基社群的成员，在[审判官 W'wargaz](Inquisitor_W'wargaz.md "审判官 W'wargaz")到来之前。
 
 ## 目录
 
@@ -36,7 +36,7 @@
 
 ## 互动
 
-她是[Kith'rak Therezzyn](Therezzyn.md "Kith'rak Therezzyn")派出的小队队长，负责搜寻[审判官 W'wargaz](W'wargaz.md "审判官 W'wargaz")想要的“武器”，就在小队接近[队长室](Cr%C3%A8che_Y'llek.md#Captain's_Quarters "伊雷珂养育间")的那一刻。
+她是[Kith'rak Therezzyn](Therezzyn.md "Kith'rak Therezzyn")派出的小队队长，负责搜寻[审判官 W'wargaz](W'wargaz.md "审判官 W'wargaz")想要的“武器”，就在小队接近[队长室](Crèche_Y'llek.md#Captain's_Quarters "伊雷珂养育间")的那一刻。
 
 伊尔鲁是养育间中无法交谈的角色之一。过场动画结束后，她带领小队沿着走廊走向贸易站并消失。
 

@@ -40,7 +40,7 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**训练官凯斯克**是[第一幕](Act_One.md "第一幕")期间[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")[教室](Cr%C3%A8che_Y'llek.md#Classroom "伊雷珂养育间")中的一名教官。
+**训练官凯斯克**是[第一幕](Act_One.md "第一幕")期间[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")[教室](Crèche_Y'llek.md#Classroom "伊雷珂养育间")中的一名教官。
 
 > “
 >

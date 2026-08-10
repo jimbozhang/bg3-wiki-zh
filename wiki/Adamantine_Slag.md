@@ -16,7 +16,7 @@
 
 - UID `LOOT_GEN_AdamantineScrap_A` UUID `8705b906-316d-4457-bc15-15a8ff568f67` ## 获取地点
 
-- 在[复仇之炉](Grymforge.md "复仇之炉")中，从[兽群大师斯卡贾尔](Skarjall.md "兽群大师斯卡贾尔")虐待[地底洛斯兽](Deep_Roth%C3%A9.md "地底洛斯兽")以打破墙壁来[穿过碎石堆](Get_Past_the_Rubble.md "穿过碎石堆")时获得
+- 在[复仇之炉](Grymforge.md "复仇之炉")中，从[兽群大师斯卡贾尔](Skarjall.md "兽群大师斯卡贾尔")虐待[地底洛斯兽](Deep_Rothé.md "地底洛斯兽")以打破墙壁来[穿过碎石堆](Get_Past_the_Rubble.md "穿过碎石堆")时获得
 
 - 在墙壁入口附近的一个小袋子中
 

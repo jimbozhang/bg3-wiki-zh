@@ -18,7 +18,7 @@
 
 - UID `S_CRE_Entrance_KoboldReport` UUID `b2f520ea-f21f-4606-b6e8-635e8f3fe61d` ## 位置
 
-- 在 ⁠[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间") 的一张桌子上，坐标 X: 1354 Y: -830
+- 在 ⁠[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间") 的一张桌子上，坐标 X: 1354 Y: -830
 
 ## 文本
 

@@ -29,7 +29,7 @@
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 - [额外攻击](Extra_Attack.md "Extra Attack")
 
-**吉斯洋基炽念者**是[伊雷珂养育间](Cr%C3%A8che_Y'llek.md "伊雷珂养育间")中遭遇的[职业](Class.md "职业")原型[吉斯洋基人](Githyanki.md "吉斯洋基人")[NPC](NPC.md "NPC")。专精于灵能战斗的法师，炽念者是游戏中遭遇的最纯粹的吉斯洋基施法者。
+**吉斯洋基炽念者**是[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")中遭遇的[职业](Class.md "职业")原型[吉斯洋基人](Githyanki.md "吉斯洋基人")[NPC](NPC.md "NPC")。专精于灵能战斗的法师，炽念者是游戏中遭遇的最纯粹的吉斯洋基施法者。
 
 ## 目录
 
