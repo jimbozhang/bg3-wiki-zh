@@ -1,6 +1,6 @@
 # 变形术士之石：闪电
 
-本文介绍的是物品。关于创造它的能力，请参见 [变形术士之石：闪电抗性](Transmuter's_Stone_colon__Lightning_Resistance.md "变形术士之石：闪电抗性")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation)..md)
+本文介绍的是物品。关于创造它的能力，请参见 [变形术士之石：闪电抗性](Transmuter's_Stone_colon__Lightning_Resistance.md "变形术士之石：闪电抗性")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation).md)
 
 **变形术士之石**是由[变形学派](Transmutation_School.md "变形学派")法师注入魔法的石头，可为持有者提供闪电伤害抗性。变形学派法师可以使用[变形术士之石](Transmuter's_Stone.md "变形术士之石")法术创造此类石头。
 

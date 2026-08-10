@@ -1,6 +1,6 @@
 # 多重攻击（枭熊）
 
-本文介绍枭熊使用的多重攻击动作。其他用法，请参见[多重攻击（消歧义）](Multiattack_(disambiguation)..md)
+本文介绍枭熊使用的多重攻击动作。其他用法，请参见[多重攻击（消歧义）](Multiattack_(disambiguation).md)
 
 **多重攻击**是一种动作，允许[枭熊](Owlbear.md "枭熊")在进入[狂暴](Owlbear's_Rage_(Condition).md "枭熊之怒（状态）")后攻击敌人两次。此攻击专属于枭熊生物，[德鲁伊](Druid.md "德鲁伊")在[荒野形态：枭熊](Wild_Shape_colon__Owlbear.md "荒野形态：枭熊")形态下无法使用。
 

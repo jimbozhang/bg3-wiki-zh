@@ -1,6 +1,6 @@
 # 魔索布莱城之影
 
-魔索布莱城之影是一件稀有的[头盔](Headwear.md "Headwear")，允许穿戴者使用[阴影遮蔽](Shrouded_in_Shadow.md "阴影遮蔽")来进入[隐形](Invisible_(Condition)状态.md)。
+魔索布莱城之影是一件稀有的[头盔](Headwear.md "Headwear")，允许穿戴者使用[阴影遮蔽](Shrouded_in_Shadow.md "阴影遮蔽")来进入[隐形](Invisible_(Condition).md)。
 
 你感觉到包裹着这件卓尔工艺兜帽的阴影，它们渴望着包裹你并使你免于被看见。
 

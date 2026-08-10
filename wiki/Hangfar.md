@@ -36,7 +36,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition).md)，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 - [额外攻击](Extra_Attack.md "额外攻击")
 
@@ -56,7 +56,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition).md)，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 - [额外攻击](Extra_Attack.md "额外攻击")
 
@@ -76,7 +76,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition).md)，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 - [额外攻击](Extra_Attack.md "额外攻击")
 

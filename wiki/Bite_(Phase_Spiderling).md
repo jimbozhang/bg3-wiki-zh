@@ -1,6 +1,6 @@
 # 啃咬 (相位幼蛛)
 
-本文介绍的是相位幼蛛使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation)..md)
+本文介绍的是相位幼蛛使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation).md)
 
 **啃咬**是[相位幼蛛](Phase_Spiderling.md "相位幼蛛")可用的基本攻击，造成⁠[穿刺](Piercing.md "穿刺")和⁠[中毒](Poison.md "中毒")伤害。
 

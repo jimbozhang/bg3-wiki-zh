@@ -28,7 +28,7 @@
 
 ## 备注
 
-- 与[钥匙（伊雷珂养育间）](Key_(Crèche_Y'llek)不同.md)，这把钥匙*不*能打开养育间主入口附近的四道铁门。
+- 与[钥匙（伊雷珂养育间）](Key_(Crèche_Y'llek).md)，这把钥匙*不*能打开养育间主入口附近的四道铁门。
 
 ---
 *Source: [Key (Crèche Cliffside Entrance)](https://bg3.wiki/wiki/Key_(Crèche_Cliffside_Entrance)*

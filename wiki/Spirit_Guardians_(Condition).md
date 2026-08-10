@@ -1,6 +1,6 @@
 # 精魂守卫 (状态)
 
-本文介绍的是造成伤害的状态。其他用法，请参见 [精魂守卫 (消歧义)](Spirit_Guardians_(disambiguation)..md)
+本文介绍的是造成伤害的状态。其他用法，请参见 [精魂守卫 (消歧义)](Spirit_Guardians_(disambiguation).md)
 
 **精魂守卫**
 

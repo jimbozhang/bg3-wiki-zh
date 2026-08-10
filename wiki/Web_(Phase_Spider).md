@@ -1,6 +1,6 @@
 # 蛛网术（相位蜘蛛）
 
-有关此能力的其他版本，请参见 [蛛网术（消歧义）](Web_(disambiguation)..md)
+有关此能力的其他版本，请参见 [蛛网术（消歧义）](Web_(disambiguation).md)
 
 **蛛网术**是[相位蜘蛛](Phase_Spider.md "Phase Spider")可用的动作，可让它们创造蛛网地表，并可能使区域内的生物[网缚](Enwebbed_(Condition).md "Enwebbed (状态)")。
 

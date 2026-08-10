@@ -2,7 +2,7 @@
 
 对于被动特性，请参见 [寒冬之握（被动特性）](Winter's_Clutches_(passive_feature)..md)
 
-寒冬之握是一双[手套](Gloves.md "手套")，属于不常见物品。当穿戴者造成[寒冷](Cold.md "寒冷")伤害时，可对敌人施加[冷冻](Encrusted_with_Frost_(Condition)状态.md)。
+寒冬之握是一双[手套](Gloves.md "手套")，属于不常见物品。当穿戴者造成[寒冷](Cold.md "寒冷")伤害时，可对敌人施加[冷冻](Encrusted_with_Frost_(Condition).md)。
 
 这些手套很可能源自[冰风谷](https://forgottenrealms.fandom.com/wiki/Icewind_Dale)，在那里，脾气如同炉火般炽热，冰冻的河流以蓝白色的支流网络在山谷臂弯中蜿蜒。
 

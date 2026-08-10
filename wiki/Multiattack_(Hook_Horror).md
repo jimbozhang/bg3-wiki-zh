@@ -1,6 +1,6 @@
 # 多重攻击 (恐爪怪)
 
-本文介绍恐爪怪使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍恐爪怪使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击** 是一项职业动作，允许 [恐爪怪](Hook_Horror.md "恐爪怪") 对 [倒伏](Prone_(Condition).md "倒伏 (状态)") 的敌人进行两次攻击。
 

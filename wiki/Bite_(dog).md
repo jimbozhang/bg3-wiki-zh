@@ -1,6 +1,6 @@
 # 啃咬 (狗)
 
-本文介绍的是狗使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation)..md)
+本文介绍的是狗使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation).md)
 
 **啃咬**是 [狗](Dog.md "Dog") 可用的基本攻击，造成 ⁠[穿刺](Piercing.md "Piercing") 伤害。
 

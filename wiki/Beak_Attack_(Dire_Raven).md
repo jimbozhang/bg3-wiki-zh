@@ -1,6 +1,6 @@
 # 喙啄攻击（恐鸦）
 
-关于其他版本的喙啄攻击，请参见 [喙啄攻击（消歧义）](Beak_Attack_(disambiguation)..md)
+关于其他版本的喙啄攻击，请参见 [喙啄攻击（消歧义）](Beak_Attack_(disambiguation).md)
 
 **喙啄攻击**是恐鸦可用的基础攻击，包括 [恐鸦伙伴](Dire_Raven_Companion.md "恐鸦伙伴") 或 [荒野形态：恐鸦](Wild_Shape_colon__Dire_Raven.md "荒野形态：恐鸦") 形态。这是一种近战攻击，造成 ⁠[穿刺](Piercing.md "穿刺") 伤害，伤害随乌鸦的等级提升。
 

@@ -1,6 +1,6 @@
 # 多重攻击 (变形怪)
 
-本文介绍变形怪使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍变形怪使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是[变形怪](Doppleganger.md "变形怪")可用的动作，允许它们对被[形态伏击](Morphic_Ambush.md "形态伏击")惊吓的目标进行两次快速爪击。
 

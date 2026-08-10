@@ -1,6 +1,6 @@
 # 隐形 (职业动作)
 
-本文介绍的是尤格可用的隐形动作。其他用法，请参见[隐形 (消歧义)](Invisibility_(disambiguation)..md)
+本文介绍的是尤格可用的隐形动作。其他用法，请参见[隐形 (消歧义)](Invisibility_(disambiguation).md)
 
 **隐形**是[尤格](Yurgir.md "尤格")使用的职业动作，允许他随意进入[隐形](Invisible_(Condition).md "隐形 (状态)")状态，无需使用法术位或专注。
 

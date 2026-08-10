@@ -1,6 +1,6 @@
 # 血 (地表)
 
-"血" 重定向至此。其他用法，请参见 [血 (消歧义)](Blood_(disambiguation)..md)
+"血" 重定向至此。其他用法，请参见 [血 (消歧义)](Blood_(disambiguation).md)
 
 **血** 是一种 [地表](Surface.md "Surface")，通常在生物受到伤害时产生。
 

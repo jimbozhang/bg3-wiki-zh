@@ -1,6 +1,6 @@
 # 多重攻击 (风元素)
 
-本文介绍风元素使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍风元素使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是 [风元素](Air_Elemental.md "风元素") 使用的一种攻击。它允许它们攻击目标两次，对处于 [感电](Shocked_(Condition).md "感电 (状态)") 状态的目标造成双倍伤害。
 

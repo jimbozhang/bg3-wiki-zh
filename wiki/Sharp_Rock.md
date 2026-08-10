@@ -1,6 +1,6 @@
 # 尖利岩石
 
-本文介绍的是鸟妖使用的攻击。有关类似攻击，请参见[投掷石头（消歧义）](Throw_Stone_(disambiguation)..md)
+本文介绍的是鸟妖使用的攻击。有关类似攻击，请参见[投掷石头（消歧义）](Throw_Stone_(disambiguation).md)
 
 **尖利岩石**是[鸟妖](Harpy.md "Harpy")使用的远程攻击。
 

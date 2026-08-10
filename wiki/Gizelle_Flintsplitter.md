@@ -27,7 +27,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对抗[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -43,7 +43,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对抗[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -59,7 +59,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对抗[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 **吉泽尔·割石**是在[利文顿](Rivington.md "利文顿")难民营中找到的[矮人](Dwarf.md "矮人")。
 

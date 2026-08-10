@@ -1,6 +1,6 @@
 # 啃咬 (分支龙)
 
-本文介绍分支龙使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation)..md)
+本文介绍分支龙使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation).md)
 
 **啃咬**是 [沼泽分支龙](Chult_Alioramus.md "沼泽分支龙") 和 [沼泽分支龙格鲁沙](Chult_Alioramus_Colossa.md "沼泽分支龙格鲁沙") 可用的基本攻击，可造成 [流血](Bleeding_(Condition).md "流血 (状态)") 和 [开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")。
 

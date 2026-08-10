@@ -2,7 +2,7 @@
 
 **仪式组件**
 
-- 阿斯代伦因一项亵渎仪式而处于[失能](Incapacitated_(Condition)状态.md)，直到被[协助](Help.md "协助")。
+- 阿斯代伦因一项亵渎仪式而处于[失能](Incapacitated_(Condition).md)，直到被[协助](Help.md "协助")。
 
 [失能](Incapacitated_(status_group).md)
 

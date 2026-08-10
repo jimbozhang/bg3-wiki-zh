@@ -558,7 +558,7 @@
 你可以在黑暗中看到24米（80英尺）。
 
 [坟墓之力](Strength_of_the_Grave.md "坟墓之力")
-在达到0[生命值](Hit_Points.md "生命值")后，你恢复1点生命值，而不是进入[倒地](Downed_(Condition)状态.md)。
+在达到0[生命值](Hit_Points.md "生命值")后，你恢复1点生命值，而不是进入[倒地](Downed_(Condition).md)。
 
 ### 等级3
 

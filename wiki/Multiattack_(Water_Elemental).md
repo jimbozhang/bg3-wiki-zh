@@ -1,6 +1,6 @@
 # 多重攻击 (水元素)
 
-本文介绍水元素使用的多重攻击动作。其他用法，请参见[多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍水元素使用的多重攻击动作。其他用法，请参见[多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是[水元素](Water_Elemental.md "水元素")使用的一种攻击。它允许它们攻击目标两次，对处于[冻僵](Chilled_(Condition).md "冻僵 (状态)")状态的目标造成双倍伤害。
 

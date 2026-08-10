@@ -1,6 +1,6 @@
 # 额叶堡垒护甲
 
-额叶堡垒护甲是一件稀有的[重甲](Armour.md#Heavy_Armour "Armour")，它使穿戴者免疫[恐慌](Frightened_(Condition)状态.md)，并且如果穿戴者被夺心魔蝌蚪感染，将为所有智力、感知和魅力豁免检定提供+1加值。
+额叶堡垒护甲是一件稀有的[重甲](Armour.md#Heavy_Armour "Armour")，它使穿戴者免疫[恐慌](Frightened_(Condition).md)，并且如果穿戴者被夺心魔蝌蚪感染，将为所有智力、感知和魅力豁免检定提供+1加值。
 
 小小的触手雕刻是一个不错的点缀。
 
@@ -35,7 +35,7 @@
 
 _关于恐慌免疫：_
 
-- 除了恐慌状态外，**恐慌免疫**还会阻止[恐慌](Frightened_(status_group)状态组中的所有状态.md)。
+- 除了恐慌状态外，**恐慌免疫**还会阻止[恐慌](Frightened_(status_group)状态组中的所有.md)。
 
 ## 图库
 

@@ -1,6 +1,6 @@
 # 鬼头蘑菇孢子 (职业动作)
 
-本文介绍由孢子守护者护甲授予的动作。其他用法，请参见[鬼头蘑菇孢子 (消歧义)](Timmask_Spores_(disambiguation)..md)
+本文介绍由孢子守护者护甲授予的动作。其他用法，请参见[鬼头蘑菇孢子 (消歧义)](Timmask_Spores_(disambiguation).md)
 
 **鬼头蘑菇孢子**是一种特殊的职业动作，当装备[孢子守护者护甲](Armour_of_the_Sporekeeper.md "孢子守护者护甲")作为[孢子结社](Circle_of_Spores.md "孢子结社")德鲁伊，并且[共生实体](Symbiotic_Entity_(Condition).md "共生实体 (状态)")处于激活状态时可用。
 

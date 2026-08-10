@@ -1,6 +1,6 @@
 # 多重攻击 (幽影诅咒蔓生怪)
 
-本文介绍幽影诅咒蔓生怪使用的多重攻击动作。其他用法，请参见[多重攻击（消歧义）](Multiattack_(disambiguation)..md)
+本文介绍幽影诅咒蔓生怪使用的多重攻击动作。其他用法，请参见[多重攻击（消歧义）](Multiattack_(disambiguation).md)
 
 **多重攻击**是[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")可用的动作，允许其进行两次连续攻击，并可缠绕目标。
 

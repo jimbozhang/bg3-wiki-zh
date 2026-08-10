@@ -1,6 +1,6 @@
 # 夺心魔的血液
 
-"夺心魔的血液" 重定向至此。其他用途，请参见 [血液（消歧义）](Blood_(disambiguation)..md)
+"夺心魔的血液" 重定向至此。其他用途，请参见 [血液（消歧义）](Blood_(disambiguation).md)
 
 **夺心魔的血液** 是一种 [地表](Surface.md "Surface")，当夺心魔受到伤害时会产生。
 

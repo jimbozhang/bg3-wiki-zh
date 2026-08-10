@@ -1,6 +1,6 @@
 # 多重攻击 (红帽子)
 
-本文介绍红帽子使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍红帽子使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是[红帽子](Redcap.md "红帽子")可用的动作，允许它们在[嗜血](Bloodlust_(Condition).md "嗜血 (状态)")状态下攻击三次。
 

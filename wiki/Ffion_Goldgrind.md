@@ -38,7 +38,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
+对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
 - [额外攻击](Extra_Attack.md "额外攻击")
 
@@ -58,7 +58,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对[中毒](Poisoned_(Condition)状态.md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
+对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
 
 - [额外攻击](Extra_Attack.md "额外攻击")
 

@@ -1,6 +1,6 @@
 # 啄咬眼珠 (恐鸦)
 
-本文介绍的是恐鸦使用的攻击。其他版本请参见 [啄咬眼珠 (消歧义)](Rend_Vision_(disambiguation)..md)
+本文介绍的是恐鸦使用的攻击。其他版本请参见 [啄咬眼珠 (消歧义)](Rend_Vision_(disambiguation).md)
 
 **啄咬眼珠**是恐鸦可用的攻击，包括[驯兽师](Beast_Master.md "驯兽师")的[恐鸦伙伴](Dire_Raven_Companion.md "恐鸦伙伴")或处于[荒野形态：恐鸦](Wild_Shape_colon__Dire_Raven.md "荒野形态：恐鸦")形态的[德鲁伊](Druid.md "德鲁伊")。这是一种近战攻击，造成⁠[穿刺](Piercing.md "穿刺")伤害，伤害随乌鸦等级提升，并会使目标[目盲](Blinded_(Condition).md "目盲 (状态)")。
 

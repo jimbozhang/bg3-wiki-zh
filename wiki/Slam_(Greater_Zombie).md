@@ -1,6 +1,6 @@
 # 猛击（大僵尸）
 
-本文介绍的是大僵尸使用的攻击版本。其他用法，请参见 [猛击（消歧义）](Slam_(disambiguation)..md)
+本文介绍的是大僵尸使用的攻击版本。其他用法，请参见 [猛击（消歧义）](Slam_(disambiguation).md)
 
 **猛击**是[大僵尸](Greater_Zombie.md "大僵尸")可用的[职业动作](Actions.md#Resources "动作")，造成 3d6+4⁠⁠[钝击](Bludgeoning.md "钝击") 和 2d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 

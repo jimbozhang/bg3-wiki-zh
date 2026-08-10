@@ -1,6 +1,6 @@
 # 爪击 (蠕行之爪)
 
-本文介绍的是蠕行之爪使用的版本。其他用法请参见 [爪击 (消歧义)](Claws_(disambiguation)..md)
+本文介绍的是蠕行之爪使用的版本。其他用法请参见 [爪击 (消歧义)](Claws_(disambiguation).md)
 
 **爪击**是[蠕行之爪](Crawling_Claw.md "蠕行之爪")可用的职业动作。它造成 2d8+1⁠⁠[挥砍](Slashing.md "挥砍")伤害。
 

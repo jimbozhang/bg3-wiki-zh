@@ -1,6 +1,6 @@
 # 猛扑（双脊龙）
 
-本文介绍的是双脊龙的动作。其他用法请参见 [猛扑（消歧义）](Pounce_(disambiguation)..md)
+本文介绍的是双脊龙的动作。其他用法请参见 [猛扑（消歧义）](Pounce_(disambiguation).md)
 
 **猛扑** 是一种附赠动作，可在 [荒野形态：双脊龙](Wild_Shape_colon__Dilophosaurus.md "荒野形态：双脊龙") 形态下使用。这是一种跳跃攻击，可以使目标 [倒伏](Prone_(Condition).md "倒伏（状态）")。
 

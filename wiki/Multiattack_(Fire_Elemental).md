@@ -1,6 +1,6 @@
 # 多重攻击 (火元素)
 
-本文介绍火元素使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍火元素使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是 [火元素](Fire_Elemental.md "火元素") 使用的一种攻击。它允许它们攻击目标两次，对处于 [燃烧](Burning_(Condition).md "燃烧 (状态)") 状态的目标造成双倍伤害。
 

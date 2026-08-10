@@ -1,6 +1,6 @@
 # 隐形（小魔鬼）
 
-本文介绍小魔鬼可用的隐形动作。其他用法，请参见[隐形（消歧义）](Invisibility_(disambiguation)..md)
+本文介绍小魔鬼可用的隐形动作。其他用法，请参见[隐形（消歧义）](Invisibility_(disambiguation).md)
 
 **隐形**是[获得魔宠：小魔鬼](Find_Familiar_colon__Imp.md "获得魔宠：小魔鬼")动作。小魔鬼使用此能力对肉眼变得隐形。
 

@@ -1,6 +1,6 @@
 # 爪击（熊伙伴）
 
-本文介绍的是驯兽师熊伙伴使用的版本。其他用法，请参见[爪击（消歧义）](Claws_(disambiguation)..md)
+本文介绍的是驯兽师熊伙伴使用的版本。其他用法，请参见[爪击（消歧义）](Claws_(disambiguation).md)
 
 **爪击**是[熊伙伴](Bear_Companion.md "熊伙伴")可用的基础攻击。这是一种徒手近战攻击，对目标造成[挥砍](Slashing.md "Slashing")伤害。
 

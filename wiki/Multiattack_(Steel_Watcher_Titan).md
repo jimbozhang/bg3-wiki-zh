@@ -1,6 +1,6 @@
 # 多重攻击 (钢铁卫士泰坦)
 
-本文介绍钢铁卫士泰坦使用的多重攻击动作。其他用法请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍钢铁卫士泰坦使用的多重攻击动作。其他用法请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是[钢铁卫士泰坦](Steel_Watcher_Titan.md "钢铁卫士泰坦")可用的武器动作，允许其对处于倒伏、束缚或跛足状态的目标使用[卫士巨剑](Watcher_Greatsword.md "卫士巨剑")进行两次攻击。
 

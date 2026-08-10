@@ -1,6 +1,6 @@
 # 冰（地表）
 
-本文介绍的是光滑的冰面。其他含义，请参见 [冰（消歧义）](Ice_(disambiguation)..md)
+本文介绍的是光滑的冰面。其他含义，请参见 [冰（消歧义）](Ice_(disambiguation).md)
 
 **冰**是一种[区域](Area.md "Area")。可通过多种方式创造，能使任何在上面移动的生物[倒伏](Prone_(Condition).md "Prone (Condition)")。
 

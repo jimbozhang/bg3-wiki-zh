@@ -140,7 +140,7 @@
 \_(状态)[麻痹](Paralysed_(Karabasan's_Gift)_(Condition).md "麻痹 (噩梦馈赠) (状态)")
 |
 
-- 生物处于[失能](Incapacitated_(Condition)状态.md)
+- 生物处于[失能](Incapacitated_(Condition).md)
 - 对[挥砍](Slashing.md "挥砍")、[穿刺](Piercing.md "穿刺")和[钝击](Bludgeoning.md "钝击")伤害[易伤](Vulnerable.md "Vulnerable")。
 - 自动在所有[力量](Strength.md "Strength")和[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")中失败
 - 3米（10英尺）范围内的攻击者对该生物进行的任何攻击掷骰自动命中且为自动[重击](Critical_Hit.md "重击")
@@ -161,7 +161,7 @@
 [仪式组件](Ritual_Component_(Condition).md "仪式组件 (状态)")
 |
 
-- 阿斯代伦作为亵渎仪式的一部分处于[失能](Incapacitated_(Condition)状态.md)，直到被[协助](Help.md "Help")。
+- 阿斯代伦作为亵渎仪式的一部分处于[失能](Incapacitated_(Condition).md)，直到被[协助](Help.md "Help")。
 
 [献祭羔羊](Sacrificial_Lamb_(Condition).md "献祭羔羊 (状态)")
 |

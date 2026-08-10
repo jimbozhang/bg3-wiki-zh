@@ -89,7 +89,7 @@
 
 主条目：[热能套装](../Heat_Set.md "Heat Set")
 
-热能物品是帮助使用者应对[热能（状态）](../Heat_(Condition)的装备.md)。它们与[火焰套装](../Fire_set.md "Fire set")中的物品协同作用，此处不重复列出。
+热能物品是帮助使用者应对[热能（状态）](../Heat_(Condition).md "热能（状态）")的装备。它们与[火焰套装](../Fire_set.md "Fire set")中的物品协同作用，此处不重复列出。
 
 - [燃烬靴](../Cinder_Shoes.md "Cinder Shoes")：当你使敌人[燃烧](../Burning_(Condition).md "Burning (Condition)")时，获得2回合热能。
 - [火焰之心](../Fireheart.md "Fireheart")：当你承受其他生物造成的火焰伤害时，获得2回合热能。

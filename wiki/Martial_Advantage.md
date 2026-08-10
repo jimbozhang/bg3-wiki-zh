@@ -18,7 +18,7 @@
 
 ## 简要预览
 
-若盟友位于目标2米（7英尺）范围内且未处于[失能](Incapacitated_(Condition)状态.md)，每回合可为武器攻击增加+2d6[物理](Physical.md "物理")伤害。
+若盟友位于目标2米（7英尺）范围内且未处于[失能](Incapacitated_(Condition).md)，每回合可为武器攻击增加+2d6[物理](Physical.md "物理")伤害。
 
 ---
 *Source: [Martial Advantage](https://bg3.wiki/wiki/Martial_Advantage)*

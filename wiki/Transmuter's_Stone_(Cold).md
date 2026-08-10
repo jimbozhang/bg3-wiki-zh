@@ -1,6 +1,6 @@
 # 变形术士之石（寒冷）
 
-本文介绍的是物品。关于创造它的能力，请参见 [变形术士之石：寒冷抗性](Transmuter's_Stone_colon__Cold_Resistance.md "变形术士之石：寒冷抗性")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation)..md)
+本文介绍的是物品。关于创造它的能力，请参见 [变形术士之石：寒冷抗性](Transmuter's_Stone_colon__Cold_Resistance.md "变形术士之石：寒冷抗性")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation).md)
 
 **变形术士之石**是由[变形学派](Transmutation_School.md "变形学派")的法师注入魔法的石头，可为持有者提供对寒冷伤害的抗性。变形学派的法师可以使用[变形术士之石](Transmuter's_Stone.md "变形术士之石")来创造这种石头。
 

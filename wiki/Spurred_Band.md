@@ -1,6 +1,6 @@
 # 尖刺环带
 
-尖刺环带是一个[戒指](Rings.md "Rings")，当生命值较低时，它能为佩戴者提供[亢奋](Momentum_(Condition)状态.md)。
+尖刺环带是一个[戒指](Rings.md "Rings")，当生命值较低时，它能为佩戴者提供[亢奋](Momentum_(Condition).md)。
 
 当佩戴者受伤时，细小的倒刺会刺痛他们，仿佛在催促他们逃离危险。
 

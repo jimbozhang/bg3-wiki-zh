@@ -1,6 +1,6 @@
 # 多重攻击 (鸟妖)
 
-本文介绍鸟妖使用的多重攻击动作。其他用法请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍鸟妖使用的多重攻击动作。其他用法请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是[鸟妖](Harpy.md "鸟妖")可用的动作，允许它们用一个动作对被[诱惑之歌](Luring_Song.md "诱惑之歌")魅惑的敌人进行两次攻击。此攻击在[硬核](Tactician.md "硬核")难度下造成双倍伤害。
 

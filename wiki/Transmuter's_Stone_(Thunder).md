@@ -1,6 +1,6 @@
 # 变形术士之石（雷鸣）
 
-本文介绍的是物品。关于创造它的能力，请参见 [变形术士之石：雷鸣抗性](Transmuter's_Stone_colon__Thunder_Resistance.md "变形术士之石：雷鸣抗性")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation)..md)
+本文介绍的是物品。关于创造它的能力，请参见 [变形术士之石：雷鸣抗性](Transmuter's_Stone_colon__Thunder_Resistance.md "变形术士之石：雷鸣抗性")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation).md)
 
 **变形术士之石**是一块由 [变形学派](Transmutation_School.md "变形学派") 法师注入魔法的石头，能为持有者提供火焰伤害抗性。变形法师可以通过 [变形术士之石](Transmuter's_Stone.md "变形术士之石") 创造此类石头。
 

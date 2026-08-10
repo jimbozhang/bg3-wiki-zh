@@ -21,7 +21,7 @@ _维基数据库中未定义_
 
 ## 简要预览
 
-下一次对抗任何[失能](Incapacitated_(Condition_Type)状态.md)的[豁免检定](Saving_throw.md "Saving throw")获得+10加值。可使用三次。
+下一次对抗任何[失能](Incapacitated_(Condition_Type).md)的[豁免检定](Saving_throw.md "Saving throw")获得+10加值。可使用三次。
 
 ---
 *Source: [Legendary Resistance: Incapacitation (Condition)](https://bg3.wiki/wiki/Legendary_Resistance:_Incapacitation_(Condition)*

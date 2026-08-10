@@ -27,7 +27,7 @@
 ## 备注
 
 - 使用此动作时，会移除[抓取精华](Grasp_Essence_(Condition).md "抓取精华（状态）")状态。这会阻止在下一个驱散前再次使用任何三个[灵魂捕捉](Soul_Catching.md "灵魂捕捉")特性，直到重新获得抓取精华。
-- 此能力的工具提示显示它还会施加[疾走](Dash_(Condition)状态.md)，但似乎只按预期进行治疗。
+- 此能力的工具提示显示它还会施加[疾走](Dash_(Condition).md)，但似乎只按预期进行治疗。
 
 ---
 *Source: [Soul Snare: Heal](https://bg3.wiki/wiki/Soul_Snare:_Heal)*

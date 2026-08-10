@@ -1,6 +1,6 @@
 # 变形术士之石
 
-本文介绍的是该能力。有关其他用途，请参见[变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation)..md)
+本文介绍的是该能力。有关其他用途，请参见[变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation).md)
 
 **变形术士之石**是[变形学派](Transmutation_School.md "变形学派")法师的自由动作，允许你创造变形术士之石，通过持有该石头为生物提供各种增益。
 

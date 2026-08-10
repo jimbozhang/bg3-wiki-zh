@@ -32,7 +32,7 @@
 - [永久武装](Permanently_Armed.md "永久武装")
 - [报偿](Retaliation.md "报偿")
 
-此页面是关于生物“信仰守卫”的。有关其他类似页面，请参见 [信仰守卫 (消歧义)](Guardian_of_Faith_(disambiguation)..md)
+此页面是关于生物“信仰守卫”的。有关其他类似页面，请参见 [信仰守卫 (消歧义)](Guardian_of_Faith_(disambiguation).md)
 
 ## 信仰守卫
 

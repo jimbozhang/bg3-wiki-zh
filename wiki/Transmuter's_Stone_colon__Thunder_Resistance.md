@@ -1,6 +1,6 @@
 # 变形术士之石：雷鸣抗性
 
-本文是关于该能力的。关于其创造的物品，请参见 [变形术士之石（雷鸣）](Transmuter's_Stone_(Thunder)..md)>。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation)..md)>。
+本文是关于该能力的。关于其创造的物品，请参见 [变形术士之石（雷鸣）](Transmuter's_Stone_(Thunder)..md)>。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation).md)>。
 
 **变形术士之石：雷鸣抗性** 是 [变形术士之石](Transmuter's_Stone.md "变形术士之石") 的一种变体，可使你在被雷鸣攻击命中时受到一半伤害。
 

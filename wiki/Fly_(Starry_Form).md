@@ -1,6 +1,6 @@
 # 飞行（星形形态）
 
-本文介绍由星形形态授予的飞行版本。其他用法，请参见[飞行（消歧义）](Fly_(disambiguation)..md)
+本文介绍由星形形态授予的飞行版本。其他用法，请参见[飞行（消歧义）](Fly_(disambiguation).md)
 
 **飞行**是一种移动动作，适用于拥有[星界圆环](Circle_of_Stars.md "星界圆环")职业、[闪烁星座](Twinkling_Constellations.md "闪烁星座")10级升级且激活[星形形态：龙](Starry_Form_colon__Dragon.md "星形形态：龙")的德鲁伊。
 

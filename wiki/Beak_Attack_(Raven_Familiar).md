@@ -1,6 +1,6 @@
 # 喙啄攻击（渡鸦魔宠）
 
-关于其他版本的喙啄攻击，请参见 [喙啄攻击（消歧义）](Beak_Attack_(disambiguation)..md)
+关于其他版本的喙啄攻击，请参见 [喙啄攻击（消歧义）](Beak_Attack_(disambiguation).md)
 
 **喙啄攻击** 是一项 [获得魔宠：渡鸦](Find_Familiar_colon__Raven.md "获得魔宠：渡鸦") 动作。渡鸦使用此能力对敌人进行近战攻击，造成穿刺伤害。
 

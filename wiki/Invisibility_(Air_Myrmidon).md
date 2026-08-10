@@ -1,6 +1,6 @@
 # 隐形（风元素执政官）
 
-本文介绍风元素执政官可用的隐形动作。其他用法请参见[隐形（消歧义）](Invisibility_(disambiguation)..md)
+本文介绍风元素执政官可用的隐形动作。其他用法请参见[隐形（消歧义）](Invisibility_(disambiguation).md)
 
 **隐形**是[风元素执政官](Air_Myrmidon.md "风元素执政官")的动作，允许其在维持[专注](Concentration.md "专注")期间保持隐形。
 

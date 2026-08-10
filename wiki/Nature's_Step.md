@@ -17,7 +17,7 @@
 **[自然步伐](Nature's_Step_(Condition).md "自然步伐（状态）")**
 
 - 附近的盟友对[中毒](Poison.md "中毒")伤害具有[抗性](Resistant.md "抗性")。
-- 对[麻痹](Paralyzed_(status_group).md)、[束缚](Restrained_(status_group).md)和[劣势地形](Difficult_Terrain_(status_group)状态组中的所有状态免疫.md)。
+- 对[麻痹](Paralyzed_(status_group).md)、[束缚](Restrained_(status_group).md)和[劣势地形](Difficult_Terrain_(status_group).md)。
 
 ## 如何习得
 

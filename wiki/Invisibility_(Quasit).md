@@ -1,6 +1,6 @@
 # 隐形（夸塞魔）
 
-本文介绍夸塞魔可用的隐形动作。其他用法，请参见[隐形（消歧义）](Invisibility_(disambiguation)..md)
+本文介绍夸塞魔可用的隐形动作。其他用法，请参见[隐形（消歧义）](Invisibility_(disambiguation).md)
 
 **隐形**是[获得魔宠：夸塞魔](Find_Familiar_colon__Quasit.md "获得魔宠：夸塞魔")动作。夸塞魔使用此能力对肉眼隐形。
 

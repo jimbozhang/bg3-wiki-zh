@@ -3,7 +3,7 @@
 **自然步伐**
 
 - 附近盟友获得对⁠[中毒](Poison.md "中毒")伤害的[抗性](Resistant.md "抗性")。
-- 免疫[麻痹](Paralyzed_(status_group).md)、[束缚](Restrained_(status_group).md)和[劣势地形](Difficult_Terrain_(status_group)状态组中的所有状态.md)。
+- 免疫[麻痹](Paralyzed_(status_group).md)、[束缚](Restrained_(status_group).md)和[劣势地形](Difficult_Terrain_(status_group)状态组中的所有.md)。
 
 ## 属性
 
@@ -30,7 +30,7 @@
 ## 具有相同堆叠ID的状态
 
 - 附近盟友获得对⁠[中毒](Poison.md "中毒")伤害的[抗性](Resistant.md "抗性")。
-- 免疫[麻痹](Paralyzed_(status_group).md)、[束缚](Restrained_(status_group).md)和[劣势地形](Difficult_Terrain_(status_group)状态组中的所有状态.md)。
+- 免疫[麻痹](Paralyzed_(status_group).md)、[束缚](Restrained_(status_group).md)和[劣势地形](Difficult_Terrain_(status_group)状态组中的所有.md)。
 
 ---
 *Source: [Nature's Step (Condition)](https://bg3.wiki/wiki/Nature's_Step_(Condition)*

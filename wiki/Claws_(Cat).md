@@ -1,6 +1,6 @@
 # 爪击（猫）
 
-本文介绍的是猫使用的爪击能力。其他用法，请参见 [爪击（消歧义）](Claws_(disambiguation)..md)
+本文介绍的是猫使用的爪击能力。其他用法，请参见 [爪击（消歧义）](Claws_(disambiguation).md)
 
 **爪击**是 [荒野形态：猫](Wild_Shape_colon__Cat.md "荒野形态：猫") 和 [获得魔宠：猫](Find_Familiar_colon__Cat.md "获得魔宠：猫") 的动作。猫使用此能力进行近战攻击，对试图揉搓其腹部的敌人造成挥砍伤害。
 

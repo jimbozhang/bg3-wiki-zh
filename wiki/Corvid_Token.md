@@ -1,6 +1,6 @@
 # 乌鸦徽记
 
-乌鸦徽记是一个非常稀有的[护符](Amulets.md "护符")，它能增加[跳跃](Jump.md "跳跃")距离和[飞行](Flight_(Condition).md) [速度](Movement_speed.md "移动速度")，授予穿戴者[变形术：恐鸦](Polymorph_colon__Dire_Raven.md "变形术：恐鸦")动作，并授予[羽落术](Feather_Fall_(Condition)状态.md)，该状态在[变形术](Polymorph.md "变形术")或[荒野形态](Wild_Shape.md "荒野形态")时持续存在。
+乌鸦徽记是一个非常稀有的[护符](Amulets.md "护符")，它能增加[跳跃](Jump.md "跳跃")距离和[飞行](Flight_(Condition).md) [速度](Movement_speed.md "移动速度")，授予穿戴者[变形术：恐鸦](Polymorph_colon__Dire_Raven.md "变形术：恐鸦")动作，并授予[羽落术](Feather_Fall_(Condition).md)，该状态在[变形术](Polymorph.md "变形术")或[荒野形态](Wild_Shape.md "荒野形态")时持续存在。
 
 '让你的双唇在恐怖亡灵之夜变得漆黑如夜/让你的喉咙充满尖叫/渡鸦女王⁠[Raven Queen](https://forgottenrealms.fandom.com/wiki/Raven_Queen)就在附近！' - 黑暗庆典之歌
 

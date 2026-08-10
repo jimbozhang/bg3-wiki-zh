@@ -14,7 +14,7 @@
 
 ## 备注
 
-- **百病不侵**会阻挡[中毒](Poisoned_(status_group).md)和[患病](Diseased_(status_group)状态组中的所有状态.md)。
+- **百病不侵**会阻挡[中毒](Poisoned_(status_group).md)和[患病](Diseased_(status_group)状态组中的所有.md)。
 
 ---
 *Source: [Purity of Body](https://bg3.wiki/wiki/Purity_of_Body)*

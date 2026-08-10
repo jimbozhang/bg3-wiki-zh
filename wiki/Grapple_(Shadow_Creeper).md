@@ -1,6 +1,6 @@
 # 幽影潜行者擒抱 (Shadow Creeper)
 
-本文介绍幽影潜行者使用的擒抱动作。其他用法请参见 [擒抱 (消歧义)](Grapple_(disambiguation)..md)
+本文介绍幽影潜行者使用的擒抱动作。其他用法请参见 [擒抱 (消歧义)](Grapple_(disambiguation).md)
 
 **擒抱**是 [幽影潜行者](Shadow_Creeper.md "幽影潜行者") 可用的 [职业动作](Class_action.md "Class action")，可束缚其触及范围内的生物。
 

@@ -33,7 +33,7 @@
 
 ## 备注
 
-- 此外，此动作会驱散马鲁斯·索姆身上的[失能](Incapacitated_(status_group).md)、[恐慌](Frightened_(status_group).md)和[倒伏](Prone_(status_group)状态.md)。
+- 此外，此动作会驱散马鲁斯·索姆身上的[失能](Incapacitated_(status_group).md)、[恐慌](Frightened_(status_group).md)和[倒伏](Prone_(status_group).md)。
 
 ---
 *Source: [Hand Me My Leech](https://bg3.wiki/wiki/Hand_Me_My_Leech)*

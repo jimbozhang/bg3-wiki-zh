@@ -74,7 +74,7 @@
 
 - [传奇抗性：失能](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
 
-下一次对抗任何[失能](Incapacitated_(Condition_Type)状态.md)的[豁免检定](Saving_throw.md "豁免检定")+10。可使用三次。
+下一次对抗任何[失能](Incapacitated_(Condition_Type).md)的[豁免检定](Saving_throw.md "豁免检定")+10。可使用三次。
 
 ## 荣誉难度属性
 
@@ -128,7 +128,7 @@
 
 - [传奇抗性：失能](Legendary_Resistance_colon__Incapacitation_(Condition).md "传奇抗性：失能 (状态)")
 
-下一次对抗任何[失能](Incapacitated_(Condition_Type)状态.md)的[豁免检定](Saving_throw.md "豁免检定")+10。可使用三次。
+下一次对抗任何[失能](Incapacitated_(Condition_Type).md)的[豁免检定](Saving_throw.md "豁免检定")+10。可使用三次。
 
 ## 目录
 

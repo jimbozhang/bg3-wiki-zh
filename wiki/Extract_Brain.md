@@ -23,7 +23,7 @@
 详情
 近战法术 [攻击掷骰](Attack_roll.md "攻击掷骰")
 近战：1.5米（5英尺）
-目标：处于[震慑](Stunned_(status_group).md)或[昏迷](Unconscious_(status_group)状态.md)，且非[倒伏](Prone_(Condition).md "倒伏（状态）")的生物
+目标：处于[震慑](Stunned_(status_group).md)或[昏迷](Unconscious_(status_group).md)，且非[倒伏](Prone_(Condition).md "倒伏（状态）")的生物
 充能：每回合
 
 ## 学习方式

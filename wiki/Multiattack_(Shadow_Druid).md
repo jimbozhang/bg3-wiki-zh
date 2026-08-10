@@ -1,6 +1,6 @@
 # 多重攻击（暗影德鲁伊）
 
-本文介绍的是某些NPC使用的额外攻击动作。其他用法，请参见[多重攻击（消歧义）](Multiattack_(disambiguation)..md)
+本文介绍的是某些NPC使用的额外攻击动作。其他用法，请参见[多重攻击（消歧义）](Multiattack_(disambiguation).md)
 
 **多重攻击（远程）**是一种[武器动作](Weapon_action.md "武器动作")，由数名[暗影德鲁伊](Shadow_Druids.md "暗影德鲁伊")使用。这是一种自由攻击，可以在进行另一次攻击后执行，类似于[额外攻击](Extra_Attack.md "额外攻击")。
 

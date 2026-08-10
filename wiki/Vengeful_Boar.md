@@ -42,7 +42,7 @@
 
 - [灼热灵气](Scorching_Aura_(Condition).md "灼热灵气 (状态)")
 
-此实体造成的攻击额外造成1d6[火焰](Fire.md "火焰")伤害，除非目标处于[濡湿](Wet_(Condition)状态.md)。
+此实体造成的攻击额外造成1d6[火焰](Fire.md "火焰")伤害，除非目标处于[濡湿](Wet_(Condition).md)。
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -54,7 +54,7 @@
 
 - [灼热灵气](Scorching_Aura_(Condition).md "灼热灵气 (状态)")
 
-此实体造成的攻击额外造成1d6[火焰](Fire.md "火焰")伤害，除非目标处于[濡湿](Wet_(Condition)状态.md)。
+此实体造成的攻击额外造成1d6[火焰](Fire.md "火焰")伤害，除非目标处于[濡湿](Wet_(Condition).md)。
 
 **复仇野猪**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中[地狱野猪](Hellsboar.md "地狱野猪")的一种类型。它们是九层地狱的邪魔怪物，可以在[希望之邸](House_of_Hope.md "希望之邸")中找到。
 

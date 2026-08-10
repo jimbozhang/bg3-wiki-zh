@@ -1,6 +1,6 @@
 # 啃咬 (波尼)
 
-本文介绍波尼使用的啃咬变体。其他用法，请参见[啃咬 (消歧义)](Bite_(disambiguation)..md)
+本文介绍波尼使用的啃咬变体。其他用法，请参见[啃咬 (消歧义)](Bite_(disambiguation).md)
 
 **啃咬**是[波尼](Squire.md "波尼")可用的基本攻击，造成⁠[穿刺](Piercing.md "穿刺")伤害并施加[冻僵](Bone_Chilled_(Condition).md "冻僵 (状态)")。
 

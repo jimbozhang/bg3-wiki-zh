@@ -18,7 +18,7 @@
 
 ## 简要预览
 
-如果目标处于[恐慌](Frightened_(Condition)状态.md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
+如果目标处于[恐慌](Frightened_(Condition).md)，木乃伊可以进行[多重攻击](Multiattack_(Mummy).md)。
 
 ---
 *Source: [Multiattack: Frightened](https://bg3.wiki/wiki/Multiattack:_Frightened)*

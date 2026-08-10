@@ -12,7 +12,7 @@
 | 先攻 | +3 |
 | 经验值 | 40 |
 
-**阿提魅兹**是[幽暗地域](Underdark.md "幽暗地域")中一名处于[石化](Petrified_(Condition)状态.md)的[卓尔](Drow.md "卓尔")游侠，出现在[第一幕](Act_One.md "第一幕")。
+**阿提魅兹**是[幽暗地域](Underdark.md "幽暗地域")中一名处于[石化](Petrified_(Condition).md)的[卓尔](Drow.md "卓尔")游侠，出现在[第一幕](Act_One.md "第一幕")。
 
 > “
 >

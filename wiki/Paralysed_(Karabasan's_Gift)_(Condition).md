@@ -4,7 +4,7 @@
 
 **麻痹**
 
-- 生物处于[失能](Incapacitated_(Condition)状态.md)
+- 生物处于[失能](Incapacitated_(Condition).md)
 - 对[挥砍](Slashing.md "挥砍")、[穿刺](Piercing.md "穿刺")和[钝击](Bludgeoning.md "钝击")伤害[易伤](Vulnerable.md "易伤")
 - 自动失败所有[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")
 - 3米（10英尺）范围内的攻击者对该生物进行的任何[攻击掷骰](Attack_Roll.md "攻击掷骰")都会自动命中，并自动造成[重击](Critical_Hit.md "重击")

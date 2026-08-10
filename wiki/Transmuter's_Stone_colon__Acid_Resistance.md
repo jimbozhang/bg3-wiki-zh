@@ -1,6 +1,6 @@
 # 变形术士之石：强酸抗性
 
-This article is about the ability. For the item created by it, see [Transmuter's Stone (Acid)](Transmuter's_Stone_(Acid)..md) For other uses, see [Transmuter's Stone (disambiguation)](Transmuter's_Stone_(disambiguation)..md)
+This article is about the ability. For the item created by it, see [Transmuter's Stone (Acid)](Transmuter's_Stone_(Acid)..md) For other uses, see [Transmuter's Stone (disambiguation)](Transmuter's_Stone_(disambiguation).md)
 
 **变形术士之石：强酸抗性** 是 [变形术士之石](Transmuter's_Stone.md "变形术士之石") 的一种变体，它使你在被强酸攻击击中时承受一半伤害。
 

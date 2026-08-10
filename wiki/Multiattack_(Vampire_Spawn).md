@@ -1,6 +1,6 @@
 # 多重攻击 (吸血鬼衍体)
 
-本文介绍吸血鬼衍体使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍吸血鬼衍体使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是[吸血鬼衍体](Vampire_spawn.md "吸血鬼衍体")可用的动作，允许它们对处于[吸过血](Blood-Sapped_(Condition).md "吸过血 (状态)")状态或生命值低于50%的目标进行两次攻击。
 

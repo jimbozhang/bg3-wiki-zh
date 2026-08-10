@@ -1,6 +1,6 @@
 # 多重攻击 (泥巴元素生物)
 
-本文介绍泥巴元素生物使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍泥巴元素生物使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击** 是一种动作，允许 [泥巴元素生物](Mud_Elemental.md "泥巴元素生物") 殴打陷入 [泥巴](Mud.md "泥巴") 或被 [泥魔蝠](Mud_Mephit.md "泥魔蝠") 造成 [泥泞](Muddy_(Condition).md "泥泞 (状态)") 状态的敌人。
 

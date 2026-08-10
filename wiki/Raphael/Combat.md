@@ -99,7 +99,7 @@
 
 - [**地狱惩戒**](../Infernal_Retribution.md "地狱惩戒")
 
-在成功[豁免](../Saving_throw.md "豁免")时，对强制豁免的施法者施加[燃烧](../Burning_(Orthonic)_(Condition)状态.md)。
+在成功[豁免](../Saving_throw.md "豁免")时，对强制豁免的施法者施加[燃烧](../Burning_(Orthonic)_(Condition).md)。
 
 - [**魔法抗性**](../Magic_Resistance.md "魔法抗性")
 
@@ -191,7 +191,7 @@
 
 - [**地狱惩戒**](../Infernal_Retribution.md "地狱惩戒")
 
-在成功[豁免](../Saving_throw.md "豁免")时，对强制豁免的施法者施加[燃烧](../Burning_(Orthonic)_(Condition)状态.md)。
+在成功[豁免](../Saving_throw.md "豁免")时，对强制豁免的施法者施加[燃烧](../Burning_(Orthonic)_(Condition).md)。
 
 - [**魔法抗性**](../Magic_Resistance.md "魔法抗性")
 
@@ -283,7 +283,7 @@
 
 - [**地狱惩戒**](../Infernal_Retribution.md "地狱惩戒")
 
-在成功[豁免](../Saving_throw.md "豁免")时，对强制豁免的施法者施加[燃烧](../Burning_(Orthonic)_(Condition)状态.md)。
+在成功[豁免](../Saving_throw.md "豁免")时，对强制豁免的施法者施加[燃烧](../Burning_(Orthonic)_(Condition).md)。
 
 - [**魔法抗性**](../Magic_Resistance.md "魔法抗性")
 
@@ -375,7 +375,7 @@
 
 - [**地狱惩戒**](../Infernal_Retribution.md "地狱惩戒")
 
-在成功[豁免](../Saving_throw.md "豁免")时，对强制豁免的施法者施加[燃烧](../Burning_(Orthonic)_(Condition)状态.md)。
+在成功[豁免](../Saving_throw.md "豁免")时，对强制豁免的施法者施加[燃烧](../Burning_(Orthonic)_(Condition).md)。
 
 - [**魔法抗性**](../Magic_Resistance.md "魔法抗性")
 

@@ -149,7 +149,7 @@ _"当它举起护盾时，用你拥有的每一丝魔法和力量攻击它——
 ## 注释
 
 - 在非战斗状态下，赞纳在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")实验室层的某些部分有轻微的环境对话，将钢铁卫士铸造厂的故事与第二幕的某些事件和角色联系起来。
-- 赞纳的目盲状态与[目盲](Blinded_(status_group)不同.md)，无法直接治愈。此外，如果他没有同时处于[患病](Diseased_(status_group).md)、[中毒](Poisoned_(status_group).md)、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[目盲](Blinded_(status_group)状态.md)，则无法对他施放[恢复](Lesser_Restoration.md "恢复")。然而，如果他的特定目盲形式被另一个共享相同StackID的目盲形式覆盖（例如来自[黑暗箭](Arrow_of_Darkness.md "黑暗箭")或[黑暗术](Darkness.md "黑暗术")），清除新获得的目盲来源会完全移除该状态——尽管他仍保留眼罩。
+- 赞纳的目盲状态与[目盲](Blinded_(status_group).md)，无法直接治愈。此外，如果他没有同时处于[患病](Diseased_(status_group).md)、[中毒](Poisoned_(status_group).md)、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[目盲](Blinded_(status_group).md)，则无法对他施放[恢复](Lesser_Restoration.md "恢复")。然而，如果他的特定目盲形式被另一个共享相同StackID的目盲形式覆盖（例如来自[黑暗箭](Arrow_of_Darkness.md "黑暗箭")或[黑暗术](Darkness.md "黑暗术")），清除新获得的目盲来源会完全移除该状态——尽管他仍保留眼罩。
 
 ## 错误
 

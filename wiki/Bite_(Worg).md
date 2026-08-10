@@ -1,6 +1,6 @@
 # 啃咬 (座狼)
 
-本文介绍的是白座狼使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation)..md)
+本文介绍的是白座狼使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation).md)
 
 **啃咬**是[白座狼](Worg_(white).md "Worg (white)")可用的基础攻击。它比普通座狼使用的[啃咬](Bite_(Wolf).md "Bite (Wolf)")要强得多。
 

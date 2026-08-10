@@ -1,6 +1,6 @@
 # 天崩手套
 
-天崩手套是一副[手套](Gloves.md "Gloves")，当穿戴者造成[雷鸣](Thunder.md "Thunder")、[闪电](Lightning.md "Lightning")或[光耀](Radiant.md "Radiant")伤害时，会施加[残响](Reverberation_(Condition)状态.md)。
+天崩手套是一副[手套](Gloves.md "Gloves")，当穿戴者造成[雷鸣](Thunder.md "Thunder")、[闪电](Lightning.md "Lightning")或[光耀](Radiant.md "Radiant")伤害时，会施加[残响](Reverberation_(Condition).md "残响 (状态)")。
 
 戴上这副手套后握紧拳头，会听到一阵洪亮的钟声，如同暴风雨与教堂钟声的融合，在颅内回荡。
 

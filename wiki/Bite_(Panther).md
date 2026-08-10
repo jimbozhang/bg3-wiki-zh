@@ -1,6 +1,6 @@
 # 啃咬（黑豹）
 
-本文介绍的是黑豹使用的啃咬变体。其他用法，请参见[啃咬（消歧义）](Bite_(disambiguation)..md)
+本文介绍的是黑豹使用的啃咬变体。其他用法，请参见[啃咬（消歧义）](Bite_(disambiguation).md)
 
 **啃咬**是[荒野形态：黑豹](Wild_Shape_colon__Panther.md "荒野形态：黑豹")形态下的基础攻击。
 

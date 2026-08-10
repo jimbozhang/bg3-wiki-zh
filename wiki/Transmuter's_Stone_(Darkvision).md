@@ -1,6 +1,6 @@
 # 变形术士之石（高级黑暗视觉）
 
-本文是关于该物品的。关于创造它的能力，请参见 [变形术士之石：高级黑暗视觉](Transmuter's_Stone_colon__Darkvision.md "变形术士之石：高级黑暗视觉")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation)..md)
+本文是关于该物品的。关于创造它的能力，请参见 [变形术士之石：高级黑暗视觉](Transmuter's_Stone_colon__Darkvision.md "变形术士之石：高级黑暗视觉")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation).md)
 
 **变形术士之石**是一块由 [变形学派](Transmutation_School.md "变形学派") 法师注入魔法的石头，可为持有者提供 [高级黑暗视觉](Darkvision.md "高级黑暗视觉")。变形学派法师可以使用 [变形术士之石](Transmuter's_Stone.md "变形术士之石") 创造此类石头。
 

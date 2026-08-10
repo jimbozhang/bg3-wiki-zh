@@ -1,6 +1,6 @@
 # 恐怖映射：疾病
 
-关于其他版本的恐怖映射，请参见 [恐怖映射（消歧义）](Mapped_Terror_(disambiguation)..md)
+关于其他版本的恐怖映射，请参见 [恐怖映射（消歧义）](Mapped_Terror_(disambiguation).md)
 
 **恐怖映射：疾病** 是一个 [法术](Spells.md "法术")。此法术以疾病不可抗拒的恐怖使目标陷入 [恐慌](Frightened.md "Frightened")，并对其施加恶毒的腐烂疾病。此法术无法被队伍成员学习。
 

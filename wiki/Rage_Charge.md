@@ -13,7 +13,7 @@
 | [狂暴：狂野魔法](Rage_colon__Wild_Magic.md "狂暴：狂野魔法") | [狂暴](Rage_(Condition).md "狂暴 (状态)") 持续时间：10 回合 近战和即兴武器、徒手打击以及投掷物品时造成额外 2 点伤害（9 级时增加至 3 点）。获得对[物理](Physical.md "物理")伤害的[抗性](Resistance.md "抗性")，以及力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")的[优势](Advantage.md "优势")。无法施放或专注[法术](Spells.md "法术")。同时从[狂野魔法表](Rage_colon__Wild_Magic.md "狂暴：狂野魔法")中随机抽取一个效果，在狂暴持续期间生效。 | 职业等级 3 [荒蛮之心](Wildheart.md "荒蛮之心") |  |
 | [激怒](Enrage.md "激怒") | [枭熊之怒](Owlbear's_Rage_(Condition).md "枭熊之怒 (状态)") 持续时间：3 回合 枭熊被激怒！[力量](Strength.md "力量")和[体质](Constitution.md "体质")增加 2 点，并获得 12 点[临时生命值](Temporary_Hit_Points.md "临时生命值")。枭熊获得对所有[物理](Physical.md "物理")伤害的[抗性](Resistance.md "抗性")TTactician [恐惧](Fearful_(Condition).md "恐惧 (状态)") 持续时间：1 回合 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 17）⁠半径：4 米（13 英尺）[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。必须逃离恐惧来源，且无法进行任何额外动作。如果目标在其回合结束时远离恐惧来源的视线，可进行[豁免检定](Saving_throw.md "豁免检定")以摆脱此效果。狂暴应用于使用者，恐惧应用于敌人。 | 职业等级 6 [德鲁伊](Druid.md "德鲁伊")作为[荒野形态：枭熊](Wild_Shape_colon__Owlbear.md "荒野形态：枭熊")的一部分 |  |
 
-本文讨论的是资源。关于基础野蛮人动作，请参见[狂暴](Rage.md "狂暴")。其他用法，请参见[狂暴 (消歧义)](Rage_(disambiguation)..md)
+本文讨论的是资源。关于基础野蛮人动作，请参见[狂暴](Rage.md "狂暴")。其他用法，请参见[狂暴 (消歧义)](Rage_(disambiguation).md)
 
 **狂暴次数**是[野蛮人](Barbarian.md "野蛮人")职业专属资源。
 

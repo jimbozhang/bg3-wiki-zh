@@ -1,6 +1,6 @@
 # 识破隐形 (职业动作)
 
-本文介绍的是幻术学派法师的职业动作。其他用法，请参见 [识破隐形 (消歧义)](See_Invisibility_(disambiguation)..md)
+本文介绍的是幻术学派法师的职业动作。其他用法，请参见 [识破隐形 (消歧义)](See_Invisibility_(disambiguation).md)
 
 **识破隐形**是 [幻术学派](Illusion_School.md "幻术学派") 法师在 6 级时获得的职业动作。它让这些法师能够看到附近的隐形生物和物体，直到 [长休](Long_Rest.md "长休")。效果等同于法术 [识破隐形](See_Invisibility_(spell).md "识破隐形 (法术)")。
 

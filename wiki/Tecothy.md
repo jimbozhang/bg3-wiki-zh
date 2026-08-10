@@ -39,7 +39,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-**塔科希**是[幽暗地域](Underdark.md "幽暗地域")的一名[卓尔](Drow.md "卓尔")游侠，目前处于[石化](Petrified_(Condition)状态.md)。
+**塔科希**是[幽暗地域](Underdark.md "幽暗地域")的一名[卓尔](Drow.md "卓尔")游侠，目前处于[石化](Petrified_(Condition).md)。
 
 ## 目录
 

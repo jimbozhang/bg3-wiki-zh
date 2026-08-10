@@ -25,7 +25,7 @@
 
 _关于无所畏惧：_
 
-- **无所畏惧**可防止陷入[恐慌](Frightened_(status_group).md)或[逃跑](Fleeing_(status_group)状态组中的任何状态.md)，以及[狂笑](Hideous_Laughter_(Condition).md "狂笑（状态）")。
+- **无所畏惧**可防止陷入[恐慌](Frightened_(status_group).md)或[逃跑](Fleeing_(status_group)状态组中的任何.md)，以及[狂笑](Hideous_Laughter_(Condition).md "狂笑（状态）")。
 
 ---
 *Source: [Dauntless Amulet](https://bg3.wiki/wiki/Dauntless_Amulet)*

@@ -1,6 +1,6 @@
 # 奥术热能手套
 
-奥术热能手套是一副[手套](Gloves.md "Gloves")，当穿戴者造成[火焰](Fire.md "火焰")伤害时，会获得2回合的[灼热](Heat_(Condition)状态.md)。
+奥术热能手套是一副[手套](Gloves.md "Gloves")，当穿戴者造成[火焰](Fire.md "火焰")伤害时，会获得2回合的[灼热](Heat_(Condition).md)。
 
 灰烬覆盖着手套的指尖，使其接缝处变得暗淡。
 

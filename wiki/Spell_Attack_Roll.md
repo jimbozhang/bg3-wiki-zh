@@ -1,6 +1,6 @@
 # 攻击
 
-「攻击」重定向至此。关于近战攻击，请参见 [主手攻击](Main_Hand_Attack.md "主手攻击")。关于远程攻击，请参见 [远程攻击](Ranged_Attack.md "远程攻击")。关于近战附赠攻击，请参见 [副手攻击（近战）](Off-Hand_Attack_(Melee)..md)。关于远程附赠攻击，请参见 [副手攻击（远程）](Off-Hand_Attack_(Ranged)..md)。关于其他用途，请参见 [攻击（消歧义）](Attack_(disambiguation)..md)
+「攻击」重定向至此。关于近战攻击，请参见 [主手攻击](Main_Hand_Attack.md "主手攻击")。关于远程攻击，请参见 [远程攻击](Ranged_Attack.md "远程攻击")。关于近战附赠攻击，请参见 [副手攻击（近战）](Off-Hand_Attack_(Melee)..md)。关于远程附赠攻击，请参见 [副手攻击（远程）](Off-Hand_Attack_(Ranged)..md)。关于其他用途，请参见 [攻击（消歧义）](Attack_(disambiguation).md)
 
 **攻击**是[生物](Creatures.md "生物")试图击中目标的尝试，通常使用[武器](Weapon.md "武器")或[法术](Spells.md "法术")。
 

@@ -39,7 +39,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害有[抗性](Resistance.md "抗性")。
+[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition).md)，并对[中毒](Poison.md "中毒")伤害有[抗性](Resistance.md "抗性")。
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -51,7 +51,7 @@
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition)状态.md)，并对[中毒](Poison.md "中毒")伤害有[抗性](Resistance.md "抗性")。
+[优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition).md)，并对[中毒](Poison.md "中毒")伤害有[抗性](Resistance.md "抗性")。
 
 **巴伦·骨篷**是在[恐怖窟窿](Dread_Hollow.md "恐怖窟窿")中发现的矮人。他被困在[蕈人殖民地](Myconid_Colony.md "蕈人殖民地")西北方向的[噼啪砰洞穴](Underdark.md#Bibberbang_Grotto "幽暗地域")中，这与他的妻子[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")交给的⁠[找到蘑菇猎人](Find_the_Mushroom_Picker.md "找到蘑菇猎人")任务相关。如果他在这次遭遇中幸存下来，他最终会搬迁到[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的[白骨斗篷药材店](Bonecloak's_Apothecary.md "白骨斗篷药材店")。
 

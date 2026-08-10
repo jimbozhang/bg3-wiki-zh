@@ -1,6 +1,6 @@
 # 虫群瘟疫
 
-本文介绍的是法术。其他用法，请参见[虫群瘟疫（消歧义）](Insect_Plague_(disambiguation)..md)
+本文介绍的是法术。其他用法，请参见[虫群瘟疫（消歧义）](Insect_Plague_(disambiguation).md)
 
 **虫群瘟疫**是一个[法术](Spells.md "法术")。它允许施法者在战场的一部分区域创造一个具有伤害和削弱效果的昆虫群。
 

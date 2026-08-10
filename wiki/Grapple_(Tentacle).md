@@ -1,6 +1,6 @@
 # 擒抱 (触手)
 
-本文介绍触手使用的擒抱动作。其他用法，请参见 [擒抱 (消歧义)](Grapple_(disambiguation)..md)
+本文介绍触手使用的擒抱动作。其他用法，请参见 [擒抱 (消歧义)](Grapple_(disambiguation).md)
 
 **擒抱**是[触手](Tentacle.md "触手")可用的[职业动作](Class_action.md "职业动作")，可对触及范围内的生物造成伤害并使其失能。触手也会将此动作用作[借机攻击](Opportunity_Attack.md "借机攻击")。
 

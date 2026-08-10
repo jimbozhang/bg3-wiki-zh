@@ -1,6 +1,6 @@
 # 啃咬 (狼)
 
-本文介绍狼和座狼使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation)..md)
+本文介绍狼和座狼使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation).md)
 
 **啃咬**是[狼](Wolf.md "狼")和[座狼](Worg.md "座狼")，包括[狼伙伴](Wolf_Companion.md "狼伙伴")可用的基本攻击。
 

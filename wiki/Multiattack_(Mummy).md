@@ -1,6 +1,6 @@
 # 多重攻击 (木乃伊)
 
-本文介绍木乃伊使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍木乃伊使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是[木乃伊](Mummy_(Race)可用的动作.md)，允许它们对处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态的目标造成两次伤害。
 

@@ -1,6 +1,6 @@
 # 掘穴 (鲨蜥兽)
 
-本文介绍的是鲨蜥兽可用的该能力版本。其他用法，请参见 [掘穴 (消歧义)](Burrow_(disambiguation)..md)
+本文介绍的是鲨蜥兽可用的该能力版本。其他用法，请参见 [掘穴 (消歧义)](Burrow_(disambiguation).md)
 
 **掘穴**是[鲨蜥兽](Bulette.md "鲨蜥兽")的[职业](Class.md "职业")动作。它会在战斗两[驱散](Turn.md "驱散")后使用此能力逃脱。<sup>[\[1\]](#cite_note-1)</sup>
 

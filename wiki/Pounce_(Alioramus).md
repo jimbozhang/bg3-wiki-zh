@@ -1,6 +1,6 @@
 # 猛扑 (分支龙)
 
-本文介绍分支龙的动作。其他用法，请参见 [猛扑 (消歧义)](Pounce_(disambiguation)..md)
+本文介绍分支龙的动作。其他用法，请参见 [猛扑 (消歧义)](Pounce_(disambiguation).md)
 
 **猛扑** 是一种动作，允许 [分支龙](Alioramus.md "分支龙") 跳向敌人。
 

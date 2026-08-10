@@ -1,6 +1,6 @@
 # 变形术士之石 (被动特性)
 
-本文介绍的是被动特性。如需其他用途，请参见[变形术士之石 (消歧义)](Transmuter's_Stone_(disambiguation)..md)
+本文介绍的是被动特性。如需其他用途，请参见[变形术士之石 (消歧义)](Transmuter's_Stone_(disambiguation).md)
 
 **变形术士之石**允许变形学派法师创造变形术士之石。
 

@@ -1,6 +1,6 @@
 # 识破隐形（法术）
 
-本文介绍的是法术。其他用法，请参见[识破隐形（消歧义）](See_Invisibility_(disambiguation)..md)
+本文介绍的是法术。其他用法，请参见[识破隐形（消歧义）](See_Invisibility_(disambiguation).md)
 
 **识破隐形**是一个[法术](Spells.md "法术")。它允许施法者在未[失能](Incapacitated_(Condition).md "失能（状态）")时，看到范围内的[隐形](Invisible_(Condition).md "隐形（状态）")物体和生物。范围内未通过敏捷豁免检定的生物将失去其[隐形](Invisible_(Condition).md "隐形（状态）")状态。
 

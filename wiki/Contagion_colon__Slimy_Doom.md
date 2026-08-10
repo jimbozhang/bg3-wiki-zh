@@ -38,7 +38,7 @@
 持续时间：永久
 
 - 受影响的实体渗出蜡状、球状的血液。它在进行[体质](Constitution.md "Constitution")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")时具有[劣势](Disadvantage.md "Disadvantage")。
-- 此外，每当其受到伤害时，它会进入[震慑](Stunned_(Condition)状态.md)，直到其下一回合结束。
+- 此外，每当其受到伤害时，它会进入[震慑](Stunned_(Condition).md)，直到其下一回合结束。
 
 ## 如何习得
 

@@ -1,6 +1,6 @@
 # 多重攻击 (岩浆元素)
 
-本文介绍岩浆元素使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍岩浆元素使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击** 是一个职业动作，允许 [岩浆元素](Lava_Elemental.md "岩浆元素") 对敌人进行两次攻击。
 

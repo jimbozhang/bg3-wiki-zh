@@ -1,6 +1,6 @@
 # 燃烬靴
 
-燃烬靴是一双[靴子](Boots.md "靴子")，当穿着者[燃烧](Burning_(Condition)敌人时.md)，会获得[灼热](Heat_(Condition)状态.md)。
+燃烬靴是一双[靴子](Boots.md "靴子")，当穿着者[燃烧](Burning_(Condition)敌人时.md)，会获得[灼热](Heat_(Condition).md)。
 
 尽管有许多烧焦的痕迹，这双皮靴不知何故仍然柔韧完好。
 

@@ -1,6 +1,6 @@
 # 火焰吐息 (龙)
 
-本文介绍龙使用的火焰吐息攻击。其他用法，请参见 [火焰吐息 (消歧义)](Fire_Breath_(disambiguation)..md)
+本文介绍龙使用的火焰吐息攻击。其他用法，请参见 [火焰吐息 (消歧义)](Fire_Breath_(disambiguation).md)
 
 **火焰吐息**是 [奎德诺斯](Qudenos.md "奎德诺斯") 和 [受控红龙](Dominated_Red_Dragon.md "受控红龙") 可用的独特职业动作。当状态 [传奇动作：龙之狂怒](Legendary_Action_colon__Draconic_Fury_(Condition).md "传奇动作：龙之狂怒 (状态)") 激活时，也可用作被攻击时的反应。
 

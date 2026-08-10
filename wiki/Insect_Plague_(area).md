@@ -1,6 +1,6 @@
 # 虫群瘟疫 (区域)
 
-本文介绍的是由法术创造的区域。关于法术本身，请参见 [虫群瘟疫](Insect_Plague.md "虫群瘟疫")。关于其他用途，请参见 [虫群瘟疫 (消歧义)](Insect_Plague_(disambiguation)..md)
+本文介绍的是由法术创造的区域。关于法术本身，请参见 [虫群瘟疫](Insect_Plague.md "虫群瘟疫")。关于其他用途，请参见 [虫群瘟疫 (消歧义)](Insect_Plague_(disambiguation).md)
 
 **虫群瘟疫** 是由 [虫群瘟疫](Insect_Plague.md "虫群瘟疫") 法术创造的 [区域](Area.md "Area")。它创造了一个造成伤害的刀刃区域，对所有进入其中的单位造成伤害。
 

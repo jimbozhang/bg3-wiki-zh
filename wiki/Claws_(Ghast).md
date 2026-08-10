@@ -1,6 +1,6 @@
 # 爪击 (妖鬼)
 
-本文介绍的是妖鬼使用的版本。其他用法，请参见 [爪击（消歧义）](Claws_(disambiguation)..md)
+本文介绍的是妖鬼使用的版本。其他用法，请参见 [爪击（消歧义）](Claws_(disambiguation).md)
 
 **爪击**是[妖鬼](Ghast.md "妖鬼")可用的基础攻击。这是一种徒手近战攻击，造成[挥砍](Slashing.md "挥砍")伤害，并可能使目标[麻痹](Paralysed_(Condition).md "麻痹（状态）")。
 

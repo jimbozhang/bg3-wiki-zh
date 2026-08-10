@@ -1,6 +1,6 @@
 # 多重攻击 (伯纳德)
 
-本文介绍的是伯纳德使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍的是伯纳德使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击** 是一项职业动作，允许 [伯纳德](Bernard.md "伯纳德") 在 [静电过载](Static_Overdrive.md "静电过载") 状态下对敌人进行两次攻击。
 

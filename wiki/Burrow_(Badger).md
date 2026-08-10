@@ -1,6 +1,6 @@
 # 掘穴 (獾)
 
-本文介绍的是巨型獾可用的版本。其他用法，请参见 [掘穴 (消歧义)](Burrow_(disambiguation)..md)
+本文介绍的是巨型獾可用的版本。其他用法，请参见 [掘穴 (消歧义)](Burrow_(disambiguation).md)
 
 **掘穴** 是 [荒野形态：獾](Wild_Shape_colon__Badger.md "荒野形态：獾") 动作。獾使用此能力掘入地下并穿越地形。
 

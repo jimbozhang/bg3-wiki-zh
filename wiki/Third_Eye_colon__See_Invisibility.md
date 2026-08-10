@@ -1,6 +1,6 @@
 # 第三只眼：识破隐形
 
-本文介绍的是预言学派法师的职业动作。其他用法，请参见[识破隐形（消歧义）](See_Invisibility_(disambiguation)..md)
+本文介绍的是预言学派法师的职业动作。其他用法，请参见[识破隐形（消歧义）](See_Invisibility_(disambiguation).md)
 
 **第三只眼：识破隐形**是[预言学派](Divination_School.md "预言学派")法师的职业动作，它使你能够看到附近的隐形生物，直到长休结束。它类似于法术[识破隐形](See_Invisibility_(spell).md "识破隐形（法术）")。
 

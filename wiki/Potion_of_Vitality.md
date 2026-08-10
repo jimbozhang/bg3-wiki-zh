@@ -15,7 +15,7 @@
 
 [附赠动作](Actions.md#Resources "动作")
 
-- 消耗药水以治愈自身任何[中毒](Poisoned_(status_group).md)或[患病](Diseased_(status_group)状态.md)
+- 消耗药水以治愈自身任何[中毒](Poisoned_(status_group).md)或[患病](Diseased_(status_group).md)
 
 [动作](Actions.md#Resources "动作")
 

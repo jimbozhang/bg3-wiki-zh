@@ -14,7 +14,7 @@
 
 ## 备注
 
-- 阻挡[劣势地形](Difficult_Terrain_(status_group)状态组中的所有状态.md)。
+- 阻挡[劣势地形](Difficult_Terrain_(status_group)状态组中的所有.md)。
 
 ## 简要预览
 

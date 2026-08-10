@@ -105,7 +105,7 @@
 射程：18 米 (60 英尺)
 
 [恢复](Lesser_Restoration.md "Lesser Restoration") (+ )
-治愈一个生物的[患病](Diseased_(status_group).md)、[中毒](Poisoned_(status_group).md)、[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")或[目盲](Blinded_(status_group)状态.md)。
+治愈一个生物的[患病](Diseased_(status_group).md)、[中毒](Poisoned_(status_group).md)、[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")或[目盲](Blinded_(status_group).md)。
 
 近战：1.5 米 (5 英尺)
 

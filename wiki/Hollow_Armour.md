@@ -102,7 +102,7 @@
 
 ## 备注
 
-- 中空护甲对[目盲](Blinded_(Condition).md "目盲 (状态)")状态免疫，但对[相应状态组](Blinded_(status_group)中的类似状态.md)（如[失明术](Blindness_(Condition).md "失明术 (状态)")）不免疫。
+- 中空护甲对[目盲](Blinded_(Condition).md "目盲 (状态)")状态免疫，但对[相应状态组](Blinded_(status_group)中的类似.md)（如[失明术](Blindness_(Condition).md "失明术 (状态)")）不免疫。
 - [幽影活化（状态）](Shadow-Animated_(Condition)的工具提示中提.md)到“提升统计”，暗示此生物在被幽影诅咒活化前曾是[活化护甲](Animated_Armour.md "活化护甲")。
 - 推测此护甲属于[奥拉姆](Olam.md "奥拉姆")，一名同样在治疗中心停尸房被发现的死去的[阿斯莫](Aasimar.md "阿斯莫")哈贝尔。
 

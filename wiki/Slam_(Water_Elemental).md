@@ -1,6 +1,6 @@
 # 猛击 (水元素)
 
-本文介绍的是水元素使用的攻击版本。其他用法请参见 [猛击 (消歧义)](Slam_(disambiguation)..md)
+本文介绍的是水元素使用的攻击版本。其他用法请参见 [猛击 (消歧义)](Slam_(disambiguation).md)
 
 **猛击**是[水元素](Water_Elemental.md "水元素")使用的基本攻击。这是一种徒手近战攻击，会使目标[冻僵](Chilled_(Condition).md "冻僵 (状态)")，使其易受水元素的[多重攻击](Multiattack_(Water_Elemental).md "多重攻击 (水元素)")影响。
 

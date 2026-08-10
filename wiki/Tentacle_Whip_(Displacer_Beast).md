@@ -1,6 +1,6 @@
 # 触手鞭 (移位兽)
 
-本文介绍的是移位兽使用的攻击。其他用途，请参见 [触手鞭 (消歧义)](Tentacle_Whip_(disambiguation)..md)
+本文介绍的是移位兽使用的攻击。其他用途，请参见 [触手鞭 (消歧义)](Tentacle_Whip_(disambiguation).md)
 
 **触手鞭**是[移位兽](Displacer_Beast.md "移位兽")可用的基本攻击。这是一种具有延长范围的徒手近战攻击，造成[钝击](Bludgeoning.md "钝击")和[穿刺](Piercing.md "穿刺")两种伤害。
 

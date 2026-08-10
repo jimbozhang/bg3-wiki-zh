@@ -2,7 +2,7 @@
 
 **绞杀术状态**
 
-- 受影响实体正被绞杀术勒住。它处于[沉默](Silenced_(Condition)状态.md)，并且每回合受到3d6⁠⁠[钝击](Bludgeoning.md "Bludgeoning")伤害。
+- 受影响实体正被绞杀术勒住。它处于[沉默](Silenced_(Condition).md)，并且每回合受到3d6⁠⁠[钝击](Bludgeoning.md "Bludgeoning")伤害。
 - 在状态结束前，实体和施术者都无法移动。
 - 如果实体和施术者被强制移动超过5米（17英尺）远，此状态结束。
 
@@ -32,7 +32,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体正被绞杀术勒住。它处于[沉默](Silenced_(Condition)状态.md)，并且每回合受到3d6⁠⁠[钝击](Bludgeoning.md "Bludgeoning")伤害。
+- 受影响实体正被绞杀术勒住。它处于[沉默](Silenced_(Condition).md)，并且每回合受到3d6⁠⁠[钝击](Bludgeoning.md "Bludgeoning")伤害。
 - 在状态结束前，实体和施术者都无法移动。
 - 如果实体和施术者被强制移动超过5米（17英尺）远，此状态结束。
 

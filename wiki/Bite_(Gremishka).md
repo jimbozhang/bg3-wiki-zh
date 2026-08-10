@@ -1,6 +1,6 @@
 # 啃咬 (小法妖)
 
-本文介绍的是小法妖使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation)..md)
+本文介绍的是小法妖使用的啃咬变体。其他用法，请参见 [啃咬 (消歧义)](Bite_(disambiguation).md)
 
 **啃咬**是[小法妖](Gremishka.md "小法妖")可用的基本攻击，可造成[穿刺](Piercing.md "Piercing")和[力场](Force.md "Force")伤害。
 

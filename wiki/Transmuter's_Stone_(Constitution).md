@@ -1,6 +1,6 @@
 # 变形术士之石（体质）
 
-本文介绍的是物品。关于创造它的能力，请参见 [变形术士之石：体质](Transmuter's_Stone_colon__Constitution.md "变形术士之石：体质")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation)..md)
+本文介绍的是物品。关于创造它的能力，请参见 [变形术士之石：体质](Transmuter's_Stone_colon__Constitution.md "变形术士之石：体质")。关于其他用途，请参见 [变形术士之石（消歧义）](Transmuter's_Stone_(disambiguation).md)
 
 **变形术士之石**是一块由 [变形学派](Transmutation_School.md "变形学派") 法师注入魔法的石头，它能为持有者提供 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 的 [熟练项](Proficiency.md "熟练项")。变形学派法师可以用 [变形术士之石](Transmuter's_Stone.md "变形术士之石") 创造这种石头。
 

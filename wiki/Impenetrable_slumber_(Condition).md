@@ -8,7 +8,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_昏迷](SG_昏迷.md "SG 昏迷"), [SG_状态](SG_状态.md "SG 状态")
+[状态组](Status_groups.md "状态组"): [SG_昏迷](SG_昏迷.md "SG 昏迷"), [SG_状态](SG_Condition.md "SG 状态")
 
 ## 不可唤醒的沉睡来源
 

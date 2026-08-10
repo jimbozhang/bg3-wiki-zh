@@ -1,6 +1,6 @@
 # 猛扑
 
-本文介绍黑豹的攻击。其他用法请参见 [猛扑（消歧义）](Pounce_(disambiguation)..md)
+本文介绍黑豹的攻击。其他用法请参见 [猛扑（消歧义）](Pounce_(disambiguation).md)
 
 **猛扑**是 [荒野形态：黑豹](Wild_Shape_colon__Panther.md "Wild Shape: Panther") 形态下可用的动作。它可以用来使目标 [倒伏](Prone_(Condition).md "Prone (Condition)")，使其易受 [锁喉扑击](Jugular_Strike.md "Jugular Strike") 攻击。
 

@@ -23,7 +23,7 @@
 
 持续时间：50 驱散
 
-- [护甲等级](Armour_Class.md "护甲等级")降低 2。无法进行[反应](Reactions_(disambiguation)..md)
+- [护甲等级](Armour_Class.md "护甲等级")降低 2。无法进行[反应](Reactions_(disambiguation).md)
 
 ## 获取地点
 

@@ -1,6 +1,6 @@
 # 啃咬 (剑齿虎)
 
-本文介绍的是荒野形态：剑齿虎形态下的啃咬变体。其他用法请参见 [啃咬 (消歧义)](Bite_(disambiguation)..md)
+本文介绍的是荒野形态：剑齿虎形态下的啃咬变体。其他用法请参见 [啃咬 (消歧义)](Bite_(disambiguation).md)
 
 **啃咬**是[荒野形态：剑齿虎](Wild_Shape_colon__Sabre-Toothed_Tiger.md "荒野形态：剑齿虎")形态下的基础攻击。它有几率使目标[倒伏](Prone_(Condition).md "倒伏 (状态)")，使其易受[锁喉扑击](Jugular_Strike.md "锁喉扑击")影响。
 

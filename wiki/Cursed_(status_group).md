@@ -1,6 +1,6 @@
 # 诅咒（状态组）
 
-本文介绍的是状态组。其他用法，请参见 [诅咒（消歧义）](Cursed_(disambiguation)..md)
+本文介绍的是状态组。其他用法，请参见 [诅咒（消歧义）](Cursed_(disambiguation).md)
 
 **诅咒** 是一个 [状态组](Status_group.md "状态组")。它是一组在战斗中阻碍或伤害的魔法状态。
 
@@ -171,7 +171,7 @@
 
 | [吸取生命](Life_Drain_(Condition).md "吸取生命（状态）") | 生命值上限降低 2d8。如果生命值上限降至 0，生物将死亡。[遗失时光](Lost_Time_(Condition).md "遗失时光（状态）") |
 
-- [护甲等级](Armour_Class.md "护甲等级") 降低 2。无法执行 [反应](Reactions_(disambiguation)..md)
+- [护甲等级](Armour_Class.md "护甲等级") 降低 2。无法执行 [反应](Reactions_(disambiguation).md)
 
 [爱人的贪婪](Lover's_Avarice_(Condition).md "爱人的贪婪（状态）")
 |

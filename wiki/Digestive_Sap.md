@@ -1,6 +1,6 @@
 # 消化液
 
-**消化液**是[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")可用的类动作，可将附近的生物浸满消化液。这使得蔓生怪能够[吞噬](Devour_(Shambling_Mound).md "吞噬 (蔓生怪)")受影响的生物，前提是该生物也处于[束缚](Restrained_(status_group)状态.md)。
+**消化液**是[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")可用的类动作，可将附近的生物浸满消化液。这使得蔓生怪能够[吞噬](Devour_(Shambling_Mound).md "吞噬 (蔓生怪)")受影响的生物，前提是该生物也处于[束缚](Restrained_(status_group).md)。
 
 ## 描述
 

@@ -1,6 +1,6 @@
 # 信仰守卫
 
-本文介绍的是法术。其他用法，请参见 [信仰守卫（消歧义）](Guardian_of_Faith_(disambiguation)..md)
+本文介绍的是法术。其他用法，请参见 [信仰守卫（消歧义）](Guardian_of_Faith_(disambiguation).md)
 
 **信仰守卫**是一个[法术](Spells.md "法术")。它允许施法者召唤一个神圣守卫，该守卫会牺牲自己的生命值来伤害敌人。
 

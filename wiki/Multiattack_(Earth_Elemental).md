@@ -1,6 +1,6 @@
 # 多重攻击 (土元素)
 
-本文介绍土元素使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation)..md)
+本文介绍土元素使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
 **多重攻击**是[土元素](Earth_Elemental.md "土元素")使用的一种攻击。它允许它们攻击目标两次，对处于[倒伏](Prone_(Condition).md "倒伏 (状态)")状态的目标造成双倍伤害。
 

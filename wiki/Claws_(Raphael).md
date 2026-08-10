@@ -1,6 +1,6 @@
 # 爪击 (拉斐尔)
 
-本文介绍的是拉斐尔使用的版本。其他用法，请参见 [爪击 (消歧义)](Claws_(disambiguation)..md)
+本文介绍的是拉斐尔使用的版本。其他用法，请参见 [爪击 (消歧义)](Claws_(disambiguation).md)
 
 **爪击**是[拉斐尔](Raphael.md "拉斐尔")的一个职业动作，他有时会作为[反应](Actions.md#Resources "动作")使用。
 

@@ -1,6 +1,6 @@
 # 啃咬（恐狼）
 
-本文介绍的是恐狼使用的啃咬变体。其他用法，请参见[啃咬（消歧义）](Bite_(disambiguation)..md)
+本文介绍的是恐狼使用的啃咬变体。其他用法，请参见[啃咬（消歧义）](Bite_(disambiguation).md)
 
 **啃咬**是[恐狼](Dire_Wolf.md "恐狼")可用的基本攻击，包括在[荒野形态：狼](Wild_Shape_colon__Wolf.md "荒野形态：狼")形态下。
 
