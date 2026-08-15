@@ -4,8 +4,8 @@
 
 - 总文件数：14318
 - 缺失文件：0
-- 不对齐文件：10765
-- 潜在误译：12168
+- 不对齐文件：10748
+- 潜在误译：13278
 
 ## 不对齐文件
 
@@ -13,23 +13,17 @@
 |--------|----------|----------|------|
 | Elenna_Thrinn.md | 543 | 4 | 539 |
 | Sergeant_Thrinn.md | 543 | 4 | 539 |
-| Strange_Ox.md | 737 | 198 | 539 |
 | Thrinn.md | 543 | 4 | 539 |
 | Us.md | 642 | 153 | 489 |
 | Roah.md | 648 | 170 | 478 |
 | Roah_Moonglow.md | 648 | 170 | 478 |
 | Last_Light_Inn.md | 448 | 4 | 444 |
-| D&D_5e_class_changes.md | 1017 | 582 | 435 |
-| Spectator.md | 744 | 316 | 428 |
 | Phasm.md | 737 | 351 | 386 |
 | Zlorb.md | 737 | 351 | 386 |
-| Lord_Amber's_Bodyguard.md | 441 | 62 | 379 |
-| Yerle.md | 523 | 154 | 369 |
+| Guide_colon_Races_Guide_by_Phantomsplit.md | 563 | 182 | 381 |
 | Ch'r'ai_Har'rak.md | 591 | 223 | 368 |
 | Har'rak.md | 591 | 223 | 368 |
 | Mask_of_Terror_(The_Blushing_Mermaid).md | 472 | 111 | 361 |
-| Sh'ari.md | 451 | 90 | 361 |
-| Zelrin.md | 432 | 71 | 361 |
 | G'imre.md | 445 | 90 | 355 |
 | M'i'hayk.md | 475 | 122 | 353 |
 | Erna.md | 505 | 155 | 350 |
@@ -54,84 +48,41 @@
 | Lir'i'c.md | 492 | 180 | 312 |
 | Apostle_of_Myrkul.md | 564 | 257 | 307 |
 | Lady_Flux.md | 446 | 139 | 307 |
-| Ch'r'ai_Tska'an.md | 525 | 219 | 306 |
 | Omeluum.md | 494 | 188 | 306 |
+| Yerle.md | 523 | 219 | 304 |
 | Rolan.md | 712 | 409 | 303 |
 | Mystic_Carrion.md | 690 | 390 | 300 |
 | Carrion.md | 690 | 392 | 298 |
 | Ragzlin.md | 632 | 336 | 296 |
 | Dror_Ragzlin.md | 632 | 337 | 295 |
-| Ch'r'ai_W'wargaz.md | 546 | 254 | 292 |
-| Inquisitor_W'wargaz.md | 546 | 254 | 292 |
-| W'wargaz.md | 546 | 254 | 292 |
+| Ch'r'ai_Tska'an.md | 525 | 237 | 288 |
 | That_Which_Guards.md | 466 | 178 | 288 |
 | Rycke.md | 403 | 117 | 286 |
 | List_of_melee_weapons.md | 541 | 258 | 283 |
 | Skoona.md | 418 | 136 | 282 |
 | Nyk.md | 432 | 151 | 281 |
 | Ulma.md | 513 | 232 | 281 |
+| Hr'ack'la.md | 451 | 172 | 279 |
+| Kar'niss.md | 604 | 325 | 279 |
 | Nine-Fingers.md | 438 | 159 | 279 |
 | Nine-Fingers_Keene.md | 438 | 159 | 279 |
 | Nine_Fingers_Keene.md | 438 | 159 | 279 |
 | Guide_colon_Where_To_Find_Weapons.md | 406 | 128 | 278 |
 | Morgya.md | 431 | 154 | 277 |
 | Gleeful_Clong.md | 406 | 131 | 275 |
-| Lady_Croup.md | 373 | 98 | 275 |
-| Stalker_Svignee.md | 386 | 111 | 275 |
-| Bug_Bludgeon.md | 356 | 82 | 274 |
-| Charismatic_Sentinel.md | 355 | 81 | 274 |
-| Fishbait_Arno.md | 390 | 117 | 273 |
-| Hr'ack'la.md | 451 | 178 | 273 |
 | Luke.md | 317 | 47 | 270 |
-| Pollo_the_Muscle.md | 417 | 147 | 270 |
-| Old_Flake-Eyes.md | 470 | 201 | 269 |
 | Strangler_Luke.md | 317 | 48 | 269 |
-| Harper_Archer.md | 401 | 133 | 268 |
-| Cirian.md | 389 | 122 | 267 |
-| Glyria.md | 386 | 119 | 267 |
-| Jatlo.md | 350 | 83 | 267 |
-| Lord_Shattershield's_Attendant.md | 372 | 105 | 267 |
-| Helsik.md | 550 | 283 | 267 |
-| Shiv_Dahlia.md | 414 | 148 | 266 |
-| Way_of_the_Profane_Ki.md | 394 | 129 | 265 |
-| Flaming_Fist_Marcus.md | 527 | 264 | 263 |
-| Dimples_Backster.md | 359 | 96 | 263 |
-| Jord.md | 345 | 82 | 263 |
 | Marcus_Falgor.md | 527 | 265 | 262 |
-| Justiciar_Crusader_Nightmist.md | 344 | 82 | 262 |
-| Nightmist.md | 344 | 82 | 262 |
-| Faril.md | 489 | 229 | 260 |
-| Kevo_Phogge.md | 392 | 133 | 259 |
-| Qora.md | 325 | 67 | 258 |
-| Arden.md | 510 | 253 | 257 |
-| Derysia.md | 386 | 129 | 257 |
-| Eni.md | 439 | 182 | 257 |
-| Feona.md | 435 | 178 | 257 |
-| Fustian.md | 388 | 131 | 257 |
+| Ch'r'ai_W'wargaz.md | 546 | 289 | 257 |
+| Inquisitor_W'wargaz.md | 546 | 289 | 257 |
 | Lady_Ague.md | 299 | 42 | 257 |
 | Lady_Quinsy.md | 298 | 41 | 257 |
-| M'alice.md | 391 | 134 | 257 |
-| Laridda.md | 312 | 55 | 257 |
-| Nov_Shmoz.md | 393 | 136 | 257 |
-| Spaulder.md | 385 | 128 | 257 |
-| Zira.md | 548 | 291 | 257 |
+| W'wargaz.md | 546 | 289 | 257 |
+| Zelrin.md | 432 | 175 | 257 |
 | Disciple_Z'rell.md | 449 | 194 | 255 |
-| Lady_Durinbold's_Attendant.md | 357 | 102 | 255 |
-| Sumera.md | 401 | 146 | 255 |
-| Z'rell.md | 449 | 194 | 255 |
-| Aggy.md | 377 | 123 | 254 |
-| Jasin.md | 431 | 177 | 254 |
-| Niram.md | 511 | 257 | 254 |
 | Rylveth.md | 494 | 240 | 254 |
-| Rivington_rats.md | 357 | 103 | 254 |
-| Soreni.md | 542 | 288 | 254 |
-| Zenovia_Dawg.md | 357 | 103 | 254 |
-| Blythe.md | 382 | 129 | 253 |
-| Devella_Fountainhead.md | 543 | 290 | 253 |
-| Ghush'ins.md | 385 | 132 | 253 |
-| Hurk.md | 346 | 93 | 253 |
+| Helsik.md | 550 | 297 | 253 |
 | Aelis_Siryasius.md | 532 | 280 | 252 |
-| Funglesby.md | 425 | 173 | 252 |
 | Trinoda.md | 322 | 70 | 252 |
 | Balthazar.md | 634 | 383 | 251 |
 | Dominica_Arsetz.md | 420 | 169 | 251 |
@@ -141,65 +92,59 @@
 | Allandra_Grey.md | 443 | 193 | 250 |
 | Grumm.md | 385 | 135 | 250 |
 | Klaus.md | 379 | 129 | 250 |
-| Intelligent_Sentinel.md | 324 | 75 | 249 |
+| Shiv_Dahlia.md | 414 | 164 | 250 |
 | Fernhollow.md | 389 | 141 | 248 |
+| Faril.md | 489 | 241 | 248 |
+| Mask_of_Vengeance_(The_Blushing_Mermaid).md | 379 | 131 | 248 |
 | Serrik.md | 404 | 156 | 248 |
-| Zhendila.md | 378 | 130 | 248 |
 | Barcus.md | 400 | 153 | 247 |
 | Barcus_Wroot.md | 400 | 153 | 247 |
+| Arden.md | 510 | 263 | 247 |
 | Add'ath.md | 358 | 112 | 246 |
 | Wise_Sentinel.md | 331 | 85 | 246 |
 | Beldron.md | 335 | 90 | 245 |
 | Edenosa.md | 376 | 131 | 245 |
-| Culk.md | 423 | 178 | 245 |
 | Lord_Jannath's_Bodyguard.md | 421 | 176 | 245 |
-| Merony.md | 345 | 100 | 245 |
-| Moorcombe.md | 343 | 98 | 245 |
 | Manip_Edenosa.md | 376 | 131 | 245 |
+| Moorcombe.md | 343 | 98 | 245 |
 | Scarpers.md | 344 | 99 | 245 |
+| Stalker_Svignee.md | 386 | 141 | 245 |
 | Smathers.md | 295 | 50 | 245 |
 | Theoda.md | 295 | 50 | 245 |
-| Susdera.md | 367 | 122 | 245 |
 | Triava.md | 295 | 50 | 245 |
+| Bug_Bludgeon.md | 356 | 112 | 244 |
 | Grat_the_Trader.md | 408 | 164 | 244 |
-| Havkelaag.md | 424 | 180 | 244 |
-| Mask_of_Vengeance_(The_Blushing_Mermaid).md | 379 | 135 | 244 |
-| Taslim.md | 419 | 175 | 244 |
 | Arcagh.md | 369 | 126 | 243 |
 | Brinn.md | 470 | 227 | 243 |
-| Adrielle.md | 408 | 165 | 243 |
 | Ifran.md | 377 | 134 | 243 |
-| Ironhand_Grenadier.md | 372 | 129 | 243 |
 | Welso.md | 291 | 48 | 243 |
-| Black_Gauntlet_Ifran.md | 377 | 135 | 242 |
-| Broadhorn.md | 403 | 161 | 242 |
-| Arthus.md | 429 | 187 | 242 |
-| Ahu'u'rag.md | 349 | 107 | 242 |
-| Dollay.md | 293 | 51 | 242 |
 | Fist_Broadhorn.md | 403 | 161 | 242 |
-| Duckie_Verish.md | 380 | 138 | 242 |
-| Sarabayle.md | 379 | 137 | 242 |
-| Willinx_Jindlebee.md | 379 | 137 | 242 |
-| Baretha.md | 459 | 218 | 241 |
-| Bor.md | 424 | 183 | 241 |
+| Harper_Archer.md | 401 | 159 | 242 |
+| Cirian.md | 389 | 148 | 241 |
 | Farlin.md | 453 | 212 | 241 |
+| Jord.md | 345 | 104 | 241 |
 | Kressa_Bonedaughter.md | 448 | 207 | 241 |
+| Jatlo.md | 350 | 109 | 241 |
 | Kith'rak_Voss.md | 549 | 308 | 241 |
+| Lady_Croup.md | 373 | 132 | 241 |
 | Voss.md | 549 | 308 | 241 |
+| Way_of_the_Profane_Ki.md | 394 | 153 | 241 |
+| Havkelaag.md | 424 | 184 | 240 |
 | Lyrthindor.md | 439 | 199 | 240 |
+| Pollo_the_Muscle.md | 417 | 177 | 240 |
 | Sarth_Baretha.md | 459 | 219 | 240 |
 | Uva.md | 389 | 149 | 240 |
+| Fishbait_Arno.md | 390 | 151 | 239 |
 | Loretta.md | 325 | 86 | 239 |
 | Araj.md | 586 | 348 | 238 |
-| Calliope_Blingsdorf.md | 322 | 84 | 238 |
-| Abby.md | 372 | 134 | 238 |
-| Galleass.md | 318 | 80 | 238 |
-| Gruntman.md | 332 | 94 | 238 |
 | Liara_Portyr.md | 427 | 189 | 238 |
 | Morra.md | 317 | 79 | 238 |
 | Radija.md | 427 | 189 | 238 |
+| Taslim.md | 419 | 181 | 238 |
+| Flaming_Fist_Marcus.md | 527 | 290 | 237 |
+| Dimples_Backster.md | 359 | 122 | 237 |
+| Ironhand_Grenadier.md | 372 | 135 | 237 |
 | Benta.md | 365 | 129 | 236 |
-| Araj_Oblodra.md | 586 | 350 | 236 |
 | Brammels.md | 435 | 199 | 236 |
 | Dugg.md | 460 | 224 | 236 |
 | Edvidge.md | 446 | 210 | 236 |
@@ -213,6 +158,7 @@
 | Sluck.md | 398 | 163 | 235 |
 | Slick_Inatra.md | 503 | 268 | 235 |
 | Shekt.md | 419 | 184 | 235 |
+| Charismatic_Sentinel.md | 355 | 121 | 234 |
 | Dorikel.md | 402 | 168 | 234 |
 | Furek.md | 402 | 168 | 234 |
 | Gurira.md | 355 | 121 | 234 |
@@ -228,6 +174,8 @@
 | Hellrider_Paladin.md | 462 | 229 | 233 |
 | Jimi_Borleas.md | 435 | 202 | 233 |
 | Jacko.md | 336 | 103 | 233 |
+| Kevo_Phogge.md | 392 | 159 | 233 |
+| Lord_Shattershield's_Attendant.md | 372 | 139 | 233 |
 | Miller.md | 420 | 187 | 233 |
 | Garmor.md | 446 | 213 | 233 |
 | Nickelow.md | 404 | 171 | 233 |
@@ -235,6 +183,7 @@
 | Nass.md | 389 | 156 | 233 |
 | Oliver_Quarlic.md | 353 | 120 | 233 |
 | Thamberg.md | 306 | 73 | 233 |
+| Susdera.md | 367 | 134 | 233 |
 | Velicia.md | 384 | 151 | 233 |
 | Bedi.md | 443 | 211 | 232 |
 | Bolt.md | 376 | 144 | 232 |
@@ -242,15 +191,21 @@
 | Geraldus.md | 452 | 220 | 232 |
 | He_Who_Was.md | 377 | 145 | 232 |
 | Hivune.md | 355 | 123 | 232 |
+| Justiciar_Crusader_Nightmist.md | 344 | 112 | 232 |
 | Kansif.md | 359 | 127 | 232 |
+| Malik_(zealot).md | 495 | 263 | 232 |
 | Novice_Crusher.md | 534 | 302 | 232 |
 | Nym_Orlith.md | 395 | 163 | 232 |
-| Malik_(zealot).md | 495 | 263 | 232 |
 | Malik.md | 495 | 263 | 232 |
+| Nightmist.md | 344 | 112 | 232 |
 | Ptaris.md | 468 | 236 | 232 |
 | Sorn_Orlith.md | 378 | 146 | 232 |
 | Bugthimble.md | 379 | 148 | 231 |
+| Derysia.md | 386 | 155 | 231 |
 | Don't-Call-Me-Runt.md | 350 | 119 | 231 |
+| Eni.md | 439 | 208 | 231 |
+| Feona.md | 435 | 204 | 231 |
+| Fustian.md | 388 | 157 | 231 |
 | Gur_Hunter_Sharpshooter.md | 315 | 84 | 231 |
 | Lorroakan.md | 474 | 243 | 231 |
 | Lucretious.md | 454 | 223 | 231 |
@@ -270,6 +225,7 @@
 | Tamia_Holzt.md | 450 | 220 | 230 |
 | Vikki.md | 365 | 135 | 230 |
 | Aelar.md | 337 | 108 | 229 |
+| Glyria.md | 386 | 157 | 229 |
 | Hahns_Rives.md | 422 | 193 | 229 |
 | Humgoole.md | 373 | 144 | 229 |
 | Forstum.md | 393 | 164 | 229 |
@@ -281,11 +237,12 @@
 | Gut.md | 478 | 250 | 228 |
 | Grat.md | 408 | 180 | 228 |
 | Indora_Ralston.md | 377 | 149 | 228 |
+| Ly'iss.md | 285 | 57 | 228 |
 | Jy'ir.md | 362 | 134 | 228 |
 | Karoline.md | 340 | 112 | 228 |
-| Ly'iss.md | 285 | 57 | 228 |
 | Nestor.md | 438 | 210 | 228 |
 | Manip_Nestor.md | 438 | 210 | 228 |
+| Qora.md | 325 | 97 | 228 |
 | Thauniel_Rusk.md | 381 | 153 | 228 |
 | Togarr.md | 318 | 90 | 228 |
 | Bella_(Bloomridge_Park).md | 379 | 152 | 227 |
@@ -298,8 +255,8 @@
 | Grimlark.md | 358 | 131 | 227 |
 | Cursed_Imp.md | 326 | 99 | 227 |
 | Nere.md | 706 | 479 | 227 |
-| Nuff.md | 292 | 65 | 227 |
 | Manip_Falcäo.md | 406 | 179 | 227 |
+| Nuff.md | 292 | 65 | 227 |
 | Ulder_Ravengard.md | 453 | 226 | 227 |
 | Debin.md | 343 | 117 | 226 |
 | Flaming_Pete.md | 340 | 114 | 226 |
@@ -311,12 +268,12 @@
 | Bao'ek'nuk.md | 360 | 135 | 225 |
 | Barnz.md | 329 | 104 | 225 |
 | Dresten.md | 374 | 149 | 225 |
-| Chapeau.md | 341 | 116 | 225 |
 | Crosse.md | 361 | 136 | 225 |
+| Chapeau.md | 341 | 116 | 225 |
 | Fist_Attacker.md | 360 | 135 | 225 |
 | Grisly.md | 319 | 94 | 225 |
-| Captain_Grisly.md | 319 | 94 | 225 |
 | Dhoria.md | 367 | 142 | 225 |
+| Captain_Grisly.md | 319 | 94 | 225 |
 | Klaas.md | 390 | 165 | 225 |
 | Nateen.md | 378 | 153 | 225 |
 | Oriona.md | 312 | 87 | 225 |
@@ -337,10 +294,11 @@
 | Stropes.md | 309 | 85 | 224 |
 | Verryn.md | 271 | 47 | 224 |
 | Eglantine.md | 323 | 100 | 223 |
-| Gonfalon.md | 387 | 164 | 223 |
 | Dilgar_Sneese.md | 285 | 62 | 223 |
+| Gonfalon.md | 387 | 164 | 223 |
 | Maggoty_Jim.md | 334 | 111 | 223 |
 | Malta.md | 315 | 92 | 223 |
+| Old_Flake-Eyes.md | 470 | 247 | 223 |
 | Phostlethwaite.md | 267 | 44 | 223 |
 | Quickstitch.md | 383 | 160 | 223 |
 | Oyster_Boy_Dringo.md | 255 | 32 | 223 |
@@ -354,17 +312,17 @@
 | Dringo.md | 255 | 33 | 222 |
 | Grout.md | 263 | 41 | 222 |
 | Kethk.md | 382 | 160 | 222 |
-| Hiila.md | 323 | 101 | 222 |
 | Kuthbert.md | 428 | 206 | 222 |
+| Hiila.md | 323 | 101 | 222 |
 | Lochan.md | 366 | 144 | 222 |
 | Mino.md | 303 | 81 | 222 |
 | Nephel.md | 374 | 152 | 222 |
 | Mango.md | 243 | 21 | 222 |
 | Rossina.md | 255 | 33 | 222 |
 | Shargil.md | 374 | 152 | 222 |
-| Seyama.md | 345 | 123 | 222 |
-| Spike.md | 436 | 214 | 222 |
 | Silena.md | 420 | 198 | 222 |
+| Spike.md | 436 | 214 | 222 |
+| Seyama.md | 345 | 123 | 222 |
 | Sa'varsh_Kethk.md | 382 | 160 | 222 |
 | Taron.md | 314 | 92 | 222 |
 | BOOAL.md | 331 | 110 | 221 |
@@ -376,17 +334,18 @@
 | Greez.md | 386 | 165 | 221 |
 | Fred.md | 290 | 69 | 221 |
 | Jivin_Mizzrym.md | 341 | 120 | 221 |
+| Kepso.md | 419 | 198 | 221 |
 | Klen.md | 469 | 248 | 221 |
 | Garrigan.md | 300 | 79 | 221 |
-| Minthara.md | 624 | 403 | 221 |
 | Manser_Biggs.md | 376 | 155 | 221 |
+| Minthara.md | 624 | 403 | 221 |
 | Roo.md | 378 | 157 | 221 |
 | Snurd.md | 363 | 142 | 221 |
 | Voiceless_Penitent_Bareki.md | 348 | 127 | 221 |
 | Warlock_Greez.md | 386 | 165 | 221 |
 | Tracker_Bal.md | 344 | 123 | 221 |
-| Antinia.md | 294 | 74 | 220 |
 | Beorn_Wunterbrood.md | 304 | 84 | 220 |
+| Antinia.md | 294 | 74 | 220 |
 | Carys.md | 321 | 101 | 220 |
 | Gnat.md | 382 | 162 | 220 |
 | Flo-Flo.md | 306 | 86 | 220 |
@@ -409,9 +368,9 @@
 | Gandrel.md | 485 | 266 | 219 |
 | Komira.md | 303 | 84 | 219 |
 | Kirgrath.md | 394 | 175 | 219 |
+| Lann_Tarv.md | 446 | 227 | 219 |
 | Justiciar_Crusader.md | 289 | 70 | 219 |
 | Justiciar_Crusader_(Undead).md | 289 | 70 | 219 |
-| Lann_Tarv.md | 446 | 227 | 219 |
 | Nozk.md | 363 | 144 | 219 |
 | Onilla.md | 321 | 102 | 219 |
 | Shrev.md | 321 | 102 | 219 |
@@ -436,13 +395,12 @@
 | Bennel.md | 499 | 282 | 217 |
 | Bombasto.md | 382 | 165 | 217 |
 | Fist_Defender.md | 364 | 147 | 217 |
-| Godey.md | 365 | 148 | 217 |
 | Gretta.md | 370 | 153 | 217 |
-| Kepso.md | 419 | 202 | 217 |
-| Lord_Shattershield's_Bodyguard.md | 299 | 82 | 217 |
+| Godey.md | 365 | 148 | 217 |
 | Kyrr'a'ath.md | 359 | 142 | 217 |
-| Lora_(goblin).md | 432 | 215 | 217 |
+| Lord_Shattershield's_Bodyguard.md | 299 | 82 | 217 |
 | Dairow_Vin.md | 287 | 70 | 217 |
+| Lora_(goblin).md | 432 | 215 | 217 |
 | Ra'gur.md | 360 | 143 | 217 |
 | Shah.md | 371 | 154 | 217 |
 | Zar'an.md | 364 | 147 | 217 |
@@ -478,17 +436,17 @@
 | Ernestus.md | 429 | 216 | 213 |
 | Kryss.md | 287 | 74 | 213 |
 | Leythim.md | 343 | 130 | 213 |
-| Lizabett.md | 309 | 96 | 213 |
 | Dame_Aylin.md | 530 | 317 | 213 |
 | Danfora_of_the_Kingfish.md | 248 | 35 | 213 |
+| Lizabett.md | 309 | 96 | 213 |
 | Manip_Leythim.md | 343 | 130 | 213 |
 | Meadows.md | 412 | 199 | 213 |
 | Piddle.md | 396 | 183 | 213 |
 | Roger_Highberry.md | 270 | 57 | 213 |
 | Limeleech.md | 339 | 126 | 213 |
 | Ardent_Jhe'rezath.md | 332 | 120 | 212 |
-| Aggralix.md | 357 | 145 | 212 |
 | Bumpnagel.md | 345 | 133 | 212 |
+| Aggralix.md | 357 | 145 | 212 |
 | Dead_Whitburn_Servant.md | 261 | 49 | 212 |
 | Dart_Dirtwood.md | 314 | 102 | 212 |
 | Ghustil_Stornugoss.md | 396 | 184 | 212 |
@@ -496,9 +454,9 @@
 | Kur'ashk.md | 332 | 120 | 212 |
 | Kimmeral.md | 369 | 157 | 212 |
 | Margolenn.md | 305 | 93 | 212 |
+| Larche.md | 360 | 148 | 212 |
 | Justiciar_Avenger.md | 268 | 56 | 212 |
 | Kagha.md | 552 | 340 | 212 |
-| Larche.md | 360 | 148 | 212 |
 | Nobster.md | 315 | 103 | 212 |
 | Mask_of_Regret_(Overgrown_Tunnel).md | 349 | 137 | 212 |
 | Shadow-Cursed_Harper.md | 343 | 131 | 212 |
@@ -516,24 +474,14 @@
 | Hendly.md | 249 | 38 | 211 |
 | Meerna.md | 294 | 83 | 211 |
 | Pantella.md | 455 | 244 | 211 |
-| Sharran_Novice.md | 308 | 97 | 211 |
-| Un'n.md | 339 | 128 | 211 |
-| Zeddi'in.md | 331 | 120 | 211 |
-| Benryn.md | 277 | 67 | 210 |
-| Brother_Bill.md | 304 | 94 | 210 |
-| Chost.md | 353 | 143 | 210 |
-| Corliss.md | 337 | 127 | 210 |
-| Corniche.md | 276 | 66 | 210 |
-| Crusher.md | 534 | 324 | 210 |
-| Dulbers_Frint.md | 341 | 131 | 210 |
-| Fry.md | 349 | 139 | 210 |
 | Goodge.md | 349 | 139 | 210 |
+| Fry.md | 349 | 139 | 210 |
 | Gyordi.md | 381 | 171 | 210 |
 | Hogi_Nuners.md | 323 | 113 | 210 |
 | Kass.md | 322 | 112 | 210 |
 | Hildeh.md | 246 | 36 | 210 |
-| Shadow-Cursed_Pilgrim.md | 311 | 101 | 210 |
 | Rodondo_Logg.md | 243 | 33 | 210 |
+| Shadow-Cursed_Pilgrim.md | 311 | 101 | 210 |
 | Tomelia.md | 297 | 87 | 210 |
 | Watchman_Gyordi.md | 381 | 171 | 210 |
 | Zerentha.md | 331 | 121 | 210 |
@@ -548,8 +496,8 @@
 | Gydd.md | 300 | 91 | 209 |
 | Essius.md | 418 | 209 | 209 |
 | Khathi.md | 243 | 34 | 209 |
-| Jaryd.md | 336 | 127 | 209 |
 | Lewis_Morell.md | 367 | 158 | 209 |
+| Jaryd.md | 336 | 127 | 209 |
 | Kled.md | 319 | 110 | 209 |
 | Isobel.md | 493 | 284 | 209 |
 | Sconnor.md | 239 | 30 | 209 |
@@ -564,27 +512,7 @@
 | Bakshi.md | 351 | 143 | 208 |
 | Aicir_Tapol.md | 360 | 152 | 208 |
 | Donna_Blague.md | 239 | 31 | 208 |
-| Edward_Tremby.md | 354 | 146 | 208 |
-| Clover.md | 347 | 139 | 208 |
-| Elindale.md | 383 | 175 | 208 |
-| Gazz.md | 354 | 146 | 208 |
-| Follgast.md | 262 | 54 | 208 |
-| Isobel_Thorm.md | 493 | 285 | 208 |
-| Lump_the_Enlightened.md | 395 | 187 | 208 |
-| Mask_of_Servitude_(Overgrown_Tunnel).md | 279 | 71 | 208 |
-| Cyrel.md | 345 | 137 | 208 |
-| Moke.md | 281 | 73 | 208 |
-| Lionel_(Rivington).md | 336 | 128 | 208 |
-| Squire.md | 310 | 102 | 208 |
-| Sulian.md | 348 | 140 | 208 |
-| Vutt.md | 360 | 152 | 208 |
-| Yy'rul.md | 364 | 156 | 208 |
 | Zambomba.md | 249 | 41 | 208 |
-| Bloodmopper.md | 329 | 122 | 207 |
-| Bramble.md | 285 | 78 | 207 |
-| Barth.md | 361 | 154 | 207 |
-| Borgus_Elamin.md | 306 | 99 | 207 |
-| Addled_Frog.md | 306 | 99 | 207 |
 | Edwynna.md | 424 | 217 | 207 |
 | Grub.md | 250 | 43 | 207 |
 | Griff.md | 338 | 131 | 207 |
@@ -592,40 +520,26 @@
 | Jitters_Corbwell.md | 262 | 55 | 207 |
 | Kravatt.md | 239 | 32 | 207 |
 | Kith'rak_Therezzyn.md | 396 | 189 | 207 |
-| Hilario_Varota.md | 297 | 90 | 207 |
 | Kyberos.md | 342 | 135 | 207 |
-| Kanon.md | 319 | 112 | 207 |
+| Hilario_Varota.md | 297 | 90 | 207 |
 | Merri_Fairweather.md | 239 | 32 | 207 |
 | Lump.md | 395 | 188 | 207 |
+| Kanon.md | 319 | 112 | 207 |
 | Phoebelia.md | 239 | 32 | 207 |
 | Phrennog.md | 295 | 88 | 207 |
-| Terradissia.md | 333 | 126 | 207 |
-| Therezzyn.md | 396 | 189 | 207 |
 | Skulla.md | 254 | 47 | 207 |
 | Vezrol.md | 254 | 47 | 207 |
 | Tambourine.md | 244 | 37 | 207 |
-| Tahan.md | 364 | 157 | 207 |
-| Tumeril.md | 358 | 151 | 207 |
-| Blasphemous_Acolyte.md | 309 | 103 | 206 |
 | Bustlebury.md | 239 | 33 | 206 |
-| Corliss_Undertump.md | 337 | 131 | 206 |
-| Arrinye.md | 333 | 127 | 206 |
-| Gur_Hunter_Warrior_(Handaxe).md | 283 | 77 | 206 |
-| Hagedorrn.md | 336 | 130 | 206 |
-| Equidna.md | 336 | 130 | 206 |
 | Lorna_Esthelian.md | 244 | 38 | 206 |
 | Madigan.md | 360 | 154 | 206 |
+| Merony.md | 345 | 139 | 206 |
 | Mîran.md | 338 | 132 | 206 |
 | Pard.md | 337 | 131 | 206 |
 | Phoskyx.md | 239 | 33 | 206 |
 | Qudenos.md | 335 | 129 | 206 |
 | Penita.md | 251 | 45 | 206 |
-| Safyre.md | 271 | 65 | 206 |
-| Tina_Two-Thumbs.md | 275 | 69 | 206 |
 | Wicky.md | 297 | 91 | 206 |
-| Steelclaw.md | 259 | 53 | 206 |
-| Zastri.md | 343 | 137 | 206 |
-| Zeffy_Softbluff.md | 275 | 69 | 206 |
 | Wearne.md | 336 | 130 | 206 |
 | Arborio_Rolfin.md | 239 | 34 | 205 |
 | Civilian_(High_Hall).md | 262 | 57 | 205 |
@@ -639,7 +553,6 @@
 | Hyrald.md | 292 | 87 | 205 |
 | Koltz.md | 323 | 118 | 205 |
 | Jawn.md | 355 | 150 | 205 |
-| Keris.md | 404 | 199 | 205 |
 | Kira.md | 246 | 41 | 205 |
 | Lora_Bergauz.md | 337 | 132 | 205 |
 | Marcoryl.md | 385 | 180 | 205 |
@@ -660,33 +573,27 @@
 | Trinigan_Gazotts.md | 241 | 36 | 205 |
 | Thyssa_Shineboot.md | 326 | 121 | 205 |
 | Zurk.md | 333 | 128 | 205 |
+| Chessa.md | 333 | 129 | 204 |
 | Dextor.md | 277 | 73 | 204 |
 | 'Jaheira'.md | 307 | 103 | 204 |
-| Dubos_Clodds.md | 227 | 23 | 204 |
 | Gozz.md | 307 | 103 | 204 |
+| Dubos_Clodds.md | 227 | 23 | 204 |
 | Gurgon.md | 330 | 126 | 204 |
 | For'reth.md | 367 | 163 | 204 |
 | Glourik.md | 337 | 133 | 204 |
-| Jaheira_(doppelganger).md | 307 | 103 | 204 |
-| His_Majesty.md | 336 | 132 | 204 |
-| Ma'athal.md | 282 | 78 | 204 |
-| Mig.md | 348 | 144 | 204 |
-| Inwe.md | 328 | 124 | 204 |
-| Guide_colon_Races_Guide_by_Phantomsplit.md | 563 | 359 | 204 |
-| Puce.md | 399 | 195 | 204 |
-| Sazza.md | 435 | 231 | 204 |
 | Barnabus.md | 317 | 114 | 203 |
 | Barsik.md | 273 | 70 | 203 |
 | Bugbear_Assassin.md | 270 | 67 | 203 |
-| Aelis_(Fist_Recruit).md | 323 | 120 | 203 |
 | Clack.md | 407 | 204 | 203 |
+| Aelis_(Fist_Recruit).md | 323 | 120 | 203 |
 | Cry.md | 370 | 167 | 203 |
 | 'Barnabus'.md | 317 | 114 | 203 |
 | Glenvora.md | 336 | 133 | 203 |
 | Korliss.md | 324 | 121 | 203 |
 | Mrak.md | 394 | 191 | 203 |
-| Myshka.md | 302 | 99 | 203 |
 | Oathbreaker_Knight.md | 439 | 236 | 203 |
+| Myshka.md | 302 | 99 | 203 |
+| Nadira.md | 359 | 156 | 203 |
 | Muzul.md | 394 | 191 | 203 |
 | Plagg.md | 384 | 181 | 203 |
 | Rosanna.md | 314 | 111 | 203 |
@@ -699,8 +606,8 @@
 | Brekka.md | 263 | 61 | 202 |
 | Chelvin.md | 350 | 148 | 202 |
 | Dead_Tiefling.md | 302 | 100 | 202 |
-| Discoria.md | 323 | 121 | 202 |
 | Dorghan.md | 248 | 46 | 202 |
+| Discoria.md | 323 | 121 | 202 |
 | Gnoll_Flind.md | 457 | 255 | 202 |
 | Flimsy.md | 225 | 23 | 202 |
 | Flind.md | 457 | 255 | 202 |
@@ -711,20 +618,21 @@
 | Huk.md | 376 | 174 | 202 |
 | Frenello.md | 273 | 71 | 202 |
 | Jepsen.md | 329 | 127 | 202 |
+| Intelligent_Sentinel.md | 324 | 122 | 202 |
 | Findal.md | 340 | 138 | 202 |
+| Danis.md | 400 | 198 | 202 |
 | Marls.md | 366 | 164 | 202 |
 | Lyldara.md | 237 | 35 | 202 |
 | Hemm.md | 350 | 148 | 202 |
-| Danis.md | 400 | 198 | 202 |
 | Nudelmann.md | 333 | 131 | 202 |
 | Murphy.md | 345 | 143 | 202 |
 | Melkor.md | 263 | 61 | 202 |
 | Osmund.md | 330 | 128 | 202 |
-| Guide_colon_Baldur's_Gate_3_Races_Guide.md | 563 | 361 | 202 |
 | Reddil.md | 264 | 62 | 202 |
 | Richter.md | 329 | 127 | 202 |
 | Preciosa.md | 235 | 33 | 202 |
 | Poole.md | 329 | 127 | 202 |
+| Guide_colon_Baldur's_Gate_3_Races_Guide.md | 563 | 361 | 202 |
 | Smithwynn.md | 328 | 126 | 202 |
 | Teth'ka.md | 283 | 81 | 202 |
 | Williams.md | 328 | 126 | 202 |
@@ -738,9 +646,9 @@
 | Eight.md | 241 | 40 | 201 |
 | Armoured_Owlbear.md | 323 | 122 | 201 |
 | Druk.md | 382 | 181 | 201 |
-| Fumm.md | 582 | 381 | 201 |
 | Gavv.md | 327 | 126 | 201 |
 | Genshu_Ofran.md | 332 | 131 | 201 |
+| Fumm.md | 582 | 381 | 201 |
 | Grush.md | 383 | 182 | 201 |
 | Halfar.md | 365 | 164 | 201 |
 | Gresh.md | 429 | 228 | 201 |
@@ -759,8 +667,8 @@
 | Cyril.md | 375 | 174 | 201 |
 | Rudd.md | 328 | 127 | 201 |
 | Lin'a'an.md | 325 | 124 | 201 |
-| Sentinel_Olak.md | 411 | 210 | 201 |
 | Shallar_Koll.md | 333 | 132 | 201 |
+| Sentinel_Olak.md | 411 | 210 | 201 |
 | Thonos.md | 327 | 126 | 201 |
 | Vol.md | 357 | 156 | 201 |
 | Vraalsith.md | 319 | 118 | 201 |
@@ -794,30 +702,18 @@
 | Tozad.md | 355 | 155 | 200 |
 | Brelal'reth.md | 351 | 152 | 199 |
 | Arron.md | 332 | 133 | 199 |
-| Gimblebock.md | 477 | 278 | 199 |
-| Hellrider_Cleric.md | 373 | 174 | 199 |
-| Kramp.md | 359 | 160 | 199 |
-| Haseid.md | 329 | 130 | 199 |
-| J'ehlar.md | 350 | 151 | 199 |
-| Leysin.md | 323 | 124 | 199 |
-| Katelyn_Lerskin.md | 346 | 147 | 199 |
-| Karrow.md | 386 | 187 | 199 |
-| Hector_Roba.md | 275 | 76 | 199 |
-| Ludd.md | 306 | 107 | 199 |
-| Matthew.md | 314 | 115 | 199 |
-| Olys.md | 371 | 172 | 199 |
-| Pinta.md | 359 | 160 | 199 |
-| Podd.md | 316 | 117 | 199 |
 | Moonlight_Sliver.md | 312 | 113 | 199 |
 | Preyn.md | 314 | 115 | 199 |
 | Rigg.md | 301 | 102 | 199 |
 | Lilineth.md | 359 | 160 | 199 |
 | Sharran_Fidelian.md | 294 | 95 | 199 |
-| Syril_Valdemar.md | 232 | 33 | 199 |
 | Trunk_(goblin).md | 420 | 221 | 199 |
+| Syril_Valdemar.md | 232 | 33 | 199 |
+| Steelclaw.md | 259 | 60 | 199 |
+| Zhendila.md | 378 | 179 | 199 |
 | Bliggerillo.md | 235 | 37 | 198 |
+| Dissected_Drow.md | 342 | 144 | 198 |
 | Churg_Elvek.md | 279 | 81 | 198 |
-| Cilarea.md | 317 | 119 | 198 |
 | Dogaletto.md | 284 | 86 | 198 |
 | Drenn.md | 353 | 155 | 198 |
 | Elliot.md | 320 | 122 | 198 |
@@ -825,40 +721,38 @@
 | Five.md | 224 | 26 | 198 |
 | Gujj.md | 309 | 111 | 198 |
 | Gurd.md | 421 | 223 | 198 |
-| Cappa_Delourese.md | 275 | 77 | 198 |
-| Grikka.md | 369 | 171 | 198 |
 | Dhourn.md | 455 | 257 | 198 |
+| Grikka.md | 369 | 171 | 198 |
+| Cappa_Delourese.md | 275 | 77 | 198 |
 | Freddo.md | 336 | 138 | 198 |
+| Kobold_Scout.md | 346 | 148 | 198 |
 | Koll_(kobold).md | 294 | 96 | 198 |
-| Koll_the_Red.md | 294 | 96 | 198 |
-| Krolla.md | 384 | 186 | 198 |
-| Leistine.md | 321 | 123 | 198 |
-| Kirz.md | 366 | 168 | 198 |
-| Klarv.md | 284 | 86 | 198 |
-| Meztli.md | 532 | 334 | 198 |
 | Lunn.md | 323 | 125 | 198 |
-| Merregon_Legionnaire.md | 338 | 140 | 198 |
 | Ogre_Brute.md | 274 | 76 | 198 |
 | Phylle.md | 284 | 86 | 198 |
+| Ned'Cirannis.md | 342 | 144 | 198 |
 | Puli.md | 365 | 167 | 198 |
 | Qen.md | 344 | 146 | 198 |
-| Rot.md | 385 | 187 | 198 |
 | Qu'th.md | 313 | 115 | 198 |
-| Savora.md | 354 | 156 | 198 |
+| Rot.md | 385 | 187 | 198 |
 | Rhol.md | 235 | 37 | 198 |
+| Savora.md | 354 | 156 | 198 |
+| Safyre.md | 271 | 73 | 198 |
 | Stimk.md | 390 | 192 | 198 |
 | Slice.md | 347 | 149 | 198 |
 | Torturer_Spike.md | 436 | 238 | 198 |
-| Tizg.md | 340 | 142 | 198 |
 | Tak.md | 368 | 170 | 198 |
+| Tina_Two-Thumbs.md | 275 | 77 | 198 |
+| Tizg.md | 340 | 142 | 198 |
 | Wilbur.md | 308 | 110 | 198 |
-| Tiernan_Wont.md | 269 | 71 | 198 |
 | Vinnia.md | 284 | 86 | 198 |
 | Tracker_Grikka.md | 369 | 171 | 198 |
 | Weneg.md | 356 | 158 | 198 |
+| Tiernan_Wont.md | 269 | 71 | 198 |
+| Zeffy_Softbluff.md | 275 | 77 | 198 |
 | Zoll.md | 321 | 123 | 198 |
-| Antinnia.md | 296 | 99 | 197 |
 | Baalfe.md | 346 | 149 | 197 |
+| Antinnia.md | 296 | 99 | 197 |
 | Bel.md | 392 | 195 | 197 |
 | Brek.md | 373 | 176 | 197 |
 | Branthos.md | 406 | 209 | 197 |
@@ -876,12 +770,13 @@
 | Oskar_Fevras.md | 382 | 185 | 197 |
 | Redcap_Boatswain.md | 254 | 57 | 197 |
 | Ri'zel.md | 275 | 78 | 197 |
-| Tecothy.md | 337 | 140 | 197 |
 | Sinister_Hooded_Man.md | 279 | 82 | 197 |
+| Tecothy.md | 337 | 140 | 197 |
 | Torrack.md | 382 | 185 | 197 |
 | Vez.md | 402 | 205 | 197 |
 | Worm.md | 382 | 185 | 197 |
 | Wanda_Tullermoor.md | 309 | 112 | 197 |
+| Zastri.md | 343 | 146 | 197 |
 | Wim.md | 356 | 159 | 197 |
 | Zyrlak.md | 275 | 78 | 197 |
 | Gronag.md | 408 | 212 | 196 |
@@ -902,18 +797,18 @@
 | Kepli.md | 323 | 128 | 195 |
 | Marten_(iron_consul).md | 300 | 105 | 195 |
 | Kadugan.md | 253 | 58 | 195 |
-| Mistress_of_Souls.md | 319 | 124 | 195 |
 | Malik_(iron_consul).md | 284 | 89 | 195 |
+| Mistress_of_Souls.md | 319 | 124 | 195 |
 | Otterdance_Fenton.md | 219 | 24 | 195 |
+| Racha.md | 346 | 151 | 195 |
 | Rath.md | 311 | 116 | 195 |
 | Rowan_(Requisitioned_Barn).md | 350 | 155 | 195 |
 | Rull.md | 328 | 133 | 195 |
-| Racha.md | 346 | 151 | 195 |
 | Soxx.md | 345 | 150 | 195 |
 | Snapbone.md | 270 | 75 | 195 |
 | Vu'un.md | 355 | 160 | 195 |
-| Sylbert.md | 262 | 67 | 195 |
 | Waldemar_Prinski.md | 249 | 54 | 195 |
+| Sylbert.md | 262 | 67 | 195 |
 | Woyy.md | 309 | 114 | 195 |
 | Bloodfang.md | 236 | 42 | 194 |
 | Beulla_Sandfoot.md | 291 | 97 | 194 |
@@ -921,44 +816,43 @@
 | Abraxa.md | 256 | 62 | 194 |
 | Counting_House_Artillerist.md | 252 | 58 | 194 |
 | Chadd.md | 376 | 182 | 194 |
-| Cinna_Brewcellar.md | 247 | 53 | 194 |
-| Drarra.md | 227 | 33 | 194 |
 | Delyarna.md | 259 | 65 | 194 |
+| Drarra.md | 227 | 33 | 194 |
 | Charming_Latham.md | 298 | 104 | 194 |
 | Eldaernth.md | 331 | 137 | 194 |
-| 'Suspicious'_Foont.md | 312 | 118 | 194 |
 | Ebber.md | 349 | 155 | 194 |
+| 'Suspicious'_Foont.md | 312 | 118 | 194 |
+| Gor_Falogen.md | 312 | 118 | 194 |
 | Frothilda.md | 285 | 91 | 194 |
 | Drussuvissill.md | 267 | 73 | 194 |
-| Gor_Falogen.md | 312 | 118 | 194 |
 | Eostre.md | 337 | 143 | 194 |
 | Gribbo.md | 391 | 197 | 194 |
 | Grimbus.md | 227 | 33 | 194 |
 | Korrinna_Koreena.md | 256 | 62 | 194 |
 | Ivarus.md | 352 | 158 | 194 |
 | Iza_Blouin.md | 280 | 86 | 194 |
-| Justiciar_Nightweaver.md | 262 | 68 | 194 |
 | Merriolle.md | 314 | 120 | 194 |
 | Latham.md | 298 | 104 | 194 |
+| Justiciar_Nightweaver.md | 262 | 68 | 194 |
 | Garri_Orne.md | 256 | 62 | 194 |
 | Ooltheg.md | 227 | 33 | 194 |
 | Matey_Tallhamper.md | 261 | 67 | 194 |
 | Pheebs_Splayfoot.md | 252 | 58 | 194 |
 | D'hak.md | 266 | 72 | 194 |
 | Rua.md | 353 | 159 | 194 |
-| Servant_Asthena.md | 219 | 25 | 194 |
 | Pooldripp_the_Zealous.md | 284 | 90 | 194 |
 | Stivvo.md | 233 | 39 | 194 |
+| Servant_Asthena.md | 219 | 25 | 194 |
 | Sula_Ghevora.md | 261 | 67 | 194 |
 | Slumgullion.md | 227 | 33 | 194 |
+| Surixana.md | 229 | 35 | 194 |
 | Theda_Grosz.md | 256 | 62 | 194 |
 | Tailor_Vhynce.md | 219 | 25 | 194 |
-| Surixana.md | 229 | 35 | 194 |
-| Vengeful_Imp.md | 267 | 73 | 194 |
 | Skrut.md | 308 | 114 | 194 |
+| Vengeful_Imp.md | 267 | 73 | 194 |
 | Vhynce.md | 219 | 25 | 194 |
-| Varone.md | 336 | 142 | 194 |
 | Umbrenne.md | 285 | 91 | 194 |
+| Varone.md | 336 | 142 | 194 |
 | Vinshent_Fenteman.md | 227 | 33 | 194 |
 | Whitemist.md | 236 | 42 | 194 |
 | Yr'rk.md | 334 | 140 | 194 |
@@ -969,11 +863,15 @@
 | Happy_Hands.md | 247 | 54 | 193 |
 | Hartlebury.md | 386 | 193 | 193 |
 | Loic.md | 341 | 148 | 193 |
+| Garithon.md | 251 | 58 | 193 |
 | Pandirna.md | 425 | 232 | 193 |
 | Paramidious.md | 313 | 120 | 193 |
+| Maireadh.md | 249 | 56 | 193 |
+| Majjo.md | 251 | 58 | 193 |
 | Shadow-Whiskers.md | 342 | 149 | 193 |
 | Pooldripp.md | 284 | 91 | 193 |
 | Torgga.md | 306 | 113 | 193 |
+| Zeironymous.md | 250 | 57 | 193 |
 | Bulette.md | 389 | 197 | 192 |
 | Dying_Stone_Lord_Thug.md | 242 | 50 | 192 |
 | Farimorn.md | 303 | 111 | 192 |
@@ -981,80 +879,69 @@
 | Lady_Esther.md | 361 | 169 | 192 |
 | Lolo_Fuzzletoes.md | 267 | 75 | 192 |
 | Nafula.md | 246 | 54 | 192 |
+| Reaper_of_Bhaal.md | 304 | 112 | 192 |
 | Scrawny_Bugbear.md | 310 | 118 | 192 |
 | Shadow-Cursed_Githyanki_Warrior.md | 293 | 101 | 192 |
 | Wood_Woad.md | 278 | 86 | 192 |
 | Brakkal.md | 322 | 131 | 191 |
 | Civilian_(Wyrm's_Rock_Fortress).md | 229 | 38 | 191 |
-| Comina.md | 249 | 58 | 191 |
 | Dellinjah_Dax.md | 301 | 110 | 191 |
 | Ellswort.md | 245 | 54 | 191 |
 | Ettercap.md | 285 | 94 | 191 |
+| Comina.md | 249 | 58 | 191 |
 | Flange.md | 249 | 58 | 191 |
+| Gimblebock.md | 477 | 286 | 191 |
 | Hervyl.md | 250 | 59 | 191 |
 | Jaxbock.md | 320 | 129 | 191 |
-| Marie_Taylira.md | 215 | 24 | 191 |
 | Lady_Durinbold's_Bodyguard.md | 328 | 137 | 191 |
 | Lady_Oberon's_Bodyguard.md | 326 | 135 | 191 |
-| Justiciar_Soulhunter.md | 285 | 94 | 191 |
-| Kar'niss.md | 604 | 413 | 191 |
-| Ith'dul.md | 346 | 155 | 191 |
-| Garithon.md | 251 | 60 | 191 |
-| Gasper_Throaks.md | 333 | 142 | 191 |
-| Morrus_Pinfeather.md | 215 | 24 | 191 |
+| Marie_Taylira.md | 215 | 24 | 191 |
 | Malvo_Rockfellow.md | 233 | 42 | 191 |
-| Maireadh.md | 249 | 58 | 191 |
-| Majjo.md | 251 | 60 | 191 |
-| Monteith.md | 276 | 85 | 191 |
-| Reanimated_Corpse.md | 245 | 54 | 191 |
+| Morrus_Pinfeather.md | 215 | 24 | 191 |
 | Scratch.md | 389 | 198 | 191 |
-| Sharlz_Molar.md | 276 | 85 | 191 |
-| Sigurd.md | 348 | 157 | 191 |
-| Soapstone.md | 346 | 155 | 191 |
-| Tylda.md | 264 | 73 | 191 |
-| Yoonce.md | 338 | 147 | 191 |
-| Zeironymous.md | 250 | 59 | 191 |
-| Bad_Twin_Bubbins.md | 290 | 100 | 190 |
-| Baxta.md | 290 | 100 | 190 |
-| Broko.md | 335 | 145 | 190 |
-| Chessa.md | 333 | 143 | 190 |
-| Dissected_Drow.md | 342 | 152 | 190 |
-| Devotee_of_Mahkloompah.md | 251 | 61 | 190 |
+| Tahan.md | 364 | 173 | 191 |
 | Droralias_Dryselis.md | 224 | 34 | 190 |
 | Duke_Dillard_Portyr.md | 239 | 49 | 190 |
-| Githyanki_raider.md | 289 | 99 | 190 |
-| Frightened_Ox.md | 249 | 59 | 190 |
 | Dillard_Portyr.md | 239 | 49 | 190 |
-| Hyrriet.md | 309 | 119 | 190 |
-| Hertvor_Dremble.md | 325 | 135 | 190 |
-| Kobold_Scout.md | 346 | 156 | 190 |
-| Inocente_Bramm.md | 339 | 149 | 190 |
-| Inquisitor_of_the_Absolute.md | 370 | 180 | 190 |
-| Inquisitor_of_the_Absolute_Tiefling.md | 370 | 180 | 190 |
-| Lanpos_Biggs.md | 296 | 106 | 190 |
-| Ned'Cirannis.md | 342 | 152 | 190 |
-| Reaper_of_Bhaal.md | 304 | 114 | 190 |
-| Raider.md | 289 | 99 | 190 |
-| Wulf.md | 325 | 135 | 190 |
-| Crak.md | 225 | 36 | 189 |
+| Hellrider_Cleric.md | 373 | 183 | 190 |
+| Haseid.md | 329 | 139 | 190 |
+| Katelyn_Lerskin.md | 346 | 156 | 190 |
+| Karrow.md | 386 | 196 | 190 |
+| Matthew.md | 314 | 124 | 190 |
+| Olys.md | 371 | 181 | 190 |
+| Pinta.md | 359 | 169 | 190 |
 | Arkleia_Oloril.md | 248 | 59 | 189 |
-| Arnell_Hallowleaf.md | 280 | 91 | 189 |
+| Crak.md | 225 | 36 | 189 |
 | Ferg_Drogher.md | 326 | 137 | 189 |
-| Hairy_Henry.md | 307 | 118 | 189 |
-| Kur.md | 369 | 180 | 189 |
 | Milon_Tillerturn.md | 224 | 35 | 189 |
-| Minotaur.md | 269 | 80 | 189 |
-| Nadira.md | 359 | 170 | 189 |
-| Mohan.md | 268 | 79 | 189 |
+| Ith'dul.md | 346 | 157 | 189 |
+| Gasper_Throaks.md | 333 | 144 | 189 |
+| Monteith.md | 276 | 87 | 189 |
+| Reanimated_Corpse.md | 245 | 56 | 189 |
+| Sigurd.md | 348 | 159 | 189 |
+| Soapstone.md | 346 | 157 | 189 |
+| Tylda.md | 264 | 75 | 189 |
+| Yoonce.md | 338 | 149 | 189 |
+| Bad_Twin_Bubbins.md | 290 | 102 | 188 |
+| Baxta.md | 290 | 102 | 188 |
 | Callem_Bormul.md | 223 | 35 | 188 |
 | Ancient_Giant_Eagle.md | 287 | 99 | 188 |
+| Corliss_Undertump.md | 337 | 149 | 188 |
+| Arrinye.md | 333 | 145 | 188 |
+| Gur_Hunter_Warrior_(Handaxe).md | 283 | 95 | 188 |
+| Hagedorrn.md | 336 | 148 | 188 |
 | Halantow.md | 307 | 119 | 188 |
+| Equidna.md | 336 | 148 | 188 |
 | Carlorina_the_Wolf.md | 277 | 89 | 188 |
+| Hertvor_Dremble.md | 325 | 137 | 188 |
 | Gloomy_Fentonson.md | 268 | 80 | 188 |
 | Imwise.md | 261 | 73 | 188 |
 | Incontinentia_Figgin.md | 276 | 88 | 188 |
 | Ko'kuu.md | 434 | 246 | 188 |
+| Kramp.md | 359 | 171 | 188 |
+| Inocente_Bramm.md | 339 | 151 | 188 |
 | Justiciar_Crusader_(archetype).md | 299 | 111 | 188 |
+| Hector_Roba.md | 275 | 87 | 188 |
 | Norys.md | 298 | 110 | 188 |
 | Myer_Ravenshade.md | 223 | 35 | 188 |
 | Malayah.md | 293 | 105 | 188 |
@@ -1066,18 +953,20 @@
 | Stalwart.md | 315 | 127 | 188 |
 | Varsh_Ko'kuu.md | 434 | 246 | 188 |
 | Winstra_Hullhollyn.md | 224 | 36 | 188 |
+| Wulf.md | 325 | 137 | 188 |
 | Bellar.md | 283 | 96 | 187 |
 | Beatrice_Provoss.md | 223 | 36 | 187 |
 | Astoundo_the_Greater.md | 219 | 32 | 187 |
 | Blarson_Throaks.md | 218 | 31 | 187 |
-| Ciara_Blank.md | 221 | 34 | 187 |
+| Arnell_Hallowleaf.md | 280 | 93 | 187 |
 | Earthdigger.md | 333 | 146 | 187 |
 | Clovia_Throaks.md | 219 | 32 | 187 |
 | Goblin_Sharp-Eye.md | 299 | 112 | 187 |
+| Hairy_Henry.md | 307 | 120 | 187 |
 | Foharell.md | 394 | 207 | 187 |
-| Gudrun.md | 375 | 188 | 187 |
 | Pumler_Grejit.md | 377 | 190 | 187 |
 | Rose.md | 275 | 88 | 187 |
+| Gudrun.md | 375 | 188 | 187 |
 | Sul_(pilgrim).md | 225 | 38 | 187 |
 | Reklan.md | 292 | 105 | 187 |
 | Zarys.md | 445 | 258 | 187 |
@@ -1086,39 +975,49 @@
 | Amira.md | 340 | 154 | 186 |
 | Clore_Falson.md | 293 | 107 | 186 |
 | Gordis.md | 337 | 151 | 186 |
+| Hyrriet.md | 309 | 123 | 186 |
 | Honk.md | 218 | 32 | 186 |
 | Jezzy_Topps.md | 295 | 109 | 186 |
-| Lorin.md | 318 | 132 | 186 |
+| Inquisitor_of_the_Absolute.md | 370 | 184 | 186 |
+| Inquisitor_of_the_Absolute_Tiefling.md | 370 | 184 | 186 |
 | Lacy_Dancer.md | 304 | 118 | 186 |
-| Kameros.md | 280 | 94 | 186 |
+| Lorin.md | 318 | 132 | 186 |
 | Maggie_Ni_Chuirc.md | 306 | 120 | 186 |
 | Lugarrio.md | 299 | 113 | 186 |
+| Lanpos_Biggs.md | 296 | 110 | 186 |
+| Kameros.md | 280 | 94 | 186 |
 | Quelenna.md | 337 | 151 | 186 |
 | Tusgront.md | 273 | 87 | 186 |
 | Taman.md | 368 | 182 | 186 |
 | Tender_Honk.md | 218 | 32 | 186 |
-| Ba'akreth.md | 268 | 83 | 185 |
 | Bernard.md | 417 | 232 | 185 |
+| Ba'akreth.md | 268 | 83 | 185 |
 | Astyl.md | 268 | 83 | 185 |
 | Caerdwyn.md | 306 | 121 | 185 |
 | Bosk.md | 233 | 48 | 185 |
+| Adrielle.md | 408 | 223 | 185 |
 | Adventurer_Drim.md | 297 | 112 | 185 |
 | Bogdan_Vortleson.md | 292 | 107 | 185 |
 | Alan_Alyth.md | 300 | 115 | 185 |
 | Drim.md | 297 | 112 | 185 |
-| Captain_Sleam.md | 289 | 104 | 185 |
 | Eshvelt_Guthmere.md | 229 | 44 | 185 |
 | Greenfern.md | 299 | 114 | 185 |
+| Captain_Sleam.md | 289 | 104 | 185 |
 | Krank.md | 286 | 101 | 185 |
 | Klank.md | 333 | 148 | 185 |
 | Ma_Festina.md | 232 | 47 | 185 |
+| Justiciar_Soulhunter.md | 285 | 100 | 185 |
 | Garmin.md | 263 | 78 | 185 |
+| Mohan.md | 268 | 83 | 185 |
 | Rheg'zel.md | 268 | 83 | 185 |
 | Sue.md | 261 | 76 | 185 |
 | Sleam.md | 289 | 104 | 185 |
 | Three-Piece.md | 268 | 83 | 185 |
 | Vis'kiir.md | 280 | 95 | 185 |
+| Blasphemous_Acolyte.md | 309 | 125 | 184 |
+| Broko.md | 335 | 151 | 184 |
 | Cassivora_Dophir.md | 310 | 126 | 184 |
+| Corliss.md | 337 | 153 | 184 |
 | Dashkent_Moliver.md | 258 | 74 | 184 |
 | Elder_Rothé.md | 253 | 69 | 184 |
 | Goblin_Booyahg.md | 330 | 146 | 184 |
@@ -1127,15 +1026,15 @@
 | Elias_Fischer.md | 218 | 34 | 184 |
 | Houndmaster_Pol.md | 351 | 167 | 184 |
 | Lu_La_Forza.md | 216 | 32 | 184 |
-| Larca_Mena.md | 244 | 60 | 184 |
 | Mind_flayer_(nautiloid_wreck).md | 232 | 48 | 184 |
+| Larca_Mena.md | 244 | 60 | 184 |
 | Merim.md | 393 | 209 | 184 |
 | Polandulus.md | 326 | 142 | 184 |
 | Yonks.md | 259 | 75 | 184 |
 | Zana_Hade.md | 323 | 139 | 184 |
-| Antony.md | 349 | 166 | 183 |
 | Avourel.md | 319 | 136 | 183 |
 | Bagdog.md | 307 | 124 | 183 |
+| Antony.md | 349 | 166 | 183 |
 | Brem.md | 423 | 240 | 183 |
 | Absolute_Questioner.md | 297 | 114 | 183 |
 | Demir.md | 292 | 109 | 183 |
@@ -1150,35 +1049,37 @@
 | Lorgan.md | 311 | 128 | 183 |
 | Newborn_Gnoll.md | 225 | 42 | 183 |
 | Ni'ima.md | 303 | 120 | 183 |
-| Oaknuzzle.md | 295 | 112 | 183 |
 | Manus.md | 373 | 190 | 183 |
+| Oaknuzzle.md | 295 | 112 | 183 |
 | Cutter_Violet.md | 207 | 24 | 183 |
 | Reconstituted_Arcanist.md | 279 | 96 | 183 |
 | Pol.md | 351 | 168 | 183 |
 | Becca.md | 242 | 60 | 182 |
-| Baz_Hopbank.md | 288 | 106 | 182 |
 | Augur_Harxkellan.md | 267 | 85 | 182 |
+| Baz_Hopbank.md | 288 | 106 | 182 |
 | Blighted_Troubador.md | 315 | 133 | 182 |
 | Buff_Tanner.md | 215 | 33 | 182 |
 | Champion_of_Mahkloompah.md | 268 | 86 | 182 |
 | Edowin.md | 325 | 143 | 182 |
 | Flaming_Fist_Archer.md | 344 | 162 | 182 |
-| Gneiss.md | 417 | 235 | 182 |
 | Grainne_Jodhpur.md | 215 | 33 | 182 |
+| Gneiss.md | 417 | 235 | 182 |
 | Ephren.md | 329 | 147 | 182 |
 | Grenywald.md | 339 | 157 | 182 |
 | Holli_Dylford.md | 316 | 134 | 182 |
 | Hook_Horror.md | 264 | 82 | 182 |
 | Jacob.md | 225 | 43 | 182 |
-| Madalitso.md | 246 | 64 | 182 |
-| Meygan.md | 348 | 166 | 182 |
 | Dalthar.md | 323 | 141 | 182 |
+| Meygan.md | 348 | 166 | 182 |
+| Madalitso.md | 246 | 64 | 182 |
+| Ludd.md | 306 | 124 | 182 |
+| Podd.md | 316 | 134 | 182 |
 | Quartermaster_Talli.md | 348 | 166 | 182 |
 | Mola.md | 375 | 193 | 182 |
 | Rahir.md | 349 | 167 | 182 |
+| Talli.md | 348 | 166 | 182 |
 | Toadbreath.md | 254 | 72 | 182 |
 | Thimble.md | 219 | 37 | 182 |
-| Talli.md | 348 | 166 | 182 |
 | Vrak.md | 316 | 134 | 182 |
 | Visage_of_Greed.md | 312 | 130 | 182 |
 | Visage_of_Regret.md | 310 | 128 | 182 |
@@ -1187,25 +1088,27 @@
 | Andrik.md | 302 | 121 | 181 |
 | Cormac.md | 260 | 79 | 181 |
 | Dead_Mind_Flayer_(Goblin_Camp).md | 250 | 69 | 181 |
-| Fillip.md | 239 | 58 | 181 |
+| Crusher.md | 534 | 353 | 181 |
 | Elwyn.md | 330 | 149 | 181 |
+| Fillip.md | 239 | 58 | 181 |
 | Gorrka_Bekoone.md | 265 | 84 | 181 |
-| Gronch.md | 218 | 37 | 181 |
 | Gilla_Merrun.md | 209 | 28 | 181 |
+| Gronch.md | 218 | 37 | 181 |
 | Carmen_Pennygood.md | 301 | 120 | 181 |
 | Hunkers_Boolean.md | 228 | 47 | 181 |
 | Hyrla_Sname.md | 215 | 34 | 181 |
 | Kuo-toa_(creature).md | 322 | 141 | 181 |
+| Leysin.md | 323 | 142 | 181 |
+| Lur_Jox.md | 275 | 94 | 181 |
 | Karrik.md | 289 | 108 | 181 |
 | Istor.md | 250 | 69 | 181 |
-| Lur_Jox.md | 275 | 94 | 181 |
 | Nola.md | 374 | 193 | 181 |
 | Mirthis.md | 313 | 132 | 181 |
 | Myrnath.md | 280 | 99 | 181 |
 | Oskar.md | 382 | 201 | 181 |
 | Olfaith_Olumssdottir.md | 317 | 136 | 181 |
-| Cyndirie_Vand.md | 215 | 34 | 181 |
 | Peetri_Sname.md | 215 | 34 | 181 |
+| Cyndirie_Vand.md | 215 | 34 | 181 |
 | Ricks_Garven.md | 217 | 36 | 181 |
 | Sacrificed_Cultist_(High_Elf).md | 263 | 82 | 181 |
 | Visage_of_Heartlessness.md | 310 | 129 | 181 |
@@ -1217,6 +1120,7 @@
 | Grundril.md | 275 | 95 | 180 |
 | Fortuno_Dibbs.md | 214 | 34 | 180 |
 | Jhaam.md | 303 | 123 | 180 |
+| J'ehlar.md | 350 | 170 | 180 |
 | Manzarde.md | 273 | 93 | 180 |
 | Mijah.md | 340 | 160 | 180 |
 | Garrett.md | 250 | 70 | 180 |
@@ -1240,8 +1144,8 @@
 | Ellie.md | 237 | 58 | 179 |
 | Goblin_Devout.md | 291 | 112 | 179 |
 | Grisselda_Dibbs.md | 214 | 35 | 179 |
-| Gondlemead.md | 306 | 127 | 179 |
 | Greymon.md | 439 | 260 | 179 |
+| Gondlemead.md | 306 | 127 | 179 |
 | Hapdim.md | 314 | 135 | 179 |
 | Harfang.md | 223 | 44 | 179 |
 | Lady_Lockjaw.md | 353 | 174 | 179 |
@@ -1253,14 +1157,16 @@
 | Patty.md | 201 | 22 | 179 |
 | Ramona_Flintsplitter.md | 251 | 72 | 179 |
 | Shadow-Cursed_Shambling_Mound.md | 433 | 254 | 179 |
+| Terradissia.md | 333 | 154 | 179 |
 | Volgu_Drak.md | 298 | 119 | 179 |
+| Tumeril.md | 358 | 179 | 179 |
 | Bering_Gahorst.md | 211 | 33 | 178 |
 | Bryanne.md | 277 | 99 | 178 |
 | Chenti.md | 349 | 171 | 178 |
 | Dolia.md | 201 | 23 | 178 |
+| Deep_Rothé_(myconid_colony).md | 241 | 63 | 178 |
 | Dion.md | 255 | 77 | 178 |
 | Dire_Wolf.md | 217 | 39 | 178 |
-| Deep_Rothé_(myconid_colony).md | 241 | 63 | 178 |
 | Embry.md | 213 | 35 | 178 |
 | Flo_Minsydel.md | 211 | 33 | 178 |
 | Ikaron.md | 535 | 357 | 178 |
@@ -1278,7 +1184,6 @@
 | Caïros.md | 442 | 265 | 177 |
 | Dave_Hosmo.md | 267 | 90 | 177 |
 | Distressed_Patient.md | 235 | 58 | 177 |
-| Cillian.md | 211 | 34 | 177 |
 | Falmor_Duguir.md | 215 | 38 | 177 |
 | Gothric_Rillyn.md | 221 | 44 | 177 |
 | Greyward.md | 373 | 196 | 177 |
@@ -1286,16 +1191,16 @@
 | Franchot.md | 211 | 34 | 177 |
 | Jenniver_Antilles.md | 209 | 32 | 177 |
 | Jaycen_Borgu.md | 267 | 90 | 177 |
-| Lord_Portyr's_Attendant.md | 267 | 90 | 177 |
 | Laila.md | 213 | 36 | 177 |
+| Lord_Portyr's_Attendant.md | 267 | 90 | 177 |
 | Lunkbug.md | 224 | 47 | 177 |
 | Muttonchops_Oreelly.md | 299 | 122 | 177 |
 | Phantaizha.md | 230 | 53 | 177 |
 | Phibs_Brogan.md | 215 | 38 | 177 |
 | Rabbelle.md | 211 | 34 | 177 |
 | Rikka.md | 361 | 184 | 177 |
-| Shadow_Mastiff_Alpha.md | 263 | 86 | 177 |
 | Limmy.md | 245 | 68 | 177 |
+| Shadow_Mastiff_Alpha.md | 263 | 86 | 177 |
 | Spargo_Ovilliers.md | 209 | 32 | 177 |
 | Slog.md | 222 | 45 | 177 |
 | Slow-Butt.md | 203 | 26 | 177 |
@@ -1304,83 +1209,68 @@
 | Sister_Franchot.md | 211 | 34 | 177 |
 | Varrl.md | 357 | 180 | 177 |
 | Truffles_Smythe.md | 215 | 38 | 177 |
-| Xavier.md | 248 | 71 | 177 |
-| Youth_Varrl.md | 357 | 180 | 177 |
-| Belub.md | 358 | 182 | 176 |
-| Art_Cullagh.md | 324 | 148 | 176 |
 | Asharak.md | 420 | 244 | 176 |
+| Devotee_of_Mahkloompah.md | 251 | 75 | 176 |
 | Arka.md | 341 | 165 | 176 |
 | 'Plumes'_Fronkin.md | 201 | 25 | 176 |
+| Frightened_Ox.md | 249 | 73 | 176 |
 | Gilded_Minotaur.md | 282 | 106 | 176 |
 | Imprudence.md | 259 | 83 | 176 |
 | Kith.md | 396 | 220 | 176 |
 | Klarrvox.md | 257 | 81 | 176 |
-| Maeve.md | 265 | 89 | 176 |
-| Lassandra.md | 397 | 221 | 176 |
-| Ito.md | 307 | 131 | 176 |
-| Mayrina.md | 352 | 176 | 176 |
 | Martina_Kostaka.md | 209 | 33 | 176 |
-| Mason.md | 297 | 121 | 176 |
-| Nipawa.md | 318 | 142 | 176 |
-| Pavel.md | 282 | 106 | 176 |
-| Rizzle.md | 368 | 192 | 176 |
-| Thomas_C._Quirkilious.md | 266 | 90 | 176 |
 | Ulthred.md | 375 | 199 | 176 |
 | Tara.md | 297 | 121 | 176 |
-| Tristan.md | 281 | 105 | 176 |
 | Vidor.md | 327 | 151 | 176 |
 | Belford_Willoughby.md | 201 | 26 | 175 |
 | Chef_Roveer.md | 298 | 123 | 175 |
-| Chop.md | 272 | 97 | 175 |
 | A'jak'nir_Jeera.md | 350 | 175 | 175 |
 | Hadenwell.md | 305 | 130 | 175 |
-| Infernal_Mason.md | 297 | 122 | 175 |
 | Jeera.md | 350 | 175 | 175 |
-| Lady_Whitburn.md | 293 | 118 | 175 |
-| Morfred.md | 297 | 122 | 175 |
+| Minotaur.md | 269 | 94 | 175 |
 | Martina.md | 209 | 34 | 175 |
-| Nimias.md | 296 | 121 | 175 |
 | Roveer.md | 298 | 123 | 175 |
-| Randalf.md | 251 | 76 | 175 |
 | Rocky.md | 325 | 150 | 175 |
-| Silver.md | 265 | 90 | 175 |
 | Tonsure_Bellagio.md | 249 | 74 | 175 |
 | Tressym.md | 297 | 122 | 175 |
-| Ulumpha.md | 345 | 170 | 175 |
 | Tara_the_Tressym.md | 297 | 122 | 175 |
-| Sylvie_Summerworth.md | 251 | 76 | 175 |
 | Zina.md | 321 | 146 | 175 |
 | Ur'uth.md | 262 | 87 | 175 |
 | Argram.md | 384 | 210 | 174 |
 | Brynna.md | 366 | 192 | 174 |
+| Chop.md | 272 | 98 | 174 |
 | Andrick.md | 350 | 176 | 174 |
-| Corinna.md | 224 | 50 | 174 |
 | Bloris_Meadhoney.md | 274 | 100 | 174 |
+| Corinna.md | 224 | 50 | 174 |
 | Allymer.md | 201 | 27 | 174 |
 | Donnick.md | 225 | 51 | 174 |
 | Indra.md | 254 | 80 | 174 |
-| Kettel.md | 359 | 185 | 174 |
-| Locke.md | 332 | 158 | 174 |
-| Isbeth.md | 254 | 80 | 174 |
 | Gasselblad.md | 201 | 27 | 174 |
-| Morgan.md | 295 | 121 | 174 |
-| Phelgro_Dorph.md | 299 | 125 | 174 |
+| Nimias.md | 296 | 122 | 174 |
+| Silver.md | 265 | 91 | 174 |
 | Sneezer_Phibbs.md | 197 | 23 | 174 |
 | Sloncha_Owena.md | 280 | 106 | 174 |
 | Thalita_Cross.md | 287 | 113 | 174 |
+| Tristan.md | 281 | 107 | 174 |
 | Thudd.md | 359 | 185 | 174 |
 | Zerillo.md | 220 | 46 | 174 |
 | Anya.md | 339 | 166 | 173 |
 | Brithvar.md | 465 | 292 | 173 |
 | Cloaker.md | 269 | 96 | 173 |
+| Dulbers_Frint.md | 341 | 168 | 173 |
 | 'Gunny'_Sacko.md | 199 | 26 | 173 |
 | Goblin_Sapper.md | 241 | 68 | 173 |
 | Galem_Meats.md | 289 | 116 | 173 |
+| Infernal_Mason.md | 297 | 124 | 173 |
 | Lidwin.md | 296 | 123 | 173 |
+| Lady_Whitburn.md | 293 | 120 | 173 |
 | Lucille.md | 247 | 74 | 173 |
 | Head_Clerk_Meadhoney.md | 274 | 101 | 173 |
+| Lassandra.md | 397 | 224 | 173 |
+| Mayrina.md | 352 | 179 | 173 |
 | Meadhoney.md | 274 | 101 | 173 |
 | Salazon.md | 359 | 186 | 173 |
+| Sharlz_Molar.md | 276 | 103 | 173 |
 | Somi.md | 265 | 92 | 173 |
 | Tairn.md | 265 | 92 | 173 |
 | Sister_Lidwin.md | 296 | 123 | 173 |
@@ -1400,40 +1290,45 @@
 | Hyena.md | 261 | 89 | 172 |
 | Leepak_Brislen.md | 230 | 58 | 172 |
 | Milil.md | 249 | 77 | 172 |
+| Ito.md | 307 | 135 | 172 |
 | Nocturne.md | 303 | 131 | 172 |
-| Guex.md | 547 | 375 | 172 |
+| Pavel.md | 282 | 110 | 172 |
 | Pritt_Yellowbreath.md | 316 | 144 | 172 |
-| Sharran_Sentry.md | 245 | 73 | 172 |
+| Raider.md | 289 | 117 | 172 |
 | Rhaneld.md | 212 | 40 | 172 |
+| Sharran_Sentry.md | 245 | 73 | 172 |
+| Guex.md | 547 | 375 | 172 |
 | Snarrrl.md | 207 | 35 | 172 |
 | Stug_Minedale.md | 255 | 83 | 172 |
 | Ulkov_Sully.md | 218 | 46 | 172 |
-| Velson_Oakes.md | 263 | 91 | 172 |
 | Sister_Anya.md | 339 | 167 | 172 |
+| Velson_Oakes.md | 263 | 91 | 172 |
 | Verres.md | 217 | 45 | 172 |
 | Listelia_Dryselis.md | 310 | 138 | 172 |
 | Bellora_Truscott.md | 242 | 71 | 171 |
 | Benferlaen_Plum.md | 266 | 95 | 171 |
 | Byldrath.md | 203 | 32 | 171 |
-| Cinnamon.md | 209 | 38 | 171 |
 | Enris_Kellem.md | 266 | 95 | 171 |
 | Exxvikyap.md | 276 | 105 | 171 |
 | Geanne.md | 342 | 171 | 171 |
 | Cuddleface.md | 207 | 36 | 171 |
 | Hunna.md | 361 | 190 | 171 |
 | Lorroakan's_Projection.md | 279 | 108 | 171 |
-| Heder_Cross.md | 285 | 114 | 171 |
-| Lug.md | 264 | 93 | 171 |
 | Danna.md | 361 | 190 | 171 |
+| Lug.md | 264 | 93 | 171 |
+| Heder_Cross.md | 285 | 114 | 171 |
+| Morfred.md | 297 | 126 | 171 |
+| Mason.md | 297 | 126 | 171 |
 | Okta.md | 466 | 295 | 171 |
 | Phinn_Truscott.md | 242 | 71 | 171 |
-| Rrripper.md | 207 | 36 | 171 |
 | Quinara.md | 247 | 76 | 171 |
+| Rrripper.md | 207 | 36 | 171 |
 | Sarafin.md | 247 | 76 | 171 |
 | Snapp.md | 207 | 36 | 171 |
 | Ripper.md | 314 | 143 | 171 |
 | Tolna.md | 327 | 156 | 171 |
 | Tolna_Tome-Monger.md | 327 | 156 | 171 |
+| Thomas_C._Quirkilious.md | 266 | 95 | 171 |
 | Sister_Geanne.md | 342 | 171 | 171 |
 | Sister_Hunna.md | 361 | 190 | 171 |
 | Trina.md | 223 | 52 | 171 |
@@ -1446,27 +1341,26 @@
 | Bugbear_(Race).md | 271 | 101 | 170 |
 | Danzo.md | 267 | 97 | 170 |
 | Danzo_Arkwright.md | 267 | 97 | 170 |
+| Alembrosius.md | 205 | 35 | 170 |
 | Ch'kk'ch.md | 205 | 35 | 170 |
 | Chalara.md | 207 | 37 | 170 |
-| Alembrosius.md | 205 | 35 | 170 |
-| Dizby.md | 250 | 80 | 170 |
 | Dellys.md | 246 | 76 | 170 |
+| Dizby.md | 250 | 80 | 170 |
+| Gowlan.md | 207 | 37 | 170 |
 | Frunilla.md | 207 | 37 | 170 |
 | Dryad.md | 248 | 78 | 170 |
 | Duddy_Dudderken.md | 216 | 46 | 170 |
-| Gowlan.md | 207 | 37 | 170 |
 | Fleer.md | 207 | 37 | 170 |
 | Gremishka.md | 274 | 104 | 170 |
-| Hidden_Voice.md | 274 | 104 | 170 |
 | Hari_Nodles.md | 295 | 125 | 170 |
 | Hazelnut.md | 232 | 62 | 170 |
+| Lava_Elemental.md | 295 | 125 | 170 |
 | Juxon.md | 284 | 114 | 170 |
 | Hegira.md | 203 | 33 | 170 |
-| Lava_Elemental.md | 295 | 125 | 170 |
 | Garias.md | 368 | 198 | 170 |
 | News_Hawker_Chalara.md | 207 | 37 | 170 |
-| Nymessa.md | 346 | 176 | 170 |
 | Mandii_Harvestmoon.md | 193 | 23 | 170 |
+| Nymessa.md | 346 | 176 | 170 |
 | Pharnilla.md | 246 | 76 | 170 |
 | Modding_colon_Head_Models.md | 411 | 241 | 170 |
 | Salamander.md | 203 | 33 | 170 |
@@ -1477,27 +1371,31 @@
 | Thorne.md | 203 | 33 | 170 |
 | Sister_Sinda.md | 319 | 149 | 170 |
 | Veteran_Gish.md | 285 | 115 | 170 |
+| Ulumpha.md | 345 | 175 | 170 |
 | Vince_Torell.md | 205 | 35 | 170 |
 | Viss.md | 397 | 227 | 170 |
 | Zollerix.md | 241 | 71 | 170 |
 | Callaway.md | 265 | 96 | 169 |
+| Chost.md | 353 | 184 | 169 |
 | Alfira.md | 483 | 314 | 169 |
 | Displacer_Beast.md | 252 | 83 | 169 |
 | Dyrovell.md | 201 | 32 | 169 |
 | Glut.md | 360 | 191 | 169 |
 | Kristeen_Hazel.md | 251 | 82 | 169 |
-| Garron_Flintsplitter.md | 251 | 82 | 169 |
 | Dammon.md | 397 | 228 | 169 |
+| Garron_Flintsplitter.md | 251 | 82 | 169 |
 | Omotola.md | 250 | 81 | 169 |
 | Mask_of_Terror_(Overgrown_Tunnel).md | 291 | 122 | 169 |
 | Tarhun_Mnemonis.md | 263 | 94 | 169 |
+| Youth_Varrl.md | 357 | 188 | 169 |
 | Brialavant.md | 208 | 40 | 168 |
 | Barton.md | 264 | 96 | 168 |
-| Conall.md | 204 | 36 | 168 |
 | Amek.md | 276 | 108 | 168 |
 | Combustion_Belly_Spiderling.md | 240 | 72 | 168 |
 | Ellyka.md | 323 | 155 | 168 |
 | Emen.md | 201 | 33 | 168 |
+| Conall.md | 204 | 36 | 168 |
+| Githyanki_raider.md | 289 | 121 | 168 |
 | Gerson.md | 250 | 82 | 168 |
 | Gerson_the_Bent.md | 250 | 82 | 168 |
 | Ghast.md | 264 | 96 | 168 |
@@ -1505,20 +1403,19 @@
 | Grotpoll.md | 214 | 46 | 168 |
 | Glingo.md | 265 | 97 | 168 |
 | Glingo_Trapeze-Master.md | 265 | 97 | 168 |
-| Lens.md | 264 | 96 | 168 |
 | Lia.md | 436 | 268 | 168 |
+| Lens.md | 264 | 96 | 168 |
 | Legarioll.md | 208 | 40 | 168 |
 | Mevelenora.md | 213 | 45 | 168 |
 | Old_Troutman.md | 320 | 152 | 168 |
 | Mizora.md | 582 | 414 | 168 |
 | Cyrella.md | 260 | 92 | 168 |
-| Guide_colon_Head_Models.md | 411 | 243 | 168 |
 | Punkins.md | 205 | 37 | 168 |
 | Raylen_Jannath.md | 241 | 73 | 168 |
 | Ruth_Linnacker.md | 243 | 75 | 168 |
 | Saer_Grotpoll.md | 214 | 46 | 168 |
-| Silifrey_Sashenstar.md | 241 | 73 | 168 |
 | Sarken_Eomane.md | 242 | 74 | 168 |
+| Silifrey_Sashenstar.md | 241 | 73 | 168 |
 | Sinda.md | 319 | 151 | 168 |
 | Sister_Vanessa.md | 345 | 177 | 168 |
 | Vanessa.md | 345 | 177 | 168 |
@@ -1540,8 +1437,8 @@
 | Drybeldiyx.md | 228 | 61 | 167 |
 | Flant_Borlley.md | 203 | 36 | 167 |
 | Gherva_Minedale.md | 251 | 84 | 167 |
-| Gulster_Boyes.md | 213 | 46 | 167 |
 | Gish_Far'aag.md | 360 | 193 | 167 |
+| Gulster_Boyes.md | 213 | 46 | 167 |
 | Hucinda.md | 208 | 41 | 167 |
 | Glorissima.md | 201 | 34 | 167 |
 | Freida_Oberon.md | 201 | 34 | 167 |
@@ -1556,9 +1453,9 @@
 | Olly.md | 320 | 153 | 167 |
 | Monk's_Manifestation.md | 273 | 106 | 167 |
 | Pyrindath.md | 286 | 119 | 167 |
-| Rugan.md | 440 | 273 | 167 |
 | Queelia_Arvis.md | 240 | 73 | 167 |
 | Qun'irel.md | 288 | 121 | 167 |
+| Rugan.md | 440 | 273 | 167 |
 | Small_Klaw.md | 260 | 93 | 167 |
 | Theologist_Eternal_Debtor.md | 276 | 109 | 167 |
 | Taima.md | 271 | 104 | 167 |
@@ -1566,20 +1463,20 @@
 | Ulnar.md | 273 | 106 | 167 |
 | Unclean_Eternal_Debtor.md | 271 | 104 | 167 |
 | Volo.md | 422 | 255 | 167 |
-| Tilses.md | 325 | 158 | 167 |
 | Tra'an.md | 286 | 119 | 167 |
+| Tilses.md | 325 | 158 | 167 |
 | Yves.md | 230 | 63 | 167 |
 | Zar'a'ath.md | 276 | 109 | 167 |
 | Zgorrellik.md | 191 | 24 | 167 |
 | Zita.md | 201 | 34 | 167 |
-| Asparagus_Mhallie.md | 201 | 35 | 166 |
 | Birta_Grougg.md | 230 | 64 | 166 |
 | Biscotti.md | 214 | 48 | 166 |
-| Bastian_d'Zinn.md | 290 | 124 | 166 |
+| Asparagus_Mhallie.md | 201 | 35 | 166 |
 | Big_Liar_Bronzon.md | 228 | 62 | 166 |
 | Billy.md | 199 | 33 | 166 |
-| Burzenberg.md | 201 | 35 | 166 |
+| Bastian_d'Zinn.md | 290 | 124 | 166 |
 | Brottor.md | 360 | 194 | 166 |
+| Burzenberg.md | 201 | 35 | 166 |
 | Bosun_Gannet.md | 258 | 92 | 166 |
 | Aggressive_Crag_Spider.md | 206 | 40 | 166 |
 | Bobby.md | 199 | 33 | 166 |
@@ -1599,8 +1496,8 @@
 | Flaerian.md | 222 | 56 | 166 |
 | Flaming_Fist_Healer.md | 302 | 136 | 166 |
 | Githyanki_gish.md | 283 | 117 | 166 |
-| Druggag.md | 228 | 62 | 166 |
 | Grace_Flamm.md | 199 | 33 | 166 |
+| Druggag.md | 228 | 62 | 166 |
 | Fyrd_Nuugh.md | 263 | 97 | 166 |
 | Gaff_Garsem.md | 284 | 118 | 166 |
 | Gannet.md | 258 | 92 | 166 |
@@ -1613,12 +1510,12 @@
 | Harissa_Chopeta.md | 234 | 68 | 166 |
 | Kobold_Inventor.md | 314 | 148 | 166 |
 | Leary_Dowse.md | 257 | 91 | 166 |
-| Hiero_Lue.md | 398 | 232 | 166 |
+| Daine.md | 388 | 222 | 166 |
 | Marcus_(dead_fisher).md | 240 | 74 | 166 |
 | Markiza.md | 213 | 47 | 166 |
+| Hiero_Lue.md | 398 | 232 | 166 |
 | Kaet_Ling.md | 224 | 58 | 166 |
 | Iong.md | 271 | 105 | 166 |
-| Daine.md | 388 | 222 | 166 |
 | Night_Blade.md | 264 | 98 | 166 |
 | Moorino.md | 201 | 35 | 166 |
 | Meem_Grayling.md | 201 | 35 | 166 |
@@ -1626,6 +1523,7 @@
 | Phyria_Gollus.md | 245 | 79 | 166 |
 | Pickles.md | 199 | 33 | 166 |
 | Peete.md | 199 | 33 | 166 |
+| Nipawa.md | 318 | 152 | 166 |
 | Rox_Flunter.md | 221 | 55 | 166 |
 | Rhy.md | 380 | 214 | 166 |
 | Sharley.md | 225 | 59 | 166 |
@@ -1633,17 +1531,17 @@
 | Smiley_Gheef.md | 224 | 58 | 166 |
 | Slatey_Marven.md | 231 | 65 | 166 |
 | Tooralooralayo.md | 234 | 68 | 166 |
-| Thenar.md | 268 | 102 | 166 |
 | Twitch_Broven.md | 234 | 68 | 166 |
 | Tylman_Sands.md | 288 | 122 | 166 |
+| Thenar.md | 268 | 102 | 166 |
 | Skip.md | 258 | 92 | 166 |
 | Vanra.md | 200 | 34 | 166 |
 | Vanra_Bergauz.md | 200 | 34 | 166 |
 | Varce_Humbletood.md | 205 | 39 | 166 |
 | Varderola.md | 261 | 95 | 166 |
 | Vrindula_Mardassus.md | 246 | 80 | 166 |
-| Tam.md | 258 | 92 | 166 |
 | Tuloria.md | 233 | 67 | 166 |
+| Tam.md | 258 | 92 | 166 |
 | Yeller_Dawg.md | 222 | 56 | 166 |
 | Wendel_Ashgrove.md | 261 | 95 | 166 |
 | Listless.md | 225 | 59 | 166 |
@@ -1674,14 +1572,14 @@
 | Karad.md | 287 | 123 | 164 |
 | Lightning_Hallucination.md | 214 | 50 | 164 |
 | Ochre_Jelly.md | 229 | 65 | 164 |
-| Poison_Hallucination_(creature).md | 214 | 50 | 164 |
 | Mocking_Eternal_Debtor.md | 267 | 103 | 164 |
+| Poison_Hallucination_(creature).md | 214 | 50 | 164 |
 | Rilia.md | 247 | 83 | 164 |
 | The_Warden.md | 492 | 328 | 164 |
 | Warden.md | 492 | 328 | 164 |
+| Violet.md | 297 | 133 | 164 |
 | Thunder_(Flaming_Fist).md | 405 | 241 | 164 |
 | Tilly.md | 270 | 106 | 164 |
-| Violet.md | 297 | 133 | 164 |
 | Bex.md | 366 | 203 | 163 |
 | Blevindall.md | 245 | 82 | 163 |
 | Callie.md | 400 | 237 | 163 |
@@ -1697,6 +1595,7 @@
 | Elminster_Aumar.md | 378 | 215 | 163 |
 | Felix_Farrahd.md | 205 | 42 | 163 |
 | Hakeem.md | 247 | 84 | 163 |
+| Kur.md | 369 | 206 | 163 |
 | Kali_Hammerhand.md | 294 | 131 | 163 |
 | Henk.md | 248 | 85 | 163 |
 | Muttonchops_Dexon.md | 187 | 24 | 163 |
@@ -1727,23 +1626,23 @@
 | Snicker.md | 226 | 64 | 162 |
 | Zena.md | 244 | 82 | 162 |
 | Winslow_Reginol.md | 243 | 81 | 162 |
-| Commander_Lightfeather.md | 209 | 48 | 161 |
+| Delverdenn.md | 377 | 216 | 161 |
 | Dream_Guardian.md | 272 | 111 | 161 |
 | Dream_Visitor.md | 272 | 111 | 161 |
-| Delverdenn.md | 377 | 216 | 161 |
+| Commander_Lightfeather.md | 209 | 48 | 161 |
 | Harpy.md | 266 | 105 | 161 |
 | Mari.md | 290 | 129 | 161 |
 | Morann.md | 286 | 125 | 161 |
 | Mattis.md | 363 | 202 | 161 |
 | Rugger_Shattershield.md | 258 | 97 | 161 |
-| Avgarioletta.md | 356 | 196 | 160 |
 | Ben_Golewits.md | 230 | 70 | 160 |
+| Avgarioletta.md | 356 | 196 | 160 |
 | Bloodmarrow_Skeleton.md | 199 | 39 | 160 |
 | Aubrey.md | 201 | 41 | 160 |
 | Archivist.md | 313 | 153 | 160 |
 | Bored_Ox.md | 209 | 49 | 160 |
-| Cordrane.md | 378 | 218 | 160 |
 | Blue_Jay.md | 213 | 53 | 160 |
+| Cordrane.md | 378 | 218 | 160 |
 | Death's_Head_of_Bhaal.md | 305 | 145 | 160 |
 | Devoured_Eternal_Debtor.md | 287 | 127 | 160 |
 | Fallen_Gur_Hunter.md | 230 | 70 | 160 |
@@ -1755,8 +1654,8 @@
 | Liam.md | 233 | 73 | 160 |
 | Intellect_Devourer.md | 244 | 84 | 160 |
 | Lakrissa.md | 446 | 286 | 160 |
-| Kaldani.md | 470 | 310 | 160 |
 | Lurgan.md | 400 | 240 | 160 |
+| Kaldani.md | 470 | 310 | 160 |
 | Memnos.md | 304 | 144 | 160 |
 | Medrash.md | 307 | 147 | 160 |
 | Magmar.md | 390 | 230 | 160 |
@@ -1767,11 +1666,11 @@
 | Smythin.md | 234 | 74 | 160 |
 | Suttida_Attana.md | 249 | 89 | 160 |
 | Vicar_Humbletoes.md | 336 | 176 | 160 |
-| Syllving.md | 342 | 182 | 160 |
-| Ward_Magmar.md | 390 | 230 | 160 |
 | Xeph.md | 290 | 130 | 160 |
+| Ward_Magmar.md | 390 | 230 | 160 |
 | Vilmina.md | 357 | 197 | 160 |
 | Visionary_Eternal_Debtor.md | 287 | 127 | 160 |
+| Syllving.md | 342 | 182 | 160 |
 | Zorru.md | 391 | 231 | 160 |
 | List_of_martial_weapons.md | 373 | 213 | 160 |
 | Darragh.md | 334 | 175 | 159 |
@@ -1784,9 +1683,9 @@
 | Fytz.md | 298 | 139 | 159 |
 | Fytz_the_Firecracker.md | 298 | 139 | 159 |
 | Giant_Eagle.md | 238 | 79 | 159 |
-| Goblin_Warrior.md | 327 | 168 | 159 |
 | Cursed_Kuo-Toa.md | 277 | 118 | 159 |
 | Cursed_Kuo-Toa_(melee).md | 277 | 118 | 159 |
+| Goblin_Warrior.md | 327 | 168 | 159 |
 | Glone.md | 285 | 126 | 159 |
 | Gloria.md | 191 | 32 | 159 |
 | Hangfar.md | 363 | 204 | 159 |
@@ -1797,8 +1696,8 @@
 | News_Hawker_Jason.md | 191 | 32 | 159 |
 | News_Hawker_Jonah.md | 195 | 36 | 159 |
 | Nalira.md | 304 | 145 | 159 |
-| Rakath_Glitterbeard.md | 411 | 252 | 159 |
 | Molly.md | 193 | 34 | 159 |
+| Rakath_Glitterbeard.md | 411 | 252 | 159 |
 | Sadar_Illanov.md | 191 | 32 | 159 |
 | Teebs.md | 350 | 191 | 159 |
 | Thadwick.md | 383 | 224 | 159 |
@@ -1830,6 +1729,7 @@
 | Svend.md | 253 | 95 | 158 |
 | Sword_Spider.md | 241 | 83 | 158 |
 | Untaken_Glone.md | 285 | 127 | 158 |
+| Corniche.md | 276 | 119 | 157 |
 | Chy'raagh.md | 300 | 143 | 157 |
 | Doni.md | 247 | 90 | 157 |
 | Elonia.md | 379 | 222 | 157 |
@@ -1849,21 +1749,22 @@
 | Voyeur_Eternal_Debtor.md | 295 | 138 | 157 |
 | Waltzing_Eternal_Debtor.md | 283 | 126 | 157 |
 | Brigid.md | 226 | 70 | 156 |
-| Chorizo.md | 286 | 130 | 156 |
 | Burrock.md | 195 | 39 | 156 |
+| Chorizo.md | 286 | 130 | 156 |
 | Flaheerta.md | 227 | 71 | 156 |
 | Gira.md | 379 | 223 | 156 |
 | Lester_Farrower.md | 293 | 137 | 156 |
+| Meztli.md | 532 | 376 | 156 |
 | Lurianna_Sauvage.md | 232 | 76 | 156 |
 | Manifestation_of_Tyranny.md | 233 | 77 | 156 |
 | Ormn.md | 235 | 79 | 156 |
 | Quil.md | 299 | 143 | 156 |
 | Quil_Grootslang.md | 299 | 143 | 156 |
 | Rhed.md | 346 | 190 | 156 |
+| Sauceman_Chorizo.md | 286 | 130 | 156 |
+| Shuna_Huanje.md | 293 | 137 | 156 |
 | Seralia_Devers.md | 179 | 23 | 156 |
 | Spatula_Farggo.md | 274 | 118 | 156 |
-| Shuna_Huanje.md | 293 | 137 | 156 |
-| Sauceman_Chorizo.md | 286 | 130 | 156 |
 | Topaz_(Blue_Jay).md | 243 | 87 | 156 |
 | Toron.md | 322 | 166 | 156 |
 | Ulova.md | 284 | 128 | 156 |
@@ -1880,7 +1781,9 @@
 | Pompton_Norvath.md | 219 | 64 | 155 |
 | Sovereign_Spaw.md | 390 | 235 | 155 |
 | Spaw.md | 390 | 235 | 155 |
+| Therezzyn.md | 396 | 241 | 155 |
 | Tuffet.md | 241 | 86 | 155 |
+| Xavier.md | 248 | 93 | 155 |
 | Steffy.md | 187 | 32 | 155 |
 | Aurelia.md | 294 | 140 | 154 |
 | Albert.md | 245 | 91 | 154 |
@@ -1897,42 +1800,43 @@
 | Stylin'_Horst.md | 233 | 79 | 154 |
 | Victoria.md | 312 | 158 | 154 |
 | The_Counting_House_-_High_Security_Vaults.md | 599 | 445 | 154 |
+| Belub.md | 358 | 205 | 153 |
 | Chell.md | 323 | 170 | 153 |
 | Droona_Shveitz.md | 235 | 82 | 153 |
 | Cursed_Kuo-Toa_(ranged).md | 278 | 125 | 153 |
 | Leon.md | 321 | 168 | 153 |
 | Dame_Guisarme.md | 349 | 196 | 153 |
-| Oathless_Wretch.md | 324 | 171 | 153 |
 | Magnolia.md | 297 | 144 | 153 |
+| Oathless_Wretch.md | 324 | 171 | 153 |
 | Scared_Boar.md | 217 | 64 | 153 |
 | Tongs_Stoneheart.md | 244 | 91 | 153 |
 | Zaki.md | 228 | 75 | 153 |
 | Wrenfrew_the_Barker.md | 176 | 23 | 153 |
-| Apostate_Destroyer.md | 274 | 122 | 152 |
 | Bernyr.md | 237 | 85 | 152 |
+| Apostate_Destroyer.md | 274 | 122 | 152 |
 | Bleeri.md | 313 | 161 | 152 |
 | Bruno_Indomicus.md | 239 | 87 | 152 |
 | Darvis.md | 262 | 110 | 152 |
 | Djingo.md | 248 | 96 | 152 |
 | Dollivar_Noot.md | 267 | 115 | 152 |
-| 'Bigmouth'_Thimsen.md | 295 | 143 | 152 |
 | Earno_Diggums.md | 233 | 81 | 152 |
+| 'Bigmouth'_Thimsen.md | 295 | 143 | 152 |
 | Goblin_Brawler.md | 302 | 150 | 152 |
 | Dryfle_Doon.md | 283 | 131 | 152 |
 | Flaming_Fist_Mercenary.md | 258 | 106 | 152 |
 | Fleiner.md | 233 | 81 | 152 |
 | Flo_Hurlburl.md | 262 | 110 | 152 |
-| Grundlgornn.md | 291 | 139 | 152 |
 | Giftu_Hudd.md | 283 | 131 | 152 |
-| Caravan_Ox.md | 201 | 49 | 152 |
+| Grundlgornn.md | 291 | 139 | 152 |
 | Grent_Grintly.md | 279 | 127 | 152 |
+| Caravan_Ox.md | 201 | 49 | 152 |
 | Hasmet_Hudd.md | 283 | 131 | 152 |
 | Jacek.md | 255 | 103 | 152 |
+| Kydden.md | 318 | 166 | 152 |
 | Marilla.md | 258 | 106 | 152 |
 | Marjoram.md | 270 | 118 | 152 |
-| Kydden.md | 318 | 166 | 152 |
-| Kale_Dorriacks.md | 233 | 81 | 152 |
 | Mind_flayer_(prologue).md | 247 | 95 | 152 |
+| Kale_Dorriacks.md | 233 | 81 | 152 |
 | Nets_Blandorf.md | 238 | 86 | 152 |
 | Ontur.md | 318 | 166 | 152 |
 | Murmath.md | 296 | 144 | 152 |
@@ -1940,8 +1844,8 @@
 | Matthurny.md | 262 | 110 | 152 |
 | Ormont.md | 239 | 87 | 152 |
 | Neddio.md | 214 | 62 | 152 |
-| Rascal_Borys.md | 225 | 73 | 152 |
 | Qirahe.md | 306 | 154 | 152 |
+| Rascal_Borys.md | 225 | 73 | 152 |
 | Sahuagin.md | 212 | 60 | 152 |
 | Siggy.md | 289 | 137 | 152 |
 | Turnip_Bubbs.md | 273 | 121 | 152 |
@@ -1950,8 +1854,8 @@
 | Tugelnhorn.md | 289 | 137 | 152 |
 | Trader_Djingo.md | 248 | 96 | 152 |
 | Arabella.md | 365 | 214 | 151 |
-| Commander_Zhalk.md | 325 | 174 | 151 |
 | Dwindling.md | 234 | 83 | 151 |
+| Commander_Zhalk.md | 325 | 174 | 151 |
 | Goris_Ballast.md | 264 | 113 | 151 |
 | Geezer_Loryss.md | 223 | 72 | 151 |
 | Kimmy.md | 227 | 76 | 151 |
@@ -1972,6 +1876,7 @@
 | Dain.md | 379 | 229 | 150 |
 | Norya_Baker.md | 345 | 195 | 150 |
 | Pistle.md | 308 | 158 | 150 |
+| Randalf.md | 251 | 101 | 150 |
 | Remira.md | 303 | 153 | 150 |
 | Ward_Pistle.md | 308 | 158 | 150 |
 | Yousen.md | 296 | 146 | 150 |
@@ -1992,7 +1897,6 @@
 | Aranea_Major.md | 256 | 108 | 148 |
 | Blaise_Hhune.md | 264 | 116 | 148 |
 | Blue_Connor_Balkosc.md | 238 | 90 | 148 |
-| Cinta_Golewits.md | 176 | 28 | 148 |
 | Gable.md | 208 | 60 | 148 |
 | Horus_Crysst.md | 227 | 79 | 148 |
 | Hannaah_Befling.md | 217 | 69 | 148 |
@@ -2005,12 +1909,14 @@
 | Torin_Crysst.md | 180 | 32 | 148 |
 | Tinsy_Ralpp.md | 351 | 203 | 148 |
 | Syllabub_Fran.md | 246 | 98 | 148 |
+| Brother_Bill.md | 304 | 157 | 147 |
 | Dishevelled_Chicken.md | 230 | 83 | 147 |
 | Deep_Rothé.md | 238 | 91 | 147 |
 | Emmet.md | 208 | 61 | 147 |
 | Fallen_Bhaalspawn.md | 223 | 76 | 147 |
 | Gethin.md | 219 | 72 | 147 |
 | Ha-yoon_Kim.md | 223 | 76 | 147 |
+| Culk.md | 423 | 276 | 147 |
 | Iwan.md | 219 | 72 | 147 |
 | Lupus_Optumus.md | 205 | 58 | 147 |
 | Rhett.md | 219 | 72 | 147 |
@@ -2033,23 +1939,25 @@
 | Raheni.md | 333 | 187 | 146 |
 | Sherrill.md | 334 | 188 | 146 |
 | Clara.md | 241 | 96 | 145 |
+| Art_Cullagh.md | 324 | 179 | 145 |
 | Fevrokis.md | 334 | 189 | 145 |
 | G'nuril.md | 261 | 116 | 145 |
-| Hollow_Armour.md | 259 | 114 | 145 |
 | Inessa.md | 241 | 96 | 145 |
+| Hollow_Armour.md | 259 | 114 | 145 |
 | Julia.md | 241 | 96 | 145 |
 | Intellect_Devourer_(Weakened).md | 195 | 50 | 145 |
 | Mikki_Kori.md | 333 | 188 | 145 |
 | Nelburn_Frust.md | 267 | 122 | 145 |
 | Patricia.md | 241 | 96 | 145 |
+| D&D_5e_class_changes.md | 1017 | 872 | 145 |
 | Samwell_Staxford.md | 306 | 161 | 145 |
 | Spar.md | 223 | 78 | 145 |
 | The_Darkening_Hunt.md | 259 | 114 | 145 |
 | Willow.md | 180 | 35 | 145 |
 | Gravedigger_Karcen.md | 351 | 207 | 144 |
 | Lockhorn.md | 269 | 125 | 144 |
-| Karcen.md | 351 | 207 | 144 |
 | Larger_Giant_Spider.md | 252 | 108 | 144 |
+| Karcen.md | 351 | 207 | 144 |
 | Meazel.md | 228 | 84 | 144 |
 | Phantasm.md | 231 | 87 | 144 |
 | Redcap_Mystic_Cannoneer.md | 239 | 95 | 144 |
@@ -2058,8 +1966,8 @@
 | Cefrey.md | 275 | 132 | 143 |
 | Arne_Jacobson.md | 216 | 73 | 143 |
 | Gan.md | 250 | 107 | 143 |
-| Izzy.md | 222 | 79 | 143 |
 | Ide.md | 267 | 124 | 143 |
+| Izzy.md | 222 | 79 | 143 |
 | Mind_flayer.md | 252 | 109 | 143 |
 | Illithids.md | 252 | 109 | 143 |
 | Numia.md | 277 | 134 | 143 |
@@ -2091,14 +1999,14 @@
 | Brid_Hunley.md | 186 | 46 | 140 |
 | Blinded_Elf.md | 206 | 66 | 140 |
 | Books.md | 855 | 715 | 140 |
-| Aguta.md | 268 | 128 | 140 |
 | Conjured_Cat.md | 176 | 36 | 140 |
+| Aguta.md | 268 | 128 | 140 |
 | Entombed_Scribe.md | 215 | 75 | 140 |
 | Ghainemeir.md | 270 | 130 | 140 |
 | Diallo.md | 258 | 118 | 140 |
+| Illithid_Arcanist.md | 287 | 147 | 140 |
 | Hastar_Biggs.md | 222 | 82 | 140 |
 | Jagic.md | 272 | 132 | 140 |
-| Illithid_Arcanist.md | 287 | 147 | 140 |
 | Mimic.md | 250 | 110 | 140 |
 | Narvass.md | 247 | 107 | 140 |
 | Murderous_Crow.md | 185 | 45 | 140 |
@@ -2130,22 +2038,22 @@
 | Arcane_Cannon.md | 200 | 65 | 135 |
 | Arcane_Turret.md | 200 | 65 | 135 |
 | Dead_Elf.md | 201 | 66 | 135 |
-| Leucis_Kallista.md | 215 | 80 | 135 |
 | Iados_Kallista.md | 215 | 80 | 135 |
+| Leucis_Kallista.md | 215 | 80 | 135 |
 | Lupus_Major.md | 247 | 112 | 135 |
 | Nemi_Kallista.md | 215 | 80 | 135 |
 | Phoenix_Lubbins.md | 217 | 82 | 135 |
 | Rozes_Kallista.md | 229 | 94 | 135 |
 | Shadow-Cursed_Raven.md | 189 | 54 | 135 |
-| Taeglyn.md | 201 | 66 | 135 |
 | Xargrim.md | 282 | 147 | 135 |
+| Taeglyn.md | 201 | 66 | 135 |
 | Zumbo_Pumbo.md | 216 | 81 | 135 |
 | Brilgor.md | 308 | 174 | 134 |
 | Morghal.md | 319 | 185 | 134 |
 | Orik.md | 302 | 168 | 134 |
 | Young_Mud_Mephit.md | 231 | 97 | 134 |
-| Apostate_Defender.md | 230 | 97 | 133 |
 | Belron_Strongstep.md | 230 | 97 | 133 |
+| Apostate_Defender.md | 230 | 97 | 133 |
 | Liadan.md | 245 | 112 | 133 |
 | Worg_(white).md | 179 | 46 | 133 |
 | Greaseball.md | 209 | 77 | 132 |
@@ -2170,8 +2078,8 @@
 | Sheep.md | 170 | 40 | 130 |
 | Thuldra_Thuldrin.md | 206 | 76 | 130 |
 | Balgor.md | 253 | 124 | 129 |
-| Fyodor.md | 232 | 103 | 129 |
 | Ghoul_Medic.md | 231 | 102 | 129 |
+| Fyodor.md | 232 | 103 | 129 |
 | Jorkens.md | 222 | 93 | 129 |
 | Lesser_Hellsboar.md | 187 | 58 | 129 |
 | Lo.md | 221 | 92 | 129 |
@@ -2186,6 +2094,7 @@
 | Ursa_Major.md | 233 | 104 | 129 |
 | Apostate_Sentinel.md | 219 | 91 | 128 |
 | Cambion.md | 267 | 139 | 128 |
+| Hidden_Voice.md | 274 | 146 | 128 |
 | Lyrux_Goldthroat.md | 201 | 73 | 128 |
 | Nonabune.md | 165 | 37 | 128 |
 | Solras.md | 249 | 121 | 128 |
@@ -2228,8 +2137,8 @@
 | Dead_Drow.md | 217 | 97 | 120 |
 | Exhausted_Bird.md | 182 | 62 | 120 |
 | Klorrvank.md | 182 | 62 | 120 |
-| Predator_Werewolf.md | 205 | 85 | 120 |
 | Ra'jak.md | 157 | 37 | 120 |
+| Predator_Werewolf.md | 205 | 85 | 120 |
 | Stone_Lord.md | 448 | 328 | 120 |
 | Stoney.md | 217 | 97 | 120 |
 | Thaniel.md | 240 | 120 | 120 |
@@ -2265,6 +2174,7 @@
 | Vance_(Dead_Toll_Collector).md | 177 | 62 | 115 |
 | Dark_Breaker.md | 288 | 174 | 114 |
 | Marlono_Rhandle.md | 196 | 82 | 114 |
+| Rizzle.md | 368 | 254 | 114 |
 | Santoria.md | 188 | 74 | 114 |
 | Vance.md | 177 | 63 | 114 |
 | Kyr'das.md | 147 | 34 | 113 |
@@ -2333,9 +2243,9 @@
 | Badger.md | 177 | 79 | 98 |
 | Emmeline_Hallowleaf.md | 163 | 65 | 98 |
 | Floridor.md | 201 | 103 | 98 |
+| Cursed_Skull.md | 157 | 59 | 98 |
 | Golbraith.md | 248 | 150 | 98 |
 | Golbraith_Stredivas.md | 248 | 150 | 98 |
-| Cursed_Skull.md | 157 | 59 | 98 |
 | Naoise.md | 154 | 56 | 98 |
 | Naoise_Nallinto.md | 154 | 56 | 98 |
 | Unnatural_Blot.md | 224 | 126 | 98 |
@@ -2351,11 +2261,12 @@
 | Blades_Bakstir.md | 119 | 24 | 95 |
 | Cheeky_Nora.md | 150 | 55 | 95 |
 | Boar.md | 191 | 96 | 95 |
+| Kirz.md | 366 | 272 | 94 |
 | Roustabout_Vix.md | 118 | 24 | 94 |
 | Vix.md | 118 | 24 | 94 |
 | Breaker_of_War.md | 214 | 121 | 93 |
-| 'Loose_Lips'_Cyrilla.md | 185 | 92 | 93 |
 | Edmundis_Magarus.md | 133 | 40 | 93 |
+| 'Loose_Lips'_Cyrilla.md | 185 | 92 | 93 |
 | Falael.md | 129 | 36 | 93 |
 | Jacelyn.md | 167 | 74 | 93 |
 | Naiske.md | 121 | 28 | 93 |
@@ -2381,9 +2292,9 @@
 | Spellplague.md | 256 | 166 | 90 |
 | Spellplague_(Aberration).md | 256 | 166 | 90 |
 | Boss_Friol.md | 198 | 109 | 89 |
-| Air_Elemental.md | 199 | 110 | 89 |
 | Conjured_Crab.md | 121 | 32 | 89 |
 | Conjured_Frog.md | 125 | 36 | 89 |
+| Air_Elemental.md | 199 | 110 | 89 |
 | Dondo.md | 128 | 39 | 89 |
 | Flying_Ghoul.md | 183 | 94 | 89 |
 | Friol.md | 198 | 109 | 89 |
@@ -2405,6 +2316,7 @@
 | Harvard_Willoughby.md | 154 | 67 | 87 |
 | The_Emperor.md | 369 | 282 | 87 |
 | Conjured_Rat.md | 116 | 30 | 86 |
+| Clover.md | 347 | 261 | 86 |
 | Mummy_(Create_Undead).md | 163 | 77 | 86 |
 | Sanseverina.md | 113 | 27 | 86 |
 | Tentacle.md | 155 | 70 | 85 |
@@ -2423,6 +2335,7 @@
 | Dead_Myconid_Sprout.md | 134 | 54 | 80 |
 | Chult_Alioramus.md | 162 | 82 | 80 |
 | Fire_Elemental.md | 194 | 114 | 80 |
+| Kettel.md | 359 | 439 | 80 |
 | Mage_Hand_(creature).md | 139 | 59 | 80 |
 | Shuurga.md | 180 | 100 | 80 |
 | Cruor.md | 239 | 160 | 79 |
@@ -2430,10 +2343,12 @@
 | Madeline_Whitburn.md | 159 | 80 | 79 |
 | Malek_Stones.md | 138 | 59 | 79 |
 | Quest.md | 528 | 449 | 79 |
+| Elindale.md | 383 | 305 | 78 |
 | Gummidge.md | 249 | 171 | 78 |
 | Jheruth.md | 115 | 37 | 78 |
 | Ketheric.md | 410 | 332 | 78 |
 | Ketheric_Thorm.md | 410 | 332 | 78 |
+| Isobel_Thorm.md | 493 | 415 | 78 |
 | Olloa.md | 205 | 127 | 78 |
 | Vulk.md | 145 | 67 | 78 |
 | Balthazar's_chambers.md | 611 | 534 | 77 |
@@ -2443,11 +2358,12 @@
 | Giant_Spider.md | 124 | 48 | 76 |
 | Panther.md | 143 | 67 | 76 |
 | Zhent_Half-Elven.md | 189 | 113 | 76 |
-| Cerys.md | 214 | 139 | 75 |
 | Alia_Durinbold.md | 147 | 72 | 75 |
+| Cerys.md | 214 | 139 | 75 |
 | Derryth.md | 266 | 191 | 75 |
 | Derryth_Bonecloak.md | 266 | 191 | 75 |
 | Dilophosaurus.md | 178 | 103 | 75 |
+| Keris.md | 404 | 329 | 75 |
 | Maddala_Deadeye.md | 143 | 68 | 75 |
 | Moonrise_Towers.md | 611 | 536 | 75 |
 | Brounce.md | 197 | 123 | 74 |
@@ -2478,7 +2394,11 @@
 | Rags_Deelarma.md | 154 | 83 | 71 |
 | Efrin.md | 92 | 22 | 70 |
 | Efrin_Hammerborn.md | 92 | 22 | 70 |
+| Edward_Tremby.md | 354 | 284 | 70 |
 | Flaming_Fist_Sergeant.md | 323 | 253 | 70 |
+| Gazz.md | 354 | 284 | 70 |
+| Leistine.md | 321 | 251 | 70 |
+| Klarv.md | 284 | 214 | 70 |
 | Oliver.md | 90 | 20 | 70 |
 | Redesigned_Shadowheart_content.md | 187 | 117 | 70 |
 | Echo_of_a_Lost_Love.md | 90 | 21 | 69 |
@@ -2512,6 +2432,7 @@
 | Farslayer.md | 86 | 21 | 65 |
 | Farslayer_of_Bhaal_Ghislev.md | 86 | 21 | 65 |
 | Ghislev.md | 86 | 21 | 65 |
+| Maeve.md | 265 | 200 | 65 |
 | Sparky.md | 126 | 61 | 65 |
 | Cashguards.md | 599 | 535 | 64 |
 | Cheese_Wheel.md | 94 | 30 | 64 |
@@ -2522,6 +2443,7 @@
 | Alexander_Rainforest.md | 178 | 115 | 63 |
 | Dalyria.md | 199 | 136 | 63 |
 | Bailey.md | 140 | 78 | 62 |
+| Krolla.md | 384 | 322 | 62 |
 | Rurik.md | 106 | 44 | 62 |
 | Sarin.md | 83 | 21 | 62 |
 | The_Counting_House.md | 599 | 537 | 62 |
@@ -2539,6 +2461,7 @@
 | Mummy_(wraith).md | 79 | 19 | 60 |
 | Nubaldin.md | 176 | 116 | 60 |
 | Traveller's_Chest.md | 64 | 124 | 60 |
+| Cilarea.md | 317 | 258 | 59 |
 | Netherbrain.md | 257 | 198 | 59 |
 | Respec.md | 268 | 209 | 59 |
 | Soporific_Rat.md | 106 | 47 | 59 |
@@ -2555,15 +2478,16 @@
 | Ethel.md | 346 | 288 | 58 |
 | Rectus.md | 145 | 87 | 58 |
 | Ligus.md | 145 | 87 | 58 |
-| Garret_Dortmell.md | 77 | 20 | 57 |
 | Multiclass.md | 346 | 289 | 57 |
 | Multiclassing.md | 346 | 289 | 57 |
+| Garret_Dortmell.md | 77 | 20 | 57 |
 | Subclass.md | 346 | 289 | 57 |
 | Duergar_Spore_Servant_(guard_melee).md | 141 | 85 | 56 |
+| Koll_the_Red.md | 294 | 238 | 56 |
 | Luan.md | 153 | 97 | 56 |
 | News_Hawker_Luan.md | 153 | 97 | 56 |
-| Ptaris'_Mental_Image.md | 67 | 11 | 56 |
 | Psionic_Weakening.md | 126 | 70 | 56 |
+| Ptaris'_Mental_Image.md | 67 | 11 | 56 |
 | Scrying_Eye.md | 69 | 13 | 56 |
 | Duergar_Spore_Servant_(ranged).md | 137 | 82 | 55 |
 | Intellect_Glutton.md | 119 | 64 | 55 |
@@ -2584,6 +2508,10 @@
 | Tribunal_Ghost.md | 175 | 122 | 53 |
 | Sir_Gorran_Penghyst.md | 150 | 97 | 53 |
 | bg3wiki_colon_Copyrights.md | 127 | 74 | 53 |
+| Ciara_Blank.md | 221 | 169 | 52 |
+| Cillian.md | 211 | 159 | 52 |
+| Cinna_Brewcellar.md | 247 | 195 | 52 |
+| Cinnamon.md | 209 | 157 | 52 |
 | Duergar_Spore_Servant_(guard_caster).md | 144 | 92 | 52 |
 | Feeble_Spectre.md | 64 | 12 | 52 |
 | Help_colon_FAQ.md | 109 | 57 | 52 |
@@ -2607,6 +2535,7 @@
 | Shattered_Flail.md | 57 | 108 | 51 |
 | Bat.md | 99 | 49 | 50 |
 | Fig.md | 84 | 34 | 50 |
+| Locke.md | 332 | 382 | 50 |
 | Prince_Orpheus.md | 227 | 177 | 50 |
 | Tate.md | 92 | 42 | 50 |
 | bg3wiki_colon_Community.md | 66 | 16 | 50 |
@@ -2624,6 +2553,7 @@
 | Spectral_Flumph.md | 59 | 11 | 48 |
 | Cazador.md | 200 | 153 | 47 |
 | Cazador_Szarr.md | 200 | 153 | 47 |
+| Cinta_Golewits.md | 176 | 129 | 47 |
 | Rabbit.md | 82 | 35 | 47 |
 | Splintered_Shadow_Hound.md | 81 | 34 | 47 |
 | List_of_magic_items_in_Act_Two.md | 1036 | 989 | 47 |
@@ -2635,7 +2565,9 @@
 | Blast_Cannon.md | 70 | 26 | 44 |
 | Dog.md | 91 | 47 | 44 |
 | Enver_Gortash.md | 428 | 384 | 44 |
+| Follgast.md | 262 | 218 | 44 |
 | Countercharm_(creature).md | 76 | 33 | 43 |
+| Mask_of_Servitude_(Overgrown_Tunnel).md | 279 | 236 | 43 |
 | Psionic_Presence.md | 642 | 599 | 43 |
 | Thisobald.md | 235 | 192 | 43 |
 | Thisobald_Thorm.md | 235 | 192 | 43 |
@@ -2665,19 +2597,22 @@
 | Dinu.md | 59 | 21 | 38 |
 | Kavell.md | 67 | 29 | 38 |
 | Oloric_Witmirth.md | 57 | 19 | 38 |
+| Moke.md | 281 | 243 | 38 |
 | Ettvard_Needle.md | 136 | 99 | 37 |
 | Pearlspore_Bell.md | 64 | 27 | 37 |
 | Doozy_the_Dunce.md | 63 | 27 | 36 |
 | Create_Sorcery_Points.md | 71 | 35 | 36 |
-| Gameplay_mechanics.md | 293 | 257 | 36 |
 | Ghoul_Scout.md | 123 | 87 | 36 |
+| Gameplay_mechanics.md | 293 | 257 | 36 |
 | Grave_Shot.md | 80 | 44 | 36 |
+| Lump_the_Enlightened.md | 395 | 359 | 36 |
 | Permit_Passage.md | 95 | 59 | 36 |
 | Weapons.md | 313 | 349 | 36 |
 | Justen.md | 59 | 24 | 35 |
 | Fly_(class_action).md | 73 | 39 | 34 |
 | Jerris.md | 384 | 350 | 34 |
 | Resistant_to_Necrotic_Damage_(Condition).md | 124 | 90 | 34 |
+| Cyrel.md | 345 | 312 | 33 |
 | The_Dark_Urge_(Origin).md | 244 | 211 | 33 |
 | Claws_(action).md | 60 | 28 | 32 |
 | Dark_Urge.md | 366 | 334 | 32 |
@@ -2688,11 +2623,14 @@
 | Natural_Recovery.md | 74 | 42 | 32 |
 | Natural_Recovery_Charge.md | 74 | 42 | 32 |
 | Guardian_of_Faith_(Creature).md | 144 | 112 | 32 |
+| Un'n.md | 339 | 371 | 32 |
 | Vlaakith.md | 124 | 92 | 32 |
+| Zeddi'in.md | 331 | 363 | 32 |
 | The_Dark_Urge.md | 366 | 334 | 32 |
 | Experience.md | 271 | 302 | 31 |
 | Belynne_Stelmane.md | 112 | 82 | 30 |
 | Duke_Stelmane.md | 112 | 82 | 30 |
+| Merregon_Legionnaire.md | 338 | 308 | 30 |
 | Magpie_Davys.md | 63 | 33 | 30 |
 | Ratin_Sesescor.md | 87 | 57 | 30 |
 | Tipplesome_Patron.md | 93 | 63 | 30 |
@@ -2733,6 +2671,7 @@
 | Perform_'Of_Divinity_and_Sin'.md | 89 | 65 | 24 |
 | Perform_'Old_Time_Battles'.md | 89 | 65 | 24 |
 | Perform_'Sing_for_Me'.md | 89 | 65 | 24 |
+| Sharran_Novice.md | 308 | 332 | 24 |
 | Unholy_Assassin.md | 195 | 171 | 24 |
 | Brian.md | 50 | 27 | 23 |
 | Grymforge.md | 535 | 512 | 23 |
@@ -2744,24 +2683,25 @@
 | Darkmaw_the_Wicked.md | 84 | 63 | 21 |
 | Control_Centre.md | 364 | 343 | 21 |
 | Steelwatch_Foundry.md | 364 | 343 | 21 |
+| Benryn.md | 277 | 297 | 20 |
 | Bard_Dance.md | 89 | 69 | 20 |
 | Bhaal's_Power_Word_Kill_Ritual.md | 69 | 49 | 20 |
 | Corpulent_Rage.md | 79 | 59 | 20 |
 | Dreadful_Glare.md | 57 | 37 | 20 |
 | Lenore.md | 84 | 64 | 20 |
 | Lenore_De_Hurst.md | 84 | 64 | 20 |
-| Leaping_Static.md | 48 | 28 | 20 |
 | Mind_Blast.md | 69 | 49 | 20 |
 | Mindsteal_Tempest.md | 71 | 51 | 20 |
+| Leaping_Static.md | 48 | 28 | 20 |
 | Of_Divinity_and_Sin.md | 89 | 69 | 20 |
-| Guide_colon_Fixing_UV_Errors.md | 61 | 41 | 20 |
 | Punish_Divinity.md | 66 | 46 | 20 |
-| Right_Behind_You.md | 55 | 35 | 20 |
 | Perform_'Bard_Dance'.md | 89 | 69 | 20 |
 | Perform_'The_Power'.md | 89 | 69 | 20 |
 | Perform_'The_Queen's_High_Seas'.md | 93 | 73 | 20 |
+| Right_Behind_You.md | 55 | 35 | 20 |
 | Self-Detonation_Protocol.md | 54 | 34 | 20 |
 | Shadow_Step.md | 71 | 51 | 20 |
+| Guide_colon_Fixing_UV_Errors.md | 61 | 41 | 20 |
 | Storm's_Fury.md | 56 | 36 | 20 |
 | Sing_for_Me.md | 89 | 69 | 20 |
 | Stunning_Gaze.md | 70 | 50 | 20 |
@@ -2807,9 +2747,9 @@
 | Blinding_Ambush.md | 60 | 44 | 16 |
 | Blinding_Ambush_(melee).md | 60 | 44 | 16 |
 | Blinding_Ambush_(ranged).md | 57 | 41 | 16 |
+| Brutal_Leap.md | 62 | 46 | 16 |
 | Buthir's_Wrath.md | 60 | 44 | 16 |
 | Call_Consort.md | 62 | 46 | 16 |
-| Brutal_Leap.md | 62 | 46 | 16 |
 | Boon_of_the_Unstoppable.md | 48 | 32 | 16 |
 | Claws_(Badger).md | 52 | 36 | 16 |
 | Baldur's_Gate_3.md | 365 | 349 | 16 |
@@ -2817,7 +2757,6 @@
 | Deadly_Leap.md | 68 | 52 | 16 |
 | Death_Burst_(Cold).md | 79 | 63 | 16 |
 | Death_Burst_(Mud).md | 83 | 67 | 16 |
-| Cinderous_Swipe.md | 53 | 37 | 16 |
 | Devour_Intellect.md | 72 | 56 | 16 |
 | Defensive_Protocol_colon__Bulwark.md | 79 | 63 | 16 |
 | Deflect_Missiles_(Return).md | 51 | 35 | 16 |
@@ -2834,11 +2773,11 @@
 | Levitate_(Illithid_Power).md | 43 | 27 | 16 |
 | Fire_Breath_(Ansur).md | 61 | 45 | 16 |
 | Fire_Breath_(Dragons).md | 61 | 45 | 16 |
-| Heart_of_the_Storm_colon__Lightning.md | 60 | 44 | 16 |
 | Invoke_the_Black_Hand.md | 50 | 34 | 16 |
+| Heart_of_the_Storm_colon__Lightning.md | 60 | 44 | 16 |
+| Mindsteal_Link.md | 63 | 47 | 16 |
 | Leadership.md | 69 | 53 | 16 |
 | Ironbound_Pursuit.md | 60 | 44 | 16 |
-| Mindsteal_Link.md | 63 | 47 | 16 |
 | Multiattack_(Tormented_Soul).md | 59 | 43 | 16 |
 | Multiattack_(Ettercap).md | 63 | 47 | 16 |
 | Multiattack_(Flesh).md | 70 | 54 | 16 |
@@ -2851,8 +2790,8 @@
 | Organic_Shield.md | 28 | 44 | 16 |
 | Pounce_(Alioramus).md | 61 | 45 | 16 |
 | Seismic_Wrath.md | 65 | 49 | 16 |
-| Spider_Queen's_Wrath.md | 51 | 35 | 16 |
 | Sanguine_Lash.md | 65 | 49 | 16 |
+| Spider_Queen's_Wrath.md | 51 | 35 | 16 |
 | Sumptuous_Blood_Bath.md | 76 | 60 | 16 |
 | Sludgy_Sling.md | 68 | 52 | 16 |
 | Riposte.md | 62 | 46 | 16 |
@@ -2862,17 +2801,19 @@
 | Shield_of_Thralls.md | 78 | 62 | 16 |
 | Relentless_Lunge.md | 72 | 56 | 16 |
 | Slam_(Flesh).md | 50 | 34 | 16 |
-| War_Caster_colon__Concentration.md | 18 | 34 | 16 |
 | Turn_Undead.md | 76 | 60 | 16 |
 | Water_Whip.md | 66 | 50 | 16 |
+| War_Caster_colon__Concentration.md | 18 | 34 | 16 |
+| Z'rell.md | 449 | 433 | 16 |
 | Hellish_Rebuke.md | 80 | 65 | 15 |
-| Guide_colon_Book's_Guide_to_Crits.md | 171 | 156 | 15 |
 | Reckless_Attack.md | 63 | 48 | 15 |
-| Shadow_Blade.md | 97 | 82 | 15 |
 | Ritual_spell.md | 358 | 373 | 15 |
-| Vellioth.md | 56 | 41 | 15 |
+| Shadow_Blade.md | 97 | 82 | 15 |
+| Guide_colon_Book's_Guide_to_Crits.md | 171 | 156 | 15 |
 | SG_Petrified.md | 48 | 33 | 15 |
+| Vellioth.md | 56 | 41 | 15 |
 | Dash.md | 84 | 70 | 14 |
+| Devella_Fountainhead.md | 543 | 529 | 14 |
 | Creature.md | 106 | 92 | 14 |
 | Creatures.md | 106 | 92 | 14 |
 | Ethereal_Jaunt.md | 36 | 22 | 14 |
@@ -2892,20 +2833,20 @@
 | Mystra.md | 93 | 79 | 14 |
 | Perform_(Lyre).md | 69 | 55 | 14 |
 | Umberlee.md | 126 | 112 | 14 |
-| The_Blade_Least_Expected.md | 49 | 35 | 14 |
 | Spell_slots.md | 358 | 372 | 14 |
 | Spellcasting.md | 358 | 372 | 14 |
+| The_Blade_Least_Expected.md | 49 | 35 | 14 |
 | List_of_creature_types.md | 266 | 252 | 14 |
 | Creature_type.md | 266 | 253 | 13 |
 | Faithwarden's_Vines.md | 70 | 57 | 13 |
 | Letter_from_Emmeline_Hallowleaf.md | 81 | 68 | 13 |
 | Help_colon_Guide_namespace.md | 57 | 44 | 13 |
-| Guide_colon_Where_To_Find.md | 46 | 33 | 13 |
-| Nightsong_Point.md | 173 | 160 | 13 |
 | Modding_colon_Body_Models.md | 27 | 40 | 13 |
+| Nightsong_Point.md | 173 | 160 | 13 |
 | Moonmote.md | 73 | 60 | 13 |
 | Rih'al.md | 56 | 43 | 13 |
 | Silence.md | 78 | 65 | 13 |
+| Guide_colon_Where_To_Find.md | 46 | 33 | 13 |
 | Sphere_of_Elemental_Balance_colon__Lightning.md | 60 | 47 | 13 |
 | Sphere_of_Elemental_Balance_colon__Poison.md | 66 | 53 | 13 |
 | Benign_Transposition.md | 50 | 38 | 12 |
@@ -2913,24 +2854,24 @@
 | Bloodlust_(Redcap).md | 56 | 44 | 12 |
 | Attuned_Crystal.md | 40 | 28 | 12 |
 | Absorb_Elements.md | 85 | 73 | 12 |
-| Adhesive_Whip.md | 56 | 44 | 12 |
-| Cheesy_Smell.md | 63 | 51 | 12 |
 | Burrow_(Earth_Myrmidon).md | 41 | 29 | 12 |
+| Cheesy_Smell.md | 63 | 51 | 12 |
 | Claws_(Flying_Ghoul).md | 56 | 44 | 12 |
 | Claws_(Imp).md | 40 | 28 | 12 |
 | Claws_(Meenlock).md | 53 | 41 | 12 |
 | Claws_(Owlbear).md | 47 | 35 | 12 |
-| Commander's_Strike_(Attack).md | 46 | 34 | 12 |
-| Corellon_Larethian.md | 68 | 56 | 12 |
+| Adhesive_Whip.md | 56 | 44 | 12 |
 | Boar_Charge.md | 71 | 59 | 12 |
+| Corellon_Larethian.md | 68 | 56 | 12 |
 | Church_of_Selûne.md | 139 | 127 | 12 |
 | Destructive_Wrath.md | 79 | 67 | 12 |
-| Charge_(Minotaur).md | 62 | 50 | 12 |
-| Dire_Raven_Companion.md | 115 | 103 | 12 |
-| Deathbringer's_Legacy.md | 50 | 38 | 12 |
 | Crossbow_Shot.md | 37 | 25 | 12 |
+| Charge_(Minotaur).md | 62 | 50 | 12 |
+| Deathbringer's_Legacy.md | 50 | 38 | 12 |
 | Eilistraee.md | 78 | 66 | 12 |
+| Dire_Raven_Companion.md | 115 | 103 | 12 |
 | Fly_(Dragons).md | 39 | 27 | 12 |
+| Commander's_Strike_(Attack).md | 46 | 34 | 12 |
 | Fear_Ray.md | 56 | 44 | 12 |
 | Grounded_Thunder_Strike.md | 61 | 49 | 12 |
 | Cunning_Action_colon__Disengage.md | 47 | 35 | 12 |
@@ -2938,9 +2879,9 @@
 | Globe_of_Invulnerability.md | 77 | 65 | 12 |
 | Improved_Warding_Flare.md | 33 | 21 | 12 |
 | Incubate_Death.md | 73 | 61 | 12 |
+| Dampen_Elements.md | 40 | 28 | 12 |
 | Healing_Radiance.md | 52 | 40 | 12 |
 | Mind-Claw_of_Tu'narath_(class_action).md | 49 | 37 | 12 |
-| Dampen_Elements.md | 40 | 28 | 12 |
 | Net.md | 45 | 33 | 12 |
 | Immune.md | 95 | 83 | 12 |
 | Immunity.md | 95 | 83 | 12 |
@@ -2950,7 +2891,6 @@
 | Piercing_Strike_(Spiritual_Weapon).md | 69 | 57 | 12 |
 | Nimble_Escape.md | 41 | 29 | 12 |
 | Moonstone.md | 33 | 21 | 12 |
-| Guide_colon_Guide_namespace.md | 57 | 45 | 12 |
 | Psionic_Dominance.md | 48 | 36 | 12 |
 | Psionic_Visage.md | 62 | 50 | 12 |
 | Projected_Ward.md | 35 | 23 | 12 |
@@ -2960,17 +2900,20 @@
 | Selunite.md | 139 | 127 | 12 |
 | Selûne.md | 139 | 127 | 12 |
 | Selûnite.md | 139 | 127 | 12 |
-| Shredding_Scales.md | 64 | 52 | 12 |
-| Shar's_Darkness.md | 60 | 48 | 12 |
 | Resistant.md | 95 | 83 | 12 |
 | Retributive_Brainquake.md | 49 | 37 | 12 |
+| Shar's_Darkness.md | 60 | 48 | 12 |
+| Shredding_Scales.md | 64 | 52 | 12 |
+| Guide_colon_Guide_namespace.md | 57 | 45 | 12 |
 | Splinter_Shadow.md | 53 | 41 | 12 |
 | Sting_(Imp).md | 45 | 33 | 12 |
 | Tusk_Attack_(Boar).md | 44 | 32 | 12 |
 | Shield_Master_colon__Block.md | 45 | 33 | 12 |
+| Soreni.md | 542 | 530 | 12 |
 | Vulnerability.md | 95 | 83 | 12 |
 | Vulnerable.md | 95 | 83 | 12 |
 | Tu'narath's_Embrace.md | 50 | 38 | 12 |
+| Zira.md | 548 | 536 | 12 |
 | Conjure_Elemental_colon__Fire_Elemental.md | 72 | 61 | 11 |
 | Church_of_Umberlee.md | 126 | 115 | 11 |
 | Elegant_Chest.md | 20 | 31 | 11 |
@@ -2983,16 +2926,28 @@
 | Hellflame_Cleave.md | 96 | 85 | 11 |
 | Karsus'_Compulsion.md | 67 | 56 | 11 |
 | Inkblot.md | 71 | 60 | 11 |
-| Heart_of_the_Storm_colon__Thunder.md | 51 | 40 | 11 |
 | Lunar_Flare.md | 71 | 60 | 11 |
+| Heart_of_the_Storm_colon__Thunder.md | 51 | 40 | 11 |
 | Pact_of_the_Blade_colon__Maul.md | 72 | 61 | 11 |
 | Pact_of_the_Blade_colon__Sickle.md | 72 | 61 | 11 |
-| Guide_colon_Guides.md | 57 | 46 | 11 |
 | Modifier.md | 578 | 589 | 11 |
 | Retinue_of_the_Vampire_Lord.md | 110 | 99 | 11 |
+| Guide_colon_Guides.md | 57 | 46 | 11 |
+| Sumera.md | 401 | 390 | 11 |
 | Radiant_Shockwave.md | 47 | 36 | 11 |
 | Umbral_Ally.md | 57 | 46 | 11 |
 | Timmask_Spores_(class_action).md | 72 | 61 | 11 |
+| Bend_Luck.md | 48 | 38 | 10 |
+| Bend_Luck_colon__Ability_Check_Bonus.md | 40 | 30 | 10 |
+| Bend_Luck_colon__Ability_Check_Penalty.md | 40 | 30 | 10 |
+| Bestow_Curse.md | 79 | 69 | 10 |
+| Bestow_Curse_colon__Additional_Damage.md | 68 | 58 | 10 |
+| Bestow_Curse_colon__Attack_Disadvantage.md | 64 | 54 | 10 |
+| Bestow_Curse_colon__Charisma_Disadvantage.md | 56 | 46 | 10 |
+| Bestow_Curse_colon__Constitution_Disadvantage.md | 64 | 54 | 10 |
+| Awaken_Crawling_Claws.md | 62 | 52 | 10 |
+| Backbreaker.md | 60 | 50 | 10 |
+| Bad_Omen.md | 58 | 48 | 10 |
 | Animal_Friendship.md | 68 | 58 | 10 |
 | Animate_Dead.md | 75 | 65 | 10 |
 | Animate_Dead_(Balthazar).md | 51 | 41 | 10 |
@@ -3006,17 +2961,6 @@
 | Animate_Dead_colon__Zombie.md | 54 | 44 | 10 |
 | Animating_Spores.md | 59 | 49 | 10 |
 | Animus_Screech.md | 49 | 39 | 10 |
-| Awaken_Crawling_Claws.md | 62 | 52 | 10 |
-| Backbreaker.md | 60 | 50 | 10 |
-| Bad_Omen.md | 58 | 48 | 10 |
-| Bend_Luck.md | 48 | 38 | 10 |
-| Bend_Luck_colon__Ability_Check_Bonus.md | 40 | 30 | 10 |
-| Bend_Luck_colon__Ability_Check_Penalty.md | 40 | 30 | 10 |
-| Bestow_Curse.md | 79 | 69 | 10 |
-| Bestow_Curse_colon__Additional_Damage.md | 68 | 58 | 10 |
-| Bestow_Curse_colon__Attack_Disadvantage.md | 64 | 54 | 10 |
-| Bestow_Curse_colon__Charisma_Disadvantage.md | 56 | 46 | 10 |
-| Bestow_Curse_colon__Constitution_Disadvantage.md | 64 | 54 | 10 |
 | Beak_Attack_(Dire_Raven).md | 52 | 42 | 10 |
 | Beak_Attack_(Raven_Familiar).md | 38 | 28 | 10 |
 | Beak_Attack_(Shadow-Cursed_Raven).md | 38 | 28 | 10 |
@@ -3029,7 +2973,6 @@
 | Arcane_Ammunition_(Weapon_Action).md | 44 | 34 | 10 |
 | Arcane_Critical.md | 51 | 41 | 10 |
 | Arcane_Gate.md | 53 | 43 | 10 |
-| Astral_Knowledge.md | 49 | 39 | 10 |
 | Bite_(Alioramus).md | 58 | 48 | 10 |
 | Bite_(Badger).md | 44 | 34 | 10 |
 | Bite_(Base).md | 43 | 33 | 10 |
@@ -3059,6 +3002,7 @@
 | Bite_(Worg).md | 38 | 28 | 10 |
 | Bite_(dog).md | 38 | 28 | 10 |
 | Black_Fist_Enforcers.md | 95 | 85 | 10 |
+| Astral_Knowledge.md | 49 | 39 | 10 |
 | Bane's_Wrath.md | 56 | 46 | 10 |
 | Bane_(spell).md | 65 | 55 | 10 |
 | Banishing_Smite_(Melee).md | 65 | 55 | 10 |
@@ -3074,14 +3018,14 @@
 | Bloodfest.md | 47 | 37 | 10 |
 | Bloodletting.md | 53 | 43 | 10 |
 | Bloodrender.md | 52 | 42 | 10 |
-| Break_Illusion.md | 33 | 23 | 10 |
-| Break_of_Dawn.md | 57 | 47 | 10 |
-| Brine_Bulb.md | 27 | 17 | 10 |
 | Black_Hole.md | 66 | 56 | 10 |
 | Blade_Barrier.md | 74 | 64 | 10 |
 | Blade_Ward.md | 72 | 62 | 10 |
 | Blade_of_Rime.md | 92 | 82 | 10 |
 | Bladesong_Climax.md | 53 | 43 | 10 |
+| Break_Illusion.md | 33 | 23 | 10 |
+| Break_of_Dawn.md | 57 | 47 | 10 |
+| Brine_Bulb.md | 27 | 17 | 10 |
 | Bout_of_Storms.md | 34 | 24 | 10 |
 | Brace_(Melee).md | 78 | 68 | 10 |
 | Brace_(Ranged).md | 50 | 40 | 10 |
@@ -3089,9 +3033,6 @@
 | Branding_Smite.md | 84 | 74 | 10 |
 | Branding_Smite_(Melee).md | 70 | 60 | 10 |
 | Branding_Smite_(Ranged).md | 70 | 60 | 10 |
-| Barkskin.md | 69 | 59 | 10 |
-| Battle-Ready_Owlbear.md | 62 | 52 | 10 |
-| Beacon_of_Hope.md | 73 | 63 | 10 |
 | Astral_Rift.md | 52 | 42 | 10 |
 | Augmented_Shield_of_Thralls.md | 65 | 55 | 10 |
 | Auntie's_Trickery.md | 37 | 27 | 10 |
@@ -3100,26 +3041,9 @@
 | Bestow_Curse_colon__Intelligence_Disadvantage.md | 64 | 54 | 10 |
 | Bestow_Curse_colon__Strength_Disadvantage.md | 56 | 46 | 10 |
 | Bestow_Curse_colon__Wisdom_Disadvantage.md | 64 | 54 | 10 |
-| Bless.md | 68 | 58 | 10 |
-| Blessing_of_the_Trickster.md | 44 | 34 | 10 |
-| Blight.md | 83 | 73 | 10 |
-| Blind_Terror.md | 51 | 41 | 10 |
-| Blinding_Shot.md | 67 | 57 | 10 |
-| Blinding_Smite.md | 68 | 58 | 10 |
-| Blindness.md | 84 | 74 | 10 |
-| Blink-of-an-eye_Bolt.md | 40 | 30 | 10 |
-| Call_Lightning.md | 72 | 62 | 10 |
-| Call_for_Help.md | 43 | 33 | 10 |
-| Call_of_the_Crustacean.md | 46 | 36 | 10 |
-| Call_of_the_Damned.md | 41 | 31 | 10 |
-| Calling_for_Help.md | 37 | 27 | 10 |
-| Calm_Emotions.md | 67 | 57 | 10 |
-| Acid_Breath.md | 51 | 41 | 10 |
-| Acid_Hallucination.md | 51 | 41 | 10 |
-| Acid_Splash.md | 68 | 58 | 10 |
-| Acidic_Regurgitation.md | 67 | 57 | 10 |
-| Activate_Call_Lightning.md | 47 | 37 | 10 |
-| Activate_Witch_Bolt.md | 60 | 50 | 10 |
+| Barkskin.md | 69 | 59 | 10 |
+| Battle-Ready_Owlbear.md | 62 | 52 | 10 |
+| Beacon_of_Hope.md | 73 | 63 | 10 |
 | Arcane_Lock.md | 77 | 67 | 10 |
 | Arcane_Recovery.md | 60 | 50 | 10 |
 | Arcane_Shot_colon__Banishing_Arrow.md | 57 | 47 | 10 |
@@ -3131,27 +3055,37 @@
 | Arcane_Shot_colon__Seeking_Arrow.md | 67 | 57 | 10 |
 | Arcane_Shot_colon__Shadow_Arrow.md | 59 | 49 | 10 |
 | Arcane_Trickster.md | 221 | 211 | 10 |
+| Acid_Breath.md | 51 | 41 | 10 |
+| Acid_Hallucination.md | 51 | 41 | 10 |
+| Acid_Splash.md | 68 | 58 | 10 |
+| Acidic_Regurgitation.md | 67 | 57 | 10 |
+| Activate_Call_Lightning.md | 47 | 37 | 10 |
+| Activate_Witch_Bolt.md | 60 | 50 | 10 |
+| Bless.md | 68 | 58 | 10 |
+| Blessing_of_the_Trickster.md | 44 | 34 | 10 |
+| Blight.md | 83 | 73 | 10 |
+| Blind_Terror.md | 51 | 41 | 10 |
+| Blinding_Shot.md | 67 | 57 | 10 |
+| Blinding_Smite.md | 68 | 58 | 10 |
+| Blindness.md | 84 | 74 | 10 |
+| Blink-of-an-eye_Bolt.md | 40 | 30 | 10 |
 | Absolute's_Talisman_colon__Aid.md | 50 | 40 | 10 |
 | Absolute_Power.md | 61 | 51 | 10 |
 | Absorb_Intellect.md | 67 | 57 | 10 |
 | Brutal_Servitude.md | 53 | 43 | 10 |
 | Bufotoxin.md | 51 | 41 | 10 |
+| Call_Lightning.md | 72 | 62 | 10 |
+| Call_for_Help.md | 43 | 33 | 10 |
+| Call_of_the_Crustacean.md | 46 | 36 | 10 |
+| Call_of_the_Damned.md | 41 | 31 | 10 |
+| Calling_for_Help.md | 37 | 27 | 10 |
+| Calm_Emotions.md | 67 | 57 | 10 |
 | Booming_Blade.md | 123 | 113 | 10 |
 | Boon_of_Servitude.md | 47 | 37 | 10 |
 | Boot_of_the_Giants.md | 55 | 45 | 10 |
-| Adjust_Seeming.md | 80 | 70 | 10 |
 | Carrion's_Explosive_Cloudkill.md | 67 | 57 | 10 |
 | Castigate_Heartform.md | 48 | 38 | 10 |
 | Cat's_Grace.md | 54 | 44 | 10 |
-| Chill_Touch.md | 84 | 74 | 10 |
-| Chill_of_the_Mountain.md | 54 | 44 | 10 |
-| Choking_Wail.md | 50 | 40 | 10 |
-| Chromatic_Orb.md | 80 | 70 | 10 |
-| Chromatic_Orb_colon__Acid.md | 62 | 52 | 10 |
-| Chromatic_Orb_colon__Cold.md | 73 | 63 | 10 |
-| Chromatic_Orb_colon__Fire.md | 65 | 55 | 10 |
-| Chromatic_Orb_colon__Lightning.md | 60 | 50 | 10 |
-| Chromatic_Orb_colon__Poison.md | 64 | 54 | 10 |
 | Bull's_Strength.md | 56 | 46 | 10 |
 | Bull_Rush.md | 47 | 37 | 10 |
 | Bulwark_Rebuke.md | 59 | 49 | 10 |
@@ -3163,6 +3097,16 @@
 | Burrow_(Shadow_Creeper).md | 33 | 23 | 10 |
 | Bursting_Brood.md | 54 | 44 | 10 |
 | Bursting_Sinew.md | 71 | 61 | 10 |
+| Chill_Touch.md | 84 | 74 | 10 |
+| Chill_of_the_Mountain.md | 54 | 44 | 10 |
+| Choking_Wail.md | 50 | 40 | 10 |
+| Chromatic_Orb.md | 80 | 70 | 10 |
+| Chromatic_Orb_colon__Acid.md | 62 | 52 | 10 |
+| Chromatic_Orb_colon__Cold.md | 73 | 63 | 10 |
+| Chromatic_Orb_colon__Fire.md | 65 | 55 | 10 |
+| Chromatic_Orb_colon__Lightning.md | 60 | 50 | 10 |
+| Chromatic_Orb_colon__Poison.md | 64 | 54 | 10 |
+| Abjure_Enemy.md | 54 | 44 | 10 |
 | Claws_(Animate_Dead_Ghoul).md | 54 | 44 | 10 |
 | Claws_(Bear).md | 44 | 34 | 10 |
 | Claws_(Bear_Companion).md | 38 | 28 | 10 |
@@ -3181,7 +3125,7 @@
 | Claws_(Quasit).md | 38 | 28 | 10 |
 | Claws_(Raphael).md | 38 | 28 | 10 |
 | Claws_(Us).md | 38 | 28 | 10 |
-| Abjure_Enemy.md | 54 | 44 | 10 |
+| Adjust_Seeming.md | 80 | 70 | 10 |
 | Bolstering_Magic_colon__Boon.md | 42 | 32 | 10 |
 | Bolstering_Magic_colon__Level_1_Spell_Slot.md | 42 | 32 | 10 |
 | Bolstering_Magic_colon__Level_2_Spell_Slot.md | 38 | 28 | 10 |
@@ -3192,50 +3136,55 @@
 | Bone_Chill.md | 84 | 74 | 10 |
 | Artistry_of_War.md | 61 | 51 | 10 |
 | Ascendant_Bite.md | 69 | 59 | 10 |
-| Command.md | 72 | 62 | 10 |
-| Command_(Drop).md | 49 | 39 | 10 |
-| Command_colon__Approach.md | 50 | 40 | 10 |
-| Command_colon__Approach_(Undead).md | 47 | 37 | 10 |
-| Command_colon__Drop.md | 49 | 39 | 10 |
-| Command_colon__Drop_(Undead).md | 46 | 36 | 10 |
-| Command_colon__Flee.md | 50 | 40 | 10 |
-| Command_colon__Flee_(Undead).md | 47 | 37 | 10 |
-| Command_colon__Grovel.md | 46 | 36 | 10 |
-| Command_colon__Grovel_(Undead).md | 47 | 37 | 10 |
-| Command_colon__Halt.md | 50 | 40 | 10 |
-| Command_colon__Halt_(Undead).md | 47 | 37 | 10 |
-| Commander's_Strike.md | 62 | 52 | 10 |
-| Compelled_Duel.md | 56 | 46 | 10 |
-| Concentrated_Blast.md | 56 | 46 | 10 |
-| Concussive_Burst.md | 43 | 33 | 10 |
-| Concussive_Smash.md | 63 | 53 | 10 |
-| Corrosive_Age.md | 49 | 39 | 10 |
-| Corrosive_Phlegm.md | 57 | 47 | 10 |
-| Corrosive_Strike.md | 65 | 55 | 10 |
 | Bloody_Bonesaw.md | 55 | 45 | 10 |
 | Bludgeon_the_Weak.md | 47 | 37 | 10 |
 | Blur.md | 80 | 70 | 10 |
+| Corrosive_Age.md | 49 | 39 | 10 |
+| Corrosive_Phlegm.md | 57 | 47 | 10 |
+| Corrosive_Strike.md | 65 | 55 | 10 |
+| Balm_of_the_Moonmaiden.md | 48 | 38 | 10 |
 | Countercharm.md | 79 | 69 | 10 |
 | Counterspell.md | 78 | 68 | 10 |
-| Balm_of_the_Moonmaiden.md | 48 | 38 | 10 |
 | Dark_Celebration.md | 50 | 40 | 10 |
 | Dark_Currents.md | 34 | 24 | 10 |
 | Darkness.md | 99 | 89 | 10 |
 | Darkness_Cloak.md | 66 | 56 | 10 |
+| Alternate_Form_colon__Minotaur.md | 62 | 52 | 10 |
+| Alternate_Form_colon__Phase_Spider.md | 61 | 51 | 10 |
+| Alternate_Form_colon__Shadow_Mastiff.md | 62 | 52 | 10 |
+| An_Apple_a_Day.md | 68 | 58 | 10 |
 | Deadlier_than_Arsenic.md | 66 | 56 | 10 |
 | Deadly_Orders.md | 41 | 31 | 10 |
 | Death_Burst_(Fire).md | 61 | 51 | 10 |
 | Death_Burst_(Ghoul).md | 44 | 34 | 10 |
 | Death_Shriek.md | 36 | 26 | 10 |
 | Death_Ward.md | 65 | 55 | 10 |
-| Alternate_Form_colon__Minotaur.md | 62 | 52 | 10 |
-| Alternate_Form_colon__Phase_Spider.md | 61 | 51 | 10 |
-| Alternate_Form_colon__Shadow_Mastiff.md | 62 | 52 | 10 |
-| An_Apple_a_Day.md | 68 | 58 | 10 |
-| Ceremorphosis.md | 48 | 38 | 10 |
-| Chain_Lightning.md | 65 | 55 | 10 |
-| Chalice_Healing.md | 67 | 57 | 10 |
-| Challenge_to_Duel.md | 53 | 43 | 10 |
+| Concussive_Smash_(Spiritual_Weapon).md | 65 | 55 | 10 |
+| Cone_of_Cold.md | 84 | 74 | 10 |
+| Confusion.md | 80 | 70 | 10 |
+| Confusion_Ray.md | 55 | 45 | 10 |
+| Conjure_Barrage.md | 54 | 44 | 10 |
+| Conjure_Barrage_colon__Melee_Weapon.md | 59 | 49 | 10 |
+| Conjure_Barrage_colon__Ranged_Weapon.md | 59 | 49 | 10 |
+| Conjure_Elemental.md | 66 | 56 | 10 |
+| Conjure_Elemental_colon__Air_Elemental.md | 63 | 53 | 10 |
+| Conjure_Elemental_colon__Air_Myrmidon.md | 65 | 55 | 10 |
+| Conjure_Elemental_colon__Earth_Elemental.md | 62 | 52 | 10 |
+| Conjure_Elemental_colon__Earth_Myrmidon.md | 67 | 57 | 10 |
+| Conjure_Elemental_colon__Fire_Myrmidon.md | 65 | 55 | 10 |
+| Conjure_Elemental_colon__Water_Elemental.md | 65 | 55 | 10 |
+| Conjure_Elemental_colon__Water_Myrmidon.md | 64 | 54 | 10 |
+| Conjure_Minor_Elemental.md | 70 | 60 | 10 |
+| Conjure_Minor_Elemental_colon__Azer.md | 50 | 40 | 10 |
+| Conjure_Minor_Elemental_colon__Ice_Mephits.md | 58 | 48 | 10 |
+| Conjure_Minor_Elemental_colon__Mud_Mephits.md | 58 | 48 | 10 |
+| Conjure_Murder_of_Crows.md | 53 | 43 | 10 |
+| Conjure_Shadow_Lantern_Wraith.md | 58 | 48 | 10 |
+| Conjure_Us.md | 68 | 58 | 10 |
+| Conjure_Woodland_Being.md | 62 | 52 | 10 |
+| Aid.md | 73 | 63 | 10 |
+| Alchemist's_Fire_(action).md | 68 | 58 | 10 |
+| Alternate_Form_colon__Dire_Wolf.md | 50 | 40 | 10 |
 | Disguise_Self_colon__Femme_Drow.md | 45 | 35 | 10 |
 | Disguise_Self_colon__Femme_Dwarf.md | 45 | 35 | 10 |
 | Disguise_Self_colon__Femme_Elf.md | 45 | 35 | 10 |
@@ -3276,34 +3225,12 @@
 | Dismiss_Wild_Shape.md | 32 | 22 | 10 |
 | Dismiss_colon__Slayer.md | 31 | 21 | 10 |
 | Dispel_Disguise.md | 34 | 24 | 10 |
-| Aid.md | 73 | 63 | 10 |
-| Alchemist's_Fire_(action).md | 68 | 58 | 10 |
-| Alternate_Form_colon__Dire_Wolf.md | 50 | 40 | 10 |
+| Ceremorphosis.md | 48 | 38 | 10 |
+| Chain_Lightning.md | 65 | 55 | 10 |
+| Chalice_Healing.md | 67 | 57 | 10 |
+| Challenge_to_Duel.md | 53 | 43 | 10 |
 | Caustic_Claws.md | 38 | 28 | 10 |
 | Celestial_Haste.md | 48 | 38 | 10 |
-| Concussive_Smash_(Spiritual_Weapon).md | 65 | 55 | 10 |
-| Cone_of_Cold.md | 84 | 74 | 10 |
-| Confusion.md | 80 | 70 | 10 |
-| Confusion_Ray.md | 55 | 45 | 10 |
-| Conjure_Barrage.md | 54 | 44 | 10 |
-| Conjure_Barrage_colon__Melee_Weapon.md | 59 | 49 | 10 |
-| Conjure_Barrage_colon__Ranged_Weapon.md | 59 | 49 | 10 |
-| Conjure_Elemental.md | 66 | 56 | 10 |
-| Conjure_Elemental_colon__Air_Elemental.md | 63 | 53 | 10 |
-| Conjure_Elemental_colon__Air_Myrmidon.md | 65 | 55 | 10 |
-| Conjure_Elemental_colon__Earth_Elemental.md | 62 | 52 | 10 |
-| Conjure_Elemental_colon__Earth_Myrmidon.md | 67 | 57 | 10 |
-| Conjure_Elemental_colon__Fire_Myrmidon.md | 65 | 55 | 10 |
-| Conjure_Elemental_colon__Water_Elemental.md | 65 | 55 | 10 |
-| Conjure_Elemental_colon__Water_Myrmidon.md | 64 | 54 | 10 |
-| Conjure_Minor_Elemental.md | 70 | 60 | 10 |
-| Conjure_Minor_Elemental_colon__Azer.md | 50 | 40 | 10 |
-| Conjure_Minor_Elemental_colon__Ice_Mephits.md | 58 | 48 | 10 |
-| Conjure_Minor_Elemental_colon__Mud_Mephits.md | 58 | 48 | 10 |
-| Conjure_Murder_of_Crows.md | 53 | 43 | 10 |
-| Conjure_Shadow_Lantern_Wraith.md | 58 | 48 | 10 |
-| Conjure_Us.md | 68 | 58 | 10 |
-| Conjure_Woodland_Being.md | 62 | 52 | 10 |
 | Darkvision_(spell).md | 75 | 65 | 10 |
 | Dash_(bonus_action).md | 48 | 38 | 10 |
 | Daylight.md | 69 | 59 | 10 |
@@ -3321,8 +3248,6 @@
 | Divine_Favour.md | 56 | 46 | 10 |
 | Divine_Intervention.md | 86 | 76 | 10 |
 | Chromatic_Orb_colon__Thunder.md | 57 | 47 | 10 |
-| Circle_of_Death.md | 68 | 58 | 10 |
-| Circuitry_Interface.md | 47 | 37 | 10 |
 | Destructive_Wave.md | 80 | 70 | 10 |
 | Destructive_Wave_colon__Necrotic.md | 60 | 50 | 10 |
 | Destructive_Wave_colon__Radiant.md | 64 | 54 | 10 |
@@ -3334,6 +3259,10 @@
 | Devour_(Ghoul).md | 36 | 26 | 10 |
 | Devour_(Shambling_Mound).md | 39 | 29 | 10 |
 | Devour_Soul.md | 40 | 30 | 10 |
+| Defensive_Flourish_(Melee).md | 63 | 53 | 10 |
+| Defensive_Flourish_(Ranged).md | 63 | 53 | 10 |
+| Demonic_Bite.md | 41 | 31 | 10 |
+| Destroy_Water.md | 45 | 35 | 10 |
 | Divine_Sense.md | 42 | 32 | 10 |
 | Divine_Strike_colon__Cold_(Melee).md | 51 | 41 | 10 |
 | Divine_Strike_colon__Cold_(Ranged).md | 51 | 41 | 10 |
@@ -3376,10 +3305,13 @@
 | Combat_Inspiration.md | 50 | 40 | 10 |
 | Combat_Wild_Shape.md | 89 | 79 | 10 |
 | Combustible_Coins.md | 53 | 43 | 10 |
-| Defensive_Flourish_(Melee).md | 63 | 53 | 10 |
-| Defensive_Flourish_(Ranged).md | 63 | 53 | 10 |
-| Demonic_Bite.md | 41 | 31 | 10 |
-| Destroy_Water.md | 45 | 35 | 10 |
+| Crippling_Strike.md | 66 | 56 | 10 |
+| Crown_of_Madness.md | 79 | 69 | 10 |
+| Crowning_Strike.md | 66 | 56 | 10 |
+| Crusader's_Mantle.md | 67 | 57 | 10 |
+| Crushing_Flight.md | 51 | 41 | 10 |
+| Crushing_Flight_(Owlbear_Wild_Shape).md | 70 | 60 | 10 |
+| Cry_for_Help.md | 43 | 33 | 10 |
 | Cleave.md | 48 | 38 | 10 |
 | Cleave_(Weapon_Action).md | 48 | 38 | 10 |
 | Clench_of_the_North_Wind.md | 61 | 51 | 10 |
@@ -3391,6 +3323,15 @@
 | Charger_colon__Shove.md | 53 | 43 | 10 |
 | Charger_colon__Weapon_Attack.md | 51 | 41 | 10 |
 | Charm_Person.md | 73 | 63 | 10 |
+| Deathbringer_Assault.md | 51 | 41 | 10 |
+| Deathbringer_Assault_(Orin).md | 51 | 41 | 10 |
+| Debilitating_Shot.md | 51 | 41 | 10 |
+| Dominate_Beast.md | 59 | 49 | 10 |
+| Dominate_Person.md | 84 | 74 | 10 |
+| Doppelganger_(class_action).md | 40 | 30 | 10 |
+| Eldritch_Blast.md | 78 | 68 | 10 |
+| Electrified_Flail.md | 55 | 45 | 10 |
+| Electrified_Regurgitation.md | 80 | 70 | 10 |
 | Dip.md | 84 | 74 | 10 |
 | Dippable.md | 84 | 74 | 10 |
 | Dirty_Trick_colon__Flick_o'_the_Wrist.md | 74 | 64 | 10 |
@@ -3407,29 +3348,13 @@
 | Disengage_colon__Bonus_Action.md | 41 | 31 | 10 |
 | Disguise_Self.md | 129 | 119 | 10 |
 | Disguise_Self_colon__Femme_Dragonborn.md | 45 | 35 | 10 |
-| Deathbringer_Assault.md | 51 | 41 | 10 |
-| Deathbringer_Assault_(Orin).md | 51 | 41 | 10 |
-| Debilitating_Shot.md | 51 | 41 | 10 |
-| Crippling_Strike.md | 66 | 56 | 10 |
-| Crown_of_Madness.md | 79 | 69 | 10 |
-| Crowning_Strike.md | 66 | 56 | 10 |
-| Crusader's_Mantle.md | 67 | 57 | 10 |
-| Crushing_Flight.md | 51 | 41 | 10 |
-| Crushing_Flight_(Owlbear_Wild_Shape).md | 70 | 60 | 10 |
-| Cry_for_Help.md | 43 | 33 | 10 |
-| Dominate_Beast.md | 59 | 49 | 10 |
-| Dominate_Person.md | 84 | 74 | 10 |
-| Doppelganger_(class_action).md | 40 | 30 | 10 |
-| Eldritch_Blast.md | 78 | 68 | 10 |
-| Electrified_Flail.md | 55 | 45 | 10 |
-| Electrified_Regurgitation.md | 80 | 70 | 10 |
+| Armour_of_Agathys.md | 81 | 71 | 10 |
+| Arms_of_Hadar.md | 72 | 62 | 10 |
 | Create_Lava.md | 74 | 64 | 10 |
 | Create_Undead.md | 70 | 60 | 10 |
 | Create_Water.md | 68 | 58 | 10 |
 | Create_Water_(variant).md | 68 | 58 | 10 |
 | Create_or_Destroy_Water.md | 71 | 61 | 10 |
-| Armour_of_Agathys.md | 81 | 71 | 10 |
-| Arms_of_Hadar.md | 72 | 62 | 10 |
 | Conquering_Presence.md | 44 | 34 | 10 |
 | Constrict.md | 67 | 57 | 10 |
 | Contagion.md | 71 | 61 | 10 |
@@ -3456,14 +3381,6 @@
 | Entangle.md | 93 | 83 | 10 |
 | Entangling_Plants.md | 59 | 49 | 10 |
 | Enthrall.md | 60 | 50 | 10 |
-| Exposing_Bite.md | 55 | 45 | 10 |
-| Extract_Brain.md | 44 | 34 | 10 |
-| Extract_Brain_(Full-illithid).md | 48 | 38 | 10 |
-| Exude_Mating_Pheromones.md | 41 | 31 | 10 |
-| Eyebite.md | 61 | 51 | 10 |
-| Eyebite_colon__Asleep.md | 61 | 51 | 10 |
-| Eyebite_colon__Panicked.md | 62 | 52 | 10 |
-| Eyebite_colon__Sickened.md | 56 | 46 | 10 |
 | Elemental_Age.md | 56 | 46 | 10 |
 | Elemental_Cleaver.md | 48 | 38 | 10 |
 | Elemental_Retort.md | 57 | 47 | 10 |
@@ -3473,14 +3390,22 @@
 | Elemental_Weapon_colon__Fire.md | 53 | 43 | 10 |
 | Elemental_Weapon_colon__Lightning.md | 53 | 43 | 10 |
 | Elemental_Weapon_colon__Thunder.md | 53 | 43 | 10 |
+| Exposing_Bite.md | 55 | 45 | 10 |
+| Extract_Brain.md | 44 | 34 | 10 |
+| Extract_Brain_(Full-illithid).md | 48 | 38 | 10 |
+| Exude_Mating_Pheromones.md | 41 | 31 | 10 |
+| Eyebite.md | 61 | 51 | 10 |
+| Eyebite_colon__Asleep.md | 61 | 51 | 10 |
+| Eyebite_colon__Panicked.md | 62 | 52 | 10 |
+| Eyebite_colon__Sickened.md | 56 | 46 | 10 |
 | Evard's_Black_Tentacles.md | 108 | 98 | 10 |
 | Exhort_the_Risen.md | 46 | 36 | 10 |
 | Expeditious_Retreat.md | 83 | 73 | 10 |
+| Cloudkill.md | 99 | 89 | 10 |
+| Cocoon.md | 56 | 46 | 10 |
 | Embrace_of_the_Inferno.md | 51 | 41 | 10 |
 | Empowered_Unarmed_Strike.md | 39 | 29 | 10 |
 | End_Rage.md | 49 | 39 | 10 |
-| Cloudkill.md | 99 | 89 | 10 |
-| Cocoon.md | 56 | 46 | 10 |
 | Florrick's_Cohort.md | 80 | 70 | 10 |
 | Flourish.md | 58 | 48 | 10 |
 | Fluffy_Memory.md | 56 | 46 | 10 |
@@ -3493,11 +3418,6 @@
 | Fly_(Starry_Form).md | 40 | 30 | 10 |
 | Fly_(bonus_action).md | 48 | 38 | 10 |
 | Fog_Cloud.md | 100 | 90 | 10 |
-| Feign_Death.md | 77 | 67 | 10 |
-| Feinting_Attack.md | 54 | 44 | 10 |
-| Fey_Presence.md | 42 | 32 | 10 |
-| Fey_Presence_colon__Beguiling.md | 54 | 44 | 10 |
-| Fey_Presence_colon__Disturbing.md | 50 | 40 | 10 |
 | Fire_Breath_(Line).md | 53 | 43 | 10 |
 | Fire_Breath_(Magma_Mephit).md | 40 | 30 | 10 |
 | Fire_Hallucination.md | 51 | 41 | 10 |
@@ -3509,6 +3429,11 @@
 | Fireball.md | 76 | 66 | 10 |
 | Firebolt_q_.md | 60 | 50 | 10 |
 | Firewine_Explosion.md | 64 | 54 | 10 |
+| Feign_Death.md | 77 | 67 | 10 |
+| Feinting_Attack.md | 54 | 44 | 10 |
+| Fey_Presence.md | 42 | 32 | 10 |
+| Fey_Presence_colon__Beguiling.md | 54 | 44 | 10 |
+| Fey_Presence_colon__Disturbing.md | 50 | 40 | 10 |
 | Faerie_Fire.md | 74 | 64 | 10 |
 | Fallen_Lover.md | 54 | 44 | 10 |
 | False_Life.md | 81 | 71 | 10 |
@@ -3526,6 +3451,28 @@
 | Flames_of_Avernus_(spell).md | 43 | 33 | 10 |
 | Flames_of_the_Phoenix.md | 43 | 33 | 10 |
 | Flaming_Blade.md | 48 | 38 | 10 |
+| Fiendish_Flameblast.md | 54 | 44 | 10 |
+| Fiendish_Resilience.md | 55 | 45 | 10 |
+| Fierce_Perilous_Stakes.md | 52 | 42 | 10 |
+| Fiery_Bolt.md | 38 | 28 | 10 |
+| Fiery_Regurgitation.md | 71 | 61 | 10 |
+| Command.md | 72 | 62 | 10 |
+| Command_(Drop).md | 49 | 39 | 10 |
+| Command_colon__Approach.md | 50 | 40 | 10 |
+| Command_colon__Approach_(Undead).md | 47 | 37 | 10 |
+| Command_colon__Drop.md | 49 | 39 | 10 |
+| Command_colon__Drop_(Undead).md | 46 | 36 | 10 |
+| Command_colon__Flee.md | 50 | 40 | 10 |
+| Command_colon__Flee_(Undead).md | 47 | 37 | 10 |
+| Command_colon__Grovel.md | 46 | 36 | 10 |
+| Command_colon__Grovel_(Undead).md | 47 | 37 | 10 |
+| Command_colon__Halt.md | 50 | 40 | 10 |
+| Command_colon__Halt_(Undead).md | 47 | 37 | 10 |
+| Commander's_Strike.md | 62 | 52 | 10 |
+| Compelled_Duel.md | 56 | 46 | 10 |
+| Concentrated_Blast.md | 56 | 46 | 10 |
+| Concussive_Burst.md | 43 | 33 | 10 |
+| Concussive_Smash.md | 63 | 53 | 10 |
 | Familiar.md | 94 | 84 | 10 |
 | Fangs_of_the_Fire_Snake.md | 57 | 47 | 10 |
 | Fear.md | 83 | 73 | 10 |
@@ -3533,6 +3480,14 @@
 | Githyanki_Psionics_colon__Jump.md | 59 | 49 | 10 |
 | Githyanki_Psionics_colon__Mage_Hand.md | 62 | 52 | 10 |
 | Glacial_Age.md | 47 | 37 | 10 |
+| Gore_(Minotaur).md | 40 | 30 | 10 |
+| Gossamer_Tomb.md | 65 | 55 | 10 |
+| Grant_Flight.md | 76 | 66 | 10 |
+| Grapple_(Shadow_Creeper).md | 54 | 44 | 10 |
+| Grapple_(Tentacle).md | 61 | 51 | 10 |
+| Grasping_Appendage.md | 41 | 31 | 10 |
+| Grasping_Pull.md | 40 | 30 | 10 |
+| Grasping_Vine.md | 88 | 78 | 10 |
 | Glyph_of_Warding.md | 89 | 79 | 10 |
 | Goading_Attack_(Melee).md | 68 | 58 | 10 |
 | Goading_Attack_(Ranged).md | 68 | 58 | 10 |
@@ -3548,22 +3503,6 @@
 | Drunken_Inhale.md | 54 | 44 | 10 |
 | Drunken_Technique.md | 56 | 46 | 10 |
 | Dueller's_Enthusiasm.md | 39 | 29 | 10 |
-| Fiendish_Flameblast.md | 54 | 44 | 10 |
-| Fiendish_Resilience.md | 55 | 45 | 10 |
-| Fierce_Perilous_Stakes.md | 52 | 42 | 10 |
-| Fiery_Bolt.md | 38 | 28 | 10 |
-| Fiery_Regurgitation.md | 71 | 61 | 10 |
-| Gore_(Minotaur).md | 40 | 30 | 10 |
-| Gossamer_Tomb.md | 65 | 55 | 10 |
-| Grant_Flight.md | 76 | 66 | 10 |
-| Grapple_(Shadow_Creeper).md | 54 | 44 | 10 |
-| Grapple_(Tentacle).md | 61 | 51 | 10 |
-| Grasping_Appendage.md | 41 | 31 | 10 |
-| Grasping_Pull.md | 40 | 30 | 10 |
-| Grasping_Vine.md | 88 | 78 | 10 |
-| Fungal_Infestation.md | 56 | 46 | 10 |
-| Fungal_Infestation_Charge.md | 56 | 46 | 10 |
-| Gale_(class_action).md | 65 | 55 | 10 |
 | Flaming_Fury.md | 39 | 29 | 10 |
 | Flaming_Sphere.md | 93 | 83 | 10 |
 | Fleeting_Dream.md | 39 | 29 | 10 |
@@ -3571,6 +3510,11 @@
 | Flesh_to_Stone.md | 84 | 74 | 10 |
 | Gaze_of_the_Dead.md | 54 | 44 | 10 |
 | Ghoulish_Touch.md | 62 | 52 | 10 |
+| Fungal_Infestation.md | 56 | 46 | 10 |
+| Fungal_Infestation_Charge.md | 56 | 46 | 10 |
+| Gale_(class_action).md | 65 | 55 | 10 |
+| Giant_Form.md | 52 | 42 | 10 |
+| Githborn_colon__Flying_Boots.md | 47 | 37 | 10 |
 | Guildmaster_Keene's_Fixers.md | 74 | 64 | 10 |
 | Gur_Huntwardens.md | 66 | 56 | 10 |
 | Gushing_Air.md | 38 | 28 | 10 |
@@ -3580,29 +3524,27 @@
 | Hallucination_Spores.md | 42 | 32 | 10 |
 | Halo_of_Spores.md | 43 | 33 | 10 |
 | Hamstring_Shot.md | 53 | 43 | 10 |
-| Giant_Form.md | 52 | 42 | 10 |
-| Githborn_colon__Flying_Boots.md | 47 | 37 | 10 |
-| Careful_What_You_Wish_For.md | 61 | 51 | 10 |
 | Erupting_Cinder.md | 59 | 49 | 10 |
 | Eternal_Devotion.md | 34 | 24 | 10 |
 | Ethel's_Insect_Plague.md | 69 | 59 | 10 |
 | Ethel's_Ray_of_Sickness.md | 51 | 41 | 10 |
-| Gondian_Steel_Watcher.md | 70 | 60 | 10 |
-| Gong_of_the_Summit.md | 51 | 41 | 10 |
-| Goodberry.md | 67 | 57 | 10 |
 | Cunning_Action_colon__Hide.md | 50 | 40 | 10 |
 | Cure_Wounds.md | 70 | 60 | 10 |
 | Curriculum_of_Strategy_colon__Artistry_of_War.md | 61 | 51 | 10 |
 | Curse_of_Regret.md | 53 | 43 | 10 |
 | Curse_of_Terror.md | 44 | 34 | 10 |
 | Cursed_Thorns.md | 38 | 28 | 10 |
-| Greater_Restoration.md | 41 | 31 | 10 |
-| Greatsword_Slash.md | 48 | 38 | 10 |
 | Diabolic_Chains.md | 70 | 60 | 10 |
 | Die_designs.md | 63 | 53 | 10 |
 | Dig.md | 45 | 35 | 10 |
 | Digestive_Sap.md | 48 | 38 | 10 |
 | Dimension_Door.md | 66 | 56 | 10 |
+| Greater_Restoration.md | 41 | 31 | 10 |
+| Greatsword_Slash.md | 48 | 38 | 10 |
+| Gondian_Steel_Watcher.md | 70 | 60 | 10 |
+| Gong_of_the_Summit.md | 51 | 41 | 10 |
+| Goodberry.md | 67 | 57 | 10 |
+| Careful_What_You_Wish_For.md | 61 | 51 | 10 |
 | Hordestrike.md | 57 | 47 | 10 |
 | Horrific_Visage.md | 52 | 42 | 10 |
 | Hound_of_Ill_Omen.md | 66 | 56 | 10 |
@@ -3612,11 +3554,6 @@
 | Hellfire_Missiles.md | 59 | 49 | 10 |
 | Hellfire_Orb.md | 44 | 34 | 10 |
 | Hellstalker_Yurgir.md | 64 | 54 | 10 |
-| For_the_Lord_of_Bones!.md | 43 | 33 | 10 |
-| Force_Tunnel.md | 49 | 39 | 10 |
-| Forced_Manoeuvre.md | 56 | 46 | 10 |
-| Forced_Teleportation.md | 44 | 34 | 10 |
-| Forever_Indebted.md | 69 | 59 | 10 |
 | Grave_Repulsion.md | 44 | 34 | 10 |
 | Grease.md | 99 | 89 | 10 |
 | Greasy_Discharge.md | 46 | 36 | 10 |
@@ -3641,12 +3578,21 @@
 | Hexblade's_Curse.md | 48 | 38 | 10 |
 | Hide.md | 52 | 42 | 10 |
 | Hide_in_Plain_Sight.md | 52 | 42 | 10 |
+| For_the_Lord_of_Bones!.md | 43 | 33 | 10 |
+| Force_Tunnel.md | 49 | 39 | 10 |
+| Forced_Manoeuvre.md | 56 | 46 | 10 |
+| Forced_Teleportation.md | 44 | 34 | 10 |
+| Forever_Indebted.md | 69 | 59 | 10 |
 | Hand_Me_My_Leech.md | 49 | 39 | 10 |
 | Hand_Me_My_Saw.md | 49 | 39 | 10 |
 | Hand_Me_My_Syringe.md | 49 | 39 | 10 |
 | Hand_Me_My_Trepan.md | 49 | 39 | 10 |
 | Harm.md | 62 | 52 | 10 |
 | Harmony_of_Fire_and_Water.md | 33 | 23 | 10 |
+| Infectious_Bite_(Wolf_Companion).md | 56 | 46 | 10 |
+| Infernal_Dagger.md | 50 | 40 | 10 |
+| Infernal_Salve.md | 41 | 31 | 10 |
+| Infiltration_Expertise.md | 41 | 31 | 10 |
 | Form_of_Dread.md | 52 | 42 | 10 |
 | Fox's_Cunning.md | 49 | 39 | 10 |
 | Fracture_Psyche.md | 60 | 50 | 10 |
@@ -3658,16 +3604,6 @@
 | Honeyed_Paws.md | 67 | 57 | 10 |
 | Hook_(class_action).md | 53 | 43 | 10 |
 | Hook_Clacks.md | 36 | 26 | 10 |
-| Infectious_Bite_(Wolf_Companion).md | 56 | 46 | 10 |
-| Infernal_Dagger.md | 50 | 40 | 10 |
-| Infernal_Salve.md | 41 | 31 | 10 |
-| Infiltration_Expertise.md | 41 | 31 | 10 |
-| Joyous_Trumpet.md | 31 | 21 | 10 |
-| Jugular_Strike.md | 49 | 39 | 10 |
-| Jump.md | 54 | 44 | 10 |
-| Jump_(Bonus_Action).md | 54 | 44 | 10 |
-| Jump_(Frog).md | 37 | 27 | 10 |
-| Jump_(Running).md | 38 | 28 | 10 |
 | Improved_Minor_Illusion.md | 49 | 39 | 10 |
 | Improvised_Melee_Weapon.md | 83 | 73 | 10 |
 | Improvised_Melee_Weapon_(Bonus_Action).md | 76 | 66 | 10 |
@@ -3677,6 +3613,12 @@
 | Incineration_Caster_colon__Overheat.md | 36 | 26 | 10 |
 | Incise_Ligaments.md | 60 | 50 | 10 |
 | Incubus_Charm.md | 44 | 34 | 10 |
+| Joyous_Trumpet.md | 31 | 21 | 10 |
+| Jugular_Strike.md | 49 | 39 | 10 |
+| Jump.md | 54 | 44 | 10 |
+| Jump_(Bonus_Action).md | 54 | 44 | 10 |
+| Jump_(Frog).md | 37 | 27 | 10 |
+| Jump_(Running).md | 38 | 28 | 10 |
 | Knowledge_of_the_Ages_colon__Strength.md | 44 | 34 | 10 |
 | Knowledge_of_the_Ages_colon__Wisdom.md | 44 | 34 | 10 |
 | Kobold_Hole.md | 22 | 12 | 10 |
@@ -3686,21 +3628,21 @@
 | Ki_Resonation_colon__Punch_(Action).md | 55 | 45 | 10 |
 | Ki_Resonation_colon__Punch_(Bonus_Action).md | 50 | 40 | 10 |
 | Kick_Up_Muck.md | 76 | 66 | 10 |
-| Haste.md | 98 | 88 | 10 |
-| Haste_Spores.md | 69 | 59 | 10 |
-| Jealous_Avarice.md | 40 | 30 | 10 |
-| Lesser_Restoration.md | 51 | 41 | 10 |
-| Lethal_Leech.md | 49 | 39 | 10 |
-| Life_Drain.md | 46 | 36 | 10 |
 | Ice_Breath.md | 40 | 30 | 10 |
 | Ice_Storm.md | 104 | 94 | 10 |
 | Icy_Regurgitation.md | 87 | 77 | 10 |
 | Igniting_Spark.md | 74 | 64 | 10 |
-| Keeper's_Fee.md | 45 | 35 | 10 |
+| Haste.md | 98 | 88 | 10 |
+| Haste_Spores.md | 69 | 59 | 10 |
+| Life_Drain.md | 46 | 36 | 10 |
+| Jealous_Avarice.md | 40 | 30 | 10 |
+| Lesser_Restoration.md | 51 | 41 | 10 |
+| Lethal_Leech.md | 49 | 39 | 10 |
 | Inspect_Moonlantern.md | 53 | 43 | 10 |
 | Inspiring_Leader.md | 36 | 26 | 10 |
 | Intimidating_Presence.md | 62 | 52 | 10 |
 | Intoxicating_Strike.md | 47 | 37 | 10 |
+| Keeper's_Fee.md | 45 | 35 | 10 |
 | Leave_Ethereal_Plane.md | 26 | 16 | 10 |
 | Left_Coin_Whip.md | 42 | 32 | 10 |
 | Legacy_of_Avernus_colon__Searing_Smite.md | 70 | 60 | 10 |
@@ -3729,14 +3671,6 @@
 | Find_Familiar_colon__Spider.md | 52 | 42 | 10 |
 | Fire_Bolt.md | 89 | 79 | 10 |
 | Fire_Breath_(Cone).md | 53 | 43 | 10 |
-| Lorroakan's_Firestorm.md | 48 | 38 | 10 |
-| Lovely_Assistant.md | 44 | 34 | 10 |
-| Loyal_Furry_Friend.md | 32 | 22 | 10 |
-| Have_Nice_Gift!.md | 41 | 31 | 10 |
-| Headbutt.md | 42 | 32 | 10 |
-| Headcrack.md | 60 | 50 | 10 |
-| Heal.md | 53 | 43 | 10 |
-| Healing_Word.md | 63 | 53 | 10 |
 | Invigorating_Flame.md | 63 | 53 | 10 |
 | Invisibility_(Air_Myrmidon).md | 45 | 35 | 10 |
 | Invisibility_(Imp).md | 43 | 33 | 10 |
@@ -3747,62 +3681,13 @@
 | Invisible_Passage.md | 41 | 31 | 10 |
 | Invocation_of_Eternal_Debt.md | 47 | 37 | 10 |
 | Invoke_Duplicity.md | 44 | 34 | 10 |
-| Hiding.md | 52 | 42 | 10 |
-| Hiemal_Strike.md | 57 | 47 | 10 |
-| Mapped_Terror_colon__Betrayal.md | 68 | 58 | 10 |
-| Mapped_Terror_colon__Ceremorphosis.md | 62 | 52 | 10 |
-| Mapped_Terror_colon__Darkness.md | 65 | 55 | 10 |
-| Mapped_Terror_colon__Disease.md | 65 | 55 | 10 |
-| Mapped_Terror_colon__Powerlessness.md | 63 | 53 | 10 |
-| Mapped_Terror_colon__Spiders.md | 79 | 69 | 10 |
-| Mapped_Terror_colon__Wolves.md | 78 | 68 | 10 |
-| Mark_of_Putrefaction.md | 45 | 35 | 10 |
 | Lacerate.md | 62 | 52 | 10 |
 | Lacerate_(Spiritual_Weapon).md | 67 | 57 | 10 |
 | Ladle_Sweet_Anguish.md | 38 | 28 | 10 |
 | Lance_Charge.md | 42 | 32 | 10 |
-| Longstrider.md | 71 | 61 | 10 |
-| Karsite_Grip.md | 64 | 54 | 10 |
-| Luring_Song.md | 44 | 34 | 10 |
-| Mage_Armor.md | 84 | 74 | 10 |
-| Mage_Armour.md | 84 | 74 | 10 |
-| Mage_Hand.md | 90 | 80 | 10 |
-| Helm_(God).md | 65 | 55 | 10 |
-| Help_(bonus_action).md | 48 | 38 | 10 |
-| Heartstopper.md | 54 | 44 | 10 |
-| Heartwrench.md | 44 | 34 | 10 |
-| Heat_Metal.md | 106 | 96 | 10 |
-| Heat_Metal_colon__Reapply_Damage.md | 69 | 59 | 10 |
-| Launch_Protocol_colon__Bola.md | 51 | 41 | 10 |
-| Lay_on_Hands.md | 45 | 35 | 10 |
-| Lay_on_Hands_Charge.md | 45 | 35 | 10 |
-| Lay_on_Hands_colon__Cure.md | 38 | 28 | 10 |
-| Lay_on_Hands_colon__Greater_Healing.md | 42 | 32 | 10 |
-| Lay_on_Hands_colon__Lesser_Healing.md | 42 | 32 | 10 |
-| Ironhand_Grenadiers.md | 56 | 46 | 10 |
-| Luminous_Arrow.md | 48 | 38 | 10 |
-| Lump's_Command.md | 45 | 35 | 10 |
-| Lunar_Blessing.md | 43 | 33 | 10 |
-| Lunar_Bulwark.md | 74 | 64 | 10 |
-| Lunar_Mend.md | 43 | 33 | 10 |
-| Lunar_Smite.md | 58 | 48 | 10 |
-| Lunging_Bite.md | 54 | 44 | 10 |
-| Lupine_Slash.md | 42 | 32 | 10 |
-| Mind_Flayer_Domination.md | 52 | 42 | 10 |
-| Mind_Mastery.md | 49 | 39 | 10 |
-| Mind_Screech.md | 48 | 38 | 10 |
-| Mind_Spike.md | 48 | 38 | 10 |
-| Mind_Tax.md | 48 | 38 | 10 |
-| Mindbreak.md | 43 | 33 | 10 |
-| Gargantuan_Cleave.md | 65 | 55 | 10 |
-| Gargoyle's_Countenance.md | 52 | 42 | 10 |
-| Garrotte.md | 54 | 44 | 10 |
-| Garrotte_(Meazel).md | 57 | 47 | 10 |
-| Garrotte_(Meazel,_tactician).md | 65 | 55 | 10 |
-| Garrotte_(Sorn_Orlith).md | 49 | 39 | 10 |
-| Gaseous_Form.md | 101 | 91 | 10 |
-| Gather_Power.md | 53 | 43 | 10 |
-| Gather_Your_Allies_(class_action).md | 63 | 53 | 10 |
+| Lorroakan's_Firestorm.md | 48 | 38 | 10 |
+| Lovely_Assistant.md | 44 | 34 | 10 |
+| Loyal_Furry_Friend.md | 32 | 22 | 10 |
 | Damage.md | 152 | 162 | 10 |
 | Damage_rolls.md | 152 | 162 | 10 |
 | Damage_type.md | 152 | 162 | 10 |
@@ -3811,6 +3696,60 @@
 | Dancing_Lights.md | 90 | 80 | 10 |
 | Dancing_Lights_(Deep_Rothé).md | 54 | 44 | 10 |
 | Danse_Macabre.md | 85 | 75 | 10 |
+| Have_Nice_Gift!.md | 41 | 31 | 10 |
+| Headbutt.md | 42 | 32 | 10 |
+| Headcrack.md | 60 | 50 | 10 |
+| Heal.md | 53 | 43 | 10 |
+| Healing_Word.md | 63 | 53 | 10 |
+| Mapped_Terror_colon__Betrayal.md | 68 | 58 | 10 |
+| Mapped_Terror_colon__Ceremorphosis.md | 62 | 52 | 10 |
+| Mapped_Terror_colon__Darkness.md | 65 | 55 | 10 |
+| Mapped_Terror_colon__Disease.md | 65 | 55 | 10 |
+| Mapped_Terror_colon__Powerlessness.md | 63 | 53 | 10 |
+| Mapped_Terror_colon__Spiders.md | 79 | 69 | 10 |
+| Mapped_Terror_colon__Wolves.md | 78 | 68 | 10 |
+| Mark_of_Putrefaction.md | 45 | 35 | 10 |
+| Hiding.md | 52 | 42 | 10 |
+| Hiemal_Strike.md | 57 | 47 | 10 |
+| Longstrider.md | 71 | 61 | 10 |
+| Mind_Flayer_Domination.md | 52 | 42 | 10 |
+| Mind_Mastery.md | 49 | 39 | 10 |
+| Mind_Screech.md | 48 | 38 | 10 |
+| Mind_Spike.md | 48 | 38 | 10 |
+| Mind_Tax.md | 48 | 38 | 10 |
+| Mindbreak.md | 43 | 33 | 10 |
+| Luring_Song.md | 44 | 34 | 10 |
+| Mage_Armor.md | 84 | 74 | 10 |
+| Mage_Armour.md | 84 | 74 | 10 |
+| Mage_Hand.md | 90 | 80 | 10 |
+| Luminous_Arrow.md | 48 | 38 | 10 |
+| Lump's_Command.md | 45 | 35 | 10 |
+| Lunar_Blessing.md | 43 | 33 | 10 |
+| Lunar_Bulwark.md | 74 | 64 | 10 |
+| Lunar_Mend.md | 43 | 33 | 10 |
+| Lunar_Smite.md | 58 | 48 | 10 |
+| Lunging_Bite.md | 54 | 44 | 10 |
+| Lupine_Slash.md | 42 | 32 | 10 |
+| Launch_Protocol_colon__Bola.md | 51 | 41 | 10 |
+| Lay_on_Hands.md | 45 | 35 | 10 |
+| Lay_on_Hands_Charge.md | 45 | 35 | 10 |
+| Lay_on_Hands_colon__Cure.md | 38 | 28 | 10 |
+| Lay_on_Hands_colon__Greater_Healing.md | 42 | 32 | 10 |
+| Lay_on_Hands_colon__Lesser_Healing.md | 42 | 32 | 10 |
+| Karsite_Grip.md | 64 | 54 | 10 |
+| Mellow_Harmony.md | 48 | 38 | 10 |
+| Menacing_Attack_(Bonespike_Helmet).md | 54 | 44 | 10 |
+| Menacing_Attack_(Melee).md | 67 | 57 | 10 |
+| Menacing_Attack_(Ranged).md | 59 | 49 | 10 |
+| Meow.md | 35 | 25 | 10 |
+| Merciless_Crush.md | 52 | 42 | 10 |
+| Ironhand_Grenadiers.md | 56 | 46 | 10 |
+| Heartstopper.md | 54 | 44 | 10 |
+| Heartwrench.md | 44 | 34 | 10 |
+| Heat_Metal.md | 106 | 96 | 10 |
+| Heat_Metal_colon__Reapply_Damage.md | 69 | 59 | 10 |
+| Helm_(God).md | 65 | 55 | 10 |
+| Help_(bonus_action).md | 48 | 38 | 10 |
 | Multiattack_(Ranged).md | 47 | 37 | 10 |
 | Multiattack_(Red_Dragon).md | 58 | 48 | 10 |
 | Multiattack_(Redcap).md | 49 | 39 | 10 |
@@ -3826,12 +3765,19 @@
 | Multiattack_(Water_Elemental).md | 64 | 54 | 10 |
 | Multiattack_(Werewolf).md | 50 | 40 | 10 |
 | Mummy's_Lullaby.md | 44 | 34 | 10 |
-| Mellow_Harmony.md | 48 | 38 | 10 |
-| Menacing_Attack_(Bonespike_Helmet).md | 54 | 44 | 10 |
-| Menacing_Attack_(Melee).md | 67 | 57 | 10 |
-| Menacing_Attack_(Ranged).md | 59 | 49 | 10 |
-| Meow.md | 35 | 25 | 10 |
-| Merciless_Crush.md | 52 | 42 | 10 |
+| Gargantuan_Cleave.md | 65 | 55 | 10 |
+| Gargoyle's_Countenance.md | 52 | 42 | 10 |
+| Garrotte.md | 54 | 44 | 10 |
+| Garrotte_(Meazel).md | 57 | 47 | 10 |
+| Garrotte_(Meazel,_tactician).md | 65 | 55 | 10 |
+| Garrotte_(Sorn_Orlith).md | 49 | 39 | 10 |
+| Gaseous_Form.md | 101 | 91 | 10 |
+| Gather_Power.md | 53 | 43 | 10 |
+| Gather_Your_Allies_(class_action).md | 63 | 53 | 10 |
+| Needle_Burst.md | 36 | 26 | 10 |
+| Needles.md | 38 | 28 | 10 |
+| Needlestorm.md | 40 | 30 | 10 |
+| Netherese_Orb_Blast.md | 37 | 27 | 10 |
 | Move_Moonbeam.md | 48 | 38 | 10 |
 | Mud_Breath.md | 46 | 36 | 10 |
 | Mud_Fling.md | 36 | 26 | 10 |
@@ -3855,10 +3801,6 @@
 | Multiattack_(Mud_Elemental).md | 41 | 31 | 10 |
 | Multiattack_(Mummy).md | 61 | 51 | 10 |
 | Multiattack_(Owlbear).md | 58 | 48 | 10 |
-| Needle_Burst.md | 36 | 26 | 10 |
-| Needles.md | 38 | 28 | 10 |
-| Needlestorm.md | 40 | 30 | 10 |
-| Netherese_Orb_Blast.md | 37 | 27 | 10 |
 | Illuminating_Shot.md | 53 | 43 | 10 |
 | Immolating_Gaze.md | 61 | 51 | 10 |
 | Improved_Bardic_Inspiration_(class_action).md | 57 | 47 | 10 |
@@ -3866,21 +3808,21 @@
 | Lightning_Arrow.md | 64 | 54 | 10 |
 | Lightning_Bolt.md | 73 | 63 | 10 |
 | Lightning_Breath.md | 57 | 47 | 10 |
+| Mammon's_Tax.md | 37 | 27 | 10 |
+| Manoeuvring_Attack_(Melee).md | 64 | 54 | 10 |
+| Manoeuvring_Attack_(Ranged).md | 64 | 54 | 10 |
 | Minor_Conjuration_colon__Create_Water.md | 56 | 46 | 10 |
 | Minor_Illusion.md | 82 | 72 | 10 |
 | Mirror_Image.md | 73 | 63 | 10 |
 | Mist_Stance.md | 89 | 79 | 10 |
 | Misty_Escape_(Cazador_Szarr).md | 67 | 57 | 10 |
 | Misty_Escape_(Vampire_Ascendant).md | 70 | 60 | 10 |
-| Myrmidon's_Immolation.md | 50 | 40 | 10 |
-| Mystic_Carrion's_Vile_Curse.md | 53 | 43 | 10 |
-| Narcoleptic_Burst.md | 42 | 32 | 10 |
 | Moral_Confinement.md | 47 | 37 | 10 |
 | Morphic_Ambush.md | 45 | 35 | 10 |
 | Morphic_Brine_Explosion.md | 53 | 43 | 10 |
-| Mammon's_Tax.md | 37 | 27 | 10 |
-| Manoeuvring_Attack_(Melee).md | 64 | 54 | 10 |
-| Manoeuvring_Attack_(Ranged).md | 64 | 54 | 10 |
+| Myrmidon's_Immolation.md | 50 | 40 | 10 |
+| Mystic_Carrion's_Vile_Curse.md | 53 | 43 | 10 |
+| Narcoleptic_Burst.md | 42 | 32 | 10 |
 | On_Black_Wings.md | 58 | 48 | 10 |
 | One_with_Shadows_(class_action).md | 53 | 43 | 10 |
 | Murder,_Be_My_Muse.md | 54 | 44 | 10 |
@@ -3901,17 +3843,24 @@
 | Paralyzing_Ray.md | 53 | 43 | 10 |
 | Part_the_Flesh.md | 65 | 55 | 10 |
 | Pass_Without_Trace.md | 72 | 62 | 10 |
-| Mass_Cure_Wounds.md | 54 | 44 | 10 |
-| Mass_Healing_Word.md | 61 | 51 | 10 |
-| Obliging_Assistant.md | 45 | 35 | 10 |
-| Ochre_Sputum_(acid).md | 61 | 51 | 10 |
-| Ochre_Sputum_(grease).md | 72 | 62 | 10 |
 | Maiming_Pinch.md | 46 | 36 | 10 |
 | Maiming_Strike.md | 66 | 56 | 10 |
 | Maintain_Hypnotic_Gaze.md | 50 | 40 | 10 |
 | Maintain_Intimidating_Presence.md | 50 | 40 | 10 |
 | Malfunctioning_Shell_of_Resistance.md | 40 | 30 | 10 |
-| Guiding_Bolt.md | 71 | 61 | 10 |
+| Mass_Cure_Wounds.md | 54 | 44 | 10 |
+| Mass_Healing_Word.md | 61 | 51 | 10 |
+| Obliging_Assistant.md | 45 | 35 | 10 |
+| Ochre_Sputum_(acid).md | 61 | 51 | 10 |
+| Ochre_Sputum_(grease).md | 72 | 62 | 10 |
+| Misty_Step.md | 77 | 67 | 10 |
+| Mizora,_Agent_of_Avernus.md | 75 | 65 | 10 |
+| Mizora_Agent_of_Avernus.md | 75 | 65 | 10 |
+| Moan.md | 49 | 39 | 10 |
+| Mobile_Flourish_(Melee).md | 72 | 62 | 10 |
+| Mobile_Flourish_(Ranged).md | 72 | 62 | 10 |
+| Mobile_Flourish_colon__Teleport.md | 37 | 27 | 10 |
+| Mobile_Shot.md | 44 | 34 | 10 |
 | Physical.md | 152 | 162 | 10 |
 | Physical_damage.md | 152 | 162 | 10 |
 | Pierce.md | 36 | 26 | 10 |
@@ -3920,16 +3869,6 @@
 | Piercing_Shot.md | 59 | 49 | 10 |
 | Piercing_Strike.md | 61 | 51 | 10 |
 | Pin_Down.md | 51 | 41 | 10 |
-| Perturbing_Visage.md | 48 | 38 | 10 |
-| Petrifying_Sting.md | 48 | 38 | 10 |
-| Phalar_Aluve_colon__Melody.md | 39 | 29 | 10 |
-| Phalar_Aluve_colon__Shriek.md | 72 | 62 | 10 |
-| Phalar_Aluve_colon__Sing.md | 65 | 55 | 10 |
-| Phantasmal_Force.md | 69 | 59 | 10 |
-| Phantasmal_Killer.md | 79 | 69 | 10 |
-| Nightbringer's_Shadow_Adepts.md | 74 | 64 | 10 |
-| Nightdome.md | 22 | 12 | 10 |
-| No_Rest_for_the_Wicked.md | 40 | 30 | 10 |
 | Planar_Ally.md | 52 | 42 | 10 |
 | Planar_Ally_colon__Cambion.md | 67 | 57 | 10 |
 | Planar_Ally_colon__Deva.md | 62 | 52 | 10 |
@@ -3942,55 +3881,28 @@
 | Poison_Hallucination.md | 51 | 41 | 10 |
 | Poison_Mist.md | 71 | 61 | 10 |
 | Poison_Spray.md | 70 | 60 | 10 |
-| Misty_Step.md | 77 | 67 | 10 |
-| Mizora,_Agent_of_Avernus.md | 75 | 65 | 10 |
-| Mizora_Agent_of_Avernus.md | 75 | 65 | 10 |
-| Moan.md | 49 | 39 | 10 |
-| Mobile_Flourish_(Melee).md | 72 | 62 | 10 |
-| Mobile_Flourish_(Ranged).md | 72 | 62 | 10 |
-| Mobile_Flourish_colon__Teleport.md | 37 | 27 | 10 |
-| Mobile_Shot.md | 44 | 34 | 10 |
-| Moonbeam.md | 93 | 83 | 10 |
-| Moonlight_Butterflies.md | 84 | 74 | 10 |
-| Moonlight_Butterflies_(Weapon_Action).md | 76 | 66 | 10 |
-| Cursed_Thorns_(Giant_Shadow_Creeper).md | 38 | 28 | 10 |
-| Daddy's_Lecture.md | 41 | 31 | 10 |
-| Patient_Defence.md | 48 | 38 | 10 |
-| Pearlescent_Restoration.md | 44 | 34 | 10 |
-| Pearlspore_Outbreak.md | 56 | 46 | 10 |
 | Possession.md | 57 | 47 | 10 |
 | Potent_Concentrated_Blast.md | 46 | 36 | 10 |
 | Potent_Misty_Escape.md | 70 | 60 | 10 |
-| Nature's_Wrath.md | 46 | 36 | 10 |
-| Nebulous_Black_Hole.md | 68 | 58 | 10 |
-| Necrotic_Bite.md | 38 | 28 | 10 |
-| Necrotic_Claws_(Shadow).md | 38 | 28 | 10 |
-| Guardian_of_Faith.md | 72 | 62 | 10 |
-| Guidance.md | 67 | 57 | 10 |
+| Patient_Defence.md | 48 | 38 | 10 |
+| Pearlescent_Restoration.md | 44 | 34 | 10 |
+| Pearlspore_Outbreak.md | 56 | 46 | 10 |
+| Perturbing_Visage.md | 48 | 38 | 10 |
+| Petrifying_Sting.md | 48 | 38 | 10 |
+| Phalar_Aluve_colon__Melody.md | 39 | 29 | 10 |
+| Phalar_Aluve_colon__Shriek.md | 72 | 62 | 10 |
+| Phalar_Aluve_colon__Sing.md | 65 | 55 | 10 |
+| Phantasmal_Force.md | 69 | 59 | 10 |
+| Phantasmal_Killer.md | 79 | 69 | 10 |
+| Cursed_Thorns_(Giant_Shadow_Creeper).md | 38 | 28 | 10 |
+| Daddy's_Lecture.md | 41 | 31 | 10 |
+| Nightbringer's_Shadow_Adepts.md | 74 | 64 | 10 |
+| Nightdome.md | 22 | 12 | 10 |
+| No_Rest_for_the_Wicked.md | 40 | 30 | 10 |
 | Orb_of_Negation.md | 50 | 40 | 10 |
-| Reap_Soul.md | 42 | 32 | 10 |
-| Reaper's_Scythe.md | 46 | 36 | 10 |
-| Reapply_Heat_Metal.md | 69 | 59 | 10 |
-| Reapply_Hex.md | 59 | 49 | 10 |
-| Reapply_Hex_(Charisma).md | 43 | 33 | 10 |
-| Reapply_Hex_(Constitution).md | 43 | 33 | 10 |
-| Reapply_Hex_(Dexterity).md | 43 | 33 | 10 |
-| Reapply_Hex_(Intelligence).md | 43 | 33 | 10 |
-| Reapply_Hex_(Strength).md | 43 | 33 | 10 |
-| Reapply_Hex_(Wisdom).md | 43 | 33 | 10 |
-| Reapply_Hunter's_Mark.md | 52 | 42 | 10 |
-| Recast_Dazzling_Ray.md | 76 | 66 | 10 |
-| Recast_Speak_with_Dead.md | 51 | 41 | 10 |
-| Recast_Sunbeam.md | 59 | 49 | 10 |
-| Reckless_Roar.md | 42 | 32 | 10 |
-| Reckless_Warcry.md | 43 | 33 | 10 |
-| Psychic_Rend.md | 42 | 32 | 10 |
-| Psychic_Resonance.md | 32 | 22 | 10 |
-| Psychic_Scream.md | 38 | 28 | 10 |
-| Pulling_Web.md | 46 | 36 | 10 |
-| Pushing_Attack_(Melee).md | 54 | 44 | 10 |
-| Pushing_Attack_(Ranged).md | 54 | 44 | 10 |
-| Pushing_Attack_(Titanstring_Bow).md | 48 | 38 | 10 |
+| Moonbeam.md | 93 | 83 | 10 |
+| Moonlight_Butterflies.md | 84 | 74 | 10 |
+| Moonlight_Butterflies_(Weapon_Action).md | 76 | 66 | 10 |
 | Protection_from_Energy_colon__Lightning.md | 45 | 35 | 10 |
 | Protection_from_Energy_colon__Thunder.md | 45 | 35 | 10 |
 | Protection_from_Evil_and_Good.md | 92 | 82 | 10 |
@@ -4008,14 +3920,38 @@
 | Psionic_Suggestion_colon__Grovel.md | 51 | 41 | 10 |
 | Psionic_Suggestion_colon__Halt.md | 51 | 41 | 10 |
 | Psionic_Suggestion_colon__Hush.md | 46 | 36 | 10 |
-| Rolan's_Colour_Spray.md | 50 | 40 | 10 |
-| Rolan's_Fireball.md | 70 | 60 | 10 |
-| Rolan's_Firestorm.md | 48 | 38 | 10 |
-| Rolan's_Mage_Armour.md | 50 | 40 | 10 |
-| Rolan's_Magic_Missile.md | 56 | 46 | 10 |
-| Rolan's_Thunderwave.md | 62 | 52 | 10 |
-| Rotting_Fist.md | 53 | 43 | 10 |
-| Rotting_Regurgitation.md | 49 | 39 | 10 |
+| Reap_Soul.md | 42 | 32 | 10 |
+| Reaper's_Scythe.md | 46 | 36 | 10 |
+| Reapply_Heat_Metal.md | 69 | 59 | 10 |
+| Reapply_Hex.md | 59 | 49 | 10 |
+| Reapply_Hex_(Charisma).md | 43 | 33 | 10 |
+| Reapply_Hex_(Constitution).md | 43 | 33 | 10 |
+| Reapply_Hex_(Dexterity).md | 43 | 33 | 10 |
+| Reapply_Hex_(Intelligence).md | 43 | 33 | 10 |
+| Reapply_Hex_(Strength).md | 43 | 33 | 10 |
+| Reapply_Hex_(Wisdom).md | 43 | 33 | 10 |
+| Reapply_Hunter's_Mark.md | 52 | 42 | 10 |
+| Recast_Dazzling_Ray.md | 76 | 66 | 10 |
+| Recast_Speak_with_Dead.md | 51 | 41 | 10 |
+| Recast_Sunbeam.md | 59 | 49 | 10 |
+| Reckless_Roar.md | 42 | 32 | 10 |
+| Reckless_Warcry.md | 43 | 33 | 10 |
+| Nature's_Wrath.md | 46 | 36 | 10 |
+| Nebulous_Black_Hole.md | 68 | 58 | 10 |
+| Necrotic_Bite.md | 38 | 28 | 10 |
+| Necrotic_Claws_(Shadow).md | 38 | 28 | 10 |
+| Psychic_Rend.md | 42 | 32 | 10 |
+| Psychic_Resonance.md | 32 | 22 | 10 |
+| Psychic_Scream.md | 38 | 28 | 10 |
+| Pulling_Web.md | 46 | 36 | 10 |
+| Pushing_Attack_(Melee).md | 54 | 44 | 10 |
+| Pushing_Attack_(Ranged).md | 54 | 44 | 10 |
+| Pushing_Attack_(Titanstring_Bow).md | 48 | 38 | 10 |
+| Promise_of_Wealth.md | 45 | 35 | 10 |
+| Protection_from_Energy.md | 67 | 57 | 10 |
+| Protection_from_Energy_colon__Acid.md | 45 | 35 | 10 |
+| Protection_from_Energy_colon__Cold.md | 45 | 35 | 10 |
+| Protection_from_Energy_colon__Fire.md | 45 | 35 | 10 |
 | Precision_Attack.md | 54 | 44 | 10 |
 | Prepare.md | 49 | 39 | 10 |
 | Press_the_Advantage.md | 48 | 38 | 10 |
@@ -4037,14 +3973,14 @@
 | Razor_Gale.md | 60 | 50 | 10 |
 | Reach_from_Beyond.md | 37 | 27 | 10 |
 | Read_Thoughts.md | 42 | 32 | 10 |
-| Promise_of_Wealth.md | 45 | 35 | 10 |
-| Protection_from_Energy.md | 67 | 57 | 10 |
-| Protection_from_Energy_colon__Acid.md | 45 | 35 | 10 |
-| Protection_from_Energy_colon__Cold.md | 45 | 35 | 10 |
-| Protection_from_Energy_colon__Fire.md | 45 | 35 | 10 |
-| Rupture.md | 55 | 45 | 10 |
-| Rush_Attack.md | 60 | 50 | 10 |
-| Rush_of_the_Gale_Spirits.md | 49 | 39 | 10 |
+| Rolan's_Colour_Spray.md | 50 | 40 | 10 |
+| Rolan's_Fireball.md | 70 | 60 | 10 |
+| Rolan's_Firestorm.md | 48 | 38 | 10 |
+| Rolan's_Mage_Armour.md | 50 | 40 | 10 |
+| Rolan's_Magic_Missile.md | 56 | 46 | 10 |
+| Rolan's_Thunderwave.md | 62 | 52 | 10 |
+| Rotting_Fist.md | 53 | 43 | 10 |
+| Rotting_Regurgitation.md | 49 | 39 | 10 |
 | Reduce.md | 80 | 70 | 10 |
 | Reduce_(Duergar).md | 59 | 49 | 10 |
 | Reflective_Mucus.md | 42 | 32 | 10 |
@@ -4053,19 +3989,20 @@
 | Rally.md | 58 | 48 | 10 |
 | Ram_(Hell_Sphere).md | 38 | 28 | 10 |
 | Ranger's_Companion.md | 63 | 53 | 10 |
-| Scarlet_Feast.md | 43 | 33 | 10 |
-| Scarlet_Regeneration.md | 44 | 34 | 10 |
-| Scarlet_Saturation.md | 54 | 44 | 10 |
-| Scarlet_Stupor.md | 46 | 36 | 10 |
-| Ride_the_Wind.md | 51 | 41 | 10 |
-| Ride_the_Winds.md | 84 | 74 | 10 |
-| Right_Coin_Whip.md | 42 | 32 | 10 |
+| Rupture.md | 55 | 45 | 10 |
+| Rush_Attack.md | 60 | 50 | 10 |
+| Rush_of_the_Gale_Spirits.md | 49 | 39 | 10 |
 | Perfectly_Balanced_Strike.md | 44 | 34 | 10 |
 | Perform_(Drum).md | 56 | 46 | 10 |
 | Perform_(Flute).md | 56 | 46 | 10 |
 | Perform_(Lute).md | 56 | 46 | 10 |
 | Perform_(Whistle).md | 74 | 64 | 10 |
 | Perilous_Stakes.md | 59 | 49 | 10 |
+| Ride_the_Wind.md | 51 | 41 | 10 |
+| Ride_the_Winds.md | 84 | 74 | 10 |
+| Right_Coin_Whip.md | 42 | 32 | 10 |
+| Scorching_Ray.md | 75 | 65 | 10 |
+| Scorching_Strike.md | 59 | 49 | 10 |
 | Pounce.md | 69 | 59 | 10 |
 | Pounce_(Dilophosaurus).md | 68 | 58 | 10 |
 | Pounce_(Hook_Horror).md | 48 | 38 | 10 |
@@ -4079,14 +4016,20 @@
 | Repulsor_(Illithid_Power).md | 42 | 32 | 10 |
 | Request_Surgical_Instrument.md | 58 | 48 | 10 |
 | Resistance_(Cantrip).md | 60 | 50 | 10 |
-| Scorching_Ray.md | 75 | 65 | 10 |
-| Scorching_Strike.md | 59 | 49 | 10 |
+| Magic_Missile.md | 90 | 80 | 10 |
+| Magic_Missile_(Illithid_Arcanist).md | 51 | 41 | 10 |
+| Magic_Weapon.md | 64 | 54 | 10 |
 | Overheat.md | 49 | 39 | 10 |
 | Overwhelming_Grief.md | 56 | 46 | 10 |
 | Owl's_Wisdom.md | 49 | 39 | 10 |
 | Pacifying_Spores.md | 44 | 34 | 10 |
 | Pact_of_the_Blade.md | 55 | 45 | 10 |
 | Pact_of_the_Blade_colon__Battleaxe.md | 69 | 59 | 10 |
+| Scarlet_Feast.md | 43 | 33 | 10 |
+| Scarlet_Regeneration.md | 44 | 34 | 10 |
+| Scarlet_Saturation.md | 54 | 44 | 10 |
+| Scarlet_Stupor.md | 46 | 36 | 10 |
+| Roaring_Belch.md | 50 | 40 | 10 |
 | Shadow_Arts_colon__Darkness.md | 57 | 47 | 10 |
 | Shadow_Arts_colon__Darkvision.md | 45 | 35 | 10 |
 | Shadow_Arts_colon__Hide.md | 52 | 42 | 10 |
@@ -4094,31 +4037,33 @@
 | Shadow_Arts_colon__Silence.md | 59 | 49 | 10 |
 | Shadow_Pull.md | 39 | 29 | 10 |
 | Shadow_Spear.md | 38 | 28 | 10 |
-| Roaring_Belch.md | 50 | 40 | 10 |
+| Sanctuary.md | 86 | 76 | 10 |
 | Self-Detonate.md | 45 | 35 | 10 |
 | Self-Detonate_(Steel_Watcher_Titan).md | 39 | 29 | 10 |
 | Selune's_Dream.md | 54 | 44 | 10 |
 | Selûne's_Dream.md | 54 | 44 | 10 |
 | Selûne's_Ire_(spell).md | 44 | 34 | 10 |
 | Sense_Hidden_Presence.md | 45 | 35 | 10 |
-| Magic_Missile.md | 90 | 80 | 10 |
-| Magic_Missile_(Illithid_Arcanist).md | 51 | 41 | 10 |
-| Magic_Weapon.md | 64 | 54 | 10 |
-| Sanctuary.md | 86 | 76 | 10 |
-| Share_Untenable_Secret.md | 56 | 46 | 10 |
-| Sharp_Rock.md | 44 | 34 | 10 |
-| Shatter.md | 83 | 73 | 10 |
-| Shatter_Psyche.md | 52 | 42 | 10 |
-| Shatter_Psyche_(Full-illithid).md | 48 | 38 | 10 |
-| Shifting_Winds.md | 31 | 21 | 10 |
-| Shillelagh.md | 68 | 58 | 10 |
-| Shocking_Grasp.md | 80 | 70 | 10 |
-| Shooting_Spider_Companion.md | 55 | 45 | 10 |
-| Shove.md | 110 | 100 | 10 |
-| Shred_Armour.md | 61 | 51 | 10 |
-| Shroud_Self.md | 44 | 34 | 10 |
-| Sethan_colon__Reduce.md | 64 | 54 | 10 |
-| Sethan_colon__Spiritual_Greataxe.md | 67 | 57 | 10 |
+| Searing_Blood.md | 92 | 82 | 10 |
+| Searing_Smite.md | 80 | 70 | 10 |
+| Searing_Smite_(Azer).md | 64 | 54 | 10 |
+| See_Invisibility_(class_action).md | 59 | 49 | 10 |
+| See_Invisibility_(spell).md | 71 | 61 | 10 |
+| Seeming.md | 72 | 62 | 10 |
+| Seething_Fury.md | 50 | 40 | 10 |
+| Seismic_Strike.md | 54 | 44 | 10 |
+| Seize_Soul.md | 36 | 26 | 10 |
+| Polearm_Clout.md | 44 | 34 | 10 |
+| Polma's_Wrath.md | 47 | 37 | 10 |
+| Polymorph.md | 72 | 62 | 10 |
+| Polymorph_colon__Dire_Raven.md | 68 | 58 | 10 |
+| Pommel_Strike.md | 58 | 48 | 10 |
+| Restore_Bardic_Inspiration.md | 33 | 23 | 10 |
+| Restore_Soul.md | 37 | 27 | 10 |
+| Restore_Vitality.md | 45 | 35 | 10 |
+| Revitalising_Strike.md | 60 | 50 | 10 |
+| Revivify.md | 61 | 51 | 10 |
+| Revoke_Guest_Status.md | 49 | 39 | 10 |
 | Shadow_Strike.md | 52 | 42 | 10 |
 | Shadow_Strike_colon__Unarmed.md | 52 | 42 | 10 |
 | Shadow_Teleport_(Meazel).md | 34 | 24 | 10 |
@@ -4133,31 +4078,23 @@
 | Shapeshift.md | 129 | 119 | 10 |
 | Shaping_of_the_Ice.md | 56 | 46 | 10 |
 | Shar's_Aegis.md | 63 | 53 | 10 |
-| Searing_Blood.md | 92 | 82 | 10 |
-| Searing_Smite.md | 80 | 70 | 10 |
-| Searing_Smite_(Azer).md | 64 | 54 | 10 |
-| See_Invisibility_(class_action).md | 59 | 49 | 10 |
-| See_Invisibility_(spell).md | 71 | 61 | 10 |
-| Seeming.md | 72 | 62 | 10 |
-| Seething_Fury.md | 50 | 40 | 10 |
-| Seismic_Strike.md | 54 | 44 | 10 |
-| Seize_Soul.md | 36 | 26 | 10 |
-| Restore_Bardic_Inspiration.md | 33 | 23 | 10 |
-| Restore_Soul.md | 37 | 27 | 10 |
-| Restore_Vitality.md | 45 | 35 | 10 |
-| Revitalising_Strike.md | 60 | 50 | 10 |
-| Revivify.md | 61 | 51 | 10 |
-| Revoke_Guest_Status.md | 49 | 39 | 10 |
-| Polearm_Clout.md | 44 | 34 | 10 |
-| Polma's_Wrath.md | 47 | 37 | 10 |
-| Polymorph.md | 72 | 62 | 10 |
-| Polymorph_colon__Dire_Raven.md | 68 | 58 | 10 |
-| Pommel_Strike.md | 58 | 48 | 10 |
-| Speak_with_Animals.md | 84 | 74 | 10 |
-| Speak_with_Animals_(Cleric).md | 44 | 34 | 10 |
-| Speak_with_Dead.md | 79 | 69 | 10 |
-| Spear_Thrust.md | 47 | 37 | 10 |
-| Special_colon_NewFiles.md | 317 | 307 | 10 |
+| Shifting_Winds.md | 31 | 21 | 10 |
+| Shillelagh.md | 68 | 58 | 10 |
+| Shocking_Grasp.md | 80 | 70 | 10 |
+| Shooting_Spider_Companion.md | 55 | 45 | 10 |
+| Shove.md | 110 | 100 | 10 |
+| Shred_Armour.md | 61 | 51 | 10 |
+| Shroud_Self.md | 44 | 34 | 10 |
+| Share_Untenable_Secret.md | 56 | 46 | 10 |
+| Sharp_Rock.md | 44 | 34 | 10 |
+| Shatter.md | 83 | 73 | 10 |
+| Shatter_Psyche.md | 52 | 42 | 10 |
+| Shatter_Psyche_(Full-illithid).md | 48 | 38 | 10 |
+| Guardian_of_Faith.md | 72 | 62 | 10 |
+| Guidance.md | 67 | 57 | 10 |
+| Sanguine_Animation.md | 47 | 37 | 10 |
+| Sapping_Images.md | 58 | 48 | 10 |
+| Sapping_Strike.md | 44 | 34 | 10 |
 | Stage_Fright.md | 59 | 49 | 10 |
 | Staggering_Smite.md | 65 | 55 | 10 |
 | Stand_Like_Stone.md | 44 | 34 | 10 |
@@ -4167,12 +4104,10 @@
 | Starry_Form_colon__Chalice.md | 71 | 61 | 10 |
 | Starry_Form_colon__Dragon.md | 71 | 61 | 10 |
 | Spreading_Spores.md | 63 | 53 | 10 |
-| Stench.md | 68 | 58 | 10 |
-| Step_of_the_Wind_colon__Dash.md | 59 | 49 | 10 |
-| Step_of_the_Wind_colon__Disengage.md | 54 | 44 | 10 |
-| Sting_(Cursed_Imp).md | 47 | 37 | 10 |
-| Stinking_Cloud.md | 84 | 74 | 10 |
-| Stoneskin.md | 66 | 56 | 10 |
+| Shrouded_in_Shadow.md | 48 | 38 | 10 |
+| Sights_of_the_Seelie_colon__Summon_Deva.md | 64 | 54 | 10 |
+| Signalling_Cry.md | 56 | 46 | 10 |
+| Silver_Harp_Squadron.md | 43 | 33 | 10 |
 | Spiderling_Burst.md | 58 | 48 | 10 |
 | Spike_Growth.md | 86 | 76 | 10 |
 | Spindleweb_Sanctuary.md | 57 | 47 | 10 |
@@ -4187,34 +4122,36 @@
 | Spiritual_Weapon_colon__Spear.md | 77 | 67 | 10 |
 | Spiritual_Weapon_colon__Trident.md | 77 | 67 | 10 |
 | Spiteful_Suffering.md | 54 | 44 | 10 |
-| Shrouded_in_Shadow.md | 48 | 38 | 10 |
-| Sights_of_the_Seelie_colon__Summon_Deva.md | 64 | 54 | 10 |
-| Signalling_Cry.md | 56 | 46 | 10 |
-| Silver_Harp_Squadron.md | 43 | 33 | 10 |
-| Sanguine_Animation.md | 47 | 37 | 10 |
-| Sapping_Images.md | 58 | 48 | 10 |
-| Sapping_Strike.md | 44 | 34 | 10 |
+| Stench.md | 68 | 58 | 10 |
+| Step_of_the_Wind_colon__Dash.md | 59 | 49 | 10 |
+| Step_of_the_Wind_colon__Disengage.md | 54 | 44 | 10 |
+| Sting_(Cursed_Imp).md | 47 | 37 | 10 |
+| Stinking_Cloud.md | 84 | 74 | 10 |
+| Stoneskin.md | 66 | 56 | 10 |
+| Sethan_colon__Reduce.md | 64 | 54 | 10 |
+| Sethan_colon__Spiritual_Greataxe.md | 67 | 57 | 10 |
+| Speak_with_Animals.md | 84 | 74 | 10 |
+| Speak_with_Animals_(Cleric).md | 44 | 34 | 10 |
+| Speak_with_Dead.md | 79 | 69 | 10 |
+| Spear_Thrust.md | 47 | 37 | 10 |
+| Special_colon_NewFiles.md | 317 | 307 | 10 |
+| Silvered_Bulwark.md | 44 | 34 | 10 |
+| Telekinesis.md | 83 | 73 | 10 |
+| Telekinetic_Thrust.md | 52 | 42 | 10 |
+| Teleport_to_Submersible.md | 35 | 25 | 10 |
+| Tempestuous_Magic_colon__Flight.md | 43 | 33 | 10 |
 | Sneak_Attack_(Melee).md | 66 | 56 | 10 |
 | Sneak_Attack_(Ranged).md | 61 | 51 | 10 |
 | Sobering_Realisation.md | 45 | 35 | 10 |
 | Soil-Clogged_Slam.md | 73 | 63 | 10 |
 | Song_of_Rest.md | 44 | 34 | 10 |
-| Stormheart_Nova.md | 68 | 58 | 10 |
-| Strength_Drain.md | 48 | 38 | 10 |
-| Strength_in_Numbers.md | 36 | 26 | 10 |
-| Strengthened_Force_Tunnel.md | 61 | 51 | 10 |
-| Strengthened_Shillelagh.md | 46 | 36 | 10 |
-| Strike_of_the_Guardian.md | 38 | 28 | 10 |
-| Telekinesis.md | 83 | 73 | 10 |
-| Telekinetic_Thrust.md | 52 | 42 | 10 |
-| Teleport_to_Submersible.md | 35 | 25 | 10 |
-| Tempestuous_Magic_colon__Flight.md | 43 | 33 | 10 |
 | Sudden_Rush.md | 44 | 34 | 10 |
 | Summon_Companion.md | 63 | 53 | 10 |
 | Summon_Gilded_Hellsboar.md | 51 | 41 | 10 |
 | Summon_Quothe_the_Raven.md | 68 | 58 | 10 |
 | Summon_coin_halberd.md | 54 | 44 | 10 |
 | Sunbeam.md | 99 | 89 | 10 |
+| Guiding_Bolt.md | 71 | 61 | 10 |
 | Slow.md | 88 | 78 | 10 |
 | Smouldering_Touch.md | 76 | 66 | 10 |
 | Slam_(Grym).md | 65 | 55 | 10 |
@@ -4229,12 +4166,21 @@
 | Slay.md | 73 | 63 | 10 |
 | Sleep.md | 70 | 60 | 10 |
 | Sleet_Storm.md | 83 | 73 | 10 |
-| Silvered_Bulwark.md | 44 | 34 | 10 |
+| Raging_Vortex.md | 66 | 56 | 10 |
+| Stormheart_Nova.md | 68 | 58 | 10 |
+| Strength_Drain.md | 48 | 38 | 10 |
+| Strength_in_Numbers.md | 36 | 26 | 10 |
+| Strengthened_Force_Tunnel.md | 61 | 51 | 10 |
+| Strengthened_Shillelagh.md | 46 | 36 | 10 |
+| Strike_of_the_Guardian.md | 38 | 28 | 10 |
 | Stunning_Strike_(Melee).md | 66 | 56 | 10 |
 | Stunning_Strike_(Unarmed).md | 67 | 57 | 10 |
 | Sweeping_Attack.md | 52 | 42 | 10 |
 | Sweeping_Cinder_Strike.md | 46 | 36 | 10 |
 | The_Librarian.md | 22 | 12 | 10 |
+| Topple.md | 58 | 48 | 10 |
+| Topple_the_Big_Folk.md | 58 | 48 | 10 |
+| Touch_of_the_Storm.md | 58 | 48 | 10 |
 | Terminate_Bulwark_Protocol.md | 24 | 14 | 10 |
 | Terrifying_Howl.md | 45 | 35 | 10 |
 | Terrifying_Visage.md | 50 | 40 | 10 |
@@ -4242,23 +4188,25 @@
 | Terror_Trepan.md | 51 | 41 | 10 |
 | Thaumaturgy.md | 64 | 54 | 10 |
 | The_Absolute's_Will.md | 37 | 27 | 10 |
-| Raging_Vortex.md | 66 | 56 | 10 |
-| Topple.md | 58 | 48 | 10 |
-| Topple_the_Big_Folk.md | 58 | 48 | 10 |
-| Touch_of_the_Storm.md | 58 | 48 | 10 |
-| The_Watch.md | 52 | 42 | 10 |
-| The_Watch_(class_action).md | 52 | 42 | 10 |
 | Tusk_Attack_(Gilded_Hellsboar).md | 38 | 28 | 10 |
 | Twilit_Shroud.md | 42 | 32 | 10 |
 | Tyr's_Protection.md | 51 | 41 | 10 |
 | Tyrant's_Bindings.md | 57 | 47 | 10 |
+| Supernatural_Attraction.md | 30 | 20 | 10 |
+| Supreme_Sneak.md | 51 | 41 | 10 |
+| Survival_Instinct.md | 49 | 39 | 10 |
+| The_Watch.md | 52 | 42 | 10 |
+| The_Watch_(class_action).md | 52 | 42 | 10 |
+| Talk_to_the_Sentient_Amulet.md | 26 | 16 | 10 |
+| Sacred_Flame.md | 61 | 51 | 10 |
+| Sacred_Munitions.md | 64 | 54 | 10 |
+| Tiny_Claws.md | 38 | 28 | 10 |
+| Toll_the_Dead.md | 72 | 62 | 10 |
 | Shell_of_Resistance.md | 43 | 33 | 10 |
 | Shield_Shove.md | 44 | 34 | 10 |
 | Shield_of_Devotion_colon__Aid.md | 55 | 45 | 10 |
 | Shield_of_Faith.md | 74 | 64 | 10 |
 | Shield_of_Screams.md | 54 | 44 | 10 |
-| Tiny_Claws.md | 38 | 28 | 10 |
-| Toll_the_Dead.md | 72 | 62 | 10 |
 | Third_Eye_colon__See_Invisibility.md | 46 | 36 | 10 |
 | This_Won't_Hurt_A_Bit.md | 50 | 40 | 10 |
 | Thorn_Whip.md | 71 | 61 | 10 |
@@ -4271,19 +4219,7 @@
 | Rend_Vision_(Dire_Raven).md | 62 | 52 | 10 |
 | Rend_Vision_(Murderous_Crow).md | 52 | 42 | 10 |
 | Rend_Vision_(Raven_Familiar).md | 53 | 43 | 10 |
-| Talk_to_the_Sentient_Amulet.md | 26 | 16 | 10 |
-| Supernatural_Attraction.md | 30 | 20 | 10 |
-| Supreme_Sneak.md | 51 | 41 | 10 |
-| Survival_Instinct.md | 49 | 39 | 10 |
 | Trephination.md | 58 | 48 | 10 |
-| Sorrowful_Lash.md | 46 | 36 | 10 |
-| Soul_Ascension.md | 71 | 61 | 10 |
-| Soul_Branding.md | 53 | 43 | 10 |
-| Soul_Drain.md | 43 | 33 | 10 |
-| Soul_Offering.md | 46 | 36 | 10 |
-| Soul_Snare_colon__Heal.md | 43 | 33 | 10 |
-| Veil_of_the_Weird.md | 55 | 45 | 10 |
-| Vengeful_Strike.md | 48 | 38 | 10 |
 | Sizzling_Cataclysm.md | 69 | 59 | 10 |
 | Slam_(Animate_Dead_Zombie).md | 50 | 40 | 10 |
 | Slam_(Ansur).md | 55 | 45 | 10 |
@@ -4292,8 +4228,14 @@
 | Slam_(Doppelganger).md | 38 | 28 | 10 |
 | Slam_(Grease_Elemental).md | 67 | 57 | 10 |
 | Slam_(Greater_Zombie).md | 40 | 30 | 10 |
-| Sacred_Flame.md | 61 | 51 | 10 |
-| Sacred_Munitions.md | 64 | 54 | 10 |
+| Veil_of_the_Weird.md | 55 | 45 | 10 |
+| Vengeful_Strike.md | 48 | 38 | 10 |
+| Sorrowful_Lash.md | 46 | 36 | 10 |
+| Soul_Ascension.md | 71 | 61 | 10 |
+| Soul_Branding.md | 53 | 43 | 10 |
+| Soul_Drain.md | 43 | 33 | 10 |
+| Soul_Offering.md | 46 | 36 | 10 |
+| Soul_Snare_colon__Heal.md | 43 | 33 | 10 |
 | Versatile_Sneak_Attack_(Melee).md | 45 | 35 | 10 |
 | Vicious_Mockery.md | 78 | 68 | 10 |
 | Vicious_Mockery_(Auntie_Ethel).md | 50 | 40 | 10 |
@@ -4303,25 +4245,6 @@
 | Vampiric_Touch.md | 83 | 73 | 10 |
 | Volley.md | 68 | 58 | 10 |
 | Wail_of_Loss_(Assistant).md | 57 | 47 | 10 |
-| Talons.md | 36 | 26 | 10 |
-| Targeting_Protocol_colon__Hellfire_Missiles.md | 44 | 34 | 10 |
-| Tasha's_Hideous_Laughter.md | 77 | 67 | 10 |
-| Unnerving_Screech.md | 50 | 40 | 10 |
-| Withering_Gift.md | 44 | 34 | 10 |
-| Withering_Theft.md | 53 | 43 | 10 |
-| Withering_Touch.md | 40 | 30 | 10 |
-| Woad's_Ensnaring_Strike.md | 60 | 50 | 10 |
-| Wolf.md | 58 | 48 | 10 |
-| Sword_of_the_Silverlight.md | 64 | 54 | 10 |
-| Synaptic_Consumption.md | 62 | 52 | 10 |
-| Synaptic_Discharge.md | 42 | 32 | 10 |
-| Synaptic_Discharge_(Us).md | 39 | 29 | 10 |
-| Wall_of_Fire.md | 109 | 99 | 10 |
-| Wall_of_Ice.md | 84 | 74 | 10 |
-| Wall_of_Stone.md | 49 | 39 | 10 |
-| Wall_of_Thorns.md | 90 | 80 | 10 |
-| Warden_of_Vitality.md | 55 | 45 | 10 |
-| Warding_Bond.md | 85 | 75 | 10 |
 | Trident_Thrust.md | 48 | 38 | 10 |
 | Trip_Attack_(Melee).md | 68 | 58 | 10 |
 | Trip_Attack_(Ranged).md | 72 | 62 | 10 |
@@ -4331,33 +4254,52 @@
 | Turn_the_Faithless.md | 55 | 45 | 10 |
 | Turn_the_Tide.md | 42 | 32 | 10 |
 | Turn_the_Unholy.md | 58 | 48 | 10 |
+| Unnerving_Screech.md | 50 | 40 | 10 |
+| Talons.md | 36 | 26 | 10 |
+| Targeting_Protocol_colon__Hellfire_Missiles.md | 44 | 34 | 10 |
+| Tasha's_Hideous_Laughter.md | 77 | 67 | 10 |
+| Withering_Gift.md | 44 | 34 | 10 |
+| Withering_Theft.md | 53 | 43 | 10 |
+| Withering_Touch.md | 40 | 30 | 10 |
+| Woad's_Ensnaring_Strike.md | 60 | 50 | 10 |
+| Wolf.md | 58 | 48 | 10 |
 | Watchful_Hunt.md | 50 | 40 | 10 |
 | Water_Whip_colon__Knock_Prone.md | 68 | 58 | 10 |
 | Water_Whip_colon__Pull.md | 56 | 46 | 10 |
-| Thunderous_Smite.md | 82 | 72 | 10 |
-| Thunderwave.md | 90 | 80 | 10 |
-| Tiger's_Bloodlust.md | 59 | 49 | 10 |
-| Static_Overdrive.md | 84 | 74 | 10 |
-| Steadfast_Strike.md | 45 | 35 | 10 |
+| Wall_of_Fire.md | 109 | 99 | 10 |
+| Wall_of_Ice.md | 84 | 74 | 10 |
+| Wall_of_Stone.md | 49 | 39 | 10 |
+| Wall_of_Thorns.md | 90 | 80 | 10 |
+| Warden_of_Vitality.md | 55 | 45 | 10 |
+| Warding_Bond.md | 85 | 75 | 10 |
+| Sword_of_the_Silverlight.md | 64 | 54 | 10 |
+| Synaptic_Consumption.md | 62 | 52 | 10 |
+| Synaptic_Discharge.md | 42 | 32 | 10 |
+| Synaptic_Discharge_(Us).md | 39 | 29 | 10 |
 | Whirlwind_Attack.md | 80 | 70 | 10 |
 | Whirlwind_Attack_(Weapon_Action).md | 47 | 37 | 10 |
 | Whistle.md | 74 | 64 | 10 |
 | Whossa_Large_Fellow_q_.md | 54 | 44 | 10 |
+| Static_Overdrive.md | 84 | 74 | 10 |
+| Steadfast_Strike.md | 45 | 35 | 10 |
+| Thunderous_Smite.md | 82 | 72 | 10 |
+| Thunderwave.md | 90 | 80 | 10 |
+| Tiger's_Bloodlust.md | 59 | 49 | 10 |
 | Zephyr_Break.md | 55 | 45 | 10 |
 | Zephyr_Break_(Weapon_Action).md | 55 | 45 | 10 |
-| The_Closed_Fist_of_Bane.md | 44 | 34 | 10 |
 | Spell_Slot_Restoration.md | 51 | 41 | 10 |
 | Sphere_of_Elemental_Balance.md | 53 | 43 | 10 |
 | Sphere_of_Elemental_Balance_colon__Acid.md | 60 | 50 | 10 |
 | Sphere_of_Elemental_Balance_colon__Cold.md | 71 | 61 | 10 |
 | Sphere_of_Elemental_Balance_colon__Fire.md | 65 | 55 | 10 |
 | Sphere_of_Elemental_Balance_colon__Thunder.md | 45 | 35 | 10 |
-| Wind_Walk.md | 75 | 65 | 10 |
-| Witch_Bolt.md | 87 | 77 | 10 |
+| The_Closed_Fist_of_Bane.md | 44 | 34 | 10 |
 | Tentacle_Lash.md | 36 | 26 | 10 |
 | Tentacle_Whip_(Displacer_Beast).md | 40 | 30 | 10 |
 | Tentacle_Whip_(Full-illithid).md | 57 | 47 | 10 |
 | Tentacle_Whip_(Mind_Flayer).md | 52 | 42 | 10 |
+| Wind_Walk.md | 75 | 65 | 10 |
+| Witch_Bolt.md | 87 | 77 | 10 |
 | Zephyr_Flash.md | 56 | 46 | 10 |
 | Zephyr_Flash_(Weapon_Action).md | 56 | 46 | 10 |
 | Wounding_Ray.md | 43 | 33 | 10 |
@@ -4367,6 +4309,7 @@
 | Weakening_Strike.md | 57 | 47 | 10 |
 | Web.md | 102 | 92 | 10 |
 | Dawnburst_Strike.md | 62 | 53 | 9 |
+| Funglesby.md | 425 | 416 | 9 |
 | Hush_You!_(Weapon_Action).md | 57 | 48 | 9 |
 | Pale_Pink_Dye.md | 36 | 27 | 9 |
 | Modding_colon_Texture_formatting.md | 217 | 208 | 9 |
@@ -4380,20 +4323,20 @@
 | Church_of_Gond.md | 115 | 107 | 8 |
 | Deep_Umbral_Tremor.md | 20 | 12 | 8 |
 | Goading_Roar.md | 41 | 33 | 8 |
+| Dice_roll.md | 560 | 568 | 8 |
 | Gond.md | 115 | 107 | 8 |
 | Gondian.md | 115 | 107 | 8 |
 | Gondians.md | 115 | 107 | 8 |
-| Dice_roll.md | 560 | 568 | 8 |
 | Hybrid_DC.md | 560 | 568 | 8 |
 | Infernal_Resistance.md | 41 | 33 | 8 |
 | Mental_Instruction.md | 42 | 34 | 8 |
-| Guide_colon_She_Cannot_Be_Caged!.md | 36 | 28 | 8 |
-| Guided_Strike.md | 31 | 23 | 8 |
 | DC.md | 560 | 568 | 8 |
 | Rogue_set.md | 12 | 20 | 8 |
 | Modding_colon_Head_Troubleshooting.md | 163 | 171 | 8 |
 | Modding_colon_TreasureTables_References.md | 93 | 101 | 8 |
 | Modding_colon_VertexColorMaskSlots.md | 83 | 91 | 8 |
+| Guide_colon_She_Cannot_Be_Caged!.md | 36 | 28 | 8 |
+| Guided_Strike.md | 31 | 23 | 8 |
 | Umbral_Tremor.md | 20 | 12 | 8 |
 | List_of_magic_items_in_Act_Three.md | 1150 | 1142 | 8 |
 | Booze_Tub.md | 79 | 72 | 7 |
@@ -4401,8 +4344,9 @@
 | Emerald_Ring.md | 40 | 47 | 7 |
 | Encyclopaedia_Apotheca,_by_Sandre_Toliar.md | 46 | 39 | 7 |
 | Jet_and_Pink_Rose_Dye.md | 36 | 29 | 7 |
-| Help_colon_Style_manual.md | 1220 | 1213 | 7 |
+| Lady_Durinbold's_Attendant.md | 357 | 350 | 7 |
 | Lathander.md | 105 | 98 | 7 |
+| Help_colon_Style_manual.md | 1220 | 1213 | 7 |
 | Garlow's_Retirement_Plan.md | 56 | 49 | 7 |
 | Light_Blue_Dye.md | 32 | 25 | 7 |
 | Ruined_Battlefield.md | 473 | 466 | 7 |
@@ -4419,7 +4363,6 @@
 | Black_Hand_Strike.md | 32 | 26 | 6 |
 | Bladesong.md | 87 | 81 | 6 |
 | Brain_Jar.md | 33 | 27 | 6 |
-| Barrelstalk.md | 42 | 36 | 6 |
 | Astral_Knowledge_colon__Dexterity.md | 42 | 36 | 6 |
 | Astral_Knowledge_colon__Intelligence.md | 42 | 36 | 6 |
 | Astral_Knowledge_colon__Strength.md | 42 | 36 | 6 |
@@ -4428,6 +4371,7 @@
 | Bibberbang.md | 69 | 63 | 6 |
 | Bind_Hexed_Weapon.md | 46 | 40 | 6 |
 | Bind_Pact_Weapon.md | 43 | 37 | 6 |
+| Barrelstalk.md | 42 | 36 | 6 |
 | Aura_of_Courage.md | 36 | 30 | 6 |
 | Aura_of_Devotion.md | 36 | 30 | 6 |
 | Aura_of_Hate.md | 42 | 36 | 6 |
@@ -4436,23 +4380,23 @@
 | Aura_of_Protection.md | 41 | 35 | 6 |
 | Aura_of_Terror.md | 50 | 44 | 6 |
 | Aura_of_Warding.md | 41 | 35 | 6 |
+| Archer's_Eye.md | 39 | 33 | 6 |
+| Action_Surge.md | 46 | 40 | 6 |
 | Blazing_Retaliation.md | 47 | 41 | 6 |
 | Caitiff's_Restoration.md | 33 | 27 | 6 |
-| Action_Surge.md | 46 | 40 | 6 |
-| Archer's_Eye.md | 39 | 33 | 6 |
-| Chilling_Overflow.md | 60 | 54 | 6 |
 | Burning_Overflow.md | 58 | 52 | 6 |
 | Burrow_(Badger).md | 48 | 42 | 6 |
+| Chilling_Overflow.md | 60 | 54 | 6 |
 | Aberrant_Shape.md | 55 | 49 | 6 |
 | Bolstering_Overflow.md | 47 | 41 | 6 |
 | Ancient_Grudges.md | 39 | 33 | 6 |
 | Corrosive_Spit.md | 76 | 70 | 6 |
 | Cosmic_Omen_colon__Ability_Check.md | 42 | 36 | 6 |
 | Dark_Deliverance.md | 60 | 54 | 6 |
+| Alarm_Machine.md | 42 | 36 | 6 |
+| Dismiss_Displacer_Beast_Shape.md | 27 | 21 | 6 |
 | Cerebral_Aquarium.md | 24 | 18 | 6 |
 | Champion_Challenge.md | 41 | 35 | 6 |
-| Dismiss_Displacer_Beast_Shape.md | 27 | 21 | 6 |
-| Alarm_Machine.md | 42 | 36 | 6 |
 | Caustic_Overflow.md | 55 | 49 | 6 |
 | Displace_(Displacer_Beast).md | 52 | 46 | 6 |
 | Displacer_Beast_Shape.md | 79 | 73 | 6 |
@@ -4468,20 +4412,17 @@
 | Charm_Animals_and_Plants.md | 49 | 43 | 6 |
 | Debilitating_Infusion.md | 38 | 32 | 6 |
 | Control_Undead.md | 58 | 52 | 6 |
-| Extraplanar_Summons.md | 46 | 40 | 6 |
 | Elemental_Cleaver_(acid).md | 45 | 39 | 6 |
 | Elemental_Cleaver_(cold).md | 45 | 39 | 6 |
 | Elemental_Cleaver_(fire).md | 45 | 39 | 6 |
 | Elemental_Cleaver_(lightning).md | 45 | 39 | 6 |
 | Elemental_Cleaver_(thunder).md | 45 | 39 | 6 |
+| Extraplanar_Summons.md | 46 | 40 | 6 |
 | Evasive_Footwork.md | 52 | 46 | 6 |
-| Endless_Rage.md | 45 | 39 | 6 |
 | Cloud_of_Jellyfish_colon__Mighty_Teleport.md | 36 | 30 | 6 |
 | Cloud_of_Jellyfish_colon__Shocking_Sting.md | 46 | 40 | 6 |
 | Cloud_of_Jellyfish_colon__Teleport.md | 31 | 25 | 6 |
-| Goading_Blast.md | 44 | 38 | 6 |
-| Frenzied_Fury.md | 40 | 34 | 6 |
-| Frenzy.md | 69 | 63 | 6 |
+| Endless_Rage.md | 45 | 39 | 6 |
 | Fiendish_Resilience_colon__Acid.md | 46 | 40 | 6 |
 | Fiendish_Resilience_colon__Bludgeoning.md | 46 | 40 | 6 |
 | Fiendish_Resilience_colon__Cold.md | 46 | 40 | 6 |
@@ -4495,6 +4436,9 @@
 | Fiendish_Resilience_colon__Radiant.md | 46 | 40 | 6 |
 | Fiendish_Resilience_colon__Slashing.md | 46 | 40 | 6 |
 | Fiendish_Resilience_colon__Thunder.md | 46 | 40 | 6 |
+| Goading_Blast.md | 44 | 38 | 6 |
+| Frenzied_Fury.md | 40 | 34 | 6 |
+| Frenzy.md | 69 | 63 | 6 |
 | Giant_Killer.md | 40 | 34 | 6 |
 | Grenade_Impeller.md | 18 | 12 | 6 |
 | Hellrider_Platoon.md | 104 | 98 | 6 |
@@ -4511,12 +4455,12 @@
 | Legion_of_Bees_colon__Mighty_Teleport.md | 36 | 30 | 6 |
 | Legion_of_Bees_colon__Teleport.md | 32 | 26 | 6 |
 | Inquisitor's_Might.md | 44 | 38 | 6 |
-| Healing_Vapours.md | 61 | 55 | 6 |
 | Kushigo_Counter.md | 40 | 34 | 6 |
+| Healing_Vapours.md | 61 | 55 | 6 |
 | Micromodron_Force_Curtain.md | 20 | 14 | 6 |
+| Mind_Flayer_Reinforcements.md | 20 | 14 | 6 |
 | Lucky_colon__Reroll_Attacker's_Die.md | 32 | 26 | 6 |
 | Lucky_colon__Reroll_with_Advantage.md | 31 | 25 | 6 |
-| Mind_Flayer_Reinforcements.md | 20 | 14 | 6 |
 | Menacing_Howl.md | 38 | 32 | 6 |
 | Mental_Mark.md | 49 | 43 | 6 |
 | Muck_to_Metal.md | 39 | 33 | 6 |
@@ -4531,52 +4475,50 @@
 | Paralysing_Critical.md | 39 | 33 | 6 |
 | Part_of_the_Flock.md | 29 | 35 | 6 |
 | Martial_Exertion.md | 47 | 41 | 6 |
-| Guide_colon_Summoning.md | 201 | 195 | 6 |
 | Pillar_of_Souls.md | 42 | 36 | 6 |
-| Nightlight.md | 37 | 31 | 6 |
 | Pearlescent_Restoration_Level_1.md | 37 | 31 | 6 |
 | Pearlescent_Restoration_Level_2.md | 37 | 31 | 6 |
 | Pearlescent_Restoration_Level_3.md | 37 | 31 | 6 |
-| Nautiloid_Airstrike.md | 31 | 25 | 6 |
+| Nightlight.md | 37 | 31 | 6 |
 | Psionic_Backlash.md | 39 | 33 | 6 |
 | Psionic_Overload.md | 57 | 51 | 6 |
+| Nautiloid_Airstrike.md | 31 | 25 | 6 |
+| Quake.md | 59 | 53 | 6 |
+| Radiance_of_the_Dawn.md | 40 | 34 | 6 |
 | Preserve_Life.md | 42 | 36 | 6 |
 | Profane_Womb.md | 28 | 22 | 6 |
 | Ravaged_Beach.md | 237 | 231 | 6 |
 | Red_Dye.md | 30 | 24 | 6 |
 | Regain_Hit_Points.md | 20 | 14 | 6 |
-| Quake.md | 59 | 53 | 6 |
-| Radiance_of_the_Dawn.md | 40 | 34 | 6 |
-| Scare.md | 40 | 34 | 6 |
 | Power_Word_Kill.md | 49 | 43 | 6 |
 | Power_Word_colon__Ruin.md | 37 | 31 | 6 |
 | Repulsion_Mine.md | 16 | 10 | 6 |
-| Shadow_Crossing.md | 24 | 18 | 6 |
-| Roadside_Cliffs.md | 237 | 231 | 6 |
-| Self_Immolation.md | 44 | 38 | 6 |
 | Magic_Allergy_colon__Chaotic_Offence.md | 49 | 43 | 6 |
 | Magic_Allergy_colon__Force_explosion.md | 41 | 35 | 6 |
 | Magic_Allergy_colon__Gremishka_Spawn.md | 43 | 37 | 6 |
 | Magic_Allergy_colon__Ice_Bloom.md | 63 | 57 | 6 |
 | Magic_Allergy_colon__Panther_Polymorph.md | 48 | 42 | 6 |
 | Magic_Awareness.md | 48 | 42 | 6 |
-| Shocking_Overflow.md | 55 | 49 | 6 |
+| Scare.md | 40 | 34 | 6 |
+| Roadside_Cliffs.md | 237 | 231 | 6 |
+| Shadow_Crossing.md | 24 | 18 | 6 |
+| Self_Immolation.md | 44 | 38 | 6 |
 | Seal_Wounds.md | 47 | 41 | 6 |
 | Second_Chance.md | 29 | 23 | 6 |
 | Second_Marriage_(class_action).md | 45 | 39 | 6 |
 | Second_Wind.md | 36 | 30 | 6 |
 | Seeker_Matrix.md | 48 | 42 | 6 |
-| Spectral_Aspect.md | 51 | 45 | 6 |
+| Shocking_Overflow.md | 55 | 49 | 6 |
+| Savage_Howl.md | 42 | 36 | 6 |
 | Standing_Torch.md | 52 | 46 | 6 |
 | Sprint.md | 37 | 31 | 6 |
-| Stillness_of_Mind.md | 40 | 34 | 6 |
 | Spider_Silk_Cocoon.md | 31 | 25 | 6 |
-| Savage_Howl.md | 42 | 36 | 6 |
-| Summon_Eternal_Debtor.md | 49 | 43 | 6 |
-| Slayer_(class_action).md | 75 | 69 | 6 |
+| Stillness_of_Mind.md | 40 | 34 | 6 |
+| Spectral_Aspect.md | 51 | 45 | 6 |
 | Sinister_Howl.md | 45 | 39 | 6 |
-| Stuffed_Bear_(Big).md | 30 | 24 | 6 |
-| Sublimation.md | 43 | 37 | 6 |
+| Summon_Eternal_Debtor.md | 49 | 43 | 6 |
+| Guide_colon_Summoning.md | 201 | 195 | 6 |
+| Slayer_(class_action).md | 75 | 69 | 6 |
 | Rage.md | 84 | 78 | 6 |
 | Rage_(Boar).md | 63 | 57 | 6 |
 | Rage_colon__Bear_Heart.md | 75 | 69 | 6 |
@@ -4585,13 +4527,15 @@
 | Rage_colon__Tiger_Heart.md | 70 | 64 | 6 |
 | Rage_colon__Wild_Magic.md | 67 | 61 | 6 |
 | Rage_colon__Wolf_Heart.md | 76 | 70 | 6 |
+| Stuffed_Bear_(Big).md | 30 | 24 | 6 |
+| Sublimation.md | 43 | 37 | 6 |
 | Torchstalk.md | 44 | 38 | 6 |
 | Toss_a_Coin.md | 41 | 35 | 6 |
 | Tusk_Attack_(Lesser_Hellsboar).md | 34 | 28 | 6 |
+| Sacred_Weapon.md | 39 | 33 | 6 |
 | Third_Eye_colon__Darkvision.md | 39 | 33 | 6 |
 | Soul_Catching_Boon.md | 38 | 32 | 6 |
 | Soul_Catching_Prowess.md | 37 | 31 | 6 |
-| Sacred_Weapon.md | 39 | 33 | 6 |
 | Umberlee's_Praise.md | 51 | 45 | 6 |
 | Wild_Magic_colon__Action_Surge.md | 30 | 24 | 6 |
 | Wild_Magic_colon__Blur.md | 35 | 29 | 6 |
@@ -4617,12 +4561,12 @@
 | Wild_Magic_colon__Spike_Growth.md | 49 | 43 | 6 |
 | Wild_Magic_colon__Summon_Mephit.md | 77 | 71 | 6 |
 | Symbiotic_Entity.md | 60 | 54 | 6 |
+| Transfuse_Health.md | 45 | 39 | 6 |
 | Tides_of_Chaos.md | 51 | 45 | 6 |
 | Tides_of_Chaos_Charge.md | 51 | 45 | 6 |
 | Time-sensitive_activities.md | 281 | 275 | 6 |
 | Time-sensitive_activity.md | 281 | 275 | 6 |
 | Timmask.md | 60 | 54 | 6 |
-| Transfuse_Health.md | 45 | 39 | 6 |
 | Tenacity.md | 50 | 44 | 6 |
 | Tenacity_(Weapon_Action).md | 50 | 44 | 6 |
 | Wild_Magic_colon__Swap.md | 35 | 29 | 6 |
@@ -4647,13 +4591,13 @@
 | Explorer.md | 272 | 267 | 5 |
 | Honor.md | 272 | 267 | 5 |
 | Modding_colon_Creating_meta.lsx.md | 231 | 236 | 5 |
-| Moonhaven.md | 323 | 318 | 5 |
 | Portent.md | 67 | 62 | 5 |
-| Guest_Book.md | 54 | 59 | 5 |
 | Orange_Dye.md | 28 | 23 | 5 |
+| Moonhaven.md | 323 | 318 | 5 |
 | Punish_the_Wicked.md | 103 | 98 | 5 |
 | Rosanna's_Key.md | 22 | 27 | 5 |
 | Ranger_set.md | 9 | 14 | 5 |
+| Guest_Book.md | 54 | 59 | 5 |
 | Sublimate_of_Belladonna.md | 24 | 19 | 5 |
 | Sublimate_of_Ki-Rin_Hair.md | 24 | 19 | 5 |
 | The_Path_to_Elminster.md | 40 | 35 | 5 |
@@ -4669,9 +4613,9 @@
 | Confront_the_Elder_Brain.md | 314 | 310 | 4 |
 | Chapel_Entrance.md | 233 | 229 | 4 |
 | Elixir_of_Health.md | 41 | 37 | 4 |
-| Gold_Chalice.md | 34 | 30 | 4 |
 | Cup_of_Water.md | 38 | 34 | 4 |
 | Difficulty.md | 272 | 268 | 4 |
+| Gold_Chalice.md | 34 | 30 | 4 |
 | Honour.md | 272 | 268 | 4 |
 | Honour_Mode.md | 272 | 268 | 4 |
 | Jergal.md | 134 | 130 | 4 |
@@ -4683,10 +4627,10 @@
 | Ogres.md | 55 | 51 | 4 |
 | Custom_mode.md | 272 | 268 | 4 |
 | Redcap.md | 69 | 65 | 4 |
-| Theskan_Anthology_of_Goblin_Poetry.md | 72 | 68 | 4 |
 | Tymora,_Lady_Luck.md | 34 | 30 | 4 |
-| Tactician.md | 272 | 268 | 4 |
+| Theskan_Anthology_of_Goblin_Poetry.md | 72 | 68 | 4 |
 | War_Domain.md | 87 | 91 | 4 |
+| Tactician.md | 272 | 268 | 4 |
 | Steel_Watcher.md | 107 | 103 | 4 |
 | Steel_watch.md | 107 | 103 | 4 |
 | Spider.md | 89 | 85 | 4 |
@@ -4694,14 +4638,13 @@
 | Attached_Followers.md | 385 | 388 | 3 |
 | Category_colon_D&D_PnP_Ruleset_Changes.md | 6 | 9 | 3 |
 | Bloody_Favour_(Condition).md | 27 | 30 | 3 |
+| Confessions,_Vol._1,_Father_Lorgan.md | 30 | 33 | 3 |
 | Allandra's_Whelm.md | 57 | 60 | 3 |
 | Category_colon_Pages_using_the_JsonConfig_extension.md | 6 | 9 | 3 |
-| Confessions,_Vol._1,_Father_Lorgan.md | 30 | 33 | 3 |
 | Circle_of_the_Spores.md | 75 | 78 | 3 |
 | Draft_Letter_to_Lord_Whitburn.md | 36 | 39 | 3 |
 | Cloister_Budget.md | 36 | 39 | 3 |
 | Creche_Y'llek.md | 382 | 379 | 3 |
-| Duergar_Poison_(Condition).md | 44 | 47 | 3 |
 | File_colon_A-All's_Well_That_Ends_Well.jpg.md | 4 | 7 | 3 |
 | File_colon_A-Devil's_in_the_Details.jpg.md | 4 | 7 | 3 |
 | File_colon_A-Forged_in_Blood_and_Fire.jpg.md | 4 | 7 | 3 |
@@ -4709,6 +4652,7 @@
 | File_colon_A-Kill_Two_Birds_With_One_Gnome.jpg.md | 4 | 7 | 3 |
 | File_colon_A-Leave_No_One_Behind.jpg.md | 4 | 7 | 3 |
 | File_colon_A-Murder_in_Baldur's_Gate.jpg.md | 4 | 7 | 3 |
+| Duergar_Poison_(Condition).md | 44 | 47 | 3 |
 | File_colon_A-Rude,_Crude,_and_Full_of_Attitude.jpg.md | 4 | 7 | 3 |
 | File_colon_A-She_Cannot_Be_Caged!.jpg.md | 4 | 7 | 3 |
 | File_colon_A-Sins_of_the_Father.jpg.md | 4 | 7 | 3 |
@@ -4741,52 +4685,52 @@
 | Moxy's_Mixology_Manual.md | 30 | 33 | 3 |
 | Oath_of_Vengeance.md | 176 | 179 | 3 |
 | Music_Box.md | 37 | 34 | 3 |
-| Guide_colon_Patch_8_preview.md | 880 | 883 | 3 |
-| Pitchfork.md | 35 | 38 | 3 |
-| No_More_Social_Calls.md | 26 | 29 | 3 |
 | Modding_colon_Creating_Armor_Mods.md | 95 | 98 | 3 |
 | Modding_colon_Face_and_body_textures.md | 196 | 199 | 3 |
-| Moonrise_Towers_Prison.md | 268 | 271 | 3 |
+| Pitchfork.md | 35 | 38 | 3 |
 | Patch_8.md | 880 | 883 | 3 |
-| Guide_colon_Face_and_Body_Textures.md | 196 | 199 | 3 |
-| Guide_colon_Hair_Creation.md | 445 | 448 | 3 |
-| Guide_colon_Installing_Mods.md | 126 | 129 | 3 |
+| No_More_Social_Calls.md | 26 | 29 | 3 |
 | Order_251_colon__Tethyr.md | 32 | 35 | 3 |
+| Moonrise_Towers_Prison.md | 268 | 271 | 3 |
 | Recipe_of_Drow_Poison.md | 36 | 39 | 3 |
 | Putrid_Bog.md | 287 | 290 | 3 |
 | Modding_talk_colon_Working_with_LSX_files.md | 18 | 21 | 3 |
-| SG_Condition.md | 609 | 606 | 3 |
 | Personal_Note_(Gomwick).md | 36 | 39 | 3 |
+| SG_Condition.md | 609 | 606 | 3 |
 | Salts_of_Chasm_Creeper.md | 24 | 21 | 3 |
 | Sharrans.md | 8 | 11 | 3 |
-| Servant's_Quarters.md | 244 | 241 | 3 |
-| Servants'_Quarters.md | 244 | 241 | 3 |
+| Guide_colon_Face_and_Body_Textures.md | 196 | 199 | 3 |
+| Guide_colon_Hair_Creation.md | 445 | 448 | 3 |
+| Guide_colon_Installing_Mods.md | 126 | 129 | 3 |
+| Save_the_artist.md | 240 | 243 | 3 |
 | Stack_priority.md | 301 | 304 | 3 |
 | Stack_type.md | 301 | 304 | 3 |
-| Save_the_artist.md | 240 | 243 | 3 |
+| Servant's_Quarters.md | 244 | 241 | 3 |
+| Servants'_Quarters.md | 244 | 241 | 3 |
 | Template_colon_NavQuests.md | 15 | 18 | 3 |
 | Template_colon_Party_and_camp.md | 20 | 23 | 3 |
 | Template_colon_Weapons.md | 8 | 11 | 3 |
 | Sunlit_Wetlands.md | 287 | 290 | 3 |
+| Guide_colon_Patch_8_preview.md | 880 | 883 | 3 |
 | Sublimate_of_Eagle_Feathers.md | 24 | 21 | 3 |
 | Suspension_of_Spider_Silk.md | 28 | 25 | 3 |
-| Talk_colon_Proficiency.md | 22 | 25 | 3 |
 | Surveillance_Notes.md | 30 | 33 | 3 |
 | Suspension_of_Ochre_Jelly.md | 24 | 21 | 3 |
-| The_Five_Year_War_colon__A_Diplomat's_Record.md | 23 | 26 | 3 |
+| Talk_colon_Proficiency.md | 22 | 25 | 3 |
 | Vent.md | 33 | 30 | 3 |
 | Vampiric_Duality.md | 36 | 39 | 3 |
+| The_Five_Year_War_colon__A_Diplomat's_Record.md | 23 | 26 | 3 |
 | Volo's_Guide_to_Spirits_and_Spectres.md | 44 | 47 | 3 |
 | bg3wiki_colon_Impressum.md | 16 | 19 | 3 |
 | bg3wiki_talk_colon_Image_policy.md | 14 | 17 | 3 |
-| Tadpoling_Centre.md | 92 | 89 | 3 |
-| War_Map.md | 36 | 39 | 3 |
 | Wyrmway.md | 308 | 305 | 3 |
+| War_Map.md | 36 | 39 | 3 |
 | Vision_of_the_Absolute.md | 71 | 74 | 3 |
+| Tadpoling_Centre.md | 92 | 89 | 3 |
 | The_Book_of_Willing_Souls.md | 32 | 35 | 3 |
 | Temporary_companion.md | 385 | 388 | 3 |
-| Anonymous_letter_(Lady_Jannath's_Estate).md | 34 | 36 | 2 |
 | Benign_Transposition_colon__Spent_(Condition).md | 22 | 24 | 2 |
+| Anonymous_letter_(Lady_Jannath's_Estate).md | 34 | 36 | 2 |
 | Bear_Claw.md | 30 | 32 | 2 |
 | Beguiled_(Condition).md | 43 | 45 | 2 |
 | Behold_Protection's_Future_colon__The_Steel_Watch!.md | 32 | 30 | 2 |
@@ -4801,7 +4745,6 @@
 | Break_Yurgir's_Contract.md | 105 | 103 | 2 |
 | Boudoir_Invitation.md | 35 | 37 | 2 |
 | Bound_Weapon_(Condition).md | 30 | 32 | 2 |
-| Battered_Lute.md | 33 | 31 | 2 |
 | Astral_Knowledge_colon__Charisma_(Condition).md | 31 | 33 | 2 |
 | Astral_Knowledge_colon__Dexterity_(Condition).md | 31 | 33 | 2 |
 | Astral_Knowledge_colon__Intelligence_(Condition).md | 31 | 33 | 2 |
@@ -4809,31 +4752,30 @@
 | Astral_Knowledge_colon__Wisdom_(Condition).md | 31 | 33 | 2 |
 | Astral_Lethargy_(Condition).md | 26 | 28 | 2 |
 | Auntie_Ethel's_Hair.md | 45 | 43 | 2 |
+| Battered_Lute.md | 33 | 31 | 2 |
 | Avenge_the_Hag_Survivors.md | 121 | 119 | 2 |
-| Butterflies_in_the_Stomach.md | 38 | 36 | 2 |
-| Calmed_(Condition).md | 22 | 24 | 2 |
-| Acid_Resistance_(Condition).md | 170 | 172 | 2 |
 | Arcane_Lock_(Condition).md | 28 | 30 | 2 |
 | Arcane_Synergy_(Condition).md | 28 | 30 | 2 |
+| Acid_Resistance_(Condition).md | 170 | 172 | 2 |
 | Absolutist_Expedition_Key.md | 26 | 28 | 2 |
 | Absorbed_Essence_colon__Amelyssan_(Condition).md | 27 | 29 | 2 |
 | Bronze_Ring.md | 40 | 42 | 2 |
+| Butterflies_in_the_Stomach.md | 38 | 36 | 2 |
+| Calmed_(Condition).md | 22 | 24 | 2 |
 | Bookshop_Chest_Key.md | 26 | 28 | 2 |
+| Burst_of_Accuracy_(Condition).md | 22 | 24 | 2 |
 | Check.md | 578 | 576 | 2 |
 | Chest_of_the_Mundane.md | 35 | 37 | 2 |
-| Burst_of_Accuracy_(Condition).md | 22 | 24 | 2 |
 | Bone.md | 24 | 26 | 2 |
 | Bonespike_Gloves.md | 37 | 35 | 2 |
 | An_History_of_the_Society_of_Brilliance_as_Told_by_Its_Members.md | 28 | 26 | 2 |
 | Ancient_Grudges_(Condition).md | 24 | 26 | 2 |
-| Concentrating.md | 187 | 185 | 2 |
-| Concentration.md | 187 | 185 | 2 |
 | Counting_House_Safe_nº7_Key.md | 32 | 34 | 2 |
 | Dark_Amethyst.md | 28 | 30 | 2 |
-| Death_Ward_(Condition).md | 36 | 38 | 2 |
 | Aly's_Last_Wishes.md | 42 | 40 | 2 |
 | Amethyst.md | 28 | 30 | 2 |
 | An_Alternative_Perspective_colon__The_Weave.md | 28 | 30 | 2 |
+| Death_Ward_(Condition).md | 36 | 38 | 2 |
 | Alchemical_Extracts.md | 37 | 39 | 2 |
 | Category_colon_Wiki_maintenance.md | 6 | 4 | 2 |
 | Category_talk_colon_Gameplay_mechanics.md | 12 | 10 | 2 |
@@ -4842,93 +4784,97 @@
 | Dream_Mist_Apparitions_(Condition).md | 24 | 26 | 2 |
 | Click_Heels_(Condition).md | 28 | 30 | 2 |
 | Charming_Little_Egg.md | 24 | 26 | 2 |
+| Don't_Sniff_the_Specimen.md | 39 | 37 | 2 |
+| Electrocution_Immunity.md | 16 | 18 | 2 |
 | Diseased.md | 140 | 138 | 2 |
 | Diseased_(Condition_Type).md | 140 | 138 | 2 |
 | Diseased_(status_group).md | 140 | 138 | 2 |
 | Diseases.md | 140 | 138 | 2 |
-| Don't_Sniff_the_Specimen.md | 39 | 37 | 2 |
-| Electrocution_Immunity.md | 16 | 18 | 2 |
 | Constricting_(Condition).md | 22 | 24 | 2 |
 | 'The_Hanging'.md | 26 | 28 | 2 |
 | Engraved_Key_(Salazon).md | 22 | 20 | 2 |
-| File_colon_Monk_active_reactions.jpg.md | 6 | 4 | 2 |
-| Final_Delivery.md | 32 | 34 | 2 |
 | Elixir_of_See_Invisibility.md | 37 | 35 | 2 |
 | Elixirs.md | 139 | 137 | 2 |
 | Elminster_by_Cherish_Holdomen.md | 36 | 38 | 2 |
-| Engraved_Key.md | 26 | 28 | 2 |
+| File_colon_Monk_active_reactions.jpg.md | 6 | 4 | 2 |
+| Final_Delivery.md | 32 | 34 | 2 |
 | Clown_Face-Paint_(Condition).md | 22 | 24 | 2 |
 | Coating.md | 123 | 121 | 2 |
+| Engraved_Key.md | 26 | 28 | 2 |
 | Fire_Resistance_(Condition).md | 124 | 126 | 2 |
 | False_Heart_(Condition).md | 76 | 78 | 2 |
 | Flame-Feeble_(Condition).md | 22 | 24 | 2 |
+| Figaro's_Safe_Key.md | 26 | 28 | 2 |
+| Concentrating.md | 187 | 185 | 2 |
+| Concentration.md | 187 | 185 | 2 |
 | Faltering_Will.md | 38 | 36 | 2 |
 | Githyanki_Slate_(item).md | 36 | 38 | 2 |
-| Drow_Studded_Leather_Armour.md | 89 | 91 | 2 |
+| Gortash's_Key.md | 31 | 33 | 2 |
 | Elixir.md | 139 | 137 | 2 |
 | Elixir_of_Darkvision.md | 41 | 39 | 2 |
-| Figaro's_Safe_Key.md | 26 | 28 | 2 |
-| Gortash's_Key.md | 31 | 33 | 2 |
-| Fungal_Resistance_(Condition).md | 22 | 24 | 2 |
+| Drow_Studded_Leather_Armour.md | 89 | 91 | 2 |
 | Fleeting_Protection_(Condition).md | 24 | 26 | 2 |
+| Fungal_Resistance_(Condition).md | 22 | 24 | 2 |
 | Hag_hair.md | 45 | 43 | 2 |
 | Grimy_Report.md | 37 | 35 | 2 |
-| Gold_Pendant.md | 52 | 50 | 2 |
-| Grey_Harbour_Docks.md | 245 | 243 | 2 |
 | Diamond_Scales_(Condition).md | 36 | 38 | 2 |
-| Force_Resistance_(Condition).md | 124 | 126 | 2 |
+| Grey_Harbour_Docks.md | 245 | 243 | 2 |
+| Gold_Pendant.md | 52 | 50 | 2 |
 | Graveyard_(Lower_City).md | 205 | 203 | 2 |
 | Hunter's_Camouflage.md | 33 | 31 | 2 |
 | Herbalist's_Gloves.md | 36 | 34 | 2 |
 | Heroic_Portrait_of_Gortash.md | 31 | 33 | 2 |
+| Force_Resistance_(Condition).md | 124 | 126 | 2 |
 | Happy_(Condition).md | 23 | 25 | 2 |
 | Infernal_Iron.md | 67 | 69 | 2 |
 | Jump_(Condition).md | 38 | 40 | 2 |
 | Kobold.md | 60 | 58 | 2 |
-| Haste_Helm.md | 44 | 42 | 2 |
 | Legendary_Action_colon__Grasping_Appendage_(Condition).md | 24 | 26 | 2 |
 | Legendary_Action_colon__Sanguine_Lash_(Condition).md | 26 | 28 | 2 |
 | Legendary_Action_colon__Spectral_Aspect_(Condition).md | 28 | 30 | 2 |
 | Legendary_Action_colon__Torrential_Undeath_(Condition).md | 28 | 30 | 2 |
 | Legendary_Action_colon__Tyrannical_Branding_(Condition).md | 24 | 26 | 2 |
-| Jealous_Heart_(Condition).md | 36 | 38 | 2 |
+| Haste_Helm.md | 44 | 42 | 2 |
 | Letter_from_'The_Fulfilled_Heart'.md | 34 | 36 | 2 |
-| Legendary_Action_colon__Weird_Magic_Surge_(Condition).md | 24 | 26 | 2 |
-| Legendary_Action_colon__Wretched_Growth_(Condition).md | 39 | 41 | 2 |
-| Letter_from_'The_Apothecary'.md | 38 | 36 | 2 |
 | Letter_of_complaint.md | 30 | 28 | 2 |
 | Levitating_(Condition).md | 27 | 29 | 2 |
 | Liberated_Spellcasting_(Condition).md | 26 | 28 | 2 |
 | Lieges_of_the_Underdark_Blessing_(Condition).md | 33 | 35 | 2 |
-| Key_(Crèche_Cliffside_Entrance).md | 32 | 34 | 2 |
+| Jealous_Heart_(Condition).md | 36 | 38 | 2 |
+| Legendary_Action_colon__Weird_Magic_Surge_(Condition).md | 24 | 26 | 2 |
+| Legendary_Action_colon__Wretched_Growth_(Condition).md | 39 | 41 | 2 |
+| Letter_from_'The_Apothecary'.md | 38 | 36 | 2 |
 | Instinctive_Charm_colon__Unaffected_(Condition).md | 26 | 28 | 2 |
+| Key_(Crèche_Cliffside_Entrance).md | 32 | 34 | 2 |
 | Legendary_Action_colon__Bhaal's_Edict_(Condition).md | 24 | 26 | 2 |
 | Knowledge_of_the_Ages_colon__Charisma_(Condition).md | 42 | 44 | 2 |
 | Inquisitor.md | 13 | 11 | 2 |
+| Land's_Stride.md | 19 | 17 | 2 |
 | Lost_Time.md | 38 | 36 | 2 |
 | Love_Protects_(Condition).md | 34 | 36 | 2 |
-| Healer_colon__Healed_(Condition).md | 30 | 32 | 2 |
-| Hit_the_Lights_(Condition).md | 26 | 28 | 2 |
-| Land's_Stride.md | 19 | 17 | 2 |
-| Helmet.md | 43 | 45 | 2 |
-| Help_talk_colon_Editing_manual.md | 10 | 8 | 2 |
-| Help_the_Cursed_Monk.md | 183 | 181 | 2 |
-| Heat_Convergence_(Condition).md | 22 | 24 | 2 |
-| Lavender_Dye.md | 38 | 40 | 2 |
-| Iron-Banded_Shield_+1.md | 59 | 61 | 2 |
 | Damage_Roll.md | 152 | 150 | 2 |
 | Damaged_Journal.md | 37 | 35 | 2 |
 | Dancing_Lights_(Condition).md | 27 | 29 | 2 |
 | Dank_Crypt.md | 233 | 231 | 2 |
+| Healer_colon__Healed_(Condition).md | 30 | 32 | 2 |
+| Hit_the_Lights_(Condition).md | 26 | 28 | 2 |
+| Lavender_Dye.md | 38 | 40 | 2 |
 | Memory_Book.md | 34 | 36 | 2 |
 | Mental_Instruction_(Condition).md | 24 | 26 | 2 |
 | Mephit_Heart.md | 26 | 28 | 2 |
+| Iron-Banded_Shield_+1.md | 59 | 61 | 2 |
+| Isbeth.md | 254 | 256 | 2 |
+| Heat_Convergence_(Condition).md | 22 | 24 | 2 |
+| Helmet.md | 43 | 45 | 2 |
+| Help_talk_colon_Editing_manual.md | 10 | 8 | 2 |
+| Help_the_Cursed_Monk.md | 183 | 181 | 2 |
+| Note_from_Isobel.md | 34 | 36 | 2 |
 | Life_of_the_Party_(Condition).md | 22 | 24 | 2 |
 | Lightning_Blast_(Condition).md | 30 | 32 | 2 |
-| Note_from_Isobel.md | 34 | 36 | 2 |
+| Numbed_(Condition).md | 24 | 26 | 2 |
+| Morgan.md | 295 | 297 | 2 |
 | Mortuary's_Cellar.md | 205 | 203 | 2 |
 | Mortuary.md | 205 | 203 | 2 |
-| Numbed_(Condition).md | 24 | 26 | 2 |
 | Omen_of_Lightning_(Condition).md | 22 | 24 | 2 |
 | Omen_of_Poison_(Condition).md | 22 | 24 | 2 |
 | Omen_of_Thunder_(Condition).md | 22 | 24 | 2 |
@@ -4938,96 +4884,96 @@
 | Oskar_Fevras_(Painting).md | 26 | 28 | 2 |
 | Panicked_Sentinel_(Condition).md | 35 | 37 | 2 |
 | Parchment_(Lower_City).md | 44 | 46 | 2 |
-| Off-hand_set.md | 23 | 21 | 2 |
 | Magron's_Head.md | 20 | 18 | 2 |
 | Old_Garlow's_Basement_Backroom_Key.md | 26 | 24 | 2 |
 | Omen_of_Acid_(Condition).md | 22 | 24 | 2 |
 | Omen_of_Cold_(Condition).md | 22 | 24 | 2 |
 | Omen_of_Fire_(Condition).md | 22 | 24 | 2 |
+| Off-hand_set.md | 23 | 21 | 2 |
+| Modding_colon_Dependencies.md | 129 | 131 | 2 |
+| Poison_Resistance_(Condition).md | 124 | 126 | 2 |
 | Personal_Quest.md | 528 | 526 | 2 |
 | Nightsinger's_Favour_(Condition).md | 31 | 33 | 2 |
 | No_Free_Lunches.md | 16 | 18 | 2 |
-| Poison_Resistance_(Condition).md | 124 | 126 | 2 |
-| Modding_colon_Dependencies.md | 129 | 131 | 2 |
-| Necrotic_Resistance_(Condition).md | 128 | 130 | 2 |
-| Guardian_Wraiths_(Condition).md | 24 | 26 | 2 |
-| Guide_colon_Cheesing.md | 25 | 23 | 2 |
-| Guide_colon_Hair_Mod_File_Setup.md | 445 | 447 | 2 |
 | Oral_Histories_of_Faerûn_colon__Gith_and_Mind_Flayers.md | 94 | 96 | 2 |
+| Proximity_Explosive.md | 30 | 28 | 2 |
 | Reckless_Warcry_(Condition).md | 22 | 24 | 2 |
+| Necrotic_Resistance_(Condition).md | 128 | 130 | 2 |
 | Psychic_Rend_(Condition).md | 22 | 24 | 2 |
 | Psychic_Resistance_(Condition).md | 124 | 126 | 2 |
 | Punish_Divinity_(Condition).md | 26 | 28 | 2 |
-| Proximity_Explosive.md | 30 | 28 | 2 |
-| Reactive_Restoration_(Condition).md | 22 | 24 | 2 |
-| Rumbling_with_Kereska's_Thunder_(Condition).md | 58 | 56 | 2 |
-| Ruptured_(Condition).md | 37 | 39 | 2 |
-| Rusted_Key.md | 22 | 24 | 2 |
-| Refectory.md | 233 | 231 | 2 |
 | Qua'nith_colon__Alert_Active_(Condition).md | 22 | 24 | 2 |
 | Quests.md | 528 | 526 | 2 |
 | Quickspell_Flinger_(Condition).md | 22 | 24 | 2 |
+| Reactive_Restoration_(Condition).md | 22 | 24 | 2 |
+| Refectory.md | 233 | 231 | 2 |
 | Rapture_(Condition).md | 18 | 20 | 2 |
-| Scarlet_Remittance_+1_(Condition).md | 30 | 32 | 2 |
-| SG_Disease.md | 140 | 138 | 2 |
+| Rumbling_with_Kereska's_Thunder_(Condition).md | 58 | 56 | 2 |
+| Ruptured_(Condition).md | 37 | 39 | 2 |
+| Rusted_Key.md | 22 | 24 | 2 |
 | Personal_Note_(L).md | 25 | 27 | 2 |
 | Scribbled_Scrap.md | 32 | 34 | 2 |
+| Magic_Arrow_(Condition).md | 26 | 28 | 2 |
 | Overgrown_Ruin_Looters.md | 233 | 231 | 2 |
 | Overgrown_Ruins.md | 233 | 231 | 2 |
-| Shadow_Blade_(passive_feature).md | 28 | 30 | 2 |
+| SG_Disease.md | 140 | 138 | 2 |
+| Scarlet_Remittance_+1_(Condition).md | 30 | 32 | 2 |
 | Robes_of_the_New_Moon.md | 27 | 29 | 2 |
-| Selûne's_Seal_(Condition).md | 30 | 32 | 2 |
-| Magic_Arrow_(Condition).md | 26 | 28 | 2 |
 | Lime,_Lemon,_and_Lichen_Dye.md | 36 | 38 | 2 |
-| Sharess'_Caress_Voucher.md | 20 | 18 | 2 |
-| Shadar-Kai.md | 41 | 39 | 2 |
-| Shadow_Veil_(Condition).md | 22 | 24 | 2 |
+| Shadow_Blade_(passive_feature).md | 28 | 30 | 2 |
+| Selûne's_Seal_(Condition).md | 30 | 32 | 2 |
 | Resonance_Stone.md | 43 | 41 | 2 |
 | Return_Rakath's_Gold.md | 107 | 105 | 2 |
 | Revealed_(Condition).md | 22 | 24 | 2 |
-| Special_colon_RecentChanges.md | 79 | 77 | 2 |
-| Special_colon_SpecialPages.md | 232 | 230 | 2 |
+| Shadow_Veil_(Condition).md | 22 | 24 | 2 |
+| Sharess'_Caress_Voucher.md | 20 | 18 | 2 |
+| Guardian_Wraiths_(Condition).md | 24 | 26 | 2 |
+| Guide_colon_Cheesing.md | 25 | 23 | 2 |
+| Guide_colon_Hair_Mod_File_Setup.md | 445 | 447 | 2 |
+| Save_the_Grymforge_Gnomes.md | 149 | 147 | 2 |
 | Stage_Fright_(Condition).md | 26 | 28 | 2 |
 | Stiv's_Wedding_Vows.md | 34 | 32 | 2 |
-| Save_the_Grymforge_Gnomes.md | 149 | 147 | 2 |
-| Society_of_Brilliance_Traveller's_Chest.md | 36 | 34 | 2 |
-| Stormshore_Tabernacle.md | 267 | 265 | 2 |
+| Shadar-Kai.md | 41 | 39 | 2 |
+| Special_colon_RecentChanges.md | 79 | 77 | 2 |
+| Special_colon_SpecialPages.md | 232 | 230 | 2 |
+| Singing_Sword_colon__Song_(Condition).md | 26 | 28 | 2 |
 | Teahouse_Key.md | 26 | 28 | 2 |
+| Society_of_Brilliance_Traveller's_Chest.md | 36 | 34 | 2 |
 | Superheated_(Condition).md | 34 | 32 | 2 |
 | Small_Shovel.md | 22 | 20 | 2 |
-| Singing_Sword_colon__Song_(Condition).md | 26 | 28 | 2 |
+| Radiant_Resistance_(Condition).md | 124 | 126 | 2 |
+| Stormshore_Tabernacle.md | 267 | 265 | 2 |
 | The_Hunter's_Piercing_Gaze.md | 32 | 34 | 2 |
 | The_Pale_Elf.md | 373 | 375 | 2 |
 | The_Pronunciation_of_Common_for_Monstrous_Species_colon__A_Guide_for_Pedagogues.md | 46 | 44 | 2 |
-| The_Absolute_End.md | 30 | 32 | 2 |
-| Radiant_Resistance_(Condition).md | 124 | 126 | 2 |
 | Tollhouse_Ledger_(Risen_Road).md | 44 | 46 | 2 |
 | Tollhouse_Master's_Office_Key.md | 26 | 28 | 2 |
+| The_Absolute_End.md | 30 | 32 | 2 |
 | Tyrant_Tongue_(Condition).md | 26 | 28 | 2 |
-| Shield_of_Screams_(Condition).md | 24 | 26 | 2 |
+| Supreme_Defences_(Condition).md | 22 | 24 | 2 |
+| Talk_colon_Gameplay_mechanics.md | 10 | 8 | 2 |
 | Tippler's_Rage_(Condition).md | 22 | 24 | 2 |
 | To_Hiring_Manager,_Steel_Watch_Foundry.md | 30 | 32 | 2 |
 | To_Lily_Chazman,_Provoss_Academy.md | 34 | 32 | 2 |
 | To_the_Best_of_Wives_and_Mothers.md | 27 | 25 | 2 |
+| Shield_of_Screams_(Condition).md | 24 | 26 | 2 |
 | Rejuvenating_Miasma_(Condition).md | 30 | 32 | 2 |
 | Relics_of_Deep_Duerra's_rebellious_children.md | 65 | 63 | 2 |
 | Rended_Flesh_(Condition).md | 26 | 28 | 2 |
-| Talk_colon_Gameplay_mechanics.md | 10 | 8 | 2 |
-| Supreme_Defences_(Condition).md | 22 | 24 | 2 |
 | Transmuter's_Stone_colon__Depleted_Magic_(Condition).md | 26 | 28 | 2 |
 | Tribunal_Prison_Key.md | 26 | 24 | 2 |
 | The_Glitter_Gala_Stockroom_Key.md | 26 | 24 | 2 |
+| Tu'narath's_Embrace_(Condition).md | 28 | 30 | 2 |
 | Wild_Magic_colon__Dark_Tendrils_(Condition).md | 24 | 26 | 2 |
 | Tarnished_Silver_Key.md | 26 | 28 | 2 |
 | Wizards_of_Note_colon__Lorroakan_(Editor's_Edition).md | 36 | 34 | 2 |
 | Wizardsbane_Oil_(Condition).md | 30 | 32 | 2 |
 | bg3wiki_colon_Donate.md | 36 | 34 | 2 |
 | bg3wiki_colon_Report_ads.md | 22 | 20 | 2 |
-| Tu'narath's_Embrace_(Condition).md | 28 | 30 | 2 |
 | Yer_Axe_Got_Broke!.md | 34 | 32 | 2 |
+| Toymaker's_Basement_Chest_Key.md | 26 | 28 | 2 |
 | Thunder_Resistance_(Condition).md | 124 | 126 | 2 |
 | Thunderous_Conversion.md | 44 | 42 | 2 |
-| Toymaker's_Basement_Chest_Key.md | 26 | 28 | 2 |
 | Your_New_Ring.md | 38 | 40 | 2 |
 | Wilderness.md | 227 | 225 | 2 |
 | Windmill_Key.md | 22 | 24 | 2 |
@@ -5045,12 +4991,11 @@
 | Astral_Knowledge_(Condition).md | 31 | 32 | 1 |
 | Blade_Ward_(Condition).md | 37 | 38 | 1 |
 | Beacon_of_Hope_(Condition).md | 26 | 27 | 1 |
-| Call_Lightning_(Condition).md | 32 | 33 | 1 |
 | Absorbed_Essence_colon__Sendai_(Condition).md | 29 | 30 | 1 |
+| Call_Lightning_(Condition).md | 32 | 33 | 1 |
 | Cheater's_Folly_(Condition).md | 39 | 38 | 1 |
-| Classes.md | 346 | 345 | 1 |
 | Ability_Drain_colon__Dexterity_(Condition).md | 34 | 35 | 1 |
-| Companions.md | 385 | 384 | 1 |
+| Classes.md | 346 | 345 | 1 |
 | Boar_Companion.md | 100 | 99 | 1 |
 | Baldur's_Gate.md | 51 | 52 | 1 |
 | Baldur's_Mouth_Gazette.md | 70 | 71 | 1 |
@@ -5058,15 +5003,16 @@
 | Character_creation.md | 283 | 282 | 1 |
 | Crackling_with_Kereska's_Lightning_(Condition).md | 64 | 65 | 1 |
 | Controlled_(Condition).md | 26 | 27 | 1 |
-| A_Greeting_to_this_Home's_New_Occupants.md | 38 | 39 | 1 |
 | Eagle's_Splendour_(Condition).md | 24 | 25 | 1 |
+| A_Greeting_to_this_Home's_New_Occupants.md | 38 | 39 | 1 |
+| Elemental_Affinity_colon__Lightning_Resistance_(Condition).md | 32 | 33 | 1 |
 | Extra_Bonus_Action_(Condition).md | 25 | 26 | 1 |
 | Eyes_of_the_Dark_colon__Darkness.md | 66 | 65 | 1 |
-| Final_Warning_(Elerrathin's_Home).md | 44 | 43 | 1 |
-| Elemental_Affinity_colon__Lightning_Resistance_(Condition).md | 32 | 33 | 1 |
 | Everburn_Blade.md | 65 | 64 | 1 |
+| Final_Warning_(Elerrathin's_Home).md | 44 | 43 | 1 |
 | Club_of_Hill_Giant_Strength.md | 56 | 55 | 1 |
 | Coated_in_Arsonist's_Oil_(Condition).md | 120 | 121 | 1 |
+| Companions.md | 385 | 384 | 1 |
 | Flaming_Fist_New_Recruit_Booklet.md | 38 | 37 | 1 |
 | Gur.md | 100 | 99 | 1 |
 | Horde_Breaker_(Melee).md | 90 | 89 | 1 |
@@ -5074,43 +5020,43 @@
 | Graveyard.md | 205 | 206 | 1 |
 | Gloves_of_Missile_Snaring.md | 36 | 37 | 1 |
 | Harmonised_(Condition).md | 24 | 25 | 1 |
-| Hoots'_Hooch_colon__Gifted_(Condition).md | 29 | 30 | 1 |
 | Infected_(Condition).md | 26 | 27 | 1 |
+| Hoots'_Hooch_colon__Gifted_(Condition).md | 29 | 30 | 1 |
 | Keys.md | 424 | 423 | 1 |
-| Legendary_Actions_Available_(Condition).md | 30 | 31 | 1 |
 | Life_Essence_(Condition).md | 39 | 40 | 1 |
+| Legendary_Actions_Available_(Condition).md | 30 | 31 | 1 |
 | Hoarding_Energy_(Condition).md | 22 | 23 | 1 |
-| Heat_Metal_colon__Disadvantage_(Condition).md | 30 | 31 | 1 |
 | Mindstruck_(Condition).md | 22 | 23 | 1 |
-| Mortuarys_Cellar.md | 205 | 206 | 1 |
+| Heat_Metal_colon__Disadvantage_(Condition).md | 30 | 31 | 1 |
 | Oathbreaker.md | 85 | 86 | 1 |
+| Mortuarys_Cellar.md | 205 | 206 | 1 |
 | Open_Call_for_Adventurers_on_Behalf_of_the_Society.md | 40 | 41 | 1 |
-| Reckless_Attack_(Condition).md | 27 | 28 | 1 |
 | Psionic_Ward_Armour.md | 53 | 54 | 1 |
-| Romance.md | 113 | 112 | 1 |
-| Precision_Attack_(Condition).md | 22 | 23 | 1 |
-| Ready_to_Parry_(Supreme)_(Condition).md | 34 | 35 | 1 |
+| Reckless_Attack_(Condition).md | 27 | 28 | 1 |
 | Protection_from_Energy_colon__Cold_(Condition).md | 24 | 25 | 1 |
 | Protection_from_Energy_colon__Fire_(Condition).md | 28 | 29 | 1 |
-| Scarlet_Saturation_(Condition).md | 27 | 28 | 1 |
+| Precision_Attack_(Condition).md | 22 | 23 | 1 |
+| Ready_to_Parry_(Supreme)_(Condition).md | 34 | 35 | 1 |
+| Romance.md | 113 | 112 | 1 |
 | Repair_Matrix_(Condition).md | 33 | 34 | 1 |
-| Shattered_(Condition).md | 28 | 29 | 1 |
+| Scarlet_Saturation_(Condition).md | 27 | 28 | 1 |
 | Shocking_Brew_(Condition).md | 44 | 45 | 1 |
+| Shattered_(Condition).md | 28 | 29 | 1 |
+| Saves.md | 122 | 123 | 1 |
 | Sentinel_Foe_(Condition).md | 24 | 25 | 1 |
 | Speak_with_Animals_(condition).md | 43 | 42 | 1 |
 | Special_colon_Version.md | 170 | 171 | 1 |
-| Saves.md | 122 | 123 | 1 |
-| The_Absolute.md | 242 | 241 | 1 |
 | Radiating_Orb_Gloves.md | 30 | 29 | 1 |
+| The_Absolute.md | 242 | 241 | 1 |
 | Talk_colon_Illithid_powers.md | 44 | 45 | 1 |
 | Talk_colon_Permanent_bonuses.md | 154 | 155 | 1 |
 | Transmuter's_Stone_colon__Thunder_Resistance_(Condition).md | 25 | 26 | 1 |
+| Skeletons_in_Patriar_Closets.md | 40 | 41 | 1 |
 | Venomous_Bite_(Wolf_Spider_Companion).md | 39 | 40 | 1 |
 | Venomous_Guilt.md | 37 | 38 | 1 |
-| Skeletons_in_Patriar_Closets.md | 40 | 41 | 1 |
 | Vicious_Mockery_(Condition).md | 37 | 38 | 1 |
-| Vampiric_Shout.md | 30 | 29 | 1 |
 | Umbral_Shroud_(Condition).md | 86 | 87 | 1 |
+| Vampiric_Shout.md | 30 | 29 | 1 |
 | Volatile_Cluster.md | 52 | 53 | 1 |
 | Underdark_Pleasures.md | 51 | 50 | 1 |
 | Yim's_Running_Tab.md | 36 | 35 | 1 |
@@ -5119,19 +5065,18 @@
 | Wholeness_of_Body_(Condition).md | 26 | 27 | 1 |
 | Template_talk_colon_WizardNavbox.md | 12 | 13 | 1 |
 | Upper_City_Access_Orders.md | 28 | 29 | 1 |
-| Animal_Handling.md | 68 | 68 | 0 |
-| Animate_Dead_colon__Zombie_Battalion.md | 48 | 48 | 0 |
-| Annotated_Ship's_Manifest.md | 22 | 22 | 0 |
-| Anomalous_Coral.md | 19 | 19 | 0 |
-| Anonymous_letter.md | 11 | 11 | 0 |
-| Anonymous_letter_(Sword_Coast_Couriers).md | 34 | 34 | 0 |
-| Ansur's_Finest_Recruitment_Poster.md | 34 | 34 | 0 |
-| Anti-Hag_Support_Group_Poster.md | 29 | 29 | 0 |
-| Antimagic_Susceptibility.md | 22 | 22 | 0 |
-| Antique_Key.md | 26 | 26 | 0 |
-| Anything_Spare_q_.md | 34 | 34 | 0 |
-| Apostle_Diary.md | 43 | 43 | 0 |
-| Apothecary's_Cellar.md | 138 | 138 | 0 |
+| Bell.md | 11 | 11 | 0 |
+| Bella.md | 11 | 11 | 0 |
+| Bellows.md | 19 | 19 | 0 |
+| Belm.md | 70 | 70 | 0 |
+| Beloved_Sons.md | 30 | 30 | 0 |
+| Belts.md | 15 | 15 | 0 |
+| Bend_Luck_colon__Ability_Check_Bonus_(Condition).md | 20 | 20 | 0 |
+| Bend_Luck_colon__Ability_Check_Penalty_(Condition).md | 20 | 20 | 0 |
+| Berry_Tart.md | 24 | 24 | 0 |
+| Berserk.md | 16 | 16 | 0 |
+| Berserker.md | 48 | 48 | 0 |
+| Bestial_Fury.md | 20 | 20 | 0 |
 | Awakened.md | 25 | 25 | 0 |
 | Ayana's_Last_Wishes.md | 36 | 36 | 0 |
 | Azer_Warhammer.md | 59 | 59 | 0 |
@@ -5151,18 +5096,19 @@
 | Baguette.md | 28 | 28 | 0 |
 | Bahamut.md | 440 | 440 | 0 |
 | Bail_Report.md | 28 | 28 | 0 |
-| Bell.md | 11 | 11 | 0 |
-| Bella.md | 11 | 11 | 0 |
-| Bellows.md | 19 | 19 | 0 |
-| Belm.md | 70 | 70 | 0 |
-| Beloved_Sons.md | 30 | 30 | 0 |
-| Belts.md | 15 | 15 | 0 |
-| Bend_Luck_colon__Ability_Check_Bonus_(Condition).md | 20 | 20 | 0 |
-| Bend_Luck_colon__Ability_Check_Penalty_(Condition).md | 20 | 20 | 0 |
-| Berry_Tart.md | 24 | 24 | 0 |
-| Berserk.md | 16 | 16 | 0 |
-| Berserker.md | 48 | 48 | 0 |
-| Bestial_Fury.md | 20 | 20 | 0 |
+| Animal_Handling.md | 68 | 68 | 0 |
+| Animate_Dead_colon__Zombie_Battalion.md | 48 | 48 | 0 |
+| Annotated_Ship's_Manifest.md | 22 | 22 | 0 |
+| Anomalous_Coral.md | 19 | 19 | 0 |
+| Anonymous_letter.md | 11 | 11 | 0 |
+| Anonymous_letter_(Sword_Coast_Couriers).md | 34 | 34 | 0 |
+| Ansur's_Finest_Recruitment_Poster.md | 34 | 34 | 0 |
+| Anti-Hag_Support_Group_Poster.md | 29 | 29 | 0 |
+| Antimagic_Susceptibility.md | 22 | 22 | 0 |
+| Antique_Key.md | 26 | 26 | 0 |
+| Anything_Spare_q_.md | 34 | 34 | 0 |
+| Apostle_Diary.md | 43 | 43 | 0 |
+| Apothecary's_Cellar.md | 138 | 138 | 0 |
 | Beak_Attack.md | 12 | 12 | 0 |
 | Beak_Attack_(disambiguation).md | 12 | 12 | 0 |
 | Bear_Companion.md | 104 | 104 | 0 |
@@ -5202,6 +5148,7 @@
 | Arachnid_Compulsion.md | 23 | 23 | 0 |
 | Arachnid_Jump.md | 26 | 26 | 0 |
 | Aradin's_Key.md | 26 | 26 | 0 |
+| Araj_Oblodra.md | 586 | 586 | 0 |
 | Arcana.md | 71 | 71 | 0 |
 | Arcane_Absorption.md | 18 | 18 | 0 |
 | Arcane_Absorption_Dagger.md | 43 | 43 | 0 |
@@ -5214,6 +5161,15 @@
 | Arcane_Enchantment_(+2).md | 18 | 18 | 0 |
 | Arcane_Harpoon_Arrow.md | 22 | 22 | 0 |
 | Arcane_Hunger_(Condition).md | 27 | 27 | 0 |
+| Bird.md | 33 | 33 | 0 |
+| Biscuit.md | 24 | 24 | 0 |
+| Bite_(Sharran_Spider).md | 32 | 32 | 0 |
+| Bite_(Sharran_Wolf).md | 32 | 32 | 0 |
+| Bite_(Sharran_Wolf,_Viconia).md | 32 | 32 | 0 |
+| Bixa_Root.md | 18 | 18 | 0 |
+| Black_Dragonborn.md | 281 | 281 | 0 |
+| Black_Flare_Leather_Outfit.md | 36 | 36 | 0 |
+| Black_Gauntlet_Ifran.md | 377 | 377 | 0 |
 | Aspect_of_Athkatla.md | 18 | 18 | 0 |
 | Aspect_of_the_Beast_(Bear).md | 22 | 22 | 0 |
 | Aspect_of_the_Beast_(Elk).md | 22 | 22 | 0 |
@@ -5241,14 +5197,6 @@
 | Astarion's_Eccentric_Clothing.md | 24 | 24 | 0 |
 | Astral-Touched_Tadpole.md | 54 | 54 | 0 |
 | Astral_Conduit_(Condition).md | 30 | 30 | 0 |
-| Bird.md | 33 | 33 | 0 |
-| Biscuit.md | 24 | 24 | 0 |
-| Bite_(Sharran_Spider).md | 32 | 32 | 0 |
-| Bite_(Sharran_Wolf).md | 32 | 32 | 0 |
-| Bite_(Sharran_Wolf,_Viconia).md | 32 | 32 | 0 |
-| Bixa_Root.md | 18 | 18 | 0 |
-| Black_Dragonborn.md | 281 | 281 | 0 |
-| Black_Flare_Leather_Outfit.md | 36 | 36 | 0 |
 | A_Little_Djinni_Ditty.md | 46 | 46 | 0 |
 | A_Little_Gift.md | 30 | 30 | 0 |
 | A_Memory_(To_Vilmina).md | 45 | 45 | 0 |
@@ -5332,28 +5280,8 @@
 | Bloodied_Note_(Lower_City).md | 29 | 29 | 0 |
 | Bloodless_Pig_Meat.md | 20 | 20 | 0 |
 | Bloodlust_(Condition).md | 37 | 37 | 0 |
+| Bloodmopper.md | 329 | 329 | 0 |
 | Bloodrender_(Condition).md | 32 | 32 | 0 |
-| Brave_(Liara_Portyr).md | 22 | 22 | 0 |
-| Brave_(Note).md | 38 | 38 | 0 |
-| Breaching_Pikestaff.md | 44 | 44 | 0 |
-| Break_the_Unbroken.md | 20 | 20 | 0 |
-| Break_the_Unbroken_(1d10).md | 18 | 18 | 0 |
-| Breastplate.md | 48 | 48 | 0 |
-| Breastplate_+1.md | 48 | 48 | 0 |
-| Breastplate_+2.md | 56 | 56 | 0 |
-| Breathless_Lungs_(Condition).md | 28 | 28 | 0 |
-| Brew_Sickness_(Condition).md | 18 | 18 | 0 |
-| Brewed-Up_Bellyglummer_(Condition).md | 42 | 42 | 0 |
-| Brewing_Ladle.md | 38 | 38 | 0 |
-| Bright_Flare_Leather_Outfit.md | 34 | 34 | 0 |
-| Brimmed_Hat.md | 24 | 24 | 0 |
-| Brine_Barrel.md | 51 | 51 | 0 |
-| Brittle_(Condition).md | 30 | 30 | 0 |
-| Brocade_Booties.md | 22 | 22 | 0 |
-| Brocade_Ensemble.md | 22 | 22 | 0 |
-| Broken_Cane.md | 22 | 22 | 0 |
-| Broken_Club.md | 34 | 34 | 0 |
-| Broken_Cogwheel.md | 17 | 17 | 0 |
 | Black_Mass_Scroll.md | 51 | 51 | 0 |
 | Black_Oleander.md | 18 | 18 | 0 |
 | Black_Puddle_(surface).md | 28 | 28 | 0 |
@@ -5375,6 +5303,28 @@
 | Bladesong_Healing_Charge_(Condition).md | 31 | 31 | 0 |
 | Bladesong_Impeded_(Condition).md | 24 | 24 | 0 |
 | Bladesong_Power.md | 63 | 63 | 0 |
+| Brave_(Liara_Portyr).md | 22 | 22 | 0 |
+| Brave_(Note).md | 38 | 38 | 0 |
+| Breaching_Pikestaff.md | 44 | 44 | 0 |
+| Break_the_Unbroken.md | 20 | 20 | 0 |
+| Break_the_Unbroken_(1d10).md | 18 | 18 | 0 |
+| Breastplate.md | 48 | 48 | 0 |
+| Breastplate_+1.md | 48 | 48 | 0 |
+| Breastplate_+2.md | 56 | 56 | 0 |
+| Breathless_Lungs_(Condition).md | 28 | 28 | 0 |
+| Brew_Sickness_(Condition).md | 18 | 18 | 0 |
+| Brewed-Up_Bellyglummer_(Condition).md | 42 | 42 | 0 |
+| Brewing_Ladle.md | 38 | 38 | 0 |
+| Bright_Flare_Leather_Outfit.md | 34 | 34 | 0 |
+| Brimmed_Hat.md | 24 | 24 | 0 |
+| Brine_Barrel.md | 51 | 51 | 0 |
+| Brittle_(Condition).md | 30 | 30 | 0 |
+| Broadhorn.md | 403 | 403 | 0 |
+| Brocade_Booties.md | 22 | 22 | 0 |
+| Brocade_Ensemble.md | 22 | 22 | 0 |
+| Broken_Cane.md | 22 | 22 | 0 |
+| Broken_Club.md | 34 | 34 | 0 |
+| Broken_Cogwheel.md | 17 | 17 | 0 |
 | Bottled_Eye.md | 23 | 23 | 0 |
 | Bottled_Solvent.md | 22 | 22 | 0 |
 | Bottled_Tentacles.md | 23 | 23 | 0 |
@@ -5399,30 +5349,6 @@
 | Brass_City_Scrangle.md | 52 | 52 | 0 |
 | Brass_Dragonborn.md | 281 | 281 | 0 |
 | Brass_Locket_(Common).md | 21 | 21 | 0 |
-| Barely-Legible_Letter.md | 36 | 36 | 0 |
-| Barkskin_Armour.md | 56 | 56 | 0 |
-| Barkskin_Recipe.md | 56 | 56 | 0 |
-| Barnabus'_Collar.md | 22 | 22 | 0 |
-| Baron_Bormul's_Will.md | 28 | 28 | 0 |
-| Barracks.md | 9 | 9 | 0 |
-| Barracks_Office_Key.md | 16 | 16 | 0 |
-| Barrel-Aged_Callidyrran.md | 54 | 54 | 0 |
-| Barren's_Coop.md | 79 | 79 | 0 |
-| Basement_Key_(Forge_of_the_Nine).md | 26 | 26 | 0 |
-| Basics_of_Beginner's_Dwarvish.md | 30 | 30 | 0 |
-| Basket.md | 19 | 19 | 0 |
-| Basket_Shoe.md | 22 | 22 | 0 |
-| Basking_in_Loviatar's_Love_(Condition).md | 22 | 22 | 0 |
-| Battered_Note.md | 32 | 32 | 0 |
-| Battle-Worn_Blade.md | 44 | 44 | 0 |
-| Battle_Master.md | 66 | 66 | 0 |
-| Battle_Plans.md | 30 | 30 | 0 |
-| Battleaxe.md | 42 | 42 | 0 |
-| Battleaxe_+1.md | 44 | 44 | 0 |
-| Battleaxes.md | 67 | 67 | 0 |
-| Battlemaster.md | 66 | 66 | 0 |
-| Be_Wary_of_Foreigners!.md | 32 | 32 | 0 |
-| Beach_House_Hatch_Key.md | 26 | 26 | 0 |
 | Astral_Plane.md | 276 | 276 | 0 |
 | Astral_Prism.md | 11 | 11 | 0 |
 | Astrally_Projected_(Condition).md | 27 | 27 | 0 |
@@ -5461,6 +5387,32 @@
 | Bill's_Chest_Key.md | 22 | 22 | 0 |
 | Bind.md | 12 | 12 | 0 |
 | Bing_Bong.md | 22 | 22 | 0 |
+| Barely-Legible_Letter.md | 36 | 36 | 0 |
+| Baretha.md | 459 | 459 | 0 |
+| Barkskin_Armour.md | 56 | 56 | 0 |
+| Barkskin_Recipe.md | 56 | 56 | 0 |
+| Barnabus'_Collar.md | 22 | 22 | 0 |
+| Baron_Bormul's_Will.md | 28 | 28 | 0 |
+| Barracks.md | 9 | 9 | 0 |
+| Barracks_Office_Key.md | 16 | 16 | 0 |
+| Barrel-Aged_Callidyrran.md | 54 | 54 | 0 |
+| Barren's_Coop.md | 79 | 79 | 0 |
+| Barth.md | 361 | 361 | 0 |
+| Basement_Key_(Forge_of_the_Nine).md | 26 | 26 | 0 |
+| Basics_of_Beginner's_Dwarvish.md | 30 | 30 | 0 |
+| Basket.md | 19 | 19 | 0 |
+| Basket_Shoe.md | 22 | 22 | 0 |
+| Basking_in_Loviatar's_Love_(Condition).md | 22 | 22 | 0 |
+| Battered_Note.md | 32 | 32 | 0 |
+| Battle-Worn_Blade.md | 44 | 44 | 0 |
+| Battle_Master.md | 66 | 66 | 0 |
+| Battle_Plans.md | 30 | 30 | 0 |
+| Battleaxe.md | 42 | 42 | 0 |
+| Battleaxe_+1.md | 44 | 44 | 0 |
+| Battleaxes.md | 67 | 67 | 0 |
+| Battlemaster.md | 66 | 66 | 0 |
+| Be_Wary_of_Foreigners!.md | 32 | 32 | 0 |
+| Beach_House_Hatch_Key.md | 26 | 26 | 0 |
 | Aura_of_Murder_(passive_feature).md | 40 | 40 | 0 |
 | Authority.md | 24 | 24 | 0 |
 | Automaton.md | 36 | 36 | 0 |
@@ -5472,32 +5424,25 @@
 | Aversion_of_Fire.md | 24 | 24 | 0 |
 | Aversion_of_Fire_(Condition).md | 24 | 24 | 0 |
 | Avery.md | 11 | 11 | 0 |
-| Blast_Mine.md | 28 | 28 | 0 |
-| Blazer_of_Benevolence.md | 62 | 62 | 0 |
-| Blessing_of_Authority_(Condition).md | 26 | 26 | 0 |
-| Blessing_of_the_Trickster_(Condition).md | 26 | 26 | 0 |
-| Blessings_for_the_Refugees.md | 30 | 30 | 0 |
-| Blessings_of_Knowledge.md | 20 | 20 | 0 |
-| Blight_(race).md | 44 | 44 | 0 |
-| Blightbringer.md | 56 | 56 | 0 |
-| Blightbringer_(passive_feature).md | 18 | 18 | 0 |
-| Blind_Immunity.md | 28 | 28 | 0 |
-| Blindsight.md | 20 | 20 | 0 |
-| Blingdenstone_Blush.md | 52 | 52 | 0 |
-| Business_Proposal.md | 28 | 28 | 0 |
-| Buthir's_Wrath_(Condition).md | 28 | 28 | 0 |
-| Bycocket.md | 24 | 24 | 0 |
-| CHA.md | 102 | 102 | 0 |
-| CONFIDENTIAL_colon__REPORT_RECORD.md | 46 | 46 | 0 |
-| Cacophony.md | 57 | 57 | 0 |
-| Cage_Key.md | 26 | 26 | 0 |
-| Cage_Key_(Gribbo).md | 26 | 26 | 0 |
-| Caitiff_Staff.md | 47 | 47 | 0 |
-| Calishem_Awaits.md | 41 | 41 | 0 |
-| Call_of_the_Blood.md | 231 | 231 | 0 |
-| Call_of_the_Dark_Lady_(Condition).md | 26 | 26 | 0 |
-| Calling_Reinforcements_(Condition).md | 33 | 33 | 0 |
-| Callous_Glow_Ring.md | 42 | 42 | 0 |
+| Arcane_Inheritor_(Condition).md | 30 | 30 | 0 |
+| Arcane_Tower_(Map).md | 10 | 10 | 0 |
+| Arcane_Vampirism.md | 24 | 24 | 0 |
+| Arcane_Vehemence.md | 25 | 25 | 0 |
+| Arcane_Vivaciousness.md | 37 | 37 | 0 |
+| Arcane_Ward_(Condition).md | 34 | 34 | 0 |
+| Arcanely_Honed.md | 34 | 34 | 0 |
+| Arcanely_Honed_(Condition).md | 34 | 34 | 0 |
+| Archducal_Coronation_-_Admission_Pass.md | 34 | 34 | 0 |
+| Archery.md | 21 | 21 | 0 |
+| Archfey.md | 63 | 63 | 0 |
+| Arctic.md | 41 | 41 | 0 |
+| Ardent_Apostle_(Condition).md | 21 | 21 | 0 |
+| Arduous_Flame_Blade.md | 48 | 48 | 0 |
+| Area.md | 74 | 74 | 0 |
+| Areas.md | 74 | 74 | 0 |
+| Arfur's_Basement.md | 161 | 161 | 0 |
+| Arfur's_Mansion.md | 161 | 161 | 0 |
+| Arfur's_Private_Musings.md | 30 | 30 | 0 |
 | Acolyte_of_Nature.md | 31 | 31 | 0 |
 | Acquire_the_Gauntlets_for_Helsik.md | 84 | 84 | 0 |
 | Acquisitions_Record.md | 40 | 40 | 0 |
@@ -5519,25 +5464,18 @@
 | Adamantine_Reverberation.md | 44 | 44 | 0 |
 | Adamantine_Reverberation_(Condition).md | 22 | 22 | 0 |
 | Adamantine_Scale_Mail.md | 70 | 70 | 0 |
-| Arcane_Inheritor_(Condition).md | 30 | 30 | 0 |
-| Arcane_Tower_(Map).md | 10 | 10 | 0 |
-| Arcane_Vampirism.md | 24 | 24 | 0 |
-| Arcane_Vehemence.md | 25 | 25 | 0 |
-| Arcane_Vivaciousness.md | 37 | 37 | 0 |
-| Arcane_Ward_(Condition).md | 34 | 34 | 0 |
-| Arcanely_Honed.md | 34 | 34 | 0 |
-| Arcanely_Honed_(Condition).md | 34 | 34 | 0 |
-| Archducal_Coronation_-_Admission_Pass.md | 34 | 34 | 0 |
-| Archery.md | 21 | 21 | 0 |
-| Archfey.md | 63 | 63 | 0 |
-| Arctic.md | 41 | 41 | 0 |
-| Ardent_Apostle_(Condition).md | 21 | 21 | 0 |
-| Arduous_Flame_Blade.md | 48 | 48 | 0 |
-| Area.md | 74 | 74 | 0 |
-| Areas.md | 74 | 74 | 0 |
-| Arfur's_Basement.md | 161 | 161 | 0 |
-| Arfur's_Mansion.md | 161 | 161 | 0 |
-| Arfur's_Private_Musings.md | 30 | 30 | 0 |
+| Blast_Mine.md | 28 | 28 | 0 |
+| Blazer_of_Benevolence.md | 62 | 62 | 0 |
+| Blessing_of_Authority_(Condition).md | 26 | 26 | 0 |
+| Blessing_of_the_Trickster_(Condition).md | 26 | 26 | 0 |
+| Blessings_for_the_Refugees.md | 30 | 30 | 0 |
+| Blessings_of_Knowledge.md | 20 | 20 | 0 |
+| Blight_(race).md | 44 | 44 | 0 |
+| Blightbringer.md | 56 | 56 | 0 |
+| Blightbringer_(passive_feature).md | 18 | 18 | 0 |
+| Blind_Immunity.md | 28 | 28 | 0 |
+| Blindsight.md | 20 | 20 | 0 |
+| Blingdenstone_Blush.md | 52 | 52 | 0 |
 | Absolute's_Enemy_(Condition).md | 25 | 25 | 0 |
 | Absolute's_Protector.md | 35 | 35 | 0 |
 | Absolute's_Smite.md | 23 | 23 | 0 |
@@ -5580,6 +5518,20 @@
 | Bucket.md | 43 | 43 | 0 |
 | Bucket_of_Water.md | 19 | 19 | 0 |
 | Bufotoxin_(Condition).md | 22 | 22 | 0 |
+| Business_Proposal.md | 28 | 28 | 0 |
+| Buthir's_Wrath_(Condition).md | 28 | 28 | 0 |
+| Bycocket.md | 24 | 24 | 0 |
+| CHA.md | 102 | 102 | 0 |
+| CONFIDENTIAL_colon__REPORT_RECORD.md | 46 | 46 | 0 |
+| Cacophony.md | 57 | 57 | 0 |
+| Cage_Key.md | 26 | 26 | 0 |
+| Cage_Key_(Gribbo).md | 26 | 26 | 0 |
+| Caitiff_Staff.md | 47 | 47 | 0 |
+| Calishem_Awaits.md | 41 | 41 | 0 |
+| Call_of_the_Blood.md | 231 | 231 | 0 |
+| Call_of_the_Dark_Lady_(Condition).md | 26 | 26 | 0 |
+| Calling_Reinforcements_(Condition).md | 33 | 33 | 0 |
+| Callous_Glow_Ring.md | 42 | 42 | 0 |
 | Boom,_Bang,_Blast_colon__The_joy_of_fireworks.md | 40 | 40 | 0 |
 | Booming_Blows.md | 16 | 16 | 0 |
 | Boon_of_Servitude_(Condition).md | 24 | 24 | 0 |
@@ -5592,31 +5544,13 @@
 | Boots_of_Stormy_Clamour.md | 44 | 44 | 0 |
 | Boots_of_Very_Fast_Blinking.md | 29 | 29 | 0 |
 | Booze_Remedy.md | 21 | 21 | 0 |
+| Bor.md | 424 | 424 | 0 |
+| Borgus_Elamin.md | 306 | 306 | 0 |
 | Born_into_Darkness.md | 24 | 24 | 0 |
 | Born_to_be_Wild.md | 32 | 32 | 0 |
 | Bottle_Rack.md | 21 | 21 | 0 |
 | Bottled_Blooms.md | 23 | 23 | 0 |
 | Bottled_Breath_(Condition).md | 31 | 31 | 0 |
-| Adamantine_Scimitar.md | 67 | 67 | 0 |
-| Adamantine_Skin.md | 20 | 20 | 0 |
-| Adamantine_Splint_Armour.md | 72 | 72 | 0 |
-| Adamantine_set.md | 69 | 69 | 0 |
-| Adaptable_Skullduggery.md | 16 | 16 | 0 |
-| Additional_Spell_Slot.md | 26 | 26 | 0 |
-| Address_Book.md | 76 | 76 | 0 |
-| Adopters_of_Culture.md | 44 | 44 | 0 |
-| Adrenaline_Rush.md | 33 | 33 | 0 |
-| Adroit_Caster.md | 38 | 38 | 0 |
-| Adroit_Caster_(Condition).md | 22 | 22 | 0 |
-| Adroit_Reflexes.md | 16 | 16 | 0 |
-| Adventurers,_Our_Best_Hope_For_the_City.md | 22 | 22 | 0 |
-| Adventurers_Wanted.md | 30 | 30 | 0 |
-| Adventures_on_the_Sea_of_Fallen_Stars.md | 44 | 44 | 0 |
-| Aegis_of_the_Absolute.md | 36 | 36 | 0 |
-| Aegis_of_the_Absolute_(Condition).md | 26 | 26 | 0 |
-| Aelis.md | 13 | 13 | 0 |
-| After_Death_Do_Us_Part_(passive_feature).md | 26 | 26 | 0 |
-| Agate.md | 22 | 22 | 0 |
 | Carnival_Squash.md | 28 | 28 | 0 |
 | Carrion_crawler_nest.md | 19 | 19 | 0 |
 | Carrot.md | 28 | 28 | 0 |
@@ -5650,22 +5584,6 @@
 | Category_colon_Locations.md | 6 | 6 | 0 |
 | Category_colon_Misc_items.md | 6 | 6 | 0 |
 | Category_colon_Non-playable_Races.md | 6 | 6 | 0 |
-| Checks.md | 578 | 578 | 0 |
-| Cheese.md | 20 | 20 | 0 |
-| Cheese_Record.md | 52 | 52 | 0 |
-| Chessa's_Practice_Sword.md | 34 | 34 | 0 |
-| Chest_Trauma_(Condition).md | 32 | 32 | 0 |
-| Chevon.md | 24 | 24 | 0 |
-| Chicken_Chaser_(Condition).md | 16 | 16 | 0 |
-| Chicken_Egg.md | 24 | 24 | 0 |
-| Child's_Diary.md | 32 | 32 | 0 |
-| Child_of_the_Moonmaiden.md | 16 | 16 | 0 |
-| Chilling_Counter.md | 29 | 29 | 0 |
-| Chilling_Grace.md | 24 | 24 | 0 |
-| Chilling_Grace_(Condition).md | 24 | 24 | 0 |
-| Chilling_Strike.md | 16 | 16 | 0 |
-| Chocolatier_Style_Doublet.md | 34 | 34 | 0 |
-| Chopped-Up_Pig.md | 20 | 20 | 0 |
 | Bull's_Strength_(Condition).md | 31 | 31 | 0 |
 | Bull's_Strength_(passive_feature).md | 18 | 18 | 0 |
 | Bundle_of_Incense.md | 22 | 22 | 0 |
@@ -5682,16 +5600,22 @@
 | Burrow_(disambiguation).md | 14 | 14 | 0 |
 | Burrow_Hole.md | 22 | 22 | 0 |
 | Burst_of_Speed.md | 18 | 18 | 0 |
-| Cistern.md | 175 | 175 | 0 |
-| City_of_Brass_Outfit.md | 34 | 34 | 0 |
-| City_sewers.md | 320 | 320 | 0 |
-| Civilian.md | 12 | 12 | 0 |
-| Clasped_Book.md | 12 | 12 | 0 |
-| Clasped_Book_(Moonrise_Towers).md | 38 | 38 | 0 |
-| Clasped_Book_(The_Glitter_Gala).md | 33 | 33 | 0 |
-| Class.md | 346 | 346 | 0 |
-| Cleaning_Staff_Note.md | 32 | 32 | 0 |
-| Cleansing_Touch.md | 16 | 16 | 0 |
+| Checks.md | 578 | 578 | 0 |
+| Cheese.md | 20 | 20 | 0 |
+| Cheese_Record.md | 52 | 52 | 0 |
+| Chessa's_Practice_Sword.md | 34 | 34 | 0 |
+| Chest_Trauma_(Condition).md | 32 | 32 | 0 |
+| Chevon.md | 24 | 24 | 0 |
+| Chicken_Chaser_(Condition).md | 16 | 16 | 0 |
+| Chicken_Egg.md | 24 | 24 | 0 |
+| Child's_Diary.md | 32 | 32 | 0 |
+| Child_of_the_Moonmaiden.md | 16 | 16 | 0 |
+| Chilling_Counter.md | 29 | 29 | 0 |
+| Chilling_Grace.md | 24 | 24 | 0 |
+| Chilling_Grace_(Condition).md | 24 | 24 | 0 |
+| Chilling_Strike.md | 16 | 16 | 0 |
+| Chocolatier_Style_Doublet.md | 34 | 34 | 0 |
+| Chopped-Up_Pig.md | 20 | 20 | 0 |
 | A_page_from_Sarevok's_book.md | 36 | 36 | 0 |
 | A_sheep_butchered_with_creative_zeal..md | 28 | 28 | 0 |
 | Aasimar.md | 29 | 29 | 0 |
@@ -5700,6 +5624,7 @@
 | Abandoned_Journal_(Gauntlet_of_Shar).md | 40 | 40 | 0 |
 | Abandoned_Journal_(Lower_City).md | 32 | 32 | 0 |
 | Abazigal,_the_Fourth.md | 34 | 34 | 0 |
+| Abby.md | 372 | 372 | 0 |
 | Abdel's_Trusted_Shield.md | 38 | 38 | 0 |
 | Abeir.md | 14 | 14 | 0 |
 | Aberration.md | 142 | 142 | 0 |
@@ -5725,6 +5650,37 @@
 | Ablaze.md | 32 | 32 | 0 |
 | About_Creation_of_Orphic_Hammer.md | 30 | 30 | 0 |
 | Absolute's_Aegis.md | 22 | 22 | 0 |
+| Cistern.md | 175 | 175 | 0 |
+| City_of_Brass_Outfit.md | 34 | 34 | 0 |
+| City_sewers.md | 320 | 320 | 0 |
+| Civilian.md | 12 | 12 | 0 |
+| Clasped_Book.md | 12 | 12 | 0 |
+| Clasped_Book_(Moonrise_Towers).md | 38 | 38 | 0 |
+| Clasped_Book_(The_Glitter_Gala).md | 33 | 33 | 0 |
+| Class.md | 346 | 346 | 0 |
+| Cleaning_Staff_Note.md | 32 | 32 | 0 |
+| Cleansing_Touch.md | 16 | 16 | 0 |
+| Adamantine_Scimitar.md | 67 | 67 | 0 |
+| Adamantine_Skin.md | 20 | 20 | 0 |
+| Adamantine_Splint_Armour.md | 72 | 72 | 0 |
+| Adamantine_set.md | 69 | 69 | 0 |
+| Adaptable_Skullduggery.md | 16 | 16 | 0 |
+| Additional_Spell_Slot.md | 26 | 26 | 0 |
+| Addled_Frog.md | 306 | 306 | 0 |
+| Address_Book.md | 76 | 76 | 0 |
+| Adopters_of_Culture.md | 44 | 44 | 0 |
+| Adrenaline_Rush.md | 33 | 33 | 0 |
+| Adroit_Caster.md | 38 | 38 | 0 |
+| Adroit_Caster_(Condition).md | 22 | 22 | 0 |
+| Adroit_Reflexes.md | 16 | 16 | 0 |
+| Adventurers,_Our_Best_Hope_For_the_City.md | 22 | 22 | 0 |
+| Adventurers_Wanted.md | 30 | 30 | 0 |
+| Adventures_on_the_Sea_of_Fallen_Stars.md | 44 | 44 | 0 |
+| Aegis_of_the_Absolute.md | 36 | 36 | 0 |
+| Aegis_of_the_Absolute_(Condition).md | 26 | 26 | 0 |
+| Aelis.md | 13 | 13 | 0 |
+| After_Death_Do_Us_Part_(passive_feature).md | 26 | 26 | 0 |
+| Agate.md | 22 | 22 | 0 |
 | Bolstering_Magic_colon__Boon_(Condition).md | 26 | 26 | 0 |
 | Bolstering_Smite.md | 35 | 35 | 0 |
 | Bomb.md | 16 | 16 | 0 |
@@ -5774,6 +5730,7 @@
 | Art_Show_Schedule.md | 52 | 52 | 0 |
 | Artefact_Mission_colon__Agent_Roster.md | 39 | 39 | 0 |
 | Artefact_Mission_colon__Challenges.md | 26 | 26 | 0 |
+| Arthus.md | 429 | 429 | 0 |
 | Artificer's_Lore.md | 26 | 26 | 0 |
 | Artificial_Leech.md | 36 | 36 | 0 |
 | Artificial_Leech_(+1).md | 53 | 53 | 0 |
@@ -5787,18 +5744,24 @@
 | Ashes_of_Mephit_Magma.md | 24 | 24 | 0 |
 | Ask_the_Goblin_Priestess_for_Help.md | 63 | 63 | 0 |
 | Asmodeus_Tiefling.md | 160 | 160 | 0 |
-| Comfortable_Blue-Red_Outfit.md | 36 | 36 | 0 |
-| Comfortable_Red_Shirt.md | 40 | 40 | 0 |
-| Command_colon__Grovel_(Condition).md | 37 | 37 | 0 |
-| Commission_for_Formalwear.md | 28 | 28 | 0 |
-| Common_Special_Arrow_Subtable.md | 17 | 17 | 0 |
-| Common_Table-Wine.md | 57 | 57 | 0 |
-| Community_Updates.md | 10 | 10 | 0 |
-| Companion's_Bond.md | 35 | 35 | 0 |
-| Companion.md | 385 | 385 | 0 |
-| Concerning_My_Debt.md | 28 | 28 | 0 |
-| Concerning_Orin_the_Red.md | 30 | 30 | 0 |
-| Conch_Shell.md | 45 | 45 | 0 |
+| Bloodstained_Note.md | 28 | 28 | 0 |
+| Bloodstained_Parchment.md | 64 | 64 | 0 |
+| Bloodthirst.md | 87 | 87 | 0 |
+| Bloodthirst_(Condition).md | 33 | 33 | 0 |
+| Bloody_Journal.md | 44 | 44 | 0 |
+| Bloody_Message.md | 34 | 34 | 0 |
+| Blooming_Dead_(Condition).md | 27 | 27 | 0 |
+| Bludgeon_the_Weak_(Condition).md | 34 | 34 | 0 |
+| Blue-stained_Research.md | 30 | 30 | 0 |
+| Blue_Dragonborn.md | 281 | 281 | 0 |
+| Blue_Flare_Leather_Outfit.md | 34 | 34 | 0 |
+| Bluejay_corpse.md | 20 | 20 | 0 |
+| Blushcap_Mushroom.md | 24 | 24 | 0 |
+| Blythe.md | 382 | 382 | 0 |
+| Body_Aid.md | 23 | 23 | 0 |
+| Boiled_Potato.md | 24 | 24 | 0 |
+| Bolstering_Critical.md | 24 | 24 | 0 |
+| Bolstering_Magic.md | 51 | 51 | 0 |
 | Cooking_Pot.md | 43 | 43 | 0 |
 | Copper_Brazier.md | 15 | 15 | 0 |
 | Copper_Dragonborn.md | 281 | 281 | 0 |
@@ -5818,38 +5781,6 @@
 | Corrosive_Flail.md | 48 | 48 | 0 |
 | Corrosive_Spit_colon__Dissolving_(Condition).md | 40 | 40 | 0 |
 | Corsairs_of_Luskan.md | 34 | 34 | 0 |
-| Bloodstained_Note.md | 28 | 28 | 0 |
-| Bloodstained_Parchment.md | 64 | 64 | 0 |
-| Bloodthirst.md | 87 | 87 | 0 |
-| Bloodthirst_(Condition).md | 33 | 33 | 0 |
-| Bloody_Journal.md | 44 | 44 | 0 |
-| Bloody_Message.md | 34 | 34 | 0 |
-| Blooming_Dead_(Condition).md | 27 | 27 | 0 |
-| Bludgeon_the_Weak_(Condition).md | 34 | 34 | 0 |
-| Blue-stained_Research.md | 30 | 30 | 0 |
-| Blue_Dragonborn.md | 281 | 281 | 0 |
-| Blue_Flare_Leather_Outfit.md | 34 | 34 | 0 |
-| Bluejay_corpse.md | 20 | 20 | 0 |
-| Blushcap_Mushroom.md | 24 | 24 | 0 |
-| Body_Aid.md | 23 | 23 | 0 |
-| Boiled_Potato.md | 24 | 24 | 0 |
-| Bolstering_Critical.md | 24 | 24 | 0 |
-| Bolstering_Magic.md | 51 | 51 | 0 |
-| Corvid_Token.md | 42 | 42 | 0 |
-| Cosmic_Omen.md | 24 | 24 | 0 |
-| Cosmic_Omen_colon__Ability_Check_(Condition).md | 16 | 16 | 0 |
-| Cosmic_Omen_of_Weal_colon__Attack_Roll.md | 23 | 23 | 0 |
-| Cosmic_Omen_of_Weal_colon__Saving_Throw.md | 23 | 23 | 0 |
-| Cosmic_Omen_of_Woe_colon__Attack_Roll.md | 23 | 23 | 0 |
-| Cosmic_Omen_of_Woe_colon__Saving_Throw.md | 23 | 23 | 0 |
-| Cosy_Blue_Shirt.md | 40 | 40 | 0 |
-| Counsellor_Florrick's_Sentence.md | 30 | 30 | 0 |
-| Counting_House_Family_Vault_List.md | 50 | 50 | 0 |
-| Counting_House_Vault_Rules.md | 34 | 34 | 0 |
-| Counting_the_Conchs.md | 36 | 36 | 0 |
-| Covert_Cowl.md | 38 | 38 | 0 |
-| Covert_Critical.md | 23 | 23 | 0 |
-| Covert_Critical_(Condition).md | 29 | 29 | 0 |
 | Bakshi's_Chest_Key.md | 26 | 26 | 0 |
 | Balance.md | 29 | 29 | 0 |
 | Baldur's_Bones.md | 28 | 28 | 0 |
@@ -5877,6 +5808,21 @@
 | Balthazar_Personal_Notes_colon__3.md | 41 | 41 | 0 |
 | Banana.md | 24 | 24 | 0 |
 | Bandit's_Armour.md | 34 | 34 | 0 |
+| Corvid_Token.md | 42 | 42 | 0 |
+| Cosmic_Omen.md | 24 | 24 | 0 |
+| Cosmic_Omen_colon__Ability_Check_(Condition).md | 16 | 16 | 0 |
+| Cosmic_Omen_of_Weal_colon__Attack_Roll.md | 23 | 23 | 0 |
+| Cosmic_Omen_of_Weal_colon__Saving_Throw.md | 23 | 23 | 0 |
+| Cosmic_Omen_of_Woe_colon__Attack_Roll.md | 23 | 23 | 0 |
+| Cosmic_Omen_of_Woe_colon__Saving_Throw.md | 23 | 23 | 0 |
+| Cosy_Blue_Shirt.md | 40 | 40 | 0 |
+| Counsellor_Florrick's_Sentence.md | 30 | 30 | 0 |
+| Counting_House_Family_Vault_List.md | 50 | 50 | 0 |
+| Counting_House_Vault_Rules.md | 34 | 34 | 0 |
+| Counting_the_Conchs.md | 36 | 36 | 0 |
+| Covert_Cowl.md | 38 | 38 | 0 |
+| Covert_Critical.md | 23 | 23 | 0 |
+| Covert_Critical_(Condition).md | 29 | 29 | 0 |
 | Daralyne_Nikley.md | 34 | 34 | 0 |
 | Daredevil_Gloves.md | 38 | 38 | 0 |
 | Daredevil_Proximity.md | 30 | 30 | 0 |
@@ -5908,6 +5854,24 @@
 | Darkblade.md | 37 | 37 | 0 |
 | Darkfire_Shortbow.md | 48 | 48 | 0 |
 | Darkness_(cloud).md | 42 | 42 | 0 |
+| Always_Hungry.md | 38 | 38 | 0 |
+| Ambusher's_Streak.md | 20 | 20 | 0 |
+| Ambusher.md | 54 | 54 | 0 |
+| Ambusher_(+1).md | 29 | 29 | 0 |
+| Ambusher_(+2).md | 19 | 19 | 0 |
+| Ambushing_Bite_(Condition).md | 24 | 24 | 0 |
+| Amelyssan,_the_Sixth.md | 30 | 30 | 0 |
+| Amn.md | 28 | 28 | 0 |
+| Amnian_Dessert_Wine.md | 54 | 54 | 0 |
+| Amulet_of_Bhaal.md | 36 | 36 | 0 |
+| Amulet_of_Elemental_Torment.md | 42 | 42 | 0 |
+| Amulet_of_Restoration.md | 33 | 33 | 0 |
+| Amulet_of_Silvanus.md | 32 | 32 | 0 |
+| Amulet_of_Windrider.md | 32 | 32 | 0 |
+| Amulet_of_the_Absolute.md | 24 | 24 | 0 |
+| Amulet_of_the_Devout.md | 42 | 42 | 0 |
+| Amulet_of_the_Drunkard.md | 34 | 34 | 0 |
+| An_Archduke's_Leadership_colon__Decorum.md | 44 | 44 | 0 |
 | Dead_Fisher.md | 11 | 11 | 0 |
 | Dead_Three.md | 118 | 118 | 0 |
 | Dead_Toll_Collector.md | 15 | 15 | 0 |
@@ -5931,24 +5895,37 @@
 | Death_Domain.md | 85 | 85 | 0 |
 | Death_Knight.md | 54 | 54 | 0 |
 | Death_Wish_(Condition).md | 25 | 25 | 0 |
-| Always_Hungry.md | 38 | 38 | 0 |
-| Ambusher's_Streak.md | 20 | 20 | 0 |
-| Ambusher.md | 54 | 54 | 0 |
-| Ambusher_(+1).md | 29 | 29 | 0 |
-| Ambusher_(+2).md | 19 | 19 | 0 |
-| Ambushing_Bite_(Condition).md | 24 | 24 | 0 |
-| Amelyssan,_the_Sixth.md | 30 | 30 | 0 |
-| Amn.md | 28 | 28 | 0 |
-| Amnian_Dessert_Wine.md | 54 | 54 | 0 |
-| Amulet_of_Bhaal.md | 36 | 36 | 0 |
-| Amulet_of_Elemental_Torment.md | 42 | 42 | 0 |
-| Amulet_of_Restoration.md | 33 | 33 | 0 |
-| Amulet_of_Silvanus.md | 32 | 32 | 0 |
-| Amulet_of_Windrider.md | 32 | 32 | 0 |
-| Amulet_of_the_Absolute.md | 24 | 24 | 0 |
-| Amulet_of_the_Devout.md | 42 | 42 | 0 |
-| Amulet_of_the_Drunkard.md | 34 | 34 | 0 |
-| An_Archduke's_Leadership_colon__Decorum.md | 44 | 44 | 0 |
+| Condemnation.md | 22 | 22 | 0 |
+| Condition.md | 301 | 301 | 0 |
+| Conditions.md | 301 | 301 | 0 |
+| Confidant_of_a_Duke.md | 32 | 32 | 0 |
+| Confiscated_Book.md | 34 | 34 | 0 |
+| Confronting_the_False_Heart.md | 34 | 34 | 0 |
+| Confused.md | 13 | 13 | 0 |
+| Confused_Stupor_(Condition).md | 27 | 27 | 0 |
+| Congratulations,_Son!.md | 28 | 28 | 0 |
+| Congratulations_(And_a_Surprise!).md | 30 | 30 | 0 |
+| Conical_Flask.md | 40 | 40 | 0 |
+| Conjuration_Savant.md | 34 | 34 | 0 |
+| Conjuration_School.md | 34 | 34 | 0 |
+| Agitated_(Condition).md | 16 | 16 | 0 |
+| Agonising_Blast.md | 24 | 24 | 0 |
+| Ahu'u'rag.md | 349 | 349 | 0 |
+| Aid_the_Underduke.md | 232 | 232 | 0 |
+| Akabi's_Old_Lamp.md | 18 | 18 | 0 |
+| Alarmed_Debtor_(Condition).md | 12 | 12 | 0 |
+| Alcohol.md | 21 | 21 | 0 |
+| Alert.md | 24 | 24 | 0 |
+| Alioramus.md | 38 | 38 | 0 |
+| Aloe_Oil.md | 22 | 22 | 0 |
+| Disintegrating_Corpse_(Condition).md | 40 | 40 | 0 |
+| Disintegrating_Journal.md | 34 | 34 | 0 |
+| Disintegrating_Night_Walkers.md | 46 | 46 | 0 |
+| Dislocated_Shoulder_(Condition).md | 19 | 19 | 0 |
+| Dismiss_Gaseous_Form.md | 19 | 19 | 0 |
+| Dismissal_of_Staff.md | 34 | 34 | 0 |
+| Disorders_of_the_Nerves_and_Mind_colon__A_Treatise.md | 40 | 40 | 0 |
+| Dispatches_Ledger.md | 44 | 44 | 0 |
 | Celestials.md | 53 | 53 | 0 |
 | Cell.md | 23 | 23 | 0 |
 | Cemetery-Blue_Torch.md | 37 | 37 | 0 |
@@ -5971,23 +5948,6 @@
 | Champion.md | 53 | 53 | 0 |
 | Champion_Challenge_(Condition).md | 36 | 36 | 0 |
 | Chandelier-Style_Embroidered_Ensemble.md | 34 | 34 | 0 |
-| Disintegrating_Corpse_(Condition).md | 40 | 40 | 0 |
-| Disintegrating_Journal.md | 34 | 34 | 0 |
-| Disintegrating_Night_Walkers.md | 46 | 46 | 0 |
-| Dislocated_Shoulder_(Condition).md | 19 | 19 | 0 |
-| Dismiss_Gaseous_Form.md | 19 | 19 | 0 |
-| Dismissal_of_Staff.md | 34 | 34 | 0 |
-| Disorders_of_the_Nerves_and_Mind_colon__A_Treatise.md | 40 | 40 | 0 |
-| Dispatches_Ledger.md | 44 | 44 | 0 |
-| Agitated_(Condition).md | 16 | 16 | 0 |
-| Agonising_Blast.md | 24 | 24 | 0 |
-| Aid_the_Underduke.md | 232 | 232 | 0 |
-| Akabi's_Old_Lamp.md | 18 | 18 | 0 |
-| Alarmed_Debtor_(Condition).md | 12 | 12 | 0 |
-| Alcohol.md | 21 | 21 | 0 |
-| Alert.md | 24 | 24 | 0 |
-| Alioramus.md | 38 | 38 | 0 |
-| Aloe_Oil.md | 22 | 22 | 0 |
 | Category_colon_Pages_with_an_explicit_charlink_alias.md | 6 | 6 | 0 |
 | Category_colon_Quests.md | 6 | 6 | 0 |
 | Category_colon_Rare_Items.md | 4 | 4 | 0 |
@@ -6015,19 +5975,6 @@
 | Celebrate_the_Brave_Heroes_Who_Slew_General_Ketheric.md | 22 | 22 | 0 |
 | Celebration.md | 12 | 12 | 0 |
 | Celestial.md | 53 | 53 | 0 |
-| Condemnation.md | 22 | 22 | 0 |
-| Condition.md | 301 | 301 | 0 |
-| Conditions.md | 301 | 301 | 0 |
-| Confidant_of_a_Duke.md | 32 | 32 | 0 |
-| Confiscated_Book.md | 34 | 34 | 0 |
-| Confronting_the_False_Heart.md | 34 | 34 | 0 |
-| Confused.md | 13 | 13 | 0 |
-| Confused_Stupor_(Condition).md | 27 | 27 | 0 |
-| Congratulations,_Son!.md | 28 | 28 | 0 |
-| Congratulations_(And_a_Surprise!).md | 30 | 30 | 0 |
-| Conical_Flask.md | 40 | 40 | 0 |
-| Conjuration_Savant.md | 34 | 34 | 0 |
-| Conjuration_School.md | 34 | 34 | 0 |
 | Darkveil_Precision_(Condition).md | 29 | 29 | 0 |
 | Darkvision.md | 39 | 39 | 0 |
 | Darkvision_(Passive_Feature).md | 39 | 39 | 0 |
@@ -6076,10 +6023,12 @@
 | Chromatic_Scale.md | 97 | 97 | 0 |
 | Chronicles_of_the_Gur_People.md | 35 | 35 | 0 |
 | Cinder_Shoes.md | 29 | 29 | 0 |
+| Cinderous_Swipe.md | 53 | 53 | 0 |
 | Cindersnap_Gloves.md | 29 | 29 | 0 |
 | Cindersnap_Reflexes_(Condition).md | 34 | 34 | 0 |
 | Cinematography.md | 203 | 203 | 0 |
 | Circle_of_Bones.md | 47 | 47 | 0 |
+| Circle_of_Death.md | 68 | 68 | 0 |
 | Circle_of_Stars.md | 89 | 89 | 0 |
 | Circle_of_the_Land.md | 206 | 206 | 0 |
 | Circle_of_the_Moon.md | 61 | 61 | 0 |
@@ -6089,6 +6038,7 @@
 | Circlet_of_Hunting.md | 38 | 38 | 0 |
 | Circlet_of_Mental_Anguish.md | 25 | 25 | 0 |
 | Circlet_of_Psionic_Revenge.md | 38 | 38 | 0 |
+| Circuitry_Interface.md | 47 | 47 | 0 |
 | Circus_Ensemble.md | 38 | 38 | 0 |
 | Circus_of_the_Last_Days_colon__Employees.md | 40 | 40 | 0 |
 | Destroy_the_Elder_Brain.md | 60 | 60 | 0 |
@@ -6108,6 +6058,25 @@
 | Dexterity_Modifier.md | 578 | 578 | 0 |
 | Dextrous_Evasion.md | 29 | 29 | 0 |
 | Dheeber's_Chest_Key.md | 22 | 22 | 0 |
+| Defensive_Protocol_colon__Bulwark_(Condition).md | 54 | 54 | 0 |
+| Defensive_Stance_(Condition).md | 25 | 25 | 0 |
+| Defensive_Tactics.md | 44 | 44 | 0 |
+| Defier's_Rejuvenation.md | 16 | 16 | 0 |
+| Definitely_a_Broom_of_Flying.md | 24 | 24 | 0 |
+| Defy_Villainy.md | 30 | 30 | 0 |
+| Deity.md | 440 | 440 | 0 |
+| Delicate_Shoes.md | 26 | 26 | 0 |
+| Delicately_Constructed_Outfit.md | 34 | 34 | 0 |
+| Deliver_Nere's_Head.md | 118 | 118 | 0 |
+| Demon.md | 260 | 260 | 0 |
+| Demonspirit_Aura.md | 34 | 34 | 0 |
+| Denying_the_Prying_Heart.md | 28 | 28 | 0 |
+| Derivation_Cloak.md | 36 | 36 | 0 |
+| Derryth's_Journal.md | 58 | 58 | 0 |
+| Desert.md | 41 | 41 | 0 |
+| Despair_of_Athkatla.md | 55 | 55 | 0 |
+| Destroy_Undead.md | 20 | 20 | 0 |
+| Destroy_the_Ancient_Tome.md | 34 | 34 | 0 |
 | Divine_Sense_(Condition).md | 26 | 26 | 0 |
 | Divine_Strike_colon__Necrotic.md | 43 | 43 | 0 |
 | Divine_Strike_colon__Necrotic_(Ranged).md | 43 | 43 | 0 |
@@ -6185,25 +6154,28 @@
 | Comeback_Handaxe.md | 41 | 41 | 0 |
 | Comfortable_Ashmeadow_Outfit.md | 32 | 32 | 0 |
 | Comfortable_Autumnal_Outfit.md | 32 | 32 | 0 |
-| Defensive_Protocol_colon__Bulwark_(Condition).md | 54 | 54 | 0 |
-| Defensive_Stance_(Condition).md | 25 | 25 | 0 |
-| Defensive_Tactics.md | 44 | 44 | 0 |
-| Defier's_Rejuvenation.md | 16 | 16 | 0 |
-| Definitely_a_Broom_of_Flying.md | 24 | 24 | 0 |
-| Defy_Villainy.md | 30 | 30 | 0 |
-| Deity.md | 440 | 440 | 0 |
-| Delicate_Shoes.md | 26 | 26 | 0 |
-| Delicately_Constructed_Outfit.md | 34 | 34 | 0 |
-| Deliver_Nere's_Head.md | 118 | 118 | 0 |
-| Demon.md | 260 | 260 | 0 |
-| Demonspirit_Aura.md | 34 | 34 | 0 |
-| Denying_the_Prying_Heart.md | 28 | 28 | 0 |
-| Derivation_Cloak.md | 36 | 36 | 0 |
-| Derryth's_Journal.md | 58 | 58 | 0 |
-| Desert.md | 41 | 41 | 0 |
-| Despair_of_Athkatla.md | 55 | 55 | 0 |
-| Destroy_Undead.md | 20 | 20 | 0 |
-| Destroy_the_Ancient_Tome.md | 34 | 34 | 0 |
+| Critical_Hit!_(Condition).md | 22 | 22 | 0 |
+| Critical_Swiftness.md | 18 | 18 | 0 |
+| Critical_Virtuoso.md | 24 | 24 | 0 |
+| Cross-Crest_Sandals.md | 26 | 26 | 0 |
+| Crossbow.md | 14 | 14 | 0 |
+| Crossbow_Expert_colon__Wounding.md | 18 | 18 | 0 |
+| Crossbow_of_Arcane_Force.md | 49 | 49 | 0 |
+| Crowbar.md | 17 | 17 | 0 |
+| Crowning_Glory.md | 20 | 20 | 0 |
+| Crude_Frenzy.md | 16 | 16 | 0 |
+| Crude_Mace.md | 39 | 39 | 0 |
+| Cruel_Sting.md | 75 | 75 | 0 |
+| Crumbling_File.md | 32 | 32 | 0 |
+| Crumbling_Journal.md | 26 | 26 | 0 |
+| Crumpled_Letter.md | 38 | 38 | 0 |
+| Crumpled_Note.md | 36 | 36 | 0 |
+| Crumpled_Note_Scrawled_in_Blood.md | 42 | 42 | 0 |
+| Crushing_Blows.md | 24 | 24 | 0 |
+| Crystal_Ball.md | 20 | 20 | 0 |
+| Crystal_Skin_(Condition).md | 20 | 20 | 0 |
+| Crèche.md | 11 | 11 | 0 |
+| Crèche_K'liir.md | 22 | 22 | 0 |
 | Cleaver.md | 29 | 29 | 0 |
 | Clerebold_Rillyn.md | 26 | 26 | 0 |
 | Cleric.md | 598 | 598 | 0 |
@@ -6241,18 +6213,6 @@
 | Charter_of_Tabernacle_Donations.md | 34 | 34 | 0 |
 | Chasm_Creeper.md | 22 | 22 | 0 |
 | Chatterbox's_Tabard.md | 16 | 16 | 0 |
-| Dipped_in_Fire_(Condition).md | 17 | 17 | 0 |
-| Direct_Complaint_to_Fist_Koltz.md | 28 | 28 | 0 |
-| Dirge_of_the_Unholy_Assassin.md | 56 | 56 | 0 |
-| Disable_the_Steel_Watch.md | 167 | 167 | 0 |
-| Disappearances_in_the_City.md | 34 | 34 | 0 |
-| Disarmed_(Condition).md | 30 | 30 | 0 |
-| Discarded_Journal.md | 36 | 36 | 0 |
-| Disciple_of_Life.md | 24 | 24 | 0 |
-| Discover_the_Artefact's_Secrets.md | 277 | 277 | 0 |
-| Discover_the_History_of_Prince_Orpheus.md | 142 | 142 | 0 |
-| Disengage_(Condition).md | 29 | 29 | 0 |
-| Disguise_Kit.md | 34 | 34 | 0 |
 | Deathbringer's_Legacy_(Condition).md | 46 | 46 | 0 |
 | Deathbringer's_Sight.md | 16 | 16 | 0 |
 | Deathly_Slumber.md | 16 | 16 | 0 |
@@ -6279,28 +6239,6 @@
 | Defender_Greataxe.md | 54 | 54 | 0 |
 | Defensive_Attack.md | 37 | 37 | 0 |
 | Defensive_Duellist.md | 35 | 35 | 0 |
-| Critical_Hit!_(Condition).md | 22 | 22 | 0 |
-| Critical_Swiftness.md | 18 | 18 | 0 |
-| Critical_Virtuoso.md | 24 | 24 | 0 |
-| Cross-Crest_Sandals.md | 26 | 26 | 0 |
-| Crossbow.md | 14 | 14 | 0 |
-| Crossbow_Expert_colon__Wounding.md | 18 | 18 | 0 |
-| Crossbow_of_Arcane_Force.md | 49 | 49 | 0 |
-| Crowbar.md | 17 | 17 | 0 |
-| Crowning_Glory.md | 20 | 20 | 0 |
-| Crude_Frenzy.md | 16 | 16 | 0 |
-| Crude_Mace.md | 39 | 39 | 0 |
-| Cruel_Sting.md | 75 | 75 | 0 |
-| Crumbling_File.md | 32 | 32 | 0 |
-| Crumbling_Journal.md | 26 | 26 | 0 |
-| Crumpled_Letter.md | 38 | 38 | 0 |
-| Crumpled_Note.md | 36 | 36 | 0 |
-| Crumpled_Note_Scrawled_in_Blood.md | 42 | 42 | 0 |
-| Crushing_Blows.md | 24 | 24 | 0 |
-| Crystal_Ball.md | 20 | 20 | 0 |
-| Crystal_Skin_(Condition).md | 20 | 20 | 0 |
-| Crèche.md | 11 | 11 | 0 |
-| Crèche_K'liir.md | 22 | 22 | 0 |
 | Dolor_Amarus.md | 71 | 71 | 0 |
 | Domain_Spells.md | 20 | 20 | 0 |
 | Dominated_Will_(Condition).md | 12 | 12 | 0 |
@@ -6333,21 +6271,18 @@
 | Electrify_Water.md | 21 | 21 | 0 |
 | Elegant_Robe.md | 52 | 52 | 0 |
 | Elegant_Slippers.md | 22 | 22 | 0 |
-| Crafting.md | 11 | 11 | 0 |
-| Crawler_Mucus_(cloud).md | 32 | 32 | 0 |
-| Crawler_Mucus_Poison_Recipe.md | 30 | 30 | 0 |
-| Crawling_Gnaw_(Condition).md | 30 | 30 | 0 |
-| Creased_Letter.md | 36 | 36 | 0 |
-| Creased_Missing_Poster.md | 34 | 34 | 0 |
-| Creased_Page.md | 32 | 32 | 0 |
-| Creation's_Echo.md | 58 | 58 | 0 |
-| Credo_of_the_Rack-Stricken_Lord.md | 44 | 44 | 0 |
-| Crime.md | 97 | 97 | 0 |
-| Crimes_of_the_Moonmaiden.md | 38 | 38 | 0 |
-| Crimson_Draughts'_Hatch_Key.md | 26 | 26 | 0 |
-| Crimson_Draughts.md | 138 | 138 | 0 |
-| Crimson_Mischief.md | 89 | 89 | 0 |
-| Crimson_Weapon.md | 29 | 29 | 0 |
+| Dipped_in_Fire_(Condition).md | 17 | 17 | 0 |
+| Direct_Complaint_to_Fist_Koltz.md | 28 | 28 | 0 |
+| Dirge_of_the_Unholy_Assassin.md | 56 | 56 | 0 |
+| Disable_the_Steel_Watch.md | 167 | 167 | 0 |
+| Disappearances_in_the_City.md | 34 | 34 | 0 |
+| Disarmed_(Condition).md | 30 | 30 | 0 |
+| Discarded_Journal.md | 36 | 36 | 0 |
+| Disciple_of_Life.md | 24 | 24 | 0 |
+| Discover_the_Artefact's_Secrets.md | 277 | 277 | 0 |
+| Discover_the_History_of_Prince_Orpheus.md | 142 | 142 | 0 |
+| Disengage_(Condition).md | 29 | 29 | 0 |
+| Disguise_Kit.md | 34 | 34 | 0 |
 | Argument_Solver.md | 62 | 62 | 0 |
 | Arkhen's_Hoard.md | 54 | 54 | 0 |
 | Armbrust's_Home.md | 82 | 82 | 0 |
@@ -6366,31 +6301,41 @@
 | Arms_of_Hadar_(Condition).md | 24 | 24 | 0 |
 | Army_Arcana.md | 20 | 20 | 0 |
 | Arrow.md | 22 | 22 | 0 |
-| Duelling.md | 36 | 36 | 0 |
-| Duelling_Gloves.md | 20 | 20 | 0 |
-| Duellist's_Prerogative.md | 87 | 87 | 0 |
-| Duergar.md | 192 | 192 | 0 |
-| Duergar_Antidote_(Condition).md | 24 | 24 | 0 |
-| Duergar_Resilience.md | 32 | 32 | 0 |
-| Dufay's_Diary.md | 34 | 34 | 0 |
-| Duke's_Formal_Footwear.md | 22 | 22 | 0 |
-| Duke_Ravengard's_Longsword.md | 72 | 72 | 0 |
-| Dumbwaiter.md | 24 | 24 | 0 |
-| Dungeon_Delver_colon__Perception.md | 21 | 21 | 0 |
-| Dungeon_Delver_colon__Resist_Traps.md | 21 | 21 | 0 |
-| Durable.md | 14 | 14 | 0 |
-| Durinbold_Mausoleum.md | 65 | 65 | 0 |
-| Durinbold_Mausoleum_Key.md | 26 | 26 | 0 |
-| Dusty_Book.md | 34 | 34 | 0 |
-| Dusty_Book_(Campsite).md | 26 | 26 | 0 |
-| Dusty_Prayerbook.md | 32 | 32 | 0 |
-| Dwarf's_Poem.md | 38 | 38 | 0 |
-| Dwarf.md | 192 | 192 | 0 |
-| Dwarven.md | 192 | 192 | 0 |
-| Dwarven_Combat_Training.md | 22 | 22 | 0 |
-| Dwarven_Resilience.md | 22 | 22 | 0 |
-| Dwarven_Resilience_(Condition).md | 24 | 24 | 0 |
-| Dwarven_Splintmail.md | 64 | 64 | 0 |
+| Crafting.md | 11 | 11 | 0 |
+| Crawler_Mucus_(cloud).md | 32 | 32 | 0 |
+| Crawler_Mucus_Poison_Recipe.md | 30 | 30 | 0 |
+| Crawling_Gnaw_(Condition).md | 30 | 30 | 0 |
+| Creased_Letter.md | 36 | 36 | 0 |
+| Creased_Missing_Poster.md | 34 | 34 | 0 |
+| Creased_Page.md | 32 | 32 | 0 |
+| Creation's_Echo.md | 58 | 58 | 0 |
+| Credo_of_the_Rack-Stricken_Lord.md | 44 | 44 | 0 |
+| Crime.md | 97 | 97 | 0 |
+| Crimes_of_the_Moonmaiden.md | 38 | 38 | 0 |
+| Crimson_Draughts'_Hatch_Key.md | 26 | 26 | 0 |
+| Crimson_Draughts.md | 138 | 138 | 0 |
+| Crimson_Mischief.md | 89 | 89 | 0 |
+| Crimson_Weapon.md | 29 | 29 | 0 |
+| Conjured_Spectre.md | 39 | 39 | 0 |
+| Conquered_(Condition).md | 20 | 20 | 0 |
+| Consider_Gortash's_Bargain.md | 103 | 103 | 0 |
+| Consolation_of_the_Dark.md | 30 | 30 | 0 |
+| Construct.md | 213 | 213 | 0 |
+| Constructs.md | 213 | 213 | 0 |
+| Consumable.md | 95 | 95 | 0 |
+| Consumables.md | 95 | 95 | 0 |
+| Consume_Life_Essence.md | 28 | 28 | 0 |
+| Consume_Souls.md | 32 | 32 | 0 |
+| Consume_Souls_(balanced).md | 32 | 32 | 0 |
+| Consume_Souls_(explorer).md | 36 | 36 | 0 |
+| Consume_Souls_(tactician).md | 36 | 36 | 0 |
+| Consume_the_Faithful.md | 36 | 36 | 0 |
+| Container.md | 158 | 158 | 0 |
+| Contract.md | 18 | 18 | 0 |
+| Contractor's_Record.md | 36 | 36 | 0 |
+| Control_Centre_Guards.md | 30 | 30 | 0 |
+| Control_the_Elder_Brain.md | 58 | 58 | 0 |
+| Controlling_Undead_(Condition).md | 16 | 16 | 0 |
 | Fighter.md | 319 | 319 | 0 |
 | File_Under_Diabolist.md | 34 | 34 | 0 |
 | File_colon_16_Armor_Class_Icon.png.md | 4 | 4 | 0 |
@@ -6431,6 +6376,31 @@
 | File_colon_A-Punch_Drunk.jpg.md | 4 | 4 | 0 |
 | File_colon_A-Repairing_the_Weave.jpg.md | 4 | 4 | 0 |
 | File_colon_A-Roleplayer.jpg.md | 4 | 4 | 0 |
+| Duelling.md | 36 | 36 | 0 |
+| Duelling_Gloves.md | 20 | 20 | 0 |
+| Duellist's_Prerogative.md | 87 | 87 | 0 |
+| Duergar.md | 192 | 192 | 0 |
+| Duergar_Antidote_(Condition).md | 24 | 24 | 0 |
+| Duergar_Resilience.md | 32 | 32 | 0 |
+| Dufay's_Diary.md | 34 | 34 | 0 |
+| Duke's_Formal_Footwear.md | 22 | 22 | 0 |
+| Duke_Ravengard's_Longsword.md | 72 | 72 | 0 |
+| Dumbwaiter.md | 24 | 24 | 0 |
+| Dungeon_Delver_colon__Perception.md | 21 | 21 | 0 |
+| Dungeon_Delver_colon__Resist_Traps.md | 21 | 21 | 0 |
+| Durable.md | 14 | 14 | 0 |
+| Durinbold_Mausoleum.md | 65 | 65 | 0 |
+| Durinbold_Mausoleum_Key.md | 26 | 26 | 0 |
+| Dusty_Book.md | 34 | 34 | 0 |
+| Dusty_Book_(Campsite).md | 26 | 26 | 0 |
+| Dusty_Prayerbook.md | 32 | 32 | 0 |
+| Dwarf's_Poem.md | 38 | 38 | 0 |
+| Dwarf.md | 192 | 192 | 0 |
+| Dwarven.md | 192 | 192 | 0 |
+| Dwarven_Combat_Training.md | 22 | 22 | 0 |
+| Dwarven_Resilience.md | 22 | 22 | 0 |
+| Dwarven_Resilience_(Condition).md | 24 | 24 | 0 |
+| Dwarven_Splintmail.md | 64 | 64 | 0 |
 | File_colon_A-Shove_Off.jpg.md | 4 | 4 | 0 |
 | File_colon_A-Taking_Blood.jpg.md | 4 | 4 | 0 |
 | File_colon_A-The_City_Awaits.jpg.md | 4 | 4 | 0 |
@@ -6456,26 +6426,18 @@
 | File_colon_HP_Icon.png.md | 4 | 4 | 0 |
 | File_colon_Illithid_Powers_Graphic.webp.md | 4 | 4 | 0 |
 | File_colon_Inspiration_Icon.png.md | 4 | 4 | 0 |
-| Conjured_Spectre.md | 39 | 39 | 0 |
-| Conquered_(Condition).md | 20 | 20 | 0 |
-| Consider_Gortash's_Bargain.md | 103 | 103 | 0 |
-| Consolation_of_the_Dark.md | 30 | 30 | 0 |
-| Construct.md | 213 | 213 | 0 |
-| Constructs.md | 213 | 213 | 0 |
-| Consumable.md | 95 | 95 | 0 |
-| Consumables.md | 95 | 95 | 0 |
-| Consume_Life_Essence.md | 28 | 28 | 0 |
-| Consume_Souls.md | 32 | 32 | 0 |
-| Consume_Souls_(balanced).md | 32 | 32 | 0 |
-| Consume_Souls_(explorer).md | 36 | 36 | 0 |
-| Consume_Souls_(tactician).md | 36 | 36 | 0 |
-| Consume_the_Faithful.md | 36 | 36 | 0 |
-| Container.md | 158 | 158 | 0 |
-| Contract.md | 18 | 18 | 0 |
-| Contractor's_Record.md | 36 | 36 | 0 |
-| Control_Centre_Guards.md | 30 | 30 | 0 |
-| Control_the_Elder_Brain.md | 58 | 58 | 0 |
-| Controlling_Undead_(Condition).md | 16 | 16 | 0 |
+| Dwarven_Thrower.md | 73 | 73 | 0 |
+| Dwarven_Thrower_(passive_feature).md | 20 | 20 | 0 |
+| Dwarven_Toughness.md | 18 | 18 | 0 |
+| Dwarves.md | 192 | 192 | 0 |
+| Dying.md | 13 | 13 | 0 |
+| Eagle_Heart.md | 29 | 29 | 0 |
+| Earth_Grenade.md | 21 | 21 | 0 |
+| Earthen_Bottle.md | 19 | 19 | 0 |
+| Earthen_Siphon_(Condition).md | 36 | 36 | 0 |
+| Easy_Furnitures_DIY.md | 42 | 42 | 0 |
+| Edge_of_Terror.md | 27 | 27 | 0 |
+| Edict_of_the_Old_Lord_Skull_(Condition).md | 23 | 23 | 0 |
 | 'Hshar'lak_Voss'.md | 34 | 34 | 0 |
 | 'Let's_meet'.md | 30 | 30 | 0 |
 | 'Miracles'_of_the_Outer_City.md | 42 | 42 | 0 |
@@ -6496,18 +6458,6 @@
 | A_Home_for_Every_Working_Baldurian!.md | 30 | 30 | 0 |
 | A_Hunter's_Guide_to_Hags.md | 32 | 32 | 0 |
 | A_Letter_For_Home.md | 34 | 34 | 0 |
-| Dwarven_Thrower.md | 73 | 73 | 0 |
-| Dwarven_Thrower_(passive_feature).md | 20 | 20 | 0 |
-| Dwarven_Toughness.md | 18 | 18 | 0 |
-| Dwarves.md | 192 | 192 | 0 |
-| Dying.md | 13 | 13 | 0 |
-| Eagle_Heart.md | 29 | 29 | 0 |
-| Earth_Grenade.md | 21 | 21 | 0 |
-| Earthen_Bottle.md | 19 | 19 | 0 |
-| Earthen_Siphon_(Condition).md | 36 | 36 | 0 |
-| Easy_Furnitures_DIY.md | 42 | 42 | 0 |
-| Edge_of_Terror.md | 27 | 27 | 0 |
-| Edict_of_the_Old_Lord_Skull_(Condition).md | 23 | 23 | 0 |
 | Engraved_Key_(Cellar).md | 22 | 22 | 0 |
 | Enhance_Ability_colon__Bull's_Strength_(Condition).md | 31 | 31 | 0 |
 | Enhance_Ability_colon__Cat's_Grace_(Condition).md | 34 | 34 | 0 |
@@ -6521,6 +6471,17 @@
 | Entropic_Ward_(Condition).md | 22 | 22 | 0 |
 | Environmental_object.md | 16 | 16 | 0 |
 | Envoy's_Amulet.md | 34 | 34 | 0 |
+| Elemental.md | 113 | 113 | 0 |
+| Elemental_Adept_colon__Acid.md | 18 | 18 | 0 |
+| Elemental_Adept_colon__Cold.md | 18 | 18 | 0 |
+| Elemental_Adept_colon__Fire.md | 18 | 18 | 0 |
+| Elemental_Adept_colon__Lightning.md | 18 | 18 | 0 |
+| Elemental_Adept_colon__Thunder.md | 14 | 14 | 0 |
+| Elemental_Affinity_colon__Damage.md | 24 | 24 | 0 |
+| Elemental_Affinity_colon__Resistance.md | 55 | 55 | 0 |
+| Elemental_Retort_(passive_feature).md | 20 | 20 | 0 |
+| Elemental_Siphon.md | 29 | 29 | 0 |
+| Elementals.md | 113 | 113 | 0 |
 | Experimental_Alchemy.md | 16 | 16 | 0 |
 | Expertise_(passive_feature).md | 19 | 19 | 0 |
 | Exploit_Weakness.md | 39 | 39 | 0 |
@@ -6543,26 +6504,6 @@
 | Fables_of_Faerûn_II_colon__The_Daring_Duergar.md | 57 | 57 | 0 |
 | Fables_of_Faerûn_IV_colon__The_Magnanimous_Miner.md | 57 | 57 | 0 |
 | Fables_of_Faerûn_I_colon__The_Dimwitted_Drow.md | 55 | 55 | 0 |
-| File_colon_Karmic_dice_setting.png.md | 4 | 4 | 0 |
-| File_colon_Last_Light_Inn.webp.md | 8 | 8 | 0 |
-| File_colon_Long_Rest.webp.md | 4 | 4 | 0 |
-| File_colon_Proficiency.png.md | 8 | 8 | 0 |
-| File_colon_Prologue-01.jpg.md | 4 | 4 | 0 |
-| File_colon_Prologue-02.jpg.md | 4 | 4 | 0 |
-| File_colon_Prologue-04.jpg.md | 4 | 4 | 0 |
-| File_colon_Prologue-07.jpg.md | 4 | 4 | 0 |
-| File_colon_Prologue-08.jpg.md | 4 | 4 | 0 |
-| File_colon_Prologue-09.jpg.md | 4 | 4 | 0 |
-| File_colon_Prologue.webp.md | 4 | 4 | 0 |
-| File_colon_Reithwin_Town.webp.md | 4 | 4 | 0 |
-| File_colon_Ruined_Battlefield.webp.md | 4 | 4 | 0 |
-| File_colon_Screen_Astral_Plane_South_East_A.jpg.md | 8 | 8 | 0 |
-| File_colon_Screen_View_South_Building_Rosymorn_Monastery.jpg.md | 8 | 8 | 0 |
-| File_colon_Tadpole_power_example.png.md | 4 | 4 | 0 |
-| File_colon_Undercity_Ruins.jpg.md | 8 | 8 | 0 |
-| File_colon_Underdark.jpg.md | 4 | 4 | 0 |
-| Final_Warning.md | 30 | 30 | 0 |
-| Final_Warning_(Windmill).md | 30 | 30 | 0 |
 | Elixir_of_Strength.md | 11 | 11 | 0 |
 | Elixir_of_Tiefling_Vice.md | 37 | 37 | 0 |
 | Elizabeth_M._Soot.md | 19 | 19 | 0 |
@@ -6575,17 +6516,6 @@
 | Elven_Elegance_(Condition).md | 24 | 24 | 0 |
 | Elven_Eminence.md | 26 | 26 | 0 |
 | Elven_Weapon_Training.md | 22 | 22 | 0 |
-| Elemental.md | 113 | 113 | 0 |
-| Elemental_Adept_colon__Acid.md | 18 | 18 | 0 |
-| Elemental_Adept_colon__Cold.md | 18 | 18 | 0 |
-| Elemental_Adept_colon__Fire.md | 18 | 18 | 0 |
-| Elemental_Adept_colon__Lightning.md | 18 | 18 | 0 |
-| Elemental_Adept_colon__Thunder.md | 14 | 14 | 0 |
-| Elemental_Affinity_colon__Damage.md | 24 | 24 | 0 |
-| Elemental_Affinity_colon__Resistance.md | 55 | 55 | 0 |
-| Elemental_Retort_(passive_feature).md | 20 | 20 | 0 |
-| Elemental_Siphon.md | 29 | 29 | 0 |
-| Elementals.md | 113 | 113 | 0 |
 | Ethereal.md | 24 | 24 | 0 |
 | Ethereal_Escape.md | 33 | 33 | 0 |
 | Ethereal_Escape_(Condition).md | 25 | 25 | 0 |
@@ -6614,6 +6544,39 @@
 | Exotic_Material.md | 23 | 23 | 0 |
 | Experienced_And_Deadly.md | 16 | 16 | 0 |
 | Experiment_on_Cruor.md | 42 | 42 | 0 |
+| File_colon_Karmic_dice_setting.png.md | 4 | 4 | 0 |
+| File_colon_Last_Light_Inn.webp.md | 8 | 8 | 0 |
+| File_colon_Long_Rest.webp.md | 4 | 4 | 0 |
+| File_colon_Proficiency.png.md | 8 | 8 | 0 |
+| File_colon_Prologue-01.jpg.md | 4 | 4 | 0 |
+| File_colon_Prologue-02.jpg.md | 4 | 4 | 0 |
+| File_colon_Prologue-04.jpg.md | 4 | 4 | 0 |
+| File_colon_Prologue-07.jpg.md | 4 | 4 | 0 |
+| File_colon_Prologue-08.jpg.md | 4 | 4 | 0 |
+| File_colon_Prologue-09.jpg.md | 4 | 4 | 0 |
+| File_colon_Prologue.webp.md | 4 | 4 | 0 |
+| File_colon_Reithwin_Town.webp.md | 4 | 4 | 0 |
+| File_colon_Ruined_Battlefield.webp.md | 4 | 4 | 0 |
+| File_colon_Screen_Astral_Plane_South_East_A.jpg.md | 8 | 8 | 0 |
+| File_colon_Screen_View_South_Building_Rosymorn_Monastery.jpg.md | 8 | 8 | 0 |
+| File_colon_Tadpole_power_example.png.md | 4 | 4 | 0 |
+| File_colon_Undercity_Ruins.jpg.md | 8 | 8 | 0 |
+| File_colon_Underdark.jpg.md | 4 | 4 | 0 |
+| Final_Warning.md | 30 | 30 | 0 |
+| Final_Warning_(Windmill).md | 30 | 30 | 0 |
+| Cloudkill_(Condition).md | 26 | 26 | 0 |
+| Cloudkill_(cloud).md | 30 | 30 | 0 |
+| Clown's_Severed_Arm.md | 26 | 26 | 0 |
+| Clown's_Severed_Head.md | 26 | 26 | 0 |
+| Clown's_Severed_Pelvis.md | 26 | 26 | 0 |
+| Clown's_Severed_Torso.md | 26 | 26 | 0 |
+| Clown_Hammer.md | 63 | 63 | 0 |
+| Club.md | 33 | 33 | 0 |
+| Club_+1.md | 34 | 34 | 0 |
+| Coal.md | 12 | 12 | 0 |
+| Coal_Bucket.md | 19 | 19 | 0 |
+| Coast.md | 41 | 41 | 0 |
+| Cocooned_(Condition).md | 36 | 36 | 0 |
 | Emblazoned_Plate_of_the_Marshal.md | 55 | 55 | 0 |
 | Emboldening_the_Craven_Heart.md | 24 | 24 | 0 |
 | Embrace_Modernity.md | 34 | 34 | 0 |
@@ -6639,19 +6602,6 @@
 | Enforcer_Club.md | 45 | 45 | 0 |
 | Enforcer_Helm.md | 30 | 30 | 0 |
 | Enforcer_Helmet.md | 30 | 30 | 0 |
-| Cloudkill_(Condition).md | 26 | 26 | 0 |
-| Cloudkill_(cloud).md | 30 | 30 | 0 |
-| Clown's_Severed_Arm.md | 26 | 26 | 0 |
-| Clown's_Severed_Head.md | 26 | 26 | 0 |
-| Clown's_Severed_Pelvis.md | 26 | 26 | 0 |
-| Clown's_Severed_Torso.md | 26 | 26 | 0 |
-| Clown_Hammer.md | 63 | 63 | 0 |
-| Club.md | 33 | 33 | 0 |
-| Club_+1.md | 34 | 34 | 0 |
-| Coal.md | 12 | 12 | 0 |
-| Coal_Bucket.md | 19 | 19 | 0 |
-| Coast.md | 41 | 41 | 0 |
-| Cocooned_(Condition).md | 36 | 36 | 0 |
 | Flophouse_Tenants_Logs.md | 52 | 52 | 0 |
 | Flora_of_the_Dalelands.md | 33 | 33 | 0 |
 | Florrick's_Demotion_Notice.md | 40 | 40 | 0 |
@@ -6673,24 +6623,6 @@
 | Focused_Conjuration.md | 32 | 32 | 0 |
 | Foebreaker.md | 59 | 59 | 0 |
 | Fog.md | 73 | 73 | 0 |
-| Feigning_Death_(Condition).md | 30 | 30 | 0 |
-| Feline_Fall.md | 16 | 16 | 0 |
-| Feller_of_Monsters.md | 25 | 25 | 0 |
-| Felogyr's_Fireworks_Cellar_Key.md | 26 | 26 | 0 |
-| Feral_Instinct.md | 26 | 26 | 0 |
-| Festering_Frenzy_(Condition).md | 31 | 31 | 0 |
-| Festering_Spores_(Condition).md | 33 | 33 | 0 |
-| Feverish_(Condition).md | 37 | 37 | 0 |
-| Fey.md | 119 | 119 | 0 |
-| Fey_Ancestry.md | 22 | 22 | 0 |
-| Fey_Life.md | 24 | 24 | 0 |
-| Fey_Semblance_Amulet.md | 25 | 25 | 0 |
-| Feywild_Sparks.md | 22 | 22 | 0 |
-| Feywild_Sparks_(Condition).md | 22 | 22 | 0 |
-| Ffion's_Journal.md | 32 | 32 | 0 |
-| Field_Report_-_Deathstalker_Zumm.md | 32 | 32 | 0 |
-| Fiend.md | 260 | 260 | 0 |
-| Fiendish_Blessing.md | 20 | 20 | 0 |
 | Fire_Breath_(disambiguation).md | 13 | 13 | 0 |
 | Fire_Explosive.md | 21 | 21 | 0 |
 | Fireheart.md | 40 | 40 | 0 |
@@ -6710,6 +6642,24 @@
 | Fish_Skeleton.md | 19 | 19 | 0 |
 | Fishing_Rod.md | 22 | 22 | 0 |
 | Fishing_Rod_of_Alertness.md | 22 | 22 | 0 |
+| Feigning_Death_(Condition).md | 30 | 30 | 0 |
+| Feline_Fall.md | 16 | 16 | 0 |
+| Feller_of_Monsters.md | 25 | 25 | 0 |
+| Felogyr's_Fireworks_Cellar_Key.md | 26 | 26 | 0 |
+| Feral_Instinct.md | 26 | 26 | 0 |
+| Festering_Frenzy_(Condition).md | 31 | 31 | 0 |
+| Festering_Spores_(Condition).md | 33 | 33 | 0 |
+| Feverish_(Condition).md | 37 | 37 | 0 |
+| Fey.md | 119 | 119 | 0 |
+| Fey_Ancestry.md | 22 | 22 | 0 |
+| Fey_Life.md | 24 | 24 | 0 |
+| Fey_Semblance_Amulet.md | 25 | 25 | 0 |
+| Feywild_Sparks.md | 22 | 22 | 0 |
+| Feywild_Sparks_(Condition).md | 22 | 22 | 0 |
+| Ffion's_Journal.md | 32 | 32 | 0 |
+| Field_Report_-_Deathstalker_Zumm.md | 32 | 32 | 0 |
+| Fiend.md | 260 | 260 | 0 |
+| Fiendish_Blessing.md | 20 | 20 | 0 |
 | Fables_of_Faerûn_VI_colon__The_Cheerful_Deep_Gnome.md | 47 | 47 | 0 |
 | Fables_of_Faerûn_V_colon__The_Boy_and_the_Beholder.md | 56 | 56 | 0 |
 | Fables_of_Rashemi.md | 26 | 26 | 0 |
@@ -6751,6 +6701,27 @@
 | Flaming_Aura_(Condition).md | 36 | 36 | 0 |
 | Flaming_Fist_Company_Applications_Approved.md | 32 | 32 | 0 |
 | Flaming_Fist_History.md | 38 | 38 | 0 |
+| Fiendish_Obeisance_(Condition).md | 37 | 37 | 0 |
+| Fiendish_Obeisance_colon__Kneel_(Condition).md | 18 | 18 | 0 |
+| Fiendish_Vice_(Condition).md | 38 | 38 | 0 |
+| Fiendish_Vigour.md | 22 | 22 | 0 |
+| Fiends.md | 260 | 260 | 0 |
+| Fierce_Perilous_Stakes_(Condition).md | 24 | 24 | 0 |
+| Fiery_Brew_(Condition).md | 44 | 44 | 0 |
+| Figaro's_Chest_Key_(Basement).md | 25 | 25 | 0 |
+| Figaro's_Hand.md | 22 | 22 | 0 |
+| Comfortable_Blue-Red_Outfit.md | 36 | 36 | 0 |
+| Comfortable_Red_Shirt.md | 40 | 40 | 0 |
+| Command_colon__Grovel_(Condition).md | 37 | 37 | 0 |
+| Commission_for_Formalwear.md | 28 | 28 | 0 |
+| Common_Special_Arrow_Subtable.md | 17 | 17 | 0 |
+| Common_Table-Wine.md | 57 | 57 | 0 |
+| Community_Updates.md | 10 | 10 | 0 |
+| Companion's_Bond.md | 35 | 35 | 0 |
+| Companion.md | 385 | 385 | 0 |
+| Concerning_My_Debt.md | 28 | 28 | 0 |
+| Concerning_Orin_the_Red.md | 30 | 30 | 0 |
+| Conch_Shell.md | 45 | 45 | 0 |
 | False_Spear_of_the_Night.md | 39 | 39 | 0 |
 | Faltering_Will_(Condition).md | 26 | 26 | 0 |
 | Fanatic_Retaliation.md | 44 | 44 | 0 |
@@ -6799,6 +6770,24 @@
 | Gleamdance_Dagger.md | 49 | 49 | 0 |
 | Gleamdance_Dagger_colon__Glowing.md | 32 | 32 | 0 |
 | Gleamdancer.md | 20 | 20 | 0 |
+| Gore_(disambiguation).md | 11 | 11 | 0 |
+| Gorion_Mausoleum.md | 52 | 52 | 0 |
+| Gorion_Mausoleum_Key.md | 26 | 26 | 0 |
+| Goris'_Chest_Key.md | 22 | 22 | 0 |
+| Gortash's_Chest_Key.md | 26 | 26 | 0 |
+| Gortash's_Netherstone.md | 16 | 16 | 0 |
+| Gortash_Black_List.md | 30 | 30 | 0 |
+| Gortash_Coronation_Poster.md | 28 | 28 | 0 |
+| Gossamer_Tomb_(Condition).md | 32 | 32 | 0 |
+| Got_the_Itch_to_Wander_q_.md | 34 | 34 | 0 |
+| Got_the_Shivering_Fantods.md | 32 | 32 | 0 |
+| Grand_Infernal_Painting.md | 21 | 21 | 0 |
+| Grand_Mausoleum.md | 182 | 182 | 0 |
+| Grand_Slam.md | 59 | 59 | 0 |
+| Grappled_(Condition).md | 29 | 29 | 0 |
+| Grappled_(Tentacle)_(Condition).md | 29 | 29 | 0 |
+| Grasp_Essence_(Condition).md | 44 | 44 | 0 |
+| Grasping_Arrow_colon__Entangled_(Condition).md | 29 | 29 | 0 |
 | Glutted_Catacombs_(Condition).md | 28 | 28 | 0 |
 | Gnarled_Tree_Branch.md | 44 | 44 | 0 |
 | Gnoll.md | 63 | 63 | 0 |
@@ -6831,6 +6820,19 @@
 | Frumpy_Hat.md | 16 | 16 | 0 |
 | Fugitive_(Condition).md | 26 | 26 | 0 |
 | Fulfill_the_Deal.md | 49 | 49 | 0 |
+| Elf.md | 148 | 148 | 0 |
+| Elfsong.md | 376 | 376 | 0 |
+| Elfsong_Tavern.md | 376 | 376 | 0 |
+| Elixir_of_Cold_Resistance.md | 43 | 43 | 0 |
+| Elixir_of_Dragonborn_Prowess_colon__Acid.md | 36 | 36 | 0 |
+| Elixir_of_Dragonborn_Prowess_colon__Fire.md | 36 | 36 | 0 |
+| Elixir_of_Dragonborn_Prowess_colon__Frost.md | 36 | 36 | 0 |
+| Elixir_of_Dragonborn_Prowess_colon__Lightning.md | 36 | 36 | 0 |
+| Elixir_of_Dwarven_Resilience.md | 33 | 33 | 0 |
+| Elixir_of_Force_Resistance.md | 37 | 37 | 0 |
+| Elixir_of_Githyanki_Providence.md | 36 | 36 | 0 |
+| Elixir_of_Half-Elven_Healing.md | 37 | 37 | 0 |
+| Elixir_of_Half-Orcish_Fury.md | 33 | 33 | 0 |
 | Drow_Poison_Cloud.md | 31 | 31 | 0 |
 | Drow_Weapon_Training.md | 26 | 26 | 0 |
 | Druid.md | 488 | 488 | 0 |
@@ -6845,58 +6847,8 @@
 | Drunken_Performance.md | 23 | 23 | 0 |
 | Drunken_Technique_(Condition).md | 24 | 24 | 0 |
 | Dryad's_Blessing_(Condition).md | 34 | 34 | 0 |
+| Duckie_Verish.md | 380 | 380 | 0 |
 | Duel_colon__Murder's_Chosen_(Condition).md | 22 | 22 | 0 |
-| Elf.md | 148 | 148 | 0 |
-| Elfsong.md | 376 | 376 | 0 |
-| Elfsong_Tavern.md | 376 | 376 | 0 |
-| Elixir_of_Cold_Resistance.md | 43 | 43 | 0 |
-| Elixir_of_Dragonborn_Prowess_colon__Acid.md | 36 | 36 | 0 |
-| Elixir_of_Dragonborn_Prowess_colon__Fire.md | 36 | 36 | 0 |
-| Elixir_of_Dragonborn_Prowess_colon__Frost.md | 36 | 36 | 0 |
-| Elixir_of_Dragonborn_Prowess_colon__Lightning.md | 36 | 36 | 0 |
-| Elixir_of_Dwarven_Resilience.md | 33 | 33 | 0 |
-| Elixir_of_Force_Resistance.md | 37 | 37 | 0 |
-| Elixir_of_Githyanki_Providence.md | 36 | 36 | 0 |
-| Elixir_of_Half-Elven_Healing.md | 37 | 37 | 0 |
-| Elixir_of_Half-Orcish_Fury.md | 33 | 33 | 0 |
-| Fiendish_Obeisance_(Condition).md | 37 | 37 | 0 |
-| Fiendish_Obeisance_colon__Kneel_(Condition).md | 18 | 18 | 0 |
-| Fiendish_Vice_(Condition).md | 38 | 38 | 0 |
-| Fiendish_Vigour.md | 22 | 22 | 0 |
-| Fiends.md | 260 | 260 | 0 |
-| Fierce_Perilous_Stakes_(Condition).md | 24 | 24 | 0 |
-| Fiery_Brew_(Condition).md | 44 | 44 | 0 |
-| Figaro's_Chest_Key_(Basement).md | 25 | 25 | 0 |
-| Figaro's_Hand.md | 22 | 22 | 0 |
-| Gore_(disambiguation).md | 11 | 11 | 0 |
-| Gorion_Mausoleum.md | 52 | 52 | 0 |
-| Gorion_Mausoleum_Key.md | 26 | 26 | 0 |
-| Goris'_Chest_Key.md | 22 | 22 | 0 |
-| Gortash's_Chest_Key.md | 26 | 26 | 0 |
-| Gortash's_Netherstone.md | 16 | 16 | 0 |
-| Gortash_Black_List.md | 30 | 30 | 0 |
-| Gortash_Coronation_Poster.md | 28 | 28 | 0 |
-| Gossamer_Tomb_(Condition).md | 32 | 32 | 0 |
-| Got_the_Itch_to_Wander_q_.md | 34 | 34 | 0 |
-| Got_the_Shivering_Fantods.md | 32 | 32 | 0 |
-| Grand_Infernal_Painting.md | 21 | 21 | 0 |
-| Grand_Mausoleum.md | 182 | 182 | 0 |
-| Grand_Slam.md | 59 | 59 | 0 |
-| Grappled_(Condition).md | 29 | 29 | 0 |
-| Grappled_(Tentacle)_(Condition).md | 29 | 29 | 0 |
-| Grasp_Essence_(Condition).md | 44 | 44 | 0 |
-| Grasping_Arrow_colon__Entangled_(Condition).md | 29 | 29 | 0 |
-| Funerary_Jar_Form_and_Function.md | 42 | 42 | 0 |
-| Fungal_Resistance.md | 20 | 20 | 0 |
-| Fungal_Resurrection_(Condition).md | 30 | 30 | 0 |
-| Fury_In_The_Marrow.md | 24 | 24 | 0 |
-| Fury_of_the_Small.md | 31 | 31 | 0 |
-| Gale's_Austere_Clothes.md | 26 | 26 | 0 |
-| Gale's_Severed_Hand.md | 23 | 23 | 0 |
-| Galvanic_Currents.md | 22 | 22 | 0 |
-| Galvanic_Currents_(Condition).md | 16 | 16 | 0 |
-| Galvanise.md | 35 | 35 | 0 |
-| Gandrel's_Aspiration.md | 70 | 70 | 0 |
 | Flaming_Fist_Writ_of_Command.md | 38 | 38 | 0 |
 | Flaming_Revenge.md | 20 | 20 | 0 |
 | Flask_of_Light.md | 56 | 56 | 0 |
@@ -6922,6 +6874,37 @@
 | Ghastly_Bottle.md | 19 | 19 | 0 |
 | Ghastly_Fume_(Condition).md | 28 | 28 | 0 |
 | Ghost.md | 64 | 64 | 0 |
+| Ghush'ins.md | 385 | 385 | 0 |
+| Funerary_Jar_Form_and_Function.md | 42 | 42 | 0 |
+| Fungal_Resistance.md | 20 | 20 | 0 |
+| Fungal_Resurrection_(Condition).md | 30 | 30 | 0 |
+| Fury_In_The_Marrow.md | 24 | 24 | 0 |
+| Fury_of_the_Small.md | 31 | 31 | 0 |
+| Gale's_Austere_Clothes.md | 26 | 26 | 0 |
+| Gale's_Severed_Hand.md | 23 | 23 | 0 |
+| Galvanic_Currents.md | 22 | 22 | 0 |
+| Galvanic_Currents_(Condition).md | 16 | 16 | 0 |
+| Galvanise.md | 35 | 35 | 0 |
+| Gandrel's_Aspiration.md | 70 | 70 | 0 |
+| Giant's_Rage.md | 52 | 52 | 0 |
+| Giant.md | 11 | 11 | 0 |
+| Giant_(barbarian_subclass).md | 48 | 48 | 0 |
+| Giant_(creature_type).md | 48 | 48 | 0 |
+| Giant_Barbarian.md | 48 | 48 | 0 |
+| Giantbreaker.md | 51 | 51 | 0 |
+| Giantslayer.md | 21 | 21 | 0 |
+| Gibus_of_the_Worshipful_Servant.md | 50 | 50 | 0 |
+| Gift_Note.md | 34 | 34 | 0 |
+| Gift_from_the_Absolute.md | 26 | 26 | 0 |
+| Gilbert_Irlentree.md | 22 | 22 | 0 |
+| Gilded_Mortar_and_Pestle.md | 22 | 22 | 0 |
+| Gith.md | 13 | 13 | 0 |
+| Gith_Shard.md | 19 | 19 | 0 |
+| Githborn_Psionic_Resistance.md | 28 | 28 | 0 |
+| Githborn_Psionic_Weapon.md | 28 | 28 | 0 |
+| Githborn_Psionic_Weapon_(1d6).md | 22 | 22 | 0 |
+| Githyanki.md | 124 | 124 | 0 |
+| Githyanki_Barrier_Disruptor.md | 14 | 14 | 0 |
 | Guildhall.md | 350 | 350 | 0 |
 | Guildmaster's_Orders.md | 26 | 26 | 0 |
 | Gulthmeran_Reserve.md | 56 | 56 | 0 |
@@ -6981,46 +6964,6 @@
 | Hand-Drawn_Map.md | 28 | 28 | 0 |
 | Hand_Crossbow.md | 48 | 48 | 0 |
 | Hand_Crossbow_(Yurgir).md | 41 | 41 | 0 |
-| Giant's_Rage.md | 52 | 52 | 0 |
-| Giant.md | 11 | 11 | 0 |
-| Giant_(barbarian_subclass).md | 48 | 48 | 0 |
-| Giant_(creature_type).md | 48 | 48 | 0 |
-| Giant_Barbarian.md | 48 | 48 | 0 |
-| Giantbreaker.md | 51 | 51 | 0 |
-| Giantslayer.md | 21 | 21 | 0 |
-| Gibus_of_the_Worshipful_Servant.md | 50 | 50 | 0 |
-| Gift_Note.md | 34 | 34 | 0 |
-| Gift_from_the_Absolute.md | 26 | 26 | 0 |
-| Gilbert_Irlentree.md | 22 | 22 | 0 |
-| Gilded_Mortar_and_Pestle.md | 22 | 22 | 0 |
-| Gith.md | 13 | 13 | 0 |
-| Gith_Shard.md | 19 | 19 | 0 |
-| Githborn_Psionic_Resistance.md | 28 | 28 | 0 |
-| Githborn_Psionic_Weapon.md | 28 | 28 | 0 |
-| Githborn_Psionic_Weapon_(1d6).md | 22 | 22 | 0 |
-| Githyanki.md | 124 | 124 | 0 |
-| Githyanki_Barrier_Disruptor.md | 14 | 14 | 0 |
-| Camp_Chest_Key.md | 22 | 22 | 0 |
-| Camp_Events.md | 637 | 637 | 0 |
-| Camp_Follower.md | 128 | 128 | 0 |
-| Camp_Followers.md | 128 | 128 | 0 |
-| Campaign_Report.md | 38 | 38 | 0 |
-| Candle.md | 45 | 45 | 0 |
-| Canteen.md | 19 | 19 | 0 |
-| Canticles_of_the_Dark_Mistress.md | 47 | 47 | 0 |
-| Cap_and_Bells.md | 26 | 26 | 0 |
-| Cap_of_Curing.md | 40 | 40 | 0 |
-| Cap_of_Wrath.md | 34 | 34 | 0 |
-| Captives_of_Shar.md | 34 | 34 | 0 |
-| Capture_Isobel_the_Selûnite_Cleric.md | 117 | 117 | 0 |
-| Capture_Orders.md | 30 | 30 | 0 |
-| Carafe_of_Water.md | 54 | 54 | 0 |
-| Carafe_of_Wine.md | 192 | 192 | 0 |
-| Care_for_Creatures_of_the_Astral_Plane.md | 26 | 26 | 0 |
-| Careful_Veil.md | 16 | 16 | 0 |
-| Caretaker's_Care.md | 20 | 20 | 0 |
-| Cargo_Shipment.md | 32 | 32 | 0 |
-| Carm's_Garms.md | 79 | 79 | 0 |
 | Equipment.md | 149 | 149 | 0 |
 | Escape_the_Deal.md | 172 | 172 | 0 |
 | Escape_the_Horde.md | 20 | 20 | 0 |
@@ -7038,6 +6981,52 @@
 | Ethel's_Lair_Key.md | 23 | 23 | 0 |
 | Ethel's_Twisted_Blessing.md | 16 | 16 | 0 |
 | Ether-Essence_Slumber_(Condition).md | 40 | 40 | 0 |
+| Cull_the_Weak_(Drider).md | 26 | 26 | 0 |
+| Culling_Strikes.md | 16 | 16 | 0 |
+| Cultist_Brand.md | 30 | 30 | 0 |
+| Cunning_Combo.md | 20 | 20 | 0 |
+| Cup_of_Endless_Water.md | 27 | 27 | 0 |
+| Curative_Antidote_(Condition).md | 26 | 26 | 0 |
+| Curdled_Liver_(Condition).md | 26 | 26 | 0 |
+| Curfew_(Confidential_Orders).md | 32 | 32 | 0 |
+| Curled_Missing_Poster.md | 36 | 36 | 0 |
+| Curled_Paper.md | 38 | 38 | 0 |
+| Current_Orders.md | 32 | 32 | 0 |
+| Curse-Breakers_or_Curse-Makers_q_.md | 22 | 22 | 0 |
+| Curse_of_Regret_(Condition).md | 28 | 28 | 0 |
+| Curse_of_the_Sired_(Condition).md | 26 | 26 | 0 |
+| Cursed_Skull_(Condition).md | 34 | 34 | 0 |
+| Diadem_of_Arcane_Synergy.md | 39 | 39 | 0 |
+| Dialogue.md | 91 | 91 | 0 |
+| Diamond-Stitch_Sandals.md | 26 | 26 | 0 |
+| Diamond_Blue_Doublet.md | 34 | 34 | 0 |
+| Diamond_Pattern_Garb.md | 34 | 34 | 0 |
+| Diamondsbane.md | 18 | 18 | 0 |
+| Diary,_1492DR,_Ffion_Goldgrind.md | 30 | 30 | 0 |
+| Diary_of_Ketheric_Thorm,_Vol_1.md | 58 | 58 | 0 |
+| Diary_of_Ketheric_Thorm,_Vol_2.md | 44 | 44 | 0 |
+| Diary_of_Ketheric_Thorm,_Vol_3.md | 42 | 42 | 0 |
+| Diary_of_a_Mage.md | 28 | 28 | 0 |
+| Digestive_Juices_(Condition).md | 34 | 34 | 0 |
+| Dinner_Planning.md | 28 | 28 | 0 |
+| Dinner_at_Candlekeep_q_.md | 30 | 30 | 0 |
+| Greater_Toughness_(Condition).md | 25 | 25 | 0 |
+| Greater_Wyrm's_Scales.md | 18 | 18 | 0 |
+| Greatsword.md | 83 | 83 | 0 |
+| Greatsword_+1.md | 45 | 45 | 0 |
+| Greatsword_+1_(Common).md | 44 | 44 | 0 |
+| Greatswords.md | 72 | 72 | 0 |
+| Green_Bed_Regeneration.md | 22 | 22 | 0 |
+| Green_Bed_Regeneration_(Condition).md | 27 | 27 | 0 |
+| Green_Dragonborn.md | 281 | 281 | 0 |
+| Green_Flare_Leather_Outfit.md | 34 | 34 | 0 |
+| Gregarious_Caster.md | 20 | 20 | 0 |
+| Grieving_(Condition).md | 26 | 26 | 0 |
+| Grilled_Cormorant.md | 20 | 20 | 0 |
+| Grilled_Pork_Belly.md | 20 | 20 | 0 |
+| Grilled_Steak.md | 20 | 20 | 0 |
+| Grim_Harvest.md | 36 | 36 | 0 |
+| Grim_Visage.md | 46 | 46 | 0 |
 | Goblinbane_Dagger.md | 46 | 46 | 0 |
 | Goblins.md | 67 | 67 | 0 |
 | Goblins_colon__The_Maglubiyet_Gambit.md | 45 | 45 | 0 |
@@ -7059,52 +7048,27 @@
 | Gontr_Mael.md | 81 | 81 | 0 |
 | Gontr_Mael_colon__Glowing.md | 28 | 28 | 0 |
 | Goodberry_(Item).md | 30 | 30 | 0 |
-| Cull_the_Weak_(Drider).md | 26 | 26 | 0 |
-| Culling_Strikes.md | 16 | 16 | 0 |
-| Cultist_Brand.md | 30 | 30 | 0 |
-| Cunning_Combo.md | 20 | 20 | 0 |
-| Cup_of_Endless_Water.md | 27 | 27 | 0 |
-| Curative_Antidote_(Condition).md | 26 | 26 | 0 |
-| Curdled_Liver_(Condition).md | 26 | 26 | 0 |
-| Curfew_(Confidential_Orders).md | 32 | 32 | 0 |
-| Curled_Missing_Poster.md | 36 | 36 | 0 |
-| Curled_Paper.md | 38 | 38 | 0 |
-| Current_Orders.md | 32 | 32 | 0 |
-| Curse-Breakers_or_Curse-Makers_q_.md | 22 | 22 | 0 |
-| Curse_of_Regret_(Condition).md | 28 | 28 | 0 |
-| Curse_of_the_Sired_(Condition).md | 26 | 26 | 0 |
-| Cursed_Skull_(Condition).md | 34 | 34 | 0 |
-| Greater_Toughness_(Condition).md | 25 | 25 | 0 |
-| Greater_Wyrm's_Scales.md | 18 | 18 | 0 |
-| Greatsword.md | 83 | 83 | 0 |
-| Greatsword_+1.md | 45 | 45 | 0 |
-| Greatsword_+1_(Common).md | 44 | 44 | 0 |
-| Greatswords.md | 72 | 72 | 0 |
-| Green_Bed_Regeneration.md | 22 | 22 | 0 |
-| Green_Bed_Regeneration_(Condition).md | 27 | 27 | 0 |
-| Green_Dragonborn.md | 281 | 281 | 0 |
-| Green_Flare_Leather_Outfit.md | 34 | 34 | 0 |
-| Gregarious_Caster.md | 20 | 20 | 0 |
-| Grieving_(Condition).md | 26 | 26 | 0 |
-| Grilled_Cormorant.md | 20 | 20 | 0 |
-| Grilled_Pork_Belly.md | 20 | 20 | 0 |
-| Grilled_Steak.md | 20 | 20 | 0 |
-| Grim_Harvest.md | 36 | 36 | 0 |
-| Grim_Visage.md | 46 | 46 | 0 |
-| Diadem_of_Arcane_Synergy.md | 39 | 39 | 0 |
-| Dialogue.md | 91 | 91 | 0 |
-| Diamond-Stitch_Sandals.md | 26 | 26 | 0 |
-| Diamond_Blue_Doublet.md | 34 | 34 | 0 |
-| Diamond_Pattern_Garb.md | 34 | 34 | 0 |
-| Diamondsbane.md | 18 | 18 | 0 |
-| Diary,_1492DR,_Ffion_Goldgrind.md | 30 | 30 | 0 |
-| Diary_of_Ketheric_Thorm,_Vol_1.md | 58 | 58 | 0 |
-| Diary_of_Ketheric_Thorm,_Vol_2.md | 44 | 44 | 0 |
-| Diary_of_Ketheric_Thorm,_Vol_3.md | 42 | 42 | 0 |
-| Diary_of_a_Mage.md | 28 | 28 | 0 |
-| Digestive_Juices_(Condition).md | 34 | 34 | 0 |
-| Dinner_Planning.md | 28 | 28 | 0 |
-| Dinner_at_Candlekeep_q_.md | 30 | 30 | 0 |
+| Camp_Chest_Key.md | 22 | 22 | 0 |
+| Camp_Events.md | 637 | 637 | 0 |
+| Camp_Follower.md | 128 | 128 | 0 |
+| Camp_Followers.md | 128 | 128 | 0 |
+| Campaign_Report.md | 38 | 38 | 0 |
+| Candle.md | 45 | 45 | 0 |
+| Canteen.md | 19 | 19 | 0 |
+| Canticles_of_the_Dark_Mistress.md | 47 | 47 | 0 |
+| Cap_and_Bells.md | 26 | 26 | 0 |
+| Cap_of_Curing.md | 40 | 40 | 0 |
+| Cap_of_Wrath.md | 34 | 34 | 0 |
+| Captives_of_Shar.md | 34 | 34 | 0 |
+| Capture_Isobel_the_Selûnite_Cleric.md | 117 | 117 | 0 |
+| Capture_Orders.md | 30 | 30 | 0 |
+| Carafe_of_Water.md | 54 | 54 | 0 |
+| Carafe_of_Wine.md | 192 | 192 | 0 |
+| Care_for_Creatures_of_the_Astral_Plane.md | 26 | 26 | 0 |
+| Careful_Veil.md | 16 | 16 | 0 |
+| Caretaker's_Care.md | 20 | 20 | 0 |
+| Cargo_Shipment.md | 32 | 32 | 0 |
+| Carm's_Garms.md | 79 | 79 | 0 |
 | Hoots'_Hooch_colon__Photosensitivity_(Condition).md | 30 | 30 | 0 |
 | Hoots'_Hooch_colon__Stoned_(Condition).md | 30 | 30 | 0 |
 | Hope's_Prison.md | 421 | 421 | 0 |
@@ -7147,25 +7111,6 @@
 | Hellish_Resistance.md | 26 | 26 | 0 |
 | Hellrider_Longbow.md | 61 | 61 | 0 |
 | Helm-Embossed_Journal.md | 40 | 40 | 0 |
-| Folksongs_of_Faerûn.md | 38 | 38 | 0 |
-| Follow_the_Convoy.md | 80 | 80 | 0 |
-| Fond_Caress.md | 16 | 16 | 0 |
-| Font_of_Inspiration.md | 24 | 24 | 0 |
-| Food_Supply_Table_12.md | 14 | 14 | 0 |
-| Foolish_Little_Pup_(Condition).md | 20 | 20 | 0 |
-| For_Duke_Stelmane.md | 30 | 30 | 0 |
-| For_the_Eyes_Of_Lady_Jannath_ONLY.md | 32 | 32 | 0 |
-| Forbidden_Knowledge.md | 18 | 18 | 0 |
-| Force_Conduit_(Condition).md | 46 | 46 | 0 |
-| Force_Steadfast_(Condition).md | 22 | 22 | 0 |
-| Forced_Manoeuvre_(Condition).md | 28 | 28 | 0 |
-| Forest.md | 177 | 177 | 0 |
-| Forest_(passive_feature).md | 43 | 43 | 0 |
-| Forest_Gnome.md | 149 | 149 | 0 |
-| Forever_Indebted_(passive_feature).md | 24 | 24 | 0 |
-| Forge.md | 15 | 15 | 0 |
-| Forge_Construction_Log.md | 36 | 36 | 0 |
-| Forging_Success.md | 34 | 34 | 0 |
 | Grassland.md | 41 | 41 | 0 |
 | Grave-dusty_Diary.md | 25 | 25 | 0 |
 | Gravekeeper's_Journal.md | 40 | 40 | 0 |
@@ -7200,6 +7145,7 @@
 | Hunter's_Mark_Quarry_(Condition).md | 24 | 24 | 0 |
 | Hunter.md | 44 | 44 | 0 |
 | Hunting_Shortbow.md | 54 | 54 | 0 |
+| Hurk.md | 346 | 346 | 0 |
 | Hypnotic_Gaze_(Condition).md | 44 | 44 | 0 |
 | Hypnotised_(Condition).md | 28 | 28 | 0 |
 | Hysterical_(Condition).md | 28 | 28 | 0 |
@@ -7221,6 +7167,25 @@
 | Hide_Armour_+1.md | 57 | 57 | 0 |
 | Hideous_Laughter_(Condition).md | 32 | 32 | 0 |
 | Hideout.md | 14 | 14 | 0 |
+| Folksongs_of_Faerûn.md | 38 | 38 | 0 |
+| Follow_the_Convoy.md | 80 | 80 | 0 |
+| Fond_Caress.md | 16 | 16 | 0 |
+| Font_of_Inspiration.md | 24 | 24 | 0 |
+| Food_Supply_Table_12.md | 14 | 14 | 0 |
+| Foolish_Little_Pup_(Condition).md | 20 | 20 | 0 |
+| For_Duke_Stelmane.md | 30 | 30 | 0 |
+| For_the_Eyes_Of_Lady_Jannath_ONLY.md | 32 | 32 | 0 |
+| Forbidden_Knowledge.md | 18 | 18 | 0 |
+| Force_Conduit_(Condition).md | 46 | 46 | 0 |
+| Force_Steadfast_(Condition).md | 22 | 22 | 0 |
+| Forced_Manoeuvre_(Condition).md | 28 | 28 | 0 |
+| Forest.md | 177 | 177 | 0 |
+| Forest_(passive_feature).md | 43 | 43 | 0 |
+| Forest_Gnome.md | 149 | 149 | 0 |
+| Forever_Indebted_(passive_feature).md | 24 | 24 | 0 |
+| Forge.md | 15 | 15 | 0 |
+| Forge_Construction_Log.md | 36 | 36 | 0 |
+| Forging_Success.md | 34 | 34 | 0 |
 | Glimpse_of_Freedom_(Condition).md | 26 | 26 | 0 |
 | Glitter_Gala.md | 108 | 108 | 0 |
 | Glitter_Gala_Store_Key.md | 16 | 16 | 0 |
@@ -7261,6 +7226,28 @@
 | Harp-stamped_Letter.md | 42 | 42 | 0 |
 | Harper's_Map.md | 28 | 28 | 0 |
 | Harper's_Testimonial.md | 34 | 34 | 0 |
+| Infectious_Bite.md | 11 | 11 | 0 |
+| Infectious_Greed.md | 23 | 23 | 0 |
+| Infectious_Madness.md | 30 | 30 | 0 |
+| Infernal_Acuity.md | 20 | 20 | 0 |
+| Infernal_Armoury.md | 26 | 26 | 0 |
+| Infernal_Contracts_And_Bargains.md | 36 | 36 | 0 |
+| Infernal_Diamond.md | 26 | 26 | 0 |
+| Infernal_Evasion.md | 20 | 20 | 0 |
+| Infernal_Longsword.md | 54 | 54 | 0 |
+| Infernal_Mace.md | 60 | 60 | 0 |
+| Infernal_Mace_(Uncommon).md | 55 | 55 | 0 |
+| Infernal_Rapier.md | 76 | 76 | 0 |
+| Infernal_Robe.md | 48 | 48 | 0 |
+| Infernal_Sight.md | 24 | 24 | 0 |
+| Infernal_Spear.md | 68 | 68 | 0 |
+| Infernal_Stun_(Condition).md | 38 | 38 | 0 |
+| Infernal_Warhammer.md | 54 | 54 | 0 |
+| Infernal_Weapon_(merregon).md | 24 | 24 | 0 |
+| Infernal_gem.md | 15 | 15 | 0 |
+| Infested.md | 45 | 45 | 0 |
+| Infiltrate_Moonrise_Towers.md | 256 | 256 | 0 |
+| Infiltration_Expertise_(Condition).md | 37 | 37 | 0 |
 | Forging_a_Heart.md | 107 | 107 | 0 |
 | Forgotten_Temple.md | 31 | 31 | 0 |
 | Fork.md | 13 | 13 | 0 |
@@ -7301,42 +7288,6 @@
 | Hoots'_Hooch_colon__Bad_Breath_(Condition).md | 36 | 36 | 0 |
 | Hoots'_Hooch_colon__Beast_Tongue_(Condition).md | 31 | 31 | 0 |
 | Hoots'_Hooch_colon__Blackout_(Condition).md | 22 | 22 | 0 |
-| Infectious_Bite.md | 11 | 11 | 0 |
-| Infectious_Greed.md | 23 | 23 | 0 |
-| Infectious_Madness.md | 30 | 30 | 0 |
-| Infernal_Acuity.md | 20 | 20 | 0 |
-| Infernal_Armoury.md | 26 | 26 | 0 |
-| Infernal_Contracts_And_Bargains.md | 36 | 36 | 0 |
-| Infernal_Diamond.md | 26 | 26 | 0 |
-| Infernal_Evasion.md | 20 | 20 | 0 |
-| Infernal_Longsword.md | 54 | 54 | 0 |
-| Infernal_Mace.md | 60 | 60 | 0 |
-| Infernal_Mace_(Uncommon).md | 55 | 55 | 0 |
-| Infernal_Rapier.md | 76 | 76 | 0 |
-| Infernal_Robe.md | 48 | 48 | 0 |
-| Infernal_Sight.md | 24 | 24 | 0 |
-| Infernal_Spear.md | 68 | 68 | 0 |
-| Infernal_Stun_(Condition).md | 38 | 38 | 0 |
-| Infernal_Warhammer.md | 54 | 54 | 0 |
-| Infernal_Weapon_(merregon).md | 24 | 24 | 0 |
-| Infernal_gem.md | 15 | 15 | 0 |
-| Infested.md | 45 | 45 | 0 |
-| Infiltrate_Moonrise_Towers.md | 256 | 256 | 0 |
-| Infiltration_Expertise_(Condition).md | 37 | 37 | 0 |
-| Jhessem's_Journal.md | 30 | 30 | 0 |
-| Jolted_(Condition).md | 25 | 25 | 0 |
-| Jorgoral's_Greatsword.md | 60 | 60 | 0 |
-| Journal.md | 30 | 30 | 0 |
-| Journal_Log_of_True_Soul_Korliss.md | 38 | 38 | 0 |
-| Journal_of_Enver_Gortash.md | 30 | 30 | 0 |
-| Journal_of_Gyldro_Angleiron.md | 30 | 30 | 0 |
-| Journal_of_High_Initiate_Jarrus.md | 52 | 52 | 0 |
-| Journal_of_Magthew_Budj.md | 36 | 36 | 0 |
-| Journal_of_a_Novice_Monk.md | 33 | 33 | 0 |
-| Journey_Through_The_Jungle.md | 32 | 32 | 0 |
-| Judge_of_the_Damned.md | 34 | 34 | 0 |
-| Jug.md | 34 | 34 | 0 |
-| Juicy_Apple.md | 30 | 30 | 0 |
 | Improved_Extra_Attack.md | 28 | 28 | 0 |
 | Improved_Minor_Illusion_(passive_feature).md | 20 | 20 | 0 |
 | Improved_Unarmoured_Movement.md | 25 | 25 | 0 |
@@ -7356,6 +7307,20 @@
 | Induced_Rage_(Condition).md | 22 | 22 | 0 |
 | Inert_Astral_Prism.md | 24 | 24 | 0 |
 | Inescapable_Destruction.md | 20 | 20 | 0 |
+| Jhessem's_Journal.md | 30 | 30 | 0 |
+| Jolted_(Condition).md | 25 | 25 | 0 |
+| Jorgoral's_Greatsword.md | 60 | 60 | 0 |
+| Journal.md | 30 | 30 | 0 |
+| Journal_Log_of_True_Soul_Korliss.md | 38 | 38 | 0 |
+| Journal_of_Enver_Gortash.md | 30 | 30 | 0 |
+| Journal_of_Gyldro_Angleiron.md | 30 | 30 | 0 |
+| Journal_of_High_Initiate_Jarrus.md | 52 | 52 | 0 |
+| Journal_of_Magthew_Budj.md | 36 | 36 | 0 |
+| Journal_of_a_Novice_Monk.md | 33 | 33 | 0 |
+| Journey_Through_The_Jungle.md | 32 | 32 | 0 |
+| Judge_of_the_Damned.md | 34 | 34 | 0 |
+| Jug.md | 34 | 34 | 0 |
+| Juicy_Apple.md | 30 | 30 | 0 |
 | Knowledge_of_the_Ages_colon__Intelligence_(Condition).md | 30 | 30 | 0 |
 | Knowledge_of_the_Ages_colon__Strength_(Condition).md | 30 | 30 | 0 |
 | Knowledge_of_the_Ages_colon__Wisdom_(Condition).md | 30 | 30 | 0 |
@@ -7394,32 +7359,27 @@
 | Kiam_Goda's_Kilat_Drum.md | 34 | 34 | 0 |
 | Kibbles_for_Snicker.md | 28 | 28 | 0 |
 | Kick.md | 12 | 12 | 0 |
-| Harper_Blade.md | 43 | 43 | 0 |
-| Harper_Boots.md | 22 | 22 | 0 |
-| Harper_Finery.md | 22 | 22 | 0 |
-| Harper_Interrogation_Transcript.md | 50 | 50 | 0 |
-| Harper_Journal.md | 30 | 30 | 0 |
-| Harper_Key.md | 26 | 26 | 0 |
-| Harper_Outpost.md | 237 | 237 | 0 |
-| Harper_Report_colon__No_Leads.md | 32 | 32 | 0 |
-| Harper_Sacredstriker.md | 45 | 45 | 0 |
-| Harping_By_Moonlight_colon__An_Approach_To_Life.md | 28 | 28 | 0 |
-| Harpy_Feather.md | 20 | 20 | 0 |
-| Harrowed_(Condition).md | 31 | 31 | 0 |
-| Harrowing_Painting.md | 26 | 26 | 0 |
-| Harrowing_Presence.md | 21 | 21 | 0 |
-| Harvest_of_Memory.md | 30 | 30 | 0 |
-| Haste_Spores_(cloud).md | 39 | 39 | 0 |
-| Hastily-Written_Note_(Dead_Eyes).md | 41 | 41 | 0 |
-| Hastily_Written_Note.md | 13 | 13 | 0 |
-| Hastily_Written_Note_(Druids_Grove).md | 34 | 34 | 0 |
-| Hastily_Written_Note_(Morphic_Pool).md | 34 | 34 | 0 |
-| Hastily_Written_Note_(Night_Orchid_Cave).md | 32 | 32 | 0 |
-| Hat_Of_Uproarious_Laughter.md | 27 | 27 | 0 |
-| Hat_of_Eminent_Giggles.md | 26 | 26 | 0 |
-| Hat_of_Uninhibited_Kushigo.md | 34 | 34 | 0 |
-| Hat_of_the_Sharp_Caster.md | 40 | 40 | 0 |
-| Haunted_Approach_(Condition).md | 28 | 28 | 0 |
+| I'll_Get_You_In.md | 30 | 30 | 0 |
+| I'm_Sorry.md | 44 | 44 | 0 |
+| I_Can_Save_Your_Child.md | 34 | 34 | 0 |
+| I_Have_a_Serious_Complaint!.md | 38 | 38 | 0 |
+| I_Miss_You!.md | 32 | 32 | 0 |
+| I_Talk_to_the_Bones.md | 32 | 32 | 0 |
+| I_Told_Jorkens.md | 37 | 37 | 0 |
+| I_shall_ascend_with_him.md | 48 | 48 | 0 |
+| Ice_Cloud.md | 35 | 35 | 0 |
+| Icebite_Robe.md | 47 | 47 | 0 |
+| Icy.md | 13 | 13 | 0 |
+| Icy_Cloud_(Condition).md | 28 | 28 | 0 |
+| Icy_Crystal.md | 26 | 26 | 0 |
+| Icy_Helve.md | 26 | 26 | 0 |
+| Ideas_for_New_Outfits.md | 38 | 38 | 0 |
+| Idol.md | 12 | 12 | 0 |
+| Idyllic_Aura_(Condition).md | 33 | 33 | 0 |
+| Ignoble_Hat.md | 22 | 22 | 0 |
+| Illasera,_the_First.md | 34 | 34 | 0 |
+| Illithid_Euphoria.md | 28 | 28 | 0 |
+| Illithid_Expertise.md | 22 | 22 | 0 |
 | Legendary_Action_colon__Gossamer_Tomb.md | 34 | 34 | 0 |
 | Legendary_Action_colon__Gossamer_Tomb_(Condition).md | 26 | 26 | 0 |
 | Legendary_Action_colon__Grasping_Appendage.md | 26 | 26 | 0 |
@@ -7465,17 +7425,32 @@
 | Legendary_Action_colon__Wail_of_Loss.md | 26 | 26 | 0 |
 | Legendary_Action_colon__Wail_of_Loss_(Condition).md | 18 | 18 | 0 |
 | Legendary_Action_colon__Weird_Magic_Surge.md | 32 | 32 | 0 |
-| Jacinth.md | 18 | 18 | 0 |
-| Jack_of_All_Trades.md | 26 | 26 | 0 |
-| Jade.md | 22 | 22 | 0 |
-| Jagged_Spear.md | 55 | 55 | 0 |
-| Jake's_Encyclopaedia_of_Eels.md | 42 | 42 | 0 |
-| Jannath's_Hat.md | 25 | 25 | 0 |
-| Jannath.md | 13 | 13 | 0 |
-| Jar_of_Coagulated_Blood.md | 17 | 17 | 0 |
-| Javelin.md | 37 | 37 | 0 |
-| Javelin_+1.md | 40 | 40 | 0 |
-| Javelins.md | 57 | 57 | 0 |
+| Harper_Blade.md | 43 | 43 | 0 |
+| Harper_Boots.md | 22 | 22 | 0 |
+| Harper_Finery.md | 22 | 22 | 0 |
+| Harper_Interrogation_Transcript.md | 50 | 50 | 0 |
+| Harper_Journal.md | 30 | 30 | 0 |
+| Harper_Key.md | 26 | 26 | 0 |
+| Harper_Outpost.md | 237 | 237 | 0 |
+| Harper_Report_colon__No_Leads.md | 32 | 32 | 0 |
+| Harper_Sacredstriker.md | 45 | 45 | 0 |
+| Harping_By_Moonlight_colon__An_Approach_To_Life.md | 28 | 28 | 0 |
+| Harpy_Feather.md | 20 | 20 | 0 |
+| Harrowed_(Condition).md | 31 | 31 | 0 |
+| Harrowing_Painting.md | 26 | 26 | 0 |
+| Harrowing_Presence.md | 21 | 21 | 0 |
+| Harvest_of_Memory.md | 30 | 30 | 0 |
+| Haste_Spores_(cloud).md | 39 | 39 | 0 |
+| Hastily-Written_Note_(Dead_Eyes).md | 41 | 41 | 0 |
+| Hastily_Written_Note.md | 13 | 13 | 0 |
+| Hastily_Written_Note_(Druids_Grove).md | 34 | 34 | 0 |
+| Hastily_Written_Note_(Morphic_Pool).md | 34 | 34 | 0 |
+| Hastily_Written_Note_(Night_Orchid_Cave).md | 32 | 32 | 0 |
+| Hat_Of_Uproarious_Laughter.md | 27 | 27 | 0 |
+| Hat_of_Eminent_Giggles.md | 26 | 26 | 0 |
+| Hat_of_Uninhibited_Kushigo.md | 34 | 34 | 0 |
+| Hat_of_the_Sharp_Caster.md | 40 | 40 | 0 |
+| Haunted_Approach_(Condition).md | 28 | 28 | 0 |
 | Letter_from_Alfira.md | 90 | 90 | 0 |
 | Letter_from_Amarith.md | 40 | 40 | 0 |
 | Letter_from_Arabella.md | 11 | 11 | 0 |
@@ -7523,29 +7498,6 @@
 | Letter_from_Valeria.md | 60 | 60 | 0 |
 | Letter_from_Viconia.md | 42 | 42 | 0 |
 | Letter_from_Voss.md | 56 | 56 | 0 |
-| Legendary_Action_colon__Wretched_Growth.md | 61 | 61 | 0 |
-| Legendary_Persistence.md | 16 | 16 | 0 |
-| Legendary_Resistance_colon__Crowd_Control_(Condition).md | 17 | 17 | 0 |
-| Legendary_action.md | 112 | 112 | 0 |
-| Legendary_actions.md | 112 | 112 | 0 |
-| Legions_of_Bone_(Aura)_(Condition).md | 24 | 24 | 0 |
-| Legions_of_Bone_(Condition).md | 18 | 18 | 0 |
-| Lemon.md | 26 | 26 | 0 |
-| Leon's_Diary.md | 28 | 28 | 0 |
-| Lesser_Oil_of_Sharpness_Recipe.md | 29 | 29 | 0 |
-| Lessons_for_Sensible_Living_IV_colon__Cities_and_How_to_Survive_Them.md | 51 | 51 | 0 |
-| Lessons_for_Sensible_Living_XII_colon__Zariel's_Fall.md | 52 | 52 | 0 |
-| Lessons_from_the_Boiler.md | 70 | 70 | 0 |
-| Let_The_Undead_Blanch_With_Fear.md | 16 | 16 | 0 |
-| Let_the_Slaughter_Begin.md | 64 | 64 | 0 |
-| Lethal_Concealment_(Condition).md | 30 | 30 | 0 |
-| Lethal_Weapon_(Bludgeoning).md | 23 | 23 | 0 |
-| Lethal_Weapon_(Slashing).md | 26 | 26 | 0 |
-| Lethargic_(Condition).md | 33 | 33 | 0 |
-| Letter.md | 36 | 36 | 0 |
-| Letter_about_Taxes.md | 34 | 34 | 0 |
-| Letter_concerning_Gravenhollow.md | 32 | 32 | 0 |
-| Letter_from_'M'.md | 43 | 43 | 0 |
 | Letter_from_Zevlor.md | 42 | 42 | 0 |
 | Letter_from_the_Docker's_Guild.md | 32 | 32 | 0 |
 | Letter_from_the_Field.md | 32 | 32 | 0 |
@@ -7575,50 +7527,41 @@
 | Lid.md | 19 | 19 | 0 |
 | Life_Domain.md | 79 | 79 | 0 |
 | Life_Drain_(Condition).md | 22 | 22 | 0 |
-| I'll_Get_You_In.md | 30 | 30 | 0 |
-| I'm_Sorry.md | 44 | 44 | 0 |
-| I_Can_Save_Your_Child.md | 34 | 34 | 0 |
-| I_Have_a_Serious_Complaint!.md | 38 | 38 | 0 |
-| I_Miss_You!.md | 32 | 32 | 0 |
-| I_Talk_to_the_Bones.md | 32 | 32 | 0 |
-| I_Told_Jorkens.md | 37 | 37 | 0 |
-| I_shall_ascend_with_him.md | 48 | 48 | 0 |
-| Ice_Cloud.md | 35 | 35 | 0 |
-| Icebite_Robe.md | 47 | 47 | 0 |
-| Icy.md | 13 | 13 | 0 |
-| Icy_Cloud_(Condition).md | 28 | 28 | 0 |
-| Icy_Crystal.md | 26 | 26 | 0 |
-| Icy_Helve.md | 26 | 26 | 0 |
-| Ideas_for_New_Outfits.md | 38 | 38 | 0 |
-| Idol.md | 12 | 12 | 0 |
-| Idyllic_Aura_(Condition).md | 33 | 33 | 0 |
-| Ignoble_Hat.md | 22 | 22 | 0 |
-| Illasera,_the_First.md | 34 | 34 | 0 |
-| Illithid_Euphoria.md | 28 | 28 | 0 |
-| Illithid_Expertise.md | 22 | 22 | 0 |
-| Karsus'_Folly.md | 103 | 103 | 0 |
-| Karsus.md | 103 | 103 | 0 |
-| Kass'_Practice_Sword.md | 34 | 34 | 0 |
-| Katana.md | 53 | 53 | 0 |
-| Keen_Attack.md | 20 | 20 | 0 |
-| Keen_Senses.md | 18 | 18 | 0 |
-| Keep_an_Eye_on_Rugan.md | 24 | 24 | 0 |
-| Keeper_of_the_Veil.md | 24 | 24 | 0 |
-| Keeping_Up_Appearances.md | 32 | 32 | 0 |
-| Kelemvor's_Mercy.md | 38 | 38 | 0 |
-| Ketheric's_Netherstone.md | 16 | 16 | 0 |
-| Ketheric's_Warhammer.md | 52 | 52 | 0 |
-| Key.md | 424 | 424 | 0 |
-| Key_(Aelis).md | 23 | 23 | 0 |
-| Key_(Bagida_Burlap_Sack).md | 23 | 23 | 0 |
-| Key_(Bookcase).md | 23 | 23 | 0 |
-| Key_(Burlap_Sack).md | 23 | 23 | 0 |
-| Key_(Clover).md | 23 | 23 | 0 |
-| Key_(Crèche_Hatchery).md | 23 | 23 | 0 |
-| Key_(Crèche_Y'llek).md | 26 | 26 | 0 |
-| Key_(Dringo).md | 19 | 19 | 0 |
-| Key_(Editor's_Office).md | 23 | 23 | 0 |
-| Key_(Falcäo).md | 19 | 19 | 0 |
+| Jacinth.md | 18 | 18 | 0 |
+| Jack_of_All_Trades.md | 26 | 26 | 0 |
+| Jade.md | 22 | 22 | 0 |
+| Jagged_Spear.md | 55 | 55 | 0 |
+| Jake's_Encyclopaedia_of_Eels.md | 42 | 42 | 0 |
+| Jannath's_Hat.md | 25 | 25 | 0 |
+| Jannath.md | 13 | 13 | 0 |
+| Jar_of_Coagulated_Blood.md | 17 | 17 | 0 |
+| Jasin.md | 431 | 431 | 0 |
+| Javelin.md | 37 | 37 | 0 |
+| Javelin_+1.md | 40 | 40 | 0 |
+| Javelins.md | 57 | 57 | 0 |
+| Legendary_Action_colon__Wretched_Growth.md | 61 | 61 | 0 |
+| Legendary_Persistence.md | 16 | 16 | 0 |
+| Legendary_Resistance_colon__Crowd_Control_(Condition).md | 17 | 17 | 0 |
+| Legendary_action.md | 112 | 112 | 0 |
+| Legendary_actions.md | 112 | 112 | 0 |
+| Legions_of_Bone_(Aura)_(Condition).md | 24 | 24 | 0 |
+| Legions_of_Bone_(Condition).md | 18 | 18 | 0 |
+| Lemon.md | 26 | 26 | 0 |
+| Leon's_Diary.md | 28 | 28 | 0 |
+| Lesser_Oil_of_Sharpness_Recipe.md | 29 | 29 | 0 |
+| Lessons_for_Sensible_Living_IV_colon__Cities_and_How_to_Survive_Them.md | 51 | 51 | 0 |
+| Lessons_for_Sensible_Living_XII_colon__Zariel's_Fall.md | 52 | 52 | 0 |
+| Lessons_from_the_Boiler.md | 70 | 70 | 0 |
+| Let_The_Undead_Blanch_With_Fear.md | 16 | 16 | 0 |
+| Let_the_Slaughter_Begin.md | 64 | 64 | 0 |
+| Lethal_Concealment_(Condition).md | 30 | 30 | 0 |
+| Lethal_Weapon_(Bludgeoning).md | 23 | 23 | 0 |
+| Lethal_Weapon_(Slashing).md | 26 | 26 | 0 |
+| Lethargic_(Condition).md | 33 | 33 | 0 |
+| Letter.md | 36 | 36 | 0 |
+| Letter_about_Taxes.md | 34 | 34 | 0 |
+| Letter_concerning_Gravenhollow.md | 32 | 32 | 0 |
+| Letter_from_'M'.md | 43 | 43 | 0 |
 | Insect_Plague_(area).md | 30 | 30 | 0 |
 | Insidious_Cold.md | 32 | 32 | 0 |
 | Inspector's_Memo.md | 34 | 34 | 0 |
@@ -7648,6 +7591,29 @@
 | Invasion_Plans_for_Baldur's_Gate_(Moonrise_Towers).md | 25 | 25 | 0 |
 | Invasion_Plans_for_Elturgard_(Emerald_Grove).md | 26 | 26 | 0 |
 | Invasion_Plans_for_Elturgard_(Lower_City).md | 24 | 24 | 0 |
+| Karsus'_Folly.md | 103 | 103 | 0 |
+| Karsus.md | 103 | 103 | 0 |
+| Kass'_Practice_Sword.md | 34 | 34 | 0 |
+| Katana.md | 53 | 53 | 0 |
+| Keen_Attack.md | 20 | 20 | 0 |
+| Keen_Senses.md | 18 | 18 | 0 |
+| Keep_an_Eye_on_Rugan.md | 24 | 24 | 0 |
+| Keeper_of_the_Veil.md | 24 | 24 | 0 |
+| Keeping_Up_Appearances.md | 32 | 32 | 0 |
+| Kelemvor's_Mercy.md | 38 | 38 | 0 |
+| Ketheric's_Netherstone.md | 16 | 16 | 0 |
+| Ketheric's_Warhammer.md | 52 | 52 | 0 |
+| Key.md | 424 | 424 | 0 |
+| Key_(Aelis).md | 23 | 23 | 0 |
+| Key_(Bagida_Burlap_Sack).md | 23 | 23 | 0 |
+| Key_(Bookcase).md | 23 | 23 | 0 |
+| Key_(Burlap_Sack).md | 23 | 23 | 0 |
+| Key_(Clover).md | 23 | 23 | 0 |
+| Key_(Crèche_Hatchery).md | 23 | 23 | 0 |
+| Key_(Crèche_Y'llek).md | 26 | 26 | 0 |
+| Key_(Dringo).md | 19 | 19 | 0 |
+| Key_(Editor's_Office).md | 23 | 23 | 0 |
+| Key_(Falcäo).md | 19 | 19 | 0 |
 | Least_Expected.md | 61 | 61 | 0 |
 | Leather-Bound_Book.md | 28 | 28 | 0 |
 | Leather_Armour.md | 238 | 238 | 0 |
@@ -7729,6 +7695,38 @@
 | Finger_of_Death.md | 39 | 39 | 0 |
 | Finish_the_Masterwork_Weapon.md | 51 | 51 | 0 |
 | Fire_Acuity.md | 34 | 34 | 0 |
+| Invasion_Plans_for_Elturgard_(Moonrise_Towers).md | 24 | 24 | 0 |
+| Invasion_Plans_for_the_Sword_Coast.md | 26 | 26 | 0 |
+| Invasion_Plans_for_the_Sword_Coast_(Moonrise_Towers).md | 25 | 25 | 0 |
+| Inventory_Report.md | 32 | 32 | 0 |
+| Inventory_of_Offerings.md | 26 | 26 | 0 |
+| Investigate_Cazador's_Palace.md | 259 | 259 | 0 |
+| Investigate_the_Beach.md | 114 | 114 | 0 |
+| Investigate_the_House_of_Grief.md | 125 | 125 | 0 |
+| Investigate_the_Murders.md | 316 | 316 | 0 |
+| Investigate_the_Selûnite_Resistance.md | 73 | 73 | 0 |
+| Investigate_the_Suspicious_Toys.md | 197 | 197 | 0 |
+| Investigation_Notes.md | 38 | 38 | 0 |
+| Investigation_Priorities.md | 34 | 34 | 0 |
+| Investment_Opportunities.md | 35 | 35 | 0 |
+| Invigorated_Thrall_(Condition).md | 16 | 16 | 0 |
+| Invigorating_Fanaticism_(Condition).md | 31 | 31 | 0 |
+| Invisibility_(Duergar).md | 47 | 47 | 0 |
+| Invisible_(Misty_Escape)_(Condition).md | 46 | 46 | 0 |
+| Invitation_to_Lord_Gortash.md | 32 | 32 | 0 |
+| Invocation.md | 12 | 12 | 0 |
+| Invoice_colon__Flooding_Repairs.md | 35 | 35 | 0 |
+| Invulnerability_(Condition).md | 32 | 32 | 0 |
+| Invulnerability_(Lorroakan)_(Condition).md | 26 | 26 | 0 |
+| Kurwin's_Cauteriser.md | 53 | 53 | 0 |
+| Kushigo's_Might.md | 16 | 16 | 0 |
+| Labour-Free_Fishing!.md | 30 | 30 | 0 |
+| Ladle.md | 20 | 20 | 0 |
+| Laduguer.md | 440 | 440 | 0 |
+| Lady_Jannath's_Estate.md | 276 | 276 | 0 |
+| Lady_Jannath's_Journal.md | 36 | 36 | 0 |
+| Lanceboard.md | 26 | 26 | 0 |
+| Lord_Amber's_Bodyguard.md | 441 | 441 | 0 |
 | Lorgan's_Chest_Key.md | 22 | 22 | 0 |
 | Lorroakan's_Contract.md | 36 | 36 | 0 |
 | Lost_Time_(Condition).md | 22 | 22 | 0 |
@@ -7744,6 +7742,16 @@
 | Lower_City_Pass.md | 30 | 30 | 0 |
 | Lower_City_Sewers.md | 320 | 320 | 0 |
 | Lower_City_and_Upper_City.md | 24 | 24 | 0 |
+| Daggerroot_Bundle.md | 19 | 19 | 0 |
+| Dalyria's_Journal.md | 44 | 44 | 0 |
+| Damaged_Dark_Justiciar_Armour.md | 44 | 44 | 0 |
+| Damaged_Scale_Mail.md | 45 | 45 | 0 |
+| Damaged_Vase.md | 34 | 34 | 0 |
+| Damp_Missing_Poster.md | 34 | 34 | 0 |
+| Dancing_Lights_(area).md | 27 | 27 | 0 |
+| Danger_Sense.md | 28 | 28 | 0 |
+| Dangerous_Tunes.md | 26 | 26 | 0 |
+| Danthelon's_Dancing_Axe.md | 113 | 113 | 0 |
 | Haunting_Aura_(Condition).md | 30 | 30 | 0 |
 | Havkelaag's_Journal.md | 32 | 32 | 0 |
 | Havkelaag's_Key.md | 22 | 22 | 0 |
@@ -7770,48 +7778,6 @@
 | Heart_of_Stone.md | 38 | 38 | 0 |
 | Heart_of_Stone_(Condition).md | 16 | 16 | 0 |
 | Heart_of_the_Storm.md | 27 | 27 | 0 |
-| Invasion_Plans_for_Elturgard_(Moonrise_Towers).md | 24 | 24 | 0 |
-| Invasion_Plans_for_the_Sword_Coast.md | 26 | 26 | 0 |
-| Invasion_Plans_for_the_Sword_Coast_(Moonrise_Towers).md | 25 | 25 | 0 |
-| Inventory_Report.md | 32 | 32 | 0 |
-| Inventory_of_Offerings.md | 26 | 26 | 0 |
-| Investigate_Cazador's_Palace.md | 259 | 259 | 0 |
-| Investigate_the_Beach.md | 114 | 114 | 0 |
-| Investigate_the_House_of_Grief.md | 125 | 125 | 0 |
-| Investigate_the_Murders.md | 316 | 316 | 0 |
-| Investigate_the_Selûnite_Resistance.md | 73 | 73 | 0 |
-| Investigate_the_Suspicious_Toys.md | 197 | 197 | 0 |
-| Investigation_Notes.md | 38 | 38 | 0 |
-| Investigation_Priorities.md | 34 | 34 | 0 |
-| Investment_Opportunities.md | 35 | 35 | 0 |
-| Invigorated_Thrall_(Condition).md | 16 | 16 | 0 |
-| Invigorating_Fanaticism_(Condition).md | 31 | 31 | 0 |
-| Invisibility_(Duergar).md | 47 | 47 | 0 |
-| Invisible_(Misty_Escape)_(Condition).md | 46 | 46 | 0 |
-| Invitation_to_Lord_Gortash.md | 32 | 32 | 0 |
-| Invocation.md | 12 | 12 | 0 |
-| Invoice_colon__Flooding_Repairs.md | 35 | 35 | 0 |
-| Invulnerability_(Condition).md | 32 | 32 | 0 |
-| Invulnerability_(Lorroakan)_(Condition).md | 26 | 26 | 0 |
-| Hiding_(Condition).md | 29 | 29 | 0 |
-| High_Elf.md | 148 | 148 | 0 |
-| High_Hall_Key.md | 26 | 26 | 0 |
-| High_Heralds.md | 19 | 19 | 0 |
-| High_Spellcasting_(+1).md | 35 | 35 | 0 |
-| High_Spellcasting_(+2).md | 18 | 18 | 0 |
-| High_Spirits_(Condition).md | 32 | 32 | 0 |
-| High_ground.md | 33 | 33 | 0 |
-| High_ground_rules.md | 33 | 33 | 0 |
-| Highcliff's_Blueprints.md | 28 | 28 | 0 |
-| Highcliff's_Journal.md | 37 | 37 | 0 |
-| Highsun_Liqueur.md | 56 | 56 | 0 |
-| Hill_Giant's_Might_(Condition).md | 24 | 24 | 0 |
-| His_Holy_Blood,_Vol._1,_Dawnmaster_Dovaer.md | 41 | 41 | 0 |
-| His_Holy_Blood,_Vol._2,_Paladin_Vaseid.md | 39 | 39 | 0 |
-| His_Holy_Blood,_Vol._3,_Dawnmaster_Vaseid.md | 41 | 41 | 0 |
-| History.md | 74 | 74 | 0 |
-| Hit_Points.md | 81 | 81 | 0 |
-| Hit_point.md | 81 | 81 | 0 |
 | Map_of_Moonhaven.md | 26 | 26 | 0 |
 | Map_of_the_Sewers.md | 26 | 26 | 0 |
 | Map_of_the_Shadow-Cursed_Lands.md | 26 | 26 | 0 |
@@ -7828,14 +7794,26 @@
 | Marksmanship_Hat.md | 41 | 41 | 0 |
 | Marshalled_Undead_(Condition).md | 32 | 32 | 0 |
 | Marten.md | 11 | 11 | 0 |
-| Kurwin's_Cauteriser.md | 53 | 53 | 0 |
-| Kushigo's_Might.md | 16 | 16 | 0 |
-| Labour-Free_Fishing!.md | 30 | 30 | 0 |
-| Ladle.md | 20 | 20 | 0 |
-| Laduguer.md | 440 | 440 | 0 |
-| Lady_Jannath's_Estate.md | 276 | 276 | 0 |
-| Lady_Jannath's_Journal.md | 36 | 36 | 0 |
-| Lanceboard.md | 26 | 26 | 0 |
+| Hiding_(Condition).md | 29 | 29 | 0 |
+| High_Elf.md | 148 | 148 | 0 |
+| High_Hall_Key.md | 26 | 26 | 0 |
+| High_Heralds.md | 19 | 19 | 0 |
+| High_Spellcasting_(+1).md | 35 | 35 | 0 |
+| High_Spellcasting_(+2).md | 18 | 18 | 0 |
+| High_Spirits_(Condition).md | 32 | 32 | 0 |
+| High_ground.md | 33 | 33 | 0 |
+| High_ground_rules.md | 33 | 33 | 0 |
+| Highcliff's_Blueprints.md | 28 | 28 | 0 |
+| Highcliff's_Journal.md | 37 | 37 | 0 |
+| Highsun_Liqueur.md | 56 | 56 | 0 |
+| Hill_Giant's_Might_(Condition).md | 24 | 24 | 0 |
+| His_Holy_Blood,_Vol._1,_Dawnmaster_Dovaer.md | 41 | 41 | 0 |
+| His_Holy_Blood,_Vol._2,_Paladin_Vaseid.md | 39 | 39 | 0 |
+| His_Holy_Blood,_Vol._3,_Dawnmaster_Vaseid.md | 41 | 41 | 0 |
+| His_Majesty.md | 336 | 336 | 0 |
+| History.md | 74 | 74 | 0 |
+| Hit_Points.md | 81 | 81 | 0 |
+| Hit_point.md | 81 | 81 | 0 |
 | Lo!_A_Most_Joyous_Sensation!.md | 36 | 36 | 0 |
 | Lobotomised_(Condition).md | 40 | 40 | 0 |
 | Location.md | 503 | 503 | 0 |
@@ -7862,59 +7840,6 @@
 | Loosened_Gravity_(Condition).md | 30 | 30 | 0 |
 | Lora's_Key.md | 22 | 22 | 0 |
 | Lora.md | 11 | 11 | 0 |
-| Just_So_You_Don't_Forget.md | 30 | 30 | 0 |
-| Justiciar's_Scimitar.md | 84 | 84 | 0 |
-| KEEP_OUT.md | 34 | 34 | 0 |
-| Kagha's_Key.md | 16 | 16 | 0 |
-| Kanon's_Belongings.md | 22 | 22 | 0 |
-| Kanon's_Handkerchief.md | 19 | 19 | 0 |
-| Karlach's_Boots.md | 26 | 26 | 0 |
-| Karlach's_Head.md | 22 | 22 | 0 |
-| Karlach's_Infernal_Trousers.md | 24 | 24 | 0 |
-| Lustrous_Lass.md | 92 | 92 | 0 |
-| Lute.md | 79 | 79 | 0 |
-| Lute_of_the_Merryweather_Bard.md | 57 | 57 | 0 |
-| Lyre.md | 53 | 53 | 0 |
-| Lyrical_Draft.md | 54 | 54 | 0 |
-| Mace.md | 36 | 36 | 0 |
-| Mace_+1.md | 38 | 38 | 0 |
-| Mace_+2.md | 34 | 34 | 0 |
-| Mace_Mould.md | 22 | 22 | 0 |
-| Madeline's_Ledger.md | 40 | 40 | 0 |
-| Mage-Animated_(Condition).md | 17 | 17 | 0 |
-| Mage_Breaker.md | 24 | 24 | 0 |
-| Mage_Hand_Legerdemain.md | 32 | 32 | 0 |
-| Mage_Slayer_colon__Attack_Caster.md | 23 | 23 | 0 |
-| Mage_Slayer_colon__Break_Concentration.md | 18 | 18 | 0 |
-| Mage_Slayer_colon__Saving_Throw_Advantage.md | 14 | 14 | 0 |
-| Maggie's_Recipe_for_Perfect_Cookies.md | 52 | 52 | 0 |
-| Helm.md | 11 | 11 | 0 |
-| Helm_of_Balduran.md | 75 | 75 | 0 |
-| Helmet_of_Smiting.md | 50 | 50 | 0 |
-| Help.md | 36 | 36 | 0 |
-| Help_Kith'rak_Voss.md | 98 | 98 | 0 |
-| Help_Wanted!.md | 26 | 26 | 0 |
-| Help_Your_Protector.md | 80 | 80 | 0 |
-| Help_colon_Editing_manual.md | 105 | 105 | 0 |
-| Help_colon_Maintenance.md | 125 | 125 | 0 |
-| Help_colon_Templates.md | 198 | 198 | 0 |
-| Help_talk_colon_Editing_basics.md | 6 | 6 | 0 |
-| Help_the_Devilish_Ox.md | 74 | 74 | 0 |
-| Help_the_Hag_Survivors.md | 146 | 146 | 0 |
-| Her_Love_For_it_Was_Like_A_Plum.md | 60 | 60 | 0 |
-| Her_Voice_colon__Commanding_(Condition).md | 40 | 40 | 0 |
-| Heart_of_the_Storm_colon__Resistance.md | 16 | 16 | 0 |
-| Heartform_Mapped_(Condition).md | 30 | 30 | 0 |
-| Hearty_Dinner.md | 20 | 20 | 0 |
-| Heat_Metal_colon__Reapply_Damage_(Condition).md | 25 | 25 | 0 |
-| Heavily_Armoured.md | 16 | 16 | 0 |
-| Heavy_Backpack.md | 26 | 26 | 0 |
-| Heavy_Book.md | 26 | 26 | 0 |
-| Heavy_Chest.md | 28 | 28 | 0 |
-| Heavy_Crossbow.md | 35 | 35 | 0 |
-| Heavy_Crossbow_+1.md | 38 | 38 | 0 |
-| Heavy_Spiked_Club.md | 50 | 50 | 0 |
-| Hedge_Wanderer_Armour.md | 56 | 56 | 0 |
 | Merry_Revelry.md | 16 | 16 | 0 |
 | Meshtoe_Sandals.md | 26 | 26 | 0 |
 | Mesmerising_Circus_Outfit.md | 38 | 38 | 0 |
@@ -7935,9 +7860,51 @@
 | Meticulous_Notes.md | 34 | 34 | 0 |
 | Miasmic_Mists_Aura_(Condition).md | 33 | 33 | 0 |
 | Mielikki.md | 440 | 440 | 0 |
+| Mig.md | 348 | 348 | 0 |
 | Mighty_Impel.md | 33 | 33 | 0 |
 | Milk.md | 24 | 24 | 0 |
 | Milk_Can.md | 19 | 19 | 0 |
+| Mind-Claws_Available_(Condition).md | 30 | 30 | 0 |
+| Mind_Flayer_Blood.md | 24 | 24 | 0 |
+| Mind_Flayer_Colony.md | 183 | 183 | 0 |
+| Mind_Flayer_Form_(Condition).md | 55 | 55 | 0 |
+| Mind_Mastery_(Condition).md | 33 | 33 | 0 |
+| Mind_Sanctuary_(area).md | 29 | 29 | 0 |
+| Mind_Sanctuary_colon__Depleted_(Condition).md | 35 | 35 | 0 |
+| Mind_Sundering_Dagger.md | 39 | 39 | 0 |
+| Mind_of_the_Vault.md | 24 | 24 | 0 |
+| Mindbroken_(Condition).md | 29 | 29 | 0 |
+| Mindflayer_colony.md | 183 | 183 | 0 |
+| Mindless_Rage.md | 18 | 18 | 0 |
+| Mindreader.md | 20 | 20 | 0 |
+| Mindreader_(Condition).md | 20 | 20 | 0 |
+| Mindsteal_Link_(Target)_(Condition).md | 29 | 29 | 0 |
+| Minions_of_Chaos.md | 20 | 20 | 0 |
+| Lustrous_Lass.md | 92 | 92 | 0 |
+| Lute.md | 79 | 79 | 0 |
+| Lute_of_the_Merryweather_Bard.md | 57 | 57 | 0 |
+| Lyre.md | 53 | 53 | 0 |
+| Lyrical_Draft.md | 54 | 54 | 0 |
+| M'alice.md | 391 | 391 | 0 |
+| Mace.md | 36 | 36 | 0 |
+| Mace_+1.md | 38 | 38 | 0 |
+| Mace_+2.md | 34 | 34 | 0 |
+| Mace_Mould.md | 22 | 22 | 0 |
+| Madeline's_Ledger.md | 40 | 40 | 0 |
+| Mage-Animated_(Condition).md | 17 | 17 | 0 |
+| Mage_Breaker.md | 24 | 24 | 0 |
+| Mage_Hand_Legerdemain.md | 32 | 32 | 0 |
+| Mage_Slayer_colon__Attack_Caster.md | 23 | 23 | 0 |
+| Mage_Slayer_colon__Break_Concentration.md | 18 | 18 | 0 |
+| Mage_Slayer_colon__Saving_Throw_Advantage.md | 14 | 14 | 0 |
+| Maggie's_Recipe_for_Perfect_Cookies.md | 52 | 52 | 0 |
+| Luck_of_the_Far_Realms.md | 46 | 46 | 0 |
+| Luminous_Armour.md | 63 | 63 | 0 |
+| Luminous_Gloves.md | 37 | 37 | 0 |
+| Lump's_Nemesis_(Condition).md | 26 | 26 | 0 |
+| Lump_Hammer.md | 19 | 19 | 0 |
+| Lunar_Bestial_Vitality.md | 29 | 29 | 0 |
+| Lunar_Protection_(Condition).md | 26 | 26 | 0 |
 | Land's_Stride_colon__Difficult_Terrain.md | 27 | 27 | 0 |
 | Land's_Stride_colon__Plants.md | 39 | 39 | 0 |
 | Landscape.md | 42 | 42 | 0 |
@@ -7945,6 +7912,7 @@
 | Larethian's_Wrath.md | 60 | 60 | 0 |
 | Larethian.md | 33 | 33 | 0 |
 | Large_Bottle.md | 23 | 23 | 0 |
+| Laridda.md | 312 | 312 | 0 |
 | Last_Hope.md | 22 | 22 | 0 |
 | Last_Light_Side_Entrance_Key.md | 26 | 26 | 0 |
 | Last_Notes_of_a_Monk.md | 41 | 41 | 0 |
@@ -7955,6 +7923,31 @@
 | Lavernica's_Home.md | 114 | 114 | 0 |
 | Lay_Bare_Their_Weakness.md | 24 | 24 | 0 |
 | Leap_to_Your_Feet.md | 20 | 20 | 0 |
+| Just_So_You_Don't_Forget.md | 30 | 30 | 0 |
+| Justiciar's_Scimitar.md | 84 | 84 | 0 |
+| KEEP_OUT.md | 34 | 34 | 0 |
+| Kagha's_Key.md | 16 | 16 | 0 |
+| Kanon's_Belongings.md | 22 | 22 | 0 |
+| Kanon's_Handkerchief.md | 19 | 19 | 0 |
+| Karlach's_Boots.md | 26 | 26 | 0 |
+| Karlach's_Head.md | 22 | 22 | 0 |
+| Karlach's_Infernal_Trousers.md | 24 | 24 | 0 |
+| Mellow_Black_Shirt.md | 42 | 42 | 0 |
+| Melt_the_Earth_(Condition).md | 20 | 20 | 0 |
+| Memoir_Notes_with_Recent_Addenda.md | 46 | 46 | 0 |
+| Memoirs,_Vol_1,_Sister_Clarwen.md | 32 | 32 | 0 |
+| Memoirs_of_My_Death.md | 39 | 39 | 0 |
+| Memory_Brain_Jar.md | 23 | 23 | 0 |
+| Menaced_(Condition).md | 24 | 24 | 0 |
+| Menacing.md | 10 | 10 | 0 |
+| Mephistopheles_Tiefling.md | 160 | 160 | 0 |
+| Mephit.md | 41 | 41 | 0 |
+| Merchant's_Almanac_colon__The_Trade_Way.md | 31 | 31 | 0 |
+| Merchant.md | 45 | 45 | 0 |
+| Mermaid.md | 25 | 25 | 0 |
+| Merregon.md | 57 | 57 | 0 |
+| Merregon_(disambiguation).md | 13 | 13 | 0 |
+| Merregon_Halberd.md | 44 | 44 | 0 |
 | Iridescent_Shell.md | 18 | 18 | 0 |
 | Iron_Bowl.md | 19 | 19 | 0 |
 | Iron_Cell_Key.md | 26 | 26 | 0 |
@@ -7973,51 +7966,33 @@
 | It's_All_In_The_Wrists.md | 18 | 18 | 0 |
 | It's_NOT_Funny.md | 30 | 30 | 0 |
 | Ithbank.md | 60 | 60 | 0 |
-| Luck_of_the_Far_Realms.md | 46 | 46 | 0 |
-| Luminous_Armour.md | 63 | 63 | 0 |
-| Luminous_Gloves.md | 37 | 37 | 0 |
-| Lump's_Nemesis_(Condition).md | 26 | 26 | 0 |
-| Lump_Hammer.md | 19 | 19 | 0 |
-| Lunar_Bestial_Vitality.md | 29 | 29 | 0 |
-| Lunar_Protection_(Condition).md | 26 | 26 | 0 |
-| Mind-Claws_Available_(Condition).md | 30 | 30 | 0 |
-| Mind_Flayer_Blood.md | 24 | 24 | 0 |
-| Mind_Flayer_Colony.md | 183 | 183 | 0 |
-| Mind_Flayer_Form_(Condition).md | 55 | 55 | 0 |
-| Mind_Mastery_(Condition).md | 33 | 33 | 0 |
-| Mind_Sanctuary_(area).md | 29 | 29 | 0 |
-| Mind_Sanctuary_colon__Depleted_(Condition).md | 35 | 35 | 0 |
-| Mind_Sundering_Dagger.md | 39 | 39 | 0 |
-| Mind_of_the_Vault.md | 24 | 24 | 0 |
-| Mindbroken_(Condition).md | 29 | 29 | 0 |
-| Mindflayer_colony.md | 183 | 183 | 0 |
-| Mindless_Rage.md | 18 | 18 | 0 |
-| Mindreader.md | 20 | 20 | 0 |
-| Mindreader_(Condition).md | 20 | 20 | 0 |
-| Mindsteal_Link_(Target)_(Condition).md | 29 | 29 | 0 |
-| Minions_of_Chaos.md | 20 | 20 | 0 |
-| Garb_of_the_Land_and_Sky.md | 64 | 64 | 0 |
-| Gargoyle_Boots.md | 29 | 29 | 0 |
-| Gargoyle_Head.md | 16 | 16 | 0 |
-| Gargoyle_Statue.md | 16 | 16 | 0 |
-| Garnet_Ring.md | 120 | 120 | 0 |
-| Garrotte_(disambiguation).md | 18 | 18 | 0 |
-| Garrotted_colon__Restrained_(Condition).md | 35 | 35 | 0 |
-| Garrotting_(Condition).md | 23 | 23 | 0 |
-| Gaseous_Reflux_(Condition).md | 47 | 47 | 0 |
-| Gathering_Drumbeat_(Condition).md | 17 | 17 | 0 |
-| Gauntlet.md | 12 | 12 | 0 |
-| Gauntlet_of_Shar.md | 386 | 386 | 0 |
-| Daggerroot_Bundle.md | 19 | 19 | 0 |
-| Dalyria's_Journal.md | 44 | 44 | 0 |
-| Damaged_Dark_Justiciar_Armour.md | 44 | 44 | 0 |
-| Damaged_Scale_Mail.md | 45 | 45 | 0 |
-| Damaged_Vase.md | 34 | 34 | 0 |
-| Damp_Missing_Poster.md | 34 | 34 | 0 |
-| Dancing_Lights_(area).md | 27 | 27 | 0 |
-| Danger_Sense.md | 28 | 28 | 0 |
-| Dangerous_Tunes.md | 26 | 26 | 0 |
-| Danthelon's_Dancing_Axe.md | 113 | 113 | 0 |
+| Heart_of_the_Storm_colon__Resistance.md | 16 | 16 | 0 |
+| Heartform_Mapped_(Condition).md | 30 | 30 | 0 |
+| Hearty_Dinner.md | 20 | 20 | 0 |
+| Heat_Metal_colon__Reapply_Damage_(Condition).md | 25 | 25 | 0 |
+| Heavily_Armoured.md | 16 | 16 | 0 |
+| Heavy_Backpack.md | 26 | 26 | 0 |
+| Heavy_Book.md | 26 | 26 | 0 |
+| Heavy_Chest.md | 28 | 28 | 0 |
+| Heavy_Crossbow.md | 35 | 35 | 0 |
+| Heavy_Crossbow_+1.md | 38 | 38 | 0 |
+| Heavy_Spiked_Club.md | 50 | 50 | 0 |
+| Hedge_Wanderer_Armour.md | 56 | 56 | 0 |
+| Helm.md | 11 | 11 | 0 |
+| Helm_of_Balduran.md | 75 | 75 | 0 |
+| Helmet_of_Smiting.md | 50 | 50 | 0 |
+| Help.md | 36 | 36 | 0 |
+| Help_Kith'rak_Voss.md | 98 | 98 | 0 |
+| Help_Wanted!.md | 26 | 26 | 0 |
+| Help_Your_Protector.md | 80 | 80 | 0 |
+| Help_colon_Editing_manual.md | 105 | 105 | 0 |
+| Help_colon_Maintenance.md | 125 | 125 | 0 |
+| Help_colon_Templates.md | 198 | 198 | 0 |
+| Help_talk_colon_Editing_basics.md | 6 | 6 | 0 |
+| Help_the_Devilish_Ox.md | 74 | 74 | 0 |
+| Help_the_Hag_Survivors.md | 146 | 146 | 0 |
+| Her_Love_For_it_Was_Like_A_Plum.md | 60 | 60 | 0 |
+| Her_Voice_colon__Commanding_(Condition).md | 40 | 40 | 0 |
 | Multiattack_(Raphael).md | 32 | 32 | 0 |
 | Multiattack_(Raphael,_tactician).md | 42 | 42 | 0 |
 | Multiattack_Defence.md | 26 | 26 | 0 |
@@ -8040,33 +8015,18 @@
 | Multitasking.md | 16 | 16 | 0 |
 | Mummy_Rot_(Condition).md | 25 | 25 | 0 |
 | Municipal_Sanitation_Notice.md | 36 | 36 | 0 |
-| Mellow_Black_Shirt.md | 42 | 42 | 0 |
-| Melt_the_Earth_(Condition).md | 20 | 20 | 0 |
-| Memoir_Notes_with_Recent_Addenda.md | 46 | 46 | 0 |
-| Memoirs,_Vol_1,_Sister_Clarwen.md | 32 | 32 | 0 |
-| Memoirs_of_My_Death.md | 39 | 39 | 0 |
-| Memory_Brain_Jar.md | 23 | 23 | 0 |
-| Menaced_(Condition).md | 24 | 24 | 0 |
-| Menacing.md | 10 | 10 | 0 |
-| Mephistopheles_Tiefling.md | 160 | 160 | 0 |
-| Mephit.md | 41 | 41 | 0 |
-| Merchant's_Almanac_colon__The_Trade_Way.md | 31 | 31 | 0 |
-| Merchant.md | 45 | 45 | 0 |
-| Mermaid.md | 25 | 25 | 0 |
-| Merregon.md | 57 | 57 | 0 |
-| Merregon_(disambiguation).md | 13 | 13 | 0 |
-| Merregon_Halberd.md | 44 | 44 | 0 |
-| Mourning_Frost.md | 72 | 72 | 0 |
-| Movement.md | 363 | 363 | 0 |
-| Movement_speed.md | 363 | 363 | 0 |
-| Mucoid_Shell.md | 19 | 19 | 0 |
-| Mud.md | 33 | 33 | 0 |
-| Muddy_Note.md | 27 | 27 | 0 |
-| Mug.md | 43 | 43 | 0 |
-| Mug_of_Beer.md | 100 | 100 | 0 |
-| Mugwort_Bundle.md | 19 | 19 | 0 |
-| Multiattack_(Cloaker)_(passive_feature).md | 16 | 16 | 0 |
-| Multiattack_(Giant_Eagle)_(passive_feature).md | 16 | 16 | 0 |
+| Garb_of_the_Land_and_Sky.md | 64 | 64 | 0 |
+| Gargoyle_Boots.md | 29 | 29 | 0 |
+| Gargoyle_Head.md | 16 | 16 | 0 |
+| Gargoyle_Statue.md | 16 | 16 | 0 |
+| Garnet_Ring.md | 120 | 120 | 0 |
+| Garrotte_(disambiguation).md | 18 | 18 | 0 |
+| Garrotted_colon__Restrained_(Condition).md | 35 | 35 | 0 |
+| Garrotting_(Condition).md | 23 | 23 | 0 |
+| Gaseous_Reflux_(Condition).md | 47 | 47 | 0 |
+| Gathering_Drumbeat_(Condition).md | 17 | 17 | 0 |
+| Gauntlet.md | 12 | 12 | 0 |
+| Gauntlet_of_Shar.md | 386 | 386 | 0 |
 | Needle's_Points_colon__Tips_for_Top_Stories.md | 34 | 34 | 0 |
 | Needle_Burst_(passive_feature).md | 16 | 16 | 0 |
 | Needle_of_the_Outlaw_Rogue.md | 46 | 46 | 0 |
@@ -8084,6 +8044,17 @@
 | News_Hawker_Float.md | 30 | 30 | 0 |
 | Next_Steps.md | 38 | 38 | 0 |
 | Night-Night,_Pirate_Ship.md | 44 | 44 | 0 |
+| Mourning_Frost.md | 72 | 72 | 0 |
+| Movement.md | 363 | 363 | 0 |
+| Movement_speed.md | 363 | 363 | 0 |
+| Mucoid_Shell.md | 19 | 19 | 0 |
+| Mud.md | 33 | 33 | 0 |
+| Muddy_Note.md | 27 | 27 | 0 |
+| Mug.md | 43 | 43 | 0 |
+| Mug_of_Beer.md | 100 | 100 | 0 |
+| Mugwort_Bundle.md | 19 | 19 | 0 |
+| Multiattack_(Cloaker)_(passive_feature).md | 16 | 16 | 0 |
+| Multiattack_(Giant_Eagle)_(passive_feature).md | 16 | 16 | 0 |
 | Illithid_Manuscript.md | 23 | 23 | 0 |
 | Illithid_Protection.md | 16 | 16 | 0 |
 | Illithid_Record.md | 23 | 23 | 0 |
@@ -8107,30 +8078,6 @@
 | Improved_Critical.md | 30 | 30 | 0 |
 | Improved_Critical_Hit.md | 20 | 20 | 0 |
 | Improved_Divine_Smite.md | 24 | 24 | 0 |
-| Life_Essence_Active_(Condition).md | 22 | 22 | 0 |
-| Life_Essence_Harvest.md | 39 | 39 | 0 |
-| Life_Stealing_Critical.md | 32 | 32 | 0 |
-| Life_of_Beaky.md | 30 | 30 | 0 |
-| Life_of_the_Party.md | 24 | 24 | 0 |
-| Lifecharger.md | 28 | 28 | 0 |
-| Lifedrinker.md | 20 | 20 | 0 |
-| Lift_the_Shadow_Curse.md | 143 | 143 | 0 |
-| Light_(weapon_property).md | 28 | 28 | 0 |
-| Light_Crossbow.md | 32 | 32 | 0 |
-| Light_Crossbow_+1.md | 35 | 35 | 0 |
-| Light_Crossbow_of_Speed.md | 42 | 42 | 0 |
-| Light_Crossbows.md | 51 | 51 | 0 |
-| Light_Domain.md | 77 | 77 | 0 |
-| Light_Hammer.md | 62 | 62 | 0 |
-| Light_Hammer_+1.md | 40 | 40 | 0 |
-| Light_Hammers.md | 56 | 56 | 0 |
-| Light_Sensitivity.md | 16 | 16 | 0 |
-| Light_cleric.md | 77 | 77 | 0 |
-| Light_of_Creation.md | 70 | 70 | 0 |
-| Lightfoot_Halfling.md | 118 | 118 | 0 |
-| Lightning_Aura_(Condition).md | 30 | 30 | 0 |
-| Lightning_Infusion_(Condition).md | 34 | 34 | 0 |
-| Lightning_Jabber.md | 81 | 81 | 0 |
 | Nocturne's_Journal.md | 30 | 30 | 0 |
 | Nomad's_Sandals.md | 22 | 22 | 0 |
 | Non-Demoninational_Prayer_of_Peace.md | 38 | 38 | 0 |
@@ -8161,80 +8108,30 @@
 | Note_to_Self.md | 28 | 28 | 0 |
 | Note_to_Self_(Baldur's_Mouth).md | 30 | 30 | 0 |
 | Note_to_the_Kitchen_Staff.md | 30 | 30 | 0 |
-| Minsc's_Fantastical_Relaxation_Garb.md | 26 | 26 | 0 |
-| Mire_the_Mind.md | 20 | 20 | 0 |
-| Mirkon's_Story.md | 30 | 30 | 0 |
-| Mirror_(Clutter).md | 18 | 18 | 0 |
-| Mirror_of_Ageing.md | 20 | 20 | 0 |
-| Mirrored_(Condition).md | 25 | 25 | 0 |
-| Mirth-Wracked_(Condition).md | 29 | 29 | 0 |
-| Mirtul_1477.md | 37 | 37 | 0 |
-| Miscellaneous.md | 313 | 313 | 0 |
-| Miscellaneous_Items.md | 313 | 313 | 0 |
-| Missed_Payment.md | 46 | 46 | 0 |
-| Missive_From_Moonrise.md | 30 | 30 | 0 |
-| Missive_from_Gortash.md | 36 | 36 | 0 |
-| Missive_from_Ketheric.md | 38 | 38 | 0 |
-| Missive_from_the_Emperor.md | 69 | 69 | 0 |
-| Missives_of_Candlekeep.md | 46 | 46 | 0 |
-| Mist_Form_(Condition).md | 37 | 37 | 0 |
-| Mistress_of_Souls'_Research_Log.md | 38 | 38 | 0 |
-| Mistress_of_the_Night_and_Friends.md | 48 | 48 | 0 |
-| Misty_Escape.md | 27 | 27 | 0 |
-| Misty_Escape_(disambiguation).md | 16 | 16 | 0 |
-| Mysterious_Liquid.md | 26 | 26 | 0 |
-| Mystic_Carrion's_Poisoned_Curse_(Condition).md | 42 | 42 | 0 |
-| Mystra's_Benevolence_(Condition).md | 26 | 26 | 0 |
-| Mystra's_Blessing_(Condition).md | 20 | 20 | 0 |
-| Mystra's_Blessing_(Gale)_(Condition).md | 20 | 20 | 0 |
-| Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md | 36 | 36 | 0 |
-| Myth_Drannan_Amphigory.md | 30 | 30 | 0 |
-| NO_CAUSE_FOR_ALARM.md | 50 | 50 | 0 |
-| NPC.md | 85 | 85 | 0 |
-| Nail_colon__Status_Report.md | 36 | 36 | 0 |
-| Narcoleptic_Toxins_(Condition).md | 16 | 16 | 0 |
-| Natural_Pugilist.md | 21 | 21 | 0 |
-| Naturally_Stealthy.md | 22 | 22 | 0 |
-| Moradin.md | 440 | 440 | 0 |
-| More_food_please!.md | 28 | 28 | 0 |
-| Morgue.md | 11 | 11 | 0 |
-| Morgue_Cage_Key.md | 26 | 26 | 0 |
-| Morninglord's_Bulwark_(Condition).md | 32 | 32 | 0 |
-| Morningstar.md | 40 | 40 | 0 |
-| Morningstar_+1.md | 44 | 44 | 0 |
-| Morningstars.md | 59 | 59 | 0 |
-| Morphic_Ambush_(passive_feature).md | 16 | 16 | 0 |
-| Morphic_Evasion.md | 18 | 18 | 0 |
-| Mortally_Wounded_(Condition).md | 18 | 18 | 0 |
-| Mortar_and_Pestle.md | 19 | 19 | 0 |
-| Moss-Covered_Key.md | 26 | 26 | 0 |
-| Mother's_Loathing_(Condition).md | 21 | 21 | 0 |
-| Mother_of_Halflings.md | 31 | 31 | 0 |
-| Motivator.md | 29 | 29 | 0 |
-| Mottled_Key.md | 26 | 26 | 0 |
-| Moulded_Cheese_Wedge.md | 24 | 24 | 0 |
-| Mountain.md | 41 | 41 | 0 |
-| Mountainous_Poise.md | 24 | 24 | 0 |
-| Mourning.md | 11 | 11 | 0 |
-| Notes_from_a_Soothsayer.md | 66 | 66 | 0 |
-| Notes_on_Drow_Parasite.md | 36 | 36 | 0 |
-| Notes_on_Mind_Flayer_Anatomy.md | 30 | 30 | 0 |
-| Notes_on_Stelmane's_Murder.md | 40 | 40 | 0 |
-| Notes_on_Tea.md | 28 | 28 | 0 |
-| Notice_of_Condemnation.md | 38 | 38 | 0 |
-| Notice_of_Termination.md | 40 | 40 | 0 |
-| Notice_to_Varsh_Ko'kuu.md | 30 | 30 | 0 |
-| Noxious_Fumes.md | 42 | 42 | 0 |
-| Numb_(Condition).md | 31 | 31 | 0 |
-| Nyrulna.md | 97 | 97 | 0 |
-| Nyrulna_colon__Glowing.md | 24 | 24 | 0 |
-| Oath_of_Devotion.md | 202 | 202 | 0 |
-| Oath_of_Devotion_Tenets.md | 24 | 24 | 0 |
-| Oath_of_Vengeance_Tenets.md | 22 | 22 | 0 |
-| Oath_of_the_Ancients.md | 205 | 205 | 0 |
-| Oath_of_the_Ancients_Tenets.md | 26 | 26 | 0 |
-| Oath_of_the_Crown.md | 203 | 203 | 0 |
-| Oath_of_the_Crown_Tenets.md | 24 | 24 | 0 |
+| Life_Essence_Active_(Condition).md | 22 | 22 | 0 |
+| Life_Essence_Harvest.md | 39 | 39 | 0 |
+| Life_Stealing_Critical.md | 32 | 32 | 0 |
+| Life_of_Beaky.md | 30 | 30 | 0 |
+| Life_of_the_Party.md | 24 | 24 | 0 |
+| Lifecharger.md | 28 | 28 | 0 |
+| Lifedrinker.md | 20 | 20 | 0 |
+| Lift_the_Shadow_Curse.md | 143 | 143 | 0 |
+| Light_(weapon_property).md | 28 | 28 | 0 |
+| Light_Crossbow.md | 32 | 32 | 0 |
+| Light_Crossbow_+1.md | 35 | 35 | 0 |
+| Light_Crossbow_of_Speed.md | 42 | 42 | 0 |
+| Light_Crossbows.md | 51 | 51 | 0 |
+| Light_Domain.md | 77 | 77 | 0 |
+| Light_Hammer.md | 62 | 62 | 0 |
+| Light_Hammer_+1.md | 40 | 40 | 0 |
+| Light_Hammers.md | 56 | 56 | 0 |
+| Light_Sensitivity.md | 16 | 16 | 0 |
+| Light_cleric.md | 77 | 77 | 0 |
+| Light_of_Creation.md | 70 | 70 | 0 |
+| Lightfoot_Halfling.md | 118 | 118 | 0 |
+| Lightning_Aura_(Condition).md | 30 | 30 | 0 |
+| Lightning_Infusion_(Condition).md | 34 | 34 | 0 |
+| Lightning_Jabber.md | 81 | 81 | 0 |
 | Mammon's_Hold_(Condition).md | 24 | 24 | 0 |
 | Man's_Best_Friend.md | 20 | 20 | 0 |
 | Management_Warning.md | 28 | 28 | 0 |
@@ -8256,6 +8153,81 @@
 | Mantle_of_Majesty_colon__Halt.md | 50 | 50 | 0 |
 | Mantras_and_Meditations_of_the_Sun_Soul.md | 42 | 42 | 0 |
 | Manuscript.md | 52 | 52 | 0 |
+| Notes_from_a_Soothsayer.md | 66 | 66 | 0 |
+| Notes_on_Drow_Parasite.md | 36 | 36 | 0 |
+| Notes_on_Mind_Flayer_Anatomy.md | 30 | 30 | 0 |
+| Notes_on_Stelmane's_Murder.md | 40 | 40 | 0 |
+| Notes_on_Tea.md | 28 | 28 | 0 |
+| Notice_of_Condemnation.md | 38 | 38 | 0 |
+| Notice_of_Termination.md | 40 | 40 | 0 |
+| Notice_to_Varsh_Ko'kuu.md | 30 | 30 | 0 |
+| Nov_Shmoz.md | 393 | 393 | 0 |
+| Noxious_Fumes.md | 42 | 42 | 0 |
+| Numb_(Condition).md | 31 | 31 | 0 |
+| Nyrulna.md | 97 | 97 | 0 |
+| Nyrulna_colon__Glowing.md | 24 | 24 | 0 |
+| Oath_of_Devotion.md | 202 | 202 | 0 |
+| Oath_of_Devotion_Tenets.md | 24 | 24 | 0 |
+| Oath_of_Vengeance_Tenets.md | 22 | 22 | 0 |
+| Oath_of_the_Ancients.md | 205 | 205 | 0 |
+| Oath_of_the_Ancients_Tenets.md | 26 | 26 | 0 |
+| Oath_of_the_Crown.md | 203 | 203 | 0 |
+| Oath_of_the_Crown_Tenets.md | 24 | 24 | 0 |
+| Minsc's_Fantastical_Relaxation_Garb.md | 26 | 26 | 0 |
+| Mire_the_Mind.md | 20 | 20 | 0 |
+| Mirkon's_Story.md | 30 | 30 | 0 |
+| Mirror_(Clutter).md | 18 | 18 | 0 |
+| Mirror_of_Ageing.md | 20 | 20 | 0 |
+| Mirrored_(Condition).md | 25 | 25 | 0 |
+| Mirth-Wracked_(Condition).md | 29 | 29 | 0 |
+| Mirtul_1477.md | 37 | 37 | 0 |
+| Miscellaneous.md | 313 | 313 | 0 |
+| Miscellaneous_Items.md | 313 | 313 | 0 |
+| Missed_Payment.md | 46 | 46 | 0 |
+| Missive_From_Moonrise.md | 30 | 30 | 0 |
+| Missive_from_Gortash.md | 36 | 36 | 0 |
+| Missive_from_Ketheric.md | 38 | 38 | 0 |
+| Missive_from_the_Emperor.md | 69 | 69 | 0 |
+| Missives_of_Candlekeep.md | 46 | 46 | 0 |
+| Mist_Form_(Condition).md | 37 | 37 | 0 |
+| Mistress_of_Souls'_Research_Log.md | 38 | 38 | 0 |
+| Mistress_of_the_Night_and_Friends.md | 48 | 48 | 0 |
+| Misty_Escape.md | 27 | 27 | 0 |
+| Misty_Escape_(disambiguation).md | 16 | 16 | 0 |
+| Moradin.md | 440 | 440 | 0 |
+| More_food_please!.md | 28 | 28 | 0 |
+| Morgue.md | 11 | 11 | 0 |
+| Morgue_Cage_Key.md | 26 | 26 | 0 |
+| Morninglord's_Bulwark_(Condition).md | 32 | 32 | 0 |
+| Morningstar.md | 40 | 40 | 0 |
+| Morningstar_+1.md | 44 | 44 | 0 |
+| Morningstars.md | 59 | 59 | 0 |
+| Morphic_Ambush_(passive_feature).md | 16 | 16 | 0 |
+| Morphic_Evasion.md | 18 | 18 | 0 |
+| Mortally_Wounded_(Condition).md | 18 | 18 | 0 |
+| Mortar_and_Pestle.md | 19 | 19 | 0 |
+| Moss-Covered_Key.md | 26 | 26 | 0 |
+| Mother's_Loathing_(Condition).md | 21 | 21 | 0 |
+| Mother_of_Halflings.md | 31 | 31 | 0 |
+| Motivator.md | 29 | 29 | 0 |
+| Mottled_Key.md | 26 | 26 | 0 |
+| Moulded_Cheese_Wedge.md | 24 | 24 | 0 |
+| Mountain.md | 41 | 41 | 0 |
+| Mountainous_Poise.md | 24 | 24 | 0 |
+| Mourning.md | 11 | 11 | 0 |
+| Mysterious_Liquid.md | 26 | 26 | 0 |
+| Mystic_Carrion's_Poisoned_Curse_(Condition).md | 42 | 42 | 0 |
+| Mystra's_Benevolence_(Condition).md | 26 | 26 | 0 |
+| Mystra's_Blessing_(Condition).md | 20 | 20 | 0 |
+| Mystra's_Blessing_(Gale)_(Condition).md | 20 | 20 | 0 |
+| Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md | 36 | 36 | 0 |
+| Myth_Drannan_Amphigory.md | 30 | 30 | 0 |
+| NO_CAUSE_FOR_ALARM.md | 50 | 50 | 0 |
+| NPC.md | 85 | 85 | 0 |
+| Nail_colon__Status_Report.md | 36 | 36 | 0 |
+| Narcoleptic_Toxins_(Condition).md | 16 | 16 | 0 |
+| Natural_Pugilist.md | 21 | 21 | 0 |
+| Naturally_Stealthy.md | 22 | 22 | 0 |
 | Ominous_Bite.md | 110 | 110 | 0 |
 | On_Antidotes.md | 56 | 56 | 0 |
 | On_Black_Wings_(Condition).md | 31 | 31 | 0 |
@@ -8394,6 +8366,27 @@
 | Party.md | 385 | 385 | 0 |
 | Party_Planner.md | 32 | 32 | 0 |
 | Passage_of_Penitence.md | 44 | 44 | 0 |
+| Magical_Plate_(-1).md | 23 | 23 | 0 |
+| Magical_Walnut.md | 26 | 26 | 0 |
+| Maglubiyet.md | 440 | 440 | 0 |
+| Magmar's_Record.md | 44 | 44 | 0 |
+| Magmatic_Disturbance_(Condition).md | 21 | 21 | 0 |
+| Magmatic_Regeneration_(Condition).md | 20 | 20 | 0 |
+| Magnificently_Realised_Ensemble.md | 34 | 34 | 0 |
+| Magnifying_Glass.md | 21 | 21 | 0 |
+| Magus,_Be_Warned.md | 28 | 28 | 0 |
+| Maimed_(Condition).md | 46 | 46 | 0 |
+| Main_Hand_Attack.md | 30 | 30 | 0 |
+| Make_Big_Money_by_Trading_with_Adventurers.md | 22 | 22 | 0 |
+| Makeshift_Bow.md | 43 | 43 | 0 |
+| Makeshift_Ladle.md | 19 | 19 | 0 |
+| Makeshift_Spear.md | 39 | 39 | 0 |
+| Malefic_Excretion.md | 20 | 20 | 0 |
+| Malefic_Funghi.md | 20 | 20 | 0 |
+| Malefic_Possession_(Condition).md | 41 | 41 | 0 |
+| Malfunctioning_(Condition).md | 40 | 40 | 0 |
+| Malfunctioning_Shell_of_Resistance_(Condition).md | 26 | 26 | 0 |
+| Malice_(cloud).md | 37 | 37 | 0 |
 | Martial_Adept.md | 14 | 14 | 0 |
 | Martial_Advantage.md | 24 | 24 | 0 |
 | Martial_Arts_colon__Bonus_Unarmed_Strike.md | 32 | 32 | 0 |
@@ -8416,6 +8409,19 @@
 | Mason's_Journal_(Reithwin_Tollhouse).md | 34 | 34 | 0 |
 | Mason's_Letter.md | 40 | 40 | 0 |
 | Mason's_Log.md | 45 | 45 | 0 |
+| Oily_Sup_(Condition).md | 39 | 39 | 0 |
+| Olam's_Journal.md | 64 | 64 | 0 |
+| Old_Architectural_Collection.md | 26 | 26 | 0 |
+| Old_Backpack.md | 22 | 22 | 0 |
+| Old_Baldur's_Mouth_Letters_Page.md | 36 | 36 | 0 |
+| Old_Floppy_Hat.md | 22 | 22 | 0 |
+| Old_Jol's.md | 57 | 57 | 0 |
+| Old_Ledger.md | 28 | 28 | 0 |
+| Old_Letter.md | 46 | 46 | 0 |
+| Old_Maintenance_Records.md | 26 | 26 | 0 |
+| Old_Pouch.md | 20 | 20 | 0 |
+| Old_notes.md | 41 | 41 | 0 |
+| Oliver's_Diary.md | 68 | 68 | 0 |
 | Oathbreaking.md | 443 | 443 | 0 |
 | Obscured.md | 97 | 97 | 0 |
 | Obscurity.md | 97 | 97 | 0 |
@@ -8439,49 +8445,24 @@
 | Ogre's_Mark.md | 16 | 16 | 0 |
 | Oil.md | 33 | 33 | 0 |
 | Oil_Flask.md | 42 | 42 | 0 |
-| Magical_Plate_(-1).md | 23 | 23 | 0 |
-| Magical_Walnut.md | 26 | 26 | 0 |
-| Maglubiyet.md | 440 | 440 | 0 |
-| Magmar's_Record.md | 44 | 44 | 0 |
-| Magmatic_Disturbance_(Condition).md | 21 | 21 | 0 |
-| Magmatic_Regeneration_(Condition).md | 20 | 20 | 0 |
-| Magnificently_Realised_Ensemble.md | 34 | 34 | 0 |
-| Magnifying_Glass.md | 21 | 21 | 0 |
-| Magus,_Be_Warned.md | 28 | 28 | 0 |
-| Maimed_(Condition).md | 46 | 46 | 0 |
-| Main_Hand_Attack.md | 30 | 30 | 0 |
-| Make_Big_Money_by_Trading_with_Adventurers.md | 22 | 22 | 0 |
-| Makeshift_Bow.md | 43 | 43 | 0 |
-| Makeshift_Ladle.md | 19 | 19 | 0 |
-| Makeshift_Spear.md | 39 | 39 | 0 |
-| Malefic_Excretion.md | 20 | 20 | 0 |
-| Malefic_Funghi.md | 20 | 20 | 0 |
-| Malefic_Possession_(Condition).md | 41 | 41 | 0 |
-| Malfunctioning_(Condition).md | 40 | 40 | 0 |
-| Malfunctioning_Shell_of_Resistance_(Condition).md | 26 | 26 | 0 |
-| Malice_(cloud).md | 37 | 37 | 0 |
-| Oily_Sup_(Condition).md | 39 | 39 | 0 |
-| Olam's_Journal.md | 64 | 64 | 0 |
-| Old_Architectural_Collection.md | 26 | 26 | 0 |
-| Old_Backpack.md | 22 | 22 | 0 |
-| Old_Baldur's_Mouth_Letters_Page.md | 36 | 36 | 0 |
-| Old_Floppy_Hat.md | 22 | 22 | 0 |
-| Old_Jol's.md | 57 | 57 | 0 |
-| Old_Ledger.md | 28 | 28 | 0 |
-| Old_Letter.md | 46 | 46 | 0 |
-| Old_Maintenance_Records.md | 26 | 26 | 0 |
-| Old_Pouch.md | 20 | 20 | 0 |
-| Old_notes.md | 41 | 41 | 0 |
-| Oliver's_Diary.md | 68 | 68 | 0 |
-| Guide_colon_Party_Honor_Platinum_Walkthrough.md | 6 | 6 | 0 |
-| Guide_colon_Texture_Formatting.md | 217 | 217 | 0 |
-| Guide_colon_Thrileon's_Guide_to_Double_alchemy_crafts.md | 193 | 193 | 0 |
-| Guide_talk_colon_Circumventing_Honour_Mode_Save_File_Restrictions.md | 29 | 29 | 0 |
-| Guide_talk_colon_Early_Acquisition_of_Helldusk_Armour.md | 42 | 42 | 0 |
-| Guide_to_Taming_Worgs.md | 36 | 36 | 0 |
-| Guided_Strike_colon__Active_(Condition).md | 24 | 24 | 0 |
-| Guiding_Light.md | 39 | 39 | 0 |
-| Guild_Hall_Hatch_Key.md | 16 | 16 | 0 |
+| Misty_Presence.md | 24 | 24 | 0 |
+| Mixed_Coffee.md | 24 | 24 | 0 |
+| Mobile.md | 22 | 22 | 0 |
+| Mobile_colon__Evade_Opportunity_Attack.md | 32 | 32 | 0 |
+| Modding_Resources.md | 88 | 88 | 0 |
+| Modding_colon_BG3_Mini_Tool.md | 183 | 183 | 0 |
+| Modding_colon_Compatibility_Framework.md | 166 | 166 | 0 |
+| Modding_colon_Creating_Custom_Hair_with_Hair_Tool.md | 57 | 57 | 0 |
+| Modding_colon_Creating_Hair_Mods.md | 26 | 26 | 0 |
+| Modding_colon_Creating_Outfit_Textures.md | 219 | 219 | 0 |
+| Modding_colon_Creating_Race_Mods.md | 100 | 100 | 0 |
+| Modding_colon_Creating_and_Exporting_Meshes_in_Blender.md | 295 | 295 | 0 |
+| Modding_colon_Custom_Hair_Highlights.md | 38 | 38 | 0 |
+| Modding_colon_Custom_polymorph.md | 80 | 80 | 0 |
+| Modding_colon_Editing_Equipment.txt.md | 151 | 151 | 0 |
+| Modding_colon_Fixing_bone_errors.md | 32 | 32 | 0 |
+| Modding_colon_Fixing_neck_seams.md | 45 | 45 | 0 |
+| Modding_colon_Getting_Started_with_BG3_Modding.md | 129 | 129 | 0 |
 | Pickaxe.md | 40 | 40 | 0 |
 | Pickpocket's_Bag.md | 22 | 22 | 0 |
 | Pierce_the_Weak_(Condition).md | 30 | 30 | 0 |
@@ -8503,22 +8484,6 @@
 | Pivot_to_New_Target.md | 32 | 32 | 0 |
 | Pizza.md | 24 | 24 | 0 |
 | Plague-Green_Torch.md | 37 | 37 | 0 |
-| Persuasion.md | 87 | 87 | 0 |
-| Pest_Control.md | 14 | 14 | 0 |
-| Petrified.md | 37 | 37 | 0 |
-| Petrified_(Condition).md | 37 | 37 | 0 |
-| Phalanx_Formation.md | 20 | 20 | 0 |
-| Phalar_Aluve.md | 75 | 75 | 0 |
-| Phase_Optimizer_Active_(Condition).md | 24 | 24 | 0 |
-| Night_Shift_Report.md | 30 | 30 | 0 |
-| Night_Walker.md | 21 | 21 | 0 |
-| Nightsinger's_Reply.md | 16 | 16 | 0 |
-| Nimble_Alchemist.md | 16 | 16 | 0 |
-| Nimble_As_a_Cat.md | 16 | 16 | 0 |
-| Nimblefinger.md | 22 | 22 | 0 |
-| No_Price_Too_High.md | 36 | 36 | 0 |
-| No_one_will_publish_me!.md | 40 | 40 | 0 |
-| Noblestalk_Piece.md | 29 | 29 | 0 |
 | Plain_Boots.md | 22 | 22 | 0 |
 | Planecaster.md | 382 | 382 | 0 |
 | Planeslayer_Flail.md | 44 | 44 | 0 |
@@ -8538,86 +8503,6 @@
 | Poison_Trails.md | 16 | 16 | 0 |
 | Poison_cloud_(area).md | 46 | 46 | 0 |
 | Poisoned_(Basic_Poison)_(Condition).md | 35 | 35 | 0 |
-| Misty_Presence.md | 24 | 24 | 0 |
-| Mixed_Coffee.md | 24 | 24 | 0 |
-| Mobile.md | 22 | 22 | 0 |
-| Mobile_colon__Evade_Opportunity_Attack.md | 32 | 32 | 0 |
-| Modding_Resources.md | 88 | 88 | 0 |
-| Modding_colon_BG3_Mini_Tool.md | 183 | 183 | 0 |
-| Modding_colon_Compatibility_Framework.md | 166 | 166 | 0 |
-| Modding_colon_Creating_Custom_Hair_with_Hair_Tool.md | 57 | 57 | 0 |
-| Modding_colon_Creating_Hair_Mods.md | 26 | 26 | 0 |
-| Modding_colon_Creating_Outfit_Textures.md | 219 | 219 | 0 |
-| Modding_colon_Creating_Race_Mods.md | 100 | 100 | 0 |
-| Modding_colon_Creating_and_Exporting_Meshes_in_Blender.md | 295 | 295 | 0 |
-| Modding_colon_Custom_Hair_Highlights.md | 38 | 38 | 0 |
-| Modding_colon_Custom_polymorph.md | 80 | 80 | 0 |
-| Modding_colon_Editing_Equipment.txt.md | 151 | 151 | 0 |
-| Modding_colon_Fixing_bone_errors.md | 32 | 32 | 0 |
-| Modding_colon_Fixing_neck_seams.md | 45 | 45 | 0 |
-| Modding_colon_Getting_Started_with_BG3_Modding.md | 129 | 129 | 0 |
-| Monastery_Firewine.md | 56 | 56 | 0 |
-| Monastic_Robes.md | 42 | 42 | 0 |
-| Monk.md | 401 | 401 | 0 |
-| Monk_Weapon.md | 401 | 401 | 0 |
-| Monk_set.md | 17 | 17 | 0 |
-| Monks.md | 401 | 401 | 0 |
-| Monster_Slayer_Glaive.md | 63 | 63 | 0 |
-| Monsterslayer.md | 22 | 22 | 0 |
-| Monstrosity.md | 219 | 219 | 0 |
-| Moon_Brooch.md | 22 | 22 | 0 |
-| Moon_Devotion_Robe.md | 68 | 68 | 0 |
-| Moonbeam_(Condition).md | 34 | 34 | 0 |
-| Moonbeam_(area).md | 26 | 26 | 0 |
-| Moonblade.md | 48 | 48 | 0 |
-| Moondrop_Pendant.md | 40 | 40 | 0 |
-| Moonlantern.md | 62 | 62 | 0 |
-| Moonlight_Butterflies_(Condition).md | 24 | 24 | 0 |
-| Moonlight_Butterflies_(area).md | 30 | 30 | 0 |
-| Moonlight_Glaive.md | 66 | 66 | 0 |
-| Moonlight_Glaive_colon__Glowing.md | 28 | 28 | 0 |
-| Moonlit_Ensemble.md | 26 | 26 | 0 |
-| Moonlit_Slippers.md | 22 | 22 | 0 |
-| Moonrise_Diagram.md | 30 | 30 | 0 |
-| Moonrise_Towers_Prisoner_Log.md | 42 | 42 | 0 |
-| Moonrise_Towers_Rooftop.md | 90 | 90 | 0 |
-| Moonshae_Strait_Shipping_Report.md | 24 | 24 | 0 |
-| Cursed_Vengeance.md | 20 | 20 | 0 |
-| Cursed_Vengeance_(Condition).md | 16 | 16 | 0 |
-| Cursed_colon__Filled_with_Dread_(Condition).md | 26 | 26 | 0 |
-| Curving_Shot.md | 50 | 50 | 0 |
-| Custom.md | 154 | 154 | 0 |
-| Cutest_Cat_You've_Ever_Seen.md | 22 | 22 | 0 |
-| Cutting_Board.md | 19 | 19 | 0 |
-| Cutting_Words_(passive_feature).md | 20 | 20 | 0 |
-| Dad's_Axe.md | 36 | 36 | 0 |
-| Dagger.md | 76 | 76 | 0 |
-| Dagger_+1.md | 50 | 50 | 0 |
-| Dagger_+2.md | 39 | 39 | 0 |
-| Dagger_Specialist.md | 16 | 16 | 0 |
-| Dagger_Thrower.md | 16 | 16 | 0 |
-| Dagger_of_Shar.md | 65 | 65 | 0 |
-| Passive.md | 18 | 18 | 0 |
-| Passive_check.md | 23 | 23 | 0 |
-| Passive_checks.md | 23 | 23 | 0 |
-| Passive_feature.md | 18 | 18 | 0 |
-| Passives.md | 18 | 18 | 0 |
-| Past_Due_Invoice.md | 34 | 34 | 0 |
-| Patch.md | 6 | 6 | 0 |
-| Patch_6.md | 6 | 6 | 0 |
-| Patch_7.md | 6 | 6 | 0 |
-| Patched_Parchment.md | 38 | 38 | 0 |
-| Patient_Log_colon__Duke_Belynne_Stelmane.md | 32 | 32 | 0 |
-| Patients'_Registry.md | 30 | 30 | 0 |
-| Patriar's_Letter.md | 25 | 25 | 0 |
-| Patriar_Correspondence.md | 30 | 30 | 0 |
-| Patriars_Journal.md | 40 | 40 | 0 |
-| Patrons_of_our_Hero.md | 32 | 32 | 0 |
-| Pear.md | 24 | 24 | 0 |
-| Peartree's_Chest_Key.md | 26 | 26 | 0 |
-| Peculiar_Flower.md | 22 | 22 | 0 |
-| Peculiar_lamp.md | 235 | 235 | 0 |
-| Peer_Review.md | 30 | 30 | 0 |
 | Populism_and_Propaganda.md | 36 | 36 | 0 |
 | Pork_Shoulder.md | 20 | 20 | 0 |
 | Portent_Die.md | 32 | 32 | 0 |
@@ -8641,41 +8526,60 @@
 | Potent_Spellcasting.md | 26 | 26 | 0 |
 | Potion_Bottle.md | 49 | 49 | 0 |
 | Potion_Catalogue.md | 36 | 36 | 0 |
-| Nature's_Embrace.md | 20 | 20 | 0 |
-| Nature's_Snare.md | 65 | 65 | 0 |
-| Nature's_Step.md | 29 | 29 | 0 |
-| Nature's_Ward.md | 28 | 28 | 0 |
-| Nature_Domain.md | 83 | 83 | 0 |
-| Nauseated_(Condition).md | 21 | 21 | 0 |
-| Nauseous_(Condition).md | 34 | 34 | 0 |
-| Ne'er_Misser.md | 49 | 49 | 0 |
-| Neatly-Written_Note.md | 32 | 32 | 0 |
-| Necromancer.md | 47 | 47 | 0 |
-| Necromancy_Savant.md | 47 | 47 | 0 |
-| Necromancy_School.md | 47 | 47 | 0 |
-| Necromantic_Codexes,_Their_Enigmas.md | 38 | 38 | 0 |
-| Necromantic_Evasion.md | 18 | 18 | 0 |
-| Necrosis_(Condition).md | 20 | 20 | 0 |
-| Necrotic_Absorption_(Condition).md | 13 | 13 | 0 |
-| Necrotic_Laboratory.md | 50 | 50 | 0 |
-| Necrotic_Laboratory_Spare_Key.md | 26 | 26 | 0 |
-| Guard_Rotation.md | 30 | 30 | 0 |
-| Guardian_of_Faith_(disambiguation).md | 15 | 15 | 0 |
-| Guardian_of_Faith_(passive_feature).md | 22 | 22 | 0 |
-| Guest_Log.md | 50 | 50 | 0 |
-| Guestbook_of_Rosymorn_Abbey.md | 42 | 42 | 0 |
-| Guidance_(Condition).md | 24 | 24 | 0 |
-| Guide_colon_Action_Surge_(achievement).md | 14 | 14 | 0 |
-| Guide_colon_Circumventing_Honour_Mode_Save_File_Restrictions.md | 37 | 37 | 0 |
-| Guide_colon_Colour_Map.md | 241 | 241 | 0 |
-| Guide_colon_Custom_Polymorph.md | 80 | 80 | 0 |
-| Guide_colon_Fancy_Footwork_(achievement).md | 22 | 22 | 0 |
-| Guide_colon_Fixing_Bone_Errors.md | 32 | 32 | 0 |
-| Guide_colon_Fixing_Neck_Seams.md | 45 | 45 | 0 |
-| Guide_colon_Gear_locator.md | 14 | 14 | 0 |
-| Guide_colon_Gear_locator_(Act_Three).md | 14 | 14 | 0 |
-| Guide_colon_Gear_locator_(Act_Two).md | 14 | 14 | 0 |
-| Guide_colon_Index.md | 143 | 143 | 0 |
+| Passive.md | 18 | 18 | 0 |
+| Passive_check.md | 23 | 23 | 0 |
+| Passive_checks.md | 23 | 23 | 0 |
+| Passive_feature.md | 18 | 18 | 0 |
+| Passives.md | 18 | 18 | 0 |
+| Past_Due_Invoice.md | 34 | 34 | 0 |
+| Patch.md | 6 | 6 | 0 |
+| Patch_6.md | 6 | 6 | 0 |
+| Patch_7.md | 6 | 6 | 0 |
+| Patched_Parchment.md | 38 | 38 | 0 |
+| Patient_Log_colon__Duke_Belynne_Stelmane.md | 32 | 32 | 0 |
+| Patients'_Registry.md | 30 | 30 | 0 |
+| Patriar's_Letter.md | 25 | 25 | 0 |
+| Patriar_Correspondence.md | 30 | 30 | 0 |
+| Patriars_Journal.md | 40 | 40 | 0 |
+| Patrons_of_our_Hero.md | 32 | 32 | 0 |
+| Pear.md | 24 | 24 | 0 |
+| Peartree's_Chest_Key.md | 26 | 26 | 0 |
+| Peculiar_Flower.md | 22 | 22 | 0 |
+| Peculiar_lamp.md | 235 | 235 | 0 |
+| Peer_Review.md | 30 | 30 | 0 |
+| Persuasion.md | 87 | 87 | 0 |
+| Pest_Control.md | 14 | 14 | 0 |
+| Petrified.md | 37 | 37 | 0 |
+| Petrified_(Condition).md | 37 | 37 | 0 |
+| Phalanx_Formation.md | 20 | 20 | 0 |
+| Phalar_Aluve.md | 75 | 75 | 0 |
+| Phase_Optimizer_Active_(Condition).md | 24 | 24 | 0 |
+| Phelgro_Dorph.md | 299 | 299 | 0 |
+| Cursed_Vengeance.md | 20 | 20 | 0 |
+| Cursed_Vengeance_(Condition).md | 16 | 16 | 0 |
+| Cursed_colon__Filled_with_Dread_(Condition).md | 26 | 26 | 0 |
+| Curving_Shot.md | 50 | 50 | 0 |
+| Custom.md | 154 | 154 | 0 |
+| Cutest_Cat_You've_Ever_Seen.md | 22 | 22 | 0 |
+| Cutting_Board.md | 19 | 19 | 0 |
+| Cutting_Words_(passive_feature).md | 20 | 20 | 0 |
+| Dad's_Axe.md | 36 | 36 | 0 |
+| Dagger.md | 76 | 76 | 0 |
+| Dagger_+1.md | 50 | 50 | 0 |
+| Dagger_+2.md | 39 | 39 | 0 |
+| Dagger_Specialist.md | 16 | 16 | 0 |
+| Dagger_Thrower.md | 16 | 16 | 0 |
+| Dagger_of_Shar.md | 65 | 65 | 0 |
+| Night_Shift_Report.md | 30 | 30 | 0 |
+| Night_Walker.md | 21 | 21 | 0 |
+| Nightsinger's_Reply.md | 16 | 16 | 0 |
+| Nimble_Alchemist.md | 16 | 16 | 0 |
+| Nimble_As_a_Cat.md | 16 | 16 | 0 |
+| Nimblefinger.md | 22 | 22 | 0 |
+| Niram.md | 511 | 511 | 0 |
+| No_Price_Too_High.md | 36 | 36 | 0 |
+| No_one_will_publish_me!.md | 40 | 40 | 0 |
+| Noblestalk_Piece.md | 29 | 29 | 0 |
 | Open_Investigation.md | 34 | 34 | 0 |
 | Open_Warrens_(Condition).md | 16 | 16 | 0 |
 | Open_Your_Scars.md | 76 | 76 | 0 |
@@ -8705,6 +8609,49 @@
 | Origin.md | 154 | 154 | 0 |
 | Origin_characters.md | 154 | 154 | 0 |
 | Origins.md | 154 | 154 | 0 |
+| Monastery_Firewine.md | 56 | 56 | 0 |
+| Monastic_Robes.md | 42 | 42 | 0 |
+| Monk.md | 401 | 401 | 0 |
+| Monk_Weapon.md | 401 | 401 | 0 |
+| Monk_set.md | 17 | 17 | 0 |
+| Monks.md | 401 | 401 | 0 |
+| Monster_Slayer_Glaive.md | 63 | 63 | 0 |
+| Monsterslayer.md | 22 | 22 | 0 |
+| Monstrosity.md | 219 | 219 | 0 |
+| Moon_Brooch.md | 22 | 22 | 0 |
+| Moon_Devotion_Robe.md | 68 | 68 | 0 |
+| Moonbeam_(Condition).md | 34 | 34 | 0 |
+| Moonbeam_(area).md | 26 | 26 | 0 |
+| Moonblade.md | 48 | 48 | 0 |
+| Moondrop_Pendant.md | 40 | 40 | 0 |
+| Moonlantern.md | 62 | 62 | 0 |
+| Moonlight_Butterflies_(Condition).md | 24 | 24 | 0 |
+| Moonlight_Butterflies_(area).md | 30 | 30 | 0 |
+| Moonlight_Glaive.md | 66 | 66 | 0 |
+| Moonlight_Glaive_colon__Glowing.md | 28 | 28 | 0 |
+| Moonlit_Ensemble.md | 26 | 26 | 0 |
+| Moonlit_Slippers.md | 22 | 22 | 0 |
+| Moonrise_Diagram.md | 30 | 30 | 0 |
+| Moonrise_Towers_Prisoner_Log.md | 42 | 42 | 0 |
+| Moonrise_Towers_Rooftop.md | 90 | 90 | 0 |
+| Moonshae_Strait_Shipping_Report.md | 24 | 24 | 0 |
+| Protection_from_Energy_colon__Lightning_(Condition).md | 24 | 24 | 0 |
+| Protection_from_Energy_colon__Thunder_(Condition).md | 24 | 24 | 0 |
+| Protective_Plate.md | 48 | 48 | 0 |
+| Provender_Ledger.md | 28 | 28 | 0 |
+| Prowling_(Condition).md | 16 | 16 | 0 |
+| Psalms_to_the_Old_Oak.md | 32 | 32 | 0 |
+| Psionic_Backlash_(passive_feature).md | 34 | 34 | 0 |
+| Psionic_Dominance_(passive_feature).md | 35 | 35 | 0 |
+| Psionic_Drain_(Condition).md | 17 | 17 | 0 |
+| Psionic_Empowerment.md | 16 | 16 | 0 |
+| Psionic_Enrichment.md | 24 | 24 | 0 |
+| Psionic_Enrichment_(Condition).md | 24 | 24 | 0 |
+| Psionic_Retribution.md | 20 | 20 | 0 |
+| Psionic_Revenge.md | 28 | 28 | 0 |
+| Psionic_Skin.md | 16 | 16 | 0 |
+| Psionic_Ward.md | 13 | 13 | 0 |
+| Psionic_Ward_(passive_feature).md | 26 | 26 | 0 |
 | Reaper's_Embrace.md | 76 | 76 | 0 |
 | Reaper's_Reward_(Condition).md | 32 | 32 | 0 |
 | Reaper's_Rigidity.md | 28 | 28 | 0 |
@@ -8725,12 +8672,31 @@
 | Record_of_Complaints.md | 30 | 30 | 0 |
 | Record_of_Operations_in_Neverwinter.md | 28 | 28 | 0 |
 | Record_of_Ownership.md | 46 | 46 | 0 |
+| Nature's_Embrace.md | 20 | 20 | 0 |
+| Nature's_Snare.md | 65 | 65 | 0 |
+| Nature's_Step.md | 29 | 29 | 0 |
+| Nature's_Ward.md | 28 | 28 | 0 |
+| Nature_Domain.md | 83 | 83 | 0 |
+| Nauseated_(Condition).md | 21 | 21 | 0 |
+| Nauseous_(Condition).md | 34 | 34 | 0 |
+| Ne'er_Misser.md | 49 | 49 | 0 |
+| Neatly-Written_Note.md | 32 | 32 | 0 |
+| Necromancer.md | 47 | 47 | 0 |
+| Necromancy_Savant.md | 47 | 47 | 0 |
+| Necromancy_School.md | 47 | 47 | 0 |
+| Necromantic_Codexes,_Their_Enigmas.md | 38 | 38 | 0 |
+| Necromantic_Evasion.md | 18 | 18 | 0 |
+| Necrosis_(Condition).md | 20 | 20 | 0 |
+| Necrotic_Absorption_(Condition).md | 13 | 13 | 0 |
+| Necrotic_Laboratory.md | 50 | 50 | 0 |
+| Necrotic_Laboratory_Spare_Key.md | 26 | 26 | 0 |
 | Psychic_Leech.md | 16 | 16 | 0 |
 | Psychic_Missiles.md | 21 | 21 | 0 |
 | Psychic_Spark.md | 42 | 42 | 0 |
 | Psychic_Steel_Virtuoso.md | 21 | 21 | 0 |
 | Psychically_Dominated_(Condition).md | 16 | 16 | 0 |
 | Ptarian_Pacifism_(Condition).md | 34 | 34 | 0 |
+| Puce.md | 399 | 399 | 0 |
 | Pumpkin_Soup.md | 24 | 24 | 0 |
 | Punch-Drunk_Bastard.md | 61 | 61 | 0 |
 | Punch.md | 26 | 26 | 0 |
@@ -8741,42 +8707,52 @@
 | Purple_Worm_Toxin_(Condition).md | 29 | 29 | 0 |
 | Pursuit_Protocol_(Condition).md | 12 | 12 | 0 |
 | Puzzle.md | 16 | 16 | 0 |
-| Protection_from_Energy_colon__Lightning_(Condition).md | 24 | 24 | 0 |
-| Protection_from_Energy_colon__Thunder_(Condition).md | 24 | 24 | 0 |
-| Protective_Plate.md | 48 | 48 | 0 |
-| Provender_Ledger.md | 28 | 28 | 0 |
-| Prowling_(Condition).md | 16 | 16 | 0 |
-| Psalms_to_the_Old_Oak.md | 32 | 32 | 0 |
-| Psionic_Backlash_(passive_feature).md | 34 | 34 | 0 |
-| Psionic_Dominance_(passive_feature).md | 35 | 35 | 0 |
-| Psionic_Drain_(Condition).md | 17 | 17 | 0 |
-| Psionic_Empowerment.md | 16 | 16 | 0 |
-| Psionic_Enrichment.md | 24 | 24 | 0 |
-| Psionic_Enrichment_(Condition).md | 24 | 24 | 0 |
-| Psionic_Retribution.md | 20 | 20 | 0 |
-| Psionic_Revenge.md | 28 | 28 | 0 |
-| Psionic_Skin.md | 16 | 16 | 0 |
-| Psionic_Ward.md | 13 | 13 | 0 |
-| Psionic_Ward_(passive_feature).md | 26 | 26 | 0 |
-| Rogue.md | 268 | 268 | 0 |
-| Rogues.md | 268 | 268 | 0 |
-| Rolan's_Journal.md | 34 | 34 | 0 |
-| Rolling_Deck_Rum.md | 52 | 52 | 0 |
-| Rope.md | 23 | 23 | 0 |
-| Rose's_Chest_Key.md | 22 | 22 | 0 |
-| Rosewood_Desk.md | 15 | 15 | 0 |
-| Rosewood_Desk_Key.md | 22 | 22 | 0 |
-| Rosymorn_Firewine.md | 56 | 56 | 0 |
-| Rosymorn_Monastery.md | 245 | 245 | 0 |
-| Rosymorn_Monastery_Trail.md | 183 | 183 | 0 |
-| Rothé_Femur.md | 42 | 42 | 0 |
-| Rotten_Banana.md | 36 | 36 | 0 |
-| Rotten_Beregost_Blue_Wheel.md | 36 | 36 | 0 |
-| Rotten_Durinbold_Cheese_Wedge.md | 68 | 68 | 0 |
-| Rotten_Mushroom.md | 48 | 48 | 0 |
-| Rotten_Reflux_(Condition).md | 43 | 43 | 0 |
-| Rotten_Waterdhavian_Cheese_Wheel.md | 36 | 36 | 0 |
-| Rotting_Basket.md | 23 | 23 | 0 |
+| Profiling_Methods.md | 28 | 28 | 0 |
+| Projected_Image_(Condition).md | 29 | 29 | 0 |
+| Prologue.md | 132 | 132 | 0 |
+| Promise.md | 48 | 48 | 0 |
+| Propelling_Strike.md | 16 | 16 | 0 |
+| Prophecy_colon__A_Blunt_Tool_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__A_Little_Help_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__A_Little_Prick_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Burn_After_Reading_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Changes_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Cutting_Edge_(Condition).md | 25 | 25 | 0 |
+| Prophecy_colon__Dead_Right_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Delivering_Alms_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Evocative_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Feign_Surprise_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Forceful_Insistence_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Frosty_Reception_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Grave_Fate_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Guarded_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Headache_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Holy_Epiphany_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Melting_Pot_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Predictable_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Reap_Rewards_(Condition).md | 21 | 21 | 0 |
+| Prophecy_colon__Shocking_Revelation_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Spellbinding_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Thunderous_Applause_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Venomous_Words_(Condition).md | 24 | 24 | 0 |
+| Prophecy_colon__Well-Read_(Condition).md | 24 | 24 | 0 |
+| Protection.md | 34 | 34 | 0 |
+| Protection_from_Energy_colon__Acid_(Condition).md | 24 | 24 | 0 |
+| Qua'nith_Psionic_Detector.md | 24 | 24 | 0 |
+| Quartermaster.md | 14 | 14 | 0 |
+| Quarterstaff.md | 75 | 75 | 0 |
+| Quarterstaff_+1.md | 42 | 42 | 0 |
+| Quarterstaff_+2.md | 41 | 41 | 0 |
+| Queen_of_Kingpins.md | 32 | 32 | 0 |
+| Queen_of_Ravens.md | 38 | 38 | 0 |
+| Quickened_Mage_Hand.md | 20 | 20 | 0 |
+| Quickening_Incantation_(Condition).md | 22 | 22 | 0 |
+| Quickly_Ticking_Mine_(Condition).md | 31 | 31 | 0 |
+| Quickspell_Flinger.md | 29 | 29 | 0 |
+| Quill.md | 19 | 19 | 0 |
+| Quirkilious'_Stockroom_Key.md | 26 | 26 | 0 |
+| READ_HENK.md | 36 | 36 | 0 |
+| REQUIREMENTS.md | 32 | 32 | 0 |
 | Predator_Essence_(Condition).md | 37 | 37 | 0 |
 | Prepared_(Condition).md | 24 | 24 | 0 |
 | Prepared_spells.md | 358 | 358 | 0 |
@@ -8810,54 +8786,25 @@
 | Reach_Moonrise_Towers.md | 46 | 46 | 0 |
 | Reaction_(Resource).md | 363 | 363 | 0 |
 | Really,_Gozz_q_.md | 32 | 32 | 0 |
-| Profiling_Methods.md | 28 | 28 | 0 |
-| Projected_Image_(Condition).md | 29 | 29 | 0 |
-| Prologue.md | 132 | 132 | 0 |
-| Promise.md | 48 | 48 | 0 |
-| Propelling_Strike.md | 16 | 16 | 0 |
-| Prophecy_colon__A_Blunt_Tool_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__A_Little_Help_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__A_Little_Prick_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Burn_After_Reading_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Changes_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Cutting_Edge_(Condition).md | 25 | 25 | 0 |
-| Prophecy_colon__Dead_Right_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Delivering_Alms_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Evocative_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Feign_Surprise_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Forceful_Insistence_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Frosty_Reception_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Grave_Fate_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Guarded_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Headache_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Holy_Epiphany_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Melting_Pot_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Predictable_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Reap_Rewards_(Condition).md | 21 | 21 | 0 |
-| Prophecy_colon__Shocking_Revelation_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Spellbinding_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Thunderous_Applause_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Venomous_Words_(Condition).md | 24 | 24 | 0 |
-| Prophecy_colon__Well-Read_(Condition).md | 24 | 24 | 0 |
-| Protection.md | 34 | 34 | 0 |
-| Protection_from_Energy_colon__Acid_(Condition).md | 24 | 24 | 0 |
-| Roveer's_Hand.md | 22 | 22 | 0 |
-| Row_of_Books.md | 50 | 50 | 0 |
-| Royal_Orders.md | 38 | 38 | 0 |
-| Rufflesome_Blaggart_Hat.md | 22 | 22 | 0 |
-| Ruintamer_Heart.md | 20 | 20 | 0 |
-| Rules_for_Elfsong_Customers.md | 38 | 38 | 0 |
-| Rules_in_This_Bar.md | 44 | 44 | 0 |
-| Rules_of_the_Reading_Room.md | 32 | 32 | 0 |
-| Rune_of_the_Wolf.md | 23 | 23 | 0 |
-| Runepowder_and_the_Modern_Gnome.md | 26 | 26 | 0 |
-| Rupturing_Blade.md | 62 | 62 | 0 |
-| Rush.md | 11 | 11 | 0 |
-| Rush_(Boar).md | 43 | 43 | 0 |
-| Rush_(Hellsboar).md | 41 | 41 | 0 |
-| Rush_(disambiguation).md | 11 | 11 | 0 |
-| Rusted_Blade.md | 37 | 37 | 0 |
-| Rusted_Key_(Apothecary).md | 26 | 26 | 0 |
+| Rogue.md | 268 | 268 | 0 |
+| Rogues.md | 268 | 268 | 0 |
+| Rolan's_Journal.md | 34 | 34 | 0 |
+| Rolling_Deck_Rum.md | 52 | 52 | 0 |
+| Rope.md | 23 | 23 | 0 |
+| Rose's_Chest_Key.md | 22 | 22 | 0 |
+| Rosewood_Desk.md | 15 | 15 | 0 |
+| Rosewood_Desk_Key.md | 22 | 22 | 0 |
+| Rosymorn_Firewine.md | 56 | 56 | 0 |
+| Rosymorn_Monastery.md | 245 | 245 | 0 |
+| Rosymorn_Monastery_Trail.md | 183 | 183 | 0 |
+| Rothé_Femur.md | 42 | 42 | 0 |
+| Rotten_Banana.md | 36 | 36 | 0 |
+| Rotten_Beregost_Blue_Wheel.md | 36 | 36 | 0 |
+| Rotten_Durinbold_Cheese_Wedge.md | 68 | 68 | 0 |
+| Rotten_Mushroom.md | 48 | 48 | 0 |
+| Rotten_Reflux_(Condition).md | 43 | 43 | 0 |
+| Rotten_Waterdhavian_Cheese_Wheel.md | 36 | 36 | 0 |
+| Rotting_Basket.md | 23 | 23 | 0 |
 | Record_of_Shipment.md | 26 | 26 | 0 |
 | Record_of_the_Honoured.md | 62 | 62 | 0 |
 | Records_of_the_Deceased.md | 34 | 34 | 0 |
@@ -8879,21 +8826,20 @@
 | Regarding_Portrait_Production.md | 38 | 38 | 0 |
 | Regarding_Prayer_Monitoring.md | 32 | 32 | 0 |
 | Regarding_Strange_Riders_in_These_Parts.md | 44 | 44 | 0 |
-| Qua'nith_Psionic_Detector.md | 24 | 24 | 0 |
-| Quartermaster.md | 14 | 14 | 0 |
-| Quarterstaff.md | 75 | 75 | 0 |
-| Quarterstaff_+1.md | 42 | 42 | 0 |
-| Quarterstaff_+2.md | 41 | 41 | 0 |
-| Queen_of_Kingpins.md | 32 | 32 | 0 |
-| Queen_of_Ravens.md | 38 | 38 | 0 |
-| Quickened_Mage_Hand.md | 20 | 20 | 0 |
-| Quickening_Incantation_(Condition).md | 22 | 22 | 0 |
-| Quickly_Ticking_Mine_(Condition).md | 31 | 31 | 0 |
-| Quickspell_Flinger.md | 29 | 29 | 0 |
-| Quill.md | 19 | 19 | 0 |
-| Quirkilious'_Stockroom_Key.md | 26 | 26 | 0 |
-| READ_HENK.md | 36 | 36 | 0 |
-| REQUIREMENTS.md | 32 | 32 | 0 |
+| Modding_colon_Hair_Mod_Mesh_Setup.md | 121 | 121 | 0 |
+| Modding_colon_How_To_Find_A_Virtual_Texture.md | 138 | 138 | 0 |
+| Modding_colon_Localization.md | 85 | 85 | 0 |
+| Modding_colon_Mod_troubleshooting.md | 47 | 47 | 0 |
+| Modding_colon_Modding_class_icons.md | 77 | 77 | 0 |
+| Modding_colon_Modding_resources.md | 88 | 88 | 0 |
+| Modding_colon_NPC_Head_Models.md | 52 | 52 | 0 |
+| Modding_colon_Non-VT_Shaders.md | 34 | 34 | 0 |
+| Modding_colon_Packaging_mods.md | 22 | 22 | 0 |
+| Modding_colon_Sample_Templates.md | 96 | 96 | 0 |
+| Modding_colon_Use_Outfit_Builder_To_Refit_Outfits.md | 28 | 28 | 0 |
+| Modding_talk_colon_Installing_mods.md | 6 | 6 | 0 |
+| Modding_the_Game.md | 88 | 88 | 0 |
+| Moderately_Armoured.md | 20 | 20 | 0 |
 | Rain_Dancer.md | 49 | 49 | 0 |
 | Rainforest's_Chest_Key.md | 26 | 26 | 0 |
 | Rakish_Sneak_Attack.md | 11 | 11 | 0 |
@@ -8917,89 +8863,23 @@
 | Rapiers.md | 66 | 66 | 0 |
 | Rapport_Spores_(Condition).md | 31 | 31 | 0 |
 | Rapport_spores_(area).md | 31 | 31 | 0 |
-| Saviour's_Allure.md | 17 | 17 | 0 |
-| Scabby_Pugilist_Circlet.md | 38 | 38 | 0 |
-| Scale.md | 19 | 19 | 0 |
-| Scale_Mail.md | 99 | 99 | 0 |
-| Scale_Mail_+1.md | 53 | 53 | 0 |
-| Scale_Mail_+2.md | 52 | 52 | 0 |
-| Scale_Mail_Mould.md | 22 | 22 | 0 |
-| Scale_Mail_of_Vengeance.md | 45 | 45 | 0 |
-| Scale_Mail_of_the_Ancients.md | 45 | 45 | 0 |
-| Scaled_Scions_of_Abeir.md | 36 | 36 | 0 |
-| Scalpel.md | 70 | 70 | 0 |
-| Scar_of_the_Agave.md | 16 | 16 | 0 |
-| Scar_of_the_Dunes.md | 20 | 20 | 0 |
-| Scar_of_the_Sand_Eclipse.md | 16 | 16 | 0 |
-| Scarab_of_Protection.md | 26 | 26 | 0 |
-| Scarlet_Leather_Armour.md | 53 | 53 | 0 |
-| Scarlet_Remittance_+2_(Condition).md | 30 | 30 | 0 |
-| Scarlet_Stupor_(Condition).md | 27 | 27 | 0 |
-| Scented_Letter.md | 36 | 36 | 0 |
-| Scenting_Blood.md | 16 | 16 | 0 |
-| Schools_of_Magic_colon__Abjuration.md | 30 | 30 | 0 |
-| Schools_of_Magic_colon__Conjuration.md | 30 | 30 | 0 |
-| Schools_of_Magic_colon__Divination.md | 30 | 30 | 0 |
-| Schools_of_Magic_colon__Enchantment.md | 30 | 30 | 0 |
-| Schools_of_Magic_colon__Evocation.md | 30 | 30 | 0 |
-| Schools_of_Magic_colon__Illusion.md | 30 | 30 | 0 |
-| Modding_colon_Hair_Mod_Mesh_Setup.md | 121 | 121 | 0 |
-| Modding_colon_How_To_Find_A_Virtual_Texture.md | 138 | 138 | 0 |
-| Modding_colon_Localization.md | 85 | 85 | 0 |
-| Modding_colon_Mod_troubleshooting.md | 47 | 47 | 0 |
-| Modding_colon_Modding_class_icons.md | 77 | 77 | 0 |
-| Modding_colon_Modding_resources.md | 88 | 88 | 0 |
-| Modding_colon_NPC_Head_Models.md | 52 | 52 | 0 |
-| Modding_colon_Non-VT_Shaders.md | 34 | 34 | 0 |
-| Modding_colon_Packaging_mods.md | 22 | 22 | 0 |
-| Modding_colon_Sample_Templates.md | 96 | 96 | 0 |
-| Modding_colon_Use_Outfit_Builder_To_Refit_Outfits.md | 28 | 28 | 0 |
-| Modding_talk_colon_Installing_mods.md | 6 | 6 | 0 |
-| Modding_the_Game.md | 88 | 88 | 0 |
-| Moderately_Armoured.md | 20 | 20 | 0 |
-| Ribald_Shanties_for_the_Discerning_Whoreson.md | 34 | 34 | 0 |
-| Ribcage.md | 20 | 20 | 0 |
-| Ribcage_(Clutter).md | 21 | 21 | 0 |
-| Righteous_Clarity.md | 33 | 33 | 0 |
-| Righteous_Clarity_(Condition).md | 22 | 22 | 0 |
-| Ring_Mail_Armour.md | 49 | 49 | 0 |
-| Ring_of_Crabsight.md | 26 | 26 | 0 |
-| Ring_of_Evasion_(Reaction).md | 27 | 27 | 0 |
-| Ring_of_Feywild_Sparks.md | 31 | 31 | 0 |
-| Ring_of_Flinging.md | 31 | 31 | 0 |
-| Ring_of_Mental_Inhibition.md | 38 | 38 | 0 |
-| Rustic_Chest.md | 48 | 48 | 0 |
-| Rusty_Battleaxe.md | 42 | 42 | 0 |
-| Rusty_Dagger.md | 37 | 37 | 0 |
-| Rusty_Flail.md | 36 | 36 | 0 |
-| Rusty_Glaive.md | 43 | 43 | 0 |
-| Rusty_Greataxe.md | 38 | 38 | 0 |
-| Rusty_Greatsword.md | 42 | 42 | 0 |
-| Rusty_Halberd.md | 41 | 41 | 0 |
-| Rusty_Hand_Crossbow.md | 36 | 36 | 0 |
-| Rusty_Handaxe.md | 31 | 31 | 0 |
-| Rusty_Heavy_Crossbow.md | 36 | 36 | 0 |
-| Rusty_Key.md | 26 | 26 | 0 |
-| Rusty_Light_Crossbow.md | 30 | 30 | 0 |
-| Rusty_Light_Hammer.md | 36 | 36 | 0 |
-| Rusty_Longsword.md | 45 | 45 | 0 |
-| Rusty_Mace.md | 33 | 33 | 0 |
-| Rusty_Maul.md | 40 | 40 | 0 |
-| Rusty_Morningstar.md | 40 | 40 | 0 |
-| Rusty_Pike.md | 41 | 41 | 0 |
-| Rusty_Rapier.md | 39 | 39 | 0 |
-| Rusty_Scimitar.md | 39 | 39 | 0 |
-| Rusty_Shortsword.md | 38 | 38 | 0 |
-| Rusty_Sickle.md | 34 | 34 | 0 |
-| Rusty_Spear.md | 39 | 39 | 0 |
-| Rusty_Trident.md | 45 | 45 | 0 |
-| Rusty_War_Pick.md | 38 | 38 | 0 |
-| Rusty_Warhammer.md | 42 | 42 | 0 |
-| SG_Approaching.md | 11 | 11 | 0 |
-| SG_CanBePickedUp.md | 10 | 10 | 0 |
-| SG_Confused.md | 15 | 15 | 0 |
-| SG_DetectThoughts.md | 15 | 15 | 0 |
-| SG_Doppelganger.md | 10 | 10 | 0 |
+| Roveer's_Hand.md | 22 | 22 | 0 |
+| Row_of_Books.md | 50 | 50 | 0 |
+| Royal_Orders.md | 38 | 38 | 0 |
+| Rufflesome_Blaggart_Hat.md | 22 | 22 | 0 |
+| Ruintamer_Heart.md | 20 | 20 | 0 |
+| Rules_for_Elfsong_Customers.md | 38 | 38 | 0 |
+| Rules_in_This_Bar.md | 44 | 44 | 0 |
+| Rules_of_the_Reading_Room.md | 32 | 32 | 0 |
+| Rune_of_the_Wolf.md | 23 | 23 | 0 |
+| Runepowder_and_the_Modern_Gnome.md | 26 | 26 | 0 |
+| Rupturing_Blade.md | 62 | 62 | 0 |
+| Rush.md | 11 | 11 | 0 |
+| Rush_(Boar).md | 43 | 43 | 0 |
+| Rush_(Hellsboar).md | 41 | 41 | 0 |
+| Rush_(disambiguation).md | 11 | 11 | 0 |
+| Rusted_Blade.md | 37 | 37 | 0 |
+| Rusted_Key_(Apothecary).md | 26 | 26 | 0 |
 | Pelorsun_Blade.md | 65 | 65 | 0 |
 | Pending_Tab_colon__Investigator_Valeria.md | 36 | 36 | 0 |
 | Penumbral_Armour.md | 48 | 48 | 0 |
@@ -9016,6 +8896,46 @@
 | Permanently_Armed.md | 24 | 24 | 0 |
 | Personal_Account.md | 34 | 34 | 0 |
 | Personal_Note.md | 11 | 11 | 0 |
+| Ribald_Shanties_for_the_Discerning_Whoreson.md | 34 | 34 | 0 |
+| Ribcage.md | 20 | 20 | 0 |
+| Ribcage_(Clutter).md | 21 | 21 | 0 |
+| Righteous_Clarity.md | 33 | 33 | 0 |
+| Righteous_Clarity_(Condition).md | 22 | 22 | 0 |
+| Ring_Mail_Armour.md | 49 | 49 | 0 |
+| Ring_of_Crabsight.md | 26 | 26 | 0 |
+| Ring_of_Evasion_(Reaction).md | 27 | 27 | 0 |
+| Ring_of_Feywild_Sparks.md | 31 | 31 | 0 |
+| Ring_of_Flinging.md | 31 | 31 | 0 |
+| Ring_of_Mental_Inhibition.md | 38 | 38 | 0 |
+| Schools_of_Magic_colon__Necromancy.md | 32 | 32 | 0 |
+| Schools_of_Magic_colon__Transmutation.md | 30 | 30 | 0 |
+| Scimitar.md | 37 | 37 | 0 |
+| Scimitar_(Akabi).md | 43 | 43 | 0 |
+| Scimitar_(Sharran).md | 41 | 41 | 0 |
+| Scimitar_+1.md | 43 | 43 | 0 |
+| Scimitar_+2.md | 39 | 39 | 0 |
+| Scimitar_of_Cinder.md | 45 | 45 | 0 |
+| Scintillating.md | 24 | 24 | 0 |
+| Scorched_Book.md | 41 | 41 | 0 |
+| Scorching_Street_-_A_Flaming_Fist_Ruleset.md | 34 | 34 | 0 |
+| Scourge_of_Pests.md | 24 | 24 | 0 |
+| Scout's_Note.md | 32 | 32 | 0 |
+| Scouting_for_Kingpins.md | 32 | 32 | 0 |
+| Scrapbook_of_Letters.md | 40 | 40 | 0 |
+| Scrapbook_of_Love_Letters.md | 30 | 30 | 0 |
+| Scrappy_Order_Book.md | 34 | 34 | 0 |
+| Scratch's_Ball.md | 43 | 43 | 0 |
+| Scratch's_Sniff_(Condition).md | 18 | 18 | 0 |
+| Scrawled_Note.md | 14 | 14 | 0 |
+| Scrawled_Note_(Phubbs).md | 40 | 40 | 0 |
+| Scrawled_Note_(disambiguation).md | 14 | 14 | 0 |
+| Scribbled_Note.md | 14 | 14 | 0 |
+| Scribbled_Note_(Druid_Grove).md | 32 | 32 | 0 |
+| Scribbled_Note_(Grymforge).md | 32 | 32 | 0 |
+| Scribbled_Note_(Last_Light_Inn).md | 41 | 41 | 0 |
+| Scribbled_Note_(Lower_City).md | 34 | 34 | 0 |
+| Scribbled_Note_(disambiguation).md | 14 | 14 | 0 |
+| Scribbled_Notes.md | 42 | 42 | 0 |
 | Potion_of_Animal_Speaking_Recipe.md | 54 | 54 | 0 |
 | Potion_of_Greater_Healing_(cloud).md | 22 | 22 | 0 |
 | Potion_of_Healing_(cloud).md | 22 | 22 | 0 |
@@ -9067,35 +8987,20 @@
 | Resilient_colon__Intelligence.md | 15 | 15 | 0 |
 | Resilient_colon__Strength.md | 15 | 15 | 0 |
 | Resilient_colon__Wisdom.md | 19 | 19 | 0 |
-| Schools_of_Magic_colon__Necromancy.md | 32 | 32 | 0 |
-| Schools_of_Magic_colon__Transmutation.md | 30 | 30 | 0 |
-| Scimitar.md | 37 | 37 | 0 |
-| Scimitar_(Akabi).md | 43 | 43 | 0 |
-| Scimitar_(Sharran).md | 41 | 41 | 0 |
-| Scimitar_+1.md | 43 | 43 | 0 |
-| Scimitar_+2.md | 39 | 39 | 0 |
-| Scimitar_of_Cinder.md | 45 | 45 | 0 |
-| Scintillating.md | 24 | 24 | 0 |
-| Scorched_Book.md | 41 | 41 | 0 |
-| Scorching_Street_-_A_Flaming_Fist_Ruleset.md | 34 | 34 | 0 |
-| Scourge_of_Pests.md | 24 | 24 | 0 |
-| Scout's_Note.md | 32 | 32 | 0 |
-| Scouting_for_Kingpins.md | 32 | 32 | 0 |
-| Scrapbook_of_Letters.md | 40 | 40 | 0 |
-| Scrapbook_of_Love_Letters.md | 30 | 30 | 0 |
-| Scrappy_Order_Book.md | 34 | 34 | 0 |
-| Scratch's_Ball.md | 43 | 43 | 0 |
-| Scratch's_Sniff_(Condition).md | 18 | 18 | 0 |
-| Scrawled_Note.md | 14 | 14 | 0 |
-| Scrawled_Note_(Phubbs).md | 40 | 40 | 0 |
-| Scrawled_Note_(disambiguation).md | 14 | 14 | 0 |
-| Scribbled_Note.md | 14 | 14 | 0 |
-| Scribbled_Note_(Druid_Grove).md | 32 | 32 | 0 |
-| Scribbled_Note_(Grymforge).md | 32 | 32 | 0 |
-| Scribbled_Note_(Last_Light_Inn).md | 41 | 41 | 0 |
-| Scribbled_Note_(Lower_City).md | 34 | 34 | 0 |
-| Scribbled_Note_(disambiguation).md | 14 | 14 | 0 |
-| Scribbled_Notes.md | 42 | 42 | 0 |
+| Magi's_Infusion_(Condition).md | 26 | 26 | 0 |
+| Magic_Allergy_(Condition).md | 35 | 35 | 0 |
+| Magic_Arrow.md | 22 | 22 | 0 |
+| Magic_Club.md | 25 | 25 | 0 |
+| Magic_Initiate_colon__Bard.md | 16 | 16 | 0 |
+| Magic_Initiate_colon__Druid.md | 16 | 16 | 0 |
+| Magic_Initiate_colon__Warlock.md | 16 | 16 | 0 |
+| Magic_Ranged_Weapon_Trader_Table.md | 10 | 10 | 0 |
+| Magic_Resistance.md | 20 | 20 | 0 |
+| Magic_of_the_Weave_-_An_Introduction.md | 42 | 42 | 0 |
+| Magical_Ambush_(Condition).md | 26 | 26 | 0 |
+| Magical_Durability_(+1).md | 18 | 18 | 0 |
+| Magical_Durability_(+2).md | 23 | 23 | 0 |
+| Magical_Hand_Crossbow.md | 43 | 43 | 0 |
 | Our_Mind.md | 25 | 25 | 0 |
 | Our_Offer_Remains_Open.md | 32 | 32 | 0 |
 | Our_Protector_colon__Lord_Gortash.md | 26 | 26 | 0 |
@@ -9118,6 +9023,95 @@
 | Pact_Boon.md | 39 | 39 | 0 |
 | Pact_Magic.md | 358 | 358 | 0 |
 | Pact_of_the_Blade_(passive_feature).md | 36 | 36 | 0 |
+| Rustic_Chest.md | 48 | 48 | 0 |
+| Rusty_Battleaxe.md | 42 | 42 | 0 |
+| Rusty_Dagger.md | 37 | 37 | 0 |
+| Rusty_Flail.md | 36 | 36 | 0 |
+| Rusty_Glaive.md | 43 | 43 | 0 |
+| Rusty_Greataxe.md | 38 | 38 | 0 |
+| Rusty_Greatsword.md | 42 | 42 | 0 |
+| Rusty_Halberd.md | 41 | 41 | 0 |
+| Rusty_Hand_Crossbow.md | 36 | 36 | 0 |
+| Rusty_Handaxe.md | 31 | 31 | 0 |
+| Rusty_Heavy_Crossbow.md | 36 | 36 | 0 |
+| Rusty_Key.md | 26 | 26 | 0 |
+| Rusty_Light_Crossbow.md | 30 | 30 | 0 |
+| Rusty_Light_Hammer.md | 36 | 36 | 0 |
+| Rusty_Longsword.md | 45 | 45 | 0 |
+| Rusty_Mace.md | 33 | 33 | 0 |
+| Rusty_Maul.md | 40 | 40 | 0 |
+| Rusty_Morningstar.md | 40 | 40 | 0 |
+| Rusty_Pike.md | 41 | 41 | 0 |
+| Rusty_Rapier.md | 39 | 39 | 0 |
+| Rusty_Scimitar.md | 39 | 39 | 0 |
+| Rusty_Shortsword.md | 38 | 38 | 0 |
+| Rusty_Sickle.md | 34 | 34 | 0 |
+| Rusty_Spear.md | 39 | 39 | 0 |
+| Rusty_Trident.md | 45 | 45 | 0 |
+| Rusty_War_Pick.md | 38 | 38 | 0 |
+| Rusty_Warhammer.md | 42 | 42 | 0 |
+| SG_Approaching.md | 11 | 11 | 0 |
+| SG_CanBePickedUp.md | 10 | 10 | 0 |
+| SG_Confused.md | 15 | 15 | 0 |
+| SG_DetectThoughts.md | 15 | 15 | 0 |
+| SG_Doppelganger.md | 10 | 10 | 0 |
+| Saviour's_Allure.md | 17 | 17 | 0 |
+| Scabby_Pugilist_Circlet.md | 38 | 38 | 0 |
+| Scale.md | 19 | 19 | 0 |
+| Scale_Mail.md | 99 | 99 | 0 |
+| Scale_Mail_+1.md | 53 | 53 | 0 |
+| Scale_Mail_+2.md | 52 | 52 | 0 |
+| Scale_Mail_Mould.md | 22 | 22 | 0 |
+| Scale_Mail_of_Vengeance.md | 45 | 45 | 0 |
+| Scale_Mail_of_the_Ancients.md | 45 | 45 | 0 |
+| Scaled_Scions_of_Abeir.md | 36 | 36 | 0 |
+| Scalpel.md | 70 | 70 | 0 |
+| Scar_of_the_Agave.md | 16 | 16 | 0 |
+| Scar_of_the_Dunes.md | 20 | 20 | 0 |
+| Scar_of_the_Sand_Eclipse.md | 16 | 16 | 0 |
+| Scarab_of_Protection.md | 26 | 26 | 0 |
+| Scarlet_Leather_Armour.md | 53 | 53 | 0 |
+| Scarlet_Remittance_+2_(Condition).md | 30 | 30 | 0 |
+| Scarlet_Stupor_(Condition).md | 27 | 27 | 0 |
+| Scented_Letter.md | 36 | 36 | 0 |
+| Scenting_Blood.md | 16 | 16 | 0 |
+| Schools_of_Magic_colon__Abjuration.md | 30 | 30 | 0 |
+| Schools_of_Magic_colon__Conjuration.md | 30 | 30 | 0 |
+| Schools_of_Magic_colon__Divination.md | 30 | 30 | 0 |
+| Schools_of_Magic_colon__Enchantment.md | 30 | 30 | 0 |
+| Schools_of_Magic_colon__Evocation.md | 30 | 30 | 0 |
+| Schools_of_Magic_colon__Illusion.md | 30 | 30 | 0 |
+| Ritual_Staff.md | 40 | 40 | 0 |
+| Riverside_Teahouse.md | 287 | 287 | 0 |
+| Rivington.md | 455 | 455 | 0 |
+| Rivington_Well.md | 455 | 455 | 0 |
+| Rivington_rats.md | 357 | 357 | 0 |
+| Roast_Beef_Joint.md | 24 | 24 | 0 |
+| Robe_of_Exquisite_Focus.md | 46 | 46 | 0 |
+| Robe_of_Summer.md | 59 | 59 | 0 |
+| Robe_of_Supreme_Defences.md | 59 | 59 | 0 |
+| Robe_of_the_Weave.md | 64 | 64 | 0 |
+| Rock_Gnome.md | 149 | 149 | 0 |
+| Rocky_Crevice.md | 32 | 32 | 0 |
+| Rod_of_Resurrection.md | 44 | 44 | 0 |
+| Lightning_Strikes.md | 18 | 18 | 0 |
+| Lightning_set.md | 24 | 24 | 0 |
+| Lihala's_Lute.md | 58 | 58 | 0 |
+| Limeleech's_Chest_Key.md | 22 | 22 | 0 |
+| Lionel.md | 11 | 11 | 0 |
+| Lionel_(Rivington).md | 336 | 336 | 0 |
+| Lionheart_Green-Pink_Outfit.md | 34 | 34 | 0 |
+| Lionheart_Outfit.md | 34 | 34 | 0 |
+| Lionheart_Teal_Outfit.md | 34 | 34 | 0 |
+| List_of_Bosses.md | 173 | 173 | 0 |
+| List_of_Debtors.md | 24 | 24 | 0 |
+| List_of_Missing_Goods.md | 40 | 40 | 0 |
+| List_of_Rules.md | 38 | 38 | 0 |
+| Scroll_(Gale's_Pouch).md | 30 | 30 | 0 |
+| Scroll_Table.md | 10 | 10 | 0 |
+| Scroll_of_Conjure_Elemental.md | 27 | 27 | 0 |
+| Scroll_of_Conjure_Minor_Elemental.md | 27 | 27 | 0 |
+| Scroll_of_Counterspell.md | 32 | 32 | 0 |
 | Shadeclinger_Armour.md | 54 | 54 | 0 |
 | Shadespell.md | 22 | 22 | 0 |
 | Shadespell_(Condition).md | 29 | 29 | 0 |
@@ -9134,23 +9128,19 @@
 | Shadow_Lantern.md | 60 | 60 | 0 |
 | Shadow_Magic.md | 52 | 52 | 0 |
 | Shadow_Spell_Slot.md | 358 | 358 | 0 |
-| Ritual_Staff.md | 40 | 40 | 0 |
-| Riverside_Teahouse.md | 287 | 287 | 0 |
-| Rivington.md | 455 | 455 | 0 |
-| Rivington_Well.md | 455 | 455 | 0 |
-| Roast_Beef_Joint.md | 24 | 24 | 0 |
-| Robe_of_Exquisite_Focus.md | 46 | 46 | 0 |
-| Robe_of_Summer.md | 59 | 59 | 0 |
-| Robe_of_Supreme_Defences.md | 59 | 59 | 0 |
-| Robe_of_the_Weave.md | 64 | 64 | 0 |
-| Rock_Gnome.md | 149 | 149 | 0 |
-| Rocky_Crevice.md | 32 | 32 | 0 |
-| Rod_of_Resurrection.md | 44 | 44 | 0 |
-| Scroll_(Gale's_Pouch).md | 30 | 30 | 0 |
-| Scroll_Table.md | 10 | 10 | 0 |
-| Scroll_of_Conjure_Elemental.md | 27 | 27 | 0 |
-| Scroll_of_Conjure_Minor_Elemental.md | 27 | 27 | 0 |
-| Scroll_of_Counterspell.md | 32 | 32 | 0 |
+| Sacrificed_Soul_(Condition).md | 31 | 31 | 0 |
+| Sacrificial_Lamb_(Condition).md | 30 | 30 | 0 |
+| Safe_and_Sound_colon__a_Guide_to_our_Vaults.md | 38 | 38 | 0 |
+| Sahuagin_Longbow.md | 41 | 41 | 0 |
+| Sahuagin_Spear.md | 39 | 39 | 0 |
+| Salami.md | 39 | 39 | 0 |
+| Salts_of_Copper_Shavings.md | 24 | 24 | 0 |
+| Salts_of_Corpse_Rose.md | 24 | 24 | 0 |
+| Salts_of_Hill_Giant_Fingernails.md | 24 | 24 | 0 |
+| Salts_of_Rogue's_Morsel.md | 19 | 19 | 0 |
+| Salts_of_Viridian_Crystal.md | 24 | 24 | 0 |
+| Salty_Scimitar(rrr).md | 48 | 48 | 0 |
+| Sanctuary_Blocked.md | 25 | 25 | 0 |
 | Seldarine_Drow.md | 159 | 159 | 0 |
 | Seldom_Caught_Unawares_(+1).md | 23 | 23 | 0 |
 | Seldom_Caught_Unawares_(+2).md | 26 | 26 | 0 |
@@ -9176,139 +9166,6 @@
 | Senja'si_Boots.md | 22 | 22 | 0 |
 | Sentient_Amulet.md | 11 | 11 | 0 |
 | Sentient_Amulet_(Rare).md | 50 | 50 | 0 |
-| Magi's_Infusion_(Condition).md | 26 | 26 | 0 |
-| Magic_Allergy_(Condition).md | 35 | 35 | 0 |
-| Magic_Arrow.md | 22 | 22 | 0 |
-| Magic_Club.md | 25 | 25 | 0 |
-| Magic_Initiate_colon__Bard.md | 16 | 16 | 0 |
-| Magic_Initiate_colon__Druid.md | 16 | 16 | 0 |
-| Magic_Initiate_colon__Warlock.md | 16 | 16 | 0 |
-| Magic_Ranged_Weapon_Trader_Table.md | 10 | 10 | 0 |
-| Magic_Resistance.md | 20 | 20 | 0 |
-| Magic_of_the_Weave_-_An_Introduction.md | 42 | 42 | 0 |
-| Magical_Ambush_(Condition).md | 26 | 26 | 0 |
-| Magical_Durability_(+1).md | 18 | 18 | 0 |
-| Magical_Durability_(+2).md | 23 | 23 | 0 |
-| Magical_Hand_Crossbow.md | 43 | 43 | 0 |
-| Lightning_Strikes.md | 18 | 18 | 0 |
-| Lightning_set.md | 24 | 24 | 0 |
-| Lihala's_Lute.md | 58 | 58 | 0 |
-| Limeleech's_Chest_Key.md | 22 | 22 | 0 |
-| Lionel.md | 11 | 11 | 0 |
-| Lionheart_Green-Pink_Outfit.md | 34 | 34 | 0 |
-| Lionheart_Outfit.md | 34 | 34 | 0 |
-| Lionheart_Teal_Outfit.md | 34 | 34 | 0 |
-| List_of_Bosses.md | 173 | 173 | 0 |
-| List_of_Debtors.md | 24 | 24 | 0 |
-| List_of_Missing_Goods.md | 40 | 40 | 0 |
-| List_of_Rules.md | 38 | 38 | 0 |
-| Sacrificed_Soul_(Condition).md | 31 | 31 | 0 |
-| Sacrificial_Lamb_(Condition).md | 30 | 30 | 0 |
-| Safe_and_Sound_colon__a_Guide_to_our_Vaults.md | 38 | 38 | 0 |
-| Sahuagin_Longbow.md | 41 | 41 | 0 |
-| Sahuagin_Spear.md | 39 | 39 | 0 |
-| Salami.md | 39 | 39 | 0 |
-| Salts_of_Copper_Shavings.md | 24 | 24 | 0 |
-| Salts_of_Corpse_Rose.md | 24 | 24 | 0 |
-| Salts_of_Hill_Giant_Fingernails.md | 24 | 24 | 0 |
-| Salts_of_Rogue's_Morsel.md | 19 | 19 | 0 |
-| Salts_of_Viridian_Crystal.md | 24 | 24 | 0 |
-| Salty_Scimitar(rrr).md | 48 | 48 | 0 |
-| Sanctuary_Blocked.md | 25 | 25 | 0 |
-| Scroll_of_Evidence.md | 34 | 34 | 0 |
-| Scroll_of_Find_Familiar.md | 25 | 25 | 0 |
-| Scroll_of_Fire_Shield_colon__Chill.md | 23 | 23 | 0 |
-| Scroll_of_Gaseous_Form.md | 54 | 54 | 0 |
-| Scroll_of_Longstrider.md | 34 | 34 | 0 |
-| Shar's_Protection.md | 21 | 21 | 0 |
-| Shar's_Sight.md | 20 | 20 | 0 |
-| Shar's_Spear_of_Evening.md | 95 | 95 | 0 |
-| Shar's_Sting.md | 43 | 43 | 0 |
-| Shar's_Temptation.md | 25 | 25 | 0 |
-| Shar's_Umbrae.md | 22 | 22 | 0 |
-| Shar-Stricken_(Condition).md | 23 | 23 | 0 |
-| Sharess'_Caress.md | 224 | 224 | 0 |
-| Sharess'_Caress_Cellar_Key.md | 26 | 26 | 0 |
-| Sharp_Caster.md | 24 | 24 | 0 |
-| Sharpened_Snare.md | 25 | 25 | 0 |
-| Sharpened_Snare_Cuirass.md | 66 | 66 | 0 |
-| Sharpshooter_colon__All_In.md | 27 | 27 | 0 |
-| Sharpshooter_colon__Low_Ground.md | 18 | 18 | 0 |
-| Sharran's_Journal.md | 40 | 40 | 0 |
-| Sharran's_Psalm.md | 52 | 52 | 0 |
-| Sharran_Crossbow.md | 38 | 38 | 0 |
-| Sharran_Initiate's_Notes.md | 30 | 30 | 0 |
-| Sharran_Registry.md | 32 | 32 | 0 |
-| Sharran_Retribution_(Condition).md | 34 | 34 | 0 |
-| Sharran_Sanctuary.md | 146 | 146 | 0 |
-| Sharran_Veil.md | 16 | 16 | 0 |
-| Shatter_Visage.md | 34 | 34 | 0 |
-| Shattered_Psyche_(Condition).md | 23 | 23 | 0 |
-| Shifting_Corpus_Ring.md | 28 | 28 | 0 |
-| Shimmer_the_AMAZING.md | 38 | 38 | 0 |
-| Shining_Staver-of-Skulls.md | 59 | 59 | 0 |
-| Shipment_Loss_Notice.md | 42 | 42 | 0 |
-| Shipment_Notice.md | 34 | 34 | 0 |
-| Shipment_Orders.md | 36 | 36 | 0 |
-| Shipments_Registry.md | 28 | 28 | 0 |
-| Shocking_Sting.md | 39 | 39 | 0 |
-| Shockwave.md | 20 | 20 | 0 |
-| Shoe_Slinger.md | 20 | 20 | 0 |
-| Shortbow.md | 36 | 36 | 0 |
-| Shortbow_+1.md | 40 | 40 | 0 |
-| Shortbows.md | 58 | 58 | 0 |
-| Shortened_Stride.md | 30 | 30 | 0 |
-| Shortsword.md | 41 | 41 | 0 |
-| Shortsword_(Yurgir).md | 41 | 41 | 0 |
-| Shortsword_+1.md | 43 | 43 | 0 |
-| Shortsword_+2.md | 41 | 41 | 0 |
-| Shortsword_of_First_Blood.md | 57 | 57 | 0 |
-| Shovel.md | 13 | 13 | 0 |
-| Shovel_(disambiguation).md | 13 | 13 | 0 |
-| Shrouded_(Condition).md | 22 | 22 | 0 |
-| Sentinel_Weapon.md | 17 | 17 | 0 |
-| Sentinel_colon__Opportunity_Advantage.md | 18 | 18 | 0 |
-| Sentinel_colon__Snare.md | 30 | 30 | 0 |
-| Sentinel_colon__Vengeance.md | 28 | 28 | 0 |
-| Septic_(Condition).md | 32 | 32 | 0 |
-| Seraphic_Pugilist_Gloves.md | 39 | 39 | 0 |
-| Serpent_Fang_Toxin_(Condition).md | 25 | 25 | 0 |
-| Serpent_Venom.md | 33 | 33 | 0 |
-| Serrik's_Chest_Key.md | 22 | 22 | 0 |
-| Servant_of_None.md | 67 | 67 | 0 |
-| Serving_Spoon.md | 19 | 19 | 0 |
-| Sethan.md | 55 | 55 | 0 |
-| Severe_Arcane_Hunger_(Condition).md | 27 | 27 | 0 |
-| Severed_Eye.md | 19 | 19 | 0 |
-| Severed_Foot.md | 19 | 19 | 0 |
-| Severed_Hand.md | 20 | 20 | 0 |
-| Severed_Head.md | 30 | 30 | 0 |
-| Severed_Leg.md | 19 | 19 | 0 |
-| Severed_Legs.md | 19 | 19 | 0 |
-| Severed_Pelvis.md | 19 | 19 | 0 |
-| Sewers.md | 11 | 11 | 0 |
-| Shackled_(Condition).md | 29 | 29 | 0 |
-| Shade-Slayer_Cloak.md | 35 | 35 | 0 |
-| Shadeclinger.md | 22 | 22 | 0 |
-| Shadow_Stealth.md | 20 | 20 | 0 |
-| Shadow_Step_(Condition).md | 20 | 20 | 0 |
-| Shadow_Veil.md | 22 | 22 | 0 |
-| Shadow_Walk.md | 38 | 38 | 0 |
-| Shadowblend.md | 28 | 28 | 0 |
-| Shadowlands.md | 148 | 148 | 0 |
-| Shadowroot_Sac.md | 18 | 18 | 0 |
-| Shadowthief.md | 32 | 32 | 0 |
-| Shaft_of_a_Broken_Spear.md | 26 | 26 | 0 |
-| Shambling_Mound.md | 40 | 40 | 0 |
-| Shanties_for_the_Bitch_Queen.md | 86 | 86 | 0 |
-| Shapechanged_(Condition).md | 28 | 28 | 0 |
-| Shapechanger_(passive_feature).md | 20 | 20 | 0 |
-| Shapeshifter's_Boon.md | 22 | 22 | 0 |
-| Shapeshifter_Hat.md | 35 | 35 | 0 |
-| Shapeshifter_Slayer.md | 22 | 22 | 0 |
-| Shar's_Blessing_(Spear_of_Night).md | 18 | 18 | 0 |
-| Shar's_Blessing_colon__Barrier_of_Darkness_(Condition).md | 28 | 28 | 0 |
-| Shar's_Embrace_(Condition).md | 16 | 16 | 0 |
 | Scuffed_Manifest.md | 21 | 21 | 0 |
 | Sculpt_Spells.md | 33 | 33 | 0 |
 | Sculptor_of_Flesh.md | 16 | 16 | 0 |
@@ -9333,20 +9190,6 @@
 | Seeking_help.md | 28 | 28 | 0 |
 | Seeming_(Condition).md | 40 | 40 | 0 |
 | Seething_Fury_(Condition).md | 36 | 36 | 0 |
-| Resistant_to_Cold_Damage_(Condition).md | 26 | 26 | 0 |
-| Resistant_to_Fire_Damage_(Condition).md | 27 | 27 | 0 |
-| Resistant_to_Poison_Damage_(Condition).md | 27 | 27 | 0 |
-| Resolve_the_Abduction.md | 173 | 173 | 0 |
-| Resonating_Ki_(Condition).md | 33 | 33 | 0 |
-| Resource.md | 363 | 363 | 0 |
-| Resources.md | 363 | 363 | 0 |
-| Retaliation.md | 16 | 16 | 0 |
-| Retrieve_Omeluum.md | 57 | 57 | 0 |
-| Return_at_Once.md | 36 | 36 | 0 |
-| Returning_Pike.md | 60 | 60 | 0 |
-| Revenant's_Ire.md | 16 | 16 | 0 |
-| Revenant_Scourge.md | 17 | 17 | 0 |
-| Rhapsody.md | 59 | 59 | 0 |
 | Poisoned_Apple.md | 26 | 26 | 0 |
 | Poisoner's_Gloves.md | 36 | 36 | 0 |
 | Poisoner's_Kit.md | 26 | 26 | 0 |
@@ -9362,28 +9205,128 @@
 | Polma's_Wrath_(Condition).md | 24 | 24 | 0 |
 | Poo-Scraper.md | 40 | 40 | 0 |
 | Poor_Trader_Table.md | 18 | 18 | 0 |
-| Sovereign's_Protection_(Condition).md | 33 | 33 | 0 |
-| Spark_Blocker.md | 16 | 16 | 0 |
-| Sparkswall_Armour.md | 16 | 16 | 0 |
-| Spattered_Diary.md | 28 | 28 | 0 |
-| Spatula.md | 19 | 19 | 0 |
-| Speak_with_Animals_(disambiguation).md | 17 | 17 | 0 |
-| Speak_your_Loss.md | 28 | 28 | 0 |
-| Speak_your_Loss_(Note).md | 27 | 27 | 0 |
-| Spear.md | 37 | 37 | 0 |
-| Spear_+1.md | 43 | 43 | 0 |
-| Spear_+2.md | 39 | 39 | 0 |
-| Spear_of_Night.md | 56 | 56 | 0 |
-| Spears.md | 74 | 74 | 0 |
-| Special_Operation_-_Infernal_Arms.md | 28 | 28 | 0 |
-| Special_colon_MyContributions.md | 118 | 118 | 0 |
-| Special_colon_Random.md | 69 | 69 | 0 |
-| Spectral_Aspect_(Condition).md | 34 | 34 | 0 |
-| Spectral_Observer_(Condition).md | 27 | 27 | 0 |
-| Speedy_Reply.md | 65 | 65 | 0 |
-| Speedy_Sparks.md | 30 | 30 | 0 |
-| Spell.md | 358 | 358 | 0 |
-| Spell_Amplification.md | 21 | 21 | 0 |
+| Resistant_to_Cold_Damage_(Condition).md | 26 | 26 | 0 |
+| Resistant_to_Fire_Damage_(Condition).md | 27 | 27 | 0 |
+| Resistant_to_Poison_Damage_(Condition).md | 27 | 27 | 0 |
+| Resolve_the_Abduction.md | 173 | 173 | 0 |
+| Resonating_Ki_(Condition).md | 33 | 33 | 0 |
+| Resource.md | 363 | 363 | 0 |
+| Resources.md | 363 | 363 | 0 |
+| Retaliation.md | 16 | 16 | 0 |
+| Retrieve_Omeluum.md | 57 | 57 | 0 |
+| Return_at_Once.md | 36 | 36 | 0 |
+| Returning_Pike.md | 60 | 60 | 0 |
+| Revenant's_Ire.md | 16 | 16 | 0 |
+| Revenant_Scourge.md | 17 | 17 | 0 |
+| Rhapsody.md | 59 | 59 | 0 |
+| Scroll_of_Evidence.md | 34 | 34 | 0 |
+| Scroll_of_Find_Familiar.md | 25 | 25 | 0 |
+| Scroll_of_Fire_Shield_colon__Chill.md | 23 | 23 | 0 |
+| Scroll_of_Gaseous_Form.md | 54 | 54 | 0 |
+| Scroll_of_Longstrider.md | 34 | 34 | 0 |
+| Shadow_Stealth.md | 20 | 20 | 0 |
+| Shadow_Step_(Condition).md | 20 | 20 | 0 |
+| Shadow_Veil.md | 22 | 22 | 0 |
+| Shadow_Walk.md | 38 | 38 | 0 |
+| Shadowblend.md | 28 | 28 | 0 |
+| Shadowlands.md | 148 | 148 | 0 |
+| Shadowroot_Sac.md | 18 | 18 | 0 |
+| Shadowthief.md | 32 | 32 | 0 |
+| Shaft_of_a_Broken_Spear.md | 26 | 26 | 0 |
+| Shambling_Mound.md | 40 | 40 | 0 |
+| Shanties_for_the_Bitch_Queen.md | 86 | 86 | 0 |
+| Shapechanged_(Condition).md | 28 | 28 | 0 |
+| Shapechanger_(passive_feature).md | 20 | 20 | 0 |
+| Shapeshifter's_Boon.md | 22 | 22 | 0 |
+| Shapeshifter_Hat.md | 35 | 35 | 0 |
+| Shapeshifter_Slayer.md | 22 | 22 | 0 |
+| Shar's_Blessing_(Spear_of_Night).md | 18 | 18 | 0 |
+| Shar's_Blessing_colon__Barrier_of_Darkness_(Condition).md | 28 | 28 | 0 |
+| Shar's_Embrace_(Condition).md | 16 | 16 | 0 |
+| Shifting_Corpus_Ring.md | 28 | 28 | 0 |
+| Shimmer_the_AMAZING.md | 38 | 38 | 0 |
+| Shining_Staver-of-Skulls.md | 59 | 59 | 0 |
+| Shipment_Loss_Notice.md | 42 | 42 | 0 |
+| Shipment_Notice.md | 34 | 34 | 0 |
+| Shipment_Orders.md | 36 | 36 | 0 |
+| Shipments_Registry.md | 28 | 28 | 0 |
+| Shocking_Sting.md | 39 | 39 | 0 |
+| Shockwave.md | 20 | 20 | 0 |
+| Shoe_Slinger.md | 20 | 20 | 0 |
+| Shortbow.md | 36 | 36 | 0 |
+| Shortbow_+1.md | 40 | 40 | 0 |
+| Shortbows.md | 58 | 58 | 0 |
+| Shortened_Stride.md | 30 | 30 | 0 |
+| Shortsword.md | 41 | 41 | 0 |
+| Shortsword_(Yurgir).md | 41 | 41 | 0 |
+| Shortsword_+1.md | 43 | 43 | 0 |
+| Shortsword_+2.md | 41 | 41 | 0 |
+| Shortsword_of_First_Blood.md | 57 | 57 | 0 |
+| Shovel.md | 13 | 13 | 0 |
+| Shovel_(disambiguation).md | 13 | 13 | 0 |
+| Shrouded_(Condition).md | 22 | 22 | 0 |
+| Shar's_Protection.md | 21 | 21 | 0 |
+| Shar's_Sight.md | 20 | 20 | 0 |
+| Shar's_Spear_of_Evening.md | 95 | 95 | 0 |
+| Shar's_Sting.md | 43 | 43 | 0 |
+| Shar's_Temptation.md | 25 | 25 | 0 |
+| Shar's_Umbrae.md | 22 | 22 | 0 |
+| Shar-Stricken_(Condition).md | 23 | 23 | 0 |
+| Sharess'_Caress.md | 224 | 224 | 0 |
+| Sharess'_Caress_Cellar_Key.md | 26 | 26 | 0 |
+| Sharp_Caster.md | 24 | 24 | 0 |
+| Sharpened_Snare.md | 25 | 25 | 0 |
+| Sharpened_Snare_Cuirass.md | 66 | 66 | 0 |
+| Sharpshooter_colon__All_In.md | 27 | 27 | 0 |
+| Sharpshooter_colon__Low_Ground.md | 18 | 18 | 0 |
+| Sharran's_Journal.md | 40 | 40 | 0 |
+| Sharran's_Psalm.md | 52 | 52 | 0 |
+| Sharran_Crossbow.md | 38 | 38 | 0 |
+| Sharran_Initiate's_Notes.md | 30 | 30 | 0 |
+| Sharran_Registry.md | 32 | 32 | 0 |
+| Sharran_Retribution_(Condition).md | 34 | 34 | 0 |
+| Sharran_Sanctuary.md | 146 | 146 | 0 |
+| Sharran_Veil.md | 16 | 16 | 0 |
+| Shatter_Visage.md | 34 | 34 | 0 |
+| Shattered_Psyche_(Condition).md | 23 | 23 | 0 |
+| Guard_Rotation.md | 30 | 30 | 0 |
+| Guardian_of_Faith_(disambiguation).md | 15 | 15 | 0 |
+| Guardian_of_Faith_(passive_feature).md | 22 | 22 | 0 |
+| Guest_Log.md | 50 | 50 | 0 |
+| Guestbook_of_Rosymorn_Abbey.md | 42 | 42 | 0 |
+| Guidance_(Condition).md | 24 | 24 | 0 |
+| Guide_colon_Action_Surge_(achievement).md | 14 | 14 | 0 |
+| Guide_colon_Circumventing_Honour_Mode_Save_File_Restrictions.md | 37 | 37 | 0 |
+| Guide_colon_Colour_Map.md | 241 | 241 | 0 |
+| Guide_colon_Custom_Polymorph.md | 80 | 80 | 0 |
+| Guide_colon_Fancy_Footwork_(achievement).md | 22 | 22 | 0 |
+| Guide_colon_Fixing_Bone_Errors.md | 32 | 32 | 0 |
+| Guide_colon_Fixing_Neck_Seams.md | 45 | 45 | 0 |
+| Guide_colon_Gear_locator.md | 14 | 14 | 0 |
+| Guide_colon_Gear_locator_(Act_Three).md | 14 | 14 | 0 |
+| Guide_colon_Gear_locator_(Act_Two).md | 14 | 14 | 0 |
+| Guide_colon_Index.md | 143 | 143 | 0 |
+| Sanctuary_Blocked_(Condition).md | 25 | 25 | 0 |
+| Sanctuary_of_Loss.md | 55 | 55 | 0 |
+| Sanctuary_of_Loss_(Condition).md | 36 | 36 | 0 |
+| Sanguine_Blade.md | 55 | 55 | 0 |
+| Sanguine_Laboratory.md | 138 | 138 | 0 |
+| Sanguine_Vent.md | 20 | 20 | 0 |
+| Sapped_(Condition).md | 41 | 41 | 0 |
+| Sapping_Curse_(Condition).md | 41 | 41 | 0 |
+| Sarabayle.md | 379 | 379 | 0 |
+| Sarevok's_Horned_Helmet.md | 43 | 43 | 0 |
+| Sarin's_Skull.md | 23 | 23 | 0 |
+| Savage_Attacks.md | 39 | 39 | 0 |
+| Savage_Howl_(Condition).md | 21 | 21 | 0 |
+| Save_Arabella.md | 106 | 106 | 0 |
+| Save_Hope.md | 111 | 111 | 0 |
+| Save_Vanra.md | 170 | 170 | 0 |
+| Save_the_First_Druid.md | 193 | 193 | 0 |
+| Save_the_Gondians.md | 246 | 246 | 0 |
+| Save_the_Refugees.md | 112 | 112 | 0 |
+| Saving_throw.md | 123 | 123 | 0 |
+| Saving_throws.md | 122 | 122 | 0 |
 | Staff_of_Accretion.md | 46 | 46 | 0 |
 | Staff_of_Arcane_Blessing.md | 77 | 77 | 0 |
 | Staff_of_Cherished_Necromancy.md | 85 | 85 | 0 |
@@ -9442,10 +9385,47 @@
 | Sprouting_Necrosis.md | 22 | 22 | 0 |
 | Sprouting_Necrosis_(Condition).md | 30 | 30 | 0 |
 | Squatters_at_Old_Garlow's_Place.md | 34 | 34 | 0 |
+| Squire.md | 310 | 310 | 0 |
 | Stack_ID.md | 301 | 301 | 0 |
 | Stack_of_Books.md | 21 | 21 | 0 |
 | Staff.md | 44 | 44 | 0 |
 | Staff_Betting_Pool.md | 80 | 80 | 0 |
+| Shrouded_Sentence_(Condition).md | 34 | 34 | 0 |
+| Shunt_Through_Space.md | 16 | 16 | 0 |
+| Sickle.md | 33 | 33 | 0 |
+| Sickle_(Redcap).md | 43 | 43 | 0 |
+| Sickle_of_BOOOAL.md | 56 | 56 | 0 |
+| Sickles.md | 55 | 55 | 0 |
+| Sightings_Record.md | 26 | 26 | 0 |
+| Sign_Me_Up.md | 41 | 41 | 0 |
+| Sign_of_Ill_Omen.md | 20 | 20 | 0 |
+| Silence_(area).md | 28 | 28 | 0 |
+| Silent.md | 20 | 20 | 0 |
+| Silent_Library.md | 386 | 386 | 0 |
+| Silk_Gland.md | 26 | 26 | 0 |
+| Silkroot_Euphoria_(Condition).md | 24 | 24 | 0 |
+| Silvanus'_Blessing_(Condition).md | 28 | 28 | 0 |
+| Silver_Amulet.md | 34 | 34 | 0 |
+| Silver_Band.md | 40 | 40 | 0 |
+| Silver_Chalice.md | 34 | 34 | 0 |
+| Silver_Dragonborn.md | 281 | 281 | 0 |
+| Silver_Fork.md | 22 | 22 | 0 |
+| Silver_Goblet.md | 22 | 22 | 0 |
+| Silver_Key_(Baldur's_Mouth).md | 33 | 33 | 0 |
+| Spider_Fall.md | 20 | 20 | 0 |
+| Spider_Queen's_Wrath_(Condition).md | 30 | 30 | 0 |
+| Spider_Step.md | 24 | 24 | 0 |
+| Spider_meat.md | 47 | 47 | 0 |
+| Spidersilk_Armour.md | 56 | 56 | 0 |
+| Spiderstep_Staff.md | 51 | 51 | 0 |
+| Spike_Growth_(Condition).md | 28 | 28 | 0 |
+| Spiked_Shield.md | 28 | 28 | 0 |
+| Spikes.md | 39 | 39 | 0 |
+| Spineshudder_Amulet.md | 31 | 31 | 0 |
+| Spirit_Guardians_(Condition).md | 32 | 32 | 0 |
+| Spirit_of_the_Land.md | 30 | 30 | 0 |
+| Spirit_of_the_Land_(Condition).md | 30 | 30 | 0 |
+| Splendid_Beige_Outfit.md | 34 | 34 | 0 |
 | Stelmane_Murder_Tip.md | 33 | 33 | 0 |
 | Stench_(Condition).md | 27 | 27 | 0 |
 | Stench_of_Death_(Condition).md | 23 | 23 | 0 |
@@ -9469,66 +9449,110 @@
 | Storage_Key.md | 26 | 26 | 0 |
 | Storage_Room_Key.md | 26 | 26 | 0 |
 | Storm_Sorcery.md | 51 | 51 | 0 |
-| Spider_Fall.md | 20 | 20 | 0 |
-| Spider_Queen's_Wrath_(Condition).md | 30 | 30 | 0 |
-| Spider_Step.md | 24 | 24 | 0 |
-| Spider_meat.md | 47 | 47 | 0 |
-| Spidersilk_Armour.md | 56 | 56 | 0 |
-| Spiderstep_Staff.md | 51 | 51 | 0 |
-| Spike_Growth_(Condition).md | 28 | 28 | 0 |
-| Spiked_Shield.md | 28 | 28 | 0 |
-| Spikes.md | 39 | 39 | 0 |
-| Spineshudder_Amulet.md | 31 | 31 | 0 |
-| Spirit_Guardians_(Condition).md | 32 | 32 | 0 |
-| Spirit_of_the_Land.md | 30 | 30 | 0 |
-| Spirit_of_the_Land_(Condition).md | 30 | 30 | 0 |
-| Splendid_Beige_Outfit.md | 34 | 34 | 0 |
-| Shrouded_Sentence_(Condition).md | 34 | 34 | 0 |
-| Shunt_Through_Space.md | 16 | 16 | 0 |
-| Sickle.md | 33 | 33 | 0 |
-| Sickle_(Redcap).md | 43 | 43 | 0 |
-| Sickle_of_BOOOAL.md | 56 | 56 | 0 |
-| Sickles.md | 55 | 55 | 0 |
-| Sightings_Record.md | 26 | 26 | 0 |
-| Sign_Me_Up.md | 41 | 41 | 0 |
-| Sign_of_Ill_Omen.md | 20 | 20 | 0 |
-| Silence_(area).md | 28 | 28 | 0 |
-| Silent.md | 20 | 20 | 0 |
-| Silent_Library.md | 386 | 386 | 0 |
-| Silk_Gland.md | 26 | 26 | 0 |
-| Silkroot_Euphoria_(Condition).md | 24 | 24 | 0 |
-| Silvanus'_Blessing_(Condition).md | 28 | 28 | 0 |
-| Silver_Amulet.md | 34 | 34 | 0 |
-| Silver_Band.md | 40 | 40 | 0 |
-| Silver_Chalice.md | 34 | 34 | 0 |
-| Silver_Dragonborn.md | 281 | 281 | 0 |
-| Silver_Fork.md | 22 | 22 | 0 |
-| Silver_Goblet.md | 22 | 22 | 0 |
-| Silver_Key_(Baldur's_Mouth).md | 33 | 33 | 0 |
-| Sanctuary_Blocked_(Condition).md | 25 | 25 | 0 |
-| Sanctuary_of_Loss.md | 55 | 55 | 0 |
-| Sanctuary_of_Loss_(Condition).md | 36 | 36 | 0 |
-| Sanguine_Blade.md | 55 | 55 | 0 |
-| Sanguine_Laboratory.md | 138 | 138 | 0 |
-| Sanguine_Vent.md | 20 | 20 | 0 |
-| Sapped_(Condition).md | 41 | 41 | 0 |
-| Sapping_Curse_(Condition).md | 41 | 41 | 0 |
-| Sarevok's_Horned_Helmet.md | 43 | 43 | 0 |
-| Sarin's_Skull.md | 23 | 23 | 0 |
-| Savage_Attacks.md | 39 | 39 | 0 |
-| Savage_Howl_(Condition).md | 21 | 21 | 0 |
-| Save_Arabella.md | 106 | 106 | 0 |
-| Save_Hope.md | 111 | 111 | 0 |
-| Save_Vanra.md | 170 | 170 | 0 |
-| Save_the_First_Druid.md | 193 | 193 | 0 |
-| Save_the_Gondians.md | 246 | 246 | 0 |
-| Save_the_Refugees.md | 112 | 112 | 0 |
-| Saving_throw.md | 123 | 123 | 0 |
-| Saving_throws.md | 122 | 122 | 0 |
+| Sentinel_Weapon.md | 17 | 17 | 0 |
+| Sentinel_colon__Opportunity_Advantage.md | 18 | 18 | 0 |
+| Sentinel_colon__Snare.md | 30 | 30 | 0 |
+| Sentinel_colon__Vengeance.md | 28 | 28 | 0 |
+| Septic_(Condition).md | 32 | 32 | 0 |
+| Seraphic_Pugilist_Gloves.md | 39 | 39 | 0 |
+| Serpent_Fang_Toxin_(Condition).md | 25 | 25 | 0 |
+| Serpent_Venom.md | 33 | 33 | 0 |
+| Serrik's_Chest_Key.md | 22 | 22 | 0 |
+| Servant_of_None.md | 67 | 67 | 0 |
+| Serving_Spoon.md | 19 | 19 | 0 |
+| Sethan.md | 55 | 55 | 0 |
+| Severe_Arcane_Hunger_(Condition).md | 27 | 27 | 0 |
+| Severed_Eye.md | 19 | 19 | 0 |
+| Severed_Foot.md | 19 | 19 | 0 |
+| Severed_Hand.md | 20 | 20 | 0 |
+| Severed_Head.md | 30 | 30 | 0 |
+| Severed_Leg.md | 19 | 19 | 0 |
+| Severed_Legs.md | 19 | 19 | 0 |
+| Severed_Pelvis.md | 19 | 19 | 0 |
+| Sewers.md | 11 | 11 | 0 |
+| Shackled_(Condition).md | 29 | 29 | 0 |
+| Shade-Slayer_Cloak.md | 35 | 35 | 0 |
+| Shadeclinger.md | 22 | 22 | 0 |
 | Scroll_of_Names.md | 16 | 16 | 0 |
 | Scroll_of_Otiluke's_Resilient_Sphere.md | 19 | 19 | 0 |
 | Scroll_of_Phantasmal_Force.md | 41 | 41 | 0 |
 | Scruffy_Vagabond_Clothes.md | 36 | 36 | 0 |
+| Sovereign's_Protection_(Condition).md | 33 | 33 | 0 |
+| Spark_Blocker.md | 16 | 16 | 0 |
+| Sparkswall_Armour.md | 16 | 16 | 0 |
+| Spattered_Diary.md | 28 | 28 | 0 |
+| Spatula.md | 19 | 19 | 0 |
+| Spaulder.md | 385 | 385 | 0 |
+| Speak_with_Animals_(disambiguation).md | 17 | 17 | 0 |
+| Speak_your_Loss.md | 28 | 28 | 0 |
+| Speak_your_Loss_(Note).md | 27 | 27 | 0 |
+| Spear.md | 37 | 37 | 0 |
+| Spear_+1.md | 43 | 43 | 0 |
+| Spear_+2.md | 39 | 39 | 0 |
+| Spear_of_Night.md | 56 | 56 | 0 |
+| Spears.md | 74 | 74 | 0 |
+| Special_Operation_-_Infernal_Arms.md | 28 | 28 | 0 |
+| Special_colon_MyContributions.md | 118 | 118 | 0 |
+| Special_colon_Random.md | 69 | 69 | 0 |
+| Spectral_Aspect_(Condition).md | 34 | 34 | 0 |
+| Spectral_Observer_(Condition).md | 27 | 27 | 0 |
+| Speedy_Reply.md | 65 | 65 | 0 |
+| Speedy_Sparks.md | 30 | 30 | 0 |
+| Spell.md | 358 | 358 | 0 |
+| Spell_Amplification.md | 21 | 21 | 0 |
+| Silver_Key_(Chamber_of_Command).md | 23 | 23 | 0 |
+| Silver_Key_(Devil's_Fee).md | 23 | 23 | 0 |
+| Silver_Key_(Szarr_Palace).md | 23 | 23 | 0 |
+| Silver_Knife.md | 22 | 22 | 0 |
+| Silver_Locket.md | 22 | 22 | 0 |
+| Silver_Necklace.md | 34 | 34 | 0 |
+| Silver_Necklace_Jewelry_Subtable.md | 18 | 18 | 0 |
+| Silver_Pendant.md | 38 | 38 | 0 |
+| Silver_Plate.md | 66 | 66 | 0 |
+| Silver_Spoon.md | 22 | 22 | 0 |
+| Silver_Sword_of_the_Astral_Plane.md | 81 | 81 | 0 |
+| Simple_Jerkin.md | 44 | 44 | 0 |
+| Simple_Letter.md | 36 | 36 | 0 |
+| Simple_Poison_Recipe.md | 50 | 50 | 0 |
+| Simple_Ranged_Weapon_Subtable.md | 10 | 10 | 0 |
+| Simple_Robe.md | 124 | 124 | 0 |
+| Simple_Sandals.md | 22 | 22 | 0 |
+| Simple_Toxin_(Condition).md | 32 | 32 | 0 |
+| Singing_Lute.md | 102 | 102 | 0 |
+| Singing_Sword.md | 57 | 57 | 0 |
+| Singing_Sword_colon__Shrieking_(Condition).md | 42 | 42 | 0 |
+| Sinister_Lord_(Condition).md | 43 | 43 | 0 |
+| Sinister_Seal_(Condition).md | 22 | 22 | 0 |
+| Sinister_Strike.md | 30 | 30 | 0 |
+| Teal_Slimfit_Outfit.md | 38 | 38 | 0 |
+| Tear-stained_letter.md | 36 | 36 | 0 |
+| Teddybears_Ready_for_Collection.md | 34 | 34 | 0 |
+| Tefoco's_Basement_Chest_Key.md | 26 | 26 | 0 |
+| Tefoco's_Hatch_Key.md | 26 | 26 | 0 |
+| Tefoco's_Home.md | 113 | 113 | 0 |
+| Telekinesis_(Condition).md | 24 | 24 | 0 |
+| Teleporting_Trap.md | 20 | 20 | 0 |
+| Tell_no_one.md | 26 | 26 | 0 |
+| Temperature_Adjustment.md | 16 | 16 | 0 |
+| Tempest.md | 81 | 81 | 0 |
+| Tempest_Domain.md | 81 | 81 | 0 |
+| Tempest_cleric.md | 81 | 81 | 0 |
+| Tempestuous_Magic.md | 24 | 24 | 0 |
+| Tempestuous_Magic_colon__Flight_(Condition).md | 29 | 29 | 0 |
+| Tempestuous_Siphon_(Condition).md | 36 | 36 | 0 |
+| Template_colon_Character_creation.md | 6 | 6 | 0 |
+| Template_colon_Creature_statistics.md | 6 | 6 | 0 |
+| Template_colon_Gameplay_mechanics.md | 6 | 6 | 0 |
+| Template_colon_LatestUpdate.md | 6 | 6 | 0 |
+| Template_colon_NavItems.md | 4 | 4 | 0 |
+| Template_colon_NavWiki.md | 12 | 12 | 0 |
+| Template_colon_Nav_act.md | 66 | 66 | 0 |
+| Template_talk_colon_BarbarianNavbox.md | 8 | 8 | 0 |
+| Template_talk_colon_BardNavbox.md | 6 | 6 | 0 |
+| Template_talk_colon_ClericNavbox.md | 6 | 6 | 0 |
+| Template_talk_colon_Creature_statistics.md | 6 | 6 | 0 |
+| Template_talk_colon_DruidNavbox.md | 6 | 6 | 0 |
+| Template_talk_colon_FighterNavbox.md | 6 | 6 | 0 |
 | Sneaky_Riposte.md | 26 | 26 | 0 |
 | Snow-Dusted_Monastery_Gloves.md | 39 | 39 | 0 |
 | Snowburst.md | 53 | 53 | 0 |
@@ -9556,6 +9580,70 @@
 | Soothing_Songs.md | 22 | 22 | 0 |
 | Soothing_the_Violent_Heart.md | 28 | 28 | 0 |
 | Sorcerer_Robe.md | 122 | 122 | 0 |
+| Sudden_Rush_(Condition).md | 16 | 16 | 0 |
+| Suelto's_Ethic_of_War.md | 46 | 46 | 0 |
+| Suelto's_Ethics_of_War.md | 46 | 46 | 0 |
+| Suelto.md | 46 | 46 | 0 |
+| Suite_Key.md | 26 | 26 | 0 |
+| Sulphurous_Note.md | 36 | 36 | 0 |
+| Summon_Mephit.md | 12 | 12 | 0 |
+| Summon_Mephit_(Fire).md | 38 | 38 | 0 |
+| Summon_Mephit_(Grease).md | 37 | 37 | 0 |
+| Summon_Mephit_(Mud).md | 44 | 44 | 0 |
+| Summon_Mephit_(disambiguation).md | 12 | 12 | 0 |
+| Summon_Us.md | 30 | 30 | 0 |
+| Sumptuously_Drained_(Condition).md | 16 | 16 | 0 |
+| Sun_Sickness.md | 16 | 16 | 0 |
+| Sunlight_Hypersensitivity.md | 26 | 26 | 0 |
+| Sunlight_Hypersensitivity_(Condition).md | 28 | 28 | 0 |
+| Sunlight_Sensitivity.md | 24 | 24 | 0 |
+| Sunlight_Weakness.md | 20 | 20 | 0 |
+| Sunwalker's_Gift_(passive_feature).md | 20 | 20 | 0 |
+| Superior_Darkvision.md | 38 | 38 | 0 |
+| Guide_colon_Party_Honor_Platinum_Walkthrough.md | 6 | 6 | 0 |
+| Guide_colon_Texture_Formatting.md | 217 | 217 | 0 |
+| Guide_colon_Thrileon's_Guide_to_Double_alchemy_crafts.md | 193 | 193 | 0 |
+| Guide_talk_colon_Circumventing_Honour_Mode_Save_File_Restrictions.md | 29 | 29 | 0 |
+| Guide_talk_colon_Early_Acquisition_of_Helldusk_Armour.md | 42 | 42 | 0 |
+| Guide_to_Taming_Worgs.md | 36 | 36 | 0 |
+| Guided_Strike_colon__Active_(Condition).md | 24 | 24 | 0 |
+| Guiding_Light.md | 39 | 39 | 0 |
+| Guild_Hall_Hatch_Key.md | 16 | 16 | 0 |
+| Slow_Fall.md | 34 | 34 | 0 |
+| Slow_colon__Actions.md | 26 | 26 | 0 |
+| Sluggardly_(Condition).md | 24 | 24 | 0 |
+| Small_Portrait_of_Vlaakith.md | 34 | 34 | 0 |
+| Smelly_Bag.md | 23 | 23 | 0 |
+| Smite.md | 29 | 29 | 0 |
+| Smite_the_Graceless.md | 16 | 16 | 0 |
+| Smokepowder_(surface).md | 40 | 40 | 0 |
+| Smuggler's_Note.md | 42 | 42 | 0 |
+| Snake_Fang.md | 26 | 26 | 0 |
+| Snakeskin_Hat.md | 22 | 22 | 0 |
+| Slash_the_Weak_(Condition).md | 30 | 30 | 0 |
+| Slashing_Flourish_(Melee).md | 47 | 47 | 0 |
+| Slashstrip_Sandals.md | 26 | 26 | 0 |
+| Slates.md | 68 | 68 | 0 |
+| Slay_the_Wicked.md | 28 | 28 | 0 |
+| Slay_the_Wicked_(Bludgeoning).md | 25 | 25 | 0 |
+| Slayer's_Improved_Extra_Attack.md | 16 | 16 | 0 |
+| Slayer_Knowledge.md | 20 | 20 | 0 |
+| Sleet_Storm_(area).md | 26 | 26 | 0 |
+| Slicing_Shortsword.md | 52 | 52 | 0 |
+| Sling.md | 40 | 40 | 0 |
+| Slinging_Shoes.md | 45 | 45 | 0 |
+| Slippery_Chain_Shirt.md | 56 | 56 | 0 |
+| Slippery_Slapsticky.md | 18 | 18 | 0 |
+| Radiating_Shockwave.md | 20 | 20 | 0 |
+| Raffish_Bronze-Red_Outfit.md | 34 | 34 | 0 |
+| Raffish_Chestnut_Outfit.md | 34 | 34 | 0 |
+| Raffish_Garb.md | 38 | 38 | 0 |
+| Raffish_Metallic-Shaded_Outfit.md | 38 | 38 | 0 |
+| Raffish_Midnight_Outfit.md | 34 | 34 | 0 |
+| Rage_Becomes_Frenzy.md | 24 | 24 | 0 |
+| Ragged_Diary.md | 26 | 26 | 0 |
+| Raging_Vortex_(Condition).md | 30 | 30 | 0 |
+| Raging_Vortex_(area).md | 34 | 34 | 0 |
 | Storm_Sorcery_Sorcerer.md | 51 | 51 | 0 |
 | Stormshore_Armoury.md | 93 | 93 | 0 |
 | Story_Item.md | 424 | 424 | 0 |
@@ -9587,104 +9675,6 @@
 | Strongheart_Resilience.md | 18 | 18 | 0 |
 | Struck_Match.md | 22 | 22 | 0 |
 | Studded_Leather_Armour.md | 50 | 50 | 0 |
-| Teal_Slimfit_Outfit.md | 38 | 38 | 0 |
-| Tear-stained_letter.md | 36 | 36 | 0 |
-| Teddybears_Ready_for_Collection.md | 34 | 34 | 0 |
-| Tefoco's_Basement_Chest_Key.md | 26 | 26 | 0 |
-| Tefoco's_Hatch_Key.md | 26 | 26 | 0 |
-| Tefoco's_Home.md | 113 | 113 | 0 |
-| Telekinesis_(Condition).md | 24 | 24 | 0 |
-| Teleporting_Trap.md | 20 | 20 | 0 |
-| Tell_no_one.md | 26 | 26 | 0 |
-| Temperature_Adjustment.md | 16 | 16 | 0 |
-| Tempest.md | 81 | 81 | 0 |
-| Tempest_Domain.md | 81 | 81 | 0 |
-| Tempest_cleric.md | 81 | 81 | 0 |
-| Tempestuous_Magic.md | 24 | 24 | 0 |
-| Tempestuous_Magic_colon__Flight_(Condition).md | 29 | 29 | 0 |
-| Tempestuous_Siphon_(Condition).md | 36 | 36 | 0 |
-| Template_colon_Character_creation.md | 6 | 6 | 0 |
-| Template_colon_Creature_statistics.md | 6 | 6 | 0 |
-| Template_colon_Gameplay_mechanics.md | 6 | 6 | 0 |
-| Template_colon_LatestUpdate.md | 6 | 6 | 0 |
-| Template_colon_NavItems.md | 4 | 4 | 0 |
-| Template_colon_NavWiki.md | 12 | 12 | 0 |
-| Template_colon_Nav_act.md | 66 | 66 | 0 |
-| Template_talk_colon_BarbarianNavbox.md | 8 | 8 | 0 |
-| Template_talk_colon_BardNavbox.md | 6 | 6 | 0 |
-| Template_talk_colon_ClericNavbox.md | 6 | 6 | 0 |
-| Template_talk_colon_Creature_statistics.md | 6 | 6 | 0 |
-| Template_talk_colon_DruidNavbox.md | 6 | 6 | 0 |
-| Template_talk_colon_FighterNavbox.md | 6 | 6 | 0 |
-| Sudden_Rush_(Condition).md | 16 | 16 | 0 |
-| Suelto's_Ethic_of_War.md | 46 | 46 | 0 |
-| Suelto's_Ethics_of_War.md | 46 | 46 | 0 |
-| Suelto.md | 46 | 46 | 0 |
-| Suite_Key.md | 26 | 26 | 0 |
-| Sulphurous_Note.md | 36 | 36 | 0 |
-| Summon_Mephit.md | 12 | 12 | 0 |
-| Summon_Mephit_(Fire).md | 38 | 38 | 0 |
-| Summon_Mephit_(Grease).md | 37 | 37 | 0 |
-| Summon_Mephit_(Mud).md | 44 | 44 | 0 |
-| Summon_Mephit_(disambiguation).md | 12 | 12 | 0 |
-| Summon_Us.md | 30 | 30 | 0 |
-| Sumptuously_Drained_(Condition).md | 16 | 16 | 0 |
-| Sun_Sickness.md | 16 | 16 | 0 |
-| Sunlight_Hypersensitivity.md | 26 | 26 | 0 |
-| Sunlight_Hypersensitivity_(Condition).md | 28 | 28 | 0 |
-| Sunlight_Sensitivity.md | 24 | 24 | 0 |
-| Sunlight_Weakness.md | 20 | 20 | 0 |
-| Sunwalker's_Gift_(passive_feature).md | 20 | 20 | 0 |
-| Superior_Darkvision.md | 38 | 38 | 0 |
-| Slow_Fall.md | 34 | 34 | 0 |
-| Slow_colon__Actions.md | 26 | 26 | 0 |
-| Sluggardly_(Condition).md | 24 | 24 | 0 |
-| Small_Portrait_of_Vlaakith.md | 34 | 34 | 0 |
-| Smelly_Bag.md | 23 | 23 | 0 |
-| Smite.md | 29 | 29 | 0 |
-| Smite_the_Graceless.md | 16 | 16 | 0 |
-| Smokepowder_(surface).md | 40 | 40 | 0 |
-| Smuggler's_Note.md | 42 | 42 | 0 |
-| Snake_Fang.md | 26 | 26 | 0 |
-| Snakeskin_Hat.md | 22 | 22 | 0 |
-| Slash_the_Weak_(Condition).md | 30 | 30 | 0 |
-| Slashing_Flourish_(Melee).md | 47 | 47 | 0 |
-| Slashstrip_Sandals.md | 26 | 26 | 0 |
-| Slates.md | 68 | 68 | 0 |
-| Slay_the_Wicked.md | 28 | 28 | 0 |
-| Slay_the_Wicked_(Bludgeoning).md | 25 | 25 | 0 |
-| Slayer's_Improved_Extra_Attack.md | 16 | 16 | 0 |
-| Slayer_Knowledge.md | 20 | 20 | 0 |
-| Sleet_Storm_(area).md | 26 | 26 | 0 |
-| Slicing_Shortsword.md | 52 | 52 | 0 |
-| Sling.md | 40 | 40 | 0 |
-| Slinging_Shoes.md | 45 | 45 | 0 |
-| Slippery_Chain_Shirt.md | 56 | 56 | 0 |
-| Slippery_Slapsticky.md | 18 | 18 | 0 |
-| Silver_Key_(Chamber_of_Command).md | 23 | 23 | 0 |
-| Silver_Key_(Devil's_Fee).md | 23 | 23 | 0 |
-| Silver_Key_(Szarr_Palace).md | 23 | 23 | 0 |
-| Silver_Knife.md | 22 | 22 | 0 |
-| Silver_Locket.md | 22 | 22 | 0 |
-| Silver_Necklace.md | 34 | 34 | 0 |
-| Silver_Necklace_Jewelry_Subtable.md | 18 | 18 | 0 |
-| Silver_Pendant.md | 38 | 38 | 0 |
-| Silver_Plate.md | 66 | 66 | 0 |
-| Silver_Spoon.md | 22 | 22 | 0 |
-| Silver_Sword_of_the_Astral_Plane.md | 81 | 81 | 0 |
-| Simple_Jerkin.md | 44 | 44 | 0 |
-| Simple_Letter.md | 36 | 36 | 0 |
-| Simple_Poison_Recipe.md | 50 | 50 | 0 |
-| Simple_Ranged_Weapon_Subtable.md | 10 | 10 | 0 |
-| Simple_Robe.md | 124 | 124 | 0 |
-| Simple_Sandals.md | 22 | 22 | 0 |
-| Simple_Toxin_(Condition).md | 32 | 32 | 0 |
-| Singing_Lute.md | 102 | 102 | 0 |
-| Singing_Sword.md | 57 | 57 | 0 |
-| Singing_Sword_colon__Shrieking_(Condition).md | 42 | 42 | 0 |
-| Sinister_Lord_(Condition).md | 43 | 43 | 0 |
-| Sinister_Seal_(Condition).md | 22 | 22 | 0 |
-| Sinister_Strike.md | 30 | 30 | 0 |
 | Ring_of_Self_Immolation.md | 29 | 29 | 0 |
 | Ring_of_Spiteful_Thunder.md | 52 | 52 | 0 |
 | Ring_of_Truthfulness.md | 25 | 25 | 0 |
@@ -9781,31 +9771,6 @@
 | The_Patriar_Blackmail_Files.md | 34 | 34 | 0 |
 | The_Pointy_Hat.md | 34 | 34 | 0 |
 | The_Price_of_Pride.md | 32 | 32 | 0 |
-| Tentacle_Whip_(disambiguation).md | 16 | 16 | 0 |
-| Territorial.md | 16 | 16 | 0 |
-| Test_Subject_(Condition).md | 20 | 20 | 0 |
-| Thank_You_for_Dinner.md | 38 | 38 | 0 |
-| Tharchiate_Withering_(Condition).md | 38 | 38 | 0 |
-| Thaumaturgy_(Condition).md | 24 | 24 | 0 |
-| The_Absolute's_Mercy.md | 20 | 20 | 0 |
-| The_Adamantine_Forge_(Quest).md | 190 | 190 | 0 |
-| The_Amiable_Art_of_Necromancy.md | 40 | 40 | 0 |
-| The_Amulet_of_Lost_Voices.md | 25 | 25 | 0 |
-| The_Annals_of_Baldur's_Gate.md | 36 | 36 | 0 |
-| The_Annals_of_Karsus.md | 53 | 53 | 0 |
-| The_Apprentice's_Companion,_Book_the_Fourth.md | 40 | 40 | 0 |
-| The_Approachable_East,_Vol._2.md | 46 | 46 | 0 |
-| The_Approachable_East,_Vol._7.md | 51 | 51 | 0 |
-| Radiating_Shockwave.md | 20 | 20 | 0 |
-| Raffish_Bronze-Red_Outfit.md | 34 | 34 | 0 |
-| Raffish_Chestnut_Outfit.md | 34 | 34 | 0 |
-| Raffish_Garb.md | 38 | 38 | 0 |
-| Raffish_Metallic-Shaded_Outfit.md | 38 | 38 | 0 |
-| Raffish_Midnight_Outfit.md | 34 | 34 | 0 |
-| Rage_Becomes_Frenzy.md | 24 | 24 | 0 |
-| Ragged_Diary.md | 26 | 26 | 0 |
-| Raging_Vortex_(Condition).md | 30 | 30 | 0 |
-| Raging_Vortex_(area).md | 34 | 34 | 0 |
 | Tollhouse_Ledger.md | 9 | 9 | 0 |
 | Tollhouse_Ledger_(Reithwin).md | 32 | 32 | 0 |
 | Tomato.md | 24 | 24 | 0 |
@@ -9825,6 +9790,68 @@
 | Torn_and_Bloody_Page.md | 56 | 56 | 0 |
 | Tortured_(Condition).md | 16 | 16 | 0 |
 | Touch_of_Death.md | 38 | 38 | 0 |
+| Tentacle_Whip_(disambiguation).md | 16 | 16 | 0 |
+| Territorial.md | 16 | 16 | 0 |
+| Test_Subject_(Condition).md | 20 | 20 | 0 |
+| Thank_You_for_Dinner.md | 38 | 38 | 0 |
+| Tharchiate_Withering_(Condition).md | 38 | 38 | 0 |
+| Thaumaturgy_(Condition).md | 24 | 24 | 0 |
+| The_Absolute's_Mercy.md | 20 | 20 | 0 |
+| The_Adamantine_Forge_(Quest).md | 190 | 190 | 0 |
+| The_Amiable_Art_of_Necromancy.md | 40 | 40 | 0 |
+| The_Amulet_of_Lost_Voices.md | 25 | 25 | 0 |
+| The_Annals_of_Baldur's_Gate.md | 36 | 36 | 0 |
+| The_Annals_of_Karsus.md | 53 | 53 | 0 |
+| The_Apprentice's_Companion,_Book_the_Fourth.md | 40 | 40 | 0 |
+| The_Approachable_East,_Vol._2.md | 46 | 46 | 0 |
+| The_Approachable_East,_Vol._7.md | 51 | 51 | 0 |
+| Turned_to_Gold_(Condition).md | 37 | 37 | 0 |
+| Tusk_Attack.md | 12 | 12 | 0 |
+| Tusk_Attack_(disambiguation).md | 12 | 12 | 0 |
+| Tusky_Grins.md | 35 | 35 | 0 |
+| Twinkling_Constellations.md | 18 | 18 | 0 |
+| Twist_of_Fortune.md | 66 | 66 | 0 |
+| Twist_of_Fortune_(passive_feature).md | 21 | 21 | 0 |
+| Twisted_Oak_Crook.md | 57 | 57 | 0 |
+| Twisting_Branch.md | 42 | 42 | 0 |
+| Two-Handed.md | 24 | 24 | 0 |
+| Two-Weapon_Fighting.md | 37 | 37 | 0 |
+| Tyche_Pink.md | 56 | 56 | 0 |
+| Tym's_Notebook.md | 24 | 24 | 0 |
+| Tymora.md | 440 | 440 | 0 |
+| Tyrannical_Branding.md | 28 | 28 | 0 |
+| Tyrannical_Curse_(Condition).md | 39 | 39 | 0 |
+| Tyrant's_Edict_(Condition).md | 26 | 26 | 0 |
+| Tyrant_Tongue.md | 34 | 34 | 0 |
+| Tyrant_Tongue_(class_action).md | 34 | 34 | 0 |
+| URGENT_-_Bhaalist_Resurgence.md | 42 | 42 | 0 |
+| URGENT_colon__Request_for_Supplies.md | 48 | 48 | 0 |
+| Superior_Material_(-2).md | 18 | 18 | 0 |
+| Superior_Padding_(-1).md | 28 | 28 | 0 |
+| Superior_Padding_(-2).md | 19 | 19 | 0 |
+| Superior_Plate_(-2).md | 19 | 19 | 0 |
+| Superior_Potion_of_Healing_Recipe.md | 19 | 19 | 0 |
+| Superiority_Die.md | 66 | 66 | 0 |
+| Supplication_Scrapbook.md | 28 | 28 | 0 |
+| Supplications_to_Umberlee.md | 46 | 46 | 0 |
+| Supreme_Githyanki_Parry.md | 40 | 40 | 0 |
+| Supreme_Tadpole.md | 26 | 26 | 0 |
+| Surge_Accuracy.md | 24 | 24 | 0 |
+| Surgeon's_Chosen_(Condition).md | 53 | 53 | 0 |
+| Surgeon's_Memorandum.md | 38 | 38 | 0 |
+| Surgeon's_Subjugation_Amulet.md | 25 | 25 | 0 |
+| Surgery_and_Physiology_colon__A_Sharran's_Primer.md | 34 | 34 | 0 |
+| Surprise_(game_mechanic).md | 76 | 76 | 0 |
+| Surprised.md | 94 | 94 | 0 |
+| Surprised_(Condition).md | 94 | 94 | 0 |
+| Surrender_Shadowheart_to_Viconia.md | 79 | 79 | 0 |
+| Surrender_your_Burdens.md | 28 | 28 | 0 |
+| Survival_Instinct_(Condition).md | 24 | 24 | 0 |
+| Suspended_Ceremorphosis.md | 30 | 30 | 0 |
+| Suspension_of_Bullywug_Trumpet.md | 24 | 24 | 0 |
+| Suspension_of_Cerebrospinal_Fluid.md | 22 | 22 | 0 |
+| Suspension_of_Mergrass.md | 24 | 24 | 0 |
+| Suspension_of_Nothic_Eye.md | 26 | 26 | 0 |
 | The_True_and_Impossible_Adventures_of_Tenebrux_Morrow,_Vol._2.md | 46 | 46 | 0 |
 | The_True_and_Impossible_Adventures_of_Tenebrux_Morrow,_Vol._3.md | 50 | 50 | 0 |
 | The_True_and_Impossible_Adventures_of_Tenebrux_Morrow,_Vol._4.md | 58 | 58 | 0 |
@@ -9859,48 +9886,33 @@
 | Thermodynamo_Axe.md | 67 | 67 | 0 |
 | Thick_Soled_Shoes.md | 22 | 22 | 0 |
 | Thief.md | 35 | 35 | 0 |
-| Turned_to_Gold_(Condition).md | 37 | 37 | 0 |
-| Tusk_Attack.md | 12 | 12 | 0 |
-| Tusk_Attack_(disambiguation).md | 12 | 12 | 0 |
-| Tusky_Grins.md | 35 | 35 | 0 |
-| Twinkling_Constellations.md | 18 | 18 | 0 |
-| Twist_of_Fortune.md | 66 | 66 | 0 |
-| Twist_of_Fortune_(passive_feature).md | 21 | 21 | 0 |
-| Twisted_Oak_Crook.md | 57 | 57 | 0 |
-| Twisting_Branch.md | 42 | 42 | 0 |
-| Two-Handed.md | 24 | 24 | 0 |
-| Two-Weapon_Fighting.md | 37 | 37 | 0 |
-| Tyche_Pink.md | 56 | 56 | 0 |
-| Tym's_Notebook.md | 24 | 24 | 0 |
-| Tymora.md | 440 | 440 | 0 |
-| Tyrannical_Branding.md | 28 | 28 | 0 |
-| Tyrannical_Curse_(Condition).md | 39 | 39 | 0 |
-| Tyrant's_Edict_(Condition).md | 26 | 26 | 0 |
-| Tyrant_Tongue.md | 34 | 34 | 0 |
-| Tyrant_Tongue_(class_action).md | 34 | 34 | 0 |
-| URGENT_-_Bhaalist_Resurgence.md | 42 | 42 | 0 |
-| URGENT_colon__Request_for_Supplies.md | 48 | 48 | 0 |
-| Shattered_Sanctum.md | 286 | 286 | 0 |
-| Shears.md | 19 | 19 | 0 |
-| Sheet_Music_(Open_Hand_Temple_Cellar).md | 26 | 26 | 0 |
-| Sheet_Music_(Szarr_Palace).md | 26 | 26 | 0 |
-| Sheet_Music_(The_Singing_Lute).md | 50 | 50 | 0 |
-| Shell_of_Resistance_(Condition).md | 24 | 24 | 0 |
-| Shelter.md | 16 | 16 | 0 |
-| Shelter_of_Athkatla.md | 50 | 50 | 0 |
-| Shield.md | 13 | 13 | 0 |
-| Shield_(Condition).md | 32 | 32 | 0 |
-| Shield_Bash.md | 33 | 33 | 0 |
-| Shield_Dwarf.md | 192 | 192 | 0 |
-| Shield_Master_colon__Shove.md | 24 | 24 | 0 |
-| Shield_Master_colon__Shove_(Condition).md | 33 | 33 | 0 |
-| Shield_Mould.md | 22 | 22 | 0 |
-| Shield_Steward_Interrogation_Log.md | 53 | 53 | 0 |
-| Shield_Trader_Table.md | 17 | 17 | 0 |
-| Shield_of_Returning.md | 27 | 27 | 0 |
-| Shield_of_Shielding.md | 38 | 38 | 0 |
-| Shielded_(Condition).md | 26 | 26 | 0 |
-| Shift_Log.md | 34 | 34 | 0 |
+| Taking_the_Groves_Off_the_Table.md | 42 | 42 | 0 |
+| Tales_Of_The_Hells.md | 34 | 34 | 0 |
+| Talis.md | 39 | 39 | 0 |
+| Talis_Tactics_-_Ultimate_Trick_Book.md | 38 | 38 | 0 |
+| Talis_colon__Divination_without_Magic.md | 53 | 53 | 0 |
+| Talk_colon_Act_Two.md | 22 | 22 | 0 |
+| Talk_colon_Character_creation.md | 10 | 10 | 0 |
+| Talk_colon_Companions.md | 15 | 15 | 0 |
+| Talk_colon_List_of_locations.md | 22 | 22 | 0 |
+| Talk_colon_Non-player_characters.md | 6 | 6 | 0 |
+| Talk_colon_Quests.md | 21 | 21 | 0 |
+| Talk_colon_Spells.md | 57 | 57 | 0 |
+| Talk_colon_Weapons.md | 16 | 16 | 0 |
+| Talkative.md | 16 | 16 | 0 |
+| SG_Exhausted.md | 8 | 8 | 0 |
+| SG_HexbladeCurse.md | 10 | 10 | 0 |
+| SG_None.md | 10 | 10 | 0 |
+| SG_Poisoned_Story_Nonremovable.md | 10 | 10 | 0 |
+| SG_Poisoned_Story_Removable.md | 10 | 10 | 0 |
+| SOUPS_OF_THE_REALMS_BY_BROTHER_DONNICK.md | 54 | 54 | 0 |
+| SPECIAL_ORDER.md | 34 | 34 | 0 |
+| STOP_-_Do_Not_Open.md | 32 | 32 | 0 |
+| Sacred_Defiance_(Condition).md | 28 | 28 | 0 |
+| Sacred_Flame_(Condition).md | 34 | 34 | 0 |
+| Sacred_Munitions_(Condition).md | 26 | 26 | 0 |
+| Sacred_Shark_Recipes.md | 34 | 34 | 0 |
+| Sacrifice_Soul.md | 41 | 41 | 0 |
 | Timmask_spores_(area).md | 44 | 44 | 0 |
 | Tin_Mine_Report.md | 28 | 28 | 0 |
 | Tin_Plate.md | 19 | 19 | 0 |
@@ -9928,6 +9940,27 @@
 | Toll_Collector's_Key.md | 28 | 28 | 0 |
 | Tollhouse_Basement_Key.md | 16 | 16 | 0 |
 | Tollhouse_Clerk's_Key.md | 16 | 16 | 0 |
+| Shattered_Sanctum.md | 286 | 286 | 0 |
+| Shears.md | 19 | 19 | 0 |
+| Sheet_Music_(Open_Hand_Temple_Cellar).md | 26 | 26 | 0 |
+| Sheet_Music_(Szarr_Palace).md | 26 | 26 | 0 |
+| Sheet_Music_(The_Singing_Lute).md | 50 | 50 | 0 |
+| Shell_of_Resistance_(Condition).md | 24 | 24 | 0 |
+| Shelter.md | 16 | 16 | 0 |
+| Shelter_of_Athkatla.md | 50 | 50 | 0 |
+| Shield.md | 13 | 13 | 0 |
+| Shield_(Condition).md | 32 | 32 | 0 |
+| Shield_Bash.md | 33 | 33 | 0 |
+| Shield_Dwarf.md | 192 | 192 | 0 |
+| Shield_Master_colon__Shove.md | 24 | 24 | 0 |
+| Shield_Master_colon__Shove_(Condition).md | 33 | 33 | 0 |
+| Shield_Mould.md | 22 | 22 | 0 |
+| Shield_Steward_Interrogation_Log.md | 53 | 53 | 0 |
+| Shield_Trader_Table.md | 17 | 17 | 0 |
+| Shield_of_Returning.md | 27 | 27 | 0 |
+| Shield_of_Shielding.md | 38 | 38 | 0 |
+| Shielded_(Condition).md | 26 | 26 | 0 |
+| Shift_Log.md | 34 | 34 | 0 |
 | Thieves'_Tools.md | 35 | 35 | 0 |
 | Thorm_Mausoleum.md | 182 | 182 | 0 |
 | Thorn_Blade.md | 57 | 57 | 0 |
@@ -9971,20 +10004,6 @@
 | Rend_With_White_Lightning.md | 14 | 14 | 0 |
 | Render_of_Mind_and_Body.md | 54 | 54 | 0 |
 | Render_of_Scrumptious_Flesh.md | 56 | 56 | 0 |
-| Taking_the_Groves_Off_the_Table.md | 42 | 42 | 0 |
-| Tales_Of_The_Hells.md | 34 | 34 | 0 |
-| Talis.md | 39 | 39 | 0 |
-| Talis_Tactics_-_Ultimate_Trick_Book.md | 38 | 38 | 0 |
-| Talis_colon__Divination_without_Magic.md | 53 | 53 | 0 |
-| Talk_colon_Act_Two.md | 22 | 22 | 0 |
-| Talk_colon_Character_creation.md | 10 | 10 | 0 |
-| Talk_colon_Companions.md | 15 | 15 | 0 |
-| Talk_colon_List_of_locations.md | 22 | 22 | 0 |
-| Talk_colon_Non-player_characters.md | 6 | 6 | 0 |
-| Talk_colon_Quests.md | 21 | 21 | 0 |
-| Talk_colon_Spells.md | 57 | 57 | 0 |
-| Talk_colon_Weapons.md | 16 | 16 | 0 |
-| Talkative.md | 16 | 16 | 0 |
 | The_Protecty_Sparkswall.md | 53 | 53 | 0 |
 | The_Ptarian_Code.md | 42 | 42 | 0 |
 | The_Purged_Palate,_Midwinter_Edition.md | 34 | 34 | 0 |
@@ -10020,32 +10039,6 @@
 | The_Triad_for_Children.md | 30 | 30 | 0 |
 | The_True_Life_of_'Lord'_Gortash.md | 64 | 64 | 0 |
 | The_True_and_Impossible_Adventures_of_Tenebrux_Morrow,_Vol._1.md | 44 | 44 | 0 |
-| Superior_Material_(-2).md | 18 | 18 | 0 |
-| Superior_Padding_(-1).md | 28 | 28 | 0 |
-| Superior_Padding_(-2).md | 19 | 19 | 0 |
-| Superior_Plate_(-2).md | 19 | 19 | 0 |
-| Superior_Potion_of_Healing_Recipe.md | 19 | 19 | 0 |
-| Superiority_Die.md | 66 | 66 | 0 |
-| Supplication_Scrapbook.md | 28 | 28 | 0 |
-| Supplications_to_Umberlee.md | 46 | 46 | 0 |
-| Supreme_Githyanki_Parry.md | 40 | 40 | 0 |
-| Supreme_Tadpole.md | 26 | 26 | 0 |
-| Surge_Accuracy.md | 24 | 24 | 0 |
-| Surgeon's_Chosen_(Condition).md | 53 | 53 | 0 |
-| Surgeon's_Memorandum.md | 38 | 38 | 0 |
-| Surgeon's_Subjugation_Amulet.md | 25 | 25 | 0 |
-| Surgery_and_Physiology_colon__A_Sharran's_Primer.md | 34 | 34 | 0 |
-| Surprise_(game_mechanic).md | 76 | 76 | 0 |
-| Surprised.md | 94 | 94 | 0 |
-| Surprised_(Condition).md | 94 | 94 | 0 |
-| Surrender_Shadowheart_to_Viconia.md | 79 | 79 | 0 |
-| Surrender_your_Burdens.md | 28 | 28 | 0 |
-| Survival_Instinct_(Condition).md | 24 | 24 | 0 |
-| Suspended_Ceremorphosis.md | 30 | 30 | 0 |
-| Suspension_of_Bullywug_Trumpet.md | 24 | 24 | 0 |
-| Suspension_of_Cerebrospinal_Fluid.md | 22 | 22 | 0 |
-| Suspension_of_Mergrass.md | 24 | 24 | 0 |
-| Suspension_of_Nothic_Eye.md | 26 | 26 | 0 |
 | Transmuter's_Stone_(passive_feature).md | 24 | 24 | 0 |
 | Transmuter's_Stone_colon__Acid_Resistance.md | 32 | 32 | 0 |
 | Transmuter's_Stone_colon__Acid_Resistance_(Condition).md | 25 | 25 | 0 |
@@ -10080,6 +10073,42 @@
 | Trepan.md | 34 | 34 | 0 |
 | Trepan_(+1).md | 54 | 54 | 0 |
 | Tressym_Collar.md | 27 | 27 | 0 |
+| Skill.md | 578 | 578 | 0 |
+| Skill_Checks.md | 578 | 578 | 0 |
+| Skilled_Skullduggery_(Condition).md | 29 | 29 | 0 |
+| Skills.md | 578 | 578 | 0 |
+| Skinburster_Force.md | 30 | 30 | 0 |
+| Skull.md | 26 | 26 | 0 |
+| Skull_(No_Jaw).md | 19 | 19 | 0 |
+| Skullduggery_Attack.md | 20 | 20 | 0 |
+| Skybreaker.md | 48 | 48 | 0 |
+| Slabjaw_Determination.md | 26 | 26 | 0 |
+| Vase_(Clutter).md | 23 | 23 | 0 |
+| Vault_Pass_Ledger.md | 28 | 28 | 0 |
+| Vault_Visitor_Log.md | 48 | 48 | 0 |
+| Vegetable_Broth.md | 24 | 24 | 0 |
+| Veil_of_Shar_(Condition).md | 26 | 26 | 0 |
+| Veil_of_the_Morning.md | 48 | 48 | 0 |
+| Veil_of_the_Wind.md | 16 | 16 | 0 |
+| Velveteen_Elixir.md | 67 | 67 | 0 |
+| Vengeful.md | 20 | 20 | 0 |
+| Vengeful_Father.md | 29 | 29 | 0 |
+| Vengeful_Father_(passive_feature).md | 18 | 18 | 0 |
+| Vengeful_Guardian.md | 25 | 25 | 0 |
+| Vengeful_Playmate.md | 42 | 42 | 0 |
+| Venom_Claws.md | 30 | 30 | 0 |
+| Venomous_Bite.md | 13 | 13 | 0 |
+| Venomous_Bite_(Phase_Spider).md | 49 | 49 | 0 |
+| Venomous_Bite_(Phase_Spider_Matriarch).md | 49 | 49 | 0 |
+| Venomous_Bite_(Spider_Wild_Shape).md | 45 | 45 | 0 |
+| Venomous_Bite_(disambiguation).md | 13 | 13 | 0 |
+| Venomous_Brew_(Condition).md | 44 | 44 | 0 |
+| Venomous_Discharge.md | 12 | 12 | 0 |
+| Venomous_Discharge_(Addled_Frog).md | 60 | 60 | 0 |
+| Venomous_Discharge_(Phase_Spider).md | 60 | 60 | 0 |
+| Venomous_Discharge_(Phase_Spider_Matriarch).md | 60 | 60 | 0 |
+| Venomous_Discharge_(disambiguation).md | 12 | 12 | 0 |
+| Venomous_Overflow.md | 48 | 48 | 0 |
 | Sorcerer_set.md | 19 | 19 | 0 |
 | Sorcerous_Sundries_Basement_Chest_Key.md | 23 | 23 | 0 |
 | Sorcerous_Sundries_Basement_Chest_Key_(Bookcase).md | 23 | 23 | 0 |
@@ -10108,42 +10137,69 @@
 | Souls_Sacrificed_colon__1_(Condition).md | 40 | 40 | 0 |
 | Souls_Sacrificed_colon__2_(Condition).md | 36 | 36 | 0 |
 | Sourdough_Bread.md | 24 | 24 | 0 |
-| Vase_(Clutter).md | 23 | 23 | 0 |
-| Vault_Pass_Ledger.md | 28 | 28 | 0 |
-| Vault_Visitor_Log.md | 48 | 48 | 0 |
-| Vegetable_Broth.md | 24 | 24 | 0 |
-| Veil_of_Shar_(Condition).md | 26 | 26 | 0 |
-| Veil_of_the_Morning.md | 48 | 48 | 0 |
-| Veil_of_the_Wind.md | 16 | 16 | 0 |
-| Velveteen_Elixir.md | 67 | 67 | 0 |
-| Vengeful.md | 20 | 20 | 0 |
-| Vengeful_Father.md | 29 | 29 | 0 |
-| Vengeful_Father_(passive_feature).md | 18 | 18 | 0 |
-| Vengeful_Guardian.md | 25 | 25 | 0 |
-| Vengeful_Playmate.md | 42 | 42 | 0 |
-| Venom_Claws.md | 30 | 30 | 0 |
-| Venomous_Bite.md | 13 | 13 | 0 |
-| Venomous_Bite_(Phase_Spider).md | 49 | 49 | 0 |
-| Venomous_Bite_(Phase_Spider_Matriarch).md | 49 | 49 | 0 |
-| Venomous_Bite_(Spider_Wild_Shape).md | 45 | 45 | 0 |
-| Venomous_Bite_(disambiguation).md | 13 | 13 | 0 |
-| Venomous_Brew_(Condition).md | 44 | 44 | 0 |
-| Venomous_Discharge.md | 12 | 12 | 0 |
-| Venomous_Discharge_(Addled_Frog).md | 60 | 60 | 0 |
-| Venomous_Discharge_(Phase_Spider).md | 60 | 60 | 0 |
-| Venomous_Discharge_(Phase_Spider_Matriarch).md | 60 | 60 | 0 |
-| Venomous_Discharge_(disambiguation).md | 12 | 12 | 0 |
-| Venomous_Overflow.md | 48 | 48 | 0 |
-| Skill.md | 578 | 578 | 0 |
-| Skill_Checks.md | 578 | 578 | 0 |
-| Skilled_Skullduggery_(Condition).md | 29 | 29 | 0 |
-| Skills.md | 578 | 578 | 0 |
-| Skinburster_Force.md | 30 | 30 | 0 |
-| Skull.md | 26 | 26 | 0 |
-| Skull_(No_Jaw).md | 19 | 19 | 0 |
-| Skullduggery_Attack.md | 20 | 20 | 0 |
-| Skybreaker.md | 48 | 48 | 0 |
-| Slabjaw_Determination.md | 26 | 26 | 0 |
+| Venomous_Regurgitation.md | 65 | 65 | 0 |
+| Venomous_Revenge_(Condition).md | 27 | 27 | 0 |
+| Verminsign.md | 39 | 39 | 0 |
+| Veronica_Hamperclips_and_her_Adventures_Beyond_The_Washbasin.md | 28 | 28 | 0 |
+| Versatile.md | 21 | 21 | 0 |
+| Very_Heavy_Greataxe.md | 61 | 61 | 0 |
+| Vessel_Identified.md | 30 | 30 | 0 |
+| Vest_of_Soul_Rejuvenation.md | 69 | 69 | 0 |
+| Veterinary_Log.md | 48 | 48 | 0 |
+| Vial_of_Blood.md | 33 | 33 | 0 |
+| Vicious_Battleaxe.md | 66 | 66 | 0 |
+| Vicious_Dragon_Breath.md | 20 | 20 | 0 |
+| Vicious_Shortbow.md | 57 | 57 | 0 |
+| Vicious_Shortsword.md | 58 | 58 | 0 |
+| Viconia's_Personal_Chest_Key.md | 26 | 26 | 0 |
+| Viconia's_Priestess_Robe.md | 58 | 58 | 0 |
+| Victoria's_Note.md | 21 | 21 | 0 |
+| Umber_Trousers.md | 43 | 43 | 0 |
+| Umbral_Attack.md | 21 | 21 | 0 |
+| Umbral_Form_(Condition).md | 25 | 25 | 0 |
+| Umbral_Influx_(Condition).md | 31 | 31 | 0 |
+| Umbral_Shroud.md | 36 | 36 | 0 |
+| Umbral_Tangle.md | 43 | 43 | 0 |
+| Umbral_Tremor_(Condition).md | 24 | 24 | 0 |
+| Unarmed.md | 39 | 39 | 0 |
+| Unarmed_Strike.md | 39 | 39 | 0 |
+| Unarmed_Strike_(Monk).md | 41 | 41 | 0 |
+| Unarmed_attacks.md | 39 | 39 | 0 |
+| Unarmoured_Defence.md | 11 | 11 | 0 |
+| Unarmoured_Defence_(Barbarian).md | 39 | 39 | 0 |
+| Unarmoured_Defence_(Monk).md | 35 | 35 | 0 |
+| Unarmoured_Movement.md | 25 | 25 | 0 |
+| Unbeating_Heart_(Condition).md | 30 | 30 | 0 |
+| Unbridled_Wrath_(Condition).md | 30 | 30 | 0 |
+| Uncanny_Dodge.md | 46 | 46 | 0 |
+| Uncanny_Sight_(Condition).md | 26 | 26 | 0 |
+| Uncommon_Special_Arrow_Table.md | 16 | 16 | 0 |
+| Uncovered_Mysteries.md | 32 | 32 | 0 |
+| Undead.md | 579 | 579 | 0 |
+| Undead_Bane.md | 20 | 20 | 0 |
+| Undead_Dragon.md | 36 | 36 | 0 |
+| Undead_Fortitude.md | 20 | 20 | 0 |
+| Undead_Slayer_Crossbow.md | 45 | 45 | 0 |
+| Undead_Thralls_colon__Additional_Undead.md | 21 | 21 | 0 |
+| Valeria's_Hookah.md | 17 | 17 | 0 |
+| Valeria's_Snuff.md | 19 | 19 | 0 |
+| Valeria's_Spare_Pipe.md | 19 | 19 | 0 |
+| Valeria's_Trunk_Balm.md | 19 | 19 | 0 |
+| Valerian_Flower.md | 18 | 18 | 0 |
+| Valiant_Attack.md | 24 | 24 | 0 |
+| Valiant_Damage.md | 24 | 24 | 0 |
+| Valiant_Defence.md | 24 | 24 | 0 |
+| Valiant_Roll.md | 22 | 22 | 0 |
+| Valmorba's_Notebook.md | 26 | 26 | 0 |
+| Valuable.md | 313 | 313 | 0 |
+| Valuables.md | 163 | 163 | 0 |
+| Vampire_Bat_Form.md | 47 | 47 | 0 |
+| Vampire_Regeneration_(Condition).md | 28 | 28 | 0 |
+| Vampire_spawn.md | 111 | 111 | 0 |
+| Vampiric_Dagger.md | 35 | 35 | 0 |
+| Vampiric_Touch_(Condition).md | 35 | 35 | 0 |
+| Vampiric_Vermin.md | 32 | 32 | 0 |
+| Vaprak's_Greed.md | 24 | 24 | 0 |
 | The_Duke's_Mouth_q_.md | 36 | 36 | 0 |
 | The_Dukes_of_Baldur's_Gate.md | 40 | 40 | 0 |
 | The_Easy_Life.md | 34 | 34 | 0 |
@@ -10182,99 +10238,6 @@
 | The_High_Harper.md | 185 | 185 | 0 |
 | The_Hound_and_the_Hand.md | 34 | 34 | 0 |
 | The_House_on_Drench_Lane_and_Other_Stories.md | 34 | 34 | 0 |
-| SG_Exhausted.md | 8 | 8 | 0 |
-| SG_HexbladeCurse.md | 10 | 10 | 0 |
-| SG_None.md | 10 | 10 | 0 |
-| SG_Poisoned_Story_Nonremovable.md | 10 | 10 | 0 |
-| SG_Poisoned_Story_Removable.md | 10 | 10 | 0 |
-| SOUPS_OF_THE_REALMS_BY_BROTHER_DONNICK.md | 54 | 54 | 0 |
-| SPECIAL_ORDER.md | 34 | 34 | 0 |
-| STOP_-_Do_Not_Open.md | 32 | 32 | 0 |
-| Sacred_Defiance_(Condition).md | 28 | 28 | 0 |
-| Sacred_Flame_(Condition).md | 34 | 34 | 0 |
-| Sacred_Munitions_(Condition).md | 26 | 26 | 0 |
-| Sacred_Shark_Recipes.md | 34 | 34 | 0 |
-| Sacrifice_Soul.md | 41 | 41 | 0 |
-| Venomous_Regurgitation.md | 65 | 65 | 0 |
-| Venomous_Revenge_(Condition).md | 27 | 27 | 0 |
-| Verminsign.md | 39 | 39 | 0 |
-| Veronica_Hamperclips_and_her_Adventures_Beyond_The_Washbasin.md | 28 | 28 | 0 |
-| Versatile.md | 21 | 21 | 0 |
-| Very_Heavy_Greataxe.md | 61 | 61 | 0 |
-| Vessel_Identified.md | 30 | 30 | 0 |
-| Vest_of_Soul_Rejuvenation.md | 69 | 69 | 0 |
-| Veterinary_Log.md | 48 | 48 | 0 |
-| Vial_of_Blood.md | 33 | 33 | 0 |
-| Vicious_Battleaxe.md | 66 | 66 | 0 |
-| Vicious_Dragon_Breath.md | 20 | 20 | 0 |
-| Vicious_Shortbow.md | 57 | 57 | 0 |
-| Vicious_Shortsword.md | 58 | 58 | 0 |
-| Viconia's_Personal_Chest_Key.md | 26 | 26 | 0 |
-| Viconia's_Priestess_Robe.md | 58 | 58 | 0 |
-| Victoria's_Note.md | 21 | 21 | 0 |
-| Valeria's_Hookah.md | 17 | 17 | 0 |
-| Valeria's_Snuff.md | 19 | 19 | 0 |
-| Valeria's_Spare_Pipe.md | 19 | 19 | 0 |
-| Valeria's_Trunk_Balm.md | 19 | 19 | 0 |
-| Valerian_Flower.md | 18 | 18 | 0 |
-| Valiant_Attack.md | 24 | 24 | 0 |
-| Valiant_Damage.md | 24 | 24 | 0 |
-| Valiant_Defence.md | 24 | 24 | 0 |
-| Valiant_Roll.md | 22 | 22 | 0 |
-| Valmorba's_Notebook.md | 26 | 26 | 0 |
-| Valuable.md | 313 | 313 | 0 |
-| Valuables.md | 163 | 163 | 0 |
-| Vampire_Bat_Form.md | 47 | 47 | 0 |
-| Vampire_Regeneration_(Condition).md | 28 | 28 | 0 |
-| Vampire_spawn.md | 111 | 111 | 0 |
-| Vampiric_Dagger.md | 35 | 35 | 0 |
-| Vampiric_Touch_(Condition).md | 35 | 35 | 0 |
-| Vampiric_Vermin.md | 32 | 32 | 0 |
-| Vaprak's_Greed.md | 24 | 24 | 0 |
-| Umber_Trousers.md | 43 | 43 | 0 |
-| Umbral_Attack.md | 21 | 21 | 0 |
-| Umbral_Form_(Condition).md | 25 | 25 | 0 |
-| Umbral_Influx_(Condition).md | 31 | 31 | 0 |
-| Umbral_Shroud.md | 36 | 36 | 0 |
-| Umbral_Tangle.md | 43 | 43 | 0 |
-| Umbral_Tremor_(Condition).md | 24 | 24 | 0 |
-| Unarmed.md | 39 | 39 | 0 |
-| Unarmed_Strike.md | 39 | 39 | 0 |
-| Unarmed_Strike_(Monk).md | 41 | 41 | 0 |
-| Unarmed_attacks.md | 39 | 39 | 0 |
-| Unarmoured_Defence.md | 11 | 11 | 0 |
-| Unarmoured_Defence_(Barbarian).md | 39 | 39 | 0 |
-| Unarmoured_Defence_(Monk).md | 35 | 35 | 0 |
-| Unarmoured_Movement.md | 25 | 25 | 0 |
-| Unbeating_Heart_(Condition).md | 30 | 30 | 0 |
-| Unbridled_Wrath_(Condition).md | 30 | 30 | 0 |
-| Uncanny_Dodge.md | 46 | 46 | 0 |
-| Uncanny_Sight_(Condition).md | 26 | 26 | 0 |
-| Uncommon_Special_Arrow_Table.md | 16 | 16 | 0 |
-| Uncovered_Mysteries.md | 32 | 32 | 0 |
-| Undead.md | 579 | 579 | 0 |
-| Undead_Bane.md | 20 | 20 | 0 |
-| Undead_Dragon.md | 36 | 36 | 0 |
-| Undead_Fortitude.md | 20 | 20 | 0 |
-| Undead_Slayer_Crossbow.md | 45 | 45 | 0 |
-| Undead_Thralls_colon__Additional_Undead.md | 21 | 21 | 0 |
-| Wide-Brimmed_Hat.md | 26 | 26 | 0 |
-| Widget_colon_PriceCalculator.md | 4 | 4 | 0 |
-| Wild_Magic.md | 17 | 17 | 0 |
-| Wild_Magic_(barbarian_subclass).md | 51 | 51 | 0 |
-| Wild_Magic_(sorcerer_subclass).md | 70 | 70 | 0 |
-| Wild_Magic_Barbarian.md | 51 | 51 | 0 |
-| Wild_Magic_Sorcerer.md | 70 | 70 | 0 |
-| Wild_Magic_colon__Bolt_of_Light_(Activate).md | 40 | 40 | 0 |
-| Wild_Magic_colon__Burning_(Condition).md | 33 | 33 | 0 |
-| Wild_Magic_colon__Enchant_Weapons_(Condition).md | 26 | 26 | 0 |
-| Wild_Magic_colon__Explosive_Healing_(Condition).md | 26 | 26 | 0 |
-| Wild_Magic_colon__Intangible_Spirit_(Activate).md | 38 | 38 | 0 |
-| Wild_Magic_colon__Intangible_Spirit_(Condition).md | 21 | 21 | 0 |
-| Wild_Magic_colon__Light_Bolt_(Condition).md | 21 | 21 | 0 |
-| Wild_Magic_colon__Magic_Retribution_(Condition).md | 16 | 16 | 0 |
-| Wild_Magic_colon__Protective_Lights_(Condition).md | 16 | 16 | 0 |
-| Wild_Magic_colon__Sorcery_Points_(Condition).md | 26 | 26 | 0 |
 | Voice_of_the_Circle.md | 33 | 33 | 0 |
 | Voice_of_the_Circle_(Condition).md | 24 | 24 | 0 |
 | Void.md | 44 | 44 | 0 |
@@ -10292,6 +10255,7 @@
 | Vow_of_Enmity.md | 35 | 35 | 0 |
 | Vow_of_Enmity_(Condition).md | 26 | 26 | 0 |
 | Vulnerable_Patriars.md | 48 | 48 | 0 |
+| Vutt.md | 360 | 360 | 0 |
 | WIS.md | 102 | 102 | 0 |
 | Wail_of_Loss.md | 21 | 21 | 0 |
 | Wake_Art_Cullagh.md | 164 | 164 | 0 |
@@ -10299,23 +10263,36 @@
 | Wakeful_Amulet.md | 23 | 23 | 0 |
 | Wakefulness.md | 18 | 18 | 0 |
 | Waking_Mind.md | 139 | 139 | 0 |
-| Taming_Hope_colon__Part_One.md | 52 | 52 | 0 |
-| Taming_Hope_colon__Part_Three.md | 48 | 48 | 0 |
-| Taming_Hope_colon__Part_Two.md | 60 | 60 | 0 |
-| Tanglevine_Form.md | 27 | 27 | 0 |
-| Tarbell's_Guide_to_Distractions.md | 34 | 34 | 0 |
-| Tarnished_Charm.md | 38 | 38 | 0 |
-| Tarnished_Locket.md | 19 | 19 | 0 |
-| Tarnished_Pendant.md | 34 | 34 | 0 |
-| Tasteful_Boots_(Epilogue).md | 22 | 22 | 0 |
-| Tasteful_Suit.md | 22 | 22 | 0 |
-| Tattered_Journal.md | 48 | 48 | 0 |
-| Tattered_Notes.md | 45 | 45 | 0 |
-| Tattered_Scroll.md | 44 | 44 | 0 |
-| Tav.md | 154 | 154 | 0 |
-| Teachings_of_Loss_colon__Endless_Dark.md | 30 | 30 | 0 |
-| Teachings_of_Loss_colon__Forgetting_and_Loss.md | 41 | 41 | 0 |
-| Teachings_of_Loss_colon__The_Nightsinger.md | 41 | 41 | 0 |
+| Trickery_Domain.md | 70 | 70 | 0 |
+| Trident.md | 43 | 43 | 0 |
+| Trident_+1.md | 49 | 49 | 0 |
+| Trident_+2.md | 49 | 49 | 0 |
+| Trident_of_the_Depths.md | 48 | 48 | 0 |
+| Trident_of_the_Waves.md | 61 | 61 | 0 |
+| Tridents.md | 67 | 67 | 0 |
+| Tripwire.md | 16 | 16 | 0 |
+| Triumphal_Helm.md | 25 | 25 | 0 |
+| Triune_Netherstone.md | 23 | 23 | 0 |
+| Troubadour's_Wonder.md | 24 | 24 | 0 |
+| True_Strike_Riposte.md | 21 | 21 | 0 |
+| Trunk.md | 17 | 17 | 0 |
+| Wide-Brimmed_Hat.md | 26 | 26 | 0 |
+| Widget_colon_PriceCalculator.md | 4 | 4 | 0 |
+| Wild_Magic.md | 17 | 17 | 0 |
+| Wild_Magic_(barbarian_subclass).md | 51 | 51 | 0 |
+| Wild_Magic_(sorcerer_subclass).md | 70 | 70 | 0 |
+| Wild_Magic_Barbarian.md | 51 | 51 | 0 |
+| Wild_Magic_Sorcerer.md | 70 | 70 | 0 |
+| Wild_Magic_colon__Bolt_of_Light_(Activate).md | 40 | 40 | 0 |
+| Wild_Magic_colon__Burning_(Condition).md | 33 | 33 | 0 |
+| Wild_Magic_colon__Enchant_Weapons_(Condition).md | 26 | 26 | 0 |
+| Wild_Magic_colon__Explosive_Healing_(Condition).md | 26 | 26 | 0 |
+| Wild_Magic_colon__Intangible_Spirit_(Activate).md | 38 | 38 | 0 |
+| Wild_Magic_colon__Intangible_Spirit_(Condition).md | 21 | 21 | 0 |
+| Wild_Magic_colon__Light_Bolt_(Condition).md | 21 | 21 | 0 |
+| Wild_Magic_colon__Magic_Retribution_(Condition).md | 16 | 16 | 0 |
+| Wild_Magic_colon__Protective_Lights_(Condition).md | 16 | 16 | 0 |
+| Wild_Magic_colon__Sorcery_Points_(Condition).md | 26 | 26 | 0 |
 | Undead_Thralls_colon__Animate_Dead.md | 16 | 16 | 0 |
 | Undead_Thralls_colon__Better_Summons.md | 24 | 24 | 0 |
 | Undead_Ward_(Condition).md | 28 | 28 | 0 |
@@ -10349,6 +10326,23 @@
 | Unseen_Menace.md | 55 | 55 | 0 |
 | Unsent_Letter_(Ketheric_Thorm).md | 32 | 32 | 0 |
 | Unsent_Letter_(Oskar_Fevras).md | 36 | 36 | 0 |
+| Taming_Hope_colon__Part_One.md | 52 | 52 | 0 |
+| Taming_Hope_colon__Part_Three.md | 48 | 48 | 0 |
+| Taming_Hope_colon__Part_Two.md | 60 | 60 | 0 |
+| Tanglevine_Form.md | 27 | 27 | 0 |
+| Tarbell's_Guide_to_Distractions.md | 34 | 34 | 0 |
+| Tarnished_Charm.md | 38 | 38 | 0 |
+| Tarnished_Locket.md | 19 | 19 | 0 |
+| Tarnished_Pendant.md | 34 | 34 | 0 |
+| Tasteful_Boots_(Epilogue).md | 22 | 22 | 0 |
+| Tasteful_Suit.md | 22 | 22 | 0 |
+| Tattered_Journal.md | 48 | 48 | 0 |
+| Tattered_Notes.md | 45 | 45 | 0 |
+| Tattered_Scroll.md | 44 | 44 | 0 |
+| Tav.md | 154 | 154 | 0 |
+| Teachings_of_Loss_colon__Endless_Dark.md | 30 | 30 | 0 |
+| Teachings_of_Loss_colon__Forgetting_and_Loss.md | 41 | 41 | 0 |
+| Teachings_of_Loss_colon__The_Nightsinger.md | 41 | 41 | 0 |
 | Witness_(Condition).md | 12 | 12 | 0 |
 | Wizard.md | 561 | 561 | 0 |
 | Wizard_Hat.md | 22 | 22 | 0 |
@@ -10374,25 +10368,47 @@
 | Worgfang.md | 44 | 44 | 0 |
 | bg3wiki_talk_colon_Ads.md | 236 | 236 | 0 |
 | bg3wiki_talk_colon_Ads_Announcement_1.md | 236 | 236 | 0 |
-| Sword_of_Screams.md | 46 | 46 | 0 |
-| Sword_of_the_Emperor.md | 61 | 61 | 0 |
-| Swordmaster_Gloves.md | 41 | 41 | 0 |
-| Sylvan_Scimitar.md | 58 | 58 | 0 |
-| Synaptic_Needle_Amulet.md | 23 | 23 | 0 |
-| Synchronicity.md | 24 | 24 | 0 |
-| Synergetic_Cantrips.md | 28 | 28 | 0 |
-| Synergetic_Moments.md | 32 | 32 | 0 |
-| Syringe.md | 35 | 35 | 0 |
-| Syringe_(+1).md | 52 | 52 | 0 |
-| Szarr_Guard_Tower_Orders.md | 34 | 34 | 0 |
-| Szarr_Palace_Servant_Etiquette.md | 35 | 35 | 0 |
-| THE_LEGACY_OF_HHUNE.md | 26 | 26 | 0 |
-| TURN_BACK_AT_ONCE.md | 21 | 21 | 0 |
-| Tablet_Fragment_(1).md | 43 | 43 | 0 |
-| Tablet_Fragment_(2).md | 45 | 45 | 0 |
-| Tablet_Fragment_(3).md | 41 | 41 | 0 |
-| Tactical_Discipline.md | 20 | 20 | 0 |
-| Tadpole_Elixir.md | 39 | 39 | 0 |
+| Warhammers.md | 72 | 72 | 0 |
+| Warlock.md | 525 | 525 | 0 |
+| Warlock_Spell_Slot.md | 358 | 358 | 0 |
+| Warlock_set.md | 12 | 12 | 0 |
+| Warlocks.md | 525 | 525 | 0 |
+| Warming_the_Melancholy_Heart.md | 24 | 24 | 0 |
+| Warning_Letter.md | 26 | 26 | 0 |
+| Warrior.md | 319 | 319 | 0 |
+| Wasteland_Wanderer_colon__Cold.md | 24 | 24 | 0 |
+| Wasteland_Wanderer_colon__Fire.md | 16 | 16 | 0 |
+| Wasteland_Wanderer_colon__Poison.md | 20 | 20 | 0 |
+| Wasting_Mortal_(Condition).md | 29 | 29 | 0 |
+| Wasting_Overflow.md | 50 | 50 | 0 |
+| Watcher's_Shield.md | 29 | 29 | 0 |
+| Watcher_Crossbow.md | 48 | 48 | 0 |
+| Watcher_Crossbow_Blueprint.md | 32 | 32 | 0 |
+| Watcher_Greatsword.md | 42 | 42 | 0 |
+| Water_Barrel.md | 45 | 45 | 0 |
+| Water_Queen's_Cellar.md | 94 | 94 | 0 |
+| Waterdeep.md | 19 | 19 | 0 |
+| Watery_Guidance.md | 24 | 24 | 0 |
+| Watery_Rejuvenation.md | 22 | 22 | 0 |
+| Waukeen's_Guide_to_Commerce.md | 28 | 28 | 0 |
+| Wyrm's_Rock_Prison_Cell_Key.md | 19 | 19 | 0 |
+| Wyrm's_Rock_Prison_Key.md | 26 | 26 | 0 |
+| Wyrm's_Rock_Security_Audit.md | 26 | 26 | 0 |
+| Wyvern_Poison_(surface).md | 33 | 33 | 0 |
+| Wyvern_Toxin_(Condition).md | 29 | 29 | 0 |
+| Xyanyde's_Fire.md | 32 | 32 | 0 |
+| Xyanyde.md | 50 | 50 | 0 |
+| Yaga-Shura,_the_Second.md | 34 | 34 | 0 |
+| Ye_Follye_of_Karsus.md | 37 | 37 | 0 |
+| Yeenoghu's_Blessing_(Condition).md | 26 | 26 | 0 |
+| Yeenoghu's_Hunger.md | 20 | 20 | 0 |
+| Yeenoghu's_Hunger_(Condition).md | 16 | 16 | 0 |
+| Yondalla.md | 440 | 440 | 0 |
+| You're_Not_Wanted_Here.md | 26 | 26 | 0 |
+| You're_Right,_They're_Everywhere.md | 32 | 32 | 0 |
+| You've_Got_Friends_in_the_Guild.md | 29 | 29 | 0 |
+| You_Deserve_To_Feel_Beautiful.md | 34 | 34 | 0 |
+| You_need_to_hear_this.md | 32 | 32 | 0 |
 | Wall_of_Fire_(area).md | 41 | 41 | 0 |
 | Wall_of_Fire_colon__Aura_(Condition).md | 36 | 36 | 0 |
 | Wall_of_Ice_(area).md | 26 | 26 | 0 |
@@ -10418,72 +10434,6 @@
 | Warhammer.md | 50 | 50 | 0 |
 | Warhammer_+1.md | 44 | 44 | 0 |
 | Warhammer_+2.md | 44 | 44 | 0 |
-| Trickery_Domain.md | 70 | 70 | 0 |
-| Trident.md | 43 | 43 | 0 |
-| Trident_+1.md | 49 | 49 | 0 |
-| Trident_+2.md | 49 | 49 | 0 |
-| Trident_of_the_Depths.md | 48 | 48 | 0 |
-| Trident_of_the_Waves.md | 61 | 61 | 0 |
-| Tridents.md | 67 | 67 | 0 |
-| Tripwire.md | 16 | 16 | 0 |
-| Triumphal_Helm.md | 25 | 25 | 0 |
-| Triune_Netherstone.md | 23 | 23 | 0 |
-| Troubadour's_Wonder.md | 24 | 24 | 0 |
-| True_Strike_Riposte.md | 21 | 21 | 0 |
-| Trunk.md | 17 | 17 | 0 |
-| Wyrm's_Rock_Prison_Cell_Key.md | 19 | 19 | 0 |
-| Wyrm's_Rock_Prison_Key.md | 26 | 26 | 0 |
-| Wyrm's_Rock_Security_Audit.md | 26 | 26 | 0 |
-| Wyvern_Poison_(surface).md | 33 | 33 | 0 |
-| Wyvern_Toxin_(Condition).md | 29 | 29 | 0 |
-| Xyanyde's_Fire.md | 32 | 32 | 0 |
-| Xyanyde.md | 50 | 50 | 0 |
-| Yaga-Shura,_the_Second.md | 34 | 34 | 0 |
-| Ye_Follye_of_Karsus.md | 37 | 37 | 0 |
-| Yeenoghu's_Blessing_(Condition).md | 26 | 26 | 0 |
-| Yeenoghu's_Hunger.md | 20 | 20 | 0 |
-| Yeenoghu's_Hunger_(Condition).md | 16 | 16 | 0 |
-| Yondalla.md | 440 | 440 | 0 |
-| You're_Not_Wanted_Here.md | 26 | 26 | 0 |
-| You're_Right,_They're_Everywhere.md | 32 | 32 | 0 |
-| You've_Got_Friends_in_the_Guild.md | 29 | 29 | 0 |
-| You_Deserve_To_Feel_Beautiful.md | 34 | 34 | 0 |
-| You_need_to_hear_this.md | 32 | 32 | 0 |
-| Warhammers.md | 72 | 72 | 0 |
-| Warlock.md | 525 | 525 | 0 |
-| Warlock_Spell_Slot.md | 358 | 358 | 0 |
-| Warlock_set.md | 12 | 12 | 0 |
-| Warlocks.md | 525 | 525 | 0 |
-| Warming_the_Melancholy_Heart.md | 24 | 24 | 0 |
-| Warning_Letter.md | 26 | 26 | 0 |
-| Warrior.md | 319 | 319 | 0 |
-| Wasteland_Wanderer_colon__Cold.md | 24 | 24 | 0 |
-| Wasteland_Wanderer_colon__Fire.md | 16 | 16 | 0 |
-| Wasteland_Wanderer_colon__Poison.md | 20 | 20 | 0 |
-| Wasting_Mortal_(Condition).md | 29 | 29 | 0 |
-| Wasting_Overflow.md | 50 | 50 | 0 |
-| Watcher's_Shield.md | 29 | 29 | 0 |
-| Watcher_Crossbow.md | 48 | 48 | 0 |
-| Watcher_Crossbow_Blueprint.md | 32 | 32 | 0 |
-| Watcher_Greatsword.md | 42 | 42 | 0 |
-| Water_Barrel.md | 45 | 45 | 0 |
-| Water_Queen's_Cellar.md | 94 | 94 | 0 |
-| Waterdeep.md | 19 | 19 | 0 |
-| Watery_Guidance.md | 24 | 24 | 0 |
-| Watery_Rejuvenation.md | 22 | 22 | 0 |
-| Waukeen's_Guide_to_Commerce.md | 28 | 28 | 0 |
-| Thwarted_Consumption_(Condition).md | 20 | 20 | 0 |
-| Tiamat.md | 440 | 440 | 0 |
-| Tides_of_Chaos_(passive_feature).md | 53 | 53 | 0 |
-| Tiefling.md | 160 | 160 | 0 |
-| Tiefling_Refugee_Celebration.md | 283 | 283 | 0 |
-| Tiger_Heart.md | 21 | 21 | 0 |
-| Tightening_Orbit.md | 30 | 30 | 0 |
-| Til_Death_Do_Us_Part.md | 31 | 31 | 0 |
-| Till_Death_Do_Us_Part.md | 31 | 31 | 0 |
-| Timmask_Spores.md | 11 | 11 | 0 |
-| Timmask_Spores_(cloud).md | 44 | 44 | 0 |
-| Timmask_Spores_(disambiguation).md | 11 | 11 | 0 |
 | Violin.md | 53 | 53 | 0 |
 | Virulent_Venom.md | 42 | 42 | 0 |
 | Virulent_Venom_(Condition).md | 22 | 22 | 0 |
@@ -10499,30 +10449,26 @@
 | Vlaakith's_Undying_Aspect_(Condition).md | 40 | 40 | 0 |
 | Vlaakith's_Will.md | 44 | 44 | 0 |
 | Voice_of_Command.md | 40 | 40 | 0 |
-| Static_Discharge.md | 14 | 14 | 0 |
-| Static_Discharge_colon__Electroshock_(Condition).md | 22 | 22 | 0 |
-| Static_Discharge_colon__Supercharge_(Condition).md | 23 | 23 | 0 |
-| Status_properties.md | 301 | 301 | 0 |
-| Status_property.md | 301 | 301 | 0 |
-| Staunch_Blessing.md | 26 | 26 | 0 |
-| Stay_Tonight_at_the_Elfsong!.md | 26 | 26 | 0 |
-| Steadfast.md | 33 | 33 | 0 |
-| Steadfast_Maul.md | 45 | 45 | 0 |
-| Steal_the_Sacred_Idol.md | 94 | 94 | 0 |
-| Stealing.md | 32 | 32 | 0 |
-| Stealthier.md | 22 | 22 | 0 |
-| Stealthier_(Condition).md | 29 | 29 | 0 |
-| Stealthy.md | 27 | 27 | 0 |
-| Stealthy_Critical.md | 26 | 26 | 0 |
-| Stedd's_Virtues_of_Unions.md | 40 | 40 | 0 |
-| Steel_Physiology.md | 16 | 16 | 0 |
-| Steel_Watcher_Helmet.md | 40 | 40 | 0 |
-| Steel_Watcher_Maintenance.md | 25 | 25 | 0 |
-| Steel_Will.md | 20 | 20 | 0 |
-| Steelforged_Sword.md | 40 | 40 | 0 |
-| Steelwatcher_Helmet.md | 40 | 40 | 0 |
-| Steeped_in_Bliss_(Condition).md | 31 | 31 | 0 |
-| Steeped_in_Slaughter.md | 16 | 16 | 0 |
+| Sword_of_Screams.md | 46 | 46 | 0 |
+| Sword_of_the_Emperor.md | 61 | 61 | 0 |
+| Swordmaster_Gloves.md | 41 | 41 | 0 |
+| Sylvan_Scimitar.md | 58 | 58 | 0 |
+| Sylvie_Summerworth.md | 251 | 251 | 0 |
+| Synaptic_Needle_Amulet.md | 23 | 23 | 0 |
+| Synchronicity.md | 24 | 24 | 0 |
+| Synergetic_Cantrips.md | 28 | 28 | 0 |
+| Synergetic_Moments.md | 32 | 32 | 0 |
+| Syringe.md | 35 | 35 | 0 |
+| Syringe_(+1).md | 52 | 52 | 0 |
+| Szarr_Guard_Tower_Orders.md | 34 | 34 | 0 |
+| Szarr_Palace_Servant_Etiquette.md | 35 | 35 | 0 |
+| THE_LEGACY_OF_HHUNE.md | 26 | 26 | 0 |
+| TURN_BACK_AT_ONCE.md | 21 | 21 | 0 |
+| Tablet_Fragment_(1).md | 43 | 43 | 0 |
+| Tablet_Fragment_(2).md | 45 | 45 | 0 |
+| Tablet_Fragment_(3).md | 41 | 41 | 0 |
+| Tactical_Discipline.md | 20 | 20 | 0 |
+| Tadpole_Elixir.md | 39 | 39 | 0 |
 | Tough.md | 23 | 23 | 0 |
 | Tough_Letter.md | 34 | 34 | 0 |
 | Tough_Sunrises.md | 53 | 53 | 0 |
@@ -10572,11 +10518,72 @@
 | Whittled_Duck.md | 18 | 18 | 0 |
 | Whole_Chicken.md | 34 | 34 | 0 |
 | Wholeness_of_Body.md | 40 | 40 | 0 |
+| Static_Discharge.md | 14 | 14 | 0 |
+| Static_Discharge_colon__Electroshock_(Condition).md | 22 | 22 | 0 |
+| Static_Discharge_colon__Supercharge_(Condition).md | 23 | 23 | 0 |
+| Status_properties.md | 301 | 301 | 0 |
+| Status_property.md | 301 | 301 | 0 |
+| Staunch_Blessing.md | 26 | 26 | 0 |
+| Stay_Tonight_at_the_Elfsong!.md | 26 | 26 | 0 |
+| Steadfast.md | 33 | 33 | 0 |
+| Steadfast_Maul.md | 45 | 45 | 0 |
+| Steal_the_Sacred_Idol.md | 94 | 94 | 0 |
+| Stealing.md | 32 | 32 | 0 |
+| Stealthier.md | 22 | 22 | 0 |
+| Stealthier_(Condition).md | 29 | 29 | 0 |
+| Stealthy.md | 27 | 27 | 0 |
+| Stealthy_Critical.md | 26 | 26 | 0 |
+| Stedd's_Virtues_of_Unions.md | 40 | 40 | 0 |
+| Steel_Physiology.md | 16 | 16 | 0 |
+| Steel_Watcher_Helmet.md | 40 | 40 | 0 |
+| Steel_Watcher_Maintenance.md | 25 | 25 | 0 |
+| Steel_Will.md | 20 | 20 | 0 |
+| Steelforged_Sword.md | 40 | 40 | 0 |
+| Steelwatcher_Helmet.md | 40 | 40 | 0 |
+| Steeped_in_Bliss_(Condition).md | 31 | 31 | 0 |
+| Steeped_in_Slaughter.md | 16 | 16 | 0 |
+| Thwarted_Consumption_(Condition).md | 20 | 20 | 0 |
+| Tiamat.md | 440 | 440 | 0 |
+| Tides_of_Chaos_(passive_feature).md | 53 | 53 | 0 |
+| Tiefling.md | 160 | 160 | 0 |
+| Tiefling_Refugee_Celebration.md | 283 | 283 | 0 |
+| Tiger_Heart.md | 21 | 21 | 0 |
+| Tightening_Orbit.md | 30 | 30 | 0 |
+| Til_Death_Do_Us_Part.md | 31 | 31 | 0 |
+| Till_Death_Do_Us_Part.md | 31 | 31 | 0 |
+| Timmask_Spores.md | 11 | 11 | 0 |
+| Timmask_Spores_(cloud).md | 44 | 44 | 0 |
+| Timmask_Spores_(disambiguation).md | 11 | 11 | 0 |
 | Your_Kind_of_Curiosity.md | 32 | 32 | 0 |
 | Yuan-Ti_Scale_Mail.md | 65 | 65 | 0 |
+| Yy'rul.md | 364 | 364 | 0 |
 | Z'rell's_personal_reminder.md | 28 | 28 | 0 |
 | Zariel's_Protection_(Condition).md | 22 | 22 | 0 |
 | Zariel_Tiefling.md | 160 | 160 | 0 |
+| Zenovia_Dawg.md | 357 | 357 | 0 |
+| Spell_Attack.md | 194 | 194 | 0 |
+| Spell_Attack_Roll.md | 194 | 194 | 0 |
+| Spell_Protection.md | 18 | 18 | 0 |
+| Spell_Resistance.md | 28 | 28 | 0 |
+| Spell_Savant_Amulet.md | 32 | 32 | 0 |
+| Spell_Slot.md | 358 | 358 | 0 |
+| Spell_Slot_Restoration_Level_1.md | 31 | 31 | 0 |
+| Spell_Slot_Restoration_Level_2.md | 31 | 31 | 0 |
+| Spell_Slot_Restoration_Level_3.md | 32 | 32 | 0 |
+| Spell_Slot_Restoration_Level_4.md | 31 | 31 | 0 |
+| Spell_Slot_Restoration_Level_5.md | 31 | 31 | 0 |
+| Spell_Slot_Restoration_Level_6.md | 27 | 27 | 0 |
+| Spellcaster.md | 358 | 358 | 0 |
+| Spellcasting_Modifier.md | 358 | 358 | 0 |
+| Spellcasting_ability.md | 358 | 358 | 0 |
+| Spellcasting_classes.md | 358 | 358 | 0 |
+| Spellguard.md | 16 | 16 | 0 |
+| Spellmight.md | 24 | 24 | 0 |
+| Spellmight_Gloves.md | 39 | 39 | 0 |
+| Spells.md | 358 | 358 | 0 |
+| Spellseeking_Gloves.md | 29 | 29 | 0 |
+| Spellthief.md | 62 | 62 | 0 |
+| Spider's_Lyre.md | 51 | 51 | 0 |
 | The_Archfey.md | 63 | 63 | 0 |
 | The_Astral_Prism_Heist.md | 38 | 38 | 0 |
 | The_Ballroom_Door.md | 36 | 36 | 0 |
@@ -10609,29 +10616,19 @@
 | The_Devil_You_Know_colon__An_Autobiography.md | 38 | 38 | 0 |
 | The_Diary_of_Lump_the_Enlightened.md | 32 | 32 | 0 |
 | The_Dragon's_Sanctum.md | 108 | 108 | 0 |
-| Spell_Attack.md | 194 | 194 | 0 |
-| Spell_Attack_Roll.md | 194 | 194 | 0 |
-| Spell_Protection.md | 18 | 18 | 0 |
-| Spell_Resistance.md | 28 | 28 | 0 |
-| Spell_Savant_Amulet.md | 32 | 32 | 0 |
-| Spell_Slot.md | 358 | 358 | 0 |
-| Spell_Slot_Restoration_Level_1.md | 31 | 31 | 0 |
-| Spell_Slot_Restoration_Level_2.md | 31 | 31 | 0 |
-| Spell_Slot_Restoration_Level_3.md | 32 | 32 | 0 |
-| Spell_Slot_Restoration_Level_4.md | 31 | 31 | 0 |
-| Spell_Slot_Restoration_Level_5.md | 31 | 31 | 0 |
-| Spell_Slot_Restoration_Level_6.md | 27 | 27 | 0 |
-| Spellcaster.md | 358 | 358 | 0 |
-| Spellcasting_Modifier.md | 358 | 358 | 0 |
-| Spellcasting_ability.md | 358 | 358 | 0 |
-| Spellcasting_classes.md | 358 | 358 | 0 |
-| Spellguard.md | 16 | 16 | 0 |
-| Spellmight.md | 24 | 24 | 0 |
-| Spellmight_Gloves.md | 39 | 39 | 0 |
-| Spells.md | 358 | 358 | 0 |
-| Spellseeking_Gloves.md | 29 | 29 | 0 |
-| Spellthief.md | 62 | 62 | 0 |
-| Spider's_Lyre.md | 51 | 51 | 0 |
+| Template_talk_colon_MonkNavbox.md | 6 | 6 | 0 |
+| Template_talk_colon_PaladinNavbox.md | 6 | 6 | 0 |
+| Template_talk_colon_RangerNavbox.md | 6 | 6 | 0 |
+| Template_talk_colon_RogueNavbox.md | 6 | 6 | 0 |
+| Template_talk_colon_SorcererNavbox.md | 6 | 6 | 0 |
+| Template_talk_colon_WarlockNavbox.md | 26 | 26 | 0 |
+| Temple_Map.md | 34 | 34 | 0 |
+| Temple_Trader's_Key.md | 22 | 22 | 0 |
+| Temporarily_Hostile_(Condition).md | 28 | 28 | 0 |
+| Temporary_Hit_Points.md | 81 | 81 | 0 |
+| Tempus.md | 440 | 440 | 0 |
+| Tenacity_(passive_feature).md | 32 | 32 | 0 |
+| Tenets_of_the_Broken_God.md | 52 | 52 | 0 |
 | Wild_Shape_colon__Sabre-Toothed_Tiger.md | 67 | 67 | 0 |
 | Wild_Shape_colon__Spider.md | 75 | 75 | 0 |
 | Wild_Shape_colon__Water_Myrmidon.md | 67 | 67 | 0 |
@@ -10639,6 +10636,7 @@
 | Wild_Shape_colon__Wolf.md | 72 | 72 | 0 |
 | Wild_Strike.md | 20 | 20 | 0 |
 | Wildheart.md | 73 | 73 | 0 |
+| Willinx_Jindlebee.md | 379 | 379 | 0 |
 | Wilted_Dreams.md | 37 | 37 | 0 |
 | Wilted_Dreams_(Condition).md | 26 | 26 | 0 |
 | Wine.md | 100 | 100 | 0 |
@@ -10655,25 +10653,33 @@
 | Withered_Sussur_Petal.md | 15 | 15 | 0 |
 | Withering_Barrier.md | 24 | 24 | 0 |
 | Withering_Cut.md | 21 | 21 | 0 |
-| Template_talk_colon_MonkNavbox.md | 6 | 6 | 0 |
-| Template_talk_colon_PaladinNavbox.md | 6 | 6 | 0 |
-| Template_talk_colon_RangerNavbox.md | 6 | 6 | 0 |
-| Template_talk_colon_RogueNavbox.md | 6 | 6 | 0 |
-| Template_talk_colon_SorcererNavbox.md | 6 | 6 | 0 |
-| Template_talk_colon_WarlockNavbox.md | 26 | 26 | 0 |
-| Temple_Map.md | 34 | 34 | 0 |
-| Temple_Trader's_Key.md | 22 | 22 | 0 |
-| Temporarily_Hostile_(Condition).md | 28 | 28 | 0 |
-| Temporary_Hit_Points.md | 81 | 81 | 0 |
-| Tempus.md | 440 | 440 | 0 |
-| Tenacity_(passive_feature).md | 32 | 32 | 0 |
-| Tenets_of_the_Broken_God.md | 52 | 52 | 0 |
 | Zephyr_Connection.md | 20 | 20 | 0 |
 | Zevlor's_Key.md | 26 | 26 | 0 |
 | Zhentarim_Key.md | 26 | 26 | 0 |
 | Zhentarim_Note.md | 32 | 32 | 0 |
 | bg3wiki_colon_Ads_Announcement_1.md | 115 | 115 | 0 |
 | bg3wiki_colon_Ads_Announcement_2.md | 80 | 80 | 0 |
+| Worn_Key.md | 26 | 26 | 0 |
+| Worn_Key_(Toron).md | 26 | 26 | 0 |
+| Worn_Shoes.md | 22 | 22 | 0 |
+| Worn_Slashstrip_Sandals.md | 26 | 26 | 0 |
+| Wound_Closure.md | 24 | 24 | 0 |
+| Wound_Closure_(Condition).md | 28 | 28 | 0 |
+| Wounding_Ray_(Spectator).md | 27 | 27 | 0 |
+| Wrath_(Condition).md | 36 | 36 | 0 |
+| Wrath_of_the_Storm_colon__Lightning.md | 37 | 37 | 0 |
+| Wrath_of_the_Storm_colon__Thunder.md | 41 | 41 | 0 |
+| Wretched_Growth_(Condition).md | 31 | 31 | 0 |
+| Wrinkled_Note.md | 36 | 36 | 0 |
+| Writ_colon__High_Alert.md | 34 | 34 | 0 |
+| Writhing_Dance.md | 20 | 20 | 0 |
+| Writhing_Souls_(Condition).md | 28 | 28 | 0 |
+| Writin_Exorcises.md | 28 | 28 | 0 |
+| Wrong,_Wrong,_Wrong.md | 30 | 30 | 0 |
+| Wulbren's_Hammer.md | 46 | 46 | 0 |
+| Wulbren's_Head.md | 26 | 26 | 0 |
+| Wyrm's_Crossing.md | 237 | 237 | 0 |
+| Wyrm's_Rock_Prison.md | 167 | 167 | 0 |
 | Wild_Magic_colon__Swap_(Condition).md | 26 | 26 | 0 |
 | Wild_Magic_colon__Telekinesis_(Condition).md | 27 | 27 | 0 |
 | Wild_Magic_colon__Teleport_(Activate)_(Sorcerer).md | 23 | 23 | 0 |
@@ -10700,27 +10706,6 @@
 | Wild_Shape_colon__Fire_Myrmidon_(Condition).md | 92 | 92 | 0 |
 | Wild_Shape_colon__Owlbear.md | 68 | 68 | 0 |
 | Wild_Shape_colon__Panther.md | 63 | 63 | 0 |
-| Worn_Key.md | 26 | 26 | 0 |
-| Worn_Key_(Toron).md | 26 | 26 | 0 |
-| Worn_Shoes.md | 22 | 22 | 0 |
-| Worn_Slashstrip_Sandals.md | 26 | 26 | 0 |
-| Wound_Closure.md | 24 | 24 | 0 |
-| Wound_Closure_(Condition).md | 28 | 28 | 0 |
-| Wounding_Ray_(Spectator).md | 27 | 27 | 0 |
-| Wrath_(Condition).md | 36 | 36 | 0 |
-| Wrath_of_the_Storm_colon__Lightning.md | 37 | 37 | 0 |
-| Wrath_of_the_Storm_colon__Thunder.md | 41 | 41 | 0 |
-| Wretched_Growth_(Condition).md | 31 | 31 | 0 |
-| Wrinkled_Note.md | 36 | 36 | 0 |
-| Writ_colon__High_Alert.md | 34 | 34 | 0 |
-| Writhing_Dance.md | 20 | 20 | 0 |
-| Writhing_Souls_(Condition).md | 28 | 28 | 0 |
-| Writin_Exorcises.md | 28 | 28 | 0 |
-| Wrong,_Wrong,_Wrong.md | 30 | 30 | 0 |
-| Wulbren's_Hammer.md | 46 | 46 | 0 |
-| Wulbren's_Head.md | 26 | 26 | 0 |
-| Wyrm's_Crossing.md | 237 | 237 | 0 |
-| Wyrm's_Rock_Prison.md | 167 | 167 | 0 |
 | Unsent_Letter_(robber).md | 34 | 34 | 0 |
 | Unsent_Sending.md | 34 | 34 | 0 |
 | Unsettling_Visage.md | 40 | 40 | 0 |
@@ -11105,6 +11090,35 @@
 | After_the_Interdeium.md | 9 | Books | 书籍 | - [Books](Books.md "Books") | - [Books](Books.md "Books") |
 | After_the_Interdeium.md | 21 | Counting House | 清账屋 | - In the [Head Clerk's](Head_Clerk_Meadhoney.md "Head Clerk Meadhoney") second-floor office in the [Counting House](Counting_House.md "Counting House") at X: -108 Y: -181 | - In the [Head Clerk's](Head_Clerk_Meadhoney.md "Head Clerk Meadhoney") second-floor office in the [Counting House](Counting_House.md "Counting House") at X: -108 Y: -181 |
 | After_the_Interdeium.md | 21 | Head | 头部 | - In the [Head Clerk's](Head_Clerk_Meadhoney.md "Head Clerk Meadhoney") second-floor office in the [Counting House](Counting_House.md "Counting House") at X: -108 Y: -181 | - In the [Head Clerk's](Head_Clerk_Meadhoney.md "Head Clerk Meadhoney") second-floor office in the [Counting House](Counting_House.md "Counting House") at X: -108 Y: -181 |
+| Aggy.md | 3 | Eye | 眼睛 | ## Sharp-Eye Aggy | ## 神射手阿吉 |
+| Aggy.md | 7 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Aggy.md | 43 | Balanced | 平衡 | - Balanced | - 均衡 |
+| Aggy.md | 47 | Tactician | 硬核 | - Tactician | - 战术家 |
+| Aggy.md | 51 | Balanced | 平衡 | ## Balanced Difficulty Stats | ## 均衡难度数据 |
+| Aggy.md | 69 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Aggy.md | 77 | Weight | 重量 | ### Weight | ### 体重 |
+| Aggy.md | 81 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Aggy.md | 103 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Aggy.md | 129 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Aggy.md | 137 | Weight | 重量 | ### Weight | ### 体重 |
+| Aggy.md | 141 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Aggy.md | 163 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Aggy.md | 171 | Tactician | 硬核 | ## Tactician Difficulty Stats | ## 战术家难度数据 |
+| Aggy.md | 189 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Aggy.md | 197 | Weight | 重量 | ### Weight | ### 体重 |
+| Aggy.md | 201 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Aggy.md | 209 | Acrobatics | 体操 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 力量 \| 敏捷 \| 体质 \| 智力 \| 感知 \| 魅力 \| |
+| Aggy.md | 209 | Perception | 察觉技能 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 力量 \| 敏捷 \| 体质 \| 智力 \| 感知 \| 魅力 \| |
+| Aggy.md | 209 | Athletics | 运动 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 力量 \| 敏捷 \| 体质 \| 智力 \| 感知 \| 魅力 \| |
+| Aggy.md | 223 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Aggy.md | 227 | Fury of the Small | 小型之怒 | - [**Fury of the Small**](Fury_of_the_Small.md "Fury of the Small") | - [**小人物之怒**](Fury_of_the_Small.md "小人物之怒") |
+| Aggy.md | 253 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Aggy.md | 261 | Weight | 重量 | ### Weight | ### 体重 |
+| Aggy.md | 265 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Aggy.md | 287 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Aggy.md | 291 | Fury of the Small | 小型之怒 | - [**Fury of the Small**](Fury_of_the_Small.md "Fury of the Small") | - [**小人物之怒**](Fury_of_the_Small.md "小人物之怒") |
+| Aggy.md | 313 | Eye | 眼睛 | `Goblin_Ranger_Strong` **Sharp-Eye Aggy** is a goblin stationed in the [Goblin Camp](Goblin_Camp.md "Goblin Camp") in [Act One](Act_One.md "Act One"). | `Goblin_Ranger_Strong` **神射手阿吉**是[第一幕](Act_One.md "第一幕")中[地精营地](Goblin_Camp.md "地精营地")的一名地精。 |
+| Aggy.md | 327 | Eye | 眼睛 | Sharp-Eye Aggy can be found walking around the main outdoor area of the Goblin Camp. | 神射手阿吉可以在地精营地的主室外区域找到。 |
 | Aid_(Condition).md | 23 | Absolute's Talisman: Aid | 至上真神的护符：协助 | - [Absolute's Talisman: Aid](Absolute's_Talisman_colon__Aid.md "Absolute's Talisman: Aid") | - [至上真神的护符：支援术](Absolute's_Talisman_colon__Aid.md "至上真神的护符：支援术") |
 | Alchemical_Ingredients.md | 41 | regenerate | 恢复 | Ingredients can be found out in the wild while exploring, or bought from some traders. Once an ingredient is harvested from the overworld, it will not regenerate. Some good places to search for ingred | 材料可以在野外探索时找到，也可以从一些商人处购买。一旦从世界中采集了材料，它就不会再生。寻找材料的好地方包括[第一幕](Act_One.md "第一幕")中[染疫村落](Blighted_Village.md "染疫村落")的[药材店](Blighted_Village.md#Apothecary "染疫村落")和[药材店地窖](Apothecary's_Cellar.md "药材店地窖")、[第 |
 | Alchemical_Ingredients.md | 98 | Vitriol | 酸解物 | \| [Greater Elixir of Arcane Cultivation](Greater_Elixir_of_Arcane_Cultivation.md "Greater Elixir of Arcane Cultivation") \| [Suspension of Laculite](Suspension_of_Laculite.md "Suspension of Laculite")  | \| [高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation.md "高效奥术滋养灵药") \| [天蓝石悬液](Suspension_of_Laculite.md "天蓝石悬液") \| [天蓝石](Laculite.md "天蓝石") \| 晶盐 \| 6 \| 1 \| 0.71 \| |
@@ -11965,6 +11979,13 @@
 | Bottled_Breath.md | 22 | Bottled Breath | 火焰之息药水 | ## Condition: Bottled Breath | ## 状态：火焰之息 |
 | Bottled_Breath.md | 24 | Bottled Breath | 火焰之息药水 | **[Bottled Breath](Bottled_Breath_(Condition).md "Bottled Breath (Condition)")** | **[火焰之息](Bottled_Breath_(Condition).md "Bottled Breath (Condition)")** |
 | Braced_(Condition).md | 14 | Thunder damage | 雷鸣伤害 | - The damage reroll seems to be applied to all damage dealt from applicable attacks, not just the weapon damage. For example, when dealing damage to a target under the effect of [Phalar Aluve: Shriek] | - 伤害重掷似乎适用于适用攻击造成的所有伤害，而不仅仅是武器伤害。例如，当对处于[生离死别：尖啸](Phalar_Aluve_colon__Shriek.md "生离死别：尖啸")效果下的目标造成伤害时，产生的1d4⁠⁠[雷鸣](Thunder.md "雷鸣")伤害也会掷两次。 |
+| Bramble.md | 6 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Bramble.md | 14 | Ilmater | 伊尔梅特 | [Church of Ilmater](Church_of_Ilmater.md "Church of Ilmater") | [伊尔玛特教会](Church_of_Ilmater.md "伊尔玛特教会") |
+| Bramble.md | 78 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 暗视 |
+| Bramble.md | 136 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 暗视 |
+| Bramble.md | 194 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 暗视 |
+| Bramble.md | 202 | Perception | 察觉技能 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 运动 \| 体操 \| 察觉 \| |
+| Bramble.md | 240 | One | 一 | > The Crying One weeps today. Our Father Lorgan is dead. Murdered! | > 哭泣者今日垂泪。我们的罗根神父死了。被谋杀了！ |
 | Brand.md | 48 | check | 检定 | - [Tav](Origins.md#Custom "Origins") may not become "Branded" after an attempt in [Patch #7](Patch_notes.md "Patch notes"), so it is necessary to check if it has succeeded or failed (verified as of 12 | - [塔夫](Origins.md#Custom "出身")在[第7号补丁](Patch_notes.md "补丁说明")中尝试后可能不会成为“烙印之人”，因此有必要检查是否成功或失败（截至2024年12月25日已验证）。 |
 | Brand_of_the_Absolute.md | 48 | check | 检定 | - [Tav](Origins.md#Custom "Origins") may not become "Branded" after an attempt in [Patch #7](Patch_notes.md "Patch notes"), so it is necessary to check if it has succeeded or failed (verified as of 12 | - [塔夫](Origins.md#Custom "出身")在[补丁 #7](Patch_notes.md "补丁说明")中尝试烙印后可能不会成为"烙印之人"，因此需要检查是否成功或失败（截至 2024/12/25 已验证）。 |
 | Brand_of_the_Silverlight_(Condition).md | 5 | Radiant damage | 光耀伤害 | - This creature's weapon attacks deal an additional 5d8⁠⁠[Radiant](Radiant.md "Radiant") damage. | - 此生物的武器攻击额外造成 5d8⁠⁠[光耀](Radiant.md "光耀") 伤害。 |
@@ -12007,6 +12028,36 @@
 | Burning_Fiercely_(Condition).md | 16 | Burning | 燃烧 | - [Burning](Status_properties/Burning.md "Status properties/Burning") | - [Burning](Status_properties/Burning.md "Status properties/Burning") |
 | Burning_Fiercely_(Condition).md | 35 | Radiant damage | 光耀伤害 | \| [Holy Fire](Holy_Fire_(Condition).md "Holy Fire (Condition)") \| Takes 1~4⁠⁠[Radiant](Radiant.md "Radiant") damage per turn. \| | \| [圣火](Holy_Fire_(Condition).md "Holy Fire (Condition)") \| 每回合受到 1~4⁠⁠[光耀](Radiant.md "Radiant") 伤害。 \| |
 | CON.md | 43 | consumed | 吞噬 | The following items/entities can be consumed/used for a permanent bonus to Constitution: | 以下物品/实体可以消耗/使用以获得永久的体质加成： |
+| Calliope_Blingsdorf.md | 1 | Calliope Blingsdorf | 卡利俄珀·布林斯多弗 | # Calliope Blingsdorf | # Calliope Blingsdorf |
+| Calliope_Blingsdorf.md | 3 | Calliope Blingsdorf | 卡利俄珀·布林斯多弗 | ## Calliope Blingsdorf | ## Calliope Blingsdorf |
+| Calliope_Blingsdorf.md | 7 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Calliope_Blingsdorf.md | 43 | Balanced | 平衡 | - Balanced | - 均衡 |
+| Calliope_Blingsdorf.md | 45 | Explorer | 探索者 | - Explorer | - 探险家 |
+| Calliope_Blingsdorf.md | 47 | Tactician | 硬核 | - Tactician | - 战术家 |
+| Calliope_Blingsdorf.md | 49 | Balanced | 平衡 | ## Balanced Difficulty Stats | ## 均衡难度属性 |
+| Calliope_Blingsdorf.md | 67 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Calliope_Blingsdorf.md | 79 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Calliope_Blingsdorf.md | 97 | Bardic Inspiration | 吟游诗人激励点 | - [**Bardic Inspiration**](Bardic_Inspiration_(passive_feature).md "Bardic Inspiration (passive feature)") | - [**诗人激励**](Bardic_Inspiration_(passive_feature).md "诗人激励 (被动特性)") |
+| Calliope_Blingsdorf.md | 99 | Bardic Inspiration | 吟游诗人激励点 | Can use [Bardic Inspiration](Bardic_Inspiration_(class_action)..md) | 可以使用[诗人激励](Bardic_Inspiration_(class_action)..md) |
+| Calliope_Blingsdorf.md | 101 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Calliope_Blingsdorf.md | 117 | Explorer | 探索者 | ## Explorer Difficulty Stats | ## 探险家难度属性 |
+| Calliope_Blingsdorf.md | 135 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Calliope_Blingsdorf.md | 147 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Calliope_Blingsdorf.md | 165 | Bardic Inspiration | 吟游诗人激励点 | - [**Bardic Inspiration**](Bardic_Inspiration_(passive_feature).md "Bardic Inspiration (passive feature)") | - [**诗人激励**](Bardic_Inspiration_(passive_feature).md "诗人激励 (被动特性)") |
+| Calliope_Blingsdorf.md | 167 | Bardic Inspiration | 吟游诗人激励点 | Can use [Bardic Inspiration](Bardic_Inspiration_(class_action)..md) | 可以使用[诗人激励](Bardic_Inspiration_(class_action)..md) |
+| Calliope_Blingsdorf.md | 169 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Calliope_Blingsdorf.md | 185 | Tactician | 硬核 | ## Tactician Difficulty Stats | ## 战术家难度属性 |
+| Calliope_Blingsdorf.md | 203 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Calliope_Blingsdorf.md | 215 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Calliope_Blingsdorf.md | 223 | Perception | 察觉技能 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 运动 \| 体操 \| 感知 \| |
+| Calliope_Blingsdorf.md | 233 | Bardic Inspiration | 吟游诗人激励点 | - [**Bardic Inspiration**](Bardic_Inspiration_(passive_feature).md "Bardic Inspiration (passive feature)") | - [**诗人激励**](Bardic_Inspiration_(passive_feature).md "诗人激励 (被动特性)") |
+| Calliope_Blingsdorf.md | 235 | Bardic Inspiration | 吟游诗人激励点 | Can use [Bardic Inspiration](Bardic_Inspiration_(class_action)..md) | 可以使用[诗人激励](Bardic_Inspiration_(class_action)..md) |
+| Calliope_Blingsdorf.md | 237 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Calliope_Blingsdorf.md | 267 | Calliope Blingsdorf | 卡利俄珀·布林斯多弗 | `WYR_Circus_Gnome_Bard` **Calliope Blingsdorf** is a [Gnome](Gnome.md "Gnome") [Bard](Bard.md "Bard") performing at the [Circus of the Last Days](Circus_of_the_Last_Days.md "Circus of the Last Days")  | `WYR_Circus_Gnome_Bard` **Calliope Blingsdorf** 是一名[侏儒](Gnome.md "侏儒")[吟游诗人](Bard.md "吟游诗人")，在[第三幕](Act_Three.md "第三幕")的[末日马戏团](Circus_of_the_Last_Days.md "末日马戏团")中表演。 |
+| Calliope_Blingsdorf.md | 275 | Calliope Blingsdorf | 卡利俄珀·布林斯多弗 | — Calliope Blingsdorf | — Calliope Blingsdorf |
+| Calliope_Blingsdorf.md | 286 | Viola Silvertongue | 银舌维奥拉 | Calliope performs alongside [Viola Silvertongue](Viola_Silvertongue.md "Viola Silvertongue"), who he holds in great esteem, and plays the [Hand Drums](Hand_Drum.md "Hand Drum"). His infatuation with V | Calliope 与 [Viola Silvertongue](Viola_Silvertongue.md "Viola Silvertongue") 一同表演，他对她极为尊敬，并演奏[手鼓](Hand_Drum.md "手鼓")。他对 Viola 的迷恋使他对那些他认为威胁到她地位的人——即那些被误认为新雇员的吟游诗人——相当刻薄。 |
+| Calliope_Blingsdorf.md | 306 | Vicious Mockery | 恶毒嘲笑 | [Vicious Mockery](Vicious_Mockery.md "Vicious Mockery") | [恶言相向](Vicious_Mockery.md "恶言相向") |
+| Calliope_Blingsdorf.md | 319 | Calliope Blingsdorf | 卡利俄珀·布林斯多弗 | - ⁠[Calliope Blingsdorf](https://forgottenrealms.fandom.com/wiki/Calliope_Blingsdorf) on the [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page) | - ⁠[Calliope Blingsdorf](https://forgottenrealms.fandom.com/wiki/Calliope_Blingsdorf) on the [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page) |
 | Callous_Glow.md | 19 | Radiant damage | 光耀伤害 | - The 2⁠⁠[Radiant](Radiant.md "Radiant") damage is added to almost all damage sources originating from the wearer. | - 2 点[光耀](Radiant.md "光耀")伤害会添加到几乎所有源自佩戴者的伤害来源中。 |
 | Camp.md | 39 | Mirror | 镜子 | The Magic Mirror | 魔法镜 |
 | Camp.md | 41 | Friends | 交友术 | The campsite provides a location to swap or speak to party members, store or retrieve items from the [Traveller's Chest](Traveller's_Chest.md "Traveller's Chest"), change class or revive fallen [Compa | 营地提供了一个地点，用于更换或与队伍成员交谈、从[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")中存储或取回物品、通过[守墓人](Withers.md "守墓人")更换职业或复活倒下的[伙伴](Companions.md "伙伴")，或进行[长休](Long_Rest.md "长休")。通过与[魔法镜](Magic_Mirror.md "魔法镜")互动，自定义角色、邪 |
@@ -12641,6 +12692,477 @@
 | Cold_set.md | 28 | Cold Damage | 寒冷伤害 | \| Wavemother's Robe \| [Armour](Armour.md "Armour") ([Clothing](Clothing.md "Clothing")) \| [Armour Class](Armour_Class.md "Armour Class") +1 [Create or Destroy Water](Create_or_Destroy_Water.md "Create | \| 海浪之母的长袍 \| [护甲](Armour.md "护甲") ([服装](Clothing.md "服装")) \| [护甲等级](Armour_Class.md "护甲等级") +1 [造水/枯水术](Create_or_Destroy_Water.md "造水/枯水术") 作为4环法术施放（充能：[短休](Short_rest.md "短休")。）[温度调节](Temperature_Adj |
 | Cold_set.md | 28 | hit points | 生命值 | \| Wavemother's Robe \| [Armour](Armour.md "Armour") ([Clothing](Clothing.md "Clothing")) \| [Armour Class](Armour_Class.md "Armour Class") +1 [Create or Destroy Water](Create_or_Destroy_Water.md "Create | \| 海浪之母的长袍 \| [护甲](Armour.md "护甲") ([服装](Clothing.md "服装")) \| [护甲等级](Armour_Class.md "护甲等级") +1 [造水/枯水术](Create_or_Destroy_Water.md "造水/枯水术") 作为4环法术施放（充能：[短休](Short_rest.md "短休")。）[温度调节](Temperature_Adj |
 | Combining.md | 91 | Forge | 锻炉 | One of the following three weapons can be crafted from a ordinary instance of the weapon and [Sussur Tree Bark](Sussur_Tree_Bark.md "Sussur Tree Bark") in the ⁠[Blacksmith's Forge](Blighted_Village.md | 以下三种武器之一可以通过一件普通武器和[轻语树皮](Sussur_Tree_Bark.md "轻语树皮")在[铁匠铺熔炉](Blighted_Village.md#Blacksmith's_Forge "染疫村落")中制作，作为[完成大师武器](Finish_the_Masterwork_Weapon.md "完成大师武器")任务的一部分： |
+| Common_Location_Remarks.md | 6 | Origin | 出身 | These are location remarks and voicebarks which are used by [Custom origin (Tav)](Origins.md#Custom "Origins") or common for any Origin (including the [Dark Urge](Dark_Urge.md "Dark Urge")), if they d | 这些是[自定义起源（塔夫）](Origins.md#Custom “起源”)使用或任何起源（包括[邪念](Dark_Urge.md “邪念”)）通用的地点旁白和语音，前提是它们没有针对特定情况的独特评论。大多数只会播放一次，可能由任何队伍成员执行，谁先触发就由谁来说。在某些队伍组合中，特定队伍成员有优先权说出他们的台词，即使这对所有人都是通用的。 |
+| Common_Location_Remarks.md | 8 | Subclass | 副职 | In case of specific conditions (like Race, Class or Subclass), these are recorded separately. | 对于特定条件（如种族、职业或子职业），这些是分开录制的。 |
+| Common_Location_Remarks.md | 10 | Origin | 出身 | When performed by Origin characters, common location remarks are voiced by the corresponding voice actors. | 当由起源角色执行时，常见地点旁白由相应的配音演员配音。 |
+| Common_Location_Remarks.md | 17 | Helm | 海姆 | - [1.3 The Helm](#the-helm) | - [1.3 舵手室](#the-helm) |
+| Common_Location_Remarks.md | 48 | Lucky | 幸运 | - _(Other ruptured pod, 2):_ “Lucky I made it out.” | - _（其他破裂贮囊，2）：_ “幸好我逃出来了。” |
+| Common_Location_Remarks.md | 52 | Dead | 死亡 | - _(Looted a dead[Mind Flayer](Mind_flayer.md "Mind Flayer")):_ “Dead. Good.” | - _（从死去的[夺心魔](Mind_flayer.md “夺心魔”)身上拾取）：_ “死了。很好。” |
+| Common_Location_Remarks.md | 91 | Helm | 海姆 | #### [The Helm](Nautiloid.md#Helm "Nautiloid") | #### [舵手室](Nautiloid.md#Helm “鹦鹉螺”) |
+| Common_Location_Remarks.md | 93 | Helm | 海姆 | - _(In[Multiplayer](Multiplayer.md "Multiplayer"), if another character has entered the Helm, while the player character hasn’t yet):_ “Ship's going to buckle. I need to get to the helm.” | - _（在[多人游戏](Multiplayer.md “多人游戏”)中，如果另一个角色已进入舵手室，而玩家角色尚未进入）：_ “飞船要撑不住了。我需要去舵手室。” |
+| Common_Location_Remarks.md | 94 | Helm | 海姆 | - _(On the third turn of the fight in the Helm):_ “We need to get out of here - now.” | - _（舵手室战斗第三回合）：_ “我们需要离开这里——现在就走。” |
+| Common_Location_Remarks.md | 95 | Helm | 海姆 | - _(On the fifth turn of the fight in the Helm):_ “If this ship hits the ground, we're dead!” | - _（舵手室战斗第五回合）：_ “如果这艘船撞到地面，我们就死定了！” |
+| Common_Location_Remarks.md | 147 | Refectory | 卧室 | - _(Tried to open the door between the Refectory and the[Dank Crypt](Dank_Crypt.md "Dank Crypt")):_ "No lock, no handle. How does it open?" _(Plays when moving in any direction)_ | - _（尝试打开餐厅和[阴暗墓穴](Dank_Crypt.md “阴暗墓穴”)之间的门）：_ “没有锁，没有把手。怎么打开？” _（向任何方向移动时播放）_ |
+| Common_Location_Remarks.md | 167 | Dead | 死亡 | - _(Found[Book of Dead Gods](Book_of_Dead_Gods.md "Book of Dead Gods")):_ "Looks like someone wanted to bury their secrets." | - _（找到[《逝去诸神之书》](Book_of_Dead_Gods.md “《逝去诸神之书》”)）：_ “看起来有人想埋葬他们的秘密。” |
+| Common_Location_Remarks.md | 195 | History | 历史的 | - _(Found a necklace at Harpers’ outpost,[History](History.md "History") check):_ “Necklace has a Harper sigil. Why were they here?” | - _（在竖琴手哨站找到项链，[历史](History.md “历史”)检定）：_ “项链上有竖琴手的印记。他们为什么在这里？” |
+| Common_Location_Remarks.md | 203 | The Harpers | 竖琴手同盟 | - _(Read[Harper's Notebook](Harper's_Notebook.md "Harper's Notebook") from under the rock):_ “Necklace matches the sigil in that cave. The Harpers were busy.” | - _(Read[竖琴手的手册](Harper's_Notebook.md "竖琴手的手册") from under the rock):_ “Necklace matches the sigil in that cave. The Harpers were busy.” |
+| Common_Location_Remarks.md | 203 | Necklace | 项链 | - _(Read[Harper's Notebook](Harper's_Notebook.md "Harper's Notebook") from under the rock):_ “Necklace matches the sigil in that cave. The Harpers were busy.” | - _(Read[竖琴手的手册](Harper's_Notebook.md "竖琴手的手册") from under the rock):_ “Necklace matches the sigil in that cave. The Harpers were busy.” |
+| Common_Location_Remarks.md | 205 | The Harpers | 竖琴手同盟 | - _(Read Harper's Notebook,[Githyanki character](Githyanki.md "Githyanki")):_ “This necklace's sigil was also in the cave. The Harpers have been unusually active here.” | - _(Read Harper's Notebook,[吉斯洋基人 character](Githyanki.md "吉斯洋基人")):_ “This necklace's sigil was also in the cave. The Harpers have been unusually active here.” |
+| Common_Location_Remarks.md | 207 | Lucky | 幸运 | - _(Successfully convinced the looters from Abandoned Chapel to flee):_ “Lucky those bandits valued their own hides over their loot.” | - _(Successfully convinced the looters from Abandoned Chapel to flee):_ “Lucky those bandits valued their own hides over their loot.” |
+| Common_Location_Remarks.md | 217 | check | 检定 | - _(Responding remark):_ “We should check it out - but be careful.” | - _（回应旁白）：_ “我们应该去看看——但要小心。” |
+| Common_Location_Remarks.md | 251 | Hideout | 藏身点 | - _(Noticed a crevice that is actually an entrance to the[Tiefling Hideout](Tiefling_Hideout.md "Tiefling Hideout")):_ “I can't fit through here. Wonder if there's another way in.” | - _（注意到一条裂缝，实际上是[提夫林避难所](Tiefling_Hideout.md “提夫林避难所”)的入口）：_ “我挤不过去。不知道有没有别的路。” |
+| Common_Location_Remarks.md | 257 | familiar | 获得魔宠 | - _(Saw their belongings in the Tieflings Hideout):_ “Wait. This looks familiar.” | - _（在提夫林避难所看到自己的物品）：_ “等等。这看起来很眼熟。” |
+| Common_Location_Remarks.md | 257 | Hideout | 藏身点 | - _(Saw their belongings in the Tieflings Hideout):_ “Wait. This looks familiar.” | - _（在提夫林避难所看到自己的物品）：_ “等等。这看起来很眼熟。” |
+| Common_Location_Remarks.md | 291 | Arabella | 阿拉贝尔 | - (If Arabella was killed by Teela during the trial): “The snake killed that girl in front of everyone. Is this grove worth a dead child?” | - （如果阿拉贝拉在试炼中被蒂拉杀死）：”那条蛇在所有人面前杀死了那个女孩。这个林地值得一个死去的孩子吗？” |
+| Common_Location_Remarks.md | 291 | Teela | 提拉 | - (If Arabella was killed by Teela during the trial): “The snake killed that girl in front of everyone. Is this grove worth a dead child?” | - （如果阿拉贝拉在试炼中被蒂拉杀死）：”那条蛇在所有人面前杀死了那个女孩。这个林地值得一个死去的孩子吗？” |
+| Common_Location_Remarks.md | 361 | Rune of the Wolf | 狼之符文 | - (Opened the secret stairs down with a Rune of the Wolf): “Well well, what have we here.” | - （用狼符文打开秘密楼梯）：”好好好，我们看看这是什么。” |
+| Common_Location_Remarks.md | 378 | Secluded Cove | 隐秘河湾 | - (Approaching Secluded Cove, heard harpies): “Is someone... singing?” |  |
+| Common_Location_Remarks.md | 382 | Charmed | 魅惑 | - _(Charmed by Harpy's song, 1)_ "These melodies..." |  |
+| Common_Location_Remarks.md | 382 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 1)_ "These melodies..." |  |
+| Common_Location_Remarks.md | 384 | Charmed | 魅惑 | - _(Charmed by Harpy's song, 2)_ I could listen to this forever... |  |
+| Common_Location_Remarks.md | 384 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 2)_ I could listen to this forever... |  |
+| Common_Location_Remarks.md | 386 | Charmed | 魅惑 | - _(Charmed by Harpy's song, 3)_ What beautiful music... |  |
+| Common_Location_Remarks.md | 386 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 3)_ What beautiful music... |  |
+| Common_Location_Remarks.md | 388 | Charmed | 魅惑 | - _(Charmed by Harpy's song, 4)_ I could drown in that song... |  |
+| Common_Location_Remarks.md | 388 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 4)_ I could drown in that song... |  |
+| Common_Location_Remarks.md | 390 | Charmed | 魅惑 | - _(Charmed by Harpy's song, 5)_ "Come here... please!" |  |
+| Common_Location_Remarks.md | 390 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 5)_ "Come here... please!" |  |
+| Common_Location_Remarks.md | 392 | Charmed | 魅惑 | - _(Charmed by Harpy's song, 6)_ It's lovely... |  |
+| Common_Location_Remarks.md | 392 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 6)_ It's lovely... |  |
+| Common_Location_Remarks.md | 394 | Charmed | 魅惑 | - _(Charmed by Harpy's song, 7)_ I'll be there soon, my lady. |  |
+| Common_Location_Remarks.md | 394 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 7)_ I'll be there soon, my lady. |  |
+| Common_Location_Remarks.md | 396 | Charmed | 魅惑 | - _(Charmed by Harpy's song, 8)_ That song... |  |
+| Common_Location_Remarks.md | 396 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 8)_ That song... |  |
+| Common_Location_Remarks.md | 398 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 9)_ "Closer... I need to get closer!" |  |
+| Common_Location_Remarks.md | 400 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 10)_ Take me with you! |  |
+| Common_Location_Remarks.md | 402 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 11)_ Don't stop singing... |  |
+| Common_Location_Remarks.md | 404 | Harpy | 鸟妖 | - _(Charmed by Harpy's song, 12)_ I've never heard something so beautiful... |  |
+| Common_Location_Remarks.md | 406 | Harpy | 鸟妖 | - _(Broke the Harpy's charm, 1)_ "No... this isn't right..." |  |
+| Common_Location_Remarks.md | 408 | Harpy | 鸟妖 | - _(Broke the Harpy's charm, 2)_ "What... what happened?" |  |
+| Common_Location_Remarks.md | 410 | Harpy | 鸟妖 | - _(Broke the Harpy's charm, 3)_ "What... what was that?" |  |
+| Common_Location_Remarks.md | 412 | Harpy | 鸟妖 | - _(Broke the Harpy's charm, 4)_ "Stay out of my head!" |  |
+| Common_Location_Remarks.md | 418 | Mirkon | 米尔克 | _\* (Found harpies’ nest, spoke with Mirkon): “Must be what that kid was talking about.”_ |  |
+| Common_Location_Remarks.md | 420 | attack | 攻击 | - (During the attack on the grove, can’t open the door to druid sanctum): “Locked from the inside.” |  |
+| Common_Location_Remarks.md | 422 | attack | 攻击 | - (Found dead tiefling children after the attack on the grove): “Butchered. They didn't stand a chance.” |  |
+| Common_Location_Remarks.md | 436 | Rite of Thorns | 荆棘仪式 | - (Found the vines all around the grove, knows about Rite of Thorns, a Tiefling avatar): “They wanted tieflings out. They got their wish.” |  |
+| Common_Location_Remarks.md | 436 | Tiefling | 提夫林 | - (Found the vines all around the grove, knows about Rite of Thorns, a Tiefling avatar): “They wanted tieflings out. They got their wish.” |  |
+| Common_Location_Remarks.md | 440 | Druid | 德鲁伊 | - (Tried to attack the vines, a Druid avatar): “It's hopeless. Silvanus' will holds these vines in place.” |  |
+| Common_Location_Remarks.md | 442 | Ranger | 游侠 | - (Tried to attack the vines, a Ranger avatar): “The bark's like iron. This is a waste of time.” |  |
+| Common_Location_Remarks.md | 442 | attack | 攻击 | - (Tried to attack the vines, a Ranger avatar): “The bark's like iron. This is a waste of time.” |  |
+| Common_Location_Remarks.md | 444 | Owlbear Nest | 枭熊巢穴 | #### [Forest](Forest.md "Forest") and [Owlbear Nest](Owlbear_Nest.md "Owlbear Nest") |  |
+| Common_Location_Remarks.md | 444 | Forest | 森林 | #### [Forest](Forest.md "Forest") and [Owlbear Nest](Owlbear_Nest.md "Owlbear Nest") |  |
+| Common_Location_Remarks.md | 446 | Andrik | 安德里克 | - (Hearing Andrik and Brynna ahead): “People up ahead. Something's wrong...” |  |
+| Common_Location_Remarks.md | 446 | Brynna | 布拉娜 | - (Hearing Andrik and Brynna ahead): “People up ahead. Something's wrong...” |  |
+| Common_Location_Remarks.md | 448 | check | 检定 | - (Saw tracks leading into the cave, SUR check successful): “Owlbear tracks. Its nest must be nearby.” |  |
+| Common_Location_Remarks.md | 464 | Owlbear Cub | 枭熊幼兽 | - (Spared the Owlbear Cub after killing its mother): “At least the cub has a fighting chance now.” |  |
+| Common_Location_Remarks.md | 474 | Owlbear Cub | 枭熊幼兽 | - (Killed the Owlbear Cub): “It was for the best. The cub would've died anyway.” |  |
+| Common_Location_Remarks.md | 476 | Nature | 自然 | - (Responding remark): “Nature might've provided for it. Too late now.” |  |
+| Common_Location_Remarks.md | 478 | Religion | 宗教 | - - _(Finding a shrine to Selûne,[Religion](Religion.md "Religion") check):_ |  |
+| Common_Location_Remarks.md | 478 | check | 检定 | - - _(Finding a shrine to Selûne,[Religion](Religion.md "Religion") check):_ |  |
+| Common_Location_Remarks.md | 488 | Investigation | 调查 | - _(Found a prayer,[Investigation](Investigation.md "Investigation") check succeed)_ “A prayer sheet. With the same symbol as the one on the chest.” |  |
+| Common_Location_Remarks.md | 498 | Religion | 宗教 | - (Religion check failed, Cleric of Selune) “Blessings of the Moonmaiden. Praise her.” |  |
+| Common_Location_Remarks.md | 498 | check | 检定 | - (Religion check failed, Cleric of Selune) “Blessings of the Moonmaiden. Praise her.” |  |
+| Common_Location_Remarks.md | 508 | Cleric | 牧师 | - (Cleric of Selune) “Ah, it speaks of the Moonmaiden's sacred rites of passage. I still remember my own.” |  |
+| Common_Location_Remarks.md | 512 | Sunlit Wetlands | 日照湿地 | [Sunlit Wetlands](Sunlit_Wetlands.md "Sunlit Wetlands") / [Putrid Bog](Putrid_Bog.md "Putrid Bog") |  |
+| Common_Location_Remarks.md | 512 | Putrid Bog | 腐烂泥潭 | [Sunlit Wetlands](Sunlit_Wetlands.md "Sunlit Wetlands") / [Putrid Bog](Putrid_Bog.md "Putrid Bog") |  |
+| Common_Location_Remarks.md | 514 | Johl | 约和 | - _(After helping[Auntie Ethel](Auntie_Ethel.md "Auntie Ethel") against Demir and Johl)_ “Bloody way to end an argument. I hope we chose the right side.” |  |
+| Common_Location_Remarks.md | 518 | Johl | 约和 | - _(Found[Demir](Demir.md "Demir") and [Johl](Johl.md "Johl") dead, haven’t met them)': “Someone cut these men to pieces. I doubt they had time to scream. ”_ |  |
+| Common_Location_Remarks.md | 522 | Duergar | 灰矮人 | - (Found brothers, a Duergar avatar): “Hmph. Humans. What did they expect?” |  |
+| Common_Location_Remarks.md | 528 | Sunlit Wetlands | 日照湿地 | - _(Finding carnage on the Sunlit Wetlands beach)_ "Looks like we missed all the fun." |  |
+| Common_Location_Remarks.md | 530 | Investigation | 调查 | - _([Investigation](Investigation.md "Investigation") check, successful)_ “Redcaps, no doubt. Wasteful creatures.” |  |
+| Common_Location_Remarks.md | 530 | check | 检定 | - _([Investigation](Investigation.md "Investigation") check, successful)_ “Redcaps, no doubt. Wasteful creatures.” |  |
+| Common_Location_Remarks.md | 534 | Decrepit Sanctuary | 破败的庇护所 | - (Noticed the knife-damaged tree bark in the [Decrepit Sanctuary](Decrepit_Sanctuary.md "Decrepit Sanctuary")): “Odd - someone's cut a notch in the tree there.” |  |
+| Common_Location_Remarks.md | 536 | Kagha | 卡哈 | - (Saw the damaged bark, knowing about Kagha’s letter): “Hm - must be the tree from the note to Kagha. What's that cleft there?” |  |
+| Common_Location_Remarks.md | 536 | Kagha | 卡哈 | - (Saw the damaged bark, knowing about Kagha’s letter): “Hm - must be the tree from the note to Kagha. What's that cleft there?” |  |
+| Common_Location_Remarks.md | 542 | Astarion | 阿斯代伦 | - _(After defeating[Gandrel](Gandrel.md "Gandrel"), stood to Astarion)_ "You protected a child-stealing vampire? Bold choice." |  |
+| Common_Location_Remarks.md | 546 | Astarion | 阿斯代伦 | - (Betrayed Astarion to Gandrel): “You gave him up? I wasn't sure you would.” |  |
+| Common_Location_Remarks.md | 546 | Gandrel | 根德莱尔 | - (Betrayed Astarion to Gandrel): “You gave him up? I wasn't sure you would.” |  |
+| Common_Location_Remarks.md | 556 | Arcana | 奥秘 | - (Near the fireplace in hag’s house, Arcana check successful): “Fireplace isn't real. What's hidden behind it?” |  |
+| Common_Location_Remarks.md | 556 | check | 检定 | - (Near the fireplace in hag’s house, Arcana check successful): “Fireplace isn't real. What's hidden behind it?” |  |
+| Common_Location_Remarks.md | 560 | Treacle Tart | 糖蜜馅饼 | - Ate a Treacle Tart in hag’s house before dispelling the illusion (at X: Y: ) |  |
+| Common_Location_Remarks.md | 562 | Lolth-Sworn Drow | 罗丝誓约卓尔 | - (A Lolth-Sworn Drow avatar): “Oh! What is in that?” |  |
+| Common_Location_Remarks.md | 564 | Githyanki | 吉斯洋基人 | - (A Githyanki avatar): “Tsk'va! This 'tart' is disgusting.” |  |
+| Common_Location_Remarks.md | 566 | Duergar | 灰矮人 | - (A Duergar avatar): “Bit rotten, this is. I've had worse.” |  |
+| Common_Location_Remarks.md | 568 | Deep Gnome | 地底侏儒 | - (A Deep Gnome avatar): “Urdlen's teat, that's nasty!” |  |
+| Common_Location_Remarks.md | 570 | Tiefling | 提夫林 | - (A Tiefling avatar): “What rotten Hell did this tart spring from? My stomach aches...” |  |
+| Common_Location_Remarks.md | 572 | Dwarf | 矮人 | - (A Dwarf avatar): “Chewy, bitter, putrid. Just like mum used to make.” |  |
+| Common_Location_Remarks.md | 574 | Seldarine Drow | 席德瑞恩卓尔 | - (An Elf, a Half-Elf or a Seldarine Drow avatar): “Corellon's star! That is grotesque.” |  |
+| Common_Location_Remarks.md | 574 | Half-Elf | 半精灵 | - (An Elf, a Half-Elf or a Seldarine Drow avatar): “Corellon's star! That is grotesque.” |  |
+| Common_Location_Remarks.md | 574 | Elf | 精灵 | - (An Elf, a Half-Elf or a Seldarine Drow avatar): “Corellon's star! That is grotesque.” |  |
+| Common_Location_Remarks.md | 576 | Halfling | 半身人 | - (A Halfling avatar): “Augh, this tastes like mouldy belbuck!” |  |
+| Common_Location_Remarks.md | 578 | Dragonborn | 龙裔 | - (A Dragonborn avatar): “What is this made of? Tiamat's cursed spit?” |  |
+| Common_Location_Remarks.md | 578 | Tiamat | 提亚马特 | - (A Dragonborn avatar): “What is this made of? Tiamat's cursed spit?” |  |
+| Common_Location_Remarks.md | 580 | Gruumsh | 格乌什 | - (A Halforc avatar): “Gruumsh's rotten eye would taste better than this.” |  |
+| Common_Location_Remarks.md | 586 | Drow | 卓尔 | - (A Drow avatar): “Straj! I... may vomit.” |  |
+| Common_Location_Remarks.md | 588 | Githyanki | 吉斯洋基人 | - (A Githyanki avatar): “How does this pastry taste worse the second time?” |  |
+| Common_Location_Remarks.md | 590 | Deep Gnome | 地底侏儒 | - (A Deep Gnome avatar): “Augh. This tastes like a rothé's breath smells.” |  |
+| Common_Location_Remarks.md | 592 | Dwarf | 矮人 | - (A Dwarf avatar): “Hmph. Terrible aftertaste. Maybe if it was stuck in a bit of brine...” |  |
+| Common_Location_Remarks.md | 594 | Tiefling | 提夫林 | - (A Tiefling avatar): “Nine Hells take me! No, never again...” |  |
+| Common_Location_Remarks.md | 596 | Half-Elf | 半精灵 | - (An Elf or Half-Elf avatar): “That is vile. My tongue may never be the same!” |  |
+| Common_Location_Remarks.md | 596 | Elf | 精灵 | - (An Elf or Half-Elf avatar): “That is vile. My tongue may never be the same!” |  |
+| Common_Location_Remarks.md | 598 | Halfling | 半身人 | - (A Halfling avatar): “Eurgh... I think I'm fermenting from the inside out.” |  |
+| Common_Location_Remarks.md | 600 | Dragonborn | 龙裔 | - (A Dragonborn avatar): “If my breath couldn't kill people already, it certainly can now.” |  |
+| Common_Location_Remarks.md | 624 | Overgrown Tunnel | 蔓生地道 | - _(After speaking with[Lorin](Lorin.md "Lorin") in the Overgrown Tunnel)_ “Babbling idiot doesn't know what he's talking about.” |  |
+| Common_Location_Remarks.md | 628 | check | 检定 | - (Saw the face in the mirror, check successful): “Those screams - someone's trapped in that mirror.” |  |
+| Common_Location_Remarks.md | 632 | Lorin | 洛林 | - (Lorin died after being forced out of his corner): “What just happened?” |  |
+| Common_Location_Remarks.md | 636 | Whispering Mask | 低语面具 | - (Put on a Whispering Mask and saw through illusion): “Things look... different.” |  |
+| Common_Location_Remarks.md | 638 | Wisdom | 感知 | - (Failed a Wisdom save against Ethel’s mask): “Get out. GET OUT OF MY HEAD!” |  |
+| Common_Location_Remarks.md | 644 | Hag | 鬼婆 | - (Chasing after Ethel through the illusory fireplace): “Hag can't have gone far.” |  |
+| Common_Location_Remarks.md | 646 | Mayrina | 梅丽娜 | - (After Ethel’s set Mayrina’s cage on fire): “That cage won't last!” |  |
+| Common_Location_Remarks.md | 648 | Mayrina | 梅丽娜 | - (Saw Mayrina in the cage): “There - in the cage!” |  |
+| Common_Location_Remarks.md | 654 | Goblin Camp | 地精营地 | [Goblin Camp](Goblin_Camp.md "Goblin Camp") |  |
+| Common_Location_Remarks.md | 660 | One | 一 | - (Recognized the war drum): “A war drum. One of those can summon fighters far and wide.” |  |
+| Common_Location_Remarks.md | 670 | Poisoned | 中毒 | - (Poisoned the booze barrel in the outer camp): “This should burn going down.” |  |
+| Common_Location_Remarks.md | 672 | Volo | 瓦罗 | - (Heard Volo’s singing from afar) Sounds like they've captured themselves a bard… |  |
+| Common_Location_Remarks.md | 674 | Volo | 瓦罗 | - (If the party has spoken to Volo in the grove): “Is that Volo?” |  |
+| Common_Location_Remarks.md | 674 | Volo | 瓦罗 | - (If the party has spoken to Volo in the grove): “Is that Volo?” |  |
+| Common_Location_Remarks.md | 690 | Githyanki | 吉斯洋基人 | - (Responding remark, a Githyanki avatar): “Your world has strange customs…” |  |
+| Common_Location_Remarks.md | 698 | Minthara | 明萨拉 | - (Talked to either Ragzlin or Minthara, and they mentioned “the weapon”): “They're seeking a weapon. I wonder if they mean that odd artefact...” |  |
+| Common_Location_Remarks.md | 698 | Ragzlin | 拉格兹林 | - (Talked to either Ragzlin or Minthara, and they mentioned “the weapon”): “They're seeking a weapon. I wonder if they mean that odd artefact...” |  |
+| Common_Location_Remarks.md | 702 | Halsin | 哈尔辛 | - (Walking through the outer part of goblin camp): “The druid Halsin is in here somewhere.” |  |
+| Common_Location_Remarks.md | 712 | Minthara | 明萨拉 | - (Killed Minthara): “Dead. Seems these True Souls have their limits.” |  |
+| Common_Location_Remarks.md | 712 | Dead | 死亡 | - (Killed Minthara): “Dead. Seems these True Souls have their limits.” |  |
+| Common_Location_Remarks.md | 714 | Minthara | 明萨拉 | - (Killed Minthara, a Drow avatar): “Let her rot. The Absolute's allies deserve no better.” |  |
+| Common_Location_Remarks.md | 714 | Drow | 卓尔 | - (Killed Minthara, a Drow avatar): “Let her rot. The Absolute's allies deserve no better.” |  |
+| Common_Location_Remarks.md | 716 | Priestess Gut | 女祭司迦特 | - (Killed Priestess Gut): “The priestess is slain. And the horde is weaker for it.” |  |
+| Common_Location_Remarks.md | 724 | Ragzlin | 拉格兹林 | - (Found a blocked trapdoor in Ragzlin’s throne room): “Something's blocking it from the other side.” |  |
+| Common_Location_Remarks.md | 726 | Worg Pens | 座狼兽栏 | - (Halsin died in Worg Pens in bear form): “That was no ordinary bear... better investigate the corpse.” |  |
+| Common_Location_Remarks.md | 728 | check | 检定 | - (Halsin died, players spoke to him previously): “Halsin's dead. I need to check his corpse for anything important.” |  |
+| Common_Location_Remarks.md | 730 | Worg Pens | 座狼兽栏 | - (Halsin died in Worg Pens in bear form, a Druid avatar): “Wildshape... that was no ordinary bear - that was a druid. Need to see the corpse.” |  |
+| Common_Location_Remarks.md | 730 | Druid | 德鲁伊 | - (Halsin died in Worg Pens in bear form, a Druid avatar): “Wildshape... that was no ordinary bear - that was a druid. Need to see the corpse.” |  |
+| Common_Location_Remarks.md | 732 | Shadowheart | 影心 | - (Found dead SH, knows her): “Shadowheart... she's dead. What happened?” |  |
+| Common_Location_Remarks.md | 736 | Worg Pens | 座狼兽栏 | - (Halsin escaped Worg Pens on his own, the party hasn’t been to grove): “All slaughtered. Looks like their prisoner escaped.” |  |
+| Common_Location_Remarks.md | 738 | Worg Pens | 座狼兽栏 | - (Halsin escaped Worg Pens on his own, the party does not know about Halsin missing): “Someone escaped. One of the adventurers? Did they go back to the grove?” |  |
+| Common_Location_Remarks.md | 740 | Worg Pens | 座狼兽栏 | - (Halsin escaped Worg Pens on his own, the party knows Halsin was missing): “Claw marks and spells. Is this Halsin's doing? Did he return to the grove?” |  |
+| Common_Location_Remarks.md | 742 | Worg Pens | 座狼兽栏 | - (Halsin escaped Worg Pens on his own, the party met him afterwards): “This must've been where they imprisoned Halsin.” |  |
+| Common_Location_Remarks.md | 742 | Halsin | 哈尔辛 | - (Halsin escaped Worg Pens on his own, the party met him afterwards): “This must've been where they imprisoned Halsin.” |  |
+| Common_Location_Remarks.md | 742 | Halsin | 哈尔辛 | - (Halsin escaped Worg Pens on his own, the party met him afterwards): “This must've been where they imprisoned Halsin.” |  |
+| Common_Location_Remarks.md | 744 | Worg Pens | 座狼兽栏 | - (Halsin escaped Worg Pens on his own, the party know about the adventurers): “Someone escaped. One of the adventurers?” |  |
+| Common_Location_Remarks.md | 744 | Halsin | 哈尔辛 | - (Halsin escaped Worg Pens on his own, the party know about the adventurers): “Someone escaped. One of the adventurers?” |  |
+| Common_Location_Remarks.md | 768 | Investigation | 调查 | - _(Successful Investigation check):_ "Looks like all those moon plates can be turned." |  |
+| Common_Location_Remarks.md | 768 | check | 检定 | - _(Successful Investigation check):_ "Looks like all those moon plates can be turned." |  |
+| Common_Location_Remarks.md | 774 | Underdark | 幽暗地域 | [Underdark](Underdark.md "Underdark") |  |
+| Common_Location_Remarks.md | 776 | Selûnite Outpost | 塞伦涅信徒哨站 | [Selûnite Outpost](Sel%C3%BBnite_Outpost.md "Selûnite Outpost") |  |
+| Common_Location_Remarks.md | 782 | Timmask | 鬼头蘑菇 | - (Saw Timmask for the first time, NAT check successful) Timmasks - known to cause confusion. Best not get too close. |  |
+| Common_Location_Remarks.md | 782 | check | 检定 | - (Saw Timmask for the first time, NAT check successful) Timmasks - known to cause confusion. Best not get too close. |  |
+| Common_Location_Remarks.md | 786 | Underdark | 幽暗地域 | - (NAT failed, for Underdark race avatar) Mushrooms - poisonous, if memory serves. |  |
+| Common_Location_Remarks.md | 792 | Timmask | 鬼头蘑菇 | - (Recognized Timmasks only) Timmask! The spores confuse the senses. |  |
+| Common_Location_Remarks.md | 798 | Timmask | 鬼头蘑菇 | - (Recognized both kinds) Timmask and torchstalks. Hell of a combination. |  |
+| Common_Location_Remarks.md | 800 | Timmask | 鬼头蘑菇 | - (Recognized both kinds, as an Underdark race avatar) Timmask and torchstalks. Great. |  |
+| Common_Location_Remarks.md | 804 | Ebonlake | 黑檀湖 | - (Came to the shore of Ebonlake): What creatures live in waters this dark? |  |
+| Common_Location_Remarks.md | 808 | Underdark | 幽暗地域 | - (For an Underdark race avatar): The Ebonlake. I wouldn't go sticking your hand in. |  |
+| Common_Location_Remarks.md | 808 | Ebonlake | 黑檀湖 | - (For an Underdark race avatar): The Ebonlake. I wouldn't go sticking your hand in. |  |
+| Common_Location_Remarks.md | 810 | Lolth-Sworn Drow | 罗丝誓约卓尔 | - (Found Lolth-Sworn Drow stash, a Lolth-Drow avatar) Too much dust to be a new outpost. I wonder why my brethren abandoned this place. |  |
+| Common_Location_Remarks.md | 810 | Lolth | 罗丝 | - (Found Lolth-Sworn Drow stash, a Lolth-Drow avatar) Too much dust to be a new outpost. I wonder why my brethren abandoned this place. |  |
+| Common_Location_Remarks.md | 810 | Drow | 卓尔 | - (Found Lolth-Sworn Drow stash, a Lolth-Drow avatar) Too much dust to be a new outpost. I wonder why my brethren abandoned this place. |  |
+| Common_Location_Remarks.md | 812 | Lolth-Sworn Drow | 罗丝誓约卓尔 | - (Found Lolth-Sworn Drow stash, a Seldarine Drow avatar) Lolth's sigils on every box. If this place wasn't already abandoned, I'd set it ablaze. |  |
+| Common_Location_Remarks.md | 812 | Seldarine Drow | 席德瑞恩卓尔 | - (Found Lolth-Sworn Drow stash, a Seldarine Drow avatar) Lolth's sigils on every box. If this place wasn't already abandoned, I'd set it ablaze. |  |
+| Common_Location_Remarks.md | 812 | Lolth | 罗丝 | - (Found Lolth-Sworn Drow stash, a Seldarine Drow avatar) Lolth's sigils on every box. If this place wasn't already abandoned, I'd set it ablaze. |  |
+| Common_Location_Remarks.md | 818 | Cleric of Mystra | 密斯特拉的牧师 | - (Interact with lights without Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magical lights. But how to turn them on?” |  |
+| Common_Location_Remarks.md | 818 | High Half-Elf | 半高精灵 | - (Interact with lights without Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magical lights. But how to turn them on?” |  |
+| Common_Location_Remarks.md | 818 | High Elf | 高精灵 | - (Interact with lights without Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magical lights. But how to turn them on?” |  |
+| Common_Location_Remarks.md | 818 | Paladin | 圣武士 | - (Interact with lights without Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magical lights. But how to turn them on?” |  |
+| Common_Location_Remarks.md | 818 | Wizard | 法师 | - (Interact with lights without Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magical lights. But how to turn them on?” |  |
+| Common_Location_Remarks.md | 820 | Cleric of Mystra | 密斯特拉的牧师 | - (Activated Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magic-eating flowers as a light source. Ingenious.” |  |
+| Common_Location_Remarks.md | 820 | High Half-Elf | 半高精灵 | - (Activated Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magic-eating flowers as a light source. Ingenious.” |  |
+| Common_Location_Remarks.md | 820 | High Elf | 高精灵 | - (Activated Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magic-eating flowers as a light source. Ingenious.” |  |
+| Common_Location_Remarks.md | 820 | Paladin | 圣武士 | - (Activated Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magic-eating flowers as a light source. Ingenious.” |  |
+| Common_Location_Remarks.md | 820 | Wizard | 法师 | - (Activated Power Generator, a High Elf, a High Half-Elf, a Wizard, a Paladin or a Cleric of Mystra avatar): “Magic-eating flowers as a light source. Ingenious.” |  |
+| Common_Location_Remarks.md | 824 | Bernard | 伯纳德 | - (Put on the ring obtained from Bernard): “My ring lit up... Must have been linked to that button.” |  |
+| Common_Location_Remarks.md | 828 | Underdark | 幽暗地域 | - (Saw bulette’s holes, NAT successful): “Something's burrowed in there - something big.” (Underdark races succeed automatically here) |  |
+| Common_Location_Remarks.md | 832 | Bulette | 鲨蜥兽 | - _(Bulette burrowing beneath)_ : “Huh?” |  |
+| Common_Location_Remarks.md | 834 | check | 检定 | - _(Succeeded[Nature](Nature.md "Nature") check)_ "That wasn't a bulette... was it?" |  |
+| Common_Location_Remarks.md | 836 | Nature | 自然 | - _(Failed Nature check)_ "I don't want to know what that is." |  |
+| Common_Location_Remarks.md | 836 | check | 检定 | - _(Failed Nature check)_ "I don't want to know what that is." |  |
+| Common_Location_Remarks.md | 838 | Bulette | 鲨蜥兽 | - (Bulette reappeared after hiding underground): “It's back!” |  |
+| Common_Location_Remarks.md | 846 | Lolth-Sworn Drow | 罗丝誓约卓尔 | - (Found a Drow resupply stash, a Lolth-Sworn Drow avatar): “Too much dust to be a new outpost. I wonder why my brethren abandoned this place.” |  |
+| Common_Location_Remarks.md | 846 | Drow | 卓尔 | - (Found a Drow resupply stash, a Lolth-Sworn Drow avatar): “Too much dust to be a new outpost. I wonder why my brethren abandoned this place.” |  |
+| Common_Location_Remarks.md | 848 | Seldarine Drow | 席德瑞恩卓尔 | - (Found a Drow resupply stash, a Seldarine Drow avatar): “Lolth's sigils on every box. If this place wasn't already abandoned, I'd set it ablaze.” |  |
+| Common_Location_Remarks.md | 848 | Lolth | 罗丝 | - (Found a Drow resupply stash, a Seldarine Drow avatar): “Lolth's sigils on every box. If this place wasn't already abandoned, I'd set it ablaze.” |  |
+| Common_Location_Remarks.md | 848 | Drow | 卓尔 | - (Found a Drow resupply stash, a Seldarine Drow avatar): “Lolth's sigils on every box. If this place wasn't already abandoned, I'd set it ablaze.” |  |
+| Common_Location_Remarks.md | 850 | Chest of the Mundane | 平庸宝箱 | - (Felt Weave emanations from The Chest of the Mundane, ARC check): “” |  |
+| Common_Location_Remarks.md | 850 | check | 检定 | - (Felt Weave emanations from The Chest of the Mundane, ARC check): “” |  |
+| Common_Location_Remarks.md | 868 | Sorcerer | 术士 | - (Responding remark, hasn’t read the letter, a Wizard, a Warlock, a Sorcerer, a Cleric or a Bard avatar): “This must have belonged to Lenore's dog. Definitely magical, too.” |  |
+| Common_Location_Remarks.md | 868 | Warlock | 邪术师 | - (Responding remark, hasn’t read the letter, a Wizard, a Warlock, a Sorcerer, a Cleric or a Bard avatar): “This must have belonged to Lenore's dog. Definitely magical, too.” |  |
+| Common_Location_Remarks.md | 868 | Cleric | 牧师 | - (Responding remark, hasn’t read the letter, a Wizard, a Warlock, a Sorcerer, a Cleric or a Bard avatar): “This must have belonged to Lenore's dog. Definitely magical, too.” |  |
+| Common_Location_Remarks.md | 868 | Wizard | 法师 | - (Responding remark, hasn’t read the letter, a Wizard, a Warlock, a Sorcerer, a Cleric or a Bard avatar): “This must have belonged to Lenore's dog. Definitely magical, too.” |  |
+| Common_Location_Remarks.md | 868 | Bard | 吟游诗人 | - (Responding remark, hasn’t read the letter, a Wizard, a Warlock, a Sorcerer, a Cleric or a Bard avatar): “This must have belonged to Lenore's dog. Definitely magical, too.” |  |
+| Common_Location_Remarks.md | 880 | Halsin | 哈尔辛 | - (Found Dark Justiciars’ skeletons): “Either way, these corpses prove one thing: this is the city Halsin mentioned.” |  |
+| Common_Location_Remarks.md | 882 | Shar | 莎尔 | - (Found defaced statue of Shar, recognized the symbol of the Absolute): “Looks like someone's not a fan of Shar. Smeared the Absolute's symbol all over her.” |  |
+| Common_Location_Remarks.md | 882 | Shar | 莎尔 | - (Found defaced statue of Shar, recognized the symbol of the Absolute): “Looks like someone's not a fan of Shar. Smeared the Absolute's symbol all over her.” |  |
+| Common_Location_Remarks.md | 884 | Shar | 莎尔 | - (Did not recognize the symbol): “A statue of Shar - but it's been vandalised. What is that symbol?” |  |
+| Common_Location_Remarks.md | 886 | Scrying Eye | 探知之眼 | - (Met a Scrying Eye): “A scrying eye. Wonder who's looking through it.” |  |
+| Common_Location_Remarks.md | 888 | Goblin Camp | 地精营地 | - (Met a Scrying Eye, seen one in the Goblin Camp): “Another scrying eye, same as the goblins had. Someone's watching.” |  |
+| Common_Location_Remarks.md | 888 | Scrying Eye | 探知之眼 | - (Met a Scrying Eye, seen one in the Goblin Camp): “Another scrying eye, same as the goblins had. Someone's watching.” |  |
+| Common_Location_Remarks.md | 892 | Scrying Eye | 探知之眼 | - (Looted a dead Scrying Eye): “A scrying eye - or whatever's left of it.” |  |
+| Common_Location_Remarks.md | 898 | Drow | 卓尔 | - (Saw Drow corpses in cages near the pier): “Dead drow, publicly displayed. The duergar are sending a message.” |  |
+| Common_Location_Remarks.md | 898 | Dead | 死亡 | - (Saw Drow corpses in cages near the pier): “Dead drow, publicly displayed. The duergar are sending a message.” |  |
+| Common_Location_Remarks.md | 900 | check | 检定 | - (Looted a Harper pin from a Drow corpse, HIS check successful): “This is a Harper emblem. What was she doing here?” |  |
+| Common_Location_Remarks.md | 900 | Drow | 卓尔 | - (Looted a Harper pin from a Drow corpse, HIS check successful): “This is a Harper emblem. What was she doing here?” |  |
+| Common_Location_Remarks.md | 904 | Nere | 尼讷 | - (Nere died in the cave-in): “The slavers are gone - Nere must be dead by now. Just need to grab his head.” |  |
+| Common_Location_Remarks.md | 904 | Nere | 尼讷 | - (Nere died in the cave-in): “The slavers are gone - Nere must be dead by now. Just need to grab his head.” |  |
+| Common_Location_Remarks.md | 908 | Weapons | 武器 | - (Found rusty weapons for the first time, a gith avatar): “Weapons. And time has taken their edge, it seems.” |  |
+| Common_Location_Remarks.md | 910 | Shar | 莎尔 | - (Looking at the Shar temple down from the ruined bridge): “That's it, then. I can't jump any further.” |  |
+| Common_Location_Remarks.md | 912 | check | 检定 | - (Found dead drow at the foot of the crag, MED check): “Half this drow's body is crushed. Must have fallen from pretty high up.” |  |
+| Common_Location_Remarks.md | 914 | Dead | 死亡 | - (Failed): “Dead drow and some skeletons. I wonder what happened.” |  |
+| Common_Location_Remarks.md | 918 | Underdark | 幽暗地域 | - (Found illusory mushroom “ladder” leading toward crag top, an Underdark race avatar): “Mirror mushrooms. Step on the wrong one - and plummet to your death.” |  |
+| Common_Location_Remarks.md | 918 | Mirror | 镜子 | - (Found illusory mushroom “ladder” leading toward crag top, an Underdark race avatar): “Mirror mushrooms. Step on the wrong one - and plummet to your death.” |  |
+| Common_Location_Remarks.md | 926 | Nature | 自然 | - (Not knowing the purpose): “A perfect ring of mushrooms. Nature or magic?” |  |
+| Common_Location_Remarks.md | 934 | Underdark | 幽暗地域 | - (Not knowing the purpose, an Underdark avatar): “Hm. Perhaps something's missing?” |  |
+| Common_Location_Remarks.md | 942 | Putrid Bog | 腐烂泥潭 | - (Teleported from the Putrid Bog into Overgrown tunnel, Ethel is dead): “Looks like the hag made a shortcut. Clever.” |  |
+| Common_Location_Remarks.md | 944 | Putrid Bog | 腐烂泥潭 | - (Teleported from the Putrid Bog into Overgrown tunnel, Ethel survived): “The hag's lair? I think I preferred the swamp.” |  |
+| Common_Location_Remarks.md | 964 | Putrid Bog | 腐烂泥潭 | - (Teleported from the Underdark to the Putrid Bog, an Underdark avatar): “Blasted sunlight. Why did the mushrooms lead us here?” |  |
+| Common_Location_Remarks.md | 966 | Putrid Bog | 腐烂泥潭 | - (Teleported from the Underdark to the Putrid Bog, a gith avatar): “Strange. Why make a path from the Underdark to here?” |  |
+| Common_Location_Remarks.md | 966 | Underdark | 幽暗地域 | - (Teleported from the Underdark to the Putrid Bog, a gith avatar): “Strange. Why make a path from the Underdark to here?” |  |
+| Common_Location_Remarks.md | 966 | Underdark | 幽暗地域 | - (Teleported from the Underdark to the Putrid Bog, a gith avatar): “Strange. Why make a path from the Underdark to here?” |  |
+| Common_Location_Remarks.md | 968 | Sunlit Wetlands | 日照湿地 | - (Teleported from the Underdark to the Sunlit Wetlands (Ethel’s illusion is still intact)): “From the dark to the... damp. An improvement, either way.” |  |
+| Common_Location_Remarks.md | 968 | Underdark | 幽暗地域 | - (Teleported from the Underdark to the Sunlit Wetlands (Ethel’s illusion is still intact)): “From the dark to the... damp. An improvement, either way.” |  |
+| Common_Location_Remarks.md | 976 | Flumph Mating Rituals | 《呋噜交配仪式》 | - (Looted disguised book from Xargrim’s corpse, ARC successful, a Bard avatar): “Shame it's only pretending to be 'Flumph Mating Rituals'. That sounds fascinating.” |  |
+| Common_Location_Remarks.md | 978 | Flumph Mating Rituals | 《呋噜交配仪式》 | - (Failed): “'Flumph Mating Rituals'. An odd book for a drow to carry.” |  |
+| Common_Location_Remarks.md | 980 | Flumph Mating Rituals | 《呋噜交配仪式》 | - (Failed, a gith avatar): “'Flumph Mating Rituals'? The people of this plane never fail to amuse me.” |  |
+| Common_Location_Remarks.md | 982 | Flumph Mating Rituals | 《呋噜交配仪式》 | - (Failed, a Bard avatar): “'Flumph Mating Rituals'? That field research must've been... interesting. ” |  |
+| Common_Location_Remarks.md | 986 | Flumph Mating Rituals | 《呋噜交配仪式》 | - (If already interrogated the dead drow, a Bard avatar): “The drow was right, it's not 'Flumph Mating Rituals'. Reminds me of 'Fables of Forges Grym.'” |  |
+| Common_Location_Remarks.md | 986 | Bard | 吟游诗人 | - (If already interrogated the dead drow, a Bard avatar): “The drow was right, it's not 'Flumph Mating Rituals'. Reminds me of 'Fables of Forges Grym.'” |  |
+| Common_Location_Remarks.md | 986 | Grym | 复仇侍卫 | - (If already interrogated the dead drow, a Bard avatar): “The drow was right, it's not 'Flumph Mating Rituals'. Reminds me of 'Fables of Forges Grym.'” |  |
+| Common_Location_Remarks.md | 1010 | Dhourn | 道恩 | - (The party knows about it from Dhourn’s memory shard): “The Adamantine Forge - the memory shard already revealed its location.” |  |
+| Common_Location_Remarks.md | 1012 | Dhourn | 道恩 | - (The party knows about it from Dhourn/Dhourn’s corpse): “The Adamantine Forge - the wizard Dhourn was set on finding it.” |  |
+| Common_Location_Remarks.md | 1012 | Dhourn | 道恩 | - (The party knows about it from Dhourn/Dhourn’s corpse): “The Adamantine Forge - the wizard Dhourn was set on finding it.” |  |
+| Common_Location_Remarks.md | 1012 | Dhourn | 道恩 | - (The party knows about it from Dhourn/Dhourn’s corpse): “The Adamantine Forge - the wizard Dhourn was set on finding it.” |  |
+| Common_Location_Remarks.md | 1016 | Adamantine Forge | 精金熔炉 | - (The party knows about it from Xargrim’s disguised book): “That disguised journal spoke of this Adamantine Forge as well. Interesting.” |  |
+| Common_Location_Remarks.md | 1018 | Adamantine Forge | 精金熔炉 | - (Third mention of the forge): “Another mention of the Adamantine Forge. All that remains is to reach it.” |  |
+| Common_Location_Remarks.md | 1022 | Light | 轻型 | - (Responding remark, HIS successful): “Give a Light spell a try. That should get us into that chest.” |  |
+| Common_Location_Remarks.md | 1026 | Dark Justiciar | 暗夜法官 | - (Approaching the location of the Harpers’ stash): “Looks like the place the Dark Justiciar's letter mentioned. But where's the stash?” |  |
+| Common_Location_Remarks.md | 1028 | check | 检定 | - (Saw the Harpers’ rune, hasn’t read the DJ’s letter, SUR check successful): “This is a Harper rune. There must be a stockpile nearby.” |  |
+| Common_Location_Remarks.md | 1036 | Philomeen | 菲尔罗敏 | - (Found a place where Philomeen climbed up the ledge, knows about her escape): “Tools and a climbing rope. This must have been that gnome's escape route.” |  |
+| Common_Location_Remarks.md | 1040 | check | 检定 | - (Found a loose stone through PER check): “Curious - that stone there's been pried loose.” |  |
+| Common_Location_Remarks.md | 1042 | check | 检定 | - _(Finding Horror Hook markings[Survival](Survival.md "Survival") check):_ |  |
+| Common_Location_Remarks.md | 1042 | Hook | 钩子 | - _(Finding Horror Hook markings[Survival](Survival.md "Survival") check):_ |  |
+| Common_Location_Remarks.md | 1048 | Idol of Shar | 莎尔神像 | - (Found the Idol of Shar, the party knows SH is a Sharran): “An Idol of Shar? Shadowheart might want to see this.” |  |
+| Common_Location_Remarks.md | 1048 | Idol of Shar | 莎尔神像 | - (Found the Idol of Shar, the party knows SH is a Sharran): “An Idol of Shar? Shadowheart might want to see this.” |  |
+| Common_Location_Remarks.md | 1048 | Shadowheart | 影心 | - (Found the Idol of Shar, the party knows SH is a Sharran): “An Idol of Shar? Shadowheart might want to see this.” |  |
+| Common_Location_Remarks.md | 1054 | check | 检定 | - (Saw crates with old Sharran gear, REL check successful): “Someone forgot to oil their equipment. Everything here is rusted to the Hells and back.” |  |
+| Common_Location_Remarks.md | 1058 | BOOOAL | 波尔 | - (Killed all Kuo-toa in Festering cove, BOOOAL’s magic dissipated): “Not much of a god after all. Whatever power he had, it died with those creatures.” |  |
+| Common_Location_Remarks.md | 1060 | Decrepit Village | 破败村落 | - (Approached abandoned camp in the Decrepit Village): “A camp. Looks abandoned.” |  |
+| Common_Location_Remarks.md | 1062 | Merregon | 军团魔 | - (Found a Merregon’s mask): “Curious mask. What's it doing here?” |  |
+| Common_Location_Remarks.md | 1064 | Merregon | 军团魔 | - (Found a Merregon’s mask, a Bard avatar): “Belongs to a Merregon, if I recall correctly. Hell's footsoldiers - I don't fancy meeting the commander.” |  |
+| Common_Location_Remarks.md | 1064 | Merregon | 军团魔 | - (Found a Merregon’s mask, a Bard avatar): “Belongs to a Merregon, if I recall correctly. Hell's footsoldiers - I don't fancy meeting the commander.” |  |
+| Common_Location_Remarks.md | 1064 | Bard | 吟游诗人 | - (Found a Merregon’s mask, a Bard avatar): “Belongs to a Merregon, if I recall correctly. Hell's footsoldiers - I don't fancy meeting the commander.” |  |
+| Common_Location_Remarks.md | 1066 | check | 检定 | - (ARC check successful): “This belonged to a merregon - one of Hell's footsoldiers.” |  |
+| Common_Location_Remarks.md | 1070 | Underdark | 幽暗地域 | - (Failed, an Underdark avatar): “I don't know the alloy. Perhaps it came from the surface.” |  |
+| Common_Location_Remarks.md | 1072 | check | 检定 | - (ARC check successful, knows about merregons’ habits): “I recognise this. A merregon wore it. But they won't fight without a commander...” |  |
+| Common_Location_Remarks.md | 1076 | Merregon | 军团魔 | - (Tried to put on a Merregon mask): “Heavier than it looks. Wouldn't be very comfortable.” |  |
+| Common_Location_Remarks.md | 1082 | Lava Elemental | 岩浆元素 | - (Approaching lava lake with the Lava Elemental, NAT check successful): “Lava's not supposed to explode, I don't think. Something's igniting it.” |  |
+| Common_Location_Remarks.md | 1082 | check | 检定 | - (Approaching lava lake with the Lava Elemental, NAT check successful): “Lava's not supposed to explode, I don't think. Something's igniting it.” |  |
+| Common_Location_Remarks.md | 1086 | Lava Elemental | 岩浆元素 | - (Saw Lava Elemental, ARC check successful): “By the hells, a lava elemental. No wonder the lake's so volatile.” |  |
+| Common_Location_Remarks.md | 1086 | check | 检定 | - (Saw Lava Elemental, ARC check successful): “By the hells, a lava elemental. No wonder the lake's so volatile.” |  |
+| Common_Location_Remarks.md | 1090 | Baelen | 巴伦 | - (Heard Baelen’s cries for help): “Sounds like someone's in trouble.” |  |
+| Common_Location_Remarks.md | 1092 | Underdark | 幽暗地域 | - (Heard Baelen’s cries for help, an Underdark avatar): “Ah, cries for help... I must be home.” |  |
+| Common_Location_Remarks.md | 1092 | Baelen | 巴伦 | - (Heard Baelen’s cries for help, an Underdark avatar): “Ah, cries for help... I must be home.” |  |
+| Common_Location_Remarks.md | 1094 | Baelen | 巴伦 | - (Heard Baelen’s cries for help, an Evil Cleric avatar): “Sounds like someone's in trouble.” |  |
+| Common_Location_Remarks.md | 1096 | Baelen | 巴伦 | - (Heard Baelen’s cries for help, a Rogue avatar): “Someone's in trouble... sounds like coin to me.” |  |
+| Common_Location_Remarks.md | 1096 | Rogue | 游荡者 | - (Heard Baelen’s cries for help, a Rogue avatar): “Someone's in trouble... sounds like coin to me.” |  |
+| Common_Location_Remarks.md | 1098 | Paladin | 圣武士 | - (Heard Baelen’s cries for help, a Good Cleric or a Paladin avatar): “Someone's in trouble. We have to help!” |  |
+| Common_Location_Remarks.md | 1098 | Cleric | 牧师 | - (Heard Baelen’s cries for help, a Good Cleric or a Paladin avatar): “Someone's in trouble. We have to help!” |  |
+| Common_Location_Remarks.md | 1098 | Baelen | 巴伦 | - (Heard Baelen’s cries for help, a Good Cleric or a Paladin avatar): “Someone's in trouble. We have to help!” |  |
+| Common_Location_Remarks.md | 1106 | Orb of Darkvision | 黑暗视觉之球 | - (Interacted with the Orb of Darkvision): “Something's off. Pure shadow - around me, inside me.” |  |
+| Common_Location_Remarks.md | 1108 | Merregon | 军团魔 | - (Read DJ journal (after finding at least one Merregon mask)): “He hid from the Hells' forces - but they still got to him.” |  |
+| Common_Location_Remarks.md | 1112 | Spectator | 观察者眼魔 | - (Killed the Spectator, ARC successful): “Drow. And worse... What were they doing here?” |  |
+| Common_Location_Remarks.md | 1112 | Drow | 卓尔 | - (Killed the Spectator, ARC successful): “Drow. And worse... What were they doing here?” |  |
+| Common_Location_Remarks.md | 1114 | Spectator | 观察者眼魔 | - (Killed the Spectator, ARC successful, a Wizard avatar): “Drow. And worse... What were they doing here?” |  |
+| Common_Location_Remarks.md | 1114 | Wizard | 法师 | - (Killed the Spectator, ARC successful, a Wizard avatar): “Drow. And worse... What were they doing here?” |  |
+| Common_Location_Remarks.md | 1114 | Drow | 卓尔 | - (Killed the Spectator, ARC successful, a Wizard avatar): “Drow. And worse... What were they doing here?” |  |
+| Common_Location_Remarks.md | 1116 | One | 一 | - (Failed): “One wrong move and I'd have been a statue, imprisoned for eternity...” |  |
+| Common_Location_Remarks.md | 1126 | check | 检定 | - (Found a crossbow in an old crate, HIS check successful): “I know this design - Shar's faithful wield crossbows like these.” |  |
+| Common_Location_Remarks.md | 1126 | Shar | 莎尔 | - (Found a crossbow in an old crate, HIS check successful): “I know this design - Shar's faithful wield crossbows like these.” |  |
+| Common_Location_Remarks.md | 1130 | Duergar | 灰矮人 | - (Failed, a Duergar avatar): “Splendid crossbow, quite refined. No duergar clan made this.” |  |
+| Common_Location_Remarks.md | 1132 | Stool of Hill Giant Strength | 山丘巨人怪力板凳 | - (In the Arcane Tower, sitting on the Stool of Hill Giant Strength) "What's this... feeling of power?" |  |
+| Common_Location_Remarks.md | 1132 | Arcane Tower | 奥法高塔 | - (In the Arcane Tower, sitting on the Stool of Hill Giant Strength) "What's this... feeling of power?" |  |
+| Common_Location_Remarks.md | 1140 | Cleric of Mystra | 密斯特拉的牧师 | - _(Feeling Sussur Antimagic field, a Cleric of Mystra avatar)_ "These flowers - they're creating anti-magic fields!" |  |
+| Common_Location_Remarks.md | 1142 | Sorcerer | 术士 | - _(Feeling Sussur Antimagic field, a Wizard, a Warlock, a Druid, a Sorcerer, a Paladin, a Cleric or a Bard avatar)_ "It feels like... my magic is getting drained!" |  |
+| Common_Location_Remarks.md | 1142 | Paladin | 圣武士 | - _(Feeling Sussur Antimagic field, a Wizard, a Warlock, a Druid, a Sorcerer, a Paladin, a Cleric or a Bard avatar)_ "It feels like... my magic is getting drained!" |  |
+| Common_Location_Remarks.md | 1142 | Warlock | 邪术师 | - _(Feeling Sussur Antimagic field, a Wizard, a Warlock, a Druid, a Sorcerer, a Paladin, a Cleric or a Bard avatar)_ "It feels like... my magic is getting drained!" |  |
+| Common_Location_Remarks.md | 1142 | Cleric | 牧师 | - _(Feeling Sussur Antimagic field, a Wizard, a Warlock, a Druid, a Sorcerer, a Paladin, a Cleric or a Bard avatar)_ "It feels like... my magic is getting drained!" |  |
+| Common_Location_Remarks.md | 1142 | Wizard | 法师 | - _(Feeling Sussur Antimagic field, a Wizard, a Warlock, a Druid, a Sorcerer, a Paladin, a Cleric or a Bard avatar)_ "It feels like... my magic is getting drained!" |  |
+| Common_Location_Remarks.md | 1142 | Druid | 德鲁伊 | - _(Feeling Sussur Antimagic field, a Wizard, a Warlock, a Druid, a Sorcerer, a Paladin, a Cleric or a Bard avatar)_ "It feels like... my magic is getting drained!" |  |
+| Common_Location_Remarks.md | 1142 | Bard | 吟游诗人 | - _(Feeling Sussur Antimagic field, a Wizard, a Warlock, a Druid, a Sorcerer, a Paladin, a Cleric or a Bard avatar)_ "It feels like... my magic is getting drained!" |  |
+| Common_Location_Remarks.md | 1144 | Underdark | 幽暗地域 | - _(Feeling Sussur Antimagic field, an Underdark avatar)_ "This sensation - these flowers are absorbing all the magic in the air." |  |
+| Common_Location_Remarks.md | 1146 | Thulla | 图拉 | - (Found the traces of Thulla’s escape, PER check successful): “I see tracks there - or footprints. That's worth a look” |  |
+| Common_Location_Remarks.md | 1146 | check | 检定 | - (Found the traces of Thulla’s escape, PER check successful): “I see tracks there - or footprints. That's worth a look” |  |
+| Common_Location_Remarks.md | 1150 | check | 检定 | - (Interacting with chains or bloodied arrows, SUR check successful): “Bloodied tracks - quite small, too. A gnome found some trouble here.” |  |
+| Common_Location_Remarks.md | 1158 | Oathbreaker | 弃誓者 | - _(Entering Zhentarim storehouse from the Underdark, a Paladin or a Paladin Oathbreaker avatar)_ "Zhentarim thugs passed through here. Oathless curs, the lot of them." |  |
+| Common_Location_Remarks.md | 1158 | Paladin | 圣武士 | - _(Entering Zhentarim storehouse from the Underdark, a Paladin or a Paladin Oathbreaker avatar)_ "Zhentarim thugs passed through here. Oathless curs, the lot of them." |  |
+| Common_Location_Remarks.md | 1158 | Paladin | 圣武士 | - _(Entering Zhentarim storehouse from the Underdark, a Paladin or a Paladin Oathbreaker avatar)_ "Zhentarim thugs passed through here. Oathless curs, the lot of them." |  |
+| Common_Location_Remarks.md | 1160 | Zhentarim Hideout | 散塔林会窝点 | - _(Entering Zhentarim storehouse, descending from Zhentarim Hideout)_ "Long ride down. Is this... the Underdark? A dangerous place to stock goods, even for a Zhent." |  |
+| Common_Location_Remarks.md | 1160 | Underdark | 幽暗地域 | - _(Entering Zhentarim storehouse, descending from Zhentarim Hideout)_ "Long ride down. Is this... the Underdark? A dangerous place to stock goods, even for a Zhent." |  |
+| Common_Location_Remarks.md | 1162 | Zhentarim Hideout | 散塔林会窝点 | - _(Entering Zhentarim storehouse, descending from Zhentarim Hideout, an Underdark avatar)_ "The Underdark - a foolish place to hide contraband, even for a Zhent." |  |
+| Common_Location_Remarks.md | 1162 | Zhentarim | 散塔林会 | - _(Entering Zhentarim storehouse, descending from Zhentarim Hideout, an Underdark avatar)_ "The Underdark - a foolish place to hide contraband, even for a Zhent." |  |
+| Common_Location_Remarks.md | 1162 | Underdark | 幽暗地域 | - _(Entering Zhentarim storehouse, descending from Zhentarim Hideout, an Underdark avatar)_ "The Underdark - a foolish place to hide contraband, even for a Zhent." |  |
+| Common_Location_Remarks.md | 1162 | Underdark | 幽暗地域 | - _(Entering Zhentarim storehouse, descending from Zhentarim Hideout, an Underdark avatar)_ "The Underdark - a foolish place to hide contraband, even for a Zhent." |  |
+| Common_Location_Remarks.md | 1172 | Hope | 希望 | - (Coming closer to the Adamantine forge): “Hope the forge is close by - I'm sweating from the heat.” |  |
+| Common_Location_Remarks.md | 1174 | Grymforge | 复仇之炉 | - (Arriving at the Grymforge): “What's a fort like this doing in the Underdark?” |  |
+| Common_Location_Remarks.md | 1174 | Underdark | 幽暗地域 | - (Arriving at the Grymforge): “What's a fort like this doing in the Underdark?” |  |
+| Common_Location_Remarks.md | 1176 | Grymforge | 复仇之炉 | - (Arriving at the Grymforge, an Underdark avatar): “Hmmm... deep gnome make, but the design is anything but. What was this fort?” |  |
+| Common_Location_Remarks.md | 1176 | Underdark | 幽暗地域 | - (Arriving at the Grymforge, an Underdark avatar): “Hmmm... deep gnome make, but the design is anything but. What was this fort?” |  |
+| Common_Location_Remarks.md | 1180 | Hook | 钩子 | - (Saw a Hook horror eating a gnome): “By the hells, what is that?” |  |
+| Common_Location_Remarks.md | 1182 | Drow | 卓尔 | - (Saw a Hook horror eating a gnome, a Drow avatar): “Straj. Hook horrors.” |  |
+| Common_Location_Remarks.md | 1182 | Hook | 钩子 | - (Saw a Hook horror eating a gnome, a Drow avatar): “Straj. Hook horrors.” |  |
+| Common_Location_Remarks.md | 1182 | Hook | 钩子 | - (Saw a Hook horror eating a gnome, a Drow avatar): “Straj. Hook horrors.” |  |
+| Common_Location_Remarks.md | 1184 | Duergar | 灰矮人 | - (Saw a Hook horror eating a gnome, a Duergar avatar): “Gh'rack. Hook horrors.” |  |
+| Common_Location_Remarks.md | 1184 | Hook | 钩子 | - (Saw a Hook horror eating a gnome, a Duergar avatar): “Gh'rack. Hook horrors.” |  |
+| Common_Location_Remarks.md | 1184 | Hook | 钩子 | - (Saw a Hook horror eating a gnome, a Duergar avatar): “Gh'rack. Hook horrors.” |  |
+| Common_Location_Remarks.md | 1186 | Deep Gnome | 地底侏儒 | - (Saw a Hook horror eating a gnome, a Deep Gnome avatar): “Magga cammara. That's a hook horror.” |  |
+| Common_Location_Remarks.md | 1186 | Hook | 钩子 | - (Saw a Hook horror eating a gnome, a Deep Gnome avatar): “Magga cammara. That's a hook horror.” |  |
+| Common_Location_Remarks.md | 1188 | Hook | 钩子 | - (Hook horror is calling for reinforcement): “Hells. We're attracting too much attention!” |  |
+| Common_Location_Remarks.md | 1190 | Hook | 钩子 | - (Hook horror is calling for reinforcement, an Underdark avatar): “It's calling its pack!” |  |
+| Common_Location_Remarks.md | 1196 | Wizard | 法师 | - (Responding remark, a Wizard or an Underdark avatar): “It's planting animating spores. It means to raise the dead.” |  |
+| Common_Location_Remarks.md | 1198 | Wizard | 法师 | - (Responding remark, a Wizard or an Underdark avatar 2): “Indeed. These creatures are mightier than they look.” |  |
+| Common_Location_Remarks.md | 1208 | Paladin | 圣武士 | - _(Successul[Nature](Nature.md "Nature") check, a Paladin avatar):_ “Fungal spores... Remain vigilant. We cannot be distracted.” |  |
+| Common_Location_Remarks.md | 1210 | Paladin | 圣武士 | - _(Successul[Nature](Nature.md "Nature") check, a Paladin of the Ancients avatar):_ “Fungal spores... careful. Myconids are rightfully protective.” |  |
+| Common_Location_Remarks.md | 1210 | check | 检定 | - _(Successul[Nature](Nature.md "Nature") check, a Paladin of the Ancients avatar):_ “Fungal spores... careful. Myconids are rightfully protective.” |  |
+| Common_Location_Remarks.md | 1212 | Nature | 自然 | - _(Failed Nature check)_ "What the... this stuff is everywhere." |  |
+| Common_Location_Remarks.md | 1212 | check | 检定 | - _(Failed Nature check)_ "What the... this stuff is everywhere." |  |
+| Common_Location_Remarks.md | 1216 | Giant | 巨人 | - (Failed): “Giant mushrooms? I've never seen anything like them.” |  |
+| Common_Location_Remarks.md | 1218 | Wizard | 法师 | - (Responding remark, a Wizard or Underdark avatar): “Myconids. That explains the voices.” |  |
+| Common_Location_Remarks.md | 1222 | Cleric of Mystra | 密斯特拉的牧师 | - _(Approaching Sussur Tree, a Cleric of Mystra avatar)_ "Something here is disturbing the Weave. Magic might be unreliable." |  |
+| Common_Location_Remarks.md | 1224 | Spells | 法术 | - _(Approaching Sussur Tree, an Underdark avatar)_ "A sussur tree. Spells will be unreliable." |  |
+| Common_Location_Remarks.md | 1228 | Cleric of Mystra | 密斯特拉的牧师 | - (Responding remark, a Cleric of Mystra avatar): “Don't worry - I've got your back.” |  |
+| Common_Location_Remarks.md | 1232 | Underdark | 幽暗地域 | - (Looking at the Sussur Tree, an Underdark avatar): “Sussur bark. A rare commodity.” |  |
+| Common_Location_Remarks.md | 1240 | Grymforge | 复仇之炉 | #### [Grymforge](Grymforge.md "Grymforge") | - （只填了坩埚，没有任何模具）：”秘银加了。但还缺什么...” |
+| Common_Location_Remarks.md | 1252 | Mould | 模具 | - (Trying to forge without lava): “Mould and metal... but something's still missing.” |  |
+| Common_Location_Remarks.md | 1254 | Grym | 复仇侍卫 | - (Forged the first item, Grym appears): “Hells. I think I woke something up.” |  |
+| Common_Location_Remarks.md | 1255 | Grym | 复仇侍卫 | - (Fighting Grym, the forge hammer doesn’t damage it): “Hells - not a lick of damage! What am I missing?” | - _（通往道路的断桥下的骷髅夫妇）_ “这些骨头很古老。我想知道他们是谁。” |
+| Common_Location_Remarks.md | 1256 | Grym | 复仇侍卫 | - (Successfully damaged Grym with the hammer): “Damn - by the Nine Hells, it worked!” |  |
+| Common_Location_Remarks.md | 1258 | Grym | 复仇侍卫 | - (Defeated Grym): “Victory is mine. The guardian's fallen!” |  |
+| Common_Location_Remarks.md | 1260 | Mountain | 山岳 | Risen Road and Mountain pass |  |
+| Common_Location_Remarks.md | 1264 | check | 检定 | - _(Successful[History](History.md "History") check)_ "There are Harper and druid symbols on their equipment - an interesting pair." |  |
+| Common_Location_Remarks.md | 1274 | Mountain Pass | 山隘 | - _(Found giant scratches near Mountain Pass entrance)_ “Scratches that size... something powerful made these.” |  |
+| Common_Location_Remarks.md | 1276 | check | 检定 | - _(Successful[Arcana](Arcana.md "Arcana") check)_ “I think they're dragon marks. Better keep an eye out.” |  |
+| Common_Location_Remarks.md | 1300 | attack | 攻击 | - _(Found a roadsign after dragon’s attack)_ “Looks like that dragon destroyed the road.” |  |
+| Common_Location_Remarks.md | 1304 | Zhentarim Hideout | 散塔林会窝点 | - (Found a secret entrance to the Zhentarim Hideout, a gith avatar) “Chk. A cheap trick.” |  |
+| Common_Location_Remarks.md | 1306 | Investigation | 调查 | - _(Illusory wall in the[Zhentarim Hideout](Zhentarim_Hideout.md "Zhentarim Hideout"), successful [Investigation](Investigation.md "Investigation") check)_ “That wall's an illusion! Hiding what, I won |  |
+| Common_Location_Remarks.md | 1306 | Hideout | 藏身点 | - _(Illusory wall in the[Zhentarim Hideout](Zhentarim_Hideout.md "Zhentarim Hideout"), successful [Investigation](Investigation.md "Investigation") check)_ “That wall's an illusion! Hiding what, I won |  |
+| Common_Location_Remarks.md | 1306 | Hiding | 隐藏 | - _(Illusory wall in the[Zhentarim Hideout](Zhentarim_Hideout.md "Zhentarim Hideout"), successful [Investigation](Investigation.md "Investigation") check)_ “That wall's an illusion! Hiding what, I won |  |
+| Common_Location_Remarks.md | 1306 | check | 检定 | - _(Illusory wall in the[Zhentarim Hideout](Zhentarim_Hideout.md "Zhentarim Hideout"), successful [Investigation](Investigation.md "Investigation") check)_ “That wall's an illusion! Hiding what, I won |  |
+| Common_Location_Remarks.md | 1316 | Frightened | 恐慌 | - (Saw a red dragon, Frightened) “A dragon. Gods preserve me.” |  |
+| Common_Location_Remarks.md | 1318 | Frightened | 恐慌 | - (Responding remark, Frightened 1) “That thing could swallow each of us whole.” |  |
+| Common_Location_Remarks.md | 1320 | Frightened | 恐慌 | - (Responding remark, Frightened 2) “It's huge.” |  |
+| Common_Location_Remarks.md | 1322 | Frightened | 恐慌 | - (Responding remark, Frightened 3) “Hope it doesn't see us.” |  |
+| Common_Location_Remarks.md | 1322 | Hope | 希望 | - (Responding remark, Frightened 3) “Hope it doesn't see us.” |  |
+| Common_Location_Remarks.md | 1324 | Frightened | 恐慌 | - (Saw a red dragon, Frightened) “A dragon-rider. My kin are hunting - blood will be spilled.” |  |
+| Common_Location_Remarks.md | 1326 | Frightened | 恐慌 | - (Responding remark, a gith avatar, Frightened 1) “Such fury. I do not envy the dragon's prey.” |  |
+| Common_Location_Remarks.md | 1328 | Frightened | 恐慌 | - (Responding remark, a gith avatar, Frightened 2) “Beautiful. And terrifying.” |  |
+| Common_Location_Remarks.md | 1330 | Frightened | 恐慌 | - (Responding remark, a gith avatar, Frightened 3) “Only a fool would resist such power.” |  |
+| Common_Location_Remarks.md | 1332 | Flaming Fist | 焰拳 | - (After the Flaming Fist guard refused to attack the Zhentarim, a Baldurian avatar): “Flaming Fist letting Zhent run free? The situation must be grim.‘ |  |
+| Common_Location_Remarks.md | 1332 | Flaming Fist | 焰拳 | - (After the Flaming Fist guard refused to attack the Zhentarim, a Baldurian avatar): “Flaming Fist letting Zhent run free? The situation must be grim.‘ |  |
+| Common_Location_Remarks.md | 1332 | Zhentarim | 散塔林会 | - (After the Flaming Fist guard refused to attack the Zhentarim, a Baldurian avatar): “Flaming Fist letting Zhent run free? The situation must be grim.‘ |  |
+| Common_Location_Remarks.md | 1332 | Baldurian | 博德人 | - (After the Flaming Fist guard refused to attack the Zhentarim, a Baldurian avatar): “Flaming Fist letting Zhent run free? The situation must be grim.‘ |  |
+| Common_Location_Remarks.md | 1332 | attack | 攻击 | - (After the Flaming Fist guard refused to attack the Zhentarim, a Baldurian avatar): “Flaming Fist letting Zhent run free? The situation must be grim.‘ |  |
+| Common_Location_Remarks.md | 1334 | Flaming Fist | 焰拳 | - (After the Flaming Fist guard refused to attack the Zhentarim): “They do seem a bit short-handed.‘ |  |
+| Common_Location_Remarks.md | 1334 | Zhentarim | 散塔林会 | - (After the Flaming Fist guard refused to attack the Zhentarim): “They do seem a bit short-handed.‘ |  |
+| Common_Location_Remarks.md | 1334 | attack | 攻击 | - (After the Flaming Fist guard refused to attack the Zhentarim): “They do seem a bit short-handed.‘ |  |
+| Common_Location_Remarks.md | 1340 | Marked | 被标记 | - (Saw the symbol that Flind drawed on the rock, recognized it) That's the symbol of the Absolute. Marked in blood. |  |
+| Common_Location_Remarks.md | 1340 | Flind | 弗林德 | - (Saw the symbol that Flind drawed on the rock, recognized it) That's the symbol of the Absolute. Marked in blood. |  |
+| Common_Location_Remarks.md | 1356 | History | 历史的 | - _(Succeeded the History check)_ "There are Harper and druid symbols on their equipment - an interesting pair." |  |
+| Common_Location_Remarks.md | 1356 | check | 检定 | - _(Succeeded the History check)_ "There are Harper and druid symbols on their equipment - an interesting pair." |  |
+| Common_Location_Remarks.md | 1362 | Rugan | 鲁根 | - (Found the missing shipment, Rugan dead, has the quest from Zarys): “Zarys promised good coin for an unopened chest. If we want to collect, it needs to stay shut.” |  |
+| Common_Location_Remarks.md | 1362 | Zarys | 扎瑞斯 | - (Found the missing shipment, Rugan dead, has the quest from Zarys): “Zarys promised good coin for an unopened chest. If we want to collect, it needs to stay shut.” |  |
+| Common_Location_Remarks.md | 1362 | Zarys | 扎瑞斯 | - (Found the missing shipment, Rugan dead, has the quest from Zarys): “Zarys promised good coin for an unopened chest. If we want to collect, it needs to stay shut.” |  |
+| Common_Location_Remarks.md | 1366 | Zhentarim | 散塔林会 | - (Found the missing shipment, dealt with Rugan, has the quest from Zarys): “The chest's clearly worth a lot to the Zhentarim, if it's returned unopened.” |  |
+| Common_Location_Remarks.md | 1366 | Rugan | 鲁根 | - (Found the missing shipment, dealt with Rugan, has the quest from Zarys): “The chest's clearly worth a lot to the Zhentarim, if it's returned unopened.” |  |
+| Common_Location_Remarks.md | 1366 | Zarys | 扎瑞斯 | - (Found the missing shipment, dealt with Rugan, has the quest from Zarys): “The chest's clearly worth a lot to the Zhentarim, if it's returned unopened.” |  |
+| Common_Location_Remarks.md | 1370 | Rugan | 鲁根 | - (Found the missing shipment, Rugan dead, hasn’t met Zarys): “You don't craft a chest like that to hold trinkets. There must be something valuable inside.” |  |
+| Common_Location_Remarks.md | 1370 | Zarys | 扎瑞斯 | - (Found the missing shipment, Rugan dead, hasn’t met Zarys): “You don't craft a chest like that to hold trinkets. There must be something valuable inside.” |  |
+| Common_Location_Remarks.md | 1376 | Investigation | 调查 | - (Saw the haystack with hidden dowry, Investigation check): “Looks like there's a chest buried in that hay.” |  |
+| Common_Location_Remarks.md | 1378 | Surprised | 受惊 | - (Failed): “Surprised this hay hasn't gone up in flames yet.” |  |
+| Common_Location_Remarks.md | 1380 | Mirileth | 米里莱斯 | - (Found Mirileth’s corpse): “Green blouse, brown hair - that must be Miri.” |  |
+| Common_Location_Remarks.md | 1384 | Benryn | 本里恩 | - (Cannot lift the fallen beams off Benryn): “Ah! I can't!” |  |
+| Common_Location_Remarks.md | 1386 | Strength | 力量 | - (Failed a Strength check to kick out the front door): “There's got to be another way in.” |  |
+| Common_Location_Remarks.md | 1386 | check | 检定 | - (Failed a Strength check to kick out the front door): “There's got to be another way in.” |  |
+| Common_Location_Remarks.md | 1388 | Anders | 安德斯 | - (Agreed to help Anders, but found out that his crew are Zariel’s servants): “Are we really going to hunt a devil on their behalf?” |  |
+| Common_Location_Remarks.md | 1438 | Drow | 卓尔 | - (For a Drow avatar) Excellent armour. Drowcraft, of course. | - （如果获得了密码）：这是鲁甘标记的地方。看起来不怎么样。 |
+| Common_Location_Remarks.md | 1439 | Drow | 卓尔 | - (For a Gith avatar) Impressive armour. Drow handiwork? |  |
+| Common_Location_Remarks.md | 1440 | Drow | 卓尔 | - (Responding remark, avatar knows Drow magic) Not much magic left, though - sun's too bright. | 散塔林会窝点 |
+| Common_Location_Remarks.md | 1441 | Drow | 卓尔 | - (Responding remark, avatar doesn’t know Drow magic) An unlikely place for such a fortunate find. |  |
+| Common_Location_Remarks.md | 1442 | Perception | 察觉技能 | - Near the barn that covers Zhentarim hideout, Perception check: | - （下降到洞穴窝点）酒馆下面的洞穴。不知道有多深... |
+| Common_Location_Remarks.md | 1442 | check | 检定 | - Near the barn that covers Zhentarim hideout, Perception check: | - （下降到洞穴窝点）酒馆下面的洞穴。不知道有多深... |
+| Common_Location_Remarks.md | 1445 | Rugan | 鲁根 | - (If obtained the password): This is the spot Rugan marked. Doesn't look like much. | - （尝试使用堵住的电梯）不起作用。 |
+| Common_Location_Remarks.md | 1447 | Zhentarim Hideout | 散塔林会窝点 | Zhentarim Hideout | - （跟着萨拉宗，发现他消失了）他去哪了...？ |
+| Common_Location_Remarks.md | 1450 | Underdark | 幽暗地域 | - (For any Underdark race avatar) A cave. Best stay sharp - I've been out of the dark for a while. | 山口 |
+| Common_Location_Remarks.md | 1454 | Salazon | 萨拉祖恩 | - (Followed Salazon to find him disappeared) Where did he go...? |  |
+| Common_Location_Remarks.md | 1457 | Mountain Pass | 山隘 | Mountain Pass | - （发现凯瑟里克关于抓捕乌尔德·拉文加德的命令，不知道他是威尔的父亲）：”拉文加德大公？看来月出之塔获得了一个高价值资产。” |
+| Common_Location_Remarks.md | 1459 | Dead | 死亡 | - (If Lae’zel was left to encounter with Voss’s squad and killed) Dead - by her own kin's hand. | - （继续旁白）：”一个强大的资产。我想知道他们的意图是什么？” |
+| Common_Location_Remarks.md | 1460 | Dead | 死亡 | - (For a Gith avatar) Dead - by our own kin's hand. | - （拿起假的拉珊德之血）：”就是这个吗？作为圣物来说有点令人失望。” |
+| Common_Location_Remarks.md | 1462 | Rosymorn Monastery | 瑰晨修道院 | #### Rosymorn Monastery | - （走到被吉斯守卫杀死的邪教徒尸体旁，吉斯角色）：”看来我的同胞也在猎杀邪教徒。至少，他们会迅速减少他们的人数。” |
+| Common_Location_Remarks.md | 1464 | Moonrise Towers | 月出之塔 | - (Found Ketheric’s orders on capturing Ulder Ravengard, doesn’t know he’s Wyll’s father): “Grand Duke Ravengard? Seems Moonrise Towers has acquired a high-value asset.” | - （认出 X: Y: 雕像中的拉珊德形象）：”看起来像拉珊德，黎明之神。” |
+| Common_Location_Remarks.md | 1464 | Duke Ravengard | 雷文伽德公爵 | - (Found Ketheric’s orders on capturing Ulder Ravengard, doesn’t know he’s Wyll’s father): “Grand Duke Ravengard? Seems Moonrise Towers has acquired a high-value asset.” | - （认出 X: Y: 雕像中的拉珊德形象）：”看起来像拉珊德，黎明之神。” |
+| Common_Location_Remarks.md | 1464 | Wyll | 威尔 | - (Found Ketheric’s orders on capturing Ulder Ravengard, doesn’t know he’s Wyll’s father): “Grand Duke Ravengard? Seems Moonrise Towers has acquired a high-value asset.” | - （认出 X: Y: 雕像中的拉珊德形象）：”看起来像拉珊德，黎明之神。” |
+| Common_Location_Remarks.md | 1465 | Moonrise Towers | 月出之塔 | - (Knows he’s Wyll’s father): “The Absolute's forces have taken Duke Ravengard to Moonrise Towers.” | - （认出 X: Y: 雕像中的拉珊德形象，海姆牧师角色）：”拉珊德的纪念碑，黎明之神——也是杀害海姆爱人的凶手。混蛋。” |
+| Common_Location_Remarks.md | 1465 | Duke Ravengard | 雷文伽德公爵 | - (Knows he’s Wyll’s father): “The Absolute's forces have taken Duke Ravengard to Moonrise Towers.” | - （认出 X: Y: 雕像中的拉珊德形象，海姆牧师角色）：”拉珊德的纪念碑，黎明之神——也是杀害海姆爱人的凶手。混蛋。” |
+| Common_Location_Remarks.md | 1465 | Wyll | 威尔 | - (Knows he’s Wyll’s father): “The Absolute's forces have taken Duke Ravengard to Moonrise Towers.” | - （认出 X: Y: 雕像中的拉珊德形象，海姆牧师角色）：”拉珊德的纪念碑，黎明之神——也是杀害海姆爱人的凶手。混蛋。” |
+| Common_Location_Remarks.md | 1467 | Blood of Lathander | 洛山达之血 | - (Picked up the fake Blood of Lathander): “Is this it? Seems a little underwhelming for a holy relic.” | - （用长矛摧毁了养育间）：”没了——整个养育间都被摧毁了。” |
+| Common_Location_Remarks.md | 1470 | Lathander | 洛山达 | - (Looking at the statue of Lathander at X: Y: ): “Undead crushed underfoot. The Dawnlord certainly knows how to make space for new life.” | - （回应旁白，吉斯角色）：”没想到我会是摧毁养育间的人。而且还逃脱了。” |
+| Common_Location_Remarks.md | 1470 | Undead | 不死生物 | - (Looking at the statue of Lathander at X: Y: ): “Undead crushed underfoot. The Dawnlord certainly knows how to make space for new life.” | - （回应旁白，吉斯角色）：”没想到我会是摧毁养育间的人。而且还逃脱了。” |
+| Common_Location_Remarks.md | 1471 | Lathander | 洛山达 | - (Recognizing Lathander depiction in the statue at X: Y: ): “Looks like Lathander, god of the dawning sun.” | - （成功阻止了武装长矛）：”那本来可能很糟糕。” |
+| Common_Location_Remarks.md | 1471 | Lathander | 洛山达 | - (Recognizing Lathander depiction in the statue at X: Y: ): “Looks like Lathander, god of the dawning sun.” | - （成功阻止了武装长矛）：”那本来可能很糟糕。” |
+| Common_Location_Remarks.md | 1472 | Cleric of Helm | 海姆的牧师 | - (Recognizing Lathander depiction in the statue at X: Y: , a Cleric of Helm avatar): “A monument to Lathander, god of dawn - and killer of Helm's lover. The bastard.” | - （回应旁白1）：”死在这座修道院下面会很遗憾。” |
+| Common_Location_Remarks.md | 1472 | Lathander | 洛山达 | - (Recognizing Lathander depiction in the statue at X: Y: , a Cleric of Helm avatar): “A monument to Lathander, god of dawn - and killer of Helm's lover. The bastard.” | - （回应旁白1）：”死在这座修道院下面会很遗憾。” |
+| Common_Location_Remarks.md | 1472 | Lathander | 洛山达 | - (Recognizing Lathander depiction in the statue at X: Y: , a Cleric of Helm avatar): “A monument to Lathander, god of dawn - and killer of Helm's lover. The bastard.” | - （回应旁白1）：”死在这座修道院下面会很遗憾。” |
+| Common_Location_Remarks.md | 1472 | Helm | 海姆 | - (Recognizing Lathander depiction in the statue at X: Y: , a Cleric of Helm avatar): “A monument to Lathander, god of dawn - and killer of Helm's lover. The bastard.” | - （回应旁白1）：”死在这座修道院下面会很遗憾。” |
+| Common_Location_Remarks.md | 1479 | Dying | 濒死 | - (Responding remark 1): “Dying under this monastery would've been a shame.” | - （通过屋顶的传送门）：”幸好它升上去了——现在离开这里。” |
+| Common_Location_Remarks.md | 1483 | Blood of Lathander | 洛山达之血 | - (Took the Blood of Lathander and got trapped): “Help! Get me out of this thing before the whole building collapses!” | - （跳到左边的屋顶2）：”没有屋顶了。是时候从这里下去了。” |
+| Common_Location_Remarks.md | 1483 | Help | 协助 | - (Took the Blood of Lathander and got trapped): “Help! Get me out of this thing before the whole building collapses!” | - （跳到左边的屋顶2）：”没有屋顶了。是时候从这里下去了。” |
+| Common_Location_Remarks.md | 1491 | familiar | 获得魔宠 | - (Found an octagonal toy in gith dormitory, has seen the Lance gap): “The shape is odd, feels strangely familiar...” | - （进入黎明之门）：”它能一直隐藏这么久真是了不起。” |
+| Common_Location_Remarks.md | 1494 | check | 检定 | - (Found the corpse with a longsword in the chest, HIS check successful): “That's a githyanki blade if ever I saw one.” | - （不知道养育间位置）：”看起来它会是一把强大的武器。” |
+| Common_Location_Remarks.md | 1495 | check | 检定 | - (Found the corpse with a longsword in the chest, HIS check successful, a gith avatar): “That's not a blade made by humans. My kin must be nearby.” | - （听到说话雕像的警告，奥秘成功）：”看起来是魔嘴术。那声音可能属于某个早已逝去的人。” |
+| Common_Location_Remarks.md | 1497 | familiar | 获得魔宠 | - (Failed, a gith avatar): “Something about that blade seems familiar...” | - （在秘密通道中听到说话雕像的警告，奥秘成功）：”魔嘴术。听起来相当重要。” |
+| Common_Location_Remarks.md | 1506 | Blood of Lathander | 洛山达之血 | - (Took the Blood of Lathander, using Dawnmaster’s Crest): “Quite a heavily guarded treasure, good job we got past those protections.” | - （从远处看着废弃的修道院，吉斯角色）：”我希望我的同胞选择不那么...破败的环境。” |
+| Common_Location_Remarks.md | 1509 | Gremishka | 小法妖 | - (Heard Gremishka meowlings): “Is someone crying?” | - （发现假拉珊德之血的空祭坛）：”所以他们把’拉珊德之血’放在这里？难怪被洗劫了。” |
+| Common_Location_Remarks.md | 1510 | check | 检定 | - (Recognized Gremishkas, ? check successful): “Gremishkas? Better be careful with any magic - spells set them off.” | - （发现吉斯洋基人骷髅，去过养育间，吉斯角色）：”一个倒下的战士。安息吧，同胞。” |
+| Common_Location_Remarks.md | 1511 | Gremishka | 小法妖 | - (Used magic close to a Gremishka): “Looks like using magic around these things is more trouble than it's worth!” | - （还没找到养育间，吉斯角色）：”我族倒下的战士。养育间一定在附近。” |
+| Common_Location_Remarks.md | 1516 | Blood of Lathander | 洛山达之血 | - (Found empty altar for the fake Blood of Lathander): “So they kept the 'Blood of Lathander' here? No wonder it was looted.” | - （尝试使用渡口，力量成功）：”很费劲，这东西一定很久没用了。” |
+| Common_Location_Remarks.md | 1516 | Blood of Lathander | 洛山达之血 | - (Found empty altar for the fake Blood of Lathander): “So they kept the 'Blood of Lathander' here? No wonder it was looted.” | - （尝试使用渡口，力量成功）：”很费劲，这东西一定很久没用了。” |
+| Common_Location_Remarks.md | 1519 | Guardian of Faith | 信仰守卫 | - (Found active Guardian of Faith spell): “A Guardian of Faith spell, and a remarkably long-lasting one at that.” | #### 伊雷珂养育间 |
+| Common_Location_Remarks.md | 1519 | Guardian of Faith | 信仰守卫 | - (Found active Guardian of Faith spell): “A Guardian of Faith spell, and a remarkably long-lasting one at that.” | #### 伊雷珂养育间 |
+| Common_Location_Remarks.md | 1523 | Strength | 力量 | - (Tried to use ferry, Strength check successful): “That was tough, this can't have been used in a while.” | - （在走廊里和苹果箱互动，吉斯角色）："吃东西太浪费时间了。在这个位面找到好食物更是如此。" |
+| Common_Location_Remarks.md | 1523 | check | 检定 | - (Tried to use ferry, Strength check successful): “That was tough, this can't have been used in a while.” | - （在走廊里和苹果箱互动，吉斯角色）："吃东西太浪费时间了。在这个位面找到好食物更是如此。" |
+| Common_Location_Remarks.md | 1531 | Coast | 海湾 | - (Read the map in Captain’s Quarters, a gith avatar): “A map of the Sword Coast. My people have scouted well beyond the temple.” | - （回应旁白2）："这个审判官听起来真是个难缠的角色。你觉得他会回答我们的问题吗？" |
+| Common_Location_Remarks.md | 1533 | Lucky me | 我真走运 | - (Interacted with the deactivated barrier): “Looks like the barrier's turned off. Lucky me.” | - （回应旁白3）："以前从没那么简单过，我不知道为什么现在会。" |
+| Common_Location_Remarks.md | 1542 | Gremishka | 小法妖 | - (Set Gremishka loose from the gith kids’ chest): “Nine Hells!” | - （注意到审判官大厅的雕像，察觉成功）："嗯，雕像旁边有些奇怪的凹槽...我想知道它们能不能移动？" |
+| Common_Location_Remarks.md | 1545 | Githyanki | 吉斯洋基人 | - (Looking at the devices in Stornugoss’ laboratory, a gith avatar): “Githyanki scholars study ghaik devices closely. They even incorporate their findings into our own machines and magic.” | - （在教室打了训练假人，吉斯角色）："夺心魔训练假人。小时候在上面练习差点扭断手腕。" |
+| Common_Location_Remarks.md | 1546 | Inquisitor | 审判官 | - (Solved the statue puzzle in Inquisitor’s Chamber): “” | - （在孵化所闻到气体）："那是什么臭味？让我头晕。" |
+| Common_Location_Remarks.md | 1547 | Inquisitor | 审判官 | - (Failed to rotate the statue in Inquisitor’s Chamber): “Damn thing is jammed shut. Won't turn like this.” | - （在孵化所闻到气体，吉斯角色）："我怀念这味道。提神。" |
+| Common_Location_Remarks.md | 1549 | Inquisitor | 审判官 | - (Noticed the statues in Inquisitor’s Chamber, PER check successful): “Hmm, some strange grooves by the statues... I wonder if they can be moved?” | - （尝试使用未激活的位面投影仪，与瓦尔'戈兹交谈前）："嗯。现在不工作。" |
+| Common_Location_Remarks.md | 1549 | check | 检定 | - (Noticed the statues in Inquisitor’s Chamber, PER check successful): “Hmm, some strange grooves by the statues... I wonder if they can be moved?” | - （尝试使用未激活的位面投影仪，与瓦尔'戈兹交谈前）："嗯。现在不工作。" |
+| Common_Location_Remarks.md | 1550 | Lathander | 洛山达 | - (If the party read old monk’s journal): “Huh, that book mentioned Lathander statues that moved...” | - （在星界，另一个角色从召唤洞穴返回后）："天哪。你看起来像见了鬼。" |
+| Common_Location_Remarks.md | 1555 | Conditions | 状态 | - (Looking around in the Hatchery, a gith avatar): “Conditions look right, but quite empty without all the other eggs.” | - （在死去的噬脑怪附近看到死去的渔夫）：”这些怪物来的时候一定在钓鱼。运气不好。” |
+| Common_Location_Remarks.md | 1556 | Planecaster | 位面投射器 | - (Try to use an inactive Planecaster, before speaking to W’wargaz): “Hm. Not working right now.” | - （回应旁白）：”嗯。不愿那命运降临在任何人身上。” -> 有两个地方一个 mutilated 渔夫躺在 devourer 附近，但这条线在任何 walkthrough 中都没触发过。只是可 loot 的尸体。 |
+| Common_Location_Remarks.md | 1557 | Beckoning Cave | 洞穴入口 | - (In the Astral Plane, after another character returned from the Beckoning Cave): “Hells. You look like you've seen a ghost.” |  |
+| Common_Location_Remarks.md | 1557 | Astral Plane | 星界 | - (In the Astral Plane, after another character returned from the Beckoning Cave): “Hells. You look like you've seen a ghost.” |  |
+| Common_Location_Remarks.md | 1559 | Location | 地点 | ### Inactive/Cut Location Remarks |  |
+| Common_Location_Remarks.md | 1561 | Ravaged Beach | 疮痍的海滩 | [Ravaged Beach](Ravaged_Beach.md "Ravaged Beach") |  |
+| Common_Location_Remarks.md | 1566 | Blighted Village | 染疫村落 | [Blighted Village](Blighted_Village.md "Blighted Village") | - （注意到药剂师房子里的干草药，认出来了2）：青金石根？萨法？在这么北的地方很少见。 |
+| Common_Location_Remarks.md | 1568 | Dead | 死亡 | - (Noticed dry herbs in the apothecary's house, did not recognize them): Dead. They're only good for kindling now. | - （注意到药剂师房子里的干草药，认出来了，回应旁白）：毫无疑问是昂贵的进口货。可惜它们枯萎了。 |
+| Common_Location_Remarks.md | 1570 | Githyanki | 吉斯洋基人 | Next reactions are available only for [Githyanki avatars](Githyanki.md "Githyanki"): | - （注意到药剂师房子里的干草药，认出来了，回应旁白2）：可惜它们枯萎了，这些一定花了一大笔钱。 |
+| Common_Location_Remarks.md | 1580 | Scratch | 挠挠 | - (Noticed grooves near the bookcase in the apothecary's cellar) Hmm. Scratch marks on the floor... |  |
+| Common_Location_Remarks.md | 1584 | Underdark | 幽暗地域 | [Underdark](Underdark.md "Underdark") |  |
+| Common_Location_Remarks.md | 1586 | Underdark | 幽暗地域 | - (Looking at cave paintings, [History](History.md "History") check): “This is Lolth's descent into the Underdark. Looks like her drider champions tearing open some mind flayers.” |  |
+| Common_Location_Remarks.md | 1586 | History | 历史的 | - (Looking at cave paintings, [History](History.md "History") check): “This is Lolth's descent into the Underdark. Looks like her drider champions tearing open some mind flayers.” |  |
+| Common_Location_Remarks.md | 1586 | Lolth | 罗丝 | - (Looking at cave paintings, [History](History.md "History") check): “This is Lolth's descent into the Underdark. Looks like her drider champions tearing open some mind flayers.” |  |
+| Common_Location_Remarks.md | 1586 | check | 检定 | - (Looking at cave paintings, [History](History.md "History") check): “This is Lolth's descent into the Underdark. Looks like her drider champions tearing open some mind flayers.” |  |
+| Common_Location_Remarks.md | 1593 | Three | 三 | ## Act Three | 1. [↑](#cite_ref-3) 默认情况下，所有非幽暗地域种族的自定义角色（吉斯洋基人除外），以及阿斯塔里昂、卡拉奇和威尔起源，都被视为博德之门城的本地人。影心尽管在城市中长大，但她的对话中没有这个标签，可能是因为她的记忆丧失。 |
+| Common_Location_Remarks.md | 1599 | Lae'zel | 莱埃泽尔 | 1. [↑](#cite_ref-1) The githyanki [Losiir](Losiir.md "Losiir") appears only in case when one of the players has chosen [Lae'zel](Lae'zel.md "Lae'zel") as a character origin |  |
+| Common_Location_Remarks.md | 1599 | Losiir | 洛希尔 | 1. [↑](#cite_ref-1) The githyanki [Losiir](Losiir.md "Losiir") appears only in case when one of the players has chosen [Lae'zel](Lae'zel.md "Lae'zel") as a character origin |  |
+| Common_Location_Remarks.md | 1600 | The Soul Forger | 锻魂者 | 1. [↑](#cite_ref-2) Moradin, also called _The Soul Forger_ , is a chief deity in dwarven pantheon. More about this deity can be found at ⁠[Moradin](https://forgottenrealms.fandom.com/wiki/Moradin) on  |  |
+| Common_Location_Remarks.md | 1600 | Moradin | 摩拉丁 | 1. [↑](#cite_ref-2) Moradin, also called _The Soul Forger_ , is a chief deity in dwarven pantheon. More about this deity can be found at ⁠[Moradin](https://forgottenrealms.fandom.com/wiki/Moradin) on  |  |
+| Common_Location_Remarks.md | 1600 | Moradin | 摩拉丁 | 1. [↑](#cite_ref-2) Moradin, also called _The Soul Forger_ , is a chief deity in dwarven pantheon. More about this deity can be found at ⁠[Moradin](https://forgottenrealms.fandom.com/wiki/Moradin) on  |  |
+| Common_Location_Remarks.md | 1601 | Baldur's Gate | 博德之门 | 1. [↑](#cite_ref-3) By default, all Custom characters belonging to non-Underdark races, except Githyanki, are considered natives of the Baldur's Gate City, as well as Astarion, Karlach and Wyll origin |  |
+| Common_Location_Remarks.md | 1601 | Shadowheart | 影心 | 1. [↑](#cite_ref-3) By default, all Custom characters belonging to non-Underdark races, except Githyanki, are considered natives of the Baldur's Gate City, as well as Astarion, Karlach and Wyll origin |  |
+| Common_Location_Remarks.md | 1601 | Githyanki | 吉斯洋基人 | 1. [↑](#cite_ref-3) By default, all Custom characters belonging to non-Underdark races, except Githyanki, are considered natives of the Baldur's Gate City, as well as Astarion, Karlach and Wyll origin |  |
+| Common_Location_Remarks.md | 1601 | Underdark | 幽暗地域 | 1. [↑](#cite_ref-3) By default, all Custom characters belonging to non-Underdark races, except Githyanki, are considered natives of the Baldur's Gate City, as well as Astarion, Karlach and Wyll origin |  |
+| Common_Location_Remarks.md | 1601 | Astarion | 阿斯代伦 | 1. [↑](#cite_ref-3) By default, all Custom characters belonging to non-Underdark races, except Githyanki, are considered natives of the Baldur's Gate City, as well as Astarion, Karlach and Wyll origin |  |
+| Common_Location_Remarks.md | 1601 | Karlach | 卡菈克 | 1. [↑](#cite_ref-3) By default, all Custom characters belonging to non-Underdark races, except Githyanki, are considered natives of the Baldur's Gate City, as well as Astarion, Karlach and Wyll origin |  |
+| Common_Location_Remarks.md | 1601 | Custom | 自定义 | 1. [↑](#cite_ref-3) By default, all Custom characters belonging to non-Underdark races, except Githyanki, are considered natives of the Baldur's Gate City, as well as Astarion, Karlach and Wyll origin |  |
+| Common_Location_Remarks.md | 1601 | Wyll | 威尔 | 1. [↑](#cite_ref-3) By default, all Custom characters belonging to non-Underdark races, except Githyanki, are considered natives of the Baldur's Gate City, as well as Astarion, Karlach and Wyll origin |  |
 | Common_Mushroom_Table.md | 7 | Mushroom | 蘑菇 | _The following section can be transcluded into other pages with`{{:Common Mushroom Table}}`._ | _以下部分可以通过 `{{:Common Mushroom Table}}` 被其他页面引用。_ |
 | Common_Music_Instrument_Subtable.md | 7 | Instrument | 乐器 | _The following section can be transcluded into other pages with`{{:Common Music Instrument Subtable}}`._ | _以下部分可以通过 `{{:Common Music Instrument Subtable}}` 嵌入其他页面。_ |
 | Common_Special_Arrow_Table.md | 7 | Arrow | 箭 | _The following section can be transcluded into other pages with`{{:Common Special Arrow Subtable}}`._ | _以下部分可以通过 `{{:Common Special Arrow Subtable}}` 嵌入其他页面。_ |
@@ -14100,6 +14622,30 @@
 | Divine_Strike_colon__Tempest.md | 21 | Tempest | 暴风雨 | \| [Tempest](Tempest_Domain.md "Tempest Domain") \| 1d8⁠⁠[Thunder](Thunder.md "Thunder") \| [Divine Strike: Thunder (Melee)](Divine_Strike_colon__Thunder_(Melee).md "Divine Strike: Thunder (Melee)") [Div | \| [风暴领域](Tempest_Domain.md "风暴领域") \| 1d8⁠⁠[雷鸣](Thunder.md "雷鸣") \| [神圣打击：雷鸣（近战）](Divine_Strike_colon__Thunder_(Melee).md "神圣打击：雷鸣（近战）") [神圣打击：雷鸣（远程）](Divine_Strike_colon__Thunder_(Ranged).md "神圣打击：雷鸣（远 |
 | Divine_Strike_colon__Tempest.md | 22 | Divine Strike: Poison | 神圣打击：毒素 | \| [Trickery](Trickery_Domain.md "Trickery Domain") \| 1d8⁠⁠[Poison](Poison.md "Poison") \| [Divine Strike: Poison (Melee)](Divine_Strike_colon__Poison_(Melee).md "Divine Strike: Poison (Melee)") [Divine | \| [诡术领域](Trickery_Domain.md "诡术领域") \| 1d8⁠⁠[毒素](Poison.md "毒素") \| [神圣打击：中毒（近战）](Divine_Strike_colon__Poison_(Melee).md "神圣打击：中毒（近战）") [神圣打击：中毒（远程）](Divine_Strike_colon__Poison_(Ranged).md "神圣打击：中毒（远程） |
 | Divine_Strike_colon__Tempest.md | 22 | Divine Strike: Poison | 神圣打击：毒素 | \| [Trickery](Trickery_Domain.md "Trickery Domain") \| 1d8⁠⁠[Poison](Poison.md "Poison") \| [Divine Strike: Poison (Melee)](Divine_Strike_colon__Poison_(Melee).md "Divine Strike: Poison (Melee)") [Divine | \| [诡术领域](Trickery_Domain.md "诡术领域") \| 1d8⁠⁠[毒素](Poison.md "毒素") \| [神圣打击：中毒（近战）](Divine_Strike_colon__Poison_(Melee).md "神圣打击：中毒（近战）") [神圣打击：中毒（远程）](Divine_Strike_colon__Poison_(Ranged).md "神圣打击：中毒（远程） |
+| Dollay.md | 7 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Dollay.md | 25 | Medium | 中级 | [Medium](Medium.md "Medium") | [中型](Medium.md "中型") |
+| Dollay.md | 47 | Balanced | 平衡 | - Balanced | - 均衡 |
+| Dollay.md | 49 | Explorer | 探索者 | - Explorer | - 探险家 |
+| Dollay.md | 51 | Tactician | 硬核 | - Tactician | - 战术家 |
+| Dollay.md | 53 | Balanced | 平衡 | ## Balanced Difficulty Stats | ## 均衡难度属性 |
+| Dollay.md | 71 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Dollay.md | 83 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Dollay.md | 101 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Dollay.md | 109 | Shadow Ambush | 阴影伏击 | - [**Shadow Ambush**](Shadow_Ambush.md "Shadow Ambush") | - [**暗影伏击**](Shadow_Ambush.md "暗影伏击") |
+| Dollay.md | 115 | Blinded | 目盲 | This creature can see through magical and non-magical darkness, and cannot be [Blinded](Blinded_(Condition).md "Blinded (Condition)"). | 此生物可以看穿魔法和非魔法黑暗，且不会被[致盲](Blinded_(Condition).md "致盲 (状态)")。 |
+| Dollay.md | 117 | Explorer | 探索者 | ## Explorer Difficulty Stats | ## 探险家难度属性 |
+| Dollay.md | 135 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Dollay.md | 147 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Dollay.md | 165 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Dollay.md | 173 | Shadow Ambush | 阴影伏击 | - [**Shadow Ambush**](Shadow_Ambush.md "Shadow Ambush") | - [**暗影伏击**](Shadow_Ambush.md "暗影伏击") |
+| Dollay.md | 179 | Blinded | 目盲 | This creature can see through magical and non-magical darkness, and cannot be [Blinded](Blinded_(Condition).md "Blinded (Condition)"). | 此生物可以看穿魔法和非魔法黑暗，且不会被[致盲](Blinded_(Condition).md "致盲 (状态)")。 |
+| Dollay.md | 181 | Tactician | 硬核 | ## Tactician Difficulty Stats | ## 战术家难度属性 |
+| Dollay.md | 199 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Dollay.md | 211 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Dollay.md | 219 | Perception | 察觉技能 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 运动 \| 体操 \| 察觉 \| |
+| Dollay.md | 229 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Dollay.md | 237 | Shadow Ambush | 阴影伏击 | - [**Shadow Ambush**](Shadow_Ambush.md "Shadow Ambush") | - [**暗影伏击**](Shadow_Ambush.md "暗影伏击") |
+| Dollay.md | 243 | Blinded | 目盲 | This creature can see through magical and non-magical darkness, and cannot be [Blinded](Blinded_(Condition).md "Blinded (Condition)"). | 此生物可以看穿魔法和非魔法黑暗，且不会被[致盲](Blinded_(Condition).md "致盲 (状态)")。 |
 | Don't_Swallow_the_Specimen.md | 27 | Help | 协助 | \[In his third work _Don't Swallow the Specimen Even If You Have Just Had An Overspiced Curry And It Looks Like It Might Help_ , Professor Olimuncle Shrewsburry lays out in languid detail his experien | \[在他的第三部著作《不要吞下标本，即使你刚吃过辛辣咖喱且它看起来可能有帮助》中，奥利蒙克·施鲁斯伯里教授以慵懒的细节描述了他记录在暮光森林中遇到的许多植物和蘑菇的经历，这些森林位于[妖精荒野](https://forgottenrealms.fandom.com/wiki/Feywild)。他报告称，[海湾](Coast.md "海湾")常见的[编织苔藓](Weavemoss.md "编织苔藓" |
 | Donation_Record.md | 21 | Rivington | 利文顿 | \[The [Flaming Fist](Flaming_Fist.md "Flaming Fist"), tasked by the city's Parliament with oversight of the gathering and distribution of donations to the refugees in Rivington, responded with what ap | \[焰拳](Flaming_Fist.md "焰拳")，似乎只是敷衍了事地列出了捐赠物品和捐赠者。这份清单经过多次修改，可能旨在掩盖焰拳成员的贪污行为，其中包含以下条目。\] |
 | Dormitory.md | 122 | action | 动作 | If the party defeat Viconia, knocking her out in the end, they have an option to kill her or to allow her to leave the cloister. The latter choice is considered an [oathbreaking action](Paladin.md#Oat | 如果队伍击败维康妮亚，最后将她击晕，他们可以选择杀了她或允许她离开修道院。后一个选择对于[复仇之誓](Oath_of_Vengeance.md "复仇之誓")和[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")而言是[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。 |
@@ -15232,6 +15778,32 @@
 | Frightened_(status_group).md | 82 | Psychic damage | 心灵伤害 | - It takes 4d10⁠⁠[Psychic](Psychic.md "Psychic") damage per turn, cannot move, and has [Disadvantage](Disadvantage.md "Disadvantage") on [Ability Checks](Ability_checks.md "Ability Checks") and [Attac |  |
 | Fuzzy.md | 3 | House of Healing | 治疗中心 | **Fuzzy** is a [Miscellaneous](Miscellaneous.md#Clutter "Miscellaneous") Item and a unique variant of the [Stuffed Bear (Faded)](Stuffed_Bear_(Faded).md) found in the House of Healing alongside its co | **富齐**是一种[杂物](Miscellaneous.md#Clutter "杂物")物品，也是[熊标本（褪色）](Stuffed_Bear_(Faded).md) found in the House of Healing alongside its counterpart [Lukasz](Lukasz.md "Lukasz")的独特变体。 |
 | Fuzzy.md | 3 | Lukasz | 卢卡什 | **Fuzzy** is a [Miscellaneous](Miscellaneous.md#Clutter "Miscellaneous") Item and a unique variant of the [Stuffed Bear (Faded)](Stuffed_Bear_(Faded).md) found in the House of Healing alongside its co | **富齐**是一种[杂物](Miscellaneous.md#Clutter "杂物")物品，也是[熊标本（褪色）](Stuffed_Bear_(Faded).md) found in the House of Healing alongside its counterpart [Lukasz](Lukasz.md "Lukasz")的独特变体。 |
+| Galleass.md | 6 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Galleass.md | 20 | Medium | 中级 | Medium | 中型 |
+| Galleass.md | 32 | Counting House Artillerist | 清账屋炮手 | [Counting House Artillerist](Counting_House_Artillerist.md "Counting House Artillerist") | [数币所炮手](Counting_House_Artillerist.md "数币所炮手") |
+| Galleass.md | 34 | Balanced | 平衡 | - Balanced | - 均衡 |
+| Galleass.md | 36 | Explorer | 探索者 | - Explorer | - 探险家 |
+| Galleass.md | 38 | Tactician | 硬核 | - Tactician | - 战术家 |
+| Galleass.md | 40 | Balanced | 平衡 | ## Balanced Difficulty Stats | ## 均衡难度属性 |
+| Galleass.md | 58 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Galleass.md | 70 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Galleass.md | 90 | Mobile: Evade Difficult Terrain | 灵活移动：回避劣势地形 | - [**Mobile: Evade Difficult Terrain**](Mobile_colon__Evade_Difficult_Terrain.md "Mobile: Evade Difficult Terrain") | - [**灵活移动：规避劣势地形**](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：规避劣势地形") |
+| Galleass.md | 94 | Mobile: Evade Opportunity Attack | 灵活移动：躲避借机攻击 | - [**Mobile: Evade Opportunity Attack**](Mobile_colon__Evade_Opportunity_Attack.md "Mobile: Evade Opportunity Attack") | - [**灵活移动：规避借机攻击**](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：规避借机攻击") |
+| Galleass.md | 110 | Explorer | 探索者 | ## Explorer Difficulty Stats | ## 探险家难度属性 |
+| Galleass.md | 128 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Galleass.md | 140 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Galleass.md | 160 | Mobile: Evade Difficult Terrain | 灵活移动：回避劣势地形 | - [**Mobile: Evade Difficult Terrain**](Mobile_colon__Evade_Difficult_Terrain.md "Mobile: Evade Difficult Terrain") | - [**灵活移动：规避劣势地形**](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：规避劣势地形") |
+| Galleass.md | 164 | Mobile: Evade Opportunity Attack | 灵活移动：躲避借机攻击 | - [**Mobile: Evade Opportunity Attack**](Mobile_colon__Evade_Opportunity_Attack.md "Mobile: Evade Opportunity Attack") | - [**灵活移动：规避借机攻击**](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：规避借机攻击") |
+| Galleass.md | 180 | Tactician | 硬核 | ## Tactician Difficulty Stats | ## 战术家难度属性 |
+| Galleass.md | 198 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Galleass.md | 210 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Galleass.md | 218 | Perception | 察觉技能 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 运动 \| 体操 \| 感知 \| |
+| Galleass.md | 230 | Mobile: Evade Difficult Terrain | 灵活移动：回避劣势地形 | - [**Mobile: Evade Difficult Terrain**](Mobile_colon__Evade_Difficult_Terrain.md "Mobile: Evade Difficult Terrain") | - [**灵活移动：规避劣势地形**](Mobile_colon__Evade_Difficult_Terrain.md "灵活移动：规避劣势地形") |
+| Galleass.md | 234 | Mobile: Evade Opportunity Attack | 灵活移动：躲避借机攻击 | - [**Mobile: Evade Opportunity Attack**](Mobile_colon__Evade_Opportunity_Attack.md "Mobile: Evade Opportunity Attack") | - [**灵活移动：规避借机攻击**](Mobile_colon__Evade_Opportunity_Attack.md "灵活移动：规避借机攻击") |
+| Galleass.md | 264 | The Counting House | 清账屋 | `LOW_CountingHouse_Ranged_Human` **Cashguard Galleass** is a human member of the Cashguard who can be found patrolling the docks outside [The Counting House](The_Counting_House.md "The Counting House" | `LOW_CountingHouse_Ranged_Human` **数币所守卫 Galleass** 是守卫队的一名人类成员，可以在[博德之门](Baldur_Gate.md "博德之门")[下城区](Lower_City.md "下城区")的[数币所](The_Counting_House.md "数币所")外的码头巡逻时找到她。 |
+| Galleass.md | 285 | Rapier | 刺剑 | [Main Hand Attack](Main_Hand_Attack.md "Main Hand Attack") – [Rapier](Rapier.md "Rapier") | [主手攻击](Main_Hand_Attack.md "主手攻击") – [细剑](Rapier.md "细剑") |
+| Galleass.md | 309 | Rapier | 刺剑 | - [Rapier](Rapier.md "Rapier") | - [细剑](Rapier.md "细剑") |
+| Galleass.md | 310 | Shield | 护盾术 | - [Shield](Shield_(item).md "Shield (item)") | - [盾牌](Shield_(item).md "盾牌") |
 | Game_Over.md | 67 | Tactician | 硬核 | 1. [↑](#cite_ref-1) [See this video by Proxy Gate Tactician for more information](https://youtu.be/kGbLSKtMkLk?si=X3IzXkwxI5bS1JsT&t=257) | 1. [↑](#cite_ref-1) [更多信息请参见Proxy Gate Tactician的此视频](https://youtu.be/kGbLSKtMkLk?si=X3IzXkwxI5bS1JsT&t=257) |
 | Game_Over_screens.md | 59 | The Netherbrain | 耐色脑 | - ⁠[Confront the Elder Brain](Confront_the_Elder_Brain.md "Confront the Elder Brain"): Failing to defeat [The Netherbrain](The_Netherbrain.md "The Netherbrain") before the turn counter expires. | - ⁠[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")：在回合计数器到期前未能击败[主脑](The_Netherbrain.md "主脑")。 |
 | Game_Over_screens.md | 67 | Tactician | 硬核 | 1. [↑](#cite_ref-1) [See this video by Proxy Gate Tactician for more information](https://youtu.be/kGbLSKtMkLk?si=X3IzXkwxI5bS1JsT&t=257) | 1. [↑](#cite_ref-1) [更多信息请参见Proxy Gate Tactician的此视频](https://youtu.be/kGbLSKtMkLk?si=X3IzXkwxI5bS1JsT&t=257) |
@@ -15595,6 +16167,39 @@
 | Gripped_by_Kereska's_Flame_(Condition).md | 56 | Lightning damage | 闪电伤害 | \| [Crackling with Kereska's Lightning](Crackling_with_Kereska's_Lightning_(Condition).md "Crackling with Kereska's Lightning (Condition)") \| Affected entity has [resistance](Resistance.md "Resistance" | \| [克雷斯卡的闪电爆裂](Crackling_with_Kereska's_Lightning_(Condition).md "克雷斯卡的闪电爆裂 (状态)") \| 受影响实体对⁠⁠[闪电](Lightning.md "闪电")伤害具有[抗性](Resistance.md "抗性")。其闪电法术造成的伤害等于其[熟练项加值](Proficiency_Bonus.md "熟练项加值")。当其造成法 |
 | Gripped_by_Kereska's_Flame_(Condition).md | 58 | Thunder damage | 雷鸣伤害 | \| [Rumbling with Kereska's Thunder](Rumbling_with_Kereska's_Thunder_(Condition).md "Rumbling with Kereska's Thunder (Condition)") \| Affected entity has [resistance](Resistance.md "Resistance") to ⁠[Th | \| [克雷斯卡的雷鸣轰隆](Rumbling_with_Kereska's_Thunder_(Condition).md "克雷斯卡的雷鸣轰隆 (状态)") \| 受影响实体对⁠⁠[雷鸣](Thunder.md "雷鸣")伤害具有[抗性](Resistance.md "抗性")。其雷鸣法术造成的伤害等于其[熟练项加值](Proficiency_Bonus.md "熟练项加值")。当其造成法术伤害时， |
 | Grit.md | 31 | Frenzied | 狂乱 | - _Example 3_ : a level 3 [Thief](Thief.md "Thief"), level 5 [Berserker](Berserker.md "Berserker"), level 4 [Battle Master](Battle_Master.md "Battle Master") is in their second round of combat, is [Fr | - _示例 3_：一个 3 级[盗贼](Thief.md "盗贼")、5 级[狂战士](Berserker.md "狂战士")、4 级[战斗大师](Battle_Master.md "战斗大师")处于战斗的第二轮，处于第一轮的[狂怒](Frenzy.md "狂怒")状态，并从咬紧牙关获得一个额外附赠动作；然后他们可以进行 3 次[愤怒投掷](Enraged_Throw.md "愤怒投掷")攻击，外 |
+| Gruntman.md | 3 | Reaper of Bhaal Gruntman | 巴尔之镰格伦特曼 | ## Reaper of Bhaal Gruntman | ## 巴尔的收割者 Gruntman |
+| Gruntman.md | 6 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Gruntman.md | 20 | Medium | 中级 | [Medium](Medium.md "Medium") | [中型](Medium.md "中型") |
+| Gruntman.md | 36 | Reaper of Bhaal | 巴尔之镰 | [Reaper of Bhaal](Reaper_of_Bhaal.md "Reaper of Bhaal") | [巴尔的收割者](Reaper_of_Bhaal.md "巴尔的收割者") |
+| Gruntman.md | 38 | Balanced | 平衡 | - Balanced | - 均衡 |
+| Gruntman.md | 40 | Explorer | 探索者 | - Explorer | - 探险家 |
+| Gruntman.md | 42 | Tactician | 硬核 | - Tactician | - 战术家 |
+| Gruntman.md | 44 | Balanced | 平衡 | ## Balanced Difficulty Stats | ## 均衡难度属性 |
+| Gruntman.md | 62 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Gruntman.md | 74 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Gruntman.md | 100 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Gruntman.md | 104 | Dwarven Resilience | 矮人活力 | - [**Dwarven Resilience**](Dwarven_Resilience.md "Dwarven Resilience") | - [**矮人韧性**](Dwarven_Resilience.md "矮人韧性") |
+| Gruntman.md | 116 | Prey Upon the Weak | 弱肉强食 | - [**Prey Upon the Weak**](Prey_Upon_the_Weak.md "Prey Upon the Weak") | - [**欺软怕硬**](Prey_Upon_the_Weak.md "欺软怕硬") |
+| Gruntman.md | 120 | Explorer | 探索者 | ## Explorer Difficulty Stats | ## 探险家难度属性 |
+| Gruntman.md | 138 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Gruntman.md | 150 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Gruntman.md | 176 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Gruntman.md | 180 | Dwarven Resilience | 矮人活力 | - [**Dwarven Resilience**](Dwarven_Resilience.md "Dwarven Resilience") | - [**矮人韧性**](Dwarven_Resilience.md "矮人韧性") |
+| Gruntman.md | 192 | Prey Upon the Weak | 弱肉强食 | - [**Prey Upon the Weak**](Prey_Upon_the_Weak.md "Prey Upon the Weak") | - [**欺软怕硬**](Prey_Upon_the_Weak.md "欺软怕硬") |
+| Gruntman.md | 196 | Tactician | 硬核 | ## Tactician Difficulty Stats | ## 战术家难度属性 |
+| Gruntman.md | 214 | Proficiency | 熟练项 | ### Proficiency | ### 熟练 |
+| Gruntman.md | 226 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Gruntman.md | 234 | Perception | 察觉技能 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 运动 \| 体操 \| 感知 \| |
+| Gruntman.md | 252 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Gruntman.md | 256 | Dwarven Resilience | 矮人活力 | - [**Dwarven Resilience**](Dwarven_Resilience.md "Dwarven Resilience") | - [**矮人韧性**](Dwarven_Resilience.md "矮人韧性") |
+| Gruntman.md | 272 | Prey Upon the Weak | 弱肉强食 | - [**Prey Upon the Weak**](Prey_Upon_the_Weak.md "Prey Upon the Weak") | - [**欺软怕硬**](Prey_Upon_the_Weak.md "欺软怕硬") |
+| Gruntman.md | 290 | Reaper of Bhaal Gruntman | 巴尔之镰格伦特曼 | `Dwarf_Cultist_Bhaal_Reaper` **Reaper of Bhaal Gruntman** is a member of the [Cult of Bhaal](Cult_of_Bhaal.md "Cult of Bhaal"), found in the [Undercity Ruins](Undercity_Ruins.md "Undercity Ruins") wit | `Dwarf_Cultist_Bhaal_Reaper` **巴尔的收割者 Gruntman** 是[巴尔教团](Cult_of_Bhaal.md "巴尔教团")的一名成员，出现在[博德之门](Baldur_Gate.md "博德之门")[地下城废墟](Undercity_Ruins.md "地下城废墟")的[地下城](Undercity.md "地下城")中。 |
+| Gruntman.md | 290 | Undercity Ruins | 底城废墟 | `Dwarf_Cultist_Bhaal_Reaper` **Reaper of Bhaal Gruntman** is a member of the [Cult of Bhaal](Cult_of_Bhaal.md "Cult of Bhaal"), found in the [Undercity Ruins](Undercity_Ruins.md "Undercity Ruins") wit | `Dwarf_Cultist_Bhaal_Reaper` **巴尔的收割者 Gruntman** 是[巴尔教团](Cult_of_Bhaal.md "巴尔教团")的一名成员，出现在[博德之门](Baldur_Gate.md "博德之门")[地下城废墟](Undercity_Ruins.md "地下城废墟")的[地下城](Undercity.md "地下城")中。 |
+| Gruntman.md | 290 | Undercity | 底城区 | `Dwarf_Cultist_Bhaal_Reaper` **Reaper of Bhaal Gruntman** is a member of the [Cult of Bhaal](Cult_of_Bhaal.md "Cult of Bhaal"), found in the [Undercity Ruins](Undercity_Ruins.md "Undercity Ruins") wit | `Dwarf_Cultist_Bhaal_Reaper` **巴尔的收割者 Gruntman** 是[巴尔教团](Cult_of_Bhaal.md "巴尔教团")的一名成员，出现在[博德之门](Baldur_Gate.md "博德之门")[地下城废墟](Undercity_Ruins.md "地下城废墟")的[地下城](Undercity.md "地下城")中。 |
+| Gruntman.md | 294 | Farslayer of Bhaal Ghislev | 巴尔·吉斯利夫的弑神者 | As part of the "test" to enter the [Bhaal Temple](Bhaal_Temple.md "Bhaal Temple"), the [Farslayer of Bhaal Ghislev](Ghislev.md "Ghislev") surprises the party with a combat encounter. He begins casting | 作为进入[巴尔神殿](Bhaal_Temple.md "巴尔神殿")的"考验"的一部分，[巴尔的远视者吉斯莱夫](Ghislev.md "吉斯莱夫")会用一场战斗遭遇来突袭队伍。他开始施放一个仪式法术，在一定回合数后杀死队伍，而他的手下包括 Gruntman 会出现并攻击试图过桥阻止吉斯莱夫的队伍。 |
+| Gruntman.md | 300 | Murderous Cut | 凶残切割 | [Main Hand Attack](Main_Hand_Attack.md "Main Hand Attack") – [Murderous Cut](Murderous_Cut.md "Murderous Cut") | [主手攻击](Main_Hand_Attack.md "主手攻击") – [谋杀之刃](Murderous_Cut.md "谋杀之刃") |
+| Gruntman.md | 320 | Shroud Self | 自我藏匿 | [Shroud Self](Shroud_Self.md "Shroud Self") | [隐匿自身](Shroud_Self.md "隐匿自身") |
+| Gruntman.md | 329 | Murderous Cut | 凶残切割 | - [Murderous Cut](Murderous_Cut.md "Murderous Cut") | - [谋杀之刃](Murderous_Cut.md "谋杀之刃") |
 | Guardian_Gate.md | 14 | Sovereign Spaw | 蕈人王斯伯 | **Ebonlake Grotto** (also known as the **Myconid Colony**) is a [Location](Location.md "Location") within the [Underdark](Underdark.md "Underdark") in [Act One](Act_One.md "Act One") of [Baldur's Gate | **黑檀湖洞穴**（亦称**蕈人栖息地**）是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第一幕](Act_One.md "第一幕")中[幽暗地域](Underdark.md "Underdark")的一个[地点](Location.md "地点")。它是[蕈人](Myconid.md "蕈人")圆环的家园，这是一个由蕈人王[斯伯](Spaw.md "斯伯")领导的、形 |
 | Guardian_Gate.md | 14 | Myconid Circle | 蕈人圆环 | **Ebonlake Grotto** (also known as the **Myconid Colony**) is a [Location](Location.md "Location") within the [Underdark](Underdark.md "Underdark") in [Act One](Act_One.md "Act One") of [Baldur's Gate | **黑檀湖洞穴**（亦称**蕈人栖息地**）是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第一幕](Act_One.md "第一幕")中[幽暗地域](Underdark.md "Underdark")的一个[地点](Location.md "地点")。它是[蕈人](Myconid.md "蕈人")圆环的家园，这是一个由蕈人王[斯伯](Spaw.md "斯伯")领导的、形 |
 | Guardian_Gate.md | 32 | Giant | 巨人 | - [1.6 Giant Bird Nest](#giant-bird-nest) | - [1.6 巨鸟巢穴](#巨鸟巢穴) |
@@ -15731,6 +16336,304 @@
 | Guide_colon_Hair_Meshes.md | 226 | Cauldron | 大锅 | \| Cauldron Foam \| HAIR_HUM_MS_Afro_Short_A \| 361315b1-cb61-2ebb-0d3e-241bac8519f8 \|  \| | \| Cauldron Foam \| HAIR_HUM_MS_Afro_Short_A \| 361315b1-cb61-2ebb-0d3e-241bac8519f8 \|  \| |
 | Guide_colon_Hair_Meshes.md | 237 | Bardic Inspiration | 吟游诗人激励点 | \| Bardic Inspiration \| HAIR_HUM_M_Straight_Long_C_Spring \| a35b4354-5c1d-f299-e5d4-606cf11bf76f \|  \| | \| Bardic Inspiration \| HAIR_HUM_M_Straight_Long_C_Spring \| a35b4354-5c1d-f299-e5d4-606cf11bf76f \|  \| |
 | Guide_colon_Hair_Meshes.md | 247 | Helmet | 头盔 | ## Helmet Hairs | ## Helmet Hairs |
+| Guide_colon_Head_Models.md | 6 | Tiefling | 提夫林 | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M |
+| Guide_colon_Head_Models.md | 6 | Clothing | 服装 | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M |
+| Guide_colon_Head_Models.md | 6 | Custom | 自定义 | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M |
+| Guide_colon_Head_Models.md | 6 | Spell | 法术 | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M |
+| Guide_colon_Head_Models.md | 6 | Head | 头部 | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M |
+| Guide_colon_Head_Models.md | 6 | Head | 头部 | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M |
+| Guide_colon_Head_Models.md | 6 | Horn | 号角 | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M |
+| Guide_colon_Head_Models.md | 6 | Race | 种族 | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Body Models](Modding_colon_Body_Models.md "Modding:Body Models") [Custom polymorph](M |
+| Guide_colon_Head_Models.md | 8 | Equipment | 装备 | [BG3 Mini Tool](Modding_colon_BG3_Mini_Tool.md "Modding:BG3 Mini Tool") [Blender Export Settings](Modding_colon_Blender_Export_Settings.md "Modding:Blender Export Settings") [Code Snippets](Modding_co | [BG3 Mini Tool](Modding_colon_BG3_Mini_Tool.md "Modding:BG3 Mini Tool") [Blender Export Settings](Modding_colon_Blender_Export_Settings.md "Modding:Blender Export Settings") [Code Snippets](Modding_co |
+| Guide_colon_Head_Models.md | 10 | Custom | 自定义 | [Creating Custom Hair with Hair Tool](Modding_colon_Creating_Custom_Hair_with_Hair_Tool.md "Modding:Creating Custom Hair with Hair Tool") [Creating hair merged.lsf with custom texture](Modding_colon_C | [Creating Custom Hair with Hair Tool](Modding_colon_Creating_Custom_Hair_with_Hair_Tool.md "Modding:Creating Custom Hair with Hair Tool") [Creating hair merged.lsf with custom texture](Modding_colon_C |
+| Guide_colon_Head_Models.md | 10 | Custom | 自定义 | [Creating Custom Hair with Hair Tool](Modding_colon_Creating_Custom_Hair_with_Hair_Tool.md "Modding:Creating Custom Hair with Hair Tool") [Creating hair merged.lsf with custom texture](Modding_colon_C | [Creating Custom Hair with Hair Tool](Modding_colon_Creating_Custom_Hair_with_Hair_Tool.md "Modding:Creating Custom Hair with Hair Tool") [Creating hair merged.lsf with custom texture](Modding_colon_C |
+| Guide_colon_Head_Models.md | 11 | Head | 头部 | Head modding | Head modding |
+| Guide_colon_Head_Models.md | 12 | Head | 头部 | [Creating meta.lsx](Modding_colon_Creating_meta.lsx.md "Modding:Creating meta.lsx") [Face and body textures](Modding_colon_Face_and_body_textures.md "Modding:Face and body textures") [Fixing neck seam | [Creating meta.lsx](Modding_colon_Creating_meta.lsx.md "Modding:Creating meta.lsx") [Face and body textures](Modding_colon_Face_and_body_textures.md "Modding:Face and body textures") [Fixing neck seam |
+| Guide_colon_Head_Models.md | 12 | Head | 头部 | [Creating meta.lsx](Modding_colon_Creating_meta.lsx.md "Modding:Creating meta.lsx") [Face and body textures](Modding_colon_Face_and_body_textures.md "Modding:Face and body textures") [Fixing neck seam | [Creating meta.lsx](Modding_colon_Creating_meta.lsx.md "Modding:Creating meta.lsx") [Face and body textures](Modding_colon_Face_and_body_textures.md "Modding:Face and body textures") [Fixing neck seam |
+| Guide_colon_Head_Models.md | 12 | Head | 头部 | [Creating meta.lsx](Modding_colon_Creating_meta.lsx.md "Modding:Creating meta.lsx") [Face and body textures](Modding_colon_Face_and_body_textures.md "Modding:Face and body textures") [Fixing neck seam | [Creating meta.lsx](Modding_colon_Creating_meta.lsx.md "Modding:Creating meta.lsx") [Face and body textures](Modding_colon_Face_and_body_textures.md "Modding:Face and body textures") [Fixing neck seam |
+| Guide_colon_Head_Models.md | 12 | Head | 头部 | [Creating meta.lsx](Modding_colon_Creating_meta.lsx.md "Modding:Creating meta.lsx") [Face and body textures](Modding_colon_Face_and_body_textures.md "Modding:Face and body textures") [Fixing neck seam | [Creating meta.lsx](Modding_colon_Creating_meta.lsx.md "Modding:Creating meta.lsx") [Face and body textures](Modding_colon_Face_and_body_textures.md "Modding:Face and body textures") [Fixing neck seam |
+| Guide_colon_Head_Models.md | 13 | Weapons | 武器 | Item modding - Armours, Outfits, Weapons etc. | Item modding - Armours, Outfits, Weapons etc. |
+| Guide_colon_Head_Models.md | 14 | Clothing | 服装 | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Coding An Item](Modding_colon_Coding_An_Item.md "Modding:Coding An Item") [Creating a | [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps") [Coding An Item](Modding_colon_Coding_An_Item.md "Modding:Coding An Item") [Creating a |
+| Guide_colon_Head_Models.md | 15 | Race | 种族 | Race/class modding | Race/class modding |
+| Guide_colon_Head_Models.md | 16 | Race | 种族 | [Creating Race Mods](Modding_colon_Creating_Race_Mods.md "Modding:Creating Race Mods") [Editing a Character Creation Preset](Modding_colon_Editing_a_Character_Creation_Preset.md "Modding:Editing a Cha | [Creating Race Mods](Modding_colon_Creating_Race_Mods.md "Modding:Creating Race Mods") [Editing a Character Creation Preset](Modding_colon_Editing_a_Character_Creation_Preset.md "Modding:Editing a Cha |
+| Guide_colon_Head_Models.md | 22 | Equipment | 装备 | \| [Modding guides](Category_colon_Modding.md "Category:Modding") \| [BG3 Mini Tool](Modding_colon_BG3_Mini_Tool.md "Modding:BG3 Mini Tool") [Blender Export Settings](Modding_colon_Blender_Export_Settin | \| [Modding guides](Category_colon_Modding.md "Category:Modding") \| [BG3 Mini Tool](Modding_colon_BG3_Mini_Tool.md "Modding:BG3 Mini Tool") [Blender Export Settings](Modding_colon_Blender_Export_Settin |
+| Guide_colon_Head_Models.md | 23 | Tiefling | 提夫林 | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" |
+| Guide_colon_Head_Models.md | 23 | Clothing | 服装 | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" |
+| Guide_colon_Head_Models.md | 23 | Custom | 自定义 | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" |
+| Guide_colon_Head_Models.md | 23 | Spell | 法术 | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" |
+| Guide_colon_Head_Models.md | 23 | Head | 头部 | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" |
+| Guide_colon_Head_Models.md | 23 | Head | 头部 | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" |
+| Guide_colon_Head_Models.md | 23 | Horn | 号角 | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" |
+| Guide_colon_Head_Models.md | 23 | Race | 种族 | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" | \| [Modding resources](Modding_colon_Modding_resources.md "Modding:Modding resources") \| [Armor/Clothing Texture Maps](Modding_colon_Armor/Clothing_Texture_Maps.md "Modding:Armor/Clothing Texture Maps" |
+| Guide_colon_Head_Models.md | 55 | Characters | 角色 | Fem Dragonborn's .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Female\\Resources_ | 雌性龙裔的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 55 | Resources | 资源 | Fem Dragonborn's .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Female\\Resources_ | 雌性龙裔的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 57 | Characters | 角色 | Fem Dragonborn's Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Female_ | 雌性龙裔的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Female_ |
+| Guide_colon_Head_Models.md | 61 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 62 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 63 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 64 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 66 | Characters | 角色 | Masc Dragonborn's .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Male\\Resources_ | 雄性龙裔的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Male\\Resources_ |
+| Guide_colon_Head_Models.md | 66 | Resources | 资源 | Masc Dragonborn's .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Male\\Resources_ | 雄性龙裔的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Male\\Resources_ |
+| Guide_colon_Head_Models.md | 68 | Characters | 角色 | Masc Dragonborn's Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Male_ | 雄性龙裔的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Dragonborn\\_Male_ |
+| Guide_colon_Head_Models.md | 72 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 73 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 74 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 75 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 79 | Characters | 角色 | Fem Dwarves .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Dwarves\\_Female\\Resources_ | 雌性矮人的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Dwarves\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 79 | Resources | 资源 | Fem Dwarves .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Dwarves\\_Female\\Resources_ | 雌性矮人的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Dwarves\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 81 | Characters | 角色 | Fem Dwarves Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Dwarves\\_Female_ | 雌性矮人的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Dwarves\\_Female_ |
+| Guide_colon_Head_Models.md | 83 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 85 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 86 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 87 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 88 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 89 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 90 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 91 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 92 | Head | 头部 | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| |
+| Guide_colon_Head_Models.md | 94 | Characters | 角色 | Masc Dwarves Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Dwarves\\_Male_ | 雄性矮人的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Dwarves\\_Male_ |
+| Guide_colon_Head_Models.md | 96 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 98 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 99 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 100 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 101 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 102 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 103 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 105 | Characters | 角色 | Fem Elves/Drow .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Female\\Resources_ | 雌性精灵/卓尔的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 105 | Resources | 资源 | Fem Elves/Drow .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Female\\Resources_ | 雌性精灵/卓尔的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 107 | Characters | 角色 | Fem Elves/Drow Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Female_ | 雌性精灵/卓尔的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Female_ |
+| Guide_colon_Head_Models.md | 109 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 111 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 112 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 113 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 114 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 115 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 116 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 117 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 118 | Head | 头部 | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| |
+| Guide_colon_Head_Models.md | 120 | Characters | 角色 | Fem Strong Elves/Drow Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Elves\\_FemaleStrong_ | 雌性强壮精灵/卓尔的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Elves\\_FemaleStrong_ |
+| Guide_colon_Head_Models.md | 124 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 125 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 126 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 127 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 128 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 129 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 130 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 131 | Head | 头部 | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| |
+| Guide_colon_Head_Models.md | 133 | Characters | 角色 | Masc Elves/Drow .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Male\\Resources_ | 雄性精灵/卓尔的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Male\\Resources_ |
+| Guide_colon_Head_Models.md | 133 | Resources | 资源 | Masc Elves/Drow .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Male\\Resources_ | 雄性精灵/卓尔的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Male\\Resources_ |
+| Guide_colon_Head_Models.md | 135 | Characters | 角色 | Masc Elves/Drow Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Male_ | 雄性精灵/卓尔的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Elves\\_Male_ |
+| Guide_colon_Head_Models.md | 137 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 139 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 140 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 141 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 142 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 143 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 144 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 145 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 147 | Characters | 角色 | Masc Strong Elves/Drow Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Elves\\_MaleStrong_ | 雄性强壮精灵/卓尔的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Elves\\_MaleStrong_ |
+| Guide_colon_Head_Models.md | 149 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 151 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 152 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 153 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 154 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 155 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 156 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 157 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 159 | Characters | 角色 | Fem Githyanki .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Githyanki\\_Female\\Resources_ | ## 吉斯洋基人 |
+| Guide_colon_Head_Models.md | 159 | Resources | 资源 | Fem Githyanki .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Githyanki\\_Female\\Resources_ | ## 吉斯洋基人 |
+| Guide_colon_Head_Models.md | 161 | Characters | 角色 | Fem Githyanki Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Githyanki\\_Female_ | 雌性吉斯洋基人的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Githyanki\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 163 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | 雌性吉斯洋基人的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Githyanki\\_Female_ |
+| Guide_colon_Head_Models.md | 165 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 166 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 167 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 168 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 169 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 170 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 171 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 173 | Characters | 角色 | Masc Githyanki Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Githyanki\\_Male_ | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 175 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | 雄性吉斯洋基人的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Githyanki\\_Male_ |
+| Guide_colon_Head_Models.md | 177 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 178 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 179 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 180 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 181 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 182 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 183 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 184 | Head | 头部 | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 185 | Head | 头部 | \| Head 9 \| HUM_FS_NKD_Head_J_Remap \| cf3981a4-98d1-7805-6f97-33f3d0780abb \| 81446c99-495e-f87a-9e3a-cba9e6d9c214 \| 680a5468-53d0-85a6-1c82-aeecb4648d82 \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 187 | Characters | 角色 | Fem Gnomes .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Gnomes\\_Female\\Resources_ | \| Head 9 \| HUM_FS_NKD_Head_J_Remap \| cf3981a4-98d1-7805-6f97-33f3d0780abb \| 81446c99-495e-f87a-9e3a-cba9e6d9c214 \| 680a5468-53d0-85a6-1c82-aeecb4648d82 \|  \| |
+| Guide_colon_Head_Models.md | 187 | Resources | 资源 | Fem Gnomes .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Gnomes\\_Female\\Resources_ | \| Head 9 \| HUM_FS_NKD_Head_J_Remap \| cf3981a4-98d1-7805-6f97-33f3d0780abb \| 81446c99-495e-f87a-9e3a-cba9e6d9c214 \| 680a5468-53d0-85a6-1c82-aeecb4648d82 \|  \| |
+| Guide_colon_Head_Models.md | 189 | Characters | 角色 | Fem Gnomes Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Gnomes\\_Female_ | ## 侏儒 |
+| Guide_colon_Head_Models.md | 191 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | 雌性侏儒的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Gnomes\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 193 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | 雌性侏儒的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Gnomes\\_Female_ |
+| Guide_colon_Head_Models.md | 194 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |  |
+| Guide_colon_Head_Models.md | 195 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 196 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 197 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 198 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 200 | Characters | 角色 | Masc Gnomes Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Gnomes\\_Male_ | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 202 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 204 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | 雄性侏儒的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Gnomes\\_Male_ |
+| Guide_colon_Head_Models.md | 205 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |  |
+| Guide_colon_Head_Models.md | 206 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 207 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 208 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 210 | Characters | 角色 | Fem Half-Elves .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Female\\Resources_ | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 210 | Resources | 资源 | Fem Half-Elves .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Female\\Resources_ | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 212 | Characters | 角色 | Fem Half-Elves Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Female_ | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 214 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | ## 半精灵 |
+| Guide_colon_Head_Models.md | 216 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | 雌性半精灵的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 217 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |  |
+| Guide_colon_Head_Models.md | 218 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | 雌性半精灵的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Female_ |
+| Guide_colon_Head_Models.md | 219 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |  |
+| Guide_colon_Head_Models.md | 220 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 221 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 222 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 224 | Characters | 角色 | Fem Strong Half-Elves Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfElves\\_FemaleStrong_ | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 226 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 228 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 229 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |  |
+| Guide_colon_Head_Models.md | 230 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | 雌性强壮半精灵的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfElves\\_FemaleStrong_ |
+| Guide_colon_Head_Models.md | 231 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |  |
+| Guide_colon_Head_Models.md | 232 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 233 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 234 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 236 | Characters | 角色 | Masc Half-Elves .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Male\\Resources_ | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 236 | Resources | 资源 | Masc Half-Elves .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Male\\Resources_ | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 238 | Characters | 角色 | Masc Half-Elves Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Male_ | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 240 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 242 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | 雄性半精灵的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Male\\Resources_ |
+| Guide_colon_Head_Models.md | 243 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |  |
+| Guide_colon_Head_Models.md | 244 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | 雄性半精灵的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Male_ |
+| Guide_colon_Head_Models.md | 245 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |  |
+| Guide_colon_Head_Models.md | 246 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 247 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 249 | Characters | 角色 | Masc Strong Half-Elves Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfElves\\_MaleStrong_ | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 251 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 253 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 254 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |  |
+| Guide_colon_Head_Models.md | 255 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | 雄性强壮半精灵的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfElves\\_MaleStrong_ |
+| Guide_colon_Head_Models.md | 256 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |  |
+| Guide_colon_Head_Models.md | 257 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 258 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 260 | Characters | 角色 | Fem Halflings .GR2s are located in UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Female\\Resources | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 260 | Resources | 资源 | Fem Halflings .GR2s are located in UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Female\\Resources | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 262 | Characters | 角色 | Fem Halflings Base .GR2s are located in UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Female | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 264 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 266 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | ## 半身人 |
+| Guide_colon_Head_Models.md | 267 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |  |
+| Guide_colon_Head_Models.md | 268 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | 雌性半身人的.GR2文件位于 UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Female\\Resources |
+| Guide_colon_Head_Models.md | 269 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |  |
+| Guide_colon_Head_Models.md | 270 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | 雌性半身人的基础.GR2文件位于 UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Female |
+| Guide_colon_Head_Models.md | 271 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |  |
+| Guide_colon_Head_Models.md | 273 | Characters | 角色 | Masc Halflings Base .GR2s are located in UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Male | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 275 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 277 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 278 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 279 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 280 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |  |
+| Guide_colon_Head_Models.md | 281 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | 雄性半身人的基础.GR2文件位于 UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Male |
+| Guide_colon_Head_Models.md | 282 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |  |
+| Guide_colon_Head_Models.md | 284 | Characters | 角色 | Fem Half-Orcs .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Female\\Resources_ except for HRC_F_NKD_Head_C which is located in \_Un | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 284 | Characters | 角色 | Fem Half-Orcs .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Female\\Resources_ except for HRC_F_NKD_Head_C which is located in \_Un | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 284 | Resources | 资源 | Fem Half-Orcs .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Female\\Resources_ except for HRC_F_NKD_Head_C which is located in \_Un | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 284 | Resources | 资源 | Fem Half-Orcs .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Female\\Resources_ except for HRC_F_NKD_Head_C which is located in \_Un | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 286 | Characters | 角色 | Fem Half-Orcs Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Female_ | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 288 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 290 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 291 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |  |
+| Guide_colon_Head_Models.md | 292 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | ## 半兽人 |
+| Guide_colon_Head_Models.md | 293 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |  |
+| Guide_colon_Head_Models.md | 294 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | 雌性半兽人的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Female\\Resources_，但 HRC_F_NKD_Head_C 位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\ |
+| Guide_colon_Head_Models.md | 295 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |  |
+| Guide_colon_Head_Models.md | 297 | Characters | 角色 | Masc Half-Orcs Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Male_ |  |
+| Guide_colon_Head_Models.md | 299 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 301 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 302 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 303 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 304 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 305 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 307 | Characters | 角色 | Fem Humans .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_Female\\Resources_ | 雄性半兽人的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Male_ |
+| Guide_colon_Head_Models.md | 307 | Resources | 资源 | Fem Humans .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_Female\\Resources_ | 雄性半兽人的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Male_ |
+| Guide_colon_Head_Models.md | 309 | Characters | 角色 | Fem Humans Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_Female_ | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 311 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 313 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 314 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 315 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 316 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |  |
+| Guide_colon_Head_Models.md | 317 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | ## 人类 |
+| Guide_colon_Head_Models.md | 318 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |  |
+| Guide_colon_Head_Models.md | 319 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | 雌性人类的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_Female\\Resources_ |
+| Guide_colon_Head_Models.md | 320 | Head | 头部 | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| |  |
+| Guide_colon_Head_Models.md | 321 | Head | 头部 | \| Head 9 \| HUM_FS_NKD_Head_J_Remap \| cf3981a4-98d1-7805-6f97-33f3d0780abb \| 81446c99-495e-f87a-9e3a-cba9e6d9c214 \| 680a5468-53d0-85a6-1c82-aeecb4648d82 \|  \| | 雌性人类的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_Female_ |
+| Guide_colon_Head_Models.md | 322 | Head | 头部 | \| Head 10 \| HUM_FS_NKD_Head_K_Remap \| d8fa6947-8595-d6e7-ea77-ccf70e0c34cf \| bdb393a4-38ac-5c6d-b9d7-2f55016cc4de \| 0d193b9c-56fa-db4f-00b0-516979913d54 \|  \| |  |
+| Guide_colon_Head_Models.md | 324 | Characters | 角色 | Fem Strong Humans Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Humans\\_FemaleStrong_ | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 326 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 328 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 329 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 330 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 331 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 332 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| |
+| Guide_colon_Head_Models.md | 333 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 9 \| HUM_FS_NKD_Head_J_Remap \| cf3981a4-98d1-7805-6f97-33f3d0780abb \| 81446c99-495e-f87a-9e3a-cba9e6d9c214 \| 680a5468-53d0-85a6-1c82-aeecb4648d82 \|  \| |
+| Guide_colon_Head_Models.md | 334 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 10 \| HUM_FS_NKD_Head_K_Remap \| d8fa6947-8595-d6e7-ea77-ccf70e0c34cf \| bdb393a4-38ac-5c6d-b9d7-2f55016cc4de \| 0d193b9c-56fa-db4f-00b0-516979913d54 \|  \| |
+| Guide_colon_Head_Models.md | 335 | Head | 头部 | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| |  |
+| Guide_colon_Head_Models.md | 336 | Head | 头部 | \| Head 9 \| HUM_FS_NKD_Head_J_Remap \| cf3981a4-98d1-7805-6f97-33f3d0780abb \| 81446c99-495e-f87a-9e3a-cba9e6d9c214 \| 680a5468-53d0-85a6-1c82-aeecb4648d82 \|  \| | 雌性强壮人类的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Humans\\_FemaleStrong_ |
+| Guide_colon_Head_Models.md | 337 | Head | 头部 | \| Head 10 \| HUM_FS_NKD_Head_K_Remap \| d8fa6947-8595-d6e7-ea77-ccf70e0c34cf \| bdb393a4-38ac-5c6d-b9d7-2f55016cc4de \| 0d193b9c-56fa-db4f-00b0-516979913d54 \|  \| |  |
+| Guide_colon_Head_Models.md | 339 | Characters | 角色 | Masc Humans Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_Male_ | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 341 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 343 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 344 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 345 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 346 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 347 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| |
+| Guide_colon_Head_Models.md | 348 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 9 \| HUM_FS_NKD_Head_J_Remap \| cf3981a4-98d1-7805-6f97-33f3d0780abb \| 81446c99-495e-f87a-9e3a-cba9e6d9c214 \| 680a5468-53d0-85a6-1c82-aeecb4648d82 \|  \| |
+| Guide_colon_Head_Models.md | 349 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 10 \| HUM_FS_NKD_Head_K_Remap \| d8fa6947-8595-d6e7-ea77-ccf70e0c34cf \| bdb393a4-38ac-5c6d-b9d7-2f55016cc4de \| 0d193b9c-56fa-db4f-00b0-516979913d54 \|  \| |
+| Guide_colon_Head_Models.md | 350 | Head | 头部 | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| |  |
+| Guide_colon_Head_Models.md | 352 | Characters | 角色 | Masc Strong Humans Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Humans\\_MaleStrong_ except for HUM_MS_NKD_Head_A_Base which is located in \_Unpack |  |
+| Guide_colon_Head_Models.md | 352 | Characters | 角色 | Masc Strong Humans Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Humans\\_MaleStrong_ except for HUM_MS_NKD_Head_A_Base which is located in \_Unpack |  |
+| Guide_colon_Head_Models.md | 354 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 356 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 357 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 358 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 359 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 360 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 361 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 362 | Head | 头部 | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| | \| Head 8 \| HUM_M_NKD_Head_I \| c83c89d8-1da4-ae02-12ce-2405dc4fb079 \| 4c3b657d-90a6-433c-3a60-83dd3ef9f079 \| fb179099-a163-ac43-b3da-e4364a89d104 \|  \| |
+| Guide_colon_Head_Models.md | 364 | Characters | 角色 | Fem Tieflings .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Tieflings\\_Female\\Resources_ | 雄性强壮人类的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Humans\\_MaleStrong_，但 HUM_MS_NKD_Head_A_Base 位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\ |
+| Guide_colon_Head_Models.md | 364 | Resources | 资源 | Fem Tieflings .GR2s are located in \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Tieflings\\_Female\\Resources_ | 雄性强壮人类的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Humans\\_MaleStrong_，但 HUM_MS_NKD_Head_A_Base 位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\ |
+| Guide_colon_Head_Models.md | 366 | Characters | 角色 | Fem Tieflings Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Tieflings\\_Female_ | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 368 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 370 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 371 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| |
+| Guide_colon_Head_Models.md | 372 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 373 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |
+| Guide_colon_Head_Models.md | 374 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 7 \| HUM_MS_NKD_Head_H_Remap \| 616753a1-1d1e-717a-51b0-f455b2477aeb \| a42d0e99-4da4-57e7-3594-eda0d9f32748 \| 3d9c617f-7909-52af-f922-d6e91bad7514 \|  \| |
+| Guide_colon_Head_Models.md | 375 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| |  |
+| Guide_colon_Head_Models.md | 377 | Characters | 角色 | Fem Strong Tieflings Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Tieflings\\_FemaleStrong_ |  |
+| Guide_colon_Head_Models.md | 379 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| |  |
+| Guide_colon_Head_Models.md | 381 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |  |
+| Guide_colon_Head_Models.md | 382 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 383 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 384 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 385 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 386 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 388 | Characters | 角色 | Masc Tieflings Base .GR2s are located in \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Tieflings\\_Male_ | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 390 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| |  |
+| Guide_colon_Head_Models.md | 392 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |  |
+| Guide_colon_Head_Models.md | 393 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 394 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 395 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 396 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 397 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
+| Guide_colon_Head_Models.md | 399 | Characters | 角色 | Masc Strong Tieflings Base .GR2s are located in \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Tieflings\\_MaleStrong_ | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| |
+| Guide_colon_Head_Models.md | 401 | Material | 材料成分 | \| CC Name \| Asset Name \| VisualResourceID \| SkeletonResource \| face texture Material UUID \| Image \| |  |
+| Guide_colon_Head_Models.md | 403 | Head | 头部 | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |  |
+| Guide_colon_Head_Models.md | 404 | Head | 头部 | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| | \| CC名称 \| 资产名称 \| VisualResourceID \| SkeletonResource \| 面部纹理材质UUID \| 图像 \| |
+| Guide_colon_Head_Models.md | 405 | Head | 头部 | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| | \| --- \| --- \| --- \| --- \| --- \| --- \| |
+| Guide_colon_Head_Models.md | 406 | Head | 头部 | \| Head 4 \| TIF_MS_NKD_Head_D_Remap \| d3dbf612-e578-df5e-1789-7aeb17789e59 \| 842a1ac5-aea8-b552-2f2f-c592d1db4465 \| c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf \|  \| | \| Head 1 \| TIF_MS_NKD_Head_A_Remap \| ae17209c-eec6-7b07-ead7-006e0795e437 \| 054a373e-4d81-2c4c-105f-f63b4ac069e6 \| d52df711-ce43-6f4f-0e0c-e89cce5114be \|  \| |
+| Guide_colon_Head_Models.md | 407 | Head | 头部 | \| Head 5 \| TIF_MS_NKD_Head_E_Remap \| 46560c3c-972d-a718-6028-95d5e9de2cdd \| fe70346b-935f-8d4d-e0b1-b4a52b1eab00 \| 32cb9df2-603a-d194-5a90-30fc34c3504b \|  \| | \| Head 2 \| TIF_MS_NKD_Head_B_Remap \| 34af1a95-3409-bc01-12f8-74449ad3a717 \| 32783039-b63e-e32b-1e6a-5dbd8c5ae802 \| 6d121933-fe8d-7fc3-e32c-6c525c71363d \|  \| |
+| Guide_colon_Head_Models.md | 408 | Head | 头部 | \| Head 6 \| TIF_MS_NKD_Head_F_Remap \| 17edccb4-d0d4-f6b8-de73-8521b1f77732 \| 8888119a-9fa2-33b8-1929-306611435be2 \| 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 \|  \| | \| Head 3 \| TIF_MS_NKD_Head_C_Remap \| d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 \| 9fd56a32-bf3a-b441-aec5-425470068a8b \| 2dc02eef-402b-d7eb-3417-2457925f84fc \|  \| |
 | Guide_colon_Mirror_of_Loss.md | 13 | Bardic Inspiration | 吟游诗人激励点 | General spell and class-specific buffs to checks like [Guidance](Guidance.md "Guidance"), [Enhance Ability](Enhance_Ability.md "Enhance Ability"), and [Bardic Inspiration](Bardic_Inspiration_(class_ac | 通用法术和职业特定的检定增益，如[神导术](Guidance.md "Guidance")、[强化属性](Enhance_Ability.md "Enhance Ability")和[吟游诗人激励](Bardic_Inspiration_(class_action).md) 在此也尤为有效。 |
 | Guide_colon_Multiclassing_Guide_by_Phantomsplit.md | 21 | Level | 等级 | - [3.8 3rd Level Spells](#3rd_Level_Spells) | - [3.8 3环法术](#3环法术) |
 | Guide_colon_Multiclassing_Guide_by_Phantomsplit.md | 23 | Champion | 冠军勇士 | - [4.1 Crit Fishing Half Orc - Barbarian 9/Champion Fighter 3](#crit-fishing-half-orc--_Barbarian_9/Champion_Fighter_3) | - [4.1 暴击流半兽人 - 野蛮人9/冠军战士3](#暴击流半兽人---野蛮人9-冠军战士3) |
@@ -15844,6 +16747,56 @@
 | Guide_colon_Unpacking_and_Converting_Files.md | 109 | Gustav | 古斯塔夫 | Most files from **Gustav.pak** and **Shared.pak**. Modders Multitool can convert them to readable .lsx. Once you are done unpacking the files, you need to click **Decompress Files** and wait for the f | 来自 **Gustav.pak** 和 **Shared.pak** 的大多数文件。Modders Multitool可以将它们转换为可读的 .lsx。解包文件完成后，您需要单击**解压文件**并等待文件自动转换。 |
 | Guide_colon_Unpacking_and_Converting_Files.md | 124 | channel | 引导 | If you need to import textures into other programs or engines (Substance Painter, Blender, Unreal, Unity), it's best to save them in Targa (.tga) format. This will leave the alpha channel intact. | 如果您需要将纹理导入其他程序或引擎（Substance Painter、Blender、Unreal、Unity），最好将它们保存为Targa (.tga) 格式。这将保留alpha通道。 |
 | Guide_colon_Unpacking_and_Converting_Files.md | 132 | Hunter | 猎人 | Audio files from **Voice.pak**. For `.wem` you will need [Automatic .wem to .ogg Converter](https://www.nexusmods.com/monsterhunterworld/mods/1912?tab=description) script from Nexus Mods. It is made f | 来自 **Voice.pak** 的音频文件。对于 `.wem`，您需要来自Nexus Mods的 [Automatic .wem to .ogg Converter](https://www.nexusmods.com/monsterhunterworld/mods/1912?tab=description) 脚本。它是为Monster Hunter: World制作的，但与BG3文件完美兼容。 |
+| Guide_colon_Where_To_Find_Equipment.md | 9 | Debtor's Attire | 负债者着装 | - While wearing this item, eternal debtors in the House of Hope will remain neutral towards the party. If any party members are seen in the House of Hope without the Debtor's Attire, eternal debtors w | - 穿戴此物品时，希望之邸中的永恒债务人将对队伍保持中立。如果任何队伍成员在希望之邸中被发现未穿戴债务人服装，永恒债务人将对整个队伍变得敌对。 |
+| Guide_colon_Where_To_Find_Equipment.md | 19 | Debtor's Attire | 负债者着装 | - While wearing this item, eternal debtors in the House of Hope will remain neutral towards the party. If any party members are seen in the House of Hope without the Debtor's Attire, eternal debtors w | - 穿戴此物品时，希望之邸中的永恒债务人将对队伍保持中立。如果任何队伍成员在希望之邸中被发现未穿戴债务人服装，永恒债务人将对整个队伍变得敌对。 |
+| Guide_colon_Where_To_Find_Equipment.md | 37 | Protection | 守护 | [Protection from Missiles](Protection_from_Missiles.md "Protection from Missiles") | [防护投射物](Protection_from_Missiles.md "防护投射物") |
+| Guide_colon_Where_To_Find_Equipment.md | 42 | Attack Rolls | 攻击掷骰 | Touch your amulet to subsume a sliver of the knowledge of the gith. You gain [Advantage](Advantage.md "Advantage") on [Attack Rolls](Attack_rolls.md "Attack Rolls") against [aberrations](List_of_creat | 触碰你的护符以吸收吉斯人知识的一小部分。你对[异怪](List_of_creature_types.md#Aberration "生物类型列表")的[攻击检定](Attack_rolls.md "攻击检定")具有[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。） |
+| Guide_colon_Where_To_Find_Equipment.md | 42 | Touch | 按钮 | Touch your amulet to subsume a sliver of the knowledge of the gith. You gain [Advantage](Advantage.md "Advantage") on [Attack Rolls](Attack_rolls.md "Attack Rolls") against [aberrations](List_of_creat | 触碰你的护符以吸收吉斯人知识的一小部分。你对[异怪](List_of_creature_types.md#Aberration "生物类型列表")的[攻击检定](Attack_rolls.md "攻击检定")具有[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。） |
+| Guide_colon_Where_To_Find_Equipment.md | 170 | Last Light Inn | 终焉光芒旅店 | \| Sold by [Quartermaster Talli](Quartermaster_Talli.md "Quartermaster Talli") near the Last Light Inn waypoint \| Amulets \| | \| 由[军需官塔利](Quartermaster_Talli.md "军需官塔利")在末光旅店传送点附近出售 \| 护符 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 195 | Lower City Central Wall | 下城主墙 | \| Sold by [Gloomy Fentonson](Gloomy_Fentonson.md "Gloomy Fentonson"), near the [Lower City Central Wall](Lower_City.md#Waypoints "Lower City") [waypoint](Ancient_Sigil_Circle.md "Ancient Sigil Circle" | \| 由[沮丧的芬东森](Gloomy_Fentonson.md "沮丧的芬东森")在[下城区](Lower_City.md#Waypoints "下城区")[传送点](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 \| 中甲 \| 中甲 \| 17 \| \| [崇敬之甲](Armour_of_Devotion.md "崇敬之甲") \| |
+| Guide_colon_Where_To_Find_Equipment.md | 387 | Breastplate +2 | 胸甲 + 2 | \| [Breastplate +1](Breastplate_+1.md "Breastplate +1") \| \| On crate near [Dammon](Dammon.md "Dammon") in the [The Hollow](The_Hollow.md "The Hollow") \| Medium Armour \| Medium Armour \| 15 \| \| [Breastpl | \| [胸甲 +1](Breastplate_+1.md "胸甲 +1") \| \| 在[空谷](The_Hollow.md "空谷")[戴摩](Dammon.md "戴摩")附近的板条箱上 \| 中甲 \| 中甲 \| 15 \| \| [胸甲 +2](Breastplate_+2.md "胸甲 +2") \| \| 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Trader |
+| Guide_colon_Where_To_Find_Equipment.md | 416 | Hideout | 藏身点 | \| [Cerebral Citadel Armour](Cerebral_Citadel_Armour.md "Cerebral Citadel Armour") \| \| In a wardrobe during the quest [Visit the Emperor's Old Hideout](Visit_the_Emperor's_Old_Hideout.md "Visit the Emp | \| [额叶堡垒护甲](Cerebral_Citadel_Armour.md "额叶堡垒护甲") \| \| 在任务[拜访皇帝的旧藏身处](Visit_the_Emperor's_Old_Hideout.md "拜访皇帝的旧藏身处")期间在衣柜中 \| 重甲 \| 重甲 \| 18 \| \| [额叶堡垒手套](Cerebral_Citadel_Gloves.md "额叶堡垒手套") \| |
+| Guide_colon_Where_To_Find_Equipment.md | 420 | Hideout | 藏身点 | \| In a wardrobe during the quest [Visit the Emperor's Old Hideout](Visit_the_Emperor's_Old_Hideout.md "Visit the Emperor's Old Hideout") \| Gloves \| | \| 在任务[拜访皇帝的旧藏身处](Visit_the_Emperor's_Old_Hideout.md "拜访皇帝的旧藏身处")期间在衣柜中 \| 手套 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 441 | Protection | 守护 | [Protection from Missiles](Protection_from_Missiles.md "Protection from Missiles") | [防护投射物](Protection_from_Missiles.md "防护投射物") |
+| Guide_colon_Where_To_Find_Equipment.md | 443 | Last Light Inn | 终焉光芒旅店 | \| Sold by [Quartermaster Talli](Talli.md "Talli") near the Last Light Inn waypoint \| Gloves \| | \| 由[军需官塔利](Talli.md "塔利")在末光旅店传送点附近出售 \| 手套 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 473 | Inquisitor's Chamber | 审判官的房间 | \| [Circlet of Psionic Revenge](Circlet_of_Psionic_Revenge.md "Circlet of Psionic Revenge") \| \| Carried by Githyanki Inquisitor [Ch'r'ai W'wargaz](W'wargaz.md "W'wargaz") in the Inquisitor's Chamber \|  | \| [异能复仇饰环](Circlet_of_Psionic_Revenge.md "异能复仇饰环") \| \| 由吉斯洋基审判官[审判官瓦尔'戈兹](W'wargaz.md "瓦尔'戈兹")在审判官大厅携带 \| 头盔 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 473 | Githyanki | 吉斯洋基人 | \| [Circlet of Psionic Revenge](Circlet_of_Psionic_Revenge.md "Circlet of Psionic Revenge") \| \| Carried by Githyanki Inquisitor [Ch'r'ai W'wargaz](W'wargaz.md "W'wargaz") in the Inquisitor's Chamber \|  | \| [异能复仇饰环](Circlet_of_Psionic_Revenge.md "异能复仇饰环") \| \| 由吉斯洋基审判官[审判官瓦尔'戈兹](W'wargaz.md "瓦尔'戈兹")在审判官大厅携带 \| 头盔 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 497 | Last Light Inn | 终焉光芒旅店 | \| Sold by [Quartermaster Talli](Talli.md "Talli") near the Last Light Inn waypoint \| Cloaks \| | \| 由[军需官塔利](Talli.md "塔利")在末光旅店传送点附近出售 \| 披风 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 607 | Underdark - Ancient Forge | 幽暗地域 —— 古代熔炉 | \| On the skeletal remains of Dark Justiciars, north east of the _Underdark - Ancient Forge_ waypoint and south of the heavy splint mold \| Helmets \| Medium Armour \| | \| 在幽暗地域 - 远古熔炉传送点东北方向、重板甲模具南侧的暗夜法官遗骸上 \| 头盔 \| 中甲 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 610 | Underdark - Grymforge | 幽暗地域 —— 复仇之炉 | \| [Dark Justiciar Mail](Dark_Justiciar_Mail.md "Dark Justiciar Mail") \| \| On a skeleton north of the _Underdark - Grymforge_ [Ancient Rune Circle](Ancient_Rune_Circle.md "Ancient Rune Circle") \| Mediu | \| [暗夜法官链甲](Dark_Justiciar_Mail.md "暗夜法官链甲") \| \| 在幽暗地域 - 格里姆锻造厂[上古符文法阵](Ancient_Rune_Circle.md "上古符文法阵")北侧的骷髅上 \| 中甲 \| 中甲 \| 13 \| \| [暗夜法官面具](Dark_Justiciar_Mask.md "暗夜法官面具") \| |
+| Guide_colon_Where_To_Find_Equipment.md | 612 | Forge | 锻炉 | \| On a skeleton near the Ancient Forge [Waypoint](Ancient_Sigil_Circle.md "Ancient Sigil Circle") \| Helmets \| Light Armour \| | \| 在远古熔炉[传送点](Ancient_Sigil_Circle.md "上古符文法阵")附近的骷髅上 \| 头盔 \| 轻甲 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 726 | Heavy Chest | 重箱子 | \| [Fireheart](Fireheart.md "Fireheart") \| \| Inside a Heavy Chest \| Amulets \| | \| [火焰之心](Fireheart.md "火焰之心") \| \| 在重箱中 \| 护符 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 756 | Perception | 察觉技能 | \| [Fleetfingers](Fleetfingers.md "Fleetfingers") \| \| In a buried chest after succeeding a DC 20 [Perception](Perception.md "Perception") [Check](Ability_Check.md "Ability check") \| Gloves \| | \| [跃动指套](Fleetfingers.md "跃动指套") \| \| 在成功通过DC 20[察觉](Perception.md "察觉")[检定](Ability_Check.md "属性检定")后的埋藏箱子中 \| 手套 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 904 | Lightning damage | 闪电伤害 | You are considered a [construct](Construct.md "Construct"). Your weapon [Attack rolls](Attack_roll.md "Attack roll") have [Advantage](Advantage.md "Advantage"), and you have [resistance](Resistance.md | 你被视为[构装生物](Construct.md "构装生物")。你的武器[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，并且你具有[抗性](Resistance.md "抗性")于[闪电](Lightning.md "闪电")伤害。（充能：[短休](Short_rest.md "短休")。） |
+| Guide_colon_Where_To_Find_Equipment.md | 908 | Last Light Inn | 终焉光芒旅店 | \| [Gloves of the Balanced Hands](Gloves_of_the_Balanced_Hands.md "Gloves of the Balanced Hands") \| \| Sold by [Quartermaster Talli](Talli.md "Talli") near the Last Light Inn [waypoint](Ancient_Sigil_Ci | \| [平衡手套](Gloves_of_the_Balanced_Hands.md "平衡手套") \| \| 由[军需官塔利](Talli.md "塔利")在末光旅店[传送点](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 \| 手套 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 941 | Light | 轻型 | [Light](Light.md "Light") | [光亮术](Light.md "光亮术") |
+| Guide_colon_Where_To_Find_Equipment.md | 1077 | Hide Armour +2 | 兽皮甲 + 2 | \| [Hide Armour +1](Hide_Armour_+1.md "Hide Armour +1") \|  \| Sold by traders using the [levelled magic armour table](Magic_Armour_Trader_Table.md#Traders "Magic Armour Trader Table") if the player is b | \| [兽皮甲 +1](Hide_Armour_+1.md "兽皮甲 +1") \| \| 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家等级在2到4级之间 \| 中甲 \| 中甲 \| 13 \| \| [兽皮甲 +2](Hide_Armour_+2.md "兽皮甲 +2") \| \| 由使用[等级魔法护甲表](Magi |
+| Guide_colon_Where_To_Find_Equipment.md | 1099 | To Baldur's Gate | 前往博德之门 | \| Worn by [Ch'r'ai Tska'an](Tska'an.md "Tska'an") near the bridge leading to the To Baldur's Gate waypoint \| Gloves \| | \| 由[审判官茨卡'安](Tska'an.md "茨卡'安")在通往博德之门传送点的桥梁附近穿戴 \| 手套 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1149 | Perception | 察觉技能 | - [Advantage](Advantage.md "Advantage") on [Perception](Perception.md "Perception") [Ability checks](Ability_Check.md "Ability check"). | - [优势](Advantage.md "优势")于[察觉](Perception.md "察觉")[属性检定](Ability_Check.md "属性检定")。 |
+| Guide_colon_Where_To_Find_Equipment.md | 1339 | Last Light Inn | 终焉光芒旅店 | \| Sold by [Quartermaster Talli](Talli.md "Talli") near the Last Light Inn waypoint \| Clothing \| | \| 由[军需官塔利](Talli.md "塔利")在末光旅店传送点附近出售 \| 服装 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1349 | Padded Armour +1 | 布甲 + 1 | \| [Padded Armour +1](Padded_Armour_+1.md "Padded Armour +1") \| \| Sold by traders using the [levelled magic armour table](Magic_Armour_Trader_Table.md#Traders "Magic Armour Trader Table") if the player | \| [布甲 +1](Padded_Armour_+1.md "布甲 +1") \| \| 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家等级在2到4级之间 \| 轻甲 \| 轻甲 \| 12 \| \| [布甲 +2](Padded_Armour_+2.md "布甲 +2") \| \| 由使用[等级魔法护甲表](Magi |
+| Guide_colon_Where_To_Find_Equipment.md | 1373 | Plate Armour +1 | 板甲 + 1 | \| [Plate Armour +1](Plate_Armour_+1.md "Plate Armour +1") \| \| Sold by traders using the [levelled magic armour table](Magic_Armour_Trader_Table.md#Traders "Magic Armour Trader Table") if the player ch | \| [板甲 +1](Plate_Armour_+1.md "板甲 +1") \| \| 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家角色等级在8到10级之间 \| 重甲 \| 重甲 \| 19 \| \| [板甲 +2](Plate_Armour_+2.md "板甲 +2") \| \| 由使用[等级魔法护甲表](Mag |
+| Guide_colon_Where_To_Find_Equipment.md | 1395 | To Baldur's Gate | 前往博德之门 | \| Worn by the [Hollow Armour](Hollow_Armour.md "Hollow Armour") at the bottom of the pit \| Heavy Armour \| Heavy Armour \| 18 \| \| [Psionic Ward Armour](Psionic_Ward_Armour.md "Psionic Ward Armour") \| \|  | \| 由坑底的[中空护甲](Hollow_Armour.md "中空护甲")穿戴 \| 重甲 \| 重甲 \| 18 \| \| [灵能守御护甲](Psionic_Ward_Armour.md "灵能守御护甲") \| \| 由[审判官茨卡'安](Tska'an.md "茨卡'安")在通往博德之门传送点的桥梁附近穿戴 \| 中甲 \| 中甲 \| 15 \| \| [心灵火花](Psychic_Spark.md "心灵火花 |
+| Guide_colon_Where_To_Find_Equipment.md | 1402 | Elminster | 伊尔明斯特 | \| [Pyroquickness Hat](Pyroquickness_Hat.md "Pyroquickness Hat") \| \| In an invisible chest in the vault of Elminster \| Helmets \| | \| [疾速纵火帽](Pyroquickness_Hat.md "疾速纵火帽") \| \| 在艾明斯特宝库中的隐形箱子内 \| 头盔 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1411 | familiar | 获得魔宠 | Summon a raven familiar that can Blind enemies with its beak. (Recharge: [Short rest](Short_rest.md "Short rest").) | 召唤一只可以用喙使敌人目盲的渡鸦伙伴。（充能：[短休](Short_rest.md "短休")。） |
+| Guide_colon_Where_To_Find_Equipment.md | 1452 | Colour Spray | 目盲 | [Colour Spray](Colour_Spray.md "Colour Spray") | [七彩喷射](Colour_Spray.md "七彩喷射") |
+| Guide_colon_Where_To_Find_Equipment.md | 1454 | Harpy Nest | 鸟妖巢穴 | \| In the Harpy Nest to the south of the harpy encounter \| Rings \| | \| 在鹰身女妖遭遇点以南的鹰身女妖巢穴中 \| 戒指 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1459 | Perception | 察觉技能 | - [Perception](Perception.md "Perception") +2 | - [察觉](Perception.md "察觉") +2 |
+| Guide_colon_Where_To_Find_Equipment.md | 1467 | Origin | 出身 | \| [Ring of Evasion](Ring_of_Evasion.md "Ring of Evasion") \| \| Given by [Tara](Tara.md "Tara") during the first [Long Rest](Long_Rest.md "Long Rest") following the completion of the [Escape the Nautilo | \| [闪避戒指](Ring_of_Evasion.md "闪避戒指") \| \| 由[塔拉](Tara.md "塔拉")在完成[逃离鹦鹉螺](Escape_the_Nautiloid.md "逃离鹦鹉螺")任务后的第一次[长休](Long_Rest.md "长休")期间给予（仅当选择[盖尔](Gale.md "盖尔")作为[起源](Origin.md "起源")时） \| 戒指 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1482 | Spell Save DC | 法术豁免等级 | - You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC")._\[[See: Bugs](Ring_of_Feywild_Sparks.md#Bugs "Ring of Feywild Sparks")\]_ | - 你获得 +1 加值于[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")。_\[[参见：错误](Ring_of_Feywild_Sparks.md#Bugs "妖精荒野火花戒")\]_ |
+| Guide_colon_Where_To_Find_Equipment.md | 1570 | Rustic Chest | 粗糙的箱子 | \| [Rippling Force Mail](Rippling_Force_Mail.md "Rippling Force Mail") \| \| in a locked **Rustic Chest** on the second floor of [Dammon's](Dammon.md "Dammon") blacksmith \| Heavy Armour \| Heavy Armour \|  | \| [涟漪之力锁甲](Rippling_Force_Mail.md "涟漪之力锁甲") \| \| 在[戴摩](Dammon.md "戴摩")铁匠铺二楼的上锁**乡村箱子**中 \| 重甲 \| 重甲 \| 17 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1581 | Hidden Vault | 隐藏金库 | \| Inside a crate in the Hidden Vault within the [Druid Grove](Druid_Grove.md "Druid Grove") \| Clothing \| \| 10 \| \| [Robe of Supreme Defences](Robe_of_Supreme_Defences.md "Robe of Supreme Defences") \| \| | \| 在[德鲁伊林地](Druid_Grove.md "德鲁伊林地")隐藏宝库内的板条箱中 \| 服装 \| \| 10 \| \| [极效防御长袍](Robe_of_Supreme_Defences.md "极效防御长袍") \| \| 由[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")在[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")附近出售 \| 服装  |
+| Guide_colon_Where_To_Find_Equipment.md | 1627 | Sentient Amulet | 感知护符 | Speak with the consciousness lingering inside the Sentient Amulet. | 与活体护符中残留的意识交谈。 |
+| Guide_colon_Where_To_Find_Equipment.md | 1646 | Open Hand Temple | 慈爱神殿 | \| In a locked chest at the foot of the beds at the west end of the Open Hand Temple \| Gloves \| | \| 在开放之手神殿西端床脚的上锁箱子中 \| 手套 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1724 | Last Light Inn | 终焉光芒旅店 | \| Sold by [Quartermaster Talli](Talli.md "Talli") near the Last Light Inn waypoint \| Shields \| Shields \| \| +2 \| [Shield of Returning](Shield_of_Returning.md "Shield of Returning") \| | \| 由[军需官塔利](Talli.md "塔利")在末光旅店传送点附近出售 \| 盾牌 \| 盾牌 \| \| +2 \| [回旋盾牌](Shield_of_Returning.md "回旋盾牌") \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1744 | Offerings to Helm | 献给海姆的贡品 | \| Can be found inside the **Offerings to Helm** Chest in the basement, which can in turn be reached by entering the secret hatch in the corner of the tabernacle \| Shields \| \| \| +2 \| [Shield of the Und | \| 可以在地下室的**献给海姆的祭品**箱子中找到，可以通过进入圣殿角落的秘密舱口到达 \| 盾牌 \| \| \| +2 \| [不诚者之盾](Shield_of_the_Undevout.md "不诚者之盾") \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1826 | Splint Armour +1 | 板条甲 + 1 | \| [Splint Armour +1](Splint_Armour_+1.md "Splint Armour +1") \| \| Sold by traders using the [levelled magic armour table](Magic_Armour_Trader_Table.md#Traders "Magic Armour Trader Table") if the player | \| [板条甲 +1](Splint_Armour_+1.md "板条甲 +1") \| \| 由使用[等级魔法护甲表](Magic_Armour_Trader_Table.md#Traders "魔法护甲商人表")的商人出售，如果玩家等级在6到8级之间 \| 重甲 \| 重甲 \| 18 \| \| [板条甲 +2](Splint_Armour_+2.md "板条甲 +2") \| \| 由使用[等级魔法护甲表]( |
+| Guide_colon_Where_To_Find_Equipment.md | 1886 | Cleave | 劈砍 | Cleave into a [Charmed](Charmed_(Condition).md "Charmed (Condition)") or [Frightened](Frightened_(Condition).md "Frightened (Condition)") foe's brain tissue and invigorate your body. (Recharge: [Short | 切入[魅惑](Charmed_(Condition).md "魅惑（状态）")或[恐慌](Frightened_(Condition).md "恐慌（状态）")敌人的脑组织并使你的身体恢复活力。（充能：[短休](Short_rest.md "短休")。） |
+| Guide_colon_Where_To_Find_Equipment.md | 1929 | Origin | 出身 | \| [The Deathstalker Mantle](The_Deathstalker_Mantle.md "The Deathstalker Mantle") \| \| Given to [The Dark Urge](The_Dark_Urge.md "The Dark Urge") Origin by [Sceleritas Fel](Sceleritas_Fel.md "Scelerita | \| [死亡追踪者斗篷](The_Deathstalker_Mantle.md "死亡追踪者斗篷") \| \| 由[塞莱瑞塔斯·菲尔](Sceleritas_Fel.md "塞莱瑞塔斯·菲尔")给予[邪念](The_Dark_Urge.md "邪念")起源 \| 披风 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1954 | Last Light Inn | 终焉光芒旅店 | \| Sold by [Quartermaster Talli](Talli.md "Talli") near the Last Light Inn [waypoint](Ancient_Sigil_Circle.md "Ancient Sigil Circle") \| Clothing \| \| 10 \| \| [The Oak Father's Embrace](The_Oak_Father's_E | \| 由[军需官塔利](Talli.md "塔利")在末光旅店[传送点](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 \| 服装 \| \| 10 \| \| [橡树之父的拥抱](The_Oak_Father's_Embrace.md "橡树之父的拥抱") \| \| 在枭熊巢穴和蛋附近的无头骷髅上 \| 中甲 \| 中甲 \| 13 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 1979 | Lightning damage | 闪电伤害 | - [Resistance](Resistance.md "Resistance") to [Lightning](Lightning.md "Lightning") damage. | - [抗性](Resistance.md "抗性")于[闪电](Lightning.md "闪电")伤害。 |
+| Guide_colon_Where_To_Find_Equipment.md | 1981 | Arcane Tower | 奥法高塔 | \| In a gilded chest on the upper level of the Arcane Tower's basement \| Rings \| | \| 在奥术塔地下室上层的镀金箱子中 \| 戒指 \| |
+| Guide_colon_Where_To_Find_Equipment.md | 2146 | Perception | 察觉技能 | - [Advantage](Advantage.md "Advantage") on [Perception](Perception.md "Perception") Checks | - [优势](Advantage.md "优势")于[察觉](Perception.md "察觉")检定 |
 | Guide_colon_Whirlwind-Barbarian.md | 17 | Turn | 驱散 | - [7.2 1st Turn](#1st_Turn) | - [7.2 第一回合](#第一回合) |
 | Guide_colon_Whirlwind-Barbarian.md | 43 | One | 一 | Warlock 1 - Great Old One. Cantrips: [Minor Illusion](Minor_Illusion.md "Minor Illusion"). Spells: [Hellish Rebuke](Hellish_Rebuke.md "Hellish Rebuke") [Armour of Agathys](Armour_of_Agathys.md "Armour | 邪术师 1 - 旧日支配者。戏法：[初级幻影](Minor_Illusion.md "Minor Illusion")。法术：[炼狱叱喝](Hellish_Rebuke.md "Hellish Rebuke") [艾嘉西斯之铠](Armour_of_Agathys.md "Armour of Agathys") |
 | Guide_colon_Whirlwind-Barbarian.md | 109 | Turn | 驱散 | ### 1st Turn | ### 第一回合 |
@@ -16734,6 +17687,37 @@
 | Invisible_(spell_flag).md | 109 | One | 一 | \| [One with Shadows (class action)](One_with_Shadows_(class_action).md "One with Shadows (class action)") \| Action \|  \| Self \| - \| Applies [One with the Shadows](One_with_the_Shadows_(Condition).md "O | \| [融身入影 (职业动作)](One_with_Shadows_(class_action).md "融身入影 (职业动作)") \| 动作 \|  \| 自身 \| - \| 施加 [融身入影](One_with_the_Shadows_(Condition).md "融身入影 (状态)") \| |
 | Invisible_(spell_flag).md | 110 | Level | 等级 | \| [Pass Without Trace](Pass_Without_Trace.md "Pass Without Trace") \| Level 2 spell \| + \| Self 9 m (30 ft) (Radius) \| - \| Applies [Pass Without Trace Aura](Pass_Without_Trace_Aura_(Condition).md "Pass  | \| [行动无踪](Pass_Without_Trace.md "行动无踪") \| 2级法术 \| + \| 自身 9 m (30 ft) (半径) \| - \| 施加 [行动无踪灵气](Pass_Without_Trace_Aura_(Condition).md "行动无踪灵气 (状态)") \| |
 | Invisible_(status_group).md | 57 | One | 一 | [One with the Shadows](One_with_the_Shadows_(Condition).md "One with the Shadows (Condition)") | [与影同在](One_with_the_Shadows_(Condition).md "与影同在 (状态)") |
+| Inwe.md | 1 | Inwe | 因维 | # Inwe | # 因薇 |
+| Inwe.md | 3 | Inwe | 因维 | ## Inwe | ## 因薇 |
+| Inwe.md | 6 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Inwe.md | 18 | Emerald Grove | 翠绿林地 | [Circle of the Emerald Grove](Circle_of_the_Emerald_Grove.md "Circle of the Emerald Grove") | [翡翠林地结社](Circle_of_the_Emerald_Grove.md "翡翠林地结社") |
+| Inwe.md | 22 | Emerald Grove | 翠绿林地 | [Emerald Grove](Emerald_Grove.md "Emerald Grove") | [翡翠林地](Emerald_Grove.md "翡翠林地") |
+| Inwe.md | 28 | Medium | 中级 | [Medium](Medium.md "Medium") | [中型](Medium.md "中型") |
+| Inwe.md | 46 | Balanced | 平衡 | - Balanced | - 均衡 |
+| Inwe.md | 50 | Tactician | 硬核 | - Tactician | - 战术家 |
+| Inwe.md | 52 | Balanced | 平衡 | ## Balanced Difficulty Stats | ## 均衡难度属性 |
+| Inwe.md | 70 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Inwe.md | 82 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Inwe.md | 100 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Inwe.md | 104 | Fey Ancestry | 妖精血统 | - [**Fey Ancestry**](Fey_Ancestry.md "Fey Ancestry") | - [**精灵血统**](Fey_Ancestry.md "精灵血统") |
+| Inwe.md | 130 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Inwe.md | 142 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Inwe.md | 160 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Inwe.md | 164 | Fey Ancestry | 妖精血统 | - [**Fey Ancestry**](Fey_Ancestry.md "Fey Ancestry") | - [**精灵血统**](Fey_Ancestry.md "精灵血统") |
+| Inwe.md | 172 | Tactician | 硬核 | ## Tactician Difficulty Stats | ## 战术家难度属性 |
+| Inwe.md | 190 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Inwe.md | 202 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Inwe.md | 210 | Perception | 察觉技能 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 运动 \| 体操 \| 察觉 \| |
+| Inwe.md | 220 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Inwe.md | 224 | Fey Ancestry | 妖精血统 | - [**Fey Ancestry**](Fey_Ancestry.md "Fey Ancestry") | - [**精灵血统**](Fey_Ancestry.md "精灵血统") |
+| Inwe.md | 246 | Emerald Grove | 翠绿林地 | `DEN_Druids_Elf_Wood_Druid` **Inwe** is a [Wood Elf](Elf.md#Wood_Elves "Elf") in the [Circle of the Emerald Grove](Circle_of_the_Emerald_Grove.md "Circle of the Emerald Grove") in [Act One](Act_One.md | `DEN_Druids_Elf_Wood_Druid` **因薇**是[第一幕](Act_One.md "第一幕")中[翡翠林地结社](Circle_of_the_Emerald_Grove.md "翡翠林地结社")的一名[木精灵](Elf.md#Wood_Elves "精灵")。 |
+| Inwe.md | 246 | Inwe | 因维 | `DEN_Druids_Elf_Wood_Druid` **Inwe** is a [Wood Elf](Elf.md#Wood_Elves "Elf") in the [Circle of the Emerald Grove](Circle_of_the_Emerald_Grove.md "Circle of the Emerald Grove") in [Act One](Act_One.md | `DEN_Druids_Elf_Wood_Druid` **因薇**是[第一幕](Act_One.md "第一幕")中[翡翠林地结社](Circle_of_the_Emerald_Grove.md "翡翠林地结社")的一名[木精灵](Elf.md#Wood_Elves "精灵")。 |
+| Inwe.md | 254 | Inwe | 因维 | — Inwe, reflecting on her role in the Rite of Thorns | — 因薇，反思她在荆棘仪式中的角色 |
+| Inwe.md | 270 | Idol of Silvanus | 西凡那斯神像 | Inwe can be found at the [Sacred Pool](Sacred_Pool.md "Sacred Pool") performing the [Rite of Thorns](Rite_of_Thorns_(ritual)..md) She becomes hostile if the party interact with the [Idol of Silvanus]( | 因薇可以在[圣池](Sacred_Pool.md "圣池")找到，正在执行[荆棘仪式](Rite_of_Thorns_(ritual)..md)。如果队伍与[西凡纳斯神像](Idol_of_Silvanus.md "西凡纳斯神像")互动，她会变为敌对。如果队伍成员与她交谈，她会透露她害怕[地精](Goblins.md "地精")。她在每个阴影中都能看到地精，即使在[地精营地](Goblin_Cam |
+| Inwe.md | 270 | Inwe | 因维 | Inwe can be found at the [Sacred Pool](Sacred_Pool.md "Sacred Pool") performing the [Rite of Thorns](Rite_of_Thorns_(ritual)..md) She becomes hostile if the party interact with the [Idol of Silvanus]( | 因薇可以在[圣池](Sacred_Pool.md "圣池")找到，正在执行[荆棘仪式](Rite_of_Thorns_(ritual)..md)。如果队伍与[西凡纳斯神像](Idol_of_Silvanus.md "西凡纳斯神像")互动，她会变为敌对。如果队伍成员与她交谈，她会透露她害怕[地精](Goblins.md "地精")。她在每个阴影中都能看到地精，即使在[地精营地](Goblin_Cam |
+| Inwe.md | 272 | Inwe | 因维 | If [Kagha](Kagha.md "Kagha") is exposed in ⁠[Investigate Kagha](Investigate_Kagha.md "Investigate Kagha"), Inwe is ashamed that she never questioned her decision. | 如果在[调查卡哈](Investigate_Kagha.md "调查卡哈")任务中揭露[卡哈](Kagha.md "卡哈"),因薇会为自己从未质疑过她的决定而感到羞愧。 |
+| Inwe.md | 321 | Inwe | 因维 | - Inwe's model. | - 因薇的模型。 |
+| Inwe.md | 325 | Inwe | 因维 | - ⁠[Inwe](https://forgottenrealms.fandom.com/wiki/Inwe) on the [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page) | - [因薇](https://forgottenrealms.fandom.com/wiki/Inwe) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page) |
 | Iron-Banded_Shield.md | 3 | Shield | 护盾术 | The Iron-Banded Shield is a common [Shield](Shields.md "Shields"). | 铁条盾是一种常见的[盾牌](Shields.md "Shields")。 |
 | Iron_Flask.md | 35 | Surprise | 突袭 | - Taking the flask from the Caravan Strongbox grants the inspiration ⁠[Open for a Surprise](Criminal.md#Open_for_a_Surprise "Criminal") to party members with the [Criminal](Criminal.md "Criminal") bac | - 从商队保险箱中取出瓶子会为具有[罪犯](Criminal.md "罪犯")背景的队伍成员授予激励点⁠[开箱惊喜](Criminal.md#Open_for_a_Surprise "罪犯")。 |
 | Iron_Throne.md | 48 | Duke Ulder Ravengard | 乌尔德·雷文伽德公爵 | [Grand Duke Ulder Ravengard](Ulder_Ravengard.md "Ulder Ravengard") can only be saved if Gortash's coronation has been attended. If [Wyll](Wyll.md "Wyll") has been recruited, it is highly recommended t | [高公爵乌尔德·雷文伽德](Ulder_Ravengard.md "乌尔德·雷文伽德")只有在参加了戈塔什的加冕典礼后才能被拯救。如果[威尔](Wyll.md "威尔")已被招募，强烈建议在加冕典礼后与他交谈，然后返回营地查看[米佐拉](Mizora.md "米佐拉")的交易，作为[边境之刃](The_Blade_of_Frontiers.md "边境之刃")和[高公爵](The_Grand_Du |
@@ -16964,6 +17948,28 @@
 | Jaheira's_Basement.md | 206 | Jhessem | 哲塞姆 | 1. [↑](#cite_ref-2) An apparently unimplemented puzzle involving these orbs is mentioned in Jhessem's one-liner dialogue file (`LOW_JaheirasHouse_MiddleDaughter`). It could be solved by disabling the  | 1. [↑](#cite_ref-2) 杰西姆的单句对话文件 (`LOW_JaheirasHouse_MiddleDaughter`) 中提到了一个显然未实现的涉及这些球体的谜题。可以通过禁用球体来解决，这应该会产生小基座以穿过下方的池塘。然后杰西姆会给出谜题的线索。 |
 | Jaheira's_Basement.md | 212 | Upper City | 上城区 | \| [Upper City Gate Checkpoint](Upper_City_Gate_Checkpoint.md "Upper City Gate Checkpoint") \|  \|  \|  \|  \| | \| [上城门检查点](Upper_City_Gate_Checkpoint.md "上城门检查点") \|  \|  \|  \|  \| |
 | Jaheira's_Family.md | 22 | action | 动作 | - [Rion](Rion.md "Rion") - oldest stepdaughter, driven to taking action and has taken a role of leadership amongst the wards in Jaheira's absence | - [里翁](Rion.md "里翁") - 最大的继女，积极采取行动，并在贾希拉缺席期间在被监护人中担任领导角色 |
+| Jaheira_(doppelganger).md | 5 | High Harper of Baldur's Gate | 博德之门高阶竖琴手 | High Harper of Baldur's Gate | 博德之门的高阶竖琴手 |
+| Jaheira_(doppelganger).md | 9 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Jaheira_(doppelganger).md | 23 | Medium | 中级 | Medium | 中型 |
+| Jaheira_(doppelganger).md | 33 | Balanced | 平衡 | - Balanced | - 均衡 |
+| Jaheira_(doppelganger).md | 37 | Tactician | 硬核 | - Tactician | - 战术家 |
+| Jaheira_(doppelganger).md | 39 | Balanced | 平衡 | ## Balanced Difficulty Stats | ## 均衡难度属性 |
+| Jaheira_(doppelganger).md | 57 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Jaheira_(doppelganger).md | 69 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Jaheira_(doppelganger).md | 83 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Jaheira_(doppelganger).md | 113 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Jaheira_(doppelganger).md | 125 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Jaheira_(doppelganger).md | 139 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Jaheira_(doppelganger).md | 151 | Tactician | 硬核 | ## Tactician Difficulty Stats | ## 战术家难度属性 |
+| Jaheira_(doppelganger).md | 169 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Jaheira_(doppelganger).md | 181 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Jaheira_(doppelganger).md | 195 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Jaheira_(doppelganger).md | 203 | Evasion | 反射闪避 | - [**Morphic Evasion**](Morphic_Evasion.md "Morphic Evasion") | - [**形态闪避**](Morphic_Evasion.md "形态闪避") |
+| Jaheira_(doppelganger).md | 249 | Abilities | 属性 | - [2.1 Skills and Abilities](#skills-and-abilities) | - [2.1 技能与能力](#技能与能力) |
+| Jaheira_(doppelganger).md | 262 | Abilities | 属性 | ### Skills and Abilities | ### 技能与能力 |
+| Jaheira_(doppelganger).md | 264 | Dismiss Shapechanger | 驱逐变形生物 | [Dismiss Shapechanger](Dismiss_Shapechanger.md "Dismiss Shapechanger") | [驱逐变形者](Dismiss_Shapechanger.md "驱逐变形者") |
+| Jaheira_(doppelganger).md | 294 | Letter from Orin | 奥林的信 | - [Letter from Orin](Letter_from_Orin.md "Letter from Orin") | - [奥林的来信](Letter_from_Orin.md "奥林的来信") |
+| Jaheira_(doppelganger).md | 299 | Aid the Underduke | 协助地下势力 | - ⁠[Aid the Underduke](Aid_the_Underduke.md "Aid the Underduke") | - [援助地下公爵](Aid_the_Underduke.md "援助地下公爵") |
 | Jar_of_Mystic_Carrion's_Lungs.md | 24 | Brain | 大脑 | - [Jar of Mystic Carrion's Brain](Jar_of_Mystic_Carrion's_Brain.md "Jar of Mystic Carrion's Brain") | - [秘术师卡里翁的脑罐](Jar_of_Mystic_Carrion's_Brain.md "秘术师卡里翁的脑罐") |
 | Jar_of_Mystic_Carrion's_Lungs.md | 25 | Heart | 心脏 | - [Jar of Mystic Carrion's Heart](Jar_of_Mystic_Carrion's_Heart.md "Jar of Mystic Carrion's Heart") | - [秘术师卡里翁的心罐](Jar_of_Mystic_Carrion's_Heart.md "秘术师卡里翁的心罐") |
 | Jug_of_Water.md | 25 | AoE | 范围效果 | - AoE: 2 m (7 ft) Radius | - 区域效果：2 m (7 ft) 半径 |
@@ -18142,6 +19148,22 @@
 | Lunar_Radiance_(Condition).md | 32 | Reduce | 缩小 | - Reduce the duration by 2 each time the entity makes an attack. | - 每次实体进行攻击时，持续时间减少2。 |
 | Lunar_Vitality_(Condition).md | 34 | Inspiration | 激励点 | \| [Mantle of Inspiration](Mantle_of_Inspiration_(Condition).md "Mantle of Inspiration (Condition)") \| Imbued with bardic vigour and granted 5 [temporary hit points](Temporary_Hit_Points.md "Temporary  | \| [鼓舞斗篷](Mantle_of_Inspiration_(Condition).md "鼓舞斗篷 (状态)") \| 被吟游诗人的活力灌注，获得 5 点[临时生命值](Temporary_Hit_Points.md "临时生命值")。如果被近战攻击命中，攻击者变为[魅惑](Charmed_(Condition).md "魅惑 (状态)")。 \| |
 | Lush_Burgundy.md | 29 | Dye | 染色 | - Unlike all other dyes in the game, this item does not contain the word _Dye_ in its name. | - 与游戏中所有其他染料不同，此物品的名称中不包含“染料”一词。 |
+| Ma'athal.md | 6 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Ma'athal.md | 12 | Medium | 中级 | Medium | 中型 |
+| Ma'athal.md | 26 | Balanced | 平衡 | - Balanced | - 均衡 |
+| Ma'athal.md | 30 | Tactician | 硬核 | - Tactician | - 战术家 |
+| Ma'athal.md | 32 | Balanced | 平衡 | ## Balanced Difficulty Stats | ## 均衡难度属性 |
+| Ma'athal.md | 50 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Ma'athal.md | 58 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Ma'athal.md | 106 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Ma'athal.md | 114 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Ma'athal.md | 144 | Tactician | 硬核 | ## Tactician Difficulty Stats | ## 战术家难度属性 |
+| Ma'athal.md | 162 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Ma'athal.md | 170 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Ma'athal.md | 178 | Perception | 察觉技能 | \| Ability scores \| Athletics \| Acrobatics \| Perception \| | \| 属性值 \| 运动 \| 体操 \| 察觉 \| |
+| Ma'athal.md | 192 | Supreme Githyanki Parry | 极效吉斯洋基招架 | - [**Supreme Githyanki Parry**](Supreme_Githyanki_Parry.md "Supreme Githyanki Parry") | - [**至高吉斯洋基招架**](Supreme_Githyanki_Parry.md "至高吉斯洋基招架") |
+| Ma'athal.md | 196 | Psionic Empowerment | 灵能赋权 | - [**Psionic Empowerment**](Psionic_Empowerment.md "Psionic Empowerment") | - [**灵能强化**](Psionic_Empowerment.md "灵能强化") |
+| Ma'athal.md | 198 | Psychic damage | 心灵伤害 | Your attacks deal an extra 1d6⁠⁠[Psychic](Psychic.md "Psychic") damage - the scars of illithid enslavement run deep. | 你的攻击额外造成 1d6 [心灵](Psychic.md "心灵")伤害 - 灵吸怪奴役的伤痕根深蒂固。 |
 | Maces.md | 20 | One | 一 | One-Handed | 单手 |
 | Mage_Armour_(Condition).md | 5 | Base Armour Class | 自然护甲 | - Base [Armour Class](Armour_Class.md "Armour Class") is 13. | - 基础 [护甲等级](Armour_Class.md "护甲等级") 为 13。 |
 | Mage_Armour_(Condition).md | 15 | Base Armour Class | 自然护甲 | \| Mage Armour \| Base [Armour Class](Armour_Class.md "Armour Class") is 13. \| | \| 魔法护甲 \| 基础 [护甲等级](Armour_Class.md "护甲等级") 为 13。 \| |
@@ -20868,6 +21890,38 @@
 | Save_Mayrina.md | 95 | Help | 协助 | Auntie Ethel's house is at X: -47 Y: 266 in the southwestern area of the Sunlit Wetlands/Putrid Bog. She greets the party and, regardless of if she was told previously or not, states she is well aware | 埃赛尔婶婶的房子位于日照湿地/腐烂泥潭西南区域的X: -47 Y: 266处。她迎接队伍，无论之前是否被告知，都表示她很清楚他们头上的蝌蚪。在茶室里，埃赛尔婶婶斥责一个年轻女子——后来被揭示是[梅丽娜](Mayrina.md "梅丽娜")——没有吃完她的派。如果埃赛尔尚未敌对，队伍可以启动[寻求埃赛尔婶婶的帮助](Get_Help_from_Auntie_Ethel.md "寻求埃赛尔婶婶的帮助" |
 | Save_the_Goblin_Sazza.md | 80 | attack | 攻击 | Alternatively, the party can head west of the grove's main gate following the initial goblin attack instead of immediately entering the grove, until they come across a hidden stone door. A successful  | 或者，队伍可以在最初的地精袭击后，沿着林地正门向西走，而不是立即进入林地，直到遇到一扇隐藏的石门。成功的[察觉技能](Perception.md "Perception")[检定](Checks.md "Checks")会高亮显示门本身，而[求生](Survival.md "Survival")[检定](Checks.md "Checks")会揭示通往它的地精足迹。这条路线比正常进入林地危险得多， |
 | Save_the_Goblin_Sazza.md | 97 | Location | 地点 | Location of the stone door to help Sazza escape. | 帮助萨扎逃脱的石门位置。 |
+| Sazza.md | 7 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Sazza.md | 45 | Goblin Brawler | 地精斗士 | [Goblin Brawler](Goblin_Brawler.md "Goblin Brawler") | [地精拳手](Goblin_Brawler.md "地精拳手") |
+| Sazza.md | 47 | Balanced | 平衡 | - Balanced | - 均衡 |
+| Sazza.md | 51 | Tactician | 硬核 | - Tactician | - 战术家 |
+| Sazza.md | 55 | Balanced | 平衡 | ## Balanced Difficulty Stats | ## 均衡难度属性 |
+| Sazza.md | 73 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Sazza.md | 85 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Sazza.md | 99 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Sazza.md | 125 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Sazza.md | 137 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Sazza.md | 151 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Sazza.md | 159 | Tactician | 硬核 | ## Tactician Difficulty Stats | ## 战术家难度属性 |
+| Sazza.md | 177 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Sazza.md | 189 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Sazza.md | 203 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Sazza.md | 207 | Fury of the Small | 小型之怒 | - [**Fury of the Small**](Fury_of_the_Small.md "Fury of the Small") | - [**小体型之怒**](Fury_of_the_Small.md "小体型之怒") |
+| Sazza.md | 233 | Proficiency | 熟练项 | ### Proficiency | ### 熟练加值 |
+| Sazza.md | 245 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Sazza.md | 259 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Sazza.md | 263 | Fury of the Small | 小型之怒 | - [**Fury of the Small**](Fury_of_the_Small.md "Fury of the Small") | - [**小体型之怒**](Fury_of_the_Small.md "小体型之怒") |
+| Sazza.md | 285 | Emerald Grove | 翠绿林地 | `Goblin_Melee` **Sazza** is a goblin follower of the [Absolute](Absolute.md "Absolute"). She is first encountered in the [Makeshift Prison](Makeshift_Prison.md "Makeshift Prison") in [Emerald Grove](E | `Goblin_Melee` **萨扎**是[至上真神](Absolute.md "至上真神")的地精追随者。她最初在[第一幕](Act_One.md "第一幕")的[翡翠林地](Emerald_Grove.md "翡翠林地")的[临时监狱](Makeshift_Prison.md "临时监狱")中被遇到。 |
+| Sazza.md | 304 | Companion | 伙伴 | - [2 Companion approval](#companion-approval) | - [2 同伴赞同](#同伴赞同) |
+| Sazza.md | 316 | Emerald Grove | 翠绿林地 | When the party first approach the [Makeshift Prison](Makeshift_Prison.md "Makeshift Prison") through the [Emerald Grove](Emerald_Grove.md "Emerald Grove") gateway, they find Sazza being held at the po | 当队伍首次通过[翡翠林地](Emerald_Grove.md "翡翠林地")入口接近[临时监狱](Makeshift_Prison.md "临时监狱")时，他们发现萨扎被[阿尔卡](Arka.md "阿尔卡")用弩指着，阿尔卡想为她死去的兄弟[卡农](Kanon.md "卡农")报仇。阿尔卡的朋友[门诺斯](Memnos.md "门诺斯")试图劝阻她不要复仇。队伍成员可以选择通过说服她或挡在阿尔卡 |
+| Sazza.md | 316 | Kanon | 加农 | When the party first approach the [Makeshift Prison](Makeshift_Prison.md "Makeshift Prison") through the [Emerald Grove](Emerald_Grove.md "Emerald Grove") gateway, they find Sazza being held at the po | 当队伍首次通过[翡翠林地](Emerald_Grove.md "翡翠林地")入口接近[临时监狱](Makeshift_Prison.md "临时监狱")时，他们发现萨扎被[阿尔卡](Arka.md "阿尔卡")用弩指着，阿尔卡想为她死去的兄弟[卡农](Kanon.md "卡农")报仇。阿尔卡的朋友[门诺斯](Memnos.md "门诺斯")试图劝阻她不要复仇。队伍成员可以选择通过说服她或挡在阿尔卡 |
+| Sazza.md | 321 | Save the Goblin Sazza | 解救地精萨扎 | - If Sazza is not freed and escorted out of the grove, ⁠[Save the Goblin Sazza](Save_the_Goblin_Sazza.md "Save the Goblin Sazza") resolves with her death. | - 如果萨扎没有被释放并护送出林地，[拯救地精萨扎](Save_the_Goblin_Sazza.md "拯救地精萨扎")任务将以她的死亡结束。 |
+| Sazza.md | 347 | If you wish | 如你所愿 | - [PALADIN] It shall be trial by combat. If you wish to live, you must champion yourself. -1 +1 +1 | - [圣武士] 这将是战斗审判。如果你想活下去，你必须为自己而战。 -1 +1 +1 |
+| Sazza.md | 352 | Moonlantern | 月亮提灯 | If Sazza is freed at Moonrise Towers, Sazza and the other goblins flee from the area and are not heard from again. The party then note in a dialogue option that they likely fell to the [Shadow Curse]( | 如果萨扎在月出之塔被释放，萨扎和其他地精逃离该地区，再也没有消息。队伍随后在对话选项中指出，他们可能在没有[月光灯笼](Moonlantern.md "月光灯笼")的情况下死于[幽影诅咒](Shadow_Curse_(Condition).md "幽影诅咒（状态）")。 |
+| Sazza.md | 358 | Companion | 伙伴 | ## Companion approval | ## 同伴赞同 |
+| Sazza.md | 362 | Emerald Grove | 翠绿林地 | - Dealing with captive Sazza in the [Emerald Grove](Emerald_Grove.md "Emerald Grove") prison: | - 在[翡翠林地](Emerald_Grove.md "翡翠林地")监狱处理被俘的萨扎： |
+| Sazza.md | 377 | Parchment | 羊皮卷 | - [Parchment from Sazza](Parchment_from_Sazza.md "Parchment from Sazza") | - [萨扎的羊皮纸](Parchment_from_Sazza.md "萨扎的羊皮纸") |
+| Sazza.md | 381 | Save the Goblin Sazza | 解救地精萨扎 | - ⁠[Save the Goblin Sazza](Save_the_Goblin_Sazza.md "Save the Goblin Sazza") | - [拯救地精萨扎](Save_the_Goblin_Sazza.md "拯救地精萨扎") |
+| Sazza.md | 428 | Emerald Grove | 翠绿林地 | Rescue Sazza from the Emerald Grove, Goblin Camp and Moonrise Towers in one playthrough. | 在一次游戏过程中从翡翠林地、地精营地和月出之塔拯救萨扎。 |
 | Scale_Mail_Armour_+1.md | 1 | Armour | 护甲 | # Scale Mail Armour +1 | # 鳞甲 +1 |
 | Scale_Mail_Armour_+1.md | 19 | Enchantment | 惑控学派 | - Enchantment: **+ 1** | - 附魔：**+ 1** |
 | Scale_Mail_Armour_+1.md | 27 | Material | 材料成分 | [Superior Material](Superior_Material_(-1).md) | [上等材质](Superior_Material_(-1).md) |
@@ -21005,6 +22059,21 @@
 | Serpent_Fang_Toxin.md | 18 | Serpent Venom | 蛇毒 | - Coat your active weapon with Serpent Venom Toxin. | - 用蛇牙毒素涂抹你的主动武器。 |
 | Serpent_Fang_Toxin.md | 28 | Serpent Venom | 蛇毒 | **[Coated in Serpent Venom Toxin](Coated_in_Serpent_Venom_Toxin_(Condition).md "Coated in Serpent Venom Toxin (Condition)")** | **[涂抹蛇牙毒素](Coated_in_Serpent_Venom_Toxin_(Condition).md "涂抹蛇牙毒素 (状态)")** |
 | Severed_Arm.md | 3 | Heavy | 重型 | Heavy and slick with sweat and blood, this arm has a tendency to slip out of your hands. | Heavy and slick with sweat and blood, this arm has a tendency to slip out of your hands. |
+| Sh'ari.md | 3 | Gish | 熟手 | ## High Gish'ra Sh'ari | ## 高阶吉斯拉 莎莉 |
+| Sh'ari.md | 6 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Sh'ari.md | 36 | Gish | 熟手 | [Gish'ra (melee)](Gish'ra_(melee).md) | [吉斯拉（近战）](Gish'ra_(melee).md) |
+| Sh'ari.md | 82 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Sh'ari.md | 112 | Dexterity Modifier | 敏捷调整值 | Use your reaction to reduce the damage from a ranged weapon attack by 1d10 + your Dexterity [Modifier](Modifier.md "Modifier") + your monk level. | 使用你的反应动作，将远程武器攻击的伤害减少1d10 + 你的敏捷[调整值](Modifier.md "Modifier") + 你的武僧等级。 |
+| Sh'ari.md | 144 | Psychic damage | 心灵伤害 | Your attacks deal an extra 1d6⁠⁠[Psychic](Psychic.md "Psychic") damage - the scars of illithid enslavement run deep. | 你的攻击额外造成1d6[心灵](Psychic.md "Psychic")伤害——灵吸怪奴役留下的伤痕刻骨铭心。 |
+| Sh'ari.md | 192 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Sh'ari.md | 222 | Dexterity Modifier | 敏捷调整值 | Use your reaction to reduce the damage from a ranged weapon attack by 1d10 + your Dexterity [Modifier](Modifier.md "Modifier") + your monk level. | 使用你的反应动作，将远程武器攻击的伤害减少1d10 + 你的敏捷[调整值](Modifier.md "Modifier") + 你的武僧等级。 |
+| Sh'ari.md | 254 | Psychic damage | 心灵伤害 | Your attacks deal an extra 1d6⁠⁠[Psychic](Psychic.md "Psychic") damage - the scars of illithid enslavement run deep. | 你的攻击额外造成1d6[心灵](Psychic.md "Psychic")伤害——灵吸怪奴役留下的伤痕刻骨铭心。 |
+| Sh'ari.md | 302 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 黑暗视觉 |
+| Sh'ari.md | 332 | Dexterity Modifier | 敏捷调整值 | Use your reaction to reduce the damage from a ranged weapon attack by 1d10 + your Dexterity [Modifier](Modifier.md "Modifier") + your monk level. | 使用你的反应动作，将远程武器攻击的伤害减少1d10 + 你的敏捷[调整值](Modifier.md "Modifier") + 你的武僧等级。 |
+| Sh'ari.md | 364 | Psychic damage | 心灵伤害 | Your attacks deal an extra 1d6⁠⁠[Psychic](Psychic.md "Psychic") damage - the scars of illithid enslavement run deep. | 你的攻击额外造成1d6[心灵](Psychic.md "Psychic")伤害——灵吸怪奴役留下的伤痕刻骨铭心。 |
+| Sh'ari.md | 396 | Gish | 熟手 | `Githyanki_Gishra_Melee` **High Gish'ra Sh'ari** is a [Gish'ra](Gish'ra_(melee).md) encountered in the [Astral Plane](Astral_Plane.md "Astral Plane") at the beginning of Act Three. She is part of [Orp | `Githyanki_Gishra_Melee` **高阶吉斯拉 莎莉**是于[星界](Astral_Plane.md "Astral Plane")第三幕开始时遭遇的[吉斯拉](Gish'ra_(melee).md)。她是[俄耳甫斯](Orpheus.md "Orpheus")卫队的一员，为释放他而战。 |
+| Sh'ari.md | 396 | Gish | 熟手 | `Githyanki_Gishra_Melee` **High Gish'ra Sh'ari** is a [Gish'ra](Gish'ra_(melee).md) encountered in the [Astral Plane](Astral_Plane.md "Astral Plane") at the beginning of Act Three. She is part of [Orp | `Githyanki_Gishra_Melee` **高阶吉斯拉 莎莉**是于[星界](Astral_Plane.md "Astral Plane")第三幕开始时遭遇的[吉斯拉](Gish'ra_(melee).md)。她是[俄耳甫斯](Orpheus.md "Orpheus")卫队的一员，为释放他而战。 |
+| Sh'ari.md | 421 | Punch | 拳击 | Punch twice in quick succession and potentially knock the target [Prone](Prone_(Condition).md "Prone (Condition)"). | 快速连续出拳两次，并可能使目标[倒伏](Prone_(Condition).md "Prone (Condition)")。 |
 | Shadow-Cursed_Undead_(Condition).md | 52 | Reduced | 缩小 | Reduced hit points and Strength, resistant to Necrotic damage and cannot use spells or weapon actions. | 降低的生命值和力量，对黯蚀伤害具有抗性，无法使用法术或武器动作。 |
 | Shadow_Curse_(Condition).md | 48 | Turn | 驱散 | - When a member of the party is affected by the Shadow Curse, the game automatically enters Turn-Based Mode. | - 当队伍成员受到幽影诅咒影响时，游戏会自动进入回合制模式。 |
 | Shadow_Vestige.md | 51 | Light | 轻型 | - If the player met [Art Cullagh](Art_Cullagh.md "Art Cullagh"), this line follows: _You catch a glimpse of the lute-playing Flaming Fist. It's the catatonic man you encountered in[Last Light Inn](Las | - 如果玩家遇到过[阿尔特·库拉](Art_Cullagh.md "阿尔特·库拉")，则会附加这句：_你瞥见了那位弹奏鲁特琴的焰拳成员。他就是你在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")遇到的那个木讷男人。_ |
@@ -21463,6 +22532,14 @@
 | Special_colon_Upload.md | 7 | Jump | 跳跃 | [Jump to navigation](#mw-head) [Jump to search](#searchInput) | [跳转到导航](#mw-head) [跳转到搜索](#searchInput) |
 | Special_colon_Upload.md | 38 | Help | 协助 | - [Help index](Help_colon_Index.md) | - [帮助索引](Help_colon_Index.md) |
 | Special_colon_Upload.md | 74 | Mobile | 灵活移动 | - [Mobile view](https://bg3.wiki/w/index.php?title=Special:Upload&mobileaction=toggle_view_mobile) | - [移动视图](https://bg3.wiki/w/index.php?title=Special:Upload&mobileaction=toggle_view_mobile) |
+| Spectator.md | 179 | Eye | 眼睛 | Fires a random Eye Ray at any creature within 6 m (20 ft). | 向 6 米 (20 英尺) 内的任何生物发射随机眼柄射线。 |
+| Spectator.md | 239 | Eye | 眼睛 | Fires a random Eye Ray at any creature within 6 m (20 ft). | 向 6 米 (20 英尺) 内的任何生物发射随机眼柄射线。 |
+| Spectator.md | 265 | Spectator | 观察者眼魔 | `Spectator` ## Variant 1 | `Spectator` ## 变体 1 |
+| Spectator.md | 279 | Spectator | 观察者眼魔 | `Spectator` ## Variant 2 | `Spectator` ## 变体 2 |
+| Spectator.md | 464 | Eye | 眼睛 | Fires a random Eye Ray at any creature within 6 m (20 ft). | 向 6 米 (20 英尺) 内的任何生物发射随机眼柄射线。 |
+| Spectator.md | 524 | Eye | 眼睛 | Fires a random Eye Ray at any creature within 6 m (20 ft). | 向 6 米 (20 英尺) 内的任何生物发射随机眼柄射线。 |
+| Spectator.md | 652 | Turn | 驱散 | Turn a [Petrified](Petrified_(Condition).md "Petrified (Condition)") creature back to its organic form. | 将[石化](Petrified_(Condition).md "石化 (状态)")生物变回有机形态。 |
+| Spectator.md | 694 | Eye | 眼睛 | Possibly [Wound](Wounding_Ray_(Spectator).md "Wounding Ray (Spectator)"), [Confuse](Confusion_Ray.md "Confusion Ray"), [Paralyse](Paralysing_Ray.md "Paralysing Ray") and [Frighten](Fear_Ray.md "Fear R | 可能对 20 米 / 67 英尺内的所有敌人造成[致伤](Wounding_Ray_(Spectator).md "致伤射线")、[困惑](Confusion_Ray.md "困惑射线")、[麻痹](Paralysing_Ray.md "麻痹射线")和[恐惧](Fear_Ray.md "恐惧射线")，使用你挥舞的眼柄射线。 |
 | Spell_Sniper_(Feat).md | 19 | Prone | 倒伏 | \| Your [Strength](Strength.md "Strength") or [Dexterity](Dexterity.md "Dexterity") ability score increases by 1, to a maximum of 20. When you are [Prone](Prone_(Condition).md "Prone (Condition)"), sta | \| 你的[力量](Strength.md "力量")或[敏捷](Dexterity.md "敏捷")属性值提高 1，最高不超过 20。当你处于[倒地](Prone_(Condition).md "倒地（状态）")状态时，起立所消耗的移动显著减少。你的[跳跃](Jump.md "跳跃")距离也会增加 50%。 \|  \| |
 | Spell_Sniper_(Feat).md | 40 | Dungeon Delver: Perception | 地城探索者：察觉 | \| Dungeon Delver \| [Dungeon Delver: Perception](Dungeon_Delver_colon__Perception.md "Dungeon Delver: Perception") \| | \| 地牢探索者 \| [地牢探索者：察觉](Dungeon_Delver_colon__Perception.md "地牢探索者：察觉") \| |
 | Spell_Sniper_(Feat).md | 42 | Dungeon Delver: Resist Traps | 地城探索者：抵抗陷阱 | \| [Dungeon Delver: Resist Traps](Dungeon_Delver_colon__Resist_Traps.md "Dungeon Delver: Resist Traps") \|  \| | \| [地牢探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "地牢探索者：抵抗陷阱") \|  \| |
@@ -21619,6 +22696,12 @@
 | Stormheart_Resolve_(Condition).md | 38 | Inspiration | 激励点 | \| [Mantle of Inspiration](Mantle_of_Inspiration_(Condition).md "Mantle of Inspiration (Condition)") \| Imbued with bardic vigour and granted 5 [temporary hit points](Temporary_Hit_Points.md "Temporary  | \| [激励斗篷](Mantle_of_Inspiration_(Condition).md "激励斗篷 (状态)") \| 被吟游诗人的活力灌注，获得 5 点 [临时生命值](Temporary_Hit_Points.md "临时生命值")。如果被近战攻击命中，攻击者变为 [魅惑](Charmed_(Condition).md "魅惑 (状态)")。 \| |
 | Strange_Gas.md | 19 | Weakened | 衰弱 | - Weakened by [alien fumes](Strange_Gas_(area)..md) [Vulnerable](Vulnerable.md "Vulnerable") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Piercing](Piercing.md "Piercing"), and ⁠[Slashing](Slash | - 被[异界气体](Strange_Gas_(area)削弱.md)。[易伤](Vulnerable.md "Vulnerable")于[钝击](Bludgeoning.md "Bludgeoning")、[穿刺](Piercing.md "Piercing")和[挥砍](Slashing.md "Slashing")伤害。 |
 | Strange_Gas_(area).md | 19 | Weakened | 衰弱 | - Weakened by [alien fumes](Strange_Gas_(area)..md) [Vulnerable](Vulnerable.md "Vulnerable") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Piercing](Piercing.md "Piercing"), and ⁠[Slashing](Slash | - 被[异界气体](Strange_Gas_(area)削弱.md)。对⁠[钝击](Bludgeoning.md "钝击")、⁠[穿刺](Piercing.md "穿刺")和⁠[挥砍](Slashing.md "挥砍")伤害[易伤](Vulnerable.md "Vulnerable")。 |
+| Strange_Ox.md | 6 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Strange_Ox.md | 71 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 暗视 |
+| Strange_Ox.md | 125 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 暗视 |
+| Strange_Ox.md | 179 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 暗视 |
+| Strange_Ox.md | 276 | Medium | 中级 | [Medium](Medium.md "Medium") | [中型](Medium.md "中型") |
+| Strange_Ox.md | 458 | Ooze | 泥型怪物 | Pressuring it to reveal its true identity results in the Ox threatening the party. The conversation can either end here or the interacting party member can continue asking questions. Questioning the O | 逼迫它揭示其真实身份会导致公牛威胁队伍。对话可以在此结束，或者交互的队伍成员可以继续提问。进一步质疑公牛会导致它变形为青色的[赭冻怪](Ochre_Jelly.md "土黄果冻怪")并与队伍进入战斗。<sup>[\[3\]](#cite_note-3)</sup><sup>[\[4\]](#cite_note-4)</sup>在此之前，它会告诉玩家角色它只是想要一种简单的干草生活和一个干净的马厩。 |
 | Strength.md | 62 | consumed | 吞噬 | The following items/entities can be consumed/used for a permanent bonus to Strength: | 以下物品/实体可以消耗/使用以获得永久的力量加值： |
 | Studded_Leather_Armour_+2.md | 16 | Enchantment | 惑控学派 | - Enchantment: **+ 2** | - 附魔：**+ 2** |
 | Studded_Shield.md | 3 | Shield | 护盾术 | A **Studded Shield** is a common [Shield](Shields.md "Shields"). | **镶钉盾**是一种常见的[盾牌](Shields.md "Shields")。 |
@@ -21651,6 +22734,18 @@
 | Sublimate.md | 192 | Githyanki | 吉斯洋基人 | 1. [↑](#cite_ref-4) If [Lady Esther](Esther.md "Esther") is not given the genuine Githyanki egg as part of ⁠[Steal a Githyanki Egg](Steal_a_Githyanki_Egg.md "Steal a Githyanki Egg"). | 1. [↑](#cite_ref-4) 如果[埃斯特女士](Esther.md "埃斯特女士")没有获得真正的吉斯洋基蛋，作为[偷一枚吉斯洋基蛋](Steal_a_Githyanki_Egg.md "偷一枚吉斯洋基蛋")的一部分。 |
 | Sublimate.md | 200 | Bonecap | 骨帽菇 | For the generic source ingredient, the cheapest possible choice has been used, except for Vitriols, for which Bonecap (5 gp) has been use instead of Black Oleander (4 gp), because the latter can only  | 对于通用来源成分，使用了最便宜的选择，但对于晶盐，使用了骨帽（5金币）而不是黑夹竹桃（4金币），因为后者只能在第三幕购买。价格比率值小于一意味着购买物品比购买制造成分更便宜。要将价格比率应用于成功掷骰的转化师，需将该值加倍。 |
 | Succulent_Pear.md | 22 | Flesh | 肉肉 | - Removes [Feverish](Feverish_(Condition).md "Feverish (Condition)"), [Filth Fever](Filth_Fever_(Condition).md "Filth Fever (Condition)"), [Rotting](Rotting_(Condition).md "Rotting (Condition)"), and  | - 移除[发烧](Feverish_(Condition).md "发烧 (状态)")、[污秽热](Filth_Fever_(Condition).md "污秽热 (状态)")、[腐烂](Rotting_(Condition).md "腐烂 (状态)")和[肉腐](Flesh_Rot_(Condition).md "肉腐 (状态)")。 |
+| Sulian.md | 6 | Portrait | 肖像画 | - Portrait | - 肖像 |
+| Sulian.md | 74 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 暗视 |
+| Sulian.md | 92 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Sulian.md | 138 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 暗视 |
+| Sulian.md | 156 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Sulian.md | 202 | Darkvision | 高级黑暗视觉 | ### Darkvision | ### 暗视 |
+| Sulian.md | 220 | Darkvision | 高级黑暗视觉 | - [**Darkvision**](Darkvision.md "Darkvision") | - [**黑暗视觉**](Darkvision.md "黑暗视觉") |
+| Sulian.md | 257 | Abilities | 属性 | - [2.1 Attacks and Abilities](#attacks-and-abilities) | - [2.1 攻击与能力](#攻击与能力) |
+| Sulian.md | 266 | Orin the Red | 腥红奥林 | Should the Dark Urge defeat [Orin the Red](Orin.md "Orin") and embrace Bhaal's gift, becoming the latter's Chosen, the [Harpers](Harpers.md "Harpers") set up an ambush at the entrance of the [Temple o | 如果邪念击败[奥林](Orin.md "奥林")并拥抱巴尔的馈赠，成为后者的选民，[竖琴手同盟](Harpers.md "竖琴手同盟")会在[巴尔神殿](Temple_of_Bhaal.md "巴尔神殿")入口处设下埋伏，前提是[贾希拉](Jaheira.md "贾希拉")存活。 |
+| Sulian.md | 268 | Chosen of Bhaal | 巴尔的选民 | Led by Jaheira and accompanied by [Minsc](Minsc.md "Minsc") (if rescued), the Harpers stand guard on the bridge leading out of the temple, preventing the party from leaving. The player character then  | 在贾希拉的带领下，并由[明斯克](Minsc.md "明斯克")（如果被救出）陪同，竖琴手们守卫在通往神殿外的桥梁上，阻止队伍离开。玩家角色随后与贾希拉就邪念作为[巴尔](Bhaal.md "巴尔")选民的角色进行简短交流，如果明斯克在场，可以通过其[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "夺心魔蝌蚪")用灵能控制他从背后刺伤贾希拉。这样做会立即杀死贾希拉，并触发与明斯克、苏 |
+| Sulian.md | 276 | Abilities | 属性 | ### Attacks and Abilities | ### 攻击与能力 |
+| Sulian.md | 289 | Lesser Restoration | 次级恢复 | [Lesser Restoration](Lesser_Restoration.md "Lesser Restoration") (+ ) | [次级复原术](Lesser_Restoration.md "次级复原术") (+ ) |
 | Sunbeam_(Condition).md | 5 | Can Recast Sunbeam | 可以再召阳炎射线 | - Can [Recast Sunbeam](Recast_Sunbeam.md "Recast Sunbeam") | - 可 [再召阳炎射线](Recast_Sunbeam.md "Recast Sunbeam") |
 | Sunbeam_(Condition).md | 28 | Can Recast Sunbeam | 可以再召阳炎射线 | - Can [Recast Sunbeam](Recast_Sunbeam.md "Recast Sunbeam") | - 可 [再召阳炎射线](Recast_Sunbeam.md "Recast Sunbeam") |
 | Superior_Elixir_of_Arcane_Cultivation.md | 5 | Level | 等级 | Superior Elixir of Arcane Cultivation is a rare elixir that grants an additional Level 3 spell slot. Replaces effects from other elixirs when drunk. | 特效奥术滋养灵药是一种稀有灵药，饮用后可获得一个额外的3级法术位。饮用时会替换其他灵药的效果。 |
