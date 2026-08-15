@@ -26,7 +26,7 @@
 
 **[GLOSSARY.md](GLOSSARY.md)** — 共 10,000+ 条词条，分为 22 个类别。
 
-该词汇表通过 [`resource/extract_glossary.py`](resource/extract_glossary.py) 脚本自动生成，数据来源包括：
+该词汇表通过游戏资源自动生成，数据来源包括：
 
 - `resource/Tooltips.json` — 游戏工具提示数据（含类型标注：Spell / Status / Passive / ActionResource 等），用于对词条进行初步分类
 - `resource/Tooltips_zh-CN.glo.txt` — 工具提示的中英文对照（UTF-16LE 编码的制表符分隔文件）
