@@ -3,9 +3,12 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
+| 阵营 | [巴尔教派](Cult_of_Bhaal.md "Cult of Bhaal") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [提夫林](Tiefling.md "提夫林") |
+| 亚种 | [梅菲斯特提夫林](Mephistopheles_Tiefling.md "Mephistopheles tiefling") |
+| 原型 | [夜刃](Night_Blade.md "Night Blade") |
 | 等级 | 3 |
 | 生命值 | 28 |
 | 护甲等级 | 12 |
@@ -13,29 +16,71 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 400 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")
+- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
-2 米 (7 英尺) 内的敌人对[穿刺](Piercing.md "穿刺")伤害[易伤](Vulnerable.md "易伤")。
+2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+能在一定距离内的黑暗中视物。
+
+- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+
+对所有[火焰](Fire.md "Fire")伤害具有[抗性](Resistant.md "Resistant")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")
+- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
-2 米 (7 英尺) 内的敌人对[穿刺](Piercing.md "穿刺")伤害[易伤](Vulnerable.md "易伤")。
+2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+能在一定距离内的黑暗中视物。
+
+- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+
+对所有[火焰](Fire.md "Fire")伤害具有[抗性](Resistant.md "Resistant")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+## 抗性 [(info)](Resistances.md "Resistances")
 
 - ## 状态
 
-- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")
+- \_(状态)[**谋杀灵光**](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
-2 米 (7 英尺) 内的敌人对[穿刺](Piercing.md "穿刺")伤害[易伤](Vulnerable.md "易伤")。
+2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+能在一定距离内的黑暗中视物。
+
+- [**炎狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+
+对所有[火焰](Fire.md "Fire")伤害具有[抗性](Resistant.md "Resistant")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
 
 **夜刃科尼什**是[博德之门](Baldur's_Gate.md "博德之门")[底城区](Undercity.md "底城区")的[底城废墟](Undercity_Ruins.md "底城废墟")中发现的一名提夫林[夜刃](Night_Blade.md "夜刃")。
 
@@ -61,6 +106,14 @@
 
 - [重弩](Heavy_Crossbow.md "重弩")
 - [烟粉箭](Smokepowder_Arrow.md "烟粉箭")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_LOW_UndercityPatrol1_Cultist_003` |
+| UUID | `da80e468-cadb-49da-934c-903ba912b7cf` |
+| Stats | `Tiefling_Cultist_Bhaal_NightBlade` |
 
 ---
 *Source: [Corniche](https://bg3.wiki/wiki/Corniche)*

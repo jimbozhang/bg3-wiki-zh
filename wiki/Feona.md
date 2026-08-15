@@ -44,6 +44,32 @@
 
 将下一次受到的伤害减少至 1 点，并消耗一层不可撼动。无法被外力移动。
 
+## 特性
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+- [**暗视**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+
+对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**嗜杀如渴**](Murder_Hungry.md "Murder Hungry")
+
+每次杀死一个生物，获得 1 层不可撼动。
+
+- [**凌弱**](Prey_Upon_the_Weak.md "Prey Upon the Weak")
+
+生命值在半数或以下的目标受到 +1d4 穿刺伤害。
+
 **巴尔的死亡牧首费奥纳**是[巴尔邪教](Cult_of_Bhaal.md "巴尔邪教")的成员，可在[下城区](Lower_City.md "下城区")的[清账屋](The_Counting_House.md "清账屋")的高安保金库中找到。
 
 ## 参与

@@ -13,6 +13,36 @@
 | 移动速度 | 9.0 米 (30 英尺) |
 | 经验值 | 250 |
 
+## 特性
+
+- [**双持客**](Dual_Wielder.md "Dual Wielder")
+
+即使使用非[轻型](Light_(weapon_property)..md)的单手武器也可以使用双武器战斗。
+
+- [**暗视**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**地狱抗性**](Hellish_Resistance.md "Hellish Resistance")
+
+对所有[火焰](Fire.md "火焰")[抗性](Resistant.md "Resistant")。
+
+- [**精通额外攻击**](Improved_Extra_Attack.md "Improved Extra Attack")
+
+在主手武器攻击后可以进行两次额外攻击。
+
+- [**还击**](Riposte_(passive_feature).md "Riposte (passive feature)")
+
+被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
+
+- [**双武器战斗**](Two-Weapon_Fighting.md "Two-Weapon Fighting")
+
+当你进行副手攻击时，可以将[属性调整值](Ability_score_modifier.md "属性调整值")加入伤害。
+
 **魔鬼 Qora** 是[艾拉丁·贝诺](Aradin_Beno.md "艾拉丁·贝诺")佣兵团的一员，如果他在[第三幕](Act_Three.md "第三幕")期间在营地与队伍对峙。
 
 ## 参与

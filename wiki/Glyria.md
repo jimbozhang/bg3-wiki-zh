@@ -44,6 +44,44 @@
 
 将下一次受到的伤害降低至 1 点，并消耗一层不可撼动。无法被外力移动。
 
+## 特性
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+
+对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+- [**嗜杀饥渴**](Murder_Hungry.md "嗜杀饥渴")
+
+每当你杀死一个生物，获得 1 层不可撼动。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**欺凌弱者**](Prey_Upon_the_Weak.md "欺凌弱者")
+
+生命值低于或等于一半的目标受到额外 +1d4 穿刺伤害。
+
+- [**哨兵：借机优势**](Sentinel_colon__Opportunity_Advantage.md "哨兵：借机优势")
+
+你在[借机攻击](Opportunity_Attack.md "借机攻击")上获得[优势](Advantage.md "优势")。
+
+- [**哨兵：诱捕**](Sentinel_colon__Snare.md "哨兵：诱捕")
+
+当你用[借机攻击](Opportunity_Attack.md "借机攻击")命中一个生物时，该生物在本回合剩余时间内无法移动。
+
+- [**哨兵：复仇**](Sentinel_colon__Vengeance.md "哨兵：复仇")
+
+当近战范围内的敌人攻击盟友时，你可以使用[反应](Reaction.md "反应")对该敌人进行一次武器攻击。目标盟友不能拥有哨兵专长。
+
 ## 参与
 
 莱瑞亚出现在[博德之门](Baldur's_Gate.md "博德之门")的[底城区](Undercity.md "底城区")的[巴尔神殿](Bhaal_Temple.md "巴尔神殿")中。

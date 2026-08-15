@@ -23,9 +23,31 @@
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 特性
 
-## 抗性 [(info)](Resistances.md "抗性")
+- [**冰冷打击**](Chilling_Strikes.md "冰冷打击")
+
+你的打击会对目标施加[骨寒](Bone_Chilled_(Condition).md "骨寒 (状态)")。它们无法恢复生命值，如果是不死生物则在攻击掷骰上具有劣势。
+
+- [**摧毁不死生物**](Destroy_Undead.md "摧毁不死生物")
+
+当你成功[驱散](Turned_(Condition).md "被驱散 (状态)")一个[不死生物](Undead.md "不死生物")时，它还会受到 4d6⁠⁠[光辉](Radiant.md "光辉")伤害。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**良好开端**](Favourable_Beginnings.md "良好开端")
+
+对任何目标的第一次[攻击掷骰](Attack_roll.md "攻击掷骰")或[属性检定](Ability_Check.md "属性检定")获得[熟练项](Proficiency.md "熟练项")加值。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击一个正在离开攻击范围的敌人。
+
+- [**坚韧**](Tenacity_(passive_feature).md "坚韧 (被动特性)")
+
+当近战攻击未命中时，仍然造成等于[力量](STR.md "力量")调整值的[钝击](Bludgeoning.md "钝击")伤害，最少为1。
 
 **渎神侍僧**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中敌对的[对策](Countermeasure.md "对策")异怪。
 

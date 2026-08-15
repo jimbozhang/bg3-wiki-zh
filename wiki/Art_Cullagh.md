@@ -1,10 +1,25 @@
 # 阿尔特·库拉
 
+## 焰拳阿尔特·库拉
+
+### 身份
+
+男性
+
+### 配音 / 演员
+
+- [Andrew Wheildon-Dennis](https://www.imdb.com/name/nm2340991/)
+
+### 阵营
+
+[焰拳](Flaming_Fist.md "焰拳")
+
+### 家乡
+
+[最后之光旅店](Last_Light_Inn.md "最后之光旅店")
+
 | | |
 | --- | --- |
-| 身份 | 男性 |
-| 声音 / 演员 | [Andrew Wheildon-Dennis](https://www.imdb.com/name/nm2340991/) |
-| 家乡 | [终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
@@ -25,15 +40,31 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 11 / (0) | 14 / (+2) | 12 / (+1) | 12 / (+1) | 14 / (+2) |
 
+## 状态
+
+- [**紧张症**](Catatonic_(Condition).md "紧张症（状态）")
+
+  - 阿尔特·库拉已经封闭自己，似乎对周围发生的一切都毫无反应。
+
 **特性**
 
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
 
 **特性**
 
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
 
 ## 状态
 

@@ -1,12 +1,16 @@
 # 帕维尔
 
+## 焰拳新兵 帕维尔
+
 | | |
 | --- | --- |
 | 身份 | 男性 |
 | 声音 / 演员 | [Declan Perring](https://www.imdb.com/name/nm9779536/) |
+| 阵营 | [焰拳](Flaming_Fist.md "焰拳") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
+| 原型 | [焰拳弓箭手](Flaming_Fist_Archer.md "焰拳弓箭手") |
 | 职业 | [游侠](Ranger.md "游侠") |
 
 | | 平衡 | 探索者 | 硬核 |

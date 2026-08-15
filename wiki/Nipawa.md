@@ -25,15 +25,25 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 11 / (0) | 14 / (+2) | 12 / (+1) | 12 / (+1) | 14 / (+2) |
 
-**特性**
+## 特性
 
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [**额外攻击**](Extra_Attack.md "额外攻击")
 
-**特性**
+在徒手或武器攻击后可以进行一次额外攻击。
 
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 特性
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
 
 **拳手尼帕瓦**是[第二幕](Act_Two.md "Act Two")中的一名[人类](Human.md "Human")[焰拳](Flaming_Fist.md "Flaming Fist")。她可以在[潜入月出之塔](Infiltrate_Moonrise_Towers.md "Infiltrate Moonrise Towers")期间帮助队伍。
 

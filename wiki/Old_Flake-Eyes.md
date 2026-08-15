@@ -66,6 +66,52 @@
 
 - ## 额外资源
 
+## 特性
+
+- [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
+
+每回合一次，当目标生命值未满时，你的武器攻击额外造成 1d8[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+
+- [**龙族血统：赤铜（强酸）**](Draconic_Ancestry_colon__Copper_(Acid).md "龙族血统：赤铜（强酸）")
+
+在 6 级时：[强酸](Acid.md "强酸")法术造成更多伤害；获得[元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "元素亲和：抗性")。
+
+- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "元素亲和：伤害")
+
+当你施放造成与你的龙族血统相关类型伤害的法术时，你将你的[魅力](Charisma.md "魅力")[调整值](Ability_score_modifier.md "属性调整值")加到伤害上。
+
+- [**冲出重围**](Escape_the_Horde.md "冲出重围")
+
+对你的[借机攻击](Opportunity_Attack.md "借机攻击")具有[劣势](Disadvantage.md "劣势")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+
+你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
+
+- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+
+你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再减慢你的速度。
+
+- [**多重攻击防御**](Multiattack_Defence.md "多重攻击防御")
+
+当敌人攻击你时，在其下一回合开始前，其对你进行的额外[攻击掷骰](Attack_rolls.md "攻击掷骰")有 -4 惩罚。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**钢铁意志**](Steel_Will.md "钢铁意志")
+
+对抗[恐慌](Frightened_(Condition).md "恐慌（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+- [**荒野漫游者：中毒**](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：中毒")
+
+你在恶臭沼泽中生存了无数日子。获得对[毒素](Poison.md "毒素")的[抗性](Resistance.md "抗性")，只受到一半伤害。
+
 **老诡眼**是[石之领主](Stone_Lord.md "石之领主")的[龙裔](Dragonborn.md "龙裔")追随者。
 
 ## 目录

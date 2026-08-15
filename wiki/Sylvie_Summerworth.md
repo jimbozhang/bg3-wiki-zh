@@ -1,18 +1,193 @@
-# 西尔维·萨莫沃斯
+# 西尔维·萨默沃思
 
-| | |
-| --- | --- |
-| 身份 | 女性 |
-| 配音 | - [娜塔莎·阿瑟顿](https://www.imdb.com/name/nm5442932/) |
-| 体型 | [小型](Small.md "小型") |
-| 类型 | [类人生物](Humanoid.md "类人生物") |
-| 种族 | [半身人](Halfling.md "半身人") |
-| 生命值 | 8 |
-| 护甲等级 | 10 |
-| 先攻 | 0 |
-| 移动速度 | 7.5 米 (25 英尺) |
+## 西尔维·萨默沃思
 
-**西尔维·萨莫沃斯**是[利文顿](Rivington.md "利文顿")的一位[半身人](Halfling.md "半身人")居民，她在[第三幕](Act_Three.md "第三幕")期间抱怨[剑湾快递](Sword_Coast_Couriers.md "剑湾快递")对她的信件的处理方式。
+- 游戏内
+- 肖像
+
+### 身份
+
+女性
+
+### 配音 / 演员
+
+- [娜塔莎·阿瑟顿](https://www.imdb.com/name/nm5442932/)
+
+### 家乡
+
+[利文顿](Rivington.md "Rivington")
+
+## 属性
+
+### 体型
+
+[小型](Small.md "Small")
+
+### 类型
+
+[类人生物](Humanoid.md "Humanoid")
+
+### 种族
+
+[半身人](Halfling.md "Halfling")
+
+### 亚种
+
+[轻足半身人](Lightfoot_Halfling.md "Lightfoot halfling")
+
+- 平衡
+
+- 探索者
+
+- 硬核
+
+## 平衡难度属性
+
+### 生命值
+
+8
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 黑暗视觉
+
+0 米 (0 英尺)
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 特性
+
+- [**勇敢**](Brave.md "Brave")
+
+对[豁免检定](Saving_throws.md "Saving throws")抵抗[恐惧](Frightened.md "Frightened")时具有[优势](Advantage.md "Advantage")。
+
+- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+
+当[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")掷出1时，重投一次并使用新结果。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 生命值
+
+5
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 黑暗视觉
+
+0 米 (0 英尺)
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## 特性
+
+- [**勇敢**](Brave.md "Brave")
+
+对[豁免检定](Saving_throws.md "Saving throws")抵抗[恐惧](Frightened.md "Frightened")时具有[优势](Advantage.md "Advantage")。
+
+- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+
+当[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")掷出1时，重投一次并使用新结果。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 硬核难度属性
+
+### 生命值
+
+10
+
+### 护甲等级
+
+10
+
+### 先攻
+
+0
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 黑暗视觉
+
+0 米 (0 英尺)
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+## 特性
+
+- [**勇敢**](Brave.md "Brave")
+
+对[豁免检定](Saving_throws.md "Saving throws")抵抗[恐惧](Frightened.md "Frightened")时具有[优势](Advantage.md "Advantage")。
+
+- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+
+当[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")掷出1时，重投一次并使用新结果。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_WYR_MissingLetters_FemaleHalfling` ###
+
+UUID
+
+`8da69a0e-fa94-49ee-9a8c-2d8d01fabe11` ###
+
+Stats
+
+`Halfling_Commoner` **西尔维·萨默沃思**是[利文顿](Rivington.md "Rivington")的一位[半身人](Halfling.md "半身人")居民，她在[第三幕](Act_Three.md "第三幕")期间抱怨[剑湾快递](Sword_Coast_Couriers.md "剑湾快递")对她的信件的处理方式。
 
 > “
 >
@@ -20,7 +195,7 @@
 >
 > „
 
-— 西尔维·萨莫沃斯
+— 西尔维·萨默沃思
 
 ## 参与
 
@@ -30,8 +205,8 @@
 
 ## 闲谈
 
-- 西尔维·萨莫沃斯
-  他们说“寄送与服务”。好吧，我说这是胡说八道！我不敢相信他们弄丢了我的信件。
+- 西尔维·萨默沃斯
+  他们说"寄送与服务"。好吧，我说这是胡说八道！我不敢相信他们弄丢了我的信件。
 
 - 伦达夫
   我相信你的信件会出现的——要有耐心。

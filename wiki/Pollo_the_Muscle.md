@@ -13,6 +13,36 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 250 |
 
+## 特性
+
+- [**警觉**](Alert.md "警觉")
+
+[先攻](Initiative.md "先攻") +5，且不会被[突袭](Surprised.md "突袭")。
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**精灵血统**](Fey_Ancestry.md "精灵血统")
+
+对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不能被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**决斗**](Duelling.md "决斗")
+
+当你单手挥舞一把非双手近战武器，且另一只手没有武器时，你使用该武器额外造成 2 点伤害。
+
+- [**精通战斗卓越**](Improved_Combat_Superiority.md "精通战斗卓越")
+
+你的[卓越骰子](Battle_Master.md#Level_3 "战斗大师")增加到 d10。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
 **肌肉男波洛**是[半高精灵](High_Half-Elf.md "半高精灵")[战士](Fighter.md "战士")，也是[顾问弗洛瑞克](Florrick.md "顾问弗洛瑞克")的盟友。他是[威尔](Wyll.md "威尔")与[米佐拉](Mizora.md "米佐拉")解除契约后，前来与队伍对峙的随从之一。
 
 ## 内容

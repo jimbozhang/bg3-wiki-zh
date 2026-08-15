@@ -12,6 +12,24 @@
 | 先攻 | +3 |
 | 经验值 | 200 |
 
+**特性**
+
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
+- [吉斯洋基战争魔法](Githyanki_War_Magic.md "吉斯洋基战争魔法")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能守御](Psionic_Ward_(passive_feature).md "灵能守御（被动特性）")
+- [斥退魔爆](Repelling_Blast.md "斥退魔爆")
+
+**特性**
+
+- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
+- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
+- [吉斯洋基战争魔法](Githyanki_War_Magic.md "吉斯洋基战争魔法")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [灵能守御](Psionic_Ward_(passive_feature).md "灵能守御（被动特性）")
+- [斥退魔爆](Repelling_Blast.md "斥退魔爆")
+
 ## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源

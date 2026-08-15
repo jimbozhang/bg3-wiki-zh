@@ -13,25 +13,43 @@
 
 ## 状态
 
-- [邪恶灵药](Elixir_of_Viciousness_(Condition).md "邪恶灵药 (状态)")
+- [**邪恶灵药**](Elixir_of_Viciousness_(Condition).md "邪恶灵药 (状态)")
 
 重击所需掷骰点数减少 1。
 
-- [大步奔行](Longstrider_(Condition).md "大步奔行 (状态)")
+- [**大步奔行**](Longstrider_(Condition).md "大步奔行 (状态)")
 
 移动速度增加 3 米（10 英尺）。
 
-## 状态
+## 特性
 
-- [邪恶灵药](Elixir_of_Viciousness_(Condition).md "邪恶灵药 (状态)")
+- [**额外攻击**](Extra_Attack.md "额外攻击")
 
-重击所需掷骰点数减少 1。
+在徒手或武器攻击后可以进行一次额外攻击。
 
-- [大步奔行](Longstrider_(Condition).md "大步奔行 (状态)")
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
 
-移动速度增加 3 米（10 英尺）。
+攻击一个正在离开攻击范围的敌人。
 
-**古尔猎人战士**是[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")期间可召唤的盟友，前提是队伍杀死了[卡扎多尔](Cazador.md "卡扎多尔")。
+- [**暗渴之疤**](Scar_of_Dark_Thirst.md "暗渴之疤")
+
+当此角色的生命值低于90%时，其[攻击](Attacks.md "攻击")可能会施加流血效果。
+
+## 技术信息
+
+###
+
+UID
+
+`S_END_GurHunter_003` ###
+
+UUID
+
+`57695b10-4011-46fa-b2a7-8cbb0a98423c` ###
+
+Stats
+
+`WYR_GurHunter_Melee_DarkThirst` **古尔猎人战士**是[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")期间可召唤的盟友，前提是队伍杀死了[卡扎多尔](Cazador.md "卡扎多尔")。
 
 ## 内容
 

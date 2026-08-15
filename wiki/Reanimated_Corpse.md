@@ -16,17 +16,19 @@
 
 - ## 状态
 
-- [死灵坚毅](Undead_Fortitude_(Condition).md "死灵坚毅 (状态)")
+- [不死坚韧](Undead_Fortitude_(Condition).md "不死坚韧 (状态)")
 
   - 当生命值降至0时，改为恢复1点生命值（除非伤害是光耀伤害或由重击造成）。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 特性
 
-- ## 状态
+- [借机攻击](Opportunity_Attack.md "借机攻击")
 
-- [死灵坚毅](Undead_Fortitude_(Condition).md "死灵坚毅 (状态)")
+攻击一个移出攻击范围的敌人。
 
-  - 当生命值降至0时，改为恢复1点生命值（除非伤害是光耀伤害或由重击造成）。
+- [不死坚韧](Undead_Fortitude.md "不死坚韧")
+
+如果致命一击不是重击且不是光耀伤害，这个不死生物会以1点生命值复活。
 
 **复活的尸体**是僵尸[矮人](Dwarf.md "矮人")，由[格克·煤球](Gekh_Coal.md "格克·煤球")在[幽暗地域](Underdark.md "幽暗地域")复活，以攻击队伍。
 

@@ -30,17 +30,33 @@
 
 **特性**
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [**暗视**](Darkvision.md "暗视")
 
-**特性**
+可以在黑暗中看到一定距离内的事物。
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [侏儒狡黠](Gnome_Cunning.md "Gnome Cunning")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
 
-**塔汉**是[第一幕](Act_One.md "Act One")期间执行[荆棘仪式](Rite_of_Thorns_(ritual)的德鲁伊之一.md)。
+你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击一个正在离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_DEN_RitualDruid_005` ###
+
+UUID
+
+`641fc4b5-3c42-4c4d-a759-541ad437f9df` ###
+
+Stats
+
+`DEN_Tahan` **塔汉**是[第一幕](Act_One.md "Act One")期间执行[荆棘仪式](Rite_of_Thorns_(ritual).md "荆棘仪式")的德鲁伊之一。
 
 > “
 >

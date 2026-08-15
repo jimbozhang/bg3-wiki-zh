@@ -5,6 +5,7 @@
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
+| 原型 | [掠夺者](Raider.md "Raider") |
 | 职业 | [战士](Fighter.md "战士") |
 
 | | 平衡 | 探索者 | 硬核 |
@@ -25,17 +26,57 @@
 
 **特性**
 
-- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
-- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [**强弩专家：近距平射**](Crossbow_Expert_colon__Point-Blank.md "Crossbow Expert: Point-Blank")
+
+近战范围内的弩攻击不会受到[劣势](Disadvantage.md "Disadvantage")。
+
+- [**强弩专家：伤害**](Crossbow_Expert_colon__Wounding.md "Crossbow Expert: Wounding")
+
+你的[穿刺射击](Piercing_Shot.md "Piercing Shot")施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")的持续时间翻倍。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
 
 **特性**
 
-- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
-- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [**强弩专家：近距平射**](Crossbow_Expert_colon__Point-Blank.md "Crossbow Expert: Point-Blank")
+
+近战范围内的弩攻击不会受到[劣势](Disadvantage.md "Disadvantage")。
+
+- [**强弩专家：伤害**](Crossbow_Expert_colon__Wounding.md "Crossbow Expert: Wounding")
+
+你的[穿刺射击](Piercing_Shot.md "Piercing Shot")施加[开放伤口](Gaping_Wounds_(Condition).md "Gaping Wounds (Condition)")的持续时间翻倍。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+**战术家难度额外特性**
+
+- [**射击术**](Archery.md "Archery")
+
+使用远程[武器](Weapons.md "Weapons")进行[攻击检定](Attack_roll.md "Attack roll")时获得 +2 加值。
+
+- [**灵能强化**](Psionic_Empowerment.md "Psionic Empowerment")
+
+你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "Psychic")伤害——灵吸怪奴役的伤痕根深蒂固。
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_GLO_GithRaider_002` |
+| UUID | `5dd3bb4a-97fa-48b6-9489-5cd577d217f2` |
+| Stats | `Githyanki_Raider` |
 
 **掠夺者乔斯特**是[山隘](Mountain_Pass.md "山隘")中[第一幕](Act_One.md "第一幕")期间的一名吉斯洋基掠夺者。
 

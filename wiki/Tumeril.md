@@ -26,7 +26,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 12 / (+1) | 10 / (0) | 18 / (+4) | 12 / (+1) | 14 / (+2) |
 
-**图梅里尔**是一位年轻的<sup>[\[1\]](#cite_note-1)</sup> [竖琴手](Harper.md "Harper")，他在[第二幕](Act_Two.md "Act Two")期间守卫着[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")的入口。
+## 特性
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**精灵血统**](Fey_Ancestry.md "精灵血统")
+
+在对抗[魅惑](Charmed_(Condition).md "魅惑 (状态)")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不能被魔法[入睡](Sleeping_(Condition).md "入睡 (状态)")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击一个正在离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_HAV_HavenOutcasts_EntranceGuards_Caster_HighElf` ###
+
+UUID
+
+`825714dd-7df9-4cd1-aecb-edf577baa487` ###
+
+Stats
+
+`HAV_Harper_Elf_Caster` **图梅里尔**是一位年轻的<sup>[\[1\]](#cite_note-1)</sup> [竖琴手](Harper.md "竖琴手")，他在[第二幕](Act_Two.md "Act Two")期间守卫着[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")的入口。
 
 > “
 >

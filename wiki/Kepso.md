@@ -1,202 +1,198 @@
-# Kepso
+# 凯普索
 
 | | |
 | --- | --- |
-| 身份 | Male |
+| 身份 | 男性 |
 | 配音 | - [Danny Rahim](https://www.imdb.com/name/nm3281039/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
-| 等级 | 8 |
-| 生命值 | 62 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 9 m (30 ft) |
-| 经验值 | 200 |
+| 职业 | [战士](Fighter.md "战士") |
+| 原型 | [焰拳戟兵](Flaming_Fist_Guisarmier.md "Flaming Fist Guisarmier") |
 
-## Tactician Difficulty Stats
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 8 | 8 | 8 |
+| 生命值 | 62 | 59 | 64 |
+| 护甲等级 | 16 | 16 | 16 |
+| 先攻 | +1 | +1 | +1 |
+| 熟练项 | +3 | +5 | +3 |
+| 移动速度 | 9 米 (30 英尺) | 9 米 (30 英尺) | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
+| 暗视 | 0 米 (0 英尺) | 0 米 (0 英尺) | 0 米 (0 英尺) |
+| 经验值 | 200 | 200 | 200 |
 
-### Level
-
-8
-
-### HP
-
-64
-
-### AC
-
-16
-
-### Initiative
-
-+1
-
-### Proficiency
-
-+3
-
-### Movement
-
-9 m (30 ft)
-
-### Weight
-
-75 kg (150 lb)
-
-### Darkvision
-
-0 m (0 ft)
-
-### XP reward
-
-200
-
-| Ability scores | STR | DEX | CON | INT | WIS | CHA |
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
 
-## Contents
+**特性**
 
-- [1 Involvement](#Involvement)
-- [2 Combat](#Combat)
-  - [2.1 Attacks and abilities](#Attacks-and-abilities)
-  - [2.2 Notable loot](#Notable-loot)
-- [3 Idle banter](#Idle-banter)
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
 
-## Involvement
+**特性**
 
-Kepso is stationed together with [Fist Wearne](Wearne.md "Wearne") and [Fist Silena](Silena.md "Silena") outside the [南翼检查点](South_Span_Checkpoint.md "South Span Checkpoint") and is responsible for addressing local complaints. They form the first line of guard, preventing refugees from entering [博德之门](Baldur's_Gate.md "Baldur's Gate") through [飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing"). Silena and Kepso are arguing with [诺瑞拉·克里斯特](Noira_Crysst.md "Noira Crysst") and [荷鲁斯·克里斯特](Horus_Crysst.md "Horus Crysst"), who fruitlessly beg to let them in.
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [方阵队形](Phalanx_Formation.md "方阵队形")
+- [反击](Riposte_(passive_feature).md "反击（被动特性）")
 
-Like most other Fists at the checkpoint, Kepso abhors the presence of refugees. Unlike Silena, he does not mince words while expessing his opinion in their faces.
+**焰拳凯普索**是一名[人类](Human.md "人类")[战士](Fighter.md "战士")，也是[焰拳](Flaming_Fist.md "焰拳")的成员。他可以在[第三幕](Act_Three.md "第三幕")的[利文顿](Rivington.md "利文顿")找到。
 
-## Combat
+> “
+>
+> 你想怎么哭就怎么哭——我们要养活的人已经够多了。不需要你们这种人。
+>
+> „
 
-### Attacks and abilities
+— 凯普索，对荷鲁斯·克里斯特说
 
-[劈砍](Cleave.md "Cleave") – [长戟](Halberd.md "Halberd")
+## 目录
 
-Damage:
+- [1 参与](#参与)
+- [2 战斗](#战斗)
+  - [2.1 攻击与能力](#攻击与能力)
+  - [2.2 值得一提的战利品](#值得一提的战利品)
+- [3 闲聊](#闲聊)
 
-1/2 Normal weapon damage
+## 参与
 
-Swing your weapon in a large arc to attack up to 3 enemies at once. They each take half the damage your weapon usually deals.
+凯普索与[焰拳沃恩](Wearne.md "焰拳沃恩")和[焰拳西琳娜](Silena.md "焰拳西琳娜")一起驻扎在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")外，负责处理当地投诉。他们组成了第一道防线，阻止难民通过[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")进入[博德之门](Baldur's_Gate.md "博德之门")。西琳娜和凯普索正在与[诺瑞拉·克里斯特](Noira_Crysst.md "诺瑞拉·克里斯特")和[荷鲁斯·克里斯特](Horus_Crysst.md "荷鲁斯·克里斯特")争论，后者徒劳地恳求让他们进去。
 
-Recharge: [短休](Short_rest.md "Short rest")
+和检查站的大多数其他焰拳一样，凯普索厌恶难民的存在。与西琳娜不同，他在当面表达自己的看法时毫不掩饰。
 
-[割裂](Lacerate.md "Lacerate") – [长戟](Halberd.md "Halberd")
+## 战斗
 
-Damage: 6~15
+### 攻击与能力
 
-1d10 + 5⁠[挥砍](Slashing.md "Slashing")
+[劈砍](Cleave.md "劈砍") – [长戟](Halberd.md "长戟")
 
-Slash at your target's vital points to make it [流血](Bleeding_(Condition).md "Bleeding (Condition)").
+伤害：
 
-[不死生物](Undead.md "Undead") and [构装生物](Constructs.md "Constructs") can't bleed.
+1/2 普通武器伤害
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
-Range: Normal weapon range
-Recharge: [短休](Short_rest.md "Short rest")
+挥舞武器进行大范围弧线攻击，最多同时攻击 3 个敌人。他们各自受到你武器通常造成伤害的一半。
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [长戟](Halberd.md "Halberd")
+充能：[短休](Short_rest.md "短休")
 
-Damage: 6~15
+[割裂](Lacerate.md "割裂") – [长戟](Halberd.md "长戟")
 
-1d10 + 5⁠[挥砍](Slashing.md "Slashing")
+伤害：6~15
 
-Make a melee attack with your equipped weapon.
+1d10 + 5⁠[挥砍](Slashing.md "挥砍")
 
-Melee: 1.5 m (5 ft)
+劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血 (状态)")。
 
-[突进攻击](Rush_Attack.md "Rush Attack") – [长戟](Halberd.md "Halberd")
+[不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-Damage: 6~9
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")
+射程：普通武器射程
+充能：[短休](Short_rest.md "短休")
 
-1d4 + 5⁠[穿刺](Piercing.md "Piercing")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [长戟](Halberd.md "长戟")
 
-Charge forward and attack the first enemy in your way, possibly pushing them [失衡](Off_Balance_(Condition).md "Off Balance (Condition)").
+伤害：6~15
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "Saving throws")
-Range: 9 m (30 ft)
-Recharge: [短休](Short_rest.md "Short rest")
+1d10 + 5⁠[挥砍](Slashing.md "挥砍")
 
-[横扫攻击](Sweeping_Attack.md "Sweeping Attack") (+ ) – [长戟](Halberd.md "Halberd")
+用装备的武器进行近战攻击。
 
-Damage:
+近战：1.5 米 (5 英尺)
 
-[卓越骰子](Battlemaster.md#Superiority_dice "Battlemaster")
+[突进攻击](Rush_Attack.md "突进攻击") – [长戟](Halberd.md "长戟")
 
-Swing your weapon in a rapid, sweeping arc to attack multiple enemies at once. Roll your superiority die for damage.
+伤害：6~9
 
-Recharge: Per turn
+1d4 + 5⁠[穿刺](Piercing.md "穿刺")
 
-[投掷](Throw.md "Throw") – [标枪](Javelin.md "Javelin")
+向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 
-Damage: 6~11
+[力量](Strength.md "力量")[豁免检定](Saving_throws.md "豁免检定")
+射程：9 米 (30 英尺)
+充能：[短休](Short_rest.md "短休")
 
-1d6 + 5⁠[穿刺](Piercing.md "Piercing")
+[横扫攻击](Sweeping_Attack.md "横扫攻击") (+ ) – [长戟](Halberd.md "长戟")
 
-Throw a character or item from the world or your inventory.
+伤害：
 
-Your [力量](Strength.md "Strength") affects how much weight you can throw. Heavier items deal more damage.
+[卓越骰子](Battlemaster.md#Superiority_dice "战斗大师")
 
-The damage of weapons with the [投掷攻击](Thrown.md "Thrown") property is the same as the weapon's melee damage.
+快速挥舞武器进行大范围弧线攻击，同时攻击多个敌人。掷卓越骰子计算伤害。
 
-Range: 3-18 m (10-60 ft)
+充能：每回合
 
-### Notable loot
+[投掷](Throw.md "投掷") – [标枪](Javelin.md "标枪")
 
-- [链甲](Chain_Mail.md "Chain Mail")
-- [长戟](Halberd.md "Halberd")
-- [头盔](Helmet.md "Helmet")
-- [标枪](Javelin.md "Javelin") - x2
+伤害：6~11
 
-## Idle banter
+1d6 + 5⁠[穿刺](Piercing.md "穿刺")
 
-- Fist Kepso
-  Citizens only. I won't say it again.
+从世界中或你的库存中投掷一个角色或物品。
 
-- Horus Crysst
-  But - but we walked clear from ⁠[Amn](https://forgottenrealms.fandom.com/wiki/Amn). There's nowhere else to go. Please -
+你的[力量](Strength.md "力量")影响你能投掷的重量。较重的物品造成更多伤害。
 
-- Fist Silena
-  Orders are orders. We've got ours, you've got yours. I need you to step back.
+具有[投掷](Thrown.md "投掷")属性的武器的伤害与该武器的近战伤害相同。
 
-- Noira Crysst
-  There must be something -
+射程：3-18 米 (10-60 英尺)
 
-- Fist Silena
-  I said _step back._
+### 值得一提的战利品
 
-- Horus Crysst
-  Please. My son - he's only a boy. You must understand -
+- [链甲](Chain_Mail.md "链甲")
+- [长戟](Halberd.md "长戟")
+- [头盔](Helmet.md "头盔")
+- [标枪](Javelin.md "标枪") - x2
 
-- Fist Silena
-  Sir. _Sir._ We can't let you in.
+## 闲聊
 
-- Horus Crysst
-  I - I thought we'd be safe in the Gate. I heard the stories.
+- 焰拳凯普索
+  仅限公民。我不会再说第二遍。
 
-- Fist Kepso
-  Wail all you want - we've got enough mouths to feed. We don't need your kind.
+- 荷鲁斯·克里斯特
+  但是——但我们从[阿姆](https://forgottenrealms.fandom.com/wiki/Amn)一路走来。没有其他地方可去了。求求你——
 
-- Horus Crysst
-  Our - our kind?
+- 焰拳西琳娜
+  命令就是命令。我们有我们的命令，你们有你们的。我需要你退后。
 
-- Fist Kepso
-  Refugees. _Outsiders._
+- 诺瑞拉·克里斯特
+  一定有什么办法——
 
-- Fist Silena
-  Enough, Kepso. Sir, you need to stay clear.
+- 焰拳西琳娜
+  我说了_退后。_
 
-- Noira Crysst
-  The Duke - Ravengard, I think. I heard he's a good man.
+- 荷鲁斯·克里斯特
+  拜托。我的儿子——他还只是个孩子。你必须理解——
 
-- Horus Crysst
-  Let us talk to him. Please. If he could just -
+- 焰拳西琳娜
+  先生。_先生。_我们不能让你进去。
 
-- Fist Kepso
-  We have the Duke's full support. For the good of the people. _Our_ people.
+- 荷鲁斯·克里斯特
+  我——我以为我们在城门内就安全了。我听过那些故事。
+
+- 焰拳凯普索
+  你想怎么哭就怎么哭——我们要养活的人已经够多了。不需要你们这种人。
+
+- 荷鲁斯·克里斯特
+  我们——我们这种人？
+
+- 焰拳凯普索
+  难民。_外来者。_
+
+- 焰拳西琳娜
+  够了，凯普索。先生，你需要离远点。
+
+- 诺瑞拉·克里斯特
+  公爵——雷文伽德，我想。我听说他是个好人。
+
+- 荷鲁斯·克里斯特
+  让我们和他谈谈。拜托。如果他能——
+
+- 焰拳凯普索
+  我们有公爵的全力支持。为了人民的利益。_我们_的人民。
 
 ---
 *Source: [Kepso](https://bg3.wiki/wiki/Kepso)*

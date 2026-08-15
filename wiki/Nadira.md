@@ -29,30 +29,16 @@
 **特性**
 
 - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
 - [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
+
+对所有[火焰](Fire.md "火焰")伤害具有[抗性](Resistant.md "抗性")。
+
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**特性**
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-## 抗性 [(info)](Resistances.md "抗性")
-
-- ## 状态
-
-- [恐惧](Fearful_(Condition).md "恐惧 (状态)")
-
-在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且必须逃离恐惧来源，无法采取额外动作。在回合结束时进行[豁免检定](Saving_throw.md "豁免检定")以摆脱此效果。
-
-## 抗性 [(info)](Resistances.md "抗性")
-
-- ## 状态
-
-- [恐惧](Fearful_(Condition).md "恐惧 (状态)")
-
-在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且必须逃离恐惧来源，无法采取额外动作。在回合结束时进行[豁免检定](Saving_throw.md "豁免检定")以摆脱此效果。
+攻击一个移出攻击范围的敌人。
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
@@ -64,7 +50,7 @@
 
 **纳迪拉**是在[翠绿林地](Emerald_Grove.md "翠绿林地")寻求庇护的提夫林难民之一，位于[第一幕](Act_One.md "第一幕")。
 
-> “
+> "
 >
 > 我能不眨眼就说服一只复仇女神放弃她最爱的灵魂钱币。而你还没她一半可怕。
 >
@@ -132,7 +118,7 @@
 
 伤害：0~3
 
-1d4 - 1⁠[钝击](Bludgeoning.md "钝击")
+1d4 - 1[钝击](Bludgeoning.md "钝击")
 
 向敌人投掷一块锋利的石头。
 
@@ -142,7 +128,7 @@
 
 伤害：
 
-⁠[钝击](Bludgeoning.md "钝击")
+[钝击](Bludgeoning.md "钝击")
 
 用空手击中目标。
 
@@ -154,8 +140,8 @@
 
 ## 相关任务
 
-- ⁠[突袭林地](Raid_the_Grove.md "突袭林地")
-- ⁠[解救难民](Save_the_Refugees.md "解救难民")
+- [突袭林地](Raid_the_Grove.md "突袭林地")
+- [解救难民](Save_the_Refugees.md "解救难民")
 
 ## 画廊
 

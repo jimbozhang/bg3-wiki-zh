@@ -27,14 +27,16 @@
 **特性**
 
 - [额外攻击](Extra_Attack.md "额外攻击")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
 - [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击一个移出攻击范围的敌人。
+
 - [守护](Protection.md "守护")
 
-**特性**
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [守护](Protection.md "守护")
+当你装备[盾牌](Shields.md "盾牌")时，在1.5米（5英尺）范围内，对攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
 
 **重拳手皂石**是[下城区](Lower_City.md "下城区")的一名[人类](Human.md "人类")战士，也是[焰拳](Flaming_Fist.md "焰拳")的成员。
 

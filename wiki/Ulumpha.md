@@ -1,9 +1,14 @@
-# 乌拉姆夫
+# 乌伦法
+
+## 乌伦法
+
+死眼帮成员
 
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 体型 | [中级](Medium.md "Medium") |
+| 阵营 | [死眼帮](Dead_Eyes.md "死眼帮") |
+| 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半兽人](Half-Orc.md "Half-orc") |
 | 职业 | [圣武士](Paladin.md "Paladin") |

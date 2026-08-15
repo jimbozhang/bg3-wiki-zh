@@ -24,47 +24,43 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 11 / (0) | 16 / (+3) | 10 / (0) | 10 / (0) | 14 / (+2) |
 
-**特性**
+### 特性
 
-- [危机感知](Danger_Sense.md "危机感知")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [快速移动](Fast_Movement.md "快速移动")
-- [野性直觉](Feral_Instinct.md "野性直觉")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [羊群一员](Part_of_the_Flock.md "羊群一员")
-- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
-- [睚眦必报](Vengeful.md "睚眦必报")
+- [**危机感知**](Danger_Sense.md "危机感知")
 
-**特性**
+对抗陷阱、法术和地面效果的敏捷豁免检定具有优势。无法被致盲或失能。
 
-- [危机感知](Danger_Sense.md "危机感知")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [快速移动](Fast_Movement.md "快速移动")
-- [野性直觉](Feral_Instinct.md "野性直觉")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [羊群一员](Part_of_the_Flock.md "羊群一员")
-- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
-- [睚眦必报](Vengeful.md "睚眦必报")
+- [**额外攻击**](Extra_Attack.md "额外攻击")
 
-## 状态
+徒手或武器攻击后可进行一次额外攻击。
 
-- [低语幻影](Ephemeral_Whispers_(Condition).md "低语幻影 (状态)")
+- [**快速移动**](Fast_Movement.md "快速移动")
 
-  - 受埃赛尔的低语诱惑。
+不穿重甲时，[移动速度](Movement_speed.md "移动速度") 增加 3 米 / 10 英尺。
 
-  - 此生物必须在回合开始时通过一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 13 的 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则将被施加 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")。
+- [**野性直觉**](Feral_Instinct.md "野性直觉")
 
-## 状态
+先攻获得 +3 加值，且无法被突袭。
 
-- [低语幻影](Ephemeral_Whispers_(Condition).md "低语幻影 (状态)")
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
 
-  - 受埃赛尔的低语诱惑。
+攻击移出触及范围的敌人。
 
-  - 此生物必须在回合开始时通过一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 13 的 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则将被施加 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")。
+- [**羊群一员**](Part_of_the_Flock.md "羊群一员")
 
-## 状态
+埃赛尔婶婶欢迎你，亲爱的。
 
-- [低语幻影](Ephemeral_Whispers_(Condition).md "低语幻影 (状态)")
+- [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+
+无护甲时，将 [体质](Constitution.md "体质") 调整值加到 [护甲等级](AC.md "AC") 上。
+
+- [**睚眦必报**](Vengeful.md "睚眦必报")
+
+该生物获得一次额外反应。被攻击时，可使用反应以 [复仇打击](Vengeful_Strike.md "Vengeful Strike") 反击，造成武器伤害和 2d6 [心灵](Psychic.md "心灵") 伤害。
+
+### 状态
+
+- [**低语幻影**](Ephemeral_Whispers_(Condition).md "低语幻影 (状态)")
 
   - 受埃赛尔的低语诱惑。
 

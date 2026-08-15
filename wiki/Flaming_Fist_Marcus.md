@@ -24,6 +24,32 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 23 / (+6) | 16 / (+3) | 16 / (+3) | 10 / (0) | 10 / (0) | 10 / (0) |
 
+## 特性
+
+- [**黑暗奉献**](Dark_Devotion.md "黑暗奉献")
+
+对抗[魅惑](Charmed_(Condition).md)或[恐慌](Frightened_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**野性直觉**](Feral_Instinct.md "野性直觉")
+
+你获得 +3 先攻，且不能被突袭。
+
+- [**巨武器大师：附赠攻击**](Great_Weapon_Master_colon__Bonus_Attack.md "巨武器大师：附赠攻击")
+
+当你造成[重击](Critical_Hit.md "重击")或用近战武器攻击杀死目标时，你可以在该回合再进行一次近战武器攻击作为[附赠动作](Actions.md#Resources "动作")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**坚韧**](Tenacity_(passive_feature).md "坚韧（被动特性）")
+
+近战攻击未命中时，仍造成等于[力量](STR.md "力量")调整值的[钝击](Bludgeoning.md "钝击")伤害（最低 1 点）。
+
 **焰拳马库斯**是[焰拳](Flaming_Fist.md "焰拳")的前成员，在[第二幕](Act_Two.md "第二幕")期间转变为[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")的精英密探。
 
 > “

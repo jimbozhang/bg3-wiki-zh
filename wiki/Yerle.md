@@ -4,11 +4,60 @@
 | --- | --- |
 | 身份 | 女性 |
 | 声音 / 演员 | [Nneka Okoye](https://www.imdb.com/name/nm6143542/) |
+| 阵营 | [散塔林会](Zhentarim.md "Zhentarim") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [半精灵](Half-Elf.md "Half-elf") |
 | 亚种 | [半高精灵](High_Half-Elf.md "High half-elf") |
 | 职业 | [游侠](Ranger.md "Ranger") |
+
+## Yerle / 第一幕
+
+- 平衡
+- 探索者
+- 硬核
+
+## 平衡难度属性
+
+| | 平衡 | 探索者 | 硬核 |
+| --- | --- | --- | --- |
+| 等级 | 3 | 3 | 3 |
+| 生命值 | 25 | 17 | 33 |
+| 护甲等级 | 13 | 13 | 13 |
+| 先攻 | +2 | +2 | +2 |
+| 熟练项 | +2 | +4 | +2 |
+| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
+| 重量 | 75 kg (150 lb) | 75 kg (150 lb) | 75 kg (150 lb) |
+| 暗视 | 12 m (40 ft) | 12 m (40 ft) | 12 m (40 ft) |
+| 经验奖励 | 20 | 20 | 20 |
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 平衡 | 15 / (+2) | 14 / (+2) | 14 / (+2) | 14 / (+2) | 10 / (0) | 12 / (+1) |
+| 探索者 | +2 | +2 | +2 | +4 | +2 | +1 |
+| 硬核 | 15 / (+2) | 14 / (+2) | 14 / (+2) | 14 / (+2) | 10 / (0) | 12 / (+1) |
+
+**特性**
+
+- [黑暗视觉](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+
+对[豁免检定](Saving_throw.md "Saving throw")被[魅惑](Charmed_(Condition).md)具有优势；无法被魔法[催眠](Sleeping_(Condition).md)。
+
+- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+对离开攻击范围的敌人进行攻击。
+
+## Yerle / 第二幕
+
+- 平衡
+- 探索者
+- 硬核
+
+## 平衡难度属性
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -23,21 +72,37 @@
 
 | 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | +2 | +2 | +2 | +6 | +4 | +1 |
+| 平衡 | +2 | +2 | +2 | +6 | +4 | +1 |
+| 探索者 | 15 / (+2) | 14 / (+2) | 14 / (+2) | 14 / (+2) | 10 / (0) | 12 / (+1) |
+| 硬核 | +2 | +2 | +2 | +4 | +2 | +1 |
 
 **特性**
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
+- [黑暗视觉](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离内的事物。
+
 - [额外攻击](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
 - [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+
+对[豁免检定](Saving_throw.md "Saving throw")被[魅惑](Charmed_(Condition).md)具有优势；无法被魔法[催眠](Sleeping_(Condition).md)。
+
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-**特性**
+对离开攻击范围的敌人进行攻击。
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+**Yerle**是散塔林会的成员，在[破碎圣所](Shattered_Sanctum.md "Shattered Sanctum")和[月出之塔](Moonrise_Towers.md "Moonrise Towers")中与[厄娜](Erna.md "Erna")一同守卫[罗阿·月光](Roah_Moonglow.md "Roah Moonglow")。
+
+> “
+>
+> 里面没你的事，伙计。
+>
+> „
+
+— Yerle，守门时
 
 ## 目录
 
@@ -58,7 +123,7 @@
 
 ### 第二幕
 
-在[月出之塔](Moonrise_Towers.md "Moonrise Towers")中，Yerle开始对[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")表示担忧，因为该教派不再仅仅是“地精烙印屁股”，而是真正开始做正事了。
+在[月出之塔](Moonrise_Towers.md "Moonrise Towers")中，Yerle开始对[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")表示担忧，因为该教派不再仅仅是"地精烙印屁股"，而是真正开始做正事了。
 
 ## 战斗
 
@@ -72,7 +137,7 @@
 
 佯攻以可能使对手[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")。
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
@@ -107,7 +172,7 @@
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法获得开放伤口。
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 
@@ -121,7 +186,7 @@
 
 [不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法获得开放伤口。
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
 射程：正常武器射程
 充能：[短休](Short_rest.md "Short rest")
 

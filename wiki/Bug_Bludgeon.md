@@ -19,6 +19,36 @@
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
+## 特性
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**恐惧伏击**](Dread_Ambusher.md "恐惧伏击")
+
+先攻 +3。在战斗第一回合，进行一次额外的武器攻击，额外造成 1d8[物理](Physical.md "物理")伤害。
+
+- [**矮人韧性**](Dwarven_Resilience.md "矮人韧性")
+
+对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**游侠骑士**](Ranger_Knight.md "游侠骑士")
+
+获得[历史](History.md "历史")和[重甲](Heavy_Armour.md "重甲")的熟练项。
+
+- [**荒野漫游者：寒冷**](Wasteland_Wanderer_colon__Cold.md "荒野漫游者：寒冷")
+
+获得对[寒冷](Cold.md "寒冷")伤害的[抗性](Resistance.md "抗性")。
+
 ## 内容
 
 - [1 出场](#出场)

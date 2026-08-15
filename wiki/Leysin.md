@@ -2,9 +2,11 @@
 
 | | |
 | --- | --- |
-| 体型 | [中级](Medium.md "Medium") |
-| 类型 | [怪兽](Monstrosity.md "Monstrosity") |
-| 种族 | [变形怪](Doppelganger.md "Doppelganger") |
+| 声优 / 演员 | [Michael Gukas](https://www.imdb.com/name/nm11933813/) |
+| 阵营 | [哈贝尔](Harpers.md "哈贝尔") [(巴尔教团)](Bhaal.md "巴尔") |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [怪兽](Monstrosity.md "怪兽") |
+| 种族 | [变形怪](Doppelganger.md "变形怪") |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -116,9 +118,25 @@
 - 莱辛是[竖琴手拉珊卓](Lassandra.md "拉珊卓")的精确物理复制品，拥有完全相同的服装、相同的饰环、相同的外貌——除了她是金发而非黑发。
   - 然而，尽管莱辛与拉珊卓完全相同，而拉珊卓是[人类](Human.md "人类")，但根据游戏文件，莱辛实际上是[木精灵](Wood_elf.md "木精灵")。
 
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_WYR_Axe_DoppelgangerAssassin_002` |
+| UUID | `ba5b21ad-bcc4-407c-85a3-f0448a7094b5` |
+| Stats | `Doppelganger` |
+
+### 变体 1
+
+| | |
+| --- | --- |
+| UID | `WYR_Axe_DoppelgangerShape_02` |
+| UUID | `f768841e-ce20-422b-85b1-64a48dbd5046` |
+| Stats | `Elf_Caster` |
+
 ## 参考文献
 
-1. [↑](#cite_ref-1) _“她说——它说——我会像往常一样向你报告。把你引到这里，然后……我别无选择。”_ — 杰拉尔杜斯
+1. [↑](#cite_ref-1) _”她说——它说——我会像往常一样向你报告。把你引到这里，然后……我别无选择。”_ — 杰拉尔杜斯
 
 ---
 *Source: [Leysin](https://bg3.wiki/wiki/Leysin)*

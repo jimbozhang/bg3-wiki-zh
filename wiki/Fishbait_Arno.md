@@ -13,6 +13,40 @@
 | 先攻 | +3 |
 | 经验值 | 320 |
 
+## 特性
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**反射闪避**](Evasion.md "反射闪避")
+
+成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
+
+- [**快手**](Fast_Hands.md "快手")
+
+获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
+
+- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+
+你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**可靠天赋**](Reliable_Talent.md "可靠天赋")
+
+当你使用你具有[熟练项](Proficient.md "熟练项")的[技能](Skill.md "技能")进行[属性检定](Ability_Check.md "属性检定")时，骰子的最低结果为 10。
+
+- [**缩短步伐**](Shortened_Stride.md "缩短步伐")
+
+你的移动速度为 7.5 米（25 英尺）。
+
+- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+
+可以使用[反应](Reaction.md "反应")将受到的伤害减半。
+
 **鱼饵阿诺**是[散塔林会](Zhentarim.md "散塔林会")的一名[侏儒](Gnome.md "侏儒")成员，可以在[公会大厅](Guildhall.md "公会大厅")中找到，发生在[第三幕](Act_Three.md "第三幕")期间。
 
 ## 内容

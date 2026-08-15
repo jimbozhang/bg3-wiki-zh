@@ -33,138 +33,138 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 
 ### 出售的著名物品
 
-- [蛮勇手套](Daredevil_Gloves.md "Daredevil Gloves")
-- [守卫者链枷](Defender_Flail.md "Defender Flail")
-- [敏捷手套](Gloves_of_Dexterity.md "Gloves of Dexterity")
-- [地脉迷城之王的匕首](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
-- [拉瑞斯安之怒](Larethian's_Wrath.md "Larethian's Wrath")
-- [隐形威胁](Unseen_Menace.md "Unseen Menace")
-- [生命通道之靴](Vital_Conduit_Boots.md "Vital Conduit Boots")
-- [巫术破除](Witchbreaker.md "Witchbreaker")
+- [蛮勇手套](Daredevil_Gloves.md "蛮勇手套")
+- [守卫者链枷](Defender_Flail.md "守卫者链枷")
+- [敏捷手套](Gloves_of_Dexterity.md "敏捷手套")
+- [地脉迷城之王的匕首](Knife_of_the_Undermountain_King.md "地脉迷城之王的匕首")
+- [拉瑞斯安之怒](Larethian's_Wrath.md "拉瑞斯安之怒")
+- [隐形威胁](Unseen_Menace.md "隐形威胁")
+- [生命通道之靴](Vital_Conduit_Boots.md "生命通道之靴")
+- [巫术破除](Witchbreaker.md "巫术破除")
 
 ## 战斗
 
 ### 攻击与能力
 
-[降咒：攻击劣势](Bestow_Curse_colon__Attack_Disadvantage.md "Bestow Curse: Attack Disadvantage") (+ )
-用你的触碰诅咒一个生物。它在对抗你的[攻击掷骰](Attack_roll.md "Attack roll")上具有[劣势](Disadvantage.md "Disadvantage")。
+[降咒：攻击劣势](Bestow_Curse_colon__Attack_Disadvantage.md "降咒：攻击劣势") (+ )
+用你的触碰诅咒一个生物。它在对你进行[攻击掷骰](Attack_roll.md "攻击掷骰")时具有[劣势](Disadvantage.md "劣势")。
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
 
-[失明术](Blindness.md "Blindness") (+ )
-限制敌人的视线范围。它更容易被击中，且该生物会更频繁地失手。对它的[攻击掷骰](Attack_roll.md "Attack roll")具有[优势](Advantage.md "Advantage")，且该敌人攻击时具有[劣势](Disadvantage.md "Disadvantage")。
+[失明术](Blindness.md "失明术") (+ )
+限制敌人的视线范围。更容易命中，且该生物会更频繁地失手。对其的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，且该敌人以[劣势](Disadvantage.md "劣势")攻击。
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[标点弱点](Brand_the_Weak.md "Brand the Weak") – [烙印护符](Amulet_of_Branding.md "Amulet of Branding")
+[标点弱点](Brand_the_Weak.md "标点弱点") – [烙印护符](Amulet_of_Branding.md "烙印护符")
 
-暴露敌人的弱点。他们变得对⁠[钝击](Bludgeoning.md "Bludgeoning")、⁠[挥砍](Slashing.md "Slashing")或⁠[穿刺](Piercing.md "Piercing")伤害[易伤](Vulnerable.md "Vulnerable")。
+暴露敌人的弱点。他们变得对[钝击](Bludgeoning.md "钝击")、[挥砍](Slashing.md "挥砍")或[穿刺](Piercing.md "穿刺")伤害[易伤](Vulnerable.md "易伤")。
 
 此效果持续 3 回合，或直到目标受到伤害。
 
 射程：18 米 (60 英尺)
-充能：[长休](Long_Rest.md "Long rest")
+充能：[长休](Long_Rest.md "长休")
 
-[燃烧之手](Burning_Hands.md "Burning Hands") (+ )
+[燃烧之手](Burning_Hands.md "燃烧之手") (+ )
 
 伤害：3~18
 
-3d6⁠[火焰](Fire.md "Fire")
+3d6⁠[火焰](Fire.md "火焰")
 
-每个可燃目标受到 3d6⁠⁠[火焰](Fire.md "Fire")伤害。
+每个可燃目标都会受到 3d6⁠⁠[火焰](Fire.md "火焰")伤害。
 
-[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 射程：自身
 
-[人类定身术](Hold_Person.md "Hold Person") (+ )
-定住一个类人生物敌人。他们不能[移动](Movement_speed.md "Movement Speed")、[动作](Action.md "动作")或[反应](Reaction_(Resource).md "Reaction (Resource)")。来自 3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "Critical Hit")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving Throw")以结束此状态。
+[人类定身术](Hold_Person.md "人类定身术") (+ )
+定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource).md "反应（资源）")。3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。在每回合结束时，受影响的生物可以进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：18 米 (60 英尺)
 
-[割裂](Lacerate.md "Lacerate") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[割裂](Lacerate.md "割裂") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 
 伤害：3~10
 
-1d8 + 2⁠[挥砍](Slashing.md "Slashing")
+1d8 + 2⁠[挥砍](Slashing.md "挥砍")
 
-劈砍目标的要害部位使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。
+劈砍目标的要害部位使其[流血](Bleeding_(Condition).md "流血（状态）")。
 
-[不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")不能流血。
+[不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")不能流血。
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 射程：正常武器范围
-充能：[短休](Short_rest.md "Short rest")
+充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[主手攻击](Main_Hand_Attack.md "主手攻击") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 
 伤害：3~10
 
-1d8 + 2⁠[挥砍](Slashing.md "Slashing")
+1d8 + 2⁠[挥砍](Slashing.md "挥砍")
 
 用装备的武器进行近战攻击。
 
 近战：1.5 米 (5 英尺)
 
-[迷踪步](Misty_Step.md "Misty Step")
-被银色雾气包围，你传送到一个可见的未被占据的空间。
+[迷踪步](Misty_Step.md "迷踪步")
+被银色雾气包围，你传送到一个可见的未被占据空间。
 
 射程：18 米 (60 英尺)
-充能：[长休](Long_Rest.md "Long rest")
+充能：[长休](Long_Rest.md "长休")
 
-[剑柄打击](Pommel_Strike.md "Pommel Strike") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[剑柄打击](Pommel_Strike.md "剑柄打击") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 
 伤害：1~4
 
-1d4⁠[钝击](Bludgeoning.md "Bludgeoning")
+1d4⁠[钝击](Bludgeoning.md "钝击")
 
-对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "Dazed (Condition)")。
+对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕（状态）")。
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
-充能：[短休](Short_rest.md "Short rest")
+充能：[短休](Short_rest.md "短休")
 
-[冷冻射线](Ray_of_Frost.md "Ray of Frost")
+[冷冻射线](Ray_of_Frost.md "冷冻射线")
 
 伤害：1~8
 
-1d8⁠[寒冷](Cold.md "Cold")
+1d8⁠[寒冷](Cold.md "寒冷")
 
-使目标的[移动速度](Movement_speed.md "Movement Speed")降低 3 米 / 10 英尺。
+使目标的[移动速度](Movement_speed.md "移动速度")降低 3 米 / 10 英尺。
 
 射程：18 米 (60 英尺)
 
-[突进攻击](Rush_Attack.md "Rush Attack") – [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+[突进攻击](Rush_Attack.md "突进攻击") – [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 
 伤害：3~6
 
-1d4 + 2⁠[穿刺](Piercing.md "Piercing")
+1d4 + 2⁠[穿刺](Piercing.md "穿刺")
 
-向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "Off Balance (Condition)")状态。
+向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡（状态）")。
 
-[力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 射程：9 米 (30 英尺)
-充能：[短休](Short_rest.md "Short rest")
+充能：[短休](Short_rest.md "短休")
 
-[电爪](Shocking_Grasp.md "Shocking Grasp")
+[电爪](Shocking_Grasp.md "电爪")
 
 伤害：1~8
 
-1d8⁠[闪电](Lightning.md "Lightning")
+1d8⁠[闪电](Lightning.md "闪电")
 
-目标无法使用[反应](Reaction.md "Reaction")。此法术对穿着金属[护甲](Armour.md "Armour")的生物具有[优势](Advantage.md "Advantage")。
+目标无法使用[反应](Reaction.md "反应")。此法术对穿着金属[护甲](Armour.md "护甲")的生物具有[优势](Advantage.md "优势")。
 
 近战：1.5 米 (5 英尺)
 
 ### 战利品
 
-装备 - 除了常规[交易库存](Traders.md#Trade_inventory "Traders")掉落外，还可以从该商人身上搜刮这些物品：
+装备 - 除了常规[交易库存](Traders.md#Trade_inventory "商人")掉落外，还可以从该商人身上搜刮这些物品：
 
-- [烙印护符](Amulet_of_Branding.md "Amulet of Branding")
-- [吉斯洋基半身甲](Githyanki_Half_Plate.md "Githyanki Half Plate")
-- [吉斯洋基长剑](Githyanki_Longsword.md "Githyanki Longsword")
+- [烙印护符](Amulet_of_Branding.md "烙印护符")
+- [吉斯洋基半身甲](Githyanki_Half_Plate.md "吉斯洋基半身甲")
+- [吉斯洋基长剑](Githyanki_Longsword.md "吉斯洋基长剑")
 
 ## 注释与参考
 

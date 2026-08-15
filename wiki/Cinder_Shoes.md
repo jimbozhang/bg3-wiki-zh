@@ -7,7 +7,7 @@
 ## 属性
 
 - [靴子](Boots.md "靴子")
-- 稀有度：普通
+- 稀有度：非凡
 - 重量：0.55 kg (1.1 lb)
 - 价格：70 gp
 - UID `MAG_Fire_HeatOnInflictBurning_Boots` UUID `eff1515c-4612-4e23-9b50-71f318a2f117` Stats `MAG_Fire_HeatOnInflictBurning_Boots` 文件 `ARM_Footwear_Leather_C` ### 特殊

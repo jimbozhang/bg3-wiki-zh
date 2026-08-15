@@ -9,6 +9,7 @@
 | 种族 | [侏儒](Gnome.md "侏儒") |
 | 亚种 | [地底侏儒](Deep_Gnome.md "地底侏儒") |
 | 职业 | [法师](Wizard.md "法师") |
+| 阵营 | [铁手氏族](Clan_Ironhand.md "Clan Ironhand") |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -28,19 +29,47 @@
 
 **特性**
 
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [小步奔行](Shortened_Stride.md "小步奔行")
-- [岩石伪装](Stone_Camouflage.md "岩石伪装")
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
+- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+
+对智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")具有[优势](Advantage.md "Advantage")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+
+你的移动速度为 7.5 米 (25 英尺)。
+
+- [**岩石伪装**](Stone_Camouflage.md "Stone Camouflage")
+
+对[隐匿](Stealth.md "Stealth")检定具有[优势](Advantage.md "Advantage")。
+
+- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+
+能在 24 米 / 80 英尺的黑暗中视物。
 
 **特性**
 
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [小步奔行](Shortened_Stride.md "小步奔行")
-- [岩石伪装](Stone_Camouflage.md "岩石伪装")
-- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
+- [**侏儒狡黠**](Gnome_Cunning.md "Gnome Cunning")
+
+对智力、感知和魅力[豁免检定](Saving_throws.md "Saving Throws")具有[优势](Advantage.md "Advantage")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+- [**小步奔行**](Shortened_Stride.md "Shortened Stride")
+
+你的移动速度为 7.5 米 (25 英尺)。
+
+- [**岩石伪装**](Stone_Camouflage.md "Stone Camouflage")
+
+对[隐匿](Stealth.md "Stealth")检定具有[优势](Advantage.md "Advantage")。
+
+- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+
+能在 24 米 / 80 英尺的黑暗中视物。
 
 **杜尔博斯·弗林特**是[铁手氏族](Clan_Ironhand.md "铁手氏族")的[地底侏儒](Deep_Gnome.md "地底侏儒")成员。
 
@@ -126,6 +155,14 @@
 
 - ⁠[为铁手侏儒复仇](Avenge_the_Ironhands.md "为铁手侏儒复仇")
 - ⁠[处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_WYR_Ironhand_Artificer_001` |
+| UUID | `627b5b4d-51df-416a-800a-ddf357c96995` |
+| Stats | `WYR_IronHand_Gnome_Deep_Caster` |
 
 ---
 *Source: [Dulbers Frint](https://bg3.wiki/wiki/Dulbers_Frint)*

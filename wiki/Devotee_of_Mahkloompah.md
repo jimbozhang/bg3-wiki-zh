@@ -19,13 +19,27 @@
 
 对所有[物理伤害](Physical_damage.md "物理伤害")具有[抗性](Resistance.md "抗性")，并可能使被攻击目标[流血](Bleeding_(Condition).md "流血 (状态)")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 特性
 
-- - - ## 状态
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
 
-- [振奋狂热](Invigorating_Fanaticism_(Condition).md "振奋狂热 (状态)")
+可以在一次徒手或武器攻击后进行额外攻击。
 
-对所有[物理伤害](Physical_damage.md "物理伤害")具有[抗性](Resistance.md "抗性")，并可能使被攻击目标[流血](Bleeding_(Condition).md "流血 (状态)")。
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击一个移出攻击范围的敌人。
+
+- [**嗅血**](Scenting_Blood.md "Scenting Blood")
+
+如果沙华鱼人看到一个受伤的生物，它会进入[鲜血狂暴](Blood-scent_Frenzy_(Condition).md "鲜血狂暴 (状态)")。
+
+- [**神射手：全力以赴**](Sharpshooter_colon__All_In.md "Sharpshooter: All In")
+
+使用你[熟练](Proficiency.md "熟练")的武器进行远程武器攻击时，[攻击掷骰](Attack_roll.md "攻击掷骰")受到 -5 惩罚，但额外造成 10 点伤害。
+
+- [**神射手：低地势**](Sharpshooter_colon__Low_Ground.md "Sharpshooter: Low Ground")
+
+你的远程武器攻击不受[高地势规则](High_ground_rules.md "高地势规则")的惩罚。
 
 **马克鲁姆帕的信徒**是一种特殊的[沙华鱼人猎手](Sahuagin_Hunter.md "沙华鱼人猎手")，可以在游戏的最终序列中从[鱼人侍僧](Kuo-Toa_Acolytes.md "鱼人侍僧")处召唤。
 

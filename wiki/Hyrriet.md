@@ -26,17 +26,21 @@
 
 **特性**
 
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [地狱武器](Infernal_Weapon.md "Infernal Weapon")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [战术铁律](Tactical_Discipline.md "Tactical Discipline")
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
 
-**特性**
+可以在一次徒手或武器攻击后进行额外攻击。
 
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [地狱武器](Infernal_Weapon.md "Infernal Weapon")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [战术铁律](Tactical_Discipline.md "Tactical Discipline")
+- [**地狱武器**](Infernal_Weapon.md "Infernal Weapon")
+
+命中时，此武器额外造成 3⁠⁠[毒素](Poison.md "毒素")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击一个移出攻击范围的敌人。
+
+- [**战术铁律**](Tactical_Discipline.md "Tactical Discipline")
+
+战斗中所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 **灾祸之拳海瑞特**是一名[人类](Human.md "Human")，可在游戏第三幕[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")的[费洛杰尔烟花铺](Felogyr's_Fireworks.md "Felogyr's Fireworks")工坊中遇到，同时在完成任务⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "Investigate the Suspicious Toys")的过程中。
 

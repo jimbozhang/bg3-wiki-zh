@@ -25,21 +25,27 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 15 / (+2) |
 
-**特性**
+### 特性
 
-- [冲锋](Charger.md "冲锋")
-- [神佑](Divine_Health.md "神佑")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
+- [**冲锋**](Charger.md "冲锋")
 
-**特性**
+让你的速度增强你的攻击。你可以 [推击](Charger_colon__Shove.md "冲锋：推击") 或在攻击时造成额外 [武器伤害](Charger_colon__Weapon_Attack.md "冲锋：武器攻击")。
 
-- [冲锋](Charger.md "冲锋")
-- [神佑](Divine_Health.md "神佑")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
+- [**神佑**](Divine_Health.md "神佑")
+
+免疫 [疾病](Disease.md "疾病") 效果。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+徒手或武器攻击后可进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击移出触及范围的敌人。
+
+- [**韧性**](Tenacity_(passive_feature).md "韧性 (被动特性)")
+
+近战攻击未命中时，仍造成等于力量调整值的 [钝击](Bludgeoning.md "钝击") 伤害（最低1点）。
 
 **现金守卫 塔斯林** 是 [博德之门](Baldur's_Gate.md "博德之门") [清账屋](The_Counting_House.md "清账屋") 的现金守卫成员，出现在 [第三幕](Act_Three.md "第三幕")。
 

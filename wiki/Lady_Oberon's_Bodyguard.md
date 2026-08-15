@@ -29,12 +29,12 @@
 **特性**
 
 - [额外攻击](Extra_Attack.md "额外攻击")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**特性**
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+攻击一个移出攻击范围的敌人。
 
 **奥布朗女士的保镖**是一位[龙裔](Dragonborn.md "龙裔") [战斗大师](Battle_Master.md "战斗大师") [战士](Fighter.md "战士")，她陪同女主人前往[第三幕](Act_Three.md "第三幕")中[恩弗·戈塔什](Enver_Gortash.md "恩弗·戈塔什")被任命为[博德之门大公爵](Archduke_of_Baldur's_Gate.md "博德之门大公爵")的仪式。
 

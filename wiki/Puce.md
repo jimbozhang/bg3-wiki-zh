@@ -1,50 +1,66 @@
 # 普斯
 
-| | |
-| --- | --- |
-| 身份 | 男性 |
-| 声音 / 演员 | [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
-| 体型 | [小型](Small.md "Small") |
-| 类型 | [类人生物](Humanoid.md "Humanoid") |
-| 种族 | [地精](Goblin.md "Goblin") |
-| 职业 | [战士](Fighter.md "Fighter") |
+## 战士普斯
 
-| | 平衡 | 探索者 | 硬核 |
-| --- | --- | --- | --- |
-| 等级 | 2 | 2 | 2 |
-| 生命值 | 15 | 10 | 23 |
-| 护甲等级 | 13 | 13 | 13 |
-| 先攻 | +1 | +1 | +1 |
-| 熟练项 | +2 | +4 | +2 |
-| 移动速度 | 9 m (30 ft) | 9 m (30 ft) | 9 m (30 ft) |
-| 重量 | 35 kg (70 lb) | 35 kg (70 lb) | 35 kg (70 lb) |
-| 暗视 | 12 m (40 ft) | 12 m (40 ft) | 12 m (40 ft) |
+至上真神新手
 
-| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 12 / (+1) | 13 / (+1) | 11 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
+- 游戏内
+- 模型
+- 肖像
 
-**特性**
+### 身份
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+男性
 
-**特性**
+### 配音 / 演员
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+- [亚当·迪格尔](https://www.imdb.com/name/nm7920962/)
 
-## 荣誉难度属性
+### 阵营
+
+[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")
+
+## 属性
+
+### 体型
+
+[小型](Small.md "小型")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[地精](Goblin.md "地精")
+
+### 原型
+
+[地精战士](Goblin_Warrior.md "地精战士")
+
+### 职业
+
+[战士](Fighter.md "战士")
+
+- 均衡
+
+- 探索者
+
+- 战术家
+
+- 荣誉
+
+## 均衡难度属性
 
 ### 等级
 
 2
 
-### HP
+### 生命值
 
-23
+15
 
-### AC
+### 护甲等级
 
 13
 
@@ -52,23 +68,75 @@
 
 +1
 
-### 熟练项
+### 熟练加值
 
 +2
 
 ### 移动速度
 
-9 m (30 ft)
+9 米（30 英尺）
 
 ### 重量
 
-35 kg (70 lb)
+35 千克（77 磅）
 
-### 高级黑暗视觉
+### 黑暗视觉
 
-12 m (40 ft)
+12 米（40 英尺）
 
-### XP奖励
+### 经验值奖励
+
+20
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 13 / (+1) | 11 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内看到黑暗中的事物。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 探索者难度属性
+
+### 等级
+
+2
+
+### 生命值
+
+10
+
+### 护甲等级
+
+13
+
+### 先攻
+
++1
+
+### 熟练加值
+
++4
+
+### 移动速度
+
+9 米（30 英尺）
+
+### 重量
+
+35 千克（77 磅）
+
+### 黑暗视觉
+
+12 米（40 英尺）
+
+### 经验值奖励
 
 20
 
@@ -76,11 +144,147 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | +1 | 0 | 0 | -1 | -1 |
 
-**战士普斯** 是在第一幕期间，位于通往[地精营地](Goblin_Camp.md "Goblin Camp")入口前的检查站的一名地精。
+## 特性
 
-> “
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内看到黑暗中的事物。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 战术家难度属性
+
+### 等级
+
+2
+
+### 生命值
+
+19
+
+### 护甲等级
+
+13
+
+### 先攻
+
++1
+
+### 熟练加值
+
++2
+
+### 移动速度
+
+9 米（30 英尺）
+
+### 重量
+
+35 千克（77 磅）
+
+### 黑暗视觉
+
+12 米（40 英尺）
+
+### 经验值奖励
+
+20
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 13 / (+1) | 11 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) |
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内看到黑暗中的事物。
+
+- [**小体型之怒**](Fury_of_the_Small.md "小体型之怒")
+
+当你伤害一个比你大的生物时，你可以选择额外造成1d6[物理](Physical.md "物理")伤害。每场战斗限一次。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 荣誉难度属性
+
+### 等级
+
+2
+
+### 生命值
+
+23
+
+### 护甲等级
+
+13
+
+### 先攻
+
++1
+
+### 熟练加值
+
++2
+
+### 移动速度
+
+9 米（30 英尺）
+
+### 重量
+
+35 千克（77 磅）
+
+### 黑暗视觉
+
+12 米（40 英尺）
+
+### 经验值奖励
+
+20
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +1 | +1 | 0 | 0 | -1 | -1 |
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内看到黑暗中的事物。
+
+- [**小体型之怒**](Fury_of_the_Small.md "小体型之怒")
+
+当你伤害一个比你大的生物时，你可以选择额外造成1d6[物理](Physical.md "物理")伤害。每场战斗限一次。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_GOB_Checkpoint_Guard_002` ###
+
+UUID
+
+`022f8eb4-62ff-4770-b5b6-87eeed807f44` ###
+
+属性
+
+`Goblin_Melee_Strong` **战士普斯**是一个驻守在[地精营地](Goblin_Camp.md "地精营地")入口前检查站的地精，出现在[第一幕](Act_One.md "第一幕")。
+
+> "
 >
-> 不行。从那些该死的座狼身上染上了跳蚤。
+> 不行。从那些该死的座狼身上染了跳蚤。
 >
 > „
 
@@ -88,7 +292,7 @@
 
 ## 目录
 
-- [1 参与度](#参与度)
+- [1 参与](#参与)
   - [1.1 第一幕](#第一幕)
 - [2 战斗](#战斗)
   - [2.1 攻击与能力](#攻击与能力)
@@ -96,100 +300,100 @@
   - [2.3 盟友](#盟友)
 - [3 外部链接](#外部链接)
 
-## 参与度
+## 参与
 
 ### 第一幕
 
-战士普斯是[奥拉克](Olak.md "Olak")的副手。与奥拉克和其他几名地精一起，普斯是连接地精营地和[染疫村落](Blighted_Village.md "Blighted Village")的检查站的守卫之一。奥拉克和普斯经常在他们的岗位上互相争吵。
+战士普斯是[奥拉克](Olak.md "奥拉克")的副手。与奥拉克和其他几个地精一起，普斯是连接地精营地与[枯萎村庄](Blighted_Village.md "枯萎村庄")的检查站的守卫之一。奥拉克和普斯经常在他们的岗位上互相争吵。
 
-如果说话的队伍成员脸上有[战纹](War_Paint_(Condition).md "War Paint (Condition)")，普斯会称他们为“粪堆”，并提到他们“看起来不错”。
+如果交谈的队伍成员脸上有[战争涂装](War_Paint_(Condition).md "战争涂装（状态）"),普斯会称他们为_垃圾_,并提到他们"看起来不错"。
 
 ## 战斗
 
 ### 攻击与能力
 
-[劈砍](Cleave.md "Cleave") – [巨斧](Greataxe.md "Greataxe")
+[劈砍](Cleave.md "劈砍") - [巨斧](Greataxe.md "巨斧")
 
 伤害：
 
 1/2 正常武器伤害
 
-挥舞武器进行大范围弧线攻击，最多同时攻击 3 个敌人。他们各自受到武器通常造成伤害的一半。
+将你的武器大幅度挥动，一次最多攻击3个敌人。每个敌人受到你的武器通常造成的一半伤害。
 
-充能：[短休](Short_rest.md "Short rest")
+充能：[短休](Short_rest.md "短休")
 
-[割裂](Lacerate.md "Lacerate") – [巨斧](Greataxe.md "Greataxe")
+[撕裂](Lacerate.md "撕裂") - [巨斧](Greataxe.md "巨斧")
 
 伤害：2~13
 
-1d12 + 1⁠[挥砍](Slashing.md "Slashing")
+1d12 + 1 [挥砍](Slashing.md "挥砍")
 
-劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。
+砍向目标的要害，使其[流血](Bleeding_(Condition).md "流血（状态）")。
 
-[不死生物](Undead.md "Undead")和[构装生物](Constructs.md "Constructs")无法流血。
+[不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")不会流血。
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
-充能：[短休](Short_rest.md "Short rest")
+充能：[短休](Short_rest.md "短休")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [巨斧](Greataxe.md "Greataxe")
+[主手攻击](Main_Hand_Attack.md "主手攻击") - [巨斧](Greataxe.md "巨斧")
 
 伤害：2~13
 
-1d12 + 1⁠[挥砍](Slashing.md "Slashing")
+1d12 + 1 [挥砍](Slashing.md "挥砍")
 
 用装备的武器进行近战攻击。
 
-近战：1.5 m (5 ft)
+近战：1.5 米（5 英尺）
 
-[恐吓攻击（近战）](Menacing_Attack_(Melee).md "Menacing Attack (Melee)") (+ ) – [巨斧](Greataxe.md "Greataxe")
+[威吓攻击（近战）](Menacing_Attack_(Melee).md "威吓攻击（近战）")（+ ） - [巨斧](Greataxe.md "巨斧")
 
 伤害：2~13 + 调整值
 
-1d12 + 1⁠[挥砍](Slashing.md "Slashing")
+1d12 + 1 [挥砍](Slashing.md "挥砍")
 
-\+ [卓越骰子](Battlemaster.md#Superiority_dice "Battlemaster")
++ [卓越骰子](Battlemaster.md#Superiority_dice "战斗大师")
 
-可能使目标[恐慌](Frightened_(Condition).md "Frightened (Condition)")。他们将在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")，并且无法移动。
+可能[恐吓](Frightened_(Condition).md "恐吓（状态）")你的目标。他们将在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势"),并且无法移动。
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
+[感知](Wisdom.md "感知")[豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[准备](Prepare.md "Prepare") – [巨斧](Greataxe.md "Greataxe")
-花费 6 m (20 ft) 的[移动速度](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害（最低 1）。
+[准备](Prepare.md "准备") - [巨斧](Greataxe.md "巨斧")
+消耗6米（20英尺）的[移动速度](Movement_speed.md "移动速度"),在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值[物理](Physical.md "物理")[伤害附加](Damage_rider_as_source.md "伤害附加")伤害（最少1点）。
 
 范围：自身
-充能：[短休](Short_rest.md "Short rest")
+充能：[短休](Short_rest.md "短休")
 
-[投掷石头](Throw_Stone.md "Throw Stone")
+[投掷石块](Throw_Stone.md "投掷石块")
 
 伤害：2~5
 
-1d4 + 1⁠[钝击](Bludgeoning.md "Bludgeoning")
+1d4 + 1 [钝击](Bludgeoning.md "钝击")
 
-向敌人投掷一块尖石。
+向敌人投掷锋利的石块。
 
-范围：9 m (30 ft)
+范围：9 米（30 英尺）
 
 ### 战利品
 
-- [炼金火焰](Alchemist's_Fire.md "Alchemist's Fire")（如果未使用）
-- [油脂瓶](Grease_Bottle.md "Grease Bottle")（如果未使用）
-- [巨斧](Greataxe.md "Greataxe")
-- [头盔](Helmet.md "Helmet")
+- [炼金火](Alchemist's_Fire.md "炼金火")（如果未使用）
+- [油脂瓶](Grease_Bottle.md "油脂瓶")（如果未使用）
+- [巨斧](Greataxe.md "巨斧")
+- [头盔](Helmet.md "头盔")
 
 ### 盟友
 
-- [利爪](Klaw.md "Klaw")
-- [哨兵奥拉克](Olak.md "Olak")
-- [锐眼斯纳德](Snurd.md "Snurd")
-- [小利爪](Small_Klaw.md "Small Klaw")
-- [追踪者巴奥](Bal.md "Bal")
-- [追踪者林德尔](Rindle.md "Rindle")
+- [克劳](Klaw.md "克劳")
+- [哨兵奥拉克](Olak.md "奥拉克")
+- [锐眼斯努德](Snurd.md "斯努德")
+- [小克劳](Small_Klaw.md "小克劳")
+- [追踪者巴尔](Bal.md "巴尔")
+- [追踪者林德尔](Rindle.md "林德尔")
 
 ## 外部链接
 
-- ⁠[普斯](https://forgottenrealms.fandom.com/wiki/Puce) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- [普斯](https://forgottenrealms.fandom.com/wiki/Puce) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
-*Source: [Puce](https://bg3.wiki/wiki/Puce)*
+*来源：[普斯](https://bg3.wiki/wiki/Puce)*

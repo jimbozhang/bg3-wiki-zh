@@ -34,6 +34,36 @@
 
 - 一种不朽的威能使死亡骑士和附近的不死生物在对抗[被驱散](Turned_(Condition).md "被驱散 (状态)")时获得[优势](Advantage.md "优势")。
 
+## 特性
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**精通额外攻击**](Improved_Extra_Attack.md "精通额外攻击")
+
+在主手武器攻击后可以再进行两次额外攻击。
+
+- [**魔法抗性**](Magic_Resistance.md "魔法抗性")
+
+对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+- [**招架**](Parry.md "招架")
+
+招架下一次命中你的近战攻击，减少 1d8 + [敏捷](Dexterity.md "敏捷")调整值的伤害。
+
+- [**亡灵之怒**](Revenant's_Ire.md "亡灵之怒")
+
+这个亵渎存在的武器攻击额外造成 4d8[黯蚀](Necrotic.md "黯蚀")伤害。
+
+- [**反击**](Riposte_(passive_feature).md "反击（被动特性）")
+
+当被近战攻击未命中时，可以消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
+
 **追踪者斯维尼**是一名[死亡骑士](Death_Knight.md "死亡骑士")，出现在[上城区下水道](Upper_City_Sewers.md "上城区下水道")。
 
 ## 参与

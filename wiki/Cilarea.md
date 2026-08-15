@@ -4,35 +4,174 @@
 | --- | --- |
 | 身份 | 女性 |
 | 配音 | - [Rosie Jones](https://www.imdb.com/name/nm4676915/) |
-| 体型 | [中级](Medium.md "Medium") |
+| 阵营 | [巴尔邪教](Bhaal.md "Bhaal") |
+| 体型 | [中型](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
+| 原型 | [夜刃](Night_Blade.md "Night Blade") |
 | 等级 | 3 |
 | 生命值 | 28 |
 | 护甲等级 | 12 |
 | 先攻 | +2 |
+| 熟练加值 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 黑暗视觉 | 30 米 (100 英尺) |
 | 经验值 | 320 |
 
-## 状态
-
-- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")
-
-2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 11 / (0) | 15 / (+2) | 12 / (+1) | 10 / (0) | 11 / (0) | 14 / (+2) |
 
 ## 状态
 
-- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
+
+### 特性
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 探险者难度属性
+
+### 等级
+
+3
+
+### 生命值
+
+19
+
+### 护甲等级
+
+12
+
+### 先攻
+
++2
+
+### 熟练加值
+
++4
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+30 米 (100 英尺)
+
+### 经验值
+
+320
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | +2 | +1 | 0 | 0 | +2 |
 
 ## 状态
 
-- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
 
-**希拉瑞**是[巴尔邪教](Cult_of_Bhaal.md "巴尔邪教")的成员，在[第三幕](Act_Three.md "第三幕")期间，可在[下城区下水道](Lower_City_Sewers.md "下城区下水道")的[废弃蓄水池](Abandoned_Cistern.md "废弃蓄水池")中找到她。
+### 特性
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 战术家难度属性
+
+### 等级
+
+3
+
+### 生命值
+
+36
+
+### 护甲等级
+
+12
+
+### 先攻
+
++2
+
+### 熟练加值
+
++2
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+30 米 (100 英尺)
+
+### 经验值
+
+320
+
+| 属性值 | 运动 | 体操 | 察觉 |
+| --- | --- | --- | --- |
+|  | 0 | 2 | 0 |
+
+## 状态
+
+- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "Aura of Murder (NPC) (Condition)")
+
+2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "Vulnerable")。
+
+### 特性
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_LOW_MinscHideout_SluiceGuard_001` ###
+
+UUID
+
+`b68a4b00-ed19-4b68-8eb3-990f432c10c6` ###
+
+Stats
+
+`Human_Cultist_Bhaal_NightBlade`
+
+**希拉瑞**是[巴尔邪教](Cult_of_Bhaal.md "Cult of Bhaal")的成员，在[第三幕](Act_Three.md "Act Three")期间，可在[下城区下水道](Lower_City_Sewers.md "Lower City Sewers")的[废弃蓄水池](Abandoned_Cistern.md "Abandoned Cistern")中找到她。
 
 > “
 >

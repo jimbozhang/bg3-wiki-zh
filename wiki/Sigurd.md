@@ -28,14 +28,16 @@
 **特性**
 
 - [额外攻击](Extra_Attack.md "额外攻击")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
 - [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击一个移出攻击范围的敌人。
+
 - [战术铁律](Tactical_Discipline.md "战术铁律")
 
-**特性**
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [战术铁律](Tactical_Discipline.md "战术铁律")
+战斗中所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 **费洛杰尔守卫 西格德**是一名[人类](Human.md "人类")，可在游戏[第三幕](Act_Three.md "第三幕")中，于[博德之门](Baldur's_Gate.md "博德之门")的[下城区](Lower_City.md "下城区")的[费洛杰尔烟花铺](Felogyr's_Fireworks.md "费洛杰尔烟花铺")工坊内遇到。他会在进行任务⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")时出现。
 

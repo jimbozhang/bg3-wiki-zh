@@ -4,7 +4,8 @@
 | --- | --- |
 | 身份 | 雄性 |
 | 声音 / 演员 | [Chris Kaye](https://www.imdb.com/name/nm6835615/) |
-| 家乡 | [翠绿林地](Emerald_Grove.md "翠绿林地") |
+| 阵营 | [翡翠林地结社](Circle_of_the_Emerald_Grove.md "翡翠林地结社") |
+| 家乡 | [翡翠林地](Emerald_Grove.md "翡翠林地") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [野兽](Beast.md "野兽") |
 | 种族 | [狼](Wolf.md "狼") |

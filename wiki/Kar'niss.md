@@ -17,135 +17,47 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 16 / (+3) | 18 / (+4) | 13 / (+1) | 16 / (+3) | 12 / (+1) |
 
-## 特性 (Features)
+## 特性
 
-  - [警觉](Alert.md "警觉")
+- [警觉](Alert.md "警觉")
 
 [先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
 
 - [黑暗奉献](Dark_Devotion.md "黑暗奉献")
 
-对抗[魅惑 (Charmed)](Charmed_(Condition).md) 或 [恐慌 (Frightened)](Frightened_(Condition).md) 的[豁免检定 (Saving throws)](Saving_throw.md "Saving throw") 具有[优势](Advantage.md "优势")。
+对抗[魅惑](Charmed_(Condition).md "魅惑（状态）")或[恐慌](Frightened_(Condition).md "恐慌（状态）")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [黑暗视觉](Darkvision.md "黑暗视觉")
 
-能在黑暗中看到一定距离。
-
-- [双持客](Dual_Wielder.md "双持客")
-
-即使使用非[轻型 (Light)](Light_(weapon_property).md) 的单手武器，也能使用[双武器战斗 (Two-Weapon Fighting)](Two_Weapon_Fighting.md "Two-Weapon Fighting")。
-
-- [精通重击](Improved_Critical_Hit.md "精通重击")
-
-攻击时触发[重击](Critical_Hit.md "重击") 所需的掷骰数值减少 1。此效果可叠加。
-
-- [多重攻击：受伤目标 (Multiattack: Wounded Target)](Multiattack_colon__Wounded_Target.md "Multiattack: Wounded Target")
-
-如果目标的生命值低于其最大值，蛛化精灵可进行[多重攻击 (Multiattack)](Multiattack_(Drider).md "Multiattack (Drider)")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [落井下石](Sting_The_Helpless.md "落井下石")
-
-[卓尔](Drow.md "卓尔") 使用此武器时，对[束缚 (Restrained)](Restrained_(Condition).md "Restrained (Condition)") 目标造成额外 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能") 检定具有[劣势](Disadvantage.md "劣势")。
-
-- [蛛网行者](Web_Walker.md "蛛网行者")
-
-不会被蛛网地表减速或[网缚 (Enwebbed)](Enwebbed_(Condition).md)。
-
-## 特性 (Features)
-
-  - [警觉](Alert.md "警觉")
-
-[先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
-
-  - [黑暗奉献](Dark_Devotion.md "黑暗奉献")
-
-对抗[魅惑 (Charmed)](Charmed_(Condition).md) 或 [恐慌 (Frightened)](Frightened_(Condition).md) 的[豁免检定 (Saving throws)](Saving_throw.md "Saving throw") 具有[优势](Advantage.md "优势")。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
+可以在黑暗中看到一定距离。
 
 - [双持客](Dual_Wielder.md "双持客")
 
-即使使用非[轻型 (Light)](Light_(weapon_property).md) 的单手武器，也能使用[双武器战斗 (Two-Weapon Fighting)](Two_Weapon_Fighting.md "Two-Weapon Fighting")。
+即使使用非[轻型](Light_(weapon_property).md "轻型")的单手武器，也能使用双武器战斗。
 
 - [精通重击](Improved_Critical_Hit.md "精通重击")
 
-攻击时触发[重击](Critical_Hit.md "重击") 所需的掷骰数值减少 1。此效果可叠加。
+攻击时触发[重击](Critical_Hit.md "重击")所需的掷骰数值减少1。此效果可叠加。
 
-- [多重攻击：受伤目标 (Multiattack: Wounded Target)](Multiattack_colon__Wounded_Target.md "Multiattack: Wounded Target")
+- [多重攻击：受伤目标](Multiattack_colon__Wounded_Target.md "多重攻击：受伤目标")
 
-如果目标的生命值低于其最大值，蛛化精灵可进行[多重攻击 (Multiattack)](Multiattack_(Drider).md "Multiattack (Drider)")。
-
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-攻击离开攻击范围的敌人。
-
-- [落井下石](Sting_The_Helpless.md "落井下石")
-
-[卓尔](Drow.md "卓尔") 使用此武器时，对[束缚 (Restrained)](Restrained_(Condition).md "Restrained (Condition)") 目标造成额外 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。
-
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
-
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能") 检定具有[劣势](Disadvantage.md "劣势")。
-
-- [蛛网行者](Web_Walker.md "蛛网行者")
-
-不会被蛛网地表减速或[网缚 (Enwebbed)](Enwebbed_(Condition).md)。
-
-## 特性 (Features)
-
-- [恃强凌弱 (Cull the Weak)](Cull_the_Weak_(Drider).md "Cull the Weak (Drider)")
-
-对生命值低于 50% 的目标造成 +2d6 伤害。
-
-  - [警觉](Alert.md "警觉")
-
-[先攻](Initiative.md "先攻") +5，且不会被[受惊](Surprised.md "受惊")。
-
-  - [黑暗奉献](Dark_Devotion.md "黑暗奉献")
-
-对抗[魅惑 (Charmed)](Charmed_(Condition).md) 或 [恐慌 (Frightened)](Frightened_(Condition).md) 的[豁免检定 (Saving throws)](Saving_throw.md "Saving throw") 具有[优势](Advantage.md "优势")。
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-
-能在黑暗中看到一定距离。
-
-- [双持客](Dual_Wielder.md "双持客")
-
-即使使用非[轻型 (Light)](Light_(weapon_property).md) 的单手武器，也能使用[双武器战斗 (Two-Weapon Fighting)](Two_Weapon_Fighting.md "Two-Weapon Fighting")。
-
-- [精通重击](Improved_Critical_Hit.md "精通重击")
-
-攻击时触发[重击](Critical_Hit.md "重击") 所需的掷骰数值减少 1。此效果可叠加。
-
-- [多重攻击：受伤目标 (Multiattack: Wounded Target)](Multiattack_colon__Wounded_Target.md "Multiattack: Wounded Target")
-
-如果目标的生命值低于其最大值，蛛化精灵可进行[多重攻击 (Multiattack)](Multiattack_(Drider).md "Multiattack (Drider)")。
+如果目标的生命值低于其最大值，蛛化精灵可进行[多重攻击](Multiattack_(Drider).md "多重攻击（蛛化精灵）")。
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-攻击离开攻击范围的敌人。
+攻击一个移出攻击范围的敌人。
 
 - [落井下石](Sting_The_Helpless.md "落井下石")
 
-[卓尔](Drow.md "卓尔") 使用此武器时，对[束缚 (Restrained)](Restrained_(Condition).md "Restrained (Condition)") 目标造成额外 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。
+[卓尔](Drow.md "卓尔")使用此武器时，对[束缚](Restrained_(Condition).md "束缚（状态）")目标造成额外1d4⁠⁠[中毒](Poison.md "中毒")伤害。
 
 - [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能") 检定具有[劣势](Disadvantage.md "劣势")。
+在阳光下时，攻击掷骰和[察觉](Perception.md "察觉")检定具有[劣势](Disadvantage.md "劣势")。
 
 - [蛛网行者](Web_Walker.md "蛛网行者")
 
-不会被蛛网地表减速或[网缚 (Enwebbed)](Enwebbed_(Condition).md)。
+不会被蛛网地表减速或[网缚](Enwebbed_(Condition).md "网缚（状态）")。
 
 ## 技术 (Technical)
 

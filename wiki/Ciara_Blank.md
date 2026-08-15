@@ -4,15 +4,150 @@
 | --- | --- |
 | 身份 | 女性 |
 | 配音 | - [Nneka Okoye](https://www.imdb.com/name/nm6143542/) |
-| 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "类人生物") |
-| 种族 | [矮人](Dwarf.md "矮人") |
+| 职业 | _[博德之口公报](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")_前记者 |
+| 体型 | [中型](Medium.md "Medium") |
+| 类型 | [类人生物](Humanoid.md "Humanoid") |
+| 种族 | [矮人](Dwarf.md "Dwarf") |
+| 亚种 | [黄金矮人](Gold_Dwarf.md "Gold dwarf") |
 | 等级 | 1 |
 | 生命值 | 8 |
 | 先攻 | 0 |
+| 熟练加值 | +2 |
 | 移动速度 | 7.5 米 (25 英尺) |
+| 重量 | 35 千克 (70 磅) |
+| 黑暗视觉 | 9 米 (30 英尺) |
 
-**席亚拉·布朗克**是一位[矮人](Dwarven.md "矮人")，曾是_[博德之口公报](Baldur's_Mouth_Gazette.md "博德之口公报")_报纸的前记者，可在[下城区](Lower_City.md "下城区")的[第三幕](Act_Three.md "第三幕")期间找到。
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+### 特性
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**矮人韧性**](Dwarven_Resilience.md "Dwarven Resilience")
+
+对[中毒](Poisoned_(Condition).md)状态的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[毒素](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 探险者难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+5
+
+### 先攻
+
+0
+
+### 熟练加值
+
++4
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 黑暗视觉
+
+9 米 (30 英尺)
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | 0 | 0 | 0 | 0 | 0 |
+
+### 特性
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**矮人韧性**](Dwarven_Resilience.md "Dwarven Resilience")
+
+对[中毒](Poisoned_(Condition).md)状态的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[毒素](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 战术家难度属性
+
+### 等级
+
+1
+
+### 生命值
+
+10
+
+### 先攻
+
+0
+
+### 熟练加值
+
++2
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 黑暗视觉
+
+9 米 (30 英尺)
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
+
+### 特性
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**矮人韧性**](Dwarven_Resilience.md "Dwarven Resilience")
+
+对[中毒](Poisoned_(Condition).md)状态的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")，并对[毒素](Poison.md "Poison")伤害具有[抗性](Resistance.md "Resistance")。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开触及范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_LOW_BaldursMouth_Wanderer_06` ###
+
+UUID
+
+`f5d9c65a-ce2b-442d-8de2-fbb75baa1076` ###
+
+Stats
+
+`Dwarf_Commoner`
+
+**席亚拉·布朗克**是一位[矮人](Dwarven.md "Dwarven")，曾是_[博德之口公报](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")_报纸的前记者，可在[下城区](Lower_City.md "Lower City")的[第三幕](Act_Three.md "Act Three")期间找到。
 
 > “
 >

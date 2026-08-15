@@ -29,12 +29,12 @@
 **特性**
 
 - [额外攻击](Extra_Attack.md "额外攻击")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**特性**
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+攻击一个移出攻击范围的敌人。
 
 **杜林伯德夫人的保镖**是一位[半兽人](Half-Orc.md "半兽人") [战斗大师](Battle_Master.md "战斗大师") [战士](Fighter.md "战士")，她陪同她的女主人参加[恩弗·戈塔什](Enver_Gortash.md "恩弗·戈塔什")在[第三幕](Act_Three.md "第三幕")中被任命为博德之门大公爵的仪式。
 

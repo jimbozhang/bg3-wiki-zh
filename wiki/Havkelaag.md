@@ -27,37 +27,41 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 11 / (0) | 14 / (+2) | 13 / (+1) | 18 / (+4) | 13 / (+1) | 11 / (0) |
 
-**特性**
+### 特性
 
-- [龙族血统：银龙（寒冷）](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
-- [龙族韧性](Draconic_Resilience.md "Draconic Resilience")
-- [灰矮人坚韧](Duergar_Resilience.md "Duergar Resilience")
-- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
-- [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
-- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
+- [**龙族血统：银龙（寒冷）**](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
 
-**特性**
+6级时：[寒冷](Cold.md "寒冷") 法术造成更多伤害；获得 [元素亲和：抗性](Elemental_Affinity_colon__Resistance.md "Elemental Affinity: Resistance")。
 
-- [龙族血统：银龙（寒冷）](Draconic_Ancestry_colon__Silver_(Cold).md "Draconic Ancestry: Silver (Cold)")
-- [龙族韧性](Draconic_Resilience.md "Draconic Resilience")
-- [灰矮人坚韧](Duergar_Resilience.md "Duergar Resilience")
-- [矮人活力](Dwarven_Resilience.md "Dwarven Resilience")
-- [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
-- [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
+- [**龙族韧性**](Draconic_Resilience.md "Draconic Resilience")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+无护甲时，基础 [护甲等级](Armour_Class.md "护甲等级") 为 13。
 
-- ## 额外资源
+- [**灰矮人坚韧**](Duergar_Resilience.md "Duergar Resilience")
 
-- 6
+对抗 [幻术](Illusion.md "幻术") 和被 [魅惑](Charmed_(status_group).md) 或 [麻痹](Paralysed_(Condition).md) 的 [豁免检定](Saving_throws.md "Saving throws") 具有 [优势](Advantage.md "优势")。
 
-- 5
+- [**矮人活力**](Dwarven_Resilience.md "Dwarven Resilience")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+对抗 [中毒](Poisoned_(Condition).md) 的 [豁免检定](Saving_throw.md "Saving throw") 具有 [优势](Advantage.md "优势")，并对 [毒素](Poison.md "毒素") 伤害具有 [抗性](Resistance.md "抗性")。
+
+- [**元素亲和：伤害**](Elemental_Affinity_colon__Damage.md "Elemental Affinity: Damage")
+
+施放与你龙族血统匹配的伤害类型的法术时，将 [魅力](Charisma.md "魅力") [调整值](Ability_score_modifier.md "属性调整值") 加到伤害上。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+
+在日光下时，攻击掷骰和察觉检定具有劣势。
+
+- [**高级黑暗视觉**](Superior_Darkvision.md "Superior Darkvision")
+
+可以在 24 米 / 80 英尺内看到黑暗中的物体。
+
+## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 

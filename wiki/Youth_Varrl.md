@@ -112,6 +112,14 @@
 
 - ⁠[发现俄耳甫斯王子的历史](Discover_the_History_of_Prince_Orpheus.md "发现俄耳甫斯王子的历史")
 
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_CRE_GithBoy` |
+| UUID | `3e97baba-812b-4589-a7aa-454543aa3187` |
+| Stats | `Githyanki_Teenager` |
+
 ## 死者交谈
 
 瓦尔可以使用[死者交谈](Speak_with_Dead.md "死者交谈")与之对话。

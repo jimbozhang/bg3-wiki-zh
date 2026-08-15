@@ -24,16 +24,20 @@
 **特性**
 
 - [额外攻击](Extra_Attack.md "额外攻击")
-- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
+- [陆地步伐：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地步伐：劣势地形")
+
+你已成为穿越野外的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)")不再减缓你的移动。
+
 - [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击一个移出攻击范围的敌人。
+
 - [高级衬垫](Superior_Padding_(-1).md "高级衬垫 (-1)")
 
-**特性**
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [高级衬垫](Superior_Padding_(-1).md "高级衬垫 (-1)")
+承受-1钝击伤害。
 
 ## 变体 1
 
@@ -41,7 +45,7 @@
 
 **至上真神审判官**是[至上真神军队](Absolute.md "至上真神")的远程战斗人员，担任瞭望员和移动巡逻兵。
 
-> “
+> "
 >
 > 我为她而战！
 >
@@ -87,7 +91,7 @@
 
 普通武器伤害
 
-\+ 2d8⁠[武器](Weapon.md "武器")
+\+ 2d8[武器](Weapon.md "武器")
 
 将你武器的精华引导成毁灭性的、大范围的齐射。
 
@@ -100,11 +104,11 @@
 
 普通武器伤害
 
-\+ 1d6⁠[穿刺](Piercing.md "穿刺")
+\+ 1d6[穿刺](Piercing.md "穿刺")
 
 你的攻击召唤荆棘藤蔓，可能 \_(状态)[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕 (诱捕打击) (状态)") 你的目标。
 
-被诱捕的生物无法移动，并在每回合开始时受到 1d6⁠[穿刺](Piercing.md "穿刺") 伤害。盟友可以使用他们的[协助](Help.md "协助")动作尝试撕开藤蔓。
+被诱捕的生物无法移动，并在每回合开始时受到 1d6[穿刺](Piercing.md "穿刺") 伤害。盟友可以使用他们的[协助](Help.md "协助")动作尝试撕开藤蔓。
 
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
 
@@ -112,7 +116,7 @@
 
 伤害：3~8
 
-1d6 + 2⁠[穿刺](Piercing.md "穿刺")
+1d6 + 2[穿刺](Piercing.md "穿刺")
 
 用你装备的武器进行近战攻击。
 
@@ -122,7 +126,7 @@
 
 伤害：6~15
 
-1d10 + 5⁠[穿刺](Piercing.md "穿刺")
+1d10 + 5[穿刺](Piercing.md "穿刺")
 
 用你装备的武器进行远程攻击。
 
@@ -132,7 +136,7 @@
 
 伤害：6~15
 
-1d10 + 5⁠[穿刺](Piercing.md "穿刺")
+1d10 + 5[穿刺](Piercing.md "穿刺")
 
 造成普通伤害，并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")，该状态会使攻击造成额外伤害。
 
@@ -146,7 +150,7 @@
 
 伤害：5~8
 
-1d4 + 4⁠[穿刺](Piercing.md "穿刺")
+1d4 + 4[穿刺](Piercing.md "穿刺")
 
 向前冲锋并攻击路径上的第一个敌人，可能将其击至[失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 

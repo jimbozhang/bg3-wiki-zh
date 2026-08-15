@@ -3,6 +3,7 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
+| 阵营 | [暗影德鲁伊](Shadow_Druids.md "暗影德鲁伊") |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半身人](Halfling.md "半身人") |
@@ -151,6 +152,14 @@
 ## 相关任务
 
 - ⁠[调查卡哈](Investigate_Kagha.md "调查卡哈")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_DEN_ShadowDruid_003` |
+| UUID | `53b08334-9f79-4bb5-b580-2662355d54ad` |
+| Stats | `DEN_ShadowDruid_Ranger` |
 
 ## 外部链接
 

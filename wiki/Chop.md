@@ -4,6 +4,7 @@
 | --- | --- |
 | 身份 | 男性 |
 | 声音 / 演员 | [Stewart Scudamore](https://www.imdb.com/name/nm1270132/) |
+| 阵营 | [至上真神教团](Cult_of_the_Absolute.md "至上真神教团") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [熊地精](Bugbear.md "熊地精") |

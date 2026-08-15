@@ -11,8 +11,6 @@
 
 | 文件名 | 英文行数 | 中文行数 | 差异 |
 |--------|----------|----------|------|
-| Guide_colon_Where_To_Find_Equipment.md | 2179 | 847 | 1332 |
-| Common_Location_Remarks.md | 1604 | 719 | 885 |
 | Elenna_Thrinn.md | 543 | 4 | 539 |
 | Sergeant_Thrinn.md | 543 | 4 | 539 |
 | Strange_Ox.md | 737 | 198 | 539 |

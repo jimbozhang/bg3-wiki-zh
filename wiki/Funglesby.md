@@ -1,74 +1,317 @@
 # 冯格莱斯
 
-| | |
-| --- | --- |
-| 身份 | 女性 |
-| 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "类人生物") |
-| 种族 | [矮人](Dwarf.md "矮人") |
-| 亚种 | [黄金矮人](Gold_Dwarf.md "黄金矮人") |
-| 职业 | [游侠](Ranger.md "游侠") |
-| 副职 | [驯兽师](Beast_Master.md "驯兽师") |
+## 冯格莱斯
 
-| | 平衡 | 探索者 | 硬核 |
-| --- | --- | --- | --- |
-| 等级 | 8 | 8 | 8 |
-| 生命值 | 60 | 42 | 78 |
-| 护甲等级 | 15 | 15 | 15 |
-| 先攻 | +4 | +4 | +4 |
-| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
-| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
-| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
-| 经验值 | 140 | 140 | 140 |
+- 模型
+- 肖像
+
+### 身份
+
+女性
+
+### 阵营
+
+[石领主](Stone_Lord.md "石领主")
+
+## 属性
+
+### 体型
+
+[中型](Medium.md "中型")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[矮人](Dwarf.md "矮人")
+
+### 亚种
+
+[黄金矮人](Gold_Dwarf.md "黄金矮人")
+
+### 职业
+
+[游侠](Ranger.md "游侠")
+
+### 子职业
+
+[驯兽师](Beast_Master.md "驯兽师")
+
+- 均衡
+
+- 探索者
+
+- 战术家
+
+## 均衡难度数据
+
+### 等级
+
+8
+
+### 生命值
+
+60
+
+### 护甲等级
+
+15
+
+### 先攻
+
++4
+
+### 熟练
+
++3
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 体重
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+140
 
 | 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 18 / (+4) | 12 / (+1) | 10 / (0) | 16 / (+3) | 12 / (+1) |
 
-**特性**
-
-- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-- [训练有素](Exceptional_Training.md "训练有素")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
-- [法师破坏者](Mage_Breaker.md "法师破坏者")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [荒野漫游者：毒素](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
-
-**特性**
-
-- [伙伴羁绊](Companion's_Bond.md "伙伴羁绊")
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-- [训练有素](Exceptional_Training.md "训练有素")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
-- [法师破坏者](Mage_Breaker.md "法师破坏者")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [荒野漫游者：毒素](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
-
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "Resistances")
+- - ## 特性
+
+- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+
+获得等于其熟练加值的护甲等级和伤害加值。
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内的黑暗中视物。
+
+- [**矮人韧性**](Dwarven_Resilience.md "矮人韧性")
+
+对被[中毒](Poisoned_(Condition).md "中毒")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**训练有素**](Exceptional_Training.md "训练有素")
+
+可以使用附赠动作进行[疾走](Dash_(bonus_action).md "疾走")、[脱离接触](Disengage_colon__Bonus_Action.md "脱离接触：附赠动作")和[协助](Help_(bonus_action).md "协助")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手攻击或武器攻击后可以进行一次额外攻击。
+
+- [**大地行者：困难地形**](Land's_Stride_colon__Difficult_Terrain.md "大地行者：困难地形")
+
+你已成为穿越荒野的专家。[困难地形](Difficult_Terrain_(Condition).md "困难地形 (状态)")不再减缓你的移动。
+
+- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+
+你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")[熟练](Proficiency.md "熟练")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击正在脱离触及范围的敌人。
+
+- [**荒野漫游者：毒素**](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
+
+你在恶臭的沼泽中生存了无数日子。获得对[毒素](Poison.md "毒素")的[抗性](Resistance.md "抗性")，只受到一半伤害。
+
+## 探索者难度数据
+
+### 等级
+
+8
+
+### 生命值
+
+42
+
+### 护甲等级
+
+15
+
+### 先攻
+
++4
+
+### 熟练
+
++5
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 体重
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+140
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +4 | +7 | +1 | 0 | +3 | +1 |
+
+## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "Resistances")
+- - ## 特性
+
+- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+
+获得等于其熟练加值的护甲等级和伤害加值。
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内的黑暗中视物。
+
+- [**矮人韧性**](Dwarven_Resilience.md "矮人韧性")
+
+对被[中毒](Poisoned_(Condition).md "中毒")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**训练有素**](Exceptional_Training.md "训练有素")
+
+可以使用附赠动作进行[疾走](Dash_(bonus_action).md "疾走")、[脱离接触](Disengage_colon__Bonus_Action.md "脱离接触：附赠动作")和[协助](Help_(bonus_action).md "协助")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手攻击或武器攻击后可以进行一次额外攻击。
+
+- [**大地行者：困难地形**](Land's_Stride_colon__Difficult_Terrain.md "大地行者：困难地形")
+
+你已成为穿越荒野的专家。[困难地形](Difficult_Terrain_(Condition).md "困难地形 (状态)")不再减缓你的移动。
+
+- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+
+你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")[熟练](Proficiency.md "熟练")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击正在脱离触及范围的敌人。
+
+- [**荒野漫游者：毒素**](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
+
+你在恶臭的沼泽中生存了无数日子。获得对[毒素](Poison.md "毒素")的[抗性](Resistance.md "抗性")，只受到一半伤害。
+
+## 战术家难度数据
+
+### 等级
+
+8
+
+### 生命值
+
+78
+
+### 护甲等级
+
+15
+
+### 先攻
+
++4
+
+### 熟练
+
++3
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 体重
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+140
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 12 / (+1) | 18 / (+4) | 12 / (+1) | 10 / (0) | 16 / (+3) | 12 / (+1) |
+
+## 抗性 [(info)](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 目录
+- - ## 特性
 
-- [1 参与](#参与)
-- [2 战斗](#战斗)
-  - [2.1 攻击与能力](#攻击与能力)
-  - [2.2 战利品](#战利品)
-  - [2.3 盟友](#盟友)
-- [3 外部链接](#外部链接)
+- [**伙伴羁绊**](Companion's_Bond.md "伙伴羁绊")
+
+获得等于其熟练加值的护甲等级和伤害加值。
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内的黑暗中视物。
+
+- [**矮人韧性**](Dwarven_Resilience.md "矮人韧性")
+
+对被[中毒](Poisoned_(Condition).md "中毒")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**训练有素**](Exceptional_Training.md "训练有素")
+
+可以使用附赠动作进行[疾走](Dash_(bonus_action).md "疾走")、[脱离接触](Disengage_colon__Bonus_Action.md "脱离接触：附赠动作")和[协助](Help_(bonus_action).md "协助")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手攻击或武器攻击后可以进行一次额外攻击。
+
+- [**大地行者：困难地形**](Land's_Stride_colon__Difficult_Terrain.md "大地行者：困难地形")
+
+你已成为穿越荒野的专家。[困难地形](Difficult_Terrain_(Condition).md "困难地形 (状态)")不再减缓你的移动。
+
+- [**法师破坏者**](Mage_Breaker.md "法师破坏者")
+
+你有与施法者战斗的历史。你获得[奥秘](Arcana.md "奥秘")[熟练](Proficiency.md "熟练")，并可以施放[克敌机先](True_Strike.md "克敌机先")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击正在脱离触及范围的敌人。
+
+- [**荒野漫游者：毒素**](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：毒素")
+
+你在恶臭的沼泽中生存了无数日子。获得对[毒素](Poison.md "毒素")的[抗性](Resistance.md "抗性")，只受到一半伤害。
+
+## 技术
+
+###
+
+UID
+
+`S_WYR_SmugglersCave_StoneLord_Ranger_01` ###
+
+UUID
+
+`e8ad46dd-d28f-4dee-8384-437951366e48` ###
+
+Stats
+
+`WYR_SmugglersCave_Dwarf_Ranger` **冯格莱斯**是[石领主](Stone_Lord.md "石领主")的追随者。
 
 ## 参与
 
@@ -88,8 +331,8 @@
 
 射出一阵荆棘。荆棘对目标造成武器伤害，然后爆炸。爆炸对目标和周围生物造成额外的 1d10⁠⁠[穿刺](Piercing.md "穿刺")伤害。未命中时，荆棘仍会爆炸。豁免成功时，目标仍承受爆炸的一半伤害。
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
-射程：18 米 (60 英尺)
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免")
+范围：18 米 (60 英尺)
 
 [猎人印记](Hunter's_Mark.md "猎人印记") (+ )
 
@@ -101,7 +344,7 @@
 
 如果目标在法术结束前死亡，你可以使用[重新施展猎人印记](Reapply_Hunter's_Mark.md "重新施展猎人印记")来标记一个新的生物。
 
-射程：18 米 (60 英尺)
+范围：18 米 (60 英尺)
 
 [穿刺射击](Piercing_Shot.md "穿刺射击") – [轻弩](Light_Crossbow.md "轻弩")
 
@@ -113,8 +356,8 @@
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口。
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
-射程：常规武器射程
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免")
+范围：常规武器范围
 充能：[短休](Short_rest.md "短休")
 
 [毒气喷溅](Poison_Spray.md "毒气喷溅")
@@ -125,8 +368,8 @@
 
 喷出一股有毒气体，对目标造成 1d12⁠⁠[中毒](Poison.md "中毒")伤害。
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
-射程：3 米 (10 英尺)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免")
+范围：3 米 (10 英尺)
 
 [防护毒素](Protection_from_Poison.md "防护毒素") (+ )
 
@@ -144,12 +387,12 @@
 
 用装备的武器进行远程攻击。
 
-射程：18 米 (60 英尺)
+范围：18 米 (60 英尺)
 
 [狼伙伴](Wolf_Companion.md "狼伙伴")
 召唤一匹狼，它可以造成毁灭性伤口，并用[飞扑啃咬](Lunging_Bite.md "飞扑啃咬")击倒敌人。
 
-射程：18 米 (60 英尺)
+范围：18 米 (60 英尺)
 充能：[短休](Short_rest.md "短休")
 
 ### 战利品
@@ -167,7 +410,7 @@
 
 ## 外部链接
 
-- ⁠[冯格莱斯](https://forgottenrealms.fandom.com/wiki/Funglesby) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- [冯格莱斯](https://forgottenrealms.fandom.com/wiki/Funglesby) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [Funglesby](https://bg3.wiki/wiki/Funglesby)*

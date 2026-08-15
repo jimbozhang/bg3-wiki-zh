@@ -28,29 +28,21 @@
 
 **特性**
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [**黑暗视觉**](Darkvision.md "Darkvision")
 
-**特性**
+可以在黑暗中看到一定距离。
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
 
-## 状态
+对抗被[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有优势；不能被魔法[沉睡](Sleeping_(Condition).md)。
 
-- [死亡](Dead_(Condition).md "Dead (Condition)")
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
 
-此生物已死亡。
+攻击一个移出攻击范围的敌人。
 
-## 状态
+- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
 
-- [死亡](Dead_(Condition).md "Dead (Condition)")
-
-此生物已死亡。
+在阳光下时，攻击掷骰和感知检定具有劣势。
 
 ## 状态
 

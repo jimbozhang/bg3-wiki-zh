@@ -4,10 +4,11 @@
 | --- | --- |
 | 身份 | 女性 |
 | 声音 / 演员 | [Shala Nyx](https://www.imdb.com/name/nm5964389/) |
-| 体型 | [中级](Medium.md "Medium") |
-| 类型 | [类人生物](Humanoid.md "Humanoid") |
-| 种族 | [人类](Human.md "Human") |
-| 职业 | [牧师](Cleric.md "Cleric") |
+| 阵营 | [古尔](Gur.md "古尔") |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
+| 职业 | [牧师](Cleric.md "牧师") |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -138,6 +139,14 @@
 
 - ⁠[调查卡扎多尔的宫殿](Investigate_Cazador's_Palace.md "Investigate Cazador's Palace")
 - ⁠[苍白的精灵](The_Pale_Elf.md "The Pale Elf")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_WYR_GurCamp_Hunter_003` |
+| UUID | `8948bd61-52a0-41a0-99b8-bb6d4c301255` |
+| Stats | `WYR_GurHunter_Cleric` |
 
 ## 外部链接
 

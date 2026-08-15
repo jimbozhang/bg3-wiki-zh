@@ -1,9 +1,13 @@
 # 科利斯·安德顿普
 
+"科利斯"重定向至此。关于至上真神教派的已故成员，参见[科利斯](Korliss.md "Korliss")。
+
 | | |
 | --- | --- |
 | 全名 | 科利斯·安德顿普 |
 | 性别 | 女 |
+| 声音 / 演员 | [凯蒂·布里坦](https://www.imdb.com/name/nm1433038/) |
+| 阵营 | [至上真神教派](Cult_of_the_Absolute.md "Cult of the Absolute") |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半身人](Lightfoot_Halfling.md "半身人") |
@@ -28,17 +32,39 @@
 
 **特性**
 
-- [勇敢](Brave.md "勇敢")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [半身人幸运](Halfling_Luck.md "半身人幸运")
-- [借机攻击](Opportunity_Attacks.md "借机攻击")
+- [**勇敢**](Brave.md "Brave")
+
+对[恐惧](Frightened.md "Frightened")状态的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+
+在[攻击检定](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出 1 时，重骰一次并使用新结果。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
 
 **特性**
 
-- [勇敢](Brave.md "勇敢")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [半身人幸运](Halfling_Luck.md "半身人幸运")
-- [借机攻击](Opportunity_Attacks.md "借机攻击")
+- [**勇敢**](Brave.md "Brave")
+
+对[恐惧](Frightened.md "Frightened")状态的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
+
+在[攻击检定](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出 1 时，重骰一次并使用新结果。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
 
 **科利斯**是一名试图在[第一幕](Act_1.md "第一幕")期间离开[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")的至上真神教徒。
 

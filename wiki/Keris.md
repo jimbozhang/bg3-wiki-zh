@@ -25,21 +25,67 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 13 / (+1) | 12 / (+1) | 16 / (+3) | 10 / (0) | 18 / (+4) | 10 / (0) |
 
-**特性**
+## 特性
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
 
-**特性**
+可以在黑暗中看到一定距离内的事物。
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
 
-## 抗性 [抗性](Resistances.md "抗性")
+对[魅惑](Charmed_(Condition).md)效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不能被魔法[睡眠](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你攻击范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下攻击掷骰和察觉检定具有劣势。
+
+## 探索者难度数据
+
+### 等级
+
+8
+
+### 生命值
+
+40
+
+### 护甲等级
+
+15
+
+### 先攻
+
++1
+
+### 熟练项
+
++5
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 暗视
+
+16 米 (53 英尺)
+
+### 经验值
+
+140
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +1 | +1 | +3 | 0 | +7 | +3 |
+
+## 抗性 [(信息)](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -47,11 +93,71 @@
 
 - - - - ## 状态
 
-- [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)")
+- [**死亡防护**](Death_Ward_(Condition).md "死亡防护 (状态)")
 
 如果此角色倒地，立即以 1 点生命值复活。
 
-## 抗性 [抗性](Resistances.md "抗性")
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
+
+对[魅惑](Charmed_(Condition).md)效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不能被魔法[睡眠](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你攻击范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下攻击掷骰和察觉检定具有劣势。
+
+## 硬核难度数据
+
+### 等级
+
+8
+
+### 生命值
+
+75
+
+### 护甲等级
+
+15
+
+### 先攻
+
++1
+
+### 熟练项
+
++3
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 暗视
+
+16 米 (53 英尺)
+
+### 经验值
+
+140
+
+| 属性值 | 运动 | 体操 | 察觉 |
+| --- | --- | --- | --- |
+|  | 1 | 1 | 4 |
+
+## 抗性 [(信息)](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -59,23 +165,47 @@
 
 - - - - ## 状态
 
-- [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)")
+- [**死亡防护**](Death_Ward_(Condition).md "死亡防护 (状态)")
 
 如果此角色倒地，立即以 1 点生命值复活。
 
-## 抗性 [抗性](Resistances.md "抗性")
+## 特性
 
-- ## 额外资源
+- [**引导神力：战争之神的祝福**](Channel_Divinity_colon__War_God's_Blessing.md "引导神力：战争之神的祝福")
 
-- 2
+赋予附近盟友你的神的荣耀，使其[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +10 加值。
 
-- - - - ## 状态
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
 
-- [死亡防护](Death_Ward_(Condition).md "Death Ward (Condition)")
+可以在黑暗中看到一定距离内的事物。
 
-如果此角色倒地，立即以 1 点生命值复活。
+- [**妖精血统**](Fey_Ancestry.md "妖精血统")
 
-**克里斯**在[第二幕](Act_Two.md "Act Two")巡逻于[月出之塔监狱](Moonrise_Towers_Prison.md "Moonrise Towers Prison")的牢房。
+对[魅惑](Charmed_(Condition).md)效果的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不能被魔法[睡眠](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你攻击范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下攻击掷骰和察觉检定具有劣势。
+
+## 技术信息
+
+###
+
+UID
+
+`S_MOO_PrisonGuard_002` ###
+
+UUID
+
+`0cf357ec-268c-4779-92ad-8d6c7de437d1` ###
+
+Stats
+
+`MOO_FanaticOfTheAbsolute_Drow` **克里斯**在[第二幕](Act_Two.md "第二幕")巡逻于[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")的牢房。
 
 > “
 >

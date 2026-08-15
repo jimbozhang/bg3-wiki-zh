@@ -13,6 +13,28 @@
 | 先攻 | +1 |
 | 经验值 | 320 |
 
+## 特性
+
+- [**精通荒野打击**](Improved_Wild_Strike.md "精通荒野打击")
+
+在动物荒野形态下进行徒手或武器打击后，你可以再进行 **2** 次额外**攻击**。
+
+- [**自然守护**](Nature's_Ward.md "自然守护")
+
+不能被元素和妖精[魅惑](Charmed_(Condition).md "魅惑（状态）")或[恐慌](Frightened_(Condition).md "恐慌（状态）")。免疫疾病。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**原始打击**](Primal_Strike.md "原始打击")
+
+在野兽形态下，你的攻击在克服非魔法伤害的[抗性](Resistance.md "抗性")和[免疫](Damage_types.md#Damage_Vulnerability,_Resistance_and_Immunity "伤害类型")时视为魔法攻击。
+
+- [**荒野打击**](Wild_Strike.md "荒野打击")
+
+在动物荒野形态下进行徒手或武器打击后，你可以再进行一次额外**攻击**。
+
 **乔迪**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中[下城区](Lower_City.md "下城区")的一名[半兽人](Half-Orc.md "半兽人")德鲁伊。
 
 > “

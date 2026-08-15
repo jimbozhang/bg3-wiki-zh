@@ -26,6 +26,40 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 12 / (+1) | 14 / (+2) | 16 / (+3) | 12 / (+1) | 18 / (+4) |
 
+## 特性
+
+- [**射手**](Archery.md "射手")
+
+你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得 +2 加值。
+
+- [**吟游诗人激励**](Bardic_Inspiration_(passive_feature).md "吟游诗人激励（被动特性）")
+
+可以使用[吟游诗人激励](Bardic_Inspiration_(class_action)..md)
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**快手**](Fast_Hands.md "快手")
+
+获得一个额外的[附赠动作](Bonus_action.md "附赠动作")。
+
+- [**精灵血统**](Fey_Ancestry.md "精灵血统")
+
+对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不能被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+
+在长休或短[休](Rest.md "休")后恢复所有[吟游诗人激励](Bardic_Inspiration_(resource).md)。
+
+- [**精通诗人激励**](Improved_Bardic_Inspiration_(passive_feature).md "精通诗人激励（被动特性）")
+
+增加[吟游诗人激励](Bardic_Inspiration_(class_action)..md)的加值。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
 **克洛普女士**是女士法庭的成员，[九指基恩](Nine-Fingers_Keene.md "九指基恩")的精英保镖之一，也是[公会](The_Guild.md "公会")的一部分。
 
 ## 目录

@@ -27,19 +27,37 @@
 
 **特性**
 
-- [箭术](Archery.md "箭术")
-- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [**箭术**](Archery.md "箭术")
 
-**特性**
+你使用远程[武器](Weapons.md "武器")进行的[攻击掷骰](Attack_roll.md "攻击掷骰")获得+2加值。
 
-- [箭术](Archery.md "箭术")
-- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [**强弩专家：近距平射**](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
 
-**拳头埃奎德纳**是一名[人类](Human.md "人类")游侠，也是[焰拳](Flaming_Fist.md "焰拳")的成员。她可以在[下城区](Lower_City.md "下城区")的[第三幕](Act_Three.md "第三幕")中找到。
+近战范围内的弩攻击不会获得[劣势](Disadvantage.md "劣势")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击一个正在离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_LOW_SWS_Patrols_OnWall_FF_000` ###
+
+UUID
+
+`387061e5-478e-4e6c-af05-5aef578a9c32` ###
+
+Stats
+
+`FlamingFist_Human_Ranger` **拳手埃奎德纳**是一名[人类](Human.md "人类")游侠，也是[焰拳](Flaming_Fist.md "焰拳")的成员。她可以在[下城区](Lower_City.md "下城区")的[第三幕](Act_Three.md "第三幕")中找到。
 
 > “
 >

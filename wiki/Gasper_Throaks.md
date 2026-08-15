@@ -28,14 +28,16 @@
 **特性**
 
 - [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attacks.md "借机攻击")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击一个移出攻击范围的敌人。
+
 - [战术铁律](Tactical_Discipline.md "战术铁律")
 
-**特性**
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [借机攻击](Opportunity_Attacks.md "借机攻击")
-- [战术铁律](Tactical_Discipline.md "战术铁律")
+战斗中所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 **班恩之拳加斯珀·索克斯**是[班恩](Bane_(God)的教徒.md)，也是[布莱森](Blarson_Throaks.md "布莱森·索克斯")和[克洛维亚·索克斯](Clovia_Throaks.md "克洛维亚·索克斯")的儿子。
 

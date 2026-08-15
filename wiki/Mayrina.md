@@ -1,11 +1,14 @@
 # 梅丽娜
 
+## 梅丽娜
+
 | | |
 | --- | --- |
 | 全名 | 梅丽娜·伊丽莎白·芬顿 |
 | 性别 | 女性 |
 | 声优 / 演员 | [Ellie Heydon](https://www.imdb.com/name/nm8703995/) |
-| 家庭 | [康纳·维德巴德](Connor_Vinderblad.md "康纳·维德巴德")（丈夫） |
+| 阵营 | [反鬼婆互助会](Anti-Hag_Support_Group.md "反鬼婆互助会")（第三幕） |
+| 家庭 | [康纳·维德巴德](Connor_Vinderblad.md "康纳·维德巴德")（丈夫）[德米尔](Demir.md "德米尔")（兄弟）[约尔](Johl.md "约尔")（兄弟） |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |

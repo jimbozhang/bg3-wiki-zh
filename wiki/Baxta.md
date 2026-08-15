@@ -27,15 +27,17 @@
 
 **特性**
 
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [阴影伏击](Shadow_Ambush.md "阴影伏击")
-- [生于黑暗](Born_into_Darkness.md "生于黑暗")
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
 
-**特性**
+攻击一个移出攻击范围的敌人。
 
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [阴影伏击](Shadow_Ambush.md "阴影伏击")
-- [生于黑暗](Born_into_Darkness.md "生于黑暗")
+- [**阴影伏击**](Shadow_Ambush.md "阴影伏击")
+
+此生物从阴影中攻击时额外造成 4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
+
+- [**生于黑暗**](Born_into_Darkness.md "生于黑暗")
+
+此生物可以看穿魔法和非魔法黑暗，且不会被[致盲](Blinded_(Condition).md "致盲 (状态)")。
 
 **巴克斯塔**是[博德之门](Baldur's_Gate.md "博德之门")中的一名[莎尔哨兵](Sharran_Sentry.md "莎尔哨兵")
 

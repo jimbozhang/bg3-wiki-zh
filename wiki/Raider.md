@@ -10,6 +10,24 @@
 | 护甲等级 | 15 |
 | 先攻 | +3 |
 
+**特性**
+
+- [弩专家：近射](Crossbow_Expert_colon__Point-Blank.md "弩专家：近射")
+
+近战范围内的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
+
+- [弩专家：创伤](Crossbow_Expert_colon__Wounding.md "弩专家：创伤")
+
+你的[穿刺射击](Piercing_Shot.md "穿刺射击")施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")的持续时间翻倍。
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击一个移出攻击范围的敌人。
+
 **吉斯洋基掠夺者**是贯穿_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中遇到的[职业](Class.md "职业")[吉斯洋基人](Githyanki.md "吉斯洋基人")角色原型。
 
 ## 参与情况
@@ -32,7 +50,7 @@
 
 伤害：5~14
 
-1d10 + 4⁠[穿刺](Piercing.md "穿刺")
+1d10 + 4[穿刺](Piercing.md "穿刺")
 
 使用装备的武器进行远程攻击。
 
@@ -46,7 +64,7 @@
 
 治疗：
 
-8 临时⁠[治疗](Healing.md "治疗")
+8 临时[治疗](Healing.md "治疗")
 
 消耗一个卓越骰子来增强一个友方生物的决心。它获得额外8点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 

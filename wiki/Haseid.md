@@ -4,6 +4,7 @@
 | --- | --- |
 | 身份 | 男性 |
 | 声音 / 演员 | [Robert G. Slade](https://www.imdb.com/name/nm0805195/) |
+| 阵营 | [蔓生废墟掠夺者](Overgrown_Ruin_Looters.md "蔓生废墟掠夺者") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "人类") |
@@ -121,6 +122,14 @@
 ## 相关任务
 
 - ⁠[探索废墟](Explore_the_Ruins.md "探索废墟")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_CHA_FL1_BanditSanctum_01` |
+| UUID | `fd5f646a-d5f6-4f19-904f-61dfc7e14d7e` |
+| Stats | `CHA_Bandit_Human_Barbarian` |
 
 ## 外部链接
 

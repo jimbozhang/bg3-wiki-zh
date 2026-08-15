@@ -26,7 +26,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 12 / (+1) | 12 / (+1) | 16 / (+3) | 10 / (0) | 15 / (+2) |
 
-**泰拉迪西亚**是一名[竖琴手](Harper.md "竖琴手")，在[第二幕](Act_Two.md "第二幕")中守卫着[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")的入口。她位于入口桥上方的守卫塔上。
+## 特性
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**精灵血统**](Fey_Ancestry.md "精灵血统")
+
+在对抗[魅惑](Charmed_(Condition).md "魅惑 (状态)")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")；不能被魔法[入睡](Sleeping_(Condition).md "入睡 (状态)")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击一个正在离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_HAV_HavenOutcasts_RoofWatcher_Caster` ###
+
+UUID
+
+`d44b6aee-7737-4961-bb2b-e7920b003107` ###
+
+Stats
+
+`HalfElf_Caster` **泰拉迪西亚**是一名[竖琴手](Harper.md "竖琴手")，在[第二幕](Act_Two.md "第二幕")中守卫着[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")的入口。她位于入口桥上方的守卫塔上。
 
 > “
 >

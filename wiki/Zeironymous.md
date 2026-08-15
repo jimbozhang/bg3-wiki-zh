@@ -18,17 +18,15 @@
 
 2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "易伤")。
 
-## 状态
+## 特性
 
-- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")
+- [**黑暗视觉**](Darkvision.md "Darkvision")
 
-2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "易伤")。
+可以在黑暗中看到一定距离。
 
-## 状态
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
 
-- \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")
-
-2 米 (7 英尺) 内的敌人对穿刺伤害[易伤](Vulnerable.md "易伤")。
+攻击一个移出攻击范围的敌人。
 
 **夜刃 泽罗尼莫斯**是在[博德之门](Baldur's_Gate.md "博德之门")的[底城区](Undercity.md "底城区")内的[底城废墟](Undercity_Ruins.md "底城废墟")中发现的一名人类[夜刃](Night_Blade.md "夜刃")。
 

@@ -28,12 +28,12 @@
 **特性**
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
-- [集群战术](Pack_Tactics.md "集群战术")
 
-**特性**
+攻击一个移出攻击范围的敌人。
 
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [集群战术](Pack_Tactics.md "集群战术")
+- [群体战术](Pack_Tactics.md "群体战术")
+
+3米（10英尺）内的盟友对与你相邻的敌人攻击掷骰具有优势。
 
 **挠挠**是一只狗，也是潜在的[营地追随者](Camp_Follower.md "营地追随者")和[附属追随者](Attached_Follower.md "附属追随者")，在[第一幕](Act_One.md "第一幕")期间于[森林](Forest.md "森林")中遇到。
 

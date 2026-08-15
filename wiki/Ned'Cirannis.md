@@ -29,16 +29,20 @@
 **特性**
 
 - [高级黑暗视觉](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离。
+
 - [妖精血统](Fey_Ancestry.md "Fey Ancestry")
+
+在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；无法被魔法[入睡](Sleeping_(Condition).md)。
+
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
+
+攻击一个移出攻击范围的敌人。
+
 - [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
 
-**特性**
-
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [妖精血统](Fey_Ancestry.md "Fey Ancestry")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+在阳光下攻击掷骰和感知检定具有劣势。
 
 ## 状态
 
@@ -46,19 +50,7 @@
 
 此生物已死亡。
 
-## 状态
-
-- [死亡](Dead_(Condition).md "Dead (Condition)")
-
-此生物已死亡。
-
-## 状态
-
-- [死亡](Dead_(Condition).md "Dead (Condition)")
-
-此生物已死亡。
-
-**内德'奇兰尼斯** ，在游戏中名为**被解剖的卓尔** ，是一名至上真神教徒，在[第一幕](Act_One.md "Act One")期间的一次侦察任务中死亡。他的尸体被带到[翠绿林地](Emerald_Grove.md "Emerald Grove")进行解剖。
+**内德'奇兰尼斯** ，在游戏中名为**被解剖的卓尔** ，是一名至上真神教徒，在[第一幕](Act_One.md "Act One")期间的一次侦察任务中死亡。他的尸体被带到[翠绿林地](Emerald_Grove.md "翠绿林地")进行解剖。
 
 ## 目录
 
@@ -142,11 +134,11 @@
 
 ## 相关任务
 
-- ⁠[获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "Get Help from Healer Nettie")
+- [获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "Get Help from Healer Nettie")
 
 ## 外部链接
 
-- ⁠[内德'奇兰尼斯](https://forgottenrealms.fandom.com/wiki/Ned%27Cirannis) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- [内德'奇兰尼斯](https://forgottenrealms.fandom.com/wiki/Ned%27Cirannis) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [Ned'Cirannis](https://bg3.wiki/wiki/Ned'Cirannis)*

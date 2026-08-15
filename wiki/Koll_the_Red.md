@@ -25,21 +25,163 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 7 / (-2) | 15 / (+2) | 12 / (+1) | 8 / (-1) | 7 / (-2) | 8 / (-1) |
 
-**特性**
+## 特性
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [集群战术](Pack_Tactics.md "Pack Tactics")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
 
-**特性**
+可以在黑暗中看到一定距离内的事物。
 
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [集群战术](Pack_Tactics.md "Pack Tactics")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
 
-**腥红科尔**是一名狗头人[商人](Trader.md "Trader")，可在[至高大殿](High_Hall.md "High Hall")找到，这是[上城区](Upper_City.md "Upper City")内的一个区域，可在前往[塑境秘潭](Morphic_Pool.md "Morphic Pool")后进入。
+攻击离开你攻击范围的敌人。
+
+- [**集群战术**](Pack_Tactics.md "集群战术")
+
+3 米 (10 英尺) 内的盟友对你相邻敌人的攻击掷骰具有[优势](Advantage.md "优势")。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下攻击掷骰和察觉检定具有劣势。
+
+## 探索者难度数据
+
+### 等级
+
+5
+
+### 生命值
+
+11
+
+### 护甲等级
+
+13
+
+### 先攻
+
++2
+
+### 熟练项
+
++5
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 暗视
+
+12 米 (40 英尺)
+
+### 经验值
+
+400
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | -2 | +2 | +1 | -1 | -2 | -1 |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你攻击范围的敌人。
+
+- [**集群战术**](Pack_Tactics.md "集群战术")
+
+3 米 (10 英尺) 内的盟友对你相邻敌人的攻击掷骰具有[优势](Advantage.md "优势")。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下攻击掷骰和察觉检定具有劣势。
+
+## 硬核难度数据
+
+### 等级
+
+5
+
+### 生命值
+
+22
+
+### 护甲等级
+
+14
+
+### 先攻
+
++3
+
+### 熟练项
+
++3
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+35 千克 (70 磅)
+
+### 暗视
+
+12 米 (40 英尺)
+
+### 经验值
+
+400
+
+| 属性值 | 运动 | 体操 | 察觉 |
+| --- | --- | --- | --- |
+|  | -2 | 2 | -2 |
+
+## 特性
+
+- [**高级黑暗视觉**](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你攻击范围的敌人。
+
+- [**集群战术**](Pack_Tactics.md "集群战术")
+
+3 米 (10 英尺) 内的盟友对你相邻敌人的攻击掷骰具有[优势](Advantage.md "优势")。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下攻击掷骰和察觉检定具有劣势。
+
+- [**闪避**](Evasion.md "闪避")
+
+成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
+
+## 技术信息
+
+###
+
+UID
+
+`S_END_CircusTrader` ###
+
+UUID
+
+`c94a8e45-b601-4193-bb6a-aed77692c981` ###
+
+Stats
+
+`Kobold_Inventor` **腥红科尔**是一名狗头人[商人](Trader.md "商人")，可在[至高大殿](High_Hall.md "至高大殿")找到，这是[上城区](Upper_City.md "上城区")内的一个区域，可在前往[塑境秘潭](Morphic_Pool.md "塑境秘潭")后进入。
 
 > “
 >

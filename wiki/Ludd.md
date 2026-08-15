@@ -3,6 +3,7 @@
 | | |
 | --- | --- |
 | 声音 / 演员 | [James Bradwell](https://www.imdb.com/name/nm10525457/) |
+| 阵营 | [巴尔教团](Cult_of_Bhaal.md "巴尔教团") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [变形怪](Doppelganger.md "变形怪") |
@@ -98,6 +99,22 @@
 ## 相关任务
 
 - ⁠[调查谋杀案](Investigate_the_Murders.md "调查谋杀案")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_LOW_SerialKiller_Doppelganger_001` |
+| UUID | `108c54a2-b364-4da0-bfc7-15bd5a8f39f2` |
+| Stats | `Doppelganger` |
+
+### 变体 1
+
+| | |
+| --- | --- |
+| UID | `LOW_SerialKiller_DoppelgangerMaleHuman` |
+| UUID | `46aef1d8-e4e3-4443-8aba-d0370955db65` |
+| Stats | `Human_Commoner` |
 
 ## 备注
 

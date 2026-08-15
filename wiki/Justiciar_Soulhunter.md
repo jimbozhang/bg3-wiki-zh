@@ -22,37 +22,43 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 14 / (+2) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-**特性**
-
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [影子召唤](Living_Shadow.md "Living Shadow")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [幽影隐匿](Shadow_Stealth.md "Shadow Stealth")
-- [莎尔视界](Shar's_Sight.md "Shar's Sight")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
-
-**特性**
-
-- [高级黑暗视觉](Darkvision.md "Darkvision")
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [影子召唤](Living_Shadow.md "Living Shadow")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [幽影隐匿](Shadow_Stealth.md "Shadow Stealth")
-- [莎尔视界](Shar's_Sight.md "Shar's Sight")
-- [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
-## 抗性 [(info)](Resistances.md "Resistances")
-
 ## 抗性 [(info)](Resistances.md "Resistances")
 
 ## 状态
 
-- [光耀报复](Radiant_Retort_(Condition).md "Radiant Retort (Condition)")
+- [光耀报复](Radiant_Retort_(Condition).md "光耀报复 (状态)")
 
-当你受到[光耀](Radiant.md "Radiant")伤害时，将其以两倍的[力场](Force.md "Force")伤害反射回攻击者。
+当你受到[光耀](Radiant.md "光耀")伤害时，将其以两倍的[力场](Force.md "力场")伤害反射回攻击者。
+
+## 特性
+
+- [黑暗视觉](Darkvision.md "黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
+- [影子寄生](Living_Shadow.md "影子寄生")
+
+处于轻度或重度遮蔽时，此角色对除[力场](Force.md "力场")、[心灵](Psychic.md "心灵")或[光耀](Radiant.md "光耀")以外的所有伤害具有[抗性](Damage_types.md "伤害类型")。
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击一个移出攻击范围的敌人。
+
+- [幽影隐匿](Shadow_Stealth.md "幽影隐匿")
+
+处于轻度或重度遮蔽时，此生物离开敌人时不会引发借机攻击。
+
+- [莎尔视界](Shar's_Sight.md "莎尔视界")
+
+审判者不会被[致盲](Blinded_(Condition).md "致盲（状态）")。
+
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下时，攻击掷骰和察觉检定具有劣势。
 
 **审判灵魂猎手**是博德之门3中的不死生物[暗夜法官](Dark_Justiciar.md "Dark Justiciar")。
 

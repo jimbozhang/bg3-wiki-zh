@@ -3,6 +3,7 @@
 | | |
 | --- | --- |
 | 声音 / 演员 | [Joseph Capp](https://www.imdb.com/name/nm3516054/) |
+| 阵营 | [巴尔教团](Cult_of_Bhaal.md "巴尔教团") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [变形怪](Doppelganger.md "变形怪") |
@@ -112,6 +113,22 @@
 ## 相关任务
 
 - ⁠[调查谋杀案](Investigate_the_Murders.md "调查谋杀案")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_LOW_SerialKiller_Doppelganger_003` |
+| UUID | `64279955-a165-4a43-9b8b-64325e925300` |
+| Stats | `Doppelganger` |
+
+### 变体 1
+
+| | |
+| --- | --- |
+| UID | `LOW_SerialKiller_Doppelganger_DwarvenFemale` |
+| UUID | `2fbd9480-e136-4d45-b0ec-ee83c225f8aa` |
+| Stats | `Dwarf_Commoner` |
 
 ---
 *Source: [Podd](https://bg3.wiki/wiki/Podd)*

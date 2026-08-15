@@ -26,21 +26,33 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 14 / (+2) | 17 / (+3) | 19 / (+4) | 14 / (+2) | 13 / (+1) |
 
-**特性**
+### 状态
 
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [坟墓魔法](Grave_Magic.md "Grave Magic")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [法术塑形](Sculpt_Spells.md "Sculpt Spells")
-- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
+- [**法师护甲**](Mage_Armour_(Condition).md "法师护甲 (状态)")
 
-**特性**
+基础 [护甲等级](Armour_Class.md "护甲等级") 为 13。
 
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [坟墓魔法](Grave_Magic.md "Grave Magic")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [法术塑形](Sculpt_Spells.md "Sculpt Spells")
-- [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
+### 特性
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+徒手或武器攻击后可进行一次额外攻击。
+
+- [**坟墓魔法**](Grave_Magic.md "Grave Magic")
+
+每当法术造成伤害时，额外造成 1d8 [黯蚀](Necrotic.md "黯蚀") 伤害。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+- [**法术塑形**](Sculpt_Spells.md "Sculpt Spells")
+
+盟友对你的法术自动通过 [豁免检定](Saving_throws.md "Saving throws")。
+
+- [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
+
+近战攻击未命中时，仍造成等于力量调整值的 [钝击](Bludgeoning.md "钝击") 伤害（最低1点）。
 
 **萨斯德拉**是[米尔寇教团](Cult_of_Myrkul.md "Cult of Myrkul")的一名死灵法师<sup>[\[1\]](#cite_note-1)</sup>。她可以在[月出之塔](Moonrise_Towers.md "Moonrise Towers")的顶部找到，并在战斗中协助[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")对抗队伍。
 

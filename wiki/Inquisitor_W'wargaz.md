@@ -14,6 +14,31 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 320 |
 
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [完美哨兵](Perfect_Sentry.md "完美哨兵")
+- [灵能复仇](Psionic_Revenge.md "灵能复仇")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [完美哨兵](Perfect_Sentry.md "完美哨兵")
+- [灵能复仇](Psionic_Revenge.md "灵能复仇")
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [完美哨兵](Perfect_Sentry.md "完美哨兵")
+- [灵能复仇](Psionic_Revenge.md "灵能复仇")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+
 ## 荣誉难度属性
 
 ### 等级
@@ -55,6 +80,16 @@
 | 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +8 | +2 | +7 | +9 | +8 | +1 |
+
+**特性**
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [完美哨兵](Perfect_Sentry.md "完美哨兵")
+- [灵能复仇](Psionic_Revenge.md "灵能复仇")
+- [灵能赋权](Psionic_Empowerment.md "灵能赋权")
+- [传奇动作：图纳拉思心灵之爪](Legendary_Action_colon__Mind-Claw_of_Tu'narath.md "传奇动作：图纳拉思心灵之爪")
 
 **审判官瓦尔'戈兹**是领导[维拉基斯](Vlaakith.md "Vlaakith")在[第一幕](Act_One.md "Act One")期间寻找[神秘遗物](Mysterious_Artefact.md "Mysterious Artefact")的宣判官。
 

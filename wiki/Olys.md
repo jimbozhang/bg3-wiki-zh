@@ -4,6 +4,7 @@
 | --- | --- |
 | 身份 | 男性 |
 | 声音 / 演员 | [Vangelis Christodoulou](https://www.imdb.com/name/nm4657454/) |
+| 阵营 | [哈贝尔](Harpers.md "哈贝尔") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [提夫林](Tiefling.md "提夫林") |
@@ -163,10 +164,18 @@
 - 奥利斯拥有四个一级[法术位](Spell_Slot.md "法术位")和两个二级法术位，尽管他没有法术可以施放。
 - 与无法在回合内攻击两次的原始竖琴手盟友不同（尽管拥有[额外攻击](Extra_Attack.md "额外攻击")特性），奥利斯不受此错误影响。
 
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_MOO_AssaultHarper_004` |
+| UUID | `d552c90e-7d29-4904-a349-6d44b9b38040` |
+| Stats | `MOO_Harper_Tiefling_Ranger` |
+
 ## 参考文献
 
-1. [↑](#cite_ref-1) _“天啊，那些寄生虫。我想我看到一条从尸体里爬出来。”_
-1. [↑](#cite_ref-2) _“结束这一切吧。求你了。”_
+1. [↑](#cite_ref-1) _”天啊，那些寄生虫。我想我看到一条从尸体里爬出来。”_
+1. [↑](#cite_ref-2) _”结束这一切吧。求你了。”_
 
 ---
 *Source: [Olys](https://bg3.wiki/wiki/Olys)*

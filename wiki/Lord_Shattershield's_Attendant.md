@@ -26,6 +26,40 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 11 / (0) | 18 / (+4) | 14 / (+2) | 12 / (+1) | 14 / (+2) | 10 / (0) |
 
+## 特性
+
+- [**弩专家：近程**](Crossbow_Expert_colon__Point-Blank.md "弩专家：近程")
+
+从近战范围进行的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+
+你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
+
+- [**陆地阔步：劣势地形**](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
+
+你已成为穿越荒野的专家。[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")不再减慢你的速度。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**精良板甲**](Superior_Plate_(-1).md "精良板甲 (-1)")
+
+你受到的[穿刺](Piercing.md "穿刺")伤害减少 1 点。
+
+- [**双武器战斗**](Two-Weapon_Fighting.md "双武器战斗")
+
+当你进行副手攻击时，可以将你的[属性调整值](Ability_score_modifier.md "属性调整值")加到伤害上。
+
 **碎盾勋爵的侍从**是一位[岩侏儒](Rock_Gnome.md "岩侏儒")[游侠](Ranger.md "游侠")，他在[第三幕](Act_Three.md "第三幕")陪同主人参加[恩弗·戈塔什](Enver_Gortash.md "恩弗·戈塔什")被任命为[博德之门大公爵](Archduke_of_Baldur's_Gate.md "博德之门大公爵")的仪式。
 
 ## 目录

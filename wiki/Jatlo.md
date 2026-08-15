@@ -14,6 +14,32 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 250 |
 
+## 特性
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**埃赛尔的扭曲祝福**](Ethel's_Twisted_Blessing.md "埃赛尔的扭曲祝福")
+
+作为埃赛尔的忠实仆从之一，这个红帽子额外获得 40 点[生命值](Hit_Points.md "生命值")，其[力量](Strength.md "力量")和[体质](Constitution.md "体质")增加 +2，且其攻击额外造成 1~12[挥砍](Slashing.md "挥砍")伤害。
+
+- [**欢乐狂欢**](Merry_Revelry.md "欢乐狂欢")
+
+当目标血液中有酒精痕迹时，这个红帽子的嗜血会被抑制，这意味着他们主要会攻击清醒的生物。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**多重攻击：嗜血**](Multiattack_colon__Bloodlust.md "多重攻击：嗜血")
+
+红帽子在[嗜血](Bloodlust_(Condition).md "嗜血（状态）")效果下可以进行[多重攻击](Multiattack_(Redcap).md "多重攻击（红帽子）")。
+
+- [**浸染杀戮**](Steeped_in_Slaughter.md "浸染杀戮")
+
+对[流血](Bleeding_(Condition).md "流血（状态）")的敌人进行的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+
 ## 龙裔数据
 
 - 平衡

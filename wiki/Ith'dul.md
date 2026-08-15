@@ -27,14 +27,16 @@
 **特性**
 
 - [额外攻击](Extra_Attack.md "额外攻击")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
 - [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
+
+招架徒手和武器攻击，减少其伤害10点。
+
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**特性**
-
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [吉斯洋基招架](Githyanki_Parry.md "吉斯洋基招架")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+攻击一个移出攻击范围的敌人。
 
 **战士 伊瑟杜尔**是[审判官 W'wargaz](W'wargaz.md "W'wargaz")于[第一幕](Act_One.md "第一幕")抵达前，伊雷珂养育间吉斯洋基社群的一员。
 

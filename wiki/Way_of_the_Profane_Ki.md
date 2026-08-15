@@ -20,39 +20,63 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 22 / (+6) | 16 / (+3) | 10 / (0) | 18 / (+4) | 8 / (-1) |
 
-**特性**
+## 特性
 
-- [增强无甲移动](Advanced_Unarmoured_Movement.md "Advanced Unarmoured Movement")
-- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "Deflect Missiles (passive feature)")
-- [反射闪避](Evasion.md "Evasion")
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [真气驻拳](Ki-Empowered_Strikes.md "Ki-Empowered Strikes")
-- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "Martial Arts: Bonus Unarmed Strike")
-- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "Martial Arts: Deft Strikes")
-- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：灵巧攻击")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [百病不侵](Purity_of_Body.md "Purity of Body")
-- [轻身坠](Slow_Fall.md "Slow Fall")
-- [心如止水](Stillness_of_Mind_(passive_feature).md "Stillness of Mind (passive feature)")
-- [无甲防御](Unarmoured_Defence_(Monk).md "Unarmoured Defence (Monk)")
-- [无甲移动](Unarmoured_Movement.md "Unarmoured Movement")
+- [**增强无甲移动**](Advanced_Unarmoured_Movement.md "增强无甲移动")
 
-**特性**
+[劣势地形](Difficult_Terrain_(Condition).md)不会减慢你的速度，当你不穿[护甲](Armour.md "护甲")或使用[盾牌](Shields.md "盾牌")时，你可以额外[跳跃](Jump.md "跳跃") 6 米 / 20 英尺。
 
-- [增强无甲移动](Advanced_Unarmoured_Movement.md "Advanced Unarmoured Movement")
-- [拨挡飞弹](Deflect_Missiles_(passive_feature).md "Deflect Missiles (passive feature)")
-- [反射闪避](Evasion.md "Evasion")
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [真气驻拳](Ki-Empowered_Strikes.md "Ki-Empowered Strikes")
-- [武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "Martial Arts: Bonus Unarmed Strike")
-- [武艺：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "Martial Arts: Deft Strikes")
-- [武艺：敏捷攻击](Martial_Arts_colon__Dextrous_Attacks.md "武艺：灵巧攻击")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [百病不侵](Purity_of_Body.md "Purity of Body")
-- [轻身坠](Slow_Fall.md "Slow Fall")
-- [心如止水](Stillness_of_Mind_(passive_feature).md "Stillness of Mind (passive feature)")
-- [无甲防御](Unarmoured_Defence_(Monk).md "Unarmoured Defence (Monk)")
-- [无甲移动](Unarmoured_Movement.md "Unarmoured Movement")
+- [**拨挡飞弹**](Deflect_Missiles_(passive_feature).md "拨挡飞弹（被动特性）")
+
+使用你的反应减少远程武器攻击的伤害 1d10 + 你的敏捷[调整值](Modifier.md "调整值") + 你的武僧等级。
+
+- [**反射闪避**](Evasion.md "反射闪避")
+
+成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**真气驻拳**](Ki-Empowered_Strikes.md "真气驻拳")
+
+你的徒手攻击在克服敌人的非魔法伤害抗性和免疫时视为魔法攻击。
+
+- [**武艺：附赠徒手打击**](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")
+
+使用[武僧武器](Monk.md#Monk_weapons "武僧")进行攻击后，或在徒手状态下，你可以使用附赠动作进行另一次徒手攻击。
+
+- [**武艺：灵巧打击**](Martial_Arts_colon__Deft_Strikes.md "武艺：灵巧打击")
+
+使用武僧武器和徒手攻击造成 1d4[钝击](Bludgeoning.md "钝击")伤害，除非其正常伤害更高。
+
+- [**武艺：敏捷攻击**](Martial_Arts_colon__Dextrous_Attacks.md "武艺：敏捷攻击")
+
+使用[武僧武器](Monk.md#Monk_weapons "武僧")和徒手攻击时，如果你的敏捷更高，则使用敏捷而非力量进行调整。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**百病不侵**](Purity_of_Body.md "百病不侵")
+
+你对毒素伤害[免疫](Immune.md "免疫")，且不会中毒或受疾病影响，这得益于流经经脉的纯净真气。
+
+- [**轻身坠**](Slow_Fall.md "轻身坠")
+
+当你坠落时，可以使用反应获得对坠落伤害的[抗性](Resistance.md "抗性")。
+
+- [**心如止水**](Stillness_of_Mind_(passive_feature).md "心如止水（被动特性）")
+
+如果被[魅惑](Charmed_(Condition).md)或[恐慌](Frightened_(Condition).md)，自动施放[心如止水](Stillness_of_Mind.md "心如止水")来移除它们。
+
+- [**无甲防御**](Unarmoured_Defence_(Monk).md "无甲防御（武僧）")
+
+你的反应如同任何[护甲](Armour.md "护甲")一样有效。当你不穿护甲时，将你的[感知调整值](Wisdom.md#Wisdom_Modifier_Chart "感知")加到你的[护甲等级](Armour_Class.md "护甲等级")上。
+
+- [**无甲移动**](Unarmoured_Movement.md "无甲移动")
+
+当你不穿护甲或使用盾牌时，你的移动速度增加 3 米 / 10 英尺。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 

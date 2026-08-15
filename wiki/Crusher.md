@@ -1,5 +1,9 @@
 # 粉碎机
 
+## 粉碎机
+
+至上真神学徒
+
 | | |
 | --- | --- |
 | 身份 | 男性 |
@@ -7,6 +11,7 @@
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [地精](Goblin.md "地精") |
+| 阵营 | [至上真神教派](Cult_of_the_Absolute.md "Cult of the Absolute") |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -26,33 +31,49 @@
 
 **特性**
 
-- [原始狂怒](Crude_Frenzy.md "原始狂怒")
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [**原始狂怒**](Crude_Frenzy.md "Crude Frenzy")
+
+此地精在进行主手攻击后可以进行一次额外的免费攻击，但第二次攻击的[攻击检定](Attack_roll.md "Attack Roll")具有[劣势](Disadvantage.md "Disadvantage")。
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+能在一定距离内的黑暗中视物。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
 
 **特性**
 
-- [原始狂怒](Crude_Frenzy.md "原始狂怒")
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [**原始狂怒**](Crude_Frenzy.md "Crude Frenzy")
+
+此地精在进行主手攻击后可以进行一次额外的免费攻击，但第二次攻击的[攻击检定](Attack_roll.md "Attack Roll")具有[劣势](Disadvantage.md "Disadvantage")。
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+能在一定距离内的黑暗中视物。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
 
 ## 状态
 
 - [微醺](Slightly_Drunk_(Condition).md "微醺 (状态)")
 
-[力量](Strength.md "力量")提高 2，[威吓](Intimidation.md "威吓")和[敏捷](Dexterity.md "敏捷")检定具有[劣势](Disadvantage.md "劣势")。
+[力量](Strength.md "力量")提高 2，[魅力](Charisma.md "Charisma")和[敏捷](Dexterity.md "敏捷")检定具有[劣势](Disadvantage.md "劣势")。
 
 ## 状态
 
 - [微醺](Slightly_Drunk_(Condition).md "微醺 (状态)")
 
-[力量](Strength.md "力量")提高 2，[威吓](Intimidation.md "威吓")和[敏捷](Dexterity.md "敏捷")检定具有[劣势](Disadvantage.md "劣势")。
+[力量](Strength.md "力量")提高 2，[魅力](Charisma.md "Charisma")和[敏捷](Dexterity.md "敏捷")检定具有[劣势](Disadvantage.md "劣势")。
 
 ## 状态
 
 - [微醺](Slightly_Drunk_(Condition).md "微醺 (状态)")
 
-[力量](Strength.md "力量")提高 2，[威吓](Intimidation.md "威吓")和[敏捷](Dexterity.md "敏捷")检定具有[劣势](Disadvantage.md "劣势")。
+[力量](Strength.md "力量")提高 2，[魅力](Charisma.md "Charisma")和[敏捷](Dexterity.md "敏捷")检定具有[劣势](Disadvantage.md "劣势")。
 
 ## 荣誉难度属性
 
@@ -100,7 +121,7 @@
 
 - [微醺](Slightly_Drunk_(Condition).md "微醺 (状态)")
 
-[力量](Strength.md "力量")提高 2，[威吓](Intimidation.md "威吓")和[敏捷](Dexterity.md "敏捷")检定具有[劣势](Disadvantage.md "劣势")。
+[力量](Strength.md "力量")提高 2，[魅力](Charisma.md "Charisma")和[敏捷](Dexterity.md "敏捷")检定具有[劣势](Disadvantage.md "劣势")。
 
 **粉碎机**是一名[地精](Goblin.md "地精")，驻扎在[第一幕](Act_One.md "第一幕")[古代符文圈](Ancient_Rune_Circle.md "古代符文圈")附近的[地精营地](Goblin_Camp.md "地精营地")。
 
@@ -311,6 +332,14 @@
 
 - 粉碎机
   至上真神...赐福。给予力量。制造...真魂者...
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_GOB_DrunkGoblin` |
+| UUID | `0c3404d4-af6f-4c3c-8873-101a79cc4d86` |
+| Stats | `GOB_Warchief` |
 
 ## 画廊
 

@@ -10,6 +10,28 @@
 | 护甲等级 | 15 |
 | 先攻 | +3 |
 
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 10 / (0) | 17 / (+3) | 14 / (+2) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+**特性**
+
+- [**弩专家：近距离**](Crossbow_Expert_colon__Point-Blank.md "Crossbow Expert: Point-Blank")
+
+近战范围内的弩攻击不会受到[劣势](Disadvantage.md "劣势")。
+
+- [**弩专家：重伤**](Crossbow_Expert_colon__Wounding.md "Crossbow Expert: Wounding")
+
+你的[穿刺射击](Piercing_Shot.md "穿刺射击")造成的[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")持续时间翻倍。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击一个移出攻击范围的敌人。
+
 **吉斯洋基掠夺者**是贯穿_[博德之门3](Baldur's_Gate_3.md "博德之门3")_的[职业](Class.md "职业")[吉斯洋基人](Githyanki.md "吉斯洋基人")角色原型。
 
 ## 参与

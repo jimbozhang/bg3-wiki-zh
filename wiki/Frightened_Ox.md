@@ -13,9 +13,23 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 1 |
 
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 10 / (0) | 14 / (+2) | 2 / (-4) | 10 / (0) | 4 / (-3) |
+
+**特性**
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+可以在黑暗中看到一定距离。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击一个移出攻击范围的敌人。
+
 **惊慌的公牛**是一头[公牛](Ox.md "Ox")，可以在[第一幕](Act_One.md "Act_One")的[渥金的休眠地](Waukeen's_Rest.md "Waukeen's Rest")的[散塔林会地下室](Zhentarim_Basement.md "Zhentarim Basement")入口附近找到。
 
-> “
+> "
 >
 > 怪物……到处都是……杀……
 >

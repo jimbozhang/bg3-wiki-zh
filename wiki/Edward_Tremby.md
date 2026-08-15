@@ -23,19 +23,157 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 11 / (0) | 18 / (+4) | 14 / (+2) | 11 / (0) | 12 / (+1) | 14 / (+2) |
 
-**特性**
+## 特性
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
 
-**特性**
+可以在黑暗中看到一定距离内的物体。
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [多重攻击：形态伏击](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")
+- [**多重攻击：形态伏击**](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+
+如果目标被[伏击](Ambushed_(Condition).md "伏击 (状态)")，可以进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+
+生命值低于或等于一半的目标受到额外1d4穿刺伤害。
+
+## 探索者难度数据
+
+### 等级
+
+8
+
+### 生命值
+
+36
+
+### 护甲等级
+
+14
+
+### 先攻
+
++4
+
+### 熟练项
+
++5
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+24 米 (80 英尺)
+
+### 经验值奖励
+
+320
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 0 | +7 | +2 | 0 | +1 | +2 |
+
+## 硬核难度数据
+
+### 等级
+
+8
+
+### 生命值
+
+67
+
+### 护甲等级
+
+14
+
+### 先攻
+
++4
+
+### 熟练项
+
++3
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+24 米 (80 英尺)
+
+### 经验值奖励
+
+320
+
+| 属性值 | 运动 | 体操 | 感知 |
+| --- | --- | --- | --- |
+|  | 0 | 5 | 3 |
+
+## 硬核难度特性
+
+- [**读心者**](Mindreader.md "读心者")
+
+远程攻击对此生物具有[劣势](Disadvantage.md "劣势")。
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在黑暗中看到一定距离内的物体。
+
+- [**多重攻击：形态伏击**](Multiattack_colon__Morphic_Ambush.md "多重攻击：形态伏击")
+
+如果目标被[伏击](Ambushed_(Condition).md "伏击 (状态)")，可以进行[多重攻击](Multiattack_(Doppelganger).md "多重攻击 (变形怪)")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**弱肉强食**](Prey_Upon_the_Weak.md "弱肉强食")
+
+生命值低于或等于一半的目标受到额外1d4穿刺伤害。
+
+## 技术信息
+
+### UID
+
+`S_LOW_MinscHideout_Doppelganger_01`
+
+### UUID
+
+`1b82c291-6ce2-48c9-8b83-f07418f73939`
+
+### 数据
+
+`Doppelganger`
+
+## 变体 1
+
+### UID
+
+`LOW_AbandonedCistern_Doppelganger_Cultist_Bhaal_Reaper_01`
+
+### UUID
+
+`acb778f1-1623-4df9-99bd-e26b2fb380f4`
+
+### 数据
+
+`Human_Cultist_Bhaal_Reaper`
 
 **加兹**，伪装成**夜刃 爱德华·特伦比**，是一个[变形怪](Doppelganger.md "变形怪")，在[博德之门](Baldur's_Gate.md "博德之门")的[底城区](Undercity.md "底城区")内的[废弃蓄水池](Abandoned_Cistern.md "废弃蓄水池")中的石王藏身点被发现。
 

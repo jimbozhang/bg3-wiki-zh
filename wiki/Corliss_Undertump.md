@@ -29,19 +29,37 @@
 
 **特性**
 
-- [勇敢](Brave.md "勇敢")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [半身人幸运](Halfling_Luck.md "半身人幸运")
-- [借机攻击](Opportunity_Attacks.md "借机攻击")
+- [**勇敢**](Brave.md "勇敢")
 
-**特性**
+在对抗[恐惧](Frightened.md "恐惧")的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
-- [勇敢](Brave.md "勇敢")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [半身人幸运](Halfling_Luck.md "半身人幸运")
-- [借机攻击](Opportunity_Attacks.md "借机攻击")
+- [**额外攻击**](Extra_Attack.md "额外攻击")
 
-**科利斯**是一名试图在[第一幕](Act_1.md "第一幕")期间离开[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")的至上真神教徒。
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**半身人幸运**](Halfling_Luck.md "半身人幸运")
+
+当在[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中掷出1时，可以重新投掷一次并使用新结果。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击一个正在离开攻击范围的敌人。
+
+## 技术信息
+
+###
+
+UID
+
+`S_CRE_Cultist03` ###
+
+UUID
+
+`1953f136-1e57-4cfe-801a-9bde5c5344b6` ###
+
+Stats
+
+`Halfling_Ranger` **科利斯**是一名试图在[第一幕](Act_One.md "第一幕")期间离开[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")的至上真神教徒。
 
 > “
 >

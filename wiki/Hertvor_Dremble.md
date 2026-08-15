@@ -27,15 +27,17 @@
 
 **特性**
 
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [战术铁律](Tactical_Discipline.md "Tactical Discipline")
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
 
-**特性**
+可以在一次徒手或武器攻击后进行额外攻击。
 
-- [额外攻击](Extra_Attack.md "Extra Attack")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [战术铁律](Tactical_Discipline.md "Tactical Discipline")
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击一个移出攻击范围的敌人。
+
+- [**战术铁律**](Tactical_Discipline.md "Tactical Discipline")
+
+战斗中所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 **卫兵 赫特沃·德伦布尔**是[博德之门](Baldur's_Gate.md "Baldur's Gate")的一名[人类](Human.md "Human")卫兵。
 

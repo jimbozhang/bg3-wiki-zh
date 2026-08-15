@@ -4,11 +4,12 @@
 | --- | --- |
 | 身份 | 女性 |
 | 声音 / 演员 | [Jacqui Bardelang](https://www.imdb.com/name/nm11624408/) |
-| 体型 | [中级](Medium.md "Medium") |
-| 类型 | [类人生物](Humanoid.md "Humanoid") |
-| 种族 | [人类](Human.md "Human") |
-| 职业 | [牧师](Cleric.md "Cleric") |
-| 副职 | [光明领域](Light_Domain.md "Light Domain") |
+| 阵营 | [焰拳](Flaming_Fist.md "焰拳") |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
+| 职业 | [牧师](Cleric.md "牧师") |
+| 副职 | [光明领域](Light_Domain.md "光明领域") |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -25,6 +26,16 @@
 | 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 11 / (0) | 14 / (+2) | 12 / (+1) | 16 / (+3) | 14 / (+2) |
+
+**焰拳 J'ehlar** 是一名[焰拳](Flaming_Fist.md "焰拳")成员，在[第二幕](Act_Two.md "第二幕")期间于[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")协助[阿尔特·库拉](Art_Cullagh.md "阿尔特·库拉")。她请求队伍[唤醒阿尔特·库拉](Wake_up_Art_Cullagh.md "唤醒阿尔特·库拉")并找到[雷文伽德公爵](Ulder_Ravengard.md "雷文伽德公爵")。
+
+> “
+>
+> 被莎尔诅咒困住一个世纪会对人造成影响。但你不是一个人，长官。我们在这里陪你。
+>
+> „
+
+— J'ehlar，对昏迷的阿尔特·库拉说
 
 ## 目录
 
@@ -142,6 +153,14 @@
 ## 画廊
 
 - J'ehlar 的模型。
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_HAV_FlamingFist_004` |
+| UUID | `eb083eb6-066c-4693-8fb8-575bc4c71373` |
+| Stats | `HAV_FlamingFist_Human_Cleric` |
 
 ## 外部链接
 

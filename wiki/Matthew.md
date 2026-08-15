@@ -3,9 +3,10 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 体型 | [中级](Medium.md "Medium") |
-| 类型 | [类人生物](Humanoid.md "Humanoid") |
-| 职业 | [人类](Human.md "Human") |
+| 阵营 | [卫士](City_Watch.md "卫士") |
+| 体型 | [中级](Medium.md "中级") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [人类](Human.md "人类") |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -107,9 +108,17 @@
 - [头盔](Helmet.md "Helmet")
 - [板甲](Plate_Armour.md "Plate Armour")
 
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_END_LastStandGuard_006` |
+| UUID | `e9abe20a-60df-4807-8582-ecc2f9b80525` |
+| Stats | `END_CityWatchMelee_Human` |
+
 ## 参考文献
 
-1. [↑](#cite_ref-1) [刘易斯·莫雷尔](Lewis_Morell.md "Lewis Morell")的[死者交谈](Speak_with_Dead.md "Speak_with Dead")对话。
+1. [↑](#cite_ref-1) [刘易斯·莫雷尔](Lewis_Morell.md "Lewis Morell")的[死者交谈](Speak_with_Dead.md "死者交谈")对话。
 
 ---
 *Source: [Matthew](https://bg3.wiki/wiki/Matthew)*

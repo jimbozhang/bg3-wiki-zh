@@ -1,57 +1,298 @@
 # 巴瑞萨
 
-| | |
-| --- | --- |
-| 身份 | 女性 |
-| 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "类人生物") |
-| 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
-| 等级 | 6 |
-| 生命值 | 59 |
-| 护甲等级 | 17 |
-| 先攻 | +2 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 90 |
+## 萨斯十夫长巴瑞萨
+
+苍穹斗士
+
+- 游戏内
+- 模型
+- 肖像
+
+### 身份
+
+女性
+
+### 配音 / 演员
+
+- [Jodie Steele](https://www.imdb.com/name/nm7632738/)
+
+## 属性
+
+### 体型
+
+[中型](Medium.md "中型")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[吉斯洋基人](Githyanki.md "吉斯洋基人")
+
+### 职业
+
+[战士](Fighter.md "战士")
+
+### 子职业
+
+[战斗大师](Battle_Master.md "战斗大师")
+
+- 均衡
+
+- 探险家
+
+- 战术家
+
+## 均衡难度属性
+
+### 等级
+
+6
+
+### 生命值
+
+59
+
+### 护甲等级
+
+17
+
+### 先攻
+
++2
+
+### 熟练
+
++3
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+90
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 15 / (+2) | 11 / (0) | 12 / (+1) | 16 / (+3) |
 
 ## 状态
 
-- [准备招架](Ready_to_Parry_(Condition).md "Ready to Parry (Condition)")
+- [**准备招架**](Ready_to_Parry_(Condition).md "准备招架 (状态)")
 
-  - [吉斯洋基人](Githyanki.md "吉斯洋基人") 准备招架下一次武器攻击，将其受到的伤害减少 10。
+  - [吉斯洋基人](Githyanki.md "吉斯洋基人")准备招架下一次武器攻击，将其受到的伤害减少 10。
 
-  - 只要吉斯洋基人拥有 [反应](Actions.md#Reactions "动作")、装备 [巨剑](Greatswords.md "巨剑")，且未处于 [目盲](Blinded_(Condition).md "目盲 (状态)")、[失能](Incapacitated_(Condition).md "失能 (状态)") 或 [束缚](Restrained_(Condition).md "束缚 (状态)") 状态，他们就能招架攻击。
+  - 只要吉斯洋基人拥有[反应](Actions.md#Reactions "动作")、装备[巨剑](Greatswords.md "巨剑")，且未处于[致盲](Blinded_(Condition).md "致盲 (状态)")、[失能](Incapacitated_(Condition).md "失能 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")状态，他们就能招架攻击。
+
+## 特性
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+可在徒手或武器攻击后进行一次额外攻击。
+
+- [**吉斯天生灵能武器**](Githborn_Psionic_Weapon.md "吉斯天生灵能武器")
+
+当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器额外造成 1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
+
+- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+
+招架徒手和武器攻击，将其伤害减少 10。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+## 探险家难度属性
+
+### 等级
+
+6
+
+### 生命值
+
+41
+
+### 护甲等级
+
+17
+
+### 先攻
+
++2
+
+### 熟练
+
++5
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+90
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +7 | +2 | +5 | 0 | +1 | +3 |
 
 ## 状态
 
-- [准备招架](Ready_to_Parry_(Condition).md "Ready to Parry (Condition)")
+- [**准备招架**](Ready_to_Parry_(Condition).md "准备招架 (状态)")
 
-  - [吉斯洋基人](Githyanki.md "吉斯洋基人") 准备招架下一次武器攻击，将其受到的伤害减少 10。
+  - [吉斯洋基人](Githyanki.md "吉斯洋基人")准备招架下一次武器攻击，将其受到的伤害减少 10。
 
-  - 只要吉斯洋基人拥有 [反应](Actions.md#Reactions "动作")、装备 [巨剑](Greatswords.md "巨剑")，且未处于 [目盲](Blinded_(Condition).md "目盲 (状态)")、[失能](Incapacitated_(Condition).md "失能 (状态)") 或 [束缚](Restrained_(Condition).md "束缚 (状态)") 状态，他们就能招架攻击。
+  - 只要吉斯洋基人拥有[反应](Actions.md#Reactions "动作")、装备[巨剑](Greatswords.md "巨剑")，且未处于[致盲](Blinded_(Condition).md "致盲 (状态)")、[失能](Incapacitated_(Condition).md "失能 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")状态，他们就能招架攻击。
+
+## 特性
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+可在徒手或武器攻击后进行一次额外攻击。
+
+- [**吉斯天生灵能武器**](Githborn_Psionic_Weapon.md "吉斯天生灵能武器")
+
+当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器额外造成 1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
+
+- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+
+招架徒手和武器攻击，将其伤害减少 10。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+## 战术家难度属性
+
+### 等级
+
+6
+
+### 生命值
+
+76
+
+### 护甲等级
+
+17
+
+### 先攻
+
++2
+
+### 熟练
+
++3
+
+### 移动
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+90
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 15 / (+2) | 11 / (0) | 12 / (+1) | 16 / (+3) |
 
 ## 状态
 
-- [准备招架](Ready_to_Parry_(Condition).md "Ready to Parry (Condition)")
+- [**准备招架**](Ready_to_Parry_(Condition).md "准备招架 (状态)")
 
-  - [吉斯洋基人](Githyanki.md "吉斯洋基人") 准备招架下一次武器攻击，将其受到的伤害减少 10。
+  - [吉斯洋基人](Githyanki.md "吉斯洋基人")准备招架下一次武器攻击，将其受到的伤害减少 10。
 
-  - 只要吉斯洋基人拥有 [反应](Actions.md#Reactions "动作")、装备 [巨剑](Greatswords.md "巨剑")，且未处于 [目盲](Blinded_(Condition).md "目盲 (状态)")、[失能](Incapacitated_(Condition).md "失能 (状态)") 或 [束缚](Restrained_(Condition).md "束缚 (状态)") 状态，他们就能招架攻击。
+  - 只要吉斯洋基人拥有[反应](Actions.md#Reactions "动作")、装备[巨剑](Greatswords.md "巨剑")，且未处于[致盲](Blinded_(Condition).md "致盲 (状态)")、[失能](Incapacitated_(Condition).md "失能 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")状态，他们就能招架攻击。
 
-**萨斯十夫长巴瑞萨** 可在 [山隘](Mountain_Pass.md "山隘") 的 [第一幕](Act_One.md "第一幕") 期间找到。
+## 特性
 
-> “
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+可在徒手或武器攻击后进行一次额外攻击。
+
+- [**吉斯天生灵能武器**](Githborn_Psionic_Weapon.md "吉斯天生灵能武器")
+
+当由[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器额外造成 1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
+
+- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+
+招架徒手和武器攻击，将其伤害减少 10。
+
+- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+
+投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子都会重掷一次。
+
+- [**巨武器大师：全力一击**](Great_Weapon_Master_colon__All_In.md "巨武器大师：全力一击")
+
+当你用双手持握且熟练的近战武器攻击时，[攻击掷骰](Attack_roll.md "攻击掷骰")承受-5惩罚，但伤害增加10。
+
+- [**巨武器大师：附赠攻击**](Great_Weapon_Master_colon__Bonus_Attack.md "巨武器大师：附赠攻击")
+
+当你以近战武器攻击造成[重击](Critical_Hit.md "重击")或击杀目标时，你可以在该回合使用[附赠动作](Actions.md#Resources "动作")再进行一次近战武器攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**灵能强化**](Psionic_Empowerment.md "灵能强化")
+
+你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——灵吸怪奴役的伤痕根深蒂固。
+
+## 技术信息
+
+###
+
+UID
+
+`S_GLO_GithCaptain` ###
+
+UUID
+
+`27fa0802-fa38-4eea-9c03-496f2e022259` ###
+
+Stats
+
+`PLA_Githyanki_Captain` **萨斯十夫长巴瑞萨**可在[山隘](Mountain_Pass.md "山隘")的[第一幕](Act_One.md "第一幕")期间找到。
+
+> "
 >
 > 不，往上看。那是你最后的机会，伊斯提克。现在燃烧吧！
 >
 > „
 
-— 巴瑞萨，对焰拳 [铁手迪恩](Gauntlet_Dion.md "铁手迪恩")
+— 巴瑞萨，对焰拳[铁手迪恩](Gauntlet_Dion.md "铁手迪恩")
 
-## 相关剧情
+## 出场
 
 ### 第一幕
 
-巴瑞萨是吉斯洋基巡逻队的一员，正在 [荒野](Wilderness.md "荒野") 中搜寻一件强大的武器。作为队伍中的 [_萨斯_](Githyanki_vocabulary.md "吉斯洋基词汇")，她直接向 [凯斯拉克百夫长沃斯](Kith'rak_Voss.md "凯斯拉克百夫长沃斯") 报告。当队伍接近山隘入口处的巴瑞萨和吉斯洋基巡逻队时，他们会发现一群 [焰拳](Flaming_Fist.md "焰拳") 要求他们放下武器。这些焰拳很快在 [龙](Dragon.md "龙") 焰的洗礼中被击败。
+巴瑞萨是吉斯洋基巡逻队的一员，正在[荒野](Wilderness.md "荒野")中搜寻一件强大的武器。作为队伍中的[_萨斯_](Githyanki_vocabulary.md "吉斯洋基词汇")，她直接向[凯斯拉克百夫长沃斯](Kith'rak_Voss.md "凯斯拉克百夫长沃斯")报告。当队伍接近山隘入口处的巴瑞萨和吉斯洋基巡逻队时，他们会发现一群[焰拳](Flaming_Fist.md "焰拳")要求他们放下武器。这些焰拳很快在[龙](Dragon.md "龙")焰的洗礼中被击败。
 
 如果队伍激怒巴瑞萨，或者未能通过凯斯拉克百夫长沃斯的审问，巴瑞萨和她的小队将对队伍产生敌意。
 
@@ -60,7 +301,7 @@
 ### 攻击与能力
 
 [动作如潮](Action_Surge.md "动作如潮")
-立即获得一个额外的 [动作](Actions.md#Resources "动作") 在本回合使用。
+立即获得一个额外的[动作](Actions.md#Resources "动作")在本回合使用。
 
 范围：自身
 充能：[短休](Short_rest.md "短休")
@@ -94,7 +335,7 @@
 范围：正常武器范围
 
 [吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "吉斯洋基心灵异能：跳跃术")
-使生物的 [跳跃](Jump.md "跳跃") 距离变为三倍。
+使生物的[跳跃](Jump.md "跳跃")距离变为三倍。
 
 近战：1.5 米 (5 英尺)
 充能：[长休](Long_Rest.md "长休")
@@ -105,9 +346,9 @@
 
 2d6 + 5⁠[挥砍](Slashing.md "挥砍")
 
-劈砍目标的要害部位，使其 [流血](Bleeding_(Condition).md "流血 (状态)")。
+劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "流血 (状态)")。
 
-[不死生物](Undead.md "不死生物") 和 [构装生物](Constructs.md "构装生物") 不会流血。
+[不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")不会流血。
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
@@ -135,7 +376,7 @@
 
 1d4⁠[钝击](Bludgeoning.md "钝击")
 
-对敌人进行一次非致命攻击，并可能使其 [眩晕](Dazed_(Condition).md "眩晕 (状态)")。
+对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
 近战：1.5 米 (5 英尺)
@@ -161,14 +402,14 @@
 ### 战利品
 
 - [精致的石板](Elaborate_Slate.md "精致的石板")
-- [山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药") (如果未使用)
+- [山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")（如果未使用）
 - [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 - [吉斯洋基半身甲](Githyanki_Half_Plate.md "吉斯洋基半身甲")
-- [隐形药水](Potion_of_Invisibility.md "隐形药水") (如果未使用)
+- [隐形药水](Potion_of_Invisibility.md "隐形药水")（如果未使用）
 
 ## 死者交谈
 
-巴瑞萨可以使用 [死者交谈](Speak_with_Dead.md "死者交谈") 进行对话。
+巴瑞萨可以使用[死者交谈](Speak_with_Dead.md "死者交谈")进行对话。
 
 - 你是谁？
 
@@ -178,14 +419,14 @@
 - 你的职业是什么？
 
 - 巴瑞萨
-  萨斯... [维拉基斯](Vlaakith.md "维拉基斯") 的战士...
+  萨斯... [维拉基斯](Vlaakith.md "维拉基斯")的战士...
 
     - 维拉基斯是谁？
 
 - 巴瑞萨
   我的女王...
 
-- 你知道吉斯洋基 [养育间](Crèche_Y'llek.md "伊雷珂养育间") 在哪里吗？
+- 你知道吉斯洋基[养育间](Crèche_Y'llek.md "伊雷珂养育间")在哪里吗？
 
 - 巴瑞萨
   山脉...
@@ -200,7 +441,7 @@
 - 巴瑞萨
   寻找... 那件武器...
 
-- 你们寻找的这件“武器”——它有什么作用？
+- 你们寻找的这件"武器"——它有什么作用？
 
 - 巴瑞萨
   全能的... 维拉基斯的奖赏...
@@ -212,7 +453,7 @@
 
 ## 外部链接
 
-⁠[巴瑞萨](https://forgottenrealms.fandom.com/wiki/Baretha) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+[巴瑞萨](https://forgottenrealms.fandom.com/wiki/Baretha)在[被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
-*Source: [Baretha](https://bg3.wiki/wiki/Baretha)*
+*来源: [巴瑞萨](https://bg3.wiki/wiki/Baretha)*

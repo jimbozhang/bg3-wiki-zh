@@ -14,6 +14,32 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 320 |
 
+## 特性
+
+- [**暗视**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**大地行走：困难地形**](Land's_Stride_colon__Difficult_Terrain.md "Land's Stride: Difficult Terrain")
+
+你已成为穿越荒野的专家。[困难地形](Difficult_Terrain_(Condition).md "困难地形 (状态)")不再减缓你的移动。
+
+- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+
+对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
+
+- [**嗜杀如渴**](Murder_Hungry.md "Murder Hungry")
+
+每次杀死一个生物，获得 1 层不可撼动。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
 ## 状态
 
 - \_(状态)[谋杀灵光](Aura_of_Murder_(NPC)_(Condition).md "谋杀灵光 (NPC) (状态)")

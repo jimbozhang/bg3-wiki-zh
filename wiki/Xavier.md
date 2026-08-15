@@ -1,5 +1,17 @@
 # Xavier
 
+## 巨鹰
+
+### 全名
+
+Xavier
+
+### 配音 / 演员
+
+- [Clare Corbett](https://www.imdb.com/name/nm1352940/)
+- [Roly Botha](https://www.imdb.com/name/nm8629809/)
+- [Shaun Mendum](https://www.imdb.com/name/nm7471114/)
+
 | | |
 | --- | --- |
 | 体型 | [大型](Large.md "大型") |
@@ -11,6 +23,16 @@
 | 先攻 | +3 |
 | 移动速度 | 15 米 (50 英尺) |
 | 经验值 | 40 |
+
+## 特性
+
+- [**多重攻击**](Multiattack_(Giant_Eagle)_(passive_feature).md "多重攻击（巨鹰）（被动特性）")
+
+巨鹰可以在目标处于[倒伏](Prone_(Condition).md "倒伏（状态）")或[束缚](Restrained_(Condition).md "束缚（状态）")时发动[多重攻击](Multiattack_(Giant_Eagle).md "多重攻击（巨鹰）")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
 
 ## 参与
 

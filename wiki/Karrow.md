@@ -4,6 +4,7 @@
 | --- | --- |
 | 身份 | 男性 |
 | 声音 / 演员 | [David Monteith](https://www.imdb.com/name/nm4109548/) |
+| 阵营 | [哈贝尔](Harpers.md "哈贝尔") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
@@ -176,12 +177,20 @@
 
 - 模型
 
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_SCL_HarperScout_003` |
+| UUID | `9bebec18-ca66-42e9-abce-8d6a5f9d2a1b` |
+| Stats | `SCL_Harper_Dwarf_Ranger` |
+
 ## 备注
 
-- 卡罗与[梅根](Meygan.md "梅根")、[兰珊德拉](Lassandra.md "兰珊德拉")和[约纳斯](Yonas.md "约纳斯")一样，是[第二幕](Act_Two.md "第二幕")中唯一等级为5的哈尔波成员。
-  - [终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")的所有其他哈尔波成员等级为6，除了[贾希拉](Jaheira.md "贾希拉")，她是等级8。
-- 通过快速旅行到[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")的传送点（例如瑰晨修道院），可以让兰珊德拉、卡罗和梅根“升级”到等级6。
-- 卡罗拥有四个一级[法术位](Spell_Slot.md "法术位")和两个二级法术位，尽管他没有可以施放的法术。
+- 卡罗与[梅根](Meygan.md “梅根”)、[兰珊德拉](Lassandra.md “兰珊德拉”)和[约纳斯](Yonas.md “约纳斯”)一样，是[第二幕](Act_Two.md “第二幕”)中唯一等级为5的哈尔波成员。
+  - [终焉光芒旅店](Last_Light_Inn.md “终焉光芒旅店”)的所有其他哈尔波成员等级为6，除了[贾希拉](Jaheira.md “贾希拉”)，她是等级8。
+- 通过快速旅行到[瑰晨修道院小径](Rosymorn_Monastery_Trail.md “瑰晨修道院小径”)的传送点（例如瑰晨修道院），可以让兰珊德拉、卡罗和梅根”升级”到等级6。
+- 卡罗拥有四个一级[法术位](Spell_Slot.md “法术位”)和两个二级法术位，尽管他没有可以施放的法术。
 
 ---
 *Source: [Karrow](https://bg3.wiki/wiki/Karrow)*

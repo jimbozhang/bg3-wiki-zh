@@ -4,9 +4,11 @@
 | --- | --- |
 | 身份 | 男性 |
 | 声优 / 演员 | [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
+| 阵营 | [绝对教派](Cult_of_the_Absolute.md "绝对教派") |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [地精](Goblin.md "地精") |
+| 原型 | [地精战士](Goblin_Warrior.md "地精战士") |
 | 职业 | [战士](Fighter.md "战士") |
 
 | | 平衡 | 探索者 | 硬核 |
@@ -33,6 +35,7 @@
 **特性**
 
 - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+- [小型之怒](Fury_of_the_Small.md "小型之怒")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
 ## 荣誉难度属性
@@ -155,6 +158,14 @@
 ## 相关任务
 
 - ⁠[洗劫翠绿林地](Raid_the_Emerald_Grove.md "洗劫翠绿林地")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_GOB_RaiderThirsty` |
+| UUID | `64889786-dbc4-4acf-b17b-149527e898c7` |
+| Stats | `Goblin_Melee_Strong` |
 
 ---
 *Source: [Kramp](https://bg3.wiki/wiki/Kramp)*

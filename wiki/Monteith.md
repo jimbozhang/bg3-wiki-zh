@@ -27,15 +27,17 @@
 
 **特性**
 
-- [生于黑暗](Born_into_Darkness.md "Born into Darkness")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [阴影伏击](Shadow_Ambush.md "Shadow Ambush")
+- [生于黑暗](Born_into_Darkness.md "生于黑暗")
 
-**特性**
+此生物可以看穿魔法和非魔法黑暗，且不会被[致盲](Blinded_(Condition).md "致盲（状态）")。
 
-- [生于黑暗](Born_into_Darkness.md "Born into Darkness")
-- [借机攻击](Opportunity_Attack.md "Opportunity Attack")
-- [阴影伏击](Shadow_Ambush.md "Shadow Ambush")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击一个移出攻击范围的敌人。
+
+- [阴影伏击](Shadow_Ambush.md "阴影伏击")
+
+此生物从阴影中攻击时造成额外4d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
 **蒙蒂思**是[第三幕](Act_Three.md "Act Three")中的[莎尔学徒](Sharran_Novice.md "Sharran Novice")。
 

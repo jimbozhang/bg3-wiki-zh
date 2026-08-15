@@ -1,118 +1,357 @@
 # 德维拉·方坦海德
 
-| | |
-| --- | --- |
-| 身份 | 女性 |
-| 声音 / 演员 | [Shala Nyx](https://www.imdb.com/name/nm5964389/) |
-| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
-| 职业 | [圣武士](Paladin.md "圣武士") |
-| 体型 | [小型](Small.md "小型") |
-| 类型 | [类人生物](Humanoid.md "类人生物") |
-| 种族 | [侏儒](Gnome.md "侏儒") |
-| 亚种 | [岩侏儒](Rock_Gnome.md "岩侏儒") |
-| 副职 | [奉献之誓](Oath_of_Devotion.md "奉献之誓") |
+## 神使 德维拉·方坦海德
 
-| | 平衡 | 探索者 | 硬核 |
-| --- | --- | --- | --- |
-| 等级 | 10 | 10 | 10 |
-| 生命值 | 73 | 51 | 94 |
-| 护甲等级 | 17 | 17 | 17 |
-| 先攻 | 0 | 0 | 0 |
-| 熟练项 | +4 | +6 | +4 |
-| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
-| 重量 | 35 千克 (70 磅) | 35 千克 (70 磅) | 35 千克 (70 磅) |
-| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
-| 经验值 | 250 | 250 | 250 |
+焰拳治安官
+
+- 游戏内
+- 肖像
+
+### 身份
+
+女性
+
+### 配音 / 演员
+
+- [Shala Nyx](https://www.imdb.com/name/nm5964389/)
+
+### 阵营
+
+[焰拳](Flaming_Fist.md "焰拳")
+
+### 家乡
+
+[博德之门](Baldur's_Gate.md "博德之门")
+
+### 职业
+
+助理调查员
+
+## 属性
+
+### 体型
+
+[小型](Small.md "小型")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[侏儒](Gnome.md "侏儒")
+
+### 亚种
+
+[岩侏儒](Rock_Gnome.md "岩侏儒")
+
+### 职业
+
+[圣武士](Paladin.md "圣武士")
+
+### 子职业
+
+[奉献之誓](Oath_of_Devotion.md "奉献之誓")
+
+- 均衡
+
+- 探索者
+
+- 战术家
+
+## 均衡难度数据
+
+### 等级
+
+10
+
+### 生命值
+
+73
+
+### 护甲等级
+
+17
+
+### 先攻
+
+0
+
+### 熟练
+
++4
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 体重
+
+35 千克 (70 磅)
+
+### 黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+250
 
 | 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 10 / (0) | 15 / (+2) | 12 / (+1) | 10 / (0) | 16 / (+3) |
 
-**特性**
+## 额外资源
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [守护](Protection.md "守护")
-- [小步奔行](Shortened_Stride.md "小步奔行")
-
-**特性**
-
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [守护](Protection.md "守护")
-- [小步奔行](Shortened_Stride.md "小步奔行")
+- - - - - 5
 
 ## 状态
 
-- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (灵光) (状态)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
 
-圣武士和附近盟友不会陷入[恐慌](Frightened_(status_group).md)
+圣武士和附近盟友不会被[恐慌](Frightened_(status_group).md "恐慌")。
 
-- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (灵光) (状态)")
+- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (光环) (状态)")
 
-圣武士和附近盟友不会陷入[魅惑](Charmed_(status_group)..md)
+圣武士和附近盟友不会被[魅惑](Charmed_(status_group).md "魅惑")。
 
-- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
-该生物及其3米（10英尺）内的盟友获得该生物的[魅力](Charisma.md "魅力")，作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")调整值作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内的黑暗中视物。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手攻击或武器攻击后可以进行一次额外攻击。
+
+- [**侏儒机敏**](Gnome_Cunning.md "侏儒机敏")
+
+你对智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+
+近战武器攻击额外造成 +1d8[光耀](Radiant.md "光耀")伤害。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击正在脱离触及范围的敌人。
+
+- [**守护**](Protection.md "守护")
+
+当你装备[盾牌](Shields.md "盾牌")时，对在 1.5 米 (5 英尺) 内攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
+
+- [**缩短步伐**](Shortened_Stride.md "缩短步伐")
+
+你的移动速度为 7.5 米 (25 英尺)。
+
+## 探索者难度数据
+
+### 等级
+
+10
+
+### 生命值
+
+51
+
+### 护甲等级
+
+17
+
+### 先攻
+
+0
+
+### 熟练
+
++6
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 体重
+
+35 千克 (70 磅)
+
+### 黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +6 | +3 | +9 | +4 | +3 | +6 |
+
+## 额外资源
+
+- - - - - 5
 
 ## 状态
 
-- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (灵光) (状态)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
 
-圣武士和附近盟友不会陷入[恐慌](Frightened_(status_group).md)
+圣武士和附近盟友不会被[恐慌](Frightened_(status_group).md "恐慌")。
 
-- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (灵光) (状态)")
+- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (光环) (状态)")
 
-圣武士和附近盟友不会陷入[魅惑](Charmed_(status_group)..md)
+圣武士和附近盟友不会被[魅惑](Charmed_(status_group).md "魅惑")。
 
-- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
-该生物及其3米（10英尺）内的盟友获得该生物的[魅力](Charisma.md "魅力")，作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")调整值作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内的黑暗中视物。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手攻击或武器攻击后可以进行一次额外攻击。
+
+- [**侏儒机敏**](Gnome_Cunning.md "侏儒机敏")
+
+你对智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+
+近战武器攻击额外造成 +1d8[光耀](Radiant.md "光耀")伤害。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击正在脱离触及范围的敌人。
+
+- [**守护**](Protection.md "守护")
+
+当你装备[盾牌](Shields.md "盾牌")时，对在 1.5 米 (5 英尺) 内攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
+
+- [**缩短步伐**](Shortened_Stride.md "缩短步伐")
+
+你的移动速度为 7.5 米 (25 英尺)。
+
+## 战术家难度数据
+
+### 等级
+
+10
+
+### 生命值
+
+94
+
+### 护甲等级
+
+17
+
+### 先攻
+
+0
+
+### 熟练
+
++4
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 体重
+
+35 千克 (70 磅)
+
+### 黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 10 / (0) | 15 / (+2) | 12 / (+1) | 10 / (0) | 16 / (+3) |
+
+## 额外资源
+
+- - - - - 5
 
 ## 状态
 
-- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (灵光) (状态)")
+- \_(状态)[勇气灵光](Aura_of_Courage_(Aura)_(Condition).md "勇气灵光 (光环) (状态)")
 
-圣武士和附近盟友不会陷入[恐慌](Frightened_(status_group).md)
+圣武士和附近盟友不会被[恐慌](Frightened_(status_group).md "恐慌")。
 
-- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (灵光) (状态)")
+- \_(状态)[奉献灵光](Aura_of_Devotion_(Aura)_(Condition).md "奉献灵光 (光环) (状态)")
 
-圣武士和附近盟友不会陷入[魅惑](Charmed_(status_group)..md)
+圣武士和附近盟友不会被[魅惑](Charmed_(status_group).md "魅惑")。
 
-- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (灵光) (状态)")
+- \_(状态)[守护灵光](Aura_of_Protection_(Aura)_(Condition).md "守护灵光 (光环) (状态)")
 
-该生物及其3米（10英尺）内的盟友获得该生物的[魅力](Charisma.md "魅力")，作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
+该生物及其 3 米 (10 英尺) 内的盟友获得该生物的[魅力](Charisma.md "魅力")调整值作为其[豁免检定](Saving_throw.md "豁免检定")的加值。
 
-**德维拉·方坦海德**是[焰拳](Flaming_Fist.md "焰拳")的一名治安官，可以在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")调查犯罪现场时找到。
+## 特性
 
-> “
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内的黑暗中视物。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手攻击或武器攻击后可以进行一次额外攻击。
+
+- [**侏儒机敏**](Gnome_Cunning.md "侏儒机敏")
+
+你对智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+- [**精通至圣斩**](Improved_Divine_Smite.md "精通至圣斩")
+
+近战武器攻击额外造成 +1d8[光耀](Radiant.md "光耀")伤害。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击正在脱离触及范围的敌人。
+
+- [**守护**](Protection.md "守护")
+
+当你装备[盾牌](Shields.md "盾牌")时，对在 1.5 米 (5 英尺) 内攻击你盟友的敌人施加[劣势](Disadvantage.md "劣势")。你必须能够看到该敌人。
+
+- [**缩短步伐**](Shortened_Stride.md "缩短步伐")
+
+你的移动速度为 7.5 米 (25 英尺)。
+
+## 技术
+
+###
+
+UID
+
+`S_LOW_Elfsong_Devella_Fountainhead` ###
+
+UUID
+
+`048defbd-d386-4272-a5b7-40c1a9e75b81` ###
+
+Stats
+
+`LOW_DevellaFountainHead` **德维拉·方坦海德**是[焰拳](Flaming_Fist.md "焰拳")的一名治安官，可以在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")调查犯罪现场时找到。
+
+> "
 >
 > 你。姓名、军衔，以及闯入正在调查的犯罪现场的原因。为了你自己着想，最后一个原因最好足够充分。
 >
 > „
 
 — 德维拉·方坦海德在精灵之歌酒馆被接近时
-
-## 目录
-
-- [1 概述](#概述)
-- [2 参与](#参与)
-  - [2.1 精灵之歌酒馆](#精灵之歌酒馆)
-  - [2.2 焕颜精品店](#焕颜精品店)
-  - [2.3 石化蜥蜴之门营房](#石化蜥蜴之门营房)
-- [3 战斗](#战斗)
-  - [3.1 攻击与能力](#攻击与能力)
-  - [3.2 显著战利品](#显著战利品)
-- [4 相关文献](#相关文献)
-- [5 死者交谈](#死者交谈)
-- [6 外部链接](#外部链接)
 
 ## 概述
 
@@ -130,7 +369,7 @@
 
 如果向德维拉展示[染血的羊皮纸](Bloodstained_Parchment.md "染血的羊皮纸")，她会确认她对巴尔信徒参与谋杀的怀疑。德维拉告诉队伍关于[沙洛佛克·安基夫](Sarevok_Anchev.md "沙洛佛克·安基夫")和[巴尔](Bhaal.md "巴尔")信徒的事，以及她的结论——尽管表面如此，他们仍然活跃。她最终请求队伍协助她的调查，称她不能冒着丢掉工作的风险去宣扬巴尔信徒和巴尔之子的事。如果拒绝，她会要求他们至少调查[下城区](Lower_City.md "下城区")名单上的谋杀目标。德维拉随后前往[上城区](Upper_City.md "上城区")保护她誓言要保护的目标贵族。
 
-否则，队伍也可以利用犯罪现场描述斯特梅是如何被杀的，通过说服德维拉他们能帮忙，或者撒谎说他们“在世界最伟大的调查天才坎伯·福斯里克手下受过训练”（DC 15 [调查](Investigation.md "调查")、[游说](Persuasion.md "游说")或[欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")）。成功的检定会让德维拉分享她的发现：公爵被毒药麻痹，她的手在死前被移除。随后进行[游说](Persuasion.md "游说")或[察觉技能](Perception.md "察觉技能")检定，德维拉会透露她的理论——断手和“死亡与谋杀的立体模型”表明谋杀是由巴尔信徒实施的。然而，她的结论也指向另有其人负责这一系列谋杀“立体模型”。队伍随后可以主动提出帮忙调查巴尔信徒的复生。
+否则，队伍也可以利用犯罪现场描述斯特梅是如何被杀的，通过说服德维拉他们能帮忙，或者撒谎说他们"在世界最伟大的调查天才坎伯·福斯里克手下受过训练"（DC 15 [调查](Investigation.md "调查")、[游说](Persuasion.md "游说")或[欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")）。成功的检定会让德维拉分享她的发现：公爵被毒药麻痹，她的手在死前被移除。随后进行[游说](Persuasion.md "游说")或[察觉](Perception.md "察觉")检定，德维拉会透露她的理论——断手和"死亡与谋杀的立体模型"表明谋杀是由巴尔信徒实施的。然而，她的结论也指向另有其人负责这一系列谋杀"立体模型"。队伍随后可以主动提出帮忙调查巴尔信徒的复生。
 
 如果未出示谋杀名单，仍然可以告诉德维拉这些谋杀带有巴尔信徒阴谋的痕迹，这会导致她要求玩家角色详细说明。玩家角色可以让她先说，德维拉会分享她的怀疑和发现。当她反过来询问队伍知道什么时，他们可以向她出示谋杀名单，或者通过告诉她他们是在开玩笑来通过 DC 18 [欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")。如果检定失败，谋杀名单会向德维拉展示。
 
@@ -201,7 +440,7 @@
 - [谋杀地图](Map_of_Murder.md "谋杀地图")
 - [斯特梅谋杀案笔记](Notes_on_Stelmane's_Murder.md "斯特梅谋杀案笔记")
 - [关于失踪的画家](Regards_Missing_Painters.md "关于失踪的画家")
-- [紧急 —— 巴尔信徒复生](URGENT_-_Bhaalist_Resurgence.md "紧急 —— 巴尔信徒复生")
+- [紧急——巴尔信徒复生](URGENT_-_Bhaalist_Resurgence.md "紧急——巴尔信徒复生")
 
 ## 死者交谈
 
@@ -284,7 +523,7 @@ _在了解谋杀裁判所之后：_
 
 ## 外部链接
 
-- ⁠[德维拉·方坦海德](https://forgottenrealms.fandom.com/wiki/Devella_Fountainhead) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- [德维拉·方坦海德](https://forgottenrealms.fandom.com/wiki/Devella_Fountainhead) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [Devella Fountainhead](https://bg3.wiki/wiki/Devella_Fountainhead)*

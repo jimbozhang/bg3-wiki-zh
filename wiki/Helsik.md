@@ -29,29 +29,43 @@
 | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 14 / (+2) | 16 / (+3) | 16 / (+3) | 18 / (+4) |
 
-**特性**
+## 特性
 
-- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
-- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-- [魔能短矛](Eldritch_Spear.md "魔能短矛")
-- [传染贪婪](Infectious_Greed.md "传染贪婪")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
+- [**苦痛魔爆**](Agonising_Blast.md "苦痛魔爆")
 
-**特性**
+[魅力](Charisma.md "魅力")调整值加到[魔能爆](Eldritch_Blast.md "魔能爆")伤害上。
 
-- [苦痛魔爆](Agonising_Blast.md "苦痛魔爆")
-- [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [魔鬼视界](Devil's_Sight.md "魔鬼视界")
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-- [魔能短矛](Eldritch_Spear.md "魔能短矛")
-- [传染贪婪](Infectious_Greed.md "传染贪婪")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [斥力魔爆](Repelling_Blast.md "斥力魔爆")
+- [**黑暗强运**](Dark_One's_Own_Luck.md "黑暗强运")
+
+呼唤你的守护者改变命运，在一次[属性检定](Ability_Check.md "属性检定")上加 1d10。
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**魔鬼视界**](Devil's_Sight.md "魔鬼视界")
+
+可以在黑暗中看到，包括魔法黑暗，最远 24 米（80 英尺）。
+
+- [**矮人韧性**](Dwarven_Resilience.md "矮人韧性")
+
+对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**魔能长矛**](Eldritch_Spear.md "魔能长矛")
+
+你的[魔能爆](Eldritch_Blast.md "魔能爆")射程增加一半。
+
+- [**传染贪婪**](Infectious_Greed.md "传染贪婪")
+
+受玛门向最忠实信徒提供的财富诱惑，此生物面前的所有盟友都受到[传染贪婪](Infectious_Greed_(Condition).md "传染贪婪（状态）")影响。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**斥力魔爆**](Repelling_Blast.md "斥力魔爆")
+
+[魔能爆](Eldritch_Blast.md "魔能爆")可以将一个生物击退最多 4.5 米（15 英尺）。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 

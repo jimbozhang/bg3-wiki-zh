@@ -12,6 +12,20 @@
 | 移动速度 | 12 米 (40 英尺) |
 | 经验值 | 75 |
 
+**特性**
+
+- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
+- [肌肉发达](Muscular.md "肌肉发达")
+
+在使用运动的属性检定和豁免检定上具有优势。
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击一个移出攻击范围的敌人。
+
 **牛头人**是在[第一幕](Act_One.md "第一幕")中发现的[怪兽](List_of_creature_types.md#Monstrosity "生物类型列表")生物。它们拥有强大的跳跃攻击，并且可以通过让敌人获得优势来使自己的攻击获得优势。
 
 ## 关于
@@ -33,7 +47,7 @@
 
 伤害：8~36
 
-4d8 + 4⁠[穿刺](Piercing.md "穿刺")
+4d8 + 4[穿刺](Piercing.md "穿刺")
 
 向前冲锋，攻击路径上的所有敌人，将其击退 2 米 / 7 英尺，并可能使其[倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
@@ -44,7 +58,7 @@
 
 伤害：6~24
 
-2d10 + 4⁠[穿刺](Piercing.md "穿刺")
+2d10 + 4[穿刺](Piercing.md "穿刺")
 
 刺穿目标并将其击退 2 米 / 7 英尺。
 
@@ -62,7 +76,7 @@
 
 ## 牛头人敌人变体
 
-- [镀金牛头人](Gilded_Minotaur.md "镀金牛头人")，为 archdevil Mammon 服务的强大变体
+- [镀金牛头人](Gilded_Minotaur.md "镀金牛头人")，为大魔鬼玛门服务的强大变体
 
 ## 图库
 
@@ -74,7 +88,7 @@
 
 ## 外部链接
 
-- ⁠[牛头人](https://forgottenrealms.fandom.com/wiki/Minotaur) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- [牛头人](https://forgottenrealms.fandom.com/wiki/Minotaur) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [Minotaur](https://bg3.wiki/wiki/Minotaur)*

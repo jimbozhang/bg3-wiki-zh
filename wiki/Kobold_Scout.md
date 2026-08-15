@@ -23,29 +23,21 @@
 
 **特性**
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [集群战术](Pack_Tactics.md "集群战术")
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [**黑暗视觉**](Darkvision.md "Darkvision")
 
-**特性**
+可以在黑暗中看到一定距离。
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [集群战术](Pack_Tactics.md "集群战术")
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
 
-## 状态
+攻击一个移出攻击范围的敌人。
 
-- [火酒肚](Firewine_Belly_(Condition).md "火酒肚 (状态)")
+- [**集群战术**](Pack_Tactics.md "集群战术")
 
-如果被火焰杀死，会发生[火酒爆炸](Firewine_Explosion.md "火酒爆炸")。
+3 米 (10 英尺) 内的盟友对你相邻的敌人进行攻击掷骰时具有[优势](Advantage.md "优势")。
 
-## 状态
+- [**日照敏感**](Sunlight_Sensitivity.md "日照敏感")
 
-- [火酒肚](Firewine_Belly_(Condition).md "火酒肚 (状态)")
-
-如果被火焰杀死，会发生[火酒爆炸](Firewine_Explosion.md "火酒爆炸")。
+在阳光下时，攻击掷骰和感知检定具有劣势。
 
 ## 状态
 

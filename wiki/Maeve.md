@@ -1,18 +1,129 @@
 # 梅芙
 
+## 费洛杰尔守卫 梅芙
+
 | | |
 | --- | --- |
 | 身份 | 女性 |
 | 配音 | - [Reanne Farley](https://www.imdb.com/name/nm2341341/) |
+| 阵营 | [班恩教团](Cult_of_Bane.md "班恩教团") |
+| 故乡 | [博德之门](Baldur's_Gate.md "博德之门") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [半精灵](Half-Elf.md "半精灵") |
+| 亚种 | [半木精灵](Wood_Half-Elf.md "半木精灵") |
+| 原型 | [班恩铁执政官](Iron_Consul_of_Bane.md "班恩铁执政官") |
 | 等级 | 11 |
 | 生命值 | 65 |
 | 护甲等级 | 18 |
 | 先攻 | 0 |
+| 熟练项 | +4 |
 | 移动速度 | 9 米 (30 英尺) |
+| 重量 | 75 千克 (150 磅) |
+| 暗视 | 12 米 (40 英尺) |
 | 经验值 | 320 |
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内的黑暗中视物。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**精灵血脉**](Fey_Anestry.md "精灵血脉")
+
+对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**战术纪律**](Tactical_Discipline.md "战术纪律")
+
+战斗中所有[能力检定](Ability_Check.md "能力检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+## 探索者难度属性
+
+### 等级
+
+11
+
+### 生命值
+
+47
+
+### 护甲等级
+
+18
+
+### 先攻
+
+0
+
+### 熟练项
+
++6
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 暗视
+
+12 米 (40 英尺)
+
+### 经验值
+
+320
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +5 | 0 | +3 | 0 | +6 | +3 |
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在一定距离内的黑暗中视物。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**精灵血脉**](Fey_Anestry.md "精灵血脉")
+
+对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；不会被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**战术纪律**](Tactical_Discipline.md "战术纪律")
+
+战斗中所有[能力检定](Ability_Check.md "能力检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+## 技术信息
+
+###
+
+UID
+
+`S_LOW_FireworksHouse_BaniteGuard03` ###
+
+UUID
+
+`af2dde9a-b304-4656-b871-6804ff8247a9` ###
+
+Stats
+
+`HalfElf_Cultist_Bane_IronConsul`
 
 **费洛杰尔守卫 梅芙**是一位[半木精灵](Wood_Half-Elf.md "半木精灵")，可以在游戏[第三幕](Act_Three.md "第三幕")中，[博德之门](Baldur's_Gate.md "博德之门")的[下城区](Lower_City.md "下城区")的[费洛杰尔烟花铺](Felogyr's_Fireworks.md "费洛杰尔烟花铺")工坊中遇到，同时正在完成任务 ⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")。
 

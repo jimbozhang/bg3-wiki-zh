@@ -17,13 +17,39 @@
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "抗性")
+**特性**
 
-- ## 额外资源
+- [灰矮人韧性](Duergar_Resilience.md "灰矮人韧性")
+
+在对抗[幻术](Illusion.md "幻术")以及被[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)的[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
+
+- [矮人韧性](Dwarven_Resilience.md "矮人韧性")
+
+在对抗[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+
+- [额外攻击](Extra_Attack.md "额外攻击")
+
+可以在一次徒手或武器攻击后进行额外攻击。
+
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+攻击一个移出攻击范围的敌人。
+
+- [方阵编队](Phalanx_Formation.md "方阵编队")
+
+在未被[失能](Incapacitated_(Condition).md)的持盾盟友 3 米 / 10 英尺范围内，[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+
+- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+
+在阳光下攻击掷骰和感知检定具有劣势。
+
+- [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到最远 24 米 / 80 英尺。
 
 **石卫士库尔**是一名灰矮人游侠，可在[复仇之炉](Grymforge.md "复仇之炉")的[第一幕](Act_One.md "第一幕")中找到。
 
-> “
+> "
 >
 > _滚开，外来者。这里没你们的事。
 >
@@ -57,13 +83,13 @@
 
 [诱捕攻击（远程）](Ensnaring_Strike_(Ranged).md "诱捕攻击（远程）") (+ + ) – [重弩](Heavy_Crossbow.md "重弩")
 
-你的攻击召唤荆棘藤蔓，可能使目标[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md) "诱捕（诱捕攻击）（状态）")。
+你的攻击召唤荆棘藤蔓，可能使目标[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕（诱捕攻击）（状态）")。
 
-被诱捕的生物无法移动，并在每回合开始时受到1d6⁠⁠[穿刺](Piercing.md "穿刺")伤害。盟友可以使用[协助](Help.md "协助")动作尝试撕开藤蔓。
+被诱捕的生物无法移动，并在每回合开始时受到1d6[穿刺](Piercing.md "穿刺")伤害。盟友可以使用[协助](Help.md "协助")动作尝试撕开藤蔓。
 
 [猎人印记](Hunter's_Mark.md "猎人印记") (+ )
 
-标记一个生物作为你的猎物，当你用武器攻击命中时造成额外1d6⁠⁠[武器](Weapon.md "武器")伤害。
+标记一个生物作为你的猎物，当你用武器攻击命中时造成额外1d6[武器](Weapon.md "武器")伤害。
 
 如果目标在法术结束前死亡，你可以使用[重新施展猎人印记](Reapply_Hunter's_Mark.md "重新施展猎人印记")来标记一个新生物。
 
@@ -170,11 +196,11 @@
 
 ## 相关任务
 
-- ⁠[除掉至上真神的眼线](Blind_the_Absolute.md "除掉至上真神的眼线")
-- ⁠[交送尼讷的头](Deliver_Nere's_Head.md "交送尼讷的头")
-- ⁠[救出真魂者尼讷](Free_True_Soul_Nere.md "救出真魂者尼讷")
-- ⁠[解救月出之塔的侏儒们](Rescue_the_Gnomes_in_Moonrise_Towers.md "解救月出之塔的侏儒们")
-- ⁠[拯救复仇之炉的侏儒们](Save_the_Grymforge_Gnomes.md "拯救复仇之炉的侏儒们")
+- [除掉至上真神的眼线](Blind_the_Absolute.md "除掉至上真神的眼线")
+- [交送尼讷的头](Deliver_Nere's_Head.md "交送尼讷的头")
+- [救出真魂者尼讷](Free_True_Soul_Nere.md "救出真魂者尼讷")
+- [解救月出之塔的侏儒们](Rescue_the_Gnomes_in_Moonrise_Towers.md "解救月出之塔的侏儒们")
+- [拯救复仇之炉的侏儒们](Save_the_Grymforge_Gnomes.md "拯救复仇之炉的侏儒们")
 
 ---
 *Source: [Kur](https://bg3.wiki/wiki/Kur)*

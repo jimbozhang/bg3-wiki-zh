@@ -30,16 +30,18 @@
 **特性**
 
 - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
+
+可以在黑暗中看到一定距离。
+
 - [妖精血统](Fey_Ancestry.md "妖精血统")
+
+在对抗[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")上具有优势；无法被魔法[入睡](Sleeping_(Condition).md)。
+
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**特性**
+攻击一个移出攻击范围的敌人。
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-
-**阿内尔·圣叶**是一名高精灵[狼人](Werewolf.md "狼人")<sup>[\[1\]](#cite_note-1)</sup>，⁠[塞伦涅信徒](Sel%C3%BBne.md "塞伦涅")，也是[影心](Shadowheart.md "影心")的父亲。他有可能成为[营地随从](Camp_Followers.md "营地随从")。
+**阿内尔·圣叶**是一名高精灵[狼人](Werewolf.md "狼人")<sup>[\[1\]](#cite_note-1)</sup>，[塞伦涅信徒](Sel%C3%BBne.md "塞伦涅")，也是[影心](Shadowheart.md "影心")的父亲。他有可能成为[营地随从](Camp_Followers.md "营地随从")。
 
 ## 目录
 
@@ -52,11 +54,11 @@
 
 ## 历史
 
-阿内尔·圣叶是一名⁠[狼人](https://forgottenrealms.fandom.com/wiki/lycanthrope)，但通过[塞伦涅](Sel%C3%BBne.md "塞伦涅")的祝福，学会了控制变形。据他所说，影心是否继承了诅咒是“抛硬币决定的”——而她没有。
+阿内尔·圣叶是一名[狼人](https://forgottenrealms.fandom.com/wiki/lycanthrope)，但通过[塞伦涅](Sel%C3%BBne.md "塞伦涅")的祝福，学会了控制变形。据他所说，影心是否继承了诅咒是"抛硬币决定的"——而她没有。
 
 阿内尔和他的妻子[埃米琳·圣叶](Emmeline_Hallowleaf.md "埃米琳·圣叶")在[博德之门](Baldur's_Gate.md "博德之门")外的森林中一个[塞伦涅信徒](Sel%C3%BBne.md "塞伦涅")家庭中抚养[影心](Shadowheart.md "影心")长大，她原名珍妮维尔·圣叶。<sup>[\[2\]](#cite_note-2)</sup> 珍妮维尔小时候参加了一个塞伦涅成年仪式，她被独自留在树林里，相信她能依靠塞伦涅的指引回到家人身边。然而，村民们在村庄附近发现了一名莎尔密探，并得知他的同伙试图绑架珍妮维尔。阿内尔化身为狼形，快速穿越树林寻找珍妮维尔，但她并不知道他的诅咒，看到狼时惊慌失措，这给了莎尔信徒足够的时间找到并绑架了他们两人，以及埃米琳。
 
-阿内尔和埃米琳被关押在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")约40年，而莎尔信徒则让影心在她父母身上“练习”他们的技巧，如欺骗、审讯和酷刑。
+阿内尔和埃米琳被关押在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")约40年，而莎尔信徒则让影心在她父母身上"练习"他们的技巧，如欺骗、审讯和酷刑。
 
 ## 相关剧情
 
@@ -72,7 +74,7 @@
 
 ## 相关任务
 
-- ⁠[黑暗之女](Daughter_of_Darkness.md "黑暗之女")
+- [黑暗之女](Daughter_of_Darkness.md "黑暗之女")
 
 ## 画廊
 

@@ -1,78 +1,282 @@
 # 马萨尔
 
-| | |
-| --- | --- |
-| 体型 | 中级 |
-| 类型 | [类人生物](Humanoid.md "类人生物") |
-| 种族 | [吉斯洋基人](Githyanki.md "Githyanki") |
-| 等级 | 9 |
-| 生命值 | 73 |
-| 护甲等级 | 17 |
-| 先攻 | +2 |
-| 经验值 | 200 |
+## 老练战士马萨尔
 
-**老练战士 马萨尔**是一名吉斯洋基[老练战士](Veteran_Warrior.md "Veteran Warrior")，他试图在[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")内的[雷斯文小镇](Reithwin_Town.md "Reithwin Town")附近，[博德之门通道](Road_to_Baldur's_Gate.md "Road to Baldur's Gate")伏击小队。
+- 模型
+- 肖像
+
+## 属性
+
+### 体型
+
+中型
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[吉斯洋基人](Githyanki.md "吉斯洋基人")
+
+### 原型
+
+[老练战士](Veteran_Warrior.md "老练战士")
+
+- 均衡
+
+- 探索者
+
+- 战术家
+
+## 均衡难度属性
+
+### 等级
+
+9
+
+### 生命值
+
+73
+
+### 护甲等级
+
+17
+
+### 先攻
+
++2
+
+### 熟练加值
+
++4
+
+### 重量
+
+75 千克（165 磅）
+
+### 黑暗视觉
+
+0 米（0 英尺）
+
+### 经验值奖励
+
+200
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 18 / (+4) | 14 / (+2) | 16 / (+3) | 10 / (0) | 12 / (+1) | 10 / (0) |
+
+## 特性
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+可以在徒手或武器攻击后进行额外攻击。
+
+- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+
+招架徒手和武器攻击，使其伤害减少 10。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+
+招架徒手和武器攻击，使其伤害减少 10。
+
+## 探索者难度属性
+
+### 等级
+
+9
+
+### 生命值
+
+51
+
+### 护甲等级
+
+17
+
+### 先攻
+
++2
+
+### 熟练加值
+
++6
+
+### 重量
+
+75 千克（165 磅）
+
+### 黑暗视觉
+
+0 米（0 英尺）
+
+### 经验值奖励
+
+200
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +4 | +2 | +3 | 0 | +1 | 0 |
+
+## 特性
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+可以在徒手或武器攻击后进行额外攻击。
+
+- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+
+招架徒手和武器攻击，使其伤害减少 10。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**吉斯洋基招架**](Githyanki_Parry.md "吉斯洋基招架")
+
+招架徒手和武器攻击，使其伤害减少 10。
+
+## 战术家难度属性
+
+### 等级
+
+9
+
+### 生命值
+
+94
+
+### 护甲等级
+
+17
+
+### 先攻
+
++2
+
+### 熟练加值
+
++4
+
+### 重量
+
+75 千克（165 磅）
+
+### 黑暗视觉
+
+0 米（0 英尺）
+
+### 经验值奖励
+
+200
+
+| 属性值 | 运动 | 体操 | 察觉 |
+| --- | --- | --- | --- |
+|  | 4 | 2 | 1 |
+
+## 特性
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+可以在徒手或武器攻击后进行额外攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开攻击范围的敌人。
+
+- [**至高吉斯洋基招架**](Supreme_Githyanki_Parry.md "至高吉斯洋基招架")
+
+招架徒手和武器攻击，使其伤害减少 20。
+
+- [**灵能强化**](Psionic_Empowerment.md "灵能强化")
+
+你的攻击额外造成 1d6 [心灵](Psychic.md "心灵")伤害 - 灵吸怪奴役的伤痕根深蒂固。
+
+- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+
+当掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子都会重掷一次。
+
+## 技术信息
+
+###
+
+UID
+
+`S_TWN_VlaakithAttack_Melee_001` ###
+
+UUID
+
+`9aae708f-6fd1-453f-b5a6-959814f0672f` ###
+
+属性
+
+`Githyanki_Warrior_Strong` **老练战士马萨尔**是一名吉斯洋基[老练战士](Veteran_Warrior.md "老练战士")，他试图在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")内的[雷斯文小镇](Reithwin_Town.md "雷斯文小镇")附近，[博德之门通道](Road_to_Baldur's_Gate.md "博德之门通道")伏击队伍。
 
 ## 参与
 
-如果小队成员被[维拉基斯](Vlaakith.md "Vlaakith")标记为死亡，[审判官茨卡'安](Tska'an.md "Tska'an")、马萨尔及其部队的其余成员会埋伏起来，在小队接近雷斯文小镇西门时进行伏击。携带[灵能探测器](Qua'nith_Psionic_Detector.md "Qua'nith Psionic Detector")可以让小队发现伏击并反过来突袭他们。
+如果队伍成员被[维拉基斯](Vlaakith.md "维拉基斯")标记为死亡，[审判官茨卡'安](Tska'an.md "审判官茨卡'安")、马萨尔及其部队的其余成员会埋伏起来，在队伍接近雷斯文小镇西门时进行伏击。携带[灵能探测器](Qua'nith_Psionic_Detector.md "灵能探测器")可以让队伍发现伏击并反过来突袭他们。
 
 ## 战斗
 
 ### 攻击与能力
 
-[缴械攻击（近战）](Disarming_Attack_(Melee).md "Disarming Attack (Melee)") (+ )
+[缴械攻击（近战）](Disarming_Attack_(Melee).md "缴械攻击（近战）")（+ ）
 
 伤害：
 
 正常武器伤害
 
-\+ [卓越骰子](Battlemaster.md#Superiority_dice "Battlemaster")
++ [卓越骰子](Battlemaster.md#Superiority_dice "战斗大师")
 
 集中攻击敌人的手部，可能迫使其放下手中武器。
 
-[力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")
+[力量](Strength.md "力量")[豁免检定](Saving_throws.md "豁免检定")
 范围：正常武器范围
 
-[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "Githyanki Psionics: Jump")
-使生物的[跳跃](Jump.md "Jump")距离变为三倍。
+[吉斯洋基心灵异能：跳跃术](Githyanki_Psionics_colon__Jump.md "吉斯洋基心灵异能：跳跃术")
+使生物的[跳跃](Jump.md "跳跃")距离变为三倍。
 
-近战：1.5 m (5 ft)
-充能：[长休](Long_Rest.md "Long rest")
+近战：1.5 米（5 英尺）
+充能：[长休](Long_Rest.md "长休")
 
-[主手攻击](Main_Hand_Attack.md "Main Hand Attack") – [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
+[主手攻击](Main_Hand_Attack.md "主手攻击") - [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 
 伤害：7~17
 
-2d6 + 5⁠[挥砍](Slashing.md "Slashing")
+2d6 + 5 [挥砍](Slashing.md "挥砍")
 
 用装备的武器进行近战攻击。
 
-近战：1.5 m (5 ft)
+近战：1.5 米（5 英尺）
 
-[回气](Second_Wind.md "Second Wind")
+[回气](Second_Wind.md "回气")
 
 治疗：1~10 + 调整值
 
-1d10 + 战士等级⁠[治疗](Healing.md "Healing")
+1d10 + 战士等级 [治疗](Healing.md "治疗")
 
-消耗体力保护自己。恢复1d10 + 战士等级⁠⁠[治疗](Healing.md "治疗")。
+消耗体力保护自己。恢复 1d10 + 战士等级 [生命值](Healing.md "治疗")。
 
 范围：自身
-充能：[短休](Short_rest.md "Short rest")
+充能：[短休](Short_rest.md "短休")
 
 ### 显著战利品
 
-- [吉斯洋基巨剑](Githyanki_Greatsword.md "Githyanki Greatsword")
-- [吉斯洋基半身甲](Githyanki_Half_Plate.md "Githyanki Half Plate")
-- [吉斯洋基短剑](Githyanki_Shortsword.md "Githyanki Shortsword")
+- [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
+- [吉斯洋基半身甲](Githyanki_Half_Plate.md "吉斯洋基半身甲")
+- [吉斯洋基短剑](Githyanki_Shortsword.md "吉斯洋基短剑")
 
 ### 盟友
 
-- [审判官茨卡'安](Tska'an.md "Tska'an")
-- [老练掠夺者 尼姆巴'阿斯](Nimba'as.md "Nimba'as")
-- [老练掠夺者 祖尼](Zunii.md "Zunii")
-- [老练战士 布拉迪'伊斯](Bradi'ith.md "Bradi'ith")
+- [审判官茨卡'安](Tska'an.md "审判官茨卡'安")
+- [老练掠夺者尼姆巴'阿斯](Nimba'as.md "老练掠夺者尼姆巴'阿斯")
+- [老练掠夺者祖尼](Zunii.md "老练掠夺者祖尼")
+- [老练战士布拉迪'伊斯](Bradi'ith.md "老练战士布拉迪'伊斯")
 
 ---
-*Source: [Ma'athal](https://bg3.wiki/wiki/Ma'athal)*
+*来源：[马萨尔](https://bg3.wiki/wiki/Ma'athal)*

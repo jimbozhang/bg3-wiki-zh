@@ -3,9 +3,11 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
-| 体型 | [小型](Small.md "Small") |
-| 类型 | [类人生物](Humanoid.md "Humanoid") |
-| 种族 | [半身人](Halfling.md "Halfling") |
+| 声音 / 演员 | [奥利维亚·查普尔](https://www.imdb.com/name/nm3165271/) |
+| 体型 | [小型](Small.md "小型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [半身人](Halfling.md "半身人") |
+| 亚种 | [轻足半身人](Lightfoot_Halfling.md "轻足半身人") |
 | 等级 | 1 |
 | 生命值 | 8 |
 | 护甲等级 | 10 |
@@ -13,7 +15,13 @@
 | 移动速度 | 7.5 米 (25 英尺) |
 | 经验值 | 1 |
 
-**双指缇娜**是一位[轻足半身人](Lightfoot_Halfling.md "Lightfoot halfling")，可以在[利文顿](Rivington.md "Rivington")的[遗弃磨坊](Abandoned_Windmill.md "Abandoned Windmill")东边的破车附近找到，时间为[第三幕](Act_Three.md "Act Three")。
+**特性**
+
+- [勇敢](Brave.md "勇敢")
+- [半身人幸运](Halfling_Luck.md "半身人幸运")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+
+**双指缇娜**是一位[轻足半身人](Lightfoot_Halfling.md "轻足半身人")，可以在[利文顿](Rivington.md "利文顿")的[废弃风车](Abandoned_Windmill.md "废弃风车")东边的破车附近找到，时间为[第三幕](Act_Three.md "第三幕")。
 
 > “
 >
@@ -25,7 +33,7 @@
 
 ## 参与
 
-双指缇娜可以在[利文顿](Rivington.md "Rivington")的[遗弃磨坊](Abandoned_Windmill.md "Abandoned Windmill")东边的破车附近找到。她与[斯拉米](Slarmy.md "Slarmy")和[泽菲·柔树](Zeffy_Softbluff.md "Zeffy Softbluff")一起在翻找这辆破车。他们谴责那些拆毁并洗劫了这辆车的人，尽管他们自己也在翻找残骸。
+双指缇娜可以在[利文顿](Rivington.md "利文顿")的[废弃风车](Abandoned_Windmill.md "废弃风车")东边的破车附近找到。她与[斯拉米](Slarmy.md "Slarmy")和[泽菲·柔树](Zeffy_Softbluff.md "泽菲·柔树")一起在翻找这辆破车。他们谴责那些拆毁并洗劫了这辆车的人，尽管他们自己也在翻找残骸。
 
 ## 闲聊
 
@@ -39,7 +47,7 @@
   他们要是排队然后——然后拿走他们公平的那份，我们大家就都有得剩了！
 
 - 泽菲·柔树
-  “要是”可不能让我们吃饱喝足。
+  "要是"可不能让我们吃饱喝足。
 
 - 斯拉米
   看那个——水果能做的最好的派。现在成糊了。
@@ -63,7 +71,7 @@
   一群野蛮人，他们都是！
 
 - 泽菲·柔树
-  我们和这些“野蛮人”一样绝望。他们只是比我们更懂得快点行动。
+  我们和这些"野蛮人"一样绝望。他们只是比我们更懂得快点行动。
 
 ---
 *Source: [Tina Two-Thumbs](https://bg3.wiki/wiki/Tina_Two-Thumbs)*

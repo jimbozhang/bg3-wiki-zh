@@ -6,6 +6,7 @@
 | 声音 / 演员 | [查尔斯·阿姆斯特朗](https://www.imdb.com/name/nm1084394/) |
 | 家乡 | [慈爱神殿](Open_Hand_Temple.md "Open Hand Temple"), [利文顿](Rivington.md "Rivington") |
 | 职业 | 牧师 |
+| 阵营 | [伊尔梅特教会](Church_of_Ilmater.md "Church of Ilmater") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [精灵](Elf.md "Elf") |
@@ -26,6 +27,68 @@
 | 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 12 / (+1) | 13 / (+1) | 12 / (+1) | 18 / (+4) | 14 / (+2) |
+
+**特性**
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+能在一定距离内的黑暗中视物。
+
+- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+
+对被[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有优势；无法被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+## 探索者难度属性
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +1 | +1 | +1 | +1 | +6 | +4 |
+
+**特性**
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+能在一定距离内的黑暗中视物。
+
+- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+
+对被[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有优势；无法被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+## 战术家难度属性
+
+| 属性值 | 运动 | 体操 | 感知 |
+| --- | --- | --- | --- |
+|  | 1 | 1 | 4 |
+
+**特性**
+
+- [**黑暗视觉**](Darkvision.md "Darkvision")
+
+能在一定距离内的黑暗中视物。
+
+- [**妖精血统**](Fey_Ancestry.md "Fey Ancestry")
+
+对被[魅惑](Charmed_(Condition).md)的[豁免检定](Saving_throw.md "Saving throw")具有优势；无法被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击移出触及范围的敌人。
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_WYR_OpenHand_ArguingPriest_001` |
+| UUID | `5f71634a-6ed0-4f68-933e-a4ef9b79d620` |
+| Stats | `WYR_OpenHandTemple_Elf_Cleric` |
 
 **比尔兄弟**是[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")的成员。他可以在[第三幕](Act_Three.md "Act Three")期间在神殿中找到，当时他正与[克莱门兹兄弟](Clements.md "Clements")进行激烈的辩论。
 

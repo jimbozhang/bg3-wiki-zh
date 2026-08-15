@@ -27,25 +27,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 10 / (0) | 16 / (+3) | 9 / (-1) | 11 / (0) | 16 / (+3) |
 
-**特性**
+## 特性
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [神佑](Divine_Health.md "神佑")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [**暗视**](Darkvision.md "Darkvision")
 
-**特性**
+可以在一定距离内的黑暗中视物。
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [神佑](Divine_Health.md "神佑")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [妖精血统](Fey_Ancestry.md "妖精血统")
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [日照敏感](Sunlight_Sensitivity.md "日照敏感")
+- [**神佑**](Divine_Health.md "Divine Health")
+
+免疫[疾病](Disease.md "疾病")效果。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**精灵血统**](Fey_Ancestry.md "Fey Ancestry")
+
+对抗[魅惑](Charmed_(Condition).md)状态的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**巨武器战斗**](Great_Weapon_Fighting.md "Great Weapon Fighting")
+
+投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出 1 或 2 的骰子可以重投一次。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+- [**日照敏感**](Sunlight_Sensitivity.md "Sunlight Sensitivity")
+
+在阳光下时，攻击掷骰和感知检定具有劣势。
 
 ## 状态
 

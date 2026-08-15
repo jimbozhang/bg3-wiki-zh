@@ -13,7 +13,59 @@
 | 先攻 | +1 |
 | 经验值 | 90 |
 
-**凯斯拉克百夫长赛泽恩**是[第一幕](Act_One.md "第一幕")中[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")的指挥官。
+## 特性
+
+- [**吉斯心灵武器**](Githborn_Psionic_Weapon.md "吉斯心灵武器")
+
+当被[吉斯洋基人](Githyanki.md "吉斯洋基人")持有时，此武器额外造成 1d4⁠⁠[心灵](Psychic.md "心灵")伤害。
+
+- [**吉斯洋基人格挡**](Githyanki_Parry.md "吉斯洋基人格挡")
+
+格挡徒手和武器攻击，将其伤害减少10。
+
+- [**吉斯洋基战争魔法**](Githyanki_War_Magic.md "吉斯洋基战争魔法")
+
+在施放[法术或戏法](Spells.md "法术")后，可以进行一次[附赠动作](Bonus_action.md "附赠动作")的武器攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击一个正在离开攻击范围的敌人。
+
+- [**完美哨兵**](Perfect_Sentry.md "完美哨兵")
+
+不会被[突袭](Surprised.md "突袭")。
+
+- [**鲜少措手不及**](Seldom_Caught_Unawares_(+2).md "鲜少措手不及 (+2)")
+
+你的[先攻掷骰](Initiative.md "先攻")获得+2加值。
+
+- [**心灵强化**](Psionic_Empowerment.md "心灵强化")
+
+你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——夺心魔奴役的伤痕根深蒂固。
+
+- [**战争施法者：专注**](War_Caster_colon__Concentration.md "战争施法者：专注")
+
+你在维持[法术](Spells.md "法术")[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")。
+
+- [**战争施法者：借机法术**](War_Caster_colon__Opportunity_Spell.md "战争施法者：借机法术")
+
+你还可以使用[反应](Reaction.md "反应")对正在离开近战范围的目标施放[电爪](Shocking_Grasp.md "电爪")。
+
+## 技术信息
+
+###
+
+UID
+
+`S_CRE_CrecheCaptain` ###
+
+UUID
+
+`5093da9b-237a-491f-9402-4f9da73c1565` ###
+
+Stats
+
+`CRE_Githyanki_Captain` **凯斯拉克百夫长赛泽恩**是[第一幕](Act_One.md "第一幕")中[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")的指挥官。
 
 > “
 >

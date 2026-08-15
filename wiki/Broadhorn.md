@@ -1,53 +1,295 @@
 # 布罗德霍恩
 
-| | |
-| --- | --- |
-| 身份 | 男性 |
-| 声音 / 演员 | [Dario Coates](https://www.imdb.com/name/nm2872353/) |
-| 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "类人生物") |
-| 种族 | [矮人](Dwarf.md "矮人") |
-| 职业 | [战士](Fighter.md "战士") |
+## 焰拳布罗德霍恩
 
-| | 平衡 | 探索者 | 硬核 |
-| --- | --- | --- | --- |
-| 等级 | 8 | 8 | 8 |
-| 生命值 | 62 | 59 | 64 |
-| 护甲等级 | 16 | 16 | 16 |
-| 先攻 | +1 | +1 | +1 |
-| 熟练项 | +3 | +5 | +3 |
-| 移动速度 | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) | 7.5 米 (25 英尺) |
-| 重量 | 75 千克 (150 磅) | 75 千克 (150 磅) | 75 千克 (150 磅) |
-| 暗视 | 12 米 (40 英尺) | 12 米 (40 英尺) | 12 米 (40 英尺) |
-| 经验值 | 200 | 200 | 200 |
+- 游戏内
+- 肖像
+
+### 身份
+
+男性
+
+### 配音 / 演员
+
+- [Dario Coates](https://www.imdb.com/name/nm2872353/)
+
+### 阵营
+
+[焰拳](Flaming_Fist.md "焰拳")
+
+## 属性
+
+### 体型
+
+[中型](Medium.md "中型")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[矮人](Dwarf.md "矮人")
+
+### 原型
+
+[焰拳戟兵](Flaming_Fist_Guisarmier.md "焰拳戟兵")
+
+### 职业
+
+[战士](Fighter.md "战士")
+
+- 均衡
+
+- 探险家
+
+- 战术家
+
+## 均衡难度属性
+
+### 等级
+
+8
+
+### 生命值
+
+62
+
+### 护甲等级
+
+18
+
+### 先攻
+
++1
+
+### 熟练
+
++3
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+200
 
 | 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 21 / (+5) | 13 / (+1) | 17 / (+3) | 10 / (0) | 12 / (+1) | 8 / (-1) |
 
-**特性**
+## 附加资源
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-- [反击](Riposte_(passive_feature).md "反击 (被动特性)")
+- 5
 
-**特性**
+## 特性
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [巨武器战斗](Great_Weapon_Fighting.md "巨武器战斗")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [方阵队形](Phalanx_Formation.md "方阵队形")
-- [反击](Riposte_(passive_feature).md "反击 (被动特性)")
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
 
-**焰拳布罗德霍恩**是一名[矮人](Dwarf.md "矮人")[战士](Fighter.md "战士")，也是[焰拳](Flaming_Fist.md "焰拳")的成员。他可以在[利文顿](Rivington.md "利文顿")的[第三幕](Act_Three.md "第三幕")中找到。
+可以在黑暗中看到一定距离内的事物。
 
-> “
+- [**矮人韧性**](Dwarven_Resilience.md "矮人韧性")
+
+对抗[中毒](Poisoned_(Condition).md "中毒 (状态)")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+可在徒手或武器攻击后进行一次额外攻击。
+
+- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+
+投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子都会重掷一次。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+
+在3米/10英尺范围内，与持有盾牌且未[失能](Incapacitated_(Condition).md "失能 (状态)")的盟友一起时，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
+
+- [**反击**](Riposte_(passive_feature).md "反击 (被动特性)")
+
+被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
+
+## 探险家难度属性
+
+### 等级
+
+8
+
+### 生命值
+
+59
+
+### 护甲等级
+
+16
+
+### 先攻
+
++1
+
+### 熟练
+
++5
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+200
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +8 | +1 | +6 | 0 | +1 | -1 |
+
+## 附加资源
+
+- 5
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**矮人韧性**](Dwarven_Resilience.md "矮人韧性")
+
+对抗[中毒](Poisoned_(Condition).md "中毒 (状态)")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+可在徒手或武器攻击后进行一次额外攻击。
+
+- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+
+投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子都会重掷一次。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+
+在3米/10英尺范围内，与持有盾牌且未[失能](Incapacitated_(Condition).md "失能 (状态)")的盟友一起时，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
+
+- [**反击**](Riposte_(passive_feature).md "反击 (被动特性)")
+
+被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
+
+## 战术家难度属性
+
+### 等级
+
+8
+
+### 生命值
+
+64
+
+### 护甲等级
+
+16
+
+### 先攻
+
++1
+
+### 熟练
+
++3
+
+### 移动
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+12 米 (40 英尺)
+
+### 经验值奖励
+
+200
+
+| 属性值 | 运动 | 体操 | 察觉 |
+| --- | --- | --- | --- |
+|  | 5 | 1 | 1 |
+
+## 附加资源
+
+- 5
+
+## 特性
+
+- [**黑暗视觉**](Darkvision.md "黑暗视觉")
+
+可以在黑暗中看到一定距离内的事物。
+
+- [**矮人韧性**](Dwarven_Resilience.md "矮人韧性")
+
+对抗[中毒](Poisoned_(Condition).md "中毒 (状态)")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+可在徒手或武器攻击后进行一次额外攻击。
+
+- [**巨武器战斗**](Great_Weapon_Fighting.md "巨武器战斗")
+
+投掷[双手](Two-Handed.md "双手")近战伤害时，任何掷出1或2的骰子都会重掷一次。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**方阵队形**](Phalanx_Formation.md "方阵队形")
+
+在3米/10英尺范围内，与持有盾牌且未[失能](Incapacitated_(Condition).md "失能 (状态)")的盟友一起时，[攻击掷骰](Attack_rolls.md "攻击掷骰")获得[优势](Advantage.md "优势")。
+
+- [**反击**](Riposte_(passive_feature).md "反击 (被动特性)")
+
+被近战攻击未命中时，可消耗一个[卓越骰子](Superiority_Die.md "卓越骰子")进行反击。
+
+## 技术信息
+
+###
+
+UID
+
+`S_WYR_RefugeeCamp_FlamingFist_003` ###
+
+UUID
+
+`5e55ec6a-496a-46c0-9a08-2755f4acb665` ###
+
+Stats
+
+`FlamingFist_Dwarf_Melee_Attacker` **焰拳布罗德霍恩**是一名[矮人](Dwarf.md "矮人")[战士](Fighter.md "战士")，也是[焰拳](Flaming_Fist.md "焰拳")的成员。他可以在[利文顿](Rivington.md "利文顿")的[第三幕](Act_Three.md "第三幕")中找到。
+
+> "
 >
 > 朋友，我会饶有兴致地关注你破案的职业生涯。
 >
@@ -158,4 +400,4 @@
 - [标枪](Javelin.md "标枪") - 2x（如果未使用）
 
 ---
-*Source: [Broadhorn](https://bg3.wiki/wiki/Broadhorn)*
+*来源: [布罗德霍恩](https://bg3.wiki/wiki/Broadhorn)*

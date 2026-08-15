@@ -44,6 +44,32 @@
 
 将下一次受到的伤害降至 1，并消耗一层不可撼动。无法被外力移动。
 
+## 特性
+
+- [**暗视**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**魔法抗性**](Magic_Resistance.md "Magic Resistance")
+
+对抗法术和其他魔法效果的[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
+
+- [**嗜杀如渴**](Murder_Hungry.md "Murder Hungry")
+
+每次杀死一个生物，获得 1 层不可撼动。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+- [**凌弱**](Prey_Upon_the_Weak.md "Prey Upon the Weak")
+
+生命值在半数或以下的目标受到 +1d4 穿刺伤害。
+
 **巴尔的死亡牧首德利西亚**是位于[博德之门](Baldur's_Gate.md "博德之门")[底城区](Undercity.md "底城区")[巴尔神殿](Bhaal_Temple.md "巴尔神殿")中的一名人类[巴尔的死亡牧首](Death's_Head_of_Bhaal.md "巴尔的死亡牧首")。
 
 > “

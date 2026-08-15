@@ -237,7 +237,189 @@ Race/class modding
 | Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
 | Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
 | Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
-| Head 7 | HUM_MS_NKD_Head_H_Remap | 616753a1-1d1e-717a-51b0-f455b2477aeb
+| Head 7 | HUM_MS_NKD_Head_H_Remap | 616753a1-1d1e-717a-51b0-f455b2477aeb | a42d0e99-4da4-57e7-3594-eda0d9f32748 | 3d9c617f-7909-52af-f922-d6e91bad7514 |  |
+
+雄性半精灵的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Male\\Resources_
+
+雄性半精灵的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfElves\\_Male_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+
+雄性强壮半精灵的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfElves\\_MaleStrong_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+
+## 半身人
+
+雌性半身人的.GR2文件位于 UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Female\\Resources
+
+雌性半身人的基础.GR2文件位于 UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Female
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+
+雄性半身人的基础.GR2文件位于 UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Halflings\\\_Male
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+
+## 半兽人
+
+雌性半兽人的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Female\\Resources_，但 HRC_F_NKD_Head_C 位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Female\\Resources_
+
+雌性半兽人的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Female_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+
+雄性半兽人的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\HalfOrcs\\_Male_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+
+## 人类
+
+雌性人类的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_Female\\Resources_
+
+雌性人类的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_Female_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+| Head 7 | HUM_MS_NKD_Head_H_Remap | 616753a1-1d1e-717a-51b0-f455b2477aeb | a42d0e99-4da4-57e7-3594-eda0d9f32748 | 3d9c617f-7909-52af-f922-d6e91bad7514 |  |
+| Head 8 | HUM_M_NKD_Head_I | c83c89d8-1da4-ae02-12ce-2405dc4fb079 | 4c3b657d-90a6-433c-3a60-83dd3ef9f079 | fb179099-a163-ac43-b3da-e4364a89d104 |  |
+| Head 9 | HUM_FS_NKD_Head_J_Remap | cf3981a4-98d1-7805-6f97-33f3d0780abb | 81446c99-495e-f87a-9e3a-cba9e6d9c214 | 680a5468-53d0-85a6-1c82-aeecb4648d82 |  |
+| Head 10 | HUM_FS_NKD_Head_K_Remap | d8fa6947-8595-d6e7-ea77-ccf70e0c34cf | bdb393a4-38ac-5c6d-b9d7-2f55016cc4de | 0d193b9c-56fa-db4f-00b0-516979913d54 |  |
+
+雌性强壮人类的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Humans\\_FemaleStrong_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+| Head 7 | HUM_MS_NKD_Head_H_Remap | 616753a1-1d1e-717a-51b0-f455b2477aeb | a42d0e99-4da4-57e7-3594-eda0d9f32748 | 3d9c617f-7909-52af-f922-d6e91bad7514 |  |
+| Head 8 | HUM_M_NKD_Head_I | c83c89d8-1da4-ae02-12ce-2405dc4fb079 | 4c3b657d-90a6-433c-3a60-83dd3ef9f079 | fb179099-a163-ac43-b3da-e4364a89d104 |  |
+| Head 9 | HUM_FS_NKD_Head_J_Remap | cf3981a4-98d1-7805-6f97-33f3d0780abb | 81446c99-495e-f87a-9e3a-cba9e6d9c214 | 680a5468-53d0-85a6-1c82-aeecb4648d82 |  |
+| Head 10 | HUM_FS_NKD_Head_K_Remap | d8fa6947-8595-d6e7-ea77-ccf70e0c34cf | bdb393a4-38ac-5c6d-b9d7-2f55016cc4de | 0d193b9c-56fa-db4f-00b0-516979913d54 |  |
+
+雄性人类的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_Male_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+| Head 7 | HUM_MS_NKD_Head_H_Remap | 616753a1-1d1e-717a-51b0-f455b2477aeb | a42d0e99-4da4-57e7-3594-eda0d9f32748 | 3d9c617f-7909-52af-f922-d6e91bad7514 |  |
+| Head 8 | HUM_M_NKD_Head_I | c83c89d8-1da4-ae02-12ce-2405dc4fb079 | 4c3b657d-90a6-433c-3a60-83dd3ef9f079 | fb179099-a163-ac43-b3da-e4364a89d104 |  |
+
+雄性强壮人类的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Humans\\_MaleStrong_，但 HUM_MS_NKD_Head_A_Base 位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Humans\\_MaleStrong_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+| Head 7 | HUM_MS_NKD_Head_H_Remap | 616753a1-1d1e-717a-51b0-f455b2477aeb | a42d0e99-4da4-57e7-3594-eda0d9f32748 | 3d9c617f-7909-52af-f922-d6e91bad7514 |  |
+
+## 提夫林
+
+雌性提夫林的.GR2文件位于 \_UnpackedData\\Models\\Generated\\Public\\Shared\\Assets\\Characters\\\_Anims\\Tieflings\\_Female\\Resources_
+
+雌性提夫林的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Tieflings\\_Female_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+
+雌性强壮提夫林的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Tieflings\\_FemaleStrong_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+
+雄性提夫林的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\Shared\\Assets\\Characters\\\_Anims\\Tieflings\\_Male_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
+
+雄性强壮提夫林的基础.GR2文件位于 \_UnpackedData\\Models\\Public\\SharedDev\\Assets\\Characters\\\_Anims\\Tieflings\\_MaleStrong_
+
+| CC名称 | 资产名称 | VisualResourceID | SkeletonResource | 面部纹理材质UUID | 图像 |
+| --- | --- | --- | --- | --- | --- |
+| Head 1 | TIF_MS_NKD_Head_A_Remap | ae17209c-eec6-7b07-ead7-006e0795e437 | 054a373e-4d81-2c4c-105f-f63b4ac069e6 | d52df711-ce43-6f4f-0e0c-e89cce5114be |  |
+| Head 2 | TIF_MS_NKD_Head_B_Remap | 34af1a95-3409-bc01-12f8-74449ad3a717 | 32783039-b63e-e32b-1e6a-5dbd8c5ae802 | 6d121933-fe8d-7fc3-e32c-6c525c71363d |  |
+| Head 3 | TIF_MS_NKD_Head_C_Remap | d22c18aa-a172-dc14-22fd-bc05e0dc0ed4 | 9fd56a32-bf3a-b441-aec5-425470068a8b | 2dc02eef-402b-d7eb-3417-2457925f84fc |  |
+| Head 4 | TIF_MS_NKD_Head_D_Remap | d3dbf612-e578-df5e-1789-7aeb17789e59 | 842a1ac5-aea8-b552-2f2f-c592d1db4465 | c7b79bb0-6d80-fb34-f4e6-cabf9cb965cf |  |
+| Head 5 | TIF_MS_NKD_Head_E_Remap | 46560c3c-972d-a718-6028-95d5e9de2cdd | fe70346b-935f-8d4d-e0b1-b4a52b1eab00 | 32cb9df2-603a-d194-5a90-30fc34c3504b |  |
+| Head 6 | TIF_MS_NKD_Head_F_Remap | 17edccb4-d0d4-f6b8-de73-8521b1f77732 | 8888119a-9fa2-33b8-1929-306611435be2 | 355a1278-e9d2-ecdc-eb57-a78faa08c1e5 |  |
 
 ---
 *Source: [Modding:Head Models](https://bg3.wiki/wiki/Modding:Head_Models)*

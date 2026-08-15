@@ -26,31 +26,17 @@
 
 **特性**
 
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
-- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
 
-**特性**
+攻击一个移出攻击范围的敌人。
 
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
-- [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
+- [**日照敏感**](Sunlight_Hypersensitivity.md "日照敏感")
 
-## 抗性 [(info)](Resistances.md "抗性")
+在阳光下，受到[光耀](Radiant.md "光耀")伤害，且[攻击掷骰](Attack_roll.md "攻击掷骰")和[属性检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")。
 
-- - - - ## 状态
+- [**吸血鬼再生**](Vampire_Regeneration.md "吸血鬼再生")
 
-- [永恒誓缚](Eternally_Bound_(Condition).md "永恒誓缚 (状态)")
-
-免疫所有伤害
-
-## 抗性 [(info)](Resistances.md "抗性")
-
-- - - - ## 状态
-
-- [永恒誓缚](Eternally_Bound_(Condition).md "永恒誓缚 (状态)")
-
-免疫所有伤害
+每回合恢复 10 点[生命值](HP.md "生命值")，除非在阳光下或最近受到[光耀](Radiant.md "光耀")伤害。
 
 ## 抗性 [(info)](Resistances.md "抗性")
 

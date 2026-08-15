@@ -24,29 +24,35 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 15 / (+2) | 16 / (+3) | 13 / (+1) | 13 / (+1) | 10 / (0) | 10 / (0) |
 
-**特性**
+### 特性
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [反射闪避](Evasion.md "反射闪避")
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [小步奔行](Shortened_Stride.md "小步奔行")
-- [高级衬垫](Superior_Padding_(-1).md "高级衬垫 (-1)")
-- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
+- [**暗视**](Darkvision.md "高级黑暗视觉")
 
-**特性**
+可以在一定距离内看到黑暗中的物体。
 
-- [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
-- [反射闪避](Evasion.md "反射闪避")
-- [侏儒狡黠](Gnome_Cunning.md "侏儒狡黠")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [小步奔行](Shortened_Stride.md "小步奔行")
-- [高级衬垫](Superior_Padding_(-1).md "高级衬垫 (-1)")
-- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
+- [**反射闪避**](Evasion.md "反射闪避")
 
-Stats
+敏捷豁免成功则完全抵消伤害；敏捷豁免失败则伤害减半。
 
-Stats
+- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+
+智力、感知和魅力 [豁免检定](Saving_throws.md "Saving Throws") 具有 [优势](Advantage.md "优势")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击移出触及范围的敌人。
+
+- [**小步奔行**](Shortened_Stride.md "小步奔行")
+
+你的移动速度为 7.5 米 (25 英尺)。
+
+- [**高级衬垫**](Superior_Padding_(-1).md "高级衬垫 (-1)")
+
+受到的钝击伤害减少 1 点。
+
+- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
+
+可使用 [反应](Reaction.md "Reaction") 将受到的伤害减半。
 
 **铁手掷弹兵**是在[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")期间可召唤的盟友，前提是队伍完成了[为铁手侏儒复仇](Avenge_the_Ironhands.md "为铁手侏儒复仇")。
 

@@ -3,9 +3,12 @@
 | | |
 | --- | --- |
 | 身份 | 男性 |
-| 体型 | [小型](Small.md "Small") |
-| 类型 | [类人生物](Humanoid.md "Humanoid") |
-| 种族 | [半身人](Halfling.md "Halfling") |
+| 声音 / 演员 | [Stewart Scudamore](https://www.imdb.com/name/nm1270132/) |
+| 家乡 | [博德之门](Baldur's_Gate.md "博德之门") |
+| 体型 | [小型](Small.md "小型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [半身人](Halfling.md "半身人") |
+| 亚种 | [轻足半身人](Lightfoot_Halfling.md "轻足半身人") |
 | 等级 | 1 |
 | 生命值 | 8 |
 | 护甲等级 | 10 |
@@ -71,6 +74,14 @@
 
 - 赫克托·罗巴
   我不应该等到什么都没有了才行动——我需要做好准备。我们都需要！
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_LOW_Client_005` |
+| UUID | `bf5f19cd-638f-4011-ae3d-45007163c637` |
+| Stats | `Halfling_Commoner` |
 
 ---
 *Source: [Hector Roba](https://bg3.wiki/wiki/Hector_Roba)*

@@ -14,6 +14,36 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 510 |
 
+## 特性
+
+- [**生于黑暗**](Born_into_Darkness.md "Born into Darkness")
+
+此生物可以看穿魔法和非魔法黑暗，且不会被[目盲](Blinded_(Condition).md "Blinded (Condition)")。
+
+- [**黑暗复仇**](Dark_Vengeance.md "Dark Vengeance")
+
+审判者对站在黑暗中的目标具有优势。
+
+- [**暗视**](Darkvision.md "Darkvision")
+
+可以在一定距离内的黑暗中视物。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**精灵血统**](Fey_Ancestry.md "Fey Ancestry")
+
+对抗[魅惑](Charmed_(Condition).md)状态的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")；不会被魔法[沉睡](Sleeping_(Condition).md)。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+- [**暗影伏击**](Shadow_Ambush.md "Shadow Ambush")
+
+此生物从暗影中攻击时额外造成 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
+
 **审判十字军夜雾**是[高精灵](High_Elf.md "High elf")角色，可在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "Cloister of Sombre Embrace")找到。
 
 ## 相关剧情

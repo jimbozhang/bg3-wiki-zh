@@ -3,6 +3,7 @@
 | | |
 | --- | --- |
 | 身份 | 女性 |
+| 阵营 | [地狱骑士](Hellriders.md "地狱骑士") |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [提夫林](Tiefling.md "提夫林") |
@@ -165,6 +166,14 @@
 - [半身甲 +1](Half_Plate_Armour_+1.md "半身甲 +1")
 - [头盔](Helmet.md "头盔")
 - [盾牌 +1](Shield_+1.md "盾牌 +1")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_END_VeteranCleric` |
+| UUID | `df1fc277-0c4d-4e55-82f5-65f89aeb4c39` |
+| Stats | `END_Hellrider_Cleric` |
 
 ## 参考文献
 

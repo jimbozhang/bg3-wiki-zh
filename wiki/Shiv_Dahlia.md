@@ -25,29 +25,45 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 19 / (+4) | 12 / (+1) | 16 / (+3) | 9 / (-1) | 10 / (0) | 12 / (+1) |
 
-**特性**
+## 特性
 
-- [野兽之相：狼獾](Aspect_of_the_Beast_colon__Wolverine.md "野兽之相：狼獾")
-- [危机感知](Danger_Sense.md "危机感知")
-- [飞鹰之心](Eagle_Heart.md "飞鹰之心")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [快速移动](Fast_Movement.md "快速移动")
-- [野性直觉](Feral_Instinct.md "野性直觉")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
-- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+- [**野兽之相：狼獾**](Aspect_of_the_Beast_colon__Wolverine.md "野兽之相：狼獾")
 
-**特性**
+狼獾之相赋予你无情追捕猎物的工具。
 
-- [野兽之相：狼獾](Aspect_of_the_Beast_colon__Wolverine.md "野兽之相：狼獾")
-- [危机感知](Danger_Sense.md "危机感知")
-- [飞鹰之心](Eagle_Heart.md "飞鹰之心")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [快速移动](Fast_Movement.md "快速移动")
-- [野性直觉](Feral_Instinct.md "野性直觉")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
-- [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
+当你攻击[流血](Bleeding_(Condition).md "流血（状态）")或[中毒](Poisoned_(Condition).md "中毒（状态）")的目标时，你还会使其[残废](Maimed_(Condition).md "残废（状态）") 1 回合。
+
+- [**危机感知**](Danger_Sense.md "危机感知")
+
+对抗陷阱、法术、地面效果的敏捷豁免检定具有优势。不能被致盲或失能。
+
+- [**飞鹰之心**](Eagle_Heart.md "飞鹰之心")
+
+进入[飞鹰般的狂暴](Rage_colon__Eagle_Heart_(Condition)..md)。
+
+- [**额外攻击**](Extra_Attack.md "额外攻击")
+
+在徒手或武器攻击后可以进行一次额外攻击。
+
+- [**快速移动**](Fast_Movement.md "快速移动")
+
+当你不穿[重甲](Heavy_Armour.md "重甲")时，你的[移动速度](Movement_speed.md "移动速度")增加 3 米 / 10 英尺。
+
+- [**野性直觉**](Feral_Instinct.md "野性直觉")
+
+你获得 +3 先攻，且不能被突袭。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**坚韧**](Tenacity_(passive_feature).md "坚韧（被动特性）")
+
+近战攻击未命中时，仍造成等于[力量](STR.md "力量")调整值的[钝击](Bludgeoning.md "钝击")伤害（最低 1 点）。
+
+- [**无甲防御**](Unarmoured_Defence_(Barbarian).md "无甲防御（野蛮人）")
+
+未穿护甲时，将[体质](Constitution.md "体质")调整值加到[护甲等级](AC.md "护甲等级")上。
 
 ## 目录
 

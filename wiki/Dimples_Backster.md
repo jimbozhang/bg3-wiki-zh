@@ -13,6 +13,32 @@
 | 先攻 | +2 |
 | 经验值 | 200 |
 
+## 特性
+
+- [**吟游诗人激励**](Bardic_Inspiration_(passive_feature).md "吟游诗人激励（被动特性）")
+
+可以使用[吟游诗人激励](Bardic_Inspiration_(class_action)..md)。
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**激励之泉**](Font_of_Inspiration.md "激励之泉")
+
+在长休或短休后恢复所有[吟游诗人激励](Bardic_Inspiration_(resource).md)。
+
+- [**侏儒狡黠**](Gnome_Cunning.md "侏儒狡黠")
+
+你在智力、感知和魅力[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**缩短步伐**](Shortened_Stride.md "缩短步伐")
+
+你的移动速度为 7.5 米（25 英尺）。
+
 **溯源者迪普斯**是 [泽诺维娅·道格](Zenovia_Dawg.md "泽诺维娅·道格") 帮派的 [侏儒](Gnome.md "侏儒") 成员，也是 [公会](The_Guild.md "公会") 的成员，可在 [利文顿](Rivington.md "利文顿") 的 [阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥") 庄园外找到。
 
 ## 参与

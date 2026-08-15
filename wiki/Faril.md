@@ -24,27 +24,39 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 19 / (+4) | 12 / (+1) | 16 / (+3) | 10 / (0) | 14 / (+2) | 16 / (+3) |
 
-**特性**
+## 特性
 
-- [冲锋](Charger.md "冲锋")
-- [神佑](Divine_Health.md "神佑")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [卓越板甲](Superior_Plate_(-1).md "卓越板甲 (-1)")
-- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
-- [健壮](Tough.md "健壮")
+- [**冲锋**](Charger.md "Charger")
 
-**特性**
+让你的速度增强你的猛攻。你可以在攻击时[推撞](Charger_colon__Shove.md "Charger: Shove")或造成额外[武器伤害](Charger_colon__Weapon_Attack.md "Charger: Weapon Attack")。
 
-- [冲锋](Charger.md "冲锋")
-- [神佑](Divine_Health.md "神佑")
-- [额外攻击](Extra_Attack.md "额外攻击")
-- [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
-- [借机攻击](Opportunity_Attack.md "借机攻击")
-- [卓越板甲](Superior_Plate_(-1).md "卓越板甲 (-1)")
-- [韧性](Tenacity_(passive_feature).md "韧性 (被动特性)")
-- [健壮](Tough.md "健壮")
+- [**神佑**](Divine_Health.md "Divine Health")
+
+免疫[疾病](Disease.md "疾病")效果。
+
+- [**额外攻击**](Extra_Attack.md "Extra Attack")
+
+在一次徒手或武器攻击后可以进行一次额外攻击。
+
+- [**精通至圣斩**](Improved_Divine_Smite.md "Improved Divine Smite")
+
+近战武器攻击额外造成 +1d8 [光耀](Radiant.md "光耀")伤害。
+
+- [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
+
+攻击离开攻击范围的敌人。
+
+- [**卓越板甲**](Superior_Plate_(-1).md "Superior Plate (-1)")
+
+你受到的[穿刺](Piercing.md "穿刺")伤害减少 1 点。
+
+- [**韧性**](Tenacity_(passive_feature).md "Tenacity (passive feature)")
+
+近战攻击未命中时，仍造成等于[力量](STR.md "STR")调整值的[钝击](Bludgeoning.md "钝击")伤害（最低 1 点）。
+
+- [**健壮**](Tough.md "Tough")
+
+你的[生命值](Hit_Points.md "Hit Points")上限每升一级增加 2 点。
 
 **现金守卫队长法里尔**是[清账屋](The_Counting_House.md "清账屋")现金守卫的队长。
 

@@ -37,7 +37,16 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**掠夺者 扎斯特里**是[第一幕](Act_One.md "第一幕")期间在[山隘](Mountain_Pass.md "山隘")的[吉斯洋基人](Githyanki.md "吉斯洋基人")[掠夺者](Githyanki_raider.md "吉斯洋基掠夺者")。
+**特性**
+
+- [箭术](Archery.md "箭术")
+- [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
+- [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
+- [额外攻击](Extra_Attack.md "额外攻击")
+- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [心灵强化](Psionic_Empowerment.md "心灵强化")
+
+**掠夺者扎斯特里**是[第一幕](Act_One.md "第一幕")期间在[山隘](Mountain_Pass.md "山隘")的[吉斯洋基人](Githyanki.md "吉斯洋基人")[掠夺者](Githyanki_raider.md "吉斯洋基掠夺者")。
 
 ## 目录
 
@@ -123,8 +132,8 @@
 
 ### 盟友
 
-- [熟手 福瑞斯](For'reth.md "福瑞斯")
-- [掠夺者 乔斯特](Chost.md "乔斯特")
+- [熟手福瑞斯](For'reth.md "福瑞斯")
+- [掠夺者乔斯特](Chost.md "乔斯特")
 - [萨斯十夫长巴瑞萨](Baretha.md "巴瑞萨")
 
 ### 战利品

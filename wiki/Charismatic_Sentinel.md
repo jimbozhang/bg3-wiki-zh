@@ -15,6 +15,46 @@
 
 ## 抗性 [(info)](Resistances.md "抗性")
 
+## 状态
+
+- [**保护光环**](Aura_of_Protection_(Aura)_(Condition).md "保护光环（光环）（状态）")
+
+该生物及其 3 米（10 英尺）范围内的盟友获得该生物的[魅力调整值](Charisma.md "魅力")作为[豁免检定](Saving_throw.md "豁免检定")的加值。
+
+## 特性
+
+- [**暗视**](Darkvision.md "暗视")
+
+可以在黑暗中看到一定距离。
+
+- [**活化暗影**](Living_Shadow.md "活化暗影")
+
+当处于轻度或重度遮蔽时，该角色对所有伤害具有[抗性](Damage_types.md "伤害类型")，除了[力场](Force.md "力场")、[心灵](Psychic.md "心灵")或[光耀](Radiant.md "光耀")伤害。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击离开你触及范围的敌人。
+
+- [**魅力典范**](Paragon_of_Charisma.md "魅力典范")
+
+所有魅力[豁免检定](Saving_throw.md "豁免检定")和法术[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
+
+- [**莎尔之视**](Shar's_Sight.md "莎尔之视")
+
+暗夜法官不会被[致盲](Blinded_(Condition).md "致盲（状态）")。
+
+- [**阳光弱点**](Sunlight_Weakness.md "阳光弱点")
+
+在阳光下时，[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
+
+- [**神圣健康**](Divine_Health.md "神圣健康")
+
+免疫[疾病](Disease.md "疾病")效果。
+
+- [**无情复仇者**](Relentless_Avenger.md "无情复仇者")
+
+如果你用[借机攻击](Opportunity_Attack.md "借机攻击")命中敌人，你的[移动速度](Movement_speed.md "移动速度")在下一回合增加 4.5 米 / 15 英尺。
+
 **有魅力的哨兵** 是一种独特的 [不死生物](Undead.md "不死生物")，守卫着 [雷斯文小镇](Reithwin_Town.md "雷斯文小镇") 广场中 [凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆") 雕像下方通往 [莎尔](Shar.md "莎尔") 的秘密神殿。它的能力类似于 [圣武士](Paladin.md "圣武士")，并且与其角色相符，它拥有极高的 [魅力](Charisma.md "魅力")。
 
 ## 参与

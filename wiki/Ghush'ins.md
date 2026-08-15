@@ -1,20 +1,273 @@
 # 古什'因斯
 
-| | |
-| --- | --- |
-| 身份 | 女性 |
-| 配音 | - [Zoe Mills](https://www.imdb.com/name/nm3907032/) |
-| 体型 | [中级](Medium.md "中级") |
-| 类型 | [类人生物](Humanoid.md "类人生物") |
-| 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
-| 等级 | 9 |
-| 生命值 | 85 |
-| 护甲等级 | 16 |
-| 先攻 | +1 |
-| 移动速度 | 9 米 (30 英尺) |
-| 经验值 | 250 |
+## 历战熟手 古什'因斯
 
-**历战熟手 古什'因斯**是一名 [吉斯洋基人](Githyanki.md "吉斯洋基人") 士兵，可在 [博德之门](Baldur's_Gate.md "博德之门") [下城区](Lower_City.md "下城区") 的 [盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点") 遭遇，守卫着 [门主瑞'泽尔](Ri'zel.md "门主瑞'泽尔")。除非成功恐吓 [Ch'r'rai Har'rak](Har'rak.md "Har'rak")，否则她对小队充满敌意。
+- 模型
+- 肖像
+
+### 身份
+
+女性
+
+### 配音 / 演员
+
+- [Zoe Mills](https://www.imdb.com/name/nm3907032/)
+
+### 阵营
+
+[吉斯洋基人（阵营）](Githyanki_(Faction).md "吉斯洋基人（阵营）")
+
+## 属性
+
+### 体型
+
+[中型](Medium.md "中型")
+
+### 类型
+
+[类人生物](Humanoid.md "类人生物")
+
+### 种族
+
+[吉斯洋基人](Githyanki.md "吉斯洋基人")
+
+### 原型
+
+[历战熟手](Veteran_Gish.md "历战熟手")
+
+### 职业
+
+[战士](Fighter.md "战士")
+
+### 子职业
+
+[奥法骑士](Eldritch_Knight.md "奥法骑士")
+
+- 均衡
+
+- 探索者
+
+- 战术家
+
+## 均衡难度数据
+
+### 等级
+
+9
+
+### 生命值
+
+85
+
+### 护甲等级
+
+16
+
+### 先攻
+
++1
+
+### 熟练
+
++4
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 体重
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 18 / (+4) | 16 / (+3) | 16 / (+3) |
+
+## 额外资源
+
+- 5
+
+- - - ## 状态
+
+| 运动 | 体操 | 察觉 |
+| --- | --- | --- |
+| 3 | 1 | 3 |
+
+该吉斯及其 3 米 (10 英尺) 内的盟友对[豁免检定](Saving_throws.md "豁免检定")有 +5 加值，且不会被[恐慌](Frightened_(status_group).md "恐慌")。
+
+## 特性
+
+- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+
+施放[法术或戏法](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击正在脱离触及范围的敌人。
+
+## 探索者难度数据
+
+### 等级
+
+9
+
+### 生命值
+
+59
+
+### 护甲等级
+
+16
+
+### 先攻
+
++1
+
+### 熟练
+
++6
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 体重
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +3 | +1 | +7 | +4 | +3 | +3 |
+
+## 额外资源
+
+- 5
+
+- - - ## 状态
+
+| 运动 | 体操 | 察觉 |
+| --- | --- | --- |
+| 3 | 1 | 3 |
+
+该吉斯及其 3 米 (10 英尺) 内的盟友对[豁免检定](Saving_throws.md "豁免检定")有 +5 加值，且不会被[恐慌](Frightened_(status_group).md "恐慌")。
+
+## 特性
+
+- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+
+施放[法术或戏法](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击正在脱离触及范围的敌人。
+
+## 战术家难度数据
+
+### 等级
+
+9
+
+### 生命值
+
+110
+
+### 护甲等级
+
+16
+
+### 先攻
+
++1
+
+### 熟练
+
++4
+
+### 移动速度
+
+9 米 (30 英尺)
+
+### 体重
+
+75 千克 (150 磅)
+
+### 黑暗视觉
+
+0 米 (0 英尺)
+
+### 经验值奖励
+
+250
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16 / (+3) | 12 / (+1) | 16 / (+3) | 18 / (+4) | 16 / (+3) | 16 / (+3) |
+
+## 额外资源
+
+- 5
+
+- - - ## 状态
+
+| 运动 | 体操 | 察觉 |
+| --- | --- | --- |
+| 3 | 1 | 3 |
+
+该吉斯及其 3 米 (10 英尺) 内的盟友对[豁免检定](Saving_throws.md "豁免检定")有 +5 加值，且不会被[恐慌](Frightened_(status_group).md "恐慌")。
+
+## 特性
+
+- [**吉斯洋基战斗魔法**](Githyanki_War_Magic.md "吉斯洋基战斗魔法")
+
+施放[法术或戏法](Spells.md "法术")后，可以进行一次[附赠](Bonus_action.md "附赠动作")武器攻击。
+
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
+
+攻击正在脱离触及范围的敌人。
+
+- [**灵能强化**](Psionic_Empowerment.md "灵能强化")
+
+你的攻击额外造成 1d6⁠⁠[心灵](Psychic.md "心灵")伤害——夺心魔奴役的伤痕根深蒂固。
+
+- [**战地施法者：专注**](War_Caster_colon__Concentration.md "战地施法者：专注")
+
+你对维持[法术](Spells.md "法术")[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
+
+- [**战地施法者：借机施法**](War_Caster_colon__Opportunity_Spell.md "战地施法者：借机施法")
+
+你还可以使用[反应](Reaction.md "反应")对正在脱离近战范围的目标施放[电爪](Shocking_Grasp.md "电爪")。
+
+## 技术
+
+###
+
+UID
+
+`S_LOW_Elfsong_GithyankiShield_Gish_001` ###
+
+UUID
+
+`88fea102-74eb-440c-86e6-3984e5f66de2` ###
+
+Stats
+
+`Githyanki_Gish_Strong` **历战熟手 古什'因斯**是一名[吉斯洋基人](Githyanki.md "吉斯洋基人")士兵，可在[博德之门](Baldur's_Gate.md "博德之门")[下城区](Lower_City.md "下城区")的[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点")遭遇，守卫着[门主瑞'泽尔](Ri'zel.md "门主瑞'泽尔")。除非成功恐吓[Ch'r'rai Har'rak](Har'rak.md "Har'rak")，否则她对队伍充满敌意。
 
 ## 战斗
 
@@ -26,9 +279,9 @@
 范围：18 米 (60 英尺)
 
 [失明术](Blindness.md "失明术") (+ )
-限制敌人的视野范围。更容易命中，且该生物会更频繁地未命中。对其的 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")，且敌人攻击时具有 [劣势](Disadvantage.md "劣势")。
+限制敌人的视野范围。更容易命中，且该生物会更频繁地失手。对其的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，且敌人攻击时具有[劣势](Disadvantage.md "劣势")。
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免")
 范围：18 米 (60 英尺)
 
 [燃烧之手](Burning_Hands.md "燃烧之手") (+ )
@@ -37,9 +290,9 @@
 
 3d6⁠[火焰](Fire.md "火焰")
 
-每个可燃目标受到 3d6⁠⁠[火焰](Fire.md "火焰") 伤害。
+每个可燃目标受到 3d6⁠⁠[火焰](Fire.md "火焰")伤害。
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
+[敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免")
 范围：自身
 
 [人类定身术](Hold_Person.md "人类定身术") (+ )
@@ -47,7 +300,7 @@
 | --- | --- | --- |
 | 3 | 1 | 3 |
 
-定住一个类人生物敌人。他们无法 [移动](Movement_speed.md "移动速度")、[动作](Action.md "动作") 或 [反应](Reaction_(Resource).md)。3 米 / 10 英尺内的攻击总是 [重击](Critical_Hit.md "重击")。每回合结束时，受影响的生物可进行一次 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定") 以结束此状态。
+定住一个类人生物敌人。他们无法[移动](Movement_speed.md "移动速度")、[动作](Action.md "动作")或[反应](Reaction_(Resource).md "反应")。3 米 / 10 英尺内的攻击总是[重击](Critical_Hit.md "重击")。每回合结束时，受影响的生物可进行一次[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 
 [割裂](Lacerate.md "割裂") – [吉斯洋基长剑 (+1)](Githyanki_Longsword_(+1).md "吉斯洋基长剑 (+1)")
 
@@ -55,11 +308,11 @@
 
 1d8 + 4⁠[挥砍](Slashing.md "挥砍")
 
-斩击目标的要害使其 [流血](Bleeding_(Condition).md "流血 (状态)")。
+斩击目标的要害使其[流血](Bleeding_(Condition).md "流血 (状态)")。
 
-[不死生物](Undead.md "不死生物") 和 [构装生物](Constructs.md "构装生物") 无法流血。
+[不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法流血。
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免")
 范围：常规武器范围
 充能：[短休](Short_rest.md "短休")
 
@@ -85,9 +338,9 @@
 
 1d4⁠[钝击](Bludgeoning.md "钝击")
 
-对敌人进行一次非致命攻击，并可能使其 [眩晕](Dazed_(Condition).md "眩晕 (状态)")。
+对敌人进行一次非致命攻击，并可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免")
 近战：1.5 米 (5 英尺)
 充能：[短休](Short_rest.md "短休")
 
@@ -97,7 +350,7 @@
 
 1d8⁠[寒冷](Cold.md "寒冷")
 
-使目标的 [移动速度](Movement_speed.md "移动速度") 降低 3 米 / 10 英尺。
+使目标的[移动速度](Movement_speed.md "移动速度")降低 3 米 / 10 英尺。
 
 范围：18 米 (60 英尺)
 
@@ -107,9 +360,9 @@
 
 1d4 + 3⁠[穿刺](Piercing.md "穿刺")
 
-向前冲锋并攻击路径上的第一个敌人，可能将其推至 [失衡](Off_Balance_(Condition).md "失衡 (状态)")。
+向前冲锋并攻击路径上的第一个敌人，可能将其推至[失衡](Off_Balance_(Condition).md "失衡 (状态)")。
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")
+[力量](Strength.md "力量") [豁免](Saving_throws.md "豁免")
 范围：9 米 (30 英尺)
 充能：[短休](Short_rest.md "短休")
 
@@ -119,7 +372,7 @@
 
 1d8⁠[闪电](Lightning.md "闪电")
 
-目标无法使用 [反应](Reaction.md "反应")。此法术对穿着金属 [护甲](Armour.md "护甲") 的生物具有 [优势](Advantage.md "优势")。
+目标无法使用[反应](Reaction.md "反应")。此法术对穿着金属[护甲](Armour.md "护甲")的生物具有[优势](Advantage.md "优势")。
 
 近战：1.5 米 (5 英尺)
 

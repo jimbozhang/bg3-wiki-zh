@@ -7,7 +7,7 @@
 ## 属性
 
 - [披风](Cloaks.md "Cloaks")
-- 稀有度：普通
+- 稀有度：非凡
 - 重量：0.5 千克（1 磅）
 - 价格：70 金币
 - UID `MAG_Fire_BurningOnDamaged_Cloak` UUID `8a31c554-1545-4647-b24d-93cf5d81df18` Stats `MAG_Fire_BurningOnDamaged_Cloak` ### 特殊

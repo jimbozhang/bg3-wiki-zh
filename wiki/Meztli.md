@@ -14,89 +14,131 @@
 | 移动速度 | 7.5 米 (25 英尺) |
 | 经验值 | 320 |
 
-## 抗性 [抗性](Resistances.md "抗性")
+## 抗性 [(信息)](Resistances.md "抗性")
 
 - ## 特性
 
-- [警觉](Alert.md "警觉")
+- [**警觉**](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")且不会被[受惊](Surprised.md "受惊")。
 
-- [刺杀：先攻](Assassinate_colon__Initiative.md "刺杀：先攻")
+- [**刺杀：先攻**](Assassinate_colon__Initiative.md "刺杀：先攻")
 
 你对毫无防备的敌人最为致命。在战斗中，你对尚未行动的生物的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
-- [多洛的凄凉](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
+- [**多洛的凄凉**](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
 
 当你使用武器或徒手攻击造成[重击](Critical_Hit.md "重击")时，_\[[见：错误](Dolor_Amarus_(passive_feature).md#Bugs).md#Bugs> "多洛的凄凉 (被动特性)")\]_ 它会造成额外 7 点伤害。
 
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [反射闪避](Evasion.md "反射闪避")
+- [**反射闪避**](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [形态伏击](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
+- [**形态伏击**](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
 
 对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambush.md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
 
-- [迅捷炼金术士](Nimble_Alchemist.md "迅捷炼金术士")
+- [**迅捷炼金术士**](Nimble_Alchemist.md "迅捷炼金术士")
 
 作为药水大师，多洛可以将药水投掷或饮用作为自由动作。
 
-- [借机攻击](Opportunity_Attack.md "借机攻击")
+- [**借机攻击**](Opportunity_Attack.md "借机攻击")
 
 攻击离开攻击范围的敌人。
 
-- [可靠才能](Reliable_Talent.md "可靠才能")
+- [**可靠才能**](Reliable_Talent.md "可靠才能")
 
-当你使用你[重甲的](Proficient.md "重甲的")的[技能](Skill.md "技能")进行[属性检定](Ability_Check.md "属性检定")时，你在骰子上能掷出的最低结果为 10。
+当你使用你[熟练的](Proficient.md "熟练的")的[技能](Skill.md "技能")进行[属性检定](Ability_Check.md "属性检定")时，你在骰子上能掷出的最低结果为 10。
 
-- [坚如磐石：感知](Resilient_colon__Wisdom.md "坚如磐石：感知")
+- [**坚如磐石：感知**](Resilient_colon__Wisdom.md "坚如磐石：感知")
 
   - 你的[感知](Wisdom.md "感知")提高 1，最高至 20。
 
   - 获得感知[豁免检定](Saving_throws.md "豁免检定")的[熟练项](Proficiency.md "熟练项")。
 
-- [隐匿](Stealthy.md "隐匿")
+- [**隐匿**](Stealthy.md "隐匿")
 
 +1 [隐匿](Stealth.md "隐匿")。
 
-- [直觉闪避](Uncanny_Dodge.md "直觉闪避")
+- [**直觉闪避**](Uncanny_Dodge.md "直觉闪避")
 
 可以使用[反应](Reaction.md "反应")将一次命中的伤害减半。
 
-## 抗性 [抗性](Resistances.md "抗性")
+## 探索者难度数据
+
+### 等级
+
+11
+
+### 生命值
+
+60
+
+### 护甲等级
+
+16
+
+### 先攻
+
++9
+
+### 熟练项
+
++6
+
+### 移动速度
+
+7.5 米 (25 英尺)
+
+### 重量
+
+75 千克 (150 磅)
+
+### 暗视
+
+12 米 (40 英尺)
+
+### 经验值
+
+320
+
+| 属性值 | 力量 | 敏捷 | 体质 | 智力 | 感知 | 魅力 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | +1 | +7 | +3 | 0 | +1 | +3 |
+
+## 抗性 [(信息)](Resistances.md "抗性")
 
 - ## 特性
 
-- [警觉](Alert.md "警觉")
+- [**警觉**](Alert.md "警觉")
 
 +5 [先攻](Initiative.md "先攻")且不会被[受惊](Surprised.md "受惊")。
 
-- [刺杀：先攻](Assassinate_colon__Initiative.md "刺杀：先攻")
+- [**刺杀：先攻**](Assassinate_colon__Initiative.md "刺杀：先攻")
 
 你对毫无防备的敌人最为致命。在战斗中，你对尚未行动的生物的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 
-- [多洛的凄凉](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
+- [**多洛的凄凉**](Dolor_Amarus_(passive_feature).md "多洛的凄凉 (被动特性)")
 
 当你使用武器或徒手攻击造成[重击](Critical_Hit.md "重击")时，_\[[见：错误](Dolor_Amarus_(passive_feature).md#Bugs).md#Bugs> "多洛的凄凉 (被动特性)")\]_ 它会造成额外 7 点伤害。
 
-- [矮人活力](Dwarven_Resilience.md "矮人活力")
+- [**矮人活力**](Dwarven_Resilience.md "矮人活力")
 
 对[中毒](Poisoned_(Condition).md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，且对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
-- [反射闪避](Evasion.md "反射闪避")
+- [**反射闪避**](Evasion.md "反射闪避")
 
 成功的敏捷豁免使伤害无效；失败的敏捷豁免使伤害减半。
 
-- [形态伏击](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
+- [**形态伏击**](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
 
 对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambush.md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
 
-- [迅捷炼金术士](Nimble_Alchemist.md "迅捷炼金术士")
+- [**迅捷炼金术士**](Nimble_Alchemist.md "迅捷炼金术士")
 
 作为药水大师，多洛可以将药水投掷或饮用作为自由动作。
 

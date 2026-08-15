@@ -270,6 +270,14 @@
 1. [↑](#cite_ref-1) 截至[补丁 1](Patch_notes.md#1 "补丁说明")，金布尔博克的种族只是“侏儒”，没有指定亚种（不像他的同伙华林被列为岩侏儒）。这可能是个错误。
 1. [↑](#cite_ref-2) 金布尔博克选择了一个不幸的地方与他的强盗同伙闲聊。如果队伍成员在不被发现的情况下靠近，他们可以切断固定他上方地基块的缠绕绳索。
 
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_CHA_Exterior_Bandit_Melee_01` |
+| UUID | `538e38b9-e3a4-452a-8369-60eb1fe8c40d` |
+| Stats | `CHA_Bandit_Gnome_Melee` |
+
 ## 外部链接
 
 - ⁠[金布尔博克](https://forgottenrealms.fandom.com/wiki/Gimblebock) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)

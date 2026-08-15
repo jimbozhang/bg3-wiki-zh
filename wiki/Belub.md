@@ -1,12 +1,27 @@
 # 贝卢布
 
+## 侍僧贝卢布
+
+### 身份
+
+男性
+
+### 配音 / 演员
+
+- [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/)
+
+### 阵营
+
+[至上真神教团](Cult_of_the_Absolute.md "至上真神教团")
+
 | | |
 | --- | --- |
-| 身份 | 男性 |
-| 配音 | - [Leemore Marrett Jr.](https://www.imdb.com/name/nm3760477/) |
 | 体型 | [中级](Medium.md "中级") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [矮人](Dwarf.md "矮人") |
+| 亚种 | [灰矮人](Duergar.md "灰矮人") |
+| 原型 | [至上真神侍僧](Acolyte_of_the_Absolute.md "至上真神侍僧") |
+| 职业 | [牧师](Cleric.md "牧师") |
 | 等级 | 4 |
 | 生命值 | 27 |
 | 护甲等级 | 11 |
@@ -177,6 +192,14 @@
 - [寒冰箭](Arrow_of_Ice.md "寒冰箭") (如果未使用)
 - [皮甲](Leather_Armour.md "皮甲")
 - [轻弩](Light_Crossbow.md "轻弩")
+
+## 技术信息
+
+| | |
+| --- | --- |
+| UID | `S_MOO_BazEntranceGuard_001` |
+| UUID | `8fdd2eba-9e1e-48b6-a201-787616541dd9` |
+| Stats | `MOO_AcolyteOfTheAbsolute_Duergar` |
 
 ---
 *Source: [Belub](https://bg3.wiki/wiki/Belub)*
