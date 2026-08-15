@@ -1,6 +1,6 @@
 # 龃龉护符
 
-**龃龉护符**是一件稀有度为“不常见”的[护符](Amulet.md "Amulet")，能保护穿戴者免受[挥砍](Slashing.md "Slashing")伤害，但会使其易受[钝击](Bludgeoning.md "Bludgeoning")伤害。
+**龃龉护符**是一件稀有度为“不常见”的[护符](Amulet.md "Amulet")，能保护穿戴者免受[挥砍](Slashing.md "Slashing")伤害，但会使其易伤[钝击](Bludgeoning.md "Bludgeoning")伤害。
 
 这件物品曾是“刀锋腰带”的一部分，后被撕下并改造成护符，适合所有体型的生物佩戴。
 

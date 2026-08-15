@@ -10,7 +10,7 @@
 | --- | --- |
 | [淡蓝与金色染料](Baby_Blue_and_Gold_Dye.md "淡蓝与金色染料") | 1 |
 | [黑蓝色染料](Black_and_Azure_Dye.md "黑蓝色染料") | 1 |
-| [黑与炉红染料](Black_and_Furnace_Red_Dye.md "黑与炉红染料") | 1 |
+| [黑色与熔炉红色染料](Black_and_Furnace_Red_Dye.md "黑色与熔炉红色染料") | 1 |
 | [血紫红染料](Bloody_Plum_Dye.md "血紫红染料") | 1 |
 | [棕与膏白染料](Brown_Alabaster_Dye.md "棕与膏白染料") | 1 |
 | [黑与翡翠绿染料](Black_and_Jade_Green_Dye.md "黑与翡翠绿染料") | 1 |
@@ -28,7 +28,7 @@
 
 - [淡蓝与金色染料](Baby_Blue_and_Gold_Dye.md "淡蓝与金色染料")
 - [黑蓝色染料](Black_and_Azure_Dye.md "黑蓝色染料")
-- [黑与炉红染料](Black_and_Furnace_Red_Dye.md "黑与炉红染料")
+- [黑色与熔炉红色染料](Black_and_Furnace_Red_Dye.md "黑色与熔炉红色染料")
 - [血紫红染料](Bloody_Plum_Dye.md "血紫红染料")
 - [棕与膏白染料](Brown_Alabaster_Dye.md "棕与膏白染料")
 - [黑与翡翠绿染料](Black_and_Jade_Green_Dye.md "黑与翡翠绿染料")

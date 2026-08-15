@@ -59,7 +59,7 @@
 任何武器都可以通过两种方式获得投掷属性：
 
 - 通过 [武器灌注](Wild_Magic_colon__Weapon_Infusion.md "狂野魔法：武器灌注") 魔法效果，这是 [狂野魔法野蛮人](Wild_Magic_Barbarian.md "狂野魔法野蛮人") 狂野魔法表的可能结果之一。
-- 通过使用 [元素劈砍](Elemental_Cleaver.md "元素劈砍") 作为 [巨人野蛮人](Giant_Barbarian.md "巨人野蛮人")。
+- 通过使用 [元素战刃](Elemental_Cleaver.md "元素战刃") 作为 [巨人野蛮人](Giant_Barbarian.md "巨人野蛮人")。
 
 ## 相关物品
 

@@ -88,7 +88,7 @@
 - [诺拉](Cheeky_Nora.md "诺拉")
 - [切特·维奥莱特](Cutter_Violet.md "切特·维奥莱特")
 - [傻瓜杜兹](Doozy_the_Dunce.md "傻瓜杜兹")
-- [快乐的霍尔森](Happy_Hoarson.md "快乐的霍尔森")
+- [高兴的霍尔森](Happy_Hoarson.md "高兴的霍尔森")
 - [曼哥](Mango.md "曼哥")
 - [教授](The_Professor.md "教授")
 - [三件](Three-Piece.md "三件")

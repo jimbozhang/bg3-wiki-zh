@@ -19,13 +19,13 @@
 | --- | --- |
 | ⁠[穿刺](Piercing.md "穿刺") | 抗性 |
 | ⁠[黯蚀](Necrotic.md "黯蚀") | 抗性 |
-| ⁠[中毒](Poison.md "中毒") | 免疫 |
+| ⁠[毒素](Poison.md "毒素") | 免疫 |
 | ⁠[心灵](Psychic.md "心灵") | 免疫 |
 | ⁠[光耀](Radiant.md "光耀") | 抗性 |
 
-- 获得对 ⁠[中毒](Poison.md "中毒") 伤害的[抗性](Damage_types.md#Resistance "伤害类型")，并对[中毒](Poisoned_(Condition).md "中毒 (状态)")免疫。
+- 获得对 ⁠[毒素](Poison.md "毒素") 伤害的[抗性](Damage_types.md#Resistance "伤害类型")，并对[中毒](Poisoned_(Condition).md "中毒 (状态)")免疫。
 
-- [投掷](Throw.md "投掷")药水可为小范围内所有生物提供对 ⁠[中毒](Poison.md "中毒") 伤害的[抗性](Damage_types.md#Resistance "伤害类型")，并对[中毒](Poisoned_(Condition).md "中毒 (状态)")免疫。
+- [投掷](Throw.md "投掷")药水可为小范围内所有生物提供对 ⁠[毒素](Poison.md "毒素") 伤害的[抗性](Damage_types.md#Resistance "伤害类型")，并对[中毒](Poisoned_(Condition).md "中毒 (状态)")免疫。
 
   - 范围效果：1 米 (3 英尺) 半径
   - 持续时间：直至[长休](Long_Rest.md "长休")
@@ -36,11 +36,11 @@
 | --- | --- |
 | ⁠[穿刺](Piercing.md "穿刺") | 抗性 |
 | ⁠[黯蚀](Necrotic.md "黯蚀") | 抗性 |
-| ⁠[中毒](Poison.md "中毒") | 免疫 |
+| ⁠[毒素](Poison.md "毒素") | 免疫 |
 | ⁠[心灵](Psychic.md "心灵") | 免疫 |
 | ⁠[光耀](Radiant.md "光耀") | 抗性 |
 
-- 对 ⁠[中毒](Poison.md "中毒") 伤害[抗性](Resistant.md "抗性")。不再能被[中毒](Poisoned_(status_group)..md)
+- 对 ⁠[毒素](Poison.md "毒素") 伤害[抗性](Resistant.md "抗性")。不再能被[中毒](Poisoned_(status_group)..md)
 
 ## 获取地点
 

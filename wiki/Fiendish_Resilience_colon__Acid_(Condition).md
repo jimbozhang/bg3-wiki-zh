@@ -62,7 +62,7 @@ _维基数据库中未定义_
 [邪魔体魄：中毒](Fiendish_Resilience_colon__Poison_(Condition).md "邪魔体魄：中毒 (状态)")
 |
 
-- 你拥有对 ⁠[中毒](Poison.md "中毒") 伤害的 [抗性](Resistance.md "抗性")。
+- 你拥有对 ⁠[毒素](Poison.md "毒素") 伤害的 [抗性](Resistance.md "抗性")。
 
 [邪魔体魄：心灵](Fiendish_Resilience_colon__Psychic_(Condition).md "邪魔体魄：心灵 (状态)")
 |

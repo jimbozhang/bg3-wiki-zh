@@ -1,6 +1,6 @@
 # 詹尼尔的手套
 
-詹尼尔的手套是一对稀有的[手套](Gloves.md "Gloves")，当穿戴者变得[目盲](Blinded.md "Blinded")、[麻痹](Paralysed_(Condition).md "Paralysed")或[中毒](Poisoned_(Condition).md "Poisoned")时，会自动对自己施放[恢复](Lesser_Restoration.md "Lesser Restoration")。
+詹尼尔的手套是一对稀有的[手套](Gloves.md "Gloves")，当穿戴者变得[目盲](Blinded.md "Blinded")、[麻痹](Paralysed_(Condition).md "Paralysed")或[中毒](Poisoned_(Condition).md "Poisoned")时，会自动对自己施放[次级恢复](Lesser_Restoration.md "次级恢复")。
 
 神圣符文点缀着指垫。虽然并非宗教派别，但[竖琴手](Harpers.md "Harpers")并不要求其成员遮蔽宗教。
 
@@ -17,7 +17,7 @@
 - [豁免检定](Saving_throw.md "Saving Throw") +1
 
 [对抗邪恶](Defy_Villainy.md "Defy Villainy")
-当穿戴者变得[目盲](Blinded_(Condition).md "Blinded (Condition)")、[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")或[中毒](Poisoned_(Condition).md "Poisoned (Condition)")时，会自动对自己施放[恢复](Lesser_Restoration.md "Lesser Restoration")。
+当穿戴者变得[目盲](Blinded_(Condition).md "Blinded (Condition)")、[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")或[中毒](Poisoned_(Condition).md "Poisoned (Condition)")时，会自动对自己施放[次级恢复](Lesser_Restoration.md "次级恢复")。
 
 ## 获取地点
 

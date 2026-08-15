@@ -12,7 +12,7 @@
 - [勇气灵光](Aura_of_Courage.md "勇气灵光")
 - [奉献灵光](Aura_of_Devotion.md "奉献灵光")
 - [狼之面貌灵光（状态）](Aspect_of_the_Wolf_Aura_(Condition).md "狼之面貌灵光（状态）")
-- [驼鹿面貌灵光（状态）](Aspect_of_the_Elk_Aura_(Condition).md "驼鹿面貌灵光（状态）")
+- [麋鹿面貌灵光（状态）](Aspect_of_the_Elk_Aura_(Condition).md "麋鹿面貌灵光（状态）")
 - 仅限NPC：
 - [谋杀灵光（动作）](Aura_of_Murder_(action).md "谋杀灵光（动作）")
   - [恐怖灵光](Aura_of_Terror.md "恐怖灵光")

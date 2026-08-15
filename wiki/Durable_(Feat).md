@@ -37,9 +37,9 @@
 | 当你每只手都持有一把近战武器时，你的[护甲等级](Armour_Class.md "护甲等级")获得+1加值。 |  |
 | 备注 |  |
 | 此专长允许生物双持非[轻型](Light_(weapon_property).md "轻型（武器属性）")的武器，前提是它们不是[双手](Two-Handed.md "双手")武器。然而，它不授予[双武器战斗](Two-Weapon_Fighting.md "双武器战斗")；没有此风格，持用者在副手近战伤害掷骰中仍不会添加其[属性调整值](Ability_Modifier.md "属性调整值")。简易近战武器：[标枪](Javelins.md "标枪")、[硬头锤](Maces.md "硬头锤")、[长棍](Quarterstaves.md "长棍")和[短矛](Spears.md "短矛") 武器大师近战武器：[战斧](Battleaxes.md "战斧")、[链枷](Flails.md "链枷")、[长剑](Longswords.md "长剑")、[钉头锤](Morningstars.md "钉头锤")、[刺剑](Rapiers.md "刺剑")、[三叉戟](Tridents.md "三叉戟")、[战镐](War_Picks.md "战镐")和[战锤](Warhammers.md "战锤") |  |
-| 地城探索者 | [地城探索者：察觉](Dungeon_Delver_colon__Perception.md "地城探索者：察觉") |
+| 地牢探索者 | [地牢探索者：察觉](Dungeon_Delver_colon__Perception.md "地牢探索者：察觉") |
 | 你进行[察觉技能](Perception.md "察觉技能")检定以发现隐藏物体，以及进行[豁免检定](Saving_throw.md "豁免检定")以躲避或抵抗陷阱时，具有[优势](Advantage.md "优势")。 |  |
-| [地城探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "地城探索者：抵抗陷阱") |  |
+| [地牢探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "地牢探索者：抵抗陷阱") |  |
 | 你对陷阱造成的伤害具有[抗性](Damage_Types#Damage_Vulnerability,_Resistance_and_Immunity.md#伤害易伤、抗性与免疫 "伤害类型")。 |  |
 | 历久弥坚 | [历久弥坚](Durable.md "历久弥坚") |
 | 你的[体质](Constitution.md "体质")属性值提高1点，最高不超过20点。每次[短休](Short_rest.md "短休")后完全恢复[生命值](Hit_Points.md "生命值")。 |  |

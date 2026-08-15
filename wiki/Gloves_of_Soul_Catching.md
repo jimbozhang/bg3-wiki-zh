@@ -20,7 +20,7 @@
 你的徒手攻击造成额外 1d10⁠⁠[力场](Force.md "Force")伤害。
 
 [灵魂捕捉](Soul_Catching.md "Soul Catching")
-每回合一次，在徒手命中时，你恢复 10⁠⁠[治疗](Healing.md "治疗")。或者，你可以放弃治疗，在你的下一回合结束前获得攻击掷骰或豁免检定的 +5 奖励。_\[[参见：错误](Soul_Catching.md#Bugs "Soul Catching")\]_
+每回合一次，在徒手命中时，你恢复 10⁠⁠[生命值](Healing.md "治疗")。或者，你可以放弃治疗，在你的下一回合结束前获得攻击掷骰或豁免检定的 +5 奖励。_\[[参见：错误](Soul_Catching.md#Bugs "Soul Catching")\]_
 
 ## 获取地点
 

@@ -14,7 +14,7 @@
 [动作](Actions.md#Resources "动作")
 
 - 造成 3d8⁠⁠[雷鸣](Thunder.md "雷鸣")伤害
-- 或选择造成 2d8⁠⁠[强酸](Acid.md "强酸")、2d8⁠⁠[寒冷](Cold.md "寒冷")、2d8⁠⁠[火焰](Fire.md "火焰")、2d8⁠⁠[闪电](Lightning.md "闪电")、2d8⁠⁠[中毒](Poison.md "中毒")伤害
+- 或选择造成 2d8⁠⁠[强酸](Acid.md "强酸")、2d8⁠⁠[寒冷](Cold.md "寒冷")、2d8⁠⁠[火焰](Fire.md "火焰")、2d8⁠⁠[闪电](Lightning.md "闪电")、2d8⁠⁠[毒素](Poison.md "毒素")伤害
   - 在命中点创建一个[地表](Surface.md "地表")。
   - 范围：18 米 (60 英尺)
 

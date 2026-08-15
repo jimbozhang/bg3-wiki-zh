@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- |
 | [翠绿林地](Emerald_Grove.md "翠绿林地") |  |  |  |  |
 | ↑ |  |  |  |  |
-| [路边山崖](Roadside_Cliffs.md "路边山崖") | ← | 蔓生废墟 | → | [雄狮河](River_Chionthar.md "雄狮河") |
+| [路边山崖](Roadside_Cliffs.md "路边山崖") | ← | 蔓生废墟 | → | [乔恩萨河](River_Chionthar.md "乔恩萨河") |
 | ↓ |  |  |  |  |
 | [疮痍的海滩](Ravaged_Beach.md "疮痍的海滩") |  |  |  |  |
 ↓

@@ -28,13 +28,13 @@
   - 荒野形态攻击中的额外元素伤害，例如[腐蚀唾液](Corrosive_Spit.md "Corrosive Spit")的[强酸](Acid.md "Acid")伤害或[雷地拳](Grounded_Thunder_Strike.md "Grounded Thunder Strike")的[雷鸣](Thunder.md "Thunder")伤害，将获得额外的伤害加成，即使在荣誉模式中也是如此。
 - 酒馆殴斗者的额外伤害应用于[投掷](Throw.md "Throw")攻击、[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")攻击和[荒野形态](Wild_Shape.md "Wild Shape")中的某些攻击\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]时，没有伤害类型，因此无法被抵抗，<sup>[\[1\]](#cite_note-Honour-1)</sup> 即使是[万能抗性灵药](Elixir_of_Universal_Resistance.md "Elixir of Universal Resistance")或[守护之链](Warding_Bond.md "Warding Bond")也不行（在这种情况下，施法者和目标都会受到全额伤害）。固定伤害减免效果仍然适用。
 - 在荣誉模式中，[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")攻击不会从酒馆殴斗者那里获得额外伤害。它们会按预期获得攻击掷骰加成。
-  - 尽管对非[投掷攻击](Thrown.md "投掷攻击")武器使用[投掷](Throw.md "Throw")的行为类似于[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")，但[投掷](Throw.md "Throw")攻击总是同时受益于酒馆殴斗者的攻击掷骰和伤害加成。然而，在荣誉模式中投掷生物时，该生物在落地时不会从酒馆殴斗者那里获得额外伤害。
+  - 尽管对非[投掷](Thrown.md "投掷")武器使用[投掷](Throw.md "Throw")的行为类似于[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")，但[投掷](Throw.md "Throw")攻击总是同时受益于酒馆殴斗者的攻击掷骰和伤害加成。然而，在荣誉模式中投掷生物时，该生物在落地时不会从酒馆殴斗者那里获得额外伤害。
 
 ## 参考资料
 
 1. ↑ [1.0](#cite_ref-Honour_1-0) [1.1](#cite_ref-Honour_1-1) [1.2](#cite_ref-Honour_1-2) [1.3](#cite_ref-Honour_1-3) [1.4](#cite_ref-Honour_1-4) 除荣誉模式外。
 
-1. [↑](#cite_ref-3) 这可以说是对D&D 5e的有界命中率原则[[url 1]](#cite_note-2)的一个显著偏离，该原则旨在将AC、DC和掷骰调整值保持在一定范围内，以确保动作的结果由d20掷骰决定，而不是由许多叠加的固定调整值决定。为了更好地理解此专长的加成，想象DM给予玩家角色[巨武器大师](Great_Weapon_Master.md "Great Weapon Master")专长的+10伤害，但然后*还*给予他们*+5*的攻击掷骰加成，而不是正常的*-5*。
+1. [↑](#cite_ref-3) 这可以说是对D&D 5e的有界命中率原则[[url 1]](#cite_note-2)的一个显著偏离，该原则旨在将AC、DC和掷骰调整值保持在一定范围内，以确保动作的结果由20面骰掷骰决定，而不是由许多叠加的固定调整值决定。为了更好地理解此专长的加成，想象DM给予玩家角色[巨武器大师](Great_Weapon_Master.md "Great Weapon Master")专长的+10伤害，但然后*还*给予他们*+5*的攻击掷骰加成，而不是正常的*-5*。
 
 1. [↑](#cite_ref-2) YouTube: @exoethan (2023-11-27). [(BG3) Why exactly is Tavern Brawler so OP?](https://www.youtube.com/watch?v=hnNoKqwdvLs). Retrieved 2025-12-26.
 

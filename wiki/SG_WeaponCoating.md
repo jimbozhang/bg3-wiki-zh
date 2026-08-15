@@ -91,7 +91,7 @@
 [蘸取毒药](Dipped_in_Poison_(Condition).md "Dipped in Poison (Condition)")
 |
 
-- 武器造成额外 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。
+- 武器造成额外 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。
 
 [变形](Shapechanged_(Condition).md "Shapechanged (Condition)")
 |

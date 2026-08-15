@@ -2,7 +2,7 @@
 
 **自然步伐**
 
-- 附近盟友获得对⁠[中毒](Poison.md "中毒")伤害的[抗性](Resistant.md "抗性")。
+- 附近盟友获得对⁠[毒素](Poison.md "毒素")伤害的[抗性](Resistant.md "抗性")。
 - 免疫[麻痹](Paralyzed_(status_group).md)、[束缚](Restrained_(status_group).md)和[劣势地形](Difficult_Terrain_(status_group)状态组中的所有.md)。
 
 ## 属性
@@ -11,13 +11,13 @@
 
 - [禁用战斗日志](Status_properties/DisableCombatlog.md "状态属性/禁用战斗日志")
 
-## 状态：对中毒伤害抗性
+## 状态：对毒素伤害抗性
 
-**[对中毒伤害抗性](Resistant_to_Poison_Damage_(Condition).md "对中毒伤害抗性 (状态)")**
+**[对毒素伤害抗性](Resistant_to_Poison_Damage_(Condition).md "对毒素伤害抗性 (状态)")**
 
 ⁠半径：4米（13英尺）
 
-- 对此实体的中毒伤害减半。
+- 对此实体的毒素伤害减半。
 
 ## 自然步伐的来源
 
@@ -29,7 +29,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 附近盟友获得对⁠[中毒](Poison.md "中毒")伤害的[抗性](Resistant.md "抗性")。
+- 附近盟友获得对⁠[毒素](Poison.md "毒素")伤害的[抗性](Resistant.md "抗性")。
 - 免疫[麻痹](Paralyzed_(status_group).md)、[束缚](Restrained_(status_group).md)和[劣势地形](Difficult_Terrain_(status_group)状态组中的所有.md)。
 
 ---

@@ -55,7 +55,7 @@
 | 220 | 踢翻铁锈桶 | 摧毁一名钢铁卫士。 |  |
 | 220 | 暗影中的刀锋 | 在[阴影之拥修道院](Cloister_of_Sombre_Embrace.md "阴影之拥修道院")的对峙中存活。 |  |
 | 135 | 爱那气味 | 援助地底侏儒并使用符文火药炸弹炸毁[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")。 |  |
-| 170 | 紧急通讯 | 与[主脑](Netherbrain.md "主脑")沟通。在公园伏击后与[精卫埃德诺萨](Manip_Edenosa.md "精卫埃德诺萨")交谈。 |  |
+| 170 | 紧急通讯 | 与[耐色脑](Netherbrain.md "耐色脑")沟通。在公园伏击后与[精卫埃德诺萨](Manip_Edenosa.md "精卫埃德诺萨")交谈。 |  |
 | 170 | 老兵热点 | 在[精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")购买一个房间。 |  |
 | [利文顿](Rivington.md "利文顿") | 135 | 清除混乱行动者 | 斩首[角铁地窖](Angleiron's_Cellar.md "角铁地窖")。这需要从[月出之塔](Moonrise_Towers.md "月出之塔")拯救乌尔布伦，但随后作为[处理侏儒](Deal_with_the_Gnomes.md "处理侏儒")的一部分杀死他。 |  |
 | 135 | 报到执勤 | 向[轻羽指挥官](Commander_Lightfeather.md "轻羽指挥官")报到。 |  |

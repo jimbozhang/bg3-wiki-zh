@@ -5,7 +5,7 @@
 术语**拳头**可能指：
 
 - 许多[焰拳](Flaming_Fist.md "焰拳")成员的军衔和头衔
-- [灾祸之拳](Fist_of_Bane.md "灾祸之拳")，[灾祸教团](Cult_of_Bane.md "灾祸教团")中的步兵
+- [班恩之拳](Fist_of_Bane.md "班恩之拳")，[班恩教团](Cult_of_Bane.md "班恩教团")中的步兵
 - [蕈人](Myconid.md "蕈人")使用的[拳头](Fist.md "拳头")、[拳头（格鲁特）](Fist_(Glut).md "拳头（格鲁特）")或[拳头（斯波）](Fist_(Spaw).md "拳头（斯波）")
 - [四雷拳](Fist_of_Four_Thunders.md "四雷拳")，一种[四象宗](Way_of_the_Four_Elements.md "四象宗")武僧法术
 - [凝气刚拳](Fist_of_Unbroken_Air.md "凝气刚拳")，一种四象宗武僧法术

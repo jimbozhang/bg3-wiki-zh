@@ -1,17 +1,17 @@
 # 吟游诗人攻击
 
-**吟游诗人攻击** 是通过拥有 [诗人激励](Bardic_Inspiration_(resource).md) 获得的反应。
+**吟游诗人攻击** 是通过拥有 [吟游诗人激励](Bardic_Inspiration_(resource).md) 获得的反应。
 
 ## 描述
 
 为你的 [攻击掷骰](Attack_roll.md "攻击掷骰") 增加 +1d6 奖励。
 
-当效果触发时，你将消耗你的 [诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")。
+当效果触发时，你将消耗你的 [吟游诗人激励](Bardic_Inspiration_(class_action).md "吟游诗人激励（职业动作）")。
 
 ## 属性
 
 消耗：
-[诗人激励](Bardic_Inspiration_(resource).md)
+[吟游诗人激励](Bardic_Inspiration_(resource).md)
 
 ## 更高等级
 
@@ -23,7 +23,7 @@
 
 其他学习方式：
 
-- 吟游诗人攻击仅在 [诗人激励](Bardic_Inspiration_(Condition).md "诗人激励（状态）") 状态激活时可用。
+- 吟游诗人攻击仅在 [吟游诗人激励](Bardic_Inspiration_(Condition).md "吟游诗人激励（状态）") 状态激活时可用。
 
 ---
 *Source: [Bardic Attack](https://bg3.wiki/wiki/Bardic_Attack)*

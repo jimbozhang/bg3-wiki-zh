@@ -15,7 +15,7 @@
 
 [附赠动作](Actions.md#Resources "动作")
 
-- 饮用药水会对饮用者造成 2d6⁠⁠[中毒](Poison.md "中毒")伤害，并且他们必须通过一次 [DC](Dice_rolls.md#Save_DCs "骰子检定") 15 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将在每个回合开始时受到 2d6⁠⁠[中毒](Poison.md "中毒")伤害，直到他们通过一次成功的 [DC](Dice_rolls.md#Save_DCs "骰子检定") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 饮用药水会对饮用者造成 2d6⁠⁠[毒素](Poison.md "毒素")伤害，并且他们必须通过一次 [DC](Dice_rolls.md#Save_DCs "骰子检定") 15 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将在每个回合开始时受到 2d6⁠⁠[毒素](Poison.md "毒素")伤害，直到他们通过一次成功的 [DC](Dice_rolls.md#Save_DCs "骰子检定") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 ## 状态：埃赛尔婶婶的特制药水
 
@@ -25,7 +25,7 @@
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
 
-- 受影响的生物在每个回合开始时受到 2d6⁠⁠[中毒](Poison.md "中毒")伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "骰子检定") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 受影响的生物在每个回合开始时受到 2d6⁠⁠[毒素](Poison.md "毒素")伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "骰子检定") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 ## 获取地点
 

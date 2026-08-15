@@ -23,16 +23,16 @@ A **焰拳头盔**（Flaming Fist Helmet）是一种常见的[头盔](Headwear.m
 
 # 变体
 
-A **Flaming Fist Helmet** is a common [Helmet](Headwear.md "Headwear").
+**焰拳头盔**是一种常见的[头盔](Headwear.md "Headwear")。
 
-Unadorned yet intimidating for that factor, this helm speaks to the quiet nobility and equally quiet dread the Fist inspire.
+虽然朴实无华，但正因为如此而显得令人生畏，这款头盔体现了焰拳所激发的无声威严与同样无声的恐惧。
 
 ## Properties
 
 - [Helmets](Helmets.md "Helmets")
 - Required Proficiency: [Medium Armour](Medium_Armour.md "Medium Armour")
 - Rarity: Common
-- Weight: 1 kg (2 lb)
+- 重量: 1 kg (2 lb)
 - Price: 40 gp
 - UID `ARM_Helmet_Metal_FlamingFist_B` UUID `5c98c7c8-97f3-4675-bf22-920168450949` ### Special
 
@@ -55,7 +55,7 @@ The brutish thuggery of the Enforcer's position is summarised in this helmet's d
 - [Helmets](Helmets.md "Helmets")
 - Required Proficiency: [Medium Armour](Medium_Armour.md "Medium Armour")
 - Rarity: Common
-- Weight: 1 kg (2 lb)
+- 重量: 1 kg (2 lb)
 - Price: 40 gp
 - UID `ARM_Helmet_Metal_FlamingFist_C` UUID `0466c509-9947-441a-ad51-85ad4f407f38` ### Special
 

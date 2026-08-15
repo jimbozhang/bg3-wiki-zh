@@ -2,10 +2,10 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| [刺客之血](Assassin's_Blood_(Condition).md "刺客之血 (状态)") | 生物必须通过体质[豁免检定](Saving_throw.md "豁免检定")，否则受到1d12⁠⁠[中毒](Poison.md "中毒")伤害并进入中毒状态，直到下一次长休。豁免成功时，仍受到一半伤害。 |
-| [有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)") | 受影响实体每回合受到1d4⁠⁠[中毒](Poison.md "中毒")伤害。必须通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外2d4⁠⁠[中毒](Poison.md "中毒")伤害，豁免成功时受到一半伤害。 |
+| [刺客之血](Assassin's_Blood_(Condition).md "刺客之血 (状态)") | 生物必须通过体质[豁免检定](Saving_throw.md "豁免检定")，否则受到1d12⁠⁠[毒素](Poison.md "毒素")伤害并进入中毒状态，直到下一次长休。豁免成功时，仍受到一半伤害。 |
+| [有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)") | 受影响实体每回合受到1d4⁠⁠[毒素](Poison.md "毒素")伤害。必须通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外2d4⁠⁠[毒素](Poison.md "毒素")伤害，豁免成功时受到一半伤害。 |
 | 中毒 | [攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")具有[劣势](Disadvantage.md "劣势")。 |
-| [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)") | 每回合受到1d4⁠⁠[中毒](Poison.md "中毒")伤害。[攻击掷骰](Attack_rolls.md "攻击掷骰")和[检定](Checks.md "检定")具有[劣势](Disadvantage.md "劣势")。 |
+| [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)") | 每回合受到1d4⁠⁠[毒素](Poison.md "毒素")伤害。[攻击掷骰](Attack_rolls.md "攻击掷骰")和[检定](Checks.md "检定")具有[劣势](Disadvantage.md "劣势")。 |
 | [病弱](Sickly_(Condition).md "病弱 (状态)") | 感觉极度不适——可疑地不适。 |
 
 ## 属性
@@ -21,10 +21,10 @@
 - [毒云](Poison_Cloud.md "毒云")
 | 状态 | 效果 |
 | --- | --- |
-| [刺客之血](Assassin's_Blood_(Condition).md "刺客之血 (状态)") | 生物必须通过体质[豁免检定](Saving_throw.md "豁免检定")，否则受到1d12⁠⁠[中毒](Poison.md "中毒")伤害并进入中毒状态，直到下一次长休。豁免成功时，仍受到一半伤害。 |
-| [有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)") | 受影响实体每回合受到1d4⁠⁠[中毒](Poison.md "中毒")伤害。必须通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外2d4⁠⁠[中毒](Poison.md "中毒")伤害，豁免成功时受到一半伤害。 |
+| [刺客之血](Assassin's_Blood_(Condition).md "刺客之血 (状态)") | 生物必须通过体质[豁免检定](Saving_throw.md "豁免检定")，否则受到1d12⁠⁠[毒素](Poison.md "毒素")伤害并进入中毒状态，直到下一次长休。豁免成功时，仍受到一半伤害。 |
+| [有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)") | 受影响实体每回合受到1d4⁠⁠[毒素](Poison.md "毒素")伤害。必须通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外2d4⁠⁠[毒素](Poison.md "毒素")伤害，豁免成功时受到一半伤害。 |
 | 中毒 | [攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")具有[劣势](Disadvantage.md "劣势")。 |
-| [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)") | 每回合受到1d4⁠⁠[中毒](Poison.md "中毒")伤害。[攻击掷骰](Attack_rolls.md "攻击掷骰")和[检定](Checks.md "检定")具有[劣势](Disadvantage.md "劣势")。 |
+| [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)") | 每回合受到1d4⁠⁠[毒素](Poison.md "毒素")伤害。[攻击掷骰](Attack_rolls.md "攻击掷骰")和[检定](Checks.md "检定")具有[劣势](Disadvantage.md "劣势")。 |
 | [病弱](Sickly_(Condition).md "病弱 (状态)") | 感觉极度不适——可疑地不适。 |
 
 - [秘术师卡里翁的目盲诅咒](Mystic_Carrion's_Blinding_Curse_(Condition).md "秘术师卡里翁的目盲诅咒 (状态)")
@@ -63,13 +63,13 @@
 
 ## 具有相同堆叠ID的状态
 
-- 生物必须通过体质[豁免检定](Saving_throw.md "豁免检定")，否则受到1d12⁠⁠[中毒](Poison.md "中毒")伤害并进入中毒状态，直到下一次长休。
+- 生物必须通过体质[豁免检定](Saving_throw.md "豁免检定")，否则受到1d12⁠⁠[毒素](Poison.md "毒素")伤害并进入中毒状态，直到下一次长休。
 - 豁免成功时，仍受到一半伤害。
 
 \_(状态)[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)")
 |
 
-- 受影响实体每回合受到1d4⁠⁠[中毒](Poison.md "中毒")伤害。必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外2d4⁠⁠[中毒](Poison.md "中毒")伤害，豁免成功时受到一半伤害。
+- 受影响实体每回合受到1d4⁠⁠[毒素](Poison.md "毒素")伤害。必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外2d4⁠⁠[毒素](Poison.md "毒素")伤害，豁免成功时受到一半伤害。
 
 中毒
 |
@@ -79,7 +79,7 @@
 [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)")
 |
 
-- 每回合受到1d4⁠⁠[中毒](Poison.md "中毒")伤害。
+- 每回合受到1d4⁠⁠[毒素](Poison.md "毒素")伤害。
 - [攻击掷骰](Attack_rolls.md "攻击掷骰")和[检定](Checks.md "检定")具有[劣势](Disadvantage.md "劣势")。
 
 [病弱](Sickly_(Condition).md "病弱 (状态)")

@@ -16,15 +16,15 @@
 - [技能检定 / Skills](#技能检定) (18 条)
 - [种族 / Races](#种族) (39 条)
 - [职业 / Classes](#职业) (12 条)
-- [子职业 / Subclasses](#子职业) (64 条)
+- [子职业 / Subclasses](#子职业) (66 条)
 - [背景 / Backgrounds](#背景) (12 条)
-- [职业特性与专长 / Class Features & Feats](#职业特性与专长) (212 条)
-- [法术与技能 / Spells & Abilities](#法术与技能) (875 条)
-- [状态与效果 / Conditions & Effects](#状态与效果) (244 条)
+- [职业特性与专长 / Class Features & Feats](#职业特性与专长) (216 条)
+- [法术与技能 / Spells & Abilities](#法术与技能) (876 条)
+- [状态与效果 / Conditions & Effects](#状态与效果) (247 条)
 - [被动特性 / Passive Features](#被动特性) (17 条)
-- [伤害类型 / Damage Types](#伤害类型) (12 条)
-- [游戏机制 / Game Mechanics](#游戏机制) (60 条)
-- [动作与资源 / Actions & Resources](#动作与资源) (10 条)
+- [伤害类型 / Damage Types](#伤害类型) (13 条)
+- [游戏机制 / Game Mechanics](#游戏机制) (128 条)
+- [动作与资源 / Actions & Resources](#动作与资源) (11 条)
 - [物品与装备 / Items & Equipment](#物品与装备) (1506 条)
 - [同伴角色 / Companions](#同伴角色) (10 条)
 - [NPC角色 / NPCs](#NPC角色) (62 条)
@@ -33,7 +33,7 @@
 - [阵营与组织 / Factions & Organizations](#阵营与组织) (185 条)
 - [地点 / Locations](#地点) (488 条)
 - [任务 / Quests](#任务) (313 条)
-- [其他术语 / Other Terms](#其他术语) (5288 条)
+- [其他术语 / Other Terms](#其他术语) (5290 条)
 
 ---
 
@@ -465,8 +465,6 @@
 ## 法术与技能
 ### Spells & Abilities
 
-> 法术、戏法和主动技能
-
 | English | 中文 |
 |---------|------|
 | --DOMINATE-- | --支配-- |
@@ -640,10 +638,12 @@
 | Cloud of Daggers | 匕首之云 |
 | Cloudkill | 死云术 |
 | Coated in Oil of Bane | 浸染灾祸油 |
+| Combat Inspiration | 强制策动 |
 | Commander's Strike | 指挥官奇袭 |
 | Concentrated Blast | 聚能爆破 |
 | Concussive Smash | 震荡猛击 |
 | Cone of Cold | 寒冰锥 |
+| Confusion | 困惑术 |
 | Confusion Ray | 困惑射线 |
 | Conjuration Cantrip | 咒法学派戏法 |
 | Conjure ahead | 那就请施法吧 |
@@ -798,8 +798,6 @@
 | Elemental Rebuke | 元素叱喝 |
 | Elemental Weapon: Lightning | 元素武器：闪电 |
 | Elemental Weapon: Thunder | 元素武器：雷鸣 |
-| Elk Sphere L | 麋鹿球 左 |
-| Elk Sphere R | 鹰球 右 |
 | Embrace of the Inferno | 地狱之拥 |
 | Empowered Unarmed Strike | 强效徒手打击 |
 | Enchantment Cantrip | 惑控学派戏法 |
@@ -1173,6 +1171,7 @@
 | Sinister Strike | 邪恶之击 |
 | Slam | 猛击 |
 | Sleet Storm | 雪雨暴 |
+| Slow | 缓慢术 |
 | Slow Fall | 轻身坠 |
 | Slow HDD Mode | 显示HDD模式 |
 | Slow-Butt | 懒蛋 |
@@ -1267,6 +1266,7 @@
 | The Scourge Mistress' Bane | 鞭刑女士之灾 |
 | The Undead Bane | 不死灾祸 |
 | The Word of the Absolute | 至上真神圣言 |
+| This Won't Hurt A Bit | 注射术 |
 | Thorn Whip | 荆棘之鞭 |
 | Throwing: Lightning Damage | 投掷：闪电伤害 |
 | Throwing: Thunder Damage | 投掷：雷鸣伤害 |
@@ -1294,6 +1294,7 @@
 | True Strike | 克敌机先 |
 | True Strike Riposte | 克敌还击 |
 | True Strike Target | 克敌机先 |
+| Turn | 驱散不死生物 |
 | Unarmed Strike | 徒手打击 |
 | Undead Bane | 亡灵之殇 |
 | Undead Thralls: Animate Dead | 不死奴仆：操纵死尸 |
@@ -1330,14 +1331,12 @@
 | Wild Shape | 荒野形态 |
 | Wild Strike | 荒野打击 |
 | Winter's Breath | 寒冬吹息 |
-| Wish Me Luck, Old Man | 祝我好运，老头 |
 | Wish me luck | 祝我好运吧 |
+| Wish Me Luck, Old Man | 祝我好运，老头 |
 | Witch Bolt | 巫术箭 |
 | Witch Bolt Owner | 巫术箭所有者 |
 | Withering Touch | 枯萎之触 |
 | Woad's Ensnaring Strike | 菘蓝树人诱捕打击 |
-| Wolf Sphere L | 狼球 左 |
-| Wolf Sphere R | 狼球 右 |
 | Word of the Absolute: Bane | 至上真神真言：祸害术 |
 | Wounding Ray | 致伤射线 |
 | Wrath of the Storm: Lightning | 风暴狂怒：闪电 |
@@ -1348,8 +1347,6 @@
 ## 状态与效果
 ### Conditions & Effects
 
-> 增益、减益和状态效果
-
 | English | 中文 |
 |---------|------|
 | Acidic surfaces | 强酸 |
@@ -1359,6 +1356,7 @@
 | Arcane Synergy | 奥术协同 |
 | Armour of Agathys | 艾嘉西斯之铠 |
 | Ascended Fiend | 进化邪魔 |
+| Aspect of the Elk | 麋鹿面貌 |
 | Aura of Courage | 勇气灵光 |
 | Aura of Devotion | 奉献灵光 |
 | Aura of Hate | 仇恨灵光 |
@@ -1408,6 +1406,7 @@
 | Crown of Madness | 疯狂 |
 | Crystal Skin | 水晶皮肤 |
 | Cursed | 被诅咒 |
+| Darkvision | 黑暗视觉。 |
 | Daze | 眩晕 |
 | Dazed | 眩晕 |
 | Death Ward | 死亡防护 |
@@ -1452,6 +1451,7 @@
 | Guiding Bolt | 曳光弹 |
 | Happy | 高兴 |
 | Harrowed | 痛苦 |
+| Haste Spores | 加速 |
 | Hasten | 加速 |
 | Hastened | 加速 |
 | Heat | 灼热 |
@@ -1600,8 +1600,6 @@
 ## 被动特性
 ### Passive Features
 
-> 被动能力和特性
-
 | English | 中文 |
 |---------|------|
 | Ability Drain | 吸取属性 |
@@ -1625,8 +1623,6 @@
 ## 伤害类型
 ### Damage Types
 
-> 各种伤害类型
-
 | English | 中文 |
 |---------|------|
 | Acid | 强酸 |
@@ -1637,6 +1633,7 @@
 | Lightning | 闪电 |
 | Necrotic | 黯蚀 |
 | Piercing | 穿刺 |
+| Poison | 毒素 |
 | Psychic | 心灵 |
 | Radiant | 光耀 |
 | Slashing | 挥砍 |
@@ -1651,75 +1648,139 @@
 |---------|------|
 | Ability Check | 属性检定 |
 | Ability Checks | 检定 |
+| Ability Score Improvement | 属性值提升 |
 | Action | 动作 |
+| action | 动作 |
 | Advantage | 优势 |
+| Always Prepared | 恒定预备法术 |
 | Ammunition | 弹药 |
+| AoE | 范围效果 |
+| Area of Effect | 范围效果 |
 | Armour Class | 护甲等级 |
 | Attack Roll | 攻击掷骰 |
 | Attack Rolls | 攻击掷骰 |
+| Attunement | 调谐 |
+| Background Goals | 背景目标 |
 | Blindsight | 盲视术 |
 | Bonus Action | 附赠动作 |
+| Breaking Concentration | 打破专注 |
 | Camp | 营地 |
 | Camp Supplies | 营地补给 |
 | Camp Supply | 营地补给 |
+| cantrips | 戏法 |
 | Carrying Capacity | 负重 |
+| Cast a Spell | 施法 |
+| Contest | 对抗检定 |
+| Critical Failure | 大失败 |
 | Critical Hit | 重击 |
+| Critical Miss | 重击失败 |
+| Critical Success | 大成功 |
 | Cross-Play | 跨平台游戏 |
+| d20 | 20面骰 |
+| Dash Action | 疾走动作 |
 | Death Saving Throw | 死亡豁免检定 |
+| Dice roll | 掷骰 |
+| Dice rolls | 掷骰 |
 | Difficulty Class | 难度等级 |
 | Disadvantage | 劣势 |
+| Disengage Action | 撤离动作 |
+| Dodge Action | 闪避动作 |
 | Experience | 经验值 |
+| Experience Points | 经验值 |
 | Finesse | 灵巧 |
+| Finesse Weapon | 灵巧武器 |
+| Flanking | 夹击 |
 | Heavy | 重型 |
+| Help Action | 协助动作 |
+| Hide Action | 隐藏动作 |
 | High Ground | 高地 |
+| High Ground Rules | 高低规则 |
+| Hit Dice | 生命骰 |
+| hit points | 生命值 |
 | Hit Points | 生命值 |
 | Honour Mode | 荣誉模式 |
 | Initiative | 先攻 |
+| Initiative Order | 先攻顺序 |
 | Inspiration | 激励点 |
 | Inspiration Point | 激励点 |
+| Karmic Dice | 业力骰 |
 | Known Spells | 习得法术 |
 | Level | 等级 |
 | Level Up | 等级提升 |
 | Light | 轻型 |
+| Line of Sight | 视线 |
 | Loading | 加载中 |
 | Long Rest | 长休 |
 | Low Ground | 低地 |
+| Material | 材料成分 |
+| Melee | 近战 |
 | Melee Attack | 近战攻击 |
 | Melee Spell Attack | 近战法术攻击 |
 | Melee Weapon Attack | 近战武器攻击 |
+| melee weapon attacks | 近战武器攻击 |
 | Movement | 移动 |
 | Movement Speed | 移动速度 |
+| Multiclassing | 兼职 |
 | Multiclassing | 身兼多职 |
+| Natural 1 | 大失败/自然1 |
+| Natural 20 | 大成功/自然20 |
 | Opportunity Attack | 借机攻击 |
 | Opportunity Attacks | 借机攻击 |
+| Passive Check | 被动检定 |
+| Passive Perception | 被动察觉 |
 | Photo Mode | 拍照模式 |
+| Portent Dice | 预兆骰子 |
+| Prepared | 准备 |
 | Prepared Spells | 预备法术 |
 | Proficiency | 熟练项 |
 | Proficiency Bonus | 熟练项加值 |
+| Proficient | 乐器熟练项 |
+| Proficient | 熟练项 |
 | Ranged Attack | 远程攻击 |
 | Ranged Spell Attack | 远程法术攻击 |
+| Ranged Spell Attacks | 远程法术攻击 |
 | Ranged Weapon Attack | 远程武器攻击 |
+| ranged weapon attacks | 远程武器攻击 |
+| Reach Weapon | 额外范围 |
 | Reaction | 反应 |
+| Ready Action | 准备动作 |
+| Ritual Casting | 仪式施法 |
+| ritual spells | 仪式法术 |
 | Saving Throw | 豁免检定 |
 | Saving Throws | 豁免检定 |
+| Search Action | 搜索动作 |
 | Short Rest | 短休 |
+| skills | 技能 |
+| Sleight Of Hand | 巧手 |
+| Somatic | 姿势成分 |
+| Spell Save DC | 法术豁免等级 |
 | Spell Slot | 法术位 |
+| spell slots | 邪术师法术位 |
+| spell slots | 法术位 |
 | Spell Slots | 法术位 |
 | Spellcasting Ability | 施法关键属性 |
 | Spellcasting Modifier | 施法调整值 |
+| Stable | 稳定 |
+| Surprise | 突袭 |
+| temporary hit points | 临时生命值 |
 | Temporary Hit Points | 临时生命值 |
+| Thrown | 投掷武器 |
 | Truesight | 真实视觉 |
+| Turn-based mode | 回合制模式 |
+| two-handed | 双手 |
 | Two-Handed | 双手 |
+| Verbal | 言语成分 |
 | Versatile | 两用 |
+| Versatile Weapon | 两用 |
+| vulnerable | 易伤 |
 | Weight | 重量 |
 
 ## 动作与资源
 ### Actions & Resources
 
-> 动作类型和资源
-
 | English | 中文 |
 |---------|------|
+| Bardic Inspiration | 吟游诗人激励点 |
 | bonus action | 附赠动作 |
 | Channel Divinity | 引导神力 |
 | Channel Oath Charges | 引导誓言 |
@@ -2022,18 +2083,6 @@
 | Deva Mace | 使徒硬头锤 |
 | Devious Knight Helm | 狡猾骑士头盔 |
 | Devotee's Mace | 信徒硬头锤 |
-| DGB Eagle Nose Ring  Lowlip A R | DGB 鹰鼻环下唇A 右 |
-| DGB Eagle Nose Ring Lowlip A L | DGB 鹰鼻环下唇A 左 |
-| DGB Eagle Nose Ring Nostril A L | DGB 鹰鼻环A 左 |
-| DGB Eagle Nose Ring R | DGB 鹰鼻环 右 |
-| DGB Eagle Ring L | DGB 鹰指环 左 |
-| DGB Eagle Sept Ring Nostril A L | DGB 鹰氏族鼻环A 左 |
-| DGB Elk Ring Brow A R | DGB 麋鹿眉环A 右 |
-| DGB Elk Ring L | DGB 麋鹿环 左 |
-| DGB Set 5 Ring Septum A M | DGB 款式 5 鼻柱环A 中 |
-| DGB Set 9 Ring Nostril A L | DGB 款式 9 鼻环A 左 |
-| DGB Tiger Ring L | DGB 虎指环 左 |
-| DGB Wolf Ring L | DGB 狼指环 左 |
 | Discard the amulet | 扔掉护符 |
 | Dismissal of Staff | 员工休假通知 |
 | Djinni Ring | 气巨灵戒指 |
@@ -2063,10 +2112,6 @@
 | Dusty Little Amulet | 尘旧小护符 |
 | Dwarven Armour Training | 矮人护甲训练 |
 | Dyeable Armour | 可染色护甲 |
-| Eagle Brow Ring L | 鹰额戒指 左 |
-| Eagle Brow Ring R | 鹰额戒指右 |
-| Eagle Nose Ring L | 鹰鼻戒指 左 |
-| Eagle Sept Ring M | 鹰氏族戒指中 |
 | Electrified Dagger Cloud | 电气匕首云 |
 | Elegant Robe | 优雅长袍 |
 | Elegant Studded Leather | 优雅镶钉皮甲 |
@@ -2130,9 +2175,6 @@
 | Elixir of Universal Resistance | 万能抗性灵药 |
 | Elixir of Viciousness | 邪恶灵药 |
 | Elixir of Vigilance | 警觉灵药 |
-| Elk Ring L | 麋鹿戒指 左 |
-| Elk Ring R | 麋鹿戒指 右 |
-| Elk Sept Ring M | 麋鹿氏族戒指中 |
 | Emblazoned Plate of the Marshal | 元帅纹章板甲 |
 | Emerald Ring | 绿宝石戒指 |
 | Emperor's Sword | 君主之剑 |
@@ -2775,7 +2817,6 @@
 | Robust Chain Shirt | 强健链甲衫 |
 | Rolan's Mage Armour | 罗兰的魔法护甲 |
 | Ruby Ring | 红宝石戒指 |
-| Ruled the Sword Coast's many seas, | 她统治了剑湾的很多海域， |
 | Rusty Battleaxe | 锈战斧 |
 | Rusty Dagger | 锈匕首 |
 | Rusty Flail | 锈链枷 |
@@ -2963,15 +3004,6 @@
 | Seraphic Pugilist Gloves | 拳击天使 |
 | Sergeant's Boots | 军士长的靴子 |
 | Servitor of the Black Hand Gloves | 黑色之手侍从手套 |
-| Set 2 Ring C Helix b L | 款式 2 环 C 耳轮 b 左 |
-| Set 3 ring helix  A L | 款式 3 环耳轮 A 左 |
-| Set 3 ring helix  B L | 款式 3 环耳轮 B |
-| Set 3 ring helix  B R | 款式 3 环耳轮 B 右 |
-| Set 4 Ring Helix R | 款式 4 环耳轮 右 |
-| Set 5 Ring Lobe A L | 款式 5 环耳垂 A 左 |
-| Set 5 Ring Lobe A R | 款式 5 环耳垂 A 右 |
-| Set 9 Sword L | 款式 9 剑 左 |
-| Set 9 Sword R | 款式 9 剑 右 |
 | Sethan: Spiritual Greataxe | 塞特：灵体巨斧 |
 | Shade-Slayer Cloak | 黯影杀手披风 |
 | Shadeclinger Armour | 阴影依附护甲 |
@@ -3375,24 +3407,9 @@ Scroll or letter | 盾牌管家审讯日志
 | Bat | 蝙蝠 |
 | Battle-Ready Owlbear | 备战枭熊 |
 | Bear | 熊 |
-| Bear Brow L | 熊额 左 |
-| Bear Brow R | 熊额 右 |
-| Bear Claw | 熊爪 |
-| Bear Claw L | 熊爪左 |
-| Bear Claw R | 熊爪 右 |
 | Bear Companion | 熊伙伴 |
-| Bear Fang L | 熊牙 左 |
-| Bear Fang R | 熊牙 右 |
 | Bear Heart | 蛮熊之心 |
-| Bear HelixRing R | 熊螺旋戒指 右 |
-| Bear HelixrRing L | 熊螺旋戒指 左 |
-| Bear Pad Bridge L | 熊垫 左 |
-| Bear Pad Bridge R | 熊垫右 |
-| Bear Piercings | 熊镶钉 |
-| Bear SeptRing | 熊氏族戒指 |
 | Bear Statue | 熊雕像 |
-| Bear Stub L | 熊饰物 左 |
-| Bear Stub R | 熊饰物右 |
 | Beholder | 眼魔 |
 | Beholder Eye | 眼魔之眼 |
 | Beholder Iris | 眼魔虹膜 |
@@ -3459,18 +3476,6 @@ Scroll or letter | 盾牌管家审讯日志
 | Devil's Fee | 魔鬼的小费 |
 | Devil's Fee Observer's Report | 魔鬼的小费观察报告 |
 | Devil's Sight | 魔鬼视界 |
-| DGB Bear Brow L | DGB 熊眉环 左 |
-| DGB Bear Brow R | DGB 熊眉环 右 |
-| DGB Bear HelixRing L | DGB 熊耳轮环 左 |
-| DGB Bear HelixRing R | DGB 熊耳轮环 右 |
-| DGB Bear HelixRing R_B | DGB 熊耳轮环 右B |
-| DGB Bear Pad Bridge R | DGB 熊掌鼻梁 右 |
-| DGB Bear Stub L | DGB 熊饰钉 左 |
-| DGB Bear Stub R | DGB 熊眉环 右 |
-| DGB Wolf Brow B R | DGB 狼眉环B 右 |
-| DGB Wolf Lowlip C R | DGB 狼下唇C 右 |
-| DGB Wolf Lowlip D R | DGB 狼下唇D 右 |
-| DGB Wolf Stud B L | DGB 狼饰钉B 左 |
 | Dire Wolf | 恐狼 |
 | Disguise Self: Femme Githyanki | 易容术：女性吉斯洋基人 |
 | Disguise Self: Femme Half-Orc | 易容术：女性半兽人 |
@@ -3954,18 +3959,8 @@ Scroll or letter | 盾牌管家审讯日志
 | Wild Shape: Spider | 荒野形态：蜘蛛 |
 | Wild Shape: Wolf | 荒野形态：狼 |
 | Wolf | 狼 |
-| Wolf Branch L | 狼枝左 |
-| Wolf Branch R | 狼枝 右 |
 | Wolf Companion | 狼伙伴 |
-| Wolf EarringHelixA L | 狼螺旋耳环A左 |
-| Wolf EarringHelixA R | 狼螺旋耳环A 右 |
-| Wolf EarringHelixB L | 狼螺旋耳环B 左 |
-| Wolf EarringHelixB R | 狼螺旋耳环 B 右 |
-| Wolf EarringLarge L | 狼耳环大 左 |
-| Wolf EarringLarge R | 狼耳环大 右 |
 | Wolf Heart | 狂狼之心 |
-| Wolf Piercings | 狼镶钉 |
-| Wolf SeptRing | 狼氏族戒指 |
 | Wolf Spider Companion | 狼蛛伙伴 |
 | Wolf Statue | 狼雕像 |
 | Wraith | 缚灵 |
@@ -5296,8 +5291,6 @@ Scroll or letter | 盾牌管家审讯日志
 ## 其他术语
 ### Other Terms
 
-> 其他游戏相关术语（与 Wiki 页面对应）
-
 | English | 中文 |
 |---------|------|
 | A Breakthrough at Last | 来之不易的突破 |
@@ -6094,6 +6087,7 @@ Scroll or letter | 盾牌管家审讯日志
 | Chasm Creeper | 裂谷蔓晶 |
 | Chatterbox's Tabard | 弹幕专家的外套 |
 | Chatterteeth | 恰德提斯 |
+| check | 检定 |
 | Check | 检定 |
 | Checks | 检定 |
 | Cheeky Nora | 诺拉 |
@@ -6854,6 +6848,7 @@ Scroll or letter | 盾牌管家审讯日志
 | Experienced And Deadly | 老练毒辣 |
 | Experiment on Cruor | 对克鲁诺的实验 |
 | Experimental Alchemy | 试验炼金术 |
+| Expert | 专精 |
 | Expert Divination | 预言专家 |
 | Expert Stitching | 缝合大师 |
 | Expertise | 专精 |
@@ -10588,4 +10583,3 @@ Scroll or letter | 盾牌管家审讯日志
 | Zorru | 苏洛 |
 | Zumbo Pumbo | 宗博·彭博 |
 | Zurga | 祖尔伽 |
-

@@ -92,7 +92,7 @@
 - 对熊使用[祝福术](Bless.md "Bless")获得+1d4
 - 将[英勇灵药](Elixir_of_Heroism.md "Elixir of Heroism")扔在地上让熊饮用，获得额外+1d4
 - 使用隐形角色携带[生离死别：吟唱](Phalar_Aluve_colon__Sing.md "Phalar Aluve: Sing")跟随熊，获得第三个+1d4
-- 如有需要，使用[诗人激励](Bardic_Inspiration_(class_action).md) 为熊提供额外1d6
+- 如有需要，使用[吟游诗人激励](Bardic_Inspiration_(class_action).md) 为熊提供额外1d6
 - 若努力升至6级，可获得[战争领域](War_Domain.md "War Domain")牧师的[战神赐福](War_God's_Blessing.md "War God's Blessing")提供的完全不必要的+10加成（仅为炫耀）
 
 即使忽略最后一项，增益熊的成功率将飙升至**98%**。即便如此，仍存在暴击未命中的可能，且银剑有时会随机消失。

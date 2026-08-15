@@ -36,7 +36,7 @@ _对应`CRE_GithQuartermistress_Trade`和`CRE_MagicItem_Gith_Trader`。_
 - [蛮勇手套](Daredevil_Gloves.md "Daredevil Gloves")
 - [守卫者链枷](Defender_Flail.md "Defender Flail")
 - [敏捷手套](Gloves_of_Dexterity.md "Gloves of Dexterity")
-- [地底国王之刃](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
+- [地脉迷城之王的匕首](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
 - [拉瑞斯安之怒](Larethian's_Wrath.md "Larethian's Wrath")
 - [隐形威胁](Unseen_Menace.md "Unseen Menace")
 - [生命通道之靴](Vital_Conduit_Boots.md "Vital Conduit Boots")

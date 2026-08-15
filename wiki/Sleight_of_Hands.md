@@ -55,7 +55,7 @@
 
 为确保巧手检定最低为30，一种可能的构建是：
 
-- 11级游荡者，拥有[可靠才能](Reliable_Talent.md "可靠才能")（保证d20掷骰最低为10，并绕过关键失败）和
+- 11级游荡者，拥有[可靠才能](Reliable_Talent.md "可靠才能")（保证20面骰掷骰最低为10，并绕过关键失败）和
 - +8来自[专精](Expertise_(passive_feature).md "专精（被动特性）")
 - +6来自敏捷，使用[专长](Feat.md "专长")、[优雅布衣](The_Graceful_Cloth.md "优雅布衣")、[灵指手套](Nimblefinger_Gloves.md "灵指手套")、[埃赛尔婶婶的头发](Auntie_Ethel's_Hair.md "埃赛尔婶婶的头发")或[失落之镜](Mirror_of_Loss.md "失落之镜")的任意组合达到22敏捷
 - +4来自[不幸窃贼手套](Unlucky_Thief's_Gloves.md "不幸窃贼手套")和[走私犯之戒](Smuggler's_Ring.md "走私犯之戒")
@@ -87,7 +87,7 @@ DC=8+Perception+Weight5+20⋅max⁡(0, min⁡(1, Price1000))
 
 ### 掷骰目标
 
-扒窃界面中显示的数字不是检定的DC，而是必须在D20上掷出的数字才能通过检定。此数字可能不包括所有加值，因此可能具有误导性。
+扒窃界面中显示的数字不是检定的DC，而是必须在20面骰上掷出的数字才能通过检定。此数字可能不包括所有加值，因此可能具有误导性。
 
 ## 提升或惩罚的方法
 
@@ -153,7 +153,7 @@ DC=8+Perception+Weight5+20⋅max⁡(0, min⁡(1, Price1000))
 | [不幸窃贼手套](Unlucky_Thief's_Gloves.md "不幸窃贼手套") | +2 |  |
 | [闪耀手套](Winkling_Gloves.md "闪耀手套") | +1 |  |
 
-[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")
+[吟游诗人激励](Bardic_Inspiration_(class_action).md "吟游诗人激励（职业动作）")
 
 ---
 *Source: [Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand)*

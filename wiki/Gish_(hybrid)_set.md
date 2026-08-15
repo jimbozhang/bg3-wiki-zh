@@ -24,7 +24,7 @@
 | 盗法者 | [主手远程](Main_Hand_Ranged.md "主手远程")（[长弓](Longbows.md "长弓")） | [奥术激荡](Arcane_Vehemence.md "奥术激荡")每[短休](Short_rest.md "短休")一次，当你用盗法者造成[重击](Critical_Hit.md "重击")时，恢复一个1环[法术位](Spell_Slot.md "法术位")。 |
 | 奇异通道之戒 | [戒指](Ring.md "戒指") | [奇异通道](Strange_Conduit.md "奇异通道")当[专注](Concentration.md "专注")于一个法术时，佩戴者的武器攻击造成额外1d4[心灵](Psychic.md "心灵")伤害。 |
 | 森林弯刀 | [主手近战](Main_Hand_Melee.md "主手近战")（[弯刀](Scimitars.md "弯刀")） | [近战施法者](Melee_Caster.md "近战施法者")受影响实体的[攻击掷骰](Attack_roll.md "攻击掷骰")改为添加其[施法关键属性](Ability_scores#Spellcasting_ability.md#施法关键属性)调整值，而非其敏捷[调整值](Ability_scores#Ability_score_modifiers.md#属性值调整值)。 |
-| 荆棘之刃 | [主手近战](Main_Hand_Melee.md "主手近战")（[弯刀](Scimitars.md "弯刀")） | [恶性连携](Poisonous_Synergy.md "恶性连携")当[专注](Concentration.md "专注")时，你的近战武器攻击造成额外1d4[中毒](Poison.md "中毒")伤害。[诱捕打击（近战）](Ensnaring_Strike_(Melee).md "诱捕打击（近战）")（ + + ）作为1环法术施放（恢复：[长休](Long_Rest.md "长休")。） |
+| 荆棘之刃 | [主手近战](Main_Hand_Melee.md "主手近战")（[弯刀](Scimitars.md "弯刀")） | [恶性连携](Poisonous_Synergy.md "恶性连携")当[专注](Concentration.md "专注")时，你的近战武器攻击造成额外1d4[毒素](Poison.md "毒素")伤害。[诱捕打击（近战）](Ensnaring_Strike_(Melee).md "诱捕打击（近战）")（ + + ）作为1环法术施放（恢复：[长休](Long_Rest.md "长休")。） |
 | 活力披风 | [披风](Cloak.md "披风") | [奥术生机](Arcane_Vivaciousness.md "奥术生机")在近战中施放[法术](Spells.md "法术")后，获得8点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
 
 ---

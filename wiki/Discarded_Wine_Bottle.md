@@ -2,11 +2,11 @@
 
 **丢弃的酒瓶**是一个常见的杂物物品，可用于尝试进行DC 15的[医药](Medicine.md "医药")检定，以获得[麦兹提尔大师的噩梦馈赠](Master_Metzil's_Karabasan's_Gift.md "麦兹提尔大师的噩梦馈赠")。
 
-一种强效麻痹性[中毒](Poison.md "中毒")
+一种强效麻痹性[毒素](Poison.md "毒素")
 
 ## 属性
 
-- [杂物](Miscellaneous.md "杂物")
+- [杂物物品](Miscellaneous.md "杂物")
 - 稀有度：普通
 - 重量：0.1 kg (0.2 lb)
 - 价格：1 gp

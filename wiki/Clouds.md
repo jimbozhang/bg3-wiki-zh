@@ -14,7 +14,7 @@
 
 | 地表 | 效果 |
 | --- | --- |
-| [死云术](Cloudkill_(cloud).md "Cloudkill (cloud)") | 每回合受到5d8⁠⁠[中毒](Poison.md "Poison")伤害。 |
+| [死云术](Cloudkill_(cloud).md "Cloudkill (cloud)") | 每回合受到5d8⁠⁠[毒素](Poison.md "Poison")伤害。 |
 | [爬行者粘液](Crawler_Mucus_(cloud).md "Crawler Mucus (cloud)") | 使区域内生物[中毒](Poisoned_(Condition).md "Poisoned (Condition)")并[麻痹](Paralysed_(Condition).md "Paralysed (Condition)") |
 | [黑暗术](Darkness_(cloud).md "Darkness (cloud)") | 使区域内生物[目盲](Blinded_(Condition).md "Blinded (Condition)")并阻挡远程攻击进出。 |
 | [卓尔毒药云](Drow_Poison_Cloud.md "Drow Poison Cloud") | 区域内生物可能[中毒](Poisoned_(Condition).md "Poisoned (Condition)")并陷入[沉睡](Sleeping_(Condition).md "Sleeping (Condition)") |
@@ -23,7 +23,7 @@
 | [加速孢子](Haste_Spores_(cloud).md "Haste Spores (cloud)") | 使区域内生物获得+2[护甲等级](Armour_Class.md "Armour Class")、双倍移动速度和一个额外动作。 |
 | [冰雾术](Ice_Cloud.md "Ice Cloud") | 对区域内生物造成10d6⁠⁠[寒冷](Cold.md "Cold")伤害。 |
 | [怨恨](Malice_(cloud).md "Malice (cloud)") | 区域内生物可能[中毒](Poisoned_(Condition).md "Poisoned (Condition)")并[目盲](Blinded_(Condition).md "Blinded (Condition)") |
-| [有毒烟雾](Noxious_Fumes.md "Noxious Fumes") | 每回合造成1d4⁠⁠[中毒](Poison.md "Poison") + 2d4⁠⁠[中毒](Poison.md "Poison")（体质豁免减半）伤害。 |
+| [有毒烟雾](Noxious_Fumes.md "Noxious Fumes") | 每回合造成1d4⁠⁠[毒素](Poison.md "Poison") + 2d4⁠⁠[毒素](Poison.md "Poison")（体质豁免减半）伤害。 |
 | [抚慰孢子](Pacifying_Spores_(cloud).md "Pacifying Spores (cloud)") | 阻止云内生物进行动作、附赠动作和反应。 |
 | [毒云](Poison_Cloud.md "Poison Cloud") | 使区域内生物有机会[中毒](Poisoned_(Condition).md "Poisoned (Condition)")。 |
 | [高等治疗药水](Potion_of_Greater_Healing_(cloud).md "Potion of Greater Healing (cloud)") | 恢复4d4+4⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "Burning (Condition)")。 |

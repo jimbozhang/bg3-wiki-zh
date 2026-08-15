@@ -133,7 +133,7 @@
 - [严厉之锤的薄雾护符](../Hammergrim_Mist_Amulet.md "Hammergrim Mist Amulet")：长休后可施放一次[云雾术](../Fog_Cloud.md "Fog Cloud")。
 - [黯狱头盔](../Helldusk_Helmet.md "Helldusk Helmet")：提供魔法黑暗视觉和目盲免疫。
 - [暗夜法官弯刀](../Justiciar's_Scimitar.md "Justiciar's Scimitar")：对抗遮蔽目标时，攻击掷骰具有优势。可使用[浸影打击](../Shadowsoaked_Blow.md "Shadowsoaked Blow")。
-- [地底国王之刃](../Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")：对抗遮蔽目标时，攻击掷骰具有优势。
+- [地脉迷城之王的匕首](../Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")：对抗遮蔽目标时，攻击掷骰具有优势。
 - [出敌不意](../Least_Expected.md "Least Expected")：遮蔽时提高[攻击掷骰](../Attack_rolls.md "Attack rolls")。
 - [半影护甲](../Penumbral_Armour.md "Penumbral Armour")：遮蔽时，[潜行](../Stealth.md "Stealth")检定获得+3加值。
 - [暮光戒指](../Ring_of_Twilight.md "Ring of Twilight")：遮蔽时，护甲等级获得+1加值。

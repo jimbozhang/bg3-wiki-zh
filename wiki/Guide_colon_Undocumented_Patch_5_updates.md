@@ -14,7 +14,7 @@
   - [1.1 动作经济](#动作经济)
   - [1.2 伤害机制简化](#伤害机制简化)
   - [1.3 物品稀有度与价格更改](#物品稀有度与价格更改)
-  - [1.4 杂项平衡更改](#杂项平衡更改)
+  - [1.4 杂物平衡更改](#杂物平衡更改)
 - [2 通用更改](#通用更改)
   - [2.1 法术更改](#法术更改)
   - [2.2 属性更改](#属性更改)
@@ -71,7 +71,7 @@
 - [破拳头盔](Fistbreaker_Helm.md "Fistbreaker Helm")：价格：60 gp / 荣誉模式420 gp
 - [轻声承诺](The_Whispering_Promise.md "The Whispering Promise")：价格：40 gp / 荣誉模式85 gp
 
-### 杂项平衡更改
+### 杂物平衡更改
 
 - [孤注一掷](Perilous_Stakes.md "Perilous Stakes")现在只能以盟友为目标。不能再对敌人施加简单的伤害[易伤](Vulnerability.md "Vulnerability")。
 

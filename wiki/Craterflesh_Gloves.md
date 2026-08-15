@@ -37,8 +37,8 @@ _关于扩大伤口：_
 
 - 扩大伤口实际上造成额外 2d6⁠⁠[力场](Force.md "Force")伤害，因为该伤害因[重击](Critical_Hit.md "Critical hit")而翻倍。
   - 当伤害添加到法术或徒手攻击时，战斗日志中不会将其列为扩大伤口。
-- 使用具有[投掷攻击](Thrown.md "Thrown")属性的武器进行[投掷](Throw.md "Throw")会额外激活一次扩大伤口。
-  - [元素劈砍](Elemental_Cleaver.md "Elemental Cleaver")或[投掷：闪电伤害](Throwing_colon__Lightning_Damage.md "Throwing: Lightning Damage")会额外激活一次扩大伤口。当两者结合时，会导致扩大伤口在重击投掷攻击上激活三次。
+- 使用具有[投掷](Thrown.md "投掷")属性的武器进行[投掷](Throw.md "Throw")会额外激活一次扩大伤口。
+  - [元素战刃](Elemental_Cleaver.md "Elemental Cleaver")或[投掷：闪电伤害](Throwing_colon__Lightning_Damage.md "Throwing: Lightning Damage")会额外激活一次扩大伤口。当两者结合时，会导致扩大伤口在重击投掷攻击上激活三次。
 
 ## 图库
 

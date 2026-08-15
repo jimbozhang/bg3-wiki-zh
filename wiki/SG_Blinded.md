@@ -15,7 +15,7 @@
 
 以下法术/动作可移除此状态组中的所有状态：
 
-- [恢复](Lesser_Restoration.md "恢复")
+- [次级恢复](Lesser_Restoration.md "次级恢复")
 - [治疗](Heal.md "治疗")
 
 ## 免疫

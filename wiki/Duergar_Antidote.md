@@ -1,6 +1,6 @@
 # 灰矮人解毒剂
 
-灰矮人解毒剂是一种实用型[药水](Potions.md "Potions")。可消除特定灰矮人毒药的效果，对[中毒](Poisoned.md "Poisoned")的[豁免检定](Saving_throw.md "Saving Throw")获得[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害获得[抗性](Resistance.md "Resistance")。
+灰矮人解毒剂是一种实用型[药水](Potions.md "Potions")。可消除特定灰矮人毒药的效果，对[中毒](Poisoned.md "Poisoned")的[豁免检定](Saving_throw.md "Saving Throw")获得[优势](Advantage.md "Advantage")，并对[毒素](Poison.md "Poison")伤害获得[抗性](Resistance.md "Resistance")。
 
 由稀有成分调制而成，若调配不当会加速饮用者的死亡。
 
@@ -29,7 +29,7 @@
 
 持续时间：10 驱散
 
-- 对[中毒](Poisoned.md "Poisoned")的[豁免检定](Saving_throw.md "Saving Throw")获得[优势](Advantage.md "Advantage")，并对[中毒](Poison.md "Poison")伤害获得[抗性](Resistance.md "Resistance")。
+- 对[中毒](Poisoned.md "Poisoned")的[豁免检定](Saving_throw.md "Saving Throw")获得[优势](Advantage.md "Advantage")，并对[毒素](Poison.md "Poison")伤害获得[抗性](Resistance.md "Resistance")。
 
 ## 获取地点
 

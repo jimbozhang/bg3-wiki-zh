@@ -1,6 +1,6 @@
 # HasVerbalComponent (法术标志)
 
-**HasVerbalComponent** 是一个 [法术标志](Spell_flag.md "法术标志")，用于指示一个动作是否需要言语组件才能执行。带有言语组件的动作可以被 [沉默](Silenced_(Condition).md "沉默 (状态)") 阻止。此标志用于大多数法术以及一些非施法动作，例如 [诗人激励](Bardic_Inspiration_(class_action).md "诗人激励 (职业动作)") 或 [请求协助](Call_for_Help.md "请求协助")。
+**HasVerbalComponent** 是一个 [法术标志](Spell_flag.md "法术标志")，用于指示一个动作是否需要言语组件才能执行。带有言语组件的动作可以被 [沉默](Silenced_(Condition).md "沉默 (状态)") 阻止。此标志用于大多数法术以及一些非施法动作，例如 [吟游诗人激励](Bardic_Inspiration_(class_action).md "吟游诗人激励 (职业动作)") 或 [请求协助](Call_for_Help.md "请求协助")。
 
 当使用 [超魔：默发法术](Metamagic_colon__Subtle_Spell.md "超魔：默发法术") 施放时，可以从适用的法术中移除此标志，允许在沉默状态下施放。
 
@@ -44,7 +44,7 @@
 | [放逐斩(近战)](Banishing_Smite_(Melee).md "放逐斩(近战)") | 5级法术 | + + | 武器 | 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰") | 正常武器伤害 + 5d10⁠[力场](Force.md "力场")施加 [流放](Banished_(Condition).md "流放 (状态)") |
 | [放逐斩(远程)](Banishing_Smite_(Ranged).md "放逐斩(远程)") | 5级法术 | + + | 武器 | 远程武器 [攻击掷骰](Attack_roll.md "攻击掷骰") | 正常武器伤害 + 5d10⁠[力场](Force.md "力场")施加 [流放](Banished_(Condition).md "流放 (状态)") |
 | [放逐术](Banishment.md "放逐术") | 4级法术 | + | 18米 (60尺) | [魅力](Charisma.md "魅力") [豁免](Saving_throws.md "豁免检定") | 施加 [流放](Banished_(Condition).md "流放 (状态)") |
-| [诗人激励（职业动作）](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）") | 动作 | + | 18米 (60尺) | - | 施加 [诗人激励](Bardic_Inspiration_(Condition).md "诗人激励 (状态)") |
+| [吟游诗人激励（职业动作）](Bardic_Inspiration_(class_action).md "吟游诗人激励（职业动作）") | 动作 | + | 18米 (60尺) | - | 施加 [吟游诗人激励](Bardic_Inspiration_(Condition).md "吟游诗人激励 (状态)") |
 | [树肤术](Barkskin.md "树肤术") | 2级法术 | + | 1.5米 (5尺) | - | 施加 [树肤术](Barkskin_(Condition).md "树肤术 (状态)") |
 | [备战枭熊](Battle-Ready_Owlbear.md "备战枭熊") | 动作 |  | 18米 (60尺) | - | 召唤 [披甲枭熊](Armoured_Owlbear.md "披甲枭熊") |
 | [希望信标](Beacon_of_Hope.md "希望信标") | 3级法术 | + | 自身 9米 (30尺) (半径) | - | 施加 [希望信标](Beacon_of_Hope_(Condition).md "希望信标 (状态)") |

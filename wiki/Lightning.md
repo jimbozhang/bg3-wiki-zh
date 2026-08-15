@@ -5,7 +5,7 @@
 **⁠ 闪电** 是游戏中的[伤害类型](Damage_type.md "Damage type")之一。
 
 - 对于所有闪电伤害来源，请参见 [Category:闪电伤害来源](Category_colon_Sources_of_Lightning_damage.md "Category:Sources of Lightning damage")。
-- 对于弱于闪电的生物，请参见 [Category:弱于闪电](Category_colon_Vulnerable_to_Lightning.md "Category:Vulnerable to Lightning")。
+- 对于易伤于闪电的生物，请参见 [Category:易伤于闪电](Category_colon_Vulnerable_to_Lightning.md "Category:Vulnerable to Lightning")。
 - 对于抵抗闪电的生物，请参见 [Category:抵抗闪电](Category_colon_Resistant_to_Lightning.md "Category:Resistant to Lightning")。
 - 对于免疫闪电的生物，请参见 [Category:免疫闪电](Category_colon_Immune_to_Lightning.md "Category:Immune to Lightning")。
 
@@ -42,7 +42,7 @@
 - [神圣打击：闪电（近战）](Divine_Strike_colon__Lightning_(Melee).md "Divine Strike: Lightning (Melee)")
 - [神圣打击：闪电（远程）](Divine_Strike_colon__Lightning_(Ranged).md "Divine Strike: Lightning (Ranged)")
 - [电气猛击](Electrified_Flail.md "Electrified Flail")
-- [元素劈砍（闪电）](Elemental_Cleaver_(lightning).md "Elemental Cleaver (lightning)")
+- [元素战刃（闪电）](Elemental_Cleaver_(lightning).md "Elemental Cleaver (lightning)")
 - [闪电灵光](Lightning_Aura.md "Lightning Aura")
 - [闪电吐息](Lightning_Breath.md "Lightning Breath")
 - [多重攻击（风元素）](Multiattack_(Air_Elemental).md "Multiattack (Air Elemental)")

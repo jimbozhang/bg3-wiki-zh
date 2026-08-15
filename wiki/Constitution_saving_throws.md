@@ -50,7 +50,7 @@
 
 | 名称 | 法术等级 | 效果 |
 | --- | --- | --- |
-| [毒气喷溅](Poison_Spray.md "毒气喷溅") | [法术](Spells.md "法术") | 1d12 [中毒](Poison.md "中毒") 伤害，在 5 级时增加到 2d12 [中毒](Poison.md "中毒")，在 10 级时增加到 3d12 [中毒](Poison.md "中毒")。对抗该法术的豁免检定可抵消伤害。 |
+| [毒气喷溅](Poison_Spray.md "毒气喷溅") | [法术](Spells.md "法术") | 1d12 [毒素](Poison.md "毒素") 伤害，在 5 级时增加到 2d12 [毒素](Poison.md "毒素")，在 10 级时增加到 3d12 [毒素](Poison.md "毒素")。对抗该法术的豁免检定可抵消伤害。 |
 | [疾病射线](Ray_of_Sickness.md "疾病射线") | [法术](Spells.md "法术") | 受影响实体变为 [中毒](Poisoned_(Condition).md "中毒 (状态)")。 |
 | [炽焰斩](Searing_Smite.md "炽焰斩") | [法术](Spells.md "法术") | 在 10 回合内，目标每回合受到 1d6 [火焰](Fire.md "火焰") 伤害，直到它成功通过 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |
 | [雷鸣波](Thunderwave.md "雷鸣波") | [法术](Spells.md "法术") | 受影响实体被推离施法方向。豁免检定可使伤害减半并抵消推动效果。 |
@@ -63,7 +63,7 @@
 | [雪雨暴](Sleet_Storm.md "雪雨暴") | [法术](Spells.md "法术") | 受影响实体必须成功通过豁免检定，否则其 [专注](Concentration.md "专注") 将被打断。 |
 | [臭云术](Stinking_Cloud.md "臭云术") | [法术](Spells.md "法术") | 受影响实体必须成功通过豁免检定，否则无法进行 [动作](Action.md "动作")。 |
 | [枯萎术](Blight.md "枯萎术") | [法术](Spells.md "法术") | 受影响实体受到 8d8 [黯蚀](Necrotic.md "黯蚀") 伤害。植物受到最大伤害，并且对抗豁免检定时具有 [劣势](Disadvantage.md "劣势")。对抗该法术的豁免检定可使伤害减半。 |
-| [死云术](Cloudkill.md "死云术") | [法术](Spells.md "法术") | 受影响实体受到 5d8 [中毒](Poison.md "中毒") 伤害。对抗该法术的豁免检定可使伤害减半。 |
+| [死云术](Cloudkill.md "死云术") | [法术](Spells.md "法术") | 受影响实体受到 5d8 [毒素](Poison.md "毒素") 伤害。对抗该法术的豁免检定可使伤害减半。 |
 | [寒冰锥](Cone_of_Cold.md "寒冰锥") | [法术](Spells.md "法术") | 受影响实体受到 8d8 [寒冷](Cold.md "寒冷") 伤害。对抗该法术的豁免检定可使伤害减半。 |
 | [疫病术](Contagion.md "疫病术") | [法术](Spells.md "法术") | 如果受影响实体在法术结束前三次 [豁免检定](Saving_throw.md "豁免检定") 失败，它将感染施法者选择的 [疾病](Contagion_Poisoned_(Condition).md "疫病中毒 (状态)")。 |
 | [湮灭波](Destructive_Wave.md "湮灭波") | [法术](Spells.md "法术") | 受影响实体受到 5d6 [雷鸣](Thunder.md "雷鸣") + 5d6 [光耀](Radiant.md "光耀") / 5d6 [黯蚀](Necrotic.md "黯蚀") 伤害并变为 [倒地](Prone_(Condition).md "倒地 (状态)")。对抗该法术的豁免检定可使伤害减半并抵消 [倒地](Prone_(Condition).md "倒地 (状态)")。 |
@@ -135,7 +135,7 @@
 | [天崩手套](Gloves_of_Belligerent_Skies.md "天崩手套") | 造成雷鸣、闪电或光耀伤害 | 无 DC | 受影响实体获得 [残响](Reverberation_(Condition).md "残响 (状态)") 2 回合。 |
 | [寒冬之握](Winter's_Clutches.md "寒冬之握") | 造成 [寒冷](Cold.md "寒冷") 伤害 | 无 DC | 受影响实体获得 [冷冻](Encrusted_with_Frost_(Condition).md "冷冻 (状态)") 2 回合。 |
 | [残缺的黯狱手套](Flawed_Helldusk_Gloves.md "残缺的黯狱手套") | 命中时进行 [徒手打击](Unarmed_Strike.md "徒手打击") | 13 | 受影响实体开始 [流血](Bleeding_(Condition).md "流血 (状态)") 2 回合。 |
-| [投毒者的手套](Poisoner's_Gloves.md "投毒者的手套") | 造成 [中毒](Poison.md "中毒") 伤害 | 13 | 受影响实体变为 [中毒](Poisoned_(Condition).md "中毒 (状态)") 2 回合。 |
+| [投毒者的手套](Poisoner's_Gloves.md "投毒者的手套") | 造成 [毒素](Poison.md "毒素") 伤害 | 13 | 受影响实体变为 [中毒](Poisoned_(Condition).md "中毒 (状态)") 2 回合。 |
 | [黯狱手套](Helldusk_Gloves.md "黯狱手套") | 命中时进行 [徒手打击](Unarmed_Strike.md "徒手打击") | 15 | 受影响实体开始 [流血](Bleeding_(Condition).md "流血 (状态)") 2 回合。 |
 
 ## 足部装备
@@ -148,7 +148,7 @@
 
 ## 涂层
 
-所有涂层也可投掷以创建应用效果的 AoE 地表或云雾，类似于手雷类物品。AoE 效果的 DC 与涂层的 DC 可能存在差异？
+所有涂层也可投掷以创建应用效果的范围效果地表或云雾，类似于手雷类物品。范围效果的 DC 与涂层的 DC 可能存在差异？
 
 | 名称 | 可制作 | DC | 效果 |
 | --- | --- | --- | --- |

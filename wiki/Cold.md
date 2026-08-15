@@ -41,7 +41,7 @@
 
 - [神圣打击：寒冷（近战）](Divine_Strike_colon__Cold_(Melee).md "神圣打击：寒冷（近战）")
 - [神圣打击：寒冷（远程）](Divine_Strike_colon__Cold_(Ranged).md "神圣打击：寒冷（远程）")
-- [元素劈砍（寒冷）](Elemental_Cleaver_(cold).md "元素劈砍（寒冷）")
+- [元素战刃（寒冷）](Elemental_Cleaver_(cold).md "元素战刃（寒冷）")
 - [三棱冰柱](Explosive_Icicle.md "三棱冰柱")
 - [夜刃](Frigid_Blade.md "夜刃")
 - [霜冻吐息](Frost_Breath.md "霜冻吐息")
@@ -72,7 +72,7 @@
 - [夏之长袍](Robe_of_Summer.md "夏之长袍")、[冰噬长袍](Icebite_Robe.md "冰噬长袍")和[海浪之母的长袍](Wavemother's_Robe.md "海浪之母的长袍")：获得寒冷[抗性](Resistance.md "抗性")。
 - [元素强化项链](Necklace_of_Elemental_Augmentation.md "元素强化项链")：当使用[戏法](Cantrip.md "戏法")造成寒冷伤害时，将[施法调整值](Spellcasting_Modifier.md "施法调整值")加到伤害上。
 - [悼霜](Mourning_Frost.md "悼霜")：造成⁠寒冷伤害时，持用者额外造成 1⁠⁠寒冷伤害。
-- 湿润的地表，如[水](Water_(surface).md "水（地表）")、[油](Oil.md "油")、[强酸](Acid_(surface).md "强酸（地表）")等，在受到寒冷伤害时会暂时变为[冰](Ice_(surface).md "冰（地表）")，但总会融化回[水](Water_(surface).md "水（地表）")。
+- 濡湿的地表，如[水](Water_(surface).md "水（地表）")、[油](Oil.md "油")、[强酸](Acid_(surface).md "强酸（地表）")等，在受到寒冷伤害时会暂时变为[冰](Ice_(surface).md "冰（地表）")，但总会融化回[水](Water_(surface).md "水（地表）")。
 
 ---
 *Source: [Cold](https://bg3.wiki/wiki/Cold)*

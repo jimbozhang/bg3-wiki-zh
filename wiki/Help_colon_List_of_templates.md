@@ -85,7 +85,7 @@ BG3Wiki 上使用的**模板列表**。
   - [13.4 标签页](#标签页)
 - [14 地点](#地点)
 - [15 消息框模板](#消息框模板)
-- [16 杂项](#杂项)
+- [16 杂物](#杂物)
 - [17 导航框](#导航框)
 - [18 通知](#通知)
   - [18.1 内部](#内部)
@@ -153,10 +153,10 @@ BG3Wiki 上使用的**模板列表**。
 
 ## 骰子掷骰
 
-- {{[属性检定](Template_colon_Ability_check.md "模板:属性检定")}}: 以链接形式显示指定的属性检定，带有指定的难度等级和 d20 图标。
+- {{[属性检定](Template_colon_Ability_check.md "模板:属性检定")}}: 以链接形式显示指定的属性检定，带有指定的难度等级和 20面骰 图标。
 - {{[优势](Template_colon_Advantage.md "模板:优势")}}: 格式化文本以显示带有图标的“优势”链接
 - {{[攻击掷骰](Template_colon_Attack_roll.md "模板:攻击掷骰")}}: 格式化文本以显示文本“攻击掷骰”，带有图标。
-- {{[d20](Template_colon_D20.md "模板:D20")}}: 显示一个 d20 骰子。
+- {{[20面骰](Template_colon_20面骰.md "模板:20面骰")}}: 显示一个 20面骰 骰子。
 - {{[骰子图标](Template_colon_DieIcon.md "模板:骰子图标")}}: 添加一个骰子图标。
 - {{[劣势](Template_colon_Disadvantage.md "模板:劣势")}}: 格式化文本以显示带有图标的“劣势”链接。
 - {{[豁免检定](Template_colon_Saving_Throw.md "模板:豁免检定")}}: 显示指定的豁免检定，可选指定的难度等级。
@@ -339,7 +339,7 @@ BG3Wiki 上使用的**模板列表**。
 - {{[建设中](Template_colon_Under_construction.md "模板:建设中")}}
 - {{[需要验证](Template_colon_Verification_needed.md "模板:需要验证")}}
 
-## 杂项
+## 杂物
 
 - {{[好感度](Template_colon_Approval.md "模板:好感度")}}: 格式化文本以显示伙伴的好感度，带有图标。
 - {{[营地补给](Template_colon_Camp_Supplies.md "模板:营地补给")}}: 显示营地补给图标和数量，可选带文本或链接。
@@ -383,7 +383,7 @@ BG3Wiki 上使用的**模板列表**。
 - {{[状态页面](Template_colon_Condition_page.md "模板:状态页面")}}†: 用于状态。
 - {{[伤害类型页面](Template_colon_Damage_type_page.md "模板:伤害类型页面")}}: 用于伤害类型。
 - {{[装备页面](Template_colon_Equipment_page.md "模板:装备页面")}}: 用于装备。
-- {{[杂项物品页面](Template_colon_Misc_item_page.md "模板:杂项物品页面")}}: 用于杂项物品。
+- {{[杂物物品页面](Template_colon_Misc_item_page.md "模板:杂物物品页面")}}: 用于杂物物品。
 - {{[法术页面](Template_colon_Spell_page.md "模板:法术页面")}}†: 用于法术页面。
 - {{[武器动作页面](Template_colon_Weapon_action_page.md "模板:武器动作页面")}}: 用于武器动作。
 - {{[武器页面](Template_colon_Weapon_page.md "模板:武器页面")}}†: 用于武器页面。

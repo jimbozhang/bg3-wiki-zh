@@ -36,7 +36,7 @@
 
 ## 背景
 
-**散塔林会**是一个不择手段的佣兵组织，通过走私和幕后交易培植势力。他们曾是[灾祸](Bane_(God).md)>的邪教的一部分。其领导层被认为在1383 DR年与其位于[散提尔堡](https://forgottenrealms.fandom.com/wiki/Zhentil_Keep)的总部一同被摧毁，直到[佩雷鬼魂](https://forgottenrealms.fandom.com/wiki/Pereghost)的崛起才导致其复苏。<sup>[\[1\]](#cite_note-1)</sup>
+**散塔林会**是一个不择手段的佣兵组织，通过走私和幕后交易培植势力。他们曾是[班恩](Bane_(God).md)>的邪教的一部分。其领导层被认为在1383 DR年与其位于[散提尔堡](https://forgottenrealms.fandom.com/wiki/Zhentil_Keep)的总部一同被摧毁，直到[佩雷鬼魂](https://forgottenrealms.fandom.com/wiki/Pereghost)的崛起才导致其复苏。<sup>[\[1\]](#cite_note-1)</sup>
 
 “
 |

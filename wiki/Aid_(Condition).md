@@ -20,9 +20,9 @@
 ## 支援术的来源
 
 - [支援术卷轴](Scroll_of_Aid.md "支援术卷轴")
-- [至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助")
+- [至上真神的护符：支援术](Absolute's_Talisman_colon__Aid.md "至上真神的护符：支援术")
 - [支援术](Aid.md "支援术")
-- [卡利德的礼物：协助](Khalid's_Gift_colon__Aid.md "卡利德的礼物：协助")
+- [卡利德的礼物：支援术](Khalid's_Gift_colon__Aid.md "卡利德的礼物：支援术")
 - [奉献之盾：协助](Shield_of_Devotion_colon__Aid.md "奉献之盾：协助")
 
 ## 拥有支援术的生物

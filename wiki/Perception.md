@@ -45,7 +45,7 @@
 
 世界或环境察觉检定用于确定玩家角色是否成功检测到[陷阱](Traps.md "陷阱")、隐藏的容器或机制、伏击或环境中的其他细节。这些是常规的[技能检定](Skill_Check.md "技能检定")，当玩家角色靠近可检测的事物时会自动执行。
 
-拥有[地城探索者：察觉](Dungeon_Delver_colon__Perception.md "地城探索者：察觉")专长（来自[地牢探索者](Dungeon_Delver.md "地牢探索者")专长）的角色在这些检定上具有[优势](Advantage.md "优势")。
+拥有[地牢探索者：察觉](Dungeon_Delver_colon__Perception.md "地牢探索者：察觉")专长（来自[地牢探索者](Dungeon_Delver.md "地牢探索者")专长）的角色在这些检定上具有[优势](Advantage.md "优势")。
 
 _注意：_ 这些有时被错误地称为被动察觉检定，这在D&D桌游中通常是，但在《博德之门3》中，它们被实现为自动掷骰。在游戏引擎中，它们被称为 `KnowledgeCheck`。
 
@@ -53,7 +53,7 @@ _注意：_ 这些有时被错误地称为被动察觉检定，这在D&D桌游�
 
 ### 被动察觉
 
-[被动检定](Passive_checks.md "被动检定")是不涉及主动d20掷骰的属性或技能检定。相反，结果直接由公式确定。对于被动察觉检定：
+[被动检定](Passive_checks.md "被动检定")是不涉及主动20面骰掷骰的属性或技能检定。相反，结果直接由公式确定。对于被动察觉检定：
 
 10 + [感知](Wisdom.md "感知")调整值 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")（如果熟练）+ 优势调整值 +（任何其他调整值）
 
@@ -89,7 +89,7 @@ _注意：_ 这些有时被错误地称为被动察觉检定，这在D&D桌游�
 | --- | --- | --- |
 | [至尊噬咬](Ascendant_Bite.md "至尊噬咬") | -1（目标）/ +1（使用者） | 所有属性检定 |
 | [星界知识：感知](Astral_Knowledge_colon__Wisdom.md "星界知识：感知") | 熟练项 |  |
-| [诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）") / [战斗激励](Combat_Inspiration.md "战斗激励") | +1d6 / +1d8 / +1d10 | 下一次属性检定 |
+| [吟游诗人激励](Bardic_Inspiration_(class_action).md "吟游诗人激励（职业动作）") / [战斗激励](Combat_Inspiration.md "战斗激励") | +1d6 / +1d8 / +1d10 | 下一次属性检定 |
 | [扭曲幸运：属性检定加值](Bend_Luck_colon__Ability_Check_Bonus.md "扭曲幸运：属性检定加值") | +1d4 | 所有属性检定 |
 | [降咒：感知劣势](Bestow_Curse_colon__Wisdom_Disadvantage.md "降咒：感知劣势") | 劣势 | 所有感知属性检定 |
 | [强化魔法：恩赐](Bolstering_Magic_colon__Boon.md "强化魔法：恩赐") | +1d4 | 所有属性检定 |

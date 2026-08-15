@@ -4,9 +4,9 @@ Heavy and slick with sweat and blood, this arm has a tendency to slip out of you
 
 ## Properties
 
-- [Miscellaneous Items](Miscellaneous.md "杂物")
+- [杂物物品](Miscellaneous.md "杂物")
 - Rarity: Common
-- Weight: 8 kg (16 lb)
+- 重量: 8 kg (16 lb)
 - Price: 1 gp
 
 # Variant
@@ -17,9 +17,9 @@ Blood is still slowly trickling down this arm's serverd fingers.
 
 ## Properties
 
-- [Miscellaneous Items](Miscellaneous.md "杂物")
+- [杂物物品](Miscellaneous.md "杂物")
 - Rarity: Common
-- Weight: 8 kg (16 lb)
+- 重量: 8 kg (16 lb)
 - Price: 1 gp
 
 ## Where to find

@@ -19,7 +19,7 @@
 | 1d8⁠⁠[火焰](Fire.md "火焰") | [神圣打击：火焰（近战）](Divine_Strike_colon__Fire_(Melee).md "神圣打击：火焰（近战）") [神圣打击：火焰（远程）](Divine_Strike_colon__Fire_(Ranged).md "神圣打击：火焰（远程）") |  |
 | 1d8⁠⁠[闪电](Lightning.md "闪电") | [神圣打击：闪电（近战）](Divine_Strike_colon__Lightning_(Melee).md "神圣打击：闪电（近战）") [神圣打击：闪电（远程）](Divine_Strike_colon__Lightning_(Ranged).md "神圣打击：闪电（远程）") |  |
 | [风暴领域](Tempest_Domain.md "风暴领域") | 1d8⁠⁠[雷鸣](Thunder.md "雷鸣") | [神圣打击：雷鸣（近战）](Divine_Strike_colon__Thunder_(Melee).md "神圣打击：雷鸣（近战）") [神圣打击：雷鸣（远程）](Divine_Strike_colon__Thunder_(Ranged).md "神圣打击：雷鸣（远程）") |
-| [诡术领域](Trickery_Domain.md "诡术领域") | 1d8⁠⁠[中毒](Poison.md "中毒") | [神圣打击：中毒（近战）](Divine_Strike_colon__Poison_(Melee).md "神圣打击：中毒（近战）") [神圣打击：中毒（远程）](Divine_Strike_colon__Poison_(Ranged).md "神圣打击：中毒（远程）") |
+| [诡术领域](Trickery_Domain.md "诡术领域") | 1d8⁠⁠[毒素](Poison.md "毒素") | [神圣打击：中毒（近战）](Divine_Strike_colon__Poison_(Melee).md "神圣打击：中毒（近战）") [神圣打击：中毒（远程）](Divine_Strike_colon__Poison_(Ranged).md "神圣打击：中毒（远程）") |
 | [战争领域](War_Domain.md "战争领域") | 1d8⁠⁠[武器](Weapon.md "武器") | [神圣打击：武器（近战）](Divine_Strike_colon__Weapon_(Melee).md "神圣打击：武器（近战）") [神圣打击：武器（远程）](Divine_Strike_colon__Weapon_(Ranged).md "神圣打击：武器（远程）") |
 
 ## 使用神圣打击

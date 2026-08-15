@@ -1,4 +1,4 @@
-# Talk:Items
+# Talk:物品
 
 ## objects divided by act
 

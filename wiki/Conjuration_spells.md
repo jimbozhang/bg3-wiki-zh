@@ -1,6 +1,6 @@
 # 咒法学派
 
-本页面介绍魔法学派的法术。关于副职，请参见[咒法学院](Conjuration_School.md "咒法学院")。
+本页面介绍魔法学派的法术。关于副职，请参见[咒法学派](Conjuration_School.md "咒法学派")。
 
 **咒法学派**是[法术](Spells.md "法术")的一个学派。
 
@@ -16,7 +16,7 @@
 
 咒法魔法往往围绕召唤生物和物体以及传送展开。
 
-[咒法学院](Conjuration_School.md "咒法学院")是[法师](Wizard.md "法师")的一个专注于咒法法术的副职。
+[咒法学派](Conjuration_School.md "咒法学派")是[法师](Wizard.md "法师")的一个专注于咒法法术的副职。
 
 ## 通过职业或卷轴获得的咒法法术列表
 
@@ -24,7 +24,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [酸液飞溅](Acid_Splash.md "酸液飞溅") | 戏法 |  |  | - | 18米 / 60英尺 / 2米 / 7英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 1d6⁠[强酸](Acid.md "强酸") |
 | [法师之手](Mage_Hand.md "法师之手") | 戏法 |  |  | - | 18米 / 60英尺 | - | - |
-| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3米 / 10英尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[中毒](Poison.md "中毒") |
+| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3米 / 10英尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[毒素](Poison.md "毒素") |
 | [燃火术](Produce_Flame.md "燃火术") | 戏法 |  |  | 长休 | 自身 | - | 1d8⁠[火焰](Fire.md "火焰") |
 | [哈达之臂](Arms_of_Hadar.md "哈达之臂") | 1 |  |  | 1回合 | 自身 / 3米 / 10英尺（半径） | [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定") | 2d6⁠[黯蚀](Necrotic.md "黯蚀") |
 | [诱捕攻击](Ensnaring_Strike.md "诱捕攻击") | 1 |  |  | 10回合 | - | [攻击掷骰](Attack_roll.md "攻击掷骰") [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定") | 正常武器伤害 / 1d6⁠[穿刺](Piercing.md "穿刺") |
@@ -50,7 +50,7 @@
 | [艾伐黑触手](Evard's_Black_Tentacles.md "艾伐黑触手") | 4 |  |  | - | 18米 / 60英尺 / 6米 / 20英尺（半径） | [力量](Strength.md "力量") [豁免](Saving_throws.md "豁免检定") | 3d6⁠[钝击](Bludgeoning.md "钝击") |
 | [贪婪藤蔓](Grasping_Vine.md "贪婪藤蔓") | 4 |  |  | - | 9米 / 30英尺 | - | - |
 | [信仰守卫](Guardian_of_Faith.md "信仰守卫") | 4 |  |  | - | 9米 / 30英尺 | - | - |
-| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18米 / 60英尺 | - | 5d8⁠[中毒](Poison.md "中毒") |
+| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18米 / 60英尺 | - | 5d8⁠[毒素](Poison.md "毒素") |
 | [召唤元素生物](Conjure_Elemental.md "召唤元素生物") | 5 |  |  | - | 18米 / 60英尺 | - | - |
 | [虫群瘟疫](Insect_Plague.md "虫群瘟疫") | 5 |  |  | - | 18米 / 60英尺 / 6米 / 20英尺（半径） | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 4d10⁠[穿刺](Piercing.md "穿刺") |
 | [秘法门](Arcane_Gate.md "秘法门") | 6 |  |  | - | 18米 / 60英尺 | - | - |

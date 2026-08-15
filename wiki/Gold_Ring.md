@@ -28,7 +28,7 @@ A date was once engraved on the inside of this ring, but most of it has long sin
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 
@@ -48,7 +48,7 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 
@@ -68,7 +68,7 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 
@@ -88,7 +88,7 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 
@@ -108,7 +108,7 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 
@@ -128,7 +128,7 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 
@@ -148,7 +148,7 @@ Expertly formed and finished, this ring catches the attention of admirers and th
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 
@@ -168,7 +168,7 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 
@@ -188,7 +188,7 @@ Multiple amethysts fresh off the boat from Chult line this ring's band.
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 
@@ -208,7 +208,7 @@ Multiple amethysts fresh off the boat from Chult line this ring's band.
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 20 gp
 

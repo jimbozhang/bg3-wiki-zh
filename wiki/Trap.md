@@ -51,7 +51,7 @@
 
 ## 陷阱位置
 
-除了上述之外，游戏中还有多个地点具有独特的陷阱类型，这些类型在其他地方不会出现。这些陷阱可能因豁免检定失败而造成独特的状态，有时它们本身只对某种类型的伤害脆弱，对所有其他伤害具有抗性。不过，它们可以像游戏中的所有其他陷阱一样被解除。
+除了上述之外，游戏中还有多个地点具有独特的陷阱类型，这些类型在其他地方不会出现。这些陷阱可能因豁免检定失败而造成独特的状态，有时它们本身只对某种类型的伤害易伤，对所有其他伤害具有抗性。不过，它们可以像游戏中的所有其他陷阱一样被解除。
 
 _在[第一幕](Act_One.md "Act One")地点：_
 
@@ -130,8 +130,8 @@ _在[第三幕](Act_Three.md "Act Three")地点：_
 ## 相关特性
 
 - [地牢探索者](Dungeon_Delver.md "Dungeon Delver")专长，包含两个部分：
-  - [地城探索者：察觉](Dungeon_Delver_colon__Perception.md "Dungeon Delver: Perception")在探测陷阱的察觉检定上授予[优势](Advantage.md "Advantage")
-  - [地城探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "Dungeon Delver: Resist Traps")在对抗陷阱的豁免检定上授予[优势](Advantage.md "Advantage")，并使其伤害减半。
+  - [地牢探索者：察觉](Dungeon_Delver_colon__Perception.md "Dungeon Delver: Perception")在探测陷阱的察觉检定上授予[优势](Advantage.md "Advantage")
+  - [地牢探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "Dungeon Delver: Resist Traps")在对抗陷阱的豁免检定上授予[优势](Advantage.md "Advantage")，并使其伤害减半。
 
 ## 另见
 

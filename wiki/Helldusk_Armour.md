@@ -47,7 +47,7 @@
 
 _关于地狱惩戒：_
 
-- **地狱惩戒**说明它会施加[燃烧](Burning_(Condition).md "Burning (Condition)")，但实际上它施加的是\_(Condition)[奥索尼克燃烧](Burning_(Orthonic)_(Condition).md "Burning (Orthonic) (Condition)")。
+- **地狱惩戒**说明它会施加[燃烧](Burning_(Condition).md "Burning (Condition)")，但实际上它施加的是\_(状态)[奥索尼克燃烧](Burning_(Orthonic)_(Condition).md "Burning (Orthonic) (Condition)")。
 
 ## 错误
 

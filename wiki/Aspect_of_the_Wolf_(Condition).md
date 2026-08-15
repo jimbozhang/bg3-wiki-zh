@@ -2,7 +2,7 @@
 
 **狼之面貌**
 
-- 受影响实体在靠近野蛮人时，获得+[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")加值至[隐匿](Stealth.md "隐匿")[隐匿](Stealth.md "隐匿")。
+- 受影响实体在靠近野蛮人时，获得+[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")加值至[隐匿检定](Stealth.md "隐匿")。
 
 ## 属性
 
@@ -12,7 +12,7 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| 狼之面貌 | 受影响实体在靠近野蛮人时，获得+[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")加值至[隐匿](Stealth.md "隐匿")[隐匿](Stealth.md "隐匿")。 |
+| 狼之面貌 | 受影响实体在靠近野蛮人时，获得+[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")加值至[隐匿检定](Stealth.md "隐匿")。 |
 | [狼之面貌灵光](Aspect_of_the_Wolf_Aura_(Condition).md "狼之面貌灵光 (状态)") | 受影响实体及附近盟友获得+[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")加值至[隐匿](Stealth.md "隐匿")检定。 |
 
 ## 拥有狼之面貌的生物
@@ -23,7 +23,7 @@ _维基数据库中未定义_
 
 | 状态 | 效果 |
 | --- | --- |
-| 狼之面貌 | 受影响实体在靠近野蛮人时，获得+[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")加值至[隐匿](Stealth.md "隐匿")[隐匿](Stealth.md "隐匿")。 |
+| 狼之面貌 | 受影响实体在靠近野蛮人时，获得+[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")加值至[隐匿检定](Stealth.md "隐匿")。 |
 | [狼之面貌灵光](Aspect_of_the_Wolf_Aura_(Condition).md "狼之面貌灵光 (状态)") | 受影响实体及附近盟友获得+[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")加值至[隐匿](Stealth.md "隐匿")检定。 |
 
 - 受影响实体及附近盟友获得+[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")加值至[隐匿](Stealth.md "隐匿")检定。

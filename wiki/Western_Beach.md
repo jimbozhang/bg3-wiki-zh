@@ -51,8 +51,8 @@
 只有当[铁手氏族](Clan_Ironhand.md "铁手氏族")的侏儒在[第一幕](Act_One.md "第一幕")和[第二幕](Act_Two.md "第二幕")的事件中幸存下来时，才能探索地窖。如果他们在[复仇之炉](Grymforge.md "复仇之炉")被杀或在[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")中丧生，洞口会被无法移动的巨石堵住，洞穴将无法进入。
 
 - 在 X: 46 Y: 67 处躺着一具[难民尸体](Garrett.md "加勒特")，可以通过[死者交谈](Speak_with_Dead.md "死者交谈")进行审问。他声称自己是被一名[弗格·德罗戈](Ferg_Drogher.md "弗格·德罗戈")谋杀的，该商人想购买他的珍贵戒指。与弗格进行某些对话选择可以揭示他确实是尸体所说的那个杀手商人。可以从尸体上搜刮到一枚[无宝石戒指](Gemless_Ring.md "无宝石戒指")，该戒指可以与从弗格处购买或偷来的宝石组合成一枚普通戒指。
-- 在 X: 32 Y: 45 处的岩石岩架提供了一个便利的点，可以穿越到[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")桥梁周围的脚手架——通过跳跃、飞行或使用任何空间移动手段，如[迷踪步](Misty_Step.md "迷踪步")。一旦到达飞龙岩要塞，[南翼检查点](South_Span_Checkpoint.md "南翼检查点")的守卫会允许队伍自由往返，即使最初从未与[检查点巡逻队](Edwynna.md "埃德温娜")进行对话。
-- 在 X: 3 Y: 71 处（[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")桥下）是[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")下方洞穴的出口。要靠近并进入，需要移开几块巨石。洞口附近，地上散落着一些[珍品](Valuables.md "珍品")。
+- 在 X: 32 Y: 45 处的岩石岩架提供了一个便利的点，可以穿越到[飞龙关](Wyrm's_Crossing.md "飞龙关")桥梁周围的脚手架——通过跳跃、飞行或使用任何空间移动手段，如[迷踪步](Misty_Step.md "迷踪步")。一旦到达飞龙关，[南翼检查点](South_Span_Checkpoint.md "南翼检查点")的守卫会允许队伍自由往返，即使最初从未与[检查点巡逻队](Edwynna.md "埃德温娜")进行对话。
+- 在 X: 3 Y: 71 处（[飞龙关](Wyrm's_Crossing.md "飞龙关")桥下）是[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")下方洞穴的出口。要靠近并进入，需要移开几块巨石。洞口附近，地上散落着一些[珍品](Valuables.md "珍品")。
 
 ### 西坡
 
@@ -65,7 +65,7 @@
 - 在 X: -118 Y: 103 处的破损雕像附近，开始了一个真正的障碍赛道。这里的道路被来自[通风口](Vent.md "通风口")的[Steam云服务](Steam_Cloud.md "Steam云服务")覆盖，隐藏着 5 个[爆破地雷](Blast_Mine.md "爆破地雷")和几条触发地雷的[绊绳](Tripwire.md "绊绳")。这里的绊绳需要 DC 18 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")才能解除，而不是常规的 DC 10。几具新鲜的尸体散落在各处，但没有一具可以通过[死者交谈](Speak_with_Dead.md "死者交谈")进行审问。
 - 在 X: -141 Y: 73 处，队伍可以找到[濒死的石头领主暴徒](Dying_Stone_Lord_Thug.md "濒死的石头领主暴徒")。他背靠着低矮的树篱坐着，一把刀深插在他的内脏里。靠近他时，队伍可以与暴徒交谈，但只能眼睁睁地看着他在说几句话后不可避免地死去。
 
-然而，[奥林](Orin.md "奥林")可能会选择[濒死的石头领主暴徒](Dying_Stone_Lord_Thug.md "濒死的石头领主暴徒")作为伪装来威胁队伍。<sup>[\[1\]](#cite_note-1)</sup> 在这种情况下，真正的暴徒尸体稍后可以在[下城区](Lower_City.md "下城区")的[巴尔神殿](Bhaal_Temple.md "巴尔神殿")中找到。
+然而，[腥红奥林](Orin.md "腥红奥林")可能会选择[濒死的石头领主暴徒](Dying_Stone_Lord_Thug.md "濒死的石头领主暴徒")作为伪装来威胁队伍。<sup>[\[1\]](#cite_note-1)</sup> 在这种情况下，真正的暴徒尸体稍后可以在[下城区](Lower_City.md "下城区")的[巴尔神殿](Bhaal_Temple.md "巴尔神殿")中找到。
 如果是这种情况，与暴徒的对话会更长、更有意义。在整个对话过程中，玩家角色会进行一次被动 DC 20 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")。如果成功，他们会感觉到垂死的暴徒不知为何似乎在享受他悲惨的[重伤](Gravely_Wounded_(Condition).md "重伤（状态）")状态。无论玩家角色选择说什么或做什么，在三到四句话之后，奥林会恢复其真实外观并传送离开。
 
 ### 洞穴通道与隐蔽海湾
@@ -109,7 +109,7 @@
 
 - [飞龙岩监狱](Wyrm's_Rock_Prison.md "飞龙岩监狱")
 - [公会大厅](Guildhall.md "公会大厅")
-- [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
+- [飞龙关](Wyrm's_Crossing.md "飞龙关")
 - [角铁地窖](Angleiron's_Cellar.md "角铁地窖")
 - [慈爱神殿地下区域](Open_Hand_Temple_Underground_Area.md "慈爱神殿地下区域")
 
@@ -140,7 +140,7 @@
 
 ### 其他
 
-- [奥林](Orin.md "奥林")
+- [腥红奥林](Orin.md "腥红奥林")
 - [难民尸体](Garrett.md "加勒特")<sup>[\[6\]](#cite_note-SwD-6)</sup>
 
 ## 战利品
@@ -171,7 +171,7 @@
 1. [↑](#cite_ref-5) 具有[罪犯](Criminal.md "罪犯")背景的角色的两个激励点是互斥的。
 1. ↑ [6.0](#cite_ref-SwD_6-0) [6.1](#cite_ref-SwD_6-1) [6.2](#cite_ref-SwD_6-2) 可用于[死者交谈](Speak_with_Dead.md "死者交谈")
 1. [↑](#cite_ref-7) 审问维利西亚的尸体时，她承认自己实际上是[竖琴手](Harpers.md "竖琴手")，潜入公会以挖掘关于石头领主的信息。
-1. [↑](#cite_ref-8) 位于 X: -215 Y: 120。可用作[护盾](Shields_(equipment).md)
+1. [↑](#cite_ref-8) 位于 X: -215 Y: 120。可用作[盾牌](Shields_(equipment).md)
 
 ---
 *Source: [Western Beach](https://bg3.wiki/wiki/Western_Beach)*

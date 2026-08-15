@@ -89,12 +89,12 @@
 
 ### 武器与相关物品
 
-除其他好处外，以下物品最多可增加+5的重击几率（在d20上掷出15或更高）
+除其他好处外，以下物品最多可增加+5的重击几率（在20面骰上掷出15或更高）
 
 - [刺客短剑](Assassin's_Shortsword.md "刺客短剑") - 在[优雅布衣](The_Graceful_Cloth.md "优雅布衣")可用之前，对非半身人有用，因其提供隐匿检定的优势
 - [嗜血](Bloodthirst.md "嗜血") - 一旦可用，优先于[黑缕盾牌](Gloomstrand_Shield.md "黑缕盾牌")<sup>[\[7\]](#cite_note-7)</sup>放在第二手，因其提供重击加值
 - [骨刺手套](Bonespike_Gloves.md "骨刺手套") - 一旦可用，优先用于对付抵抗[穿刺](Piercing.md "穿刺")伤害的敌人（例如，[钢铁卫士](Steel_Watcher.md "钢铁卫士")）
-- [幽暗地域之王的匕首](Knife_of_the_Undermountain_King.md "幽暗地域之王的匕首") - 一旦可用，优先用于其（[重击](Critical_Hit.md "重击")）加值，且使用者拥有优雅布衣后，不再需要刺客短剑
+- [地脉迷城之王的匕首](Knife_of_the_Undermountain_King.md "地脉迷城之王的匕首") - 一旦可用，优先用于其（[重击](Critical_Hit.md "重击")）加值，且使用者拥有优雅布衣后，不再需要刺客短剑
 - [射手帽](Marksmanship_Hat.md "射手帽") - +1命中<sup>[\[8\]](#cite_note-8)</sup>
 - [东倒西歪](Punch-Drunk_Bastard.md "东倒西歪") - 如果未躲藏（例如，已在战斗中且[附赠动作](Actions.md#Resources "动作")已用完），对（远程）攻击提供[优势](Advantage.md "优势")很有用
 - [沙洛佛克的角盔](Sarevok's_Horned_Helmet.md "沙洛佛克的角盔") - 一旦可用，优先于其他[头盔](Helmets.md "头盔")，因其提供重击加值和对[恐慌](Frightened_(Condition).md "恐慌（状态）")的免疫

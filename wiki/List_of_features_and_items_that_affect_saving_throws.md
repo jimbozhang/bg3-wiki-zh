@@ -65,7 +65,7 @@
 
 - [盾牌大师 (专长)](Shield_Master_(Feat).md) - 挥舞[盾牌](Shields.md "Shields")时，敏捷豁免+2。如果法术强制你进行敏捷豁免，你可以使用你的[反应](Actions.md#Reactions "Actions")来减少效果伤害。豁免失败时，你只承受一半伤害。豁免成功时，你不受任何伤害，即使你通常会承受伤害。
 - [守护灵光](Aura_of_Protection.md "Aura_of Protection") - 拥有此灵光的[圣武士](Paladin.md "Paladin")周围3米/10英尺半径内的所有盟友，获得等于圣武士魅力[属性值](Ability_Scores.md "属性值")的豁免加值。
-- [诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)") - [吟游诗人防御](Bardic_Defence.md "Bardic Defence")的目标，下一次豁免检定获得1d6加值。
+- [吟游诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)") - [吟游诗人防御](Bardic_Defence.md "Bardic Defence")的目标，下一次豁免检定获得1d6加值。
 - [战斗激励](Combat_Inspiration.md "Combat Inspiration") - [英勇防御](Valiant_Defence.md "Valiant Defence")为施法者下一次豁免检定提供1d6加值。
 - [魔法感知](Magic_Awareness.md "Magic Awareness") - [野魔法野蛮人](Wild_Magic_(barbarian_subclass)周围3米/10英尺半径内的所有盟友.md)，对抗法术的豁免检定获得等于其[熟练项加值](Proficiency_Bonus.md "Proficiency bonus")的加值，持续1回合。
 
@@ -153,7 +153,7 @@
 - [祝福术](Bless_(Condition).md "Bless (Condition)") - 目标获得1d4的豁免检定加值。
 - [极乐孢子](Bliss_Spores_(Condition).md "Bliss Spores (Condition)") - 获得1d6的豁免检定加值，直到下一次[长休](Long_Rest.md "Long rest")（在完成[击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders")后授予队伍）。
 - [访问者的恩惠](Fetcher's_Favour_(Condition).md "Fetcher's Favour (Condition)") - 获得魅力豁免1d4加值（在完成[找到摩尔](Find_Mol.md "Find Mol")并使其成为盟友后，在[至高大殿](High_Hall.md "至高大殿")授予队伍）。
-- [愉悦](Happy_(Condition).md "Happy (Condition)") - 豁免检定+1。
+- [高兴](Happy_(Condition).md "Happy (Condition)") - 豁免检定+1。
 - [劳薇塔之爱](Loviatar's_Love_(Condition).md "Loviatar's Love (Condition)") - 当生命值低于30%时，感知豁免+2，持续3回合。
 - [狂喜](Rapture_(Condition).md "Rapture (Condition)") - 获得1d6的豁免检定加值，直到下一次[长休](Long_Rest.md "Long rest")（详见[妮夏·纳林托](Naoise_Nallinto.md "Naoise Nallinto")页面）。
 - [抗性](Resistance_(Condition).md "Resistance (Condition)") - 获得1d4的豁免检定加值。
@@ -399,7 +399,7 @@
 
 ### 职业特性
 
-- [地城探索者：察觉](Dungeon_Delver_colon__Perception.md "Dungeon Delver: Perception") - 用于探测隐藏物体的[察觉技能](Perception.md "Perception")检定，以及用于躲避或抵抗陷阱的豁免检定具有优势。
+- [地牢探索者：察觉](Dungeon_Delver_colon__Perception.md "Dungeon Delver: Perception") - 用于探测隐藏物体的[察觉技能](Perception.md "Perception")检定，以及用于躲避或抵抗陷阱的豁免检定具有优势。
 - [战地施法者：专注](War_Caster_colon__Concentration.md "War Caster: Concentration") - 法术的[专注](Concentration.md#Concentration_Saving_Throw "Concentration")豁免具有优势。
 
 ### 法术

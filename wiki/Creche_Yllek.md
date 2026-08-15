@@ -112,13 +112,13 @@
 
 ### 孵化室
 
-孵化室的酸液池
+孵化室的强酸池
 
 **孵化室**入口位于 X: 1320 Y: -781。
 
-孵化室位于养育间的西北端。这是一个广阔的洞穴状房间，有几处悬崖和瀑布，酸液深及小腿中部。酸液湖中零星分布着几个小岩石岛。入口正对面有几个铁笼，其中一个笼子里有一只死亡的狗头人斥候。
+孵化室位于养育间的西北端。这是一个广阔的洞穴状房间，有几处悬崖和瀑布，强酸深及小腿中部。强酸湖中零星分布着几个小岩石岛。入口正对面有几个铁笼，其中一个笼子里有一只死亡的狗头人斥候。
 
-酸液湖底有散发[奇异气体](Strange_Gas.md "Strange Gas")的气坑，以及多个传送陷阱，如果被队伍成员识别，会显示为[守卫刻文：雷鸣](Glyph_of_Warding_colon__Thunder.md "Glyph of Warding: Thunder")。如果激活，这些陷阱会将闯入者传送到其中一个铁笼中。此外，悬崖和岛屿上还布设了多个冲击之力地雷。
+强酸湖底有散发[奇异气体](Strange_Gas.md "Strange Gas")的气坑，以及多个传送陷阱，如果被队伍成员识别，会显示为[守卫刻文：雷鸣](Glyph_of_Warding_colon__Thunder.md "Glyph of Warding: Thunder")。如果激活，这些陷阱会将闯入者传送到其中一个铁笼中。此外，悬崖和岛屿上还布设了多个冲击之力地雷。
 
 孵化室是解决[偷一枚吉斯洋基蛋](Steal_a_Githyanki_Egg.md "Steal a Githyanki Egg")任务的主要地点。
 
@@ -332,7 +332,7 @@
 - [蛮勇手套](Daredevil_Gloves.md "Daredevil Gloves")
 - [守卫者链枷](Defender_Flail.md "Defender Flail")
 - [敏捷手套](Gloves_of_Dexterity.md "Gloves of Dexterity")
-- [地底国王之刃](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
+- [地脉迷城之王的匕首](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
 - [拉瑞斯安之怒](Larethian's_Wrath.md "Larethian's Wrath")
 - [生命通道之靴](Vital_Conduit_Boots.md "Vital Conduit Boots")
 - [隐形威胁](Unseen_Menace.md "Unseen Menace")

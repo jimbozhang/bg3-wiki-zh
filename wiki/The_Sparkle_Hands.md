@@ -35,7 +35,7 @@ _关于导电攻击：_
     - 与类似被动不同，导电攻击没有 `OncePerAttack` 限制，因此会在攻击期间的任何伤害来源触发。例如，一个[巨人](Giant_(barbarian_subclass).md) Barbarian：
   - 投掷[闪电混语](Lightning_Jabber.md "Lightning Jabber")造成武器伤害，提供 2 点闪电充能。
   - 造成[投掷：闪电伤害](Throwing_colon__Lightning_Damage.md "Throwing: Lightning Damage")的闪电伤害，提供额外 2 点闪电充能。
-  - 造成[元素劈砍](Elemental_Cleaver.md "Elemental Cleaver")的伤害，提供额外 2 点闪电充能。
+  - 造成[元素战刃](Elemental_Cleaver.md "Elemental Cleaver")的伤害，提供额外 2 点闪电充能。
   - 当全部结合时，单次攻击总共提供 6 点闪电充能。
 
 _关于高效导体：_

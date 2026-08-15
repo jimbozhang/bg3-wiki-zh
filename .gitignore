@@ -1,8 +1,5 @@
 .DS_Store
-*.py
-*.sh
 __pycache__/
-scripts/
 
 # Hugo build output
 public/
@@ -12,3 +9,7 @@ hugo_stats.json
 
 # log
 *.log
+
+# Temp
+*.json
+*.txt

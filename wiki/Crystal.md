@@ -2,7 +2,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "杂物")
+- [杂物物品](Miscellaneous.md "杂物")
 - 稀有度：普通
 - 重量：0.2 千克 (0.4 磅)
 - 价格：1 金币
@@ -17,7 +17,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "杂物")
+- [杂物物品](Miscellaneous.md "杂物")
 - 稀有度：普通
 - 重量：0.2 千克 (0.4 磅)
 - 价格：1 金币
@@ -32,7 +32,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "杂物")
+- [杂物物品](Miscellaneous.md "杂物")
 - 稀有度：普通
 - 重量：0.2 千克 (0.4 磅)
 - 价格：1 金币
@@ -47,14 +47,14 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "杂物")
+- [杂物物品](Miscellaneous.md "杂物")
 - 稀有度：普通
 - 重量：0.2 千克 (0.4 磅)
 - 价格：1 金币
 
 ## 获取地点
 
-- 在[天鹅绒灵药](Velveteen_Elixir.md "天鹅绒灵药")的橱柜顶部，该地点位于[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")上方，坐标 X: -19 Y: 137
+- 在[天鹅绒灵药](Velveteen_Elixir.md "天鹅绒灵药")的橱柜顶部，该地点位于[飞龙关](Wyrm's_Crossing.md "飞龙关")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧")上方，坐标 X: -19 Y: 137
 
 ## 备注
 

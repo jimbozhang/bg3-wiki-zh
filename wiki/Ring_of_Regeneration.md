@@ -15,7 +15,7 @@
 此物品的穿戴者获得：
 
 [战斗再生](Combat_Regeneration.md "Combat_Regeneration")
-在你的回合开始时，戒指激活并治疗你 1d4⁠⁠[治疗](Healing.md "治疗")。
+在你的回合开始时，戒指激活并治疗你 1d4⁠⁠[生命值](Healing.md "治疗")。
 
 ## 获取地点
 
@@ -37,7 +37,7 @@ _关于战斗再生：_
 
 - [神佑医师](Blessed_Healer.md "Blessed Healer") 可额外获得 3⁠⁠[治疗](Healing.md "治疗")
 - [疗愈之靴](Boots_of_Aid_and_Comfort.md "Boots of Aid and Comfort") 可额外获得 3 [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")
-- [巢穴之母的复仇](Broodmother's_Revenge.md "Broodmother's Revenge") 可为武器攻击额外造成 1d6⁠⁠[中毒](Poison.md "Poison") 伤害
+- [巢穴之母的复仇](Broodmother's_Revenge.md "Broodmother's Revenge") 可为武器攻击额外造成 1d6⁠⁠[毒素](Poison.md "Poison") 伤害
 - [草药师手套](Herbalist's_Gloves.md "Herbalist's Gloves") 可移除[中毒](Poisoned_(Condition).md "Poisoned (Condition)")状态
 - [伤口闭合护符](Periapt_of_Wound_Closure.md "Periapt of Wound Closure") 可始终获得最大治疗量
 - [光滑的链甲衫](Slippery_Chain_Shirt.md "Slippery Chain Shirt") 可自动[撤离](Disengage.md "Disengage")

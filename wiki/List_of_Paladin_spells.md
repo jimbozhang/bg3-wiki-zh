@@ -25,7 +25,7 @@
 | [激愤斩](Wrathful_Smite.md "激愤斩") | 1 |  |  | 2回合 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 正常武器伤害 / 1d6⁠[心灵](Psychic.md "心灵") |
 | [支援术](Aid.md "支援术") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺 (半径) | - | - |
 | [印记斩](Branding_Smite.md "印记斩") | 2 |  |  | 10回合 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 正常武器伤害 / 2d6⁠[光耀](Radiant.md "光耀") |
-| [恢复](Lesser_Restoration.md "恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
+| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
 | [魔法武器](Magic_Weapon.md "魔法武器") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [防护毒素](Protection_from_Poison.md "防护毒素") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [致盲斩](Blinding_Smite.md "致盲斩") | 3 |  |  | 10回合 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 正常武器伤害 / 3d8⁠[光耀](Radiant.md "光耀") |

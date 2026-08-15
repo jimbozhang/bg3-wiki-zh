@@ -23,7 +23,7 @@
 - 此外，其在[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并自动在[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上失败。
 - 此状态在受到伤害或实体成功通过[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 12 [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")时结束。
 
-[命令：停止](Command_colon__Halt_(Condition).md "命令：停止 (状态)")
+[命令术：停止](Command_colon__Halt_(Condition).md "命令术：停止 (状态)")
 |
 
 - 无法移动。
@@ -59,7 +59,7 @@
 [蛛丝墓穴](Gossamer_Tomb_(Condition).md "蛛丝墓穴 (状态)")
 |
 
-- 此生物被[感染](Infested_(Condition).md "感染 (状态)")的蛛丝包裹，无法移动或进行动作。除非用[强酸](Acid.md "强酸")或[火焰](Fire.md "火焰")伤害移除蛛丝，否则它会爆炸，对被包裹的生物造成8d10[中毒](Poison.md "中毒")伤害。
+- 此生物被[感染](Infested_(Condition).md "感染 (状态)")的蛛丝包裹，无法移动或进行动作。除非用[强酸](Acid.md "强酸")或[火焰](Fire.md "火焰")伤害移除蛛丝，否则它会爆炸，对被包裹的生物造成8d10[毒素](Poison.md "毒素")伤害。
 
 [被擒抱](Grappled_(Condition).md "被擒抱 (状态)")
 |
@@ -75,7 +75,7 @@
 |
 
 - 膨胀至无望。轻微触碰即会爆炸。
-- 触碰受此状态影响的实体将导致3米（10英尺）半径范围内8d6[中毒](Poison.md "中毒")伤害的爆炸，形成相同大小的[毒云](Poison_Cloud.md "毒云")，并彻底摧毁该实体。
+- 触碰受此状态影响的实体将导致3米（10英尺）半径范围内8d6[毒素](Poison.md "毒素")伤害的爆炸，形成相同大小的[毒云](Poison_Cloud.md "毒云")，并彻底摧毁该实体。
 
 [心形恐怖：蜕变](Heartform_Terror_colon__Ceremorphosis_(Condition).md "心形恐怖：蜕变 (状态)")
 |

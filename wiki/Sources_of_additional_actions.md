@@ -19,7 +19,7 @@
   - [2.1 创造法术位](#创造法术位)
   - [2.2 恢复法术位](#恢复法术位)
 - [3 职业特定资源](#职业特定资源)
-  - [3.1 诗人激励](#诗人激励)
+  - [3.1 吟游诗人激励](#吟游诗人激励)
   - [3.2 引导神力](#引导神力)
   - [3.3 引导誓言](#引导誓言)
   - [3.4 气](#气)
@@ -133,7 +133,7 @@
 
 ## 职业特定资源
 
-### 诗人激励
+### 吟游诗人激励
 
 | 类型 | 来源 | 法术位等级 | 限制 |
 | --- | --- | --- | --- |
@@ -148,8 +148,8 @@
 | [强化魔法：3级法术位](Bolstering_Magic_colon__Level_3_Spell_Slot.md "Bolstering Magic: Level 3 Spell Slot") |  | 充能：[长休](Long_Rest.md "Long rest") |  |
 | [自然恢复](Natural_Recovery.md "Natural Recovery") | 多个，总计不超过德鲁伊等级2（向上取整） | 充能：[长休](Long_Rest.md "Long rest") |  |
 
-- [惊奇手套](Wondrous_Gloves.md "Wondrous Gloves")：获得一个额外的[诗人激励](Bardic_Inspiration_(resource)..md)
-- [响亮之靴](Boots_of_Brilliance.md "Boots of Brilliance")：恢复一个[诗人激励](Bardic_Inspiration_(resource)..md) （充能：[长休](Long_Rest.md "Long rest")）
+- [惊奇手套](Wondrous_Gloves.md "Wondrous Gloves")：获得一个额外的[吟游诗人激励](Bardic_Inspiration_(resource)..md)
+- [响亮之靴](Boots_of_Brilliance.md "Boots of Brilliance")：恢复一个[吟游诗人激励](Bardic_Inspiration_(resource)..md) （充能：[长休](Long_Rest.md "Long rest")）
 
 ### 引导神力
 
@@ -200,7 +200,7 @@
 
 许多资源在长休或短休时补充。除了实际休息之外，还有许多其他方法可以恢复这些资源。
 
-- [神圣干预：光耀复苏](Divine_Intervention_colon__Opulent_Revival.md "Divine Intervention: Opulent Revival")：恢复队伍，如同他们进行了长休，并复活任何倒地的队伍成员。这可以在战斗中使用。任何形式的神圣干预在整个游戏中每个角色只能使用一次。
+- [神圣干预：光辉复苏](Divine_Intervention_colon__Opulent_Revival.md "Divine Intervention: Opulent Revival")：恢复队伍，如同他们进行了长休，并复活任何倒地的队伍成员。这可以在战斗中使用。任何形式的神圣干预在整个游戏中每个角色只能使用一次。
 - [休憩曲](Song_of_Rest.md "Song of Rest")：恢复队伍，如同他们进行了短休。这不能在战斗中使用。
 - 在序幕中使用[鹦鹉螺](Nautiloid.md "Nautiloid")上或第二幕中[夺心魔殖民地](Mindflayer_colony.md "Mindflayer colony")中的恢复站，可以恢复队伍，如同他们进行了长休。
 - 在[希望之邸](House_of_Hope.md "House of Hope")的内室中使用水池，也可以提供长休的益处。

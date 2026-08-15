@@ -17,35 +17,35 @@
 | [易容术：女性龙裔](Disguise_Self_colon__Femme_Dragonborn.md "Disguise Self: Femme Dragonborn") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：女性卓尔](Disguise_Self_colon__Femme_Drow.md "Disguise Self: Femme Drow") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：女性矮人](Disguise_Self_colon__Femme_Dwarf.md "Disguise Self: Femme Dwarf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性精灵](Disguise_Self_colon__Femme_Elf.md "Disguise Self: Femme Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性精灵](Disguise_Self_colon__Femme_Elf.md "Disguise Self: Femme Elf") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：女性吉斯洋基人](Disguise_Self_colon__Femme_Githyanki.md "Disguise Self: Femme Githyanki") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性侏儒](Disguise_Self_colon__Femme_Gnome.md "Disguise Self: Femme Gnome") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性半精灵](Disguise_Self_colon__Femme_Half-Elf.md "Disguise Self: Femme Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性侏儒](Disguise_Self_colon__Femme_Gnome.md "Disguise Self: Femme Gnome") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性半精灵](Disguise_Self_colon__Femme_Half-Elf.md "Disguise Self: Femme Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：女性半兽人](Disguise_Self_colon__Femme_Half-Orc.md "Disguise Self: Femme Half-Orc") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性半身人](Disguise_Self_colon__Femme_Halfling.md "Disguise Self: Femme Halfling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性人类](Disguise_Self_colon__Femme_Human.md "Disguise Self: Femme Human") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮卓尔](Disguise_Self_colon__Femme_Strong_Drow.md "Disguise Self: Femme Strong Drow") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮精灵](Disguise_Self_colon__Femme_Strong_Elf.md "Disguise Self: Femme Strong Elf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮半精灵](Disguise_Self_colon__Femme_Strong_Half-Elf.md "Disguise Self: Femme Strong Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮人类](Disguise_Self_colon__Femme_Strong_Human.md "Disguise Self: Femme Strong Human") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮提夫林](Disguise_Self_colon__Femme_Strong_Tiefling.md "Disguise Self: Femme Strong Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性提夫林](Disguise_Self_colon__Femme_Tiefling.md "Disguise Self: Femme Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性龙裔](Disguise_Self_colon__Masc_Dragonborn.md "Disguise Self: Masc Dragonborn") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性卓尔](Disguise_Self_colon__Masc_Drow.md "Disguise Self: Masc Drow") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性矮人](Disguise_Self_colon__Masc_Dwarf.md "Disguise Self: Masc Dwarf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性精灵](Disguise_Self_colon__Masc_Elf.md "Disguise Self: Masc Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性半身人](Disguise_Self_colon__Femme_Halfling.md "Disguise Self: Femme Halfling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性人类](Disguise_Self_colon__Femme_Human.md "Disguise Self: Femme Human") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮卓尔](Disguise_Self_colon__Femme_Strong_Drow.md "Disguise Self: Femme Strong Drow") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮精灵](Disguise_Self_colon__Femme_Strong_Elf.md "Disguise Self: Femme Strong Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮半精灵](Disguise_Self_colon__Femme_Strong_Half-Elf.md "Disguise Self: Femme Strong Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮人类](Disguise_Self_colon__Femme_Strong_Human.md "Disguise Self: Femme Strong Human") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮提夫林](Disguise_Self_colon__Femme_Strong_Tiefling.md "Disguise Self: Femme Strong Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性提夫林](Disguise_Self_colon__Femme_Tiefling.md "Disguise Self: Femme Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性龙裔](Disguise_Self_colon__Masc_Dragonborn.md "Disguise Self: Masc Dragonborn") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性卓尔](Disguise_Self_colon__Masc_Drow.md "Disguise Self: Masc Drow") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性矮人](Disguise_Self_colon__Masc_Dwarf.md "Disguise Self: Masc Dwarf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性精灵](Disguise_Self_colon__Masc_Elf.md "Disguise Self: Masc Elf") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：男性吉斯洋基人](Disguise_Self_colon__Masc_Githyanki.md "Disguise Self: Masc Githyanki") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性侏儒](Disguise_Self_colon__Masc_Gnome.md "Disguise Self: Masc Gnome") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性半精灵](Disguise_Self_colon__Masc_Half-Elf.md "Disguise Self: Masc Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性侏儒](Disguise_Self_colon__Masc_Gnome.md "Disguise Self: Masc Gnome") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性半精灵](Disguise_Self_colon__Masc_Half-Elf.md "Disguise Self: Masc Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：男性半兽人](Disguise_Self_colon__Masc_Half-Orc.md "Disguise Self: Masc Half-Orc") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性半身人](Disguise_Self_colon__Masc_Halfling.md "Disguise Self: Masc Halfling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性人类](Disguise_Self_colon__Masc_Human.md "Disguise Self: Masc Human") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮卓尔](Disguise_Self_colon__Masc_Strong_Drow.md "Disguise Self: Masc Strong Drow") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮精灵](Disguise_Self_colon__Masc_Strong_Elf.md "Disguise Self: Masc Strong Elf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮半精灵](Disguise_Self_colon__Masc_Strong_Half-Elf.md "Disguise Self: Masc Strong Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮人类](Disguise_Self_colon__Masc_Strong_Human.md "Disguise Self: Masc Strong Human") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮提夫林](Disguise_Self_colon__Masc_Strong_Tiefling.md "Disguise Self: Masc Strong Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性提夫林](Disguise_Self_colon__Masc_Tiefling.md "Disguise Self: Masc Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性半身人](Disguise_Self_colon__Masc_Halfling.md "Disguise Self: Masc Halfling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性人类](Disguise_Self_colon__Masc_Human.md "Disguise Self: Masc Human") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮卓尔](Disguise_Self_colon__Masc_Strong_Drow.md "Disguise Self: Masc Strong Drow") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮精灵](Disguise_Self_colon__Masc_Strong_Elf.md "Disguise Self: Masc Strong Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮半精灵](Disguise_Self_colon__Masc_Strong_Half-Elf.md "Disguise Self: Masc Strong Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮人类](Disguise_Self_colon__Masc_Strong_Human.md "Disguise Self: Masc Strong Human") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮提夫林](Disguise_Self_colon__Masc_Strong_Tiefling.md "Disguise Self: Masc Strong Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性提夫林](Disguise_Self_colon__Masc_Tiefling.md "Disguise Self: Masc Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
 | [强化跳跃](Enhance_Leap.md "Enhance Leap") | 1 |  |  | 10 回合 | 1.5 m / 5 ft | - | - |
 | [羽落术](Feather_Fall.md "Feather Fall") | 1 |  |  | 10 回合 | 自身 / 9m / 30ft (半径) | - | - |
 | [获得魔宠](Find_Familiar.md "Find Familiar") | 1 |  |  | - | 18 m / 60ft | - | - |

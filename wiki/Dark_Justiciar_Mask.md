@@ -22,7 +22,7 @@
 
 ## 获取地点
 
-- [被弃避难所](Abandoned_Refuge.md "Abandoned Refuge") X: -606 Y: 282：在[上古符文法阵](Ancient_Sigil_Circle.md "Ancient Sigil Circle")附近的骷髅上
+- [被弃避难所](Abandoned_Refuge.md "Abandoned Refuge") X: -606 Y: 282：在[传送点](Ancient_Sigil_Circle.md "传送点")附近的骷髅上
 
 ## 图库
 

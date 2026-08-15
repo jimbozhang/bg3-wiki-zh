@@ -8,7 +8,7 @@ Tiny rainbows reflect in the pearls' iridescent shine.
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 35 gp
 
@@ -28,7 +28,7 @@ Dozens of tiny pearls adorn this necklace, knotted in place by clever gnomish ha
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 35 gp
 
@@ -48,7 +48,7 @@ Well-to-do households sometimes let their maids wear pearls, believing that the 
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 35 gp
 
@@ -70,7 +70,7 @@ Tiny rainbows reflect in the pearls' iridescent shine.
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 35 gp
 

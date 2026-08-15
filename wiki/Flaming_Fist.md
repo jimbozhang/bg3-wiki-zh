@@ -14,10 +14,10 @@
   - [3.2 烈焰](#烈焰)
   - [3.3 精卫](#精卫)
   - [3.4 铁手](#铁手)
-  - [3.5 拳手](#拳手)
-  - [3.6 拳手医师](#拳手医师)
-  - [3.7 拳手法师](#拳手法师)
-  - [3.8 拳手新兵](#拳手新兵)
+  - [3.5 拳头](#拳头)
+  - [3.6 焰拳医师](#焰拳医师)
+  - [3.7 焰拳法师](#焰拳法师)
+  - [3.8 焰拳新兵](#焰拳新兵)
   - [3.9 军需官](#军需官)
   - [3.10 未指定](#未指定)
 - [4 相关物品](#相关物品)
@@ -29,7 +29,7 @@
 
 ## 背景
 
-焰拳护盾 焰拳护甲
+焰拳盾牌 焰拳护甲
 
 由高公爵[艾尔坦](https://forgottenrealms.fandom.com/wiki/Eltan)创立<sup>[\[2\]](#cite_note-2)</sup>，**焰拳**是一家由佣兵公司转型而成的警察和军事力量，效忠于博德之门市。尽管该组织在腐败、道德以及倾向于偏袒[上城区](Upper_City.md "上城区")贵族而冷落博德人方面存在诸多问题，焰拳仍然是整个[宝剑海岸](https://forgottenrealms.fandom.com/wiki/Sword_Coast)最强大、分布最广的战斗力量之一。焰拳成员作为士兵，与国内外的威胁作战，通常得到其盟友[领主联盟](https://forgottenrealms.fandom.com/wiki/Lords%27_Alliance)的支持。
 
@@ -50,7 +50,7 @@
 
 根据是否援助过焰拳以及顾问弗洛瑞克是否在渥金的休眠地事件中幸存，焰拳可能会在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")与[竖琴手同盟](Harpers.md "竖琴手同盟")一同出现。如果在[第一幕](Act_One.md "第一幕")中未拯救[提夫林难民](Tiefling_Refugees.md "提夫林难民")，[焰拳马库斯](Marcus_Falgor.md "焰拳马库斯")会在队伍被[贾希拉](Jaheira.md "贾希拉")诱捕时为队伍担保，揭示自己实际上是卧底的[真魂者](True_Soul.md "真魂者")。队伍随后可以在其阵营中揭露马库斯的叛徒身份，或配合其欺骗行为。
 
-弗洛瑞克和她的焰拳成员可在旅店西部的营房再次遭遇，并确认雷文伽德公爵位于月出之塔。在同一房间，可以找到一位名为[阿尔特·库拉](Art_Cullagh.md "阿尔特·库拉")的古老昏迷焰拳[人类](Human.md "人类")。与弗洛瑞克、[精卫维多](Vidor.md "精卫维多")、[拳手杰赫拉](J'ehlar.md "拳手杰赫拉")或[竖琴手图梅里尔](Tumeril.md "竖琴手图梅里尔")交谈会揭示，这位[昏迷](Unconscious_(status_group).md) 拳手可能知道进入月出之塔的方法，由此开启[唤醒阿尔特·库拉](Wake_up_Art_Cullagh.md "唤醒阿尔特·库拉")和[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")任务。可以从杰赫拉处或床上（取决于杰赫拉是否在场）拾取[焰拳的命令状](Flaming_Fist_Writ_of_Command.md "焰拳的命令状")，其中详述了此人的过往。弗洛瑞克在此宣布她将前往[博德之门](Baldur's_Gate.md "博德之门")寻求增援。在与弗洛瑞克交谈后的任何时间点离开终焉光芒旅店，都会导致她与部分焰拳成员离开该区域。
+弗洛瑞克和她的焰拳成员可在旅店西部的营房再次遭遇，并确认雷文伽德公爵位于月出之塔。在同一房间，可以找到一位名为[阿尔特·库拉](Art_Cullagh.md "阿尔特·库拉")的古老昏迷焰拳[人类](Human.md "人类")。与弗洛瑞克、[精卫维多](Vidor.md "精卫维多")、[焰拳杰赫拉](J'ehlar.md "焰拳杰赫拉")或[竖琴手图梅里尔](Tumeril.md "竖琴手图梅里尔")交谈会揭示，这位[昏迷](Unconscious_(status_group).md) 焰拳成员可能知道进入月出之塔的方法，由此开启[唤醒阿尔特·库拉](Wake_up_Art_Cullagh.md "唤醒阿尔特·库拉")和[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")任务。可以从杰赫拉处或床上（取决于杰赫拉是否在场）拾取[焰拳的命令状](Flaming_Fist_Writ_of_Command.md "焰拳的命令状")，其中详述了此人的过往。弗洛瑞克在此宣布她将前往[博德之门](Baldur's_Gate.md "博德之门")寻求增援。在与弗洛瑞克交谈后的任何时间点离开终焉光芒旅店，都会导致她与部分焰拳成员离开该区域。
 
 在楼上，根据马库斯是否干预了队伍的防御并保持友好，他会在[伊索贝尔](Isobel.md "伊索贝尔")的房间等待队伍，并向队伍透露他奉[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")之命绑架伊索贝尔——队伍可以选择协助或挫败这一阴谋。攻击马库斯或与伊索贝尔互动将触发[解决绑架问题](Resolve_the_Abduction.md "解决绑架问题")战斗，最终导致马库斯死亡或终焉光芒旅店及其焰拳成员全军覆没。
 
@@ -70,7 +70,7 @@
 
 尽管在前两幕中实际上是队伍的盟友，焰拳在[第三幕](Act_Three.md "第三幕")中更多扮演中立或有时敌对的角色。在那里，凭借[钢铁卫士](Steel_Watcher.md "钢铁卫士")的增援，作为博德之门的警察和军事力量，他们可以在整个地区作为固定哨兵或移动巡逻队出现。还可以看到他们已经抵抗了[利文顿](Rivington.md "利文顿")外至上真神教部队的几次袭击。
 
-在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")，由[铁手埃德温娜](Edwynna.md "铁手埃德温娜")指挥的焰拳驻军和[钢铁卫士](Steel_Watcher.md "钢铁卫士")阻止队伍和难民进入[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")，迫使队伍要么潜入，要么向钢铁卫士投降，要么攻击焰拳。如果[铁手侏儒](Clan_Ironhand.md "铁手侏儒")在月出之塔被拯救，他们将制造干扰并使钢铁卫士瘫痪，为队伍提供通过的机会。然而，当检查点被越过时，[精卫法尔考](Falc%C3%A4o.md "精卫法尔考")试图雇佣队伍杀死铁手侏儒并带回[乌尔布伦·邦格力](Wulbren_Bongle.md "乌尔布伦·邦格力")的头颅。
+在[南翼检查点](South_Span_Checkpoint.md "南翼检查点")，由[铁手埃德温娜](Edwynna.md "铁手埃德温娜")指挥的焰拳驻军和[钢铁卫士](Steel_Watcher.md "钢铁卫士")阻止队伍和难民进入[飞龙关](Wyrm's_Crossing.md "飞龙关")，迫使队伍要么潜入，要么向钢铁卫士投降，要么攻击焰拳。如果[铁手侏儒](Clan_Ironhand.md "铁手侏儒")在月出之塔被拯救，他们将制造干扰并使钢铁卫士瘫痪，为队伍提供通过的机会。然而，当检查点被越过时，[精卫法尔考](Falc%C3%A4o.md "精卫法尔考")试图雇佣队伍杀死铁手侏儒并带回[乌尔布伦·邦格力](Wulbren_Bongle.md "乌尔布伦·邦格力")的头颅。
 
 在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")前，[烈焰艾琳](Elin.md "烈焰艾琳")禁止任何人在[戈塔什](Gortash.md "戈塔什")加冕期间进入要塞。可以通过多种[欺瞒](Deception.md "欺瞒")检定、一次[游说](Persuasion.md "游说")检定和20,000[金币](Gold.md "金币")、使用从[瓦莱里亚](Valeria.md "瓦莱里亚")或[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")获得的[下城区通行证](Lower_City_Pass.md "下城区通行证")、使用[雷文伽德公爵紧急报告](Urgent_Report_for_Duke_Ravengard.md "雷文伽德公爵紧急报告")来说服她，或者通过从要塞下方绕行或使用[飞行](Fly.md "飞行")动作完全避开她。
 
@@ -119,7 +119,7 @@
 - [雷鸣](Thunder_(Flaming_Fist).md "雷鸣（焰拳）")
 - [叶娃](Yeva.md "叶娃")
 
-### 拳手
+### 拳头
 
 - [阿格拉利克斯](Aggralix.md "阿格拉利克斯")
 - [阿古塔](Aguta.md "阿古塔")
@@ -244,7 +244,7 @@
 - [韦克斯福德](Wexford.md "韦克斯福德")
 - [威廉姆斯](Williams.md "威廉姆斯")
 
-### 拳手医师
+### 焰拳医师
 
 - [达博纳](Darbonna.md "达博纳")
 - [杜兰加](Duranga.md "杜兰加")
@@ -253,13 +253,13 @@
 - [法内利斯](Phanellis.md "法内利斯")
 - [西尔温](Syllving.md "西尔温")
 
-### 拳手法师
+### 焰拳法师
 
 - [哈特尔伯里](Hartlebury.md "哈特尔伯里")
 
-### 拳手新兵
+### 焰拳新兵
 
-- [艾利斯（拳手新兵）](Aelis_(Fist_Recruit).md "艾利斯（拳手新兵）")
+- [艾利斯（焰拳新兵）](Aelis_(Fist_Recruit).md "艾利斯（拳手新兵）")
 - [埃弗伦](Ephren.md "埃弗伦")
 - [伊藤](Ito.md "伊藤")
 - [帕维尔](Pavel.md "帕维尔")
@@ -274,7 +274,7 @@
 - [阿利安](Mind_flayer_(windmill).md "夺心魔（风车）") [前成员]<sup>[\[3\]](#cite_note-3)</sup>
 - [比翁·旺特布莱德](Beorn_Wunterbrood.md "比翁·旺特布莱德")
 - [哈尔法](Halfar.md "哈尔法")（已故）
-- [拳手克里尔](Notes_by_Author.md#K "作者笔记") [仅提及]<sup>[\[4\]](#cite_note-4)</sup>
+- [焰拳克里尔](Notes_by_Author.md#K "作者笔记") [仅提及]<sup>[\[4\]](#cite_note-4)</sup>
 - [里翁](Rion.md "里翁") [前成员]<sup>[\[5\]](#cite_note-5)</sup>
 
 ## 相关物品
@@ -309,7 +309,7 @@
 - [焰拳的命令状](Flaming_Fist_Writ_of_Command.md "焰拳的命令状")
 - [弗洛瑞克的处分通告](Florrick's_Demotion_Notice.md "弗洛瑞克的处分通告")
 - [H表，拒绝准入](Form_H,_Refusal_of_Admittance.md "H表，拒绝准入")
-- [家乡哨站快讯：拳手克里尔](Home_Post_Dispatch_colon__Fist_Krill.md "家乡哨站快讯：拳手克里尔")
+- [家乡哨站快讯：焰拳克里尔](Home_Post_Dispatch_colon__Fist_Krill.md "家乡哨站快讯：焰拳克里尔")
 - [调查优先级](Investigation_Priorities.md "调查优先级")
 - [锅炉的教训](Lessons_from_the_Boiler.md "锅炉的教训")
 - [笔记（巴克希）](Note_(Bakshi).md "笔记（巴克希）")
@@ -357,7 +357,7 @@
   - ⁠[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")
   - ⁠[南翼检查点](South_Span_Checkpoint.md "南翼检查点")
 - ⁠[渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地")
-- ⁠[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
+- ⁠[飞龙关](Wyrm's_Crossing.md "飞龙关")
   - ⁠[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
   - ⁠[飞龙岩监狱](Wyrm's_Rock_Prison.md "飞龙岩监狱")
 

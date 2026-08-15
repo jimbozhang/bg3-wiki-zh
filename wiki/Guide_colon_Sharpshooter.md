@@ -216,7 +216,7 @@ _请检查下面数学部分的假设。_
 
 **[勇气学院](College_of_Valour.md "College of Valour")**：[吟游诗人](Bard.md "Bard")途径的选项。
 此变体在获得2次攻击（作为[游侠](Ranger.md "Ranger")或[战士](Fighter.md "Fighter")）之外，还带来了完整的施法者，特别是——能够更好地利用[专注](Concentration.md "Concentration")，因为[吟游诗人](Bard.md "Bard")拥有许多强大的法术，如[人类定身术](Hold_Person.md "Hold Person")、[守卫刻文](Glyph_of_Warding.md "Glyph of Warding")等。
-主要缺点——[诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)")不能对自己使用。最终，虽然使用了所有酷炫的法术和能力，[吟游诗人](Bard.md "Bard")最终并未造成实际伤害。
+主要缺点——[吟游诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)")不能对自己使用。最终，虽然使用了所有酷炫的法术和能力，[吟游诗人](Bard.md "Bard")最终并未造成实际伤害。
 [吟游诗人](Bard.md "Bard")变体肯定用一些伤害潜力换取了支援和实用性。
 
 **[盗贼](Thief.md "Thief")**：[游荡者](Rogue.md "Rogue")途径（无多职业）的选项。

@@ -53,7 +53,7 @@
 - Icons <--- 图标的 .dds 纹理图集
 - Content
 - - Assets
-- Characters
+- 角色
 - [PAK]\_Armor <-- 自定义服装和武器的材质和网格 LSX。
 - UI
 - [PAK]\_UI <--- 包含 '_merged.lsx'。这告诉游戏纹理图集 dds 的名称和位置。

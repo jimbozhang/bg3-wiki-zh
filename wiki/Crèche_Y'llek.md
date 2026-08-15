@@ -49,7 +49,7 @@
 
 伊雷珂养育间区域地图。
 
-居住在伊雷珂养育间的吉斯洋基人征服了该地区，并屠杀了其先前的居民——一群[洛山达](Lathander.md "Lathander")的信徒。它被用来在[雄狮河](River_Chionthar.md "River_Chionthar")沿线发动行动，作为储存补给和战利品、训练新的吉斯洋基战士，甚至孵化卵的地方。这里还有一个位面投射器和一个[扎伊斯克净化者](Zaith'isk.md "Zaith'isk")。
+居住在伊雷珂养育间的吉斯洋基人征服了该地区，并屠杀了其先前的居民——一群[洛山达](Lathander.md "Lathander")的信徒。它被用来在[乔恩萨河](River_Chionthar.md "River_Chionthar")沿线发动行动，作为储存补给和战利品、训练新的吉斯洋基战士，甚至孵化卵的地方。这里还有一个位面投射器和一个[扎伊斯克净化者](Zaith'isk.md "Zaith'isk")。
 
 许多任务可以在伊雷珂养育间推进，包括[莱埃泽尔](Lae'zel.md "Lae'zel")的[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")。这里的吉斯洋基人内部存在一些冲突，主要源于养育间指挥官[凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn")与最近抵达的维拉基斯宣判官[审判官瓦尔'戈兹](W'wargaz.md "W'wargaz")之间的紧张关系。
 
@@ -332,7 +332,7 @@
 - [蛮勇手套](Daredevil_Gloves.md "Daredevil Gloves")
 - [守卫者链枷](Defender_Flail.md "Defender Flail")
 - [敏捷手套](Gloves_of_Dexterity.md "Gloves of Dexterity")
-- [地底国王之刃](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
+- [地脉迷城之王的匕首](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
 - [拉瑞斯安之怒](Larethian's_Wrath.md "Larethian's Wrath")
 - [生命通道之靴](Vital_Conduit_Boots.md "Vital Conduit Boots")
 - [隐形威胁](Unseen_Menace.md "Unseen Menace")

@@ -22,13 +22,13 @@
 
 ## 文本
 
-\[这本账本记录了[戈塔什](Enver_Gortash.md "Enver Gortash")地狱武器贸易中的收购和销售情况——从恶魔来源获取的[地狱铁](Infernal_Iron.md "地狱铁")，将其用于锻造“增强”武器和护甲，以及通过戈塔什的网络向其他批发商（如[散塔林会](Zhentarim.md "散塔林会")和[护盾骑士团](Knights_of_the_Shield.md "护盾骑士团")）进行的销售和分销。最后一项记录如下。\]
+\[这本账本记录了[戈塔什](Enver_Gortash.md "Enver Gortash")地狱武器贸易中的收购和销售情况——从恶魔来源获取的[地狱铁](Infernal_Iron.md "地狱铁")，将其用于锻造“增强”武器和护甲，以及通过戈塔什的网络向其他批发商（如[散塔林会](Zhentarim.md "散塔林会")和[盾牌骑士](Knights_of_the_Shield.md "盾牌骑士")）进行的销售和分销。最后一项记录如下。\]
 
 致戈塔什勋爵的备注——骑士团组织似乎正在瓦解，向他们的销售量急剧下降。然而，这被运往我们在安姆的新联系人的货物所弥补，下个月在阿斯卡特拉的收据应该会让所有人高兴。- 梨木
 
 ## 外部链接
 
-- ⁠[护盾骑士团](https://forgottenrealms.fandom.com/wiki/Knights_of_the_Shield) 在[被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)上
+- ⁠[盾牌骑士](https://forgottenrealms.fandom.com/wiki/Knights_of_the_Shield) 在[被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)上
 
 ---
 *Source: [Enhanced' Weapons - Sales Ledger](https://bg3.wiki/wiki/Enhanced'_Weapons_-_Sales_Ledger)*

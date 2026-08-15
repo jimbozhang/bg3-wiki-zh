@@ -18,7 +18,7 @@
 | [凝气刚拳](Fist_of_Unbroken_Air.md "凝气刚拳") | 3 |  | 2 | 3d10 (3~30) ⁠[钝击](Bludgeoning.md "钝击") | 将目标推回6米（20英尺）并使其[倒伏](Prone_(Condition).md "倒伏（状态）")。 |
 | [疾风之灵急冲](Rush_of_the_Gale_Spirits.md "疾风之灵急冲") | 3 |  | 2 | - | 召唤一阵强风，清除所有云雾并将生物推回5米（17英尺），使其[失衡](Off_Balance_(Condition).md "失衡（状态）")。 |
 | [塑冰术](Shaping_of_the_Ice.md "塑冰术") | 3 |  |  | - | 创造一个可攀爬的冰块。 |
-| [元素平衡球](Sphere_of_Elemental_Balance.md "元素平衡球") | 3 |  | 2 | 3d8⁠⁠[雷鸣](Thunder.md "雷鸣") 或 2d8 ⁠[强酸](Acid.md "强酸")、⁠[寒冷](Cold.md "寒冷")、⁠[火焰](Fire.md "火焰")、⁠[闪电](Lightning.md "闪电") 或 ⁠[中毒](Poison.md "中毒") | - |
+| [元素平衡球](Sphere_of_Elemental_Balance.md "元素平衡球") | 3 |  | 2 | 3d8⁠⁠[雷鸣](Thunder.md "雷鸣") 或 2d8 ⁠[强酸](Acid.md "强酸")、⁠[寒冷](Cold.md "寒冷")、⁠[火焰](Fire.md "火焰")、⁠[闪电](Lightning.md "闪电") 或 ⁠[毒素](Poison.md "毒素") | - |
 | [飞炎击](Sweeping_Cinder_Strike.md "飞炎击") | 3 |  | 2 | 3d6 (3~18) ⁠[火焰](Fire.md "火焰") | - |
 | [风暴之触](Touch_of_the_Storm.md "风暴之触") | 3 |  |  | 1d10 (1~10) ⁠[闪电](Lightning.md "闪电") | 目标无法使用反应。 |
 | [清流鞭](Water_Whip.md "清流鞭") | 3 |  | 2 | 3d10 (3~30) ⁠[钝击](Bludgeoning.md "钝击") | 可能将目标拉向你（范围：9米/30英尺）或使其[倒伏](Prone_(Condition).md "倒伏（状态）")。 |

@@ -69,7 +69,7 @@
 
 - **攻击** - 炮台可以直接被伤害并使其无法操作。它们有一些抗性，但对[闪电](Lightning.md "Lightning")有易伤。
 - **覆盖** - 在一楼恢复发电机的电力后，可以关闭炮台。
-- **跑过/潜行** - 最好在回合制模式下进行，因为这允许队伍成员在回合之间移动掩护。
+- **跑过/隐匿** - 最好在回合制模式下进行，因为这允许队伍成员在回合之间移动掩护。
 - **反魔法** - 由于奥术炮台是魔法构装体，可以通过在附近放置[轻语树花](Sussur_Bloom.md "Sussur_Bloom")来关闭它们，因为它们的[轻语树反魔法力场](Sussur_Antimagic_Field_(Condition).md "Sussur Antimagic Field (Condition)")。
   - 轻语树花可以在奥法高塔底部的花园或[恐怖窟窿](Dread_Hollow.md "Dread Hollow")的轻语树中找到。
   - 在反魔法力场关闭炮台时攻击它会摧毁它，而不是“击晕”它。
@@ -209,7 +209,7 @@
 - [破损的机器](Broken_Machinery.md "Broken Machinery")
 - [山丘巨人力量短棒](Club_of_Hill_Giant_Strength.md "Club of Hill Giant Strength")来自打破塔四楼的[山丘巨人怪力板凳](Stool_of_Hill_Giant_Strength.md "Stool of Hill Giant Strength")
 - [照明灯](Guiding_Light.md "Guiding Light")在使用适当的台词后从伯纳德处拾取或赠送
-- [造物之光](Light_of_Creation.md "Light of Creation")从伯纳德处拾取（也可以使用[命令：掉落](Command_colon__Drop.md "Command: Drop"))
+- [造物之光](Light_of_Creation.md "Light of Creation")从伯纳德处拾取（也可以使用[命令术：掉落](Command_colon__Drop.md "Command: Drop"))
 
 ### 地下室（密室）
 

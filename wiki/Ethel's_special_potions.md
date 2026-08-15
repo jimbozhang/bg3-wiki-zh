@@ -66,11 +66,11 @@
 | 名称 | 状态 | 持续时间 | 效果 |
 | --- | --- | --- | --- |
 | [母亲的憎恶](A_Mother's_Loathing.md "母亲的憎恶") | [母亲的憎恶](Mother's_Loathing_(Condition).md "母亲的憎恶（状态）") | 直至长休 | 获得[啃咬](Bite_(Mother's_Loathing).md "啃咬（母亲的憎恶）") |
-| [鬼婆的恩赐](Boon_of_the_Hag.md "鬼婆的恩赐")[[](#cite_note-8 "[")1] | [埃赛尔婶婶的特酿](Auntie_Ethel's_Special_Brew_(Condition).md "埃赛尔婶婶的特酿（状态）") | 10 | 每回合开始时造成2d6⁠⁠[中毒](Poison.md "中毒")伤害，直至成功通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |
+| [鬼婆的恩赐](Boon_of_the_Hag.md "鬼婆的恩赐")[[](#cite_note-8 "[")1] | [埃赛尔婶婶的特酿](Auntie_Ethel's_Special_Brew_(Condition).md "埃赛尔婶婶的特酿（状态）") | 10 | 每回合开始时造成2d6⁠⁠[毒素](Poison.md "毒素")伤害，直至成功通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |
 | [破碎诺言](Broken_Promises.md "破碎诺言") | [破碎诺言](Broken_Promises_(Condition).md "破碎诺言（状态）") | 直至长休 | [力量](Strength.md "力量")增加2。在随后的[长休](Long_Rest.md "长休")后，力量永久减少1。 |
 | [腹中蝴蝶](Butterflies_in_the_Stomach.md "腹中蝴蝶") | [内出血](Haemorrhaged_(Condition).md "内出血（状态）") | 5 | 每回合结束时受到1d6⁠⁠[穿刺](Piercing.md "穿刺")伤害。 |
 | [踌躇意志](Faltering_Will.md "踌躇意志") | [踌躇意志](Faltering_Will_(Condition).md "踌躇意志（状态）") | 直至长休 | 感知[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 |
-| [石之心](Heart_of_Stone.md "石之心") | [石之心](Heart_of_Stone_(Condition).md "石之心（状态）") | 直至长休 | 获得对⁠⁠[中毒](Poison.md "中毒")的[抗性](Resistance.md "抗性")。 |
+| [石之心](Heart_of_Stone.md "石之心") | [石之心](Heart_of_Stone_(Condition).md "石之心（状态）") | 直至长休 | 获得对⁠⁠[毒素](Poison.md "毒素")的[抗性](Resistance.md "抗性")。 |
 | [狂乱之吻](Insanity's_Kiss.md "狂乱之吻") | [狂乱之吻](Insanity's_Kiss_(Condition).md "狂乱之吻（状态）") | 5 | 在状态持续期间对所有其他生物怀有敌意。 |
 | [爱人的贪婪](Lover's_Avarice.md "爱人的贪婪") | [爱人的贪婪](Lover's_Avarice_(Condition).md "爱人的贪婪（状态）") | 直至长休 | 感知永久减少1。 |
 | [遗失时光](Lost_Time.md "遗失时光") | [遗失时光](Lost_Time_(Condition).md "遗失时光（状态）") | 5 | [护甲等级](Armour_Class.md "护甲等级")减少2。无法进行[反应](Reactions_(disambiguation).md "反应（消歧义）")。 |
@@ -89,7 +89,7 @@
 
 | 名称 | 状态 | 持续时间 | 效果 |
 | --- | --- | --- | --- |
-| [灰矮人解毒剂](Duergar_Antidote.md "灰矮人解毒剂") | [灰矮人解毒剂](Duergar_Antidote_(Condition).md "灰矮人解毒剂（状态）") | 10 | 获得⁠⁠[中毒](Poison.md "中毒")抗性，并中和某些[灰矮人](Duergar.md "灰矮人")毒药。 |
+| [灰矮人解毒剂](Duergar_Antidote.md "灰矮人解毒剂") | [灰矮人解毒剂](Duergar_Antidote_(Condition).md "灰矮人解毒剂（状态）") | 10 | 获得⁠⁠[毒素](Poison.md "毒素")抗性，并中和某些[灰矮人](Duergar.md "灰矮人")毒药。 |
 | [医疗灵药](Elixir_of_Health.md "医疗灵药") | - | - | 中和所有[中毒](Poisoned_(Condition_Type).md "中毒（状态类型）")、[目盲](Blinded_(Condition_Type).md "目盲（状态类型）")、[石化](Petrified_(status_group).md "石化（状态组）")和[患病](Diseased_(Condition_Type).md "患病（状态类型）")。 |
 | [西凡那斯的灵药](Elixir_of_Silvanus.md "西凡那斯的灵药") | [治疗解毒剂](Curative_Antidote_(Condition).md "治疗解毒剂（状态）") | 1 | 中和所有[中毒](Poisoned_(Condition_Type).md "中毒（状态类型）")，并对中毒豁免检定获得[优势](Advantage.md "优势")。 |
 | [神秘灵药](Mysterious_Elixir.md "神秘灵药") | [假死](Feigning_Death_(Condition).md "假死（状态）") | 10 | 进入保护性昏迷。变得对除⁠⁠[心灵](Psychic.md "心灵")外的所有伤害具有[抗性](Resistant.md "抗性")。[患病](Diseased_(status_group).md "患病（状态组）")和[中毒](Poisoned_(status_group).md "中毒（状态组）")不再生效。 |

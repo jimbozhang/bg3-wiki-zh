@@ -27,7 +27,7 @@
 | [丧钟](Toll_the_Dead.md "丧钟") | 戏法 |  |  | - | 18 米 / 60 尺 | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 1d12⁠[黯蚀](Necrotic.md "黯蚀") |
 | [虚假生命](False_Life.md "虚假生命") | 1 |  |  | 长休 | 自身 | - | - |
 | [致伤术](Inflict_Wounds.md "致伤术") | 1 |  |  | - | 1.5 米 / 5 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 3d10⁠[黯蚀](Necrotic.md "黯蚀") |
-| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2 回合 | 18 米 / 60 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d8⁠[中毒](Poison.md "中毒") |
+| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2 回合 | 18 米 / 60 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d8⁠[毒素](Poison.md "毒素") |
 | [失明术](Blindness.md "失明术") | 2 |  |  | 10 回合 | 18 米 / 60 尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [衰弱射线](Ray_of_Enfeeblement.md "衰弱射线") | 2 |  |  | 10 回合 | 18 米 / 60 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | - |
 | [操纵死尸](Animate_Dead.md "操纵死尸") | 3 |  |  | - | 3 米 / 10尺 | - | - |
@@ -48,7 +48,7 @@
 | 名称 | 等级 | 施法时间 | 持续时间 | 范围/区域 | 攻击/豁免 | 伤害/效果 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [残暴之触](Ghoulish_Touch.md "残暴之触") | 1 |  |  | 2 回合 | 1.5 米 / 5 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d6⁠[黯蚀](Necrotic.md "黯蚀") |
-| [埃赛尔的疾病射线](Ethel's_Ray_of_Sickness.md "埃赛尔的疾病射线") | 2 |  |  | 2 回合 | 18 米 / 60 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[中毒](Poison.md "中毒") |
+| [埃赛尔的疾病射线](Ethel's_Ray_of_Sickness.md "埃赛尔的疾病射线") | 2 |  |  | 2 回合 | 18 米 / 60 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[毒素](Poison.md "毒素") |
 | [操纵死尸：骷髅](Animate_Dead_colon__Skeleton.md "操纵死尸：骷髅") | 3 |  |  | - | 3 米 / 10尺 | - | - |
 | [操纵死尸：僵尸](Animate_Dead_colon__Zombie.md "操纵死尸：僵尸") | 3 |  |  | - | 3 米 / 10尺 | - | - |
 | [降咒：额外伤害](Bestow_Curse_colon__Additional_Damage.md "降咒：额外伤害") | 3 |  |  | 10 回合 | 1.5 米 / 5 尺 | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 1d8⁠[黯蚀](Necrotic.md "黯蚀") |
@@ -100,7 +100,7 @@
 | [枯萎馈赠](Withering_Gift.md "枯萎馈赠") | 4 |  |  | 长休 | 18 米 / 60 尺 | - | - |
 | [枯萎窃贼](Withering_Theft.md "枯萎窃贼") | 4 |  |  | 长休 | 18 米 / 60 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d8⁠[黯蚀](Necrotic.md "黯蚀") |
 | [枯萎之触](Withering_Touch.md "枯萎之触") | 4 |  |  | - | 1.5 米 / 5 尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 4d8 + 3⁠[黯蚀](Necrotic.md "黯蚀") |
-| [卡里翁的爆炸死云术](Carrion's_Explosive_Cloudkill.md "卡里翁的爆炸死云术") | 5 |  |  | - | 18 米 / 60尺 / 3米 / 10尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 4d6⁠[挥砍](Slashing.md "挥砍") / 5d6⁠[中毒](Poison.md "中毒") |
+| [卡里翁的爆炸死云术](Carrion's_Explosive_Cloudkill.md "卡里翁的爆炸死云术") | 5 |  |  | - | 18 米 / 60尺 / 3米 / 10尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 4d6⁠[挥砍](Slashing.md "挥砍") / 5d6⁠[毒素](Poison.md "毒素") |
 | [可爱助手](Lovely_Assistant.md "可爱助手") | 5 |  |  | - | 8 米 / 27尺 | - | - |
 | [操纵死尸](Animate_Dead_(Balthazar).md "操纵死尸 (巴萨扎尔)") | 6 |  |  | - | 22 米 / 73尺 | - | - |
 | [秘术师卡里翁的邪恶诅咒](Mystic_Carrion's_Vile_Curse.md "秘术师卡里翁的邪恶诅咒") | 6 |  |  | 3 回合 | 18 米 / 60尺 | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 2d10⁠[黯蚀](Necrotic.md "黯蚀") |

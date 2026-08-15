@@ -24,7 +24,7 @@
 
 ## 备注
 
-- 物品描述称其效果为“造成 1d12⁠⁠[中毒](Poison.md "Poison") 伤害，若目标通过体质豁免检定则伤害减半”，这与桌面版一致，但在游戏中它仅施加基础的[中毒](Poisoned_(Condition).md "Poisoned (Condition)")状态。
+- 物品描述称其效果为“造成 1d12⁠⁠[毒素](Poison.md "Poison") 伤害，若目标通过体质豁免检定则伤害减半”，这与桌面版一致，但在游戏中它仅施加基础的[中毒](Poisoned_(Condition).md "Poisoned (Condition)")状态。
 
 ## 外部链接
 

@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "Miscellaneous")
+- [杂物物品](Miscellaneous.md "Miscellaneous")
 - 稀有度：普通
 - 重量：1.05 千克（2.1 磅）
 - 价格：35 金币

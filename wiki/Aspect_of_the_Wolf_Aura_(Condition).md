@@ -18,7 +18,7 @@
 
 ⁠半径：18 米 (60 英尺)
 
-- 受影响实体获得 +[敏捷调整值](Dexterity_Modifier.md "Dexterity Modifier") 的隐匿 [隐匿](Stealth.md "Stealth") 加值，只要它靠近野蛮人。
+- 受影响实体获得 +[敏捷调整值](Dexterity_Modifier.md "Dexterity Modifier") 的[隐匿检定](Stealth.md "隐匿") 加值，只要它靠近野蛮人。
 
 ## 狼之面貌灵光的来源
 
@@ -32,7 +32,7 @@ _维基数据库中未定义_
 
 | 状态 | 效果 |
 | --- | --- |
-| [狼之面貌](Aspect_of_the_Wolf_(Condition).md "狼之面貌 (状态)") | 受影响实体获得 +[敏捷调整值](Dexterity_Modifier.md "Dexterity Modifier") 的隐匿 [隐匿](Stealth.md "Stealth") 加值，只要它靠近野蛮人。 |
+| [狼之面貌](Aspect_of_the_Wolf_(Condition).md "狼之面貌 (状态)") | 受影响实体获得 +[敏捷调整值](Dexterity_Modifier.md "Dexterity Modifier") 的[隐匿检定](Stealth.md "隐匿") 加值，只要它靠近野蛮人。 |
 | 狼之面貌灵光 | 受影响实体及附近盟友获得 +[敏捷调整值](Dexterity_Modifier.md "Dexterity Modifier") 的 [隐匿](Stealth.md "Stealth") 检定加值。 |
 
 - 受影响实体及附近盟友获得 +[敏捷调整值](Dexterity_Modifier.md "Dexterity Modifier") 的 [隐匿](Stealth.md "Stealth") 检定加值。

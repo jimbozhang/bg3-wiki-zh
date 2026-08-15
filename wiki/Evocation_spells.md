@@ -136,7 +136,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [炽火魔弹](Fiery_Bolt.md "炽火魔弹") | C |  |  | - | 8 米 / 27尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d4⁠[火焰](Fire.md "火焰") |
 | [奴役恩赐](Boon_of_Servitude.md "奴役恩赐") | 1 |  |  | 2 驱散 | 18 米 / 60尺 | - | - |
-| [醉意龙卷](Drunken_Inhale.md "醉意龙卷") | 1 |  |  | 1 驱散 | 自身 / 5米 / 17尺 (锥形) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 4d8⁠[中毒](Poison.md "中毒") |
+| [醉意龙卷](Drunken_Inhale.md "醉意龙卷") | 1 |  |  | 1 驱散 | 自身 / 5米 / 17尺 (锥形) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 4d8⁠[毒素](Poison.md "毒素") |
 | [墓地斥退](Grave_Repulsion.md "墓地斥退") | 1 |  |  | - | 1.5 米 / 5 尺 / 5米 / 17尺 (立方体) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[黯蚀](Necrotic.md "黯蚀") |
 | [月光打击](Lunar_Smite.md "月光打击") | 1 |  |  | 2 驱散 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 普通武器伤害 / 1d6⁠[光耀](Radiant.md "光耀") / 1d4⁠[光耀](Radiant.md "光耀") |
 | [魔法飞弹](Magic_Missile_(Illithid_Arcanist).md "魔法飞弹 (灵吸怪奥术师)") | 1 |  |  | - | 30 米 / 100尺 | - | 6d4 + 30⁠[力场](Force.md "力场") |
@@ -147,7 +147,7 @@
 | [狂热报偿](Fanatic_Retaliation.md "狂热报偿") | 3 |  |  | 2 驱散 | 18 米 / 60尺 | [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定") | 6d10⁠[心灵](Psychic.md "心灵") |
 | [兽群打击](Hordestrike.md "兽群打击") | 4 |  |  | 2 驱散 | 16 米 / 53尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 4d8⁠[力场](Force.md "力场") |
 | [爆燃火花](Igniting_Spark.md "爆燃火花") | 4 |  |  | 2 驱散 | 18 米 / 60尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 6d6⁠[火焰](Fire.md "火焰") |
-| [元素叱喝](Elemental_Retort.md "元素叱喝") | 5 |  |  | - | 18 米 / 60尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[闪电](Lightning.md "闪电") / 3d8⁠[中毒](Poison.md "中毒") / 3d8⁠[火焰](Fire.md "火焰") / 3d8⁠[寒冷](Cold.md "寒冷") |
+| [元素叱喝](Elemental_Retort.md "元素叱喝") | 5 |  |  | - | 18 米 / 60尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[闪电](Lightning.md "闪电") / 3d8⁠[毒素](Poison.md "毒素") / 3d8⁠[火焰](Fire.md "火焰") / 3d8⁠[寒冷](Cold.md "寒冷") |
 | [塞伦涅的怒火](Selûne's_Ire_(spell).md "塞伦涅的怒火 (法术)") | 5 |  |  | - | 18 米 / 60 尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 12d12⁠[光耀](Radiant.md "光耀") |
 | [恶魔锁链](Diabolic_Chains.md "恶魔锁链") | 6 |  |  | - | 18 米 / 60尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 6d6⁠[火焰](Fire.md "火焰") / 6d6⁠[火焰](Fire.md "火焰") / 6d6⁠[火焰](Fire.md "火焰") |
 | [阿弗纳斯之焰](Flames_of_Avernus_(spell).md "阿弗纳斯之焰 (法术)") | 6 |  |  | - | 自身 / 5米 / 17尺 (锥形) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 6d6⁠[火焰](Fire.md "火焰") |

@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "Miscellaneous")
+- [杂物物品](Miscellaneous.md "Miscellaneous")
 
 - 稀有度：故事道具
 
@@ -16,7 +16,7 @@
 
 - UID `S_WYR_BigBarn_FistsWeaponChest_Key` UUID `ad61e4e4-f4af-4d8e-87d3-37dd310a5c3f` ## 获取地点
 
-- 由[拳手普尔](Poole.md "Poole")携带
+- 由[焰拳普尔](Poole.md "Poole")携带
 
 ## 用途
 

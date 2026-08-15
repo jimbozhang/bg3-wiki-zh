@@ -25,7 +25,7 @@
 | [轻型](Light.md "轻型") | C |  |  | 长休 | 1.5 m / 5 ft | - | - |
 | [法师之手](Mage_Hand.md "法师之手") | C |  |  | - | 18 m / 60ft | - | - |
 | [初级幻影](Minor_Illusion.md "初级幻影") | C |  |  | - | 18 m / 60ft | - | - |
-| [毒气喷溅](Poison_Spray.md "毒气喷溅") | C |  |  | - | 3 m / 10ft | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[中毒](Poison.md "中毒") |
+| [毒气喷溅](Poison_Spray.md "毒气喷溅") | C |  |  | - | 3 m / 10ft | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[毒素](Poison.md "毒素") |
 | [冷冻射线](Ray_of_Frost.md "冷冻射线") | C |  |  | 1 回合 | 18 m / 60ft | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8⁠[寒冷](Cold.md "寒冷") |
 | [电爪](Shocking_Grasp.md "电爪") | C |  |  | 1 回合 | 1.5 m / 5 ft | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8⁠[闪电](Lightning.md "闪电") |
 | [丧钟](Toll_the_Dead.md "丧钟") | C |  |  | - | 18 m / 60 ft | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[黯蚀](Necrotic.md "黯蚀") |

@@ -6,9 +6,9 @@
 - [2 艾瑟尔阿姨的恶毒嘲讽](#auntie-ethel's-vicious-mockeries)
   - [2.1 阿斯代伦](#astarion)
   - [2.2 盖尔](#gale)
-  - [2.3 卡拉奇](#karlach)
+  - [2.3 卡菈克](#karlach)
   - [2.4 莱艾泽尔](#lae'zel)
-  - [2.5 敏斯克](#minsc)
+  - [2.5 明斯克](#minsc)
   - [2.6 影心](#shadowheart)
   - [2.7 威尔](#wyll)
   - [2.8 龙裔](#dragonborn)
@@ -146,9 +146,9 @@
 - [Link](https://bg3.wiki/w/images/3/39/Viciousmockery-gale-02.wav) 来提前拜见死神？你会是个可爱的奇观。
 - [Link](https://bg3.wiki/w/images/4/42/Viciousmockery-gale-03.wav) 谁会嫉妒你呢，学徒？
 
-### 卡拉奇
+### 卡菈克
 
-提夫林标签的台词不会对卡拉奇播放。
+提夫林标签的台词不会对卡菈克播放。
 
 - [Link](https://bg3.wiki/w/images/5/51/Viciousmockery-karlach-01.wav) 除了自己的灵魂，谁的你都乐意卖，对吧？
 - [Link](https://bg3.wiki/w/images/f/f5/Viciousmockery-karlach-02.wav) 来吧，让我们拉一拉你的线，地狱傀儡。
@@ -157,10 +157,10 @@
 ### 莱艾泽尔
 
 - [Link](https://bg3.wiki/w/images/f/fb/Viciousmockery-laezel-01.wav) 你的族人永远不会接你回去——夺心魔渣滓。
-- [Link](https://bg3.wiki/w/images/4/4d/Viciousmockery-laezel-02.wav) 你想念跪舔弗拉基丝脚底的日子吗，吉斯？
+- [Link](https://bg3.wiki/w/images/4/4d/Viciousmockery-laezel-02.wav) 你想念跪舔维拉基斯脚底的日子吗，吉斯？
 - [Link](https://bg3.wiki/w/images/1/1b/Viciousmockery-laezel-03.wav) 一只蛤蟆带着蝌蚪！多么般配。
 
-### 敏斯克
+### 明斯克
 
 - [Link](https://bg3.wiki/w/images/0/0f/Viciousmockery-minsc-01.wav) 去摸你的老鼠吧，软脑壳。
 - [Link](https://bg3.wiki/w/images/3/32/Viciousmockery-minsc-02.wav) 多有趣！仓鼠养了个宠物。

@@ -10,7 +10,7 @@
   - 非玩家角色在死亡后无法被复活。
   - 通常，伙伴、临时伙伴和可玩角色可以被复活。然而，_如果他们尚未被招募，或者因游戏中的某些剧情线而死亡，则大多数无法被复活_。虽然不一定全面，但以下是已知的、对于可招募[伙伴](Companion.md "伙伴")角色而言死亡是永久的情况：
     - [阿斯代伦](Astarion.md "阿斯代伦")在玩家角色醒来时试图吸食其血液，被玩家角色杀死。
-      - 如果阿斯代伦作为[出身](Origin.md "出身")角色，且在[营地](Campsite.md "营地")的晚间[休息](Resting.md "休息")过场动画中未能通过[豁免检定](Saving_throws.md "豁免检定")来阻止自己吸干伙伴的血液，则该伙伴会死亡。
+      - 如果阿斯代伦作为[出身](Origin.md "出身")角色，且在[营地](Campsite.md "营地")的晚间[长休](Resting.md "长休")过场动画中未能通过[豁免检定](Saving_throws.md "豁免检定")来阻止自己吸干伙伴的血液，则该伙伴会死亡。
     - [盖尔](Gale.md "盖尔")的手在*路边山崖*的[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")处被[邪念](The_Dark_Urge.md "邪念")玩家角色砍掉。<sup>[\[1\]](#cite_note-1)</sup>
     - [哈尔辛](Halsin.md "哈尔辛")在试图[拯救](Lift_the_Shadow_Curse.md#The_Spirit_of_the_Land "解除幽影诅咒")[赛尼尔](Thaniel.md "赛尼尔")脱离[幽影诅咒](Shadow_Curse.md "幽影诅咒")时死亡。
     - [贾希拉](Jaheira.md "贾希拉")在最初[突袭](Infiltrate_Moonrise_Towers.md#Assaulting_Moonrise_Towers "潜入月出之塔")[月出之塔](Moonrise_Towers.md "月出之塔")期间，或在随后于塔顶与[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")的战斗中被杀。

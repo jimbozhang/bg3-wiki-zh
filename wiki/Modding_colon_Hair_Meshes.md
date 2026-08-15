@@ -44,7 +44,7 @@ Beards \_merged files can be found here: \_Shared\\Public\\SharedDev\\Content\\A
 
 For beard materials presets, which are what controls things like Roughness, HairSoupleness and BeardIntesity: \_Shared\\Public\\Shared\\Content\\Assets\\Characters\\Character Editor Presets\\Hair Type Presets\\[PAK]\_Beards\\_merged.lsf_
 
-You will find NPC beard meshes most commonly in their race such as: \_Generated\\Public\\Shared\\Assets\\Characters\\\_Models\\Githyanki\\_Hair\\Resources\\BEARD_GTY_M_Orpheus.GR2_
+You will find NPC beard meshes most commonly in their race such as: \_Generated\\Public\\Shared\\Assets\\Characters\\\_Models\\吉斯洋基\\_Hair\\Resources\\BEARD_GTY_M_Orpheus.GR2_
 
 | CC Name | Asset Name | ID | Image |
 | --- | --- | --- | --- |

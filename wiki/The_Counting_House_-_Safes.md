@@ -500,7 +500,7 @@ _如果队伍在与米德霍尼交谈时选择“开立银行账户”并支付�
 - [夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")
 - [金锭](Gold_Ingot.md "金锭") - x2
 - [银锭](Silver_Ingot.md "银锭")
-- [盾卫审讯记录](Shield_Steward_Interrogation_Log.md "盾卫审讯记录")
+- [盾牌管家审讯日志](Shield_Steward_Interrogation_Log.md "盾牌管家审讯日志")
 - [星界棱镜劫案](The_Astral_Prism_Heist.md "星界棱镜劫案")
 - [掌控之中](To_Take_Control.md "掌控之中")
 - 112金币

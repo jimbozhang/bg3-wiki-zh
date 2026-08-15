@@ -1,4 +1,4 @@
-The **柳条箱** is a [容器](Container.md "Container") found in the [提夫林避难所](Tiefling_Hideout.md "提夫林避难所"). It is of Medium size and has 5 生命值.
+The **柳条箱** is a [容器](Container.md "Container") found in the [提夫林避难所](Tiefling_Hideout.md "提夫林避难所"). It is of 中型 size and has 5 生命值.
 
 Far from impregnable, but roomy and lightweight.
 
@@ -6,7 +6,7 @@ Far from impregnable, but roomy and lightweight.
 
 - [容器](Containers.md "Containers")
 - Rarity: Common
-- Weight: 2.5 kg (5 lb)
+- 重量: 2.5 kg (5 lb)
 - Price: 1 gp
 - UID `CONT_GEN_Chest_Wicker_A` UUID `b8bfef23-3f4e-4a82-86dc-2b7b6abbddb8` ## Condition: Sturdy
 

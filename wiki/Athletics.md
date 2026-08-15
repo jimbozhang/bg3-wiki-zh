@@ -86,7 +86,7 @@
 | --- | --- | --- |
 | [至尊噬咬](Ascendant_Bite.md "至尊噬咬") | -1 (目标) / +1 (使用者) | 所有属性检定 |
 | [星界知识：力量](Astral_Knowledge_colon__Strength.md "星界知识：力量") | 熟练项 |  |
-| [诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）") / [战斗激励](Combat_Inspiration.md "战斗激励") | +1d6 / +1d8 / +1d10 | 下一次属性检定 |
+| [吟游诗人激励](Bardic_Inspiration_(class_action).md "吟游诗人激励（职业动作）") / [战斗激励](Combat_Inspiration.md "战斗激励") | +1d6 / +1d8 / +1d10 | 下一次属性检定 |
 | [扭曲幸运：属性检定奖励](Bend_Luck_colon__Ability_Check_Bonus.md "扭曲幸运：属性检定奖励") | +1d4 | 所有属性检定 |
 | [降咒：力量劣势](Bestow_Curse_colon__Strength_Disadvantage.md "降咒：力量劣势") | 劣势 | 所有力量属性检定 |
 | [强化魔法：恩赐](Bolstering_Magic_colon__Boon.md "强化魔法：恩赐") | +1d4 | 所有属性检定 |

@@ -4,20 +4,20 @@
 
 游戏内界面
 
-**炼金术**是一种制作机制，允许你将收集的草药、野生蘑菇、晶体和怪物部件转化为[药水](Potions.md "Potions")、[灵药](Elixirs.md "Elixirs")、[手雷](Grenades.md "Grenades")和[涂层](Coatings.md "Coatings")。所有炼金成分，包括它们的萃取物，都存储在[炼金术小袋](Alchemy_Pouch.md "炼金术小袋")中。
+**炼金术**是一种制造机制，允许你将收集的草药、野生蘑菇、晶体和怪物部件转化为[药水](Potions.md "Potions")、[灵药](Elixirs.md "Elixirs")、[手雷](Grenades.md "Grenades")和[涂层](Coatings.md "Coatings")。所有炼金成分，包括它们的萃取物，都存储在[炼金术小袋](Alchemy_Pouch.md "炼金术小袋")中。
 
 ## 目录
 
 - [1 基本流程](#基本流程)
-  - [1.1 制作](#制作)
+  - [1.1 制造](#制造)
   - [1.2 配方](#配方)
   - [1.3 寻找成分](#寻找成分)
   - [1.4 炼金术商人](#炼金术商人)
 - [2 消耗品配方](#消耗品配方)
   - [2.1 药水](#药水)
   - [2.2 灵药](#灵药)
-  - [2.3 爆弹](#爆弹)
-  - [2.4 涂油](#涂油)
+  - [2.3 手雷](#手雷)
+  - [2.4 涂层](#涂层)
 - [3 萃取物](#萃取物)
 - [4 成就](#成就)
 - [5 备注](#备注)
@@ -26,15 +26,15 @@
 
 在非战斗状态下按 H 键可打开炼金术界面。
 
-炼金术可分为两种不同的制作流程：制作[消耗品](Consumables.md "Consumables")（药水、灵药、爆弹和涂油），以及制作[炼金萃取物](#extractions)（升华物、盐、精华、灰烬、酸解物和悬液）<sup>[\[1\]](#cite_note-1)</sup>
+炼金术可分为两种不同的制造流程：制造[消耗品](Consumables.md "Consumables")（药水、灵药、手雷和涂层），以及制造[炼金萃取物](#extractions)（升华物、盐、精华、灰烬、酸解物和悬液）<sup>[\[1\]](#cite_note-1)</sup>
 
-### 制作
+### 制造
 
-萃取物可以通过组合三个相同的成分来制作（例如，组合三个*艾蒿*来制作*艾蒿粉*）。消耗品可以通过解锁配方并组合两种指定的萃取物来制作——一种由特定成分制成，另一种可以是任何一种类型的萃取物（例如，组合*游荡者的零嘴盐*和任意*悬液*来制作治疗药水）。**你应该谨慎选择在通用槽中使用的萃取物**，因为你可能需要它作为其他配方中的特定组件。
+萃取物可以通过组合三个相同的成分来制造（例如，组合三个*艾蒿*来制造*艾蒿粉*）。消耗品可以通过解锁配方并组合两种指定的萃取物来制造——一种由特定成分制成，另一种可以是任何一种类型的萃取物（例如，组合*游荡者的零嘴盐*和任意*悬液*来制造治疗药水）。**你应该谨慎选择在通用槽中使用的萃取物**，因为你可能需要它作为其他配方中的特定组件。
 
 ### 配方
 
-使用“萃取所有成分”按钮会将你所有的原始成分转化为萃取物（每种成分只转化为一种萃取物，所以不用担心浪费成分）。这样做会解锁相关的萃取物和消耗品配方，允许你随后制作已发现的消耗品（并手动制作已发现的萃取物）。配方有时也会在收集新成分时，或阅读某些书籍或笔记时解锁<sup>[\[2\]](#cite_note-2)</sup>。
+使用“萃取所有成分”按钮会将你所有的原始成分转化为萃取物（每种成分只转化为一种萃取物，所以不用担心浪费成分）。这样做会解锁相关的萃取物和消耗品配方，允许你随后制造已发现的消耗品（并手动制造已发现的萃取物）。配方有时也会在收集新成分时，或阅读某些书籍或笔记时解锁<sup>[\[2\]](#cite_note-2)</sup>。
 
 ### 寻找成分
 
@@ -42,7 +42,7 @@
 
 ### 炼金术商人
 
-| 结果 | 特定成分 | 来源成分 | 通用成分 | 制作等级[[](#cite_note-craft_level-6 "[")6] | 交易等级[[](#cite_note-trade_level-7 "[")7] | 价格比[[](#cite_note-price_ratio-8 "[")8] |
+| 结果 | 特定成分 | 来源成分 | 通用成分 | 制造等级[[](#cite_note-craft_level-6 "[")6] | 交易等级[[](#cite_note-trade_level-7 "[")7] | 价格比[[](#cite_note-price_ratio-8 "[")8] |
 | --- | --- | --- | --- | --- | --- | --- |
 | [抗毒剂](Antidote.md "抗毒剂") | [艾蒿粉](Salts_of_Mugwort.md "艾蒿粉") | [艾蒿](Mugwort.md "艾蒿") | 悬液 | 1 | 1 | 0.87 |
 | [深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水") | [独角兽角金属箔](Essence_of_Unicorn_Horn.md "独角兽角金属箔") | [独角兽角](Unicorn_Horn.md "独角兽角") | 盐 |  | 1[[](#cite_note-trader-9 "[")9] | [[](#cite_note-no_ratio-10 "[")10] |
@@ -87,12 +87,12 @@
 
 - 药水：15
 - 灵药：24
-- 爆弹：8
-- 涂油：17
+- 手雷：8
+- 涂层：17
 
 ### 药水
 
-| 结果 | 特定成分 | 来源成分 | 通用成分 | 制作等级[[](#cite_note-craft_level-6 "[")6] | 交易等级[[](#cite_note-trade_level-7 "[")7] | 价格比[[](#cite_note-price_ratio-8 "[")8] |
+| 结果 | 特定成分 | 来源成分 | 通用成分 | 制造等级[[](#cite_note-craft_level-6 "[")6] | 交易等级[[](#cite_note-trade_level-7 "[")7] | 价格比[[](#cite_note-price_ratio-8 "[")8] |
 | --- | --- | --- | --- | --- | --- | --- |
 | [奥术滋养灵药](Elixir_of_Arcane_Cultivation.md "奥术滋养灵药") | [编织苔藓的污物](Vitriol_of_Weavemoss.md "编织苔藓的污物") | [编织苔藓](Weavemoss.md "编织苔藓") | 升华物 | 1 | 1 | 0.95 |
 | [高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation.md "高效奥术滋养灵药") | [天蓝石悬液](Suspension_of_Laculite.md "天蓝石悬液") | [天蓝石](Laculite.md "天蓝石") | 酸解物 | 6 | 1 | 0.71 |
@@ -121,7 +121,7 @@
 
 ### 灵药
 
-| 结果 | 特定成分 | 来源成分 | 通用成分 | 制作等级[[](#cite_note-craft_level-6 "[")6] | 交易等级[[](#cite_note-trade_level-7 "[")7] | 价格比[[](#cite_note-price_ratio-8 "[")8] |
+| 结果 | 特定成分 | 来源成分 | 通用成分 | 制造等级[[](#cite_note-craft_level-6 "[")6] | 交易等级[[](#cite_note-trade_level-7 "[")7] | 价格比[[](#cite_note-price_ratio-8 "[")8] |
 | --- | --- | --- | --- | --- | --- | --- |
 | [炼金火焰](Alchemist's_Fire.md "炼金火焰") | [火焰琥珀灰](Ashes_of_Fire_Amber.md "火焰琥珀灰") | [火焰琥珀](Fire_Amber.md "火焰琥珀") | 盐 | 1 | 1 | 1.08 |
 | [闪光弹](Flashblinder.md "闪光弹") | [青足龙蛇鳞片升华物](Sublimate_of_Behir_Scales.md "青足龙蛇鳞片升华物") | [青足龙蛇鳞片](Behir_Scales.md "青足龙蛇鳞片") | 灰烬 | 9 | 1[[](#cite_note-trader-9 "[")9] | 1.13 |
@@ -130,11 +130,11 @@
 | [加速孢子弹](Haste_Spore_Grenade.md "加速孢子弹") | [加速孢子升华物](Sublimate_of_Haste_Spores.md "加速孢子升华物") | [加速孢子](Hastening_Spores.md "加速孢子") | 精华 | 6 |  | 1.39 |
 | [炉光炸弹](Hearthlight_Bomb.md "炉光炸弹") | [夜光精华](Essence_of_Nightlight.md "夜光精华") | [夜明蕨叶](Nightlight_Frond.md "夜明蕨叶") | 悬液 | 1 | 1[[](#cite_note-trader-9 "[")9] | 0.87 |
 | [毒素孢子弹](Noxious_Spore_Grenade.md "毒素孢子弹") | [毒素孢子升华物](Sublimate_of_Poison_Spores.md "毒素孢子升华物") | [毒素孢子](Poison_Spore.md "毒素孢子") | 灰烬 | 6 | 1[[](#cite_note-trader-9 "[")9] | 1.07 |
-| [蛛网爆弹](Web_Grenade.md "蛛网爆弹") | [蛛丝悬液](Suspension_of_Spider_Silk.md "蛛丝悬液") | [丝腺](Silk_Gland.md "丝腺") | 酸解物 | 1 | 1[[](#cite_note-trader-9 "[")9] | 0.67 |
+| [蛛网手雷](Web_Grenade.md "蛛网手雷") | [蛛丝悬液](Suspension_of_Spider_Silk.md "蛛丝悬液") | [丝腺](Silk_Gland.md "丝腺") | 酸解物 | 1 | 1[[](#cite_note-trader-9 "[")9] | 0.67 |
 
-### 爆弹
+### 手雷
 
-| 结果 | 特定成分 | 来源成分 | 通用成分 | 制作等级[[](#cite_note-craft_level-6 "[")6] | 交易等级[[](#cite_note-trade_level-7 "[")7] | 价格比[[](#cite_note-price_ratio-8 "[")8] |
+| 结果 | 特定成分 | 来源成分 | 通用成分 | 制造等级[[](#cite_note-craft_level-6 "[")6] | 交易等级[[](#cite_note-trade_level-7 "[")7] | 价格比[[](#cite_note-price_ratio-8 "[")8] |
 | --- | --- | --- | --- | --- | --- | --- |
 | [纵火狂之油](Arsonist's_Oil.md "纵火狂之油") | [霜冻之耳升华物](Sublimate_of_Frosted_Ears.md "霜冻之耳升华物") | [霜耳](Frosted_Ear.md "霜耳") | 灰烬 | 6 | 1 | 0.93 |
 | [简易毒药](Basic_Poison.md "简易毒药") | [骨帽酸解物](Vitriol_of_Bonecap.md "骨帽酸解物") | [骨帽菇](Bonecap.md "骨帽菇") | 灰烬 | 1 | 1 | 0.95 |
@@ -154,7 +154,7 @@
 | [法师灾祸油](Wizardsbane_Oil.md "法师灾祸油") | [小法妖尾精华](Essence_of_Gremishka_Tail.md "小法妖尾精华") | [小法妖尾](Gremishka_Tail.md "小法妖尾") | 悬液 |  | 1 | 0.95 |
 | [翼龙毒素](Wyvern_Toxin.md "翼龙毒素") | [飞龙毒刺灰烬](Ashes_of_Wyvern_Stinger.md "飞龙毒刺灰烬") | [飞龙毒刺](Wyvern_Stinger.md "飞龙毒刺") | 盐 | 6 | 6 | 1.14 |
 
-### 涂油
+### 涂层
 
 | 灰烬 | 精华 | 盐 | 升华物 | 悬液 | 酸解物 |
 | --- | --- | --- | --- | --- | --- |
@@ -182,22 +182,22 @@
 ## 成就
 
 家酿师
-在单次游戏过程中制作三种独特的炼金溶液——干杯！
+在单次游戏过程中制造三种独特的炼金溶液——干杯！
 
 ## 备注
 
-1. [↑](#cite_ref-1) 萃取物的重量小于用于制作它们的三种组件的总重量，且组件没有其他用途，因此减少库存负担的一种方法是尽可能多地将组件转化为萃取物。
+1. [↑](#cite_ref-1) 萃取物的重量小于用于制造它们的三种组件的总重量，且组件没有其他用途，因此减少库存负担的一种方法是尽可能多地将组件转化为萃取物。
 1. [↑](#cite_ref-2) 存在一个问题，即萃取物的配方解锁可能不一致，导致即使玩家拥有三个成分也无法使用。发生这种情况时，通常可以通过将成分丢弃到地面，然后再捡起来，强制解锁相关的萃取物配方。
 1. [↑](#cite_ref-3) 如果在[第二幕](Act_Two.md "第二幕")中向她献血。
 1. [↑](#cite_ref-4) 如果[埃斯特女士](Esther.md "埃斯特女士")没有收到真正的吉斯洋基蛋作为[偷一枚吉斯洋基蛋](Steal_a_Githyanki_Egg.md "偷一枚吉斯洋基蛋")的一部分。
 1. [↑](#cite_ref-5) 取决于你将[箴言菇](Noblestalk.md "箴言菇")交给谁，作为[第一幕](Act_One.md "第一幕")中[找到蘑菇猎人](Find_the_Mushroom_Picker.md "找到蘑菇猎人")的一部分。
-1. ↑ [6.0](#cite_ref-craft_level_6-0) [6.1](#cite_ref-craft_level_6-1) [6.2](#cite_ref-craft_level_6-2) [6.3](#cite_ref-craft_level_6-3) 制作等级在此指购买炼金成分所需的等级要求。
+1. ↑ [6.0](#cite_ref-craft_level_6-0) [6.1](#cite_ref-craft_level_6-1) [6.2](#cite_ref-craft_level_6-2) [6.3](#cite_ref-craft_level_6-3) 制造等级在此指购买炼金成分所需的等级要求。
 1. ↑ [7.0](#cite_ref-trade_level_7-0) [7.1](#cite_ref-trade_level_7-1) [7.2](#cite_ref-trade_level_7-2) [7.3](#cite_ref-trade_level_7-3) 交易等级在此指购买消耗品所需的等级要求。
-1. ↑ [8.0](#cite_ref-price_ratio_8-0) [8.1](#cite_ref-price_ratio_8-1) [8.2](#cite_ref-price_ratio_8-2) [8.3](#cite_ref-price_ratio_8-3) 价格比在此指物品价格除以购买所有制作成分的价格，即，
+1. ↑ [8.0](#cite_ref-price_ratio_8-0) [8.1](#cite_ref-price_ratio_8-1) [8.2](#cite_ref-price_ratio_8-2) [8.3](#cite_ref-price_ratio_8-3) 价格比在此指物品价格除以购买所有制造成分的价格，即，
 
 价格比 = 物品价格 / 3 * (来源成分价格 + 通用来源成分价格)。
 
-对于通用来源成分，使用了最便宜的选择，但对于酸解物，使用了骨帽（5 金币）而不是黑夹竹桃（4 金币），因为后者只能在第三幕购买。价格比值小于一意味着购买物品比购买制作成分更便宜。要将价格比应用于成功掷骰的转化师，请将该值加倍。
+对于通用来源成分，使用了最便宜的选择，但对于酸解物，使用了骨帽（5 金币）而不是黑夹竹桃（4 金币），因为后者只能在第三幕购买。价格比值小于一意味着购买物品比购买制造成分更便宜。要将价格比应用于成功掷骰的转化师，请将该值加倍。
 9\. ↑ [9.0](#cite_ref-trader_9-0) [9.1](#cite_ref-trader_9-1) [9.2](#cite_ref-trader_9-2) [9.3](#cite_ref-trader_9-3) [9.4](#cite_ref-trader_9-4) [9.5](#cite_ref-trader_9-5) [9.6](#cite_ref-trader_9-6) 此物品只能从特定商人处购买。这些商人在相应的消耗品页面中提及。
 10\. ↑ [10.0](#cite_ref-no_ratio_10-0) [10.1](#cite_ref-no_ratio_10-1) [10.2](#cite_ref-no_ratio_10-2) 此值被省略，因为来源成分无法购买。
 11\. ↑ [11.0](#cite_ref-honour_mode_11-0) [11.1](#cite_ref-honour_mode_11-1) 在荣誉模式中，此等级要求提高到 6。

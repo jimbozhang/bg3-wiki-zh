@@ -73,7 +73,7 @@
 
 - 由于错误地使用了 `DamageBonus` 函数，奥术射击在击中敌人时造成的额外伤害永远无法造成重击。
 
-[驼鹿面貌](Aspect_of_the_Elk.md "驼鹿面貌")
+[麋鹿面貌](Aspect_of_the_Elk.md "麋鹿面貌")
 |
 
 - 额外移动速度会在角色在其效果范围内开始回合或移动进入其范围时应用。此效果在同一回合内应用的次数没有限制，且额外移动速度在离开有效范围后不会被移除。角色在范围内非常轻微地多次进出（每次消耗少于 1.5 米 / 5 英尺的移动速度）可以逐渐获得理论上无上限的额外移动速度。
@@ -93,11 +93,11 @@
 
 - 此攻击只能以[大型](Large.md "大型")或更小体型的角色为目标，且缺少类似攻击（如[摔绊攻击（近战）](Trip_Attack_(Melee).md "摔绊攻击（近战）")）上找到的相关工具提示警告。
 
-[ 诗人激励（职业动作） ](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")
+[ 吟游诗人激励（职业动作） ](Bardic_Inspiration_(class_action).md "吟游诗人激励（职业动作）")
 |
 
-- 当用于以 +1d10 加值修改攻击掷骰时，诗人激励状态不会从角色身上移除。
-- 诗人激励可能以已受 +1d10 版本影响的角色为目标，浪费效果，因为它们不叠加。
+- 当用于以 +1d10 加值修改攻击掷骰时，吟游诗人激励状态不会从角色身上移除。
+- 吟游诗人激励可能以已受 +1d10 版本影响的角色为目标，浪费效果，因为它们不叠加。
 
 [ 啮咬（蝙蝠） ](Bite_(Bat).md "啮咬（蝙蝠）")
 |
@@ -110,10 +110,10 @@
 - 挥舞匕首、长剑等的要求仅适用于主手。虽然“刀锋之歌受阻”将显示在法师身上，但如果副手挥舞着不兼容的武器，刀锋之歌仍然可用。
   - 如果副手武器不兼容，你无法积累任何高潮充能，也无法使用高潮。
 
-[ 强化魔法：一级法术位 ](Bolstering_Magic_colon__Level_1_Spell_Slot.md "强化魔法：一级法术位")
+[ 强化魔法：1环法术位 ](Bolstering_Magic_colon__Level_1_Spell_Slot.md "强化魔法：1环法术位")
 |
 
-- 此能力无法为[德鲁伊](Druid.md "德鲁伊")恢复法术位，因为该职业被错误地未赋予技术被动 `UnlockedSpellSlotLevel1`。然而，此被动特性的缺失对德鲁伊的施法能力没有其他影响。这仅适用于一级法术位，因此[强化魔法：二级法术位](Bolstering_Magic_colon__Level_2_Spell_Slot.md "强化魔法：二级法术位")和[强化魔法：三级法术位](Bolstering_Magic_colon__Level_3_Spell_Slot.md "强化魔法：三级法术位")应能正常工作。
+- 此能力无法为[德鲁伊](Druid.md "德鲁伊")恢复法术位，因为该职业被错误地未赋予技术被动 `UnlockedSpellSlotLevel1`。然而，此被动特性的缺失对德鲁伊的施法能力没有其他影响。这仅适用于1环法术位，因此[强化魔法：2环法术位](Bolstering_Magic_colon__Level_2_Spell_Slot.md "强化魔法：2环法术位")和[强化魔法：3环法术位](Bolstering_Magic_colon__Level_3_Spell_Slot.md "强化魔法：3环法术位")应能正常工作。
 
 [天界光箭](Bolt_of_Celestial_Light.md "天界光箭")
 |
@@ -190,14 +190,14 @@
 | [ 奥术射击：穿透箭 ](Arcane_Shot_colon__Piercing_Arrow.md "奥术射击：穿透箭") | 由于此攻击不涉及攻击掷骰，因此无法受益于某些检查攻击掷骰类型的额外伤害来源，尽管工具提示中列出了额外伤害。这些包括：[奥术协同](Arcane_Synergy_(Condition).md "奥术协同（状态）") [箭术手套](Gloves_of_Archery.md "箭术手套") [猎人印记](Hunter's_Mark.md "猎人印记") [神射手：孤注一掷](Sharpshooter_colon__All_In.md "神射手：孤注一掷") [泰坦弦弓](Titanstring_Bow.md "泰坦弦弓") |
 | [ 奥术射击：寻的箭 ](Arcane_Shot_colon__Seeking_Arrow.md "奥术射击：寻的箭") | 由于此攻击不涉及攻击掷骰，因此无法受益于某些检查攻击掷骰类型的额外伤害来源，尽管工具提示中列出了额外伤害。这些包括：[奥术协同](Arcane_Synergy_(Condition).md "奥术协同（状态）") [箭术手套](Gloves_of_Archery.md "箭术手套") [猎人印记](Hunter's_Mark.md "猎人印记") [神射手：孤注一掷](Sharpshooter_colon__All_In.md "神射手：孤注一掷") [泰坦弦弓](Titanstring_Bow.md "泰坦弦弓") |
 | [ 奥术射击：暗影箭 ](Arcane_Shot_colon__Shadow_Arrow.md "奥术射击：暗影箭") | 由于错误地使用了 DamageBonus 函数，奥术射击在击中敌人时造成的额外伤害永远无法造成重击。 |
-| [驼鹿面貌](Aspect_of_the_Elk.md "驼鹿面貌") | 额外移动速度会在角色在其效果范围内开始回合或移动进入其范围时应用。此效果在同一回合内应用的次数没有限制，且额外移动速度在离开有效范围后不会被移除。角色在范围内非常轻微地多次进出（每次消耗少于 1.5 米 / 5 英尺的移动速度）可以逐渐获得理论上无上限的额外移动速度。 |
+| [麋鹿面貌](Aspect_of_the_Elk.md "麋鹿面貌") | 额外移动速度会在角色在其效果范围内开始回合或移动进入其范围时应用。此效果在同一回合内应用的次数没有限制，且额外移动速度在离开有效范围后不会被移除。角色在范围内非常轻微地多次进出（每次消耗少于 1.5 米 / 5 英尺的移动速度）可以逐渐获得理论上无上限的额外移动速度。 |
 | [ 谋杀灵光（动作） ](Aura_of_Murder_(action).md "谋杀灵光（动作）") | 尽管有额外描述，但不存在任何限制导致无法被恐慌的生物免疫谋杀灵光。 |
 | [唤醒蠕行之爪](Awaken_Crawling_Claws.md "唤醒蠕行之爪") | 游戏内描述称此动作会击晕 4 米 / 13 英尺内的敌人，但实际半径显著更大，为 12 米 / 40 英尺。 |
 | [摔翻打击](Backbreaker.md "摔翻打击") | 此攻击只能以[大型](Large.md "大型")或更小体型的角色为目标，且缺少类似攻击（如[摔绊攻击（近战）](Trip_Attack_(Melee).md "摔绊攻击（近战）")）上找到的相关工具提示警告。 |
-| [ 诗人激励（职业动作） ](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）") | 当用于以 +1d10 加值修改攻击掷骰时，诗人激励状态不会从角色身上移除。诗人激励可能以已受 +1d10 版本影响的角色为目标，浪费效果，因为它们不叠加。 |
+| [ 吟游诗人激励（职业动作） ](Bardic_Inspiration_(class_action).md "吟游诗人激励（职业动作）") | 当用于以 +1d10 加值修改攻击掷骰时，吟游诗人激励状态不会从角色身上移除。吟游诗人激励可能以已受 +1d10 版本影响的角色为目标，浪费效果，因为它们不叠加。 |
 | [ 啮咬（蝙蝠） ](Bite_(Bat).md "啮咬（蝙蝠）") | 工具提示称此攻击应施加两回合名为“虚弱感染”的状态，该状态与[感染](Infected_(Condition).md "感染（状态）")相同，但体质 -3。此攻击缺少将此类状态施加于目标的必要代码。 |
 | [ 刀锋之歌 ](Bladesong.md "刀锋之歌") | 挥舞匕首、长剑等的要求仅适用于主手。虽然“刀锋之歌受阻”将显示在法师身上，但如果副手挥舞着不兼容的武器，刀锋之歌仍然可用。如果副手武器不兼容，你无法积累任何高潮充能，也无法使用高潮。 |
-| [ 强化魔法：一级法术位 ](Bolstering_Magic_colon__Level_1_Spell_Slot.md "强化魔法：一级法术位") | 此能力无法为[德鲁伊](Druid.md "德鲁伊")恢复法术位，因为该职业被错误地未赋予技术被动 UnlockedSpellSlotLevel1。然而，此被动特性的缺失对德鲁伊的施法能力没有其他影响。这仅适用于一级法术位，因此[强化魔法：二级法术位](Bolstering_Magic_colon__Level_2_Spell_Slot.md "强化魔法：二级法术位")和[强化魔法：三级法术位](Bolstering_Magic_colon__Level_3_Spell_Slot.md "强化魔法：三级法术位")应能正常工作。 |
+| [ 强化魔法：1环法术位 ](Bolstering_Magic_colon__Level_1_Spell_Slot.md "强化魔法：1环法术位") | 此能力无法为[德鲁伊](Druid.md "德鲁伊")恢复法术位，因为该职业被错误地未赋予技术被动 UnlockedSpellSlotLevel1。然而，此被动特性的缺失对德鲁伊的施法能力没有其他影响。这仅适用于1环法术位，因此[强化魔法：2环法术位](Bolstering_Magic_colon__Level_2_Spell_Slot.md "强化魔法：2环法术位")和[强化魔法：3环法术位](Bolstering_Magic_colon__Level_3_Spell_Slot.md "强化魔法：3环法术位")应能正常工作。 |
 | [天界光箭](Bolt_of_Celestial_Light.md "天界光箭") | 此动作在任何时候都不使用卓越骰，与游戏内工具提示“未命中：不消耗卓越骰”相反。 |
 | [不可撼动之恩赐](Boon_of_the_Unstoppable.md "不可撼动之恩赐") | 当巴尔邪教徒吟唱仪式以触发此动作时，它会施加一个有错误的状态，显示为不可撼动，但缺乏任何实际的伤害减免。因此，每回合的第一次伤害实例不会被减至 1。同一回合内的后续伤害实例会被正确的不可撼动状态正确地减至 1。 |
 | [ 备战（近战） ](Brace_(Melee).md "备战（近战）") | 当与其他重掷骰子的特性结合时，战斗日志可能显示错误的重掷次数。 |
@@ -233,8 +233,8 @@
 | [ 卑劣技巧：手腕轻弹 ](Dirty_Trick_colon__Flick_o'_the_Wrist.md "卑劣技巧：手腕轻弹") | 此动作不会触发许多武器上找到的命中武器函数，如[轻语匕首](Sussur_Dagger.md "轻语匕首")。 |
 | [ 卑劣技巧：扬沙 ](Dirty_Trick_colon__Sand_Toss.md "卑劣技巧：扬沙") | 当与当前激活的远程武器一起使用时，[攻击掷骰](Attack_roll.md "攻击掷骰")使用[力量](Strength.md "力量")调整值。由于此动作为近战武器攻击掷骰，它会受到[巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "巨武器大师：全力一击")的 -5 惩罚，但当挥舞[双手](Two-Handed.md "双手")和[两用](Versatile.md "两用")（无盾牌）武器时，其伤害不会增加 10。 |
 | [缴械打击](Disarming_Strike.md "缴械打击") | 此动作的工具提示称“未命中：不消耗卓越骰”。这是一个简单的显示错误；此动作不需要[卓越骰](Battle_Master#Level_3.md#Level_3 "战斗大师")，在成功命中时也不会消耗任何卓越骰。 |
-| [ 神圣干预：光耀复苏 ](Divine_Intervention_colon__Opulent_Revival.md "神圣干预：光耀复苏") | 此能力不会恢复补丁 8 中添加的任何新职业资源。生命值根据施法者的最大生命值恢复给角色，而非受影响的角色。 |
-| [至圣斩](Divine_Smite.md "至圣斩") | 此动作的[一级法术位](Spells#Spell_slots.md#Spell_slots "法术")版本在荣誉模式下会因代码覆盖而改变攻击动画。此动作的[四级法术位](Spells#Spell_slots.md#Spell_slots "法术")、[五级法术位](Spells#Spell_slots.md#Spell_slots "法术")和[六级法术位](Spells#Spell_slots.md#Spell_slots "法术")版本在荣誉模式下用作攻击时不会丢失 DRS，而等效的[反应](Divine_Smite_(reaction).md "至圣斩（反应）")版本会丢失。 |
+| [ 神圣干预：光辉复苏 ](Divine_Intervention_colon__Opulent_Revival.md "神圣干预：光辉复苏") | 此能力不会恢复补丁 8 中添加的任何新职业资源。生命值根据施法者的最大生命值恢复给角色，而非受影响的角色。 |
+| [至圣斩](Divine_Smite.md "至圣斩") | 此动作的[1环法术位](Spells#Spell_slots.md#Spell_slots "法术")版本在荣誉模式下会因代码覆盖而改变攻击动画。此动作的[4环法术位](Spells#Spell_slots.md#Spell_slots "法术")、[5环法术位](Spells#Spell_slots.md#Spell_slots "法术")和[6环法术位](Spells#Spell_slots.md#Spell_slots "法术")版本在荣誉模式下用作攻击时不会丢失 DRS，而等效的[反应](Divine_Smite_(reaction).md "至圣斩（反应）")版本会丢失。 |
 | [ 神圣打击：寒冷（近战） ](Divine_Strike_colon__Cold_(Melee).md "神圣打击：寒冷（近战）") | 此攻击未正确标记寒冷 DamageType 标志，这意味着它不会触发某些检查寒冷伤害的效果。 |
 | [ 神圣打击：寒冷（远程） ](Divine_Strike_colon__Cold_(Ranged).md "神圣打击：寒冷（远程）") | 当挥舞两把[手弩](Hand_Crossbows.md "手弩")并启用双持切换时，此攻击会消耗一个[动作](Actions#Resources.md#Resources "动作")和一个[附赠动作](Actions#Resources.md#Resources "动作")，但不会执行副手攻击。 |
 | [ 神圣打击：火焰（近战） ](Divine_Strike_colon__Fire_(Melee).md "神圣打击：火焰（近战）") | 此攻击未正确标记火焰 DamageType 标志，这意味着它不会触发某些检查火焰伤害的效果。 |

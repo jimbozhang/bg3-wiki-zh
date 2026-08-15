@@ -75,7 +75,7 @@ Race/class modding
 - Assets
 - Content
 - - Assets
-- Characters
+- 角色
 - [PAK]\_Armor \<-- 自定义服装和武器的材质和模型 LSX
 - GUI
 - RootTemplates \<--- 你的 Roottemplate lsx 放在这里。MySweetMod.Lsx
@@ -433,7 +433,7 @@ data "MaxAmount" "1"
 
 如果添加自定义被动，你的 **Passive.txt** 将如下所示。你根本不需要 passive.txt，你可以通过重用游戏的被动来制作完美的物品，这只是为有抱负的人准备的。
 
-示例被动代码借用自 Isobel 的护甲。
+示例被动代码借用自 伊索贝尔 的护甲。
 
 new entry "CUSTOMPASSIVEIMADE"
 type "PassiveData"

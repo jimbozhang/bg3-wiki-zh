@@ -4,7 +4,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "杂物")
+- [杂物物品](Miscellaneous.md "杂物")
 - 稀有度：故事道具
 - 重量：0.2 kg (0.4 lb)
 - 价格：1 gp

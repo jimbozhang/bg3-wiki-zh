@@ -21,7 +21,7 @@
 近战：1.5米（5英尺）
 [灵巧](Finesse.md "灵巧")
 [轻型](Light_(weapon_property).md "轻型（武器属性）")
-[投掷攻击](Thrown.md "投掷攻击")
+[投掷](Thrown.md "投掷")
 [可蘸取](Dippable.md "可蘸取")
 
 ### 动作

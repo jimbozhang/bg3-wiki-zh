@@ -10,7 +10,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [激活召雷术](Activate_Call_Lightning.md "Activate Call Lightning") | 3级法术 |  | 18 m (60 ft) 2 m (7 ft) (半径) | [敏捷](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws") | 3d10⁠[闪电](Lightning.md "Lightning") |
 | [激活巫术箭](Activate_Witch_Bolt.md "Activate Witch Bolt") | 戏法 |  | 30 m (100 ft) | - | 1d12⁠[闪电](Lightning.md "Lightning") |
-| [噼啪砰孢子](Bibberbang_Spores.md "Bibberbang Spores") | 动作 | [长休](Long_Rest.md "Long rest") | 18 m (60 ft) 2 m (7 ft) (半径) | 远程法术 [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4 + 1⁠[中毒](Poison.md "Poison") |
+| [噼啪砰孢子](Bibberbang_Spores.md "Bibberbang Spores") | 动作 | [长休](Long_Rest.md "Long rest") | 18 m (60 ft) 2 m (7 ft) (半径) | 远程法术 [攻击掷骰](Attack_roll.md "Attack Roll") | 2d4 + 1⁠[毒素](Poison.md "Poison") |
 | [剑舞高潮](Bladesong_Climax.md "Bladesong Climax") | 动作 | + | 9 m (30 ft) 3 m (10 ft) (半径) | [智力](Intelligence.md "Intelligence") [豁免](Saving_throws.md "Saving throws") | 1d6⁠[力场](Force.md "Force") + 1d6⁠[力场](Force.md "Force") (每个剑舞伤害充能)1d6⁠[治疗](Healing.md "Healing") + 1d6⁠[治疗](Healing.md "Healing") (每个剑舞治疗充能) |
 | [瞬息飞矢](Blink-of-an-eye_Bolt.md "Blink-of-an-eye Bolt") | 武器动作 |  | 武器 | 远程武器 [攻击掷骰](Attack_roll.md "Attack Roll") | 普通武器伤害 |
 | [凶蛮跳跃](Brutal_Leap.md "Brutal Leap") | 动作 | + 每回合 | 9 m (30 ft) 3 m (10 ft) (半径) | [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws") | 施加 [倒伏](Prone_(Condition).md "Prone (Condition)") |

@@ -5,13 +5,13 @@
 ## 目录
 
 - [1 戏法](#戏法)
-- [2 一级法术](#一级法术)
-- [3 二级法术](#二级法术)
-- [4 三级法术](#三级法术)
-- [5 四级法术](#四级法术)
-- [6 五级法术](#五级法术)
-- [7 六级法术](#六级法术)
-- [8 九级法术](#九级法术)
+- [2 1环法术](#1环法术)
+- [3 2环法术](#2环法术)
+- [4 3环法术](#3环法术)
+- [5 4环法术](#4环法术)
+- [6 5环法术](#5环法术)
+- [7 6环法术](#6环法术)
+- [8 9环法术](#9环法术)
 - [9 特殊NPC法术](#特殊NPC法术)
 - [10 特殊物品法术](#特殊物品法术)
 - [11 另见](#另见)
@@ -34,7 +34,7 @@
 - [毒气喷溅](Poison_Spray.md "Poison Spray")
 - [燃火术](Produce_Flame.md "Produce Flame")
 - [冷冻射线](Ray_of_Frost.md "Ray_of_Frost")
-- [神术抗力](Resistance_(Cantrip).md "Resistance (Cantrip)") * [圣火术](Sacred_Flame.md "Sacred Flame")
+- [抗性术](Resistance_(Cantrip).md "Resistance (Cantrip)") * [圣火术](Sacred_Flame.md "Sacred Flame")
 - [橡棍术](Shillelagh.md "Shillelagh")
 - [电爪](Shocking_Grasp.md "Shocking Grasp")
 - [奇术](Thaumaturgy.md "Thaumaturgy")
@@ -42,9 +42,9 @@
 - [丧钟](Toll_the_Dead.md "Toll the Dead")
 - [克敌机先](True_Strike.md "True Strike") * [恶毒嘲笑](Vicious_Mockery.md "Vicious Mockery")
 
-## 一级法术
+## 1环法术
 
-- **一级法术**是施放时消耗一级[法术位](Spells.md#Spell_Slots "Spells")的法术。
+- **1环法术**是施放时消耗一级[法术位](Spells.md#Spell_Slots "Spells")的法术。
 
 - [化兽为友](Animal_Friendship.md "Animal Friendship")
 
@@ -52,7 +52,7 @@
 
 - [哈达之臂](Arms_of_Hadar.md "Arms of Hadar")
 
-- [灾祸](Bane_(spell).md "Bane (spell)") *[祝福术](Bless.md "Bless")* [燃烧之手](Burning_Hands.md "Burning Hands")
+- [灾祸术](Bane_(spell).md "Bane (spell)") *[祝福术](Bless.md "Bless")* [燃烧之手](Burning_Hands.md "Burning Hands")
 
 - [魅惑人类](Charm_Person.md "Charm Person")
 
@@ -104,9 +104,9 @@
 
 - [巫术箭](Witch_Bolt.md "巫术箭") * [激愤斩](Wrathful_Smite.md "Wrathful Smite")
 
-## 二级法术
+## 2环法术
 
-- **二级法术**是施放时消耗二级[法术位](Spells.md#Spell_Slots "Spells")的法术。
+- **2环法术**是施放时消耗二级[法术位](Spells.md#Spell_Slots "Spells")的法术。
 
 - [支援术](Aid.md "支援术")
 
@@ -150,9 +150,9 @@
 
 - [蛛网术](Web.md "Web")
 
-## 三级法术
+## 3环法术
 
-- **三级法术**是施放时消耗三级[法术位](Spells.md#Spell_Slots "Spells")的法术。
+- **3环法术**是施放时消耗三级[法术位](Spells.md#Spell_Slots "Spells")的法术。
 
 - [操纵死尸](Animate_Dead.md "Animate Dead")
 
@@ -186,9 +186,9 @@
 
 - [雪雨暴](Sleet_Storm.md "Sleet Storm") *[减速](Slow.md "减速")* [死者交谈](Speak_with_Dead.md "Speak with Dead") *[精魂守卫](Spirit_Guardians.md "Spirit Guardians")* [臭云术](Stinking_Cloud.md "Stinking Cloud") *[吸血鬼之触](Vampiric_Touch.md "Vampiric Touch")* [活力监守](Warden_of_Vitality.md "Warden of Vitality")
 
-## 四级法术
+## 4环法术
 
-- **四级法术**是施放时消耗四级[法术位](Spells.md#Spell_Slots "Spells")的法术。
+- **4环法术**是施放时消耗四级[法术位](Spells.md#Spell_Slots "Spells")的法术。
 
 - [放逐术](Banishment.md "Banishment") * [枯萎术](Blight.md "Blight")
 
@@ -212,9 +212,9 @@
 
 - [欧提路克弹力法球](Otiluke's_Resilient_Sphere.md "Otiluke's Resilient Sphere") *[魅影杀手](Phantasmal_Killer.md "Phantasmal Killer")* [变形术](Polymorph.md "Polymorph") *[惊惧斩](Staggering_Smite.md "Staggering Smite")* [石肤术](Stoneskin.md "Stoneskin") * [火墙术](Wall_of_Fire.md "Wall of Fire")
 
-## 五级法术
+## 5环法术
 
-- **五级法术**是施放时消耗五级[法术位](Spells.md#Spell_Slots "Spells")的法术。
+- **5环法术**是施放时消耗五级[法术位](Spells.md#Spell_Slots "Spells")的法术。
 
 - [放逐打击](Banishing_Smite.md "Banishing Smite")
 
@@ -240,9 +240,9 @@
 
 - [心灵遥控](Telekinesis.md "Telekinesis") * [石墙术](Wall_of_Stone.md "Wall of Stone")
 
-## 六级法术
+## 6环法术
 
-- **六级法术**是施放时消耗六级[法术位](Spells.md#Spell_Slots "Spells")的法术。
+- **6环法术**是施放时消耗六级[法术位](Spells.md#Spell_Slots "Spells")的法术。
 
 - [秘法门](Arcane_Gate.md "Arcane Gate") *[剑刃屏障](Blade_Barrier.md "Blade Barrier")* [链状闪电](Chain_Lightning.md "Chain Lightning")
 
@@ -266,7 +266,7 @@
 
 - [阳炎射线](Sunbeam.md "Sunbeam") *[冰墙](Wall_of_Ice.md "Wall of Ice")* [棘墙术](Wall_of_Thorns.md "Wall of Thorns") * [御风而行](Wind_Walk.md "Wind Walk")
 
-## 九级法术
+## 9环法术
 
 - 这些是仅对[非玩家角色](Non-player_characters.md "Non-Player Characters")可用或通过独特任务解锁的特殊法术。
 
@@ -346,7 +346,7 @@
 
 - [克雷斯卡的恩惠](Kereska's_Favour.md "Kereska's Favour")
 
-- [卡利德的礼物：援助](Khalid's_Gift_colon__Aid.md "Khalid's Gift: Aid")
+- [卡利德的礼物：支援术](Khalid's_Gift_colon__Aid.md "Khalid's Gift: Aid")
 
 - [麻痹射线](Paralyzing_Ray.md "Paralyzing Ray")
 

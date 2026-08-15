@@ -21,7 +21,7 @@
 
 ### 第一幕
 
-队伍可以在鹦鹉螺坠毁后散落的地点发现另外两个破裂、失效的夺心魔贮囊：一个位于[疮痍的海滩](Ravaged_Beach.md "疮痍的海滩")坐标 X: 175 Y: 274，另一个位于[森林](Forest.md "森林")坐标 X: 124 Y: 376。<sup>[\[1\]](#cite_note-1)</sup> 第二个贮囊属于一位未知俘虏，位于流向[雄狮河](River_Chionthar.md "雄狮河")的小溪岸边，横跨[染疫村落](Blighted_Village.md "染疫村落")。<sup>[\[2\]](#cite_note-2)</sup>
+队伍可以在鹦鹉螺坠毁后散落的地点发现另外两个破裂、失效的夺心魔贮囊：一个位于[疮痍的海滩](Ravaged_Beach.md "疮痍的海滩")坐标 X: 175 Y: 274，另一个位于[森林](Forest.md "森林")坐标 X: 124 Y: 376。<sup>[\[1\]](#cite_note-1)</sup> 第二个贮囊属于一位未知俘虏，位于流向[乔恩萨河](River_Chionthar.md "乔恩萨河")的小溪岸边，横跨[染疫村落](Blighted_Village.md "染疫村落")。<sup>[\[2\]](#cite_note-2)</sup>
 
 ### 第二幕
 

@@ -10,7 +10,7 @@
 - [法师之友](Mage's_Friend.md "Mage's Friend")
 - [变形者的恩赐之戒](Shapeshifter's_Boon_Ring.md "Shapeshifter's Boon Ring")（当伪装或变形时）
 
-通用法术和职业特定的检定增益，如[神导术](Guidance.md "Guidance")、[强化属性](Enhance_Ability.md "Enhance Ability")和[诗人激励](Bardic_Inspiration_(class_action).md) 在此也尤为有效。
+通用法术和职业特定的检定增益，如[神导术](Guidance.md "Guidance")、[强化属性](Enhance_Ability.md "Enhance Ability")和[吟游诗人激励](Bardic_Inspiration_(class_action).md) 在此也尤为有效。
 
 作为替代方案，如果无法装备[弯曲的智力头带](Warped_Headband_of_Intellect.md "Warped Headband of Intellect")，可以通过[守墓人](Withers.md "Withers")临时重置角色属性，使其智力达到17，并通过[属性提升](Ability_Improvement.md "Ability Improvement")专长两次提升至20。之后可以将角色重置回主要配置，同时保留失落之镜的属性增强效果。
 
@@ -20,7 +20,7 @@
 
 一名[游荡者](Rogue.md "Rogue")11级（任意副职）兼[知识领域](Knowledge_Domain.md "Knowledge Domain")[牧师](Cleric.md "Cleric")1级，初始智力至少16的角色，可以使用[属性提升](Ability_Improvement.md "Ability Improvement")专长两次，将智力提升至20。游荡者10级获得第三个专长，可用于[仪式施法者](Ritual_Caster.md "Ritual Caster")以获得[伪装术](Disguise_Self.md "Disguise Self")，从而激活[变形者的恩赐之戒](Shapeshifter's_Boon_Ring.md "Shapeshifter's Boon Ring")。从牧师处选择[宗教](Religion.md "Religion")作为两项知识专精技能之一，并选择[神导术](Guidance.md "Guidance")作为戏法之一。
 
-5（智力）+ 4（宗教熟练项）+ 4（宗教专精）+ 10（来自[可靠才能](Reliable_Talent.md "Reliable Talent")的d20最小值）+ 1（神导术1d4最小值）+ 1（变形者的恩赐1d4最小值）= 25
+5（智力）+ 4（宗教熟练项）+ 4（宗教专精）+ 10（来自[可靠才能](Reliable_Talent.md "Reliable Talent")的20面骰最小值）+ 1（神导术1d4最小值）+ 1（变形者的恩赐1d4最小值）= 25
 
 ## 先祖记忆
 

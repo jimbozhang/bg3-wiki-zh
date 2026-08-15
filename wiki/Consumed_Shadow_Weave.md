@@ -18,7 +18,7 @@
 
 ## 错误
 
-- 获得的3级阴影法术位在饮用[深邃沉眠药水](Potion_of_Angelic_Slumber.md "深邃沉眠药水")或受[神圣干预：光耀复苏](Divine_Intervention_colon__Opulent_Revival.md "神圣干预：光耀复苏")影响时不会重置。
+- 获得的3级阴影法术位在饮用[深邃沉眠药水](Potion_of_Angelic_Slumber.md "深邃沉眠药水")或受[神圣干预：光辉复苏](Divine_Intervention_colon__Opulent_Revival.md "神圣干预：光辉复苏")影响时不会重置。
 
 ---
 *Source: [Consumed Shadow Weave](https://bg3.wiki/wiki/Consumed_Shadow_Weave)*

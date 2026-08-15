@@ -6,7 +6,7 @@
 
 - Thisobald 过度饮用了自己的酿造物。他的[护甲等级](Armour_Class.md "护甲等级")有-5的惩罚，并且对挥砍、穿刺、钝击和雷鸣伤害[易伤](Vulnerable.md "Vulnerable")。
 
-[命令：匍匐](Command_colon__Grovel_(Condition).md "命令：匍匐 (状态)")
+[命令术：匍匐](Command_colon__Grovel_(Condition).md "命令术：匍匐 (状态)")
 |
 
 - 无法移动或使用[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "反应")，并且在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。

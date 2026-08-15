@@ -62,7 +62,7 @@
 | ⁠[穿刺](Piercing.md "穿刺") | 抗性 |
 | ⁠[火焰](Fire.md "火焰") | 易伤 |
 | ⁠[黯蚀](Necrotic.md "黯蚀") | 抗性 |
-| ⁠[中毒](Poison.md "中毒") | 免疫 |
+| ⁠[毒素](Poison.md "毒素") | 免疫 |
 | ⁠[心灵](Psychic.md "心灵") | 免疫 |
 | ⁠[光耀](Radiant.md "光耀") | 抗性 |
 

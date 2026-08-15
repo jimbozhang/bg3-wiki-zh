@@ -51,7 +51,7 @@
 
 - [嗜血](Bloodthirst.md "嗜血") → [精通重击](Improved_Critical.md "精通重击")
 - [决斗者的特权](Duellist's_Prerogative.md "决斗者的特权") → [优雅决斗者](Elegant_Duellist.md "优雅决斗者") _（当副手为空时）_
-- [地底国王之刃](Knife_of_the_Undermountain_King.md "地底国王之刃") → [开膛破肚](Organ_Rearranger.md "开膛破肚")
+- [地脉迷城之王的匕首](Knife_of_the_Undermountain_King.md "地脉迷城之王的匕首") → [开膛破肚](Organ_Rearranger.md "开膛破肚")
 - [致命一击](The_Dead_Shot.md "致命一击") → [精通重击](Improved_Critical.md "精通重击")<sup>[\[1\]](#cite_note-1)</sup>
 - [隐形威胁](Unseen_Menace.md "隐形威胁") _（当武器处于[隐形](Invisible_Weapon_(Condition).md "隐形武器（状态）")状态时）_
 
@@ -96,7 +96,7 @@
 
 ### 灵吸怪威能
 
-- [极端孤注一掷](Fierce_Perilous_Stakes.md "极端孤注一掷") - 目标的重击阈值降低5，但这也使施法者易受所有伤害。此特性的多次应用会叠加。
+- [极端孤注一掷](Fierce_Perilous_Stakes.md "极端孤注一掷") - 目标的重击阈值降低5，但这也使施法者易伤所有伤害。此特性的多次应用会叠加。
 
 ## 最大化重击价值
 

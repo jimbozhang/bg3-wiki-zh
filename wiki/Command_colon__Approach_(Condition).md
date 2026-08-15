@@ -1,6 +1,6 @@
-# 命令：前进 (状态)
+# 命令术：前进 (状态)
 
-**命令：前进**
+**命令术：前进**
 
 - 必须使用最短路径向施法者移动。
 - 无法进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。
@@ -21,19 +21,19 @@
 
 - 受影响的队伍成员将完全由游戏AI控制，其行为可能出乎意料。
 
-## 命令：前进的来源
+## 命令术：前进的来源
 
-- [命令：前进](Command_colon__Approach.md "命令：前进")
+- [命令术：前进](Command_colon__Approach.md "命令术：前进")
 | 状态 | 效果 |
 | --- | --- |
-| 命令：前进 | 必须使用最短路径向施法者移动。无法进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。 |
-| [命令：停止](Command_colon__Halt_(Condition).md "命令：停止 (状态)") | 无法移动。无法进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。 |
+| 命令术：前进 | 必须使用最短路径向施法者移动。无法进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。 |
+| [命令术：停止](Command_colon__Halt_(Condition).md "命令术：停止 (状态)") | 无法移动。无法进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。 |
 
-- [命令：前进 (不死生物)](Command_colon__Approach_(Undead).md "命令：前进 (不死生物)")
+- [命令术：前进 (不死生物)](Command_colon__Approach_(Undead).md "命令术：前进 (不死生物)")
 
 - [威严斗篷：前进](Mantle_of_Majesty_colon__Approach.md "威严斗篷：前进")
 
-## 拥有命令：前进的生物
+## 拥有命令术：前进的生物
 
 *维基数据库中未定义*
 
@@ -42,7 +42,7 @@
 - 必须使用最短路径向施法者移动。
 - 无法进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。
 
-[命令：停止](Command_colon__Halt_(Condition).md "命令：停止 (状态)")
+[命令术：停止](Command_colon__Halt_(Condition).md "命令术：停止 (状态)")
 |
 
 - 无法移动。

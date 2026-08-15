@@ -56,7 +56,7 @@
 | [杂耍之靴](Acrobat_Shoes.md "杂耍之靴") | 0.55 kg / 1.1 lb | 35 | [体操](Acrobatics.md "体操") +1 [优势](Advantage.md "优势")于[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")。 |
 | [假死之靴](Boots_of_Apparent_Death.md "假死之靴") | 0.55 kg / 1.1 lb | 190 | [假死术](Feign_Death.md "假死术") ( + ) 施放为3环法术（ 充能：[短休](Short_rest.md "短休")。） |
 | [奥术强化之靴](Boots_of_Arcane_Bolstering.md "奥术强化之靴") | 0.55 kg / 1.1 lb | 190 | [迅捷施法者](Rapid_Caster.md "迅捷施法者")每次他们[疾走](Dash.md "疾走")，穿戴者获得2回合的[奥术充能](Arcane_Charge_(Condition).md "奥术充能（状态）")。 |
-| [响亮之靴](Boots_of_Brilliance.md "响亮之靴") | 0.55 kg / 1.1 lb | 190 | [恢复诗人激励](Restore_Bardic_Inspiration.md "恢复诗人激励") 演奏你的乐器以恢复一个[诗人激励](Bardic_Inspiration_(resource).md "诗人激励（资源）")位。 ( 充能：[长休](Long_Rest.md "长休")。) |
+| [响亮之靴](Boots_of_Brilliance.md "响亮之靴") | 0.55 kg / 1.1 lb | 190 | [恢复诗人激励](Restore_Bardic_Inspiration.md "恢复诗人激励") 演奏你的乐器以恢复一个[吟游诗人激励点](Bardic_Inspiration_(resource).md "吟游诗人激励点（资源）")位。 ( 充能：[长休](Long_Rest.md "长休")。) |
 | [友好步伐之靴](Boots_of_Genial_Striding.md "友好步伐之靴") | 0.55 kg / 1.1 lb | 190 | [友好步伐](Genial_Strider.md "友好步伐")穿戴者的[移动速度](Movement_speed.md "移动速度")不受[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")阻碍。 |
 | [速度之靴](Boots_of_Speed.md "速度之靴") | 0.55 kg / 1.1 lb | 190 | [碰撞鞋跟](Click_Heels.md "碰撞鞋跟") 点击靴子的鞋跟以获得速度和行动自如。 |
 | [不羁库席戈之靴](Boots_of_Uninhibited_Kushigo.md "不羁库席戈之靴") | 0.55 kg / 1.1 lb | 190 | [老练毒辣](Experienced_And_Deadly.md "老练毒辣")穿戴者使用徒手打击时，造成额外等于其[感知](Wisdom.md "感知")调整值的伤害。 |

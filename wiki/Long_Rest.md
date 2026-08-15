@@ -59,7 +59,7 @@
 
 - 生命值 - 最多恢复其最大值的一半，向下取整
 - 资源：
-  - 5级或以上的[吟游诗人](Bard.md "吟游诗人")恢复其[诗人激励](Bardic_Inspiration_(resource).md) charges
+  - 5级或以上的[吟游诗人](Bard.md "吟游诗人")恢复其[吟游诗人激励](Bardic_Inspiration_(resource).md) charges
   - [牧师](Cleric.md "牧师")恢复其[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")
   - [德鲁伊](Druid.md "德鲁伊")恢复其[荒野形态充能](Druid.md#Level_2 "德鲁伊")
   - [战士](Fighter.md "战士")恢复其[动作如潮](Action_Surge.md "动作如潮")和[回气](Second_Wind.md "回气")能力的使用，以及其[卓越骰](Battle_Master.md#Level_3 "战斗大师")和[奥术箭](Arcane_Archer.md#Arcane_Arrow "奥术箭手")。
@@ -84,7 +84,7 @@
 - 2级[吟游诗人](Bard.md "吟游诗人")特性[休憩曲](Song_of_Rest.md "休憩曲")的作用与短休相同。
 - [深邃浅眠药水](Potion_of_Angelic_Reprieve.md "深邃浅眠药水")的作用相当于短休（除了恢复所有已消耗的和[法术位](Spell_Slot.md "法术位")），如果消耗它的角色保持睡眠且不受干扰，持续2回合。
 - [深邃沉眠药水](Potion_of_Angelic_Slumber.md "深邃沉眠药水")的作用相当于长休，如果消耗它的角色保持睡眠且不受干扰，持续2回合。
-- [神圣干预：光耀复苏](Divine_Intervention_colon__Opulent_Revival.md "神圣干预：光耀复苏")恢复队伍，如同他们进行了长休，复活任何倒地的队伍成员，甚至可以在战斗中使用。然而，任何形式的神圣干预在整个游戏中每个角色只能使用一次。
+- [神圣干预：光辉复苏](Divine_Intervention_colon__Opulent_Revival.md "神圣干预：光辉复苏")恢复队伍，如同他们进行了长休，复活任何倒地的队伍成员，甚至可以在战斗中使用。然而，任何形式的神圣干预在整个游戏中每个角色只能使用一次。
 - 在序幕中[鹦鹉螺](Nautiloid.md "鹦鹉螺")上或[第二幕](Act_Two.md "第二幕")的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，[第三幕](Act_Three.md "第三幕")[希望之邸](House_of_Hope.md "希望之邸")的[内室](Boudoir.md "内室")中，或同样在第三幕的[至高大殿](High_Hall.md "至高大殿")中，使用[恢复站](Restoration.md "恢复站")舱，也会恢复队伍，如同他们进行了长休，_而不会_结束相关效果，如[神莓](Goodberry.md "神莓")或[灵药](Elixirs.md "灵药")。
 
 ---

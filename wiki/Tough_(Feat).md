@@ -159,7 +159,7 @@
 ## 注释和参考文献
 
 1. ↑ [1.0](#cite_ref-DruidWSInteractions_1-0) [1.1](#cite_ref-DruidWSInteractions_1-1) 有关荒野形态特性和交互的详细信息，请参见[在荒野形态中有效的特性列表](List_of_features_that_work_in_Wild_Shape.md "在荒野形态中有效的特性列表")。有关每种形态的属性列表，请参见[所有荒野形态](Wild_Shape.md#All_Wild_Shape_Forms "荒野形态")。
-1. [↑](#cite_ref-PikesPolearmMaster_2-0) 游戏中未说明，但长柄武器大师对矛也有效。长柄武器大师被编码为适用于任何标记为 SPEAR 或 STAVE（长棍）的武器，以及具有[额外范围](Extra_Reach.md "额外范围")的武器（长柄刀、长戟和**矛**）
+1. [↑](#cite_ref-PikesPolearmMaster_2-0) 游戏中未说明，但长柄武器大师对长矛也有效。长柄武器大师被编码为适用于任何标记为 SPEAR 或 STAVE（长棍）的武器，以及具有[额外范围](Extra_Reach.md "额外范围")的武器（长柄刀、长戟和**长矛**）
 
 ---
 *Source: [Feats](https://bg3.wiki/wiki/Feats)*

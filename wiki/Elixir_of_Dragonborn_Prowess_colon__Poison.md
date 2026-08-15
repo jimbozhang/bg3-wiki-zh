@@ -26,7 +26,7 @@
 
 持续时间：直到[长休](Long_Rest.md "长休")
 
-- 受影响实体在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "Advantage")，对[中毒](Poison.md "Poison")伤害拥有[抗性](Resistance.md "Resistance")，并且可以在其下一次[长休](Long_Rest.md "Long Rest")前使用一次[疾病射线](Ray_of_Sickness.md "Ray_of_Sickness")。
+- 受影响实体在[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")[属性检定](Ability_Check.md "属性检定")上拥有[优势](Advantage.md "Advantage")，对[毒素](Poison.md "Poison")伤害拥有[抗性](Resistance.md "Resistance")，并且可以在其下一次[长休](Long_Rest.md "Long Rest")前使用一次[疾病射线](Ray_of_Sickness.md "Ray_of_Sickness")。
 
 ## 获取地点
 

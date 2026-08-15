@@ -39,7 +39,7 @@
 - [神圣打击：雷鸣](Divine_Strike_colon__Thunder.md "神圣打击：雷鸣")
 - [神圣打击：雷鸣（近战）](Divine_Strike_colon__Thunder_(Melee).md "神圣打击：雷鸣（近战）")
 - [神圣打击：雷鸣（远程）](Divine_Strike_colon__Thunder_(Ranged).md "神圣打击：雷鸣（远程）")
-- [元素劈砍（雷鸣）](Elemental_Cleaver_(thunder).md "元素劈砍（雷鸣）")
+- [元素战刃（雷鸣）](Elemental_Cleaver_(thunder).md "元素战刃（雷鸣）")
 - [全垒打](Grand_Slam.md "全垒打")
 - [雷地拳](Grounded_Thunder_Strike.md "雷地拳")
 - [涌动之风](Gushing_Air.md "涌动之风")

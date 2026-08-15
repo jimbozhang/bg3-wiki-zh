@@ -14,7 +14,7 @@
 
 | 地表 | 效果 |
 | --- | --- |
-| [死云术](Cloudkill_(cloud).md "死云术 (云)") | 每回合受到5d8⁠⁠[中毒](Poison.md "中毒")伤害。 |
+| [死云术](Cloudkill_(cloud).md "死云术 (云)") | 每回合受到5d8⁠⁠[毒素](Poison.md "毒素")伤害。 |
 | [爬行者粘液](Crawler_Mucus_(cloud).md "爬行者粘液 (云)") | 使范围内的生物[中毒](Poisoned_(Condition).md "中毒 (状态)")并[麻痹](Paralysed_(Condition).md "麻痹 (状态)") |
 | [黑暗术](Darkness_(cloud).md "黑暗术 (云)") | 使范围内的生物[目盲](Blinded_(Condition).md "目盲 (状态)")并阻挡远程攻击进出。 |
 | [卓尔毒药云](Drow_Poison_Cloud.md "卓尔毒药云") | 范围内的生物可能[中毒](Poisoned_(Condition).md "中毒 (状态)")并陷入[沉睡](Sleeping_(Condition).md "沉睡 (状态)") |
@@ -23,7 +23,7 @@
 | [加速孢子](Haste_Spores_(cloud).md "加速孢子 (云)") | 使范围内的生物获得+2[护甲等级](Armour_Class.md "护甲等级")、双倍移动速度和一个额外动作。 |
 | [冰雾术](Ice_Cloud.md "冰雾术") | 对云内的生物造成10d6⁠⁠[寒冷](Cold.md "寒冷")伤害。 |
 | [怨恨](Malice_(cloud).md "怨恨 (云)") | 范围内的生物可能[中毒](Poisoned_(Condition).md "中毒 (状态)")并[目盲](Blinded_(Condition).md "目盲 (状态)") |
-| [有毒烟雾](Noxious_Fumes.md "有毒烟雾") | 每回合造成1d4⁠⁠[中毒](Poison.md "中毒") + 2d4⁠⁠[中毒](Poison.md "中毒")（体质豁免减半）伤害。 |
+| [有毒烟雾](Noxious_Fumes.md "有毒烟雾") | 每回合造成1d4⁠⁠[毒素](Poison.md "毒素") + 2d4⁠⁠[毒素](Poison.md "毒素")（体质豁免减半）伤害。 |
 | [抚慰孢子](Pacifying_Spores_(cloud).md "抚慰孢子 (云)") | 阻止云内生物的动作、附赠动作和反应。 |
 | [毒云](Poison_Cloud.md "毒云") | 使范围内的生物有几率[中毒](Poisoned_(Condition).md "中毒 (状态)")。 |
 | [高等治疗药水](Potion_of_Greater_Healing_(cloud).md "高等治疗药水 (云)") | 恢复4d4+4⁠⁠[治疗](Healing.md "治疗")并停止[燃烧](Burning_(Condition).md "燃烧 (状态)")。 |

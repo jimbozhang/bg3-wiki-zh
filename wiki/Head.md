@@ -4,7 +4,7 @@
 
 **头部**可能指：
 
-- [故事道具](Story_Items.md "Story Items")：
+- [故事物品](Story_Items.md "Story Items")：
   - [卡菈克的头](Karlach's_Head.md "Karlach's Head")
   - [尼讷的头](Nere's_Head.md "Nere's Head")
     - 后期：[绽开的卓尔头颅](Blooming_Drow_Head.md "Blooming Drow Head")
@@ -13,7 +13,7 @@
   - [萨林的头骨](Sarin's_Skull.md "Sarin's Skull")
 - [皮肤松弛的脑袋](Slack-Skinned_Head.md "Slack-Skinned Head") - [夺心魔殖民地](Mind_Flayer_Colony.md "Mind Flayer Colony")中的一个界面，可让您与[悬浮心智](Mind_(suspended)交互.md)。
 - [石像鬼的头颅](Gargoyle_Head.md "Gargoyle Head") - 一种[陷阱](Trap.md "Trap")
-- [杂物](Miscellaneous_Items.md "Miscellaneous Items")：
+- [杂物物品](Miscellaneous_Items.md "Miscellaneous Items")：
   - [断头](Severed_Head.md "Severed Head")
   - [机器人零件](Automaton_Component.md "Automaton Component")
   - [坏掉的短矛头](Head_of_a_Broken_Spear.md "Head of a Broken Spear")

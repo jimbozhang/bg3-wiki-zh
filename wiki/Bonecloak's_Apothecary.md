@@ -8,16 +8,16 @@
 | --- | --- | --- | --- | --- |
 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") |  |  |  |  |
 | ↑ |  |  |  |  |
-| [繁花山脊公园](Bloomridge_Park.md "繁花山脊公园") | ← | 骨篷药材店 | → | [海伯瑞之家](Highberry's_Home.md "海伯瑞之家") |
+| [繁花山脊公园](Bloomridge_Park.md "繁花山脊公园") | ← | 白骨斗篷药材店 | → | [海伯瑞之家](Highberry's_Home.md "海伯瑞之家") |
 | ↓ |  |  |  |  |
 | [风暴海岸军械库](Stormshore_Armoury.md "风暴海岸军械库") |  |  |  |  |
 ↓
 [风暴海岸军械库](Stormshore_Armoury.md "风暴海岸军械库")
-**骨篷药材店**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。
+**白骨斗篷药材店**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。
 
 > “
 >
-> 骨篷药材店。趁我们还没关门，能拿多少就拿多少。
+> 白骨斗篷药材店。趁我们还没关门，能拿多少就拿多少。
 >
 > „
 
@@ -42,11 +42,11 @@
 
 ## 概述
 
-**骨篷药材店**是一家大型药店，与[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")和[下城主墙](Lower_City_Central_Wall.md "下城主墙")一起排列在下城的中央广场上。这是一座两层建筑，带有一个地下室和一个建在西侧的温室。
+**白骨斗篷药材店**是一家大型药店，与[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")和[下城主墙](Lower_City_Central_Wall.md "下城主墙")一起排列在下城的中央广场上。这是一座两层建筑，带有一个地下室和一个建在西侧的温室。
 
 这家药店由一对矮人夫妇——[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")和[巴伦·骨篷](Baelen_Bonecloak.md "巴伦·骨篷")——拥有并经营。两人最初可以在[第一幕](Act_One.md "第一幕")的[幽暗地域](Underdark.md "幽暗地域")的[蕈人栖息地](Myconid_Colony.md "蕈人栖息地")遇到。他们前往幽暗地域，希望能采集一些[箴言菇](Noblestalk.md "箴言菇")——一种珍贵且有价值的蘑菇。他们在[第三幕](Act_Three.md "第三幕")中药店的状况直接取决于两位骨篷的命运。
 
-如果巴伦和德里丝都在第一幕的幽暗地域死亡，或者德里丝死亡而巴伦未被救出，骨篷药材店就会关闭，门前留下一张简单的[钉起来的便条](Pinned-up_Note.md "钉起来的便条")，上面写着_“采蘑菇去了”_。
+如果巴伦和德里丝都在第一幕的幽暗地域死亡，或者德里丝死亡而巴伦未被救出，白骨斗篷药材店就会关闭，门前留下一张简单的[钉起来的便条](Pinned-up_Note.md "钉起来的便条")，上面写着_“采蘑菇去了”_。
 
 如果德里丝和/或巴伦幸存下来，可以在药店找到他们。在这种情况下，默认商人是德里丝，除非巴伦幸存并食用了箴言菇。无论哪种情况，队伍都可以补充药水和各种[炼金术](Alchemy.md "炼金术")。如果队伍拾取了箴言菇并交给德里丝，她也会出售三份箴言菇。与在幽暗地域找到的不同，这些箴言菇不能被[影心](Shadowheart.md "影心")或[邪念](Dark_Urge.md "邪念")用来恢复记忆。
 
@@ -54,7 +54,7 @@
 
 ### 一楼
 
-骨篷药材店内部
+白骨斗篷药材店内部
 
 药店的一楼由商店和温室组成。在商店里，一些常见的草药可以免费拿取。在X: -20 Y: -33的书架上放着[骨篷药店箱子钥匙（书架）](Bonecloak_Apothecary's_Chest_Key_(Bookshelf).md "骨篷药店箱子钥匙（书架）")。西侧有一个通往二楼的楼梯。
 
@@ -80,7 +80,7 @@
 
 ## 药店外部
 
-骨篷药材店周围有几个NPC小插曲。
+白骨斗篷药材店周围有几个NPC小插曲。
 
 - 在X: Y:，一支由[埃尔西拉·戈森](Elthira_Gossen.md "埃尔西拉·戈森")、[焰拳阿格拉利克斯](Aggralix.md "焰拳阿格拉利克斯")、[焰拳卡罗琳](Karoline.md "焰拳卡罗琳")和一名[钢铁卫士](Steel_Watcher.md "钢铁卫士")组成的[焰拳](Flaming_Fist.md "焰拳")巡逻队拘留并正在审问[德洛戈·比克斯沃特](Drongo_Bixworth.md "德洛戈·比克斯沃特")和[弗洛雷恩·比克斯沃特](Florean_Bixworth.md "弗洛雷恩·比克斯沃特")，指控两人是[至上真神](Absolute.md "至上真神")的代理人。
 
@@ -142,7 +142,7 @@
 
 ## 外部链接
 
-- ⁠[骨篷药材店](https://forgottenrealms.fandom.com/wiki/Bonecloak%27s_Apothecary) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page) 上
+- ⁠[白骨斗篷药材店](https://forgottenrealms.fandom.com/wiki/Bonecloak%27s_Apothecary) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page) 上
 
 ## 脚注与参考
 

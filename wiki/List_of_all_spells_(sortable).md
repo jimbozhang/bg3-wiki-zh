@@ -19,7 +19,7 @@
 | [轻型](Light.md "轻型") | 戏法 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [法师之手](Mage_Hand.md "法师之手") | 戏法 |  |  | - | 18米 / 60英尺 | - | - |
 | [初级幻影](Minor_Illusion.md "初级幻影") | 戏法 |  |  | - | 18米 / 60英尺 | - | - |
-| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3米 / 10英尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[中毒](Poison.md "中毒") |
+| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3米 / 10英尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 1d12⁠[毒素](Poison.md "毒素") |
 | [燃火术](Produce_Flame.md "燃火术") | 戏法 |  |  | 长休 | 自身 | - | 1d8⁠[火焰](Fire.md "火焰") |
 | [冷冻射线](Ray_of_Frost.md "冷冻射线") | 戏法 |  |  | 1回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8⁠[寒冷](Cold.md "寒冷") |
 | [抗性](Resistance_(Cantrip).md "抗性（戏法）") | 戏法 |  |  | 10回合 | 1.5米 / 5英尺 | - | - |
@@ -71,7 +71,7 @@
 | [魔法护甲](Mage_Armour.md "魔法护甲") | 1 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [魔法飞弹](Magic_Missile.md "魔法飞弹") | 1 |  |  | - | 18米 / 60英尺 | - | 1d4 + 1⁠[力场](Force.md "力场") / 1d4 + 1⁠[力场](Force.md "力场") / 1d4 + 1⁠[力场](Force.md "力场") |
 | [防护善恶](Protection_from_Evil_and_Good.md "防护善恶") | 1 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
-| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[中毒](Poison.md "中毒") |
+| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[毒素](Poison.md "毒素") |
 | [庇护术](Sanctuary.md "庇护术") | 1 |  |  | 10回合 | 18米 / 60英尺 | - | - |
 | [炽焰斩](Searing_Smite.md "炽焰斩") | 1 |  |  | 10回合 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 正常武器伤害 / 1d6⁠[火焰](Fire.md "火焰") / 1d6⁠[火焰](Fire.md "火焰") |
 | [护盾术](Shield_(spell).md "护盾术（法术）") | 1 |  |  | 1回合 | 自身 | - | - |
@@ -105,7 +105,7 @@
 | [人类定身术](Hold_Person.md "人类定身术") | 2 |  |  | 10回合 | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | - |
 | [隐形术](Invisibility_(spell).md "隐形术（法术）") | 2 |  |  | 10回合 | 1.5米 / 5英尺 | - | - |
 | [敲击术](Knock.md "敲击术") | 2 |  |  | - | 18米 / 60英尺 | - | - |
-| [恢复](Lesser_Restoration.md "恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
+| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
 | [魔法武器](Magic_Weapon.md "魔法武器") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭") | 2 |  |  | 1回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 4d4⁠[强酸](Acid.md "强酸") / 2d4⁠[强酸](Acid.md "强酸") |
 | [镜像术](Mirror_Image.md "镜像术") | 2 |  |  | 10回合 | 自身 | - | - |
@@ -179,7 +179,7 @@
 | [变形术](Polymorph.md "变形术") | 4 |  |  | 5回合 | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | - |
 | [石肤术](Stoneskin.md "石肤术") | 4 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [火墙术](Wall_of_Fire.md "火墙术") | 4 |  |  | - | 18米 / 60英尺 | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 5d8⁠[火焰](Fire.md "火焰") |
-| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18米 / 60英尺 | - | 5d8⁠[中毒](Poison.md "中毒") |
+| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18米 / 60英尺 | - | 5d8⁠[毒素](Poison.md "毒素") |
 | [寒冰锥](Cone_of_Cold.md "寒冰锥") | 5 |  |  | - | 自身 / 9米 / 30英尺（锥形） | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 8d8⁠[寒冷](Cold.md "寒冷") |
 | [召唤元素生物](Conjure_Elemental.md "召唤元素生物") | 5 |  |  | - | 18米 / 60英尺 | - | - |
 | [疫病术](Contagion.md "疫病术") | 5 |  |  | - | 1.5米 / 5英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | - |

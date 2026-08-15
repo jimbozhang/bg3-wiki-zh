@@ -1,6 +1,6 @@
 # 恢复站
 
-本文介绍的是《博德之门3》中的静态物品。关于法术，请参见[恢复](Lesser_Restoration.md "恢复")和[高等复原术](Greater_Restoration.md "高等复原术")。
+本文介绍的是《博德之门3》中的静态物品。关于法术，请参见[次级恢复](Lesser_Restoration.md "次级恢复")和[高等复原术](Greater_Restoration.md "高等复原术")。
 
 一个恢复装置
 
@@ -8,7 +8,7 @@
 
 ## 机制
 
-使用恢复站可为队伍成员提供[长休](Long_Rest.md "长休")的全部益处。恢复站会完全治疗队伍，恢复所有[法术位](Spells.md#Spell_slots "法术位")，补充职业特定资源，如[诗人激励](Bardic_Inspiration_(resource).md)和[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")，并重置所有动作，包括装备赋予的动作。它*不会*结束描述为持续到下一次长休的现有效果，也不会重置在下一次长休前可进行的[短休](Short_rest.md "短休")次数。
+使用恢复站可为队伍成员提供[长休](Long_Rest.md "长休")的全部益处。恢复站会完全治疗队伍，恢复所有[法术位](Spells.md#Spell_slots "法术位")，补充职业特定资源，如[吟游诗人激励](Bardic_Inspiration_(resource).md)和[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")，并重置所有动作，包括装备赋予的动作。它*不会*结束描述为持续到下一次长休的现有效果，也不会重置在下一次长休前可进行的[短休](Short_rest.md "短休")次数。
 
 在[荣誉模式](Honour_Mode.md "荣誉模式")中，恢复站在使用一次后就会耗尽，但[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中的恢复站除外，它在击败凯瑟里克后会重置，[[验证](bg3wiki_colon_Verification.md "bg3wiki:Verification")] 以及[希望之邸](House_of_Hope.md "希望之邸")中的恢复站水龙头<sup>[\[1\]](#cite_note-1)</sup>。在所有其他难度设置中，恢复站可无限次使用。在硬核和荣誉模式中，可用的恢复站位置较少。详情请参见下文注释。在自定义难度中，这些位置由“额外战斗机制”设置控制。
 

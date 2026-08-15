@@ -72,7 +72,7 @@
 ### 黑手所著
 
 - [盾牌骑士的报告](Knights_of_the_Shield_Report.md "盾牌骑士的报告")
-- [盾牌管家审讯记录](Shield_Steward_Interrogation_Log.md "盾牌管家审讯记录")
+- [盾牌管家审讯日志](Shield_Steward_Interrogation_Log.md "盾牌管家审讯日志")
 - [斯特梅的连接](The_Stelmane_Connection.md "斯特梅的连接")
 
 ## 相关地点

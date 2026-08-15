@@ -37,7 +37,7 @@
 | [大宽边帽](Wide-Brimmed_Hat.md "大宽边帽") | 0.5 kg / 1 lb | 5 |  |
 | [法师帽](Wizard_Hat.md "法师帽") | 0.5 kg / 1 lb | 5 |  |
 | [威逼饰环](Browbeaten_Circlet.md "威逼饰环") | 0.5 kg / 1 lb | 90 | [胆怯](Browbeaten.md "胆怯")当[受威胁](Threatened_(Condition).md "受威胁 (状态)")时，佩戴者获得+1[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值。 |
-| [疗愈软帽](Cap_of_Curing.md "疗愈软帽") | 0.5 kg / 1 lb | 90 | [抚慰之歌](Soothing_Songs.md "抚慰之歌")当你使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励 (职业动作)")激励盟友时，他们还会恢复1d6⁠⁠[治疗](Healing.md "治疗")。 |
+| [疗愈软帽](Cap_of_Curing.md "疗愈软帽") | 0.5 kg / 1 lb | 90 | [抚慰之歌](Soothing_Songs.md "抚慰之歌")当你使用[吟游诗人激励](Bardic_Inspiration_(class_action).md "吟游诗人激励 (职业动作)")激励盟友时，他们还会恢复1d6⁠⁠[治疗](Healing.md "治疗")。 |
 | [寒意之帽](Coldbrim_Hat.md "寒意之帽") | 0.5 kg / 1 lb | 90 | [寒意外溢](Coldbrim_Chill.md "寒意外溢")每回合一次，对目标施加的任何状态，也会附加2回合的[冷冻](Encrusted_with_Frost_(Condition).md "冷冻 (状态)")。[[见：错误](Coldbrim_Chill#Bugs.md#Bugs "寒意外溢")] |
 | [火焰敏锐之帽](Hat_of_Fire_Acuity.md "火焰敏锐之帽") | 0.5 kg / 1 lb | 90 | [火焰敏锐](Fire_Acuity.md "火焰敏锐")每当你造成⁠[火焰](Fire.md "火焰")伤害时，你获得2回合的[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。 |
 | [风暴之子力量帽](Hat_of_Storm_Scion's_Power.md "风暴之子力量帽") | 0.5 kg / 1 lb | 90 | [雷鸣之锐利](Thunderous_Acuity.md "雷鸣之锐利")每当佩戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，他们获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。 |
@@ -181,7 +181,7 @@
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1
 
 [激励斩](Bolstering_Smite.md "激励斩")
-当你用你的任意一个斩击法术施加一个状态时，你获得等于你[魅力](Charisma.md "魅力")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+当你用你的任意一个至圣斩法术施加一个状态时，你获得等于你[魅力](Charisma.md "魅力")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 | [圣枪头盔](Holy_Lance_Helm.md "圣枪头盔") | 1 kg 2 lb | 115 |
 
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1
@@ -221,7 +221,7 @@
 - 攻击者无法对佩戴者造成[重击](Critical_Hit.md "重击")。
 
 [博德安的活力](Balduran's_Vitality.md "博德安的活力")
-头盔在每回合开始时为你恢复2⁠⁠[治疗](Healing.md "治疗")。
+头盔在每回合开始时为你恢复2⁠⁠[生命值](Healing.md "治疗")。
 
 [博德安的青睐](Balduran's_Favour.md "博德安的青睐")
 你获得+1[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")加值。

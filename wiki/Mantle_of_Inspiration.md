@@ -9,7 +9,7 @@
 ## 属性
 
 消耗
-[附赠动作](Actions.md#Resources "动作") + [诗人激励](Bardic_Inspiration_(resource).md)
+[附赠动作](Actions.md#Resources "动作") + [吟游诗人激励](Bardic_Inspiration_(resource).md)
 详情
 范围：9米（30英尺）
 目标：2名盟友
@@ -44,7 +44,7 @@
 ## 备注
 
 - 魅惑效果无法抵御各种[多重攻击](Multiattack.md "多重攻击")能力。它会在多重攻击的第一次命中后魅惑攻击者，但这不会阻止该序列中的后续攻击。对于通过[额外攻击](Extra_Attack.md "额外攻击")或类似效果进行多次独立攻击的敌人，该效果能正常生效。
-- [疗愈软帽](Cap_of_Curing.md "疗愈软帽")的治疗效果在使用此变体诗人激励时不会触发。
+- [疗愈软帽](Cap_of_Curing.md "疗愈软帽")的治疗效果在使用此变体吟游诗人激励时不会触发。
 - 提供临时生命值也不算作提供治疗，因此不会触发[轻声承诺](The_Whispering_Promise.md "轻声承诺")等效果。
 - 此动作可目标吟游诗人自身。
 

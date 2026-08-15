@@ -52,7 +52,7 @@
 
 巴尔神殿的入口。<sup>[\[1\]](#cite_note-1)</sup>
 
-巴尔神殿是[巴尔](Bhaal.md "巴尔")教徒最深处的圣所，由[奥林](Orin.md "奥林")领导。它位于[底城区](Undercity.md "底城区")深处，经过[底城废墟](Undercity_Ruins.md "底城废墟")。尽管神殿在过去曾被摧毁，但它已被重建，现在作为巴尔教团的基地。<sup>[\[2\]](#cite_note-2)</sup>
+巴尔神殿是[巴尔](Bhaal.md "巴尔")教徒最深处的圣所，由[腥红奥林](Orin.md "腥红奥林")领导。它位于[底城区](Undercity.md "底城区")深处，经过[底城废墟](Undercity_Ruins.md "底城废墟")。尽管神殿在过去曾被摧毁，但它已被重建，现在作为巴尔教团的基地。<sup>[\[2\]](#cite_note-2)</sup>
 
 ### 进入方式
 
@@ -141,7 +141,7 @@
 
 - [不再是巴尔后裔](Haunted_One.md#Bhaalspawn_No_More "不再是巴尔后裔")（[邪念缠身](Haunted_One.md "邪念缠身")背景）
 
-如果他们同意再次成为巴尔的被选者，他们将被委以控制主脑的使命，以巴尔的名义行事，并获得杀戮者形态（如果之前没有获得）。拥抱自己的传承会获得以下[激励点](Inspiration.md "激励点")：
+如果他们同意再次成为巴尔的被选者，他们将被委以控制耐色脑的使命，以巴尔的名义行事，并获得杀戮者形态（如果之前没有获得）。拥抱自己的传承会获得以下[激励点](Inspiration.md "激励点")：
 
 - [巴尔后裔再临](Haunted_One.md#Return_of_the_Bhaalspawn "巴尔后裔再临")（[邪念缠身](Haunted_One.md "邪念缠身")背景）
 
@@ -165,7 +165,7 @@
 
 - [巴尔](Bhaal.md "巴尔") / [巴尔之恩赐](Boon_of_Bhaal.md "巴尔之恩赐")
 - [奥林的母亲海伦娜](Helena_Anchev.md "海伦娜·安基夫") - 已故
-- [奥林](Orin.md "奥林")
+- [腥红奥林](Orin.md "腥红奥林")
 - [塞莱瑞塔斯·菲尔](Sceleritas_Fel.md "塞莱瑞塔斯·菲尔")（[5](#cite_note-urge-5)）
 - [守墓人](Withers.md "守墓人")（[5](#cite_note-urge-5)）
 

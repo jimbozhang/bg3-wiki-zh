@@ -13,7 +13,7 @@
 
 [动作](Actions.md#Resources "动作")
 
-- 恢复 5⁠⁠[治疗](Healing.md "治疗")并授予[支援术](Aid_(Condition).md "支援术（状态）")
+- 恢复 5⁠⁠[生命值](Healing.md "治疗")并授予[支援术](Aid_(Condition).md "支援术（状态）")
   - 范围：自身
   - 范围效果：9 米 (30 英尺) 半径
 

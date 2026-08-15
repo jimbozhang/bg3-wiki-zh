@@ -1,12 +1,12 @@
-# 二级法术列表
+# 2环法术列表
 
 ## 目录
 
-- [1 二级法术](#二级法术)
+- [1 2环法术](#2环法术)
 - [2 物品或变体法术](#物品或变体法术)
 - [3 仅限非玩家角色](#仅限非玩家角色)
 
-## 二级法术
+## 2环法术
 
 | 名称 | 等级 | 施法时间 | 持续时间 | 范围/区域 | 攻击/豁免 | 伤害/效果 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@
 | [人类定身术](Hold_Person.md "Hold Person") | 2 |  |  | 10回合 | 18米 / 60英尺 | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | - |
 | [隐形术](Invisibility_(spell).md "Invisibility (spell)") | 2 |  |  | 10回合 | 1.5米 / 5英尺 | - | - |
 | [敲击术](Knock.md "Knock") | 2 |  |  | - | 18米 / 60英尺 | - | - |
-| [恢复](Lesser_Restoration.md "恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
+| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
 | [魔法武器](Magic_Weapon.md "Magic Weapon") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow") | 2 |  |  | 1回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") | 4d4⁠[强酸](Acid.md "Acid") / 2d4⁠[强酸](Acid.md "Acid") |
 | [镜像术](Mirror_Image.md "Mirror Image") | 2 |  |  | 10回合 | 自身 | - | - |
@@ -67,7 +67,7 @@
 | [脱衣闪现步](Disrobing_Blinkstep.md "Disrobing Blinkstep") | 2 |  |  | - | 18米 / 60英尺 | - | - |
 | [鹰之光彩](Eagle's_Splendour.md "Eagle's Splendour") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [巨化](Enlarge.md "巨化") | 2 |  |  | 10回合 | 9米 / 30英尺 | - | - |
-| [埃赛尔的疾病射线](Ethel's_Ray_of_Sickness.md "Ethel's Ray of Sickness") | 2 |  |  | 2回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") | 3d8⁠[中毒](Poison.md "Poison") |
+| [埃赛尔的疾病射线](Ethel's_Ray_of_Sickness.md "Ethel's Ray of Sickness") | 2 |  |  | 2回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") | 3d8⁠[毒素](Poison.md "Poison") |
 | [黑暗之眼：黑暗术](Eyes_of_the_Dark_colon__Darkness.md "Eyes of the Dark: Darkness") | 2 |  |  | 10回合 | 18米 / 60英尺 | - | - |
 | [黄粱一梦](Fleeting_Dream.md "Fleeting Dream") | 2 |  |  | - | 18米 / 60英尺 | - | - |
 | [狐之狡黠](Fox's_Cunning.md "Fox's Cunning") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |

@@ -9,7 +9,7 @@ The **Goldgloss Heraldic Helm** is a common [Helmet](Headwear.md "Headwear").
 - [头盔](Helmets.md "Helmets")
 - Required Proficiency: [中甲](Medium_Armour.md "Medium Armour")
 - Rarity: Common
-- Weight: 1 kg (2 lb)
+- 重量: 1 kg (2 lb)
 - Price: 40 gp
 - UID `ARM_Helmet_Metal_1` UUID `d5e939c3-3a79-4ab8-b96c-9ded16f714a9` ### 特殊效果
 

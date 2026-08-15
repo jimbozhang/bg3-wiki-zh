@@ -36,7 +36,7 @@
 
 ## 背景
 
-**散塔林会**是一个不择手段的佣兵组织，通过走私和幕后交易培养势力。他们曾是[灾祸](Bane_(God).md)>的邪教的一部分。其领导层被认为在1383年DR与其位于[散提尔堡](https://forgottenrealms.fandom.com/wiki/Zhentil_Keep)的总部一同被摧毁，直到[佩雷鬼魂](https://forgottenrealms.fandom.com/wiki/Pereghost)的崛起导致了他们的复兴。<sup>[\[1\]](#cite_note-1)</sup>
+**散塔林会**是一个不择手段的佣兵组织，通过走私和幕后交易培养势力。他们曾是[班恩](Bane_(God).md)>的邪教的一部分。其领导层被认为在1383年DR与其位于[散提尔堡](https://forgottenrealms.fandom.com/wiki/Zhentil_Keep)的总部一同被摧毁，直到[佩雷鬼魂](https://forgottenrealms.fandom.com/wiki/Pereghost)的崛起导致了他们的复兴。<sup>[\[1\]](#cite_note-1)</sup>
 
 “
 |
@@ -129,7 +129,7 @@
 
 #### 上城区终局
 
-以下角色可以通过[召集盟友](召集盟友_(职业动作).md "召集盟友 (职业动作)")的变体[黑色焰拳执法者](Black_Fist_Enforcers.md "黑色焰拳执法者")召唤。他们仅在[鱼饵阿诺](Fishbait_Arno.md "鱼饵阿诺")、[斯力克·伊娜塔拉](Slick_Inatra.md "斯力克·伊娜塔拉")、[掘墓人卡森](Gravedigger_Karcen.md "掘墓人卡森")和[菲斯](Feeze.md "菲斯")在主脑战斗前死亡时才会出现。
+以下角色可以通过[召集盟友](召集盟友_(职业动作).md "召集盟友 (职业动作)")的变体[黑色焰拳执法者](Black_Fist_Enforcers.md "黑色焰拳执法者")召唤。他们仅在[鱼饵阿诺](Fishbait_Arno.md "鱼饵阿诺")、[斯力克·伊娜塔拉](Slick_Inatra.md "斯力克·伊娜塔拉")、[掘墓人卡森](Gravedigger_Karcen.md "掘墓人卡森")和[菲斯](Feeze.md "菲斯")在耐色脑战斗前死亡时才会出现。
 
 - [散塔林精灵](Zhent_Elf.md "散塔林精灵")
 - [散塔林半精灵](Zhent_Half-Elven.md "散塔林半精灵")

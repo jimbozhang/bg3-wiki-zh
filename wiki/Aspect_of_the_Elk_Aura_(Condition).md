@@ -1,6 +1,6 @@
 # Aspect of the Elk Aura (Condition)
 
-**驼鹿面貌光环**
+**麋鹿面貌光环**
 
 - 受影响实体及附近盟友获得 +1.5 米（5 英尺）的 [移动速度](Movement_speed.md "Movement Speed") 加成。
 
@@ -13,19 +13,19 @@
 
 - [忽略休息](Status_properties/IgnoreResting.md "Status properties/IgnoreResting")
 
-## 状态：驼鹿面貌
+## 状态：麋鹿面貌
 
-**[驼鹿面貌](Aspect_of_the_Elk_(Condition).md "Aspect of the Elk (Condition)")**
+**[麋鹿面貌](Aspect_of_the_Elk_(Condition).md "Aspect of the Elk (Condition)")**
 
 ⁠半径：18 米（60 英尺）
 
 - [移动速度](Movement_speed.md "Movement Speed") 提升 +1.5 米（5 英尺），只要受影响实体靠近野蛮人。
 
-## 驼鹿面貌光环的来源
+## 麋鹿面貌光环的来源
 
-- [驼鹿面貌](Aspect_of_the_Elk.md "Aspect of the Elk")
+- [麋鹿面貌](Aspect_of_the_Elk.md "Aspect of the Elk")
 
-## 拥有驼鹿面貌光环的生物
+## 拥有麋鹿面貌光环的生物
 
 *维基数据库中未定义*
 
@@ -33,8 +33,8 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| [驼鹿面貌](Aspect_of_the_Elk_(Condition).md "Aspect of the Elk (Condition)") | [移动速度](Movement_speed.md "Movement Speed") 提升 +1.5 米（5 英尺），只要受影响实体靠近野蛮人。 |
-| 驼鹿面貌光环 | 受影响实体及附近盟友获得 +1.5 米（5 英尺）的 [移动速度](Movement_speed.md "Movement Speed") 加成。 |
+| [麋鹿面貌](Aspect_of_the_Elk_(Condition).md "Aspect of the Elk (Condition)") | [移动速度](Movement_speed.md "Movement Speed") 提升 +1.5 米（5 英尺），只要受影响实体靠近野蛮人。 |
+| 麋鹿面貌光环 | 受影响实体及附近盟友获得 +1.5 米（5 英尺）的 [移动速度](Movement_speed.md "Movement Speed") 加成。 |
 
 - 受影响实体及附近盟友获得 +1.5 米（5 英尺）的 [移动速度](Movement_speed.md "Movement Speed") 加成。
 

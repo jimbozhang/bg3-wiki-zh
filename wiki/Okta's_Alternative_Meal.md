@@ -16,7 +16,7 @@
 
 [附赠动作](Actions.md#Resources "Actions")
 
-- 食用后造成 1d4⁠⁠[中毒](Poison.md "Poison") 伤害。
+- 食用后造成 1d4⁠⁠[毒素](Poison.md "Poison") 伤害。
 
 ## 获取地点
 

@@ -2,7 +2,7 @@
 
 关于所有武器属性的解释，请参阅 [武器](Weapons.md "Weapons")。
 
-**灵巧** 是一种武器属性，允许角色使用其 [力量](Strength.md "Strength") 或 [敏捷](Dexterity.md "Dexterity")（取较高值）进行攻击，将该 [属性](Ability.md "Ability") 调整值添加到 [攻击掷骰](Attack_rolls.md "Attack_rolls") 和 [伤害掷骰](Damage_rolls.md "Damage_rolls") 上。只有具备此属性的武器才能被 [游荡者](Rogue.md "Rogue") 用于进行 [偷袭](Sneak_Attack_(Melee).md "Sneak Attack (Melee)")。然而，与这些武器的游戏中描述所暗示的相反，对于具有灵巧属性的 [投掷攻击](Thrown.md "Thrown") 武器，攻击掷骰仅使用力量调整值，即使使用者的敏捷值更高。
+**灵巧** 是一种武器属性，允许角色使用其 [力量](Strength.md "Strength") 或 [敏捷](Dexterity.md "Dexterity")（取较高值）进行攻击，将该 [属性](Ability.md "Ability") 调整值添加到 [攻击掷骰](Attack_rolls.md "Attack_rolls") 和 [伤害掷骰](Damage_rolls.md "Damage_rolls") 上。只有具备此属性的武器才能被 [游荡者](Rogue.md "Rogue") 用于进行 [偷袭](Sneak_Attack_(Melee).md "Sneak Attack (Melee)")。然而，与这些武器的游戏中描述所暗示的相反，对于具有灵巧属性的 [投掷](Thrown.md "投掷") 武器，攻击掷骰仅使用力量调整值，即使使用者的敏捷值更高。
 
 ## 灵巧武器列表
 

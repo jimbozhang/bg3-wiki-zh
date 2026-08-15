@@ -11,24 +11,24 @@
   - [2.1 实用卷轴](#实用卷轴)
   - [2.2 特殊卷轴](#特殊卷轴)
   - [2.3 戏法](#戏法)
-  - [2.4 一级法术](#一级法术)
-  - [2.5 二级法术](#二级法术)
-  - [2.6 三级法术](#三级法术)
-  - [2.7 四级法术](#四级法术)
-  - [2.8 五级法术](#五级法术)
-  - [2.9 六级法术](#六级法术)
+  - [2.4 1环法术](#1环法术)
+  - [2.5 2环法术](#2环法术)
+  - [2.6 3环法术](#3环法术)
+  - [2.7 4环法术](#4环法术)
+  - [2.8 5环法术](#5环法术)
+  - [2.9 6环法术](#6环法术)
 - [3 限量卷轴](#限量卷轴)
   - [3.1 仅由一名商人出售](#仅由一名商人出售)
   - [3.2 限量](#限量)
   - [3.3 独特](#独特)
 - [4 无法术卷轴的法术](#无法术卷轴的法术)
   - [4.1 戏法](#戏法)
-  - [4.2 一级](#一级)
-  - [4.3 二级](#二级)
-  - [4.4 三级](#三级)
-  - [4.5 四级](#四级)
-  - [4.6 五级](#五级)
-  - [4.7 六级](#六级)
+  - [4.2 1环](#1环)
+  - [4.3 2环](#2环)
+  - [4.4 3环](#3环)
+  - [4.5 4环](#4环)
+  - [4.6 5环](#5环)
+  - [4.7 6环](#6环)
 - [5 不可用卷轴](#不可用卷轴)
 - [6 无法获得卷轴](#无法获得卷轴)
 - [7 备注](#备注)
@@ -63,7 +63,7 @@
 
   - 与D&D不同，卷轴无法被创造。
 
-  - 如果队伍成员试图抄录等级过高的法师法术卷轴，会提示他们的法师等级不够高。这是误导性的，因为要抄录卷轴，唯一的要求是角色的**综合施法等级**足够高以施放该法术（即他们必须至少有一个该法术等级的法术位）。角色只需要一级法师就可以抄录卷轴上包含的任何法师法术。例如，一个*法师1/吟游诗人2*的角色有二级法术位，因此可以抄录二级法师法术[侦测思想](Detect_Thoughts.md "侦测思想")（尽管在这种情况下，他们在升级时无法从任何职业学会二级法术）。
+  - 如果队伍成员试图抄录等级过高的法师法术卷轴，会提示他们的法师等级不够高。这是误导性的，因为要抄录卷轴，唯一的要求是角色的**综合施法等级**足够高以施放该法术（即他们必须至少有一个该法术等级的法术位）。角色只需要一级法师就可以抄录卷轴上包含的任何法师法术。例如，一个*法师1/吟游诗人2*的角色有2环法术位，因此可以抄录二级法师法术[侦测思想](Detect_Thoughts.md "侦测思想")（尽管在这种情况下，他们在升级时无法从任何职业学会2环法术）。
 
     - 在考虑综合施法等级和抄录卷轴时，记住哪些[施法职业](Spellcasting_classes.md "施法职业")是完整施法者、半施法者和三分之一施法者可能会有帮助。
 
@@ -73,15 +73,15 @@
 
 - 购买卷轴的等级要求如下：
 
-- **角色等级1**：一级和二级法术（以及三级法术[死者交谈](Speak_with_Dead.md "死者交谈")）。<sup>[\[1\]](#cite_note-1)</sup><sup>[\[2\]](#cite_note-2)</sup>
+- **角色等级1**：一级和2环法术（以及3环法术[死者交谈](Speak_with_Dead.md "死者交谈")）。<sup>[\[1\]](#cite_note-1)</sup><sup>[\[2\]](#cite_note-2)</sup>
 
-- **角色等级3**：三级法术
+- **角色等级3**：3环法术
 
-- **角色等级5**：四级法术
+- **角色等级5**：4环法术
 
-- **角色等级7**：五级法术
+- **角色等级7**：5环法术
 
-- **角色等级9**：六级法术
+- **角色等级9**：6环法术
 
 - [术士](Sorcerer.md "术士")可以对卷轴应用超魔，与通常的超魔工作方式略有不同：
 
@@ -120,7 +120,7 @@
 - [冷冻射线卷轴](Scroll_of_Ray_of_Frost.md "冷冻射线卷轴")
 - [电爪卷轴](Scroll_of_Shocking_Grasp.md "电爪卷轴")
 
-### 一级法术
+### 1环法术
 
 - [化兽为友卷轴](Scroll_of_Animal_Friendship.md "化兽为友卷轴")
 - [燃烧之手卷轴](Scroll_of_Burning_Hands.md "燃烧之手卷轴")
@@ -145,7 +145,7 @@
 - [雷鸣波卷轴](Scroll_of_Thunderwave.md "雷鸣波卷轴")
 - [巫术箭卷轴](Scroll_of_Witch_Bolt.md "巫术箭卷轴")
 
-### 二级法术
+### 2环法术
 
 - [支援术卷轴](Scroll_of_Aid.md "支援术卷轴")
 - [秘法锁卷轴](Scroll_of_Arcane_Lock.md "秘法锁卷轴")
@@ -173,7 +173,7 @@
 - [粉碎音波卷轴](Scroll_of_Shatter.md "粉碎音波卷轴")
 - [蛛网术卷轴](Scroll_of_Web.md "蛛网术卷轴")
 
-### 三级法术
+### 3环法术
 
 - [操纵死尸卷轴](Scroll_of_Animate_Dead.md "操纵死尸卷轴")
 - [降咒卷轴](Scroll_of_Bestow_Curse.md "降咒卷轴")
@@ -196,7 +196,7 @@
 - [臭云术卷轴](Scroll_of_Stinking_Cloud.md "臭云术卷轴")
 - [吸血鬼之触卷轴](Scroll_of_Vampiric_Touch.md "吸血鬼之触卷轴")
 
-### 四级法术
+### 4环法术
 
 - [放逐术卷轴](Scroll_of_Banishment.md "放逐术卷轴")
 - [枯萎术卷轴](Scroll_of_Blight.md "枯萎术卷轴")
@@ -212,7 +212,7 @@
 - [石肤术卷轴](Scroll_of_Stoneskin.md "石肤术卷轴")
 - [火墙术卷轴](Scroll_of_Wall_of_Fire.md "火墙术卷轴")
 
-### 五级法术
+### 5环法术
 
 - [战争艺术卷轴](Scroll_of_Artistry_of_War.md "战争艺术卷轴")
 - [死云术卷轴](Scroll_of_Cloudkill.md "死云术卷轴")
@@ -226,7 +226,7 @@
 - [心灵遥控卷轴](Scroll_of_Telekinesis.md "心灵遥控卷轴")
 - [石墙术卷轴](Scroll_of_Wall_of_Stone.md "石墙术卷轴")
 
-### 六级法术
+### 6环法术
 
 - [兽性共享卷轴](Scroll_of_Bestial_Communion.md "兽性共享卷轴")
 - [链状闪电卷轴](Scroll_of_Chain_Lightning.md "链状闪电卷轴")
@@ -291,11 +291,11 @@
 - [克敌机先](True_Strike.md "克敌机先")
 - [恶毒嘲笑](Vicious_Mockery.md "恶毒嘲笑")
 
-### 一级
+### 1环
 
 - [艾嘉西斯之铠](Armour_of_Agathys.md "艾嘉西斯之铠")
 - [哈达之臂](Arms_of_Hadar.md "哈达之臂")
-- [丧志术](Bane_(spell).md "丧志术（法术）")
+- [灾祸术](Bane_(spell).md "灾祸术")
 - [祝福术](Bless.md "祝福术")
 - [命令术](Command.md "命令术")
 - [强令对决](Compelled_Duel.md "强令对决")
@@ -325,7 +325,7 @@
 - [雷鸣打击](Thunderous_Smite.md "雷鸣打击")
 - [激愤斩](Wrathful_Smite.md "激愤斩")
 
-### 二级
+### 2环
 
 - [树肤术](Barkskin.md "树肤术")
 - [印记斩](Branding_Smite.md "印记斩")
@@ -333,7 +333,7 @@
 - [强化属性](Enhance_Ability.md "强化属性")
 - [迷惑](Enthrall.md "迷惑")
 - [灼热金属](Heat_Metal.md "灼热金属")
-- [恢复](Lesser_Restoration.md "恢复")
+- [次级恢复](Lesser_Restoration.md "次级恢复")
 - [月华之光](Moonbeam.md "月华之光")
 - [行动无踪](Pass_Without_Trace.md "行动无踪")
 - [魅影之力](Phantasmal_Force.md "魅影之力")
@@ -345,7 +345,7 @@
 - [灵体武器](Spiritual_Weapon.md "灵体武器")
 - [守护之链](Warding_Bond.md "守护之链")
 
-### 三级
+### 3环
 
 - [希望信标](Beacon_of_Hope.md "希望信标")
 - [致盲斩](Blinding_Smite.md "致盲斩")
@@ -362,7 +362,7 @@
 - [精魂守卫](Spirit_Guardians.md "精魂守卫")
 - [活力监守](Warden_of_Vitality.md "活力监守")
 
-### 四级
+### 4环
 
 - [召唤林地妖精](Conjure_Woodland_Being.md "召唤林地妖精")
 - [死亡防护](Death_Ward.md "死亡防护")
@@ -372,7 +372,7 @@
 - [信仰守卫](Guardian_of_Faith.md "信仰守卫")
 - [欧提路克弹力法球](Otiluke's_Resilient_Sphere.md "欧提路克弹力法球")
 
-### 五级
+### 5环
 
 - [疫病术](Contagion.md "疫病术")
 - [反制善恶](Dispel_Evil_And_Good.md "反制善恶")
@@ -381,7 +381,7 @@
 - [虫群瘟疫](Insect_Plague.md "虫群瘟疫")
 - [群体疗伤术](Mass_Cure_Wounds.md "群体疗伤术")
 
-### 六级
+### 6环
 
 - [秘法门](Arcane_Gate.md "秘法门")
 - [剑刃屏障](Blade_Barrier.md "剑刃屏障")
@@ -415,28 +415,28 @@
 
 - [酸液飞溅卷轴](Scroll_of_Acid_Splash.md "酸液飞溅卷轴")
 - [艾嘉西斯之铠卷轴](Scroll_of_Armour_of_Agathys.md "艾嘉西斯之铠卷轴")
-- [丧志术卷轴](Scroll_of_Bane.md "丧志术卷轴")
+- [灾祸术卷轴](Scroll_of_Bane.md "灾祸术卷轴")
 - [树皮术卷轴](Scroll_of_Barkskin.md "树皮术卷轴")
 - [剑刃防护卷轴](Scroll_of_Blade_Ward.md "剑刃防护卷轴")
 - [祝福术卷轴](Scroll_of_Bless.md "祝福术卷轴")
 - [疗伤术卷轴](Scroll_of_Cure_Wounds.md "疗伤术卷轴")
-- [导引箭卷轴](Scroll_of_Guiding_Bolt.md "导引箭卷轴")
+- [曳光弹卷轴](Scroll_of_Guiding_Bolt.md "曳光弹卷轴")
 - [治愈真言卷轴](Scroll_of_Healing_Word.md "治愈真言卷轴")
 - [灼热金属卷轴](Scroll_of_Heat_Metal.md "灼热金属卷轴")
 - [致伤术卷轴](Scroll_of_Inflict_Wounds.md "致伤术卷轴")
-- [次级复原术卷轴](Scroll_of_Lesser_Restoration.md "次级复原术卷轴")
+- [次级恢复卷轴](Scroll_of_Lesser_Restoration.md "次级恢复卷轴")
 - [月华之光卷轴](Scroll_of_Moonbeam.md "月华之光卷轴")
 - [治疗祷言卷轴](Scroll_of_Prayer_of_Healing.md "治疗祷言卷轴")
 - [防护毒素卷轴](Scroll_of_Protection_from_Poison.md "防护毒素卷轴")
 - [提升抗性卷轴](Scroll_of_Resistance.md "提升抗性卷轴")
 - [护盾术卷轴](Scroll_of_Shield.md "护盾术卷轴")
 - [虔诚护盾卷轴](Scroll_of_Shield_of_Faith.md "虔诚护盾卷轴")
-- [寂静术卷轴](Scroll_of_Silence.md "寂静术卷轴")
-- [尖刺生长卷轴](Scroll_of_Spike_Growth.md "尖刺生长卷轴")
+- [沉默术卷轴](Scroll_of_Silence.md "沉默术卷轴")
+- [荆棘丛生卷轴](Scroll_of_Spike_Growth.md "荆棘丛生卷轴")
 
 ## 备注
 
-1. [↑](#cite_ref-1) [赫尔希克](Helsik.md "赫尔希克")可以向一级角色出售一些三级和四级法术。
+1. [↑](#cite_ref-1) [赫尔希克](Helsik.md "赫尔希克")可以向一级角色出售一些三级和4环法术。
 1. [↑](#cite_ref-2) 与赫尔西克（其卷轴可能不同）不同，一级角色总是可以从[博尼](Boney.md "博尼")购买[石肤术](Stoneskin.md "石肤术")、[石墙术](Wall_of_Stone.md "石墙术")和[石化术](Flesh_to_Stone.md "石化术")。
 
 ---

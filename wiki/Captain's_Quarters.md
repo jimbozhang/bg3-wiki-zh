@@ -49,7 +49,7 @@
 
 伊雷珂养育间区域地图。
 
-居住在伊雷珂养育间的吉斯洋基人征服了该地区，并屠杀了其先前的居民——一群[洛山达](Lathander.md "Lathander")的信徒。它被用来在[雄狮河](River_Chionthar.md "River_Chionthar")沿线发动行动，作为储存补给和战利品、训练新的吉斯洋基战士，甚至孵化蛋的地方。这里还有一个位面投射器和一个[扎伊斯克净化者](Zaith'isk.md "Zaith'isk")。
+居住在伊雷珂养育间的吉斯洋基人征服了该地区，并屠杀了其先前的居民——一群[洛山达](Lathander.md "Lathander")的信徒。它被用来在[乔恩萨河](River_Chionthar.md "River_Chionthar")沿线发动行动，作为储存补给和战利品、训练新的吉斯洋基战士，甚至孵化蛋的地方。这里还有一个位面投射器和一个[扎伊斯克净化者](Zaith'isk.md "Zaith'isk")。
 
 许多任务可以在伊雷珂养育间推进，包括[莱埃泽尔](Lae'zel.md "Lae'zel")的[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")。这里的吉斯洋基人存在一些内部冲突，主要源于养育间指挥官[凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn")与最近抵达的维拉基斯宣判官[审判官瓦尔'戈兹](W'wargaz.md "W'wargaz")之间的紧张关系。
 
@@ -112,11 +112,11 @@
 
 ### 孵化室
 
-孵化室的酸液池
+孵化室的强酸池
 
 **孵化室**的入口位于 X: 1320 Y: -781。
 
-孵化室位于养育间的西北端。这是一个广阔的洞穴状房间，有几处悬崖和瀑布，酸液深及小腿中部。酸湖中零星地升起几个小岩石岛。入口正对面有几个铁笼，其中一个笼子里有一只死亡的狗头人斥候。
+孵化室位于养育间的西北端。这是一个广阔的洞穴状房间，有几处悬崖和瀑布，强酸深及小腿中部。酸湖中零星地升起几个小岩石岛。入口正对面有几个铁笼，其中一个笼子里有一只死亡的狗头人斥候。
 
 酸湖底部有散发[奇异气体](Strange_Gas.md "Strange Gas")的气坑，以及多个传送陷阱，如果被队伍成员识别，会显示为[守卫刻文：雷鸣](Glyph_of_Warding_colon__Thunder.md "Glyph of Warding: Thunder")。如果激活，这些陷阱会将闯入者传送到其中一个铁笼中。此外，悬崖和岛屿上还布设了多个冲击力地雷。
 
@@ -332,7 +332,7 @@
 - [蛮勇手套](Daredevil_Gloves.md "Daredevil Gloves")
 - [守卫者链枷](Defender_Flail.md "Defender Flail")
 - [敏捷手套](Gloves_of_Dexterity.md "Gloves of Dexterity")
-- [地底国王之刃](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
+- [地脉迷城之王的匕首](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
 - [拉瑞斯安之怒](Larethian's_Wrath.md "Larethian's Wrath")
 - [生命通道之靴](Vital_Conduit_Boots.md "Vital Conduit Boots")
 - [隐形威胁](Unseen_Menace.md "Unseen Menace")

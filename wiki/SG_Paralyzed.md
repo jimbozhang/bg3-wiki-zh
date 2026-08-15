@@ -21,7 +21,7 @@
 
 以下法术/动作可以移除此状态组中的所有状态：
 
-- [恢复](Lesser_Restoration.md "Lesser Restoration")
+- [次级恢复](Lesser_Restoration.md "次级恢复")
 - [解缚打击](Unshackling_Strike.md "Unshackling Strike")
 
 ## 免疫
@@ -51,7 +51,7 @@
 [蛛丝墓穴](Gossamer_Tomb_(Condition).md "Gossamer Tomb (Condition)")
 |
 
-- 此生物被[感染](Infested_(Condition).md "Infested (Condition)")的蛛丝包裹，无法移动或采取动作。除非用[强酸](Acid.md "Acid")或[火焰](Fire.md "Fire")伤害移除蛛丝，否则蛛丝会爆炸，对被包裹的生物造成 8d10[中毒](Poison.md "Poison")伤害。
+- 此生物被[感染](Infested_(Condition).md "Infested (Condition)")的蛛丝包裹，无法移动或采取动作。除非用[强酸](Acid.md "Acid")或[火焰](Fire.md "Fire")伤害移除蛛丝，否则蛛丝会爆炸，对被包裹的生物造成 8d10[毒素](Poison.md "Poison")伤害。
 
 [怪物定身术](Hold_Monster_(Condition).md "Hold Monster (Condition)")
 |

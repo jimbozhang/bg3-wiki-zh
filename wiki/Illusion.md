@@ -43,38 +43,38 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [精通初级幻影](Improved_Minor_Illusion.md "精通初级幻影") | C |  |  | - | 18 m / 60ft | - | - |
 | [诡异面纱](Veil_of_the_Weird.md "诡异面纱") | C |  |  | 2 回合 | 24 m / 80ft | - | - |
-| [易容术：女性龙裔](Disguise_Self_colon__Femme_Dragonborn.md "易容术：女性龙裔") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性卓尔](Disguise_Self_colon__Femme_Drow.md "易容术：女性卓尔") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性矮人](Disguise_Self_colon__Femme_Dwarf.md "易容术：女性矮人") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性精灵](Disguise_Self_colon__Femme_Elf.md "易容术：女性精灵") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性龙裔](Disguise_Self_colon__Femme_Dragonborn.md "伪装术：女性龙裔") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性卓尔](Disguise_Self_colon__Femme_Drow.md "伪装术：女性卓尔") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性矮人](Disguise_Self_colon__Femme_Dwarf.md "伪装术：女性矮人") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性精灵](Disguise_Self_colon__Femme_Elf.md "伪装术：女性精灵") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：女性吉斯洋基人](Disguise_Self_colon__Femme_Githyanki.md "易容术：女性吉斯洋基人") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性侏儒](Disguise_Self_colon__Femme_Gnome.md "易容术：女性侏儒") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性半精灵](Disguise_Self_colon__Femme_Half-Elf.md "易容术：女性半精灵") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性侏儒](Disguise_Self_colon__Femme_Gnome.md "伪装术：女性侏儒") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性半精灵](Disguise_Self_colon__Femme_Half-Elf.md "伪装术：女性半精灵") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：女性半兽人](Disguise_Self_colon__Femme_Half-Orc.md "易容术：女性半兽人") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性半身人](Disguise_Self_colon__Femme_Halfling.md "易容术：女性半身人") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性人类](Disguise_Self_colon__Femme_Human.md "易容术：女性人类") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮卓尔](Disguise_Self_colon__Femme_Strong_Drow.md "易容术：女性强壮卓尔") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮精灵](Disguise_Self_colon__Femme_Strong_Elf.md "易容术：女性强壮精灵") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮半精灵](Disguise_Self_colon__Femme_Strong_Half-Elf.md "易容术：女性强壮半精灵") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮人类](Disguise_Self_colon__Femme_Strong_Human.md "易容术：女性强壮人类") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮提夫林](Disguise_Self_colon__Femme_Strong_Tiefling.md "易容术：女性强壮提夫林") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性提夫林](Disguise_Self_colon__Femme_Tiefling.md "易容术：女性提夫林") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性龙裔](Disguise_Self_colon__Masc_Dragonborn.md "易容术：男性龙裔") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性卓尔](Disguise_Self_colon__Masc_Drow.md "易容术：男性卓尔") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性矮人](Disguise_Self_colon__Masc_Dwarf.md "易容术：男性矮人") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性精灵](Disguise_Self_colon__Masc_Elf.md "易容术：男性精灵") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性半身人](Disguise_Self_colon__Femme_Halfling.md "伪装术：女性半身人") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性人类](Disguise_Self_colon__Femme_Human.md "伪装术：女性人类") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮卓尔](Disguise_Self_colon__Femme_Strong_Drow.md "伪装术：女性强壮卓尔") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮精灵](Disguise_Self_colon__Femme_Strong_Elf.md "伪装术：女性强壮精灵") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮半精灵](Disguise_Self_colon__Femme_Strong_Half-Elf.md "伪装术：女性强壮半精灵") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮人类](Disguise_Self_colon__Femme_Strong_Human.md "伪装术：女性强壮人类") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮提夫林](Disguise_Self_colon__Femme_Strong_Tiefling.md "伪装术：女性强壮提夫林") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性提夫林](Disguise_Self_colon__Femme_Tiefling.md "伪装术：女性提夫林") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性龙裔](Disguise_Self_colon__Masc_Dragonborn.md "伪装术：男性龙裔") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性卓尔](Disguise_Self_colon__Masc_Drow.md "伪装术：男性卓尔") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性矮人](Disguise_Self_colon__Masc_Dwarf.md "伪装术：男性矮人") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性精灵](Disguise_Self_colon__Masc_Elf.md "伪装术：男性精灵") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：男性吉斯洋基人](Disguise_Self_colon__Masc_Githyanki.md "易容术：男性吉斯洋基人") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性侏儒](Disguise_Self_colon__Masc_Gnome.md "易容术：男性侏儒") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性半精灵](Disguise_Self_colon__Masc_Half-Elf.md "易容术：男性半精灵") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性侏儒](Disguise_Self_colon__Masc_Gnome.md "伪装术：男性侏儒") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性半精灵](Disguise_Self_colon__Masc_Half-Elf.md "伪装术：男性半精灵") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：男性半兽人](Disguise_Self_colon__Masc_Half-Orc.md "易容术：男性半兽人") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性半身人](Disguise_Self_colon__Masc_Halfling.md "易容术：男性半身人") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性人类](Disguise_Self_colon__Masc_Human.md "易容术：男性人类") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮卓尔](Disguise_Self_colon__Masc_Strong_Drow.md "易容术：男性强壮卓尔") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮精灵](Disguise_Self_colon__Masc_Strong_Elf.md "易容术：男性强壮精灵") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮半精灵](Disguise_Self_colon__Masc_Strong_Half-Elf.md "易容术：男性强壮半精灵") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮人类](Disguise_Self_colon__Masc_Strong_Human.md "易容术：男性强壮人类") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮提夫林](Disguise_Self_colon__Masc_Strong_Tiefling.md "易容术：男性强壮提夫林") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性提夫林](Disguise_Self_colon__Masc_Tiefling.md "易容术：男性提夫林") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性半身人](Disguise_Self_colon__Masc_Halfling.md "伪装术：男性半身人") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性人类](Disguise_Self_colon__Masc_Human.md "伪装术：男性人类") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮卓尔](Disguise_Self_colon__Masc_Strong_Drow.md "伪装术：男性强壮卓尔") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮精灵](Disguise_Self_colon__Masc_Strong_Elf.md "伪装术：男性强壮精灵") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮半精灵](Disguise_Self_colon__Masc_Strong_Half-Elf.md "伪装术：男性强壮半精灵") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮人类](Disguise_Self_colon__Masc_Strong_Human.md "伪装术：男性强壮人类") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮提夫林](Disguise_Self_colon__Masc_Strong_Tiefling.md "伪装术：男性强壮提夫林") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性提夫林](Disguise_Self_colon__Masc_Tiefling.md "伪装术：男性提夫林") | 1 |  |  | 长休 | 自身 | - | - |
 
 ## 仅限NPC使用的幻术学派法术列表
 

@@ -23,17 +23,17 @@
 - [酒](Alcohol.md "酒")饮料也可以用[附赠动作](Actions.md#Resources "动作")消耗，使角色获得[酒精](Alcohol_(Condition).md "酒精（状态）")状态。
 - [腊肠](Salami.md "腊肠")也可以用作近战武器。
 - 以下补给品可用作自由动作进行治疗：
-  - [一杯水](Cup_of_Water.md "一杯水") (1d4⁠⁠[治疗](Healing.md "治疗"))
-  - [稀粥](Gruel.md "稀粥") (3d4⁠⁠[治疗](Healing.md "治疗"))
-  - [奶碗](Milk_bowl.md "奶碗") (1d4⁠⁠[治疗](Healing.md "治疗"))
-  - [山莓](Raspberry.md "山莓") (1d4⁠⁠[治疗](Healing.md "治疗"))
-  - 部分[红苹果](Red_Apple.md "红苹果") (1d4⁠⁠[治疗](Healing.md "治疗"))
-  - [变质的糖蜜馅饼](Spoiled_Treacle_Tart.md "变质的糖蜜馅饼") (1d4⁠⁠[治疗](Healing.md "治疗"))
-  - [可疑的肉块](Suspicious_Meat.md "可疑的肉块") (4d4⁠⁠[治疗](Healing.md "治疗"))
+  - [一杯水](Cup_of_Water.md "一杯水") (1d4⁠⁠[生命值](Healing.md "治疗"))
+  - [稀粥](Gruel.md "稀粥") (3d4⁠⁠[生命值](Healing.md "治疗"))
+  - [奶碗](Milk_bowl.md "奶碗") (1d4⁠⁠[生命值](Healing.md "治疗"))
+  - [山莓](Raspberry.md "山莓") (1d4⁠⁠[生命值](Healing.md "治疗"))
+  - 部分[红苹果](Red_Apple.md "红苹果") (1d4⁠⁠[生命值](Healing.md "治疗"))
+  - [变质的糖蜜馅饼](Spoiled_Treacle_Tart.md "变质的糖蜜馅饼") (1d4⁠⁠[生命值](Healing.md "治疗"))
+  - [可疑的肉块](Suspicious_Meat.md "可疑的肉块") (4d4⁠⁠[生命值](Healing.md "治疗"))
   - 仅限[邪念](The_Dark_Urge.md "邪念")：
-    - [烤矮人肚](Roasted_Dwarf_Belly.md "烤矮人肚") (4d4⁠⁠[治疗](Healing.md "治疗"))
-    - [烤矮人腿](Roasted_Dwarf_Leg.md "烤矮人腿") (4d4⁠⁠[治疗](Healing.md "治疗"))
-    - [烤矮人肋排](Roasted_Dwarf_Ribs.md "烤矮人肋排") (4d4⁠⁠[治疗](Healing.md "治疗"))
+    - [烤矮人肚](Roasted_Dwarf_Belly.md "烤矮人肚") (4d4⁠⁠[生命值](Healing.md "治疗"))
+    - [烤矮人腿](Roasted_Dwarf_Leg.md "烤矮人腿") (4d4⁠⁠[生命值](Healing.md "治疗"))
+    - [烤矮人肋排](Roasted_Dwarf_Ribs.md "烤矮人肋排") (4d4⁠⁠[生命值](Healing.md "治疗"))
 
 ## 相关成就
 

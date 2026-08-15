@@ -4,7 +4,7 @@
 
 - 所有先前影响目标的中毒效果均被中和
 - 目标在对抗[中毒](Poisoned.md "中毒")的[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")
-- 目标获得对[中毒](Poison.md "中毒")伤害的[抗性](Damage_types.md#Resistance "伤害类型")
+- 目标获得对[毒素](Poison.md "毒素")伤害的[抗性](Damage_types.md#Resistance "伤害类型")
 
 ## 属性
 
@@ -22,7 +22,7 @@ _维基数据库中未定义_
 
 - 所有先前影响目标的中毒效果均被中和
 - 目标在对抗[中毒](Poisoned.md "中毒")的[豁免检定](Saving_throw.md "豁免检定")上获得[优势](Advantage.md "优势")
-- 目标获得对[中毒](Poison.md "中毒")伤害的[抗性](Damage_types.md#Resistance "伤害类型")
+- 目标获得对[毒素](Poison.md "毒素")伤害的[抗性](Damage_types.md#Resistance "伤害类型")
 
 ---
 *Source: [Protection from Poison (Condition)](https://bg3.wiki/wiki/Protection_from_Poison_(Condition)*

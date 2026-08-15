@@ -112,7 +112,7 @@
 | [高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation_(Condition).md "高效奥术滋养灵药 (状态)") | 拥有额外的[2级法术位](Spells#Spell_slots.md#Spell_slots "法术")。 |
 | [闪电抗性](Lightning_Resistance_(Condition).md "闪电抗性 (状态)") | [抗性](Resistant.md "抗性")于⁠[闪电](Lightning.md "闪电")伤害。不再可被[感电](Shocked_(Condition).md "感电 (状态)")、[电击](Electrocuted_(Condition).md "电击 (状态)")、[电震](Jolted_(Condition).md "电震 (状态)")或以其他方式受闪电影响。 |
 | [黯蚀抗性](Necrotic_Resistance_(Condition).md "黯蚀抗性 (状态)") | [抗性](Resistant.md "抗性")于⁠[黯蚀](Necrotic.md "黯蚀")伤害。 |
-| [中毒抗性](Poison_Resistance_(Condition).md "中毒抗性 (状态)") | [抗性](Resistant.md "抗性")于⁠[中毒](Poison.md "中毒")伤害。不再可被[中毒](Poisoned_(status_group).md "中毒 (状态组)")。 |
+| [中毒抗性](Poison_Resistance_(Condition).md "中毒抗性 (状态)") | [抗性](Resistant.md "抗性")于⁠[毒素](Poison.md "毒素")伤害。不再可被[中毒](Poisoned_(status_group).md "中毒 (状态组)")。 |
 | [灵能弱化](Psionic_Weakening_(Condition).md "灵能弱化 (状态)") | 受影响实体在体质、感知和智力[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。饮用时会替换其他灵药的效果。 |
 | [心灵抗性](Psychic_Resistance_(Condition).md "心灵抗性 (状态)") | [抗性](Resistant.md "抗性")于⁠[心灵](Psychic.md "心灵")伤害。 |
 | [光耀抗性](Radiant_Resistance_(Condition).md "光耀抗性 (状态)") | [抗性](Resistant.md "抗性")于⁠[光耀](Radiant.md "光耀")伤害。 |

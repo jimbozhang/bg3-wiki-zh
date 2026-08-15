@@ -9,7 +9,7 @@
 | [治愈真言](Healing_Word.md "治愈真言") | 1 |  |  | - | 18 米 / 60英尺 | - | 1d4 + [施法调整值](Spells#Spellcasting_ability.md#Spellcasting_ability "施法调整值")⁠[治疗](Healing.md "治疗") |
 | [至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助") | 2 |  |  | 长休 | 自身 | - | 5⁠[治疗](Healing.md "治疗") |
 | [治疗祷言](Prayer_of_Healing.md "治疗祷言") | 2 |  |  | - | 自身 / 9米 / 30英尺 (半径) | - | 2d8 + [施法调整值](Spells#Spellcasting_ability.md#Spellcasting_ability "施法调整值")⁠[治疗](Healing.md "治疗") |
-| [卡利德的礼物：协助](Khalid's_Gift_colon__Aid.md "卡利德的礼物：协助") | 3 |  |  | 长休 | 自身 | - | 10⁠[治疗](Healing.md "治疗") |
+| [卡利德的礼物：支援术](Khalid's_Gift_colon__Aid.md "卡利德的礼物：支援术") | 3 |  |  | 长休 | 自身 | - | 10⁠[治疗](Healing.md "治疗") |
 | [群体治愈真言](Mass_Healing_Word.md "群体治愈真言") | 3 |  |  | - | 自身 / 18米 / 60英尺 (半径) | - | 1d4 + [施法调整值](Spells#Spellcasting_ability.md#Spellcasting_ability "施法调整值")⁠[治疗](Healing.md "治疗") |
 | [恢复活力](Restore_Vitality.md "恢复活力") | 3 |  |  | - | 9 米 / 30英尺 | - | 2d6⁠[治疗](Healing.md "治疗") |
 | [奉献之盾：协助](Shield_of_Devotion_colon__Aid.md "奉献之盾：协助") | 3 |  |  | 长休 | 自身 | - | 10⁠[治疗](Healing.md "治疗") |

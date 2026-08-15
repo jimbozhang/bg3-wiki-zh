@@ -83,7 +83,7 @@
 
 | 物品 | 附魔 | 伤害 | 伤害/类型 | 重量 | 价格 | 特殊 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [争端解决者](Argument_Solver.md "争端解决者") | +1 | 1d8 + 1 | 钝击 | 4.5 kg / 9 lb | 65 | [毒雾](Poison_Mist.md "毒雾") 击中时，造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外[中毒](Poison.md "中毒")伤害，并用[毒云](Poison_Cloud.md "毒云")包围目标，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒")。 ( 重充能：[短休](Short_rest.md "短休")。) |
+| [争端解决者](Argument_Solver.md "争端解决者") | +1 | 1d8 + 1 | 钝击 | 4.5 kg / 9 lb | 65 | [毒雾](Poison_Mist.md "毒雾") 击中时，造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外[毒素](Poison.md "毒素")伤害，并用[毒云](Poison_Cloud.md "毒云")包围目标，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒")。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [手动吸血器 (+1)](Artificial_Leech_(+1).md "手动吸血器 (+1)") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [放血](Bloodletting.md "放血") 刺穿敌人的肉体，可能使其[流血](Bleeding_(Condition).md "流血")。某些[不死生物](Undead.md "不死生物")和[构装生物](Construct.md "构装生物")无法流血。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [刺客短剑](Assassin's_Shortsword.md "刺客短剑") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [优势](Advantage.md "优势")于潜行检定。 |
 | [刺客之触](Assassin's_Touch.md "刺客之触") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 40 | [致命沉睡](Deathly_Slumber.md "致命沉睡")对[被击晕](Knocked_Out_(Condition).md "被击晕")或[睡眠](Sleeping_(Condition).md "睡眠")的生物造成额外1d4[黯蚀](Necrotic.md "黯蚀")伤害。 |

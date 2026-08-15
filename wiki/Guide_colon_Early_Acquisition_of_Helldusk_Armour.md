@@ -48,7 +48,7 @@
 
 此外，在营地被击倒后，当拉斐尔在下一回合因他的[必然决心](Inevitable_Resolve.md "Inevitable Resolve")恢复时，他只恢复最低限度的[生命值](Hit_Points.md "Hit points")以恢复意识（约6点）。这意味着当他再次被遭遇时（例如在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")与[摩尔](Mol.md "Mol")玩[枪板棋](Lanceboard.md "Lanceboard")时，在[大陵寝](Grand_Mausoleum.md "Grand Mausoleum")入口处，以及可能在[莎尔铁手神殿](Gauntlet_of_Shar.md "Gauntlet of Shar")），他将有一张非常瘀伤的脸。然而，如果队伍在[第三幕](Act_Three.md "Act Three")后期在[希望之邸](House_of_Hope.md "House of Hope")与他战斗，拉斐尔将恢复全部生命值。
 
-一种快速解决拉斐尔的方法是使用[酒馆殴斗者](Tavern_Brawler.md "Tavern Brawler")类型的[野蛮人](Barbarian.md "Barbarian")，使用[鲁莽攻击](Reckless_Attack.md "Reckless Attack")、[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "Elixir of Hill Giant Strength")和[回旋长矛](Returning_Pike.md "Returning Pike")，同时玩家角色或其他伙伴站在附近，在长矛被[投掷攻击](Thrown.md "投掷攻击")后取回并交还给使用者。
+一种快速解决拉斐尔的方法是使用[酒馆殴斗者](Tavern_Brawler.md "Tavern Brawler")类型的[野蛮人](Barbarian.md "Barbarian")，使用[鲁莽攻击](Reckless_Attack.md "Reckless Attack")、[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "Elixir of Hill Giant Strength")和[回旋长矛](Returning_Pike.md "Returning Pike")，同时玩家角色或其他伙伴站在附近，在长矛被[投掷](Thrown.md "投掷")后取回并交还给使用者。
 
 如果队伍在击倒拉斐尔时处于回合制模式（推荐），攻击者或其他角色需要足够接近以立即搜刮拉斐尔，因为他会在下一回合复活。
 
@@ -64,7 +64,7 @@
 
 ## 注释与参考文献
 
-1. [↑](#cite_ref-1) 关于拉斐尔也可能出现在卡尔拉克附近的晋升之路或通往染疫村落东侧的桥上的报告无法复现，并且似乎未在游戏文件中反映。
+1. [↑](#cite_ref-1) 关于拉斐尔也可能出现在卡菈克附近的晋升之路或通往染疫村落东侧的桥上的报告无法复现，并且似乎未在游戏文件中反映。
 1. [↑](#cite_ref-2) 具体指寻求[内蒂](Nettie.md "Nettie")、[埃塞尔](Ethel.md "Ethel")、[古特](Gut.md "Gut")或[奥米伦](Omeluum.md "Omeluum")的帮助。
 1. [↑](#cite_ref-3) 如果以其他方式招募了莱埃泽尔，则相关标志“PLA_GithChokepoint_State_MonitorIntroRequirementMet”不会被设置。
 1. [↑](#cite_note-4) 有一个额外的标志标记为潜在触发器“GLO_Halsin_Quest_ToldAboutMoonrise”，但被标记为已移除，因为它是冗余的。大概与“GLO_Halsin_Quest_AskedKilledLeaders”一起。

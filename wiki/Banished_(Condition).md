@@ -22,9 +22,9 @@
 
 ## 流放的来源
 
-- [放逐斩](Banishing_Smite.md "Banishing Smite")
-- [放逐斩(近战)](Banishing_Smite_(Melee).md "Banishing Smite (Melee)")
-- [放逐斩(远程)](Banishing_Smite_(Ranged).md "Banishing Smite (Ranged)")
+- [放逐斩](Banishing_Smite.md "放逐斩")
+- [放逐斩(近战)](Banishing_Smite_(Melee).md "放逐斩(近战)")
+- [放逐斩(远程)](Banishing_Smite_(Ranged).md "放逐斩(远程)")
 - [放逐术](Banishment.md "Banishment")
 - [撤销访客身份](Revoke_Guest_Status.md "Revoke Guest Status")
 - [奥术射击：放逐箭](Arcane_Shot_colon__Banishing_Arrow.md "Arcane Shot: Banishing Arrow")

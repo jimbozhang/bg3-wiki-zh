@@ -13,7 +13,7 @@
 
 [动作](Actions.md#Resources "动作")
 
-- 造成 2d8⁠⁠[中毒](Poison.md "中毒")
+- 造成 2d8⁠⁠[毒素](Poison.md "毒素")
 - 施加[中毒](Poisoned_(Condition).md "中毒 (状态)")
   - 范围：18 米 (60 英尺)
 

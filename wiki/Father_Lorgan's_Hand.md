@@ -6,7 +6,7 @@ Father Lorgan's Hand 是一个 [任务](Quest.md "Quest") 物品。
 
 ## 属性
 
-- [杂物](Miscellaneous.md "Miscellaneous")
+- [杂物物品](Miscellaneous.md "Miscellaneous")
 - 稀有度：故事道具
 - 价格：1 金币
 

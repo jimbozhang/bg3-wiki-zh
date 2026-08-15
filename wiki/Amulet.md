@@ -67,14 +67,14 @@
 | --- | --- | --- | --- |
 | [异怪猎人护符](Aberration_Hunters'_Amulet.md "异怪猎人护符") | 0.05 kg 0.1 lb | 65 | [长年怀恨](Ancient_Grudges.md "长年怀恨") 触碰你的护符以吸收吉斯人知识的一小部分。你获得对[异怪](List_of_Creature_Types#Aberration.md#Aberration "生物类型列表")的[优势](Advantage.md "优势")[攻击掷骰](Attack_rolls.md "攻击掷骰")。（充能：[短休](Short_rest.md "短休")。） [异怪猎人](Aberration_Hunter.md "异怪猎人")佩戴此护符的[吉斯洋基人](Githyanki.md "吉斯洋基人")在智力[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。[异怪](Aberration.md "异怪")在对抗他们时[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。 |
 | [绝对信心护符](Absolute_Confidence_Amulet.md "绝对信心护符") | 0.05 kg 0.1 lb | 45 | [表演](Performance.md "表演") +1 [威吓](Intimidation.md "威吓") -1 |
-| [至上真神的护符](Absolute's_Talisman.md "至上真神的护符") | 0.05 kg 0.1 lb | 65 | [至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助") 作为2环法术施放（充能：[长休](Long_Rest.md "长休")。） [至上真神的怜悯](The_Absolute's_Mercy.md "至上真神的怜悯")如果佩戴者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，他们在[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")上具有[优势](Advantage.md "优势")。 |
+| [至上真神的护符](Absolute's_Talisman.md "至上真神的护符") | 0.05 kg 0.1 lb | 65 | [至上真神的护符：支援术](Absolute's_Talisman_colon__Aid.md "至上真神的护符：支援术") 作为2环法术施放（充能：[长休](Long_Rest.md "长休")。） [至上真神的怜悯](The_Absolute's_Mercy.md "至上真神的怜悯")如果佩戴者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，他们在[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")上具有[优势](Advantage.md "优势")。 |
 | [元素折磨护符](Amulet_of_Elemental_Torment.md "元素折磨护符") | 0.05 kg 0.1 lb | 65 | [自然的复仇](Nature's_Vengeance.md "自然的复仇")当佩戴者站在特定地表上并施放造成伤害的法术时，目标也会遭受该地表的效果。 |
 | [迷踪步护符](Amulet_of_Misty_Step.md "迷踪步护符") | 0.05 kg 0.1 lb | 65 | [迷踪步](Misty_Step.md "迷踪步") 作为2环法术施放（充能：[短休](Short_rest.md "短休")。） |
 | [塞伦涅选民护符](Amulet_of_Selûne's_Chosen.md "塞伦涅选民护符") | 0.05 kg 0.1 lb | 65 | [塞伦涅的梦境](Selûne's_Dream.md "塞伦涅的梦境") 作为戏法施放（充能：[长休](Long_Rest.md "长休")。） |
-| [西凡那斯护符](Amulet_of_Silvanus.md "西凡那斯护符") | 0.05 kg 0.1 lb | 65 | [恢复](Lesser_Restoration.md "恢复") 作为2环法术施放（充能：[短休](Short_rest.md "短休")。） |
+| [西凡那斯护符](Amulet_of_Silvanus.md "西凡那斯护符") | 0.05 kg 0.1 lb | 65 | [次级恢复](Lesser_Restoration.md "次级恢复") 作为2环法术施放（充能：[短休](Short_rest.md "短休")。） |
 | [龃龉护符](Amulet_of_the_Unworthy.md "龃龉护符") | 0.05 kg 0.1 lb | 65 | 对[挥砍](Slashing.md "挥砍")伤害的[抗性](Resistance.md "抗性") 对[钝击](Bludgeoning.md "钝击")伤害的[易伤](Vulnerability.md "易伤") |
 | [驯兽师铁链](Beastmaster's_Chain.md "驯兽师铁链") | 0.05 kg 0.1 lb | 65 | [化兽为友](Animal_Friendship.md "化兽为友") 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。） |
-| [巢穴之母的复仇](Broodmother's_Revenge.md "巢穴之母的复仇") | 0.05 kg 0.1 lb | 65 | [恶毒复仇](Venomous_Revenge.md "恶毒复仇")每当佩戴者被治疗时，他们的武器会附魔并造成额外1d6[中毒](Poison.md "中毒")伤害。 |
+| [巢穴之母的复仇](Broodmother's_Revenge.md "巢穴之母的复仇") | 0.05 kg 0.1 lb | 65 | [恶毒复仇](Venomous_Revenge.md "恶毒复仇")每当佩戴者被治疗时，他们的武器会附魔并造成额外1d6[毒素](Poison.md "毒素")伤害。 |
 | [火焰之心](Fireheart.md "火焰之心") | 0.05 kg 0.1 lb | 65 | [炽热之焰](Fervent_Flames.md "炽热之焰")每当你受到其他生物造成的[火焰](Fire.md "火焰")伤害时，你获得2回合的[热力](Heat_(Condition).md "热力（状态）")。 |
 | [冰霜王子](Frost_Prince.md "冰霜王子") | 0.05 kg 0.1 lb | 65 | [冰刃术](Ice_Knife.md "冰刃术") 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。） |
 | [严厉之锤的薄雾护符](Hammergrim_Mist_Amulet.md "严厉之锤的薄雾护符") | 0.05 kg 0.1 lb | 65 | [云雾术](Fog_Cloud.md "云雾术") 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。） |

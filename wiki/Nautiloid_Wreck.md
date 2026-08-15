@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- |
 | [路边山崖](Roadside_Cliffs.md "路边山崖") |  |  |  |  |
 | ↑ |  |  |  |  |
-| [雄狮河](River_Chionthar.md "雄狮河") | ← | 鹦鹉螺残骸 | → | [疮痍的海滩](Ravaged_Beach.md "疮痍的海滩") |
+| [乔恩萨河](River_Chionthar.md "乔恩萨河") | ← | 鹦鹉螺残骸 | → | [疮痍的海滩](Ravaged_Beach.md "疮痍的海滩") |
 | ↓ |  |  |  |  |
 | [疮痍的海滩](Ravaged_Beach.md "疮痍的海滩") |  |  |  |  |
 ↓

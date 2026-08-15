@@ -24,7 +24,7 @@
 以下法术/动作可移除此状态组中的所有状态：
 
 - [圣疗](Lay_on_Hands.md "圣疗")
-- [恢复](Lesser_Restoration.md "恢复")
+- [次级恢复](Lesser_Restoration.md "次级恢复")
 
 ## 免疫
 
@@ -64,7 +64,7 @@
 
 ## 中毒状态列表
 
-- 生物必须通过体质 [豁免检定](Saving_throw.md "豁免检定")，否则受到 1d12⁠⁠[中毒](Poison.md "中毒") 伤害，并陷入中毒状态，直到下一次长休。
+- 生物必须通过体质 [豁免检定](Saving_throw.md "豁免检定")，否则受到 1d12⁠⁠[毒素](Poison.md "毒素") 伤害，并陷入中毒状态，直到下一次长休。
 - 若豁免成功，仍会受到一半伤害。
 
 \_(状态)[濒死](At_Death's_Door_(Advanced)_(Condition).md "濒死 (高级) (状态)")
@@ -90,18 +90,18 @@
 [埃赛尔婶婶的特制酿](Auntie_Ethel's_Special_Brew_(Condition).md "埃赛尔婶婶的特制酿 (状态)")
 |
 
-- 受影响的实体每回合开始时受到 2d6⁠⁠[中毒](Poison.md "中毒") 伤害，直到通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 受影响的实体每回合开始时受到 2d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 [酿制腹鸣酒](Brewed-Up_Bellyglummer_(Condition).md "酿制腹鸣酒 (状态)")
 |
 
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")
-- 受影响的实体在其下一回合结束时受到 1d6⁠⁠[中毒](Poison.md "中毒") 伤害。
+- 受影响的实体在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素") 伤害。
 
 [死云术](Cloudkill_(Condition).md "死云术 (状态)")
 |
 
-- 当其停留在云中时，受影响的实体每回合受到 5d8⁠⁠[中毒](Poison.md "中毒") 伤害。
+- 当其停留在云中时，受影响的实体每回合受到 5d8⁠⁠[毒素](Poison.md "毒素") 伤害。
 
 [疫病术中毒](Contagion_Poisoned_(Condition).md "疫病术中毒 (状态)")
 |
@@ -137,7 +137,7 @@
 \_(状态)[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)")
 |
 
-- 受影响的实体每回合受到 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。必须通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外 2d4⁠⁠[中毒](Poison.md "中毒") 伤害，豁免成功则受到一半伤害。
+- 受影响的实体每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。必须通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外 2d4⁠⁠[毒素](Poison.md "毒素") 伤害，豁免成功则受到一半伤害。
 
 [油饮](Oily_Sup_(Condition).md "油饮 (状态)")
 |
@@ -158,7 +158,7 @@
 \_(状态)[中毒](Poisoned_(Spider_Meat)_(Condition).md "中毒 (蜘蛛肉) (状态)")
 |
 
-- 每回合造成 3d6⁠⁠[中毒](Poison.md "中毒") 伤害
+- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
 - 回合开始时，进行 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，成功则结束状态。
 
@@ -166,7 +166,7 @@
 |
 
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
-- 每回合造成 3d6⁠⁠[中毒](Poison.md "中毒") 伤害，直到通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)")
 |

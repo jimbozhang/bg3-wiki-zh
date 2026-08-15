@@ -46,7 +46,7 @@
 | [人类定身术](Hold_Person.md "Hold Person") | 2 |  |  | 10 回合 | 18 米 / 60 尺 | [WIS](Wisdom.md "Wisdom") [豁免](Saving_throws.md "Saving throws") | - |
 | [隐形](Invisibility_(spell).md "Invisibility (spell)") | 2 |  |  | 10 回合 | 1.5 米 / 5 尺 | - | - |
 | [敲击术](Knock.md "Knock") | 2 |  |  | - | 18 米 / 60 尺 | - | - |
-| [恢复](Lesser_Restoration.md "Lesser Restoration") | 2 |  |  | - | 1.5 米 / 5 尺 | - | - |
+| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5 米 / 5 尺 | - | - |
 | [魅影之力](Phantasmal_Force.md "Phantasmal Force") | 2 |  |  | 10 回合 | 18 米 / 60 尺 | [INT](Intelligence.md "Intelligence") [豁免](Saving_throws.md "Saving throws") | - |
 | [识破隐形](See_Invisibility_(spell).md "See Invisibility (spell)") | 2 |  |  | 长休 | 自身 / 9米 / 30尺 (半径) | [DEX](Dexterity.md "Dexterity") [豁免](Saving_throws.md "Saving throws") | - |
 | [粉碎音波](Shatter.md "Shatter") | 2 |  |  | - | 18 米 / 60 尺 / 3米 / 10尺 (半径) | [CON](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 3d8⁠[雷鸣](Thunder.md "Thunder") |

@@ -4,7 +4,7 @@
 
 ## 其他资源
 
-用于辅助模组制作或添加到您自身模组的各类资源。
+用于辅助模组制作或添加到您自身模组的杂物资源。
 
 - [UUID生成器](https://www.uuidgenerator.net/)
 - [制作护甲图标](https://www.nexusmods.com/baldursgate3/images/594) 作者：AnteMaxx

@@ -5,7 +5,7 @@
 **⁠ 力场** 是游戏中的一种[伤害类型](Damage_type.md "伤害类型")。
 
 - 有关所有力场伤害来源，请参见[分类：力场伤害来源](Category_colon_Sources_of_Force_damage.md "分类：力场伤害来源")。
-- 有关对力场脆弱的生物，请参见[分类：对力场脆弱](Category_colon_Vulnerable_to_Force.md "分类：对力场脆弱")。
+- 有关对力场易伤的生物，请参见[分类：对力场易伤](Category_colon_Vulnerable_to_Force.md "分类：对力场易伤")。
 - 有关对力场抗性的生物，请参见[分类：对力场抗性](Category_colon_Resistant_to_Force.md "分类：对力场抗性")。
 - 有关对力场免疫的生物，请参见[分类：对力场免疫](Category_colon_Immune_to_Force.md "分类：对力场免疫")。
 

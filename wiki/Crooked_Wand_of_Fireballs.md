@@ -7,7 +7,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "杂物")
+- [杂物物品](Miscellaneous.md "杂物")
 - 单次使用
 - 稀有度：常见
 - 重量：0.45 kg (0.9 lb)

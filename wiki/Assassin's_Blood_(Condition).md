@@ -2,7 +2,7 @@
 
 **刺客之血**
 
-- 生物必须通过一次体质 [豁免检定](Saving_throw.md "豁免检定")，否则受到 1d12⁠⁠[中毒](Poison.md "中毒") 伤害，并在下一次长休前处于中毒状态。
+- 生物必须通过一次体质 [豁免检定](Saving_throw.md "豁免检定")，否则受到 1d12⁠⁠[毒素](Poison.md "毒素") 伤害，并在下一次长休前处于中毒状态。
 - 如果豁免成功，仍会受到一半伤害。
 
 [中毒](Poisoned_(status_group).md)
@@ -30,13 +30,13 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 生物必须通过一次体质 [豁免检定](Saving_throw.md "豁免检定")，否则受到 1d12⁠⁠[中毒](Poison.md "中毒") 伤害，并在下一次长休前处于中毒状态。
+- 生物必须通过一次体质 [豁免检定](Saving_throw.md "豁免检定")，否则受到 1d12⁠⁠[毒素](Poison.md "毒素") 伤害，并在下一次长休前处于中毒状态。
 - 如果豁免成功，仍会受到一半伤害。
 
 \_(状态)[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)")
 |
 
-- 受影响实体每回合受到 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外 2d4⁠⁠[中毒](Poison.md "中毒") 伤害，豁免成功时受到一半伤害。
+- 受影响实体每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外 2d4⁠⁠[毒素](Poison.md "毒素") 伤害，豁免成功时受到一半伤害。
 
 [中毒](Poisoned_(Condition).md "中毒 (状态)")
 |
@@ -46,7 +46,7 @@ _维基数据库中未定义_
 [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)")
 |
 
-- 每回合受到 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。
+- 每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。
 - 在 [攻击掷骰](Attack_rolls.md "攻击掷骰") 和 [检定](Checks.md "检定") 上遭受 [劣势](Disadvantage.md "劣势")。
 
 [病弱](Sickly_(Condition).md "病弱 (状态)")

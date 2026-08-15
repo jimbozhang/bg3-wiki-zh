@@ -9,40 +9,40 @@
 [刺客之血](Assassin's_Blood_(Condition).md "刺客之血 (状态)")
 |
 
-- 生物必须通过一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到 1d12⁠⁠[中毒](Poison.md "中毒") 伤害，并在下一次长休前处于 [中毒](Poisoned.md "中毒") 状态。
+- 生物必须通过一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到 1d12⁠⁠[毒素](Poison.md "毒素") 伤害，并在下一次长休前处于 [中毒](Poisoned.md "中毒") 状态。
 - 即使豁免成功，仍会受到一半伤害。
 
 [埃赛尔婶婶的特制酿品](Auntie_Ethel's_Special_Brew_(Condition).md "埃赛尔婶婶的特制酿品 (状态)")
 |
 
-- 受影响的生物在每回合开始时受到 2d6⁠⁠[中毒](Poison.md "中毒") 伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 受影响的生物在每回合开始时受到 2d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 [特酿腹鸣酒](Brewed-Up_Bellyglummer_(Condition).md "特酿腹鸣酒 (状态)")
 |
 
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")
-- 受影响实体在其下一回合结束时受到 1d6⁠⁠[中毒](Poison.md "中毒") 伤害。
+- 受影响实体在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素") 伤害。
 
-\_(状态)[灼烧](Burning_(Orthonic)_(Condition).md "灼烧 (奥赛) (状态)")
+\_(状态)[燃烧](Burning_(Orthonic)_(Condition).md "燃烧 (奥赛) (状态)")
 |
 
 - 每回合受到 1d4⁠⁠[火焰](Fire.md "火焰") 伤害。
 - **无法**通过 [协助](Help.md "协助") 动作、使用 [治疗药水](Potion_of_Healing.md "治疗药水") 或获得 [濡湿](Wet_(Condition).md "濡湿 (状态)") 来移除。
 
-[灼烧](Burning_(Condition).md "灼烧 (状态)")
+[燃烧](Burning_(Condition).md "燃烧 (状态)")
 |
 
 - 每回合受到 1d4⁠⁠[火焰](Fire.md "火焰") 伤害。
 - 可以通过 [协助](Help.md "协助") 动作、使用 [治疗药水](Potion_of_Healing.md "治疗药水") 或获得 [濡湿](Wet_(Condition).md "濡湿 (状态)") 来移除。
 - 如果处于 [濡湿](Wet_(Condition).md "濡湿 (状态)") 状态则免疫。
-- [蘸取](Dip.md "蘸取") 动作可用于处于灼烧状态的角色或物体。
+- [蘸取](Dip.md "蘸取") 动作可用于处于燃烧状态的角色或物体。
 
-[灼烧强酸](Burning_Acid_(Condition).md "灼烧强酸 (状态)")
+[燃烧强酸](Burning_Acid_(Condition).md "燃烧强酸 (状态)")
 |
 
-- 孵化池的水会灼烧所有闯入者。
+- 孵化池的水会燃烧所有闯入者。
 
-[猛烈灼烧](Burning_Fiercely_(Condition).md "猛烈灼烧 (状态)")
+[猛烈燃烧](Burning_Fiercely_(Condition).md "猛烈燃烧 (状态)")
 |
 
 - 每回合受到 1d10⁠⁠[火焰](Fire.md "火焰") 伤害。
@@ -61,7 +61,7 @@
 [死云术](Cloudkill_(Condition).md "死云术 (状态)")
 |
 
-- 只要停留在云中，受影响实体每回合受到 5d8⁠⁠[中毒](Poison.md "中毒") 伤害。
+- 只要停留在云中，受影响实体每回合受到 5d8⁠⁠[毒素](Poison.md "毒素") 伤害。
 
 [绞缠](Constricted_(Condition).md "绞缠 (状态)")
 |
@@ -160,7 +160,7 @@
 \_(状态)[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)")
 |
 
-- 受影响实体每回合受到 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。它必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外的 2d4⁠⁠[中毒](Poison.md "中毒") 伤害，豁免成功则承受一半伤害。
+- 受影响实体每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。它必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外的 2d4⁠⁠[毒素](Poison.md "毒素") 伤害，豁免成功则承受一半伤害。
 
 [油浸](Oily_Sup_(Condition).md "油浸 (状态)")
 |
@@ -186,7 +186,7 @@
 \_(状态)[中毒](Poisoned_(Spider_Meat)_(Condition).md "中毒 (蜘蛛肉) (状态)")
 |
 
-- 每回合造成 3d6⁠⁠[中毒](Poison.md "中毒") 伤害
+- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
 - 在回合开始时，进行一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，成功则结束状态。
 
@@ -194,25 +194,25 @@
 |
 
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
-- 每回合造成 3d6⁠⁠[中毒](Poison.md "中毒") 伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)")
 |
 
-- 每回合受到 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。
+- 每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。
 - 在 [攻击掷骰](Attack_rolls.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
 
 [再生](Regeneration_(Condition).md "再生 (状态)")
 |
 
-- 如果 [菘蓝树人](Wood_Woad.md "菘蓝树人") 穿过藤蔓地表，除非最近受到过 ⁠[火焰](Fire.md "火焰") 伤害，否则恢复 10⁠⁠[治疗](Healing.md "治疗")。
+- 如果 [菘蓝树人](Wood_Woad.md "菘蓝树人") 穿过藤蔓地表，除非最近受到过 ⁠[火焰](Fire.md "火焰") 伤害，否则恢复 10⁠⁠[生命值](Healing.md "治疗")。
 
 [翻腾地狱火](Roiling_Hellfire_(Condition).md "翻腾地狱火 (状态)")
 |
 
 - 来自阿弗纳斯核心的火焰吞噬此实体，每回合造成 6d6⁠⁠[火焰](Fire.md "火焰") 伤害。
 
-[灼烧光环](Scorching_Aura_(Condition).md "灼烧光环 (状态)")
+[燃烧光环](Scorching_Aura_(Condition).md "燃烧光环 (状态)")
 |
 
 - 此实体的攻击造成额外 1d6⁠⁠[火焰](Fire.md "火焰") 伤害，除非目标处于 [濡湿](Wet_(Condition).md "濡湿 (状态)") 状态。
@@ -256,7 +256,7 @@
 [濡湿](Wet_(Condition).md "濡湿 (状态)")
 |
 
-- 对 [灼烧](Burning_(Condition).md "灼烧 (状态)") 和 [狂野魔法：灼烧](Wild_Magic_colon__Burning_(Condition).md "狂野魔法：灼烧 (状态)") [免疫](Immune.md "免疫")。
+- 对 [燃烧](Burning_(Condition).md "燃烧 (状态)") 和 [狂野魔法：燃烧](Wild_Magic_colon__Burning_(Condition).md "狂野魔法：燃烧 (状态)") [免疫](Immune.md "免疫")。
 - 对 ⁠[火焰](Fire.md "火焰") 伤害 [抗性](Resistant.md "抗性")。
 - 对 ⁠[闪电](Lightning.md "闪电") 和 ⁠[寒冷](Cold.md "寒冷") 伤害 [易伤](Vulnerable.md "易伤")。
 

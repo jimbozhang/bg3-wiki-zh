@@ -17,7 +17,7 @@
 单手
 [灵巧](Finesse.md "Finesse")
 [轻型](Light_(weapon_property).md "Light (weapon property)")
-[投掷攻击](Thrown.md "Thrown")
+[投掷](Thrown.md "投掷")
 [可蘸取](Dippable.md "Dippable")
 近战：1.5 m (5 ft)
 重量：0.45 kg (0.9 lb)

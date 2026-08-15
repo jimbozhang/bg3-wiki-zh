@@ -21,7 +21,7 @@
 | [交友术](Friends.md "交友术") | 戏法 |  |  | 10回合 | 9米 / 30英尺 | - | - |
 | [法师之手](Mage_Hand.md "法师之手") | 戏法 |  |  | - | 18米 / 60英尺 | - | - |
 | [初级幻影](Minor_Illusion.md "初级幻影") | 戏法 |  |  | - | 18米 / 60英尺 | - | - |
-| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3米 / 10英尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 1d12⁠[中毒](Poison.md "中毒") |
+| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3米 / 10英尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 1d12⁠[毒素](Poison.md "毒素") |
 | [丧钟](Toll_the_Dead.md "丧钟") | 戏法 |  |  | - | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 1d12⁠[黯蚀](Necrotic.md "黯蚀") |
 | [克敌机先](True_Strike.md "克敌机先") | 戏法 |  |  | 2回合 | 18米 / 60英尺 | - | - |
 | [艾嘉西斯之铠](Armour_of_Agathys.md "艾嘉西斯之铠") | 1 |  |  | 长休 | 自身 | - | 5⁠[寒冷](Cold.md "寒冷") |

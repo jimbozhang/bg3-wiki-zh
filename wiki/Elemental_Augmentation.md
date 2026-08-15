@@ -16,7 +16,7 @@
 
 - 元素强化实际上并不检查造成的伤害是否匹配所列元素之一，而是检查是否匹配 `DamageType` 标志。然而，添加的元素伤害（例如来自 [闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）") 等来源）不被视为源自戏法，这导致两种方法在功能上没有区别。
 
-- 元素强化与大多数 [龙族血脉](Draconic_Bloodline.md "龙族血脉") [术士](Sorcerer.md "术士") 的 [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "元素亲和：伤害") 特性叠加（但绿色龙血脉的术士除外，因为此物品不提升中毒伤害）。在这种情况下，魅力调整值将被添加到相关戏法的伤害中两次。
+- 元素强化与大多数 [龙族血脉](Draconic_Bloodline.md "龙族血脉") [术士](Sorcerer.md "术士") 的 [元素亲和：伤害](Elemental_Affinity_colon__Damage.md "元素亲和：伤害") 特性叠加（但绿色龙血脉的术士除外，因为此物品不提升毒素伤害）。在这种情况下，魅力调整值将被添加到相关戏法的伤害中两次。
 
 - 元素强化对非元素伤害戏法（如 [魔能爆](Eldritch_Blast.md "魔能爆")）无效，即使它们通过 [闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）") 或 [生离死别：尖啸](Phalar_Aluve_colon__Shriek.md "生离死别：尖啸") 等效果造成额外的元素伤害。
 

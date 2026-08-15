@@ -10,7 +10,7 @@
 对目标造成 8d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。植物受到此法术的最大伤害，并在对抗它的[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 
 [死云术](Cloudkill.md "Cloudkill") (+ )
-制造一团大型云雾，每回合造成 5d8⁠⁠[中毒](Poison.md "Poison") 伤害。你可以每回合重新定位云雾。
+制造一团大型云雾，每回合造成 5d8⁠⁠[毒素](Poison.md "Poison") 伤害。你可以每回合重新定位云雾。
 
 [曳光弹](Guiding_Bolt.md "Guiding Bolt") (+ )
 下一次对该目标的攻击掷骰具有[优势](Advantage.md "Advantage")。

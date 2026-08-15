@@ -68,7 +68,7 @@
 
 ### 战斗
 
-- [先攻](Initiative.md "Initiative")使用 d4 而非 d20 投掷，且不视为敏捷属性检定。提供先攻加成的特性仍然存在，但大多数提供的是固定加值而非优势或基于[属性值](Ability_Score.md "Ability score")的加成。
+- [先攻](Initiative.md "Initiative")使用 d4 而非 20面骰 投掷，且不视为敏捷属性检定。提供先攻加成的特性仍然存在，但大多数提供的是固定加值而非优势或基于[属性值](Ability_Score.md "Ability score")的加成。
   - 这使得同一方的多个角色更有可能投出相同或相邻的先攻值，允许他们利用下述的共享先攻特性。
   - 如果两个或更多玩家控制的角色在先攻顺序中相邻，则共享先攻。这些角色可以按任意顺序行动，甚至可以混合他们的回合。
 - 战斗区域往往具有大量垂直空间，但水平尺寸相对较小。这导致了以下机制变更：
@@ -78,7 +78,7 @@
 - 覆盖机制未实现，但远程武器攻击、[投掷](Throw.md "Throw")攻击和弹道法术仍需要对目标有视线。
 - 当生物至少高于目标 10 英尺进行远程攻击时，会因[高地](High_ground.md "High ground")获得 +2 攻击掷骰加值。当生物至少低于目标 10 英尺进行远程攻击时，会因低地获得 -2 攻击掷骰惩罚。[神射手](Sharpshooter.md "Sharpshooter")专长会移除低地惩罚。
 - 基于听觉的探测规则未实现，NPC 可能仅探测他们看到的内容。如果角色在任何生物的视线锥外[躲藏](Hide.md "躲藏")，则自动成功。如果他们在生物的视线锥内尝试隐藏，或已隐藏并进入生物的视线锥，则根据生物的感官（如黑暗视觉或[盲视术](Blindsight.md "Blindsight")）和隐藏者的[隐蔽](Obscurity.md "Obscurity")等级，可能会被自动探测或可能投掷[隐匿](Stealth.md "Stealth")检定对抗生物的被动察觉。
-- 当使用同时具有[灵巧](Finesse.md "Finesse")和[投掷攻击](Thrown.md "投掷攻击")属性的武器进行远程攻击时，攻击掷骰使用攻击者的[力量](Strength.md "Strength")调整值，而非选择力量和[敏捷](Dexterity.md "Dexterity")中较高的调整值（这可能是无意的开发者疏忽）。然而，伤害掷骰使用攻击者力量或敏捷调整值中较高的一个。
+- 当使用同时具有[灵巧](Finesse.md "Finesse")和[投掷](Thrown.md "投掷")属性的武器进行远程攻击时，攻击掷骰使用攻击者的[力量](Strength.md "Strength")调整值，而非选择力量和[敏捷](Dexterity.md "Dexterity")中较高的调整值（这可能是无意的开发者疏忽）。然而，伤害掷骰使用攻击者力量或敏捷调整值中较高的一个。
 
 ### 施法
 
@@ -102,8 +102,8 @@
 ### 动作经济
 
 - 角色可以装备一套远程武器和一套近战武器，并且可以在每回合内无限次自由切换。例如，角色可以以近战武器开始回合，免费切换到弓进行[远程攻击](Ranged_Attack.md "Ranged Attack")，然后切换回近战武器以进行[借机攻击](Opportunity_Attack.md "Opportunity Attack")。能够用一个动作进行多次攻击的角色可以在攻击之间切换武器。从地面、容器或物品栏中装备武器需要消耗一个动作。
-- [推击](Shove.md "Shove")不是攻击动作的一部分。它是所有角色可用的附赠动作。推击仅将目标向后推一定距离，具体取决于推击者的力量和目标的重量。除非将目标推下高台，否则通常不会使目标倒地。（一些生物在被推击时会显示倒地，但这纯粹是视觉效果，因为他们会立即起身而不消耗任何移动，并且这不会在任何时候应用[倒地](Prone_(Condition).md "Prone (Condition)")状态。）
-- [坠落伤害](Falling_damage.md "Falling damage")由坠落高度决定，并根据生物最大生命值的百分比造成固定伤害。如果坠落造成超过其最大生命值 25% 的伤害，则保证使生物倒地，否则永远不会使生物倒地。
+- [推击](Shove.md "Shove")不是攻击动作的一部分。它是所有角色可用的附赠动作。推击仅将目标向后推一定距离，具体取决于推击者的力量和目标的重量。除非将目标推下高台，否则通常不会使目标倒伏。（一些生物在被推击时会显示倒伏，但这纯粹是视觉效果，因为他们会立即起身而不消耗任何移动，并且这不会在任何时候应用[倒伏](Prone_(Condition).md "Prone (Condition)")状态。）
+- [坠落伤害](Falling_damage.md "Falling damage")由坠落高度决定，并根据生物最大生命值的百分比造成固定伤害。如果坠落造成超过其最大生命值 25% 的伤害，则保证使生物倒伏，否则永远不会使生物倒伏。
 - 对[倒地](Downed_(Condition).md "Downed (Condition)")盟友使用[协助](Help.md "Help")动作会使其恢复至 1 点生命值。此动作也可用于移除各种其他有害状态，例如[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "Ensnared (Ensnaring Strike) (Condition)")、[网缚](Enwebbed_(Condition).md "Enwebbed (Condition)")或[沉睡](Sleeping_(Condition).md "Sleeping (Condition)")。它不能用于为盟友提供攻击掷骰或属性检定的优势。
 - [跳跃](Jump.md "Jump")是一个附赠动作，消耗 10 英尺移动速度。力量值为 10 或以下时，生物可以跳跃 15 英尺，每超过 10 点的每两点力量增加 3 英尺。跳跃总是消耗 10 英尺移动，无论实际跳跃距离如何，这有效地将生物的移动速度提高了最多 20 英尺（在力量 20 时）。角色不会投掷[运动](Athletics.md "Athletics")检定以避免被跳跃过的障碍物击中，也不会投掷[体操](Acrobatics.md "Acrobatics")检定以避免在劣势地形着陆时倒地。
 - 闪避动作未实现，但[武僧](Monk.md "Monk")的[坚强防御](Patient_Defence.md "Patient Defence")和[战斗大师](Battle_Master.md "战斗大师")的[灵巧步法](Evasive_Footwork.md "Evasive_Footwork")策略功能类似。
@@ -166,12 +166,12 @@
 - [恐惧](Fearful_(Condition).md "Fearful (Condition)")：与恐慌相同，只是目标必须逃离恐惧来源，并且无法采取任何额外动作。
 - [被擒抱](Grappled_(Condition).md "Grappled (Condition)")：只有[触手](Tentacle.md "Tentacle")和[幽影潜行者](Shadow_Creeper.md "Shadow Creeper")可以擒抱。
 - [麻痹](Paralysed_(Condition).md "Paralysed (Condition)")：10 英尺内的攻击自动命中且总是暴击，而非 5 英尺内的攻击自动暴击。
-- [倒地](Prone_(Condition).md "Prone (Condition)")：倒地会对[力量](Strength.md "Strength")和[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throws.md "Saving throws")施加劣势，对倒地生物的攻击在 10 英尺范围内具有[优势](Advantage.md "Advantage")，而非 5 英尺，并且对倒地生物的远程攻击没有劣势。生物在倒地时无法做任何事情。在倒地状态下开始回合会使生物自动使用一半移动起身；如果生物在自己的回合内倒地，回合会自动结束。倒地还会使生物停止专注需要专注的法术或类似能力。
+- [倒伏](Prone_(Condition).md "Prone (Condition)")：倒伏会对[力量](Strength.md "Strength")和[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throws.md "Saving throws")施加劣势，对倒伏生物的攻击在 10 英尺范围内具有[优势](Advantage.md "Advantage")，而非 5 英尺，并且对倒伏生物的远程攻击没有劣势。生物在倒伏时无法做任何事情。在倒伏状态下开始回合会使生物自动使用一半移动起身；如果生物在自己的回合内倒伏，回合会自动结束。倒伏还会使生物停止专注需要专注的法术或类似能力。
 - [被驱散](Turned_(Condition).md "Turned (Condition)")：被驱散的生物不会闪避，因为闪避未作为动作实现。如果被驱散的生物无法移动，它只会停留在原地并无所作为。
-- [湿润](Wet_(Condition).md "Wet (Condition)")：这是一个新状态，可防止角色[燃烧](Burning_(Condition).md "Burning (Condition)")，并赋予对[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "Resistance")，但也会使生物对[闪电](Lightning.md "Lightning")和[寒冷](Cold.md "寒冷")伤害[易伤](Vulnerable.md "Vulnerable")。
+- [濡湿](Wet_(Condition).md "Wet (Condition)")：这是一个新状态，可防止角色[燃烧](Burning_(Condition).md "Burning (Condition)")，并赋予对[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "Resistance")，但也会使生物对[闪电](Lightning.md "Lightning")和[寒冷](Cold.md "寒冷")伤害[易伤](Vulnerable.md "Vulnerable")。
 - [受威胁](Threatened_(Condition).md "Threatened (Condition)")：在目标 10 英尺内的远程攻击具有劣势，而在 5e 中，此惩罚的范围是 5 英尺。
 
-### 杂项
+### 杂物
 
 - [巨武器战斗](Great_Weapon_Fighting.md "Great Weapon Fighting")战斗风格会重投攻击中所有掷出 1 或 2 的伤害骰，即使它们不是武器基础伤害的一部分。
 - “生命浆果”，即由[生命领域](Life_Domain.md "Life Domain")牧师的[生命门徒](Disciple_of_Life.md "Disciple of Life")强化的[神莓](Goodberry_(Item).md "Goodberry (Item)")，在 BG3 中不起作用。

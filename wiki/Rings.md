@@ -98,7 +98,7 @@
 | [费尔祖的交易戒指](Firzu's_Ring_of_Trading.md "Firzu's Ring of Trading") | 0.05 kg 0.1 lb | 40 | [欺瞒](Deception.md "Deception") +1 |
 | [公会戒指](Guild_Ring.md "Guild Ring") | 0.05 kg 0.1 lb | 40 |  |
 | [法师之友](Mage's_Friend.md "Mage's Friend") | 0.05 kg 0.1 lb | 40 | [奥秘](Arcana.md "Arcana") +1 [宗教](Religion.md "Religion") +1 |
-| [投毒者之戒](Poisoner's_Ring.md "Poisoner's Ring") | 0.05 kg 0.1 lb | 40 | [致命毒液](Virulent_Venom.md "Virulent Venom") 用戴着戒指的手指指向目标，使其对[中毒](Poison.md "中毒")伤害[易伤](Vulnerable.md "Vulnerable")，除非它对[中毒](Poison.md "中毒")伤害免疫。([长休](Long_Rest.md "Long rest")后充能。) |
+| [投毒者之戒](Poisoner's_Ring.md "Poisoner's Ring") | 0.05 kg 0.1 lb | 40 | [致命毒液](Virulent_Venom.md "Virulent Venom") 用戴着戒指的手指指向目标，使其对[毒素](Poison.md "毒素")伤害[易伤](Vulnerable.md "Vulnerable")，除非它对[毒素](Poison.md "毒素")伤害免疫。([长休](Long_Rest.md "Long rest")后充能。) |
 | [至上真神力量之戒](Ring_of_Absolute_Force.md "Ring of Absolute Force") | 0.05 kg 0.1 lb | 40 | [雷鸣波](Thunderwave.md "Thunderwave") 作为1环法术施放（[短休](Short_rest.md "Short rest")后充能。）[至上真神的雷霆](Absolute's_Tempest.md "Absolute's Tempest")如果装备者带有[至上真神的印记](Brand_of_the_Absolute.md "Brand of the Absolute")，他们使用雷鸣伤害法术和攻击时造成额外1点雷鸣伤害。 |
 | [七彩喷射戒指](Ring_of_Colour_Spray.md "Ring of Colour Spray") | 0.05 kg 0.1 lb | 40 | [目盲](Colour_Spray.md "Colour Spray") 作为1环法术施放（[短休](Short_rest.md "Short rest")后充能。） |
 | [元素注能戒指](Ring_of_Elemental_Infusion.md "Ring of Elemental Infusion") | 0.05 kg 0.1 lb | 40 | [元素注能](Elemental_Infusion.md "Elemental Infusion")当你使用[法术](Spell.md "Spell")或[戏法](Cantrip.md "Cantrip")造成[强酸](Acid.md "强酸")、[寒冷](Cold.md "寒冷")、[火焰](Fire.md "Fire")、[闪电](Lightning.md "Lightning")或[雷鸣](Thunder.md "Thunder")伤害时，该元素会注入你的武器。直到你的下一回合结束，你的第一次成功武器攻击会造成额外1d4点该元素伤害。 |
@@ -136,7 +136,7 @@
 | [神髓戒指](Ring_of_Exalted_Marrow.md "Ring of Exalted Marrow") | 0.05 kg 0.1 lb | 70 | [劝诫复生者](Exhort_the_Risen.md "Exhort the Risen") 作为1环法术施放（[长休](Long_Rest.md "Long rest")后充能。）[残暴之触](Ghoulish_Touch.md "Ghoulish Touch") 作为1环法术施放（[长休](Long_Rest.md "Long rest")后充能。） |
 | [自由动作戒指](Ring_of_Free_Action.md "Ring of Free Action") | 0.05 kg 0.1 lb | 160 | [坚定不移](Unwavering.md "Unwavering")你忽略[劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)")的效果，并且不会被[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")或[束缚](Restrained_(Condition).md "Restrained (Condition)")。 |
 | [心灵庇护之戒](Ring_of_Mind-Shielding.md "Ring of Mind-Shielding") | 0.05 kg 0.1 lb | 70 | [避难所](Shelter.md "避难所")你对[魅惑](Charmed_(Condition).md "Charmed (Condition)")的[豁免检定](Saving_throw.md "Saving throw")具有[优势](Advantage.md "Advantage")。 |
-| [抗毒戒指](Ring_of_Poison_Resistance.md "Ring of Poison Resistance") | 0.05 kg 0.1 lb | 40 | 对[中毒](Poison.md "中毒")伤害的[抗性](Resistance.md "Resistance")。 |
+| [抗毒戒指](Ring_of_Poison_Resistance.md "Ring of Poison Resistance") | 0.05 kg 0.1 lb | 40 | 对[毒素](Poison.md "毒素")伤害的[抗性](Resistance.md "Resistance")。 |
 | [守护戒指](Ring_of_Protection.md "Ring of Protection") | 0.05 kg 0.1 lb | 70 | [护甲等级](Armour_Class.md "Armour Class") +1 [豁免检定](Saving_throw.md "Saving throw") +1 |
 | [真实之戒](Ring_of_Truthfulness.md "Ring_of_Truthfulness") | 0.05 kg 0.1 lb | 70 | [真实之戒](Ring_of_Veracity.md "Ring of Veracity")你获得对[洞悉](Insight.md "Insight")的[优势](Advantage.md "Advantage")。 |
 | [暮光戒指](Ring_of_Twilight.md "Ring of Twilight") | 0.05 kg 0.1 lb | 70 | [暮光行者](Treader_by_Twilight.md "Treader by Twilight")当你处于[遮蔽](Obscured.md "Obscured")状态时，获得+1[护甲等级](Armour_Class.md "Armour Class")加成。 |
@@ -159,7 +159,7 @@
 | [再生戒指](Ring_of_Regeneration.md "Ring of Regeneration") | 0.05 kg 0.1 lb | 360 | [战斗再生](Combat_Regeneration.md "Combat Regeneration")在你的回合开始时，戒指激活并治疗你1d4点[治疗](Healing.md "治疗")。 |
 
 [战斗再生](Combat_Regeneration.md "Combat Regeneration")
-在你的回合开始时，戒指激活并治疗你1d4点[治疗](Healing.md "治疗")。
+在你的回合开始时，戒指激活并治疗你1d4点[生命值](Healing.md "治疗")。
 
 [￪ 返回顶部](#top)
 

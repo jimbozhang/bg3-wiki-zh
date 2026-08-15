@@ -51,7 +51,7 @@
 | [大步奔行](Longstrider.md "大步奔行") | 1 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [光耀箭](Luminous_Arrow.md "光耀箭") | 1 |  |  | - | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8 + [施法调整值](Spells#Spellcasting_ability.md#Spellcasting_ability "法术")⁠[光耀](Radiant.md "光耀") |
 | [魔法飞弹](Magic_Missile.md "魔法飞弹") | 1 |  |  | - | 18米 / 60英尺 | - | 1d4 + 1⁠[力场](Force.md "力场") / 1d4 + 1⁠[力场](Force.md "力场") / 1d4 + 1⁠[力场](Force.md "力场") |
-| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[中毒](Poison.md "中毒") |
+| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[毒素](Poison.md "毒素") |
 | [炽焰斩](Searing_Smite.md "炽焰斩") | 1 |  |  | 10回合 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 普通武器伤害 / 1d6⁠[火焰](Fire.md "火焰") / 1d6⁠[火焰](Fire.md "火焰") |
 | [睡眠](Sleep.md "睡眠") | 1 |  |  | 2回合 | 18米 / 60英尺 | - | - |
 | [雷鸣波](Thunderwave.md "雷鸣波") | 1 |  |  | - | 1.5米 / 5英尺 / 5米 / 17英尺（立方体） | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[雷鸣](Thunder.md "雷鸣") |
@@ -133,7 +133,7 @@
 | [冰风暴](Ice_Storm.md "冰风暴") | 4 |  |  | - | 18米 / 60英尺 / 6米 / 20英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 2d8⁠[钝击](Bludgeoning.md "钝击") / 4d6⁠[寒冷](Cold.md "寒冷") |
 | [魅影杀手](Phantasmal_Killer.md "魅影杀手") | 4 |  |  | 10回合 | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | 4d10⁠[心灵](Psychic.md "心灵") |
 | [火墙术](Wall_of_Fire.md "火墙术") | 4 |  |  | - | 18米 / 60英尺 | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 5d8⁠[火焰](Fire.md "火焰") |
-| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18米 / 60英尺 | - | 5d8⁠[中毒](Poison.md "中毒") |
+| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18米 / 60英尺 | - | 5d8⁠[毒素](Poison.md "毒素") |
 | [寒冰锥](Cone_of_Cold.md "寒冰锥") | 5 |  |  | - | 自身 / 9米 / 30英尺（锥形） | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") | 8d8⁠[寒冷](Cold.md "寒冷") |
 | [召唤元素生物](Conjure_Elemental.md "召唤元素生物") | 5 |  |  | - | 18米 / 60英尺 | - | - |
 | [焰击术](Flame_Strike.md "焰击术") | 5 |  |  | - | 18米 / 60英尺 / 3米 / 10英尺（半径） | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定") | 5d6⁠[火焰](Fire.md "火焰") / 5d6⁠[光耀](Radiant.md "光耀") |

@@ -11,7 +11,7 @@
 
 - 萨雷沃克的[护甲等级](Armour_Class.md "护甲等级")提高 6。
 
-[Aid](Aid_(Condition).md "援助（状态）")
+[Aid](Aid_(Condition).md "支援术（状态）")
 |
 
 - 生命值上限提高 5⁠⁠[治疗](Healing.md "治疗")。
@@ -22,11 +22,11 @@
 
 - 你的奥术守御阻挡等于其充能点数的伤害，然后失去 1 点充能。施放[防护学派法术](Abjuration_spells.md "防护学派法术")将增加等于法术等级的充能点数。
 
-| [Armour of Agathys](Armour_of_Agathys_(Condition).md "艾嘉西斯之铠（状态）") | 获得 5 × 法术等级的[临时生命值](Temporary_Hit_Points.md "临时生命值")。如果被近战攻击命中，攻击者受到 5 × 法术等级⁠⁠[寒冷](Cold.md "寒冷")伤害。此效果在临时生命值耗尽时结束。 [Aspect of the Elk](Aspect_of_the_Elk_(Condition).md "驼鹿面貌（状态）") |
+| [Armour of Agathys](Armour_of_Agathys_(Condition).md "艾嘉西斯之铠（状态）") | 获得 5 × 法术等级的[临时生命值](Temporary_Hit_Points.md "临时生命值")。如果被近战攻击命中，攻击者受到 5 × 法术等级⁠⁠[寒冷](Cold.md "寒冷")伤害。此效果在临时生命值耗尽时结束。 [Aspect of the Elk](Aspect_of_the_Elk_(Condition).md "麋鹿面貌（状态）") |
 
 - [移动速度](Movement_speed.md "移动速度")提高 +1.5 米（5 英尺），只要受影响的实体靠近野蛮人。
 
-[Aspect of the Elk Aura](Aspect_of_the_Elk_Aura_(Condition).md "驼鹿面貌灵光（状态）")
+[Aspect of the Elk Aura](Aspect_of_the_Elk_Aura_(Condition).md "麋鹿面貌灵光（状态）")
 |
 
 - 受影响的实体和附近的盟友获得 +1.5 米（5 英尺）的[移动速度](Movement_speed.md "移动速度")加值。
@@ -39,7 +39,7 @@
 [Aspect of the Wolf](Aspect_of_the_Wolf_(Condition).md "狼之面貌（状态）")
 |
 
-- 受影响的实体获得 +[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")的[隐匿](Stealth.md "隐匿")[隐匿](Stealth.md "隐匿")加值，只要它靠近野蛮人。
+- 受影响的实体获得 +[敏捷调整值](Dexterity_Modifier.md "敏捷调整值")的[隐匿检定](Stealth.md "隐匿")加值，只要它靠近野蛮人。
 
 [Aspect of the Wolf Aura](Aspect_of_the_Wolf_Aura_(Condition).md "狼之面貌灵光（状态）")
 |
@@ -105,7 +105,7 @@
 [Aura of Terror](Aura_of_Terror_(Condition).md "恐怖灵光（状态）")
 |
 
-- 巴恩的压迫性灵光使受影响的实体在施法者 3 米（10 英尺）范围内时，在攻击掷骰和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 班恩的压迫性灵光使受影响的实体在施法者 3 米（10 英尺）范围内时，在攻击掷骰和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
 [Aura of Warding](Aura_of_Warding_(Condition).md "防卫灵光（状态）")
 |
@@ -120,7 +120,7 @@
 [Avatar of Tyranny](Avatar_of_Tyranny_(Condition).md "暴政化身（状态）")
 |
 
-- 巴恩已前来援助戈塔什！戈塔什拥有 150 点[临时生命值](Temporary_Hit_Points.md "临时生命值")，在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")... 并且现在拥有了可怕的新力量！
+- 班恩已前来援助戈塔什！戈塔什拥有 150 点[临时生命值](Temporary_Hit_Points.md "临时生命值")，在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")... 并且现在拥有了可怕的新力量！
 - 受影响的实体在徒手攻击时获得额外 1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，并对⁠⁠[雷鸣](Thunder.md "雷鸣")、⁠⁠[火焰](Fire.md "火焰")和⁠⁠[力场](Force.md "力场")伤害[免疫](Immune.md "免疫")。
 
 [Barkskin](Barkskin_(Condition).md "树肤术（状态）")
@@ -267,7 +267,7 @@
 [Duergar Antidote](Duergar_Antidote_(Condition).md "灰矮人解毒剂（状态）")
 |
 
-- 在对抗中毒的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对⁠⁠[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+- 在对抗中毒的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并对⁠⁠[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
 
 [Eagle's Splendour](Eagle's_Splendour_(Condition).md "鹰之光彩（状态）")
 |

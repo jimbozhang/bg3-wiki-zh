@@ -22,7 +22,7 @@ NPC法术通常不向玩家角色开放，除非该NPC由玩家控制（通过�
 | [恶毒嘲笑](Vicious_Mockery_(Milil).md "恶毒嘲笑 (米利尔)") | C |  |  | 2回合 | 26米 / 87英尺 | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 2d8⁠[心灵](Psychic.md "心灵") / 2d8⁠[光耀](Radiant.md "光耀") |
 | [奴役恩赐](Boon_of_Servitude.md "奴役恩赐") | 1 |  |  | 2回合 | 18米 / 60英尺 | - | - |
 | [悔恨诅咒](Curse_of_Regret.md "悔恨诅咒") | 1 |  |  | 4回合 | 16米 / 53英尺 / 3米 / 10英尺 (半径) | [魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定") | 1d4 + 1⁠[心灵](Psychic.md "心灵") |
-| [醉意龙卷](Drunken_Inhale.md "醉意龙卷") | 1 |  |  | 1回合 | 自身 / 5米 / 17英尺 (锥形) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 4d8⁠[中毒](Poison.md "中毒") |
+| [醉意龙卷](Drunken_Inhale.md "醉意龙卷") | 1 |  |  | 1回合 | 自身 / 5米 / 17英尺 (锥形) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 4d8⁠[毒素](Poison.md "毒素") |
 | [邪魔魅惑](Fiendish_Charm.md "邪魔魅惑") | 1 |  |  | 10回合 | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [墓地排斥](Grave_Repulsion.md "墓地排斥") | 1 |  |  | - | 1.5米 / 5英尺 / 5米 / 17英尺 (立方体) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[黯蚀](Necrotic.md "黯蚀") |
 | [地狱火诅咒](Hellfire_Curse.md "地狱火诅咒") | 1 |  |  | 3回合 | 9米 / 30英尺 / 6米 / 20英尺 (半径) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | - |
@@ -76,10 +76,10 @@ NPC法术通常不向玩家角色开放，除非该NPC由玩家控制（通过�
 | [枯萎馈赠](Withering_Gift.md "枯萎馈赠") | 4 |  |  | 长休 | 18米 / 60英尺 | - | - |
 | [枯萎窃贼](Withering_Theft.md "枯萎窃贼") | 4 |  |  | 长休 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 2d8⁠[黯蚀](Necrotic.md "黯蚀") |
 | [枯萎之触](Withering_Touch.md "枯萎之触") | 4 |  |  | - | 1.5米 / 5英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 4d8 + 3⁠[黯蚀](Necrotic.md "黯蚀") |
-| [卡里翁的爆炸死云术](Carrion's_Explosive_Cloudkill.md "卡里翁的爆炸死云术") | 5 |  |  | - | 18米 / 60英尺 / 3米 / 10英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 4d6⁠[挥砍](Slashing.md "挥砍") / 5d6⁠[中毒](Poison.md "中毒") |
+| [卡里翁的爆炸死云术](Carrion's_Explosive_Cloudkill.md "卡里翁的爆炸死云术") | 5 |  |  | - | 18米 / 60英尺 / 3米 / 10英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 4d6⁠[挥砍](Slashing.md "挥砍") / 5d6⁠[毒素](Poison.md "毒素") |
 | [不安面容](Disconcerting_Visage.md "不安面容") | 5 |  |  | 2回合 | 10米 / 33英尺 (半径) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [不安面容](Disconcerting_Visage_(Tactician).md "不安面容 (硬核)") | 5 |  |  | 2回合 | 10米 / 33英尺 (半径) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 3d10⁠[黯蚀](Necrotic.md "黯蚀") |
-| [元素叱喝](Elemental_Retort.md "元素叱喝") | 5 |  |  | - | 18米 / 60英尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[闪电](Lightning.md "闪电") / 3d8⁠[中毒](Poison.md "中毒") / 3d8⁠[火焰](Fire.md "火焰") / 3d8⁠[寒冷](Cold.md "寒冷") |
+| [元素叱喝](Elemental_Retort.md "元素叱喝") | 5 |  |  | - | 18米 / 60英尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 3d8⁠[闪电](Lightning.md "闪电") / 3d8⁠[毒素](Poison.md "毒素") / 3d8⁠[火焰](Fire.md "火焰") / 3d8⁠[寒冷](Cold.md "寒冷") |
 | [埃赛尔的虫群瘟疫](Ethel's_Insect_Plague.md "埃赛尔的虫群瘟疫") | 5 |  |  | - | 18米 / 60英尺 / 6米 / 20英尺 (半径) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 4d10⁠[穿刺](Piercing.md "穿刺") |
 | [强行传送](Forced_Teleportation.md "强行传送") | 5 |  |  | - | 18米 / 60英尺 | - | - |
 | [看守的小费](Keeper's_Fee.md "看守的小费") | 5 |  |  | - | 18米 / 60英尺 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | - |

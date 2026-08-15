@@ -58,7 +58,7 @@
 
 该场所由[艾弗里·索萨尔](Avery_Sonshal.md "艾弗里·索萨尔")拥有并经营，他站在一楼中央的柜台后。他提供小额交易，向顾客出售各种烟火制品和多种布料染料。然而，这只是冰山一角，因为该商店是城内各种[灾祸教](Bane_(God).md) 活动的掩护，为其需求生产大量爆炸物。艾弗里是[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")的追随者，完全清楚这些活动。揭露真相可以让队伍推进并完成[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")任务。
 
-在 X: 22 Y: -135，商店主入口下方的墙壁上，是堆货区海岸[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")的位置。
+在 X: 22 Y: -135，商店主入口下方的墙壁上，是堆货区海岸[传送点](Ancient_Sigil_Circle.md "传送点")的位置。
 
 ### 地下室
 
@@ -78,7 +78,7 @@
 
 在一楼，队伍会遇到几个角色：店主艾弗里·索萨尔、[费洛守卫西格德](Sigurd.md "费洛守卫西格德")、[费洛守卫莱丹](Liadan.md "费洛守卫莱丹")、一个可能离开商店稍后回来的年轻顾客[威洛](Willow.md "威洛")，以及另一个顾客[罗宾·达瑟斯威克](Robbin_Datherswick.md "罗宾·达瑟斯威克")。
 
-要进入三楼，队伍应与店主[艾弗里·索萨尔](Avery_Sonshal.md "艾弗里·索萨尔")交谈，并使用从[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")或[利文顿](Rivington.md "利文顿")的[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")处获得的密码。然而，[费洛守卫西格德](Sigurd.md "费洛守卫西格德")也会接受密码并让队伍通过那扇门。
+要进入三楼，队伍应与店主[艾弗里·索萨尔](Avery_Sonshal.md "艾弗里·索萨尔")交谈，并使用从[飞龙关](Wyrm's_Crossing.md "飞龙关")或[利文顿](Rivington.md "利文顿")的[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")处获得的密码。然而，[费洛守卫西格德](Sigurd.md "费洛守卫西格德")也会接受密码并让队伍通过那扇门。
 
 可以与艾弗里交易，或扒窃他（这也能获得[费洛杰尔烟花铺地窖钥匙](Felogyr's_Fireworks_Cellar_Key.md "费洛杰尔烟花铺地窖钥匙")和[烟火工坊钥匙](Fireworks_Workshop_Key.md "烟火工坊钥匙")）。
 
@@ -173,7 +173,7 @@
 #### 染料
 
 - [黑蓝色染料](Black_and_Azure_Dye.md "黑蓝色染料")
-- [黑与熔炉红染料](Black_and_Furnace_Red_Dye.md "黑与熔炉红染料")
+- [黑色与熔炉红色染料](Black_and_Furnace_Red_Dye.md "黑色与熔炉红色染料")
 - [黑白小丑染料](Harlequin_Black_and_White_Dye.md "黑白小丑染料")
 - [粉红与叶绿染料](Pink_and_Leaf_Green_Dye.md "粉红与叶绿染料")
 - [白色与猩红染料](White_and_Scarlet_Dye.md "白色与猩红染料")

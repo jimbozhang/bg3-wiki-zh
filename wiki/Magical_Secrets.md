@@ -88,7 +88,7 @@
 
 - [火墙术](Wall_of_Fire.md "Wall of Fire") #### 5环法术
 
-- [放逐打击](Banishing_Smite.md "Banishing Smite")
+- [放逐斩](Banishing_Smite.md "Banishing Smite")
 
 - [寒冰锥](Cone_of_Cold.md "Cone of Cold")
 

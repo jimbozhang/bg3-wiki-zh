@@ -1,10 +1,10 @@
 # Flymm's Cobblers
 
-## [Lower City](Lower_City.md "Lower City")
+## [下城区](Lower_City.md "下城区")
 
 [Lora's House](Lora's_House.md "Lora's House")
 ↑
-| [Lower City](Lower_City.md "Lower City") |  |  |  |  |
+| [下城区](Lower_City.md "下城区") |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | [Lora's House](Lora's_House.md "Lora's House") |  |  |  |  |
 | ↑ |  |  |  |  |
@@ -13,7 +13,7 @@
 | [Old Garlow's Place](Old_Garlow's_Place.md "Old Garlow's Place") |  |  |  |  |
 ↓
 [Old Garlow's Place](Old_Garlow's_Place.md "Old Garlow's Place")
-**Flymm's Cobblers** 是 [Baldur's Gate 3](Baldur's_Gate_3.md "Baldur's Gate 3") [第三幕](Act_Three.md "Act Three") 中 [Lower City](Lower_City.md "Lower City") 内的一个 [地点](Location.md "Location")。
+**Flymm's Cobblers** 是 [Baldur's Gate 3](Baldur's_Gate_3.md "Baldur's Gate 3") [第三幕](Act_Three.md "Act Three") 中 [下城区](Lower_City.md "下城区") 内的一个 [地点](Location.md "Location")。
 
 > “
 >
@@ -46,11 +46,11 @@
 
 ## 涉及内容
 
-进入商店时，一次被动的 DC 7 [Perception](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定") 会高亮显示柜台上方墙上的 [Enver Gortash](Enver_Gortash.md "Enver Gortash") 肖像。与城里到处张贴的印刷海报不同，这是一幅画作，任何互动的队伍成员都会对其发表评论。<sup>[\[2\]](#cite_note-2)</sup>
+进入商店时，一次被动的 DC 7 [察觉](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定") 会高亮显示柜台上方墙上的 [Enver Gortash](Enver_Gortash.md "Enver Gortash") 肖像。与城里到处张贴的印刷海报不同，这是一幅画作，任何互动的队伍成员都会对其发表评论。<sup>[\[2\]](#cite_note-2)</sup>
 
 店主 [Dravo](Dravo_Flymm.md "Dravo Flymm") 和 [Sally Flymm](Sally_Flymm.md "Sally Flymm")，如果与之交谈，会被揭示为戈塔什的父母。与两人的对话都提供了进行 DC 10 [Detect Thoughts](Detect_Thoughts.md "Detect Thoughts") [属性检定](Ability_Check.md "属性检定") 的选项。成功的检定会导致截然不同的选项。
 
-Dravo 的思绪显得清晰而空洞，但 Sally 在尝试时回应了一声微弱的呼救。如果互动的队伍成员随后使用 [Illithid](Illithid_powers.md "Illithid Powers") 对话选项（无需任何检定），他们会得知两人都已被夺心魔蝌蚪感染，蠕虫阻止了他们真实身份的爆发。随后可以质问 Sally，以了解戈塔什的性格和他通往权力的马基雅维利式道路。
+Dravo 的思绪显得清晰而空洞，但 Sally 在尝试时回应了一声微弱的呼救。如果互动的队伍成员随后使用 [灵吸怪](Illithid_powers.md "灵吸怪威能") 对话选项（无需任何检定），他们会得知两人都已被夺心魔蝌蚪感染，蠕虫阻止了他们真实身份的爆发。随后可以质问 Sally，以了解戈塔什的性格和他通往权力的马基雅维利式道路。
 
 二楼床边有一个上锁的箱子。它需要 Sally 携带的 [戈塔什的宝箱钥匙](Gortash's_Chest_Key.md "戈塔什的宝箱钥匙") 或 DC 20 [Sleight of Hand](Sleight_of_Hand.md "Sleight of Hand") [属性检定](Ability_Check.md "属性检定") 才能打开。里面有一些小额战利品和一本 [Scrapbook of Letters](Scrapbook_of_Letters.md "Scrapbook of Letters")，这实际上是戈塔什与 [Dark Urge](Dark_Urge.md "Dark Urge") 关于启动死亡三神力量晋升计划的信件集。然而，如果以邪念出身进行游戏，阅读它不会为个人任务增添任何内容。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 不过，它确实推进了所有涉及 [Orpheus](Orpheus.md "Orpheus") 和/或 [Raphael](Raphael.md "Raphael") 的任务，因为它提到 [Helsik](Helsik.md "Helsik") 是可以提供通往九层地狱传送门的人之一。
 
@@ -58,7 +58,7 @@ Dravo 的思绪显得清晰而空洞，但 Sally 在尝试时回应了一声微�
 
 ## 伙伴互动
 
-如果 [Karlach](Karlach.md "Karlach") 在队伍中，她对见到戈塔什的父母会做出相当讽刺的反应。如果队伍成功审问了 Sally 关于她的故事和她儿子的故事，Karlach 随后会触发一段对话。她指出，戈塔什背叛她的方式可能是他父母如何看待他以及他们最终对他所做之事的结果。尽管如此，这个事实在她眼中丝毫不能为他开脱。
+如果 [卡菈克](Karlach.md "卡菈克") 在队伍中，她对见到戈塔什的父母会做出相当讽刺的反应。如果队伍成功审问了 Sally 关于她的故事和她儿子的故事，卡菈克随后会触发一段对话。她指出，戈塔什背叛她的方式可能是他父母如何看待他以及他们最终对他所做之事的结果。尽管如此，这个事实在她眼中丝毫不能为他开脱。
 
 ## 建筑外部
 
@@ -93,11 +93,11 @@ Flymm's Cobblers 周围放置了几个 NPC 小插曲。
 - [Doober](Doober.md "Doober")
 - [Courier Hara](Hara.md "Hara")
 - [Honest Vendor](Honest_Vendor.md "Honest Vendor")
-- [Fist Larche](Larche.md "Larche")
+- [焰拳拉尔什](Larche.md "Larche")
 - [Markiza](Markiza.md "Markiza")
 - [Moorino](Moorino.md "Moorino")
-- [Fist Nephel](Nephel.md "Nephel")
-- [Fist Shargil](Shargil.md "Shargil")
+- [焰拳内菲尔](Nephel.md "Nephel")
+- [焰拳沙吉尔](Shargil.md "Shargil")
 
 ## 相关文献
 

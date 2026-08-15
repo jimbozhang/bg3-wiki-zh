@@ -5,7 +5,7 @@
 **⁠ 火焰**是游戏中的[伤害类型](Damage_type.md "伤害类型")之一。
 
 - 有关所有火焰来源，请参见[类别：火焰伤害来源](Category_colon_Sources_of_Fire_damage.md "类别：火焰伤害来源")。
-- 有关对火焰脆弱的生物，请参见[类别：对火焰脆弱](Category_colon_Vulnerable_to_Fire.md "类别：对火焰脆弱")。
+- 有关对火焰易伤的生物，请参见[类别：对火焰易伤](Category_colon_Vulnerable_to_Fire.md "类别：对火焰易伤")。
 - 有关对火焰有抗性的生物，请参见[类别：对火焰有抗性](Category_colon_Resistant_to_Fire.md "类别：对火焰有抗性")。
 - 有关对火焰免疫的生物，请参见[类别：对火焰免疫](Category_colon_Immune_to_Fire.md "类别：对火焰免疫")。
 
@@ -55,7 +55,7 @@
 - [灰烬猛击](Cinderous_Swipe.md "灰烬猛击")
 - [神圣打击：火焰（近战）](Divine_Strike_colon__Fire_(Melee).md "神圣打击：火焰（近战）")
 - [神圣打击：火焰（远程）](Divine_Strike_colon__Fire_(Ranged).md "神圣打击：火焰（远程）")
-- [元素劈砍（火焰）](Elemental_Cleaver_(fire).md "元素劈砍（火焰）")
+- [元素战刃（火焰）](Elemental_Cleaver_(fire).md "元素战刃（火焰）")
 - [爆裂余烬](Erupting_Cinder.md "爆裂余烬")
 - [邪魔爆焰](Fiendish_Flameblast.md "邪魔爆焰")
 - [火焰吐息（锥形）](Fire_Breath_(Cone).md "火焰吐息（锥形）")

@@ -59,7 +59,7 @@ _维基数据库中未定义_
 
 - 要结束此效果，生物必须通过治疗一名敌人来否认其暴戾之心。
 
-[放荡之心](Wayward_Heart_(Condition).md "放荡之心 (状态)")
+[游荡之心](Wayward_Heart_(Condition).md "放荡之心 (状态)")
 |
 
 - 受影响实体将被维康妮娅的攻击自动[重击](Critical_Hit.md "Critical Hit")，且其在[感知](Wisdom.md "感知")[豁免检定](Saving_throws.md "Saving Throws")上具有[劣势](Disadvantage.md "Disadvantage")。
@@ -67,4 +67,4 @@ _维基数据库中未定义_
 - 要结束此效果，生物必须通过顺从莎尔并在战斗中协助维康妮娅来否认其放荡之心。
 
 ---
-*Source: [Craven Heart (Condition)](https://bg3.wiki/wiki/Craven_Heart_(Condition)*
+*Source: [懦弱之心 (状态)](https://bg3.wiki/wiki/Craven_Heart_(Condition)*

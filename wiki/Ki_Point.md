@@ -19,7 +19,7 @@
 - [醉拳宗](Way_of_the_Drunken_Master.md "Way of the Drunken Master")武僧可以使用[俏皮小酌](Cheeky_Tipple.md "Cheeky Tipple")，在[长休](Long_rest.md "Long Rest")时饮用[酒](Alcohol.md "Alcohol")使用一次，恢复一半最大气点（向下取整）。
 - [感知护符（稀有）](Sentient_Amulet_(Rare).md "Sentient Amulet (Rare)")的[回气（次级）](Ki_Restoration_(Lesser).md "Ki Restoration (Lesser)")在[长休](Long_rest.md "Long Rest")时恢复2点气点，使用一次。
 - [感知护符（极稀有）](Sentient_Amulet_(Very_Rare).md "Sentient Amulet (Very Rare)")的[回气（高级）](Ki_Restoration_(Greater).md "Ki Restoration (Greater)")在[长休](Long_rest.md "Long Rest")时恢复随机数量的气点，最多等于武僧的武僧骰，使用一次。
-- [牧师](Cleric.md "Cleric")职业的[神圣干预：光耀复苏](Divine_Intervention_colon__Opulent_Revival.md "Divine Intervention: Opulent Revival")可以恢复盟友武僧100%的气点，在一次游戏流程中使用一次。
+- [牧师](Cleric.md "Cleric")职业的[神圣干预：光辉复苏](Divine_Intervention_colon__Opulent_Revival.md "Divine Intervention: Opulent Revival")可以恢复盟友武僧100%的气点，在一次游戏流程中使用一次。
 
 ## 使用气点的动作
 

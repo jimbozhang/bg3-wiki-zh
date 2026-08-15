@@ -33,7 +33,7 @@
 [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 17)
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上遭受[劣势](Disadvantage.md "劣势")
-- 受影响实体在其下一回合结束时受到1d6⁠⁠[中毒](Poison.md "中毒")伤害。
+- 受影响实体在其下一回合结束时受到1d6⁠⁠[毒素](Poison.md "毒素")伤害。
 
 ## 西索博得的特制穿肠散涂抹状态的来源
 
@@ -110,7 +110,7 @@ _维基数据库中未定义_
 [蘸取毒药状态](Dipped_in_Poison_(Condition).md "蘸取毒药状态 (Condition)")
 |
 
-- 武器造成额外1d4⁠⁠[中毒](Poison.md "中毒")伤害。
+- 武器造成额外1d4⁠⁠[毒素](Poison.md "毒素")伤害。
 
 ---
 *Source: [Coated in Brewed-up Bellyglummer (Condition)](https://bg3.wiki/wiki/Coated_in_Brewed-up_Bellyglummer_(Condition)*

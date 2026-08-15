@@ -4,7 +4,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "Miscellaneous")
+- [杂物物品](Miscellaneous.md "Miscellaneous")
 
 - 稀有度：普通
 
@@ -24,7 +24,7 @@
 
 ## 属性
 
-- [杂物](Miscellaneous.md "Miscellaneous")
+- [杂物物品](Miscellaneous.md "Miscellaneous")
 
 - 稀有度：普通
 

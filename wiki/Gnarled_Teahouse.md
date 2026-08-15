@@ -10,9 +10,9 @@
 | ↑ |  |  |  |  |
 | [河边茶室](Riverside_Teahouse.md "河边茶室") | ← | 日照湿地 | → | [鹦鹉螺残骸](Nautiloid_Wreck.md "鹦鹉螺残骸") |
 | ↓ |  |  |  |  |
-| [雄狮河](River_Chionthar.md "雄狮河") |  |  |  |  |
+| [乔恩萨河](River_Chionthar.md "乔恩萨河") |  |  |  |  |
 ↓
-[雄狮河](River_Chionthar.md "雄狮河")
+[乔恩萨河](River_Chionthar.md "乔恩萨河")
 **日照湿地**（亦被称为**腐烂泥潭**）是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第一幕](Act_One.md "第一幕")中[荒野](Wilderness.md "荒野")内的一个[地点](Location.md "地点")。
 
 > “

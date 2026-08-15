@@ -53,7 +53,7 @@
 [剧毒药剂](Venomous_Brew_(Condition).md "剧毒药剂 (状态)")
 |
 
-- 当实体被注入 Thisobald 的当前药剂时，造成额外 2d6⁠⁠[中毒](Poison.md "中毒") 伤害。
+- 当实体被注入 Thisobald 的当前药剂时，造成额外 2d6⁠⁠[毒素](Poison.md "毒素") 伤害。
 
 [衰败药剂](Wasting_Brew_(Condition).md "衰败药剂 (状态)")
 |

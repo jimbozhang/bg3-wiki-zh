@@ -5,7 +5,7 @@
 **⁠强酸** 是游戏中的[伤害类型](Damage_type.md "伤害类型")之一。
 
 - 有关所有强酸来源，请参见 [类别：强酸伤害来源](Category_colon_Sources_of_Acid_damage.md "类别：强酸伤害来源")。
-- 有关弱于强酸的生物，请参见 [类别：弱于强酸](Category_colon_Vulnerable_to_Acid.md "类别：弱于强酸")。
+- 有关易伤于强酸的生物，请参见 [类别：易伤于强酸](Category_colon_Vulnerable_to_Acid.md "类别：易伤于强酸")。
 - 有关抗强酸的生物，请参见 [类别：抗强酸](Category_colon_Resistant_to_Acid.md "类别：抗强酸")。
 - 有关免疫强酸的生物，请参见 [类别：免疫强酸](Category_colon_Immune_to_Acid.md "类别：免疫强酸")。
 
@@ -34,7 +34,7 @@
 - [强酸吐息](Acid_Breath.md "强酸吐息")
 - [蛙毒](Bufotoxin.md "蛙毒")
 - [腐蚀打击](Corrosive_Strike.md "腐蚀打击")
-- [元素切肉刀（强酸）](Elemental_Cleaver_(acid).md "元素切肉刀（强酸）")
+- [元素战刃（强酸）](Elemental_Cleaver_(acid).md "元素战刃（强酸）")
 
 ### 武器
 

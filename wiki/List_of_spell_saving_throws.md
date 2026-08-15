@@ -59,8 +59,8 @@
 
 | 名称 | 等级 | 施法时间 | 持续时间 | 范围/区域 | 攻击/豁免 | 伤害/效果 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [毒气喷溅](Poison_Spray.md "毒气喷溅") | C |  |  | - | 3 米 / 10英尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 1d12⁠[中毒](Poison.md "中毒") |
-| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2回合 | 18 米 / 60 英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d8⁠[中毒](Poison.md "中毒") |
+| [毒气喷溅](Poison_Spray.md "毒气喷溅") | C |  |  | - | 3 米 / 10英尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 1d12⁠[毒素](Poison.md "毒素") |
+| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2回合 | 18 米 / 60 英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d8⁠[毒素](Poison.md "毒素") |
 | [雷鸣波](Thunderwave.md "雷鸣波") | 1 |  |  | - | 1.5 米 / 5 英尺 / 5米 / 17英尺 (立方体) | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d8⁠[雷鸣](Thunder.md "雷鸣") |
 | [失明术](Blindness.md "失明术") | 2 |  |  | 10回合 | 18 米 / 60 英尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [灼热金属](Heat_Metal.md "灼热金属") | 2 |  |  | - | 18 米 / 60 英尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 2d8⁠[火焰](Fire.md "火焰") |

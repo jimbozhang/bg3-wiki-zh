@@ -28,7 +28,7 @@ _维基数据库中未定义_
 [奥术滋养灵药](Elixir_of_Arcane_Cultivation_(Condition).md "Elixir of Arcane Cultivation (Condition)")
 |
 
-- 拥有额外的[一级法术位](Spells.md#Spell_slots "Spells")。
+- 拥有额外的[1环法术位](Spells.md#Spell_slots "Spells")。
 
 [树肤术灵药](Elixir_of_Barkskin_(Condition).md "Elixir of Barkskin (Condition)")
 |
@@ -92,7 +92,7 @@ _维基数据库中未定义_
 | --- | --- |
 | [强酸抗性](Acid_Resistance_(Condition).md "Acid Resistance (Condition)") | 对[强酸](Acid.md "Acid")伤害[抗性](Resistant.md "Resistant")。 |
 | [寒冷抗性](Cold_Resistance_(Condition).md "Cold Resistance (Condition)") | 对[寒冷](Cold.md "Cold")伤害[抗性](Resistant.md "Resistant")。 |
-| [奥术滋养灵药](Elixir_of_Arcane_Cultivation_(Condition).md "Elixir of Arcane Cultivation (Condition)") | 拥有额外的[一级法术位](Spells#Spell_slots.md#Spell_slots "Spells")。 |
+| [奥术滋养灵药](Elixir_of_Arcane_Cultivation_(Condition).md "Elixir of Arcane Cultivation (Condition)") | 拥有额外的[1环法术位](Spells#Spell_slots.md#Spell_slots "Spells")。 |
 | [树肤术灵药](Elixir_of_Barkskin_(Condition).md "Elixir of Barkskin (Condition)") | [护甲等级](Armour_Class.md "Armour Class")提升至 16。 |
 | [战斗法师之力灵药](Elixir_of_Battlemage's_Power_(Condition).md "Elixir of Battlemage's Power (Condition)") | 受影响实体获得[奥术敏锐](Arcane_Acuity_(Condition).md "Arcane Acuity (Condition)")，直至其下一次[长休](Long_Rest.md "Long Rest")。饮用时会替换其他灵药的效果。获得 3 回合的奥术敏锐。奥术敏锐不会低于 3 回合。 |
 | [嗜血灵药](Elixir_of_Bloodlust_(Condition).md "Elixir of Bloodlust (Condition)") | 受影响实体进入嗜血的杀戮状态。每回合一次，当它杀死一个敌人时，获得 5 点[临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")和一个[动作](Actions#Resources.md#Resources "Actions")。 |
@@ -110,7 +110,7 @@ _维基数据库中未定义_
 | [高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation_(Condition).md "Greater Elixir of Arcane Cultivation (Condition)") | 拥有额外的[二级法术位](Spells#Spell_slots.md#Spell_slots "Spells")。 |
 | [闪电抗性](Lightning_Resistance_(Condition).md "Lightning Resistance (Condition)") | 对[闪电](Lightning.md "Lightning")伤害[抗性](Resistant.md "Resistant")。不再被[感电](Shocked_(Condition).md "Shocked (Condition)")、[电击](Electrocuted_(Condition).md "Electrocuted (Condition)")、[电震](Jolted_(Condition).md "Jolted (Condition)")或以其他方式受闪电影响。 |
 | [黯蚀抗性](Necrotic_Resistance_(Condition).md "Necrotic Resistance (Condition)") | 对[黯蚀](Necrotic.md "Necrotic")伤害[抗性](Resistant.md "Resistant")。 |
-| [中毒抗性](Poison_Resistance_(Condition).md "Poison Resistance (Condition)") | 对[中毒](Poison.md "Poison")伤害[抗性](Resistant.md "Resistant")。不再被[中毒](Poisoned_(status_group).md "Poisoned (status group)")。 |
+| [中毒抗性](Poison_Resistance_(Condition).md "Poison Resistance (Condition)") | 对[毒素](Poison.md "Poison")伤害[抗性](Resistant.md "Resistant")。不再被[中毒](Poisoned_(status_group).md "Poisoned (status group)")。 |
 | 灵能弱化 | 受影响实体在体质、感知和智力[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。饮用时会替换其他灵药的效果。 |
 | [心灵抗性](Psychic_Resistance_(Condition).md "Psychic Resistance (Condition)") | 对[心灵](Psychic.md "Psychic")伤害[抗性](Resistant.md "Resistant")。 |
 | [光耀抗性](Radiant_Resistance_(Condition).md "Radiant Resistance (Condition)") | 对[光耀](Radiant.md "Radiant")伤害[抗性](Resistant.md "Resistant")。 |

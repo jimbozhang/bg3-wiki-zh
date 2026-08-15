@@ -14,7 +14,7 @@
 >
 > „
 
-— [盖尔](Gale.md "盖尔")，关于面对[主脑](Netherbrain.md "主脑")的前景
+— [盖尔](Gale.md "盖尔")，关于面对[耐色脑](Netherbrain.md "耐色脑")的前景
 
 ## 目录
 

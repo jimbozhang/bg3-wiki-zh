@@ -24,7 +24,7 @@
 - [神导术](Guidance.md "神导术")（需要专注）
 - [鼓舞魔法：恩赐](Bolstering_Magic_colon__Boon.md "鼓舞魔法：恩赐")
 - [宇宙预兆：属性检定](Cosmic_Omen_colon__Ability_Check.md "宇宙预兆：属性检定")（需要专注）
-- [诗人激励（职业动作）](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")
+- [吟游诗人激励（职业动作）](Bardic_Inspiration_(class_action).md "吟游诗人激励（职业动作）")
 - [黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")（需要对话角色对自己使用）
 
 然而，由于耐色脑过场动画位于[不归点](Confront_the_Elder_Brain.md#Point_of_No_Return "与主脑对峙")之后——并且[守墓人](Withers.md "守墓人")之后无法为队伍成员重新分配属性——如果为了获得这些特性而放弃更多以战斗为中心的构建，游戏的最后阶段可能会变得异常困难。你可以选择使用部分或完全不使用这些特性，仍然保证成功。
@@ -55,9 +55,9 @@
 
 确保你的术士已将所有法术位转化为[术法点](Sorcery_Point.md "术法点")，然后在进入回合制模式之前使用任何10回合的增益，如[鼓舞魔法：恩赐](Bolstering_Magic_colon__Boon.md "鼓舞魔法：恩赐")和[宇宙预兆：属性检定](Cosmic_Omen_colon__Ability_Check.md "宇宙预兆：属性检定")。
 
-让你的术士反复对你的对话角色使用[扭曲幸运：属性检定加成](Bend_Luck_colon__Ability_Check_Bonus.md "扭曲幸运：属性检定加成")，直到术士的[术法点](Sorcery_Point.md "术法点")耗尽。如果你的对话角色有诗人激励，请确保[诗人掷骰](Bardic_Roll.md "诗人掷骰")被动未设置为自动触发。
+让你的术士反复对你的对话角色使用[扭曲幸运：属性检定加成](Bend_Luck_colon__Ability_Check_Bonus.md "扭曲幸运：属性检定加成")，直到术士的[术法点](Sorcery_Point.md "术法点")耗尽。如果你的对话角色有吟游诗人激励，请确保[诗人掷骰](Bardic_Roll.md "诗人掷骰")被动未设置为自动触发。
 
-最后，将你的对话角色移入过场动画。前三个掷骰应该不成问题，即使你使用力量以外的能力。在最终属性检定时，只需确保激活任何剩余的增益，如[黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")和[诗人激励](Bardic_Inspiration_(Condition).md "诗人激励（状态）")。理论上，如果你掷出两个[自然1](Dice_rolls.md#Natural_1s_and_20s "掷骰")，你仍然可能属性检定失败，因此你可能仍然需要一些[激励点](Inspiration.md "激励点")以防万一。
+最后，将你的对话角色移入过场动画。前三个掷骰应该不成问题，即使你使用力量以外的能力。在最终属性检定时，只需确保激活任何剩余的增益，如[黑暗强运](Dark_One's_Own_Luck.md "黑暗强运")和[吟游诗人激励](Bardic_Inspiration_(Condition).md "吟游诗人激励（状态）")。理论上，如果你掷出两个[自然1](Dice_rolls.md#Natural_1s_and_20s "掷骰")，你仍然可能属性检定失败，因此你可能仍然需要一些[激励点](Inspiration.md "激励点")以防万一。
 
 ## 结论
 

@@ -32,7 +32,7 @@
 | [邪魔体魄：闪电](Fiendish_Resilience_colon__Lightning_(Condition).md "邪魔体魄：闪电 (状态)") | 你获得对 ⁠[闪电](Lightning.md "闪电") 伤害的 [抗性](Resistance.md "抗性")。 |
 | [邪魔体魄：黯蚀](Fiendish_Resilience_colon__Necrotic_(Condition).md "邪魔体魄：黯蚀 (状态)") | 你获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。 |
 | 邪魔体魄：穿刺 | 你获得对 ⁠[穿刺](Piercing.md "穿刺") 伤害的 [抗性](Resistance.md "抗性")。 |
-| [邪魔体魄：中毒](Fiendish_Resilience_colon__Poison_(Condition).md "邪魔体魄：中毒 (状态)") | 你获得对 ⁠[中毒](Poison.md "中毒") 伤害的 [抗性](Resistance.md "抗性")。 |
+| [邪魔体魄：中毒](Fiendish_Resilience_colon__Poison_(Condition).md "邪魔体魄：中毒 (状态)") | 你获得对 ⁠[毒素](Poison.md "毒素") 伤害的 [抗性](Resistance.md "抗性")。 |
 | [邪魔体魄：心灵](Fiendish_Resilience_colon__Psychic_(Condition).md "邪魔体魄：心灵 (状态)") | 你获得对 ⁠[心灵](Psychic.md "心灵") 伤害的 [抗性](Resistance.md "抗性")。 |
 | [邪魔体魄：光耀](Fiendish_Resilience_colon__Radiant_(Condition).md "邪魔体魄：光耀 (状态)") | 你获得对 ⁠[光耀](Radiant.md "光耀") 伤害的 [抗性](Resistance.md "抗性")。 |
 | [邪魔体魄：挥砍](Fiendish_Resilience_colon__Slashing_(Condition).md "邪魔体魄：挥砍 (状态)") | 你获得对 ⁠[挥砍](Slashing.md "挥砍") 伤害的 [抗性](Resistance.md "抗性")。 |

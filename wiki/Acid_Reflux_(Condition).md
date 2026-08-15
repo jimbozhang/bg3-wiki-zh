@@ -57,7 +57,7 @@ _维基数据库中未定义_
 [毒液回流](Toxic_Reflux_(Condition).md "毒液回流 (状态)")
 |
 
-- 中毒伤害污染了提斯博尔德的特制佳酿，使他能够使用[毒液回流](Venomous_Regurgitation.md "毒液回流")。
+- 毒素伤害污染了提斯博尔德的特制佳酿，使他能够使用[毒液回流](Venomous_Regurgitation.md "毒液回流")。
 
 ---
 *Source: [Acid Reflux (Condition)](https://bg3.wiki/wiki/Acid_Reflux_(Condition)*

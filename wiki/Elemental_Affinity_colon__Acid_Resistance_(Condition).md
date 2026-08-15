@@ -38,7 +38,7 @@ _维基数据库中未定义_
 [元素亲和：中毒抗性](Elemental_Affinity_colon__Poison_Resistance_(Condition).md "元素亲和：中毒抗性 (状态)")
 |
 
-- 你对[中毒](Poison.md "中毒")伤害[抗性](Damage_types.md#Resistant "伤害类型")。
+- 你对[毒素](Poison.md "毒素")伤害[抗性](Damage_types.md#Resistant "伤害类型")。
 
 ---
 *Source: [Elemental Affinity: Acid Resistance (Condition)](https://bg3.wiki/wiki/Elemental_Affinity:_Acid_Resistance_(Condition)*

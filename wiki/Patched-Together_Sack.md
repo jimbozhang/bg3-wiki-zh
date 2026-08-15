@@ -10,7 +10,7 @@ The **东拼西补的麻袋** is a [container](Container.md "Container"). It is 
 
 - Rarity: Common
 
-- Weight: 1 kg (2 lb)
+- 重量: 1 kg (2 lb)
 
 - Price: 1 gp
 

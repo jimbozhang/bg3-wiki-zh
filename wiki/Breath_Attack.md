@@ -11,7 +11,7 @@
 | [火焰吐息（直线）](Fire_Breath_(Line).md "火焰吐息（直线）") | 范围：5米（17英尺）直线[火焰](Fire.md "火焰")伤害 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | [黄铜龙裔](Brass_Dragonborn.md "黄铜龙裔") |
 | [霜冻吐息](Frost_Breath.md "霜冻吐息") | 范围：5米（17英尺）锥形[寒冷](Cold.md "寒冷")伤害 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | [银龙裔](Silver_Dragonborn.md "银龙裔") [白龙裔](White_Dragonborn.md "白龙裔") |
 | [闪电吐息](Lightning_Breath.md "闪电吐息") | 范围：5米（17英尺）直线[闪电](Lightning.md "闪电")伤害 | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | [蓝龙裔](Blue_Dragonborn.md "蓝龙裔") [青铜龙裔](Bronze_Dragonborn.md "青铜龙裔") |
-| [毒性吐息](Poison_Breath.md "毒性吐息") | 范围：5米（17英尺）锥形[中毒](Poison.md "中毒")伤害 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | [绿龙裔](Green_Dragonborn.md "绿龙裔") |
+| [毒性吐息](Poison_Breath.md "毒性吐息") | 范围：5米（17英尺）锥形[毒素](Poison.md "毒素")伤害 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | [绿龙裔](Green_Dragonborn.md "绿龙裔") |
 
 除了上表列出的差异外，所有吐息攻击都相同：
 

@@ -28,7 +28,7 @@
     - 与类似被动不同，导电攻击缺少 `OncePerAttack` 限制，因此会在攻击期间的任何伤害来源时触发。例如，一个 [巨人](Giant_(barbarian_subclass).md) 野蛮人：
   - 投掷 [闪电混语](Lightning_Jabber.md "闪电混语") 造成武器伤害，提供 2 闪电充能。
   - 造成 [投掷：闪电伤害](Throwing_colon__Lightning_Damage.md "投掷：闪电伤害") 的闪电伤害，提供额外 2 闪电充能。
-  - 造成 [元素劈砍](Elemental_Cleaver.md "元素劈砍") 的伤害，提供额外 2 闪电充能。
+  - 造成 [元素战刃](Elemental_Cleaver.md "元素战刃") 的伤害，提供额外 2 闪电充能。
   - 当全部组合时，单次攻击总共提供了 6 闪电充能。
 
 ---

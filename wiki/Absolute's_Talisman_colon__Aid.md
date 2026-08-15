@@ -1,6 +1,6 @@
-# 至上真神的护符：协助
+# 至上真神的护符：支援术
 
-**至上真神的护符：协助** 是一个 [法术](Spells.md "法术")。此法术允许 [至上真神的护符](Absolute's_Talisman.md "Absolute's Talisman") 的佩戴者为自己治疗 5⁠⁠[治疗](Healing.md "治疗") 并增加等量的生命值上限。
+**至上真神的护符：支援术** 是一个 [法术](Spells.md "法术")。此法术允许 [至上真神的护符](Absolute's_Talisman.md "Absolute's Talisman") 的佩戴者为自己治疗 5⁠⁠[治疗](Healing.md "治疗") 并增加等量的生命值上限。
 
 ## 描述
 

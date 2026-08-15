@@ -19,7 +19,7 @@
 
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 11)
 
-- 受影响实体在其下一驱散结束时受到 1d4⁠⁠[中毒](Poison.md "Poison")伤害。
+- 受影响实体在其下一驱散结束时受到 1d4⁠⁠[毒素](Poison.md "Poison")伤害。
 
 ## 创建方式
 

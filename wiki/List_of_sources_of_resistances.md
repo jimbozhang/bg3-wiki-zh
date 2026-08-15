@@ -23,7 +23,7 @@
   - [2.2 除心灵外全伤害抗性](#除心灵外全伤害抗性)
   - [2.3 钝击、穿刺与挥砍抗性](#钝击、穿刺与挥砍抗性)
   - [2.4 仅非魔法抗性](#仅非魔法抗性)
-  - [2.5 杂项抗性](#杂项抗性)
+  - [2.5 杂物抗性](#杂物抗性)
 - [3 易伤](#易伤)
   - [3.1 仅限盟友](#仅限盟友)
 - [4 免疫](#免疫)
@@ -98,7 +98,7 @@
 - [荒野流浪者：火焰](Wasteland_Wanderer_colon__Fire.md "荒野流浪者：火焰")
 - [海浪之母的披风](Wavemother's_Cloak.md "海浪之母的披风") _每回合一次，直到穿戴者受到伤害_
 - [海浪之母的长袍](Wavemother's_Robe.md "海浪之母的长袍")
-- [潮湿](Wet_(Condition).md "潮湿 (状态)")
+- [濡湿](Wet_(Condition).md "濡湿 (状态)")
 
 ### 力场抗性
 
@@ -199,7 +199,7 @@
 - [荒野形态：土元素执政官](Wild_Shape_colon__Earth_Myrmidon.md "荒野形态：土元素执政官") 获得对所有非魔法[钝击](Bludgeoning.md "钝击")、[穿刺](Piercing.md "穿刺")和[挥砍](Slashing.md "挥砍")伤害的抗性。
 - [御风而行](Wind_Walk.md "御风而行") 将自己和附近所有小队成员转化为微小的雾云以躲避攻击。你获得对所有非魔法伤害的抗性。
 
-### 杂项抗性
+### 杂物抗性
 
 - [埃布德的可靠盾牌](Abdel's_Trusted_Shield.md "埃布德的可靠盾牌") 和 [飞灰手套](Cindersnap_Gloves.md "飞灰手套") 允许持有者施放[防护飞弹](Protection_from_Missiles.md "防护飞弹")，每短休一次，该法术使远程武器攻击的伤害减少 50%，持续 10 回合。此效果与普通抗性分开计算，并与之乘法叠加，总共减少 75% 的伤害。
 - [造物回音](Creation's_Echo.md "造物回音") **元素共振：** 如果持有者造成[强酸](Acid.md "强酸")、[火焰](Fire.md "火焰")、[闪电](Lightning.md "闪电")、[光耀](Radiant.md "光耀")或[黯蚀](Necrotic.md "黯蚀")伤害，则它对该伤害类型获得抗性，持续 2 回合。
@@ -221,10 +221,10 @@
 - [冻僵](Chilled_(Condition).md "冻僵 (状态)") 对[寒冷](Cold.md "寒冷")易伤
 - [冰冻](Frozen_(Condition).md "冰冻 (状态)") 对[钝击](Bludgeoning.md "钝击")、[雷鸣](Thunder.md "雷鸣")和[力场](Force.md "力场")伤害易伤。
 - [噩梦馈赠](Karabasan's_Gift.md "噩梦馈赠") **麻痹（噩梦馈赠）：** 对[钝击](Bludgeoning.md "钝击")、[挥砍](Slashing.md "挥砍")和[穿刺](Piercing.md "穿刺")伤害易伤。
-- [投毒者之戒](Poisoner's_Ring.md "投毒者之戒") **致命毒液：** 使最多三个敌人对[中毒](Poison.md "中毒")易伤，除非他们通过体质豁免检定。
+- [投毒者之戒](Poisoner's_Ring.md "投毒者之戒") **致命毒液：** 使最多三个敌人对[毒素](Poison.md "毒素")易伤，除非他们通过体质豁免检定。
 - [共鸣石](Resonance_Stone.md "共鸣石") 9米（30英尺）内的所有生物都[沉醉极乐](Steeped_in_Bliss_(Condition).md "沉醉极乐 (状态)")，其中包括对[心灵](Psychic.md "心灵")易伤。
 - [烂肉症](Stricken_With_Flesh_Rot_(Condition).md "烂肉症 (状态)") 对所有伤害易伤。
-- [潮湿](Wet_(Condition).md "潮湿 (状态)") 对[寒冷](Cold.md "寒冷")和[闪电](Lightning.md "闪电")易伤
+- [濡湿](Wet_(Condition).md "濡湿 (状态)") 对[寒冷](Cold.md "寒冷")和[闪电](Lightning.md "闪电")易伤
   - [一瓶水](Carafe_of_Water.md "一瓶水")
   - [造水/枯水术](Create_or_Destroy_Water.md "造水/枯水术")
   - [治愈薄雾](Healing_Vapours.md "治愈薄雾")
@@ -239,11 +239,11 @@
 
 ## 免疫
 
-- [百病不侵](Purity_of_Body.md "百病不侵") 对[中毒](Poison.md "中毒")免疫
-- [荒野形态：风元素执政官](Wild_Shape_colon__Air_Myrmidon.md "荒野形态：风元素执政官") 对[中毒](Poison.md "中毒")免疫
-- [荒野形态：火元素执政官](Wild_Shape_colon__Fire_Myrmidon.md "荒野形态：火元素执政官") 对[火焰](Fire.md "火焰")和[中毒](Poison.md "中毒")免疫
-- [荒野形态：土元素执政官](Wild_Shape_colon__Earth_Myrmidon.md "荒野形态：土元素执政官") 对[中毒](Poison.md "中毒")免疫
-- [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon.md "荒野形态：水元素执政官") 对[中毒](Poison.md "中毒")免疫
+- [百病不侵](Purity_of_Body.md "百病不侵") 对[毒素](Poison.md "毒素")免疫
+- [荒野形态：风元素执政官](Wild_Shape_colon__Air_Myrmidon.md "荒野形态：风元素执政官") 对[毒素](Poison.md "毒素")免疫
+- [荒野形态：火元素执政官](Wild_Shape_colon__Fire_Myrmidon.md "荒野形态：火元素执政官") 对[火焰](Fire.md "火焰")和[毒素](Poison.md "毒素")免疫
+- [荒野形态：土元素执政官](Wild_Shape_colon__Earth_Myrmidon.md "荒野形态：土元素执政官") 对[毒素](Poison.md "毒素")免疫
+- [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon.md "荒野形态：水元素执政官") 对[毒素](Poison.md "毒素")免疫
 
 ## 无视抗性
 

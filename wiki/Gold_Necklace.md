@@ -8,7 +8,7 @@ A **金项链** is a common [护符](Amulets.md "Amulets"). Primarily of use for
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 35 gp
 
@@ -28,7 +28,7 @@ A **金项链** is a common [护符](Amulets.md "Amulets"). Primarily of use for
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 35 gp
 

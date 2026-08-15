@@ -1,6 +1,6 @@
 # 讨论:骰子掷骰
 
-我不确定开篇陈述中的“随机变量”是否是解释骰子掷骰在游戏中重要性的最佳方式。是否有更好的术语？骰子主要用于确定成功与否，对于d20掷骰是二元判定，对于伤害则是程度判定，因此我的建议是沿着这个方向表述。-- [Guybrush42](User_colon_Guybrush42.md "User:Guybrush42") ([讨论](User_talk_colon_Guybrush42.md "User talk:Guybrush42")) [2023年10月30日 00:47 (CET)](https://bg3.wiki/wiki/Talk:Dice_rolls#c-Guybrush42-20231029234700)回复
+我不确定开篇陈述中的“随机变量”是否是解释骰子掷骰在游戏中重要性的最佳方式。是否有更好的术语？骰子主要用于确定成功与否，对于20面骰掷骰是二元判定，对于伤害则是程度判定，因此我的建议是沿着这个方向表述。-- [Guybrush42](User_colon_Guybrush42.md "User:Guybrush42") ([讨论](User_talk_colon_Guybrush42.md "User talk:Guybrush42")) [2023年10月30日 00:47 (CET)](https://bg3.wiki/wiki/Talk:Dice_rolls#c-Guybrush42-20231029234700)回复
 
 “骰子掷骰用于确定结果”是否更好？或者类似的说法？[Willowisp](User_colon_Willowisp.md "User:Willowisp") ([讨论](User_talk_colon_Willowisp.md "User talk:Willowisp")) [2023年10月30日 03:52 (CET)](https://bg3.wiki/wiki/Talk:Dice_rolls#c-Willowisp-20231030025200-Guybrush42-20231029234700)回复
 哦，这就是你添加的内容。很完美！:) [Willowisp](User_colon_Willowisp.md "User:Willowisp") ([讨论](User_talk_colon_Willowisp.md "User talk:Willowisp")) [2023年10月30日 03:54 (CET)](https://bg3.wiki/wiki/Talk:Dice_rolls#c-Willowisp-20231030025400-Guybrush42-20231029234700)回复

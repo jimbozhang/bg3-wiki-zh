@@ -12,7 +12,7 @@ This book is redolent with the enticing smell of paper and ink.
 
 - Rarity: Common
 
-- Weight: 0.5 kg (1 lb)
+- 重量: 0.5 kg (1 lb)
 
 - Price: 14 gp
 

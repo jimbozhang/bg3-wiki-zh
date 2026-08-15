@@ -26,7 +26,7 @@ _维基数据库中未定义_
 [奥术滋养灵药](Elixir_of_Arcane_Cultivation_(Condition).md "奥术滋养灵药 (状态)")
 |
 
-- 拥有额外的 [一级法术位](Spells.md#Spell_slots "法术")。
+- 拥有额外的 [1环法术位](Spells.md#Spell_slots "法术")。
 
 [树肤术灵药](Elixir_of_Barkskin_(Condition).md "树肤术灵药 (状态)")
 |
@@ -90,7 +90,7 @@ _维基数据库中未定义_
 | --- | --- |
 | [强酸抗性](Acid_Resistance_(Condition).md "强酸抗性 (状态)") | [抗性](Resistant.md "抗性") ⁠[强酸](Acid.md "强酸") 伤害。 |
 | [寒冷抗性](Cold_Resistance_(Condition).md "寒冷抗性 (状态)") | [抗性](Resistant.md "抗性") ⁠[寒冷](Cold.md "寒冷") 伤害。 |
-| [奥术滋养灵药](Elixir_of_Arcane_Cultivation_(Condition).md "奥术滋养灵药 (状态)") | 拥有额外的 [一级法术位](Spells#Spell_slots.md#Spell_slots "法术")。 |
+| [奥术滋养灵药](Elixir_of_Arcane_Cultivation_(Condition).md "奥术滋养灵药 (状态)") | 拥有额外的 [1环法术位](Spells#Spell_slots.md#Spell_slots "法术")。 |
 | [树肤术灵药](Elixir_of_Barkskin_(Condition).md "树肤术灵药 (状态)") | [护甲等级](Armour_Class.md "护甲等级") 提升至 16。 |
 | [战斗法师之力灵药](Elixir_of_Battlemage's_Power_(Condition).md "战斗法师之力灵药 (状态)") | 受影响实体获得 [奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")，直到其下一次 [长休](Long_Rest.md "长休")。饮用时会替换其他灵药的效果。获得 3 回合的奥术敏锐。奥术敏锐不会低于 3 回合。 |
 | [嗜血灵药](Elixir_of_Bloodlust_(Condition).md "嗜血灵药 (状态)") | 受影响实体进入嗜血的杀戮状态。每回合一次，当其杀死敌人时，获得 5 点 [临时生命值](Temporary_Hit_Points.md "临时生命值") 和一个 [动作](Actions#Resources.md#Resources "动作")。 |
@@ -108,7 +108,7 @@ _维基数据库中未定义_
 | [高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation_(Condition).md "高效奥术滋养灵药 (状态)") | 拥有额外的 [二级法术位](Spells#Spell_slots.md#Spell_slots "法术")。 |
 | [闪电抗性](Lightning_Resistance_(Condition).md "闪电抗性 (状态)") | [抗性](Resistant.md "抗性") ⁠[闪电](Lightning.md "闪电") 伤害。不再会被 [感电](Shocked_(Condition).md "感电 (状态)")、[电击](Electrocuted_(Condition).md "电击 (状态)")、[电震](Jolted_(Condition).md "电震 (状态)") 或其他闪电效果影响。 |
 | [黯蚀抗性](Necrotic_Resistance_(Condition).md "黯蚀抗性 (状态)") | [抗性](Resistant.md "抗性") ⁠[黯蚀](Necrotic.md "黯蚀") 伤害。 |
-| [中毒抗性](Poison_Resistance_(Condition).md "中毒抗性 (状态)") | [抗性](Resistant.md "抗性") ⁠[中毒](Poison.md "中毒") 伤害。不再会被 [中毒](Poisoned_(status_group).md "中毒 (状态组)")。 |
+| [中毒抗性](Poison_Resistance_(Condition).md "中毒抗性 (状态)") | [抗性](Resistant.md "抗性") ⁠[毒素](Poison.md "毒素") 伤害。不再会被 [中毒](Poisoned_(status_group).md "中毒 (状态组)")。 |
 | [灵能弱化](Psionic_Weakening_(Condition).md "灵能弱化 (状态)") | 受影响实体在体质、感知和智力 [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。饮用时会替换其他灵药的效果。 |
 | [心灵抗性](Psychic_Resistance_(Condition).md "心灵抗性 (状态)") | [抗性](Resistant.md "抗性") ⁠[心灵](Psychic.md "心灵") 伤害。 |
 | [光耀抗性](Radiant_Resistance_(Condition).md "光耀抗性 (状态)") | [抗性](Resistant.md "抗性") ⁠[光耀](Radiant.md "光耀") 伤害。 |

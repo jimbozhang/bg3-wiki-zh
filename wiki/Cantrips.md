@@ -26,7 +26,7 @@
 | [轻型](Light.md "轻型") | C |  |  | 长休 | 1.5 m / 5 ft | - | - |
 | [法师之手](Mage_Hand.md "Mage Hand") | C |  |  | - | 18 m / 60ft | - | - |
 | [初级幻影](Minor_Illusion.md "Minor Illusion") | C |  |  | - | 18 m / 60ft | - | - |
-| [毒气喷溅](Poison_Spray.md "Poison Spray") | C |  |  | - | 3 m / 10ft | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 1d12⁠[中毒](Poison.md "Poison") |
+| [毒气喷溅](Poison_Spray.md "Poison Spray") | C |  |  | - | 3 m / 10ft | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 1d12⁠[毒素](Poison.md "Poison") |
 | [燃火术](Produce_Flame.md "Produce Flame") | C |  |  | 长休 | 自身 | - | 1d8⁠[火焰](Fire.md "Fire") |
 | [冷冻射线](Ray_of_Frost.md "Ray of Frost") | C |  |  | 1 回合 | 18 m / 60ft | [攻击掷骰](Attack_roll.md "Attack Roll") | 1d8⁠[寒冷](Cold.md "Cold") |
 | [抗性](Resistance_(Cantrip).md "Resistance (Cantrip)") | C |  |  | 10 回合 | 1.5 m / 5 ft | - | - |

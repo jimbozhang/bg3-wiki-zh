@@ -34,7 +34,7 @@
 - [2 第二幕](#第二幕)
   - [2.1 阿拉贝尔之影纠缠术](#阿拉贝尔之影纠缠术)
     - [2.1.1 解锁方式](#解锁方式)
-  - [2.2 诗人激励](#诗人激励)
+  - [2.2 吟游诗人激励](#吟游诗人激励)
     - [2.2.1 解锁方式](#解锁方式)
   - [2.3 吉斯泽莱人的精神屏障](#吉斯泽莱人的精神屏障)
     - [2.3.1 解锁方式](#解锁方式)
@@ -53,7 +53,7 @@
     - [3.2.1 解锁方式](#解锁方式)
   - [3.3 死亡之舞](#死亡之舞)
     - [3.3.1 解锁方式](#解锁方式)
-  - [3.4 塔莎狂笑术/僧侣狂笑术](#塔莎狂笑术-僧侣狂笑术)
+  - [3.4 塔莎狂笑术/武僧狂笑术](#塔莎狂笑术-武僧狂笑术)
     - [3.4.1 解锁方式](#解锁方式)
   - [3.5 失落之镜](#失落之镜)
     - [3.5.1 解锁方式](#解锁方式)
@@ -192,17 +192,17 @@
 
 ### 阿拉贝尔之影纠缠术
 
-[阿拉贝尔之影纠缠术](Arabella's_Shadow_Entangle.md "Arabella's Shadow Entangle") - 获得纠缠亡灵或暗影生物的能力。
+[阿拉贝尔之影纠缠术](Arabella's_Shadow_Entangle.md "Arabella's Shadow Entangle") - 获得纠缠不死生物或暗影生物的能力。
 
 #### 解锁方式
 
 在任务[找到阿拉贝尔的父母](Find_Arabella's_Parents.md "Find Arabella's Parents")期间，告诉[阿拉贝尔](Arabella.md "Arabella")她父母的命运。
 
-### 诗人激励
+### 吟游诗人激励
 
-[诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)") - 获得一次比通常更强的诗人激励（1d12）。每次长休可使用一次，且不消耗诗人激励次数。
+[吟游诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)") - 获得一次比通常更强的吟游诗人激励（1d12）。每次长休可使用一次，且不消耗吟游诗人激励次数。
 
-此增益不会强化现有的诗人激励使用（如果有的话）；它们将保持适合角色吟游诗人等级的强度。
+此增益不会强化现有的吟游诗人激励使用（如果有的话）；它们将保持适合角色吟游诗人等级的强度。
 
 #### 解锁方式
 
@@ -246,7 +246,7 @@
 
 仅在以[邪念](Dark_Urge.md "Dark Urge")起源游玩时可用。
 
-作为[邪念](The_Urge.md "The Urge")任务的一部分，杀死[伊莎贝尔](Isobel_Thorm.md "Isobel Thorm")、或你的爱人、或对你好感度最高的伙伴。或者，在第三幕击败[奥林](Orin.md "Orin")后，接受成为[巴尔](Bhaal.md "Bhaal")的选民，可同时获得一次性法术[巴尔律令死亡](Power_Word_Kill.md "Power Word Kill")。
+作为[邪念](The_Urge.md "The Urge")任务的一部分，杀死[伊索贝尔](Isobel_Thorm.md "Isobel Thorm")、或你的爱人、或对你好感度最高的伙伴。或者，在第三幕击败[奥林](Orin.md "Orin")后，接受成为[巴尔](Bhaal.md "Bhaal")的选民，可同时获得一次性法术[巴尔律令死亡](Power_Word_Kill.md "Power Word Kill")。
 
 拒绝成为巴尔的选民会导致永久失去杀戮者形态。
 
@@ -290,13 +290,13 @@
 
 阅读《萨奇亚特法典》（在拉玛吉斯高塔的密室谜题尽头找到），然后阅读_[塞尔死灵法术](Necromancy_of_Thay.md "Necromancy of Thay")_（来自第一幕）的最后一页，并通过DC 20的感知豁免检定。
 
-### 塔莎狂笑术/僧侣狂笑术
+### 塔莎狂笑术/武僧狂笑术
 
 [塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术") - 获得每次长休一次施放[塔莎狂笑术](Tasha's_Hideous_Laughter.md "Tasha's Hideous Laughter")的能力。
 
 #### 解锁方式
 
-将[感知护符](Sentient_Amulet.md "Sentient Amulet")从[复仇之炉](Grymforge.md "Grymforge")带到[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")下的棺材处，完成[帮助被诅咒的僧侣](Help_the_Cursed_Monk.md "Help the Cursed Monk")。必须选择自己接受诅咒。
+将[感知护符](Sentient_Amulet.md "Sentient Amulet")从[复仇之炉](Grymforge.md "Grymforge")带到[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")的[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")下的棺材处，完成[帮助被诅咒的僧侣](Help_the_Cursed_Monk.md "Help the Cursed Monk")。必须选择自己接受诅咒。
 
 如果体质/感知豁免失败，可能会损失感知。如果选择自己接受诅咒，[感知护符（稀有）](Sentient_Amulet_(Rare).md "Sentient Amulet (Rare)")将失去所有能力。
 

@@ -57,7 +57,7 @@
 - _给她毒素抗性灵药。_
 - _给她箴言菇作为解药。_
 
-治愈图拉的可能物品之一是[灰矮人解毒剂](Duergar_Antidote.md "Duergar Antidote")，由[格克·煤球](Gekh_Coal.md "Gekh Coal")持有。他可以在探索[破败村落](Decrepit_Village.md "Decrepit Village")时遇到，或通过完成[击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders")任务找到。法术和能力如[恢复](Lesser_Restoration.md "Lesser Restoration")也能治好图拉。
+治愈图拉的可能物品之一是[灰矮人解毒剂](Duergar_Antidote.md "Duergar Antidote")，由[格克·煤球](Gekh_Coal.md "Gekh Coal")持有。他可以在探索[破败村落](Decrepit_Village.md "Decrepit Village")时遇到，或通过完成[击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders")任务找到。法术和能力如[次级恢复](Lesser_Restoration.md "次级恢复")也能治好图拉。
 
 救下图拉后，她会提供她从[军士长斯林](Elenna_Thrinn.md "Elenna Thrinn")那里偷来的[速度之靴](Boots_of_Speed.md "Boots of Speed")作为奖励。她请求队伍去拯救她[铁手侏儒](Clan_Ironhand.md "Clan Ironhand")氏族的其余成员，他们被关押在[复仇之炉](Grymforge.md "Grymforge")，从而开启任务[拯救复仇之炉的侏儒们](Save_the_Grymforge_Gnomes.md "Save the Grymforge Gnomes")。
 

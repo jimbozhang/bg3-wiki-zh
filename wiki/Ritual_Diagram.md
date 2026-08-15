@@ -12,7 +12,7 @@ A plain, unadorned note.
 
 - Rarity: Common
 
-- Weight: .05 kg (0.1 lb)
+- 重量: .05 kg (0.1 lb)
 
 - Price: 14 gp
 

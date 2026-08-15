@@ -1,6 +1,6 @@
 # 抗毒戒指
 
-抗毒戒指是一个稀有[戒指](Rings.md "Rings")，它赋予佩戴者对⁠[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
+抗毒戒指是一个稀有[戒指](Rings.md "Rings")，它赋予佩戴者对⁠[毒素](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
 
 这枚戒指的祖母绿散发着深邃而致命的绿色光芒。
 
@@ -14,7 +14,7 @@
 
 佩戴此物品者获得：
 
-- 对⁠[中毒](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
+- 对⁠[毒素](Poison.md "Poison")伤害的[抗性](Resistance.md "Resistance")。
 
 ## 获取地点
 

@@ -2,7 +2,7 @@
 
 | 物品 | 附魔 | 伤害 | 伤害/类型 | 重量 | 价格 | 特殊效果 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [争端解决者](Argument_Solver.md "争端解决者") | +1 | 1d8 + 1 | 钝击 | 4.5 kg / 9 lb | 65 | [毒雾](Poison_Mist.md "毒雾") 命中时，造成额外等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的[中毒](Poison.md "中毒")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
+| [争端解决者](Argument_Solver.md "争端解决者") | +1 | 1d8 + 1 | 钝击 | 4.5 kg / 9 lb | 65 | [毒雾](Poison_Mist.md "毒雾") 命中时，造成额外等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的[毒素](Poison.md "毒素")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使其中的生物[中毒](Poisoned_(Condition).md "中毒（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [手动吸血器 (+1)](Artificial_Leech_(+1).md "手动吸血器 (+1)") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [放血](Bloodletting.md "放血") 刺穿敌人的肉体，可能使其[流血](Bleeding_(Condition).md "流血（状态）")。某些[不死生物](Undead.md "不死生物")和[构装生物](Construct.md "构装生物")不会流血。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [刺客短剑](Assassin's_Shortsword.md "刺客短剑") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [优势](Advantage.md "优势")于潜行检定。 |
 | [刺客之触](Assassin's_Touch.md "刺客之触") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 40 | [致命沉睡](Deathly_Slumber.md "致命沉睡")对[倒地](Knocked_Out_(Condition).md "倒地（状态）")或[睡眠](Sleeping_(Condition).md "睡眠（状态）")的生物造成额外1d4[黯蚀](Necrotic.md "黯蚀")伤害。 |
@@ -97,7 +97,7 @@
 | [斯瓦特比的探伤者](Svartlebee's_Woundseeker.md "斯瓦特比的探伤者") | +1 | 2d6 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 130 | [加深伤口](Deepen_the_Wound.md "加深伤口")当攻击已受伤的生物时，使用者获得+1d4到此武器的[攻击掷骰](Attack_roll.md "攻击掷骰")。 |
 | [正义神剑](Sword_of_Justice.md "正义神剑") | +1 | 2d6 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 130 | [提尔的守护](Tyr's_Protection.md "提尔的守护") 施放为1环法术 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [尖叫之剑](Sword_of_Screams.md "尖叫之剑") |  | 1d8 / 1d4 | 穿刺 / 心灵 | 0.9 kg / 1.8 lb | 130 |  |
-| [森林弯刀](Sylvan_Scimitar.md "森林弯刀") | +1 | 1d6 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 65 | [近战施法者](Melee_Caster.md "近战施法者")受影响的实体使用其[施法关键属性](Ability_scores#Spellcasting_ability.md#施法关键属性)调整值代替其敏捷[调整值](Ability_scores#Ability_score_modifiers.md#属性调整值)来添加到[攻击掷骰](Attack_roll.md "攻击掷骰")。 |
+| [森林弯刀](Sylvan_Scimitar.md "森林弯刀") | +1 | 1d6 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 65 | [近战施法者](Melee_Caster.md "近战施法者")受影响的实体使用其[施法关键属性](Ability_scores#Spellcasting_ability.md#施法关键属性)调整值代替其敏捷[调整值](Ability_scores#Ability_score_modifiers.md#调整值)来添加到[攻击掷骰](Attack_roll.md "攻击掷骰")。 |
 | [注射器 (+1)](Syringe_(+1).md "注射器 (+1)") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [注射秘药](Inject_Nostrum.md "注射秘药") 将注射器中的神秘液体注入敌人，可能使其[中毒](Poisoned_(Condition).md "中毒（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [剥皮者](The_Skinburster.md "剥皮者") | +1 | 1d10 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 130 | [剥皮之力](Skinburster_Force.md "剥皮之力")当使用者用此武器造成近战伤害时，获得2回合的[导力](Force_Conduit_(Condition).md "导力（状态）")。 |
 | [不死灾祸](The_Undead_Bane.md "不死灾祸") | +1 | 1d12 + 1 | 挥砍 | 3.15 kg / 6.3 lb | 130 | [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外1d6[挥砍](Slashing.md "挥砍")伤害。[亵渎灾祸](Profane_Scourge.md "亵渎灾祸") 以征服之怒打击，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")添加到伤害掷骰中。如果击中[邪魔](Fiend.md "邪魔")或[不死生物](Undead.md "不死生物")生物，造成额外2d6[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并可能使其[枯竭](Bane_(Condition).md "枯竭（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |

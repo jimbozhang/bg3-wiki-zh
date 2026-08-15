@@ -23,7 +23,7 @@
 | [轻型](Light.md "轻型") | 戏法 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [法师之手](Mage_Hand.md "法师之手") | 戏法 |  |  | - | 18米 / 60英尺 | - | - |
 | [初级幻影](Minor_Illusion.md "初级幻影") | 戏法 |  |  | - | 18米 / 60英尺 | - | - |
-| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3米 / 10英尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免") | 1d12⁠[中毒](Poison.md "中毒") |
+| [毒气喷溅](Poison_Spray.md "毒气喷溅") | 戏法 |  |  | - | 3米 / 10英尺 | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免") | 1d12⁠[毒素](Poison.md "毒素") |
 | [冷冻射线](Ray_of_Frost.md "冷冻射线") | 戏法 |  |  | 1回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8⁠[寒冷](Cold.md "寒冷") |
 | [电爪](Shocking_Grasp.md "电爪") | 戏法 |  |  | 1回合 | 1.5米 / 5英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 1d8⁠[闪电](Lightning.md "闪电") |
 | [克敌机先](True_Strike.md "克敌机先") | 戏法 |  |  | 2回合 | 18米 / 60英尺 | - | - |
@@ -40,7 +40,7 @@
 | [冰刃术](Ice_Knife.md "冰刃术") | 1 |  |  | - | 18米 / 60英尺 / 2米 / 7英尺（半径） | [攻击掷骰](Attack_roll.md "攻击掷骰") [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免") | 1d10⁠[穿刺](Piercing.md "穿刺") / 2d6⁠[寒冷](Cold.md "寒冷") |
 | [魔法护甲](Mage_Armour.md "魔法护甲") | 1 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [魔法飞弹](Magic_Missile.md "魔法飞弹") | 1 |  |  | - | 18米 / 60英尺 | - | 1d4 + 1⁠[力场](Force.md "力场") / 1d4 + 1⁠[力场](Force.md "力场") / 1d4 + 1⁠[力场](Force.md "力场") |
-| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免") | 2d8⁠[中毒](Poison.md "中毒") |
+| [疾病射线](Ray_of_Sickness.md "疾病射线") | 1 |  |  | 2回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免") | 2d8⁠[毒素](Poison.md "毒素") |
 | [护盾术](Shield_(spell).md "护盾术") | 1 |  |  | 1回合 | 自身 | - | - |
 | [睡眠](Sleep.md "睡眠") | 1 |  |  | 2回合 | 18米 / 60英尺 | - | - |
 | [雷鸣波](Thunderwave.md "雷鸣波") | 1 |  |  | - | 1.5米 / 5英尺 / 5米 / 17英尺（立方体） | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免") | 2d8⁠[雷鸣](Thunder.md "雷鸣") |
@@ -90,7 +90,7 @@
 | [变形术](Polymorph.md "变形术") | 4 |  |  | 5回合 | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免") | - |
 | [石肤术](Stoneskin.md "石肤术") | 4 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [火墙术](Wall_of_Fire.md "火墙术") | 4 |  |  | - | 18米 / 60英尺 | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免") | 5d8⁠[火焰](Fire.md "火焰") |
-| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18米 / 60英尺 | - | 5d8⁠[中毒](Poison.md "中毒") |
+| [死云术](Cloudkill.md "死云术") | 5 |  |  | - | 18米 / 60英尺 | - | 5d8⁠[毒素](Poison.md "毒素") |
 | [寒冰锥](Cone_of_Cold.md "寒冰锥") | 5 |  |  | - | 自身 / 9米 / 30英尺（锥形） | [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免") | 8d8⁠[寒冷](Cold.md "寒冷") |
 | [支配人类](Dominate_Person.md "支配人类") | 5 |  |  | 10回合 | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免") | - |
 | [怪物定身术](Hold_Monster.md "怪物定身术") | 5 |  |  | 10回合 | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免") | - |

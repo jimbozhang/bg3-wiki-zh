@@ -107,7 +107,7 @@
 | [长柄武器大师：借机攻击](Polearm_Master_colon__Opportunity_Attack.md "长柄武器大师：借机攻击") |  |
 | 当目标进入范围内时，你也可以进行[借机攻击](Opportunity_Attack.md "借机攻击")。 |  |
 | 备注 |  |
-| 此攻击的伤害调整值使用力量或敏捷中较高者，即使武器不具有[灵巧](Finesse.md "灵巧")属性。当使用[橡棍术](Shillelagh.md "橡棍术")时，这仍然成立。长柄武器大师也适用于矛枪，尽管游戏内未说明。（见[[](#cite_note-PikesPolearmMaster-2 "[")注2]）如果在升级时选择此专长，之后在角色表的“显著特性”下没有指示。此外，被动[长柄武器大师：附赠攻击](Polearm_Master_colon__Bonus_Attack.md "长柄武器大师：附赠攻击")和[长柄武器大师：借机攻击](Polearm_Master_colon__Opportunity_Attack.md "长柄武器大师：借机攻击")是[情境动作](Actions#Overview.md#Overview "动作")，仅在战斗中的快捷栏上可见。 |  |
+| 此攻击的伤害调整值使用力量或敏捷中较高者，即使武器不具有[灵巧](Finesse.md "灵巧")属性。当使用[橡棍术](Shillelagh.md "橡棍术")时，这仍然成立。长柄武器大师也适用于长矛，尽管游戏内未说明。（见[[](#cite_note-PikesPolearmMaster-2 "[")注2]）如果在升级时选择此专长，之后在角色表的“显著特性”下没有指示。此外，被动[长柄武器大师：附赠攻击](Polearm_Master_colon__Bonus_Attack.md "长柄武器大师：附赠攻击")和[长柄武器大师：借机攻击](Polearm_Master_colon__Opportunity_Attack.md "长柄武器大师：借机攻击")是[情境动作](Actions#Overview.md#Overview "动作")，仅在战斗中的快捷栏上可见。 |  |
 | 坚如磐石 | 你将一项[属性值](Ability_Scores.md "属性值")提高1点，最高不超过20点。获得该属性[豁免检定](Saving_throw.md "豁免检定")的[熟练项](Proficiency.md "熟练项")。可用的被动特性是：[坚如磐石：力量](Resilient_colon__Strength.md "坚如磐石：力量") [坚如磐石：敏捷](Resilient_colon__Dexterity.md "坚如磐石：敏捷") [坚如磐石：体质](Resilient_colon__Constitution.md "坚如磐石：体质") [坚如磐石：智力](Resilient_colon__Intelligence.md "坚如磐石：智力") [坚如磐石：感知](Resilient_colon__Wisdom.md "坚如磐石：感知") [坚如磐石：魅力](Resilient_colon__Charisma.md "坚如磐石：魅力") |
 | 备注 |  |
 | 此[属性值](Ability_Scores.md "属性值")增加适用于[德鲁伊](Druid.md "德鲁伊")的[荒野形态](Wild_Shape.md "荒野形态")。[[](#cite_note-DruidWSInteractions-1 "[")注1] |  |
@@ -159,7 +159,7 @@
 ## 注释和参考文献
 
 1. ↑ [1.0](#cite_ref-DruidWSInteractions_1-0) [1.1](#cite_ref-DruidWSInteractions_1-1) 有关荒野形态形态的特性和交互的详细信息，请参见[在荒野形态中有效的特性列表](List_of_features_that_work_in_Wild_Shape.md "在荒野形态中有效的特性列表")。有关每种形态的属性列表，请参见[所有荒野形态](Wild_Shape.md#All_Wild_Shape_Forms "荒野形态")。
-1. [↑](#cite_ref-PikesPolearmMaster_2-0) 游戏内未说明，但长柄武器大师也适用于矛枪。长柄武器大师被编码为适用于任何标记为SPEAR或STAVE（长棍）的武器，以及具有[额外范围](Extra_Reach.md "额外范围")的武器（长柄刀、长戟和**矛枪**）
+1. [↑](#cite_ref-PikesPolearmMaster_2-0) 游戏内未说明，但长柄武器大师也适用于长矛。长柄武器大师被编码为适用于任何标记为SPEAR或STAVE（长棍）的武器，以及具有[额外范围](Extra_Reach.md "额外范围")的武器（长柄刀、长戟和**长矛**）
 
 ---
 *Source: [Feats](https://bg3.wiki/wiki/Feats)*

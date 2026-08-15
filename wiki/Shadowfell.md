@@ -63,11 +63,11 @@ ______________________________________________________________________
 
 ## 相关事件
 
-堕影冥界中站岗的审判复仇者
+堕影冥界中站岗的暗夜法官复仇者
 
 如前所述，游戏中只能进入堕影冥界内部的暗夜之歌监狱。进入后，队伍会试图确定方位，<sup>[\[2\]](#cite_note-2)</sup>如果他们尚未在[巴萨扎尔](Balthazar.md "Balthazar")的前哨站击败他（或根本未遇到他），死灵法师会出现并感谢他们的帮助（即使他们未寻求帮助）。无论队伍试图攻击还是跟随他，巴萨扎尔都会沿着道路走向暗夜之歌。
 
-有一条穿过多个浮岛通往监狱深处的道路。队伍必须从一个岛跳到另一个岛，并因身处堕影冥界而自动获得[羽落术](Feather_Fall_(Condition).md "Feather Fall (Condition)")。<sup>[\[3\]](#cite_note-3)</sup>沿途他们会遇到几位[审判复仇者](Justiciar_Avenger.md "Justiciar Avenger")，他们会在靠近时出现并再次消失。他们催促队伍继续前进。在下降途中约一半的位置，一块较大的岩石上放着[暗夜法官头盔](Dark_Justiciar_Helm.md "Dark Justiciar Helm")。在最底层是一个可发现暗夜之歌的高原。
+有一条穿过多个浮岛通往监狱深处的道路。队伍必须从一个岛跳到另一个岛，并因身处堕影冥界而自动获得[羽落术](Feather_Fall_(Condition).md "Feather Fall (Condition)")。<sup>[\[3\]](#cite_note-3)</sup>沿途他们会遇到几位[暗夜法官复仇者](Justiciar_Avenger.md "Justiciar Avenger")，他们会在靠近时出现并再次消失。他们催促队伍继续前进。在下降途中约一半的位置，一块较大的岩石上放着[暗夜法官头盔](Dark_Justiciar_Helm.md "Dark Justiciar Helm")。在最底层是一个可发现暗夜之歌的高原。
 
 ### 暗夜之歌
 
@@ -145,7 +145,7 @@ _所有可能的结果和奖励在[寻找凯瑟里克·索姆的遗物](Find_Ket
 - [变节的图书管理员](Apostate_Librarian.md "Apostate Librarian")<sup>[\[5\]](#cite_note-balthazaralive-5)</sup> - 3x
 - [变节的哨兵](Apostate_Sentinel.md "Apostate Sentinel")<sup>[\[5\]](#cite_note-balthazaralive-5)</sup> - 6x
 - [巴萨扎尔](Balthazar.md "Balthazar")<sup>[\[5\]](#cite_note-balthazaralive-5)</sup>
-- [审判复仇者](Justiciar_Avenger.md "Justiciar Avenger")<sup>[\[6\]](#cite_note-6)</sup> - 11x
+- [暗夜法官复仇者](Justiciar_Avenger.md "Justiciar Avenger")<sup>[\[6\]](#cite_note-6)</sup> - 11x
 - [艾琳女士](Dame_Aylin.md "艾琳女士")
 
 ## 战利品

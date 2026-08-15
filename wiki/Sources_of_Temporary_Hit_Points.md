@@ -38,7 +38,7 @@
 ## 护甲
 
 - [月照护甲](Armour_of_Moonbasking.md "月照护甲") (_**22点**：在施放[荒野形态](Wild_Shape.md "荒野形态")后_)
-- [慈善外套](Blazer_of_Benevolence.md "慈善外套") (_**4点**：在用[诗人激励](Bardic_Inspiration_(class_action)_.md))激励盟友时_)
+- [慈善外套](Blazer_of_Benevolence.md "慈善外套") (_**4点**：在用[吟游诗人激励](Bardic_Inspiration_(class_action)_.md))激励盟友时_)
 - [骨刺装束](Bonespike_Garb.md "骨刺装束") (_**15点**：在激活狂暴时_)
 - [醉酒服饰](Drunken_Cloth.md "醉酒服饰") (_**体质调整值**：在[醉酒](Drunk.md "醉酒")状态下每回合开始时_)
 - [冰噬长袍](Icebite_Robe.md "冰噬长袍") (_**15点**：提供3级[艾嘉西斯之铠](Armour_of_Agathys.md "艾嘉西斯之铠")的访问权限_)

@@ -8,7 +8,7 @@ A slim-fitting silver band, decorated with a mint green gemstone.
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 18 gp
 
@@ -28,7 +28,7 @@ A slim-fitting silver band, decorated with a mint green gemstone.
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 18 gp
 
@@ -48,7 +48,7 @@ The warm tones of the [金环带](Gold Band.md "Gold Band") pair beautifully wit
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 18 gp
 
@@ -68,7 +68,7 @@ The warm tones of the [金环带](Gold Band.md "Gold Band") pair beautifully wit
 
 - Rarity: Common
 
-- Weight: 0.05 kg (0.1 lb)
+- 重量: 0.05 kg (0.1 lb)
 
 - Price: 18 gp
 

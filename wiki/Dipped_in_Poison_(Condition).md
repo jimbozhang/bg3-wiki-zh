@@ -2,7 +2,7 @@
 
 **涂抹毒药**
 
-- 武器造成额外 1d4⁠⁠[中毒](Poison.md "Poison") 伤害。
+- 武器造成额外 1d4⁠⁠[毒素](Poison.md "Poison") 伤害。
 
 ## 属性
 
@@ -10,7 +10,7 @@
 
 ## 备注
 
-- 此状态可由 [巢穴之母的复仇](Broodmother's_Revenge.md "Broodmother's Revenge") 触发，此时它将施加额外 1d6⁠⁠[中毒](Poison.md "Poison") 伤害，而非 1d4⁠⁠[中毒](Poison.md "Poison") 伤害。否则，效果相同。
+- 此状态可由 [巢穴之母的复仇](Broodmother's_Revenge.md "Broodmother's Revenge") 触发，此时它将施加额外 1d6⁠⁠[毒素](Poison.md "Poison") 伤害，而非 1d4⁠⁠[毒素](Poison.md "Poison") 伤害。否则，效果相同。
 
 ## 涂抹毒药的来源
 

@@ -32,7 +32,7 @@
 | [虔诚护盾](Shield_of_Faith.md "虔诚护盾") | 1 |  |  | 长休 | 18米 / 60英尺 | - | - |
 | [支援术](Aid.md "支援术") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺 (半径) | - | - |
 | [秘法锁](Arcane_Lock.md "秘法锁") | 2 |  |  | 10回合 | 1.5米 / 5英尺 | - | - |
-| [恢复](Lesser_Restoration.md "恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
+| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
 | [行动无踪](Pass_Without_Trace.md "行动无踪") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺 (半径) | - | - |
 | [防护毒素](Protection_from_Poison.md "防护毒素") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [守护之链](Warding_Bond.md "守护之链") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
@@ -57,7 +57,7 @@
 | [月光壁垒](Lunar_Bulwark.md "月光壁垒") | 1 |  |  | 长休 | 自身 | - | - |
 | [莎尔神盾](Shar's_Aegis.md "莎尔神盾") | 1 |  |  | 长休 | 自身 | - | - |
 | [提尔的守护](Tyr's_Protection.md "提尔的守护") | 1 |  |  | 长休 | 18米 / 60英尺 | - | - |
-| [至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助") | 2 |  |  | 长休 | 自身 | - | 5⁠[治疗](Healing.md "治疗") |
+| [至上真神的护符：支援术](Absolute's_Talisman_colon__Aid.md "至上真神的护符：支援术") | 2 |  |  | 长休 | 自身 | - | 5⁠[治疗](Healing.md "治疗") |
 | [解除秘法锁](Dismiss_Arcane_Lock.md "解除秘法锁") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
 | [防护飞弹](Protection_from_Missiles.md "防护飞弹") | 2 |  |  | 10回合 | 自身 | - | - |
 | [驱散魔法](Dispel_Magic.md "驱散魔法") | 3 |  |  | - | 36米 / 120英尺 | [智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定") | - |
@@ -68,7 +68,7 @@
 | [守卫刻文：闪电](Glyph_of_Warding_colon__Lightning.md "守卫刻文：闪电") | 3 |  |  | - | 9米 / 30英尺 / 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 5d8⁠[闪电](Lightning.md "闪电") |
 | [守卫刻文：睡眠](Glyph_of_Warding_colon__Sleep.md "守卫刻文：睡眠") | 3 |  |  | 2回合 | 9米 / 30英尺 / 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [守卫刻文：雷鸣](Glyph_of_Warding_colon__Thunder.md "守卫刻文：雷鸣") | 3 |  |  | - | 9米 / 30英尺 / 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 5d8⁠[雷鸣](Thunder.md "雷鸣") |
-| [卡利德的礼物：协助](Khalid's_Gift_colon__Aid.md "卡利德的礼物：协助") | 3 |  |  | 长休 | 自身 | - | 10⁠[治疗](Healing.md "治疗") |
+| [卡利德的礼物：支援术](Khalid's_Gift_colon__Aid.md "卡利德的礼物：支援术") | 3 |  |  | 长休 | 自身 | - | 10⁠[治疗](Healing.md "治疗") |
 | [防护能量伤害：强酸](Protection_from_Energy_colon__Acid.md "防护能量伤害：强酸") | 3 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [防护能量伤害：寒冷](Protection_from_Energy_colon__Cold.md "防护能量伤害：寒冷") | 3 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [防护能量伤害：火焰](Protection_from_Energy_colon__Fire.md "防护能量伤害：火焰") | 3 |  |  | 长休 | 1.5米 / 5英尺 | - | - |

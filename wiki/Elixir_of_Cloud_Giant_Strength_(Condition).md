@@ -40,7 +40,7 @@ _Wiki 数据库中未定义_
 | [高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation_(Condition).md "Greater Elixir of Arcane Cultivation (Condition)") | 拥有额外的 [2级法术位](Spells#Spell_slots.md#Spell_slots "Spells")。 |
 | [闪电抗性](Lightning_Resistance_(Condition).md "Lightning Resistance (Condition)") | [抗性](Resistant.md "Resistant") 于 ⁠[闪电](Lightning.md "Lightning") 伤害。不再被 [感电](Shocked_(Condition).md "Shocked (Condition)")、[电击](Electrocuted_(Condition).md "Electrocuted (Condition)")、[电震](Jolted_(Condition).md "Jolted (Condition)") 或其他闪电效果影响。 |
 | [黯蚀抗性](Necrotic_Resistance_(Condition).md "Necrotic Resistance (Condition)") | [抗性](Resistant.md "Resistant") 于 ⁠[黯蚀](Necrotic.md "Necrotic") 伤害。 |
-| [中毒抗性](Poison_Resistance_(Condition).md "Poison Resistance (Condition)") | [抗性](Resistant.md "Resistant") 于 ⁠[中毒](Poison.md "Poison") 伤害。不再被 [中毒](Poisoned_(status_group).md "Poisoned (status group)")。 |
+| [中毒抗性](Poison_Resistance_(Condition).md "Poison Resistance (Condition)") | [抗性](Resistant.md "Resistant") 于 ⁠[毒素](Poison.md "Poison") 伤害。不再被 [中毒](Poisoned_(status_group).md "Poisoned (status group)")。 |
 | [灵能弱化](Psionic_Weakening_(Condition).md "Psionic Weakening (Condition)") | 受影响实体在体质、感知和智力 [豁免检定](Saving_throw.md "Saving Throw") 上具有 [劣势](Disadvantage.md "Disadvantage")。饮用时替换其他灵药的效果。 |
 | [心灵抗性](Psychic_Resistance_(Condition).md "Psychic Resistance (Condition)") | [抗性](Resistant.md "Resistant") 于 ⁠[心灵](Psychic.md "Psychic") 伤害。 |
 | [光耀抗性](Radiant_Resistance_(Condition).md "Radiant Resistance (Condition)") | [抗性](Resistant.md "Resistant") 于 ⁠[光耀](Radiant.md "Radiant") 伤害。 |

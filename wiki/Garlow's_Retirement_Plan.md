@@ -29,7 +29,7 @@
 - 花一整天时间阅读
 - 游览 [深水城](Waterdeep.md "深水城")
 - 做一次按摩
-- 在 [雄狮河](River_Chionthar.md "雄狮河") 中游泳
+- 在 [乔恩萨河](River_Chionthar.md "乔恩萨河") 中游泳
 - 买一件新外套
 - 养一只猫
 
@@ -42,7 +42,7 @@
 ## 外部链接
 
 - ⁠[加洛](https://forgottenrealms.fandom.com/wiki/Garlow) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
-- ⁠[雄狮河](https://forgottenrealms.fandom.com/wiki/River_Chionthar) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[乔恩萨河](https://forgottenrealms.fandom.com/wiki/River_Chionthar) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
   - ⁠[深水城](https://forgottenrealms.fandom.com/wiki/Waterdeep) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---

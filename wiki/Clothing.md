@@ -29,7 +29,7 @@
 | [静待良机](Bided_Time.md "静待良机") | 1.8 kg / 3.6 lb | 250 | [绝佳时机](Time_Thoroughly_Bided.md "绝佳时机")穿戴者每次被近战攻击命中时，获得[奥术充能](Arcane_Charge_(Condition).md "奥术充能 (状态)")。 |
 | [吸血服](Bloodguzzler_Garb.md "吸血服") | 1.8 kg / 3.6 lb | 250 | [以牙还牙](Grievous_Retribution.md "以牙还牙")当敌人对穿戴者造成伤害时，穿戴者获得2回合的[怒火](Wrath_(Condition).md "怒火 (状态)")。 |
 | [布衣](Cloth_Armour.md "布衣") | 1.8 kg / 3.6 lb | 250 | [以牙还牙](Grievous_Retribution.md "以牙还牙")当敌人对穿戴者造成伤害时，穿戴者获得2回合的[怒火](Wrath_(Condition).md "怒火 (状态)")。 |
-| [投毒者的长袍](Poisoner's_Robe.md "投毒者的长袍") | 1.8 kg / 3.6 lb | 250 | [剧毒轨迹](Poison_Trails.md "剧毒轨迹")当穿戴者施放造成[中毒](Poison.md "中毒")伤害的法术时，额外造成1d4点[中毒](Poison.md "中毒")伤害。 |
+| [投毒者的长袍](Poisoner's_Robe.md "投毒者的长袍") | 1.8 kg / 3.6 lb | 250 | [剧毒轨迹](Poison_Trails.md "剧毒轨迹")当穿戴者施放造成[毒素](Poison.md "毒素")伤害的法术时，额外造成1d4点[毒素](Poison.md "毒素")伤害。 |
 | [夏之长袍](Robe_of_Summer.md "夏之长袍") | 1.8 kg / 3.6 lb | 250 | 对[寒冷](Cold.md "寒冷")伤害具有[抗性](Resistance.md "抗性")。 |
 | [权威服饰](Cloth_of_Authority.md "权威服饰") | 1.8 kg / 3.6 lb | 800 | [护甲等级](Armour_Class.md "护甲等级") +1 [无所畏惧](Dauntless.md "无所畏惧")你不会被[恐慌](Frightened_(Condition).md "恐慌 (状态)")或其他改变情绪的状态影响。[权威人士](Authority.md "权威人士")你在[威吓](Intimidation.md "威吓")检定和[洞悉](Insight.md "洞悉")检定上具有[优势](Advantage.md "优势")。 |
 | [醉酒服饰](Drunken_Cloth.md "醉酒服饰") | 1.8 kg / 3.6 lb | 800 | [雪白肝脏](Snowy_Liver.md "雪白肝脏")当你[醉酒](Drunk_(Condition).md "醉酒 (状态)")时，你在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")，并在你的回合开始时获得等于你[体质](Constitution.md "体质")调整值的[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |

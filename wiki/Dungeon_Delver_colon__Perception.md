@@ -1,8 +1,8 @@
-# 地城探索者：察觉
+# 地牢探索者：察觉
 
-另见：[地城探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "地城探索者：抵抗陷阱")
+另见：[地牢探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "地牢探索者：抵抗陷阱")
 
-**地城探索者：察觉** 是一个被动特性，可通过 [地牢探索者](Dungeon_Delver.md "地牢探索者") [专长](Feat.md "专长") 获得。它会在寻找隐藏物品时为你的 [察觉技能](Perception.md "察觉技能") 提供加值。
+**地牢探索者：察觉** 是一个被动特性，可通过 [地牢探索者](Dungeon_Delver.md "地牢探索者") [专长](Feat.md "专长") 获得。它会在寻找隐藏物品时为你的 [察觉技能](Perception.md "察觉技能") 提供加值。
 
 ## 描述
 

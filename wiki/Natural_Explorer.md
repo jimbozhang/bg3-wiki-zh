@@ -12,9 +12,9 @@ _以下部分可以使用 `{{:Natural Explorer}}` 被包含到其他页面中。
 | [城市追踪者](Urban_Tracker.md "城市追踪者") | 作为在城市荒野中穿行的专家，你获得[巧手](Sleight_of_Hand.md "巧手")[熟练项](Proficiency.md "熟练项")。 | [巧手](Sleight_of_Hand.md "巧手")熟练项 |
 | [荒地漫游者：寒冷](Wasteland_Wanderer_colon__Cold.md "荒地漫游者：寒冷") | 你曾在荒凉的冻原上度过了无数个求生日夜。获得对[寒冷](Cold.md "寒冷")伤害的[抗性](Damage_Types#Resistance.md#Resistance "伤害类型")，仅承受其一半伤害。 | [寒冷](Cold.md "寒冷")[抗性](Damage_Types#Resistance.md#Resistance "伤害类型") |
 | [荒地漫游者：火焰](Wasteland_Wanderer_colon__Fire.md "荒地漫游者：火焰") | 你曾在险恶的[沙漠](Desert.md "沙漠")中度过了无数个求生日夜。获得对[火焰](Fire.md "火焰")的[抗性](Damage_Types#Resistance.md#Resistance "伤害类型")，仅承受其一半伤害。 | [火焰](Fire.md "火焰")[抗性](Damage_Types#Resistance.md#Resistance "伤害类型") |
-| [荒地漫游者：中毒](Wasteland_Wanderer_colon__Poison.md "荒地漫游者：中毒") | 你曾在恶臭的[沼泽](Swamp.md "沼泽")中度过了无数个求生日夜。获得对[中毒](Poison.md "中毒")的[抗性](Damage_Types#Resistance.md#Resistance "伤害类型")，仅承受其一半伤害。 | [中毒](Poison.md "中毒")[抗性](Damage_Types#Resistance.md#Resistance "伤害类型") |
+| [荒地漫游者：中毒](Wasteland_Wanderer_colon__Poison.md "荒地漫游者：中毒") | 你曾在恶臭的[沼泽](Swamp.md "沼泽")中度过了无数个求生日夜。获得对[毒素](Poison.md "毒素")的[抗性](Damage_Types#Resistance.md#Resistance "伤害类型")，仅承受其一半伤害。 | [毒素](Poison.md "毒素")[抗性](Damage_Types#Resistance.md#Resistance "伤害类型") |
 
-- [中毒](Poison.md "中毒")[抗性](Damage_types.md#Resistance "伤害类型")
+- [毒素](Poison.md "毒素")[抗性](Damage_types.md#Resistance "伤害类型")
 
 ---
 *Source: [Natural Explorer](https://bg3.wiki/wiki/Natural_Explorer)*

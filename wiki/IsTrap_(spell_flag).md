@@ -1,6 +1,6 @@
 # IsTrap (法术标识)
 
-**IsTrap** 是一个 [法术标识](Spell_flag.md "法术标识")，用于指示某个动作是否被视为陷阱。此标识由 [地城探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "地城探索者：抵抗陷阱") 进行检查。拥有地城探索者特性的角色在对带有此标识的任何动作进行 [豁免检定](Saving_throw.md "豁免检定") 时将获得 [优势](Advantage.md "优势")，并承受一半伤害（此效果与任何 [抗性](Resistance.md "抗性"] 叠加）。
+**IsTrap** 是一个 [法术标识](Spell_flag.md "法术标识")，用于指示某个动作是否被视为陷阱。此标识由 [地牢探索者：抵抗陷阱](Dungeon_Delver_colon__Resist_Traps.md "地牢探索者：抵抗陷阱") 进行检查。拥有地牢探索者特性的角色在对带有此标识的任何动作进行 [豁免检定](Saving_throw.md "豁免检定") 时将获得 [优势](Advantage.md "优势")，并承受一半伤害（此效果与任何 [抗性](Resistance.md "抗性"] 叠加）。
 
 除了下面列出的动作外，许多普通法术（如 [火球术术](Fireball.md "火球术术")）也有陷阱版本，用于各种 [陷阱](Trap.md "陷阱")。
 

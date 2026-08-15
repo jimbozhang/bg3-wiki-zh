@@ -1,16 +1,16 @@
-# 5级法术列表
+# 5环法术列表
 
 ## 目录
 
-- [1 5级法术](#5级法术)
+- [1 5环法术](#5环法术)
 - [2 物品或变体法术](#物品或变体法术)
 - [3 仅限非玩家角色](#仅限非玩家角色)
 
-## 5级法术
+## 5环法术
 
 | 名称 | 等级 | 施法时间 | 持续时间 | 范围/区域 | 攻击/豁免 | 伤害/效果 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [死云术](Cloudkill.md "Cloudkill") | 5 |  |  | - | 18 m / 60ft | - | 5d8⁠[中毒](Poison.md "Poison") |
+| [死云术](Cloudkill.md "Cloudkill") | 5 |  |  | - | 18 m / 60ft | - | 5d8⁠[毒素](Poison.md "Poison") |
 | [寒冰锥](Cone_of_Cold.md "Cone of Cold") | 5 |  |  | - | 自身 / 9m / 30ft (锥形) | [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") | 8d8⁠[寒冷](Cold.md "Cold") |
 | [召唤元素生物](Conjure_Elemental.md "Conjure Elemental") | 5 |  |  | - | 18 m / 60 ft | - | - |
 | [疫病术](Contagion.md "Contagion") | 5 |  |  | - | 1.5 m / 5 ft | [攻击掷骰](Attack_roll.md "Attack Roll") | - |
@@ -63,10 +63,10 @@
 
 | 名称 | 等级 | 施法时间 | 持续时间 | 范围/区域 | 攻击/豁免 | 伤害/效果 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [卡里翁的爆炸死云术](Carrion's_Explosive_Cloudkill.md "Carrion's Explosive Cloudkill") | 5 |  |  | - | 18 m / 60ft / 3m / 10ft (半径) | [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") | 4d6⁠[挥砍](Slashing.md "Slashing") / 5d6⁠[中毒](Poison.md "Poison") |
+| [卡里翁的爆炸死云术](Carrion's_Explosive_Cloudkill.md "Carrion's Explosive Cloudkill") | 5 |  |  | - | 18 m / 60ft / 3m / 10ft (半径) | [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") | 4d6⁠[挥砍](Slashing.md "Slashing") / 5d6⁠[毒素](Poison.md "Poison") |
 | [不安面容](Disconcerting_Visage.md "Disconcerting Visage") | 5 |  |  | 2 回合 | 10m / 33ft (半径) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | - |
 | [不安面容](Disconcerting_Visage_(Tactician).md "Disconcerting Visage (Tactician)") | 5 |  |  | 2 回合 | 10m / 33ft (半径) | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 3d10⁠[黯蚀](Necrotic.md "Necrotic") |
-| [元素叱喝](Elemental_Retort.md "Elemental Retort") | 5 |  |  | - | 18 m / 60ft | [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") | 3d8⁠[闪电](Lightning.md "Lightning") / 3d8⁠[中毒](Poison.md "Poison") / 3d8⁠[火焰](Fire.md "Fire") / 3d8⁠[寒冷](Cold.md "Cold") |
+| [元素叱喝](Elemental_Retort.md "Elemental Retort") | 5 |  |  | - | 18 m / 60ft | [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") | 3d8⁠[闪电](Lightning.md "Lightning") / 3d8⁠[毒素](Poison.md "Poison") / 3d8⁠[火焰](Fire.md "Fire") / 3d8⁠[寒冷](Cold.md "Cold") |
 | [埃赛尔的虫群瘟疫](Ethel's_Insect_Plague.md "Ethel's Insect Plague") | 5 |  |  | - | 18 m / 60 ft / 6m / 20ft (半径) | [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") | 4d10⁠[穿刺](Piercing.md "Piercing") |
 | [强行传送](Forced_Teleportation.md "Forced Teleportation") | 5 |  |  | - | 18 m / 60 ft | - | - |
 | [看守的小费](Keeper's_Fee.md "Keeper's Fee") | 5 |  |  | - | 18 m / 60ft | [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") | - |

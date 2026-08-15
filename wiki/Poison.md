@@ -4,14 +4,14 @@
 
 **⁠ 中毒** 是游戏中的[伤害类型](Damage_type.md "伤害类型")之一。
 
-- 有关所有中毒来源，请参见 [Category:中毒伤害来源](Category_colon_Sources_of_Poison_damage.md "Category:中毒伤害来源")。
-- 有关对中毒脆弱的生物，请参见 [Category:对中毒脆弱](Category_colon_Vulnerable_to_Poison.md "Category:对中毒脆弱")。
+- 有关所有中毒来源，请参见 [Category:毒素伤害来源](Category_colon_Sources_of_Poison_damage.md "Category:毒素伤害来源")。
+- 有关对中毒易伤的生物，请参见 [Category:对中毒易伤](Category_colon_Vulnerable_to_Poison.md "Category:对中毒易伤")。
 - 有关对中毒有抗性的生物，请参见 [Category:对中毒有抗性](Category_colon_Resistant_to_Poison.md "Category:对中毒有抗性")。
 - 有关对中毒免疫的生物，请参见 [Category:对中毒免疫](Category_colon_Immune_to_Poison.md "Category:对中毒免疫")。
 
-## 中毒伤害来源
+## 毒素伤害来源
 
-以下部分列出了玩家角色或其召唤生物造成中毒伤害的各种方式。
+以下部分列出了玩家角色或其召唤生物造成毒素伤害的各种方式。
 
 非玩家角色专属的特殊动作、法术等未列出。
 
@@ -46,7 +46,7 @@
 
 ### 武器
 
-以下武器在其常规攻击中造成中毒伤害。
+以下武器在其常规攻击中造成毒素伤害。
 
 - [气巨灵弯刀](Djinni_Scimitar.md "气巨灵弯刀")
 - [侍女硬头锤](Handmaiden's_Mace.md "侍女硬头锤")
@@ -58,10 +58,10 @@
 
 ### 装备
 
-以下装备会为穿戴者的攻击添加中毒伤害，或可通过其他方式造成中毒伤害。
+以下装备会为穿戴者的攻击添加毒素伤害，或可通过其他方式造成毒素伤害。
 
 - [巢穴之母的复仇](Broodmother's_Revenge.md "巢穴之母的复仇")：每当被治疗时，获得[恶毒复仇](Venomous_Revenge_(Condition).md "恶毒复仇（状态）") 2回合，获得 +1d6⁠⁠中毒。
-- [投毒者的长袍](Poisoner's_Robe.md "投毒者的长袍")：当用法术造成中毒伤害时，额外造成 +1d4⁠⁠中毒。
+- [投毒者的长袍](Poisoner's_Robe.md "投毒者的长袍")：当用法术造成毒素伤害时，额外造成 +1d4⁠⁠中毒。
 - [荆棘之刃](Thorn_Blade.md "荆棘之刃")：专注时，你的近战武器攻击额外造成 +1d4⁠⁠中毒。
 
 ### 消耗品
@@ -87,7 +87,7 @@ _有关毒素的一般机制，请参见[涂层](Coatings.md "涂层")。_
 
 ## 备注
 
-- 中毒伤害通常与[中毒](Poisoned_(Condition).md "中毒（状态）")状态无关。
+- 毒素伤害通常与[中毒](Poisoned_(Condition).md "中毒（状态）")状态无关。
 
 ---
 *Source: [Poison](https://bg3.wiki/wiki/Poison)*

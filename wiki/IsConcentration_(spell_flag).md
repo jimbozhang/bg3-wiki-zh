@@ -43,7 +43,7 @@
 | [天界加速](Celestial_Haste.md "天界加速") | 3级法术 |  | 自身 | - | 施加 [天界加速](Celestial_Haste_(Condition).md "天界加速 (状态)") |
 | [北风之握](Clench_of_the_North_Wind.md "北风之握") | 动作 | + 3 | 18 m (60 ft) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 施加 [人类定身术](Hold_Person_(Condition).md "人类定身术 (状态)") |
 | [匕首之云](Cloud_of_Daggers.md "匕首之云") | 2级法术 | + | 18 m (60 ft) | - | 4d4⁠[挥砍](Slashing.md "挥砍") |
-| [死云术](Cloudkill.md "死云术") | 5级法术 | + | 18 m (60 ft) | - | 5d8⁠[中毒](Poison.md "中毒") ( [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 以减半) |
+| [死云术](Cloudkill.md "死云术") | 5级法术 | + | 18 m (60 ft) | - | 5d8⁠[毒素](Poison.md "毒素") ( [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 以减半) |
 | [强令对决](Compelled_Duel.md "强令对决") | 1级法术 | + | 9 m (30 ft) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 施加 [强令对决](Compelled_Duel_(Condition).md "强令对决 (状态)") |
 | [困惑](Confusion.md "困惑") | 4级法术 | + | 18 m (60 ft) 6 m (20 ft) (半径) | [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 施加 [困惑](Confused_(Condition).md "困惑 (状态)") |
 | [绞缠](Constrict.md "绞缠") | 动作 | 每回合 | 14 m (47 ft) | [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") | 2d6 + 4⁠[钝击](Bludgeoning.md "钝击") + 1d4⁠[黯蚀](Necrotic.md "黯蚀")施加 [被绞缠](Constricted_(Condition).md "被绞缠 (状态)") 和 [绞缠中](Constricting_(Condition).md "绞缠中 (状态)") |

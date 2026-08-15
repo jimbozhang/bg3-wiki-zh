@@ -93,7 +93,7 @@
 - [咆哮恶犬手套](Gloves_of_the_Growling_Underdog.md "咆哮恶犬手套") - 被两个或更多敌人包围时，近战攻击掷骰具有优势
 - [警觉长戟](Halberd_of_Vigilance.md "警觉长戟") - 作为反应进行的攻击掷骰具有优势
 - [狩猎短弓](Hunting_Shortbow.md "狩猎短弓") - 对[怪兽](Category_colon_Monstrosities.md "类别：怪兽")的攻击掷骰具有优势
-- [地底国王之刃](Knife_of_the_Undermountain_King.md "地底国王之刃") - 对轻度或重度[遮蔽](Obscured.md "遮蔽")目标的攻击掷骰具有优势
+- [地脉迷城之王的匕首](Knife_of_the_Undermountain_King.md "地脉迷城之王的匕首") - 对轻度或重度[遮蔽](Obscured.md "遮蔽")目标的攻击掷骰具有优势
 - [月光](Moonlight_Glaive.md "月光") - 对区域内所有生物的攻击具有优势
 - [培罗的阳光之刃](Pelorsun_Blade.md "培罗的阳光之刃") - 对[不死生物](Category_colon_Undead.md "类别：不死生物")的攻击掷骰具有优势
 - [东倒西歪](Punch-Drunk_Bastard.md "东倒西歪") - [醉酒](Drunk_(Condition).md "醉酒（状态）")时所有武器攻击掷骰具有优势
@@ -104,7 +104,7 @@
 - [火花之手](The_Sparkle_Hands.md "火花之手") - 当你拥有[闪电充能](Lightning_Charges.md "闪电充能")时，对金属[构装生物](Category_colon_Constructs.md "类别：构装生物")和穿戴金属护甲的敌人攻击掷骰具有优势
 - [钢铁卫士的指引](The_Watcher's_Guide.md "钢铁卫士的指引") - 使用此武器攻击未命中时获得[克敌机先](True_Strike.md "克敌机先")
 - [隐形威胁](Unseen_Menace.md "隐形威胁") - 武器隐形时攻击掷骰具有优势
-- [海浪之母的镰刀](Wavemother's_Sickle.md "海浪之母的镰刀") - 对[湿润](Wet_(Condition).md "湿润（状态）")生物的攻击掷骰具有优势
+- [海浪之母的镰刀](Wavemother's_Sickle.md "海浪之母的镰刀") - 对[濡湿](Wet_(Condition).md "濡湿（状态）")生物的攻击掷骰具有优势
 - [巫术破除](Witchbreaker.md "巫术破除") - 对[专注](Concentrating.md "专注")目标的攻击掷骰具有优势
 
 ## 攻击掷骰劣势

@@ -22,7 +22,7 @@
 
 ## 备注
 
-- 至死不渝仅在近战攻击未命中时触发（包括 [借机攻击](Opportunity_Attack.md "借机攻击")），在 [投掷攻击](Thrown.md "投掷攻击") 时不会触发。
+- 至死不渝仅在近战攻击未命中时触发（包括 [借机攻击](Opportunity_Attack.md "借机攻击")），在 [投掷](Thrown.md "投掷") 时不会触发。
 
 ---
 *Source: [Death's Promise](https://bg3.wiki/wiki/Death's_Promise)*

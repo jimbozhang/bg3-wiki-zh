@@ -4,7 +4,7 @@
 
 **中毒**可能指：
 
-- [中毒](Poison.md "中毒")，一种伤害类型
+- [毒素](Poison.md "毒素")，一种伤害类型
 
 ## 法术和动作[&action=edit&section=1> "编辑章节源代码：法术和动作") | &veaction=edit&section=1> "编辑章节：法术和动作")]
 

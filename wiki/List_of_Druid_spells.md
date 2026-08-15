@@ -13,7 +13,7 @@
 | 名称 | 等级 | 施法时间 | 持续时间 | 范围/区域 | 攻击/豁免 | 伤害/效果 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [神导术](Guidance.md "Guidance") | 戏法 |  |  | 10 回合 | 1.5 米 / 5 英尺 | - | - |
-| [毒气喷溅](Poison_Spray.md "Poison Spray") | 戏法 |  |  | - | 3 米 / 10英尺 | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 1d12⁠[中毒](Poison.md "Poison") |
+| [毒气喷溅](Poison_Spray.md "Poison Spray") | 戏法 |  |  | - | 3 米 / 10英尺 | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 1d12⁠[毒素](Poison.md "Poison") |
 | [燃火术](Produce_Flame.md "Produce Flame") | 戏法 |  |  | 长休 | 自身 | - | 1d8⁠[火焰](Fire.md "Fire") |
 | [抗性](Resistance_(Cantrip).md "Resistance (Cantrip)") | 戏法 |  |  | 10 回合 | 1.5 米 / 5 英尺 | - | - |
 | [橡棍术](Shillelagh.md "Shillelagh") | 戏法 |  |  | 10 回合 | 自身 | - | - |
@@ -40,7 +40,7 @@
 | [造风术](Gust_of_Wind.md "Gust of Wind") | 2 |  |  | 1 回合 | 自身 / 12米 / 40英尺 | [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws") | - |
 | [灼热金属](Heat_Metal.md "Heat Metal") | 2 |  |  | - | 18 米 / 60 英尺 | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 2d8⁠[火焰](Fire.md "Fire") |
 | [人类定身术](Hold_Person.md "Hold Person") | 2 |  |  | 10 回合 | 18 米 / 60 英尺 | [感知](Wisdom.md "Wisdom") [豁免](Saving_throws.md "Saving throws") | - |
-| [恢复](Lesser_Restoration.md "Lesser Restoration") | 2 |  |  | - | 1.5 米 / 5 英尺 | - | - |
+| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5 米 / 5 英尺 | - | - |
 | [月华之光](Moonbeam.md "Moonbeam") | 2 |  |  | - | 18 米 / 60 英尺 / 1米 / 3英尺 (半径) | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 2d10⁠[光耀](Radiant.md "Radiant") |
 | [行动无踪](Pass_Without_Trace.md "Pass Without Trace") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺 (半径) | - | - |
 | [防护毒素](Protection_from_Poison.md "Protection from Poison") | 2 |  |  | 长休 | 1.5 米 / 5 英尺 | - | - |

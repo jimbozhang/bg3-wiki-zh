@@ -1,6 +1,6 @@
 # 元素套装
 
-**元素套装**在造成元素伤害（⁠[强酸](Acid.md "强酸")、⁠[寒冷](Cold.md "寒冷")、⁠[火焰](Fire.md "火焰")、⁠[力场](Force.md "力场")、⁠[闪电](Lightning.md "闪电")、⁠[黯蚀](Necrotic.md "黯蚀")、⁠[中毒](Poison.md "中毒")、⁠[心灵](Psychic.md "心灵")、⁠[光耀](Radiant.md "光耀")或⁠[雷鸣](Thunder.md "雷鸣")）时提供加成，或增加额外的元素伤害。因此，该套装与[强酸套装](Acid_set.md "强酸套装")、[寒冷套装](Cold_set.md "寒冷套装")、[火焰套装](Fire_set.md "火焰套装")、[力场套装](Force_set.md "力场套装")、[闪电套装](Lightning_set.md "闪电套装")、[黯蚀套装](Necrotic_set.md "黯蚀套装")、[中毒套装](Poison_Set.md "中毒套装")、[心灵套装](Psychic_set.md "心灵套装")、[光耀套装](Radiant_set.md "光耀套装")和[雷鸣套装](Thunder_set.md "雷鸣套装")中的物品协同作用，这些套装在此不重复列出。许多物品受益于混合使用法术和武器攻击。
+**元素套装**在造成元素伤害（⁠[强酸](Acid.md "强酸")、⁠[寒冷](Cold.md "寒冷")、⁠[火焰](Fire.md "火焰")、⁠[力场](Force.md "力场")、⁠[闪电](Lightning.md "闪电")、⁠[黯蚀](Necrotic.md "黯蚀")、⁠[毒素](Poison.md "毒素")、⁠[心灵](Psychic.md "心灵")、⁠[光耀](Radiant.md "光耀")或⁠[雷鸣](Thunder.md "雷鸣")）时提供加成，或增加额外的元素伤害。因此，该套装与[强酸套装](Acid_set.md "强酸套装")、[寒冷套装](Cold_set.md "寒冷套装")、[火焰套装](Fire_set.md "火焰套装")、[力场套装](Force_set.md "力场套装")、[闪电套装](Lightning_set.md "闪电套装")、[黯蚀套装](Necrotic_set.md "黯蚀套装")、[中毒套装](Poison_Set.md "中毒套装")、[心灵套装](Psychic_set.md "心灵套装")、[光耀套装](Radiant_set.md "光耀套装")和[雷鸣套装](Thunder_set.md "雷鸣套装")中的物品协同作用，这些套装在此不重复列出。许多物品受益于混合使用法术和武器攻击。
 
 它包含以下部件：
 

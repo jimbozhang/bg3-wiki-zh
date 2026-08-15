@@ -51,7 +51,7 @@
 [悔恨诅咒](Curse_of_Regret_(Condition).md "悔恨诅咒（状态）")
 |
 
-- 每回合受到 1d4+1⁠⁠[心灵](Psychic.md "心灵") 伤害，并且易受心灵伤害。造成伤害以移除此状态。
+- 每回合受到 1d4+1⁠⁠[心灵](Psychic.md "心灵") 伤害，并且易伤心灵伤害。造成伤害以移除此状态。
 
 [后裔诅咒](Curse_of_the_Sired_(Condition).md "后裔诅咒（状态）")
 |

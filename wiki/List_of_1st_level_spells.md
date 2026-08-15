@@ -1,14 +1,14 @@
-# 一级法术列表
+# 1环法术列表
 
 这是《博德之门3》中所有**一级**法术的列表。
 
 ## 目录
 
-- [1 一级法术](#一级法术)
+- [1 1环法术](#1环法术)
 - [2 物品或变体法术](#物品或变体法术)
 - [3 仅限非玩家角色](#仅限非玩家角色)
 
-## 一级法术
+## 1环法术
 
 | 名称 | 等级 | 施法时间 | 持续时间 | 范围/区域 | 攻击/豁免 | 伤害/效果 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@
 | [魔法护甲](Mage_Armour.md "Mage Armour") | 1 |  |  | 长休 | 1.5 米 / 5 英尺 | - | - |
 | [魔法飞弹](Magic_Missile.md "Magic Missile") | 1 |  |  | - | 18 米 / 60英尺 | - | 1d4 + 1⁠[力场](Force.md "Force") / 1d4 + 1⁠[力场](Force.md "Force") / 1d4 + 1⁠[力场](Force.md "Force") |
 | [防护善恶](Protection_from_Evil_and_Good.md "Protection from Evil and Good") | 1 |  |  | 长休 | 1.5 米 / 5 英尺 | - | - |
-| [疾病射线](Ray_of_Sickness.md "Ray of Sickness") | 1 |  |  | 2 回合 | 18 米 / 60 英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 2d8⁠[中毒](Poison.md "Poison") |
+| [疾病射线](Ray_of_Sickness.md "Ray of Sickness") | 1 |  |  | 2 回合 | 18 米 / 60 英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 2d8⁠[毒素](Poison.md "Poison") |
 | [庇护术](Sanctuary.md "Sanctuary") | 1 |  |  | 10 回合 | 18 米 / 60 英尺 | - | - |
 | [炽焰斩](Searing_Smite.md "Searing Smite") | 1 |  |  | 10 回合 | 武器范围 | [攻击掷骰](Attack_roll.md "Attack Roll") | 正常武器伤害 / 1d6⁠[火焰](Fire.md "Fire") / 1d6⁠[火焰](Fire.md "Fire") |
 | [护盾术](Shield_(spell).md "Shield (spell)") | 1 |  |  | 1 回合 | 自身 | - | - |
@@ -93,38 +93,38 @@
 | [造水术](Create_Water.md "Create Water") | 1 |  |  | 3 回合 | 9 米 / 30英尺 / 4米 / 13英尺 (半径) | - | - |
 | [枯水术](Destroy_Water.md "Destroy Water") | 1 |  |  | - | 9 米 / 30英尺 / 4米 / 13英尺 (半径) | - | - |
 | [侦测善恶](Detect_Evil_and_Good.md "Detect Evil and Good") | 1 |  |  | 100 回合 | 1.5 米 / 5 英尺 | - | - |
-| [易容术：女性龙裔](Disguise_Self_colon__Femme_Dragonborn.md "Disguise Self: Femme Dragonborn") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性卓尔](Disguise_Self_colon__Femme_Drow.md "Disguise Self: Femme Drow") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性矮人](Disguise_Self_colon__Femme_Dwarf.md "Disguise Self: Femme Dwarf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性精灵](Disguise_Self_colon__Femme_Elf.md "Disguise Self: Femme Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性龙裔](Disguise_Self_colon__Femme_Dragonborn.md "Disguise Self: Femme Dragonborn") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性卓尔](Disguise_Self_colon__Femme_Drow.md "Disguise Self: Femme Drow") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性矮人](Disguise_Self_colon__Femme_Dwarf.md "Disguise Self: Femme Dwarf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性精灵](Disguise_Self_colon__Femme_Elf.md "Disguise Self: Femme Elf") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：女性吉斯洋基人](Disguise_Self_colon__Femme_Githyanki.md "Disguise Self: Femme Githyanki") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性侏儒](Disguise_Self_colon__Femme_Gnome.md "Disguise Self: Femme Gnome") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性半精灵](Disguise_Self_colon__Femme_Half-Elf.md "Disguise Self: Femme Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性侏儒](Disguise_Self_colon__Femme_Gnome.md "Disguise Self: Femme Gnome") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性半精灵](Disguise_Self_colon__Femme_Half-Elf.md "Disguise Self: Femme Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：女性半兽人](Disguise_Self_colon__Femme_Half-Orc.md "Disguise Self: Femme Half-Orc") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性半身人](Disguise_Self_colon__Femme_Halfling.md "Disguise Self: Femme Halfling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性人类](Disguise_Self_colon__Femme_Human.md "Disguise Self: Femme Human") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮卓尔](Disguise_Self_colon__Femme_Strong_Drow.md "Disguise Self: Femme Strong Drow") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮精灵](Disguise_Self_colon__Femme_Strong_Elf.md "Disguise Self: Femme Strong Elf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮半精灵](Disguise_Self_colon__Femme_Strong_Half-Elf.md "Disguise Self: Femme Strong Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮人类](Disguise_Self_colon__Femme_Strong_Human.md "Disguise Self: Femme Strong Human") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性强壮提夫林](Disguise_Self_colon__Femme_Strong_Tiefling.md "Disguise Self: Femme Strong Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：女性提夫林](Disguise_Self_colon__Femme_Tiefling.md "Disguise Self: Femme Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性龙裔](Disguise_Self_colon__Masc_Dragonborn.md "Disguise Self: Masc Dragonborn") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性卓尔](Disguise_Self_colon__Masc_Drow.md "Disguise Self: Masc Drow") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性矮人](Disguise_Self_colon__Masc_Dwarf.md "Disguise Self: Masc Dwarf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性精灵](Disguise_Self_colon__Masc_Elf.md "Disguise Self: Masc Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性半身人](Disguise_Self_colon__Femme_Halfling.md "Disguise Self: Femme Halfling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性人类](Disguise_Self_colon__Femme_Human.md "Disguise Self: Femme Human") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮卓尔](Disguise_Self_colon__Femme_Strong_Drow.md "Disguise Self: Femme Strong Drow") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮精灵](Disguise_Self_colon__Femme_Strong_Elf.md "Disguise Self: Femme Strong Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮半精灵](Disguise_Self_colon__Femme_Strong_Half-Elf.md "Disguise Self: Femme Strong Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮人类](Disguise_Self_colon__Femme_Strong_Human.md "Disguise Self: Femme Strong Human") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性强壮提夫林](Disguise_Self_colon__Femme_Strong_Tiefling.md "Disguise Self: Femme Strong Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：女性提夫林](Disguise_Self_colon__Femme_Tiefling.md "Disguise Self: Femme Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性龙裔](Disguise_Self_colon__Masc_Dragonborn.md "Disguise Self: Masc Dragonborn") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性卓尔](Disguise_Self_colon__Masc_Drow.md "Disguise Self: Masc Drow") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性矮人](Disguise_Self_colon__Masc_Dwarf.md "Disguise Self: Masc Dwarf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性精灵](Disguise_Self_colon__Masc_Elf.md "Disguise Self: Masc Elf") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：男性吉斯洋基人](Disguise_Self_colon__Masc_Githyanki.md "Disguise Self: Masc Githyanki") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性侏儒](Disguise_Self_colon__Masc_Gnome.md "Disguise Self: Masc Gnome") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性半精灵](Disguise_Self_colon__Masc_Half-Elf.md "Disguise Self: Masc Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性侏儒](Disguise_Self_colon__Masc_Gnome.md "Disguise Self: Masc Gnome") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性半精灵](Disguise_Self_colon__Masc_Half-Elf.md "Disguise Self: Masc Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
 | [易容术：男性半兽人](Disguise_Self_colon__Masc_Half-Orc.md "Disguise Self: Masc Half-Orc") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性半身人](Disguise_Self_colon__Masc_Halfling.md "Disguise Self: Masc Halfling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性人类](Disguise_Self_colon__Masc_Human.md "Disguise Self: Masc Human") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮卓尔](Disguise_Self_colon__Masc_Strong_Drow.md "Disguise Self: Masc Strong Drow") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮精灵](Disguise_Self_colon__Masc_Strong_Elf.md "Disguise Self: Masc Strong Elf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮半精灵](Disguise_Self_colon__Masc_Strong_Half-Elf.md "Disguise Self: Masc Strong Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮人类](Disguise_Self_colon__Masc_Strong_Human.md "Disguise Self: Masc Strong Human") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性强壮提夫林](Disguise_Self_colon__Masc_Strong_Tiefling.md "Disguise Self: Masc Strong Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
-| [易容术：男性提夫林](Disguise_Self_colon__Masc_Tiefling.md "Disguise Self: Masc Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性半身人](Disguise_Self_colon__Masc_Halfling.md "Disguise Self: Masc Halfling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性人类](Disguise_Self_colon__Masc_Human.md "Disguise Self: Masc Human") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮卓尔](Disguise_Self_colon__Masc_Strong_Drow.md "Disguise Self: Masc Strong Drow") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮精灵](Disguise_Self_colon__Masc_Strong_Elf.md "Disguise Self: Masc Strong Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮半精灵](Disguise_Self_colon__Masc_Strong_Half-Elf.md "Disguise Self: Masc Strong Half-Elf") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮人类](Disguise_Self_colon__Masc_Strong_Human.md "Disguise Self: Masc Strong Human") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性强壮提夫林](Disguise_Self_colon__Masc_Strong_Tiefling.md "Disguise Self: Masc Strong Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
+| [伪装术：男性提夫林](Disguise_Self_colon__Masc_Tiefling.md "Disguise Self: Masc Tiefling") | 1 |  |  | 长休 | 自身 | - | - |
 | [诱捕绳索](Ensnaring_Strands.md "Ensnaring Strands") | 1 |  |  | 10 回合 | 1.5 米 / 5 英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws") | 1d10 + [力量调整值](Strength#Strength_modifier_chart.md#Strength_modifier_chart "Strength")⁠[挥砍](Slashing.md "Slashing") |
 | [诱捕打击（近战）](Ensnaring_Strike_(Melee).md "Ensnaring Strike (Melee)") | 1 |  |  | 10 回合 | 1.5 米 / 5 英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws") | 正常武器伤害 / 1d6⁠[穿刺](Piercing.md "Piercing") |
 | [诱捕攻击（远程）](Ensnaring_Strike_(Ranged).md "Ensnaring Strike (Ranged)") | 1 |  |  | 10 回合 | 18 米 / 60 英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws") | 正常武器伤害 / 1d6⁠[穿刺](Piercing.md "Piercing") |
@@ -168,7 +168,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [奴役恩赐](Boon_of_Servitude.md "Boon of Servitude") | 1 |  |  | 2 回合 | 18 米 / 60英尺 | - | - |
 | [悔恨诅咒](Curse_of_Regret.md "Curse of Regret") | 1 |  |  | 4 回合 | 16 米 / 53英尺 / 3米 / 10英尺 (半径) | [魅力](Charisma.md "Charisma") [豁免](Saving_throws.md "Saving throws") | 1d4 + 1⁠[心灵](Psychic.md "Psychic") |
-| [醉意龙卷](Drunken_Inhale.md "Drunken Inhale") | 1 |  |  | 1 回合 | 自身 / 5米 / 17英尺 (锥形) | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 4d8⁠[中毒](Poison.md "Poison") |
+| [醉意龙卷](Drunken_Inhale.md "Drunken Inhale") | 1 |  |  | 1 回合 | 自身 / 5米 / 17英尺 (锥形) | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 4d8⁠[毒素](Poison.md "Poison") |
 | [邪魔魅惑](Fiendish_Charm.md "Fiendish Charm") | 1 |  |  | 10 回合 | 18 米 / 60 英尺 | [感知](Wisdom.md "Wisdom") [豁免](Saving_throws.md "Saving throws") | - |
 | [墓地斥退](Grave_Repulsion.md "Grave Repulsion") | 1 |  |  | - | 1.5 米 / 5 英尺 / 5米 / 17英尺 (立方体) | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 3d8⁠[黯蚀](Necrotic.md "Necrotic") |
 | [地狱火诅咒](Hellfire_Curse.md "Hellfire Curse") | 1 |  |  | 3 回合 | 9 米 / 30英尺 / 6米 / 20英尺 (半径) | [感知](Wisdom.md "Wisdom") [豁免](Saving_throws.md "Saving throws") | - |

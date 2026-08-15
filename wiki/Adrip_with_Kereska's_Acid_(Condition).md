@@ -89,7 +89,7 @@
 [克雷斯卡的中毒容器](Vessel_for_Kereska's_Poison_(Condition).md "克雷斯卡的中毒容器 (状态)")
 |
 
-- 受影响实体对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+- 受影响实体对[毒素](Poison.md "毒素")伤害具有[抗性](Resistance.md "抗性")。
 - 其中毒法术造成的伤害等于其[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 - 当其造成法术伤害时，对目标施加2回合的[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 - 当与克雷斯卡的中毒调谐时，它可以在一次[短休](Short_Rest.md "短休")内以5级施放一次[死云术](Cloudkill.md "死云术")和[疾病射线](Ray_of_Sickness.md "疾病射线")。
