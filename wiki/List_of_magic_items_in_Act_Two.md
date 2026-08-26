@@ -6,19 +6,19 @@
 
 - [1 营地](#营地)
 - [2 废弃战场](#废弃战场)
-- [3 最后之光旅店](#最后之光旅店)
-- [4 雷斯文镇](#雷斯文镇)
-- [5 莎尔铁手神殿](#gauntlet-of-shar)
-- [6 影界](#shadowfell)
-- [7 月出之塔](#moonrise-towers)
-- [8 夺心魔殖民地](#mind-flayer-colony)
+- [3 终焉光芒旅店](#终焉光芒旅店)
+- [4 雷斯文小镇](#雷斯文小镇)
+- [5 莎尔铁手神殿](#莎尔铁手神殿)
+- [6 堕影冥界](#堕影冥界)
+- [7 月出之塔](#月出之塔)
+- [8 夺心魔殖民地](#夺心魔殖民地)
 
 ## 营地
 
 | 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| 詹尼尔的手套 | 当穿戴者陷入[目盲](Blinded_(Condition).md "目盲 (状态)")、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")时，会自动对自己施放[恢复](Lesser_Restoration.md "恢复")。[豁免检定](Saving_throw.md "豁免检定") +1 | 如果伊莎贝尔加入营地，则由她穿戴 | [营地（第二幕）](Campsite_(Act_Two).md "营地（第二幕）") |
-| 奉献皎月长袍 | 当穿戴者拥有[法师护甲](Mage_Armour_(Condition).md "法师护甲 (状态)")时，每次成功的[豁免检定](Saving_throw.md "豁免检定")会使豁免检定的来源受到1-4⁠⁠[光耀](Radiant.md "光耀")伤害。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[豁免检定](Saving_throw.md "豁免检定") +1 [月光壁垒](Lunar_Bulwark.md "月光壁垒") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[燃火术](Produce_Flame.md "燃火术") 随意施放为戏法。 | 作为[营地随从](Camp_Follower.md "营地随从")的伊莎贝尔穿戴 | [营地（第二幕）](Campsite_(Act_Two).md "营地（第二幕）") |
+| 詹尼尔的手套 | 当穿戴者陷入[目盲](Blinded_(Condition).md "目盲 (状态)")、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")时，会自动对自己施放[次级复原术](Lesser_Restoration.md "次级复原术")。[豁免检定](Saving_throw.md "豁免检定") +1 | 如果伊索贝尔加入营地，则由她穿戴 | [营地（第二幕）](Campsite_(Act_Two).md "营地（第二幕）") |
+| 奉献皎月长袍 | 当穿戴者拥有[魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")时，每次成功的[豁免检定](Saving_throw.md "豁免检定")会使豁免检定的来源受到1-4⁠⁠[光耀](Radiant.md "光耀")伤害。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[豁免检定](Saving_throw.md "豁免检定") +1 [月光壁垒](Lunar_Bulwark.md "月光壁垒") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[燃火术](Produce_Flame.md "燃火术") 随意施放为戏法。 | 作为[营地随从](Camp_Follower.md "营地随从")的伊索贝尔穿戴 | [营地（第二幕）](Campsite_(Act_Two).md "营地（第二幕）") |
 | 幽影之刃戒指 | [破影利刃](Shadow_Blade.md "破影利刃") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 完成任务[找到阿拉贝尔的父母](Find_Arabella's_Parents.md "找到阿拉贝尔的父母")后由[阿拉贝尔](Arabella.md "阿拉贝尔")奖励 | [营地（第二幕）](Campsite_(Act_Two).md "营地（第二幕）") |
 
 ## 废弃战场
@@ -58,7 +58,7 @@ X: -49 Y: 36
 [发光手套](Luminous_Gloves.md "发光手套")
 |
 
-- 当穿戴者造成⁠[光耀](Radiant.md "光耀")伤害时，目标会获得2回合的[光耀灵光](Radiating_Orb_(Condition).md "光耀灵光 (状态)")。
+- 当穿戴者造成⁠[光耀](Radiant.md "光耀")伤害时，目标会获得2回合的[光耀法球](Radiating_Orb_(Condition).md "光耀法球 (状态)")。
 
 - [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1
 
@@ -71,24 +71,24 @@ X: -52 Y: 11
 
 | 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| 阴影之戒 | [行动无踪](Pass_Without_Trace.md "行动无踪") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） | 由[奥利弗](Oliver.md "奥利弗")奖励，无论输赢，与他玩完两轮捉迷藏 | [深影之家](House_in_Deep_Shadows.md "深影之家") X: 76 Y: 37 |
+| 暗影之戒 | [行动无踪](Pass_Without_Trace.md "行动无踪") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） | 由[奥利弗](Oliver.md "奥利弗")奖励，无论输赢，与他玩完两轮捉迷藏 | [深影之家](House_in_Deep_Shadows.md "深影之家") X: 76 Y: 37 |
 | 精神抑制之戒 | 当敌人对抗你的法术或动作的[豁免检定](Saving_throw.md "豁免检定")失败时，他们获得2回合的[精神疲劳](Mental_Fatigue_(Condition).md "精神疲劳 (状态)")。 | 在一个上锁的箱子中，位于影境战场[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")东边 | [深影之家](House_in_Deep_Shadows.md "深影之家") X: 76 Y: 40 |
 | 严厉之锤的薄雾护符 | [云雾术](Fog_Cloud.md "云雾术") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 在一个上锁的箱子中，藏于[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")征税所东边一座废墟房屋内 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: -12 Y: -7 |
 | 暮光戒指 | 当处于[遮蔽](Obscured.md "遮蔽")状态时，你获得+1的[护甲等级](Armour_Class.md "护甲等级")加值。 | 在一个旅行者的箱子中，藏于一座废墟塔楼内的罐子后面 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: -34 Y: -12 |
 | 蔽影戒指 | 穿戴者的武器和徒手攻击对[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)")的生物，以及由阴影构成的生物，造成额外的1d4点伤害。 | 由废墟陶器北边被诅咒营地中的[幽影獒犬首领](Shadow_Mastiff_Alpha.md "幽影獒犬首领")携带 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: -49 Y: 36 |
-| 辉光手套 | 当穿戴者造成⁠[光耀](Radiant.md "光耀")伤害时，目标会获得2回合的[光耀灵光](Radiating_Orb_(Condition).md "光耀灵光 (状态)")。[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 | 在陶匠的箱子中 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: -52 Y: 11 |
+| 辉光手套 | 当穿戴者造成⁠[光耀](Radiant.md "光耀")伤害时，目标会获得2回合的[光耀法球](Radiating_Orb_(Condition).md "光耀法球 (状态)")。[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 | 在陶匠的箱子中 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: -52 Y: 11 |
 | 黑缕盾牌 | [隐匿](Stealth.md "隐匿") +1 | 在一个上锁的旅行者箱子中，位于[雷斯文征税所](Reithwin_Tollhouse.md "雷斯文征税所")对面码头，半毁木桥旁。箱子可用[钥匙（雷斯文征税所）](Key_(Reithwin_Tollhouse).md "钥匙（雷斯文征税所）")打开。 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: -60 Y: -114 |
 | 月亮提灯 |  | 由[卡'尼斯](Kar'niss.md "卡'尼斯")携带，无论是在竖琴手伏击后还是在[月出之塔](Moonrise_Towers.md "月出之塔")顶部 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 0 Y: -15 |
 | 残酷之刺 | [卓尔](Drow.md "卓尔")使用此武器时，对[束缚](Restrained_(Condition).md "束缚 (状态)")目标造成额外1d4⁠⁠[中毒](Poison.md "中毒")伤害。[诱捕绳索](Ensnaring_Strands.md "诱捕绳索") 施放为1环法术（充能：[短休](Short_rest.md "短休")。） | 由[卡'尼斯](Kar'niss.md "卡'尼斯")携带 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 0 Y: -15 |
-| 奥术热能手套 | 每当你造成⁠[火焰](Fire.md "火焰")伤害时，你获得2回合的[热能](Heat_(Condition).md "热能 (状态)")。 | 由[坎希夫](Kansif.md "坎希夫")穿戴，无论是在邪教徒营地还是竖琴手伏击后 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 100 Y: -54 |
+| 奥术灼热手套 | 每当你造成⁠[火焰](Fire.md "火焰")伤害时，你获得2回合的[灼热](Heat_(Condition).md "灼热 (状态)")。 | 由[坎希夫](Kansif.md "坎希夫")穿戴，无论是在邪教徒营地还是竖琴手伏击后 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 100 Y: -54 |
 | 家族之戒 | [死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定") +2 | 在一个洞穴中，艾莉·梅的坟墓和营地下方的悬崖下 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 108 Y: 128 |
 | 渡鸦手套 | [召唤渡鸦科斯](Summon_Quothe_the_Raven.md "召唤渡鸦科斯") 召唤渡鸦使魔，可用鸟喙使敌人目盲。（充能：[短休](Short_rest.md "短休")。） | 由[往日身影](He_Who_Was.md "往日身影")奖励，完成任务[惩罚邪恶](Punish_the_Wicked.md "惩罚邪恶") | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 126 Y: 106 |
-| 自我献祭 | [自我献祭](Self_Immolation.md "自我献祭") 点燃自己以获得[热能](Heat_(Condition).md "热能 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 在一个上锁的木箱中，位于[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")伏击点北边的塔楼内 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 29 Y: 63 |
+| 自我献祭 | [自我献祭](Self_Immolation.md "自我献祭") 点燃自己以获得[灼热](Heat_(Condition).md "灼热 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 在一个上锁的木箱中，位于[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")伏击点北边的塔楼内 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 29 Y: 63 |
 | 半影护甲 | 当处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者获得+3的[隐匿](Stealth.md "隐匿")检定加值 | 在一个上锁的华丽箱子中，位于[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")东边河边废弃房屋内 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 33 Y: 145 |
 | 铁木棍 | 当对武器施放[橡棍术](Shillelagh.md "橡棍术")时，获得[铁木和谐](Ironwood_Harmony_(Condition).md "铁木和谐 (状态)")（+1d4挥砍伤害）。 | 由[幽影诅咒蔓生怪](Shadow-Cursed_Shambling_Mound.md "幽影诅咒蔓生怪")携带 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 40 Y: 60 |
 | 冰霜王子 | [冰刃术](Ice_Knife.md "冰刃术") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 在一个镀金箱子中，位于东南方，靠近[幽影诅咒枯针怪](Shadow-Cursed_Needle_Blight.md "幽影诅咒枯针怪")和[幽影诅咒枯藤怪](Shadow-Cursed_Vine_Blight.md "幽影诅咒枯藤怪")的伏击点 | [废弃战场](Ruined_Battlefield.md "废弃战场") X: 80 Y: -96 |
 
-## 最后之光旅店
+## 终焉光芒旅店
 
 - 当受到⁠[挥砍](Slashing.md "挥砍")、⁠[穿刺](Piercing.md "穿刺")或⁠[钝击](Bludgeoning.md "钝击")伤害时，获得**2**回合的[力场导管](Force_Conduit_(Condition).md "力场导管 (状态)")。
 
@@ -121,7 +121,7 @@ X: -28 Y: 170
 - 获得对⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。
 
 [盾牌猛击](Shield_Blow.md "盾牌猛击")
-当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒地](Prone_(Condition).md "倒地 (状态)")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。
+当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。
 
 [火热复仇](Blazing_Retaliation.md "火热复仇")
 蜷缩在盾牌后，使你的[护甲等级](Armour_Class.md "护甲等级")提高1点，并对未命中你的攻击进行灼热反击。（充能：[短休](Short_rest.md "短休")。）
@@ -132,7 +132,7 @@ X: -3 Y: 215
 
 - 当进行回合的第一次攻击时，你可以将此武器的附魔降低1点，以使你的[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")加值提高1点。
 
-| 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店") |
+| 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店") |
 X: -31 Y: 130
 [辉耀法杖](Incandescent_Staff.md "辉耀法杖")
 |
@@ -143,7 +143,7 @@ X: -31 Y: 130
 [火焰箭](Fire_Bolt.md "火焰箭") 随意施放为戏法。
 
 [火球术](Fireball.md "火球术") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。）
-| 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
+| 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -31 Y: 130
 [竖琴手护符](Amulet_of_the_Harpers.md "竖琴手护符")
 |
@@ -151,7 +151,7 @@ X: -31 Y: 130
 - [感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 [护盾术](Shield_(spell).md "护盾术") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）
-| 由[军需官塔利](Quartermaster_Talli.md "军需官塔利")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
+| 由[军需官塔利](Quartermaster_Talli.md "军需官塔利")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -31 Y: 130
 [树肤护甲](Barkskin_Armour.md "树肤护甲")
 |
@@ -166,7 +166,7 @@ X: -31 Y: 130
 |
 
 [防箭术](Protection_from_Missiles.md "防箭术") 施放为2环法术（充能：[短休](Short_rest.md "短休")。）
-| 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
+| 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -31 Y: 130
 [守护披风](Cloak_of_Protection.md "守护披风")
 |
@@ -174,19 +174,19 @@ X: -31 Y: 130
 - [护甲等级](Armour_Class.md "护甲等级") +1
 - [豁免检定](Saving_throw.md "豁免检定") +1
 
-| 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
+| 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -31 Y: 130
 [平衡手套](Gloves_of_the_Balanced_Hands.md "平衡手套")
 |
 
 - 当你进行副手攻击时，你可以将你的[属性调整值](Ability_score_modifier.md "属性调整值")添加到攻击伤害中。
 
-| 由[军需官塔利](Talli.md "Talli")在最后之光旅店[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
+| 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -31 Y: 130
 [不羁库席戈之帽](Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽")
 |
 
-- 在徒手攻击造成伤害后，穿戴者在其回合结束前获得+1的[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值。
+- 在徒手攻击造成伤害后，穿戴者在其回合结束前获得+1的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")加值。
 
 | 由[军需官塔利](Talli.md "Talli")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -31 Y: 130
@@ -197,7 +197,7 @@ X: -31 Y: 130
 
 - 获得对⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。
 
-| 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
+| 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -31 Y: 130
 [阴影依附护甲](Shadeclinger_Armour.md "阴影依附护甲")
 |
@@ -214,10 +214,10 @@ X: -31 Y: 130
 - 你获得1个[1环法术位](Spells.md#Spell_slots "法术")。
 
 [盾牌猛击](Shield_Blow.md "盾牌猛击")
-当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒地](Prone_(Condition).md "倒地 (状态)")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。
+当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。
 
 [奉献之盾：协助](Shield_of_Devotion_colon__Aid.md "奉献之盾：协助") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。）
-| 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
+| 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -31 Y: 130
 [力量布衣](The_Mighty_Cloth.md "力量布衣")
 |
@@ -226,7 +226,7 @@ X: -31 Y: 130
 - 你无法被违背意愿地推动，并且在对抗[束缚](Restrained_(Condition).md "束缚 (状态)")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 
 [公牛冲锋](Bull_Rush.md "公牛冲锋") (+ ) 向前冲锋，可能将敌人击退3米/10英尺。（充能：每回合。）
-| 由[军需官塔利](Talli.md "Talli")在最后之光旅店[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
+| 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -31 Y: 130
 [蛇人鳞甲](Yuan-Ti_Scale_Mail.md "蛇人鳞甲")
 |
@@ -289,7 +289,7 @@ X: -33 Y: 164
 [热力之斧](Thermodynamo_Axe.md "热力之斧")
 |
 
-- 每当你用此武器造成伤害时，你获得2回合的[热能](Heat_(Condition).md "热能 (状态)")。
+- 每当你用此武器造成伤害时，你获得2回合的[灼热](Heat_(Condition).md "灼热 (状态)")。
 
 | 由[戴摩](Dammon.md "Dammon")在[第二幕](Act_Two.md "第二幕")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -33 Y: 164
@@ -379,16 +379,16 @@ X: -56 Y: 141
 [詹尼尔的手套](Jhannyl's_Gloves.md "詹尼尔的手套")
 |
 
-- 当穿戴者陷入[目盲](Blinded_(Condition).md "目盲 (状态)")、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")时，会自动对自己施放[恢复](Lesser_Restoration.md "恢复")。
+- 当穿戴者陷入[目盲](Blinded_(Condition).md "目盲 (状态)")、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")时，会自动对自己施放[次级复原术](Lesser_Restoration.md "次级复原术")。
 
 - [豁免检定](Saving_throw.md "豁免检定") +1
 
-| 如果伊莎贝尔在处理[暗夜之歌](Aylin.md "暗夜之歌")后但在完成对月出之塔的进攻前被杀，则由她穿戴 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
+| 如果伊索贝尔在处理[暗夜之歌](Aylin.md "暗夜之歌")后但在完成对月出之塔的进攻前被杀，则由她穿戴 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -60 Y: 158
 [奉献皎月长袍](Moon_Devotion_Robe.md "奉献皎月长袍")
 |
 
-- 当穿戴者拥有[法师护甲](Mage_Armour_(Condition).md "法师护甲 (状态)")时，每次成功的[豁免检定](Saving_throw.md "豁免检定")会使豁免检定的来源受到1-4⁠⁠[光耀](Radiant.md "光耀")伤害。
+- 当穿戴者拥有[魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")时，每次成功的[豁免检定](Saving_throw.md "豁免检定")会使豁免检定的来源受到1-4⁠⁠[光耀](Radiant.md "光耀")伤害。
 
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
@@ -413,19 +413,19 @@ X: -63 Y: 163
 | 森林弯刀 | 受影响实体将其[施法关键属性](Ability_scores#Spellcasting_ability.md#施法关键属性 "属性")调整值添加到[攻击检定](Attack_roll.md "攻击检定")中，而非其敏捷[调整值](Ability_scores#Ability_score_modifiers.md#属性调整值 "属性调整值")。 | 由[贾希拉](Jaheira.md "贾希拉")携带 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -28 Y: 129 |
 | 火焰敏锐之帽 | 每当你造成⁠[火焰](Fire.md "火焰")伤害时，你获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")2回合。 | 由[古怪公牛](Strange_Ox.md "古怪公牛")在[戴摩](Dammon.md "戴摩")铁匠铺携带（第二幕） | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -28 Y: 170 |
 | 变形者的恩赐之戒 | 当变形或伪装自己时，所有[属性检定](Ability_Check.md "属性检定")获得+1d4加值。 | 由[古怪公牛](Strange_Ox.md "古怪公牛")在[戴摩](Dammon.md "戴摩")铁匠铺携带 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -28 Y: 170 |
-| 灼热复仇盾牌 | 获得对⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒地](Prone_(Condition).md "倒地 (状态)")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。[火热复仇](Blazing_Retaliation.md "火热复仇") 蜷缩在盾牌后，使你的[护甲等级](Armour_Class.md "护甲等级")提高1点，并对未命中你的攻击进行灼热反击。（充能：[短休](Short_rest.md "短休")。） | 在北桥外“露天坟墓”正东边一个被埋的[焰拳](Flaming_Fist.md "焰拳")尸体上 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -3 Y: 215 |
-| 守卫者巨斧 | 当进行回合的第一次攻击时，你可以将此武器的附魔降低1点，以使你的[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")加值提高1点。 | 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
-| 辉耀法杖 | 远程[法术攻击](Spell_Attack.md "法术攻击") +1 对⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性") [火焰箭](Fire_Bolt.md "火焰箭") 随意施放为戏法。 [火球术](Fireball.md "火球术") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
-| 竖琴手护符 | [感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[护盾术](Shield_(spell).md "护盾术") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 由[军需官塔利](Quartermaster_Talli.md "军需官塔利")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 灼热复仇盾牌 | 获得对⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。[火热复仇](Blazing_Retaliation.md "火热复仇") 蜷缩在盾牌后，使你的[护甲等级](Armour_Class.md "护甲等级")提高1点，并对未命中你的攻击进行灼热反击。（充能：[短休](Short_rest.md "短休")。） | 在北桥外“露天坟墓”正东边一个被埋的[焰拳](Flaming_Fist.md "焰拳")尸体上 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -3 Y: 215 |
+| 守卫者巨斧 | 当进行回合的第一次攻击时，你可以将此武器的附魔降低1点，以使你的[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")加值提高1点。 | 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 辉耀法杖 | 远程[法术攻击](Spell_Attack.md "法术攻击") +1 对⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性") [火焰箭](Fire_Bolt.md "火焰箭") 随意施放为戏法。 [火球术](Fireball.md "火球术") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 竖琴手护符 | [感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[护盾术](Shield_(spell).md "护盾术") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 由[军需官塔利](Quartermaster_Talli.md "军需官塔利")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
 | 树肤护甲 | 你被赋予了土地上草地和森林的力量，并具有[树肤术](Barkskin_(Condition).md "树肤术 (状态)")的效果，将你的[护甲等级](Armour_Class.md "护甲等级")提高至16。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 由[军需官塔利](Talli.md "Talli")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
-| 飞灰手套 | [防箭术](Protection_from_Missiles.md "防箭术") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
-| 守护披风 | [护甲等级](Armour_Class.md "护甲等级") +1 [豁免检定](Saving_throw.md "豁免检定") +1 | 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
-| 平衡手套 | 当你进行副手攻击时，你可以将你的[属性调整值](Ability_score_modifier.md "属性调整值")添加到攻击伤害中。 | 由[军需官塔利](Talli.md "Talli")在最后之光旅店[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
-| 不羁库席戈之帽 | 在徒手攻击造成伤害后，穿戴者在其回合结束前获得+1的[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值。 | 由[军需官塔利](Talli.md "Talli")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
-| 黑曜石花边长袍 | 当成功对抗敌人[法术](Spell.md "法术")的[豁免检定](Saving_throw.md "豁免检定")时，对其造成1d4 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")⁠⁠[火焰](Fire.md "火焰")伤害。获得对⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。 | 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 飞灰手套 | [防箭术](Protection_from_Missiles.md "防箭术") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 守护披风 | [护甲等级](Armour_Class.md "护甲等级") +1 [豁免检定](Saving_throw.md "豁免检定") +1 | 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 平衡手套 | 当你进行副手攻击时，你可以将你的[属性调整值](Ability_score_modifier.md "属性调整值")添加到攻击伤害中。 | 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 不羁库席戈之帽 | 在徒手攻击造成伤害后，穿戴者在其回合结束前获得+1的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")加值。 | 由[军需官塔利](Talli.md "Talli")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 黑曜石花边长袍 | 当成功对抗敌人[法术](Spell.md "法术")的[豁免检定](Saving_throw.md "豁免检定")时，对其造成1d4 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")⁠⁠[火焰](Fire.md "火焰")伤害。获得对⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。 | 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
 | 阴影依附护甲 | 当处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者在[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。[隐匿](Stealth.md "隐匿") +1 | 由[军需官塔利](Talli.md "Talli")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
-| 奉献之盾 | 你获得1个[1环法术位](Spells#Spell_slots.md#法术位 "法术")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒地](Prone_(Condition).md "倒地 (状态)")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。[奉献之盾：协助](Shield_of_Devotion_colon__Aid.md "奉献之盾：协助") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[军需官塔利](Talli.md "Talli")在最后之光旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
-| 力量布衣 | 你获得[牛之蛮力](Bull's_Strength.md "牛之蛮力")并将你的[力量](Strength.md "力量")提高2点，最高不超过20点。你无法被违背意愿地推动，并且在对抗[束缚](Restrained_(Condition).md "束缚 (状态)")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。[公牛冲锋](Bull_Rush.md "公牛冲锋") ( + ) 向前冲锋，可能将敌人击退3米/10英尺。（充能：每回合。） | 由[军需官塔利](Talli.md "Talli")在最后之光旅店[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 奉献之盾 | 你获得1个[1环法术位](Spells#Spell_slots.md#法术位 "法术")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非他们通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。[奉献之盾：协助](Shield_of_Devotion_colon__Aid.md "奉献之盾：协助") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店传送点附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
+| 力量布衣 | 你获得[牛之蛮力](Bull's_Strength.md "牛之蛮力")并将你的[力量](Strength.md "力量")提高2点，最高不超过20点。你无法被违背意愿地推动，并且在对抗[束缚](Restrained_(Condition).md "束缚 (状态)")的[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。[公牛冲锋](Bull_Rush.md "公牛冲锋") ( + ) 向前冲锋，可能将敌人击退3米/10英尺。（充能：每回合。） | 由[军需官塔利](Talli.md "Talli")在终焉光芒旅店[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
 | 蛇人鳞甲 | 将你的敏捷[属性调整值](Ability_Modifier.md "属性调整值")完全添加到你的[护甲等级](Armour_Class.md "护甲等级")中。此外，此护甲不会对潜行[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。获得+1的[先攻](Initiative.md "先攻")加值。 | 由[军需官塔利](Talli.md "Talli")在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")附近出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -31 Y: 130 |
 | 风琴长戟 | [力量](Strength.md "力量") +2（最高23）[智力](Intelligence.md "智力") -1[感知](Wisdom.md "感知") -1 | 由[戴摩](Dammon.md "Dammon")在[第二幕](Act_Two.md "第二幕")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 阴影之握 | [浸影打击](Shadowsoaked_Blow.md "浸影打击") 攻击敌人，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")添加到伤害中。此外，如果攻击命中，会造成额外1d6⁠⁠[心灵](Psychic.md "心灵")伤害。此攻击不会打破隐蔽。（充能：[短休](Short_rest.md "短休")。） | 由[戴摩](Dammon.md "Dammon")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
@@ -433,7 +433,7 @@ X: -63 Y: 163
 | 黑火短弓 | 对⁠[火焰](Fire.md "火焰")伤害的[抗性](Damage_Types#Resistance.md#抗性 "伤害类型")。对⁠[寒冷](Cold.md "寒冷")伤害的[抗性](Damage_Types#Resistance.md#抗性 "伤害类型")。[加速术](Haste.md "加速术") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[戴摩](Dammon.md "Dammon")在[第二幕](Act_Two.md "第二幕")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 偷生之剑 | 在[重击](Critical_Hit.md "重击")时，目标会受到额外10⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源附加")伤害，只要它不是构装体或亡灵。你还会获得10点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 | 由[戴摩](Dammon.md "Dammon")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 荆棘之刃 | 当处于[专注](Concentration.md "专注")状态时，你的近战武器攻击造成额外1d4⁠⁠[中毒](Poison.md "中毒")伤害。[诱捕打击（近战）](Ensnaring_Strike_(Melee).md "诱捕打击（近战）") ( + ) 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 由[戴摩](Dammon.md "Dammon")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
-| 热力之斧 | 每当你用此武器造成伤害时，你获得2回合的[热能](Heat_(Condition).md "热能 (状态)")。 | 由[戴摩](Dammon.md "Dammon")在[第二幕](Act_Two.md "第二幕")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
+| 热力之斧 | 每当你用此武器造成伤害时，你获得2回合的[灼热](Heat_(Condition).md "灼热 (状态)")。 | 由[戴摩](Dammon.md "Dammon")在[第二幕](Act_Two.md "第二幕")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 残缺的黯狱护甲 | 当2米（7英尺）内的敌人击中你时，它可能会受到1d4⁠⁠[火焰](Fire.md "火焰")伤害。你受到的⁠[穿刺](Piercing.md "穿刺")伤害减少1点。 | 由[戴摩](Dammon.md "Dammon")打造 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 残缺的黯狱手套 | 你的武器攻击造成额外1d4⁠⁠[火焰](Fire.md "火焰")伤害。你的徒手攻击造成额外1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害，并可能造成[流血](Bleeding_(Condition).md "流血 (状态)")。[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 | 由[戴摩](Dammon.md "Dammon")在给予他第三块[地狱铁](Infernal_Iron.md "地狱铁")后打造 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 残缺的黯狱头盔 | 持有者对抗法术的[豁免检定](Saving_throw.md "豁免检定")具有+2加值。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 | 由[戴摩](Dammon.md "Dammon")打造 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
@@ -444,14 +444,14 @@ X: -63 Y: 163
 | 诡诈之雾披风 | 当穿戴者[撤离](Disengage.md "撤离")时，他们还会制造一个半径2米/7英尺的雾云，持续1回合。 | 由[马蒂斯](Mattis.md "马蒂斯")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -56 Y: 141 |
 | 闪避鞋 | [体操](Acrobatics.md "体操") +1 [护甲等级](Armour_Class.md "护甲等级") +1 | 由[马蒂斯](Mattis.md "马蒂斯")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -56 Y: 141 |
 | 强效长袍 | 你的[戏法](Cantrip.md "戏法")造成相当于你的[魅力](Charisma.md "魅力")调整值的额外伤害。在穿戴者回合开始时，长袍激活，赋予其相当于其[魅力](Charisma.md "魅力")调整值的[临时生命值](Temporary_Hit_Points.md "临时生命值")。[护甲等级](Armour_Class.md "护甲等级") +1 | 成功完成⁠[解救提夫林](Rescue_the_Tieflings.md "解救提夫林")后由[阿尔菲拉](Alfira.md "阿尔菲拉")奖励 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -56 Y: 141 |
-| 詹尼尔的手套 | 当穿戴者陷入[目盲](Blinded_(Condition).md "目盲 (状态)")、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")时，会自动对自己施放[恢复](Lesser_Restoration.md "恢复")。[豁免检定](Saving_throw.md "豁免检定") +1 | 如果伊莎贝尔在处理[暗夜之歌](Aylin.md "暗夜之歌")后但在完成对月出之塔的进攻前被杀，则由她穿戴 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -60 Y: 158 |
-| 奉献皎月长袍 | 当穿戴者拥有[法师护甲](Mage_Armour_(Condition).md "法师护甲 (状态)")时，每次成功的[豁免检定](Saving_throw.md "豁免检定")会使豁免检定的来源受到1-4⁠⁠[光耀](Radiant.md "光耀")伤害。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[豁免检定](Saving_throw.md "豁免检定") +1 [月光壁垒](Lunar_Bulwark.md "月光壁垒") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[燃火术](Produce_Flame.md "燃火术") 随意施放为戏法。 | 由[伊索贝尔](Isobel.md "Isobel")在处理[暗夜之歌](Aylin.md "暗夜之歌")后但在完成对[月出之塔](Moonrise_Towers.md "月出之塔")的进攻前穿戴 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -60 Y: 158 |
+| 詹尼尔的手套 | 当穿戴者陷入[目盲](Blinded_(Condition).md "目盲 (状态)")、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")时，会自动对自己施放[次级复原术](Lesser_Restoration.md "次级复原术")。[豁免检定](Saving_throw.md "豁免检定") +1 | 如果伊索贝尔在处理[暗夜之歌](Aylin.md "暗夜之歌")后但在完成对月出之塔的进攻前被杀，则由她穿戴 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -60 Y: 158 |
+| 奉献皎月长袍 | 当穿戴者拥有[魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")时，每次成功的[豁免检定](Saving_throw.md "豁免检定")会使豁免检定的来源受到1-4⁠⁠[光耀](Radiant.md "光耀")伤害。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[豁免检定](Saving_throw.md "豁免检定") +1 [月光壁垒](Lunar_Bulwark.md "月光壁垒") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[燃火术](Produce_Flame.md "燃火术") 随意施放为戏法。 | 由[伊索贝尔](Isobel.md "Isobel")在处理[暗夜之歌](Aylin.md "暗夜之歌")后但在完成对[月出之塔](Moonrise_Towers.md "月出之塔")的进攻前穿戴 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -60 Y: 158 |
 | 移形换影之戒指 | [隐形术](Invisibility_(spell).md "隐形术") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。）[朦胧术](Blur.md "朦胧术") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） | 由[马库斯·法尔戈](Marcus_Falgor.md "马库斯·法尔戈")穿戴 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -63 Y: 163 |
-| 月亮提灯 |  | 由[伊莎贝尔](Isobel_Thorm.md "伊莎贝尔·索姆")给予，如果让竖琴手拿走月亮提灯 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -63 Y: 172 |
+| 月亮提灯 |  | 由[伊索贝尔](Isobel_Thorm.md "伊索贝尔·索姆")给予，如果让竖琴手拿走月亮提灯 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -63 Y: 172 |
 | 雪爆戒指 | 当穿戴者造成⁠[寒冷](Cold.md "寒冷")伤害时，他们还会在目标周围制造一个半径4.5米（15英尺）的[冰面](Ice_(surface).md "冰面 (表面)")。 | 酒吧北边卧室地板上一块松动的木板内 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -80 Y: 158 |
-| 闪光戒指 | 当穿戴者在光源照射下造成法术伤害时，他们还会对目标施加2回合的[光耀灵光](Radiating_Orb_(Condition).md "光耀灵光 (状态)")。 | 在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")地窖中一个有陷阱的重箱中 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: 44 Y: -734 |
+| 闪光戒指 | 当穿戴者在光源照射下造成法术伤害时，他们还会对目标施加2回合的[光耀法球](Radiating_Orb_(Condition).md "光耀法球 (状态)")。 | 在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")地窖中一个有陷阱的重箱中 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: 44 Y: -734 |
 
-## 雷斯文镇
+## 雷斯文小镇
 
 - 在近战中施放[法术](Spells.md "法术")后，你获得8点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
@@ -469,95 +469,95 @@ X: -193 Y: 9
 - 每当你造成⁠[中毒](Poison.md "中毒")伤害时，目标需要通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁
 
 
-## 莎尔的试炼
+## 莎尔铁手神殿
 
-[Restore Bardic Inspiration](Restore_Bardic_Inspiration.md "Restore Bardic Inspiration")
-Play your instrument to restore one of your [Bardic Inspiration](Bardic_Inspiration_(resource).md) slots. (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| In a heavy chest in the room just north of [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") |
+[恢复诗人激励](Restore_Bardic_Inspiration.md "恢复诗人激励")
+演奏你的乐器以恢复1个[诗人激励](Bardic_Inspiration_(resource).md)槽位。（充能：[长休](Long_Rest.md "长休")。）
+| 在[尤格](Yurgir.md "尤格")北边房间的一个沉重箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") |
 X: -632 Y: -723
-[Hellfire Hand Crossbow](Hellfire_Hand_Crossbow.md "Hellfire Hand Crossbow")
+[地狱火手弩](Hellfire_Hand_Crossbow.md "地狱火手弩")
 |
 
-- Possibly inflict [Burning](Burning_(Condition).md "Burning (Condition)") when attacking while [Hiding](Hiding_(Condition).md "Hiding (Condition)") or [Invisible](Invisible_(Condition).md "Invisible (Condition)").
+- 在[隐蔽](Hiding_(Condition).md "隐蔽 (状态)")或[隐形](Invisible_(Condition).md "隐形 (状态)")状态下攻击时，可能使目标[燃烧](Burning_(Condition).md "燃烧 (状态)")。
 
-[Scorching Ray](Scorching_Ray.md "Scorching Ray")
-Cast as a level 3 spell (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Carried by [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") |
+[灼热射线](Scorching_Ray.md "灼热射线")
+施放为3环法术（充能：[短休](Short_rest.md "短休")。）
+| 由[尤格](Yurgir.md "尤格")携带 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") |
 X: -653 Y: -764
-| Item Name | Item Effect | Where to Find | Location |
+| 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| Boots of Brilliance | [Restore Bardic Inspiration](Restore_Bardic_Inspiration.md "Restore Bardic Inspiration") Play your instrument to restore one of your [Bardic Inspiration](Bardic_Inspiration_(resource).md "Bardic Inspiration (resource)") slots. ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a heavy chest in the room just north of [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -632 Y: -723 |
-| Hellfire Hand Crossbow | Possibly inflict [Burning](Burning_(Condition).md "Burning (Condition)") when attacking while [Hiding](Hiding_(Condition).md "Hiding (Condition)") or [Invisible](Invisible_(Condition).md "Invisible (Condition)"). [Scorching Ray](Scorching_Ray.md "Scorching Ray") Cast as a level 3 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -653 Y: -764 |
-| Merregon Halberd |  | Carried by the Merregons accompanying [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -658 Y: 753 |
-| Dark Justiciar Gauntlets | Your weapon attacks deal an additional 1d4⁠⁠[Necrotic](Necrotic.md "Necrotic") damage. [Strength](Strength.md "Strength") [Saving Throws](Saving_throw.md "Saving Throw") +1 | on a pile of boxes, near [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -660 Y: -760 |
-| Justiciar's Scimitar | If you attack with [Advantage](Advantage.md "Advantage"), you have a chance to [Blind](Blinded_(Condition).md "Blinded (Condition)") your target.[[See: Bugs](Shadow-Blinding#Bugs.md#Bugs "Shadow-Blinding")] You have [Advantage](Advantage.md "Advantage") on [Attack Rolls](Attack_roll.md "Attack Roll") against Lightly or Heavily Obscured targets when using this blade. [Shadowsoaked Blow](Shadowsoaked_Blow.md "Shadowsoaked Blow") Strike an enemy, adding your [proficiency bonus](Proficiency_Bonus.md "Proficiency bonus") to the damage. Moreover, if the attack hits, it deals an additional 1d6⁠⁠[Psychic](Psychic.md "Psychic") damage. This attack doesn't break concealment. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [Lyrthindor](Lyrthindor.md "Lyrthindor") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -713 Y: -732 |
-| Justiciar's Greatshield | [Advantage](Advantage.md "Advantage") on [Perception](Perception.md "Perception") [Ability checks](Ability_Check.md "Ability check"). [Darkness Cloak](Darkness_Cloak.md "Darkness Cloak") Create a cloud of magical darkness and immediately attempt to [Hide](Hiding_(Condition).md "Hiding (Condition)"). ( Recharge: [Short rest](Short_rest.md "Short rest").) [Shield Blow](Shield_Blow.md "Shield Blow") When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw"). | Carried by [Lyrthindor](Lyrthindor.md "Lyrthindor") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -713 Y: -732 |
-| Least Expected | While obscured in shadow, the wielder has a +1d4 bonus to their [ranged weapon attacks](Attacks#Attack_rolls.md#Attack_rolls "Attacks"). [Blinding Shot](Blinding_Shot.md "Blinding Shot") Weave the lost magic of the children of Deep Duerra into your shot and possibly [Blind](Blinded_(Condition).md "Blinded (Condition)") your target. ( Recharge: [Short rest](Short_rest.md "Short rest").) | In a gilded chest beyond the locked puzzle door | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -730 Y: -800 |
-| Dark Justiciar Half-Plate | While [obscured](Obscured.md "Obscured"), the wearer has [Advantage](Advantage.md "Advantage") on [Stealth Checks](Stealth.md "Stealth"). [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw"). [Shar's Aegis](Shar's_Aegis.md "Shar's Aegis") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Lying on the ground next to the altar where the [Spear of Night](Spear_of_Night.md "Spear of Night") rests, beyond the riddle door in the [Silent Library](Silent_Library.md "Silent Library") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -818 Y: -755 |
-| Spear of Night | If Shar allows it, use this spear to kill Nightsong. | On a shrine in the [Silent Library](Silent_Library.md "Silent Library"), beyond the riddle door | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -820 Y: -756 |
-| Callous Glow Ring | The wearer deals an additional 2 points of ⁠[Radiant](Radiant.md "Radiant")[[See: Bugs](Callous_Glow#Bugs.md#Bugs "Callous Glow")] damage against creatures that are illuminated. | In an opulent chest in the vault room near [Balthazar](Balthazar.md "Balthazar") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -821 Y: -752 |
-| Dark Justiciar Helmet | The wielder has a +1 bonus to [Saving throws](Saving_throw.md "Saving throw") against spells. While [obscured](Obscured.md "Obscured"), the number you need to roll a [Critical Hit](Critical_Hit.md "Critical Hit") while attacking is reduced by 1. This effect can stack. [Constitution](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1 | Inside a Gilded Chest behind the altar and beyond the riddle door in the [Silent Library](Silent_Library.md "Silent Library") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -822 Y: -753 |
-| Killer's Sweetheart | When you kill a creature, your next [Attack roll](Attack_roll.md "Attack roll") will be a [Critical Hit](Critical_Hit.md "Critical Hit"). Once spent, this effect refreshes after a [Long Rest](Long_Rest.md "Long Rest"). | On the ground where the shadow copy appearing next to the Brazier is defeated in the [Self-Same Trial](Self-Same_Trial.md "Self-Same Trial") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -833 Y: -729 |
-| Circle of Bones | Allied [undead](Undead.md "Undead") within 6 m (20 ft) are [Resistant](Resistant.md "Resistant") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Slashing](Slashing.md "Slashing"), and ⁠[Piercing](Piercing.md "Piercing") damage.[[See: Bugs](Undead_Ward#Bugs.md#Bugs "Undead Ward")] [Animate Dead](Animate_Dead.md "Animate Dead") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by [Balthazar](Balthazar.md "Balthazar"), at his altar | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -845 Y: -793 |
-| Item Name | Item Effect | Where to Find | Location |
+| 光辉之靴 | [恢复诗人激励](Restore_Bardic_Inspiration.md "恢复诗人激励") 演奏你的乐器以恢复1个[诗人激励](Bardic_Inspiration_(resource).md "诗人激励（资源）")槽位。（充能：[长休](Long_Rest.md "长休")。） | 在[尤格](Yurgir.md "尤格")北边房间的一个沉重箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -632 Y: -723 |
+| 地狱火手弩 | 在[隐蔽](Hiding_(Condition).md "隐蔽 (状态)")或[隐形](Invisible_(Condition).md "隐形 (状态)")状态下攻击时，可能使目标[燃烧](Burning_(Condition).md "燃烧 (状态)")。[灼热射线](Scorching_Ray.md "灼热射线") 施放为3环法术（充能：[短休](Short_rest.md "短休")。） | 由[尤格](Yurgir.md "尤格")携带 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -653 Y: -764 |
+| 梅雷贡长戟 |  | 由伴随[尤格](Yurgir.md "尤格")的梅雷贡们携带 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -658 Y: 753 |
+| 暗夜法官护手 | 你的武器攻击造成额外1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 | 在一堆箱子上，靠近[尤格](Yurgir.md "尤格") | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -660 Y: -760 |
+| 法官弯刀 | 以[优势](Advantage.md "优势")攻击时，你可能[目盲](Blinded_(Condition).md "目盲 (状态)")目标。[[见：错误](Shadow-Blinding#Bugs.md#Bugs "暗影遮目")] 使用此刃时，你对[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)")目标的[攻击检定](Attack_roll.md "攻击检定")具有[优势](Advantage.md "优势")。[浸影打击](Shadowsoaked_Blow.md "浸影打击") 打击一名敌人，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")加入伤害。此外，若攻击命中，则造成额外1d6⁠⁠[心灵](Psychic.md "心灵")伤害。此攻击不会打破隐蔽。（充能：[短休](Short_rest.md "短休")。） | 由[莱辛多尔](Lyrthindor.md "莱辛多尔")携带 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -713 Y: -732 |
+| 法官大盾 | [察觉](Perception.md "察觉")[属性检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。[黑暗斗篷](Darkness_Cloak.md "黑暗斗篷") 制造一团魔法黑暗，并立即尝试[隐蔽](Hiding_(Condition).md "隐蔽 (状态)")。（充能：[短休](Short_rest.md "短休")。）[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。 | 由[莱辛多尔](Lyrthindor.md "莱辛多尔")携带 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -713 Y: -732 |
+| 意料之外 | 处于阴影遮蔽时，持有者的[远程武器攻击](Attacks#Attack_rolls.md#Attack_rolls "攻击")获得+1d4加值。[致盲射击](Blinding_Shot.md "致盲射击") 将深杜拉之子的失落魔法编织进你的射击，可能[目盲](Blinded_(Condition).md "目盲 (状态)")目标。（充能：[短休](Short_rest.md "短休")。） | 在上了锁的谜题门后的一只镀金箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -730 Y: -800 |
+| 暗夜法官半身板甲 | 处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者的[隐匿](Stealth.md "隐匿")检定具有[优势](Advantage.md "优势")。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[莎尔神盾](Shar's_Aegis.md "莎尔神盾") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 平放在[莎尔铁手神殿](Silent_Library.md "莎尔铁手神殿")谜题门后、[暗夜之矛](Spear_of_Night.md "暗夜之矛")所在祭坛旁的地面上 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -818 Y: -755 |
+| 暗夜之矛 | 如果莎尔允许，用此矛击杀暗夜之歌。 | 在谜题门后[莎尔铁手神殿](Silent_Library.md "莎尔铁手神殿")的一座神龛上 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -820 Y: -756 |
+| 无情光芒之戒 | 穿戴者对处于光照下的生物造成额外2点⁠[光耀](Radiant.md "光耀")[[见：错误](Callous_Glow#Bugs.md#Bugs "冷酷光芒")]伤害。 | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")附近金库房间的一只华丽箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -821 Y: -752 |
+| 暗夜法官头盔 | 持有者对抗法术的[豁免检定](Saving_throw.md "豁免检定")获得+1加值。处于[遮蔽](Obscured.md "遮蔽")状态时，攻击时[重击](Critical_Hit.md "重击")所需的骰值减1。此效果可叠加。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 | 在[莎尔铁手神殿](Silent_Library.md "莎尔铁手神殿")谜题门后、祭坛后面的一只镀金箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -822 Y: -753 |
+| 屠夫的甜心 | 当你击杀一个生物时，你的下一次[攻击检定](Attack_roll.md "攻击检定")必定为[重击](Critical_Hit.md "重击")。消耗后，此效果在[长休](Long_Rest.md "长休")后刷新。 | 在[莎尔铁手神殿](Self-Same_Trial.md "莎尔铁手神殿")中，火盆旁被击败的阴影复制体所在地的地面上 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -833 Y: -729 |
+| 骸骨饰环 | 6米（20英尺）内的友方[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害拥有[抗性](Resistant.md "抗性").[[见：错误](Undead_Ward#Bugs.md#Bugs "防护不死生物")] [操纵死尸](Animate_Dead.md "操纵死尸") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[巴萨扎尔](Balthazar.md "巴萨扎尔")携带，在其祭坛处 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -845 Y: -793 |
+| 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| Dark Justiciar Helm | While [Obscured](Obscured.md "Obscured") by shadow, the wearer gains +1 to [Saving throws](Saving_throw.md "Saving throw") when attacked.[[See: Bugs](Swathed_in_Shadow#Bugs.md#Bugs "Swathed in Shadow")] [Constitution](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1 | On the ground next to another skeleton in the [Nightsong's Prison](Shadowfell.md "Shadowfell") | [Shadowfell](Shadowfell.md "Shadowfell") X: -516 Y: -1397 |
-| Dark Justiciar Helm | While [Obscured](Obscured.md "Obscured") by shadow, the wearer gains +1 to [Saving throws](Saving_throw.md "Saving throw") when attacked.[[See: Bugs](Swathed_in_Shadow#Bugs.md#Bugs "Swathed in Shadow")] [Constitution](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1 | On the ground next to a skeleton in the [Nightsong's Prison](Shadowfell.md "Shadowfell") | [Shadowfell](Shadowfell.md "Shadowfell") X: -544 Y: -1447 |
-| Moonlight Glaive | This object shines with a glowing light in a radius of ⁠6 m / 20 ft. [Moonlight Butterflies](Moonlight_Butterflies.md "Moonlight Butterflies") Strike a foe, conjuring an illusory swarm of moon-pale butterflies and gaining [Advantage](Advantage.md "Advantage") on attacks against the target. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Rewarded by the [Nightsong](Aylin.md "Aylin") for freeing her during the ⁠[Find the Nightsong](Find_the_Nightsong.md "Find the Nightsong") quest | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Shar's Spear of Evening | You gain [Advantage](Advantage.md "Advantage") on [Saving throws](Saving_throw.md "Saving throw") while Lightly or Heavily [Obscured](Obscured.md "Obscured"). This weapon deals an additional 1d6 damage to creatures that are Lightly or Heavily Obscured. The wearer cannot be [Blinded](Blinded_(Condition).md "Blinded (Condition)"). [Shar's Darkness](Shar's_Darkness.md "Shar's Darkness") Cast as a level 2 spell ( Recharge: Per turn.) [Edge of Darkness](Edge_of_Darkness.md "Edge of Darkness") Create a cloud of Darkness while you attack. [[See Notes](Edge_of_Darkness#Notes.md#Notes "Edge of Darkness")] ( Recharge: [Short rest](Short_rest.md "Short rest").) | Rewarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Circle of Bones | Allied [undead](Undead.md "Undead") within 6 m (20 ft) are [Resistant](Resistant.md "Resistant") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Slashing](Slashing.md "Slashing"), and ⁠[Piercing](Piercing.md "Piercing") damage.[[See: Bugs](Undead_Ward#Bugs.md#Bugs "Undead Ward")] [Animate Dead](Animate_Dead.md "Animate Dead") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by Balthazar, if he is later confronted near the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Dark Justiciar Boots | [Dexterity](Dexterity.md "Dexterity") [Saving Throws](Saving_throw.md "Saving Throw") +1 [Shadow Teleportation](Shadow_Teleportation.md "Shadow Teleportation") Teleport to an unoccupied, obscured spot. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Rewarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Dark Justiciar Gauntlets | Your weapon attacks deal an additional 1d4⁠⁠[Necrotic](Necrotic.md "Necrotic") damage. [Strength](Strength.md "Strength") [Saving Throws](Saving_throw.md "Saving Throw") +1 [Beckoning Darkness](Beckoning_Darkness.md "Beckoning Darkness") Cast as a level 4 spell at will. | Rewarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Dark Justiciar Half-Plate | While [obscured](Obscured.md "Obscured"), the wearer has [Advantage](Advantage.md "Advantage") on [Stealth Checks](Stealth.md "Stealth"). While the wearer has [Shield of Faith](Shield_of_Faith_(Condition).md "Shield of Faith (Condition)") active, reduce all incoming damage by 2 and reflect damage received back at the attacker, who takes 1d4⁠⁠[Necrotic](Necrotic.md "Necrotic"). [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw"). [Shar's Aegis](Shar's_Aegis.md "Shar's Aegis") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Awarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
+| 暗夜法官头盔 | 被阴影[遮蔽](Obscured.md "遮蔽")时，穿戴者在被攻击时的[豁免检定](Saving_throw.md "豁免检定")获得+1加值。[[见：错误](Swathed_in_Shadow#Bugs.md#Bugs "阴影笼罩")][体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 | 在[暗夜之歌的囚牢](Shadowfell.md "堕影冥界")内另一具骸骨旁的地面上 | [堕影冥界](Shadowfell.md "堕影冥界") X: -516 Y: -1397 |
+| 暗夜法官头盔 | 被阴影[遮蔽](Obscured.md "遮蔽")时，穿戴者在被攻击时的[豁免检定](Saving_throw.md "豁免检定")获得+1加值。[[见：错误](Swathed_in_Shadow#Bugs.md#Bugs "阴影笼罩")][体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 | 在[暗夜之歌的囚牢](Shadowfell.md "堕影冥界")内一具骸骨旁的地面上 | [堕影冥界](Shadowfell.md "堕影冥界") X: -544 Y: -1447 |
+| 月光 | 此物体散发⁠半径6米/20英尺的光芒。[月光蝴蝶](Moonlight_Butterflies.md "月光蝴蝶") 打击一名敌人，召唤一群月光色蝴蝶的幻象，并对攻击目标获得[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。） | 完成任务[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")期间解救[暗夜之歌](Aylin.md "暗夜之歌")后由她奖励 | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 莎尔的黄昏短矛 | 处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)")状态时，你的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。此武器对轻度遮蔽或重度遮蔽的生物造成额外1d6伤害。穿戴者无法被[目盲](Blinded_(Condition).md "目盲 (状态)")。[莎尔的黑暗](Shar's_Darkness.md "莎尔的黑暗") 施放为2环法术（充能：每回合。）[黑暗之刃](Edge_of_Darkness.md "黑暗之刃") 攻击时制造一团黑暗。[[见：说明](Edge_of_Darkness#Notes.md#Notes "黑暗之刃")]（充能：[短休](Short_rest.md "短休")。） | 击杀[暗夜之歌](Aylin.md "暗夜之歌")后奖励给[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 骸骨饰环 | 6米（20英尺）内的友方[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害拥有[抗性](Resistant.md "抗性").[[见：错误](Undead_Ward#Bugs.md#Bugs "防护不死生物")] [操纵死尸](Animate_Dead.md "操纵死尸") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由巴萨扎尔携带，若其后在[暗夜之歌](Aylin.md "暗夜之歌")附近与之对峙 | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 暗夜法官之靴 | [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1 [阴影传送](Shadow_Teleportation.md "阴影传送") 传送至一个无生物占据的遮蔽位置。（充能：[短休](Short_rest.md "短休")。） | 击杀[暗夜之歌](Aylin.md "暗夜之歌")后奖励给[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 暗夜法官护手 | 你的武器攻击造成额外1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定") +1 [召唤黑暗](Beckoning_Darkness.md "召唤黑暗") 随意施放为4环法术。 | 击杀[暗夜之歌](Aylin.md "暗夜之歌")后奖励给[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 暗夜法官半身板甲 | 处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者的[隐匿](Stealth.md "隐匿")检定具有[优势](Advantage.md "优势")。当穿戴者的[虔诚护盾](Shield_of_Faith_(Condition).md "虔诚护盾 (状态)")生效时，所受全部伤害减2，并将所受伤害反弹给攻击者，攻击者受到1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[莎尔神盾](Shar's_Aegis.md "莎尔神盾") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 击杀[暗夜之歌](Aylin.md "暗夜之歌")后授予[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
 
-- While [obscured](Obscured.md "Obscured"), the wearer has [Advantage](Advantage.md "Advantage") on [Stealth Checks](Stealth.md "Stealth").
+- 处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者的[隐匿](Stealth.md "隐匿")检定具有[优势](Advantage.md "优势")。
 
-- [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw").
+- [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-[Shar's Aegis](Shar's_Aegis.md "Shar's Aegis")
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Lying on the ground next to the altar where the [Spear of Night](Spear_of_Night.md "Spear of Night") rests, beyond the riddle door in the [Silent Library](Silent_Library.md "Silent Library") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") |
+[莎尔神盾](Shar's_Aegis.md "莎尔神盾")
+施放为1环法术（充能：[长休](Long_Rest.md "长休")。）
+| 平放在[莎尔铁手神殿](Silent_Library.md "莎尔铁手神殿")谜题门后、[暗夜之矛](Spear_of_Night.md "暗夜之矛")所在祭坛旁的地面上 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") |
 X: -818 Y: -755
-[Spear of Night](Spear_of_Night.md "Spear of Night")
+[暗夜之矛](Spear_of_Night.md "暗夜之矛")
 |
 
-- If Shar allows it, use this spear to kill Nightsong.
+- 如果莎尔允许，用此矛击杀暗夜之歌。
 
-| On a shrine in the [Silent Library](Silent_Library.md "Silent Library"), beyond the riddle door | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") |
+| 在谜题门后[莎尔铁手神殿](Silent_Library.md "莎尔铁手神殿")的一座神龛上 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") |
 X: -820 Y: -756
-[Callous Glow Ring](Callous_Glow_Ring.md "Callous Glow Ring")
+[无情光芒之戒](Callous_Glow_Ring.md "无情光芒之戒")
 |
 
-- The wearer deals an additional 2 points of ⁠[Radiant](Radiant.md "Radiant") _\[[See: Bugs](Callous_Glow.md#Bugs "Callous Glow")\]_ damage against creatures that are illuminated.
+- 穿戴者对处于光照下的生物造成额外2点⁠[光耀](Radiant.md "光耀") _\[[见：错误](Callous_Glow.md#Bugs "冷酷光芒")\]_伤害。
 
-| In an opulent chest in the vault room near [Balthazar](Balthazar.md "Balthazar") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") |
+| 在[巴萨扎尔](Balthazar.md "巴萨扎尔")附近金库房间的一只华丽箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") |
 X: -821 Y: -752
-[Dark Justiciar Helmet](Dark_Justiciar_Helmet.md "Dark Justiciar Helmet")
+[暗夜法官头盔](Dark_Justiciar_Helmet.md "暗夜法官头盔")
 |
 
-- The wielder has a +1 bonus to [Saving throws](Saving_throw.md "Saving throw") against spells.
+- 持有者对抗法术的[豁免检定](Saving_throw.md "豁免检定")获得+1加值。
 
-- While [obscured](Obscured.md "Obscured"), the number you need to roll a [Critical Hit](Critical_Hit.md "Critical Hit") while attacking is reduced by 1. This effect can stack.
+- 处于[遮蔽](Obscured.md "遮蔽")状态时，攻击时[重击](Critical_Hit.md "重击")所需的骰值减1。此效果可叠加。
 
-- [Constitution](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1
+- [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1
 
-| Inside a Gilded Chest behind the altar and beyond the riddle door in the [Silent Library](Silent_Library.md "Silent Library") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") |
+| 在[莎尔铁手神殿](Silent_Library.md "莎尔铁手神殿")谜题门后、祭坛后面的一只镀金箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") |
 X: -822 Y: -753
-[Killer's Sweetheart](Killer's_Sweetheart.md "Killer's Sweetheart")
+[屠夫的甜心](Killer's_Sweetheart.md "屠夫的甜心")
 |
 
-- When you kill a creature, your next [Attack roll](Attack_roll.md "Attack roll") will be a [Critical Hit](Critical_Hit.md "Critical Hit"). Once spent, this effect refreshes after a [Long Rest](Long_Rest.md "Long Rest").
+- 当你击杀一个生物时，你的下一次[攻击检定](Attack_roll.md "攻击检定")必定为[重击](Critical_Hit.md "重击")。消耗后，此效果在[长休](Long_Rest.md "长休")后刷新。
 
-| On the ground where the shadow copy appearing next to the Brazier is defeated in the [Self-Same Trial](Self-Same_Trial.md "Self-Same Trial") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") |
+| 在[莎尔铁手神殿](Self-Same_Trial.md "莎尔铁手神殿")中，火盆旁被击败的阴影复制体所在地的地面上 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") |
 X: -833 Y: -729
-[Circle of Bones](Circle_of_Bones.md "Circle of Bones")
+[骸骨饰环](Circle_of_Bones.md "骸骨饰环")
 |
 
-- Allied [undead](Undead.md "Undead") within 6 m (20 ft) are [Resistant](Resistant.md "Resistant") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Slashing](Slashing.md "Slashing"), and ⁠[Piercing](Piercing.md "Piercing") damage._\[[See: Bugs](Undead_Ward.md#Bugs "Undead Ward")\]_
+- 6米（20英尺）内的友方[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害拥有[抗性](Resistant.md "抗性")。\_\[[见：错误](Undead_Ward.md#Bugs "防护不死生物")\]\_
 
-[Animate Dead](Animate_Dead.md "Animate Dead")
-Cast as a level 3 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Carried by [Balthazar](Balthazar.md "Balthazar"), at his altar | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") |
+[操纵死尸](Animate_Dead.md "操纵死尸")
+施放为3环法术（充能：[长休](Long_Rest.md "长休")。）
+| 由[巴萨扎尔](Balthazar.md "巴萨扎尔")携带，在其祭坛处 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") |
 X: -845 Y: -793
 
 [￪ Back to top](#top)

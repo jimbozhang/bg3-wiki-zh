@@ -615,7 +615,7 @@ Jaheira
 [褶皱的信](Creased_Letter.md "褶皱的信")
 [贾希拉的命令](Orders_from_Jaheira.md "贾希拉的命令")
 [羊皮纸（埃莱拉辛的家）](Parchment_(Elerrathin's_Home).md "羊皮纸（埃莱拉辛的家）")
-[羊皮纸（最后之光旅店）](Parchment_(Last_Light_Inn).md "羊皮纸（最后之光旅店）")
+[羊皮纸（终焉光芒旅店）](Parchment_(Last_Light_Inn).md "羊皮纸（终焉光芒旅店）")
 [转录过的邮件](Transcribed_Sending.md "转录过的邮件")
 
 Jatlo

@@ -63,13 +63,13 @@
 | Arcana | 奥秘 |
 | Athletics | 运动 |
 | Deception | 欺瞒 |
-| History | 历史的 |
+| History | 历史 |
 | Insight | 洞悉 |
 | Intimidation | 威吓 |
 | Investigation | 调查 |
 | Medicine | 医药 |
 | Nature | 自然 |
-| Perception | 察觉技能 |
+| Perception | 察觉 |
 | Performance | 表演 |
 | Persuasion | 游说 |
 | Religion | 宗教 |
@@ -667,7 +667,7 @@
 | Conjure Shadow Lantern Wraith | 召唤影灯缚灵 |
 | Conjure Us | 召唤我们 |
 | Conjure Woodland Being | 召唤林地妖精 |
-| consumed | 吞噬 |
+| consumed | 消耗 |
 | Contagion | 疫病术 |
 | Continual Flame | 不灭明焰 |
 | Corrosive Spit | 腐蚀唾液 |
@@ -906,7 +906,7 @@
 | Forced Manoeuvre | 强制策动 |
 | Fox's Cunning | 狐之狡黠 |
 | Freedom of Movement | 行动自如 |
-| Frenzied Strike | 狂怒攻击 |
+| Frenzied Strike | 狂乱打击 |
 | Frosted Harmony Blast | 霜冻和声爆破 |
 | Fungal Resurrection | 真菌复生 |
 | Gained a Cantrip | 获得1个戏法 |
@@ -996,7 +996,7 @@
 | Legacy of Avernus: Searing Smite | 阿弗纳斯的遗赠：炽焰斩 |
 | Legacy of Cania: Flame Blade | 卡尼亚的馈赠：火焰刀 |
 | Lesser Infernal Touch | 次级地狱之触 |
-| Lesser Restoration | 次级恢复 |
+| Lesser Restoration | 次级复原术 |
 | Levitate | 浮空术 |
 | Light: Bonus Cantrip | 光亮术：附赠戏法 |
 | Lightning Absorption | 闪电吸收 |
@@ -1406,7 +1406,6 @@
 | Crown of Madness | 疯狂 |
 | Crystal Skin | 水晶皮肤 |
 | Cursed | 被诅咒 |
-| Darkvision | 黑暗视觉。 |
 | Daze | 眩晕 |
 | Dazed | 眩晕 |
 | Death Ward | 死亡防护 |
@@ -1416,7 +1415,7 @@
 | Disarm | 缴械 |
 | Diseased | 患病 |
 | Distract | 分心 |
-| Dominate | 受控 |
+| Dominate | 支配 |
 | Downed | 倒地 |
 | Drunk | 醉酒 |
 | Electrocuted | 电击 |
@@ -1489,7 +1488,7 @@
 | Maim | 跛足 |
 | Mammon's Hold | 玛门的掌控 |
 | Marked | 被标记 |
-| Medium | 中级 |
+| Medium | 中型 |
 | Menace | 威胁 |
 | Mental Fatigue | 精神疲劳 |
 | Mindbreaks | 精神破碎 |
@@ -1580,7 +1579,7 @@
 | Taunted | 被嘲弄 |
 | Threatened | 受威胁 |
 | Trembling Legs | 双腿颤抖 |
-| Turn | 驱散 |
+| Turn | 旋转 |
 | Turned | 被驱散 |
 | Umbral Form | 阴影形态 |
 | Unconscious | 昏迷 |
@@ -1606,7 +1605,7 @@
 | Arcane Ward | 奥术守御 |
 | Bolstering Smite | 激励斩 |
 | Book of Shadows | 阴影之书 |
-| Darkvision | 高级黑暗视觉 |
+| Darkvision | 黑暗视觉 |
 | Elemental Affinity | 元素亲和 |
 | extra attack | 额外攻击 |
 | Heat Convergence | 灼热趋同 |
@@ -1655,7 +1654,7 @@
 | Always Prepared | 恒定预备法术 |
 | Ammunition | 弹药 |
 | AoE | 范围效果 |
-| Area of Effect | 范围效果 |
+| Area of Effect | 效果范围 |
 | Armour Class | 护甲等级 |
 | Attack Roll | 攻击掷骰 |
 | Attack Rolls | 攻击掷骰 |
@@ -1712,7 +1711,7 @@
 | Loading | 加载中 |
 | Long Rest | 长休 |
 | Low Ground | 低地 |
-| Material | 材料成分 |
+| Material | 材料 |
 | Melee | 近战 |
 | Melee Attack | 近战攻击 |
 | Melee Spell Attack | 近战法术攻击 |
@@ -1780,7 +1779,6 @@
 
 | English | 中文 |
 |---------|------|
-| Bardic Inspiration | 吟游诗人激励点 |
 | bonus action | 附赠动作 |
 | Channel Divinity | 引导神力 |
 | Channel Oath Charges | 引导誓言 |
@@ -4699,8 +4697,8 @@ Scroll or letter | 盾牌管家审讯日志
 | Investigate Moonrise Towers | 调查月出之塔 |
 | Iron Throne | 钢铁王座 |
 | Iron Throne - Windup and Shutdown | 钢铁王座 —— 终结与关停 |
-| Iron Throne Hatch | 钢铁王座活板门 |
-| Iron Throne Prisoner | 钢铁王座囚徒 |
+| Iron Throne Hatch | 铁王座活板门 |
+| Iron Throne Prisoner | 铁王座囚徒 |
 | Karsus Vault | 卡尔萨斯保险库 |
 | Keep back, Shadowheart | 留下，影心 |
 | Keep back | 退下 |
