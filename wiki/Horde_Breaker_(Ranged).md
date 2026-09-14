@@ -67,8 +67,8 @@
 - 有少数武器能够在接收灭族者状态时对其区域内的所有目标（包括队友，但不包括灭族者角色）触发其能力——这很可能是一个错误。已知与灭族者交互的武器包括：
   - [至上真神之视](Vision_of_the_Absolute.md "至上真神之视")（[目盲](Blinded_(Condition).md "目盲（状态）")）、[女妖之弓](Bow_of_the_Banshee.md "女妖之弓")（[恐慌](Frightened_(Condition).md "恐慌（状态）")）、[轻语巨剑](Sussur_Greatsword.md "轻语巨剑")（[沉默](Silenced_(Condition).md "沉默（状态）")）和[灾祸短剑](The_Baneful.md "灾祸短剑")（[灾祸术](Bane_(Condition).md "灾祸术（状态）")）是强制灭族者区域内所有敌人进行豁免检定以避免获得状态的武器。
   - [第一滴血短剑](Shortsword_of_First_Blood.md "第一滴血短剑")能力[锉金败玉](Break_the_Unbroken.md "锉金败玉")激活，对仍拥有全部[生命值](Hit_Points.md "生命值")的目标造成1d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。
-  - [卑劣短棒](Rat_Bat.md "卑劣短棒")未命名能力对所有目标造成1d6⁠⁠[穿刺](Piercing.md "穿刺")[DRS](Damage_rider_as_source.md "伤害来源附加")。
-- [巨斧](Greataxes.md "巨斧")能力[准备](Prepare.md "准备")对所有目标造成[力量调整值]⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源附加")伤害。
+  - [卑劣短棒](Rat_Bat.md "卑劣短棒")未命名能力对所有目标造成1d6⁠⁠[穿刺](Piercing.md "穿刺")[伤害机制](Damage_rider_as_source.md "伤害机制")。
+- [巨斧](Greataxes.md "巨斧")能力[准备](Prepare.md "准备")对所有目标造成[力量调整值]⁠⁠[物理](Physical.md "物理")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 - 由于条件要求检查错误，灭族者可能在使用后的下一回合无法立即使用。
 
 ---

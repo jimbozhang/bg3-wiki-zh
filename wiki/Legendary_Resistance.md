@@ -9,7 +9,7 @@
 - 如果效果并非特别危险，例如[灾祸术](Bane_(Condition).md "Bane (Condition)")、[折磨](Tortured_(Condition).md "Tortured (Condition)")或[眩晕](Dazed_(Condition).md "Dazed (Condition)")，它并不总是生效。
   - 有时，即使效果是关键性的，它也不起作用。
   - 有时它对关键效果有效，例如[目盲](Blinded_(Condition).md "Blinded (Condition)")、[恐慌](Frightened_(Condition).md "Frightened (Condition)")和[人类定身术](Hold_Person_(Condition).md "Hold Person (Condition)")。
-- 如果[卡扎多尔](Cazador.md "Cazador")进入[邪恶领主](Sinister_Lord_(Condition).md "Sinister Lord (Condition)")形态，他将获得99次传奇抗性使用次数。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 如果[卡扎多尔](Cazador.md "Cazador")进入[邪恶领主](Sinister_Lord_(Condition).md "Sinister Lord (Condition)")形态，他将获得99次传奇抗性使用次数。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 传奇抗性的来源
 

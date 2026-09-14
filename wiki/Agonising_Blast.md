@@ -14,7 +14,7 @@
 
 生物使用：
 
-- [德尔韦登](Delverdenn.md "德尔韦登")、[赫尔希克](Helsik.md "赫尔希克")、[契约撕裂者](Pactsplitter.md "契约撕裂者")、[Tska'an](Tska'an.md "Tska'an")、[复仇小魔鬼](Vengeful_Imp.md "复仇小魔鬼")、[Z'rell](Z'rell.md "Z'rell")
+- [德尔韦登](Delverdenn.md "德尔韦登")、[赫尔希克](Helsik.md "赫尔希克")、[契约撕裂者](Pactsplitter.md "契约撕裂者")、[茨卡'安](Tska'an.md "茨卡'安")、[复仇小魔鬼](Vengeful_Imp.md "复仇小魔鬼")、[泽'瑞尔](Z'rell.md "泽'瑞尔")
 
 ## 简要预览
 

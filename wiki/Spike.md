@@ -75,11 +75,11 @@
 
 When approached, a cutscene plays out where Spike is torturing Liam, and he asks the party if they want to join him. The party can either join in on and take over the interrogation, force Spike to leave using their Illithid tadpole, or lie to him telling him they have been relieved.
 
-If torturing Liam such that he reveals the [Emerald Grove's](Emerald_Grove.md "Emerald Grove") location, Spike then heads to [Minthara](Minthara.md "Minthara") and informs her, after which she prepares the assault. After informing Minthara, he moves to where [Abdirak](Abdirak.md "Abdirak") is and loiters.
+If torturing Liam such that he reveals the [翠绿林地](Emerald_Grove.md "翠绿林地") location, Spike then heads to [明萨拉](Minthara.md "明萨拉") and informs her, after which she prepares the assault. After informing Minthara, he moves to where [阿布狄拉克](Abdirak.md "阿布狄拉克") is and loiters.
 
-Torturing Liam grants the inspiration ⁠[Grabbing the Poker with Both Hands](Haunted_One.md#Grabbing_the_Poker_with_Both_Hands "Haunted One") for a character with the [Haunted One](Haunted_One.md "Haunted One") background.<sup>[\[1\]](#cite_note-1)</sup>
+Torturing Liam grants the inspiration ⁠[邪念缠身](Haunted_One.md#Grabbing_the_Poker_with_Both_Hands "Haunted One") for a character with the [邪念缠身](Haunted_One.md "邪念缠身") background.<sup>[\[1\]](#cite_note-1)</sup>
 
-Freeing Liam grants the inspiration ⁠[Fate Worse Than Death](Folk_Hero.md#Fate_Worse_Than_Death "Folk Hero") for party members with the [Folk Hero](Folk_Hero.md "Folk Hero") background.
+Freeing Liam grants the inspiration ⁠[平民英雄](Folk_Hero.md#Fate_Worse_Than_Death "Folk Hero") for party members with the [平民英雄](Folk_Hero.md "平民英雄") background.
 
 If Spike witnesses a party member undergo the pain ritual, he claims that he needs to "see it again" and commands Grush to undergo the ritual as well. The party can humorously watch as Grush takes hit after hit, eventually succumbing and getting [Knocked Out](Knocked_Out_(Condition).md "Knocked Out (Condition)").
 
@@ -117,7 +117,7 @@ Damage: 2~5 + modifiers
 
 \+ [卓越骰子](Battlemaster.md#卓越骰子 "Battle Master")
 
-Possibly [Frighten](Frightened_(Condition).md "Frightened (Condition)") your target. They'll have [Disadvantage](Disadvantage.md "Disadvantage") on [Ability Checks](Ability_Check.md "Ability Check") and [Attack Rolls](Attack_roll.md "Attack Roll") and be unable to move.
+Possibly [Frighten](Frightened_(Condition).md "Frightened (Condition)") your target. They'll have [优势](Disadvantage.md "优势") on [属性](Ability_Check.md "属性") and [攻击](Attack_roll.md "攻击") and be unable to move.
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 Range: Normal weapon range
@@ -130,9 +130,9 @@ Normal weapon damage
 
 Throw a character or item from the world or your inventory.
 
-Your [Strength](Strength.md "Strength") affects how much weight you can throw. Heavier items deal more damage.
+Your [力量](Strength.md "力量") affects how much weight you can throw. Heavier items deal more damage.
 
-The damage of weapons with the [thrown](Thrown.md "Thrown") property is the same as the weapon's melee damage.
+The damage of weapons with the [投掷](Thrown.md "投掷") property is the same as the weapon's melee damage.
 
 Range: 3-18 m (10-60 ft)
 
@@ -144,9 +144,9 @@ Normal weapon damage
 
 Throw a character or item from the world or your inventory.
 
-Your [Strength](Strength.md "Strength") affects how much weight you can throw. Heavier items deal more damage.
+Your [力量](Strength.md "力量") affects how much weight you can throw. Heavier items deal more damage.
 
-The damage of weapons with the [thrown](Thrown.md "Thrown") property is the same as the weapon's melee damage.
+The damage of weapons with the [投掷](Thrown.md "投掷") property is the same as the weapon's melee damage.
 
 Range: 3-18 m (10-60 ft)
 
@@ -204,7 +204,7 @@ Spike can be spoken to with [死者交谈](Speak_with_Dead.md "死者交谈").
 
 ## Notes
 
-1. [↑](#cite_ref-1) A [drow](Drow.md "卓尔"), or a character [disguised](Disguise_Self_(Condition).md "Disguise Self (Condition)") as one, cannot torture Liam, but convinces Spike to leave without an ability check. Doing so prevents the inspiration ⁠[Grabbing the Poker with Both Hands](Haunted_One.md#Grabbing_the_Poker_with_Both_Hands "Haunted One") from being granted to the [Dark Urge](Dark_Urge.md "邪念").
+1. [↑](#cite_ref-1) A [卓尔](Drow.md "卓尔"), or a character [disguised](Disguise_Self_(Condition).md "Disguise Self (Condition)") as one, cannot torture Liam, but convinces Spike to leave without an ability check. Doing so prevents the inspiration ⁠[邪念缠身](Haunted_One.md#Grabbing_the_Poker_with_Both_Hands "Haunted One") from being granted to the [邪念](Dark_Urge.md "邪念").
 
 ## External links
 

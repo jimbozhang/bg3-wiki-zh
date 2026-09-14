@@ -57,7 +57,7 @@
 
 ## Involvement
 
-Jara can first be seen in [Naoise Nallinto's](Naoise_Nallinto.md "Naoise Nallinto") room, in a makeout session with her. Upon being approached by the party, an extended cutscene begins, in which Jara recognizes the party and is commanded to transform into a Mind Flayer by the [Netherbrain](Netherbrain.md "Netherbrain"). This results in combat.
+Jara can first be seen in [妮夏·纳林托](Naoise_Nallinto.md "妮夏·纳林托") room, in a makeout session with her. Upon being approached by the party, an extended cutscene begins, in which Jara recognizes the party and is commanded to transform into a Mind Flayer by the [主脑](Netherbrain.md "主脑"). This results in combat.
 
 ## Combat
 

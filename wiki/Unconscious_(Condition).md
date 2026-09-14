@@ -10,7 +10,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_Unconscious](SG_Unconscious.md "SG Unconscious"), [SG_Condition](SG_Condition.md "SG Condition")
+[状态组](Status_groups.md "状态组"): [昏迷 (状态组)](SG_Unconscious.md "昏迷 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 ## 昏迷来源
 

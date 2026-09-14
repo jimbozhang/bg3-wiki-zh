@@ -1,6 +1,6 @@
 # 领地意识
 
-**领地意识**是[Bulette](Bulette.md "Bulette")生物可用的被动特性。
+**领地意识**是[鲨蜥兽](Bulette.md "鲨蜥兽")生物可用的被动特性。
 
 ## 描述
 
@@ -10,7 +10,7 @@
 
 由以下生物使用：
 
-- [Bulette](Bulette.md "Bulette")
+- [鲨蜥兽](Bulette.md "鲨蜥兽")
 
 ---
 *Source: [Territorial](https://bg3.wiki/wiki/Territorial)*

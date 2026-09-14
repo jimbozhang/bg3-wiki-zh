@@ -29,7 +29,7 @@
 
 持续时间：10 回合
 
-- 目标在其下一回合结束时受到 1d4⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[DC](Dice_rolls.md#Save_DCs "掷骰") 11 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到 1d4⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 11 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 区域：简易毒素
 
@@ -47,7 +47,7 @@
 
 **[简易毒素](Simple_Toxin_(Condition).md "简易毒素 (状态)")**
 
-[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 11）
 
 - 受影响实体在其下一回合结束时受到 1d4⁠⁠[毒素](Poison.md "毒素")伤害。
 

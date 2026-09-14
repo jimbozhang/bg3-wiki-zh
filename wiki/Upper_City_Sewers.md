@@ -92,7 +92,7 @@
 至高大殿主体
 （作者：Joannie Leblanc）
 
-至高大殿本身位于庭院之后，穿过一扇巨大的双开门。在入口区域，队伍可以与建筑中央的大脑干互动。这样做会导致所有队伍成员变得[心智崩溃](Mindbroken_(Condition).md "心智崩溃（状态）")，从而需要进行几次[DC](Dice_rolls.md#Save_DCs "掷骰") 20 [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以防止变得[震慑](Stunned_(Condition).md "震慑（状态）")。耐色脑宣称这不是正确的地方，队伍必须先上升以加入它。
+至高大殿本身位于庭院之后，穿过一扇巨大的双开门。在入口区域，队伍可以与建筑中央的大脑干互动。这样做会导致所有队伍成员变得[心智崩溃](Mindbroken_(Condition).md "心智崩溃（状态）")，从而需要进行几次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 20 [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以防止变得[震慑](Stunned_(Condition).md "震慑（状态）")。耐色脑宣称这不是正确的地方，队伍必须先上升以加入它。
 
 一张小桌子上放着[庭登记册](Court_Register.md "庭登记册")。展示柜内有一瓶[特效治疗药水](Potion_of_Superior_Healing.md "特效治疗药水")和一卷[魅影杀手卷轴](Scroll_of_Phantasmal_Killer.md "魅影杀手卷轴")。
 

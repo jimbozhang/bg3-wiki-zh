@@ -14,7 +14,7 @@
 
 以下生物使用：
 
-- [W'wargaz](W'wargaz.md "W'wargaz")
+- [瓦尔'戈兹](W'wargaz.md "瓦尔'戈兹")
 
 ## 备注
 

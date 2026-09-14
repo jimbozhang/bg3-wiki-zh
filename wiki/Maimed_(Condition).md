@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`CRIPPLED` [状态组](Status_groups.md "状态组")：[SG_Condition](SG_Condition.md "SG 状态")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`CRIPPLED` [状态组](Status_groups.md "状态组")：[SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合结束
 
@@ -23,7 +23,7 @@
 
 ## 错误
 
-- 该状态缺少适当的[状态组](Status_groups.md "状态组")，例如[SG_Restrained](SG_Restrained.md "SG 束缚")，因此可以应用于具有[行动自如](Freedom_of_Movement_(Condition).md "行动自如 (状态)")的生物。
+- 该状态缺少适当的[状态组](Status_groups.md "状态组")，例如[束缚 (状态组)](SG_Restrained.md "束缚 (状态组)")，因此可以应用于具有[行动自如](Freedom_of_Movement_(Condition).md "行动自如 (状态)")的生物。
 
 ## 跛足状态来源
 

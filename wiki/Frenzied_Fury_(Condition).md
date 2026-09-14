@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`GNOLL_BREWING_RAGE_UNLOCK` [状态组](Status_groups.md "状态组")：[SG_Rage](SG_Rage.md "SG Rage")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`GNOLL_BREWING_RAGE_UNLOCK` [状态组](Status_groups.md "状态组")：[SG 狂暴](SG_Rage.md "SG 狂暴")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合结束
 

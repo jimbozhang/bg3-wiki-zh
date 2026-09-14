@@ -4,7 +4,7 @@
 
 - 平衡
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - **噼啪砰** 是一种蘑菇，会释放危险的孢子，造成中毒伤害。
 
@@ -38,7 +38,7 @@
 
 **\_(状态)[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)")**
 
-- 受影响实体每驱散受到 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。它必须成功通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将受到额外的 2d4⁠⁠[中毒](Poison.md "中毒") 伤害，成功则受到一半伤害。
+- 受影响实体每驱散受到 1d4⁠⁠[中毒](Poison.md "中毒") 伤害。它必须成功通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将受到额外的 2d4⁠⁠[中毒](Poison.md "中毒") 伤害，成功则受到一半伤害。
 
 ## 其他危险蘑菇
 

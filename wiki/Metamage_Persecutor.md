@@ -36,9 +36,9 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [灵能统御](Psionic_Dominance_(passive_feature).md "灵能统御（被动特性）")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **超魔虐待者**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中的一种敌对[对策](Countermeasure.md "对策")异怪。
 

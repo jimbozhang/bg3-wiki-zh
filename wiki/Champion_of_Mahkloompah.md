@@ -11,7 +11,7 @@
 | 先攻 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
@@ -23,7 +23,7 @@
 
 对所有 [物理伤害](Physical_damage.md "物理伤害") 具有 [抗性](Resistance.md "抗性"), 并可能使被攻击目标 [流血](Bleeding_(Condition).md "流血 (状态)")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 

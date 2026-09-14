@@ -44,13 +44,13 @@
 |
 
 - 体温逐渐升高。在使用力量的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
-- 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。失败将施加[污秽热](Filth_Fever_(Condition).md "污秽热 (状态)")状态。
+- 持续时间结束时，进行一次[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。失败将施加[污秽热](Filth_Fever_(Condition).md "污秽热 (状态)")状态。
 
 [污秽热](Filth_Fever_(Condition).md "污秽热 (状态)")
 |
 
 - 被高烧压垮。在[攻击掷骰](Attack_roll.md "攻击掷骰")，以及使用力量的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
-- 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。失败将重新施加污秽热状态。
+- 持续时间结束时，进行一次[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。失败将重新施加污秽热状态。
 - 持续时间：25回合
 
 [烂肉症](Flesh_Rot_(Condition).md "烂肉症 (状态)")
@@ -59,7 +59,7 @@
 - 肉体正在腐烂。
 - 在使用魅力的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 对所有伤害具有[易伤](Damage_types.md "伤害类型")。
-- 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以移除状态，否则将重新施加。
+- 持续时间结束时，进行一次[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以移除状态，否则将重新施加。
 
 [重伤术](Harm_(Condition).md "重伤术 (状态)")
 |
@@ -91,7 +91,7 @@
 
 - 开放性伤口开始腐烂。
 - 在使用魅力的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
-- 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以移除状态。失败将导致你获得[烂肉症](Flesh_Rot_(Condition).md "烂肉症 (状态)")。
+- 持续时间结束时，进行一次[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以移除状态。失败将导致你获得[烂肉症](Flesh_Rot_(Condition).md "烂肉症 (状态)")。
 
 [瘟疫](Sea_Plague_(Condition).md "瘟疫 (状态)")
 |

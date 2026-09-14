@@ -105,7 +105,7 @@
 
 ## 参与
 
-尼克与他的吉斯洋基武僧同僚[Hr'ack'la](Hr'ack'la.md "Hr'ack'la")和[Ghik'lir](Ghik'lir.md "Ghik'lir")一起，是[俄耳甫斯](Orpheus.md "俄耳甫斯")的荣誉卫队成员。当卫队试图释放俄耳甫斯并逃离[神秘遗物](Mysterious_Artefact.md "神秘遗物")时，这三人在[第三幕](Act_Three.md "第三幕")开始时，于前往[博德之门](Baldur's_Gate.md "博德之门")的路上，在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")外的第一次长休期间与队伍发生冲突。
+尼克与他的吉斯洋基武僧同僚[Hr'ack'la](Hr'ack'la.md "Hr'ack'la")和[吉基尔](Ghik'lir.md "吉基尔")一起，是[俄耳甫斯](Orpheus.md "俄耳甫斯")的荣誉卫队成员。当卫队试图释放俄耳甫斯并逃离[神秘遗物](Mysterious_Artefact.md "神秘遗物")时，这三人在[第三幕](Act_Three.md "第三幕")开始时，于前往[博德之门](Baldur's_Gate.md "博德之门")的路上，在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")外的第一次长休期间与队伍发生冲突。
 
 ## 战斗
 
@@ -141,11 +141,11 @@
 
 ### 盟友
 
-- [Ghik'lir](Ghik'lir.md "Ghik'lir")
+- [吉基尔](Ghik'lir.md "吉基尔")
 - [Hr'ack'la](Hr'ack'la.md "Hr'ack'la")
-- [Jyd'i'](Jyd'i'.md "Jyd'i'")
+- [吉迪'](Jyd'i'.md "吉迪'")
 - [K'i'lar](K'i'lar.md "K'i'lar")
-- [Zelrin](Zelrin.md "Zelrin")
+- [泽尔林](Zelrin.md "泽尔林")
 
 ---
 *Source: [Nyk](https://bg3.wiki/wiki/Nyk)*

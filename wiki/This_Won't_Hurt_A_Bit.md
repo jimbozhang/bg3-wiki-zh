@@ -15,7 +15,7 @@
 8d8 + [敏捷调整值](Dexterity.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）（豁免成功时：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）（豁免成功时：目标仍承受一半伤害。）
 范围：2.5 米（8 英尺）
 
 ## 状态：中毒
@@ -24,7 +24,7 @@
 
 持续时间：2 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
 

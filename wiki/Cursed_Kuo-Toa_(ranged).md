@@ -34,7 +34,7 @@
 - [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 
@@ -46,7 +46,7 @@
 
 你的近战攻击使目标陷入[濡湿](Wet_(Condition).md "濡湿 (状态)")状态。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 
@@ -58,7 +58,7 @@
 
 你的近战攻击使目标陷入[濡湿](Wet_(Condition).md "濡湿 (状态)")状态。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 

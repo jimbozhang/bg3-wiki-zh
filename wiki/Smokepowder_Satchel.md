@@ -25,7 +25,7 @@
 
 - 2d6 (2~12) ⁠[火焰](Fire.md "火焰")
 
-伤害（[DC](Dice_rolls.md#Save_DCs "掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")以豁免）
+伤害（[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")以豁免）
 
 - 2d6 (2~12) ⁠[力场](Force.md "力场")
 
@@ -41,7 +41,7 @@
 
 - 3d4 + 9 (12~21) ⁠[力场](Force.md "力场")
 
-伤害（[DC](Dice_rolls.md#Save_DCs "掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")以减半）
+伤害（[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")以减半）
 
   - 自动[重击](Critical_Hit.md "重击")物体和环境
   - 被爆炸波及的目标会被击退 3 米 (10 英尺)（无豁免检定）

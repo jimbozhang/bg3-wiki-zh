@@ -14,7 +14,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 200 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -50,7 +50,7 @@
 
 当近战攻击未命中时，仍然造成等于[力量](Strength.md "力量")调整值或最小值为1的[钝击](Bludgeoning.md "钝击")伤害。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -86,7 +86,7 @@
 
 当近战攻击未命中时，仍然造成等于[力量](Strength.md "力量")调整值或最小值为1的[钝击](Bludgeoning.md "钝击")伤害。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

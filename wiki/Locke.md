@@ -89,7 +89,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -147,7 +147,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 0 | 0 | 0 | 0 | 0 | 0 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -205,7 +205,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -237,7 +237,7 @@ Stats
 
 `Tiefling_Commoner`
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -253,7 +253,7 @@ Stats
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -269,7 +269,7 @@ Stats
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -305,7 +305,7 @@ Stats
 
 如果阿拉贝尔死亡，但柯米拉、洛奇和卡哈幸存下来，两人会在[庆祝活动](Tiefling_Refugee_Celebration.md "提夫林难民庆祝活动")中试图毒害卡哈。小队可以允许他们下毒，或者尝试说服他们放弃。
 
-如果在解决[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Grove and Locke's corpse can be found among the pile of refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village") 之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林们会被驱逐出林地，洛奇的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥附近的难民堆中找到。
+如果在解决[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Grove and Locke's corpse can be found among the pile of refugees near the bridge to the [染疫村落](Blighted_Village.md "染疫村落") 之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林们会被驱逐出林地，洛奇的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥附近的难民堆中找到。
 
 ### 第二幕
 

@@ -1,6 +1,6 @@
 # HasSomaticComponent (法术标志)
 
-**HasSomaticComponent** 是一个未使用的[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")][法术标志](Spell_flag.md "Spell flag")，用于指示一个动作或法术是否需要[姿势成分](https://forgottenrealms.fandom.com/wiki/Somatic_component)（即用空闲的手做手势）来施放。姿势施法规则在《博德之门3》中并未实现，此标志似乎未被使用。
+**HasSomaticComponent** 是一个未使用的[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")][法术标志](Spell_flag.md "Spell flag")，用于指示一个动作或法术是否需要[姿势成分](https://forgottenrealms.fandom.com/wiki/Somatic_component)（即用空闲的手做手势）来施放。姿势施法规则在《博德之门3》中并未实现，此标志似乎未被使用。
 
 在D&D 5e中，具有姿势成分的法术需要空闲的手或施法焦点才能施放。此要求可以通过[战地施法者](War_Caster.md "War Caster")专长绕过。《博德之门3》大幅简化了施法规则，施放时不会考虑任何材料或姿势成分。只有[言语成分](HasVerbalComponent_(spell_flag).md) 仍然被要求。
 

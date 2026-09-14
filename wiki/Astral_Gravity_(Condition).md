@@ -22,14 +22,14 @@
 
 ## 拥有星界重力的生物
 
-- [G'imre](G'imre.md "G'imre")
-- [Jyd'i'](Jyd'i'.md "Jyd'i'")
+- [吉姆雷](G'imre.md "吉姆雷")
+- [吉迪'](Jyd'i'.md "吉迪'")
 - [K'i'lar](K'i'lar.md "K'i'lar")
-- [Lir'i'c](Lir'i'c.md "Lir'i'c")
+- [里'瑞克](Lir'i'c.md "里'瑞克")
 - [M'i'hayk](M'i'hayk.md "M'i'hayk")
-- [Mir'ic](Mir'ic.md "Mir'ic")
-- [Sh'ari](Sh'ari.md "Sh'ari")
-- [Verik](Verik.md "Verik")
+- [米尔里克 (Mir'ic)](Mir'ic.md "米尔里克 (Mir'ic)")
+- [莎莉](Sh'ari.md "莎莉")
+- [维里克](Verik.md "维里克")
 
 ## 具有相同堆叠ID的状态
 

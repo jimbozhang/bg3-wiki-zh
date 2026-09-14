@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID")：`GOADING_ATTACK` [状态组](Status_groups.md "状态组")：[SG_Taunted](SG_Taunted.md "SG_Taunted")
+[堆叠ID](Stack_ID.md "堆叠ID")：`GOADING_ATTACK` [状态组](Status_groups.md "状态组")：[SG 被嘲弄](SG_Taunted.md "SG 被嘲弄")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合结束
 

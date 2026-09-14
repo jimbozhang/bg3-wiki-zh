@@ -36,7 +36,7 @@
 
 ## 备注
 
-- 取决于在[第二幕](Act_Two.md "第二幕")中拯救阿尔特·库拉 \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 取决于在[第二幕](Act_Two.md "第二幕")中拯救阿尔特·库拉 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Letter from Art](https://bg3.wiki/wiki/Letter_from_Art)*

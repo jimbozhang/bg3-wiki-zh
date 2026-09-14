@@ -27,7 +27,7 @@
 
 ## 获取地点
 
-- 在[蔓生地道](Overgrown_Tunnel.md "蔓生地道")的尽头，在刺鼻工坊内\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 在[蔓生地道](Overgrown_Tunnel.md "蔓生地道")的尽头，在刺鼻工坊内\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 备注
 

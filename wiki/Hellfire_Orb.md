@@ -17,7 +17,7 @@
 20d6⁠[火焰](Fire.md "Fire")
 
 详情
-[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）（豁免成功时：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 18）（豁免成功时：目标仍承受一半伤害。）
 射程：18 米（60 英尺）
 区域效果：4 米（13 英尺）半径
 充能：每场战斗

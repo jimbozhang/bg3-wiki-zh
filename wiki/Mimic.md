@@ -11,7 +11,7 @@
 | 先攻 | +1 |
 | 经验值 | 75 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -23,7 +23,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 

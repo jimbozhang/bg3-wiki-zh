@@ -20,7 +20,7 @@
 
 ## 备注
 
-- 每回合可进行一次[DC](Dice_rolls.md#Save_DCs "掷骰") 15的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，成功则伤害减半。
+- 每回合可进行一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 15的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，成功则伤害减半。
 
 ---
 *Source: [Wall of Ice (area)](https://bg3.wiki/wiki/Wall_of_Ice_(area)*

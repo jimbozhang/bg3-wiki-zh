@@ -23,7 +23,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -35,7 +35,7 @@
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -47,7 +47,7 @@
 
 对所有[火焰](Fire.md "火焰")具有[抗性](Resistant.md "抗性")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -82,7 +82,7 @@
 
 加恩通常与[艾德](Ide.md "艾德")和[乌米](Umi.md "乌米")一起在林地的训练区。他似乎对训练假人感到厌倦，渴望在真正的[地精](Goblin.md "地精")身上练习。在与[阿沙拉克](Asharak.md "阿沙拉克")互动时，队伍可以鼓励或劝阻他和其他孩子。
 
-如果队伍在解决[卡哈](Kagha.md "卡哈")的[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the [Emerald Grove](Emerald_Grove.md "Emerald Grove") and Gan's corpse can be found among the pile of refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village") 之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林们会被驱逐出[翠绿林地](Emerald_Grove.md "翠绿林地")，加恩的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥附近的难民堆中找到。
+如果队伍在解决[卡哈](Kagha.md "卡哈")的[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the [翠绿林地](Emerald_Grove.md "翠绿林地") and Gan's corpse can be found among the pile of refugees near the bridge to the [染疫村落](Blighted_Village.md "染疫村落") 之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林们会被驱逐出[翠绿林地](Emerald_Grove.md "翠绿林地")，加恩的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥附近的难民堆中找到。
 
 ## 闲聊
 

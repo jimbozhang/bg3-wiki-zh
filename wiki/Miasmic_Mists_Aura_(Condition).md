@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_CAZADORSPALACE_CAZADOR_MISTY_ESCAPE_TACTICIAN_AURA_STATUS` [状态组](Status_groups.md "状态组"): [SG_Blinded](SG_Blinded.md "SG 目盲"), [SG_Condition](SG_Condition.md "SG 状态")
+[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_CAZADORSPALACE_CAZADOR_MISTY_ESCAPE_TACTICIAN_AURA_STATUS` [状态组](Status_groups.md "状态组"): [目盲 (状态组)](SG_Blinded.md "目盲 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合开始
 

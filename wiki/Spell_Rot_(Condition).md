@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_ANCIENTLAIR_CURSE` [状态组](Status_groups.md "状态组"): [SG_Cursed](SG_Cursed.md "SG Cursed")
+[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_ANCIENTLAIR_CURSE` [状态组](Status_groups.md "状态组"): [被诅咒（状态组）](SG_Cursed.md "被诅咒（状态组）")
 
 [如果已应用](Conditions.md#Stack_type "状态"): 替换当前
 

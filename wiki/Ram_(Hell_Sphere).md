@@ -1,8 +1,8 @@
 # Ram (Hell Sphere)
 
-本文介绍的是地狱法球使用的技能。关于炽焰法球使用的基础版本，请参见 [Ram](Ram.md "Ram")。
+本文介绍的是地狱法球使用的技能。关于炽焰法球使用的基础版本，请参见 [冲撞](Ram.md "冲撞")。
 
-**冲撞**是 [地狱法球](Hell_Sphere.md "Hell Sphere") 使用的主要攻击。它允许地狱法球以消耗一个附赠动作的代价，对目标造成极高的 ⁠[火焰](Fire.md "Fire") 伤害。它等同于使用 6 级法术位施放的 [炽焰法球](Flaming_Sphere.md "Flaming Sphere") 所使用的 [Ram](Ram.md "Ram")。
+**冲撞**是 [地狱法球](Hell_Sphere.md "Hell Sphere") 使用的主要攻击。它允许地狱法球以消耗一个附赠动作的代价，对目标造成极高的 ⁠[火焰](Fire.md "Fire") 伤害。它等同于使用 6 级法术位施放的 [炽焰法球](Flaming_Sphere.md "Flaming Sphere") 所使用的 [冲撞](Ram.md "冲撞")。
 
 ## 描述
 

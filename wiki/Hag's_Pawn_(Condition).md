@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `HAG_MASK_CONTROLLED` [状态组](Status_groups.md "状态组"): [SG_Possessed](SG_Possessed.md "SG 附身"), [SG_ScriptedPeaceBehaviour](SG_ScriptedPeaceBehaviour.md "SG 脚本化和平行为")
+[堆叠ID](Stack_ID.md "堆叠ID"): `HAG_MASK_CONTROLLED` [状态组](Status_groups.md "状态组"): [附身 (状态组)](SG_Possessed.md "附身 (状态组)"), [SG_ScriptedPeaceBehaviour](SG_ScriptedPeaceBehaviour.md "SG 脚本化和平行为")
 
 [更多属性](Status_properties.md "状态属性"):
 
@@ -15,7 +15,7 @@
 ## 备注
 
 - 受影响的队伍成员将完全由游戏AI控制，其行为可能出乎意料。
-- 尽管工具提示描述说明状态持续至面具移除或死亡，但每驱散可通过一次成功的[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 19[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")来抑制此状态。
+- 尽管工具提示描述说明状态持续至面具移除或死亡，但每驱散可通过一次成功的[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 19[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")来抑制此状态。
 
 ## 鬼婆的仆从来源
 

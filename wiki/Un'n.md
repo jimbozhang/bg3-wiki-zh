@@ -279,7 +279,7 @@ UUID
 - [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
 - [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
 
-**掠夺者乌恩**是[吉斯洋基人](Githyanki.md "吉斯洋基人")[掠夺者](Raider.md "掠夺者")[NPC](NPC.md "NPC")，出现在[第一幕](Act_One.md "第一幕")。他是居住在伊雷珂养育间的吉斯洋基人团体成员，在[审判官](Inquisitor_W'wargaz.md "审判官 W'wargaz")到来之前。
+**掠夺者乌恩**是[吉斯洋基人](Githyanki.md "吉斯洋基人")[掠夺者](Raider.md "掠夺者")[非玩家角色](NPC.md "非玩家角色")，出现在[第一幕](Act_One.md "第一幕")。他是居住在伊雷珂养育间的吉斯洋基人团体成员，在[审判官](Inquisitor_W'wargaz.md "审判官 W'wargaz")到来之前。
 
 ## 目录
 

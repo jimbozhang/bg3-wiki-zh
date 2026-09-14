@@ -12,7 +12,7 @@
 | 先攻 | 0 |
 | 移动速度 | 8 米 (27 英尺) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -28,7 +28,7 @@
 
 在阳光下时，[属性检定](Ability_Check.md "Ability Check")、[攻击掷骰](Attack_rolls.md "Attack Rolls")和[豁免检定](Saving_throws.md "Saving Throws")具有[劣势](Disadvantage.md "Disadvantage")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -44,7 +44,7 @@
 
 在阳光下时，[属性检定](Ability_Check.md "Ability Check")、[攻击掷骰](Attack_rolls.md "Attack Rolls")和[豁免检定](Saving_throws.md "Saving Throws")具有[劣势](Disadvantage.md "Disadvantage")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

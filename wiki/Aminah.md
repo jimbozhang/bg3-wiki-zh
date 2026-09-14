@@ -14,7 +14,7 @@
 | 移动速度 | 7.5 米 (25 英尺) |
 | 经验值 | 320 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -46,7 +46,7 @@
 
 战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -78,7 +78,7 @@
 
 战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

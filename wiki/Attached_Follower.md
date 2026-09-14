@@ -356,7 +356,7 @@
 - [威尔](Wyll.md "威尔")：
   - 选择在他对抗[卡菈克](Karlach.md "卡菈克")时保护她
   - 选择洗劫翠绿林地<sup>[\[16\]](#cite_note-grove-16)</sup>
-  - 杀死翠绿林地的成员\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+  - 杀死翠绿林地的成员\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
   - 选择在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")内杀死或忽视[米佐拉](Mizora.md "米佐拉")
   - 在[钢铁王座](Iron_Throne.md "钢铁王座")杀死[乌尔德·雷文加德](Ulder_Ravengard.md "乌尔德·雷文加德")，或在他进入营地后以任何方式使他敌对
   - 作为[邪念](Dark_Urge.md "邪念")，如果[贾希拉](Jaheira.md "贾希拉")还活着，成为⁠[巴尔](Bhaal.md "巴尔")的选民

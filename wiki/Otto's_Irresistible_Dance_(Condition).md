@@ -10,7 +10,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `IRRESISTIBLE_DANCE` [状态组](Status_groups.md "Status groups"): [SG_Charmed](SG_Charmed.md "SG Charmed")
+[堆叠 ID](Stack_ID.md "Stack ID"): `IRRESISTIBLE_DANCE` [状态组](Status_groups.md "Status groups"): [魅惑（状态组）](SG_Charmed.md "魅惑（状态组）")
 
 [持续时间结束](Conditions.md#Duration "Conditions"): 回合开始时
 

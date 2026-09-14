@@ -1,6 +1,6 @@
 # 最亲爱的吉尔德罗
 
-一封来自他母亲的信，关于吉尔德罗·安格尔艾隆（[Gyldro Angleiron](Gyldro_Angleiron.md "Gyldro Angleiron")）的心理健康。
+一封来自他母亲的信，关于吉尔德罗·安格尔艾隆（[吉尔德罗·角铁](Gyldro_Angleiron.md "吉尔德罗·角铁")）的心理健康。
 
 一张朴素无华的便条。
 

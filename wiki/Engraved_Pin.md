@@ -1,6 +1,6 @@
 # 有刻印的别针
 
-The **Engraved Pin** is a [Miscellaneous](Miscellaneous.md "Miscellaneous") item found in [Grymforge](Grymforge.md "Grymforge"). It is the calling card of a [Harper](Harpers.md "Harpers").
+The **Engraved Pin** is a [杂物](Miscellaneous.md "杂物") item found in [复仇之炉](Grymforge.md "复仇之炉"). It is the calling card of a [竖琴手同盟](Harpers.md "竖琴手同盟").
 **有刻印的别针**是在[复仇之炉](Grymforge.md "复仇之炉")中找到的[杂物](Miscellaneous.md "杂物")物品。它是[竖琴手](Harpers.md "竖琴手")的名片。
 
 A small but detailed pin, depicting a harp offset against a crescent moon.
@@ -8,7 +8,7 @@ A small but detailed pin, depicting a harp offset against a crescent moon.
 
 ## Properties
 
-- [Miscellaneous Items](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 - Rarity: Common
 - Weight: 0.2 kg (0.4 lb)
 - Price: 1 gp
@@ -21,16 +21,16 @@ A small but detailed pin, depicting a harp offset against a crescent moon.
 
 ## Where to find
 
-On the corpse of [Jhaam](Jhaam.md "Jhaam") an executed [drow](Drow.md "Drow") in the [Grymforge](Grymforge.md "Grymforge") [duergar](Duergar.md "Duergar") encampment, near [Murmath](Murmath.md "Murmath") at X: -632 Y: 388
+On the corpse of [嘉姆](Jhaam.md "嘉姆") an executed [卓尔](Drow.md "卓尔") in the [复仇之炉](Grymforge.md "复仇之炉") [矮人](Duergar.md "矮人") encampment, near [穆马斯](Murmath.md "穆马斯") at X: -632 Y: 388
 ## 获取地点
 
 在[复仇之炉](Grymforge.md "复仇之炉")的[灰矮人](Duergar.md "灰矮人")营地中，靠近[穆马斯](Murmath.md "穆马斯")，坐标 X: -632 Y: 388 处，被处决的[卓尔](Drow.md "卓尔")[贾姆](Jhaam.md "贾姆")的尸体上。
 
 ## Notes
 
-- When picked up, the active party members must pass a DC 10 [History](History.md "History") [Check](Ability_Check.md "Ability check") to recognize it as a [Harper](Harper.md "Harper") pin.
-- It is possible to cast [Speak with Dead](Speak_with_Dead.md "Speak with Dead") on the executed drow to learn that she was a Harper named [Jhaam](Jhaam.md "Jhaam") who was sent from [Last Light Inn](Last_Light_Inn.md "Last Light Inn") to investigate the Cult of the Absolute, on orders of [Jaheira](Jaheira.md "Jaheira").
-- Though obtained in [Act One](Act_One.md "Act One"), this pin fits into a hidden slot in a desk within [Elerrathin's Home](Elerrathin's_Home.md "Elerrathin's Home") in [Act Three](Act_Three.md "Act Three"). Doing so grants passage to Jaheira's private headquarters in the basement and also converts this item into a [Harp-Shaped Pin](Harp-Shaped_Pin.md "Harp-Shaped Pin").
+- When picked up, the active party members must pass a DC 10 [历史](History.md "历史") [属性](Ability_Check.md "属性") to recognize it as a [竖琴手同盟](Harper.md "竖琴手同盟") pin.
+- It is possible to cast [死者交谈](Speak_with_Dead.md "死者交谈") on the executed drow to learn that she was a Harper named [嘉姆](Jhaam.md "嘉姆") who was sent from [Last Light Inn](Last_Light_Inn.md "Last Light Inn") to investigate the Cult of the Absolute, on orders of [贾希拉](Jaheira.md "贾希拉").
+- Though obtained in [第一幕](Act_One.md "第一幕"), this pin fits into a hidden slot in a desk within [戈尔布雷斯之家](Elerrathin's_Home.md "戈尔布雷斯之家") in [第三幕](Act_Three.md "第三幕"). Doing so grants passage to Jaheira's private headquarters in the basement and also converts this item into a [竖琴形状别针](Harp-Shaped_Pin.md "竖琴形状别针").
 ## 备注
 
 - 拾取时，当前队伍成员必须通过 DC 10 的[历史的](History.md "历史的")[属性检定](Ability_Check.md "属性检定")才能认出这是[竖琴手](Harper.md "竖琴手")的别针。

@@ -54,7 +54,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 _关于地狱武器：_
 
-- 无论[中毒](Poisoned_(Condition).md "中毒（状态）")豁免检定成功或失败，战斗日志中均不显示其掷骰。由于其[DC](Dice_rolls.md#Save_DCs "掷骰") 12的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")较低，这可能让人误以为中毒效果完全无效。
+- 无论[中毒](Poisoned_(Condition).md "中毒（状态）")豁免检定成功或失败，战斗日志中均不显示其掷骰。由于其[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")较低，这可能让人误以为中毒效果完全无效。
 
 ---
 *Source: [Infernal Mace](https://bg3.wiki/wiki/Infernal_Mace)*

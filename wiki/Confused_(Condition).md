@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID")：`MADNESS` [状态组](Status_groups.md "Status groups")：[SG_Confused](SG_Confused.md "SG Confused")
+[堆叠 ID](Stack_ID.md "Stack ID")：`MADNESS` [状态组](Status_groups.md "Status groups")：[SG 困惑](SG_Confused.md "SG 困惑")
 
 [堆叠优先级](Stack_priority.md "Stack priority")：2
 

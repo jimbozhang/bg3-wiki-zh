@@ -51,7 +51,7 @@ Modding指南
 - [示例装备Mod](https://www.nexusmods.com/baldursgate3/mods/249) 由AnteMaxx制作
   - 一个用于护甲和武器Modding以及实现自定义图标的模板Mod。包含3件护甲、1件武器和1个背包。主要是Modder资源，但玩家也可以享受。
 - [BG3 Creator's Cauldron](https://www.nexusmods.com/baldursgate3/mods/1808)- 一个较旧的程序。因其护甲.txt和被动的长列表而有用，供你使用。
-- [BG3 MiniTool by Padme4000](https://www.nexusmods.com/baldursgate3/mods/502)- 可以生成一个[Meta](Modding_colon_Creating_meta.lsx.md "Modding:Creating meta.lsx")供你使用。
+- [BG3 MiniTool by Padme4000](https://www.nexusmods.com/baldursgate3/mods/502)- 可以生成一个[模组：创建 meta.lsx](Modding_colon_Creating_meta.lsx.md "模组：创建 meta.lsx")供你使用。
 
 ## 文件概述
 

@@ -1,6 +1,6 @@
 # 保险库箱子钥匙
 
-There are a number of similarly named keys, for disambiguation see: [Vault Key](Vault_Key.md "Vault Key")
+There are a number of similarly named keys, for disambiguation see: [保险库钥匙](Vault_Key.md "保险库钥匙")
 
 保险库箱子钥匙是[第三幕](Act_Three.md "Act Three")中的一种杂物[故事道具](Story_Item.md "Story Item")。
 

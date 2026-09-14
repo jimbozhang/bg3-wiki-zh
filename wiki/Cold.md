@@ -63,7 +63,7 @@
 
 以下[消耗品](Consumable.md "消耗品")物品可用于造成寒冷伤害。对于[箭](Arrows.md "箭")，伤害是攻击者常规远程武器伤害的额外部分。
 
-- [寒冰箭](Arrow_of_Ice.md "寒冰箭")：在区域内造成 +2d4⁠⁠寒冷伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）可豁免。
+- [寒冰箭](Arrow_of_Ice.md "寒冰箭")：在区域内造成 +2d4⁠⁠寒冷伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）可豁免。
 
 ## 互动
 

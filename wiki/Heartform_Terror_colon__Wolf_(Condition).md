@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `WILDSHAPE` [状态组](Status_groups.md "状态组"): [SG_Polymorph](SG_Polymorph.md "SG 变形"), [SG_Polymorph_BeastShape](SG_Polymorph_BeastShape.md "SG 变形 野兽形态"), [SG_Polymorph_BeastShape_NPC](SG_Polymorph_BeastShape_NPC.md "SG 变形 野兽形态 NPC"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG 非静默对话时丢弃")
+[堆叠ID](Stack_ID.md "堆叠ID"): `WILDSHAPE` [状态组](Status_groups.md "状态组"): [变形状态组 (Polymorphed (status group))](SG_Polymorph.md "变形状态组 (Polymorphed (status group))"), [变形野兽形态（状态组）](SG_Polymorph_BeastShape.md "变形野兽形态（状态组）"), [SG 变形 野兽形态 NPC](SG_Polymorph_BeastShape_NPC.md "SG 变形 野兽形态 NPC"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG 非静默对话时丢弃")
 
 [堆叠优先级](Stack_priority.md "堆叠优先级"): 2
 

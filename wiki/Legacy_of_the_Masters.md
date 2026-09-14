@@ -1,13 +1,13 @@
 # 大师的遗产
 
-大师的遗产是一副非常稀有的[Gloves](Gloves.md "手套")，能为穿戴者提供+2的[攻击](Attack_rolls.md "攻击掷骰")和[伤害掷骰](Damage_rolls.md "伤害掷骰")加值。
+大师的遗产是一副非常稀有的[手部装备](Gloves.md "手部装备")，能为穿戴者提供+2的[攻击](Attack_rolls.md "攻击掷骰")和[伤害掷骰](Damage_rolls.md "伤害掷骰")加值。
 
 这些护手曾是[Threskel](https://forgottenrealms.fandom.com/wiki/Threskel)皇室的财产，它们赋予了Threskel王子传奇般的武器技巧。
 
 ## 属性
 
-- [Gloves](Gloves.md "手套")
-- 所需熟练项：[Medium Armour](Medium_Armour.md "中甲")
+- [手部装备](Gloves.md "手部装备")
+- 所需熟练项：[护甲](Medium_Armour.md "护甲")
 - 稀有度：非常稀有
 - 重量：0.5 kg (1 lb)
 - 价格：570 gp / 2100 gpHHonour
@@ -15,14 +15,14 @@
 
 此物品的穿戴者获得：
 
-- [Strength](Strength.md "力量") [Saving Throws](Saving_throw.md "豁免检定") +1
+- [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") +1
 
-[Arming Enhancement](Arming_Enhancement.md "武器增强")
-获得+2的[Attack Roll](Attack_roll.md "攻击掷骰")和[伤害掷骰](Damage_Roll.md "伤害掷骰")加值，适用于武器。
+[武器增强](Arming_Enhancement.md "武器增强")
+获得+2的[攻击](Attack_roll.md "攻击")和[伤害掷骰](Damage_Roll.md "伤害掷骰")加值，适用于武器。
 
 ## 获取地点
 
-- [Forge of the Nine](Forge_of_the_Nine.md "九层锻炉") X: 392 Y: 766：在[Act Three](Act_Three.md "第三章")由[Dammon](Dammon.md "戴摩")出售
+- [九层锻炉](Forge_of_the_Nine.md "九层锻炉") X: 392 Y: 766：在[第三幕](Act_Three.md "第三幕")由[戴摩](Dammon.md "戴摩")出售
 
 ## 错误
 
@@ -32,7 +32,7 @@ _关于武器增强：_
 
 ## 图库
 
-- [Dyed](Dye.md "染色")变体
+- [染料](Dye.md "染料")变体
 
 ---
 *Source: [Legacy of the Masters](https://bg3.wiki/wiki/Legacy_of_the_Masters)*

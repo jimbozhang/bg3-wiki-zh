@@ -35,7 +35,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

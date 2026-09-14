@@ -27,7 +27,7 @@
 
 持续时间：4[驱散](Turn.md "Turn")
 
-[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 13)
+[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 13)
 
 - 无论你走到哪里，都会创造一个半径2米（7英尺）的噼啪爆炸，造成1d4[闪电](Lightning.md "Lightning")伤害。
 

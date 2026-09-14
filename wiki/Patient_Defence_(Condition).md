@@ -11,7 +11,7 @@
 
 ## 坚强防御的来源
 
-- [Patient Defence](Patient_Defence.md "Patient Defence")
+- [坚强防御](Patient_Defence.md "坚强防御")
 
 ## 拥有坚强防御的生物
 

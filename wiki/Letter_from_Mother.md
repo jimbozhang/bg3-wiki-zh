@@ -1,6 +1,6 @@
 # Letter from Mother
 
-一封写给 [Fireliia Jannath](Fireliia_Jannath.md "Fireliia Jannath") 的信，来自她的母亲。
+一封写给 [菲莉亚·迦纳斯](Fireliia_Jannath.md "菲莉亚·迦纳斯") 的信，来自她的母亲。
 
 一张朴素无华的便条。
 
@@ -18,7 +18,7 @@
 
 - UID `BOOK_LOW_OskarsBeloved_JannathMotherLetter` UUID `656250a4-3e73-45c1-a9b9-1efc1fca9b8a` ## 位置
 
-- 在 [Lady Jannath's](Fireliia_Jannath.md "Fireliia Jannath") 卧室的桌子 X: -243 Y: -53 处，位于 [Lady Jannath's Estate](Lady_Jannath's_Estate.md "Lady Jannath's Estate")
+- 在 [菲莉亚·迦纳斯](Fireliia_Jannath.md "菲莉亚·迦纳斯") 卧室的桌子 X: -243 Y: -53 处，位于 [迦纳斯夫人的宅邸](Lady_Jannath's_Estate.md "迦纳斯夫人的宅邸")
 
 ## 文本
 

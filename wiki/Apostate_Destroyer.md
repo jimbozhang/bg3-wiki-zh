@@ -32,7 +32,7 @@
 
 此生物及 3 米 (10 英尺) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力](Charisma.md "魅力")作为其近战武器伤害的加值。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -40,7 +40,7 @@
 
 此生物及 3 米 (10 英尺) 范围内的**所有**[邪魔](Fiends.md "邪魔")和[不死生物](Undead.md "不死生物")获得此生物的[魅力](Charisma.md "魅力")作为其近战武器伤害的加值。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 

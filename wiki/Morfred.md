@@ -39,11 +39,11 @@
 - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **莫弗雷德**，或称**地狱石匠**，是众多在与[拉斐尔](Raphael.md "拉斐尔")达成交易后被困在[希望之邸](House_of_Hope.md "希望之邸")的地狱债务人之一。<sup>[\[3\]](#cite_note-3)</sup> 他可以在希望之邸的宴会大厅里打扫卫生和四处闲逛。
 

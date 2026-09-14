@@ -6,7 +6,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组")：[SG_Drunk](SG_Drunk.md "SG Drunk")
+[状态组](Status_groups.md "状态组")：[SG 醉酒](SG_Drunk.md "SG 醉酒")
 
 ## 微醺的来源
 

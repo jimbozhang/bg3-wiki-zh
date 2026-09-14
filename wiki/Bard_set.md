@@ -1,6 +1,6 @@
 # 吟游诗人套装
 
-The **Bard set** includes items that interact with [Bard](Bard.md "Bard") mechanics.
+The **Bard set** includes items that interact with [诗人](Bard.md "诗人") mechanics.
 
 | 名称 | 插槽 | 效果 |
 | --- | --- | --- |

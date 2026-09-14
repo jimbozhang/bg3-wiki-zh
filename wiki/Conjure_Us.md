@@ -16,7 +16,7 @@
 
 ## 生物：我们（第二幕）
 
-| [STR](Strength.md "力量") 6 (-2) | [DEX](Dexterity.md "敏捷") 14 (+2) | [CON](Constitution.md "体质") 13 (+1) | [INT](Intelligence.md "智力") 12 (+1) | [WIS](Wisdom.md "感知") 11 | [CHA](Charisma.md "魅力") 10 |
+| [力量](Strength.md "力量") 6 (-2) | [敏捷](Dexterity.md "敏捷") 14 (+2) | [体质](Constitution.md "体质") 13 (+1) | [智力](Intelligence.md "智力") 12 (+1) | [感知](Wisdom.md "感知") 11 | [魅力](Charisma.md "魅力") 10 |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 | 生命值 | 55 |  |  |  |  |
@@ -31,7 +31,7 @@
 
 ## 生物：我们（脑叶切除）
 
-| [STR](Strength.md "力量") 6 (-2) | [DEX](Dexterity.md "敏捷") 14 (+2) | [CON](Constitution.md "体质") 13 (+1) | [INT](Intelligence.md "智力") 8 (-1) | [WIS](Wisdom.md "感知") 8 (-1) | [CHA](Charisma.md "魅力") 10 |
+| [力量](Strength.md "力量") 6 (-2) | [敏捷](Dexterity.md "敏捷") 14 (+2) | [体质](Constitution.md "体质") 13 (+1) | [智力](Intelligence.md "智力") 8 (-1) | [感知](Wisdom.md "感知") 8 (-1) | [魅力](Charisma.md "魅力") 10 |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 | 生命值 | 41 |  |  |  |  |

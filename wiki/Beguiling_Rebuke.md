@@ -13,7 +13,7 @@
 ## 属性
 
 详情
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 18）
 射程：18米（60英尺）
 
 ## 高等施法
@@ -26,7 +26,7 @@
 
 持续时间：2驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 18）
 
 - 此生物已被[拉斐尔](Raphael.md "Raphael")魅惑，无法以攻击或法术瞄准他。
 

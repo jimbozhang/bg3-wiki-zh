@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `CHARM_ANIMALS_AND_PLANTS` [状态组](Status_groups.md "状态组"): [SG_Charmed](SG_Charmed.md "SG Charmed"), [SG_Condition](SG_Condition.md "SG Condition"), [SG_Charmed_Subtle](SG_Charmed_Subtle.md "SG Charmed Subtle")
+[堆叠ID](Stack_ID.md "堆叠ID"): `CHARM_ANIMALS_AND_PLANTS` [状态组](Status_groups.md "状态组"): [魅惑（状态组）](SG_Charmed.md "魅惑（状态组）"), [SG 状态](SG_Condition.md "SG 状态"), [SG 魅惑精微](SG_Charmed_Subtle.md "SG 魅惑精微")
 
 ## 错误
 

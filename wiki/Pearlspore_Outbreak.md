@@ -13,7 +13,7 @@
 16d6⁠[中毒](Poison.md "中毒")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 10）
 范围效果：6 米（20 英尺）半径
 创建区域：毒云
 持续时间：10 驱散

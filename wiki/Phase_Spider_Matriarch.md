@@ -11,7 +11,7 @@
 | 先攻 | +4 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -27,7 +27,7 @@
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -43,7 +43,7 @@
 
 不会被地表蛛网减速或[网缚](Enwebbed_(Condition).md)。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -97,7 +97,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 19 / (+4) | 14 / (+2) | 6 / (-2) | 12 / (+1) | 6 / (-2) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

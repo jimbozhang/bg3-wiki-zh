@@ -19,7 +19,7 @@
 
 持续时间：2 驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 施法者)
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 施法者)
 
 - 受影响的生物无法移动。恐慌的生物在[属性检定](Ability_Check.md "Ability Check")和[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")。
 

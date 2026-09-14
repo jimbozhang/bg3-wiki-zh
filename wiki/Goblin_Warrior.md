@@ -129,7 +129,7 @@
 范围：正常武器范围
 
 [准备](Prepare.md "Prepare") – [巨斧](Greataxe.md "Greataxe")
-花费 6 m (20 ft) 的[移动](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[DRS](Damage_rider_as_source.md "Damage rider as source") 伤害（最低 1）。
+花费 6 m (20 ft) 的[移动](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害（最低 1）。
 
 范围：自身
 充能：[短休](Short_rest.md "Short rest")
@@ -146,22 +146,22 @@
 
 ## 命名地精战士
 
-- [Bez](Bez.md "Bez")
-- [Clack](Clack.md "Clack")
-- [Druk](Druk.md "Druk")
-- [Gresh](Gresh.md "Gresh")
-- [Grush](Grush.md "Grush")
-- [Jawn](Jawn.md "Jawn")
-- [Kramp](Kramp.md "Kramp")
+- [贝兹](Bez.md "贝兹")
+- [克拉克](Clack.md "克拉克")
+- [德鲁克](Druk.md "德鲁克")
+- [格雷什](Gresh.md "格雷什")
+- [格鲁什](Grush.md "格鲁什")
+- [乔恩](Jawn.md "乔恩")
+- [克兰普](Kramp.md "克兰普")
 - [Nrog](Nrog.md "Nrog")
-- [Olak](Olak.md "Olak")
-- [Plagg](Plagg.md "Plagg")
-- [Plig](Plig.md "Plig")
-- [Puce](Puce.md "Puce")
-- [Rua](Rua.md "Rua")
+- [奥拉克](Olak.md "奥拉克")
+- [普拉格](Plagg.md "普拉格")
+- [普利格](Plig.md "普利格")
+- [普斯](Puce.md "普斯")
+- [鲁阿](Rua.md "鲁阿")
 - [Spike](Spike.md "Spike")
 - [Sul](Sul_(goblin).md "Sul (goblin)")
-- [Trinzas](Trinzas.md "Trinzas")
+- [特林扎斯](Trinzas.md "特林扎斯")
 - [Trunk](Trunk_(goblin).md "Trunk (goblin)")
 
 ---

@@ -9,7 +9,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `UNI_POISON_BREWER_CONDITION` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG Surface"), [SG_Poisoned](SG_Poisoned.md "SG Poisoned"), [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠ID](Stack_ID.md "堆叠ID"): `UNI_POISON_BREWER_CONDITION` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG Surface"), [中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合结束
 

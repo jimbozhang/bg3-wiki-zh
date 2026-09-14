@@ -4,7 +4,7 @@
 
 _死去的女孩的吸取诅咒正在吸取你的生命力。_
 
-- 受影响的实体每回合受到 4d6+4⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。成功通过 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 8 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw") 时承受一半伤害。
+- 受影响的实体每回合受到 4d6+4⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。成功通过 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 8 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw") 时承受一半伤害。
 - 移动消耗加倍。
 
 ## 属性
@@ -27,7 +27,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 受影响的实体每回合受到 4d6+4⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。成功通过 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 8 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw") 时承受一半伤害。
+- 受影响的实体每回合受到 4d6+4⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。成功通过 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 8 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw") 时承受一半伤害。
 - 移动消耗加倍。
 
 ---

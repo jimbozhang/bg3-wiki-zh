@@ -8,9 +8,9 @@
 
 [Pact of the Blade](Pact_of_the_Blade_(passive_feature).md "Pact of the Blade (passive feature)")
 使用你的魔契武器获得一次 [额外攻击](Extra_Attack.md "Extra Attack")。
-[Pact of the Chain](Pact_of_the_Chain.md "Pact of the Chain")
+[链之魔契](Pact_of_the_Chain.md "链之魔契")
 [获得魔宠](Find_Familiar.md "Find Familiar") 的魔宠也获得一次额外攻击。
-[Pact of the Tome](Pact_of_the_Tome.md "Pact of the Tome")
+[书之魔契](Pact_of_the_Tome.md "书之魔契")
 可以施放 [操纵死尸](Animate_Dead.md "Animate Dead")、[加速术](Haste.md "Haste")、[召雷术](Call_Lightning.md "Call Lightning")，每长休一次。
 
 ## 如何习得

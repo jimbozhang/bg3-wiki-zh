@@ -17,7 +17,7 @@
 2d8[黯蚀](Necrotic.md "黯蚀")（每回合）
 
 详情
-[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）
 射程：4米（13英尺）
 
 ## 高等级施法
@@ -30,7 +30,7 @@
 
 持续时间：2回合
 
-[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）
 
 - 被黑暗所困扰。
 - 受影响实体如果进入或在其回合开始时处于轻度或重度遮蔽区域，则会受到2d8[黯蚀](Necrotic.md "黯蚀")伤害。

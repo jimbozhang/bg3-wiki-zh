@@ -19,7 +19,7 @@
 \+ 1d4⁠[黯蚀](Necrotic.md "黯蚀") (每回合)
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14) (豁免成功时：目标仍受到 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 14) (豁免成功时：目标仍受到 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。)
 范围：6 米 (20 英尺)
 区域：3 米 (10 英尺) 半径
 目标：半径内的所有敌人
@@ -34,7 +34,7 @@
 
 持续时间：10 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 14)
 
 - 当其在[轻度遮蔽](Lightly_Obscured.md "轻度遮蔽")或[重度遮蔽](Heavily_Obscured.md "重度遮蔽")区域开始其回合时，受影响实体受到 1d4⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。暗夜法官在其[阴影形态](Umbral_Form_(Condition).md "阴影形态 (状态)")下进行的攻击对实体造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 

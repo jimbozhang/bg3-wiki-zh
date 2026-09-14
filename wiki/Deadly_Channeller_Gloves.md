@@ -2,13 +2,13 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取。但仍可通过第三方工具访问。
 
-致命导引手套是一副稀有的[Gloves](Gloves.md "Gloves")，能暂时降低使用者的重击阈值。
+致命导引手套是一副稀有的[手部装备](Gloves.md "手部装备")，能暂时降低使用者的重击阈值。
 
 右手手套内侧用金线绣着一条信息，暗示这是一份生日礼物。
 
 ## 属性
 
-- [Gloves](Gloves.md "Gloves")
+- [手部装备](Gloves.md "手部装备")
 - 稀有度：稀有
 - 重量：0.5 千克 (1 磅)
 - 价格：240 金币
@@ -16,7 +16,7 @@
 
 穿戴此物品获得：
 
-[Arcane Critical](Arcane_Critical.md "Arcane Critical") (+ )
+[奥术重击](Arcane_Critical.md "奥术重击") (+ )
 可随意施放为 1 级法术。
 
 ## 获取地点

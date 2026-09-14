@@ -52,7 +52,7 @@
 
 ## 相关物品
 
-- [地狱骑士团长弓](Hellrider_Longbow.md "地狱骑士团长弓") - 使用此武器造成伤害时，通过[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")（[DC](Dice_rolls.md#Save_DCs "掷骰")12）施加[妖火](Faerie_Fire_(Condition).md "妖火（状态）")。
+- [地狱骑士团长弓](Hellrider_Longbow.md "地狱骑士团长弓") - 使用此武器造成伤害时，通过[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")（[掷骰](Dice_rolls.md#Save_DCs "掷骰")12）施加[妖火](Faerie_Fire_(Condition).md "妖火（状态）")。
 - [艾克斯阎蒂](Xyanyde.md "艾克斯阎蒂") - 每[短休](Short_Rest.md "短休")一次，使用此武器未命中时施加[妖火](Faerie_Fire_(Condition).md "妖火（状态）")。
 - [狩猎饰环](Circlet_of_Hunting.md "狩猎饰环") - 对被[妖火](Faerie_Fire_(Condition).md "妖火（状态）")标记的生物进行攻击掷骰时获得+1d4加值。
 

@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `ENSNARED` [状态组](Status_groups.md "状态组"): [SG_Restrained](SG_Restrained.md "SG 束缚"), [SG_Condition](SG_Condition.md "SG 状态"), [SG_Surface](SG_Surface.md "SG 地表")
+[堆叠ID](Stack_ID.md "堆叠ID"): `ENSNARED` [状态组](Status_groups.md "状态组"): [束缚 (状态组)](SG_Restrained.md "束缚 (状态组)"), [SG 状态](SG_Condition.md "SG 状态"), [SG_Surface](SG_Surface.md "SG 地表")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合结束
 
@@ -40,7 +40,7 @@
 | [诱捕](Ensnared_(Condition).md "诱捕 (状态)") | 受影响实体无法移动。对其的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，而其攻击掷骰和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 |
 | 缠绕 | 无法移动。对生物的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，而该生物的攻击掷骰和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 |
 | [死灵束缚](Necromantic_Restraints_(Condition).md "死灵束缚 (状态)") | 受影响实体无法移动。 |
-| [幽影诅咒藤蔓](Shadow-Cursed_Vines_(Condition).md "幽影诅咒藤蔓 (状态)") | 受影响实体无法移动，每回合受到 1-4⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害附加源") 伤害。对其的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")，而其攻击掷骰和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 |
+| [幽影诅咒藤蔓](Shadow-Cursed_Vines_(Condition).md "幽影诅咒藤蔓 (状态)") | 受影响实体无法移动，每回合受到 1-4⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。对其的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")，而其攻击掷骰和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 |
 | [织法束缚藤蔓](Weavebound_Vines_(Condition).md "织法束缚藤蔓 (状态)") | 由织法本身编织而成的藤蔓——一种极不正统的惑控。使受影响实体[失能](Incapacitate.md "失能")。当实体被攻击时驱散。 |
 
 ---

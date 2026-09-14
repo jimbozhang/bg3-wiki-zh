@@ -15,7 +15,7 @@
 6d8 + [力量调整值](Strength.md#Strength_modifier_chart "力量")⁠[强酸](Acid.md "强酸")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）（豁免成功：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）（豁免成功：目标仍承受一半伤害。）
 范围：4 米（13 英尺）
 创建区域：强酸
 充能：每回合

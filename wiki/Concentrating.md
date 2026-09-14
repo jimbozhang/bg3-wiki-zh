@@ -52,7 +52,7 @@
 
 某些状态也会打断专注，且不允许豁免：
 
-- [SG_Incapacitated](SG_Incapacitated.md "SG 失能")中的任何状态
+- [失能 (状态组)](SG_Incapacitated.md "失能 (状态组)")中的任何状态
 - [倒地](Downed_(Condition).md "倒地 (状态)")
 - [流放](Banished_(Condition).md "流放 (状态)")
 - [沉睡](Sleeping_(Condition).md "沉睡 (状态)")

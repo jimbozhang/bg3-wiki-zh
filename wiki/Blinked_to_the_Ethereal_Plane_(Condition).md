@@ -11,7 +11,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `GASEOUS_FORM` [状态组](Status_groups.md "状态组"): [SG_Polymorph](SG_Polymorph.md "SG 变形"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG 非静默对话掉落"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG 重置时移除")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `GASEOUS_FORM` [状态组](Status_groups.md "状态组"): [变形状态组 (Polymorphed (status group))](SG_Polymorph.md "变形状态组 (Polymorphed (status group))"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG 非静默对话掉落"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG 重置时移除")
 
 [持续时间结束](Conditions.md#Duration "状态"): 驱散结束
 

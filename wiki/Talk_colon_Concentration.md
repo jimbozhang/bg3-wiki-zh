@@ -8,7 +8,7 @@
 
 这似乎不在[DND规则](https://www.dndbeyond.com/sources/basic-rules/spellcasting#concentration)中，但我现在无法确认Larian是否为游戏修改了这一点。
 
-是的，在最新的EA补丁中，它确实似乎会打破专注，而且也没有豁免检定。也许在发布时或之后会改变。 [Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [23:57, 2023年7月16日 (CEST)](https://bg3.wiki/wiki/Talk:Concentration#c-Taylan-20230716215700-Being_Knocked_Prone)回复
+是的，在最新的EA补丁中，它确实似乎会打破专注，而且也没有豁免检定。也许在发布时或之后会改变。 [笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [23:57, 2023年7月16日 (CEST)](https://bg3.wiki/wiki/Talk:Concentration#c-Taylan-20230716215700-Being_Knocked_Prone)回复
 
 ## 震慑和跛足状态也会打破专注
 

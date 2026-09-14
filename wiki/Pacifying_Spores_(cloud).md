@@ -16,7 +16,7 @@
 
 **[抚慰](Pacified_(Condition).md "抚慰 (状态)")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 10）
 
 - 失能。无法移动或采取动作、附赠动作或反应。
 

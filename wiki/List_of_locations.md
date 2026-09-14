@@ -1,6 +1,6 @@
 # 地点列表
 
-如需所有地点的文本列表，请参阅 [Category:Locations](Category_colon_Locations.md "Category:Locations")
+如需所有地点的文本列表，请参阅 [分类：地点](Category_colon_Locations.md "分类：地点")
 
 本文列出了《博德之门3》中的重要地点。
 

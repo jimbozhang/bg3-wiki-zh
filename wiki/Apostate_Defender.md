@@ -28,9 +28,9 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **变节的卫士**是在[第二幕](Act_Two.md "第二幕")期间于[堕影冥界](Shadowfell.md "堕影冥界")为[巴萨扎尔](Balthazar.md "巴萨扎尔")服务的复活骷髅。
 

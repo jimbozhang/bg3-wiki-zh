@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `ENSNARED` [状态组](Status_groups.md "Status groups"): [SG_Restrained](SG_Restrained.md "SG Restrained"), [SG_Condition](SG_Condition.md "SG Condition"), [SG_Surface](SG_Surface.md "SG Surface")
+[堆叠ID](Stack_ID.md "Stack ID"): `ENSNARED` [状态组](Status_groups.md "Status groups"): [束缚 (状态组)](SG_Restrained.md "束缚 (状态组)"), [SG 状态](SG_Condition.md "SG 状态"), [SG_Surface](SG_Surface.md "SG Surface")
 
 [持续时间结束](Conditions.md#Duration "Conditions"): 回合开始时
 
@@ -50,7 +50,7 @@
 [幽影诅咒藤蔓](Shadow-Cursed_Vines_(Condition).md "Shadow-Cursed Vines (Condition)")
 |
 
-- 受影响实体无法移动，每回合受到 1-4⁠⁠[黯蚀](Necrotic.md "Necrotic")[DRS](Damage_rider_as_source.md "Damage rider as source") 伤害。针对它的[攻击掷骰](Attack_rolls.md "Attack Rolls")具有[优势](Advantage.md "Advantage")，而其攻击掷骰和[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")具有[劣势](Disadvantage.md "Disadvantage")。
+- 受影响实体无法移动，每回合受到 1-4⁠⁠[黯蚀](Necrotic.md "Necrotic")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。针对它的[攻击掷骰](Attack_rolls.md "Attack Rolls")具有[优势](Advantage.md "Advantage")，而其攻击掷骰和[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")具有[劣势](Disadvantage.md "Disadvantage")。
 
 [织法束缚藤蔓](Weavebound_Vines_(Condition).md "Weavebound Vines (Condition)")
 |

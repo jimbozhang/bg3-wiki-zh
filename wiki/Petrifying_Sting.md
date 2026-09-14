@@ -15,7 +15,7 @@
 10d6⁠[中毒](Poison.md "中毒")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）（豁免成功：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）（豁免成功：目标仍承受一半伤害。）
 近战：1.5米（5英尺）
 
 ## 状态：玛门的掌控
@@ -24,7 +24,7 @@
 
 持续时间：2驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）
 
 - 受影响实体暂时变为黄金。无法移动或进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。
 - 免疫

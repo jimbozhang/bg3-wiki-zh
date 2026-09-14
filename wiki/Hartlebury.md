@@ -38,7 +38,7 @@
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -48,7 +48,7 @@
 
 基础 [护甲等级](Armour_Class.md "护甲等级") 为 13
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -58,7 +58,7 @@
 
 基础 [护甲等级](Armour_Class.md "护甲等级") 为 13
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

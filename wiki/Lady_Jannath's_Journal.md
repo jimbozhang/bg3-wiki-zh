@@ -6,7 +6,7 @@
 
 - [书籍](Books.md "书籍")
 
-- 作者：[Fireliia Jannath](Fireliia_Jannath.md "Fireliia Jannath")
+- 作者：[菲莉亚·迦纳斯](Fireliia_Jannath.md "菲莉亚·迦纳斯")
 
 - 稀有度：普通
 

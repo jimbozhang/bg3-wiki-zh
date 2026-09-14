@@ -4,7 +4,7 @@
 
 最新评论：[2025年9月23日](#c-Raelin-20250922233900-Capranaut-20250922221600)2条评论2人参与讨论
 
-我没有自己编辑，因为这被标记为用户指南，但关于首次遭遇拉斐尔的信息不完整（并且可能包含错误信息）。我花了2个多小时深入研究（并咨询了SlimX）。结果在[Raphael#Encounter_Location](Raphael.md#Encounter_Location "Raphael") [Capranaut](User_colon_Capranaut.md "User:Capranaut") ([讨论](User_talk_colon_Capranaut.md "User talk:Capranaut")) [00:16, 2025年9月23日 (CEST)](https://bg3.wiki/wiki/Guide_talk:Early_Acquisition_of_Helldusk_Armour#c-Capranaut-20250922221600-Raphael_locations)回复
+我没有自己编辑，因为这被标记为用户指南，但关于首次遭遇拉斐尔的信息不完整（并且可能包含错误信息）。我花了2个多小时深入研究（并咨询了SlimX）。结果在[拉斐尔](Raphael.md#Encounter_Location "Raphael") [Capranaut](User_colon_Capranaut.md "User:Capranaut") ([讨论](User_talk_colon_Capranaut.md "User talk:Capranaut")) [00:16, 2025年9月23日 (CEST)](https://bg3.wiki/wiki/Guide_talk:Early_Acquisition_of_Helldusk_Armour#c-Capranaut-20250922221600-Raphael_locations)回复
 
 如果你能让指南更准确，请这样做。
 并且感谢你先询问。[Raelin](User_colon_Raelin.md "User:Raelin") ([讨论](User_talk_colon_Raelin.md "User talk:Raelin")) [01:39, 2025年9月23日 (CEST)](https://bg3.wiki/wiki/Guide_talk:Early_Acquisition_of_Helldusk_Armour#c-Raelin-20250922233900-Capranaut-20250922221600)回复

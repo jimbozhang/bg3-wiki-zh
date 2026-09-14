@@ -33,11 +33,11 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **安雅姐妹**是位于[雷斯文](Reithwin.md "雷斯文")镇的[治疗中心](House_of_Healing.md "治疗中心")中的一名[不死生物](Undead.md "不死生物")护士，出现在[第二幕](Act_Two.md "第二幕")期间。
 

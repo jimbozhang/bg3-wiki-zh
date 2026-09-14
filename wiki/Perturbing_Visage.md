@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 范围：10 米（33 英尺）半径
 
 ## 更高法术位
@@ -26,7 +26,7 @@
 
 持续时间：2 驱散
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 此实体无法采取[动作](Actions.md#Resources "动作")，因为其勇气已被幽魂扼杀。
 

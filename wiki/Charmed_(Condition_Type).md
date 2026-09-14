@@ -131,7 +131,7 @@
 |
 
 - 受影响实体被鸟妖的诱捕旋律吸引，并在其回合向鸟妖移动，可能引发其他鸟妖的借机攻击。
-- 受影响实体必须在回合开始时通过一次[DC](Dice_rolls.md#Save_DCs "掷骰") 13的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则保持被诱惑状态。
+- 受影响实体必须在回合开始时通过一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则保持被诱惑状态。
 - 受到伤害或被[推击](Shove.md "推击")会移除此状态。
 
 [心智奴役](Mind_Mastery_(Condition).md "心智奴役（状态）")

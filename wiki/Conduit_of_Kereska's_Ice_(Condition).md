@@ -28,7 +28,7 @@
 持续时间: 2 回合
 
 - 受影响实体在[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
-- 当剩余回合数为7或更多时，实体必须通过DC 12的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则受到1d4[寒冷](Cold.md "寒冷")[DRS](Damage_rider_as_source.md "伤害来源")伤害并变为[冰冻](Frozen_(Condition).md "冰冻 (状态)")。豁免成功时，仅受到一半伤害。之后，霜冻会脱落。
+- 当剩余回合数为7或更多时，实体必须通过DC 12的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则受到1d4[寒冷](Cold.md "寒冷")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害并变为[冰冻](Frozen_(Condition).md "冰冻 (状态)")。豁免成功时，仅受到一半伤害。之后，霜冻会脱落。
 - 可被[燃烧](Burning_(Condition).md "燃烧 (状态)")移除。
 
 ## 备注

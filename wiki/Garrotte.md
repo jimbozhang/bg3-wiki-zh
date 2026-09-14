@@ -17,7 +17,7 @@
 1d10⁠[钝击](Bludgeoning.md "钝击")
 
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）
 近战：1.5 米（5 英尺）
 充能：[短休](Short_rest.md "短休")
 [专注](Concentration.md "专注")
@@ -28,7 +28,7 @@
 
 持续时间：3 驱散
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）
 
 - 受影响实体正被绞杀术勒住。其处于[沉默](Silenced_(Condition).md)，并每驱散受到 3d6⁠⁠[钝击](Bludgeoning.md "钝击")伤害。
 - 在状态结束前，实体和施绞杀者均无法移动。

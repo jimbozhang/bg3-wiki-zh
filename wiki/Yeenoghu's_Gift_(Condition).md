@@ -15,7 +15,7 @@
 
 持续时间: 2驱散
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 10)
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 10)
 
 - 对周围所有人[敌对](Hostile.md "敌对")。
 

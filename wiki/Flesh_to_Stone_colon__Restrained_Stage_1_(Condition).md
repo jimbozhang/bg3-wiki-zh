@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`FLESH_TO_STONE` [状态组](Status_groups.md "状态组")：[SG_Restrained](SG_Restrained.md "SG Restrained")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`FLESH_TO_STONE` [状态组](Status_groups.md "状态组")：[束缚 (状态组)](SG_Restrained.md "束缚 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合结束
 

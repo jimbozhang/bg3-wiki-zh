@@ -59,7 +59,7 @@
 | [闪电混语](Lightning_Jabber.md "闪电混语") | +1 | 1d6 + 1 / 1d4 | 穿刺 / 闪电 | 1.35 kg / 2.7 lb | 65 | [电刺](Shocking_Sting.md "电刺")命中时，可能使目标[电击](Shocking_Grasp_(Condition).md "电爪（状态）")[[见：错误](Shocking_Sting#Bugs.md#Bugs "电刺")]。[投掷：闪电伤害](Throwing_colon__Lightning_Damage.md "投掷：闪电伤害")当投向目标时，造成额外1d4[闪电](Lightning.md "闪电")伤害。 |
 | [长弓 +1](Longbow_+1.md "长弓 +1") | +1 | 1d8 + 1 | 穿刺 | 1.1 kg / 2.2 lb | 65 |  |
 | [长剑 +1](Longsword_+1.md "长剑 +1") | +1 | 1d8 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 55 |  |
-| [劳薇塔的灾祸](Loviatar's_Scourge.md "劳薇塔的灾祸") |  | 1d6 / 1d6 | 钝击 / 黯蚀 | 1.8 kg / 3.6 lb | 370 | [意志之鞭](Willing_Whip.md "意志之鞭")获得对[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外1d6[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源")伤害。 |
+| [劳薇塔的灾祸](Loviatar's_Scourge.md "劳薇塔的灾祸") |  | 1d6 / 1d6 | 钝击 / 黯蚀 | 1.8 kg / 3.6 lb | 370 | [意志之鞭](Willing_Whip.md "意志之鞭")获得对[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外1d6[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。 |
 | [硬头锤 +1](Mace_+1.md "硬头锤 +1") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 40 |  |
 | [魔法长矛](Magical_Pike.md "魔法长矛") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 40 |  |
 | [巨锤 +1](Maul_+1.md "巨锤 +1") | +1 | 2d6 + 1 | 钝击 | 4.5 kg / 9 lb | 40 |  |
@@ -100,7 +100,7 @@
 | [森林弯刀](Sylvan_Scimitar.md "森林弯刀") | +1 | 1d6 + 1 | 挥砍 | 1.35 kg / 2.7 lb | 65 | [近战施法者](Melee_Caster.md "近战施法者")受影响的实体使用其[施法关键属性](Ability_scores#Spellcasting_ability.md#施法关键属性)调整值代替其敏捷[调整值](Ability_scores#Ability_score_modifiers.md#调整值)来添加到[攻击掷骰](Attack_roll.md "攻击掷骰")。 |
 | [注射器 (+1)](Syringe_(+1).md "注射器 (+1)") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [注射秘药](Inject_Nostrum.md "注射秘药") 将注射器中的神秘液体注入敌人，可能使其[中毒](Poisoned_(Condition).md "中毒（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [剥皮者](The_Skinburster.md "剥皮者") | +1 | 1d10 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 130 | [剥皮之力](Skinburster_Force.md "剥皮之力")当使用者用此武器造成近战伤害时，获得2回合的[导力](Force_Conduit_(Condition).md "导力（状态）")。 |
-| [不死灾祸](The_Undead_Bane.md "不死灾祸") | +1 | 1d12 + 1 | 挥砍 | 3.15 kg / 6.3 lb | 130 | [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外1d6[挥砍](Slashing.md "挥砍")伤害。[亵渎灾祸](Profane_Scourge.md "亵渎灾祸") 以征服之怒打击，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")添加到伤害掷骰中。如果击中[邪魔](Fiend.md "邪魔")或[不死生物](Undead.md "不死生物")生物，造成额外2d6[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并可能使其[枯竭](Bane_(Condition).md "枯竭（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
+| [不死灾祸](The_Undead_Bane.md "不死灾祸") | +1 | 1d12 + 1 | 挥砍 | 3.15 kg / 6.3 lb | 130 | [清洗邪恶](Slay_the_Wicked.md "清洗邪恶")此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外1d6[挥砍](Slashing.md "挥砍")伤害。[亵渎灾祸](Profane_Scourge.md "亵渎灾祸") 以征服之怒打击，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")添加到伤害掷骰中。如果击中[邪魔](Fiend.md "邪魔")或[不死生物](Undead.md "不死生物")生物，造成额外2d6[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，并可能使其[枯竭](Bane_(Condition).md "枯竭（状态）")。 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [钢铁卫士的指引](The_Watcher's_Guide.md "钢铁卫士的指引") |  | 1d6 | 穿刺 | 1.35 kg / 2.7 lb | 200 | [至死不渝](Death's_Promise.md "至死不渝")当矛未命中目标时，使用者的下一次对该目标的[攻击掷骰](Attack_roll.md "攻击掷骰")获得[克敌机先](True_Strike_(Condition).md "克敌机先（状态）")。 |
 
 ---

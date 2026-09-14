@@ -15,7 +15,7 @@
 8d10 + [敏捷调整值](Dexterity.md#Dexterity_modifier_chart "敏捷")⁠[穿刺](Piercing.md "穿刺")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）（豁免成功时：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）（豁免成功时：目标仍承受一半伤害。）
 范围：2.5 米（8 英尺）
 充能：每回合
 
@@ -25,7 +25,7 @@
 
 持续时间：2 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）
 
 - 受影响的生物无法移动。恐慌的生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 

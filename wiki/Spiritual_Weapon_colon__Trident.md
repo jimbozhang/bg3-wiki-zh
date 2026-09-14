@@ -48,7 +48,7 @@
 
 持续时间：2 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 对生物的成功攻击造成额外2⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 - _[荣誉模式](Honour_Mode.md "荣誉模式")：_ +2额外伤害改为加到原始攻击的伤害掷骰中，采用其伤害类型。

@@ -99,7 +99,7 @@
 ## 备注
 
 - [驱散魔法](https://www.dndbeyond.com/spells/dispel-magic)在D&D Beyond上。
-- 根据[Swen Vincke](Larian_Studios.md "Larian Studios")的说法，博德之门3的开发者曾试图让D&D的驱散魔法在游戏中生效，但“这会使游戏规模翻倍”。[[url 1]](#cite_note-1)
+- 根据[拉瑞安工作室](Larian_Studios.md "拉瑞安工作室")的说法，博德之门3的开发者曾试图让D&D的驱散魔法在游戏中生效，但“这会使游戏规模翻倍”。[[url 1]](#cite_note-1)
 
 ## 鉴定
 

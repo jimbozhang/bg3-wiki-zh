@@ -3,7 +3,7 @@
 | 此页面[正在构建或重新格式化中](Category_colon_Pages_under_construction.md "Category:Pages under construction")。欢迎您[贡献](Help_colon_How_to_Contribute.md "Help:How to contribute")。|
 最后编辑于2025年12月23日。如果自那时起已过去多日，应移除此模板。
 
-**彗星王子**是[莱埃泽尔](Lae'zel.md "Lae'zel")的个人任务[吉斯洋基战士](The_Githyanki_Warrior_(Origin)..md) It is initiated in [Act Three](Act_Three.md "Act Three") if the player character rejects an offer from ⁠[Queen Vlaakith](Vlaakith.md "Vlaakith") when she visits their camp.
+**彗星王子**是[莱埃泽尔](Lae'zel.md "Lae'zel")的个人任务[吉斯洋基战士](The_Githyanki_Warrior_(Origin)..md) It is initiated in [第三幕](Act_Three.md "第三幕") if the player character rejects an offer from ⁠[维拉基斯](Vlaakith.md "维拉基斯") when she visits their camp.
 
 ## 目录
 

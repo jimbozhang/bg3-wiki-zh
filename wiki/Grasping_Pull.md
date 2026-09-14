@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 范围：9 米（30 英尺）
 拉动：9 米（30 英尺）（对友方自动成功）
 充能：每驱散

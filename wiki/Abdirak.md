@@ -36,7 +36,7 @@
 
 - [意志之鞭](Willing_Whip.md "意志之鞭")
 
-获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源") 伤害。
+获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -50,7 +50,7 @@
 
 - [意志之鞭](Willing_Whip.md "意志之鞭")
 
-获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源") 伤害。
+获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -64,7 +64,7 @@
 
 - [意志之鞭](Willing_Whip.md "意志之鞭")
 
-获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源") 伤害。
+获得对 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害的 [抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。
 
 **阿布狄拉克**是痛苦少女 [劳薇塔](Deities.md#Loviatar "诸神") 的人类仆从。他可以在 [地精营地](Goblin_Camp.md "地精营地") 的 [血污圣祠](Bloodied_Shrine.md "血污圣祠") 找到，位于 [第一幕](Act_One.md "第一幕") 期间。
 

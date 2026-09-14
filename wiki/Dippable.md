@@ -28,7 +28,7 @@
 
 持续时间：10回合
 
-- 目标在其下一回合结束时受到1d4⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 11 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到1d4⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 11 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 ## 状态：蛇毒涂抹
 
@@ -36,7 +36,7 @@
 
 持续时间：10回合
 
-- 目标在其下一回合结束时受到1d6⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到1d6⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 ## 状态：翼龙毒素涂抹
 
@@ -44,7 +44,7 @@
 
 持续时间：10回合
 
-- 目标在其下一回合结束时受到1d8⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到1d8⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 ## 状态：紫虫毒素涂抹
 
@@ -52,7 +52,7 @@
 
 持续时间：10回合
 
-- 目标在其下一回合结束时受到1d10⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 19 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到1d10⁠⁠[中毒](Poison.md "中毒")伤害，除非他们成功通过[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 19 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 ## 备注
 

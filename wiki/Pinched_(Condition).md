@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `CRAB_PINCHED` [状态组](Status_groups.md "状态组"): [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `CRAB_PINCHED` [状态组](Status_groups.md "状态组"): [SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "状态"): 驱散开始
 

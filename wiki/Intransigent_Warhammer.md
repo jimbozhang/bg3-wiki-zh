@@ -58,7 +58,7 @@ _关于斥力爆：_
 
 _关于斥力爆：_
 
-- 尽管说明中指出其在击杀和重击时触发，但斥力爆还有一个隐藏的 [DC](Dice_rolls.md#Save_DCs "掷骰") 14 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")。
+- 尽管说明中指出其在击杀和重击时触发，但斥力爆还有一个隐藏的 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 14 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")。
 
 ---
 *Source: [Intransigent Warhammer](https://bg3.wiki/wiki/Intransigent_Warhammer)*

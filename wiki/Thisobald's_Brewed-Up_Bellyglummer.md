@@ -23,7 +23,7 @@
 
 持续时间：10 回合
 
-- 武器涂抹了特制穿肠散。目标必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 17 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[中毒](Brewed-Up_Bellyglummer_(Condition).md "特制穿肠散 (状态)")。
+- 武器涂抹了特制穿肠散。目标必须通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 17 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[中毒](Brewed-Up_Bellyglummer_(Condition).md "特制穿肠散 (状态)")。
 
 ## 状态：特制穿肠散
 
@@ -31,7 +31,7 @@
 
 持续时间：直到通过[豁免检定](Saving_throw.md "豁免检定")
 
-[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 17）
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 17）
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")
 - 受影响实体在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素")伤害。

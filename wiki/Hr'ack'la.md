@@ -95,7 +95,7 @@
 
 ## 参与
 
-Hr'ack'la 与她的吉斯洋基武僧同伴 [Ghik'lir](Ghik'lir.md "Ghik'lir") 和 [Nyk](Nyk.md "Nyk") 一起，是[俄耳甫斯](Orpheus.md "俄耳甫斯")的荣誉卫队成员。当卫队试图释放俄耳甫斯并逃离[神秘遗物](Mysterious_Artefact.md "神秘遗物")时，这三人在[第三幕](Act_Three.md "第三幕")开始时，前往[博德之门](Baldur's_Gate.md "博德之门")的路上，在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")外的第一次长休期间与队伍发生冲突。
+Hr'ack'la 与她的吉斯洋基武僧同伴 [吉基尔](Ghik'lir.md "吉基尔") 和 [尼克 (Nyk)](Nyk.md "尼克 (Nyk)") 一起，是[俄耳甫斯](Orpheus.md "俄耳甫斯")的荣誉卫队成员。当卫队试图释放俄耳甫斯并逃离[神秘遗物](Mysterious_Artefact.md "神秘遗物")时，这三人在[第三幕](Act_Three.md "第三幕")开始时，前往[博德之门](Baldur's_Gate.md "博德之门")的路上，在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")外的第一次长休期间与队伍发生冲突。
 
 ## 战斗
 
@@ -162,11 +162,11 @@ Hr'ack'la 与她的吉斯洋基武僧同伴 [Ghik'lir](Ghik'lir.md "Ghik'lir") �
 
 ### 盟友
 
-- [Ghik'lir](Ghik'lir.md "Ghik'lir")
-- [Jyd'i'](Jyd'i'.md "Jyd'i'")
+- [吉基尔](Ghik'lir.md "吉基尔")
+- [吉迪'](Jyd'i'.md "吉迪'")
 - [K'i'lar](K'i'lar.md "K'i'lar")
-- [Nyk](Nyk.md "Nyk")
-- [Zelrin](Zelrin.md "Zelrin")
+- [尼克 (Nyk)](Nyk.md "尼克 (Nyk)")
+- [泽尔林](Zelrin.md "泽尔林")
 
 ---
 *Source: [Hr'ack'la](https://bg3.wiki/wiki/Hr'ack'la)*

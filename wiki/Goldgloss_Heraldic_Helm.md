@@ -1,6 +1,6 @@
 # 黄金纹章盔
 
-The **Goldgloss Heraldic Helm** is a common [Helmet](Headwear.md "Headwear").
+The **Goldgloss Heraldic Helm** is a common [头饰](Headwear.md "头饰").
 
 硬如金龙鳞片。
 

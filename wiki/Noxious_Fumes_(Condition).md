@@ -2,13 +2,13 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| 有毒烟雾 | 半径3米（10英尺）内的敌对生物受到1d4⁠⁠[强酸](Acid.md "强酸")[DRS](Damage_rider_as_source.md "伤害附加源")伤害。 |
+| 有毒烟雾 | 半径3米（10英尺）内的敌对生物受到1d4⁠⁠[强酸](Acid.md "强酸")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。 |
 
 对于造成⁠[毒素](Poison.md "毒素")伤害的类似状态，请参阅 \_(状态)[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)")
 
 **有毒烟雾**
 
-- 半径3米（10英尺）内的敌对生物受到1d4⁠⁠[强酸](Acid.md "强酸")[DRS](Damage_rider_as_source.md "伤害附加源")伤害。
+- 半径3米（10英尺）内的敌对生物受到1d4⁠⁠[强酸](Acid.md "强酸")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ## 属性
 
@@ -38,7 +38,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 半径3米（10英尺）内的敌对生物受到1d4⁠⁠[强酸](Acid.md "强酸")[DRS](Damage_rider_as_source.md "伤害附加源")伤害。
+- 半径3米（10英尺）内的敌对生物受到1d4⁠⁠[强酸](Acid.md "强酸")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ---
 *Source: [Noxious Fumes (Condition)](https://bg3.wiki/wiki/Noxious_Fumes_(Condition)*

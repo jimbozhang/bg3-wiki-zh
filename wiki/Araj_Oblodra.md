@@ -280,7 +280,7 @@ UUID
 
 Stats
 
-`MOO_InfernalVendor` **Araj Oblodra** 是一名[卓尔](Drow.md "卓尔")[商人](Traders.md "商人")和专注于血液的炼金术士，可以在[月光塔](Moonrise_Towers.md "月光塔")和博德之门的[下城区](Lower_City.md "下城区")找到她。除了她出售的物品外，她还提供独特的药剂来换取血样，并要求与 [Astarion](Astarion.md "Astarion") 交谈。
+`MOO_InfernalVendor` **Araj Oblodra** 是一名[卓尔](Drow.md "卓尔")[商人](Traders.md "商人")和专注于血液的炼金术士，可以在[月光塔](Moonrise_Towers.md "月光塔")和博德之门的[下城区](Lower_City.md "下城区")找到她。除了她出售的物品外，她还提供独特的药剂来换取血样，并要求与 [阿斯代伦](Astarion.md "阿斯代伦") 交谈。
 
 > "
 >
@@ -361,7 +361,7 @@ Araj 酿造独特的[药剂](Elixirs.md "药剂")作为从队伍中的[真魂者
 
 #### 与 Astarion 的互动
 
-Araj 深切希望与 [Astarion](Astarion.md "Astarion") 交谈。如果他被留在营地，或者在她第一次互动时离队伍足够远，她会礼貌地请求下次带他来。
+Araj 深切希望与 [阿斯代伦](Astarion.md "阿斯代伦") 交谈。如果他被留在营地，或者在她第一次互动时离队伍足够远，她会礼貌地请求下次带他来。
 
 如果 Araj 与 Astarion 交谈，她会兴奋地请求他咬她，以便她能近距离研究吸血鬼咬伤的效果。她提供无价的[永生活力药剂](Potion_of_Everlasting_Vigour.md "永生活力药剂")作为交换，该药剂永久增加饮用者的[力量](Strength.md "力量") 2 点。
 

@@ -12,9 +12,9 @@
 
 持续时间：1 [驱散](Turn.md "驱散")
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 10）
 
-- 生物在每 [驱散](Turn.md "驱散") 开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源驱动") 伤害，并在 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
+- 生物在每 [驱散](Turn.md "驱散") 开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，并在 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
 - 通过 [治疗](Healing.md "治疗") 移除。
 
 ## 如何习得

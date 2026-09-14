@@ -13,7 +13,7 @@
 | 先攻 | +1 |
 | 移动速度 | 7.5 米 (25 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -21,7 +21,7 @@
 
 此生物已死亡。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -29,7 +29,7 @@
 
 此生物已死亡。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

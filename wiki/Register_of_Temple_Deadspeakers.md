@@ -2,7 +2,7 @@
 
 **神殿死者交谈登记簿**包含[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")过往死者交谈者的名单。
 
-这是对伊尔梅特（[Ilmater](Ilmater.md "Ilmater")）神殿中启蒙过程的复述。
+这是对伊尔梅特（[伊尔梅特](Ilmater.md "伊尔梅特")）神殿中启蒙过程的复述。
 
 ## 属性
 

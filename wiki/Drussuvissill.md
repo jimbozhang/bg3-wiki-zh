@@ -27,7 +27,7 @@
 
 ### 第三幕
 
-德鲁苏维尔位于[下城区](Lower_City.md "Lower City")的[石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "Basilisk Gate Barracks")主入口附近。与[阿斯派瑞斯·马哈利](Asparagus_Mhallie.md "Asparagus Mhallie")、[普劳曼·扎克](Ploughman_Zakk.md "Ploughman Zakk")和[特里普·巴布斯](Turnip_Bubbs.md "Turnip Bubbs")一起，这些农夫们因必须将牲畜交给[Kuthbert](Kuthbert.md "Kuthbert")而感到沮丧，后者正在执行[恩弗·戈塔什](Enver_Gortash.md "Enver Gortash")的法令。德鲁苏维尔对戈塔什评价很低，并怀疑农夫们是否会因牲畜得到补偿。
+德鲁苏维尔位于[下城区](Lower_City.md "Lower City")的[石化蜥蜴之门营房](Basilisk_Gate_Barracks.md "Basilisk Gate Barracks")主入口附近。与[阿斯派瑞斯·马哈利](Asparagus_Mhallie.md "Asparagus Mhallie")、[普劳曼·扎克](Ploughman_Zakk.md "Ploughman Zakk")和[特里普·巴布斯](Turnip_Bubbs.md "Turnip Bubbs")一起，这些农夫们因必须将牲畜交给[库特伯特](Kuthbert.md "库特伯特")而感到沮丧，后者正在执行[恩弗·戈塔什](Enver_Gortash.md "Enver Gortash")的法令。德鲁苏维尔对戈塔什评价很低，并怀疑农夫们是否会因牲畜得到补偿。
 
 如果戈塔什被击败，德鲁苏维尔和其他农夫都会离开，无法再次找到或互动。
 

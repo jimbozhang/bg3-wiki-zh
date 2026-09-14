@@ -24,7 +24,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 8 / (-1) | 8 / (-1) | 8 / (-1) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -36,7 +36,7 @@
 
 死亡时，爆炸成火球术术，然后转生为受拉斐尔束缚的邪魔生物。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -48,7 +48,7 @@
 
 死亡时，爆炸成火球术术，然后转生为受拉斐尔束缚的邪魔生物。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

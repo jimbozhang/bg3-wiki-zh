@@ -30,11 +30,11 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **帕特里夏修女**是[雷文斯康](Reithwin.md "雷文斯康")的[不死护士](Undead_Nurse.md "不死护士")，出现在[第二幕](Act_Two.md "第二幕")期间。
 

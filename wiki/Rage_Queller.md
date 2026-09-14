@@ -44,7 +44,7 @@
 - [坚韧狂暴](Relentless_Rage.md "坚韧狂暴")
 - [无甲防御](Unarmoured_Defence_(Barbarian).md "无甲防御 (野蛮人)")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -56,7 +56,7 @@
 
 散发光芒且对火焰伤害有抗性。对任何以近战攻击命中者造成 2d8⁠⁠[寒冷](Cold.md "寒冷")伤害。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

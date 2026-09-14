@@ -4,7 +4,7 @@
 
 ## 描述
 
-全力挥动武器。你可以攻击多个目标，造成额外 1d6⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源") 伤害，但会陷入 \_(状态)[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡 (巨像切割者) (状态)")。
+全力挥动武器。你可以攻击多个目标，造成额外 1d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，但会陷入 \_(状态)[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡 (巨像切割者) (状态)")。
 
 ## 属性
 
@@ -29,7 +29,7 @@
 
 持续时间：1 驱散
 
-- 当被击中时，必须通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 8 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定")，否则陷入 [倒伏](Prone_(Condition).md "倒伏 (状态)")。
+- 当被击中时，必须通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 8 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定")，否则陷入 [倒伏](Prone_(Condition).md "倒伏 (状态)")。
 
 ## 学习方式
 

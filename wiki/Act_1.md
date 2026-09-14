@@ -42,7 +42,7 @@
 
 虽然寻找治疗方法是第一幕的重点，但小队很可能会卷入该地区的主要冲突。地精小队在[荒野](Wilderness.md "荒野")中搜寻翠绿林地和[鹦鹉螺](Nautiloid.md "鹦鹉螺")坠毁的幸存者。地精似乎在一位被称为“至上真神”的所谓新神的旗帜下集结。
 
-翠绿林地的德鲁伊圈也正经历内部麻烦。他们的[哈尔辛](Halsin.md "哈尔辛")在加入一支冒险者队伍寻找古代遗物后失踪。在他缺席期间，自封的首席德鲁伊[卡哈](Kagha.md "卡哈")启动了[荆棘仪式](Rite_of_Thorns_(ritual).md), a dangerous ritual that will seal the Grove from the outside world and expel the [tiefling refugees](Tiefling_Refugees.md "Tiefling Refugees") seeking shelter.
+翠绿林地的德鲁伊圈也正经历内部麻烦。他们的[哈尔辛](Halsin.md "哈尔辛")在加入一支冒险者队伍寻找古代遗物后失踪。在他缺席期间，自封的首席德鲁伊[卡哈](Kagha.md "卡哈")启动了[荆棘仪式](Rite_of_Thorns_(ritual).md), a dangerous ritual that will seal the Grove from the outside world and expel the [提夫林难民](Tiefling_Refugees.md "提夫林难民") seeking shelter.
 
 **决定翠绿林地的命运**
 
@@ -203,7 +203,7 @@
 
 ## 注释
 
-- [抢先体验](Early_Access.md "抢先体验")完全发生在第一幕，不包括[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- [抢先体验](Early_Access.md "抢先体验")完全发生在第一幕，不包括[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Act One](https://bg3.wiki/wiki/Act_One)*

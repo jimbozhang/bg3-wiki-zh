@@ -15,7 +15,7 @@
 6d6⁠[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving_throws")（[DC](DC.md "DC") 15）（豁免成功时：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving_throws")（[骰子掷骰](DC.md "骰子掷骰") 15）（豁免成功时：目标仍承受一半伤害。）
 范围效果：3 米（10 英尺）半径
 
 ## 学习方式

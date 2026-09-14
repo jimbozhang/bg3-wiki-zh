@@ -9,7 +9,7 @@
 ## 属性
 
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 范围：6米（20英尺）半径
 目标：生物
 
@@ -17,7 +17,7 @@
 
 **[沉睡](Sleeping_(Condition).md "沉睡（状态）")**
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 沉睡的生物无法移动或行动。
 - 此外，该生物自动[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")失败。

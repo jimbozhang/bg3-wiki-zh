@@ -17,7 +17,7 @@
 持续时间：3 回合
 
 - 闪电流遍你全身。你的 [攻击掷骰](Attack_rolls.md "Attack Rolls") 获得 +1 加值，并造成额外 1⁠⁠点 [闪电](Lightning.md "Lightning") 伤害。
-- 如果你获得 5 点冲锋，它们将在你下次造成伤害时被吞噬，并造成额外 1d8⁠⁠点 [闪电](Lightning.md "Lightning") [DRS](Damage_rider_as_source.md "Damage rider as source") 伤害。
+- 如果你获得 5 点冲锋，它们将在你下次造成伤害时被吞噬，并造成额外 1d8⁠⁠点 [闪电](Lightning.md "Lightning") [伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。
 - 你每回合失去 1 点冲锋。
 
 ## 如何习得

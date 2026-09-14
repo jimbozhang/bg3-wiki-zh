@@ -119,7 +119,7 @@
 | [洛若坎的投影](Lorroakan's_Projection.md "Lorroakan's Projection") | [巫术杂物店](Sorcerous_Sundries.md "Sorcerous Sundries") | 富有 | 武器、护甲和稀有卷轴
 [莫德](Maude.md "Maude") | [墓园](Graveyard.md "Graveyard") | 无 | 花朵
 [米里](Mirie.md "Mirie")<sup>[\[2\]](#cite_note-kinda_a_trader-13)</sup> | [哀伤之邸](House_of_Grief.md "House of Grief") | 莎尔文献
-[莫汉](Mohan.md "Mohan")<sup>[\[2\]](#cite_note-kinda_a_trader-13)</sup> | [下城区](Lower_City.md "Lower City") | 富有[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")] | 杂货
+[莫汉](Mohan.md "Mohan")<sup>[\[2\]](#cite_note-kinda_a_trader-13)</sup> | [下城区](Lower_City.md "Lower City") | 富有[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")] | 杂货
 [秘术师卡里翁](Mystic_Carrion.md "Mystic Carrion") | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "Philgrave's Mansion") | 富有 | 护甲、卷轴
 [纳西·格莉塔](Nansi_Gretta.md "Nansi Gretta") | [藏书家](The_Bibliophile.md "The Bibliophile") |  | 书籍和稀有卷轴
 | [报纸小贩查拉那](News_Hawker_Chalara.md "News Hawker Chalara")<sup>[\[4\]](#cite_note-dialogue_only-15)</sup> | [脸红的美人鱼](Blushing_Mermaid.md "Blushing Mermaid")下 | 不适用 | 博德之口公报
@@ -161,7 +161,7 @@
 | [洛若坎的投影](Lorroakan's_Projection.md "Lorroakan's Projection") | [巫术杂物店](Sorcerous_Sundries.md "Sorcerous Sundries") | 富有 | 武器、护甲和稀有卷轴 |
 | [莫德](Maude.md "Maude") | [墓园](Graveyard.md "Graveyard") | 无 | 花朵 |
 | [米里](Mirie.md "Mirie")[[#cite_note-kinda_a_trader-13](#cite_note-kinda_a_trader-13) [2]] | [哀伤之邸](House_of_Grief.md "House of Grief") |  | 莎尔文献 |
-| [莫汉](Mohan.md "Mohan")[[#cite_note-kinda_a_trader-13](#cite_note-kinda_a_trader-13) [2]] | [下城区](Lower_City.md "Lower City") | 富有[[verify](bg3wiki_colon_Verification.md "bg3wiki:Verification")] | 杂货 |
+| [莫汉](Mohan.md "Mohan")[[#cite_note-kinda_a_trader-13](#cite_note-kinda_a_trader-13) [2]] | [下城区](Lower_City.md "Lower City") | 富有[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")] | 杂货 |
 | [秘术师卡里翁](Mystic_Carrion.md "Mystic Carrion") | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "Philgrave's Mansion") | 富有 | 护甲、卷轴 |
 | [纳西·格莉塔](Nansi_Gretta.md "Nansi Gretta") | [藏书家](The_Bibliophile.md "The Bibliophile") |  | 书籍和稀有卷轴 |
 | [报纸小贩查拉那](News_Hawker_Chalara.md "News Hawker Chalara")[[#cite_note-dialogue_only-15](#cite_note-dialogue_only-15) [4]] | [脸红的美人鱼](Blushing_Mermaid.md "Blushing Mermaid")下 | 不适用 | 博德之口公报 |

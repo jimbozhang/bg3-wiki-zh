@@ -4,7 +4,7 @@
 
 - 平衡
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - **夜灯** 是在 [幽暗地域](Underdark.md "Underdark") 中发现的一种无害蘑菇。
 

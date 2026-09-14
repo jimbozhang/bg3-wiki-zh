@@ -69,7 +69,7 @@
 
 以下[消耗品](Consumable.md "Consumable")物品可用于造成闪电伤害。对于[箭](Arrows.md "Arrows")，伤害会附加到攻击者的常规远程武器伤害上。
 
-- [闪电箭](Arrow_of_Lightning.md "Arrow of Lightning")：在区域内造成 +2d4⁠⁠闪电伤害。[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 12）可豁免。
+- [闪电箭](Arrow_of_Lightning.md "Arrow of Lightning")：在区域内造成 +2d4⁠⁠闪电伤害。[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 12）可豁免。
 
 ## 互动
 

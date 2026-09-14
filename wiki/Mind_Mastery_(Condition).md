@@ -9,7 +9,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_Charmed](SG_Charmed.md "SG Charmed")
+[状态组](Status_groups.md "状态组"): [魅惑（状态组）](SG_Charmed.md "魅惑（状态组）")
 
 [更多属性](Status_properties.md "状态属性"):
 

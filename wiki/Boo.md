@@ -48,7 +48,7 @@
 
 ## 战斗
 
-布布可以由明斯克用[获得魔宠：小布](Find_Familiar_colon__Boo.md "获得魔宠：小布")召唤。他很独特，因为当被明斯克投掷时，他有机会对目标造成[目盲](Blinded_(Condition).md "目盲 (状态)")，持续1回合（[DC](Dice_rolls.md#Save_DCs "骰子掷法") 15 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") - 这是对明斯克名言“_攻击眼睛，布布！_”的致敬）。
+布布可以由明斯克用[获得魔宠：小布](Find_Familiar_colon__Boo.md "获得魔宠：小布")召唤。他很独特，因为当被明斯克投掷时，他有机会对目标造成[目盲](Blinded_(Condition).md "目盲 (状态)")，持续1回合（[掷骰](Dice_rolls.md#Save_DCs "骰子掷法") 15 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") - 这是对明斯克名言“_攻击眼睛，布布！_”的致敬）。
 
 ### 动作
 

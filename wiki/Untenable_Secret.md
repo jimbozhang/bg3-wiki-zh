@@ -17,7 +17,7 @@
 3d8⁠[心灵](Psychic.md "Psychic")（每驱散）
 
 详情
-[WIS](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 14）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 14）
 范围：2 米（7 英尺）
 
 ## 高等级施法
@@ -30,7 +30,7 @@
 
 持续时间：1 驱散
 
-[WIS](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 14）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 14）
 
 - 被一个骇人秘密所折磨。受影响实体必须对一名盟友施放[分享难守秘密](Share_Untenable_Secret.md "Share Untenable Secret")，否则将遭受严重的⁠[心灵](Psychic.md "Psychic")伤害。
 

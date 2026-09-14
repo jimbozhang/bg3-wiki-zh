@@ -13,7 +13,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `BLINDNESS` [状态组](Status_groups.md "状态组"): [SG_Blinded](SG_Blinded.md "SG Blinded"), [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `BLINDNESS` [状态组](Status_groups.md "状态组"): [目盲 (状态组)](SG_Blinded.md "目盲 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "状态"): 驱散结束
 

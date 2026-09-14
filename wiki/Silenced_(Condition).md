@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID")：`SILENCED` [状态组](Status_groups.md "Status groups")：[SG_Condition](SG_Condition.md "SG Condition")、[SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG DropForNonMutingDialog")
+[堆叠ID](Stack_ID.md "Stack ID")：`SILENCED` [状态组](Status_groups.md "Status groups")：[SG 状态](SG_Condition.md "SG 状态")、[SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG DropForNonMutingDialog")
 
 [堆叠优先级](Stack_priority.md "Stack priority")：1
 

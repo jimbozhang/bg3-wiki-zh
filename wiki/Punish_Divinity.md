@@ -11,7 +11,7 @@
 消耗
 [反应](Actions.md#Reactions "Actions")
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 18）
 范围：30 米（100 英尺）
 [专注](Concentration.md "Concentration")
 持续时间：4 驱散
@@ -30,7 +30,7 @@
 
 持续时间：4 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 18）
 
 - 此生物无法移动或行动，拉斐尔可以随意[吸取灵魂](Soul_Drain.md "Soul Drain")它。
 

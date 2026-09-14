@@ -43,7 +43,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 持续时间：2 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
 
@@ -53,7 +53,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 ## 错误
 
-- 尽管游戏内未说明，但此长戟在命中时会使目标[中毒](Poisoned_(Condition).md "中毒（状态）")，如果[DC](Dice_rolls.md#Save_DCs "掷骰") 12 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")失败。此效果的豁免检定未显示在战斗日志中。
+- 尽管游戏内未说明，但此长戟在命中时会使目标[中毒](Poisoned_(Condition).md "中毒（状态）")，如果[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")失败。此效果的豁免检定未显示在战斗日志中。
 
 ## 图库
 

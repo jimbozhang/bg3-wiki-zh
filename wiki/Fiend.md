@@ -1,6 +1,6 @@
 # 邪魔
 
-关于邪术师副职，请参见 [The Fiend](The_Fiend.md "The Fiend")。
+关于邪术师副职，请参见 [邪魔](The_Fiend.md "邪魔")。
 
 一个典型的邪魔生物，称为坎比翁。
 
@@ -66,12 +66,12 @@
 
 #### 博德之门3中的坎比翁
 
-- [Cirrus](Cirrus.md "Cirrus")
-- [Feena](Feena.md "Feena")
+- [西卢斯](Cirrus.md "西卢斯")
+- [菲娜](Feena.md "菲娜")
 - [米佐拉](Mizora.md "米佐拉")
 - [拉斐尔](Raphael.md "拉斐尔")
 - [复仇坎比翁](Vengeful_Cambion.md "复仇坎比翁")
-- [Zhalk](Zhalk.md "Zhalk")
+- [扎尔克](Zhalk.md "扎尔克")
 
 ### 魔鬼
 

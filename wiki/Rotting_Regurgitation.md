@@ -15,7 +15,7 @@
 8d10 + [力量调整值](Strength.md#Strength_modifier_chart "力量")⁠[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）（豁免成功：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）（豁免成功：目标仍承受一半伤害。）
 范围：4 米（13 英尺）
 区域效果：3 米（10 英尺）半径
 充能：每回合

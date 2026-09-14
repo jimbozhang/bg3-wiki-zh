@@ -267,7 +267,7 @@ UUID
 
 Stats
 
-`Githyanki_Gish_Strong` **历战熟手 古什'因斯**是一名[吉斯洋基人](Githyanki.md "吉斯洋基人")士兵，可在[博德之门](Baldur's_Gate.md "博德之门")[下城区](Lower_City.md "下城区")的[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点")遭遇，守卫着[门主瑞'泽尔](Ri'zel.md "门主瑞'泽尔")。除非成功恐吓[Ch'r'rai Har'rak](Har'rak.md "Har'rak")，否则她对队伍充满敌意。
+`Githyanki_Gish_Strong` **历战熟手 古什'因斯**是一名[吉斯洋基人](Githyanki.md "吉斯洋基人")士兵，可在[博德之门](Baldur's_Gate.md "博德之门")[下城区](Lower_City.md "下城区")的[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点")遭遇，守卫着[门主瑞'泽尔](Ri'zel.md "门主瑞'泽尔")。除非成功恐吓[哈'拉克](Har'rak.md "哈'拉克")，否则她对队伍充满敌意。
 
 ## 战斗
 

@@ -25,7 +25,7 @@
 
 生物使用：
 
-- [比翁·旺特布莱德](Beorn_Wunterbrood.md "比翁·旺特布莱德"), [Caïros](Ca%C3%AFros.md "Caïros"), [Falcäo](Falc%C3%A4o.md "Falcäo"), [戈迪](Godey.md "戈迪"), [霍利·戴福德](Holli_Dylford.md "霍利·戴福德"), [Liara Portyr](Liara_Portyr.md "Liara Portyr"), [Nestor](Nestor.md "Nestor"), [追踪者斯维尼](Stalker_Svignee.md "追踪者斯维尼"), [守卫者](That_Which_Guards.md "守卫者"), [潜伏者](That_Which_Lurks.md "潜伏者"), [观察者](That_Which_Watches.md "观察者")
+- [比翁·旺特布莱德](Beorn_Wunterbrood.md "比翁·旺特布莱德"), [Caïros](Ca%C3%AFros.md "Caïros"), [Falcäo](Falc%C3%A4o.md "Falcäo"), [戈迪](Godey.md "戈迪"), [霍利·戴福德](Holli_Dylford.md "霍利·戴福德"), [莉亚拉·波特尔](Liara_Portyr.md "莉亚拉·波特尔"), [内斯特](Nestor.md "内斯特"), [追踪者斯维尼](Stalker_Svignee.md "追踪者斯维尼"), [守卫者](That_Which_Guards.md "守卫者"), [潜伏者](That_Which_Lurks.md "潜伏者"), [观察者](That_Which_Watches.md "观察者")
 
 ## 备注
 

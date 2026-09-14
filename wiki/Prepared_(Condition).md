@@ -2,7 +2,7 @@
 
 **准备**
 
-- 使用近战攻击时，造成额外的[力量调整值]⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+- 使用近战攻击时，造成额外的[力量调整值]⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ## 属性
 
@@ -18,7 +18,7 @@
 
 ## 具有相同堆叠ID的状态
 
-- 使用近战攻击时，造成额外的[力量调整值]⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+- 使用近战攻击时，造成额外的[力量调整值]⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ---
 *Source: [Prepared (Condition)](https://bg3.wiki/wiki/Prepared_(Condition)*

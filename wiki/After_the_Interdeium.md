@@ -6,7 +6,7 @@ This book is redolent with the enticing smell of paper and ink.
 
 ## Properties
 
-- [Books](Books.md "Books")
+- [书籍](Books.md "书籍")
 
 - Author: unknown
 
@@ -18,7 +18,7 @@ This book is redolent with the enticing smell of paper and ink.
 
 - UID `UNI_BOOK_LOW_CountingHouse_WaukeenLore3` UUID `c27aaee7-7014-4b5e-9ce2-5d6648591175` ## Where to find
 
-- In the [Head Clerk's](Head_Clerk_Meadhoney.md "Head Clerk Meadhoney") second-floor office in the [Counting House](Counting_House.md "Counting House") at X: -108 Y: -181
+- In the [布洛里斯·米德霍尼](Head_Clerk_Meadhoney.md "布洛里斯·米德霍尼") second-floor office in the [清账屋](Counting_House.md "清账屋") at X: -108 Y: -181
 
 ## Text
 

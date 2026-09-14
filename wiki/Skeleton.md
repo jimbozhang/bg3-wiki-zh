@@ -10,13 +10,13 @@
 | 先攻 | -1 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-**骷髅**是一种[不可玩种族](Non-playable_race.md "不可玩种族")的[不死生物](Undead.md "不死生物")。虽然经常作为敌人出现，但骷髅也可以是[NPC](NPC.md "NPC")或友好的召唤物。
+**骷髅**是一种[不可玩种族](Non-playable_race.md "不可玩种族")的[不死生物](Undead.md "不死生物")。虽然经常作为敌人出现，但骷髅也可以是[非玩家角色](NPC.md "非玩家角色")或友好的召唤物。
 
 > “
 >

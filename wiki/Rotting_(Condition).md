@@ -4,13 +4,13 @@
 
 - 开放性伤口开始腐烂。
 - 使用魅力进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
-- 当状态持续时间结束时，需通过[体质](Constitution.md "体质")的[豁免检定](Saving_throw.md "豁免检定")（[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15）以移除状态。失败将导致你获得[肉肉腐烂](Flesh_Rot_(Condition).md "肉肉腐烂 (状态)")。
+- 当状态持续时间结束时，需通过[体质](Constitution.md "体质")的[豁免检定](Saving_throw.md "豁免检定")（[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15）以移除状态。失败将导致你获得[肉肉腐烂](Flesh_Rot_(Condition).md "肉肉腐烂 (状态)")。
 
 [患病](Diseased_(status_group).md)
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `HAG_ROT` [状态组](Status_groups.md "状态组"): [SG_Disease](SG_Disease.md "SG 疾病")
+[堆叠ID](Stack_ID.md "堆叠ID"): `HAG_ROT` [状态组](Status_groups.md "状态组"): [患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 [更多属性](Status_properties.md "状态属性"):
 
@@ -22,12 +22,12 @@
 
 持续时间：25 [驱散](Turn.md "驱散")
 
-[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 肉肉正在腐烂。
 - 使用魅力进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 - 对所有伤害[易伤](Damage_types.md "伤害类型")。
-- 当持续时间结束时，需通过[体质](Constitution.md "体质")的[豁免检定](Saving_throw.md "豁免检定")（[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15）以移除状态，否则状态将重新施加。
+- 当持续时间结束时，需通过[体质](Constitution.md "体质")的[豁免检定](Saving_throw.md "豁免检定")（[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15）以移除状态，否则状态将重新施加。
 
 ## 备注
 
@@ -45,7 +45,7 @@
 
 - 开放性伤口开始腐烂。
 - 使用魅力进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
-- 当状态持续时间结束时，需通过[体质](Constitution.md "体质")的[豁免检定](Saving_throw.md "豁免检定")（[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15）以移除状态。失败将导致你获得[肉肉腐烂](Flesh_Rot_(Condition).md "肉肉腐烂 (状态)")。
+- 当状态持续时间结束时，需通过[体质](Constitution.md "体质")的[豁免检定](Saving_throw.md "豁免检定")（[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15）以移除状态。失败将导致你获得[肉肉腐烂](Flesh_Rot_(Condition).md "肉肉腐烂 (状态)")。
 
 ---
 *Source: [Rotting (Condition)](https://bg3.wiki/wiki/Rotting_(Condition)*

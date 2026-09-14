@@ -263,7 +263,7 @@
 | 8-9 | -1 | 24-25 | +7 |  |
 | 10-11 | +0 | 26-27 | +8 |  |
 | 12-13 | +1 | 28-29 | +9 |  |
-| 14-15 | +2 | 30 | +10 |  playable characters [die](Dead.md "Dead") when three failures are accumulated or stabilise when three successes are accumulated, whichever happens first.
+| 14-15 | +2 | 30 | +10 |  playable characters [死亡 (状态)](Dead.md "死亡 (状态)") when three failures are accumulated or stabilise when three successes are accumulated, whichever happens first.
 
 死亡豁免检定不与任何属性值相关联，因此不会获得任何属性值调整值，也不会受益于熟练项加值。它们只受益于适用于所有豁免检定（如[祝福术](Bless.md "祝福术")）或专门针对死亡豁免（如来自[家族戒指](Family_Ring.md "家族戒指")）的加值。
 

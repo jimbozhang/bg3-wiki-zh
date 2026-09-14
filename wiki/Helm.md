@@ -4,8 +4,8 @@
 
 **海姆**可能指代以下内容之一：
 
-- [海姆（神祇）](Helm_(God).md) - the [Deity](Deity.md "Deity")
-- [海姆](Headwear.md "Headwear") / [头盔](Helmet.md "Helmet") - the [Headwear](Headwear.md "Headwear")
+- [海姆（神祇）](Helm_(God).md) - the [神祇](Deity.md "神祇")
+- [海姆](Headwear.md "Headwear") / [头盔](Helmet.md "Helmet") - the [头饰](Headwear.md "头饰")
 
 ---
 *Source: [Helm](https://bg3.wiki/wiki/Helm)*

@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID")：`MEENLOCK_FEAR` [状态组](Status_groups.md "状态组")：[SG_Frightened](SG_Frightened.md "SG 恐慌")
+[堆叠ID](Stack_ID.md "堆叠ID")：`MEENLOCK_FEAR` [状态组](Status_groups.md "状态组")：[恐慌 (状态组)](SG_Frightened.md "恐慌 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合开始时
 

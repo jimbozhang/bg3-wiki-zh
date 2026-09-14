@@ -18,7 +18,7 @@
 你获得 +1 的[先攻](Initiative.md "先攻")加值。
 
 [阴招](Skullduggery_Attack.md "Skullduggery Attack")
-你的[偷袭](Sneak_Attack.md "Sneak Attack")造成额外 1d4⁠⁠[力场](Force.md "Force")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害。
+你的[偷袭](Sneak_Attack.md "Sneak Attack")造成额外 1d4⁠⁠[力场](Force.md "Force")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ## 获取地点
 

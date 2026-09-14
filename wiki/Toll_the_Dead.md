@@ -15,7 +15,7 @@
 1d12[黯蚀](Necrotic.md "黯蚀")（如果目标生命值全满，则为 1d8[黯蚀](Necrotic.md "黯蚀")）
 
 详情
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（豁免成功：伤害被抵消）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（豁免成功：伤害被抵消）
 射程：18 米（60 英尺）
 
 ## 升级效果

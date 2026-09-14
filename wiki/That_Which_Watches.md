@@ -40,7 +40,7 @@
 - [招架](Parry.md "招架")
 - [反击](Riposte_(passive_feature).md "反击 (被动特性)")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -52,7 +52,7 @@
 
   - 此生物已立下灵魂誓言保护其黑暗主人。若该主人死亡，此生物也将随之死亡。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -64,7 +64,7 @@
 
   - 此生物已立下灵魂誓言保护其黑暗主人。若该主人死亡，此生物也将随之死亡。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 

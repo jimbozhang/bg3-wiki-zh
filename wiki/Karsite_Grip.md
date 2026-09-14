@@ -17,7 +17,7 @@
 8d8⁠[力场](Force.md "力场")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 20）（豁免成功时：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 20）（豁免成功时：目标仍承受一半伤害。）
 射程：60 米（200 英尺）
 
 ## 更高环阶
@@ -30,7 +30,7 @@
 
 持续时间：1 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 20）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 20）
 
 - 在 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定）上具有 [劣势](Disadvantage.md "劣势")，无法进行 [反应](Reaction.md "反应")，并失去其 [护甲等级](Armour_Class.md "护甲等级") 的 [敏捷](Dexterity.md "敏捷") 加值。
 - 如果盟友 [协助](Help.md "协助") 此生物，则移除该状态。
@@ -41,7 +41,7 @@
 
 持续时间：1 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 20）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 20）
 
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
 - 如果盟友 [协助](Help.md "协助") 此生物，则移除该状态。

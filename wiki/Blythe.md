@@ -309,7 +309,7 @@ Stats
 
 ## 参与
 
-布莱斯与[Dogaletto](Dogaletto.md "Dogaletto")、[Kryss](Kryss.md "Kryss")和[Phylle](Phylle.md "Phylle")一起攻击难民。如果玩者角色与[奥林](Orin.md "奥林")达成了协议，他们不会立即敌对，队伍可以选择加入、支持难民或忽略他们。
+布莱斯与[多加莱托](Dogaletto.md "多加莱托")、[克瑞丝](Kryss.md "克瑞丝")和[菲勒](Phylle.md "菲勒")一起攻击难民。如果玩者角色与[奥林](Orin.md "奥林")达成了协议，他们不会立即敌对，队伍可以选择加入、支持难民或忽略他们。
 
 ## 战斗
 

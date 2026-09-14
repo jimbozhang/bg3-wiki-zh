@@ -12,9 +12,9 @@
 
 持续时间：2[驱散](Turn.md "Turn")
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 14)
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 14)
 
-- 生物在每回合开始时受到2点[挥砍](Slashing.md "Slashing")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害，并在[体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
+- 生物在每回合开始时受到2点[挥砍](Slashing.md "Slashing")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，并在[体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 - 通过[治疗](Healing.md "Healing")移除。
 
 ## 如何习得

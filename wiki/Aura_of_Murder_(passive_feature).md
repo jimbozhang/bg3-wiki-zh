@@ -29,7 +29,7 @@
 ## 备注
 
 - 在第8个补丁中，半径从2米（7英尺）增加到3米（10英尺）。
-- 似乎部分穿刺免疫，例如[卡扎多尔](Cazador.md "卡扎多尔")所拥有的，会抑制此技能提供的\_(状态)[谋杀灵光](Aura_of_Murder_(Bhaalist_Armour)_(Condition).md "谋杀灵光（巴尔信徒护甲）（状态）")。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 似乎部分穿刺免疫，例如[卡扎多尔](Cazador.md "卡扎多尔")所拥有的，会抑制此技能提供的\_(状态)[谋杀灵光](Aura_of_Murder_(Bhaalist_Armour)_(Condition).md "谋杀灵光（巴尔信徒护甲）（状态）")。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 错误
 

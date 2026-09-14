@@ -2,18 +2,18 @@
 
 **涂抹怨恨**
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 15 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将陷入 [目盲](Blinded_(Condition).md "目盲 (状态)") 和 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将陷入 [目盲](Blinded_(Condition).md "目盲 (状态)") 和 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
 - 通过豁免检定的目标将获得 [接种：怨恨](Inoculated_colon__Malice_(Condition).md "接种：怨恨 (状态)") 状态，持续 2 回合。
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`DIPPED` [状态组](Status_groups.md "状态组")：[SG_WeaponCoating](SG_WeaponCoating.md "SG 武器涂抹")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`DIPPED` [状态组](Status_groups.md "状态组")：[SG 武器涂抹](SG_WeaponCoating.md "SG 武器涂抹")
 
 ## 状态：受怨恨打击
 
 **[受怨恨打击](Stricken_with_Malice_(Condition).md "受怨恨打击 (状态)")**
 
-[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 15)
 
 - 受影响实体陷入目盲和中毒。
 - 在 [攻击掷骰](Attack_rolls.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")，其攻击和法术的范围减少至 3 米（10 英尺）。

@@ -25,7 +25,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -37,7 +37,7 @@
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -49,7 +49,7 @@
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

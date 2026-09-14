@@ -10,7 +10,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `PHANTASMAL_KILLER` [状态组](Status_groups.md "Status groups"): [SG_Frightened](SG_Frightened.md "SG Frightened"), [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠ID](Stack_ID.md "Stack ID"): `PHANTASMAL_KILLER` [状态组](Status_groups.md "Status groups"): [恐慌 (状态组)](SG_Frightened.md "恐慌 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "Conditions"): 驱散
 

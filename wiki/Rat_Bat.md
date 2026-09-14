@@ -48,7 +48,7 @@ _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**�
 
 ## 错误
 
-- 游戏内未列出，但**卑劣短棒**对任何目标造成额外 1d6⁠⁠[穿刺](Piercing.md "穿刺")[DRS](Damage_rider_as_source.md "伤害驱动源")非魔法伤害。
+- 游戏内未列出，但**卑劣短棒**对任何目标造成额外 1d6⁠⁠[穿刺](Piercing.md "穿刺")[伤害机制](Damage_rider_as_source.md "伤害机制")非魔法伤害。
 
 ---
 *Source: [Rat Bat](https://bg3.wiki/wiki/Rat_Bat)*

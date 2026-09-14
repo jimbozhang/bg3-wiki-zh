@@ -26,7 +26,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 16)
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 16)
 
 - 被其已转变为灵吸怪的恐惧所压倒，受影响实体无法移动或执行动作。
 
@@ -36,7 +36,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 16)
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 16)
 
 - 受影响生物无法移动。恐慌生物在 [属性检定](Ability_Check.md "Ability Check") 和 [攻击掷骰](Attack_roll.md "Attack Roll") 上具有 [劣势](Disadvantage.md "Disadvantage")。
 

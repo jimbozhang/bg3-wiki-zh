@@ -1,6 +1,6 @@
 # 抓住塞伦涅牧师伊索贝尔
 
-**抓住塞伦涅牧师伊索贝尔**是《博德之门3》第二幕中[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")的一个子[任务](Quest.md "任务")。可以通过在[月出之塔](Moonrise_Towers.md "月出之塔")与[Z'rell](Z'rell.md "Z'rell")或[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")对话来开启。
+**抓住塞伦涅牧师伊索贝尔**是《博德之门3》第二幕中[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")的一个子[任务](Quest.md "任务")。可以通过在[月出之塔](Moonrise_Towers.md "月出之塔")与[泽'瑞尔](Z'rell.md "泽'瑞尔")或[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")对话来开启。
 
 ## 目录
 
@@ -42,7 +42,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 
 ## 流程攻略
 
-此任务是[解决绑架问题](Resolve_the_Abduction.md "解决绑架问题")的一个变体。[[注1]](#cite_note-1) 当到达[月出之塔](Moonrise_Towers.md "月出之塔")并在[寻找凯瑟里克·索姆的遗物](Find_Ketheric_Thorm's_Relic.md "寻找凯瑟里克·索姆的遗物")期间将暗夜之歌送还给[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")时，可以触发此任务。在帮助[巴萨扎尔](Balthazar.md "巴萨扎尔")抓住[暗夜之歌](Aylin.md "暗夜之歌")后，队伍会从使徒[Z'rell](Z'rell.md "Z'rell")那里接到任务。Z'rell祝贺队伍完成了任务，但解释说在她能允许觐见凯瑟里克·索姆之前还有一项任务。索姆寻求他女儿[伊索贝尔](Isobel.md "伊索贝尔")的安全归来，并已派遣间谍[马库斯](Marcus_Falgor.md "马库斯·法尔戈")前往终焉光芒旅店获取她。Z'rell命令队伍协助间谍抓捕伊索贝尔。
+此任务是[解决绑架问题](Resolve_the_Abduction.md "解决绑架问题")的一个变体。[[注1]](#cite_note-1) 当到达[月出之塔](Moonrise_Towers.md "月出之塔")并在[寻找凯瑟里克·索姆的遗物](Find_Ketheric_Thorm's_Relic.md "寻找凯瑟里克·索姆的遗物")期间将暗夜之歌送还给[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")时，可以触发此任务。在帮助[巴萨扎尔](Balthazar.md "巴萨扎尔")抓住[暗夜之歌](Aylin.md "暗夜之歌")后，队伍会从使徒[泽'瑞尔](Z'rell.md "泽'瑞尔")那里接到任务。Z'rell祝贺队伍完成了任务，但解释说在她能允许觐见凯瑟里克·索姆之前还有一项任务。索姆寻求他女儿[伊索贝尔](Isobel.md "伊索贝尔")的安全归来，并已派遣间谍[马库斯](Marcus_Falgor.md "马库斯·法尔戈")前往终焉光芒旅店获取她。Z'rell命令队伍协助间谍抓捕伊索贝尔。
 
 ### 会见伊索贝尔
 

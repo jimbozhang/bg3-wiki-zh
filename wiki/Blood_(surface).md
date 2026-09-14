@@ -29,7 +29,7 @@
 ## 备注
 
 - 无法被电击。
-- 当生物受到伤害产生血时，血的扩散范围和地表面积由伤害的类型和数量决定。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 当生物受到伤害产生血时，血的扩散范围和地表面积由伤害的类型和数量决定。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Blood (surface)](https://bg3.wiki/wiki/Blood_(surface)*

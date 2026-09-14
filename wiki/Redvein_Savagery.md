@@ -4,7 +4,7 @@
 
 ## 描述
 
-当你使用 [优势](Advantage.md "Advantage") 进行攻击时，目标会受到额外的 7⁠⁠[穿刺](Piercing.md "Piercing")[DRS](Damage_rider_as_source.md "Damage rider as source") 伤害。
+当你使用 [优势](Advantage.md "Advantage") 进行攻击时，目标会受到额外的 7⁠⁠[穿刺](Piercing.md "Piercing")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。
 
 ## 如何习得
 

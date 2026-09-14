@@ -14,7 +14,7 @@
 
 - 受影响实体每剩余回合在[力量](Strength.md "力量")、[敏捷](Dexterity.md "敏捷")和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上承受-1减值。
 
-- 当实体拥有5回合或以上的残响时，它会受到1d4⁠⁠[雷鸣](Thunder.md "雷鸣")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并且必须成功通过[DC](Dice_rolls.md#Save_DCs "骰子投掷") 10的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则会[倒伏](Prone_(Condition).md "倒伏 (状态)")。之后状态会被移除。
+- 当实体拥有5回合或以上的残响时，它会受到1d4⁠⁠[雷鸣](Thunder.md "雷鸣")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，并且必须成功通过[掷骰](Dice_rolls.md#Save_DCs "骰子投掷") 10的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则会[倒伏](Prone_(Condition).md "倒伏 (状态)")。之后状态会被移除。
 
 - 对⁠[雷鸣](Thunder.md "雷鸣")伤害[免疫](Damage_types.md#Immunity "伤害类型")的生物无法获得残响。
 

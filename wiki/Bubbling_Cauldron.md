@@ -16,7 +16,7 @@
 - [投掷](Throw.md "投掷")大锅以造成 1d6⁠⁠[火焰](Fire.md "火焰")火焰伤害。
   - 范围：18 米 (60 英尺)
   - 区域效果：3 米 (10 英尺) 半径
-  - [DC](Dice_rolls.md#Save_DCs "掷骰") 10 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 以使伤害减半。
+  - [掷骰](Dice_rolls.md#Save_DCs "掷骰") 10 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 以使伤害减半。
 - 当大锅被摧毁时，会创建一个[水](Water_(area).md) 地表。
   - 区域效果：3 米 (10 英尺) 半径
 

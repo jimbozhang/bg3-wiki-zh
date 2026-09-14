@@ -9,7 +9,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`POTION_OF_POISON` [状态组](Status_groups.md "状态组")：[SG_Surface](SG_Surface.md "SG Surface")、[SG_Poisoned](SG_Poisoned.md "SG Poisoned")、[SG_Condition](SG_Condition.md "SG Condition")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`POTION_OF_POISON` [状态组](Status_groups.md "状态组")：[SG_Surface](SG_Surface.md "SG Surface")、[中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)")、[SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合开始时
 
@@ -29,7 +29,7 @@
 
 - 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
-- 在回合开始时，进行一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，成功则结束该状态。
+- 在回合开始时，进行一次 [掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，成功则结束该状态。
 
 | 状态 | 效果 |
 | --- | --- |
@@ -39,7 +39,7 @@
 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒（可疑的毒药）（状态）")
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
-- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到成功通过一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
+- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到成功通过一次 [掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 ---
 *Source: [Poisoned (Spider Meat) (Condition)](https://bg3.wiki/wiki/Poisoned_(Spider_Meat)*

@@ -34,11 +34,11 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **安娜·丽德雯**，又名**丽德雯姐妹**，是[第二幕](Act_Two.md "第二幕")中位于[治疗中心](House_of_Healing.md "治疗中心")的一位智能[狂热助手](Zealous_Assistant.md "狂热助手")商人。
 

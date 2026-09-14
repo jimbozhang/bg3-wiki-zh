@@ -15,7 +15,7 @@
 2d4 + 1⁠[心灵](Psychic.md "Psychic")
 
 详情
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 16）（豁免成功时：目标仍承受一半伤害。）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 16）（豁免成功时：目标仍承受一半伤害。）
 射程：18米（60英尺）
 
 ## 状态：恐慌

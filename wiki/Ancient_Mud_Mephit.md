@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 8 / (-1) | 12 / (+1) | 12 / (+1) | 9 / (-1) | 11 / (0) | 7 / (-2) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -36,7 +36,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -52,7 +52,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

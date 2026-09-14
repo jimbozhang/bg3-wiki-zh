@@ -15,7 +15,7 @@
 3d8⁠[心灵](Psychic.md "Psychic")（每驱散）
 
 详情
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 14）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 14）
 射程：2 米（7 英尺）
 
 ## 升环施法效应
@@ -28,7 +28,7 @@
 
 持续时间：1 驱散
 
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 14）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 14）
 
 - 被一个可怕的秘密所折磨。受影响的实体必须对一名盟友施放分享难守秘密，否则将遭受衰弱的⁠[心灵](Psychic.md "Psychic")伤害。
 

@@ -79,7 +79,7 @@
 
 ### 第三幕
 
-Jorkens 的尸体可以在 [灰色港口码头](Grey_Harbour_Docks.md "Grey Harbour Docks") 的 [Lustrous Lass](Lustrous_Lass.md "Lustrous Lass") 号船上找到，坐标 X: -183 Y: -239。他携带了书籍 [我的交易](My_Own_Deal.md "My Own Deal")。
+Jorkens 的尸体可以在 [灰色港口码头](Grey_Harbour_Docks.md "Grey Harbour Docks") 的 [光耀少女](Lustrous_Lass.md "光耀少女") 号船上找到，坐标 X: -183 Y: -239。他携带了书籍 [我的交易](My_Own_Deal.md "My Own Deal")。
 
 ## 相关文献
 
@@ -87,7 +87,7 @@ Jorkens 的尸体可以在 [灰色港口码头](Grey_Harbour_Docks.md "Grey Harb
 
 ## 笔记
 
-- 在 [Lustrous Lass](Lustrous_Lass.md "Lustrous Lass") 号船上发现的所有诅咒受害者都是秃头。
+- 在 [光耀少女](Lustrous_Lass.md "光耀少女") 号船上发现的所有诅咒受害者都是秃头。
 
 ---
 *Source: [Jorkens](https://bg3.wiki/wiki/Jorkens)*

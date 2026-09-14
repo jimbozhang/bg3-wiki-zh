@@ -32,7 +32,7 @@
 - [精通额外攻击](Improved_Extra_Attack.md "精通额外攻击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 额外资源
 
@@ -44,7 +44,7 @@
 
 获得 5 × 法术等级 [临时生命值](Temporary_Hit_Points.md "临时生命值")。如果被近战攻击命中，攻击者受到 5 × 法术等级 [寒冷](Cold.md "寒冷") 伤害。此效果在临时生命值耗尽时结束。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 额外资源
 

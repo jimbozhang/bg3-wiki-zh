@@ -3,7 +3,7 @@
 **瞬息低语**
 
 - 被艾瑟尔的低语所诱惑。
-- 该生物必须在其回合开始时通过一次 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")，否则将被施加 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")。
+- 该生物必须在其回合开始时通过一次 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")，否则将被施加 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")。
 
 ## 属性
 
@@ -13,7 +13,7 @@
 
 **[鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")**
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 13)
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 13)
 
 - 艾瑟尔已取得控制权。该状态持续到面具被移除或施法者死亡为止。
 
@@ -30,7 +30,7 @@
 ## 具有相同堆叠ID的状态
 
 - 被艾瑟尔的低语所诱惑。
-- 该生物必须在其回合开始时通过一次 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")，否则将被施加 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")。
+- 该生物必须在其回合开始时通过一次 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")，否则将被施加 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")。
 
 ---
 *Source: [Ephemeral Whispers (Condition)](https://bg3.wiki/wiki/Ephemeral_Whispers_(Condition)*

@@ -1,6 +1,6 @@
 # 管理层警告
 
-**管理层警告**是来自[Syllabub Fran](Syllabub_Fran.md "Syllabub Fran")雇主的警告，因其在工作时醉酒。
+**管理层警告**是来自[西拉布布·弗兰](Syllabub_Fran.md "西拉布布·弗兰")雇主的警告，因其在工作时醉酒。
 
 一张朴素无华的便条。
 
@@ -16,7 +16,7 @@
 
 - UID `BOOK_LOW_BlushingMermaid_DrunkSailorPocketNote02` UUID `dbe2b669-17ec-4746-9991-e434ea11003d` ## 获取地点
 
-- 由醉酒的音乐家[Syllabub Fran](Syllabub_Fran.md "Syllabub Fran")携带，位于[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")。
+- 由醉酒的音乐家[西拉布布·弗兰](Syllabub_Fran.md "西拉布布·弗兰")携带，位于[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")。
 
 ## 文本
 

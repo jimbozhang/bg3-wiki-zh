@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `DEN_APPRENTICE_THORN` [状态组](Status_groups.md "状态组"): [SG_Poisoned](SG_Poisoned.md "SG 中毒")
+[堆叠ID](Stack_ID.md "堆叠ID"): `DEN_APPRENTICE_THORN` [状态组](Status_groups.md "状态组"): [中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)")
 
 [更多属性](Status_properties.md "状态属性"):
 

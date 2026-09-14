@@ -4,7 +4,7 @@
 | --- | --- |
 | 生命值 | 30 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 探索者难度属性
 
@@ -12,7 +12,7 @@
 
 30
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 硬核难度属性
 
@@ -20,7 +20,7 @@
 
 30
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 技术信息
 

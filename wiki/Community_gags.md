@@ -1,4 +1,4 @@
-[Index](Help_colon_Index.md "Help:Index") • [Guides](Help_colon_Guide_namespace.md "Help:Guide namespace") • [Modding](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
+[Index](Help_colon_Index.md "Help:Index") • [指南:指南](Help_colon_Guide_namespace.md "指南:指南") • [Modding](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
 
 ## bg3.wiki 侧边栏
 

@@ -29,7 +29,7 @@
 
 **[塞伦涅的祝福：月光陷阱](Selune's_Blessing_colon__Moonsnare_(Condition).md "塞伦涅的祝福：月光陷阱（状态）")**
 
-[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）
 
 - [移动速度](Movement_speed.md "移动速度")减半。
 

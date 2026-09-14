@@ -11,7 +11,7 @@
 消耗
 [附赠动作](Actions.md#Resources "动作")
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 范围：5米（17英尺）锥形
 
 ## 状态：消化液
@@ -20,7 +20,7 @@
 
 持续时间：5驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 当浸满腐蚀性消化液时，该生物每驱散受到1d6⁠⁠[强酸](Acid.md "强酸")伤害，对[穿刺](Piercing.md "穿刺")和[钝击](Bludgeoning.md "钝击")伤害[易伤](Vulnerable.md "易伤")，并且如果同时处于[束缚](Restrained_(Condition).md "束缚 (状态)")状态，则可被[吞噬](Devour_(Shambling_Mound).md "吞噬 (蔓生怪)")。
 

@@ -1,11 +1,11 @@
 # 德鲁伊套装
 
-The **Druid set** includes items that interact with [Druid](Druid.md "Druid") mechanics or enhance shapeshifting and disguise.
+The **Druid set** includes items that interact with [德鲁伊](Druid.md "德鲁伊") mechanics or enhance shapeshifting and disguise.
 
-- [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw").
+- [优势](Advantage.md "优势") on [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定").
 
-[Plant Growth](Plant_Growth.md "Plant Growth") (+ )
-Cast as a level 3 spell (Recharge: [Short rest](Short_rest.md "Short rest").)
+[植物滋长](Plant_Growth.md "植物滋长") (+ )
+Cast as a level 3 spell (Recharge: [休息](Short_rest.md "休息").)
 
 | 名称 | 插槽 | 效果 |
 | --- | --- | --- |

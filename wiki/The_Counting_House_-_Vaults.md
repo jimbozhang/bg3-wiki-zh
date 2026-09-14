@@ -5,13 +5,13 @@
 
 ## [下城区](Lower_City.md "下城区")
 
-[Rainforest's Home](Rainforest's_Home.md "雨林之家")
+[雨林之家](Rainforest's_Home.md "雨林之家")
 ↑
 | [下城区](Lower_City.md "下城区") |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| [Rainforest's Home](Rainforest's_Home.md "雨林之家") |  |  |  |  |
+| [雨林之家](Rainforest's_Home.md "雨林之家") |  |  |  |  |
 | ↑ |  |  |  |  |
-| [Flymm Cargo](Flymm_Cargo.md "弗莱姆货运") | ← | 清账屋 | → | [Old Garlow's Place](Old_Garlow's_Place.md "老加洛之家") |
+| [Flymm Cargo](Flymm_Cargo.md "弗莱姆货运") | ← | 清账屋 | → | [老加洛之家](Old_Garlow's_Place.md "老加洛之家") |
 |  |  |  |  |  |
 **清账屋**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。
 
@@ -21,7 +21,7 @@
 >
 > „
 
-— [Rakath Glitterbeard](Rakath_Glitterbeard.md "拉凯斯·耀须"), 论黄金与英雄的力量对比
+— [拉凯斯·耀须](Rakath_Glitterbeard.md "拉凯斯·耀须"), 论黄金与英雄的力量对比
 
 ## 目录
 

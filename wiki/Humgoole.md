@@ -115,7 +115,7 @@
 
 \+ 1d8⁠[光耀](Radiant.md "Radiant")
 
-你的武器造成额外的 2d8⁠⁠[光耀](Radiant.md "Radiant")[DRS](Damage_rider_as_source.md "Damage rider as source") 伤害，当攻击 [邪魔](Fiends.md "Fiends") 或 [不死生物](Undead.md "Undead") 时，增加 1d8⁠⁠[光耀](Radiant.md "Radiant") 伤害。
+你的武器造成额外的 2d8⁠⁠[光耀](Radiant.md "Radiant")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，当攻击 [邪魔](Fiends.md "Fiends") 或 [不死生物](Undead.md "Undead") 时，增加 1d8⁠⁠[光耀](Radiant.md "Radiant") 伤害。
 
 射程: 正常武器射程
 

@@ -22,7 +22,7 @@
 伤害
 
 - 施加[沉默](Silenced_(Condition).md "沉默 (状态)")，持续 2 驱散
-- [DC](Dice_rolls.md#Save_DCs "掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")可使所有伤害减半，并移除沉默
+- [掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")可使所有伤害减半，并移除沉默
 
 ## 状态：沉默
 

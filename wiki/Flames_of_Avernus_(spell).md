@@ -17,7 +17,7 @@
 6d6⁠[火焰](Fire.md "火焰")
 
 详情
-[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 15）（豁免成功时：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 15）（豁免成功时：目标仍承受一半伤害。）
 范围：自身
 区域效果：5米（17英尺）锥形
 

@@ -12,7 +12,7 @@
 
 持续时间：1回合
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 
 - 受影响的生物无法移动。恐慌的生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 

@@ -18,7 +18,7 @@
 
 详情
 近战 徒手 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 近战：1.5 米（5 英尺）
 区域效果：2 米（7 英尺）半径
 创造区域：泥巴
@@ -29,7 +29,7 @@
 
 持续时间：2 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 受影响实体被硬化的泥巴覆盖，其 [移动速度](Movement_speed.md "移动速度") 减半。
 - 对其进行的 [攻击掷骰](Attack_rolls.md "攻击掷骰") 具有 [优势](Advantage.md "优势")，而该实体的攻击掷骰和 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 具有 [劣势](Disadvantage.md "劣势")。

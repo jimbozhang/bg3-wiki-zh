@@ -20,7 +20,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `POLYMORPH` [状态组](Status_groups.md "Status groups"): [SG_Polymorph](SG_Polymorph.md "SG Polymorph")
+[堆叠 ID](Stack_ID.md "Stack ID"): `POLYMORPH` [状态组](Status_groups.md "Status groups"): [变形状态组 (Polymorphed (status group))](SG_Polymorph.md "变形状态组 (Polymorphed (status group))")
 
 ## 变形的来源
 

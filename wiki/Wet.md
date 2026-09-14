@@ -30,7 +30,7 @@
 - [造水术](Create_Water.md "造水术")
 - [造水术 (变体)](Create_Water_(variant).md "造水术 (变体)")
 - [不协飞溅](Incongruent_Splash.md "不协飞溅")
-- **[Minor Conjuration: Create Water](Minor_Conjuration_colon__Create_Water.md "Minor Conjuration: Create Water")** → **[咒法学派：造水术](Minor_Conjuration_colon__Create_Water.md "咒法学派：造水术")**
+- **[次级咒法：造水术](Minor_Conjuration_colon__Create_Water.md "次级咒法：造水术")** → **[咒法学派：造水术](Minor_Conjuration_colon__Create_Water.md "咒法学派：造水术")**
 
 ## 拥有濡湿状态的生物
 

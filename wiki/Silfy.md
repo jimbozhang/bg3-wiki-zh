@@ -24,7 +24,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 14 / (+2) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -36,7 +36,7 @@
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -48,7 +48,7 @@
 
 [抗性](Resistant.md "抗性")所有[火焰](Fire.md "火焰")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -79,7 +79,7 @@
 
 如果西尔菲被抓到偷窃，队伍可以质问她，并可选择摇晃她以取回他们的物品。否则，队伍可以询问她作为守卫是否看到任何可疑情况。如果西尔菲被成功恐吓，她会说出[摩尔](Mol.md "摩尔")的名字并威胁要叫她，但意识到这将是一个错误。然后她通过崎岖的裂缝跑进[提夫林避难所](Tiefling_Hideout.md "提夫林避难所")。
 
-如果在解决[卡哈](Kagha.md "卡哈")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the [Emerald Grove](Emerald_Grove.md "Emerald Grove") and Silfy's corpse can be found among the bodies of all the other refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village")。
+如果在解决[卡哈](Kagha.md "卡哈")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the [翠绿林地](Emerald_Grove.md "翠绿林地") and Silfy's corpse can be found among the bodies of all the other refugees near the bridge to the [染疫村落](Blighted_Village.md "染疫村落")。
 
 ### 第三幕
 

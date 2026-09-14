@@ -13,7 +13,7 @@
 | 移动速度 | 9米（30英尺） |
 | 经验值 | 110 |
 
-**大红**是[第三幕](Act_Three.md "第三幕")中出现的一个[野兽](Beast.md "野兽")[NPC](NPC.md "NPC")。大红被关在[终焉马戏团](Circus_of_the_Last_Days.md "终焉马戏团")的笼子里，位于[利文顿](Rivington.md "利文顿")。
+**大红**是[第三幕](Act_Three.md "第三幕")中出现的一个[野兽](Beast.md "野兽")[非玩家角色](NPC.md "非玩家角色")。大红被关在[终焉马戏团](Circus_of_the_Last_Days.md "终焉马戏团")的笼子里，位于[利文顿](Rivington.md "利文顿")。
 
 > “
 >

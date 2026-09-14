@@ -15,7 +15,7 @@
 2d6⁠[中毒](Poison.md "中毒")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 8 + [体质](Constitution.md "体质") 调整值 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")）（豁免成功：目标承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 8 + [体质](Constitution.md "体质") 调整值 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")）（豁免成功：目标承受一半伤害。）
 范围：自身
 区域效果：5米（17英尺）锥形
 充能：[短休](Short_rest.md "短休")

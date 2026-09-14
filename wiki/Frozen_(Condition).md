@@ -11,7 +11,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组")：[SG_Condition](SG_Condition.md "SG 状态")，[SG_Incapacitated](SG_Incapacitated.md "SG 失能")
+[状态组](Status_groups.md "状态组")：[SG 状态](SG_Condition.md "SG 状态")，[失能 (状态组)](SG_Incapacitated.md "失能 (状态组)")
 
 [更多属性](Status_properties.md "状态属性")：
 

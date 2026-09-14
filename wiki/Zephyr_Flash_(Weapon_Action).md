@@ -17,7 +17,7 @@
 6d8⁠[雷鸣](Thunder.md "雷鸣")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）（若豁免成功：目标仍会受到一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）（若豁免成功：目标仍会受到一半伤害。）
 范围：12 米（40 英尺）直线
 充能：[短休](Short_rest.md "短休")
 
@@ -27,9 +27,9 @@
 
 持续时间：3 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
-- 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源附加伤害") 伤害，并且在 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
+- 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，并且在 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。
 - 通过治疗移除。
 
 ## 如何习得

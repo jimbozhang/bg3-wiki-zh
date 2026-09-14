@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "Actions") + [3环法术位](Spells.md#Spell_slots "Spells")
 详情
-[WIS](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
 近战：1.5米（5英尺）
 [专注](Concentration.md "Concentration")
 

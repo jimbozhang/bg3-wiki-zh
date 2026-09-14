@@ -199,7 +199,7 @@ Yisk Gith'ka tavki krash'ht!
 
 Zai, zai, zai
 某种战斗口号，用于激励自己<sup>[\[47\]](#cite_note-47)</sup><sup>[\[48\]](#cite_note-48)</sup>
-[zaith'isk](Zaith'isk.md "扎伊斯克净化者")
+[扎伊斯克净化者](Zaith'isk.md "扎伊斯克净化者")
 “净化者”，或更具体地说，一种用于从受感染的吉斯洋基人身上移除夺心魔寄生虫的装置。
 zech
 等等！ [命令式]<sup>[\[21\]](#cite_note-interrupted-21)</sup>

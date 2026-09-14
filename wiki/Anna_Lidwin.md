@@ -35,11 +35,11 @@
 
 [治疗中心](House_of_Healing.md "House of Healing"), [雷斯文小镇](Reithwin_Town.md "Reithwin Town")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **安娜·丽德雯**，也被称为**丽德雯姐妹**，是[第二幕](Act_Two.md "Act Two")中[治疗中心](House_of_Healing.md "House of Healing")的一位智能[狂热助手](Zealous_Assistant.md "Zealous Assistant")商人。
 

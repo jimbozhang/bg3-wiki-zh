@@ -10,7 +10,7 @@
 
 **[剑刃屏障](Blade_Barrier_(Condition).md "剑刃屏障 (状态)")**
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 接近屏障的生物会被切片、切割、劈砍，就像血污砧板上的肉块一样。
 - 受影响的实体每回合受到6d10⁠⁠[挥砍](Slashing.md "挥砍")伤害。

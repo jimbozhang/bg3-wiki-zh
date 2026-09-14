@@ -5,7 +5,7 @@
 **肖像画**可能指：
 
 - [角色肖像](Category_colon_Character_Portraits.md "Category:Character Portraits") - 用户界面元素
-- 对其他[Larian](Larian.md "Larian")游戏的引用：<sup>[\[1\]](#cite_note-1)</sup>
+- 对其他[拉瑞安工作室](Larian.md "拉瑞安工作室")游戏的引用：<sup>[\[1\]](#cite_note-1)</sup>
   - [费恩的肖像](Portrait_of_Fane.md "Portrait of Fane")
   - [伊凡·本梅兹的肖像](Portrait_of_Ifan_ben-Mezd.md "Portrait of Ifan ben-Mezd")
   - [洛思的肖像](Portrait_of_Lohse.md "Portrait of Lohse")

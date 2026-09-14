@@ -2,12 +2,12 @@
 
 **流血**
 
-- 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源") 伤害，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 可通过治疗移除。
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID")：`BLEEDING` [状态组](Status_groups.md "状态组")：[SG_Condition](SG_Condition.md "SG 状态")
+[堆叠ID](Stack_ID.md "堆叠ID")：`BLEEDING` [状态组](Status_groups.md "状态组")：[SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合开始时
 
@@ -19,7 +19,7 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| 流血 | 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源") 伤害，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。可通过治疗移除。 |
+| 流血 | 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。可通过治疗移除。 |
 
 - [不死生物](Undead.md "不死生物")（[妖鬼](Ghast.md "妖鬼")和[食尸鬼](Ghoul.md "食尸鬼")除外）、[构装生物](Construct.md "构装生物")、[元素生物](Elemental.md "元素生物")、[植物](Plant.md "植物")、[泥型怪物](Ooze.md "泥型怪物")免疫流血。\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
 
@@ -64,7 +64,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源") 伤害，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 可通过治疗移除。
 
 ---

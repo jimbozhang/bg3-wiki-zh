@@ -22,7 +22,7 @@
 
 **[流血](Bleeding_(Condition).md "流血 (状态)")**
 
-- 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
+- 生物在每回合开始时受到 2⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，并在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 通过治疗移除。
 
 ## 如何习得

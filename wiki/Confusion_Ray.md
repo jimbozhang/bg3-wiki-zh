@@ -13,7 +13,7 @@
 消耗
 [眼柄动作](Spectator.md#Combat "观察者眼魔")
 详情
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子投掷"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子投掷"))
 射程：18 米 (60 英尺)
 充能：每回合
 
@@ -23,7 +23,7 @@
 
 持续时间：2 回合
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子投掷"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子投掷"))
 
 - 受影响实体无法控制其动作，并漫无目的地游荡。
 

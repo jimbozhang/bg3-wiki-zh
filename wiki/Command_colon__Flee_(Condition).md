@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID")：`FEARED` [状态组](Status_groups.md "状态组")：[SG_Condition](SG_Condition.md "SG 状态")、[SG_Fleeing](SG_Fleeing.md "SG 逃跑")
+[堆叠ID](Stack_ID.md "堆叠ID")：`FEARED` [状态组](Status_groups.md "状态组")：[SG 状态](SG_Condition.md "SG 状态")、[逃离 (状态组)](SG_Fleeing.md "逃离 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合结束
 

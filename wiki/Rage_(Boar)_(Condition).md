@@ -10,7 +10,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `RAGE` [状态组](Status_groups.md "状态组"): [SG_Rage](SG_Rage.md "SG Rage"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `RAGE` [状态组](Status_groups.md "状态组"): [SG 狂暴](SG_Rage.md "SG 狂暴"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
 
 [持续时间损失](Conditions.md#Duration "状态"): 回合结束
 

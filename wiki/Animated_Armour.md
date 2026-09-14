@@ -31,9 +31,9 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **活化护甲**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中的[构装生物](Construct.md "构装生物")和非可玩[种族](Race.md "种族")。它们可以在[奥法高塔](Arcane_Tower.md "奥法高塔")、[复仇之炉](Grymforge.md "复仇之炉")和[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")中找到。活化护甲可以被反魔法效果禁用。
 

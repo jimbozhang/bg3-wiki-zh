@@ -45,7 +45,7 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

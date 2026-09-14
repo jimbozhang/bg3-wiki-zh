@@ -11,9 +11,9 @@
 | 先攻 | 0 |
 | 经验值 | 60 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **博学的哨兵**是一种独特的[不死生物](Undead.md "不死生物")，守卫着[雷斯文小镇](Reithwin_Town.md "雷斯文小镇")广场上[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")雕像下方的莎尔秘密神殿。其能力类似于[牧师](Cleric.md "牧师")，并且与其角色相符，它拥有极高的[感知](Wisdom.md "感知")。
 

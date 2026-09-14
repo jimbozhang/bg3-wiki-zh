@@ -5,7 +5,7 @@
 | 体型 | 中级 |
 | 生命值 | 55 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 

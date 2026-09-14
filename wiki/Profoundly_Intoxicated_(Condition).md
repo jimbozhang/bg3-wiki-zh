@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `TWN_DISTILLERY_DRUNK_STATUS` [状态组](Status_groups.md "状态组"): [SG_Drunk](SG_Drunk.md "SG Drunk")
+[堆叠ID](Stack_ID.md "堆叠ID"): `TWN_DISTILLERY_DRUNK_STATUS` [状态组](Status_groups.md "状态组"): [SG 醉酒](SG_Drunk.md "SG 醉酒")
 
 [堆叠优先级](Stack_priority.md "堆叠优先级"): 2
 

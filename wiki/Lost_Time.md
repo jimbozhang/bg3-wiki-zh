@@ -27,7 +27,7 @@
 
 ## 获取地点
 
-- 在[蔓生地道](Overgrown_Tunnel.md "蔓生地道")的尽头，酸蚀工坊内\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 在[蔓生地道](Overgrown_Tunnel.md "蔓生地道")的尽头，酸蚀工坊内\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - 在[脸红的美人鱼](Blushing_Mermaid.md "脸红的美人鱼")下方，鬼婆的地下室中
 
 - 饮用药水会使具有[公会工匠](Guild_Artisan.md "公会工匠")背景的队伍成员获得[后天品味](Guild_Artisan.md#An_Acquired_Taste "公会工匠")。

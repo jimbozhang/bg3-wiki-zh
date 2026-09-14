@@ -58,13 +58,13 @@
 - [剑刃防护](Blade_Ward.md "剑刃防护")
 - [冻僵](Bone_Chill.md "冻僵")
 - [轰鸣剑](Booming_Blade.md "轰鸣剑")
-- [Bursting Sinew](Bursting_Sinew.md "Bursting Sinew")
+- [爆裂肌腱](Bursting_Sinew.md "爆裂肌腱")
 - [舞光术](Dancing_Lights.md "舞光术") * [火焰箭](Fire_Bolt.md "火焰箭")
-- [交友术](Friends.md "交友术") * [Light](Light.md "Light")
+- [交友术](Friends.md "交友术") * [光亮术](Light.md "光亮术")
 - [初级幻影](Minor_Illusion.md "初级幻影") * [毒气喷溅](Poison_Spray.md "毒气喷溅")
 - [冷冻射线](Ray_of_Frost.md "冷冻射线")
 - [电爪](Shocking_Grasp.md "电爪")
-- [Toll the Dead](Toll_the_Dead.md "Toll the Dead")
+- [鸣响丧钟](Toll_the_Dead.md "鸣响丧钟")
 - [克敌机先](True_Strike.md "克敌机先")
 
 可用的新等级 1 [惑控学派](Enchantment_(school).md "惑控学派")和[幻术学派](Illusion.md "幻术学派")法术

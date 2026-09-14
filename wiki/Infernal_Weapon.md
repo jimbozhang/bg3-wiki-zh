@@ -34,7 +34,7 @@
 
 ## 错误
 
-- [中毒](Poisoned_(Condition).md "中毒（状态）") 豁免检定的掷骰结果未在战斗日志中显示，无论豁免成功或失败。由于其 [DC](Dice_rolls.md#Save_DCs "掷骰") 12 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 较低，这可能让人误以为中毒效果完全无效。
+- [中毒](Poisoned_(Condition).md "中毒（状态）") 豁免检定的掷骰结果未在战斗日志中显示，无论豁免成功或失败。由于其 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 较低，这可能让人误以为中毒效果完全无效。
 
 ---
 *Source: [Infernal Weapon](https://bg3.wiki/wiki/Infernal_Weapon)*

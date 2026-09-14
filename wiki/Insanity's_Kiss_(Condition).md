@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `MADNESS` [状态组](Status_groups.md "Status groups"): [SG_Mad](SG_Mad.md "SG Mad"), [SG_Cursed](SG_Cursed.md "SG Cursed")
+[堆叠ID](Stack_ID.md "Stack ID"): `MADNESS` [状态组](Status_groups.md "Status groups"): [SG_Mad](SG_Mad.md "SG Mad"), [被诅咒（状态组）](SG_Cursed.md "被诅咒（状态组）")
 
 [更多属性](Status_properties.md "Status properties"):
 

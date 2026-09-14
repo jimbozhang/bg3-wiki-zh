@@ -17,7 +17,7 @@
 1d10⁠[钝击](Bludgeoning.md "钝击")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 射程：18米（60英尺）
 范围：1米（3英尺）半径
 

@@ -18,9 +18,9 @@
 
 - UID `BOOK_GEN_Races_RealmAccordingToBumpo001` UUID `c8571ea2-ac5b-4b49-b806-1553c5a1cbbe` ## 获取地点
 
-- 在 [The Hollow](The_Hollow.md "The Hollow") 的 X: 164 Y: 551 处
+- 在 [空谷](The_Hollow.md "空谷") 的 X: 164 Y: 551 处
 
-- 由 [Nansi Gretta](Nansi_Gretta.md "Nansi Gretta") 出售
+- 由 [纳西·格莉塔](Nansi_Gretta.md "纳西·格莉塔") 出售
 
 ## 文本
 

@@ -35,7 +35,7 @@
 
 **[昏沉](Befuddled_(Condition).md "昏沉（状态）")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 10）
 
 - 受影响实体无法控制其动作，并漫无目的地游荡。
 

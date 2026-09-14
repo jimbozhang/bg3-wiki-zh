@@ -23,7 +23,7 @@
 
 ## 漏洞
 
-- 游戏内寒冰还击的描述显示存在[DC](DC.md#Save_DCs "骰子掷骰") 13 [体质](CON.md "体质") [豁免检定](Saving_throw.md "豁免检定")，但实际上无需豁免检定即可避免该效果。每次攻击未命中时都会施加冻僵状态。
+- 游戏内寒冰还击的描述显示存在[骰子掷骰](DC.md#Save_DCs "骰子掷骰") 13 [体质](CON.md "体质") [豁免检定](Saving_throw.md "豁免检定")，但实际上无需豁免检定即可避免该效果。每次攻击未命中时都会施加冻僵状态。
 
 ---
 *Source: [Chilling Counter](https://bg3.wiki/wiki/Chilling_Counter)*

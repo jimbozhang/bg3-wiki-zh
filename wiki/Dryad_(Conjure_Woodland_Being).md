@@ -36,7 +36,7 @@
 - [自然步伐](Nature's_Step.md "自然步伐")
 - [森林之握](Grasp_of_the_Forest.md "森林之握")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **树精**是一种[妖精](List_of_creature_types.md#Fey "生物类型列表")生物，可以通过法术[召唤林地妖精](Conjure_Woodland_Being.md "召唤林地妖精")召唤，这是7级[德鲁伊](Druid.md "德鲁伊")可用的四级法术。它们引导强大的德鲁伊力量，使它们能够纠缠敌人并召唤[菘蓝树人](Wood_Woad.md "菘蓝树人")寻求帮助。
 

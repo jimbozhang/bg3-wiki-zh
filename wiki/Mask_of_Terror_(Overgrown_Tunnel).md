@@ -58,7 +58,7 @@
 
 ### 攻击与能力
 
-恐惧面具必须在每回合开始时成功通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 17 的 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则将受到 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从（状态）") 的影响。如果他豁免成功，他将跳过回合而不伤害队伍。
+恐惧面具必须在每回合开始时成功通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 17 的 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则将受到 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从（状态）") 的影响。如果他豁免成功，他将跳过回合而不伤害队伍。
 
 [恐惧诅咒](Curse_of_Terror.md "恐惧诅咒")
 

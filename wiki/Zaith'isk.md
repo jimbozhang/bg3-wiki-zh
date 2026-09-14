@@ -16,7 +16,7 @@
 
 主条目：[找到吉斯洋基养育间](Find_the_Githyanki_Crèche.md "找到吉斯洋基养育间")
 
-当遇到该装置时，队伍可以与驻场医生[医疗官斯托努苟斯](Stornugoss.md "医疗官斯托努苟斯")交谈，请求使用扎伊斯克净化者移除队伍成员头部的蝌蚪。一旦队伍成员躺进机器，他们必须通过三次豁免检定，才能在无不良影响的情况下成功完成手术，分别是[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12的[智力](Intelligence.md "智力")[豁免检定](Saving_throw.md "豁免检定")、[DC](Dice_rolls.md#Save_DCs "Dice rolls") 15的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，以及最后根据职业而定的[DC](Dice_rolls.md#Save_DCs "Dice rolls") 18的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
+当遇到该装置时，队伍可以与驻场医生[医疗官斯托努苟斯](Stornugoss.md "医疗官斯托努苟斯")交谈，请求使用扎伊斯克净化者移除队伍成员头部的蝌蚪。一旦队伍成员躺进机器，他们必须通过三次豁免检定，才能在无不良影响的情况下成功完成手术，分别是[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 12的[智力](Intelligence.md "智力")[豁免检定](Saving_throw.md "豁免检定")、[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 15的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，以及最后根据职业而定的[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 18的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 如果与[医疗官斯托努苟斯](Stornugoss.md "医疗官斯托努苟斯")交谈后杀了她，队伍将无法与**扎伊斯克净化者**互动。要使用该机器，队伍必须在与她交谈前与其互动，或者如果已经交谈过，则需在使用机器前保持她存活。
 

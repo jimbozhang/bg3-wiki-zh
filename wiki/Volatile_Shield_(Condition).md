@@ -4,7 +4,7 @@
 
 - 受影响实体已被灵吸怪授予临时生命值。如果这些生命值因受到伤害而被移除，护盾会爆裂，可能[震慑](Stunned_(Condition).md "震慑 (状态)")附近的敌人。
 - 护盾仅在所有临时生命值被移除后才会爆裂。这也会移除该状态。
-- 当护盾爆裂时，9米（30英尺）内的敌人会被[震慑](Stunned_(Condition).md "震慑 (状态)")1回合，除非他们成功通过[DC](Dice_rolls.md#Save_DCs "掷骰") 15的[智力](Intelligence.md "智力")[豁免检定](Saving_throw.md "豁免检定")。
+- 当护盾爆裂时，9米（30英尺）内的敌人会被[震慑](Stunned_(Condition).md "震慑 (状态)")1回合，除非他们成功通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 15的[智力](Intelligence.md "智力")[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 属性
 
@@ -14,7 +14,7 @@
 
 **[震慑](Stunned_(Condition).md "震慑 (状态)")**
 
-[智力](Intelligence.md "智力")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[智力](Intelligence.md "智力")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 受影响生物无法移动或进行[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")。
 - 受影响生物自动在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")中失败。

@@ -61,7 +61,7 @@
 
 可以在 24 米 / 80 英尺内看到黑暗中的物体。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -69,7 +69,7 @@
 
 - 5
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

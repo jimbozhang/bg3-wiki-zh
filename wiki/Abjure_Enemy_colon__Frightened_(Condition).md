@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `FRIGHTENED` [状态组](Status_groups.md "状态组"): [SG_Frightened](SG_Frightened.md "SG Frightened"), [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠ID](Stack_ID.md "堆叠ID"): `FRIGHTENED` [状态组](Status_groups.md "状态组"): [恐慌 (状态组)](SG_Frightened.md "恐慌 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "状态"): 驱散结束
 

@@ -94,7 +94,7 @@
 
 ## 注释
 
-- 尽管拥有[召唤元素生物：水元素](Conjure_Elemental_colon__Water_Elemental.md "召唤元素生物：水元素")和[冰风暴](Ice_Storm.md "冰风暴")法术，莱瑟姆无法施放它们，因为他缺乏所需的[法术位](Spell_Slot.md "法术位")。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 尽管拥有[召唤元素生物：水元素](Conjure_Elemental_colon__Water_Elemental.md "召唤元素生物：水元素")和[冰风暴](Ice_Storm.md "冰风暴")法术，莱瑟姆无法施放它们，因为他缺乏所需的[法术位](Spell_Slot.md "法术位")。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 外部链接
 

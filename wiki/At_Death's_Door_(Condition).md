@@ -8,7 +8,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_Poisoned](SG_Poisoned.md "SG Poisoned")
+[状态组](Status_groups.md "状态组"): [中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)")
 
 ## 临终之门的来源
 

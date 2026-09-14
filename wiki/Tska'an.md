@@ -12,15 +12,15 @@
 | 先攻 | +3 |
 | 经验值 | 200 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -64,7 +64,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | +3 | +2 | +2 | +2 | +4 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

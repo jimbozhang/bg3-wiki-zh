@@ -4,7 +4,7 @@
 
 ## 描述
 
-命中时，可能施加 [恐慌](Frightened_(Condition).md "恐慌 (状态)")（[DC](Dice_rolls.md#Save_DCs "掷骰") 12 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")）。对恐慌的生物攻击和伤害获得 +1d4 奖励。
+命中时，可能施加 [恐慌](Frightened_(Condition).md "恐慌 (状态)")（[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")）。对恐慌的生物攻击和伤害获得 +1d4 奖励。
 
 ## 如何习得
 

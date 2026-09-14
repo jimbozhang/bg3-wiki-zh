@@ -44,15 +44,15 @@
 - [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 - [高级黑暗视觉](Superior_Darkvision.md "高级黑暗视觉")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

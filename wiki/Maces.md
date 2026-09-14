@@ -38,7 +38,7 @@ _如果您拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 | [锈硬头锤](Rusty_Mace.md "锈硬头锤") |  | 1d6 | 钝击 | 1.8 kg / 3.6 lb | 3 |  |
 | [仪式硬头锤](Ceremonial_Mace.md "仪式硬头锤") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 40 |  |
 | [地狱硬头锤（普通）](Infernal_Mace_(Uncommon).md "地狱硬头锤（普通）") | +1 | 1d6 + 1 / 3 | 钝击 / 中毒 | 1.8 kg / 3.6 lb | 65 | [地狱武器](Infernal_Weapon.md "地狱武器")命中时，此武器造成额外3⁠⁠[毒素](Poison.md "毒素")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒（状态）")。 |
-| [劳薇塔的灾祸](Loviatar's_Scourge.md "劳薇塔的灾祸") |  | 1d6 / 1d6 | 钝击 / 黯蚀 | 1.8 kg / 3.6 lb | 370 | [意志之鞭](Willing_Whip.md "意志之鞭")获得对⁠[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害附加源")伤害。 |
+| [劳薇塔的灾祸](Loviatar's_Scourge.md "劳薇塔的灾祸") |  | 1d6 / 1d6 | 钝击 / 黯蚀 | 1.8 kg / 3.6 lb | 370 | [意志之鞭](Willing_Whip.md "意志之鞭")获得对⁠[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。 |
 | [硬头锤 +1](Mace_+1.md "硬头锤 +1") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 40 |  |
 | [艾克斯阎蒂](Xyanyde.md "艾克斯阎蒂") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 330 | [艾克斯阎蒂之焰](Xyanyde's_Fire.md "艾克斯阎蒂之焰")每[短休](Short_rest.md "短休")一次，如果您对目标的攻击未命中，可使目标被[妖火](Faerie_Fire_(Condition).md "妖火（状态）")包裹2回合。 |
 | [精金硬头锤](Adamantine_Mace.md "精金硬头锤") | +1 | 1d6 + 1 | 钝击 | 1.9 kg / 3.8 lb | 190 | [削铁斩金](Diamondsbane.md "削铁斩金")如果精金武器命中物体，则必定暴击。[致命武器（钝击）](Lethal_Weapon_(Bludgeoning).md "致命武器（钝击）")此武器无视对⁠[钝击](Bludgeoning.md "钝击")伤害的[抗性](Resistance.md "抗性")。 |

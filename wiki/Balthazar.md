@@ -43,7 +43,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [驱散抗性](Turn_Resistance.md "驱散抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 额外资源
 
@@ -63,7 +63,7 @@
 
 9米 / 30英尺范围内的友方不死生物对 ⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍") 和 ⁠[穿刺](Piercing.md "穿刺") 伤害具有 [抗性](Resistant.md "抗性")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 额外资源
 
@@ -83,7 +83,7 @@
 
 9米 / 30英尺范围内的友方不死生物对 ⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍") 和 ⁠[穿刺](Piercing.md "穿刺") 伤害具有 [抗性](Resistant.md "抗性")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 额外资源
 
@@ -137,7 +137,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 14 / (+2) | 16 / (+3) | 20 / (+5) | 14 / (+2) | 10 / (0) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 额外资源
 

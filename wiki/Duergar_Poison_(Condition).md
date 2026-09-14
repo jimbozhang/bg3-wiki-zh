@@ -12,7 +12,7 @@
 ## 属性
 
 [堆叠ID](Stack_ID.md "堆叠ID")：`UND_INJUREDGNOME_POISONED`
-[状态组](Status_groups.md "状态组")：[SG_Condition](SG_Condition.md "SG_Condition")，[SG_Poisoned](SG_Poisoned.md "SG_Poisoned")
+[状态组](Status_groups.md "状态组")：[SG 状态](SG_Condition.md "SG 状态")，[中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)")
 
 [更多属性](Status_properties.md "状态属性")：
 

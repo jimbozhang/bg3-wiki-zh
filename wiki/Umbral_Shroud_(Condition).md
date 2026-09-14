@@ -9,7 +9,7 @@
 ## 属性
 
 [堆叠 ID](Stack_ID.md "堆叠 ID")：`INVISIBILITY`
-[状态组](Status_groups.md "状态组")：[SG_Invisible](SG_Invisible.md "SG Invisible")，[SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
+[状态组](Status_groups.md "状态组")：[隐形 (状态组)](SG_Invisible.md "隐形 (状态组)")，[SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合结束
 

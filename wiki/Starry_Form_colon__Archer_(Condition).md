@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `WILDSHAPE` [状态组](Status_groups.md "状态组"): [SG_Polymorph](SG_Polymorph.md "SG 变形"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG 重置时移除"), [SG_Light](SG_Light.md "SG 轻型")
+[堆叠ID](Stack_ID.md "堆叠ID"): `WILDSHAPE` [状态组](Status_groups.md "状态组"): [变形状态组 (Polymorphed (status group))](SG_Polymorph.md "变形状态组 (Polymorphed (status group))"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG 重置时移除"), [SG_Light](SG_Light.md "SG 轻型")
 
 ## 赋予
 

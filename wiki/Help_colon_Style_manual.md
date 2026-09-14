@@ -1,4 +1,4 @@
-[Index](Help_colon_Index.md "Help:Index") • [Guides](Help_colon_Guide_namespace.md "Help:Guide namespace") • [Modding](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
+[Index](Help_colon_Index.md "Help:Index") • [指南:指南](Help_colon_Guide_namespace.md "指南:指南") • [Modding](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
 
 ## bg3.wiki 侧边栏
 
@@ -329,7 +329,7 @@ bg3.wiki 上的文章使用清晰易懂的语言，优先考虑可读性而非�
 7.  伙伴好感度
 8.  战斗：描述与该角色的任何战斗遭遇的部分。长的战斗部分，特别是对于BOSS遭遇，应移至战斗子页面。
 9.  攻击和能力：角色在战斗中使用的法术和能力。
-10. 盟友/遭遇细节/战术：仅适用于描述值得注意的战斗遭遇但不够长以保证单独战斗子页面的文章（例如 [Tska'an](Tska'an.md "Tska'an")）。
+10. 盟友/遭遇细节/战术：仅适用于描述值得注意的战斗遭遇但不够长以保证单独战斗子页面的文章（例如 [茨卡'安](Tska'an.md "茨卡'安")）。
 11. 战利品：可以从角色身上掠夺的任何物品。
 12. 相关任务：角色参与的任何任务。
 13. 任务奖励：可以从该角色作为任务奖励获得的任何物品、临时奖励或永久奖励。
@@ -625,7 +625,7 @@ bg3.wiki 上的文章使用清晰易懂的语言，优先考虑可读性而非�
 
 _切勿在主维基命名空间中使用第一人称或第二人称视角_，即使在进行推测时也是如此。如果一个陈述是暂定的且需要验证，这没关系——只需包含 `{{Verify}}` 模板，让读者和其他维基编辑者知道。
 
-  -   This is also dropped by John Baldursgate.[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")] (这也由约翰·鲍德斯盖特掉落。)
+  -   This is also dropped by John Baldursgate.[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")] (这也由约翰·鲍德斯盖特掉落。)
 -   I think this is also dropped by John Baldursgate. (我认为这也由约翰·鲍德斯盖特掉落。)
 
 _指南的例外情况：_ 当为 [Guide:](Category_colon_Guides.md "Category:Guides") 命名空间编写内容时，可以自由地主观地从任何角度撰写。此命名空间是您为玩家插入意见和建议的地方。可能会在以后添加针对此命名空间的额外指南。
@@ -1163,7 +1163,7 @@ _非_散文的列表元素：
 以下_可以_在散文中使用，但仅带参数，因为这样有助于确保格式一致：
 
 -   {{[Ability check](Template_colon_Ability_check.md "Template:Ability check")}} - 例如 DC 15 [敏捷](Dexterity.md "Dexterity") [属性检定](Ability_Check.md "属性检定")
-  -   {{[Saving throw](Template_colon_Saving_throw.md "Template:Saving throw")}} - 例如 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 10 [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw")
+  -   {{[Saving throw](Template_colon_Saving_throw.md "Template:Saving throw")}} - 例如 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 10 [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw")
 
 可以在任何地方使用的图标模板，包括散文：
 

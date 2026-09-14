@@ -31,7 +31,7 @@
 | 名称 | 稀有度 | 价值 | 交易等级[[](#cite_note-trade_level-1 "[")1] | 类型 | 效果 |
 | --- | --- | --- | --- | --- | --- |
 | [异怪必杀箭](Arrow_of_Aberration_Slaying.md "Arrow of Aberration Slaying") | 非常稀有 | 80 | 6 | 伤害 | 造成武器伤害，对[异怪](Aberration.md "Aberration")的伤害翻倍。 |
-| [酸液箭](Arrow_of_Acid.md "Arrow of Acid") | 普通 | 10 | 1 | 伤害/实用 | 造成武器伤害 + 2d4⁠⁠[强酸](Acid.md "Acid")[DRS](Damage_rider_as_source.md "Damage rider as source")（可通过[敏捷豁免](Saving_throw.md "Saving Throw")避免）。/ 创造一个永久的[强酸](Acid_(surface).md "Acid (surface)")地表，范围：2米（7英尺）半径。 |
+| [酸液箭](Arrow_of_Acid.md "Arrow of Acid") | 普通 | 10 | 1 | 伤害/实用 | 造成武器伤害 + 2d4⁠⁠[强酸](Acid.md "Acid")[伤害机制](Damage_rider_as_source.md "伤害机制")（可通过[敏捷豁免](Saving_throw.md "Saving Throw")避免）。/ 创造一个永久的[强酸](Acid_(surface).md "Acid (surface)")地表，范围：2米（7英尺）半径。 |
 | [奥术干扰箭](Arrow_of_Arcane_Interference.md "Arrow of Arcane Interference") | 稀有 | 50 | 6 | 伤害/实用 | 造成武器伤害。打断目标的[专注](Concentration.md "Concentration")并施加[沉默](Silenced_(Condition).md "Silenced (Condition)")。 |
 | [野兽必杀箭](Arrow_of_Beast_Slaying.md "Arrow of Beast Slaying") | 不常见 | 20 | 6 | 伤害 | 造成武器伤害，对[野兽](Beast.md "Beast")的伤害翻倍。 |
 | [构装生物必杀箭](Arrow_of_Construct_Slaying.md "Arrow of Construct Slaying") | 不常见 | 10 | 6 | 伤害 | 造成武器伤害，对[构装生物](Construct.md "Construct")的伤害翻倍。 |
@@ -39,11 +39,11 @@
 | [龙族必杀箭](Arrow_of_Dragon_Slaying.md "Arrow of Dragon Slaying") | 非常稀有 | 80 | 6 | 伤害 | 造成武器伤害，对[龙](Dragon.md "Dragon")的伤害翻倍。 |
 | [元素生物必杀箭](Arrow_of_Elemental_Slaying.md "Arrow of Elemental Slaying") | 不常见 | 20 | 6 | 伤害 | 造成武器伤害，对[元素生物](Elemental.md "Elemental")的伤害翻倍。 |
 | [邪魔必杀箭](Arrow_of_Fiend_Slaying.md "Arrow of Fiend Slaying") | 不常见 | 20 | 6 | 伤害 | 造成武器伤害，对[邪魔](Fiend.md "Fiend")的伤害翻倍。 |
-| [火焰箭](Arrow_of_Fire.md "Arrow of Fire") | 普通 | 10 | 1 | 伤害/实用 | 造成武器伤害 + 2d4⁠⁠[火焰](Fire.md "Fire")[DRS](Damage_rider_as_source.md "Damage rider as source")（可通过[敏捷豁免](Saving_throw.md "Saving Throw")避免）。/ 创造一个[火焰](Fire_(surface).md "Fire (surface)")地表，持续2回合，范围：2米（7英尺）半径。 |
+| [火焰箭](Arrow_of_Fire.md "Arrow of Fire") | 普通 | 10 | 1 | 伤害/实用 | 造成武器伤害 + 2d4⁠⁠[火焰](Fire.md "Fire")[伤害机制](Damage_rider_as_source.md "伤害机制")（可通过[敏捷豁免](Saving_throw.md "Saving Throw")避免）。/ 创造一个[火焰](Fire_(surface).md "Fire (surface)")地表，持续2回合，范围：2米（7英尺）半径。 |
 | [类人生物必杀箭](Arrow_of_Humanoid_Slaying.md "Arrow of Humanoid Slaying") | 非常稀有 | 80 | 6 | 伤害 | 造成武器伤害，对[类人生物](Humanoid.md "Humanoid")的伤害翻倍。 |
-| [寒冰箭](Arrow_of_Ice.md "Arrow of Ice") | 普通 | 10 | 1 | 伤害/实用 | 造成武器伤害 + 2d4⁠⁠[寒冷](Cold.md "Cold")[DRS](Damage_rider_as_source.md "Damage rider as source")（可通过[敏捷豁免](Saving_throw.md "Saving Throw")避免）。/ 创造一个[冰](Ice_(surface).md "Ice (surface)")地表，持续2回合，范围：2米（7英尺）半径。 |
+| [寒冰箭](Arrow_of_Ice.md "Arrow of Ice") | 普通 | 10 | 1 | 伤害/实用 | 造成武器伤害 + 2d4⁠⁠[寒冷](Cold.md "Cold")[伤害机制](Damage_rider_as_source.md "伤害机制")（可通过[敏捷豁免](Saving_throw.md "Saving Throw")避免）。/ 创造一个[冰](Ice_(surface).md "Ice (surface)")地表，持续2回合，范围：2米（7英尺）半径。 |
 | [伊尔梅特之箭](Arrow_of_Ilmater.md "Arrow of Ilmater") | 不常见 | 20 | 1 | 伤害/实用 | 造成武器伤害 + 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic")。目标在1回合内无法恢复[生命值](Hit_Points.md "Hit Points")。 |
-| [闪电箭](Arrow_of_Lightning.md "Arrow of Lightning") | 普通 | 10 | 1 | 伤害 | 造成武器伤害 + 2d4⁠⁠[闪电](Lightning.md "Lightning")[DRS](Damage_rider_as_source.md "Damage rider as source")（可通过[敏捷豁免](Saving_throw.md "Saving Throw")避免），范围：2米（7英尺）半径。 |
+| [闪电箭](Arrow_of_Lightning.md "Arrow of Lightning") | 普通 | 10 | 1 | 伤害 | 造成武器伤害 + 2d4⁠⁠[闪电](Lightning.md "Lightning")[伤害机制](Damage_rider_as_source.md "伤害机制")（可通过[敏捷豁免](Saving_throw.md "Saving Throw")避免），范围：2米（7英尺）半径。 |
 | [多靶箭](Arrow_of_Many_Targets.md "Arrow of Many Targets") | 稀有 | 50 | 6 | 伤害 | 造成武器伤害，并对范围内另外三个目标造成该伤害的一半。 |
 | [怪兽必杀箭](Arrow_of_Monstrosity_Slaying.md "Arrow of Monstrosity Slaying") | 不常见 | 20 | 6 | 伤害 | 造成武器伤害，对[怪兽](Monstrosity.md "Monstrosity")的伤害翻倍。 |
 | [轰雷箭](Arrow_of_Roaring_Thunder.md "Arrow of Roaring Thunder") | 不常见 | 20 | 1 | 伤害/实用 | 造成武器伤害。将范围内被爆炸波及的目标击退距离：5米（17英尺）（可通过[力量豁免](Saving_throw.md "Saving Throw")避免），范围：2米（7英尺）半径。 |

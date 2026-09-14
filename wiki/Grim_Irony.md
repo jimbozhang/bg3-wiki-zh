@@ -12,7 +12,7 @@
 
 持续时间：2 驱散
 
-[WIS](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 17）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 17）
 
 - 无法移动或使用[动作](Actions.md#Resources "Actions")、[附赠动作](Actions.md#Resources "Actions")或[反应](Actions.md#Reactions "Actions")，且在[力量](Strength.md "Strength")和[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 - 在 3 米（10 英尺）范围内对倒伏生物进行的[攻击](attack.md "attack")具有[优势](Advantage.md "Advantage")。

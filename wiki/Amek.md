@@ -13,7 +13,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 1 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -29,7 +29,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -45,7 +45,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

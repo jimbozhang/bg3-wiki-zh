@@ -38,7 +38,7 @@
 
 _关于次级地狱惩戒：_
 
-- **次级地狱惩戒**需要一次[DC](Dice_rolls.md#Save_DCs "Dice rolls") 13的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")才能造成伤害。
+- **次级地狱惩戒**需要一次[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 13的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")才能造成伤害。
 - 当装备[奥术热能手套](Thermoarcanic_Gloves.md "奥术热能手套")或拥有[克雷斯卡的火焰擒握](Gripped_by_Kereska's_Flame_(Condition).md "克雷斯卡的火焰擒握")状态时，此效果不会触发[灼热](Heat_(Condition).md "灼热（状态）")。
 
 ## 错误

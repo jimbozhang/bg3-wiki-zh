@@ -16,7 +16,7 @@
 
 - UID `S_MOO_BalthazarRoomKey` UUID `281988ed-4b8e-4b8b-8d16-44b0fe3d48c0` ## 获取地点
 
-- 由[月出之塔](Moonrise_Towers.md "月出之塔")的[Z'rell](Z'rell.md "Z'rell")提供
+- 由[月出之塔](Moonrise_Towers.md "月出之塔")的[泽'瑞尔](Z'rell.md "泽'瑞尔")提供
 
 ## 用途
 

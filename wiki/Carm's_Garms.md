@@ -62,7 +62,7 @@
 卡尔曼出售各种[染料](Dyes.md "染料")和[营地服装](Camp_Clothing.md "营地服装")物品。
 
 - 几种稀有[染料](Dyes.md "染料")
-- [40x](Dye_Remover.md "除色剂")
+- [除色剂](Dye_Remover.md "除色剂")
 
 ## 文献
 

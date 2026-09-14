@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- 位于[焕颜精品店](Facemaker's_Boutique.md "Facemaker's Boutique")的一个架子上\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 位于[焕颜精品店](Facemaker's_Boutique.md "Facemaker's Boutique")的一个架子上\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Opulent Helmet](https://bg3.wiki/wiki/Opulent_Helmet)*

@@ -12,7 +12,7 @@
 
 持续时间：2 驱散
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 14)
 
 - 受影响的生物无法移动或进行[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")，并且在进行[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")时具有[劣势](Disadvantage.md "劣势")。
 - 如果在距离该生物3米（10英尺）范围内进行攻击，则对倒伏生物的攻击具有[优势](Advantage.md "优势")。

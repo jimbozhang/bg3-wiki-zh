@@ -45,7 +45,7 @@
 
 ## 备注
 
-- [不死生物](Undead.md "不死生物")（[僵尸](Zombie.md "僵尸")除外）、[构装生物](Construct.md "构装生物")和[变形怪](Doppelganger.md "变形怪")对催眠图纹免疫。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- [不死生物](Undead.md "不死生物")（[僵尸](Zombie.md "僵尸")除外）、[构装生物](Construct.md "构装生物")和[变形怪](Doppelganger.md "变形怪")对催眠图纹免疫。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - 如果伙伴被玩家角色使用此法术击中，他们在被释放时会获得-10[好感度](Approval.md "好感度")。
 - 施法者及其盟友若在范围内也会被此法术击中。为避免此情况，施法者可使用[超魔：谨慎法术](Metamagic_colon__Careful_Spell.md "超魔：谨慎法术")。
 

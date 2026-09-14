@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `STRANGE GAS` [状态组](Status_groups.md "Status groups"): [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠ID](Stack_ID.md "Stack ID"): `STRANGE GAS` [状态组](Status_groups.md "Status groups"): [SG 状态](SG_Condition.md "SG 状态")
 
 [更多属性](Status_properties.md "Status properties"):
 

@@ -2,7 +2,7 @@
 
 **光荣一跃药水**是一种[消耗品](Consumables.md "消耗品")（[药水](Potions.md "药水")）。它具有有益的实用效果。
 
-[Lupperdiddle Swires](Lupperdiddle_Swires.md "Lupperdiddle Swires")，侏儒冒险家，据称能跳到二十英尺高。他的体型大约相当于一只矮脚母鸡。
+[卢珀迪德尔·斯怀尔斯](Lupperdiddle_Swires.md "卢珀迪德尔·斯怀尔斯")，侏儒冒险家，据称能跳到二十英尺高。他的体型大约相当于一只矮脚母鸡。
 
 ## 属性
 

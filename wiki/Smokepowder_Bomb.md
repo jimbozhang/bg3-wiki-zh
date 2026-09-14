@@ -19,7 +19,7 @@
 - 影响范围：4 m（13 ft）半径
 - 3d4 + 9（12~21）⁠[力场](Force.md "Force")
 
-伤害（[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")减半）
+伤害（[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")减半）
 
 ## 获取途径
 

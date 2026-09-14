@@ -105,7 +105,7 @@
 | [轻弩 +1](Light_Crossbow_+1.md "轻弩 +1") | +1 | 1d8 + 1 | 穿刺 | 2.25 kg / 4.5 lb | 40 |  |
 | [轻锤 +1](Light_Hammer_+1.md "轻锤 +1") | +1 | 1d4 + 1 | 钝击 | 0.9 kg / 1.8 lb | 40 |  |
 | [闪电混语](Lightning_Jabber.md "闪电混语") | +1 | 1d6 + 1 / 1d4 | 穿刺 / 闪电 | 1.35 kg / 2.7 lb | 65 | [电刺](Shocking_Sting.md "电刺")击中时，可能使目标[电击](Shocking_Grasp_(Condition).md "电击")[[见：错误](Shocking_Sting#Bugs.md#Bugs "电刺")]。[投掷：闪电伤害](Throwing_colon__Lightning_Damage.md "投掷：闪电伤害")当投向目标时，造成额外1d4[闪电](Lightning.md "闪电")伤害。 |
-| [劳薇塔的灾祸](Loviatar's_Scourge.md "劳薇塔的灾祸") |  | 1d6 / 1d6 | 钝击 / 黯蚀 | 1.8 kg / 3.6 lb | 370 | [意志之鞭](Willing_Whip.md "意志之鞭")获得对[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外1d6[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害载体作为来源")伤害。 |
+| [劳薇塔的灾祸](Loviatar's_Scourge.md "劳薇塔的灾祸") |  | 1d6 / 1d6 | 钝击 / 黯蚀 | 1.8 kg / 3.6 lb | 370 | [意志之鞭](Willing_Whip.md "意志之鞭")获得对[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括使用者）造成额外1d6[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。 |
 | [硬头锤 +1](Mace_+1.md "硬头锤 +1") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 40 |  |
 | [马友夫初始法杖](Melf's_First_Staff.md "马友夫初始法杖") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 100 | [奥术增强](Arcane_Enchantment_(+1).md "奥术增强 (+1)")你在[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰上获得+1加值。[马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭") 以2环法术施展 ( 重充能：[长休](Long_Rest.md "长休")。) |
 | [凶残切割](Murderous_Cut.md "凶残切割") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")此武器对生命值低于或等于50%的目标造成额外1d4[穿刺](Piercing.md "穿刺")伤害。 |

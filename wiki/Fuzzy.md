@@ -1,6 +1,6 @@
 # 富齐
 
-**富齐**是一种[杂物](Miscellaneous.md#Clutter "杂物")物品，也是[熊标本（褪色）](Stuffed_Bear_(Faded).md) found in the House of Healing alongside its counterpart [Lukasz](Lukasz.md "Lukasz")的独特变体。
+**富齐**是一种[杂物](Miscellaneous.md#Clutter "杂物")物品，也是[熊标本（褪色）](Stuffed_Bear_(Faded).md) found in the House of Healing alongside its counterpart [卢卡什](Lukasz.md "卢卡什")的独特变体。
 
 这只熊——经常被撕裂并修复——似乎只要轻轻一挤，就会碎成发霉的填充物和破旧的拼布。
 

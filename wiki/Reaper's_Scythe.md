@@ -18,7 +18,7 @@
 
 详情
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）
 范围效果：5 米（17 英尺）锥形
 击退：4 米（13 英尺）
 充能：每回合

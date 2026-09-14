@@ -61,7 +61,7 @@
 
 ### 攻击与动作
 
-复仇面具必须在每回合开始时成功通过[DC](DC.md "DC") 17的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将受到[鬼婆的仆从](Hag's_Pawn_(Condition).md) 影响。如果她豁免成功，她将跳过回合而不伤害队伍。
+复仇面具必须在每回合开始时成功通过[骰子掷骰](DC.md "骰子掷骰") 17的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将受到[鬼婆的仆从](Hag's_Pawn_(Condition).md) 影响。如果她豁免成功，她将跳过回合而不伤害队伍。
 
 [摔翻打击](Backbreaker.md "摔翻打击") – [战锤](Warhammer.md "战锤")
 

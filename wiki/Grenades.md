@@ -33,23 +33,23 @@
 
 | 名称 | 范围 / 半径 | 伤害 | 区域或 / 状态 | 可制作 | 其他 |
 | --- | --- | --- | --- | --- | --- |
-| / [ ](Acid_Vial.md "Acid Vial")强酸药瓶 | 2 m / 7 ft | 2d6⁠⁠[强酸](Acid.md "Acid") | [强酸](Acid_(surface).md "Acid (surface)") / [强酸](Acid_(Condition).md "Acid (Condition)") | 否 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 13 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以免除伤害 |
-| / [ ](Alchemist's_Fire.md "Alchemist's Fire")炼金术士之火 | 3 m / 10 ft | - | [火焰](Fire_(surface).md "Fire (surface)")（3回合） / [燃烧](Burning_(Condition).md "Burning (Condition)")（1回合） | 是 | - |
-| / [ ](Caustic_Bulb.md "Caustic Bulb")腐蚀球茎 | 3 m / 10 ft | - | [腐蚀性盐水](Caustic_Brine.md "Caustic Brine") / [腐蚀性盐水](Caustic_Brine_(Condition).md "Caustic Brine (Condition)") | 否 | 由[欧梅卢姆](Omeluum.md "Omeluum")出售。 |
-| / [ ](Flashblinder.md "Flashblinder")闪光弹 | 6 m / 20 ft | - | [目盲](Blinded_(Condition).md "Blinded (Condition)")（10回合） / [故障](Malfunctioning_(Condition).md "Malfunctioning (Condition)")（2回合） | 是 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 16 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")以免除目盲。 / 对[钢铁守卫](Steel_Watcher_(creature).md "Steel Watcher (creature)")或[窥探之眼](Scrying_Eye.md "Scrying Eye")施加故障无需豁免。由[邦普纳格尔](Bumpnagel.md "Bumpnagel")出售。 |
-| / [ ](Fungal_Bamboozler.md "Fungal Bamboozler")真菌迷惑弹 | 2 m / 7 ft | 2d4+1⁠⁠[毒素](Poison.md "Poison") | [提马斯克孢子](Timmask_Spores_(cloud).md "Timmask Spores (cloud)")（3回合） / [迷惑](Befuddled_(Condition).md "Befuddled (Condition)")（1回合） | 是 | 伤害取决于远程法术攻击是否命中，且仅对目标生效。 |
-| / [ ](Grease_Bottle.md "Grease Bottle")油脂瓶 | 3 m / 10 ft | - | [油脂](Grease_(surface).md "Grease (surface)") / [困难地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)") / [倒地](Prone_(Condition).md "Prone (Condition)") | 否 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以免除倒地。 |
-| / [ ](Haste_Spore_Grenade.md "Haste Spore Grenade")急速孢子手雷 | 2 m / 7 ft | – | [急速孢子](Haste_Spores_(cloud).md "Haste Spores (cloud)")（3回合） / [急速孢子](Haste_Spores_(Condition).md "Haste Spores (Condition)")（1回合） | 是 | - |
-| / [ ](Hearthlight_Bomb.md "Hearthlight Bomb")炉光炸弹 | 9 m / 30 ft | - | [舞光术](Dancing_Lights_(area).md "Dancing Lights (area)")（10回合） | 是 | - |
-| / [ ](Holy_Water.md "Holy Water")圣水 | 2 m / 7 ft | 3d6⁠⁠[光耀](Radiant.md "Radiant") | [水](Water_(surface).md "Water (surface)") | 否 | 仅对[邪魔](List_of_creature_types.md "List of Creature Types")和[不死生物](List_of_creature_types.md "List of Creature Types")造成伤害。[DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 13 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害。 |
-| / [ ](Noxious_Spore_Grenade.md "Noxious Spore Grenade")毒气孢子手雷 | 2 m / 7 ft | 2d4+1⁠⁠[毒素](Poison.md "Poison") / 1d4⁠⁠[毒素](Poison.md "Poison")（每回合） / 2d4⁠⁠[毒素](Poison.md "Poison")（每回合） | [毒气](Noxious_Fumes.md "Noxious Fumes")（3回合） / [毒气](Noxious_Fumes_(Bibberbang)_(Condition).md "Noxious Fumes (Bibberbang) (Condition)") | 是 | 初始伤害取决于远程法术攻击是否命中，且仅对目标生效。 / [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 15 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")以将每回合伤害减半为2d4⁠⁠[毒素](Poison.md "Poison")。 |
-| / [ ](Ochre_Jelly_Slime.md "Ochre Jelly Slime")赭冻粘液 | 1 m / 3 ft | 1d4+2⁠⁠[火焰](Fire.md "Fire") | [燃烧](Burning_(Condition).md "Burning (Condition)")（5回合） | 否[[](#cite_note-ingredient-1 "[")1] | - |
-| / [ ](Oil_Flask.md "Oil Flask")油瓶 | 3 m / 10 ft | - | [油](Oil.md "Oil") | 否 | - |
-| / [ ](Sanguine_Explosive.md "Sanguine Explosive")血腥炸弹 | 2 m / 7 ft | 4d8⁠⁠[力场](Force.md "Force") / 4d8⁠⁠[火焰](Fire.md "Fire") | [燃烧](Burning_(Orthonic)_(Condition).md "Burning (Orthonic) (Condition)")（2回合） | 否 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 17 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害并免除燃烧。由[阿拉杰·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")出售。 |
-| / [ ](Smokepowder_Bomb.md "Smokepowder Bomb")烟火粉炸弹 | 4 m / 13 ft | 3d4+9⁠⁠[力场](Force.md "Force") | - | 否 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害 |
-| / [ ](Spiked_Bulb.md "Spiked Bulb")尖刺球茎 | 4 m / 13 ft | 1⁠⁠[穿刺](Piercing.md "Piercing") | [流血](Bleeding_(Condition).md "Bleeding (Condition)")（1回合） | 否 | 由[欧梅卢姆](Omeluum.md "Omeluum")出售。 |
-| / [ ](Void_Bulb.md "Void Bulb")虚空球茎 | 6 m / 20 ft | 1⁠⁠[力场](Force.md "Force") | - | 否 | 将范围内的生物拉向撞击点5 m（17 ft）（[DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 18 [力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving Throw")以免除）。由[欧梅卢姆](Omeluum.md "Omeluum")出售。 |
-| / [ ](Web_Grenade.md "Web Grenade")蛛网手雷 | 3 m / 10 ft | - | [蛛网](Web_(surface).md "Web (surface)")（10回合） | 是 | 由[赫尔希克](Helsik.md "Helsik")出售。 |
+| / [强酸瓶](Acid_Vial.md "强酸瓶")强酸药瓶 | 2 m / 7 ft | 2d6⁠⁠[强酸](Acid.md "Acid") | [强酸](Acid_(surface).md "Acid (surface)") / [强酸](Acid_(Condition).md "Acid (Condition)") | 否 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 13 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以免除伤害 |
+| / [炼金火焰](Alchemist's_Fire.md "炼金火焰")炼金术士之火 | 3 m / 10 ft | - | [火焰](Fire_(surface).md "Fire (surface)")（3回合） / [燃烧](Burning_(Condition).md "Burning (Condition)")（1回合） | 是 | - |
+| / [粘性球茎](Caustic_Bulb.md "粘性球茎")腐蚀球茎 | 3 m / 10 ft | - | [腐蚀性盐水](Caustic_Brine.md "Caustic Brine") / [腐蚀性盐水](Caustic_Brine_(Condition).md "Caustic Brine (Condition)") | 否 | 由[欧梅卢姆](Omeluum.md "Omeluum")出售。 |
+| / [闪光弹](Flashblinder.md "闪光弹")闪光弹 | 6 m / 20 ft | - | [目盲](Blinded_(Condition).md "Blinded (Condition)")（10回合） / [故障](Malfunctioning_(Condition).md "Malfunctioning (Condition)")（2回合） | 是 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 16 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")以免除目盲。 / 对[钢铁守卫](Steel_Watcher_(creature).md "Steel Watcher (creature)")或[窥探之眼](Scrying_Eye.md "Scrying Eye")施加故障无需豁免。由[邦普纳格尔](Bumpnagel.md "Bumpnagel")出售。 |
+| / [真菌迷药](Fungal_Bamboozler.md "真菌迷药")真菌迷惑弹 | 2 m / 7 ft | 2d4+1⁠⁠[毒素](Poison.md "Poison") | [提马斯克孢子](Timmask_Spores_(cloud).md "Timmask Spores (cloud)")（3回合） / [迷惑](Befuddled_(Condition).md "Befuddled (Condition)")（1回合） | 是 | 伤害取决于远程法术攻击是否命中，且仅对目标生效。 |
+| / [油脂瓶](Grease_Bottle.md "油脂瓶")油脂瓶 | 3 m / 10 ft | - | [油脂](Grease_(surface).md "Grease (surface)") / [困难地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)") / [倒地](Prone_(Condition).md "Prone (Condition)") | 否 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以免除倒地。 |
+| / [加速孢子弹](Haste_Spore_Grenade.md "加速孢子弹")急速孢子手雷 | 2 m / 7 ft | – | [急速孢子](Haste_Spores_(cloud).md "Haste Spores (cloud)")（3回合） / [急速孢子](Haste_Spores_(Condition).md "Haste Spores (Condition)")（1回合） | 是 | - |
+| / [炉光炸弹](Hearthlight_Bomb.md "炉光炸弹")炉光炸弹 | 9 m / 30 ft | - | [舞光术](Dancing_Lights_(area).md "Dancing Lights (area)")（10回合） | 是 | - |
+| / [圣水](Holy_Water.md "圣水")圣水 | 2 m / 7 ft | 3d6⁠⁠[光耀](Radiant.md "Radiant") | [水](Water_(surface).md "Water (surface)") | 否 | 仅对[邪魔](List_of_creature_types.md "List of Creature Types")和[不死生物](List_of_creature_types.md "List of Creature Types")造成伤害。[DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 13 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害。 |
+| / [毒素孢子弹](Noxious_Spore_Grenade.md "毒素孢子弹")毒气孢子手雷 | 2 m / 7 ft | 2d4+1⁠⁠[毒素](Poison.md "Poison") / 1d4⁠⁠[毒素](Poison.md "Poison")（每回合） / 2d4⁠⁠[毒素](Poison.md "Poison")（每回合） | [毒气](Noxious_Fumes.md "Noxious Fumes")（3回合） / [毒气](Noxious_Fumes_(Bibberbang)_(Condition).md "Noxious Fumes (Bibberbang) (Condition)") | 是 | 初始伤害取决于远程法术攻击是否命中，且仅对目标生效。 / [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 15 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")以将每回合伤害减半为2d4⁠⁠[毒素](Poison.md "Poison")。 |
+| / [土黄果冻怪粘液](Ochre_Jelly_Slime.md "土黄果冻怪粘液")赭冻粘液 | 1 m / 3 ft | 1d4+2⁠⁠[火焰](Fire.md "Fire") | [燃烧](Burning_(Condition).md "Burning (Condition)")（5回合） | 否[[](#cite_note-ingredient-1 "[")1] | - |
+| / [油瓶](Oil_Flask.md "油瓶")油瓶 | 3 m / 10 ft | - | [油](Oil.md "Oil") | 否 | - |
+| / [猩红炸药](Sanguine_Explosive.md "猩红炸药")血腥炸弹 | 2 m / 7 ft | 4d8⁠⁠[力场](Force.md "Force") / 4d8⁠⁠[火焰](Fire.md "Fire") | [燃烧](Burning_(Orthonic)_(Condition).md "Burning (Orthonic) (Condition)")（2回合） | 否 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 17 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害并免除燃烧。由[阿拉杰·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")出售。 |
+| / [烟粉炸弹](Smokepowder_Bomb.md "烟粉炸弹")烟火粉炸弹 | 4 m / 13 ft | 3d4+9⁠⁠[力场](Force.md "Force") | - | 否 | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害 |
+| / [尖刺球茎](Spiked_Bulb.md "尖刺球茎")尖刺球茎 | 4 m / 13 ft | 1⁠⁠[穿刺](Piercing.md "Piercing") | [流血](Bleeding_(Condition).md "Bleeding (Condition)")（1回合） | 否 | 由[欧梅卢姆](Omeluum.md "Omeluum")出售。 |
+| / [虚空球茎](Void_Bulb.md "虚空球茎")虚空球茎 | 6 m / 20 ft | 1⁠⁠[力场](Force.md "Force") | - | 否 | 将范围内的生物拉向撞击点5 m（17 ft）（[DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 18 [力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving Throw")以免除）。由[欧梅卢姆](Omeluum.md "Omeluum")出售。 |
+| / [蛛网爆弹](Web_Grenade.md "蛛网爆弹")蛛网手雷 | 3 m / 10 ft | - | [蛛网](Web_(surface).md "Web (surface)")（10回合） | 是 | 由[赫尔希克](Helsik.md "Helsik")出售。 |
 
 ### 特殊手雷
 
@@ -59,21 +59,21 @@
 
 | 名称 | 范围 / 半径 | 伤害 | 区域或 / 状态 | 其他 |
 | --- | --- | --- | --- | --- |
-| / [ ](Brilliant_Retort.md "Brilliant Retort")辉煌反击 | 4 m / 13 ft | 3d4+9⁠⁠[力场](Force.md "Force") | [沉默](Silenced_(Condition).md "Silenced (Condition)")（2回合） | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害并免除沉默 |
-| / [ ](Concussion_Grenade.md "Concussion Grenade")震荡手雷 | 2 m / 7 ft | 5d10+18⁠⁠[雷鸣](Thunder.md "Thunder") | - | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 18 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害 |
-| / [ ](Flammable_Slime_Bomb.md "Flammable Slime Bomb")易燃粘液炸弹 | 3 m / 10 ft | 1d4+2⁠⁠[火焰](Fire.md "Fire") | [火焰](Fire_(surface).md "Fire (surface)")（2回合） / [燃烧](Burning_(Condition).md "Burning (Condition)")（5回合） | 与[赭冻粘液](Ochre_Jelly_Slime.md "Ochre Jelly Slime")效果相同 |
-| / [ ](Hag's_Bane.md "Hag's Bane")鬼婆之祸 | - | - | - | 迫使已吞噬孩子的鬼婆立即将其吐出。 |
-| / [ ](Haste_Spore_Flask.md "Haste Spore Flask")急速孢子瓶 | 3 m / 10 ft | - | [急速孢子](Haste_Spores_(cloud).md "Haste Spores (cloud)")（永久） / [急速孢子](Haste_Spores_(Condition).md "Haste Spores (Condition)")（1回合） | - |
-| / [ ](Iron_Flask.md "Iron Flask")铁瓶 | - | - | - | 释放一只对所有附近生物（包括队伍）敌对的[旁观者魔](Spectator.md "Spectator")。 |
-| / [ ](Merregon_Potion.md "Merregon Potion")梅雷贡药水 | 2 m / 7 ft | 2d4+1⁠⁠[毒素](Poison.md "Poison") | [提马斯克孢子](Timmask_Spores_(cloud).md "Timmask Spores (cloud)")（3回合） / [迷惑](Befuddled_(Condition).md "Befuddled (Condition)")（1回合） | 伤害取决于远程法术攻击是否命中，且仅对目标生效。 |
-| / [ ](Orthon_Explosive.md "Orthon Explosive")奥尔松炸弹 | 4 m / 13 ft | 3d6⁠⁠[火焰](Fire.md "Fire") | [炼狱燃烧](Infernal_Burning_(Condition).md "Infernal Burning (Condition)")（3回合） | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 13 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害并免除炼狱燃烧。 |
-| / [ ](Orthonic_Handbomb.md "Orthonic Handbomb")奥尔松手雷 | 2 m / 7 ft | 4d8⁠⁠[力场](Force.md "Force") / 4d8⁠⁠[火焰](Fire.md "Fire") | [燃烧](Burning_(Orthonic)_(Condition).md "Burning (Orthonic) (Condition)")（2回合） | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 17 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害并免除燃烧。 |
-| / [ ](Phase_Optimizer.md "Phase Optimizer")相位优化器 | 4 m / 13 ft | - | [相位优化器激活](Phase_Optimizer_Active_(Condition).md "Phase Optimizer Active (Condition)")（2回合） | 状态仅对[钢铁守卫](Steel_Watcher_(creature).md "Steel Watcher (creature)")生效。 |
-| / [ ](Poisonous_Slime_Bomb.md "Poisonous Slime Bomb")剧毒粘液炸弹 | 3 m / 10 ft | 1d4+1⁠⁠[毒素](Poison.md "Poison") | [毒云](Poison_Cloud.md "Poison Cloud")（10回合） / [中毒](Poisoned_(Condition).md "Poisoned (Condition)")（1回合） | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 11 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")以免除中毒 |
-| / [ ](Reflectoguard.md "Reflectoguard")反射护盾 | 2 m / 7 ft | - | [反射护盾激活](Reflectoguard_Active_(Condition).md "Reflectoguard Active (Condition)")（2回合） | - |
-| / [ ](Scrap_and_Shrapnel_Grenade.md "Scrap and Shrapnel Grenade")废铁弹片手雷 | 4 m / 13 ft | 1⁠⁠[穿刺](Piercing.md "Piercing") | [流血](Bleeding_(Condition).md "Bleeding (Condition)")（1回合） | 与[尖刺球茎](Spiked_Bulb.md "Spiked Bulb")效果相同。 |
-| / [ ](Surprise-Based_Teddy_Bear.md "Surprise-Based Teddy Bear")惊喜泰迪熊 | 4 m / 13 ft | 6d6⁠⁠[火焰](Fire.md "Fire") | - | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 15 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害。 |
-| / [ ](Volo's_Jar_of_Moustache_Wax.md "Volo's Jar of Moustache Wax")沃洛的胡须蜡罐 | 3 m / 10 ft | - | [油脂](Grease_(surface).md "Grease (surface)") / [困难地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)") / [倒地](Prone_(Condition).md "Prone (Condition)") | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以免除倒地。 / 与[油脂瓶](Grease_Bottle.md "Grease Bottle")效果相同 |
+| / [精准报复](Brilliant_Retort.md "精准报复")辉煌反击 | 4 m / 13 ft | 3d4+9⁠⁠[力场](Force.md "Force") | [沉默](Silenced_(Condition).md "Silenced (Condition)")（2回合） | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害并免除沉默 |
+| / [震荡手雷](Concussion_Grenade.md "震荡手雷")震荡手雷 | 2 m / 7 ft | 5d10+18⁠⁠[雷鸣](Thunder.md "Thunder") | - | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 18 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害 |
+| / [易燃粘液炸弹](Flammable_Slime_Bomb.md "易燃粘液炸弹")易燃粘液炸弹 | 3 m / 10 ft | 1d4+2⁠⁠[火焰](Fire.md "Fire") | [火焰](Fire_(surface).md "Fire (surface)")（2回合） / [燃烧](Burning_(Condition).md "Burning (Condition)")（5回合） | 与[赭冻粘液](Ochre_Jelly_Slime.md "Ochre Jelly Slime")效果相同 |
+| / [鬼婆的灾祸](Hag's_Bane.md "鬼婆的灾祸")鬼婆之祸 | - | - | - | 迫使已吞噬孩子的鬼婆立即将其吐出。 |
+| / [加速孢子瓶](Haste_Spore_Flask.md "加速孢子瓶")急速孢子瓶 | 3 m / 10 ft | - | [急速孢子](Haste_Spores_(cloud).md "Haste Spores (cloud)")（永久） / [急速孢子](Haste_Spores_(Condition).md "Haste Spores (Condition)")（1回合） | - |
+| / [铁烧瓶](Iron_Flask.md "铁烧瓶")铁瓶 | - | - | - | 释放一只对所有附近生物（包括队伍）敌对的[旁观者魔](Spectator.md "Spectator")。 |
+| / [军团魔药水](Merregon_Potion.md "军团魔药水")梅雷贡药水 | 2 m / 7 ft | 2d4+1⁠⁠[毒素](Poison.md "Poison") | [提马斯克孢子](Timmask_Spores_(cloud).md "Timmask Spores (cloud)")（3回合） / [迷惑](Befuddled_(Condition).md "Befuddled (Condition)")（1回合） | 伤害取决于远程法术攻击是否命中，且仅对目标生效。 |
+| / [血甲魔炸药](Orthon_Explosive.md "血甲魔炸药")奥尔松炸弹 | 4 m / 13 ft | 3d6⁠⁠[火焰](Fire.md "Fire") | [炼狱燃烧](Infernal_Burning_(Condition).md "Infernal Burning (Condition)")（3回合） | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 13 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害并免除炼狱燃烧。 |
+| / [血甲魔炸弹](Orthonic_Handbomb.md "血甲魔炸弹")奥尔松手雷 | 2 m / 7 ft | 4d8⁠⁠[力场](Force.md "Force") / 4d8⁠⁠[火焰](Fire.md "Fire") | [燃烧](Burning_(Orthonic)_(Condition).md "Burning (Orthonic) (Condition)")（2回合） | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 17 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害并免除燃烧。 |
+| / [相位优化器](Phase_Optimizer.md "相位优化器")相位优化器 | 4 m / 13 ft | - | [相位优化器激活](Phase_Optimizer_Active_(Condition).md "Phase Optimizer Active (Condition)")（2回合） | 状态仅对[钢铁守卫](Steel_Watcher_(creature).md "Steel Watcher (creature)")生效。 |
+| / [毒性粘液炸弹](Poisonous_Slime_Bomb.md "毒性粘液炸弹")剧毒粘液炸弹 | 3 m / 10 ft | 1d4+1⁠⁠[毒素](Poison.md "Poison") | [毒云](Poison_Cloud.md "Poison Cloud")（10回合） / [中毒](Poisoned_(Condition).md "Poisoned (Condition)")（1回合） | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 11 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")以免除中毒 |
+| / [反射庇护](Reflectoguard.md "反射庇护")反射护盾 | 2 m / 7 ft | - | [反射护盾激活](Reflectoguard_Active_(Condition).md "Reflectoguard Active (Condition)")（2回合） | - |
+| / [碎片手榴弹](Scrap_and_Shrapnel_Grenade.md "碎片手榴弹")废铁弹片手雷 | 4 m / 13 ft | 1⁠⁠[穿刺](Piercing.md "Piercing") | [流血](Bleeding_(Condition).md "Bleeding (Condition)")（1回合） | 与[尖刺球茎](Spiked_Bulb.md "Spiked Bulb")效果相同。 |
+| / [意外泰迪熊](Surprise-Based_Teddy_Bear.md "意外泰迪熊")惊喜泰迪熊 | 4 m / 13 ft | 6d6⁠⁠[火焰](Fire.md "Fire") | - | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 15 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半伤害。 |
+| / [瓦罗的胡须蜡罐](Volo's_Jar_of_Moustache_Wax.md "瓦罗的胡须蜡罐")沃洛的胡须蜡罐 | 3 m / 10 ft | - | [油脂](Grease_(surface).md "Grease (surface)") / [困难地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)") / [倒地](Prone_(Condition).md "Prone (Condition)") | [DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以免除倒地。 / 与[油脂瓶](Grease_Bottle.md "Grease Bottle")效果相同 |
 
 ## 炸药包与桶
 
@@ -83,14 +83,14 @@
 
 | 名称 | 范围 / 半径 | 价值 | 类型 | 效果 |
 | --- | --- | --- | --- | --- |
-| / [ ](Firewine_Barrel.md "Firewine Barrel")火酒桶 | 6 m / 20 ft | 5 | 伤害 | 造成4d6⁠⁠[火焰](Fire.md "Fire")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。 |
-| / [ ](Nautiloid_Tank.md "Nautiloid Tank")鹦鹉螺号储罐 | 6 m / 20 ft | 1 | 伤害 | 造成6d6⁠⁠[火焰](Fire.md "Fire")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。 |
-| / [ ](Oil_Barrel.md "Oil Barrel")油桶 | 6 m / 20 ft | 5 | 伤害 | 造成6d6⁠⁠[火焰](Fire.md "Fire")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。 |
-| / [ ](Runepowder_Barrel.md "Runepowder Barrel")符文粉桶 | 18 m / 60 ft | 2500 | 伤害 | 造成10d8+40⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
-| / [ ](Runepowder_Bomb.md "Runepowder Bomb")符文粉炸弹 | 18 m / 60 ft | 2500 | 伤害 | 造成10d8+40⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
-| / [ ](Runepowder_Vial.md "Runepowder Vial")符文粉瓶 | 8 m / 27 ft | 50 | 伤害 | 造成5d4+18⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
-| / [ ](Smokepowder_Barrel.md "Smokepowder Barrel")烟火粉桶 | 6 m / 20 ft | 5 | 伤害 | 造成4d4+18⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
-| / [ ](Smokepowder_Satchel.md "Smokepowder Satchel")烟火粉炸药包 | 4 m / 13 ft | 90 | 伤害 | 造成3d4+9⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
+| / [火酒桶](Firewine_Barrel.md "火酒桶")火酒桶 | 6 m / 20 ft | 5 | 伤害 | 造成4d6⁠⁠[火焰](Fire.md "Fire")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。 |
+| / [鹦鹉螺储液罐](Nautiloid_Tank.md "鹦鹉螺储液罐")鹦鹉螺号储罐 | 6 m / 20 ft | 1 | 伤害 | 造成6d6⁠⁠[火焰](Fire.md "Fire")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。 |
+| / [油桶](Oil_Barrel.md "油桶")油桶 | 6 m / 20 ft | 5 | 伤害 | 造成6d6⁠⁠[火焰](Fire.md "Fire")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。 |
+| / [符文火药桶](Runepowder_Barrel.md "符文火药桶")符文粉桶 | 18 m / 60 ft | 2500 | 伤害 | 造成10d8+40⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
+| / [符文火药炸弹](Runepowder_Bomb.md "符文火药炸弹")符文粉炸弹 | 18 m / 60 ft | 2500 | 伤害 | 造成10d8+40⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
+| / [符文火药瓶](Runepowder_Vial.md "符文火药瓶")符文粉瓶 | 8 m / 27 ft | 50 | 伤害 | 造成5d4+18⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
+| / [烟粉桶](Smokepowder_Barrel.md "烟粉桶")烟火粉桶 | 6 m / 20 ft | 5 | 伤害 | 造成4d4+18⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
+| / [烟粉挎包](Smokepowder_Satchel.md "烟粉挎包")烟火粉炸药包 | 4 m / 13 ft | 90 | 伤害 | 造成3d4+9⁠⁠[力场](Force.md "Force")（[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")以减半）。对物体和环境自动暴击。 |
 
 ## 其他
 

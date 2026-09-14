@@ -21,7 +21,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 对受影响实体的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，且该实体在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[检定](Checks.md "检定")上具有[劣势](Disadvantage.md "劣势")。
 

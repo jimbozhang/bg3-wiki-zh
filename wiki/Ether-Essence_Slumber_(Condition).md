@@ -12,7 +12,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `DRUG_ETHER_CONDITION` [状态组](Status_groups.md "状态组"): [SG_Unconscious](SG_Unconscious.md "SG 昏迷"), [SG_Condition](SG_Condition.md "SG 状态"), [SG_Sleeping](SG_Sleeping.md "SG 沉睡")
+[堆叠ID](Stack_ID.md "堆叠ID"): `DRUG_ETHER_CONDITION` [状态组](Status_groups.md "状态组"): [昏迷 (状态组)](SG_Unconscious.md "昏迷 (状态组)"), [SG 状态](SG_Condition.md "SG 状态"), [SG 睡眠](SG_Sleeping.md "SG 睡眠")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合结束
 

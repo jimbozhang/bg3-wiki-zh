@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `PLANT_GROWTH` [状态组](Status_groups.md "Status groups"): [SG_DifficultTerrain](SG_DifficultTerrain.md "SG DifficultTerrain")
+[堆叠 ID](Stack_ID.md "Stack ID"): `PLANT_GROWTH` [状态组](Status_groups.md "Status groups"): [劣势地形 (状态组)](SG_DifficultTerrain.md "劣势地形 (状态组)")
 
 ## 茂密植被的来源
 

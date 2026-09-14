@@ -94,7 +94,7 @@
 | [防弹术](Protection_from_Missiles.md "防弹术") | [余烬闪避](Cindersnap_Reflexes_(Condition).md "余烬闪避（状态）")上的游戏内提示信息错误地说明目标仅受下一次远程攻击的保护。在法术生效期间，他们将受到所有远程攻击的保护。来自副手[手弩](Hand_Crossbows.md "手弩")的攻击不受防弹术影响。 |
 | [心灵建议：止步](Psionic_Suggestion_colon__Halt.md "心灵建议：止步") | 此法术似乎错误地复制了[命令：匍匐](Command_colon__Grovel.md "命令：匍匐")，而不是[命令：止步](Command_colon__Halt.md "命令：止步")。 |
 | [灼热金属：重新施加伤害](Heat_Metal_colon__Reapply_Damage.md "灼热金属：重新施加伤害") | 由于khn脚本错误，灼热金属：重新施加永远无法导致敌人掉落武器，并且总是施加劣势。 |
-| [庇护术](Sanctuary.md "庇护术") | 受庇护术影响的生物仍然可以被[枯萎术](Blight.md "枯萎术")、[链状闪电](Chain_Lightning.md "链状闪电")和[荆棘之鞭](Thorn_Whip.md "荆棘之鞭") targeting，因为这些法术缺乏IsHarmful法术标志。出于同样的原因，大量[NPC](NPC.md "NPC")动作（例如[尖利岩石](Sharp_Rock.md "尖利岩石")）可以以受庇护术影响的生物为目标。 |
+| [庇护术](Sanctuary.md "庇护术") | 受庇护术影响的生物仍然可以被[枯萎术](Blight.md "枯萎术")、[链状闪电](Chain_Lightning.md "链状闪电")和[荆棘之鞭](Thorn_Whip.md "荆棘之鞭") targeting，因为这些法术缺乏IsHarmful法术标志。出于同样的原因，大量[非玩家角色](NPC.md "非玩家角色")动作（例如[尖利岩石](Sharp_Rock.md "尖利岩石")）可以以受庇护术影响的生物为目标。 |
 | [伪装术](Seeming.md "伪装术") | 如果随机选择雄性吉斯洋基人或雄性矮人，由于编码错误，会导致法术失败。 |
 | [破影利刃](Shadow_Blade.md "破影利刃") | 让任何[雇佣兵](Hireling.md "雇佣兵")施放此法术，然后向其库存添加任何物品，立即召回他们的灵魂，然后再次雇佣他们，会在其库存中创建一个永久的[破影利刃](Shadow_Blade_(weapon).md "破影利刃（武器）")，任何人都可以使用。然后可以再次执行此操作以拥有两把破影利刃并双持它们。即使法术被升阶，永久破影利刃也只使用法术的基础伤害。 |
 | [莎尔神盾](Shar's_Aegis.md "莎尔神盾") | 两种暗夜法官半身甲变体也施加[莎尔信徒惩戒](Sharran_Retribution_(Condition).md "莎尔信徒惩戒（状态）")，并施加2点通用伤害减免，尽管此状态仅在[莎尔的保护](Shar's_Protection.md "莎尔的保护")下的非常稀有变体中列出。只有非常稀有版本施加[黯蚀](Necrotic.md "黯蚀")伤害加成。 |

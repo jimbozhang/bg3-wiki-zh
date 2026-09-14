@@ -7,7 +7,7 @@
 ## 属性
 
 - [笔记](Notes.md "笔记")
-- 作者：[Highcliff](Highcliff.md "Highcliff")
+- 作者：[提及的角色](Highcliff.md "提及的角色")
 - 稀有度：普通
 - **重量**：.05 kg (0.1 lb)
 - 价格：14 gp

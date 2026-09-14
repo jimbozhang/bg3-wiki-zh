@@ -15,7 +15,7 @@
 1d4 + 1⁠[心灵](Psychic.md "Psychic")（每驱散）
 
 详情
-[魅力](Charisma.md "Charisma") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 14）
+[魅力](Charisma.md "Charisma") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 14）
 射程：16 米（53 英尺）
 范围：3 米（10 英尺）半径
 

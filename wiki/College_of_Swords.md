@@ -1,6 +1,6 @@
 # 剑舞学院
 
-**剑舞学院**是[吟游诗人](Bard.md "吟游诗人")的[副职](Bard.md#Level_3 "吟游诗人")之一。这些吟游诗人完全专注于通过结合[额外攻击](Extra_Attack.md "额外攻击")被动、能够使用[诗人激励](Bardic_Inspiration_(resource).md) charges for utility and multi-attacks, and being the only Bard Subclass able to have a [Fighting Style](Fighting_style.md "Fighting Style")来提升自身战斗能力，并且是唯一能够拥有[战斗风格](Fighting_style.md "战斗风格")的吟游诗人副职。
+**剑舞学院**是[吟游诗人](Bard.md "吟游诗人")的[副职](Bard.md#Level_3 "吟游诗人")之一。这些吟游诗人完全专注于通过结合[额外攻击](Extra_Attack.md "额外攻击")被动、能够使用[诗人激励](Bardic_Inspiration_(resource).md) charges for utility and multi-attacks, and being the only Bard Subclass able to have a [战斗风格](Fighting_style.md "战斗风格")来提升自身战斗能力，并且是唯一能够拥有[战斗风格](Fighting_style.md "战斗风格")的吟游诗人副职。
 
 > “
 >

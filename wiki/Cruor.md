@@ -44,7 +44,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 6 / (-2) | 17 / (+3) | 10 / (0) | 11 / (0) | 12 / (+1) | 14 / (+2) |
 
-## Resistances [(info)](Resistances.md "Resistances")
+## Resistances [抗性](Resistances.md "抗性")
 
 - - - - - - ## Conditions
 
@@ -90,7 +90,7 @@ This creature is dead.
 | --- | --- | --- | --- | --- | --- | --- |
 |  | -2 | +3 | 0 | 0 | +1 | +2 |
 
-## Resistances [(info)](Resistances.md "Resistances")
+## Resistances [抗性](Resistances.md "抗性")
 
 - - - - - - ## Conditions
 
@@ -136,7 +136,7 @@ This creature is dead.
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 6 / (-2) | 17 / (+3) | 10 / (0) | 11 / (0) | 12 / (+1) | 14 / (+2) |
 
-## Resistances [(info)](Resistances.md "Resistances")
+## Resistances [抗性](Resistances.md "抗性")
 
 - - - - - - ## Conditions
 
@@ -146,7 +146,7 @@ This creature is dead.
 
 ## Involvement
 
-Cruor was sent to Orin by ⁠[Bhaal](Bhaal.md "Bhaal"), against her wishes. According to a nearby book, Orin grew increasingly frustrated at the imp praising the way she slaughtered her enemies that she decided to end its life to silence it. A butler that is no longer needed, for whatever reason, dies permanently.
+Cruor was sent to Orin by ⁠[巴尔](Bhaal.md "巴尔"), against her wishes. According to a nearby book, Orin grew increasingly frustrated at the imp praising the way she slaughtered her enemies that she decided to end its life to silence it. A butler that is no longer needed, for whatever reason, dies permanently.
 
 ## Related literature
 
@@ -154,7 +154,7 @@ Cruor was sent to Orin by ⁠[Bhaal](Bhaal.md "Bhaal"), against her wishes. Acco
 
 ## Notes
 
-- Cruor may be a reference to ⁠[Cespenar](https://baldursgate.fandom.com/wiki/Cespenar), Bhaal's imp butler from Baldur's Gate 2 who served ⁠[Gorion's Ward](https://forgottenrealms.fandom.com/wiki/Gorion%27s_Ward) in their Pocket Plane as they explored the limits of their divinity inherited from [Bhaal](Bhaal.md "Bhaal"). Some players would find Cespenar's attitude, voice, and lengthy dialogue lines to be annoying.
+- Cruor may be a reference to ⁠[Cespenar](https://baldursgate.fandom.com/wiki/Cespenar), Bhaal's imp butler from Baldur's Gate 2 who served ⁠[Gorion's Ward](https://forgottenrealms.fandom.com/wiki/Gorion%27s_Ward) in their Pocket Plane as they explored the limits of their divinity inherited from [巴尔](Bhaal.md "巴尔"). Some players would find Cespenar's attitude, voice, and lengthy dialogue lines to be annoying.
 
 ---
 *Source: [Cruor](https://bg3.wiki/wiki/Cruor)*

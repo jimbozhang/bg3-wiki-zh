@@ -105,7 +105,7 @@
 ### 战利品
 
 - [吉斯洋基弩](Githyanki_Crossbow.md "吉斯洋基弩")
-- [钥匙（伊雷珂养育间）](Key_(Crèche_Y'llek).md "钥匙（伊雷珂养育间）")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- [钥匙（伊雷珂养育间）](Key_(Crèche_Y'llek).md "钥匙（伊雷珂养育间）")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - [镶钉皮甲](Studded_Leather_Armour.md "镶钉皮甲")
 
 ---

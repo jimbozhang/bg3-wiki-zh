@@ -53,8 +53,8 @@
 
 以下[消耗品](Consumable.md "消耗品")物品可用于造成强酸伤害。对于[箭](Arrows.md "箭")，伤害会附加到攻击者的常规远程武器伤害上。
 
-- [强酸瓶](Acid_Vial.md "强酸瓶")：在区域内造成 2d6⁠⁠强酸伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）以豁免。
-- [酸液箭](Arrow_of_Acid.md "酸液箭")：在区域内造成 +2d4⁠⁠强酸伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）以豁免。
+- [强酸瓶](Acid_Vial.md "强酸瓶")：在区域内造成 2d6⁠⁠强酸伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）以豁免。
+- [酸液箭](Arrow_of_Acid.md "酸液箭")：在区域内造成 +2d4⁠⁠强酸伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）以豁免。
 - [卤水桶](Brine_Barrel.md "卤水桶")：创建[腐蚀性卤水](Caustic_Brine.md "腐蚀性卤水")地表，每回合造成 1d4⁠⁠强酸伤害。
 - [粘性球茎](Caustic_Bulb.md "粘性球茎")：创建[腐蚀性卤水](Caustic_Brine.md "腐蚀性卤水")地表，每回合造成 1d4⁠⁠强酸伤害。
 

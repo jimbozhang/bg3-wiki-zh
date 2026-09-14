@@ -32,7 +32,7 @@
 - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
@@ -44,7 +44,7 @@
 
 此实体造成的攻击额外造成1d6[火焰](Fire.md "火焰")伤害，除非目标处于[濡湿](Wet_(Condition).md)。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 

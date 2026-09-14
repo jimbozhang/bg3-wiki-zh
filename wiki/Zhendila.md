@@ -48,7 +48,7 @@
 
 攻击移出触及范围的敌人。
 
-**历战熟手 真迪拉**是一名 [吉斯洋基人](Githyanki.md "吉斯洋基人") 士兵，可在 [博德之门](Baldur's_Gate.md "博德之门") [下城区](Lower_City.md "下城区") 的 [盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点") 遇到，守卫着 [门主雅拉克](Zyrlak.md "门主雅拉克")。除非成功恐吓 [Ch'r'rai Har'rak](Har'rak.md "Har'rak")，否则他对队伍怀有敌意。
+**历战熟手 真迪拉**是一名 [吉斯洋基人](Githyanki.md "吉斯洋基人") 士兵，可在 [博德之门](Baldur's_Gate.md "博德之门") [下城区](Lower_City.md "下城区") 的 [盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点") 遇到，守卫着 [门主雅拉克](Zyrlak.md "门主雅拉克")。除非成功恐吓 [哈'拉克](Har'rak.md "哈'拉克")，否则他对队伍怀有敌意。
 
 ## 战斗
 

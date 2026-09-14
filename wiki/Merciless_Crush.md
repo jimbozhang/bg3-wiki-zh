@@ -17,7 +17,7 @@
 4d6⁠[挥砍](Slashing.md "挥砍")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）（豁免成功时：目标仍受到一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）（豁免成功时：目标仍受到一半伤害。）
 范围：6 米（20 英尺）
 范围效果：2 米（7 英尺）半径
 
@@ -27,7 +27,7 @@
 
 持续时间：1 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 受影响的生物无法移动或进行[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")，并且在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 对倒伏生物的攻击如果在该生物 3 米（10 英尺）范围内进行，则具有[优势](Advantage.md "优势")。

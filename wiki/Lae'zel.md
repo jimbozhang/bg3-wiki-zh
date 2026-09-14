@@ -40,7 +40,7 @@
 - [军事奇才](Martial_Prodigy.md "军事奇才")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**伊雷珂养育间的莱埃泽尔**是一位[出身角色](Origin_characters.md "出身角色")和可招募的[伙伴](Companion.md "伙伴"), 可被任何性别的角色[浪漫追求](Romance.md "浪漫追求"). 她是一位拥有[士兵](Soldier.md "士兵")背景的[吉斯洋基人](Githyanki.md "吉斯洋基人")[战士](Fighter.md "战士"). 除非作为出身角色游玩，莱埃泽尔首次出现在[鹦鹉螺](Nautiloid.md "鹦鹉螺")的[序幕](Prologue.md "序幕")中，作为临时伙伴，之后可在[Act One](Act_One.md "Act One")的[荒野](Wilderness.md "荒野")被正式招募。
+**伊雷珂养育间的莱埃泽尔**是一位[出身角色](Origin_characters.md "出身角色")和可招募的[伙伴](Companion.md "伙伴"), 可被任何性别的角色[浪漫追求](Romance.md "浪漫追求"). 她是一位拥有[士兵](Soldier.md "士兵")背景的[吉斯洋基人](Githyanki.md "吉斯洋基人")[战士](Fighter.md "战士"). 除非作为出身角色游玩，莱埃泽尔首次出现在[鹦鹉螺](Nautiloid.md "鹦鹉螺")的[序幕](Prologue.md "序幕")中，作为临时伙伴，之后可在[第一幕](Act_One.md "第一幕")的[荒野](Wilderness.md "荒野")被正式招募。
 
 这位凶猛的战士狂热地效忠于巫妖女王[维拉基斯](Vlaakith.md "维拉基斯")，莱埃泽尔将不惜一切代价终结[灵吸怪](Illithid.md "灵吸怪")的恐怖，并向她的女王证明自己的价值。
 

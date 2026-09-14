@@ -11,7 +11,7 @@
 | 先攻 | +3 |
 | 移动速度 | 0 m (0 ft) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - **贪婪藤蔓** 是由法术 [贪婪藤蔓](Grasping_Vine.md "Grasping Vine") 创造的生物。
 

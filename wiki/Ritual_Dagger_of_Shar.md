@@ -17,7 +17,7 @@
 1d4 (1~4) ⁠[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[Daggers](Daggers.md "匕首")
+[匕首](Daggers.md "匕首")
 稀有度：不常见
 附魔：**+ 1**
 单手

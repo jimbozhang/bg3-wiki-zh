@@ -9,7 +9,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_Disease](SG_Disease.md "SG Disease")
+[状态组](Status_groups.md "状态组"): [患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 [更多属性](Status_properties.md "状态属性"):
 

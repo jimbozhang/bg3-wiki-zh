@@ -14,7 +14,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `GASEOUS_FORM` [状态组](Status_groups.md "状态组"): [SG_Polymorph](SG_Polymorph.md "SG Polymorph"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG DropForNonMutingDialog"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
+[堆叠ID](Stack_ID.md "堆叠ID"): `GASEOUS_FORM` [状态组](Status_groups.md "状态组"): [变形状态组 (Polymorphed (status group))](SG_Polymorph.md "变形状态组 (Polymorphed (status group))"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG DropForNonMutingDialog"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
 
 ## 生物：气化形体 (生物)
 

@@ -165,7 +165,7 @@
 | [板条箱头盔](Well_Crated_Helm.md "板条箱头盔") | 1 公斤 2 磅 | 40 | [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 |
 | [暗夜法官头盔](Dark_Justiciar_Helm.md "暗夜法官头盔") | 1 公斤 2 磅 | 115 | [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 [阴影笼罩](Swathed_in_Shadow.md "阴影笼罩")当被阴影[隐匿](Obscured.md "隐匿")时，穿戴者在被攻击时获得+1[豁免检定](Saving_throw.md "豁免检定")加值。[[见：错误](Swathed_in_Shadow#Bugs.md#Bugs "阴影笼罩")] |
 | [斩击头盔](Helmet_of_Smiting.md "斩击头盔") | 1 公斤 2 磅 | 115 | [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 [激励斩](Bolstering_Smite.md "激励斩")当你用你的斩击法术施加一个状态时，你获得等于你[魅力](Charisma.md "魅力")的[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
-| [圣枪头盔](Holy_Lance_Helm.md "圣枪头盔") | 1 公斤 2 磅 | 115 | [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 [惩庸罚劣](Smite_the_Graceless.md "惩庸罚劣")攻击穿戴者但[攻击掷骰](Attack_roll.md "攻击掷骰")未命中的生物必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 14的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则受到1d4⁠⁠[光耀](Radiant.md "光耀")伤害。 |
+| [圣枪头盔](Holy_Lance_Helm.md "圣枪头盔") | 1 公斤 2 磅 | 115 | [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 [惩庸罚劣](Smite_the_Graceless.md "惩庸罚劣")攻击穿戴者但[攻击掷骰](Attack_roll.md "攻击掷骰")未命中的生物必须通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 14的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则受到1d4⁠⁠[光耀](Radiant.md "光耀")伤害。 |
 | [残缺的黯狱头盔](Flawed_Helldusk_Helmet.md "残缺的黯狱头盔") | 1 公斤 2 磅 | 300 | [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 [魔法耐久](Magical_Durability_(+2).md "魔法耐久（+2）")持有者获得+2[豁免检定](Saving_throw.md "豁免检定")加值，对抗法术。 |
 | [钢铁卫士头盔](Steelwatcher_Helmet.md "钢铁卫士头盔") | 1 公斤 2 磅 | 300 | [体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势") [人工视觉](Artificial_Sight.md "人工视觉")穿戴者可以在黑暗中看到12米（40英尺）远，并且不会被[致盲](Blinded_(Condition).md "致盲（状态）")。 |
 | [暗夜法官头盔](Dark_Justiciar_Helmet.md "暗夜法官头盔") | 1 公斤 2 磅 | 1600 | [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 [魔法耐久](Magical_Durability_(+1).md "魔法耐久（+1）")持有者获得+1[豁免检定](Saving_throw.md "豁免检定")加值，对抗法术。[隐蔽重击](Covert_Critical.md "隐蔽重击")当[隐匿](Obscured.md "隐匿")时，攻击时需要掷出的[重击](Critical_Hit.md "重击")数值减少1。此效果可叠加。 |
@@ -187,7 +187,7 @@
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1
 
 [惩庸罚劣](Smite_the_Graceless.md "惩庸罚劣")
-攻击穿戴者但[攻击掷骰](Attack_roll.md "攻击掷骰")未命中的生物必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 14的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则受到1d4⁠⁠[光耀](Radiant.md "光耀")伤害。
+攻击穿戴者但[攻击掷骰](Attack_roll.md "攻击掷骰")未命中的生物必须通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 14的[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则受到1d4⁠⁠[光耀](Radiant.md "光耀")伤害。
 | [残缺的黯狱头盔](Flawed_Helldusk_Helmet.md "残缺的黯狱头盔") | 1 公斤 2 磅 | 300 |
 
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1

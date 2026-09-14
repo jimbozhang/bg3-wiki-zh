@@ -91,27 +91,27 @@
 
 ### 伊雷珂养育间
 
-- [Add'ath](Add'ath.md "Add'ath")
-- [Ahu'u'rag](Ahu'u'rag.md "Ahu'u'rag")
-- [Chy'raagh](Chy'raagh.md "Chy'raagh")
+- [阿达斯](Add'ath.md "阿达斯")
+- [阿胡拉格](Ahu'u'rag.md "阿胡拉格")
+- [奇拉格](Chy'raagh.md "奇拉格")
 - [G'r'ath](G'r'ath.md "G'r'ath")
-- [Helag](Helag.md "Helag")
+- [赫拉格](Helag.md "赫拉格")
 - [Jy'ir](Jy'ir.md "Jy'ir")
-- [Kyrr'a'ath](Kyrr'a'ath.md "Kyrr'a'ath")
-- [Ra'gur](Ra'gur.md "Ra'gur")
-- [Un'n](Un'n.md "Un'n")
-- [Zar'an](Zar'an.md "Zar'an")
+- [基尔拉阿斯](Kyrr'a'ath.md "基尔拉阿斯")
+- [拉古尔](Ra'gur.md "拉古尔")
+- [乌恩](Un'n.md "乌恩")
+- [扎拉恩](Zar'an.md "扎拉恩")
 
 ### 盾牌骑士藏身点（增援）
 
-- [Kharyk](Kharyk.md "Kharyk")
-- [Zeddi'in](Zeddi'in.md "Zeddi'in")
-- [Zerentha](Zerentha.md "Zerentha")
+- [卡里克](Kharyk.md "卡里克")
+- [泽迪因](Zeddi'in.md "泽迪因")
+- [泽伦塔](Zerentha.md "泽伦塔")
 
 ### 山隘
 
-- [Chost](Chost.md "Chost")
-- [Zastri](Zastri.md "Zastri")
+- [乔斯特](Chost.md "乔斯特")
+- [扎斯特里](Zastri.md "扎斯特里")
 
 ### 其他
 

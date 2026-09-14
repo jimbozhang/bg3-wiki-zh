@@ -11,7 +11,7 @@
 1d4 + 1 (2~5) + [力量或敏捷调整值](Damage_Roll.md#Modifiers "伤害掷骰") ⁠[穿刺](Piercing.md "穿刺")
 
 详情
-[Daggers](Daggers.md "Daggers")
+[匕首](Daggers.md "匕首")
 稀有度：不常见
 附魔：**+ 1**
 单手
@@ -68,7 +68,7 @@ _关于地动山摇：_
 
 _关于地动山摇：_
 
-- 游戏内描述称目标需通过[DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")以避免裂地效果。然而，这并不正确，该状态总是会被施加。
+- 游戏内描述称目标需通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")以避免裂地效果。然而，这并不正确，该状态总是会被施加。
 
 ---
 *Source: [Hunter's Dagger](https://bg3.wiki/wiki/Hunter's_Dagger)*

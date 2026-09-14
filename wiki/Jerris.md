@@ -70,7 +70,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 12 / (+1) | 12 / (+1) |
 
-## 抗性 (Resistances) [(info)](Resistances.md "Resistances")
+## 抗性 (Resistances) [抗性](Resistances.md "抗性")
 
 - ## 额外资源 (Additional Resources)
 
@@ -142,7 +142,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +4 | +5 | +1 | 0 | +1 | +1 |
 
-## 抗性 (Resistances) [(info)](Resistances.md "Resistances")
+## 抗性 (Resistances) [抗性](Resistances.md "抗性")
 
 - ## 额外资源 (Additional Resources)
 
@@ -214,7 +214,7 @@
 | --- | --- | --- | --- |
 |  | 1 | 2 | 1 |
 
-## 抗性 (Resistances) [(info)](Resistances.md "Resistances")
+## 抗性 (Resistances) [抗性](Resistances.md "抗性")
 
 - ## 额外资源 (Additional Resources)
 

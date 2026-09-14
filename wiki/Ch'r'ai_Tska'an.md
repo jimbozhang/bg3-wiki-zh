@@ -30,15 +30,15 @@
 - [灵能守御](Psionic_Ward_(passive_feature).md "灵能守御（被动特性）")
 - [斥退魔爆](Repelling_Blast.md "斥退魔爆")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -82,7 +82,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | +1 | +3 | +2 | +2 | +2 | +4 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

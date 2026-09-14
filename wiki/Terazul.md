@@ -36,7 +36,7 @@
 - 在[诺泰尔旅社](Nortale's_Hostel.md "诺泰尔旅社")楼梯顶部的粗糙箱子中
 - 由[文·多尔贡](Vin_Dorgo.md "文·多尔贡")携带，位于[脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼")
 - 在[菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸")一楼的内脏中
-- 在[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")的[Huido](Huido.md "Huido")附近的木箱中，坐标 X: -212 Y: -100
+- 在[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")的[惠度](Huido.md "惠度")附近的木箱中，坐标 X: -212 Y: -100
 
 ## 备注
 

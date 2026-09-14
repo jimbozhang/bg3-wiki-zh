@@ -1,6 +1,6 @@
 # 精美的箱子
 
-The **Elegant Chest** is a [Container](Container.md "Container"). It is of Medium size and has 25 Hit Points.
+The **Elegant Chest** is a [容器](Container.md "容器"). It is of Medium size and has 25 Hit Points.
 **精美的箱子**是一个[容器](Container.md "容器")。它的体型为中级，拥有25点生命值。
 
 An elaborate chest made from strange metals and wood you've never seen before.
@@ -8,7 +8,7 @@ An elaborate chest made from strange metals and wood you've never seen before.
 
 ## Properties
 
-- [Containers](Containers.md "Containers")
+- [容器](Containers.md "容器")
 - Rarity: Common
 - Weight: 10 kg (20 lb)
 - Price: 1 gp

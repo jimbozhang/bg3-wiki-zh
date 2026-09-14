@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 11）
 范围：18 米（60 英尺）
 充能：每回合
 
@@ -21,7 +21,7 @@
 
 持续时间：2 回合
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 11）
 
 - 受影响的生物无法移动。恐慌的生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 

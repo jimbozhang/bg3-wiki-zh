@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `COMPELLED_DUEL` [状态组](Status_groups.md "Status groups"): [SG_Taunted](SG_Taunted.md "SG Taunted")
+[堆叠ID](Stack_ID.md "Stack ID"): `COMPELLED_DUEL` [状态组](Status_groups.md "Status groups"): [SG 被嘲弄](SG_Taunted.md "SG 被嘲弄")
 
 [更多属性](Status_properties.md "Status properties"):
 

@@ -10,10 +10,10 @@
 
 伤害：3~24
 
-3d8⁠[黯蚀](Necrotic.md "Necrotic")（[DC](Dice_rolls.md#Save_DCs "Dice rolls") 15 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")可减半）
+3d8⁠[黯蚀](Necrotic.md "Necrotic")（[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 15 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")可减半）
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 15）（豁免成功时：目标承受一半伤害；不会被推开。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 15）（豁免成功时：目标承受一半伤害；不会被推开。）
 近战：1.5米（5英尺）
 范围效果：5米（17英尺）立方体
 推开距离：8米（27英尺）

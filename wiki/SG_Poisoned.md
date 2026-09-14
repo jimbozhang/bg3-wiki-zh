@@ -90,7 +90,7 @@
 [埃赛尔婶婶的特制酿](Auntie_Ethel's_Special_Brew_(Condition).md "埃赛尔婶婶的特制酿 (状态)")
 |
 
-- 受影响的实体每回合开始时受到 2d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 受影响的实体每回合开始时受到 2d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 [酿制腹鸣酒](Brewed-Up_Bellyglummer_(Condition).md "酿制腹鸣酒 (状态)")
 |
@@ -137,7 +137,7 @@
 \_(状态)[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)")
 |
 
-- 受影响的实体每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。必须通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外 2d4⁠⁠[毒素](Poison.md "毒素") 伤害，豁免成功则受到一半伤害。
+- 受影响的实体每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。必须通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外 2d4⁠⁠[毒素](Poison.md "毒素") 伤害，豁免成功则受到一半伤害。
 
 [油饮](Oily_Sup_(Condition).md "油饮 (状态)")
 |
@@ -148,7 +148,7 @@
 |
 
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
-- 回合结束时，若通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 则状态结束。
+- 回合结束时，若通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 11 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 则状态结束。
 
 [中毒](Poisoned_(Condition).md "中毒 (状态)")
 |
@@ -160,13 +160,13 @@
 
 - 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
-- 回合开始时，进行 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，成功则结束状态。
+- 回合开始时，进行 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，成功则结束状态。
 
 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)")
 |
 
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
-- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)")
 |
@@ -223,7 +223,7 @@
 |
 
 - 那个苹果有点不对劲。
-- 持续时间结束时，进行 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。失败将施加 [发热](Feverish_(Condition).md "发热 (状态)")。
+- 持续时间结束时，进行 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。失败将施加 [发热](Feverish_(Condition).md "发热 (状态)")。
 
 [翼龙毒素](Wyvern_Toxin_(Condition).md "翼龙毒素 (状态)")
 |

@@ -3,9 +3,9 @@
 | | |
 | --- | --- |
 | 配音 | - [Arthur Lee](https://www.imdb.com/name/nm6110544/) |
-| 种族 | [Deity](Deity.md "Deity") |
+| 种族 | [神祇](Deity.md "神祇") |
 
-**米尔寇**，亦称骸骨之主，是[死亡](Deities.md "Deities")之神，也是[Dead Three](Dead_Three.md "Dead Three")的成员。他与死亡领域相关联。米尔寇不能成为玩家角色[牧师](Cleric.md "Cleric")的[神祇](Deity.md "Deity")。
+**米尔寇**，亦称骸骨之主，是[死亡](Deities.md "Deities")之神，也是[死亡三神](Dead_Three.md "死亡三神")的成员。他与死亡领域相关联。米尔寇不能成为玩家角色[牧师](Cleric.md "Cleric")的[神祇](Deity.md "Deity")。
 
 > “
 >
@@ -35,7 +35,7 @@
 ## 相关文献
 
 - [A is for Azuth, and other Gods IX](A_is_for_Azuth,_and_other_Gods_IX.md "A is for Azuth, and other Gods IX")
-- [Death & Divinity: A Godly Guide](Death_&_Divinity_colon__A_Godly_Guide.md "Death & Divinity: A Godly Guide")
+- [死亡与神性：神祇指南](Death_&_Divinity_colon__A_Godly_Guide.md "死亡与神性：神祇指南")
 - [有效的大脑切除术](Efficacious_Brain_Removal.md "Efficacious Brain Removal")
 
 ## 相关角色

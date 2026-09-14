@@ -294,7 +294,7 @@
 1. [↑](#cite_ref-7) 在[莎尔信徒登记册](Sharran_Registry.md "莎尔信徒登记册")和[写有证据的卷轴](Scroll_of_Evidence.md "写有证据的卷轴")中，凯瑟里克被称为[莎尔](Shar.md "莎尔")忠诚的[圣武士](Paladin.md "圣武士")。
 1. [↑](#cite_ref-8) 据推测，出于这个原因，[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")在抢先体验版中的胡须在发布前被移除。
 1. [↑](#cite_ref-9) 在游戏的抢先体验版中，凯瑟里克没有胡须，外观更“精灵化”。在当前的游戏文件中，他通过其条目 `MOO_Ketheric` 中的 `"InheritsFrom": "HalfElves_Male_High_NotMessingAround"` 被标记为半高精灵。该标签从未被游戏开发人员在任何采访或各种讨论的评论中反驳过。
-1. [↑](#cite_ref-10) [墓园日记](Graveyard_Diary.md "墓园日记")，以及凯瑟里克·索姆的日记：第[1](Diary_of_Ketheric_Thorm,_Vol_1.md "凯瑟里克·索姆日记 第1卷")、[2](Diary_of_Ketheric_Thorm,_Vol_2.md "凯瑟里克·索姆日记 第2卷")和[3](Diary_of_Ketheric_Thorm,_Vol_3.md "凯瑟里克·索姆日记 第3卷")卷。
+1. [↑](#cite_ref-10) [墓园日记](Graveyard_Diary.md "墓园日记")，以及凯瑟里克·索姆的日记：第[凯瑟里克·索姆的日记，第一卷](Diary_of_Ketheric_Thorm,_Vol_1.md "凯瑟里克·索姆的日记，第一卷")、[凯瑟里克·索姆的日记，第二卷](Diary_of_Ketheric_Thorm,_Vol_2.md "凯瑟里克·索姆的日记，第二卷")和[凯瑟里克·索姆日记，第三卷](Diary_of_Ketheric_Thorm,_Vol_3.md "凯瑟里克·索姆日记，第三卷")卷。
 1. [↑](#cite_ref-11) [《苏尔托的战争伦理》](Suelto's_Ethics_of_War.md "《苏尔托的战争伦理》")位于凯瑟里克·索姆房间内米尔寇临时神龛附近的地板上。
 1. [↑](#cite_ref-12) [凯瑟里克·索姆日记 第3卷](Diary_of_Ketheric_Thorm,_Vol_3.md "凯瑟里克·索姆日记 第3卷")
 1. [↑](#cite_ref-13) [给凯瑟里克的信](Letter_to_Ketheric.md "给凯瑟里克的信")

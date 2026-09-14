@@ -11,7 +11,7 @@
 
 ## 概述
 
-地表是覆盖地面的某种物质的平坦层，当生物踩上去时会产生独特效果。许多能力和魔法效果可以创造地表，有时可以通过其他元素或物质移除或转换为不同的地表。地表的效果可以通过诸如[Fly](Fly.md "Fly")等能力来避免。
+地表是覆盖地面的某种物质的平坦层，当生物踩上去时会产生独特效果。许多能力和魔法效果可以创造地表，有时可以通过其他元素或物质移除或转换为不同的地表。地表的效果可以通过诸如[飞行](Fly.md "飞行")等能力来避免。
 
 | 地表 | 效果 |
 | --- | --- |
@@ -47,7 +47,7 @@
 | [蛛网术](Web_(surface).md "Web (surface)") | [网缚](Enwebbed_(Condition).md "Enwebbed (Condition)") [劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)") |
 | [翼龙毒素](Wyvern_Poison_(surface).md "Wyvern Poison (surface)") | [翼龙毒素](Wyvern_Toxin_(Condition).md "Wyvern Toxin (Condition)") - 每回合受到1d8⁠⁠[中毒](Poison.md "Poison")伤害。 |
 
-队伍可以将武器[Dip](Dip.md "Dip")到火焰和地狱火地表以获得[蘸取火焰](Dipped_in_Fire_(Condition).md "Dipped in Fire (Condition)")，或蘸取简易毒素地表以获得[蘸取毒素](Dipped_in_Poison_(Condition).md "Dipped in Poison (Condition)")。
+队伍可以将武器[蘸取](Dip.md "蘸取")到火焰和地狱火地表以获得[蘸取火焰](Dipped_in_Fire_(Condition).md "Dipped in Fire (Condition)")，或蘸取简易毒素地表以获得[蘸取毒素](Dipped_in_Poison_(Condition).md "Dipped in Poison (Condition)")。
 
 冰、熔岩和蛛网术地表也会施加[劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)")，使在该地表上移动的消耗加倍。
 
@@ -219,7 +219,7 @@
 
 ## 错误
 
-- 如果生物已经位于地表上，创造新地表不会影响该生物。例如，如果向生物投掷水并施放[艾伐黑触手](Evard's_Black_Tentacles.md "Evard's Black Tentacles")，该生物不会受到触手影响，除非它在其回合移动。这包括血液，这意味着如果对生物使用[酸液箭](Arrow_of_Acid.md "Arrow_of_Acid")，该生物不会获得[强酸](Acid_(Condition).md "Acid (Condition)")状态，因为武器伤害使其先流血，然后才创造强酸地表。[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
+- 如果生物已经位于地表上，创造新地表不会影响该生物。例如，如果向生物投掷水并施放[艾伐黑触手](Evard's_Black_Tentacles.md "Evard's Black Tentacles")，该生物不会受到触手影响，除非它在其回合移动。这包括血液，这意味着如果对生物使用[酸液箭](Arrow_of_Acid.md "Arrow_of_Acid")，该生物不会获得[强酸](Acid_(Condition).md "Acid (Condition)")状态，因为武器伤害使其先流血，然后才创造强酸地表。[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")]
 
 ## 另见
 

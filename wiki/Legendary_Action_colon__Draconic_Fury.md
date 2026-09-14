@@ -18,7 +18,7 @@
 
 持续时间：2 回合
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 17）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 17）
 
 - 每回合受到 1d4⁠⁠[火焰](Fire.md "火焰") 伤害。
 - 可通过 [协助](Help.md "协助") 动作、使用 [治疗药水](Potion_of_Healing.md "治疗药水") 或获得 [濡湿](Wet_(Condition).md "濡湿 (状态)") 移除。

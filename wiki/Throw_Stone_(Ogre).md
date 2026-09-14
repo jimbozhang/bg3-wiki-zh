@@ -23,7 +23,7 @@
 
 ## 如何习得
 
-由以下生物使用：[布锡尔](Buthir.md "Buthir")、[契克](Chock.md "Chock")、[范克](Fank.md "Fank")、[格洛瑞克](Glourik.md "Glourik")、[Gurgon](Gurgon.md "Gurgon")、[米格](Mig.md "Mig") 和 [波尔玛](Polma.md "Polma")
+由以下生物使用：[布锡尔](Buthir.md "Buthir")、[契克](Chock.md "Chock")、[范克](Fank.md "Fank")、[格洛瑞克](Glourik.md "Glourik")、[格根](Gurgon.md "格根")、[米格](Mig.md "Mig") 和 [波尔玛](Polma.md "Polma")
 
 ---
 *Source: [Throw Stone (Ogre)](https://bg3.wiki/wiki/Throw_Stone_(Ogre)*

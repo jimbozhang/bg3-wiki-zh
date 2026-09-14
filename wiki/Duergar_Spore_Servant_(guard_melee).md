@@ -35,7 +35,7 @@
 - [太阳病](Sun_Sickness.md "太阳病")
 - [韧性](Tenacity_(passive_feature).md "韧性（被动特性）")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **灰矮人孢子仆从**是[第一幕](Act_One.md "第一幕")中发现的[生物](List_of_creature_types.md "生物类型列表")。
 

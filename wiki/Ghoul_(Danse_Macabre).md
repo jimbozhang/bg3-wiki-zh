@@ -11,7 +11,7 @@
 | 先攻 | +3 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -27,7 +27,7 @@
 
 它们对 [恶魔精神疯狂](Demonspirit_Madness_(Condition).md "恶魔精神疯狂 (状态)") 免疫。当召唤者装备 [深渊召唤者](Abyss_Beckoners.md "深渊召唤者") 时，这可以防止它们因感知豁免检定失败而陷入 [疯狂](Demonspirit_Madness_(Condition).md "恶魔精神疯狂 (状态)")。它们的爪击攻击有一个固定的豁免 DC 5 来麻痹目标，除非召唤者拥有 [不死奴仆：高等召唤](Undead_Thralls_colon__Better_Summons.md "不死奴仆：高等召唤")，在这种情况下 DC 增加到 8。
 
-这些特定的食尸鬼拥有 **啃咬群** 状态，这使它们无法控制，并拥有 [死亡爆裂](Death_Burst.md "死亡爆裂") 的变体，造成 6d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害，并带有 [DC](Dice_rolls.md#Save_DCs "骰子投掷") 15 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 以减半伤害。这会影响盟友和敌人，并可能与其他食尸鬼引发连锁反应。这没有名称或图标，也不会出现在显著特性下。
+这些特定的食尸鬼拥有 **啃咬群** 状态，这使它们无法控制，并拥有 [死亡爆裂](Death_Burst.md "死亡爆裂") 的变体，造成 6d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害，并带有 [掷骰](Dice_rolls.md#Save_DCs "骰子投掷") 15 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 以减半伤害。这会影响盟友和敌人，并可能与其他食尸鬼引发连锁反应。这没有名称或图标，也不会出现在显著特性下。
 
 ## 参与
 

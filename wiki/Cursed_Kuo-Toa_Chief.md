@@ -38,7 +38,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 
@@ -50,7 +50,7 @@
 
 生命值和力量降低，对黯蚀伤害有抗性，且无法使用法术或武器动作。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 

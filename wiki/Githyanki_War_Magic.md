@@ -18,11 +18,11 @@
 
 由以下生物使用：
 
-- [Far'aag](Far'aag.md "Far'aag")、[For'reth](For'reth.md "For'reth")、[Ghush'ins](Ghush'ins.md "Ghush'ins")、[Jeera](Jeera.md "Jeera")、[Ko'kuu](Ko'kuu.md "Ko'kuu")、[Therezzyn](Therezzyn.md "Therezzyn")、[Tska'an](Tska'an.md "Tska'an")、[Umr'a'ac](Umr'a'ac.md "Umr'a'ac")、[Yy'rul](Yy'rul.md "Yy'rul")、[Zhendila](Zhendila.md "Zhendila")
+- [法'拉格](Far'aag.md "法'拉格")、[福瑞斯](For'reth.md "福瑞斯")、[古什'因斯](Ghush'ins.md "古什'因斯")、[吉拉](Jeera.md "吉拉")、[库库](Ko'kuu.md "库库")、[赛泽恩](Therezzyn.md "赛泽恩")、[茨卡'安](Tska'an.md "茨卡'安")、[乌姆拉克](Umr'a'ac.md "乌姆拉克")、[伊尔鲁](Yy'rul.md "伊尔鲁")、[真迪拉](Zhendila.md "真迪拉")
 
 ## 备注
 
-- 此特性仅适用于吉斯洋基人 [NPC](NPC.md "NPC")。
+- 此特性仅适用于吉斯洋基人 [非玩家角色](NPC.md "非玩家角色")。
 
 ## 简要预览
 

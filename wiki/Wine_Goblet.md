@@ -28,7 +28,7 @@
 
 ## 获取地点
 
-- 在[座狼兽栏](Worg_Pens.md "座狼兽栏")中。 \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 在[座狼兽栏](Worg_Pens.md "座狼兽栏")中。 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - 在整个游戏中作为随机战利品出现。
 
 ## 备注

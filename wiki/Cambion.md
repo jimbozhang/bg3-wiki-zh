@@ -12,7 +12,7 @@
 | 移动速度 | 9 m (30 ft) |
 | 经验值 | 75 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 特性
 
@@ -28,7 +28,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 特性
 
@@ -44,7 +44,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 特性
 
@@ -111,11 +111,11 @@
 
 ## 坎比翁角色
 
-- [Cirrus](Cirrus.md "Cirrus")
-- [Feena](Feena.md "Feena")
+- [西卢斯](Cirrus.md "西卢斯")
+- [菲娜](Feena.md "菲娜")
 - [米佐拉](Mizora.md "米佐拉")
 - [拉斐尔](Raphael.md "拉斐尔")
-- [Zhalk](Zhalk.md "Zhalk")
+- [扎尔克](Zhalk.md "扎尔克")
 
 ## 坎比翁敌人变体
 

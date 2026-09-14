@@ -23,7 +23,7 @@
 ## 备注
 
 - 如果[巴斯](Barth.md "巴斯")在林地外死亡，也可以从他的尸体上搜刮到此物品。
-- 此物品出现在[归还吊坠](Return_the_Locket.md "归还吊坠")任务中；任务完成后，其唯一名义价值是用于[交易](Traders.md "商人")。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 此物品出现在[归还吊坠](Return_the_Locket.md "归还吊坠")任务中；任务完成后，其唯一名义价值是用于[交易](Traders.md "商人")。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Brass Locket](https://bg3.wiki/wiki/Brass_Locket)*

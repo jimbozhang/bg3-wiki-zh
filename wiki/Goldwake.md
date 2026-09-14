@@ -32,7 +32,7 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -40,7 +40,7 @@
 
 获得 +1d4 加值至 [攻击掷骰](Attack_rolls.md "攻击掷骰") 和 [豁免检定](Saving_throws.md "豁免检定")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -48,7 +48,7 @@
 
 获得 +1d4 加值至 [攻击掷骰](Attack_rolls.md "攻击掷骰") 和 [豁免检定](Saving_throws.md "豁免检定")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

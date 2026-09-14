@@ -27,7 +27,7 @@
 
 持续时间：3回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 16）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 使用 [力量](Strength.md "Strength") 的武器攻击仅造成一半伤害。每回合结束时，受影响的生物可以进行一次 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") 以结束此状态。
 
@@ -37,7 +37,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 16）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 受影响的生物无法移动。恐慌的生物在 [属性检定](Ability_Check.md "Ability Check") 和 [攻击掷骰](Attack_roll.md "Attack Roll") 上具有 [劣势](Disadvantage.md "Disadvantage")。
 

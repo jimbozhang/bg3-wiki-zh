@@ -1,6 +1,6 @@
 # 熟食补给表 20
 
-**熟食补给表 20**，也称为 **Supplies_Food_20_Cooked**，是一个非等级化的[Treasure Table](Treasure_Table.md "宝藏表")，包含大型的熟食[营地补给](Camp_supplies.md "营地补给")。
+**熟食补给表 20**，也称为 **Supplies_Food_20_Cooked**，是一个非等级化的[宝藏表](Treasure_Table.md "宝藏表")，包含大型的熟食[营地补给](Camp_supplies.md "营地补给")。
 
 其名称似乎基于这样一个事实：该表的平均补给值可能曾约为20。
 

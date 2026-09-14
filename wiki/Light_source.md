@@ -16,18 +16,18 @@
 
 | 物品 | 发出的光芒 | 重量 | 伤害 | 描述 | 首次出现 |
 | --- | --- | --- | --- | --- | --- |
-| / [ ](Cemetery-Blue_Torch.md "Cemetery-Blue Torch")墓地蓝火把 | 蓝色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第三幕 |
-| / [ ](Drunk-Purple_Torch.md "Drunk-Purple Torch")迷醉紫火把 | 紫色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第三幕 |
-| / [ ](Lantern.md "Lantern")提灯 | 柑橘色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第二幕 |
-| / [ ](Plague-Green_Torch.md "Plague-Green Torch")瘟疫绿火把 | 绿色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第三幕 |
-| / [ ](Torch.md "Torch")火把 | 柑橘色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第一幕 |
+| / [墓地蓝火把](Cemetery-Blue_Torch.md "墓地蓝火把")墓地蓝火把 | 蓝色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第三幕 |
+| / [迷醉紫火把](Drunk-Purple_Torch.md "迷醉紫火把")迷醉紫火把 | 紫色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第三幕 |
+| / [提灯](Lantern.md "提灯")提灯 | 柑橘色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第二幕 |
+| / [瘟疫绿火把](Plague-Green_Torch.md "瘟疫绿火把")瘟疫绿火把 | 绿色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第三幕 |
+| / [火炬](Torch.md "火炬")火把 | 柑橘色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这根粗糙的树枝散发出浓烈的油味。 | 第一幕 |
 
 ### 故事道具
 
 | 物品 | 发出的光芒 | 重量 | 伤害 | 描述 | 首次出现 |
 | --- | --- | --- | --- | --- | --- |
-| / [ ](Moonlantern.md "Moonlantern")月亮提灯 | 白色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 灯笼玻璃的每个框架面都被诡异美丽的月光长矛和长触须刺穿。 | 第二幕 |
-| / [ ](Torch_of_Revocation.md "Torch of Revocation")驱散火炬 | 绿色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这位任何有价值的驱魔人的必备品，燃烧着苍白的火焰，摧毁了需要放逐的麻烦幽魂的锚点。 | 第三幕 |
+| / [月亮提灯](Moonlantern.md "月亮提灯")月亮提灯 | 白色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 灯笼玻璃的每个框架面都被诡异美丽的月光长矛和长触须刺穿。 | 第二幕 |
+| / [驱散火炬](Torch_of_Revocation.md "驱散火炬")驱散火炬 | 绿色 | 0.9 kg 1.8 lb | 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") + [力量调整值](Damage_Roll#Modifiers.md#Modifiers "Damage Roll") / 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic") / 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这位任何有价值的驱魔人的必备品，燃烧着苍白的火焰，摧毁了需要放逐的麻烦幽魂的锚点。 | 第三幕 |
 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic")
 | 1d4⁠⁠[火焰](Fire.md "Fire")（点燃时） | 这位任何有价值的驱魔人的必备品，燃烧着苍白的火焰，摧毁了需要放逐的麻烦幽魂的锚点。 | 第三幕 |
 

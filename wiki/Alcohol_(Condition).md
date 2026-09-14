@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `DRINK` [状态组](Status_groups.md "状态组"): [SG_Drunk](SG_Drunk.md "SG Drunk")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `DRINK` [状态组](Status_groups.md "状态组"): [SG 醉酒](SG_Drunk.md "SG 醉酒")
 
 [更多属性](Status_properties.md "状态属性"):
 

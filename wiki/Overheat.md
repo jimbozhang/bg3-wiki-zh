@@ -15,7 +15,7 @@
 1d10⁠[火焰](Fire.md "火焰")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 范围：自身
 范围效果：2米（7英尺）半径
 
@@ -25,7 +25,7 @@
 
 持续时间：3驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 每驱散受到1d10⁠⁠[火焰](Fire.md "火焰")伤害。
 

@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [4级法术位](Spells.md#Spell_slots "法术位")
 详情
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：18米（60英尺）
 [专注](Concentration.md "专注")
 
@@ -25,7 +25,7 @@
 
 持续时间：10驱散
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 受影响实体将跟随并跟随此法术的施法者并肩作战。
 - 每当它受到伤害时，它可以通过一次成功的感知[豁免检定](Saving_throw.md "豁免检定")来打破施法者对它的控制。

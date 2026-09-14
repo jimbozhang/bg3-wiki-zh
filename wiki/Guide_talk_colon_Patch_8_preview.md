@@ -6,7 +6,7 @@
 
 我真的很想玩跨平台游戏 :( [Omega](https://bg3.wiki/w/index.php?title=User:Omega&action=edit&redlink=1 "User:Omega (页面不存在)") ([讨论](https://bg3.wiki/w/index.php?title=User_talk:Omega&action=edit&redlink=1 "User talk:Omega (页面不存在)")) [14:39, 2025年4月3日 (CEST)](https://bg3.wiki/wiki/Guide_talk:Patch_8_preview#c-Omega-20250403123900-When_is_this_patch_coming?)回复
 
-我希望我们中有人知道！我也等不及了。[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [18:09, 2025年4月3日 (CEST)](https://bg3.wiki/wiki/Guide_talk:Patch_8_preview#c-Taylan-20250403160900-Omega-20250403123900)回复
+我希望我们中有人知道！我也等不及了。[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [18:09, 2025年4月3日 (CEST)](https://bg3.wiki/wiki/Guide_talk:Patch_8_preview#c-Taylan-20250403160900-Omega-20250403123900)回复
 
 ---
 *Source: [Guide talk:Patch 8 preview](https://bg3.wiki/wiki/Guide_talk:Patch_8_preview)*

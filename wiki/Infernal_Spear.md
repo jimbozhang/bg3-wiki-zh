@@ -47,7 +47,7 @@ _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**�
 
 持续时间：2 回合
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 在[攻击掷骰](Attack_roll.md "Attack Roll")和[检定](Checks.md "Checks")上承受[劣势](Disadvantage.md "Disadvantage")。
 
@@ -58,11 +58,11 @@ _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**�
 
 ## 错误
 
-- 游戏中未明确说明，但此短矛在命中时若目标未通过[DC](Dice_rolls.md#Save_DCs "掷骰") 12的[体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，则会[中毒](Poisoned_(Condition).md "中毒（状态）")。此效果的豁免检定未在战斗日志中显示。
+- 游戏中未明确说明，但此短矛在命中时若目标未通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12的[体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，则会[中毒](Poisoned_(Condition).md "中毒（状态）")。此效果的豁免检定未在战斗日志中显示。
 
 _关于地狱武器：_
 
-- [中毒](Poisoned_(Condition).md "中毒（状态）")豁免检定的掷骰结果无论成功或失败均未在战斗日志中显示。由于其[DC](Dice_rolls.md#Save_DCs "掷骰") 12的[体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving throw")较低，可能让人误以为中毒效果完全无效。
+- [中毒](Poisoned_(Condition).md "中毒（状态）")豁免检定的掷骰结果无论成功或失败均未在战斗日志中显示。由于其[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12的[体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving throw")较低，可能让人误以为中毒效果完全无效。
 
 ---
 *Source: [Infernal Spear](https://bg3.wiki/wiki/Infernal_Spear)*

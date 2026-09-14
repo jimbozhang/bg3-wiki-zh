@@ -12,7 +12,7 @@
 
 持续时间：2 驱散
 
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 
 - 受影响实体对所有人[敌对](Hostile.md "敌对")，会漫无目的地游荡，并偶尔在恍惚中[跳过对话](Skip.md "跳过对话")
 

@@ -17,7 +17,7 @@
 
 ## 参与
 
-弗里姆斯可以在[利文顿](Rivington.md "Rivington")的[终焉马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days")找到。他是观众中的一员，位于[Dribbles](Dribbles.md "Dribbles")表演喜剧的舞台附近。
+弗里姆斯可以在[利文顿](Rivington.md "Rivington")的[终焉马戏团](Circus_of_the_Last_Days.md "Circus of the Last Days")找到。他是观众中的一员，位于[德里波斯](Dribbles.md "德里波斯")表演喜剧的舞台附近。
 
 ---
 *Source: [Flimsy](https://bg3.wiki/wiki/Flimsy)*

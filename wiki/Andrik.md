@@ -34,7 +34,7 @@
 - [日照敏感](Sunlight_Hypersensitivity.md "日照敏感")
 - [吸血鬼再生](Vampire_Regeneration.md "吸血鬼再生")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 
@@ -42,7 +42,7 @@
 
 免疫所有伤害
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 
@@ -50,7 +50,7 @@
 
 免疫所有伤害
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 

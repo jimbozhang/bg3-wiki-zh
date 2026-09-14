@@ -18,7 +18,7 @@
 
 ## 参与情况
 
-克里特可以在[利文顿](Rivington.md "利文顿")的[终末马戏团](Circus_of_the_Last_Days.md "终末马戏团")被找到。他是观众中的一员，位于[Dribbles](Dribbles.md "Dribbles")进行喜剧表演的舞台附近。
+克里特可以在[利文顿](Rivington.md "利文顿")的[终末马戏团](Circus_of_the_Last_Days.md "终末马戏团")被找到。他是观众中的一员，位于[德里波斯](Dribbles.md "德里波斯")进行喜剧表演的舞台附近。
 
 ---
 *Source: [Cleet](https://bg3.wiki/wiki/Cleet)*

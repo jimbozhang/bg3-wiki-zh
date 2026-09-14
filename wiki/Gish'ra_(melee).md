@@ -29,7 +29,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [灵能赋权](Psionic_Empowerment.md "灵能赋权")
 
-**吉斯洋基吉斯拉（近战）**是贯穿_[博德之门3](Baldur's_Gate_3.md "博德之门3")_的[职业](Class.md "职业")[吉斯洋基人](Githyanki.md "吉斯洋基人")[NPC](NPC.md "NPC")原型，基于以[敏捷](Dexterity.md "敏捷")为基础的[散打宗](Way_of_the_Open_Hand.md "散打宗")[武僧](Monk.md "武僧")。
+**吉斯洋基吉斯拉（近战）**是贯穿_[博德之门3](Baldur's_Gate_3.md "博德之门3")_的[职业](Class.md "职业")[吉斯洋基人](Githyanki.md "吉斯洋基人")[非玩家角色](NPC.md "非玩家角色")原型，基于以[敏捷](Dexterity.md "敏捷")为基础的[散打宗](Way_of_the_Open_Hand.md "散打宗")[武僧](Monk.md "武僧")。
 
 ## 目录
 

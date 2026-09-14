@@ -118,7 +118,7 @@
 
 - [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
-每回合一次，如果你的武器攻击目标生命值低于其最大值，则造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+每回合一次，如果你的武器攻击目标生命值低于其最大值，则造成额外 1d8⁠⁠[物理](Physical.md "物理")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 - [冲出重围](Escape_the_Horde.md "冲出重围")
 

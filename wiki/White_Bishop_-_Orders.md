@@ -1,6 +1,6 @@
 # 白象 - 命令
 
-据推测是[Raphael](Raphael.md "Raphael")所写的三封信件之一。
+据推测是[拉斐尔](Raphael.md "拉斐尔")所写的三封信件之一。
 
 一张朴素无华的便条。
 
@@ -8,7 +8,7 @@
 
 - [笔记](Notes.md "Notes")
 
-- 作者：[Raphael](Raphael.md "Raphael")
+- 作者：[拉斐尔](Raphael.md "拉斐尔")
 
 - 稀有度：普通
 

@@ -12,9 +12,9 @@
 | 移动速度 | 12 m (40 ft) |
 | 经验值 | 10 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **镶金地狱野猪**是一种独特的[邪魔](List_of_creature_types.md#Fiend "生物类型列表")，由[赫尔希克](Helsik.md "赫尔希克")在[魔鬼的小费](Devil's_Fee.md "魔鬼的小费")中召唤，前提是队伍攻击她。
 

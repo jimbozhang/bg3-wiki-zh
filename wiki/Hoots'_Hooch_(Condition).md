@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `WYR_SHARESSCARESS_POTENTDRINK` [状态组](Status_groups.md "状态组"): [SG_Poisoned](SG_Poisoned.md "SG Poisoned")
+[堆叠ID](Stack_ID.md "堆叠ID"): `WYR_SHARESSCARESS_POTENTDRINK` [状态组](Status_groups.md "状态组"): [中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)")
 
 ## 霍慈的烈酒来源
 

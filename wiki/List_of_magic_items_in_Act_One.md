@@ -166,7 +166,7 @@ X: 262 Y: 542
 | 锯齿矛 | 受折磨的生物可能在体质[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。 | 在折磨者斯派克附近，圣所入口东侧的地面上 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 334 Y: -37 |
 | 夏安迪德 | 每[短休](Short_rest.md "短休")一次，如果你对目标的攻击未命中，你可以将其包裹在[妖火](Faerie_Fire_(Condition).md "妖火（状态）")中2回合。 | 由[明萨拉](Minthara.md "明萨拉")在[第一幕](Act_One.md "第一幕")携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 335 Y: 43 |
 | 跨步之靴 | 当你施放需要[专注](Concentration.md "专注")的法术时，你获得[动量](Momentum_(Condition).md "动量（状态）")1回合。当你专注时，你不会被击倒[倒地](Prone_(Condition).md "倒地（状态）")或被违背意愿地移动。[运动](Athletics.md "运动") +1 | 由[明萨拉](Minthara.md "明萨拉")穿着 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 335 Y: 43 |
-| 劳薇塔的灾祸 | 获得对[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括使用者）额外造成1d6[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源")伤害。 | 由[阿布狄拉克](Abdirak.md "阿布狄拉克")携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: -21 |
+| 劳薇塔的灾祸 | 获得对[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括使用者）额外造成1d6[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。 | 由[阿布狄拉克](Abdirak.md "阿布狄拉克")携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: -21 |
 | 仪式匕首 | 用这把匕首成功攻击后，使用者获得+1d4加值到[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")，直到其下一回合结束。[[见：错误](The_Pain_Maiden's_Blessing#Bugs.md#Bugs "痛苦女神的祝福")] [血祭](Blood_Sacrifice.md "血祭") 痛苦是力量之路。承受1d4[挥砍](Slashing.md "挥砍")伤害以获得+1d4加值到[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")。 | 在[阿布狄拉克](Abdirak.md "阿布狄拉克")附近或由他携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: -26 |
 | 仪式斧 | 有几率对目标施加1d4减值到[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")。如果攻击者生命值仍高于50%，他们自己承受1d6[穿刺](Piercing.md "穿刺")伤害。 | 在[阿布狄拉克](Abdirak.md "阿布狄拉克")旁边的桌子上 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: -26 |
 | 抗毒戒指 | 对[中毒](Poison.md "中毒")伤害的[抗性](Resistance.md "抗性")。 | 在[座狼兽栏](Worg_Pens.md "座狼兽栏")区域前打开的石棺内的骷髅上 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: 14 |
@@ -263,7 +263,7 @@ X: -656 Y: -370
 | 轻语巨剑 | 命中时，如果目标体质[豁免检定](Saving_throw.md "豁免检定")失败（DC 12），则使其[沉默](Silenced_(Condition).md "沉默（状态）")。 | 完成任务[完成大师武器](Finish_the_Masterwork_Weapon.md "完成大师武器")的奖励 | [染疫村落](Blighted_Village.md "染疫村落") X: -477 Y: -378 |
 | 轻语镰刀 | 命中时，如果目标体质[豁免检定](Saving_throw.md "豁免检定")失败（DC 12），则使其[沉默](Silenced_(Condition).md "沉默（状态）")。 | 完成任务[完成大师武器](Finish_the_Masterwork_Weapon.md "完成大师武器")的奖励 | [染疫村落](Blighted_Village.md "染疫村落") X: -477 Y: -378 |
 | 闪电飞靴 | 当穿戴者在战斗中[疾走](Dash.md "疾走")或执行类似动作时，他们获得3点[闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）")。[运动](Athletics.md "运动") +1 | 在风车后面地窖的重箱中 | [染疫村落](Blighted_Village.md "染疫村落") X: -711 Y: -412 |
-| 沉重巨斧 | [巨像切割者](Gargantuan_Cleave.md "巨像切割者") 用尽全力挥舞武器。你可以攻击多个目标，额外造成1d6[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，但会陷入[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡（巨像切割者）（状态）")。（充能：[短休](Short_rest.md "短休")。） | 由[费泽克](Fezzerk.md "费泽克")在[第一幕](Act_One.md "第一幕")的风车前携带 | [染疫村落](Blighted_Village.md "染疫村落") X: 10 Y: 420 |
+| 沉重巨斧 | [巨像切割者](Gargantuan_Cleave.md "巨像切割者") 用尽全力挥舞武器。你可以攻击多个目标，额外造成1d6[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，但会陷入[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡（巨像切割者）（状态）")。（充能：[短休](Short_rest.md "短休")。） | 由[费泽克](Fezzerk.md "费泽克")在[第一幕](Act_One.md "第一幕")的风车前携带 | [染疫村落](Blighted_Village.md "染疫村落") X: 10 Y: 420 |
 | 弯曲的智力头带 | 将穿戴者的[智力](Intelligence.md "智力")值设为17。如果穿戴者的智力值在不装备此物品时更高，则附魔无效。 | 由[开明的朗普](Lump.md "朗普")携带 | [染疫村落](Blighted_Village.md "染疫村落") X: 13 Y: 366 |
 | 迅捷头盔 | 战斗开始时，穿戴者获得[动量](Momentum_(Condition).md "动量（状态）")3回合。 | 在[满是苔藓的箱子](Moss-Covered_Chest.md "满是苔藓的箱子")内 | [染疫村落](Blighted_Village.md "染疫村落") X: 29 Y: 405 |
 | 刺钉头带 | 战斗中，当穿戴者以50%或更低的[生命值](Hit_Points.md "生命值")开始回合时，他们获得[动量](Momentum_(Condition).md "动量（状态）")1回合。 | 在附近有背包的骷髅上 | [低语深地](Whispering_Depths.md "低语深地") X: -495 Y: -365 |
@@ -299,7 +299,7 @@ X: -711 Y: -412
 |
 
 [巨像切割者](Gargantuan_Cleave.md "巨像切割者")
-用尽全力挥舞武器。你可以攻击多个目标，额外造成1d6[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，但会陷入[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡（巨像切割者）（状态）")。（充能：[短休](Short_rest.md "短休")。）
+用尽全力挥舞武器。你可以攻击多个目标，额外造成1d6[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，但会陷入[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡（巨像切割者）（状态）")。（充能：[短休](Short_rest.md "短休")。）
 | 由[费泽克](Fezzerk.md "费泽克")在[第一幕](Act_One.md "第一幕")的风车前携带 | [染疫村落](Blighted_Village.md "染疫村落") |
 X: 10 Y: 420
 [弯曲的智力头带](Warped_Headband_of_Intellect.md "弯曲的智力头带")
@@ -558,8 +558,8 @@ X: -99 Y: 424
 - 你获得[长弓](Longbows.md "长弓")和[短弓](Shortbows.md "短弓")的[熟练项](Proficiency.md "熟练项")。此外，你的远程武器攻击额外造成2点伤害。
 
 | 由[迷踪步](Misty_Step.md "迷踪步")
-Cast as a level 2 spell (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Gilded chest next to the bed behind [波尔玛](Polma.md "Polma") in [Gut](Gut.md "Gut")'s private chambers | [被亵渎的神殿](Defiled_Temple.md "Defiled Temple") |
+Cast as a level 2 spell (Recharge: [休息](Short_rest.md "休息").)
+| Gilded chest next to the bed behind [波尔玛](Polma.md "Polma") in [迦特](Gut.md "迦特")'s private chambers | [被亵渎的神殿](Defiled_Temple.md "Defiled Temple") |
 X: 386 Y: 8
 | Item Name | Item Effect | Where to Find | Location |
 | --- | --- | --- | --- |
@@ -568,55 +568,55 @@ X: 386 Y: 8
 | Mage's Friend | [奥秘](Arcana.md "Arcana") +1 [宗教](Religion.md "Religion") +1 | In a chest at the foot of the bed on the third floor | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -34 Y: -274 |
 | Mystra's Grace | [羽落术](Feather_Fall.md "Feather Fall") Cast as a level 1 spell at will. | In the [平庸宝箱](Chest_of_the_Mundane.md "Chest of the Mundane") on the northern balcony of the tower's third floor, the same level as the arcane turrets | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -36 Y: -265 |
 | Light of Creation | Chance to [灵魂扭曲](Stunned_(Condition).md "Stunned (Condition)") the wielder, unless it is a [构装生物](Construct.md "Construct"). | Carried by [伯纳德](Bernard.md "Bernard") at the top floor | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -38 Y: -284 |
-| Uncovered Mysteries | [侦测思想](Detect_Thoughts.md "Detect Thoughts") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a small gilded chest on the basement floor's mezzanine, right next to the elevator exit | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -48 Y: -282 |
+| Uncovered Mysteries | [侦测思想](Detect_Thoughts.md "Detect Thoughts") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | In a small gilded chest on the basement floor's mezzanine, right next to the elevator exit | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -48 Y: -282 |
 | The Sparkswall | The wearer can't be [电击](Electrocuted_(Condition).md "Electrocuted (Condition)"). [抗性](Resistance.md "Resistance") to [闪电](Lightning.md "Lightning") damage. | In a gilded chest on the upper level of the Arcane Tower's basement | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 163 Y: -432 |
-| Staff of Arcane Blessing | Creatures you [祝福术](Bless.md "Bless") also gain [密斯特拉的祝福](Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md "Mystra's Blessing (Staff of Arcane Blessing) (Condition)") for an additional 1d4 bonus to spell attack rolls.[[See: Bugs](Mystra's_Blessing#Bugs.md#Bugs "Mystra's Blessing")] [祝福术](Bless.md "Bless") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Leaning against a table in the basement | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 164 Y: 432 |
-| Skybreaker | [炽焰斩](Searing_Smite.md "Searing Smite") ( + ) Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a locked heavy chest in front of the entrance | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 28 Y: -295 |
-| Exterminator's Axe | Deals an additional 1d6⁠⁠[火焰](Fire.md "Fire") damage to [Plants](Plant.md "Plant"), [Myconids](Myconid.md "Myconid")[[See: Bugs](Scourge_of_Pests#Bugs.md#Bugs "Scourge of Pests")], and [小型](Small.md "Small") creatures. | Carried by [格克·煤球](Gekh_Coal.md "Gekh Coal") | [破败村落](Decrepit_Village.md "Decrepit Village") X: 14 Y: -196 |
+| Staff of Arcane Blessing | Creatures you [祝福术](Bless.md "Bless") also gain [密斯特拉的祝福](Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md "Mystra's Blessing (Staff of Arcane Blessing) (Condition)") for an additional 1d4 bonus to spell attack rolls.[[See: Bugs](Mystra's_Blessing#Bugs.md#Bugs "Mystra's Blessing")] [祝福术](Bless.md "Bless") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | Leaning against a table in the basement | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 164 Y: 432 |
+| Skybreaker | [炽焰斩](Searing_Smite.md "Searing Smite") ( + ) Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | In a locked heavy chest in front of the entrance | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 28 Y: -295 |
+| Exterminator's Axe | Deals an additional 1d6⁠⁠[火焰](Fire.md "Fire") damage to [植物](Plant.md "植物"), [蕈人](Myconid.md "蕈人")[[See: Bugs](Scourge_of_Pests#Bugs.md#Bugs "Scourge of Pests")], and [小型](Small.md "Small") creatures. | Carried by [格克·煤球](Gekh_Coal.md "Gekh Coal") | [破败村落](Decrepit_Village.md "Decrepit Village") X: 14 Y: -196 |
 | Explorer's Ring | [自然](Nature.md "Nature") +1 [求生](Survival.md "Survival") +1 | On a skeleton on a ledge above the [噼啪砰](Bibberbang.md "Bibberbang") in the [Bibberbang Grotto](Underdark#Bibberbang_Grotto.md#Bibberbang_Grotto "Underdark") section of [恐怖窟窿](Underdark#Dread_Hollow.md#Dread_Hollow "Underdark") | [恐怖窟窿](Dread_Hollow.md "Dread Hollow") X: -12 Y: -50 |
 | Heavy Crossbow +1 |  | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 | Hand Crossbow +1 |  | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
-| Corrosive Flail | [腐蚀打击](Corrosive_Strike.md "Corrosive Strike") Deal additional ⁠[强酸](Acid.md "Acid") damage equal to your [熟练项加值](Proficiency_Bonus.md "Proficiency Bonus"). On a hit, create a pool of acid around the target which reduces [护甲等级](Armour_Class.md "Armour Class") by 2. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
-| Amulet of Restoration | [治愈真言](Healing_Word.md "Healing Word") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) [群体治愈真言](Mass_Healing_Word.md "Mass Healing Word") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
+| Corrosive Flail | [腐蚀打击](Corrosive_Strike.md "Corrosive Strike") Deal additional ⁠[强酸](Acid.md "Acid") damage equal to your [熟练项加值](Proficiency_Bonus.md "Proficiency Bonus"). On a hit, create a pool of acid around the target which reduces [护甲等级](Armour_Class.md "Armour Class") by 2. ( Recharge: [休息](Short_rest.md "休息").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
+| Amulet of Restoration | [治愈真言](Healing_Word.md "Healing Word") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) [群体治愈真言](Mass_Healing_Word.md "Mass Healing Word") Cast as a level 3 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
 | Caustic Band | Your weapon attacks also deal 2⁠⁠[强酸](Acid.md "Acid") damage. | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
-| Gloves of Uninhibited Kushigo | The wearer deals an additional 1d4 damage with [Throw](Throw.md "Throw") Attacks and attacks made with [Improvised Weapons](Improvised_Melee_Weapon.md "Improvised Melee Weapon"). | Reward by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") for saving [巴伦·骨篷](Baelen_Bonecloak.md "Baelen Bonecloak") during [找到蘑菇猎人](Find_the_Mushroom_Picker.md "Find the Mushroom Picker") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
+| Gloves of Uninhibited Kushigo | The wearer deals an additional 1d4 damage with [投掷](Throw.md "投掷") Attacks and attacks made with [即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器"). | Reward by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") for saving [巴伦·骨篷](Baelen_Bonecloak.md "Baelen Bonecloak") during [找到蘑菇猎人](Find_the_Mushroom_Picker.md "Find the Mushroom Picker") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
 | Herbalist's Gloves | If the wearer heals a [中毒](Poisoned_(Condition).md "Poisoned (Condition)") creature, it is no longer poisoned. | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
-| Ring of Jumping | [强化跳跃](Enhance_Leap.md "Enhance Leap") Cast as a level 1 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
-| Melf's First Staff | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC") and [法术攻击](Spell_Attack.md "Spell Attack") rolls. [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
-| The Baneful | This weapon has a +1 bonus to damage and [Attack rolls](Attack_roll.md "Attack roll"). On a hit, possibly [灾祸术](Bane_(Condition).md "Bane (Condition)") your target. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| Ring of Jumping | [强化跳跃](Enhance_Leap.md "Enhance Leap") Cast as a level 1 spell ( Recharge: [休息](Short_rest.md "休息").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
+| Melf's First Staff | You gain a +1 bonus to [掷骰](Spell_save_DC.md "掷骰") and [法术攻击](Spell_Attack.md "Spell Attack") rolls. [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| The Baneful | This weapon has a +1 bonus to damage and [攻击](Attack_roll.md "攻击"). On a hit, possibly [灾祸术](Bane_(Condition).md "Bane (Condition)") your target. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Boots of Genial Striding | The wearer's [移动速度](Movement_speed.md "Movement Speed") is unimpeded by [劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Cinder Shoes | Whenever you [Burn](Burning_(Condition).md "Burning (Condition)") an enemy, you gain 2 turns of [灼热](Heat_(Condition).md "Heat (Condition)"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
-| Circlet of Blasting | [灼热射线](Scorching_Ray.md "Scorching Ray") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
-| Psychic Spark | Shoot an additional dart whenever you cast [魔法飞弹](Magic_Missile.md "Magic Missile"). [魔法飞弹](Magic_Missile.md "Magic Missile") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| Circlet of Blasting | [灼热射线](Scorching_Ray.md "Scorching Ray") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| Psychic Spark | Shoot an additional dart whenever you cast [魔法飞弹](Magic_Missile.md "Magic Missile"). [魔法飞弹](Magic_Missile.md "Magic Missile") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Sunwalker's Gift | The wearer can see in the dark up to 12 m / 40 ft. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | The Lifebringer | When the wearer gains [闪电充能](Lightning_Charges_(Condition).md "Lightning Charges (Condition)"), they also gain 3 [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points"). The temporary hit points disappear if the wearer runs out of Lightning Charges. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Creation's Echo | If the wielder deals ⁠[强酸](Acid.md "Acid"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), ⁠[光耀](Radiant.md "Radiant"), or ⁠[黯蚀](Necrotic.md "Necrotic") damage, it becomes resistant to that damage type for 2 turns. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
 | Boots of Stormy Clamour | When the wearer inflicts a condition upon a hostile creature, they also inflict 2 turns of [残响](Reverberation_(Condition).md "Reverberation (Condition)").[[See: Bugs](Arcane_Echomalefaction#Bugs.md#Bugs "Arcane Echomalefaction")] | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| Pearl of Power Amulet | [珠光复原术](Pearlescent_Restoration.md "Pearlescent Restoration") You can replenish expended [spell slots](Spell_Slot.md "Spell Slot") of your choice up to third level. ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| Ring of Mind-Shielding | You have [优势](Advantage.md "Advantage") on [Saving throws](Saving_throw.md "Saving throw") against [魅惑](Charmed_(Condition).md "Charmed (Condition)"). | Offered by [奥米伦](Omeluum.md "Omeluum") upon completion of the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| Ring of Salving | You restore an additional 2⁠⁠[hit points](Healing.md "Healing") every time you heal another creature. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| The Shadespell Circlet | While the wearer is [obscured](Obscured.md "Obscured") in shadow, their spells gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"), making them more likely to succeed. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| Shadow of Menzoberranzan | [阴影遮蔽](Shrouded_in_Shadow.md "Shrouded in Shadow") Become [隐形](Invisible_(Condition).md "Invisible (Condition)"). ( Recharge: [Short rest](Short_rest.md "Short rest").) | On the ground next to Xargrim the [Pale Corpse](Xargrim.md "Xargrim"), in the secret area unlocked by completing the quest ⁠[击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 52 Y: -70 |
+| Pearl of Power Amulet | [珠光复原术](Pearlescent_Restoration.md "Pearlescent Restoration") You can replenish expended [法术](Spell_Slot.md "法术") of your choice up to third level. ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
+| Ring of Mind-Shielding | You have [优势](Advantage.md "Advantage") on [豁免检定](Saving_throw.md "豁免检定") against [魅惑](Charmed_(Condition).md "Charmed (Condition)"). | Offered by [奥米伦](Omeluum.md "Omeluum") upon completion of the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
+| Ring of Salving | You restore an additional 2⁠⁠[治疗](Healing.md "治疗") every time you heal another creature. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
+| The Shadespell Circlet | While the wearer is [遮蔽](Obscured.md "遮蔽") in shadow, their spells gain a +1 bonus to [掷骰](Spell_save_DC.md "掷骰"), making them more likely to succeed. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
+| Shadow of Menzoberranzan | [阴影遮蔽](Shrouded_in_Shadow.md "Shrouded in Shadow") Become [隐形](Invisible_(Condition).md "Invisible (Condition)"). ( Recharge: [休息](Short_rest.md "休息").) | On the ground next to Xargrim the [夏格林](Xargrim.md "夏格林"), in the secret area unlocked by completing the quest ⁠[击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 52 Y: -70 |
 | Light Crossbow +1 |  | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 55 Y: -93 |
-| Gloves of Hail of Thorns | [荆雹术](Hail_of_Thorns.md "Hail of Thorns") Cast as a level 1 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 55 Y: -93 |
-| Champion's Chain | [暴君之舌](Tyrant_Tongue.md "Tyrant Tongue") Grant an ally a +2 bonus on [威吓](Intimidation.md "Intimidation") [checks](Ability_Check.md "Ability check"). ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [Glut](Glut.md "Glut") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 58 Y: -110 |
-| Envoy's Amulet | [圆环之声](Voice_of_the_Circle.md "Voice of the Circle") Grant an ally a +2 bonus on [游说](Persuasion.md "Persuasion") [checks](Ability_Check.md "Ability check"). ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [Spaw](Spaw.md "Spaw") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 79 Y: -106 |
+| Gloves of Hail of Thorns | [荆雹术](Hail_of_Thorns.md "Hail of Thorns") Cast as a level 1 spell ( Recharge: [休息](Short_rest.md "休息").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 55 Y: -93 |
+| Champion's Chain | [暴君之舌](Tyrant_Tongue.md "Tyrant Tongue") Grant an ally a +2 bonus on [威吓](Intimidation.md "Intimidation") [属性](Ability_Check.md "属性"). ( Recharge: [休息](Long_Rest.md "休息").) | Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [格拉特](Glut.md "格拉特") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 58 Y: -110 |
+| Envoy's Amulet | [圆环之声](Voice_of_the_Circle.md "Voice of the Circle") Grant an ally a +2 bonus on [游说](Persuasion.md "Persuasion") [属性](Ability_Check.md "属性"). ( Recharge: [休息](Long_Rest.md "休息").) | Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [斯伯](Spaw.md "斯伯") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 79 Y: -106 |
 | Boots of Speed | [碰撞鞋跟](Click_Heels.md "Click Heels") Click the heels of your boots to gain speed and freedom of movement. | Worn by [图拉](Thulla.md "Thulla") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 82 Y: -97 |
-| Helmet of Smiting | When you apply a condition with one of your Smite spells, you gain [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points") equal to your [Charisma modifier](Charisma.md "Charisma"). [体质](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1 | Inside a locked gilded chest south-west of the waypoint | [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") X: 163 Y: -248 |
+| Helmet of Smiting | When you apply a condition with one of your Smite spells, you gain [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points") equal to your [魅力](Charisma.md "魅力"). [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "豁免检定") +1 | Inside a locked gilded chest south-west of the waypoint | [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") X: 163 Y: -248 |
 | Luminous Armour | When the wearer deals ⁠[光耀](Radiant.md "Radiant") damage, they cause a [光耀震荡波](Radiant_Shockwave.md "Radiant Shockwave"). | in a locked and trapped opulent chest | [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") X: 176 Y: -247 |
-| Slippery Chain Shirt | When the wearer heals a creature, it automatically [Disengages](Disengage.md "Disengage") and won't trigger [借机攻击](Opportunity_Attack.md "Opportunity Attack"). | in a chest hidden on a cliff above and behind the altar | [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") X: -400 Y: 329 |
+| Slippery Chain Shirt | When the wearer heals a creature, it automatically [撤离](Disengage.md "撤离") and won't trigger [借机攻击](Opportunity_Attack.md "Opportunity Attack"). | in a chest hidden on a cliff above and behind the altar | [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") X: -400 Y: 329 |
 | Sickle of BOOOAL |  | Carried by [热情的普德利普](Pooldripp.md "Pooldripp") or given to the player character by [波尔](BOOOAL.md "BOOOAL") | [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") X: -417 Y: 284 |
-| Mourning Frost | When dealing ⁠[寒冷](Cold.md "Cold") damage, the wielder deals an additional 1⁠⁠[寒冷](Cold.md "Cold"). Dealing Cold damage with a spell possibly inflicts [冻僵](Chilled_(Condition).md "Chilled (Condition)") upon the target. [冷冻射线](Ray_of_Frost.md "Ray of Frost") Cast as a cantrip at will. | Created by combining (a right click option to 'combine' appears once all three are collected and in the same players inventory) the components carried by the three Drow mages competing to discover the Adamantine Forge: [冰晶](Icy_Crystal.md "Icy Crystal") - carried by [被遗忘的菲尔罗](Filro_the_Forgotten.md "Filro the Forgotten") near the Sussur Tree [冰冷的柄](Icy_Helve.md "Icy Helve") - carried by [道恩](Dhourn.md "Dhourn"), west of the [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") [冰冷金属](Icy_Metal.md "Icy Metal") - looted from [Xargrim](Xargrim.md "Xargrim") the Pale Corpse within the [Myconid Colony](Myconid_Colony.md "Myconid Colony"), in the secret area unlocked by completing the quest [击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") at X: 49 Y: -72, by casting [敲击术](Knock.md "Knock"), or by using a skill like [迷踪步](Misty_Step.md "Misty Step") from the right angle | [幽暗地域](Underdark.md "Underdark") |
+| Mourning Frost | When dealing ⁠[寒冷](Cold.md "Cold") damage, the wielder deals an additional 1⁠⁠[寒冷](Cold.md "Cold"). Dealing Cold damage with a spell possibly inflicts [冻僵](Chilled_(Condition).md "Chilled (Condition)") upon the target. [冷冻射线](Ray_of_Frost.md "Ray of Frost") Cast as a cantrip at will. | Created by combining (a right click option to 'combine' appears once all three are collected and in the same players inventory) the components carried by the three Drow mages competing to discover the Adamantine Forge: [冰晶](Icy_Crystal.md "Icy Crystal") - carried by [被遗忘的菲尔罗](Filro_the_Forgotten.md "Filro the Forgotten") near the Sussur Tree [冰冷的柄](Icy_Helve.md "Icy Helve") - carried by [道恩](Dhourn.md "Dhourn"), west of the [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") [冰冷金属](Icy_Metal.md "Icy Metal") - looted from [夏格林](Xargrim.md "夏格林") the Pale Corpse within the [黑檀湖洞穴](Myconid_Colony.md "黑檀湖洞穴"), in the secret area unlocked by completing the quest [击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") at X: 49 Y: -72, by casting [敲击术](Knock.md "Knock"), or by using a skill like [迷踪步](Misty_Step.md "Misty Step") from the right angle | [幽暗地域](Underdark.md "Underdark") |
 | Bloodguzzler Garb | When an enemy damages the wearer, the wearer gains [怒火](Wrath_(Condition).md "Wrath (Condition)") for 2 turns. | in the [鲨蜥兽](Bulette.md "Bulette") | [幽暗地域](Underdark.md "Underdark") |
-| Winter's Clutches | When the wearer deals ⁠[寒冷](Cold.md "Cold") damage, inflict 2 turns of [冷冻](Encrusted_with_Frost_(Condition).md "Encrusted with Frost (Condition)") upon the target(s). | Given by [Glut](Glut.md "Glut") for completing [为格拉特的族人报仇](Avenge_Glut's_Circle.md "Avenge Glut's Circle") | [幽暗地域](Underdark.md "Underdark") |
-| The Spectator Eyes | [恐惧射线](Ray_of_Fear.md "Ray of Fear") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) [致伤射线](Wounding_Ray.md "Wounding Ray") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Worn by the [观察者眼魔](Spectator.md "Spectator") located in the [Petrified Battlefield](Underdark#Petrified_Battlefield.md#Petrified_Battlefield "Underdark") | [幽暗地域](Underdark.md "Underdark") X: 112 Y: -249 |
-| Phalar Aluve | [表演](Performance.md "Performance") +1 [Phalar Aluve: Melody](Phalar_Aluve_colon__Melody.md "Phalar Aluve: Melody") The sword hums in anticipation, ready to [Sing](Phalar_Aluve_colon__Sing.md "Phalar Aluve: Sing") or [Shriek](Phalar_Aluve_colon__Shriek.md "Phalar Aluve: Shriek") (see bugs on their respective pages). ( Recharge: [Short rest](Short_rest.md "Short rest").) | Embedded inside a rock | [幽暗地域](Underdark.md "Underdark") X: 116 Y: -192 |
-| The Blast Pendant | [闪电释能](Lightning_Blast.md "Lightning Blast") Focus the electricity in your veins to strengthen your next spell or [cantrip](Cantrip.md "Cantrip"). ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Worn by [道恩](Dhourn.md "Dhourn"), a petrified drow west of the [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") | [幽暗地域](Underdark.md "Underdark") X: 121 Y: -245 |
-| Amulet of the Unworthy | [抗性](Resistance.md "Resistance") to ⁠[挥砍](Slashing.md "Slashing") damage [Vulnerability](Vulnerability.md "Vulnerability") to ⁠[钝击](Bludgeoning.md "Bludgeoning") damage | Carried by a [牛头人](Minotaur.md "Minotaur") wandering around | [幽暗地域](Underdark.md "Underdark") X: 160 Y: -147 |
+| Winter's Clutches | When the wearer deals ⁠[寒冷](Cold.md "Cold") damage, inflict 2 turns of [冷冻](Encrusted_with_Frost_(Condition).md "Encrusted with Frost (Condition)") upon the target(s). | Given by [格拉特](Glut.md "格拉特") for completing [为格拉特的族人报仇](Avenge_Glut's_Circle.md "Avenge Glut's Circle") | [幽暗地域](Underdark.md "Underdark") |
+| The Spectator Eyes | [恐惧射线](Ray_of_Fear.md "Ray of Fear") Cast as a level 3 spell ( Recharge: [休息](Long_Rest.md "休息").) [致伤射线](Wounding_Ray.md "Wounding Ray") Cast as a level 3 spell ( Recharge: [休息](Long_Rest.md "休息").) | Worn by the [观察者眼魔](Spectator.md "Spectator") located in the [Petrified Battlefield](Underdark#Petrified_Battlefield.md#Petrified_Battlefield "Underdark") | [幽暗地域](Underdark.md "Underdark") X: 112 Y: -249 |
+| Phalar Aluve | [表演](Performance.md "Performance") +1 [生离死别：旋律](Phalar_Aluve_colon__Melody.md "生离死别：旋律") The sword hums in anticipation, ready to [生离死别：吟唱](Phalar_Aluve_colon__Sing.md "生离死别：吟唱") or [生离死别：尖叫](Phalar_Aluve_colon__Shriek.md "生离死别：尖叫") (see bugs on their respective pages). ( Recharge: [休息](Short_rest.md "休息").) | Embedded inside a rock | [幽暗地域](Underdark.md "Underdark") X: 116 Y: -192 |
+| The Blast Pendant | [闪电释能](Lightning_Blast.md "Lightning Blast") Focus the electricity in your veins to strengthen your next spell or [戏法列表](Cantrip.md "戏法列表"). ( Recharge: [休息](Long_Rest.md "休息").) | Worn by [道恩](Dhourn.md "Dhourn"), a petrified drow west of the [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") | [幽暗地域](Underdark.md "Underdark") X: 121 Y: -245 |
+| Amulet of the Unworthy | [抗性](Resistance.md "Resistance") to ⁠[挥砍](Slashing.md "Slashing") damage [抗性](Vulnerability.md "抗性") to ⁠[钝击](Bludgeoning.md "Bludgeoning") damage | Carried by a [牛头人](Minotaur.md "Minotaur") wandering around | [幽暗地域](Underdark.md "Underdark") X: 160 Y: -147 |
 | Drow Studded Leather Armour | [隐匿](Stealth.md "Stealth") +1 | In a heavy chest at a Lolth's Cultist's cache near the entrance of [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") | [幽暗地域](Underdark.md "Underdark") X: 71 Y: -220 |
 | Drow Studded Leather Armour | [隐匿](Stealth.md "Stealth") +1 | In a heavy chest at a Lolth's Cultist's cache near the entrance of [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") | [幽暗地域](Underdark.md "Underdark") X: 71 Y: -220 |
-| Shortsword of First Blood | Deals an additional 1d8⁠⁠[穿刺](Piercing.md "Piercing") to targets that still have all their [hit points](Hit_Points.md "Hit Points"). | On the corpse of an executed [地底侏儒](Deep_Gnome.md "Deep Gnome"), at the entrance of the [破败村落](Decrepit_Village.md "Decrepit Village"), if approaching from the Myconid Colony | [幽暗地域](Underdark.md "Underdark") X: 73 Y: -187 |
-| Helmet of Autonomy | [熟练项](Proficiency.md "Proficiency") in [感知](Wisdom.md "Wisdom") [Saving throws](Saving_throw.md "Saving throw") | On a skeleton at the entrance to [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") | [幽暗地域](Underdark.md "Underdark") X: 82 Y: -241 |
+| Shortsword of First Blood | Deals an additional 1d8⁠⁠[穿刺](Piercing.md "Piercing") to targets that still have all their [生命值](Hit_Points.md "生命值"). | On the corpse of an executed [地底侏儒](Deep_Gnome.md "Deep Gnome"), at the entrance of the [破败村落](Decrepit_Village.md "Decrepit Village"), if approaching from the Myconid Colony | [幽暗地域](Underdark.md "Underdark") X: 73 Y: -187 |
+| Helmet of Autonomy | [熟练项](Proficiency.md "Proficiency") in [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "豁免检定") | On a skeleton at the entrance to [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") | [幽暗地域](Underdark.md "Underdark") X: 82 Y: -241 |
 
 ## 幽暗地域
 
@@ -657,7 +657,7 @@ X: -38 Y: -284
 |
 
 [侦测思想](Detect_Thoughts.md "Detect Thoughts")
-Cast as a level 2 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 2 spell (Recharge: [休息](Long_Rest.md "休息").)
 | In a small gilded chest on the basement floor's mezzanine, right next to the elevator exit | [奥法高塔](Arcane_Tower.md "Arcane Tower") |
 X: -48 Y: -282
 [火花壁垒](The_Sparkswall.md "The Sparkswall")
@@ -672,23 +672,23 @@ X: 163 Y: -432
 [奥术祝福法杖](Staff_of_Arcane_Blessing.md "Staff of Arcane Blessing")
 |
 
-- Creatures you [祝福术](Bless.md "Bless") also gain [密斯特拉的祝福](Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md) for an additional 1d4 bonus to spell attack rolls._\[[See: Bugs](Mystra's_Blessing.md#Bugs "Mystra's Blessing")\]_
+- Creatures you [祝福术](Bless.md "Bless") also gain [密斯特拉的祝福](Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md) for an additional 1d4 bonus to spell attack rolls._\[密斯特拉的祝福](Mystra's_Blessing.md#Bugs "Mystra's Blessing")\]_
 
 [祝福术](Bless.md "Bless")
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 1 spell (Recharge: [休息](Long_Rest.md "休息").)
 | Leaning against a table in the basement | [奥法高塔](Arcane_Tower.md "Arcane Tower") |
 X: 164 Y: 432
 [铁匠的愤怒](Skybreaker.md "Skybreaker")
 |
 
 [炽焰斩](Searing_Smite.md "Searing Smite") (+ )
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 1 spell (Recharge: [休息](Long_Rest.md "休息").)
 | In a locked heavy chest in front of the entrance | [奥法高塔](Arcane_Tower.md "Arcane Tower") |
 X: 28 Y: -295
 [剿灭者之斧](Exterminator's_Axe.md "Exterminator's Axe")
 |
 
-- Deals an additional 1d6⁠⁠[火焰](Fire.md "Fire") damage to [Plants](Plant.md "Plant"), [Myconids](Myconid.md "Myconid") _\[[See: Bugs](Scourge_of_Pests.md#Bugs "Scourge of Pests")\]_, and [小型](Small.md "Small") creatures.
+- Deals an additional 1d6⁠⁠[火焰](Fire.md "Fire") damage to [植物](Plant.md "植物"), [蕈人](Myconid.md "蕈人") _\[[See: Bugs](Scourge_of_Pests.md#Bugs "Scourge of Pests")\]_, and [小型](Small.md "Small") creatures.
 
 | Carried by [格克·煤球](Gekh_Coal.md "Gekh Coal") | [破败村落](Decrepit_Village.md "Decrepit Village") |
 X: 14 Y: -196
@@ -698,53 +698,53 @@ X: 14 Y: -196
 - [自然](Nature.md "Nature") +1
 - [求生](Survival.md "Survival") +1
 
-| On a skeleton on a ledge above the [噼啪砰](Bibberbang.md "Bibberbang") in the [Bibberbang Grotto](Underdark.md#Bibberbang_Grotto "Underdark") section of [恐怖窟窿](Underdark.md#Dread_Hollow "Underdark") | [恐怖窟窿](Dread_Hollow.md "Dread Hollow") |
+| On a skeleton on a ledge above the [噼啪砰](Bibberbang.md "Bibberbang") in the [幽暗地域](Underdark.md#Bibberbang_Grotto "Underdark") section of [恐怖窟窿](Underdark.md#Dread_Hollow "Underdark") | [恐怖窟窿](Dread_Hollow.md "Dread Hollow") |
 X: -12 Y: -50
 | Item Name | Item Effect | Where to Find | Location |
 | --- | --- | --- | --- |
-| Amulet of Misty Step | [迷踪步](Misty_Step.md "Misty Step") Cast as a level 2 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Gilded chest next to the bed behind [波尔玛](Polma.md "Polma") in [Gut](Gut.md "Gut")'s private chambers | [被亵渎的神殿](Defiled_Temple.md "Defiled Temple") X: 386 Y: 8 |
+| Amulet of Misty Step | [迷踪步](Misty_Step.md "Misty Step") Cast as a level 2 spell ( Recharge: [休息](Short_rest.md "休息").) | Gilded chest next to the bed behind [波尔玛](Polma.md "Polma") in [迦特](Gut.md "迦特")'s private chambers | [被亵渎的神殿](Defiled_Temple.md "Defiled Temple") X: 386 Y: 8 |
 | Hand Crossbow +1 |  | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") |
-| Spidersilk Armour | Gain a +1 bonus to [Stealth Checks](Stealth.md "Stealth"). [优势](Advantage.md "Advantage") on [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") | Worn by [明萨拉](Minthara.md "Minthara") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") |
-| The Watersparkers | When the wearer stands in [Water](Water_(surface).md "Water (surface)") during combat, it becomes [带电的水](Electrified_Water.md "Electrified Water"). If the wearer starts their turn on an [带电的水](Electrified_Water.md "Electrified Water") surface, they gain 3 [闪电充能](Lightning_Charges_(Condition).md "Lightning Charges (Condition)"). | In a gilded chest in [Minthara's](Minthara.md "Minthara") area of the [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 339 Y: 41 | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") |
+| Spidersilk Armour | Gain a +1 bonus to [隐匿](Stealth.md "隐匿"). [优势](Advantage.md "Advantage") on [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") | Worn by [明萨拉](Minthara.md "Minthara") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") |
+| The Watersparkers | When the wearer stands in [Water](Water_(surface).md "Water (surface)") during combat, it becomes [带电的水](Electrified_Water.md "Electrified Water"). If the wearer starts their turn on an [带电的水](Electrified_Water.md "Electrified Water") surface, they gain 3 [闪电充能](Lightning_Charges_(Condition).md "Lightning Charges (Condition)"). | In a gilded chest in [明萨拉](Minthara.md "明萨拉") area of the [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 339 Y: 41 | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") |
 | Heavy Crossbow +1 |  | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
 | Monster Slayer Glaive | This weapon deals an additional 1d4 damage against [怪兽](Monstrosity.md "Monstrosity") type foes. [跳跃](Jump.md "Jump") distance is increased by 1.5 m (5 ft). | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow"), to the left beyond the sanctum entrance | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
-| Bow of Awareness | You gain a +1 bonus to [Initiative rolls](Initiative.md "Initiative"). | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
+| Bow of Awareness | You gain a +1 bonus to [先攻](Initiative.md "先攻"). | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
 | Hunter's Dagger | On a hit, the target becomes [裂地](Ruptured_(Condition).md "Ruptured (Condition)") for 3 turns. | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow"), to the left beyond the sanctum entrance | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
-| Blooded Greataxe | When the wielder has 50% [hit points](Hit_Points.md "Hit points") or less, they deal an additional 1d4⁠⁠[挥砍](Slashing.md "Slashing") damage. | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
+| Blooded Greataxe | When the wielder has 50% [生命值](Hit_Points.md "生命值") or less, they deal an additional 1d4⁠⁠[挥砍](Slashing.md "Slashing") damage. | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
 | Gold Wyrmling Staff | [火焰箭](Fire_Bolt.md "Fire Bolt") Cast as a cantrip at will. | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow"), to the left beyond the sanctum entrance | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
-| Amulet of Selûne's Chosen | [塞伦涅的梦境](Selûne's_Dream.md "Selûne's Dream") Cast as a cantrip ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In [Dror Ragzlin's](Dror_Ragzlin.md "Dror Ragzlin") treasure pile | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 296 Y: 71 |
-| Springstep Boots | When the wearer [Dashes](Dash.md "Dash") or takes a similar action during combat, they gain [亢奋](Momentum_(Condition).md "Momentum (Condition)") for 3 turns. | in the treasure room behind [Dror Ragzlin's](Dror_Ragzlin.md "Dror Ragzlin") throne | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 296 Y: 71 |
-| Faithbreaker | [至上力量](Absolute_Power.md "Absolute Power") A surge of Divine energy accompanies your swing. It deals an additional 1d6[力场](Force.md "Force") damage and possibly pushes your target back 5 m / 17 ft. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [德罗尔·拉格兹林](Dror_Ragzlin.md "Dror Ragzlin") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 297 Y: 40 |
-| Absolute's Talisman | If the wearer bears the [Absolute's Brand](Brand_of_the_Absolute.md "Brand of the Absolute"), they have [优势](Advantage.md "Advantage") on [Death Saving Throws](Death_Saving_Throw.md "Death Saving Throw"). [至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "Absolute's Talisman: Aid") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Worn by [女祭司迦特](Gut.md "Gut") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 298 Y: -16 |
-| Absolute's Warboard | If the wielder bears the [Absolute's Brand](Brand_of_the_Absolute.md "Brand of the Absolute"), they gain a +1 bonus to [Saving throws](Saving_throw.md "Saving throw"). [英雄气概](Heroism.md "Heroism") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by [True Soul Gut](Gut.md "Gut") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 298 Y: -16 |
-| Gloves of the Growling Underdog | The wearer gains [优势](Advantage.md "Advantage") on melee [攻击掷骰](Attack_roll.md "Attack Roll") while surrounded by 2 or more foes. [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw") +1 | In [Dror Ragzlin's](Dror_Ragzlin.md "Dror Ragzlin") treasure crates behind the locked iron gate | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 298 Y: 66 |
+| Amulet of Selûne's Chosen | [塞伦涅的梦境](Selûne's_Dream.md "Selûne's Dream") Cast as a cantrip ( Recharge: [休息](Long_Rest.md "休息").) | In [德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林") treasure pile | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 296 Y: 71 |
+| Springstep Boots | When the wearer [疾走](Dash.md "疾走") or takes a similar action during combat, they gain [亢奋](Momentum_(Condition).md "Momentum (Condition)") for 3 turns. | in the treasure room behind [德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林") throne | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 296 Y: 71 |
+| Faithbreaker | [至上力量](Absolute_Power.md "Absolute Power") A surge of Divine energy accompanies your swing. It deals an additional 1d6[力场](Force.md "Force") damage and possibly pushes your target back 5 m / 17 ft. ( Recharge: [休息](Short_rest.md "休息").) | Carried by [德罗尔·拉格兹林](Dror_Ragzlin.md "Dror Ragzlin") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 297 Y: 40 |
+| Absolute's Talisman | If the wearer bears the [Absolute's Brand](Brand_of_the_Absolute.md "Brand of the Absolute"), they have [优势](Advantage.md "Advantage") on [死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定"). [至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "Absolute's Talisman: Aid") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | Worn by [女祭司迦特](Gut.md "Gut") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 298 Y: -16 |
+| Absolute's Warboard | If the wielder bears the [Absolute's Brand](Brand_of_the_Absolute.md "Brand of the Absolute"), they gain a +1 bonus to [豁免检定](Saving_throw.md "豁免检定"). [英雄气概](Heroism.md "Heroism") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | Carried by [迦特](Gut.md "迦特") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 298 Y: -16 |
+| Gloves of the Growling Underdog | The wearer gains [优势](Advantage.md "Advantage") on melee [攻击掷骰](Attack_roll.md "Attack Roll") while surrounded by 2 or more foes. [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw") +1 | In [德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林") treasure crates behind the locked iron gate | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 298 Y: 66 |
 | Assassin's Touch | Deals an additional 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic") to creatures that are [倒地](Knocked_Out_(Condition).md "Knocked Out (Condition)") or [沉睡](Sleeping_(Condition).md "Sleeping (Condition)"). | Reward for completing the quest ⁠[解救地精萨扎](Save_the_Goblin_Sazza.md "Save the Goblin Sazza") by escorting [萨扎](Sazza.md "Sazza") to the [地精营地](Goblin_Camp.md "Goblin Camp") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 333 Y: 41 |
 | Jagged Spear | Tortured creatures may receive [劣势](Disadvantage.md "Disadvantage") on Constitution [豁免检定](Saving_throw.md "Saving Throw"). | On the ground near Torturer Spike, east of the Sanctum entrance | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 334 Y: -37 |
-| Xyanyde | Once per [short rest](Short_rest.md "Short rest"), you can encase a target in [妖火](Faerie_Fire_(Condition).md "Faerie Fire (Condition)") for 2 turns if you miss an attack against it. | Carried by [明萨拉](Minthara.md "Minthara") in [Act One](Act_One.md "Act One") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 335 Y: 43 |
+| Xyanyde | Once per [休息](Short_rest.md "休息"), you can encase a target in [妖火](Faerie_Fire_(Condition).md "Faerie Fire (Condition)") for 2 turns if you miss an attack against it. | Carried by [明萨拉](Minthara.md "Minthara") in [第一幕](Act_One.md "第一幕") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 335 Y: 43 |
 | Boots of Striding | When you cast a spell that requires [专注](Concentration.md "Concentration"), you gain [亢奋](Momentum_(Condition).md "Momentum (Condition)") for 1 turn. While you are concentrating, you cannot be knocked [倒伏](Prone_(Condition).md "Prone (Condition)") or moved against your will. [运动](Athletics.md "Athletics") +1 | Worn by [明萨拉](Minthara.md "Minthara") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 335 Y: 43 |
-| Loviatar's Scourge | Grants [抗性](Resistance.md "Resistance") to ⁠[黯蚀](Necrotic.md "Necrotic") damage. Deals an additional 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic")[DRS](Damage_rider_as_source.md "Damage rider as source") damage to nearby targets, including the wielder. | Carried by [阿布狄拉克](Abdirak.md "Abdirak") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 338 Y: -21 |
-| Ritual Dagger | After a successful attack with this dagger, the wielder receives a +1d4 bonus to [攻击掷骰](Attack_roll.md "Attack Roll") and [豁免检定](Saving_throw.md "Saving Throw") until the end of their next turn.[[See: Bugs](The_Pain_Maiden's_Blessing#Bugs.md#Bugs "The Pain Maiden's Blessing")] [血祭](Blood_Sacrifice.md "Blood Sacrifice") Pain is a path to power. Take 1d4⁠⁠[挥砍](Slashing.md "Slashing") damage to receive +1d4 bonus to [Attack rolls](Attack_roll.md "Attack roll") and [Saving throws](Saving_throw.md "Saving throw"). | Near [阿布狄拉克](Abdirak.md "Abdirak") or carried by him | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 338 Y: -26 |
-| Ritual Axe | Chance to inflict upon the target a 1d4 penalty to [攻击掷骰](Attack_roll.md "Attack Roll") and [豁免检定](Saving_throw.md "Saving Throw"). If the attacker still has 50% or more [hit points](Hit_Points.md "Hit Points"), they take 1d6⁠⁠[穿刺](Piercing.md "Piercing") themselves. | On the table next to [阿布狄拉克](Abdirak.md "Abdirak") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 338 Y: -26 |
+| Loviatar's Scourge | Grants [抗性](Resistance.md "Resistance") to ⁠[黯蚀](Necrotic.md "Necrotic") damage. Deals an additional 1d6⁠⁠[黯蚀](Necrotic.md "Necrotic")[伤害机制](Damage_rider_as_source.md "伤害机制") damage to nearby targets, including the wielder. | Carried by [阿布狄拉克](Abdirak.md "Abdirak") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 338 Y: -21 |
+| Ritual Dagger | After a successful attack with this dagger, the wielder receives a +1d4 bonus to [攻击掷骰](Attack_roll.md "Attack Roll") and [豁免检定](Saving_throw.md "Saving Throw") until the end of their next turn.[[See: Bugs](The_Pain_Maiden's_Blessing#Bugs.md#Bugs "The Pain Maiden's Blessing")] [血祭](Blood_Sacrifice.md "Blood Sacrifice") Pain is a path to power. Take 1d4⁠⁠[挥砍](Slashing.md "Slashing") damage to receive +1d4 bonus to [攻击](Attack_roll.md "攻击") and [豁免检定](Saving_throw.md "豁免检定"). | Near [阿布狄拉克](Abdirak.md "Abdirak") or carried by him | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 338 Y: -26 |
+| Ritual Axe | Chance to inflict upon the target a 1d4 penalty to [攻击掷骰](Attack_roll.md "Attack Roll") and [豁免检定](Saving_throw.md "Saving Throw"). If the attacker still has 50% or more [生命值](Hit_Points.md "生命值"), they take 1d6⁠⁠[穿刺](Piercing.md "Piercing") themselves. | On the table next to [阿布狄拉克](Abdirak.md "Abdirak") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 338 Y: -26 |
 | Ring of Poison Resistance | [抗性](Resistance.md "Resistance") to [中毒](Poison.md "Poison") damage. | On a skeleton inside an opened sarcophagus just before the [座狼兽栏](Worg_Pens.md "Worg Pens") area | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 338 Y: 14 |
-| Linebreaker Boots | When you [疾走](Dash.md "Dash") you gain [怒火](Wrath_(Condition).md "Wrath (Condition)") for 3 turns.[[See: Bugs](Adrenaline_Rush#Bugs.md#Bugs "Adrenaline Rush")] | Worn by [Beastmaster Zurk](Zurk.md "Zurk") | [座狼兽栏](Worg_Pens.md "Worg Pens") X: 379 Y: -39 |
-| Beastmaster's Chain | [化兽为友](Animal_Friendship.md "Animal Friendship") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a chest next to the table with meat | [座狼兽栏](Worg_Pens.md "Worg Pens") X: 379 Y: -43 |
-| Worgfang | Goblins have [劣势](Disadvantage.md "Disadvantage") on [Attack rolls](Attack_roll.md "Attack roll") against the wielder. | On a pile of bones in one of the cells | [座狼兽栏](Worg_Pens.md "Worg Pens") X: 386 Y: -17 |
+| Linebreaker Boots | When you [疾走](Dash.md "Dash") you gain [怒火](Wrath_(Condition).md "Wrath (Condition)") for 3 turns.[[See: Bugs](Adrenaline_Rush#Bugs.md#Bugs "Adrenaline Rush")] | Worn by [祖尔克](Zurk.md "祖尔克") | [座狼兽栏](Worg_Pens.md "Worg Pens") X: 379 Y: -39 |
+| Beastmaster's Chain | [化兽为友](Animal_Friendship.md "Animal Friendship") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | In a chest next to the table with meat | [座狼兽栏](Worg_Pens.md "Worg Pens") X: 379 Y: -43 |
+| Worgfang | Goblins have [劣势](Disadvantage.md "Disadvantage") on [攻击](Attack_roll.md "攻击") against the wielder. | On a pile of bones in one of the cells | [座狼兽栏](Worg_Pens.md "Worg Pens") X: 386 Y: -17 |
 
 [腐蚀链枷](Corrosive_Flail.md "Corrosive Flail")
 |
 
 [腐蚀打击](Corrosive_Strike.md "Corrosive Strike")
-Deal additional ⁠[强酸](Acid.md "Acid") damage equal to your [熟练项加值](Proficiency_Bonus.md "Proficiency Bonus"). On a hit, create a pool of acid around the target which reduces [护甲等级](Armour_Class.md "Armour Class") by 2. (Recharge: [Short rest](Short_rest.md "Short rest").)
+Deal additional ⁠[强酸](Acid.md "Acid") damage equal to your [熟练项加值](Proficiency_Bonus.md "Proficiency Bonus"). On a hit, create a pool of acid around the target which reduces [护甲等级](Armour_Class.md "Armour Class") by 2. (Recharge: [休息](Short_rest.md "休息").)
 | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: -55 Y: -93
 [修复护符](Amulet_of_Restoration.md "Amulet of Restoration")
 |
 
 [治愈真言](Healing_Word.md "Healing Word")
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 1 spell (Recharge: [休息](Long_Rest.md "休息").)
 
 [群体治愈真言](Mass_Healing_Word.md "Mass Healing Word")
-Cast as a level 3 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 3 spell (Recharge: [休息](Long_Rest.md "休息").)
 | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: -55 Y: -93
 [腐蚀指环](Caustic_Band.md "Caustic Band")
@@ -757,7 +757,7 @@ X: -55 Y: -93
 [不羁库席戈的手套](Gloves_of_Uninhibited_Kushigo.md "Gloves of Uninhibited Kushigo")
 |
 
-- The wearer deals an additional **1d4** damage with [Throw](Throw.md "Throw") Attacks and attacks made with [Improvised Weapons](Improvised_Melee_Weapon.md "Improvised Melee Weapon").
+- The wearer deals an additional **1d4** damage with [投掷](Throw.md "投掷") Attacks and attacks made with [即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器").
 
 | Reward by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") for saving [巴伦·骨篷](Baelen_Bonecloak.md "Baelen Bonecloak") during [找到蘑菇猎人](Find_the_Mushroom_Picker.md "Find the Mushroom Picker") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: -55 Y: -93
@@ -772,22 +772,22 @@ X: -55 Y: -93
 |
 
 [强化跳跃](Enhance_Leap.md "Enhance Leap")
-Cast as a level 1 spell (Recharge: [Short rest](Short_rest.md "Short rest").)
+Cast as a level 1 spell (Recharge: [休息](Short_rest.md "休息").)
 | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: -55 Y: -93
 [马友夫初始法杖](Melf's_First_Staff.md "Melf's First Staff")
 |
 
-- You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC") and [法术攻击](Spell_Attack.md "Spell Attack") rolls.
+- You gain a +1 bonus to [掷骰](Spell_save_DC.md "掷骰") and [法术攻击](Spell_Attack.md "Spell Attack") rolls.
 
 [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow")
-Cast as a level 2 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 2 spell (Recharge: [休息](Long_Rest.md "休息").)
 | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 111 Y: -89
 [灾祸短剑](The_Baneful.md "The Baneful")
 |
 
-- This weapon has a +1 bonus to damage and [Attack rolls](Attack_roll.md "Attack roll").
+- This weapon has a +1 bonus to damage and [攻击](Attack_roll.md "攻击").
 - On a hit, possibly [灾祸术](Bane_(Condition).md "Bane (Condition)") your target.
 
 | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
@@ -810,7 +810,7 @@ X: 111 Y: -89
 |
 
 [灼热射线](Scorching_Ray.md "Scorching Ray")
-Cast as a level 2 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 2 spell (Recharge: [休息](Long_Rest.md "休息").)
 | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 111 Y: -89
 [心灵火花](Psychic_Spark.md "Psychic Spark")
@@ -819,7 +819,7 @@ X: 111 Y: -89
 - Shoot an additional dart whenever you cast [魔法飞弹](Magic_Missile.md "Magic Missile").
 
 [魔法飞弹](Magic_Missile.md "Magic Missile")
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 1 spell (Recharge: [休息](Long_Rest.md "休息").)
 | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 111 Y: -89
 [烈日行者的恩赐](Sunwalker's_Gift.md "Sunwalker's Gift")
@@ -846,7 +846,7 @@ X: 144 Y: 29
 [喧嚣风暴之靴](Boots_of_Stormy_Clamour.md "Boots of Stormy Clamour")
 |
 
-- When the wearer inflicts a condition upon a hostile creature, they also inflict 2 turns of [残响](Reverberation_(Condition).md "Reverberation (Condition)")._\[[See: Bugs](Arcane_Echomalefaction.md#Bugs "Arcane Echomalefaction")\]_
+- When the wearer inflicts a condition upon a hostile creature, they also inflict 2 turns of [残响](Reverberation_(Condition).md "Reverberation (Condition)")._\[奥术共振](Arcane_Echomalefaction.md#Bugs "Arcane Echomalefaction")\]_
 
 | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 144 Y: 29
@@ -854,27 +854,27 @@ X: 144 Y: 29
 |
 
 [珠光复原术](Pearlescent_Restoration.md "Pearlescent Restoration")
-You can replenish expended [spell slots](Spell_Slot.md "Spell Slot") of your choice up to third level. (Recharge: [Long rest](Long_Rest.md "Long rest").)
+You can replenish expended [法术](Spell_Slot.md "法术") of your choice up to third level. (Recharge: [休息](Long_Rest.md "休息").)
 | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 144 Y: 29
 [心灵庇护之戒](Ring_of_Mind-Shielding.md "Ring of Mind-Shielding")
 |
 
-- You have [优势](Advantage.md "Advantage") on [Saving throws](Saving_throw.md "Saving throw") against [魅惑](Charmed_(Condition).md "Charmed (Condition)").
+- You have [优势](Advantage.md "Advantage") on [豁免检定](Saving_throw.md "豁免检定") against [魅惑](Charmed_(Condition).md "Charmed (Condition)").
 
 | Offered by [奥米伦](Omeluum.md "Omeluum") upon completion of the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 144 Y: 29
 [慰藉之戒](Ring_of_Salving.md "Ring of Salving")
 |
 
-- You restore an additional 2⁠⁠[hit points](Healing.md "Healing") every time you heal another creature.
+- You restore an additional 2⁠⁠[治疗](Healing.md "治疗") every time you heal another creature.
 
 | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 144 Y: 29
 [遮蔽施法饰环](The_Shadespell_Circlet.md "The Shadespell Circlet")
 |
 
-- While the wearer is [obscured](Obscured.md "Obscured") in shadow, their spells gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"), making them more likely to succeed.
+- While the wearer is [遮蔽](Obscured.md "遮蔽") in shadow, their spells gain a +1 bonus to [掷骰](Spell_save_DC.md "掷骰"), making them more likely to succeed.
 
 | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 144 Y: 29
@@ -889,76 +889,76 @@ X: 144 Y: 29
 | Mage's Friend | [奥秘](Arcana.md "Arcana") +1 [宗教](Religion.md "Religion") +1 | In a chest at the foot of the bed on the third floor | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -34 Y: -274 |
 | Mystra's Grace | [羽落术](Feather_Fall.md "Feather Fall") Cast as a level 1 spell at will. | In the [平庸宝箱](Chest_of_the_Mundane.md "Chest of the Mundane") on the northern balcony of the tower's third floor, the same level as the arcane turrets | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -36 Y: -265 |
 | Light of Creation | Chance to [灵魂扭曲](Stunned_(Condition).md "Stunned (Condition)") the wielder, unless it is a [构装生物](Construct.md "Construct"). | Carried by [伯纳德](Bernard.md "Bernard") at the top floor | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -38 Y: -284 |
-| Uncovered Mysteries | [侦测思想](Detect_Thoughts.md "Detect Thoughts") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a small gilded chest on the basement floor's mezzanine, right next to the elevator exit | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -48 Y: -282 |
+| Uncovered Mysteries | [侦测思想](Detect_Thoughts.md "Detect Thoughts") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | In a small gilded chest on the basement floor's mezzanine, right next to the elevator exit | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: -48 Y: -282 |
 | The Sparkswall | The wearer can't be [电击](Electrocuted_(Condition).md "Electrocuted (Condition)"). [抗性](Resistance.md "Resistance") to [闪电](Lightning.md "Lightning") damage. | In a gilded chest on the upper level of the Arcane Tower's basement | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 163 Y: -432 |
-| Staff of Arcane Blessing | Creatures you [祝福术](Bless.md "Bless") also gain [密斯特拉的祝福](Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md "Mystra's Blessing (Staff of Arcane Blessing) (Condition)") for an additional 1d4 bonus to spell attack rolls.[[See: Bugs](Mystra's_Blessing#Bugs.md#Bugs "Mystra's Blessing")] [祝福术](Bless.md "Bless") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Leaning against a table in the basement | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 164 Y: 432 |
-| Skybreaker | [炽焰斩](Searing_Smite.md "Searing Smite") ( + ) Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a locked heavy chest in front of the entrance | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 28 Y: -295 |
-| Exterminator's Axe | Deals an additional 1d6⁠⁠[火焰](Fire.md "Fire") damage to [Plants](Plant.md "Plant"), [Myconids](Myconid.md "Myconid")[[See: Bugs](Scourge_of_Pests#Bugs.md#Bugs "Scourge of Pests")], and [小型](Small.md "Small") creatures. | Carried by [格克·煤球](Gekh_Coal.md "Gekh Coal") | [破败村落](Decrepit_Village.md "Decrepit Village") X: 14 Y: -196 |
+| Staff of Arcane Blessing | Creatures you [祝福术](Bless.md "Bless") also gain [密斯特拉的祝福](Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md "Mystra's Blessing (Staff of Arcane Blessing) (Condition)") for an additional 1d4 bonus to spell attack rolls.[[See: Bugs](Mystra's_Blessing#Bugs.md#Bugs "Mystra's Blessing")] [祝福术](Bless.md "Bless") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | Leaning against a table in the basement | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 164 Y: 432 |
+| Skybreaker | [炽焰斩](Searing_Smite.md "Searing Smite") ( + ) Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | In a locked heavy chest in front of the entrance | [奥法高塔](Arcane_Tower.md "Arcane Tower") X: 28 Y: -295 |
+| Exterminator's Axe | Deals an additional 1d6⁠⁠[火焰](Fire.md "Fire") damage to [植物](Plant.md "植物"), [蕈人](Myconid.md "蕈人")[[See: Bugs](Scourge_of_Pests#Bugs.md#Bugs "Scourge of Pests")], and [小型](Small.md "Small") creatures. | Carried by [格克·煤球](Gekh_Coal.md "Gekh Coal") | [破败村落](Decrepit_Village.md "Decrepit Village") X: 14 Y: -196 |
 | Explorer's Ring | [自然](Nature.md "Nature") +1 [求生](Survival.md "Survival") +1 | On a skeleton on a ledge above the [噼啪砰](Bibberbang.md "Bibberbang") in the [Bibberbang Grotto](Underdark#Bibberbang_Grotto.md#Bibberbang_Grotto "Underdark") section of [恐怖窟窿](Underdark#Dread_Hollow.md#Dread_Hollow "Underdark") | [恐怖窟窿](Dread_Hollow.md "Dread Hollow") X: -12 Y: -50 |
 | Heavy Crossbow +1 |  | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 | Hand Crossbow +1 |  | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
-| Corrosive Flail | [腐蚀打击](Corrosive_Strike.md "Corrosive Strike") Deal additional ⁠[强酸](Acid.md "Acid") damage equal to your [熟练项加值](Proficiency_Bonus.md "Proficiency Bonus"). On a hit, create a pool of acid around the target which reduces [护甲等级](Armour_Class.md "Armour Class") by 2. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
-| Amulet of Restoration | [治愈真言](Healing_Word.md "Healing Word") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) [群体治愈真言](Mass_Healing_Word.md "Mass Healing Word") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
+| Corrosive Flail | [腐蚀打击](Corrosive_Strike.md "Corrosive Strike") Deal additional ⁠[强酸](Acid.md "Acid") damage equal to your [熟练项加值](Proficiency_Bonus.md "Proficiency Bonus"). On a hit, create a pool of acid around the target which reduces [护甲等级](Armour_Class.md "Armour Class") by 2. ( Recharge: [休息](Short_rest.md "休息").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
+| Amulet of Restoration | [治愈真言](Healing_Word.md "Healing Word") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) [群体治愈真言](Mass_Healing_Word.md "Mass Healing Word") Cast as a level 3 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
 | Caustic Band | Your weapon attacks also deal 2⁠⁠[强酸](Acid.md "Acid") damage. | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
-| Gloves of Uninhibited Kushigo | The wearer deals an additional 1d4 damage with [Throw](Throw.md "Throw") Attacks and attacks made with [Improvised Weapons](Improvised_Melee_Weapon.md "Improvised Melee Weapon"). | Reward by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") for saving [巴伦·骨篷](Baelen_Bonecloak.md "Baelen Bonecloak") during [找到蘑菇猎人](Find_the_Mushroom_Picker.md "Find the Mushroom Picker") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
+| Gloves of Uninhibited Kushigo | The wearer deals an additional 1d4 damage with [投掷](Throw.md "投掷") Attacks and attacks made with [即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器"). | Reward by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") for saving [巴伦·骨篷](Baelen_Bonecloak.md "Baelen Bonecloak") during [找到蘑菇猎人](Find_the_Mushroom_Picker.md "Find the Mushroom Picker") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
 | Herbalist's Gloves | If the wearer heals a [中毒](Poisoned_(Condition).md "Poisoned (Condition)") creature, it is no longer poisoned. | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
-| Ring of Jumping | [强化跳跃](Enhance_Leap.md "Enhance Leap") Cast as a level 1 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
-| Melf's First Staff | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC") and [法术攻击](Spell_Attack.md "Spell Attack") rolls. [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
-| The Baneful | This weapon has a +1 bonus to damage and [Attack rolls](Attack_roll.md "Attack roll"). On a hit, possibly [灾祸术](Bane_(Condition).md "Bane (Condition)") your target. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| Ring of Jumping | [强化跳跃](Enhance_Leap.md "Enhance Leap") Cast as a level 1 spell ( Recharge: [休息](Short_rest.md "休息").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") in the [幽暗地域](Underdark.md "Underdark") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: -55 Y: -93 |
+| Melf's First Staff | You gain a +1 bonus to [掷骰](Spell_save_DC.md "掷骰") and [法术攻击](Spell_Attack.md "Spell Attack") rolls. [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| The Baneful | This weapon has a +1 bonus to damage and [攻击](Attack_roll.md "攻击"). On a hit, possibly [灾祸术](Bane_(Condition).md "Bane (Condition)") your target. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Boots of Genial Striding | The wearer's [移动速度](Movement_speed.md "Movement Speed") is unimpeded by [劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Cinder Shoes | Whenever you [Burn](Burning_(Condition).md "Burning (Condition)") an enemy, you gain 2 turns of [灼热](Heat_(Condition).md "Heat (Condition)"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
-| Circlet of Blasting | [灼热射线](Scorching_Ray.md "Scorching Ray") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
-| Psychic Spark | Shoot an additional dart whenever you cast [魔法飞弹](Magic_Missile.md "Magic Missile"). [魔法飞弹](Magic_Missile.md "Magic Missile") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| Circlet of Blasting | [灼热射线](Scorching_Ray.md "Scorching Ray") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| Psychic Spark | Shoot an additional dart whenever you cast [魔法飞弹](Magic_Missile.md "Magic Missile"). [魔法飞弹](Magic_Missile.md "Magic Missile") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Sunwalker's Gift | The wearer can see in the dark up to 12 m / 40 ft. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | The Lifebringer | When the wearer gains [闪电充能](Lightning_Charges_(Condition).md "Lightning Charges (Condition)"), they also gain 3 [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points"). The temporary hit points disappear if the wearer runs out of Lightning Charges. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Creation's Echo | If the wielder deals ⁠[强酸](Acid.md "Acid"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), ⁠[光耀](Radiant.md "Radiant"), or ⁠[黯蚀](Necrotic.md "Necrotic") damage, it becomes resistant to that damage type for 2 turns. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
 | Boots of Stormy Clamour | When the wearer inflicts a condition upon a hostile creature, they also inflict 2 turns of [残响](Reverberation_(Condition).md "Reverberation (Condition)").[[See: Bugs](Arcane_Echomalefaction#Bugs.md#Bugs "Arcane Echomalefaction")] | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| Pearl of Power Amulet | [珠光复原术](Pearlescent_Restoration.md "Pearlescent Restoration") You can replenish expended [spell slots](Spell_Slot.md "Spell Slot") of your choice up to third level. ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| Ring of Mind-Shielding | You have [优势](Advantage.md "Advantage") on [Saving throws](Saving_throw.md "Saving throw") against [魅惑](Charmed_(Condition).md "Charmed (Condition)"). | Offered by [奥米伦](Omeluum.md "Omeluum") upon completion of the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| Ring of Salving | You restore an additional 2⁠⁠[hit points](Healing.md "Healing") every time you heal another creature. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| The Shadespell Circlet | While the wearer is [obscured](Obscured.md "Obscured") in shadow, their spells gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"), making them more likely to succeed. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
-| Shadow of Menzoberranzan | [阴影遮蔽](Shrouded_in_Shadow.md "Shrouded in Shadow") Become [隐形](Invisible_(Condition).md "Invisible (Condition)"). ( Recharge: [Short rest](Short_rest.md "Short rest").) | On the ground next to Xargrim the [Pale Corpse](Xargrim.md "Xargrim"), in the secret area unlocked by completing the quest ⁠[击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 52 Y: -70 |
+| Pearl of Power Amulet | [珠光复原术](Pearlescent_Restoration.md "Pearlescent Restoration") You can replenish expended [法术](Spell_Slot.md "法术") of your choice up to third level. ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
+| Ring of Mind-Shielding | You have [优势](Advantage.md "Advantage") on [豁免检定](Saving_throw.md "豁免检定") against [魅惑](Charmed_(Condition).md "Charmed (Condition)"). | Offered by [奥米伦](Omeluum.md "Omeluum") upon completion of the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
+| Ring of Salving | You restore an additional 2⁠⁠[治疗](Healing.md "治疗") every time you heal another creature. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
+| The Shadespell Circlet | While the wearer is [遮蔽](Obscured.md "遮蔽") in shadow, their spells gain a +1 bonus to [掷骰](Spell_save_DC.md "掷骰"), making them more likely to succeed. | Sold by [奥米伦](Omeluum.md "Omeluum") after completing the quest ⁠[帮助奥米伦调查寄生虫的事](Help_Omeluum_investigate_the_parasite.md "Help Omeluum Investigate the Parasite") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 144 Y: 29 |
+| Shadow of Menzoberranzan | [阴影遮蔽](Shrouded_in_Shadow.md "Shrouded in Shadow") Become [隐形](Invisible_(Condition).md "Invisible (Condition)"). ( Recharge: [休息](Short_rest.md "休息").) | On the ground next to Xargrim the [夏格林](Xargrim.md "夏格林"), in the secret area unlocked by completing the quest ⁠[击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 52 Y: -70 |
 | Light Crossbow +1 |  | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 55 Y: -93 |
-| Gloves of Hail of Thorns | [荆雹术](Hail_of_Thorns.md "Hail of Thorns") Cast as a level 1 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 55 Y: -93 |
-| Champion's Chain | [暴君之舌](Tyrant_Tongue.md "Tyrant Tongue") Grant an ally a +2 bonus on [威吓](Intimidation.md "Intimidation") [checks](Ability_Check.md "Ability check"). ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [Glut](Glut.md "Glut") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 58 Y: -110 |
-| Envoy's Amulet | [圆环之声](Voice_of_the_Circle.md "Voice of the Circle") Grant an ally a +2 bonus on [游说](Persuasion.md "Persuasion") [checks](Ability_Check.md "Ability check"). ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [Spaw](Spaw.md "Spaw") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 79 Y: -106 |
+| Gloves of Hail of Thorns | [荆雹术](Hail_of_Thorns.md "Hail of Thorns") Cast as a level 1 spell ( Recharge: [休息](Short_rest.md "休息").) | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 55 Y: -93 |
+| Champion's Chain | [暴君之舌](Tyrant_Tongue.md "Tyrant Tongue") Grant an ally a +2 bonus on [威吓](Intimidation.md "Intimidation") [属性](Ability_Check.md "属性"). ( Recharge: [休息](Long_Rest.md "休息").) | Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [格拉特](Glut.md "格拉特") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 58 Y: -110 |
+| Envoy's Amulet | [圆环之声](Voice_of_the_Circle.md "Voice of the Circle") Grant an ally a +2 bonus on [游说](Persuasion.md "Persuasion") [属性](Ability_Check.md "属性"). ( Recharge: [休息](Long_Rest.md "休息").) | Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [斯伯](Spaw.md "斯伯") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 79 Y: -106 |
 | Boots of Speed | [碰撞鞋跟](Click_Heels.md "Click Heels") Click the heels of your boots to gain speed and freedom of movement. | Worn by [图拉](Thulla.md "Thulla") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 82 Y: -97 |
-| Helmet of Smiting | When you apply a condition with one of your Smite spells, you gain [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points") equal to your [Charisma modifier](Charisma.md "Charisma"). [体质](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1 | Inside a locked gilded chest south-west of the waypoint | [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") X: 163 Y: -248 |
+| Helmet of Smiting | When you apply a condition with one of your Smite spells, you gain [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points") equal to your [魅力](Charisma.md "魅力"). [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "豁免检定") +1 | Inside a locked gilded chest south-west of the waypoint | [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") X: 163 Y: -248 |
 | Luminous Armour | When the wearer deals ⁠[光耀](Radiant.md "Radiant") damage, they cause a [光耀震荡波](Radiant_Shockwave.md "Radiant Shockwave"). | in a locked and trapped opulent chest | [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") X: 176 Y: -247 |
-| Slippery Chain Shirt | When the wearer heals a creature, it automatically [Disengages](Disengage.md "Disengage") and won't trigger [借机攻击](Opportunity_Attack.md "Opportunity Attack"). | in a chest hidden on a cliff above and behind the altar | [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") X: -400 Y: 329 |
+| Slippery Chain Shirt | When the wearer heals a creature, it automatically [撤离](Disengage.md "撤离") and won't trigger [借机攻击](Opportunity_Attack.md "Opportunity Attack"). | in a chest hidden on a cliff above and behind the altar | [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") X: -400 Y: 329 |
 | Sickle of BOOOAL |  | Carried by [热情的普德利普](Pooldripp.md "Pooldripp") or given to the player character by [波尔](BOOOAL.md "BOOOAL") | [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") X: -417 Y: 284 |
-| Mourning Frost | When dealing ⁠[寒冷](Cold.md "Cold") damage, the wielder deals an additional 1⁠⁠[寒冷](Cold.md "Cold"). Dealing Cold damage with a spell possibly inflicts [冻僵](Chilled_(Condition).md "Chilled (Condition)") upon the target. [冷冻射线](Ray_of_Frost.md "Ray of Frost") Cast as a cantrip at will. | Created by combining (a right click option to 'combine' appears once all three are collected and in the same players inventory) the components carried by the three Drow mages competing to discover the Adamantine Forge: [冰晶](Icy_Crystal.md "Icy Crystal") - carried by [被遗忘的菲尔罗](Filro_the_Forgotten.md "Filro the Forgotten") near the Sussur Tree [冰冷的柄](Icy_Helve.md "Icy Helve") - carried by [道恩](Dhourn.md "Dhourn"), west of the [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") [冰冷金属](Icy_Metal.md "Icy Metal") - looted from [Xargrim](Xargrim.md "Xargrim") the Pale Corpse within the [Myconid Colony](Myconid_Colony.md "Myconid Colony"), in the secret area unlocked by completing the quest [击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") at X: 49 Y: -72, by casting [敲击术](Knock.md "Knock"), or by using a skill like [迷踪步](Misty_Step.md "Misty Step") from the right angle | [幽暗地域](Underdark.md "Underdark") |
+| Mourning Frost | When dealing ⁠[寒冷](Cold.md "Cold") damage, the wielder deals an additional 1⁠⁠[寒冷](Cold.md "Cold"). Dealing Cold damage with a spell possibly inflicts [冻僵](Chilled_(Condition).md "Chilled (Condition)") upon the target. [冷冻射线](Ray_of_Frost.md "Ray of Frost") Cast as a cantrip at will. | Created by combining (a right click option to 'combine' appears once all three are collected and in the same players inventory) the components carried by the three Drow mages competing to discover the Adamantine Forge: [冰晶](Icy_Crystal.md "Icy Crystal") - carried by [被遗忘的菲尔罗](Filro_the_Forgotten.md "Filro the Forgotten") near the Sussur Tree [冰冷的柄](Icy_Helve.md "Icy Helve") - carried by [道恩](Dhourn.md "Dhourn"), west of the [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") [冰冷金属](Icy_Metal.md "Icy Metal") - looted from [夏格林](Xargrim.md "夏格林") the Pale Corpse within the [黑檀湖洞穴](Myconid_Colony.md "黑檀湖洞穴"), in the secret area unlocked by completing the quest [击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") at X: 49 Y: -72, by casting [敲击术](Knock.md "Knock"), or by using a skill like [迷踪步](Misty_Step.md "Misty Step") from the right angle | [幽暗地域](Underdark.md "Underdark") |
 | Bloodguzzler Garb | When an enemy damages the wearer, the wearer gains [怒火](Wrath_(Condition).md "Wrath (Condition)") for 2 turns. | in the [鲨蜥兽](Bulette.md "Bulette") | [幽暗地域](Underdark.md "Underdark") |
-| Winter's Clutches | When the wearer deals ⁠[寒冷](Cold.md "Cold") damage, inflict 2 turns of [冷冻](Encrusted_with_Frost_(Condition).md "Encrusted with Frost (Condition)") upon the target(s). | Given by [Glut](Glut.md "Glut") for completing [为格拉特的族人报仇](Avenge_Glut's_Circle.md "Avenge Glut's Circle") | [幽暗地域](Underdark.md "Underdark") |
-| The Spectator Eyes | [恐惧射线](Ray_of_Fear.md "Ray of Fear") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) [致伤射线](Wounding_Ray.md "Wounding Ray") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Worn by the [观察者眼魔](Spectator.md "Spectator") located in the [Petrified Battlefield](Underdark#Petrified_Battlefield.md#Petrified_Battlefield "Underdark") | [幽暗地域](Underdark.md "Underdark") X: 112 Y: -249 |
-| Phalar Aluve | [表演](Performance.md "Performance") +1 [Phalar Aluve: Melody](Phalar_Aluve_colon__Melody.md "Phalar Aluve: Melody") The sword hums in anticipation, ready to [Sing](Phalar_Aluve_colon__Sing.md "Phalar Aluve: Sing") or [Shriek](Phalar_Aluve_colon__Shriek.md "Phalar Aluve: Shriek") (see bugs on their respective pages). ( Recharge: [Short rest](Short_rest.md "Short rest").) | Embedded inside a rock | [幽暗地域](Underdark.md "Underdark") X: 116 Y: -192 |
-| The Blast Pendant | [闪电释能](Lightning_Blast.md "Lightning Blast") Focus the electricity in your veins to strengthen your next spell or [cantrip](Cantrip.md "Cantrip"). ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Worn by [道恩](Dhourn.md "Dhourn"), a petrified drow west of the [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") | [幽暗地域](Underdark.md "Underdark") X: 121 Y: -245 |
-| Amulet of the Unworthy | [抗性](Resistance.md "Resistance") to ⁠[挥砍](Slashing.md "Slashing") damage [Vulnerability](Vulnerability.md "Vulnerability") to ⁠[钝击](Bludgeoning.md "Bludgeoning") damage | Carried by a [牛头人](Minotaur.md "Minotaur") wandering around | [幽暗地域](Underdark.md "Underdark") X: 160 Y: -147 |
+| Winter's Clutches | When the wearer deals ⁠[寒冷](Cold.md "Cold") damage, inflict 2 turns of [冷冻](Encrusted_with_Frost_(Condition).md "Encrusted with Frost (Condition)") upon the target(s). | Given by [格拉特](Glut.md "格拉特") for completing [为格拉特的族人报仇](Avenge_Glut's_Circle.md "Avenge Glut's Circle") | [幽暗地域](Underdark.md "Underdark") |
+| The Spectator Eyes | [恐惧射线](Ray_of_Fear.md "Ray of Fear") Cast as a level 3 spell ( Recharge: [休息](Long_Rest.md "休息").) [致伤射线](Wounding_Ray.md "Wounding Ray") Cast as a level 3 spell ( Recharge: [休息](Long_Rest.md "休息").) | Worn by the [观察者眼魔](Spectator.md "Spectator") located in the [Petrified Battlefield](Underdark#Petrified_Battlefield.md#Petrified_Battlefield "Underdark") | [幽暗地域](Underdark.md "Underdark") X: 112 Y: -249 |
+| Phalar Aluve | [表演](Performance.md "Performance") +1 [生离死别：旋律](Phalar_Aluve_colon__Melody.md "生离死别：旋律") The sword hums in anticipation, ready to [生离死别：吟唱](Phalar_Aluve_colon__Sing.md "生离死别：吟唱") or [生离死别：尖叫](Phalar_Aluve_colon__Shriek.md "生离死别：尖叫") (see bugs on their respective pages). ( Recharge: [休息](Short_rest.md "休息").) | Embedded inside a rock | [幽暗地域](Underdark.md "Underdark") X: 116 Y: -192 |
+| The Blast Pendant | [闪电释能](Lightning_Blast.md "Lightning Blast") Focus the electricity in your veins to strengthen your next spell or [戏法列表](Cantrip.md "戏法列表"). ( Recharge: [休息](Long_Rest.md "休息").) | Worn by [道恩](Dhourn.md "Dhourn"), a petrified drow west of the [塞伦涅信徒哨站](Selûnite_Outpost.md "Selûnite Outpost") | [幽暗地域](Underdark.md "Underdark") X: 121 Y: -245 |
+| Amulet of the Unworthy | [抗性](Resistance.md "Resistance") to ⁠[挥砍](Slashing.md "Slashing") damage [抗性](Vulnerability.md "抗性") to ⁠[钝击](Bludgeoning.md "Bludgeoning") damage | Carried by a [牛头人](Minotaur.md "Minotaur") wandering around | [幽暗地域](Underdark.md "Underdark") X: 160 Y: -147 |
 | Drow Studded Leather Armour | [隐匿](Stealth.md "Stealth") +1 | In a heavy chest at a Lolth's Cultist's cache near the entrance of [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") | [幽暗地域](Underdark.md "Underdark") X: 71 Y: -220 |
 | Drow Studded Leather Armour | [隐匿](Stealth.md "Stealth") +1 | In a heavy chest at a Lolth's Cultist's cache near the entrance of [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") | [幽暗地域](Underdark.md "Underdark") X: 71 Y: -220 |
-| Shortsword of First Blood | Deals an additional 1d8⁠⁠[穿刺](Piercing.md "Piercing") to targets that still have all their [hit points](Hit_Points.md "Hit Points"). | On the corpse of an executed [地底侏儒](Deep_Gnome.md "Deep Gnome"), at the entrance of the [破败村落](Decrepit_Village.md "Decrepit Village"), if approaching from the Myconid Colony | [幽暗地域](Underdark.md "Underdark") X: 73 Y: -187 |
-| Helmet of Autonomy | [熟练项](Proficiency.md "Proficiency") in [感知](Wisdom.md "Wisdom") [Saving throws](Saving_throw.md "Saving throw") | On a skeleton at the entrance to [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") | [幽暗地域](Underdark.md "Underdark") X: 82 Y: -241 |
+| Shortsword of First Blood | Deals an additional 1d8⁠⁠[穿刺](Piercing.md "Piercing") to targets that still have all their [生命值](Hit_Points.md "生命值"). | On the corpse of an executed [地底侏儒](Deep_Gnome.md "Deep Gnome"), at the entrance of the [破败村落](Decrepit_Village.md "Decrepit Village"), if approaching from the Myconid Colony | [幽暗地域](Underdark.md "Underdark") X: 73 Y: -187 |
+| Helmet of Autonomy | [熟练项](Proficiency.md "Proficiency") in [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "豁免检定") | On a skeleton at the entrance to [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") | [幽暗地域](Underdark.md "Underdark") X: 82 Y: -241 |
 X: 55 Y: -93
 [棘雹术手套](Gloves_of_Hail_of_Thorns.md "Gloves of Hail of Thorns")
 |
 
 [荆雹术](Hail_of_Thorns.md "Hail of Thorns")
-Cast as a level 1 spell (Recharge: [Short rest](Short_rest.md "Short rest").)
+Cast as a level 1 spell (Recharge: [休息](Short_rest.md "休息").)
 | Sold by [德里丝·骨篷](Derryth_Bonecloak.md "Derryth Bonecloak") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 55 Y: -93
 [勇者链条](Champion's_Chain.md "Champion's Chain")
 |
 
 [暴君之舌](Tyrant_Tongue.md "Tyrant Tongue")
-Grant an ally a +2 bonus on [威吓](Intimidation.md "Intimidation") [checks](Ability_Check.md "Ability check"). (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [Glut](Glut.md "Glut") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
+Grant an ally a +2 bonus on [威吓](Intimidation.md "Intimidation") [属性](Ability_Check.md "属性"). (Recharge: [休息](Long_Rest.md "休息").)
+| Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [格拉特](Glut.md "格拉特") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 58 Y: -110
 [使者护符](Envoy's_Amulet.md "Envoy's Amulet")
 |
 
 [圆环之声](Voice_of_the_Circle.md "Voice of the Circle")
-Grant an ally a +2 bonus on [游说](Persuasion.md "Persuasion") [checks](Ability_Check.md "Ability check"). (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [Spaw](Spaw.md "Spaw") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
+Grant an ally a +2 bonus on [游说](Persuasion.md "Persuasion") [属性](Ability_Check.md "属性"). (Recharge: [休息](Long_Rest.md "休息").)
+| Reward for delivering [尼讷的头](Nere's_Head.md "Nere's Head") to [斯伯](Spaw.md "斯伯") during the quest [交送尼讷的头](Deliver_Nere's_Head.md "Deliver Nere's Head") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 79 Y: -106
 [速度之靴](Boots_of_Speed.md "Boots of Speed")
 |
@@ -970,9 +970,9 @@ X: 82 Y: -97
 [斩击头盔](Helmet_of_Smiting.md "Helmet of Smiting")
 |
 
-- When you apply a condition with one of your Smite spells, you gain [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points") equal to your [Charisma modifier](Charisma.md "Charisma").
+- When you apply a condition with one of your Smite spells, you gain [临时生命值](Temporary_Hit_Points.md "Temporary Hit Points") equal to your [魅力](Charisma.md "魅力").
 
-- [体质](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1
+- [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "豁免检定") +1
 
 | Inside a locked gilded chest south-west of the waypoint | [塞伦涅信徒哨站](Sel%C3%BBnite_Outpost.md "Selûnite Outpost") |
 X: 163 Y: -248
@@ -986,7 +986,7 @@ X: 176 Y: -247
 [光滑的链甲衫](Slippery_Chain_Shirt.md "Slippery Chain Shirt")
 |
 
-- When the wearer heals a creature, it automatically [Disengages](Disengage.md "Disengage") and won't trigger [借机攻击](Opportunity_Attack.md "Opportunity Attack").
+- When the wearer heals a creature, it automatically [撤离](Disengage.md "撤离") and won't trigger [借机攻击](Opportunity_Attack.md "Opportunity Attack").
 
 | in a chest hidden on a cliff above and behind the altar | [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") |
 X: -400 Y: 329
@@ -1004,7 +1004,7 @@ Cast as a cantrip at will.
 
 - - [冰晶](Icy_Crystal.md "Icy Crystal") - carried by [被遗忘的菲尔罗](Filro_the_Forgotten.md "Filro the Forgotten") near the Sussur Tree
   - [冰冷的柄](Icy_Helve.md "Icy Helve") - carried by [道恩](Dhourn.md "Dhourn"), west of the [塞伦涅信徒哨站](Sel%C3%BBnite_Outpost.md "Selûnite Outpost")
-  - [冰冷金属](Icy_Metal.md "Icy Metal") - looted from [Xargrim](Xargrim.md "Xargrim") the Pale Corpse within the [Myconid Colony](Myconid_Colony.md "Myconid Colony"), in the secret area unlocked by completing the quest [击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") at X: 49 Y: -72, by casting [敲击术](Knock.md "Knock"), or by using a skill like [迷踪步](Misty_Step.md "Misty Step") from the right angle
+  - [冰冷金属](Icy_Metal.md "Icy Metal") - looted from [夏格林](Xargrim.md "夏格林") the Pale Corpse within the [黑檀湖洞穴](Myconid_Colony.md "黑檀湖洞穴"), in the secret area unlocked by completing the quest [击败灰矮人](Defeat_the_Duergar_Intruders.md "Defeat the Duergar Intruders") at X: 49 Y: -72, by casting [敲击术](Knock.md "Knock"), or by using a skill like [迷踪步](Misty_Step.md "Misty Step") from the right angle
 
 | [幽暗地域](Underdark.md "Underdark")|
 
@@ -1020,39 +1020,39 @@ Cast as a cantrip at will.
 
 - When the wearer deals ⁠[寒冷](Cold.md "Cold") damage, inflict 2 turns of [冷冻](Encrusted_with_Frost_(Condition).md "Encrusted with Frost (Condition)") upon the target(s).
 
-| Given by [Glut](Glut.md "Glut") for completing [为格拉特的族人报仇](Avenge_Glut's_Circle.md "Avenge Glut's Circle") | [幽暗地域](Underdark.md "Underdark") |
+| Given by [格拉特](Glut.md "格拉特") for completing [为格拉特的族人报仇](Avenge_Glut's_Circle.md "Avenge Glut's Circle") | [幽暗地域](Underdark.md "Underdark") |
 
 [观察者眼魔的眼柄](The_Spectator_Eyes.md "The Spectator Eyes")
 |
 
 [恐惧射线](Ray_of_Fear.md "Ray of Fear")
-Cast as a level 3 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 3 spell (Recharge: [休息](Long_Rest.md "休息").)
 
 [致伤射线](Wounding_Ray.md "Wounding Ray")
-Cast as a level 3 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Worn by the [观察者眼魔](Spectator.md "Spectator") located in the [Petrified Battlefield](Underdark.md#Petrified_Battlefield "Underdark") | [幽暗地域](Underdark.md "Underdark") |
+Cast as a level 3 spell (Recharge: [休息](Long_Rest.md "休息").)
+| Worn by the [观察者眼魔](Spectator.md "Spectator") located in the [幽暗地域](Underdark.md#Petrified_Battlefield "Underdark") | [幽暗地域](Underdark.md "Underdark") |
 X: 112 Y: -249
 [生离死别](Phalar_Aluve.md "Phalar Aluve")
 |
 
 - [表演](Performance.md "Performance") +1
 
-[Phalar Aluve: Melody](Phalar_Aluve_colon__Melody.md "Phalar Aluve: Melody")
-The sword hums in anticipation, ready to [Sing](Phalar_Aluve_colon__Sing.md "Phalar Aluve: Sing") or [Shriek](Phalar_Aluve_colon__Shriek.md "Phalar Aluve: Shriek") (see bugs on their respective pages). (Recharge: [Short rest](Short_rest.md "Short rest").)
+[生离死别：旋律](Phalar_Aluve_colon__Melody.md "生离死别：旋律")
+The sword hums in anticipation, ready to [生离死别：吟唱](Phalar_Aluve_colon__Sing.md "生离死别：吟唱") or [生离死别：尖叫](Phalar_Aluve_colon__Shriek.md "生离死别：尖叫") (see bugs on their respective pages). (Recharge: [休息](Short_rest.md "休息").)
 | Embedded inside a rock | [幽暗地域](Underdark.md "Underdark") |
 X: 116 Y: -192
 [闪电护符](The_Blast_Pendant.md "The Blast Pendant")
 |
 
 [闪电释能](Lightning_Blast.md "Lightning Blast")
-Focus the electricity in your veins to strengthen your next spell or [cantrip](Cantrip.md "Cantrip"). (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Focus the electricity in your veins to strengthen your next spell or [戏法列表](Cantrip.md "戏法列表"). (Recharge: [休息](Long_Rest.md "休息").)
 | Worn by [道恩](Dhourn.md "Dhourn"), a petrified drow west of the [塞伦涅信徒哨站](Sel%C3%BBnite_Outpost.md "Selûnite Outpost") | [幽暗地域](Underdark.md "Underdark") |
 X: 121 Y: -245
 [龃龉护符](Amulet_of_the_Unworthy.md "Amulet of the Unworthy")
 |
 
 - [抗性](Resistance.md "Resistance") to ⁠[挥砍](Slashing.md "Slashing") damage
-- [Vulnerability](Vulnerability.md "Vulnerability") to ⁠[钝击](Bludgeoning.md "Bludgeoning") damage
+- [抗性](Vulnerability.md "抗性") to ⁠[钝击](Bludgeoning.md "Bludgeoning") damage
 
 | Carried by a [牛头人](Minotaur.md "Minotaur") wandering around | [幽暗地域](Underdark.md "Underdark") |
 X: 160 Y: -147
@@ -1073,14 +1073,14 @@ X: 71 Y: -220
 [第一滴血短剑](Shortsword_of_First_Blood.md "Shortsword of First Blood")
 |
 
-- Deals an additional 1d8⁠⁠[穿刺](Piercing.md "Piercing") to targets that still have all their [hit points](Hit_Points.md "Hit Points").
+- Deals an additional 1d8⁠⁠[穿刺](Piercing.md "Piercing") to targets that still have all their [生命值](Hit_Points.md "生命值").
 
 | On the corpse of an executed [地底侏儒](Deep_Gnome.md "Deep Gnome"), at the entrance of the [破败村落](Decrepit_Village.md "Decrepit Village"), if approaching from the Myconid Colony | [幽暗地域](Underdark.md "Underdark") |
 X: 73 Y: -187
 [自治头盔](Helmet_of_Autonomy.md "Helmet of Autonomy")
 |
 
-- [熟练项](Proficiency.md "Proficiency") in [感知](Wisdom.md "Wisdom") [Saving throws](Saving_throw.md "Saving throw")
+- [熟练项](Proficiency.md "Proficiency") in [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "豁免检定")
 
 | On a skeleton at the entrance to [溃烂洞穴](The_Festering_Cove.md "The Festering Cove") | [幽暗地域](Underdark.md "Underdark") |
 X: 82 Y: -241
@@ -1089,9 +1089,9 @@ X: 82 Y: -241
 
 ## 复仇之炉
 
-- While [Obscured](Obscured.md "Obscured") by shadow, the wearer gains +1 to [Saving throws](Saving_throw.md "Saving throw") when attacked._\[[See: Bugs](Swathed_in_Shadow.md#Bugs "Swathed in Shadow")\]_
+- While [遮蔽](Obscured.md "遮蔽") by shadow, the wearer gains +1 to [豁免检定](Saving_throw.md "豁免检定") when attacked._\[阴影笼罩](Swathed_in_Shadow.md#Bugs "Swathed in Shadow")\]_
 
-- [体质](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1
+- [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "豁免检定") +1
 
 | On the skeletal remains of Dark Justiciars, north east of the _Underdark - Ancient Forge_ waypoint and south of the heavy splint mold | [被弃避难所](Abandoned_Refuge.md "Abandoned Refuge") |
 X: -595 Y: 310
@@ -1104,49 +1104,49 @@ X: -595 Y: 310
 X: -606 Y: 282
 | Item Name | Item Effect | Where to Find | Location |
 | --- | --- | --- | --- |
-| Dark Justiciar Helm | While [Obscured](Obscured.md "Obscured") by shadow, the wearer gains +1 to [Saving throws](Saving_throw.md "Saving throw") when attacked.[[See: Bugs](Swathed_in_Shadow#Bugs.md#Bugs "Swathed in Shadow")] [体质](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1 | On the skeletal remains of Dark Justiciars, north east of the Underdark - Ancient Forge waypoint and south of the heavy splint mold | [被弃避难所](Abandoned_Refuge.md "Abandoned Refuge") X: -595 Y: 310 |
+| Dark Justiciar Helm | While [遮蔽](Obscured.md "遮蔽") by shadow, the wearer gains +1 to [豁免检定](Saving_throw.md "豁免检定") when attacked.[[See: Bugs](Swathed_in_Shadow#Bugs.md#Bugs "Swathed in Shadow")] [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "豁免检定") +1 | On the skeletal remains of Dark Justiciars, north east of the Underdark - Ancient Forge waypoint and south of the heavy splint mold | [被弃避难所](Abandoned_Refuge.md "Abandoned Refuge") X: -595 Y: 310 |
 | Dark Justiciar Mask | [威吓](Intimidation.md "Intimidation") +1 | On a skeleton near the Ancient Forge [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") | [被弃避难所](Abandoned_Refuge.md "Abandoned Refuge") X: -606 Y: 282 |
-| Sentient Amulet | [粉碎音波](Shatter.md "Shatter") Cast as a level 2 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) [与活体护符交谈](Talk_to_the_Sentient_Amulet.md "Talk to the Sentient Amulet") Speak with the consciousness lingering inside the Sentient Amulet. [回气](Ki_Restoration_(Lesser).md "Ki Restoration (Lesser)") Using the spiritual energy in the amulet, you restore 2 [Ki Points](Ki_Point.md "Ki Point"). ( Recharge: [Long rest](Long_Rest.md "Long rest").) Wearing this amulet applies the condition: [High Spirits](High_Spirits_(Condition).md "High Spirits (Condition)") The amulet's spirit lingers, making everything seem a little more vibrant. Must succeed a [感知](Wisdom.md "Wisdom") [Saving throw](Saving_throw.md "Saving throw") ([难度等级](Difficulty_Class.md "Difficulty Class") 10/15, see notes) when using the amulet's power, or become [Hysterical](Hysterical_(Condition).md "Hysterical (Condition)") (equivalent in effect to [塔莎狂笑术](Tasha's_Hideous_Laughter.md "Tasha's Hideous Laughter") with a duration of 1 turn). | In a locked [精金箱子](Adamantine_Chest.md "Adamantine Chest") on the island with the broken structure near the [岩浆元素](Lava_Elemental.md "Lava Elemental") in [复仇之炉](Grymforge.md "Grymforge") | [被弃避难所](Abandoned_Refuge.md "Abandoned Refuge") X: -624 Y: 224 |
-| Adamantine Scale Mail | All incoming damage is reduced by 1 When a melee attack hits you, the attacker is sent [手酸臂软](Reeling_(Condition).md "Reeling (Condition)") for 2 turns. Attackers can't land [Critical Hits](Critical_Hit.md "Critical Hit") on the wearer. | Forged from a [鳞甲模具](Scale_Mail_Mould.md "Scale Mail Mould") and [秘银矿石](Mithral_Ore.md "Mithral Ore") | [精金熔炉](Adamantine_Forge.md "Adamantine Forge") X: -558 Y: 230 |
+| Sentient Amulet | [粉碎音波](Shatter.md "Shatter") Cast as a level 2 spell ( Recharge: [休息](Short_rest.md "休息").) [与活体护符交谈](Talk_to_the_Sentient_Amulet.md "Talk to the Sentient Amulet") Speak with the consciousness lingering inside the Sentient Amulet. [回气](Ki_Restoration_(Lesser).md "Ki Restoration (Lesser)") Using the spiritual energy in the amulet, you restore 2 [气点](Ki_Point.md "气点"). ( Recharge: [休息](Long_Rest.md "休息").) Wearing this amulet applies the condition: [High Spirits](High_Spirits_(Condition).md "High Spirits (Condition)") The amulet's spirit lingers, making everything seem a little more vibrant. Must succeed a [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "豁免检定") ([难度等级](Difficulty_Class.md "Difficulty Class") 10/15, see notes) when using the amulet's power, or become [Hysterical](Hysterical_(Condition).md "Hysterical (Condition)") (equivalent in effect to [塔莎狂笑术](Tasha's_Hideous_Laughter.md "Tasha's Hideous Laughter") with a duration of 1 turn). | In a locked [精金箱子](Adamantine_Chest.md "Adamantine Chest") on the island with the broken structure near the [岩浆元素](Lava_Elemental.md "Lava Elemental") in [复仇之炉](Grymforge.md "Grymforge") | [被弃避难所](Abandoned_Refuge.md "Abandoned Refuge") X: -624 Y: 224 |
+| Adamantine Scale Mail | All incoming damage is reduced by 1 When a melee attack hits you, the attacker is sent [手酸臂软](Reeling_(Condition).md "Reeling (Condition)") for 2 turns. Attackers can't land [重击](Critical_Hit.md "重击") on the wearer. | Forged from a [鳞甲模具](Scale_Mail_Mould.md "Scale Mail Mould") and [秘银矿石](Mithral_Ore.md "Mithral Ore") | [精金熔炉](Adamantine_Forge.md "Adamantine Forge") X: -558 Y: 230 |
 | Intransigent Warhammer | Knocks nearby creatures [倒伏](Prone_(Condition).md "Prone (Condition)") after killing a target or landing a [重击](Critical_Hit.md "Critical Hit"). | In a [防水箱子](Watertight_Chest.md "Watertight Chest") on a duergar skiff during the first voyage to [复仇之炉](Grymforge.md "Grymforge") from the [破败村落](Decrepit_Village.md "Decrepit Village") | [复仇之炉](Grymforge.md "Grymforge") X: -447 Y: -525 |
-| Merregon Halberd |  | Carried by a [军团魔步兵](Merregon_Legionnaire.md "Merregon Legionnaire") in the hallway with the [Hellsboars](Hellsboar.md "Hellsboar") | [复仇之炉](Grymforge.md "Grymforge") X: -574 Y: 377 |
-| Firestoker | Deals an additional 1d4⁠⁠[Weapon](Weapon.md "Weapon") damage to [燃烧](Burning_(Condition).md "Burning (Condition)") targets. | In an opulent chest in the Dormitory room with the [Hellsboars](Hellsboar.md "Hellsboar") | [复仇之炉](Grymforge.md "Grymforge") X: -574 Y: 382 |
+| Merregon Halberd |  | Carried by a [军团魔步兵](Merregon_Legionnaire.md "Merregon Legionnaire") in the hallway with the [地狱野猪](Hellsboar.md "地狱野猪") | [复仇之炉](Grymforge.md "Grymforge") X: -574 Y: 377 |
+| Firestoker | Deals an additional 1d4⁠⁠[Weapon](Weapon.md "Weapon") damage to [燃烧](Burning_(Condition).md "Burning (Condition)") targets. | In an opulent chest in the Dormitory room with the [地狱野猪](Hellsboar.md "地狱野猪") | [复仇之炉](Grymforge.md "Grymforge") X: -574 Y: 382 |
 | Merregon Halberd |  | Laying around the [Crumbling Island](Abandoned_Refuge#Landmarks.md#Landmarks "Abandoned Refuge") | [复仇之炉](Grymforge.md "Grymforge") X: -601 Y: 199 |
-| Dark Justiciar Mail | While Obscured by shadow, the wearer deals 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic") to attackers that hit them with a melee attack. | On a skeleton south of the Ancient Forge [Ancient Rune Circle](Ancient_Rune_Circle.md "Ancient Rune Circle") | [复仇之炉](Grymforge.md "Grymforge") X: -609 Y: -246 |
-| Fetish of Callarduran Smoothhands | [隐形](Invisibility_(spell).md "Invisibility (spell)") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | On one of the dead [deep gnomes](Deep_Gnome.md "Deep gnome") that a pair of duergar are throwing into the lake | [复仇之炉](Grymforge.md "Grymforge") X: -610 Y: 408 |
+| Dark Justiciar Mail | While Obscured by shadow, the wearer deals 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic") to attackers that hit them with a melee attack. | On a skeleton south of the Ancient Forge [上古符文法阵](Ancient_Rune_Circle.md "上古符文法阵") | [复仇之炉](Grymforge.md "Grymforge") X: -609 Y: -246 |
+| Fetish of Callarduran Smoothhands | [隐形](Invisibility_(spell).md "Invisibility (spell)") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | On one of the dead [侏儒](Deep_Gnome.md "侏儒") that a pair of duergar are throwing into the lake | [复仇之炉](Grymforge.md "Grymforge") X: -610 Y: 408 |
 | Cap of Wrath | During combat, when the wearer starts their turn with 50% [生命值](Hit_Points.md "Hit Points") or less, they gain [怒火](Wrath_(Condition).md "Wrath (Condition)") for 2 turns. | Carried by [萨德](Thudd.md "Thudd") | [复仇之炉](Grymforge.md "Grymforge") X: -617 Y: 320 |
 | Armour of Uninhibited Kushigo | [库席戈还击](Kushigo_Counter.md "Kushigo Counter") While [坚强防御](Patient_Defence_(Condition).md "Patient Defence (Condition)") is active: the wearer can use their reaction to make an unarmed strike against any attacker that misses. | Rewarded by [军士长斯林](Elenna_Thrinn.md "Elenna Thrinn") after returning her boots in the quest ⁠[找到丢失的靴子](Find_the_Missing_Boots.md "Find the Missing Boots") | [复仇之炉](Grymforge.md "Grymforge") X: -628 Y: 320 |
 | Bracing Band | After shoving an enemy[[See Notes](Personal_Space#Notes.md#Notes "Personal Space")], the wearer gains a +1 to their [护甲等级](Armour_Class.md "Armour Class") until their next turn. | Rewarded by [军士长斯林](Elenna_Thrinn.md "Elenna Thrinn") after returning her boots in the quest [找到丢失的靴子](Find_the_Missing_Boots.md "Find the Missing Boots") | [复仇之炉](Grymforge.md "Grymforge") X: -628 Y: 320 |
-| Ring of Absolute Force | If the wearer bears the [Absolute's Brand](Brand_of_the_Absolute.md "Brand of the Absolute"), they deal 1 additional Thunder damage with Thunder damage spells and attacks. [雷鸣波](Thunderwave.md "Thunderwave") Cast as a level 1 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [军士长斯林](Elenna_Thrinn.md "Elenna Thrinn") | [复仇之炉](Grymforge.md "Grymforge") X: -628 Y: 320 |
+| Ring of Absolute Force | If the wearer bears the [Absolute's Brand](Brand_of_the_Absolute.md "Brand of the Absolute"), they deal 1 additional Thunder damage with Thunder damage spells and attacks. [雷鸣波](Thunderwave.md "Thunderwave") Cast as a level 1 spell ( Recharge: [休息](Short_rest.md "休息").) | Carried by [军士长斯林](Elenna_Thrinn.md "Elenna Thrinn") | [复仇之炉](Grymforge.md "Grymforge") X: -628 Y: 320 |
 | Deep Delver | Inflicts [Shattered](Shattered_(Condition).md "Shattered (Condition)") on hit. | Carried by [布利斯瓦尔长老](Brithvar.md "Brithvar") | [复仇之炉](Grymforge.md "Grymforge") X: -631 Y: 326 |
 | Merregon Halberd |  | Laying around the [Crumbling Island](Abandoned_Refuge#Landmarks.md#Landmarks "Abandoned Refuge") | [复仇之炉](Grymforge.md "Grymforge") X: -643 Y: 215 |
-| The Protecty Sparkswall | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"). The wearer has +1 to [护甲等级](Armour_Class.md "Armour Class") and [Saving throws](Saving_throw.md "Saving throw") as long as they have [闪电充能](Lightning_Charges_(Condition).md "Lightning Charges (Condition)"). | In a gilded chest at the end of the trapped bridge | [复仇之炉](Grymforge.md "Grymforge") X: -645 Y: 360 |
-| Dark Justiciar Mail | While Obscured by shadow, the wearer deals 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic") to attackers that hit them with a melee attack. | On a skeleton north of the Underdark - Grymforge [Ancient Rune Circle](Ancient_Rune_Circle.md "Ancient Rune Circle") | [复仇之炉](Grymforge.md "Grymforge") X: -655 Y: 424 |
+| The Protecty Sparkswall | You gain a +1 bonus to [掷骰](Spell_save_DC.md "掷骰"). The wearer has +1 to [护甲等级](Armour_Class.md "Armour Class") and [豁免检定](Saving_throw.md "豁免检定") as long as they have [闪电充能](Lightning_Charges_(Condition).md "Lightning Charges (Condition)"). | In a gilded chest at the end of the trapped bridge | [复仇之炉](Grymforge.md "Grymforge") X: -645 Y: 360 |
+| Dark Justiciar Mail | While Obscured by shadow, the wearer deals 1d4⁠⁠[黯蚀](Necrotic.md "Necrotic") to attackers that hit them with a melee attack. | On a skeleton north of the Underdark - Grymforge [上古符文法阵](Ancient_Rune_Circle.md "上古符文法阵") | [复仇之炉](Grymforge.md "Grymforge") X: -655 Y: 424 |
 | Sharran Crossbow |  | in a locked chest behind 2 archery targets | [复仇之炉](Grymforge.md "Grymforge") X: -677 Y: 398 |
 | Wondrous Gloves | Your [护甲等级](Armour_Class.md "Armour Class") increases by 1. In addition, if you have [诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)"), you gain 1 more use of it. | Carried by a [拟形怪](Mimic.md "Mimic") near the [harper cache](Grymforge#Hidden_treasure.md#Hidden_treasure "Grymforge") | [复仇之炉](Grymforge.md "Grymforge") X: -691 Y: 374 |
-| The Real Sparky Sparkswall | [闪电灵光](Lightning_Aura.md "Lightning Aura") Consume 3 [闪电充能](Lightning_Charges_(Condition).md "Lightning Charges (Condition)") and release a blast of electricity that damages and [触电](Jolted_(Condition).md "Jolted (Condition)") nearby enemies. ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a locked and trapped chest | [复仇之炉](Grymforge.md "Grymforge") X: -695 Y: 420 |
+| The Real Sparky Sparkswall | [闪电灵光](Lightning_Aura.md "Lightning Aura") Consume 3 [闪电充能](Lightning_Charges_(Condition).md "Lightning Charges (Condition)") and release a blast of electricity that damages and [触电](Jolted_(Condition).md "Jolted (Condition)") nearby enemies. ( Recharge: [休息](Long_Rest.md "休息").) | In a locked and trapped chest | [复仇之炉](Grymforge.md "Grymforge") X: -695 Y: 420 |
 | Sword of Screams |  | Carried by [尼讷](Nere.md "Nere") near the cave-in in the main forge area | [复仇之炉](Grymforge.md "Grymforge") X: -854 Y: -780 |
-| Disintegrating Night Walkers | The affected creature cannot be [网缚](Enwebbed_(Condition).md "Enwebbed (Condition)"), [缠绕](Entangled_(Condition).md "Entangled (Condition)"), or [诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "Ensnared (Ensnaring Strike) (Condition)") and cannot slip on [油脂](Grease_(surface).md "Grease (surface)") or [冰](Ice_(surface).md "Ice (surface)"). [迷踪步](Misty_Step.md "Misty Step") Cast as a level 2 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Worn by [尼讷](Nere.md "Nere") | [复仇之炉](Grymforge.md "Grymforge") X: -854 Y: 780 |
+| Disintegrating Night Walkers | The affected creature cannot be [网缚](Enwebbed_(Condition).md "Enwebbed (Condition)"), [缠绕](Entangled_(Condition).md "Entangled (Condition)"), or [诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "Ensnared (Ensnaring Strike) (Condition)") and cannot slip on [油脂](Grease_(surface).md "Grease (surface)") or [冰](Ice_(surface).md "Ice (surface)"). [迷踪步](Misty_Step.md "Misty Step") Cast as a level 2 spell ( Recharge: [休息](Short_rest.md "休息").) | Worn by [尼讷](Nere.md "Nere") | [复仇之炉](Grymforge.md "Grymforge") X: -854 Y: 780 |
 
 ## 瑰晨修道院小径
 
 [洛山达之血](The_Blood_of_Lathander.md "The Blood of Lathander")
 |
 
-- Once per [长休](Long_Rest.md "Long Rest"), when your hit points are reduced to 0, you regain 2d6⁠⁠[hit points](Healing.md "Healing"). Allies within 9 m / 30 ft also regain 1d6⁠⁠[hit points](Healing.md "Healing").
-- Sheds holy light in a 6 m / 20 ft radius. In combat, [fiends](Fiends.md "Fiends") and [undead](Undead.md "Undead") standing in the light are [目盲](Blinded_(Condition).md "Blinded (Condition)") if they fail a DC 14 Constitution throw.
+- Once per [长休](Long_Rest.md "Long Rest"), when your hit points are reduced to 0, you regain 2d6⁠⁠[治疗](Healing.md "治疗"). Allies within 9 m / 30 ft also regain 1d6⁠⁠[治疗](Healing.md "治疗").
+- Sheds holy light in a 6 m / 20 ft radius. In combat, [邪魔](Fiends.md "邪魔") and [不死生物](Undead.md "不死生物") standing in the light are [目盲](Blinded_(Condition).md "Blinded (Condition)") if they fail a DC 14 Constitution throw.
 
 [阳炎射线](Sunbeam.md "Sunbeam")
-Cast as a level 6 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 6 spell (Recharge: [休息](Long_Rest.md "休息").)
 | On a locked altar in the [隐蔽房间](Secret_Chamber.md "Secret Chamber") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1068 Y: -779
 [异怪猎人护符](Aberration_Hunters'_Amulet.md "Aberration Hunters' Amulet")
 |
 
-- A [githyanki](Githyanki.md "Githyanki") wearing this amulet has [优势](Advantage.md "Advantage") on Intelligence [Saving throws](Saving_throw.md "Saving throw"). [Aberrations](Aberration.md "Aberration") also have [劣势](Disadvantage.md "Disadvantage") on [Attack rolls](Attack_roll.md "Attack roll") against them.
+- A [吉斯洋基人](Githyanki.md "吉斯洋基人") wearing this amulet has [优势](Advantage.md "Advantage") on Intelligence [豁免检定](Saving_throw.md "豁免检定"). [异怪](Aberration.md "异怪") also have [劣势](Disadvantage.md "Disadvantage") on [攻击](Attack_roll.md "攻击") against them.
 
 [长年怀恨](Ancient_Grudges.md "Ancient Grudges")
-Touch your amulet to subsume a sliver of the knowledge of the gith. You gain [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack Rolls") against [aberrations](List_of_creature_types.md#Aberration "List of Creature Types"). (Recharge: [Short rest](Short_rest.md "Short rest").)
+Touch your amulet to subsume a sliver of the knowledge of the gith. You gain [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack Rolls") against [生物类型列表](List_of_creature_types.md#Aberration "List of Creature Types"). (Recharge: [休息](Short_rest.md "休息").)
 | Carried by [医疗官斯托努苟斯](Stornugoss.md "Stornugoss") in the Doctor's Office, west of the Infirmary | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1285 Y: -801
 [养育官寇库的靴子](Varsh_Ko'kuu's_Boots.md "Varsh Ko'kuu's Boots")
@@ -1154,14 +1154,14 @@ X: 1285 Y: -801
 
 - [Acidic](Acid_(surface).md "Acid (surface)") surfaces don't affect you, and you are [抗性](Resistant.md "Resistant") to ⁠[强酸](Acid.md "Acid") damage.
 
-| Acquired from [养育官寇库](Ko'kuu.md "Ko'kuu") in the [Hatchery](Crèche_Y'llek.md#Hatchery "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
+| Acquired from [养育官寇库](Ko'kuu.md "Ko'kuu") in the [伊雷珂养育间](Crèche_Y'llek.md#Hatchery "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1288 Y: -759
 [元素注能戒指](Ring_of_Elemental_Infusion.md "Ring of Elemental Infusion")
 |
 
 - When you deal ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[雷鸣](Thunder.md "Thunder") damage using a [法术](Spell.md "Spell") or a [戏法](Cantrip.md "Cantrip"), that element infuses your weapon. Until the end of your next turn, you deal an additional **1d4** damage of that element on your first successful weapon attack.
 
-| Worn by [Gish Umr'a'ac](Umr'a'ac.md "Umr'a'ac") in the southern section of the Infirmary | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
+| Worn by [乌姆拉克](Umr'a'ac.md "乌姆拉克") in the southern section of the Infirmary | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1303 Y: -798
 [白霜之靴](Hoarfrost_Boots.md "Hoarfrost Boots")
 |
@@ -1187,21 +1187,21 @@ X: 1359 Y: -831
 [奇异通道之戒](Strange_Conduit_Ring.md "Strange Conduit Ring")
 |
 
-- When [Concentrating](Concentration.md "Concentration") on a spell, the wearer's weapon attacks deal an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage.
+- When [专注](Concentration.md "专注") on a spell, the wearer's weapon attacks deal an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage.
 
 | Inside an elegant chest in the [审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1360 Y: -657
 [奥术协同王冠](Diadem_of_Arcane_Synergy.md "Diadem of Arcane Synergy")
 |
 
-- When you inflict a condition, gain [奥术协同](Arcane_Synergy_(Condition).md "Arcane Synergy (Condition)") for 2 turns._\[[See: Bugs](Synergetic_Moments.md#Bugs "Synergetic Moments")\]_
+- When you inflict a condition, gain [奥术协同](Arcane_Synergy_(Condition).md "Arcane Synergy (Condition)") for 2 turns._\[协同时刻](Synergetic_Moments.md#Bugs "Synergetic Moments")\]_
 
 | Carried by [炽念者吉'瑞萨斯](Jhe'rezath.md "Jhe'rezath") in the [审判官的房间](Creche_Y'llek.md#Inquisitor's_Chamber "Creche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1365 Y: -663
 [元素强化项链](Necklace_of_Elemental_Augmentation.md "Necklace of Elemental Augmentation")
 |
 
-- When one of your [cantrips](List_of_cantrips.md "List of cantrips") deals ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[雷鸣](Thunder.md "Thunder") damage, add your [施法调整值](Spellcasting_Modifier.md "Spellcasting Modifier") to the damage dealt.
+- When one of your [戏法列表](List_of_cantrips.md "戏法列表") deals ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[雷鸣](Thunder.md "Thunder") damage, add your [施法调整值](Spellcasting_Modifier.md "Spellcasting Modifier") to the damage dealt.
 
 | Inside a display case in the [审判官的房间](Crèche_Y'llek.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1379 Y: -662
@@ -1218,26 +1218,26 @@ X: 1380 Y: -798
 |
 
 [剃刀狂风](Razor_Gale.md "Razor Gale")
-Swing your weapon in a cyclone of steel that deals razorblade-sharp damage to all enemies within range. (Recharge: [Short rest](Short_rest.md "Short rest").)
+Swing your weapon in a cyclone of steel that deals razorblade-sharp damage to all enemies within range. (Recharge: [休息](Short_rest.md "休息").)
 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [隐形威胁](Unseen_Menace.md "Unseen Menace")
 |
 
-- This weapon is [隐形](Invisible_Weapon_(Condition).md "Invisible Weapon (Condition)") while equipped. It has [优势](Advantage.md "Advantage") on [Attack rolls](Attack_roll.md "Attack roll"). It loses this property for 2 rounds on a missed [Attack roll](Attack_roll.md "Attack roll"). The weapon also scores a [critical hit](Critical_Hit.md "Critical hit") when rolling a 19.
+- This weapon is [隐形](Invisible_Weapon_(Condition).md "Invisible Weapon (Condition)") while equipped. It has [优势](Advantage.md "Advantage") on [攻击](Attack_roll.md "攻击"). It loses this property for 2 rounds on a missed [攻击](Attack_roll.md "攻击"). The weapon also scores a [重击](Critical_Hit.md "重击") when rolling a 19.
 
 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [巫术破除](Witchbreaker.md "Witchbreaker")
 |
 
-- You gain [优势](Advantage.md "Advantage") on [Attack rolls](Attack_roll.md "Attack roll") against [concentrating](Concentration.md "Concentration") creatures.
+- You gain [优势](Advantage.md "Advantage") on [攻击](Attack_roll.md "攻击") against [专注](Concentration.md "专注") creatures.
 
-[Hush You!](Hush_You!.md "Hush You!")
-Slash a target and possibly [沉默术](Silenced_(Condition).md "Silenced (Condition)") it. (Recharge: [Short rest](Short_rest.md "Short rest").)
+[嘘！静默！](Hush_You!.md "嘘！静默！")
+Slash a target and possibly [沉默术](Silenced_(Condition).md "Silenced (Condition)") it. (Recharge: [休息](Short_rest.md "休息").)
 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
-[Knife of the Undermountain King](Knife_of_the_Undermountain_King.md "Knife of the Undermountain King")
+[国王匕首](Knife_of_the_Undermountain_King.md "国王匕首")
 |
 
 - Reduce the number you need to roll a [重击](Critical_Hit.md "Critical Hit") while attacking by 1. This effect can stack. When you roll 2 damage or less, reroll the dice, taking the highest result.
@@ -1249,14 +1249,14 @@ X: 1380 Y: -798
 |
 
 [标点弱点](Brand_the_Weak.md "Brand the Weak")
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+Cast as a level 1 spell (Recharge: [休息](Long_Rest.md "休息").)
 | Carried by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [蛮勇手套](Daredevil_Gloves.md "Daredevil Gloves")
 |
 
-- The wearer gains a +1 bonus to [Spell Attack Rolls](Spell_Attack_Roll.md "Spell Attack Roll").
-- Your Ranged [Spell Attacks](Spell_Attack.md "Spell Attack") are made as melee spell attacks when you are adjacent to a hostile creature. This effect can be toggled off.
+- The wearer gains a +1 bonus to [攻击](Spell_Attack_Roll.md "攻击").
+- Your Ranged [攻击](Spell_Attack.md "攻击") are made as melee spell attacks when you are adjacent to a hostile creature. This effect can be toggled off.
 
 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
@@ -1264,14 +1264,14 @@ X: 1380 Y: -798
 |
 
 - Set the wearer's [敏捷](Dexterity.md "Dexterity") score to 18. The enchantment has no effect if their Dexterity score is higher without it.
-- [Attack rolls](Attacks.md#Attack_rolls "Attacks") +1
+- [攻击](Attacks.md#Attack_rolls "Attacks") +1
 
 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1380 Y: -798
 [生命通道之靴](Vital_Conduit_Boots.md "Vital Conduit Boots")
 |
 
-- Grants the wearer 8 [temporary hit points](Temporary_Hit_Points.md "Temporary Hit Points") when they cast a [法术](Spell.md "Spell") that requires [专注](Concentration.md "Concentration").
+- Grants the wearer 8 [生命值](Temporary_Hit_Points.md "生命值") when they cast a [法术](Spell.md "Spell") that requires [专注](Concentration.md "Concentration").
 
 - [运动](Athletics.md "Athletics") +1
 
@@ -1287,7 +1287,7 @@ X: 1383 Y: -659
 [异能复仇饰环](Circlet_of_Psionic_Revenge.md "Circlet of Psionic Revenge")
 |
 
-- When you succeed a [Saving throw](Saving_throw.md "Saving throw"), the foe that caused the throw takes 1d4⁠⁠[心灵](Psychic.md "Psychic"). [吉斯洋基人](Githyanki.md "Githyanki") also gain a +1 bonus to [智力](Intelligence.md "Intelligence"), [感知](Wisdom.md "Wisdom"), and [魅力](Charisma.md "Charisma") [Saving throws](Saving_throw.md "Saving throw").
+- When you succeed a [豁免检定](Saving_throw.md "豁免检定"), the foe that caused the throw takes 1d4⁠⁠[心灵](Psychic.md "Psychic"). [吉斯洋基人](Githyanki.md "Githyanki") also gain a +1 bonus to [智力](Intelligence.md "Intelligence"), [感知](Wisdom.md "Wisdom"), and [魅力](Charisma.md "Charisma") [豁免检定](Saving_throw.md "豁免检定").
 
 | Carried by Githyanki Inquisitor [审判官瓦尔'戈兹](W'wargaz.md "W'wargaz") in the Inquisitor's Chamber | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1392 Y: -752
@@ -1295,54 +1295,54 @@ X: 1392 Y: -752
 |
 
 [奥术弹药](Arcane_Ammunition.md "Arcane Ammunition")
-Infuse your crossbow bolts with arcane energy. Your ranged weapon attacks deal an additional 1d4⁠⁠[力场](Force.md "Force") damage. (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Carried by [Raider G'r'ath](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") [waypoint](Ancient_Sigil_Circle.md "Ancient Sigil Circle") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
+Infuse your crossbow bolts with arcane energy. Your ranged weapon attacks deal an additional 1d4⁠⁠[力场](Force.md "Force") damage. (Recharge: [休息](Short_rest.md "休息").)
+| Carried by [Raider G'r'ath](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1396 Y: -839
 [碎魂者巨剑](Soulbreaker_Greatsword.md "Soulbreaker Greatsword")
 |
 
-- When wielded by a [githyanki](Githyanki.md "Githyanki") this weapon deals an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage.
-- You gain a +2 bonus to [Initiative rolls](Initiative.md "Initiative").
+- When wielded by a [吉斯洋基人](Githyanki.md "吉斯洋基人") this weapon deals an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage.
+- You gain a +2 bonus to [先攻](Initiative.md "先攻").
 
 [碎魂者](Soulbreaker.md "Soulbreaker")
 | Item Name | Item Effect | Where to Find | Location |
 | --- | --- | --- | --- |
 | Githyanki Shortsword |  | Carried by numerous [吉斯洋基人](Githyanki.md "Githyanki") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
-| The Blood of Lathander | Once per [长休](Long_Rest.md "Long Rest"), when your hit points are reduced to 0, you regain 2d6⁠⁠[hit points](Healing.md "Healing"). Allies within 9 m / 30 ft also regain 1d6⁠⁠[hit points](Healing.md "Healing"). Sheds holy light in a 6 m / 20 ft radius. In combat, [fiends](Fiends.md "Fiends") and [undead](Undead.md "Undead") standing in the light are [目盲](Blinded_(Condition).md "Blinded (Condition)") if they fail a DC 14 Constitution throw. [阳炎射线](Sunbeam.md "Sunbeam") Cast as a level 6 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | On a locked altar in the [隐蔽房间](Secret_Chamber.md "Secret Chamber") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1068 Y: -779 |
-| Aberration Hunters' Amulet | A [githyanki](Githyanki.md "Githyanki") wearing this amulet has [优势](Advantage.md "Advantage") on Intelligence [Saving throws](Saving_throw.md "Saving throw"). [Aberrations](Aberration.md "Aberration") also have [劣势](Disadvantage.md "Disadvantage") on [Attack rolls](Attack_roll.md "Attack roll") against them. [长年怀恨](Ancient_Grudges.md "Ancient Grudges") Touch your amulet to subsume a sliver of the knowledge of the gith. You gain [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack Rolls") against [aberrations](List_of_Creature_Types#Aberration.md#Aberration "List of Creature Types"). ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [医疗官斯托努苟斯](Stornugoss.md "Stornugoss") in the Doctor's Office, west of the Infirmary | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1285 Y: -801 |
+| The Blood of Lathander | Once per [长休](Long_Rest.md "Long Rest"), when your hit points are reduced to 0, you regain 2d6⁠⁠[治疗](Healing.md "治疗"). Allies within 9 m / 30 ft also regain 1d6⁠⁠[治疗](Healing.md "治疗"). Sheds holy light in a 6 m / 20 ft radius. In combat, [邪魔](Fiends.md "邪魔") and [不死生物](Undead.md "不死生物") standing in the light are [目盲](Blinded_(Condition).md "Blinded (Condition)") if they fail a DC 14 Constitution throw. [阳炎射线](Sunbeam.md "Sunbeam") Cast as a level 6 spell ( Recharge: [休息](Long_Rest.md "休息").) | On a locked altar in the [隐蔽房间](Secret_Chamber.md "Secret Chamber") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1068 Y: -779 |
+| Aberration Hunters' Amulet | A [吉斯洋基人](Githyanki.md "吉斯洋基人") wearing this amulet has [优势](Advantage.md "Advantage") on Intelligence [豁免检定](Saving_throw.md "豁免检定"). [异怪](Aberration.md "异怪") also have [劣势](Disadvantage.md "Disadvantage") on [攻击](Attack_roll.md "攻击") against them. [长年怀恨](Ancient_Grudges.md "Ancient Grudges") Touch your amulet to subsume a sliver of the knowledge of the gith. You gain [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_rolls.md "Attack Rolls") against [aberrations](List_of_Creature_Types#Aberration.md#Aberration "List of Creature Types"). ( Recharge: [休息](Short_rest.md "休息").) | Carried by [医疗官斯托努苟斯](Stornugoss.md "Stornugoss") in the Doctor's Office, west of the Infirmary | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1285 Y: -801 |
 | Varsh Ko'kuu's Boots | [Acidic](Acid_(surface).md "Acid (surface)") surfaces don't affect you, and you are [抗性](Resistant.md "Resistant") to ⁠[强酸](Acid.md "Acid") damage. | Acquired from [养育官寇库](Ko'kuu.md "Ko'kuu") in the [Hatchery](Crèche_Y'llek#Hatchery.md#Hatchery "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1288 Y: -759 |
-| Ring of Elemental Infusion | When you deal ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[雷鸣](Thunder.md "Thunder") damage using a [法术](Spell.md "Spell") or a [戏法](Cantrip.md "Cantrip"), that element infuses your weapon. Until the end of your next turn, you deal an additional 1d4 damage of that element on your first successful weapon attack. | Worn by [Gish Umr'a'ac](Umr'a'ac.md "Umr'a'ac") in the southern section of the Infirmary | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1303 Y: -798 |
+| Ring of Elemental Infusion | When you deal ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[雷鸣](Thunder.md "Thunder") damage using a [法术](Spell.md "Spell") or a [戏法](Cantrip.md "Cantrip"), that element infuses your weapon. Until the end of your next turn, you deal an additional 1d4 damage of that element on your first successful weapon attack. | Worn by [乌姆拉克](Umr'a'ac.md "乌姆拉克") in the southern section of the Infirmary | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1303 Y: -798 |
 | Hoarfrost Boots | You cannot fall [倒伏](Prone_(Condition).md "Prone (Condition)") while traversing [Icy](Ice_(surface).md "Ice (surface)") terrain. | Inside a display case in the [审判官的房间](Crèche_Y'llek#Inquisitor's_Chamber.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1335 Y: -660 |
 | Gloves of Belligerent Skies | When the wearer deals ⁠[雷鸣](Thunder.md "Thunder"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[光耀](Radiant.md "Radiant") damage, inflict 2 turns of [残响](Reverberation_(Condition).md "Reverberation (Condition)") upon the target(s). | In an elegant chest in the [审判官的房间](Crèche_Y'llek#Inquisitor's_Chamber.md#Inquisitor's_Chamber "Crèche Y'llek"), along the southern wall of the room, on the western side | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1348 Y: -677 |
 | Ring of Arcane Synergy | When you deal damage with a [戏法](Cantrip.md "Cantrip"), you gain [奥术协同](Arcane_Synergy_(Condition).md "Arcane Synergy (Condition)") for 2 turns. | Worn by [熟手法'拉格](Far'aag.md "Far'aag") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1359 Y: -831 |
-| Strange Conduit Ring | When [Concentrating](Concentration.md "Concentration") on a spell, the wearer's weapon attacks deal an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage. | Inside an elegant chest in the [审判官的房间](Crèche_Y'llek#Inquisitor's_Chamber.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1360 Y: -657 |
+| Strange Conduit Ring | When [专注](Concentration.md "专注") on a spell, the wearer's weapon attacks deal an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage. | Inside an elegant chest in the [审判官的房间](Crèche_Y'llek#Inquisitor's_Chamber.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1360 Y: -657 |
 | Diadem of Arcane Synergy | When you inflict a condition, gain [奥术协同](Arcane_Synergy_(Condition).md "Arcane Synergy (Condition)") for 2 turns.[[See: Bugs](Synergetic_Moments#Bugs.md#Bugs "Synergetic Moments")] | Carried by [炽念者吉'瑞萨斯](Jhe'rezath.md "Jhe'rezath") in the [审判官的房间](Creche_Y'llek#Inquisitor's_Chamber.md#Inquisitor's_Chamber "Creche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1365 Y: -663 |
-| Necklace of Elemental Augmentation | When one of your [cantrips](List_of_cantrips.md "List of cantrips") deals ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[雷鸣](Thunder.md "Thunder") damage, add your [施法调整值](Spellcasting_Modifier.md "Spellcasting Modifier") to the damage dealt. | Inside a display case in the [审判官的房间](Crèche_Y'llek#Inquisitor's_Chamber.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1379 Y: -662 |
+| Necklace of Elemental Augmentation | When one of your [戏法列表](List_of_cantrips.md "戏法列表") deals ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning"), or ⁠[雷鸣](Thunder.md "Thunder") damage, add your [施法调整值](Spellcasting_Modifier.md "Spellcasting Modifier") to the damage dealt. | Inside a display case in the [审判官的房间](Crèche_Y'llek#Inquisitor's_Chamber.md#Inquisitor's_Chamber "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1379 Y: -662 |
 | Defender Flail | Reduce incoming ⁠[钝击](Bludgeoning.md "Bludgeoning"), ⁠[穿刺](Piercing.md "Piercing"), and ⁠[挥砍](Slashing.md "Slashing") damage by 1. [护甲等级](Armour_Class.md "Armour Class") +1 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
-| Larethian's Wrath | [剃刀狂风](Razor_Gale.md "Razor Gale") Swing your weapon in a cyclone of steel that deals razorblade-sharp damage to all enemies within range. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
-| Unseen Menace | This weapon is [隐形](Invisible_Weapon_(Condition).md "Invisible Weapon (Condition)") while equipped. It has [优势](Advantage.md "Advantage") on [Attack rolls](Attack_roll.md "Attack roll"). It loses this property for 2 rounds on a missed [Attack roll](Attack_roll.md "Attack roll"). The weapon also scores a [critical hit](Critical_Hit.md "Critical hit") when rolling a 19. | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
-| Witchbreaker | You gain [优势](Advantage.md "Advantage") on [Attack rolls](Attack_roll.md "Attack roll") against [concentrating](Concentration.md "Concentration") creatures. [Hush You!](Hush_You!.md "Hush You!") Slash a target and possibly [沉默术](Silenced_(Condition).md "Silenced (Condition)") it. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
+| Larethian's Wrath | [剃刀狂风](Razor_Gale.md "Razor Gale") Swing your weapon in a cyclone of steel that deals razorblade-sharp damage to all enemies within range. ( Recharge: [休息](Short_rest.md "休息").) | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
+| Unseen Menace | This weapon is [隐形](Invisible_Weapon_(Condition).md "Invisible Weapon (Condition)") while equipped. It has [优势](Advantage.md "Advantage") on [攻击](Attack_roll.md "攻击"). It loses this property for 2 rounds on a missed [攻击](Attack_roll.md "攻击"). The weapon also scores a [重击](Critical_Hit.md "重击") when rolling a 19. | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
+| Witchbreaker | You gain [优势](Advantage.md "Advantage") on [攻击](Attack_roll.md "攻击") against [专注](Concentration.md "专注") creatures. [嘘！静默！](Hush_You!.md "嘘！静默！") Slash a target and possibly [沉默术](Silenced_(Condition).md "Silenced (Condition)") it. ( Recharge: [休息](Short_rest.md "休息").) | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
 | Knife of the Undermountain King | Reduce the number you need to roll a [重击](Critical_Hit.md "Critical Hit") while attacking by 1. This effect can stack. When you roll 2 damage or less, reroll the dice, taking the highest result. You have [优势](Advantage.md "Advantage") on [攻击掷骰](Attack_roll.md "Attack Roll") against Lightly or Heavily Obscured targets when using this blade. | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
-| Amulet of Branding | [标点弱点](Brand_the_Weak.md "Brand the Weak") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
-| Daredevil Gloves | The wearer gains a +1 bonus to [Spell Attack Rolls](Spell_Attack_Roll.md "Spell Attack Roll"). Your Ranged [Spell Attacks](Spell_Attack.md "Spell Attack") are made as melee spell attacks when you are adjacent to a hostile creature. This effect can be toggled off. | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
+| Amulet of Branding | [标点弱点](Brand_the_Weak.md "Brand the Weak") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | Carried by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
+| Daredevil Gloves | The wearer gains a +1 bonus to [攻击](Spell_Attack_Roll.md "攻击"). Your Ranged [攻击](Spell_Attack.md "攻击") are made as melee spell attacks when you are adjacent to a hostile creature. This effect can be toggled off. | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
 | Gloves of Dexterity | Set the wearer's [敏捷](Dexterity.md "Dexterity") score to 18. The enchantment has no effect if their Dexterity score is higher without it. [Attack rolls](Attacks#Attack_rolls.md#Attack_rolls "Attacks") +1 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
-| Vital Conduit Boots | Grants the wearer 8 [temporary hit points](Temporary_Hit_Points.md "Temporary Hit Points") when they cast a [法术](Spell.md "Spell") that requires [专注](Concentration.md "Concentration"). [运动](Athletics.md "Athletics") +1 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
+| Vital Conduit Boots | Grants the wearer 8 [生命值](Temporary_Hit_Points.md "生命值") when they cast a [法术](Spell.md "Spell") that requires [专注](Concentration.md "Concentration"). [运动](Athletics.md "Athletics") +1 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
 | The Skinburster | When the wielder deals melee damage with this weapon, they gain 2 turns of [导力](Force_Conduit_(Condition).md "Force Conduit (Condition)"). | Leaning against a display case in the [审判官的房间](Creche_Y'llek#Inquisitor's_Chamber.md#Inquisitor's_Chamber "Creche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1383 Y: -659 |
-| Circlet of Psionic Revenge | When you succeed a [Saving throw](Saving_throw.md "Saving throw"), the foe that caused the throw takes 1d4⁠⁠[心灵](Psychic.md "Psychic"). [吉斯洋基人](Githyanki.md "Githyanki") also gain a +1 bonus to [智力](Intelligence.md "Intelligence"), [感知](Wisdom.md "Wisdom"), and [魅力](Charisma.md "Charisma") [Saving throws](Saving_throw.md "Saving throw"). | Carried by Githyanki Inquisitor [审判官瓦尔'戈兹](W'wargaz.md "W'wargaz") in the Inquisitor's Chamber | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1392 Y: -752 |
-| Crossbow of Arcane Force | [奥术弹药](Arcane_Ammunition.md "Arcane Ammunition") Infuse your crossbow bolts with arcane energy. Your ranged weapon attacks deal an additional 1d4⁠⁠[力场](Force.md "Force") damage. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [Raider G'r'ath](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") [waypoint](Ancient_Sigil_Circle.md "Ancient Sigil Circle") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1396 Y: -839 |
-| Soulbreaker Greatsword | When wielded by a [githyanki](Githyanki.md "Githyanki") this weapon deals an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage. You gain a +2 bonus to [Initiative rolls](Initiative.md "Initiative"). [碎魂者](Soulbreaker.md "Soulbreaker") Rend the enemy's body and soul, dealing additional ⁠[心灵](Psychic.md "Psychic") damage equal to your [proficiency bonus](Proficiency_Bonus.md "Proficiency bonus"), and possibly [灵魂扭曲](Stunned_(Condition).md "Stunned (Condition)") them. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn") in the [队长办公区](Crèche_Y'llek#Captain's_Quarters.md#Captain's_Quarters "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1408 Y: -763 |
+| Circlet of Psionic Revenge | When you succeed a [豁免检定](Saving_throw.md "豁免检定"), the foe that caused the throw takes 1d4⁠⁠[心灵](Psychic.md "Psychic"). [吉斯洋基人](Githyanki.md "Githyanki") also gain a +1 bonus to [智力](Intelligence.md "Intelligence"), [感知](Wisdom.md "Wisdom"), and [魅力](Charisma.md "Charisma") [豁免检定](Saving_throw.md "豁免检定"). | Carried by Githyanki Inquisitor [审判官瓦尔'戈兹](W'wargaz.md "W'wargaz") in the Inquisitor's Chamber | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1392 Y: -752 |
+| Crossbow of Arcane Force | [奥术弹药](Arcane_Ammunition.md "Arcane Ammunition") Infuse your crossbow bolts with arcane energy. Your ranged weapon attacks deal an additional 1d4⁠⁠[力场](Force.md "Force") damage. ( Recharge: [休息](Short_rest.md "休息").) | Carried by [Raider G'r'ath](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1396 Y: -839 |
+| Soulbreaker Greatsword | When wielded by a [吉斯洋基人](Githyanki.md "吉斯洋基人") this weapon deals an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage. You gain a +2 bonus to [先攻](Initiative.md "先攻"). [碎魂者](Soulbreaker.md "Soulbreaker") Rend the enemy's body and soul, dealing additional ⁠[心灵](Psychic.md "Psychic") damage equal to your [熟练项](Proficiency_Bonus.md "熟练项"), and possibly [灵魂扭曲](Stunned_(Condition).md "Stunned (Condition)") them. ( Recharge: [休息](Short_rest.md "休息").) | Carried by [凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn") in the [队长办公区](Crèche_Y'llek#Captain's_Quarters.md#Captain's_Quarters "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1408 Y: -763 |
 | Ceremonial Battleaxe |  | In the one of the dormitories protected by a [信仰守卫](Guardian_of_Faith_(Creature).md "Guardian of Faith (creature)") | [瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery") X: 105 Y: 44 |
-| Holy Lance Helm | Creatures who miss their [Attack rolls](Attack_roll.md "Attack roll") against the wearer must make a [难度等级](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 14 [敏捷](Dexterity.md "Dexterity") [saving throw](Saving_throw.md "Saving throw") or take 1d4⁠⁠[光耀](Radiant.md "Radiant") damage. [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") +1 | In a painted chest, accessible from the top level | [瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery") X: 120 Y: 35 |
+| Holy Lance Helm | Creatures who miss their [攻击](Attack_roll.md "攻击") against the wearer must make a [难度等级](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 14 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "豁免检定") or take 1d4⁠⁠[光耀](Radiant.md "Radiant") damage. [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") +1 | In a painted chest, accessible from the top level | [瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery") X: 120 Y: 35 |
 | Ceremonial Mace |  | Carried by a random [狗头人劫掠者](Kobold_Looter.md "Kobold Looter") in the Firewine storage room | [瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery") X: 45 Y: 37 |
 | Ceremonial Longsword |  | On the north-western pedestal in the [Dawnmasters Memorial](Rosymorn_Monastery#Dawnmasters_Memorial.md#Dawnmasters_Memorial "Rosymorn Monastery") | [瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery") X: 74 Y: 74 |
-| Ceremonial Warhammer |  | On the roof, in the [Giant Eagle's](Giant_Eagle.md "Giant Eagle") nest | [瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery") X: 80 Y: 44 |
-| Hoppy | [再生打击](Revitalising_Strike.md "Revitalising Strike") Smash into a foe, wounding them and healing your own injuries. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
-| Cacophony | [雷鸣打击](Thunderous_Smite.md "Thunderous Smite") ( + ) Cast as a level 1 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
+| Ceremonial Warhammer |  | On the roof, in the [巨鹰](Giant_Eagle.md "巨鹰") nest | [瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery") X: 80 Y: 44 |
+| Hoppy | [再生打击](Revitalising_Strike.md "Revitalising Strike") Smash into a foe, wounding them and healing your own injuries. ( Recharge: [休息](Short_rest.md "休息").) | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
+| Cacophony | [雷鸣打击](Thunderous_Smite.md "Thunderous Smite") ( + ) Cast as a level 1 spell ( Recharge: [休息](Short_rest.md "休息").) | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
 | Boots of Elemental Momentum | Whenever the wearer deals ⁠[强酸](Acid.md "Acid"), ⁠[寒冷](Cold.md "Cold"), ⁠[火焰](Fire.md "Fire"), ⁠[闪电](Lightning.md "Lightning") or ⁠[雷鸣](Thunder.md "Thunder") damage with [法术](Spell.md "Spell") or [戏法](Cantrip.md "Cantrip"), they gain [亢奋](Momentum_(Condition).md "Momentum (Condition)") for 2 turns. [运动](Athletics.md "Athletics") +1 | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
-| Gloves of Baneful Striking | Whenever you deal damage with a weapon attack, the target receives a -1d4 penalty to its [Saving throw](Saving_throw.md "Saving throw") against your next spell. | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
-| Gloves of Cinder and Sizzle | Your unarmed attacks deal an additional 1d4⁠⁠[火焰](Fire.md "Fire"). [灼热射线](Scorching_Ray.md "Scorching Ray") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the [Trielta Crags](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") [waypoint](Ancient_Sigil_Circle.md "Ancient Sigil Circle") | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
-| Periapt of Wound Closure | When [倒地](Downed_(Condition).md "Downed (Condition)"), automatically stabilise at the start of the turn. Whenever you are healed, you restore the maximum number of possible [hit points](Hit_Points.md "Hit points"). | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
-| The Graceful Cloth | You gain [猫之轻灵](Cat's_Grace.md "Cat's Grace") and increase your [敏捷](Dexterity.md "Dexterity") by 2, to a maximum of 20. You gain a +1 bonus to your [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw") and also increase your [跳跃](Jump.md "Jump") distance by 1.5 m / 5 ft. | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags [waypoint](Ancient_Sigil_Circle.md "Ancient Sigil Circle") | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
+| Gloves of Baneful Striking | Whenever you deal damage with a weapon attack, the target receives a -1d4 penalty to its [豁免检定](Saving_throw.md "豁免检定") against your next spell. | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
+| Gloves of Cinder and Sizzle | Your unarmed attacks deal an additional 1d4⁠⁠[火焰](Fire.md "Fire"). [灼热射线](Scorching_Ray.md "Scorching Ray") Cast as a level 3 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径") [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
+| Periapt of Wound Closure | When [倒地](Downed_(Condition).md "Downed (Condition)"), automatically stabilise at the start of the turn. Whenever you are healed, you restore the maximum number of possible [生命值](Hit_Points.md "生命值"). | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
+| The Graceful Cloth | You gain [猫之轻灵](Cat's_Grace.md "Cat's Grace") and increase your [敏捷](Dexterity.md "Dexterity") by 2, to a maximum of 20. You gain a +1 bonus to your [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw") and also increase your [跳跃](Jump.md "Jump") distance by 1.5 m / 5 ft. | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
 | Winter's Clutches | When the wearer deals ⁠[寒冷](Cold.md "Cold") damage, inflict 2 turns of [冷冻](Encrusted_with_Frost_(Condition).md "Encrusted with Frost (Condition)") upon the target(s). | Sold by [埃斯特女士](Esther.md "Esther"), north-east of the Trielta Crags waypoint | [瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail") X: -43 Y: -129 |
 
 ---

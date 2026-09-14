@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `DISGUISE_SELF` [状态组](Status_groups.md "状态组"): [SG_Polymorph](SG_Polymorph.md "SG Polymorph"), [SG_Disguise](SG_Disguise.md "SG Disguise"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
+[堆叠ID](Stack_ID.md "堆叠ID"): `DISGUISE_SELF` [状态组](Status_groups.md "状态组"): [变形状态组 (Polymorphed (status group))](SG_Polymorph.md "变形状态组 (Polymorphed (status group))"), [SG 伪装](SG_Disguise.md "SG 伪装"), [SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")
 
 ## 赋予
 

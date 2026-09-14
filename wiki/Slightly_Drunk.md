@@ -6,7 +6,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组")：[SG_Drunk](SG_Drunk.md "SG Drunk")
+[状态组](Status_groups.md "状态组")：[SG 醉酒](SG_Drunk.md "SG 醉酒")
 
 ## 微醺的来源
 
@@ -14,35 +14,35 @@ _维基数据库中未定义_
 
 ## 拥有微醺状态的生物
 
-- [Aggy](Aggy.md "Aggy")
+- [阿吉](Aggy.md "阿吉")
 - [宝可纳克](Bao'ek'nuk.md "宝可纳克")
-- [Breg](Breg.md "Breg")
-- [Crub](Crub.md "Crub")
+- [布雷格](Breg.md "布雷格")
+- [克鲁布](Crub.md "克鲁布")
 - [粉碎机](Crusher.md "粉碎机")
-- [Eef](Eef.md "Eef")
-- [Ghainemeir](Ghainemeir.md "Ghainemeir")
-- [Grat](Grat.md "Grat")
+- [伊夫](Eef.md "伊夫")
+- [盖恩梅尔](Ghainemeir.md "盖恩梅尔")
+- [格拉特](Grat.md "格拉特")
 - [格里波](Gribbo.md "格里波")
-- [Grikka](Grikka.md "Grikka")
-- [Gurd](Gurd.md "Gurd")
-- [Gurk](Gurk.md "Gurk")
-- [Kirz](Kirz.md "Kirz")
-- [Mezzka](Mezzka.md "Mezzka")
+- [格利卡](Grikka.md "格利卡")
+- [古尔德](Gurd.md "古尔德")
+- [古尔克](Gurk.md "古尔克")
+- [基尔兹](Kirz.md "基尔兹")
+- [梅兹卡](Mezzka.md "梅兹卡")
 - [Mirg](Mirg.md "Mirg")
 - [Mrak](Mrak.md "Mrak")
-- [Muzul](Muzul.md "Muzul")
-- [Nass](Nass.md "Nass")
-- [Neem](Neem.md "Neem")
-- [Puli](Puli.md "Puli")
-- [Raagg](Raagg.md "Raagg")
-- [Rancer](Rancer.md "Rancer")
+- [穆祖尔](Muzul.md "穆祖尔")
+- [纳斯](Nass.md "纳斯")
+- [尼姆](Neem.md "尼姆")
+- [普莉 (Puli)](Puli.md "普莉 (Puli)")
+- [拉格](Raagg.md "拉格")
+- [兰瑟](Rancer.md "兰瑟")
 - [腐烂](Rot.md "腐烂")
-- [Sluck](Sluck.md "Sluck")
+- [斯拉克](Sluck.md "斯拉克")
 - [Sul (地精)](Sul_(goblin).md "Sul (地精)")
-- [Tak](Tak.md "Tak")
+- [塔克](Tak.md "塔克")
 - [微型 (地精)](Tiny_(Goblin).md "微型 (地精)")
-- [Tud](Tud.md "Tud")
-- [Wasp](Wasp.md "Wasp")
+- [图德](Tud.md "图德")
+- [黄蜂](Wasp.md "黄蜂")
 
 ## 简要预览
 

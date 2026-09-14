@@ -12,11 +12,11 @@
 
 ## 备注
 
-- 如果攻击者处于[隐形](Invisible.md "Invisible")状态，则不会受到伤害。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 如果攻击者处于[隐形](Invisible.md "Invisible")状态，则不会受到伤害。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## Blazing Retaliation 的来源
 
-- [Blazing Retaliation](Blazing_Retaliation.md "Blazing Retaliation")
+- [火热复仇](Blazing_Retaliation.md "火热复仇")
 
 ## 拥有 Blazing Retaliation 的生物
 

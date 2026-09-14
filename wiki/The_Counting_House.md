@@ -5,13 +5,13 @@
 
 ## [下城区](Lower_City.md "下城区")
 
-[Rainforest's Home](Rainforest's_Home.md "Rainforest's Home")
+[雨林之家](Rainforest's_Home.md "雨林之家")
 ↑
 | [下城区](Lower_City.md "下城区") |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| [Rainforest's Home](Rainforest's_Home.md "Rainforest's Home") |  |  |  |  |
+| [雨林之家](Rainforest's_Home.md "雨林之家") |  |  |  |  |
 | ↑ |  |  |  |  |
-| [Flymm Cargo](Flymm_Cargo.md "Flymm Cargo") | ← | 清账屋 | → | [Old Garlow's Place](Old_Garlow's_Place.md "Old Garlow's Place") |
+| [Flymm Cargo](Flymm_Cargo.md "Flymm Cargo") | ← | 清账屋 | → | [老加洛之家](Old_Garlow's_Place.md "老加洛之家") |
 |  |  |  |  |  |
 **清账屋**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。
 
@@ -65,7 +65,7 @@
 
 **清账屋**是博德之门主要的金融和银行设施，以各种方式参与城市大部分货币的流入和流出。
 
-清账屋位于下城区南部海岸的陡坡区，占据着[Flymm Cargo](Flymm_Cargo.md "Flymm Cargo")和[Old Garlow's Place](Old_Garlow's_Place.md "Old Garlow's Place")之间的一个独立小岩石岛，通过一座宽阔的石桥与堤岸相连。它包括三层的主建筑、其水下储藏设施<sup>[\[1\]](#cite_note-1)</sup>以及西南的码头，与主[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")隔开。
+清账屋位于下城区南部海岸的陡坡区，占据着[Flymm Cargo](Flymm_Cargo.md "Flymm Cargo")和[老加洛之家](Old_Garlow's_Place.md "老加洛之家")之间的一个独立小岩石岛，通过一座宽阔的石桥与堤岸相连。它包括三层的主建筑、其水下储藏设施<sup>[\[1\]](#cite_note-1)</sup>以及西南的码头，与主[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")隔开。
 
 清账屋建筑内外（包括码头区）由一支小型的_"现金守卫"_（该设施安保人员的特定称谓）守卫。码头区还有两名[钢铁卫士](Steel_Watcher.md "钢铁卫士")巡逻。然而，建筑内部没有自动机。此外，清账屋的所有区域都配备了[警报机械](Alarm_Machine.md "警报机械")，这是一种独特的陷阱类装置，在紧急情况下启动并发出信号，吸引附近所有守卫持续三回合。守卫的这种行为（被任何触发的警报机械吸引三回合，如果未发现任何人则将其关闭）也可以被队伍利用来穿越建筑的某些区域。
 
@@ -201,7 +201,7 @@
 
 - 通过X: -116 Y: -196处的双开门连接到清账屋的底层
 - 从[Flymm Cargo](Flymm_Cargo.md "Flymm Cargo")码头的南端，跳到停泊在对面的船上。
-- 从[水女王之家](Water_Queen's_House.md "水女王之家")的东端，通过跳到[Lustrous Lass](Lustrous_Lass.md "Lustrous Lass")，然后再跳到灯塔附近的另一艘船上。
+- 从[水女王之家](Water_Queen's_House.md "水女王之家")的东端，通过跳到[光耀少女](Lustrous_Lass.md "光耀少女")，然后再跳到灯塔附近的另一艘船上。
 
 码头被视为限制区域。被任何码头巡逻队发现，包括两名[钢铁卫士](Steel_Watcher.md "钢铁卫士")，最好的结果是被驱逐到清账屋主入口外的桥上，最坏的情况是引发战斗。码头上设置了多个[警报机械](Alarm_Machine.md "警报机械")，守卫可以启动它们以提醒附近所有其他守卫，使他们对队伍产生敌意。
 

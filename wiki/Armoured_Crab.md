@@ -11,7 +11,7 @@
 | 先攻 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 硬核难度属性
 
@@ -47,7 +47,7 @@
 | --- | --- | --- | --- |
 |  | 1 | 2 | -1 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - **装甲螃蟹**是一种[螃蟹](Crab.md "螃蟹")召唤物，由[杰特洛](Jatlo.md "Jatlo")施放[召唤甲壳生物](Call_of_the_Crustacean.md "召唤甲壳生物")时创造。
 

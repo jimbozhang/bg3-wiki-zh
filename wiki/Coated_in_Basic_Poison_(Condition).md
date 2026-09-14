@@ -2,21 +2,21 @@
 
 **涂抹简易毒药**
 
-- 目标必须通过 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 11 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将变为 [中毒](Poisoned_(Condition).md "Poisoned (Condition)")。
+- 目标必须通过 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 11 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将变为 [中毒](Poisoned_(Condition).md "Poisoned (Condition)")。
 - 若豁免检定成功，目标将获得 [免疫：简易毒药](Inoculated_colon__Basic_Poison_(Condition).md "Inoculated: Basic Poison (Condition)") 状态，持续 2 回合。
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `DIPPED` [状态组](Status_groups.md "Status groups"): [SG_WeaponCoating](SG_WeaponCoating.md "SG WeaponCoating")
+[堆叠 ID](Stack_ID.md "Stack ID"): `DIPPED` [状态组](Status_groups.md "Status groups"): [SG 武器涂抹](SG_WeaponCoating.md "SG 武器涂抹")
 
 ## 状态：中毒 (简易毒药)
 
 **\_(状态)[中毒](Poisoned_(Basic_Poison)_(Condition).md "Poisoned (Basic Poison) (Condition)")**
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 11)
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 11)
 
 - 在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [检定](Checks.md "Checks") 上承受 [劣势](Disadvantage.md "Disadvantage")。
-- 在回合结束时，通过一次成功的 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 11 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") 后结束。
+- 在回合结束时，通过一次成功的 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 11 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") 后结束。
 
 ## 状态：免疫：简易毒药
 

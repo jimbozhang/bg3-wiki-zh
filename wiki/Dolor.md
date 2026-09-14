@@ -14,7 +14,7 @@
 | 移动速度 | 7.5 米 (25 英尺) |
 | 经验值 | 320 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -67,7 +67,7 @@
 
 可以使用[反应](Reaction.md "Reaction")将一次命中的伤害减半。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -120,7 +120,7 @@
 
 可以使用[反应](Reaction.md "Reaction")将一次命中的伤害减半。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

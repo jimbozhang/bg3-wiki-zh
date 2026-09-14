@@ -102,11 +102,11 @@
 
 ## 已知的虔诚地精
 
-- [Cry](Cry.md "Cry")
-- [Mezzka](Mezzka.md "Mezzka")
+- [哭泣](Cry.md "哭泣")
+- [梅兹卡](Mezzka.md "梅兹卡")
 - [Mrak](Mrak.md "Mrak")
-- [Muzul](Muzul.md "Muzul")
-- [Wasp](Wasp.md "Wasp")
+- [穆祖尔](Muzul.md "穆祖尔")
+- [黄蜂](Wasp.md "黄蜂")
 
 ---
 *Source: [Goblin Devout](https://bg3.wiki/wiki/Goblin_Devout)*

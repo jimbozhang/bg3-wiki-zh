@@ -4,7 +4,7 @@
 
 ## 描述
 
-在[菘蓝树人](Wood_Woad.md "菘蓝树人")手中，普通的[短棒](Club.md "短棒")变为魔法武器，并造成额外的3d4⁠⁠[钝击](Bludgeoning.md "钝击")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+在[菘蓝树人](Wood_Woad.md "菘蓝树人")手中，普通的[短棒](Club.md "短棒")变为魔法武器，并造成额外的3d4⁠⁠[钝击](Bludgeoning.md "钝击")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ## 如何习得
 

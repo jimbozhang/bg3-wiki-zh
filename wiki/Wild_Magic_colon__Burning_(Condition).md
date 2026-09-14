@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`WILD_MAGIC_BURNING` [状态组](Status_groups.md "状态组")：[SG_Helpable_Condition](SG_Helpable_Condition.md "SG 可协助状态")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`WILD_MAGIC_BURNING` [状态组](Status_groups.md "状态组")：[SG 可协助状态](SG_Helpable_Condition.md "SG 可协助状态")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合开始时
 

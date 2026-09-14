@@ -15,7 +15,7 @@
 4d10⁠[心灵](Psychic.md "心灵")（每回合）
 
 详情
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18米（60英尺）
 [专注](Concentration.md "专注")
 
@@ -29,7 +29,7 @@
 
 持续时间：10回合
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响实体被其最深的噩梦所困扰。
 

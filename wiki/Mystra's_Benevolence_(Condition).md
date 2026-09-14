@@ -12,7 +12,7 @@
 
 - 持续至 [长休](Long_Rest.md "长休")。
 - 通过在 [巴萨扎尔的试验](Balthazar's_Experiment.md "巴萨扎尔的试验") 期间摧毁巴萨扎尔的仪式圈获得。
-- 选择 [吞噬阴影魔网](Consumed_Shadow_Weave.md "吞噬阴影魔网") 可能会使玩家无法获得此增益，尽管任务更新显示密斯特拉提供了好感度的象征。 \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 选择 [吞噬阴影魔网](Consumed_Shadow_Weave.md "吞噬阴影魔网") 可能会使玩家无法获得此增益，尽管任务更新显示密斯特拉提供了好感度的象征。 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 密斯特拉的仁慈来源
 

@@ -29,7 +29,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -41,7 +41,7 @@
 
 [优势](Advantage.md "优势")进行[豁免检定](Saving_throw.md "豁免检定")以抵抗[中毒](Poisoned_(Condition).md)，并对[中毒](Poison.md "中毒")伤害有[抗性](Resistance.md "抗性")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

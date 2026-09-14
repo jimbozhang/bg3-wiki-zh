@@ -22,7 +22,7 @@
 
 **[目盲](Colour_Spray_(Condition).md "目盲 (状态)")**
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。攻击和法术的范围减少至 3 m (10 ft)。
 

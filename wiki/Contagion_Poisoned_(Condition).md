@@ -9,7 +9,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_Poisoned](SG_Poisoned.md "SG Poisoned"), [SG_Disease](SG_Disease.md "SG Disease")
+[状态组](Status_groups.md "状态组"): [中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)"), [患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合结束
 

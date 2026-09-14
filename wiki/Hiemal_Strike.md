@@ -26,7 +26,7 @@
 
 持续时间：2驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 
 - 受影响实体对⁠[寒冷](Cold.md "寒冷")伤害[易伤](Vulnerable.md "易伤")，对⁠[火焰](Fire.md "火焰")伤害[抗性](Resistant.md "抗性")。
 - 对冻僵实体施加[濡湿](Wet_(Condition).md "濡湿（状态）")将使其[冰冻](Frozen_(Condition).md "冰冻（状态）")持续时间：1驱散。

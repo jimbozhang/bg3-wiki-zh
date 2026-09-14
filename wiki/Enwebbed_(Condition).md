@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `WEB` [状态组](Status_groups.md "Status groups"): [SG_Surface](SG_Surface.md "SG Surface"), [SG_Restrained](SG_Restrained.md "SG Restrained")
+[堆叠ID](Stack_ID.md "Stack ID"): `WEB` [状态组](Status_groups.md "Status groups"): [SG_Surface](SG_Surface.md "SG Surface"), [束缚 (状态组)](SG_Restrained.md "束缚 (状态组)")
 
 [堆叠优先级](Stack_priority.md "Stack priority"): 0
 

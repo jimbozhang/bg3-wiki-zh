@@ -14,7 +14,7 @@
 
 **[受爬行者粘液影响](Stricken_with_Crawler_Mucus_(Condition).md "受爬行者粘液影响 (状态)")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 11)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 11)
 
 - 受影响实体处于[中毒](Poisoned_(Condition).md "中毒 (状态)")和[麻痹](Paralysed_(Condition).md "麻痹 (状态)")状态
 - 持续至受影响实体成功通过一次[体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。

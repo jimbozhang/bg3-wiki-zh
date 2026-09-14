@@ -868,7 +868,7 @@
 - [詹尼尔的手套](Jhannyl's_Gloves.md "Jhannyl's Gloves")的[对抗邪恶](Defy_Villainy.md "Defy Villainy")特性移除了冷却时间。它现在可以无限次激活，而不是每次长休一次。
 - [破影利刃](Shadow_Blade.md "Shadow Blade")召唤的武器现在授予召唤者天生熟练项。这意味着法师和术士（缺乏短剑熟练项）可以无惩罚地挥舞该武器。
 - [水元素执政官](Water_Myrmidon.md "Water Myrmidon")的[治愈薄雾](Healing_Vapours.md "Healing Vapours")能力不再对范围内的所有生物施加[湿润](Wet_(Condition).md "Wet (Condition)")。
-- [冰墙](Wall_of_Ice.md "Wall of Ice")现在在被摧毁时正确地用[冰雾术](Ice_Cloud.md "Ice Cloud")造成10d6⁠⁠[寒冷](Cold.md "寒冷")伤害。以前它错误地造成5d6⁠⁠[寒冷](Cold.md "寒冷")伤害。豁免检定仍然是固定的[DC](Dice_rolls.md#Save_DCs "Dice rolls") 16 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。
+- [冰墙](Wall_of_Ice.md "Wall of Ice")现在在被摧毁时正确地用[冰雾术](Ice_Cloud.md "Ice Cloud")造成10d6⁠⁠[寒冷](Cold.md "寒冷")伤害。以前它错误地造成5d6⁠⁠[寒冷](Cold.md "寒冷")伤害。豁免检定仍然是固定的[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 16 [体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。
 - [魔契武器誓缚](Bind_Pact_Weapon.md "Bind Pact Weapon")和[武器绑定](Weapon_Bond.md "Weapon Bond")现在在更换职业时正确移除。以前，武器会无限期地保持绑定状态并享有所有好处（例如使用魅力进行攻击），即使从邪术师切换。
 - [贪婪藤蔓](Grasping_Vine.md "Grasping Vine")现在即使在升阶施法时也使用[附赠动作](Actions.md#Resources "Actions")。以前，它在升阶施法时错误地使用了完整[动作](Actions.md#Resources "Actions")。
 - [卡'尼斯](Kar'niss.md "Kar'niss")施加的[蛛网怀疑](Spindleweb_Skepticism_(Condition).md "Spindleweb Skepticism (Condition)")现在施加-6的[护甲等级](Armour_Class.md "Armour Class")惩罚，而不是-4。

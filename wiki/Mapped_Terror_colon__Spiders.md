@@ -27,7 +27,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 16)
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 16)
 
 - 受影响的生物无法移动。恐慌的生物在 [属性检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。
 
@@ -35,7 +35,7 @@
 
 **[内心恐惧：蜘蛛](Heartform_Terror_colon__Spider_(Condition).md "内心恐惧：蜘蛛（状态）")**
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 16)
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 16)
 
 - 此生物已将其形态扭曲为你恐惧的一种。
 

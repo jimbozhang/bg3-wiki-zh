@@ -2,11 +2,11 @@
 
 **涂抹收缩油**
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将在 2 回合内获得 [力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw") 的 [劣势](Disadvantage.md "Disadvantage")，并且近战攻击的伤害将受到 -1d4 的惩罚。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将在 2 回合内获得 [力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定") 和 [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw") 的 [劣势](Disadvantage.md "Disadvantage")，并且近战攻击的伤害将受到 -1d4 的惩罚。
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `DIPPED` [状态组](Status_groups.md "Status groups"): [SG_WeaponCoating](SG_WeaponCoating.md "SG WeaponCoating")
+[堆叠 ID](Stack_ID.md "Stack ID"): `DIPPED` [状态组](Status_groups.md "Status groups"): [SG 武器涂抹](SG_WeaponCoating.md "SG 武器涂抹")
 
 ## 状态：缩小
 
@@ -14,7 +14,7 @@
 
 持续时间：2 回合
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 11)
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 11)
 
 - [体型](Creature_size.md "Creature Size") 减小。
 - 武器攻击造成 **1d4** 点额外伤害。在 [力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "Saving Throw") 上具有 [劣势](Disadvantage.md "Disadvantage")。
@@ -36,18 +36,18 @@ _维基数据库中未定义_
 [涂抹简易毒药](Coated_in_Basic_Poison_(Condition).md "涂抹简易毒药 (状态)")
 |
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
 - 如果豁免成功，目标将获得 [免疫：简易毒药](Inoculated_colon__Basic_Poison_(Condition).md "免疫：简易毒药 (状态)")，持续 2 回合。
 
 [涂抹酿造腹鸣酒](Coated_in_Brewed-up_Bellyglummer_(Condition).md "涂抹酿造腹鸣酒 (状态)")
 |
 
-- 武器涂抹了酿造腹鸣酒。目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 17 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [中毒](Brewed-Up_Bellyglummer_(Condition).md "酿造腹鸣酒 (状态)")。
+- 武器涂抹了酿造腹鸣酒。目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 17 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [中毒](Brewed-Up_Bellyglummer_(Condition).md "酿造腹鸣酒 (状态)")。
 
 [涂抹爬行者粘液](Coated_in_Crawler_Mucus_(Condition).md "涂抹爬行者粘液 (状态)")
 |
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [感染爬行者粘液](Stricken_with_Crawler_Mucus_(Condition).md "感染爬行者粘液 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [感染爬行者粘液](Stricken_with_Crawler_Mucus_(Condition).md "感染爬行者粘液 (状态)")。
 - 如果豁免成功，目标将获得 [免疫：爬行者粘液](Inoculated_colon__Crawler_Mucus_(Condition).md "免疫：爬行者粘液 (状态)")，持续 2 回合。
 
 [涂抹稀释的锐利之油](Coated_in_Diluted_Oil_of_Sharpness_(Condition).md "涂抹稀释的锐利之油 (状态)")
@@ -58,19 +58,19 @@ _维基数据库中未定义_
 [涂抹卓尔毒药](Coated_in_Drow_Poison_(Condition).md "涂抹卓尔毒药 (状态)")
 |
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [中毒](Poisoned_(Condition).md "中毒 (状态)") 并陷入 [沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [中毒](Poisoned_(Condition).md "中毒 (状态)") 并陷入 [沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 - 如果豁免成功，目标将获得 [免疫：卓尔毒药](Inoculated_colon__Drow_Poison_(Condition).md "免疫：卓尔毒药 (状态)")，持续 2 回合。
 
 [涂抹怨恨](Coated_in_Malice_(Condition).md "涂抹怨恨 (状态)")
 |
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [目盲](Blinded_(Condition).md "目盲 (状态)") 和 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 15 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，否则将 [目盲](Blinded_(Condition).md "目盲 (状态)") 和 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
 - 通过豁免检定的目标将获得 [免疫：怨恨](Inoculated_colon__Malice_(Condition).md "免疫：怨恨 (状态)")，持续 2 回合。
 
 [涂抹灾祸油](Coated_in_Oil_of_Bane_(Condition).md "涂抹灾祸油 (状态)")
 |
 
-- 目标将 [灾祸术](Bane_(Condition).md "灾祸术 (状态)") 2 回合，除非他们通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 的 [魅力](Charisma.md "Charisma") [豁免检定](Saving_throw.md "Saving Throw")。
+- 目标将 [灾祸术](Bane_(Condition).md "灾祸术 (状态)") 2 回合，除非他们通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 11 的 [魅力](Charisma.md "Charisma") [豁免检定](Saving_throw.md "Saving Throw")。
 
 [涂抹燃烧油](Coated_in_Oil_of_Combustion_(Condition).md "涂抹燃烧油 (状态)")
 |

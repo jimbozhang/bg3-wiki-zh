@@ -15,7 +15,7 @@
 2d4⁠[心灵](Psychic.md "Psychic")
 
 详情
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 14) (豁免成功时：目标仍受到全额伤害。)
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 14) (豁免成功时：目标仍受到全额伤害。)
 射程：16米 (53英尺)
 
 ## 更高环阶施法
@@ -28,7 +28,7 @@
 
 持续时间：4驱散
 
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 14)
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 14)
 
 - 被迫为尼讷而战，并且每驱散受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。
 - 受到任何非心灵伤害时结束。

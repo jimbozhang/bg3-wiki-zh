@@ -1,6 +1,6 @@
 # Trepan (+1)
 
-[Trepan](Trepan.md "Trepan") 是一把不常见的 +1 [短剑](Shortswords.md "Shortswords")，它为非玩家角色提供武器动作 [劈颅](Trephination.md "Trephination")。
+[手术圆锯](Trepan.md "手术圆锯") 是一把不常见的 +1 [短剑](Shortswords.md "Shortswords")，它为非玩家角色提供武器动作 [劈颅](Trephination.md "Trephination")。
 
 尽管血液和岁月已使这个装置的机械结构生锈，但良好的扭转仍能使这台放血装置的刀片旋转。
 

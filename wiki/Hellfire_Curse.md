@@ -11,7 +11,7 @@
 消耗
 [附赠动作](Actions.md#Resources "动作")
 详情
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）
 射程：9 米（30 英尺）
 范围：6 米（20 英尺）半径
 
@@ -25,7 +25,7 @@
 
 持续时间：3 驱散
 
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 体内翻腾的地狱火使其在力量、敏捷和体质的[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")。
 

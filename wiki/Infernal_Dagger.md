@@ -16,11 +16,11 @@
 
 \+ 2d10⁠[中毒](Poison.md "中毒")
 
-\+ 2d10⁠[中毒](Poison.md "中毒")（需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，[DC](Dice_rolls.md#Save_DCs "掷骰") 17以豁免）
+\+ 2d10⁠[中毒](Poison.md "中毒")（需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，[掷骰](Dice_rolls.md#Save_DCs "掷骰") 17以豁免）
 
 详情
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
-[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 17）
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 17）
 射程：正常武器射程
 充能：每回合
 

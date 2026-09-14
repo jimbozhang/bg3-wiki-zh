@@ -36,7 +36,7 @@
 - [引导神力：战神赐福](Channel_Divinity_colon__War_God's_Blessing.md "引导神力：战神赐福")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -48,7 +48,7 @@
 
 如果此角色倒地，则立即以 1 点生命值复活。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -60,7 +60,7 @@
 
 如果此角色倒地，则立即以 1 点生命值复活。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

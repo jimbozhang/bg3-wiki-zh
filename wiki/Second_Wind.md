@@ -24,7 +24,7 @@
 
 - 职业等级 1：[战士](Fighter.md "战士")
 
-生物使用：[Brelal'reth](Brelal'reth.md "Brelal'reth")、[Ch'guth](Ch'guth.md "Ch'guth")、[Dor'il](Dor'il.md "Dor'il")、[Ith'dul](Ith'dul.md "Ith'dul")、[Khunaruth](Khunaruth.md "Khunaruth")、[Ma'aryk](Ma'aryk.md "Ma'aryk")、[Ni'ima](Ni'ima.md "Ni'ima")、[Qen](Qen.md "Qen")、[Vu'un](Vu'un.md "Vu'un")、[Warrior (githyanki)](Warrior_(githyanki).md), [Xon'ar'as](Xon'ar'as.md "Xon'ar'as")，以及 [Yr'rk](Yr'rk.md "Yr'rk")
+生物使用：[布雷拉尔雷斯](Brelal'reth.md "布雷拉尔雷斯")、[丘古斯](Ch'guth.md "丘古斯")、[多里尔](Dor'il.md "多里尔")、[伊瑟杜尔](Ith'dul.md "伊瑟杜尔")、[库纳鲁斯](Khunaruth.md "库纳鲁斯")、[马阿里克](Ma'aryk.md "马阿里克")、[尼玛 (Ni'ima)](Ni'ima.md "尼玛 (Ni'ima)")、[Qen](Qen.md "Qen")、[Vu'un](Vu'un.md "Vu'un")、[Warrior (githyanki)](Warrior_(githyanki).md), [Xon'ar'as](Xon'ar'as.md "Xon'ar'as")，以及 [伊尔克](Yr'rk.md "伊尔克")
 
 ---
 *Source: [Second Wind](https://bg3.wiki/wiki/Second_Wind)*

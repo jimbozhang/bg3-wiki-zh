@@ -1,6 +1,6 @@
 # 地精
 
-**地精**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中一种不可游玩的[类人生物](Humanoid.md "类人生物")[种族](Race.md "种族")。一些地精是[玩家角色](Character_creation.md#Origins "角色创建")的敌对[NPC](Non-player_characters.md "非玩家角色")，但另一些可以与之互动。
+**地精**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中一种不可游玩的[类人生物](Humanoid.md "类人生物")[种族](Race.md "种族")。一些地精是[玩家角色](Character_creation.md#Origins "角色创建")的敌对[非玩家角色](Non-player_characters.md "非玩家角色")，但另一些可以与之互动。
 
 > “
 >

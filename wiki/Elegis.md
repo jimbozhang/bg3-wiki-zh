@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 14 / (+2) | 12 / (+1) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -42,7 +42,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -58,7 +58,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -104,7 +104,7 @@
 
 艾雷吉斯在加农不幸去世后负责开关大门。她通常位于 X: 203 Y: 441 处的大门绞盘和战争号角附近。
 
-如果在解决[卡哈](Kagha.md "卡哈")的[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Emerald Grove and Elegis's corpse can be found among the pile of refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village") 之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林人会被驱逐出翠绿林地，艾雷吉斯的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥附近的难民堆中找到。
+如果在解决[卡哈](Kagha.md "卡哈")的[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Emerald Grove and Elegis's corpse can be found among the pile of refugees near the bridge to the [染疫村落](Blighted_Village.md "染疫村落") 之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林人会被驱逐出翠绿林地，艾雷吉斯的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥附近的难民堆中找到。
 
 如果[明萨拉](Minthara.md "明萨拉")和她的突袭部队准备袭击翠绿林地，艾雷吉斯会在城墙上，用翠绿林地的树木搭建路障。战斗开始后，她会离开城墙，加入[空谷](The_Hollow.md "空谷")的其他提夫林防御者。
 

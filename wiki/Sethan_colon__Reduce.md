@@ -15,7 +15,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 11）
 射程：9 米（30 英尺）
 充能：[长休](Long_Rest.md "长休")
 
@@ -29,7 +29,7 @@
 
 持续时间：5 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 11）
 
 - [体型](Creature_size.md "生物体型") 减小。
 - 武器攻击造成的伤害减少 **1d4**。在 [力量](Strength.md "力量") [属性检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 上具有 [劣势](Disadvantage.md "劣势")。

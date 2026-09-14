@@ -11,7 +11,7 @@
 1d4 + 1 (2~5) + [力量或敏捷调整值](Damage_Roll.md#Modifiers "Damage Roll") ⁠[穿刺](Piercing.md "Piercing")
 
 详情
-[Daggers](Daggers.md "Daggers")
+[匕首](Daggers.md "匕首")
 稀有度：稀有
 附魔：**+ 1**
 单手
@@ -26,7 +26,7 @@ UID `QUEST_FOR_SussurDagger` UUID `8733edb7-f04e-4b6d-ad48-7d49fb782bef` Stats `
 
 **持有此物品获得：**
 
-- 击中时，如果目标未通过[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，则[沉默](Silenced_(Condition).md "Silenced (Condition)")目标。
+- 击中时，如果目标未通过[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 12 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")，则[沉默](Silenced_(Condition).md "Silenced (Condition)")目标。
 
 ### 武器动作
 
@@ -41,7 +41,7 @@ _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**�
 
 持续时间：2 驱散
 
-[体质](Constitution.md "体质") [豁免](Saving_throws.md "Saving throws") ([DC](DC.md "DC") 12)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 12)
 
 - 生物无法说话或施放带有言语成分的法术，并且免疫⁠[雷鸣](Thunder.md "Thunder")伤害。
 

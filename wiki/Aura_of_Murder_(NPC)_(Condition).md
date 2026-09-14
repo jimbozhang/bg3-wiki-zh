@@ -72,7 +72,7 @@
 - [克里斯](Kryss.md "克里斯")
 - [莉雅](Liya.md "莉雅")
 - [卢克](Luke.md "卢克")
-- [M'alice](M'alice.md "M'alice")
+- [马'利切](M'alice.md "马'利切")
 - [迈尔德](Maireadh.md "迈尔德")
 - [马乔](Majjo.md "马乔")
 - [米琪亚](Mitchia.md "米琪亚")

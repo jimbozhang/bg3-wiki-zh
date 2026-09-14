@@ -11,7 +11,7 @@
 | 先攻 | +1 |
 | 移动速度 | 9 m (30 ft) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -29,7 +29,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

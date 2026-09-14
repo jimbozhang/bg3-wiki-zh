@@ -4,7 +4,7 @@
 
 - 平衡
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - **酒缸**是[地精营地](Goblin_Camp.md "Goblin Camp")中的一个环境物品，地精们在此储存他们的酒。"
 
@@ -26,7 +26,7 @@
 如果酒被下了毒，地精们会开始祝酒，并催促队伍加入。有不同的回应方式：
 
 - [莎尔的牧师] 敬莎尔，暗夜之主！
-- _喝下啤酒。_（[DC](Dice_rolls.md#Save_DCs "Dice rolls") 15 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") 以避免在持续10回合内受到1d6⁠⁠[中毒](Poison.md "Poison")伤害。矮人自动通过）
+- _喝下啤酒。_（[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 15 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") 以避免在持续10回合内受到1d6⁠⁠[中毒](Poison.md "Poison")伤害。矮人自动通过）
 - [巧手] _洒掉啤酒，然后假装从空杯中饮用。_（DC 10）
 - [欺瞒] 您先请！我不该在主人之前喝酒。（DC 10）
 - [吟游诗人] [表演] _展示一个花哨的调酒技巧。_（DC 10）

@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `CONTAGION_BLINDING_SICKNESS` [状态组](Status_groups.md "状态组"): [SG_Blinded](SG_Blinded.md "SG Blinded"), [SG_Disease](SG_Disease.md "SG Disease")
+[堆叠ID](Stack_ID.md "堆叠ID"): `CONTAGION_BLINDING_SICKNESS` [状态组](Status_groups.md "状态组"): [目盲 (状态组)](SG_Blinded.md "目盲 (状态组)"), [患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合开始时
 

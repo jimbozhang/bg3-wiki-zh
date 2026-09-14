@@ -40,7 +40,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 持续时间：1回合
 
-[WIS](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 
 - 对周围所有人[敌对](Hostile.md "敌对")。
 

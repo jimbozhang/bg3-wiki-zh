@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `CONS_DRUG_EUPHORIC` [状态组](Status_groups.md "状态组"): [SG_Drunk](SG_Drunk.md "SG Drunk")
+[堆叠ID](Stack_ID.md "堆叠ID"): `CONS_DRUG_EUPHORIC` [状态组](Status_groups.md "状态组"): [SG 醉酒](SG_Drunk.md "SG 醉酒")
 
 ## 香根草欣快症的来源
 

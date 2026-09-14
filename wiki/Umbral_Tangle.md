@@ -1,6 +1,6 @@
 # 幽影缠结
 
-**幽影缠结**是[Nimbus](Nimbus.md "Nimbus")和[破碎幽影猎犬](Splintered_Shadow_Hound.md "破碎幽影猎犬")专属的类动作，可让其困住附近的敌人。
+**幽影缠结**是[尼姆巴斯](Nimbus.md "尼姆巴斯")和[破碎幽影猎犬](Splintered_Shadow_Hound.md "破碎幽影猎犬")专属的类动作，可让其困住附近的敌人。
 
 ## 描述
 
@@ -33,7 +33,7 @@
 
 ## 学习方式
 
-由以下生物使用：[Nimbus](Nimbus.md "Nimbus")
+由以下生物使用：[尼姆巴斯](Nimbus.md "尼姆巴斯")
 
 ## 备注
 

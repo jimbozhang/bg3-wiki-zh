@@ -28,9 +28,9 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **随葬的战士**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一个[不死生物](Undead.md "不死生物")生物。
 

@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `HASTE` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG Surface"), [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `HASTE` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG Surface"), [SG 状态](SG_Condition.md "SG 状态")
 
 [堆叠优先级](Stack_priority.md "堆叠优先级"): 10
 

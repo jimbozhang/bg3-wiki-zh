@@ -18,7 +18,7 @@
 - 投掷并打破时召唤5只[岩石蛛](Crag_Spider.md "岩石蛛")。
   - 蜘蛛是盟友且可控制。
   - 它们持续到[长休](Long_Rest.md "长休")为止。
-- 半径2米（7英尺）内的所有目标必须进行一次[DC](Dice_rolls.md#Save_DCs "掷骰") 10的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[恐慌](Frightened_(Condition).md "恐慌（状态）")。
+- 半径2米（7英尺）内的所有目标必须进行一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 10的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[恐慌](Frightened_(Condition).md "恐慌（状态）")。
 
 ## 状态：恐慌
 
@@ -26,7 +26,7 @@
 
 持续时间：2回合
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 10)
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 10)
 
 - 受影响的生物无法移动。恐慌的生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 

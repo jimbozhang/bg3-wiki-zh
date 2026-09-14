@@ -10,7 +10,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `DOWNED` [状态组](Status_groups.md "状态组"): [SG_Unconscious](SG_Unconscious.md "SG Unconscious"), [SG_Incapacitated](SG_Incapacitated.md "SG Incapacitated")
+[堆叠ID](Stack_ID.md "堆叠ID"): `DOWNED` [状态组](Status_groups.md "状态组"): [昏迷 (状态组)](SG_Unconscious.md "昏迷 (状态组)"), [失能 (状态组)](SG_Incapacitated.md "失能 (状态组)")
 
 [更多属性](Status_properties.md "状态属性"):
 
@@ -34,7 +34,7 @@
 
 ## 移除
 
-通过以下任一方法移除**倒地**状态将使角色重新站起，并能够在先攻顺序中的常规回合行动，但可能无法在本回合剩余时间内使用其全部[资源](Resources.md "资源")。 \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+通过以下任一方法移除**倒地**状态将使角色重新站起，并能够在先攻顺序中的常规回合行动，但可能无法在本回合剩余时间内使用其全部[资源](Resources.md "资源")。 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 - 被盟友[协助](Help.md "协助")。
 - 任何形式的[治疗](Healing.md "治疗")。

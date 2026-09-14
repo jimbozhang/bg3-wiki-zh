@@ -1,6 +1,6 @@
 # 惊奇手套
 
-这双**惊奇手套**是一副稀有[gloves](Gloves.md "Gloves")，能提高穿戴者的护甲等级，并为[吟游诗人](Bard.md "Bard")提供额外的[诗人激励](Bardic_Inspiration_(class_action)..md)
+这双**惊奇手套**是一副稀有[手部装备](Gloves.md "手部装备")，能提高穿戴者的护甲等级，并为[吟游诗人](Bard.md "Bard")提供额外的[诗人激励](Bardic_Inspiration_(class_action)..md)
 
 这些手套刺绣上的励志语录已被热情地移除，仿佛在抗议。
 

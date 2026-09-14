@@ -16,7 +16,7 @@
 
 解除后，爆破地雷将显示为一堆不活动的外壳碎片，这些碎片之前隐藏在地表下。
 
-游戏中遇到的爆破地雷有三种类型。最常见的是红色/橙色的，通过爆炸造成⁠⁠[火焰](Fire.md "Fire")伤害。在[幽暗地域](Underdark.md "Underdark")，队伍可能会遇到青绿色的火焰爆炸地雷变体（其属性略有不同，但解除的 DC 相同）。这两种类型一旦被解除或触发，就不会造成进一步的伤害。第三种常见的爆破地雷是毒雷，它不仅在触发时爆炸，还会留下[毒云](Poison_Cloud.md "Poison Cloud")三回合 \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]（对所有不幸被困在其中的人造成相应效果）。
+游戏中遇到的爆破地雷有三种类型。最常见的是红色/橙色的，通过爆炸造成⁠⁠[火焰](Fire.md "Fire")伤害。在[幽暗地域](Underdark.md "Underdark")，队伍可能会遇到青绿色的火焰爆炸地雷变体（其属性略有不同，但解除的 DC 相同）。这两种类型一旦被解除或触发，就不会造成进一步的伤害。第三种常见的爆破地雷是毒雷，它不仅在触发时爆炸，还会留下[毒云](Poison_Cloud.md "Poison Cloud")三回合 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]（对所有不幸被困在其中的人造成相应效果）。
 
 火焰和毒雷类型的爆破地雷对所有类型的魔法伤害[免疫](Resistances.md#Immunity "Resistances")（⁠⁠[力场](Force.md "Force")除外，这是它们唯一的[易伤](Resistances.md#Vulnerability "Resistances")）和⁠⁠[挥砍](Slashing.md "Slashing")伤害，对⁠⁠[穿刺](Piercing.md "Piercing")伤害[抗性](Resistances.md#Resistance "Resistances")，并且[强韧](Sturdy.md "Sturdy")。所有这些特性结合在一起，使得[察觉技能](Perception.md "Perception")和[巧手](Sleight_of_Hand.md "Sleight of Hand")技能在处理爆破地雷（以及一般的[陷阱](Trap.md "Trap")）时非常必要。
 

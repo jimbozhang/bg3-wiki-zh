@@ -14,7 +14,7 @@
 | 移动速度 | 7.5 米 (25 英尺) |
 | 经验值 | 320 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -22,7 +22,7 @@
 
 2 米 (7 英尺) 内的敌人对[穿刺](Piercing.md "穿刺")伤害[易伤](Vulnerable.md "易伤")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -30,7 +30,7 @@
 
 2 米 (7 英尺) 内的敌人对[穿刺](Piercing.md "穿刺")伤害[易伤](Vulnerable.md "易伤")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

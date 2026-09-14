@@ -12,7 +12,7 @@
 | 先攻 | +1 |
 | 经验值 | 20 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -28,7 +28,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -44,7 +44,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -78,7 +78,7 @@
 
 如果以任何方式激怒[摩尔](Mol.md "Mol")，伊卡隆会质问队伍“威胁儿童”。
 
-如果队伍在解决[卡哈](Kagha.md "Kagha")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Grove and Ikaron's corpse can be found among the pile of refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village")。
+如果队伍在解决[卡哈](Kagha.md "Kagha")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Grove and Ikaron's corpse can be found among the pile of refugees near the bridge to the [染疫村落](Blighted_Village.md "染疫村落")。
 
 如果[明萨拉](Minthara.md "Minthara")和她的突袭部队准备袭击翠绿林地，伊卡隆会守卫并保护[隐蔽房间](Secluded_Chamber.md "Secluded Chamber")中避难的其他非战斗提夫林。突袭结束后，或者[地精营地](Goblin_Camp.md "Goblin Camp")的地精被击败，提夫林们准备离开时，伊卡隆会参加[营地](Campsite.md "Campsite")的庆祝活动，但会在远处沉思。他很恼火其他人庆祝而不是哀悼阵亡的战友。如果角色通过[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")，可以说服他加入[庆祝活动](Tiefling_Refugee_Celebration.md "Tiefling Refugee Celebration")。
 
@@ -125,7 +125,7 @@
 近战：1.5 米 (5 英尺)
 
 [准备](Prepare.md "Prepare") – [巨斧](Greataxe.md "Greataxe")
-花费 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害（最低 1 点）。
+花费 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害（最低 1 点）。
 
 范围：自身
 充能：[短休](Short_rest.md "Short rest")

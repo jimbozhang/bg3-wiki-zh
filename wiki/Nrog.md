@@ -101,7 +101,7 @@
 
 ### 第一幕
 
-战士 Nrog 可以在[破碎圣所](Shattered_Sanctum.md "破碎圣所")的内入口处找到，偶尔会与[Trinzas](Trinzas.md "Trinzas") 聊起庭院里吵闹的派对，以及他们最近从[艾拉丁](Aradin_Beno.md "艾拉丁·贝诺")的冒险小队抓来的囚犯。
+战士 Nrog 可以在[破碎圣所](Shattered_Sanctum.md "破碎圣所")的内入口处找到，偶尔会与[特林扎斯](Trinzas.md "特林扎斯") 聊起庭院里吵闹的派对，以及他们最近从[艾拉丁](Aradin_Beno.md "艾拉丁·贝诺")的冒险小队抓来的囚犯。
 
 ## 战斗
 

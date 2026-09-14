@@ -1,6 +1,6 @@
 # bg3wiki:Project
 
-[Index](Help_colon_Index.md "Help:Index") • [Guides](Help_colon_Guide_namespace.md "Help:Guide namespace") • [Modding](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
+[Index](Help_colon_Index.md "Help:Index") • [指南:指南](Help_colon_Guide_namespace.md "指南:指南") • [Modding](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
 
 查看 **指南** 了解用户指南信息以及如何为维基编写社区指南。
 

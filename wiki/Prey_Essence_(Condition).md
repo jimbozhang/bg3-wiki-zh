@@ -10,14 +10,14 @@
 
 ## 赋予
 
-[Have Nice Gift!](Have_Nice_Gift!.md "Have Nice Gift!")
+[送礼好礼！](Have_Nice_Gift!.md "送礼好礼！")
 | 状态 | 效果 |
 | --- | --- |
 | 猎物精华 | 获得 30 点临时生命值 |
 
 ## 备注
 
-- 可以赠送给 [训犬师波尔](Houndmaster_Pol.md "训犬师波尔")，使用 [Have Nice Gift!](Have_Nice_Gift!.md "Have Nice Gift!") 为他赋予 1 层 [捕食者精华](Predator_Essence_(Condition).md "捕食者精华 (状态)")。
+- 可以赠送给 [训犬师波尔](Houndmaster_Pol.md "训犬师波尔")，使用 [送礼好礼！](Have_Nice_Gift!.md "送礼好礼！") 为他赋予 1 层 [捕食者精华](Predator_Essence_(Condition).md "捕食者精华 (状态)")。
   - 当精华被转移时，失去所有临时生命值。
 
 ## 猎物精华的来源

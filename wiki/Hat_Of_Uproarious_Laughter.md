@@ -17,7 +17,7 @@
 佩戴此物品获得：
 
 [光滑克星](Slippery_Slapsticky.md "光滑克星")
-当被击至[倒伏](Prone_(Condition).md "倒伏 (状态)")时，你周围 9 米（30 英尺）范围内，智力[Intelligence](Intelligence.md "智力")为 5 或以上的敌对生物必须通过感知[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[狂笑](Hideous_Laughter_(Condition).md "狂笑 (状态)")。
+当被击至[倒伏](Prone_(Condition).md "倒伏 (状态)")时，你周围 9 米（30 英尺）范围内，智力[智力](Intelligence.md "智力")为 5 或以上的敌对生物必须通过感知[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[狂笑](Hideous_Laughter_(Condition).md "狂笑 (状态)")。
 
 ## 获取地点
 

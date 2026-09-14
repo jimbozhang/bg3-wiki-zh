@@ -33,7 +33,7 @@ ______________________________________________________________________
 
 假设样式指南应尽快更正链接到过时或不正确的维基页面：
 
-这可能是我无法更正的优先级很高的编辑。无论术语如何，[Silvanus' Grove](Silvanus'_Grove.md "Silvanus' Grove") 都不应在 [地点](Help_colon_Style_Guide.md#Locations "帮助:样式指南") 中链接。我研究了一下，认为它不是以游戏的发布版本为参考编写的。[[Emerald Enclave]，由于之前的措辞已更正，*确实*现在适用于新的措辞，并且是一个很好的例子。
+这可能是我无法更正的优先级很高的编辑。无论术语如何，[翠绿林地](Silvanus'_Grove.md "翠绿林地") 都不应在 [地点](Help_colon_Style_Guide.md#Locations "帮助:样式指南") 中链接。我研究了一下，认为它不是以游戏的发布版本为参考编写的。[[Emerald Enclave]，由于之前的措辞已更正，*确实*现在适用于新的措辞，并且是一个很好的例子。
 
 似乎很重要，需要引起注意以进行更正。如果这里的讨论页使用方式非正统，我表示歉意。[Llamageddon](User_colon_Llamageddon.md "用户:Llamageddon") ([讨论](User_talk_colon_Llamageddon.md "用户讨论:Llamageddon")) [18:26, 2023年8月23日 (CEST)](https://bg3.wiki/wiki/Help_talk:Style_manual#c-Llamageddon-20230823162600-Discussions)回复
 
@@ -309,7 +309,7 @@ ______________________________________________________________________
 这保持现在时，因为它是一个**功能性机制**。它是该护甲每次使用时如何工作的“普遍真理”。
 [Raelin](User_colon_Raelin.md "用户:Raelin") ([讨论](User_talk_colon_Raelin.md "用户讨论:Raelin")) [20:12, 2026年1月17日 (CET)](https://bg3.wiki/wiki/Help_talk:Style_manual#c-Raelin-20260117191200-Hawkeye-20260117181500)回复
 
-我不是语法/风格专家，但对我来说似乎很合理。[Taylan](User_colon_Taylan.md "用户:Taylan") ([讨论](User_talk_colon_Taylan.md "用户讨论:Taylan")) [20:15, 2026年1月17日 (CET)](https://bg3.wiki/wiki/Help_talk:Style_manual#c-Taylan-20260117191500-Raelin-20260117191200)回复
+我不是语法/风格专家，但对我来说似乎很合理。[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "用户讨论:Taylan")) [20:15, 2026年1月17日 (CET)](https://bg3.wiki/wiki/Help_talk:Style_manual#c-Taylan-20260117191500-Raelin-20260117191200)回复
 
 这里部分问题在于以清晰、有说服力且简洁的方式向读者描述规则/解决方案。我相信这就是 Hawkeye 所指的，特别是关于样式指南中可能出现的任何示例。这是一个可以理解且合理的担忧，这就是为什么我在回复中向他们阐明了这一点。样式指南的部分问题在于它给出了遵循规则的*方法*，但没有给出*原因*。我一直对不知道“为什么”以及其背后的推理有问题。这在我内心产生了摩擦，并且（无疑）也在其他人身上产生了摩擦（这只是有多少其他人的问题）。
 

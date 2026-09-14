@@ -17,7 +17,7 @@
 
 ## 备注
 
-- 这是唯一一个在受到 [SG_Disguise](SG_Disguise.md "SG Disguise") 的状态影响时无法使用的反应，因为其设置了 `EnableCondition`。这是否是第8次补丁的疏忽尚不清楚，因为当时几乎所有其他反应的 `EnableCondition` 字段都已更改。
+- 这是唯一一个在受到 [SG 伪装](SG_Disguise.md "SG 伪装") 的状态影响时无法使用的反应，因为其设置了 `EnableCondition`。这是否是第8次补丁的疏忽尚不清楚，因为当时几乎所有其他反应的 `EnableCondition` 字段都已更改。
 
 ---
 *Source: [Mage Slayer: Attack Caster](https://bg3.wiki/wiki/Mage_Slayer:_Attack_Caster)*

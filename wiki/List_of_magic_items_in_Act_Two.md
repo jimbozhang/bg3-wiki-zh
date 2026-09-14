@@ -274,7 +274,7 @@ X: -33 Y: 164
 [偷生之剑](Sword_of_Life_Stealing.md "偷生之剑")
 |
 
-- 在[重击](Critical_Hit.md "重击")时，目标会受到额外10⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源附加")伤害，只要它不是构装体或亡灵。你还会获得10点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+- 在[重击](Critical_Hit.md "重击")时，目标会受到额外10⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，只要它不是构装体或亡灵。你还会获得10点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 | 由[戴摩](Dammon.md "Dammon")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") |
 X: -33 Y: 164
@@ -431,7 +431,7 @@ X: -63 Y: 163
 | 阴影之握 | [浸影打击](Shadowsoaked_Blow.md "浸影打击") 攻击敌人，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")添加到伤害中。此外，如果攻击命中，会造成额外1d6⁠⁠[心灵](Psychic.md "心灵")伤害。此攻击不会打破隐蔽。（充能：[短休](Short_rest.md "短休")。） | 由[戴摩](Dammon.md "Dammon")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 闪电誓缚战锤 | 此武器具有+1的伤害和[攻击检定](Attack_roll.md "攻击检定")加值。此武器造成额外1d6⁠⁠[闪电](Lightning.md "闪电")伤害。此战锤的魔法效果仅在它被[武器绑定](Weapon_Bond.md "武器绑定")于[奥法骑士](Eldritch_Knight.md "奥法骑士")或作为[邪术师](Warlock.md "邪术师")的[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")或[诅咒](Bind_Hexed_Weapon.md "诅咒武器誓缚")武器时生效。这些效果是武器+1附魔的额外加成。由于附魔和偏好武器加成的叠加，此武器在誓缚时相当于+2武器。 | 由[戴摩](Dammon.md "Dammon")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 黑火短弓 | 对⁠[火焰](Fire.md "火焰")伤害的[抗性](Damage_Types#Resistance.md#抗性 "伤害类型")。对⁠[寒冷](Cold.md "寒冷")伤害的[抗性](Damage_Types#Resistance.md#抗性 "伤害类型")。[加速术](Haste.md "加速术") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[戴摩](Dammon.md "Dammon")在[第二幕](Act_Two.md "第二幕")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
-| 偷生之剑 | 在[重击](Critical_Hit.md "重击")时，目标会受到额外10⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源附加")伤害，只要它不是构装体或亡灵。你还会获得10点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 | 由[戴摩](Dammon.md "Dammon")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
+| 偷生之剑 | 在[重击](Critical_Hit.md "重击")时，目标会受到额外10⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，只要它不是构装体或亡灵。你还会获得10点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 | 由[戴摩](Dammon.md "Dammon")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 荆棘之刃 | 当处于[专注](Concentration.md "专注")状态时，你的近战武器攻击造成额外1d4⁠⁠[中毒](Poison.md "中毒")伤害。[诱捕打击（近战）](Ensnaring_Strike_(Melee).md "诱捕打击（近战）") ( + ) 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 由[戴摩](Dammon.md "Dammon")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 热力之斧 | 每当你用此武器造成伤害时，你获得2回合的[灼热](Heat_(Condition).md "灼热 (状态)")。 | 由[戴摩](Dammon.md "Dammon")在[第二幕](Act_Two.md "第二幕")出售 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
 | 残缺的黯狱护甲 | 当2米（7英尺）内的敌人击中你时，它可能会受到1d4⁠⁠[火焰](Fire.md "火焰")伤害。你受到的⁠[穿刺](Piercing.md "穿刺")伤害减少1点。 | 由[戴摩](Dammon.md "Dammon")打造 | [终焉光芒旅店](Last_Light_Inn.md "Last Light Inn") X: -33 Y: 164 |
@@ -564,423 +564,423 @@ X: -845 Y: -793
 
 ## 堕影冥界
 
-- While [Obscured](Obscured.md "Obscured") by shadow, the wearer gains +1 to [Saving throws](Saving_throw.md "Saving throw") when attacked._\[[See: Bugs](Swathed_in_Shadow.md#Bugs "Swathed in Shadow")\]_
+- 被阴影[遮蔽](Obscured.md "遮蔽")时，穿戴者在被攻击时的[豁免检定](Saving_throw.md "豁免检定")获得+1加值。_\[[见：错误](Swathed_in_Shadow.md#Bugs "阴影笼罩")\]_
 
-- [Constitution](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1
+- [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1
 
-| On the ground next to another skeleton in the [Nightsong's Prison](Shadowfell.md "Shadowfell") | [Shadowfell](Shadowfell.md "Shadowfell") |
+| 在[暗夜之歌的囚牢](Shadowfell.md "堕影冥界")内另一具骸骨旁的地面上 | [堕影冥界](Shadowfell.md "堕影冥界") |
 X: -516 Y: -1397
-[Dark Justiciar Helm](Dark_Justiciar_Helm.md "Dark Justiciar Helm")
+[暗夜法官头盔](Dark_Justiciar_Helm.md "暗夜法官头盔")
 |
 
-- While [Obscured](Obscured.md "Obscured") by shadow, the wearer gains +1 to [Saving throws](Saving_throw.md "Saving throw") when attacked._\[[See: Bugs](Swathed_in_Shadow.md#Bugs "Swathed in Shadow")\]_
+- 被阴影[遮蔽](Obscured.md "遮蔽")时，穿戴者在被攻击时的[豁免检定](Saving_throw.md "豁免检定")获得+1加值。_\[[见：错误](Swathed_in_Shadow.md#Bugs "阴影笼罩")\]_
 
-- [Constitution](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1
+- [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1
 
-| On the ground next to a skeleton in the [Nightsong's Prison](Shadowfell.md "Shadowfell") | [Shadowfell](Shadowfell.md "Shadowfell") |
+| 在[暗夜之歌的囚牢](Shadowfell.md "堕影冥界")内一具骸骨旁的地面上 | [堕影冥界](Shadowfell.md "堕影冥界") |
 X: -544 Y: -1447
-[Moonlight Glaive](Moonlight_Glaive.md "Moonlight Glaive")
+[月光](Moonlight_Glaive.md "月光")
 |
 
-- This object shines with a glowing light in a radius of ⁠6 m / 20 ft.
+- 此物体散发⁠半径6米/20英尺的光芒。
 
-[Moonlight Butterflies](Moonlight_Butterflies.md "Moonlight Butterflies")
-Strike a foe, conjuring an illusory swarm of moon-pale butterflies and gaining [Advantage](Advantage.md "Advantage") on attacks against the target. (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Rewarded by the [Nightsong](Aylin.md "Aylin") for freeing her during the ⁠[Find the Nightsong](Find_the_Nightsong.md "Find the Nightsong") quest | [Shadowfell](Shadowfell.md "Shadowfell") |
+[月光蝴蝶](Moonlight_Butterflies.md "月光蝴蝶")
+打击一名敌人，召唤一群月光色蝴蝶的幻象，并对攻击目标获得[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
+| 完成任务[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")期间解救[暗夜之歌](Aylin.md "暗夜之歌")后由她奖励 | [堕影冥界](Shadowfell.md "堕影冥界") |
 X: -604 Y: -1431
-[Shar's Spear of Evening](Shar's_Spear_of_Evening.md "Shar's Spear of Evening")
+[莎尔的黄昏短矛](Shar's_Spear_of_Evening.md "莎尔的黄昏短矛")
 |
 
-- You gain [Advantage](Advantage.md "Advantage") on [Saving throws](Saving_throw.md "Saving throw") while Lightly or Heavily [Obscured](Obscured.md "Obscured"). This weapon deals an additional 1d6 damage to creatures that are Lightly or Heavily Obscured.
-- The wearer cannot be [Blinded](Blinded_(Condition).md "Blinded (Condition)").
+- 处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)")状态时，你的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。此武器对轻度遮蔽或重度遮蔽的生物造成额外1d6伤害。
+- 穿戴者无法被[目盲](Blinded_(Condition).md "目盲 (状态)")。
 
-[Shar's Darkness](Shar's_Darkness.md "Shar's Darkness")
-Cast as a level 2 spell (Recharge: Per turn.)
+[莎尔的黑暗](Shar's_Darkness.md "莎尔的黑暗")
+施放为2环法术（充能：每回合。）
 
-[Edge of Darkness](Edge_of_Darkness.md "Edge of Darkness")
-Create a cloud of Darkness while you attack. _\[[See Notes](Edge_of_Darkness.md#Notes "Edge of Darkness")\]_ (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Rewarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") |
+[黑暗之刃](Edge_of_Darkness.md "黑暗之刃")
+攻击时制造一团黑暗。_\[[见：说明](Edge_of_Darkness.md#Notes "黑暗之刃")\]_（充能：[短休](Short_rest.md "短休")。）
+| 击杀[暗夜之歌](Aylin.md "暗夜之歌")后奖励给[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") |
 X: -604 Y: -1431
-[Circle of Bones](Circle_of_Bones.md "Circle of Bones")
+[骸骨饰环](Circle_of_Bones.md "骸骨饰环")
 |
 
-- Allied [undead](Undead.md "Undead") within 6 m (20 ft) are [Resistant](Resistant.md "Resistant") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Slashing](Slashing.md "Slashing"), and ⁠[Piercing](Piercing.md "Piercing") damage._\[[See: Bugs](Undead_Ward.md#Bugs "Undead Ward")\]_
+- 6米（20英尺）内的友方[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害拥有[抗性](Resistant.md "抗性")._\[[见：错误](Undead_Ward.md#Bugs "防护不死生物")\]_
 
-[Animate Dead](Animate_Dead.md "Animate Dead")
-Cast as a level 3 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Carried by Balthazar, if he is later confronted near the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") |
+[操纵死尸](Animate_Dead.md "操纵死尸")
+施放为3环法术（充能：[长休](Long_Rest.md "长休")。）
+| 由巴萨扎尔携带，若其后在[暗夜之歌](Aylin.md "暗夜之歌")附近与之对峙 | [堕影冥界](Shadowfell.md "堕影冥界") |
 X: -604 Y: -1431
-[Dark Justiciar Boots](Dark_Justiciar_Boots.md "Dark Justiciar Boots")
+[暗夜法官之靴](Dark_Justiciar_Boots.md "暗夜法官之靴")
 |
 
-- [Dexterity](Dexterity.md "Dexterity") [Saving Throws](Saving_throw.md "Saving Throw") +1
+- [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1
 
-[Shadow Teleportation](Shadow_Teleportation.md "Shadow Teleportation")
-Teleport to an unoccupied, obscured spot. (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Rewarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") |
+[阴影传送](Shadow_Teleportation.md "阴影传送")
+传送至一个无生物占据的遮蔽位置。（充能：[短休](Short_rest.md "短休")。）
+| 击杀[暗夜之歌](Aylin.md "暗夜之歌")后奖励给[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") |
 X: -604 Y: -1431
-| Item Name | Item Effect | Where to Find | Location |
+| 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| Boots of Brilliance | [Restore Bardic Inspiration](Restore_Bardic_Inspiration.md "Restore Bardic Inspiration") Play your instrument to restore one of your [Bardic Inspiration](Bardic_Inspiration_(resource).md "Bardic Inspiration (resource)") slots. ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a heavy chest in the room just north of [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -632 Y: -723 |
-| Hellfire Hand Crossbow | Possibly inflict [Burning](Burning_(Condition).md "Burning (Condition)") when attacking while [Hiding](Hiding_(Condition).md "Hiding (Condition)") or [Invisible](Invisible_(Condition).md "Invisible (Condition)"). [Scorching Ray](Scorching_Ray.md "Scorching Ray") Cast as a level 3 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -653 Y: -764 |
-| Merregon Halberd |  | Carried by the Merregons accompanying [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -658 Y: 753 |
-| Dark Justiciar Gauntlets | Your weapon attacks deal an additional 1d4⁠⁠[Necrotic](Necrotic.md "Necrotic") damage. [Strength](Strength.md "Strength") [Saving Throws](Saving_throw.md "Saving Throw") +1 | on a pile of boxes, near [Yurgir](Yurgir.md "Yurgir") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -660 Y: -760 |
-| Justiciar's Scimitar | If you attack with [Advantage](Advantage.md "Advantage"), you have a chance to [Blind](Blinded_(Condition).md "Blinded (Condition)") your target.[[See: Bugs](Shadow-Blinding#Bugs.md#Bugs "Shadow-Blinding")] You have [Advantage](Advantage.md "Advantage") on [Attack Rolls](Attack_roll.md "Attack Roll") against Lightly or Heavily Obscured targets when using this blade. [Shadowsoaked Blow](Shadowsoaked_Blow.md "Shadowsoaked Blow") Strike an enemy, adding your [proficiency bonus](Proficiency_Bonus.md "Proficiency bonus") to the damage. Moreover, if the attack hits, it deals an additional 1d6⁠⁠[Psychic](Psychic.md "Psychic") damage. This attack doesn't break concealment. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [Lyrthindor](Lyrthindor.md "Lyrthindor") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -713 Y: -732 |
-| Justiciar's Greatshield | [Advantage](Advantage.md "Advantage") on [Perception](Perception.md "Perception") [Ability checks](Ability_Check.md "Ability check"). [Darkness Cloak](Darkness_Cloak.md "Darkness Cloak") Create a cloud of magical darkness and immediately attempt to [Hide](Hiding_(Condition).md "Hiding (Condition)"). ( Recharge: [Short rest](Short_rest.md "Short rest").) [Shield Blow](Shield_Blow.md "Shield Blow") When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw"). | Carried by [Lyrthindor](Lyrthindor.md "Lyrthindor") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -713 Y: -732 |
-| Least Expected | While obscured in shadow, the wielder has a +1d4 bonus to their [ranged weapon attacks](Attacks#Attack_rolls.md#Attack_rolls "Attacks"). [Blinding Shot](Blinding_Shot.md "Blinding Shot") Weave the lost magic of the children of Deep Duerra into your shot and possibly [Blind](Blinded_(Condition).md "Blinded (Condition)") your target. ( Recharge: [Short rest](Short_rest.md "Short rest").) | In a gilded chest beyond the locked puzzle door | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -730 Y: -800 |
-| Dark Justiciar Half-Plate | While [obscured](Obscured.md "Obscured"), the wearer has [Advantage](Advantage.md "Advantage") on [Stealth Checks](Stealth.md "Stealth"). [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw"). [Shar's Aegis](Shar's_Aegis.md "Shar's Aegis") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Lying on the ground next to the altar where the [Spear of Night](Spear_of_Night.md "Spear of Night") rests, beyond the riddle door in the [Silent Library](Silent_Library.md "Silent Library") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -818 Y: -755 |
-| Spear of Night | If Shar allows it, use this spear to kill Nightsong. | On a shrine in the [Silent Library](Silent_Library.md "Silent Library"), beyond the riddle door | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -820 Y: -756 |
-| Callous Glow Ring | The wearer deals an additional 2 points of ⁠[Radiant](Radiant.md "Radiant")[[See: Bugs](Callous_Glow#Bugs.md#Bugs "Callous Glow")] damage against creatures that are illuminated. | In an opulent chest in the vault room near [Balthazar](Balthazar.md "Balthazar") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -821 Y: -752 |
-| Dark Justiciar Helmet | The wielder has a +1 bonus to [Saving throws](Saving_throw.md "Saving throw") against spells. While [obscured](Obscured.md "Obscured"), the number you need to roll a [Critical Hit](Critical_Hit.md "Critical Hit") while attacking is reduced by 1. This effect can stack. [Constitution](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1 | Inside a Gilded Chest behind the altar and beyond the riddle door in the [Silent Library](Silent_Library.md "Silent Library") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -822 Y: -753 |
-| Killer's Sweetheart | When you kill a creature, your next [Attack roll](Attack_roll.md "Attack roll") will be a [Critical Hit](Critical_Hit.md "Critical Hit"). Once spent, this effect refreshes after a [Long Rest](Long_Rest.md "Long Rest"). | On the ground where the shadow copy appearing next to the Brazier is defeated in the [Self-Same Trial](Self-Same_Trial.md "Self-Same Trial") | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -833 Y: -729 |
-| Circle of Bones | Allied [undead](Undead.md "Undead") within 6 m (20 ft) are [Resistant](Resistant.md "Resistant") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Slashing](Slashing.md "Slashing"), and ⁠[Piercing](Piercing.md "Piercing") damage.[[See: Bugs](Undead_Ward#Bugs.md#Bugs "Undead Ward")] [Animate Dead](Animate_Dead.md "Animate Dead") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by [Balthazar](Balthazar.md "Balthazar"), at his altar | [Gauntlet of Shar](Gauntlet_of_Shar.md "Gauntlet of Shar") X: -845 Y: -793 |
+| 光辉之靴 | [恢复诗人激励](Restore_Bardic_Inspiration.md "恢复诗人激励") 演奏你的乐器以恢复1个[诗人激励](Bardic_Inspiration_(resource).md "诗人激励（资源）")槽位。（充能：[长休](Long_Rest.md "长休")。） | 在[尤格](Yurgir.md "尤格")北边房间的一个沉重箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -632 Y: -723 |
+| 地狱火手弩 | 在[隐蔽](Hiding_(Condition).md "隐蔽 (状态)")或[隐形](Invisible_(Condition).md "隐形 (状态)")状态下攻击时，可能使目标[燃烧](Burning_(Condition).md "燃烧 (状态)")。[灼热射线](Scorching_Ray.md "灼热射线") 施放为3环法术（充能：[短休](Short_rest.md "短休")。） | 由[尤格](Yurgir.md "尤格")携带 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -653 Y: -764 |
+| 梅雷贡长戟 |  | 由伴随[尤格](Yurgir.md "尤格")的梅雷贡们携带 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -658 Y: 753 |
+| 暗夜法官护手 | 你的武器攻击造成额外1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定") +1 | 在一堆箱子上，靠近[尤格](Yurgir.md "尤格") | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -660 Y: -760 |
+| 法官弯刀 | 以[优势](Advantage.md "优势")攻击时，你可能[目盲](Blinded_(Condition).md "目盲 (状态)")目标。[[见：错误](Shadow-Blinding#Bugs.md#Bugs "暗影遮目")] 使用此刃时，你对[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)")目标的[攻击检定](Attack_roll.md "攻击检定")具有[优势](Advantage.md "优势")。[浸影打击](Shadowsoaked_Blow.md "浸影打击") 打击一名敌人，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")加入伤害。此外，若攻击命中，则造成额外1d6⁠⁠[心灵](Psychic.md "心灵")伤害。此攻击不会打破隐蔽。（充能：[短休](Short_rest.md "短休")。） | 由[莱辛多尔](Lyrthindor.md "莱辛多尔")携带 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -713 Y: -732 |
+| 法官大盾 | [察觉](Perception.md "察觉")[属性检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。[黑暗斗篷](Darkness_Cloak.md "黑暗斗篷") 制造一团魔法黑暗，并立即尝试[隐蔽](Hiding_(Condition).md "隐蔽 (状态)")。（充能：[短休](Short_rest.md "短休")。）[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。 | 由[莱辛多尔](Lyrthindor.md "莱辛多尔")携带 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -713 Y: -732 |
+| 意料之外 | 处于阴影遮蔽时，持有者的[远程武器攻击](Attacks#Attack_rolls.md#Attack_rolls "攻击")获得+1d4加值。[致盲射击](Blinding_Shot.md "致盲射击") 将深杜拉之子的失落魔法编织进你的射击，可能[目盲](Blinded_(Condition).md "目盲 (状态)")目标。（充能：[短休](Short_rest.md "短休")。） | 在上了锁的谜题门后的一只镀金箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -730 Y: -800 |
+| 暗夜法官半身板甲 | 处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者的[隐匿](Stealth.md "隐匿")检定具有[优势](Advantage.md "优势")。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[莎尔神盾](Shar's_Aegis.md "莎尔神盾") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 平放在[莎尔铁手神殿](Silent_Library.md "莎尔铁手神殿")谜题门后、[暗夜之矛](Spear_of_Night.md "暗夜之矛")所在祭坛旁的地面上 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -818 Y: -755 |
+| 暗夜之矛 | 如果莎尔允许，用此矛击杀暗夜之歌。 | 在谜题门后[莎尔铁手神殿](Silent_Library.md "莎尔铁手神殿")的一座神龛上 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -820 Y: -756 |
+| 无情光芒之戒 | 穿戴者对处于光照下的生物造成额外2点⁠[光耀](Radiant.md "光耀")[[见：错误](Callous_Glow#Bugs.md#Bugs "冷酷光芒")]伤害。 | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")附近金库房间的一只华丽箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -821 Y: -752 |
+| 暗夜法官头盔 | 持有者对抗法术的[豁免检定](Saving_throw.md "豁免检定")获得+1加值。处于[遮蔽](Obscured.md "遮蔽")状态时，攻击时[重击](Critical_Hit.md "重击")所需的骰值减1。此效果可叠加。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 | 在[莎尔铁手神殿](Silent_Library.md "莎尔铁手神殿")谜题门后、祭坛后面的一只镀金箱子中 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -822 Y: -753 |
+| 屠夫的甜心 | 当你击杀一个生物时，你的下一次[攻击检定](Attack_roll.md "攻击检定")必定为[重击](Critical_Hit.md "重击")。消耗后，此效果在[长休](Long_Rest.md "长休")后刷新。 | 在[莎尔铁手神殿](Self-Same_Trial.md "莎尔铁手神殿")中，火盆旁被击败的阴影复制体所在地的地面上 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -833 Y: -729 |
+| 骸骨饰环 | 6米（20英尺）内的友方[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害拥有[抗性](Resistant.md "抗性").[[见：错误](Undead_Ward#Bugs.md#Bugs "防护不死生物")] [操纵死尸](Animate_Dead.md "操纵死尸") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[巴萨扎尔](Balthazar.md "巴萨扎尔")携带，在其祭坛处 | [莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿") X: -845 Y: -793 |
 
-- Your weapon attacks deal an additional 1d4⁠⁠[Necrotic](Necrotic.md "Necrotic") damage.
+- 你的武器攻击造成额外1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
-- [Strength](Strength.md "Strength") [Saving Throws](Saving_throw.md "Saving Throw") +1
+- [力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定") +1
 
-[Beckoning Darkness](Beckoning_Darkness.md "Beckoning Darkness")
-Cast as a level 4 spell at will.
-| Rewarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") |
+[召唤黑暗](Beckoning_Darkness.md "召唤黑暗")
+随意施放为4环法术。
+| 击杀[暗夜之歌](Aylin.md "暗夜之歌")后奖励给[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") |
 X: -604 Y: -1431
-| Item Name | Item Effect | Where to Find | Location |
+| 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| Dark Justiciar Helm | While [Obscured](Obscured.md "Obscured") by shadow, the wearer gains +1 to [Saving throws](Saving_throw.md "Saving throw") when attacked.[[See: Bugs](Swathed_in_Shadow#Bugs.md#Bugs "Swathed in Shadow")] [Constitution](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1 | On the ground next to another skeleton in the [Nightsong's Prison](Shadowfell.md "Shadowfell") | [Shadowfell](Shadowfell.md "Shadowfell") X: -516 Y: -1397 |
-| Dark Justiciar Helm | While [Obscured](Obscured.md "Obscured") by shadow, the wearer gains +1 to [Saving throws](Saving_throw.md "Saving throw") when attacked.[[See: Bugs](Swathed_in_Shadow#Bugs.md#Bugs "Swathed in Shadow")] [Constitution](Constitution.md "Constitution") [Saving throws](Saving_throw.md "Saving throw") +1 | On the ground next to a skeleton in the [Nightsong's Prison](Shadowfell.md "Shadowfell") | [Shadowfell](Shadowfell.md "Shadowfell") X: -544 Y: -1447 |
-| Moonlight Glaive | This object shines with a glowing light in a radius of ⁠6 m / 20 ft. [Moonlight Butterflies](Moonlight_Butterflies.md "Moonlight Butterflies") Strike a foe, conjuring an illusory swarm of moon-pale butterflies and gaining [Advantage](Advantage.md "Advantage") on attacks against the target. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Rewarded by the [Nightsong](Aylin.md "Aylin") for freeing her during the ⁠[Find the Nightsong](Find_the_Nightsong.md "Find the Nightsong") quest | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Shar's Spear of Evening | You gain [Advantage](Advantage.md "Advantage") on [Saving throws](Saving_throw.md "Saving throw") while Lightly or Heavily [Obscured](Obscured.md "Obscured"). This weapon deals an additional 1d6 damage to creatures that are Lightly or Heavily Obscured. The wearer cannot be [Blinded](Blinded_(Condition).md "Blinded (Condition)"). [Shar's Darkness](Shar's_Darkness.md "Shar's Darkness") Cast as a level 2 spell ( Recharge: Per turn.) [Edge of Darkness](Edge_of_Darkness.md "Edge of Darkness") Create a cloud of Darkness while you attack. [[See Notes](Edge_of_Darkness#Notes.md#Notes "Edge of Darkness")] ( Recharge: [Short rest](Short_rest.md "Short rest").) | Rewarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Circle of Bones | Allied [undead](Undead.md "Undead") within 6 m (20 ft) are [Resistant](Resistant.md "Resistant") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Slashing](Slashing.md "Slashing"), and ⁠[Piercing](Piercing.md "Piercing") damage.[[See: Bugs](Undead_Ward#Bugs.md#Bugs "Undead Ward")] [Animate Dead](Animate_Dead.md "Animate Dead") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by Balthazar, if he is later confronted near the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Dark Justiciar Boots | [Dexterity](Dexterity.md "Dexterity") [Saving Throws](Saving_throw.md "Saving Throw") +1 [Shadow Teleportation](Shadow_Teleportation.md "Shadow Teleportation") Teleport to an unoccupied, obscured spot. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Rewarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Dark Justiciar Gauntlets | Your weapon attacks deal an additional 1d4⁠⁠[Necrotic](Necrotic.md "Necrotic") damage. [Strength](Strength.md "Strength") [Saving Throws](Saving_throw.md "Saving Throw") +1 [Beckoning Darkness](Beckoning_Darkness.md "Beckoning Darkness") Cast as a level 4 spell at will. | Rewarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
-| Dark Justiciar Half-Plate | While [obscured](Obscured.md "Obscured"), the wearer has [Advantage](Advantage.md "Advantage") on [Stealth Checks](Stealth.md "Stealth"). While the wearer has [Shield of Faith](Shield_of_Faith_(Condition).md "Shield of Faith (Condition)") active, reduce all incoming damage by 2 and reflect damage received back at the attacker, who takes 1d4⁠⁠[Necrotic](Necrotic.md "Necrotic"). [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw"). [Shar's Aegis](Shar's_Aegis.md "Shar's Aegis") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Awarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") X: -604 Y: -1431 |
+| 暗夜法官头盔 | 被阴影[遮蔽](Obscured.md "遮蔽")时，穿戴者在被攻击时的[豁免检定](Saving_throw.md "豁免检定")获得+1加值。[[见：错误](Swathed_in_Shadow#Bugs.md#Bugs "阴影笼罩")][体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 | 在[暗夜之歌的囚牢](Shadowfell.md "堕影冥界")内另一具骸骨旁的地面上 | [堕影冥界](Shadowfell.md "堕影冥界") X: -516 Y: -1397 |
+| 暗夜法官头盔 | 被阴影[遮蔽](Obscured.md "遮蔽")时，穿戴者在被攻击时的[豁免检定](Saving_throw.md "豁免检定")获得+1加值。[[见：错误](Swathed_in_Shadow#Bugs.md#Bugs "阴影笼罩")][体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1 | 在[暗夜之歌的囚牢](Shadowfell.md "堕影冥界")内一具骸骨旁的地面上 | [堕影冥界](Shadowfell.md "堕影冥界") X: -544 Y: -1447 |
+| 月光 | 此物体散发⁠半径6米/20英尺的光芒。[月光蝴蝶](Moonlight_Butterflies.md "月光蝴蝶") 打击一名敌人，召唤一群月光色蝴蝶的幻象，并对攻击目标获得[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。） | 完成任务[寻找暗夜之歌](Find_the_Nightsong.md "寻找暗夜之歌")期间解救[暗夜之歌](Aylin.md "暗夜之歌")后由她奖励 | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 莎尔的黄昏短矛 | 处于[轻度遮蔽](Lightly_Obscured_(Condition).md "轻度遮蔽 (状态)")或[重度遮蔽](Heavily_Obscured_(Condition).md "重度遮蔽 (状态)")状态时，你的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。此武器对轻度遮蔽或重度遮蔽的生物造成额外1d6伤害。穿戴者无法被[目盲](Blinded_(Condition).md "目盲 (状态)")。[莎尔的黑暗](Shar's_Darkness.md "莎尔的黑暗") 施放为2环法术（充能：每回合。）[黑暗之刃](Edge_of_Darkness.md "黑暗之刃") 攻击时制造一团黑暗。[[见：说明](Edge_of_Darkness#Notes.md#Notes "黑暗之刃")]（充能：[短休](Short_rest.md "短休")。） | 击杀[暗夜之歌](Aylin.md "暗夜之歌")后奖励给[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 骸骨饰环 | 6米（20英尺）内的友方[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害拥有[抗性](Resistant.md "抗性").[[见：错误](Undead_Ward#Bugs.md#Bugs "防护不死生物")] [操纵死尸](Animate_Dead.md "操纵死尸") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由巴萨扎尔携带，若其后在[暗夜之歌](Aylin.md "暗夜之歌")附近与之对峙 | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 暗夜法官之靴 | [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1 [阴影传送](Shadow_Teleportation.md "阴影传送") 传送至一个无生物占据的遮蔽位置。（充能：[短休](Short_rest.md "短休")。） | 击杀[暗夜之歌](Aylin.md "暗夜之歌")后奖励给[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 暗夜法官护手 | 你的武器攻击造成额外1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定") +1 [召唤黑暗](Beckoning_Darkness.md "召唤黑暗") 随意施放为4环法术。 | 击杀[暗夜之歌](Aylin.md "暗夜之歌")后奖励给[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
+| 暗夜法官半身板甲 | 处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者的[隐匿](Stealth.md "隐匿")检定具有[优势](Advantage.md "优势")。当穿戴者的[虔诚护盾](Shield_of_Faith_(Condition).md "虔诚护盾 (状态)")生效时，所受全部伤害减2，并将所受伤害反弹给攻击者，攻击者受到1d4⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[莎尔神盾](Shar's_Aegis.md "莎尔神盾") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 击杀[暗夜之歌](Aylin.md "暗夜之歌")后授予[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") X: -604 Y: -1431 |
 
-- [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw").
+- [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-[Shar's Aegis](Shar's_Aegis.md "Shar's Aegis")
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Awarded to [Shadowheart](Shadowheart.md "Shadowheart") for killing the [Nightsong](Aylin.md "Aylin") | [Shadowfell](Shadowfell.md "Shadowfell") |
+[莎尔神盾](Shar's_Aegis.md "莎尔神盾")
+施放为1环法术（充能：[长休](Long_Rest.md "长休")。）
+| 击杀[暗夜之歌](Aylin.md "暗夜之歌")后授予[影心](Shadowheart.md "影心") | [堕影冥界](Shadowfell.md "堕影冥界") |
 X: -604 Y: -1431
 
 [￪ Back to top](#top)
 
 ## 月出之塔
 
-[Shadow Lantern](Shadow_Lantern.md "Shadow Lantern")
+[暗影提灯](Shadow_Lantern.md "暗影提灯")
 |
 
-[Conjure Shadow Lantern Wraith](Conjure_Shadow_Lantern_Wraith.md "Conjure Shadow Lantern Wraith")
-Cast as a level 6 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Created by having [Gale](Gale.md "Gale") in the party while combining the following components at the table located at X: -150 Y: -165 within [Balthazar's](Balthazar.md "Balthazar") hidden room:|
+[召唤影灯缚灵](Conjure_Shadow_Lantern_Wraith.md "召唤影灯缚灵")
+施放为6环法术（充能：[长休](Long_Rest.md "长休")。）
+| 让[盖尔](Gale.md "盖尔")在队伍中，在[巴萨扎尔](Balthazar.md "巴萨扎尔")密室中位于 X: -150 Y: -165 的桌子旁组合以下材料：|
 
-- - [Broken Moonlantern](Broken_Moonlantern.md "Broken Moonlantern") - carried by [Nere](Nere.md "Nere") in [Grymforge](Grymforge.md "Grymforge"), located at the top of the Grymforge elevator before entering the [Shadow-Cursed Lands](Shadow-Cursed_Lands.md "Shadow-Cursed Lands") at X: 37 Y: -1165, or within [Balthazar's](Balthazar.md "Balthazar") hidden room
-  - [Dead Pixie](Dead_Pixie.md "Dead Pixie") - found within [Balthazar's](Balthazar.md "Balthazar") hidden room
+- - [坏掉的月亮提灯](Broken_Moonlantern.md "坏掉的月亮提灯") - 由[尼讷](Nere.md "尼讷")在[复仇之炉](Grymforge.md "复仇之炉")携带，位于复仇之炉电梯顶部、进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")前（X: 37 Y: -1165），或在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内
+  - [死去的妖精](Dead_Pixie.md "死去的妖精") - 在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内找到
 
-| [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers")|
+| [月出之塔](Moonrise_Towers.md "月出之塔")|
 
-[Shield +1](Shield_+1.md "Shield +1")
+[盾牌 +1](Shield_+1.md "盾牌 +1")
 |
 
-- No special properties, beyond the [Armour Class](Armour_Class.md "Armour Class") enchantment.
+- 除[护甲等级](Armour_Class.md "护甲等级")附魔外，无特殊属性。
 
-| Sold by [Quartermaster Talli](Talli.md "Talli") after [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") is defeated | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+| 由[军需官塔利](Talli.md "塔利")在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")被击败后出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 
-[Boots of Arcane Bolstering](Boots_of_Arcane_Bolstering.md "Boots of Arcane Bolstering")
+[奥术强化之靴](Boots_of_Arcane_Bolstering.md "奥术强化之靴")
 |
 
-- Each time they [Dash](Dash.md "Dash"), the wearer gains [Arcane Charge](Arcane_Charge_(Condition).md "Arcane Charge (Condition)") for 2 turns.
+- 每次[疾走](Dash.md "疾走")时，穿戴者获得2回合[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")。
 
-| Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
-[Circlet of Hunting](Circlet_of_Hunting.md "Circlet of Hunting")
+[狩猎饰环](Circlet_of_Hunting.md "狩猎饰环")
 |
 
-- You gain a **+1d4** bonus to [Attack rolls](Attack_roll.md "Attack roll") against creatures marked by [Hunter's Mark](Hunter's_Mark_Quarry_(Condition).md "Hunter's Mark Quarry (Condition)"), [True Strike](True_Strike_(Condition).md "True Strike (Condition)"), [Faerie Fire](Faerie_Fire_(Condition).md "Faerie Fire (Condition)"), or [Guiding Bolt](Guiding_Bolt_(Condition).md "Guiding Bolt (Condition)").
+- 对被[猎人之标](Hunter's_Mark_Quarry_(Condition).md "猎人之标 (状态)")、[真实打击](True_Strike_(Condition).md "真实打击 (状态)")、[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")或[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")标记的生物，你的[攻击检定](Attack_roll.md "攻击检定")获得**+1d4**加值。
 
-| Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
-[Hat of Storm Scion's Power](Hat_of_Storm_Scion's_Power.md "Hat of Storm Scion's Power")
+[风暴之子之力帽](Hat_of_Storm_Scion's_Power.md "风暴之子之力帽")
 |
 
-- Whenever the wearer deals ⁠[Thunder](Thunder.md "Thunder") damage, they gain [Arcane Acuity](Arcane_Acuity_(Condition).md "Arcane Acuity (Condition)").
+- 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。
 
-| Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
-[Ring of Free Action](Ring_of_Free_Action.md "Ring of Free Action")
+[自由动作戒指](Ring_of_Free_Action.md "自由动作戒指")
 |
 
-- You ignore the effects of [Difficult Terrain](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)"), and cannot be [Paralysed](Paralysed_(Condition).md "Paralysed (Condition)") or [Restrained](Restrained_(Condition).md "Restrained (Condition)").
+- 你忽略[艰难地形](Difficult_Terrain_(Condition).md "艰难地形 (状态)")的效果，且无法被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。
 
-| Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
-[Risky Ring](Risky_Ring.md "Risky Ring")
+[风险戒指](Risky_Ring.md "风险戒指")
 |
 
-- You gain [Advantage](Advantage.md "Advantage") on [Attack rolls](Attack_roll.md "Attack roll") and receive [Disadvantage](Disadvantage.md "Disadvantage") on [Saving throws](Saving_throw.md "Saving throw").
+- 你的[攻击检定](Attack_roll.md "攻击检定")具有[优势](Advantage.md "优势")，但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-| Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
-[Robe of Exquisite Focus](Robe_of_Exquisite_Focus.md "Robe of Exquisite Focus")
+[精准专注长袍](Robe_of_Exquisite_Focus.md "精准专注长袍")
 |
 
-- You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC").
+- 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。
 
-| Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
-[Thunderskin Cloak](Thunderskin_Cloak.md "Thunderskin Cloak")
+[雷束披风](Thunderskin_Cloak.md "雷束披风")
 |
 
-- When a creature with [Reverberation](Reverberation_(Condition).md "Reverberation (Condition)") deals damage to the wearer, the creature needs to make a [Constitution](Constitution.md "Constitution") [saving throw](Saving_throw.md "Saving throw") or become [Dazed](Dazed_(Condition).md "Dazed (Condition)").
+- 当处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-| Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
-[Derivation Cloak](Derivation_Cloak.md "Derivation Cloak")
+[导引披风](Derivation_Cloak.md "导引披风")
 |
 
-- When you [Poison](Poisoned_(Condition).md "Poisoned (Condition)") a foe, heal yourself for 1d4⁠⁠[hit points](Healing.md "Healing").
+- 当你使敌人[中毒](Poisoned_(Condition).md "中毒 (状态)")时，恢复自身1d4⁠⁠[生命值](Healing.md "治疗")。
 
-| In a heavy chest in [Balthazar's](Balthazar.md "Balthazar") chambers on the [First Floor](Moonrise_Towers.md#First_floor "Moonrise Towers") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+| 在[巴萨扎尔](Balthazar.md "巴萨扎尔")位于[一楼](Moonrise_Towers.md#First_floor "月出之塔")的房间的一个沉重箱子中 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -132 Y: -175
-[Absolute's Protector](Absolute's_Protector.md "Absolute's Protector")
+[至上真神保护者](Absolute's_Protector.md "至上真神保护者")
 |
 
-- If the wielder bears the [Absolute's Brand](Absolute's_Brand.md "Absolute's Brand"), all damage received from spells is reduced by 1.
+- 若持有者拥有[至上真神的烙印](Absolute's_Brand.md "Brand of the Absolute"),法术所受伤害减少1点。
 
-[Shield Blow](Shield_Blow.md "Shield Blow")
-When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw").
+[盾牌猛击](Shield_Blow.md "盾牌猛击")
+当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。
 
-[Fire Shield: Chill](Fire_Shield_colon__Chill.md "Fire Shield: Chill")
-Cast as a level 4 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Carried by [Z'rell](Z'rell.md "Z'rell") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+[火焰护盾：寒冷](Fire_Shield_colon__Chill.md "火焰护盾：寒冷")
+施放为4环法术（充能：[长休](Long_Rest.md "长休")。）
+| 由[泽'瑞尔](Z'rell.md "泽'瑞尔")携带 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -150 Y: -202
-[Very Heavy Greataxe](Very_Heavy_Greataxe.md "Very Heavy Greataxe")
+[沉重巨斧](Very_Heavy_Greataxe.md "沉重巨斧")
 |
 
-[Gargantuan Cleave](Gargantuan_Cleave.md "Gargantuan Cleave")
-Swing your weapon with all your might. You can attack multiple targets, dealing bonus 1d6⁠⁠[Slashing](Slashing.md "Slashing")[DRS](Damage_rider_as_source.md "Damage rider as source") damage, but become \_(Condition)[Off Balanced](Off_Balance_(Gargantuan_Cleave)_(Condition).md "Off Balance (Gargantuan Cleave) (Condition)"). (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Carried by Fezzerk on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
+[巨像切割者](Gargantuan_Cleave.md "巨像切割者")
+竭尽全力挥动武器。你可以攻击多个目标，造成额外1d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源附加](Damage_rider_as_source.md "伤害来源附加")伤害，但会陷入\_(状态)[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡 (状态)")。（充能：[短休](Short_rest.md "短休")。）
+| 由主层的费泽克携带 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -152 Y: -191
-[Coldbrim Hat](Coldbrim_Hat.md "Coldbrim Hat")
+[寒意之帽](Coldbrim_Hat.md "寒意之帽")
 |
 
-| Item Name | Item Effect | Where to Find | Location |
+| 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| Moonlantern |  | In [Balthazar's](Balthazar.md "Balthazar") room in [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
-| Shadow Lantern | [Conjure Shadow Lantern Wraith](Conjure_Shadow_Lantern_Wraith.md "Conjure Shadow Lantern Wraith") Cast as a level 6 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Created by having [Gale](Gale.md "Gale") in the party while combining the following components at the table located at X: -150 Y: -165 within [Balthazar's](Balthazar.md "Balthazar") hidden room: [Broken Moonlantern](Broken_Moonlantern.md "Broken Moonlantern") - carried by [Nere](Nere.md "Nere") in [Grymforge](Grymforge.md "Grymforge"), located at the top of the Grymforge elevator before entering the [Shadow-Cursed Lands](Shadow-Cursed_Lands.md "Shadow-Cursed Lands") at X: 37 Y: -1165, or within [Balthazar's](Balthazar.md "Balthazar") hidden room [Dead Pixie](Dead_Pixie.md "Dead Pixie") - found within [Balthazar's](Balthazar.md "Balthazar") hidden room | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
-| Shield +1 | No special properties, beyond the [Armour Class](Armour_Class.md "Armour Class") enchantment. | Sold by [Quartermaster Talli](Talli.md "Talli") after [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") is defeated | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
-| Boots of Arcane Bolstering | Each time they [Dash](Dash.md "Dash"), the wearer gains [Arcane Charge](Arcane_Charge_(Condition).md "Arcane Charge (Condition)") for 2 turns. | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Circlet of Hunting | You gain a +1d4 bonus to [Attack rolls](Attack_roll.md "Attack roll") against creatures marked by [Hunter's Mark](Hunter's_Mark_Quarry_(Condition).md "Hunter's Mark Quarry (Condition)"), [True Strike](True_Strike_(Condition).md "True Strike (Condition)"), [Faerie Fire](Faerie_Fire_(Condition).md "Faerie Fire (Condition)"), or [Guiding Bolt](Guiding_Bolt_(Condition).md "Guiding Bolt (Condition)"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Hat of Storm Scion's Power | Whenever the wearer deals ⁠[Thunder](Thunder.md "Thunder") damage, they gain [Arcane Acuity](Arcane_Acuity_(Condition).md "Arcane Acuity (Condition)"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Ring of Free Action | You ignore the effects of [Difficult Terrain](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)"), and cannot be [Paralysed](Paralysed_(Condition).md "Paralysed (Condition)") or [Restrained](Restrained_(Condition).md "Restrained (Condition)"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Risky Ring | You gain [Advantage](Advantage.md "Advantage") on [Attack rolls](Attack_roll.md "Attack roll") and receive [Disadvantage](Disadvantage.md "Disadvantage") on [Saving throws](Saving_throw.md "Saving throw"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Robe of Exquisite Focus | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Thunderskin Cloak | When a creature with [Reverberation](Reverberation_(Condition).md "Reverberation (Condition)") deals damage to the wearer, the creature needs to make a [Constitution](Constitution.md "Constitution") [saving throw](Saving_throw.md "Saving throw") or become [Dazed](Dazed_(Condition).md "Dazed (Condition)"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Derivation Cloak | When you [Poison](Poisoned_(Condition).md "Poisoned (Condition)") a foe, heal yourself for 1d4⁠⁠[hit points](Healing.md "Healing"). | In a heavy chest in [Balthazar's](Balthazar.md "Balthazar") chambers on the [First Floor](Moonrise_Towers#First_floor.md#First_floor "Moonrise Towers") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -132 Y: -175 |
-| Absolute's Protector | If the wielder bears the [Absolute's Brand](Absolute's_Brand.md "Absolute's Brand"), all damage received from spells is reduced by 1. [Shield Blow](Shield_Blow.md "Shield Blow") When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw"). [Fire Shield: Chill](Fire_Shield_colon__Chill.md "Fire Shield: Chill") Cast as a level 4 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by [Z'rell](Z'rell.md "Z'rell") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -150 Y: -202 |
-| Very Heavy Greataxe | [Gargantuan Cleave](Gargantuan_Cleave.md "Gargantuan Cleave") Swing your weapon with all your might. You can attack multiple targets, dealing bonus 1d6⁠⁠[Slashing](Slashing.md "Slashing")[DRS](Damage_rider_as_source.md "Damage rider as source") damage, but become [Off Balanced](Off_Balance_(Gargantuan_Cleave)_(Condition).md "Off Balance (Gargantuan Cleave) (Condition)"). ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by Fezzerk on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -152 Y: -191 |
-| Coldbrim Hat | Once per turn, any condition inflicted on a target, also applies 2 turns of [Encrusted with Frost](Encrusted_with_Frost_(Condition).md "Encrusted with Frost (Condition)").[[See: Bugs](Coldbrim_Chill#Bugs.md#Bugs "Coldbrim Chill")] | In a locked chest in a hidden room behind a bookcase in [Balthazar's Chambers](Moonrise_Towers#Balthazar's_room.md#Balthazar's_room "Moonrise Towers") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -155 Y: -173 |
-| Myrkulite Scourge |  | Carried by [Radija](Radija.md "Radija") on the [first floor](Moonrise_Towers#First_floor.md#First_floor "Moonrise Towers") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -162 Y: -203 |
-| Iron-Banded Shield +1 | No special properties, beyond the [Armour Class](Armour_Class.md "Armour Class") enchantment. | Leaning against a rack next to the bugbear merchant [Lann Tarv](Lann_Tarv.md "Lann Tarv") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -163 |
-| Iron-Banded Shield +1 | No special properties, beyond the [Armour Class](Armour_Class.md "Armour Class") enchantment. | Leaning against a rack next to the bugbear merchant [Lann Tarv](Lann_Tarv.md "Lann Tarv") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -163 |
-| Halberd of Vigilance | Gain a +1 bonus to [Initiative](Initiative.md "Initiative") rolls and [Advantage](Advantage.md "Advantage") on [Perception](Perception.md "Perception") [Ability Checks](Checks.md "Checks"). When you make an [Attack roll](Attack_roll.md "Attack roll") as a [Reaction](Actions#Reactions.md#Reactions "Actions"), you make it with [Advantage](Advantage.md "Advantage"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Bigboy's Chew Toy | [Whossa Large Fellow?](Whossa_Large_Fellow_q_.md "Whossa Large Fellow?") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Slicing Shortsword | When the wielder attacks with [Advantage](Advantage.md "Advantage"), the attack inflicts [Bleeding](Bleeding_(Condition).md "Bleeding (Condition)"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Titanstring Bow | This weapon deals additional damage equal to your [Strength](Strength.md "Strength") [Modifier](Ability_Modifier.md "Ability Modifier"). [Pushing Attack (Ranged)](Pushing_Attack_(Titanstring_Bow).md "Pushing Attack (Titanstring Bow)") Pushes your target back 4.5 m (15 ft). ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor, only if [Brem's](Brem.md "Brem") special stock was not unlocked before by completing ⁠[Find the Missing Shipment](Find_the_Missing_Shipment.md "Find the Missing Shipment") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Render of Mind and Body | When the wielder attacks with [Advantage](Advantage.md "Advantage"), they deal an additional 1d8⁠⁠[Psychic](Psychic.md "Psychic"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Dwarven Splintmail | You take 1 less ⁠[Piercing](Piercing.md "Piercing") damage. Gain a +1 bonus to [Strength](Strength.md "Strength") [Saving throws](Saving_throw.md "Saving throw") and [Ability checks](Ability_Check.md "Ability check"). [Constitution](Constitution.md "Constitution") +2 (Max 20) | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Enraging Heart Garb | While [Raging](Rage_(Condition).md "Rage (Condition)"), the wearer generates 2 turns of [Wrath](Wrath_(Condition).md "Wrath (Condition)").[[See: Bugs](Ruintamer_Heart#Bugs.md#Bugs "Ruintamer Heart")] [Constitution](Constitution.md "Constitution") +2 (up to 20) | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Fistbreaker Helm | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"). You gain a +1 bonus to [Initiative rolls](Initiative.md "Initiative"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Gauntlets of Surging Accuracy | When you use [Action Surge](Action_Surge_(Condition).md "Action Surge (Condition)"), gain a +1d4 bonus to [Attack rolls](Attack_roll.md "Attack roll") for the rest of your turn. [Strength](Strength.md "Strength") [Saving Throws](Saving_throw.md "Saving Throw") +1 | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Gloves of The Duellist | While only holding one weapon in your main hand and nothing in your free hand, gain a +2 bonus to melee weapon [Attack rolls](Attack_roll.md "Attack roll"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Sentinel Shield | Gain a +3 bonus to [Initiative](Initiative.md "Initiative") rolls and [Advantage](Advantage.md "Advantage") on [Perception](Perception.md "Perception") [checks](Ability_Check.md "Ability check"). [Shield Blow](Shield_Blow.md "Shield Blow") When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Cloak of Elemental Absorption | [Absorb Elements](Absorb_Elements.md "Absorb Elements") Absorb elemental damage once per [Short Rest](Short_rest.md "Short Rest"). Take half damage from the next elemental attack targeting you, and deal an additional 1d6 of that element type on your next attack. ( Recharge: [Short rest](Short_rest.md "Short rest").) | In an opulent chest in [Ketheric Thorm's](Ketheric_Thorm.md "Ketheric Thorm") chambers on the second floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -170 Y: -171 |
-| Spineshudder Amulet | When the wearer deals damage with a ranged [Spell Attack](Spell_Attack.md "Spell Attack"), inflict 2 turns of [Reverberation](Reverberation_(Condition).md "Reverberation (Condition)") on the target(s). | In the [Mimic](Mimic.md "Mimic") in [Isobel's](Isobel_Thorm.md "Isobel Thorm") bedroom on the upper floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -171 Y: -195 |
-| Ne'er Misser | [Magic Missile](Magic_Missile.md "Magic Missile") Cast as a level 3 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Drakethroat Glaive | Enemies have [Disadvantage](Disadvantage.md "Disadvantage") on [Saving Throws](Saving_throw.md "Saving Throw") against your [dragonborn](Dragonborn.md "Dragonborn") [breath weapon](Breath_Attack.md "Breath Attack"). [Draconic Elemental Weapon](Draconic_Elemental_Weapon.md "Draconic Elemental Weapon") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Armour of Devotion | [Eternal Devotion](Eternal_Devotion.md "Eternal Devotion") Recite your Oath to regain 1 [Channel Oath Charge](Channel_Oath_Charge.md "Channel Oath Charge"). ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Gloves of Crushing | The wearer gains a +1 bonus to unarmed [Attack rolls](Attack_roll.md "Attack roll") and their unarmed attacks deal an additional 2⁠⁠[Bludgeoning](Bludgeoning.md "Bludgeoning") damage. | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Marksmanship Hat | You gain a +1 bonus to Ranged [Attack rolls](Attack_roll.md "Attack roll") and [Thrown](Throw.md "Throw") Attack Rolls. | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Poisoner's Ring | [Virulent Venom](Virulent_Venom.md "Virulent Venom") Point your ringed finger at a target to make it [vulnerable](Vulnerable.md "Vulnerable") to ⁠[Poison](Poison.md "Poison") damage, unless it is immune to ⁠[Poison](Poison.md "Poison") damage. ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Ring of Spiteful Thunder | When the wearer deals damage[[See: Bugs](Spiteful_Thunder#Bugs.md#Bugs "Spiteful Thunder")] to a [Reverberating](Reverberation_(Condition).md "Reverberation (Condition)") creature, it becomes [Dazed](Dazed_(Condition).md "Dazed (Condition)") unless it succeeds a [Constitution](Constitution.md "Constitution") [saving throw](Saving_throw.md "Saving throw"). | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Sharpened Snare Cuirass | Add your full Dexterity [Modifier](Ability_Modifier.md "Ability Modifier") to your [Armour Class](Armour_Class.md "Armour Class"). Additionally, this armour does not impose [Disadvantage](Disadvantage.md "Disadvantage") on Stealth [Ability Checks](Ability_Check.md "Ability Check"). Creatures have [Disadvantage](Disadvantage.md "Disadvantage") on [Saving throws](Saving_throw.md "Saving throw") when resisting your attacks and spells that inflict [Restrained](Restrained_(Condition).md "Restrained (Condition)"). | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Argument Solver | [Poison Mist](Poison_Mist.md "Poison Mist") On a hit, deal extra ⁠[Poison](Poison.md "Poison") damage equal to your [proficiency bonus](Proficiency_Bonus.md "Proficiency bonus") and surround the target in a [noxious cloud](Poison_Cloud.md "Poison Cloud") that possibly [Poisons](Poisoned_(Condition).md "Poisoned (Condition)") those within it. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [Mig](Mig.md "Mig") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -196 Y: -195 |
-| Spellcrux Amulet | [Spell Slot Restoration](Spell_Slot_Restoration.md "Spell Slot Restoration") Replenish an expended [spell slot](Spells#Spell_Slots.md#Spell_Slots "Spells") of any level as a [Bonus Action](Actions#Resources.md#Resources "Actions") once per [Long Rest](Long_Rest.md "Long Rest"). | Worn by the [Warden](The_Warden.md "The Warden") | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 569 Y: -650 |
-| Browbeaten Circlet | The wearer gains a +1 bonus to [spell save DC](Spell_save_DC.md "Spell Save DC") while [Threatened](Threatened_(Condition).md "Threatened (Condition)"). | In the evidence chest on the top floor of the [Warden's](The_Warden.md "The Warden") tower | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 569 Y: -652 |
-| Wulbren's Hammer | 2d4[Force](Force.md "Force") damage against items and world objects (unlisted). | On a table up the ladder in [the Warden's](The_Warden.md "The Warden") room | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 575 Y: -647 |
-| Myrkulite Scourge |  | Carried by [Duckie Verish](Duckie_Verish.md "Duckie Verish") after [confronting Ketheric Thorm](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "Infiltrate Moonrise Towers") | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 596 Y: -647 |
-| Myrkulite Scourge |  | Carried by [Willinx Jindlebee](Willinx_Jindlebee.md "Willinx Jindlebee") after [confronting Ketheric Thorm](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "Infiltrate Moonrise Towers") | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 596 Y: -651 |
-| Myrkulite Scourge |  | Carried by [Sarabayle](Sarabayle.md "Sarabayle") after [confronting Ketheric Thorm](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "Infiltrate Moonrise Towers") | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 597 Y: -655 |
-| Myrkulite Scourge |  | Carried by [Susdera](Susdera.md "Susdera") on the [rooftop](Moonrise_Towers_Rooftop.md "Moonrise Towers Rooftop") | [Moonrise Towers Rooftop](Moonrise_Towers_Rooftop.md "Moonrise Towers Rooftop") X: -146 Y: -213 |
-| Ring of Exalted Marrow | [Exhort the Risen](Exhort_the_Risen.md "Exhort the Risen") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) [Ghoulish Touch](Ghoulish_Touch.md "Ghoulish Touch") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a heavy chest at the altar | [Moonrise Towers Rooftop](Moonrise_Towers_Rooftop.md "Moonrise Towers Rooftop") X: -153 Y: -170 |
-| Item Name | Item Effect | Where to Find | Location |
+| 月亮提灯 |  | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")位于[月出之塔](Moonrise_Towers.md "月出之塔")的房间内 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 暗影提灯 | [召唤影灯缚灵](Conjure_Shadow_Lantern_Wraith.md "召唤影灯缚灵") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 让[盖尔](Gale.md "盖尔")在队伍中，在[巴萨扎尔](Balthazar.md "巴萨扎尔")密室中位于 X: -150 Y: -165 的桌子旁组合以下材料：[坏掉的月亮提灯](Broken_Moonlantern.md "坏掉的月亮提灯") - 由[尼讷](Nere.md "尼讷")在[复仇之炉](Grymforge.md "复仇之炉")携带，位于复仇之炉电梯顶部、进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")前（X: 37 Y: -1165），或在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内 [死去的妖精](Dead_Pixie.md "死去的妖精") - 在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内找到 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外，无特殊属性。 | 由[军需官塔利](Talli.md "塔利")在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")被击败后出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 奥术强化之靴 | 每次[疾走](Dash.md "疾走")时，穿戴者获得2回合[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 狩猎饰环 | 对被[猎人之标](Hunter's_Mark_Quarry_(Condition).md "猎人之标 (状态)")、[真实打击](True_Strike_(Condition).md "真实打击 (状态)")、[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")或[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")标记的生物，你的[攻击检定](Attack_roll.md "攻击检定")获得+1d4加值。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 风暴之子之力帽 | 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 自由动作戒指 | 你忽略[艰难地形](Difficult_Terrain_(Condition).md "艰难地形 (状态)")的效果，且无法被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 风险戒指 | 你的[攻击检定](Attack_roll.md "攻击检定")具有[优势](Advantage.md "优势"),但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 精准专注长袍 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 雷束披风 | 当处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 导引披风 | 当你使敌人[中毒](Poisoned_(Condition).md "中毒 (状态)")时，恢复自身1d4⁠⁠[生命值](Healing.md "治疗")。 | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")位于[一楼](Moonrise_Towers#First_floor.md#First_floor "月出之塔")的房间的一个沉重箱子中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -132 Y: -175 |
+| 至上真神保护者 | 若持有者拥有[至上真神的烙印](Absolute's_Brand.md "Brand of the Absolute"),法术所受伤害减少1点。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。[火焰护盾：寒冷](Fire_Shield_colon__Chill.md "火焰护盾：寒冷") 施放为4环法术（充能：[长休](Long_Rest.md "长休")。） | 由[泽'瑞尔](Z'rell.md "泽'瑞尔")携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -150 Y: -202 |
+| 沉重巨斧 | [巨像切割者](Gargantuan_Cleave.md "巨像切割者") 竭尽全力挥动武器。你可以攻击多个目标，造成额外1d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源附加](Damage_rider_as_source.md "伤害来源附加")伤害，但会陷入[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 由主层的费泽克携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -152 Y: -191 |
+| 寒意之帽 | 每回合一次，施加在目标身上的任何状态，也会使其获得2回合[覆霜](Encrusted_with_Frost_(Condition).md "覆霜 (状态)")。[[见：错误](Coldbrim_Chill#Bugs.md#Bugs "寒意外溢")] | 在[巴萨扎尔的房间](Moonrise_Towers#Balthazar's_room.md#Balthazar's_room "月出之塔")内书架后隐藏房间的一个上锁箱子中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -155 Y: -173 |
+| 冥蚀之鞭 |  | 由[拉迪娅](Radija.md "拉迪娅")在[一楼](Moonrise_Towers#First_floor.md#First_floor "月出之塔")携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -162 Y: -203 |
+| 铁箍盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外，无特殊属性。 | 倚靠在巨魔怪商人[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")旁的架子上 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -163 |
+| 铁箍盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外，无特殊属性。 | 倚靠在巨魔怪商人[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")旁的架子上 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -163 |
+| 警戒长戟 | [先攻](Initiative.md "先攻")检定获得+1加值，[察觉](Perception.md "察觉")[属性检定](Checks.md "属性")具有[优势](Advantage.md "优势")。当以[反应](Actions#Reactions.md#Reactions "动作")进行[攻击检定](Attack_roll.md "攻击检定")时，该检定具有[优势](Advantage.md "优势")。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 大家伙的磨牙玩具 | [谁是大块头？](Whossa_Large_Fellow_q_.md "Whossa Large Fellow?") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 切割短剑 | 当持有者以[优势](Advantage.md "优势")攻击时，攻击施加[流血](Bleeding_(Condition).md "流血 (状态)")。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 泰坦弦弓 | 此武器造成等于你的[力量](Strength.md "Strength")[调整值](Ability_Modifier.md "调整值")的额外伤害。[推击（远程）](Pushing_Attack_(Titanstring_Bow).md "推击（远程）") 将目标击退4.5米（15英尺）。（充能：[短休](Short_rest.md "短休")。） | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售，仅当此前未通过完成⁠[找到丢失的货物](Find_the_Missing_Shipment.md "找到丢失的货物")解锁[布雷姆](Brem.md "布雷姆")的特供商品时 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 身心折磨 | 当持有者以[优势](Advantage.md "优势")攻击时，造成额外1d8⁠⁠[心灵](Psychic.md "心灵")伤害。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 矮人板条甲 | 你受到的⁠[穿刺](Piercing.md "穿刺")伤害减少1点。[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")和[属性检定](Ability_Check.md "属性检定")获得+1加值。[体质](Constitution.md "体质") +2（最高20） | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 怒心衣袍 | 处于[狂暴](Rage_(Condition).md "狂暴 (状态)")时，穿戴者获得2回合[怒火](Wrath_(Condition).md "怒火 (状态)")。[[见：错误](Ruintamer_Heart#Bugs.md#Bugs "怒从心生")] [体质](Constitution.md "体质") +2（最高20） | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 碎拳头盔 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。你的[先攻](Initiative.md "先攻")检定获得+1加值。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 涌动精准护手 | 当你使用[动作如潮](Action_Surge_(Condition).md "动作如潮 (状态)")时，本回合剩余时间内[攻击检定](Attack_roll.md "攻击检定")获得+1d4加值。[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定") +1 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 决斗者手套 | 仅当主手只持有一件武器且副手为空时，近战武器[攻击检定](Attack_roll.md "攻击检定")获得+2加值。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 哨兵之盾 | [先攻](Initiative.md "先攻")检定获得+3加值，[察觉](Perception.md "察觉")[检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 元素吸收披风 | [吸收元素](Absorb_Elements.md "吸收元素") 每[短休](Short_rest.md "短休")吸收一次元素伤害。承受下次针对你的元素攻击伤害的一半，并在你的下次攻击中造成额外1d6点该元素类型伤害。（充能：[短休](Short_rest.md "短休")。） | 在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")位于二楼的房间的一个华丽箱子中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -170 Y: -171 |
+| 脊骨颤栗护符 | 当穿戴者用远程[法术攻击](Spell_Attack.md "法术攻击")造成伤害时，使目标获得2回合[残响](Reverberation_(Condition).md "残响 (状态)")。 | 在[拟形怪](Mimic.md "拟形怪")内，位于[伊索贝尔](Isobel_Thorm.md "伊索贝尔")在上层的卧室中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -171 Y: -195 |
+| 从不失手 | [魔法飞弹](Magic_Missile.md "魔法飞弹") 施放为3环法术（充能：[短休](Short_rest.md "短休")。） | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 龙喉长戟 | 敌人对抗你的[龙裔](Dragonborn.md "龙裔")[吐息攻击](Breath_Attack.md "吐息攻击")的[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。[龙族元素武器](Draconic_Elemental_Weapon.md "龙族元素武器") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 奉献护甲 | [永恒奉献](Eternal_Devotion.md "永恒奉献") 诵读你的誓言以恢复1点[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")。（充能：[长休](Long_Rest.md "长休")。） | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 碾压手套 | 穿戴者的徒手[攻击检定](Attack_roll.md "攻击检定")获得+1加值，其徒手攻击造成额外2⁠⁠[钝击](Bludgeoning.md "钝击")伤害。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 神射手之帽 | 你的远程[攻击检定](Attack_roll.md "攻击检定")和[投掷](Throw.md "投掷")攻击检定获得+1加值。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 投毒者之戒 | [致命毒液](Virulent_Venom.md "致命毒液") 将戴着戒指的手指指向目标，使其对⁠[中毒](Poison.md "中毒")伤害[易伤](Vulnerable.md "易伤")，除非其对⁠[中毒](Poison.md "中毒")伤害免疫。（充能：[长休](Long_Rest.md "长休")。） | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 怨毒雷霆之戒 | 当穿戴者对处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物造成伤害[[见：错误](Spiteful_Thunder#Bugs.md#Bugs "恶之雷鸣")]时，该生物陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")，除非其通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 利刃捕缚胸甲 | 将你的敏捷[属性调整值](Ability_Modifier.md "属性调整值")完整加入你的[护甲等级](Armour_Class.md "护甲等级")。此外，此护甲不会对[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。生物在抵抗你的攻击以及施加[束缚](Restrained_(Condition).md "束缚 (状态)")的法术时，其[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 止争者 | [毒雾](Poison_Mist.md "毒雾") 命中时，造成等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外⁠[中毒](Poison.md "中毒")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使云内生物[中毒](Poisoned_(Condition).md "中毒 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 由[米格](Mig.md "米格")在主层携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -196 Y: -195 |
+| 法术枢纽护符 | [法术位恢复站](Spell_Slot_Restoration.md "法术位恢复站") 每[长休](Long_Rest.md "长休")一次，以[附赠动作](Actions#Resources.md#Resources "动作")恢复一个任意环级的已消耗[法术位](Spells#Spell_Slots.md#Spell_Slots "法术")。 | 由[典狱长](The_Warden.md "典狱长")穿戴 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 569 Y: -650 |
+| 威压饰环 | 处于[受威胁](Threatened_(Condition).md "受威胁 (状态)")状态时，穿戴者的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。 | 在[典狱长](The_Warden.md "典狱长")塔楼顶层的证物箱中 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 569 Y: -652 |
+| 乌尔布伦之锤 | 对物品和世界物体造成2d4[力场](Force.md "力场")伤害（未列出）。 | 在[典狱长](The_Warden.md "典狱长")房间里爬上梯子后的桌子上 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 575 Y: -647 |
+| 冥蚀之鞭 |  | 由[达基·维利什](Duckie_Verish.md "达基·维利什")在[直面凯瑟里克·索姆](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "潜入月出之塔")后携带 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 596 Y: -647 |
+| 冥蚀之鞭 |  | 由[威林克斯·金德比](Willinx_Jindlebee.md "威林克斯·金德比")在[直面凯瑟里克·索姆](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "潜入月出之塔")后携带 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 596 Y: -651 |
+| 冥蚀之鞭 |  | 由[萨拉贝勒](Sarabayle.md "萨拉贝勒")在[直面凯瑟里克·索姆](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "潜入月出之塔")后携带 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 597 Y: -655 |
+| 冥蚀之鞭 |  | 由[萨斯德拉](Susdera.md "萨斯德拉")在[塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶")携带 | [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶") X: -146 Y: -213 |
+| 神髓戒指 | [劝诫复生者](Exhort_the_Risen.md "劝诫复生者") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[残暴之触](Ghoulish_Touch.md "残暴之触") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 在祭坛处的一个沉重箱子中 | [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶") X: -153 Y: -170 |
+| 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| Infernal Rapier | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"). Instead of its Dexterity [Modifier](Ability_scores#Ability_score_modifiers.md#Ability_score_modifiers "Ability scores"), the affected entity add its [Spellcasting Ability Modifier](Ability_scores#Spellcasting_ability.md#Spellcasting_ability "Ability scores") to [Attack rolls](Attack_roll.md "Attack roll"). [Planar Ally: Cambion](Planar_Ally_colon__Cambion.md "Planar Ally: Cambion") Cast as a level 6 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Possibly rewarded by [Mizora](Mizora.md "Mizora") to [Wyll](Wyll.md "Wyll") if freed during his companion quest, ⁠[The Blade of Frontiers](The_Blade_of_Frontiers.md "The Blade of Frontiers") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 676 Y: 39 |
-| Circle of Bones | Allied [undead](Undead.md "Undead") within 6 m (20 ft) are [Resistant](Resistant.md "Resistant") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Slashing](Slashing.md "Slashing"), and ⁠[Piercing](Piercing.md "Piercing") damage.[[See: Bugs](Undead_Ward#Bugs.md#Bugs "Undead Ward")] [Animate Dead](Animate_Dead.md "Animate Dead") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by Balthazar, if he is allowed to abduct the Nightsong | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 715 Y: -49 |
-| Myrkulite Scourge |  | Carried by [Kressa Bonedaughter](Kressa_Bonedaughter.md "Kressa Bonedaughter") in the [barracks](Mind_Flayer_Colony#Barracks.md#Barracks "Mind Flayer Colony") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 727 Y: 41 |
-| Blade of Oppressed Souls | [Crowning Strike](Crowning_Strike.md "Crowning Strike") Unleash the wails of the dead that fell to your blade, and possibly instil [Crown of Madness](Crown_of_Madness_(Condition).md "Crown of Madness (Condition)") in the target. ( Recharge: [Short rest](Short_rest.md "Short rest").) | In an area unlocked by the [Necrotic Laboratory](Necrotic_Laboratory.md "Necrotic Laboratory") puzzle | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 747 Y: -138 |
-| Braindrain Gloves | When you deal ⁠[Psychic](Psychic.md "Psychic") damage, you also inflict [Mental Fatigue](Mental_Fatigue_(Condition).md "Mental Fatigue (Condition)") for 2 turns. | On a skeleton in the [Necrotic Laboratory](Necrotic_Laboratory.md "Necrotic Laboratory"), next to the [Blade of Oppressed Souls](Blade_of_Oppressed_Souls.md "Blade of Oppressed Souls") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 748 Y: -141 |
-| Circlet of Mental Anguish | When an enemy fails a [Charisma](Charisma.md "Charisma"), [Intelligence](Intelligence.md "Intelligence"), or [Wisdom](Wisdom.md "Wisdom") [Saving throw](Saving_throw.md "Saving throw") against one of your spells or cantrips, you regain 1d4⁠⁠[hit points](Healing.md "Healing"). | On a skeleton in the [Necrotic Laboratory](Necrotic_Laboratory.md "Necrotic Laboratory") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 748 Y: -141 |
-| Ketheric's Warhammer |  | Carried by [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") while fighting in either conflict with him (see notes) | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
-| Jhannyl's Gloves | When the wearer becomes [Blinded](Blinded_(Condition).md "Blinded (Condition)"), [Paralysed](Paralysed_(Condition).md "Paralysed (Condition)") or [Poisoned](Poisoned_(Condition).md "Poisoned (Condition)"), they automatically cast [Lesser Restoration](Lesser_Restoration.md "Lesser Restoration") on themselves. [Saving Throws](Saving_throw.md "Saving Throw") +1 | Worn by Isobel if she is kidnapped by [Marcus](Marcus.md "Marcus") or killed at Last Light Inn before dealing with the Nightsong | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
-| Ketheric's Shield | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC") and [Spell Attack](Spell_Attack.md "Spell Attack") rolls. [Advantage](Advantage.md "Advantage") on [Dexterity](Dexterity.md "Dexterity") [Saving Throws](Saving_throws.md "Saving Throws") [Shield Blow](Shield_Blow.md "Shield Blow") When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw"). | Carried by [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") when fought a second time | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
-| Moon Devotion Robe | While the wearer has [Mage Armour](Mage_Armour_(Condition).md "Mage Armour (Condition)"), each successful [Saving Throw](Saving_throw.md "Saving Throw") causes the source of the Saving Throw to take 1-4⁠⁠[Radiant](Radiant.md "Radiant") damage. [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw"). [Saving Throws](Saving_throw.md "Saving Throw") +1 [Lunar Bulwark](Lunar_Bulwark.md "Lunar Bulwark") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) [Produce Flame](Produce_Flame.md "Produce Flame") Cast as a cantrip at will. | Worn by Isobel after being kidnapped by [Marcus](Marcus_Falgor.md "Marcus Falgor") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
-| Reaper's Embrace | All incoming damage is reduced by 2. When activated, you can't be moved against your will by any spell or action, but have [Disadvantage](Disadvantage.md "Disadvantage") on Dexterity [Saving throws](Saving_throw.md "Saving throw"). [Howl of the Dead](Howl_of_the_Dead.md "Howl of the Dead") Let out a bone-chilling howl that [Numbs](Numbed_(Condition).md "Numbed (Condition)") all nearby creatures. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Worn by [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
+| 地狱细剑 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。受影响实体将其[施法属性调整值](Ability_Scores.md#Spellcasting_ability "属性")而非其敏捷[属性调整值](Ability_Scores.md#Ability_score_modifiers "属性")加入[攻击检定](Attack_roll.md "攻击检定")。[异界誓盟：坎比翁](Planar_Ally_colon__Cambion.md "异界誓盟：坎比翁") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 若在其伙伴任务⁠[边境之刃](The_Blade_of_Frontiers.md "边境之刃")中解放他，可能由[米佐拉](Mizora.md "米佐拉")奖励给[威尔](Wyll.md "威尔") | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 676 Y: 39 |
+| 骸骨饰环 | 6米（20英尺）内的友方[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害拥有[抗性](Resistant.md "抗性").[[见：错误](Undead_Ward#Bugs.md#Bugs "防护不死生物")] [操纵死尸](Animate_Dead.md "操纵死尸") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由巴萨扎尔携带，若其被允许绑架暗夜之歌 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 715 Y: -49 |
+| 冥蚀之鞭 |  | 由[克雷萨·骨女](Kressa_Bonedaughter.md "克雷萨·骨女")在[营房](Mind_Flayer_Colony#Barracks.md#Barracks "夺心魔殖民地")内携带 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 727 Y: 41 |
+| 压迫灵魂之剑 | [至高打击](Crowning_Strike.md "至高打击") 释放倒在你刃下的亡者哀嚎，可能使目标陷入[疯狂冠冕](Crown_of_Madness_(Condition).md "疯狂冠冕 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 在[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")谜题解锁的区域 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 747 Y: -138 |
+| 脑力汲取手套 | 当你造成⁠[心灵](Psychic.md "心灵")伤害时，还会使目标获得2回合[精神疲劳](Mental_Fatigue_(Condition).md "精神疲劳 (状态)")。 | 在[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")的一具骸骨上，位于[压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑")旁 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 748 Y: -141 |
+| 精神剧痛饰环 | 当敌人对抗你的一个法术或戏法的[魅力](Charisma.md "魅力")、[智力](Intelligence.md "智力")或[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")失败时，你恢复1d4⁠⁠[生命值](Healing.md "治疗")。 | 在[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")的一具骸骨上 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 748 Y: -141 |
+| 凯瑟里克战锤 |  | 在与其两场冲突中战斗时由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")携带（见说明） | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
+| 詹尼尔的手套 | 当穿戴者陷入[目盲](Blinded_(Condition).md "目盲 (状态)")、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")时，会自动对自己施放[次级复原术](Lesser_Restoration.md "次级复原术")。[豁免检定](Saving_throw.md "豁免检定") +1 | 若[伊索贝尔](Isobel_Thorm.md "伊索贝尔")在解决暗夜之歌事件前被[马库斯](Marcus.md "马库斯")绑架，或在终焉光芒旅店被杀，则由她穿戴 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
+| 凯瑟里克之盾 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")检定获得+1加值。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。 | 第二次与其战斗时由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")携带 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
+| 奉献皎月长袍 | 当穿戴者拥有[魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")时，每次成功的[豁免检定](Saving_throw.md "豁免检定")都会使豁免检定的来源受到1-4⁠⁠[光耀](Radiant.md "光耀")伤害。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[豁免检定](Saving_throw.md "豁免检定") +1 [月光壁垒](Lunar_Bulwark.md "月光壁垒") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[燃火术](Produce_Flame.md "燃火术") 随意施放为戏法。 | 被[马库斯](Marcus_Falgor.md "马库斯·法尔戈")绑架后由伊索贝尔穿戴 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
+| 收割者的拥抱 | 所受全部伤害减少2点。激活后，你无法被任何法术或动作违背意愿地移动，但[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。[亡者哀嚎](Howl_of_the_Dead.md "亡者哀嚎") 发出一声彻骨寒嚎，使附近所有生物[麻木](Numbed_(Condition).md "麻木 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")穿戴 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
 X: -146 Y: -213
-[Ring of Exalted Marrow](Ring_of_Exalted_Marrow.md "Ring of Exalted Marrow")
+[神髓戒指](Ring_of_Exalted_Marrow.md "神髓戒指")
 |
 
-[Exhort the Risen](Exhort_the_Risen.md "Exhort the Risen")
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+[劝诫复生者](Exhort_the_Risen.md "劝诫复生者")
+施放为1环法术（充能：[长休](Long_Rest.md "长休")。）
 
-[Ghoulish Touch](Ghoulish_Touch.md "Ghoulish Touch")
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| In a heavy chest at the altar | [Moonrise Towers Rooftop](Moonrise_Towers_Rooftop.md "Moonrise Towers Rooftop") |
+[残暴之触](Ghoulish_Touch.md "残暴之触")
+施放为1环法术（充能：[长休](Long_Rest.md "长休")。）
+| 在祭坛处的一个沉重箱子中 | [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶") |
 X: -153 Y: -170
 
 [￪ Back to top](#top)
 
 ## 夺心魔殖民地
 
-- You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC").
-- Instead of its Dexterity [Modifier](Ability_Scores.md#Ability_score_modifiers "Ability scores"), the affected entity add its [Spellcasting Ability Modifier](Ability_Scores.md#Spellcasting_ability "Ability scores") to [Attack rolls](Attack_roll.md "Attack roll").
+- 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。
+- 受影响实体将其[施法属性调整值](Ability_Scores.md#Spellcasting_ability "属性")而非其敏捷[属性调整值](Ability_Scores.md#Ability_score_modifiers "属性")加入[攻击检定](Attack_roll.md "攻击检定")。
 
-[Planar Ally: Cambion](Planar_Ally_colon__Cambion.md "Planar Ally: Cambion")
-Cast as a level 6 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Possibly rewarded by [Mizora](Mizora.md "Mizora") to [Wyll](Wyll.md "Wyll") if freed during his companion quest, ⁠[The Blade of Frontiers](The_Blade_of_Frontiers.md "The Blade of Frontiers") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") |
+[异界誓盟：坎比翁](Planar_Ally_colon__Cambion.md "异界誓盟：坎比翁")
+施放为6环法术（充能：[长休](Long_Rest.md "长休")。）
+| 若在其伙伴任务⁠[边境之刃](The_Blade_of_Frontiers.md "边境之刃")中解放他，可能由[米佐拉](Mizora.md "米佐拉")奖励给[威尔](Wyll.md "威尔") | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") |
 X: 676 Y: 39
-[Circle of Bones](Circle_of_Bones.md "Circle of Bones")
+[骸骨饰环](Circle_of_Bones.md "骸骨饰环")
 |
 
-- Allied [undead](Undead.md "Undead") within 6 m (20 ft) are [Resistant](Resistant.md "Resistant") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Slashing](Slashing.md "Slashing"), and ⁠[Piercing](Piercing.md "Piercing") damage._\[[See: Bugs](Undead_Ward.md#Bugs "Undead Ward")\]_
+- 6米（20英尺）内的友方[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害拥有[抗性](Resistant.md "抗性")._\[[见：错误](Undead_Ward.md#Bugs "防护不死生物")\]_
 
-[Animate Dead](Animate_Dead.md "Animate Dead")
-Cast as a level 3 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
-| Carried by Balthazar, if he is allowed to abduct the Nightsong | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") |
+[操纵死尸](Animate_Dead.md "操纵死尸")
+施放为3环法术（充能：[长休](Long_Rest.md "长休")。）
+| 由巴萨扎尔携带，若其被允许绑架暗夜之歌 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") |
 X: 715 Y: -49
-| Item Name | Item Effect | Where to Find | Location |
+| 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| Moonlantern |  | In [Balthazar's](Balthazar.md "Balthazar") room in [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
-| Shadow Lantern | [Conjure Shadow Lantern Wraith](Conjure_Shadow_Lantern_Wraith.md "Conjure Shadow Lantern Wraith") Cast as a level 6 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Created by having [Gale](Gale.md "Gale") in the party while combining the following components at the table located at X: -150 Y: -165 within [Balthazar's](Balthazar.md "Balthazar") hidden room: [Broken Moonlantern](Broken_Moonlantern.md "Broken Moonlantern") - carried by [Nere](Nere.md "Nere") in [Grymforge](Grymforge.md "Grymforge"), located at the top of the Grymforge elevator before entering the [Shadow-Cursed Lands](Shadow-Cursed_Lands.md "Shadow-Cursed Lands") at X: 37 Y: -1165, or within [Balthazar's](Balthazar.md "Balthazar") hidden room [Dead Pixie](Dead_Pixie.md "Dead Pixie") - found within [Balthazar's](Balthazar.md "Balthazar") hidden room | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
-| Shield +1 | No special properties, beyond the [Armour Class](Armour_Class.md "Armour Class") enchantment. | Sold by [Quartermaster Talli](Talli.md "Talli") after [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") is defeated | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") |
-| Boots of Arcane Bolstering | Each time they [Dash](Dash.md "Dash"), the wearer gains [Arcane Charge](Arcane_Charge_(Condition).md "Arcane Charge (Condition)") for 2 turns. | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Circlet of Hunting | You gain a +1d4 bonus to [Attack rolls](Attack_roll.md "Attack roll") against creatures marked by [Hunter's Mark](Hunter's_Mark_Quarry_(Condition).md "Hunter's Mark Quarry (Condition)"), [True Strike](True_Strike_(Condition).md "True Strike (Condition)"), [Faerie Fire](Faerie_Fire_(Condition).md "Faerie Fire (Condition)"), or [Guiding Bolt](Guiding_Bolt_(Condition).md "Guiding Bolt (Condition)"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Hat of Storm Scion's Power | Whenever the wearer deals ⁠[Thunder](Thunder.md "Thunder") damage, they gain [Arcane Acuity](Arcane_Acuity_(Condition).md "Arcane Acuity (Condition)"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Ring of Free Action | You ignore the effects of [Difficult Terrain](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)"), and cannot be [Paralysed](Paralysed_(Condition).md "Paralysed (Condition)") or [Restrained](Restrained_(Condition).md "Restrained (Condition)"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Risky Ring | You gain [Advantage](Advantage.md "Advantage") on [Attack rolls](Attack_roll.md "Attack roll") and receive [Disadvantage](Disadvantage.md "Disadvantage") on [Saving throws](Saving_throw.md "Saving throw"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Robe of Exquisite Focus | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Thunderskin Cloak | When a creature with [Reverberation](Reverberation_(Condition).md "Reverberation (Condition)") deals damage to the wearer, the creature needs to make a [Constitution](Constitution.md "Constitution") [saving throw](Saving_throw.md "Saving throw") or become [Dazed](Dazed_(Condition).md "Dazed (Condition)"). | Sold by [Araj Oblodra](Araj_Oblodra.md "Araj Oblodra") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -128 Y: -193 |
-| Derivation Cloak | When you [Poison](Poisoned_(Condition).md "Poisoned (Condition)") a foe, heal yourself for 1d4⁠⁠[hit points](Healing.md "Healing"). | In a heavy chest in [Balthazar's](Balthazar.md "Balthazar") chambers on the [First Floor](Moonrise_Towers#First_floor.md#First_floor "Moonrise Towers") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -132 Y: -175 |
-| Absolute's Protector | If the wielder bears the [Absolute's Brand](Absolute's_Brand.md "Absolute's Brand"), all damage received from spells is reduced by 1. [Shield Blow](Shield_Blow.md "Shield Blow") When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw"). [Fire Shield: Chill](Fire_Shield_colon__Chill.md "Fire Shield: Chill") Cast as a level 4 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by [Z'rell](Z'rell.md "Z'rell") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -150 Y: -202 |
-| Very Heavy Greataxe | [Gargantuan Cleave](Gargantuan_Cleave.md "Gargantuan Cleave") Swing your weapon with all your might. You can attack multiple targets, dealing bonus 1d6⁠⁠[Slashing](Slashing.md "Slashing")[DRS](Damage_rider_as_source.md "Damage rider as source") damage, but become [Off Balanced](Off_Balance_(Gargantuan_Cleave)_(Condition).md "Off Balance (Gargantuan Cleave) (Condition)"). ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by Fezzerk on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -152 Y: -191 |
-| Coldbrim Hat | Once per turn, any condition inflicted on a target, also applies 2 turns of [Encrusted with Frost](Encrusted_with_Frost_(Condition).md "Encrusted with Frost (Condition)").[[See: Bugs](Coldbrim_Chill#Bugs.md#Bugs "Coldbrim Chill")] | In a locked chest in a hidden room behind a bookcase in [Balthazar's Chambers](Moonrise_Towers#Balthazar's_room.md#Balthazar's_room "Moonrise Towers") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -155 Y: -173 |
-| Myrkulite Scourge |  | Carried by [Radija](Radija.md "Radija") on the [first floor](Moonrise_Towers#First_floor.md#First_floor "Moonrise Towers") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -162 Y: -203 |
-| Iron-Banded Shield +1 | No special properties, beyond the [Armour Class](Armour_Class.md "Armour Class") enchantment. | Leaning against a rack next to the bugbear merchant [Lann Tarv](Lann_Tarv.md "Lann Tarv") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -163 |
-| Iron-Banded Shield +1 | No special properties, beyond the [Armour Class](Armour_Class.md "Armour Class") enchantment. | Leaning against a rack next to the bugbear merchant [Lann Tarv](Lann_Tarv.md "Lann Tarv") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -163 |
-| Halberd of Vigilance | Gain a +1 bonus to [Initiative](Initiative.md "Initiative") rolls and [Advantage](Advantage.md "Advantage") on [Perception](Perception.md "Perception") [Ability Checks](Checks.md "Checks"). When you make an [Attack roll](Attack_roll.md "Attack roll") as a [Reaction](Actions#Reactions.md#Reactions "Actions"), you make it with [Advantage](Advantage.md "Advantage"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Bigboy's Chew Toy | [Whossa Large Fellow?](Whossa_Large_Fellow_q_.md "Whossa Large Fellow?") Cast as a level 2 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Slicing Shortsword | When the wielder attacks with [Advantage](Advantage.md "Advantage"), the attack inflicts [Bleeding](Bleeding_(Condition).md "Bleeding (Condition)"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Titanstring Bow | This weapon deals additional damage equal to your [Strength](Strength.md "Strength") [Modifier](Ability_Modifier.md "Ability Modifier"). [Pushing Attack (Ranged)](Pushing_Attack_(Titanstring_Bow).md "Pushing Attack (Titanstring Bow)") Pushes your target back 4.5 m (15 ft). ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor, only if [Brem's](Brem.md "Brem") special stock was not unlocked before by completing ⁠[Find the Missing Shipment](Find_the_Missing_Shipment.md "Find the Missing Shipment") | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Render of Mind and Body | When the wielder attacks with [Advantage](Advantage.md "Advantage"), they deal an additional 1d8⁠⁠[Psychic](Psychic.md "Psychic"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Dwarven Splintmail | You take 1 less ⁠[Piercing](Piercing.md "Piercing") damage. Gain a +1 bonus to [Strength](Strength.md "Strength") [Saving throws](Saving_throw.md "Saving throw") and [Ability checks](Ability_Check.md "Ability check"). [Constitution](Constitution.md "Constitution") +2 (Max 20) | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Enraging Heart Garb | While [Raging](Rage_(Condition).md "Rage (Condition)"), the wearer generates 2 turns of [Wrath](Wrath_(Condition).md "Wrath (Condition)").[[See: Bugs](Ruintamer_Heart#Bugs.md#Bugs "Ruintamer Heart")] [Constitution](Constitution.md "Constitution") +2 (up to 20) | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Fistbreaker Helm | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"). You gain a +1 bonus to [Initiative rolls](Initiative.md "Initiative"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Gauntlets of Surging Accuracy | When you use [Action Surge](Action_Surge_(Condition).md "Action Surge (Condition)"), gain a +1d4 bonus to [Attack rolls](Attack_roll.md "Attack roll") for the rest of your turn. [Strength](Strength.md "Strength") [Saving Throws](Saving_throw.md "Saving Throw") +1 | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Gloves of The Duellist | While only holding one weapon in your main hand and nothing in your free hand, gain a +2 bonus to melee weapon [Attack rolls](Attack_roll.md "Attack roll"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Sentinel Shield | Gain a +3 bonus to [Initiative](Initiative.md "Initiative") rolls and [Advantage](Advantage.md "Advantage") on [Perception](Perception.md "Perception") [checks](Ability_Check.md "Ability check"). [Shield Blow](Shield_Blow.md "Shield Blow") When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw"). | Sold by [Lann Tarv](Lann_Tarv.md "Lann Tarv") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -164 Y: -167 |
-| Cloak of Elemental Absorption | [Absorb Elements](Absorb_Elements.md "Absorb Elements") Absorb elemental damage once per [Short Rest](Short_rest.md "Short Rest"). Take half damage from the next elemental attack targeting you, and deal an additional 1d6 of that element type on your next attack. ( Recharge: [Short rest](Short_rest.md "Short rest").) | In an opulent chest in [Ketheric Thorm's](Ketheric_Thorm.md "Ketheric Thorm") chambers on the second floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -170 Y: -171 |
-| Spineshudder Amulet | When the wearer deals damage with a ranged [Spell Attack](Spell_Attack.md "Spell Attack"), inflict 2 turns of [Reverberation](Reverberation_(Condition).md "Reverberation (Condition)") on the target(s). | In the [Mimic](Mimic.md "Mimic") in [Isobel's](Isobel_Thorm.md "Isobel Thorm") bedroom on the upper floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -171 Y: -195 |
-| Ne'er Misser | [Magic Missile](Magic_Missile.md "Magic Missile") Cast as a level 3 spell ( Recharge: [Short rest](Short_rest.md "Short rest").) | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Drakethroat Glaive | Enemies have [Disadvantage](Disadvantage.md "Disadvantage") on [Saving Throws](Saving_throw.md "Saving Throw") against your [dragonborn](Dragonborn.md "Dragonborn") [breath weapon](Breath_Attack.md "Breath Attack"). [Draconic Elemental Weapon](Draconic_Elemental_Weapon.md "Draconic Elemental Weapon") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Armour of Devotion | [Eternal Devotion](Eternal_Devotion.md "Eternal Devotion") Recite your Oath to regain 1 [Channel Oath Charge](Channel_Oath_Charge.md "Channel Oath Charge"). ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Gloves of Crushing | The wearer gains a +1 bonus to unarmed [Attack rolls](Attack_roll.md "Attack roll") and their unarmed attacks deal an additional 2⁠⁠[Bludgeoning](Bludgeoning.md "Bludgeoning") damage. | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Marksmanship Hat | You gain a +1 bonus to Ranged [Attack rolls](Attack_roll.md "Attack roll") and [Thrown](Throw.md "Throw") Attack Rolls. | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Poisoner's Ring | [Virulent Venom](Virulent_Venom.md "Virulent Venom") Point your ringed finger at a target to make it [vulnerable](Vulnerable.md "Vulnerable") to ⁠[Poison](Poison.md "Poison") damage, unless it is immune to ⁠[Poison](Poison.md "Poison") damage. ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Ring of Spiteful Thunder | When the wearer deals damage[[See: Bugs](Spiteful_Thunder#Bugs.md#Bugs "Spiteful Thunder")] to a [Reverberating](Reverberation_(Condition).md "Reverberation (Condition)") creature, it becomes [Dazed](Dazed_(Condition).md "Dazed (Condition)") unless it succeeds a [Constitution](Constitution.md "Constitution") [saving throw](Saving_throw.md "Saving throw"). | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Sharpened Snare Cuirass | Add your full Dexterity [Modifier](Ability_Modifier.md "Ability Modifier") to your [Armour Class](Armour_Class.md "Armour Class"). Additionally, this armour does not impose [Disadvantage](Disadvantage.md "Disadvantage") on Stealth [Ability Checks](Ability_Check.md "Ability Check"). Creatures have [Disadvantage](Disadvantage.md "Disadvantage") on [Saving throws](Saving_throw.md "Saving throw") when resisting your attacks and spells that inflict [Restrained](Restrained_(Condition).md "Restrained (Condition)"). | Sold by [Roah Moonglow](Roah_Moonglow.md "Roah Moonglow") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -174 Y: -179 |
-| Argument Solver | [Poison Mist](Poison_Mist.md "Poison Mist") On a hit, deal extra ⁠[Poison](Poison.md "Poison") damage equal to your [proficiency bonus](Proficiency_Bonus.md "Proficiency bonus") and surround the target in a [noxious cloud](Poison_Cloud.md "Poison Cloud") that possibly [Poisons](Poisoned_(Condition).md "Poisoned (Condition)") those within it. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Carried by [Mig](Mig.md "Mig") on the main floor | [Moonrise Towers](Moonrise_Towers.md "Moonrise Towers") X: -196 Y: -195 |
-| Spellcrux Amulet | [Spell Slot Restoration](Spell_Slot_Restoration.md "Spell Slot Restoration") Replenish an expended [spell slot](Spells#Spell_Slots.md#Spell_Slots "Spells") of any level as a [Bonus Action](Actions#Resources.md#Resources "Actions") once per [Long Rest](Long_Rest.md "Long Rest"). | Worn by the [Warden](The_Warden.md "The Warden") | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 569 Y: -650 |
-| Browbeaten Circlet | The wearer gains a +1 bonus to [spell save DC](Spell_save_DC.md "Spell Save DC") while [Threatened](Threatened_(Condition).md "Threatened (Condition)"). | In the evidence chest on the top floor of the [Warden's](The_Warden.md "The Warden") tower | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 569 Y: -652 |
-| Wulbren's Hammer | 2d4[Force](Force.md "Force") damage against items and world objects (unlisted). | On a table up the ladder in [the Warden's](The_Warden.md "The Warden") room | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 575 Y: -647 |
-| Myrkulite Scourge |  | Carried by [Duckie Verish](Duckie_Verish.md "Duckie Verish") after [confronting Ketheric Thorm](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "Infiltrate Moonrise Towers") | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 596 Y: -647 |
-| Myrkulite Scourge |  | Carried by [Willinx Jindlebee](Willinx_Jindlebee.md "Willinx Jindlebee") after [confronting Ketheric Thorm](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "Infiltrate Moonrise Towers") | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 596 Y: -651 |
-| Myrkulite Scourge |  | Carried by [Sarabayle](Sarabayle.md "Sarabayle") after [confronting Ketheric Thorm](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "Infiltrate Moonrise Towers") | [Moonrise Towers Prison](Moonrise_Towers_Prison.md "Moonrise Towers Prison") X: 597 Y: -655 |
-| Myrkulite Scourge |  | Carried by [Susdera](Susdera.md "Susdera") on the [rooftop](Moonrise_Towers_Rooftop.md "Moonrise Towers Rooftop") | [Moonrise Towers Rooftop](Moonrise_Towers_Rooftop.md "Moonrise Towers Rooftop") X: -146 Y: -213 |
-| Ring of Exalted Marrow | [Exhort the Risen](Exhort_the_Risen.md "Exhort the Risen") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) [Ghoulish Touch](Ghoulish_Touch.md "Ghoulish Touch") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | In a heavy chest at the altar | [Moonrise Towers Rooftop](Moonrise_Towers_Rooftop.md "Moonrise Towers Rooftop") X: -153 Y: -170 |
+| 月亮提灯 |  | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")位于[月出之塔](Moonrise_Towers.md "月出之塔")的房间内 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 暗影提灯 | [召唤影灯缚灵](Conjure_Shadow_Lantern_Wraith.md "召唤影灯缚灵") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 让[盖尔](Gale.md "盖尔")在队伍中，在[巴萨扎尔](Balthazar.md "巴萨扎尔")密室中位于 X: -150 Y: -165 的桌子旁组合以下材料：[坏掉的月亮提灯](Broken_Moonlantern.md "坏掉的月亮提灯") - 由[尼讷](Nere.md "尼讷")在[复仇之炉](Grymforge.md "复仇之炉")携带，位于复仇之炉电梯顶部、进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")前（X: 37 Y: -1165），或在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内 [死去的妖精](Dead_Pixie.md "死去的妖精") - 在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内找到 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外，无特殊属性。 | 由[军需官塔利](Talli.md "塔利")在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")被击败后出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 奥术强化之靴 | 每次[疾走](Dash.md "疾走")时，穿戴者获得2回合[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 狩猎饰环 | 对被[猎人之标](Hunter's_Mark_Quarry_(Condition).md "猎人之标 (状态)")、[真实打击](True_Strike_(Condition).md "真实打击 (状态)")、[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")或[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")标记的生物，你的[攻击检定](Attack_roll.md "攻击检定")获得+1d4加值。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 风暴之子之力帽 | 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 自由动作戒指 | 你忽略[艰难地形](Difficult_Terrain_(Condition).md "艰难地形 (状态)")的效果，且无法被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 风险戒指 | 你的[攻击检定](Attack_roll.md "攻击检定")具有[优势](Advantage.md "优势"),但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 精准专注长袍 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 雷束披风 | 当处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 导引披风 | 当你使敌人[中毒](Poisoned_(Condition).md "中毒 (状态)")时，恢复自身1d4⁠⁠[生命值](Healing.md "治疗")。 | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")位于[一楼](Moonrise_Towers#First_floor.md#First_floor "月出之塔")的房间的一个沉重箱子中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -132 Y: -175 |
+| 至上真神保护者 | 若持有者拥有[至上真神的烙印](Absolute's_Brand.md "Brand of the Absolute"),法术所受伤害减少1点。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。[火焰护盾：寒冷](Fire_Shield_colon__Chill.md "火焰护盾：寒冷") 施放为4环法术（充能：[长休](Long_Rest.md "长休")。） | 由[泽'瑞尔](Z'rell.md "泽'瑞尔")携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -150 Y: -202 |
+| 沉重巨斧 | [巨像切割者](Gargantuan_Cleave.md "巨像切割者") 竭尽全力挥动武器。你可以攻击多个目标，造成额外1d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源附加](Damage_rider_as_source.md "伤害来源附加")伤害，但会陷入[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 由主层的费泽克携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -152 Y: -191 |
+| 寒意之帽 | 每回合一次，施加在目标身上的任何状态，也会使其获得2回合[覆霜](Encrusted_with_Frost_(Condition).md "覆霜 (状态)")。[[见：错误](Coldbrim_Chill#Bugs.md#Bugs "寒意外溢")] | 在[巴萨扎尔的房间](Moonrise_Towers#Balthazar's_room.md#Balthazar's_room "月出之塔")内书架后隐藏房间的一个上锁箱子中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -155 Y: -173 |
+| 冥蚀之鞭 |  | 由[拉迪娅](Radija.md "拉迪娅")在[一楼](Moonrise_Towers#First_floor.md#First_floor "月出之塔")携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -162 Y: -203 |
+| 铁箍盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外，无特殊属性。 | 倚靠在巨魔怪商人[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")旁的架子上 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -163 |
+| 铁箍盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外，无特殊属性。 | 倚靠在巨魔怪商人[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")旁的架子上 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -163 |
+| 警戒长戟 | [先攻](Initiative.md "先攻")检定获得+1加值，[察觉](Perception.md "察觉")[属性检定](Checks.md "属性")具有[优势](Advantage.md "优势")。当以[反应](Actions#Reactions.md#Reactions "动作")进行[攻击检定](Attack_roll.md "攻击检定")时，该检定具有[优势](Advantage.md "优势")。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 大家伙的磨牙玩具 | [谁是大块头？](Whossa_Large_Fellow_q_.md "Whossa Large Fellow?") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 切割短剑 | 当持有者以[优势](Advantage.md "优势")攻击时，攻击施加[流血](Bleeding_(Condition).md "流血 (状态)")。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 泰坦弦弓 | 此武器造成等于你的[力量](Strength.md "Strength")[调整值](Ability_Modifier.md "调整值")的额外伤害。[推击（远程）](Pushing_Attack_(Titanstring_Bow).md "推击（远程）") 将目标击退4.5米（15英尺）。（充能：[短休](Short_rest.md "短休")。） | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售，仅当此前未通过完成⁠[找到丢失的货物](Find_the_Missing_Shipment.md "找到丢失的货物")解锁[布雷姆](Brem.md "布雷姆")的特供商品时 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 身心折磨 | 当持有者以[优势](Advantage.md "优势")攻击时，造成额外1d8⁠⁠[心灵](Psychic.md "心灵")伤害。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 矮人板条甲 | 你受到的⁠[穿刺](Piercing.md "穿刺")伤害减少1点。[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")和[属性检定](Ability_Check.md "属性检定")获得+1加值。[体质](Constitution.md "体质") +2（最高20） | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 怒心衣袍 | 处于[狂暴](Rage_(Condition).md "狂暴 (状态)")时，穿戴者获得2回合[怒火](Wrath_(Condition).md "怒火 (状态)")。[[见：错误](Ruintamer_Heart#Bugs.md#Bugs "怒从心生")] [体质](Constitution.md "体质") +2（最高20） | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 碎拳头盔 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。你的[先攻](Initiative.md "先攻")检定获得+1加值。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 涌动精准护手 | 当你使用[动作如潮](Action_Surge_(Condition).md "动作如潮 (状态)")时，本回合剩余时间内[攻击检定](Attack_roll.md "攻击检定")获得+1d4加值。[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定") +1 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 决斗者手套 | 仅当主手只持有一件武器且副手为空时，近战武器[攻击检定](Attack_roll.md "攻击检定")获得+2加值。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 哨兵之盾 | [先攻](Initiative.md "先攻")检定获得+3加值，[察觉](Perception.md "察觉")[检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。 | 由[兰恩·塔夫](Lann_Tarv.md "兰恩·塔夫")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -164 Y: -167 |
+| 元素吸收披风 | [吸收元素](Absorb_Elements.md "吸收元素") 每[短休](Short_rest.md "短休")吸收一次元素伤害。承受下次针对你的元素攻击伤害的一半，并在你的下次攻击中造成额外1d6点该元素类型伤害。（充能：[短休](Short_rest.md "短休")。） | 在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")位于二楼的房间的一个华丽箱子中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -170 Y: -171 |
+| 脊骨颤栗护符 | 当穿戴者用远程[法术攻击](Spell_Attack.md "法术攻击")造成伤害时，使目标获得2回合[残响](Reverberation_(Condition).md "残响 (状态)")。 | 在[拟形怪](Mimic.md "拟形怪")内，位于[伊索贝尔](Isobel_Thorm.md "伊索贝尔")在上层的卧室中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -171 Y: -195 |
+| 从不失手 | [魔法飞弹](Magic_Missile.md "魔法飞弹") 施放为3环法术（充能：[短休](Short_rest.md "短休")。） | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 龙喉长戟 | 敌人对抗你的[龙裔](Dragonborn.md "龙裔")[吐息攻击](Breath_Attack.md "吐息攻击")的[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。[龙族元素武器](Draconic_Elemental_Weapon.md "龙族元素武器") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 奉献护甲 | [永恒奉献](Eternal_Devotion.md "永恒奉献") 诵读你的誓言以恢复1点[引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")。（充能：[长休](Long_Rest.md "长休")。） | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 碾压手套 | 穿戴者的徒手[攻击检定](Attack_roll.md "攻击检定")获得+1加值，其徒手攻击造成额外2⁠⁠[钝击](Bludgeoning.md "钝击")伤害。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 神射手之帽 | 你的远程[攻击检定](Attack_roll.md "攻击检定")和[投掷](Throw.md "投掷")攻击检定获得+1加值。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 投毒者之戒 | [致命毒液](Virulent_Venom.md "致命毒液") 将戴着戒指的手指指向目标，使其对⁠[中毒](Poison.md "中毒")伤害[易伤](Vulnerable.md "易伤")，除非其对⁠[中毒](Poison.md "中毒")伤害免疫。（充能：[长休](Long_Rest.md "长休")。） | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 怨毒雷霆之戒 | 当穿戴者对处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物造成伤害[[见：错误](Spiteful_Thunder#Bugs.md#Bugs "恶之雷鸣")]时，该生物陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")，除非其通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 利刃捕缚胸甲 | 将你的敏捷[属性调整值](Ability_Modifier.md "属性调整值")完整加入你的[护甲等级](Armour_Class.md "护甲等级")。此外，此护甲不会对[隐匿](Stealth.md "隐匿")[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。生物在抵抗你的攻击以及施加[束缚](Restrained_(Condition).md "束缚 (状态)")的法术时，其[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -174 Y: -179 |
+| 止争者 | [毒雾](Poison_Mist.md "毒雾") 命中时，造成等于你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外⁠[中毒](Poison.md "中毒")伤害，并使目标被[毒云](Poison_Cloud.md "毒云")包围，可能使云内生物[中毒](Poisoned_(Condition).md "中毒 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 由[米格](Mig.md "米格")在主层携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -196 Y: -195 |
+| 法术枢纽护符 | [法术位恢复站](Spell_Slot_Restoration.md "法术位恢复站") 每[长休](Long_Rest.md "长休")一次，以[附赠动作](Actions#Resources.md#Resources "动作")恢复一个任意环级的已消耗[法术位](Spells#Spell_Slots.md#Spell_Slots "法术")。 | 由[典狱长](The_Warden.md "典狱长")穿戴 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 569 Y: -650 |
+| 威压饰环 | 处于[受威胁](Threatened_(Condition).md "受威胁 (状态)")状态时，穿戴者的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。 | 在[典狱长](The_Warden.md "典狱长")塔楼顶层的证物箱中 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 569 Y: -652 |
+| 乌尔布伦之锤 | 对物品和世界物体造成2d4[力场](Force.md "力场")伤害（未列出）。 | 在[典狱长](The_Warden.md "典狱长")房间里爬上梯子后的桌子上 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 575 Y: -647 |
+| 冥蚀之鞭 |  | 由[达基·维利什](Duckie_Verish.md "达基·维利什")在[直面凯瑟里克·索姆](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "潜入月出之塔")后携带 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 596 Y: -647 |
+| 冥蚀之鞭 |  | 由[威林克斯·金德比](Willinx_Jindlebee.md "威林克斯·金德比")在[直面凯瑟里克·索姆](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "潜入月出之塔")后携带 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 596 Y: -651 |
+| 冥蚀之鞭 |  | 由[萨拉贝勒](Sarabayle.md "萨拉贝勒")在[直面凯瑟里克·索姆](Infiltrate_Moonrise_Towers#Confronting_Ketheric.md#Confronting_Ketheric "潜入月出之塔")后携带 | [月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱") X: 597 Y: -655 |
+| 冥蚀之鞭 |  | 由[萨斯德拉](Susdera.md "萨斯德拉")在[塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶")携带 | [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶") X: -146 Y: -213 |
+| 神髓戒指 | [劝诫复生者](Exhort_the_Risen.md "劝诫复生者") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[残暴之触](Ghoulish_Touch.md "残暴之触") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 在祭坛处的一个沉重箱子中 | [月出之塔塔顶](Moonrise_Towers_Rooftop.md "月出之塔塔顶") X: -153 Y: -170 |
 X: 727 Y: 41
-[Blade of Oppressed Souls](Blade_of_Oppressed_Souls.md "Blade of Oppressed Souls")
+[压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑")
 |
 
-[Crowning Strike](Crowning_Strike.md "Crowning Strike")
-Unleash the wails of the dead that fell to your blade, and possibly instil [Crown of Madness](Crown_of_Madness_(Condition).md "Crown of Madness (Condition)") in the target. (Recharge: [Short rest](Short_rest.md "Short rest").)
-| In an area unlocked by the [Necrotic Laboratory](Necrotic_Laboratory.md "Necrotic Laboratory") puzzle | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") |
+[至高打击](Crowning_Strike.md "至高打击")
+释放倒在你刃下的亡者哀嚎，可能使目标陷入[疯狂冠冕](Crown_of_Madness_(Condition).md "疯狂冠冕 (状态)")。（充能：[短休](Short_rest.md "短休")。）
+| 在[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")谜题解锁的区域 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") |
 X: 747 Y: -138
-[Braindrain Gloves](Braindrain_Gloves.md "Braindrain Gloves")
+[脑力汲取手套](Braindrain_Gloves.md "脑力汲取手套")
 |
 
-- When you deal ⁠[Psychic](Psychic.md "Psychic") damage, you also inflict [Mental Fatigue](Mental_Fatigue_(Condition).md "Mental Fatigue (Condition)") for 2 turns.
+- 当你造成⁠[心灵](Psychic.md "心灵")伤害时，还会使目标获得2回合[精神疲劳](Mental_Fatigue_(Condition).md "精神疲劳 (状态)")。
 
-| On a skeleton in the [Necrotic Laboratory](Necrotic_Laboratory.md "Necrotic Laboratory"), next to the [Blade of Oppressed Souls](Blade_of_Oppressed_Souls.md "Blade of Oppressed Souls") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") |
+| 在[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")的一具骸骨上，位于[压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑")旁 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") |
 X: 748 Y: -141
-[Circlet of Mental Anguish](Circlet_of_Mental_Anguish.md "Circlet of Mental Anguish")
+[精神剧痛饰环](Circlet_of_Mental_Anguish.md "精神剧痛饰环")
 |
 
-- When an enemy fails a [Charisma](Charisma.md "Charisma"), [Intelligence](Intelligence.md "Intelligence"), or [Wisdom](Wisdom.md "Wisdom") [Saving throw](Saving_throw.md "Saving throw") against one of your spells or cantrips, you regain 1d4⁠⁠[hit points](Healing.md "Healing").
+- 当敌人对抗你的一个法术或戏法的[魅力](Charisma.md "魅力")、[智力](Intelligence.md "智力")或[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")失败时，你恢复1d4⁠⁠[生命值](Healing.md "治疗")。
 
-| On a skeleton in the [Necrotic Laboratory](Necrotic_Laboratory.md "Necrotic Laboratory") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") |
+| 在[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")的一具骸骨上 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") |
 X: 748 Y: -141
-| Item Name | Item Effect | Where to Find | Location |
+| 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| Infernal Rapier | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC"). Instead of its Dexterity [Modifier](Ability_scores#Ability_score_modifiers.md#Ability_score_modifiers "Ability scores"), the affected entity add its [Spellcasting Ability Modifier](Ability_scores#Spellcasting_ability.md#Spellcasting_ability "Ability scores") to [Attack rolls](Attack_roll.md "Attack roll"). [Planar Ally: Cambion](Planar_Ally_colon__Cambion.md "Planar Ally: Cambion") Cast as a level 6 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Possibly rewarded by [Mizora](Mizora.md "Mizora") to [Wyll](Wyll.md "Wyll") if freed during his companion quest, ⁠[The Blade of Frontiers](The_Blade_of_Frontiers.md "The Blade of Frontiers") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 676 Y: 39 |
-| Circle of Bones | Allied [undead](Undead.md "Undead") within 6 m (20 ft) are [Resistant](Resistant.md "Resistant") to ⁠[Bludgeoning](Bludgeoning.md "Bludgeoning"), ⁠[Slashing](Slashing.md "Slashing"), and ⁠[Piercing](Piercing.md "Piercing") damage.[[See: Bugs](Undead_Ward#Bugs.md#Bugs "Undead Ward")] [Animate Dead](Animate_Dead.md "Animate Dead") Cast as a level 3 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) | Carried by Balthazar, if he is allowed to abduct the Nightsong | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 715 Y: -49 |
-| Myrkulite Scourge |  | Carried by [Kressa Bonedaughter](Kressa_Bonedaughter.md "Kressa Bonedaughter") in the [barracks](Mind_Flayer_Colony#Barracks.md#Barracks "Mind Flayer Colony") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 727 Y: 41 |
-| Blade of Oppressed Souls | [Crowning Strike](Crowning_Strike.md "Crowning Strike") Unleash the wails of the dead that fell to your blade, and possibly instil [Crown of Madness](Crown_of_Madness_(Condition).md "Crown of Madness (Condition)") in the target. ( Recharge: [Short rest](Short_rest.md "Short rest").) | In an area unlocked by the [Necrotic Laboratory](Necrotic_Laboratory.md "Necrotic Laboratory") puzzle | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 747 Y: -138 |
-| Braindrain Gloves | When you deal ⁠[Psychic](Psychic.md "Psychic") damage, you also inflict [Mental Fatigue](Mental_Fatigue_(Condition).md "Mental Fatigue (Condition)") for 2 turns. | On a skeleton in the [Necrotic Laboratory](Necrotic_Laboratory.md "Necrotic Laboratory"), next to the [Blade of Oppressed Souls](Blade_of_Oppressed_Souls.md "Blade of Oppressed Souls") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 748 Y: -141 |
-| Circlet of Mental Anguish | When an enemy fails a [Charisma](Charisma.md "Charisma"), [Intelligence](Intelligence.md "Intelligence"), or [Wisdom](Wisdom.md "Wisdom") [Saving throw](Saving_throw.md "Saving throw") against one of your spells or cantrips, you regain 1d4⁠⁠[hit points](Healing.md "Healing"). | On a skeleton in the [Necrotic Laboratory](Necrotic_Laboratory.md "Necrotic Laboratory") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 748 Y: -141 |
-| Ketheric's Warhammer |  | Carried by [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") while fighting in either conflict with him (see notes) | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
-| Jhannyl's Gloves | When the wearer becomes [Blinded](Blinded_(Condition).md "Blinded (Condition)"), [Paralysed](Paralysed_(Condition).md "Paralysed (Condition)") or [Poisoned](Poisoned_(Condition).md "Poisoned (Condition)"), they automatically cast [Lesser Restoration](Lesser_Restoration.md "Lesser Restoration") on themselves. [Saving Throws](Saving_throw.md "Saving Throw") +1 | Worn by Isobel if she is kidnapped by [Marcus](Marcus.md "Marcus") or killed at Last Light Inn before dealing with the Nightsong | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
-| Ketheric's Shield | You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC") and [Spell Attack](Spell_Attack.md "Spell Attack") rolls. [Advantage](Advantage.md "Advantage") on [Dexterity](Dexterity.md "Dexterity") [Saving Throws](Saving_throws.md "Saving Throws") [Shield Blow](Shield_Blow.md "Shield Blow") When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw"). | Carried by [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") when fought a second time | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
-| Moon Devotion Robe | While the wearer has [Mage Armour](Mage_Armour_(Condition).md "Mage Armour (Condition)"), each successful [Saving Throw](Saving_throw.md "Saving Throw") causes the source of the Saving Throw to take 1-4⁠⁠[Radiant](Radiant.md "Radiant") damage. [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw"). [Saving Throws](Saving_throw.md "Saving Throw") +1 [Lunar Bulwark](Lunar_Bulwark.md "Lunar Bulwark") Cast as a level 1 spell ( Recharge: [Long rest](Long_Rest.md "Long rest").) [Produce Flame](Produce_Flame.md "Produce Flame") Cast as a cantrip at will. | Worn by Isobel after being kidnapped by [Marcus](Marcus_Falgor.md "Marcus Falgor") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
-| Reaper's Embrace | All incoming damage is reduced by 2. When activated, you can't be moved against your will by any spell or action, but have [Disadvantage](Disadvantage.md "Disadvantage") on Dexterity [Saving throws](Saving_throw.md "Saving throw"). [Howl of the Dead](Howl_of_the_Dead.md "Howl of the Dead") Let out a bone-chilling howl that [Numbs](Numbed_(Condition).md "Numbed (Condition)") all nearby creatures. ( Recharge: [Short rest](Short_rest.md "Short rest").) | Worn by [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") X: 861 Y: -23 |
+| 地狱细剑 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。受影响实体将其[施法属性调整值](Ability_Scores.md#Spellcasting_ability "属性")而非其敏捷[属性调整值](Ability_Scores.md#Ability_score_modifiers "属性")加入[攻击检定](Attack_roll.md "攻击检定")。[异界誓盟：坎比翁](Planar_Ally_colon__Cambion.md "异界誓盟：坎比翁") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 若在其伙伴任务⁠[边境之刃](The_Blade_of_Frontiers.md "边境之刃")中解放他，可能由[米佐拉](Mizora.md "米佐拉")奖励给[威尔](Wyll.md "威尔") | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 676 Y: 39 |
+| 骸骨饰环 | 6米（20英尺）内的友方[不死生物](Undead.md "不死生物")对⁠[钝击](Bludgeoning.md "钝击")、⁠[挥砍](Slashing.md "挥砍")和⁠[穿刺](Piercing.md "穿刺")伤害拥有[抗性](Resistant.md "抗性").[[见：错误](Undead_Ward#Bugs.md#Bugs "防护不死生物")] [操纵死尸](Animate_Dead.md "操纵死尸") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由巴萨扎尔携带，若其被允许绑架暗夜之歌 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 715 Y: -49 |
+| 冥蚀之鞭 |  | 由[克雷萨·骨女](Kressa_Bonedaughter.md "克雷萨·骨女")在[营房](Mind_Flayer_Colony#Barracks.md#Barracks "夺心魔殖民地")内携带 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 727 Y: 41 |
+| 压迫灵魂之剑 | [至高打击](Crowning_Strike.md "至高打击") 释放倒在你刃下的亡者哀嚎，可能使目标陷入[疯狂冠冕](Crown_of_Madness_(Condition).md "疯狂冠冕 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 在[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")谜题解锁的区域 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 747 Y: -138 |
+| 脑力汲取手套 | 当你造成⁠[心灵](Psychic.md "心灵")伤害时，还会使目标获得2回合[精神疲劳](Mental_Fatigue_(Condition).md "精神疲劳 (状态)")。 | 在[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")的一具骸骨上，位于[压迫灵魂之剑](Blade_of_Oppressed_Souls.md "压迫灵魂之剑")旁 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 748 Y: -141 |
+| 精神剧痛饰环 | 当敌人对抗你的一个法术或戏法的[魅力](Charisma.md "魅力")、[智力](Intelligence.md "智力")或[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")失败时，你恢复1d4⁠⁠[生命值](Healing.md "治疗")。 | 在[黯蚀实验室](Necrotic_Laboratory.md "黯蚀实验室")的一具骸骨上 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 748 Y: -141 |
+| 凯瑟里克战锤 |  | 在与其两场冲突中战斗时由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")携带（见说明） | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
+| 詹尼尔的手套 | 当穿戴者陷入[目盲](Blinded_(Condition).md "目盲 (状态)")、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[中毒](Poisoned_(Condition).md "中毒 (状态)")时，会自动对自己施放[次级复原术](Lesser_Restoration.md "次级复原术")。[豁免检定](Saving_throw.md "豁免检定") +1 | 若[伊索贝尔](Isobel_Thorm.md "伊索贝尔")在解决暗夜之歌事件前被[马库斯](Marcus.md "马库斯")绑架，或在终焉光芒旅店被杀，则由她穿戴 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
+| 凯瑟里克之盾 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")检定获得+1加值。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。 | 第二次与其战斗时由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")携带 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
+| 奉献皎月长袍 | 当穿戴者拥有[魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")时，每次成功的[豁免检定](Saving_throw.md "豁免检定")都会使豁免检定的来源受到1-4⁠⁠[光耀](Radiant.md "光耀")伤害。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[豁免检定](Saving_throw.md "豁免检定") +1 [月光壁垒](Lunar_Bulwark.md "月光壁垒") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）[燃火术](Produce_Flame.md "燃火术") 随意施放为戏法。 | 被[马库斯](Marcus_Falgor.md "马库斯·法尔戈")绑架后由伊索贝尔穿戴 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
+| 收割者的拥抱 | 所受全部伤害减少2点。激活后，你无法被任何法术或动作违背意愿地移动，但[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。[亡者哀嚎](Howl_of_the_Dead.md "亡者哀嚎") 发出一声彻骨寒嚎，使附近所有生物[麻木](Numbed_(Condition).md "麻木 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")穿戴 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") X: 861 Y: -23 |
 
-- [Saving Throws](Saving_throw.md "Saving Throw") +1
+- [豁免检定](Saving_throw.md "豁免检定") +1
 
-| Worn by Isobel if she is kidnapped by [Marcus](Marcus.md "Marcus") or killed at Last Light Inn before dealing with the Nightsong | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") |
+| 若[伊索贝尔](Isobel_Thorm.md "伊索贝尔")在解决暗夜之歌事件前被[马库斯](Marcus.md "马库斯")绑架，或在终焉光芒旅店被杀，则由她穿戴 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") |
 X: 861 Y: -23
-[Ketheric's Shield](Ketheric's_Shield.md "Ketheric's Shield")
+[凯瑟里克之盾](Ketheric's_Shield.md "凯瑟里克之盾")
 |
 
-- You gain a +1 bonus to [Spell Save DC](Spell_save_DC.md "Spell Save DC") and [Spell Attack](Spell_Attack.md "Spell Attack") rolls.
+- 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")检定获得+1加值。
 
-- [Advantage](Advantage.md "Advantage") on [Dexterity](Dexterity.md "Dexterity") [Saving Throws](Saving_throws.md "Saving Throws")
+- [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")
 
-[Shield Blow](Shield_Blow.md "Shield Blow")
-When a foe hits you with a melee attack, you can use your reaction to knock it [Prone](Prone_(Condition).md "Prone (Condition)"), unless they succeed a [Strength](Strength.md "Strength") [saving throw](Saving_throw.md "Saving throw").
-| Carried by [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") when fought a second time | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") |
+[盾牌猛击](Shield_Blow.md "盾牌猛击")
+当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。
+| 第二次与其战斗时由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")携带 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") |
 X: 861 Y: -23
-[Moon Devotion Robe](Moon_Devotion_Robe.md "Moon Devotion Robe")
+[奉献皎月长袍](Moon_Devotion_Robe.md "奉献皎月长袍")
 |
 
-- While the wearer has [Mage Armour](Mage_Armour_(Condition).md "Mage Armour (Condition)"), each successful [Saving Throw](Saving_throw.md "Saving Throw") causes the source of the Saving Throw to take 1-4⁠⁠[Radiant](Radiant.md "Radiant") damage.
+- 当穿戴者拥有[魔法护甲](Mage_Armour_(Condition).md "魔法护甲 (状态)")时，每次成功的[豁免检定](Saving_throw.md "豁免检定")都会使豁免检定的来源受到1-4⁠⁠[光耀](Radiant.md "光耀")伤害。
 
-- [Advantage](Advantage.md "Advantage") on [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw").
+- [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-- [Saving Throws](Saving_throw.md "Saving Throw") +1
+- [豁免检定](Saving_throw.md "豁免检定") +1
 
-[Lunar Bulwark](Lunar_Bulwark.md "Lunar Bulwark")
-Cast as a level 1 spell (Recharge: [Long rest](Long_Rest.md "Long rest").)
+[月光壁垒](Lunar_Bulwark.md "月光壁垒")
+施放为1环法术（充能：[长休](Long_Rest.md "长休")。）
 
-[Produce Flame](Produce_Flame.md "Produce Flame")
-Cast as a cantrip at will.
-| Worn by Isobel after being kidnapped by [Marcus](Marcus_Falgor.md "Marcus Falgor") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") |
+[燃火术](Produce_Flame.md "燃火术")
+随意施放为戏法。
+| 被[马库斯](Marcus_Falgor.md "马库斯·法尔戈")绑架后由伊索贝尔穿戴 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") |
 X: 861 Y: -23
-[Reaper's Embrace](Reaper's_Embrace.md "Reaper's Embrace")
+[收割者的拥抱](Reaper's_Embrace.md "收割者的拥抱")
 |
 
-- All incoming damage is reduced by 2.
-- When activated, you can't be moved against your will by any spell or action, but have [Disadvantage](Disadvantage.md "Disadvantage") on Dexterity [Saving throws](Saving_throw.md "Saving throw").
+- 所受全部伤害减少2点。
+- 激活后，你无法被任何法术或动作违背意愿地移动，但[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-[Howl of the Dead](Howl_of_the_Dead.md "Howl of the Dead")
-Let out a bone-chilling howl that [Numbs](Numbed_(Condition).md "Numbed (Condition)") all nearby creatures. (Recharge: [Short rest](Short_rest.md "Short rest").)
-| Worn by [Ketheric Thorm](Ketheric_Thorm.md "Ketheric Thorm") | [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") |
+[亡者哀嚎](Howl_of_the_Dead.md "亡者哀嚎")
+发出一声彻骨寒嚎，使附近所有生物[麻木](Numbed_(Condition).md "麻木 (状态)")。（充能：[短休](Short_rest.md "短休")。）
+| 由[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")穿戴 | [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") |
 X: 861 Y: -23
 
 [￪ Back to top](#top)

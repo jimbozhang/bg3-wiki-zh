@@ -3,7 +3,7 @@
 **诱惑**
 
 - 受影响的实体会被鸟妖的诱惑旋律吸引，并使用其回合向鸟妖移动，可能会引发其他鸟妖的借机攻击。
-- 受影响的实体必须在回合开始时通过一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 13 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则保持诱惑状态。
+- 受影响的实体必须在回合开始时通过一次 [掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 13 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则保持诱惑状态。
 - 受到伤害或被 [推击](Shove.md "推击") 会移除该状态。
 
 [魅惑](Charmed_(status_group).md)
@@ -14,7 +14,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`LURING_SONG` [状态组](Status_groups.md "状态组")：[SG_Charmed](SG_Charmed.md "SG Charmed")，[SG_ScriptedPeaceBehaviour](SG_ScriptedPeaceBehaviour.md "SG ScriptedPeaceBehaviour")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`LURING_SONG` [状态组](Status_groups.md "状态组")：[魅惑（状态组）](SG_Charmed.md "魅惑（状态组）")，[SG_ScriptedPeaceBehaviour](SG_ScriptedPeaceBehaviour.md "SG ScriptedPeaceBehaviour")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合结束
 
@@ -43,7 +43,7 @@
 ## 具有相同堆叠 ID 的状态
 
 - 受影响的实体会被鸟妖的诱惑旋律吸引，并使用其回合向鸟妖移动，可能会引发其他鸟妖的借机攻击。
-- 受影响的实体必须在回合开始时通过一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 13 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则保持诱惑状态。
+- 受影响的实体必须在回合开始时通过一次 [掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 13 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则保持诱惑状态。
 - 受到伤害或被 [推击](Shove.md "推击") 会移除该状态。
 
 | 状态 | 效果 |

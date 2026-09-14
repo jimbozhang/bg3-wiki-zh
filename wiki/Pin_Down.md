@@ -1,6 +1,6 @@
 # Pin Down
 
-另请参阅：[Hamstring Shot](Hamstring_Shot.md "Hamstring Shot")
+另请参阅：[腿筋射击](Hamstring_Shot.md "腿筋射击")
 
 **Pin Down** 是一种 NPC 专属的[武器动作](Weapon_action.md "Weapon action")，可通过远程攻击阻碍目标的移动速度。
 

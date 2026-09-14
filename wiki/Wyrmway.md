@@ -1,6 +1,6 @@
 # 远古龙之路
 
-不要与 [The Wyrmway](The_Wyrmway.md "The Wyrmway") 混淆
+不要与 [远古龙之路](The_Wyrmway.md "远古龙之路") 混淆
 
 远古龙之路的主要区域
 

@@ -13,7 +13,7 @@
 
 [动作](Actions.md#Resources "动作")
 
-- 对智力([Intelligence](Intelligence.md "智力"))为 3 或更低的野兽施加[魅惑](Charmed_(Condition).md "魅惑 (状态)")
+- 对智力([智力](Intelligence.md "智力"))为 3 或更低的野兽施加[魅惑](Charmed_(Condition).md "魅惑 (状态)")
   - 范围：18 米 (60 英尺)
 
 ## 状态：魅惑
@@ -22,7 +22,7 @@
 
 持续时间：10 驱散
 
-- 无法攻击施法者。施法者在对话中进行魅力([Charisma](Charisma.md "魅力"))[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
+- 无法攻击施法者。施法者在对话中进行魅力([魅力](Charisma.md "魅力"))[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
 ## 获取地点
 

@@ -56,7 +56,7 @@ Well-to-do households sometimes let their maids wear pearls, believing that the 
 
 - [清账屋](The_Counting_House.md "The Counting House"): In high security vault nº4
 
-- Can be found at the [Glitter Gala](Glitter_Gala.md "Glitter Gala") in [博德之门](Baldur's Gate.md "Baldur's Gate").
+- Can be found at the [闪耀盛会](Glitter_Gala.md "闪耀盛会") in [博德之门](Baldur's Gate.md "Baldur's Gate").
 
 # Variant
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-你的[偷袭](Sneak_Attack.md "偷袭")造成额外的1d4⁠⁠[力场](Force.md "力场")[DRS](Damage_rider_as_source.md "伤害来源附加")伤害。
+你的[偷袭](Sneak_Attack.md "偷袭")造成额外的1d4⁠⁠[力场](Force.md "力场")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ## 如何习得
 

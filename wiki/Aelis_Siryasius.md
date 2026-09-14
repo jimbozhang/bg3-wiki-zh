@@ -50,7 +50,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -64,7 +64,7 @@
 
 受影响的生物不会被[劣势地形](Difficult_Terrain.md "劣势地形")、法术或效果减速，也不会被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -78,7 +78,7 @@
 
 受影响的生物不会被[劣势地形](Difficult_Terrain.md "劣势地形")、法术或效果减速，也不会被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 额外资源
 

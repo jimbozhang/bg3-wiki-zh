@@ -113,9 +113,9 @@ _目标和日志条目可能因玩家决策和结果而有所不同。_
 
 ## 作为影心出身游玩
 
-作为出身游玩自然会锁定玩家，无法触发当扮演其他角色（包括自定义**塔夫**和[邪念](Dark_Urge.md "Dark_Urge"))时可能发生的多个互动过场动画。许多涉及与其他伙伴、NPC和环境互动的过场动画的核心部分得以保留。然而，大多数过场动画都通过[旁白](Narrator.md "Narrator")在对话中配音，增强了影心自身的感受和记忆。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+作为出身游玩自然会锁定玩家，无法触发当扮演其他角色（包括自定义**塔夫**和[邪念](Dark_Urge.md "Dark_Urge"))时可能发生的多个互动过场动画。许多涉及与其他伙伴、NPC和环境互动的过场动画的核心部分得以保留。然而，大多数过场动画都通过[旁白](Narrator.md "Narrator")在对话中配音，增强了影心自身的感受和记忆。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
-作为可玩角色，影心还有几个独特的过场动画，这些动画与她自愿的记忆丧失和她真实故事的闪回有关。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+作为可玩角色，影心还有几个独特的过场动画，这些动画与她自愿的记忆丧失和她真实故事的闪回有关。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Daughter of Darkness (Origin)](https://bg3.wiki/wiki/Daughter_of_Darkness_(Origin)*

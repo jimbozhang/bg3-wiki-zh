@@ -58,7 +58,7 @@
 
 [火焰护盾：寒冷](Fire_Shield_colon__Chill.md "火焰护盾：寒冷")
 作为4环法术施放（充能：[长休](Long_Rest.md "长休")。）
-| 由[Z'rell](Z'rell.md "Z'rell")携带 | 盾牌 | | | +2 | [至上真神的惩罚](Absolute's_Smite.md "至上真神的惩罚") |
+| 由[泽'瑞尔](Z'rell.md "泽'瑞尔")携带 | 盾牌 | | | +2 | [至上真神的惩罚](Absolute's_Smite.md "至上真神的惩罚") |
 
 [炽焰斩](Searing_Smite.md "炽焰斩") (+ + )
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
@@ -1631,7 +1631,7 @@
 穿戴此护符会施加状态：
 
 [高昂精神](High_Spirits_(Condition).md "高昂精神（状态）")
-护符的灵魂萦绕不去，使一切看起来更加生动。使用护符力量时必须通过[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")（[DC](Difficulty_Class.md "难度等级") 10/15，参见注释），否则变得[歇斯底里](Hysterical_(Condition).md "歇斯底里（状态）")（效果等同于[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")，持续1回合）。
+护符的灵魂萦绕不去，使一切看起来更加生动。使用护符力量时必须通过[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")（[掷骰](Difficulty_Class.md "掷骰") 10/15，参见注释），否则变得[歇斯底里](Hysterical_(Condition).md "歇斯底里（状态）")（效果等同于[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")，持续1回合）。
 | 在[复仇之炉](Grymforge.md "复仇之炉")中[岩浆元素](Lava_Elemental.md "岩浆元素")附近有破损结构的岛屿上的上锁[精金箱子](Adamantine_Chest.md "精金箱子")中 | 护符 |
 |
 |

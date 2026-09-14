@@ -415,7 +415,7 @@
 - [黯狱之靴](Helldusk_Boots.md "Helldusk Boots") - 当穿戴者豁免失败时，可以使用其[反应](Actions.md#Reactions "Actions")来改为成功。
 - [噩梦馈赠](Karabasan's_Gift.md "Karabasan's Gift") - 目标遭受麻痹毒素效果，所有力量和敏捷豁免自动失败。
 - [闪避戒指](Ring_of_Evasion.md "Ring of Evasion") - 当穿戴者敏捷豁免失败时，可以使用其[反应](Actions.md#Reactions "Actions")来改为成功。
-- [暗淡的饰物](Tarnished_Charm.md "Tarnished Charm") - 将穿戴者[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")的[DC](DC.md "DC")从10降低至5。
+- [暗淡的饰物](Tarnished_Charm.md "Tarnished Charm") - 将穿戴者[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")的[骰子掷骰](DC.md "骰子掷骰")从10降低至5。
 - [法师灾祸油](Wizardsbane_Oil.md "Wizardsbane Oil") - 目标[专注](Concentration.md#Concentration_Saving_Throw "Concentration")豁免承受劣势。
 
 ### 状态

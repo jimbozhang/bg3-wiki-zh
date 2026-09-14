@@ -33,7 +33,7 @@
 
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -45,7 +45,7 @@
 
 如果此角色倒地，立即以 1 点生命值复活。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -57,7 +57,7 @@
 
 如果此角色倒地，立即以 1 点生命值复活。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

@@ -189,7 +189,7 @@ _[守墓人](Withers.md "守墓人")不会重置拥有弃誓者副职的圣武�
 ### 等级 2
 
 [至圣斩](Divine_Smite.md "至圣斩") (+ )
-你的武器造成额外的2d8⁠⁠[光耀](Radiant.md "光耀")[DRS](Damage_rider_as_source.md "伤害来源")伤害，当攻击[炼狱生物](Fiends.md "炼狱生物")或[不死生物](Undead.md "不死生物")时，额外增加1d8⁠⁠[光耀](Radiant.md "光耀")伤害。
+你的武器造成额外的2d8⁠⁠[光耀](Radiant.md "光耀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，当攻击[炼狱生物](Fiends.md "炼狱生物")或[不死生物](Undead.md "不死生物")时，额外增加1d8⁠⁠[光耀](Radiant.md "光耀")伤害。
 
 [战斗风格](Fighting_style.md "战斗风格")
 选择一种战斗风格：

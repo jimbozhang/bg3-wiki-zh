@@ -24,7 +24,7 @@
 ## 备注
 
 - 与描述相反，致命毒液最多可以施放在三个目标上，或对同一目标施放最多三次。
-- 目标不会自动获得[中毒](Poison.md "中毒")易伤。它必须先失败一次[DC](Dice_rolls.md#Save_DCs "Dice rolls") 14 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 目标不会自动获得[中毒](Poison.md "中毒")易伤。它必须先失败一次[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 14 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
   - 拥有[中毒](Poison.md "中毒")抗性的目标会失去抗性（而不是变得易伤）。
   - 拥有[中毒](Poison.md "中毒")免疫的目标将看不到任何变化，尽管可以被此效果作为目标。
 

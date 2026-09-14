@@ -39,7 +39,7 @@
 常见动作
 所有生物均可使用的常见动作。
 职业动作
-通过 [特性](Features.md "特性") 可用的动作，例如从 [职业](Classes.md "Classes") 或 [装备](Equipment.md "装备") 获得的动作。许多 [NPC](Non-player_characters.md "非玩家角色") 采取的动作也被视为职业动作。
+通过 [特性](Features.md "特性") 可用的动作，例如从 [职业](Classes.md "Classes") 或 [装备](Equipment.md "装备") 获得的动作。许多 [非玩家角色](Non-player_characters.md "非玩家角色") 采取的动作也被视为职业动作。
 种族动作
 通过种族特性可用的动作，且仅从 [种族](Race.md "种族") 获得。
 情境动作

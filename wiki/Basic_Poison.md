@@ -29,7 +29,7 @@
 
 持续时间：10 回合
 
-- 目标必须通过一次[DC](Dice_rolls.md#Save_DCs "掷骰") 11 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[中毒](Poisoned_(Condition).md "中毒（状态）")。
+- 目标必须通过一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 11 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[中毒](Poisoned_(Condition).md "中毒（状态）")。
 - 如果豁免成功，目标将获得[免疫：简易毒药](Inoculated_colon__Basic_Poison_(Condition).md "免疫：简易毒药（状态）")，持续 2 回合。
 
 ## 区域：毒云
@@ -48,7 +48,7 @@
 
 **[中毒](Poisoned_(Condition).md "中毒（状态）")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 11）
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
 

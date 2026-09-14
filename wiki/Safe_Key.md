@@ -17,7 +17,7 @@
   - 解锁[梨木之家](Peartree_House.md "梨木之家")地下室墙壁上坐标 X: 572 Y: 758 的“保险柜”
 - [雨林的宝箱钥匙](Rainforest's_Chest_Key.md "Rainforest's Chest Key")
   - 解锁[雨林之家](Rainforest's_Home.md#Rainforest's_Basement "雨林之家")地下室的“保险柜”
-- 保险箱钥匙 - 由[加斯珀·斯罗克斯](Gasper_Throaks.md "Gasper Throaks")携带\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 保险箱钥匙 - 由[加斯珀·斯罗克斯](Gasper_Throaks.md "Gasper Throaks")携带\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - [特福科的地下室宝箱钥匙](Tefoco's_Basement_Chest_Key.md "Tefoco's Basement Chest Key")
   - 解锁[蜂巢杂货铺](Beehive_General_Goods.md "Beehive General Goods")地下室墙壁中坐标 X: -1946 Y: 625 的墙壁保险柜
 - [清账屋](The_Counting_House.md "清账屋")中[保险柜](The_Counting_House.md#The_Counting_House_-_Safes "清账屋")的钥匙：

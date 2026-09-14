@@ -25,7 +25,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 20 / (+5) | 11 / (0) | 16 / (+3) | 10 / (0) | 15 / (+2) | 16 / (+3) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -49,7 +49,7 @@
 
 战斗中所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -73,7 +73,7 @@
 
 战斗中所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

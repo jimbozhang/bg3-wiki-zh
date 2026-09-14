@@ -90,7 +90,7 @@
 
 - [埃赛尔的巢穴钥匙](Ethel's_Lair_Key.md "埃赛尔的巢穴钥匙")
 - [鬼婆监视笔记](Hag_Spy's_Note.md "鬼婆监视笔记")
-- [弯刀 +1](Scimitar_+1.md "弯刀 +1")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- [弯刀 +1](Scimitar_+1.md "弯刀 +1")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 相关文献
 

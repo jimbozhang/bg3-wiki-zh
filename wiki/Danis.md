@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -42,7 +42,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -58,7 +58,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -112,7 +112,7 @@
 
 如果决定[突袭林地](Raid_the_Grove.md "Raid the Grove")，丹尼斯可以与其他提夫林一起在[隐蔽房间](Secluded_Chamber.md "Secluded Chamber")中找到。如果他在[击败地精](Defeat_the_Goblins.md "Defeat the Goblins")中幸存，他和贝克斯会加入队伍[营地](Campsite.md "Campsite")的[庆祝活动](Tiefling_Refugee_Celebration.md "Tiefling Refugee Celebration")。
 
-如果在解决[卡哈](Kagha.md "Kagha")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Grove and Danis' corpse can be found among the pile of refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village") 之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")或[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")，提夫林会被驱逐出林地，丹尼斯的尸体可以在通往[染疫村落](Blighted_Village.md "Blighted Village")的桥附近的难民堆中找到。
+如果在解决[卡哈](Kagha.md "Kagha")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Grove and Danis' corpse can be found among the pile of refugees near the bridge to the [染疫村落](Blighted_Village.md "染疫村落") 之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")或[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")，提夫林会被驱逐出林地，丹尼斯的尸体可以在通往[染疫村落](Blighted_Village.md "Blighted Village")的桥附近的难民堆中找到。
 
 ### 第二幕
 

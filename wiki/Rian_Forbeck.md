@@ -8,13 +8,13 @@ Rian Forbeck 是《可亲近的东方》系列多卷的作者。在这些书中�
 
 ## 相关文献
 
-- [The Approachable East, Vol. 1](The_Approachable_East,_Vol._1.md "The Approachable East, Vol. 1")
-- [The Approachable East, Vol. 2](The_Approachable_East,_Vol._2.md "The Approachable East, Vol. 2")
-- [The Approachable East, Vol. 3](The_Approachable_East,_Vol._3.md "The Approachable East, Vol. 3")
-- [The Approachable East, Vol. 4](The_Approachable_East,_Vol._4.md "The Approachable East, Vol. 4")
-- [The Approachable East, Vol. 5](The_Approachable_East,_Vol._5.md "The Approachable East, Vol. 5")
-- [The Approachable East, Vol. 6](The_Approachable_East,_Vol._6.md "The Approachable East, Vol. 6")
-- [The Approachable East, Vol. 7](The_Approachable_East,_Vol._7.md "The Approachable East, Vol. 7")
+- [亲切的东方，第一卷](The_Approachable_East,_Vol._1.md "亲切的东方，第一卷")
+- [亲切的东方，第二卷](The_Approachable_East,_Vol._2.md "亲切的东方，第二卷")
+- [亲切的东方，第3卷](The_Approachable_East,_Vol._3.md "亲切的东方，第3卷")
+- [可亲近的东方，第四卷](The_Approachable_East,_Vol._4.md "可亲近的东方，第四卷")
+- [易达东方，第五卷](The_Approachable_East,_Vol._5.md "易达东方，第五卷")
+- [东境漫游记，第六卷](The_Approachable_East,_Vol._6.md "东境漫游记，第六卷")
+- [亲切的东方，第七卷](The_Approachable_East,_Vol._7.md "亲切的东方，第七卷")
 
 ## 外部链接
 

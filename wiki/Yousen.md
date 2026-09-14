@@ -24,7 +24,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 16 / (+3) | 16 / (+3) | 16 / (+3) | 11 / (0) | 10 / (0) | 12 / (+1) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
@@ -40,7 +40,7 @@
 
 每回合恢复 10 [生命值](HP.md "HP")，除非处于阳光下或最近受到[光耀](Radiant.md "Radiant")伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 
@@ -56,7 +56,7 @@
 
 每回合恢复 10 [生命值](HP.md "HP")，除非处于阳光下或最近受到[光耀](Radiant.md "Radiant")伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 特性
 

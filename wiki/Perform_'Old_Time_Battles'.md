@@ -49,7 +49,7 @@
 
   - 表演是自由动作，可以在战斗中使用。如果表演角色处于[受威胁](Threatened_(Condition).md "受威胁 (状态)")状态，表演会结束。
 
-- 《旧日战歌》的管弦乐版本（吟游诗人版）（[《旧日战歌》第一部分](https://www.youtube.com/watch?v=6GSMhFofV_A) 和 [《旧日战歌》第二部分](https://www.youtube.com/watch?v=GR0XFRvpCKs)）可以在与[W'wargaz](W'wargaz.md "W'wargaz")战斗时听到。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 《旧日战歌》的管弦乐版本（吟游诗人版）（[《旧日战歌》第一部分](https://www.youtube.com/watch?v=6GSMhFofV_A) 和 [《旧日战歌》第二部分](https://www.youtube.com/watch?v=GR0XFRvpCKs)）可以在与[瓦尔'戈兹](W'wargaz.md "瓦尔'戈兹")战斗时听到。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 原声带
 

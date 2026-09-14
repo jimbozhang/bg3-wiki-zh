@@ -18,7 +18,7 @@
 
 - UID `BOOK_UNI_SCL_GithAmbushOrders` UUID `decaffc3-1d8c-44a8-bc49-3bd05858f58b` ## 获取地点
 
-- 由[茨卡恩](Tska'an.md "茨卡恩")携带\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 由[茨卡恩](Tska'an.md "茨卡恩")携带\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 文本
 

@@ -51,7 +51,7 @@
 - [反击](Riposte_(passive_feature).md "反击 (被动特性)")
 - [盾牌猛击](Shield_Bash.md "盾牌猛击")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -63,7 +63,7 @@
 
   - 此生物已发誓保护其黑暗主人。若主人死亡，此生物也将随之死亡。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -75,7 +75,7 @@
 
   - 此生物已发誓保护其黑暗主人。若主人死亡，此生物也将随之死亡。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 

@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 14 / (+2) | 18 / (+4) | 15 / (+2) | 9 / (-1) | 16 / (+3) | 14 / (+2) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -64,7 +64,7 @@
 
 如果你在近战攻击后移动，你不会引发目标的[借机攻击](Opportunity_Attack.md "借机攻击")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -102,7 +102,7 @@
 
 如果你在近战攻击后移动，你不会引发目标的[借机攻击](Opportunity_Attack.md "借机攻击")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -118,7 +118,7 @@
 
 - [巨像屠夫](Colossus_Slayer.md "巨像屠夫")
 
-每回合一次，如果你的目标生命值低于其最大值，你的武器攻击会造成额外 1d8⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+每回合一次，如果你的目标生命值低于其最大值，你的武器攻击会造成额外 1d8⁠⁠[物理](Physical.md "物理")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 - [冲出重围](Escape_the_Horde.md "冲出重围")
 

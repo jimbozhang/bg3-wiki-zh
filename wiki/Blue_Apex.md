@@ -8,8 +8,8 @@
 - 卡利姆 (Calim) – [埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")的受害者，其头骨出现在[蔓生地道](Overgrown_Tunnel.md "蔓生地道")中
 - [瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")的黎明大师 (Dawnmasters)，其形象出现在与任务[寻找洛山达之血](Find_the_Blood_of_Lathander.md "寻找洛山达之血")相关的彩色玻璃窗格中
 - 种子 (Seed)
-  - 斯托克霍尔德 (Stockhold) – 在[Dawnmaster Stockhold, Master of his Craft](Dawnmaster_Stockhold,_Master_of_his_Craft.md "Dawnmaster Stockhold, Master of his Craft")中提及
-  - 瓦塞德 (Vaseid) – 在[The Parables of Dawnmaster Vaseid](The_Parables_of_Dawnmaster_Vaseid.md "The Parables of Dawnmaster Vaseid")和[His Holy Blood, Vol. 2, Paladin Vaseid](His_Holy_Blood,_Vol._2,_Paladin_Vaseid.md "His Holy Blood, Vol. 2, Paladin Vaseid")中提及
+  - 斯托克霍尔德 (Stockhold) – 在[黎明大师斯托克霍德，技艺大师](Dawnmaster_Stockhold,_Master_of_his_Craft.md "黎明大师斯托克霍德，技艺大师")中提及
+  - 瓦塞德 (Vaseid) – 在[晨曦大师瓦塞德的寓言](The_Parables_of_Dawnmaster_Vaseid.md "晨曦大师瓦塞德的寓言")和[他的圣血，第二卷，圣武士瓦塞德](His_Holy_Blood,_Vol._2,_Paladin_Vaseid.md "他的圣血，第二卷，圣武士瓦塞德")中提及
   - 韦尔金格洛里 (Welkinglory)
 - 迪达 (Dida) – 在[医师日志](Healer's_Log.md "Healer's Log")中提及，是[染疫村落](Blighted_Village.md "染疫村落")中[桑普森](Sampson.md "桑普森")的学徒<sup>[\[1\]](#cite_note-Dida_Highcliff-1)</sup>
 - 埃利斯 (Ellis) – 留在[雷斯文小镇](Reithwin_Town.md "雷斯文小镇")渔棚中的一张不可收集便条的作者，内容为*“去钓鱼了。回头见！ - 埃利斯”*

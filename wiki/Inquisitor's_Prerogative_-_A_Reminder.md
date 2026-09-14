@@ -1,6 +1,6 @@
 # 审判官的特权 - 提醒
 
-**审判官的特权 - 提醒** 是 [审判官 W'wargaz](W'wargaz.md "W'wargaz") 写给 [Therezzyn](Therezzyn.md "Therezzyn") 的一封简短信函，后者是 [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") 的 [基斯拉克](Githyanki_vocabulary.md#kith'rak "Githyanki vocabulary")。
+**审判官的特权 - 提醒** 是 [审判官 W'wargaz](W'wargaz.md "W'wargaz") 写给 [赛泽恩](Therezzyn.md "赛泽恩") 的一封简短信函，后者是 [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") 的 [基斯拉克](Githyanki_vocabulary.md#kith'rak "Githyanki vocabulary")。
 
 这块 [石盘](Githyanki_Slates.md "Githyanki Slates") 上刻有圆形符文和象形图。
 
@@ -8,7 +8,7 @@
 
 - [石板](Slates.md "Slates")
 
-- 作者: [W'wargaz](W'wargaz.md "W'wargaz")
+- 作者: [瓦尔'戈兹](W'wargaz.md "瓦尔'戈兹")
 
 - 稀有度: 普通
 

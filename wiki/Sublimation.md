@@ -31,7 +31,7 @@
 
 ## 备注
 
-- 受影响的生物每回合进行额外的 [DC 17](Dice_rolls.md#Save_DCs "骰子检定") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，以移除 [纯金](Turned_to_Gold_(Condition).md "纯金（状态）") 状态。
+- 受影响的生物每回合进行额外的 [掷骰](Dice_rolls.md#Save_DCs "骰子检定") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，以移除 [纯金](Turned_to_Gold_(Condition).md "纯金（状态）") 状态。
 
 ---
 *Source: [Sublimation](https://bg3.wiki/wiki/Sublimation)*

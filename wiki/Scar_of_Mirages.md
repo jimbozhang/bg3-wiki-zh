@@ -12,7 +12,7 @@
 
 持续时间：2 [驱散](Turn.md "驱散")
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 14)
 
 - 受影响实体对所有人[敌对](Hostile.md "敌对")，漫无目的地游荡，并偶尔在恍惚中[跳过对话](Skip.md "跳过对话")其驱散
 

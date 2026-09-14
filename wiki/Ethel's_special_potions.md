@@ -36,7 +36,7 @@
 | [极效治疗药水](Potion_of_Supreme_Healing.md "极效治疗药水") | 10d4+20⁠⁠[治疗](Healing.md "治疗") | 45 | 11[[](#cite_note-Jeera-2 "[")2] | 是 | 3 [麒麟毛](Ki-Rin_Hair.md "麒麟毛") + 任意[灰烬](Ash.md "灰烬") |
 
 1. [↑](#cite_ref-trade_level_1-0) 交易等级此处指购买消耗品所需的等级要求。
-1. ↑ [2.0](#cite_ref-Jeera_2-0) [2.1](#cite_ref-Jeera_2-1) 特效治疗药水和极效治疗药水可在1级时从[Jeera](Jeera.md "Jeera")处购买。
+1. ↑ [2.0](#cite_ref-Jeera_2-0) [2.1](#cite_ref-Jeera_2-1) 特效治疗药水和极效治疗药水可在1级时从[吉拉](Jeera.md "吉拉")处购买。
 
 ## 普通药水
 

@@ -19,7 +19,7 @@
 
 3d6 (3~18) ⁠[毒素](Poison.md "毒素")
 
-伤害，如果使用者未通过[DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，则施加 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)") 状态，持续 10 回合。
+伤害，如果使用者未通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，则施加 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)") 状态，持续 10 回合。
 
   - 在回合结束时自动重新尝试豁免检定以移除中毒状态。
 
@@ -34,8 +34,8 @@
 
 伤害。
 
-- 对它们施加 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)") 状态，持续 3 回合。此外，它们必须进行 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")：否则将获得 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)") 状态，持续 1 回合。
-- 受 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)") 状态影响的生物必须在回合开始时进行 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到
+- 对它们施加 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)") 状态，持续 3 回合。此外，它们必须进行 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")：否则将获得 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)") 状态，持续 1 回合。
+- 受 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)") 状态影响的生物必须在回合开始时进行 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到
 
 3d6 (3~18) ⁠[毒素](Poison.md "毒素")
 
@@ -47,10 +47,10 @@
 
 持续时间：10 回合
 
-[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 13)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 13)
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
-- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素")伤害，直到成功通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素")伤害，直到成功通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 ## 获取地点
 

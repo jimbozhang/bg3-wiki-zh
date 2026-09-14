@@ -1,6 +1,6 @@
 # 'Hshar'lak Voss'
 
-'**Hshar'lak Voss'** questions whether [Voss](Voss.md "Voss") is a traitor to ⁠[Vlaakith](Vlaakith.md "Vlaakith").
+'**Hshar'lak Voss'** questions whether [沃斯](Voss.md "沃斯") is a traitor to ⁠[维拉基斯](Vlaakith.md "维拉基斯").
 
 一张朴素、无装饰的便条。
 

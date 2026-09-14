@@ -15,7 +15,7 @@
 [埃赛尔婶婶的特制酿品](Auntie_Ethel's_Special_Brew_(Condition).md "埃赛尔婶婶的特制酿品 (状态)")
 |
 
-- 受影响的生物在每回合开始时受到 2d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 受影响的生物在每回合开始时受到 2d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 [特酿腹鸣酒](Brewed-Up_Bellyglummer_(Condition).md "特酿腹鸣酒 (状态)")
 |
@@ -143,7 +143,7 @@
 |
 
 - 一片寒冷的空气，对所有穿过它的单位造成 10d6⁠⁠[寒冷](Cold.md "寒冷") 伤害。
-- 受影响实体可以进行一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 16 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 以改为承受一半伤害。
+- 受影响实体可以进行一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 16 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 以改为承受一半伤害。
 
 [邪魔火焰](Infernal_Burning_(Condition).md "邪魔火焰 (状态)")
 |
@@ -160,7 +160,7 @@
 \_(状态)[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)")
 |
 
-- 受影响实体每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。它必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外的 2d4⁠⁠[毒素](Poison.md "毒素") 伤害，豁免成功则承受一半伤害。
+- 受影响实体每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。它必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外的 2d4⁠⁠[毒素](Poison.md "毒素") 伤害，豁免成功则承受一半伤害。
 
 [油浸](Oily_Sup_(Condition).md "油浸 (状态)")
 |
@@ -176,7 +176,7 @@
 |
 
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
-- 在回合结束时，通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 即可结束状态。
+- 在回合结束时，通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 11 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 即可结束状态。
 
 [中毒](Poisoned_(Condition).md "中毒 (状态)")
 |
@@ -188,13 +188,13 @@
 
 - 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
-- 在回合开始时，进行一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，成功则结束状态。
+- 在回合开始时，进行一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，成功则结束状态。
 
 \_(状态)[中毒](Poisoned_(Suspicious_Poison)_(Condition).md "中毒 (可疑的毒药) (状态)")
 |
 
 - 在 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [检定](Checks.md "检定") 上承受 [劣势](Disadvantage.md "劣势")。
-- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 每回合造成 3d6⁠⁠[毒素](Poison.md "毒素") 伤害，直到通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 [毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)")
 |
@@ -225,7 +225,7 @@
 [幽影诅咒藤蔓](Shadow-Cursed_Vines_(Condition).md "幽影诅咒藤蔓 (状态)")
 |
 
-- 受影响实体无法移动，每回合受到 1-4⁠⁠[黯蚀](Necrotic.md "黯蚀") [DRS](Damage_rider_as_source.md "伤害来源") 伤害。对其的 [攻击掷骰](Attack_rolls.md "攻击掷骰") 具有 [优势](Advantage.md "优势")，而其攻击掷骰和 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 则具有 [劣势](Disadvantage.md "劣势")。
+- 受影响实体无法移动，每回合受到 1-4⁠⁠[黯蚀](Necrotic.md "黯蚀") [伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。对其的 [攻击掷骰](Attack_rolls.md "攻击掷骰") 具有 [优势](Advantage.md "优势")，而其攻击掷骰和 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 则具有 [劣势](Disadvantage.md "劣势")。
 
 [病弱](Sickly_(Condition).md "病弱 (状态)")
 |

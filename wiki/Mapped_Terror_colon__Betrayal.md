@@ -28,7 +28,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 受影响的生物无法移动。恐慌的生物在 [属性检定](Ability_Check.md "属性检定") 和 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。
 
@@ -38,7 +38,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 受影响的实体将跟随并协助施放此法术的施法者战斗。
 - 每次受到伤害时，它可能通过成功的感知 [豁免检定](Saving_throw.md "豁免检定") 来打破施法者对它的控制。

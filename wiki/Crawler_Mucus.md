@@ -29,7 +29,7 @@
 
 持续时间：10 驱散
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将[感染爬行者粘液](Stricken_with_Crawler_Mucus_(Condition).md "感染爬行者粘液 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将[感染爬行者粘液](Stricken_with_Crawler_Mucus_(Condition).md "感染爬行者粘液 (状态)")。
 - 如果豁免成功，目标将获得 [接种：爬行者粘液](Inoculated_colon__Crawler_Mucus_(Condition).md "接种：爬行者粘液 (状态)")，持续 2 驱散
 
 ## 区域：爬行者粘液
@@ -48,7 +48,7 @@
 
 **[感染爬行者粘液](Stricken_with_Crawler_Mucus_(Condition).md "感染爬行者粘液 (状态)")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 11)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 11)
 
 - 受影响实体将[中毒](Poisoned_(Condition).md "中毒 (状态)") 和 [麻痹](Paralysed_(Condition).md "麻痹 (状态)")
 - 持续到受影响实体成功通过一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 为止。

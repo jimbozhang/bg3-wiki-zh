@@ -13,7 +13,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 1 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -21,7 +21,7 @@
 
   - 此人受到大量睡眠药水的影响。无法唤醒他们。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -29,7 +29,7 @@
 
   - 此人受到大量睡眠药水的影响。无法唤醒他们。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

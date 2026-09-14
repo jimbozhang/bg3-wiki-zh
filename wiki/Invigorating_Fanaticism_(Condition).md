@@ -6,7 +6,7 @@
 
 ## 授予
 
-[Fishfolk Faithful](Fishfolk_Faithful.md "Fishfolk Faithful")
+[鱼人信徒](Fishfolk_Faithful.md "鱼人信徒")
 有几率使目标流血。
 
 ## 备注

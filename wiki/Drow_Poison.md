@@ -27,7 +27,7 @@
 
 持续时间：10 回合
 
-- 目标必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[中毒](Poisoned_(Condition).md "中毒 (状态)")并陷入[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
+- 目标必须通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[中毒](Poisoned_(Condition).md "中毒 (状态)")并陷入[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 - 若豁免检定成功，目标将获得[免疫：卓尔毒药](Inoculated_colon__Drow_Poison_(Condition).md "免疫：卓尔毒药 (状态)")，持续 2 回合。
 
 ## 区域：卓尔毒药云
@@ -46,7 +46,7 @@
 
 **[受卓尔毒药影响](Stricken_with_Drow_Poison_(Condition).md "受卓尔毒药影响 (状态)")**
 
-[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 
 - 受影响实体[中毒](Poisoned_(Condition).md "中毒 (状态)")并陷入[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 - 持续至受影响实体通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")或受到伤害。

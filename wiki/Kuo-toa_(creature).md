@@ -5,7 +5,7 @@
 | 声音 / 演员 | [Amy McAllister](https://www.imdb.com/name/nm3577620/) |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
-| 种族 | [Kuo-toa](Kuo-toa.md "Kuo-toa") |
+| 种族 | [寇涛鱼人](Kuo-toa.md "寇涛鱼人") |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |

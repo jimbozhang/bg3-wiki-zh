@@ -36,7 +36,7 @@
 
 ——特里西娅
 
-附言 告诉我你摆脱了[Drim](Drim.md "Drim")，对吧？那小子笨得像勺子，但一点用都没有。
+附言 告诉我你摆脱了[德瑞姆](Drim.md "德瑞姆")，对吧？那小子笨得像勺子，但一点用都没有。
 
 ---
 *Source: [Dear Sis...](https://bg3.wiki/wiki/Dear_Sis...)*

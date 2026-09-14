@@ -9,7 +9,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `DOWNED` [状态组](Status_groups.md "状态组"): [SG_Charmed](SG_Charmed.md "SG Charmed")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `DOWNED` [状态组](Status_groups.md "状态组"): [魅惑（状态组）](SG_Charmed.md "魅惑（状态组）")
 
 [持续时间损失](Conditions.md#Duration "状态"): 回合开始时
 

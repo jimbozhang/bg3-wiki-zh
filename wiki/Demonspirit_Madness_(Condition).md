@@ -9,7 +9,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `MAG_ZHENTARIM_DEMONSPIRIT_MADNESS` [状态组](Status_groups.md "Status groups"): [SG_Charmed](SG_Charmed.md "SG Charmed"), [SG_Condition](SG_Condition.md "SG Condition"), [SG_Mad](SG_Mad.md "SG Mad")
+[堆叠 ID](Stack_ID.md "Stack ID"): `MAG_ZHENTARIM_DEMONSPIRIT_MADNESS` [状态组](Status_groups.md "Status groups"): [魅惑（状态组）](SG_Charmed.md "魅惑（状态组）"), [SG 状态](SG_Condition.md "SG 状态"), [SG_Mad](SG_Mad.md "SG Mad")
 
 [持续时间结束](Conditions.md#Duration "Conditions"): 回合结束
 

@@ -13,7 +13,7 @@
 持续时间：2 驱散
 
 - 受影响实体每剩余 1 驱散，其 [感知](Wisdom.md "感知")、[智力](Intelligence.md "智力") 和 [魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定") 都会受到 -1 惩罚。
-- 当该实体拥有 5 驱散或更多此状态剩余时，若其 [感知](Wisdom.md "感知")、[智力](Intelligence.md "智力") 或 [魅力](Charisma.md "魅力") 豁免检定失败，该实体将受到 1d4⁠⁠[心灵](Psychic.md "心灵")[DRS](Damage_rider_as_source.md "伤害来源") 伤害，并且不再处于精神疲劳状态。
+- 当该实体拥有 5 驱散或更多此状态剩余时，若其 [感知](Wisdom.md "感知")、[智力](Intelligence.md "智力") 或 [魅力](Charisma.md "魅力") 豁免检定失败，该实体将受到 1d4⁠⁠[心灵](Psychic.md "心灵")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，并且不再处于精神疲劳状态。
 - 精神疲劳的最大持续时间为：7 驱散。
 
 ## 如何习得

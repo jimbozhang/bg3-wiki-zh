@@ -21,7 +21,7 @@
 - 被困在蜘蛛网中。无法移动或进行[动作](Action.md "Action")、[附赠动作](Bonus_action.md "Bonus Action")或[反应](Reaction.md "Reaction")。
 - 被茧缚时，受影响实体对所有伤害具有[抗性](Resistance.md "Resistance")。
 - 此外，其在进行[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving Throw")时具有[劣势](Disadvantage.md "Disadvantage")，并自动在[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")中失败。
-- 该状态在受到伤害时结束，或实体成功通过[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12的[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving Throw")时结束。
+- 该状态在受到伤害时结束，或实体成功通过[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 12的[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving Throw")时结束。
 
 [命令术：停步](Command_colon__Halt_(Condition).md "命令术：停步 (状态)")
 |

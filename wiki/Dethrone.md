@@ -15,7 +15,7 @@
 10d6 + 20[黯蚀](Necrotic.md "Necrotic")
 
 详情
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）（豁免成功时：目标仍承受一半伤害。）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 18）（豁免成功时：目标仍承受一半伤害。）
 射程：30米（100英尺）
 充能：[长休](Long_Rest.md "Long rest")
 

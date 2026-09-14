@@ -1,14 +1,14 @@
 # 战士套装
 
-The **Fighter set** includes items that interact with [Fighter](Fighter.md "Fighter") mechanics.
+The **Fighter set** includes items that interact with [战士](Fighter.md "战士") mechanics.
 
-[Favoured Weapon](Favoured_Weapon.md "Favoured Weapon")
-This weapon has a +1 bonus to damage and [Attack rolls](Attack_roll.md "Attack roll").
+[心仪武器](Favoured_Weapon.md "心仪武器")
+This weapon has a +1 bonus to damage and [攻击](Attack_roll.md "攻击").
 
-[Galvanic Currents](Galvanic_Currents.md "Galvanic Currents")
-This weapon deals an additional 1d6⁠⁠[Lightning](Lightning.md "Lightning") damage.
+[动电电流](Galvanic_Currents.md "动电电流")
+This weapon deals an additional 1d6⁠⁠[闪电](Lightning.md "闪电") damage.
 
-- This hammer's magical powers only function if it's Bound to an [Eldritch Knight](Eldritch_Knight.md "Eldritch Knight") or is a [Warlock](Warlock.md "Warlock")'s Pact Weapon. These effects are in addition to the weapon's +1 enchantment.
+- This hammer's magical powers only function if it's Bound to an [奥法骑士](Eldritch_Knight.md "奥法骑士") or is a [邪术师](Warlock.md "邪术师")'s Pact Weapon. These effects are in addition to the weapon's +1 enchantment.
 
 | 名称 | 插槽 | 效果 |
 | --- | --- | --- |

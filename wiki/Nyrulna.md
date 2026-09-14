@@ -33,7 +33,7 @@ UID `MAG_TheThorns_Trident` UUID `daf0be7f-87d9-448a-b94e-471ffec40ac5` Stats `M
 **持有此物品获得：**
 
 [和风连接](Zephyr_Connection.md "和风连接")
-此武器投掷后将返回你手中。你无法被强迫丢弃三叉戟。投掷时，武器会在目标中心造成 3d4⁠⁠[雷鸣](Thunder.md "雷鸣")[DRS](Damage_rider_as_source.md "伤害来源") 伤害的爆炸，范围为 ⁠6 米 / 20 英尺。
+此武器投掷后将返回你手中。你无法被强迫丢弃三叉戟。投掷时，武器会在目标中心造成 3d4⁠⁠[雷鸣](Thunder.md "雷鸣")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害的爆炸，范围为 ⁠6 米 / 20 英尺。
 
 [风之纱](Veil_of_the_Wind.md "风之纱")
 你获得 +3 米 / 10 英尺的 [移动速度](Movement_speed.md "移动速度") 和跳跃距离加成。装备此武器使你对 [坠落伤害](Falling_damage.md "坠落伤害") 免疫。

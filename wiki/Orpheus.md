@@ -159,7 +159,7 @@
 
 - “看来我们必须成为盟友了”
 
-- 俄耳甫斯在[tir'su](Tir'su.md "Tir'su")中的纹身<sup>[\[3\]](#cite_note-3)</sup>
+- 俄耳甫斯在[吉斯洋基石板](Tir'su.md "吉斯洋基石板")中的纹身<sup>[\[3\]](#cite_note-3)</sup>
 
 - 游戏中的纹身<sup>[\[4\]](#cite_note-4)</sup>
 

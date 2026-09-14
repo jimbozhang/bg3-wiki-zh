@@ -15,7 +15,7 @@
 2d8 + 2⁠[心灵](Psychic.md "心灵")
 
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）（豁免成功时：目标仍受到全额伤害，但不会陷入[恐慌](Frightened_(Condition).md "恐慌 (状态)")。）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 10）（豁免成功时：目标仍受到全额伤害，但不会陷入[恐慌](Frightened_(Condition).md "恐慌 (状态)")。）
 范围：4米（13英尺）半径
 充能：每回合
 
@@ -25,7 +25,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 10）
 
 - 受影响的生物无法移动。恐慌的生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 

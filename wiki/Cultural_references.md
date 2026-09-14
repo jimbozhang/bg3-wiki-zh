@@ -207,7 +207,7 @@
 
 ### 辛普森一家
 
-- [蠕行之爪](Crawling_Claw.md "蠕行之爪")[痒痒](Itchy.md "痒痒")和[Scratchy](Scratchy.md "Scratchy")在[卢克修斯](Lucretious.md "卢克修斯")的帐篷里，与《辛普森一家》中节目内的节目《痒痒与抓抓秀》的主角同名。
+- [蠕行之爪](Crawling_Claw.md "蠕行之爪")[痒痒](Itchy.md "痒痒")和[痒痒](Scratchy.md "痒痒")在[卢克修斯](Lucretious.md "卢克修斯")的帐篷里，与《辛普森一家》中节目内的节目《痒痒与抓抓秀》的主角同名。
 
 ### 古墓丽影
 

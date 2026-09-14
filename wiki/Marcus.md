@@ -4,7 +4,7 @@
 
 **Marcus** 可以指：
 
-- [Marcus Falgor](Marcus_Falgor.md "Marcus Falgor")
+- [马库斯·法尔戈](Marcus_Falgor.md "马库斯·法尔戈")
 - [Marcus (死去的渔夫)](Marcus_(dead_fisher).md "Marcus (死去的渔夫)")
 
 ---

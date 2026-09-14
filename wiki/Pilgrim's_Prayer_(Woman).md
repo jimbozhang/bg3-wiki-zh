@@ -2,7 +2,7 @@
 
 不要与 [Pilgrim's Prayer (Harrison)](Pilgrim's_Prayer_(Harrison).md) 混淆
 
-**Pilgrim's Prayer (Woman)** 是一封写给 [Lathander](Lathander.md "Lathander") 的友好信件。
+**Pilgrim's Prayer (Woman)** 是一封写给 [洛山达](Lathander.md "洛山达") 的友好信件。
 
 一张朴素无华的便条。
 

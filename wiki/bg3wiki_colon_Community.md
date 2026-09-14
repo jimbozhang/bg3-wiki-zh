@@ -1,6 +1,6 @@
 # bg3wiki:Project
 
-[Index](Help_colon_Index.md "Help:Index") • [Guides](Help_colon_Guide_namespace.md "Help:Guide namespace") • [Modding](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
+[Index](Help_colon_Index.md "Help:Index") • [指南:指南](Help_colon_Guide_namespace.md "指南:指南") • [Modding](Modding_colon_Modding_resources.md "Modding:Modding resources") • [Discord](https://discord.gg/EYNTAQXaNs)
 
 欢迎来到 **bg3.wiki**！使用侧边的导航框浏览维基的非文章页面。
 
@@ -10,7 +10,7 @@
 
 请随时加入 [bg3.wiki Discord](https://discord.gg/EYNTAQXaNs) 与其他编辑者进行实时讨论。
 
-参阅 [bg3wiki:Community gags](bg3wiki_colon_Community_gags.md "bg3wiki:Community gags") 以了解 BG3Wiki 上发生的有趣事件以及成为社区笑话或参考的详细文章。
+参阅 [Wiki梗](bg3wiki_colon_Community_gags.md "Wiki梗") 以了解 BG3Wiki 上发生的有趣事件以及成为社区笑话或参考的详细文章。
 
 ---
 *Source: [bg3wiki:Project](https://bg3.wiki/wiki/bg3wiki:Project)*

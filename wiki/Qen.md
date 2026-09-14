@@ -136,7 +136,7 @@ Qen 首次出现在通过[悬崖入口](Crèche_Y'llek.md#Cliffside_Entrance "�
 
 - [吉斯洋基巨剑](Githyanki_Greatsword.md "吉斯洋基巨剑")
 - [吉斯洋基半身甲](Githyanki_Half_Plate.md "吉斯洋基半身甲")
-- [钥匙（伊雷珂养育间）](Key_(Crèche_Y'llek).md "钥匙（伊雷珂养育间）")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- [钥匙（伊雷珂养育间）](Key_(Crèche_Y'llek).md "钥匙（伊雷珂养育间）")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 外部链接
 

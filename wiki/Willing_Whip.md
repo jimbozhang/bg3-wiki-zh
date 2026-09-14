@@ -4,7 +4,7 @@
 
 ## 描述
 
-获得 [抗性](Resistance.md "抗性") 至 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害。对附近目标（包括持有者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源驱动") 伤害。
+获得 [抗性](Resistance.md "抗性") 至 ⁠[黯蚀](Necrotic.md "黯蚀") 伤害。对附近目标（包括持有者）造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。
 
 ## 如何习得
 

@@ -10,7 +10,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组")：[SG_Rage](SG_Rage.md "SG Rage")
+[状态组](Status_groups.md "状态组")：[SG 狂暴](SG_Rage.md "SG 狂暴")
 
 [更多属性](Status_properties.md "状态属性")：
 

@@ -1,6 +1,6 @@
 # 抢先体验
 
-另请参阅：[Category:Legacy content](Category_colon_Legacy_content.md "Category:Legacy content") 和 [Cut and unimplemented content](Cut_and_Unimplemented_Content.md "Cut and unimplemented content")
+另请参阅：[Category:Legacy content](Category_colon_Legacy_content.md "Category:Legacy content") 和 [已删减及未实现内容](Cut_and_Unimplemented_Content.md "已删减及未实现内容")
 
 **抢先体验**（Early Access），常缩写为 **EA**，是电子游戏使用的一种融资和开发模式。
 

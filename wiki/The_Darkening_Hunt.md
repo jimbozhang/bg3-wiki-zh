@@ -32,7 +32,7 @@
 - [陆地阔步：劣势地形](Land's_Stride_colon__Difficult_Terrain.md "陆地阔步：劣势地形")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -42,7 +42,7 @@
 
 [跳跃](Jump.md "跳跃")距离变为三倍。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -52,7 +52,7 @@
 
 [跳跃](Jump.md "跳跃")距离变为三倍。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

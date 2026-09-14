@@ -48,7 +48,7 @@ _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**�
 
 _关于地狱武器：_
 
-- 无论豁免成功或失败，[中毒](Poisoned_(Condition).md "Poisoned (Condition)")豁免检定的掷骰结果均未显示在战斗日志中。由于其[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving throw")较低，这可能让人误以为中毒效果完全无效。
+- 无论豁免成功或失败，[中毒](Poisoned_(Condition).md "Poisoned (Condition)")豁免检定的掷骰结果均未显示在战斗日志中。由于其[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 12 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving throw")较低，这可能让人误以为中毒效果完全无效。
 
 ---
 *Source: [Infernal Warhammer](https://bg3.wiki/wiki/Infernal_Warhammer)*

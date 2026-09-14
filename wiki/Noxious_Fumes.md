@@ -18,7 +18,7 @@
 
 持续时间：停留在地表上时
 
-- 受影响的实体每回合受到1d4⁠⁠[中毒](Poison.md "中毒")伤害。它必须通过一次[DC](Dice_rolls.md#Save_DCs "掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将额外受到2d4⁠⁠[中毒](Poison.md "中毒")伤害，豁免成功则伤害减半。
+- 受影响的实体每回合受到1d4⁠⁠[中毒](Poison.md "中毒")伤害。它必须通过一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将额外受到2d4⁠⁠[中毒](Poison.md "中毒")伤害，豁免成功则伤害减半。
 
 ## 创建方式
 

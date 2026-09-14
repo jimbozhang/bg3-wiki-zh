@@ -1,6 +1,6 @@
 # 阿斯莫
 
-[Dame Aylin](Dame_Aylin.md "Dame Aylin") the aasimar
+[艾琳](Dame_Aylin.md "艾琳") the aasimar
 
 **阿斯莫**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中一种不可游玩的[种族](Race.md "种族")，类似天使的人形生物。
 

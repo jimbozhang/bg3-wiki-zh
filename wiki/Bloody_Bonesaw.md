@@ -15,7 +15,7 @@
 8d8 + [敏捷调整值](Dexterity.md#Dexterity_modifier_chart "敏捷")⁠[挥砍](Slashing.md "挥砍")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）（豁免成功：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）（豁免成功：目标仍承受一半伤害。）
 射程：2.5 米（8 英尺）
 
 ## 状态：减速
@@ -24,7 +24,7 @@
 
 持续时间：2 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 18）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 18）
 
 - [移动速度](Movement_speed.md "移动速度")减半
 - [护甲等级](Armour_Class.md "护甲等级")和[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")降低 2

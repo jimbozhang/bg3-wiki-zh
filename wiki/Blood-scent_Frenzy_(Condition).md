@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `RAGE_SAHUAGIN` [状态组](Status_groups.md "状态组"): [SG_Rage](SG_Rage.md "SG Rage")
+[堆叠ID](Stack_ID.md "堆叠ID"): `RAGE_SAHUAGIN` [状态组](Status_groups.md "状态组"): [SG 狂暴](SG_Rage.md "SG 狂暴")
 
 ## 鲜血狂暴的来源
 

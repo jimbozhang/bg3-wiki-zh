@@ -1,6 +1,6 @@
 # 食物补给表 2
 
-**食物补给表 2**（**Food Supply Table 2**），也称为 **Supplies_Food_2**，是一个非等级化的[Treasure Table](Treasure_Table.md "Treasure Table")，包含小型[营地补给](Camp_supplies.md "Camp Supplies")物品。它在许多掉落表中被引用。
+**食物补给表 2**（**Food Supply Table 2**），也称为 **Supplies_Food_2**，是一个非等级化的[宝藏表](Treasure_Table.md "宝藏表")，包含小型[营地补给](Camp_supplies.md "Camp Supplies")物品。它在许多掉落表中被引用。
 
 其名称似乎基于这样一个事实：该表的平均补给值约为 2。
 

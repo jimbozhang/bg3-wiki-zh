@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `RESTRAINED` [状态组](Status_groups.md "Status groups"): [SG_Restrained](SG_Restrained.md "SG Restrained"), [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠ID](Stack_ID.md "Stack ID"): `RESTRAINED` [状态组](Status_groups.md "Status groups"): [束缚 (状态组)](SG_Restrained.md "束缚 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 [更多属性](Status_properties.md "Status properties"):
 

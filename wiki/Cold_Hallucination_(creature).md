@@ -11,7 +11,7 @@
 | 先攻 | +3 |
 | 移动速度 | 9 m (30 ft) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -19,7 +19,7 @@
 
   - 这个幻觉小魔鬼的奇幻力量使附近所有生物获得对 ⁠[寒冷](Cold.md "寒冷") 伤害的 [抗性](Resistance.md "抗性")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -27,7 +27,7 @@
 
   - 这个幻觉小魔鬼的奇幻力量使附近所有生物获得对 ⁠[寒冷](Cold.md "寒冷") 伤害的 [抗性](Resistance.md "抗性")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

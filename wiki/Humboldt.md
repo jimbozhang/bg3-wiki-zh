@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 12 / (+1) | 14 / (+2) | 10 / (0) | 12 / (+1) | 12 / (+1) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -50,7 +50,7 @@
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -74,7 +74,7 @@
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

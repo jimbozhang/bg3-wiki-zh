@@ -8,7 +8,7 @@
 - 卡利姆（Calim）– [埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")的受害者，其头骨出现在[蔓生地道](Overgrown_Tunnel.md "蔓生地道")中
 - [瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")的黎明大师们，其形象出现在与任务[寻找洛山达之血](Find_the_Blood_of_Lathander.md "寻找洛山达之血")相关的彩色玻璃面板中
 - 种子（Seed）
-  - 斯托克霍尔德（Stockhold）– 在[Dawnmaster Stockhold, Master of his Craft](Dawnmaster_Stockhold,_Master_of_his_Craft.md "Dawnmaster Stockhold, Master of his Craft")中提及
+  - 斯托克霍尔德（Stockhold）– 在[黎明大师斯托克霍德，技艺大师](Dawnmaster_Stockhold,_Master_of_his_Craft.md "黎明大师斯托克霍德，技艺大师")中提及
   - 瓦赛德（Vaseid）– 在[黎明大师瓦赛德的寓言](The_Parables_of_Dawnmaster_Vaseid.md "黎明大师瓦赛德的寓言")和[他的神圣之血，第二卷，圣武士瓦赛德](His_Holy_Blood,_Vol._2,_Paladin_Vaseid.md "他的神圣之血，第二卷，圣武士瓦赛德")中提及
   - 韦尔金格洛里（Welkinglory）
 - 迪达（Dida）– 在[医师日志](Healer's_Log.md "医师日志")中提及，是[桑普森](Sampson.md "桑普森")在[染疫村落](Blighted_Village.md "染疫村落")的学徒<sup>[\[1\]](#cite_note-Dida_Highcliff-1)</sup>

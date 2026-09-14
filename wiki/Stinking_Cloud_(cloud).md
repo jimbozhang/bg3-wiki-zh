@@ -14,7 +14,7 @@
 
 **[恶心](Nauseous_(Condition).md "恶心 (状态)")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 
 - 无法采取[动作](Action.md "动作")
 

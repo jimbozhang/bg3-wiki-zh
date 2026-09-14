@@ -6,7 +6,7 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| 残响 | 受影响实体每剩余回合对[力量](Strength.md "力量")、[敏捷](Dexterity.md "敏捷")和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")有-1减值。当实体拥有5回合或更多残响时，它受到1d4⁠⁠[雷鸣](Thunder.md "雷鸣")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并且必须通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 10的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒伏](Prone_(Condition).md "倒伏 (状态)")。之后状态将被移除。对⁠[雷鸣](Thunder.md "雷鸣")伤害[免疫](Damage_Types#Immunity.md#Immunity "伤害类型")的生物无法获得残响。 |
+| 残响 | 受影响实体每剩余回合对[力量](Strength.md "力量")、[敏捷](Dexterity.md "敏捷")和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")有-1减值。当实体拥有5回合或更多残响时，它受到1d4⁠⁠[雷鸣](Thunder.md "雷鸣")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，并且必须通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 10的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒伏](Prone_(Condition).md "倒伏 (状态)")。之后状态将被移除。对⁠[雷鸣](Thunder.md "雷鸣")伤害[免疫](Damage_Types#Immunity.md#Immunity "伤害类型")的生物无法获得残响。 |
 
 - 对⁠[雷鸣](Thunder.md "雷鸣")伤害[免疫](Damage_types.md#Immunity "伤害类型")的生物无法获得残响。
 
@@ -24,7 +24,7 @@
 
 持续时间: 2 回合
 
-[体质](Constitution.md "体质") [检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 10)
+[体质](Constitution.md "体质") [检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 10)
 
 - 受影响生物无法移动或使用[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")，并且对[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 - 在距离生物3米（10英尺）内进行的攻击对倒伏生物具有[优势](Advantage.md "优势")。
@@ -35,7 +35,7 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| 残响 | 受影响实体每剩余回合对[力量](Strength.md "力量")、[敏捷](Dexterity.md "敏捷")和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")有-1减值。当实体拥有5回合或更多残响时，它受到1d4⁠⁠[雷鸣](Thunder.md "雷鸣")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并且必须通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 10的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒伏](Prone_(Condition).md "倒伏 (状态)")。之后状态将被移除。对⁠[雷鸣](Thunder.md "雷鸣")伤害[免疫](Damage_Types#Immunity.md#Immunity "伤害类型")的生物无法获得残响。 |
+| 残响 | 受影响实体每剩余回合对[力量](Strength.md "力量")、[敏捷](Dexterity.md "敏捷")和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")有-1减值。当实体拥有5回合或更多残响时，它受到1d4⁠⁠[雷鸣](Thunder.md "雷鸣")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，并且必须通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 10的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒伏](Prone_(Condition).md "倒伏 (状态)")。之后状态将被移除。对⁠[雷鸣](Thunder.md "雷鸣")伤害[免疫](Damage_Types#Immunity.md#Immunity "伤害类型")的生物无法获得残响。 |
 
 ## 错误
 
@@ -47,7 +47,7 @@
 
 - 受影响实体每剩余回合对[力量](Strength.md "力量")、[敏捷](Dexterity.md "敏捷")和[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")有-1减值。
 
-- 当实体拥有5回合或更多残响时，它受到1d4⁠⁠[雷鸣](Thunder.md "雷鸣")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并且必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 10的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒伏](Prone_(Condition).md "倒伏 (状态)")。之后状态将被移除。
+- 当实体拥有5回合或更多残响时，它受到1d4⁠⁠[雷鸣](Thunder.md "雷鸣")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，并且必须通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 10的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒伏](Prone_(Condition).md "倒伏 (状态)")。之后状态将被移除。
 
 - 对⁠[雷鸣](Thunder.md "雷鸣")伤害[免疫](Damage_types.md#Immunity "伤害类型")的生物无法获得残响。
 

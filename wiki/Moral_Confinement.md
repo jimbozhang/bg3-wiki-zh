@@ -25,7 +25,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）
 
 - 生物无法说话或施放具有言语成分的法术，并且免疫⁠[雷鸣](Thunder.md "雷鸣")伤害。
 

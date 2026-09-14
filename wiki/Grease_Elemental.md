@@ -11,9 +11,9 @@
 | 先攻 | 0 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **油脂元素**是一种[元素生物](List_of_creature_types.md#Elemental "生物类型列表")，可以在[下城区下水道](Lower_City_Sewers.md "下城区下水道")中找到，它们在那里守卫[艾丽丝·瑟里亚夏斯](Aelis_Siryasius.md "艾丽丝·瑟里亚夏斯")。艾丽丝会与它们交谈，甚至称其中一只是他的“表亲”。
 

@@ -79,7 +79,7 @@
 以下装备会为穿戴者的攻击添加光耀伤害，或可通过其他方式造成光耀伤害。
 
 - [无情光芒之戒](Callous_Glow_Ring.md "无情光芒之戒")：对处于光照下（非[遮蔽](Obscured.md "遮蔽")）的生物造成 +2⁠⁠光耀伤害。
-- [圣枪头盔](Holy_Lance_Helm.md "圣枪头盔")：对任何未命中的攻击者造成 1d4⁠⁠光耀伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）以豁免。
+- [圣枪头盔](Holy_Lance_Helm.md "圣枪头盔")：对任何未命中的攻击者造成 1d4⁠⁠光耀伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）以豁免。
 - [奉献皎月长袍](Moon_Devotion_Robe.md "奉献皎月长袍")：当受到[魔法护甲](Mage_Armour_(Condition).md "魔法护甲（状态）")影响时，攻击者[豁免检定](Saving_throw.md "豁免检定")成功则对其造成 1d4⁠⁠光耀伤害。
 - [拳击天使](Seraphic_Pugilist_Gloves.md "拳击天使")：徒手攻击造成 +1d4⁠⁠光耀伤害。
 - [橡树之父的拥抱](The_Oak_Father's_Embrace.md "橡树之父的拥抱")：对[不死生物](Undead.md "不死生物")造成 +1d6⁠⁠光耀伤害。
@@ -88,7 +88,7 @@
 
 以下[消耗品](Consumable.md "消耗品")可用于造成光耀伤害。对于[箭](Arrows.md "箭")，伤害会附加到攻击者的常规远程武器伤害上。
 
-- [圣水](Holy_Water.md "圣水")：在区域内对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成 3d6⁠⁠光耀伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）以减半伤害。
+- [圣水](Holy_Water.md "圣水")：在区域内对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成 3d6⁠⁠光耀伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）以减半伤害。
 
 ## 交互
 

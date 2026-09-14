@@ -11,9 +11,9 @@
 | 先攻 | 0 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **血髓骷髅**是博德之门3中的不死生物。它由[奥林](Orin.md "Orin")在[巴尔神殿](Temple_of_Bhaal.md "Temple of Bhaal")的战斗中从附近敌人的尸体中召唤出来。
 

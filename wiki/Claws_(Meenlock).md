@@ -26,7 +26,7 @@
 
 持续时间：2 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 17）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 17）
 
 - 受影响实体无法移动或使用[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")。
 - 如果攻击者在3米（10英尺）内，对实体的攻击总是[重击](Critical_Hit.md "重击")。

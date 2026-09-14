@@ -14,7 +14,7 @@
 
 **[卓尔毒药侵袭](Stricken_with_Drow_Poison_(Condition).md "卓尔毒药侵袭 (状态)")**
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 13）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 13）
 
 - 受影响实体[中毒](Poisoned_(Condition).md "Poisoned (Condition)")并已[沉睡](Sleeping_(Condition).md "Sleeping (Condition)")。
 - 持续至受影响实体成功通过一次[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")或受到伤害为止。

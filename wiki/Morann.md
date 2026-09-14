@@ -13,7 +13,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 250 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -37,7 +37,7 @@
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -61,7 +61,7 @@
 
 此生物从阴影中攻击时，会造成额外的 4d8⁠⁠[黯蚀](Necrotic.md "Necrotic")伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

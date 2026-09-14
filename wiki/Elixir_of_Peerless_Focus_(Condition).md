@@ -3,7 +3,7 @@
 **卓越专注灵药**
 
 - 受影响实体维持法术的能力得到提升。
-- 在对抗[魅惑](Charmed_(status_group).md) and for maintaining [Concentration](Concentration.md "Concentration")的[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。
+- 在对抗[魅惑](Charmed_(status_group).md) and for maintaining [专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。
 - 无法被施加[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
 ## 属性

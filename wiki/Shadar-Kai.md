@@ -29,7 +29,7 @@
 
 ## 著名影灵（类人生物）
 
-- [He Who Was](He_Who_Was.md "He Who Was")
+- [往日身影](He_Who_Was.md "往日身影")
 
 ## 外部链接
 

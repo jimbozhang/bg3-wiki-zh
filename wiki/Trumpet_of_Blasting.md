@@ -15,7 +15,7 @@
 2d4⁠[雷鸣](Thunder.md "雷鸣")
 
 详情
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 12）（豁免成功：目标仍承受一半伤害。）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 12）（豁免成功：目标仍承受一半伤害。）
 范围：6米（20英尺）锥形
 目标：锥形范围内的所有非盟友生物
 充能：每回合
@@ -26,7 +26,7 @@
 
 持续时间：2回合
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 受影响的生物无法移动或进行[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")，并且在[力量](Strength.md "Strength")和[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 - 对倒伏生物的攻击在3米（10英尺）内进行时具有[优势](Advantage.md "Advantage")。

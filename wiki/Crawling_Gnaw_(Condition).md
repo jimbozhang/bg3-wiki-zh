@@ -10,7 +10,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `CRAWLING_GNAW_SWITCH` [状态组](Status_groups.md "状态组"): [SG_Disease](SG_Disease.md "SG 疾病")
+[堆叠ID](Stack_ID.md "堆叠ID"): `CRAWLING_GNAW_SWITCH` [状态组](Status_groups.md "状态组"): [患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 ## 蠕行啃咬的来源
 

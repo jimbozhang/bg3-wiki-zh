@@ -29,7 +29,7 @@
 
 - 10d8 + 40 (50~120) ⁠[力场](Force.md "力场")
 
-（[DC](Dice_rolls.md#Save_DCs "骰子掷") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 以减半伤害）
+（[掷骰](Dice_rolls.md#Save_DCs "骰子掷") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 以减半伤害）
 
   - 自动对物体和环境造成 [重击](Critical_Hit.md "重击")
   - 被爆炸波及的生物会被击退 6 m (20 ft)（无需豁免检定）

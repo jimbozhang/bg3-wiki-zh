@@ -11,7 +11,7 @@
 | 先攻 | +1 |
 | 移动速度 | 0 米 (0 英尺) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
@@ -19,7 +19,7 @@
 
 附近的班恩仆从获得 +1 力量。可叠加。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 

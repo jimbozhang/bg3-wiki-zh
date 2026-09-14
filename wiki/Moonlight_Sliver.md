@@ -10,7 +10,7 @@
 | 护甲等级 | 24 |
 | 先攻 | +7 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 
@@ -26,7 +26,7 @@
 
 可以作为对攻击者的 [反应](Reaction.md "反应") 造成 12d12 [光耀](Radiant.md "光耀") 伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - ## 状态
 

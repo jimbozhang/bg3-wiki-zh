@@ -28,7 +28,7 @@
 - 当被点燃时，烟粉地表对所有站在其上的生物产生以下效果：
 - 2d6 (2~12) ⁠[火焰](Fire.md "Fire")
 
-伤害（[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw")以豁免）
+伤害（[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw")以豁免）
 
 - 2d6 (2~12) ⁠[力场](Force.md "Force")
 

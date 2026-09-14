@@ -72,7 +72,7 @@
 
 #### 第一次豁免检定
 
-被动[DC](Dice_rolls.md#Save_DCs "Dice rolls") 15的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")，如果失败，会使角色[中毒](Poisoned_(Condition).md "Poisoned (Condition)") 10轮。
+被动[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 15的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")，如果失败，会使角色[中毒](Poisoned_(Condition).md "Poisoned (Condition)") 10轮。
 
 #### 第二次豁免检定
 

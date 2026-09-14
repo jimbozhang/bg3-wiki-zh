@@ -15,7 +15,7 @@
 1d4 (1~4) ⁠[寒冷](Cold.md "寒冷")
 
 详情
-[Daggers](Daggers.md "Daggers")
+[匕首](Daggers.md "匕首")
 稀有度：稀有
 附魔：无
 单手
@@ -49,7 +49,7 @@ _仅限副手_
 
 _关于寒冰还击：_
 
-- 游戏内寒冰还击的描述说有[DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，但实际上没有豁免检定来避免此效果。每次攻击未命中都会施加冻僵状态。
+- 游戏内寒冰还击的描述说有[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，但实际上没有豁免检定来避免此效果。每次攻击未命中都会施加冻僵状态。
 
 ---
 *Source: [Cold Snap](https://bg3.wiki/wiki/Cold_Snap)*

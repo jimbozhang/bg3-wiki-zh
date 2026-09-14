@@ -11,7 +11,7 @@
 1d4 (1~4) + [力量或敏捷调整值](Damage_Roll.md#Modifiers "伤害掷骰") ⁠[穿刺](Piercing.md "Piercing")
 
 详情
-[Daggers](Daggers.md "Daggers")
+[匕首](Daggers.md "匕首")
 稀有度：普通
 附魔：无
 单手持握

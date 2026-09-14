@@ -5,13 +5,13 @@
 
 ## [下城区](Lower_City.md "下城区")
 
-[Rainforest's Home](Rainforest's_Home.md "Rainforest's Home")
+[雨林之家](Rainforest's_Home.md "雨林之家")
 ↑
 | [下城区](Lower_City.md "下城区") |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| [Rainforest's Home](Rainforest's_Home.md "Rainforest's Home") |  |  |  |  |
+| [雨林之家](Rainforest's_Home.md "雨林之家") |  |  |  |  |
 | ↑ |  |  |  |  |
-| [Flymm Cargo](Flymm_Cargo.md "Flymm Cargo") | ← | 清账屋 | → | [Old Garlow's Place](Old_Garlow's_Place.md "Old Garlow's Place") |
+| [Flymm Cargo](Flymm_Cargo.md "Flymm Cargo") | ← | 清账屋 | → | [老加洛之家](Old_Garlow's_Place.md "老加洛之家") |
 |  |  |  |  |  |
 **清账屋**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。
 
@@ -65,7 +65,7 @@
 
 **清账屋**是博德之门的主要金融机构，以各种方式参与城市大部分货币的流入和流出。
 
-清账屋位于下城区南部海岸的陡坡区，占据着[Flymm Cargo](Flymm_Cargo.md "Flymm Cargo")和[Old Garlow's Place](Old_Garlow's_Place.md "Old Garlow's Place")之间的一个独立小石岛，通过一座宽阔的石桥与堤岸相连。它包括三层主楼、其水下储藏设施<sup>[\[1\]](#cite_note-1)</sup>以及西南方向的码头，与主[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")隔开。
+清账屋位于下城区南部海岸的陡坡区，占据着[Flymm Cargo](Flymm_Cargo.md "Flymm Cargo")和[老加洛之家](Old_Garlow's_Place.md "老加洛之家")之间的一个独立小石岛，通过一座宽阔的石桥与堤岸相连。它包括三层主楼、其水下储藏设施<sup>[\[1\]](#cite_note-1)</sup>以及西南方向的码头，与主[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")隔开。
 
 清账屋建筑内外（包括码头区）由一支小型的_"现金守卫"_（该设施安保人员的特定称谓）守卫。码头还由两名[钢铁卫士](Steel_Watcher.md "钢铁卫士")巡逻。然而，建筑内部没有自动机。此外，清账屋的所有区域都配备了[警报机械](Alarm_Machine.md "警报机械")，这是一种独特的陷阱类装置，在紧急情况下启动并发出信号，吸引附近所有守卫持续三回合。守卫的这种行为（被任何触发的警报机械吸引三回合，如果未发现目标则将其关闭）也可以被队伍利用，以穿越建筑的某些区域。
 
@@ -207,13 +207,13 @@
 
 两艘货船停泊在码头泊位。多个宝箱散布在码头和船只甲板上，大部分上锁。宝箱可以用前述的[装卸平台宝箱钥匙](Loading_Dock_Chest_Key.md "装卸平台宝箱钥匙")打开。<sup>[\[4\]](#cite_note-4)</sup> 否则，每个箱子需要DC 10或15的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")才能解锁。
 
-虽然宝箱中没有独特的战利品，但全部获取可获得大量[贵重物品](Valuables.md "贵重物品")、[卷轴](Scrolls.md "卷轴")、[药水](Potions.md "药水")和[金币](Gold.md "金币")。在X: -161 Y: -219处上锁的灯塔顶部可以到达两个[烟粉桶](Smokepowder_Barrel.md "烟粉桶")，并欣赏城市港口及更远的绝佳景色。门上的锁可以用[Cashguard Basher Brammels](Brammels.md "Brammels")携带的[港口塔楼钥匙](Docktower_Key.md "港口塔楼钥匙")打开，或用DC 15的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")打开。从那里向西旅行可到达_光鲜少女号_，一艘充满疾病并载有致命[被诅咒的小恶魔](Cursed_Imp.md "被诅咒的小恶魔")偷渡者的船。
+虽然宝箱中没有独特的战利品，但全部获取可获得大量[贵重物品](Valuables.md "贵重物品")、[卷轴](Scrolls.md "卷轴")、[药水](Potions.md "药水")和[金币](Gold.md "金币")。在X: -161 Y: -219处上锁的灯塔顶部可以到达两个[烟粉桶](Smokepowder_Barrel.md "烟粉桶")，并欣赏城市港口及更远的绝佳景色。门上的锁可以用[布拉梅尔斯](Brammels.md "布拉梅尔斯")携带的[港口塔楼钥匙](Docktower_Key.md "港口塔楼钥匙")打开，或用DC 15的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")打开。从那里向西旅行可到达_光鲜少女号_，一艘充满疾病并载有致命[被诅咒的小恶魔](Cursed_Imp.md "被诅咒的小恶魔")偷渡者的船。
 
 ## 相关事件
 
 ### 获取银行通行证
 
-要进入柜台区后的清账屋，队伍必须向[Cashguard Captain Faril](Faril.md "Faril")出示[银行通行证](Bank_Pass.md "银行通行证")或向她行贿，这会打开对话选项，通过属性检定说服她让队伍进入。如果他们承认没有通行证，Faril会指向[总管米德霍尼](Bloris_Meadhoney.md "总管米德霍尼")，他负责签发通行证。一旦获得，银行通行证允许进入银行的下层，包括保险箱和保险库。
+要进入柜台区后的清账屋，队伍必须向[法里尔](Faril.md "法里尔")出示[银行通行证](Bank_Pass.md "银行通行证")或向她行贿，这会打开对话选项，通过属性检定说服她让队伍进入。如果他们承认没有通行证，Faril会指向[总管米德霍尼](Bloris_Meadhoney.md "总管米德霍尼")，他负责签发通行证。一旦获得，银行通行证允许进入银行的下层，包括保险箱和保险库。
 
 通行证可以通过几种方式获得：
 
@@ -228,7 +228,7 @@
 
 为石之领主准备的未起作用的陷阱
 
-在装卸平台区（底层），[Cashguard Basher Nickelow](Nickelow.md "Nickelow")再次要求出示通行证。也可以通过各种DC从15到30的属性检定说服她让队伍通过，或行贿。_处理Nickelow的所有选项列表可在她的页面上找到。_ 通过这个岗哨后，队伍可以自由探索和/或掠夺清账屋的保险箱和保险库。
+在装卸平台区（底层），[尼克洛](Nickelow.md "尼克洛")再次要求出示通行证。也可以通过各种DC从15到30的属性检定说服她让队伍通过，或行贿。_处理Nickelow的所有选项列表可在她的页面上找到。_ 通过这个岗哨后，队伍可以自由探索和/或掠夺清账屋的保险箱和保险库。
 
 首次进入高安保险库大厅会触发过场动画，展示[九指基恩](Nine-Fingers_Keene.md "九指基恩")为[明斯克](Minsc.md "明斯克")准备的陷阱。在过场动画中，假的['贾希拉']('Jaheira'.md "'贾希拉'")出现并与明斯克一起传送离开，留下一群[巴尔邪教徒](Cult_of_Bhaal.md "巴尔邪教徒")。他们立即攻击队伍和清账屋员工。几名[巴尔之镰](Reaper_of_Bhaal.md "巴尔之镰")以[隐形](Invisible_(Condition).md "隐形（状态）")状态开始战斗，隐藏在大厅的壁龛中，并试图包抄对手。邪教徒集中力量首先杀死队伍和首席银行家[拉凯斯·耀须](Rakath_Glitterbeard.md "拉凯斯·耀须")。如果队伍想在之后启动任务⁠[找回拉凯斯的金子](Return_Rakath's_Gold.md "找回拉凯斯的金子")，他必须存活。\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
 
@@ -267,41 +267,41 @@
 
 #### 办事员与出纳员
 
-- [Chervis](Chervis.md "Chervis")
-- [Stivvo](Stivvo.md "Stivvo")
-- [Zollerix](Zollerix.md "Zollerix")
+- [切尔维斯](Chervis.md "切尔维斯")
+- [斯蒂沃](Stivvo.md "斯蒂沃")
+- [佐尔瑞克斯](Zollerix.md "佐尔瑞克斯")
 
 #### 现金守卫
 
 - [Galleass](Galleass.md "Galleass")
-- [Helenia](Helenia.md "Helenia")
-- [Yonni](Yonni.md "Yonni")
+- [海伦妮娅](Helenia.md "海伦妮娅")
+- [尤尼](Yonni.md "尤尼")
 
 #### 现金守卫炮手
 
-- [Dadger](Dadger.md "Dadger")
-- [Erus](Erus.md "Erus")
-- [Faona](Faona.md "Faona")
-- [Heen](Heen.md "Heen")
-- [Jacko](Jacko.md "Jacko")
-- [Loretta](Loretta.md "Loretta")
-- [Morra](Morra.md "Morra")
-- [Smathers](Smathers.md "Smathers")
-- [Thamberg](Thamberg.md "Thamberg")
-- [Theoda](Theoda.md "Theoda")
-- [Triava](Triava.md "Triava")
+- [达格](Dadger.md "达格")
+- [埃鲁斯](Erus.md "埃鲁斯")
+- [法欧娜](Faona.md "法欧娜")
+- [希恩](Heen.md "希恩")
+- [杰科](Jacko.md "杰科")
+- [洛蕾塔](Loretta.md "洛蕾塔")
+- [莫拉](Morra.md "莫拉")
+- [斯马瑟斯](Smathers.md "斯马瑟斯")
+- [塔姆伯格](Thamberg.md "塔姆伯格")
+- [西奥达](Theoda.md "西奥达")
+- [特里亚瓦](Triava.md "特里亚瓦")
 
 #### 现金守卫重击手
 
-- [Brammels](Brammels.md "Brammels")
-- [Edvidge](Edvidge.md "Edvidge")
-- [Forstum](Forstum.md "Forstum")
+- [布拉梅尔斯](Brammels.md "布拉梅尔斯")
+- [埃德维奇](Edvidge.md "埃德维奇")
+- [福斯图姆](Forstum.md "福斯图姆")
 - [Humgoole](Humgoole.md "Humgoole")
-- [Karol](Karol.md "Karol")
-- [Mofty](Mofty.md "Mofty")
-- [Nickelow](Nickelow.md "Nickelow")
-- [Vikki](Vikki.md "Vikki")
-- [Dugg](Dugg.md "Dugg")
+- [卡罗尔](Karol.md "卡罗尔")
+- [莫夫提](Mofty.md "莫夫提")
+- [尼克洛](Nickelow.md "尼克洛")
+- [维琪](Vikki.md "维琪")
+- [达格](Dugg.md "达格")
 
 #### 生物
 
@@ -309,14 +309,14 @@
 
 ### 平民
 
-- [Brialavant](Brialavant.md "Brialavant")
-- [Brid Hunley](Brid_Hunley.md "Brid Hunley")
-- [Gilla Merrun](Gilla_Merrun.md "Gilla Merrun")
-- [Legarioll](Legarioll.md "Legarioll")
-- [Mevelenora](Mevelenora.md "Mevelenora")
-- [Rags Deelarma](Rags_Deelarma.md "Rags Deelarma") - 外面
+- [布里拉瓦特](Brialavant.md "布里拉瓦特")
+- [布里德·汉利](Brid_Hunley.md "布里德·汉利")
+- [吉拉·麦伦](Gilla_Merrun.md "吉拉·麦伦")
+- [莱加瑞尔](Legarioll.md "莱加瑞尔")
+- [麦维勒诺拉](Mevelenora.md "麦维勒诺拉")
+- [拉格斯·迪拉玛](Rags_Deelarma.md "拉格斯·迪拉玛") - 外面
 - [Skonal Dehann](Skonal_Dehann.md "Skonal Dehann")
-- [Vrindula Mardassus](Vrindula_Mardassus.md "Vrindula Mardassus") - 外面
+- [瓦林杜拉·玛达拉斯](Vrindula_Mardassus.md "瓦林杜拉·玛达拉斯") - 外面
 
 ### 巴尔邪教徒
 
@@ -355,7 +355,7 @@
 - [红宝石](Ruby.md "红宝石")
 - 100 - 130金币
 
-| 2 | [清账屋保险箱钥匙2](Counting_House_Safe_n%C2%BA2_Key.md "清账屋保险箱钥匙2") | Gorus Elgin <sup>[\[6\]](#cite_note-AccBook1-6)</sup> 由[Skittle](Skittle.md "Skittle")出售 | ⁠[山坡区监狱](Heapside_Prison.md "山坡区监狱") |
+| 2 | [清账屋保险箱钥匙2](Counting_House_Safe_n%C2%BA2_Key.md "清账屋保险箱钥匙2") | Gorus Elgin <sup>[\[6\]](#cite_note-AccBook1-6)</sup> 由[小柱](Skittle.md "小柱")出售 | ⁠[山坡区监狱](Heapside_Prison.md "山坡区监狱") |
 
 - [巨斧 +2](Greataxe_+2.md "巨斧 +2")
 - [短剑 +2](Shortsword_+2.md "短剑 +2")

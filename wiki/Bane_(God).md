@@ -40,7 +40,7 @@
 
 ## 相关文献
 
-- [A is for Azuth, and other Gods II](A_is_for_Azuth,_and_other_Gods_II.md "A is for Azuth, and other Gods II")
+- [A是阿祖斯，以及其他诸神 II](A_is_for_Azuth,_and_other_Gods_II.md "A是阿祖斯，以及其他诸神 II")
 - [加速的伟大蓝图](Accelerated_Grand_Design.md "加速的伟大蓝图")
 - [班恩的箴言之书](Bane's_Book_of_Admonitions.md "班恩的箴言之书")
 - [班恩教派申请表](Banite_Request_Form.md "班恩教派申请表")

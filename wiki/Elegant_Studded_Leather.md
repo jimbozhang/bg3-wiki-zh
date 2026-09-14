@@ -42,16 +42,16 @@
 - - - 模型
 
 - 体型1 正面
-  [人类](Human.md "人类")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+  [人类](Human.md "人类")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 - 体型1 背面
-  [人类](Human.md "人类")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+  [人类](Human.md "人类")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 - 体型4 正面
-  [高精灵](High_Elf.md "高精灵")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+  [高精灵](High_Elf.md "高精灵")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 - 体型4 背面
-  [高精灵](High_Elf.md "高精灵")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+  [高精灵](High_Elf.md "高精灵")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Elegant Studded Leather](https://bg3.wiki/wiki/Elegant_Studded_Leather)*

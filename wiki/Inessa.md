@@ -30,11 +30,11 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **伊内萨修女**是[第二幕](Act_Two.md "第二幕")期间[雷斯文](Reithwin.md "雷斯文")的[不死护士](Undead_Nurse.md "不死护士")。
 

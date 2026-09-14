@@ -17,7 +17,7 @@
 8d8⁠[力场](Force.md "Force")
 
 详情
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）（豁免成功：目标仍承受一半伤害，但能够使用[反应](Actions.md#Reactions "Actions")。）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 18）（豁免成功：目标仍承受一半伤害，但能够使用[反应](Actions.md#Reactions "Actions")。）
 范围：12 米（40 英尺）
 [专注](Concentration.md "Concentration")
 
@@ -31,7 +31,7 @@
 
 持续时间：1 驱散
 
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 18）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 18）
 
 - 受影响实体的移动速度减半。当锁链断裂时，它会受到 8d8⁠⁠[力场](Force.md "Force")伤害。
 

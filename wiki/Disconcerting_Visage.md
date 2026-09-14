@@ -15,7 +15,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 范围：10 米（33 英尺）半径
 
 ## 更高法术位
@@ -28,7 +28,7 @@
 
 持续时间：2 驱散
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 受影响实体对所有人[敌对](Hostile.md "敌对")，漫无目的地游荡，并偶尔在恍惚中[跳过对话](Skip.md "跳过对话")
 

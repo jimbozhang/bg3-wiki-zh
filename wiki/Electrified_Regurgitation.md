@@ -15,7 +15,7 @@
 6d8 + [力量调整值](Strength.md#Strength_modifier_chart "力量")⁠[闪电](Lightning.md "闪电")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）（豁免成功：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）（豁免成功：目标仍承受一半伤害。）
 范围：4米（13英尺）
 创造区域：带电的水
 充能：每回合
@@ -26,7 +26,7 @@
 
 持续时间：2回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 受影响的生物无法移动或使用[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")。
 - 受影响的生物自动在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")中失败。

@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID")：`SIZE` [状态组](Status_groups.md "状态组")：[SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")，[SG_Rage](SG_Rage.md "SG Rage")
+[堆叠ID](Stack_ID.md "堆叠ID")：`SIZE` [状态组](Status_groups.md "状态组")：[SG_RemoveOnRespec](SG_RemoveOnRespec.md "SG RemoveOnRespec")，[SG 狂暴](SG_Rage.md "SG 狂暴")
 
 [堆叠优先级](Stack_priority.md "堆叠优先级")：10
 

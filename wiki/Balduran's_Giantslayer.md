@@ -47,7 +47,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 此武器还赋予以下动作：
 
 [推翻大个](Topple_the_Big_Folk.md "推翻大个")
-造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外伤害。命中时，大型、巨型或超巨型生物受到额外 2d6⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，并且必须通过一次[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
+造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外伤害。命中时，大型、巨型或超巨型生物受到额外 2d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，并且必须通过一次[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")，否则将陷入[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点
 

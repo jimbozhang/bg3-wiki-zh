@@ -30,7 +30,7 @@ NF
 
 ## 笔记
 
-**装运订单**包含关于一个箱子的指示，该箱子可以从[散塔林会](Zhentarim.md "散塔林会")处掠夺，并交给[九指基恩](Nine-Fingers_Keene.md "九指基恩")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]。阅读该笔记会推进任务[找到丢失的货物](Find_the_Missing_Shipment.md "找到丢失的货物")。笔记中的警告是真实的；打开箱子会开始一场可能很困难的遭遇。
+**装运订单**包含关于一个箱子的指示，该箱子可以从[散塔林会](Zhentarim.md "散塔林会")处掠夺，并交给[九指基恩](Nine-Fingers_Keene.md "九指基恩")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]。阅读该笔记会推进任务[找到丢失的货物](Find_the_Missing_Shipment.md "找到丢失的货物")。笔记中的警告是真实的；打开箱子会开始一场可能很困难的遭遇。
 
 ---
 *Source: [Shipment Orders](https://bg3.wiki/wiki/Shipment_Orders)*

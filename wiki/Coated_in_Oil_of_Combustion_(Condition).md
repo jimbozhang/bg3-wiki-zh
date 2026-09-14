@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `DIPPED` [状态组](Status_groups.md "状态组"): [SG_WeaponCoating](SG_WeaponCoating.md "SG WeaponCoating")
+[堆叠ID](Stack_ID.md "堆叠ID"): `DIPPED` [状态组](Status_groups.md "状态组"): [SG 武器涂抹](SG_WeaponCoating.md "SG 武器涂抹")
 
 ## 状态：燃烧油
 

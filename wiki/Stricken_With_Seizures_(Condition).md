@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `CONTAGION_SEIZURE` [状态组](Status_groups.md "状态组"): [SG_Disease](SG_Disease.md "SG Disease")
+[堆叠ID](Stack_ID.md "堆叠ID"): `CONTAGION_SEIZURE` [状态组](Status_groups.md "状态组"): [患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合开始
 

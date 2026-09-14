@@ -1,6 +1,6 @@
 # 绽开的卓尔头颅
 
-绽开的卓尔头颅是[Nere](Nere.md "Nere")被斩首并转化后的头颅，也是《博德之门3》中的[杂物](Miscellaneous.md "Miscellaneous")故事道具。
+绽开的卓尔头颅是[尼讷](Nere.md "尼讷")被斩首并转化后的头颅，也是《博德之门3》中的[杂物](Miscellaneous.md "Miscellaneous")故事道具。
 
 一片蘑菇森林从尼讷的皮肤、眼睛和张开的嘴中冒出，欢快地吸食着凝结的血液。
 

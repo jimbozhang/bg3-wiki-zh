@@ -16,7 +16,7 @@
 
 ## 备注
 
-- 地洞在某些情况下可以被损坏，甚至摧毁。这可以用来切断敌人的路径。已知方法包括匕首之云和火墙术法术。[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
+- 地洞在某些情况下可以被损坏，甚至摧毁。这可以用来切断敌人的路径。已知方法包括匕首之云和火墙术法术。[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")]
 
 ---
 *Source: [Burrow Hole](https://bg3.wiki/wiki/Burrow_Hole)*

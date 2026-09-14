@@ -96,7 +96,7 @@
 
 楼梯旁边的桌子上有一枚[金坠饰](Gold_Pendant.md "金坠饰")，阳台对面的桌子上有一副[深红面具](Red_Carmine_Mask.md "深红面具")。
 
-坐标 X: 8 Y: -155 的房间里有一幅[乞丐肖像](Beggar's_Portrait.md "乞丐肖像")，它会被 DC 10 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")高亮显示。该肖像被黯蚀魔法保护，需要通过 DC 15 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")。如果检定失败，肖像会释放一团[黑暗术](Darkness.md "黑暗术")，互动的角色会受到[心灵](Psychic.md "心灵")伤害，\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 需要通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 10 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")。成功则获得[斯郎博的字条](Thrumbo's_Note.md "斯郎博的字条")，这会推进[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")任务。角落里还有一个木箱。里面装有金币、一套随机的药水和/或法术卷轴，以及一本名为[写作驱魔](Writin_Exorcises.md "写作驱魔")的书，由斯郎博为他的“兄弟们”练习字母表而撰写。
+坐标 X: 8 Y: -155 的房间里有一幅[乞丐肖像](Beggar's_Portrait.md "乞丐肖像")，它会被 DC 10 [察觉技能](Perception.md "察觉技能") [属性检定](Ability_Check.md "属性检定")高亮显示。该肖像被黯蚀魔法保护，需要通过 DC 15 [奥秘](Arcana.md "奥秘") [属性检定](Ability_Check.md "属性检定")。如果检定失败，肖像会释放一团[黑暗术](Darkness.md "黑暗术")，互动的角色会受到[心灵](Psychic.md "心灵")伤害，\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\] 需要通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 10 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")。成功则获得[斯郎博的字条](Thrumbo's_Note.md "斯郎博的字条")，这会推进[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")任务。角落里还有一个木箱。里面装有金币、一套随机的药水和/或法术卷轴，以及一本名为[写作驱魔](Writin_Exorcises.md "写作驱魔")的书，由斯郎博为他的“兄弟们”练习字母表而撰写。
 
 ### 地下室
 
@@ -132,7 +132,7 @@
 - 在楼梯中途的一个平台上，[格洛瑞斯玛](Glorissima.md "格洛瑞斯玛")大声乞讨施舍。她的儿子[米姆·格雷林](Meem_Grayling.md "米姆·格雷林")看起来很困，除了休息什么都不想要。
 - 鱼市附近的两个侏儒，[罗西纳](Rossina.md "罗西纳")和[格劳特](Grout.md "格劳特")，是整个游戏中唯一找到的[森林侏儒](Forest_Gnome.md "森林侏儒") NPC。
 
-堆岸海滩还提供了一个故障安全选项 \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]，以防队伍在探索[钢铁王座](Iron_Throne.md "钢铁王座")时以某种方式丢失了一个或多个[耐瑟石](Netherstone.md "耐瑟石")。在这种情况下，可以从沙华鱼人斗士身上搜刮耐瑟石，或从老特劳特曼那里购买，或者直接在最远泊位之间的沙滩上一条大鱼体内找到。此外，任何未从水下监狱救出的钢铁王座俘虏的尸体最终也会被冲上这片海滩。
+堆岸海滩还提供了一个故障安全选项 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]，以防队伍在探索[钢铁王座](Iron_Throne.md "钢铁王座")时以某种方式丢失了一个或多个[耐瑟石](Netherstone.md "耐瑟石")。在这种情况下，可以从沙华鱼人斗士身上搜刮耐瑟石，或从老特劳特曼那里购买，或者直接在最远泊位之间的沙滩上一条大鱼体内找到。此外，任何未从水下监狱救出的钢铁王座俘虏的尸体最终也会被冲上这片海滩。
 
 ## 传送点
 

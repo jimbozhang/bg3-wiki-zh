@@ -48,7 +48,7 @@ _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**�
 
 _关于地狱武器：_
 
-- 无论[中毒](Poisoned_(Condition).md "Poisoned (Condition)")豁免检定成功或失败，战斗日志中均不显示其掷骰结果。由于其[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving throw")较低，这可能让人误以为中毒效果完全无效。
+- 无论[中毒](Poisoned_(Condition).md "Poisoned (Condition)")豁免检定成功或失败，战斗日志中均不显示其掷骰结果。由于其[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 12 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving throw")较低，这可能让人误以为中毒效果完全无效。
 
 ---
 *Source: [Infernal Longsword](https://bg3.wiki/wiki/Infernal_Longsword)*

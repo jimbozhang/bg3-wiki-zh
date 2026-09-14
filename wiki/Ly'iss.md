@@ -11,7 +11,7 @@
 | 先攻 | +4 |
 | 经验值 | 250 |
 
-**老练掠夺者 莉伊丝**是一名[吉斯洋基人](Githyanki.md "Githyanki")士兵，可以在[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")的[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "Knights of the Shield Hideout")中遇到，她负责守卫[门主雅拉克](Zyrlak.md "Gate Master Zyrlak")。除非成功恐吓[Ch'r'rai Har'rak](Har'rak.md "Har'rak")，否则她会对队伍充满敌意。
+**老练掠夺者 莉伊丝**是一名[吉斯洋基人](Githyanki.md "Githyanki")士兵，可以在[博德之门](Baldur's_Gate.md "Baldur's Gate")的[下城区](Lower_City.md "Lower City")的[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "Knights of the Shield Hideout")中遇到，她负责守卫[门主雅拉克](Zyrlak.md "Gate Master Zyrlak")。除非成功恐吓[哈'拉克](Har'rak.md "哈'拉克")，否则她会对队伍充满敌意。
 
 ## 战斗
 

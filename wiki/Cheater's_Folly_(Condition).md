@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `SHA_TORTURETRIAL_SHAR_DEBUFF` [状态组](Status_groups.md "Status groups"): [SG_Cursed](SG_Cursed.md "SG Cursed")
+[堆叠ID](Stack_ID.md "Stack ID"): `SHA_TORTURETRIAL_SHAR_DEBUFF` [状态组](Status_groups.md "Status groups"): [被诅咒（状态组）](SG_Cursed.md "被诅咒（状态组）")
 
 [堆叠优先级](Stack_priority.md "Stack priority"): 1
 

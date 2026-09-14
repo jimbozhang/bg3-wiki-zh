@@ -111,12 +111,12 @@
 
 ### 盟友
 
-- [G'imre](G'imre.md "G'imre")
+- [吉姆雷](G'imre.md "吉姆雷")
 - [K'i'lar](K'i'lar.md "K'i'lar")
-- [Lir'i'c](Lir'i'c.md "Lir'i'c")
-- [Mir'ic](Mir'ic.md "Mir'ic")
-- [Sh'ari](Sh'ari.md "Sh'ari")
-- [Verik](Verik.md "Verik")
+- [里'瑞克](Lir'i'c.md "里'瑞克")
+- [米尔里克 (Mir'ic)](Mir'ic.md "米尔里克 (Mir'ic)")
+- [莎莉](Sh'ari.md "莎莉")
+- [维里克](Verik.md "维里克")
 
 ---
 *Source: [M'i'hayk](https://bg3.wiki/wiki/M'i'hayk)*

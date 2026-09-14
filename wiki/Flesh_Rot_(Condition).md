@@ -10,7 +10,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `HAG_FLESHROT` [状态组](Status_groups.md "状态组"): [SG_Disease](SG_Disease.md "SG 疾病")
+[堆叠ID](Stack_ID.md "堆叠ID"): `HAG_FLESHROT` [状态组](Status_groups.md "状态组"): [患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 [更多属性](Status_properties.md "状态属性"):
 
@@ -24,12 +24,12 @@
 
 持续时间: 25 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 15)
 
 - 肉体正在腐烂。
 - 使用魅力进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 - 对所有伤害[易伤](Damage_types.md "伤害类型")。
-- 持续时间结束时，需通过[DC](Dice_rolls.md#Save_DCs "掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")来移除状态，否则状态将被重新施加。
+- 持续时间结束时，需通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")来移除状态，否则状态将被重新施加。
 
 ## 备注
 
@@ -49,7 +49,7 @@ _维基数据库中未定义_
 - 肉体正在腐烂。
 - 使用魅力进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 - 对所有伤害[易伤](Damage_types.md "伤害类型")。
-- 持续时间结束时，需通过[DC](Dice_rolls.md#Save_DCs "掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")来移除状态，否则状态将被重新施加。
+- 持续时间结束时，需通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")来移除状态，否则状态将被重新施加。
 
 ---
 *Source: [Flesh Rot (Condition)](https://bg3.wiki/wiki/Flesh_Rot_(Condition)*

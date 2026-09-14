@@ -17,7 +17,7 @@
 
 被以下生物使用：
 
-- [Brammels](Brammels.md "Brammels"), [Dugg](Dugg.md "Dugg"), [Edvidge](Edvidge.md "Edvidge"), [Faril](Faril.md "Faril"), [Forstum](Forstum.md "Forstum"), [Humgoole](Humgoole.md "Humgoole"), [Karol](Karol.md "Karol"), [Mofty](Mofty.md "Mofty"), [Nickelow](Nickelow.md "Nickelow"), [Taslim](Taslim.md "Taslim"), [Vikki](Vikki.md "Vikki")
+- [布拉梅尔斯](Brammels.md "布拉梅尔斯"), [达格](Dugg.md "达格"), [埃德维奇](Edvidge.md "埃德维奇"), [法里尔](Faril.md "法里尔"), [福斯图姆](Forstum.md "福斯图姆"), [Humgoole](Humgoole.md "Humgoole"), [卡罗尔](Karol.md "卡罗尔"), [莫夫提](Mofty.md "莫夫提"), [尼克洛](Nickelow.md "尼克洛"), [塔斯林](Taslim.md "塔斯林"), [维琪](Vikki.md "维琪")
 
 ---
 *Source: [Charger](https://bg3.wiki/wiki/Charger)*

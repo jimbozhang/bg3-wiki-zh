@@ -1,8 +1,8 @@
 # 动作
 
-「动作」重定向至此。关于资源，请参见 [Resources#Action](Resources.md#Action "Resources").
+「动作」重定向至此。关于资源，请参见 [资源](Resources.md#Action "Resources").
 
-**动作**是[Baldur's Gate 3](Baldur's_Gate_3.md "Baldur's Gate 3")中[生物](Creatures.md "Creatures")在其回合内采取的行为。动作通常用于造成[伤害](Damage.md "Damage")或施加有害的[状态](Conditions.md "Conditions")，但也可用于[治疗](Healing.md "Healing")或援助盟友。
+**动作**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中[生物](Creatures.md "Creatures")在其回合内采取的行为。动作通常用于造成[伤害](Damage.md "Damage")或施加有害的[状态](Conditions.md "Conditions")，但也可用于[治疗](Healing.md "Healing")或援助盟友。
 
 一种特殊形式的动作——称为**反应**——可用于响应特定触发条件，包括在*其他*生物的回合中。
 
@@ -39,7 +39,7 @@
 常见动作
 所有生物均可使用的常见动作。
 职业动作
-通过[特性](Features.md "Features")（例如从[职业](Classes.md "Classes")或[装备](Equipment.md "Equipment")获得的特性）可用的动作。[NPC](Non-player_characters.md "Non-player characters")采取的许多动作也被视为职业动作。
+通过[特性](Features.md "Features")（例如从[职业](Classes.md "Classes")或[装备](Equipment.md "Equipment")获得的特性）可用的动作。[非玩家角色](Non-player_characters.md "非玩家角色")采取的许多动作也被视为职业动作。
 种族动作
 通过种族特性可用的动作，且仅从[种族](Race.md "Race")获得。
 情境动作

@@ -12,7 +12,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_Incapacitated](SG_Incapacitated.md "SG 失能"), [SG_Condition](SG_Condition.md "SG 状态"), [SG_Paralyzed](SG_Paralyzed.md "SG 麻痹")
+[状态组](Status_groups.md "状态组"): [失能 (状态组)](SG_Incapacitated.md "失能 (状态组)"), [SG 状态](SG_Condition.md "SG 状态"), [SG 麻痹](SG_Paralyzed.md "SG 麻痹")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合结束
 

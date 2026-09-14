@@ -16,7 +16,7 @@
 
 - UID `ARM_Camp_Leather_A_1` UUID `a89389a2-37c5-4fcd-b392-f856451a2325` Stats `ARM_Vanity_Body_Leather_Rich` ## 获取地点
 
-- 在 [伊尔明斯特的图书馆](Elminster's_Library.md "伊尔明斯特的图书馆") 的一个衣柜中，位于 [夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚") \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 在 [伊尔明斯特的图书馆](Elminster's_Library.md "伊尔明斯特的图书馆") 的一个衣柜中，位于 [夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚") \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Strapped Choker Leather Ensemble](https://bg3.wiki/wiki/Strapped_Choker_Leather_Ensemble)*

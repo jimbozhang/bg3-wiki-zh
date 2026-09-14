@@ -74,7 +74,7 @@
 
 ### 攻击与能力
 
-悔恨面具必须在每回合开始时成功通过一次[DC](Dice_rolls.md#Save_DCs "掷骰") 17的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将受到[鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")效果影响。如果她豁免成功，她将跳过回合而不伤害队伍。
+悔恨面具必须在每回合开始时成功通过一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 17的[感知](Wisdom.md "感知")[豁免检定](Saving_throw.md "豁免检定")，否则将受到[鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")效果影响。如果她豁免成功，她将跳过回合而不伤害队伍。
 
 [震荡猛击](Concussive_Smash.md "震荡猛击") – [短棒](Club.md "短棒")
 

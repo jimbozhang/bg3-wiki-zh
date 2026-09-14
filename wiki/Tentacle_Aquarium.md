@@ -5,7 +5,7 @@
 - 平衡
 - 硬核
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 硬核难度属性
 
@@ -13,7 +13,7 @@
 
 4
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - **触手水族箱**是一种环境杂物，可在[鹦鹉螺](Nautiloid.md "鹦鹉螺")上的[序幕](Prologue.md "序幕")期间找到。
 

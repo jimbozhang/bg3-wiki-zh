@@ -33,11 +33,11 @@
 - [死亡爆裂：力场](Death_Burst_colon__Force.md "Death Burst: Force")
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **油脂魔蝠**是 [博德之门3](Baldur's_Gate_3.md "博德之门3") 中的一种 [元素生物](List_of_creature_types.md#Elemental "生物类型列表")。
 

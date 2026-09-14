@@ -204,7 +204,7 @@ Stats
 
 `Merregon` **军团魔步兵**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中的[军团魔](Merregon.md "军团魔")生物。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
@@ -212,7 +212,7 @@ Stats
 
 当与另一个佩戴军团魔面具的生物处于 20 米 (67 英尺) 范围内时，每靠近一个面具，[力量](Strength.md "力量") 增加 1，[智力](Intelligence.md "智力")、[感知](Wisdom.md "感知") 和 [魅力](Charisma.md "魅力") 减少 1。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
@@ -220,7 +220,7 @@ Stats
 
 当与另一个佩戴军团魔面具的生物处于 20 米 (67 英尺) 范围内时，每靠近一个面具，[力量](Strength.md "力量") 增加 1，[智力](Intelligence.md "智力")、[感知](Wisdom.md "感知") 和 [魅力](Charisma.md "魅力") 减少 1。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 

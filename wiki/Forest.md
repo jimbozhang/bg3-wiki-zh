@@ -168,7 +168,7 @@
 
 ## 注释
 
-1. [↑](#cite_ref-1) 尽管[旁白](Narrator.md "旁白")的评论可能暗示其他含义，但游戏中使用[灵吸怪游说](Illithid_Persuasion.md "灵吸怪游说")或[灵吸怪威能](Illithid_powers.md "灵吸怪威能")技能树中的任何基础能力绝对没有任何负面后果，只有一个例外：如果想避免[部分蜕变](Partial_Ceremorphosis.md "部分蜕变")成[部分灵吸怪](Partial-illithid.md "部分灵吸怪")，那么在首次获得[星蚀蝌蚪](Astral-Touched_Tadpole.md "星蚀蝌蚪")后，消耗[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")需要玩家角色通过基于[感知](Wisdom.md "感知")的[DC](DC.md "DC")检定。
+1. [↑](#cite_ref-1) 尽管[旁白](Narrator.md "旁白")的评论可能暗示其他含义，但游戏中使用[灵吸怪游说](Illithid_Persuasion.md "灵吸怪游说")或[灵吸怪威能](Illithid_powers.md "灵吸怪威能")技能树中的任何基础能力绝对没有任何负面后果，只有一个例外：如果想避免[部分蜕变](Partial_Ceremorphosis.md "部分蜕变")成[部分灵吸怪](Partial-illithid.md "部分灵吸怪")，那么在首次获得[星蚀蝌蚪](Astral-Touched_Tadpole.md "星蚀蝌蚪")后，消耗[夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本")需要玩家角色通过基于[感知](Wisdom.md "感知")的[骰子掷骰](DC.md "骰子掷骰")检定。
 1. [↑](#cite_ref-2) 当挠挠守卫格穆维克的尸体时，它不允许搜刮；无论如何搜刮都会导致它立即攻击。
 1. [↑](#cite_ref-3) 通过阅读村落中发现的一些文件以及后续流程中的文件（例如在[复仇之炉](Grymforge.md "复仇之炉")），可以推断袭击者是[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")派遣的[莎尔](Shar.md "莎尔")掠夺者。
 1. [↑](#cite_ref-4) 艾拉丁和他的下属不会搜刮尸体，但只要他们还在现场，冒险者的尸体就会显示为红色轮廓；试图搜刮会使艾拉丁和其他人对小队敌对。在雇佣兵离开后可以安全地搜刮尸体。

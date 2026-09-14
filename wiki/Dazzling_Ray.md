@@ -60,7 +60,7 @@
 - 炫目射线使用专注，类似于其他可以重新施展的法术，如[阳炎射线](Sunbeam.md "阳炎射线")。
 - 专注时，施法者获得一个单独的武器动作，称为[重新施展炫目射线](Recast_Dazzling_Ray.md "重新施展炫目射线")。
   - 仅当初始施展的炫目射线击中目标时，重新施展炫目射线才可用。
-  - 施展重新施展炫目射线时，施法者进行一次隐藏的[DC](Dice_rolls.md#Save_DCs "掷骰") 14 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，以避免被[燃烧](Burning_(Condition).md "燃烧（状态）")2回合。
+  - 施展重新施展炫目射线时，施法者进行一次隐藏的[掷骰](Dice_rolls.md#Save_DCs "掷骰") 14 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，以避免被[燃烧](Burning_(Condition).md "燃烧（状态）")2回合。
   - 当施法者被燃烧时，他们立即承受1d4⁠⁠[火焰](Fire.md "火焰")伤害，这可能会打断他们对炫目射线的专注。
 
 ---

@@ -9,7 +9,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `SPIDER_INFESTATION` [状态组](Status_groups.md "Status groups"): [SG_Disease](SG_Disease.md "SG Disease")
+[堆叠 ID](Stack_ID.md "Stack ID"): `SPIDER_INFESTATION` [状态组](Status_groups.md "Status groups"): [患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 ## 感染来源
 

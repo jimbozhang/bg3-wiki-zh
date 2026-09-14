@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 范围：18米（60英尺）
 范围效果：3米（10英尺）半径
 目标：区域内所有非盟友生物

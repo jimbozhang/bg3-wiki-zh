@@ -18,7 +18,7 @@
 - [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") +1
 
 [惩庸罚劣](Smite_the_Graceless.md "Smite the Graceless")
-对穿戴者[攻击掷骰](Attack_roll.md "Attack roll")未命中的生物必须进行一次 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 14 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving throw")，否则受到 1d4⁠⁠[光耀](Radiant.md "Radiant") 伤害。
+对穿戴者[攻击掷骰](Attack_roll.md "Attack roll")未命中的生物必须进行一次 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 14 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving throw")，否则受到 1d4⁠⁠[光耀](Radiant.md "Radiant") 伤害。
 
 ## 获取地点
 

@@ -36,7 +36,7 @@
 - [强弩专家：近距平射](Crossbow_Expert_colon__Point-Blank.md "强弩专家：近距平射")
 - [强弩专家：伤害](Crossbow_Expert_colon__Wounding.md "强弩专家：伤害")
 
-**沃斯的掠夺者**是玩家在[第一幕](Act_One.md "第一幕")遭遇的[吉斯洋基人](Githyanki.md "吉斯洋基人")[NPC](NPC.md "NPC")。他们无法被交谈，功能上与普通的[吉斯洋基人掠夺者](Githyanki_raider.md "吉斯洋基人掠夺者")相同，只是武器不同。
+**沃斯的掠夺者**是玩家在[第一幕](Act_One.md "第一幕")遭遇的[吉斯洋基人](Githyanki.md "吉斯洋基人")[非玩家角色](NPC.md "非玩家角色")。他们无法被交谈，功能上与普通的[吉斯洋基人掠夺者](Githyanki_raider.md "吉斯洋基人掠夺者")相同，只是武器不同。
 
 ## 目录
 

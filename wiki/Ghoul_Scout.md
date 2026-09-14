@@ -30,7 +30,7 @@
 - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

@@ -10,7 +10,7 @@
 
 **[遮蔽施法](Shadespell_(Condition).md "遮蔽施法 (状态)")**
 
-- 只要保持隐匿，受影响实体对法术豁免[DC](Difficulty_Class.md "难度等级")获得+1加值。
+- 只要保持隐匿，受影响实体对法术豁免[掷骰](Difficulty_Class.md "掷骰")获得+1加值。
 
 ## 如何习得
 

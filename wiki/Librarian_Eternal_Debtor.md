@@ -34,7 +34,7 @@
 - [永恒债务](Forever_Indebted_(passive_feature).md "Forever Indebted (passive feature)")
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **图书管理永恒债务人**是受[拉斐尔](Raphael.md "Raphael")束缚的[永恒债务人](Eternal_Debtor.md "Eternal Debtor")。
 

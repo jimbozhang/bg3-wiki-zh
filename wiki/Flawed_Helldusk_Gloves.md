@@ -35,7 +35,7 @@ _关于次级地狱之触：_
 
 _关于次级地狱之触：_
 
-- 目标抵抗**次级地狱之触**施加的[流血](Bleeding_(Condition).md "流血（状态）")状态的[DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")不会出现在战斗日志中。
+- 目标抵抗**次级地狱之触**施加的[流血](Bleeding_(Condition).md "流血（状态）")状态的[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")不会出现在战斗日志中。
 
 ## 图库
 

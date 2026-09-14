@@ -4,7 +4,7 @@
 | --- | --- |
 | 体型 | 中级 |
 | 类型 | [邪魔](Fiend.md "邪魔") |
-| 种族 | [Cambion](Cambion.md "Cambion") |
+| 种族 | [坎比翁](Cambion.md "坎比翁") |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@
 - [邪魔祝福](Fiendish_Blessing.md "邪魔祝福")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 状态
 
@@ -42,7 +42,7 @@
 
 将一次[光耀](Radiant.md "光耀")伤害反射给攻击者，造成2倍[火焰](Fire.md "火焰")伤害。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 状态
 

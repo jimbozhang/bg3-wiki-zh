@@ -12,9 +12,9 @@
 | 先攻 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **气巨灵**（单数：气巨灵）是一种元素生物。它们可以通过法术 [异界誓盟](Planar_Ally.md "异界誓盟") 被召唤至施法者的援助。
 

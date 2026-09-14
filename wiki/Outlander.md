@@ -27,7 +27,7 @@
 | 30 | 破诅者 | 发现[尤格努](Yeenoghu.md "Yeenoghu")的诅咒并摧毁他的鬣狗。附近的豺狼人也必须被杀死。 |  |
 | [日照湿地](Sunlit_Wetlands.md "Sunlit Wetlands") | 30 | 荒野之眼 | 看穿覆盖沼泽的幻象。 |
 | 30 | 凌空漫步 | 成功使用精灵环。“精灵环”指日照湿地和幽暗地域中发现的[蘑菇圈](Mushroom_Circle.md "Mushroom Circle")。 |  |
-| [Underdark](Underdark.md "Underdark") | 30 | 高尚之举 | 有效使用箴言菇。可通过将蘑菇交给德里丝、影心或巴伦，或由[邪念](The_Dark_Urge.md "The Dark Urge")自己使用来完成。 |
+| [幽暗地域](Underdark.md "幽暗地域") | 30 | 高尚之举 | 有效使用箴言菇。可通过将蘑菇交给德里丝、影心或巴伦，或由[邪念](The_Dark_Urge.md "The Dark Urge")自己使用来完成。 |
 | 30 | 深渊跳跃者 | 队伍必须通过无底井进入[幽暗地域](Underdark.md "Underdark")。可通过法术或药水使用[羽落术](Feather_Fall.md "Feather Fall")来在坠落中幸存。即使之前通过其他方式进入过幽暗地域，也可获得此激励点。 |
 | 30 | 聪明的杜鹃 | 从幽暗地域的巨鸟巢中偷窃。可通过从 X: 43 Y: -141 处连续跳跃到达巢穴。巢内的箱子可自由掠夺。 |
 | 30 | 蘑菇爱好者 | 摧毁每种危险的幽暗地域蘑菇。 |

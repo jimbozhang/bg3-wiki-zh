@@ -16,7 +16,7 @@
 
 ## 简要预览
 
-双持时 [AC](AC.md "AC") +1。
+双持时 [护甲等级](AC.md "护甲等级") +1。
 
 ---
 *Source: [Dual Wielder: Bonus Armour Class](https://bg3.wiki/wiki/Dual_Wielder:_Bonus_Armour_Class)*

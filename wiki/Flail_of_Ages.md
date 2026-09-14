@@ -53,7 +53,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 _关于时代元素：_
 
 - 如果武器造成多种元素伤害，每次命中可施加多个时代元素状态。例如，可以通过[腐蚀指环](Caustic_Band.md "腐蚀指环")添加[强酸](Acid.md "强酸")伤害，或通过[蘸取](Dip.md "蘸取")武器在火焰中添加[火焰](Fire.md "火焰")伤害。
-  - 每个状态都有自己的[DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")
+  - 每个状态都有自己的[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")
 
 ## 图库
 

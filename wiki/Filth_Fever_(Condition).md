@@ -4,7 +4,7 @@
 
 - 被高烧压垮。在使用力量的[攻击掷骰](Attack_roll.md "Attack Roll")、[属性检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 
-- 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "Dice rolls") 15的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。失败将重新施加污秽热病状态。
+- 持续时间结束时，进行一次[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 15的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。失败将重新施加污秽热病状态。
 
 - 持续时间：25 驱散
 
@@ -12,7 +12,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID")：`HAG_FILTHFEVER` [状态组](Status_groups.md "Status groups")：[SG_Disease](SG_Disease.md "SG Disease")
+[堆叠ID](Stack_ID.md "Stack ID")：`HAG_FILTHFEVER` [状态组](Status_groups.md "Status groups")：[患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 [更多属性](Status_properties.md "Status properties")：
 
@@ -34,7 +34,7 @@
 
 - 被高烧压垮。在使用力量的[攻击掷骰](Attack_roll.md "Attack Roll")、[属性检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 
-- 持续时间结束时，进行一次[DC](Dice_rolls.md#Save_DCs "Dice rolls") 15的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。失败将重新施加污秽热病状态。
+- 持续时间结束时，进行一次[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 15的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。失败将重新施加污秽热病状态。
 
 - 持续时间：25 驱散
 

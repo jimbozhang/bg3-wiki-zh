@@ -12,7 +12,7 @@
 
 持续时间：1 驱散
 
-[智力](Intelligence.md "Intelligence") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 15）
+[智力](Intelligence.md "Intelligence") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 受影响生物无法移动或使用[动作](Actions.md#Resources "Actions")、[附赠动作](Actions.md#Resources "Actions")或[反应](Actions.md#Reactions "Actions")。
 - 受影响生物自动[力量](Strength.md "Strength")和[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")失败。

@@ -35,7 +35,7 @@
 
 **[网缚](Enwebbed_(Condition).md "网缚（状态）")**
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 无法移动。
 - 对该生物的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，而该生物的攻击掷骰和[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")掷骰具有[劣势](Disadvantage.md "劣势")。

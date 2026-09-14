@@ -13,7 +13,7 @@
 | 先攻 | +2 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -25,7 +25,7 @@
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -37,7 +37,7 @@
 
 [抗性](Resistant.md "Resistant")所有[火焰](Fire.md "Fire")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -65,7 +65,7 @@
 
 扎基是[摩尔](Mol.md "Mol")儿童帮派的成员之一。
 
-如果在解决[卡哈](Kagha.md "Kagha")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Emerald Grove and Zaki's corpse can be found among the pile of refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village")之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")或[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")，提夫林们将被逐出翠绿林地，扎基的尸体可以在通往[染疫村落](Blighted_Village.md "Blighted Village")的桥附近的难民堆中找到。
+如果在解决[卡哈](Kagha.md "Kagha")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Emerald Grove and Zaki's corpse can be found among the pile of refugees near the bridge to the [染疫村落](Blighted_Village.md "染疫村落")之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")或[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")，提夫林们将被逐出翠绿林地，扎基的尸体可以在通往[染疫村落](Blighted_Village.md "Blighted Village")的桥附近的难民堆中找到。
 
 ## 外部链接
 

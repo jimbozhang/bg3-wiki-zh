@@ -2,11 +2,11 @@
 
 **浸染灾祸油**
 
-- 目标除非通过一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 11 的 [魅力](Charisma.md "魅力") [豁免检定](Saving_throw.md "豁免检定")，否则将被施加 [灾祸术](Bane_(Condition).md "灾祸术 (状态)") 2 回合。
+- 目标除非通过一次 [掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 11 的 [魅力](Charisma.md "魅力") [豁免检定](Saving_throw.md "豁免检定")，否则将被施加 [灾祸术](Bane_(Condition).md "灾祸术 (状态)") 2 回合。
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`DIPPED` [状态组](Status_groups.md "状态组")：[SG_WeaponCoating](SG_WeaponCoating.md "SG 武器涂抹")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`DIPPED` [状态组](Status_groups.md "状态组")：[SG 武器涂抹](SG_WeaponCoating.md "SG 武器涂抹")
 
 ## 状态：灾祸术
 
@@ -14,7 +14,7 @@
 
 持续时间：2 回合
 
-[魅力](Charisma.md "魅力") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 11)
+[魅力](Charisma.md "魅力") [豁免](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 11)
 
 - [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [豁免检定](Saving_throw.md "豁免检定") 受到 **-1d4** 惩罚。
 

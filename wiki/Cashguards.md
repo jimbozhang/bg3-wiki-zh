@@ -5,13 +5,13 @@
 
 ## [下城区](Lower_City.md "下城区")
 
-[Rainforest's Home](Rainforest's_Home.md "Rainforest's Home")
+[雨林之家](Rainforest's_Home.md "雨林之家")
 ↑
 | [下城区](Lower_City.md "下城区") |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| [Rainforest's Home](Rainforest's_Home.md "Rainforest's Home") |  |  |  |  |
+| [雨林之家](Rainforest's_Home.md "雨林之家") |  |  |  |  |
 | ↑ |  |  |  |  |
-| [Flymm Cargo](Flymm_Cargo.md "Flymm Cargo") | ← | 清账屋 | → | [Old Garlow's Place](Old_Garlow's_Place.md "Old Garlow's Place") |
+| [Flymm Cargo](Flymm_Cargo.md "Flymm Cargo") | ← | 清账屋 | → | [老加洛之家](Old_Garlow's_Place.md "老加洛之家") |
 |  |  |  |  |  |
 **清账屋**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。
 
@@ -65,7 +65,7 @@
 
 **清账屋**是博德之门主要的金融和银行机构，以各种方式参与城市大部分货币的流入和流出。
 
-清账屋位于下城区的南岸，在陡坡区，占据着[Flymm Cargo](Flymm_Cargo.md "Flymm Cargo")和[Old Garlow's Place](Old_Garlow's_Place.md "Old Garlow's Place")之间的一个独立小岩岛，通过一座宽阔的石桥与堤岸相连。它包括三层楼的主建筑、其水下储藏设施<sup>[\[1\]](#cite_note-1)</sup>以及西南部的码头，与主[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")隔开。
+清账屋位于下城区的南岸，在陡坡区，占据着[Flymm Cargo](Flymm_Cargo.md "Flymm Cargo")和[老加洛之家](Old_Garlow's_Place.md "老加洛之家")之间的一个独立小岩岛，通过一座宽阔的石桥与堤岸相连。它包括三层楼的主建筑、其水下储藏设施<sup>[\[1\]](#cite_note-1)</sup>以及西南部的码头，与主[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")隔开。
 
 清账屋建筑内外（包括码头区）由一支小型的_"现金守卫"_（该设施安保人员的特定称谓）守卫。码头还由两名[钢铁卫士](Steel_Watcher.md "钢铁卫士")巡逻。然而，建筑内部没有自动机。此外，清账屋的所有区域都配备了[警报机械](Alarm_Machine.md "警报机械")，这是一种独特的类陷阱装置，在紧急情况下启动并发出信号，吸引附近所有守卫持续三回合。守卫的这种行为（即被任何触发的警报机械吸引三回合，如果未发现任何人则将其关闭）也可被队伍利用，以穿越建筑的某些区域。
 

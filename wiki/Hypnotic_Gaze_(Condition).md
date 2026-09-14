@@ -11,7 +11,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `HYPNOTIC_GAZE` [状态组](Status_groups.md "状态组"): [SG_Charmed](SG_Charmed.md "SG Charmed"), [SG_Condition](SG_Condition.md "SG Condition"), [SG_Incapacitated](SG_Incapacitated.md "SG Incapacitated")
+[堆叠ID](Stack_ID.md "堆叠ID"): `HYPNOTIC_GAZE` [状态组](Status_groups.md "状态组"): [魅惑（状态组）](SG_Charmed.md "魅惑（状态组）"), [SG 状态](SG_Condition.md "SG 状态"), [失能 (状态组)](SG_Incapacitated.md "失能 (状态组)")
 
 [持续时间减少](Conditions.md#Duration "状态"): 回合结束时
 

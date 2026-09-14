@@ -152,7 +152,7 @@
 
 - 此原型的某些成员可能因属于不同种族而具有略微不同的被动、移动速度、重量和体型。
 - 竖琴手弓箭手穿着一套外观与[环甲 +2](Ring_Mail_Armour_+2.md "环甲 +2")和[皮革头盔](Leather_Helmet.md "皮革头盔")相同并染成竖琴手颜色的护甲，但实际上装备的是默认的[环甲](Ring_Mail_Armour.md "环甲")。
-- 召唤竖琴手弓箭手的唯一方式是[Naysa](Naysa.md "Naysa")、[Lymn](Lymn.md "Lymn")和[Antony](Antony.md "Antony")在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")死亡，且他们的替代者[Grenywald](Grenywald.md "Grenywald")、[Lanni](Lanni.md "Lanni")和[Olys](Olys.md "Olys")在[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")中死亡。
+- 召唤竖琴手弓箭手的唯一方式是[奈萨](Naysa.md "奈萨")、[林恩](Lymn.md "林恩")和[安东尼](Antony.md "安东尼")在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")死亡，且他们的替代者[格伦瓦尔德](Grenywald.md "格伦瓦尔德")、[兰妮](Lanni.md "兰妮")和[奥利斯](Olys.md "奥利斯")在[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")中死亡。
 - 这些竖琴手弓箭手比所有先前的竖琴手召唤化身更强，因为 Naysa、Lymn 和 Antony 无法使用他们的[额外攻击](Extra_Attack.md "额外攻击")特性，而 Grenywald、Lanni 和 Olys 仅为 6 级。
 
 ---

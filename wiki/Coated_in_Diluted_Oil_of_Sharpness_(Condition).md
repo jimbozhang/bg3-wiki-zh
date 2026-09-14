@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `DIPPED` [状态组](Status_groups.md "Status groups"): [SG_WeaponCoating](SG_WeaponCoating.md "SG WeaponCoating")
+[堆叠 ID](Stack_ID.md "Stack ID"): `DIPPED` [状态组](Status_groups.md "Status groups"): [SG 武器涂抹](SG_WeaponCoating.md "SG 武器涂抹")
 
 ## 浸染稀释的锐利之油的来源
 

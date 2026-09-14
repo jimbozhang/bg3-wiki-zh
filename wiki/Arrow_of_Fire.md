@@ -15,7 +15,7 @@
 
 [动作](Actions.md#Resources "动作")
 
-- 造成武器伤害并在火焰爆炸中炸开，造成额外 2d4⁠⁠[火焰](Fire.md "火焰")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+- 造成武器伤害并在火焰爆炸中炸开，造成额外 2d4⁠⁠[火焰](Fire.md "火焰")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
   - 范围：18 米 (60 英尺)
   - [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")：[难度等级](Difficulty_Class.md "难度等级") 12 以豁免火焰伤害。
   - 创造区域：火焰

@@ -4,7 +4,7 @@
 
 - 平衡
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - **火炬蘑菇** 是在 [幽暗地域](Underdark.md "Underdark") 中发现的一种危险蘑菇。"
 |
@@ -21,7 +21,7 @@
 
 爆炸
 
-[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw")
+[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 12 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw")
 
 2d6 (2~12) ⁠[火焰](Fire.md "Fire")
 

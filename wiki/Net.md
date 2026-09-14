@@ -1,6 +1,6 @@
 # 渔网
 
-**渔网**是[Kuo-toa Hunters](Kuo-toa_Hunter.md "Kuo-toa Hunter")和[Sahuagin Hunters](Sahuagin_Hunter.md "Sahuagin Hunter")可用的类动作，允许他们向目标投掷渔网，可能将其[诱捕](Ensnared_(Net)_(Condition).md "Ensnared (Net) (Condition)")。
+**渔网**是[猎人鱼人](Kuo-toa_Hunter.md "猎人鱼人")和[沙华鱼人猎手](Sahuagin_Hunter.md "沙华鱼人猎手")可用的类动作，允许他们向目标投掷渔网，可能将其[诱捕](Ensnared_(Net)_(Condition).md "Ensnared (Net) (Condition)")。
 
 ## 描述
 
@@ -27,7 +27,7 @@
 
 ## 如何习得
 
-由生物使用：[Kuo-toa Hunter](Kuo-toa_Hunter.md "Kuo-toa Hunter")和[Sahuagin Hunter](Sahuagin_Hunter.md "Sahuagin Hunter")
+由生物使用：[猎人鱼人](Kuo-toa_Hunter.md "猎人鱼人")和[沙华鱼人猎手](Sahuagin_Hunter.md "沙华鱼人猎手")
 
 ---
 *Source: [Net](https://bg3.wiki/wiki/Net)*

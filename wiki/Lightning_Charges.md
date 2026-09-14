@@ -5,7 +5,7 @@
 **闪电充能**
 
 - 闪电流经你的身体。你的[攻击掷骰](Attack_rolls.md "Attack Rolls")获得+1加值，并造成额外1点[闪电](Lightning.md "Lightning")伤害。
-- 如果你获得5点充能，它们将在你下次造成伤害时被消耗，并造成额外1d8点[闪电](Lightning.md "Lightning")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害。
+- 如果你获得5点充能，它们将在你下次造成伤害时被消耗，并造成额外1d8点[闪电](Lightning.md "Lightning")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 - 每回合失去1点充能。
 
 ## 属性
@@ -30,7 +30,7 @@
 ## 具有相同堆叠ID的状态
 
 - 闪电流经你的身体。你的[攻击掷骰](Attack_rolls.md "Attack Rolls")获得+1加值，并造成额外1点[闪电](Lightning.md "Lightning")伤害。
-- 如果你获得5点充能，它们将在你下次造成伤害时被消耗，并造成额外1d8点[闪电](Lightning.md "Lightning")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害。
+- 如果你获得5点充能，它们将在你下次造成伤害时被消耗，并造成额外1d8点[闪电](Lightning.md "Lightning")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 - 每回合失去1点充能。
 
 ## 提供闪电充能的物品
@@ -50,7 +50,7 @@
   - [闪电护符](The_Blast_Pendant.md "The Blast Pendant"): 每[长休](Long_Rest.md "Long Rest")一次，你可以作为[附赠动作](Actions.md#Resources "Actions")集中静脉中的电流。你的下一个闪电[法术](Spell.md "Spell")或[戏法](Spells.md#Cantrips "Spells")造成额外的[闪电](Lightning.md "Lightning")伤害，数值等于你剩余的闪电充能。命中时，你所有的闪电充能都会被消耗。
 | 状态 | 效果 |
 | --- | --- |
-| 闪电充能 | 闪电流经你的身体。你的[攻击掷骰](Attack_rolls.md "Attack Rolls")获得+1加值，并造成额外1点[闪电](Lightning.md "Lightning")伤害。如果获得5点充能，它们将在下次造成伤害时被消耗，并造成额外1d8点[闪电](Lightning.md "Lightning")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害。每回合失去1点充能。 |
+| 闪电充能 | 闪电流经你的身体。你的[攻击掷骰](Attack_rolls.md "Attack Rolls")获得+1加值，并造成额外1点[闪电](Lightning.md "Lightning")伤害。如果获得5点充能，它们将在下次造成伤害时被消耗，并造成额外1d8点[闪电](Lightning.md "Lightning")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。每回合失去1点充能。 |
 
 - [带电马甲](The_Jolty_Vest.md "The Jolty Vest"): 当穿戴者在拥有闪电充能时受到伤害，攻击者必须通过[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw")，否则变为[感电](Shocked_(Condition).md "Shocked (Condition)")。
 

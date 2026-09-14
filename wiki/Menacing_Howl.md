@@ -20,7 +20,7 @@
 
 持续时间：2回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 下一次对该生物的攻击将是[重击](Critical_Hit.md "重击")。
 

@@ -87,9 +87,9 @@
 升级时：5 + [体质](Constitution.md "体质") 调整值
 关键能力
 
-[敏捷](Dexterity.md "敏捷") 用于徒手打击和武僧[武器](Weapons.md "武器")的攻击与伤害掷骰加值，以及气豁免检定[DC](Difficulty_Class.md "难度等级")。
+[敏捷](Dexterity.md "敏捷") 用于徒手打击和武僧[武器](Weapons.md "武器")的攻击与伤害掷骰加值，以及气豁免检定[掷骰](Difficulty_Class.md "掷骰")。
 [体质](Constitution.md "体质") 用于获得更多生命值。
-[感知](Wisdom.md "感知") 用于提高[护甲等级](Armour_Class.md "护甲等级")。对于[四象宗](Way_of_the_Four_Elements.md "四象宗")能力，也提高气攻击掷骰和豁免检定[DC](Difficulty_Class.md "难度等级")。
+[感知](Wisdom.md "感知") 用于提高[护甲等级](Armour_Class.md "护甲等级")。对于[四象宗](Way_of_the_Four_Elements.md "四象宗")能力，也提高气攻击掷骰和豁免检定[掷骰](Difficulty_Class.md "掷骰")。
 
 武僧武器
 武僧武器是武僧拥有[熟练项](Proficiency.md "熟练项")的近战武器，且不具有[重型](Heavy.md "重型")或[双手](Two-Handed.md "双手")属性。[两用](Versatile.md "两用")武器即使双手持握也视为武僧武器。武僧可以对这些武器使用敏捷，即使它们不具有[灵巧](Finesse.md "灵巧")属性。某些武僧能力，如[武艺：附赠徒手打击](Martial_Arts_colon__Bonus_Unarmed_Strike.md "武艺：附赠徒手打击")，仅限于武僧武器。

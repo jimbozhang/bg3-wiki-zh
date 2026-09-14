@@ -26,7 +26,7 @@
 伤害
 
 - 施加 \_(状态)[燃烧（血甲魔）](Burning_(Orthonic)_(Condition).md "燃烧（血甲魔）（状态）")，持续 2 驱散
-- [DC](Dice_rolls.md#Save_DCs "掷骰") 17 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 可使所有伤害减半，并消除燃烧状态
+- [掷骰](Dice_rolls.md#Save_DCs "掷骰") 17 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 可使所有伤害减半，并消除燃烧状态
 
 ## 状态：燃烧（血甲魔）
 

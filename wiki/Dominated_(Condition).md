@@ -9,7 +9,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `DOMINATED` [状态组](Status_groups.md "Status groups"): [SG_Charmed](SG_Charmed.md "SG Charmed"), [SG_Dominated](SG_Dominated.md "SG Dominated")
+[堆叠ID](Stack_ID.md "Stack ID"): `DOMINATED` [状态组](Status_groups.md "Status groups"): [魅惑（状态组）](SG_Charmed.md "魅惑（状态组）"), [SG 受控](SG_Dominated.md "SG 受控")
 
 [更多属性](Status_properties.md "Status properties"):
 

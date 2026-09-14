@@ -36,8 +36,8 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 
 ## 备注
 
-- 不使用漏洞无法获得此物品。[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
-- 当玩家角色在[幽暗地域](Underdark.md "幽暗地域")的[观察者眼魔](Spectator.md "观察者眼魔")战斗中通过特定方式召唤骷髅时，可以从该骷髅弓箭手身上扒窃到此弓。[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
+- 不使用漏洞无法获得此物品。[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")]
+- 当玩家角色在[幽暗地域](Underdark.md "幽暗地域")的[观察者眼魔](Spectator.md "观察者眼魔")战斗中通过特定方式召唤骷髅时，可以从该骷髅弓箭手身上扒窃到此弓。[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")]
 
 ---
 *Source: [Makeshift Bow](https://bg3.wiki/wiki/Makeshift_Bow)*

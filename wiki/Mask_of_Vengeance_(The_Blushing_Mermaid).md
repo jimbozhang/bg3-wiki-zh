@@ -64,7 +64,7 @@
 
   - 受埃赛尔的低语诱惑。
 
-  - 此生物必须在回合开始时通过一次 [DC](Dice_rolls.md#Save_DCs "骰子掷骰") 13 的 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则将被施加 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")。
+  - 此生物必须在回合开始时通过一次 [掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 13 的 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")，否则将被施加 [鬼婆的仆从](Hag's_Pawn_(Condition).md "鬼婆的仆从 (状态)")。
 
 **复仇面具**是 [埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶") 羊群的一名 [人类](Human.md "人类") 成员。他可以在 [脸红的美人鱼](The_Blushing_Mermaid.md "脸红的美人鱼") 与 [奴役面具](Mask_of_Servitude_(The_Blushing_Mermaid).md "奴役面具（脸红的美人鱼）")、[恐惧面具](Mask_of_Terror_(The_Blushing_Mermaid).md "恐惧面具（脸红的美人鱼）") 以及真正的 [格雷斯利船长](Grisly.md "格雷斯利船长") 一起找到。
 

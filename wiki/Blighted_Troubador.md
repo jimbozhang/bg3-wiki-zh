@@ -37,7 +37,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [死灵坚毅](Undead_Fortitude.md "死灵坚毅")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -45,7 +45,7 @@
 
 - 当生命值降至 0 时，改为恢复 1 点生命值（除非伤害是光耀伤害或由重击造成）。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -53,7 +53,7 @@
 
 - 当生命值降至 0 时，改为恢复 1 点生命值（除非伤害是光耀伤害或由重击造成）。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 

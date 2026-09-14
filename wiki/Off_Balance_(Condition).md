@@ -13,7 +13,7 @@ _此页面适用于法术、[华舞](Flourish.md "华舞")和[突进攻击](Rush
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID")：`OFF_BALANCED` [状态组](Status_groups.md "状态组")：[SG_Helpable_Condition](SG_Helpable_Condition.md "SG 可协助状态")
+[堆叠ID](Stack_ID.md "堆叠ID")：`OFF_BALANCED` [状态组](Status_groups.md "状态组")：[SG 可协助状态](SG_Helpable_Condition.md "SG 可协助状态")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合结束
 

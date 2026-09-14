@@ -27,7 +27,7 @@
 
 持续时间：3回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 16）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [属性检定](Ability_Check.md "属性检定") 上具有 [劣势](Disadvantage.md "Disadvantage")。
 - 每回合，它必须成功通过一次 [豁免检定](Saving_throw.md "Saving Throw")，否则中毒将进入下一阶段。成功3次后，它将恢复。失败3次后，它将感染与所施放的 [疫病术](Contagion.md "Contagion") 变体对应的疾病。
@@ -38,7 +38,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 16）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 受影响的生物无法移动。恐慌的生物在 [属性检定](Ability_Check.md "Ability Check") 和 [攻击掷骰](Attack_roll.md "Attack Roll") 上也具有 [劣势](Disadvantage.md "Disadvantage")。
 

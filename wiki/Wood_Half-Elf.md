@@ -61,17 +61,17 @@
 - [剑刃防护](Blade_Ward.md "剑刃防护")
 - [冻僵](Bone_Chill.md "冻僵")
 - [轰鸣剑](Booming_Blade.md "轰鸣剑")
-- [Bursting Sinew](Bursting_Sinew.md "Bursting Sinew")（注：原文未提供中文翻译，保留原名）
+- [爆裂肌腱](Bursting_Sinew.md "爆裂肌腱")（注：原文未提供中文翻译，保留原名）
 - [舞光术](Dancing_Lights.md "舞光术")
 - [火焰箭](Fire_Bolt.md "火焰箭")
 - [交友术](Friends.md "交友术")
-- [Light](Light.md "Light")（注：原文未提供中文翻译，保留原名）
+- [光亮术](Light.md "光亮术")（注：原文未提供中文翻译，保留原名）
 - [法师之手](Mage_Hand.md "法师之手")
 - [初级幻影](Minor_Illusion.md "初级幻影")
 - [毒气喷溅](Poison_Spray.md "毒气喷溅")
 - [冷冻射线](Ray_of_Frost.md "冷冻射线")
 - [电爪](Shocking_Grasp.md "电爪")
-- [Toll the Dead](Toll_the_Dead.md "Toll the Dead")（注：原文未提供中文翻译，保留原名）
+- [鸣响丧钟](Toll_the_Dead.md "鸣响丧钟")（注：原文未提供中文翻译，保留原名）
 - [克敌机先](True_Strike.md "克敌机先")
 
 ### 半木精灵
@@ -134,17 +134,17 @@
 
 ### 半木精灵
 
-- [Adept Bel](Bel.md "Bel")（注：原文未提供中文翻译，保留原名）
-- [Adventurer Rosanna](Rosanna.md "Rosanna")（注：原文未提供中文翻译，保留原名）
-- [Brother Donnick](Donnick.md "Donnick")（注：原文未提供中文翻译，保留原名）
+- [贝尔](Bel.md "贝尔")（注：原文未提供中文翻译，保留原名）
+- [罗姗娜](Rosanna.md "罗姗娜")（注：原文未提供中文翻译，保留原名）
+- [多尼克](Donnick.md "多尼克")（注：原文未提供中文翻译，保留原名）
 - [诺拉](Cheeky_Nora.md "诺拉")
-- [Iron Consul Mian](Mian.md "Mian")（注：原文未提供中文翻译，保留原名）
+- [米安](Mian.md "米安")（注：原文未提供中文翻译，保留原名）
 
 ### 半卓尔
 
 - [艾丽丝·瑟里亚夏斯](Aelis_Siryasius.md "艾丽丝·瑟里亚夏斯")
 - [复仇面具](Mask_of_Vengeance_(Overgrown_Tunnel).md "复仇面具（蔓生地道）")
-- [Clerk Zollerix](Zollerix.md "Clerk Zollerix")（注：原文未提供中文翻译，保留原名）
+- [佐尔瑞克斯](Zollerix.md "佐尔瑞克斯")（注：原文未提供中文翻译，保留原名）
 
 ### 未分类半精灵
 

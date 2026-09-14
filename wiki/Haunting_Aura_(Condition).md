@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_OSKARSBELOVED_CURSEDITEM_CURSEDAURA` [状态组](Status_groups.md "状态组"): [SG_Cursed](SG_Cursed.md "SG Cursed")
+[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_OSKARSBELOVED_CURSEDITEM_CURSEDAURA` [状态组](Status_groups.md "状态组"): [被诅咒（状态组）](SG_Cursed.md "被诅咒（状态组）")
 
 ## 备注
 

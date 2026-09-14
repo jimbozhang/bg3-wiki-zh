@@ -4,38 +4,38 @@
 | --- | --- |
 | 身份 | Male |
 | 配音 | - [Clare Corbett](https://www.imdb.com/name/nm1352940/) |
-| 体型 | [Medium](Medium.md "中级") |
-| 类型 | [Humanoid](Humanoid.md "类人生物") |
-| 种族 | [Tiefling](Tiefling.md "提夫林") |
+| 体型 | [生物体型](Medium.md "生物体型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [提夫林](Tiefling.md "提夫林") |
 | 等级 | 1 |
 | 生命值 | 5 |
 | 护甲等级 | 12 |
 | 先攻 | 0 |
 | 移动速度 | 9 m (30 ft) |
 
-## Resistances [(info)](Resistances.md "抗性")
+## Resistances [抗性](Resistances.md "抗性")
 
 - ## Features
 
-- [Darkvision](Darkvision.md "高级黑暗视觉")
+- [黑暗视觉](Darkvision.md "黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [Hellish Resistance](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-[Resistant](Resistant.md "抗性") to all [Fire](Fire.md "火焰").
+[抗性](Resistant.md "抗性") to all [火焰](Fire.md "火焰").
 
-## Resistances [(info)](Resistances.md "抗性")
+## Resistances [抗性](Resistances.md "抗性")
 
 - ## Features
 
-- [Darkvision](Darkvision.md "高级黑暗视觉")
+- [黑暗视觉](Darkvision.md "黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [Hellish Resistance](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-[Resistant](Resistant.md "抗性") to all [Fire](Fire.md "火焰").
+[抗性](Resistant.md "抗性") to all [火焰](Fire.md "火焰").
 
 ## Tactician Difficulty Stats
 
@@ -75,17 +75,17 @@ Can see in the dark up to a certain distance.
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) | 10 / (0) |
 
-## Resistances [(info)](Resistances.md "抗性")
+## Resistances [抗性](Resistances.md "抗性")
 
 - ## Features
 
-- [Darkvision](Darkvision.md "高级黑暗视觉")
+- [黑暗视觉](Darkvision.md "黑暗视觉")
 
 Can see in the dark up to a certain distance.
 
-- [Hellish Resistance](Hellish_Resistance.md "炎狱抗性")
+- [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 
-[Resistant](Resistant.md "抗性") to all [Fire](Fire.md "火焰").
+[抗性](Resistant.md "抗性") to all [火焰](Fire.md "火焰").
 
 ## Contents
 
@@ -98,19 +98,19 @@ Can see in the dark up to a certain distance.
 
 ### Act Two
 
-Main article: [Lift the Shadow Curse](Lift_the_Shadow_Curse.md "解除幽影诅咒")
+Main article: [解除幽影诅咒](Lift_the_Shadow_Curse.md "解除幽影诅咒")
 
-If [Halsin](Halsin.md "哈尔辛") joins the camp in [Act One](Act_One.md "第一幕"), he ultimately tells the party about how the spirit of the [Shadow-Cursed Lands](Shadow-Cursed_Lands.md "幽影诅咒之地") take the shape of a Tiefling boy -- Thaniel.
+If [哈尔辛](Halsin.md "哈尔辛") joins the camp in [第一幕](Act_One.md "第一幕"), he ultimately tells the party about how the spirit of the [幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地") take the shape of a Tiefling boy -- Thaniel.
 
 Halsin reveals that Thaniel was his friend as a child: as Halsin grew into an adult, Thaniel stayed the same, and Halsin realised he had to become a protector instead of merely a friend.
 
-As a result of the [Shadow Curse](Shadow_Curse.md "幽影诅咒"), Thaniel has been separated into two beings: an injured form of himself, who is unresponsive and asleep when first rescued by Halsin, and another who goes by the name of [Oliver](Oliver.md "奥利弗"). Thaniel has been in contact with [Art Cullagh](Art_Cullagh.md "阿尔特·库拉") over the time that Art has been trapped in the Shadow Curse, and Art can be heard singing about Thaniel until ⁠[Wake up Art Cullagh](Wake_up_Art_Cullagh.md "唤醒阿尔特·库拉") is completed. Art, much like Halsin, worries about Thaniel once he is awoken.
+As a result of the [幽影诅咒](Shadow_Curse.md "幽影诅咒"), Thaniel has been separated into two beings: an injured form of himself, who is unresponsive and asleep when first rescued by Halsin, and another who goes by the name of [奥利弗](Oliver.md "奥利弗"). Thaniel has been in contact with [阿尔特·库拉](Art_Cullagh.md "阿尔特·库拉") over the time that Art has been trapped in the Shadow Curse, and Art can be heard singing about Thaniel until ⁠[唤醒阿尔特·库拉](Wake_up_Art_Cullagh.md "唤醒阿尔特·库拉") is completed. Art, much like Halsin, worries about Thaniel once he is awoken.
 
-Through the events of ⁠[Lift the Shadow Curse](Lift_the_Shadow_Curse.md "解除幽影诅咒"), Halsin works with the party to rescue Thaniel, upon which he stays in the party's [Campsite](Campsite.md "营地") for the remainder of Act Two. Rescuing Thaniel is a prerequisite for recruiting Halsin as a [Companion](Companion.md "伙伴").
+Through the events of ⁠[解除幽影诅咒](Lift_the_Shadow_Curse.md "解除幽影诅咒"), Halsin works with the party to rescue Thaniel, upon which he stays in the party's [营地](Campsite.md "营地") for the remainder of Act Two. Rescuing Thaniel is a prerequisite for recruiting Halsin as a [伙伴](Companion.md "伙伴").
 
 ## Related quests
 
-- ⁠[Lift the Shadow Curse](Lift_the_Shadow_Curse.md "解除幽影诅咒")
+- ⁠[解除幽影诅咒](Lift_the_Shadow_Curse.md "解除幽影诅咒")
 
 ## Gallery
 

@@ -14,7 +14,7 @@
 
 **[异界瘴气](Otherworldly_Miasma_(Condition).md "异界瘴气 (状态)")**
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 15）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 被[异界气体](Strange_Gas_(area)削弱.md)。对⁠[钝击](Bludgeoning.md "钝击")、⁠[穿刺](Piercing.md "穿刺")和⁠[挥砍](Slashing.md "挥砍")伤害[易伤](Vulnerable.md "Vulnerable")。
 

@@ -8,7 +8,7 @@
 
 - 平衡
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - **蛛丝茧**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一种环境物体和容器。“
 |

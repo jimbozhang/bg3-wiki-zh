@@ -11,9 +11,9 @@
 | 先攻 | -2 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **土黄果冻怪**是《博德之门3》中的一种[泥型怪物](Ooze.md "泥型怪物")和[非可玩种族](Non-playable_race.md "非可玩种族")。
 

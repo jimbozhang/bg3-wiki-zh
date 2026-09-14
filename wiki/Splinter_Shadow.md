@@ -1,6 +1,6 @@
 # 分裂暗影
 
-**分裂暗影**是[Nimbus](Nimbus.md "Nimbus")和[分裂暗影猎犬](Splintered_Shadow_Hound.md "分裂暗影猎犬")可用的反应，允许其在被攻击时创造自身的分裂复制体。如果[Nimbus](Nimbus.md "Nimbus")在3米（10英尺）范围内移动，被[魔能刃](Hexblade.md "魔能刃")召唤的[受诅咒幽鬼](Accursed_Spectre.md "受诅咒幽鬼")也可以额外获得此能力的一个版本。
+**分裂暗影**是[尼姆巴斯](Nimbus.md "尼姆巴斯")和[分裂暗影猎犬](Splintered_Shadow_Hound.md "分裂暗影猎犬")可用的反应，允许其在被攻击时创造自身的分裂复制体。如果[尼姆巴斯](Nimbus.md "尼姆巴斯")在3米（10英尺）范围内移动，被[魔能刃](Hexblade.md "魔能刃")召唤的[受诅咒幽鬼](Accursed_Spectre.md "受诅咒幽鬼")也可以额外获得此能力的一个版本。
 
 ## 描述
 
@@ -28,14 +28,14 @@
 
 ## 如何习得
 
-被以下生物使用：[Nimbus](Nimbus.md "Nimbus")、[分裂暗影猎犬](Splintered_Shadow_Hound.md "分裂暗影猎犬")和[受诅咒幽鬼](Accursed_Spectre.md "受诅咒幽鬼")
+被以下生物使用：[尼姆巴斯](Nimbus.md "尼姆巴斯")、[分裂暗影猎犬](Splintered_Shadow_Hound.md "分裂暗影猎犬")和[受诅咒幽鬼](Accursed_Spectre.md "受诅咒幽鬼")
 
 ## 备注
 
 - 分裂暗影猎犬无法由玩家控制。
-- 同一个[Nimbus](Nimbus.md "Nimbus")或[分裂暗影猎犬](Splintered_Shadow_Hound.md "分裂暗影猎犬")可以生成多个分裂暗影猎犬。
+- 同一个[尼姆巴斯](Nimbus.md "尼姆巴斯")或[分裂暗影猎犬](Splintered_Shadow_Hound.md "分裂暗影猎犬")可以生成多个分裂暗影猎犬。
 - 队友的攻击不会触发此反应。
-- 当[Nimbus](Nimbus.md "Nimbus")在3米（10英尺）范围内移动靠近[受诅咒幽鬼](Accursed_Spectre.md "受诅咒幽鬼")时，幽鬼获得此反应。相反，Nimbus获得幽鬼的[在你身后](Right_Behind_You.md "在你身后")反应，直到下一次长休。
+- 当[尼姆巴斯](Nimbus.md "尼姆巴斯")在3米（10英尺）范围内移动靠近[受诅咒幽鬼](Accursed_Spectre.md "受诅咒幽鬼")时，幽鬼获得此反应。相反，Nimbus获得幽鬼的[在你身后](Right_Behind_You.md "在你身后")反应，直到下一次长休。
 
 ---
 *Source: [Splinter Shadow](https://bg3.wiki/wiki/Splinter_Shadow)*

@@ -170,7 +170,7 @@
 #### 物品
 
 - [感知护符（稀有）](Sentient_Amulet_(Rare).md "Sentient Amulet (Rare)")：恢复2个[气点](Ki_Point.md "Ki Point")。（充能：[长休](Long_Rest.md "Long rest")）
-- [感知护符（非常稀有）](Sentient_Amulet_(Very_Rare).md "Sentient Amulet (Very Rare)")：恢复**1d4**、**1d6**或**1d8**个[气点](Ki_Point.md "Ki Point")，由你的[ martial Arts](Martial_Arts_colon__Deft_Strikes.md "Martial Arts: Deft Strikes")骰子决定。（充能：[长休](Long_Rest.md "Long rest")）
+- [感知护符（非常稀有）](Sentient_Amulet_(Very_Rare).md "Sentient Amulet (Very Rare)")：恢复**1d4**、**1d6**或**1d8**个[气点](Ki_Point.md "Ki Point")，由你的[武术：灵巧打击](Martial_Arts_colon__Deft_Strikes.md "武术：灵巧打击")骰子决定。（充能：[长休](Long_Rest.md "Long rest")）
 
 #### 职业特性
 

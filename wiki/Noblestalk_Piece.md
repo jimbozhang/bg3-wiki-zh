@@ -22,8 +22,8 @@
 
 ## 备注
 
-- 虽然与[箴言菇](Noblestalk.md "箴言菇")相似，但此物品无法用于恢复[影心](Shadowheart.md "影心")的记忆。不过，它对[邪念](The_Dark_Urge.md "邪念")有效。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
-- 按下“高亮显示物体”键/按钮时，此物品不会被高亮显示。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 虽然与[箴言菇](Noblestalk.md "箴言菇")相似，但此物品无法用于恢复[影心](Shadowheart.md "影心")的记忆。不过，它对[邪念](The_Dark_Urge.md "邪念")有效。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
+- 按下“高亮显示物体”键/按钮时，此物品不会被高亮显示。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Noblestalk Piece](https://bg3.wiki/wiki/Noblestalk_Piece)*

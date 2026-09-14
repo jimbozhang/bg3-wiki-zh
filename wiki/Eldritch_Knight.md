@@ -59,11 +59,11 @@ _此副职除了下述的独特特性外，还获得其基础职业[战士](Figh
 
 - [轰鸣剑](Booming_Blade.md "轰鸣剑")
 
-- [Bursting Sinew](Bursting_Sinew.md "Bursting Sinew")
+- [爆裂肌腱](Bursting_Sinew.md "爆裂肌腱")
 
 - [舞光术](Dancing_Lights.md "舞光术") * [火焰箭](Fire_Bolt.md "火焰箭")
 
-- [交友术](Friends.md "交友术") * [Light](Light.md "Light")
+- [交友术](Friends.md "交友术") * [光亮术](Light.md "光亮术")
 
 - [法师之手](Mage_Hand.md "法师之手")
 
@@ -75,7 +75,7 @@ _此副职除了下述的独特特性外，还获得其基础职业[战士](Figh
 
 - [电爪](Shocking_Grasp.md "电爪")
 
-- [Toll the Dead](Toll_the_Dead.md "Toll the Dead")
+- [鸣响丧钟](Toll_the_Dead.md "鸣响丧钟")
 
 - [克敌机先](True_Strike.md "克敌机先") 可用的新 1 级[防护学派](Abjuration.md "防护学派")和[塑能学派](Evocation.md "塑能学派")法术
 

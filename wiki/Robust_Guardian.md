@@ -32,9 +32,9 @@
 - [对决](Duelling.md "对决")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **强健的守卫者**是一种位于[染疫村落](Blighted_Village.md "染疫村落")的[药剂师地窖](Apothecary's_Cellar.md "药剂师地窖")中的不死生物，出现在[第一幕](Act_One.md "第一幕")期间。
 

@@ -259,7 +259,7 @@ _不_要求先拥有相应技能熟练项的专精来源包括：
 
 ## 未使用的熟练项
 
-一些[NPC](Non-player_characters.md "Non-Player Characters")拥有两种玩家角色及其[伙伴](Companions.md "Companions")无法获得的特殊武器熟练项。这些熟练项的武器无法正常获得，仅在游戏文件中提及。
+一些[非玩家角色](Non-player_characters.md "非玩家角色")拥有两种玩家角色及其[伙伴](Companions.md "Companions")无法获得的特殊武器熟练项。这些熟练项的武器无法正常获得，仅在游戏文件中提及。
 
 ## 职业武器熟练项
 

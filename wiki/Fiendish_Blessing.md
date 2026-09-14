@@ -10,7 +10,7 @@
 
 由以下生物使用：
 
-- [坎比翁](Cambion.md "坎比翁")、[坎比翁（异界誓盟）](Cambion_(Planar_Ally).md "坎比翁（异界誓盟）")、[Cirrus](Cirrus.md "Cirrus")、[Feena](Feena.md "Feena")、[拉斐尔](Raphael.md "拉斐尔")、[复仇坎比翁](Vengeful_Cambion.md "复仇坎比翁")、[Zhalk](Zhalk.md "Zhalk")
+- [坎比翁](Cambion.md "坎比翁")、[坎比翁（异界誓盟）](Cambion_(Planar_Ally).md "坎比翁（异界誓盟）")、[西卢斯](Cirrus.md "西卢斯")、[菲娜](Feena.md "菲娜")、[拉斐尔](Raphael.md "拉斐尔")、[复仇坎比翁](Vengeful_Cambion.md "复仇坎比翁")、[扎尔克](Zhalk.md "扎尔克")
 
 ## 简要预览
 

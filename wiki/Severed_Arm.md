@@ -1,4 +1,4 @@
-**断臂** is a common miscellaneous item. Primarily of use for bartering or sale to [Traders](Traders.md "Traders").
+**断臂** is a common miscellaneous item. Primarily of use for bartering or sale to [商人](Traders.md "商人").
 
 Heavy and slick with sweat and blood, this arm has a tendency to slip out of your hands.
 
@@ -11,7 +11,7 @@ Heavy and slick with sweat and blood, this arm has a tendency to slip out of you
 
 # Variant
 
-**断臂** is a common miscellaneous item. Primarily of use for bartering or sale to [Traders](Traders.md "Traders").
+**断臂** is a common miscellaneous item. Primarily of use for bartering or sale to [商人](Traders.md "商人").
 
 Blood is still slowly trickling down this arm's serverd fingers.
 
@@ -25,7 +25,7 @@ Blood is still slowly trickling down this arm's serverd fingers.
 ## Where to find
 
 - Throughout the game as set-dressing and random loot
-- Received from [Linsella](Linsella.md "林赛拉") if the party help her quell [Barnabus](Barnabus.md "Barnabus")
+- Received from [林赛拉](Linsella.md "林赛拉") if the party help her quell ['巴那布斯'](Barnabus.md "'巴那布斯'")
 
 ---
 *Source: [Severed Arm](https://bg3.wiki/wiki/Severed_Arm)*

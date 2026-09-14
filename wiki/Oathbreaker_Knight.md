@@ -43,7 +43,7 @@
 - [精通至圣斩](Improved_Divine_Smite.md "精通至圣斩")
 - [驱散抗性](Turn_Resistance.md "驱散抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 额外资源
 
@@ -63,7 +63,7 @@
 
 圣武士及附近盟友不会被[恐慌](Frightened_(status_group).md)
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 额外资源
 
@@ -83,7 +83,7 @@
 
 圣武士及附近盟友不会被[恐慌](Frightened_(status_group).md)
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - ## 额外资源
 

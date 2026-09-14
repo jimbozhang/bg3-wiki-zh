@@ -53,7 +53,7 @@
 
 - 表演是一个自由动作，可以在战斗中使用。如果表演角色处于[受威胁](Threatened_(Condition).md "受威胁 (状态)")状态，表演会结束。
 
-- 吟游诗人之舞在[下城区](Lower_City.md "下城区")的酒馆中作为环境音乐播放。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 吟游诗人之舞在[下城区](Lower_City.md "下城区")的酒馆中作为环境音乐播放。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 原声带
 

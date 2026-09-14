@@ -17,7 +17,7 @@
 2d4⁠[雷鸣](Thunder.md "雷鸣")
 
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 范围：自身
 范围效果：2米（7英尺）半径
 推开：3米（10英尺）

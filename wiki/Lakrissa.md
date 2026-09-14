@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 15 / (+2) | 12 / (+1) | 10 / (0) | 14 / (+2) | 12 / (+1) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -42,7 +42,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -58,7 +58,7 @@
 
 攻击离开攻击范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -110,7 +110,7 @@
 
 如果在[地精](Goblin.md "Goblin")首领被杀后存活下来，她可以在[庆祝活动](Tiefling_Refugee_Celebration.md "Tiefling Refugee Celebration")中被找到，与[阿尔菲拉](Alfira.md "Alfira")交谈。拉克里萨向玩家角色保证她没有忘记他们的赌约（如果他们打过赌），但告诉她她的人们还没有到达城市。玩家角色可以让她忘记赌约，并邀请拉克里萨和阿尔菲拉在到达城市后一起喝一杯。
 
-如果在解决[卡哈](Kagha.md "Kagha")的[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Grove and Lakrissa's corpse can be found among the pile of refugees near the bridge to the [Blighted Village](Blighted_Village.md "Blighted Village")之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")或[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")，提夫林会被驱逐出林地，拉克里萨的尸体可以在通往[染疫村落](Blighted_Village.md "Blighted Village")的桥附近的难民堆中找到。
+如果在解决[卡哈](Kagha.md "Kagha")的[荆棘仪式](Rite_of_Thorns_(ritual).md), the tieflings are expelled from the Grove and Lakrissa's corpse can be found among the pile of refugees near the bridge to the [染疫村落](Blighted_Village.md "染疫村落")之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "Rosymorn Monastery Trail")或[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")，提夫林会被驱逐出林地，拉克里萨的尸体可以在通往[染疫村落](Blighted_Village.md "Blighted Village")的桥附近的难民堆中找到。
 
 ### 第二幕
 

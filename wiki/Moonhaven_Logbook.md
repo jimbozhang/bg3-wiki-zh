@@ -1,6 +1,6 @@
 # Moonhaven Logbook
 
-**月亮庇所日志** (Moonhaven Logbook) 是一本可能由 [Ilyn Toth](Ilyn_Toth.md "Ilyn Toth") 保存的日记，记录了月亮庇所（也称为 [染疫村落](Blighted_Village.md "Blighted Village")）中不同人物的动向。
+**月亮庇所日志** (Moonhaven Logbook) 是一本可能由 [伊林·托斯](Ilyn_Toth.md "伊林·托斯") 保存的日记，记录了月亮庇所（也称为 [染疫村落](Blighted_Village.md "Blighted Village")）中不同人物的动向。
 
 一份关于在月亮庇所村庄中被目击的旅行者的详细记录。
 
@@ -8,7 +8,7 @@
 
 - [书籍](Books.md "Books")
 
-- 作者: [Ilyn Toth](Ilyn_Toth.md "Ilyn Toth")
+- 作者: [伊林·托斯](Ilyn_Toth.md "伊林·托斯")
 
 - 稀有度: 普通
 

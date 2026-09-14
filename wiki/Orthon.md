@@ -4,11 +4,11 @@
 | --- | --- |
 | 身份 | 男性 |
 | 声音 / 演员 | [Stewart Scudamore](https://www.imdb.com/name/nm1270132/) |
-| 角色 | [Attached Follower](Attached_Follower.md "Attached Follower") |
+| 角色 | [伙伴](Attached_Follower.md "伙伴") |
 | 家庭 | [内萨](Nessa.md "Nessa")（伴侣） |
 | 家乡 | [阿弗纳斯](Avernus.md "Avernus") |
-| 体型 | [Large](Large.md "Large") |
-| 类型 | [Fiend](Fiend.md "Fiend") |
+| 体型 | [生物体型](Large.md "生物体型") |
+| 类型 | [邪魔](Fiend.md "邪魔") |
 | 种族 | ⁠[血甲魔](https://forgottenrealms.fandom.com/wiki/Orthon) |
 
 | | |
@@ -129,7 +129,7 @@
 
 在从希望之邸偷窃拉斐尔后离开时，会再次遇到尤格。在随后的战斗中，如果队伍帮助他从契约中解脱，他会改变立场，帮助队伍杀死拉斐尔。如果队伍在第二章杀死了尤格，仍然可以通过DC 30 [游说](Persuasion.md "Persuasion") [属性检定](Ability_Check.md "属性检定")说服他帮助队伍。如果执行了解放他契约的动作，但没有进行相关对话，那么仍然需要说服尤格。
 
-如果尤格帮助队伍，他将成为⁠[召集盟友](Gather_Your_Allies.md "Gather Your Allies")的盟友。当被召唤时，他通过动作[地狱潜行者尤格](Hellstalker_Yurgir.md "Hellstalker Yurgir")成为[Attached Follower](Attached_Follower.md "Attached Follower")。
+如果尤格帮助队伍，他将成为⁠[召集盟友](Gather_Your_Allies.md "Gather Your Allies")的盟友。当被召唤时，他通过动作[地狱潜行者尤格](Hellstalker_Yurgir.md "Hellstalker Yurgir")成为[伙伴](Attached_Follower.md "伙伴")。
 
 ## 伙伴好感度
 

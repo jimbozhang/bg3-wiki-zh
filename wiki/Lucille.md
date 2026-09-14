@@ -21,11 +21,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 8 / (-1) | 8 / (-1) | 18 / (+4) | 8 / (-1) | 5 / (-3) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **露希尔**是[终焉马戏团](Circus_of_the_Last_Days.md "终焉马戏团")在[第三幕](Act_Three.md "第三幕")期间雇佣的一名命名[骷髅](Skeleton.md "骷髅")。
 

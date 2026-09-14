@@ -10,7 +10,7 @@
 | 护甲等级 | 14 |
 | 先攻 | 0 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -20,7 +20,7 @@
 
 攻击离开触及范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -30,7 +30,7 @@
 
 攻击离开触及范围的敌人。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

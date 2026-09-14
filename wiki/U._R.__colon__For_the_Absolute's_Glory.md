@@ -1,6 +1,6 @@
 # U. R. : For the Absolute's Glory
 
-**U. R. : For the Absolute's Glory** 是 [Ulder Ravengard](Ulder_Ravengard.md "Ulder Ravengard") 在被感染后撰写的个人日记。
+**U. R. : For the Absolute's Glory** 是 [乌尔德·雷文伽德](Ulder_Ravengard.md "乌尔德·雷文伽德") 在被感染后撰写的个人日记。
 
 雷文伽德公爵的个人反思。
 
@@ -8,7 +8,7 @@
 
 - [书籍](Books.md "Books")
 
-- 作者: [Ulder Ravengard](Ulder_Ravengard.md "Ulder Ravengard")
+- 作者: [乌尔德·雷文伽德](Ulder_Ravengard.md "乌尔德·雷文伽德")
 
 - 稀有度: 普通
 

@@ -12,7 +12,7 @@
 
 持续时间：2 驱散
 
-[体](CON.md "体质")[豁免](Saving_throw.md "豁免检定")（[DC](DC.md "DC") 13）
+[体](CON.md "体质")[豁免](Saving_throw.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 
 - 在[感知](WIS.md "感知")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，无法采取[反应](Reaction_(Resource).md "反应")，并失去其[护甲等级](Armor_Class.md "护甲等级")上的[敏捷](Dexterity.md "敏捷")加值。
 - 如果盟友[协助](Help.md "协助")该生物，则移除此状态。

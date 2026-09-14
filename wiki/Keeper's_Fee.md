@@ -11,7 +11,7 @@
 消耗
 [附赠动作](Actions.md#Resources "Actions")
 详情
-[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 15）
+[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 15）
 射程：18 米（60 英尺）
 [专注](Concentration.md "Concentration")
 

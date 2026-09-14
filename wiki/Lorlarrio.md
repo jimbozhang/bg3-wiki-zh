@@ -25,7 +25,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 / (0) | 12 / (+1) | 15 / (+2) | 14 / (+2) | 12 / (+1) | 18 / (+4) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -65,7 +65,7 @@
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -105,7 +105,7 @@
 
 可以在黑暗中看到 24 米 / 80 英尺。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

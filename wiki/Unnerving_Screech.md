@@ -17,7 +17,7 @@
 4d6⁠[心灵](Psychic.md "心灵")
 
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 9）（豁免成功时：目标仍承受一半伤害。）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 9）（豁免成功时：目标仍承受一半伤害。）
 范围：自身
 作用范围：5米（17英尺）半径
 击退：3米（10英尺）
@@ -28,7 +28,7 @@
 
 持续时间：2 驱散
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 9）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 9）
 
 - 该实体无法采取[动作](Actions.md#Resources "动作")，因为其勇气已被幽魂扼杀。
 

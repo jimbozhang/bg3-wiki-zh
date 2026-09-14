@@ -17,7 +17,7 @@
 2d6⁠[闪电](Lightning.md "闪电")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 8 + [体质](Constitution.md "体质") 调整值 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")）（豁免成功时：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 8 + [体质](Constitution.md "体质") 调整值 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")）（豁免成功时：目标仍承受一半伤害。）
 范围：自身
 区域：5米（17英尺）线形
 充能：[短休](Short_rest.md "短休")

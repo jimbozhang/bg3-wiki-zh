@@ -13,7 +13,7 @@
 | 先攻 | +1 |
 | 经验值 | 75 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -41,7 +41,7 @@
 
 可在黑暗中看到 24 米 / 80 英尺。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -69,7 +69,7 @@
 
 可在黑暗中看到 24 米 / 80 英尺。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -125,7 +125,7 @@
 - [欺瞒] 恐怕格克死了——他在与蕈人的战斗中倒下了。 (DC 15)
 - [烙印之人] [游说] 就让我过去吧——我有烙印，看到了吗？ (DC 10)
 
-成功说服格雷蒙让队伍通过，会为拥有[骗子](Charlatan.md "Charlatan")背景的队伍成员授予激励点⁠[A Friend to All](Charlatan.md#A_Friend_to_All "Charlatan")。改为击败灰矮人，则会为拥有[士兵](Soldier.md "Soldier")背景的队伍成员授予激励点⁠[Drowned in the Dark](Soldier.md#Drowned_in_the_Dark "Soldier")。
+成功说服格雷蒙让队伍通过，会为拥有[骗子](Charlatan.md "Charlatan")背景的队伍成员授予激励点⁠[骗子](Charlatan.md#A_Friend_to_All "Charlatan")。改为击败灰矮人，则会为拥有[士兵](Soldier.md "Soldier")背景的队伍成员授予激励点⁠[士兵](Soldier.md#Drowned_in_the_Dark "Soldier")。
 
 如果格雷蒙与队伍一起航行至复仇之炉，之后可以在地底侏儒奴隶挖掘[尼讷](Nere.md "Nere")的区域找到他并进行交易。作为[至上真神](Absolute.md "Absolute")的追随者，如果队伍选择与他战斗，他会站在尼讷一边。
 
@@ -200,7 +200,7 @@ _对应`UND_KC_Trader_Weapons`。_
 近战：1.5 米 (5 英尺)
 
 [准备](Prepare.md "Prepare") – [巨斧](Greataxe.md "Greataxe")
-消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害（最少 1 点）。
+消耗 6 米 (20 英尺) 的[移动速度](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害（最少 1 点）。
 
 范围：自身
 充能：[短休](Short_rest.md "Short rest")

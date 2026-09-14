@@ -25,7 +25,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 10 / (0) | 14 / (+2) | 13 / (+1) | 15 / (+2) | 10 / (0) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -49,7 +49,7 @@
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 
@@ -73,7 +73,7 @@
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 特性
 

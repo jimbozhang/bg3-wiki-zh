@@ -19,7 +19,7 @@
 \+ 2d6⁠[力场](Force.md "力场")（如果在死亡时触发）
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 范围：自身
 区域效果：3 米（10 英尺）半径
 创建区域：泥巴
@@ -30,7 +30,7 @@
 
 持续时间：2 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 13）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 
 - 受影响实体被硬化的泥巴覆盖，其[移动速度](Movement_speed.md "移动速度")减半。
 - 对其进行的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")，而该实体的攻击掷骰和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。

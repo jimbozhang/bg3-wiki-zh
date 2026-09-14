@@ -15,7 +15,7 @@
 2d8 + 2⁠[心灵](Psychic.md "心灵")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）（豁免成功时：目标仍承受全额伤害，但不会被[麻痹](Paralysed_(Condition).md "麻痹（状态）")。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）（豁免成功时：目标仍承受全额伤害，但不会被[麻痹](Paralysed_(Condition).md "麻痹（状态）")。）
 范围：4米（13英尺）半径
 充能：每回合
 
@@ -25,7 +25,7 @@
 
 持续时间：2回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 受影响实体无法移动或使用[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")。
 - 如果攻击者在3米（10英尺）范围内，对实体的攻击总是[重击](Critical_Hit.md "重击")。

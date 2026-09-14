@@ -105,7 +105,7 @@
 
 以下[消耗品](Consumable.md "消耗品")物品可用于造成火焰伤害。对于[箭](Arrows.md "箭")，伤害会附加在攻击者的常规远程武器伤害之上。
 
-- [火焰箭](Arrow_of_Fire.md "火焰箭")：在区域内造成 +2d4⁠⁠火焰伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）以豁免。
+- [火焰箭](Arrow_of_Fire.md "火焰箭")：在区域内造成 +2d4⁠⁠火焰伤害。[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）以豁免。
 - [炼金火焰](Alchemist's_Fire.md "炼金火焰")：在区域内造成 1d4⁠⁠火焰伤害。
 
 ## 互动

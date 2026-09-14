@@ -28,7 +28,7 @@
 
 ## 错误
 
-- 游戏内描述称目标需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")（[DC](Dice_rolls.md#Save_DCs "骰子掷法")13）来避免裂地效果。然而，这并不正确，状态总是会被施加。
+- 游戏内描述称目标需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")（[掷骰](Dice_rolls.md#Save_DCs "骰子掷法")13）来避免裂地效果。然而，这并不正确，状态总是会被施加。
 
 ---
 *Source: [Rupturing](https://bg3.wiki/wiki/Rupturing)*

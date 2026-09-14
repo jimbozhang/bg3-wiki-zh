@@ -31,7 +31,7 @@
 
 持续时间：10 回合
 
-- 目标必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 15 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将变为[目盲](Blinded_(Condition).md "目盲（状态）")和[中毒](Poisoned_(Condition).md "中毒（状态）")。
+- 目标必须通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 15 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将变为[目盲](Blinded_(Condition).md "目盲（状态）")和[中毒](Poisoned_(Condition).md "中毒（状态）")。
 - 通过豁免检定的目标将获得[免疫：怨恨](Inoculated_colon__Malice_(Condition).md "免疫：怨恨（状态）")状态，持续 2 回合。
 
 ## 状态：受怨恨影响
@@ -40,7 +40,7 @@
 
 持续时间：直到成功通过[豁免检定](Saving_throw.md "豁免检定")
 
-[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 15)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 15)
 
 - 受影响实体目盲且中毒。
 - 在[攻击掷骰](Attack_rolls.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，其攻击和法术范围缩小至 3 米 (10 英尺)。
@@ -63,7 +63,7 @@
 
 **[受怨恨影响](Stricken_with_Malice_(Condition).md "受怨恨影响（状态）")**
 
-[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 10)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 10)
 
 - 受影响实体目盲且中毒。
 - 在[攻击掷骰](Attack_rolls.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，其攻击和法术范围缩小至 3 米 (10 英尺)。

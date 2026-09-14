@@ -23,7 +23,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 18 / (+4) | 22 / (+6) | 18 / (+4) | 6 / (-2) | 10 / (0) | 10 / (0) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 特性
 
@@ -55,7 +55,7 @@
 
 不会被[受惊](Surprised.md "Surprised")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 特性
 

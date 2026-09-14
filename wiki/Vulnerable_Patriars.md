@@ -26,21 +26,21 @@
 
 服从高于一切！根据他们的影响力程度，结合对各种压力形式（贿赂、敲诈、直接威胁）的易伤性进行交叉索引，以下是未来二十天内议会中需要针对的前八位同僚：
 
-1\. 迪拉德·波提尔公爵 (Duke [Dillard Portyr](Dillard_Portyr.md "Dillard Portyr"))
+1\. 迪拉德·波提尔公爵 (Duke [迪拉德·波特尔](Dillard_Portyr.md "迪拉德·波特尔"))
 
-2\. 雷伦·詹纳斯勋爵 (Lord [Raylen Jannath](Raylen_Jannath.md "Raylen Jannath"))
+2\. 雷伦·詹纳斯勋爵 (Lord [雷伦·詹纳斯](Raylen_Jannath.md "雷伦·詹纳斯"))
 
-3\. 露丝·林纳克女士 (Lady [Ruth Linnacker](Ruth_Linnacker.md "Ruth Linnacker"))
+3\. 露丝·林纳克女士 (Lady [露丝·林纳克](Ruth_Linnacker.md "露丝·林纳克"))
 
-4\. 玛德琳·惠特伯恩女士 (Lady [Madeline Whitburn](Madeline_Whitburn.md "Madeline Whitburn"))
+4\. 玛德琳·惠特伯恩女士 (Lady [玛德琳·惠特本](Madeline_Whitburn.md "玛德琳·惠特本"))
 
-5\. 希尔·里林勋爵 (Lord [Hir Rillyn](Rillyn.md "Rillyn"))
+5\. 希尔·里林勋爵 (Lord [芮林恩家族](Rillyn.md "芮林恩家族"))
 
-6\. 海瑞尔·凡瑟普女士 (Lady [Haeril Vanthampur](Vanthampur.md "Vanthampur"))
+6\. 海瑞尔·凡瑟普女士 (Lady [范萨普](Vanthampur.md "范萨普"))
 
-7\. 西莉弗雷·萨申斯塔女士 (Lady [Silifrey Sashenstar](Silifrey_Sashenstar.md "Silifrey Sashenstar"))
+7\. 西莉弗雷·萨申斯塔女士 (Lady [西莉芙蕾·萨申斯塔尔](Silifrey_Sashenstar.md "西莉芙蕾·萨申斯塔尔"))
 
-8\. 萨肯·尤曼勋爵 (Lord [Sarken Eomane](Sarken_Eomane.md "Sarken Eomane"))
+8\. 萨肯·尤曼勋爵 (Lord [萨尔肯·埃奥曼](Sarken_Eomane.md "萨尔肯·埃奥曼"))
 
 \- 致以最崇高的敬意，忠诚之手
 

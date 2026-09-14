@@ -17,7 +17,7 @@
 3d8⁠[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）（豁免成功时：目标改为承受2d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）（豁免成功时：目标改为承受2d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。）
 射程：4米（13英尺）
 
 ## 状态：力量汲取
@@ -26,7 +26,7 @@
 
 持续时间：2 驱散
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）
 
 - 暗影已吸取受影响实体的[力量](Strength.md "力量")3点。
 

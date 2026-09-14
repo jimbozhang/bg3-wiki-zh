@@ -9,7 +9,7 @@
 
 ## 另见
 
-- [Notes](Notes.md "Notes")，游戏中的所有笔记列表
+- [笔记](Notes.md "笔记")，游戏中的所有笔记列表
 
 ---
 *Source: [Note](https://bg3.wiki/wiki/Note)*

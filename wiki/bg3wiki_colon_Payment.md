@@ -108,7 +108,7 @@ WikiWiz 可能会随时间对本协议条款的语言进行细微修订，以澄
 
 你可以在这里查看你自己的贡献列表：
 
-[Special:MyContributions](Special_colon_MyContributions.md "Special:MyContributions")
+[用户贡献 - 111.201.29.46](Special_colon_MyContributions.md "用户贡献 - 111.201.29.46")
 
 请注意，从技术上讲，只考虑截至2024年8月的贡献。（更准确地说，是截至7月20日，当时新贡献的许可已更改为 CC BY-SA。）实际上，我也会查看稍晚的贡献，但绝对**没有**承诺为任何未来的工作支付编辑者费用，因为这会打开一个巨大的潘多拉魔盒：首先，我们不希望鼓励数量而非质量，或试图通过其他方式操纵系统以获得更多报酬。其次，为持续工作支付报酬最终可能被视为雇主-雇员关系，这会带来许多我尚未准备承担的责任。
 
@@ -122,7 +122,7 @@ WikiWiz 可能会随时间对本协议条款的语言进行细微修订，以澄
 
 #### 这两个许可是否不兼容？
 
-BY-SA 和 BY-NC-SA 的不兼容性仅针对衍生作品，而不是双重许可。解释这种区别有点困难，这里也不是地方，但你可以阅读 [bg3wiki:Copyrights](bg3wiki_colon_Copyrights.md "bg3wiki:Copyrights") 和 [bg3wiki:Licensing](bg3wiki_colon_Licensing.md "bg3wiki:Licensing") 以了解更多信息。另请参阅 [Wikimedia Commons 多重许可文章](https://commons.wikimedia.org/wiki/Commons:Multi-licensing)，其中有非常清晰的解释。
+BY-SA 和 BY-NC-SA 的不兼容性仅针对衍生作品，而不是双重许可。解释这种区别有点困难，这里也不是地方，但你可以阅读 [bg3wiki:版权](bg3wiki_colon_Copyrights.md "bg3wiki:版权") 和 [bg3wiki:许可](bg3wiki_colon_Licensing.md "bg3wiki:许可") 以了解更多信息。另请参阅 [Wikimedia Commons 多重许可文章](https://commons.wikimedia.org/wiki/Commons:Multi-licensing)，其中有非常清晰的解释。
 
 ## 付款申请
 

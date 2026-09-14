@@ -11,9 +11,9 @@
 | 先攻 | 0 |
 | 移动速度 | 9 m (30 ft) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **巨骷髅**是 [博德之门3](Baldur's_Gate_3.md "博德之门3") 中的一种 [不死生物](Undead.md "不死生物")。当 [阿斯代伦](Astarion.md "阿斯代伦") 升天并使用 [吸血鬼领主扈从](Retinue_of_the_Vampire_Lord.md "吸血鬼领主扈从") 到达 [至高大殿](High_Hall.md "至高大殿") 时，可以召唤两个巨骷髅。
 

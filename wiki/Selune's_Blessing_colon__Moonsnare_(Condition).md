@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `MAG_SHA_SELUNE_BLESSING_MOONMOTE_ENEMY` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG Surface"), [SG_DifficultTerrain](SG_DifficultTerrain.md "SG DifficultTerrain")
+[堆叠ID](Stack_ID.md "堆叠ID"): `MAG_SHA_SELUNE_BLESSING_MOONMOTE_ENEMY` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG Surface"), [劣势地形 (状态组)](SG_DifficultTerrain.md "劣势地形 (状态组)")
 
 ## 塞伦涅的祝福：月光陷阱的来源
 

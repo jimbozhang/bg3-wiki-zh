@@ -16,7 +16,7 @@
 
 - UID `ARM_Camp_Rich_D_Purple` UUID `0004915f-4399-4ae1-beab-85a62c11b674` Stats `ARM_Vanity_Body_Rich_D_Puple` ## 获取地点
 
-- 由[菲格罗·潘尼古德](Figaro_Pennygood.md "菲格罗·潘尼古德")出售\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 由[菲格罗·潘尼古德](Figaro_Pennygood.md "菲格罗·潘尼古德")出售\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Anarchic Purple Outfit](https://bg3.wiki/wiki/Anarchic_Purple_Outfit)*

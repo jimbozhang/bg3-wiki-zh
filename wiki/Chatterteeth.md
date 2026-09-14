@@ -12,9 +12,9 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 210 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **恰德提斯**是服务于[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")的不死生物[骷髅](Skeleton.md "骷髅")。
 

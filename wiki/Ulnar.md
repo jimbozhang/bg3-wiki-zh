@@ -32,7 +32,7 @@
 - [高级黑暗视觉](Darkvision.md "高级黑暗视觉")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -40,7 +40,7 @@
 
 此生物及附近的不死生物在对抗[驱散不死生物](Turn_Undead.md "驱散不死生物")时具有[优势](Advantage.md "优势")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -48,7 +48,7 @@
 
 此生物及附近的不死生物在对抗[驱散不死生物](Turn_Undead.md "驱散不死生物")时具有[优势](Advantage.md "优势")。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 

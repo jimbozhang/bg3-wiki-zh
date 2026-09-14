@@ -20,7 +20,7 @@
 
 陵墓由两个房间组成，一个以石棺为中心的主房间，以及一个相邻的、主要存放书籍的房间。
 
-打开石棺需要 DC 15 的[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")，并会触发房间周围三个隐藏的（DC 15 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")）[虚空](Void.md "虚空")云通风口陷阱（[DC](Dice_rolls.md#Save_DCs "骰子投掷") 10 [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")）。石棺内有两个相同的[大陵寝贡品钥匙](Grand_Mausoleum_Offerings_Key.md "大陵寝贡品钥匙")，每个钥匙可以打开房间另一侧的一个[华丽的箱子](Opulent_Chest.md "华丽的箱子")。如果没有钥匙，每个箱子需要 DC 20 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")。一个箱子包含金币和一颗宝石，另一个包含金币和几瓶药水。
+打开石棺需要 DC 15 的[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")，并会触发房间周围三个隐藏的（DC 15 [察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")）[虚空](Void.md "虚空")云通风口陷阱（[掷骰](Dice_rolls.md#Save_DCs "骰子投掷") 10 [敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")）。石棺内有两个相同的[大陵寝贡品钥匙](Grand_Mausoleum_Offerings_Key.md "大陵寝贡品钥匙")，每个钥匙可以打开房间另一侧的一个[华丽的箱子](Opulent_Chest.md "华丽的箱子")。如果没有钥匙，每个箱子需要 DC 20 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")。一个箱子包含金币和一颗宝石，另一个包含金币和几瓶药水。
 
 在侧室中，坐标 X: 1078 Y: 848 处有一本[破旧的日记](Crumbling_Journal.md "破旧的日记")；它详细描述了一个凡人与[杰加尔](Jergal.md "杰加尔")的遭遇。书中对杰加尔的物理描述以及他向凡人提出的问题，与[守墓人](Withers.md "守墓人")的外观以及队伍在[蔓生废墟](Overgrown_Ruins.md "蔓生废墟")中与他的第一次遭遇相呼应。房间后部的架子上放着一朵稀有的[死尸玫瑰](Corpse_Rose.md "死尸玫瑰")。
 

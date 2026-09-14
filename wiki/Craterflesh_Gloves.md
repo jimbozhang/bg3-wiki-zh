@@ -17,7 +17,7 @@
 - [力量](Strength.md "Strength") [豁免检定](Saving_throw.md "Saving Throw") +1
 
 [扩大伤口](Craterous_Wounds.md "Craterous Wounds")
-每当您造成[重击](Critical_Hit.md "Critical Hit")时，额外造成 1d6⁠⁠[力场](Force.md "Force")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害。
+每当您造成[重击](Critical_Hit.md "Critical Hit")时，额外造成 1d6⁠⁠[力场](Force.md "Force")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ## 获取地点
 
@@ -29,7 +29,7 @@
 
 _关于扩大伤口：_
 
-- 扩大伤口是少数在荣誉模式中仍然有效的[DRS](Damage_mechanics.md "Damage mechanics")之一。
+- 扩大伤口是少数在荣誉模式中仍然有效的[伤害机制](Damage_mechanics.md "伤害机制")之一。
 
 ## 错误
 

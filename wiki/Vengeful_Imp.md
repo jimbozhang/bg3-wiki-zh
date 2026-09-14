@@ -11,7 +11,7 @@
 | 先攻 | +3 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 
@@ -19,7 +19,7 @@
 
 将一次[光耀](Radiant.md "光耀")伤害反射为2倍[火焰](Fire.md "火焰")伤害给攻击者。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - ## 状态
 

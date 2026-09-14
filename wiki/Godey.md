@@ -43,11 +43,11 @@
 - [反击](Riposte_(passive_feature).md "反击（被动特性）")
 - [沉默](Silent.md "沉默")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **戈迪**是为[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")服务的[不死生物](Undead.md "不死生物")[骷髅](Skeleton.md "骷髅")。
 

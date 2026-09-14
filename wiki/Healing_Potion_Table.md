@@ -1,6 +1,6 @@
 # 治疗药水表
 
-**治疗药水表**，也称为 **Alchemy_Potion_Healing**，是一个分级的[Treasure Table](Treasure_Table.md "Treasure Table")，包含治疗药水。它包含所有四种[治疗药水](Potions.md#Healing_Potions "Potions")，在更高等级时提供治疗效果更高的品种。
+**治疗药水表**，也称为 **Alchemy_Potion_Healing**，是一个分级的[宝藏表](Treasure_Table.md "宝藏表")，包含治疗药水。它包含所有四种[治疗药水](Potions.md#Healing_Potions "Potions")，在更高等级时提供治疗效果更高的品种。
 
 ## 掉落
 

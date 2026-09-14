@@ -20,7 +20,7 @@
 **[诱惑](Lured_(Condition).md "Lured (Condition)")**
 
 - 受影响的实体被鸟妖的诱惑旋律吸引，并利用其回合向鸟妖移动，可能引发其他鸟妖的 [借机攻击](Opportunity_Attacks.md "Opportunity Attacks")。
-- 受影响的实体必须在回合开始时通过一次 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")，否则保持诱惑状态。
+- 受影响的实体必须在回合开始时通过一次 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")，否则保持诱惑状态。
 - 受到伤害或被 [推击](Shove.md "Shove") 将移除该状态。
 
 ## 状态：抵抗歌声
@@ -40,7 +40,7 @@
 ## 具有相同堆叠 ID 的状态
 
 - 受影响的实体被鸟妖的诱惑旋律吸引，并利用其回合向鸟妖移动，可能引发其他鸟妖的 [借机攻击](Opportunity_Attacks.md "Opportunity Attacks")。
-- 受影响的实体必须在回合开始时通过一次 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")，否则保持诱惑状态。
+- 受影响的实体必须在回合开始时通过一次 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "Saving Throw")，否则保持诱惑状态。
 - 受到伤害或被 [推击](Shove.md "Shove") 将移除该状态。
 
 | 状态 | 效果 |

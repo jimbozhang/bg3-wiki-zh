@@ -30,7 +30,7 @@
 用装备的武器进行近战攻击。
 
 [魔力短棒](Magic_Club.md "魔力短棒")
-在[菘蓝树人](Wood_Woad.md "菘蓝树人")手中，普通的[短棒](Club.md "短棒")变为魔法武器，并额外造成3d4⁠⁠[钝击](Bludgeoning.md "钝击")[DRS](Damage_rider_as_source.md "伤害附加源")伤害。
+在[菘蓝树人](Wood_Woad.md "菘蓝树人")手中，普通的[短棒](Club.md "短棒")变为魔法武器，并额外造成3d4⁠⁠[钝击](Bludgeoning.md "钝击")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ## 学习方式
 

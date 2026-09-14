@@ -54,8 +54,8 @@
 
 本系列的其他书籍有：
 
-- [A is for Azuth, and other Gods I](A_is_for_Azuth,_and_other_Gods_I.md "A is for Azuth, and other Gods I")
-- [A is for Azuth, and other Gods II](A_is_for_Azuth,_and_other_Gods_II.md "A is for Azuth, and other Gods II")
+- [A 是为阿祖斯，以及其他神祇 I](A_is_for_Azuth,_and_other_Gods_I.md "A 是为阿祖斯，以及其他神祇 I")
+- [A是阿祖斯，以及其他诸神 II](A_is_for_Azuth,_and_other_Gods_II.md "A是阿祖斯，以及其他诸神 II")
 - [A is for Azuth, and other Gods III](A_is_for_Azuth,_and_other_Gods_III.md "A is for Azuth, and other Gods III")
 - [A is for Azuth, and other Gods VII](A_is_for_Azuth,_and_other_Gods_VII.md "A is for Azuth, and other Gods VII")
 - [A is for Azuth, and other Gods IX](A_is_for_Azuth,_and_other_Gods_IX.md "A is for Azuth, and other Gods IX")

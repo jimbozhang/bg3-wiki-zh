@@ -219,7 +219,7 @@
 
 ## 错误
 
-- 如果生物已经位于地表上，创造新的地表不会影响该生物。例如，如果向生物投掷水并施放[艾伐黑触手](Evard's_Black_Tentacles.md "艾伐黑触手")，该生物不会受到触手影响，除非它在自己的回合移动。这包括血液，这意味着如果对生物使用[酸液箭](Arrow_of_Acid.md "酸液箭")，该生物不会获得[强酸](Acid_(Condition).md "强酸 (状态)")状态，因为武器伤害使其先流血，然后才创造强酸地表。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 如果生物已经位于地表上，创造新的地表不会影响该生物。例如，如果向生物投掷水并施放[艾伐黑触手](Evard's_Black_Tentacles.md "艾伐黑触手")，该生物不会受到触手影响，除非它在自己的回合移动。这包括血液，这意味着如果对生物使用[酸液箭](Arrow_of_Acid.md "酸液箭")，该生物不会获得[强酸](Acid_(Condition).md "强酸 (状态)")状态，因为武器伤害使其先流血，然后才创造强酸地表。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 另见
 

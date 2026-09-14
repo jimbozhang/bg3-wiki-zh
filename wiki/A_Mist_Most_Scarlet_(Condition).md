@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`LOW_BHAALTEMPLE_ORINSLAYER_ENRAGE` [状态组](Status_groups.md "状态组")：[SG_Rage](SG_Rage.md "SG Rage")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`LOW_BHAALTEMPLE_ORINSLAYER_ENRAGE` [状态组](Status_groups.md "状态组")：[SG 狂暴](SG_Rage.md "SG 狂暴")
 
 ## 血色迷雾的来源
 

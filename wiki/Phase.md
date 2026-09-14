@@ -69,19 +69,19 @@
 - [无甲防御](Unarmoured_Defence_(Monk).md "无甲防御（武僧）")
 - [无甲移动](Unarmoured_Movement.md "无甲移动")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - 12
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - 12
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

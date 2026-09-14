@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`BESTOW_CURSE` [状态组](Status_groups.md "状态组")：[SG_Cursed](SG_Cursed.md "SG Cursed")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`BESTOW_CURSE` [状态组](Status_groups.md "状态组")：[被诅咒（状态组）](SG_Cursed.md "被诅咒（状态组）")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合开始时
 
@@ -18,7 +18,7 @@
 
 持续时间：1 回合
 
-[WIS](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 屈服于诅咒施加的恐惧，无法移动或执行动作、附赠动作或反应。
 

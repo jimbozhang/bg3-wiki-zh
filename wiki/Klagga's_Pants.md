@@ -20,7 +20,7 @@
 
 ## 备注
 
-- 通常，[内衣](Camp_Clothing.md#Underwear "营地服装")无法常规拾取；队伍成员必须拾取穿着它的尸体才能拾取。然而，这件特定的内衣可以被拾取，因为它并未被携带它的角色装备/穿着。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 通常，[内衣](Camp_Clothing.md#Underwear "营地服装")无法常规拾取；队伍成员必须拾取穿着它的尸体才能拾取。然而，这件特定的内衣可以被拾取，因为它并未被携带它的角色装备/穿着。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Klagga's Pants](https://bg3.wiki/wiki/Klagga's_Pants)*

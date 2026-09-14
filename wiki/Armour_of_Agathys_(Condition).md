@@ -196,7 +196,7 @@
 
 - 受影响实体已被灵吸怪赋予临时生命值。如果这些生命值因受到的伤害而被移除，护盾会爆裂，可能使附近敌人 [震慑](Stunned_(Condition).md "震慑 (状态)")。
 - 护盾仅在所有临时生命值被移除后才会爆裂。这也会移除该状态。
-- 当护盾爆裂时，9 米（30 英尺）内的敌人会被 [震慑](Stunned_(Condition).md "震慑 (状态)") 1 回合，除非他们通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [智力](Intelligence.md "智力") [豁免检定](Saving_throw.md "豁免检定")。
+- 当护盾爆裂时，9 米（30 英尺）内的敌人会被 [震慑](Stunned_(Condition).md "震慑 (状态)") 1 回合，除非他们通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 15 [智力](Intelligence.md "智力") [豁免检定](Saving_throw.md "豁免检定")。
 
 [枯萎屏障](Withering_Barrier_(Condition).md "枯萎屏障 (状态)")
 |

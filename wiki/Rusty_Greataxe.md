@@ -32,7 +32,7 @@ _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**�
 劈砍目标的要害部位，使其[流血](Bleeding_(Condition).md "Bleeding (Condition)")。（充能：[短休](Short_rest.md "Short rest")。）
 
 [准备](Prepare.md "Prepare")
-消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[DRS](Damage_rider_as_source.md "Damage rider as source")伤害（最低 1 点）。（充能：[短休](Short_rest.md "Short rest")。）
+消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "Movement Speed")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "Physical")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害（最低 1 点）。（充能：[短休](Short_rest.md "Short rest")。）
 
 ---
 *Source: [Rusty Greataxe](https://bg3.wiki/wiki/Rusty_Greataxe)*

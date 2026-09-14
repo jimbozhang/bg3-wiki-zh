@@ -11,7 +11,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `INCAPACITATED_DND` [状态组](Status_groups.md "Status groups"): [SG_Incapacitated](SG_Incapacitated.md "SG Incapacitated"), [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠 ID](Stack_ID.md "Stack ID"): `INCAPACITATED_DND` [状态组](Status_groups.md "Status groups"): [失能 (状态组)](SG_Incapacitated.md "失能 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 ## 备注
 

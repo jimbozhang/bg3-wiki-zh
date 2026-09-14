@@ -10,7 +10,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组")：[SG_Incapacitated](SG_Incapacitated.md "SG Incapacitated")、[SG_Condition](SG_Condition.md "SG Condition")、[SG_Helpable_Condition](SG_Helpable_Condition.md "SG Helpable Condition")
+[状态组](Status_groups.md "状态组")：[失能 (状态组)](SG_Incapacitated.md "失能 (状态组)")、[SG 状态](SG_Condition.md "SG 状态")、[SG 可协助状态](SG_Helpable_Condition.md "SG 可协助状态")
 
 [更多属性](Status_properties.md "状态属性")：
 

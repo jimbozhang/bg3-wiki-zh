@@ -26,7 +26,7 @@ UID `MAG_PHB_OfLifestealing_Shortsword` UUID `2b5243b8-658e-4ff2-bccf-0f39e5c53f
 **此物品持有者获得：**
 
 [生命窃取重击](Life_Stealing_Critical.md "生命窃取重击")
-在[重击](Critical_Hit.md "重击")时，目标承受额外10⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害驱动源")伤害，只要它不是构装生物或不死生物。你还会获得10点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
+在[重击](Critical_Hit.md "重击")时，目标承受额外10⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，只要它不是构装生物或不死生物。你还会获得10点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 ### 武器动作
 

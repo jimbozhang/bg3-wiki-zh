@@ -29,7 +29,7 @@
 
 持续时间：10 回合
 
-- 目标在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素")伤害，除非他们成功通过[DC](Dice_rolls.md#Save_DCs "掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素")伤害，除非他们成功通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 区域：蛇毒
 
@@ -45,7 +45,7 @@
 
 **[蛇牙毒素](Serpent_Fang_Toxin_(Condition).md "蛇牙毒素 (状态)")**
 
-[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 13)
+[体质](Constitution.md "体质")[豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 13)
 
 - 受影响实体在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素")伤害。
 

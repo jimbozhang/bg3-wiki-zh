@@ -44,13 +44,13 @@
 
 - 受庇护术影响的生物可以使用多种动作和效果，这些会提前结束法术：
   - 命中或造成伤害的武器攻击
-- 自伤伤害\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 自伤伤害\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - [推击](Shove.md "推击")
-  - [投掷](Throw.md "投掷") – 这适用于任何物体，包括治疗药水\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+  - [投掷](Throw.md "投掷") – 这适用于任何物体，包括治疗药水\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
   - 由受庇护术影响的生物创造的地表或由地表施加的状态造成的伤害 – 无论地表何时被创造
   - 由受庇护术影响的生物施加的状态造成的伤害 – 无论状态何时被施加
-    - 这不包括状态不归因于受庇护术影响的生物的情况，例如[歌唱之剑：尖叫](Singing_Sword_colon__Shriek_(Condition).md "歌唱之剑：尖叫（状态）")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
-  - 针对敌人的[反应](Actions.md#Reactions "动作")，例如：\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+    - 这不包括状态不归因于受庇护术影响的生物的情况，例如[歌唱之剑：尖叫](Singing_Sword_colon__Shriek_(Condition).md "歌唱之剑：尖叫（状态）")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
+  - 针对敌人的[反应](Actions.md#Reactions "动作")，例如：\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
     - [法术反制](Counterspell.md "法术反制")
     - [借机攻击](Opportunity_Attack.md "借机攻击") – 仅当命中时
     - [语出惊人](Cutting_Words.md "语出惊人")
@@ -61,12 +61,12 @@
 - [雪雨暴](Sleet_Storm.md "雪雨暴") * [月华之光](Moonbeam.md "月华之光") 或 [移动月华之光](Move_Moonbeam.md "移动月华之光") – 无论是否造成伤害
   - [烈焰复仇](Flaming_Revenge.md "烈焰复仇") 或 [异能复仇](Psionic_Revenge.md "异能复仇")
   - [预兆骰子](Portent_Die.md "预兆骰子") 或 [扭曲幸运：属性检定减值](Bend_Luck_colon__Ability_Check_Penalty.md "扭曲幸运：属性检定减值")
-  - [造风术](Gust_of_Wind.md "造风术") 或 [繁彩球](Chromatic_Orb.md "繁彩球") – 假设未造成伤害\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+  - [造风术](Gust_of_Wind.md "造风术") 或 [繁彩球](Chromatic_Orb.md "繁彩球") – 假设未造成伤害\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - 庇护术的咒语是 _Mactē Virtutē_ ，拉丁语意为“以伟大的美德”。
 
 ## 错误
 
-- 受庇护术影响的生物仍然可以被[枯萎术](Blight.md "枯萎术")、[链状闪电](Chain_Lightning.md "链状闪电")和[荆棘之鞭](Thorn_Whip.md "荆棘之鞭")选为目标，因为这些法术缺少 `IsHarmful` 法术标志。出于同样的原因，大量[NPC](NPC.md "NPC")动作（例如[尖利岩石](Sharp_Rock.md "尖利岩石")）可以选中受庇护术影响的生物。
+- 受庇护术影响的生物仍然可以被[枯萎术](Blight.md "枯萎术")、[链状闪电](Chain_Lightning.md "链状闪电")和[荆棘之鞭](Thorn_Whip.md "荆棘之鞭")选为目标，因为这些法术缺少 `IsHarmful` 法术标志。出于同样的原因，大量[非玩家角色](NPC.md "非玩家角色")动作（例如[尖利岩石](Sharp_Rock.md "尖利岩石")）可以选中受庇护术影响的生物。
 
 ## 外部链接
 

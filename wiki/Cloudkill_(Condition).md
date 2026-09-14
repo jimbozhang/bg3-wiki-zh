@@ -8,7 +8,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG Surface"), [SG_Poisoned](SG_Poisoned.md "SG Poisoned")
+[状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG Surface"), [中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)")
 
 [更多属性](Status_properties.md "更多属性"):
 

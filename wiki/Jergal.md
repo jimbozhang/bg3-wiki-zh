@@ -38,8 +38,8 @@
 ## 相关文献
 
 - [A is for Azuth, and other Gods VI](A_is_for_Azuth,_and_other_Gods_VI.md "A is for Azuth, and other Gods VI")
-- [Crumbling Journal](Crumbling_Journal.md "Crumbling Journal")
-- [Death & Divinity: A Godly Guide](Death_&_Divinity_colon__A_Godly_Guide.md "Death & Divinity: A Godly Guide")
+- [破碎的日记](Crumbling_Journal.md "破碎的日记")
+- [死亡与神性：神祇指南](Death_&_Divinity_colon__A_Godly_Guide.md "死亡与神性：神祇指南")
 
 ## 相关地点
 
@@ -120,7 +120,7 @@
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) _[Death& Divinity: A Godly Guide](Death_&_Divinity_colon__A_Godly_Guide.md "Death & Divinity: A Godly Guide")_
+1. [↑](#cite_ref-1) _[死亡与神性：神祇指南](Death_&_Divinity_colon__A_Godly_Guide.md "死亡与神性：神祇指南")_
 
 ## 外部链接
 

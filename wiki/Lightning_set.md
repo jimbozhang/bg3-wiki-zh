@@ -2,10 +2,10 @@
 
 闪电套装是一套帮助使用者造成或抵抗 [闪电](Lightning.md "闪电") 伤害的装备。它与 [火花套装](Sparkstruck_set.md "火花套装") 和 [元素套装](Elemental_set.md "元素套装") 的物品有协同作用，这些套装在此不作重复。
 
-[Favoured Weapon](Favoured_Weapon.md "心仪武器")
+[心仪武器](Favoured_Weapon.md "心仪武器")
 此武器有 +1 伤害加值和 [攻击掷骰](Attack_roll.md "攻击掷骰") 加值。
 
-[Galvanic Currents](Galvanic_Currents.md "动电电流")
+[动电电流](Galvanic_Currents.md "动电电流")
 此武器造成额外 1d6 [闪电](Lightning.md "闪电") 伤害。
 
 - 此锤子的魔法效果仅在绑定至 [奥法骑士](Eldritch_Knight.md "奥法骑士") 或作为 [邪术师](Warlock.md "邪术师") 的 [魔契武器](Pact_Weapon.md "魔契武器") 时生效。这些效果是武器 +1 附魔的额外加成。

@@ -4,7 +4,7 @@
 
 - 平衡
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - **桶菇** 是一种在 [幽暗地域](Underdark.md "Underdark") 发现的蘑菇，大多无害。
 

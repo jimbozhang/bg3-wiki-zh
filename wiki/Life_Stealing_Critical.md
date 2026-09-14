@@ -4,7 +4,7 @@
 
 ## 描述
 
-在 [重击](Critical_Hit.md "重击") 时，只要目标不是构装生物或不死生物，就会受到额外的 10⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害来源") 伤害。你还会获得 10 点 [临时生命值](Temporary_Hit_Points.md "临时生命值")。
+在 [重击](Critical_Hit.md "重击") 时，只要目标不是构装生物或不死生物，就会受到额外的 10⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。你还会获得 10 点 [临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 只能拥有来自一个来源的临时生命值。
 

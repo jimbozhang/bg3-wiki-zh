@@ -1,6 +1,6 @@
 # 暗淡的饰物
 
-暗淡的饰物是一个[护符](Amulets.md "Amulets")，它能降低佩戴者的[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")的[DC](DC.md "DC")。
+暗淡的饰物是一个[护符](Amulets.md "Amulets")，它能降低佩戴者的[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")的[骰子掷骰](DC.md "骰子掷骰")。
 
 这件扭曲的饰物散发出令人不安的咯咯笑声。它低语着啃咬、跛足、杀戮……
 
@@ -32,7 +32,7 @@
 
 _关于妖精生命：_
 
-- 妖精生命将佩戴者的[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")的[DC](DC.md "DC")从 10 降低至 5。
+- 妖精生命将佩戴者的[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")的[骰子掷骰](DC.md "骰子掷骰")从 10 降低至 5。
 
 ---
 *Source: [Tarnished Charm](https://bg3.wiki/wiki/Tarnished_Charm)*

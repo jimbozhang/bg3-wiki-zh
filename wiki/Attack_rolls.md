@@ -43,7 +43,7 @@
 
 - 徒手攻击、近战武器攻击和投掷武器攻击通常增加攻击生物的[力量](Strength.md "力量")调整值。
 - 使用远程武器的攻击增加生物的[敏捷](Dexterity.md "敏捷")调整值。
-- 具有[灵巧](Finesse.md "灵巧")属性的武器攻击、[武僧](Monk.md "武僧")武器攻击以及具有[ martial_arts: dextrous_attacks](Martial_Arts_colon__Dextrous_Attacks.md " martial_arts: dextrous_attacks")的生物的徒手攻击，增加攻击者的力量或敏捷调整值中较高者。
+- 具有[灵巧](Finesse.md "灵巧")属性的武器攻击、[武僧](Monk.md "武僧")武器攻击以及具有[武术：灵巧攻击](Martial_Arts_colon__Dextrous_Attacks.md "武术：灵巧攻击")的生物的徒手攻击，增加攻击者的力量或敏捷调整值中较高者。
 - 法术攻击增加施法者的[施法关键属性调整值](Spells.md#Spellcasting "法术")，通常由其[职业](Class.md "职业")决定。
 
 法术攻击、徒手攻击以及攻击者熟练的武器攻击还会增加其[熟练项](Proficiency.md "熟练项")加值。某些攻击还会增加额外调整值：

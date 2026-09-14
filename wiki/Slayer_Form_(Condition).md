@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `WILDSHAPE` [状态组](Status_groups.md "状态组"): [SG_Polymorph](SG_Polymorph.md "SG Polymorph"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG DropForNonMutingDialog")
+[堆叠ID](Stack_ID.md "Stack ID"): `WILDSHAPE` [状态组](Status_groups.md "状态组"): [变形状态组 (Polymorphed (status group))](SG_Polymorph.md "变形状态组 (Polymorphed (status group))"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG DropForNonMutingDialog")
 
 ## 生物：杀戮者
 

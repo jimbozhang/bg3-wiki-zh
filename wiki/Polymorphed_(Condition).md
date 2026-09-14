@@ -21,7 +21,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `POLYMORPH` [状态组](Status_groups.md "状态组"): [SG_Polymorph](SG_Polymorph.md "SG Polymorph")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `POLYMORPH` [状态组](Status_groups.md "状态组"): [变形状态组 (Polymorphed (status group))](SG_Polymorph.md "变形状态组 (Polymorphed (status group))")
 
 ## 生物：绵羊
 

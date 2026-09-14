@@ -29,7 +29,7 @@ UID `WPN_GOB_PainPriest_Scourge` UUID `b1dc33ba-c595-4036-9683-26635f297e44` Sta
 **持有此物品获得：**
 
 [意志之鞭](Willing_Whip.md "意志之鞭")
-赋予对 ⁠[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括持有者）造成额外 1d6 ⁠⁠[黯蚀](Necrotic.md "黯蚀")[DRS](Damage_rider_as_source.md "伤害驱动源") 伤害。
+赋予对 ⁠[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括持有者）造成额外 1d6 ⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。
 
 ### 武器动作
 

@@ -6,7 +6,7 @@
 
 - 平衡
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - **警报机械**是一种独特的装置，其功能类似于[陷阱](Trap.md "陷阱")，在游戏的[第三章](Act_Three.md "第三章")中，于[清账屋](Counting_House.md "清账屋")及其码头遭遇。
 

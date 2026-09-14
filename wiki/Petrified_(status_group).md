@@ -20,7 +20,7 @@
 - 被困在蜘蛛网中。无法移动或进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。
 - 被茧缚时，受影响实体对所有伤害具有[抗性](Resistance.md "抗性")。
 - 此外，其在[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")，并自动在[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上失败。
-- 此状态在受到伤害时结束，或当实体成功通过[DC](Dice_rolls.md#Save_DCs "骰子投掷") 12的[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")时结束。
+- 此状态在受到伤害时结束，或当实体成功通过[掷骰](Dice_rolls.md#Save_DCs "骰子投掷") 12的[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")时结束。
 
 [霍慈的烈酒：石化](Hoots'_Hooch_colon__Stoned_(Condition).md "霍慈的烈酒：石化 (状态)")
 |

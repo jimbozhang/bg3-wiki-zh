@@ -1,4 +1,4 @@
-For the equipment type, see [Greatswords](Greatswords.md "Greatswords").
+For the equipment type, see [巨剑](Greatswords.md "巨剑").
 
 **巨剑**是[巨剑](Greatswords.md "巨剑")武器家族的常见变体。
 

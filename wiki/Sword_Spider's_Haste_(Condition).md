@@ -14,7 +14,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `HASTE` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG 地表"), [SG_Condition](SG_Condition.md "SG 状态")
+[堆叠ID](Stack_ID.md "堆叠ID"): `HASTE` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG 地表"), [SG 状态](SG_Condition.md "SG 状态")
 
 [堆叠优先级](Stack_priority.md "堆叠优先级"): 10
 

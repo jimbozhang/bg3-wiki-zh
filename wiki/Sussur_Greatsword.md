@@ -23,7 +23,7 @@ UID `QUEST_FOR_SussurGreatsword` UUID `44dedec0-df82-4ed3-b9ca-147bd830e312` Sta
 
 **持有此物品获得：**
 
-- 命中时，若目标未通过 [DC](Dice_rolls.md#Save_DCs "掷骰") 12 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，则使其[沉默](Silenced_(Condition).md "沉默（状态）")。
+- 命中时，若目标未通过 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，则使其[沉默](Silenced_(Condition).md "沉默（状态）")。
 
 ### 武器动作
 
@@ -44,7 +44,7 @@ _若你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可获
 
 持续时间：2 驱散
 
-[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 12)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 12)
 
 - 生物无法说话或施放带有言语成分的法术，且免疫 ⁠[雷鸣](Thunder.md "雷鸣") 伤害。
 

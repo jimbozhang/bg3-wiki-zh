@@ -1,6 +1,6 @@
 # 帮助护符之灵
 
-[Monk's Manifestation](Monk's_Manifestation.md "Monk's Manifestation")
+[武僧灵体](Monk's_Manifestation.md "武僧灵体")
 
 **帮助护符之灵**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中[第一幕](Act_One.md "第一幕")获得的[任务](Quest.md "任务")。它可以在[复仇之炉](Grymforge.md "复仇之炉")通过阅读[暗夜法官日志](Dark_Justiciar's_Journal.md "暗夜法官日志")或拾取[感知护符](Sentient_Amulet.md "感知护符")来启动。该任务无法在游戏[第三幕](Act_Three.md "第三幕")之前完成。
 

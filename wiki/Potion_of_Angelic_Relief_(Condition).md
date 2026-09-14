@@ -9,7 +9,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `SLEEP` [状态组](Status_groups.md "Status groups"): [SG_Unconscious](SG_Unconscious.md "SG Unconscious"), [SG_Condition](SG_Condition.md "SG Condition"), [SG_Sleeping](SG_Sleeping.md "SG Sleeping")
+[堆叠 ID](Stack_ID.md "Stack ID"): `SLEEP` [状态组](Status_groups.md "Status groups"): [昏迷 (状态组)](SG_Unconscious.md "昏迷 (状态组)"), [SG 状态](SG_Condition.md "SG 状态"), [SG 睡眠](SG_Sleeping.md "SG 睡眠")
 
 [更多属性](Status_properties.md "Status properties"):
 

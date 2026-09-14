@@ -61,7 +61,7 @@
 ## 注释
 
 - 树精的默认攻击造成3d6+1⁠⁠[钝击](Bludgeoning.md "钝击")伤害。
-- 除了[森林之握](Grasp_of_the_Forest.md "森林之握")外，默认攻击和[强化橡棍术](Strengthened_Shillelagh.md "强化橡棍术")还有另一个被动效果，可以使目标[缠绕](Entangled_(Condition).md "缠绕（状态）")。它没有特定名称，战斗日志中的豁免显示为_对抗主手攻击_。它使用[DC](Dice_rolls.md#Save_DCs "掷骰") 13 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")。
+- 除了[森林之握](Grasp_of_the_Forest.md "森林之握")外，默认攻击和[强化橡棍术](Strengthened_Shillelagh.md "强化橡棍术")还有另一个被动效果，可以使目标[缠绕](Entangled_(Condition).md "缠绕（状态）")。它没有特定名称，战斗日志中的豁免显示为_对抗主手攻击_。它使用[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")。
 - 如果溅出，树精的血液会在地面上变成[扭曲的藤蔓](Twisting_Vines.md "扭曲的藤蔓")。
 
 ## 画廊

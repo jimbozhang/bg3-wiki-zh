@@ -1,6 +1,6 @@
 # 青铜戒指
 
-A **Bronze Ring** describes a variety of common [Ring](Rings.md "Rings"), primarily of value for use in trading or bartering with vendors.
+A **Bronze Ring** describes a variety of common [戒指](Rings.md "戒指"), primarily of value for use in trading or bartering with vendors.
 
 一枚镶嵌紫色宝石的青铜戒指，由一双稳健而熟练的手打造而成。
 
@@ -20,7 +20,7 @@ A **Bronze Ring** describes a variety of common [Ring](Rings.md "Rings"), primar
 
 # 变体
 
-A **Bronze Ring** describes a variety of common [Ring](Rings.md "Rings"), primarily of value for use in trading or bartering with vendors.
+A **Bronze Ring** describes a variety of common [戒指](Rings.md "戒指"), primarily of value for use in trading or bartering with vendors.
 
 一枚廉价的戒指，仅装饰着一颗硕大的绿色玛瑙。
 

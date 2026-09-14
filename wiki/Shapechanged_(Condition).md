@@ -8,7 +8,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_Polymorph](SG_Polymorph.md "SG Polymorph"), [SG_WeaponCoating](SG_WeaponCoating.md "SG WeaponCoating"), [SG_Doppelganger](SG_Doppelganger.md "SG Doppelganger")
+[状态组](Status_groups.md "状态组"): [变形状态组 (Polymorphed (status group))](SG_Polymorph.md "变形状态组 (Polymorphed (status group))"), [SG 武器涂抹](SG_WeaponCoating.md "SG 武器涂抹"), [SG 变形怪](SG_Doppelganger.md "SG 变形怪")
 
 [更多属性](Status_properties.md "状态属性"):
 

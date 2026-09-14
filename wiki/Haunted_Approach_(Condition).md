@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_OSKARSBELOVED_SKULL_SLOW` [状态组](Status_groups.md "状态组"): [SG_DifficultTerrain](SG_DifficultTerrain.md "SG DifficultTerrain")
+[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_OSKARSBELOVED_SKULL_SLOW` [状态组](Status_groups.md "状态组"): [劣势地形 (状态组)](SG_DifficultTerrain.md "劣势地形 (状态组)")
 
 [若已应用](Conditions.md#Stack_type "状态"): 不应用
 

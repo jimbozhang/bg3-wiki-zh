@@ -11,9 +11,9 @@
 | 先攻 | +1 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **幼年油脂魔蝠**是较小、较年轻的[油脂魔蝠](Grease_Mephit.md "油脂魔蝠")，当该魔蝠在油脂地表上使用[召唤魔蝠（油脂）](Summon_Mephit_(Grease).md "召唤魔蝠（油脂）")时产生。
 

@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 范围：18米（60英尺）
 充能：每回合
 
@@ -27,7 +27,7 @@
 
 持续时间：10回合
 
-[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
 - 受影响实体按照附身幽魂的意志行动，并每回合受到4d8点[黯蚀](Necrotic.md "黯蚀")伤害，直到其死亡或被[驱散](Turned_(Condition).md "驱散 (状态)")。
 

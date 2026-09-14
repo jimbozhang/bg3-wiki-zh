@@ -368,7 +368,7 @@
 
 ### 吸血鬼至尊
 
-[吸血鬼至尊](Vampire_Ascendant.md "Vampire Ascendant") - [阿斯代伦](Astarion.md "Astarion")获得职业动作[至尊噬咬](Ascendant_Bite.md "Ascendant Bite")和[雾遁（吸血鬼至尊）](Misty_Escape_(Vampire_Ascendant).md "Misty Escape (Vampire Ascendant)")，以及武器和徒手攻击额外的[1d10](Necrotic.md "Necrotic")黯蚀伤害。
+[吸血鬼至尊](Vampire_Ascendant.md "Vampire Ascendant") - [阿斯代伦](Astarion.md "Astarion")获得职业动作[至尊噬咬](Ascendant_Bite.md "Ascendant Bite")和[雾遁（吸血鬼至尊）](Misty_Escape_(Vampire_Ascendant).md "Misty Escape (Vampire Ascendant)")，以及武器和徒手攻击额外的[黯蚀](Necrotic.md "黯蚀")黯蚀伤害。
 
 #### 解锁方式
 

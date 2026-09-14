@@ -4,9 +4,9 @@
 | --- | --- |
 | 身份 | Male |
 | 配音 | - [Adam Diggle](https://www.imdb.com/name/nm7920962/) |
-| 体型 | [Small](Small.md "Small") |
-| 类型 | [Humanoid](Humanoid.md "Humanoid") |
-| 种族 | [Gnome](Gnome.md "Gnome") |
+| 体型 | [生物体型](Small.md "生物体型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [侏儒](Gnome.md "侏儒") |
 | 等级 | 1 |
 | 生命值 | 8 |
 | 护甲等级 | 10 |

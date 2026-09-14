@@ -11,7 +11,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`POISON_MALICE_CONDITION` [状态组](Status_groups.md "状态组")：[SG_Blinded](SG_Blinded.md "SG Blinded")、[SG_Condition](SG_Condition.md "SG Condition")、[SG_Poisoned](SG_Poisoned.md "SG Poisoned")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`POISON_MALICE_CONDITION` [状态组](Status_groups.md "状态组")：[目盲 (状态组)](SG_Blinded.md "目盲 (状态组)")、[SG 状态](SG_Condition.md "SG 状态")、[中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合结束
 

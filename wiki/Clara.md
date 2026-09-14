@@ -30,11 +30,11 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **克拉拉**是[雷文镇](Reithwin.md "雷文镇")在[第二幕](Act_Two.md "第二幕")期间的一名[不死护士](Undead_Nurse.md "不死护士")。
 

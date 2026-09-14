@@ -31,7 +31,7 @@
 
 - 6d6 (6~36) ⁠[火焰](Fire.md "火焰")
 
-伤害（[DC](Dice_rolls.md#Save_DCs "掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 以减半）
+伤害（[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 以减半）
 
   - 被爆炸波及的目标会被击退 3 米 (10 英尺)（无豁免检定）
 

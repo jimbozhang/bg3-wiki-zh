@@ -43,7 +43,7 @@
 
 抱歉回复这么长，但我想尽可能详细。
 
-[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月20日 21:46 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240720194600-Kelpto-20240720142000)回复
+[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月20日 21:46 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240720194600-Kelpto-20240720142000)回复
 
 谢谢你的回复。我不同意重新授权我的内容。
 [Kelpto](https://bg3.wiki/w/index.php?title=User:Kelpto&action=edit&redlink=1 "User:Kelpto (page does not exist)") ([讨论](https://bg3.wiki/w/index.php?title=User_talk:Kelpto&action=edit&redlink=1 "User talk:Kelpto (page does not exist)")) [2024年8月22日 21:14 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Kelpto-20240822191400-Taylan-20240720194600)回复
@@ -86,7 +86,7 @@ _"否则，不，“我从来不知道广告能赚这么多钱”是一个糟糕
 
 正如我提到的，我这么做只是因为我将能够向过去的贡献者支付可观的报酬。每个真正创建了维基并以其他方式提供帮助的人都会受益。
 
-[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月21日 12:40 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240721104000-98.199.7.246-20240720234200)回复
+[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月21日 12:40 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240721104000-98.199.7.246-20240720234200)回复
 
 重点不是捐款会被退还，重点是你不需要投放广告来覆盖托管这个维基的成本。这些成本已经被捐款覆盖了。你已经非常清楚地表明，你想在这个维基上放广告的唯一原因是你显然能从中赚很多钱。我坚持认为这是一个糟糕（且极其不现实）的理由来违背你多年前做出的保持维基无广告的承诺：
 <https://forums.beamdog.com/discussion/86980/baldurs-gate-3-wiki>
@@ -103,7 +103,7 @@ _"否则，不，“我从来不知道广告能赚这么多钱”是一个糟糕
 如果Larian对雇佣你不感兴趣，那么，也只有到那时，你才应该开始考虑在这个维基上投放广告来支持自己的财务，并且只在找到实际工作之前这样做。你绝对不应该试图把托管这个维基变成你的职业。这是一个糟糕且不可持续的想法。
 在这件事解决之前，我不会再登录我的账户或为这个维基做任何贡献。[98.199.7.246](Special_colon_Contributions/98.199.7.246.md "Special:Contributions/98.199.7.246") [2024年7月25日 06:23 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-98.199.7.246-20240725042300-Taylan-20240721104000)回复
 
-这有点长，问了太多细节问题（更不用说语气很不对），但很快会有另一个公告，可能会回答其中一些问题。[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 10:46 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729084600-98.199.7.246-20240725042300)回复
+这有点长，问了太多细节问题（更不用说语气很不对），但很快会有另一个公告，可能会回答其中一些问题。[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 10:46 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729084600-98.199.7.246-20240725042300)回复
 
 ## 同意
 
@@ -121,7 +121,7 @@ _"否则，不，“我从来不知道广告能赚这么多钱”是一个糟糕
 
 我建议你不要走这条黑暗的道路，否则，就像fextralife维基一样，你会被取代。[91.184.167.72](Special_colon_Contributions/91.184.167.72.md "Special:Contributions/91.184.167.72") [2024年7月24日 09:53 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-91.184.167.72-20240724075300-Let_the_enshittification_begin)回复
 
-当我赚钱时： <https://vignette.wikia.nocookie.net/starwars/images/7/7f/Emperor_Palpatine_TNsR.jpg> [Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月24日 17:16 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240724151600-91.184.167.72-20240724075300)回复
+当我赚钱时： <https://vignette.wikia.nocookie.net/starwars/images/7/7f/Emperor_Palpatine_TNsR.jpg> [笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月24日 17:16 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240724151600-91.184.167.72-20240724075300)回复
 
 这感觉非常轻视了发帖者非常合理的担忧。[Schism](User_colon_Schism.md "User:Schism") ([讨论](User_talk_colon_Schism.md "User talk:Schism")) [2024年7月29日 07:39 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Schism-20240729053900-Taylan-20240724151600)回复
 
@@ -131,12 +131,12 @@ _"否则，不，“我从来不知道广告能赚这么多钱”是一个糟糕
 
 如果我贪婪的话，我会这样做：在网站上贴满广告，每月轻松赚取数万美元（是的，查看Google AdSense收入计算器；该网站每月有4000万次页面浏览，计算器在1000万次时就封顶了），然后我就把所有钱都装进口袋。从表面上看，这完全合法（其他BY-NC-SA维基也这么做），而且新的维基需要很长时间才能获得更高的谷歌排名，所以我将变得非常富有。但我不会这么做，相反，我一直在为如何公平地支付全球这么多贡献水平和类型都大不相同的人而苦恼。
 
-抱歉，这有点像在发牢骚。当你尽力坚持原则，并真诚地确保每个人都得到公平对待时，有些人仍然用指责来攻击你，这真的很令人沮丧，你知道吗？我很乐意回应那些真正做出贡献并有真正担忧的人。希望这听起来不要太刻薄。[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 09:40 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729074000-Schism-20240729053900)回复
+抱歉，这有点像在发牢骚。当你尽力坚持原则，并真诚地确保每个人都得到公平对待时，有些人仍然用指责来攻击你，这真的很令人沮丧，你知道吗？我很乐意回应那些真正做出贡献并有真正担忧的人。希望这听起来不要太刻薄。[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 09:40 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729074000-Schism-20240729053900)回复
 
 当你用发布一个表情包来反驳它，而没有真正试图缓解他们的担忧时，这是一个完全合理的担忧。这只会增加他们的担忧。你内心可以这么想，但这并不能让人信服。他们说的和其他大多数人说的都一样，只是方式更礼貌。
 在我们做的那个你回答了我一些担忧的帖子里，你说你一直像一个高级专业人士一样运营这个网站，而这种行为直接与你的话相矛盾，让你说的话不那么可靠。无论是否是指责，你都在暗示你想把这个网站变成你的全职工作，而当你这么说的那一刻，你就为自己设定了一个标准，而那一次回应并没有让我们对此感觉良好。一个“高级”专业人士不会用表情包来回应批评，无论正确与否。[Schism](User_colon_Schism.md "User:Schism") ([讨论](User_talk_colon_Schism.md "User talk:Schism")) [2024年7月29日 17:15 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Schism-20240729151500-Taylan-20240729074000)回复
 
-抱歉，专业系统管理员并不意味着专业公关。我真的不知道该如何回应一个只是向我扔指责、说话好像维基要完蛋了的人，而你只需要创建一个账户或使用广告拦截器，维基看起来基本上和以前一模一样。（给安卓用户的提示：安卓版Firefox支持uBlock Origin。）[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 17:56 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729155600-Schism-20240729151500)回复
+抱歉，专业系统管理员并不意味着专业公关。我真的不知道该如何回应一个只是向我扔指责、说话好像维基要完蛋了的人，而你只需要创建一个账户或使用广告拦截器，维基看起来基本上和以前一模一样。（给安卓用户的提示：安卓版Firefox支持uBlock Origin。）[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 17:56 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729155600-Schism-20240729151500)回复
 
 问题就在这里。你本可以像那样直截了当地回答，而不是表现得如此轻蔑，让自己看起来比对方更糟糕。
 在这一点上，这与其说是“道德”问题，不如说是形象问题。如果你想让人们同意这件事，你就不能降低到你认为不讲道理的人的水平。不讲道理 + 不讲道理 ≠ 不讲道理 [Schism](User_colon_Schism.md "User:Schism") ([讨论](User_talk_colon_Schism.md "User talk:Schism")) [2024年7月30日 00:19 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Schism-20240729221900-Taylan-20240729155600)回复
@@ -147,12 +147,12 @@ _"否则，不，“我从来不知道广告能赚这么多钱”是一个糟糕
 
 你最新的更新说你不会立即删除被要求删除的内容，我猜这意味着你将从贡献者明确不希望货币化的内容中赚钱。这非常令人不安，并为维基的未来树立了一个可怕的先例。为什么从广告中赚钱比贡献者不参与你货币化计划的愿望更重要？你计划将这些内容保留多久？一天？一周？一年？？？根据你打算保留的时间，你可能从明确要求删除的内容中通过广告赚到的钱比你支付给贡献者的还要多。[181.215.169.201](Special_colon_Contributions/181.215.169.201.md "Special:Contributions/181.215.169.201") [2024年7月24日 16:07 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-181.215.169.201-20240724140700-Disappointed_and_alarmed)回复
 
-你是维基的贡献者吗？如果不是，请停止这种恐慌的危言耸听。内容不会被匆忙大量删除，因为这可能会损害维基上信息的完整性。如果你是贡献者并有担忧，我很乐意倾听。[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月24日 17:33 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240724153300-181.215.169.201-20240724140700)回复
+你是维基的贡献者吗？如果不是，请停止这种恐慌的危言耸听。内容不会被匆忙大量删除，因为这可能会损害维基上信息的完整性。如果你是贡献者并有担忧，我很乐意倾听。[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月24日 17:33 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240724153300-181.215.169.201-20240724140700)回复
 
 再说一遍，多久？无论我是不是贡献者，你到目前为止都如此开放和透明，为什么在这方面不呢？
 那些不希望被货币化的工作成果，在货币化上线期间会被保留吗？为什么你要剥夺他们的选择权，在他们的内容被删除时，内容是他们制作的，而你却想从中赚钱？[181.215.169.201](Special_colon_Contributions/181.215.169.201.md "Special:Contributions/181.215.169.201") [2024年7月24日 18:39 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-181.215.169.201-20240724163900-Taylan-20240724153300)回复
 
-如果一个真正为维基做出贡献的人问我这个问题，他们有权得到回应。你没有。你只是表现得像个喷子。答案将取决于他们贡献的数量和性质，以及其他一些因素，这就是为什么不可能提供一个笼统的声明。如果你有更多问题，请_礼貌地_提问，我很乐意回答。否则，我将不得不忽略你。[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月24日 20:20 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240724182000-181.215.169.201-20240724163900)回复
+如果一个真正为维基做出贡献的人问我这个问题，他们有权得到回应。你没有。你只是表现得像个喷子。答案将取决于他们贡献的数量和性质，以及其他一些因素，这就是为什么不可能提供一个笼统的声明。如果你有更多问题，请_礼貌地_提问，我很乐意回答。否则，我将不得不忽略你。[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月24日 20:20 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240724182000-181.215.169.201-20240724163900)回复
 
 我认为将维基货币化是个坏主意。你显然已经下定决心了，所以我就不费心重提其他人提出的观点了。我不同意重新授权我的贡献，并且已经删除了我唯一值得注意的贡献。[Paradoxiii](User_colon_Paradoxiii.md "User:Paradoxiii") ([讨论](https://bg3.wiki/w/index.php?title=User_talk:Paradoxiii&action=edit&redlink=1 "User talk:Paradoxiii (page does not exist)")) [2024年7月26日 21:06 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Paradoxiii-20240726190600-Disappointed_and_alarmed)回复
 
@@ -166,7 +166,7 @@ _"否则，不，“我从来不知道广告能赚这么多钱”是一个糟糕
 
 不，这不是关于托管费用。与广告可能带来的收入相比，这些费用非常小。主要是关于1. 我今后将全职从事维基工作，并为此获得适当的薪水，以及2. 为过去做出贡献的人提供公平的补偿，因为如果没有他们，维基就不会有今天的成就。
 
-我们通过Ko-Fi捐款来支付2024年的托管费用，并且已经早就达到了目标，因为12个月的费用只有600美元。如果这个目标实现，这些钱将被退还。有些人可能会惊讶地听说维基每月只需50美元，就能为数百万人提供良好的性能。其他维基管理员告诉我这“非常令人印象深刻”。我认为我倾向于低估自己的工作价值。我一直在以相当高级的专业水平运营这个网站，但没有要求任何回报，因为归根结底这仍然是一项社区努力。能够全职做这件事真的会很好。我将改进MediaWiki扩展程序，在Debian上更新Nginx模块，编写详细的技术文档等等，因此整个MediaWiki社区也将从这些事情中受益。[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 10:41 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729084100-Schism-20240729054200)回复
+我们通过Ko-Fi捐款来支付2024年的托管费用，并且已经早就达到了目标，因为12个月的费用只有600美元。如果这个目标实现，这些钱将被退还。有些人可能会惊讶地听说维基每月只需50美元，就能为数百万人提供良好的性能。其他维基管理员告诉我这“非常令人印象深刻”。我认为我倾向于低估自己的工作价值。我一直在以相当高级的专业水平运营这个网站，但没有要求任何回报，因为归根结底这仍然是一项社区努力。能够全职做这件事真的会很好。我将改进MediaWiki扩展程序，在Debian上更新Nginx模块，编写详细的技术文档等等，因此整个MediaWiki社区也将从这些事情中受益。[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 10:41 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729084100-Schism-20240729054200)回复
 
 你一边说低估了自己的工作，一边又暗示要从别人的工作中赚钱（这正是社区维基的全部意义所在）。这正是人们讨厌Fextralife而喜欢这个地方的原因——它感觉像是一个真正合适的地方，由人民为人民打造。
 它从广告开始，但然后呢？之后会发生什么，没有通知，没有投票？我们无法保证它会止步于此。你想让你的全职工作就是这个维基，而90%的内容是由志愿者贡献者提供的（可能有点夸张，但我怀疑没夸张多少。大部分仍然是社区志愿工作）。
@@ -179,7 +179,7 @@ _"否则，不，“我从来不知道广告能赚这么多钱”是一个糟糕
 
 将有超过100人会用赚来的钱获得报酬。包括你。（但可能不会太多，因为这取决于活跃度。）这些人中的大多数甚至不再活跃了。在接下来的几个月里，看起来我将不得不联系那些我已不再有联系的人，只是为了把钱扔给他们，纯粹是因为我试图公平地做这件事。计划中大约60%的钱将被重新分配，甚至可能更多；我只是需要确保我能支付业务开支，有一份不错的薪水，剩下的就给社区。（我正在写一份包含这些细节的新公告，但忘了大多数人都还不知道。）
 
-我的建议是：由于维基上的所有内容都根据CC许可授权，它实际上可以全部复制到另一个域名，而没有任何法律问题。如果维基真的像你担心的那样走下坡路，你可以直接这么做。一旦我开始全职从事维基工作，我甚至会让其他人更容易做到这一点，因为我会编写大量文档并将整个配置公开上传，因为我非常支持自由软件原则。我一直想这么做，只是没有时间。[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 18:17 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729161700-Schism-20240729145800)回复
+我的建议是：由于维基上的所有内容都根据CC许可授权，它实际上可以全部复制到另一个域名，而没有任何法律问题。如果维基真的像你担心的那样走下坡路，你可以直接这么做。一旦我开始全职从事维基工作，我甚至会让其他人更容易做到这一点，因为我会编写大量文档并将整个配置公开上传，因为我非常支持自由软件原则。我一直想这么做，只是没有时间。[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月29日 18:17 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240729161700-Schism-20240729145800)回复
 
 你忽略了这里最大的问题。因为你首先用广告打破了信任，我们绝对无法相信你真的会这么做，直到它发生。我们无法相信你所说的，在这个网站的剩余寿命里，广告将能够通过拥有账户来规避，你不会试图规避广告拦截器等等。
 如果它真的像我担心的那样走下坡路，那很可能会发生。我希望不会，但我现在无法相信你的话。我们拭目以待。
@@ -213,7 +213,7 @@ _"否则，不，“我从来不知道广告能赚这么多钱”是一个糟糕
 
 关于网站是否会保持干净的怀疑：当然，我理解。如果你不太了解我，从你的角度来看，这可能是有道理的。我不知道我是否能做些什么来说服人们？我的魅力值最多也就是平均水平，而且我可能甚至没有游说熟练项，所以我只能说等等看吧。
 
-抱歉，这变成了一大段文字……但我真的很在意人们的看法。[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月30日 17:04 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240730150400-163.53.145.5-20240730125000)回复
+抱歉，这变成了一大段文字……但我真的很在意人们的看法。[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年7月30日 17:04 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20240730150400-163.53.145.5-20240730125000)回复
 
 我要说的是，我不认为Reddit的点赞数是一个可靠的衡量标准，因为Reddit不会向你显示帖子或评论获得的点踩数量，除非回复是压倒性的负面。Reddit这样做是为了过滤机器人，并防止它们知道自己被影子禁言了。真实的总数因此被模糊了。基本上，它们是故意不可靠的。
 我会把我的主要论点留在这里，因为我已经说完了我的观点，我可能会限制我的回应，只回答问题和提供其他信息，而不是意见，但有一件事我要称赞你，那就是为我们所有人提供了一个讨论此事的空间。我会密切关注事情的发展，看看这个分配会如何进行。如果你信守诺言，支付贡献者的报酬（甚至不是我，我不太在意，至少顶级贡献者能拿到报酬），那么会恢复一些信任，但不幸的是，由于这种情况，永远不会再有100%的信任了，我觉得这是需要记住的一点。[Schism](User_colon_Schism.md "User:Schism") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年8月1日 04:57 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Schism-20240801025700-Taylan-20240730150400)回复
@@ -230,7 +230,7 @@ _"否则，不，“我从来不知道广告能赚这么多钱”是一个糟糕
 嗨。是的，当然合法。:-)
 标准免责声明：我不是律师，不能给你法律建议。
 考虑一下所有使用截图、图标、游戏画面等的维基、新闻网站、博客、YouTube视频等，这些不仅来自电子游戏，还来自电影、电视连续剧、漫画和其他此类媒体。我的理解是，“合理使用”涵盖了所有这些。
-关于维基上的广告，bg3.wiki现在所做的与Fandom、Wiki.gg、Fextralife和其他人一直以来所做的完全相同。这个维基只是一个独立的维基，而不是像其他那样的维基农场，因为它最初是一个非营利的业余项目。（而且我认为我更注重确保质量，尽管Wiki.gg在这方面似乎也不错。）[Taylan](User_colon_Taylan.md "User:Taylan") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年10月10日 12:07 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20241010100700-93.236.205.159-20241010070800)回复
+关于维基上的广告，bg3.wiki现在所做的与Fandom、Wiki.gg、Fextralife和其他人一直以来所做的完全相同。这个维基只是一个独立的维基，而不是像其他那样的维基农场，因为它最初是一个非营利的业余项目。（而且我认为我更注重确保质量，尽管Wiki.gg在这方面似乎也不错。）[笔记、草稿、测试等如下](User_colon_Taylan.md "笔记、草稿、测试等如下") ([讨论](User_talk_colon_Taylan.md "User talk:Taylan")) [2024年10月10日 12:07 (CEST)](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1#c-Taylan-20241010100700-93.236.205.159-20241010070800)回复
 
 ---
 *Source: [bg3wiki talk:Ads Announcement 1](https://bg3.wiki/wiki/bg3wiki_talk:Ads_Announcement_1)*

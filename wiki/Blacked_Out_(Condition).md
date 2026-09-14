@@ -12,7 +12,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "Stack ID"): `TWN_DISTILLERY_DRUNK_STATUS` [状态组](Status_groups.md "状态组"): [SG_Prone](SG_Prone.md "SG 倒伏"), [SG_Condition](SG_Condition.md "SG 状态"), [SG_Unconscious](SG_Unconscious.md "SG 昏迷"), [SG_Drunk](SG_Drunk.md "SG 醉酒")
+[堆叠ID](Stack_ID.md "Stack ID"): `TWN_DISTILLERY_DRUNK_STATUS` [状态组](Status_groups.md "状态组"): [倒伏 (状态组)](SG_Prone.md "倒伏 (状态组)"), [SG 状态](SG_Condition.md "SG 状态"), [昏迷 (状态组)](SG_Unconscious.md "昏迷 (状态组)"), [SG 醉酒](SG_Drunk.md "SG 醉酒")
 
 [堆叠优先级](Stack_priority.md "堆叠优先级"): 3
 

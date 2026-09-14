@@ -12,7 +12,7 @@
 - 价格：1 金币
 - UID `BGO_Cabbage_Spoiled` UUID `c8c45a00-9ad5-4f93-809c-3fd36a28d7ec` ## 获取地点
 
-在[下城区](Lower City.md "下城区")的卷心菜商贩[Loryss](Loryss.md "Loryss")旁边找到。
+在[下城区](Lower City.md "下城区")的卷心菜商贩[罗莱斯](Loryss.md "罗莱斯")旁边找到。
 
 ---
 *Source: [Spoiled Cabbage](https://bg3.wiki/wiki/Spoiled_Cabbage)*

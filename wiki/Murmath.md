@@ -44,11 +44,11 @@
 - [日照敏感](Sunlight_Sensitivity.md "Sunlight Sensitivity")
 - [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -76,7 +76,7 @@
 
 ### 第一幕
 
-穆马斯可以在复仇之炉入口附近遇到，坐标 X: -626 Y: 373，周围是[卓尔](Drow.md "Drow")尸体，其中包括[Jhaam](Jhaam.md "Jhaam")，以及几只[蜘蛛](Spider.md "Spider")。
+穆马斯可以在复仇之炉入口附近遇到，坐标 X: -626 Y: 373，周围是[卓尔](Drow.md "Drow")尸体，其中包括[嘉姆](Jhaam.md "嘉姆")，以及几只[蜘蛛](Spider.md "Spider")。
 
 ## 战斗
 

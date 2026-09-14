@@ -118,12 +118,12 @@
 
 ### 盟友
 
-- [G'imre](G'imre.md "G'imre")
-- [Lir'i'c](Lir'i'c.md "Lir'i'c")
+- [吉姆雷](G'imre.md "吉姆雷")
+- [里'瑞克](Lir'i'c.md "里'瑞克")
 - [M'i'hayk](M'i'hayk.md "M'i'hayk")
-- [Mir'ic](Mir'ic.md "Mir'ic")
-- [Sh'ari](Sh'ari.md "Sh'ari")
-- [Verik](Verik.md "Verik")
+- [米尔里克 (Mir'ic)](Mir'ic.md "米尔里克 (Mir'ic)")
+- [莎莉](Sh'ari.md "莎莉")
+- [维里克](Verik.md "维里克")
 
 ---
 *Source: [K'i'lar](https://bg3.wiki/wiki/K'i'lar)*

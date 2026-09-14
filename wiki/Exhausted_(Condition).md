@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `EXHAUSTED` [状态组](Status_groups.md "状态组"): [SG_Exhausted](SG_Exhausted.md "SG Exhausted"), [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠ID](Stack_ID.md "堆叠ID"): `EXHAUSTED` [状态组](Status_groups.md "状态组"): [SG 力竭](SG_Exhausted.md "SG 力竭"), [SG 状态](SG_Condition.md "SG 状态")
 
 ## 力竭的来源
 

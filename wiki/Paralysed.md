@@ -11,7 +11,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组")：[SG_Incapacitated](SG_Incapacitated.md "SG Incapacitated")、[SG_Condition](SG_Condition.md "SG Condition")、[SG_Paralyzed](SG_Paralyzed.md "SG Paralyzed")
+[状态组](Status_groups.md "状态组")：[失能 (状态组)](SG_Incapacitated.md "失能 (状态组)")、[SG 状态](SG_Condition.md "SG 状态")、[SG 麻痹](SG_Paralyzed.md "SG 麻痹")
 
 [更多属性](Status_properties.md "状态属性")：
 

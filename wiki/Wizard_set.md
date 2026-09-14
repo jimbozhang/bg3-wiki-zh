@@ -1,8 +1,8 @@
 # 法师套装
 
-The **Wizard set** includes items that interact with [Wizard](Wizard.md "Wizard") mechanics.
+The **Wizard set** includes items that interact with [法师](Wizard.md "法师") mechanics.
 
-See also: [Weave set](Weave_Set.md "Weave set")
+See also: [魔网套装](Weave_Set.md "魔网套装")
 
 | 名称 | 插槽 | 效果 |
 | --- | --- | --- |

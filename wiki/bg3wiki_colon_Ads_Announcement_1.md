@@ -103,13 +103,13 @@ Ko-fi支持在付款后180天内退款。如果您的Ko-fi捐赠超过此期限�
 
 到目前为止，反馈绝大多数是支持的，看起来计划将很快推出。
 
-页面[bg3wiki:Copyrights](bg3wiki_colon_Copyrights.md "bg3wiki:Copyrights")已更新，包含重新授权工作的精确细节。总结如下：
+页面[bg3wiki:版权](bg3wiki_colon_Copyrights.md "bg3wiki:版权")已更新，包含重新授权工作的精确细节。总结如下：
 
 - 7月20日之后的新贡献为CC BY-SA
 - 无法联系到作者或未回应的旧贡献将保留
 - 作者要求移除的旧贡献将被替换，但不会立即移除，以免损害Wiki
 
-页面[bg3wiki:Privacy policy](bg3wiki_colon_Privacy_policy.md "bg3wiki:Privacy policy")已进行小更新，但在广告开始展示前将进行适当更新，因为投放广告的公司实施了相当标准的用户跟踪以进行定向广告。
+页面[bg3wiki:隐私政策](bg3wiki_colon_Privacy_policy.md "bg3wiki:隐私政策")已进行小更新，但在广告开始展示前将进行适当更新，因为投放广告的公司实施了相当标准的用户跟踪以进行定向广告。
 
 ---
 *Source: [bg3wiki:Ads Announcement 1](https://bg3.wiki/wiki/bg3wiki:Ads_Announcement_1)*

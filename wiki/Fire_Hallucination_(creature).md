@@ -12,7 +12,7 @@
 | 移动速度 | 9 m (30 ft) |
 | 经验值 | 0 |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -20,7 +20,7 @@
 
   - 这个幻觉小魔鬼的奇幻力量使附近所有生物获得对 ⁠[火焰](Fire.md "火焰") 伤害的 [抗性](Resistance.md "抗性")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -28,7 +28,7 @@
 
   - 这个幻觉小魔鬼的奇幻力量使附近所有生物获得对 ⁠[火焰](Fire.md "火焰") 伤害的 [抗性](Resistance.md "抗性")。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

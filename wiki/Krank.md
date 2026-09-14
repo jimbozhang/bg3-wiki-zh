@@ -36,7 +36,7 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -44,7 +44,7 @@
 
   - 洛若坎对这具活化护甲特别感兴趣。因此，该实体的属性值额外+5，生命值总量+20。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -52,7 +52,7 @@
 
   - 洛若坎对这具活化护甲特别感兴趣。因此，该实体的属性值额外+5，生命值总量+20。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 

@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `CROWN_OF_MADNESS` [状态组](Status_groups.md "Status groups"): [SG_Condition](SG_Condition.md "SG Condition"), [SG_Mad](SG_Mad.md "SG Mad"), [SG_Cursed](SG_Cursed.md "SG Cursed"), [SG_Possessed](SG_Possessed.md "SG Possessed")
+[堆叠 ID](Stack_ID.md "Stack ID"): `CROWN_OF_MADNESS` [状态组](Status_groups.md "Status groups"): [SG 状态](SG_Condition.md "SG 状态"), [SG_Mad](SG_Mad.md "SG Mad"), [被诅咒（状态组）](SG_Cursed.md "被诅咒（状态组）"), [附身 (状态组)](SG_Possessed.md "附身 (状态组)")
 
 [更多属性](Status_properties.md "Status properties"):
 

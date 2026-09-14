@@ -34,7 +34,7 @@ UID `MAG_TheCrimson_Shortsword` UUID `5961d027-75fd-4ad7-964c-8b786b5839fb` Stat
 _仅限主手_
 
 [猩红残暴](Redvein_Savagery.md "猩红残暴")
-当你进行一次具有[优势](Advantage.md "Advantage")的攻击时，目标会受到额外7⁠⁠[穿刺](Piercing.md "Piercing")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+当你进行一次具有[优势](Advantage.md "Advantage")的攻击时，目标会受到额外7⁠⁠[穿刺](Piercing.md "Piercing")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 _仅限副手_
 

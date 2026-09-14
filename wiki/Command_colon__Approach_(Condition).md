@@ -7,7 +7,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID")：`COMMAND` [状态组](Status_groups.md "状态组")：[SG_Approaching](SG_Approaching.md "SG 前进")
+[堆叠ID](Stack_ID.md "堆叠ID")：`COMMAND` [状态组](Status_groups.md "状态组")：[SG 接近](SG_Approaching.md "SG 接近")
 
 [持续时间结束](Conditions.md#Duration "状态")：驱散结束
 

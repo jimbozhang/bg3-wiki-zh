@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [2级法术位](Spells.md#Spell_slots "法术")
 详情
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18米（60英尺）
 目标：[类人生物](Humanoid.md "类人生物")，非[不死生物](Undead.md "不死生物")
 [专注](Concentration.md "专注")
@@ -28,7 +28,7 @@
 
 持续时间：3 驱散
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 被灌注了魔法疯狂。将攻击除施法者外最近的生物。
 

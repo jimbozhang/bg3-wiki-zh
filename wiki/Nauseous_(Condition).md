@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `STINKING_CLOUD` [状态组](Status_groups.md "状态组"): [SG_Poisoned](SG_Poisoned.md "SG 中毒")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `STINKING_CLOUD` [状态组](Status_groups.md "状态组"): [中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合结束
 

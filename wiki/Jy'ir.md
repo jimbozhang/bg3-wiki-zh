@@ -3,10 +3,10 @@
 | | |
 | --- | --- |
 | 声音 / 演员 | [Lucy Paterson](https://www.imdb.com/name/nm13687455/) |
-| 体型 | [Medium](Medium.md "Medium") |
-| 类型 | [Humanoid](Humanoid.md "Humanoid") |
-| 种族 | [Githyanki](Githyanki.md "Githyanki") |
-| 职业 | [Fighter](Fighter.md "Fighter") |
+| 体型 | [生物体型](Medium.md "生物体型") |
+| 类型 | [类人生物](Humanoid.md "类人生物") |
+| 种族 | [吉斯洋基人](Githyanki.md "吉斯洋基人") |
+| 职业 | [战士](Fighter.md "战士") |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -51,11 +51,11 @@
 
 ### 第一幕
 
-Jy'ir最初可以在[Crèche Infirmary](Crèche_Y'llek.md#Infirmary "Crèche Y'llek")找到，躺在一张双层床上。如果以非吉斯洋基人身份与她交谈，她会恶毒地嘲讽任何外来者；然而，她也揭示了她族人更光明的一面，表达了对养育间年轻人战斗能力的希望。
+Jy'ir最初可以在[伊雷珂养育间](Crèche_Y'llek.md#Infirmary "Crèche Y'llek")找到，躺在一张双层床上。如果以非吉斯洋基人身份与她交谈，她会恶毒地嘲讽任何外来者；然而，她也揭示了她族人更光明的一面，表达了对养育间年轻人战斗能力的希望。
 
 在以下两种情况之一发生后，她会变得敌对：
 
-- 如果[Ghustil Stornugoss](Stornugoss.md "Stornugoss")在与[Zaith'isk](Zaith'isk.md "Zaith'isk")遭遇后离开她的房间，将队伍锁在里面。
+- 如果[斯托努苟斯](Stornugoss.md "斯托努苟斯")在与[扎伊斯克净化者](Zaith'isk.md "扎伊斯克净化者")遭遇后离开她的房间，将队伍锁在里面。
 - 当整个养育间在完成[找出遗物的秘密](Discover_the_Artefact's_Secrets.md "Discover the Artefact's Secrets")后变得敌对。
 
 ## 战斗

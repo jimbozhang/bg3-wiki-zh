@@ -11,7 +11,7 @@
 | 先攻 | +4 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 特性
 
@@ -31,7 +31,7 @@
 
 无法被缴械。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 特性
 
@@ -51,7 +51,7 @@
 
 无法被缴械。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - ## 特性
 

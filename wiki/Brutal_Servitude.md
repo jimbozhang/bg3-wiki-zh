@@ -15,7 +15,7 @@
 2d8 + 2⁠[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）（豁免成功时：目标仍会受到全额伤害，但不会被[减速](Slowed_(Condition).md "减速 (状态)")。）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）（豁免成功时：目标仍会受到全额伤害，但不会被[减速](Slowed_(Condition).md "减速 (状态)")。）
 范围：自身
 区域效果：4米（13英尺）半径
 充能：每回合
@@ -26,7 +26,7 @@
 
 持续时间：2回合
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 14）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 14）
 
 - [移动速度](Movement_speed.md "移动速度")减半
 - [护甲等级](Armour_Class.md "护甲等级")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")降低2点

@@ -1,6 +1,6 @@
 # 困惑术卷轴
 
-A **Scroll of Confusion** is a single-use scroll that allows the user to cast [Confusion](Confusion.md "Confusion") as an action.
+A **Scroll of Confusion** is a single-use scroll that allows the user to cast [困惑](Confusion.md "困惑") as an action.
 
 ## 属性
 

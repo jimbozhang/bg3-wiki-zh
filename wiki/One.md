@@ -72,7 +72,7 @@ One 可以在 [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") 的 [座�
 
 ## 注释
 
-- 在战斗中，如果 One 或 [Three](Three.md "Three") 能够通过座狼兽栏的出口逃跑，增援部队会进入该区域。然而，这不会导致整个地精营地变得敌对。
+- 在战斗中，如果 One 或 [三](Three.md "三") 能够通过座狼兽栏的出口逃跑，增援部队会进入该区域。然而，这不会导致整个地精营地变得敌对。
 - 如果队伍中有动物，例如 [游侠伙伴](Ranger's_Companion.md "Ranger's Companion")，One 和 Three 会向它扔石头。可以通过 [表演](Perform.md "Perform") 或类似动作将它们从洞熊的笼子旁引开，从而方便操作。
   - 每块石头造成 1d4⁠⁠[钝击](Bludgeoning.md "Bludgeoning") 伤害。
 

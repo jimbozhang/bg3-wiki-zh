@@ -11,7 +11,7 @@
 消耗
 [附赠动作](Actions.md#Resources "Actions")
 详情
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 14）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 14）
 范围效果：3米（10英尺）半径
 充能：[短休](Short_rest.md "Short rest")
 
@@ -21,7 +21,7 @@
 
 持续时间：3回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[DC](DC.md "DC") 14）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 14）
 
 - [移动速度](Movement_speed.md "Movement Speed") 减半。施法者对受影响实体的 [攻击掷骰](Attack_rolls.md "Attack Rolls") 具有 [优势](Advantage.md "Advantage")。
 - 被 [协助](Help.md "Help") 移除，或被施法者击中时移除。

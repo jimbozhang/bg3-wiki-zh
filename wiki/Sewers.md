@@ -4,8 +4,8 @@
 
 **Sewers** 可能指：
 
-- ⁠[Lower City Sewers](Lower_City_Sewers.md "Lower City Sewers")
-- ⁠[Upper City Sewers](Upper_City_Sewers.md "Upper City Sewers")
+- ⁠[下城区下水道](Lower_City_Sewers.md "下城区下水道")
+- ⁠[至高大殿](Upper_City_Sewers.md "至高大殿")
 
 ---
 *Source: [Sewers](https://bg3.wiki/wiki/Sewers)*

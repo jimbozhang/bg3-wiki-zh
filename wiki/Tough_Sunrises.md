@@ -45,7 +45,7 @@ _如果你拥有[熟练项](Proficiency.md "Proficiency")，装备在**主手**�
 
 _关于黎明爆裂打击：_
 
-- 游戏内描述注明了错误的[DC](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")。它需要一个武器动作豁免检定，并带有+2的DC加成。
+- 游戏内描述注明了错误的[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")。它需要一个武器动作豁免检定，并带有+2的DC加成。
 - 尽管游戏内描述仅说明光芒中的敌人必须通过豁免检定以避免目盲，但目盲效果会影响区域内的所有生物，包括盟友。
   - 由于编码错误，目盲不会影响攻击的原始目标。
 

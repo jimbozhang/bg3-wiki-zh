@@ -12,7 +12,7 @@
 
 持续时间：2 驱散
 
-[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 14)
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 14)
 
 - [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [豁免检定](Saving_throw.md "豁免检定") 受 **-1d4** 惩罚。
 

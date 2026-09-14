@@ -35,7 +35,7 @@
 - [格莉娅](Glyria.md "格莉娅")
 - [凯沃·弗格](Kevo_Phogge.md "凯沃·弗格")
 - [卢克](Luke.md "卢克")
-- [M'alice](M'alice.md "M'alice")
+- [马'利切](M'alice.md "马'利切")
 - [米琪亚](Mitchia.md "米琪亚")
 - [诺夫·施莫兹](Nov_Shmoz.md "诺夫·施莫兹")
 - [奥林](Orin.md "奥林")

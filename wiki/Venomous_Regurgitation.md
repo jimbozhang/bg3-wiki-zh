@@ -18,7 +18,7 @@
 范围：4 米（英尺）
 产生区域：简易毒素
 重置：每回合
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）（豁免成功：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）（豁免成功：目标仍承受一半伤害。）
 
 ## 状态：中毒
 
@@ -26,7 +26,7 @@
 
 持续时间：2 回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上承受[劣势](Disadvantage.md "劣势")。
 
@@ -53,7 +53,7 @@
 
 **[简易毒素](Simple_Toxin_(Condition).md "简易毒素（状态）")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 11）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 11）
 
 - 受影响实体在其下一回合结束时承受 1d4⁠⁠[中毒](Poison.md "中毒")伤害。
 

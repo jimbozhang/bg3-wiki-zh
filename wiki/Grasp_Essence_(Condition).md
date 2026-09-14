@@ -10,13 +10,13 @@
 
 ## 赋予
 
-[Soul Catching Boon](Soul_Catching_Boon.md "灵魂捕捉恩泽")
+[灵魂捕捉恩泽](Soul_Catching_Boon.md "灵魂捕捉恩泽")
 在你的下一次[攻击掷骰](Attack_roll.md "攻击掷骰")上获得+5加值。（充能：每驱散。）
 
-[Soul Catching Prowess](Soul_Catching_Prowess.md "灵魂捕捉威能")
+[灵魂捕捉威能](Soul_Catching_Prowess.md "灵魂捕捉威能")
 在你的下一次[豁免检定](Saving_throw.md "豁免检定")上获得+5加值。（充能：每驱散。）
 
-[Soul Snare: Heal](Soul_Snare_colon__Heal.md "灵魂陷阱：治疗")
+[灵魂陷阱：治疗](Soul_Snare_colon__Heal.md "灵魂陷阱：治疗")
 通过捕捉灵魂治疗10点[治疗](Healing.md "治疗")。（充能：每驱散。）
 
 ## 备注
@@ -30,7 +30,7 @@
 
 ## 掌握精华的来源
 
-- [Soul Catching](Soul_Catching.md "灵魂捕捉")
+- [灵魂捕捉](Soul_Catching.md "灵魂捕捉")
 
 ## 拥有掌握精华的生物
 

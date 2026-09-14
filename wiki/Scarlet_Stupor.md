@@ -1,6 +1,6 @@
 # 猩红昏迷
 
-**猩红昏迷**是[Rhapsody](Rhapsody.md "狂想曲")持有者可用的特殊职业动作。在杀死三个生物后，持有者可以消耗所有三个累积的[猩红叠加](Scarlet_Remittance_+3_(Condition).md "猩红叠加 +3 (状态)")冲锋，使敌人在对抗持有者施放的下一个法术时的[豁免检定](Saving_throw.md "豁免检定")获得[劣势](Disadvantage.md "劣势")。此动作是[猩红盛宴](Scarlet_Feast.md "猩红盛宴")的三种变体之一。
+**猩红昏迷**是[狂想曲](Rhapsody.md "狂想曲")持有者可用的特殊职业动作。在杀死三个生物后，持有者可以消耗所有三个累积的[猩红叠加](Scarlet_Remittance_+3_(Condition).md "猩红叠加 +3 (状态)")冲锋，使敌人在对抗持有者施放的下一个法术时的[豁免检定](Saving_throw.md "豁免检定")获得[劣势](Disadvantage.md "劣势")。此动作是[猩红盛宴](Scarlet_Feast.md "猩红盛宴")的三种变体之一。
 
 ## 描述
 
@@ -27,7 +27,7 @@
 
 由物品授予：
 
-- [Rhapsody](Rhapsody.md "狂想曲")
+- [狂想曲](Rhapsody.md "狂想曲")
 
 此法术是以下法术的变体：
 [猩红盛宴](Scarlet_Feast.md "猩红盛宴")

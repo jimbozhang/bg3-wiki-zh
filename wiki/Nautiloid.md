@@ -43,7 +43,7 @@ _关于如何逃离的完整描述可在相关任务⁠[逃离鹦鹉螺](Escape_
 
 ### 手术室
 
-在相邻的房间中，[米纳斯](Myrnath.md "米纳斯")正在一个高台上接受手术。[噬脑怪](Intellect_Devourer.md "噬脑怪")[Us](Us.md "Us")可以通过将其从米纳斯暴露的头骨中移除来招募为[临时伙伴](Temporary_companion.md "临时伙伴")。与位于 X: 3 Y: -414 桌子上的三个[符文石板](Rune_Slate.md "符文石板")之一互动，会为未来与[奥米伦](Omeluum.md "奥米伦")的对话解锁一个独特选项。离开手术室会触发与[莱埃泽尔](Lae'zel.md "莱埃泽尔")的过场动画，她会加入队伍以逃离鹦鹉螺。如果选择莱埃泽尔作为[出身](Origin.md "出身")，则[洛希尔](Losiir.md "Losiir")会加入队伍。<sup>[\[1\]](#cite_note-1)</sup>
+在相邻的房间中，[米纳斯](Myrnath.md "米纳斯")正在一个高台上接受手术。[噬脑怪](Intellect_Devourer.md "噬脑怪")[我们](Us.md "我们")可以通过将其从米纳斯暴露的头骨中移除来招募为[临时伙伴](Temporary_companion.md "临时伙伴")。与位于 X: 3 Y: -414 桌子上的三个[符文石板](Rune_Slate.md "符文石板")之一互动，会为未来与[奥米伦](Omeluum.md "奥米伦")的对话解锁一个独特选项。离开手术室会触发与[莱埃泽尔](Lae'zel.md "莱埃泽尔")的过场动画，她会加入队伍以逃离鹦鹉螺。如果选择莱埃泽尔作为[出身](Origin.md "出身")，则[洛希尔](Losiir.md "Losiir")会加入队伍。<sup>[\[1\]](#cite_note-1)</sup>
 
 ### 小魔鬼战斗室
 
@@ -85,7 +85,7 @@ _关于如何逃离的完整描述可在相关任务⁠[逃离鹦鹉螺](Escape_
 - [被献祭的高精灵](Sacrificed_Cultist_(High_Elf).md "被献祭的邪教徒 (高精灵)")
 - [被献祭的人类邪教徒](Sacrificed_Cultist_(Human).md "被献祭的人类邪教徒")
 - [影心](Shadowheart.md "影心")
-- [Us](Us.md "Us")
+- [我们](Us.md "我们")
 - [扎尔克](Zhalk.md "扎尔克")
 
 ## 生物

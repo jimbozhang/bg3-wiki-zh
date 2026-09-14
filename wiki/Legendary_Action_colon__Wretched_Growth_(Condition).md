@@ -14,7 +14,7 @@
 
 **[恶毒生长](Wretched_Growth_(Condition).md "恶毒生长（状态）")**
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 16）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 16）
 
 ⁠半径：5 米（17 英尺）
 

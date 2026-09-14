@@ -7,7 +7,7 @@
 ## 属性
 
 [堆叠ID](Stack_ID.md "堆叠ID")：`CONTROL_UNDEAD`
-[状态组](Status_groups.md "状态组")：[SG_Dominated](SG_Dominated.md "SG_Dominated")
+[状态组](Status_groups.md "状态组")：[SG 受控](SG_Dominated.md "SG 受控")
 
 [持续时间结束](Conditions.md#Duration "状态")：回合开始时
 

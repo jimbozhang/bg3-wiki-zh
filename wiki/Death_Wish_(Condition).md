@@ -12,10 +12,10 @@ _维基数据库中未定义_
 
 ## 拥有死亡之愿的生物
 
-- [Dextor](Dextor.md "Dextor")
-- [Gald](Gald.md "Gald")
+- [德克斯特](Dextor.md "德克斯特")
+- [盖尔德](Gald.md "盖尔德")
 - [地精工兵](Goblin_Sapper.md "地精工兵")
-- [Moke](Moke.md "Moke")
+- [莫克](Moke.md "莫克")
 
 ## 具有相同堆叠ID的状态
 

@@ -283,7 +283,7 @@ Stats
 
 ## 相关内容
 
-Calliope 与 [Viola Silvertongue](Viola_Silvertongue.md "Viola Silvertongue") 一同表演，他对她极为尊敬，并演奏[手鼓](Hand_Drum.md "手鼓")。他对 Viola 的迷恋使他对那些他认为威胁到她地位的人——即那些被误认为新雇员的吟游诗人——相当刻薄。
+Calliope 与 [银舌维奥拉](Viola_Silvertongue.md "银舌维奥拉") 一同表演，他对她极为尊敬，并演奏[手鼓](Hand_Drum.md "手鼓")。他对 Viola 的迷恋使他对那些他认为威胁到她地位的人——即那些被误认为新雇员的吟游诗人——相当刻薄。
 
 ## 战斗
 

@@ -50,8 +50,8 @@
 - [生离死别：尖啸](Phalar_Aluve_colon__Shriek.md "Phalar Aluve: Shriek")不再为每个伤害来源创建单独的伤害实例（DRS）。相反，它为每个伤害来源添加额外伤害。
 - [酒馆殴斗者](Tavern_Brawler.md "Tavern Brawler")在投掷时不再创建单独的伤害实例。
 - 武器[刺客之触](Assassin's_Touch.md "Assassin's Touch")、[深度挖掘](Deep_Delver.md "Deep Delver")、[巨龙之握](Dragon's_Grasp.md "Dragon's Grasp")、[剿灭者之斧](Exterminator's_Axe.md "Exterminator's Axe")、[引火者](Firestoker.md "Firestoker")、[第一滴血短剑](Shortsword_of_First_Blood.md "Shortsword of First Blood")、[染血的巨斧](Blooded_Greataxe.md "Blooded Greataxe")、[身心粉碎者](Render_of_Mind_and_Body.md "Render of Mind and Body")、[偷生之剑](Sword_of_Life_Stealing.md "Sword of Life Stealing")、[猩红诡计](Crimson_Mischief.md "Crimson Mischief")、[决斗者的特权](Duellist's_Prerogative.md "Duellist's Prerogative")和[卑劣短棒](Rat_Bat.md "Rat Bat")都已移除其DRS额外伤害，并替换为普通伤害增益。
-- 能力[偷袭](Sneak_Attack.md "Sneak Attack")、[巨像屠夫](Colossus_Slayer.md "Colossus Slayer")、[至圣斩](Divine_Smite.md "Divine Smite")、[神圣打击](Divine_Strike.md "Divine Strike")已添加检查，以确保它们不会获得本应仅应用于基础攻击的额外伤害增益。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
-- [当锤棒喝](Hamarhraft.md "Hamarhraft")的跳跃范围伤害效果不会获得*任何*其他伤害附加物。它是固定的1d4。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 能力[偷袭](Sneak_Attack.md "Sneak Attack")、[巨像屠夫](Colossus_Slayer.md "Colossus Slayer")、[至圣斩](Divine_Smite.md "Divine Smite")、[神圣打击](Divine_Strike.md "Divine Strike")已添加检查，以确保它们不会获得本应仅应用于基础攻击的额外伤害增益。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
+- [当锤棒喝](Hamarhraft.md "Hamarhraft")的跳跃范围伤害效果不会获得*任何*其他伤害附加物。它是固定的1d4。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ### 物品稀有度与价格更改
 
@@ -84,8 +84,8 @@
 - [治疗](Heal.md "Heal")的范围从范围：1.5米（5英尺）增加到范围：18米（60英尺）。
 - [欧提路克弹力法球](Otiluke's_Resilient_Sphere.md "Otiluke's Resilient Sphere")现在只能对大型或更小的目标施放。
 - [冰墙](Wall_of_Ice.md "Wall of Ice")现在在被破坏时正确造成其10d6⁠⁠[寒冷](Cold.md "Cold")伤害爆炸。以前，只有残留的冷空气造成伤害。
-- 作为[防护学派](Abjuration.md "Abjuration")施放[护盾术](Shield_(spell).md "Shield (spell)")不再获得[奥术守御](Arcane_Ward_(Condition).md "Arcane Ward (Condition)")层数。（*这曾经是这样吗？*\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]）。
-- 撬锁和解除陷阱现在会打破[隐形](Invisible_(Condition).md "Invisible (Condition)")，并有几率打破[高等隐形术](Greater_Invisibility_(Condition).md "Greater Invisibility (Condition)")。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 作为[防护学派](Abjuration.md "Abjuration")施放[护盾术](Shield_(spell).md "Shield (spell)")不再获得[奥术守御](Arcane_Ward_(Condition).md "Arcane Ward (Condition)")层数。（*这曾经是这样吗？*\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]）。
+- 撬锁和解除陷阱现在会打破[隐形](Invisible_(Condition).md "Invisible (Condition)")，并有几率打破[高等隐形术](Greater_Invisibility_(Condition).md "Greater Invisibility (Condition)")。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - [获得魔宠](Find_Familiar.md "Find Familiar")现在每次短休只能施放一次。
 
 ### 属性更改
@@ -97,11 +97,11 @@
 
 - [狂想曲](Rhapsody.md "Rhapsody")的猩红叠加层数现在仅通过杀死敌人获得。以前，你可以通过摧毁无生命物体（如板条箱）轻松达到最大层数。
 - [奥术协同王冠](Diadem_of_Arcane_Synergy.md "Diadem of Arcane Synergy")现在仅当你对敌人施加效果时才给予[奥术协同](Arcane_Synergy_(Condition).md "Arcane Synergy (Condition)")（[受威胁](Threatened_(Condition).md "Threatened (Condition)")不计数）。以前，它会在你对任何事物施加任何效果时激活。
-- 潜在的新物品。这些物品列在与[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")相关的宝藏表中，但尚不清楚它们是否可以通过正常方式在游戏中获得。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 潜在的新物品。这些物品列在与[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")相关的宝藏表中，但尚不清楚它们是否可以通过正常方式在游戏中获得。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - 积聚法杖（[长棍](Quarterstaves.md "Quarterstaves")）：用近距离法术（范围⁠6米（20英尺）或更小的法术）造成伤害时获得[奥术充能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")。
   - 吸脑斗篷（[披风](Cloaks.md "Cloaks")）：每当你成功通过法术的[豁免检定](Saving_throw.md "Saving Throw")时，对施法者施加2层[精神疲劳](Mental_Fatigue_(Condition).md "Mental Fatigue (Condition)")。
   - [奥术吸收匕首](Arcane_Absorption_Dagger.md "Arcane Absorption Dagger")
-  - [闪亮的碎颅锤](Shining_Staver-of-Skulls.md "Shining Staver-of-Skulls")现在具有永久的光亮术戏法效果，范围7.5米。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+  - [闪亮的碎颅锤](Shining_Staver-of-Skulls.md "Shining Staver-of-Skulls")现在具有永久的光亮术戏法效果，范围7.5米。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ### 效果更改
 

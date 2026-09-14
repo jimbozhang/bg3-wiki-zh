@@ -29,9 +29,9 @@
 
 - 5d4 + 18 (23~38) ⁠[力场](Force.md "力场")
 
-伤害（[DC](Dice_rolls.md#Save_DCs "骰子掷定") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 可减半）
+伤害（[掷骰](Dice_rolls.md#Save_DCs "骰子掷定") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 可减半）
 
-- 自动 [重击](Critical_Hit.md "重击") 物体和环境\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 自动 [重击](Critical_Hit.md "重击") 物体和环境\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
   - 被爆炸波及的生物会被击退 6 米 (20 英尺)（无需豁免检定）
 
 ## 获取地点

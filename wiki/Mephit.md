@@ -1,6 +1,6 @@
 # 魔蝠
 
-A [Magma Mephit](Magma_Mephit.md "Magma Mephit")
+A [岩浆魔蝠](Magma_Mephit.md "岩浆魔蝠")
 
 **魔蝠**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中的一种[非玩家种族](Non-playable_race.md "非玩家种族")和[元素生物](Elemental.md "元素生物")类型。
 

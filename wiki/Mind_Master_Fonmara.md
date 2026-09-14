@@ -14,7 +14,7 @@
 | 移动速度 | 7.5 米 (25 英尺) |
 | 经验值 | 75 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -40,7 +40,7 @@
 
 可在黑暗中视物，范围达 24 米 / 80 英尺。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

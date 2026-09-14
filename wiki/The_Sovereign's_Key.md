@@ -31,7 +31,7 @@
 ## 备注
 
 - 如果斯伯处于[倒地](Knocked_Out_(Condition).md "倒地（状态）")状态，可以从其身上搜刮此物品。
-- 如果队伍接受[为格拉特的族人报仇](Avenge_Glut's_Circle.md "为格拉特的族人报仇")任务，然后拒绝杀死斯伯，此物品的效果将从与[蕈人王格拉特](Glut.md "蕈人王格拉特")对话的角色身上移除；可以在此对话期间使用雇佣兵或非固定队伍成员的伙伴，让常规队伍成员保留效果。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 如果队伍接受[为格拉特的族人报仇](Avenge_Glut's_Circle.md "为格拉特的族人报仇")任务，然后拒绝杀死斯伯，此物品的效果将从与[蕈人王格拉特](Glut.md "蕈人王格拉特")对话的角色身上移除；可以在此对话期间使用雇佣兵或非固定队伍成员的伙伴，让常规队伍成员保留效果。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [The Sovereign's Key](https://bg3.wiki/wiki/The_Sovereign's_Key)*

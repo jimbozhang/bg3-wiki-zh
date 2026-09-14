@@ -23,7 +23,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 12 / (+1) | 16 / (+3) | 12 / (+1) | 16 / (+3) | 15 / (+2) | 12 / (+1) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -33,7 +33,7 @@
 
 攻击离开触及范围的敌人。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -43,7 +43,7 @@
 
 攻击离开触及范围的敌人。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -137,7 +137,7 @@ Tinsy Ralpp 可在博德之门下城区的 [水女王地窖](Water_Queen's_Cella
 
 ## 闲聊
 
-Tinsy 偶尔会与 [Ohara Ohira](Ohara_Ohira.md "Ohara Ohira") 聊天：
+Tinsy 偶尔会与 [大原 大原](Ohara_Ohira.md "大原 大原") 聊天：
 
 - 暗破者 Ohara Ohira
   你觉得我们本可以救下 Holli 吗？

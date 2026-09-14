@@ -9,7 +9,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID"): `POISONED` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG 地表"), [SG_Poisoned](SG_Poisoned.md "SG 中毒"), [SG_Condition](SG_Condition.md "SG 状态")
+[堆叠 ID](Stack_ID.md "堆叠 ID"): `POISONED` [状态组](Status_groups.md "状态组"): [SG_Surface](SG_Surface.md "SG 地表"), [中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 [更多属性](Status_properties.md "状态属性"):
 
@@ -36,7 +36,7 @@ _维基数据库中未定义_
 \_(状态)[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md "有毒烟雾 (噼啪砰) (状态)")
 |
 
-- 受影响实体每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外 2d4⁠⁠[毒素](Poison.md "毒素") 伤害，豁免成功时受到一半伤害。
+- 受影响实体每回合受到 1d4⁠⁠[毒素](Poison.md "毒素") 伤害。必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则受到额外 2d4⁠⁠[毒素](Poison.md "毒素") 伤害，豁免成功时受到一半伤害。
 
 [中毒](Poisoned_(Condition).md "中毒 (状态)")
 |

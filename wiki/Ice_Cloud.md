@@ -17,7 +17,7 @@
 持续时间：1 驱散
 
 - 一片寒冷的空气，对所有穿过它的单位造成 10d6⁠⁠[寒冷](Cold.md "寒冷")伤害。
-- 受影响的实体可以进行一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 16 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，以改为承受一半伤害。
+- 受影响的实体可以进行一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 16 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，以改为承受一半伤害。
 
 ## 创建
 

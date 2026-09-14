@@ -4,7 +4,7 @@
 
 ## 描述
 
-造成等于你的 [熟练项加值](Proficiency_Bonus.md "熟练项加值") 的额外伤害。命中时，大型、巨型或超巨型生物会受到额外的 2d6⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源") 伤害，并且必须通过 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定")，否则将陷入 [倒伏](Prone_(Condition).md "倒伏（状态）")。
+造成等于你的 [熟练项加值](Proficiency_Bonus.md "熟练项加值") 的额外伤害。命中时，大型、巨型或超巨型生物会受到额外的 2d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，并且必须通过 [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定")，否则将陷入 [倒伏](Prone_(Condition).md "倒伏（状态）")。
 
 ## 属性
 

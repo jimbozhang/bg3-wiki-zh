@@ -18,7 +18,7 @@
 
 ## 备注
 
-- 妖精生命将穿戴者的[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")的[DC](DC.md "DC")从10降低至5。
+- 妖精生命将穿戴者的[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")的[骰子掷骰](DC.md "骰子掷骰")从10降低至5。
 
 ---
 *Source: [Fey Life](https://bg3.wiki/wiki/Fey_Life)*

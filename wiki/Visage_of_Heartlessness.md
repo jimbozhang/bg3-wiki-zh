@@ -35,7 +35,7 @@
 - [高级黑暗视觉](Darkvision.md "Darkvision")
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
@@ -43,7 +43,7 @@
 
 此面容漂浮在暗影虚空中。在被拖入战斗前无法受到伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
@@ -51,7 +51,7 @@
 
 此面容漂浮在暗影虚空中。在被拖入战斗前无法受到伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 

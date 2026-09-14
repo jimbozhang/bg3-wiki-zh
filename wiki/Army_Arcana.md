@@ -10,7 +10,7 @@
 
 由以下生物使用：
 
-- [Lizabett](Lizabett.md "Lizabett")，[Stropes](Stropes.md "Stropes")
+- [利扎贝特](Lizabett.md "利扎贝特")，[斯托普斯](Stropes.md "斯托普斯")
 
 ## 简要预览
 

@@ -11,9 +11,9 @@
 | 先攻 | 0 |
 | 移动速度 | 12 米 (40 英尺) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **地狱野猪**是_[博德之门3](Baldur's_Gate_3.md "博德之门3")_中的一种[邪魔](List_of_creature_types.md#Fiend "生物类型列表")生物。它们是源自[九层地狱](Nine_Hells.md "九层地狱")的邪魔怪物。
 

@@ -11,7 +11,7 @@
 | 先攻 | 0 |
 | 移动速度 | 9 m (30 ft) |
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - - - - -
 

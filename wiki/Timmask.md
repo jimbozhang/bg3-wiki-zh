@@ -4,7 +4,7 @@
 
 - 平衡
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - - - - **鬼头蘑菇**是一种会释放孢子的蘑菇，当生物过于靠近时，这些孢子会导致[昏沉](Befuddled_(Condition).md) 状态)。
 |
@@ -33,7 +33,7 @@
 
 **[昏沉](Befuddled_(Condition).md "昏沉（状态）")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 10）
 
 - 受影响实体无法控制其动作，并且会漫无目的地游荡。
 

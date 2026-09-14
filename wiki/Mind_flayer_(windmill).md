@@ -89,7 +89,7 @@
 - [新发现的臣民](Noble.md#Newfound_Subject "贵族") ([贵族](Noble.md "贵族") 背景) - 喂食它
 - [意外的育儿](Haunted_One.md#Unexpected_Parenting "邪念缠身") ([邪念缠身](Haunted_One.md "邪念缠身") 背景) - 喂食它
 
-向夺心魔提供尸体喂食被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")，对于[复仇之誓](Oath_of_Vengeance.md "复仇之誓")、[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")和[奉献之誓](Oath_of_Devotion.md "奉献之誓")（对于[王冠圣武士](Oath_of_the_Crown.md "王冠之誓") \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 也是破誓行为）。
+向夺心魔提供尸体喂食被视为[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")，对于[复仇之誓](Oath_of_Vengeance.md "复仇之誓")、[古贤之誓](Oath_of_the_Ancients.md "古贤之誓")和[奉献之誓](Oath_of_Devotion.md "奉献之誓")（对于[王冠圣武士](Oath_of_the_Crown.md "王冠之誓") \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\] 也是破誓行为）。
 
 ## 战斗
 

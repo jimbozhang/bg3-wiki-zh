@@ -150,7 +150,7 @@
 | --- | --- | --- |
 | 1 | 2 | -1 |
 
-用尽全力挥舞武器。你可以攻击多个目标，造成额外 1d6⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源")伤害，但会陷入\_(状态)[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡（巨像切割者）（状态）")。
+用尽全力挥舞武器。你可以攻击多个目标，造成额外 1d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，但会陷入\_(状态)[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡（巨像切割者）（状态）")。
 
 用装备的武器进行一次近战攻击。
 
@@ -161,7 +161,7 @@
 可能使目标[恐慌](Frightened_(Condition).md "恐慌（状态）")。他们将在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")，并且无法移动。
 
 [准备](Prepare.md "准备") – [沉重巨斧](Very_Heavy_Greataxe.md "沉重巨斧")
-花费 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害（最少 1 点）。
+花费 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害（最少 1 点）。
 
 [投掷石头](Throw_Stone.md "投掷石头")
 

@@ -54,15 +54,15 @@
 - [钢铁意志](Steel_Will.md "钢铁意志")
 - [荒野漫游者：中毒](Wasteland_Wanderer_colon__Poison.md "荒野漫游者：中毒")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -70,7 +70,7 @@
 
 - [**巨像屠夫**](Colossus_Slayer.md "巨像屠夫")
 
-每回合一次，当目标生命值未满时，你的武器攻击额外造成 1d8[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+每回合一次，当目标生命值未满时，你的武器攻击额外造成 1d8[物理](Physical.md "物理")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 - [**龙族血统：赤铜（强酸）**](Draconic_Ancestry_colon__Copper_(Acid).md "龙族血统：赤铜（强酸）")
 

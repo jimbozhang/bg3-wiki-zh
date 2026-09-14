@@ -47,15 +47,15 @@
 - [游侠骑士](Ranger_Knight.md "游侠骑士")
 - [荒野漫游者：寒冷](Wasteland_Wanderer_colon__Cold.md "荒野漫游者：寒冷")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

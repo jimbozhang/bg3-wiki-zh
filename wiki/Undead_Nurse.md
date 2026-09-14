@@ -28,9 +28,9 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **狂热助手**是在[第二幕](Act_Two.md "第二幕")中出现的[不死生物](Undead.md "不死生物")角色。
 
@@ -109,7 +109,7 @@
 
 ## 备注
 
-- 狂热助手对[流血](Bleeding_(Condition).md "流血 (状态)")免疫，并且可以使其[中毒](Poisoned_(status_group).md) 或 [魅惑](Charmed_(status_group).md)，这与其他[不死生物](Undead.md "不死生物")如[妖鬼](Ghast.md "妖鬼")、[食尸鬼](Ghoul.md "食尸鬼")和[僵尸](Zombie.md "僵尸")不同。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]。
+- 狂热助手对[流血](Bleeding_(Condition).md "流血 (状态)")免疫，并且可以使其[中毒](Poisoned_(status_group).md) 或 [魅惑](Charmed_(status_group).md)，这与其他[不死生物](Undead.md "不死生物")如[妖鬼](Ghast.md "妖鬼")、[食尸鬼](Ghoul.md "食尸鬼")和[僵尸](Zombie.md "僵尸")不同。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]。
 
 ## 画廊
 

@@ -34,7 +34,7 @@
 
 ## 备注
 
-- 取决于是否三次拯救萨扎，以及她是否逃入幽影诅咒之地。 \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 取决于是否三次拯救萨扎，以及她是否逃入幽影诅咒之地。 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 - 俘虏萨扎的“猫人”很可能指的是[豹人](https://forgottenrealms.fandom.com/wiki/Tabaxi)。
 
 ---

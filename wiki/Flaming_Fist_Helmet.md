@@ -29,8 +29,8 @@ A **焰拳头盔**（Flaming Fist Helmet）是一种常见的[头盔](Headwear.m
 
 ## Properties
 
-- [Helmets](Helmets.md "Helmets")
-- Required Proficiency: [Medium Armour](Medium_Armour.md "Medium Armour")
+- [头饰](Helmets.md "头饰")
+- Required Proficiency: [护甲](Medium_Armour.md "护甲")
 - Rarity: Common
 - 重量: 1 kg (2 lb)
 - Price: 40 gp
@@ -38,22 +38,22 @@ A **焰拳头盔**（Flaming Fist Helmet）是一种常见的[头盔](Headwear.m
 
 The wearer of this item gains:
 
-- [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw") +1
+- [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") +1
 
 ## Where to find
 
-- Carried by members of the [Flaming Fist](Flaming_Fist.md "Flaming Fist")
+- Carried by members of the [焰拳](Flaming_Fist.md "焰拳")
 
 # 变体
 
-A **Flaming Fist Helmet** is a common [Helmet](Headwear.md "Headwear").
+A **Flaming Fist Helmet** is a common [头饰](Headwear.md "头饰").
 
 The brutish thuggery of the Enforcer's position is summarised in this helmet's design.
 
 ## Properties
 
-- [Helmets](Helmets.md "Helmets")
-- Required Proficiency: [Medium Armour](Medium_Armour.md "Medium Armour")
+- [头饰](Helmets.md "头饰")
+- Required Proficiency: [护甲](Medium_Armour.md "护甲")
 - Rarity: Common
 - 重量: 1 kg (2 lb)
 - Price: 40 gp
@@ -61,11 +61,11 @@ The brutish thuggery of the Enforcer's position is summarised in this helmet's d
 
 The wearer of this item gains:
 
-- [Constitution](Constitution.md "Constitution") [Saving Throws](Saving_throw.md "Saving Throw") +1
+- [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") +1
 
 ## Where to find
 
-- Carried by members of the [Flaming Fist](Flaming_Fist.md "Flaming Fist")
+- Carried by members of the [焰拳](Flaming_Fist.md "焰拳")
 
 ---
 *Source: [Flaming Fist Helmet](https://bg3.wiki/wiki/Flaming_Fist_Helmet)*

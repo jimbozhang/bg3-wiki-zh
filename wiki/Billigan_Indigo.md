@@ -25,7 +25,7 @@
 
 ### 第三幕
 
-比利根可以与他的妻子[Sammia Indigo](Sammia_Indigo.md "Sammia Indigo")和儿子[Dannbo Indigo](Dannbo_Indigo.md "Dannbo Indigo")一起被找到，他们正在[Noira Crysst](Noira_Crysst.md "Noira Crysst")和[Horus Crysst](Horus_Crysst.md "Horus Crysst")身后等待进入城市。然而，队伍没有移动，因为[焰拳](Flaming_Fist.md "Flaming Fist")似乎已经关闭了难民的入口。与比利根交谈时，他称这种情况“毫无希望”。
+比利根可以与他的妻子[萨米雅·英迪格](Sammia_Indigo.md "萨米雅·英迪格")和儿子[丹博·英迪格](Dannbo_Indigo.md "丹博·英迪格")一起被找到，他们正在[诺瑞拉·克里斯特](Noira_Crysst.md "诺瑞拉·克里斯特")和[荷鲁斯·克里斯特](Horus_Crysst.md "荷鲁斯·克里斯特")身后等待进入城市。然而，队伍没有移动，因为[焰拳](Flaming_Fist.md "Flaming Fist")似乎已经关闭了难民的入口。与比利根交谈时，他称这种情况“毫无希望”。
 
 ---
 *Source: [Billigan Indigo](https://bg3.wiki/wiki/Billigan_Indigo)*

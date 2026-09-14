@@ -20,7 +20,7 @@
 
 ## 用途
 
-- 用于解救[利亚姆](Liam.md "Liam") \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 用于解救[利亚姆](Liam.md "Liam") \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Torturer's Key](https://bg3.wiki/wiki/Torturer's_Key)*

@@ -37,7 +37,7 @@
 - [反击](Riposte_(passive_feature).md "反击 (被动特性)")
 - [凶蛮打手](Savage_Attacker.md "凶蛮打手")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -47,7 +47,7 @@
 
 此生物已死亡。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -57,7 +57,7 @@
 
 此生物已死亡。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

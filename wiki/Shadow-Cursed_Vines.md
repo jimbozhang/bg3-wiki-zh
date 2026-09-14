@@ -16,7 +16,7 @@
 
 持续时间：1 驱散
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 受影响实体无法移动，每回合受到1-4⁠⁠[黯蚀](Necrotic.md "黯蚀")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害。对其的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")，而其攻击掷骰和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 

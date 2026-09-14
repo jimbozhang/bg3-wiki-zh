@@ -9,7 +9,7 @@
 ## 属性
 
 [堆叠 ID](Stack_ID.md "堆叠 ID")：`RAT_DISEASE`
-[状态组](Status_groups.md "状态组")：[SG_Disease](SG_Disease.md "SG 疾病")
+[状态组](Status_groups.md "状态组")：[患病 (状态组)](SG_Disease.md "患病 (状态组)")
 
 ## 感染来源
 

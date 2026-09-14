@@ -18,8 +18,8 @@
 
 ## 拥有反制善恶的生物
 
-- [Cirrus](Cirrus.md "Cirrus")
-- [Feena](Feena.md "Feena")
+- [西卢斯](Cirrus.md "西卢斯")
+- [菲娜](Feena.md "菲娜")
 
 ## 具有相同堆叠ID的状态
 

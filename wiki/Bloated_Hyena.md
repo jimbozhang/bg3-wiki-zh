@@ -87,7 +87,7 @@
 
 ## 备注
 
-- 如果鬣狗处于[支配野兽](Dominate_Beast.md "Dominate Beast")的效果下，则[伊诺胡的渴望](Yeenoghu's_Hunger_(Condition).md "Yeenoghu's Hunger (Condition)")不会生效，也不会生成豺狼人。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 如果鬣狗处于[支配野兽](Dominate_Beast.md "Dominate Beast")的效果下，则[伊诺胡的渴望](Yeenoghu's_Hunger_(Condition).md "Yeenoghu's Hunger (Condition)")不会生效，也不会生成豺狼人。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 外部链接
 

@@ -1,6 +1,6 @@
 # 新鲜意志
 
-The **Fresh Mind** is a unique item found in the [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony") in [Act Two](Act_Two.md "Act Two").
+The **Fresh Mind** is a unique item found in the [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地") in [第二幕](Act_Two.md "第二幕").
 
 **新鲜意志**是在[第二幕](Act_Two.md "第二幕")的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中发现的一种独特物品。
 
@@ -12,7 +12,7 @@ A humanoid brain - alive and in perfect condition - suspended in cerebrospinal f
 
 ## 属性
 
-- [Miscellaneous Items](Miscellaneous.md "Miscellaneous")
+- [杂物](Miscellaneous.md "杂物")
 - Rarity: Common
 - Weight: 5 kg (10 lb)
 - Price: 1 gp
@@ -26,7 +26,7 @@ A humanoid brain - alive and in perfect condition - suspended in cerebrospinal f
 
 ## 获取地点
 
-- In the [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony"), on-top of a stack of mucilaginous boxes beside the elevator leading to the final area
+- In the [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地"), on-top of a stack of mucilaginous boxes beside the elevator leading to the final area
 
 - 在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，位于通往最终区域的电梯旁一堆粘液盒子的顶部
 
@@ -34,7 +34,7 @@ A humanoid brain - alive and in perfect condition - suspended in cerebrospinal f
 
 ## 用途
 
-- When placed on the Mind-Archive Interface within the [Mind Flayer Colony](Mind_Flayer_Colony.md "Mind Flayer Colony"), the Slack-Skinned Head speaks. Its dialogue implies that it is the mind of a child:
+- When placed on the Mind-Archive Interface within the [夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地"), the Slack-Skinned Head speaks. Its dialogue implies that it is the mind of a child:
 - My head hurts...
 - Can I go back to bed, mummy?
 - Reply: How did you get here?

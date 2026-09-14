@@ -71,7 +71,7 @@
 地狱骑士圣武士装备一把[巨锤 +1](Maul_+1.md "巨锤 +1")。
 
 [至圣斩](Divine_Smite.md "至圣斩") (+ )
-你的武器造成额外 2d8⁠⁠[光耀](Radiant.md "光耀")[DRS](Damage_rider_as_source.md "伤害来源")伤害，当攻击[邪魔](Fiends.md "邪魔")或[不死生物](Undead.md "不死生物")时，伤害增加 1d8⁠⁠[光耀](Radiant.md "光耀")。
+你的武器造成额外 2d8⁠⁠[光耀](Radiant.md "光耀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，当攻击[邪魔](Fiends.md "邪魔")或[不死生物](Undead.md "不死生物")时，伤害增加 1d8⁠⁠[光耀](Radiant.md "光耀")。
 
 [圣疗：高等治疗](Lay_on_Hands_colon__Greater_Healing.md "圣疗：高等治疗") (+ 2 )
 用神圣力量灌注你的双手来治疗一名盟友。

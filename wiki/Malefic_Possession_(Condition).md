@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_OSKARSBELOVED_AURA` [状态组](Status_groups.md "状态组"): [SG_Possessed](SG_Possessed.md "SG 附身")
+[堆叠ID](Stack_ID.md "堆叠ID"): `LOW_OSKARSBELOVED_AURA` [状态组](Status_groups.md "状态组"): [附身 (状态组)](SG_Possessed.md "附身 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态"): 回合开始时
 

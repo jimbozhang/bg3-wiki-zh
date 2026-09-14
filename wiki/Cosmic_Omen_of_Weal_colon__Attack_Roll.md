@@ -2,7 +2,7 @@
 
 另请参阅：[凶兆宇宙预兆：攻击掷骰](Cosmic_Omen_of_Woe_colon__Attack_Roll.md "凶兆宇宙预兆：攻击掷骰")
 
-**吉兆宇宙预兆：攻击掷骰**是授予[星界圆环](Circle_of_the_Stars.md "星界圆环")德鲁伊的一种[反应](Actions.md#Reactions "动作")，允许他们使向外的攻击命中。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+**吉兆宇宙预兆：攻击掷骰**是授予[星界圆环](Circle_of_the_Stars.md "星界圆环")德鲁伊的一种[反应](Actions.md#Reactions "动作")，允许他们使向外的攻击命中。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ## 描述
 

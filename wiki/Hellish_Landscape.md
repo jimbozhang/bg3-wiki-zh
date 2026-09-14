@@ -2,7 +2,7 @@
 
 **地狱光景**是一种常见的[珍品](Valuables.md "Valuables")，主要用于与[商人](Traders.md "商人")议价或出售。
 
-狂野的笔触描绘了[Elturel](Elturel.md "Elturel")城被拖入[地狱](Avernus.md "Avernus")的景象，可怕的[Zariel](Zariel.md "Zariel")的黑色翅膀遮蔽了[伙伴](Companion.md "Companion")的蜡状光芒。
+狂野的笔触描绘了[埃尔图瑞尔](Elturel.md "埃尔图瑞尔")城被拖入[地狱](Avernus.md "Avernus")的景象，可怕的[扎瑞尔](Zariel.md "扎瑞尔")的黑色翅膀遮蔽了[伙伴](Companion.md "Companion")的蜡状光芒。
 
 ## 属性
 

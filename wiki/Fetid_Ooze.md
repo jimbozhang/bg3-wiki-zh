@@ -17,7 +17,7 @@
 
 附近生物每回合受到 1d6⁠⁠[强酸](Acid.md "强酸") 伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - -
 ## 状态
@@ -26,7 +26,7 @@
 
 附近生物每回合受到 1d6⁠⁠[强酸](Acid.md "强酸") 伤害。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - -
 ## 状态

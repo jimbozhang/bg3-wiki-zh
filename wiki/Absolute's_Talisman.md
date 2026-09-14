@@ -1,6 +1,6 @@
 # 至上真神的护符
 
-至上真神的护符是一个[护符](Amulet.md "护符")，允许佩戴者施放一个仅限自身的[Aid](Aid.md "Aid")版本，并且如果他们带有[至上真神](Absolute.md "Absolute")的印记，则在死亡豁免检定上获得[优势](Advantage.md "Advantage")。
+至上真神的护符是一个[护符](Amulet.md "护符")，允许佩戴者施放一个仅限自身的[支援术](Aid.md "支援术")版本，并且如果他们带有[至上真神](Absolute.md "Absolute")的印记，则在死亡豁免检定上获得[优势](Advantage.md "Advantage")。
 
 沾满鲜血，只赠予最忠实的真魂者，以帮助他们维持生命。
 

@@ -21,7 +21,7 @@
 
 被以下生物使用：
 
-- [Ellice](Ellice.md "Ellice")、[伊尔明斯特](Elminster.md "伊尔明斯特")、[Ghislev](Ghislev.md "Ghislev")、[Grice](Grice.md "Grice")、[Grimlark](Grimlark.md "Grimlark")、[Hivune](Hivune.md "Hivune")、[Horriss](Horriss.md "Horriss")、[Notar Esojac](Notar_Esojac.md "Notar Esojac")
+- [埃利斯](Ellice.md "埃利斯")、[伊尔明斯特](Elminster.md "伊尔明斯特")、[吉斯利夫](Ghislev.md "吉斯利夫")、[格赖斯](Grice.md "格赖斯")、[格里姆拉克](Grimlark.md "格里姆拉克")、[海弗恩](Hivune.md "海弗恩")、[霍瑞斯](Horriss.md "霍瑞斯")、[诺塔·伊索雅克](Notar_Esojac.md "诺塔·伊索雅克")
 
 ## 备注
 

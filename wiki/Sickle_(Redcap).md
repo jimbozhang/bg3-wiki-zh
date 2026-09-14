@@ -11,7 +11,7 @@
 2d4 (2~8) + [力量调整值](Damage_Roll.md#Modifiers "Damage Roll") ⁠[挥砍](Slashing.md "Slashing")
 
 详情
-[Sickles](Sickles.md "Sickles")
+[镰刀](Sickles.md "镰刀")
 稀有度：普通
 附魔：无
 单手

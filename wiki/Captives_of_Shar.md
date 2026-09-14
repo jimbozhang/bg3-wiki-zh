@@ -20,7 +20,7 @@
 
 [一份记录着被囚禁于失落之间者姓名的账簿。部分人员被注明已死亡。]
 
-[T'reshk Lir](Subject_Mapping_Results_colon__Githyanki_No._7.md "主体映射结果：吉斯洋基人第7号") (吉斯洋基人 - 全程双人守卫) - 已故
+[主题映射结果：吉斯洋基人第7号](Subject_Mapping_Results_colon__Githyanki_No._7.md "主题映射结果：吉斯洋基人第7号") (吉斯洋基人 - 全程双人守卫) - 已故
 
 [阿内尔·圣叶](Arnell_Hallowleaf.md "阿内尔·圣叶")
 

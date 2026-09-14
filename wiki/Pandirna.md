@@ -39,7 +39,7 @@
 - [炎狱抗性](Hellish_Resistance.md "炎狱抗性")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -47,7 +47,7 @@
 
 受影响的生物无法移动或采取动作。所有对受影响生物的攻击都具有优势，近战攻击总是重击。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -55,7 +55,7 @@
 
 受影响的生物无法移动或采取动作。所有对受影响生物的攻击都具有优势，近战攻击总是重击。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

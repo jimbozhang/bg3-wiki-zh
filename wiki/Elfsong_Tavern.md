@@ -109,7 +109,7 @@
 以下是酒吧间周围一些NPC小场景的列表。
 
 - 剧作家[奥洛瑞克·维特密斯](Oloric_Witmirth.md "奥洛瑞克·维特密斯")坐在最靠近入口的凹室。他不太确定自己认识玩家角色<sup>[\[5\]](#cite_note-5)</sup>。奥洛瑞克也在[哀伤之邸](House_of_Grief.md "哀伤之邸")的[客户清单](Client_List.md "客户清单")中被提及，称其接受了“卸负”，这可能是他部分失忆的原因。
-- 冒险家[伯姆巴托](Bombasto.md "伯姆巴托")和[勾刀女爵](Dame_Guisarme.md "勾刀女爵")坐在下一个侧凹室。他们的外表类似于[_Vox Machina_](Cultural_references.md#Vox_Machina "文化引用")动画系列中的角色。
+- 冒险家[伯姆巴托](Bombasto.md "伯姆巴托")和[勾刀女爵](Dame_Guisarme.md "勾刀女爵")坐在下一个侧凹室。他们的外表类似于[文化引用](Cultural_references.md#Vox_Machina "文化引用")动画系列中的角色。
 - 酒馆中央一张桌子周围，[巴福·特纳](Buff_Tanner.md "巴福·特纳")、[辛迪列·瓦德](Cyndirie_Vand.md "辛迪列·瓦德")、[格兰尼·约德普](Grainne_Jodhpur.md "格兰尼·约德普")和[辛博](Thimble.md "辛博")在玩纸牌游戏（根据他们的对话，可能是[塔利斯](Talis.md "塔利斯")）。
 - 夫妇[布莱森·索克斯](Blarson_Throaks.md "布莱森·索克斯")和[克洛维亚·索克斯](Clovia_Throaks.md "克洛维亚·索克斯")正在庆祝儿子找到工作。[后者](Gasper_Throaks.md "加斯珀·索克斯")稍后可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")遇到。如果与他们两人交谈，某些对话选项可能揭示克洛维亚将离开丈夫，与[塔米娅·霍尔兹](Tamia_Holzt.md "塔米娅·霍尔兹")在一起，后者为他们的儿子提供了工作（巧合的是，她是他的上司）。
 - 半身人[朵拉·萨姆福特](Doora_Thumbfoot.md "朵拉·萨姆福特")试图卖掉一些珠宝，以便帮助丈夫逃离博德之门。询问她此事并帮助她，可以获得一些伙伴的好感度。

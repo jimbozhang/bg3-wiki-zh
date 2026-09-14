@@ -24,7 +24,7 @@
 
 详情
 远程武器 [攻击掷骰](Attack_roll.md "攻击掷骰")（未命中：不消耗 [卓越骰子](Battle_Master.md#Level_3 "战斗大师")。）
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 为武器动作 DC）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 为武器动作 DC）
 射程：正常武器射程
 
 ## 状态：倒伏

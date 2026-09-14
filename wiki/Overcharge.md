@@ -12,7 +12,7 @@
 
 持续时间：1 [驱散](Turn.md "驱散")
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 10）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 10）
 
 - 受影响的生物无法移动或使用[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")。
 - 受影响的生物自动在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")的[豁免检定](Saving_throw.md "豁免检定")中失败。

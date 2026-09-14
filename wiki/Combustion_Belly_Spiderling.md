@@ -11,7 +11,7 @@
 | 先攻 | +3 |
 | 移动速度 | 9 米 (30 英尺) |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
@@ -19,7 +19,7 @@
 
 - 此生物每回合受到 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害，并在死亡时引爆。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - - - ## 状态
 
@@ -66,7 +66,7 @@
 
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")
 
-当被杀死或在其回合时，燃烧之腹幼蛛可以使用幼蛛爆炸。可以进行一次 [DC](Dice_rolls.md#Save_DCs "骰子检定") 15 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 来承受一半伤害。虽然在此游戏阶段伤害不算特别高，但这通常会导致其他燃烧之腹幼蛛也爆炸，可能杀死[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder_Ravengard")。
+当被杀死或在其回合时，燃烧之腹幼蛛可以使用幼蛛爆炸。可以进行一次 [掷骰](Dice_rolls.md#Save_DCs "骰子检定") 15 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 来承受一半伤害。虽然在此游戏阶段伤害不算特别高，但这通常会导致其他燃烧之腹幼蛛也爆炸，可能杀死[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder_Ravengard")。
 
 ---
 *Source: [Combustion Belly Spiderling](https://bg3.wiki/wiki/Combustion_Belly_Spiderling)*

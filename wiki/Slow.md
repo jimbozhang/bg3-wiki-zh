@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [3级法术位](Spells.md#Spell_slots "法术")
 详情
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18米（60英尺）
 目标：6个生物
 [专注](Concentration.md "专注")
@@ -26,7 +26,7 @@
 
 持续时间：10回合
 
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - [移动速度](Movement_speed.md "移动速度")减半
 - [护甲等级](Armour_Class.md "护甲等级")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")降低2点

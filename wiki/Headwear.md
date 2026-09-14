@@ -187,7 +187,7 @@
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1
 
 [惩庸罚劣](Smite_the_Graceless.md "惩庸罚劣")
-攻击佩戴者但[攻击掷骰](Attack_roll.md "攻击掷骰")未命中的生物必须通过[DC](Dice_rolls.md#Save_DCs "掷骰") 14[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则受到1d4⁠⁠[光耀](Radiant.md "光耀")伤害。
+攻击佩戴者但[攻击掷骰](Attack_roll.md "攻击掷骰")未命中的生物必须通过[掷骰](Dice_rolls.md#Save_DCs "掷骰") 14[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则受到1d4⁠⁠[光耀](Radiant.md "光耀")伤害。
 | [残缺的黯狱头盔](Flawed_Helldusk_Helmet.md "残缺的黯狱头盔") | 1 kg 2 lb | 300 |
 
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1

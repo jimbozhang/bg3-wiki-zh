@@ -29,7 +29,7 @@
 持续时间：2回合
 
 - 闪电贯穿你。你的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有+1加值，并造成额外1点[闪电](Lightning.md "闪电")伤害。
-- 若你获得5层冲锋，下次造成伤害时将被[吞噬](consumed.md "吞噬")，并造成额外1d8点[闪电](Lightning.md "闪电")[DRS](Damage_rider_as_source.md "伤害来源")伤害。
+- 若你获得5层冲锋，下次造成伤害时将被[吞噬](consumed.md "吞噬")，并造成额外1d8点[闪电](Lightning.md "闪电")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 - 每回合失去1层冲锋。
 
 ## 注释

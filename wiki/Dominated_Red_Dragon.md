@@ -34,7 +34,7 @@
 - [魔法抗性](Magic_Resistance.md "Magic Resistance")
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -42,7 +42,7 @@
 
 - 这条龙正被耐色脑的心灵力量所控制。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 
@@ -50,7 +50,7 @@
 
 - 这条龙正被耐色脑的心灵力量所控制。
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

@@ -2,11 +2,11 @@
 
 **蛇毒涂抹状态**
 
-- 目标在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素") 伤害，除非其通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素") 伤害，除非其通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "堆叠 ID")：`DIPPED` [状态组](Status_groups.md "状态组")：[SG_WeaponCoating](SG_WeaponCoating.md "SG 武器涂抹")
+[堆叠 ID](Stack_ID.md "堆叠 ID")：`DIPPED` [状态组](Status_groups.md "状态组")：[SG 武器涂抹](SG_WeaponCoating.md "SG 武器涂抹")
 
 ## 状态：蛇牙毒素
 
@@ -14,7 +14,7 @@
 
 持续时间：1 回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 13)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 13)
 
 - 受影响实体在其下一回合结束时受到 1d6⁠⁠[毒素](Poison.md "毒素") 伤害。
 
@@ -35,18 +35,18 @@
 [简易毒药涂抹状态](Coated_in_Basic_Poison_(Condition).md "简易毒药涂抹状态")
 |
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 11 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
 - 若豁免成功，目标获得 [免疫：简易毒药](Inoculated_colon__Basic_Poison_(Condition).md "免疫：简易毒药 (状态)")，持续 2 回合。
 
 [酿造腹鸣酒涂抹状态](Coated_in_Brewed-up_Bellyglummer_(Condition).md "酿造腹鸣酒涂抹状态")
 |
 
-- 武器涂抹了酿造腹鸣酒。目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 17 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [中毒](Brewed-Up_Bellyglummer_(Condition).md "酿造腹鸣酒 (状态)")。
+- 武器涂抹了酿造腹鸣酒。目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 17 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [中毒](Brewed-Up_Bellyglummer_(Condition).md "酿造腹鸣酒 (状态)")。
 
 [爬行者粘液涂抹状态](Coated_in_Crawler_Mucus_(Condition).md "爬行者粘液涂抹状态")
 |
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [感染爬行者粘液](Stricken_with_Crawler_Mucus_(Condition).md "感染爬行者粘液 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [感染爬行者粘液](Stricken_with_Crawler_Mucus_(Condition).md "感染爬行者粘液 (状态)")。
 - 若豁免成功，目标获得 [免疫：爬行者粘液](Inoculated_colon__Crawler_Mucus_(Condition).md "免疫：爬行者粘液 (状态)")，持续 2 回合。
 
 [稀释的锐利之油涂抹状态](Coated_in_Diluted_Oil_of_Sharpness_(Condition).md "稀释的锐利之油涂抹状态")
@@ -57,19 +57,19 @@
 [卓尔毒药涂抹状态](Coated_in_Drow_Poison_(Condition).md "卓尔毒药涂抹状态")
 |
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [中毒](Poisoned_(Condition).md "中毒 (状态)") 并陷入 [沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 13 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [中毒](Poisoned_(Condition).md "中毒 (状态)") 并陷入 [沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 - 若豁免成功，目标获得 [免疫：卓尔毒药](Inoculated_colon__Drow_Poison_(Condition).md "免疫：卓尔毒药 (状态)")，持续 2 回合。
 
 [怨恨涂抹状态](Coated_in_Malice_(Condition).md "怨恨涂抹状态")
 |
 
-- 目标必须通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 15 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [目盲](Blinded_(Condition).md "目盲 (状态)") 和 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
+- 目标必须通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 15 的 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将 [目盲](Blinded_(Condition).md "目盲 (状态)") 和 [中毒](Poisoned_(Condition).md "中毒 (状态)")。
 - 豁免检定成功的目标获得 [免疫：怨恨](Inoculated_colon__Malice_(Condition).md "免疫：怨恨 (状态)")，持续 2 回合。
 
 [灾祸油涂抹状态](Coated_in_Oil_of_Bane_(Condition).md "灾祸油涂抹状态")
 |
 
-- 目标将陷入 [灾祸术](Bane_(Condition).md "灾祸术 (状态)")，持续 2 回合，除非其通过一次 [DC](Dice_rolls.md#Save_DCs "掷骰") 11 的 [魅力](Charisma.md "魅力") [豁免检定](Saving_throw.md "豁免检定")。
+- 目标将陷入 [灾祸术](Bane_(Condition).md "灾祸术 (状态)")，持续 2 回合，除非其通过一次 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 11 的 [魅力](Charisma.md "魅力") [豁免检定](Saving_throw.md "豁免检定")。
 
 [燃烧油涂抹状态](Coated_in_Oil_of_Combustion_(Condition).md "燃烧油涂抹状态")
 |

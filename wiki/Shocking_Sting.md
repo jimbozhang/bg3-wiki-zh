@@ -12,7 +12,7 @@
 
 持续时间：2 驱散
 
-[体](CON.md "体质") [豁免检定](Saving_throw.md "豁免检定")（[DC](DC.md "DC") 13）
+[体](CON.md "体质") [豁免检定](Saving_throw.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 13）
 
 - 无法进行 [反应](Reaction_(Resource).md "反应")。
 

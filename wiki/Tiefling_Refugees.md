@@ -260,7 +260,7 @@
 
 #### 失踪
 
-这些角色的命运尚未确认。 \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+这些角色的命运尚未确认。 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 - [阿尔卡](Arka.md "阿尔卡")
 - [多尼](Doni.md "多尼")
@@ -287,7 +287,7 @@ _更多内容请见[不落一人](Leave_No_One_Behind.md "不落一人")_
 
 ## 注释与参考
 
-1. ↑ [1.0](#cite_ref-gotoprison_1-0) [1.1](#cite_ref-gotoprison_1-1) 在队伍进入空谷后，移动到[临时监狱](Makeshift_Prison.md "临时监狱")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+1. ↑ [1.0](#cite_ref-gotoprison_1-0) [1.1](#cite_ref-gotoprison_1-1) 在队伍进入空谷后，移动到[临时监狱](Makeshift_Prison.md "临时监狱")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 1. [↑](#cite_ref-2) 在俯瞰林地的山丘上
 1. [↑](#cite_ref-3) 在与[艾拉丁](Aradin.md "艾拉丁")对峙后，移动到[隐蔽房间](Secluded_Chamber.md "隐蔽房间")
 1. [↑](#cite_ref-4) 当队伍离开林地时，移动到[提夫林避难所](Tiefling_Hideout.md "提夫林避难所")

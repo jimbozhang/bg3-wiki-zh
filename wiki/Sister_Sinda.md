@@ -33,11 +33,11 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **馨妲姐妹**是一名在[治疗中心](House_of_Healing.md "治疗中心")工作的[不死护士](Undead_Nurse.md "不死护士")，出现在[第二幕](Act_Two.md "第二幕")。
 

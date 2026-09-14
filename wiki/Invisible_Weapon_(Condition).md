@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `MAG_INVISIBLE_WEAPON` [状态组](Status_groups.md "状态组"): [SG_Invisible](SG_Invisible.md "SG Invisible")
+[堆叠ID](Stack_ID.md "堆叠ID"): `MAG_INVISIBLE_WEAPON` [状态组](Status_groups.md "状态组"): [隐形 (状态组)](SG_Invisible.md "隐形 (状态组)")
 
 [堆叠优先级](Stack_priority.md "堆叠优先级"): 1
 

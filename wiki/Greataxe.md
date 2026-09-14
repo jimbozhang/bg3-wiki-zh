@@ -30,7 +30,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 劈砍目标的要害点，使其[流血](Bleeding_(Condition).md "流血 (状态)")。(充能：[短休](Short_rest.md "短休")。)
 
 [准备](Prepare.md "准备")
-消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害(最低 1 点)。(充能：[短休](Short_rest.md "短休")。)
+消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害(最低 1 点)。(充能：[短休](Short_rest.md "短休")。)
 
 ## 获取地点
 
@@ -68,7 +68,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 劈砍目标的要害点，使其[流血](Bleeding_(Condition).md "流血 (状态)")。(充能：[短休](Short_rest.md "短休")。)
 
 [准备](Prepare.md "准备")
-消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[DRS](Damage_rider_as_source.md "伤害来源")伤害(最低 1 点)。(充能：[短休](Short_rest.md "短休")。)
+消耗 6 米 (20 英尺) 的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害(最低 1 点)。(充能：[短休](Short_rest.md "短休")。)
 
 ---
 *Source: [Greataxe](https://bg3.wiki/wiki/Greataxe)*

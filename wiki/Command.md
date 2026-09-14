@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [1级法术位](Spells.md#Spell_slots "法术")
 详情
-[WIS](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 射程：18米（60英尺）
 
 ## 升环施法

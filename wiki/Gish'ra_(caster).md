@@ -124,13 +124,13 @@
 ### 烈焰
 
 - [M'i'hayk](M'i'hayk.md "M'i'hayk")
-- [Mir'ic](Mir'ic.md "Mir'ic")
+- [米尔里克 (Mir'ic)](Mir'ic.md "米尔里克 (Mir'ic)")
 
 ### 西风
 
 - [Hr'ack'la](Hr'ack'la.md "Hr'ack'la")
-- [Jyd'i'](Jyd'i'.md "Jyd'i'")
-- [Verik](Verik.md "Verik")
+- [吉迪'](Jyd'i'.md "吉迪'")
+- [维里克](Verik.md "维里克")
 
 ---
 *Source: [Gish'ra (caster)](https://bg3.wiki/wiki/Gish'ra_(caster)*

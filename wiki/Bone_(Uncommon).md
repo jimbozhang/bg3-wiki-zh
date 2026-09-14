@@ -16,7 +16,7 @@
 
 - UID `LOOT_GEN_DryBone_A` UUID `876c66a6-018c-48fe-8406-d90561d3db23` ## 获取地点
 
-- 似乎是某些地点的稀有随机掉落物，可能仅在第 5 补丁之后出现。 \[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]
+- 似乎是某些地点的稀有随机掉落物，可能仅在第 5 补丁之后出现。 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 - 以下地点已确认：
 

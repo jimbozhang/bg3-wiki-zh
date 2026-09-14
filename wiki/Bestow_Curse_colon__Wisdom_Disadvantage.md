@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "Actions") + [3 级法术位](Spells.md#Spell_slots "Spells")
 详情
-[WIS](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws")
 近战：1.5 米（5 英尺）
 [专注](Concentration.md "Concentration")
 
@@ -25,7 +25,7 @@
 
 持续时间：10 驱散
 
-[WIS](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 在使用[感知](Wisdom.md "Wisdom")的[属性检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")时具有[劣势](Disadvantage.md "Disadvantage")。
 

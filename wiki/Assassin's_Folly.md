@@ -37,7 +37,7 @@
 - [可靠才能](Reliable_Talent.md "可靠才能")
 - [直觉闪避](Uncanny_Dodge.md "直觉闪避")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 
@@ -45,7 +45,7 @@
 
 可看见9m (30ft)范围内的隐形生物。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 ## 状态
 

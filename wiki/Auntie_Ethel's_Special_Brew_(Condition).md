@@ -2,13 +2,13 @@
 
 **埃赛尔婶婶的特制酿品**
 
-- 受影响的生物在每回合开始时受到 2d6⁠⁠[毒素](Poison.md "Poison") 伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")。
+- 受影响的生物在每回合开始时受到 2d6⁠⁠[毒素](Poison.md "Poison") 伤害，直到通过一次 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")。
 
 [中毒](Poisoned_(status_group).md)
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `HAG_MYSTERIOUS_GIFT` [状态组](Status_groups.md "Status groups"): [SG_Surface](SG_Surface.md "SG Surface"), [SG_Poisoned](SG_Poisoned.md "SG Poisoned"), [SG_Condition](SG_Condition.md "SG Condition")
+[堆叠 ID](Stack_ID.md "Stack ID"): `HAG_MYSTERIOUS_GIFT` [状态组](Status_groups.md "Status groups"): [SG_Surface](SG_Surface.md "SG Surface"), [中毒 (状态组)](SG_Poisoned.md "中毒 (状态组)"), [SG 状态](SG_Condition.md "SG 状态")
 
 [持续时间结束](Conditions.md#Duration "Conditions"): 回合开始时
 
@@ -26,7 +26,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 受影响的生物在每回合开始时受到 2d6⁠⁠[毒素](Poison.md "Poison") 伤害，直到通过一次 [DC](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")。
+- 受影响的生物在每回合开始时受到 2d6⁠⁠[毒素](Poison.md "Poison") 伤害，直到通过一次 [掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 13 的 [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw")。
 
 ---
 *Source: [Auntie Ethel's Special Brew (Condition)](https://bg3.wiki/wiki/Auntie_Ethel's_Special_Brew_(Condition)*

@@ -12,9 +12,9 @@
 
 持续时间：3 驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 13)
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 13)
 
-- 半径 3 米（10 英尺）内的敌对生物受到 1d4 [强酸](Acid.md "强酸") [DRS](Damage_rider_as_source.md "伤害驱动源") 伤害。
+- 半径 3 米（10 英尺）内的敌对生物受到 1d4 [强酸](Acid.md "强酸") [伤害机制](Damage_rider_as_source.md "伤害机制") 伤害。
 
 ## 如何习得
 

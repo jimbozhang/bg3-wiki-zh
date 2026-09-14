@@ -52,13 +52,13 @@
 - [高级黑暗视觉](Superior_Darkvision.md "Superior Darkvision")
 - [韧性](Tenacity_(passive_feature).md "Tenacity (passive feature)")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
 - 3
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

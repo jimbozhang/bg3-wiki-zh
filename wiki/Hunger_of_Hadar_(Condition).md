@@ -6,7 +6,7 @@
 
 2d6 (2~12) ⁠[强酸](Acid.md "强酸")
 
-[DC](Dice_rolls.md#Save_DCs "骰子掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")
+[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 12 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")
 
 - 站在通往星间黑暗的传送门附近，感染了未知的恐怖。
 - 只要处于区域内，在其回合开始时受到 2d6⁠⁠[寒冷](Cold.md "寒冷") 伤害，并可能在回合结束时受到 2d6⁠⁠[强酸](Acid.md "强酸") 伤害。

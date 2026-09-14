@@ -82,13 +82,13 @@
 以下[消耗品](Consumable.md "消耗品")物品可用于造成力场伤害。对于[箭](Arrows.md "箭")，伤害会附加到攻击者的常规远程武器伤害之上。
 
 - [虚空球茎](Void_Bulb.md "虚空球茎")：在区域内造成 1⁠⁠力场伤害。
-- [烟粉炸弹](Smokepowder_Bomb.md "烟粉炸弹")：在区域内造成 3d4+9⁠⁠力场伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）以减半伤害。
-- [烟粉挎包](Smokepowder_Satchel.md "烟粉挎包")：在区域内造成 3d4+9⁠⁠力场 + 2d6⁠⁠力场伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）以减半伤害。
-- [猩红炸药](Sanguine_Explosive.md "猩红炸药")：在区域内造成 4d8⁠⁠力场 + 4d8⁠⁠[火焰](Fire.md "火焰")伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 17）以减半伤害。
-- [符文火药瓶](Runepowder_Vial.md "符文火药瓶")：在区域内造成 5d4+18⁠⁠力场伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）以减半伤害。
-- [精准报复](Brilliant_Retort.md "精准报复")：在区域内造成 3d4+9⁠⁠力场伤害。（因错误而翻倍。）[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）以减半伤害。
-- [血甲魔炸弹](Orthonic_Handbomb.md "血甲魔炸弹")：在区域内造成 4d8⁠⁠力场 + 4d8⁠⁠[火焰](Fire.md "火焰")伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 17）以减半伤害。
-- [烟粉箭](Smokepowder_Arrow.md "烟粉箭")：在区域内造成 4d6⁠⁠力场 + 4d6⁠⁠[火焰](Fire.md "火焰")伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 15）以减半伤害。
+- [烟粉炸弹](Smokepowder_Bomb.md "烟粉炸弹")：在区域内造成 3d4+9⁠⁠力场伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）以减半伤害。
+- [烟粉挎包](Smokepowder_Satchel.md "烟粉挎包")：在区域内造成 3d4+9⁠⁠力场 + 2d6⁠⁠力场伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）以减半伤害。
+- [猩红炸药](Sanguine_Explosive.md "猩红炸药")：在区域内造成 4d8⁠⁠力场 + 4d8⁠⁠[火焰](Fire.md "火焰")伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 17）以减半伤害。
+- [符文火药瓶](Runepowder_Vial.md "符文火药瓶")：在区域内造成 5d4+18⁠⁠力场伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）以减半伤害。
+- [精准报复](Brilliant_Retort.md "精准报复")：在区域内造成 3d4+9⁠⁠力场伤害。（因错误而翻倍。）[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）以减半伤害。
+- [血甲魔炸弹](Orthonic_Handbomb.md "血甲魔炸弹")：在区域内造成 4d8⁠⁠力场 + 4d8⁠⁠[火焰](Fire.md "火焰")伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 17）以减半伤害。
+- [烟粉箭](Smokepowder_Arrow.md "烟粉箭")：在区域内造成 4d6⁠⁠力场 + 4d6⁠⁠[火焰](Fire.md "火焰")伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）以减半伤害。
 
 ---
 *Source: [Force](https://bg3.wiki/wiki/Force)*

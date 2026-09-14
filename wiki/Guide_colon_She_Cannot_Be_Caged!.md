@@ -2,7 +2,7 @@
 
 这是一份[用户操作指南](Guide_colon_Index.md "Guide:Index")，遵循与维基其他部分不同的[指南](Help_colon_Guide_namespace.md "Help:Guide namespace")。编辑此页面前请咨询用户。请在[讨论页](Guide_talk_colon_She_Cannot_Be_Caged!.md "Guide talk:She Cannot Be Caged!")留下反馈。
 
-拯救[萨扎](Sazza.md "Sazza")可能是一件棘手的事情。<sup>[\[1\]](#cite_note-1)</sup> 考虑到她的效忠对象以及她经常出现的位置，确保她的生存可能很困难。此外，她的一些状态标记似乎会以非预期的方式运作，即使她在[第一幕](Act_One.md "Act_One")结束时还活着，也可能在[第二幕](Act_Two.md "Act Two")中死亡。\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\] 虽然这个[成就](Achievement.md "Achievement")在地精阵营的游戏中很容易获得，但通过遵循下面列出的特定步骤，仍然可以在提夫林阵营的游戏中满足条件。<sup>[\[2\]](#cite_note-2)</sup>。
+拯救[萨扎](Sazza.md "Sazza")可能是一件棘手的事情。<sup>[\[1\]](#cite_note-1)</sup> 考虑到她的效忠对象以及她经常出现的位置，确保她的生存可能很困难。此外，她的一些状态标记似乎会以非预期的方式运作，即使她在[第一幕](Act_One.md "Act_One")结束时还活着，也可能在[第二幕](Act_Two.md "Act Two")中死亡。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\] 虽然这个[成就](Achievement.md "Achievement")在地精阵营的游戏中很容易获得，但通过遵循下面列出的特定步骤，仍然可以在提夫林阵营的游戏中满足条件。<sup>[\[2\]](#cite_note-2)</sup>。
 
 ## 流程攻略
 

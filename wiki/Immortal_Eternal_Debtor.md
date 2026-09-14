@@ -39,11 +39,11 @@
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 - [永恒债务](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **不朽的永恒债务人**是被束缚于[拉斐尔](Raphael.md "拉斐尔")奴役的[永恒债务人](Eternal_Debtor.md "永恒债务人")。
 

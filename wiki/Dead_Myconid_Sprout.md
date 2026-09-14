@@ -12,7 +12,7 @@
 | 移动速度 | 8 米 (27 英尺) |
 | 经验值 | 40 |
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 状态
 

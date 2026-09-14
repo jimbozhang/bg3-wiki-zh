@@ -16,7 +16,7 @@
 
 - UID `UNI_Magicstaff_A_Part_Top_A` UUID `db32d957-c708-4694-a863-271e6a9a4676` ## 获取地点
 
-- 位于[蕈人](Myconid.md "蕈人")聚落的[Xargrim](Xargrim.md "Xargrim")苍白尸体处，坐标 X: 49 Y: -72，靠近[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")，在藤蔓墙后方
+- 位于[蕈人](Myconid.md "蕈人")聚落的[夏格林](Xargrim.md "夏格林")苍白尸体处，坐标 X: 49 Y: -72，靠近[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")，在藤蔓墙后方
 
 ## 备注
 

@@ -1,10 +1,10 @@
 # 九狱
 
-The **Nine Hells** are the infernal lower ⁠[Planes](https://forgottenrealms.fandom.com/wiki/Plane), each ruled by an **Archdevil**. They are home to [Devils](Devil.md "Devil") and divided into nine cosmological layers. Every layer is its own unique magical ecosystem, warped after the sheer presence of their rulers.
+The **Nine Hells** are the infernal lower ⁠[Planes](https://forgottenrealms.fandom.com/wiki/Plane), each ruled by an **Archdevil**. They are home to [邪魔](Devil.md "邪魔") and divided into nine cosmological layers. Every layer is its own unique magical ecosystem, warped after the sheer presence of their rulers.
 
 **九狱**是下层⁠[位面](https://forgottenrealms.fandom.com/wiki/Plane)中的炼狱位面，每个层面都由一位**大魔鬼**统治。它们是[魔鬼](Devil.md "魔鬼")的家园，并被划分为九个宇宙层面。每个层面都是一个独特的魔法生态系统，因统治者的纯粹存在而扭曲。
 
-The Nine Hells are locked into a never-ending ⁠[Blood War](https://forgottenrealms.fandom.com/wiki/Blood_War) with the [Demons](Demon.md "Demon") of the ⁠[Abyss](https://forgottenrealms.fandom.com/wiki/Abyss).
+The Nine Hells are locked into a never-ending ⁠[Blood War](https://forgottenrealms.fandom.com/wiki/Blood_War) with the [邪魔](Demon.md "邪魔") of the ⁠[Abyss](https://forgottenrealms.fandom.com/wiki/Abyss).
 
 九狱与⁠[深渊](https://forgottenrealms.fandom.com/wiki/Abyss)的[恶魔](Demon.md "恶魔")们陷入了一场永无止境的⁠[血腥战争](https://forgottenrealms.fandom.com/wiki/Blood_War)。
 
@@ -12,8 +12,8 @@ The Nine Hells are locked into a never-ending ⁠[Blood War](https://forgottenre
 
 ## 地狱层面
 
-1. ⁠[Avernus](Avernus.md "Avernus"), ruled by Archduchess [Zariel](Zariel.md "Zariel")
-1. ⁠[Avernus](Avernus.md "Avernus")，由女大公[扎瑞尔](Zariel.md "扎瑞尔")统治。
+1. ⁠[阿弗纳斯](Avernus.md "阿弗纳斯"), ruled by Archduchess [扎瑞尔](Zariel.md "扎瑞尔")
+1. ⁠[阿弗纳斯](Avernus.md "阿弗纳斯")，由女大公[扎瑞尔](Zariel.md "扎瑞尔")统治。
 
 2. ⁠[Dis](https://forgottenrealms.fandom.com/wiki/Dis), ruled by Archduke ⁠[Dispater](https://forgottenrealms.fandom.com/wiki/Dispater)
 2. ⁠[Dis](https://forgottenrealms.fandom.com/wiki/Dis)，由大公⁠[迪斯帕特](https://forgottenrealms.fandom.com/wiki/Dispater)统治。
@@ -33,7 +33,7 @@ The Nine Hells are locked into a never-ending ⁠[Blood War](https://forgottenre
 7. ⁠[Maladomini](https://forgottenrealms.fandom.com/wiki/Maladomini), ruled by Archduke ⁠[Baalzebul](https://forgottenrealms.fandom.com/wiki/Baalzebul)
 7. ⁠[Maladomini](https://forgottenrealms.fandom.com/wiki/Maladomini)，由大公⁠[巴尔泽布](https://forgottenrealms.fandom.com/wiki/Baalzebul)统治。
 
-8. ⁠[Cania](https://forgottenrealms.fandom.com/wiki/Cania), ruled by Archduke [Mephistopheles](Mephistopheles.md "Mephistopheles")
+8. ⁠[Cania](https://forgottenrealms.fandom.com/wiki/Cania), ruled by Archduke [梅菲斯特](Mephistopheles.md "梅菲斯特")
 8. ⁠[Cania](https://forgottenrealms.fandom.com/wiki/Cania)，由大公[梅菲斯特](Mephistopheles.md "梅菲斯特")统治。
 
 9. ⁠[Nessus](https://forgottenrealms.fandom.com/wiki/Nessus), ruled by Lord ⁠[Asmodeus][https://forgottenrealms.fandom.com/wiki/Asmodeus]<sup>[\[2\]](#cite_note-2)</sup>
@@ -43,26 +43,26 @@ The Nine Hells are locked into a never-ending ⁠[Blood War](https://forgottenre
 
 ## 相关文献
 
-- [As Per My Last Letter](As_Per_My_Last_Letter.md "As Per My Last Letter")
-- [As Per My Last Letter](As_Per_My_Last_Letter.md "As Per My Last Letter")
+- [如我上封信所言](As_Per_My_Last_Letter.md "如我上封信所言")
+- [如我上封信所言](As_Per_My_Last_Letter.md "如我上封信所言")
 
-- [Infernal Contracts And Bargains](Infernal_Contracts_And_Bargains.md "Infernal Contracts And Bargains")
+- [地狱契约与议价](Infernal_Contracts_And_Bargains.md "地狱契约与议价")
 - [地狱契约与议价](Infernal_Contracts_And_Bargains.md "地狱契约与议价")
 
-- [The Blood War](The_Blood_War.md "The Blood War")
+- [血腥战争](The_Blood_War.md "血腥战争")
 - [血腥战争](The_Blood_War.md "血腥战争")
 
-- [The Hells Unleashed](The_Hells_Unleashed.md "The Hells Unleashed")
+- [九狱洞开](The_Hells_Unleashed.md "九狱洞开")
 - [九狱洞开](The_Hells_Unleashed.md "九狱洞开")
 
 ## Notes and references
 
 ## 注释与参考
 
-1. [↑](#cite_ref-1) [Helsik](Helsik.md "Helsik") is a warlock pacted to Mammon.
+1. [↑](#cite_ref-1) [赫尔希克](Helsik.md "赫尔希克") is a warlock pacted to Mammon.
 1. [↑](#cite_ref-1) [赫尔希克](Helsik.md "赫尔希克")是与玛门立下契约的邪术师。
 
-2. [↑](#cite_ref-2) From whose bloodline [Asmodeus Tieflings](Tiefling.md#Asmodeus_tiefling "Tiefling") descend.
+2. [↑](#cite_ref-2) From whose bloodline [提夫林](Tiefling.md#Asmodeus_tiefling "Tiefling") descend.
 2. [↑](#cite_ref-2) [阿斯蒙蒂斯提夫林](Tiefling.md#Asmodeus_tiefling "提夫林")的血统源自于他。
 
 ## External Links

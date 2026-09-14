@@ -26,7 +26,7 @@
 - 范围效果：2米 / 7英尺（半径）
 - 4d8（4~32）⁠[力场](Force.md "力场")伤害
 - 4d8（4~32）⁠[火焰](Fire.md "火焰")伤害
-- [DC](Dice_rolls.md#Save_DCs "掷骰") 17 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")以减半所有伤害，并抵消燃烧效果
+- [掷骰](Dice_rolls.md#Save_DCs "掷骰") 17 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定")以减半所有伤害，并抵消燃烧效果
 
 **属性**
 

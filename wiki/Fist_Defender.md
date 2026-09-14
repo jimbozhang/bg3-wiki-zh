@@ -41,7 +41,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [守护](Protection.md "守护")
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -53,7 +53,7 @@
 
 受影响实体获得 1d4⁠⁠[挥砍](Slashing.md "挥砍")加值至[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")，直到下一次长休。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 
@@ -65,7 +65,7 @@
 
 受攻击实体获得 1d4⁠⁠[挥砍](Slashing.md "挥砍")加值至[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")，直到下一次长休。
 
-## 抗性 [(info)](Resistances.md "抗性")
+## 抗性 [抗性](Resistances.md "抗性")
 
 - ## 额外资源
 

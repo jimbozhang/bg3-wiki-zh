@@ -27,7 +27,7 @@
 
 ### 第三幕
 
-比莱姆几乎可以在[下城区墓园](Graveyard_(Lower_City).md), across the [Mortuary](Mortuary.md "Mortuary")的中心找到。她在为被[多洛](Dolor.md "Dolor")谋杀的母亲贾斯敏的新坟墓哀悼。她正在和她说话，仿佛她还活着，而不是和队伍成员说话。
+比莱姆几乎可以在[下城区墓园](Graveyard_(Lower_City).md), across the [墓园 (下城区)](Mortuary.md "墓园 (下城区)")的中心找到。她在为被[多洛](Dolor.md "Dolor")谋杀的母亲贾斯敏的新坟墓哀悼。她正在和她说话，仿佛她还活着，而不是和队伍成员说话。
 
 如果与她交谈，比莱姆说她试图为母亲摘一些蓝花。如果⁠[调查谋杀案](Investigate_the_Murders.md "调查谋杀案")任务已经解决，她会告诉她妈妈“他们抓住了坏人”。
 

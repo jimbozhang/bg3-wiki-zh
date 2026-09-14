@@ -6,7 +6,7 @@
 
 ## 属性
 
-[堆叠 ID](Stack_ID.md "Stack ID"): `DIFFICULT_TERRAIN` [状态组](Status_groups.md "Status groups"): [SG_Surface](SG_Surface.md "SG Surface"), [SG_DifficultTerrain](SG_DifficultTerrain.md "SG DifficultTerrain")
+[堆叠 ID](Stack_ID.md "Stack ID"): `DIFFICULT_TERRAIN` [状态组](Status_groups.md "Status groups"): [SG_Surface](SG_Surface.md "SG Surface"), [劣势地形 (状态组)](SG_DifficultTerrain.md "劣势地形 (状态组)")
 
 [更多属性](Status_properties.md "Status properties"):
 

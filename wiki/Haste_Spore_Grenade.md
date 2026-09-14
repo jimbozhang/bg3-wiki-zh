@@ -46,7 +46,7 @@
 
 ## 备注
 
-- 尽管投掷此手雷创建的[加速孢子](Haste_Spores_(cloud).md "加速孢子 (云)")区域持续 3 驱散，但穿过该区域创建的[加速孢子](Haste_Spores_(Condition).md "加速孢子 (状态)")状态仅持续 1 驱散\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]，除非在消散前离开并重新进入该区域以刷新状态。
+- 尽管投掷此手雷创建的[加速孢子](Haste_Spores_(cloud).md "加速孢子 (云)")区域持续 3 驱散，但穿过该区域创建的[加速孢子](Haste_Spores_(Condition).md "加速孢子 (状态)")状态仅持续 1 驱散\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]，除非在消散前离开并重新进入该区域以刷新状态。
   - 尽管功能上与[加速术](Haste.md "加速术")相似，但当此物品的[加速孢子](Haste_Spores_(Condition).md "加速孢子 (状态)")状态到期时，使用者不会陷入[力竭](Lethargic_(Condition).md "力竭 (状态)")。
   - 加速孢子弹的价格比加速药水高 5 金币。
 - 要从斯波处获得此物品，队伍必须在第一次与他对话时同意帮助杀死灰矮人入侵者，选择“当然，我能处理附近的那些灰矮人。”，因为标志 `UND_MyconidCircle_SovereignOfferedSpores` 仅针对此对话行设置。询问斯波关于复活尸体（“你对那具尸体做了什么？”），返回上一个对话树（“我们谈谈别的吧。”），然后同意帮助（“我会清除腐烂。湖边的那些灰矮人会死。”）不会奖励手雷，因为这不会设置标志。

@@ -24,13 +24,13 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `DIPPED` [状态组](Status_groups.md "状态组"): [SG_WeaponCoating](SG_WeaponCoating.md "SG 武器涂抹")
+[堆叠ID](Stack_ID.md "堆叠ID"): `DIPPED` [状态组](Status_groups.md "状态组"): [SG 武器涂抹](SG_WeaponCoating.md "SG 武器涂抹")
 
 ## 状态：西索博得的特制穿肠散
 
 **[西索博得的特制穿肠散](Brewed-Up_Bellyglummer_(Condition).md "西索博得的特制穿肠散 (Condition)")**
 
-[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([DC](DC.md "DC") 17)
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 17)
 
 - 在[攻击掷骰](Attack_roll.md "攻击掷骰")和[检定](Checks.md "检定")上遭受[劣势](Disadvantage.md "劣势")
 - 受影响实体在其下一回合结束时受到1d6⁠⁠[毒素](Poison.md "毒素")伤害。
@@ -74,7 +74,7 @@ _维基数据库中未定义_
 [收缩油涂抹状态](Coated_in_Oil_of_Diminution_(Condition).md "收缩油涂抹状态 (Condition)")
 |
 
-- 目标必须通过一次[DC](Dice_rolls.md#Save_DCs "掷骰") 11的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")，并且近战攻击伤害获得-1d4惩罚，持续2回合。
+- 目标必须通过一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 11的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则将在[力量](Strength.md "力量")[属性检定](Ability_Check.md "属性检定")和[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")，并且近战攻击伤害获得-1d4惩罚，持续2回合。
 
 [冰封油涂抹状态](Coated_in_Oil_of_Freezing_(Condition).md "冰封油涂抹状态 (Condition)")
 |
@@ -84,17 +84,17 @@ _维基数据库中未定义_
 [紫虫毒素涂抹状态](Coated_in_Purple_Worm_Toxin_(Condition).md "紫虫毒素涂抹状态 (Condition)")
 |
 
-- 目标在其下一回合结束时受到1d10⁠⁠[中毒](Poison.md "中毒")伤害，除非他们通过一次[DC](Dice_rolls.md#Save_DCs "掷骰") 19的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到1d10⁠⁠[中毒](Poison.md "中毒")伤害，除非他们通过一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 19的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 [蛇毒涂抹状态](Coated_in_Serpent_Venom_Toxin_(Condition).md "蛇毒涂抹状态 (Condition)")
 |
 
-- 目标在其下一回合结束时受到1d6⁠⁠[中毒](Poison.md "中毒")伤害，除非他们通过一次[DC](Dice_rolls.md#Save_DCs "掷骰") 13的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到1d6⁠⁠[中毒](Poison.md "中毒")伤害，除非他们通过一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 13的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 [毒素涂抹状态](Coated_in_Toxin_(Condition).md "毒素涂抹状态 (Condition)")
 |
 
-- 目标在其下一回合结束时受到1d4⁠⁠[中毒](Poison.md "中毒")伤害，除非他们通过一次[DC](Dice_rolls.md#Save_DCs "掷骰") 11的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到1d4⁠⁠[中毒](Poison.md "中毒")伤害，除非他们通过一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 11的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 [法师灾祸油涂抹状态](Coated_in_Wizardsbane_Oil_(Condition).md "法师灾祸油涂抹状态 (Condition)")
 |
@@ -105,7 +105,7 @@ _维基数据库中未定义_
 [翼龙毒素涂抹状态](Coated_in_Wyvern_Toxin_(Condition).md "翼龙毒素涂抹状态 (Condition)")
 |
 
-- 目标在其下一回合结束时受到1d8⁠⁠[中毒](Poison.md "中毒")伤害，除非他们通过一次[DC](Dice_rolls.md#Save_DCs "掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
+- 目标在其下一回合结束时受到1d8⁠⁠[中毒](Poison.md "中毒")伤害，除非他们通过一次[掷骰](Dice_rolls.md#Save_DCs "掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 [蘸取毒药状态](Dipped_in_Poison_(Condition).md "蘸取毒药状态 (Condition)")
 |

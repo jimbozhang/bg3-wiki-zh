@@ -24,7 +24,7 @@ UID `MAG_BG_OfTheBanshee_Bow` UUID `c040d1fc-4804-4774-8367-6dfa397e27e2` Stats 
 **持有此物品者获得：**
 
 [恐怖气息](Blood-Curdling_Emission.md "恐怖气息")
-命中时，可能使目标陷入[Frightened](Frightened_(Condition).md "恐慌（状态）")（[DC](Dice_rolls.md#Save_DCs "Dice rolls") 12 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")）。对恐慌生物的攻击和伤害获得+1d4加成。
+命中时，可能使目标陷入[Frightened](Frightened_(Condition).md "恐慌（状态）")（[掷骰](Dice_rolls.md#Save_DCs "Dice rolls") 12 [感知](Wisdom.md "感知") [豁免检定](Saving_throw.md "豁免检定")）。对恐慌生物的攻击和伤害获得+1d4加成。
 
 ### 武器动作
 
@@ -39,7 +39,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[DC](DC.md "DC") 12）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 12）
 
 - 受影响的生物无法移动。恐慌生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 

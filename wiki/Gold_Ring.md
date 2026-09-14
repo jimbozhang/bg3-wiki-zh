@@ -18,13 +18,13 @@ A **金戒指**是[戒指](Rings.md "戒指")的一种常见类型。主要用�
 
 # 变体
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 A date was once engraved on the inside of this ring, but most of it has long since been worn away by time.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 
@@ -38,13 +38,13 @@ A date was once engraved on the inside of this ring, but most of it has long sin
 
 # Variant
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 A mythical creature, depicted in full flight, has been delicately carved into this ring.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 
@@ -58,13 +58,13 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 # Variant
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 A mythical creature, depicted in full flight, has been delicately carved into this ring.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 
@@ -78,13 +78,13 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 # Variant
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 A mythical creature, depicted in full flight, has been delicately carved into this ring.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 
@@ -98,13 +98,13 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 # Variant
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 A mythical creature, depicted in full flight, has been delicately carved into this ring.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 
@@ -118,13 +118,13 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 # Variant
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 A mythical creature, depicted in full flight, has been delicately carved into this ring.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 
@@ -138,13 +138,13 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 # Variant
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 Expertly formed and finished, this ring catches the attention of admirers and thieves alike.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 
@@ -158,13 +158,13 @@ Expertly formed and finished, this ring catches the attention of admirers and th
 
 # Variant
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 A mythical creature, depicted in full flight, has been delicately carved into this ring.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 
@@ -178,13 +178,13 @@ A mythical creature, depicted in full flight, has been delicately carved into th
 
 # Variant
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 Multiple amethysts fresh off the boat from Chult line this ring's band.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 
@@ -198,13 +198,13 @@ Multiple amethysts fresh off the boat from Chult line this ring's band.
 
 # Variant
 
-A **Gold Ring** is a common type of [Ring](Rings.md "Rings"). Primarily of use for barter or sale to [Traders](Traders.md "Traders").
+A **Gold Ring** is a common type of [戒指](Rings.md "戒指"). Primarily of use for barter or sale to [商人](Traders.md "商人").
 
 Multiple amethysts fresh off the boat from Chult line this ring's band.
 
 ## Properties
 
-- [Rings](Rings.md "Rings")
+- [戒指](Rings.md "戒指")
 
 - Rarity: Common
 

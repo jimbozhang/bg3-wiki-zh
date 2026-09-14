@@ -8,7 +8,7 @@
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_Prone](SG_Prone.md "SG Prone"), [SG_Condition](SG_Condition.md "SG Condition"), [SG_Unconscious](SG_Unconscious.md "SG Unconscious")
+[状态组](Status_groups.md "状态组"): [倒伏 (状态组)](SG_Prone.md "倒伏 (状态组)"), [SG 状态](SG_Condition.md "SG 状态"), [昏迷 (状态组)](SG_Unconscious.md "昏迷 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "状态"): 驱散结束
 

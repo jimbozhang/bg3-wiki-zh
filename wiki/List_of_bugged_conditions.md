@@ -129,7 +129,7 @@
 **[冷冻](Encrusted_with_Frost_(Condition).md "冷冻 (状态)")**
 |
 
-- 游戏中的描述不完全正确：在 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 的 [DC](Dice_rolls.md#Save_DCs "掷骰") 12 上失败会导致实体变为 [冰冻](Frozen_(Condition).md "冰冻 (状态)")，而成功则使其受到 1d4⁠⁠[寒冷](Cold.md "寒冷") 伤害。与描述所述相反，此伤害不会减半。
+- 游戏中的描述不完全正确：在 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 的 [掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 上失败会导致实体变为 [冰冻](Frozen_(Condition).md "冰冻 (状态)")，而成功则使其受到 1d4⁠⁠[寒冷](Cold.md "寒冷") 伤害。与描述所述相反，此伤害不会减半。
 
 **[正义之敌](Enemy_of_Justice_(Condition).md "正义之敌 (状态)")**
 |
@@ -245,7 +245,7 @@
 **[致残](Maimed_(Condition).md "致残 (状态)")**
 |
 
-- 此状态缺少正确的 [状态组](Status_groups.md "状态组")，例如 [SG_Restrained](SG_Restrained.md "SG 束缚")，因此可以应用于拥有 [行动自如](Freedom_of_Movement_(Condition).md "行动自如 (状态)") 的生物。
+- 此状态缺少正确的 [状态组](Status_groups.md "状态组")，例如 [束缚 (状态组)](SG_Restrained.md "束缚 (状态组)")，因此可以应用于拥有 [行动自如](Freedom_of_Movement_(Condition).md "行动自如 (状态)") 的生物。
 
 **[亢奋](Momentum_(Condition).md "亢奋 (状态)")**
 |

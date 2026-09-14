@@ -8,7 +8,7 @@
 
 ## 属性
 
-[堆叠ID](Stack_ID.md "堆叠ID"): `SILENCED` [状态组](Status_groups.md "状态组"): [SG_Condition](SG_Condition.md "SG Condition"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG DropForNonMutingDialog"), [SG_Restrained](SG_Restrained.md "SG Restrained")
+[堆叠ID](Stack_ID.md "堆叠ID"): `SILENCED` [状态组](Status_groups.md "状态组"): [SG 状态](SG_Condition.md "SG 状态"), [SG_DropForNonMutingDialog](SG_DropForNonMutingDialog.md "SG DropForNonMutingDialog"), [束缚 (状态组)](SG_Restrained.md "束缚 (状态组)")
 
 [持续时间结束](Conditions.md#Duration "Conditions"): 回合结束
 

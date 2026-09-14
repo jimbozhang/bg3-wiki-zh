@@ -25,9 +25,9 @@
 
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
-## 抗性 [(info)](Resistances.md "Resistances")
+## 抗性 [抗性](Resistances.md "抗性")
 
 **再造决斗者**是召唤的[骷髅](Skeleton.md "Skeleton")生物，出现在[第二幕](Act_Two.md "Act Two")。
 

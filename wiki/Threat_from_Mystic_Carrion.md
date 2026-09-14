@@ -18,7 +18,7 @@
 
 - UID `S_LOW_CarrionThreat` UUID `2ae36508-b040-4292-843d-b5939285435e` ## 获取地点
 
-- 在击败[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")并长休后，若未先摧毁[秘术师卡里翁的心脏罐](Jar_of_Mystic_Carrion's_Heart.md "秘术师卡里翁的心脏罐")\[[_verify_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]，此信会出现在队伍的物品栏中。
+- 在击败[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")并长休后，若未先摧毁[秘术师卡里翁的心脏罐](Jar_of_Mystic_Carrion's_Heart.md "秘术师卡里翁的心脏罐")\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]，此信会出现在队伍的物品栏中。
 
 ## 文本
 

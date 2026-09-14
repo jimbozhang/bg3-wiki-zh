@@ -60,7 +60,7 @@
 
 - [轰鸣剑](Booming_Blade.md "Booming Blade")
 
-- [Bursting Sinew](Bursting_Sinew.md "Bursting Sinew")
+- [爆裂肌腱](Bursting_Sinew.md "爆裂肌腱")
 
 - [舞光术](Dancing_Lights.md "Dancing Lights")
 
@@ -68,7 +68,7 @@
 
 - [交友术](Friends.md "Friends")
 
-- [Light](Light.md "Light")
+- [光亮术](Light.md "光亮术")
 
 - [法师之手](Mage_Hand.md "Mage Hand")
 
@@ -80,7 +80,7 @@
 
 - [电爪](Shocking_Grasp.md "Shocking Grasp")
 
-- [Toll the Dead](Toll_the_Dead.md "Toll the Dead")
+- [鸣响丧钟](Toll_the_Dead.md "鸣响丧钟")
 
 - [克敌机先](True_Strike.md "True Strike")
 
@@ -115,13 +115,13 @@
 - [顾问弗洛瑞克](Florrick.md "顾问弗洛瑞克")
 - [卢克修斯](Lucretious.md "卢克修斯")
 - [奎兰娜](Quelenna.md "奎兰娜")
-- [Gyordi](Gyordi.md "Gyordi")
+- [乔迪](Gyordi.md "乔迪")
 
 ### 木精灵
 
 - [哈尔辛](Halsin.md "Halsin")
-- [Branthos](Branthos.md "Branthos")
-- [Elifer](Elifer.md "Elifer")
+- [布兰索斯](Branthos.md "布兰索斯")
+- [艾莉芙](Elifer.md "艾莉芙")
 - [叶罗娜](Jeorna.md "叶罗娜")
 - [卡哈](Kagha.md "卡哈")
 - [妮夏·纳林托](Naoise_Nallinto.md "妮夏·纳林托")

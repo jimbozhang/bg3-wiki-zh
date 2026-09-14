@@ -4,7 +4,7 @@
 
 ## 描述
 
-以征服之怒进行打击，将你的 [熟练项加值](Proficiency_Bonus.md "熟练项加值") 加入伤害掷骰。如果你击中 [邪魔](Fiend.md "邪魔") 或 [不死生物](Undead.md "不死生物")，则额外造成 2d6⁠⁠[挥砍](Slashing.md "挥砍")[DRS](Damage_rider_as_source.md "伤害来源附加") 伤害，并可能对其施加 [灾祸术](Bane_(Condition).md "灾祸术（状态）")。
+以征服之怒进行打击，将你的 [熟练项加值](Proficiency_Bonus.md "熟练项加值") 加入伤害掷骰。如果你击中 [邪魔](Fiend.md "邪魔") 或 [不死生物](Undead.md "不死生物")，则额外造成 2d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制") 伤害，并可能对其施加 [灾祸术](Bane_(Condition).md "灾祸术（状态）")。
 
 ## 属性
 
