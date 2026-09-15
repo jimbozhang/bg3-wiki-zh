@@ -4,7 +4,7 @@
 | --- | --- |
 | 恶毒嘲笑 | 下一次[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。 |
 
-另请参阅：[恶毒嘲笑 (消歧义)](Vicious_Mockery_(disambiguation).md)
+另请参阅：[恶毒嘲笑 （消歧义）](Vicious_Mockery_(disambiguation).md)
 
 **恶毒嘲笑**
 

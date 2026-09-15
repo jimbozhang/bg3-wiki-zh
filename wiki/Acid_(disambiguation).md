@@ -1,4 +1,4 @@
-# 强酸 (消歧义)
+# 强酸 （消歧义）
 
 这是一个消歧义页面，链接到名称模糊的文章。如果您是[被链接带到这里](Special_colon_WhatLinksHere/Acid_(disambiguation).md) 的，请考虑编辑该链接以指向正确的页面。
 

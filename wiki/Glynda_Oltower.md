@@ -34,7 +34,7 @@
 
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-**格林达·奥尔托尔**是[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")在[第三幕](Act_Three.md "Act Three")期间的一名商人。
+**格林达·奥尔托尔**是[飞龙关](Wyrm's_Crossing.md "飞龙关")在[第三幕](Act_Three.md "Act Three")期间的一名商人。
 
 > “
 >

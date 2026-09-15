@@ -90,7 +90,7 @@
 
 宿舍位于神殿最西端，有一扇门通向墓园。每张床的床脚都放着一个木箱子（共五个），全部上锁（需要 DC 10 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁，中央的那个除外）并呈红色轮廓（尽管没有人走进来注意到任何撬锁行为）。其中一个箱子包含[拳击天使](Seraphic_Pugilist_Gloves.md "拳击天使")。
 
-中央的箱子属于罗根神父。与其他箱子不同，打开它需要他的宝箱钥匙或 DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。打开后，会进行一次被动 DC 10 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定")，以察觉到一个装有修道院院长[日记](Confessions,_Vol._1,_Father_Lorgan.md "忏悔录，第一卷，罗根神父")的假底。
+中央的箱子属于罗根神父。与其他箱子不同，打开它需要他的宝箱钥匙或 DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。打开后，会进行一次被动 DC 10 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定")，以察觉到一个装有修道院院长[忏悔录，第1卷，罗根神父](Confessions,_Vol._1,_Father_Lorgan.md "忏悔录，第1卷，罗根神父")的假底。
 
 医务室和宿舍中的书柜和书架呈红色轮廓，可能包含随机的稀有和/或非常稀有等级的法术卷轴。
 
@@ -183,7 +183,7 @@
 - [匿名信](Anonymous_letter_(Sword_Coast_Couriers).md "匿名信（剑湾快递）")<sup>[\[3\]](#cite_note-OpenedLetters-3)</sup>
 - [见证守护的未来：钢铁卫士！](Behold_Protection's_Future_colon__The_Steel_Watch!.md "见证守护的未来：钢铁卫士！")
 - [科尔法克斯的圣物生物纲要](Colfax's_Compendium_of_Consecrated_Creatures.md "科尔法克斯的圣物生物纲要")
-- [忏悔录，第一卷，罗根神父](Confessions,_Vol._1,_Father_Lorgan.md "忏悔录，第一卷，罗根神父")
+- [忏悔录，第1卷，罗根神父](Confessions,_Vol._1,_Father_Lorgan.md "忏悔录，第1卷，罗根神父")
 - [受刑之主的信条](Credo_of_the_Rack-Stricken_Lord.md "受刑之主的信条")
 - [伊尔梅特的神圣狂喜](Divine_Rapture_of_Ilmater.md "伊尔梅特的神圣狂喜")
 - [《自己动手做简单家具》](Easy_Furnitures_DIY.md "《自己动手做简单家具》")
@@ -191,7 +191,7 @@
 - [伊尔梅特战斗手册](Ilmatari_Combat_Manual.md "伊尔梅特战斗手册")
 - [税收信件](Letter_about_Taxes.md "税收信件")<sup>[\[3\]](#cite_note-OpenedLetters-3)</sup>
 - [看！最欢乐的感觉！](Lo!_A_Most_Joyous_Sensation!.md "看！最欢乐的感觉！")
-- [冥想录，第一卷，罗根神父](Meditations,_Vol._1,_Father_Lorgan.md "冥想录，第一卷，罗根神父")
+- [冥思录，第1卷，罗根神父](Meditations,_Vol._1,_Father_Lorgan.md "冥思录，第1卷，罗根神父")
 - [回忆录，第一卷，克拉文姐妹](Memoirs,_Vol_1,_Sister_Clarwen.md "回忆录，第一卷，克拉文姐妹")
 - [论汤与饥饿](On_the_Matter_of_Soups_and_Starvation.md "论汤与饥饿")
 - [伊尔梅特信徒服务令](Order_of_Ilmatari_Service.md "伊尔梅特信徒服务令")

@@ -92,7 +92,7 @@
 | [守卫刻文：闪电](Glyph_of_Warding_colon__Lightning.md "守卫刻文：闪电") | 3 |  |  | - | 9 米 / 30尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 5d8⁠[闪电](Lightning.md "闪电") |
 | [守卫刻文：睡眠](Glyph_of_Warding_colon__Sleep.md "守卫刻文：睡眠") | 3 |  |  | 2 回合 | 9 米 / 30尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [守卫刻文：雷鸣](Glyph_of_Warding_colon__Thunder.md "守卫刻文：雷鸣") | 3 |  |  | - | 9 米 / 30尺 / 4米 / 13尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 5d8⁠[雷鸣](Thunder.md "雷鸣") |
-| [卡利德的礼物：支援术](Khalid's_Gift_colon__Aid.md "卡利德的礼物：支援术") | 3 |  |  | 长休 | 自身 | - | 10⁠[治疗](Healing.md "治疗") |
+| [卡利德的礼物：协助](Khalid's_Gift_colon__Aid.md "卡利德的礼物：协助") | 3 |  |  | 长休 | 自身 | - | 10⁠[治疗](Healing.md "治疗") |
 | [麻痹射线](Paralyzing_Ray.md "麻痹射线") | 3 |  |  | 2 回合 | 18 米 / 60尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | - |
 | [防护能量伤害：强酸](Protection_from_Energy_colon__Acid.md "防护能量伤害：强酸") | 3 |  |  | 长休 | 1.5 米 / 5尺 | - | - |
 | [防护能量伤害：寒冷](Protection_from_Energy_colon__Cold.md "防护能量伤害：寒冷") | 3 |  |  | 长休 | 1.5 米 / 5尺 | - | - |

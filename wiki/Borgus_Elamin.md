@@ -233,7 +233,7 @@ UUID
 
 属性
 
-`WYR_SharessCaress_Elf_Caster` **博格斯·阿拉明**是[散塔林会](Zhentarim.md "散塔林会")的一名[精灵](Elven.md "精灵")成员，正在[飞龙十字](Wyrm's_Crossing.md "飞龙十字")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")做客。他可以在[第三幕](Act_Three.md "第三幕")中被发现与[埃尔斯邦](Earspoon.md "埃尔斯邦")窃窃私语。
+`WYR_SharessCaress_Elf_Caster` **博格斯·阿拉明**是[散塔林会](Zhentarim.md "散塔林会")的一名[精灵](Elven.md "精灵")成员，正在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")做客。他可以在[第三幕](Act_Three.md "第三幕")中被发现与[埃尔斯邦](Earspoon.md "埃尔斯邦")窃窃私语。
 
 > “
 >

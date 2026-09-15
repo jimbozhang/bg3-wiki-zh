@@ -18,7 +18,7 @@
 
 由以下生物使用：
 
-- [巴瑞萨](Baretha.md "巴瑞萨")、[哈拉克](Har'rak.md "哈拉克")、[特瑞兹恩](Therezzyn.md "特瑞兹恩")
+- [巴瑞萨](Baretha.md "巴瑞萨")、[哈’拉克](Har'rak.md "哈’拉克")、[特瑞兹恩](Therezzyn.md "特瑞兹恩")
 
 ## 备注
 

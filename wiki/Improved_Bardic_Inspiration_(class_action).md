@@ -1,6 +1,6 @@
 # 精通诗人激励 (职业动作)
 
-本文介绍由阿尔菲拉授予的职业动作。关于吟游诗人在高等级获得的被动特性，请参见 [精通诗人激励 (被动特性)](Improved_Bardic_Inspiration_(passive_feature).md)。其他用法，请参见 [精通诗人激励 (消歧义)](Improved_Bardic_Inspiration_(disambiguation).md)。
+本文介绍由阿尔菲拉授予的职业动作。关于吟游诗人在高等级获得的被动特性，请参见 [精通诗人激励 (被动特性)](Improved_Bardic_Inspiration_(passive_feature).md)。其他用法，请参见 [精通诗人激励 （消歧义）](Improved_Bardic_Inspiration_(disambiguation).md)。
 
 **精通诗人激励** 是一种职业动作，可由 [阿尔菲拉](Alfira.md "阿尔菲拉") 授予，前提是她存活至 [第二幕](Act_Two.md "第二幕")。此能力允许吟游诗人激励其盟友，类似于 [诗人激励](Bardic_Inspiration_(class_action).md "诗人激励 (职业动作)")，但骰子始终为 +1d12，且无需消耗资源，每长休可使用一次。
 

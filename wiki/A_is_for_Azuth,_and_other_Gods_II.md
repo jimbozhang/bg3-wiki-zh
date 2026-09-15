@@ -1,6 +1,6 @@
-# A是阿祖斯，以及其他诸神 II
+# 《神祇歌 卷II》
 
-**A是阿祖斯，以及其他诸神 II** 是一系列教导儿童认识[神祇](Deities.md "Deities")的押韵诗的一部分。作者不详。
+**《神祇歌 卷II》** 是一系列教导儿童认识[神祇](Deities.md "Deities")的押韵诗的一部分。作者不详。
 
 这是一本关于阿祖斯、灾祸术和贝莎芭的儿童押韵诗集。
 
@@ -54,12 +54,12 @@
 
 本系列的其他书籍包括：
 
-- [A是阿祖斯，以及其他诸神 I](A_is_for_Azuth,_and_other_Gods_I.md "A是阿祖斯，以及其他诸神 I")
-- [A是阿祖斯，以及其他诸神 III](A_is_for_Azuth,_and_other_Gods_III.md "A是阿祖斯，以及其他诸神 III")
-- [A是阿祖斯，以及其他诸神 VI](A_is_for_Azuth,_and_other_Gods_VI.md "A是阿祖斯，以及其他诸神 VI")
-- [A是阿祖斯，以及其他诸神 VII](A_is_for_Azuth,_and_other_Gods_VII.md "A是阿祖斯，以及其他诸神 VII")
-- [A是阿祖斯，以及其他诸神 IX](A_is_for_Azuth,_and_other_Gods_IX.md "A是阿祖斯，以及其他诸神 IX")
-- [A是阿祖斯，以及其他诸神 XI](A_is_for_Azuth,_and_other_Gods_XI.md "A是阿祖斯，以及其他诸神 XI")
+- [《神祇歌 卷I》](A_is_for_Azuth,_and_other_Gods_I.md "《神祇歌 卷I》")
+- [《神祇歌 卷III》](A_is_for_Azuth,_and_other_Gods_III.md "《神祇歌 卷III》")
+- [《神祇歌 卷VI》](A_is_for_Azuth,_and_other_Gods_VI.md "《神祇歌 卷VI》")
+- [《神祇歌 卷VII》](A_is_for_Azuth,_and_other_Gods_VII.md "《神祇歌 卷VII》")
+- [《神祇歌 卷IX》](A_is_for_Azuth,_and_other_Gods_IX.md "《神祇歌 卷IX》")
+- [《神祇歌 卷XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《神祇歌 卷XI》")
 
 ## 外部链接
 

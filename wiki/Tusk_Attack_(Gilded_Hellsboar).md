@@ -1,6 +1,6 @@
 # 牙撕攻击 (镶金地狱野猪)
 
-另见：[牙撕攻击 (消歧义)](Tusk_Attack_(disambiguation).md)
+另见：[牙撕攻击 （消歧义）](Tusk_Attack_(disambiguation).md)
 
 **牙撕攻击**是[镶金地狱野猪](Gilded_Hellsboar.md "镶金地狱野猪")可用的攻击，比其他地狱野猪可用的普通[牙撕攻击](Tusk_Attack.md "牙撕攻击")威力更强。
 

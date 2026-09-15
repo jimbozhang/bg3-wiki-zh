@@ -1,6 +1,6 @@
 # 研究笔记 (残月酒厂)
 
-另请参阅：[研究笔记 (消歧义)](Research_Notes_(disambiguation).md)
+另请参阅：[研究笔记 （消歧义）](Research_Notes_(disambiguation).md)
 
 **研究笔记**无法阅读。与书籍互动会触发语音旁白。
 

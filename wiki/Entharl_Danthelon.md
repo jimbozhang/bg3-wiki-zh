@@ -74,7 +74,7 @@
 
 攻击离开攻击范围的敌人。
 
-**恩索尔·丹瑟隆**是[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")的所有者，出现在[第三章](Act_Three.md "Act Three")。
+**恩索尔·丹瑟隆**是[飞龙关](Wyrm's_Crossing.md "飞龙关")的[丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")的所有者，出现在[第三章](Act_Three.md "Act Three")。
 
 > “
 >

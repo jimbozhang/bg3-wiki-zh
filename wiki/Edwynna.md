@@ -27,7 +27,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 13 / (+1) | 10 / (0) | 16 / (+3) | 10 / (0) | 20 / (+5) | 12 / (+1) |
 
-**艾德温娜军士**是一名[人类](Human.md "人类")[牧师](Cleric.md "牧师")，也是[焰拳](Flaming_Fist.md "焰拳")的一员。她可以在[第三幕](Act_Three.md "第三幕")期间，在[利文顿](Rivington.md "利文顿")和[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")之间的[南翼检查点](South_Span_Checkpoint.md "南翼检查点")找到。
+**艾德温娜军士**是一名[人类](Human.md "人类")[牧师](Cleric.md "牧师")，也是[焰拳](Flaming_Fist.md "焰拳")的一员。她可以在[第三幕](Act_Three.md "第三幕")期间，在[利文顿](Rivington.md "利文顿")和[飞龙关](Wyrm's_Crossing.md "飞龙关")之间的[南翼检查点](South_Span_Checkpoint.md "南翼检查点")找到。
 
 > “
 >

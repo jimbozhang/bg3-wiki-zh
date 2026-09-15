@@ -63,7 +63,7 @@
 
 ### 值得一提的战利品
 
-罗根携带他的[罗根的宝箱钥匙](Lorgan's_Chest_Key.md "罗根的宝箱钥匙")，可以打开神殿宿舍中坐标 X: -91 Y: -1 的一个箱子。打开箱子并通过 DC 10 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定")后，箱子的假底会露出罗根的个人日记，[《忏悔录，第一卷，罗根神父》](Confessions,_Vol._1,_Father_Lorgan.md "《忏悔录，第一卷，罗根神父》")。日记条目显示罗根的信仰依然坚定不移。
+罗根携带他的[罗根的宝箱钥匙](Lorgan's_Chest_Key.md "罗根的宝箱钥匙")，可以打开神殿宿舍中坐标 X: -91 Y: -1 的一个箱子。打开箱子并通过 DC 10 [调查](Investigation.md "调查") [属性检定](Ability_Check.md "属性检定")后，箱子的假底会露出罗根的个人日记，[忏悔录，第1卷，罗根神父](Confessions,_Vol._1,_Father_Lorgan.md "忏悔录，第1卷，罗根神父")。日记条目显示罗根的信仰依然坚定不移。
 
 ## 死者交谈
 
@@ -112,9 +112,9 @@
 ## 相关文献
 
 - [通讯簿](Address_Book.md "通讯簿")
-- [《忏悔录，第一卷，罗根神父》](Confessions,_Vol._1,_Father_Lorgan.md "《忏悔录，第一卷，罗根神父》")
-- [《冥想录，第一卷，罗根神父》](Meditations,_Vol._1,_Father_Lorgan.md "《冥想录，第一卷，罗根神父》")
-- [《论疲惫者，第一卷，罗根神父》](On_the_Weary,_Vol._1,_Father_Lorgan.md "《论疲惫者，第一卷，罗根神父》")
+- [忏悔录，第1卷，罗根神父](Confessions,_Vol._1,_Father_Lorgan.md "忏悔录，第1卷，罗根神父")
+- [冥思录，第1卷，罗根神父](Meditations,_Vol._1,_Father_Lorgan.md "冥思录，第1卷，罗根神父")
+- [论疲惫者，第一卷，罗根神父](On_the_Weary,_Vol._1,_Father_Lorgan.md "论疲惫者，第一卷，罗根神父")
 
 ## 相关任务
 

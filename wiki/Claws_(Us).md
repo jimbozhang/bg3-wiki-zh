@@ -1,6 +1,6 @@
 # 爪击 (我们)
 
-本文介绍的是未被脑叶切除的我们（Us）所使用的爪击版本。对于普通噬脑怪和被脑叶切除的我们所使用的较弱版本，请参见 [爪击 (噬脑怪)](Claws_(Intellect_Devourer).md)。其他用法，请参见 [爪击 (消歧义)](Claws_(disambiguation).md)。
+本文介绍的是未被脑叶切除的我们（Us）所使用的爪击版本。对于普通噬脑怪和被脑叶切除的我们所使用的较弱版本，请参见 [爪击 (噬脑怪)](Claws_(Intellect_Devourer).md)。其他用法，请参见 [爪击 （消歧义）](Claws_(disambiguation).md)。
 
 **爪击**是[我们](Us.md "我们")通过[召唤我们](Conjure_Us.md "召唤我们")被召唤时可用的基本攻击。如果我们在序幕中被[脑叶切除](Lobotomised_(Condition).md "脑叶切除 (状态)")，它将改为使用普通[噬脑怪](Intellect_Devourer.md "噬脑怪")所使用的[较弱版本](Claws_(Intellect_Devourer).md)。
 

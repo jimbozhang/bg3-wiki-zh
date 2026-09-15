@@ -1,6 +1,6 @@
 # 卷轴 (盖尔的小包)
 
-另请参阅：[卷轴 (消歧义)](Scroll_(disambiguation).md)
+另请参阅：[卷轴 （消歧义）](Scroll_(disambiguation).md)
 
 **[卷轴](Scroll.md "卷轴")** 是一张包含复活[盖尔](Gale.md "盖尔")指示的便条。
 

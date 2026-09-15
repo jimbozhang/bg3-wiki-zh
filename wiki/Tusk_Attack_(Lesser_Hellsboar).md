@@ -1,6 +1,6 @@
 # 牙撕攻击 (次级地狱野猪)
 
-另请参阅：[牙撕攻击 (消歧义)](Tusk_Attack_(disambiguation).md)
+另请参阅：[牙撕攻击 （消歧义）](Tusk_Attack_(disambiguation).md)
 
 **牙撕攻击**是[次级地狱野猪](Lesser_Hellsboar.md "次级地狱野猪")可用的类动作。野猪使用此能力进行近战攻击，对敌人造成挥砍伤害。
 

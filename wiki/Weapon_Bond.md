@@ -14,9 +14,9 @@
 范围：自身
 持续时间：直至[长休](Long_Rest.md "长休")
 
-## 状态：誓缚武器
+## 状态：绑定武器
 
-**[誓缚武器](Bound_Weapon_(Condition).md "誓缚武器 (状态)")**
+**[绑定武器](Bound_Weapon_(Condition).md "绑定武器 (状态)")**
 
 - 通过仪式绑定给其持有者。
 - 该武器无法从持有者手中被击落，并且在[投掷](Throw.md "投掷")时会自动返回到其持有者手中。
@@ -37,8 +37,8 @@
 
 ## 错误
 
-- 在战斗外投掷的誓缚武器[不会返回](Thrown.md#Bugs "投掷")到其所有者手中。
-- [誓缚武器](Bound_Weapon_(Condition).md "誓缚武器 (状态)")状态缺少`Attributed(InventoryBound)`代码，而该代码在[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")和[绑定脆弱诅咒武器](Bind_Hexed_Weapon.md "绑定脆弱诅咒武器")中存在。尽管这（显然）是为了允许誓缚武器被[投掷](Throw.md "投掷")，但它也有副作用，即允许[奥法骑士](Eldritch_Knight.md "奥法骑士")将其誓缚武器交给任何其他角色使用，并产生相同效果。因此，在[长休](Long_Rest.md "长休")之外，此状态会持续存在，即使：
+- 在战斗外投掷的绑定武器[不会返回](Thrown.md#Bugs "投掷")到其所有者手中。
+- [绑定武器](Bound_Weapon_(Condition).md "绑定武器 (状态)")状态缺少`Attributed(InventoryBound)`代码，而该代码在[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")和[绑定脆弱诅咒武器](Bind_Hexed_Weapon.md "绑定脆弱诅咒武器")中存在。尽管这（显然）是为了允许绑定武器被[投掷](Throw.md "投掷")，但它也有副作用，即允许[奥法骑士](Eldritch_Knight.md "奥法骑士")将其绑定武器交给任何其他角色使用，并产生相同效果。因此，在[长休](Long_Rest.md "长休")之外，此状态会持续存在，即使：
   - 施法者从活跃队伍中移除
   - 施法者通过[守墓人](Withers.md "守墓人")重新分配属性到另一个职业
   - 施法者被遣返回[过渡位面](https://forgottenrealms.fandom.com/wiki/Fugue_Plane)

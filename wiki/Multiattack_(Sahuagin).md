@@ -1,6 +1,6 @@
 # 多重攻击 (沙华鱼人)
 
-另请参阅：[多重攻击 (消歧义)](Multiattack_(disambiguation).md)
+另请参阅：[多重攻击 （消歧义）](Multiattack_(disambiguation).md)
 
 **多重攻击**是[沙华鱼人](Sahuagin.md "沙华鱼人")可用的动作，允许它们对处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态的目标造成两次伤害。
 

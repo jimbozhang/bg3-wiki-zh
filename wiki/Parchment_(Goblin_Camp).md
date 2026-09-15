@@ -1,6 +1,6 @@
 # 羊皮卷 (地精营地)
 
-另请参阅：[羊皮卷 (消歧义)](Parchment_(disambiguation).md)
+另请参阅：[羊皮卷 （消歧义）](Parchment_(disambiguation).md)
 
 **羊皮卷 (地精营地)** 是 [克拉加](Klagga.md "克拉加") 写给 [明萨拉](Minthara.md "Minthara") 的情书。
 

@@ -1,6 +1,6 @@
 # 冲锋 (牛头人)
 
-另见：[冲锋 (消歧义)](Charge_(disambiguation).md)
+另见：[冲锋 （消歧义）](Charge_(disambiguation).md)
 
 **冲锋**是[牛头人](Minotaur.md "牛头人")可用的类动作，允许它们向前冲锋，推开敌人并使其进入[倒伏](Prone_(Condition).md "倒伏 (状态)")状态。
 

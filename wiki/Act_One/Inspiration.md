@@ -164,7 +164,7 @@ _这些激励点可在整个游戏过程中获得，不限于第一幕。_
 
 ⁠[不落一人](../Soldier.md#No_One_Left_Behind "Soldier")：确保林地的[防御者](../Aradin.md "Aradin")在第一次地精袭击中全部存活。[士兵](../Soldier.md "Soldier")背景。[莱埃泽尔](../Lae'zel.md "Lae'zel") [瓦兰娜·繁日](../Varanna_Sunblossom.md "Varanna Sunblossom")
 
-[阿拉丁](../Aradin.md "Aradin")、[巴特](../Barth.md "Barth")和[雷米拉](../Remira.md "Remira")在首次抵达林地时必须全部在地精袭击中存活。
+[艾拉丁](../Aradin.md "Aradin")、[巴特](../Barth.md "Barth")和[雷米拉](../Remira.md "Remira")在首次抵达林地时必须全部在地精袭击中存活。
 
 ### 空谷
 

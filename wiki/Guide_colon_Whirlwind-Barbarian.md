@@ -2,7 +2,7 @@
 
 这是一个[用户操作指南](Guide_colon_Index.md "Guide:Index")，遵循与Wiki其余部分不同的[指南](Help_colon_Guide_namespace.md "Help:Guide namespace")。编辑此页面前请咨询用户。请在[讨论页](https://bg3.wiki/w/index.php?title=Guide_talk:Whirlwind-Barbarian&action=edit&redlink=1 "Guide talk:Whirlwind-Barbarian (页面不存在)")留下反馈。
 
-此构建来自Reddit用户Holiday-Driver-9439，专注于野蛮人/邪术师，使用猛虎之心形态通过誓缚武器尽可能多地攻击敌人。
+此构建来自Reddit用户Holiday-Driver-9439，专注于野蛮人/邪术师，使用猛虎之心形态通过绑定武器尽可能多地攻击敌人。
 
 ## 目录
 

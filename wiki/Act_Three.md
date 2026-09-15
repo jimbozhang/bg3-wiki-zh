@@ -118,7 +118,7 @@
 
 主条目：[第三幕地点](List_of_locations.md#Act_Three "地点列表")
 
-第三幕始于抵达[博德之门](Baldur's_Gate.md "博德之门")本城，包括[利文顿](Rivington.md "利文顿")和[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")，然后是[下城区](Lower_City.md "下城区")、[下城区下水道](Lower_City_Sewers.md "下城区下水道")和[底城废墟](Undercity_Ruins.md "底城废墟")。第三幕的最后阶段发生在[上城区](Upper_City.md "上城区")，这是一个通常无法进入的区域。
+第三幕始于抵达[博德之门](Baldur's_Gate.md "博德之门")本城，包括[利文顿](Rivington.md "利文顿")和[飞龙关](Wyrm's_Crossing.md "飞龙关")，然后是[下城区](Lower_City.md "下城区")、[下城区下水道](Lower_City_Sewers.md "下城区下水道")和[底城废墟](Undercity_Ruins.md "底城废墟")。第三幕的最后阶段发生在[上城区](Upper_City.md "上城区")，这是一个通常无法进入的区域。
 
 ### 利文顿
 
@@ -134,7 +134,7 @@
 
 飞龙岩要塞东侧景观
 
-主条目：[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
+主条目：[飞龙关](Wyrm's_Crossing.md "飞龙关")
 
 飞龙岩要塞是一座横跨奇恩萨尔河的双桥结构，沿桥有许多商店和企业。为了进入城市，必须通过飞龙岩要塞及其两座桥，然后经过[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")，[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")正在那里举行就职典礼。
 

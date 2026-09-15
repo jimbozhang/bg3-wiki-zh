@@ -68,13 +68,13 @@
 
 ## 韵文、歌曲、戏剧与诗歌
 
-- [A代表阿祖斯，及其他诸神 I](A_is_for_Azuth,_and_other_Gods_I.md "A代表阿祖斯，及其他诸神 I")
-- [A代表阿祖斯，及其他诸神 II](A_is_for_Azuth,_and_other_Gods_II.md "A代表阿祖斯，及其他诸神 II")
-- [A代表阿祖斯，及其他诸神 III](A_is_for_Azuth,_and_other_Gods_III.md "A代表阿祖斯，及其他诸神 III")
-- [A代表阿祖斯，及其他诸神 VI](A_is_for_Azuth,_and_other_Gods_VI.md "A代表阿祖斯，及其他诸神 VI")
-- [A代表阿祖斯，及其他诸神 VII](A_is_for_Azuth,_and_other_Gods_VII.md "A代表阿祖斯，及其他诸神 VII")
-- [A代表阿祖斯，及其他诸神 IX](A_is_for_Azuth,_and_other_Gods_IX.md "A代表阿祖斯，及其他诸神 IX")
-- [A代表阿祖斯，及其他诸神 XI](A_is_for_Azuth,_and_other_Gods_XI.md "A代表阿祖斯，及其他诸神 XI")
+- [《神祇歌 卷I》](A_is_for_Azuth,_and_other_Gods_I.md "《神祇歌 卷I》")
+- [《神祇歌 卷II》](A_is_for_Azuth,_and_other_Gods_II.md "《神祇歌 卷II》")
+- [《神祇歌 卷III》](A_is_for_Azuth,_and_other_Gods_III.md "《神祇歌 卷III》")
+- [《神祇歌 卷VI》](A_is_for_Azuth,_and_other_Gods_VI.md "《神祇歌 卷VI》")
+- [《神祇歌 卷VII》](A_is_for_Azuth,_and_other_Gods_VII.md "《神祇歌 卷VII》")
+- [《神祇歌 卷IX》](A_is_for_Azuth,_and_other_Gods_IX.md "《神祇歌 卷IX》")
+- [《神祇歌 卷XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《神祇歌 卷XI》")
 - [《一场愉悦的交易》](A_Pleasurable_Deal.md "《一场愉悦的交易》")
 
 ## 自助

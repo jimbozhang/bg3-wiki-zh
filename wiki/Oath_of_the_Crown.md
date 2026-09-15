@@ -167,7 +167,7 @@ _此副职获得其基础职业[圣武士](Paladin.md "圣武士")的所有特�
 - 作为[邪念](The_Dark_Urge.md "邪念")，向[古怪公牛](Strange_Ox.md "古怪公牛")揭示玩家角色的堕落
 - 同意帮助[古怪公牛](Strange_Ox.md "古怪公牛")，然后不带它进入城市
 
-[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")/[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
+[飞龙关](Wyrm's_Crossing.md "飞龙关")/[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
 
 - 同意从[阿尔弗·格雷戈里奥](Arfur_Gregorio.md "阿尔弗·格雷戈里奥")那里收取金币，以“忘记”他捐赠给难民的有陷阱的玩具
 - 使用圣武士角色在授职仪式上接受[戈塔什](Gortash.md "戈塔什")的结盟提议

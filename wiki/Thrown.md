@@ -42,7 +42,7 @@
 
 ## 与投掷交互的武器
 
-- [嗜血](Bloodthirst.md "Bloodthirst") - 当被投掷时，由于其永久的 [誓缚武器](Bound_Weapon_(Condition).md) condition) 状态，会返回到所有者手中。
+- [嗜血](Bloodthirst.md "Bloodthirst") - 当被投掷时，由于其永久的 [绑定武器](Bound_Weapon_(Condition).md) condition) 状态，会返回到所有者手中。
 - [回旋手斧](Comeback_Handaxe.md "Comeback Handaxe") - 当被投掷时，会返回到投掷者手中并对其造成伤害。
 - [矮人投手](Dwarven_Thrower.md "Dwarven Thrower") - 当被投掷时，会返回到所有者手中。如果由 [矮人](Dwarf.md "Dwarf")（或 [伪装](Disguise_Self_(Condition).md "伪装（状态）") 成矮人的角色）投掷，会造成额外的 1d4⁠⁠[钝击](Bludgeoning.md "钝击") 伤害 - 或者如果目标是 [大型](Creature_size.md "生物体型")、巨型或超巨型，则造成 2d8⁠⁠[钝击](Bludgeoning.md "钝击") 伤害。
 - [闪电混语](Lightning_Jabber.md "Lightning Jabber") - 当被投掷时，造成额外的 1d4⁠⁠[闪电](Lightning.md "闪电") 伤害。

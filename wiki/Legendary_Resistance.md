@@ -20,7 +20,7 @@ _维基数据库中未定义_
 - [巴萨扎尔](Balthazar.md "Balthazar")
 - [卡扎多尔·扎尔](Cazador_Szarr.md "Cazador Szarr")
 - [恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")
-- [哈拉克](Har'rak.md "Har'rak")
+- [哈’拉克](Har'rak.md "Har'rak")
 - [莱辛多尔](Lyrthindor.md "Lyrthindor")
 - [暴虐化身](Manifestation_of_Tyranny.md "Manifestation of Tyranny")
 - [秘术师卡里翁](Mystic_Carrion.md "Mystic Carrion")

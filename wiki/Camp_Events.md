@@ -509,7 +509,7 @@ _后果：_ 与莱埃泽尔的浪漫场景。莱埃泽尔唤醒玩家角色向�
 
 ### 米佐拉契约
 
-_要求：_ 招募[威尔](Wyll.md "威尔")。在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")桥上与[米佐拉](Mizora.md "米佐拉")交谈，前往[下城区](Lower_City.md "下城区")，在[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")加冕之后。
+_要求：_ 招募[威尔](Wyll.md "威尔")。在[飞龙关](Wyrm's_Crossing.md "飞龙关")桥上与[米佐拉](Mizora.md "米佐拉")交谈，前往[下城区](Lower_City.md "下城区")，在[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")加冕之后。
 
 _被取消：_ 进入[塑境秘潭](Morphic_Pool.md "塑境秘潭")。
 
@@ -613,7 +613,7 @@ _后果：_ 与威尔的浪漫场景。
 
 #### 邪念收到其真实身份的幻象
 
-_要求：_ 在[利文顿](Rivington.md "利文顿")或[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")长休，且未进入[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")。
+_要求：_ 在[利文顿](Rivington.md "利文顿")或[飞龙关](Wyrm's_Crossing.md "飞龙关")长休，且未进入[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")。
 
 _被取消：_ 进入[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")。
 

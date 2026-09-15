@@ -1,6 +1,6 @@
 # 多重攻击 (斯伯)
 
-本文介绍的是蕈人王斯伯使用的多重攻击动作。有关蕈人王格拉特使用的版本，请参见 [多重攻击 (格拉特)](Multiattack_(Glut).md)。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)。
+本文介绍的是蕈人王斯伯使用的多重攻击动作。有关蕈人王格拉特使用的版本，请参见 [多重攻击 (格拉特)](Multiattack_(Glut).md)。其他用法，请参见 [多重攻击 （消歧义）](Multiattack_(disambiguation).md)。
 
 **多重攻击**是一项职业动作，允许 [蕈人王斯伯](Spaw.md "Spaw") 对处于 [昏沉](Befuddled_(Condition).md "昏沉 (状态)")、[毒雾](Poisonous_Fumes_(Condition).md "毒雾 (状态)") 或 [加速孢子](Haste_Spores_(Condition).md "加速孢子 (状态)") 影响下的敌人进行两次攻击。
 

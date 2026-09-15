@@ -1,6 +1,6 @@
 # 多重攻击 (拉斐尔)
 
-另请参阅：[多重攻击 (消歧义)](Multiattack_(disambiguation).md) and [多重攻击 (拉斐尔, 硬核)](Multiattack_(Raphael,_tactician).md)
+另请参阅：[多重攻击 （消歧义）](Multiattack_(disambiguation).md) and [多重攻击 (拉斐尔, 硬核)](Multiattack_(Raphael,_tactician).md)
 
 **多重攻击**是[拉斐尔](Raphael.md "拉斐尔")在[进化](Ascended_Fiend_(Condition).md "进化邪魔 (状态)")时可用的动作。它允许他进行多次攻击。
 

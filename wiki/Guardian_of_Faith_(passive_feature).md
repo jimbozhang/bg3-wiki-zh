@@ -1,6 +1,6 @@
 # 信仰守卫 (被动特性)
 
-本文介绍的是由[信仰守卫](Guardian_of_Faith_(creature).md)>使用的被动特性。其他用法，请参见[信仰守卫 (消歧义)](Guardian_of_Faith_(disambiguation).md)>。
+本文介绍的是由[信仰守卫](Guardian_of_Faith_(creature).md)>使用的被动特性。其他用法，请参见[信仰守卫 （消歧义）](Guardian_of_Faith_(disambiguation).md)>。
 
 **信仰守卫**是由同名[召唤物](Guardian_of_Faith_(creature).md)>使用的被动特性。它允许它们自动攻击进入其范围的敌人，使用[守护者之击](Strike_of_the_Guardian.md "守护者之击")。这与[借机攻击](Opportunity_Attacks.md "借机攻击")的通常工作方式相反。
 

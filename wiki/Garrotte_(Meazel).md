@@ -1,6 +1,6 @@
 # 绞杀术 (鬼魊)
 
-本文介绍的是平衡难度及以下难度中鬼魊使用的动作。关于硬核难度中使用的更强版本，请参见 [绞杀术 (鬼魊, 硬核)](Garrotte_(Meazel,_tactician).md)。其他用法，请参见 [绞杀术 (消歧义)](Garrotte_(disambiguation).md)。
+本文介绍的是平衡难度及以下难度中鬼魊使用的动作。关于硬核难度中使用的更强版本，请参见 [绞杀术 (鬼魊, 硬核)](Garrotte_(Meazel,_tactician).md)。其他用法，请参见 [绞杀术 （消歧义）](Garrotte_(disambiguation).md)。
 
 绞杀术是 [鬾魊](Meazel.md "鬾魊") 使用的职业动作，能暴力束缚并沉默目标。
 

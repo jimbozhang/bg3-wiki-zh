@@ -1,6 +1,6 @@
 # 猛毒扩散 (混乱青蛙)
 
-另见：[猛毒扩散 (消歧义)](Venomous_Discharge_(disambiguation).md)
+另见：[猛毒扩散 （消歧义）](Venomous_Discharge_(disambiguation).md)
 
 **猛毒扩散**是[混乱青蛙](Addled_Frog.md "混乱青蛙")可用的动作，可造成中毒伤害并可能使目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 

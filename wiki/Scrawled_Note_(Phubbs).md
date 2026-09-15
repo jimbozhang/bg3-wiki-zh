@@ -1,6 +1,6 @@
 # 潦草的笔记 (Phubbs)
 
-另请参阅：[潦草的笔记 (消歧义)](Scrawled_Note_(disambiguation).md)
+另请参阅：[潦草的笔记 （消歧义）](Scrawled_Note_(disambiguation).md)
 
 **潦草的笔记**是一张常见的[笔记](Note.md "Note")和邀请函。
 

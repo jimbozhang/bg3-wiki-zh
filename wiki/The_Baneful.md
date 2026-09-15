@@ -1,8 +1,8 @@
 # 灾祸短剑
 
-灾祸短剑是一把稀有的+1[短剑](Shortswords.md "短剑")，命中时会施加[灾祸术](Bane_(Condition).md "灾祸术（状态）")状态。这把剑的魔法力量只有在[誓缚](Bound_Weapon_(Condition).md "誓缚武器（状态）")于奥法骑士或是邪术师的[魔契武器](Pact_Weapon_(Condition).md "魔契武器（状态）")时才会生效。
+灾祸短剑是一把稀有的+1[短剑](Shortswords.md "短剑")，命中时会施加[灾祸术](Bane_(Condition).md "灾祸术（状态）")状态。这把剑的魔法力量只有在[誓缚](Bound_Weapon_(Condition).md "绑定武器（状态）")于奥法骑士或是邪术师的[魔契武器](Pact_Weapon_(Condition).md "魔契武器（状态）")时才会生效。
 
-法师[奥提卢克](https://forgottenrealms.fandom.com/wiki/Otiluke)曾写过关于誓缚武器及其在持有者与武器合二为一时凝聚的倾向。他也写过它们的危险——危险重重，以及它们的好处——让危险变得值得。
+法师[奥提卢克](https://forgottenrealms.fandom.com/wiki/Otiluke)曾写过关于绑定武器及其在持有者与武器合二为一时凝聚的倾向。他也写过它们的危险——危险重重，以及它们的好处——让危险变得值得。
 
 ## 属性
 
@@ -55,7 +55,7 @@ _关于灾祸连接：_
 
 ## 错误
 
-- 尽管描述只提到[誓缚武器](Bound_Weapon_(Condition).md)和[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")能启用其**心仪武器**被动，但[魔刃邪术师](Hexblade.md "魔刃邪术师")的[脆弱诅咒武器誓缚](Bind_Hexed_Weapon.md "脆弱诅咒武器誓缚")同样有效。
+- 尽管描述只提到[绑定武器](Bound_Weapon_(Condition).md)和[魔契武器誓缚](Bind_Pact_Weapon.md "魔契武器誓缚")能启用其**心仪武器**被动，但[魔刃邪术师](Hexblade.md "魔刃邪术师")的[脆弱诅咒武器誓缚](Bind_Hexed_Weapon.md "脆弱诅咒武器誓缚")同样有效。
 
 ---
 *Source: [The Baneful](https://bg3.wiki/wiki/The_Baneful)*

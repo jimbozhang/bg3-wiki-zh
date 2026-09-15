@@ -1,6 +1,6 @@
-# U. R. : For the Absolute's Glory
+# U. R. : 为了至上真神
 
-**U. R. : For the Absolute's Glory** 是 [乌尔德·雷文伽德](Ulder_Ravengard.md "乌尔德·雷文伽德") 在被感染后撰写的个人日记。
+**U. R. : 为了至上真神** 是 [乌尔德·雷文伽德](Ulder_Ravengard.md "乌尔德·雷文伽德") 在被感染后撰写的个人日记。
 
 雷文伽德公爵的个人反思。
 

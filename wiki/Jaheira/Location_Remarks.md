@@ -164,7 +164,7 @@
 - _(在谷仓发现填充熊，不知道内情):_ “呵。真够甜腻的。”
 - _(知道内情):_ “一批玩具——根据那封信，它们可不像看起来那么可爱。”
 
-### [飞龙岩要塞](../Wyrm's_Crossing.md "Wyrm's Crossing")
+### [飞龙关](../Wyrm's_Crossing.md "飞龙关")
 
 #### [丹瑟隆的飞斧](../Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")
 

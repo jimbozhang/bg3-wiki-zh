@@ -30,7 +30,7 @@ UID `S_GLO_Orin_Bhaalist_Dagger` UUID `51c312d5-ce5e-4f8c-a5ad-edc2beced3e6` Sta
 [克敌机先](True_Strike.md "克敌机先")
 以戏法形式施放（充能：[短休](Short_rest.md "短休")。）
 
-- [誓缚武器](Bound_Weapon_(Condition).md "誓缚武器（状态）")
+- [绑定武器](Bound_Weapon_(Condition).md "绑定武器（状态）")
 - [护甲等级](Armour_Class.md "护甲等级") +1（仅限副手）
 
 [精通重击](Improved_Critical.md "精通重击")
@@ -53,9 +53,9 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**可
 [穿刺打击](Piercing_Strike.md "穿刺打击")
 刺击敌人并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口（状态）")。（充能：[短休](Short_rest.md "短休")。）
 
-## 状态：誓缚武器
+## 状态：绑定武器
 
-**[誓缚武器](Bound_Weapon_(Condition).md "誓缚武器（状态）")**
+**[绑定武器](Bound_Weapon_(Condition).md "绑定武器（状态）")**
 
 - 通过仪式与使用者誓缚。
 - 武器无法被击落出使用者的手，并且在[投掷](Throw.md "投掷")时会自动返回使用者手中。

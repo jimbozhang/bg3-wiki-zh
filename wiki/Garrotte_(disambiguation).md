@@ -1,4 +1,4 @@
-# 绞杀术 (消歧义)
+# 绞杀术 （消歧义）
 
 这是一个消歧义页面，指向名称模糊的文章。如果文章中的链接将您[带到这里](Special_colon_WhatLinksHere/Garrotte_(disambiguation).md)>，请考虑编辑该链接，将其指向正确的页面。
 

@@ -1,6 +1,6 @@
 # 潦草的字条 (下城区)
 
-另请参阅：[潦草的字条 (消歧义)](Scribbled_Note_(disambiguation).md)
+另请参阅：[潦草的字条 （消歧义）](Scribbled_Note_(disambiguation).md)
 
 **潦草的字条**是[艾弗里·索萨尔](Avery_Sonshal.md "艾弗里·索萨尔")写给[塔姆](Tamara.md "塔姆")的一封信。
 

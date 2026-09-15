@@ -15,7 +15,7 @@
 
 生物使用：
 
-- [米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒")、[哈拉克](Har'rak.md "哈拉克")、[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")、[洛希尔](Losiir.md "洛希尔")、[明斯克](Minsc.md "明斯克")、[明萨拉](Minthara.md "明萨拉")、[斯库纳](Skoona.md "斯库纳")、[瓦兰娜·繁日](Varanna_Sunblossom.md "瓦兰娜·繁日")、[赛夫洛](Zevlor.md "赛夫洛")、[僵尸明萨拉](Zombie_Minthara.md "僵尸明萨拉")
+- [米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒")、[哈’拉克](Har'rak.md "哈’拉克")、[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")、[洛希尔](Losiir.md "洛希尔")、[明斯克](Minsc.md "明斯克")、[明萨拉](Minthara.md "明萨拉")、[斯库纳](Skoona.md "斯库纳")、[瓦兰娜·繁日](Varanna_Sunblossom.md "瓦兰娜·繁日")、[赛夫洛](Zevlor.md "赛夫洛")、[僵尸明萨拉](Zombie_Minthara.md "僵尸明萨拉")
 
 ## 备注
 

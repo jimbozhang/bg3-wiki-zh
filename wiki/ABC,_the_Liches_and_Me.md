@@ -1,6 +1,6 @@
-# ABC, the Liches and Me
+# 巫妖百科
 
-ABC, the Liches and Me 是一本关于各种[巫妖](Lich.md "Lich")的书。
+巫妖百科 是一本关于各种[巫妖](Lich.md "Lich")的书。
 
 这本书散发着纸张和墨水的诱人气息。
 

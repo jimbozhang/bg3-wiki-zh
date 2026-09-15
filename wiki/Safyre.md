@@ -21,7 +21,7 @@
 - [精灵血统](Fey_Ancestry.md "精灵血统")
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**萨菲尔**可以在[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")的[第三幕](Act_Three.md "第三幕")中找到。
+**萨菲尔**可以在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[第三幕](Act_Three.md "第三幕")中找到。
 
 > “
 >

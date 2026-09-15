@@ -1,6 +1,6 @@
-# A 是为阿祖斯，以及其他神祇 I
+# 《神祇歌 卷I》
 
-**A 是为阿祖斯，以及其他神祇 I** 是一系列教导儿童关于[神祇](Deities.md "Deities")的书籍之一。
+**《神祇歌 卷I》** 是一系列教导儿童关于[神祇](Deities.md "Deities")的书籍之一。
 
 这是一本关于阿曼纳托、阿斯摩蒂欧斯和奥瑞尔的儿童韵文集。
 
@@ -52,12 +52,12 @@
 
 该系列的其他书籍包括：
 
-- [A 是为阿祖斯，以及其他神祇 II](A_is_for_Azuth,_and_other_Gods_II.md "A 是为阿祖斯，以及其他神祇 II")
-- [A 是为阿祖斯，以及其他神祇 III](A_is_for_Azuth,_and_other_Gods_III.md "A 是为阿祖斯，以及其他神祇 III")
-- [A 是为阿祖斯，以及其他神祇 VI](A_is_for_Azuth,_and_other_Gods_VI.md "A 是为阿祖斯，以及其他神祇 VI")
-- [A 是为阿祖斯，以及其他神祇 VII](A_is_for_Azuth,_and_other_Gods_VII.md "A 是为阿祖斯，以及其他神祇 VII")
-- [A 是为阿祖斯，以及其他神祇 IX](A_is_for_Azuth,_and_other_Gods_IX.md "A 是为阿祖斯，以及其他神祇 IX")
-- [A 是为阿祖斯，以及其他神祇 XI](A_is_for_Azuth,_and_other_Gods_XI.md "A 是为阿祖斯，以及其他神祇 XI")
+- [《神祇歌 卷II》](A_is_for_Azuth,_and_other_Gods_II.md "《神祇歌 卷II》")
+- [《神祇歌 卷III》](A_is_for_Azuth,_and_other_Gods_III.md "《神祇歌 卷III》")
+- [《神祇歌 卷VI》](A_is_for_Azuth,_and_other_Gods_VI.md "《神祇歌 卷VI》")
+- [《神祇歌 卷VII》](A_is_for_Azuth,_and_other_Gods_VII.md "《神祇歌 卷VII》")
+- [《神祇歌 卷IX》](A_is_for_Azuth,_and_other_Gods_IX.md "《神祇歌 卷IX》")
+- [《神祇歌 卷XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《神祇歌 卷XI》")
 
 ## 外部链接
 

@@ -5,7 +5,7 @@
 | 侦测存在 | 搜索 3 米（10 英尺）范围内的[隐形](Invisible.md "隐形")生物。生物必须进行[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则将被[显露](Revealed_(Condition).md "显露 (状态)")。使用受影响实体的[法术豁免 DC](Spell_Save_DC.md "法术豁免 DC")。 |
 | 识破隐形 | 可看见 9 米（30 英尺）范围内的[隐形](Invisible_(Condition).md "隐形 (状态)")生物。生物必须成功通过[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则将失去其隐形状态。 |
 
-有关此能力的其他版本，请参见识破隐形 (消歧义)
+有关此能力的其他版本，请参见识破隐形 （消歧义）
 
 - 生物必须成功通过[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则将失去其隐形状态。
 

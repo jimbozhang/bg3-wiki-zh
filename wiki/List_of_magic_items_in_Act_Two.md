@@ -689,49 +689,49 @@ X: -604 Y: -1431
 
 - 每次[疾走](Dash.md "疾走")时，穿戴者获得2回合[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")。
 
-| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
 [狩猎饰环](Circlet_of_Hunting.md "狩猎饰环")
 |
 
 - 对被[猎人之标](Hunter's_Mark_Quarry_(Condition).md "猎人之标 (状态)")、[真实打击](True_Strike_(Condition).md "真实打击 (状态)")、[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")或[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")标记的生物，你的[攻击掷骰](Attack_roll.md "攻击掷骰")获得**+1d4**加值。
 
-| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
 [风暴之子之力帽](Hat_of_Storm_Scion's_Power.md "风暴之子之力帽")
 |
 
 - 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。
 
-| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
 [自由动作戒指](Ring_of_Free_Action.md "自由动作戒指")
 |
 
 - 你忽略[艰难地形](Difficult_Terrain_(Condition).md "艰难地形 (状态)")的效果，且无法被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。
 
-| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
 [风险戒指](Risky_Ring.md "风险戒指")
 |
 
 - 你的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 
-| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
 [精准专注长袍](Robe_of_Exquisite_Focus.md "精准专注长袍")
 |
 
 - 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。
 
-| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
 [雷束披风](Thunderskin_Cloak.md "雷束披风")
 |
 
 - 当处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
-| 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
+| 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 X: -128 Y: -193
 [导引披风](Derivation_Cloak.md "导引披风")
 |
@@ -767,13 +767,13 @@ X: -152 Y: -191
 | 月亮提灯 |  | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")位于[月出之塔](Moonrise_Towers.md "月出之塔")的房间内 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 | 暗影提灯 | [召唤影灯缚灵](Conjure_Shadow_Lantern_Wraith.md "召唤影灯缚灵") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 让[盖尔](Gale.md "盖尔")在队伍中，在[巴萨扎尔](Balthazar.md "巴萨扎尔")密室中位于 X: -150 Y: -165 的桌子旁组合以下材料：[坏掉的月亮提灯](Broken_Moonlantern.md "坏掉的月亮提灯") - 由[尼讷](Nere.md "尼讷")在[复仇之炉](Grymforge.md "复仇之炉")携带，位于复仇之炉电梯顶部、进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")前（X: 37 Y: -1165），或在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内 [死去的妖精](Dead_Pixie.md "死去的妖精") - 在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内找到 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 | 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外，无特殊属性。 | 由[军需官塔利](Talli.md "塔利")在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")被击败后出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
-| 奥术强化之靴 | 每次[疾走](Dash.md "疾走")时，穿戴者获得2回合[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 狩猎饰环 | 对被[猎人之标](Hunter's_Mark_Quarry_(Condition).md "猎人之标 (状态)")、[真实打击](True_Strike_(Condition).md "真实打击 (状态)")、[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")或[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")标记的生物，你的[攻击掷骰](Attack_roll.md "攻击掷骰")获得+1d4加值。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 风暴之子之力帽 | 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 自由动作戒指 | 你忽略[艰难地形](Difficult_Terrain_(Condition).md "艰难地形 (状态)")的效果，且无法被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 风险戒指 | 你的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势"),但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 精准专注长袍 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 雷束披风 | 当处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 奥术强化之靴 | 每次[疾走](Dash.md "疾走")时，穿戴者获得2回合[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 狩猎饰环 | 对被[猎人之标](Hunter's_Mark_Quarry_(Condition).md "猎人之标 (状态)")、[真实打击](True_Strike_(Condition).md "真实打击 (状态)")、[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")或[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")标记的生物，你的[攻击掷骰](Attack_roll.md "攻击掷骰")获得+1d4加值。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 风暴之子之力帽 | 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 自由动作戒指 | 你忽略[艰难地形](Difficult_Terrain_(Condition).md "艰难地形 (状态)")的效果，且无法被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 风险戒指 | 你的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势"),但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 精准专注长袍 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 雷束披风 | 当处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
 | 导引披风 | 当你使敌人[中毒](Poisoned_(Condition).md "中毒 (状态)")时，恢复自身1d4⁠⁠[生命值](Healing.md "治疗")。 | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")位于[一楼](Moonrise_Towers#First_floor.md#First_floor "月出之塔")的房间的一个沉重箱子中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -132 Y: -175 |
 | 至上真神保护者 | 若持有者拥有[至上真神的烙印](Absolute's_Brand.md "Brand of the Absolute"),法术所受伤害减少1点。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。[火焰护盾：寒冷](Fire_Shield_colon__Chill.md "火焰护盾：寒冷") 施放为4环法术（充能：[长休](Long_Rest.md "长休")。） | 由[泽'瑞尔](Z'rell.md "泽'瑞尔")携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -150 Y: -202 |
 | 沉重巨斧 | [巨像切割者](Gargantuan_Cleave.md "巨像切割者") 竭尽全力挥动武器。你可以攻击多个目标，造成额外1d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源附加](Damage_rider_as_source.md "伤害来源附加")伤害，但会陷入[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 由主层的费泽克携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -152 Y: -191 |
@@ -861,13 +861,13 @@ X: 715 Y: -49
 | 月亮提灯 |  | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")位于[月出之塔](Moonrise_Towers.md "月出之塔")的房间内 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 | 暗影提灯 | [召唤影灯缚灵](Conjure_Shadow_Lantern_Wraith.md "召唤影灯缚灵") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 让[盖尔](Gale.md "盖尔")在队伍中，在[巴萨扎尔](Balthazar.md "巴萨扎尔")密室中位于 X: -150 Y: -165 的桌子旁组合以下材料：[坏掉的月亮提灯](Broken_Moonlantern.md "坏掉的月亮提灯") - 由[尼讷](Nere.md "尼讷")在[复仇之炉](Grymforge.md "复仇之炉")携带，位于复仇之炉电梯顶部、进入[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")前（X: 37 Y: -1165），或在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内 [死去的妖精](Dead_Pixie.md "死去的妖精") - 在[巴萨扎尔](Balthazar.md "巴萨扎尔")的密室内找到 | [月出之塔](Moonrise_Towers.md "月出之塔") |
 | 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外，无特殊属性。 | 由[军需官塔利](Talli.md "塔利")在[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")被击败后出售 | [月出之塔](Moonrise_Towers.md "月出之塔") |
-| 奥术强化之靴 | 每次[疾走](Dash.md "疾走")时，穿戴者获得2回合[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 狩猎饰环 | 对被[猎人之标](Hunter's_Mark_Quarry_(Condition).md "猎人之标 (状态)")、[真实打击](True_Strike_(Condition).md "真实打击 (状态)")、[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")或[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")标记的生物，你的[攻击掷骰](Attack_roll.md "攻击掷骰")获得+1d4加值。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 风暴之子之力帽 | 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 自由动作戒指 | 你忽略[艰难地形](Difficult_Terrain_(Condition).md "艰难地形 (状态)")的效果，且无法被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 风险戒指 | 你的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势"),但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 精准专注长袍 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
-| 雷束披风 | 当处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 | 由[阿拉吉·奥布洛德拉](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 奥术强化之靴 | 每次[疾走](Dash.md "疾走")时，穿戴者获得2回合[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 狩猎饰环 | 对被[猎人之标](Hunter's_Mark_Quarry_(Condition).md "猎人之标 (状态)")、[真实打击](True_Strike_(Condition).md "真实打击 (状态)")、[妖火](Faerie_Fire_(Condition).md "妖火 (状态)")或[曳光弹](Guiding_Bolt_(Condition).md "曳光弹 (状态)")标记的生物，你的[攻击掷骰](Attack_roll.md "攻击掷骰")获得+1d4加值。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 风暴之子之力帽 | 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 自由动作戒指 | 你忽略[艰难地形](Difficult_Terrain_(Condition).md "艰难地形 (状态)")的效果，且无法被[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[束缚](Restrained_(Condition).md "束缚 (状态)")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 风险戒指 | 你的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势"),但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 精准专注长袍 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
+| 雷束披风 | 当处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，否则陷入[眩晕](Dazed_(Condition).md "眩晕 (状态)")。 | 由[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")在主层出售 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -128 Y: -193 |
 | 导引披风 | 当你使敌人[中毒](Poisoned_(Condition).md "中毒 (状态)")时，恢复自身1d4⁠⁠[生命值](Healing.md "治疗")。 | 在[巴萨扎尔](Balthazar.md "巴萨扎尔")位于[一楼](Moonrise_Towers#First_floor.md#First_floor "月出之塔")的房间的一个沉重箱子中 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -132 Y: -175 |
 | 至上真神保护者 | 若持有者拥有[至上真神的烙印](Absolute's_Brand.md "Brand of the Absolute"),法术所受伤害减少1点。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以用反应将其击至[倒伏](Prone_(Condition).md "倒伏 (状态)")，除非其通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "豁免检定")。[火焰护盾：寒冷](Fire_Shield_colon__Chill.md "火焰护盾：寒冷") 施放为4环法术（充能：[长休](Long_Rest.md "长休")。） | 由[泽'瑞尔](Z'rell.md "泽'瑞尔")携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -150 Y: -202 |
 | 沉重巨斧 | [巨像切割者](Gargantuan_Cleave.md "巨像切割者") 竭尽全力挥动武器。你可以攻击多个目标，造成额外1d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源附加](Damage_rider_as_source.md "伤害来源附加")伤害，但会陷入[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡 (状态)")。（充能：[短休](Short_rest.md "短休")。） | 由主层的费泽克携带 | [月出之塔](Moonrise_Towers.md "月出之塔") X: -152 Y: -191 |

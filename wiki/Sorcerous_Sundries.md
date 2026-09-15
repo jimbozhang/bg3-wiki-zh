@@ -225,7 +225,7 @@ _尽管其实际功能类似于按钮或杠杆，但这本书可以像游戏中�
 
 _此列表不包括《魔法学派》和《学徒伴侣》系列的书籍，但几乎所有这些都可以在商店一楼的书柜中找到。_
 
-- [ABC，巫妖与我](ABC,_the_Liches_and_Me.md "ABC，巫妖与我")
+- [巫妖百科](ABC,_the_Liches_and_Me.md "巫妖百科")
 - [来自沃姆普特的字条](A_Note_from_Vompter.md "来自沃姆普特的字条")
 - [钢铁王座的倾覆](Downfall_of_the_Iron_Throne.md "钢铁王座的倾覆")
 - [致强壮与坚韧者](FOR_THE_STOUT_AND_STURDY.md "致强壮与坚韧者")

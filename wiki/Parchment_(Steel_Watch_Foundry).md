@@ -1,6 +1,6 @@
 # 羊皮卷 (钢铁卫士铸造厂)
 
-另请参阅：[羊皮卷 (消歧义)](Parchment_(disambiguation).md)
+另请参阅：[羊皮卷 （消歧义）](Parchment_(disambiguation).md)
 
 **羊皮卷**是一张恳求帮助从[钢铁王座](Iron_Throne.md "钢铁王座")营救他家人的便条。
 

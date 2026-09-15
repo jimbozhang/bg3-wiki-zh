@@ -1,6 +1,6 @@
 # 多重攻击 (复仇之魂)
 
-本文介绍的是复仇之魂使用的多重攻击动作。关于受折磨的灵魂使用的版本，请参见 [多重攻击 (受折磨的灵魂)](Multiattack_(Tormented_Soul).md))。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md))。
+本文介绍的是复仇之魂使用的多重攻击动作。关于受折磨的灵魂使用的版本，请参见 [多重攻击 (受折磨的灵魂)](Multiattack_(Tormented_Soul).md))。其他用法，请参见 [多重攻击 （消歧义）](Multiattack_(disambiguation).md))。
 
 **多重攻击**是 [复仇之魂](Vengeful_Soul.md "复仇之魂") 可用的动作，允许它们对恐慌的目标进行两次攻击。
 

@@ -100,7 +100,7 @@
 
 #### 护甲
 
-- [精灵锁甲](Elven_Chain.md "精灵锁甲") 5e – ⁠[精灵链甲](https://baldursgate.fandom.com/wiki/Elven_Chain_Mail)
+- [精灵锁甲](Elven_Chain.md "精灵锁甲") 5e – ⁠[精灵锁甲](https://baldursgate.fandom.com/wiki/Elven_Chain_Mail)
 - [博德安之盔](Helm_of_Balduran.md "博德安之盔") – ⁠[博德安之盔](https://baldursgate.fandom.com/wiki/Helm_of_Balduran)
 
 #### 披风

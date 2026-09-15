@@ -1,6 +1,6 @@
 # 猛毒之噬 (相位蜘蛛女王)
 
-另见：[猛毒之噬 (消歧义)](Venomous_Bite_(disambiguation).md)
+另见：[猛毒之噬 （消歧义）](Venomous_Bite_(disambiguation).md)
 
 **猛毒之噬**是[相位蜘蛛女王](Phase_Spider_Matriarch.md "相位蜘蛛女王")可用的动作，可造成大量中毒和穿刺伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 

@@ -1,6 +1,6 @@
 # 猛毒之噬 (相位蜘蛛)
 
-另请参阅：[猛毒之噬 (消歧义)](Venomous_Bite_(disambiguation).md)
+另请参阅：[猛毒之噬 （消歧义）](Venomous_Bite_(disambiguation).md)
 
 **猛毒之噬**是[相位蜘蛛](Phase_Spider.md "Phase Spider")可用的动作，可造成中毒和穿刺伤害，并可能使目标中毒。
 

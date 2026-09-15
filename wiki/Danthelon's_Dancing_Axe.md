@@ -1,13 +1,13 @@
 # 丹瑟隆的飞斧
 
-## [飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
+## [飞龙关](Wyrm's_Crossing.md "飞龙关")
 
 [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")
 ↑
 |  | **丹瑟隆的飞斧** | → | [卡姆的成衣店](Carm's_Garms.md "卡姆的成衣店") |
 ↓
 [夏芮丝的爱抚](Sharess'_Caress.md "夏芮丝的爱抚")
-**丹瑟隆的飞斧**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")内的一个[地点](Location.md "地点")。如果[贾希拉](Jaheira.md "贾希拉")存活并被玩家角色招募，她也会提到这里是[竖琴手同盟](Harpers.md "竖琴手同盟")的安全屋。
+**丹瑟隆的飞斧**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[飞龙关](Wyrm's_Crossing.md "飞龙关")内的一个[地点](Location.md "地点")。如果[贾希拉](Jaheira.md "贾希拉")存活并被玩家角色招募，她也会提到这里是[竖琴手同盟](Harpers.md "竖琴手同盟")的安全屋。
 
 > “
 >
@@ -51,7 +51,7 @@
 ## 相关地点
 
 - ⁠[天鹅绒灵药](The_Velveteen_Elixir.md "天鹅绒灵药")
-- ⁠[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")
+- ⁠[飞龙关](Wyrm's_Crossing.md "飞龙关")
 
 ## 相关任务
 

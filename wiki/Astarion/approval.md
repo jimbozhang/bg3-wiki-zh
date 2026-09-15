@@ -613,9 +613,9 @@ _在[月出之塔监狱](../Moonrise_Towers_Prison.md "Moonrise Towers Prison")�
 - 或对乌尔布伦的背叛表示愤怒，使用基本台词或邪恶[牧师](../Cleric.md "Cleric")、[野蛮人](../Barbarian.md "Barbarian")、[吟游诗人](../Bard.md "Bard")、[战士](../Fighter.md "Fighter")、[卓尔](../Drow.md "Drow")、[吉斯洋基人](../Githyanki.md "Githyanki")或[深地侏](../Deep_Gnome.md "Deep Gnome")的职业/种族专属台词 (+1) _(任选其一)_
   - 如果越狱成功且你的参与未被发现，告诉典狱长是你偷偷放走了囚犯 (+1)
 
-_与[阿拉吉·奥布洛德拉](../Araj_Oblodra.md "Araj Oblodra")打交道：_
+_与[阿拉吉·欧布罗扎](../Araj_Oblodra.md "Araj Oblodra")打交道：_
 
-  - 告诉阿拉吉·奥布洛德拉阿斯代伦是他自己的人 (+5)
+  - 告诉阿拉吉·欧布罗扎阿斯代伦是他自己的人 (+5)
 - 当阿斯代伦拒绝咬阿拉吉时，为他说话 (+5)
 - 或当阿拉吉要求你让他同意时，告诉阿斯代伦他不必做任何他不想做的事 (+5)
 

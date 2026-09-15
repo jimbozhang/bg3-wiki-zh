@@ -13,7 +13,7 @@
 | 先攻 | 0 |
 | 经验值 | 1 |
 
-**尼诺·奎尔托普**正在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")购买补给品，处于[第三幕](Act_Three.md "Act Three")。
+**尼诺·奎尔托普**正在[飞龙关](Wyrm's_Crossing.md "飞龙关")购买补给品，处于[第三幕](Act_Three.md "Act Three")。
 
 > “
 >

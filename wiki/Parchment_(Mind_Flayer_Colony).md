@@ -1,6 +1,6 @@
 # 羊皮卷 (夺心魔殖民地)
 
-另请参阅：[羊皮卷 (消歧义)](Parchment_(disambiguation).md)
+另请参阅：[羊皮卷 （消歧义）](Parchment_(disambiguation).md)
 
 **羊皮卷 (夺心魔殖民地)** 无法辨认。
 

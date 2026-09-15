@@ -33,7 +33,7 @@ UID `MAG_Shadow_Battleaxe` UUID `6364a270-0ca4-45e2-aab2-7673bb5c156e` ### 特�
 
 **持有此物品获得：**
 
-- [誓缚武器](Bound_Weapon_(Condition).md "誓缚武器（状态）")
+- [绑定武器](Bound_Weapon_(Condition).md "绑定武器（状态）")
 
 ### 武器动作
 

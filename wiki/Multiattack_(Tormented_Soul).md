@@ -1,6 +1,6 @@
 # 多重攻击 (受折磨的灵魂)
 
-本文介绍受折磨的灵魂使用的多重攻击动作。关于复仇之魂使用的版本，请参见 [多重攻击 (复仇之魂)](Multiattack_(Vengeful_Soul).md)。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)。
+本文介绍受折磨的灵魂使用的多重攻击动作。关于复仇之魂使用的版本，请参见 [多重攻击 (复仇之魂)](Multiattack_(Vengeful_Soul).md)。其他用法，请参见 [多重攻击 （消歧义）](Multiattack_(disambiguation).md)。
 
 **多重攻击**是[受折磨的灵魂](Tormented_Soul.md "受折磨的灵魂")可用的动作，允许它们对受[气馁尖啸](Unnerving_Screech.md "气馁尖啸")或[敌意尖啸](Animus_Screech.md "敌意尖啸")影响的目标进行两次攻击。
 

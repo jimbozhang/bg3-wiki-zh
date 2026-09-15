@@ -85,7 +85,7 @@
 - [阿尔菲拉](Alfira.md)
 - [洛希尔](Losiir.md)
 
-**Attached Followers**
+**伙伴**
 
 - [披甲枭熊](Armoured_Owlbear.md)
 - [顾问弗洛瑞克](Counsellor_Florrick.md)
@@ -99,7 +99,7 @@
 - [我们](Us.md)
 - [赞纳·图宾](Zanner_Toobin.md)
 
-**Camp Followers**
+**营地随从**
 
 - [营地随从](Camp_Followers.md)
 - [枭熊幼兽](Owlbear_Cub.md)
@@ -117,7 +117,7 @@
 - [耶娜](Yenna.md)
 - [格鲁布](Grub.md)
 
-**Permanent**
+**永久**
 
 - [枭熊幼兽](Owlbear_Cub.md)
 - [挠挠](Scratch.md)
@@ -136,7 +136,7 @@
 - [耶娜](Yenna.md)
 - [格鲁布](Grub.md)
 
-**Permanent**
+**永久**
 
 - [枭熊幼兽](Owlbear_Cub.md)
 - [挠挠](Scratch.md)
@@ -155,7 +155,7 @@
 - [耶娜](Yenna.md)
 - [格鲁布](Grub.md)
 
-**Hirelings**
+**雇佣兵**
 
 - [布里娜·明歌](Brinna_Brightsong.md)
 - [埃尔德拉·卢斯琳](Eldra_Luthrinn.md)
@@ -170,7 +170,7 @@
 - [维'瑞尔·文基](Ver'yll_Wenkiir.md)
 - [齐尼斯·弗'赛尔](Zenith_Feur'sel.md)
 
-**Personal Quests**
+**个人任务**
 
 - [卡扎多尔·扎尔](Cazador_Szarr.md)
 - [梦境访客](Dream_Visitor.md)
@@ -312,7 +312,7 @@
 - [利亚姆](Liam.md)
 - [蕾米拉](Remira.md)
 
-**Animals**
+**动物**
 
 - [厌倦的公牛](Bored_Ox.md)
 - [布斯克](Bosk.md)
@@ -354,7 +354,7 @@
 - [蠕虫](Worm.md)
 - [扎'克鲁格](Za'krug.md)
 
-**Tiefling Refugees**
+**提夫林难民**
 
 - [阿尔菲拉](Alfira.md)
 - [阿美克](Amek.md)
@@ -403,7 +403,7 @@
 - [乌米](Umi.md)
 - [扎基](Zaki.md)
 
-**Children**
+**儿童**
 
 - [阿拉贝尔](Arabella.md)
 - [多尼](Doni.md)
@@ -424,7 +424,7 @@
 - [摩尔](Mol.md)
 - [瓦罗](Volo.md)
 
-**Other**
+**其他**
 
 - [熊地精刺客](Bugbear_Assassin.md)
 - [古怪公牛](Strange_Ox.md)
@@ -436,7 +436,7 @@
 - [利亚姆](Liam.md)
 - [蕾米拉](Remira.md)
 
-**Animals**
+**动物**
 
 - [厌倦的公牛](Bored_Ox.md)
 - [布斯克](Bosk.md)
@@ -478,7 +478,7 @@
 - [蠕虫](Worm.md)
 - [扎'克鲁格](Za'krug.md)
 
-**Tiefling Refugees**
+**提夫林难民**
 
 - [阿尔菲拉](Alfira.md)
 - [阿美克](Amek.md)
@@ -527,7 +527,7 @@
 - [乌米](Umi.md)
 - [扎基](Zaki.md)
 
-**Children**
+**儿童**
 
 - [阿拉贝尔](Arabella.md)
 - [多尼](Doni.md)
@@ -539,7 +539,7 @@
 - [乌米](Umi.md)
 - [扎基](Zaki.md)
 
-**Children**
+**儿童**
 
 - [阿拉贝尔](Arabella.md)
 - [多尼](Doni.md)
@@ -560,12 +560,12 @@
 - [摩尔](Mol.md)
 - [瓦罗](Volo.md)
 
-**Other**
+**其他**
 
 - [熊地精刺客](Bugbear_Assassin.md)
 - [古怪公牛](Strange_Ox.md)
 
-**Locations**
+**地点**
 
 - [内殿](Inner_Sanctum.md)
 - [圣池](Sacred_Pool.md)
@@ -598,7 +598,7 @@
 **角色**
 
 - [冒险者](Aradin_Beno.md)
-- [阿拉丁·贝诺](Aradin_Beno.md)
+- [艾拉丁·贝诺](Aradin_Beno.md)
 - [巴斯](Barth.md)
 - [蕾米拉](Remira.md)
 - [营地随从](Camp_Followers.md)
@@ -637,27 +637,27 @@
 
 **冒险者**
 
-- [阿拉丁·贝诺](Aradin_Beno.md)
+- [艾拉丁·贝诺](Aradin_Beno.md)
 - [巴斯](Barth.md)
 - [蕾米拉](Remira.md)
 
-**Camp Followers**
+**营地随从**
 
 - [枭熊幼兽](Owlbear_Cub.md)
 - [挠挠](Scratch.md)
 
-**Cultists of the Absolute**
+**至上真神信徒**
 
 - [安德里克](Andrick.md)
 - [布拉娜](Brynna.md)
 - [艾督因](Edowin.md)
 
-**Beasts**
+**野兽**
 
 - [枭熊](Owlbear.md)
 - [枭熊配偶](Owlbear_Mate.md)
 
-**Bugbears and Goblins**
+**熊地精与地精**
 
 - [布雷克](Brek.md)
 - [费泽克](Fezzerk.md)
@@ -665,21 +665,21 @@
 - [骨瘦如柴的熊地精](Scrawny_Bugbear.md)
 - [切片](Slice.md)
 
-**Ettercaps and Spiders**
+**伊特怪与蜘蛛**
 
 - [伊特怪](Ettercap.md)
 - [相位蜘蛛](Phase_Spider.md)
 - [相位幼蛛](Phase_Spiderling.md)
 - [相位蜘蛛女王](Phase_Spider_Matriarch.md)
 
-**Ogres**
+**食人魔**
 
 - [布锡尔](Buthir.md)
 - [契克](Chock.md)
 - [范克](Fank.md)
 - [朗普](Lump.md)
 
-**Other**
+**其他**
 
 - [巴克斯·鲁特](Barcus_Wroot.md)
 - [死去的提夫林](Dead_Tiefling.md)
@@ -689,27 +689,27 @@
 
 **冒险者**
 
-- [阿拉丁·贝诺](Aradin_Beno.md)
+- [艾拉丁·贝诺](Aradin_Beno.md)
 - [巴斯](Barth.md)
 - [蕾米拉](Remira.md)
 
-**Camp Followers**
+**营地随从**
 
 - [枭熊幼兽](Owlbear_Cub.md)
 - [挠挠](Scratch.md)
 
-**Cultists of the Absolute**
+**至上真神信徒**
 
 - [安德里克](Andrick.md)
 - [布拉娜](Brynna.md)
 - [艾督因](Edowin.md)
 
-**Beasts**
+**野兽**
 
 - [枭熊](Owlbear.md)
 - [枭熊配偶](Owlbear_Mate.md)
 
-**Bugbears and Goblins**
+**熊地精与地精**
 
 - [布雷克](Brek.md)
 - [费泽克](Fezzerk.md)
@@ -717,21 +717,21 @@
 - [骨瘦如柴的熊地精](Scrawny_Bugbear.md)
 - [切片](Slice.md)
 
-**Ettercaps and Spiders**
+**伊特怪与蜘蛛**
 
 - [伊特怪](Ettercap.md)
 - [相位蜘蛛](Phase_Spider.md)
 - [相位幼蛛](Phase_Spiderling.md)
 - [相位蜘蛛女王](Phase_Spider_Matriarch.md)
 
-**Ogres**
+**食人魔**
 
 - [布锡尔](Buthir.md)
 - [契克](Chock.md)
 - [范克](Fank.md)
 - [朗普](Lump.md)
 
-**Other**
+**其他**
 
 - [巴克斯·鲁特](Barcus_Wroot.md)
 - [死去的提夫林](Dead_Tiefling.md)
@@ -739,7 +739,7 @@
 - [装饰镜](Ornate_Mirror.md)
 - [铲子](Shovel_(Familiar).md)
 
-**Locations**
+**地点**
 
 - [药剂师地窖](Apothecary's_Cellar.md)
 - [染疫村落](Blighted_Village.md)
@@ -867,13 +867,13 @@
 - [泰格林](Taeglyn.md)
 - [耶尔勒](Yerle.md)
 
-**Bugbears**
+**熊地精**
 
 - [宝可纳克](Bao'ek'nuk.md)
 - [斯蒂米克](Stimk.md)
 - [泰格罕](Teghun.md)
 
-**Camp Followers**
+**营地随从**
 
 - [枭熊幼兽](Owlbear_Cub.md)
 - [瓦罗](Volo.md)
@@ -955,7 +955,7 @@
 - [一](One.md)
 - [三](Three.md)
 
-**Children**
+**儿童**
 
 - [八](Eight.md)
 - [五](Five.md)
@@ -963,13 +963,13 @@
 - [一](One.md)
 - [三](Three.md)
 
-**Goblin Leaders**
+**地精头目**
 
 - [德罗尔·拉格兹林](Dror_Ragzlin.md)
 - [迦特](Gut.md)
 - [明萨拉](Minthara.md)
 
-**Ogres**
+**食人魔**
 
 - [格根](Gurgon.md)
 - [波尔玛](Polma.md)
@@ -979,7 +979,7 @@
 - [格拉特](Grat.md)
 - [罗阿·月光](Roah_Moonglow.md)
 
-**Other**
+**其他**
 
 - [阿布狄拉克](Abdirak.md)
 - [安德里克](Andrick.md)
@@ -997,13 +997,13 @@
 - [泰格林](Taeglyn.md)
 - [耶尔勒](Yerle.md)
 
-**Bugbears**
+**熊地精**
 
 - [宝可纳克](Bao'ek'nuk.md)
 - [斯蒂米克](Stimk.md)
 - [泰格罕](Teghun.md)
 
-**Camp Followers**
+**营地随从**
 
 - [枭熊幼兽](Owlbear_Cub.md)
 - [瓦罗](Volo.md)
@@ -1085,7 +1085,7 @@
 - [一](One.md)
 - [三](Three.md)
 
-**Children**
+**儿童**
 
 - [八](Eight.md)
 - [五](Five.md)
@@ -1093,7 +1093,7 @@
 - [一](One.md)
 - [三](Three.md)
 
-**Children**
+**儿童**
 
 - [八](Eight.md)
 - [五](Five.md)
@@ -1101,13 +1101,13 @@
 - [一](One.md)
 - [三](Three.md)
 
-**Goblin Leaders**
+**地精头目**
 
 - [德罗尔·拉格兹林](Dror_Ragzlin.md)
 - [迦特](Gut.md)
 - [明萨拉](Minthara.md)
 
-**Ogres**
+**食人魔**
 
 - [格根](Gurgon.md)
 - [波尔玛](Polma.md)
@@ -1117,7 +1117,7 @@
 - [格拉特](Grat.md)
 - [罗阿·月光](Roah_Moonglow.md)
 
-**Other**
+**其他**
 
 - [阿布狄拉克](Abdirak.md)
 - [安德里克](Andrick.md)
@@ -1135,7 +1135,7 @@
 - [泰格林](Taeglyn.md)
 - [耶尔勒](Yerle.md)
 
-**Locations**
+**地点**
 
 - [血污圣祠](Bloodied_Shrine.md)
 - [被亵渎的神殿](Defiled_Temple.md)
@@ -1186,7 +1186,7 @@
 - [夺心魔](Mind_flayer_(nautiloid_wreck).md)
 - [受惊的野猪](Scared_Boar.md)
 
-**Bandits**
+**强盗**
 
 - [安东](Andorn.md)
 - [巴顿](Barton.md)
@@ -1199,18 +1199,18 @@
 - [托尔伽](Torgga.md)
 - [华林](Warryn.md)
 
-**Corpses**
+**尸体**
 
 - [艾莉](Ellie.md)
 - [弗朗西斯](Francis.md)
 - [马库斯（死去的渔夫）](Marcus_(dead_fisher).md)
 
-**Tiefling Refugees**
+**提夫林难民**
 
 - [达梅斯](Damays.md)
 - [奈美莎](Nymessa.md)
 
-**Camp Followers**
+**营地随从**
 
 - [守墓人](Withers.md)
 
@@ -1221,12 +1221,12 @@
 - [莱埃泽尔](Lae'zel.md)
 - [影心](Shadowheart.md)
 
-**Other**
+**其他**
 
 - [夺心魔](Mind_flayer_(nautiloid_wreck).md)
 - [受惊的野猪](Scared_Boar.md)
 
-**Bandits**
+**强盗**
 
 - [安东](Andorn.md)
 - [巴顿](Barton.md)
@@ -1239,18 +1239,18 @@
 - [托尔伽](Torgga.md)
 - [华林](Warryn.md)
 
-**Corpses**
+**尸体**
 
 - [艾莉](Ellie.md)
 - [弗朗西斯](Francis.md)
 - [马库斯（死去的渔夫）](Marcus_(dead_fisher).md)
 
-**Tiefling Refugees**
+**提夫林难民**
 
 - [达梅斯](Damays.md)
 - [奈美莎](Nymessa.md)
 
-**Camp Followers**
+**营地随从**
 
 - [守墓人](Withers.md)
 
@@ -1261,12 +1261,12 @@
 - [莱埃泽尔](Lae'zel.md)
 - [影心](Shadowheart.md)
 
-**Other**
+**其他**
 
 - [夺心魔](Mind_flayer_(nautiloid_wreck).md)
 - [受惊的野猪](Scared_Boar.md)
 
-**Locations**
+**地点**
 
 - [礼拜堂入口](Chapel_Entrance.md)
 - [蔓生废墟](Overgrown_Ruins.md)
@@ -1309,7 +1309,7 @@
 - [菘蓝树人](Wood_Woad.md)
 - [泥魔蝠幼崽](Young_Mud_Mephit.md)
 
-**Hag Victims**
+**鬼婆受害者**
 
 - [失明的精灵](Blinded_Elf.md)
 - [康纳·维德巴德](Connor_Vinderblad.md)
@@ -1340,7 +1340,7 @@
 
 - [埃赛尔婶婶](Auntie_Ethel.md)
 
-**Other**
+**其他**
 
 - [混乱青蛙](Addled_Frog.md)
 - [远古泥魔蝠](Ancient_Mud_Mephit.md)
@@ -1351,7 +1351,7 @@
 - [菘蓝树人](Wood_Woad.md)
 - [泥魔蝠幼崽](Young_Mud_Mephit.md)
 
-**Hag Victims**
+**鬼婆受害者**
 
 - [失明的精灵](Blinded_Elf.md)
 - [康纳·维德巴德](Connor_Vinderblad.md)
@@ -1394,7 +1394,7 @@
 
 - [埃赛尔婶婶](Auntie_Ethel.md)
 
-**Other**
+**其他**
 
 - [混乱青蛙](Addled_Frog.md)
 - [远古泥魔蝠](Ancient_Mud_Mephit.md)
@@ -1405,7 +1405,7 @@
 - [菘蓝树人](Wood_Woad.md)
 - [泥魔蝠幼崽](Young_Mud_Mephit.md)
 
-**Locations**
+**地点**
 
 - [破败的庇护所](Decrepit_Sanctuary.md)
 - [德鲁伊庇护所](Druid_Sanctuary.md)
@@ -1492,7 +1492,7 @@
 
 - [卡菈克](Karlach.md)
 
-**Flaming Fists**
+**焰拳**
 
 - [艾丽丝（焰拳新兵）](Aelis_(Fist_Recruit).md)
 - [布莱恩](Bryanne.md)
@@ -1528,7 +1528,7 @@
 - [布雷姆](Brem.md)
 - [赛丽尔](Cyrel.md)
 
-**詹塔林会**
+**散塔林会**
 
 - [阿姆诺斯](Amnos.md)
 - [贝拉尔](Bellar.md)
@@ -1544,7 +1544,7 @@
 - [瓦尔](Vol.md)
 - [扎瑞斯](Zarys.md)
 
-**Other**
+**其他**
 
 - [本里恩](Benryn.md)
 - [艾丽卡](Ellyka.md)
@@ -1555,7 +1555,7 @@
 - [万斯 (死去的收费员)](Vance.md)
 - [尤尔](Yul.md)
 
-**Animals and Creatures**
+**动物与生物**
 
 - [臃肿的鬣狗](Bloated_Hyena.md)
 - [弗林德](Flind.md)
@@ -1572,7 +1572,7 @@
 
 - [卡菈克](Karlach.md)
 
-**Flaming Fists**
+**焰拳**
 
 - [艾丽丝（焰拳新兵）](Aelis_(Fist_Recruit).md)
 - [布莱恩](Bryanne.md)
@@ -1608,7 +1608,7 @@
 - [布雷姆](Brem.md)
 - [赛丽尔](Cyrel.md)
 
-**詹塔林会**
+**散塔林会**
 
 - [阿姆诺斯](Amnos.md)
 - [贝拉尔](Bellar.md)
@@ -1624,7 +1624,7 @@
 - [瓦尔](Vol.md)
 - [扎瑞斯](Zarys.md)
 
-**Other**
+**其他**
 
 - [本里恩](Benryn.md)
 - [艾丽卡](Ellyka.md)
@@ -1635,7 +1635,7 @@
 - [万斯 (死去的收费员)](Vance.md)
 - [尤尔](Yul.md)
 
-**Animals and Creatures**
+**动物与生物**
 
 - [臃肿的鬣狗](Bloated_Hyena.md)
 - [弗林德](Flind.md)
@@ -1648,7 +1648,7 @@
 - [艾斯托尔](Istor.md)
 - [奎德诺斯](Qudenos.md)
 
-**Locations**
+**地点**
 
 - [山隘](Mountain_Pass.md)
 - [渥金的休眠地](Waukeen's_Rest.md)
@@ -1737,7 +1737,7 @@
 - [武僧灵体](Monk's_Manifestation.md)
 - [土黄果冻怪](Ochre_Jelly.md)
 
-**Clan Flameshade**
+**焰影氏族**
 
 - [布利斯瓦尔](Brithvar.md)
 - [丹娜](Danna.md)
@@ -1755,7 +1755,7 @@
 - [斯卡贾尔](Skarjall.md)
 - [萨德](Thudd.md)
 
-**Cult of the Absolute**
+**至上真神教**
 
 - [阿格拉姆](Argram.md)
 - [波纳](Bonna.md)
@@ -1774,7 +1774,7 @@
 - [尼讷](Nere.md)
 - [维斯](Viss.md)
 
-**Ironhand Gnomes**
+**铁手侏儒**
 
 - [巴克斯·鲁特](Barcus_Wroot.md)
 - [贝德龙](Beldron.md)
@@ -1786,7 +1786,7 @@
 - [威尔索](Welso.md)
 - [维奇](Wicky.md)
 
-**Spiders**
+**蜘蛛**
 
 - [路尔·弗](Lur_Fu.md)
 - [路尔·乔科斯](Lur_Jox.md)
@@ -1798,7 +1798,7 @@
 - [格雷蒙](Greymon.md)
 - [基思](Kith.md)
 
-**Other**
+**其他**
 
 - [活化护甲](Animated_Armour.md)
 - [地底洛斯兽](Deep_Rothé.md)
@@ -1813,7 +1813,7 @@
 - [武僧灵体](Monk's_Manifestation.md)
 - [土黄果冻怪](Ochre_Jelly.md)
 
-**Clan Flameshade**
+**焰影氏族**
 
 - [布利斯瓦尔](Brithvar.md)
 - [丹娜](Danna.md)
@@ -1831,7 +1831,7 @@
 - [斯卡贾尔](Skarjall.md)
 - [萨德](Thudd.md)
 
-**Cult of the Absolute**
+**至上真神教**
 
 - [阿格拉姆](Argram.md)
 - [波纳](Bonna.md)
@@ -1850,7 +1850,7 @@
 - [尼讷](Nere.md)
 - [维斯](Viss.md)
 
-**Ironhand Gnomes**
+**铁手侏儒**
 
 - [巴克斯·鲁特](Barcus_Wroot.md)
 - [贝德龙](Beldron.md)
@@ -1862,7 +1862,7 @@
 - [威尔索](Welso.md)
 - [维奇](Wicky.md)
 
-**Spiders**
+**蜘蛛**
 
 - [路尔·弗](Lur_Fu.md)
 - [路尔·乔科斯](Lur_Jox.md)
@@ -1874,7 +1874,7 @@
 - [格雷蒙](Greymon.md)
 - [基思](Kith.md)
 
-**Other**
+**其他**
 
 - [活化护甲](Animated_Armour.md)
 - [地底洛斯兽](Deep_Rothé.md)
@@ -1889,7 +1889,7 @@
 - [武僧灵体](Monk's_Manifestation.md)
 - [土黄果冻怪](Ochre_Jelly.md)
 
-**Locations**
+**地点**
 
 - [被弃避难所](Abandoned_Refuge.md)
 - [精金熔炉](Adamantine_Forge_(location).md)
@@ -1962,7 +1962,7 @@
 - [伯纳德](Bernard.md)
 - [死去的卓尔](Dead_Drow.md)
 
-**Attached Followers**
+**伙伴**
 
 - [格拉特](Glut.md)
 
@@ -2001,14 +2001,14 @@
 - [图拉](Thulla.md)
 - [夏格林](Xargrim.md)
 
-**Festering Cove**
+**溃烂洞穴**
 
 - [波尔](BOOOAL.md)
 - [寇涛鱼人 (生物)](Kuo-toa_(creature).md)
 - [猎人鱼人](Kuo-toa_Hunter.md)
 - [普德利普](Pooldripp.md)
 
-**Petrified Drow**
+**石化卓尔**
 
 - [阿尔卡](Arcagh.md)
 - [阿提魅兹](Artimezt.md)
@@ -2017,7 +2017,7 @@
 - [摩伊](Moy.md)
 - [塔科希](Tecothy.md)
 
-**Plants**
+**植物**
 
 - [桶菇](Barrelstalk.md)
 - [噼啪砰](Bibberbang.md)
@@ -2031,13 +2031,13 @@
 - [德里丝·骨篷](Derryth_Bonecloak.md)
 - [奥米伦](Omeluum.md)
 
-**Other**
+**其他**
 
 - [活化护甲](Animated_Armour.md)
 - [伯纳德](Bernard.md)
 - [死去的卓尔](Dead_Drow.md)
 
-**Attached Followers**
+**伙伴**
 
 - [格拉特](Glut.md)
 
@@ -2076,14 +2076,14 @@
 - [图拉](Thulla.md)
 - [夏格林](Xargrim.md)
 
-**Festering Cove**
+**溃烂洞穴**
 
 - [波尔](BOOOAL.md)
 - [寇涛鱼人 (生物)](Kuo-toa_(creature).md)
 - [猎人鱼人](Kuo-toa_Hunter.md)
 - [普德利普](Pooldripp.md)
 
-**Petrified Drow**
+**石化卓尔**
 
 - [阿尔卡](Arcagh.md)
 - [阿提魅兹](Artimezt.md)
@@ -2092,7 +2092,7 @@
 - [摩伊](Moy.md)
 - [塔科希](Tecothy.md)
 
-**Plants**
+**植物**
 
 - [桶菇](Barrelstalk.md)
 - [噼啪砰](Bibberbang.md)
@@ -2106,13 +2106,13 @@
 - [德里丝·骨篷](Derryth_Bonecloak.md)
 - [奥米伦](Omeluum.md)
 
-**Other**
+**其他**
 
 - [活化护甲](Animated_Armour.md)
 - [伯纳德](Bernard.md)
 - [死去的卓尔](Dead_Drow.md)
 
-**Locations**
+**地点**
 
 - [奥法高塔](Arcane_Tower.md)
 - [破败村落](Decrepit_Village.md)
@@ -2206,7 +2206,7 @@
 - [瓦尔'戈兹](W'wargaz.md)
 - [泽维尔](Xavier.md)
 
-**Ardents**
+**热忱者**
 
 - [格努里尔](G'nuril.md)
 - [吉'瑞萨斯](Jhe'rezath.md)
@@ -2221,7 +2221,7 @@
 - [乌姆拉克](Umr'a'ac.md)
 - [伊尔鲁](Yy'rul.md)
 
-**Warriors**
+**战士**
 
 - [布雷拉尔雷斯](Brelal'reth.md)
 - [丘古斯](Ch'guth.md)
@@ -2231,7 +2231,7 @@
 - [克萨纳拉斯](Xon'ar'as.md)
 - [伊尔克](Yr'rk.md)
 
-**Raiders**
+**掠夺者**
 
 - [阿达斯](Add'ath.md)
 - [阿胡拉格](Ahu'u'rag.md)
@@ -2244,7 +2244,7 @@
 - [乌恩](Un'n.md)
 - [扎拉恩](Zar'an.md)
 
-**Youth**
+**青少年**
 
 - [阿斯泰尔](Astyl.md)
 - [巴阿克雷斯](Ba'akreth.md)
@@ -2258,7 +2258,7 @@
 - [维斯基尔](Vis'kiir.md)
 - [扎拉阿斯](Zar'a'ath.md)
 
-**Children**
+**儿童**
 
 - [加纳'安](Gha'an.md)
 - [杰鲁斯](Jheruth.md)
@@ -2272,7 +2272,7 @@
 - [埃斯特](Esther.md)
 - [吉拉](Jeera.md)
 
-**Other**
+**其他**
 
 - [远古巨鹰](Ancient_Giant_Eagle.md)
 - [冠蓝鸦](Blue_Jay.md)
@@ -2289,7 +2289,7 @@
 - [瓦尔'戈兹](W'wargaz.md)
 - [泽维尔](Xavier.md)
 
-**Ardents**
+**热忱者**
 
 - [格努里尔](G'nuril.md)
 - [吉'瑞萨斯](Jhe'rezath.md)
@@ -2304,7 +2304,7 @@
 - [乌姆拉克](Umr'a'ac.md)
 - [伊尔鲁](Yy'rul.md)
 
-**Warriors**
+**战士**
 
 - [布雷拉尔雷斯](Brelal'reth.md)
 - [丘古斯](Ch'guth.md)
@@ -2314,7 +2314,7 @@
 - [克萨纳拉斯](Xon'ar'as.md)
 - [伊尔克](Yr'rk.md)
 
-**Raiders**
+**掠夺者**
 
 - [阿达斯](Add'ath.md)
 - [阿胡拉格](Ahu'u'rag.md)
@@ -2327,7 +2327,7 @@
 - [乌恩](Un'n.md)
 - [扎拉恩](Zar'an.md)
 
-**Youth**
+**青少年**
 
 - [阿斯泰尔](Astyl.md)
 - [巴阿克雷斯](Ba'akreth.md)
@@ -2341,7 +2341,7 @@
 - [维斯基尔](Vis'kiir.md)
 - [扎拉阿斯](Zar'a'ath.md)
 
-**Children**
+**儿童**
 
 - [加纳'安](Gha'an.md)
 - [杰鲁斯](Jheruth.md)
@@ -2355,7 +2355,7 @@
 - [埃斯特](Esther.md)
 - [吉拉](Jeera.md)
 
-**Other**
+**其他**
 
 - [远古巨鹰](Ancient_Giant_Eagle.md)
 - [冠蓝鸦](Blue_Jay.md)
@@ -2372,7 +2372,7 @@
 - [瓦尔'戈兹](W'wargaz.md)
 - [泽维尔](Xavier.md)
 
-**Locations**
+**地点**
 
 - [伊雷珂养育间](Crèche_Y'llek.md)
 - [瑰晨修道院](Rosymorn_Monastery.md)
@@ -2402,7 +2402,7 @@
 - [内萨](Nessa.md)
 - [尤格](Yurgir.md)
 
-**Locations**
+**地点**
 
 - [信仰之跃试炼](Faith-Leap_Trial.md)
 - [同我试炼](Self-Same_Trial.md)
@@ -2443,7 +2443,7 @@
 - [僵尸明萨拉](Zombie_Minthara.md)
 - [僵尸乌尔布伦](Zombie_Wulbren.md)
 
-**Locations**
+**地点**
 
 - [黯蚀实验室](Necrotic_Laboratory.md)
 - [夺心魔蝌蚪植入中心](Tadpoling_Centre.md)
@@ -2547,7 +2547,7 @@
 - [耶尔勒](Yerle.md)
 - [钢爪](Steelclaw.md)
 
-**Cultists of theAbsolute**
+**至上真神信徒**
 
 - [至上真神侍僧](Acolyte_of_the_Absolute.md)
 - [贝卢布](Belub.md)
@@ -2616,14 +2616,14 @@
 - [典狱长](The_Warden.md)
 - [泽'瑞尔](Z'rell.md)
 
-**Acolytes**
+**侍僧**
 
 - [贝卢布](Belub.md)
 - [戴恩](Daine.md)
 - [金梅拉尔](Kimmeral.md)
 - [马尔斯](Marls.md)
 
-**Adepts**
+**贤者**
 
 - [贝尔](Bel.md)
 - [多里克尔](Dorikel.md)
@@ -2634,7 +2634,7 @@
 - [摩拉](Mola.md)
 - [诺拉](Nola.md)
 
-**Gnolls**
+**豺狼人**
 
 - ['巴那布斯']('Barnabus'.md)
 - ['提摩西']('Timothy'.md)
@@ -2652,7 +2652,7 @@
 - [温内格](Weneg.md)
 - [威姆 (Wim)](Wim.md)
 
-**Myrkulites**
+**米尔寇教徒**
 
 - [达基·维利什](Duckie_Verish.md)
 - [拉迪娅](Radija.md)
@@ -2660,7 +2660,7 @@
 - [萨斯德拉](Susdera.md)
 - [威林克斯·金德比](Willinx_Jindlebee.md)
 
-**Pilgrims**
+**朝圣者**
 
 - [法里莫恩](Farimorn.md)
 - [伊昂](Iong.md)
@@ -2668,12 +2668,12 @@
 - [苏尔（朝圣者）](Sul_(pilgrim).md)
 - [泰玛](Taima.md)
 
-**Questioners**
+**质问者**
 
 - [贾辛](Jasin.md)
 - [苏梅拉](Sumera.md)
 
-**Zealots**
+**狂热信徒**
 
 - [阿登](Arden.md)
 - [本内尔](Bennel.md)
@@ -2691,7 +2691,7 @@
 - [索雷尼](Soreni.md)
 - [齐拉](Zira.md)
 
-**Other**
+**其他**
 
 - [格洛瑞克](Glourik.md)
 - [凯瑟里克·索姆](Ketheric_Thorm.md)
@@ -2705,7 +2705,7 @@
 
 - [明萨拉](Minthara.md)
 
-**Prisoners**
+**囚犯**
 
 - [卡尔](Cal.md)
 - [丹尼斯](Danis.md)
@@ -2721,17 +2721,17 @@
 - [罗阿·月光](Roah_Moonglow.md)
 - [兰恩·塔夫](Lann_Tarv.md)
 
-**詹塔林会**
+**散塔林会**
 
 - [厄娜](Erna.md)
 - [罗阿·月光](Roah_Moonglow.md)
 - [耶尔勒](Yerle.md)
 
-**Other**
+**其他**
 
 - [钢爪](Steelclaw.md)
 
-**Cultists of theAbsolute**
+**至上真神信徒**
 
 - [至上真神侍僧](Acolyte_of_the_Absolute.md)
 - [贝卢布](Belub.md)
@@ -2800,14 +2800,14 @@
 - [典狱长](The_Warden.md)
 - [泽'瑞尔](Z'rell.md)
 
-**Acolytes**
+**侍僧**
 
 - [贝卢布](Belub.md)
 - [戴恩](Daine.md)
 - [金梅拉尔](Kimmeral.md)
 - [马尔斯](Marls.md)
 
-**Adepts**
+**贤者**
 
 - [贝尔](Bel.md)
 - [多里克尔](Dorikel.md)
@@ -2818,7 +2818,7 @@
 - [摩拉](Mola.md)
 - [诺拉](Nola.md)
 
-**Gnolls**
+**豺狼人**
 
 - ['巴那布斯']('Barnabus'.md)
 - ['提摩西']('Timothy'.md)
@@ -2836,7 +2836,7 @@
 - [温内格](Weneg.md)
 - [威姆 (Wim)](Wim.md)
 
-**Myrkulites**
+**米尔寇教徒**
 
 - [达基·维利什](Duckie_Verish.md)
 - [拉迪娅](Radija.md)
@@ -2844,7 +2844,7 @@
 - [萨斯德拉](Susdera.md)
 - [威林克斯·金德比](Willinx_Jindlebee.md)
 
-**Pilgrims**
+**朝圣者**
 
 - [法里莫恩](Farimorn.md)
 - [伊昂](Iong.md)
@@ -2852,12 +2852,12 @@
 - [苏尔（朝圣者）](Sul_(pilgrim).md)
 - [泰玛](Taima.md)
 
-**Questioners**
+**质问者**
 
 - [贾辛](Jasin.md)
 - [苏梅拉](Sumera.md)
 
-**Zealots**
+**狂热信徒**
 
 - [阿登](Arden.md)
 - [本内尔](Bennel.md)
@@ -2875,7 +2875,7 @@
 - [索雷尼](Soreni.md)
 - [齐拉](Zira.md)
 
-**Other**
+**其他**
 
 - [格洛瑞克](Glourik.md)
 - [凯瑟里克·索姆](Ketheric_Thorm.md)
@@ -2885,14 +2885,14 @@
 - [典狱长](The_Warden.md)
 - [泽'瑞尔](Z'rell.md)
 
-**Acolytes**
+**侍僧**
 
 - [贝卢布](Belub.md)
 - [戴恩](Daine.md)
 - [金梅拉尔](Kimmeral.md)
 - [马尔斯](Marls.md)
 
-**Adepts**
+**贤者**
 
 - [贝尔](Bel.md)
 - [多里克尔](Dorikel.md)
@@ -2903,7 +2903,7 @@
 - [摩拉](Mola.md)
 - [诺拉](Nola.md)
 
-**Gnolls**
+**豺狼人**
 
 - ['巴那布斯']('Barnabus'.md)
 - ['提摩西']('Timothy'.md)
@@ -2921,7 +2921,7 @@
 - [温内格](Weneg.md)
 - [威姆 (Wim)](Wim.md)
 
-**Myrkulites**
+**米尔寇教徒**
 
 - [达基·维利什](Duckie_Verish.md)
 - [拉迪娅](Radija.md)
@@ -2929,7 +2929,7 @@
 - [萨斯德拉](Susdera.md)
 - [威林克斯·金德比](Willinx_Jindlebee.md)
 
-**Pilgrims**
+**朝圣者**
 
 - [法里莫恩](Farimorn.md)
 - [伊昂](Iong.md)
@@ -2937,12 +2937,12 @@
 - [苏尔（朝圣者）](Sul_(pilgrim).md)
 - [泰玛](Taima.md)
 
-**Questioners**
+**质问者**
 
 - [贾辛](Jasin.md)
 - [苏梅拉](Sumera.md)
 
-**Zealots**
+**狂热信徒**
 
 - [阿登](Arden.md)
 - [本内尔](Bennel.md)
@@ -2960,7 +2960,7 @@
 - [索雷尼](Soreni.md)
 - [齐拉](Zira.md)
 
-**Other**
+**其他**
 
 - [格洛瑞克](Glourik.md)
 - [凯瑟里克·索姆](Ketheric_Thorm.md)
@@ -2974,7 +2974,7 @@
 
 - [明萨拉](Minthara.md)
 
-**Prisoners**
+**囚犯**
 
 - [卡尔](Cal.md)
 - [丹尼斯](Danis.md)
@@ -2990,17 +2990,17 @@
 - [罗阿·月光](Roah_Moonglow.md)
 - [兰恩·塔夫](Lann_Tarv.md)
 
-**詹塔林会**
+**散塔林会**
 
 - [厄娜](Erna.md)
 - [罗阿·月光](Roah_Moonglow.md)
 - [耶尔勒](Yerle.md)
 
-**Other**
+**其他**
 
 - [钢爪](Steelclaw.md)
 
-**Locations**
+**地点**
 
 - [地下密牢](Oubliette.md)
 - [月出之塔监狱](Moonrise_Towers_Prison.md)
@@ -3131,7 +3131,7 @@
 - [瘟疫吟游诗人](Blighted_Troubador.md)
 - [西索博得·索姆](Thisobald_Thorm.md)
 
-**Other**
+**其他**
 
 - [阿拉贝尔](Arabella.md)
 - [被诅咒的寇涛鱼人 (近战)](Cursed_Kuo-Toa_(melee).md)
@@ -3196,7 +3196,7 @@
 - [瘟疫吟游诗人](Blighted_Troubador.md)
 - [西索博得·索姆](Thisobald_Thorm.md)
 
-**Other**
+**其他**
 
 - [阿拉贝尔](Arabella.md)
 - [被诅咒的寇涛鱼人 (近战)](Cursed_Kuo-Toa_(melee).md)
@@ -3206,7 +3206,7 @@
 - [拉斐尔](Raphael.md)
 - [影子](Shadow.md)
 
-**Locations**
+**地点**
 
 - [治疗中心](House_of_Healing.md)
 - [停尸房](House_of_Healing_Morgue.md)
@@ -3291,7 +3291,7 @@
 - [赞德拉·曼勒](Zindra_Manne.md)
 - [苏洛](Zorru.md)
 
-**Citizens**
+**市民**
 
 - [阿尔弗·格雷戈里奥](Arfur_Gregorio.md)
 - [巴尔戈尔](Balgor.md)
@@ -3321,7 +3321,7 @@
 - [斯巴格·奥维丽斯](Spargo_Ovilliers.md)
 - [西尔维·萨莫沃斯](Sylvie_Summerworth.md)
 
-**Doppelgangers**
+**变形怪**
 
 - [法姆](Fumm.md)
 - [克伦](Keren.md)
@@ -3330,7 +3330,7 @@
 - [瑞兰德](Ryland.md)
 - [佐姆](Zomm.md)
 
-**Circus of the Last Days**
+**末日马戏团**
 
 - [阿卡比](Akabi.md)
 - [班吉](Benji.md)
@@ -3367,7 +3367,7 @@
 - [塞拉利亚·德弗斯](Seralia_Devers.md)
 - [喷嚏精菲布斯](Sneezer_Phibbs.md)
 
-**Staff/Performers**
+**工作人员/演员**
 
 - [阿卡比](Akabi.md)
 - [班吉](Benji.md)
@@ -3393,7 +3393,7 @@
 - [维克斯](Vix.md)
 - [泽希诺](Zethino.md)
 
-**Patrons**
+**赞助者**
 
 - [阿索姆](Asumi.md)
 - [贝卡](Becca.md)
@@ -3407,7 +3407,7 @@
 - [塞拉利亚·德弗斯](Seralia_Devers.md)
 - [喷嚏精菲布斯](Sneezer_Phibbs.md)
 
-**Staff/Performers**
+**工作人员/演员**
 
 - [阿卡比](Akabi.md)
 - [班吉](Benji.md)
@@ -3433,7 +3433,7 @@
 - [维克斯](Vix.md)
 - [泽希诺](Zethino.md)
 
-**Patrons**
+**赞助者**
 
 - [阿索姆](Asumi.md)
 - [贝卡](Becca.md)
@@ -3447,7 +3447,7 @@
 - [塞拉利亚·德弗斯](Seralia_Devers.md)
 - [喷嚏精菲布斯](Sneezer_Phibbs.md)
 
-**Flaming Fists**
+**焰拳**
 
 - [阿扎里](Azari.md)
 - [布罗德霍恩](Broadhorn.md)
@@ -3475,7 +3475,7 @@
 - [韦恩](Wayne.md)
 - [韦尔尼](Wearne.md)
 
-**Gur**
+**古尔**
 
 - [卡西沃拉·多菲尔](Cassivora_Dophir.md)
 - [多米尼克·阿塞茨](Dominica_Arsetz.md)
@@ -3486,7 +3486,7 @@
 - [普姆勒·格雷吉特](Pumler_Grejit.md)
 - [乌玛](Ulma.md)
 
-**Ironhand Gnomes**
+**铁手侏儒**
 
 - [巴克斯·鲁特](Barcus_Wroot.md)
 - [杜尔博斯·弗林特](Dulbers_Frint.md)
@@ -3521,7 +3521,7 @@
 - [杰弗斯·莫斯顿](Jeffers_Morston.md)
 - [马赫亚](Mar'hyah.md)
 
-**Stone Lord Envoys**
+**石领主使**
 
 - [卡利欧斯](Caïros.md)
 - [濒死的石头领主暴徒](Dying_Stone_Lord_Thug.md)
@@ -3530,7 +3530,7 @@
 - [迟钝的斯昆彻](Blunt_Skuncher.md)
 - [希夫·达利亚](Shiv_Dahlia.md)
 
-**The Guild**
+**公会**
 
 - [西滩](Western_Beach.md)
 - [弓箭手维利西亚](Archer_Velicia.md)
@@ -3542,28 +3542,28 @@
 - [斯卡珀斯](Scarpers.md)
 - [泽诺维娅·道格](Zenovia_Dawg.md)
 
-**Western Beach**
+**西滩**
 
 - [弓箭手维利西亚](Archer_Velicia.md)
 - [巴格·布拉基恩](Bug_Bludgeon.md)
 - [法尔林](Farlin.md)
 - [迷人的莱瑟姆](Charming_Latham.md)
 
-**Rivington Rats**
+**利文顿鼠帮**
 
 - [溯源者迪普斯](Dimples_Backster.md)
 - [欢乐的克朗](Gleeful_Clong.md)
 - [斯卡珀斯](Scarpers.md)
 - [泽诺维娅·道格](Zenovia_Dawg.md)
 
-**Western Beach**
+**西滩**
 
 - [弓箭手维利西亚](Archer_Velicia.md)
 - [巴格·布拉基恩](Bug_Bludgeon.md)
 - [法尔林](Farlin.md)
 - [迷人的莱瑟姆](Charming_Latham.md)
 
-**Rivington Rats**
+**利文顿鼠帮**
 
 - [溯源者迪普斯](Dimples_Backster.md)
 - [欢乐的克朗](Gleeful_Clong.md)
@@ -3581,7 +3581,7 @@
 - [波珀](Popper.md)
 - [扎拉](Zara.md)
 
-**Other**
+**其他**
 
 - [夺心魔（磨坊）](Mind_flayer_(windmill).md)
 - [柯里拉](Korrilla.md)
@@ -3594,7 +3594,7 @@
 - [约克斯](Yonks.md)
 - [佐格](Zog.md)
 
-**Other animals**
+**其他动物**
 
 - [饼饼](Biscotti.md)
 - [比蒂·巴迪](Bitey_Buddy.md)
@@ -3610,7 +3610,7 @@
 - [塔拉](Tara.md)
 - [佐拉](Zola.md)
 
-**Locations**
+**地点**
 
 - [遗弃磨坊](Abandoned_Windmill.md)
 - [阿尔弗的宅邸](Arfur's_Mansion.md)
@@ -3641,7 +3641,7 @@
 
 ### 博德之门
 
-**Anti-Hag Support Group**
+**反鬼婆互助小组**
 
 - [阿德里](Adrielle.md)
 - [绣球花乌](Hydrangea_Wubb.md)
@@ -3708,7 +3708,7 @@
 - [萨马特·奥克海德](Thatmatt_Oakhide.md)
 - [思拉斯特·穆瑞拉](Thrastle_Muria.md)
 
-**Bhaalist Murders**
+**巴尔谋杀案**
 
 - [科拉·海伯瑞](Cora_Highberry.md)
 - [德维拉·方坦海德](Devella_Fountainhead.md)
@@ -3750,7 +3750,7 @@
 - [维斯特拉](Vistra.md)
 - [文德尔·阿什格罗夫](Wendel_Ashgrove.md)
 
-**Church of Umberlee**
+**安博里教堂**
 
 - [阿兰德拉·格雷](Allandra_Grey.md)
 - [迪奥米拉·特雷利斯](Diomira_Trellis.md)
@@ -3765,7 +3765,7 @@
 - [埃米琳·圣叶](Emmeline_Hallowleaf.md)
 - [维康妮亚·迪佛](Viconia_DeVir.md)
 
-**Dead Eyes**
+**死眼**
 
 - [艾登·尼丘克](Aideen_Ni_Chuirc.md)
 - [耶罗·卢拉](Hiero_Lue.md)
@@ -3918,7 +3918,7 @@
 
 - [高阶的奥斯塔多](Astoundo_the_Greater.md)
 - [次级奥斯塔多](Astoundo_the_Lesser.md)
-- [阿拉丁·贝诺](Aradin_Beno.md)
+- [艾拉丁·贝诺](Aradin_Beno.md)
 - [萨'卡克](Ch'kk'ch.md)
 - [科德雷恩](Cordrane.md)
 - [德拉亚](Drarra.md)
@@ -3941,13 +3941,13 @@
 - [密斯特拉](Mystra.md)
 - [书记员鹅羽](Scribe_Goosequill.md)
 
-**Strange Beggars**
+**怪乞丐**
 
 - [腰部](Lumbar.md)
 - [莫布斯](Morbus.md)
 - [萨克拉姆](Sacrum.md)
 
-**Tiefling Refugees**
+**提夫林难民**
 
 - [阿尔菲拉](Alfira.md)
 - [拉克里萨](Lakrissa.md)
@@ -3982,7 +3982,7 @@
 - [文·多尔贡](Vin_Dorgo.md)
 - [泽娜](Zena.md)
 
-**The Guild**
+**公会**
 
 - [别叫我侏儒](Don't-Call-Me-Runt.md)
 - [盖勒姆·米兹](Galem_Meats.md)
@@ -3995,7 +3995,7 @@
 - [特斯·托瓦特](Terse_Torvalt.md)
 - [图斯格朗特](Tusgront.md)
 
-**Animals**
+**动物**
 
 - [巴希克](Barsik.md)
 - [戈迪斯](Gordis.md)
@@ -4007,7 +4007,7 @@
 - [桑梆巴](Zambomba.md)
 - [吉娜](Zina.md)
 
-**Others**
+**其他人**
 
 - [阿勒姆布罗修斯](Alembrosius.md)
 - [被诅咒的小恶魔](Cursed_Imp.md)
@@ -4066,7 +4066,7 @@
 - [斯郎博](Thrumbo.md)
 - [托尔纳书商](Tolna_Tome-Monger.md)
 
-**Locations**
+**地点**
 
 - [古代陵墓](Ancient_Mausoleum.md)
 - [博德之口](Baldur's_Mouth.md)
@@ -4120,7 +4120,7 @@
 - [沃纳伊之家](Vonayn's_Home.md)
 - [水女王之家](Water_Queen's_House.md)
 
-**Companion Quests**
+**同伴任务**
 
 - [黑暗之女](Daughter_of_Darkness.md)
 - [熟悉面孔](A_Familiar_Face.md)
@@ -4130,7 +4130,7 @@
 - [苍白的精灵](The_Pale_Elf.md)
 - [深水城的法师](The_Wizard_of_Waterdeep.md)
 
-**Main Quests**
+**主线任务**
 
 - [为赫尔希克取回铁手套](Acquire_the_Gauntlets_for_Helsik.md)
 - [协助地下势力](Aid_the_Underduke.md)
@@ -4159,7 +4159,7 @@
 - [阻止刊发](Stop_the_Presses.md)
 - [探访君主的旧藏身点](Visit_the_Emperor's_Old_Hideout.md)
 
-**Multi-Act Quests**
+**多幕任务**
 
 - [解救艺术家](Free_the_Artist.md)
 - [召集盟友](Gather_Your_Allies_(quest).md)
@@ -4239,14 +4239,14 @@
 - [索德里克·谢德维尔](Thodric_Shedeveer.md)
 - [维尔森·奥克斯](Velson_Oakes.md)
 
-**Cultists of Bhaal**
+**巴尔信徒**
 
 - [加佛](Gavv.md)
 - [赫姆](Hemm.md)
 - [伦恩](Lunn.md)
 - [佐尔](Zoll.md)
 
-**Flaming Fists**
+**焰拳**
 
 - [阿扎里](Azari.md)
 - [艾德温娜](Edwynna.md)
@@ -4257,7 +4257,7 @@
 - [米兰](Mîran.md)
 - [沙](Shah.md)
 
-**Carm's Garms**
+**卡姆的服装店**
 
 - [纳贝尔](Naaber.md)
 - [斯洛兹·阿米尼弗](Slozy_Arminifer.md)
@@ -4310,7 +4310,7 @@
 - [瓦莱里亚](Valeria.md)
 - [沃斯](Voss.md)
 
-**Other**
+**其他**
 
 - [卡利·哈默汉德](Kali_Hammerhand.md)
 - [尼诺·奎尔托普](Neno_Quilltop.md)
@@ -4328,14 +4328,14 @@
 - [索德里克·谢德维尔](Thodric_Shedeveer.md)
 - [维尔森·奥克斯](Velson_Oakes.md)
 
-**Cultists of Bhaal**
+**巴尔信徒**
 
 - [加佛](Gavv.md)
 - [赫姆](Hemm.md)
 - [伦恩](Lunn.md)
 - [佐尔](Zoll.md)
 
-**Flaming Fists**
+**焰拳**
 
 - [阿扎里](Azari.md)
 - [艾德温娜](Edwynna.md)
@@ -4346,7 +4346,7 @@
 - [米兰](Mîran.md)
 - [沙](Shah.md)
 
-**Carm's Garms**
+**卡姆的服装店**
 
 - [纳贝尔](Naaber.md)
 - [斯洛兹·阿米尼弗](Slozy_Arminifer.md)
@@ -4399,7 +4399,7 @@
 - [瓦莱里亚](Valeria.md)
 - [沃斯](Voss.md)
 
-**Other**
+**其他**
 
 - [卡利·哈默汉德](Kali_Hammerhand.md)
 - [尼诺·奎尔托普](Neno_Quilltop.md)
@@ -4417,7 +4417,7 @@
 - [索德里克·谢德维尔](Thodric_Shedeveer.md)
 - [维尔森·奥克斯](Velson_Oakes.md)
 
-**Locations**
+**地点**
 
 - [卡姆的服装店](Carm's_Garms.md)
 - [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md)
@@ -4531,7 +4531,7 @@
 - [米佐拉](Mizora.md)
 - [奥托·奥特](Otto_Ott.md)
 
-**Banites**
+**班恩信徒**
 
 - [艾莎](Aischa.md)
 - [加明](Garmin.md)
@@ -4547,7 +4547,7 @@
 - [斯蒂金](Stijin.md)
 - [乌洛瓦](Ulova.md)
 
-**Flaming Fists**
+**焰拳**
 
 - [巴克希](Bakshi.md)
 - [贝拉（飞龙岩要塞）](Bella_(Wyrm's_Rock_Fortress).md)
@@ -4576,7 +4576,7 @@
 - [塞里克](Serrik.md)
 - [乌尔德·雷文伽德](Ulder_Ravengard.md)
 
-**Patriars**
+**元老**
 
 - [艾丽丝·贝尔特](Ailis_Belt.md)
 - [阿莉亚·杜林博尔德](Alia_Durinbold.md)
@@ -4599,7 +4599,7 @@
 - [西莉芙蕾·萨申斯塔尔](Silifrey_Sashenstar.md)
 - [温斯特拉·赫尔霍林](Winstra_Hullhollyn.md)
 
-**Retinue**
+**随行人员**
 
 - [杜林伯德夫人的侍从](Lady_Durinbold's_Attendant.md)
 - [杜林伯德夫人的保镖](Lady_Durinbold's_Bodyguard.md)
@@ -4624,7 +4624,7 @@
 
 - [阿克莱娅·奥洛瑞尔](Arkleia_Oloril.md)
 
-**Other**
+**其他**
 
 - [安苏](Ansur.md)
 - [阿尔博里奥·罗夫林](Arborio_Rolfin.md)
@@ -4639,7 +4639,7 @@
 - [米佐拉](Mizora.md)
 - [奥托·奥特](Otto_Ott.md)
 
-**Banites**
+**班恩信徒**
 
 - [艾莎](Aischa.md)
 - [加明](Garmin.md)
@@ -4655,7 +4655,7 @@
 - [斯蒂金](Stijin.md)
 - [乌洛瓦](Ulova.md)
 
-**Flaming Fists**
+**焰拳**
 
 - [巴克希](Bakshi.md)
 - [贝拉（飞龙岩要塞）](Bella_(Wyrm's_Rock_Fortress).md)
@@ -4684,7 +4684,7 @@
 - [塞里克](Serrik.md)
 - [乌尔德·雷文伽德](Ulder_Ravengard.md)
 
-**Patriars**
+**元老**
 
 - [艾丽丝·贝尔特](Ailis_Belt.md)
 - [阿莉亚·杜林博尔德](Alia_Durinbold.md)
@@ -4707,7 +4707,7 @@
 - [西莉芙蕾·萨申斯塔尔](Silifrey_Sashenstar.md)
 - [温斯特拉·赫尔霍林](Winstra_Hullhollyn.md)
 
-**Retinue**
+**随行人员**
 
 - [杜林伯德夫人的侍从](Lady_Durinbold's_Attendant.md)
 - [杜林伯德夫人的保镖](Lady_Durinbold's_Bodyguard.md)
@@ -4732,7 +4732,7 @@
 
 - [阿克莱娅·奥洛瑞尔](Arkleia_Oloril.md)
 
-**Other**
+**其他**
 
 - [安苏](Ansur.md)
 - [阿尔博里奥·罗夫林](Arborio_Rolfin.md)
@@ -4747,7 +4747,7 @@
 - [米佐拉](Mizora.md)
 - [奥托·奥特](Otto_Ott.md)
 
-**Locations**
+**地点**
 
 - [巨龙密室](The_Dragon's_Sanctum.md)
 - [远古龙之路](The_Wyrmway.md)
@@ -4807,7 +4807,7 @@
 - [窥淫的永恒债务人](Voyeur_Eternal_Debtor.md)
 - [跳舞的永恒债务人](Waltzing_Eternal_Debtor.md)
 
-**Locations**
+**地点**
 
 - [希望的监狱](Hope's_Prison.md)
 

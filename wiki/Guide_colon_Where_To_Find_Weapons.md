@@ -10,7 +10,7 @@
 
 [巨人形态](Giant_Form.md "巨人形态")
 增长到可怕的尺寸。你的武器造成额外1d6伤害，你获得27[临时生命值](Temporary_Hit_Points.md "临时生命值")和力量[属性检定](Ability_Check.md "属性检定")与[豁免](Saving_throw.md "豁免")的[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
-| 在[安苏](Ansur.md "安苏")的尸体上 | [巨剑](Greatswords.md "巨剑") | 双手 | 近战 | 否 | 否 | [博德安的巨人杀手](Balduran's_Giantslayer.md "博德安的巨人杀手")是一件传奇+3[巨剑](Greatswords.md "巨剑")，从[力量](Strength.md "力量")获得双倍伤害加成，赋予使用者[巨人形态](Giant_Form.md "巨人形态")职业动作和[推翻大个](Topple_the_Big_Folk.md "推翻大个")武器动作，以及对大型、超大型和巨型生物的[攻击掷骰](Attack_rolls.md "攻击掷骰")[优势](Advantage.md "优势")。 | 是 | 否 | [战斧 +1](Battleaxe_+1.md "战斧 +1") | | 从使用[魔法近战武器商人列表](Magic_Melee_Weapon_Trader_Table.md#Traders "魔法近战武器商人列表")的任何商人处购买 | [战斧](Battleaxes.md "战斧") | 双手 | 近战 | 否 | 否 | | 否 | 否 | [贝尔姆](Belm.md "贝尔姆") | | 在地下室一个华丽的箱子中 | [弯刀](Scimitars.md "弯刀") | 单手 | 近战 | 是 | 否 | [贝尔姆](Belm.md "贝尔姆")是一件非常稀有的+2[弯刀](Scimitars.md "弯刀")。它赋予[旋风攻击](Whirlwind_Attack_(Weapon_Action).md)和[完美平衡打击](Perfectly_Balanced_Strike.md "完美平衡打击")武器动作。 | 否 | 是 | [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "大男孩的磨牙玩具") |
+| 在[安苏](Ansur.md "安苏")的尸体上 | [巨剑](Greatswords.md "巨剑") | 双手 | 近战 | 否 | 否 | [博德安的巨人杀手](Balduran's_Giantslayer.md "博德安的巨人杀手")是一件传奇+3[巨剑](Greatswords.md "巨剑")，从[力量](Strength.md "力量")获得双倍伤害加成，赋予使用者[巨人形态](Giant_Form.md "巨人形态")职业动作和[推翻大个](Topple_the_Big_Folk.md "推翻大个")武器动作，以及对大型、巨型和超巨型生物的[攻击掷骰](Attack_rolls.md "攻击掷骰")[优势](Advantage.md "优势")。 | 是 | 否 | [战斧 +1](Battleaxe_+1.md "战斧 +1") | | 从使用[魔法近战武器商人列表](Magic_Melee_Weapon_Trader_Table.md#Traders "魔法近战武器商人列表")的任何商人处购买 | [战斧](Battleaxes.md "战斧") | 双手 | 近战 | 否 | 否 | | 否 | 否 | [贝尔姆](Belm.md "贝尔姆") | | 在地下室一个华丽的箱子中 | [弯刀](Scimitars.md "弯刀") | 单手 | 近战 | 是 | 否 | [贝尔姆](Belm.md "贝尔姆")是一件非常稀有的+2[弯刀](Scimitars.md "弯刀")。它赋予[旋风攻击](Whirlwind_Attack_(Weapon_Action).md)和[完美平衡打击](Perfectly_Balanced_Strike.md "完美平衡打击")武器动作。 | 否 | 是 | [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "大男孩的磨牙玩具") |
 
 [谁是大家伙？](Whossa_Large_Fellow_q_.md "谁是大家伙？")
 施放为2级法术（充能：[长休](Long_Rest.md "长休")。）
@@ -78,7 +78,7 @@
 
 [指挥官奇袭](Commander's_Strike.md "指挥官奇袭") (+ )
 指示一名盟友攻击敌人。该盟友在其下一回合使用反应进行一次[武器攻击](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）")。（充能：[短休](Short_rest.md "短休")。）
-| 由[乌尔德·雷文伽德公爵](Ulder_Ravengard.md "乌尔德·雷文伽德公爵")在觐见厅携带 | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑")是一件稀有的+1[长剑](Longswords.md "长剑")，将使用者的[魅力](Charisma.md "魅力")提高+2，并能根据盟友各自的魅力调整值赋予他们临时生命值。 | 否 | 否 | [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") |
+| 由[乌尔德·雷文伽德公爵](Ulder_Ravengard.md "乌尔德·雷文伽德公爵")在礼堂携带 | [长剑](Longswords.md "长剑") | 双手 | 近战 | 否 | 否 | [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑")是一件稀有的+1[长剑](Longswords.md "长剑")，将使用者的[魅力](Charisma.md "魅力")提高+2，并能根据盟友各自的魅力调整值赋予他们临时生命值。 | 否 | 否 | [雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑") |
 
 - **[魅力](Charisma.md "魅力")** +2
 

@@ -63,7 +63,7 @@
 
 ### 书籍
 
-- [ABC，巫妖与我](ABC,_the_Liches_and_Me.md "ABC，巫妖与我")
+- [巫妖百科](ABC,_the_Liches_and_Me.md "巫妖百科")
 - [另一种视角：魔网](An_Alternative_Perspective_colon__The_Weave.md "另一种视角：魔网")
 - [伊尔明斯特 作者切里什·荷多门](Elminster_by_Cherish_Holdomen.md "伊尔明斯特 作者切里什·荷多门")
 - [附魔与我](Enchanted_Me.md "附魔与我")

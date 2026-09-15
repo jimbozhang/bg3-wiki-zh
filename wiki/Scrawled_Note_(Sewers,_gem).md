@@ -1,6 +1,6 @@
 # 潦草的笔记 (下水道, 宝石)
 
-另请参阅：[潦草的笔记 (消歧义)](Scrawled_Note_(disambiguation).md)
+另请参阅：[潦草的笔记 （消歧义）](Scrawled_Note_(disambiguation).md)
 
 一张朴素无华的纸条。
 

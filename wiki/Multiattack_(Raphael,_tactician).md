@@ -1,6 +1,6 @@
 # 多重攻击 (拉斐尔, 硬核)
 
-另请参阅：[多重攻击 (消歧义)](Multiattack_(disambiguation).md) 和 [多重攻击 (拉斐尔)](Multiattack_(Raphael).md)
+另请参阅：[多重攻击 （消歧义）](Multiattack_(disambiguation).md) 和 [多重攻击 (拉斐尔)](Multiattack_(Raphael).md)
 
 **多重攻击**是[拉斐尔](Raphael.md "拉斐尔")在[硬核](Tactician.md "硬核")难度及以上难度下可用的动作，此时他处于[进化](Ascended_Fiend_(Condition).md "进化邪魔 (状态)")状态。它允许他进行多次攻击，并赋予他[动作如潮](Action_Surge_(Condition).md "动作如潮 (状态)")。
 

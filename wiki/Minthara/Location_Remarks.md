@@ -150,7 +150,7 @@
 - _(在谷仓发现填充熊，不知晓故事):_ “为讨厌的小孩子准备的恶心小熊。”
 - _(知晓故事):_ “这些一定是陷阱玩具。小心处理。”
 
-### [飞龙岩要塞](../Wyrm's_Crossing.md "Wyrm's Crossing")
+### [飞龙关](../Wyrm's_Crossing.md "飞龙关")
 
 #### [丹瑟隆的飞斧](../Danthelon's_Dancing_Axe.md "Danthelon's Dancing Axe")
 

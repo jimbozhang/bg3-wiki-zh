@@ -35,7 +35,7 @@ Alexander Rainforest
 [墓碑商店笔记](Tombstone_Shop_Notes.md "墓碑商店笔记")
 
 Alfira
-[Folksongs of Faerûn](Folksongs_of_Faer%C3%BBn.md "Folksongs of Faerûn")
+[费伦民谣](Folksongs_of_Faer%C3%BBn.md "费伦民谣")
 
 Alwin Stedd
 [《联盟的优点，斯泰德 著》](Stedd's_Virtues_of_Unions.md "《联盟的优点，斯泰德 著》")
@@ -86,7 +86,7 @@ Balthazar
 [扣紧的书](Clasped_Book.md "扣紧的书")
 [研究笔记](Research_Notes.md "研究笔记")
 [灵魂囚笼研究](Soul_Cage_Research.md "灵魂囚笼研究")
-[Stained Book (Thorm Mausoleum)](Stained_Book_(Thorm_Mausoleum).md "Stained Book (Thorm Mausoleum)")
+[污渍之书（索姆陵墓）](Stained_Book_(Thorm_Mausoleum).md "污渍之书（索姆陵墓）")
 
 Barcus Wroot
 [巴克斯的日志](Barcus'_Log.md "巴克斯的日志")
@@ -168,17 +168,17 @@ Church of Lathander
 [酿酒厂记录](Winery_Records.md "酿酒厂记录")
 
 Church of Selûne
-[Ancient Selûnite Journal](Ancient_Sel%C3%BBnite_Journal.md "Ancient Selûnite Journal")
-[Faded Logbook (Selûnite, 124)](Faded_Logbook_(Sel%C3%BBnite,_124).md "Faded Logbook (Selûnite, 124)")
-[Faded Logbook (Selûnite, 182)](Faded_Logbook_(Sel%C3%BBnite,_182).md "Faded Logbook (Selûnite, 182)")
+[古代塞伦涅信徒日志](Ancient_Sel%C3%BBnite_Journal.md "古代塞伦涅信徒日志")
+[褪色的日志（塞伦涅信徒，124）](Faded_Logbook_(Sel%C3%BBnite,_124).md "褪色的日志（塞伦涅信徒，124）")
+[褪色的日志（塞伦涅信徒，182）](Faded_Logbook_(Sel%C3%BBnite,_182).md "褪色的日志（塞伦涅信徒，182）")
 [信件记录](Logbook_of_Sendings.md "信件记录")
-[Selûnite Journal](Sel%C3%BBnite_Journal.md "Selûnite Journal")
-[Selûnite Prayer Book](Sel%C3%BBnite_Prayer_Book.md "Selûnite Prayer Book")
+[女祭司的日志](Sel%C3%BBnite_Journal.md "女祭司的日志")
+[塞伦涅信徒的祈祷书](Sel%C3%BBnite_Prayer_Book.md "塞伦涅信徒的祈祷书")
 [残破的笔记](Tattered_Notes.md "残破的笔记")
 [《渴望明月》](Yearning_for_the_Moon.md "《渴望明月》")
 
 Church of Shar
-[Abandoned Journal (Gauntlet of Shar)](Abandoned_Journal_(Gauntlet_of_Shar).md "Abandoned Journal (Gauntlet of Shar)")
+[遗落日志（莎尔铁手神殿）](Abandoned_Journal_(Gauntlet_of_Shar).md "遗落日志（莎尔铁手神殿）")
 [赦免任性之心](Absolving_the_Wayward_Heart.md "赦免任性之心")
 [造物任务：特工名册](Artefact_Mission_colon__Agent_Roster.md "造物任务：特工名册")
 [神器任务：挑战](Artefact_Mission_colon__Challenges.md "神器任务：挑战")
@@ -332,11 +332,11 @@ Elminster
 [Songs of the Wind](Songs_of_the_Wind.md "Songs of the Wind")
 
 Embra Coyle
-[Wizards of Note: Lorroakan (Editor's Edition)](Wizards_of_Note_colon__Lorroakan_(Editor's_Edition).md "Wizards of Note: Lorroakan (Editor's Edition)")
+[著名法师：洛若坎（编辑版）](Wizards_of_Note_colon__Lorroakan_(Editor's_Edition).md "著名法师：洛若坎（编辑版）")
 
 Enver Gortash
 [加速的伟大蓝图](Accelerated_Grand_Design.md "加速的伟大蓝图")
-[Curfew (Confidential Orders)](Curfew_(Confidential_Orders).md "Curfew (Confidential Orders)")
+[宵禁令（密令）](Curfew_(Confidential_Orders).md "宵禁令（密令）")
 [避开主脑](Evading_the_Elder_Brain.md "避开主脑")
 [恩维尔·戈塔什的日志](Journal_of_Enver_Gortash.md "恩维尔·戈塔什的日志")
 [带有近期附注的回忆录笔记](Memoir_Notes_with_Recent_Addenda.md "带有近期附注的回忆录笔记")
@@ -407,13 +407,13 @@ Fynris Flatrock
 
 Gerringothe Thorm
 [格灵哥斯的日志](Gerringothe's_Logbook.md "格灵哥斯的日志")
-[Tollhouse Ledger (Reithwin)](Tollhouse_Ledger_(Reithwin).md "Tollhouse Ledger (Reithwin)")
+[征收所账簿 (雷斯文)](Tollhouse_Ledger_(Reithwin).md "征收所账簿 (雷斯文)")
 
 Githyanki (Faction)
 [如何追踪灵吸怪](How_to_Track_an_Illithid.md "如何追踪灵吸怪")
 
 Golbraith Stredivas
-[Bundle of Letters (book)](Bundle_of_Letters_(book).md "Bundle of Letters (book)")
+[一捆信件 (书籍)](Bundle_of_Letters_(book).md "一捆信件 (书籍)")
 [公爵的自信](Confidant_of_a_Duke.md "公爵的自信")
 [论灵能操纵与反制措施](On_Psionic_Manipulations_and_Countermeasures.md "论灵能操纵与反制措施")
 
@@ -556,7 +556,7 @@ Jhessem
 [杰西姆的日志](Jhessem's_Journal.md "杰西姆的日志")
 
 John Meadowlin
-[Selûne's Devotee](Sel%C3%BBne's_Devotee.md "Selûne's Devotee")
+[塞伦涅忠诚信徒](Sel%C3%BBne's_Devotee.md "塞伦涅忠诚信徒")
 
 Jon Irenicus
 [关于杀戮者](Regarding_the_Slayer.md "关于杀戮者")
@@ -658,10 +658,10 @@ Margritt Oji
 [治疗学](Therapeutics.md "治疗学")
 
 Marlono Rhandle
-[Abandoned Journal (Lower City)](Abandoned_Journal_(Lower_City).md "Abandoned Journal (Lower City)")
+[遗落日志（下城区）](Abandoned_Journal_(Lower_City).md "遗落日志（下城区）")
 
 Marten (toll collector)
-[Tollhouse Ledger (Risen Road)](Tollhouse_Ledger_(Risen_Road).md "Tollhouse Ledger (Risen Road)")
+[征收所账簿 (晋升之路)](Tollhouse_Ledger_(Risen_Road).md "征收所账簿 (晋升之路)")
 
 Mingus Etcherly
 [边疆发现 - 新版](Findings_from_the_Hinterlands_-_New_Edition.md "边疆发现 - 新版")
@@ -742,7 +742,7 @@ Penita
 [光耀少女](The_Lustrous_Lass.md "光耀少女")
 
 Pid
-[Mason's Journal (Reithwin Tollhouse)](Mason's_Journal_(Reithwin_Tollhouse).md "Mason's Journal (Reithwin Tollhouse)")
+[泥瓦匠日志（雷斯文征税所）](Mason's_Journal_(Reithwin_Tollhouse).md "泥瓦匠日志（雷斯文征税所）")
 
 Pilos Lafrett
 [无劳捕鱼！](Labour-Free_Fishing!.md "无劳捕鱼！")
@@ -907,18 +907,18 @@ Ulder Ravengard
 
 unknown
 [地狱指南 - 阿弗纳斯的地狱假日](A_Guide_to_Avernus_-_One_Hellish_Holiday.md "地狱指南 - 阿弗纳斯的地狱假日")
-[A 是为阿祖斯，以及其他神祇 I](A_is_for_Azuth,_and_other_Gods_I.md "A 是为阿祖斯，以及其他神祇 I")
-[A是阿祖斯，以及其他诸神 II](A_is_for_Azuth,_and_other_Gods_II.md "A是阿祖斯，以及其他诸神 II")
-[A is for Azuth, and other Gods III](A_is_for_Azuth,_and_other_Gods_III.md "A is for Azuth, and other Gods III")
-[A is for Azuth, and other Gods IX](A_is_for_Azuth,_and_other_Gods_IX.md "A is for Azuth, and other Gods IX")
-[A is for Azuth, and other Gods VI](A_is_for_Azuth,_and_other_Gods_VI.md "A is for Azuth, and other Gods VI")
-[A is for Azuth, and other Gods VII](A_is_for_Azuth,_and_other_Gods_VII.md "A is for Azuth, and other Gods VII")
-[A is for Azuth, and other Gods XI](A_is_for_Azuth,_and_other_Gods_XI.md "A is for Azuth, and other Gods XI")
+[《神祇歌 卷I》](A_is_for_Azuth,_and_other_Gods_I.md "《神祇歌 卷I》")
+[《神祇歌 卷II》](A_is_for_Azuth,_and_other_Gods_II.md "《神祇歌 卷II》")
+[《神祇歌 卷III》](A_is_for_Azuth,_and_other_Gods_III.md "《神祇歌 卷III》")
+[《神祇歌 卷IX》](A_is_for_Azuth,_and_other_Gods_IX.md "《神祇歌 卷IX》")
+[《神祇歌 卷VI》](A_is_for_Azuth,_and_other_Gods_VI.md "《神祇歌 卷VI》")
+[《神祇歌 卷VII》](A_is_for_Azuth,_and_other_Gods_VII.md "《神祇歌 卷VII》")
+[《神祇歌 卷XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《神祇歌 卷XI》")
 [剑湾红酒谦评](A_Modest_Guide_To_Sword_Coast_Wine.md "剑湾红酒谦评")
-[ABC, the Liches and Me](ABC,_the_Liches_and_Me.md "ABC, the Liches and Me")
+[巫妖百科](ABC,_the_Liches_and_Me.md "巫妖百科")
 [通讯簿](Address_Book.md "通讯簿")
 [星陨海上的冒险](Adventures_on_the_Sea_of_Fallen_Stars.md "星陨海上的冒险")
-[After the Interdeium](After_the_Interdeium.md "After the Interdeium")
+[中之后](After_the_Interdeium.md "中之后")
 [永恒的饥渴](Always_Hungry.md "永恒的饥渴")
 [大公的领导力：礼仪](An_Archduke's_Leadership_colon__Decorum.md "大公的领导力：礼仪")
 [大公的领导力：纪律](An_Archduke's_Leadership_colon__Discipline.md "大公的领导力：纪律")
@@ -942,14 +942,14 @@ unknown
 [纳赫洛斯飞地的发掘](Excavation_of_the_Enclave_of_Nhalloth.md "纳赫洛斯飞地的发掘")
 [流亡者](Exile.md "流亡者")
 [敏锐打击命令的滥用](Exploits_of_the_Order_of_Keen_Strike.md "敏锐打击命令的滥用")
-[Fables of Faerûn I: The Dimwitted Drow](Fables_of_Faer%C3%BBn_I_colon__The_Dimwitted_Drow.md "Fables of Faerûn I: The Dimwitted Drow")
-[Fables of Faerûn II: The Daring Duergar](Fables_of_Faer%C3%BBn_II_colon__The_Daring_Duergar.md "Fables of Faerûn II: The Daring Duergar")
-[Fables of Faerûn III: The Enticing Elder](Fables_of_Faer%C3%BBn_III_colon__The_Enticing_Elder.md "Fables of Faerûn III: The Enticing Elder")
-[Fables of Faerûn IV: The Magnanimous Miner](Fables_of_Faer%C3%BBn_IV_colon__The_Magnanimous_Miner.md "Fables of Faerûn IV: The Magnanimous Miner")
-[Fables of Faerûn V: The Boy and the Beholder](Fables_of_Faer%C3%BBn_V_colon__The_Boy_and_the_Beholder.md "Fables of Faerûn V: The Boy and the Beholder")
-[Fables of Faerûn VI: The Cheerful Deep Gnome](Fables_of_Faer%C3%BBn_VI_colon__The_Cheerful_Deep_Gnome.md "Fables of Faerûn VI: The Cheerful Deep Gnome")
+[费伦寓言 I：愚蠢的卓尔](Fables_of_Faer%C3%BBn_I_colon__The_Dimwitted_Drow.md "费伦寓言 I：愚蠢的卓尔")
+[费伦寓言 II：勇敢的灰矮人](Fables_of_Faer%C3%BBn_II_colon__The_Daring_Duergar.md "费伦寓言 II：勇敢的灰矮人")
+[费伦传说 III：诱人的主脑](Fables_of_Faer%C3%BBn_III_colon__The_Enticing_Elder.md "费伦传说 III：诱人的主脑")
+[费伦传说IV：慷慨的矿工](Fables_of_Faer%C3%BBn_IV_colon__The_Magnanimous_Miner.md "费伦传说IV：慷慨的矿工")
+[费伦传说 V：男孩与眼魔](Fables_of_Faer%C3%BBn_V_colon__The_Boy_and_the_Beholder.md "费伦传说 V：男孩与眼魔")
+[费伦传说 VI：快乐的地底侏儒](Fables_of_Faer%C3%BBn_VI_colon__The_Cheerful_Deep_Gnome.md "费伦传说 VI：快乐的地底侏儒")
 [家中佳肴：烹饪书](Fine_at_Home_colon__A_Cookery_Book.md "家中佳肴：烹饪书")
-\_Heroes[Five (Or Six) Heroes](Five_(Or_Six)_Heroes.md "Five (Or Six) Heroes")
+\_Heroes[五(或六)名英雄](Five_(Or_Six)_Heroes.md "五(或六)名英雄")
 [招待所问题](Flophouse_Issues.md "招待所问题")
 [招待所规则](Flophouse_Rules.md "招待所规则")
 [招待所房客记录](Flophouse_Tenants_Logs.md "招待所房客记录")
@@ -968,7 +968,7 @@ unknown
 [魔法史，第二卷：奥法之劫](Magical_Histories,_Volume_2_colon__The_Spellplague.md "魔法史，第二卷：奥法之劫")
 [魔法史，第三卷：第二次分裂](Magical_Histories,_Volume_3_colon__The_Second_Sundering.md "魔法史，第三卷：第二次分裂")
 [魔法史，第四卷：密斯特拉的选民](Magical_Histories,_Volume_4_colon__The_Chosen_of_Mystra.md "魔法史，第四卷：密斯特拉的选民")
-[Mason's Journal (Murder Tribunal)](Mason's_Journal_(Murder_Tribunal).md "Mason's Journal (Murder Tribunal)")
+[泥瓦匠日志 (谋杀裁判所)](Mason's_Journal_(Murder_Tribunal).md "泥瓦匠日志 (谋杀裁判所)")
 [半身人之母](Mother_of_Halflings.md "半身人之母")
 [死灵法术手抄本，它们的谜团](Necromantic_Codexes,_Their_Enigmas.md "死灵法术手抄本，它们的谜团")
 [夺心魔解剖构造笔记](Notes_on_Mind_Flayer_Anatomy.md "夺心魔解剖构造笔记")
@@ -978,9 +978,9 @@ unknown
 [论邪恶的起源](On_the_Origins_of_Evil.md "论邪恶的起源")
 [纳西凯一夜](One_Night_in_Nashkel.md "纳西凯一夜")
 [进行中的谋杀案调查](Ongoing_Murder_Investigations.md "进行中的谋杀案调查")
-[Oral Histories of Faerûn: Gith and Mind Flayers](Oral_Histories_of_Faer%C3%BBn_colon__Gith_and_Mind_Flayers.md "Oral Histories of Faerûn: Gith and Mind Flayers")
-[Oral Histories of Faerûn: Paladin Oathbreakers](Oral_Histories_of_Faer%C3%BBn_colon__Paladin_Oathbreakers.md "Oral Histories of Faerûn: Paladin Oathbreakers")
-[Oral Histories of Faerûn: The Spellplague](Oral_Histories_of_Faer%C3%BBn_colon__The_Spellplague.md "Oral Histories of Faerûn: The Spellplague")
+[《费伦口述史：吉斯洋基人与夺心魔》](Oral_Histories_of_Faer%C3%BBn_colon__Gith_and_Mind_Flayers.md "《费伦口述史：吉斯洋基人与夺心魔》")
+[《费伦口述史：圣武士弃誓者》](Oral_Histories_of_Faer%C3%BBn_colon__Paladin_Oathbreakers.md "《费伦口述史：圣武士弃誓者》")
+[《费伦口述史：魔法瘟疫》](Oral_Histories_of_Faer%C3%BBn_colon__The_Spellplague.md "《费伦口述史：魔法瘟疫》")
 [重叠的线条](Overlapping_Lines.md "重叠的线条")
 [圣武士誓言及其信条](Paladin_Oaths_and_their_Tenets.md "圣武士誓言及其信条")
 [病人登记册](Patients'_Registry.md "病人登记册")
@@ -998,7 +998,7 @@ unknown
 [《剑湾的秘密社团：揭露篇》](Secret_Societies_of_the_Sword_Coast_colon__Exposed.md "《剑湾的秘密社团：揭露篇》")
 [货物登记册](Shipments_Registry.md "货物登记册")
 [灵魂钱币：专论](Soul_Coins_colon__A_Treatise.md "灵魂钱币：专论")
-[Stained Book (Night Orchid Cave)](Stained_Book_(Night_Orchid_Cave).md "Stained Book (Night Orchid Cave)")
+[染色书籍 (夜兰花山洞)](Stained_Book_(Night_Orchid_Cave).md "染色书籍 (夜兰花山洞)")
 [塔利斯](Talis.md "塔利斯")
 [塔利斯战术 - 终极骗术手册](Talis_Tactics_-_Ultimate_Trick_Book.md "塔利斯战术 - 终极骗术手册")
 [《博德之门编年史》](The_Annals_of_Baldur's_Gate.md "《博德之门编年史》")

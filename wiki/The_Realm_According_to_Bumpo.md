@@ -1,6 +1,6 @@
-# The Realm According to Bumpo
+# 《邦波眼中的被遗忘国度》
 
-**The Realm According to Bumpo** 是一本虚构的冒险书籍。
+**《邦波眼中的被遗忘国度》** 是一本虚构的冒险书籍。
 
 一本平装书，详细描述了虚构的乡巴佬 Gabbin Bumpo 的冒险经历。
 

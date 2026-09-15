@@ -1,6 +1,6 @@
 # 吟游诗人激励 (资源)
 
-本文档是关于资源的。关于基础吟游诗人动作，请参见 [吟游诗人激励 (职业动作)](Bardic_Inspiration_(class_action).md)。关于其他用途，请参见 [吟游诗人激励 (消歧义)](Bardic_Inspiration_(disambiguation).md)。
+本文档是关于资源的。关于基础吟游诗人动作，请参见 [吟游诗人激励 (职业动作)](Bardic_Inspiration_(class_action).md)。关于其他用途，请参见 [吟游诗人激励 （消歧义）](Bardic_Inspiration_(disambiguation).md)。
 
 **吟游诗人激励**是[吟游诗人](Bard.md "吟游诗人")职业特有的资源。
 

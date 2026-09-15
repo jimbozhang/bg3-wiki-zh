@@ -1,6 +1,6 @@
 # 卷轴 (安菲尔档案)
 
-另请参阅：[卷轴 (消歧义)](Scroll_(disambiguation).md)
+另请参阅：[卷轴 （消歧义）](Scroll_(disambiguation).md)
 
 **卷轴**是一份关于[码头工人安菲尔](Amphol.md "Amphol")的档案。
 

@@ -1,4 +1,4 @@
-# 投掷石头 (消歧义)
+# 投掷石头 （消歧义）
 
 这是一个消歧义页面，指向名称模糊的文章。如果您是通过文章中的链接[被带到这里](Special_colon_WhatLinksHere/Throw_Stone_(disambiguation).md)>的，请考虑编辑该链接，将其指向正确的页面。
 

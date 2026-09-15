@@ -1,6 +1,6 @@
 # 荆棘仪式 (仪式)
 
-另见：[荆棘仪式 (消歧义)](Rite_of_Thorns_(disambiguation).md)
+另见：[荆棘仪式 （消歧义）](Rite_of_Thorns_(disambiguation).md)
 
 翠绿林地的城垛在荆棘仪式完成后。
 

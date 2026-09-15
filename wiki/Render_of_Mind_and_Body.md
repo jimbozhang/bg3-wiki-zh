@@ -1,6 +1,6 @@
-# 心灵与躯体之刃
+# 身心高歌
 
-心灵与躯体之刃是一把稀有度为**不常见**的+1[短剑](Shortswords.md "Shortswords")，当攻击具有[优势](Advantage.md "Advantage")时，会造成额外的心灵伤害。
+身心高歌是一把稀有度为**不常见**的+1[短剑](Shortswords.md "Shortswords")，当攻击具有[优势](Advantage.md "Advantage")时，会造成额外的心灵伤害。
 
 最好的进攻即是顿悟一击。
 

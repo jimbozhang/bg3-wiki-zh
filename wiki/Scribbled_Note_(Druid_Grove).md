@@ -1,6 +1,6 @@
 # 潦草的字条 (德鲁伊林地)
 
-另请参阅：[潦草的字条 (消歧义)](Scribbled_Note_(disambiguation).md)
+另请参阅：[潦草的字条 （消歧义）](Scribbled_Note_(disambiguation).md)
 
 **潦草的字条**悬挂在一桶鱼上方，警告读者让它们远离[塔菲特](Tuffet.md "塔菲特")。
 

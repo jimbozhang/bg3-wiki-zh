@@ -1,6 +1,6 @@
 # 羊皮卷 (底城废墟)
 
-另请参阅：[羊皮卷 (消歧义)](Parchment_(disambiguation).md)
+另请参阅：[羊皮卷 （消歧义）](Parchment_(disambiguation).md)
 
 **羊皮卷 (底城废墟)** 是给那些靠近者的警告。
 

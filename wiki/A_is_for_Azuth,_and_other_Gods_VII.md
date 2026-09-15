@@ -1,6 +1,6 @@
-# A is for Azuth, and other Gods VII
+# 《神祇歌 卷VII》
 
-**A is for Azuth, and other Gods VII** 是一系列教导儿童认识[神祇](Deities.md "Deities")的书籍之一。
+**《神祇歌 卷VII》** 是一系列教导儿童认识[神祇](Deities.md "Deities")的书籍之一。
 
 这是一本关于神祇莱拉、莉拉和洛维塔的儿童韵文集。
 
@@ -54,12 +54,12 @@
 
 本系列的其他书籍包括：
 
-- [A 是为阿祖斯，以及其他神祇 I](A_is_for_Azuth,_and_other_Gods_I.md "A 是为阿祖斯，以及其他神祇 I")
-- [A是阿祖斯，以及其他诸神 II](A_is_for_Azuth,_and_other_Gods_II.md "A是阿祖斯，以及其他诸神 II")
-- [A is for Azuth, and other Gods III](A_is_for_Azuth,_and_other_Gods_III.md "A is for Azuth, and other Gods III")
-- [A is for Azuth, and other Gods VI](A_is_for_Azuth,_and_other_Gods_VI.md "A is for Azuth, and other Gods VI")
-- [A is for Azuth, and other Gods IX](A_is_for_Azuth,_and_other_Gods_IX.md "A is for Azuth, and other Gods IX")
-- [A is for Azuth, and other Gods XI](A_is_for_Azuth,_and_other_Gods_XI.md "A is for Azuth, and other Gods XI")
+- [《神祇歌 卷I》](A_is_for_Azuth,_and_other_Gods_I.md "《神祇歌 卷I》")
+- [《神祇歌 卷II》](A_is_for_Azuth,_and_other_Gods_II.md "《神祇歌 卷II》")
+- [《神祇歌 卷III》](A_is_for_Azuth,_and_other_Gods_III.md "《神祇歌 卷III》")
+- [《神祇歌 卷VI》](A_is_for_Azuth,_and_other_Gods_VI.md "《神祇歌 卷VI》")
+- [《神祇歌 卷IX》](A_is_for_Azuth,_and_other_Gods_IX.md "《神祇歌 卷IX》")
+- [《神祇歌 卷XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《神祇歌 卷XI》")
 
 ## 外部链接
 

@@ -1,6 +1,6 @@
-# On the Weary, Vol. 1, Father Lorgan
+# 论疲惫者，第一卷，罗根神父
 
-**On the Weary, Vol. 1, Father Lorgan** 是 [罗根神父](Father_Lorgan.md "罗根神父") 关于在 [博德之门](Baldur's_Gate.md "博德之门") 支持他人的著作集。
+**论疲惫者，第一卷，罗根神父** 是 [罗根神父](Father_Lorgan.md "罗根神父") 关于在 [博德之门](Baldur's_Gate.md "博德之门") 支持他人的著作集。
 
 这本书散发着纸张和墨水的诱人气息。
 

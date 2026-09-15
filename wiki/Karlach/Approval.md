@@ -73,11 +73,11 @@ _**注：** 招募本身不会给予额外的好感度_
 
 _在林间空地：_
 
-- 说服[阿拉丁](../Aradin_Beno.md "Aradin Beno")和[赛夫洛](../Zevlor.md "Zevlor")停止争吵，而不殴打任何一方（使用[说服](../Persuasion.md "Persuasion")或[威吓](../Intimidation.md "Intimidation")）（+1）
-  - 在阿拉丁与赛夫洛争吵时打阿拉丁一拳（+1）
+- 说服[艾拉丁](../Aradin_Beno.md "Aradin Beno")和[赛夫洛](../Zevlor.md "Zevlor")停止争吵，而不殴打任何一方（使用[说服](../Persuasion.md "Persuasion")或[威吓](../Intimidation.md "Intimidation")）（+1）
+  - 在艾拉丁与赛夫洛争吵时打艾拉丁一拳（+1）
 - 向赛夫洛承诺你会与[卡迦](../Kagha.md "Kagha")谈谈停止仪式的事（+3）_（在入口处场景后或在他的洞穴中均可）_
   - 同意为赛夫洛杀死地精部落的首领（+5）
-- 作为[坦帕斯](../Tempus.md "Tempus")的[牧师](../Cleric.md "Cleric")，在与阿拉丁交谈后，告诉[瑞米拉](../Remira.md "Remira")说[利亚姆](../Liam.md "Liam")在战士安息处赢得了一席之地（+1）
+- 作为[坦帕斯](../Tempus.md "Tempus")的[牧师](../Cleric.md "Cleric")，在与艾拉丁交谈后，告诉[瑞米拉](../Remira.md "Remira")说[利亚姆](../Liam.md "Liam")在战士安息处赢得了一席之地（+1）
 - 告诉[阿尔卡](../Arka.md "Arka")为[卡农](../Kanon.md "Kanon")的死寻求复仇（+1）_（如果[梅姆诺斯](../Memnos.md "Memnos")也死了，此选项同样可用并给予好感度；[邪念](../Haunted_One.md "Haunted One")角色有独特台词，但仅在[梅姆诺斯](../Memnos.md "Memnos")死亡时获得好感度）_
 - 在从[熊地精刺客](../Bugbear_Assassin.md "Bugbear Assassin")手中救下[纳迪拉](../Nadira.md "Nadira")后，说服她将[灵魂硬币](../Soul_Coin.md "Soul Coin")给你（+1）
 - 说服[罗兰](../Rolan.md "Rolan")、[莉亚](../Lia.md "Lia")和[卡尔](../Cal.md "Cal")留下来帮忙，使用[说服](../Persuasion.md "Persuasion")或任何可用的职业或种族选项（+1）
@@ -149,9 +149,9 @@ _在[河边茶室](../Riverside_Teahouse.md "Riverside Teahouse")和[蔓生地�
 #### [森林](../Forest.md "Forest")、[枭兽巢穴](../Owlbear_Nest.md "Owlbear Nest") 和 [染疫村落](../Blighted_Village.md "Blighted Village")
 
 - 告诉[斯克里奇](../Scratch.md "Scratch")跟随你的气味到营地，使用[动物交谈](../Speak_with_Animals.md "Speak with Animals")（+1）
-- 作为[海姆](../Helm_(God).md)、[伊尔马特](../Ilmater.md "Ilmater")、[欧格玛](../Oghma.md "Oghma")、[坦帕斯](../Tempus.md "Tempus")或[提尔](../Tyr.md "Tyr")的[牧师](../Cleric.md "Cleric")，在与阿拉丁交谈时，为通往[染疫村落](../Blighted_Village.md "Blighted Village")的桥边尸体祈祷（+1）
+- 作为[海姆](../Helm_(God).md)、[伊尔马特](../Ilmater.md "Ilmater")、[欧格玛](../Oghma.md "Oghma")、[坦帕斯](../Tempus.md "Tempus")或[提尔](../Tyr.md "Tyr")的[牧师](../Cleric.md "Cleric")，在与艾拉丁交谈时，为通往[染疫村落](../Blighted_Village.md "Blighted Village")的桥边尸体祈祷（+1）
 
-_**注：** 此场景仅在阿拉丁先前已离开林地时出现。其他神祇的牧师有独特的职业台词，但使用它们不会获得好感度_
+_**注：** 此场景仅在艾拉丁先前已离开林地时出现。其他神祇的牧师有独特的职业台词，但使用它们不会获得好感度_
 
 - 说服枭兽母亲让你离开而不战斗（+1）
 - 杀死枭兽母亲后，放过[枭兽幼崽](../Owlbear_Cub.md "Owlbear Cub")（+1）
@@ -644,7 +644,7 @@ _月出之塔内的其他地方：_
 
 - 切断[琳赛拉](../Linsella.md "Linsella")和[巴纳巴斯](../Barnabus.md "Barnabus")之间的联系（+1）
 - 从[兰·塔夫](../Lann_Tarv.md "Lann Tarv")那里拿走[灵魂硬币](../Soul_Coin.md "Soul Coin")后，与卡菈克交谈，说她现在有了一个真正的朋友——你（+5）
-  - 告诉[阿拉吉·奥布洛德拉](../Araj_Oblodra.md "Araj Oblodra")[阿斯代伦](../Astarion.md "Astarion")是他自己的
+  - 告诉[阿拉吉·欧布罗扎](../Araj_Oblodra.md "Araj Oblodra")[阿斯代伦](../Astarion.md "Astarion")是他自己的
 
 ---
 *Source: [Karlach/Approval](https://bg3.wiki/wiki/Karlach/Approval)*

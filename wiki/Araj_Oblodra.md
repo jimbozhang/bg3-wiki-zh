@@ -1,6 +1,6 @@
-# Araj Oblodra
+# 阿拉吉·欧布罗扎
 
-## Araj Oblodra
+## 阿拉吉·欧布罗扎
 
 - 游戏内
 - 模型
@@ -20,7 +20,7 @@
 
 ### 家族
 
-门卓贝兰札的奥布洛德拉家族（已消亡）
+门卓贝兰札的欧布罗扎家族（已消亡）
 
 ### 家乡
 
@@ -284,11 +284,11 @@ Stats
 
 > "
 >
-> 据说我们奥布洛德拉家族被投入裂爪深渊时全部灭亡了。我是它最后的幸存之女。如今，门卓贝兰札中心那道我们家族被投入的深渊裂隙不过是一处景观罢了。
+> 据说我们欧布罗扎家族被投入裂爪深渊时全部灭亡了。我是它最后的幸存之女。如今，门卓贝兰札中心那道我们家族被投入的深渊裂隙不过是一处景观罢了。
 >
 > "
 
-— Araj Oblodra, in [奥布洛德拉家族的荣耀](Glory_to_the_House_of_Oblodra.md "奥布洛德拉家族的荣耀")
+— Araj Oblodra, in [欧布罗扎家族的荣耀](Glory_to_the_House_of_Oblodra.md "欧布罗扎家族的荣耀")
 
 ## 目录
 
@@ -325,9 +325,9 @@ Stats
 
 ### 背景
 
-Araj Oblodra 是现已消亡的[奥布洛德拉家族](https://forgottenrealms.fandom.com/wiki/House_Oblodra)的女儿。[一百多年前](Timeline.md "时间线")，在门卓贝兰札城中，一个由敌对卓尔家族组成的联盟摧毁了她的家族，原因是他们与灵能和[夺心魔](Mind_flayers.md "夺心魔")的关联，以及在[动荡之年](https://forgottenrealms.fandom.com/wiki/Time_of_Troubles)之前和期间犯下的诸多罪行。<sup>[\[1\]](#cite_note-1)</sup>
+Araj Oblodra 是现已消亡的[欧布罗扎家族](https://forgottenrealms.fandom.com/wiki/House_Oblodra)的女儿。[一百多年前](Timeline.md "时间线")，在门卓贝兰札城中，一个由敌对卓尔家族组成的联盟摧毁了她的家族，原因是他们与灵能和[夺心魔](Mind_flayers.md "夺心魔")的关联，以及在[动荡之年](https://forgottenrealms.fandom.com/wiki/Time_of_Troubles)之前和期间犯下的诸多罪行。<sup>[\[1\]](#cite_note-1)</sup>
 
-家族毁灭后，几乎没有幸存者。Araj 自认为是奥布洛德拉家族最后的幸存之女，渴望恢复家族昔日的荣光。
+家族毁灭后，几乎没有幸存者。Araj 自认为是欧布罗扎家族最后的幸存之女，渴望恢复家族昔日的荣光。
 
 ## 相关内容
 
@@ -337,7 +337,7 @@ Araj Oblodra 是现已消亡的[奥布洛德拉家族](https://forgottenrealms.f
 
 如果玩家角色是卓尔，可以评论她的姓氏：
 
-- 奥布洛德拉？那个家族一个世纪前就被毁灭了。
+- 欧布罗扎？那个家族一个世纪前就被毁灭了。
 - Araj
   幸运的是，我当时不在场。
 - Araj
@@ -353,7 +353,7 @@ Araj 酿造独特的[药剂](Elixirs.md "药剂")作为从队伍中的[真魂者
 
 然而，在服用抽血药剂并进行一次长休后，角色会获得[抽血不适](Blood-draw_Sickness_(Condition).md "抽血不适 (状态)")状态，导致所有骰子检定 -1，直到再次长休。
 
-在第一次与 Araj 交谈时（且 Astarion 不在队伍中）<sup>[\[2\]](#cite_note-2)</sup>，她可以被询问关于保留其余献血的意图。她随后将其归因于单纯的好奇。然而，如果互动的队伍成员是卓尔并通过了 DC 14 [历史](History.md "历史")[检定](Ability_Check.md "属性检定")，他们对[奥布洛德拉家族](https://forgottenrealms.fandom.com/wiki/House_Oblodra)的了解表明，Araj 不仅仅想要真魂者的血液，而是特别想要[夺心魔](Illithid.md "夺心魔")的血液——这是卓尔研究的禁忌领域。如果这一洞察与 Araj 分享，她会提出为每次献血支付 200 金币（包括当前这一次），外加正常的药剂。
+在第一次与 Araj 交谈时（且 Astarion 不在队伍中）<sup>[\[2\]](#cite_note-2)</sup>，她可以被询问关于保留其余献血的意图。她随后将其归因于单纯的好奇。然而，如果互动的队伍成员是卓尔并通过了 DC 14 [历史](History.md "历史")[检定](Ability_Check.md "属性检定")，他们对[欧布罗扎家族](https://forgottenrealms.fandom.com/wiki/House_Oblodra)的了解表明，Araj 不仅仅想要真魂者的血液，而是特别想要[夺心魔](Illithid.md "夺心魔")的血液——这是卓尔研究的禁忌领域。如果这一洞察与 Araj 分享，她会提出为每次献血支付 200 金币（包括当前这一次），外加正常的药剂。
 
 如果互动的队伍成员对她的提议回应_"留着你的金币。我想看看教团对非信徒做什么"_，她会拒绝，说她有一个项目，不能冒险失去像玩家角色这样独特的样本，现在别无选择，只能从远处观察他们的进化。然后她跑出月光塔，从[第二幕](Act_Two.md "第二幕")中消失。
 
@@ -375,7 +375,7 @@ Astarion 很不情愿这样做，如果被询问，他会私下告诉玩家角�
 
 ### 第三幕
 
-如果在[第二幕](Act_Two.md "第二幕")中捐献了血液，Araj 会在[第三幕](Act_Three.md "第三幕")中搬到博德之门的[下城区](Lower_City.md "下城区")。当接近她的商店绯红药剂时，就在[害羞美人鱼酒馆](The_Blushing_Mermaid.md "害羞美人鱼酒馆")东边，一连串爆炸被触发，Araj 虽然浑身着火跑出来，但她仍然兴奋不已。她称赞角色，因为他们的血液给了她如此重大的突破，她预计卓尔大母仪会恢复她声名狼藉的家族——奥布洛德拉家族。具体来说，他们的血液被证明能够附着在"最棘手的物质"上，这是她前所未见的。<sup>[\[3\]](#cite_note-3)</sup>
+如果在[第二幕](Act_Two.md "第二幕")中捐献了血液，Araj 会在[第三幕](Act_Three.md "第三幕")中搬到博德之门的[下城区](Lower_City.md "下城区")。当接近她的商店绯红药剂时，就在[害羞美人鱼酒馆](The_Blushing_Mermaid.md "害羞美人鱼酒馆")东边，一连串爆炸被触发，Araj 虽然浑身着火跑出来，但她仍然兴奋不已。她称赞角色，因为他们的血液给了她如此重大的突破，她预计卓尔大母仪会恢复她声名狼藉的家族——欧布罗扎家族。具体来说，他们的血液被证明能够附着在"最棘手的物质"上，这是她前所未见的。<sup>[\[3\]](#cite_note-3)</sup>
 
 如果 Astarion 在第二幕中没有咬 Araj，她会再次调情般地提出请求。然而，Astarion 现在已经坚定了决心，坚决拒绝。
 
@@ -404,7 +404,7 @@ Araj 在第三幕中也是商人，主要保留了第二幕的物品库存。
 
 Araj 的商店[绯红药剂](Crimson_Draughts.md "绯红药剂")是她在下城区的药房——似乎在游戏事件之前已经营一段时间。Araj 一直在经营一项看似合法的生意，向体弱的市民出售药剂。然而，[在绯红药剂信箱中发现的一封信](Help.md "HELP")揭示了这位卓尔炼金术士一直在用她自己的药剂替换一些订单，造成了可怕的伤害。
 
-楼下，未受爆炸波及的[奥布洛德拉家族的荣耀](Glory_to_the_House_of_Oblodra.md "奥布洛德拉家族的荣耀")揭示了她研究的真正目的：她打算复活一支亡灵大军，恢复已消亡的奥布洛德拉家族。而且，如果被拒绝，就使用炸药杀死卓尔城市门卓贝兰札中的所有人，作为亡灵居民的女王统治。
+楼下，未受爆炸波及的[欧布罗扎家族的荣耀](Glory_to_the_House_of_Oblodra.md "欧布罗扎家族的荣耀")揭示了她研究的真正目的：她打算复活一支亡灵大军，恢复已消亡的欧布罗扎家族。而且，如果被拒绝，就使用炸药杀死卓尔城市门卓贝兰札中的所有人，作为亡灵居民的女王统治。
 
 无论是通过[撬锁](Sleight_of_Hand.md "巧手")还是使用附近的钥匙，进入商店的地下室会发现 Araj 的小型实验室。临时牢房关押着不太自愿的参与者，人类和野兽被锁在墙上或遭到残害。在她的研究桌附近可以找到一具被肢解的[观察者](Spectator.md "观察者")尸体。
 
@@ -412,7 +412,7 @@ Araj 的商店[绯红药剂](Crimson_Draughts.md "绯红药剂")是她在下城�
 
 ### 结局
 
-如果玩家角色在月光塔和下城区都捐献了血液，喝了[神秘药剂](Mysterious_Potion.md "神秘药剂")并再次捐献血液，Araj 会在[结局](Epilogue.md "结局")期间在[感恩之言箱](Chest_of_Grateful_Words.md "感恩之言箱")中留下一封[信](Letter_from_Araj.md "来自 Araj 的信")。她透露她已经开始——字面意义上——"复活辉煌的奥布洛德拉家族"的过程。
+如果玩家角色在月光塔和下城区都捐献了血液，喝了[神秘药剂](Mysterious_Potion.md "神秘药剂")并再次捐献血液，Araj 会在[结局](Epilogue.md "结局")期间在[感恩之言箱](Chest_of_Grateful_Words.md "感恩之言箱")中留下一封[信](Letter_from_Araj.md "来自 Araj 的信")。她透露她已经开始——字面意义上——"复活辉煌的欧布罗扎家族"的过程。
 
 ## 出售的重要物品
 
@@ -551,14 +551,14 @@ _当 Astarion 被带到 Araj Oblodra 面前时：_
 - [救命](Help.md "HELP"), 绯红药剂的一位不幸顾客在 Araj 的照料下遭受痛苦后的紧急求助信
 - [公开调查](Open_Investigation.md "公开调查"), [焰拳](Flaming_Fist.md "焰拳")的通知，警告 Araj 她的生意因投诉正在接受调查
 
-### Araj Oblodra 的笔记
+### 阿拉吉·欧布罗扎 的笔记
 
 - [来自 Araj 的信](Letter_from_Araj.md "来自 Araj 的信")
 
-### Araj Oblodra 的著作
+### 阿拉吉·欧布罗扎 的著作
 
 - [恩维尔……你的血甜吗？](Enver..._Is_your_blood_sweet_q_.md "恩维尔……你的血甜吗？")
-- [奥布洛德拉家族的荣耀](Glory_to_the_House_of_Oblodra.md "奥布洛德拉家族的荣耀")
+- [欧布罗扎家族的荣耀](Glory_to_the_House_of_Oblodra.md "欧布罗扎家族的荣耀")
 
 ## 画廊
 
@@ -572,7 +572,7 @@ _当 Astarion 被带到 Araj Oblodra 面前时：_
 
 ## 参考资料
 
-1. [↑](#cite_ref-1) 第二幕，[月光塔](Moonrise_Towers.md "月光塔")旁白：智力（历史）：_"你意识到为什么这个名字听起来很熟悉：奥布洛德拉家族在一个世纪前被一个敌对卓尔家族联盟消灭了。"_ 旁白：_"在他们被指控的众多罪行中——他们鲁莽地进行夺心魔育种实验。"_
+1. [↑](#cite_ref-1) 第二幕，[月光塔](Moonrise_Towers.md "月光塔")旁白：智力（历史）：_"你意识到为什么这个名字听起来很熟悉：欧布罗扎家族在一个世纪前被一个敌对卓尔家族联盟消灭了。"_ 旁白：_"在他们被指控的众多罪行中——他们鲁莽地进行夺心魔育种实验。"_
 1. [↑](#cite_ref-2) 如果 Astarion 在第一次与 Araj 交谈时在队伍中，历史检定的对话选项不会出现（除非卓尔角色第一个交谈），并且 Araj 不会额外提供金币来换取血液，除非在后续对话中揭露了她的秘密。
 1. [↑](#cite_ref-3) [终于突破了](A_Breakthrough_at_Last.md "终于突破了")
 
@@ -580,7 +580,7 @@ _当 Astarion 被带到 Araj Oblodra 面前时：_
 
 - ⁠[Araj Oblodra](https://forgottenrealms.fandom.com/wiki/Araj_Oblodra) on the [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 - ⁠[裂爪深渊](https://forgottenrealms.fandom.com/wiki/Clawrift) on the [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
-- ⁠[奥布洛德拉家族](https://forgottenrealms.fandom.com/wiki/House_Oblodra) on the [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[欧布罗扎家族](https://forgottenrealms.fandom.com/wiki/House_Oblodra) on the [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *来源: [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra)*

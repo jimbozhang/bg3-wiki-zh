@@ -1,6 +1,6 @@
 # 啄咬眼珠 (渡鸦魔宠)
 
-本文介绍渡鸦魔宠使用的攻击。其他版本请参见 [啄咬眼珠 (消歧义)](Rend_Vision_(disambiguation).md)
+本文介绍渡鸦魔宠使用的攻击。其他版本请参见 [啄咬眼珠 （消歧义）](Rend_Vision_(disambiguation).md)
 
 **啄咬眼珠**是[获得魔宠：渡鸦](Find_Familiar_colon__Raven.md "获得魔宠：渡鸦")动作。这是一种近战攻击，造成微量穿刺伤害并使目标目盲。
 

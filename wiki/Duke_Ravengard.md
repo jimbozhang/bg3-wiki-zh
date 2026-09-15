@@ -89,7 +89,7 @@
 - [贵族日志](Patriars_Journal.md "贵族日志")
 - [特殊指令](SPECIAL_ORDER.md "特殊指令")
 - [博德之门的公爵们](The_Dukes_of_Baldur's_Gate.md "博德之门的公爵们")
-- [U. R. : 为绝对的荣耀](U._R.__colon__For_the_Absolute's_Glory.md "U. R. : 为绝对的荣耀")
+- [U. R. : 为了至上真神](U._R.__colon__For_the_Absolute's_Glory.md "U. R. : 为了至上真神")
 - [致雷文伽德公爵的紧急报告](Urgent_Report_for_Duke_Ravengard.md "致雷文伽德公爵的紧急报告")
 
 ## 相关任务

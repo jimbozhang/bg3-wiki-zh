@@ -14,7 +14,7 @@
 
 ## 相关文献
 
-[ABC，巫妖与我](ABC,_the_Liches_and_Me.md "ABC，巫妖与我")
+[巫妖百科](ABC,_the_Liches_and_Me.md "巫妖百科")
 
 ## 外部链接
 

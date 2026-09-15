@@ -1,6 +1,6 @@
 # 表演 (吹口哨)
 
-另请参阅：[表演 (消歧义)](Perform_(disambiguation).md)
+另请参阅：[表演 （消歧义）](Perform_(disambiguation).md)
 
 **表演** 是一个自由动作，允许用户吹口哨演奏曲调。只有当玩家拥有乐器熟练项且未装备 [乐器](Instrument.md "Instrument") 时才可用。
 

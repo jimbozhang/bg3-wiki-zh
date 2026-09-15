@@ -1,6 +1,6 @@
 # 召唤魔蝠 (油脂)
 
-另请参阅：[召唤魔蝠 (消歧义)](Summon_Mephit_(disambiguation).md)
+另请参阅：[召唤魔蝠 （消歧义）](Summon_Mephit_(disambiguation).md)
 
 **召唤魔蝠**是一项职业动作，允许[油脂魔蝠](Grease_Mephit.md "油脂魔蝠")从油脂地表召唤一只[幼年油脂魔蝠](Young_Grease_Mephit.md "幼年油脂魔蝠")。
 

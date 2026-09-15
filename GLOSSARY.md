@@ -1752,7 +1752,7 @@
 | skills | 技能 |
 | Sleight Of Hand | 巧手 |
 | Somatic | 姿势成分 |
-| Spell Save DC | 法术豁免等级 |
+| Spell Save DC | 法术豁免难度等级 |
 | Spell Slot | 法术位 |
 | spell slots | 邪术师法术位 |
 | spell slots | 法术位 |

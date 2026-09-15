@@ -665,7 +665,7 @@
 
 [火焰护盾](Fire_Shield.md "火焰护盾")
 作为4环法术施放（充能：[长休](Long_Rest.md "长休")。）
-| 如果在觐见厅杀死[乌尔德·雷文伽德公爵](Duke_Ulder_Ravengard.md "乌尔德·雷文伽德公爵")，可从其尸体上拾取 | 重甲 | 重甲 | 19 | | [执法者头盔](Enforcer_Helmet.md "执法者头盔") |
+| 如果在礼堂杀死[乌尔德·雷文伽德公爵](Duke_Ulder_Ravengard.md "乌尔德·雷文伽德公爵")，可从其尸体上拾取 | 重甲 | 重甲 | 19 | | [执法者头盔](Enforcer_Helmet.md "执法者头盔") |
 
 - [体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定") +1
 
@@ -1184,7 +1184,7 @@
 | [卡利德的礼物](Khalid's_Gift.md "卡利德的礼物") |
 - [感知](Wisdom.md "感知") +1（最高21）
 
-[卡利德的礼物：支援术](Khalid's_Gift_colon__Aid.md "卡利德的礼物：支援术")
+[卡利德的礼物：协助](Khalid's_Gift_colon__Aid.md "卡利德的礼物：协助")
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 在地下室的展示柜中（如果未招募贾希拉可能不可用）\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")\] | 护符 |
 |
@@ -1723,7 +1723,7 @@
 作为3环法术施放（充能：[长休](Long_Rest.md "长休")。）
 | 由[军需官塔利](Talli.md "塔利")在末光旅店传送点附近出售 | 盾牌 | 盾牌 | | +2 | [回旋盾牌](Shield_of_Returning.md "回旋盾牌") |
 
-- [誓缚武器](Bound_Weapon_(Condition).md "誓缚武器（状态）")
+- [绑定武器](Bound_Weapon_(Condition).md "绑定武器（状态）")
 
 | | 盾牌 | 盾牌 | | +2 | [灼热复仇盾牌](Shield_of_Scorching_Reprisal.md "灼热复仇盾牌") |
 
@@ -1741,7 +1741,7 @@
 
 [护盾术](Shield_(spell).md "护盾术")
 作为1环法术施放（充能：[长休](Long_Rest.md "长休")。）
-| 可以在地下室的**献给海姆的祭品**箱子中找到，可以通过进入圣殿角落的秘密舱口到达 | 盾牌 | | | +2 | [不诚者之盾](Shield_of_the_Undevout.md "不诚者之盾") |
+| 可以在地下室的**献给海姆的贡品**箱子中找到，可以通过进入圣殿角落的秘密舱口到达 | 盾牌 | | | +2 | [不诚者之盾](Shield_of_the_Undevout.md "不诚者之盾") |
 
 [盾牌猛击](Shield_Blow.md "盾牌猛击")
 当敌人用近战攻击命中你时，你可以用反应将其击倒至[倒伏](Prone_(Condition).md "倒伏（状态）")，除非他们成功通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")。

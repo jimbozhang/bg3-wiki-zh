@@ -19,7 +19,7 @@
 >
 > „
 
-— [A is for Azuth, and other Gods IX](A_is_for_Azuth,_and_other_Gods_IX.md "A is for Azuth, and other Gods IX")
+— [《神祇歌 卷IX》](A_is_for_Azuth,_and_other_Gods_IX.md "《神祇歌 卷IX》")
 
 ## 概述
 
@@ -52,7 +52,7 @@
 
 ## 相关文献
 
-- [A is for Azuth, and other Gods IX](A_is_for_Azuth,_and_other_Gods_IX.md "A is for Azuth, and other Gods IX")
+- [《神祇歌 卷IX》](A_is_for_Azuth,_and_other_Gods_IX.md "《神祇歌 卷IX》")
 - [魔网魔法 - 导论](Magic_of_the_Weave_-_An_Introduction.md "Magic of the Weave - An Introduction")
 - [魔法史，第一卷：密斯特拉的起源](Magical_Histories,_Volume_1_colon__The_Origins_of_Mystra.md "Magical Histories, Volume 1: The Origins of Mystra")
 - [魔法史，第二卷：奥法之劫](Magical_Histories,_Volume_2_colon__The_Spellplague.md "Magical Histories, Volume 2: The Spellplague")

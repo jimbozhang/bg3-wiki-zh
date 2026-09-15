@@ -1,6 +1,6 @@
 # 卷轴 (档案)
 
-另请参阅：[卷轴 (消歧义)](Scroll_(disambiguation).md)
+另请参阅：[卷轴 （消歧义）](Scroll_(disambiguation).md)
 
 **卷轴** 是一份关于玩家队伍的档案。
 

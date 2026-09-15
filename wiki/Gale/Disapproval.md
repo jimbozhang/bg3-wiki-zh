@@ -625,7 +625,7 @@ _在[钢铁王座](../Iron_Throne.md "Iron Throne")救出[奥梅鲁姆](../Omelu
 
 **在[巫术杂物店](../Sorcerous_Sundries.md "Sorcerous Sundries")**
 
-- 入口附近，如果你向[阿拉丁](../Aradin_Beno.md "Aradin Beno")泄露你找到了暗夜之歌，告诉他她在你的营地 (-1)
+- 入口附近，如果你向[艾拉丁](../Aradin_Beno.md "Aradin Beno")泄露你找到了暗夜之歌，告诉他她在你的营地 (-1)
 - 大声问[托尔纳书商](../Tolna_Tome-Monger.md "Tolna Tome-Monger")这些书是否敏感 (-1)
 
 _**注意：**如果你第二次与托尔纳交谈，选择类似选项将带来**额外**的(-1)不悦_

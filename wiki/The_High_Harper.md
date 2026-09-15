@@ -1,6 +1,6 @@
 # 高阶竖琴手
 
-**高阶竖琴手**是[贾希拉](Jaheira.md "贾希拉")的[伙伴](Companion.md "Companion")[任务](Quest.md "Quest")。如果贾希拉在[第二幕](Act_Two.md "Act Two")结束时加入队伍，并且玩家角色在[第三幕](Act_Three.md "Act Three")抵达[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")后与她交谈，该任务就会添加到日志中。
+**高阶竖琴手**是[贾希拉](Jaheira.md "贾希拉")的[伙伴](Companion.md "Companion")[任务](Quest.md "Quest")。如果贾希拉在[第二幕](Act_Two.md "Act Two")结束时加入队伍，并且玩家角色在[第三幕](Act_Three.md "Act Three")抵达[飞龙关](Wyrm's_Crossing.md "飞龙关")后与她交谈，该任务就会添加到日志中。
 
 > “
 >

@@ -154,7 +154,7 @@
 - [造物回音](../Creation's_Echo.md "造物回音")：在造成[亡灵](../Necrotic.md "亡灵")伤害后，对该元素获得抗性。
 - [猩红诡计](../Crimson_Mischief.md "猩红诡计")：额外造成1d4[亡灵](../Necrotic.md "亡灵")伤害。
 - [地穴领主戒指](../Crypt_Lord_Ring.md "地穴领主戒指")：每次长休后可作为6环法术施放一次[唤起死灵](../Create_Undead.md "唤起死灵")。
-- [恐惧铁匕首](../Dread_Iron_Dagger.md "恐惧铁匕首")：潜行时额外造成1d6[亡灵](../Necrotic.md "亡灵")伤害。
+- [恐惧铁匕首](../Dread_Iron_Dagger.md "恐惧铁匕首")：隐藏时额外造成1d6[亡灵](../Necrotic.md "亡灵")伤害。
 - [决斗者的特权](../Duellist's_Prerogative.md "决斗者的特权")：额外造成1d4[亡灵](../Necrotic.md "亡灵")伤害。使用反应时，添加等于你熟练项加值的[亡灵](../Necrotic.md "亡灵")伤害。
 - [残缺的黯狱手套](../Flawed_Helldusk_Gloves.md "残缺的黯狱手套")：徒手攻击额外造成1d4[亡灵](../Necrotic.md "亡灵")伤害，并可能施加[流血](../Bleeding_(Condition).md "流血（状态）")。
 - [血肉撕裂者](../Fleshrender.md "血肉撕裂者")：每次短休一次，额外造成等于你熟练项加值的[亡灵](../Necrotic.md "亡灵")伤害并阻止治疗。

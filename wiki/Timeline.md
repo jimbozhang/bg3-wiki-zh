@@ -151,7 +151,7 @@ _博德之门3_ 发生在 [1492 DR](#1492)。<sup>[\[1\]](#cite_note-1)</sup><su
 
 #### 月亮庇所日志
 
-[月亮庇所日志](Moonhaven_Logbook.md "Moonhaven Logbook") 写于凯瑟里克的暗夜法官部队被击败之前。[[注 5]](#cite_note-Ilyn_Toth-27)([注 6)](#cite_note-KethericDead-28)
+[月亮庇所日志](Moonhaven_Logbook.md "月亮庇所日志") 写于凯瑟里克的暗夜法官部队被击败之前。[[注 5]](#cite_note-Ilyn_Toth-27)([注 6)](#cite_note-KethericDead-28)
 
 - 26 炎夏之月 — 卡利什商人奥利弗·辛格抵达 [月亮庇所](Moonhaven.md "Moonhaven")。<sup>[\[22\]](#cite_note-moonhavenlog-29)</sup>
 - 27 炎夏之月 — 奥利弗·辛格离开月亮庇所。<sup>[\[22\]](#cite_note-moonhavenlog-29)</sup>
@@ -267,7 +267,7 @@ _博德之门3_ 发生在 1492 DR 年，即“三船航行之年”。<sup>[\[2\
 1. ↑ [2.0](#cite_ref-MoonriseWar_8-0) [2.1](#cite_ref-MoonriseWar_8-1) [2.2](#cite_ref-MoonriseWar_8-2) [2.3](#cite_ref-MoonriseWar_8-3) [2.4](#cite_ref-MoonriseWar_8-4) [《复仇之炉简史》](Grymforge_colon__A_History.md "Grymforge: A History") 指出，复仇之炉是在凯瑟里克·索姆的莎尔教部队重新发现它的 800 年前建造的。凯瑟里克在 1367 年（当时月出之塔是竖琴手盟友高阶传令官克雷斯森科特·奈恩尼斯拉·萨洛丁的住所）<sup>[\[4\]](#cite_note-CodeOfTheHarpers-6)</sup> 和 1370 年（这是凯尔本·阿伦森可以代表高阶竖琴手议会向凯瑟里克·索姆将军发送 [降书](Letter_of_Surrender.md "Letter of Surrender") 的最晚年份，因为凯尔本在那年被竖琴手同盟流放）<sup>[\[5\]](#cite_note-GrandHistory150-7)</sup> 之间的某个时间点公开转向莎尔。1367 减去 800 是 567，从而给出了复仇之炉最初建造年份的粗略估计。
 1. [↑](#cite_ref-14) AD&D 来源书 _The Horde_ 记述了 1359 年的事件。<sup>[\[9\]](#cite_note-12)</sup> 它说冰海巨尖塔的建造始于“几个世纪前”。<sup>[\[10\]](#cite_note-Horde-13)</sup> 1359 减去 300 是 1059，给出了博德安和安苏可能参观它的最早年份的粗略估计。
 1. ↑ [4.0](#cite_ref-BalduranVoyage_15-0) [4.1](#cite_ref-BalduranVoyage_15-1) 电子游戏扩展包 _博德之门：剑湾传奇_ 发生在 1368 年的巴尔之子危机期间。当与凯莎斯交谈时，包含以下玩家角色对话：“它带有博德安的标记，一位大约三百年前失踪的英雄。” 1368 减去 300 是 1068，给出了博德安最后一次航行的粗略年份估计。
-1. ↑ [5.0](#cite_ref-Ilyn_Toth_27-0) [5.1](#cite_ref-Ilyn_Toth_27-1) [黑暗日记](Dark_Journal.md "Dark Journal") 指出，伊林·托斯和他的学徒在 1371 年夜明之月 6 日平静地定居在月亮庇所。夜明之月是日历年中的最后一个月。后来的日志 [月亮庇所日志](Moonhaven_Logbook.md "Moonhaven Logbook") 描述了月亮庇所因腐叶之月（一个比夜明之月早的日历月份）暗夜法官部队的反复袭击而陷入暴力。这意味着月亮庇所日志一定是在 1371 年之后写的，最早可能的年份是 1372 年。
+1. ↑ [5.0](#cite_ref-Ilyn_Toth_27-0) [5.1](#cite_ref-Ilyn_Toth_27-1) [黑暗日记](Dark_Journal.md "Dark Journal") 指出，伊林·托斯和他的学徒在 1371 年夜明之月 6 日平静地定居在月亮庇所。夜明之月是日历年中的最后一个月。后来的日志 [月亮庇所日志](Moonhaven_Logbook.md "月亮庇所日志") 描述了月亮庇所因腐叶之月（一个比夜明之月早的日历月份）暗夜法官部队的反复袭击而陷入暴力。这意味着月亮庇所日志一定是在 1371 年之后写的，最早可能的年份是 1372 年。
 1. ↑ [6.0](#cite_ref-KethericDead_28-0) [6.1](#cite_ref-KethericDead_28-1) 在第二幕中与玩家在终焉光芒旅店交谈时，贾海拉说“我们追踪他们到这个古老的村庄，结果却面对一个我们一个多世纪前就杀死并埋葬的人。” _博德之门3_ 的事件发生在 1492 年，这意味着凯瑟里克一定是在 1392 年之前的某个时间在与竖琴手的战斗中被杀。
 1. ↑ [7.0](#cite_ref-wyll_32-0) [7.1](#cite_ref-wyll_32-1) 根据游戏中的对话，威尔在与米佐拉签订契约时 17 岁，然后他被流放出博德之门 7 年。这将使他在 _博德之门3_ 发生的 1492 年大约 24 岁。在第三幕中当被问及斯泰尔曼时，威尔说他第一次见到她时是“七八岁的男孩”。
 1. [↑](#cite_ref-46) 源自游戏中的日历。然而，这与 1492 DR 年关于翠绿林地的其他条目冲突。
@@ -316,7 +316,7 @@ _博德之门3_ 发生在 1492 DR 年，即“三船航行之年”。<sup>[\[2\
 
 1. [↑](#cite_ref-darkjournal_26-0) _[黑暗日记](Dark_Journal.md "Dark Journal")_ — [伊林·托斯](Ilyn_Toth.md "Ilyn Toth")
 
-1. ↑ [22.00](#cite_ref-moonhavenlog_29-0) [22.01](#cite_ref-moonhavenlog_29-1) [22.02](#cite_ref-moonhavenlog_29-2) [22.03](#cite_ref-moonhavenlog_29-3) [22.04](#cite_ref-moonhavenlog_29-4) [22.05](#cite_ref-moonhavenlog_29-5) [22.06](#cite_ref-moonhavenlog_29-6) [22.07](#cite_ref-moonhavenlog_29-7) [22.08](#cite_ref-moonhavenlog_29-8) [22.09](#cite_ref-moonhavenlog_29-9) _[月亮庇所日志](Moonhaven_Logbook.md "Moonhaven Logbook")_ — [伊林·托斯](Ilyn_Toth.md "Ilyn Toth")
+1. ↑ [22.00](#cite_ref-moonhavenlog_29-0) [22.01](#cite_ref-moonhavenlog_29-1) [22.02](#cite_ref-moonhavenlog_29-2) [22.03](#cite_ref-moonhavenlog_29-3) [22.04](#cite_ref-moonhavenlog_29-4) [22.05](#cite_ref-moonhavenlog_29-5) [22.06](#cite_ref-moonhavenlog_29-6) [22.07](#cite_ref-moonhavenlog_29-7) [22.08](#cite_ref-moonhavenlog_29-8) [22.09](#cite_ref-moonhavenlog_29-9) _[月亮庇所日志](Moonhaven_Logbook.md "月亮庇所日志")_ — [伊林·托斯](Ilyn_Toth.md "Ilyn Toth")
 
 1. ↑ [23.0](#cite_ref-olamjournal_30-0) [23.1](#cite_ref-olamjournal_30-1) [23.2](#cite_ref-olamjournal_30-2) [23.3](#cite_ref-olamjournal_30-3) _[奥兰的日志](Olam's_Journal.md "Olam's Journal")_ — 奥兰
 

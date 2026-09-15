@@ -1,6 +1,6 @@
 # 羊皮卷 (下城区)
 
-另请参阅：[羊皮卷 (消歧义)](Parchment_(disambiguation).md)
+另请参阅：[羊皮卷 （消歧义）](Parchment_(disambiguation).md)
 
 **羊皮卷 (下城区)** 是一封来自[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")的邀约函。
 

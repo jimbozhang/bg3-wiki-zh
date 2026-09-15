@@ -1,6 +1,6 @@
 # 表演 (鲁特琴)
 
-另请参阅：[表演 (消歧义)](Perform_(disambiguation).md)
+另请参阅：[表演 （消歧义）](Perform_(disambiguation).md)
 
 **表演**是一项自由动作，允许使用者使用[鲁特琴](Lute.md "Lute")演奏曲调。
 

@@ -69,7 +69,7 @@ UUID
 
 Stats
 
-`WYR_SharessCaress_Human_Bard` **女主人阿米拉**是[莎蕾丝之爱抚](Sharess'_Caress.md "莎蕾丝之爱抚")的人类女老板，位于[第三幕](Act_Three.md "第三幕")的[巨龙渡口](Wyrm's_Crossing.md "巨龙渡口")。
+`WYR_SharessCaress_Human_Bard` **女主人阿米拉**是[莎蕾丝之爱抚](Sharess'_Caress.md "莎蕾丝之爱抚")的人类女老板，位于[第三幕](Act_Three.md "第三幕")的[飞龙关](Wyrm's_Crossing.md "飞龙关")。
 
 ## 目录
 

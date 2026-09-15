@@ -37,7 +37,7 @@
 
 ## 相关文献
 
-- [A is for Azuth, and other Gods VI](A_is_for_Azuth,_and_other_Gods_VI.md "A is for Azuth, and other Gods VI")
+- [《神祇歌 卷VI》](A_is_for_Azuth,_and_other_Gods_VI.md "《神祇歌 卷VI》")
 - [破碎的日记](Crumbling_Journal.md "破碎的日记")
 - [死亡与神性：神祇指南](Death_&_Divinity_colon__A_Godly_Guide.md "死亡与神性：神祇指南")
 

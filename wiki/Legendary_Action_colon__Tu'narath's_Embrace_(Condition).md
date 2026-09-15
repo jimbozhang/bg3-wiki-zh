@@ -2,7 +2,7 @@
 
 **传奇动作：图纳拉特的拥抱**
 
-- 圣武士哈拉克可以使用一个传奇动作对盟友施放 [图纳拉特的拥抱](Tu'narath's_Embrace.md "图纳拉特的拥抱")，以防止一个 [失能状态](Incapacitated_(status_group)..md)
+- 圣武士哈’拉克可以使用一个传奇动作对盟友施放 [图纳拉特的拥抱](Tu'narath's_Embrace.md "图纳拉特的拥抱")，以防止一个 [失能状态](Incapacitated_(status_group)..md)
 
 ## 属性
 
@@ -16,7 +16,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 圣武士哈拉克可以使用一个传奇动作对盟友施放 [图纳拉特的拥抱](Tu'narath's_Embrace.md "图纳拉特的拥抱")，以防止一个 [失能状态](Incapacitated_(status_group)..md)
+- 圣武士哈’拉克可以使用一个传奇动作对盟友施放 [图纳拉特的拥抱](Tu'narath's_Embrace.md "图纳拉特的拥抱")，以防止一个 [失能状态](Incapacitated_(status_group)..md)
 
 ---
 *Source: [Legendary Action: Tu'narath's Embrace (Condition)](https://bg3.wiki/wiki/Legendary_Action:_Tu'narath's_Embrace_(Condition)*

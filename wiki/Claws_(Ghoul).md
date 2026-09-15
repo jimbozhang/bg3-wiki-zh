@@ -1,6 +1,6 @@
 # 爪击 (食尸鬼)
 
-本文介绍的是大多数食尸鬼使用的版本。关于飞行食尸鬼使用的版本，请参见 [爪击 (飞行食尸鬼)](Claws_(Flying_Ghoul).md)。其他用法，请参见 [爪击 (消歧义)](Claws_(disambiguation).md)。
+本文介绍的是大多数食尸鬼使用的版本。关于飞行食尸鬼使用的版本，请参见 [爪击 (飞行食尸鬼)](Claws_(Flying_Ghoul).md)。其他用法，请参见 [爪击 （消歧义）](Claws_(disambiguation).md)。
 
 **爪击**是[食尸鬼](Ghoul.md "食尸鬼")常用的类动作。这是一种徒手近战攻击，造成[挥砍](Slashing.md "挥砍")伤害，并可能使目标[麻痹](Paralysed_(Condition).md "麻痹 (状态)")。
 

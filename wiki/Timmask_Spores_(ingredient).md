@@ -1,6 +1,6 @@
 # 鬼头蘑菇孢子 (材料)
 
-另请参阅：[鬼头蘑菇孢子 (消歧义)](Timmask_Spores_(disambiguation).md)
+另请参阅：[鬼头蘑菇孢子 （消歧义）](Timmask_Spores_(disambiguation).md)
 
 **鬼头蘑菇孢子**是一种[炼金术](Alchemy.md "炼金术")，可以精炼成[鬼头蘑菇孢子精华](Essence_of_Timmask_Spores.md "鬼头蘑菇孢子精华")，并组合以制造[真菌迷药](Fungal_Bamboozler.md "真菌迷药")。
 

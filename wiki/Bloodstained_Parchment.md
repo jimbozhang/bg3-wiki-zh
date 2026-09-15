@@ -36,7 +36,7 @@
 
 [贝琳·斯特尔曼公爵](Belynne_Stelmane.md "贝琳·斯特尔曼公爵") - [精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆")，[下城区](Lower_City.md "下城区")。_(已击杀)_
 
-[洛根神父](Lorgan.md "洛根神父") - [慈爱神殿](Open_Hand_Temple.md "慈爱神殿")，[利文顿](Rivington.md "利文顿")。_(已击杀)_
+[罗根神父](Lorgan.md "罗根神父") - [慈爱神殿](Open_Hand_Temple.md "慈爱神殿")，[利文顿](Rivington.md "利文顿")。_(已击杀)_
 
 小丑[德里布斯](Dribbles.md "德里布斯") - [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团")，利文顿。_(已击杀)_
 

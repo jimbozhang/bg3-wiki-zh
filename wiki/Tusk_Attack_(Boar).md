@@ -1,6 +1,6 @@
 # 牙撕攻击 (野猪)
 
-另请参阅：[牙撕攻击 (消歧义)](Tusk_Attack_(disambiguation).md)
+另请参阅：[牙撕攻击 （消歧义）](Tusk_Attack_(disambiguation).md)
 
 **牙撕攻击**是多种野猪可用的职业动作。野猪使用此能力进行近战攻击，对敌人造成挥砍伤害。
 

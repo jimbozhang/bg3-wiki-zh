@@ -139,7 +139,7 @@ Stats
 
 `Human_Commoner`
 
-**西利安**可以在[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的[第三幕](Act_Three.md "Act Three")中遇到。
+**西利安**可以在[飞龙关](Wyrm's_Crossing.md "飞龙关")的[第三幕](Act_Three.md "Act Three")中遇到。
 
 > “
 >

@@ -4,7 +4,7 @@
 | --- | --- |
 | 谋杀灵光 | 附近的敌对生物对穿刺伤害变得[易伤](Vulnerable.md "易伤")，除非它们对该伤害[抗性](Resistant.md "抗性")或[免疫](Immune.md "Immune")。 |
 
-另请参阅：[谋杀灵光 (消歧义)](Aura_of_Murder_(disambiguation).md)
+另请参阅：[谋杀灵光 （消歧义）](Aura_of_Murder_(disambiguation).md)
 
 **谋杀灵光**
 

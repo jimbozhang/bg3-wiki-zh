@@ -1,6 +1,6 @@
 # 潦草的字条 (复仇之炉)
 
-另请参阅：[潦草的字条 (消歧义)](Scribbled_Note_(disambiguation).md)
+另请参阅：[潦草的字条 （消歧义）](Scribbled_Note_(disambiguation).md)
 
 **潦草的字条**是一张关于寻找[秘银矿石](Mithral_Ore.md "秘银矿石")的陈旧字条。
 

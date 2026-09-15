@@ -1,6 +1,6 @@
 # 想办法进入飞龙岩要塞
 
-**想办法进入飞龙岩要塞**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中的一个[任务](Quest.md "任务")。当从[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")接近[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")大门时，即可开始此任务。
+**想办法进入飞龙岩要塞**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中的一个[任务](Quest.md "任务")。当从[飞龙关](Wyrm's_Crossing.md "飞龙关")接近[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")大门时，即可开始此任务。
 
 ## 目录
 

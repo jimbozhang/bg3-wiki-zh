@@ -1,6 +1,6 @@
 # 猛击 (酿酒僵尸)
 
-本文介绍的是 [残月酒厂](The_Waning_Moon.md "残月酒厂") 中僵尸使用的攻击版本。关于 [硬核](Tactician.md "硬核") 难度下使用的更强版本，请参见 [猛击 (酿酒僵尸, 硬核)](Slam_(Brewer_Zombie,_tactician).md)。其他用法，请参见 [猛击 (消歧义)](Slam_(disambiguation).md)。
+本文介绍的是 [残月酒厂](The_Waning_Moon.md "残月酒厂") 中僵尸使用的攻击版本。关于 [硬核](Tactician.md "硬核") 难度下使用的更强版本，请参见 [猛击 (酿酒僵尸, 硬核)](Slam_(Brewer_Zombie,_tactician).md)。其他用法，请参见 [猛击 （消歧义）](Slam_(disambiguation).md)。
 
 **猛击** 是 [残月酒厂](The_Waning_Moon.md "残月酒厂") 中 [僵尸](Zombie.md "僵尸") 使用的基础攻击。这是一种徒手近战攻击，会造成额外的 [黯蚀](Necrotic.md "黯蚀") 伤害。在 [硬核](Tactician.md "硬核") 难度下，此能力会被一个[更强版本](Slam_(Brewer_Zombie,_tactician).md)取代，该版本还能使目标[倒伏](Prone.md "Prone")。
 

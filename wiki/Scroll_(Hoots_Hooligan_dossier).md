@@ -1,6 +1,6 @@
 # 卷轴 (霍慈·霍利根档案)
 
-另请参阅：[卷轴 (消歧义)](Scroll_(disambiguation).md)
+另请参阅：[卷轴 （消歧义）](Scroll_(disambiguation).md)
 
 **卷轴**是一份关于[霍慈·霍利根](Hoots_Hooligan.md "霍慈·霍利根")的档案。
 

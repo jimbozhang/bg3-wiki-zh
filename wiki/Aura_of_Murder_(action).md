@@ -1,6 +1,6 @@
 # 谋杀灵光 (动作)
 
-另见：[谋杀灵光 (消歧义)](Aura_of_Murder_(disambiguation).md)
+另见：[谋杀灵光 （消歧义）](Aura_of_Murder_(disambiguation).md)
 
 **谋杀灵光** 是一个动作，使目标获得 [易伤](Vulnerability.md "易伤") 穿刺伤害，除非目标对该伤害 [抗性](Resistant.md "抗性") 或 [免疫](Immune.md "免疫")。
 

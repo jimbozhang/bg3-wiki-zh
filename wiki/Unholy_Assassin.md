@@ -92,7 +92,7 @@
 
 ## 相关文献
 
-- [A is for Azuth, and other Gods III](A_is_for_Azuth,_and_other_Gods_III.md "A is for Azuth, and other Gods III")
+- [《神祇歌 卷III》](A_is_for_Azuth,_and_other_Gods_III.md "《神祇歌 卷III》")
 - [有希望的候选人](A_Promising_Candidate.md "有希望的候选人")
 - [刺客的指令](Assassin's_Instructions.md "刺客的指令")
 - [《博德之门的巴尔神殿》](Baldur's_Gate_Temple_Of_Bhaal.md "《博德之门的巴尔神殿》")

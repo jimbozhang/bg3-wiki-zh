@@ -103,7 +103,7 @@ _更多完整背景故事请参见[沙洛佛克·安基夫](https://forgottenrea
 - [沙洛佛克之书的一页](A_page_from_Sarevok's_book.md "A page from Sarevok's book")
 - [巴尔余孽潜滋暗长](Bhaal_Cult_Resurgence.md "Bhaal Cult Resurgence")
 - [神经与精神障碍：论著](Disorders_of_the_Nerves_and_Mind_colon__A_Treatise.md "Disorders of the Nerves and Mind: A Treatise")
-- [钢铁王座的倾覆](Downfall_of_the_Iron_Throne.md "Downfall of the Iron Throne")
+- [钢铁王座的倾覆](Downfall_of_the_Iron_Throne.md "钢铁王座的倾覆")
 - [表面工作](Keeping_Up_Appearances.md "Keeping Up Appearances")
 - [沙洛佛克的信](Letter_from_Sarevok.md "Letter from Sarevok")
 - [我的死亡回忆录](Memoirs_of_My_Death.md "Memoirs of My Death")

@@ -611,7 +611,7 @@ _处理[尼娜·多特迈尔](../Nina_Dortmell.md "Nina Dortmell")和[墓穴主�
 
 **[巫术杂物店](../Sorcerous_Sundries.md "Sorcerous Sundries")**
 
-- 在入口附近，如果你向[阿拉丁](../Aradin_Beno.md "Aradin Beno")泄露你找到了暗夜之歌，告诉他她在你的营地里 (-1)
+- 在入口附近，如果你向[艾拉丁](../Aradin_Beno.md "Aradin Beno")泄露你找到了暗夜之歌，告诉他她在你的营地里 (-1)
 
 _与[洛若坎](../Lorroakan.md "Lorroakan")和[艾琳女士](../Dame_Aylin.md "Dame Aylin")对峙：_
 

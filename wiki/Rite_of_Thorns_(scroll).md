@@ -1,6 +1,6 @@
 # 荆棘仪式 (卷轴)
 
-另请参阅：[荆棘仪式 (消歧义)](Rite_of_Thorns_(disambiguation).md)
+另请参阅：[荆棘仪式 （消歧义）](Rite_of_Thorns_(disambiguation).md)
 
 **荆棘仪式**是一份描述德鲁伊仪式的卷轴。
 

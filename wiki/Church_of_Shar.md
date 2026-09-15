@@ -140,7 +140,7 @@
 
 ## 相关文献
 
-- [A is for Azuth, and other Gods XI](A_is_for_Azuth,_and_other_Gods_XI.md "A is for Azuth, and other Gods XI")
+- [《神祇歌 卷XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《神祇歌 卷XI》")
 - [遗落日志](Abandoned_Journal_(Gauntlet_of_Shar).md "遗落日志 (莎尔铁手神殿)")
 - [赦免任性之心](Absolving_the_Wayward_Heart.md "赦免任性之心")
 - [《公开的异端》](An_Open_Heresy.md "《公开的异端》")

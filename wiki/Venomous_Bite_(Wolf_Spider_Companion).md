@@ -1,6 +1,6 @@
 # 猛毒之噬 (狼蛛伙伴)
 
-另请参阅：[猛毒之噬 (消歧义)](Venomous_Bite_(disambiguation).md)
+另请参阅：[猛毒之噬 （消歧义）](Venomous_Bite_(disambiguation).md)
 
 **猛毒之噬**是[狼蛛伙伴](Wolf_Spider_Companion.md "狼蛛伙伴")的[动作](Actions.md "动作")。蜘蛛使用此能力进行近战攻击，对敌人造成穿刺伤害并可能使其[中毒](Poisoned_(Condition).md "中毒 (状态)")。
 

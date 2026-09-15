@@ -28,7 +28,7 @@
 
 由以下生物使用：
 
-- [布拉迪斯](Bradi'ith.md "布拉迪斯")、[哈拉克](Har'rak.md "哈拉克")、[马阿萨尔](Ma'athal.md "马阿萨尔")、[沃斯](Voss.md "沃斯")
+- [布拉迪斯](Bradi'ith.md "布拉迪斯")、[哈’拉克](Har'rak.md "哈’拉克")、[马阿萨尔](Ma'athal.md "马阿萨尔")、[沃斯](Voss.md "沃斯")
 
 ## 注释
 

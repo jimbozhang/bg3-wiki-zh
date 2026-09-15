@@ -1,6 +1,6 @@
 # 卷轴 (艾薇娜档案)
 
-另请参阅：[卷轴 (消歧义)](Scroll_(disambiguation).md)
+另请参阅：[卷轴 （消歧义）](Scroll_(disambiguation).md)
 
 **卷轴**是一份关于[艾薇娜](Edwynna.md "艾薇娜")的档案。
 

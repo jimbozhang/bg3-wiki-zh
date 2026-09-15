@@ -1,6 +1,6 @@
 # 羊皮卷 (迦纳斯夫人的宅邸)
 
-另请参阅：[羊皮卷 (消歧义)](Parchment_(disambiguation).md)
+另请参阅：[羊皮卷 （消歧义）](Parchment_(disambiguation).md)
 
 **羊皮卷**是秘术师卡里翁试图引诱另一位顾客的便条。
 

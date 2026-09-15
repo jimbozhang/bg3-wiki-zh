@@ -4,7 +4,7 @@
 | --- | --- |
 | 谋杀灵光 | 受影响实体对 ⁠[穿刺](Piercing.md "穿刺") 伤害[易伤](Vulnerable.md "易伤")。 |
 
-另请参阅：[谋杀灵光 (消歧义)](Aura_of_Murder_(disambiguation).md)
+另请参阅：[谋杀灵光 （消歧义）](Aura_of_Murder_(disambiguation).md)
 
 **谋杀灵光**
 

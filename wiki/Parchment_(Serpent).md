@@ -1,6 +1,6 @@
 # 羊皮卷 (蛇形)
 
-另见：[羊皮卷 (消歧义)](Parchment_(disambiguation).md)
+另见：[羊皮卷 （消歧义）](Parchment_(disambiguation).md)
 
 **羊皮卷 (渥金的休眠地)** 被标记了 [散塔林会](Zentharim.md "散塔林会") 的符号。
 

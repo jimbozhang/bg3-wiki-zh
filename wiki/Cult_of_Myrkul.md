@@ -34,7 +34,7 @@
 
 ## 相关文献
 
-- [A is for Azuth, and other Gods IX](A_is_for_Azuth,_and_other_Gods_IX.md "A is for Azuth, and other Gods IX")
+- [《神祇歌 卷IX》](A_is_for_Azuth,_and_other_Gods_IX.md "《神祇歌 卷IX》")
 - [死亡与神性：神明指南](Death_&_Divinity_colon__A_Godly_Guide.md "死亡与神性：神明指南")
 - [有效的大脑切除术](Efficacious_Brain_Removal.md "有效的大脑切除术")
 

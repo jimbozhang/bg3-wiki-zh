@@ -1,6 +1,6 @@
 # 羊皮卷 (下城区下水道)
 
-另请参阅：[羊皮卷 (消歧义)](Parchment_(disambiguation).md)
+另请参阅：[羊皮卷 （消歧义）](Parchment_(disambiguation).md)
 
 **羊皮卷 (下城区下水道)** 是一封来自走私者的信件。
 

@@ -68,8 +68,8 @@ _**注：** 招募本身不会给予额外的好感度_
 
 _在[林地深处](../The_Hollow.md "The Hollow")：_
 
-- 说服[阿拉丁](../Aradin_Beno.md "Aradin Beno")和[赛夫洛](../Zevlor.md "Zevlor")停止争吵，且不殴打任何一方（使用[游说](../Persuasion.md "Persuasion")或[威吓](../Intimidation.md "Intimidation")）（+1）
-  - 或者在阿拉丁与赛夫洛争吵时打阿拉丁一拳（+1）
+- 说服[艾拉丁](../Aradin_Beno.md "Aradin Beno")和[赛夫洛](../Zevlor.md "Zevlor")停止争吵，且不殴打任何一方（使用[游说](../Persuasion.md "Persuasion")或[威吓](../Intimidation.md "Intimidation")）（+1）
+  - 或者在艾拉丁与赛夫洛争吵时打艾拉丁一拳（+1）
 - 向赛夫洛承诺你会与[卡加](../Kagha.md "Kagha")谈谈停止仪式的事（+5）_（无论是在入口处的场景后还是在他的洞穴中）_
 - 告诉[阿尔卡](../Arka.md "Arka")为[卡农](../Kanon.md "Kanon")的死寻求复仇（+1）_（如果[梅姆诺斯](../Memnos.md "Memnos")也死了，此选项同样可用并给予好感度；[邪念](../Haunted_One.md "Haunted One")角色有独特台词，但仅在[梅姆诺斯](../Memnos.md "Memnos")死亡时获得好感度）_
 - 在林地深处招募威尔时，提议一起猎杀魔鬼（即[卡菈克](../Karlach.md "Karlach")）（+5）
@@ -77,7 +77,7 @@ _在[林地深处](../The_Hollow.md "The Hollow")：_
   - 帮助格克斯训练后，告诉他不要喊出他的招式（+1）
 - 与[佐鲁](../Zorru.md "Zorru")交谈时，命令[莱埃泽尔](../Lae'zel.md "Lae'zel")退下（+1）_（对[邪念](../Haunted_One.md "Haunted One")角色不增加好感度）_
 - 扮演[圣武士](../Paladin.md "Paladin")、[德鲁伊](../Druid.md "Druid")、[牧师](../Cleric.md "Cleric")或[吟游诗人](../Bard.md "Bard")时，向[潘迪尔娜](../Pandirna.md "Pandirna")提出免费治疗她（+1）
-- 扮演[坦帕斯](../Tempus.md "Tempus")的[牧师](../Cleric.md "Cleric")，在与阿拉丁交谈后，告诉[雷米拉](../Remira.md "Remira")说[利亚姆](../Liam.md "Liam")在战士安息所赢得了一席之地（+1）
+- 扮演[坦帕斯](../Tempus.md "Tempus")的[牧师](../Cleric.md "Cleric")，在与艾拉丁交谈后，告诉[雷米拉](../Remira.md "Remira")说[利亚姆](../Liam.md "Liam")在战士安息所赢得了一席之地（+1）
 - 让阿尔卡射杀[萨扎](../Sazza.md "Sazza")（+1）
 - 与[罗兰](../Rolan.md "Rolan")谈论他的法师导师[洛罗坎](../Lorroakan.md "Lorroakan")，并同意安排介绍（+1）_（仅当[盖尔](../Gale.md "Gale")**在**队伍中时有效）_
 - 与[马蒂斯](../Mattis.md "Mattis")交谈/交易时，抓住[西尔菲](../Silfy.md "Silfy")试图偷窃你，并告诉她放松（+1）_（需要被动[察觉](../Perception.md "Perception")检定，可选[洞察](../Insight.md "Insight")检定）_
@@ -131,9 +131,9 @@ _在[蔓生地道](../Overgrown_Tunnel.md "Overgrown Tunnel")中：_
 #### [森林](../Forest.md "Forest")、[枭熊巢穴](../Owlbear_Nest.md "Owlbear Nest") 和 [染疫村落](../Blighted_Village.md "Blighted Village")
 
 - 告诉[斯克里奇](../Scratch.md "Scratch")跟随你的气味到营地，使用[动物交谈](../Speak_with_Animals.md "Speak with Animals")（+1）
-- 扮演[海姆](../Helm_(God).md)、[伊尔马特](../Ilmater.md "Ilmater")、[欧格玛](../Oghma.md "Oghma")、[塞伦涅](../Sel%C3%BBne.md "Selûne")、[坦帕斯](../Tempus.md "Tempus")或[泰尔](../Tyr.md "Tyr")的[牧师](../Cleric.md "Cleric")时，在通往[染疫村落](../Blighted_Village.md "Blighted Village")的桥边与阿拉丁交谈时，为尸体祈祷（+1）
+- 扮演[海姆](../Helm_(God).md)、[伊尔马特](../Ilmater.md "Ilmater")、[欧格玛](../Oghma.md "Oghma")、[塞伦涅](../Sel%C3%BBne.md "Selûne")、[坦帕斯](../Tempus.md "Tempus")或[泰尔](../Tyr.md "Tyr")的[牧师](../Cleric.md "Cleric")时，在通往[染疫村落](../Blighted_Village.md "Blighted Village")的桥边与艾拉丁交谈时，为尸体祈祷（+1）
 
-_**注：** 此场景仅在阿拉丁先前已离开林地时出现。其他神祇的牧师有独特的职业台词，但使用它们不会获得好感度_
+_**注：** 此场景仅在艾拉丁先前已离开林地时出现。其他神祇的牧师有独特的职业台词，但使用它们不会获得好感度_
 
 - 在杀死母亲[枭熊](../Owlbear.md "Owlbear")后，饶恕[枭熊幼崽](../Owlbear_Cub.md "Owlbear Cub")（+1）
 
@@ -541,7 +541,7 @@ _在[月出之塔监狱](../Moonrise_Towers_Prison.md "Moonrise Towers Prison")�
 
 _月出之塔内的其他地方：_
 
-- 告诉[阿拉吉·奥布洛德拉](../Araj_Oblodra.md "Araj Oblodra")阿斯代伦是他自己的人（+1）
+- 告诉[阿拉吉·欧布罗扎](../Araj_Oblodra.md "Araj Oblodra")阿斯代伦是他自己的人（+1）
   - 当阿斯代伦拒绝咬阿拉吉时，为他说话（+1）
   - 或者当阿拉吉要求你让他同意时，告诉阿斯代伦他不想做的事就不做（+1）
 - 在凯瑟里克的房间遇见[侍从](../Squire.md "Squire")时，通过任何方式驯服它，然后伸手抚摸它（无需[动物交谈](../Speak_with_Animals.md "Speak with Animals")）（+1）

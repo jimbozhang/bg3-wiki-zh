@@ -60,7 +60,7 @@
 
 - 5
 
-**拳头草地**是一名[矮人](Dwarf.md "矮人")[战士](Fighter.md "战士")，也是[焰拳](Flaming_Fist.md "焰拳")的成员。他可以在[第三幕](Act_Three.md "第三幕")的[飞龙岩要塞](Wyrm's_Crossing.md "飞龙岩要塞")找到。
+**拳头草地**是一名[矮人](Dwarf.md "矮人")[战士](Fighter.md "战士")，也是[焰拳](Flaming_Fist.md "焰拳")的成员。他可以在[第三幕](Act_Three.md "第三幕")的[飞龙关](Wyrm's_Crossing.md "飞龙关")找到。
 
 > “
 >

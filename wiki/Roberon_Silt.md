@@ -5,7 +5,7 @@
 | 身份 | 男性 |
 | 声音 / 演员 | [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
 | 角色 | [商人](Trader.md "Trader") |
-| 家乡 | [飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing"), [博德之门](Baldur's_Gate.md "Baldur's Gate") |
+| 家乡 | [飞龙关](Wyrm's_Crossing.md "飞龙关"), [博德之门](Baldur's_Gate.md "Baldur's Gate") |
 | 体型 | [中级](Medium.md "Medium") |
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
@@ -33,9 +33,9 @@
 
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing"), [博德之门](Baldur's_Gate.md "Baldur's Gate")
+[飞龙关](Wyrm's_Crossing.md "飞龙关"), [博德之门](Baldur's_Gate.md "Baldur's Gate")
 
-**罗伯逊·司尔特**是[飞龙岩要塞](Wyrm's_Crossing.md "Wyrm's Crossing")的一位商人，出现在[第三幕](Act_Three.md "Act Three")。
+**罗伯逊·司尔特**是[飞龙关](Wyrm's_Crossing.md "飞龙关")的一位商人，出现在[第三幕](Act_Three.md "Act Three")。
 
 > “
 >

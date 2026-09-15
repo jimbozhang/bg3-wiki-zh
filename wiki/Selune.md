@@ -18,7 +18,7 @@
 >
 > „
 
-— [《阿祖斯及其他神祇 XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《阿祖斯及其他神祇 XI》")
+— [《神祇歌 卷XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《神祇歌 卷XI》")
 
 ## 概述
 
@@ -73,7 +73,7 @@
 
 ## 相关文献
 
-- [《阿祖斯及其他神祇 XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《阿祖斯及其他神祇 XI》")
+- [《神祇歌 卷XI》](A_is_for_Azuth,_and_other_Gods_XI.md "《神祇歌 卷XI》")
 - [《公开的异端》](An_Open_Heresy.md "《公开的异端》")
 - [古代塞伦涅信徒日志](Ancient_Sel%C3%BBnite_Journal.md "古代塞伦涅信徒日志")
 - [受损的日志](Damaged_Journal.md "受损的日志")

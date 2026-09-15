@@ -346,7 +346,7 @@
 
 - [克雷斯卡的恩惠](Kereska's_Favour.md "Kereska's Favour")
 
-- [卡利德的礼物：支援术](Khalid's_Gift_colon__Aid.md "Khalid's Gift: Aid")
+- [卡利德的礼物：协助](Khalid's_Gift_colon__Aid.md "卡利德的礼物：协助")
 
 - [麻痹射线](Paralyzing_Ray.md "Paralyzing Ray")
 

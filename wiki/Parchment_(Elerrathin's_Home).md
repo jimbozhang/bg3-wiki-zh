@@ -1,6 +1,6 @@
 # 羊皮卷 (戈尔布雷斯之家)
 
-另请参阅：[羊皮卷 (消歧义)](Parchment_(disambiguation).md)
+另请参阅：[羊皮卷 （消歧义）](Parchment_(disambiguation).md)
 
 **羊皮卷**是[贾希拉](Jaheira.md "贾希拉")离开队伍时留下的一封信。
 
