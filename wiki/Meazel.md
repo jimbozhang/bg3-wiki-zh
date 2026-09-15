@@ -10,7 +10,7 @@
 | 先攻 | +4 |
 | 移动速度 | 9 米 (30 英尺) |
 
-**鬼魊**是[类人生物](Humanoid.md "类人生物")，在[第二幕](Act_Two.md "第二幕")中出现的[非可玩种族](Non-playable_race.md "非可玩种族")。它们通过[绞杀术](Garrotte_(Meazel).md "绞杀术 (鬼魊)")束缚受害者，并将他们[传送](Teleport.md "传送")到[幽影诅咒](Shadow_Curse.md "幽影诅咒")深处进行攻击。
+**鬼魊**是[类人生物](Humanoid.md "类人生物")，在[第二幕](Act_Two.md "第二幕")中出现的[非可玩种族](Non-playable_race.md "非可玩种族")。它们通过[绞杀术](Garrotte_(Meazel).md "绞杀术 (鬼魊)")束缚受害者，并将他们[传送](Medium.md "传送")到[幽影诅咒](Shadow_Curse.md "幽影诅咒")深处进行攻击。
 
 > “
 >

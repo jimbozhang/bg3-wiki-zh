@@ -14,7 +14,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 20 |
 
-**埃拉尔**是正在[翠绿林地](Emerald_Grove.md "Emerald Grove")进行[荆棘仪式](Rite_of_Thorns_(ritual)的德鲁伊之一.md)。
+**埃拉尔**是正在[翠绿林地](Emerald_Grove.md "Emerald Grove")进行[荆棘仪式](Rite_of_Thorns_(ritual).md)的德鲁伊之一。
 
 > “
 >

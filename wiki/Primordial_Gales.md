@@ -15,7 +15,7 @@
 2d6⁠[闪电](Lightning.md "闪电")
 
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功时：目标仍承受一半伤害）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功时：目标仍承受一半伤害）
 范围：自身
 范围效果：4米（13英尺）半径
 目标：半径内所有其他生物
@@ -26,7 +26,7 @@
 
 持续时间：2驱散
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 无法进行[反应](Reaction.md "反应")，且在使用[敏捷](Dexterity.md "敏捷")进行的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
@@ -36,7 +36,7 @@
 
 ## 备注
 
-- 风元素的[法术豁免DC](Spell_save_DC.md "法术豁免DC")基于智力，其调整值为-2。默认情况下，DC为10。
+- 风元素的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")基于智力，其调整值为-2。默认情况下，DC为10。
 - 此攻击也会击中范围内的任何队伍成员或盟友。
 
 ---

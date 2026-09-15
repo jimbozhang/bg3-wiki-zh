@@ -88,7 +88,7 @@
 ### 第三幕
 
 - 在 [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") 的 "[德里布斯](Dribbles.md "德里布斯")" 表演结束时，除非通过被动 [察觉技能](Perception.md "察觉技能") 检定注意到伏击，否则队伍成员会受惊，此时伏击者反而会受惊。
-- 在 [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") 的 [恩萨尔的地下室](Entharl's_basement.md "恩萨尔的地下室") 中，为完成 [高阶竖琴手](The_High_Harper.md "高阶竖琴手") 任务，可以与一群伪装成竖琴手的 [变形怪](Doppelganger.md "变形怪") 对话。对话检定和选择的组合可能导致队伍成员或伏击者受惊。
+- 在 [丹瑟隆的飞斧](Danthelon's_Dancing_Axe.md "丹瑟隆的飞斧") 的 恩萨尔的地下室 中，为完成 [高阶竖琴手](The_High_Harper.md "高阶竖琴手") 任务，可以与一群伪装成竖琴手的 [变形怪](Doppelganger.md "变形怪") 对话。对话检定和选择的组合可能导致队伍成员或伏击者受惊。
 
 ---
 *Source: [Surprised (Condition)](https://bg3.wiki/wiki/Surprised_(Condition)*

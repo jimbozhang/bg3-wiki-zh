@@ -1,6 +1,6 @@
 # 拯救奥林的受害者
 
-**拯救奥林的受害者**是[博德之门3](Baldur's Gate_3.md "博德之门3")第三幕中[任务](Quest.md "任务")⁠[拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")的一个子任务。在进入[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")并长休后，或首次进入下水道时自动触发。
+**拯救奥林的受害者**是[博德之门3](Baldur's_Gate_3.md "博德之门3")第三幕中[任务](Quest.md "任务")⁠[拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")的一个子任务。在进入[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")并长休后，或首次进入下水道时自动触发。
 
 ## 目录
 

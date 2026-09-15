@@ -1,6 +1,6 @@
 # 爬行者粘液 (云)
 
-**爬行者粘液**是一种[云](Cloud.md "云")，会使陷入其中的生物[中毒](Poisoned_(Condition).md "中毒 (状态)")并[失能](Incapacitate.md "失能")。
+**爬行者粘液**是一种[云](Cloud.md "云")，会使陷入其中的生物[中毒](Poisoned_(Condition).md "中毒 (状态)")并[失能](Cloud.md "失能")。
 
 ## 描述
 

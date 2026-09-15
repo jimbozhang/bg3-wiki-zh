@@ -213,7 +213,7 @@
 
 - [树肤术](Barkskin.md "树肤术") * [高级黑暗视觉](Darkvision_(spell).md "高级黑暗视觉（法术）")
 - [炽焰法球](Flaming_Sphere.md "炽焰法球") * [造风术](Gust_of_Wind.md "造风术")
-- [灼热金属](Heat_Metal.md "灼热金属") *[人类定身术](Hold_Person.md "人类定身术")* [恢复](Lesser_Restoration.md "恢复")
+- [灼热金属](Heat_Metal.md "灼热金属") *[人类定身术](Hold_Person.md "人类定身术")* [次级复原术](Lesser_Restoration.md "恢复")
 
 ### 等级 4
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-[蕈人王格拉特](Sovereign_Glut.md "Sovereign Glut") 可以对处于[倒伏](Prone_(Condition).md "倒伏（状态）") 状态的目标使用[多重攻击](Multiattack_(Glut).md "多重攻击（格拉特）")。
+[蕈人王格拉特](Glut.md "Sovereign Glut") 可以对处于[倒伏](Prone_(Condition).md "倒伏（状态）") 状态的目标使用[多重攻击](Multiattack_(Glut).md "多重攻击（格拉特）")。
 
 ## 学习方式
 

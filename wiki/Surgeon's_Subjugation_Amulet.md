@@ -15,7 +15,7 @@
 此物品的佩戴者获得：
 
 [麻痹重击](Paralysing_Critical.md "麻痹重击")
-每[长休](Long_Rest.md "Long Rest")一次，当对一个[类人生物](List_of_creature_types.md#Humanoid "生物类型列表")造成[重击](Critical_Hit.md "Critical Hit")时，佩戴者可使目标[麻痹](Paralysed_(Condition).md "麻痹（状态）")2[驱散](Turn.md "Turn")。（充能：[长休](Long_Rest.md "长休")。）
+每[长休](Long_Rest.md "Long Rest")一次，当对一个[类人生物](List_of_creature_types.md#Humanoid "生物类型列表")造成[重击](Critical_Hit.md "Critical Hit")时，佩戴者可使目标[麻痹](Paralysed_(Condition).md "麻痹（状态）")2[驱散](Turned_(Condition).md "Turn")。（充能：[长休](Long_Rest.md "长休")。）
 
 ## 获取地点
 

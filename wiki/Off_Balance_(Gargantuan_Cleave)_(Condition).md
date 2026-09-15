@@ -1,6 +1,6 @@
 # 失衡 (巨像切割者) (状态)
 
-_此页面介绍由[巨像切割者](Gargantuan_Cleave.md "巨像切割者")武器动作施加的状态。关于其他失衡状态，请参见[此处](Off_Balance_(Condition)_.md)。
+_此页面介绍由[巨像切割者](Gargantuan_Cleave.md "巨像切割者")武器动作施加的状态。关于其他失衡状态，请参见[此处](Gargantuan_Cleave.md)。
 
 **失衡**
 
@@ -10,7 +10,7 @@ _此页面介绍由[巨像切割者](Gargantuan_Cleave.md "巨像切割者")武�
 
 **[倒伏](Prone_(Condition).md "倒伏 (状态)")**
 
-持续时间：1[驱散](Turn.md "驱散")
+持续时间：1[驱散](Turned_(Condition).md "驱散")
 
 [力量](Strength.md "力量")[豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 8）
 

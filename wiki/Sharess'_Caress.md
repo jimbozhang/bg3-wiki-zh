@@ -69,7 +69,7 @@
 
 此外，在与索斯曼·乔瑞佐以及伊伦亚和她的客户交谈时，可能会获得一些好感/反感。乔瑞佐可以作为商人，出售一些[营地补给](Camp_supplies.md "营地补给")。他对那些经常把他的厨房当作另一个主题游戏室的顾客感到非常恼火。在附近的地窖（锁定并显示红色轮廓）中，队伍可以遇到一位具有革命思想的[老鼠](Rat_(albino).md "老鼠（白化病）")，它热衷于为它的兄弟姐妹觅食。
 
-附近，可以找到[埃尔斯邦](Earspoon.md "埃尔斯邦")（利文顿老鼠帮成员）和[博格斯·阿拉明](Borgus_Elamin.md "博格斯·阿拉明")（散塔林会特工），他们正在喝酒并讨论[九指基恩](Nine-Fingers_Keene.md "九指基恩")和[公会](The_Guild.md "公会")的事务。与他们互动可以开始或推进[协助地下势力](Aid_the_Underduke.md#Sharess'_Caress "协助地下势力")任务；队伍成员进行被动DC 15的[历史的](History.md "历史的")[属性检定](Ability_Check.md "属性检定")，然后必须通过DC 15的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")。
+附近，可以找到[埃尔斯邦](Earspoon.md "埃尔斯邦")（利文顿老鼠帮成员）和[博格斯·阿拉明](Borgus_Elamin.md "博格斯·阿拉明")（散塔林会特工），他们正在喝酒并讨论[九指基恩](Nine-Fingers_Keene.md "九指基恩")和[公会](The_Guild.md "公会")的事务。与他们互动可以开始或推进[协助地下势力](Aid_the_Underduke.md#Sharess'_Caress "协助地下势力")任务；队伍成员进行被动DC 15的[历史](History.md "历史")[属性检定](Ability_Check.md "属性检定")，然后必须通过DC 15的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")。
 
 在帘子后面的音乐厅里，队伍可以发现[掠夺者女王罗尔](Rhol.md "掠夺者女王罗尔")在舞台上随着[沙波先生](Chapeau.md "沙波先生")的音乐跳舞，以及卓尔双胞胎[索恩·奥里斯](Sorn_Orlith.md "索恩·奥里斯")和[尼姆·奥里斯](Nym_Orlith.md "尼姆·奥里斯")。
 

@@ -80,7 +80,7 @@
 |
 
 - 受影响实体维持法术的能力得到提升。
-- 对抗[魅惑](Charmed_(status_group)和维.md)持[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
+- 对抗[魅惑](Charmed_(status_group).md)和维持[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 - 不可被[沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
 [巨像灵药](Elixir_of_The_Colossus_(Condition).md "巨像灵药 (状态)")

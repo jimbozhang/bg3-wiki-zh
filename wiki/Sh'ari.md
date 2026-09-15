@@ -442,7 +442,7 @@ Stats
 
 - [吉姆尔](G'imre.md "G'imre")
 - [基拉尔](K'i'lar.md "K'i'lar")
-- [利尔克](Lir'i'c.md "Lir'i'c")
+- [高级教士里'瑞克](Lir'i'c.md "高级教士里'瑞克")
 - [米海克](M'i'hayk.md "M'i'hayk")
 - [米尔克](Mir'ic.md "Mir'ic")
 - [维里克](Verik.md "Verik")

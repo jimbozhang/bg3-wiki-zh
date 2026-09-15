@@ -68,7 +68,7 @@
 
 此生物已死亡。
 
-**竖琴手光焰**<sup>[\[1\]](#cite_note-1)</sup> 是一名已故的[黄金矮人](Gold_Dwarf.md "黄金矮人")[竖琴手](Harper.md "竖琴手")，其尸体可在[幽影诅咒之地](Shadow_Cursed_Lands.md "幽影诅咒之地")的 X: 92 Y: 107 处找到，靠近[往日身影](He_Who_Was.md "往日身影")。他和另外两名竖琴手<sup>[\[2\]](#cite_note-2)</sup> 一起进行了一次侦察远征，以探查[幽影诅咒](Shadow_Curse.md "幽影诅咒")的边界，但最终在返回[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")之前迷路并被诅咒吞噬。
+**竖琴手光焰**<sup>[\[1\]](#cite_note-1)</sup> 是一名已故的[黄金矮人](Gold_Dwarf.md "黄金矮人")[竖琴手](Harper.md "竖琴手")，其尸体可在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")的 X: 92 Y: 107 处找到，靠近[往日身影](He_Who_Was.md "往日身影")。他和另外两名竖琴手<sup>[\[2\]](#cite_note-2)</sup> 一起进行了一次侦察远征，以探查[幽影诅咒](Shadow_Curse.md "幽影诅咒")的边界，但最终在返回[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")之前迷路并被诅咒吞噬。
 
 ## 目录
 

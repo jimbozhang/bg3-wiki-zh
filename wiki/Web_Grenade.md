@@ -15,7 +15,7 @@
 
 [动作](Actions.md#Resources "动作")
 
-- 投掷后爆炸成一团纠缠的乱麻，使范围内的生物[网缚](Enweb.md "网缚")
+- 投掷后爆炸成一团纠缠的乱麻，使范围内的生物[网缚](Enwebbed_(Condition).md "网缚")
   - 范围：18 米（60 英尺）
   - 创建区域：蛛网
 
@@ -27,7 +27,7 @@
 
 范围效果：3 米（10 英尺）半径
 
-[劣势地形](Difficult_Terrain.md "劣势地形") - [移动速度](Movement_speed.md "移动速度")减半。可使生物[网缚](Enweb.md "网缚")。防止[坠落伤害](Falling_damage.md "坠落伤害")。可燃。
+[劣势地形](Difficult_Terrain.md "劣势地形") - [移动速度](Movement_speed.md "移动速度")减半。可使生物[网缚](Movement_speed.md "网缚")。防止[坠落伤害](Falling_damage.md "坠落伤害")。可燃。
 
 类型：[地表](Area.md#Surface "地表")
 

@@ -2,7 +2,7 @@
 
 **巨人之怒**
 
-- 处于[狂暴](Rage_(Condition).md "狂暴 (状态)")状态并体型增大。近战和[即兴武器](Improvised_Weapon.md "即兴武器")、[徒手打击](Unarmed_Strike.md "徒手打击")造成额外2点伤害（9级时增至3点），投掷物体时造成额外4点伤害（9级时增至6点）。
+- 处于[狂暴](Rage_(Condition).md "狂暴 (状态)")状态并体型增大。近战和[即兴武器](Rage_(Condition).md "即兴武器")、[徒手打击](Unarmed_Strike.md "徒手打击")造成额外2点伤害（9级时增至3点），投掷物体时造成额外4点伤害（9级时增至6点）。
 - 同时获得对[物理](Physical.md "物理")伤害的[抗性](Resistance.md "抗性")，以及在力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 - [体型](Size.md "体型")增大一级。
 - 无法施放或专注[法术](Spells.md "法术")。

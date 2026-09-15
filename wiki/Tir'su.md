@@ -1,6 +1,6 @@
 # 吉斯洋基石板
 
-注意不要与[吉斯洋基石板（物品）](Githyanki_Slate_(item)混淆.md)
+注意不要与[吉斯洋基石板（物品）](Githyanki_Slate_(item).md)混淆
 
 吉斯洋基雕刻圆盘
 
@@ -34,7 +34,7 @@
 - 获得[《提尔苏密码的谨慎艺术》](The_Careful_Art_of_Tir'su_Ciphers.md "提尔苏密码的谨慎艺术")
 - 获得第二部，可以用来代替密码
 - 通过 DC 20 的[调查](Investigation.md "调查")[属性检定](Ability_Check.md "属性检定")
-- 通过 DC 12 的[历史的](History.md "历史的")[属性检定](Ability_Check.md "属性检定")并具有[优势](Advantage.md "优势")——仅限吉斯洋基人<sup>[\[4\]](#cite_note-4)</sup>
+- 通过 DC 12 的[历史](History.md "历史")[属性检定](Ability_Check.md "属性检定")并具有[优势](Advantage.md "优势")——仅限吉斯洋基人<sup>[\[4\]](#cite_note-4)</sup>
 
 ## 雕刻石板
 

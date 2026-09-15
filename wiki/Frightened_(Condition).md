@@ -1,6 +1,6 @@
 # 恐慌（状态）
 
-注意不要与[恐惧（状态）](Fearful_(Condition)混淆.md)
+注意不要与[恐惧（状态）](Fearful_(Condition).md)混淆
 
 **恐慌**
 

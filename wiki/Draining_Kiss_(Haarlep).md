@@ -15,7 +15,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：9米（30英尺）
 
 ## 状态：极乐汲取
@@ -24,7 +24,7 @@
 
 持续时间：10 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响实体的生命力已被梦魔汲取，其最大 [生命值](Hit_Points.md "生命值") 降低 30 [生命值](Hit_Points.md "生命值")。
 

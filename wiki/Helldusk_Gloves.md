@@ -20,7 +20,7 @@
 以戏法形式施放（充能：[短休](Short_rest.md "短休")。）
 
 [地狱之锐利](Infernal_Acuity.md "地狱之锐利")
-你获得 +1 [法术攻击掷骰](Spell_Attack_Roll.md "法术攻击掷骰") 和 [法术豁免DC](Spell_save_DC.md "法术豁免DC") 加成。
+你获得 +1 [法术攻击掷骰](Spell_Attack_Roll.md "法术攻击掷骰") 和 [法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级") 加成。
 
 [地狱之触](Infernal_Touch.md "地狱之触")
 你的武器攻击造成额外 1d6⁠⁠[火焰](Fire.md "火焰") 伤害。你的徒手攻击造成额外 1d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害，并可能施加[流血](Bleeding_(Condition).md "流血 (状态)")。

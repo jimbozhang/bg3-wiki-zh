@@ -15,7 +15,7 @@
 消耗
 [动作](Actions.md#Resources "Actions") + [6级法术位](Spells.md#Spell_slots "Spells")
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 射程：18米（60英尺）
 [专注](Concentration.md "Concentration")
 
@@ -38,7 +38,7 @@
 
 持续时间：永久
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 变为石头。无法移动或执行[动作](Actions.md#Resources "Actions")、[附赠动作](Actions.md#Resources "Actions")或[反应](Actions.md#Reactions "Actions")。
 

@@ -32,13 +32,13 @@ X: -53 Y: -391
 
 ## 营地
 
-- 此武器对[吉斯洋基人](Githyanki.md "吉斯洋基人")、[异怪](Aberration.md "异怪")、[邪魔](Fiend.md "邪魔")和[元素生物](Elemental.md "元素生物")的伤害和[攻击检定](Attack_roll.md "攻击检定")提供+1d4加值。
+- 此武器对[吉斯洋基人](Githyanki.md "吉斯洋基人")、[异怪](Aberration.md "异怪")、[邪魔](Fiend.md "邪魔")和[元素生物](Elemental.md "元素生物")的伤害和[攻击掷骰](Attack_roll.md "攻击掷骰")提供+1d4加值。
 
 [激愤斩](Wrathful_Smite.md "激愤斩") (+ )
 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）
 | 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
-| 沃斯的银剑 | 此武器对[吉斯洋基人](Githyanki.md "吉斯洋基人")、[异怪](Aberration.md "异怪")、[邪魔](Fiend.md "邪魔")和[元素生物](Elemental.md "元素生物")的伤害和[攻击检定](Attack_roll.md "攻击检定")提供+1d4加值。[激愤斩](Wrathful_Smite.md "激愤斩") ( + ) 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 由[凯斯拉克百夫长沃斯](Kith'rak_Voss.md "凯斯拉克百夫长沃斯")在[第一幕](Act_One.md "第一幕")访问营地时携带 | [营地（第一幕）](Campsite_(Act_One).md "营地（第一幕）") |
+| 沃斯的银剑 | 此武器对[吉斯洋基人](Githyanki.md "吉斯洋基人")、[异怪](Aberration.md "异怪")、[邪魔](Fiend.md "邪魔")和[元素生物](Elemental.md "元素生物")的伤害和[攻击掷骰](Attack_roll.md "攻击掷骰")提供+1d4加值。[激愤斩](Wrathful_Smite.md "激愤斩") ( + ) 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 由[凯斯拉克百夫长沃斯](Kith'rak_Voss.md "凯斯拉克百夫长沃斯")在[第一幕](Act_One.md "第一幕")访问营地时携带 | [营地（第一幕）](Campsite_(Act_One).md "营地（第一幕）") |
 | 慈善外套 | 当你使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")激励盟友时，你获得4点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 | 完成任务[解救瓦罗](Rescue_Volo.md "解救瓦罗")时，从[地精营地](Goblin_Camp.md "地精营地")救出[瓦罗](Volo.md "瓦罗")的奖励 | [营地（第一幕）](Campsite_(Act_One).md "营地（第一幕）") |
 | 地狱长袍 | 获得对[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。[护甲等级](Armour_Class.md "护甲等级") +1 [火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖") 施放为4环法术（充能：[长休](Long_Rest.md "长休")。） | 由[米佐拉](Mizora.md "米佐拉")奖励 | [营地（第一幕）](Campsite_(Act_One).md "营地（第一幕）") |
 | 闪避之戒 | 当你[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")失败时，你可以使用你的[反应](Actions#Reactions.md#Reactions "动作")改为成功。 | 在完成[逃离鹦鹉螺](Escape_the_Nautiloid.md "逃离鹦鹉螺")任务后的第一次[长休](Long_Rest.md "长休")期间，由[塔拉](Tara.md "塔拉")给予（仅当选择[盖尔](Gale.md "盖尔")作为[出身](Origin.md "出身")时） | [营地（第一幕）](Campsite_(Act_One).md "营地（第一幕）") |
@@ -53,7 +53,7 @@ X: -290 Y: -235
 [钢铁卫士的指引](The_Watcher's_Guide.md "钢铁卫士的指引")
 |
 
-- 当矛未命中目标时，使用者对同一目标的下一次[攻击检定](Attack_roll.md "攻击检定")获得[真实打击](True_Strike_(Condition).md "真实打击（状态）")。
+- 当矛未命中目标时，使用者对同一目标的下一次[攻击掷骰](Attack_roll.md "攻击掷骰")获得[真实打击](True_Strike_(Condition).md "真实打击（状态）")。
 
 | 在被雕像和陷阱包围的石棺中 | [阴暗墓穴](Dank_Crypt.md "阴暗墓穴") |
 X: -293 Y: -323
@@ -69,7 +69,7 @@ X: 177 Y: 560
 [威能手套](Gloves_of_Power.md "威能手套")
 |
 
-- 武器攻击命中时，可能对目标的[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")施加**-1d4**减值。
+- 武器攻击命中时，可能对目标的[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")施加**-1d4**减值。
 
 - [巧手](Sleight_of_Hand.md "巧手") +1
 
@@ -85,26 +85,26 @@ X: 217 Y: 540
 [西凡那斯护符](Amulet_of_Silvanus.md "西凡那斯护符")
 |
 
-[恢复](Lesser_Restoration.md "恢复")
+[次级复原术](Lesser_Restoration.md "恢复")
 施放为2环法术（充能：[短休](Short_rest.md "短休")。）
 | 在熊[奥姆](Ormn.md "奥姆")附近，藏在一块需要移动的扁平岩石下 | [翠绿林地](Emerald_Grove.md "翠绿林地") |
 X: 262 Y: 481
 | 物品名称 | 物品效果 | 获取方式 | 地点 |
 | --- | --- | --- | --- |
 | +1胸甲 | 你受到的[穿刺](Piercing.md "穿刺")伤害减少1点。 | 在[戴摩](Dammon.md "戴摩")附近的板条箱上，位于[空谷](The_Hollow.md "空谷") | [翠绿林地](Emerald_Grove.md "翠绿林地") X: 177 Y: 560 |
-| 力量手套 | 武器攻击命中时，可能对目标的[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")施加-1d4减值。[巧手](Sleight_of_Hand.md "巧手") +1 | 由[扎'克鲁格](Za'krug.md "扎'克鲁格")携带，位于[德鲁伊圣所](Druid_Grove.md "德鲁伊圣所")门前 | [翠绿林地](Emerald_Grove.md "翠绿林地") X: 208 Y: 427 |
+| 力量手套 | 武器攻击命中时，可能对目标的[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")施加-1d4减值。[巧手](Sleight_of_Hand.md "巧手") +1 | 由[扎'克鲁格](Za'krug.md "扎'克鲁格")携带，位于[德鲁伊圣所](Druid_Grove.md "德鲁伊圣所")门前 | [翠绿林地](Emerald_Grove.md "翠绿林地") X: 208 Y: 427 |
 | 变形者的恩赐之戒 | 当变形或伪装自己时，所有[属性检定](Ability_Check.md "属性检定")获得+1d4加值。 | 由[古怪公牛](Strange_Ox.md "古怪公牛")携带，位于[德鲁伊圣所](Druid_Grove.md "德鲁伊圣所") | [翠绿林地](Emerald_Grove.md "翠绿林地") X: 217 Y: 540 |
-| 西凡那斯护符 | [恢复](Lesser_Restoration.md "恢复") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 在熊[奥姆](Ormn.md "奥姆")附近，藏在一块需要移动的扁平岩石下 | [翠绿林地](Emerald_Grove.md "翠绿林地") X: 262 Y: 481 |
+| 西凡那斯护符 | [次级复原术](Lesser_Restoration.md "恢复") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 在熊[奥姆](Ormn.md "奥姆")附近，藏在一块需要移动的扁平岩石下 | [翠绿林地](Emerald_Grove.md "翠绿林地") X: 262 Y: 481 |
 | 莉哈拉的鲁特琴 |  | 由[阿尔菲拉](Alfira.md "阿尔菲拉")在对话中给予。 | [翠绿林地](Emerald_Grove.md "翠绿林地") X: 283 Y: 496 |
 | 苍白橡木 | 德鲁伊藤蔓无法[缠绕](Entangled_(Condition).md "缠绕（状态）")你，也不算作劣势地形。[信仰守望者的藤蔓](Faithwarden's_Vines.md "信仰守望者的藤蔓") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 从[拉斯](Rath.md "拉斯")或[卡哈](Kagha.md "卡哈")处获得 | [内殿](Inner_Sanctum.md "内殿") X: -461 Y: -22 |
 | 巢穴之母的复仇 | 当穿戴者被治疗时，他们的武器会附魔，并额外造成1d6[中毒](Poison.md "中毒")伤害。 | 在[卡哈](Kagha.md "卡哈")的尸体上，位于[翠绿林地](Emerald_Grove.md "翠绿林地") | [内殿](Inner_Sanctum.md "内殿") X: -461 Y: -22 |
-| 轻声承诺 | 当你治疗一个生物时，它获得+1d4加值到[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")，持续2回合。 | 由[瓦罗](Volo.md "瓦罗")出售 | [圣池](Sacred_Pool.md "圣池") X: 260 Y: 510 |
+| 轻声承诺 | 当你治疗一个生物时，它获得+1d4加值到[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")，持续2回合。 | 由[瓦罗](Volo.md "瓦罗")出售 | [圣池](Sacred_Pool.md "圣池") X: 260 Y: 510 |
 | 科米拉的护符 | [舞光术](Dancing_Lights.md "舞光术") 施放为戏法（充能：每回合。） | 在[救出阿拉贝尔](Save_Arabella.md "救出阿拉贝尔")中保护她免受[卡哈](Kagha.md "卡哈")伤害后，由阿拉贝拉的父母[柯米拉](Komira.md "柯米拉")和[洛奇](Locke.md "洛奇")给予队伍 | [圣池](Sacred_Pool.md "圣池") X: 262 Y: 542 |
 | 治愈帽 | 当你使用[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")激励盟友时，他们也恢复1d6[治疗](Healing.md "治疗")。 | 在[翠绿林地](Emerald_Grove.md "翠绿林地")中，[阿尔菲拉](Alfira.md "阿尔菲拉")作曲地点附近的柱子后面一个上锁的镀金箱中 | [圣池](Sacred_Pool.md "圣池") X: 289 Y: 488 |
 | +1手弩 |  | 由[戴摩](Dammon.md "戴摩")出售 | [空谷](The_Hollow.md "空谷") |
 | 狩猎短弓 | 对[怪兽](Monstrosity.md "怪兽")类敌人具有[优势](Advantage.md "优势")。[猎人印记](Hunter's_Mark.md "猎人印记") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 由[戴摩](Dammon.md "戴摩")在[翠绿林地](Emerald_Grove.md "翠绿林地")出售 | [空谷](The_Hollow.md "空谷") X: 177 Y: 562 |
 | 守护盾 | [豁免检定](Saving_throws.md "豁免检定") +1 | 由[戴摩](Dammon.md "戴摩")在[翠绿林地](Emerald_Grove.md "翠绿林地")出售 | [空谷](The_Hollow.md "空谷") X: 177 Y: 562 |
-| 科瑞隆的恩典 | 你徒手近战[攻击检定](Attack_roll.md "攻击检定")和伤害获得+1加值。当使用者不穿护甲时，他们获得+2加值到[豁免检定](Saving_throw.md "豁免检定")。 | 由[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")在[翠绿林地](Emerald_Grove.md "翠绿林地")的[空谷](The_Hollow.md "空谷")出售 | [空谷](The_Hollow.md "空谷") X: 192 Y: 546 |
+| 科瑞隆的恩典 | 你徒手近战[攻击掷骰](Attack_roll.md "攻击掷骰")和伤害获得+1加值。当使用者不穿护甲时，他们获得+2加值到[豁免检定](Saving_throw.md "豁免检定")。 | 由[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")在[翠绿林地](Emerald_Grove.md "翠绿林地")的[空谷](The_Hollow.md "空谷")出售 | [空谷](The_Hollow.md "空谷") X: 192 Y: 546 |
 | 雨舞者 | [造水术](Create_Water.md "造水术") 施放为1环法术（充能：[短休](Short_rest.md "短休")。） | 由[艾隆](Arron.md "艾隆")在西凡那斯雕像旁出售 | [空谷](The_Hollow.md "空谷") X: 205 Y: 516 |
 | 窃法者 | 每[短休](Short_rest.md "短休")一次，当你用窃法者造成[重击](Critical_Hit.md "重击")时，你恢复一个1环[法术位](Spell_Slot.md "法术位")。 | 由[艾隆](Arron.md "艾隆")在西凡那斯雕像旁出售 | [空谷](The_Hollow.md "空谷") X: 205 Y: 516 |
 | 龙之握 | 对[燃烧](Burning_(Condition).md "燃烧（状态）")目标额外造成1d4[武器](Weapon.md "武器")伤害。 | 由[艾隆](Arron.md "艾隆")在西凡那斯雕像旁出售 | [空谷](The_Hollow.md "空谷") X: 205 Y: 516 |
@@ -130,7 +130,7 @@ X: -461 Y: -22
 [轻声承诺](The_Whispering_Promise.md "轻声承诺")
 |
 
-- 当你治疗一个生物时，它获得**+1d4**加值到[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")，持续2回合。
+- 当你治疗一个生物时，它获得**+1d4**加值到[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")，持续2回合。
 
 | 由[瓦罗](Volo.md "瓦罗")出售 | [圣池](Sacred_Pool.md "圣池") |
 X: 260 Y: 510
@@ -157,18 +157,18 @@ X: 262 Y: 542
 | 浴血巨斧 | 当使用者生命值低于50%时，额外造成1d4[挥砍](Slashing.md "挥砍")伤害。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")出售 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 272 Y: -31 |
 | 黄金雏龙法杖 | [火焰箭](Fire_Bolt.md "火焰箭") 随意施放为戏法。 | 由[罗阿·月光](Roah_Moonglow.md "罗阿·月光")出售，在圣所入口左侧远处 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 272 Y: -31 |
 | 塞伦涅选民护符 | [塞伦涅的梦境](Selûne's_Dream.md "塞伦涅的梦境") 施放为戏法（充能：[长休](Long_Rest.md "长休")。） | 在[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")的宝藏堆中 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 296 Y: 71 |
-| 弹跳靴 | 当穿戴者在战斗中[疾走](Dash.md "疾走")或执行类似动作时，他们获得[动量](Momentum_(Condition).md "动量（状态）")3回合。 | 在[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")王座后面的宝藏室中 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 296 Y: 71 |
+| 弹跳靴 | 当穿戴者在战斗中[疾走](Dash.md "疾走")或执行类似动作时，他们获得[亢奋](Momentum_(Condition).md "亢奋（状态）")3回合。 | 在[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")王座后面的宝藏室中 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 296 Y: 71 |
 | 破信者 | [至上力量](Absolute_Power.md "至上力量") 神圣能量随你的挥击而涌动。额外造成1d6[力场](Force.md "力场")伤害，并可能将目标击退5米/17英尺。（充能：[短休](Short_rest.md "短休")。） | 由[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 297 Y: 40 |
 | 至上真神的护符 | 如果穿戴者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，他们在[死亡豁免检定](Death_Saving_Throw.md "死亡豁免检定")上具有[优势](Advantage.md "优势")。[至上真神的护符：协助](Absolute's_Talisman_colon__Aid.md "至上真神的护符：协助") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） | 由[女祭司古特](Gut.md "古特")穿着 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 298 Y: -16 |
 | 至上真神的战争阔盾 | 如果使用者带有[至上真神的印记](Brand_of_the_Absolute.md "至上真神的印记")，他们获得+1加值到[豁免检定](Saving_throw.md "豁免检定")。[英雄气概](Heroism.md "英雄气概") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 由[真魂者古特](Gut.md "古特")携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 298 Y: -16 |
-| 咆哮恶犬手套 | 当被2个或更多敌人包围时，穿戴者在近战[攻击检定](Attack_roll.md "攻击检定")上具有[优势](Advantage.md "优势")。[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 | 在[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")的铁门后面锁着的宝藏箱中 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 298 Y: 66 |
+| 咆哮恶犬手套 | 当被2个或更多敌人包围时，穿戴者在近战[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[优势](Advantage.md "优势")。[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 | 在[德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林")的铁门后面锁着的宝藏箱中 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 298 Y: 66 |
 | 刺客之触 | 对[昏迷](Knocked_Out_(Condition).md "昏迷（状态）")或[睡眠](Sleeping_(Condition).md "睡眠（状态）")的生物额外造成1d4[黯蚀](Necrotic.md "黯蚀")伤害。 | 完成任务[解救地精萨扎](Save_the_Goblin_Sazza.md "解救地精萨扎")，护送[萨扎](Sazza.md "萨扎")到[地精营地](Goblin_Camp.md "地精营地")的奖励 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 333 Y: 41 |
 | 锯齿矛 | 受折磨的生物可能在体质[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。 | 在折磨者斯派克附近，圣所入口东侧的地面上 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 334 Y: -37 |
 | 夏安迪德 | 每[短休](Short_rest.md "短休")一次，如果你对目标的攻击未命中，你可以将其包裹在[妖火](Faerie_Fire_(Condition).md "妖火（状态）")中2回合。 | 由[明萨拉](Minthara.md "明萨拉")在[第一幕](Act_One.md "第一幕")携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 335 Y: 43 |
-| 跨步之靴 | 当你施放需要[专注](Concentration.md "专注")的法术时，你获得[动量](Momentum_(Condition).md "动量（状态）")1回合。当你专注时，你不会被击倒[倒地](Prone_(Condition).md "倒地（状态）")或被违背意愿地移动。[运动](Athletics.md "运动") +1 | 由[明萨拉](Minthara.md "明萨拉")穿着 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 335 Y: 43 |
+| 跨步之靴 | 当你施放需要[专注](Concentration.md "专注")的法术时，你获得[亢奋](Momentum_(Condition).md "亢奋（状态）")1回合。当你专注时，你不会被击倒[倒伏](Prone_(Condition).md "倒伏（状态）")或被违背意愿地移动。[运动](Athletics.md "运动") +1 | 由[明萨拉](Minthara.md "明萨拉")穿着 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 335 Y: 43 |
 | 劳薇塔的灾祸 | 获得对[黯蚀](Necrotic.md "黯蚀")伤害的[抗性](Resistance.md "抗性")。对附近目标（包括使用者）额外造成1d6[黯蚀](Necrotic.md "黯蚀")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。 | 由[阿布狄拉克](Abdirak.md "阿布狄拉克")携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: -21 |
-| 仪式匕首 | 用这把匕首成功攻击后，使用者获得+1d4加值到[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")，直到其下一回合结束。[[见：错误](The_Pain_Maiden's_Blessing#Bugs.md#Bugs "痛苦女神的祝福")] [血祭](Blood_Sacrifice.md "血祭") 痛苦是力量之路。承受1d4[挥砍](Slashing.md "挥砍")伤害以获得+1d4加值到[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")。 | 在[阿布狄拉克](Abdirak.md "阿布狄拉克")附近或由他携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: -26 |
-| 仪式斧 | 有几率对目标施加1d4减值到[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")。如果攻击者生命值仍高于50%，他们自己承受1d6[穿刺](Piercing.md "穿刺")伤害。 | 在[阿布狄拉克](Abdirak.md "阿布狄拉克")旁边的桌子上 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: -26 |
+| 仪式匕首 | 用这把匕首成功攻击后，使用者获得+1d4加值到[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")，直到其下一回合结束。[[见：错误](The_Pain_Maiden's_Blessing#Bugs.md#Bugs "痛苦女神的祝福")] [血祭](Blood_Sacrifice.md "血祭") 痛苦是力量之路。承受1d4[挥砍](Slashing.md "挥砍")伤害以获得+1d4加值到[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")。 | 在[阿布狄拉克](Abdirak.md "阿布狄拉克")附近或由他携带 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: -26 |
+| 仪式斧 | 有几率对目标施加1d4减值到[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")。如果攻击者生命值仍高于50%，他们自己承受1d6[穿刺](Piercing.md "穿刺")伤害。 | 在[阿布狄拉克](Abdirak.md "阿布狄拉克")旁边的桌子上 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: -26 |
 | 抗毒戒指 | 对[中毒](Poison.md "中毒")伤害的[抗性](Resistance.md "抗性")。 | 在[座狼兽栏](Worg_Pens.md "座狼兽栏")区域前打开的石棺内的骷髅上 | [破碎圣所](Shattered_Sanctum.md "破碎圣所") X: 338 Y: 14 |
 | 破阵战靴 | 当你[疾走](Dash.md "疾走")时，你获得[愤怒](Wrath_(Condition).md "愤怒（状态）")3回合。[[见：错误](Adrenaline_Rush#Bugs.md#Bugs "肾上腺素激增")] | 由[驯兽师祖克](Zurk.md "祖克")穿着 | [座狼兽栏](Worg_Pens.md "座狼兽栏") X: 379 Y: -39 |
 | 驯兽师铁链 | [化兽为友](Animal_Friendship.md "化兽为友") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 在肉桌旁边的箱子中 | [座狼兽栏](Worg_Pens.md "座狼兽栏") X: 379 Y: -43 |
@@ -265,8 +265,8 @@ X: -656 Y: -370
 | 闪电飞靴 | 当穿戴者在战斗中[疾走](Dash.md "疾走")或执行类似动作时，他们获得3点[闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）")。[运动](Athletics.md "运动") +1 | 在风车后面地窖的重箱中 | [染疫村落](Blighted_Village.md "染疫村落") X: -711 Y: -412 |
 | 沉重巨斧 | [巨像切割者](Gargantuan_Cleave.md "巨像切割者") 用尽全力挥舞武器。你可以攻击多个目标，额外造成1d6[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，但会陷入[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡（巨像切割者）（状态）")。（充能：[短休](Short_rest.md "短休")。） | 由[费泽克](Fezzerk.md "费泽克")在[第一幕](Act_One.md "第一幕")的风车前携带 | [染疫村落](Blighted_Village.md "染疫村落") X: 10 Y: 420 |
 | 弯曲的智力头带 | 将穿戴者的[智力](Intelligence.md "智力")值设为17。如果穿戴者的智力值在不装备此物品时更高，则附魔无效。 | 由[开明的朗普](Lump.md "朗普")携带 | [染疫村落](Blighted_Village.md "染疫村落") X: 13 Y: 366 |
-| 迅捷头盔 | 战斗开始时，穿戴者获得[动量](Momentum_(Condition).md "动量（状态）")3回合。 | 在[满是苔藓的箱子](Moss-Covered_Chest.md "满是苔藓的箱子")内 | [染疫村落](Blighted_Village.md "染疫村落") X: 29 Y: 405 |
-| 刺钉头带 | 战斗中，当穿戴者以50%或更低的[生命值](Hit_Points.md "生命值")开始回合时，他们获得[动量](Momentum_(Condition).md "动量（状态）")1回合。 | 在附近有背包的骷髅上 | [低语深地](Whispering_Depths.md "低语深地") X: -495 Y: -365 |
+| 迅捷头盔 | 战斗开始时，穿戴者获得[亢奋](Momentum_(Condition).md "亢奋（状态）")3回合。 | 在[满是苔藓的箱子](Moss-Covered_Chest.md "满是苔藓的箱子")内 | [染疫村落](Blighted_Village.md "染疫村落") X: 29 Y: 405 |
+| 刺钉头带 | 战斗中，当穿戴者以50%或更低的[生命值](Hit_Points.md "生命值")开始回合时，他们获得[亢奋](Momentum_(Condition).md "亢奋（状态）")1回合。 | 在附近有背包的骷髅上 | [低语深地](Whispering_Depths.md "低语深地") X: -495 Y: -365 |
 | 蜘蛛步靴 | 免疫被[缠网](Enwebbed_(Condition).md "缠网（状态）")。你的[移动速度](Movement_speed.md "移动速度")不受[蛛网](Web_(surface).md "蛛网（表面）")表面影响。 | 在蜘蛛法师实验室的重箱中 | [低语深地](Whispering_Depths.md "低语深地") X: -514 Y: -411 |
 | 下毒者长袍 | 当穿戴者施放造成[中毒](Poison.md "中毒")伤害的法术时，额外造成1d4[中毒](Poison.md "中毒")伤害。 | 由[相位蜘蛛女王](Phase_Spider_Matriarch.md "相位蜘蛛女王")在她的巢穴中携带 | [低语深地](Whispering_Depths.md "低语深地") X: -569 Y: -359 |
 
@@ -312,14 +312,14 @@ X: 13 Y: 366
 [迅捷头盔](Haste_Helm.md "迅捷头盔")
 |
 
-- 战斗开始时，穿戴者获得[动量](Momentum_(Condition).md "动量（状态）")3回合。
+- 战斗开始时，穿戴者获得[亢奋](Momentum_(Condition).md "亢奋（状态）")3回合。
 
 | 在[满是苔藓的箱子](Moss-Covered_Chest.md "满是苔藓的箱子")内 | [染疫村落](Blighted_Village.md "染疫村落") |
 X: 29 Y: 405
 [尖刺环带](Spurred_Band.md "尖刺环带")
 |
 
-- 战斗中，当穿戴者以50%或更低的[生命值](Hit_Points.md "生命值")开始回合时，他们获得[动量](Momentum_(Condition).md "动量（状态）")1回合。
+- 战斗中，当穿戴者以50%或更低的[生命值](Hit_Points.md "生命值")开始回合时，他们获得[亢奋](Momentum_(Condition).md "亢奋（状态）")1回合。
 
 | 在附近有背包的骷髅上 | [低语深地](Whispering_Depths.md "低语深地") |
 X: -495 Y: -365
@@ -390,7 +390,7 @@ X: 110 Y: 560
 [迅捷回击](Speedy_Reply.md "迅捷回击")
 |
 
-- 当使用者用此武器击中敌人时，他们获得[动量](Momentum_(Condition).md "动量（状态）")2回合。
+- 当使用者用此武器击中敌人时，他们获得[亢奋](Momentum_(Condition).md "亢奋（状态）")2回合。
 
 | 在商队特工尸体上，豺狼人攻击商队幸存者洞穴附近 | [晋升之路](The_Risen_Road.md "晋升之路") |
 X: 25 Y: 603
@@ -443,7 +443,7 @@ X: -63 Y: 600
 [斯瓦特比的探伤者](Svartlebee's_Woundseeker.md "斯瓦特比的探伤者")
 |
 
-- 当攻击已受伤的生物时，使用者获得+1d4加值到[攻击检定](Attack_roll.md "攻击检定")。
+- 当攻击已受伤的生物时，使用者获得+1d4加值到[攻击掷骰](Attack_roll.md "攻击掷骰")。
 
 | 由[加坦特伊娃](Yeva.md "伊娃")携带 | [渥金的休眠地](Waukeen's_Rest.md "渥金的休眠地") |
 X: -66 Y: 609
@@ -534,7 +534,7 @@ X: -70 Y: 439
 [厄运之锤](Doom_Hammer.md "厄运之锤")
 |
 
-- 每次打击都会使目标充满冰冷的恐惧，阻止其恢复[生命值](Hit_Points.md "生命值")。不死生物在攻击检定上也具有[劣势](Disadvantage.md "劣势")。
+- 每次打击都会使目标充满冰冷的恐惧，阻止其恢复[生命值](Hit_Points.md "生命值")。不死生物在攻击掷骰上也具有[劣势](Disadvantage.md "劣势")。
 
 | 由[商人格拉特](Grat.md "格拉特")出售 | [地精营地](Goblin_Camp.md "地精营地") |
 X: -99 Y: 424
@@ -585,7 +585,7 @@ X: 386 Y: 8
 | Melf's First Staff | You gain a +1 bonus to [掷骰](Spell_save_DC.md "掷骰") and [法术攻击](Spell_Attack.md "Spell Attack") rolls. [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | The Baneful | This weapon has a +1 bonus to damage and [攻击](Attack_roll.md "攻击"). On a hit, possibly [灾祸术](Bane_(Condition).md "Bane (Condition)") your target. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Boots of Genial Striding | The wearer's [移动速度](Movement_speed.md "Movement Speed") is unimpeded by [劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
-| Cinder Shoes | Whenever you [Burn](Burning_(Condition).md "Burning (Condition)") an enemy, you gain 2 turns of [灼热](Heat_(Condition).md "Heat (Condition)"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| Cinder Shoes | Whenever you [Burn](Burning_(Condition).md "Burning (Condition)") an enemy, you gain 2 turns of [灼热](Heat_(Condition).md "灼热（状态）"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Circlet of Blasting | [灼热射线](Scorching_Ray.md "Scorching Ray") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Psychic Spark | Shoot an additional dart whenever you cast [魔法飞弹](Magic_Missile.md "Magic Missile"). [魔法飞弹](Magic_Missile.md "Magic Missile") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Sunwalker's Gift | The wearer can see in the dark up to 12 m / 40 ft. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
@@ -709,7 +709,7 @@ X: -12 Y: -50
 | Heavy Crossbow +1 |  | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
 | Monster Slayer Glaive | This weapon deals an additional 1d4 damage against [怪兽](Monstrosity.md "Monstrosity") type foes. [跳跃](Jump.md "Jump") distance is increased by 1.5 m (5 ft). | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow"), to the left beyond the sanctum entrance | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
 | Bow of Awareness | You gain a +1 bonus to [先攻](Initiative.md "先攻"). | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
-| Hunter's Dagger | On a hit, the target becomes [裂地](Ruptured_(Condition).md "Ruptured (Condition)") for 3 turns. | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow"), to the left beyond the sanctum entrance | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
+| Hunter's Dagger | On a hit, the target becomes [裂地](Ruptured_(Condition).md "裂地 (状态)") for 3 turns. | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow"), to the left beyond the sanctum entrance | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
 | Blooded Greataxe | When the wielder has 50% [生命值](Hit_Points.md "生命值") or less, they deal an additional 1d4⁠⁠[挥砍](Slashing.md "Slashing") damage. | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow") | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
 | Gold Wyrmling Staff | [火焰箭](Fire_Bolt.md "Fire Bolt") Cast as a cantrip at will. | Sold by [罗阿·月光](Roah_Moonglow.md "Roah Moonglow"), to the left beyond the sanctum entrance | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 272 Y: -31 |
 | Amulet of Selûne's Chosen | [塞伦涅的梦境](Selûne's_Dream.md "Selûne's Dream") Cast as a cantrip ( Recharge: [休息](Long_Rest.md "休息").) | In [德罗尔·拉格兹林](Dror_Ragzlin.md "德罗尔·拉格兹林") treasure pile | [破碎圣所](Shattered_Sanctum.md "Shattered Sanctum") X: 296 Y: 71 |
@@ -802,7 +802,7 @@ X: 111 Y: -89
 [燃烬靴](Cinder_Shoes.md "Cinder Shoes")
 |
 
-- Whenever you [Burn](Burning_(Condition).md "Burning (Condition)") an enemy, you gain 2 turns of [灼热](Heat_(Condition).md "Heat (Condition)").
+- Whenever you [Burn](Burning_(Condition).md "Burning (Condition)") an enemy, you gain 2 turns of [灼热](Heat_(Condition).md "灼热（状态）").
 
 | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") |
 X: 111 Y: -89
@@ -906,7 +906,7 @@ X: 144 Y: 29
 | Melf's First Staff | You gain a +1 bonus to [掷骰](Spell_save_DC.md "掷骰") and [法术攻击](Spell_Attack.md "Spell Attack") rolls. [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | The Baneful | This weapon has a +1 bonus to damage and [攻击](Attack_roll.md "攻击"). On a hit, possibly [灾祸术](Bane_(Condition).md "Bane (Condition)") your target. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Boots of Genial Striding | The wearer's [移动速度](Movement_speed.md "Movement Speed") is unimpeded by [劣势地形](Difficult_Terrain_(Condition).md "Difficult Terrain (Condition)"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
-| Cinder Shoes | Whenever you [Burn](Burning_(Condition).md "Burning (Condition)") an enemy, you gain 2 turns of [灼热](Heat_(Condition).md "Heat (Condition)"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
+| Cinder Shoes | Whenever you [Burn](Burning_(Condition).md "Burning (Condition)") an enemy, you gain 2 turns of [灼热](Heat_(Condition).md "灼热（状态）"). | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Circlet of Blasting | [灼热射线](Scorching_Ray.md "Scorching Ray") Cast as a level 2 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Psychic Spark | Shoot an additional dart whenever you cast [魔法飞弹](Magic_Missile.md "Magic Missile"). [魔法飞弹](Magic_Missile.md "Magic Missile") Cast as a level 1 spell ( Recharge: [休息](Long_Rest.md "休息").) | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
 | Sunwalker's Gift | The wearer can see in the dark up to 12 m / 40 ft. | Sold by [布尔格](Blurg.md "Blurg") | [黑檀湖洞穴](Ebonlake_Grotto.md "Ebonlake Grotto") X: 111 Y: -89 |
@@ -1296,7 +1296,7 @@ X: 1392 Y: -752
 
 [奥术弹药](Arcane_Ammunition.md "Arcane Ammunition")
 Infuse your crossbow bolts with arcane energy. Your ranged weapon attacks deal an additional 1d4⁠⁠[力场](Force.md "Force") damage. (Recharge: [休息](Short_rest.md "休息").)
-| Carried by [Raider G'r'ath](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
+| Carried by [掠夺者格拉'特](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") |
 X: 1396 Y: -839
 [碎魂者巨剑](Soulbreaker_Greatsword.md "Soulbreaker Greatsword")
 |
@@ -1329,7 +1329,7 @@ X: 1396 Y: -839
 | Vital Conduit Boots | Grants the wearer 8 [生命值](Temporary_Hit_Points.md "生命值") when they cast a [法术](Spell.md "Spell") that requires [专注](Concentration.md "Concentration"). [运动](Athletics.md "Athletics") +1 | Sold by [阿贾克'尼尔·吉拉](Jeera.md "Jeera") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1380 Y: -798 |
 | The Skinburster | When the wielder deals melee damage with this weapon, they gain 2 turns of [导力](Force_Conduit_(Condition).md "Force Conduit (Condition)"). | Leaning against a display case in the [审判官的房间](Creche_Y'llek#Inquisitor's_Chamber.md#Inquisitor's_Chamber "Creche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1383 Y: -659 |
 | Circlet of Psionic Revenge | When you succeed a [豁免检定](Saving_throw.md "豁免检定"), the foe that caused the throw takes 1d4⁠⁠[心灵](Psychic.md "Psychic"). [吉斯洋基人](Githyanki.md "Githyanki") also gain a +1 bonus to [智力](Intelligence.md "Intelligence"), [感知](Wisdom.md "Wisdom"), and [魅力](Charisma.md "Charisma") [豁免检定](Saving_throw.md "豁免检定"). | Carried by Githyanki Inquisitor [审判官瓦尔'戈兹](W'wargaz.md "W'wargaz") in the Inquisitor's Chamber | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1392 Y: -752 |
-| Crossbow of Arcane Force | [奥术弹药](Arcane_Ammunition.md "Arcane Ammunition") Infuse your crossbow bolts with arcane energy. Your ranged weapon attacks deal an additional 1d4⁠⁠[力场](Force.md "Force") damage. ( Recharge: [休息](Short_rest.md "休息").) | Carried by [Raider G'r'ath](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1396 Y: -839 |
+| Crossbow of Arcane Force | [奥术弹药](Arcane_Ammunition.md "Arcane Ammunition") Infuse your crossbow bolts with arcane energy. Your ranged weapon attacks deal an additional 1d4⁠⁠[力场](Force.md "Force") damage. ( Recharge: [休息](Short_rest.md "休息").) | Carried by [掠夺者格拉'特](G'r'ath.md "G'r'ath") in the camp area south of the [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") [上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1396 Y: -839 |
 | Soulbreaker Greatsword | When wielded by a [吉斯洋基人](Githyanki.md "吉斯洋基人") this weapon deals an additional 1d4⁠⁠[心灵](Psychic.md "Psychic") damage. You gain a +2 bonus to [先攻](Initiative.md "先攻"). [碎魂者](Soulbreaker.md "Soulbreaker") Rend the enemy's body and soul, dealing additional ⁠[心灵](Psychic.md "Psychic") damage equal to your [熟练项](Proficiency_Bonus.md "熟练项"), and possibly [灵魂扭曲](Stunned_(Condition).md "Stunned (Condition)") them. ( Recharge: [休息](Short_rest.md "休息").) | Carried by [凯斯拉克百夫长赛泽恩](Therezzyn.md "Therezzyn") in the [队长办公区](Crèche_Y'llek#Captain's_Quarters.md#Captain's_Quarters "Crèche Y'llek") | [伊雷珂养育间](Crèche_Y'llek.md "Crèche Y'llek") X: 1408 Y: -763 |
 | Ceremonial Battleaxe |  | In the one of the dormitories protected by a [信仰守卫](Guardian_of_Faith_(Creature).md "Guardian of Faith (creature)") | [瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery") X: 105 Y: 44 |
 | Holy Lance Helm | Creatures who miss their [攻击](Attack_roll.md "攻击") against the wearer must make a [难度等级](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 14 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "豁免检定") or take 1d4⁠⁠[光耀](Radiant.md "Radiant") damage. [体质](Constitution.md "Constitution") [豁免检定](Saving_throw.md "Saving Throw") +1 | In a painted chest, accessible from the top level | [瑰晨修道院](Rosymorn_Monastery.md "Rosymorn Monastery") X: 120 Y: 35 |

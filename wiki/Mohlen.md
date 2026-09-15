@@ -8,7 +8,7 @@
 | 类型 | [类人生物](Humanoid.md "类人生物") |
 | 种族 | [人类](Human.md "Human") |
 | 职业 | [牧师](Cleric.md "Cleric") |
-| 神祇 | [灾祸术](Bane_(God).md) |
+| 神祇 | [班恩](Bane_(God).md) |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -47,7 +47,7 @@
 
 在你的压迫性存在范围内，给予敌人[攻击](Attack.md "攻击")和[豁免检定](Saving_throws.md "豁免检定")的[劣势](Disadvantage.md "劣势")。
 
-无法被[恐慌](Frightened_(Condition)的生物免疫此灵光.md)。
+无法被[恐慌](Frightened_(Condition).md)的生物免疫此灵光。
 
 范围：自身
 每次战斗充能

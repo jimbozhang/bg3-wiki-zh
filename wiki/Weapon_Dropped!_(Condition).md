@@ -2,25 +2,25 @@
 
 **武器掉落！**
 
-- 敌人使你将武器掉落在地，类似于 [缴械](缴械_(状态).md "缴械 (状态)")。
+- 敌人使你将武器掉落在地，类似于 [缴械](Disarmed_(Condition).md "缴械 (状态)")。
 
 ## 属性
 
 [更多属性](Conditions.md "状态")：
 
-- [强制头顶显示](ForceOverhead.md "状态属性/强制头顶显示")
-- [禁用战斗日志](DisableCombatlog.md "状态属性/禁用战斗日志")
+- [强制头顶显示](Status_properties/ForceOverhead.md "状态属性/强制头顶显示")
+- [禁用战斗日志](Status_properties/DisableCombatlog.md "状态属性/禁用战斗日志")
 
 ## 武器掉落的来源
 
-- [命令术：掉落](命令术：掉落.md "命令术：掉落")
-- [命令术：掉落（不死生物）](命令术：掉落（不死生物）.md "命令术：掉落（不死生物）")
+- [命令术：掉落](Command_colon__Drop.md "命令术：掉落")
+- [命令术：掉落（不死生物）](Command_colon__Drop_(Undead).md "命令术：掉落（不死生物）")
 - [恐惧](Fear.md "恐惧")
 - [灼热金属](Heat_Metal.md "灼热金属")
 - [灼热金属：重新施加伤害](Heat_Metal_colon__Reapply_Damage.md "灼热金属：重新施加伤害")
 - [沾蜜利爪](Honeyed_Paws.md "沾蜜利爪")
-- [威严斗篷：掉落](威严斗篷：掉落.md "威严斗篷：掉落")
-- [灵能暗示：掉落](灵能暗示：掉落.md "灵能暗示：掉落")
+- [威严斗篷：掉落](Mantle_of_Majesty_colon__Drop.md "威严斗篷：掉落")
+- [灵能暗示：掉落](Psionic_Suggestion_colon__Drop.md "灵能暗示：掉落")
 - [肮脏伎俩：手腕轻弹](Dirty_Trick_colon__Flick_o'_the_Wrist.md "肮脏伎俩：手腕轻弹")
 - [缴械攻击（近战）](Disarming_Attack_(Melee).md "缴械攻击（近战）")
 - [缴械攻击（远程）](Disarming_Attack_(Ranged).md "缴械攻击（远程）")

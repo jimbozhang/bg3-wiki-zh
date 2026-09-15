@@ -17,7 +17,7 @@
 2d8⁠[火焰](Fire.md "Fire")
 
 详情
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功：目标承受完整伤害，但攻击掷骰获得[劣势](Disadvantage.md "Disadvantage")，而非被缴械）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功：目标承受完整伤害，但攻击掷骰获得[劣势](Disadvantage.md "Disadvantage")，而非被缴械）
 范围：18米（60英尺）
 [专注](Concentration.md "Concentration")
 
@@ -29,7 +29,7 @@
 
 **[武器掉落！](Weapon_Dropped!_(Condition).md "Weapon Dropped! (Condition)")**
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 敌人使你将武器掉落在地，类似于[缴械](Disarmed_(Condition).md "Disarmed (Condition)")。
 

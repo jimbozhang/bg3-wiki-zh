@@ -570,7 +570,7 @@
 - _(站起来):_ "站起来力量就消失了。好奇怪。"
 - _(摧毁板凳并拿走[腿棒](../Club_of_Hill_Giant_Strength.md "Club of Hill Giant Strength")):_ "嗯。虽然我喜欢坐着，但一根强化的棍棒更有用..."
 
-**收集关于[精金熔炉](../Adamantine_Forge_(location)的传说.md):**
+**收集关于[精金熔炉](../Adamantine_Forge_(location).md)的传说:**
 
 - _(首次听说精金熔炉):_ "精金熔炉？有意思。"
 - _(从[萨格里姆](../Xargrim.md "Xargrim")处掠夺[伪装的书](../Flumph_Mating_Rituals.md "Flumph Mating Rituals")，[奥术](../Arcana.md "Arcana")检定):_

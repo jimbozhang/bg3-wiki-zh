@@ -13,13 +13,13 @@
 详情
 范围：自身
 充能：[短休](Short_rest.md "短休")
-持续时间：10 [驱散](Turn.md "驱散")
+持续时间：10 [驱散](Short_rest.md "驱散")
 
 ## 状态：调谐
 
 **[调谐](Harmonised_(Condition).md "调谐 (状态)")**
 
-持续时间：10 [驱散](Turn.md "驱散")
+持续时间：10 [驱散](Turned_(Condition).md "驱散")
 
 - 受影响实体的近战武器攻击造成额外伤害，伤害值等于其 [魅力](Charisma.md "魅力") [调整值](Ability_score_modifier.md "属性值调整值")（最低为 1）。
 

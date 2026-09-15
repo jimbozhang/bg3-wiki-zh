@@ -17,7 +17,7 @@
 4d6⁠[火焰](Fire.md "火焰")（每枚导弹）
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子检定")）（若豁免成功：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子检定")）（若豁免成功：目标仍承受一半伤害。）
 射程：100米（333英尺）
 范围：6米（20英尺）半径
 目标：由[目标协议](Targeting_Protocol_colon__Hellfire_Missiles.md "目标协议：地狱火飞弹")选择的24个随机点

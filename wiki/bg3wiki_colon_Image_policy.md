@@ -111,7 +111,7 @@
 
 **好的替代文本**：
 
-| - {{File:A_Nice_Summer_Stay.png | alt=阿斯代伦在吉斯洋基人育儿所被集中阳光伤害后痛苦地退缩。}} - {{File:Gale_Flirting.png | alt=盖尔坐在密斯特拉的野餐毯上，在飓风湖边为塔夫献唱。}} |
+| - {{File:A_Nice_Summer_Stay.png | alt=阿斯代伦在吉斯洋基人育儿所被集中光耀伤害后痛苦地退缩。}} - {{File:Gale_Flirting.png | alt=盖尔坐在密斯特拉的野餐毯上，在飓风湖边为塔夫献唱。}} |
 
 **差的替代文本**：
 

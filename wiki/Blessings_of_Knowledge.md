@@ -4,7 +4,7 @@
 
 ## 描述
 
-在以下技能中选择两项获得[专精](Expertise.md "专精")：[奥秘](Arcana.md "奥秘")、[历史的](History.md "历史的")、[自然](Nature.md "自然")或[宗教](Religion.md "宗教")。使用这些技能进行的[检定](Ability_checks.md "检定")，你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")翻倍。
+在以下技能中选择两项获得[专精](Expertise.md "专精")：[奥秘](Arcana.md "奥秘")、[历史](History.md "历史")、[自然](Nature.md "自然")或[宗教](Religion.md "宗教")。使用这些技能进行的[检定](Ability_checks.md "检定")，你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")翻倍。
 
 ## 如何学习
 

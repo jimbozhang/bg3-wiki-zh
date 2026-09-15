@@ -24,7 +24,7 @@
 
 ## 学习方式
 
-由以下生物使用：[查德](Chadd.md "查德")、[Garmin](Garmin.md "Garmin")、[赫特沃·德伦布尔](Hertvor_Dremble.md "赫特沃·德伦布尔")、[班恩的铁血执政官](Iron_Consul_of_Bane.md "班恩的铁血执政官")、[雅克斯博克](Jaxbock.md "雅克斯博克")、[莉亚丹](Liadan.md "莉亚丹")、[洛](Lo.md "洛")、[梅芙](Maeve.md "梅芙")、[米安](Mian.md "米安")、[纳夫](Nuff.md "纳夫")、[伍尔夫](Wulf.md "伍尔夫") 和 [尤恩斯](Yoonce.md "尤恩斯")
+由以下生物使用：[查德](Chadd.md "查德")、[加明](Garmin.md "Garmin")、[赫特沃·德伦布尔](Hertvor_Dremble.md "赫特沃·德伦布尔")、[班恩的铁血执政官](Iron_Consul_of_Bane.md "班恩的铁血执政官")、[雅克斯博克](Jaxbock.md "雅克斯博克")、[莉亚丹](Liadan.md "莉亚丹")、[洛](Lo.md "洛")、[梅芙](Maeve.md "梅芙")、[米安](Mian.md "米安")、[纳夫](Nuff.md "纳夫")、[伍尔夫](Wulf.md "伍尔夫") 和 [尤恩斯](Yoonce.md "尤恩斯")
 
 ## 图库
 

@@ -18,7 +18,7 @@
 
 详情：
 范围：2米（7英尺）
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷定")）（豁免检定成功：伤害减半）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷定")）（豁免检定成功：伤害减半）
 
 ## 学习方式
 

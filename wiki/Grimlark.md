@@ -124,7 +124,7 @@
 - [黑暗诗句2](Grimlark_Verse_2.md "黑暗诗句2") - 可在[巴尔·吉斯利夫的弑神者](Farslayer_of_Bhaal_Ghislev.md "巴尔·吉斯利夫的弑神者")试炼前，通过跳上悬崖到达的箱子中找到，位置 X: -132 Y: 954
 - [黑暗诗句3](Grimlark_Verse_3.md "黑暗诗句3") - 可在[巴尔·吉斯利夫的弑神者](Farslayer_of_Bhaal_Ghislev.md "巴尔·吉斯利夫的弑神者")试炼前 X: -114 Y: 953 处找到
 - [黑暗诗句4](Grimlark_Verse_4.md "黑暗诗句4") - 可在[巴尔·吉斯利夫的弑神者](Farslayer_of_Bhaal_Ghislev.md "巴尔·吉斯利夫的弑神者")试炼内 X: -143 Y: 965 处找到
-- [黑暗诗句5](Grimlark_Verse_5.md "黑暗诗句5") - 可在前往[塑境秘潭码头](Morphic_Pool_Dock.md "塑境秘潭码头")的路径上回溯时 X: -87 Y: 1057 处找到
+- [黑暗诗句5](Grimlark_Verse_5.md "黑暗诗句5") - 可在前往塑境秘潭码头的路径上回溯时 X: -87 Y: 1057 处找到
 - [黑暗诗句6](Grimlark_Verse_6.md "黑暗诗句6") - 可在悬挂的骷髅上 X: -43 Y: 1029 处找到
 
 ---

@@ -15,7 +15,7 @@
 1d12⁠[中毒](Poison.md "Poison")
 
 详情
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功：伤害被抵消。）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功：伤害被抵消。）
 射程：3米（10英尺）
 
 ## 高等级时

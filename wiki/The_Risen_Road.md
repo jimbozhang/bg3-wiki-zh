@@ -57,7 +57,7 @@
 
 在断裂桥梁下方的河流旁的下层小径上，有几个兴趣点。在 X: 57 Y: 516 处的浓密灌木丛中有一具骷髅，可以搜刮到[走私犯之戒](Smuggler's_Ring.md "Smuggler's Ring")。在 X: 35 Y: 515 处的打结树根通向上层小径，到达另一个可以开始与臃肿鬣狗对话的地点。
 
-在小径尽头，断裂的桥梁下方，两具骷髅“坐”在永恒的拥抱中。与其中任何一个互动都会提示玩家角色进行被动[历史的](History.md "History")检定，以识别他们的盔甲属于一位竖琴手和一位德鲁伊。<sup>[\[1\]](#cite_note-1)</sup>。成功识别盔甲会为具有[智者](Sage.md "Sage")背景的角色授予[自然联盟](Sage.md#A_Natural_Alliance "Sage")激励事件。
+在小径尽头，断裂的桥梁下方，两具骷髅“坐”在永恒的拥抱中。与其中任何一个互动都会提示玩家角色进行被动[历史](History.md "History")检定，以识别他们的盔甲属于一位竖琴手和一位德鲁伊。<sup>[\[1\]](#cite_note-1)</sup>。成功识别盔甲会为具有[智者](Sage.md "Sage")背景的角色授予[自然联盟](Sage.md#A_Natural_Alliance "Sage")激励事件。
 
 ### 困于洞穴
 
@@ -77,7 +77,7 @@
 
 如果从那里进入洞穴，鲁根会认为他们是盟友，并提议一起反击豺狼人。玩家角色可以同意帮助或拒绝，但后者会使幸存者也变得敌对，此外还有野兽。
 
-根据玩家角色在整个事件中做出的选择，他们之后可以与鲁根讨论此事（与他的对话会自动开始），或者如果他没有幸存，则与他的尸体交谈。如果鲁根幸存，队伍可以了解他们正在运送的重要货物，并且成功通过被动DC 10的[历史的](History.md "History")[属性检定](Ability_Check.md "属性检定")会揭示两人都是[散塔林会](Zhentarim.md "Zhentarim")的特工。
+根据玩家角色在整个事件中做出的选择，他们之后可以与鲁根讨论此事（与他的对话会自动开始），或者如果他没有幸存，则与他的尸体交谈。如果鲁根幸存，队伍可以了解他们正在运送的重要货物，并且成功通过被动DC 10的[历史](History.md "History")[属性检定](Ability_Check.md "属性检定")会揭示两人都是[散塔林会](Zhentarim.md "Zhentarim")的特工。
 
 然后，队伍可以放走这两人，或者恐吓他们交出货物，或者与他们讨价还价，出售货物并分摊利润。如果对话结果有利，鲁根会告诉队伍[渥金的休眠地](Waukeen's_Rest.md "Waukeen's Rest")中[散塔林会地下室](Zhentarim_Basement.md "Zhentarim Basement")的密码。否则，可以在审问时从他的尸体上得知。<sup>[\[2\]](#cite_note-2)</sup> 从鲁根和奥利那里获得拯救他们的报酬，会为具有[流浪儿](Urchin.md "Urchin")背景的角色授予[雇佣英雄](Urchin.md#Hero_for_Hire "Urchin")激励事件。如果散塔林会被杀死或货物被抢走，打开保险箱并拿走烧瓶会为具有[罪犯](Criminal.md "Criminal")背景的角色授予[惊喜开箱](Criminal.md#Open_for_a_Surprise "Criminal")激励事件。
 
@@ -101,7 +101,7 @@
 
 征收所前方的区域在 X: 82 Y: 597 处有一个[传送点](Ancient_Sigil_Circle.md "传送点")，以及一个可能通向晋升之路更远处的坍塌隧道。靠近落石时，任何队伍成员都会评论它，暗示塌方并非自然原因造成。由于晋升之路似乎被封锁，队伍必须使用[山隘](Mountain_Pass.md "Mountain Pass")才能继续他们前往博德之门的陆路旅程。
 
-废弃的征收所最近成为[安德斯](Anders.md "Anders")及其团队的临时行动基地，他们伪装成[提尔](Tyr.md "Tyr")的圣武士，正在寻找卡菈克。然而，在与卡菈克和豺狼人的战斗中，他们失去了两名队员。其中一名队员的[尸体](Refugee_(The_Risen_Road)可以在征收所的后屋找到.md)，而另一名可能是巴克尔，一具岩侏儒的尸体被留在桥上。
+废弃的征收所最近成为[安德斯](Anders.md "Anders")及其团队的临时行动基地，他们伪装成[提尔](Tyr.md "Tyr")的圣武士，正在寻找卡菈克。然而，在与卡菈克和豺狼人的战斗中，他们失去了两名队员。其中一名队员的[尸体](Refugee_(The_Risen_Road).md)可以在征收所的后屋找到，而另一名可能是巴克尔，一具岩侏儒的尸体被留在桥上。
 
 队伍可以与安德斯及其队员[特里恩](Trynn.md "Trynn")和[赛丽尔](Cyrel.md "Cyrel")谈论他们的任务，也可以与后者交易。在整个对话中，玩家角色可能会发现安德斯在欺骗他们；[提尔](Tyr.md "Tyr")的[牧师](Cleric.md "Cleric")有额外的选择可以抓住他的谎言，要求他背诵他们信仰的基本教义。此外，队伍可以审问上述已故队友的尸体，以了解该团队实际上为[扎瑞尔](Zariel.md "Zariel")服务，她是[阿弗纳斯](https://forgottenrealms.fandom.com/wiki/Avernus)的女大公。一旦被当场抓住，安德斯就会攻击队伍。
 
@@ -193,7 +193,7 @@
 
 1. [↑](#cite_ref-1) 如果任何队伍成员成功破译了翠绿林地[内部圣所](Inner_Sanctum.md "Inner Sanctum")中的“联盟”壁画，则该检定被视为已自动通过，无需再次掷骰。
 1. [↑](#cite_ref-2) 鲁根的队友奥利不知道散塔林会窝点的密码，即使作为尸体被审问也无法提供。
-1. [↑](#cite_ref-3) [征收所账簿](Tollhouse_Ledger.md "Tollhouse Ledger")，对[马滕](Marten_(Dead_Toll_Collector)使.md)用[死者交谈](Speak_with_Dead.md "Speak with Dead")。
+1. [↑](#cite_ref-3) [征收所账簿](Tollhouse_Ledger.md "Tollhouse Ledger")，对[马滕](Marten_(Dead_Toll_Collector).md)使用[死者交谈](Speak_with_Dead.md "Speak with Dead")。
 
 ## 外部链接
 

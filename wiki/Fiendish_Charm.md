@@ -28,7 +28,7 @@
 
 持续时间：10驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 无法攻击施法者。施法者在对话中的[魅力](Charisma.md "Charisma")[属性检定](Ability_Check.md "属性检定")上获得[优势](Advantage.md "Advantage")。
 

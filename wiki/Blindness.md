@@ -26,7 +26,7 @@
 
 持续时间：10驱散
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 受影响的生物在[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")。
 - 受影响生物的远程攻击和法术射程为3米（10英尺）。

@@ -48,7 +48,7 @@
 [焰击术](Flame_Strike.md "焰击术") (+ )
 让神圣火焰之柱从天而降，如同被冒犯天使的怒火。
 
-[恢复](Lesser_Restoration.md "恢复") (+ )
+[次级复原术](Lesser_Restoration.md "恢复") (+ )
 
 [群体治愈真言](Mass_Healing_Word.md "群体治愈真言") (+ )
 治疗你附近的盟友。

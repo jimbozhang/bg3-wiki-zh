@@ -2,7 +2,7 @@
 
 闪烁之戒是一枚稀有[戒指](Rings.md "Rings")，允许佩戴者每[长休](Long_Rest.md "Long_Rest")一次施放[闪现](Blink.md "Blink")。
 
-由法师比格比（Bigby）为纪念他忠实的猎犬大男孩（Bigboy）而打造，大男孩能够使用[传送](Teleport.md "Teleport")来取物、捕捉走失的[猫](Cat.md "Cat")，并通常骚扰邮递员。
+由法师比格比（Bigby）为纪念他忠实的猎犬大男孩（Bigboy）而打造，大男孩能够使用传送来取物、捕捉走失的[猫](Cat.md "Cat")，并通常骚扰邮递员。
 
 ## 属性
 

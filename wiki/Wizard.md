@@ -114,7 +114,7 @@
 装备熟练项
 [匕首](Daggers.md "匕首"), [长棍](Quarterstaves.md "长棍"), [轻弩](Light_Crossbows.md "轻弩")
 技能熟练项（选择2项）
-[奥秘](Arcana.md "奥秘"), [历史的](History.md "历史的"), [调查](Investigation.md "调查"), [洞悉](Insight.md "洞悉"), [医药](Medicine.md "医药"), [宗教](Religion.md "宗教")
+[奥秘](Arcana.md "奥秘"), [历史](History.md "历史"), [调查](Investigation.md "调查"), [洞悉](Insight.md "洞悉"), [医药](Medicine.md "医药"), [宗教](Religion.md "宗教")
 你获得对每个你[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。在角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
 初始装备
 [长棍](Quarterstaff.md "长棍"), [简易长袍](Simple_Robe.md "简易长袍")（绿色变体）, [简易靴子](Simple_Boots.md "简易靴子")

@@ -1,6 +1,6 @@
 # 调查谋杀案
 
-**调查谋杀案**是[博德之门3](Baldur's Gate_3.md "博德之门3")第三幕中，[拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")[任务](Quest.md "任务")的一个子任务。
+**调查谋杀案**是[博德之门3](Baldur's_Gate_3.md "博德之门3")第三幕中，[拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")[任务](Quest.md "任务")的一个子任务。
 
 ## 目录
 

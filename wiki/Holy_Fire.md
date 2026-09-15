@@ -4,7 +4,7 @@
 
 ## 描述
 
-每[驱散](Turn.md "Turn")造成1d6⁠⁠[光耀](Radiant.md "Radiant")伤害。
+每[驱散](Radiant.md "Turn")造成1d6⁠⁠[光耀](Radiant.md "Radiant")伤害。
 
 ## 属性
 
@@ -16,7 +16,7 @@
 
 持续时间：在地表上时
 
-- 每[驱散](Turn.md "Turn")受到1~4⁠⁠[光耀](Radiant.md "Radiant")伤害。
+- 每[驱散](Radiant.md "Turn")受到1~4⁠⁠[光耀](Radiant.md "Radiant")伤害。
 
 ## 创建方式
 

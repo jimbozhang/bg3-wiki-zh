@@ -41,7 +41,7 @@
 
 **[黑色触须](Black_Tentacles_(Condition).md "黑色触须 (状态)")**
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 被黑暗触须束缚。受影响实体无法移动，每回合受到3d6⁠⁠[钝击](Bludgeoning.md "钝击")伤害。
 

@@ -33,7 +33,7 @@
 
 **[疫病中毒](Contagion_Poisoned_(Condition).md "Contagion Poisoned (Condition)")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 在[攻击掷骰](Attack_roll.md "Attack Roll")和[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "Disadvantage")。
 - 每回合，它必须成功通过一次[豁免检定](Saving_throw.md "Saving Throw")，否则毒素将进入下一阶段。累计3次成功，它将恢复。累计3次失败，它将患上与所施放的疫病术变体相对应的疾病。
@@ -47,7 +47,7 @@
 
 ## 备注
 
-- 此法术命中后，目标仅受较弱的疫病中毒状态影响，直到它失败3次豁免检定。然后所选疾病变体生效，并在长休后持续存在，本质上是永久性的。要移除此效果，需用[恢复](Lesser_Restoration.md "Lesser Restoration")或[类似效果](Diseased_(status_group).md#Removal).md#Removal> "Diseased (status group)")治疗目标。
+- 此法术命中后，目标仅受较弱的疫病中毒状态影响，直到它失败3次豁免检定。然后所选疾病变体生效，并在长休后持续存在，本质上是永久性的。要移除此效果，需用[次级复原术](Lesser_Restoration.md "Lesser Restoration")或[类似效果](Diseased_(status_group).md#Removal).md#Removal> "Diseased (status group)")治疗目标。
 - 在战斗外对任何NPC施放疫病术不被视为攻击性动作。
   - 然而，施放法术时攻击掷骰失败*是*被视为攻击性的，并可能导致NPC敌对。
   - 感染[疫病术：脑火](Contagion_colon__Mindfire.md "Contagion: Mindfire")后，NPC将永久对所有人[敌对](Hostile.md "Hostile")，这对于关键任务NPC可能是不希望的。

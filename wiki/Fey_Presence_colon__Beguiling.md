@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
 范围：自身
 范围效果：3米（10英尺）半径
 目标：范围内所有敌人
@@ -23,7 +23,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰"))
 
 - 无法攻击施法者。施法者在[对话](Dialogue.md "对话")中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 

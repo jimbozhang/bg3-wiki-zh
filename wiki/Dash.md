@@ -45,7 +45,7 @@
 
 以下物品在使用疾走时会触发效果：
 
-- [奥术强化之靴](Boots_of_Arcane_Bolstering.md "奥术强化之靴") – 授予两回合的 [奥术充能](Arcane_Charge_(Condition).md "奥术充能（状态）")
+- [奥术强化之靴](Boots_of_Arcane_Bolstering.md "奥术强化之靴") – 授予两回合的 [奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能（状态）")
 - [跃动指套](Fleetfingers.md "跃动指套") – 授予一次免费的特殊 [跳跃](Jump_(Running).md "跳跃（奔跑）") 动作
 - [破阵战靴](Linebreaker_Boots.md "破阵战靴") – 授予三层 [怒火](Wrath_(Condition).md "怒火（状态）")
 - [弹力之靴](Springstep_Boots.md "弹力之靴") – 授予三层 [亢奋](Momentum_(Condition).md "亢奋（状态）")

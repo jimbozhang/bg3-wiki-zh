@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [6级法术位](Spells.md#Spell_slots "法术")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：9米（30英尺）
 [专注](Concentration.md "专注")
 

@@ -27,7 +27,7 @@
 
 持续时间：10驱散
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子检定"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子检定"))
 
 - 受影响实体将跟随并为施放此法术的施法者战斗。
 - 每次它受到伤害时，都可能通过成功的感知[豁免检定](Saving_throw.md "豁免检定")来打破施法者对它的控制。

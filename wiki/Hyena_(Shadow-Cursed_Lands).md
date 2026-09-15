@@ -32,7 +32,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [集群战术](Pack_Tactics.md "集群战术")
 
-**鬣狗**是[幽影诅咒之地](Shadow_Cursed_Lands.md "幽影诅咒之地")中一支[至上真神教徒](Cult_of_the_Absolute.md "至上真神教徒")商队随行的一只未命名的[鬣狗](Hyena.md "鬣狗")，出现在[第二幕](Act_Two.md "第二幕")期间。
+**鬣狗**是[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")中一支[至上真神教徒](Cult_of_the_Absolute.md "至上真神教徒")商队随行的一只未命名的[鬣狗](Hyena.md "鬣狗")，出现在[第二幕](Act_Two.md "第二幕")期间。
 
 > “
 >

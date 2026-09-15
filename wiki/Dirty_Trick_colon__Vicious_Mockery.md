@@ -19,7 +19,7 @@
 1d4⁠[心灵](Psychic.md "Psychic")
 
 详情
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 射程：18米（60英尺）
 
 ## 升级效果
@@ -51,7 +51,7 @@
 
 ## 备注
 
-- 此动作使用基于[魅力](Charisma.md "Charisma")计算的[法术豁免DC](Spell_save_DC.md "Spell_save_DC")。
+- 此动作使用基于[魅力](Charisma.md "Charisma")计算的[法术豁免难度等级](Spell_save_DC.md "Spell_save_DC")。
 - 当目标豁免失败时，战斗日志会错误地显示*施法者*豁免失败。
 
 ---

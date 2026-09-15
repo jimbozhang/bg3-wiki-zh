@@ -13,7 +13,7 @@
 消耗
 [反应](Actions.md#Reactions "动作")
 详情
-充能：每[驱散](Turn.md "驱散")
+充能：每[驱散](Turned_(Condition).md "驱散")
 
 ## 如何习得
 

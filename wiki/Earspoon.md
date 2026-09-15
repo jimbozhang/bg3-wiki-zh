@@ -102,7 +102,7 @@
 
 ## 涉及
 
-埃尔斯邦可以在夏芮丝的爱抚后部找到与博格斯窃窃私语。接近他们会触发被动DC 15的[历史的](History.md "History")[属性检定](Ability_Check.md "属性检定")（游荡者和博德人具有优势）以及DC 10的[欺瞒](Deception.md "Deception")[属性检定](Ability_Check.md "属性检定")或DC 15的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")，以确定他们正在谈论[九指基恩](Nine-Fingers_Keene.md "Nine-Fingers Keene")。队伍随后可以通过通过一项属性检定来询问埃尔斯邦九指的位置：
+埃尔斯邦可以在夏芮丝的爱抚后部找到与博格斯窃窃私语。接近他们会触发被动DC 15的[历史](History.md "History")[属性检定](Ability_Check.md "属性检定")（游荡者和博德人具有优势）以及DC 10的[欺瞒](Deception.md "Deception")[属性检定](Ability_Check.md "属性检定")或DC 15的[察觉技能](Perception.md "Perception")[属性检定](Ability_Check.md "属性检定")，以确定他们正在谈论[九指基恩](Nine-Fingers_Keene.md "Nine-Fingers Keene")。队伍随后可以通过通过一项属性检定来询问埃尔斯邦九指的位置：
 
 - [游说] 来吧，跟我说实话。我不会出卖另一个矮人的。(DC 15)
 - [游说] 我打赌几个硬币就能让你开口。(DC 15)

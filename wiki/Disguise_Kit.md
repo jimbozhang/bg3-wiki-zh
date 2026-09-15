@@ -13,7 +13,7 @@
 - 价格：25 金币
 - UID `TOOL_GEN_DisguiseKit_A_Open` UUID `8ec2a70b-32cc-4223-9c4e-fb845deb262d` ### 效果
 
-[动作](Actions.md#Resources "动作") 伪装工具箱允许使用者在每种种族的两种体型之间选择，以改变其外观。该物品会被[吞噬](consumed.md "吞噬")，并且伪装效果将持续到[长休](Long_Rest.md "长休")或由使用者解除。
+[动作](Actions.md#Resources "动作") 伪装工具箱允许使用者在每种种族的两种体型之间选择，以改变其外观。该物品会被吞噬，并且伪装效果将持续到[长休](Long_Rest.md "长休")或由使用者解除。
 
 ## 获取地点
 

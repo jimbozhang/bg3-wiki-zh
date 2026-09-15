@@ -7,7 +7,7 @@ ______________________________________________________________________
 |  | **复仇之炉** | → | [幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地") |
 ↓
 [被弃避难所](Abandoned_Refuge.md "被弃避难所")
-**复仇之炉**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第一幕](Act_One.md "第一幕")中的一个[区域](Region.md "Region")。这是一个围绕传奇的[精金熔炉](Adamantine_Forge_(location)建造的古老地下堡垒的遗迹.md)。可以通过在[幽暗地域](Underdark.md "幽暗地域")海滩使用小船穿越黑檀湖到达。
+**复仇之炉**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第一幕](Act_One.md "第一幕")中的一个[区域](Region.md "Region")。这是一个围绕传奇的[精金熔炉](Adamantine_Forge_(location).md)建造的古老地下堡垒的遗迹。可以通过在[幽暗地域](Underdark.md "幽暗地域")海滩使用小船穿越黑檀湖到达。
 
 > “
 >
@@ -96,7 +96,7 @@ ______________________________________________________________________
 
 [石匠基斯](Kith.md "Kith")和[格格兰](Gergerann.md "Gergerann")试图在 X: -660 Y: 375 调查复仇之炉的历史。基斯属于对宗教微妙之处不感兴趣的佣兵派系；奴役和索取财富对他也没什么吸引力。
 
-如果冒险者第一次与基斯交谈，他会请求帮助。任何队伍成员都可以通过三次技能检定来检查雕像、碎石和整个区域：[调查](Investigation.md "Investigation")、[历史的](History.md "History")和[察觉技能](Perception.md "Perception")，所有DC均为10，其中：
+如果冒险者第一次与基斯交谈，他会请求帮助。任何队伍成员都可以通过三次技能检定来检查雕像、碎石和整个区域：[调查](Investigation.md "Investigation")、[历史](History.md "History")和[察觉技能](Perception.md "Perception")，所有DC均为10，其中：
 - 历史检定将附近雕像的年代范围缩小为古代，但仍比周围其他遗迹更新；
 - 调查检定告知玩家角色，墙壁并非因年代久远而崩塌——它们是被某种巨大的东西砸碎的；
 - 察觉检定表明入侵生物来自地狱，因为它在碎石上留下了硫磺晶体。
@@ -192,11 +192,11 @@ X: -600 Y: 393 的门通向一个房间，房间尽头有一个隐蔽的部分�
 
 ### 其他地点
 
-在 X: -677 Y: 356，嶙峋的岩石通向悬崖间的一小块地面，地上画着一个巨大的竖琴手标志。一系列检定（DC 15 [历史的](History.md "History") [属性检定](Ability_Check.md "属性检定")，DC 10 [调查](Investigation.md "Investigation") [属性检定](Ability_Check.md "属性检定")）可以帮助识别该标志并评论其布局，对于一个由侦察兵和间谍组成的组织来说，这显得过于开放。
+在 X: -677 Y: 356，嶙峋的岩石通向悬崖间的一小块地面，地上画着一个巨大的竖琴手标志。一系列检定（DC 15 [历史](History.md "History") [属性检定](Ability_Check.md "属性检定")，DC 10 [调查](Investigation.md "Investigation") [属性检定](Ability_Check.md "属性检定")）可以帮助识别该标志并评论其布局，对于一个由侦察兵和间谍组成的组织来说，这显得过于开放。
 
 此外，三个木箱清晰可见。如果靠近，箱子会变成[拟形怪](Mimic.md "Mimic")（可通过 DC 20 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")检测到）。再往前一点，在悬崖上，可以注意到一个[玩具箱子](Toy_Chest.md "玩具箱子")，需要另一次 DC 15 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")。与其互动会揭示一个上锁且设有陷阱的[竖琴手宝箱](Harper_Stash.md "Harper Stash")，可以通过注意到它设有陷阱（DC 15 [察觉技能](Perception.md "Perception") [属性检定](Ability_Check.md "属性检定")）来解除。然而，也可以通过对其施放[轻型](Light.md "轻型")来解除陷阱。解除失败会导致被[粉碎音波](Shatter.md "Shatter")击中，需要通过 DC 10 [体质](Constitution.md "Constitution")豁免来减半伤害。里面有一张[写有证据的卷轴](Scroll_of_Evidence.md "Scroll of Evidence")和一张随机的法术卷轴。如果拟形怪仍在伪装中且未被惊扰，它们不会对激活和搜刮宝箱做出反应。其中一只拟形怪可以拾取到[惊奇手套](Wondrous_Gloves.md "Wondrous Gloves")。
 
-在大约 X: -655 Y: 420，可以检查几具穿着相同盔甲的骷髅。DC 10 [历史的](History.md "History") [属性检定](Ability_Check.md "属性检定")允许玩家角色识别它们都佩戴着[莎尔](Shar.md "Shar")的标志。如果[影心](Shadowheart.md "Shadowheart")在队伍中，她会立即认出并评论这一点。玩家角色选择的答案可能会提高或降低她的好感度（如果[莱埃泽尔](Lae'zel.md "Lae'zel")在场，也会影响她的好感度）。此外，其中一具骷髅可以拾取到一本[暗夜法官日志](Dark_Justiciar's_Journal.md "Dark Justiciar's Journal")——阅读它会开启[帮助护符之魂](Help_the_Spirit_of_the_Amulet.md "Help the Spirit of the Amulet")任务。附近一个上锁的箱子里有一些弩和弹药，如果再次成功通过[历史的](History.md "History")检定，会揭示它们是莎尔信徒制作的。
+在大约 X: -655 Y: 420，可以检查几具穿着相同盔甲的骷髅。DC 10 [历史](History.md "History") [属性检定](Ability_Check.md "属性检定")允许玩家角色识别它们都佩戴着[莎尔](Shar.md "Shar")的标志。如果[影心](Shadowheart.md "Shadowheart")在队伍中，她会立即认出并评论这一点。玩家角色选择的答案可能会提高或降低她的好感度（如果[莱埃泽尔](Lae'zel.md "Lae'zel")在场，也会影响她的好感度）。此外，其中一具骷髅可以拾取到一本[暗夜法官日志](Dark_Justiciar's_Journal.md "Dark Justiciar's Journal")——阅读它会开启[帮助护符之魂](Help_the_Spirit_of_the_Amulet.md "Help the Spirit of the Amulet")任务。附近一个上锁的箱子里有一些弩和弹药，如果再次成功通过[历史](History.md "History")检定，会揭示它们是莎尔信徒制作的。
 
 在 X: -696 Y: 400 攀下另一处嶙峋的岩石，会到达一个上锁且设有陷阱的箱子，里面是[现实火花壁垒](The_Real_Sparky_Sparkswall.md "The Real Sparky Sparkswall")盾牌。
 
@@ -214,7 +214,7 @@ X: -600 Y: 393 的门通向一个房间，房间尽头有一个隐蔽的部分�
 
 该区域可以从码头通过撬开 X: -603 Y: 409 的门到达。里面是一个食堂，有剩餐的痕迹，任何队伍成员通过 DC 10 [宗教](Religion.md "Religion") [属性检定](Ability_Check.md "属性检定")都能认出这是一个*“夜幕”*仪式——一种以血腥献祭为高潮的莎尔仪式宴会。除了影心之外，所有同伴都觉得这有些令人不安。里面的一具骷髅上有一把[坑坑洼洼的钥匙](Pitted_Key.md "Pitted Key")，如果冒险者从另一个方向过来，可以用它开门。
 
-食堂远角有一个可移动的墙段，打开后通向复仇之炉仍然废弃的部分。另一组双开门附近的一块可移动石头露出了一个隐藏的储藏处。门后，楼梯顶部，三只[土黄果冻怪](Ochre_Jelly.md "Ochre Jelly")在[伏击](Ambushing_(Condition).md "伏击 (状态)")中等待，高高地粘在洞穴拱顶上。具体位置由上方滴下的[酸液](Acid_(surface)水池标记.md)。蹲伏绕过它们不会触发果冻怪的攻击。如果被击败，这些生物可以拾取到一种稀有的炼金材料，[土黄果冻怪粘液](Ochre_Jelly_Slime.md "Ochre Jelly Slime")。对称楼梯向下的底部有一个重箱子。从东边的书架上可以拿取两张随机的法术卷轴。
+食堂远角有一个可移动的墙段，打开后通向复仇之炉仍然废弃的部分。另一组双开门附近的一块可移动石头露出了一个隐藏的储藏处。门后，楼梯顶部，三只[土黄果冻怪](Ochre_Jelly.md "Ochre Jelly")在[伏击](Ambushing_(Condition).md "伏击 (状态)")中等待，高高地粘在洞穴拱顶上。具体位置由上方滴下的[酸液](Acid_(surface).md)水池标记。蹲伏绕过它们不会触发果冻怪的攻击。如果被击败，这些生物可以拾取到一种稀有的炼金材料，[土黄果冻怪粘液](Ochre_Jelly_Slime.md "Ochre Jelly Slime")。对称楼梯向下的底部有一个重箱子。从东边的书架上可以拿取两张随机的法术卷轴。
 
 沿着岩石悬崖继续行走和跳跃，冒险者会遇到标有“静思室”的上锁门，可以很容易地绕过角落后面的墙洞进入。里面[菲尔罗敏](Philomeen.md "Philomeen")在等待，似乎被冒险者接近的声音惊动了。她站在一个[符文火药桶](Runepowder_Barrel.md "Runepowder Barrel")附近，当队伍成员足够接近时，威胁要点燃它。然而，可以说服她放弃，然后她要求带着桶离开，以换取一小瓶[符文火药瓶](Runepowder_Vial.md "Runepowder Vial")。她承诺它足够强大，可以炸毁尼讷被困的塌方处。
 
@@ -242,7 +242,7 @@ X: -592 Y: 428 处破损的石栏杆允许冒险者使用[羽落术](Feather_Fal
 
 楼上的门也上了锁，但可以用在附近一具悬挂的骷髅身上找到的[生锈的银钥匙](Tarnished_Silver_Key.md "Tarnished Silver Key")打开。门后，一名[军团魔步兵](Merregon_Legionnaire.md "Merregon Legionnaire")和三只[地狱野猪](Hellsboar.md "Hellsboar")在等待；他们一见到就会敌对。击败他们后，冒险者可以拾取一个[金属面具](Devilfoil_Mask.md "Devilfoil Mask")，并从房间尽头的祭坛上再拿一个。这里的镀金箱子里是[引火者](Firestoker.md "Firestoker")，这是游戏中第一把具有独特特性的[手弩](Hand_Crossbow.md "Hand Crossbow")。
 
-在 X: -558 Y: 409 的一具骷髅身上可以拾取到在[精金熔炉](Adamantine_Forge_(location)锻造物品所需的其中一种模具.md)。
+在 X: -558 Y: 409 的一具骷髅身上可以拾取到在[精金熔炉](Adamantine_Forge_(location).md)锻造物品所需的其中一种模具。
 
 从外门向南，开放的阳台通向一个小平台，与布利斯瓦尔最初站立的点相邻。这里的石桌上有一张[月亮庇所地图](Map_of_Moonhaven.md "Map of Moonhaven")。毁坏倾斜的楼梯通向一个控制板，上面有两个杠杆，对于到达精金熔炉本身很有用。附近躺着的一具骷髅身上有另一个锻造模具。
 

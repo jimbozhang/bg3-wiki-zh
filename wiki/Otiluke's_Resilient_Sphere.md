@@ -28,7 +28,7 @@
 
 持续时间：3回合
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响的生物被包裹在奥术球体中，既不能受到来自球体外部的攻击或效果伤害，也不能伤害球体外的任何东西。受影响生物的[移动速度](Movement_speed.md "移动速度")减半。
 

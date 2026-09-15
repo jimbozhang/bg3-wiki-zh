@@ -1,6 +1,6 @@
 # 奥术强化之靴
 
-奥术强化之靴是一双稀有[靴子](Boots.md "靴子")，当穿戴者[疾走](Dash.md "疾走")时，会获得[奥术充能](Arcane_Charge_(Condition).md)>，并在受威胁时为法术伤害添加+1加成。
+奥术强化之靴是一双稀有[靴子](Boots.md "靴子")，当穿戴者[疾走](Dash.md "疾走")时，会获得[奥术蓄能](Arcane_Charge_(Condition).md)>，并在受威胁时为法术伤害添加+1加成。
 
 这些靴子的鞋带上闪烁着惑控魔法的噼啪作响的尖刺。
 
@@ -15,13 +15,13 @@
 穿戴此物品者获得：
 
 [迅捷施法者](Rapid_Caster.md "迅捷施法者")
-每次[疾走](Dash.md "疾走")时，穿戴者获得持续2回合的[奥术充能](Arcane_Charge_(Condition).md "奥术充能 (状态)")。
+每次[疾走](Dash.md "疾走")时，穿戴者获得持续2回合的[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")。
 
-## 状态：奥术充能
+## 状态：奥术蓄能
 
-**[奥术充能](Arcane_Charge_(Condition).md "奥术充能 (状态)")**
+**[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能 (状态)")**
 
-- 当对[受威胁](Threatened_(Condition).md "受威胁 (状态)")实体造成伤害时，法术伤害获得+2加成。_\[[参见：错误](Arcane_Charge_(Condition).md#Bugs).md#Bugs> "奥术充能 (状态)")\]_
+- 当对[受威胁](Threatened_(Condition).md "受威胁 (状态)")实体造成伤害时，法术伤害获得+2加成。_\[[参见：错误](Arcane_Charge_(Condition).md#Bugs).md#Bugs> "奥术蓄能 (状态)")\]_
 
 ## 获取地点
 

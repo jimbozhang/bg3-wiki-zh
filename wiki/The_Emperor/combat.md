@@ -54,7 +54,7 @@
 
 - [**奥术增强**](../Arcane_Enchantment_(+1).md "奥术增强 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC") 和 [法术攻击](../Spell_Attack.md "法术攻击") 掷骰 +1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级") 和 [法术攻击](../Spell_Attack.md "法术攻击") 掷骰 +1。
 
 - [**霸道复仇**](../Imperial_Retaliation.md "霸道复仇")
 
@@ -106,7 +106,7 @@
 
 - [**奥术增强**](../Arcane_Enchantment_(+1).md "奥术增强 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC") 和 [法术攻击](../Spell_Attack.md "法术攻击") 掷骰 +1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级") 和 [法术攻击](../Spell_Attack.md "法术攻击") 掷骰 +1。
 
 - [**霸道复仇**](../Imperial_Retaliation.md "霸道复仇")
 

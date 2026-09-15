@@ -21,7 +21,7 @@
 详情
 近战武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
 范围：3 米 (10 英尺)
-目标：处于[倒伏](Prone_(status_group).md)、[束缚](Restrained_(status_group).md)或[跛足](Maimed_(Condition)状态的生物.md)
+目标：处于[倒伏](Prone_(status_group).md)、[束缚](Restrained_(status_group).md)或[跛足](Maimed_(Condition).md)状态的生物
 必须[熟练](Proficiency.md#Weapon_proficiency "熟练项")使用该武器
 
 ## 状态：倒伏

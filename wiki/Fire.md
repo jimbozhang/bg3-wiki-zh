@@ -36,7 +36,7 @@
 - [燃火术：投掷](Produce_Flame_colon__Hurl.md "燃火术：投掷")
 - [火焰射线（戏法）](Rays_of_Fire_(Cantrip).md "火焰射线（戏法）")
 - [火焰射线（摩尔）](Rays_of_Fire_(Mol).md "火焰射线（摩尔）")
-- [罗兰的火球术术](Rolan's_Fireball.md "罗兰的火球术术")
+- [罗兰的火球术](Rolan's_Fireball.md "罗兰的火球术")
 - [灼热射线](Scorching_Ray.md "灼热射线")
 - [炽焰斩](Searing_Smite.md "炽焰斩")
 - [火墙术](Wall_of_Fire.md "火墙术")

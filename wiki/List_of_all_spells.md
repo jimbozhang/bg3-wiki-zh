@@ -124,7 +124,7 @@
 
 - [灼热金属](Heat_Metal.md "Heat Metal") *[人类定身术](Hold_Person.md "Hold Person")* [隐形术](Invisibility_(spell).md "Invisibility (spell)") * [敲击术](Knock.md "Knock")
 
-- [恢复](Lesser_Restoration.md "Lesser Restoration")
+- [次级复原术](Lesser_Restoration.md "Lesser Restoration")
 
 - [魔法武器](Magic_Weapon.md "Magic Weapon") * [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow")
 
@@ -276,7 +276,7 @@
 
 - [卡尔萨斯强迫术](Karsus'_Compulsion.md "Karsus' Compulsion")
 
-- [形态塑造：猫妖](Formsculpt_colon__Tressym.md "Formsculpt: Tressym")
+- [形塑：翼猫](Formsculpt_colon__Tressym.md "Formsculpt: Tressym")
 
 - [律令：毁灭](Power_Word_colon__Ruin.md "Power Word: Ruin")
 

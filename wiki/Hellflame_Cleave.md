@@ -19,7 +19,7 @@
 + 2d6[火焰](Fire.md "火焰")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")) (若豁免成功：目标仍承受一半伤害。)
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")) (若豁免成功：目标仍承受一半伤害。)
 范围：3米（10英尺）锥形
 创造区域：地狱火
 充能：[短休](Short_rest.md "短休")

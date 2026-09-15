@@ -22,7 +22,7 @@
 
 持续时间：3驱散
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 被困在蜘蛛网中。无法移动或进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。
 - 被茧缚时，受影响实体对所有伤害具有[抗性](Resistance.md "抗性")。

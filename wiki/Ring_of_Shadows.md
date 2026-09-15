@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- [深影之家](House_in_Deep_Shadows.md "House in Deep Shadows") X: 76 Y: 37：通过与[奥利弗](Oliver.md "Oliver")玩两轮[捉迷藏](Hide_and_Seek.md "Hide and Seek")（无论输赢）后获得奖励
+- [深影之家](House_in_Deep_Shadows.md "House in Deep Shadows") X: 76 Y: 37：通过与[奥利弗](Oliver.md "Oliver")玩两轮捉迷藏（无论输赢）后获得奖励
 
 ## 备注
 

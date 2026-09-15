@@ -16,7 +16,7 @@
 
 - UID `UNI_WYR_Circus_BagOfMolding` UUID `e3781c5c-b674-4c9b-aec8-885e8c54698b` ## 获取地点
 
-- 在[幸运之轮](Circus_of_the Last_Days.md#Layout "最后的狂欢马戏团")抽奖失败后，由[阿卡比](Akabi.md "阿卡比")作为安慰奖给予。
+- 在[幸运之轮](Circus_of_the_Last_Days.md#马戏团布局 "最后的狂欢马戏团")抽奖失败后，由[阿卡比](Akabi.md "阿卡比")作为安慰奖给予。
 
 ## 备注
 

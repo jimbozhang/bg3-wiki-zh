@@ -4,7 +4,7 @@
 
 ## 描述
 
-消耗6米（20英尺）的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的[近战武器攻击](Melee_Weapon_Attack.md "近战武器攻击")额外造成力量调整值⁠⁠[物理](Physical.md "物理")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害（最低1点）。
+消耗6米（20英尺）的[移动](Movement_speed.md "移动速度")，在本回合剩余时间内，每次成功的近战武器攻击额外造成力量调整值⁠⁠[物理](Physical.md "物理")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害（最低1点）。
 
 ## 属性
 

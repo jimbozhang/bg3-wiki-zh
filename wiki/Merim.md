@@ -124,7 +124,7 @@
 每次战斗充能
 
 [信仰守卫](Guardian_of_Faith.md "信仰守卫") (+ )
-召唤一个[神圣卫士](Guardian_of_Faith_(creature)攻击附近的敌人.md)。每次造成伤害时，守卫会失去等量的[生命值](Hit_Points.md "生命值")。
+召唤一个[神圣卫士](Guardian_of_Faith_(creature).md)攻击附近的敌人。每次造成伤害时，守卫会失去等量的[生命值](Hit_Points.md "生命值")。
 
 射程：9 米 (30 英尺)
 每次战斗充能

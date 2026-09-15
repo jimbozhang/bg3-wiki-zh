@@ -27,7 +27,7 @@
 
 持续时间：10驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 受影响实体无法[移动](Movement_speed.md "Movement Speed")或进行[动作](Action.md "Action")、[附赠动作](Bonus_action.md "Bonus Action")或[反应](Reaction.md "Reaction")。
 - 对该实体的攻击具有[优势](Advantage.md "Advantage")。

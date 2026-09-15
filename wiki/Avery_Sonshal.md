@@ -67,7 +67,7 @@
 
 艾弗里·索萨尔可以被扒窃。除了交易商品外，队伍还可以从他身上搜刮到[费洛杰尔烟花铺地窖钥匙](Felogyr's_Fireworks_Cellar_Key.md "费洛杰尔烟花铺地窖钥匙")、[烟火工坊钥匙](Fireworks_Workshop_Key.md "烟火工坊钥匙")、[清账屋保险库钥匙5](Counting_House_Vault_n%C2%BA5_Key.md "清账屋保险库钥匙5")和一封[沾灰信件](Soot-Stained_Letter.md "沾灰信件")。
 
-由于任务[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")无法以和平方式最终解决，艾弗里·索萨尔一注意到任何骚动就会加入战斗，站在居住在建筑二楼的[灾祸](Bane_(God).md), 的追随者一边。他跑上楼，与其他费洛杰尔的员工一起攻击队伍。
+由于任务[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")无法以和平方式最终解决，艾弗里·索萨尔一注意到任何骚动就会加入战斗，站在居住在建筑二楼的[班恩](Bane_(God).md), 的追随者一边。他跑上楼，与其他费洛杰尔的员工一起攻击队伍。
 
 ## 战斗
 

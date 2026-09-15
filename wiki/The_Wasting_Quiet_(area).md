@@ -6,7 +6,7 @@
 
 ## 描述
 
-任何处于这孩童般恐怖瘴气中的生物都会被 [沉默](Silenced_(Condition).md "沉默 (状态)")，并且每次进入该区域或在区域内开始其 [驱散](Turn.md "驱散") 时，都会受到 3d8 [黯蚀](Necrotic.md "黯蚀") 伤害。
+任何处于这孩童般恐怖瘴气中的生物都会被 [沉默](Silenced_(Condition).md "沉默 (状态)")，并且每次进入该区域或在区域内开始其 [驱散](Turned_(Condition).md "驱散") 时，都会受到 3d8 [黯蚀](Necrotic.md "黯蚀") 伤害。
 
 ## 属性
 
@@ -16,7 +16,7 @@
 
 **[寂静消逝](The_Wasting_Quiet_(Condition).md "寂静消逝 (状态)")**
 
-- 该生物被 [沉默](Silenced_(Condition).md "沉默 (状态)")，并且每次进入或在孩童般恐怖的瘴气中开始其 [驱散](Turn.md "驱散") 时，都会受到 3d8 [黯蚀](Necrotic.md "黯蚀") 伤害。
+- 该生物被 [沉默](Silenced_(Condition).md "沉默 (状态)")，并且每次进入或在孩童般恐怖的瘴气中开始其 [驱散](Turned_(Condition).md "驱散") 时，都会受到 3d8 [黯蚀](Necrotic.md "黯蚀") 伤害。
 
 ## 创建方式
 

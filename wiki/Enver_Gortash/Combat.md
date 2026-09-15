@@ -84,7 +84,7 @@
 
 - [**无所畏惧**](../Dauntless.md "无所畏惧")
 
-不会被[恐慌](../Frightened_(Condition)或受到其他改变情绪的状态影响.md)。
+不会被[恐慌](../Frightened_(Condition).md)或受到其他改变情绪的状态影响。
 
 - [**削弱一击**](../Enervating_Suffusion.md "削弱一击")
 
@@ -92,7 +92,7 @@
 
 - [**高等施法**](../High_Spellcasting_(+1).md "高等施法 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC") +1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级") +1。
 
 - [**魔法抗性**](../Magic_Resistance.md "魔法抗性")
 
@@ -102,7 +102,7 @@
 
 攻击离开攻击范围的敌人。
 
-- [**永久武装**](../Permanent_Armed.md "永久武装")
+- [**永久武装**](../Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -168,7 +168,7 @@
 
 - [**无所畏惧**](../Dauntless.md "无所畏惧")
 
-不会被[恐慌](../Frightened_(Condition)或受到其他改变情绪的状态影响.md)。
+不会被[恐慌](../Frightened_(Condition).md)或受到其他改变情绪的状态影响。
 
 - [**削弱一击**](../Enervating_Suffusion.md "削弱一击")
 
@@ -176,7 +176,7 @@
 
 - [**高等施法**](../High_Spellcasting_(+1).md "高等施法 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC") +1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级") +1。
 
 - [**魔法抗性**](../Magic_Resistance.md "魔法抗性")
 
@@ -186,7 +186,7 @@
 
 攻击离开攻击范围的敌人。
 
-- [**永久武装**](../Permanent_Armed.md "永久武装")
+- [**永久武装**](../Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -262,7 +262,7 @@
 
 - [**无所畏惧**](../Dauntless.md "无所畏惧")
 
-不会被[恐慌](../Frightened_(Condition)或受到其他改变情绪的状态影响.md)。
+不会被[恐慌](../Frightened_(Condition).md)或受到其他改变情绪的状态影响。
 
 - [**削弱一击**](../Enervating_Suffusion.md "削弱一击")
 
@@ -270,7 +270,7 @@
 
 - [**高等施法**](../High_Spellcasting_(+1).md "高等施法 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC") +1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级") +1。
 
 - [**魔法抗性**](../Magic_Resistance.md "魔法抗性")
 
@@ -280,7 +280,7 @@
 
 攻击离开攻击范围的敌人。
 
-- [**永久武装**](../Permanent_Armed.md "永久武装")
+- [**永久武装**](../Permanently_Armed.md "永久武装")
 
 无法被缴械。
 

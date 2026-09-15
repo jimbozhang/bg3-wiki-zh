@@ -10,18 +10,18 @@
 
 [更多属性](Conditions.md "状态"):
 
-- [对死亡生效](状态属性/ApplyToDead.md "状态属性/对死亡生效")
+- [对死亡生效](Status_properties/ApplyToDead.md "状态属性/对死亡生效")
 
 ## 状态：幽影诅咒不死生物
 
-**[幽影诅咒不死生物](幽影诅咒不死生物_(状态).md "幽影诅咒不死生物 (状态)")**
+**[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")**
 
 - 那些在阴影中死亡的人被诅咒永远留在那里。
 - 这些不死生物的[生命值](Hit_Points.md "生命值")和[力量](Strength.md "力量")[缩小](Damage_types.md "伤害类型")，对[黯蚀](Necrotic.md "黯蚀")伤害[抗性](Damage_types.md "伤害类型")，并且无法使用[法术](Warlock_Spell_Slot.md "法术")或[武器动作](Weapon_actions.md "武器动作")。
 
 ## 暗影涌入的来源
 
-- [幽影诅咒](幽影诅咒_(状态).md "幽影诅咒 (状态)")
+- [幽影诅咒](Shadow_Curse_(Condition).md "幽影诅咒 (状态)")
 
 ## 拥有暗影涌入的生物
 

@@ -183,7 +183,7 @@
 | [魅力](Charisma.md "魅力") | [欺瞒](Deception.md "欺瞒") [威吓](Intimidation.md "威吓") [表演](Performance.md "表演") [游说](Persuasion.md "游说") |
 | [体质](Constitution.md "体质") | 无 |
 | [敏捷](Dexterity.md "敏捷") | [体操](Acrobatics.md "体操") [巧手](Sleight_of_Hand.md "巧手") [隐匿](Stealth.md "隐匿") |
-| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史的](History.md "历史的") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
+| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史](History.md "历史") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
 | [力量](Strength.md "力量") | [运动](Athletics.md "运动") |
 | [感知](Wisdom.md "感知") | [驯兽](Animal_Handling.md "驯兽") [洞悉](Insight.md "洞悉") [医药](Medicine.md "医药") [察觉技能](Perception.md "察觉技能") [求生](Survival.md "求生") |
 
@@ -208,7 +208,7 @@
 |
 
 - [奥秘](Arcana.md "奥秘")
-- [历史的](History.md "历史的")
+- [历史](History.md "历史")
 - [调查](Investigation.md "调查")
 - [自然](Nature.md "自然")
 - [宗教](Religion.md "宗教")

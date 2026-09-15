@@ -1,6 +1,6 @@
 # 钢铁卫士头盔
 
-[钢铁卫士头盔](Steel_Watcher_Helmet.md "钢铁卫士头盔")是一件稀有[头盔](Headwear.md "头盔")，为穿戴者提供[高级黑暗视觉](Darkvision_(Passive_Feature)并免.md)疫[失明术](Blinded_(Condition).md)。它还提供[优势](Advantage.md "Advantage")于体质豁免检定。
+[钢铁卫士头盔](Steel_Watcher_Helmet.md "钢铁卫士头盔")是一件稀有[头盔](Headwear.md "头盔")，为穿戴者提供[高级黑暗视觉](Darkvision_(Passive_Feature).md)并免疫[失明术](Blinded_(Condition).md)。它还提供[优势](Advantage.md "Advantage")于体质豁免检定。
 
 '当我找到[卡里西姆](Carixim.md "卡里西姆")时，他转向我，所有那些可怜人的灵魂都塞在他体内，而他……他对我咧嘴一笑。他说：“我一直在等你，小子。”' - 从铁匠[戴摩](Dammon.md "戴摩")处偷听到
 
@@ -28,7 +28,7 @@
 
 _关于人工视觉：_
 
-- 人工视觉会阻挡[目盲](Blinded_(status_group)状态组下的任何.md)，而不仅仅是目盲。
+- 人工视觉会阻挡[目盲](Blinded_(status_group).md)状态组下的任何，而不仅仅是目盲。
 
 ## 错误
 

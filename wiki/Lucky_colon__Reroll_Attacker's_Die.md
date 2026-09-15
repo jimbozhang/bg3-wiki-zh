@@ -20,7 +20,7 @@
 ## 备注
 
 - 这不消耗 [反应](Actions.md#Reactions "动作")。
-- 如果重掷结果为自然20，此反应可能将普通命中转变为 [重击](Critical Hit.md "重击")。它不像 [劣势](Disadvantage.md "劣势") 那样使用两个骰子中较低的一个。
+- 如果重掷结果为自然20，此反应可能将普通命中转变为 [重击](Critical_Hit.md "重击")。它不像 [劣势](Disadvantage.md "劣势") 那样使用两个骰子中较低的一个。
 
 ---
 *Source: [Lucky: Reroll Attacker's Die](https://bg3.wiki/wiki/Lucky:_Reroll_Attacker's_Die)*

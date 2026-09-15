@@ -43,7 +43,7 @@
 
 星界也扮演着诸神“墓地”的角色<sup>[\[7\]](#cite_note-7]，他们的残骸创造了整个星界岛屿和大陆。这些岛屿是漂浮在虚空中的少数固体物质之一。漂浮在明亮、灰色虚空中的其他固体物质，通常是从其原始位面断裂下来的物质块。
 
-据说星界没有重力，但进入并穿越其中的物体仍保留其质量。[[4]](#cite_note-Manual_of_the_Planes_1st_edition-4] 在游戏中，这通过[星界重力](Astral_Gravity_(Condition)</sup>.md "星界重力（状态）")状态实现，所有小队成员在星界中都会获得此状态。
+据说星界没有重力，但进入并穿越其中的物体仍保留其质量。[[4]](#cite_note-Manual_of_the_Planes_1st_edition-4] 在游戏中，这通过[星界重力](Astral_Gravity_(Condition).md "星界重力（状态）")状态实现，所有小队成员在星界中都会获得此状态。
 
 星界内的时间效应几乎停滞不前。<sup>[\[8\]](#cite_note-8] 因此，它有时被认为是实质上的永恒。生物在星界中不会感到饥饿或衰老。正因为如此，其凡人居民需要返回物质位面才能生育子女或达到成年。[[5]](#cite_note-Banter-5)</sup>([1]](#cite_note-Dungeon_Master's_Guide_5th_edition-1)
 
@@ -237,7 +237,7 @@ _在星界中执行某些操作会授予以下成就或为获得它们创造条�
 
 [堕影冥界](Shadowfell.md "堕影冥界")，尽管设计有类似的物理环境特性，但仍带有原始混沌和黑暗的迹象，而非空灵、宇宙般的无边无际。
 
-- 尚未确认这具特定尸体属于哪位神祇，或者它是否真的是一位已确立神祇的尸体，但已确认曾作为“死神”漂浮在星界中的神祇如下： ⁠[阿曼纳塔](https://forgottenrealms.fandom.com/wiki/Amaunator), [灾祸](Bane_(God).md), [巴尔](Bhaal.md "巴尔"), ⁠[恩基](https://forgottenrealms.fandom.com/wiki/Enki), ⁠[吉尔吉姆](https://forgottenrealms.fandom.com/wiki/Gilgeam), ⁠[伊布兰杜尔](https://forgottenrealms.fandom.com/wiki/Ibrandul), ⁠[卡尔扎雷纳德](https://forgottenrealms.fandom.com/wiki/Kalzareinad), [卡尔萨斯](Karsus.md "卡尔萨斯"), ⁠[基普提托](https://forgottenrealms.fandom.com/wiki/Kiputytto), ⁠[莱拉](https://forgottenrealms.fandom.com/wiki/Leira), ⁠[莫安德](https://forgottenrealms.fandom.com/wiki/Moander), [米尔寇](Myrkul.md "米尔寇"), ⁠[莱拉](https://forgottenrealms.fandom.com/wiki/Leira), ⁠[乌鲁提乌](https://forgottenrealms.fandom.com/wiki/Ulutiu)。
+- 尚未确认这具特定尸体属于哪位神祇，或者它是否真的是一位已确立神祇的尸体，但已确认曾作为“死神”漂浮在星界中的神祇如下： ⁠[阿曼纳塔](https://forgottenrealms.fandom.com/wiki/Amaunator), [班恩](Bane_(God).md), [巴尔](Bhaal.md "巴尔"), ⁠[恩基](https://forgottenrealms.fandom.com/wiki/Enki), ⁠[吉尔吉姆](https://forgottenrealms.fandom.com/wiki/Gilgeam), ⁠[伊布兰杜尔](https://forgottenrealms.fandom.com/wiki/Ibrandul), ⁠[卡尔扎雷纳德](https://forgottenrealms.fandom.com/wiki/Kalzareinad), [卡尔萨斯](Karsus.md "卡尔萨斯"), ⁠[基普提托](https://forgottenrealms.fandom.com/wiki/Kiputytto), ⁠[莱拉](https://forgottenrealms.fandom.com/wiki/Leira), ⁠[莫安德](https://forgottenrealms.fandom.com/wiki/Moander), [米尔寇](Myrkul.md "米尔寇"), ⁠[莱拉](https://forgottenrealms.fandom.com/wiki/Leira), ⁠[乌鲁提乌](https://forgottenrealms.fandom.com/wiki/Ulutiu)。
 
   - 灾祸、巴尔或米尔寇是尸体的可能性不大，因为他们都已作为准神祇回归[费伦](Faer%C3%BBn.md "费伦")，不再被视为“死亡”。然而，米尔寇在[无冬之夜2：背叛者的面具](https://forgottenrealms.fandom.com/wiki/Neverwinter_Nights_2:_Mask_of_the_Betrayer)中曾以类似方式作为尸体出现在星界。
 

@@ -19,7 +19,7 @@
 5d10 + 5[心灵](Psychic.md "心灵")
 
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：9米（30英尺）
 目标：受[邪魔魅惑](Fiendish_Charm.md "邪魔魅惑")影响的1个生物
 

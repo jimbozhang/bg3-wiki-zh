@@ -2,7 +2,7 @@
 
 **法师灾祸油**
 
-- 受影响实体的法术[攻击掷骰](Attack_rolls.md "Attack Rolls")和[法术豁免DC](Saving_throw.md "Saving Throw")有-3减值
+- 受影响实体的法术[攻击掷骰](Attack_rolls.md "Attack Rolls")和[法术豁免难度等级](Saving_throw.md "Saving Throw")有-3减值
 - [专注](Concentration.md "Concentration")豁免检定具有[劣势](Disadvantage.md "Disadvantage")
 
 ## 属性
@@ -13,7 +13,7 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| 法师灾祸油 | 受影响实体的法术[攻击掷骰](Attack_rolls.md "Attack Rolls")和[法术豁免DC](Saving_throw.md "Saving Throw")有-3减值<br>[专注](Concentration.md "Concentration")豁免检定具有[劣势](Disadvantage.md "Disadvantage") |
+| 法师灾祸油 | 受影响实体的法术[攻击掷骰](Attack_rolls.md "Attack Rolls")和[法术豁免难度等级](Saving_throw.md "Saving Throw")有-3减值<br>[专注](Concentration.md "Concentration")豁免检定具有[劣势](Disadvantage.md "Disadvantage") |
 
 - [涂有法师灾祸油](Coated_in_Wizardsbane_Oil_(Condition).md "Coated in Wizardsbane Oil (Condition)")
 
@@ -25,7 +25,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体的法术[攻击掷骰](Attack_rolls.md "Attack Rolls")和[法术豁免DC](Saving_throw.md "Saving Throw")有-3减值
+- 受影响实体的法术[攻击掷骰](Attack_rolls.md "Attack Rolls")和[法术豁免难度等级](Saving_throw.md "Saving Throw")有-3减值
 - [专注](Concentration.md "Concentration")豁免检定具有[劣势](Disadvantage.md "Disadvantage")
 
 ---

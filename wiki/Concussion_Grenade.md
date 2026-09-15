@@ -30,7 +30,7 @@
 
 ## 备注
 
-- 在地面上停留一[驱散](Turn.md "Turn")后，获得[快速计时地雷](Quickly_Ticking_Mine_(Condition).md "Quickly Ticking Mine (Condition)")状态。在此状态下拾取手雷会导致它在下一驱散开始时在所有者物品栏中爆炸。
+- 在地面上停留一[驱散](Quickly_Ticking_Mine_(Condition).md "Turn")后，获得[快速计时地雷](Quickly_Ticking_Mine_(Condition).md "Quickly Ticking Mine (Condition)")状态。在此状态下拾取手雷会导致它在下一驱散开始时在所有者物品栏中爆炸。
 - 在[硬核](Tactician.md "Tactician")或[荣誉模式](Honour_Mode.md "Honour Mode")下获得[不稳定弹道](Unstable_Ballistics_(Condition).md "Unstable Ballistics (Condition)")状态，导致它们在互动时立即爆炸。
 
 ---

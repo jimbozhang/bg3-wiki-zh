@@ -28,7 +28,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 无法[移动](Movement_speed.md "移动速度")或采取[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。
 - 通过受到伤害、被[推击](Shove.md "推击")或被[协助](Help.md "协助")移除。

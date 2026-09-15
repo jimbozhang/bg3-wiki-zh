@@ -84,7 +84,7 @@
 - [杜伯斯·克洛德斯](Dubos_Clodds.md "杜伯斯·克洛德斯")<sup>[\[2\]](#cite_note-Ceremorphed-2)</sup>
 - [园丁菲利普](Fillip.md "园丁菲利普")
 - [格雷斯·弗拉姆](Grace_Flamm.md "格雷斯·弗拉姆")
-- ['格伦波'·达格斯](['Grumpo'_Daggles.md "'格伦波'·达格斯")<sup>[\[3\]](#cite_note-Out-of-queue-3)</sup>
+- ['格伦波'·达格斯]('Grumpo'_Daggles.md "'格伦波'·达格斯")<sup>[\[3\]](#cite_note-Out-of-queue-3)</sup>
 - [克拉瓦特](Kravatt.md "克拉瓦特")
 - [莫鲁斯·针羽](Morrus_Pinfeather.md "莫鲁斯·针羽")<sup>[\[2\]](#cite_note-Ceremorphed-2)</sup>
 - [报纸小贩约拿](Jonah.md "报纸小贩约拿")

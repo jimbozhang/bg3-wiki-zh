@@ -29,7 +29,7 @@
 
 持续时间：2 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 在[攻击掷骰](Attack_roll.md "Attack Roll")和[检定](Checks.md "Checks")上承受[劣势](Disadvantage.md "Disadvantage")。
 

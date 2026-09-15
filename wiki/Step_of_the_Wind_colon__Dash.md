@@ -1,6 +1,6 @@
 # 飞檐走壁：疾走
 
-**飞檐走壁：疾走**是[武僧](Monk.md "武僧")在[等级](Level.md "等级") 2 时获得的[附赠动作](Actions.md#Resources "动作")。它允许武僧消耗一个[附赠动作](Actions.md#Resources "动作")和一个[气点](Ki_Point.md "气点")来[疾走](Dash.md "疾走")，并在本[驱散](Turn.md "驱散")剩余时间内移除[跳跃](Jump.md "跳跃")的[附赠动作](Actions.md#Resources "动作")消耗。
+**飞檐走壁：疾走**是[武僧](Monk.md "武僧")在[等级](Level.md "等级") 2 时获得的[附赠动作](Actions.md#Resources "动作")。它允许武僧消耗一个[附赠动作](Actions.md#Resources "动作")和一个[气点](Ki_Point.md "气点")来[疾走](Dash.md "疾走")，并在本[驱散](Turned_(Condition).md "驱散")剩余时间内移除[跳跃](Jump.md "跳跃")的[附赠动作](Actions.md#Resources "动作")消耗。
 
 ## 描述
 

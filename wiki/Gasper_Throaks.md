@@ -39,7 +39,7 @@
 
 战斗中所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-**班恩之拳加斯珀·索克斯**是[班恩](Bane_(God)的教徒.md)，也是[布莱森](Blarson_Throaks.md "布莱森·索克斯")和[克洛维亚·索克斯](Clovia_Throaks.md "克洛维亚·索克斯")的儿子。
+**班恩之拳加斯珀·索克斯**是[班恩](Bane_(God).md)的教徒，也是[布莱森](Blarson_Throaks.md "布莱森·索克斯")和[克洛维亚·索克斯](Clovia_Throaks.md "克洛维亚·索克斯")的儿子。
 
 ## 目录
 
@@ -59,7 +59,7 @@
 
 ### 攻击与能力
 
-[主手攻击](Melee_Attack.md "主手攻击") – [硬头锤 +1](硬头锤 +1.md "硬头锤 +1")
+[主手攻击](Melee_Attack.md "主手攻击") – [硬头锤 +1](Mace_+1.md "硬头锤 +1")
 
 伤害：6~11
 
@@ -98,9 +98,9 @@
 
 ### 战利品
 
-- [硬头锤 +1](硬头锤 +1.md "硬头锤 +1")
+- [硬头锤 +1](Tactical_Discipline.md "硬头锤 +1")
 - [链甲](Chain_Mail.md "链甲")
-- [护盾术](护盾术（物品）.md "护盾术（物品）")
+- [护盾术](Shield_(spell).md "护盾术（物品）")
 - [手弩](Hand_Crossbow.md "手弩")
 - [恭喜你，儿子！](Congratulations,_Son!.md "恭喜你，儿子！")
 - 保险箱钥匙[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]

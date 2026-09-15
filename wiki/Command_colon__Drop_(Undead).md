@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "Actions")
 详情
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 射程：18米（60英尺）
 充能：[长休](Long_Rest.md "Long rest")
 

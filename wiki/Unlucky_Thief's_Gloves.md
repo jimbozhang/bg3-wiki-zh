@@ -1,6 +1,6 @@
 # 不幸窃贼手套
 
-不幸窃贼手套是一副[稀有](Rarity.md "稀有")的[手套](Gloves.md "手套")，能为穿戴者提供+2的[巧手](Sleight_of_Hand.md "巧手")检定加值。
+不幸窃贼手套是一副[稀有](Category_colon_Rare_Items.md "稀有")的[手套](Gloves.md "手套")，能为穿戴者提供+2的[巧手](Sleight_of_Hand.md "巧手")检定加值。
 
 每当穿戴者偷窃任何物品时，一小块煤会出现在他们的口袋里，如同一个微小、布满灰尘的[严厉谴责](Condemnation.md "严厉谴责")。
 
@@ -16,7 +16,7 @@
 
 - [巧手](Sleight_of_Hand.md "巧手") +2
 - 每偷窃一件物品，便在穿戴者的物品栏中添加一块[木炭](Charcoal.md "木炭")。
-  - 偷窃20次后，下一次偷窃将添加一个[煤桶](Coal_Bucket.md "煤桶")，这会使玩家陷入[燃烧](Burning_(Condition).md "燃烧 (状态)")状态，持续[驱散](Turn.md "驱散")：1 回合。
+  - 偷窃20次后，下一次偷窃将添加一个[煤桶](Coal_Bucket.md "煤桶")，这会使玩家陷入[燃烧](Burning_(Condition).md "燃烧 (状态)")状态，持续[驱散](Turned_(Condition).md "驱散")：1 回合。
 
 ## 获取地点
 

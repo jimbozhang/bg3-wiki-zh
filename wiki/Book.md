@@ -17,7 +17,7 @@
   - [分类:石板](Category_colon_Slates.md "分类:石板")
   - [吉斯洋基人石板](Githyanki_Slates.md "吉斯洋基人石板") - 提供提尔苏石板的描述性列表
 
-## 故事物品
+## 故事道具
 
 [《谷地植物图鉴》](Flora_of_the_Dalelands.md "《谷地植物图鉴》")
 [《呋噜交配仪式》](Flumph_Mating_Rituals.md "《呋噜交配仪式》")

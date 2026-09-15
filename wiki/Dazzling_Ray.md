@@ -17,7 +17,7 @@
 2d10⁠[光耀](Radiant.md "光耀")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：目标仍承受一半伤害。）
 范围：18米（60英尺）直线
 充能：[短休](Short_rest.md "短休")
 [专注](Concentration.md "专注")
@@ -34,7 +34,7 @@
 
 持续时间：1回合
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响的生物在[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 - 受影响的生物的攻击和法术范围减少至3米（10英尺）。
@@ -56,7 +56,7 @@
 
 ## 备注
 
-- 炫目射线使用施法者的[法术豁免DC](Spell_save_DC.md "法术豁免DC")，而非其[武器动作DC](Weapon_action_DC.md "武器动作DC")，且不涉及攻击掷骰。因此，它不计入[额外攻击](Extra_Attack.md "额外攻击")。
+- 炫目射线使用施法者的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")，而非其[武器动作DC](Weapon_action_DC.md "武器动作DC")，且不涉及攻击掷骰。因此，它不计入[额外攻击](Extra_Attack.md "额外攻击")。
 - 炫目射线使用专注，类似于其他可以重新施展的法术，如[阳炎射线](Sunbeam.md "阳炎射线")。
 - 专注时，施法者获得一个单独的武器动作，称为[重新施展炫目射线](Recast_Dazzling_Ray.md "重新施展炫目射线")。
   - 仅当初始施展的炫目射线击中目标时，重新施展炫目射线才可用。

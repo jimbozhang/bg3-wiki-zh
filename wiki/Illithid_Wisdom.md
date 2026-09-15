@@ -97,7 +97,7 @@
 
 另见：[部分灵吸怪](Partial-illithid.md "Partial-illithid")
 
-首次获得灵吸怪威能时，外圈能力是锁定的。在[第二幕](Act_Two.md "Act_Two")的最后，前往[博德之门](Baldur's_Gate.md "Baldur's Gate")的路上，队伍有机会通过同意吸收[星蚀蝌蚪](Astral-Touched_Tadpole.md "Astral-Touched Tadpole")并成为[部分灵吸怪](Partial-illithid.md "Partial-illithid")来解锁这些威能。这样做会自动解锁[飞行（灵吸怪威能）](Fly_(Illithid_Power)以及最内圈的5个威能.md)：
+首次获得灵吸怪威能时，外圈能力是锁定的。在[第二幕](Act_Two.md "Act_Two")的最后，前往[博德之门](Baldur's_Gate.md "Baldur's Gate")的路上，队伍有机会通过同意吸收[星蚀蝌蚪](Astral-Touched_Tadpole.md "Astral-Touched Tadpole")并成为[部分灵吸怪](Partial-illithid.md "Partial-illithid")来解锁这些威能。这样做会自动解锁[飞行（灵吸怪威能）](Fly_(Illithid_Power).md)以及最内圈的5个威能：
 
 1. [聚能爆破](Concentrated_Blast.md "Concentrated Blast")
 2. [有利开局](Favourable_Beginnings.md "Favourable Beginnings")
@@ -132,13 +132,13 @@
 
 | 威能 | 类型 | 描述 |
 | --- | --- | --- |
-| [强化导力](Strengthened_Force_Tunnel.md "Strengthened Force Tunnel") | 职业动作 | 向前冲锋，将路径上所有物体和生物推离你12米/40英尺。造成3d10+4⁠⁠[力场](Force.md "Force")伤害，并可能使目标[倒地](Prone_(Condition).md "Prone (Condition)") |
+| [强化导力](Strengthened_Force_Tunnel.md "Strengthened Force Tunnel") | 职业动作 | 向前冲锋，将路径上所有物体和生物推离你12米/40英尺。造成3d10+4⁠⁠[力场](Force.md "Force")伤害，并可能使目标[倒伏](Prone_(Condition).md "Prone (Condition)") |
 | [极端孤注一掷](Fierce_Perilous_Stakes.md "Fierce Perilous Stakes") | 职业动作 | 为一名盟友提供额外15⁠⁠[心灵](Psychic.md "Psychic")伤害，当其掷出15或更高时自动[重击](Critical_Hit.md "Critical Hit")，并在命中时恢复生命值。然而，他们也会对所有伤害[易伤](Vulnerable.md "Vulnerable")。 |
 | [星云黑洞](Nebulous_Black_Hole.md "Nebulous Black Hole") | 职业动作 | 创造一个强引力点，造成3d10+4⁠⁠[力场](Force.md "Force")伤害，并可能使敌人[缓慢](Slowed_(Condition).md "Slowed (Condition)")。 |
-| [突触吞噬](Synaptic_Consumption.md "Synaptic Consumption") | 职业动作 | 降低敌人所有[属性值](Ability_Score.md "Ability score")5点，然后每回合降低1点，并在五回合内每回合恢复2~20⁠⁠[治疗](Healing.md "治疗")。敌人将处于[倒地](Prone_(Condition).md "Prone (Condition)")状态。 |
+| [突触吞噬](Synaptic_Consumption.md "Synaptic Consumption") | 职业动作 | 降低敌人所有[属性值](Ability_Score.md "Ability score")5点，然后每回合降低1点，并在五回合内每回合恢复2~20⁠⁠[治疗](Healing.md "治疗")。敌人将处于[倒伏](Prone_(Condition).md "Prone (Condition)")状态。 |
 | [强化隶属之盾](Augmented_Shield_of_Thralls.md "Augmented Shield of Thralls") | 职业动作 | 以两个生物为目标，为他们提供25点[临时生命值](Temporary_Hit_Points.md "Temporary Hit Points")。一旦这些生命值耗尽，护盾会爆裂并使附近敌人[震慑](Stunned_(Condition).md "Stunned (Condition)")。 |
 | [强效聚能爆破](Potent_Concentrated_Blast.md "Potent Concentrated Blast") | 职业动作 | 对一名敌人造成9d6⁠⁠[心灵](Psychic.md "Psychic")伤害。如果他们正在[专注](Concentration.md "Concentration")于一个法术，则恢复等量生命值。 |
-| [提取大脑](Extract_Brain_(Full-illithid).md "Extract Brain (Full-illithid)") | 职业动作 | 对附近处于[震慑](Stunned_(Condition).md "Stunned (Condition)")、[倒地](Prone_(Condition).md "Prone (Condition)")、[沉睡](Sleeping_(Condition).md "Sleeping (Condition)")或[昏迷](Unconscious.md "Unconscious")状态的生物进行脑叶切除术，造成5d10+50⁠⁠[穿刺](Piercing.md "Piercing")伤害并恢复6d6⁠⁠[治疗](Healing.md "治疗")。 |
+| [提取大脑](Extract_Brain_(Full-illithid).md "Extract Brain (Full-illithid)") | 职业动作 | 对附近处于[震慑](Stunned_(Condition).md "Stunned (Condition)")、[倒伏](Prone_(Condition).md "Prone (Condition)")、[沉睡](Sleeping_(Condition).md "Sleeping (Condition)")或[昏迷](Unconscious.md "Unconscious")状态的生物进行脑叶切除术，造成5d10+50⁠⁠[穿刺](Piercing.md "Piercing")伤害并恢复6d6⁠⁠[治疗](Healing.md "治疗")。 |
 | [触手鞭挞](Tentacle_Whip_(Full-illithid).md "Tentacle Whip (Full-illithid)") | 职业动作 | 造成3d10+5⁠⁠[心灵](Psychic.md "Psychic")近战伤害，并可能[震慑](Stunned_(Condition).md "Stunned (Condition)")目标。 |
 | [浮空术](Levitate_(Illithid_Power).md "Levitate (Illithid Power)") | 职业动作 | 使用[移动速度](Resources#Movement_speed.md#Movement_speed "Resources")浮空至目的地。 |
 | [灵魂受挫](Fracture_Psyche_(Full-illithid).md "Fracture Psyche (Full-illithid)") | 职业动作 | 侵入目标的心灵并扰乱其防御。目标的[护甲等级](Armour_Class.md "Armour Class")和[豁免检定](Saving_throw.md "Saving throw")降低5点。如果目标在其灵魂受挫时死亡，你可以在另一个目标上施放[灵魂破碎](Shatter_Psyche_(Full-illithid).md "Shatter Psyche (Full-illithid)")。充能：[短休](Short_rest.md "Short rest") |
@@ -249,7 +249,7 @@
 
 主文章：[施法关键属性](Spells.md#Spellcasting_ability "Spells")
 
-一些灵吸怪威能涉及[豁免检定](Saving_throws.md "Saving throws")。对于这些威能，[难度等级](Difficulty_Class.md "Difficulty class")由你的[施法关键属性调整值](Spells.md#Spellcasting_ability "Spells")决定，即使对于通常没有法术的职业也是如此。所有对法术豁免DC的加成，如[奥术敏锐](Arcane_Acuity_(Condition).md)或[奥术增强](Arcane_Enchantment_(+1).md)，也将适用于灵吸怪威能。
+一些灵吸怪威能涉及[豁免检定](Saving_throws.md "Saving throws")。对于这些威能，[难度等级](Difficulty_Class.md "Difficulty class")由你的[施法关键属性调整值](Spells.md#Spellcasting_ability "Spells")决定，即使对于通常没有法术的职业也是如此。所有对法术豁免难度等级的加成，如[奥术敏锐](Arcane_Acuity_(Condition).md)或[奥术增强](Arcane_Enchantment_(+1).md)，也将适用于灵吸怪威能。
 
 如果身兼多职，此调整值使用的属性值由最后添加的职业决定。换句话说，在新职业中获得1级将把灵吸怪威能（以及物品或卷轴）使用的施法关键属性调整值切换为新职业的调整值。
 

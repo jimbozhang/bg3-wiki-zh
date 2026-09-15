@@ -1,6 +1,6 @@
 # 胡内陵墓
 
-**胡内陵墓**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。可以通过下城区的[墓园](Graveyard_(Lower_City)进入.md)。地上入口位于停尸房的北侧。
+**胡内陵墓**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。可以通过下城区的[墓园](Graveyard_(Lower_City).md)进入。地上入口位于停尸房的北侧。
 
 ## 目录
 
@@ -13,7 +13,7 @@
 
 ## 进入方式
 
-陵墓可通过下城区的[墓园](Graveyard_(Lower_City)进入.md)，位于停尸房北侧，坐标 X: 17 Y: 41。需要[胡内陵墓钥匙](Hhune_Mausoleum_Key.md "胡内陵墓钥匙")（可在[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点")的桃花心木衣柜中找到，坐标 X: -744 Y: 537），或通过 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来打开大门。
+陵墓可通过下城区的[墓园](Graveyard_(Lower_City).md)进入，位于停尸房北侧，坐标 X: 17 Y: 41。需要[胡内陵墓钥匙](Hhune_Mausoleum_Key.md "胡内陵墓钥匙")（可在[盾牌骑士藏身点](Knights_of_the_Shield_Hideout.md "盾牌骑士藏身点")的桃花心木衣柜中找到，坐标 X: -744 Y: 537），或通过 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来打开大门。
 
 ## 概述
 

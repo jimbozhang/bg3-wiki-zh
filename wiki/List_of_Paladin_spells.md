@@ -6,7 +6,7 @@
 
 圣武士法术是[预备法术](Prepared_spells.md "预备法术")，因此所有圣武士都可以使用这些法术（取决于其圣武士等级），并在任何时候准备有限数量的法术。
 
-圣武士法术将使用施法者的[魅力](Charisma.md "魅力")调整值进行[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
+圣武士法术将使用施法者的[魅力](Charisma.md "魅力")调整值进行[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
 
 ## 圣武士法术列表
 
@@ -25,7 +25,7 @@
 | [激愤斩](Wrathful_Smite.md "激愤斩") | 1 |  |  | 2回合 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 正常武器伤害 / 1d6⁠[心灵](Psychic.md "心灵") |
 | [支援术](Aid.md "支援术") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺 (半径) | - | - |
 | [印记斩](Branding_Smite.md "印记斩") | 2 |  |  | 10回合 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") | 正常武器伤害 / 2d6⁠[光耀](Radiant.md "光耀") |
-| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
+| [次级复原术](Lesser_Restoration.md "次级复原术") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
 | [魔法武器](Magic_Weapon.md "魔法武器") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [防护毒素](Protection_from_Poison.md "防护毒素") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [致盲斩](Blinding_Smite.md "致盲斩") | 3 |  |  | 10回合 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | 正常武器伤害 / 3d8⁠[光耀](Radiant.md "光耀") |

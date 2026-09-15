@@ -11,7 +11,7 @@
 ## 属性
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子检定"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子检定"))
 范围效果：半径 4 米 (13 英尺)
 目标：半径内的所有敌人
 
@@ -21,7 +21,7 @@
 
 持续时间：4 回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子检定"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子检定"))
 
 - 受影响的生物变成黄金。它无法移动或执行动作、附赠动作或反应。
 

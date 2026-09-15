@@ -22,7 +22,7 @@
 
 ## 简要预览
 
-不会被元素生物和妖精[魅惑](Charmed_(Condition).md.md.md)))) "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫患病。
+不会被元素生物和妖精[魅惑](Charmed_(Condition).md)))) "魅惑 (状态)")或[恐慌](Frightened_(Condition).md "恐慌 (状态)")。免疫患病。
 
 ---
 *Source: [Nature's Ward](https://bg3.wiki/wiki/Nature's_Ward)*

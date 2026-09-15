@@ -40,13 +40,13 @@
 
 ### 攻击和能力
 
-[飞行](Fly_(职业动作).md "飞行 (职业动作)")
+飞行
 飞至目标位置
 
 范围：18 m (60 ft)
 
-[大风](Gale_(职业动作).md "大风 (职业动作)")
-拍打雄伟的翅膀制造强风，将生物击退5 m / 17 ft并使其陷入[倒伏](Prone_(状态).md "倒伏 (状态)")状态。
+大风
+拍打雄伟的翅膀制造强风，将生物击退5 m / 17 ft并使其陷入[倒伏](Prone_(Condition).md "倒伏 (状态)")状态。
 
 [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "豁免检定")
 
@@ -93,7 +93,7 @@
 
 ## 注释
 
-- [侦测存在](Detecting_Presence_(状态).md "侦测存在 (状态)")在某些情况下使用（例如在战斗开始后隐藏）。 \[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
+- 侦测存在在某些情况下使用（例如在战斗开始后隐藏）。 \[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ---
 *Source: [Ancient Giant Eagle](https://bg3.wiki/wiki/Ancient_Giant_Eagle)*

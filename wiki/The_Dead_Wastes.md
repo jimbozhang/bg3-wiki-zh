@@ -47,7 +47,7 @@
 **[凋零凡躯](Wasting_Mortal_(Condition).md "凋零凡躯 (状态)")**
 
 - 此活物在每回合结束时，若处于 [死亡荒原](The_Dead_Wastes_(Condition).md "死亡荒原 (状态)") 内，则受到 4d6⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。
-- 受影响的生物也无法 [恢复](regenerate.md "恢复") [生命值](Hit_Points.md "生命值")，且其移动消耗翻倍。
+- 受影响的生物也无法 [恢复](Hit_Points.md "恢复") [生命值](Hit_Points.md "生命值")，且其移动消耗翻倍。
 
 ## 如何习得
 

@@ -1,8 +1,8 @@
-# 次级恢复卷轴
+# 次级复原术卷轴
 
 本文介绍的是一个物品或其他先前可获取的内容，该内容已被[从游戏中移除](Category_colon_Unobtainable.md "Category:Unobtainable")，在当前游戏版本中**不再可获取**。
 
-次级恢复卷轴是一种单次使用的卷轴，允许使用者以一个[动作](Action.md "动作")施放[恢复](Lesser_Restoration.md "恢复")。
+次级复原术卷轴是一种单次使用的卷轴，允许使用者以一个[动作](Action.md "动作")施放[次级复原术](Lesser_Restoration.md "恢复")。
 
 ## 属性
 

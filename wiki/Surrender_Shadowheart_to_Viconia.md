@@ -1,6 +1,6 @@
 # 把影心交给维康妮亚
 
-**把影心交给维康妮亚**是[博德之门3](Baldur's Gate_3.md "博德之门3")[第三章](Act_Three.md "第三章")中[调查哀伤之邸](Investigate_the_House_of_Grief.md "调查哀伤之邸")任务的一个子任务。可以通过在[哀伤之邸](House_of_Grief.md "哀伤之邸")与[维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")对话来启动。
+**把影心交给维康妮亚**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三章](Act_Three.md "第三章")中[调查哀伤之邸](Investigate_the_House_of_Grief.md "调查哀伤之邸")任务的一个子任务。可以通过在[哀伤之邸](House_of_Grief.md "哀伤之邸")与[维康妮亚·迪佛](Viconia_DeVir.md "维康妮亚·迪佛")对话来启动。
 
 ## 目录
 

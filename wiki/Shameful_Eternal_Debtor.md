@@ -34,7 +34,7 @@
 
 - [永恒债务](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
-死亡时，爆炸成火球术术，然后转生为受拉斐尔束缚的邪魔生物。
+死亡时，爆炸成火球术，然后转生为受拉斐尔束缚的邪魔生物。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -46,7 +46,7 @@
 
 - [永恒债务](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
-死亡时，爆炸成火球术术，然后转生为受拉斐尔束缚的邪魔生物。
+死亡时，爆炸成火球术，然后转生为受拉斐尔束缚的邪魔生物。
 
 ## 抗性 [抗性](Resistances.md "抗性")
 
@@ -58,7 +58,7 @@
 
 - [永恒债务](Forever_Indebted_(passive_feature).md "永恒债务 (被动特性)")
 
-死亡时，爆炸成火球术术，然后转生为受拉斐尔束缚的邪魔生物。
+死亡时，爆炸成火球术，然后转生为受拉斐尔束缚的邪魔生物。
 
 **羞愧的永恒债务人**是受[拉斐尔](Raphael.md "Raphael")束缚的[永恒债务人](Eternal_Debtor.md "Eternal Debtor")。
 

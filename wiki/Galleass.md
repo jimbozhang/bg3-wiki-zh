@@ -31,13 +31,13 @@
 
 [数币所炮手](Counting_House_Artillerist.md "数币所炮手")
 
-- 均衡
+- 平衡
 
-- 探险家
+- 探索者
 
 - 战术家
 
-## 均衡难度属性
+## 平衡难度属性
 
 ### 等级
 
@@ -107,7 +107,7 @@
 
 攻击一个离开攻击范围的敌人。
 
-## 探险家难度属性
+## 探索者难度属性
 
 ### 等级
 
@@ -261,7 +261,7 @@ UUID
 
 Stats
 
-`LOW_CountingHouse_Ranged_Human` **数币所守卫 Galleass** 是守卫队的一名人类成员，可以在[博德之门](Baldur_Gate.md "博德之门")[下城区](Lower_City.md "下城区")的[数币所](The_Counting_House.md "数币所")外的码头巡逻时找到她。
+`LOW_CountingHouse_Ranged_Human` **数币所守卫 Galleass** 是守卫队的一名人类成员，可以在[博德之门](Baldur's_Gate.md "博德之门")[下城区](Lower_City.md "下城区")的[数币所](The_Counting_House.md "数币所")外的码头巡逻时找到她。
 
 > "
 >

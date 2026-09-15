@@ -25,7 +25,7 @@
 当敌人用近战攻击命中你时，你可以使用你的[反应](reaction.md "reaction")将其击至[倒伏](Prone_(Condition).md "Prone (Condition)")，除非他们成功通过[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving throw")。
 
 [奥术增强](Arcane_Enchantment_(+1).md)
-你获得对[法术豁免DC](Spell_save_DC.md "Spell Save DC")和[法术攻击](Spell_Attack.md "Spell Attack")检定的+1加值。
+你获得对[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")和[法术攻击](Spell_Attack.md "Spell Attack")检定的+1加值。
 
 ## 获取地点
 

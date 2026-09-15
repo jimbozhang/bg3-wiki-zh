@@ -10,7 +10,7 @@
 | 半影护甲 | [护甲](Armour.md "护甲") ([轻甲](Light_Armour.md "轻甲")) | [隐匿者](Stealthier.md "隐匿者")当处于[遮蔽](Obscured.md "遮蔽")状态时，穿戴者获得+3加值到[隐匿](Stealth.md "隐匿")检定。 |
 | 幽影之刃戒指 | [戒指](Ring.md "戒指") | [破影利刃](Shadow_Blade.md "破影利刃")（+）以2环法术施展（充能：[短休](Short_rest.md "短休")。） |
 | 暗影步之靴 | [靴子](Footwear.md "靴子") ([非护甲](Footwear#Non-Armour.md#Non-Armour "靴子")) | [阴影传送](Shadow_Teleportation.md "阴影传送")（）传送至一个未被占据的、处于遮蔽的地点。（充能：[短休](Short_rest.md "短休")。） |
-| 遮蔽施法饰环 | [帽子](Headgear.md "帽子") ([非护甲](Headgear#Non-Armour.md#Non-Armour "帽子")) | [遮蔽施法](Shadespell.md "遮蔽施法")当穿戴者处于阴影[遮蔽](Obscured.md "遮蔽")状态时，其法术获得+1加值到[法术豁免DC](Spell_save_DC.md "法术豁免DC")，使其更易成功。 |
+| 遮蔽施法饰环 | [帽子](Headgear.md "帽子") ([非护甲](Headgear#Non-Armour.md#Non-Armour "帽子")) | [遮蔽施法](Shadespell.md "遮蔽施法")当穿戴者处于阴影[遮蔽](Obscured.md "遮蔽")状态时，其法术获得+1加值到[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")，使其更易成功。 |
 
 ## 拉杜格的叛逆子嗣遗物描述
 

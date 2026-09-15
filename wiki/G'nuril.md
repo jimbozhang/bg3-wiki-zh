@@ -1,4 +1,4 @@
-# G'nuril
+# 格努里尔
 
 | | |
 | --- | --- |
@@ -113,4 +113,4 @@ G'nuril 站在[队长办公区](Captain's_Quarters.md "Captain's Quarters")的�
 - [简易长袍](Simple_Robe.md "Simple Robe")
 
 ---
-*Source: [G'nuril](https://bg3.wiki/wiki/G'nuril)*
+*Source: [格努里尔](https://bg3.wiki/wiki/G'nuril)*

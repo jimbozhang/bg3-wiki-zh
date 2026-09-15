@@ -2,7 +2,7 @@
 
 **阴影形态**
 
-- 命中时，受影响实体造成额外 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。该实体[免疫](Immune.md "免疫")非魔法伤害，并且每回合可以进行一次额外的[近战攻击](Melee Attack.md "Melee Attack")。维持此形态时无法施放[法术](Spells.md "Spells")。
+- 命中时，受影响实体造成额外 1d8⁠⁠[黯蚀](Necrotic.md "Necrotic") 伤害。该实体[免疫](Immune.md "免疫")非魔法伤害，并且每回合可以进行一次额外的[近战攻击](Melee_Attack.md "Melee Attack")。维持此形态时无法施放[法术](Spells.md "Spells")。
 
 ## 属性
 

@@ -1,6 +1,6 @@
 # 飞檐走壁：撤离
 
-**飞檐走壁：撤离**是[武僧](Monk.md "武僧")在2级时获得的[附赠动作](Actions.md#Resources "动作")。它允许武僧花费一个[附赠动作](Actions.md#Resources "动作")和一个[气点](Ki_Point.md "气点")来[撤离](Disengage.md "撤离")，并在本[驱散](Turn.md "驱散")的剩余时间内移除[跳跃](Jump.md "跳跃")的附赠动作消耗。
+**飞檐走壁：撤离**是[武僧](Monk.md "武僧")在2级时获得的[附赠动作](Actions.md#Resources "动作")。它允许武僧花费一个[附赠动作](Actions.md#Resources "动作")和一个[气点](Ki_Point.md "气点")来[撤离](Disengage.md "撤离")，并在本[驱散](Turned_(Condition).md "驱散")的剩余时间内移除[跳跃](Jump.md "跳跃")的附赠动作消耗。
 
 ## 描述
 

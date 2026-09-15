@@ -2,7 +2,7 @@
 
 **警觉灵药**
 
-- 受影响实体的先攻有 +5 加值，且不会被 [受惊](受惊_(状态).md "受惊 (状态)")。饮用时会替换其他灵药的效果。
+- 受影响实体的先攻有 +5 加值，且不会被 [受惊](Surprised_(Condition).md "受惊 (状态)")。饮用时会替换其他灵药的效果。
 
 ## 属性
 
@@ -20,68 +20,68 @@ _Wiki 数据库中未定义_
 
 - 对 [强酸](Acid.md "强酸") 伤害 [抗性](Resistance.md "抗性")。
 
-[寒冷抗性](寒冷抗性_(状态).md "寒冷抗性 (状态)")
+[寒冷抗性](Cold_Resistance_(Condition).md "寒冷抗性 (状态)")
 |
 
 - 对 [寒冷](Cold.md "寒冷") 伤害 [抗性](Resistance.md "抗性")。
 
-[奥术滋养灵药](奥术滋养灵药_(状态).md "奥术滋养灵药 (状态)")
+[奥术滋养灵药](Elixir_of_Arcane_Cultivation_(Condition).md "奥术滋养灵药 (状态)")
 |
 
 - 拥有额外的 [1环法术位](Warlock_Spell_Slot.md#法术位 "法术")。
 
-[树肤术灵药](树肤术灵药_(状态).md "树肤术灵药 (状态)")
+[树肤术灵药](Elixir_of_Barkskin_(Condition).md "树肤术灵药 (状态)")
 |
 
 - [护甲等级](Armor_Class.md "护甲等级") 提升至 16。
 
-[战斗法师之力灵药](战斗法师之力灵药_(状态).md "战斗法师之力灵药 (状态)")
+[战斗法师之力灵药](Elixir_of_Battlemage's_Power_(Condition).md "战斗法师之力灵药 (状态)")
 |
 
-- 受影响实体拥有 [奥术敏锐](奥术敏锐_(状态).md "奥术敏锐 (状态)")，直到其下一次 [长休](Long_rest.md "长休")。饮用时会替换其他灵药的效果。
+- 受影响实体拥有 [奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")，直到其下一次 [长休](Long_rest.md "长休")。饮用时会替换其他灵药的效果。
   - 获得 3 回合的奥术敏锐。
   - 奥术敏锐不会低于 3 回合。
 
-[嗜血灵药](嗜血灵药_(状态).md "嗜血灵药 (状态)")
+[嗜血灵药](Elixir_of_Bloodlust_(Condition).md "嗜血灵药 (状态)")
 |
 
-- 受影响实体已进入嗜血的杀戮状态。每回合一次，当它杀死一个敌人时，获得 5 点 [临时生命值](Temporary_Hit_Points.md "临时生命值") 和一个 [动作](动作#资源.md "动作")。
+- 受影响实体已进入嗜血的杀戮状态。每回合一次，当它杀死一个敌人时，获得 5 点 [临时生命值](Temporary_Hit_Points.md "临时生命值") 和一个 [动作](Temporary_Hit_Points.md "动作")。
 
-[云巨人力量灵药](云巨人力量灵药_(状态).md "云巨人力量灵药 (状态)")
+[云巨人力量灵药](Elixir_of_Cloud_Giant_Strength_(Condition).md "云巨人力量灵药 (状态)")
 |
 
 - [力量](Strength.md "力量") 提升至 27。
 
-[黑暗视觉灵药](黑暗视觉灵药_(状态).md "黑暗视觉灵药 (状态)")
+[黑暗视觉灵药](Elixir_of_Darkvision_(Condition).md "黑暗视觉灵药 (状态)")
 |
 
 - 可在黑暗中看到 12 米（40 英尺）。
 
-[自由行动药水](自由行动药水_(状态).md "自由行动药水 (状态)")
+[自由行动药水](Elixir_of_Guileful_Movement_(Condition).md "自由行动药水 (状态)")
 |
 
 - [移动速度](Movement_speed.md "移动速度") 不会被 [劣势地形](Difficult_Terrain.md "劣势地形")、法术或魔法效果降低。
-- 不会被 [麻痹](麻痹_(状态).md "麻痹 (状态)") 或 [束缚](束缚_(状态).md "束缚 (状态)")。
+- 不会被 [麻痹](Paralysed_(Condition).md "麻痹 (状态)") 或 [束缚](Restrained_(Condition).md "束缚 (状态)")。
 - 饮用时会替换其他灵药的效果。
 
-[英勇灵药](英勇灵药_(状态).md "英勇灵药 (状态)")
+[英勇灵药](Elixir_of_Heroism_(Condition).md "英勇灵药 (状态)")
 |
 
 - 受影响实体获得 **1d4** 加值到 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [豁免检定](Saving_throw.md "豁免检定")，直到下一次长休。
 
-[山丘巨人力量灵药](山丘巨人力量灵药_(状态).md "山丘巨人力量灵药 (状态)")
+[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength_(Condition).md "山丘巨人力量灵药 (状态)")
 |
 
 - [力量](Strength.md "力量") 提升至 21。
 
-[卓越专注灵药](卓越专注灵药_(状态).md "卓越专注灵药 (状态)")
+[卓越专注灵药](Elixir_of_Peerless_Focus_(Condition).md "卓越专注灵药 (状态)")
 |
 
 - 受影响实体维持法术的能力增强。
-- 在对抗 [魅惑](魅惑_(状态组).md) 和维持 [专注](Concentration.md "专注") 时，具有 [优势](Disadvantage.md "优势") 进行 [豁免检定](Saving_throw.md "豁免检定")。
-- 不会被陷入 [沉睡](沉睡_(状态).md "沉睡 (状态)")。
+- 在对抗 [魅惑](Charmed_(Condition).md) 和维持 [专注](Concentration.md "专注") 时，具有 [优势](Disadvantage.md "优势") 进行 [豁免检定](Saving_throw.md "豁免检定")。
+- 不会被陷入 [沉睡](Sleeping_(Condition).md "沉睡 (状态)")。
 
-[巨像灵药](巨像灵药_(状态).md "巨像灵药 (状态)")
+[巨像灵药](Elixir_of_The_Colossus_(Condition).md "巨像灵药 (状态)")
 |
 
 - [体型](Medium.md "生物体型") 增大
@@ -90,35 +90,35 @@ _Wiki 数据库中未定义_
 
 | 状态 | 效果 |
 | --- | --- |
-| [强酸抗性](强酸抗性_(状态).md "强酸抗性 (状态)") | 对 [强酸](Acid.md "强酸") 伤害 [抗性](Resistance.md "抗性")。 |
-| [寒冷抗性](寒冷抗性_(状态).md "寒冷抗性 (状态)") | 对 [寒冷](Cold.md "寒冷") 伤害 [抗性](Resistance.md "抗性")。 |
-| [奥术滋养灵药](奥术滋养灵药_(状态).md "奥术滋养灵药 (状态)") | 拥有额外的 [1环法术位](法术#法术位.md#法术位 "法术")。 |
-| [树肤术灵药](树肤术灵药_(状态).md "树肤术灵药 (状态)") | [护甲等级](Armor_Class.md "护甲等级") 提升至 16。 |
-| [战斗法师之力灵药](战斗法师之力灵药_(状态).md "战斗法师之力灵药 (状态)") | 受影响实体拥有 [奥术敏锐](奥术敏锐_(状态).md "奥术敏锐 (状态)")，直到其下一次 [长休](Long_rest.md "长休")。饮用时会替换其他灵药的效果。获得 3 回合的奥术敏锐。奥术敏锐不会低于 3 回合。 |
-| [嗜血灵药](嗜血灵药_(状态).md "嗜血灵药 (状态)") | 受影响实体已进入嗜血的杀戮状态。每回合一次，当它杀死一个敌人时，获得 5 点 [临时生命值](Temporary_Hit_Points.md "临时生命值") 和一个 [动作](动作#资源.md "动作")。 |
-| [云巨人力量灵药](云巨人力量灵药_(状态).md "云巨人力量灵药 (状态)") | [力量](Strength.md "力量") 提升至 27。 |
-| [黑暗视觉灵药](黑暗视觉灵药_(状态).md "黑暗视觉灵药 (状态)") | 可在黑暗中看到 12 米（40 英尺）。 |
-| [自由行动药水](自由行动药水_(状态).md "自由行动药水 (状态)") | [移动速度](Movement_speed.md "移动速度") 不会被 [劣势地形](Difficult_Terrain.md "劣势地形")、法术或魔法效果降低。不会被 [麻痹](麻痹_(状态).md "麻痹 (状态)") 或 [束缚](束缚_(状态).md "束缚 (状态)")。饮用时会替换其他灵药的效果。 |
-| [英勇灵药](英勇灵药_(状态).md "英勇灵药 (状态)") | 受影响实体获得 1d4 加值到 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [豁免检定](Saving_throw.md "豁免检定")，直到下一次长休。 |
-| [山丘巨人力量灵药](山丘巨人力量灵药_(状态).md "山丘巨人力量灵药 (状态)") | [力量](Strength.md "力量") 提升至 21。 |
-| [卓越专注灵药](卓越专注灵药_(状态).md "卓越专注灵药 (状态)") | 受影响实体维持法术的能力增强。在对抗 [魅惑](魅惑_(状态组).md "魅惑 (状态组)") 和维持 [专注](Concentration.md "专注") 时，具有 [优势](Disadvantage.md "优势") 进行 [豁免检定](Saving_throw.md "豁免检定")。不会被陷入 [沉睡](沉睡_(状态).md "沉睡 (状态)")。 |
-| [巨像灵药](巨像灵药_(状态).md "巨像灵药 (状态)") | [体型](Medium.md "生物体型") 增大。武器造成额外 1d4 伤害，且受影响实体在进行 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 时具有 [优势](Disadvantage.md "优势")。[负重](Carrying_capacity.md "负重") 也提高 25%。 |
-| [邪恶灵药](邪恶灵药_(状态).md "邪恶灵药 (状态)") | 攻击时 [重击](Critical_Hit.md "重击") 所需的 [掷骰](Attack_roll.md "攻击掷骰") 数值减少 1。此效果可叠加。饮用时会替换其他灵药的效果。 |
-| 警觉灵药 | 受影响实体的先攻有 +5 加值，且不会被 [受惊](受惊_(状态).md "受惊 (状态)")。饮用时会替换其他灵药的效果。 |
-| [火焰抗性](火焰抗性_(状态).md "火焰抗性 (状态)") | 获得对 [火焰](Fire.md "火焰") 伤害的 [抗性](Resistance.md "抗性")，且不再会 [燃烧](燃烧_(状态).md "燃烧 (状态)")。 |
-| [力场抗性](力场抗性_(状态).md "力场抗性 (状态)") | 对 [力场](Force.md "力场") 伤害 [抗性](Resistance.md "抗性")。 |
-| [高效奥术滋养灵药](高效奥术滋养灵药_(状态).md "高效奥术滋养灵药 (状态)") | 拥有额外的 [二级法术位](法术#法术位.md#法术位 "法术")。 |
-| [闪电抗性](闪电抗性_(状态).md "闪电抗性 (状态)") | 对 [闪电](Lightning.md "闪电") 伤害 [抗性](Resistance.md "抗性")。不再会被 [感电](感电_(状态).md "感电 (状态)")、[电击](电击_(状态).md "电击 (状态)")、[电击](电击_(状态).md "电击 (状态)")，或以其他方式受闪电影响。 |
-| [黯蚀抗性](黯蚀抗性_(状态).md "黯蚀抗性 (状态)") | 对 [黯蚀](Necrotic.md "黯蚀") 伤害 [抗性](Resistance.md "抗性")。 |
-| [中毒抗性](中毒抗性_(状态).md "中毒抗性 (状态)") | 对 [毒素](Poison.md "毒素") 伤害 [抗性](Resistance.md "抗性")。不再会 [中毒](中毒_(状态组).md "中毒 (状态组)")。 |
-| [灵能弱化](灵能弱化_(状态).md "灵能弱化 (状态)") | 受影响实体在进行体质、感知和智力 [豁免检定](Saving_throw.md "豁免检定") 时具有 [劣势](Disadvantage.md "劣势")。饮用时会替换其他灵药的效果。 |
-| [心灵抗性](心灵抗性_(状态).md "心灵抗性 (状态)") | 对 [心灵](Psychic_damage.md "心灵") 伤害 [抗性](Resistance.md "抗性")。 |
-| [光耀抗性](光耀抗性_(状态).md "光耀抗性 (状态)") | 对 [光耀](Radiant.md "光耀") 伤害 [抗性](Resistance.md "抗性")。 |
-| [对黯蚀伤害抗性](对黯蚀伤害抗性_(状态).md "对黯蚀伤害抗性 (状态)") | 对此实体的黯蚀伤害减半。 |
-| [对光耀伤害抗性](对光耀伤害抗性_(状态).md "对光耀伤害抗性 (状态)") | 对此实体的光耀伤害减半。 |
-| [特效奥术滋养灵药](特效奥术滋养灵药_(状态).md "特效奥术滋养灵药 (状态)") | 拥有额外的三级 [法术位](Spell_Slot.md "法术位")。 |
-| [极效奥术滋养灵药](极效奥术滋养灵药_(状态).md "极效奥术滋养灵药 (状态)") | 拥有额外的四级 [法术位](Spell_Slot.md "法术位")。饮用时会替换其他灵药的效果。 |
-| [雷鸣抗性](雷鸣抗性_(状态).md "雷鸣抗性 (状态)") | 对 [雷鸣](Thunder.md "雷鸣") 伤害 [抗性](Resistance.md "抗性")。 |
+| [强酸抗性](Acid_Resistance_(Condition).md "强酸抗性 (状态)") | 对 [强酸](Acid.md "强酸") 伤害 [抗性](Resistance.md "抗性")。 |
+| [寒冷抗性](Cold_Resistance_(Condition).md "寒冷抗性 (状态)") | 对 [寒冷](Cold.md "寒冷") 伤害 [抗性](Resistance.md "抗性")。 |
+| [奥术滋养灵药](Elixir_of_Arcane_Cultivation_(Condition).md "奥术滋养灵药 (状态)") | 拥有额外的 [1环法术位](法术#法术位.md#法术位 "法术")。 |
+| [树肤术灵药](Elixir_of_Barkskin_(Condition).md "树肤术灵药 (状态)") | [护甲等级](Armor_Class.md "护甲等级") 提升至 16。 |
+| [战斗法师之力灵药](Elixir_of_Battlemage's_Power_(Condition).md "战斗法师之力灵药 (状态)") | 受影响实体拥有 [奥术敏锐](Arcane_Acuity_(Condition).md "奥术敏锐 (状态)")，直到其下一次 [长休](Long_rest.md "长休")。饮用时会替换其他灵药的效果。获得 3 回合的奥术敏锐。奥术敏锐不会低于 3 回合。 |
+| [嗜血灵药](Elixir_of_Bloodlust_(Condition).md "嗜血灵药 (状态)") | 受影响实体已进入嗜血的杀戮状态。每回合一次，当它杀死一个敌人时，获得 5 点 [临时生命值](Temporary_Hit_Points.md "临时生命值") 和一个 [动作](Action.md "动作")。 |
+| [云巨人力量灵药](Elixir_of_Cloud_Giant_Strength_(Condition).md "云巨人力量灵药 (状态)") | [力量](Strength.md "力量") 提升至 27。 |
+| [黑暗视觉灵药](Elixir_of_Darkvision_(Condition).md "黑暗视觉灵药 (状态)") | 可在黑暗中看到 12 米（40 英尺）。 |
+| [自由行动药水](Elixir_of_Guileful_Movement_(Condition).md "自由行动药水 (状态)") | [移动速度](Movement_speed.md "移动速度") 不会被 [劣势地形](Difficult_Terrain.md "劣势地形")、法术或魔法效果降低。不会被 [麻痹](Paralysed_(Condition).md "麻痹 (状态)") 或 [束缚](Restrained_(Condition).md "束缚 (状态)")。饮用时会替换其他灵药的效果。 |
+| [英勇灵药](Elixir_of_Heroism_(Condition).md "英勇灵药 (状态)") | 受影响实体获得 1d4 加值到 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [豁免检定](Saving_throw.md "豁免检定")，直到下一次长休。 |
+| [山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength_(Condition).md "山丘巨人力量灵药 (状态)") | [力量](Strength.md "力量") 提升至 21。 |
+| [卓越专注灵药](Elixir_of_Peerless_Focus_(Condition).md "卓越专注灵药 (状态)") | 受影响实体维持法术的能力增强。在对抗 [魅惑](Charmed_(Condition).md "魅惑 (状态组)") 和维持 [专注](Concentration.md "专注") 时，具有 [优势](Disadvantage.md "优势") 进行 [豁免检定](Saving_throw.md "豁免检定")。不会被陷入 [沉睡](Sleeping_(Condition).md "沉睡 (状态)")。 |
+| [巨像灵药](Elixir_of_The_Colossus_(Condition).md "巨像灵药 (状态)") | [体型](Medium.md "生物体型") 增大。武器造成额外 1d4 伤害，且受影响实体在进行 [力量](Strength.md "力量") [检定](Ability_Check.md "属性检定") 和 [豁免检定](Saving_throw.md "豁免检定") 时具有 [优势](Disadvantage.md "优势")。[负重](Carrying_capacity.md "负重") 也提高 25%。 |
+| [邪恶灵药](Elixir_of_Viciousness_(Condition).md "邪恶灵药 (状态)") | 攻击时 [重击](Critical_Hit.md "重击") 所需的 [掷骰](Attack_roll.md "攻击掷骰") 数值减少 1。此效果可叠加。饮用时会替换其他灵药的效果。 |
+| 警觉灵药 | 受影响实体的先攻有 +5 加值，且不会被 [受惊](Surprised_(Condition).md "受惊 (状态)")。饮用时会替换其他灵药的效果。 |
+| [火焰抗性](Fire_Resistance_(Condition).md "火焰抗性 (状态)") | 获得对 [火焰](Fire.md "火焰") 伤害的 [抗性](Resistance.md "抗性")，且不再会 [燃烧](Burning_(Condition).md "燃烧 (状态)")。 |
+| [力场抗性](Force_Resistance_(Condition).md "力场抗性 (状态)") | 对 [力场](Force.md "力场") 伤害 [抗性](Resistance.md "抗性")。 |
+| [高效奥术滋养灵药](Greater_Elixir_of_Arcane_Cultivation_(Condition).md "高效奥术滋养灵药 (状态)") | 拥有额外的 [二级法术位](法术#法术位.md#法术位 "法术")。 |
+| [闪电抗性](Lightning_Resistance_(Condition).md "闪电抗性 (状态)") | 对 [闪电](Lightning.md "闪电") 伤害 [抗性](Resistance.md "抗性")。不再会被 [感电](Shocked_(Condition).md "感电 (状态)")、[电击](Electrocuted_(Condition).md "电击 (状态)")、[电击](Electrocuted_(Condition).md "电击 (状态)")，或以其他方式受闪电影响。 |
+| [黯蚀抗性](Necrotic_Resistance_(Condition).md "黯蚀抗性 (状态)") | 对 [黯蚀](Necrotic.md "黯蚀") 伤害 [抗性](Resistance.md "抗性")。 |
+| [中毒抗性](Poison_Resistance_(Condition).md "中毒抗性 (状态)") | 对 [毒素](Poison.md "毒素") 伤害 [抗性](Resistance.md "抗性")。不再会 中毒。 |
+| [灵能弱化](Psionic_Weakening_(Condition).md "灵能弱化 (状态)") | 受影响实体在进行体质、感知和智力 [豁免检定](Saving_throw.md "豁免检定") 时具有 [劣势](Disadvantage.md "劣势")。饮用时会替换其他灵药的效果。 |
+| [心灵抗性](Psychic_Resistance_(Condition).md "心灵抗性 (状态)") | 对 [心灵](Psychic_damage.md "心灵") 伤害 [抗性](Resistance.md "抗性")。 |
+| [光耀抗性](Radiant_Resistance_(Condition).md "光耀抗性 (状态)") | 对 [光耀](Radiant.md "光耀") 伤害 [抗性](Resistance.md "抗性")。 |
+| [对黯蚀伤害抗性](Resistant_to_Necrotic_Damage_(Condition).md "对黯蚀伤害抗性 (状态)") | 对此实体的黯蚀伤害减半。 |
+| [对光耀伤害抗性](Resistant_to_Radiant_Damage_(Condition).md "对光耀伤害抗性 (状态)") | 对此实体的光耀伤害减半。 |
+| [特效奥术滋养灵药](Superior_Elixir_of_Arcane_Cultivation_(Condition).md "特效奥术滋养灵药 (状态)") | 拥有额外的三级 [法术位](Spell_Slot.md "法术位")。 |
+| [极效奥术滋养灵药](Supreme_Elixir_of_Arcane_Cultivation_(Condition).md "极效奥术滋养灵药 (状态)") | 拥有额外的四级 [法术位](Spell_Slot.md "法术位")。饮用时会替换其他灵药的效果。 |
+| [雷鸣抗性](Thunder_Resistance_(Condition).md "雷鸣抗性 (状态)") | 对 [雷鸣](Thunder.md "雷鸣") 伤害 [抗性](Resistance.md "抗性")。 |
 
 - 对 [雷鸣](Thunder.md "雷鸣") 伤害 [抗性](Resistance.md "抗性")。
 

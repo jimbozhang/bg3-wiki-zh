@@ -2,11 +2,11 @@
 
 另请参阅：[加速孢子](Haste_Spores.md "加速孢子")
 
-**加速孢子**是一种[云](Cloud.md "云")。站在这些孢子中会使角色[加速术](Haste.md "加速术")一[驱散](Turn.md "驱散")。
+**加速孢子**是一种[云](Cloud.md "云")。站在这些孢子中会使角色[加速术](Haste.md "加速术")一[驱散](Cloud.md "驱散")。
 
 ## 描述
 
-生物获得+2的[护甲等级](Armour_Class.md "护甲等级")加值，在[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")，其[移动速度](Movement_speed.md "移动速度")翻倍，并且每[驱散](Turn.md "驱散")可以执行一次额外的[动作](Action.md "动作")。
+生物获得+2的[护甲等级](Armour_Class.md "护甲等级")加值，在[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")上具有[优势](Advantage.md "优势")，其[移动速度](Movement_speed.md "移动速度")翻倍，并且每[驱散](Turned_(Condition).md "驱散")可以执行一次额外的[动作](Action.md "动作")。
 
 ## 属性
 

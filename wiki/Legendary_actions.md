@@ -62,7 +62,7 @@
 | [米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒") | [传奇动作：死亡凝视](Legendary_Action_colon__Gaze_of_the_Dead.md "传奇动作：死亡凝视")每轮一次，米尔寇的使徒可以消耗一个传奇动作，在被攻击时对一个生物施放 [死亡凝视](Gaze_of_the_Dead.md "死亡凝视")。 |
 | [巴萨扎尔](Balthazar.md "巴萨扎尔") | [传奇动作：死亡荒芜](Legendary_Action_colon__The_Dead_Wastes.md "传奇动作：死亡荒芜")每轮一次，当一个生物死亡时，巴萨扎尔可以使用他的传奇动作，在其死亡地点制造一片黯蚀瘴气，使不死生物每轮开始时恢复 4d6⁠⁠[治疗](Healing.md "治疗")，并对活物造成 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。 |
 | [传奇动作：幽灵形态](Legendary_Action_colon__Spectral_Aspect.md "传奇动作：幽灵形态")每轮一次，巴萨扎尔可以消耗一个传奇动作，在被击中后化为 [幽灵形态](Spectral_Aspect_(Condition).md "幽灵形态（状态）")。 |  |
-| [格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆") | [传奇动作：升华](Legendary_Action_colon__Sublimation.md "传奇动作：升华")每轮一次，如果她失去一件护甲，格灵哥斯·索姆可以消耗一个传奇动作，尝试将她的敌人变成黄金，使其 [失能](Incapacitated.md "失能") 4 轮。 |
+| [格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆") | [传奇动作：升华](Legendary_Action_colon__Sublimation.md "传奇动作：升华")每轮一次，如果她失去一件护甲，格灵哥斯·索姆可以消耗一个传奇动作，尝试将她的敌人变成黄金，使其 失能 4 轮。 |
 | [卡'尼斯](Kar'niss.md "卡'尼斯") | [传奇动作：狂热报偿](Legendary_Action_colon__Fanatic_Retaliation.md "传奇动作：狂热报偿")每轮一次，当一个 [纺丝狂热者](Spindleweb_Fanatic_(Condition).md "纺丝狂热者（状态）") 被杀死时，卡'尼斯可以使用一个传奇动作，可能对攻击者造成 6d10⁠⁠[心灵](Psychic.md "心灵") 伤害并使其 [沉默](Silenced_(Condition).md "沉默（状态）")。 |
 | [凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆") | [传奇动作：重击](Legendary_Action_colon__Hordestrike.md "传奇动作：重击")每轮一次，凯瑟里克可以消耗一个传奇动作，在敌人被其遵循 [死亡指令](Deadly_Orders_(Condition).md "死亡指令（状态）") 的仆从攻击时对其使用 [重击](Hordestrike.md "重击")。 |
 | [马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆") | [传奇动作：失落哀嚎](Legendary_Action_colon__Wail_of_Loss.md "传奇动作：失落哀嚎")每轮一次，马鲁斯·索姆可以在被攻击后使用他的传奇动作，使所有助手同时施放 [失落哀嚎](Wail_of_Loss_(Assistant).md "失落哀嚎（助手）")。 |

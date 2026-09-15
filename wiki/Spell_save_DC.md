@@ -120,7 +120,7 @@
 | [魅力](Charisma.md "Charisma") | [欺瞒](Deception.md "Deception") [威吓](Intimidation.md "Intimidation") [表演](Performance.md "Performance") [游说](Persuasion.md "Persuasion") |
 | [体质](Constitution.md "Constitution") | 无 |
 | [敏捷](Dexterity.md "Dexterity") | [体操](Acrobatics.md "Acrobatics") [巧手](Sleight_of_Hand.md "Sleight of Hand") [隐匿](Stealth.md "Stealth") |
-| [智力](Intelligence.md "Intelligence") | [奥秘](Arcana.md "Arcana") [历史的](History.md "History") [调查](Investigation.md "Investigation") [自然](Nature.md "Nature") [宗教](Religion.md "Religion") |
+| [智力](Intelligence.md "Intelligence") | [奥秘](Arcana.md "Arcana") [历史](History.md "History") [调查](Investigation.md "Investigation") [自然](Nature.md "Nature") [宗教](Religion.md "Religion") |
 | [力量](Strength.md "Strength") | [运动](Athletics.md "Athletics") |
 | [感知](Wisdom.md "Wisdom") | [驯兽](Animal_Handling.md "Animal Handling") [洞悉](Insight.md "Insight") [医药](Medicine.md "Medicine") [察觉技能](Perception.md "Perception") [求生](Survival.md "Survival") |
 
@@ -145,7 +145,7 @@
 |
 
 - [奥秘](Arcana.md "Arcana")
-- [历史的](History.md "History")
+- [历史](History.md "History")
 - [调查](Investigation.md "Investigation")
 - [自然](Nature.md "Nature")
 - [宗教](Religion.md "Religion")
@@ -181,8 +181,8 @@
 
 不要求事先熟练掌握相应技能的专精来源包括：
 
-- [岩侏儒](Gnome.md#Rock_gnome "Gnome")在[历史的](History.md "History")上的专精
-- [知识领域](Knowledge_Domain.md "Knowledge Domain")[牧师](Cleric.md "Cleric")在 1 级时选择两项以下技能的专精：[奥秘](Arcana.md "Arcana")、[历史的](History.md "History")、[自然](Nature.md "Nature")或[宗教](Religion.md "Religion")
+- [岩侏儒](Gnome.md#Rock_gnome "Gnome")在[历史](History.md "History")上的专精
+- [知识领域](Knowledge_Domain.md "Knowledge Domain")[牧师](Cleric.md "Cleric")在 1 级时选择两项以下技能的专精：[奥秘](Arcana.md "Arcana")、[历史](History.md "History")、[自然](Nature.md "Nature")或[宗教](Religion.md "Religion")
 - 来自[演员](Actor.md "Actor")专长的[欺瞒](Deception.md "Deception")和[表演](Performance.md "Performance")专精
 - 来自[灵吸怪专精](Illithid_Expertise.md "Illithid Expertise")特性的[欺瞒](Deception.md "Deception")、[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")专精
 
@@ -191,7 +191,7 @@
 **自动掷骰**
 某些属性检定是自动进行的。例如，当生物接近陷阱时，会掷一个[察觉技能](Perception.md "Perception")检定来确定他们是否注意到它。察觉技能是感知技能，因此生物会将其感知调整值以及（如果熟练察觉技能）其熟练项加值加到属性检定中。
 **对话期间**
-属性检定在对话中也很常见，一些回应需要属性检定来决定结果。例如使用魅力技能如[游说](Persuasion.md "Persuasion")、[欺瞒](Deception.md "Deception")或[威吓](Intimidation.md "Intimidation")来影响他人，或使用智力技能如[奥秘](Arcana.md "Arcana")、[历史的](History.md "History")或[宗教](Religion.md "Religion")来确定或回忆事实。在这些检定之前，屏幕底部会出现一个标记为“添加奖励”的按钮，<sup>[\[4\]](#cite_note-4)</sup> 允许玩家角色和其他队伍成员自由使用可用的法术和消耗品来授予检定奖励。在与物体互动时进行属性检定时（例如解除陷阱或开锁）也可以这样做。
+属性检定在对话中也很常见，一些回应需要属性检定来决定结果。例如使用魅力技能如[游说](Persuasion.md "Persuasion")、[欺瞒](Deception.md "Deception")或[威吓](Intimidation.md "Intimidation")来影响他人，或使用智力技能如[奥秘](Arcana.md "Arcana")、[历史](History.md "History")或[宗教](Religion.md "Religion")来确定或回忆事实。在这些检定之前，屏幕底部会出现一个标记为“添加奖励”的按钮，<sup>[\[4\]](#cite_note-4)</sup> 允许玩家角色和其他队伍成员自由使用可用的法术和消耗品来授予检定奖励。在与物体互动时进行属性检定时（例如解除陷阱或开锁）也可以这样做。
 **对抗**
 对抗是两个生物都进行掷骰，掷骰结果更好的一方获胜的情况。也可以说一个生物进行掷骰以确定另一个生物掷骰的[难度等级](Difficulty_Class.md "Difficulty Class")。例如在[躲藏](Hide.md "躲藏")时攻击，此时目标掷察觉技能，攻击者掷隐匿技能来对抗它。
 这可能还涉及[被动检定](Passive_check.md "Passive check")而不是主动掷骰。例如，一个隐藏的玩家角色在非盟友生物的视线内，必须进行隐匿检定对抗该生物的被动察觉技能分数。另一个例子是尝试[推击](Shove.md "推击")或[投掷](Throw.md "Throw")一个生物，此时尝试的生物掷[运动](Athletics.md "Athletics")检定，对抗另一个生物的被动运动或[体操](Acrobatics.md "Acrobatics")分数（取较高者）。
@@ -234,7 +234,7 @@
 
 战士和游荡者没有正确定义的施法关键属性，因此使用施法者的默认施法关键属性。默认施法关键属性对于自定义角色以及出身角色[阿斯代伦](Astarion.md "Astarion")、[邪念](The_Dark_Urge.md "The Dark Urge")、[盖尔](Gale.md "Gale")、[卡菈克](Karlach.md "Karlach")和[莱埃泽尔](Lae'zel.md "Lae'zel")是智力；[哈尔辛](Halsin.md "Halsin")、[贾希拉](Jaheira.md "Jaheira")、[明斯克](Minsc.md "Minsc")、[明萨拉](Minthara.md "Minthara")和[影心](Shadowheart.md "Shadowheart")使用感知；最后，[威尔](Wyll.md "Wyll")使用魅力。对于单职业角色，这按预期工作，但如果他们身兼多职，并且最近选择的职业是战士或游荡者，则将使用次新职业的施法关键属性。
 
-然而，[诡术师](Arcane Trickster.md "Arcane Trickster")和[奥法骑士](Eldritch Knight.md "Eldritch Knight")副职正确定义了智力作为其施法关键属性，因此这两个副职在身兼多职角色上会按预期表现。即使这些副职的施法关键属性仅在 3 级后定义，最新职业仍然是最近达到 1 级的职业。
+然而，[诡术师](Arcane_Trickster.md "Arcane Trickster")和[奥法骑士](Eldritch_Knight.md "Eldritch Knight")副职正确定义了智力作为其施法关键属性，因此这两个副职在身兼多职角色上会按预期表现。即使这些副职的施法关键属性仅在 3 级后定义，最新职业仍然是最近达到 1 级的职业。
 
 | 职业 | [力量](STR.md "力量") | [敏捷](DEX.md "敏捷") | [体质](CON.md "体质") | [智力](Int.md "Int") | [感知](WIS.md "感知") | [魅力](CHA.md "魅力") |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -362,7 +362,7 @@
 | [魅力](Charisma.md "Charisma") | [欺瞒](Deception.md "Deception") [威吓](Intimidation.md "Intimidation") [表演](Performance.md "Performance") [游说](Persuasion.md "Persuasion") |
 | [体质](Constitution.md "Constitution") | 无 |
 | [敏捷](Dexterity.md "Dexterity") | [体操](Acrobatics.md "Acrobatics") [巧手](Sleight_of_Hand.md "Sleight of Hand") [隐匿](Stealth.md "Stealth") |
-| [智力](Intelligence.md "Intelligence") | [奥秘](Arcana.md "Arcana") [历史的](History.md "History") [调查](Investigation.md "Investigation") [自然](Nature.md "Nature") [宗教](Religion.md "Religion") |
+| [智力](Intelligence.md "Intelligence") | [奥秘](Arcana.md "Arcana") [历史](History.md "History") [调查](Investigation.md "Investigation") [自然](Nature.md "Nature") [宗教](Religion.md "Religion") |
 | [力量](Strength.md "Strength") | [运动](Athletics.md "Athletics") |
 | [感知](Wisdom.md "Wisdom") | [驯兽](Animal_Handling.md "Animal Handling") [洞悉](Insight.md "Insight") [医药](Medicine.md "Medicine") [察觉技能](Perception.md "Perception") [求生](Survival.md "Survival") |
 

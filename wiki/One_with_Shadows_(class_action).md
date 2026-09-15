@@ -37,7 +37,7 @@
 
 ## 备注
 
-- 一些移动动作，如[飞行 (灵吸怪能力)](Fly_(Illithid_Power).md "飞行 (灵吸怪能力)")或[凶蛮跳跃](Brutal_Leap.md "凶蛮跳跃")，不会打破隐形状态，因此可以在保持隐形的同时无限期地四处移动。这也适用于大多数其他带有[隐形](Invisible_(spell_flag)法术标志的动作.md)。两个例外是基础的[跳跃](Jump.md "跳跃")和[飞行 (职业动作)](Fly_(class_action).md "飞行 (职业动作)")动作，这些动作被特别编码为会移除[融身入影](One_with_the_Shadows_(Condition).md "融身入影 (状态)")。
+- 一些移动动作，如[飞行 (灵吸怪能力)](Fly_(Illithid_Power).md "飞行 (灵吸怪能力)")或[凶蛮跳跃](Brutal_Leap.md "凶蛮跳跃")，不会打破隐形状态，因此可以在保持隐形的同时无限期地四处移动。这也适用于大多数其他带有[隐形](Invisible_(spell_flag).md)法术标志的动作。两个例外是基础的[跳跃](Jump.md "跳跃")和[飞行 (职业动作)](Fly_(class_action).md "飞行 (职业动作)")动作，这些动作被特别编码为会移除[融身入影](One_with_the_Shadows_(Condition).md "融身入影 (状态)")。
 
 ---
 *Source: [One with Shadows (class action)](https://bg3.wiki/wiki/One_with_Shadows_(class_action)*

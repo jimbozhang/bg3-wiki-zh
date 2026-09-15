@@ -34,7 +34,7 @@
 
   - 在寻找治愈方法上取得重大进展：这些选项可能触发与阿斯代伦的营地场景：
 
-  - 从[苏洛](../Zorru.md "Zorru")处得知[吉斯洋基养育间](../Githyanki_Crèche.md "Githyanki Crèche")的位置。
+  - 从[苏洛](../Zorru.md "Zorru")处得知[吉斯洋基养育间](../Zorru.md "Githyanki Crèche")的位置。
   - 从[萨扎](../Sazza.md "Sazza")处得知关于[迦特](../Priestess_Gut.md "Priestess Gut")的信息。
   - 从[内蒂](../Nettie.md "Nettie")处得知关于[哈尔辛](../Halsin.md "Halsin")可能的下落。
 
@@ -290,7 +290,7 @@
 2. [↑](#cite_ref-2) [提夫林](../Tiefling.md "Tiefling")角色无需检定即可识别文字并自动获得相应的对话台词。
 3. [↑](#cite_ref-3) 如果玩家角色拒绝了阿斯代伦同床的提议，此场景可能在直到[第二幕](../Act_Two.md "Act Two")中期的任何时间发生，但严格在队伍在[终焉光芒旅店](../Last_Light_Inn.md "Last Light Inn")遇到[拉斐尔](../Raphael.md "Raphael")之前。
 4. [↑](#cite_ref-4) 爱情测验的“正确”答案列表（同时获得正面和负面好感度）可在[好感度](approval.md "Astarion/Approval")部分的相应[第三幕](../Act_Three.md "Act Three")子部分中找到。
-5. [↑](#cite_ref-5) 与阿斯代伦不同，其他衍体不受蝌蚪的阳光保护，如果装备某些能发出昼明术的武器（例如[洛山达之血](../Blood_of_Lathander.md "Blood of Lathander")）接近他们，会导致他们获得[日照敏感](../Sunlight_Hypersensitivity_(Condition)并在队伍能审问他们之前传送离开.md)。这对任务进度没有影响。
+5. [↑](#cite_ref-5) 与阿斯代伦不同，其他衍体不受蝌蚪的阳光保护，如果装备某些能发出昼明术的武器（例如[洛山达之血](../Blood_of_Lathander.md "Blood of Lathander")）接近他们，会导致他们获得[日照敏感](../Sunlight_Hypersensitivity_(Condition).md)并在队伍能审问他们之前传送离开。这对任务进度没有影响。
 6. [↑](#cite_ref-6) 在下一次对话中，根据对话选择，阿斯代伦可能称卡菈克为*“可悲”*、*“破碎”*和*“注定失败”*。
 7. [↑](#cite_ref-7) 玩家角色无法通过访问墓园外的墓碑来找到此墓碑。然而，根据其他过场动画的地标判断，它似乎位于柳树下，卡菈克父母的坟墓旁边。墓碑上的名字用索拉斯字母书写，可能读作*“阿斯代伦·安库宁”*（这是在整个游戏剧情中唯一发现他姓氏的可能性）。然而，下面的日期与游戏中和FR传说中的其他日期不符。
    另请参阅[Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)上的[索拉斯字母](https://forgottenrealms.fandom.com/wiki/Thorass_alphabet)。

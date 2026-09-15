@@ -90,7 +90,7 @@
 
 ### 上层
 
-入口正对面的窗帘后面是一扇被施加了[秘法锁](Arcane_Lock_(Condition).md "秘法锁（状态）")的铸铁**不祥之门**，通往[舞厅](#ballroom)。检查这扇门会触发两次检定：DC 15的[调查](Investigation.md "调查")[属性检定](Ability_Check.md "属性检定")和DC 25的[历史的](History.md "历史的")[属性检定](Ability_Check.md "属性检定")。如果成功，第一次检定会让检查的队伍成员发现门上有一个适合印章戒指的插槽，而第二次检定有助于破译门上的铭文，这是一种古代的⁠[扎克拉语](https://forgottenrealms.fandom.com/wiki/Kozakura)。<sup>[\[3\]](#cite_note-3)</sup> 通过任何一次检定对于解锁门都不是必需的，尽管两者都提供了搜索内容的提示。
+入口正对面的窗帘后面是一扇被施加了[秘法锁](Arcane_Lock_(Condition).md "秘法锁（状态）")的铸铁**不祥之门**，通往[舞厅](#ballroom)。检查这扇门会触发两次检定：DC 15的[调查](Investigation.md "调查")[属性检定](Ability_Check.md "属性检定")和DC 25的[历史](History.md "历史")[属性检定](Ability_Check.md "属性检定")。如果成功，第一次检定会让检查的队伍成员发现门上有一个适合印章戒指的插槽，而第二次检定有助于破译门上的铭文，这是一种古代的⁠[扎克拉语](https://forgottenrealms.fandom.com/wiki/Kozakura)。<sup>[\[3\]](#cite_note-3)</sup> 通过任何一次检定对于解锁门都不是必需的，尽管两者都提供了搜索内容的提示。
 
 如果阿斯代伦在场，他提到他从未见过这扇门上锁，并且他在宅邸里见过其他类似的铭文。他还提到他和其他衍体被严格禁止学习这种语言。
 

@@ -20,7 +20,7 @@
 
 伦诺尔计划只离开塔很短的时间。然而，她再也没有回来，她的研究和塔十年间无人触碰。伊尔最终带着[法术火花](The_Spellsparkler.md "The Spellsparkler")拜访了这里，这是他们专门为伦诺尔制作的法杖，<sup>[\[11\]](#cite_note-11)</sup> 以及伦诺尔的信。他们徒劳地等待，但最终在她未能归来时离开了。
 
-伦诺尔最后已知的位置是她在博德之门的会议，她在那里被[塔昆](Tarquin.md "Tarquin")引发的异常现象暂时[诱捕](Ensnared.md "Ensnared")。
+伦诺尔最后已知的位置是她在博德之门的会议，她在那里被[塔昆](Tarquin.md "Tarquin")引发的异常现象暂时[诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "Ensnared")。
 
 ## 帮助奥米伦调查寄生虫
 

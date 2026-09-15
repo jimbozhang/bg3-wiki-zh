@@ -1,6 +1,6 @@
 # 自然步伐
 
-**自然步伐**是[树精](Dryad.md "树精")的可切换被动特性。你和树精附近的盟友会受到保护，免受[劣势地形](Difficult_Terrain.md "劣势地形")和[中毒](Poison.md "中毒")的影响，并且不会被[束缚](Restrained.md "束缚")或[麻痹](Paralysed.md "麻痹")。
+**自然步伐**是[树精](Dryad.md "树精")的可切换被动特性。你和树精附近的盟友会受到保护，免受[劣势地形](Difficult_Terrain.md "劣势地形")和[中毒](Poison.md "中毒")的影响，并且不会被[束缚](Restrained_(Condition).md "束缚")或[麻痹](Paralysed.md "麻痹")。
 
 ## 描述
 

@@ -18,7 +18,7 @@
 
 - UID `S_UND_DrowResupply_PatrolLetter` UUID `1a888682-1e41-4b58-af24-f339688d9936` ## 获取地点
 
-- 在[幽暗地域](Underdark.md "幽暗地域") X: 82 Y: -206 的神殿中的[重箱子](Heavy Chest.md "重箱子")里。
+- 在[幽暗地域](Underdark.md "幽暗地域") X: 82 Y: -206 的神殿中的[重箱子](Heavy_Chest.md "重箱子")里。
 
 ## 文本
 

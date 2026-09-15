@@ -1,6 +1,6 @@
 # 疗愈软帽
 
-疗愈软帽是一件[头部](Headwear.md "头部")装备，属于[稀有度](Rarity.md "稀有度")为[不常见](Rarity.md "不常见")的物品。它能通过[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")治疗被激励的盟友。
+疗愈软帽是一件[头部](Headwear.md "头部")装备，属于[稀有度](Headwear.md "稀有度")为[不常见](Headwear.md "不常见")的物品。它能通过[诗人激励](Bardic_Inspiration_(class_action).md "诗人激励（职业动作）")治疗被激励的盟友。
 
 戴上这顶软帽，不知为何就能提振你的精神。
 

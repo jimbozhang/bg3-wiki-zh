@@ -60,7 +60,7 @@
 
 当你进行副手攻击时，可以将你的[属性调整值](Ability_score_modifier.md "属性调整值")加到伤害上。
 
-**碎盾勋爵的侍从**是一位[岩侏儒](Rock_Gnome.md "岩侏儒")[游侠](Ranger.md "游侠")，他在[第三幕](Act_Three.md "第三幕")陪同主人参加[恩弗·戈塔什](Enver_Gortash.md "恩弗·戈塔什")被任命为[博德之门大公爵](Archduke_of_Baldur's_Gate.md "博德之门大公爵")的仪式。
+**碎盾勋爵的侍从**是一位[岩侏儒](Rock_Gnome.md "岩侏儒")[游侠](Ranger.md "游侠")，他在[第三幕](Act_Three.md "第三幕")陪同主人参加[恩弗·戈塔什](Enver_Gortash.md "恩弗·戈塔什")被任命为博德之门大公爵的仪式。
 
 ## 目录
 

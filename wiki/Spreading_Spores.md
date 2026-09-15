@@ -17,7 +17,7 @@
 2d8⁠[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子投掷"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子投掷"))
 射程：9米（30英尺）
 范围：3米（10英尺）半径
 目标：云中的非盟友生物
@@ -39,7 +39,7 @@
 
 **[传播孢子](Spreading_Spores_(Condition).md "传播孢子 (状态)")**
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子投掷"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子投掷"))
 
 - 受影响实体吸入干燥、令人窒息的孢子，每回合造成2d8⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 

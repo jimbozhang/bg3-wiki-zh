@@ -22,9 +22,9 @@
 
 **[吸血鬼之触](Vampiric_Touch_(Condition).md "吸血鬼之触 (状态)")**
 
-持续时间：10 [驱散](Turn.md "驱散")
+持续时间：10 [驱散](Turned_(Condition).md "驱散")
 
-- 每[驱散](Turn.md "驱散")，使用一个[动作](Action.md "动作")，可以重新施放[吸血鬼之触](Vampiric_Touch.md "吸血鬼之触")，而无需消耗[法术位](Spells.md#Spell_Slots "法术")。
+- 每[驱散](Turned_(Condition).md "驱散")，使用一个[动作](Action.md "动作")，可以重新施放[吸血鬼之触](Vampiric_Touch.md "吸血鬼之触")，而无需消耗[法术位](Spells.md#Spell_Slots "法术")。
 
 ## 获取地点
 

@@ -22,7 +22,7 @@
 
 详情
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
-[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5米（5英尺）
 目标：持有武器的生物
 
@@ -32,7 +32,7 @@
 
 持续时间：1驱散
 
-[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 敌人使你将武器掉落在地，类似于[缴械](Disarmed_(Condition).md "缴械（状态）")。
 
@@ -52,7 +52,7 @@
 
 ## 备注
 
-- 此动作使用基于[魅力](Charisma.md "魅力")计算的[法术豁免DC](Spell_save_DC.md "法术豁免DC")。
+- 此动作使用基于[魅力](Charisma.md "魅力")计算的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")。
 - 仅当攻击命中时才会获得肮脏优势，但不要求目标对抗缴械的豁免检定失败。
 - 此动作与[巨武器大师](Great_Weapon_Master.md "巨武器大师")兼容。
 

@@ -28,7 +28,7 @@
 
 - 你在泰拉祖的狂热影响下移动速度更快，但在移动后会变得力竭。
 - 受影响实体获得一个额外的[动作](Actions.md#Resources "动作")、9米（30英尺）的移动距离、+2的[护甲等级](Armour_Class.md "护甲等级")，以及在[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上的[优势](Advantage.md "优势")。
-- 当状态结束时，受影响实体变得[力竭](Lethargic_(Condition).md "力竭（状态）")，并完全[失能](Incapacitated.md "失能")1回合。
+- 当状态结束时，受影响实体变得[力竭](Lethargic_(Condition).md "力竭（状态）")，并完全[失能](Lethargic_(Condition).md "失能")1回合。
 
 ## 获取地点
 

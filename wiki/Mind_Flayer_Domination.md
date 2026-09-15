@@ -1,6 +1,6 @@
 # 夺心魔支配
 
-**夺心魔支配**是一个[法术](Spells.md "法术")。此法术允许[夺心魔](Mind_flayer.md "夺心魔")[受控](Dominated_(Condition)附近.md)的[类人生物](Humanoid.md "Humanoid")。
+**夺心魔支配**是一个[法术](Spells.md "法术")。此法术允许[夺心魔](Mind_flayer.md "夺心魔")[受控](Dominated_(Condition).md)附近的[类人生物](Humanoid.md "Humanoid")。
 
 ## 描述
 
@@ -29,7 +29,7 @@
 
 持续时间：10驱散
 
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷定"))
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷定"))
 
 - 受影响实体将跟随并协助施放此法术的施法者战斗。
 - 每次受到伤害时，它可能通过成功的感知[豁免检定](Saving_throw.md "豁免检定")打破施法者对它的控制。

@@ -46,7 +46,7 @@
 | [紫虫毒素涂抹](Coated_in_Purple_Worm_Toxin_(Condition).md "紫虫毒素涂抹 (状态)") | 目标在其下一回合结束时受到 1d10 ⁠⁠[中毒](Poison.md "中毒") 伤害，除非他们通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 19 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |
 | [蛇毒涂抹](Coated_in_Serpent_Venom_Toxin_(Condition).md "蛇毒涂抹 (状态)") | 目标在其下一回合结束时受到 1d6 ⁠⁠[中毒](Poison.md "中毒") 伤害，除非他们通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 13 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |
 | [毒素涂抹](Coated_in_Toxin_(Condition).md "毒素涂抹 (状态)") | 目标在其下一回合结束时受到 1d4 ⁠⁠[中毒](Poison.md "中毒") 伤害，除非他们通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 11 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |
-| [法师灾祸油涂抹](Coated_in_Wizardsbane_Oil_(Condition).md "法师灾祸油涂抹 (状态)") | 严重削弱被此武器击中的任何施法者的力量。目标受到 -3 法术 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [法术豁免DC](Spell_save_DC.md "法术豁免DC") 惩罚，并且在维持 [专注](Concentration.md "专注") 的 [豁免检定](Saving_throw.md "豁免检定") 上获得 [劣势](Disadvantage.md "劣势")，持续2回合。 |
+| [法师灾祸油涂抹](Coated_in_Wizardsbane_Oil_(Condition).md "法师灾祸油涂抹 (状态)") | 严重削弱被此武器击中的任何施法者的力量。目标受到 -3 法术 [攻击掷骰](Attack_roll.md "攻击掷骰") 和 [法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级") 惩罚，并且在维持 [专注](Concentration.md "专注") 的 [豁免检定](Saving_throw.md "豁免检定") 上获得 [劣势](Disadvantage.md "劣势")，持续2回合。 |
 | [翼龙毒素涂抹](Coated_in_Wyvern_Toxin_(Condition).md "翼龙毒素涂抹 (状态)") | 目标在其下一回合结束时受到 1d8 ⁠⁠[中毒](Poison.md "中毒") 伤害，除非他们通过 [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。 |
 | [蘸取毒药](Dipped_in_Poison_(Condition).md "蘸取毒药 (状态)") | 武器造成额外 1d4 ⁠⁠[中毒](Poison.md "中毒") 伤害。 |
 

@@ -36,7 +36,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [战术铁律](Tactical_Discipline.md "战术铁律")
 
-**班恩之拳古德伦**是[班恩](Bane_(God)的一个人类教徒.md)，可以在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中找到。
+**班恩之拳古德伦**是[班恩](Bane_(God).md)的一个人类教徒，可以在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中找到。
 
 ## 目录
 

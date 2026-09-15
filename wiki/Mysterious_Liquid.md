@@ -20,7 +20,7 @@
 
 ## 互动
 
-- 当暴露于[火焰](Fire.md "火焰")伤害时会[爆炸](Explode.md "爆炸")，对区域内的实体造成[燃烧](Burning_(Condition).md "燃烧 (状态)")状态，并留下[火焰](Fire_(surface).md "火焰 (地表)")地表。
+- 当暴露于[火焰](Fire.md "火焰")伤害时会爆炸，对区域内的实体造成[燃烧](Burning_(Condition).md "燃烧 (状态)")状态，并留下[火焰](Fire_(surface).md "火焰 (地表)")地表。
 
 ---
 *Source: [Mysterious Liquid](https://bg3.wiki/wiki/Mysterious_Liquid)*

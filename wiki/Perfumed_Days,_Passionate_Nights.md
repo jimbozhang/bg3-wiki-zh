@@ -18,7 +18,7 @@
 
 - UID `S_LOW_CountingHouse_Vault2_Diary` UUID `b68035b7-be1e-4f47-b17c-b037c0ad13b5` ## 获取地点
 
-- 位于[清账屋](The_Counting_House.md "清账屋")的[高安保险库2](High_Security_Vault_nº2.md "高安保险库2")中
+- 位于[清账屋](The_Counting_House.md "清账屋")的[高安保险库2](The_Counting_House.md "高安保险库2")中
 
 ## 文本
 

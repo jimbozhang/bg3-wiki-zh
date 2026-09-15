@@ -12,7 +12,7 @@
 - 价格：35 gp
 - UID `UNI_WYR_PaintingPuzzle_SolutionPainting3` UUID `9e6fbe35-e0fd-4b3a-be5b-b75935e17fc0` ## 获取地点
 
-在[远古龙之路](The_Wyrmway.md "远古龙之路")的[正义之间](Chamber_of_Justice.md "正义之间")，作为解决[正义试炼](Wyrmway.md#Passing_the_Trials "Wyrmway")谜题的一部分。
+在[远古龙之路](The_Wyrmway.md "远古龙之路")的[正义之间](The_Wyrmway.md "正义之间")，作为解决[正义试炼](Wyrmway.md#Passing_the_Trials "Wyrmway")谜题的一部分。
 
 ## 备注
 

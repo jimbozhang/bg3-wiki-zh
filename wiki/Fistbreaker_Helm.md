@@ -15,7 +15,7 @@
 佩戴此物品者获得：
 
 [高阶施法](High_Spellcasting_(+1).md)
-你获得+1的[法术豁免DC](Spell_save_DC.md "Spell Save DC")加值。
+你获得+1的[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")加值。
 
 [鲜少措手不及](Seldom_Caught_Unawares_(+1).md)
 你获得+1的[先攻](Initiative.md "先攻")加值。

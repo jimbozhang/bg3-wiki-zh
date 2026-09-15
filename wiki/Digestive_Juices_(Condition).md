@@ -2,7 +2,7 @@
 
 **消化液**
 
-- 当被腐蚀性消化液浸湿时，该生物每[驱散](Turn.md "驱散")受到 1d6⁠⁠[强酸](Acid.md "强酸")伤害，对[穿刺](Piercing.md "穿刺")和[钝击](Bludgeoning.md "钝击")伤害[易伤](Vulnerable.md "易伤")，并且如果同时处于[束缚](Restrained_(Condition).md "束缚 (状态)")状态，则可被[吞噬](Devour_(Shambling_Mound).md "吞噬 (蔓生怪)")。
+- 当被腐蚀性消化液浸湿时，该生物每[驱散](Turned_(Condition).md "驱散")受到 1d6⁠⁠[强酸](Acid.md "强酸")伤害，对[穿刺](Piercing.md "穿刺")和[钝击](Bludgeoning.md "钝击")伤害[易伤](Vulnerable.md "易伤")，并且如果同时处于[束缚](Restrained_(Condition).md "束缚 (状态)")状态，则可被[吞噬](Devour_(Shambling_Mound).md "吞噬 (蔓生怪)")。
 
 - 水可以洗掉这些消化液。
 
@@ -26,7 +26,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 当被腐蚀性消化液浸湿时，该生物每[驱散](Turn.md "驱散")受到 1d6⁠⁠[强酸](Acid.md "强酸")伤害，对[穿刺](Piercing.md "穿刺")和[钝击](Bludgeoning.md "钝击")伤害[易伤](Vulnerable.md "易伤")，并且如果同时处于[束缚](Restrained_(Condition).md "束缚 (状态)")状态，则可被[吞噬](Devour_(Shambling_Mound).md "吞噬 (蔓生怪)")。
+- 当被腐蚀性消化液浸湿时，该生物每[驱散](Turned_(Condition).md "驱散")受到 1d6⁠⁠[强酸](Acid.md "强酸")伤害，对[穿刺](Piercing.md "穿刺")和[钝击](Bludgeoning.md "钝击")伤害[易伤](Vulnerable.md "易伤")，并且如果同时处于[束缚](Restrained_(Condition).md "束缚 (状态)")状态，则可被[吞噬](Devour_(Shambling_Mound).md "吞噬 (蔓生怪)")。
 
 - 水可以洗掉这些消化液。
 

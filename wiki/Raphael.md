@@ -116,7 +116,7 @@
 
 在第二幕中，拉斐尔首次可以在[终焉光芒旅店](Last_Light_Inn.md "Last Light Inn")被找到，如果[摩尔](Mol.md "Mol")幸存下来，他正在和她玩枪板棋。如果[阿斯代伦](Astarion.md "Astarion")在队伍中，拉斐尔会向他提供一个交易，以换取关于他伤疤的信息。有时，无论阿斯代伦是否在场，拉斐尔可能会在队伍有机会与他交谈之前消失，声称“有急事要见另一位客户”，并说他会在需要时为他“最喜欢的客户”出现，这让人不清楚他指的是玩家还是阿斯代伦。无论如何，拉斐尔消失后可以与摩尔交谈，她会告诉队伍她正在考虑与他做交易。
 
-柯里拉也可以在[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed_Lands")的[雷斯文泥瓦匠行会](Reithwin_Masons'_Guild.md "Reithwin Masons' Guild")外被短暂发现和交谈，她仍在监视队伍。
+柯里拉也可以在[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed_Lands")的雷斯文泥瓦匠行会外被短暂发现和交谈，她仍在监视队伍。
 
 拉斐尔后来可以在[大陵寝](Grand_Mausoleum.md "Grand Mausoleum")外被遇到，他正在练习一段独白。接近他后，他立即与队伍展开对话。他警告他们陵寝内有一个生物，并要求杀死它。杀死该生物也作为阿斯代伦交易的报酬。这开启了[杀死拉斐尔的宿敌](Kill_Raphael's_Old_Enemy.md "Kill Raphael's Old Enemy")。
 

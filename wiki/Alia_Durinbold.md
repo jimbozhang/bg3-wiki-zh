@@ -53,7 +53,7 @@
 
 仪式结束后，杜林博尔德夫人留在王座附近，与[鲁格·碎盾](Rugger_Shattershield.md "Rugger Shattershield")和[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")讨论[焰拳](Flaming_Fist.md "Flaming Fist")与[钢铁卫士](Steel_Watcher.md "Steel Watcher")的联合，但并未过多参与对话。如果与她交谈，她表示如果乌尔德·雷文加德信任戈塔什，她也会信任，却不知道后者的信任源于夺心魔蝌蚪。
 
-如果队伍选择[与戈塔什对峙](Confront_Gortash.md "Confront Gortash")，他们会在礼堂发现杜林博尔德夫人与其他所有受邀宾客及其随从一同被屠杀。
+如果队伍选择与戈塔什对峙，他们会在礼堂发现杜林博尔德夫人与其他所有受邀宾客及其随从一同被屠杀。
 
 ## 相关文献
 

@@ -67,7 +67,7 @@
 - [守护灵光](Aura_of_Protection.md "Aura_of Protection") - 拥有此灵光的[圣武士](Paladin.md "Paladin")周围3米/10英尺半径内的所有盟友，获得等于圣武士魅力[属性值](Ability_Scores.md "属性值")的豁免加值。
 - [吟游诗人激励](Bardic_Inspiration_(class_action).md "Bardic Inspiration (class action)") - [吟游诗人防御](Bardic_Defence.md "Bardic Defence")的目标，下一次豁免检定获得1d6加值。
 - [战斗激励](Combat_Inspiration.md "Combat Inspiration") - [英勇防御](Valiant_Defence.md "Valiant Defence")为施法者下一次豁免检定提供1d6加值。
-- [魔法感知](Magic_Awareness.md "Magic Awareness") - [野魔法野蛮人](Wild_Magic_(barbarian_subclass)周围3米/10英尺半径内的所有盟友.md)，对抗法术的豁免检定获得等于其[熟练项加值](Proficiency_Bonus.md "Proficiency bonus")的加值，持续1回合。
+- [魔法感知](Magic_Awareness.md "Magic Awareness") - [野魔法野蛮人](Wild_Magic_(barbarian_subclass).md)周围3米/10英尺半径内的所有盟友，对抗法术的豁免检定获得等于其[熟练项加值](Proficiency_Bonus.md "Proficiency bonus")的加值，持续1回合。
 
 ### 法术
 
@@ -172,8 +172,8 @@
 
 ### 灵吸怪威能
 
-- [灵魂受挫](Fracture_Psyche.md "Fracture Psyche") - 目标豁免检定承受-1减益。[完整灵吸怪版本](Fracture_Psyche_(Full-illithid)则承受-5减益.md)。
-- [灵魂破碎](Shatter_Psyche.md "Shatter Psyche") - 目标豁免检定承受-2减益。[完整灵吸怪版本](Shatter_Psyche_(Full-illithid)则承受-5减益.md)。
+- [灵魂受挫](Fracture_Psyche.md "Fracture Psyche") - 目标豁免检定承受-1减益。[完整灵吸怪版本](Fracture_Psyche_(Full-illithid).md)则承受-5减益。
+- [灵魂破碎](Shatter_Psyche.md "Shatter Psyche") - 目标豁免检定承受-2减益。[完整灵吸怪版本](Shatter_Psyche_(Full-illithid).md)则承受-5减益。
 
 ### 物品
 
@@ -361,7 +361,7 @@
 - [感染](Infected_(Condition).md "Infected (Condition)") - 目标体质豁免承受劣势。
 - [致残](Maimed_(Condition).md "Maimed (Condition)") - 目标敏捷豁免承受劣势。
 - [泥泞](Muddy_(Condition).md "Muddy (Condition)") - 目标敏捷豁免承受劣势。
-- [倒地](Prone_(Condition).md "Prone (Condition)") - 目标力量和敏捷豁免承受劣势。
+- [倒伏](Prone_(Condition).md "Prone (Condition)") - 目标力量和敏捷豁免承受劣势。
 - [缩小](Reduced_(Condition).md "Reduced (Condition)") - 目标力量豁免承受劣势。
 - [束缚](Restrained_(Condition).md "Restrained (Condition)") - 目标敏捷豁免承受劣势。
 - [腐烂](Rotting_(Condition).md "Rotting (Condition)") - 目标魅力豁免承受劣势。

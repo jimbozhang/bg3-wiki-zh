@@ -61,7 +61,7 @@ _此副职除了以下概述的独特特性外，还获得其基础职业[圣武
 誓言法术
 你从誓言中获得额外的法术。它们是[始终准备](Spells.md#Known_Spells "法术")的。
 
-- [恢复](Lesser_Restoration.md "恢复")
+- [次级复原术](Lesser_Restoration.md "恢复")
 - [沉默术](Silence.md "沉默术") ### 等级 7
 
 [奉献灵光](Aura_of_Devotion.md "奉献灵光")

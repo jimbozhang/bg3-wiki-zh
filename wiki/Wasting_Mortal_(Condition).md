@@ -5,7 +5,7 @@
 **衰朽凡躯**
 
 - 此活物在处于 [亡者荒地](The_Dead_Wastes_(Condition).md "亡者荒地 (状态)") 内时，每回合结束时受到 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 受影响的生物也无法 [恢复](regenerate.md "恢复") [生命值](Hit_Points.md "生命值")，且其 [移动](Movement.md "移动") 消耗翻倍。
+- 受影响的生物也无法 [恢复](Hit_Points.md "恢复") [生命值](Hit_Points.md "生命值")，且其 [移动](Movement.md "移动") 消耗翻倍。
 
 ## 属性
 
@@ -23,7 +23,7 @@ _维基数据库中未定义_
 ## 具有相同堆叠 ID 的状态
 
 - 此活物在处于 [亡者荒地](The_Dead_Wastes_(Condition).md "亡者荒地 (状态)") 内时，每回合结束时受到 4d6⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
-- 受影响的生物也无法 [恢复](regenerate.md "恢复") [生命值](Hit_Points.md "生命值")，且其 [移动](Movement.md "移动") 消耗翻倍。
+- 受影响的生物也无法 [恢复](Hit_Points.md "恢复") [生命值](Hit_Points.md "生命值")，且其 [移动](Movement.md "移动") 消耗翻倍。
 
 ---
 *Source: [Wasting Mortal (Condition)](https://bg3.wiki/wiki/Wasting_Mortal_(Condition)*

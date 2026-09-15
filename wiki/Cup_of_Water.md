@@ -1,6 +1,6 @@
 # 一杯水
 
-**一杯水**是一种[消耗品](Consumables.md "消耗品")。当被[吞噬](consumed.md "consumed")时，它会恢复[生命值](Hit_Points.md "生命值")。
+**一杯水**是一种[消耗品](Consumables.md "消耗品")。当被吞噬时，它会恢复[生命值](Hit_Points.md "生命值")。
 
 因为人不能只靠麦芽酒活着。
 

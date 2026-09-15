@@ -17,7 +17,7 @@
 4d8 + [施法调整值](Spells.md#Spellcasting_ability "施法")[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（若豁免成功：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）（若豁免成功：目标仍承受一半伤害。）
 射程：30米（100英尺）
 充能：每回合
 
@@ -27,7 +27,7 @@
 
 持续时间：2回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响的生物无法移动。恐慌的生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 

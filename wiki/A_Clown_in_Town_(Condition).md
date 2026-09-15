@@ -6,7 +6,7 @@
 - 此状态只能通过粉碎[卡'尼斯](Kar'niss.md "卡'尼斯")持有的[月亮提灯](Moonlantern.md "月亮提灯")获得。
 - 为受害者施加小丑妆容。
 
-[被诅咒](Cursed_(状态组).md)
+[被诅咒](Cursed_(status_group).md)
 
 ## 属性
 

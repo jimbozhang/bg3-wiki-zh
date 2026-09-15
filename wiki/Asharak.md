@@ -80,7 +80,7 @@
 
 如果[赛夫洛](Zevlor.md "赛夫洛")在第一幕期间死亡，阿沙拉克是可能的替代者之一。
 
-如果在解决[卡哈](Kagha.md "卡哈")的[荆棘仪式](Rite_of_Thorns_(ritual)之前前.md)往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林们会被驱逐出翠绿林地，阿沙拉克的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥附近的难民堆中找到。
+如果在解决[卡哈](Kagha.md "卡哈")的[荆棘仪式](Rite_of_Thorns_(ritual).md)之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林们会被驱逐出翠绿林地，阿沙拉克的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥附近的难民堆中找到。
 
 如果[明萨拉](Minthara.md "明萨拉")和她的突袭小队准备袭击翠绿林地，阿沙拉克会与[阿尔卡](Arka.md "阿尔卡")、[艾雷吉斯](Elegis.md "艾雷吉斯")和赛夫洛一起在城门上作为第一道防线。
 

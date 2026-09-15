@@ -6,7 +6,7 @@
 
 在你的压迫性存在范围内，给予敌人[劣势](Disadvantage.md "劣势")进行[攻击](Attack.md "攻击")和[豁免检定](Saving_throws.md "豁免检定")。
 
-无法被[恐慌](Frightened_(Condition)的生物免疫此灵光.md)。
+无法被[恐慌](Frightened_(Condition).md)的生物免疫此灵光。
 
 ## 属性
 

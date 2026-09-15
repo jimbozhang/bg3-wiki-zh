@@ -16,7 +16,7 @@
 
 ## 状态：邪魔体魄：钝击
 
-**[邪魔体魄：钝击](邪魔体魄_colon__钝击_(状态).md "邪魔体魄：钝击 (状态)")**
+**[邪魔体魄：钝击](Fiendish_Resilience_colon__Bludgeoning_(Condition).md "邪魔体魄：钝击 (状态)")**
 
 持续时间：永久
 

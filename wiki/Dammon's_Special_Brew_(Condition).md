@@ -4,7 +4,7 @@
 
 - 戴摩的调制药剂使枭熊激怒。
 
-[变形](变形_(状态组).md)
+[变形](Polymorphed_(status_group).md)
 
 ## 属性
 

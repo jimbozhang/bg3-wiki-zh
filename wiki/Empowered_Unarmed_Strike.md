@@ -1,6 +1,6 @@
 # 强效徒手打击
 
-**强效徒手打击**是[戈塔什](Gortash.md "戈塔什")在[暴政化身](Avatar_of_Tyranny_(Condition).md "暴政化身 (状态)")形态下可用的一种攻击。它允许他进行一次由[灾祸术](Bane_(God).md) unholy power)强化的徒手打击。
+**强效徒手打击**是[戈塔什](Gortash.md "戈塔什")在[暴政化身](Avatar_of_Tyranny_(Condition).md "暴政化身 (状态)")形态下可用的一种攻击。它允许他进行一次由[班恩](Bane_(God).md) unholy power)强化的徒手打击。
 
 ## 描述
 

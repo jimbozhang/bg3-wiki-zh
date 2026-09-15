@@ -20,7 +20,7 @@
 
 详情
 近战武器 [攻击掷骰](Attack_roll.md "Attack Roll")
-[力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（豁免成功：目标不会被击退。）
+[力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（豁免成功：目标不会被击退。）
 范围：普通武器范围
 击退：5米（17英尺）
 充能：[短休](Short_rest.md "Short rest")

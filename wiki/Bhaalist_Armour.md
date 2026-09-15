@@ -1,6 +1,6 @@
 # 巴尔信徒护甲
 
-巴尔信徒护甲是一件非常稀有的[轻甲](Armour.md#Light_Armour "Armour")，它提供[谋杀灵光](Aura_of_Murder_(passive_feature)并给.md)予[先攻](Initiative.md "Initiative")骰子加值。
+巴尔信徒护甲是一件非常稀有的[轻甲](Armour.md#Light_Armour "Armour")，它提供[谋杀灵光](Aura_of_Murder_(passive_feature).md)并给予[先攻](Initiative.md "Initiative")骰子加值。
 
 巴尔，谋杀之主，在被称为[动荡之年](https://forgottenrealms.fandom.com/wiki/Time_of_Troubles)的历史时期被迫以凡人之躯行走世间。他比以往任何时候都更脆弱。但巴尔狡猾无比。他为自己的死亡准备了后手。
 

@@ -97,7 +97,7 @@
 [轻甲](Armour.md#List_of_light_armour "护甲"), [中甲](Armour.md#List_of_medium_armour "护甲"), [重甲](Armour.md#List_of_heavy_armour "护甲")
 [盾牌](Shields.md "盾牌")
 技能熟练项（选择 2 项）
-[体操](Acrobatics.md "体操"), [驯兽](Animal_Handling.md "驯兽"), [运动](Athletics.md "运动"), [历史的](History.md "历史的"), [洞悉](Insight.md "洞悉"), [威吓](Intimidation.md "威吓"), [察觉技能](Perception.md "察觉技能"), [求生](Survival.md "求生")
+[体操](Acrobatics.md "体操"), [驯兽](Animal_Handling.md "驯兽"), [运动](Athletics.md "运动"), [历史](History.md "历史"), [洞悉](Insight.md "洞悉"), [威吓](Intimidation.md "威吓"), [察觉技能](Perception.md "察觉技能"), [求生](Survival.md "求生")
 你获得对你[熟练项](Proficiency.md "熟练项")的每项[技能](Character_creation.md#Skills "角色创建")的加值。在角色等级 1 时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为 +2。
 初始装备
 [长剑](Longsword.md "长剑"), [鳞甲](Scale_Mail.md "鳞甲"), [皮靴](Leather_Boots.md "皮靴")

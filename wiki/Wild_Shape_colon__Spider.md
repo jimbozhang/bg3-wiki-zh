@@ -69,7 +69,7 @@
 
 ## 备注
 
-- 以蜘蛛形态进行荒野形态时，你免疫[网缚](Enwebbed_(Condition).md "网缚（状态）")以及在[蛛网](Web_(surface)上行走的移动惩罚.md)。
+- 以蜘蛛形态进行荒野形态时，你免疫[网缚](Enwebbed_(Condition).md "网缚（状态）")以及在[蛛网](Web_(surface).md)上行走的移动惩罚。
 
 ---
 *Source: [Wild Shape: Spider](https://bg3.wiki/wiki/Wild_Shape:_Spider)*

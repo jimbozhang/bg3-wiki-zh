@@ -6,7 +6,7 @@
 
 使一名敌人对[挥砍](Slashing.md "Slashing")伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
 
-此效果持续 3 [驱散](Turn.md "Turn")，或直到目标受到伤害。
+此效果持续 3 [驱散](Turned_(Condition).md "Turn")，或直到目标受到伤害。
 
 ## 属性
 
@@ -26,7 +26,7 @@
 
 持续时间：3 驱散
 
-- 受影响实体在 3 [驱散](Turn.md "Turn") 内，或直到其受到伤害前，对[挥砍](Slashing.md "Slashing")伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
+- 受影响实体在 3 [驱散](Turned_(Condition).md "Turn") 内，或直到其受到伤害前，对[挥砍](Slashing.md "Slashing")伤害处于[易伤](Vulnerable.md "Vulnerable")状态。
 
 ## 如何习得
 

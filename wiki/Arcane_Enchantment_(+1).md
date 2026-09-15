@@ -6,7 +6,7 @@
 
 ## 描述
 
-你获得对[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")检定的+1加值。
+你获得对[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")检定的+1加值。
 
 ## 如何习得
 
@@ -32,7 +32,7 @@
 
 ## 简要预览
 
-对[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")检定的+1加值。
+对[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")检定的+1加值。
 
 ---
 *Source: [Arcane Enchantment (+1)](https://bg3.wiki/wiki/Arcane_Enchantment_(+1)*

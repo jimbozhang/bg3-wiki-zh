@@ -1,10 +1,10 @@
 # 武术：灵巧打击
 
-**武术：灵巧打击**是[武僧](Monk.md "武僧")的被动特性，可将[武僧武器](Monk%20Weapon.md "武僧武器")和徒手攻击的最低伤害提高至1d4⁠⁠[钝击](Bludgeoning.md "钝击")。
+**武术：灵巧打击**是[武僧](Monk.md "武僧")的被动特性，可将[武僧武器](Monk_Weapon.md "武僧武器")和徒手攻击的最低伤害提高至1d4⁠⁠[钝击](Bludgeoning.md "钝击")。
 
 ## 描述
 
-使用[武僧武器](Monk%20Weapon.md "武僧武器")和徒手攻击时，造成1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，除非其正常伤害更高。
+使用[武僧武器](Bludgeoning.md "武僧武器")和徒手攻击时，造成1d4⁠⁠[钝击](Bludgeoning.md "钝击")伤害，除非其正常伤害更高。
 
 ## 更高等级
 
@@ -23,7 +23,7 @@
 
 ## 备注
 
-- [武僧武器](Monk%20Weapon.md "武僧武器")将造成其正常的伤害类型，而非钝击。例如，9级武僧使用短剑将造成1d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。
+- [武僧武器](Piercing.md "武僧武器")将造成其正常的伤害类型，而非钝击。例如，9级武僧使用短剑将造成1d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 
 ---
 *Source: [Martial Arts: Deft Strikes](https://bg3.wiki/wiki/Martial_Arts:_Deft_Strikes)*

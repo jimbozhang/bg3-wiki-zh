@@ -24,11 +24,11 @@
 
 - [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
-对抗[幻术学派](Illusion.md "幻术学派")和陷入[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition)时.md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+对抗[幻术学派](Illusion.md "幻术学派")和陷入[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)时的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对抗[中毒](Poisoned_(Condition)时.md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+对抗[中毒](Poisoned_(Condition).md)时的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 - [额外攻击](Extra_Attack.md "额外攻击")
 
@@ -56,11 +56,11 @@
 
 - [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
-对抗[幻术学派](Illusion.md "幻术学派")和陷入[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition)时.md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+对抗[幻术学派](Illusion.md "幻术学派")和陷入[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)时的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对抗[中毒](Poisoned_(Condition)时.md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+对抗[中毒](Poisoned_(Condition).md)时的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 - [额外攻击](Extra_Attack.md "额外攻击")
 
@@ -88,11 +88,11 @@
 
 - [灰矮人坚韧](Duergar_Resilience.md "灰矮人坚韧")
 
-对抗[幻术学派](Illusion.md "幻术学派")和陷入[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition)时.md)的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
+对抗[幻术学派](Illusion.md "幻术学派")和陷入[魅惑](Charmed_(status_group).md)或[麻痹](Paralysed_(Condition).md)时的[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 - [矮人活力](Dwarven_Resilience.md "矮人活力")
 
-对抗[中毒](Poisoned_(Condition)时.md)的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
+对抗[中毒](Poisoned_(Condition).md)时的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")，并对[中毒](Poison.md "中毒")伤害具有[抗性](Resistance.md "抗性")。
 
 - [额外攻击](Extra_Attack.md "额外攻击")
 

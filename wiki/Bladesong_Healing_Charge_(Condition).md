@@ -2,18 +2,18 @@
 
 **刀锋之歌治疗冲锋**
 
-- 一种冲锋，当使用[刀锋之歌高潮](刀锋之歌高潮.md "刀锋之歌高潮")时，会增加你治疗自己和盟友的[生命值](Healing.md "治疗") 1d6⁠⁠。
+- 一种冲锋，当使用[刀锋之歌高潮](Bladesong_Climax.md "刀锋之歌高潮")时，会增加你治疗自己和盟友的[生命值](Healing.md "治疗") 1d6⁠⁠。
 - 你可以通过使用武器攻击来积累这些冲锋。
 
 ## 属性
 
-[持续时间消失](Status_properties.md#Duration "状态"): [否](FreezeDuration.md "状态属性/冻结持续时间")
+[持续时间消失](Status_properties.md#Duration "状态"): [否](Status_properties/FreezeDuration.md "状态属性/冻结持续时间")
 
 [如果已应用](Status_properties.md#Stack_type "状态"): 增加持续时间
 
 [更多属性](Conditions.md "状态"):
 
-- [冻结持续时间](FreezeDuration.md "状态属性/冻结持续时间")
+- [冻结持续时间](Status_properties/FreezeDuration.md "状态属性/冻结持续时间")
 
 ## 错误
 

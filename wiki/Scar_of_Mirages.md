@@ -10,7 +10,7 @@
 
 **[困惑](Confused_(Condition).md "困惑 (状态)")**
 
-持续时间：2 [驱散](Turn.md "驱散")
+持续时间：2 [驱散](Turned_(Condition).md "驱散")
 
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 14)
 

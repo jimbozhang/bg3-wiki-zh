@@ -78,7 +78,7 @@
 
 - [**多重攻击：倒伏、束缚或跛足**](../Multiattack_colon__Prone_Restrained_or_Maimed.md "多重攻击：倒伏、束缚或跛足")
 
-可对任何[倒伏](../Prone_(Condition).md)、[跛足](../Maimed_(Condition).md)或[束缚](../Restrained_(Condition)的生物进.md)行[多重攻击](../Multiattack_(Steel_Watcher_Titan).md)。
+可对任何[倒伏](../Prone_(Condition).md)、[跛足](../Maimed_(Condition).md)或[束缚](../Restrained_(Condition).md)的生物进行[多重攻击](../Multiattack_(Steel_Watcher_Titan).md)。
 
 - [**借机攻击**](../Opportunity_Attack.md "借机攻击")
 
@@ -140,7 +140,7 @@
 
 - [**多重攻击：倒伏、束缚或跛足**](../Multiattack_colon__Prone_Restrained_or_Maimed.md "多重攻击：倒伏、束缚或跛足")
 
-可对任何[倒伏](../Prone_(Condition).md)、[跛足](../Maimed_(Condition).md)或[束缚](../Restrained_(Condition)的生物进.md)行[多重攻击](../Multiattack_(Steel_Watcher_Titan).md)。
+可对任何[倒伏](../Prone_(Condition).md)、[跛足](../Maimed_(Condition).md)或[束缚](../Restrained_(Condition).md)的生物进行[多重攻击](../Multiattack_(Steel_Watcher_Titan).md)。
 
 - [**借机攻击**](../Opportunity_Attack.md "借机攻击")
 
@@ -208,7 +208,7 @@
 
 - [**多重攻击：倒伏、束缚或跛足**](../Multiattack_colon__Prone_Restrained_or_Maimed.md "多重攻击：倒伏、束缚或跛足")
 
-可对任何[倒伏](../Prone_(Condition).md)、[跛足](../Maimed_(Condition).md)或[束缚](../Restrained_(Condition)的生物进.md)行[多重攻击](../Multiattack_(Steel_Watcher_Titan).md)。
+可对任何[倒伏](../Prone_(Condition).md)、[跛足](../Maimed_(Condition).md)或[束缚](../Restrained_(Condition).md)的生物进行[多重攻击](../Multiattack_(Steel_Watcher_Titan).md)。
 
 - [**借机攻击**](../Opportunity_Attack.md "借机攻击")
 
@@ -276,7 +276,7 @@
 
 - [**多重攻击：倒伏、束缚或跛足**](../Multiattack_colon__Prone_Restrained_or_Maimed.md "多重攻击：倒伏、束缚或跛足")
 
-可对任何[倒伏](../Prone_(Condition).md)、[跛足](../Maimed_(Condition).md)或[束缚](../Restrained_(Condition)的生物进.md)行[多重攻击](../Multiattack_(Steel_Watcher_Titan).md)。
+可对任何[倒伏](../Prone_(Condition).md)、[跛足](../Maimed_(Condition).md)或[束缚](../Restrained_(Condition).md)的生物进行[多重攻击](../Multiattack_(Steel_Watcher_Titan).md)。
 
 - [**借机攻击**](../Opportunity_Attack.md "借机攻击")
 
@@ -430,7 +430,7 @@ UUID
 
 ## 遭遇详情
 
-在受到一定伤害后，钢铁卫士泰坦总是会触发[防御协议：壁垒](../Defensive_Protocol_colon__Bulwark.md "防御协议：壁垒")，然后激活[瞄准协议：地狱火飞弹](../Targeting_Protocol_colon__Hellfire_Missiles.md "瞄准协议：地狱火飞弹")并在下一回合发射那些[地狱火飞弹](../Hellfire_Missiles.md "地狱火飞弹")。此攻击可以通过对其造成足够伤害以移除防御协议：壁垒提供的所有临时生命值来中断。当生命值降至低位时，钢铁卫士泰坦使用[爆炸 (钢铁卫士泰坦)](../Self-Detonate_(Steel_Watcher_Titan).md "爆炸 (钢铁卫士泰坦)")爆炸，就像普通的[钢铁卫士](../Steel_Watcher_(creature)一样.md)。
+在受到一定伤害后，钢铁卫士泰坦总是会触发[防御协议：壁垒](../Defensive_Protocol_colon__Bulwark.md "防御协议：壁垒")，然后激活[瞄准协议：地狱火飞弹](../Targeting_Protocol_colon__Hellfire_Missiles.md "瞄准协议：地狱火飞弹")并在下一回合发射那些[地狱火飞弹](../Hellfire_Missiles.md "地狱火飞弹")。此攻击可以通过对其造成足够伤害以移除防御协议：壁垒提供的所有临时生命值来中断。当生命值降至低位时，钢铁卫士泰坦使用[爆炸 (钢铁卫士泰坦)](../Self-Detonate_(Steel_Watcher_Titan).md "爆炸 (钢铁卫士泰坦)")爆炸，就像普通的[钢铁卫士](../Steel_Watcher_(creature).md)一样。
 
 在硬核和荣誉难度下，钢铁卫士泰坦失去对闪电伤害的易伤，并获得额外抗性。
 

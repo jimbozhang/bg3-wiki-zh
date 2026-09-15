@@ -20,7 +20,7 @@
 
 详情
 [攻击掷骰](Attack_roll.md "Attack Roll")
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")) (豁免成功：目标承受全额伤害但不会惊惧)
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")) (豁免成功：目标承受全额伤害但不会惊惧)
 射程：正常武器射程
 [专注](Concentration.md "Concentration")
 
@@ -32,9 +32,9 @@
 
 **[惊惧斩](Staggering_Smite_(Condition).md "惊惧斩（状态）")**
 
-持续时间：1 [驱散](Turn.md "Turn")
+持续时间：1 [驱散](Turned_(Condition).md "Turn")
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 在[攻击掷骰](Attack_rolls.md "Attack Rolls")和[属性检定](Ability_Check.md "Ability Check")上具有[劣势](Disadvantage.md "Disadvantage")，且无法采取[反应](Reactions.md "Reactions")。
 

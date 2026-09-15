@@ -6,7 +6,7 @@
 
 等级列表示法术等级，而非职业等级。吟游诗人法术是[习得法术](Known_spells.md "Known_spells")，在通过等级提升学习后无法更改。
 
-吟游诗人法术将使用施法者的[魅力](Charisma.md "Charisma")调整值进行[法术豁免DC](Spell_save_DC.md "Spell Save DC")和[法术攻击](Spell_Attack.md "Spell Attack")掷骰。
+吟游诗人法术将使用施法者的[魅力](Charisma.md "Charisma")调整值进行[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")和[法术攻击](Spell_Attack.md "Spell Attack")掷骰。
 
 ## 吟游诗人法术列表
 
@@ -46,7 +46,7 @@
 | [人类定身术](Hold_Person.md "Hold Person") | 2 |  |  | 10 回合 | 18 米 / 60 尺 | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "Saving throws") | - |
 | [隐形](Invisibility_(spell).md "Invisibility (spell)") | 2 |  |  | 10 回合 | 1.5 米 / 5 尺 | - | - |
 | [敲击术](Knock.md "Knock") | 2 |  |  | - | 18 米 / 60 尺 | - | - |
-| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5 米 / 5 尺 | - | - |
+| [次级复原术](Lesser_Restoration.md "次级复原术") | 2 |  |  | - | 1.5 米 / 5 尺 | - | - |
 | [魅影之力](Phantasmal_Force.md "Phantasmal Force") | 2 |  |  | 10 回合 | 18 米 / 60 尺 | [智力](Intelligence.md "智力") [豁免](Saving_throws.md "Saving throws") | - |
 | [识破隐形](See_Invisibility_(spell).md "See Invisibility (spell)") | 2 |  |  | 长休 | 自身 / 9米 / 30尺 (半径) | [敏捷](Dexterity.md "敏捷") [豁免](Saving_throws.md "Saving throws") | - |
 | [粉碎音波](Shatter.md "Shatter") | 2 |  |  | - | 18 米 / 60 尺 / 3米 / 10尺 (半径) | [体质](Constitution.md "体质") [豁免](Saving_throws.md "Saving throws") | 3d8⁠[雷鸣](Thunder.md "Thunder") |

@@ -28,7 +28,7 @@
 
 持续时间：3 驱散
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 被灌注了魔法疯狂。将攻击除施法者外最近的生物。
 

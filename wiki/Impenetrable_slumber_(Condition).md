@@ -4,11 +4,11 @@
 
 - 此个体受到大量睡眠药剂的影响。无法唤醒他们。
 
-[昏迷](Unconscious_(状态组).md)
+[昏迷](Unconscious_(status_group).md)
 
 ## 属性
 
-[状态组](Status_groups.md "状态组"): [SG_昏迷](SG_昏迷.md "SG 昏迷"), [SG_状态](SG_Condition.md "SG 状态")
+[状态组](Status_groups.md "状态组"): [SG_昏迷](SG_Unconscious.md "SG 昏迷"), [SG_状态](SG_Condition.md "SG 状态")
 
 ## 不可唤醒的沉睡来源
 

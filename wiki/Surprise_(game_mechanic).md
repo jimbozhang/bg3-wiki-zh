@@ -59,11 +59,11 @@
 - 在[幽暗地域](Underdark.md "幽暗地域")中，接近[石化战场](Underdark.md#Petrified_Battlefield "幽暗地域")会与[观察者眼魔](Spectator.md "观察者眼魔")发起战斗，触发过场动画并使队伍成员惊讶。
 - 接近[幽暗地域海滩](Underdark.md#Beach "幽暗地域海滩")会触发与灰矮人的对话。如果立即攻击，海滩上的所有灰矮人都会被惊讶。如果[格克·煤球](Gekh_Coal.md "格克·煤球")被召唤并变得敌对，队伍成员反而会被惊讶。
 - 在[复仇之炉](Grymforge.md "复仇之炉")中，攻击三个[拟形怪](Mimic.md "拟形怪")在伪装形态下互动时总是会使队伍成员惊讶。从远程攻击它们会在未被惊讶的情况下开始战斗。
-- [岩浆魔蝠](Magma_Mephit.md "岩浆魔蝠")在接近最靠近[精金熔炉](Adamantine_Forge_(location)的秘银矿脉时会使队伍成员惊讶.md)。
+- [岩浆魔蝠](Magma_Mephit.md "岩浆魔蝠")在接近最靠近[精金熔炉](Adamantine_Forge_(location).md)的秘银矿脉时会使队伍成员惊讶。
 
 ### 第二幕
 
-- 在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")中，与[枯萎术](Blight_(race)的三次单独遭遇如果队伍靠得太近.md)，可能会使队伍成员惊讶。
+- 在[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")中，与[枯萎术](Blight_(race).md)的三次单独遭遇如果队伍靠得太近，可能会使队伍成员惊讶。
 - 在[月出之塔](Moonrise_Towers.md "月出之塔")中，攻击[拟形怪](Mimic.md "拟形怪")在伪装形态下互动时总是会使队伍成员惊讶。从远程攻击它们会在未被惊讶的情况下开始战斗。
 - 在X: -43 Y: 7的[废弃战场](Ruined_Battlefield.md "废弃战场")中遇到的[鬾魊](Meazel.md "鬾魊")如果未通过DC 18的察觉检定，会使队伍惊讶。
 

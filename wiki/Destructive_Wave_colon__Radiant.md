@@ -30,7 +30,7 @@
 
 持续时间：1驱散
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 受影响的生物无法移动或进行 [动作](Actions.md#Resources "Actions")、[附赠动作](Actions.md#Resources "Actions") 或 [反应](Actions.md#Reactions "Actions")，并且在 [力量](Strength.md "Strength") 和 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw") 上具有 [劣势](Disadvantage.md "Disadvantage")。
 - 在距离生物3米 (10英尺) 内进行的攻击对倒伏生物具有 [优势](Advantage.md "Advantage")。

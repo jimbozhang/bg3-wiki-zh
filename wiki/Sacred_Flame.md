@@ -15,7 +15,7 @@
 1d8⁠[光耀](Radiant.md "光耀")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子投掷")) (豁免成功：伤害被抵消)
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子投掷")) (豁免成功：伤害被抵消)
 范围：18 米 (60 英尺)
 
 ## 更高等级效果

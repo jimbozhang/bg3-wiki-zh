@@ -36,7 +36,7 @@
 
 _关于渡鸦女王的恩赐：_
 
-- 当[变形野兽形态](Polymorph_Beast_Shape_(status_group)状态组中的任何状态被应用时.md)，渡鸦女王的恩赐会触发该状态。
+- 当[变形野兽形态](Polymorph_Beast_Shape_(status_group).md)状态组中的任何状态被应用时，渡鸦女王的恩赐会触发该状态。
 
 ---
 *Source: [Corvid Token](https://bg3.wiki/wiki/Corvid_Token)*

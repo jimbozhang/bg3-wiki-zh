@@ -25,7 +25,7 @@
 
 **[充能闪电：风暴步伐](Charged_Lightning_colon__Tempest_Steps_(Condition).md "充能闪电：风暴步伐 (状态)")**
 
-持续时间：4[驱散](Turn.md "Turn")
+持续时间：4[驱散](Turned_(Condition).md "Turn")
 
 [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 13)
 

@@ -1,6 +1,6 @@
 # 激励点
 
-不要与[诗人激励（资源）](Bardic_Inspiration_(resource)混淆.md)。
+不要与[诗人激励（资源）](Bardic_Inspiration_(resource).md)混淆。
 
 **激励点**是_博德之门3_中的一种游戏机制。激励点可用于重掷某些失败的d20掷骰，并通过做出符合玩家角色[背景](Background.md "背景")的选择获得；它们在所有角色之间共享。
 

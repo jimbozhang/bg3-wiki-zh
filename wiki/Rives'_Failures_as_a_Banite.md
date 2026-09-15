@@ -14,7 +14,7 @@
 
 ## 文本
 
-[汉斯·里韦斯](Hahns_Rives.md "汉斯·里韦斯")！他自称是[灾祸术](Bane_(God)的信徒.md)，却是个暴政之神的耻辱！一个[黑手套](https://forgottenrealms.fandom.com/wiki/Knights_of_the_Black_Gauntlet)——里韦斯？真是个笑话！我才是铸造厂实验室等级的黑手套。
+[汉斯·里韦斯](Hahns_Rives.md "汉斯·里韦斯")！他自称是[班恩](Bane_(God).md)的信徒，却是个暴政之神的耻辱！一个[黑手套](https://forgottenrealms.fandom.com/wiki/Knights_of_the_Black_Gauntlet)——里韦斯？真是个笑话！我才是铸造厂实验室等级的黑手套。
 
 事实上，我正为监督者们汇编一份里韦斯的缺点清单。然后他们就会明白。这些仅仅是过去十天内的：
 

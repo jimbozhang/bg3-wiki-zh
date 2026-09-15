@@ -70,7 +70,7 @@
 [飞檐走壁：疾走](Step_of_the_Wind_colon__Dash.md "飞檐走壁：疾走") 使移动速度翻倍
 在2级时获得的职业特性，可消耗[附赠动作](Actions.md#Resources "动作") + [气点](Ki_Point.md "气点")使移动速度翻倍。
 [无甲移动](Unarmoured_Movement.md "无甲移动") 3米/10英尺
-在2级时获得的职业特性，当不穿戴[护甲](Armour.md "护甲")或使用[护盾](Shield_(equipment)时增加移动速度.md)。此加成在6级和10级时分别提升至4.5米/15英尺和6米/20英尺，前提是拥有[精通无甲移动](Improved_Unarmoured_Movement.md "精通无甲移动")。
+在2级时获得的职业特性，当不穿戴[护甲](Armour.md "护甲")或使用[护盾](Shield_(equipment).md)时增加移动速度。此加成在6级和10级时分别提升至4.5米/15英尺和6米/20英尺，前提是拥有[精通无甲移动](Improved_Unarmoured_Movement.md "精通无甲移动")。
 
 [游侠](Ranger.md "游侠")
 
@@ -186,16 +186,16 @@
 
 以下状态阻止受影响生物使用其移动速度：
 
-- [束缚](Restrained_(status_group)状态组中的所有.md)；除了[跛足](Hamstrung_(Condition).md "跛足（状态）")、[泥泞](Muddy_(Condition).md "泥泞（状态）")和[钉住](Pinned_Down_(Condition).md "钉住（状态）")。
-- [恐慌](Frightened_(status_group)状态组中的所有.md)；除了[恐惧](Fearful_(Condition).md "恐惧（状态）")、[心形恐怖：蜕变](Heartform_Terror_colon__Ceremorphosis_(Condition).md "心形恐怖：蜕变（状态）")和[气馁](Unnerved_(Condition).md "气馁（状态）")。
+- [束缚](Restrained_(status_group).md)状态组中的所有；除了[跛足](Hamstrung_(Condition).md "跛足（状态）")、[泥泞](Muddy_(Condition).md "泥泞（状态）")和[钉住](Pinned_Down_(Condition).md "钉住（状态）")。
+- [恐慌](Frightened_(status_group).md)状态组中的所有；除了[恐惧](Fearful_(Condition).md "恐惧（状态）")、[心形恐怖：蜕变](Heartform_Terror_colon__Ceremorphosis_(Condition).md "心形恐怖：蜕变（状态）")和[气馁](Unnerved_(Condition).md "气馁（状态）")。
 - [闪现至虚无形态](Blinked_to_the_Ethereal_Plane_(Condition).md "闪现至虚无形态（状态）")
 - [跛足](Maimed_(Condition).md "跛足（状态）")
 - [秘术师卡里翁的束缚诅咒](Mystic_Carrion's_Restraining_Curse_(Condition).md "秘术师卡里翁的束缚诅咒（状态）")
 
 以下状态使受影响生物失能或跳过其回合，从而阻止其移动：
 
-- [失能](Incapacitated_(status_group).md)和[昏迷](Unconscious_(status_group)状态组中的所有.md)。
-- [震慑](Stunned_(status_group)状态组中的所有.md)；除了[昏沉](Befuddled_(Condition).md "昏沉（状态）")。
+- [失能](Incapacitated_(status_group).md)和[昏迷](Unconscious_(status_group).md)状态组中的所有。
+- [震慑](Stunned_(status_group).md)状态组中的所有；除了[昏沉](Befuddled_(Condition).md "昏沉（状态）")。
 - [被诅咒：恐惧](Cursed_colon__Dread_(Condition).md "被诅咒：恐惧（状态）")
 - [盖勒里安狂欢](Galerian_Revelry_(Condition).md "盖勒里安狂欢（状态）")
 - [心形恐怖：蜕变](Heartform_Terror_colon__Ceremorphosis_(Condition).md "心形恐怖：蜕变（状态）")

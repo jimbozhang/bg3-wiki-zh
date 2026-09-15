@@ -4,7 +4,7 @@
 
 - 穿过一堵柔韧、扭曲的荆棘墙。
 
-- 在墙内时，受影响实体的[移动速度](Movement_speed.md "移动速度")会降至四分之一，并且每[驱散](Turn.md "驱散")受到 7d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。
+- 在墙内时，受影响实体的[移动速度](Movement_speed.md "移动速度")会降至四分之一，并且每[驱散](Turned_(Condition).md "驱散")受到 7d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 
 ## 属性
 
@@ -19,7 +19,7 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| 棘墙术 | 穿过一堵柔韧、扭曲的荆棘墙。在墙内时，受影响实体的[移动速度](Movement_speed.md "移动速度")会降至四分之一，并且每[驱散](Turn.md "驱散")受到 7d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。 |
+| 棘墙术 | 穿过一堵柔韧、扭曲的荆棘墙。在墙内时，受影响实体的[移动速度](Movement_speed.md "移动速度")会降至四分之一，并且每[驱散](Turned_(Condition).md "驱散")受到 7d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。 |
 
 ## 拥有棘墙术的生物
 
@@ -29,7 +29,7 @@ _维基数据库中未定义_
 
 - 穿过一堵柔韧、扭曲的荆棘墙。
 
-- 在墙内时，受影响实体的[移动速度](Movement_speed.md "移动速度")会降至四分之一，并且每[驱散](Turn.md "驱散")受到 7d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。
+- 在墙内时，受影响实体的[移动速度](Movement_speed.md "移动速度")会降至四分之一，并且每[驱散](Turned_(Condition).md "驱散")受到 7d8⁠⁠[穿刺](Piercing.md "穿刺")伤害。
 
 ---
 *Source: [Wall of Thorns (Condition)](https://bg3.wiki/wiki/Wall_of_Thorns_(Condition)*

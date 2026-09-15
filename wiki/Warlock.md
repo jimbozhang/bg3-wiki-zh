@@ -112,7 +112,7 @@
 [简易武器](Simple_weapons.md "简易武器")
 [轻甲](Armour.md#List_of_light_armour "护甲")
 熟练技能（选择2项）
-[奥秘](Arcana.md "奥秘"), [欺瞒](Deception.md "欺瞒"), [历史的](History.md "历史的"), [威吓](Intimidation.md "威吓"), [调查](Investigation.md "调查"), [自然](Nature.md "自然"), [宗教](Religion.md "宗教")
+[奥秘](Arcana.md "奥秘"), [欺瞒](Deception.md "欺瞒"), [历史](History.md "历史"), [威吓](Intimidation.md "威吓"), [调查](Investigation.md "调查"), [自然](Nature.md "自然"), [宗教](Religion.md "宗教")
 你获得每个你[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。在角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
 初始装备
 [布甲](Padded_Armour.md "布甲"), [匕首](Dagger.md "匕首"), [简易靴子](Simple_Boots.md "简易靴子")

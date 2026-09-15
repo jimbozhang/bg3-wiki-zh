@@ -4,7 +4,7 @@
 
 ## 描述
 
-使用你的[反应](Reaction.md "Reaction")，将一次[远程武器攻击](Ranged_Weapon_Attack.md "远程武器攻击")的伤害减少1d10 + 你的[敏捷](Dexterity.md "敏捷")[调整值](Modifier.md "调整值") + 你的武僧等级。
+使用你的[反应](Reaction.md "Reaction")，将一次[远程武器攻击](Modifier.md "远程武器攻击")的伤害减少1d10 + 你的[敏捷](Dexterity.md "敏捷")[调整值](Modifier.md "调整值") + 你的武僧等级。
 
 ## 赠予
 

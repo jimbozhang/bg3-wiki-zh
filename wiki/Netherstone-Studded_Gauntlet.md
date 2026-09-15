@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏方式](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-耐色石镶嵌手套是一件非常稀有的[手套](Gloves.md "Gloves")，能为徒手攻击提供+1法术豁免DC和额外的力场伤害，并授予[命令术](Command.md "Command")。
+耐色石镶嵌手套是一件非常稀有的[手套](Gloves.md "Gloves")，能为徒手攻击提供+1法术豁免难度等级和额外的力场伤害，并授予[命令术](Command.md "Command")。
 
 暴君的握持必须是冰冷、无情且精密锻造的钢铁。无论承受多大压力，它都不可动摇、不可退缩，其指尖必须深深刺入那些试图反抗它的人。
 
@@ -23,7 +23,7 @@
 你的徒手攻击造成额外1d4⁠⁠[力场](Force.md "Force")伤害。
 
 [高阶施法](High_Spellcasting_(+1).md)
-你获得+1的[法术豁免DC](Spell_save_DC.md "Spell Save DC")加值。
+你获得+1的[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")加值。
 
 ## 获取地点
 

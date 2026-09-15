@@ -1,4 +1,4 @@
-# Xon'ar'as
+# 克萨纳拉斯
 
 | | |
 | --- | --- |
@@ -122,4 +122,4 @@ Xon'a'ras 是养育间中无法交谈的角色之一。过场动画结束后，�
 - [吉斯洋基半身甲](Githyanki_Half_Plate.md "Githyanki Half Plate")
 
 ---
-*Source: [Xon'ar'as](https://bg3.wiki/wiki/Xon'ar'as)*
+*Source: [克萨纳拉斯](https://bg3.wiki/wiki/Xon'ar'as)*

@@ -52,14 +52,14 @@
 | [克雷斯卡的恩惠](Kereska's_Favour.md "Kereska's Favour") | 4 |  |  | - | 自身 | - | - |
 | [夺心魔支配](Mind_Flayer_Domination.md "Mind Flayer Domination") | 4 |  |  | 10回合 | 18米 / 60英尺 | [智力](Intelligence.md "Intelligence") [豁免检定](Saving_throws.md "Saving throws") | - |
 | [火焰射线](Rays_of_Fire_(Mol).md "Rays of Fire (Mol)") | 4 |  |  | - | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") | 3d6⁠[火焰](Fire.md "Fire") / 3d6⁠[火焰](Fire.md "Fire") / 3d6⁠[火焰](Fire.md "Fire") / 3d6⁠[火焰](Fire.md "Fire") |
-| [罗兰的火球术术](Rolan's_Fireball.md "Rolan's Fireball") | 4 |  |  | 10回合 | 18米 / 60英尺 / 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") | 7d6⁠[火焰](Fire.md "Fire") |
+| [罗兰的火球术](Rolan's_Fireball.md "Rolan's Fireball") | 4 |  |  | 10回合 | 18米 / 60英尺 / 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") | 7d6⁠[火焰](Fire.md "Fire") |
 | [分享难守秘密](Share_Untenable_Secret.md "Share Untenable Secret") | 4 |  |  | 1回合 | 2米 / 7英尺 | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 3d8⁠[心灵](Psychic.md "Psychic") |
 | [极致灾难](Sizzling_Cataclysm.md "Sizzling Cataclysm") | 4 |  |  | 长休 | 自身 | - | - |
 | [惊惧斩](Staggering_Smite.md "Staggering Smite") | 4 |  |  | 1回合 | 武器范围 | [攻击掷骰](Attack_roll.md "Attack Roll") [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 正常武器伤害 / 4d6⁠[心灵](Psychic.md "Psychic") |
 3d6⁠[火焰](Fire.md "Fire")
 3d6⁠[火焰](Fire.md "Fire")
 3d6⁠[火焰](Fire.md "Fire")
-| [罗兰的火球术术](Rolan's_Fireball.md "Rolan's Fireball") | 4 | 10回合 | 18米 / 60英尺 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") | 7d6⁠[火焰](Fire.md "Fire") [分享难守秘密](Share_Untenable_Secret.md "Share Untenable Secret") | 4 | 1回合 | 2米 / 7英尺 | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 3d8⁠[心灵](Psychic.md "Psychic") |
+| [罗兰的火球术](Rolan's_Fireball.md "Rolan's Fireball") | 4 | 10回合 | 18米 / 60英尺 4米 / 13英尺 (半径) | [敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") | 7d6⁠[火焰](Fire.md "Fire") [分享难守秘密](Share_Untenable_Secret.md "Share Untenable Secret") | 4 | 1回合 | 2米 / 7英尺 | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 3d8⁠[心灵](Psychic.md "Psychic") |
 | [极致灾难](Sizzling_Cataclysm.md "Sizzling Cataclysm") | 4 | 长休 | 自身 | - | - [惊惧斩](Staggering_Smite.md "Staggering Smite") | 4 | 1回合 | 武器范围 | [攻击掷骰](Attack_roll.md "Attack Roll") [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | 正常武器伤害 |
 4d6⁠[心灵](Psychic.md "Psychic")
 

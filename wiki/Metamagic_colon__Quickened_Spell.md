@@ -1,6 +1,6 @@
 # 超魔：瞬发法术
 
-**超魔：瞬发法术**是[术士](Sorcerer.md "Sorcerer")使用的可切换被动功能。此[超魔](Metamagic.md "Metamagic")能力允许术士在一个[驱散](Turn.md "Turn")内施放多个[法术](Spells.md "Spells")。
+**超魔：瞬发法术**是[术士](Sorcerer.md "Sorcerer")使用的可切换被动功能。此[超魔](Metamagic.md "Metamagic")能力允许术士在一个[驱散](Turned_(Condition).md "Turn")内施放多个[法术](Spells.md "Spells")。
 
 ## 描述
 

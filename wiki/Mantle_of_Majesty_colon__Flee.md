@@ -13,7 +13,7 @@
 消耗
 [附赠动作](Actions.md#Resources "动作")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 范围：18米（60英尺）
 充能：[长休](Long_Rest.md "长休")
 [专注](Concentration.md "专注")
@@ -32,7 +32,7 @@
 
 持续时间：1 驱散
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 
 - 必须以最快的方式尽可能远离施法者移动。
 - 不能采取[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。

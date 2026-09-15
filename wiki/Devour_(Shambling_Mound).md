@@ -6,7 +6,7 @@
 
 ## 描述
 
-吞噬一个被[束缚](Restrained_(status_group)并浸泡在你.md)的[消化液](Digestive_Juices_(Condition).md "消化液（状态）")中的生物。
+吞噬一个被[束缚](Restrained_(status_group).md)并浸泡在你的[消化液](Digestive_Juices_(Condition).md "消化液（状态）")中的生物。
 
 ## 属性
 

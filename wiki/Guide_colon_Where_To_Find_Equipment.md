@@ -39,7 +39,7 @@
 | 由[加尔布雷斯](Golbraith_Stredivas.md "加尔布雷斯·斯特雷迪瓦斯")在其家一楼给予 | 盾牌 | 盾牌 | | +2 | [异怪猎人护符](Aberration_Hunters'_Amulet.md "异怪猎人护符") |
 
 [长年怀恨](Ancient_Grudges.md "长年怀恨")
-触碰你的护符以吸收吉斯人知识的一小部分。你对[异怪](List_of_creature_types.md#Aberration "生物类型列表")的[攻击检定](Attack_rolls.md "攻击检定")具有[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
+触碰你的护符以吸收吉斯人知识的一小部分。你对[异怪](List_of_creature_types.md#Aberration "生物类型列表")的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
 | 由[医疗官斯托努苟斯](Stornugoss.md "斯托努戈斯")携带，在医务室以西的医生办公室 | 护符 |
 |
 |
@@ -150,7 +150,7 @@
 |
 | [西凡那斯护符](Amulet_of_Silvanus.md "西凡那斯护符") |
 
-[次级恢复](Lesser_Restoration.md "次级恢复")
+[次级复原术](Lesser_Restoration.md "次级复原术")
 作为2环法术施放（充能：[短休](Short_rest.md "短休")。）
 | 在熊[奥姆](Ormn.md "奥姆")附近，隐藏在一块需要移动的扁平石头下 | 护符 |
 |
@@ -359,7 +359,7 @@
 | 由[明萨拉](Minthara.md "明萨拉")穿戴 | 靴子 | 中甲 |
 |
 |
-| [不羁库席戈之靴](Boots_of_Uninhibited_Kushigo.md "不羁库席戈之靴") | | 由[高级教士里'瑞克](Lir'i'c.md "里'瑞克")携带，进入[第三幕](Act_Three.md "第三幕")时 | 靴子 |
+| [不羁库席戈之靴](Boots_of_Uninhibited_Kushigo.md "不羁库席戈之靴") | | 由[高级教士里'瑞克](Lir'i'c.md "高级教士里'瑞克")携带，进入[第三幕](Act_Three.md "第三幕")时 | 靴子 |
 |
 |
 | [超速闪烁之靴](Boots_of_Very_Fast_Blinking.md "超速闪烁之靴") |

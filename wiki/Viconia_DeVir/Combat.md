@@ -98,7 +98,7 @@
 
 - [**威猛叱喝**](../Rebuke_of_the_Mighty.md "威猛叱喝")
 
-当敌人用近战攻击命中你时，你可以使用你的反应，造成2d4⁠⁠[力场](../Force.md "力场")伤害并将其击倒至[倒地](../Prone_(Condition).md "倒地（状态）")状态，除非他们成功通过[敏捷](../Dexterity.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
+当敌人用近战攻击命中你时，你可以使用你的反应，造成2d4⁠⁠[力场](../Force.md "力场")伤害并将其击倒至[倒伏](../Prone_(Condition).md "倒伏（状态）")状态，除非他们成功通过[敏捷](../Dexterity.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
 
   - [**阴影伏击**](../Shadow_Ambush.md "阴影伏击")
 
@@ -198,7 +198,7 @@
 
 - [**威猛叱喝**](../Rebuke_of_the_Mighty.md "威猛叱喝")
 
-当敌人用近战攻击命中你时，你可以使用你的反应，造成2d4⁠⁠[力场](../Force.md "力场")伤害并将其击倒至[倒地](../Prone_(Condition).md "倒地（状态）")状态，除非他们成功通过[敏捷](../Dexterity.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
+当敌人用近战攻击命中你时，你可以使用你的反应，造成2d4⁠⁠[力场](../Force.md "力场")伤害并将其击倒至[倒伏](../Prone_(Condition).md "倒伏（状态）")状态，除非他们成功通过[敏捷](../Dexterity.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
 
   - [**阴影伏击**](../Shadow_Ambush.md "阴影伏击")
 
@@ -318,7 +318,7 @@
 
 - [**威猛叱喝**](../Rebuke_of_the_Mighty.md "威猛叱喝")
 
-当敌人用近战攻击命中你时，你可以使用你的反应，造成2d4⁠⁠[力场](../Force.md "力场")伤害并将其击倒至[倒地](../Prone_(Condition).md "倒地（状态）")状态，除非他们成功通过[敏捷](../Dexterity.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
+当敌人用近战攻击命中你时，你可以使用你的反应，造成2d4⁠⁠[力场](../Force.md "力场")伤害并将其击倒至[倒伏](../Prone_(Condition).md "倒伏（状态）")状态，除非他们成功通过[敏捷](../Dexterity.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
 
   - [**阴影伏击**](../Shadow_Ambush.md "阴影伏击")
 
@@ -450,7 +450,7 @@
 
 - [**威猛叱喝**](../Rebuke_of_the_Mighty.md "威猛叱喝")
 
-当敌人用近战攻击命中你时，你可以使用你的反应，造成2d4⁠⁠[力场](../Force.md "力场")伤害并将其击倒至[倒地](../Prone_(Condition).md "倒地（状态）")状态，除非他们成功通过[敏捷](../Dexterity.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
+当敌人用近战攻击命中你时，你可以使用你的反应，造成2d4⁠⁠[力场](../Force.md "力场")伤害并将其击倒至[倒伏](../Prone_(Condition).md "倒伏（状态）")状态，除非他们成功通过[敏捷](../Dexterity.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
 
   - [**阴影伏击**](../Shadow_Ambush.md "阴影伏击")
 
@@ -536,7 +536,7 @@ UUID
 射程：18米（60尺）
 
 [引导神力：幽影斗篷](../Channel_Divinity_colon__Cloak_of_Shadows.md "引导神力：幽影斗篷")（+）
-用阴影包裹自己，若你处于[遮蔽](../Obscured.md "遮蔽")状态，则变为[隐形](../Cloak_of_Shadow_(Condition).md "幽影斗篷（状态）")。_\[[参见：错误](../Channel_Divinity_colon__Cloak_of_Shadows.md#Bugs "引导神力：幽影斗篷")\]_
+用阴影包裹自己，若你处于[遮蔽](../Obscured.md "遮蔽")状态，则变为[隐形](../Invisible_(Condition).md "幽影斗篷（状态）")。_\[[参见：错误](../Channel_Divinity_colon__Cloak_of_Shadows.md#Bugs "引导神力：幽影斗篷")\]_
 
 射程：自身
 
@@ -784,7 +784,7 @@ UUID
 
 最后，整个战斗可以用两种非常简单的策略解决：
 
-- 第一：利用瓶颈点。撤退到楼梯上并穿过大门，迫使整个莎尔军队跟随并聚集在一起。这使它们成为使用伤害性地形（如[火墙术](../Wall_of_Fire.md "火墙术")、[冰墙](../Wall_of_Ice.md "冰墙")和[荆棘丛生](../Spike_Growth.md "荆棘丛生")）以及范围伤害法术（如[火球术术](../Fireball.md "火球术术")、[寒冰锥](../Cone_of_Cold.md "寒冰锥")和[阳炎射线](../Sunbeam.md "阳炎射线")）的有吸引力目标。[剑刃屏障](../Blade_Barrier.md "剑刃屏障")尤其有效，因为它可以沿走廊施放，将走廊的一段变成困难且造成伤害的地形。撤退还将队伍置于高地，并允许他们用[雷鸣波](../Thunderwave.md "雷鸣波")、[烟粉炸弹](../Smokepowder_Bomb.md "烟粉炸弹")甚至[推击](../Shove.md "推击")将敌人推回伤害性地表。
+- 第一：利用瓶颈点。撤退到楼梯上并穿过大门，迫使整个莎尔军队跟随并聚集在一起。这使它们成为使用伤害性地形（如[火墙术](../Wall_of_Fire.md "火墙术")、[冰墙](../Wall_of_Ice.md "冰墙")和[荆棘丛生](../Spike_Growth.md "荆棘丛生")）以及范围伤害法术（如[火球术](../Fireball.md "火球术")、[寒冰锥](../Cone_of_Cold.md "寒冰锥")和[阳炎射线](../Sunbeam.md "阳炎射线")）的有吸引力目标。[剑刃屏障](../Blade_Barrier.md "剑刃屏障")尤其有效，因为它可以沿走廊施放，将走廊的一段变成困难且造成伤害的地形。撤退还将队伍置于高地，并允许他们用[雷鸣波](../Thunderwave.md "雷鸣波")、[烟粉炸弹](../Smokepowder_Bomb.md "烟粉炸弹")甚至[推击](../Shove.md "推击")将敌人推回伤害性地表。
 - 第二：从外围向内推进，通过潜行手段消灭维康妮亚的随从，向内推进至她，然后按队伍意愿处理；此[指南](../Guide_colon_Stealth_fighting.md "指南：潜行战斗")提供更多细节。
 
 ### 盟友
@@ -799,7 +799,7 @@ UUID
 
 ## 注释与参考
 
-1. [↑](#cite_ref-1) 维康妮亚可以被[蕈人王格拉特](../Sovereign_Glut.md "蕈人王格拉特")的孢子复活。
+1. [↑](#cite_ref-1) 维康妮亚可以被[蕈人王格拉特](../Glut.md "蕈人王格拉特")的孢子复活。
 1. [↑](#cite_ref-2) [映射恐惧：狼](../Mapped_Terror_colon__Wolves.md "映射恐惧：狼")和[映射恐惧：蜘蛛](../Mapped_Terror_colon__Spiders.md "映射恐惧：蜘蛛")的野兽变形是幻象，因此无法被[支配野兽](../Dominate_Beast.md "支配野兽") targeting。它们的功能也类似于[德鲁伊](../Druid.md "德鲁伊")的[荒野形态](../Wild_Shape.md "荒野形态")，变形生物在野兽生命值耗尽后会恢复原形。
 1. [↑](#cite_ref-3) 无需杀死维康妮亚即可获得这些物品；如果她被击败，可以在最终对话过场动画前掠夺她。
 

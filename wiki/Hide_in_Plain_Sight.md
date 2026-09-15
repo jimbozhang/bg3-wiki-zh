@@ -36,7 +36,7 @@
 
 ## 备注
 
-- 像[跳跃](Jump.md "Jump")或[飞行](Fly.md "Fly")这样的动作不会打破隐形，因此可以在保持隐形的同时无限移动。这也适用于所有其他具有[隐形](Invisible_(spell_flag)法术标志的动作.md)。
+- 像[跳跃](Jump.md "Jump")或[飞行](Fly.md "Fly")这样的动作不会打破隐形，因此可以在保持隐形的同时无限移动。这也适用于所有其他具有[隐形](Invisible_(spell_flag).md)法术标志的动作。
 
 ---
 *Source: [Hide in Plain Sight](https://bg3.wiki/wiki/Hide_in_Plain_Sight)*

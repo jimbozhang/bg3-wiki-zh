@@ -19,7 +19,7 @@
 
 持续时间: 3 驱散
 
-[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 受影响的实体已被秘术师卡里翁诅咒。它处于[中毒](Poisoned_(Condition).md "中毒 (状态)")和[目盲](Blinded_(Condition).md "目盲 (状态)")状态。
 - 在其回合结束时，它必须通过一次体质[豁免检定](Saving_throw.md "豁免检定")，否则将受到[秘术师卡里翁的束缚诅咒](Mystic_Carrion's_Restraining_Curse_(Condition).md "秘术师卡里翁的束缚诅咒 (状态)")影响，并受到4d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。

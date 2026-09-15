@@ -1,4 +1,4 @@
-# G'r'ath
+# 格拉'特
 
 | | |
 | --- | --- |
@@ -88,7 +88,7 @@
 - [威吓] 让我过去。这会为我们双方节省时间，也为你省下很多血。（DC 21）
 - [游说] 等等！一艘鹦鹉螺在你们门口坠毁了。人们正被夺心魔感染。我需要帮助。（DC 18）
 
-队伍渗透养育间后，G'r'ath 和[战士 Qen](Qen.md "战士 Qen") 可以在养育间[贸易站](Crèche_Y'llek.md#Trade_Post "伊雷珂养育间")上方的同一通道处守卫。
+队伍渗透养育间后，G'r'ath 和[战士克恩](Qen.md "战士 Qen") 可以在养育间[贸易站](Crèche_Y'llek.md#Trade_Post "伊雷珂养育间")上方的同一通道处守卫。
 
 如果队伍未能解释他们试图渗透养育间的意图，或者在与审判官交谈后选择走回养育间并引发战斗，她会变得对队伍敌对。
 
@@ -165,7 +165,7 @@ G'r'ath 最多可以消耗四个[卓越骰子](Battle_Master.md#Level_3 "战斗�
 
 ## 外部链接
 
-- ⁠[G'r'ath](https://forgottenrealms.fandom.com/wiki/G%27r%27ath) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page) 上
+- ⁠[格拉'特](https://forgottenrealms.fandom.com/wiki/G%27r%27ath) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page) 上
 
 ---
-*Source: [G'r'ath](https://bg3.wiki/wiki/G'r'ath)*
+*Source: [格拉'特](https://bg3.wiki/wiki/G'r'ath)*

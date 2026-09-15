@@ -61,7 +61,7 @@
 | 名称 | 稀有度 | 价值 | 类型 | 效果 |
 | --- | --- | --- | --- | --- |
 | [穿刺箭](Arrow_of_Piercing.md "Arrow of Piercing") | 普通 | 10 | 伤害 | 造成武器伤害 + 对目标正后方的生物造成该伤害的一半。 |
-| [带钩箭](Barbed_Arrow.md "Barbed Arrow") | 普通 | 10 | 伤害 | 造成武器伤害并使目标[裂地](Ruptured_(Condition).md "Ruptured (Condition)")。 |
+| [带钩箭](Barbed_Arrow.md "Barbed Arrow") | 普通 | 10 | 伤害 | 造成武器伤害并使目标[裂地](Ruptured_(Condition).md "裂地 (状态)")。 |
 
 ## 不可用箭矢
 

@@ -87,7 +87,7 @@
 ## 备注
 
 - 如果被扔进水渊，水元素会漂浮回安全地带。
-- 该生物的[法术豁免DC](Spell_save_DC.md "法术豁免DC")是[力量](Strength.md "力量")，这意味着为召唤元素生物的水元素变体增加DC的稳定方法是给它服用改变力量的药水，例如[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")或[云巨人力量灵药](Elixir_of_Cloud_Giant_Strength.md "云巨人力量灵药")。
+- 该生物的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")是[力量](Strength.md "力量")，这意味着为召唤元素生物的水元素变体增加DC的稳定方法是给它服用改变力量的药水，例如[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")或[云巨人力量灵药](Elixir_of_Cloud_Giant_Strength.md "云巨人力量灵药")。
 
 ## 外部链接
 

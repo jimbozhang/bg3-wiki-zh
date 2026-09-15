@@ -178,7 +178,7 @@
 
 断腿的位置
 
-[小丑的断腿](Clown's_Severed_Leg.md "小丑的断腿")可以在[费金](Incontinentia_Figgin.md "费金")的尸体上找到，位置在[拉韦尔尼卡之家](Lavernica's_Home.md "拉韦尔尼卡之家")的地下室X: -76 Y: -70处，旁边还有[森代，第三人](Sendai,_the_Third.md "森代，第三人")。这封信的副本可以在名为[金鱼的丹佛拉](Danfora_of_the_Kingfish.md "金鱼的丹佛拉")的卓尔尸体上找到。拉韦尔尼卡之家悬于[阿拉吉·欧布罗扎](Araj_Oblodra.md "阿拉吉·欧布罗扎")的[腥红跳棋](Crimson_Draughts.md "腥红跳棋")上方，位于下城区[下城主墙](Lower_City_Central_Wall.md "下城主墙")传送点的西南方向。撬开前门后，队伍必须使用活板门进入房屋地下室。上层房间有许多死去的蜘蛛，地下室则有死去的卓尔和灰矮人。
+[小丑的断腿](Clown's_Severed_Leg.md "小丑的断腿")可以在[费金](Incontinentia_Figgin.md "费金")的尸体上找到，位置在[拉韦尔尼卡之家](Lavernica's_Home.md "拉韦尔尼卡之家")的地下室X: -76 Y: -70处，旁边还有[森代，第三人](Sendai,_the_Third.md "森代，第三人")。这封信的副本可以在名为[金鱼的丹佛拉](Danfora_of_the_Kingfish.md "金鱼的丹佛拉")的卓尔尸体上找到。拉韦尔尼卡之家悬于[阿拉吉·欧布罗扎](Araj_Oblodra.md "阿拉吉·欧布罗扎")的[腥红跳棋](Crimson_Draughts.md "腥红跳棋")上方，位于下城区下城主墙传送点的西南方向。撬开前门后，队伍必须使用活板门进入房屋地下室。上层房间有许多死去的蜘蛛，地下室则有死去的卓尔和灰矮人。
 
 #### 小丑的断脚
 

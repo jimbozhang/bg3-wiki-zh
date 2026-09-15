@@ -22,11 +22,11 @@
 
 ## 武器动作难度等级
 
-许多武器动作是攻击，可以对目标施加衰弱状态。对于这些攻击，目标可以进行[豁免检定](Saving_throw.md "豁免检定")以避免承受该状态。豁免检定的[难度等级](Difficulty_Class.md "难度等级")（或DC）计算方式类似于[法术豁免DC](Spells.md#Spell_saves "法术")，但有两个不同之处：首先，[施法关键属性调整值](Spells.md#Spellcasting_ability "施法")被替换为[力量](Strength.md "力量")或[敏捷](Dexterity.md "敏捷")中较高的[属性值调整值](Abilities.md#Ability_score_modifiers "属性")。其次，每个武器动作可以授予其自身固有的奖励DC，该DC未在任何地方列出，但最常见的是+2。用数学表达如下：
+许多武器动作是攻击，可以对目标施加衰弱状态。对于这些攻击，目标可以进行[豁免检定](Saving_throw.md "豁免检定")以避免承受该状态。豁免检定的[难度等级](Difficulty_Class.md "难度等级")（或DC）计算方式类似于[法术豁免难度等级](Spells.md#Spell_saves "法术")，但有两个不同之处：首先，[施法关键属性调整值](Spells.md#Spellcasting_ability "施法")被替换为[力量](Strength.md "力量")或[敏捷](Dexterity.md "敏捷")中较高的[属性值调整值](Abilities.md#Ability_score_modifiers "属性")。其次，每个武器动作可以授予其自身固有的奖励DC，该DC未在任何地方列出，但最常见的是+2。用数学表达如下：
 
 武器动作DC = 8 + [熟练项加值](Proficiency_Bonus.md "熟练项加值") + [力量](Strength.md "力量")或[敏捷](Dexterity.md "敏捷")调整值 + 固有武器动作奖励DC
 
-某些武器动作使用**混合DC**，允许使用者使用其法术豁免DC或武器动作DC（+2奖励），以较高者为准。其他独特武器动作始终使用法术豁免DC。在所有情况下，DC类型和任何固有奖励均在下面的表格中列出。
+某些武器动作使用**混合DC**，允许使用者使用其法术豁免难度等级或武器动作DC（+2奖励），以较高者为准。其他独特武器动作始终使用法术豁免难度等级。在所有情况下，DC类型和任何固有奖励均在下面的表格中列出。
 
 在补丁5之前，武器动作的基础DC为10，但不将熟练项加值添加到DC中，导致在5级后熟练项加值增加时总体DC较低。补丁5后已更改为上述公式。
 
@@ -38,7 +38,7 @@
 
 | 武器动作 | 关联武器 | 消耗 | 效果 | 伤害 |
 | --- | --- | --- | --- | --- |
-| [摔翻打击](Backbreaker.md "摔翻打击") | [战锤](Warhammers.md "战锤") / [巨锤](Mauls.md "巨锤") | [动作](Actions#Resources.md#Resources "动作") | 施加[倒地](Prone_(Condition).md "倒地") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC 持续时间：2回合 | 1d4 + [力量或敏捷调整值](Damage_Roll#Modifiers.md#Modifiers "伤害掷骰") 继承武器伤害类型 |
+| [摔翻打击](Backbreaker.md "摔翻打击") | [战锤](Warhammers.md "战锤") / [巨锤](Mauls.md "巨锤") | [动作](Actions#Resources.md#Resources "动作") | 施加[倒伏](Prone_(Condition).md "倒伏") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC 持续时间：2回合 | 1d4 + [力量或敏捷调整值](Damage_Roll#Modifiers.md#Modifiers "伤害掷骰") 继承武器伤害类型 |
 | [备战（近战）](Brace_(Melee).md "备战（近战）") | [长柄刀](Glaives.md "长柄刀") / [长矛](Pikes.md "长矛") | 6米（20英尺）[移动速度](Resources#Movement_speed.md#Movement_speed "资源") | 重掷近战伤害掷骰并取较高值 持续时间：1回合 | - |
 | [劈砍](Cleave.md "劈砍") | [战斧](Battleaxes.md "战斧") / [巨斧](Greataxes.md "巨斧") / [长戟](Halberds.md "长戟") / [巨剑](Greatswords.md "巨剑") | [动作](Actions#Resources.md#Resources "动作") | 攻击最多3个目标 范围：2米（7英尺）锥形 | 武器伤害减半 任何额外伤害（如[至圣斩](Divine_Smite.md "至圣斩")或[巨武器大师](Great_Weapon_Master.md "巨武器大师")）不会减半 |
 | [震荡猛击](Concussive_Smash.md "震荡猛击") | [钉头锤](Morningstars.md "钉头锤") / [短棒](Clubs.md "短棒") / [轻锤](Light_Hammers.md "轻锤") / [硬头锤](Maces.md "硬头锤") / [战锤](Warhammers.md "战锤") / [巨棒](Greatclubs.md "巨棒") / [巨锤](Mauls.md "巨锤") [链枷](Flails.md "链枷") | [动作](Actions#Resources.md#Resources "动作") | 施加[晕眩](Dazed_(Condition).md "晕眩") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 混合DC 持续时间：2回合 | 武器伤害 |
@@ -52,7 +52,7 @@
 | [准备](Prepare.md "准备") | [巨斧](Greataxes.md "巨斧") | 6米（20英尺）[移动速度](Resources#Movement_speed.md#Movement_speed "资源") | 本回合近战攻击造成额外伤害 | [力量调整值](Ability_score_modifier.md "属性值调整值") ⁠[挥砍](Slashing.md "挥砍") |
 | [突进攻击](Rush_Attack.md "突进攻击") | [长剑](Longswords.md "长剑") / [短矛](Spears.md "短矛") / [三叉戟](Tridents.md "三叉戟") / [长柄刀](Glaives.md "长柄刀") / [长戟](Halberds.md "长戟") / [长矛](Pikes.md "长矛") | [动作](Actions#Resources.md#Resources "动作") / + / [移动速度](Resources#Movement_speed.md#Movement_speed "资源") | 冲锋最多9米（30英尺）远 / 施加[失衡](Off_Balance_(Condition).md "失衡") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC 持续时间：2回合 | 1d4 + [力量或敏捷调整值](Damage_Roll#Modifiers.md#Modifiers "伤害掷骰") 继承武器伤害类型 |
 | [韧性](Tenacity.md "韧性") | [钉头锤](Morningstars.md "钉头锤") / [巨棒](Greatclubs.md "巨棒") / [巨锤](Mauls.md "巨锤") [链枷](Flails.md "链枷") | [反应](Actions#Reactions.md#Reactions "动作") | 未命中时造成伤害 重充：无限使用 | [力量调整值](Ability_score_modifier.md "属性值调整值") ⁠[钝击](Bludgeoning.md "钝击") 最低1点伤害 |
-| [摔绊](Topple.md "摔绊") | [长棍](Quarterstaves.md "长棍") | [动作](Actions#Resources.md#Resources "动作") | 施加[倒地](Prone_(Condition).md "倒地") [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：1回合 | 1d4⁠⁠[钝击](Bludgeoning.md "钝击") 非致命伤害 |
+| [摔绊](Topple.md "摔绊") | [长棍](Quarterstaves.md "长棍") | [动作](Actions#Resources.md#Resources "动作") | 施加[倒伏](Prone_(Condition).md "倒伏") [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：1回合 | 1d4⁠⁠[钝击](Bludgeoning.md "钝击") 非致命伤害 |
 | [弱化打击](Weakening_Strike.md "弱化打击") | [刺剑](Rapiers.md "刺剑") / [战镐](War_Picks.md "战镐") / [战锤](Warhammers.md "战锤") [链枷](Flails.md "链枷") | [动作](Actions#Resources.md#Resources "动作") | 施加[弱腕](Weak_Grip_(Condition).md "弱腕") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：2回合 | 1d4 + [力量或敏捷调整值](Damage_Roll#Modifiers.md#Modifiers "伤害掷骰") 继承武器伤害类型 非致命伤害 |
 
 ### 基本远程武器动作
@@ -72,7 +72,7 @@
 
 | 武器动作 | 关联武器 | 消耗 | 效果 | 伤害 |
 | --- | --- | --- | --- | --- |
-| [至上力量](Absolute_Power.md "至上力量") | [破誓者](Faithbreaker.md "破誓者") | [动作](Actions#Resources.md#Resources "动作") | 将目标推回5米（17英尺） [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 法术豁免DC | 武器伤害 / + 力量调整值 / + 1d6⁠⁠[力场](Force.md "力场") |
+| [至上力量](Absolute_Power.md "至上力量") | [破誓者](Faithbreaker.md "破誓者") | [动作](Actions#Resources.md#Resources "动作") | 将目标推回5米（17英尺） [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 法术豁免难度等级 | 武器伤害 / + 力量调整值 / + 1d6⁠⁠[力场](Force.md "力场") |
 | [血钱](Blood_Money.md "血钱") | [扭曲幸运](Twist_of_Fortune.md "扭曲幸运") | [动作](Actions#Resources.md#Resources "动作") | 根据目标携带的金币数量造成额外伤害 目标的金币会被此攻击消耗 | 武器伤害 / + 每300金币的熟练项加值 |
 | [血祭](Blood_Sacrifice.md "血祭") | [仪式匕首](Ritual_Dagger.md "仪式匕首") | [附赠动作](Actions#Resources.md#Resources "动作") | 对自身造成1d4⁠⁠[挥砍](Slashing.md "挥砍")伤害。对自身施加[祝福](Bless_(Condition).md "祝福")。 持续时间：1回合 | - |
 | [巨大冲击](Colossal_Onslaught.md "巨大冲击") | [乔戈拉尔的巨剑](Jorgoral's_Greatsword.md "乔戈拉尔的巨剑") | [动作](Actions#Resources.md#Resources "动作") | 攻击一条线上的多个目标 范围：6米（20英尺）直线 | 武器伤害 / + 熟练项加值 |
@@ -83,24 +83,24 @@
 | [黑暗之刃](Edge_of_Darkness.md "黑暗之刃") | [莎尔的黄昏短矛](Shar's_Spear_of_Evening.md "莎尔的黄昏短矛") | [动作](Actions#Resources.md#Resources "动作") | 创造一团[黑暗术](Darkness_(cloud).md "黑暗术")并攻击范围内的每个目标 范围：3米（10英尺）半径 持续时间：3回合 | 武器伤害 |
 | [巨像切割者](Gargantuan_Cleave.md "巨像切割者") | [沉重巨斧](Very_Heavy_Greataxe.md "沉重巨斧") | [动作](Actions#Resources.md#Resources "动作") | 攻击最多3个目标 范围：2米（7英尺）锥形 施加[失衡](Off_Balance_(Gargantuan_Cleave)_(Condition).md "失衡（巨像切割者）")于自身 持续时间：1回合 | 武器伤害减半 / + 1d6⁠⁠[挥砍](Slashing.md "挥砍") 来自[巨武器大师](Great_Weapon_Master.md "巨武器大师")等的额外伤害不会减半 |
 | [全垒打](Grand_Slam.md "全垒打") | [绞尸机](Corpsegrinder.md "绞尸机") | [动作](Actions#Resources.md#Resources "动作") / [[](#cite_note-fullaction-1 "[")注1] | 在范围内伤害并推开敌人 推力等于正常[推击](Shove.md "推击")距离 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 范围：3米（10英尺）半径 | 武器伤害 / + 熟练项加值⁠⁠[雷鸣](Thunder.md "雷鸣") |
-| [地狱火撕裂](Hellflame_Cleave.md "地狱火撕裂") | [地狱火巨斧](Hellfire_Greataxe.md "地狱火巨斧") | [动作](Actions#Resources.md#Resources "动作") / [[](#cite_note-fullaction-1 "[")注1] | 攻击多个目标并施加[翻腾地狱火](Roiling_Hellfire_(Condition).md "翻腾地狱火") [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 法术豁免DC 范围：3米（10英尺）锥形 创造[地狱火](Hellfire.md "地狱火")表面 | 武器伤害 / + 2d6⁠⁠[火焰](Fire.md "火焰") |
+| [地狱火撕裂](Hellflame_Cleave.md "地狱火撕裂") | [地狱火巨斧](Hellfire_Greataxe.md "地狱火巨斧") | [动作](Actions#Resources.md#Resources "动作") / [[](#cite_note-fullaction-1 "[")注1] | 攻击多个目标并施加[翻腾地狱火](Roiling_Hellfire_(Condition).md "翻腾地狱火") [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 法术豁免难度等级 范围：3米（10英尺）锥形 创造[地狱火](Hellfire.md "地狱火")表面 | 武器伤害 / + 2d6⁠⁠[火焰](Fire.md "火焰") |
 | [肃静！](Hush_You!.md "肃静！") | [巫术破除](Witchbreaker.md "巫术破除") | [动作](Actions#Resources.md#Resources "动作") | 施加[沉默](Silenced_(Condition).md "沉默") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：2回合 | 武器伤害 / + 熟练项加值 |
 | [月光蝴蝶](Moonlight_Butterflies.md "月光蝴蝶") | [月光](Moonlight_Glaive.md "月光") | [动作](Actions#Resources.md#Resources "动作") | 创造[月光蝴蝶](Moonlight_Butterflies_(area).md "月光蝴蝶")区域 为范围内的生物提供[优势](Advantage.md "优势") 范围：2米（7英尺）半径 持续时间：3回合 | 武器伤害 / + 熟练项加值 / + 熟练项加值⁠⁠[心灵](Psychic.md "心灵") |
 | [血肉分离](Part_the_Flesh.md "血肉分离") | [血肉裁决者](Fleshrender.md "血肉裁决者") | [动作](Actions#Resources.md#Resources "动作") | 施加[撕裂血肉](Rended_Flesh_(Condition).md "撕裂血肉") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：3回合 | 武器伤害 / + 熟练项加值⁠⁠[黯蚀](Necrotic.md "黯蚀") |
 | [完美平衡打击](Perfectly_Balanced_Strike.md "完美平衡打击") | [贝尔姆](Belm.md "贝尔姆") | [附赠动作](Actions#Resources.md#Resources "动作") | 使用主手武器进行一次攻击 如果贝尔姆装备在副手，攻击将不会使用贝尔姆。 重充：每回合 | 武器伤害 |
 | [生离死别：尖啸](Phalar_Aluve_colon__Shriek.md "生离死别：尖啸") | [生离死别](Phalar_Aluve.md "生离死别") | [动作](Actions#Resources.md#Resources "动作") / [[](#cite_note-fullaction-1 "[")注1] | 创造一个使附近敌人减益的光环 受影响的敌人在被攻击时承受1d4⁠⁠[雷鸣](Thunder.md "雷鸣")额外伤害 受影响的敌人所有豁免检定承受-1d4惩罚 范围：6米（20英尺）半径 持续时间：5回合 | - |
 | [生离死别：歌唱](Phalar_Aluve_colon__Sing.md "生离死别：歌唱") | [生离死别](Phalar_Aluve.md "生离死别") | [动作](Actions#Resources.md#Resources "动作") / [[](#cite_note-fullaction-1 "[")注1] | 创造一个使附近盟友增益的光环 受影响的盟友攻击掷骰和豁免检定获得1d4奖励 范围：6米（20英尺）半径 持续时间：5回合 | - |
-| [毒雾](Poison_Mist.md "毒雾") | [争端解决者](Argument_Solver.md "争端解决者") | [动作](Actions#Resources.md#Resources "动作") | 创造一团[毒云](Poison_Cloud.md "毒云")，施加[中毒](Poisoned_(Condition).md "中毒") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 法术豁免DC 范围：1.5米（5英尺）半径 持续时间：3回合 | 武器伤害 / + 熟练项加值 / + 熟练项加值⁠⁠[毒素](Poison.md "毒素") |
+| [毒雾](Poison_Mist.md "毒雾") | [争端解决者](Argument_Solver.md "争端解决者") | [动作](Actions#Resources.md#Resources "动作") | 创造一团[毒云](Poison_Cloud.md "毒云")，施加[中毒](Poisoned_(Condition).md "中毒") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 法术豁免难度等级 范围：1.5米（5英尺）半径 持续时间：3回合 | 武器伤害 / + 熟练项加值 / + 熟练项加值⁠⁠[毒素](Poison.md "毒素") |
 | [亵渎灾祸](Profane_Scourge.md "亵渎灾祸") | [不死灾祸](The_Undead_Bane.md "不死灾祸") | [动作](Actions#Resources.md#Resources "动作") | 对[不死生物](Undead.md "不死生物")和[恶魔](Fiends.md "恶魔")施加[灾祸](Bane_(Condition).md "灾祸") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：3回合 对其他生物类型无效 | 武器伤害 / + 熟练项加值 / + 2d6⁠⁠[挥砍](Slashing.md "挥砍")（仅对亡灵和恶魔） |
 | [剃刀狂风](Razor_Gale.md "剃刀狂风") | [拉瑞斯安之怒](Larethian's_Wrath.md "拉瑞斯安之怒") | [动作](Actions#Resources.md#Resources "动作") | 攻击大锥形范围内的所有敌人 范围：4米（13英尺）锥形 | 武器伤害 / + 熟练项加值 |
 | [再生打击](Revitalising_Strike.md "再生打击") | [跳跳](Hoppy.md "跳跳") | [动作](Actions#Resources.md#Resources "动作") | 治疗自身1d6⁠⁠[治疗](Healing.md "治疗") | 武器伤害 / + 熟练项加值⁠⁠[黯蚀](Necrotic.md "黯蚀") |
 | [灼热血液](Searing_Blood.md "灼热血液") | [断裂之刃](Rupturing_Blade.md "断裂之刃") | [动作](Actions#Resources.md#Resources "动作") | 施加[灼烧](Burning_(Condition).md "灼烧")和[流血](Bleeding_(Condition).md "流血") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：2回合 两种状态有独立的豁免检定 对自身造成1d6⁠⁠[挥砍](Slashing.md "挥砍") | 武器伤害 / + 熟练项加值⁠⁠[火焰](Fire.md "火焰") / + 1d6⁠⁠[火焰](Fire.md "火焰") |
 | [碎魂者](Soulbreaker.md "碎魂者") | [碎魂者巨剑](Soulbreaker_Greatsword.md "碎魂者巨剑") / [星界银剑](Silver_Sword_of_the_Astral_Plane.md "星界银剑") | [动作](Actions#Resources.md#Resources "动作") | 施加[震慑](Stunned_(Condition).md "震慑") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：2回合 | 武器伤害 / + 熟练项加值⁠⁠[心灵](Psychic.md "心灵") |
 | [浸影打击](Shadowsoaked_Blow.md "浸影打击") | [阴影之握](Sword_of_Clutching_Umbra.md "阴影之握") / [暗夜法官弯刀](Justiciar's_Scimitar.md "暗夜法官弯刀") | [动作](Actions#Resources.md#Resources "动作") | 可在不失去[潜行](Hiding_(Condition).md "潜行")的情况下攻击 | 武器伤害 / + 熟练项加值 / + 1d6⁠⁠[心灵](Psychic.md "心灵") |
-| [推翻大个](Topple_the_Big_Folk.md "推翻大个") | [博德安的巨人杀手](Balduran's_Giantslayer.md "博德安的巨人杀手") | [动作](Actions#Resources.md#Resources "动作") | 对大型或更大的目标施加[倒地](Prone_(Condition).md "倒地") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：2回合 | 武器伤害 / + 熟练项加值 / + 2d6（如果目标是大型或更大） |
+| [推翻大个](Topple_the_Big_Folk.md "推翻大个") | [博德安的巨人杀手](Balduran's_Giantslayer.md "博德安的巨人杀手") | [动作](Actions#Resources.md#Resources "动作") | 对大型或更大的目标施加[倒伏](Prone_(Condition).md "倒伏") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 武器动作DC + 2 持续时间：2回合 | 武器伤害 / + 熟练项加值 / + 2d6（如果目标是大型或更大） |
 | [解缚打击](Unshackling_Strike.md "解缚打击") | [俄耳甫斯之锤](Orphic_Hammer.md "俄耳甫斯之锤") | [动作](Actions#Resources.md#Resources "动作") | 移除[束缚](Restrained_(Condition).md "束缚")、[麻痹](Paralysed_(Condition).md "麻痹")和[震慑](Stunned_(Condition).md "震慑") 重充：无限使用 | - |
 | [旋风斩](Whirlwind_Attack_(Weapon_Action).md "旋风斩（武器动作）") | [蹁跹清风](The_Dancing_Breeze.md "蹁跹清风") / [贝尔姆](Belm.md "贝尔姆") | [动作](Actions#Resources.md#Resources "动作") | 攻击半径内的所有敌人 范围：2米（7英尺）半径 | 武器伤害 |
-| [西风破裂](Zephyr_Break.md "西风破裂") | [尼鲁纳](Nyrulna.md "尼鲁纳") | [动作](Actions#Resources.md#Resources "动作") / [[](#cite_note-fullaction-1 "[")注1] | 攻击一条线上的所有生物。施加[失衡](Off_Balance_(Condition).md "失衡")并将目标推回5米（17英尺） [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 法术豁免DC 范围：12米（40英尺）直线 持续时间：2回合 成功豁免时造成一半伤害 | 6d6⁠⁠[雷鸣](Thunder.md "雷鸣") |
+| [西风破裂](Zephyr_Break.md "西风破裂") | [尼鲁纳](Nyrulna.md "尼鲁纳") | [动作](Actions#Resources.md#Resources "动作") / [[](#cite_note-fullaction-1 "[")注1] | 攻击一条线上的所有生物。施加[失衡](Off_Balance_(Condition).md "失衡")并将目标推回5米（17英尺） [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") 法术豁免难度等级 范围：12米（40英尺）直线 持续时间：2回合 成功豁免时造成一半伤害 | 6d6⁠⁠[雷鸣](Thunder.md "雷鸣") |
 | [西风闪](Zephyr_Flash.md "西风闪") | [尼鲁纳](Nyrulna.md "尼鲁纳") | [动作](Actions#Resources.md#Resources "动作") / [[](#cite_note-fullaction-1 "[")注1] | 向前冲锋最多12米（40英尺），击中路径上的所有敌人。施加[流血](Bleeding_(Condition).md "流血")并将目标推回2米（7英尺） [DC](Dice_rolls#Save_DCs.md#Save_DCs "掷骰") 15 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 持续时间：3回合 成功豁免时造成一半伤害 | 6d8⁠⁠[雷鸣](Thunder.md "雷鸣") |
 
 ### 独特远程武器动作
@@ -150,7 +150,7 @@
 | [开放伤口](Gaping_Wounds_(Condition).md "开放伤口") | [穿刺射击](Piercing_Shot.md "穿刺射击") (体质) [穿刺打击](Piercing_Strike.md "穿刺打击") (体质) | - | 2回合内受到攻击时承受额外2点⁠⁠[穿刺](Piercing.md "穿刺")伤害 | 治疗 |
 | [腿筋受伤](Hamstrung_(Condition).md "腿筋受伤") | [腿筋射击](Hamstring_Shot.md "腿筋射击") (体质) | - | [移动速度](Movement_speed.md "移动速度")减半 | 治疗 |
 | [失衡](Off_Balance_(Condition).md "失衡") | [突进攻击](Rush_Attack.md "突进攻击") (力量) [华舞](Flourish.md "华舞") (敏捷) | [力量](Strength.md "力量") [敏捷](Dexterity.md "敏捷") | 攻击者获得[优势](Advantage.md "优势") | 盟友[协助](Help.md "协助")或受到伤害 |
-| [倒地](Prone_(Condition).md "倒地") | [摔绊](Topple.md "摔绊") (力量) [摔翻打击](Backbreaker.md "摔翻打击") (敏捷) | [力量](Strength.md "力量") [敏捷](Dexterity.md "敏捷") | 附近攻击者获得[优势](Advantage.md "优势") | 使用一半[移动速度](Movement_speed.md "移动速度") |
+| [倒伏](Prone_(Condition).md "倒伏") | [摔绊](Topple.md "摔绊") (力量) [摔翻打击](Backbreaker.md "摔翻打击") (敏捷) | [力量](Strength.md "力量") [敏捷](Dexterity.md "敏捷") | 附近攻击者获得[优势](Advantage.md "优势") | 使用一半[移动速度](Movement_speed.md "移动速度") |
 | [弱腕](Weak_Grip_(Condition).md "弱腕") | [弱化打击](Weakening_Strike.md "弱化打击") (力量) | [力量](Strength.md "力量") [敏捷](Dexterity.md "敏捷") | 攻击时具有[劣势](Disadvantage.md "劣势") | 盟友[协助](Help.md "协助") |
 
 ## 备注

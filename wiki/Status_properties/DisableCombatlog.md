@@ -67,7 +67,7 @@
 | [炼狱领域](../Hellish_Sphere_(Condition).md "炼狱领域 (Condition)") | - 生物站在炽焰法球 3 米（10 英尺）内，将在其回合结束时承受 6d6⁠⁠[火焰](../Fire.md "火焰") 伤害。即使第二次通过豁免，仍承受一半伤害。- [敏捷](../Dexterity.md "敏捷") 豁免，基于使用者的 [感知](../Wisdom.md "感知") 法术豁免 DC。 |
 | [英雄气概](../Heroism_(Condition).md "英雄气概 (Condition)") | - 无法被 [恐慌](../Frightened_(status_group).md)。- 每回合获得 5 点 [临时生命值](../Temporary_Hit_Points.md "临时生命值")。 |
 | [宿醉](../Hungover_(Condition).md "宿醉 (Condition)") | - 你在 [敏捷](../Dexterity.md "敏捷") 和 [魅力](../Charisma.md "魅力") [检定](../Ability_Check.md "检定") 上具有 [劣势](../Disadvantage.md "劣势")。- 你告诉自己“我再也不喝酒了”。你在撒谎。 |
-| [田园灵光](../Idyllic_Aura_(Condition).md "田园灵光 (Condition)") | - 授予范围内生物 [西凡那斯的祝福](../Silvanus'_Blessing.md "西凡那斯的祝福")。 |
+| [田园灵光](../Idyllic_Aura_(Condition).md "田园灵光 (Condition)") | - 授予范围内生物 [西凡那斯的祝福](../Frightened_(status_group).md "西凡那斯的祝福")。 |
 | [铁木和谐](../Ironwood_Harmony_(Condition).md "铁木和谐 (Condition)") | - 当灌注了 [橡棍术](../Shillelagh_(Condition).md "橡棍术 (Condition)") 的德鲁伊魔法时，造成额外 1d4⁠⁠[钝击](../Bludgeoning.md "钝击") 伤害。 |
 | [看看那颧骨！](../Just_Look_At_Those_Cheekbones!_(Condition).md "看看那颧骨！ (Condition)") | - 凝视此自画像将 [祝福](../Sweet_Stone_Features_(Condition).md) 此雕像的所有者，每 [长休](../Long_Rest.md "长休") 一次。 |
 | [致命隐匿](../Lethal_Concealment_(Condition).md "致命隐匿 (Condition)") | - 当 [隐藏](../Hiding_(Condition).md "隐藏 (Condition)") 时，造成额外 1d6⁠⁠[黯蚀](../Necrotic.md "黯蚀") 伤害。 |

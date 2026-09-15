@@ -6,7 +6,7 @@
 
 ## 描述
 
-你获得对[法术豁免DC](Spell_save_DC.md "法术豁免DC")的+1加值。
+你获得对[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")的+1加值。
 
 ## 如何学习
 
@@ -29,7 +29,7 @@
 
 ## 简要预览
 
-对[法术豁免DC](Spell_save_DC.md "法术豁免DC")的+1加值。
+对[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")的+1加值。
 
 ---
 *Source: [High Spellcasting (+1)](https://bg3.wiki/wiki/High_Spellcasting_(+1)*

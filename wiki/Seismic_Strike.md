@@ -15,7 +15,7 @@
 4d6⁠[钝击](Bludgeoning.md "Bludgeoning")
 
 详情
-[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")) (若豁免成功：目标仍承受一半伤害。)
+[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")) (若豁免成功：目标仍承受一半伤害。)
 范围：自身
 范围效果：4米（13英尺）半径
 击退：3米（10英尺）
@@ -28,7 +28,7 @@
 
 持续时间：3回合
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 受影响实体仍在不稳的双腿上摇晃。其[移动速度](Movement_speed.md "Movement Speed")减少2.5米/8.3英尺，且其[敏捷](Dexterity.md "Dexterity")减少1。
 

@@ -13,7 +13,7 @@
     *   "她毫不知情。"
     *   同意与明萨拉一起攻击德鲁伊林地："我会搞定的。"
 4.  进行[长休](Long_Rest.md "Long Rest")，然后在德鲁伊林地与[赛夫洛](Zevlor.md "Zevlor")交谈。
-    *   在这里背叛赛夫洛，或者向他解释情况并与明萨拉战斗。如果在这里与明萨拉战斗，只要她被[倒地](Knocked_Out.md "Knocked Out")而不是被杀死，招募她仍然*是可能的*。
+    *   在这里背叛赛夫洛，或者向他解释情况并与明萨拉战斗。如果在这里与明萨拉战斗，只要她被[倒地](Downed_(Condition).md "Knocked Out")而不是被杀死，招募她仍然*是可能的*。
     *   不必返回营地，成就的这部分在从明萨拉手中保护她后即完成。
 5.  继续进入第二幕并前往[月出之塔](Moonrise_Towers.md "Moonrise Towers")。
     *   在与[贾希拉](Jaheira.md "Jaheira")一起攻击月出之塔或进入[堕影冥界](Shadowfell.md "Shadowfell")*之前*进入月出之塔。

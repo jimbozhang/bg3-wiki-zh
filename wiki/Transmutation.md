@@ -98,7 +98,7 @@
 | [冰川年代](Glacial_Age.md "冰川年代") | 3 |  |  | 长休 | - | - | - |
 | [攀云步](Ride_the_Winds.md "攀云步") | 3 |  |  | 长休 | 自身 | - | - |
 | [血肉成金](Flesh_to_Gold.md "血肉成金") | 6 |  |  | 永久 | 18米 / 60英尺 | [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") | - |
-| [塑形翼猫](Formsculpt_colon__Tressym.md "塑形：翼猫") | 9 |  |  | 5回合 | 18米 / 60英尺 | - | - |
+| [形塑：翼猫](Formsculpt_colon__Tressym.md "塑形：翼猫") | 9 |  |  | 5回合 | 18米 / 60英尺 | - | - |
 | [真言：毁灭](Power_Word_colon__Ruin.md "真言：毁灭") | 9 |  |  | - | 9米 / 30英尺 | - | 30d6 + 120⁠[力场](Force.md "力场") |
 
 ## 仅限NPC使用的变化学派法术列表

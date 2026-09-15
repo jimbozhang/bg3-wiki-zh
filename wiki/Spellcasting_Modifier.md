@@ -145,7 +145,7 @@
 
 *不*需要攻击掷骰并以区域或空间中特定点为目标——或直接影响目标的——有害法术允许目标生物尝试进行[豁免检定](Saving_throw.md "豁免检定")（豁免），以可能减少或忽略法术的效果。
 
-这些豁免的[难度等级](Difficulty_Class.md "难度等级")（DC）——称为*[法术豁免DC](Spell_save_DC.md "法术豁免DC")*——通常基于施法者的施法DC：
+这些豁免的[难度等级](Difficulty_Class.md "难度等级")（DC）——称为*[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")*——通常基于施法者的施法DC：
 
 8 + 熟练项加值 + 施法关键属性调整值
 
@@ -155,7 +155,7 @@
 - [火球术](Fireball.md "火球术")
 - [人类定身术](Hold_Person.md "人类定身术")
 
-施法者穿戴的[某些装备](List_of_sources_that_affect_Spell_Save_DC.md "影响法术豁免DC的来源列表")也会影响其法术豁免DC。
+施法者穿戴的[某些装备](List_of_sources_that_affect_Spell_Save_DC.md "影响法术豁免难度等级的来源列表")也会影响其法术豁免难度等级。
 
 ### 法术攻击掷骰
 

@@ -1,6 +1,6 @@
 # 遗落日志（莎尔铁手神殿）
 
-注意不要与[遗落日志（下城区）](Abandoned_Journal_(Lower_City)混淆.md)
+注意不要与[遗落日志（下城区）](Abandoned_Journal_(Lower_City).md)混淆
 
 一本记录了[尤格](Yurgir.md "Yurgir")初次抵达并屠杀[莎尔](Shar.md "莎尔")的目击者日志。
 

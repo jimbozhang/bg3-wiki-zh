@@ -2,7 +2,7 @@
 
 **征服灵光**
 
-- 3米（10英尺）范围内的[恐慌](Frightened_(Condition).md "恐慌 (状态)")敌人每[驱散](Turn.md "驱散")受到5⁠⁠[心灵](Psychic.md "心灵")伤害。
+- 3米（10英尺）范围内的[恐慌](Frightened_(Condition).md "恐慌 (状态)")敌人每[驱散](Turned_(Condition).md "驱散")受到5⁠⁠[心灵](Psychic.md "心灵")伤害。
 
 ## 状态：被征服
 
@@ -10,7 +10,7 @@
 
 ⁠半径：3米（10英尺）
 
-- 如果处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态，受影响实体在其[驱散](Turn.md "驱散")开始时，若在施法者3米（10英尺）范围内，将受到5⁠⁠[心灵](Psychic.md "心灵")伤害。
+- 如果处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态，受影响实体在其[驱散](Turned_(Condition).md "驱散")开始时，若在施法者3米（10英尺）范围内，将受到5⁠⁠[心灵](Psychic.md "心灵")伤害。
 
 ## 备注
 

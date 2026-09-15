@@ -35,7 +35,7 @@
 ## 备注
 
 - 与[火蛇利牙](Fangs_of_the_Fire_Snake.md "火蛇利牙")（使用徒手攻击掷骰）一样，这是四象宗中唯一两个不依赖感知，而是根据力量或敏捷进行调整的能力。
-- 由于此技能使用武器动作DC，[战神的铁手套](Gauntlets_of_the_Warmaster.md "战神的铁手套")的[高强战技](Heightened_Manoeuvre.md "高强战技")将生效。相反，法术豁免DC的加成（如[不羁库席戈之帽](Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽")的[暴露弱点](Lay_Bare_Their_Weakness.md "暴露弱点")）_不会_生效。
+- 由于此技能使用武器动作DC，[战神的铁手套](Gauntlets_of_the_Warmaster.md "战神的铁手套")的[高强战技](Heightened_Manoeuvre.md "高强战技")将生效。相反，法术豁免难度等级的加成（如[不羁库席戈之帽](Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽")的[暴露弱点](Lay_Bare_Their_Weakness.md "暴露弱点")）_不会_生效。
 
 ## 错误
 

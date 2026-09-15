@@ -4,7 +4,7 @@
 
 ## 描述
 
-向[历史的](History.md "History")检定添加两次你的[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")。
+向[历史](History.md "History")检定添加两次你的[熟练项加值](Proficiency_Bonus.md "Proficiency Bonus")。
 
 ## 如何习得
 

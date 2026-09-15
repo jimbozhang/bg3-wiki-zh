@@ -1,6 +1,6 @@
 # 泥瓦匠日志 (谋杀裁判所)
 
-请勿与[泥瓦匠日志 (雷斯文征税所)](Mason's_Journal_(Reithwin_Tollhouse)混淆.md)
+请勿与[泥瓦匠日志 (雷斯文征税所)](Mason's_Journal_(Reithwin_Tollhouse).md)混淆
 
 **泥瓦匠日志** 可能是谋杀裁判所结构设计师的个人笔记。
 

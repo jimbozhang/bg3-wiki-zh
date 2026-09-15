@@ -35,13 +35,13 @@
 
 [巴尔的收割者](Reaper_of_Bhaal.md "巴尔的收割者")
 
-- 均衡
+- 平衡
 
-- 探险家
+- 探索者
 
 - 战术家
 
-## 均衡难度属性
+## 平衡难度属性
 
 ### 等级
 
@@ -117,7 +117,7 @@
 
 目标生命值在一半或以下时，受到额外 +1d4 穿刺伤害。
 
-## 探险家难度属性
+## 探索者难度属性
 
 ### 等级
 
@@ -287,7 +287,7 @@ UUID
 
 Stats
 
-`Dwarf_Cultist_Bhaal_Reaper` **巴尔的收割者 Gruntman** 是[巴尔教团](Cult_of_Bhaal.md "巴尔教团")的一名成员，出现在[博德之门](Baldur_Gate.md "博德之门")[地下城废墟](Undercity_Ruins.md "地下城废墟")的[地下城](Undercity.md "地下城")中。
+`Dwarf_Cultist_Bhaal_Reaper` **巴尔的收割者 Gruntman** 是[巴尔教团](Cult_of_Bhaal.md "巴尔教团")的一名成员，出现在[博德之门](Baldur's_Gate.md "博德之门")[地下城废墟](Undercity_Ruins.md "地下城废墟")的[地下城](Undercity.md "地下城")中。
 
 ## 相关内容
 

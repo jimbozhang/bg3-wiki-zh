@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏](Category_colon_Inaccessible.md "Category:Inaccessible")**获取，但仍可通过第三方工具访问。
 
-**长袍 +1** 是一件**[稀有](Category_colon_Uncommon.md "Category:Uncommon")**的**[附魔](Enchantment.md "Enchantment")**[服装](Clothing.md "服装")。
+**长袍 +1** 是一件**[稀有](Clothing.md "Category:Uncommon")**的**[附魔](Enchantment.md "Enchantment")**[服装](Clothing.md "服装")。
 
 这件长袍工艺精湛，舒适而优雅。
 
@@ -13,7 +13,7 @@
 [护甲等级](Armour_Class.md "Armour Class") + [敏捷调整值](Dexterity.md#Dexterity_Modifier_Chart "Dexterity")
 
 - [服装](Clothing.md "Clothing")
-- 稀有度：**[稀有](Category_colon_Uncommon.md "Category:Uncommon")**
+- 稀有度：**[稀有](Clothing.md "Category:Uncommon")**
 - 附魔：**+ 1**
 - 重量：1.8 kg (3.6 lb)
 - 价格：11 gp

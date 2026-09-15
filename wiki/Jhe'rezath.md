@@ -1,4 +1,4 @@
-# Jhe'rezath
+# 吉'瑞萨斯
 
 | | |
 | --- | --- |
@@ -118,4 +118,4 @@
 - 吉'瑞萨斯的模型。
 
 ---
-*Source: [Jhe'rezath](https://bg3.wiki/wiki/Jhe'rezath)*
+*Source: [吉'瑞萨斯](https://bg3.wiki/wiki/Jhe'rezath)*

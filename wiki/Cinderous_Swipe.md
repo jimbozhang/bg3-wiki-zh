@@ -17,7 +17,7 @@
 \+ 2d6[火焰](Fire.md "火焰")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功时：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功时：目标仍承受一半伤害。）
 范围效果：5米（17英尺）锥形区域
 
 ## 技术细节
@@ -42,7 +42,7 @@ UID
 
 ## 备注
 
-- 当与[召唤元素生物：火元素执政官](Conjure_Elemental_colon__Fire_Myrmidon.md "召唤元素生物：火元素执政官")一起使用时，此能力的DC为11：8（基础DC）- 1（智力）+ 4（熟练项）。当由德鲁伊使用[荒野形态：火元素执政官](Wild_Shape_colon__Fire_Myrmidon.md "荒野形态：火元素执政官")时，DC将是德鲁伊的[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")，这通常会高得多。
+- 当与[召唤元素生物：火元素执政官](Conjure_Elemental_colon__Fire_Myrmidon.md "召唤元素生物：火元素执政官")一起使用时，此能力的DC为11：8（基础DC）- 1（智力）+ 4（熟练项）。当由德鲁伊使用[荒野形态：火元素执政官](Wild_Shape_colon__Fire_Myrmidon.md "荒野形态：火元素执政官")时，DC将是德鲁伊的[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")，这通常会高得多。
 - 此动作不计入[荒野打击](Wild_Strike.md "荒野打击")或[精通荒野打击](Improved_Wild_Strike.md "精通荒野打击")的攻击次数。
 
 ## 错误

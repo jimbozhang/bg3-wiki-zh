@@ -1,6 +1,6 @@
 # 守护火花壁垒
 
-守护火花壁垒是一件稀有[服装](Clothing.md "服装")，当穿戴者拥有[闪电充能](Lightning_Charges.md "闪电充能")时，会提高其防御力，并为[法术豁免DC](Spell_save_DC.md "法术豁免DC")提供+1加值。
+守护火花壁垒是一件稀有[服装](Clothing.md "服装")，当穿戴者拥有[闪电充能](Lightning_Charges.md "闪电充能")时，会提高其防御力，并为[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")提供+1加值。
 
 火花匠[斯巴尔](Yrre.md "斯巴尔")在[幽暗地域](Underdark.md "幽暗地域")长大，因此他们并不惊讶于力量滋生嫉妒，而嫉妒又滋生暴力。他们早有准备。
 
@@ -22,7 +22,7 @@
 穿戴此物品者获得：
 
 [高阶施法](High_Spellcasting_(+1).md)
-你获得+1的[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值。
+你获得+1的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")加值。
 
 [火花壁垒护甲](Sparkswall_Armour.md "火花壁垒护甲")
 只要穿戴者拥有[闪电充能](Lightning_Charges_(Condition).md "闪电充能（状态）")，其[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")均+1。

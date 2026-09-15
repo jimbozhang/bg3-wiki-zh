@@ -1,6 +1,6 @@
 # 脑力汲取手套
 
-脑力汲取手套是一副[不常见](Uncommon.md "不常见")的[手套](Handwear.md "手部装备")，当穿戴者对敌人造成[心灵](Psychic.md "心灵")伤害时，会对其施加[精神疲劳](Mental_Fatigue_(Condition).md)。
+脑力汲取手套是一副不常见的[手套](Handwear.md "手部装备")，当穿戴者对敌人造成[心灵](Psychic.md "心灵")伤害时，会对其施加[精神疲劳](Mental_Fatigue_(Condition).md)。
 
 在构成大脑的海绵状灰质和那些微微颤动的部分深处，那条滑腻的[蝌蚪](Tadpole.md "蝌蚪")爬过你眼球的记忆依然挥之不去...
 

@@ -4,7 +4,7 @@
 
 - 阿斯代伦多年前将一名受害者带给卡扎多尔时，被其诅咒，在所有[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")。
 
-[被诅咒](Cursed_(状态组).md)
+[被诅咒](Cursed_(status_group).md)
 
 ## 属性
 

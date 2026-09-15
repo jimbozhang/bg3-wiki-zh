@@ -1,6 +1,6 @@
 # 西凡那斯护符
 
-西凡那斯护符是一件[护符](Amulets.md "护符")类的[物品](Items.md "物品")。它允许佩戴者每[短休](Short_rest.md "短休")一次施展[恢复](Lesser_Restoration.md "恢复")。
+西凡那斯护符是一件[护符](Amulets.md "护符")类的[物品](Items.md "物品")。它允许佩戴者每[短休](Short_rest.md "短休")一次施展[次级复原术](Lesser_Restoration.md "恢复")。
 
 这件护符上刻有一个小瀑布，佩戴时会给人一种平静安宁的感觉。
 
@@ -17,7 +17,7 @@
 
 佩戴此物品获得：
 
-[恢复](Lesser_Restoration.md "恢复")
+[次级复原术](Lesser_Restoration.md "恢复")
 作为 2 级法术施放（充能：[短休](Short_rest.md "短休")。）
 
 ## 获取地点

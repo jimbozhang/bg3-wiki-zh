@@ -1,6 +1,6 @@
 # 发光手套
 
-发光手套是一双[不常见](Uncommon.md "不常见")的[手套](Handwear.md "手部装备")，它能让穿戴者的[光耀](Radiant.md "光耀")伤害对击中的敌人施加[光耀法球](Radiating_Orb_(Condition).md) condition.
+发光手套是一双不常见的[手套](Handwear.md "手部装备")，它能让穿戴者的[光耀](Radiant.md "光耀")伤害对击中的敌人施加[光耀法球](Radiating_Orb_(Condition).md) condition.
 
 每根指尖的衬垫从织物中散发出俗艳的光芒。
 
@@ -17,7 +17,7 @@
 - [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定") +1
 
 [光耀法球手套](Radiating_Orb_Gloves.md "光耀法球手套")
-当穿戴者造成⁠[光耀](Radiant.md "光耀")伤害时，目标获得 2 [驱散](Turn.md "驱散")的[光耀法球](Radiating_Orb_(Condition).md "光耀法球 (状态)")。
+当穿戴者造成⁠[光耀](Radiant.md "光耀")伤害时，目标获得 2 [驱散](Turned_(Condition).md "驱散")的[光耀法球](Radiating_Orb_(Condition).md "光耀法球 (状态)")。
 
 ## 获取地点
 

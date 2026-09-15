@@ -6,7 +6,7 @@
 
 ## 备注
 
-- 只有在尚未击败[艾德](Ethel.md "艾德")时，才能通过[河边茶室](Riverside_Teahouse.md "河边茶室")墓碑处的[奥术屏障](Arcane_Barrier.md "奥术屏障")获得此状态。
+- 只有在尚未击败[艾德](Ethel.md "艾德")时，才能通过[河边茶室](Riverside_Teahouse.md "河边茶室")墓碑处的奥术屏障获得此状态。
 
 ## 愚蠢的小狗的来源
 

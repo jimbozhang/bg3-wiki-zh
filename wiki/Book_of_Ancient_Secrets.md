@@ -1,10 +1,10 @@
 # 远古奥秘之书
 
-**远古奥秘之书**是来自[邪术师](Warlock.md "邪术师")职业的[异界恩赐](Eldritch_Invocation.md "异界恩赐")。你可以在你的[阴影之书](Book_of_Shadows.md "阴影之书")中铭刻魔法仪式。
+**远古奥秘之书**是来自[邪术师](Warlock.md "邪术师")职业的[异界恩赐](Eldritch_Invocation.md "异界恩赐")。你可以在你的阴影之书中铭刻魔法仪式。
 
 ## 描述
 
-你可以在你的[阴影之书](Book_of_Shadows.md "阴影之书")中铭刻魔法仪式。获得[疾病射线](Ray_of_Sickness.md "疾病射线")、[繁彩球](Chromatic_Orb.md "繁彩球")和[沉默术](Silence.md "沉默术")法术。
+你可以在你的阴影之书中铭刻魔法仪式。获得[疾病射线](Ray_of_Sickness.md "疾病射线")、[繁彩球](Chromatic_Orb.md "繁彩球")和[沉默术](Silence.md "沉默术")法术。
 
 你可以在每个[长休](Long_Rest.md "长休")期间施放它们一次，并且它们不消耗[法术位](Spell_Slots.md "法术位")。
 

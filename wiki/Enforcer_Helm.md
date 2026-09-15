@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏方式获取](Category_colon_Inaccessible.md "Category:Inaccessible")**。但仍可通过第三方工具访问。
 
-[执法者头盔](Enforcer_Helm.md "执法者头盔")是一件[头盔](Helmet.md "头盔")类[不常见](Uncommon.md "不常见")物品，可在击昏生物时治疗佩戴者。
+[执法者头盔](Enforcer_Helm.md "执法者头盔")是一件[头盔](Helmet.md "头盔")类不常见物品，可在击昏生物时治疗佩戴者。
 
 执法者职位的粗暴暴行总结在此头盔的设计中。
 

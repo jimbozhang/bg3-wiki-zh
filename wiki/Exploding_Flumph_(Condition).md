@@ -17,7 +17,7 @@
 
 ## 备注
 
-- 爆炸的法术豁免DC基于召唤者的[体质](Constitution.md "Constitution")调整值计算。
+- 爆炸的法术豁免难度等级基于召唤者的[体质](Constitution.md "Constitution")调整值计算。
 
 ## 爆炸呋噜的来源
 

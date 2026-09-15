@@ -20,7 +20,7 @@
 
 ## 备注
 
-- 拉韦尔尼卡之家位于坐标 X: -76 Y: -70，在[下城区](Lower_City.md "下城区")的[下城主墙](Lower_City_Central_Wall.md "下城主墙")传送点以西、[繁花山脊公园](Bloomridge_Park.md "繁花山脊公园")东南
+- 拉韦尔尼卡之家位于坐标 X: -76 Y: -70，在[下城区](Lower_City.md "下城区")的[下城主墙](Lower_City.md "下城主墙")传送点以西、[繁花山脊公园](Bloomridge_Park.md "繁花山脊公园")东南
 - 其他身体部位，请参见[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")
 
 ---

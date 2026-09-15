@@ -91,7 +91,7 @@
 范围：自身
 
 [撤离：附赠动作](Disengage_colon__Bonus_Action.md "撤离：附赠动作")
-安全撤退。移动不会引发[借机攻击](Attack_of_Oportunity.md "借机攻击")。
+安全撤退。移动不会引发[借机攻击](Opportunity_Attack.md "借机攻击")。
 
 范围：自身
 

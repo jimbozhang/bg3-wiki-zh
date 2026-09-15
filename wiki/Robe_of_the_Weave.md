@@ -1,6 +1,6 @@
 # 魔网长袍
 
-魔网长袍是一件非常稀有的[服装](Clothing.md "服装")。当穿戴者成功通过针对法术的豁免检定时，它会治疗穿戴者，并使其[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击掷骰](Attacks.md#Attack_rolls "攻击")各提高1点。
+魔网长袍是一件非常稀有的[服装](Clothing.md "服装")。当穿戴者成功通过针对法术的豁免检定时，它会治疗穿戴者，并使其[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击掷骰](Attacks.md#Attack_rolls "攻击")各提高1点。
 
 真诚的小伊迪丝·克勒克尔在请求成为大法师[奥提路克](https://forgottenrealms.fandom.com/wiki/Otiluke)的学徒时还是个小女孩。奥提路克嘲笑她，但当[密斯特拉](Mystra.md "密斯特拉")亲自将这件斗篷赐予伊迪丝时，他很快就感到羞愧。
 
@@ -21,7 +21,7 @@
 - [护甲等级](Armour_Class.md "护甲等级") +2
 
 [奥术增强](Arcane_Enchantment_(+1).md)
-你获得+1加值到[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
+你获得+1加值到[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
 
 [魔网食客](Weave_Eater.md "魔网食客")
 每当穿戴者成功通过针对法术的[豁免检定](Saving_throw.md "豁免检定")时，他们恢复1d6⁠⁠[治疗](Healing.md "治疗")。

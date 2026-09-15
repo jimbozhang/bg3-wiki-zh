@@ -160,7 +160,7 @@
 - 无法执行任何 [动作](../Actions.md "动作") 或 [反应](../Reactions.md "反应")。
 - 自动失败任何 [豁免检定](../Saving_throws.md "豁免检定")。
 - 所有对目标的攻击具有 [优势](../Advantage.md "优势")，且在 3 米（10 英尺）内具有 [重击](../Critical_Hit.md "重击")。
-- 对 [倒地](../Prone_(status_group).md) 免疫。
+- 对 [倒伏](../Prone_(status_group).md) 免疫。
 
 [Encumbered](../Encumbered_(Condition).md "Encumbered (Condition)")
 |

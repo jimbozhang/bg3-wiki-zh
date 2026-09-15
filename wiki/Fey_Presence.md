@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 范围：自身
 范围效果：3米（10英尺）半径
 目标：范围内的所有敌人

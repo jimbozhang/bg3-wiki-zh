@@ -22,7 +22,7 @@
 | [导引披风](Derivation_Cloak.md "导引披风") | 0.5 kg / 1 lb | 190 | [死亡之源](Deadly_Derivation.md "死亡之源")当你[中毒](Poisoned_(Condition).md "中毒 (状态)")一个敌人时，为自己恢复1d4⁠⁠[治疗](Healing.md "治疗")。 |
 | [死亡追踪者斗篷](The_Deathstalker_Mantle.md "死亡追踪者斗篷") | 0.5 kg / 1 lb | 190 | [阴影本身](The_Shadow_Itself.md "阴影本身")每当你杀死一个敌人时，每回合一次，用原始黑暗笼罩自己，变为[隐形](Invisible_(Condition).md "隐形 (状态)")，持续2回合。 |
 | [海浪之母的披风](Wavemother's_Cloak.md "海浪之母的披风") | 0.5 kg / 1 lb | 190 | [潮湿之盾](Damp_Aegis.md "潮湿之盾")在战斗中，每回合一次，披风为穿戴者提供[水层防护](Water_Layer_Protection_(Condition).md "水层防护 (状态)")[[见：错误](Damp_Aegis#Bugs.md#Bugs "潮湿之盾")]，直到穿戴者受到伤害。 |
-| [魔网斗篷](Cloak_of_the_Weave.md "魔网斗篷") | 0.5 kg / 1 lb | 300 | [吸收元素](Absorb_Elements.md "吸收元素") 每[短休](Short_rest.md "短休")一次吸收元素伤害。对下一个针对你的元素攻击承受一半伤害，并在你的下一次攻击中额外造成1d6点该元素类型的伤害。 ( 重充：[短休](Short_rest.md "短休")。) [奥术增强](Arcane_Enchantment_(+1).md "奥术增强 (+1)")你获得+1加值到[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。 |
+| [魔网斗篷](Cloak_of_the_Weave.md "魔网斗篷") | 0.5 kg / 1 lb | 300 | [吸收元素](Absorb_Elements.md "吸收元素") 每[短休](Short_rest.md "短休")一次吸收元素伤害。对下一个针对你的元素攻击承受一半伤害，并在你的下一次攻击中额外造成1d6点该元素类型的伤害。 ( 重充：[短休](Short_rest.md "短休")。) [奥术增强](Arcane_Enchantment_(+1).md "奥术增强 (+1)")你获得+1加值到[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。 |
 | [圣武士斗篷](Mantle_of_the_Holy_Warrior.md "圣武士斗篷") | 0.5 kg / 1 lb | 630 | [十字军披风](Crusader's_Mantle.md "十字军披风") 作为3环法术施放 ( 重充：[短休](Short_rest.md "短休")。) |
 | [水妖精披风](Nymph_Cloak.md "水妖精披风") | 0.5 kg / 1 lb | 360 | [支配人类](Dominate_Person.md "支配人类") 作为5环法术施放 ( 重充：[长休](Long_Rest.md "长休")。) |
 | [黯影杀手披风](Shade-Slayer_Cloak.md "黯影杀手披风") | 0.5 kg / 1 lb | 360 | [隐匿重击](Stealthy_Critical.md "隐匿重击")当[隐藏](Hiding_(Condition).md "隐藏 (状态)")时，攻击时需要[掷出](Attack_roll.md "攻击掷骰")[重击](Critical_Hit.md "重击")的数值减少1。此效果可叠加。 |

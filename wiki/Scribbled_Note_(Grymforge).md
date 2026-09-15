@@ -1,6 +1,6 @@
 # 潦草的字条 (复仇之炉)
 
-另请参阅：[潦草的字条 (消歧义)](潦草的字条_(消歧义).md)
+另请参阅：[潦草的字条 (消歧义)](Scribbled_Note_(disambiguation).md)
 
 **潦草的字条**是一张关于寻找[秘银矿石](Mithral_Ore.md "秘银矿石")的陈旧字条。
 
@@ -10,7 +10,7 @@
 
 - [笔记](Notes.md "笔记")
 
-- 作者：[莎尔教会](莎尔教会.md "莎尔教会")
+- 作者：[莎尔教会](Church_of_Shar.md "莎尔教会")
 
 - 稀有度：普通
 
@@ -24,7 +24,7 @@
 
 ## 文本
 
-必须寻找新的来源。附近的[秘银矿石](https://forgottenrealms.fandom.com/wiki/mithral)矿脉几近枯竭，而[西洛夫兄弟](西洛夫·亚里.md "西洛夫·亚里")最近项目所需的数量相当可观。
+必须寻找新的来源。附近的[秘银矿石](https://forgottenrealms.fandom.com/wiki/mithral)矿脉几近枯竭，而[西洛夫兄弟](Silouv_Yali.md "西洛夫·亚里")最近项目所需的数量相当可观。
 
 一些[侍僧](Acolyte.md "侍僧")开始称它为['复仇侍卫'](Vengeful_Guardian.md "复仇侍卫")，因为它是[那个地方](Grimforge.md "复仇之炉")制造的。不过从未在西洛夫兄弟的听力范围内。
 

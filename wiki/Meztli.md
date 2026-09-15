@@ -40,7 +40,7 @@
 
 - [**形态伏击**](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
 
-对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambush.md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
+对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambushed_(Condition).md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
 
 - [**迅捷炼金术士**](Nimble_Alchemist.md "迅捷炼金术士")
 
@@ -136,7 +136,7 @@
 
 - [**形态伏击**](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
 
-对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambush.md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
+对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Reliable_Talent.md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
 
 - [**迅捷炼金术士**](Nimble_Alchemist.md "迅捷炼金术士")
 
@@ -190,7 +190,7 @@
 
 - [形态伏击](Morphic_Ambush_(passive_feature).md "形态伏击 (被动特性)")
 
-对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambush.md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
+对任何被[变形怪](Doppelganger.md "变形怪")[伏击](Ambushed_(Condition).md "伏击")的生物的任何成功[攻击掷骰](Attack_roll.md "攻击掷骰")都是[重击](Critical_Hit.md "重击")。
 
 - [迅捷炼金术士](Nimble_Alchemist.md "迅捷炼金术士")
 

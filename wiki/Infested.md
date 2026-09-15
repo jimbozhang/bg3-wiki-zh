@@ -2,7 +2,7 @@
 
 关于该状态，请参见：[感染（状态）](Infested_(Condition).md)
 
-**感染**是[伊特怪](Ettercap.md "伊特怪")可用的被动特性，允许它们[感染](Infested_(Condition)附近的生物.md)。
+**感染**是[伊特怪](Ettercap.md "伊特怪")可用的被动特性，允许它们[感染](Infested_(Condition).md)附近的生物。
 
 ## 描述
 

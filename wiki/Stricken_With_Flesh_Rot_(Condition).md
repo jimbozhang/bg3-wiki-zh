@@ -4,7 +4,7 @@
 
 - 受影响的实体在自身恶臭的肉液中腐烂，其[魅力](Charisma.md "魅力") [属性检定](Ability_Check.md "属性检定")具有[劣势](Disadvantage.md "劣势")，且对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
 
-[患病](Diseased_(状态组).md)
+[患病](Diseased_(status_group).md)
 
 ## 属性
 

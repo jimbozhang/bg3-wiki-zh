@@ -216,7 +216,7 @@
 
 - 数据挖掘表明，在开发过程中曾有一个阶段，乌尔德·雷文伽德可以在[第二幕](Act_Two.md "第二幕")中被营救。参见 Dialogs/Act2/Haven/HAV_Ravengard 和 Dialogs/Act2/MoonriseTowers/HAV_Minthara
 - 在任何时候攻击乌尔德·雷文伽德都会导致威尔与队伍敌对。
-- 雷文伽德可以被杀死，他的[雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑")、[元帅纹章板甲](Emblazoned_Plate_of_the_Marshal.md "元帅纹章板甲")和[《安苏传奇》](The_Legend_of_Ansur.md "《安苏传奇》")可以在公爵从钢铁王座释放后从其尸体上掠夺，而不会在某些情况下使威尔或营地敌对。通过[维多利亚](Victoria.md "维多利亚")的[枯竭诅咒 (状态)](Sapping_Curse_(Condition)暴露杀死他不被视为玩家角色的攻击.md)。
+- 雷文伽德可以被杀死，他的[雷文伽德公爵的长剑](Duke_Ravengard's_Longsword.md "雷文伽德公爵的长剑")、[元帅纹章板甲](Emblazoned_Plate_of_the_Marshal.md "元帅纹章板甲")和[《安苏传奇》](The_Legend_of_Ansur.md "《安苏传奇》")可以在公爵从钢铁王座释放后从其尸体上掠夺，而不会在某些情况下使威尔或营地敌对。通过[维多利亚](Victoria.md "维多利亚")的[枯竭诅咒 (状态)](Sapping_Curse_(Condition).md)暴露杀死他不被视为玩家角色的攻击。
 
 ## 相关链接
 

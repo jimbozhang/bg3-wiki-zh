@@ -14,11 +14,11 @@
 
 ## 备注
 
-- 阻挡[劣势地形](Difficult_Terrain_(status_group)状态组中的所有.md)。
+- 阻挡[劣势地形](Difficult_Terrain_(status_group).md)状态组中的所有。
 
 ## 简要预览
 
-[劣势地形](Difficult_Terrain_(Condition)不会使你减速.md)，且当你未穿戴[护甲](Armour.md "护甲")或使用[盾牌](Shields.md "盾牌")时，可额外[跳跃](Jump.md "跳跃")6米（20英尺）。
+[劣势地形](Difficult_Terrain_(Condition).md)不会使你减速，且当你未穿戴[护甲](Armour.md "护甲")或使用[盾牌](Shields.md "盾牌")时，可额外[跳跃](Jump.md "跳跃")6米（20英尺）。
 
 ---
 *Source: [Advanced Unarmoured Movement](https://bg3.wiki/wiki/Advanced_Unarmoured_Movement)*

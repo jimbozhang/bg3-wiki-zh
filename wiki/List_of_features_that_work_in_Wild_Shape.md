@@ -136,7 +136,7 @@
 ### 装备
 
 - [月照护甲](Armour_of_Moonbasking.md "月照护甲")
-  - [跨步之靴](Boots_of_Striding.md "跨步之靴") - +1 运动加成生效，且 [倒地](Prone_(Condition).md "倒地（状态）") 免疫在荒野形态中持续存在；不知何故，即使专注被打破，[倒地](Prone_(Condition).md "倒地（状态）") 免疫也会持续，直到荒野形态结束才消失
+  - [跨步之靴](Boots_of_Striding.md "跨步之靴") - +1 运动加成生效，且 [倒伏](Prone_(Condition).md "倒伏（状态）") 免疫在荒野形态中持续存在；不知何故，即使专注被打破，[倒伏](Prone_(Condition).md "倒伏（状态）") 免疫也会持续，直到荒野形态结束才消失
   - [乌鸦徽记](Corvid_Token.md "乌鸦徽记")
   - [机器人手套](Gloves_of_the_Automaton.md "机器人手套") - 必须在变形前使用
 - [界限突破手套](Martial_Exertion_Gloves.md "界限突破手套") - 必须在变形前使用
@@ -260,7 +260,7 @@
 - [法师](Wizard.md "法师")
   - [防护学派](Abjuration_School.md "防护学派")
     - [投射守御](Projected_Ward.md "投射守御") - 仅在变形前使用了 [伪装术](Disguise_Self.md "伪装术") 时生效
-  - [法师护甲](Mage_Armor.md "法师护甲") - 仅在未穿着护甲且变形前施放时生效
+  - [魔法护甲](Mage_Armor.md "魔法护甲") - 仅在未穿着护甲且变形前施放时生效
 
 ### 装备
 

@@ -18,7 +18,7 @@
 
 - UID `QUEST_WYR_InsightPuzzle_Hint3` UUID `17085d73-6f20-4dad-b40e-26fa2b68f8ed` ## 获取地点
 
-- 在 [远古龙之路](The_Wyrmway.md "The Wyrmway") 的试炼中，位于 [洞察之间](Chamber_of_Insight.md "Chamber of Insight")
+- 在 [远古龙之路](The_Wyrmway.md "The Wyrmway") 的试炼中，位于 [洞察之间](The_Wyrmway.md "Chamber of Insight")
 
 ## 文本
 

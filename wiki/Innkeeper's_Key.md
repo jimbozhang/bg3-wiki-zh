@@ -16,7 +16,7 @@
 
 - UID `S_HAV_InnKeeperKey` UUID `a97f0631-98e7-453e-b892-999bf4088ed6` ## 获取地点
 
-- 在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")屋顶的[鸟巢](Bird's_Nest.md "鸟巢")中
+- 在[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")屋顶的[鸟巢](Last_Light_Inn.md "鸟巢")中
 
 ## 用途
 

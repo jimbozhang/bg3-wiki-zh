@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "Actions") + [1环法术位](Spells.md#Spell_slots "Spells")
 详情
-[魅力](Charisma.md "Charisma") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[魅力](Charisma.md "Charisma") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 射程：9米（30英尺）
 [专注](Concentration.md "Concentration")
 

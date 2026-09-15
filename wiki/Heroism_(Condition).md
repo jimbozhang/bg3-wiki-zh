@@ -2,7 +2,7 @@
 
 **英雄气概**
 
-- 无法被[恐慌](Frightened_(状态组).md "恐慌 (状态组)")。
+- 无法被[恐慌](Frightened_(Condition).md "恐慌 (状态组)")。
 - 每回合获得5点[临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 ## 属性
@@ -42,7 +42,7 @@
 | [虚假生命](False_Life_(Condition).md "虚假生命 (状态)") | 获得7点[临时生命值](Temporary_Hit_Points.md "临时生命值")，加上每个高于第一级的法术位等级额外5点。 |
 | [巨人耐力](Gigantic_Endurance_(Condition).md "巨人耐力 (状态)") | 获得27点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
 | [英勇](Heroic_(Condition).md "英勇 (状态)") | 受影响实体获得10点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
-| 英雄气概 | 无法被[恐慌](Frightened_(状态组).md "恐慌 (状态组)")。每回合获得5点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
+| 英雄气概 | 无法被[恐慌](Frightened_(Condition).md "恐慌 (状态组)")。每回合获得5点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
 | [鼓舞决心](Inspiring_Resolve_(Condition).md "鼓舞决心 (状态)") | 受影响实体已被勇敢的话语所强化，获得[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
 | [月之活力](Lunar_Vitality_(Condition).md "月之活力 (状态)") | 拥有22点[临时生命值](Temporary_Hit_Points.md "临时生命值")。当拥有临时生命值时，所有受到的伤害减少1点。 |
 | [激励斗篷](Mantle_of_Inspiration_(Condition).md "激励斗篷 (状态)") | 被吟游诗人的活力所灌注，获得5点[临时生命值](Temporary_Hit_Points.md "临时生命值")。若被近战攻击命中，攻击者变为[魅惑](Charmed_(Condition).md "魅惑 (状态)")。 |
@@ -50,7 +50,7 @@
 | [鼓舞](Rallied_(Condition).md "鼓舞 (状态)") | 被友方战斗员的鼓舞呐喊授予8点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
 | [鼓舞](Rallied_(Endgame)_(Condition).md "鼓舞 (终局) (状态)") | 雷文伽德公爵的激励话语和意志在你的血管中奔涌 - 授予你30点临时生命值。 |
 | [焕然一新](Refreshed_(Condition).md "焕然一新 (状态)") | [生命值](Hit_point.md "生命值")上限提高10点，直到下一次[长休](Long_Rest.md "长休")。长休后或[埃赛尔婶婶](Auntie_Ethel.md "埃赛尔婶婶")变为敌对后，变为[作呕](Nauseated_(Condition).md "作呕 (状态)")。 |
-| [风暴之心决心](Stormheart_Resolve_(Condition).md "风暴之心决心 (状态)") | 此生物开始[蓄积能量](Hoarding_Energy_(Condition).md "蓄积能量 (状态)")，获得100点[临时生命值](Temporary_Hit_Points.md "临时生命值")持续1回合，并在自我复活后失去所有[失能状态](Incapacitated_(状态组).md "失能 (状态组)")。 |
+| [风暴之心决心](Stormheart_Resolve_(Condition).md "风暴之心决心 (状态)") | 此生物开始[蓄积能量](Hoarding_Energy_(Condition).md "蓄积能量 (状态)")，获得100点[临时生命值](Temporary_Hit_Points.md "临时生命值")持续1回合，并在自我复活后失去所有[失能状态](Incapacitated_(status_group).md "失能 (状态组)")。 |
 | [临时生命值](Temporary_Hit_Points_(Elixir_of_Bloodlust)_(Condition).md "临时生命值 (嗜血灵药) (状态)") | 嗜血灵药授予你5点[临时生命值](Temporary_Hit_Points.md "临时生命值")。饮用时替换其他灵药的效果。 |
 | [临时生命值](Temporary_Hit_Points_(Ever_Vigilant)_(Condition).md "临时生命值 (保持戒备) (状态)") | 被短暂的魔法提升从死亡边缘拉回。获得15点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |
 | [临时生命值](Temporary_Hit_Points_(3)_(Condition).md "临时生命值 (3) (状态)") | 被短暂的魔法提升从死亡边缘拉回。获得3点[临时生命值](Temporary_Hit_Points.md "临时生命值")。 |

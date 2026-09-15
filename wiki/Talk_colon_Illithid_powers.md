@@ -36,7 +36,7 @@
 
 最新评论：[2024年8月25日](#c-NtCarlson-20240825163300-86.127.222.231-20240825162700)2条评论2人参与讨论
 
-整个施法部分似乎完全不准确，或者至少与本wiki的“法术”页面冲突。该页面指出，灵吸怪威能使用给定职业或兼职的法术豁免DC，类似于物品或武器的计算方式。这似乎更有可能，因为你的形象在主线故事中被鼓励使用蝌蚪，而形象可能来自任何职业。随机使用每个威能不同的隐藏施法调整值没有太大意义。[86.127.222.231](Special_colon_Contributions/86.127.222.231.md "Special:Contributions/86.127.222.231") [2024年8月25日 18:27 (CEST)](https://bg3.wiki/wiki/Talk:Illithid_powers#c-86.127.222.231-20240825162700-Spellcasting_ability_modifier)回复
+整个施法部分似乎完全不准确，或者至少与本wiki的“法术”页面冲突。该页面指出，灵吸怪威能使用给定职业或兼职的法术豁免难度等级，类似于物品或武器的计算方式。这似乎更有可能，因为你的形象在主线故事中被鼓励使用蝌蚪，而形象可能来自任何职业。随机使用每个威能不同的隐藏施法调整值没有太大意义。[86.127.222.231](Special_colon_Contributions/86.127.222.231.md "Special:Contributions/86.127.222.231") [2024年8月25日 18:27 (CEST)](https://bg3.wiki/wiki/Talk:Illithid_powers#c-86.127.222.231-20240825162700-Spellcasting_ability_modifier)回复
 
 你完全正确。整个部分似乎是基于一种误解，即智力（或力量）豁免检定意味着该能力使用*你的*智力（或力量）调整值来计算DC。
 我将根据“法术”页面中的信息（这是正确的）进行更正。[NtCarlson](User_colon_NtCarlson.md "User:NtCarlson")（[讨论](User_talk_colon_NtCarlson.md "User talk:NtCarlson")）[2024年8月25日 18:33 (CEST)](https://bg3.wiki/wiki/Talk:Illithid_powers#c-NtCarlson-20240825163300-86.127.222.231-20240825162700)回复

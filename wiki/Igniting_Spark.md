@@ -15,7 +15,7 @@
 6d6⁠[火焰](Fire.md "Fire")（通过[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")可减半）
 
 详情
-[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 射程：18米（60英尺）
 创建区域：地狱火
 

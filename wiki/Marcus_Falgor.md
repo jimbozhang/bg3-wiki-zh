@@ -165,7 +165,7 @@
 
 或者，添加桶和其他物体来阻挡入口会迷惑敌人，并限制必须同时战斗的敌人数量。当一些敌人攻击路障以获取通道时，使用爆炸桶配合火把或其他效果可以诱使敌人伤害自己。队伍还可以在开始与伊索贝尔对话前使用 [秘法锁](Arcane_Lock.md "Arcane Lock") 锁住所有门。
 
-明智的做法是准备治疗法术（例如 [治愈真言](Healing_Word.md "Healing Word")）和治疗药水（例如 [高等治疗药水](Potion_of_Greater_Healing.md "Potion of Greater Healing")）以在伊索贝尔受伤时帮助她。[恢复](Lesser_Restoration.md "Lesser Restoration") 在任何人被飞天恐魔 [麻痹](Paralysed_(Condition).md "Paralysed (Condition)") 时也很有用。
+明智的做法是准备治疗法术（例如 [治愈真言](Healing_Word.md "Healing Word")）和治疗药水（例如 [高等治疗药水](Potion_of_Greater_Healing.md "Potion of Greater Healing")）以在伊索贝尔受伤时帮助她。[次级复原术](Lesser_Restoration.md "Lesser Restoration") 在任何人被飞天恐魔 [麻痹](Paralysed_(Condition).md "Paralysed (Condition)") 时也很有用。
 
 ## 死者交谈
 

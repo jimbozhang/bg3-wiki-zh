@@ -15,7 +15,7 @@
 8d10⁠[光耀](Radiant.md "光耀")
 
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")) (豁免成功时：目标仍承受一半伤害。)
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")) (豁免成功时：目标仍承受一半伤害。)
 范围：自身
 半径范围：15米 (50英尺)
 充能：每场战斗

@@ -2,7 +2,7 @@
 
 另见：[双持客：附赠护甲等级](Dual_Wielder_colon__Bonus_Armour_Class.md "双持客：附赠护甲等级")
 
-**双持客**是由[双持客](Dual_Wielder_(Feat).md) [专长](Feat.md "专长")授予的被动特性。它允许角色双持非双手武器，即使它们不是[轻型](Light_(weapon_property)武器.md)。
+**双持客**是由[双持客](Dual_Wielder_(Feat).md) [专长](Feat.md "专长")授予的被动特性。它允许角色双持非双手武器，即使它们不是[轻型](Light_(weapon_property).md)武器。
 
 ## 描述
 
@@ -24,7 +24,7 @@
 
 ## 简要预览
 
-即使使用非[轻型](Light_(weapon_property)的单手武器.md)，也可以使用双武器战斗。
+即使使用非[轻型](Light_(weapon_property).md)的单手武器，也可以使用双武器战斗。
 
 ---
 *Source: [Dual Wielder](https://bg3.wiki/wiki/Dual_Wielder)*

@@ -1,6 +1,6 @@
 # 地狱刺剑
 
-地狱刺剑是一把非常稀有的+2 [刺剑](Rapiers.md "Rapiers")，是完成[威尔](Wyll.md "Wyll")的伙伴任务后可能获得的奖励。它会提升持有者的法术豁免DC，并且与其他刺剑不同，它使用持有者的[施法调整值](Spellcasting_Modifier.md "Spellcasting Modifier")进行[攻击掷骰](Attack_roll.md "Attack Roll")和[伤害掷骰](Damage_Roll.md "Damage Roll")，而非力量或敏捷。
+地狱刺剑是一把非常稀有的+2 [刺剑](Rapiers.md "Rapiers")，是完成[威尔](Wyll.md "Wyll")的伙伴任务后可能获得的奖励。它会提升持有者的法术豁免难度等级，并且与其他刺剑不同，它使用持有者的[施法调整值](Spellcasting_Modifier.md "Spellcasting Modifier")进行[攻击掷骰](Attack_roll.md "Attack Roll")和[伤害掷骰](Damage_Roll.md "Damage Roll")，而非力量或敏捷。
 
 想象灵魂是一把剑。一把精心呵护的好剑。一把适合在雨中生锈的坏剑。这把被火焰啃噬、狭窄的剑，是威尔灵魂在钢铁中的缩影。
 
@@ -28,7 +28,7 @@ UID `ORI_Wyll_Infernal_Rapier` UUID `e925fb75-96a5-4634-9e0b-a239e48da115` Stats
 以6环法术施放（充能：[长休](Long_Rest.md "长休")。）
 
 [高阶施法](High_Spellcasting_(+1).md)
-你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")获得+1加值。
+你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。
 
 [近战施法者](Melee_Caster.md "近战施法者")
 受影响的实体使用其[施法关键属性调整值](Ability_Scores.md#Spellcasting_ability "属性值")代替其敏捷[调整值](Ability_Scores.md#Ability_score_modifiers "属性值")，添加到[攻击掷骰](Attack_roll.md "攻击掷骰")中。

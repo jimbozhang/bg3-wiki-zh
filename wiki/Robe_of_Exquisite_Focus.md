@@ -1,6 +1,6 @@
 # 精准专注长袍
 
-精准专注长袍是一件稀有的[服装](Clothing.md "服装")，能提升穿戴者的[法术豁免DC](Spells.md#Spell_saves "法术豁免DC")。
+精准专注长袍是一件稀有的[服装](Clothing.md "服装")，能提升穿戴者的[法术豁免难度等级](Spells.md#Spell_saves "法术豁免难度等级")。
 
 这件长袍曾属于伟大的法师[坦瑟](https://forgottenrealms.fandom.com/wiki/Tenser)的一位讲师。在大学期间，坦瑟曾在这件长袍上练习法术，有时会带来奇妙的奥秘发现。
 
@@ -19,7 +19,7 @@
 穿戴此物品获得：
 
 [高阶施法](High_Spellcasting_(+1).md)
-你获得 +1 的[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值。
+你获得 +1 的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")加值。
 
 ## 获取地点
 

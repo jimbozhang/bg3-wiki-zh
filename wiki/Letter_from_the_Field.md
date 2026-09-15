@@ -18,7 +18,7 @@
 
 - UID `BOOK_LOW_GeneralGoodsStore_SavedBySteelWatchers` UUID `dd51b779-d467-41dd-8b9f-9f2c31138665` ## 获取地点
 
-- 在[特福科之家](Tefoco_Home.md "特福科之家")的邮箱中 X: -72 Y: -100
+- 在[特福科之家](Tefoco's_Home.md "特福科之家")的邮箱中 X: -72 Y: -100
 
 ## 文本
 

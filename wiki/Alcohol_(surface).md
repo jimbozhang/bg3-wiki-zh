@@ -60,7 +60,7 @@
 ## 互动
 
 - 若暴露于[寒冷伤害](Cold_Damage.md "Cold Damage")来源，将转变为[冰](Ice_(surface).md "Ice (surface)")地表。受影响区域在持续时间：2 驱散后融化为[水](Water_(surface).md "Water (surface)")地表。
-- 若暴露于[火焰伤害](Fire_Damage.md "Fire Damage")来源，将转变为[火](Fire_(surface).md "Fire (surface)")地表。受影响区域在持续时间：2 驱散后消散为[灰烬](Ash.md "Ash")地表。
+- 若暴露于火焰伤害来源，将转变为[火](Fire_(surface).md "Fire (surface)")地表。受影响区域在持续时间：2 驱散后消散为[灰烬](Ash.md "Ash")地表。
 
 ---
 *Source: [Alcohol (surface)](https://bg3.wiki/wiki/Alcohol_(surface)*

@@ -55,7 +55,7 @@
 
 ## 态度
 
-- 一旦玩家角色跟随女祭司迦特进入她的私人房间，他们仍可拒绝她的提议并获得[影心](Shadowheart.md "Shadowheart")的[好感度](Approval.md "Approval")。如果之后再次改变主意，仍可接受提议以获得[卡菈克](Karlach.md "Karlach")的[好感度](Approval.md "Approval")和[阿斯代伦](Astarion.md "Astarion")的[反感度](Disapproval.md "Disapproval")。
+- 一旦玩家角色跟随女祭司迦特进入她的私人房间，他们仍可拒绝她的提议并获得[影心](Shadowheart.md "Shadowheart")的[好感度](Approval.md "Approval")。如果之后再次改变主意，仍可接受提议以获得[卡菈克](Karlach.md "Karlach")的[好感度](Approval.md "Approval")和[阿斯代伦](Astarion.md "Astarion")的反感度。
 
 1. [↑](#cite_ref-1) 迦特也倾向于对其行为保密；如果队伍让门开着，她会在与队伍领袖的进一步对话中亲自关上并锁上。
 

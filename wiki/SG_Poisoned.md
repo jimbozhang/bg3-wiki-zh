@@ -24,7 +24,7 @@
 以下法术/动作可移除此状态组中的所有状态：
 
 - [圣疗](Lay_on_Hands.md "圣疗")
-- [次级恢复](Lesser_Restoration.md "次级恢复")
+- [次级复原术](Lesser_Restoration.md "次级复原术")
 
 ## 免疫
 

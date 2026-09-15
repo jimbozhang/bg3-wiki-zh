@@ -4,7 +4,7 @@
 
 ## 描述
 
-对针对你的 [攻击掷骰](Attack_roll.md "攻击掷骰") 施加 [劣势](Disadvantage.md "劣势")。如果攻击未命中，你将在接下来的 1 [驱散](Turn.md "驱散") 内对攻击者获得 [优势](Advantage.md "优势")。
+对针对你的 [攻击掷骰](Attack_roll.md "攻击掷骰") 施加 [劣势](Disadvantage.md "劣势")。如果攻击未命中，你将在接下来的 1 [驱散](Turned_(Condition).md "驱散") 内对攻击者获得 [优势](Advantage.md "优势")。
 
 ## 属性
 

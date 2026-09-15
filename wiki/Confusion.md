@@ -26,7 +26,7 @@
 
 持续时间：3回合
 
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 受影响实体对所有人[敌对](Hostile.md "Hostile")，漫无目的地游荡，并在恍惚中偶尔跳过回合
 

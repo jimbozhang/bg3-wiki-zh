@@ -21,7 +21,7 @@
 3d8[光耀](Radiant.md "Radiant")
 
 详情
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功：目标仍受到一半伤害。）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功：目标仍受到一半伤害。）
 范围：自身
 区域：3米（10英尺）半径
 [专注](Concentration.md "Concentration")
@@ -36,7 +36,7 @@
 
 持续时间：10回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 精魂保护受影响实体，对3米（10英尺）内的敌人造成伤害，并使其[移动速度](Movement_speed.md "Movement speed")减半。
 - 造成伤害为3d8[光耀](Radiant.md "Radiant")或3d8[黯蚀](Necrotic.md "Necrotic")，加上每[升环施法](Upcast.md "Upcast")等级1d8。

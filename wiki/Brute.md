@@ -1,10 +1,10 @@
 # 蛮暴
 
-**蛮暴**是[熊地精](Bugbear.md "熊地精")的[被动](Passive.md "被动")特性，使他们在使用[近战](melee.md "近战")[武器](Weapons.md "武器")时造成额外[伤害](Damage.md "伤害")。
+**蛮暴**是[熊地精](Bugbear.md "熊地精")的[被动](Passive.md "被动")特性，使他们在使用[近战](Bugbear.md "近战")[武器](Weapons.md "武器")时造成额外[伤害](Damage.md "伤害")。
 
 ## 描述
 
-使用[近战](melee.md "近战")[武器](Weapons.md "武器")攻击时，造成额外的1d8[物理](Physical.md "物理")伤害。
+使用[近战](Physical.md "近战")[武器](Weapons.md "武器")攻击时，造成额外的1d8[物理](Physical.md "物理")伤害。
 
 ## 如何习得
 

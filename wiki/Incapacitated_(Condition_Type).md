@@ -51,7 +51,7 @@
 [冰冻](Frozen_(Condition).md "冰冻 (状态)")
 |
 
-- 受影响实体完全被冰包裹且[失能](Incapacitated.md "失能")。如果受到钝击、雷鸣或力场伤害，冰会碎裂，状态结束。
+- 受影响实体完全被冰包裹且失能。如果受到钝击、雷鸣或力场伤害，冰会碎裂，状态结束。
 - 获得对[钝击](Bludgeoning.md "钝击")、[雷鸣](Thunder.md "雷鸣")和[力场](Force.md "力场")伤害的[易伤](Vulnerability.md "Vulnerability")。
 - 获得对[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "Resistance")。
 - 对[燃烧](Burning_(Condition).md "燃烧 (状态)")和[冷冻](Encrusted_with_Frost_(Condition).md "冷冻 (状态)")免疫。

@@ -55,7 +55,7 @@
   - 打开大多数容器而不添加或移除任何东西。
   - 施放某些法术，如[初级幻影](Minor_Illusion.md "Minor Illusion")。
 - 变得[濡湿](Wet_(Condition).md "Wet (Condition)")会破坏隐形。
-- [灰矮人](Duergar.md "Duergar")在角色等级5时获得此法术的[戏法](Invisibility_(Duergar)版本.md)。
+- [灰矮人](Duergar.md "Duergar")在角色等级5时获得此法术的[戏法](Invisibility_(Duergar).md)版本。
 - 隐形有两种咒语：**Evanesco**（拉丁语，意为“我消失/消逝”）和**Invisiblis**（拉丁语，意为“隐形”）。
 
 ## 视觉效果

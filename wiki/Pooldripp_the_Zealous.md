@@ -66,7 +66,7 @@
 
 如果队伍未能揭露波尔的真实身份，寇涛鱼人会协助波尔对抗队伍。
 
-说服普德利普组建军队，会使队伍在[第三幕](Act_Three.md "第三幕")的最终战斗中获得[寇涛鱼人侍从](Kuo-Toa_Acolytes.md "寇涛鱼人侍从")，作为[召集盟友](Gather_Your_Allies_(quest)的一部分.md)。
+说服普德利普组建军队，会使队伍在[第三幕](Act_Three.md "第三幕")的最终战斗中获得[寇涛鱼人侍从](Kuo-Toa_Acolytes.md "寇涛鱼人侍从")，作为[召集盟友](Gather_Your_Allies_(quest).md)的一部分。
 
 ## 战斗
 

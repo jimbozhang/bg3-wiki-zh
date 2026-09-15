@@ -26,7 +26,7 @@
 
 ## 获取地点
 
-- [风暴海岸军械库](Stormshore_Armoury.md "风暴海岸军械库") X: -41 Y: -71：由[沮丧的芬东森](Gloomy_Fentonson.md "沮丧的芬东森")出售，靠近[下城区](Lower_City.md#Waypoints "下城区")的[下城主墙](Lower_City_Central_Wall.md "下城主墙")[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")
+- [风暴海岸军械库](Stormshore_Armoury.md "风暴海岸军械库") X: -41 Y: -71：由[沮丧的芬东森](Gloomy_Fentonson.md "沮丧的芬东森")出售，靠近[下城区](Lower_City.md#Waypoints "下城区")的下城主墙[上古符文法阵](Ancient_Sigil_Circle.md "上古符文法阵")
 
 ## 错误
 

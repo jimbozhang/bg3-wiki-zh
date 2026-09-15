@@ -4,7 +4,7 @@
 
 ## 描述
 
-在你施放一个1环或更高环级的[法术](Spell.md "法术")后，你可以在你的[驱散](Turn.md "驱散")结束前，以一个[附赠动作](Bonus_action.md "附赠动作")进行[飞行](Tempestuous_Magic_colon__Flight.md "魔法飓风：飞行")，最多移动9米（30英尺），且不会受到[借机攻击](Opportunity_Attacks.md "借机攻击")。
+在你施放一个1环或更高环级的[法术](Spell.md "法术")后，你可以在你的[驱散](Turned_(Condition).md "驱散")结束前，以一个[附赠动作](Bonus_action.md "附赠动作")进行[飞行](Tempestuous_Magic_colon__Flight.md "魔法飓风：飞行")，最多移动9米（30英尺），且不会受到[借机攻击](Opportunity_Attacks.md "借机攻击")。
 
 ## 状态：魔法飓风：飞行
 

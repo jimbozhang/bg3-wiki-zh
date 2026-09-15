@@ -99,7 +99,7 @@
 [简易武器](Simple_weapons.md "简易武器"), [手弩](Hand_Crossbows.md "手弩"), [刺剑](Rapiers.md "刺剑"), [长剑](Longswords.md "长剑"), [短剑](Shortswords.md "短剑")
 [轻甲](Armour.md#List_of_light_armour "护甲")
 熟练技能（选择3项）
-[历史的](History.md "历史的"), [洞悉](Insight.md "洞悉"), [医药](Medicine.md "医药"), [游说](Persuasion.md "游说"), [宗教](Religion.md "宗教"), [欺瞒](Deception.md "欺瞒"), [威吓](Intimidation.md "威吓"), [表演](Performance.md "表演"), [体操](Acrobatics.md "体操"), [巧手](Sleight_of_Hand.md "巧手"), [隐匿](Stealth.md "隐匿"), [驯兽](Animal_Handling.md "驯兽"), [奥秘](Arcana.md "奥秘"), [调查](Investigation.md "调查"), [运动](Athletics.md "运动"), [自然](Nature.md "自然"), [察觉技能](Perception.md "察觉技能"), [求生](Survival.md "求生")
+[历史](History.md "历史"), [洞悉](Insight.md "洞悉"), [医药](Medicine.md "医药"), [游说](Persuasion.md "游说"), [宗教](Religion.md "宗教"), [欺瞒](Deception.md "欺瞒"), [威吓](Intimidation.md "威吓"), [表演](Performance.md "表演"), [体操](Acrobatics.md "体操"), [巧手](Sleight_of_Hand.md "巧手"), [隐匿](Stealth.md "隐匿"), [驯兽](Animal_Handling.md "驯兽"), [奥秘](Arcana.md "奥秘"), [调查](Investigation.md "调查"), [运动](Athletics.md "运动"), [自然](Nature.md "自然"), [察觉技能](Perception.md "察觉技能"), [求生](Survival.md "求生")
 你获得对每个你[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
 初始装备
 [手弩](Hand_Crossbow.md "手弩"), [简易坎肩](Simple_Jerkin.md "简易坎肩"), [皮靴](Leather_Boots.md "皮靴"), 一个在角色创建时选择的[乐器](Instrument.md "乐器")
@@ -193,7 +193,7 @@
 - [失明术](Blindness.md "失明术")
 - [安定心神](Calm_Emotions.md "安定心神") *[匕首之云](Cloud_of_Daggers.md "匕首之云")* [疯狂](Crown_of_Madness.md "疯狂") *[侦测思想](Detect_Thoughts.md "侦测思想")* [强化属性](Enhance_Ability.md "强化属性") * [迷惑](Enthrall.md "迷惑")
 - [灼热金属](Heat_Metal.md "灼热金属") *[人类定身术](Hold_Person.md "人类定身术")* [隐形](Invisibility_(spell).md "隐形（法术）") * [敲击术](Knock.md "敲击术")
-- [恢复](Lesser_Restoration.md "恢复")
+- [次级复原术](Lesser_Restoration.md "恢复")
 - [魅影之力](Phantasmal_Force.md "魅影之力") * [识破隐形](See_Invisibility_(spell).md "识破隐形（法术）")
 - [粉碎音波](Shatter.md "粉碎音波")
 - [沉默术](Silence.md "沉默术") #### 选择副职

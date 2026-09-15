@@ -15,7 +15,7 @@
 6d10⁠[心灵](Psychic.md "心灵")
 
 详情
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功：目标仍承受一半伤害。)
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功：目标仍承受一半伤害。)
 射程：18米 (60英尺)
 
 ## 更高法术位
@@ -28,7 +28,7 @@
 
 持续时间：2驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 生物无法说话或施放带有言语成分的法术，且免疫 ⁠[雷鸣](Thunder.md "雷鸣") 伤害。
 

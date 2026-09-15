@@ -29,7 +29,7 @@
 
 ## 备注
 
-- 地窖可通过 X: 30 Y: 29 处的[洞穴入口](Cave_Entrance.md "Cave Entrance")或[利文顿杂货店](Rivington_General.md "Rivington General")中的活板门进入。
+- 地窖可通过 X: 30 Y: 29 处的[洞穴入口](Rivington_General.md "Cave Entrance")或[利文顿杂货店](Rivington_General.md "Rivington General")中的活板门进入。
 - 这是五件具有类似属性的[武僧](Monk.md "Monk")专用手部装备之一。每件装备都能为徒手攻击提供 1d4 点不同类型的额外伤害，并允许每长休一次施放一个不同的升环 1 级法术。其他装备包括[热情灰烬手套](Gloves_of_Cinder_and_Sizzle.md "Gloves of Cinder and Sizzle")、[拳击天使](Seraphic_Pugilist_Gloves.md "Seraphic Pugilist Gloves")、[黑色之手侍从手套](Servitor_of_the_Black_Hand_Gloves.md "Servitor of the Black Hand Gloves")和[雪尘修道院手套](Snow-Dusted_Monastery_Gloves.md "Snow-Dusted Monastery Gloves")。
 
 ## 图库

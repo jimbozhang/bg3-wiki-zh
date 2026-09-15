@@ -100,7 +100,7 @@
 
 - [**妖精血统**](../Fey_Ancestry.md "妖精血统")
 
-对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](../Sleeping_(Condition).md)。
+对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Fey_Ancestry.md "优势")；无法被魔法[沉睡](../Sleeping_(Condition).md)。
 
 - [**借机攻击**](../Opportunity_Attack.md "借机攻击")
 
@@ -108,7 +108,7 @@
 
 - [**日照敏感**](../Sunlight_Sensitivity.md "日照敏感")
 
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
+在阳光下时，攻击掷骰和[察觉技能](../Sunlight_Sensitivity.md "察觉技能")检定具有[劣势](../Sunlight_Sensitivity.md "劣势")。
 
 ## 探索者难度属性
 
@@ -158,7 +158,7 @@
 
 - [**妖精血统**](../Fey_Ancestry.md "妖精血统")
 
-对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](../Sleeping_(Condition).md)。
+对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Fey_Ancestry.md "优势")；无法被魔法[沉睡](../Sleeping_(Condition).md)。
 
 - [**借机攻击**](../Opportunity_Attack.md "借机攻击")
 
@@ -166,7 +166,7 @@
 
 - [**日照敏感**](../Sunlight_Sensitivity.md "日照敏感")
 
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
+在阳光下时，攻击掷骰和[察觉技能](../Sunlight_Sensitivity.md "察觉技能")检定具有[劣势](../Sunlight_Sensitivity.md "劣势")。
 
 ## 硬核难度属性
 
@@ -216,7 +216,7 @@
 
 - [**妖精血统**](../Fey_Ancestry.md "妖精血统")
 
-对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")；无法被魔法[沉睡](../Sleeping_(Condition).md)。
+对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Fey_Ancestry.md "优势")；无法被魔法[沉睡](../Sleeping_(Condition).md)。
 
 - [**借机攻击**](../Opportunity_Attack.md "借机攻击")
 
@@ -224,7 +224,7 @@
 
 - [**日照敏感**](../Sunlight_Sensitivity.md "日照敏感")
 
-在阳光下时，攻击掷骰和[察觉技能](Perception.md "察觉技能")检定具有[劣势](Disadvantage.md "劣势")。
+在阳光下时，攻击掷骰和[察觉技能](../Sunlight_Sensitivity.md "察觉技能")检定具有[劣势](../Sunlight_Sensitivity.md "劣势")。
 
 ## 技术信息
 

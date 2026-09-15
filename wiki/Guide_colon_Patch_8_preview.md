@@ -566,7 +566,7 @@
 创造一团魔法黑暗，[重度遮蔽](Heavily_Obscured_(Condition).md "Heavily Obscured (Condition)")并对范围内的生物施加[目盲](Blinded_(Condition).md "Blinded (Condition)")。生物无法向内或向外进行远程攻击。
 
 [黑暗之眼：黑暗术](Eyes_of_the_Dark_colon__Darkness.md "Eyes of the Dark: Darkness") (+ 2 )
-创造一个黑暗帷幕，[重度遮蔽](Heavily_Obscured_(Condition)并对范围内的生物施.md)加[目盲](Blinded_(Condition).md)。生物无法向内或向外进行远程攻击。
+创造一个黑暗帷幕，[重度遮蔽](Heavily_Obscured_(Condition).md)并对范围内的生物施加[目盲](Blinded_(Condition).md)。生物无法向内或向外进行远程攻击。
 
 ### 等级6
 
@@ -670,7 +670,7 @@
 |
 
 [蜜蜂军团：强力击退](Legion_of_Bees_colon__Mighty_Knockback.md "Legion of Bees: Mighty Knockback")
-将目标击退5米（17英尺），如果目标[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving Throw")失败，则使其[倒地](Prone_(Condition).md "Prone (Condition)")
+将目标击退5米（17英尺），如果目标[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving Throw")失败，则使其[倒伏](Prone_(Condition).md "Prone (Condition)")
 
 [￪ 返回顶部](#top)
 
@@ -748,7 +748,7 @@
 ### 等级6
 
 [鲤鱼打挺](Leap_to_Your_Feet.md "Leap to Your Feet")
-当你[倒地](Prone_(Condition).md "Prone (Condition)")时，起身只消耗1.5米/5英尺的[移动速度](Resources.md#Movement_speed "Resources")。
+当你[倒伏](Prone_(Condition).md "Prone (Condition)")时，起身只消耗1.5米/5英尺的[移动速度](Resources.md#Movement_speed "Resources")。
 
 [攻击偏转](Redirect_Attack.md "Redirect Attack")
 当一个生物用近战攻击未命中你时，你可以花费1[气点](Ki_Point.md "Ki Point")作为[反应](Reaction.md "Reaction")对攻击者进行一次徒手攻击。

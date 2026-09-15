@@ -16,7 +16,7 @@
 
 ## 备注
 
-- 这不需要[反应](Actions.md#Reactions "动作")资源，因此每[驱散](Turn.md "驱散")可以触发多次。
+- 这不需要[反应](Actions.md#Reactions "动作")资源，因此每[驱散](Turned_(Condition).md "驱散")可以触发多次。
 
 ---
 *Source: [Guardian of Faith (passive feature)](https://bg3.wiki/wiki/Guardian_of_Faith_(passive_feature)*

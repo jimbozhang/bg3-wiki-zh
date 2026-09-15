@@ -11,15 +11,15 @@
 消耗
 [反应](Actions.md#Reactions "反应")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 ## 状态：魅惑
 
 **[魅惑](Charmed_(Condition).md "魅惑（状态）")**
 
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 无法攻击施法者。施法者在[对话](Dialogue.md "对话")中进行[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。
 
@@ -44,7 +44,7 @@
   - 攻击者以任何[攻击掷骰](Attack_roll.md "攻击掷骰")瞄准惑控法师。这包括武器、法术和徒手攻击掷骰。
   - 惑控法师在攻击执行前作为反应触发直觉魅惑。
   - 如果豁免检定失败，攻击者的动作将被中断并取消。攻击所消耗的任何资源，包括攻击掷骰法术的法术位，也将丢失。
-- 攻击者被惑控法师[魅惑](Charmed_(Condition).md "魅惑（状态）")，持续 1 [驱散](Turn.md "驱散")。
+- 攻击者被惑控法师[魅惑](Charmed_(Condition).md "魅惑（状态）")，持续 1 [驱散](Charmed_(Condition).md "驱散")。
   - 然后攻击者获得一次[额外攻击](Extra_Attack.md "额外攻击"), 即使攻击者通常无法使用此特性，并且即使触发攻击是法术。
   - 此额外攻击可以自由使用，但由于[魅惑](Charmed_(Condition).md "魅惑（状态）")状态，无法以法师为目标。与描述相反，使用此免费攻击不需要[反应](Actions.md#Reactions "反应")。
   - 如果豁免检定成功，攻击者获得[直觉魅惑：未受影响](Instinctive_Charm_colon__Unaffected_(Condition).md "直觉魅惑：未受影响（状态）")状态，该状态无限期持续，并且攻击正常执行。直觉魅惑无法对具有此状态的攻击者触发。

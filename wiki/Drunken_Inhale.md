@@ -15,7 +15,7 @@
 4d8⁠[中毒](Poison.md "中毒")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（豁免成功：目标仍受到四分之一伤害，但不会被拉近或进入醉酒状态。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（豁免成功：目标仍受到四分之一伤害，但不会被拉近或进入醉酒状态。）
 范围：自身
 区域：5米（17英尺）锥形
 拉拽距离：8米（27英尺）

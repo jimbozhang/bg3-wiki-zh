@@ -85,7 +85,7 @@
 ## 相关文献
 
 - [比奇的生活](Life_of_Beaky.md "比奇的生活")
-- [个人记事本（格穆维克）](Personal_Notepad_(Gemuvick).md "个人记事本（格穆维克）")
+- [个人记事本（格穆维克）](Resistances.md "个人记事本（格穆维克）")
 - [驿舍信鸽海报](Post-House_Pigeon_Poster.md "驿舍信鸽海报")
 - [邮局货物查询](Postmaster_Shipment_Enquiry.md "邮局货物查询")
 

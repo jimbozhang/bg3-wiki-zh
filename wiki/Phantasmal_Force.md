@@ -25,7 +25,7 @@
 
 持续时间：10回合
 
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 被最后攻击它的事物的回响所困扰。
 

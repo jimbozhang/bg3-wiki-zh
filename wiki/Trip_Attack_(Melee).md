@@ -35,7 +35,7 @@
 
 **[倒伏](Prone_(Condition).md "倒伏（状态）")**
 
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
 [力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[武器动作 DC](Dice_rolls.md#Weapon_action_DC "掷骰")）
 

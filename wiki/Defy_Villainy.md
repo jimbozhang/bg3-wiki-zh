@@ -4,13 +4,13 @@
 
 ## 描述
 
-当穿戴者变得 [目盲](Blinded_(Condition).md "Blinded (Condition)")、[麻痹](Paralysed_(Condition).md "Paralysed (Condition)") 或 [中毒](Poisoned_(Condition).md "Poisoned (Condition)") 时，他们会自动对自己施放 [恢复](Lesser_Restoration.md "Lesser Restoration")。
+当穿戴者变得 [目盲](Blinded_(Condition).md "Blinded (Condition)")、[麻痹](Paralysed_(Condition).md "Paralysed (Condition)") 或 [中毒](Poisoned_(Condition).md "Poisoned (Condition)") 时，他们会自动对自己施放 [次级复原术](Lesser_Restoration.md "Lesser Restoration")。
 
 ## 状态：反应恢复
 
 **[反应恢复](Reactive_Restoration_(Condition).md "Reactive Restoration (Condition)")**
 
-- 当 [目盲](Blinded_(Condition).md "Blinded (Condition)")、[麻痹](Paralysed_(Condition).md "Paralysed (Condition)") 或 [中毒](Poisoned_(Condition).md "Poisoned (Condition)") 时，受影响的实体会自动被 [恢复](Lesser_Restoration.md "Lesser Restoration")。
+- 当 [目盲](Blinded_(Condition).md "Blinded (Condition)")、[麻痹](Paralysed_(Condition).md "Paralysed (Condition)") 或 [中毒](Poisoned_(Condition).md "Poisoned (Condition)") 时，受影响的实体会自动被 [次级复原术](Lesser_Restoration.md "Lesser Restoration")。
 
 ## 如何习得
 

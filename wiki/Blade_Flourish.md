@@ -6,7 +6,7 @@
 | 挥砍华舞 | 一次攻击最多2个敌人。 | [挥砍华舞（近战）](Slashing_Flourish_(Melee).md "挥砍华舞（近战）") [挥砍华舞（远程）](Slashing_Flourish_(Ranged).md "挥砍华舞（远程）") |
 | 移动华舞 | 用足够的力场猛推武器，将目标击退6米（20英尺）。之后，你可以[传送](Mobile_Flourish_colon__Teleport.md "移动华舞：传送")至目标位置。 | [移动华舞（近战）](Mobile_Flourish_(Melee).md "移动华舞（近战）") [移动华舞（远程）](Mobile_Flourish_(Ranged).md "移动华舞（远程）") |
 
-**华舞**是[吟游诗人激励](Bardic_Inspiration_(class_action)的强化效果.md)，可供3级的[剑舞学院](College_of_Swords.md "剑舞学院")吟游诗人使用，提供一系列类似[武器动作](Weapon_actions.md "武器动作")的动作，所有这些动作都需要消耗一个[吟游诗人激励](Bardic_Inspiration_(resource)点数才能使用.md)。普通的[吟游诗人激励](Bardic_Inspiration_(class_action)动作仍可.md)供[剑舞学院](College_of_Swords.md "剑舞学院")吟游诗人使用。
+**华舞**是[吟游诗人激励](Bardic_Inspiration_(class_action).md)的强化效果，可供3级的[剑舞学院](College_of_Swords.md "剑舞学院")吟游诗人使用，提供一系列类似[武器动作](Weapon_actions.md "武器动作")的动作，所有这些动作都需要消耗一个[吟游诗人激励](Bardic_Inspiration_(resource).md)点数才能使用。普通的[吟游诗人激励](Bardic_Inspiration_(class_action).md)动作仍可供[剑舞学院](College_of_Swords.md "剑舞学院")吟游诗人使用。
 
 ## 备注
 

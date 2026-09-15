@@ -1,6 +1,6 @@
 # 光耀抗性灵药
 
-光耀抗性灵药是一种常见的[灵药](Elixirs.md "Elixirs")，在[吞噬](consumed.md "consumed")时会获得[光耀](Radiant.md "Radiant")[抗性](Damage_types.md#Resistance "伤害类型")。
+光耀抗性灵药是一种常见的[灵药](Elixirs.md "Elixirs")，在吞噬时会获得[光耀](Radiant.md "Radiant")[抗性](Damage_types.md#Resistance "伤害类型")。
 
 这种冒着泡的酿造物带有一丝硫磺的气息。
 
@@ -15,7 +15,7 @@
 
 [附赠动作](Actions.md#Resources "动作")
 
-- [吞噬](consumed.md "consumed")灵药以获得对[光耀](Radiant.md "Radiant")伤害的[抗性](Resistance.md "抗性")。
+- 吞噬灵药以获得对[光耀](Radiant.md "Radiant")伤害的[抗性](Resistance.md "抗性")。
 - 当[醉酒](Drunk.md "Drunk")时，替换其他灵药的效果。
 
 [动作](Actions.md#Resources "动作")

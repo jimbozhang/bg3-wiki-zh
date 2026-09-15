@@ -1,6 +1,6 @@
 # 吟游诗人防御
 
-**吟游诗人防御**是一种通过拥有[吟游诗人激励](Bardic_Inspiration_(resource)获得的反应.md)。
+**吟游诗人防御**是一种通过拥有[吟游诗人激励](Bardic_Inspiration_(resource).md)获得的反应。
 
 ## 描述
 

@@ -15,7 +15,7 @@
 4d8⁠[心灵](Psychic.md "心灵")
 
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：18米（60英尺）
 范围：9米（30英尺）半径
 牵引：5米（17英尺）（朝向范围中心，力量豁免失败时）

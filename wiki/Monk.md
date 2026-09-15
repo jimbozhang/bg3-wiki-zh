@@ -104,7 +104,7 @@
 装备熟练项
 [简易武器](Simple_weapons.md "简易武器"), [短剑](Shortswords.md "短剑")
 技能熟练项（选择2项）
-[历史的](History.md "历史的"), [洞悉](Insight.md "洞悉"), [宗教](Religion.md "宗教"), [体操](Acrobatics.md "体操"), [隐匿](Stealth.md "隐匿"), [运动](Athletics.md "运动")
+[历史](History.md "历史"), [洞悉](Insight.md "洞悉"), [宗教](Religion.md "宗教"), [体操](Acrobatics.md "体操"), [隐匿](Stealth.md "隐匿"), [运动](Athletics.md "运动")
 你获得对每个你[熟练项](Proficiency.md "熟练项")的[技能](Character_creation.md#Skills "角色创建")的加值。角色1级时，[熟练项加值](Proficiency_Bonus.md "熟练项加值")为+2。
 初始装备
 [长棍](Quarterstaff.md "长棍"), [修道袍](Monastic_Robes.md "修道袍"), [僧侣靴](Monastic_Boots.md "僧侣靴")

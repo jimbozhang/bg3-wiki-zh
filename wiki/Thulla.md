@@ -47,7 +47,7 @@
 
 图拉穿着[速度之靴](Boots_of_Speed.md "速度之靴")，这是她在逃离[复仇之炉](Grymforge.md "复仇之炉")之前从[斯林恩](Thrinn.md "斯林恩")那里偷来的，大概是从宿舍附近的阳台（坐标 X: -610 Y: 465）跳下时偷的。这双靴子是推进⁠[找到丢失的靴子](Find_the_Missing_Boots.md "找到丢失的靴子")任务所必需的。如果小队成功治愈她的毒素并同意帮助她的侏儒同胞，图拉会将靴子交给小队。
 
-有几种方法可以治愈图拉。小队可以使用[抗毒剂](Antidote.md "抗毒剂")、[灰矮人解毒剂](Duergar_Antidote.md "灰矮人解毒剂")、[毒素抗性灵药](Elixir_of_Poison_Resistance.md "毒素抗性灵药")，或施展法术如[圣疗](Lay_on_Hands.md "圣疗")、[恢复](Lesser_Restoration.md "恢复")或[防护毒素](Protection_from_Poison.md "防护毒素")。
+有几种方法可以治愈图拉。小队可以使用[抗毒剂](Antidote.md "抗毒剂")、[灰矮人解毒剂](Duergar_Antidote.md "灰矮人解毒剂")、[毒素抗性灵药](Elixir_of_Poison_Resistance.md "毒素抗性灵药")，或施展法术如[圣疗](Lay_on_Hands.md "圣疗")、[次级复原术](Lesser_Restoration.md "恢复")或[防护毒素](Protection_from_Poison.md "防护毒素")。
 
 如果交互的小队成员通过 DC 15 的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")来结束她的痛苦，也可以对她进行仁慈处决。以这种方式杀死图拉会奖励小队 10 点经验值，但会吸引蕈人的注意，要求解释这一行为。
 

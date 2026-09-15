@@ -35,7 +35,7 @@
 
 **[火墙术](Wall_of_Fire_(Condition).md "火墙术（状态）")**
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 一道炽热的火墙，对3米（10英尺）内的任何人造成5d8⁠⁠[火焰](Fire.md "火焰")伤害。
 

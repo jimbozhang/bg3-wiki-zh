@@ -177,7 +177,7 @@ _营地互动：_
 - 如果阿拉贝拉死了，而卡迦活了下来，科米拉会在提夫林庆祝会上试图毒死德鲁伊。[游说](../Persuasion.md "Persuasion")她放弃 (-1)
 - 阿斯代伦问你在镜中看到什么后（过场动画），说你看到一个浪费你时间的人 (-1)
 - 当阿斯代伦想八卦你与[莱埃泽尔](../Lae'zel.md "Lae'zel")的性事时，回答这不关他的事 (-1)
-- 如果阿斯代伦在[瑰晨修道院](../Rosymorn_Monastery.md "Rosymorn Monastery")被洛山达之矛炸死，复活他，然后与他交谈，说你以为蝌蚪能保护他免受阳光伤害 (-5)
+- 如果阿斯代伦在[瑰晨修道院](../Rosymorn_Monastery.md "Rosymorn Monastery")被洛山达之矛炸死，复活他，然后与他交谈，说你以为蝌蚪能保护他免受光耀伤害 (-5)
 - 扮演[影心](../Shadowheart.md "Shadowheart")起源角色，向阿斯代伦坦白你崇拜莎尔，并且[魅力](../Charisma.md "Charisma")检定失败 (-1)
 
 _[浪漫](Romance.md "Astarion/Romance")：_

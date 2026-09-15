@@ -38,7 +38,7 @@
 
 战斗中所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-**铁血执政官下颚尤恩斯**是[班恩](Bane_(God)的教徒.md)，位于[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")下层，坐标 X: -1948 Y: 441，紧邻[班恩之拳扎娜·海德](Zana_Hade.md "班恩之拳扎娜·海德")。
+**铁血执政官下颚尤恩斯**是[班恩](Bane_(God).md)的教徒，位于[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")下层，坐标 X: -1948 Y: 441，紧邻[班恩之拳扎娜·海德](Zana_Hade.md "班恩之拳扎娜·海德")。
 
 ## 目录
 

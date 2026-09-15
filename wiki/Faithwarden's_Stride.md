@@ -4,7 +4,7 @@
 
 ## 描述
 
-德鲁伊的藤蔓无法 [缠绕](缠绕_(状态).md "缠绕 (状态)") 你，且不被视为劣势地形。
+德鲁伊的藤蔓无法 [缠绕](Entangled_(Condition).md "缠绕 (状态)") 你，且不被视为劣势地形。
 
 ## 如何习得
 
@@ -14,8 +14,8 @@
 
 ## 备注
 
-- 信仰守望者之步仅阻挡 [劣势地形：藤蔓](劣势地形_藤蔓_(状态).md "劣势地形：藤蔓 (状态)") 状态，而非通常的 [劣势地形](劣势地形_(状态).md "劣势地形 (状态)") 状态。
-- 信仰守望者之步的游戏内提示说明藤蔓无法“诱捕”你，但实际上它阻挡的是 [缠绕](缠绕_(状态).md "缠绕 (状态)") 而非 [诱捕](诱捕_(状态).md "诱捕 (状态)")。
+- 信仰守望者之步仅阻挡 [劣势地形：藤蔓](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓 (状态)") 状态，而非通常的 [劣势地形](Difficult_Terrain_(Condition).md "劣势地形 (状态)") 状态。
+- 信仰守望者之步的游戏内提示说明藤蔓无法“诱捕”你，但实际上它阻挡的是 [缠绕](Entangled_(Condition).md "缠绕 (状态)") 而非 [诱捕](Ensnared_(Ensnaring_Strike)_(Condition).md "诱捕 (状态)")。
 
 ---
 *Source: [Faithwarden's Stride](https://bg3.wiki/wiki/Faithwarden's_Stride)*

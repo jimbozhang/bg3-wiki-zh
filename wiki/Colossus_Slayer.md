@@ -4,7 +4,7 @@
 
 ## 描述
 
-每[驱散](Turn.md "驱散")一次，如果目标的生命值低于其最大值，你的武器攻击将造成额外1d8⁠⁠[物理](Physical.md "物理")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
+每[驱散](Turned_(Condition).md "驱散")一次，如果目标的生命值低于其最大值，你的武器攻击将造成额外1d8⁠⁠[物理](Physical.md "物理")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害。
 
 ### 详情
 

@@ -20,7 +20,7 @@
 
 - 在 [奥法高塔](Arcane_Tower.md "奥法高塔") 四楼/屋顶的书架上，坐标 X: -29 Y: -295
 
-- 在 [远古龙之路](The_Wyrmway.md "远古龙之路") 的试炼中，于 [洞察之间](Chamber_of_Insight.md "洞察之间")
+- 在 [远古龙之路](The_Wyrmway.md "远古龙之路") 的试炼中，于 [洞察之间](The_Wyrmway.md "洞察之间")
 
 ## 文本
 

@@ -30,7 +30,7 @@
 
 此生物已死亡。
 
-**瓦尔德马·普林斯基**是一名[人类](Human.md "人类")的[灾祸术](Bane_(God).md) 教团成员，可在[钢铁王座](Iron_Throne.md "钢铁王座")中被发现死亡，位于[第三幕](Act_Three.md "第三幕")。他主要负责创造[激发器](Motivator.md "激发器")以奴役[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中的[贡德侏儒](Gondians.md "贡德侏儒")。
+**瓦尔德马·普林斯基**是一名[人类](Human.md "人类")的[班恩](Bane_(God).md) 教团成员，可在[钢铁王座](Iron_Throne.md "钢铁王座")中被发现死亡，位于[第三幕](Act_Three.md "第三幕")。他主要负责创造[激发器](Motivator.md "激发器")以奴役[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中的[贡德侏儒](Gondians.md "贡德侏儒")。
 
 ## 历史
 

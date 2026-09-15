@@ -41,7 +41,7 @@
 持续时间：直至[长休](Long_Rest.md "长休")
 
 - 感觉有点晕眩。所有[攻击掷骰](Attack_rolls.md "攻击掷骰")、[豁免检定](Saving_throws.md "豁免检定")和大多数[属性检定](Ability_Check.md "属性检定")-1。在[长休](Long_Rest.md "长休")后消失。
-- 可通过[恢复](Lesser_Restoration.md "恢复")和[圣疗：治愈](Lay_on_Hands_colon__Cure.md "圣疗：治愈")治愈。
+- 可通过[次级复原术](Lesser_Restoration.md "恢复")和[圣疗：治愈](Lay_on_Hands_colon__Cure.md "圣疗：治愈")治愈。
 
 ## 如何习得
 

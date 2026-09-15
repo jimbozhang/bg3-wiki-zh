@@ -15,7 +15,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：9米（30英尺）
 充能：[短休](Short_rest.md "短休")
 
@@ -29,7 +29,7 @@
 
 持续时间：5驱散
 
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - [护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")降低1点。
 

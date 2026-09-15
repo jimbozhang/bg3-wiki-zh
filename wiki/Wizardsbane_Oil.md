@@ -22,7 +22,7 @@
 持续时间：10 回合
 
 - 严重削弱任何被此武器击中的施法者的力量。
-- 目标在法术[攻击掷骰](Attack_roll.md "攻击掷骰")和[法术豁免DC](Spell_save_DC.md "法术豁免DC")上获得 -3 惩罚，并在维持[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")，持续 2 回合。
+- 目标在法术[攻击掷骰](Attack_roll.md "攻击掷骰")和[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")上获得 -3 惩罚，并在维持[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")，持续 2 回合。
 
 ## 状态：法师灾祸油
 
@@ -30,7 +30,7 @@
 
 持续时间：2 回合
 
-- 受影响实体在法术[攻击掷骰](Attack_rolls.md "攻击掷骰")和[法术豁免DC](Saving_throw.md "豁免检定")上获得 -3 惩罚
+- 受影响实体在法术[攻击掷骰](Attack_rolls.md "攻击掷骰")和[法术豁免难度等级](Saving_throw.md "豁免检定")上获得 -3 惩罚
 - 在[专注](Concentration.md "专注")豁免检定上获得[劣势](Disadvantage.md "劣势")
 
 ## 获取地点

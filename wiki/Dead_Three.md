@@ -52,7 +52,7 @@
 
 ### 第二幕
 
-在[第二幕](Act_Two.md "第二幕")中，揭示了死亡三神是[至上真神](Absolute.md "至上真神")及其[教团](Cult_of_the_Absolute.md "至上真神教团")的幕后黑手。死亡三神的选民使用[卡尔萨斯王冠](Crown_of_Karsus.md "卡尔萨斯王冠")和控制它的[耐色石](Netherstone_(disambiguation)来控制一个强大.md)的[灵吸怪](Illithid.md "灵吸怪")[主脑](The_Netherbrain.md "主脑")。他们的三位选民是：
+在[第二幕](Act_Two.md "第二幕")中，揭示了死亡三神是[至上真神](Absolute.md "至上真神")及其[教团](Cult_of_the_Absolute.md "至上真神教团")的幕后黑手。死亡三神的选民使用[卡尔萨斯王冠](Crown_of_Karsus.md "卡尔萨斯王冠")和控制它的[耐色石](Netherstone_(disambiguation).md)来控制一个强大的[灵吸怪](Illithid.md "灵吸怪")[耐色脑](The_Netherbrain.md "主脑")。他们的三位选民是：
 
 - [恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什") – 班恩的选民
 - [奥林](Orin.md "奥林") – 巴尔的选民

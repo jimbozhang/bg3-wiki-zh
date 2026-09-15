@@ -64,7 +64,7 @@
 
 ### 第一幕
 
-马克里尔定期在[内殿](Inner_Sanctum.md "Inner Sanctum")的[仆役住处](Servants'_Quarters.md "Servants' Quarters")巡逻。在林地的所有德鲁伊中，马克里尔是最孤立主义的，他认为[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")应该被驱逐，并且[荆棘仪式](Rite_of_Thorns_(ritual)应该被执行.md)。如果[卡哈](Kagha.md "Kagha")试图在[调查卡哈](Investigate_Kagha.md "Investigate Kagha")中做出补救，马克里尔会继续支持封锁林地。尽管如此，如果卡哈停止仪式，他会加入队伍对抗[暗影德鲁伊](Shadow_Druids.md "Shadow Druids")。
+马克里尔定期在[内殿](Inner_Sanctum.md "Inner Sanctum")的[仆役住处](Servants'_Quarters.md "Servants' Quarters")巡逻。在林地的所有德鲁伊中，马克里尔是最孤立主义的，他认为[提夫林难民](Tiefling_Refugees.md "Tiefling refugees")应该被驱逐，并且[荆棘仪式](Rite_of_Thorns_(ritual).md)应该被执行。如果[卡哈](Kagha.md "Kagha")试图在[调查卡哈](Investigate_Kagha.md "Investigate Kagha")中做出补救，马克里尔会继续支持封锁林地。尽管如此，如果卡哈停止仪式，他会加入队伍对抗[暗影德鲁伊](Shadow_Druids.md "Shadow Druids")。
 
 马克里尔和[罗伊克](Loic.md "Loic")经常讨论暴力的伦理。他们的闲聊内容会根据[调查卡哈](Investigate_Kagha.md "Investigate Kagha")、[突袭林地](Raid_the_Grove.md "Raid the Grove")和[救出阿拉贝尔](Save_Arabella.md "Save Arabella")的结果而变化。
 
@@ -104,7 +104,7 @@
 
 射程：18 米 (60 英尺)
 
-[恢复](Lesser_Restoration.md "Lesser Restoration") (+ )
+[次级复原术](Lesser_Restoration.md "Lesser Restoration") (+ )
 治愈一个生物的[患病](Diseased_(status_group).md)、[中毒](Poisoned_(status_group).md)、[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")或[目盲](Blinded_(status_group).md)。
 
 近战：1.5 米 (5 英尺)
@@ -145,7 +145,7 @@
   但她失败了——这才是关键。
 
 - 罗伊克
-  这一切都会结束的，[仪式](Rite_of_Thorns_(ritual)快完成了.md)。
+  这一切都会结束的，[仪式](Rite_of_Thorns_(ritual).md)快完成了。
 
 - 马克里尔
   如果他们再试图偷我们东西怎么办？

@@ -1,6 +1,6 @@
 # 密斯特拉的优雅
 
-**密斯特拉的优雅**是一双[靴子](Footwear.md "Footwear")，属于[物品](Items.md "Items")，稀有度为[不常见](Rarity.md "Rarity")，允许穿戴者随意施放[羽落术](Feather_Fall.md "Feather Fall")。
+**密斯特拉的优雅**是一双[靴子](Footwear.md "Footwear")，属于[物品](Items.md "Items")，稀有度为不常见，允许穿戴者随意施放[羽落术](Feather_Fall.md "Feather Fall")。
 
 穿着这双靴子就像走在棉花云上。
 

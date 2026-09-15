@@ -13,7 +13,7 @@
 
 ## 获取地点
 
-- 在 [废弃战场](Ruined_Battlefield.md "废弃战场") 中 [竖琴手同盟](The_Harpers.md "竖琴手同盟") [伏击](Ambush.md "伏击") 地点的西南方向，位于一组 [骷髅](Skeleton.md "骷髅") 中的 [粗麻袋](Burlap_Sack.md "粗麻袋") 内，坐标 X: -30 Y: -35
+- 在 [废弃战场](Ruined_Battlefield.md "废弃战场") 中 [竖琴手同盟](The_Harpers.md "竖琴手同盟") [伏击](Ruined_Battlefield.md "伏击") 地点的西南方向，位于一组 [骷髅](Skeleton.md "骷髅") 中的 [粗麻袋](Burlap_Sack.md "粗麻袋") 内，坐标 X: -30 Y: -35
 
 ## 用途
 

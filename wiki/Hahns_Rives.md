@@ -65,7 +65,7 @@
 
 使敌人在你的压迫性存在范围内进行[攻击](Attack.md "攻击")和[豁免检定](Saving_throws.md "豁免检定")时处于[劣势](Disadvantage.md "劣势")。
 
-无法被[恐慌](Frightened_(Condition)的生物对此灵光免疫.md)。
+无法被[恐慌](Frightened_(Condition).md)的生物对此灵光免疫。
 
 范围：自身
 冷却：每场战斗

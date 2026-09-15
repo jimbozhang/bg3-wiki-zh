@@ -2,7 +2,7 @@
 
 另请参阅：[推撞攻击（近战）](Pushing_Attack_(Melee).md) and [推撞攻击（远程）](Pushing_Attack_(Ranged).md)
 
-**推撞攻击（远程）** 是一种[武器动作](Weapon_action.md "武器动作")，可供[重甲的](Proficient.md "重甲的")并装备[泰坦弦弓](Titanstring_Bow.md "泰坦弦弓")的角色使用。它是同名[战斗大师策略](Pushing_Attack_(Ranged)的变体.md)。此版本不消耗[卓越骰](Battle_Master.md#Level_3 "战斗大师")。
+**推撞攻击（远程）** 是一种[武器动作](Weapon_action.md "武器动作")，可供[重甲的](Proficient.md "重甲的")并装备[泰坦弦弓](Titanstring_Bow.md "泰坦弦弓")的角色使用。它是同名[战斗大师策略](Pushing_Attack_(Ranged).md)的变体。此版本不消耗[卓越骰](Battle_Master.md#Level_3 "战斗大师")。
 
 ## 描述
 

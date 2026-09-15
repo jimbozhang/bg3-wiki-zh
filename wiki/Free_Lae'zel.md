@@ -86,7 +86,7 @@
 
 莱埃泽尔被释放后，她可以离开或被招募为队伍成员。如果她加入队伍，[吉斯洋基战士](The_Githyanki_Warrior.md "The Githyanki Warrior")会被添加到[任务](Quests.md "Quests")日志中。
 
-如果莱埃泽尔被攻击并[倒地](Knocked_Out.md "Knocked Out")，她之后会在山隘与基斯·拉克·沃斯[会面](Voss.md "Voss")时正常出现。如果她被搜刮，她会穿着[兽皮甲](Hide_Armour.md "Hide Armour")并携带[地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")。
+如果莱埃泽尔被攻击并[倒地](Downed_(Condition).md "Knocked Out")，她之后会在山隘与基斯·拉克·沃斯[会面](Voss.md "Voss")时正常出现。如果她被搜刮，她会穿着[兽皮甲](Hide_Armour.md "Hide Armour")并携带[地精弯刀](Goblin_Scimitar.md "Goblin Scimitar")。
 
 ## 备注
 

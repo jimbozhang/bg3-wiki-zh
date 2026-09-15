@@ -1,6 +1,6 @@
 # 狂野魔法：光箭
 
-**狂野魔法：光箭**是[狂野魔法野蛮人](Wild_Magic_Barbarian.md "狂野魔法野蛮人")的[自由动作](Free_Action.md "自由动作")，当由[狂暴：狂野魔法](Rage_colon__Wild_Magic.md "狂暴：狂野魔法")掷骰随机触发时使用；它允许使用者在狂暴状态下从胸口向目标发射一道[光箭](Wild_Magic_colon__Bolt_of_Light_(Activate).md) from their chest at a target for up to ten turns while raging.
+**狂野魔法：光箭**是[狂野魔法野蛮人](Wild_Magic_Barbarian.md "狂野魔法野蛮人")的自由动作，当由[狂暴：狂野魔法](Rage_colon__Wild_Magic.md "狂暴：狂野魔法")掷骰随机触发时使用；它允许使用者在狂暴状态下从胸口向目标发射一道[光箭](Wild_Magic_colon__Bolt_of_Light_(Activate).md) from their chest at a target for up to ten turns while raging.
 
 ## 描述
 

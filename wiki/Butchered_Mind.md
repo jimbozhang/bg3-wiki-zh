@@ -17,7 +17,7 @@
 
 ## 用途
 
-- 当放置在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")内的[大脑档案室接口](Mind_Archive_Interface.md "大脑档案室接口")上时，[皮肤松弛的脑袋](Slack-Skinned_Head.md "皮肤松弛的脑袋")会说话：
+- 当放置在[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")内的[大脑档案室接口](Mind_Flayer_Colony.md "大脑档案室接口")上时，[皮肤松弛的脑袋](Slack-Skinned_Head.md "皮肤松弛的脑袋")会说话：
 - 嘘——。这个地方在听。_它知道_。
   - 如果我们要逃脱，就必须聪明点。
     - 回复：聪明。对。用我们的大脑。

@@ -104,7 +104,7 @@ _提升：[体操](Acrobatics.md "体操")、[表演](Performance.md "表演")_ 
 >
 > „
 
-- _技能熟练项：[历史的](History.md "历史的")、[游说](Persuasion.md "游说")_
+- _技能熟练项：[历史](History.md "历史")、[游说](Persuasion.md "游说")_
 - _角色：[明萨拉](Minthara.md "明萨拉")、[克兹](Kerz.md "克兹")_
 
 ## 化外之民
@@ -130,7 +130,7 @@ _提升：[体操](Acrobatics.md "体操")、[表演](Performance.md "表演")_ 
 >
 > „
 
-- _技能熟练项：[奥秘](Arcana.md "奥秘")、[历史的](History.md "历史的")_
+- _技能熟练项：[奥秘](Arcana.md "奥秘")、[历史](History.md "历史")_
 - _角色：[盖尔](Gale.md "盖尔")、[福泽朗普爵士](Sir_Fuzzalump.md "福泽朗普爵士")_
 
 ## 士兵

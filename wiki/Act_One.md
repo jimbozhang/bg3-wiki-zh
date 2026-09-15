@@ -187,7 +187,7 @@
 
 主文章：[复仇之炉](Grymforge.md "复仇之炉")
 
-围绕传奇的[精金熔炉](Adamantine_Forge_(location)建造的古代地下堡垒的遗迹.md)。可以通过在[幽暗地域](Underdark.md "幽暗地域")海滩使用小船穿越黑檀湖到达。
+围绕传奇的[精金熔炉](Adamantine_Forge_(location).md)建造的古代地下堡垒的遗迹。可以通过在[幽暗地域](Underdark.md "幽暗地域")海滩使用小船穿越黑檀湖到达。
 
 这座由[莎尔](Shar.md "莎尔")女神的崇拜者在远古时代建造的废弃堡垒最近再次焕发了生机。[焰痕氏族](Clan_Flameshade.md "焰痕氏族")的灰矮人受[至上真神](Absolute.md "至上真神")势力雇佣，寻找通往堡垒深处更下方[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")的入侵点。灰矮人指挥着一群被奴役的[铁手](Ironhand.md "铁手")侏儒，这些侏儒是从黑檀湖对岸的[破败村落](Decrepit_Village.md "破败村落")抓来的。
 

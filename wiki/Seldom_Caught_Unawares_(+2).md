@@ -1,6 +1,6 @@
 # 少被突袭 (+2)
 
-不要与[少被突袭 (+1)](Seldom_Caught_Unawares_(+1)混淆.md)
+不要与[少被突袭 (+1)](Seldom_Caught_Unawares_(+1).md)混淆
 
 **少被突袭**是一个被动特性，为先攻检定提供加值。
 

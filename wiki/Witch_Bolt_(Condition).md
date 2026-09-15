@@ -2,7 +2,7 @@
 
 **巫术箭**
 
-- 施法者每[驱散](Turn.md "Turn")可以使用一个[动作](Action.md "Action")来激活连接到此生物的电弧，自动造成 1d12⁠⁠[闪电](Lightning.md "Lightning")伤害。
+- 施法者每[驱散](Turned_(Condition).md "Turn")可以使用一个[动作](Action.md "Action")来激活连接到此生物的电弧，自动造成 1d12⁠⁠[闪电](Lightning.md "Lightning")伤害。
 
 ## 属性
 

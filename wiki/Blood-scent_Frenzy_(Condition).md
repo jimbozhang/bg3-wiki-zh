@@ -2,7 +2,7 @@
 
 **鲜血狂暴**
 
-- 受影响实体对任何生命值未满的目标进行[近战攻击](Melee Attack.md "近战攻击")时具有[优势](Advantage.md "Advantage")，前提是目标不是构装生物、泥型怪物、植物或元素生物。
+- 受影响实体对任何生命值未满的目标进行[近战攻击](Melee_Attack.md "近战攻击")时具有[优势](Advantage.md "Advantage")，前提是目标不是构装生物、泥型怪物、植物或元素生物。
 
 ## 属性
 
@@ -18,7 +18,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体对任何生命值未满的目标进行[近战攻击](Melee Attack.md "近战攻击")时具有[优势](Advantage.md "Advantage")，前提是目标不是构装生物、泥型怪物、植物或元素生物。
+- 受影响实体对任何生命值未满的目标进行[近战攻击](Melee_Attack.md "近战攻击")时具有[优势](Advantage.md "Advantage")，前提是目标不是构装生物、泥型怪物、植物或元素生物。
 
 ---
 *Source: [Blood-scent Frenzy (Condition)](https://bg3.wiki/wiki/Blood-scent_Frenzy_(Condition)*

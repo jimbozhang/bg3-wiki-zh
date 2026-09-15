@@ -15,7 +15,7 @@
 
 与大多数角色互动会打开一个对话过场动画，其中活跃的队伍成员可以从给定的问题、评论和回应中进行选择。游戏对对话中做出的选择可能具有高度反应性，无论是在短期还是长期后果方面。说话者的[职业](Class.md "Class")和[种族](Race.md "Race")通常会解锁新的选项，并且根据游戏中发现的内容可能会出现额外的选择<sup>[\[1\]](#cite_note-1)</sup>。
 
-偶尔，对话选项可能包括[属性检定](Ability_Check.md "Ability check")，例如[敏捷](Dexterity.md "Dexterity")、[力量](Strength.md "Strength")或[感知](Wisdom.md "Wisdom")。有时，互动的队伍成员可能依赖于技能，包括[威吓](Intimidation.md "Intimidation")、[历史的](History.md "History")或[游说](Persuasion.md "Persuasion")。某些法术也可以在对话中施放，例如[神导术](Guidance.md "Guidance")。其他法术，如[交友术](Friends.md "Friends")或[侦测思想](Detect_Thoughts.md "Detect Thoughts")，如果被发现可能会遭到反对，尤其是在硬核和荣誉[模式](Difficulty.md "Difficulty")下。此外，法术[动物交谈](Speak_with_Animals.md "Speak with Animals")或[死者交谈](Speak_with_Dead.md "Speak with Dead")是某些对话所必需的。
+偶尔，对话选项可能包括[属性检定](Ability_Check.md "Ability check")，例如[敏捷](Dexterity.md "Dexterity")、[力量](Strength.md "Strength")或[感知](Wisdom.md "Wisdom")。有时，互动的队伍成员可能依赖于技能，包括[威吓](Intimidation.md "Intimidation")、[历史](History.md "History")或[游说](Persuasion.md "Persuasion")。某些法术也可以在对话中施放，例如[神导术](Guidance.md "Guidance")。其他法术，如[交友术](Friends.md "Friends")或[侦测思想](Detect_Thoughts.md "Detect Thoughts")，如果被发现可能会遭到反对，尤其是在硬核和荣誉[模式](Difficulty.md "Difficulty")下。此外，法术[动物交谈](Speak_with_Animals.md "Speak with Animals")或[死者交谈](Speak_with_Dead.md "Speak with Dead")是某些对话所必需的。
 
 最近的对话历史会按发生时间顺序显示在日志菜单中，作为对话记录。
 

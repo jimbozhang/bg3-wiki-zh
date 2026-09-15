@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：18米（60英尺）
 
 ## 升环施法效应
@@ -26,7 +26,7 @@
 
 持续时间：2回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响实体无法移动或进行[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")。
 - 如果攻击者在3米（10英尺）内，对实体的攻击总是[重击](Critical_Hit.md "重击")。

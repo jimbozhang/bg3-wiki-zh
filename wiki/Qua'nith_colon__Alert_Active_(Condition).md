@@ -10,7 +10,7 @@
 
 ## 备注
 
-- 当[灵能探测器](Qua'nith_Psionic_Detector.md "Qua'nith Psionic Detector")发现附近的吉斯洋基人[伏击](Ambush.md "Ambush")时，会影响所有小队成员。
+- 当[灵能探测器](Qua'nith_Psionic_Detector.md "Qua'nith Psionic Detector")发现附近的吉斯洋基人[伏击](Ambushed_(Condition).md "Ambush")时，会影响所有小队成员。
 
 ## 错误
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-冰冷的火焰在3米（10英尺）半径范围内散发光芒。你只承受所有[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "抗性")，并对任何用[近战](melee.md "近战")击中你的人造成2d8[寒冷](Cold.md "Cold")伤害。
+冰冷的火焰在3米（10英尺）半径范围内散发光芒。你只承受所有[火焰](Fire.md "Fire")伤害的[抗性](Resistance.md "抗性")，并对任何用[近战](List_of_melee_weapons.md "近战")击中你的人造成2d8[寒冷](Cold.md "Cold")伤害。
 
 ## 属性
 
@@ -47,7 +47,7 @@
 
 ## 备注
 
-- 如果攻击者造成[重击](Critical Hit.md "Critical Hit")，火焰护盾：寒冷的伤害将翻倍至4d8[寒冷](Cold.md "Cold")。
+- 如果攻击者造成[重击](Critical_Hit.md "Critical Hit")，火焰护盾：寒冷的伤害将翻倍至4d8[寒冷](Cold.md "Cold")。
 
 ---
 *Source: [Fire Shield: Chill](https://bg3.wiki/wiki/Fire_Shield:_Chill)*

@@ -28,7 +28,7 @@ UID `END_Emperor_Staff` UUID `ff63ca4a-a990-43dc-a28b-c6bed7bfa617` ### 特殊�
 **持有此物品获得：**
 
 [奥术增强](Arcane_Enchantment_(+1).md)
-你获得+1加值至[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
+你获得+1加值至[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
 
 [霸道复仇](Imperial_Retaliation.md "霸道复仇")
 当持有者成功通过[豁免检定](Saving_throw.md "豁免检定")时，导致该检定的敌人需进行一次[智力](Intelligence.md "智力")[豁免检定](Saving_throw.md "豁免检定")，否则将被[震慑](Stunned_(Condition).md "震慑 (状态)") 1回合。

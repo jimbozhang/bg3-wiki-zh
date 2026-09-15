@@ -37,7 +37,7 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [战术铁律](Tactical_Discipline.md "战术铁律")
 
-**铁血执政官查德**是[班恩](Bane_(God)的教徒.md)，可在[博德之门](Baldur's_Gate.md "博德之门")的[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中找到。
+**铁血执政官查德**是[班恩](Bane_(God).md)的教徒，可在[博德之门](Baldur's_Gate.md "博德之门")的[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中找到。
 
 ## 目录
 

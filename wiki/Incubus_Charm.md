@@ -22,7 +22,7 @@
 
 持续时间：3驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 你被一个魔鬼魅惑，必须在战斗中支持它。你可以在受到伤害后，对这个效果进行另一次[豁免检定](Saving_throw.md "豁免检定")。
 

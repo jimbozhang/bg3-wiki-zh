@@ -2,7 +2,7 @@
 
 **颧骨真好看！**
 
-- 凝视这座自己的雕像，将[祝福术](Sweet_Stone_Features_(Condition)雕像的拥有者.md)，每[长休](Long_Rest.md "长休")一次。
+- 凝视这座自己的雕像，将[祝福术](Sweet_Stone_Features_(Condition).md)雕像的拥有者，每[长休](Long_Rest.md "长休")一次。
 
 ## 属性
 
@@ -17,11 +17,11 @@
 
 ## 具有相同堆叠ID的状态
 
-- 凝视这座自己的雕像，将[祝福术](Sweet_Stone_Features_(Condition)雕像的拥有者.md)，每[长休](Long_Rest.md "长休")一次。
+- 凝视这座自己的雕像，将[祝福术](Sweet_Stone_Features_(Condition).md)雕像的拥有者，每[长休](Long_Rest.md "长休")一次。
 
 ## 简要预览
 
-凝视这座自己的雕像，将[祝福术](Sweet_Stone_Features_(Condition)雕像的拥有者.md)，每[长休](Long_Rest.md "长休")一次。
+凝视这座自己的雕像，将[祝福术](Sweet_Stone_Features_(Condition).md)雕像的拥有者，每[长休](Long_Rest.md "长休")一次。
 
 ---
 *Source: [Just Look At Those Cheekbones! (Condition)](https://bg3.wiki/wiki/Just_Look_At_Those_Cheekbones!_(Condition)*

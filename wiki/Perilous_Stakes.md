@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 射程：9米（30英尺）
 充能：[长休](Long_Rest.md "长休")
 持续时间：3驱散
@@ -24,7 +24,7 @@
 
 持续时间：3驱散
 
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 
 - 受影响实体对所有伤害[易伤](Vulnerable.md "易伤")，但当其攻击时，它会获得2d8⁠⁠[治疗](Healing.md "治疗")的治疗。
 
@@ -39,7 +39,7 @@
 
 - 当对盟友施放时，无需豁免检定即可施加此状态。
 - 在[荣誉模式](Difficulty.md#Honour "难度")下，此能力只能对盟友施放。
-  - 要在荣誉模式下对敌人使用此能力，可以使用[惑控学派](Enchantment_(school)法术.md)，如[支配人类](Dominate_Person.md "支配人类")、[支配野兽](Dominate_Beast.md "支配野兽")或[异界誓缚](Planar_Binding.md "异界誓缚")使其成为盟友。然后就可以施加孤注一掷并利用所赋予的易伤。
+  - 要在荣誉模式下对敌人使用此能力，可以使用[惑控学派](Enchantment_(school).md)法术，如[支配人类](Dominate_Person.md "支配人类")、[支配野兽](Dominate_Beast.md "支配野兽")或[异界誓缚](Planar_Binding.md "异界誓缚")使其成为盟友。然后就可以施加孤注一掷并利用所赋予的易伤。
 
 ## 错误
 

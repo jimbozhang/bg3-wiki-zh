@@ -1,8 +1,8 @@
-# 火球术术
+# 火球术
 
 关于武僧四象宗的等效法术，请参见[凤凰烈焰](Flames_of_the_Phoenix.md "Flames of the Phoenix")。
 
-**火球术术**是一个[法术](Spells.md "法术")。它允许施法者从手中释放一道火焰，在射程内选定的点处爆炸成一个巨大的火球术。
+**火球术**是一个[法术](Spells.md "法术")。它允许施法者从手中释放一道火焰，在射程内选定的点处爆炸成一个巨大的火球术。
 
 ## 描述
 
@@ -44,7 +44,7 @@
 
 ## 注释
 
-- 火球术术的咒语是 **Ardē**，拉丁语命令“燃烧/燃烧吧！”
+- 火球术的咒语是 **Ardē**，拉丁语命令“燃烧/燃烧吧！”
 
 ## 视觉效果
 
@@ -60,7 +60,7 @@
 
 ## 外部链接
 
-- ⁠[火球术术](https://forgottenrealms.fandom.com/wiki/Fireball) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[火球术](https://forgottenrealms.fandom.com/wiki/Fireball) 在 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [Fireball](https://bg3.wiki/wiki/Fireball)*

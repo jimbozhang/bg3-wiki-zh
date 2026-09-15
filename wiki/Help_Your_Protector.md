@@ -48,7 +48,7 @@ _目标和日志条目可能因玩家的决定和结果而有所不同。_
 
 一旦被传送到[星界](Astral_Plane.md "Astral Plane")，[梦境守护者](Dream_Guardian.md "Dream Guardian")会呼唤队伍并请求帮助，解释他们正受到攻击。当队伍向前移动时，可以看到九只[噬脑怪](Intellect_Devourer.md "Intellect Devourer")正被两名战士——高阶战士沙阿里和烈焰战士米尔里克攻击。队伍可以加入战斗，并受到梦境守护者的催促。在另一块岩石上，高阶战士基拉尔正在与五只[噬脑怪](Intellect_Devourer.md "Intellect Devourer")战斗。队伍必须前往头骨处，那里有一个夺心魔正在与几名战士战斗。夺心魔揭示它正是出现在队伍成员梦境中的那个，如果要求它证明，它会回忆起队伍冒险期间发生的事件，例如队伍如何处理[艾琳女士](Dame_Aylin.md "Dame_Aylin")。如果对夺心魔施放[侦测思想](Detect_Thoughts.md "Detect Thoughts")——它正直接将其想法传入队伍的脑海中——它会对玩家角色的胆大妄为感到难以置信，并用关于如何击败战士以报复的想法淹没他们的脑海。
 
-如果同意帮助，队伍必须击败主教[里尔里克](Lir'i'c.md "Lir'i'c")、高阶战士[吉姆尔](G'imre.md "G'imre")、烈焰战士[米海克](M'i'hayk.md "M'i'hayk")和西风战士[维里克](Verik.md "Verik")。如果转而攻击夺心魔，队伍必须与它、[噬脑怪](Intellect_Devourer.md "Intellect Devourer")_和_战士战斗，尽管这两个敌方阵营也会互相攻击。如果击中夺心魔，它可能会喊出警告，称是它在维持队伍的生命。
+如果同意帮助，队伍必须击败[高级教士里'瑞克](Lir'i'c.md "高级教士里'瑞克")、高阶战士[吉姆尔](G'imre.md "G'imre")、烈焰战士[米海克](M'i'hayk.md "M'i'hayk")和西风战士[维里克](Verik.md "Verik")。如果转而攻击夺心魔，队伍必须与它、[噬脑怪](Intellect_Devourer.md "Intellect Devourer")_和_战士战斗，尽管这两个敌方阵营也会互相攻击。如果击中夺心魔，它可能会喊出警告，称是它在维持队伍的生命。
 
 如果夺心魔在战斗中幸存，它会揭示用于保护队伍免受至上真神影响的力量是从吉斯洋基王子[俄耳甫斯](Orpheus.md "Orpheus")那里窃取的，他被地狱之链困在星界棱镜中；战士们是俄耳甫斯的荣誉卫队。夺心魔，也被称为[君主](The_Emperor.md "The Emperor")，曾作为[主脑](Elder_Brain.md "Elder Brain")的代理人被派去夺取棱镜，但在进入棱镜的护盾后，它摆脱了主脑的控制。
 

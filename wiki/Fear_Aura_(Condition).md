@@ -20,7 +20,7 @@
 
 **[凌弱怪恐惧](Meenlock_Fear_(Condition).md "Meenlock Fear (Condition)")**
 
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 ⁠半径：4米（13英尺）
 

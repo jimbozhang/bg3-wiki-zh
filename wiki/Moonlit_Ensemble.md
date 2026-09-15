@@ -16,7 +16,7 @@
 
 - UID `EPI_Camp_Minthara` UUID `7d65044d-0d01-44c8-b665-165f0ecc768c` ## 获取地点
 
-- 仅在 [尾声](Epilogue.md "尾声") 中，如果玩家与 [明萨拉](Minthara.md "明萨拉") 发生恋情，并同意夺取并统治 [博德之门](Baldur's Gate.md "博德之门")，则明萨拉可获得此物品。
+- 仅在 [尾声](Epilogue.md "尾声") 中，如果玩家与 [明萨拉](Minthara.md "明萨拉") 发生恋情，并同意夺取并统治 [博德之门](Baldur's_Gate.md "博德之门")，则明萨拉可获得此物品。
 
 ## 图库
 

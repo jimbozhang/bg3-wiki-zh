@@ -1,6 +1,6 @@
 # 月亮结社
 
-**月亮结社**是[德鲁伊](Druid.md "德鲁伊")的[副职](Druid.md#Subclass "副职")之一。这些德鲁伊更擅长通过[荒野形态](Wild_Shape.md "荒野形态")变形成各种生物来攻击敌人或在战斗中支援盟友。他们还能够在荒野形态下[恢复](regenerate.md "恢复")[生命值](Hit_Points.md "生命值")。
+**月亮结社**是[德鲁伊](Druid.md "德鲁伊")的[副职](Druid.md#Subclass "副职")之一。这些德鲁伊更擅长通过[荒野形态](Wild_Shape.md "荒野形态")变形成各种生物来攻击敌人或在战斗中支援盟友。他们还能够在荒野形态下[次级复原术](Lesser_Restoration.md "恢复")[生命值](Hit_Points.md "生命值")。
 
 > “
 >
@@ -15,7 +15,7 @@ _此副职获得其基础职业[德鲁伊](Druid.md "德鲁伊")的所有特性�
 ### 等级 2
 
 [月光修复](Lunar_Mend.md "月光修复") (+ )
-在荒野形态下，消耗[法术位](Spells.md#Spell_slots "法术位")来[恢复](regenerate.md "恢复")[生命值](Hit_Points.md "生命值")。每消耗一个法术位，恢复 1d8[治疗](Healing.md "治疗")。
+在荒野形态下，消耗[法术位](Spells.md#Spell_slots "法术位")来[次级复原术](Lesser_Restoration.md "恢复")[生命值](Hit_Points.md "生命值")。每消耗一个法术位，恢复 1d8[治疗](Healing.md "治疗")。
 
 [战斗荒野形态](Combat_Wild_Shape.md "战斗荒野形态") (+ )
 作为[附赠动作](Bonus_Action.md "附赠动作")，你可以变形成野兽形态。每[短休](Short_rest.md "短休")可变形两次。此能力其他方面与[荒野形态](Wild_Shape.md "荒野形态")相同。

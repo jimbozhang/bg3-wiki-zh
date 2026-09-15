@@ -23,7 +23,7 @@
 
 持续时间：直到[长休](Long_Rest.md "长休")
 
-- 能看到9米（30英尺）范围内的[隐形](Invisible_(Condition)生物.md)。
+- 能看到9米（30英尺）范围内的[隐形](Invisible_(Condition).md)生物。
 - 生物必须通过[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则会失去隐形状态。
 
 ## 如何学习

@@ -2,7 +2,7 @@
 
 不要与[暗夜之矛](Spear_of_Night.md "暗夜之矛")和[塞伦涅的暗夜短矛](Sel%C3%BBne's_Spear_of_Night.md "塞伦涅的暗夜短矛")混淆。
 
-莎尔的黄昏短矛是一把传奇的+3[短矛](Spears.md "短矛")，它允许持有者获得[莎尔的祝福](Shar's_Blessing.md "莎尔的祝福")和对[失明术](Blinded_(Condition)的免疫.md)。
+莎尔的黄昏短矛是一把传奇的+3[短矛](Spears.md "短矛")，它允许持有者获得[莎尔的祝福](Shar's_Blessing.md "莎尔的祝福")和对[失明术](Blinded_(Condition).md)的免疫。
 
 当莎尔在梦中造访凡人时，[莎尔](Shar.md "莎尔")的头发会像墨色的午夜丝线一样卷曲缠绕在她头上。如果它搔痒了她的鼻子，这位女神会小心地不表现出来。
 

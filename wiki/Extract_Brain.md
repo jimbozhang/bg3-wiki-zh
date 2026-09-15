@@ -6,7 +6,7 @@
 
 ## 描述
 
-尝试提取处于[震慑](Stunned_(status_group).md)或[昏迷](Unconscious_(status_group)状态生物的大脑.md)。
+尝试提取处于[震慑](Stunned_(status_group).md)或[昏迷](Unconscious_(status_group).md)状态生物的大脑。
 
 ## 属性
 

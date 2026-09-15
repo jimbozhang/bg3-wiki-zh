@@ -106,7 +106,7 @@
 | [鱼](Fish.md "Fish") | 1 | 4/13 |
 | [鱼](Fish.md "Fish") | 1 | 4/13 |
 
-如果在[钢铁王座](Iron_Throne.md "Iron Throne")的任何地方掉落了[耐瑟石](Netherstone_(disambiguation)且在未回收的情况下离开该区域.md)，并且老特劳特曼附近的[沙华鱼人](Sahuagin.md "Sahuagin")遭遇战已经解决，那么他会在其物品栏中拥有缺失的耐瑟石。他并不知道它们的真实本质，称它们为捕鱼时发现的“闪亮碎片”，并以一些金币的价格出售给队伍。具体价值取决于互动队伍成员的[魅力](Charisma.md "Charisma")和[游说](Persuasion.md "Persuasion")调整值。
+如果在[钢铁王座](Iron_Throne.md "Iron Throne")的任何地方掉落了[耐瑟石](Netherstone_(disambiguation).md)且在未回收的情况下离开该区域，并且老特劳特曼附近的[沙华鱼人](Sahuagin.md "Sahuagin")遭遇战已经解决，那么他会在其物品栏中拥有缺失的耐瑟石。他并不知道它们的真实本质，称它们为捕鱼时发现的“闪亮碎片”，并以一些金币的价格出售给队伍。具体价值取决于互动队伍成员的[魅力](Charisma.md "Charisma")和[游说](Persuasion.md "Persuasion")调整值。
 
 ## 商店
 

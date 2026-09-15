@@ -10,7 +10,7 @@
 
 ## 背景特性
 
-- **历史熟练项**：获得[智力](Intelligence.md "Intelligence")（[历史的](History.md "History")）*属性检定*的[熟练项](Proficiency.md "Proficiency")。
+- **历史熟练项**：获得[智力](Intelligence.md "Intelligence")（[历史](History.md "History")）*属性检定*的[熟练项](Proficiency.md "Proficiency")。
 - **游说熟练项**：获得[魅力](Charisma.md "Charisma")（[游说](Persuasion.md "Persuasion")）*属性检定*的[熟练项](Proficiency.md "Proficiency")。
 
 ## 背景目标

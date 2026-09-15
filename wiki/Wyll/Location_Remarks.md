@@ -518,7 +518,7 @@
 - _(站起来)_: “噗——力量消失了。”
 - _(摧毁板凳，拿走[腿棒](../Club_of_Hill_Giant_Strength.md "Club of Hill Giant Strength"))_: “嗯——这椅子腿用来打怪物应该不错。”
 
-**收集关于[精金熔炉](../Adamantine_Forge_(location)的传说.md)：**
+**收集关于[精金熔炉](../Adamantine_Forge_(location).md)的传说：**
 
 - _(第一次听说精金熔炉)_: “精金熔炉——传说中的东西。”
 - _(掠夺[伪装的书](../Flumph_Mating_Rituals.md "Flumph Mating Rituals")，来自[夏格林](../Xargrim.md "Xargrim")，[奥术](../Arcana.md "Arcana")检定)：

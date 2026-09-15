@@ -28,7 +28,7 @@
 
 ## 备注
 
-此传奇动作中[失能状态](Incapacitated_(status_group)的示例包括.md)：[恐慌](Frightened_(status_group).md)、[麻痹](Paralysed_(Condition).md)、[震慑](SG_Stunned.md "SG 震慑")、[束缚](SG_Restrained.md "SG 束缚")、[变形](Polymorphed_(status_group).md)、[魅惑](Charmed_(status_group).md)和[受控](Dominated_(Condition).md)。
+此传奇动作中[失能状态](Incapacitated_(status_group).md)的示例包括：[恐慌](Frightened_(status_group).md)、[麻痹](Paralysed_(Condition).md)、[震慑](SG_Stunned.md "SG 震慑")、[束缚](SG_Restrained.md "SG 束缚")、[变形](Polymorphed_(status_group).md)、[魅惑](Charmed_(status_group).md)和[受控](Dominated_(Condition).md)。
 
 ---
 *Source: [Legendary Action: Tu'narath's Embrace](https://bg3.wiki/wiki/Legendary_Action:_Tu'narath's_Embrace)*

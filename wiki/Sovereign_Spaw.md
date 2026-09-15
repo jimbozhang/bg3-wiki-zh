@@ -35,7 +35,7 @@
 
 - [多重攻击：孢子](Multiattack_colon__Spores.md "多重攻击：孢子")
 
-可对处于[昏沉](Befuddled_(Condition)状态或.md)受[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md)或[加速孢子](Haste_Spores_(Condition)影响的目标进.md)行[多重攻击](Multiattack_(Spaw).md "多重攻击 (斯伯)")。
+可对处于[昏沉](Befuddled_(Condition).md)状态或受[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md)或[加速孢子](Haste_Spores_(Condition).md)影响的目标进行[多重攻击](Multiattack_(Spaw).md "多重攻击 (斯伯)")。
 
 - [强壮](Muscular.md "强壮")
 
@@ -59,7 +59,7 @@
 
 - [多重攻击：孢子](Multiattack_colon__Spores.md "多重攻击：孢子")
 
-可对处于[昏沉](Befuddled_(Condition)状态或.md)受[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md)或[加速孢子](Haste_Spores_(Condition)影响的目标进.md)行[多重攻击](Multiattack_(Spaw).md "多重攻击 (斯伯)")。
+可对处于[昏沉](Befuddled_(Condition).md)状态或受[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md)或[加速孢子](Haste_Spores_(Condition).md)影响的目标进行[多重攻击](Multiattack_(Spaw).md "多重攻击 (斯伯)")。
 
 - [强壮](Muscular.md "强壮")
 
@@ -83,7 +83,7 @@
 
 - [多重攻击：孢子](Multiattack_colon__Spores.md "多重攻击：孢子")
 
-可对处于[昏沉](Befuddled_(Condition)状态或.md)受[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md)或[加速孢子](Haste_Spores_(Condition)影响的目标进.md)行[多重攻击](Multiattack_(Spaw).md "多重攻击 (斯伯)")。
+可对处于[昏沉](Befuddled_(Condition).md)状态或受[有毒烟雾](Noxious_Fumes_(Bibberbang)_(Condition).md)或[加速孢子](Haste_Spores_(Condition).md)影响的目标进行[多重攻击](Multiattack_(Spaw).md "多重攻击 (斯伯)")。
 
 - [强壮](Muscular.md "强壮")
 
@@ -129,7 +129,7 @@
 
 ### 第一幕
 
-当队伍首次经过[亲和孢子](Rapport_spores_(area)时.md)，斯伯会从远处以心灵感应与队伍交流。斯伯用意象解释灰矮人入侵者一直在杀害他们的幼体，然后用窒息的意象威胁队伍。
+当队伍首次经过[亲和孢子](Rapport_spores_(area).md)时，斯伯会从远处以心灵感应与队伍交流。斯伯用意象解释灰矮人入侵者一直在杀害他们的幼体，然后用窒息的意象威胁队伍。
 
 队伍必须说服斯伯他们是带着和平而来，才能进入黑檀湖洞穴：
 

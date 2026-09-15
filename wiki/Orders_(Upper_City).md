@@ -1,6 +1,6 @@
 # 命令（上城区）
 
-不要与[命令（幽影诅咒之地）](Orders_(Shadow-Cursed_Lands)混淆.md)
+不要与[命令（幽影诅咒之地）](Orders_(Shadow-Cursed_Lands).md)混淆
 
 **命令（上城区）**包含来自惠特本家族的命令。
 

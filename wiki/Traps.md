@@ -26,12 +26,7 @@
 
 - [绊绳](Tripwire.md "Tripwire")
 - [爆破地雷](Blast_Mine.md "Blast Mine")（三种，造成⁠[火焰](Fire.md "Fire")或⁠[火焰](Fire.md "Fire") + ⁠[中毒](Poison.md "Poison")伤害）
-- [通风口](Vent.md "Vent")（各种类型，喷出热蒸汽、[有毒烟雾](Noxious_Fumes.md "Noxious Fumes")、洒出[简易毒素](Simple_Toxin.md "简易毒素")或[油脂](Grease_(surface), 或在其附近激活区域效果法术如[死云术](Cloudkill.md "Cloudkill")）
-- [石像鬼雕像](Gargoyle_Statue.md "Gargoyle Statue") / [石像鬼的头颅](Gargoyle_Head.md "Gargoyle Head")（以特定频率发射火焰箭/寒冰箭）
-
-### 图库
-
-- .")绊绳陷阱（已设伏）。
+- [通风口](Vent.md "Vent")（各种类型，喷出热蒸汽、[有毒烟雾](Noxious_Fumes.md "Noxious Fumes")、洒出[简易毒素](Simple_Toxin.md "简易毒素")或油脂绊绳陷阱（已设伏）。
 
 - .")爆破地雷（火焰伤害）。
 

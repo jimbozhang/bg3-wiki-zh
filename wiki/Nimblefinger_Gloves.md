@@ -25,7 +25,7 @@
 
 ## 备注
 
-- 地窖可通过 X: 30 Y: 29 处的[洞穴入口](Cave_Entrance.md "Cave Entrance")或[利文顿杂货店](Rivington_General.md "Rivington General")的活板门进入。
+- 地窖可通过 X: 30 Y: 29 处的[洞穴入口](Rivington_General.md "Cave Entrance")或[利文顿杂货店](Rivington_General.md "Rivington General")的活板门进入。
 
 _关于灵巧手指：_
 

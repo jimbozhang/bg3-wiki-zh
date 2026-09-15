@@ -92,7 +92,7 @@
 
 一旦鸟妖被击败，米尔克会告诉队伍他需要回去，因为[摩尔](Mol.md "摩尔")会对他发火。离开前，他告诉队伍去找[多尼](Doni.md "多尼")并告诉他他们想看“龙之巢穴”。
 
-如果队伍触发此任务后返回营地，[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")\]米尔克会死亡。如果[解救难民](Save_the_Refugees.md "解救难民")通过完成[荆棘仪式](Rite_of_Thorns_(ritual)或躲.md)避[地精](Goblin.md "地精")攻击来解决，他也会死亡。
+如果队伍触发此任务后返回营地，[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")\]米尔克会死亡。如果[解救难民](Save_the_Refugees.md "解救难民")通过完成[荆棘仪式](Rite_of_Thorns_(ritual).md)或躲避[地精](Goblin.md "地精")攻击来解决，他也会死亡。
 
 ## 任务奖励
 

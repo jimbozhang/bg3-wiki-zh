@@ -68,7 +68,7 @@
 
 使附近的敌人对穿刺伤害[易伤](Vulnerable.md "易伤")，除非他们对此伤害[抗性](Resistant.md "抗性")或[免疫](Immune.md "免疫")。
 
-无法被[恐慌](Frightened_(Condition)的生物对此灵光免疫.md)。
+无法被[恐慌](Frightened_(Condition).md)的生物对此灵光免疫。
 
 范围：自身
 重置：每次战斗

@@ -1572,7 +1572,7 @@
 | Static Discharge Aura | 静电放射灵光 |
 | Step of The Wind | 飞檐走壁 |
 | Stricken With Flesh Rot | 烂肉症 |
-| Stun | 灵魂扭曲 |
+| Stun | 震慑 |
 | Stunned | 震慑 |
 | Surprised | 受惊 |
 | Symbiotic Entity | 共生实体 |

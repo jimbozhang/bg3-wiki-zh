@@ -16,7 +16,7 @@
 
 持续时间：2 回合
 
-- 受影响实体在每个剩余回合中，其[法术](Spells.md "法术")[攻击掷骰](Attack_roll.md "攻击掷骰")和[法术豁免DC](Saving_throw.md#The_Difficulty_Class_of_saving_throws "豁免检定")获得 +1 加值。
+- 受影响实体在每个剩余回合中，其[法术](Spells.md "法术")[攻击掷骰](Attack_roll.md "攻击掷骰")和[法术豁免难度等级](Saving_throw.md#The_Difficulty_Class_of_saving_throws "豁免检定")获得 +1 加值。
 - 实体每次受到伤害时，持续时间减少 2。
 - **奥术敏锐**的最大持续时间：10 回合。
 

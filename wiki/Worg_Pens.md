@@ -51,7 +51,7 @@
 
 战斗开始时，两个地精儿童会试图逃跑并呼叫援助。如果成功，他们会引来门外的守卫，[锐眼尼姆](Neem.md "尼姆")、[锐眼伊夫](Eef.md "伊夫")和[锐眼纳斯](Nass.md "纳斯")，但这并不会使整个营地变得敌对。
 
-战斗结束后，幸存的哈尔辛会解除荒野形态，并立即开始与他对话，推进任务[解救首席德鲁伊](Save_the_First_Druid.md "解救首席德鲁伊")和[解救德鲁伊哈尔辛](Rescue_the_Druuid_Halsin.md "解救德鲁伊哈尔辛")。否则，洞熊尸体会变回死去的德鲁伊，任务以失败告终。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
+战斗结束后，幸存的哈尔辛会解除荒野形态，并立即开始与他对话，推进任务[解救首席德鲁伊](Save_the_First_Druid.md "解救首席德鲁伊")和[解救德鲁伊哈尔辛](Rescue_the_Druid_Halsin.md "解救德鲁伊哈尔辛")。否则，洞熊尸体会变回死去的德鲁伊，任务以失败告终。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
 
 在X: 377 Y: -44处的屠夫砧板附近的木箱中，含有[驯兽师铁链](Beastmaster's_Chain.md "驯兽师铁链")护符和几瓶不同等级的治疗药水。可以从附近的一个木桶中拿取一些[营地补给](Camp_supplies.md "营地补给")。在相邻的桌子上放着几块[可疑的肉块](Suspicious_Meat.md "可疑的肉块")，尽管来源可疑，但也可以用作长休的食物。其中，可以找到一把打开座狼兽栏牢房的[监狱钥匙](Prison_Key.md "监狱钥匙")，而另一把钥匙可以从普利格身上搜刮到。
 
@@ -73,7 +73,7 @@
 ## 相关任务
 
 - [寻找治疗方法](Find_a_Cure.md "寻找治疗方法")
-  - [解救德鲁伊哈尔辛](Rescue_the_Druuid_Halsin.md "解救德鲁伊哈尔辛")
+  - [解救德鲁伊哈尔辛](Rescue_the_Druid_Halsin.md "解救德鲁伊哈尔辛")
 - [解救难民](Save_the_Refugees.md "解救难民")
   - [击败地精](Defeat_the_Goblins.md "击败地精")
   - [解救首席德鲁伊](Save_the_First_Druid.md "解救首席德鲁伊")

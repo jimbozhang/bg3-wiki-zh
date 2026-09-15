@@ -40,7 +40,7 @@ A slim-fitting silver band, decorated with a mint green gemstone.
 
 A **电气石戒指** is a common type of [戒指](Rings.md "Rings"). Primarily of use for [议价](Barter.md "Barter") or sale to [商人](Traders.md "Traders").
 
-The warm tones of the [金环带](Gold Band.md "Gold Band") pair beautifully with this mint-green tourmaline.
+The warm tones of the [金环带](Gold_Band.md "Gold Band") pair beautifully with this mint-green tourmaline.
 
 ## Properties
 
@@ -60,7 +60,7 @@ The warm tones of the [金环带](Gold Band.md "Gold Band") pair beautifully wit
 
 A **电气石戒指** is a common type of [戒指](Rings.md "Rings"). Primarily of use for [议价](Barter.md "Barter") or sale to [商人](Traders.md "Traders").
 
-The warm tones of the [金环带](Gold Band.md "Gold Band") pair beautifully with this mint-green tourmaline.
+The warm tones of the [金环带](Gold_Band.md "Gold Band") pair beautifully with this mint-green tourmaline.
 
 ## Properties
 

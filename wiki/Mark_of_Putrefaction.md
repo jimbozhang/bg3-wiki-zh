@@ -12,7 +12,7 @@
 [附赠动作](Actions.md#Resources "Actions")
 详情
 射程：12 米 (40 英尺)
-充能：每[驱散](Turn.md "Turn")
+充能：每[驱散](Concentration.md "Turn")
 [专注](Concentration.md "Concentration")
 
 ## 更高环阶

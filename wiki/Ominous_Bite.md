@@ -16,7 +16,7 @@
 
 详情
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5米（5英尺）
 
 ## 状态：强酸预兆
@@ -25,7 +25,7 @@
 
 持续时间：3回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 如果受影响实体受到1⁠⁠[强酸](Acid.md "强酸")伤害，猎犬的主人将恢复1[术法点](Sorcery_Point.md "术法点")。
 
@@ -35,7 +35,7 @@
 
 持续时间：3回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 如果受影响实体受到1⁠⁠[寒冷](Cold.md "寒冷")伤害，猎犬的主人将恢复1[术法点](Sorcery_Point.md "术法点")。
 
@@ -45,7 +45,7 @@
 
 持续时间：3回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 如果受影响实体受到1⁠⁠[火焰](Fire.md "火焰")伤害，猎犬的主人将恢复1[术法点](Sorcery_Point.md "术法点")。
 
@@ -55,7 +55,7 @@
 
 持续时间：3回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 如果受影响实体受到1⁠⁠[闪电](Lightning.md "闪电")伤害，猎犬的主人将恢复1[术法点](Sorcery_Point.md "术法点")。
 
@@ -65,7 +65,7 @@
 
 持续时间：3回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 如果受影响实体受到1⁠⁠[雷鸣](Thunder.md "雷鸣")伤害，猎犬的主人将恢复1[术法点](Sorcery_Point.md "术法点")。
 
@@ -75,7 +75,7 @@
 
 持续时间：3回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 如果受影响实体受到1⁠⁠[中毒](Poison.md "中毒")伤害，猎犬的主人将恢复1[术法点](Sorcery_Point.md "术法点")。
 
@@ -89,7 +89,7 @@
 
 ## 备注
 
-- 此攻击的豁免检定使用猎犬的法术豁免DC，而非术士的。它基于猎犬的感知，因此提高DC的唯一方法是让猎犬消耗一瓶[战斗法师之力灵药](Elixir_of_Battlemage's_Power.md "战斗法师之力灵药")。
+- 此攻击的豁免检定使用猎犬的法术豁免难度等级，而非术士的。它基于猎犬的感知，因此提高DC的唯一方法是让猎犬消耗一瓶[战斗法师之力灵药](Elixir_of_Battlemage's_Power.md "战斗法师之力灵药")。
 - 如果目标豁免失败，施加给它的预兆将通过一系列掷骰随机确定。_\[[参见：错误](#bugs)\]_
 - [强酸预兆](Omen_of_Acid_(Condition).md "强酸预兆（状态）")有50%的几率被施加。
 - [寒冷预兆](Omen_of_Cold_(Condition).md "寒冷预兆（状态）")有25%的几率被施加。

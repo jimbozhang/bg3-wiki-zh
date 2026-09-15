@@ -4,7 +4,7 @@
 
 ## 描述
 
-每[长休](Long_Rest.md "长休")一次，当对[类人生物](List_of_creature_types.md#Humanoid "生物类型列表")造成[重击](Critical_Hit.md "重击")时，佩戴者可使目标[麻痹](Paralysed_(Condition).md "麻痹（状态）") 2[驱散](Turn.md "驱散")。
+每[长休](Long_Rest.md "长休")一次，当对[类人生物](List_of_creature_types.md#Humanoid "生物类型列表")造成[重击](Critical_Hit.md "重击")时，佩戴者可使目标[麻痹](Paralysed_(Condition).md "麻痹（状态）") 2[驱散](Turned_(Condition).md "驱散")。
 
 ## 属性
 

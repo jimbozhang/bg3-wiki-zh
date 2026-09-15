@@ -1,6 +1,6 @@
 # 恶之雷鸣戒指
 
-恶之雷鸣戒指（Ring of Spiteful Thunder）是一个[稀有度](Rarity.md "稀有度")为[不常见](Uncommon.md "不常见")的[戒指](Rings.md "戒指")，当佩戴者对处于[残响](Reverberation.md "残响")状态的生物造成[雷鸣](Thunder.md "雷鸣")伤害时，可能使其[眩晕](眩晕_(状态).md "眩晕 (状态)")。
+恶之雷鸣戒指（Ring of Spiteful Thunder）是一个稀有度为不常见的[戒指](Rings.md "戒指")，当佩戴者对处于[残响](Reverberation.md "残响")状态的生物造成[雷鸣](Thunder.md "雷鸣")伤害时，可能使其[眩晕](Dazed_(Condition).md "眩晕 (状态)")。
 
 当你将这枚戒指戴上手指并活动手指时，一阵不满的雷鸣声在你周围的空气中隆隆作响。
 
@@ -15,11 +15,11 @@
 佩戴此物品的生物获得：
 
 [恶之雷鸣](Spiteful_Thunder.md "恶之雷鸣")
-当佩戴者对处于[残响](残响_(状态).md "残响 (状态)")状态的生物造成伤害时_[参见：错误](Spiteful_Thunder.md#Bugs "恶之雷鸣")_，该生物会变得[眩晕](眩晕_(状态).md "眩晕 (状态)")，除非它成功通过一次[体质](CON.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
+当佩戴者对处于[残响](Reverberation_(Condition).md "残响 (状态)")状态的生物造成伤害时_[参见：错误](Spiteful_Thunder.md#Bugs "恶之雷鸣")_，该生物会变得[眩晕](Dazed_(Condition).md "眩晕 (状态)")，除非它成功通过一次[体质](CON.md "体质")[豁免检定](Saving_throw.md "豁免检定")。
 
 ## 状态：眩晕
 
-**[眩晕](眩晕_(状态).md "眩晕 (状态)")**
+**[眩晕](Dazed_(Condition).md "眩晕 (状态)")**
 
 持续时间：2 驱散
 
@@ -34,19 +34,19 @@
 
 ## 备注
 
-- 此戒指与[使体质豁免检定具有劣势的状态](List_of_features_and_items_that_affect_saving_throws.md#使豁免检定具有劣势 "影响豁免检定的特性与物品列表")（例如[流血](流血_(状态).md "流血 (状态)")）以及[施加残响的物品](残响_(状态).md#施加残响的物品).md#施加残响的物品> "残响 (状态)")（例如[喧嚣风暴之靴](Boots_of_Stormy_Clamour.md "喧嚣风暴之靴")）搭配良好。
+- 此戒指与[使体质豁免检定具有劣势的状态](List_of_features_and_items_that_affect_saving_throws.md#使豁免检定具有劣势 "影响豁免检定的特性与物品列表")（例如[流血](Bleeding_(Condition).md "流血 (状态)")）以及[施加残响的物品](Reverberation_(Condition).md#施加残响的物品).md#施加残响的物品> "残响 (状态)")（例如[喧嚣风暴之靴](Boots_of_Stormy_Clamour.md "喧嚣风暴之靴")）搭配良好。
 - 在游戏文件中，此物品的模板未链接到正确的_属性_条目，这可能导致其生成时没有魔法属性。
 
 _关于恶之雷鸣：_
 
-- 恶之雷鸣可以用于每驱散轻松地施加眩晕。眩晕使敌人更难通过[某些法术](List_of_spell_saving_throws.md#感知豁免 "法术豁免检定列表")的豁免检定，例如[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")。这对于对抗拥有[传奇抗性](传奇抗性_(状态).md "传奇抗性 (状态)")和[魔法抗性](Magic_Resistance.md "魔法抗性")的BOSS敌人非常有帮助。
+- 恶之雷鸣可以用于每驱散轻松地施加眩晕。眩晕使敌人更难通过[某些法术](List_of_spell_saving_throws.md#感知豁免 "法术豁免检定列表")的豁免检定，例如[塔莎狂笑术](Tasha's_Hideous_Laughter.md "塔莎狂笑术")。这对于对抗拥有[传奇抗性](Legendary_Resistance_(Condition).md "传奇抗性 (状态)")和[魔法抗性](Magic_Resistance.md "魔法抗性")的BOSS敌人非常有帮助。
 - 豁免检定是隐藏的，不会显示在战斗日志中。
 
 ## 错误
 
 _关于恶之雷鸣：_
 
-- 恶之雷鸣要求受[残响](残响_(状态).md "残响 (状态)")影响的目标在受到佩戴者造成的_任何_类型伤害时进行豁免检定，而不仅仅是[雷鸣](Thunder.md "雷鸣")伤害。
+- 恶之雷鸣要求受[残响](Reverberation_(Condition).md "残响 (状态)")影响的目标在受到佩戴者造成的_任何_类型伤害时进行豁免检定，而不仅仅是[雷鸣](Thunder.md "雷鸣")伤害。
 
 ---
 *Source: [Ring of Spiteful Thunder](https://bg3.wiki/wiki/Ring_of_Spiteful_Thunder)*

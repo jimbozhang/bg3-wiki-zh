@@ -27,7 +27,7 @@
 
 ## 简要预览
 
-提升[诗人激励](Bardic_Inspiration_(class_action)的加值.md)。
+提升[诗人激励](Bardic_Inspiration_(class_action).md)的加值。
 
 ---
 *Source: [Improved Bardic Inspiration (passive feature)](https://bg3.wiki/wiki/Improved_Bardic_Inspiration_(passive_feature)*

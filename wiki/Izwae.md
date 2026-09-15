@@ -39,7 +39,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-**伊兹威**是[幽暗地域](Underdark.md "幽暗地域")中一名[石化](Petrified_(Condition)的卓尔游侠.md)，出现在[第一幕](Act_One.md "第一幕")期间。
+**伊兹威**是[幽暗地域](Underdark.md "幽暗地域")中一名[石化](Petrified_(Condition).md)的卓尔游侠，出现在[第一幕](Act_One.md "第一幕")期间。
 
 > “
 >
@@ -65,7 +65,7 @@
 
 ### 第一幕
 
-伊兹威是[道恩](Dhourn.md "道恩")雇佣的卓尔佣兵首领，协助他寻找[精金熔炉](Adamantine_Forge_(location)并帮助背叛他的卓尔同.md)伴[菲罗](Filro.md "菲罗")和[萨格里姆](Xargrim.md "萨格里姆")。在与萨格里姆的对抗中，一只[观察者眼魔](Spectator.md "Spectator")被释放到队伍中，将队伍石化了未知的时间。
+伊兹威是[道恩](Dhourn.md "道恩")雇佣的卓尔佣兵首领，协助他寻找[精金熔炉](Adamantine_Forge_(location).md)并帮助背叛他的卓尔同伴[菲罗](Filro.md "菲罗")和[萨格里姆](Xargrim.md "萨格里姆")。在与萨格里姆的对抗中，一只[观察者眼魔](Spectator.md "Spectator")被释放到队伍中，将队伍石化了未知的时间。
 
 当被观察者眼魔伏击并释放时，伊兹威处于[观察者眼魔魅惑术](Spectator's_Charm_(Condition).md "观察者眼魔魅惑术 (状态)")状态。对他造成伤害会使其摆脱该生物的控制，他会加入对抗它的战斗。
 

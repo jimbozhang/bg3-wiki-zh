@@ -19,7 +19,7 @@
 
 **[光荣一跃药水](Potion_of_Glorious_Vaulting_(Condition).md "光荣一跃药水 (状态)")**
 
-持续时间：10 [驱散](Turn.md "驱散")
+持续时间：10 [驱散](Turned_(Condition).md "驱散")
 
 - [跳跃](Jump.md "跳跃") 距离变为三倍
 

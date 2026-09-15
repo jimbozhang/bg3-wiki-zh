@@ -97,7 +97,7 @@
 
 可以在一定距离内于黑暗中视物。
 
-- [**拨挡飞弹**](Deflect_Misses_(passive_feature).md "拨挡飞弹")
+- [**拨挡飞弹**](Deflect_Missiles_(passive_feature).md "拨挡飞弹")
 
 使用你的反应动作，将远程武器攻击的伤害减少 1d10 + 你的敏捷[调整值](Modifier.md "调整值") + 你的武僧等级。
 
@@ -391,7 +391,7 @@ UUID
 
 Stats
 
-`WYR_MessHallBodyguard_02` **安布尔勋爵的保镖**是一位[半精灵](Half-elven.md "半精灵")[武僧](Monk.md "武僧")，他陪同主人前往[第三幕](Act_Three.md "第三幕")的仪式，见证[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")被任命为[博德之门大公爵](Archduke_of_Baldur's_Gate.md "博德之门大公爵")。
+`WYR_MessHallBodyguard_02` **安布尔勋爵的保镖**是一位[半精灵](Half-elven.md "半精灵")[武僧](Monk.md "武僧")，他陪同主人前往[第三幕](Act_Three.md "第三幕")的仪式，见证[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")被任命为博德之门大公爵。
 
 > “
 >
@@ -403,7 +403,7 @@ Stats
 
 ## 相关剧情
 
-安布尔勋爵的保镖可以在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")一楼的餐厅找到。他随主人[佩特里克·安布尔勋爵](Petric_Amber.md "佩特里克·安布尔勋爵")一同前来，在等待勋爵从[礼堂](Audience_Hall.md "礼堂")下来时，他与其他贵族随从闲聊。
+安布尔勋爵的保镖可以在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")一楼的餐厅找到。他随主人[佩特里克·安布尔勋爵](Petric_Amber.md "佩特里克·安布尔勋爵")一同前来，在等待勋爵从[礼堂](Petric_Amber.md "礼堂")下来时，他与其他贵族随从闲聊。
 
 如果首次与他交谈，他会与[碎盾勋爵的侍从](Lord_Shattershield's_Attendant.md "碎盾勋爵的侍从")和[杜林伯德夫人的侍从](Lady_Durinbold's_Attendant.md "杜林伯德夫人的侍从")讨论[钢铁卫士](Steel_Watcher.md "钢铁卫士")，三人会询问队伍对这些机器人的看法。他质疑另外两人对构装体实用性的肯定态度，解释了靠近它们时感到的不安。
 

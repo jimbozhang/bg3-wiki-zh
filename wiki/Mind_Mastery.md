@@ -26,7 +26,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 被灰矮人心灵导师强迫对其一名盟友进行武器攻击。
 - 在攻击后或被击中时结束。

@@ -15,7 +15,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [引导神力充能](Channel_Divinity_Charge.md "引导神力充能")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：自身
 作用区域：9米（30英尺）半径
 目标：作用区域内所有不死生物
@@ -30,7 +30,7 @@
 
 持续时间：3回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 被驱散的生物必须在其回合中尝试尽可能远离驱散它的生物移动。
 - 它不能自愿移动到距离该生物9米（30英尺）以内的空间。

@@ -1,6 +1,6 @@
 # 魔网斗篷
 
-魔网斗篷是一件非常稀有的[披风](Cloaks.md "Cloaks")，允许穿戴者吸收少量魔法伤害，并将其添加到下一次攻击中。它还提供更好的[法术豁免DC](Saving_throw.md#The_Difficulty_Class_of_Saving_Throws "Saving Throw")和[法术](Spell.md "Spell")[攻击掷骰](Attack_roll.md "Attack Roll")。
+魔网斗篷是一件非常稀有的[披风](Cloaks.md "Cloaks")，允许穿戴者吸收少量魔法伤害，并将其添加到下一次攻击中。它还提供更好的[法术豁免难度等级](Saving_throw.md#The_Difficulty_Class_of_Saving_Throws "Saving Throw")和[法术](Spell.md "Spell")[攻击掷骰](Attack_roll.md "Attack Roll")。
 
 这是法师坦瑟（Tenser）在加入名为“八人会”（Circle of Eight）的杰出法师组织时所穿装备的一部分。
 
@@ -18,7 +18,7 @@
 每[短休](Short_rest.md "Short Rest")一次吸收元素伤害。对下一次针对你的元素攻击承受一半伤害，并在你的下一次攻击中额外造成 1d6 点该元素类型的伤害。（充能：[短休](Short_rest.md "Short rest")。）
 
 [奥术增强](Arcane_Enchantment_(+1).md)
-你获得对[法术豁免DC](Spell_save_DC.md "Spell Save DC")和[法术攻击](Spell_Attack.md "Spell Attack")掷骰的 +1 奖励。
+你获得对[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")和[法术攻击](Spell_Attack.md "Spell Attack")掷骰的 +1 奖励。
 
 ## 获取地点
 

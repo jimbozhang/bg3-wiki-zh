@@ -26,7 +26,7 @@
 
 持续时间：3回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 
 - 在[攻击掷骰](Attack_roll.md "Attack Roll")和[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "Disadvantage")。
 - 每回合，必须成功通过一次[豁免检定](Saving_throw.md "Saving Throw")，否则中毒将进入下一阶段。成功3次后，状态恢复。失败3次后，将感染与所施放的[疫病术](Contagion.md "Contagion")变体相对应的疾病。

@@ -107,7 +107,7 @@
 | [跳跃戒指](Ring_of_Jumping.md "Ring of Jumping") | 0.05 kg 0.1 lb | 55 | [强化跳跃](Enhance_Leap.md "Enhance Leap") 作为1环法术施放（[短休](Short_rest.md "Short rest")后充能。） |
 | [精神抑制之戒](Ring_of_Mental_Inhibition.md "Ring of Mental Inhibition") | 0.05 kg 0.1 lb | 40 | [精神抑制](Mental_Inhibition.md "Mental Inhibition")当敌人对你的法术或动作的[豁免检定](Saving_throw.md "Saving throw")失败时，他们会获得持续2回合的[精神疲劳](Mental_Fatigue_(Condition).md "Mental Fatigue (Condition)")。 |
 | [慰藉之戒](Ring_of_Salving.md "Ring of Salving") | 0.05 kg 0.1 lb | 40 | [救急扶伤](Saviour's_Allure.md "Saviour's Allure")你每次治疗另一个生物时，会额外恢复2点[治疗](Healing.md "治疗")。 |
-| [自我献祭](Ring_of_Self_Immolation.md "Ring of Self Immolation") | 0.05 kg 0.1 lb | 40 | [自我献祭](Self_Immolation.md "Self Immolation") 点燃自己以获得[炽热](Heat_(Condition).md "Heat (Condition)")。([短休](Short_rest.md "Short rest")后充能。) |
+| [自我献祭](Ring_of_Self_Immolation.md "Ring of Self Immolation") | 0.05 kg 0.1 lb | 40 | [自我献祭](Self_Immolation.md "Self Immolation") 点燃自己以获得[灼热](Heat_(Condition).md "灼热（状态）")。([短休](Short_rest.md "Short rest")后充能。) |
 | [暗影之戒](Ring_of_Shadows.md "Ring of Shadows") | 0.05 kg 0.1 lb | 70 | [行动无踪](Pass_Without_Trace.md "Pass Without Trace") 作为2环法术施放（[长休](Long_Rest.md "Long rest")后充能。） |
 | [恶之雷鸣戒指](Ring_of_Spiteful_Thunder.md "Ring of Spiteful Thunder") | 0.05 kg 0.1 lb | 40 | [恶之雷鸣](Spiteful_Thunder.md "Spiteful Thunder")当装备者对处于[残响](Reverberation_(Condition).md "Reverberation (Condition)")状态的生物造成伤害[[见：错误](Spiteful_Thunder#Bugs.md#Bugs "Spiteful Thunder")]时，除非该生物通过[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving throw")，否则会陷入[晕眩](Dazed_(Condition).md "Dazed (Condition)")。 |
 | [微光戒指](Seemingly_Gleaming_Ring.md "Seemingly Gleaming Ring") | 0.05 kg 0.1 lb | 45 | [魅力](Charisma.md "Charisma")[豁免检定](Saving_throw.md "Saving throw") +1 [感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "Saving throw") -1 |
@@ -155,7 +155,7 @@
 | [屠夫的甜心](Killer's_Sweetheart.md "Killer's Sweetheart") | 0.05 kg 0.1 lb | 140 | [处刑者](Executioner.md "Executioner")当你杀死一个生物时，你的下一次[攻击掷骰](Attack_roll.md "Attack roll")将是[重击](Critical_Hit.md "Critical Hit")。此效果消耗后，会在[长休](Long_Rest.md "Long Rest")后刷新。 |
 | [俄耳甫斯之戒](Orphic_Ring.md "Orphic Ring") | 0.05 kg 0.1 lb | 360 | [困惑](Confusion.md "Confusion") 作为5环法术施放（[长休](Long_Rest.md "Long rest")后充能。） |
 | [闪避戒指](Ring_of_Evasion.md "Ring of Evasion") | 0.05 kg 0.1 lb | 140 | [灵巧闪避](Dextrous_Evasion.md "Dextrous Evasion")当你[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")失败时，你可以使用你的[反应](Actions#Reactions.md#Reactions "Actions")来改为成功。 |
-| [妖精荒野火花戒](Ring_of_Feywild_Sparks.md "Ring of Feywild Sparks") | 0.05 kg 0.1 lb | 140 | 你获得+1[法术豁免DC](Spell_save_DC.md "Spell Save DC")加成[[见：错误](Ring_of_Feywild_Sparks#Bugs.md#Bugs "Ring_of_Feywild_Sparks")] [妖精荒野火花](Feywild_Sparks.md "Feywild Sparks")当你的术士[混沌之潮](Tides_of_Chaos.md "Tides of Chaos")特性激活时，你施放法术总是会触发[狂野魔法](Wild_Magic_(passive_feature).md "Wild Magic (passive feature)")。 |
+| [妖精荒野火花戒](Ring_of_Feywild_Sparks.md "Ring of Feywild Sparks") | 0.05 kg 0.1 lb | 140 | 你获得+1[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")加成[[见：错误](Ring_of_Feywild_Sparks#Bugs.md#Bugs "Ring_of_Feywild_Sparks")] [妖精荒野火花](Feywild_Sparks.md "Feywild Sparks")当你的术士[混沌之潮](Tides_of_Chaos.md "Tides of Chaos")特性激活时，你施放法术总是会触发[狂野魔法](Wild_Magic_(passive_feature).md "Wild Magic (passive feature)")。 |
 | [再生戒指](Ring_of_Regeneration.md "Ring of Regeneration") | 0.05 kg 0.1 lb | 360 | [战斗再生](Combat_Regeneration.md "Combat Regeneration")在你的回合开始时，戒指激活并治疗你1d4点[治疗](Healing.md "治疗")。 |
 
 [战斗再生](Combat_Regeneration.md "Combat Regeneration")

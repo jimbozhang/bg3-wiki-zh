@@ -12,8 +12,8 @@
 [眼柄动作](Spectator.md#Combat "观察者眼魔")
 详情：
 范围：18米（英尺）
-充能：每[驱散](Turn.md "驱散")
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+充能：每[驱散](Turned_(Condition).md "驱散")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 
 ## 如何习得
 

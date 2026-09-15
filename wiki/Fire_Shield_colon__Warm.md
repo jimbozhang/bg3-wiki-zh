@@ -4,7 +4,7 @@
 
 ## 描述
 
-灼热的火焰在 3 米（10 英尺）半径范围内散发光芒。你只承受所有 [寒冷](Cold.md "Cold") 伤害的 [抗性](Resistance.md "抗性")，并对任何用 [近战](melee.md "近战") 命中你的人造成 2d8 [火焰](Fire.md "Fire") 伤害。
+灼热的火焰在 3 米（10 英尺）半径范围内散发光芒。你只承受所有 [寒冷](Cold.md "Cold") 伤害的 [抗性](Resistance.md "抗性")，并对任何用 [近战](List_of_melee_weapons.md "近战") 命中你的人造成 2d8 [火焰](Fire.md "Fire") 伤害。
 
 ## 属性
 
@@ -45,7 +45,7 @@
 
 ## 备注
 
-- 如果攻击者造成 [重击](Critical Hit.md "Critical Hit")，火焰护盾：温暖的伤害将翻倍为 4d8 [火焰](Fire.md "Fire")。
+- 如果攻击者造成 [重击](Critical_Hit.md "Critical Hit")，火焰护盾：温暖的伤害将翻倍为 4d8 [火焰](Fire.md "Fire")。
 
 ---
 *Source: [Fire Shield: Warm](https://bg3.wiki/wiki/Fire_Shield:_Warm)*

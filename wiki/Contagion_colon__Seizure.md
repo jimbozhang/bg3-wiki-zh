@@ -1,6 +1,6 @@
 # 疫病术：癫痫
 
-**疫病术：癫痫** 是一个 [法术](Spells.md "法术")。此法术是5级死灵学派法术 [疫病术](Contagion.md "Contagion") 的一个变体。它允许施法者使敌人 [中毒](Poisoned.md "Poisoned")，并有可能使该状态进展为一种会 [吸过血](Sap.md "Sap") 目标 [敏捷](Dexterity.md "Dexterity") 的疾病。
+**疫病术：癫痫** 是一个 [法术](Spells.md "法术")。此法术是5级死灵学派法术 [疫病术](Contagion.md "Contagion") 的一个变体。它允许施法者使敌人 [中毒](Poisoned.md "Poisoned")，并有可能使该状态进展为一种会 [吸过血](Blood-Sapped_(Condition).md "Sap") 目标 [敏捷](Dexterity.md "Dexterity") 的疾病。
 
 ## 描述
 

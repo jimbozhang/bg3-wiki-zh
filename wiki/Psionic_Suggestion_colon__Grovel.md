@@ -22,7 +22,7 @@
 
 **[命令：匍匐](Command_colon__Grovel_(Condition).md "Command: Grovel (Condition)")**
 
-持续时间：1 [驱散](Turn.md "Turn")
+持续时间：1 [驱散](Turned_(Condition).md "Turn")
 
 [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免 DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 

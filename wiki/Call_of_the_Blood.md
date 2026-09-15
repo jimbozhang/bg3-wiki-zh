@@ -174,7 +174,7 @@ _你本该燃烧成灰烬的。_
 
 #### 阿拉吉·欧布罗扎
 
-在[月出之塔](Moonrise_Towers.md "Moonrise Towers")与[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")的遭遇在阿斯代伦作为出身游玩时具有独特之处。与他作为伙伴时一样，她开始对话时提出用一种基于血液的药水交换玩家角色的一瓶血。不同之处在于，在听到她的姓氏后，阿斯代伦，尽管不是[卓尔](Drow.md "Drow")，会进行一次 DC 14 [历史的](History.md "History") [属性检定](Ability_Check.md "属性检定")。成功会让他想起一百年前欧布罗扎家族被清洗的原因。<sup>[\[1\]](#cite_note-1)</sup> 他还会意识到她想要的正是来自[真魂者](True_Soul.md "True Soul")的血，因为这样的人血管里有夺心魔的特征。<sup>[\[2\]](#cite_note-2)</sup> 强调这一点后，阿拉吉·欧布罗扎不仅会提供药水，还会提供 200 [金币](Gold.md "Gold") 以换取他的沉默。
+在[月出之塔](Moonrise_Towers.md "Moonrise Towers")与[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")的遭遇在阿斯代伦作为出身游玩时具有独特之处。与他作为伙伴时一样，她开始对话时提出用一种基于血液的药水交换玩家角色的一瓶血。不同之处在于，在听到她的姓氏后，阿斯代伦，尽管不是[卓尔](Drow.md "Drow")，会进行一次 DC 14 [历史](History.md "History") [属性检定](Ability_Check.md "属性检定")。成功会让他想起一百年前欧布罗扎家族被清洗的原因。<sup>[\[1\]](#cite_note-1)</sup> 他还会意识到她想要的正是来自[真魂者](True_Soul.md "True Soul")的血，因为这样的人血管里有夺心魔的特征。<sup>[\[2\]](#cite_note-2)</sup> 强调这一点后，阿拉吉·欧布罗扎不仅会提供药水，还会提供 200 [金币](Gold.md "Gold") 以换取他的沉默。
 
 在讨论了她的实验之后，阿拉吉仍然将话题转向阿斯代伦的本性。作为出身，他可以自己选择是否吸食她的血。尽管品尝阿拉吉的血会得到与作为伙伴时相同的结果，但对话自然不会设想任何游说检定或伙伴好感度变化，更不用说破坏浪漫关系了。因此，对于作为出身的阿斯代伦来说，获得[精灵优雅灵药](Elixir_of_Elven_Elegance.md "Elixir of Elven Elegance")和[永久活力药水](Potion_of_Everlasting_Vigour.md "Potion of Everlasting Vigour")是完全安全的（尽管不愉快）。
 

@@ -6,7 +6,7 @@
 
 ## 黑暗女士的愤怒来源
 
-- 在第二章的[莎尔信徒庇护所](Sharran_Sanctuary.md "莎尔信徒庇护所")中，对[莎尔的雕像](Statue_of_Shar.md "莎尔的雕像")进行[属性检定](Ability_Check.md "属性检定")失败后获得。
+- 在第二章的[莎尔信徒庇护所](Sharran_Sanctuary.md "莎尔信徒庇护所")中，对莎尔的雕像进行[属性检定](Ability_Check.md "属性检定")失败后获得。
 
 ---
 *Source: [Dark Lady's Ire (Condition)](https://bg3.wiki/wiki/Dark_Lady's_Ire_(Condition)*

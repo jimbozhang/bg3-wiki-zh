@@ -11,7 +11,7 @@
 ## 属性
 
 详情：
-充能：每 [驱散](Turn.md "Turn")
+充能：每 [驱散](Turned_(Condition).md "Turn")
 
 ## 学习方式
 

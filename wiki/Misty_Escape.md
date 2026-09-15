@@ -6,7 +6,7 @@
 
 ## 描述
 
-受到伤害时，使用[障眼薄雾](Cloaking_Mist.md "障眼薄雾")进入\_(状态)[隐形](Invisible_(Misty_Escape)_(Condition).md "隐形 (雾遁) (状态)")状态。在你的下一个[驱散](Turn.md "驱散")，你可以施放[迷踪步](Misty_Step.md "迷踪步")，但这会打破你的隐形状态。
+受到伤害时，使用[障眼薄雾](Cloaking_Mist.md "障眼薄雾")进入\_(状态)[隐形](Invisible_(Misty_Escape)_(Condition).md "隐形 (雾遁) (状态)")状态。在你的下一个[驱散](Turned_(Condition).md "驱散")，你可以施放[迷踪步](Misty_Step.md "迷踪步")，但这会打破你的隐形状态。
 
 ### 详情
 

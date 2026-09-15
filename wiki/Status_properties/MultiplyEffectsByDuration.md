@@ -19,7 +19,7 @@
 [奥术敏锐](../Arcane_Acuity_(Condition).md "奥术敏锐（状态）")
 |
 
-- 受影响实体每剩余一回合，其 [法术](../Spells.md "法术") [攻击掷骰](../Attack_roll.md "攻击掷骰") 和 [法术豁免DC](../Saving_throw.md#The_Difficulty_Class_of_saving_throws "豁免检定") 获得 +1 奖励。
+- 受影响实体每剩余一回合，其 [法术](../Spells.md "法术") [攻击掷骰](../Attack_roll.md "攻击掷骰") 和 [法术豁免难度等级](../Saving_throw.md#The_Difficulty_Class_of_saving_throws "豁免检定") 获得 +1 奖励。
 - 每次实体受到伤害时，持续时间减少 2。
 - **奥术敏锐** 最大持续时间：10 回合。
 

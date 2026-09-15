@@ -1,8 +1,8 @@
-# Sszaryn
+# 萨扎林
 
 | | |
 | --- | --- |
-| 全名 | Sszaryn |
+| 全名 | 萨扎林 |
 | 性别 | 男性 |
 | 声优 / 演员 | [George Taylor](https://www.imdb.com/name/nm4122118/) |
 | 体型 | [中级](Medium.md "中级") |

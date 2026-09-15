@@ -47,7 +47,7 @@
 10 + [感知](Wisdom.md "感知")调整值 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")（若熟练）+ 其他加值。
 [洞悉](Insight.md "洞悉")检定（或一般感知检定）的[优势](Advantage.md "优势")会使此DC获得+5的固定加值，而[劣势](Disadvantage.md "劣势")会使DC降低5。
 
-- 任何地方均未说明，但当除海盗外的任何生物攻击或以[有害](IsHarmful_(spell_flag)能力针对受影响实体时.md)，[魅惑之术：劣势](Panache_colon__Disadvantage_(Condition).md "魅惑之术：劣势（状态）")状态会被移除。
+- 任何地方均未说明，但当除海盗外的任何生物攻击或以[有害](IsHarmful_(spell_flag).md)能力针对受影响实体时，[魅惑之术：劣势](Panache_colon__Disadvantage_(Condition).md "魅惑之术：劣势（状态）")状态会被移除。
 - 动作描述中未说明，但在更高难度模式下，目标可能会指控施法者对其施放了魅惑法术。
 
 ## 错误

@@ -2,7 +2,7 @@
 
 注意不要与[脆弱诅咒武器誓缚](Bind_Hexed_Weapon.md "脆弱诅咒武器誓缚")混淆
 
-**刃之魔契誓缚**是[邪术师](Warlock.md "邪术师")在3级选择[刃之魔契](Pact_of_the_Blade_(passive_feature)时可用的职业动作.md)。此动作用于绑定现有武器——若要召唤新武器，请使用[刃之魔契](Pact_of_the_Blade.md "刃之魔契")。
+**刃之魔契誓缚**是[邪术师](Warlock.md "邪术师")在3级选择[刃之魔契](Pact_of_the_Blade_(passive_feature).md)时可用的职业动作。此动作用于绑定现有武器——若要召唤新武器，请使用[刃之魔契](Pact_of_the_Blade.md "刃之魔契")。
 
 ## 描述
 

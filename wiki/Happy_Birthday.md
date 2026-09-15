@@ -18,7 +18,7 @@
 
 - UID `BOOK_LOW_Graveyard_HappyBirthdayNote` UUID `2d5ce8f7-c01d-4d05-acc3-b4fbb2463591` ## 获取地点
 
-- 在[下城区](Lower_City.md "下城区")的[墓园](Graveyard_(Lower_City)中的一座坟墓上找到.md)，坐标 X: 24 Y: 14。
+- 在[下城区](Lower_City.md "下城区")的[墓园](Graveyard_(Lower_City).md)中的一座坟墓上找到，坐标 X: 24 Y: 14。
 
 ## 文本
 

@@ -17,7 +17,7 @@
 
 此物品的穿戴者获得：
 
-- **[立如磐石](Stand_Like_Stone.md "Stand Like Stone")：** 消耗1[驱散](Turn.md "Turn")的[导力](Force_Conduit_(Condition).md "导力 (状态)")，成为一个无法被非自愿移动的坚固壁垒（充能：[短休](Short_rest.md "短休")）。
+- **[立如磐石](Stand_Like_Stone.md "Stand Like Stone")：** 消耗1[驱散](Turned_(Condition).md "Turn")的[导力](Force_Conduit_(Condition).md "导力 (状态)")，成为一个无法被非自愿移动的坚固壁垒（充能：[短休](Short_rest.md "短休")）。
 - [运动](Athletics.md "Athletics") +1
 
 ## 备注

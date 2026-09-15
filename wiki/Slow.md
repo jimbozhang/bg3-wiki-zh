@@ -26,7 +26,7 @@
 
 持续时间：10回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - [移动速度](Movement_speed.md "移动速度")减半
 - [护甲等级](Armour_Class.md "护甲等级")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")降低2点

@@ -28,7 +28,7 @@ AoE：9米（30英尺）锥形
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 - 必须逃离恐惧来源，且无法采取任何额外动作。
@@ -40,7 +40,7 @@ AoE：9米（30英尺）锥形
 
 持续时间：1回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 敌人使你将武器掉落在地，类似于[缴械](Disarmed_(Condition).md "缴械（状态）")。
 

@@ -6,7 +6,7 @@
 
 ## 描述
 
-立即反击攻击者。如果[死亡使者的遗赠](Deathbringer_Legacy_(Condition).md "死亡使者的遗赠（状态）")处于激活状态，则改用[死亡使者袭击](Deathbringer_Assault.md "死亡使者袭击")。
+立即反击攻击者。如果[死亡使者的遗赠](Deathbringer's_Legacy_(Condition).md "死亡使者的遗赠（状态）")处于激活状态，则改用[死亡使者袭击](Deathbringer_Assault.md "死亡使者袭击")。
 
 ## 属性
 

@@ -55,7 +55,7 @@
 
 攻击离开触及范围的敌人。
 
-**吉拉**是[安博里](Umberlee.md "安博里")的[暗破者](Dark_Breaker.md "暗破者")，可以在[博德之门](Baldur's Gate.md "博德之门")的[下城区](Lower_City.md "下城区")的[第三幕](Act_Three.md "第三幕")中找到。
+**吉拉**是[安博里](Umberlee.md "安博里")的[暗破者](Dark_Breaker.md "暗破者")，可以在[博德之门](Baldur's_Gate.md "博德之门")的[下城区](Lower_City.md "下城区")的[第三幕](Act_Three.md "第三幕")中找到。
 
 ## 目录
 

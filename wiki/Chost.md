@@ -64,7 +64,7 @@
 
 - [**射击术**](Archery.md "Archery")
 
-使用远程[武器](Weapons.md "Weapons")进行[攻击检定](Attack_roll.md "Attack roll")时获得 +2 加值。
+使用远程[武器](Weapons.md "Weapons")进行[攻击掷骰](Attack_roll.md "Attack roll")时获得 +2 加值。
 
 - [**灵能强化**](Psionic_Empowerment.md "Psionic Empowerment")
 

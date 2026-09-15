@@ -35,7 +35,7 @@
 
 ## 备注
 
-- 吐息攻击使用[法术豁免DC](Spell_save_DC.md "法术豁免DC")，该DC基于[体质](Constitution.md "体质")计算。这意味着，尽管施法能力不寻常，吐息攻击仍受益于[任何提升法术豁免DC的效果](List_of_sources_that_affect_Spell_Save_DC.md "影响法术豁免DC的来源列表")。
+- 吐息攻击使用[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")，该DC基于[体质](Constitution.md "体质")计算。这意味着，尽管施法能力不寻常，吐息攻击仍受益于[任何提升法术豁免难度等级的效果](List_of_sources_that_affect_Spell_Save_DC.md "影响法术豁免难度等级的来源列表")。
 
 ## 相关物品
 

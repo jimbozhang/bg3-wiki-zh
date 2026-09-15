@@ -47,7 +47,7 @@
 可在黑暗中视物，范围 12 米（40 英尺）。
 
 [工匠的知识](Artificer's_Lore.md "工匠的知识")
-在[历史的](History.md "历史的")检定上添加两次你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
+在[历史](History.md "历史")检定上添加两次你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")。
 
 ### 森林侏儒
 

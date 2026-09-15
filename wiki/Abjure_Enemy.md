@@ -1,6 +1,6 @@
 # 破胆斥喝
 
-**破胆斥喝**是[复仇之誓](Oath_of_Vengeance.md "复仇之誓")圣武士的职业动作。此能力允许他们[恐慌](Frightened_(Condition)一名敌人.md)。
+**破胆斥喝**是[复仇之誓](Oath_of_Vengeance.md "复仇之誓")圣武士的职业动作。此能力允许他们[恐慌](Frightened_(Condition).md)一名敌人。
 
 ## 描述
 
@@ -22,7 +22,7 @@
 
 持续时间：3回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 受影响的生物无法移动。恐慌生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上也具有[劣势](Disadvantage.md "劣势")。
 

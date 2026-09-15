@@ -20,7 +20,7 @@
 
 ## 备注
 
-- 每 [驱散](Turn.md "驱散")，此区域会在其半径内创造一个 [冰冻](Frozen.md "冰冻") 的 [冰](Ice_(surface).md "冰 (地表)")，并导致正在 [专注](Concentration.md "专注") 施法的施法者进行一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将失去专注。
+- 每 [驱散](Turned_(Condition).md "驱散")，此区域会在其半径内创造一个 [冰冻](Frozen_(Condition).md "冰冻") 的 [冰](Ice_(surface).md "冰 (地表)")，并导致正在 [专注](Concentration.md "专注") 施法的施法者进行一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")，否则将失去专注。
 
 ---
 *Source: [Sleet Storm (area)](https://bg3.wiki/wiki/Sleet_Storm_(area)*

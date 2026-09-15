@@ -29,7 +29,7 @@ UID `MAG_CQCaster_GainArcaneChargeOnDamage_Quarterstaff` UUID `26c24ccf-8f4a-44a
 **持有此物品者获得：**
 
 [积聚](Accretion.md "Accretion")
-当穿戴者使用近战范围法术或近战范围[戏法](Cantrip.md "Cantrip")造成伤害时，获得[奥术充能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")。
+当穿戴者使用近战范围法术或近战范围[戏法](Cantrip.md "Cantrip")造成伤害时，获得[奥术蓄能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")。
 
 ### 武器动作
 

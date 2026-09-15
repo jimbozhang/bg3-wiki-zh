@@ -40,13 +40,13 @@
 
 [吟游诗人](Bard.md "吟游诗人")
 
-- 均衡
+- 平衡
 
-- 探险家
+- 探索者
 
 - 战术家
 
-## 均衡难度属性
+## 平衡难度属性
 
 ### 等级
 
@@ -114,7 +114,7 @@
 
 你的移动速度为 7.5 m (25 ft)。
 
-## 探险家难度属性
+## 探索者难度属性
 
 ### 等级
 
@@ -290,7 +290,7 @@ Calliope 与 [银舌维奥拉](Viola_Silvertongue.md "银舌维奥拉") 一同�
 ### 攻击与能力
 
 [灾祸术](Bane_(spell).md "灾祸术") (+ )
-最多 3 个生物在[攻击检定](Attack_roll.md "攻击检定")和[豁免检定](Saving_throw.md "豁免检定")上受到 **-1d4** 的惩罚。
+最多 3 个生物在[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")上受到 **-1d4** 的惩罚。
 
 [魅力](Charisma.md "魅力")[豁免](Saving_throws.md "豁免检定")
 射程: 9 m (30 ft)
@@ -299,7 +299,7 @@ Calliope 与 [银舌维奥拉](Viola_Silvertongue.md "银舌维奥拉") 一同�
 | --- | --- | --- | --- | --- | --- |
 | 0 | +3 | +1 | +1 | +2 | +6 |
 
-用你的表演激励一位盟友超越其能力。他们可以在下一次[攻击检定](Attack_roll.md "攻击检定")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中加上 +1d6 的加值。
+用你的表演激励一位盟友超越其能力。他们可以在下一次[攻击掷骰](Attack_roll.md "攻击掷骰")、[属性检定](Ability_Check.md "属性检定")或[豁免检定](Saving_throw.md "豁免检定")中加上 +1d6 的加值。
 
 演奏一曲以吸引并取悦周围的人。
 
@@ -309,7 +309,7 @@ Calliope 与 [银舌维奥拉](Viola_Silvertongue.md "银舌维奥拉") 一同�
 
 1d4⁠[心灵](Psychic.md "心灵")
 
-侮辱一个生物：它在下一次⁠[攻击检定](Attack_roll.md "攻击检定")中具有[劣势](Disadvantage.md "劣势")。
+侮辱一个生物：它在下一次⁠[攻击掷骰](Attack_roll.md "攻击掷骰")中具有[劣势](Disadvantage.md "劣势")。
 
 [感知](Wisdom.md "感知")[豁免](Saving_throws.md "豁免检定")
 射程: 18 m (60 ft)

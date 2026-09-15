@@ -1,6 +1,6 @@
 # 古代陵墓
 
-**古代陵墓**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。可以通过下城区[墓园](Graveyard_(Lower_City)中标记为.md)**大陵寝**的陵墓进入，注意不要与完全不同的地点[大陵寝](Grand_Mausoleum.md "大陵寝")混淆。
+**古代陵墓**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")的一个[地点](Location.md "地点")。可以通过下城区[墓园](Graveyard_(Lower_City).md)中标记为**大陵寝**的陵墓进入，注意不要与完全不同的地点[大陵寝](Grand_Mausoleum.md "大陵寝")混淆。
 
 ## 目录
 
@@ -12,7 +12,7 @@
 
 ## 进入方式
 
-古代陵墓可以通过下城区的[墓园](Graveyard_(Lower_City)进入.md)，位于其西侧坐标 X: -9 Y: 36 处。需要[古代陵墓钥匙](Ancient_Mausoleum_Key.md "古代陵墓钥匙")或 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来打开大门。
+古代陵墓可以通过下城区的[墓园](Graveyard_(Lower_City).md)进入，位于其西侧坐标 X: -9 Y: 36 处。需要[古代陵墓钥匙](Ancient_Mausoleum_Key.md "古代陵墓钥匙")或 DC 10 的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")来打开大门。
 
 ## 概述
 

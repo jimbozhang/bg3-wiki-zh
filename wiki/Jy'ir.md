@@ -1,4 +1,4 @@
-# Jy'ir
+# 吉尔
 
 | | |
 | --- | --- |
@@ -131,4 +131,4 @@ Jy'ir最多可以使用四枚[卓越骰子](Battle_Master.md#Level_3 "Battle Mas
 - [镶钉皮甲](Studded_Leather_Armour.md "Studded Leather Armour")
 
 ---
-*Source: [Jy'ir](https://bg3.wiki/wiki/Jy'ir)*
+*Source: [吉尔](https://bg3.wiki/wiki/Jy'ir)*

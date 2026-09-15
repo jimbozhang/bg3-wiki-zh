@@ -13,7 +13,7 @@
 ## 属性
 
 消耗
-[动作](Actions.md#Resources.md "动作")
+[动作](Action.md "动作")
 详情
 范围：18米（60英尺）
 充能：[短休](Short_rest.md "短休")

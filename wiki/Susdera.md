@@ -28,7 +28,7 @@
 
 ### 状态
 
-- [**法师护甲**](Mage_Armour_(Condition).md "法师护甲 (状态)")
+- [**魔法护甲**](Mage_Armour_(Condition).md "魔法护甲 (状态)")
 
 基础 [护甲等级](Armour_Class.md "护甲等级") 为 13。
 

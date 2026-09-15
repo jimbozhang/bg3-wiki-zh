@@ -33,7 +33,7 @@
 
 ## 流程攻略
 
-在鹦鹉螺上与小魔鬼的第一场战斗之后，队伍必须进入一个房间，里面有两名被夺心魔弄昏的受害者，一名[高精灵](Sacrificed_Cultist_(High_Elf)和一.md)名[人类](Sacrificed_Cultist_(Human).md)。在房间的东北侧，[影心](Shadowheart.md "Shadowheart")被困在一个夺心魔贮囊里。
+在鹦鹉螺上与小魔鬼的第一场战斗之后，队伍必须进入一个房间，里面有两名被夺心魔弄昏的受害者，一名[高精灵](Sacrificed_Cultist_(High_Elf).md)和一名[人类](Sacrificed_Cultist_(Human).md)。在房间的东北侧，[影心](Shadowheart.md "Shadowheart")被困在一个夺心魔贮囊里。
 
 如果与影心交谈，她会建议尝试使用附近的面板打开贮囊。队伍可以尝试以下选项之一来物理释放她：
 

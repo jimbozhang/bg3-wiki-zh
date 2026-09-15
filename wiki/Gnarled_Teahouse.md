@@ -203,7 +203,7 @@
 
 许多尖刺陷阱分布在溪流水道的深水区，可以通过DC 15的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")探测到。激活这些陷阱不会移除湿地上的幻象。
 
-触发时，它们会造成[流血](Bleeding_(Condition).md "流血（状态）")和[开放性伤口](Open_Wound_(Condition).md "开放性伤口（状态）")，且无[豁免检定](Saving_throw.md "豁免检定")。后者的持续时间结束后，需要通过DC 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")来克服该状态，否则它会恶化为[腐烂](Rotting_(Condition).md "腐烂（状态）")，然后变为[肉体腐烂](Flesh_Rot_(Condition).md "肉体腐烂（状态）")。这些状态具有相同的豁免检定要求；肉体腐烂可能会被多次施加，直到成功通过豁免检定。开放性伤口可以通过任何类型的[治愈真言](Healing_Word.md "治愈真言")治愈，防止其恶化，但进一步的状态需要对[患病](Diseased_(status_group)角色进行治疗.md)，例如[恢复](Lesser_Restoration.md "恢复")、[圣疗](Lay_on_Hands.md "圣疗")或[活力药水](Potion_of_Vitality.md "活力药水")。
+触发时，它们会造成[流血](Bleeding_(Condition).md "流血（状态）")和[开放性伤口](Open_Wound_(Condition).md "开放性伤口（状态）")，且无[豁免检定](Saving_throw.md "豁免检定")。后者的持续时间结束后，需要通过DC 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")来克服该状态，否则它会恶化为[腐烂](Rotting_(Condition).md "腐烂（状态）")，然后变为[肉体腐烂](Flesh_Rot_(Condition).md "肉体腐烂（状态）")。这些状态具有相同的豁免检定要求；肉体腐烂可能会被多次施加，直到成功通过豁免检定。开放性伤口可以通过任何类型的[治愈真言](Healing_Word.md "治愈真言")治愈，防止其恶化，但进一步的状态需要对[患病](Diseased_(status_group).md)角色进行治疗，例如[次级复原术](Lesser_Restoration.md "恢复")、[圣疗](Lay_on_Hands.md "圣疗")或[活力药水](Potion_of_Vitality.md "活力药水")。
 
 陷阱在触发后不会被移除，除非通过DC 10的[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")解除，否则它们会继续伤害队伍。由于陷阱数量众多，建议远离深水区以避开它们，而不是在解除时可能浪费[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")。
 

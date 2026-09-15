@@ -90,7 +90,7 @@
 
 - [**双持客**](../Dual_Wielder.md "双持客")
 
-即使使用非[轻型](../Light_(weapon_property)的单手武器.md)，也可以使用双武器战斗。
+即使使用非[轻型](../Light_(weapon_property).md)的单手武器，也可以使用双武器战斗。
 
 - [**双持客：附赠护甲等级**](../Dual_Wielder_colon__Bonus_Armour_Class.md "双持客：附赠护甲等级")
 
@@ -196,7 +196,7 @@
 
 - [**双持客**](../Dual_Wielder.md "双持客")
 
-即使使用非[轻型](../Light_(weapon_property)的单手武器.md)，也可以使用双武器战斗。
+即使使用非[轻型](../Light_(weapon_property).md)的单手武器，也可以使用双武器战斗。
 
 - [**双持客：附赠护甲等级**](../Dual_Wielder_colon__Bonus_Armour_Class.md "双持客：附赠护甲等级")
 
@@ -302,7 +302,7 @@
 
 - [**双持客**](../Dual_Wielder.md "双持客")
 
-即使使用非[轻型](../Light_(weapon_property)的单手武器.md)，也可以使用双武器战斗。
+即使使用非[轻型](../Light_(weapon_property).md)的单手武器，也可以使用双武器战斗。
 
 - [**双持客：附赠护甲等级**](../Dual_Wielder_colon__Bonus_Armour_Class.md "双持客：附赠护甲等级")
 
@@ -466,7 +466,7 @@ UUID
 
 由[罗扎克](../Rozzak.md "罗扎克")和[斯格鲁特](../Skrut.md "斯格鲁特")陪同，明萨拉可以在[破碎圣所](../Shattered_Sanctum.md "破碎圣所")东北角的战争桌旁找到，坐标 X: 333 Y: 42，她正在策划对[翠绿林地](../Emerald_Grove.md "翠绿林地")的攻击。如果[萨扎](../Sazza.md "萨扎")存活并事先被释放，她可能会加入明萨拉的桌子。一个[探知之眼](../Scrying_Eye.md "探知之眼")在图书馆和战争桌之间的区域巡逻，任何敌对行动都会惊动它，进而可能惊动附近的敌人。禁用探知之眼，例如将其推入附近的深渊，是最可靠的解决方案。战争桌附近，俯瞰最北端的深渊处，有一个[战鼓](../Goblin_Camp.md#War_Drum: "地精营地")。敌对的地精会试图用它来警告大范围内的盟友，包括整个[德罗尔·拉格兹林](../Dror_Ragzlin.md "德罗尔·拉格兹林")王座室。如果[祖尔伽](../Zurga.md "祖尔伽")在战斗开始时正在附近巡逻，她也可能加入。最好在战斗开始前隐秘地摧毁战鼓。
 
-明萨拉可以施放一系列[圣武士](../Paladin.md "圣武士")和通用法术：她的标志性[灵魂烙印](../Soul_Branding.md "灵魂烙印")以增强自己或盟友，以及[迷踪步](../Misty_Step.md "迷踪步")进行传送、[人类定身术](../Hold_Person.md "人类定身术")使敌人失能、对盟友施放[祝福术](../Bless.md "祝福术")、对敌人施放[仇敌誓言](../Vow_of_Enmity.md "仇敌誓言")，以及[圣疗：高等治疗](../Lay_on_Hands_colon__Greater_Healing.md "圣疗：高等治疗")以恢复自己或盟友的大量生命值。由于她的硬头锤[艾克斯阎蒂](../Xyanyde.md "艾克斯阎蒂")，她每[短休](../Short_rest.md "短休")一次可以在攻击未命中后将目标包裹在[妖火](../Faerie_Fire_(Condition)中.md)，同时由于她的[跨步之靴](../Boots_of_Striding.md "跨步之靴")，她在[专注](../Concentrating.md "专注")时免疫被推动或击[倒伏](../Prone_(Condition).md)。她双手各持一件武器，并拥有[额外攻击](../Extra_Attack.md "额外攻击")，可以在一回合内施放[至圣斩](../Divine_Smite.md "至圣斩")多达3次，使她成为一个强大的对手。
+明萨拉可以施放一系列[圣武士](../Paladin.md "圣武士")和通用法术：她的标志性[灵魂烙印](../Soul_Branding.md "灵魂烙印")以增强自己或盟友，以及[迷踪步](../Misty_Step.md "迷踪步")进行传送、[人类定身术](../Hold_Person.md "人类定身术")使敌人失能、对盟友施放[祝福术](../Bless.md "祝福术")、对敌人施放[仇敌誓言](../Vow_of_Enmity.md "仇敌誓言")，以及[圣疗：高等治疗](../Lay_on_Hands_colon__Greater_Healing.md "圣疗：高等治疗")以恢复自己或盟友的大量生命值。由于她的硬头锤[艾克斯阎蒂](../Xyanyde.md "艾克斯阎蒂")，她每[短休](../Short_rest.md "短休")一次可以在攻击未命中后将目标包裹在[妖火](../Faerie_Fire_(Condition).md)中，同时由于她的[跨步之靴](../Boots_of_Striding.md "跨步之靴")，她在[专注](../Concentrating.md "专注")时免疫被推动或击[倒伏](../Prone_(Condition).md)。她双手各持一件武器，并拥有[额外攻击](../Extra_Attack.md "额外攻击")，可以在一回合内施放[至圣斩](../Divine_Smite.md "至圣斩")多达3次，使她成为一个强大的对手。
 
 ## 战术
 

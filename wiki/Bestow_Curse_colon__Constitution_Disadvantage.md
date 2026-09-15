@@ -25,7 +25,7 @@
 
 持续时间：10驱散
 
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 在使用[体质](Constitution.md "Constitution")的[属性检定](Ability_Check.md "Ability Check")和[豁免检定](Saving_throw.md "Saving Throw")上承受[劣势](Disadvantage.md "Disadvantage")。
 

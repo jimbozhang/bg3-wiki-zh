@@ -5,7 +5,7 @@
 - 体温持续升高。使用力量的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。
 - 持续时间结束时，进行一次[掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。失败将施加状态[污秽热病](Filth_Fever_(Condition).md "污秽热病 (状态)")。
 
-[患病](Diseased_(状态组).md)
+[患病](Diseased_(status_group).md)
 
 ## 属性
 
@@ -17,11 +17,11 @@
 
 ## 备注
 
-- 此状态在拥有[胃部不适 (状态)](Upset_Stomach_(状态)时.md)，体质豁免检定失败后施加。
+- 此状态在拥有胃部不适 (状态)，体质豁免检定失败后施加。
 
 ## 发烧的来源
 
-- [胃部不适](Upset_Stomach_(状态).md "胃部不适 (状态)")
+- [胃部不适](Upset_Stomach_(Condition).md "胃部不适 (状态)")
 
 ## 拥有发烧状态的生物
 
@@ -31,7 +31,7 @@ _维基数据库中未定义_
 
 | 状态 | 效果 |
 | --- | --- |
-| 发烧 | 体温持续升高。使用力量的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。持续时间结束时，进行一次[DC](Dice_rolls#Save_DCs.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。失败将施加状态[污秽热病](Filth_Fever_(状态).md "污秽热病 (状态)")。 |
+| 发烧 | 体温持续升高。使用力量的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。持续时间结束时，进行一次[DC](Dice_rolls#Save_DCs.md#Save_DCs "骰子掷骰") 15的[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")。失败将施加状态[污秽热病](Filth_Fever_(Condition).md "污秽热病 (状态)")。 |
 
 ---
 *Source: [Feverish (Condition)](https://bg3.wiki/wiki/Feverish_(Condition)*

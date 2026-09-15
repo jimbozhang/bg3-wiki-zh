@@ -42,7 +42,7 @@
 
 **[棘墙术](Wall_of_Thorns_(Condition).md "棘墙术（状态）")**
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 穿行于柔韧、扭曲的荆棘墙中。
 
@@ -69,7 +69,7 @@
 ## 错误
 
 - 游戏内工具提示显示持续时间为1回合，但这是错误的：它可以持续到[长休](Long_Rest.md "长休")。
-- 棘墙术的法术豁免DC固定为3，缠绕藤蔓的为12。
+- 棘墙术的法术豁免难度等级固定为3，缠绕藤蔓的为12。
 - 移动速度减半而非降至四分之一。
 
 ## 外部链接

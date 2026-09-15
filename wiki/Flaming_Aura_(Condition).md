@@ -30,7 +30,7 @@
 |
 
 - 生物站在炽焰法球3米（10英尺）范围内，将在其驱散结束时受到6d6⁠⁠[火焰](Fire.md "火焰")伤害。如果第二次通过豁免，仍会受到一半伤害。
-- [敏捷](Dexterity.md "敏捷")豁免，基于使用者的[感知](Wisdom.md "感知")法术豁免DC。
+- [敏捷](Dexterity.md "敏捷")豁免，基于使用者的[感知](Wisdom.md "感知")法术豁免难度等级。
 
 ---
 *Source: [Flaming Aura (Condition)](https://bg3.wiki/wiki/Flaming_Aura_(Condition)*

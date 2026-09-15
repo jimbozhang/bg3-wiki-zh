@@ -61,7 +61,7 @@
 >
 > „
 
-— [主脑](The_Netherbrain.md "主脑")
+— [耐色脑](The_Netherbrain.md "主脑")
 
 ### 君主统治
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-当你用近战武器攻击造成 [重击](Critical_Hit.md "重击") 或击杀目标时，你可以在该 [驱散](Turn.md "驱散") 使用 [附赠动作](Actions.md#Resources "动作") 进行另一次近战武器攻击。
+当你用近战武器攻击造成 [重击](Critical_Hit.md "重击") 或击杀目标时，你可以在该 [驱散](Critical_Hit.md "驱散") 使用 [附赠动作](Actions.md#Resources "动作") 进行另一次近战武器攻击。
 
 ## 状态：巨武器大师：附赠攻击
 
@@ -26,7 +26,7 @@
 
 - 此被动不需要 [双手](Two-Handed.md "双手") 或 [两用](Versatile.md "两用") 武器，并且允许使用任何近战武器进行 [附赠动作](Actions.md#Resources "动作") 攻击。
 - [巨武器大师：全力一击](Great_Weapon_Master_colon__All_In.md "巨武器大师：全力一击") 无需启用即可触发此被动。
-- 可以在一次 [驱散](Turn.md "驱散") 内多次触发，但不能由 [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack_(attack).md "巨武器大师：附赠攻击（攻击）") 触发。
+- 可以在一次 [驱散](Great_Weapon_Master_colon__Bonus_Attack_(attack).md "驱散") 内多次触发，但不能由 [巨武器大师：附赠攻击](Great_Weapon_Master_colon__Bonus_Attack_(attack).md "巨武器大师：附赠攻击（攻击）") 触发。
 
 ---
 *Source: [Great Weapon Master: Bonus Attack](https://bg3.wiki/wiki/Great_Weapon_Master:_Bonus_Attack)*

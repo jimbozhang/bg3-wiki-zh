@@ -6,7 +6,7 @@
 
 ## 描述
 
-如果维康妮亚在 [黑暗术](Darkness.md "黑暗术") 中结束她的 [驱散](Turn.md "驱散")，她将获得 [失落庇护](Sanctuary_of_Loss_(Condition).md "失落庇护 (状态)")。
+如果维康妮亚在 [黑暗术](Darkness.md "黑暗术") 中结束她的 [驱散](Sanctuary_of_Loss_(Condition).md "驱散")，她将获得 [失落庇护](Sanctuary_of_Loss_(Condition).md "失落庇护 (状态)")。
 
 维康妮亚可以使用 [心碎](Heartwrench.md "心碎") 并仍然保持此 [守护](Protection.md "守护")。
 

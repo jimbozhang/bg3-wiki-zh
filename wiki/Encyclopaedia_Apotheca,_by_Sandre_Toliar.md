@@ -32,7 +32,7 @@
 
 治疗方案
 
-- 治疗性防护法术（[恢复](Lesser_Restoration.md "恢复")等）
+- 治疗性防护法术（[次级复原术](Lesser_Restoration.md "恢复")等）
 - 恢复性药剂（通用抗毒剂、[康复药水](Remedial_Potion.md "康复药水")等）
 
 ---

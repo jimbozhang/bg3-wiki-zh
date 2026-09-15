@@ -110,7 +110,7 @@
 
 战斗期间所有[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throws.md "豁免检定")具有[优势](Advantage.md "优势")。
 
-**班恩之拳阿努克**是一名[灰矮人](Duergar.md "灰矮人")的[班恩](Bane_(God)信徒.md)，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中找到。
+**班恩之拳阿努克**是一名[灰矮人](Duergar.md "灰矮人")的[班恩](Bane_(God).md)信徒，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中找到。
 
 > “
 >

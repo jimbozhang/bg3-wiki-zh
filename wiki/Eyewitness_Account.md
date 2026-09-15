@@ -26,7 +26,7 @@
 
 - 在[博德之口](Baldur's_Mouth.md "博德之口")，坐标 X: 59 Y: -60
 
-- 在[远古龙之路](The_Wyrmway.md "远古龙之路")的[洞察之间](Chamber_of_Insight.md "洞察之间")书架上，坐标 X: -943 Y: -982
+- 在[远古龙之路](The_Wyrmway.md "远古龙之路")的[洞察之间](The_Wyrmway.md "洞察之间")书架上，坐标 X: -943 Y: -982
 
 ## 文本
 
@@ -60,7 +60,7 @@
 
 牧羊人：我什么都没做错！你们必须去帮助他们！
 
-埃米尔：他是我们从早上起抓到的第十一个人。制作副本，亲手将记录送到从这里到[复生之路](Risen_Road.md "复生之路")的每一个焰拳哨站。在我们确切知道那边发生了什么之前，任何来自[埃尔图加德](https://forgottenrealms.fandom.com/wiki/Elturgard)的人都不得西行。并且不要与焰拳之外的任何人谈论此事。[维持](Maintain.md "维持")控制。
+埃米尔：他是我们从早上起抓到的第十一个人。制作副本，亲手将记录送到从这里到[复生之路](Risen_Road.md "复生之路")的每一个焰拳哨站。在我们确切知道那边发生了什么之前，任何来自[埃尔图加德](https://forgottenrealms.fandom.com/wiki/Elturgard)的人都不得西行。并且不要与焰拳之外的任何人谈论此事。[维持](Risen_Road.md "维持")控制。
 
 ---
 *Source: [Eyewitness Account](https://bg3.wiki/wiki/Eyewitness_Account)*

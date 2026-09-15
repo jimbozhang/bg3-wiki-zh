@@ -2,7 +2,7 @@
 
 关于消耗品类别，请参见 [药水](Potions.md "Potions")
 
-药水是一种 [杂物](Miscellaneous.md "杂物") 物品。它作为场景布置出现，没有其他功能。与名称可能暗示的不同，它无法被 [吞噬](consumed.md "consumed")。
+药水是一种 [杂物](Miscellaneous.md "杂物") 物品。它作为场景布置出现，没有其他功能。与名称可能暗示的不同，它无法被 [吞噬](Miscellaneous.md "consumed")。
 
 ## 属性
 

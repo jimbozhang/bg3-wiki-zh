@@ -197,7 +197,7 @@
 ## 错误
 
 - 将角色重置回相同职业和等级会恢复大部分耗尽的[资源](Resources.md "资源")，例如[法术位](Spells.md#Spell_slots "法术位")、[幸运](Lucky.md "幸运")和[战争祭司冲锋](War_Domain.md#Level_1 "战争领域")。只要有钱支付，可以随心所欲地这样做。
-- 恢复[诗人激励](Bardic_Inspiration_(resource)需要角色以非吟游诗人的职业开始.md)，然后再回到该职业以恢复所有激励点。
+- 恢复[诗人激励](Bardic_Inspiration_(resource).md)需要角色以非吟游诗人的职业开始，然后再回到该职业以恢复所有激励点。
 - 截至热修复21，存在一个错误，在第三幕期间，守墓人可以在营地被[部分灵吸怪](Partial-illithid.md "部分灵吸怪")角色杀死，通过重复使用基于[智力](Intelligence.md "智力")的[法术](Spell.md "法术")触发[吸取属性](Ability_Drain.md "吸取属性")，使守墓人的智力降至1，然后使用[吞噬智力](Absorb_Intellect.md "吞噬智力")。如果通过此漏洞被杀死，守墓人只会掉落一根普通的[长棍](Quarterstaff.md "长棍")。
 - 如果使用[即兴近战武器](Improvised_Melee_Weapon.md "即兴近战武器")将守墓人从月出之塔移动到另一个传送点\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")\]（参见该页面的注释），他会永久从营地消失。如果[邪念](The_Dark_Urge.md "邪念")在队伍中并拒绝巴尔，守墓人仍会在巴尔神殿出现以复活他们。这会清除错误，守墓人返回营地。如果未触发邪念复活场景，对守墓人在[至高大殿](High_Hall.md "至高大殿")和[尾声](Epilogue.md "尾声")中出现的影响未知。
 

@@ -1,6 +1,6 @@
 # 灰矮人坚韧
 
-**灰矮人坚韧**是所有[灰矮人](Dwarf.md#Duergar "矮人")角色可用的[被动](Passive.md "被动")[特性](Feature.md "特性")。它赋予对[幻术学派](Illusion.md "幻术学派")[豁免检定](Saving_throws.md "豁免检定")以及对被[魅惑](Charmed.md "魅惑")或[麻痹](Paralysed.md "麻痹")的[优势](Advantage.md "优势")。
+**灰矮人坚韧**是所有[灰矮人](Dwarf.md#Duergar "矮人")角色可用的[被动](Passive.md "被动")[特性](Features.md "特性")。它赋予对[幻术学派](Illusion.md "幻术学派")[豁免检定](Saving_throws.md "豁免检定")以及对被[魅惑](Charmed.md "魅惑")或[麻痹](Paralysed.md "麻痹")的[优势](Advantage.md "优势")。
 
 ## 描述
 

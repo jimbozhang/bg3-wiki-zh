@@ -52,7 +52,7 @@
 ### 第二幕
 
 - 不要给[月出之塔](Moonrise_Towers.md "Moonrise Towers")的地精一个公平的战斗；虽然大多是软脚虾，但他们有[炼金火焰](Alchemist's_Fire.md "Alchemist's Fire")。如果你打算消灭他们，直接用[你他妈的意念](https://www.youtube.com/watch?v=1zo3jPUPbeI)杀了他们。
-- 不要让[卡'尼斯](Kar'niss.md "Kar'niss")护送你；这会使凯瑟里克战斗困难得多，因为他会在那里出现。在没有竖琴手同盟的情况下与他战斗（如果你真想扮演邪恶）很有挑战性但可行；优先处理兽人法师，因为他会施放火球术术。如果竖琴手不在那里，不要上屋顶，因为幽影诅咒会击中你（竖琴手都有光，靠近他们可以避免）。
+- 不要让[卡'尼斯](Kar'niss.md "Kar'niss")护送你；这会使凯瑟里克战斗困难得多，因为他会在那里出现。在没有竖琴手同盟的情况下与他战斗（如果你真想扮演邪恶）很有挑战性但可行；优先处理兽人法师，因为他会施放火球术。如果竖琴手不在那里，不要上屋顶，因为幽影诅咒会击中你（竖琴手都有光，靠近他们可以避免）。
 - 与[西索博得](Thisobald.md "Thisobald")、[马勒斯](Malus.md "Malus")和[盖林戈斯](Gerringothe.md "Gerringothe")的战斗都可以通过对话避免，但DC检定很高。先访问[莎尔信徒庇护所](Sharran_Sanctuary.md "Sharran Sanctuary")，因为如果你通过豁免检定，它会在长休前提供+5的智力、感知和魅力加成；[祝福术](Bless.md "Bless")和[抗性](Resistance_(Cantrip).md "Resistance (Cantrip)")在这里被推荐。激励点应留到实际遭遇时使用。
 
 ---

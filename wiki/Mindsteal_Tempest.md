@@ -17,7 +17,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：20米（67英尺）
 区域效果：40米（133英尺）半径
 充能：每场战斗
@@ -33,7 +33,7 @@
 
 **\_(状态)[夺心连接](Mindsteal_Link_(Target)_(Condition).md "夺心连接（目标）（状态）")**
 
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 被[审判官瓦尔'戈兹](Ch'r'ai_W'wargaz.md "审判官瓦尔'戈兹")吸取灵魂。
 - 受到-2[护甲等级](Armour_Class.md "护甲等级")惩罚，并对心灵伤害[易伤](Vulnerable.md "易伤")。

@@ -76,7 +76,7 @@
 
 无法被玩家角色[牧师](Cleric.md "Cleric")选择。
 
-主条目：[灾祸术（神）](Bane_(God).md)
+主条目：[班恩](Bane_(God).md)
 
 暴政、恐惧和仇恨之神，守序邪恶。相关领域：秩序、[战争领域](War_Domain.md "战争领域")。
 
@@ -164,7 +164,7 @@
 
 ⁠[最终书记官](https://forgottenrealms.fandom.com/wiki/Jergal)，曾是骸骨之主，被诅咒者的判官。守序中立。相关领域：[死亡](Death_Domain.md "Death Domain")、[知识领域](Knowledge_Domain.md "知识领域")。
 
-在自愿将死亡之神的位置让给[巴尔](Bhaal.md "Bhaal")、[灾祸术](Bane_(God).md)和[米尔寇](Myrkul.md "Myrkul")（他们篡夺了他的一些权能）之前，他是最初的死亡之神。退位后，他先后成为米尔寇、希瑞克（在动荡之年米尔寇死后）以及最终[凯兰沃](Kelemvor.md "Kelemvor")（在希瑞克被[密斯特拉](Mystra.md "Mystra")和凯兰沃推翻后）的管家。
+在自愿将死亡之神的位置让给[巴尔](Bhaal.md "Bhaal")、[班恩](Bane_(God).md)和[米尔寇](Myrkul.md "Myrkul")（他们篡夺了他的一些权能）之前，他是最初的死亡之神。退位后，他先后成为米尔寇、希瑞克（在动荡之年米尔寇死后）以及最终[凯兰沃](Kelemvor.md "Kelemvor")（在希瑞克被[密斯特拉](Mystra.md "Mystra")和凯兰沃推翻后）的管家。
 
 除了对世界命运的有序记录漠不关心外，杰加尔被称为最终书记官，他保存着所有死者最终命运的记录。
 

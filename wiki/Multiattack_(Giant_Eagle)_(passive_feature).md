@@ -1,6 +1,6 @@
 # 多重攻击 (巨鹰) (被动技能)
 
-**多重攻击**是[巨鹰](Giant_Eagle.md "巨鹰")的被动技能，当目标处于[倒伏](Prone_(Condition).md)或[束缚](Restrained_(Condition)状态时.md)，允许它们对目标进行多次攻击。
+**多重攻击**是[巨鹰](Giant_Eagle.md "巨鹰")的被动技能，当目标处于[倒伏](Prone_(Condition).md)或[束缚](Restrained_(Condition).md)状态时，允许它们对目标进行多次攻击。
 
 ## 描述
 

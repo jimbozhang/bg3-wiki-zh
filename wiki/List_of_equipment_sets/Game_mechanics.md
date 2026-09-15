@@ -89,14 +89,14 @@
 
 主条目：[热能套装](../Heat_Set.md "Heat Set")
 
-热能物品是帮助使用者应对[热能（状态）](../Heat_(Condition).md "热能（状态）")的装备。它们与[火焰套装](../Fire_set.md "Fire set")中的物品协同作用，此处不重复列出。
+热能物品是帮助使用者应对[灼热（状态）](../Heat_(Condition).md "灼热（状态）")的装备。它们与[火焰套装](../Fire_set.md "Fire set")中的物品协同作用，此处不重复列出。
 
-- [燃烬靴](../Cinder_Shoes.md "Cinder Shoes")：当你使敌人[燃烧](../Burning_(Condition).md "Burning (Condition)")时，获得2回合热能。
-- [火焰之心](../Fireheart.md "Fireheart")：当你承受其他生物造成的火焰伤害时，获得2回合热能。
-- [地狱火巨斧](../Hellfire_Greataxe.md "Hellfire Greataxe")：使用此武器造成伤害时，获得2回合热能。额外造成1d6⁠⁠[火焰](../Fire.md "Fire")伤害。可使用[地狱火撕裂](../Hellflame_Cleave.md "Hellflame Cleave")武器动作。
-- [自我献祭](../Ring_of_Self_Immolation.md "Ring of Self Immolation")：可施放[自我献祭](../Self_Immolation.md "Self Immolation")以获得2回合热能。
-- [奥术热能手套](../Thermoarcanic_Gloves.md "Thermoarcanic Gloves")：造成火焰伤害时，获得2回合热能。
-- [热力之斧](../Thermodynamo_Axe.md "Thermodynamo Axe")：使用此武器造成伤害时，获得2回合热能。
+- [燃烬靴](../Cinder_Shoes.md "Cinder Shoes")：当你使敌人[燃烧](../Burning_(Condition).md "Burning (Condition)")时，获得2回合灼热。
+- [火焰之心](../Fireheart.md "Fireheart")：当你承受其他生物造成的火焰伤害时，获得2回合灼热。
+- [地狱火巨斧](../Hellfire_Greataxe.md "Hellfire Greataxe")：使用此武器造成伤害时，获得2回合灼热。额外造成1d6⁠⁠[火焰](../Fire.md "Fire")伤害。可使用[地狱火撕裂](../Hellflame_Cleave.md "Hellflame Cleave")武器动作。
+- [自我献祭](../Ring_of_Self_Immolation.md "Ring of Self Immolation")：可施放[自我献祭](../Self_Immolation.md "Self Immolation")以获得2回合灼热。
+- [奥术热能手套](../Thermoarcanic_Gloves.md "Thermoarcanic Gloves")：造成火焰伤害时，获得2回合灼热。
+- [热力之斧](../Thermodynamo_Axe.md "Thermodynamo Axe")：使用此武器造成伤害时，获得2回合灼热。
 
 ## 潜行物品
 
@@ -116,7 +116,7 @@
 发光物品在穿戴者造成[光耀](../Radiant.md "Radiant")伤害时施加[光耀法球](../Radiating_Orb_(Condition).md "Radiating Orb (Condition)")。它们与[光耀套装](../Radiant_set.md "Radiant set")协同作用。
 
 - [闪光戒指](../Coruscation_Ring.md "Coruscation Ring")：当穿戴者在光源照亮下造成法术伤害时，同时对目标施加2回合光耀法球。
-- [组装劲弩](../Fabricated Arbalest.md "Fabricated Arbalest")：发射[照亮射击](../Illuminating_Shot.md "Illuminating Shot")，对目标造成1回合光耀法球。
+- [组装劲弩](../Fabricated_Arbalest.md "Fabricated Arbalest")：发射[照亮射击](../Illuminating_Shot.md "Illuminating Shot")，对目标造成1回合光耀法球。
 - [发光护甲](../Luminous_Armour.md "Luminous Armour")：当穿戴者造成光耀伤害时，引发光耀震荡波，对目标施加2回合光耀法球。
 - [发光手套](../Luminous_Gloves.md "Luminous Gloves")：当穿戴者造成光耀伤害时，目标承受2回合光耀法球。
 - [圣星](../The_Sacred_Star.md "The Sacred Star")：命中时，对目标施加1回合光耀法球。
@@ -143,7 +143,7 @@
 - [蔽影戒指](../Shadow-Cloaked_Ring.md "Shadow-Cloaked Ring")：使穿戴者的武器和徒手攻击对遮蔽生物额外造成1d4伤害。
 - [莎尔的黄昏短矛](../Shar's_Spear_of_Evening.md "Shar's Spear of Evening")：对抗遮蔽目标时，攻击掷骰具有优势。提供魔法黑暗视觉和目盲免疫。对遮蔽目标额外造成1d6⁠⁠[穿刺](../Piercing.md "Piercing")伤害。可使用[黑暗之刃](../Edge_of_Darkness.md "Edge of Darkness")。
 - [钢铁卫士头盔](../Steelwatcher_Helmet.md "Steelwatcher Helmet")：提供魔法黑暗视觉和目盲免疫。
-- [遮蔽施法饰环](../The_Shadespell_Circlet.md "The Shadespell Circlet")：当穿戴者处于遮蔽状态时，法术豁免DC获得+1加值。
+- [遮蔽施法饰环](../The_Shadespell_Circlet.md "The Shadespell Circlet")：当穿戴者处于遮蔽状态时，法术豁免难度等级获得+1加值。
 - [维康妮亚的女祭司袍](../Viconia's_Priestess_Robe.md "Viconia's Priestess Robe")：遮蔽时，潜行检定具有优势。
 
 ## 残响物品

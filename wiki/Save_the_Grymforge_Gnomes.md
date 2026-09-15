@@ -1,6 +1,6 @@
 # 拯救复仇之炉的侏儒们
 
-**拯救复仇之炉的侏儒们**是《博德之门3》[第一幕](Act_One.md "第一幕")中的一个[任务](Quest.md "任务")。该任务可在完成[治好中毒的侏儒](Cure_the_Poisoned_Gnome.md "治好中毒的侏儒")后，于[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")的[蕈人圆环](Myconid_Circle.md "蕈人圆环")处与[图拉](Thulla.md "图拉")交谈获得。
+**拯救复仇之炉的侏儒们**是《博德之门3》[第一幕](Act_One.md "第一幕")中的一个[任务](Quest.md "任务")。该任务可在完成[治好中毒的侏儒](Cure_the_Poisoned_Gnome.md "治好中毒的侏儒")后，于[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")的蕈人圆环处与[图拉](Thulla.md "图拉")交谈获得。
 
 ## 目录
 

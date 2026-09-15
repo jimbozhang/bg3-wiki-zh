@@ -14,9 +14,9 @@
 
 最简单的方法之一是在他的加冕典礼前，让一个可以施放[精魂守卫](Spirit_Guardians.md "精魂守卫")的角色站在他旁边。因为中立NPC会避开处于精魂守卫影响区域的地方，所以可以施放精魂守卫并将他驱赶到礼堂后面的阳台上，而不会使任何NPC变为敌对。
 
-从那里，一个拥有[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength_(Condition)的角色可以将他扔下阳台.md)。在[探索者](Explorer.md "探索者")难度下，这有可能直接杀死他，但此策略尚未在其他难度下测试过。
+从那里，一个拥有[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength_(Condition).md)的角色可以将他扔下阳台。在[探索者](Explorer.md "探索者")难度下，这有可能直接杀死他，但此策略尚未在其他难度下测试过。
 
-以这种方式杀死他将使整个[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")变为敌对，从而无法[营救高公爵](Rescue_the_Grand_Duke.md "营救高公爵")；也无法从[钢铁王座](Iron_Throne.md "钢铁王座")拯救囚犯。因为这会使[潜在盟友](Gather_Your_Allies_(quest)变得不可用.md)，玩家可能希望在加冕典礼前保存进度，并在完成成就后重新加载。
+以这种方式杀死他将使整个[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")变为敌对，从而无法[营救高公爵](Rescue_the_Grand_Duke.md "营救高公爵")；也无法从[钢铁王座](Iron_Throne.md "钢铁王座")拯救囚犯。因为这会使[潜在盟友](Gather_Your_Allies_(quest).md)变得不可用，玩家可能希望在加冕典礼前保存进度，并在完成成就后重新加载。
 
 ---
 *Source: [Guide:Fancy Footwork (achievement)](https://bg3.wiki/wiki/Guide:Fancy_Footwork_(achievement)*

@@ -102,7 +102,7 @@
 [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")
 范围：18 米 (60 英尺)
 
-[恢复](Lesser_Restoration.md "恢复") (+ )
+[次级复原术](Lesser_Restoration.md "恢复") (+ )
 治愈生物的[患病](Diseased_(status_group).md)、[中毒](Poisoned_(status_group).md)、[麻痹](Paralysed_(Condition).md "麻痹 (状态)")或[目盲](Blinded_(status_group).md)。
 
 近战：1.5 米 (5 英尺)

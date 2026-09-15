@@ -32,7 +32,7 @@
 
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 
-**伦特**是[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")[垃圾堆区](Heapside.md "垃圾堆区")的一名[人类](Human.md "人类")儿童。
+**伦特**是[第三幕](Act_Three.md "第三幕")中[下城区](Lower_City.md "下城区")垃圾堆区的一名[人类](Human.md "人类")儿童。
 
 > “
 >

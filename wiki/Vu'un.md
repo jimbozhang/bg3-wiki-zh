@@ -1,4 +1,4 @@
-# Vu'un
+# 武恩
 
 | | |
 | --- | --- |
@@ -154,7 +154,7 @@ Vu'un 和[掠夺者 Zar'an](Zar'an.md "Zar'an") 守卫着伊雷珂养育间的[�
 
 ## 外部链接
 
-- ⁠[Vu'un](https://forgottenrealms.fandom.com/wiki/Vu%27un) 于 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[武恩](https://forgottenrealms.fandom.com/wiki/Vu%27un) 于 [被遗忘的国度 Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
-*Source: [Vu'un](https://bg3.wiki/wiki/Vu'un)*
+*Source: [武恩](https://bg3.wiki/wiki/Vu'un)*

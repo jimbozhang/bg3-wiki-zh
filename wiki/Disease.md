@@ -12,7 +12,7 @@
 以下法术/动作可移除此状态组中的所有状态：
 
 - [圣疗：治愈](Lay_on_Hands_colon__Cure.md "圣疗：治愈")
-- [次级恢复](Lesser_Restoration.md "次级恢复")
+- [次级复原术](Lesser_Restoration.md "次级复原术")
 - [治疗](Heal.md "治疗")
 
 ## 免疫
@@ -134,7 +134,7 @@
 |
 
 - 患病实体渗出蜡质、球状的血液。它在使用[体质](Constitution.md "体质")的[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
-- 此外，每当它受到伤害时，会[震慑](Stunned_(Condition)直到其下一回合结束.md)。
+- 此外，每当它受到伤害时，会[震慑](Stunned_(Condition).md)直到其下一回合结束。
 
 ---
 *Source: [Diseased (status group)](https://bg3.wiki/wiki/Diseased_(status_group)*

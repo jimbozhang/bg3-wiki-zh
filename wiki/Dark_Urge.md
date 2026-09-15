@@ -58,7 +58,7 @@
 
 最终，邪念成为巴尔教团的领袖，并誓言为他们的父亲巴尔终结世间一切生命。<sup>[\[5\]](#cite_note-colonyletter-5)</sup> 在某个时候，腥红奥林加入并成为他们的二把手。<sup>[\[14\]](#cite_note-memoirs-14)</sup>
 
-[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")在重新建立对[灾祸](Bane_(God)的崇拜后联系了邪念.md)，两人在发现共同目标后结成联盟。他们在梦中受到巴尔和灾祸的造访，被命名为他们的选民，并受命与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")——[米尔寇](Myrkul.md "Myrkul")的选民——结盟。戈塔什和邪念策划了一个计划，通过让[赫尔希克](Helsik.md "Helsik")为他们打开通往梅菲斯特宝库的传送门，在梅菲斯特的宝库中窃取[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")。<sup>[\[14\]](#cite_note-memoirs-14)</sup><sup>[\[15\]](#cite_note-parentnotes-15)</sup>
+[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")在重新建立对[班恩](Bane_(God).md)的崇拜后联系了邪念，两人在发现共同目标后结成联盟。他们在梦中受到巴尔和灾祸的造访，被命名为他们的选民，并受命与[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")——[米尔寇](Myrkul.md "Myrkul")的选民——结盟。戈塔什和邪念策划了一个计划，通过让[赫尔希克](Helsik.md "Helsik")为他们打开通往梅菲斯特宝库的传送门，在梅菲斯特的宝库中窃取[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")。<sup>[\[14\]](#cite_note-memoirs-14)</sup><sup>[\[15\]](#cite_note-parentnotes-15)</sup>
 
 窃盗成功后，戈塔什建议他们将王冠用于位于[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方夺心魔殖民地中的主脑。邪念同意了这个计划，以便履行对其领主的誓言：他们将创造一支无魂的夺心魔大军，并借助这支大军灭绝所有生命——包括作为最后一个存活的生物，他们自己。邪念完全打算最终背叛其他选民，于是加入了恩维尔·戈塔什和凯瑟里克·索姆在月出之塔的行列。<sup>[\[5\]](#cite_note-colonyletter-5)</sup><sup>[\[14\]](#cite_note-memoirs-14][[16]](#cite_note-16)</sup>
 
@@ -88,7 +88,7 @@
 
 ### 至上真神
 
-至上真神，一个由[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")的力量进化成[主脑](The_Netherbrain.md "The Netherbrain")的[灵吸怪](Mind_flayer.md "Mind Flayer") [主脑](Elder_Brain.md "Elder Brain")，实际上在邪念被背叛之前与他们有着积极的关系。邪念是那个将王冠戴在主脑上的人，因此它因赋予其如此强大的力量而尊敬他们。<sup>[\[29\]](#cite_note-29)</sup><sup>[\[30\]](#cite_note-30)</sup> 主脑尤其尊重邪念，因其计划杀死所有生物的精打细算的残酷。它打算遵循计划，让邪念控制它将集结的军队。<sup>[\[31\]](#cite_note-31)</sup> 当邪念消失时，主脑感觉自己被遗弃，成为其他选民的奴隶。<sup>[\[32\]](#cite_note-32)</sup> 没有邪念在场，选民们像孩子一样争斗，因此主脑改变了它的计划，最终将导致它的自由。<sup>[\[33\]](#cite_note-33)</sup>
+至上真神，一个由[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")的力量进化成[耐色脑](The_Netherbrain.md "The Netherbrain")的[灵吸怪](Mind_flayer.md "Mind Flayer") [主脑](Elder_Brain.md "Elder Brain")，实际上在邪念被背叛之前与他们有着积极的关系。邪念是那个将王冠戴在主脑上的人，因此它因赋予其如此强大的力量而尊敬他们。<sup>[\[29\]](#cite_note-29)</sup><sup>[\[30\]](#cite_note-30)</sup> 主脑尤其尊重邪念，因其计划杀死所有生物的精打细算的残酷。它打算遵循计划，让邪念控制它将集结的军队。<sup>[\[31\]](#cite_note-31)</sup> 当邪念消失时，主脑感觉自己被遗弃，成为其他选民的奴隶。<sup>[\[32\]](#cite_note-32)</sup> 没有邪念在场，选民们像孩子一样争斗，因此主脑改变了它的计划，最终将导致它的自由。<sup>[\[33\]](#cite_note-33)</sup>
 
 ### 巴尔及其神殿
 

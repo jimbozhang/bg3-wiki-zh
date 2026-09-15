@@ -15,7 +15,7 @@
 10d6 + 40[力场](Force.md "Force")
 
 详情
-[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功时：伤害被抵消。）
+[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功时：伤害被抵消。）
 距离：9米（30英尺）
 
 ## 更高环阶

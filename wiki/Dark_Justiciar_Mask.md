@@ -1,6 +1,6 @@
 # 暗夜法官面具
 
-暗夜法官面具是一个[头盔](Headwear.md "Headwear")，属于[不常见](Uncommon.md "Uncommon")品质，能为穿戴者提供[威吓](Intimidation.md "Intimidation")检定加值。
+暗夜法官面具是一个[头盔](Headwear.md "Headwear")，属于不常见品质，能为穿戴者提供[威吓](Intimidation.md "Intimidation")检定加值。
 
 由[莎尔](Shar.md "Shar")最忠诚的狂热者佩戴，仅仅是看到它就足以让最[勇敢](Brave.md "Brave")的灵魂心生[恐惧](Fear.md "Fear")。
 

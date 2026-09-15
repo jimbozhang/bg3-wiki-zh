@@ -24,7 +24,7 @@
 
 持续时间：2 驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 生物无法说话或施放带有言语成分的法术，并且免疫[雷鸣](Thunder.md "Thunder")伤害。
 

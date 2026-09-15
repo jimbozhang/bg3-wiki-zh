@@ -2,7 +2,7 @@
 
 本文介绍的是完整的灵吸怪形态下可用的攻击。关于普通夺心魔使用的版本，请参见[触手鞭（夺心魔）](Tentacle_Whip_(Mind_Flayer).md)。关于其他用途，请参见[触手鞭（消歧义）](Tentacle_Whip_(disambiguation).md)。
 
-**触手鞭**是[完整的灵吸怪](Full-illithid.md "完整的灵吸怪")可用的近战攻击，可造成[心灵](Psychic.md "心灵")伤害并可能震慑目标。它比[普通夺心魔使用的版本](Tentacle_Whip_(Mind_Flayer)更强.md)。
+**触手鞭**是[完整的灵吸怪](Full-illithid.md "完整的灵吸怪")可用的近战攻击，可造成[心灵](Psychic.md "心灵")伤害并可能震慑目标。它比[普通夺心魔使用的版本](Tentacle_Whip_(Mind_Flayer).md)更强。
 
 ## 描述
 

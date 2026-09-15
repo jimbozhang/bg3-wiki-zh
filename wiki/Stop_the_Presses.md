@@ -60,7 +60,7 @@
 
 博德之口公报的前门入口
 
-与[叶斯特拉·斯特尔](Estra_Stir.md "Estra Stir")交谈，她位于[下城区](Lower_City.md "Lower City")[石化蜥蜴之门](Basilisk_Gate.md "Basilisk Gate")以南，坐标 X: 122 Y: -66。她透露冒险小队成员是[博德之口公报](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")下一期的主题——这是迄今为止最劲爆的一期。叶斯特拉拒绝详细说明文章内容，也拒绝听取任何关于小队是否同意被报道的异议。然而，她的陈述开启了任务，即通过与编辑交谈来调查博德之口。[博德之口](Baldur's_Mouth.md "Baldur's Mouth")大楼位于[精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")以南，坐标 X: 67 Y: -52。大楼内有主编[埃塔瓦德·针](Ettvard_Needle.md "Ettvard Needle")。
+与[叶斯特拉·斯特尔](Estra_Stir.md "Estra Stir")交谈，她位于[下城区](Lower_City.md "Lower City")石化蜥蜴之门以南，坐标 X: 122 Y: -66。她透露冒险小队成员是[博德之口公报](Baldur's_Mouth_Gazette.md "Baldur's Mouth Gazette")下一期的主题——这是迄今为止最劲爆的一期。叶斯特拉拒绝详细说明文章内容，也拒绝听取任何关于小队是否同意被报道的异议。然而，她的陈述开启了任务，即通过与编辑交谈来调查博德之口。[博德之口](Baldur's_Mouth.md "Baldur's Mouth")大楼位于[精灵之歌酒馆](Elfsong_Tavern.md "Elfsong Tavern")以南，坐标 X: 67 Y: -52。大楼内有主编[埃塔瓦德·针](Ettvard_Needle.md "Ettvard Needle")。
 
 如果与埃塔瓦德交谈，他会透露即将发表的关于小队的文章是负面的，并且他们应该在公开场合自取其辱之前就考虑到后果。
 

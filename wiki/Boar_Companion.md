@@ -89,7 +89,7 @@
 
 ## 备注
 
-- 该生物的[法术豁免DC](Spell_save_DC.md "法术豁免DC")基于[力量](Strength.md "力量")。
+- 该生物的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")基于[力量](Strength.md "力量")。
 - 召唤的野猪伙伴的名字源自拉丁语：
 - Verrēs – 野猪
   - Verrēs Major – 大野猪

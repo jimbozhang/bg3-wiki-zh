@@ -3,7 +3,7 @@
 本文介绍的是一个物品或其他先前可获取的内容，该内容已被[从游戏中移除](Category_colon_Unobtainable.md "Category:Unobtainable")，在当前版本的游戏中**不再可获取**。
 \[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
-[鳞甲 +1](Scale_Mail_+1.md "Scale Mail +1")是一件[中甲](Armour.md#Medium_Armour "Armour")，属于[稀有度](Rarity.md)为[不常见](Uncommon.md)的物品。
+[鳞甲 +1](Scale_Mail_+1.md "Scale Mail +1")是一件[中甲](Armour.md#Medium_Armour "Armour")，属于[稀有度](Scale_Mail_+1.md)为[不常见](Scale_Mail_+1.md)的物品。
 
 这是一件由熟练工匠制作的鳞甲衬衫，能提供比大多数护甲更好的保护。
 

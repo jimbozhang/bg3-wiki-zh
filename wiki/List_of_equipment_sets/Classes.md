@@ -44,7 +44,7 @@
 
 **牧师套装**包含与[牧师](../Cleric.md "Cleric")机制互动的物品、仅牧师可获得的物品，或施加[被驱散](../Turned_(Condition).md "Turned (Condition)")状态的物品。
 
-- [虔诚护符](../Amulet_of_the_Devout.md "Amulet of the Devout")：获得一次额外的[引导神力充能](../Channel_Divinity_Charge.md "Channel Divinity Charge")和+2[法术豁免DC](../Spell_save_DC.md "Spell Save DC")。
+- [虔诚护符](../Amulet_of_the_Devout.md "Amulet of the Devout")：获得一次额外的[引导神力充能](../Channel_Divinity_Charge.md "Channel Divinity Charge")和+2[法术豁免难度等级](../Spell_save_DC.md "Spell Save DC")。
 - [狩猎饰环](../Circlet_of_Hunting.md "Circlet of Hunting")：对被[曳光弹](../Guiding_Bolt_(Condition).md "Guiding Bolt (Condition)")标记的生物进行[攻击掷骰](../Attack_roll.md "Attack Roll")时，获得**+1d4**加值。
 - [信徒硬头锤](../Devotee's_Mace.md "Devotee's Mace")：可使用[治疗熏香灵光](../Healing_Incense_Aura.md "Healing Incense Aura")。仅通过[神圣干预](../Divine_Intervention.md "Divine Intervention")获得。
 - [根德莱尔的渴望](../Gandrel's_Aspiration.md "Gandrel's Aspiration")：可使用[神圣弹药](../Sacred_Munitions.md "Sacred Munitions")。
@@ -59,7 +59,7 @@
 
 - [山崩护甲](../Armour_of_Landfall.md "Armour of Landfall")：可施放[植物滋长](../Plant_Growth.md "Plant Growth")。站在[植物滋长](../Plant_Growth_(Condition).md "Plant Growth (Condition)")或[藤蔓](../Difficult_Terrain_colon__Vines_(Condition).md "Difficult Terrain: Vines (Condition)")上时，恢复1d4点[生命值](../Healing.md "Healing")。
 - [月照护甲](../Armour_of_Moonbasking.md "Armour of Moonbasking")：施放[荒野形态](../Wild_Shape.md "Wild Shape")后获得22点[临时生命值](../Temporary_Hit_Points.md "Temporary Hit Points")，并在这些临时生命值生效期间使受到的伤害减少1点。获得+2[护甲等级](../Armour_Class.md "Armour Class")和对抗法术的[豁免检定](../Saving_throw.md "Saving Throw")[优势](../Advantage.md "Advantage")；在[荒野形态](../Wild_Shape.md "Wild Shape")期间持续生效。
-- [孢子守护者护甲](../Armour_of_the_Sporekeeper.md "Armour of the Sporekeeper")：可传播[噼啪砰孢子](../Bibberbang_Spores.md "Bibberbang Spores")、[鬼头蘑菇孢子](../Timmask_Spores_(class_action).md "Timmask Spores (class action)")和[加速孢子](../Haste_Spores.md "Haste Spores")。获得+1[法术豁免DC](../Spell_save_DC.md "Spell Save DC")，并在造成[黯蚀](../Necrotic.md "Necrotic")伤害时额外造成1点[黯蚀](../Necrotic.md "Necrotic")伤害。
+- [孢子守护者护甲](../Armour_of_the_Sporekeeper.md "Armour of the Sporekeeper")：可传播[噼啪砰孢子](../Bibberbang_Spores.md "Bibberbang Spores")、[鬼头蘑菇孢子](../Timmask_Spores_(class_action).md "Timmask Spores (class action)")和[加速孢子](../Haste_Spores.md "Haste Spores")。获得+1[法术豁免难度等级](../Spell_save_DC.md "Spell Save DC")，并在造成[黯蚀](../Necrotic.md "Necrotic")伤害时额外造成1点[黯蚀](../Necrotic.md "Necrotic")伤害。
 - [硬木短棒](../Ironwood_Club.md "Ironwood Club")：当[橡棍术](../Shillelagh.md "Shillelagh")激活时，额外造成1d4点[钝击](../Bludgeoning.md "Bludgeoning")伤害。
 - [铁藤盾牌](../Ironvine_Shield.md "Ironvine Shield")：当[橡棍术](../Shillelagh.md "Shillelagh")激活时，被近战攻击命中时造成[穿刺](../Piercing.md "Piercing")伤害。
 - [残破甲壳](../Mutilated_Carapace.md "Mutilated Carapace")：变形或伪装时，攻击和伤害掷骰获得+1加值。

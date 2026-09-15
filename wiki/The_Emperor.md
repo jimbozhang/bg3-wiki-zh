@@ -265,7 +265,7 @@ _我有幸遇到了斯特梅公爵。我们建立了伙伴关系。_
 1. [↑](#cite_ref-1) 君主与其他夺心魔不同，经常被用“他”代词称呼，在游戏中偶尔被称为“它”，在游戏文件中被称为“他们”。为保持一致性，本文通篇使用“它”。参见[讨论页](Talk_colon_The_Emperor.md "Talk:The Emperor")进行讨论。
 1. [↑](#cite_ref-ansur_2-0) 与[安苏](Ansur.md "安苏")的对话。
 1. [↑](#cite_ref-3) 君主对其控制[贝琳·斯特梅](Belynne_Stelmane.md "贝琳·斯特梅")的幻象得到了5e模块_[博德之门：深渊坠落](https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate:_Descent_into_Avernus)_的证实。在其中，斯特梅被描述为与一个夺心魔进行秘密的精神战斗。这个夺心魔很可能就是君主本身，因此，它与斯特梅的整个“联盟”都受到质疑。很可能君主和斯特梅根本没有真正的联盟，相反，君主为了自己的需要而控制了她。无论这是一直如此，还是他们之前有过真正的联盟，目前尚不完全清楚。
-1. [↑](#cite_ref-4) [主脑](The_Netherbrain.md "主脑")在[塑境秘潭](Morphic_Pool.md "塑境秘潭")对玩家角色的对话。
+1. [↑](#cite_ref-4) [耐色脑](The_Netherbrain.md "主脑")在[塑境秘潭](Morphic_Pool.md "塑境秘潭")对玩家角色的对话。
 1. [↑](#cite_ref-5) 在第二幕与[梦境守护者](Dream_Guardian.md "梦境守护者")的过场动画对话中做出某些对话选择时，它会揭示，“_我从[维拉基斯](Vlaakith.md "维拉基斯")那里偷来的。她持续的统治依赖于它。只要绝对存在，我就被困在棱镜里。我只能从这里控制力量。我们必须确保维拉基斯永远无法得到棱镜。绝对也不能。_”
 1. [↑](#cite_ref-6) 物品名称为“黄油叉”，暗示是因为“丢失”了黄油刀。根据_[博德安#遗产被遗忘的国度](https://forgottenrealms.fandom.com/wiki/Balduran%23LegacyForgotten_Realms)_的传说，黄油刀实际上并没有丢失。
 1. [↑](#cite_ref-7) 与此物品互动通常会将项圈装备到受控角色的项链槽。尚不清楚此行为是否是错误。

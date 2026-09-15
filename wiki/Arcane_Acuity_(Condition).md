@@ -2,7 +2,7 @@
 
 **奥术敏锐**
 
-- 受影响实体每剩余一驱散，其[法术](Spells.md "Spells")[攻击掷骰](Attack_roll.md "Attack Roll")和[法术豁免DC](Saving_throw.md#The_Difficulty_Class_of_saving_throws "Saving throw")获得+1加值。
+- 受影响实体每剩余一驱散，其[法术](Spells.md "Spells")[攻击掷骰](Attack_roll.md "Attack Roll")和[法术豁免难度等级](Saving_throw.md#The_Difficulty_Class_of_saving_throws "Saving throw")获得+1加值。
 - 实体每次受到伤害时，持续时间减少2。
 - **奥术敏锐**的最大持续时间：10驱散。
 
@@ -36,7 +36,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体每剩余一驱散，其[法术](Spells.md "Spells")[攻击掷骰](Attack_roll.md "Attack Roll")和[法术豁免DC](Saving_throw.md#The_Difficulty_Class_of_saving_throws "Saving throw")获得+1加值。
+- 受影响实体每剩余一驱散，其[法术](Spells.md "Spells")[攻击掷骰](Attack_roll.md "Attack Roll")和[法术豁免难度等级](Saving_throw.md#The_Difficulty_Class_of_saving_throws "Saving throw")获得+1加值。
 - 实体每次受到伤害时，持续时间减少2。
 - **奥术敏锐**的最大持续时间：10驱散。
 

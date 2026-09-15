@@ -36,7 +36,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [战术铁律](Tactical_Discipline.md "战术铁律")
 
-**铁血执政官洛**是[班恩](Bane_(God)的教徒.md)，也是[戈塔什](Gortash.md "戈塔什")的保镖之一。
+**铁血执政官洛**是[班恩](Bane_(God).md)的教徒，也是[戈塔什](Gortash.md "戈塔什")的保镖之一。
 
 > “
 >

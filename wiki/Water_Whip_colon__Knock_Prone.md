@@ -48,7 +48,7 @@
 
 - 此法术与[摔绊攻击（远程）](Trip_Attack_(Ranged).md "摔绊攻击（远程）")是仅有的两个提供无限期倒伏效果的来源。虽然敌人可以花费移动速度来结束[倒伏](Prone_(Condition).md "倒伏（状态）")状态并站起，但如果它被阻止移动（例如被[诱捕](Ensnared_(Condition).md "诱捕（状态）")、[网缚](Enwebbed_(Condition).md "网缚（状态）")或[恐慌](Frightened_(Condition).md "恐慌（状态）")），它将无限期保持倒伏。
 - 与[火蛇利牙](Fangs_of_the_Fire_Snake.md "火蛇利牙")（使用徒手攻击掷骰）一起，这是四象宗仅有的另外两个随力量或敏捷而非感知调整的技能。
-- 由于此技能使用武器动作DC，[战神的铁手套](Gauntlets_of_the_Warmaster.md "战神的铁手套")的[高强战技](Heightened_Manoeuvre.md "高强战技")将适用。相反，法术豁免DC加成，如[不羁库席戈之帽](Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽")的[暴露弱点](Lay_Bare_Their_Weakness.md "暴露弱点")_不会_适用。
+- 由于此技能使用武器动作DC，[战神的铁手套](Gauntlets_of_the_Warmaster.md "战神的铁手套")的[高强战技](Heightened_Manoeuvre.md "高强战技")将适用。相反，法术豁免难度等级加成，如[不羁库席戈之帽](Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽")的[暴露弱点](Lay_Bare_Their_Weakness.md "暴露弱点")_不会_适用。
 
 ## 错误
 

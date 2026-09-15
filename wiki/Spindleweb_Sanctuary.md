@@ -41,7 +41,7 @@
 ## 备注
 
 - 此法术同样适用常规[庇护术](Sanctuary.md "庇护术")规则。
-- 庇护术破碎时发生的爆炸涉及两次豁免检定。首先是[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 [智力](Intelligence.md "智力") [豁免检定](Saving_throw.md "豁免检定")以减半伤害。然后是第二次[法术豁免DC](Dice_rolls.md#Save_DCs "掷骰") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定")以避免被击退4米（13英尺）。无论第一次豁免检定是否成功，都会进行第二次豁免检定。
+- 庇护术破碎时发生的爆炸涉及两次豁免检定。首先是[掷骰](Dice_rolls.md#Save_DCs "掷骰") 12 [智力](Intelligence.md "智力") [豁免检定](Saving_throw.md "豁免检定")以减半伤害。然后是第二次[法术豁免难度等级](Dice_rolls.md#Save_DCs "掷骰") [力量](Strength.md "力量") [豁免检定](Saving_throw.md "豁免检定")以避免被击退4米（13英尺）。无论第一次豁免检定是否成功，都会进行第二次豁免检定。
 
 ---
 *Source: [Spindleweb Sanctuary](https://bg3.wiki/wiki/Spindleweb_Sanctuary)*

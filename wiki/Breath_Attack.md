@@ -19,7 +19,7 @@
 - 初始伤害为2d6
 - 等级6时伤害提升至3d6
 - 等级11时伤害提升至4d6
-- [法术豁免DC](Spell_save_DC.md "法术豁免DC")为 8 + [体质](Constitution.md "体质") 调整值 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")
+- [法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")为 8 + [体质](Constitution.md "体质") 调整值 + [熟练项加值](Proficiency_Bonus.md "熟练项加值")
 - 目标通过豁免检定时仍会受到一半伤害
 
 ## 装备

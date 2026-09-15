@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：自身
 范围效果：12米（40英尺）半径
 目标：范围内所有敌人
@@ -54,7 +54,7 @@
 
 ## 错误
 
-- 杀戮者动作的[法术豁免DC](Spell_save_DC.md "法术豁免DC")使用你首次就职的*第一个*职业的[施法关键属性](Spells.md#Spellcasting_ability "法术")，但使用杀戮者的属性值。由于杀戮者的精神属性值较低，这导致DC非常低。具体而言，战士、游荡者、法师、牧师、德鲁伊、武僧和游侠在杀戮者形态下，智力或感知的[施法调整值](Spells.md#Spellcasting_ability "法术")为+0，而野蛮人、吟游诗人、圣武士、术士和邪术师在杀戮者形态下，魅力的施法调整值为-1。
+- 杀戮者动作的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")使用你首次就职的*第一个*职业的[施法关键属性](Spells.md#Spellcasting_ability "法术")，但使用杀戮者的属性值。由于杀戮者的精神属性值较低，这导致DC非常低。具体而言，战士、游荡者、法师、牧师、德鲁伊、武僧和游侠在杀戮者形态下，智力或感知的[施法调整值](Spells.md#Spellcasting_ability "法术")为+0，而野蛮人、吟游诗人、圣武士、术士和邪术师在杀戮者形态下，魅力的施法调整值为-1。
 
 - 通过击杀标记目标获得的[巴尔的恩赐](Bhaal's_Boon_(Condition).md "巴尔的恩赐 (状态)")层数在比预期更多的情况下丢失。这使得积累此状态的层数基本上不可能，因为它们通常在添加后立即被移除。
 

@@ -20,7 +20,7 @@
 
 详情
 远程武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：普通武器射程
 充能：[短休](Short_rest.md "短休")
 持续时间：10 驱散

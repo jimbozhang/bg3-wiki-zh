@@ -1,6 +1,6 @@
 # 通知（马鲁斯·索姆）
 
-不要与[通知（骨斗篷）](Notice_(Bonecloak)混淆.md)
+不要与[通知（骨斗篷）](Notice_(Bonecloak).md)混淆
 
 **通知**是[马鲁斯·索姆](Malus_Thorm.md "马鲁斯·索姆")写给他姐妹们的提醒。
 

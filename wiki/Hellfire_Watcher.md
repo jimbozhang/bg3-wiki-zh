@@ -87,7 +87,7 @@
 
 不会被[受惊](Surprised.md "受惊")。
 
-**地狱火守望者**是[博德之门](Baldur's Gate.md "博德之门")的[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中发现的一种[钢铁卫士](Steel_Watcher.md "钢铁卫士")。
+**地狱火守望者**是[博德之门](Baldur's_Gate.md "博德之门")的[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")中发现的一种[钢铁卫士](Steel_Watcher.md "钢铁卫士")。
 
 ## 目录
 
@@ -103,7 +103,7 @@
 
 ## 概述
 
-地狱火守望者与[钢铁卫士](Steel_Watcher_(creature)类似.md)，但拥有几个额外的攻击。游戏中最多可遇到五只；其中两只出现在[实验室层](Steel_Watch_Foundry.md#Lab_Level "钢铁卫士铸造厂")监视贡迪安人，另外三只则与[钢铁卫士泰坦](Steel_Watcher_Titan.md "钢铁卫士泰坦")一起守卫[控制中心](Steel_Watch_Foundry.md#Control_Centre "钢铁卫士铸造厂")。
+地狱火守望者与[钢铁卫士](Steel_Watcher_(creature).md)类似，但拥有几个额外的攻击。游戏中最多可遇到五只；其中两只出现在[实验室层](Steel_Watch_Foundry.md#Lab_Level "钢铁卫士铸造厂")监视贡迪安人，另外三只则与[钢铁卫士泰坦](Steel_Watcher_Titan.md "钢铁卫士泰坦")一起守卫[控制中心](Steel_Watch_Foundry.md#Control_Centre "钢铁卫士铸造厂")。
 
 ## 战斗
 

@@ -32,7 +32,7 @@
 | [人类定身术](Hold_Person.md "Hold Person") | 2 |  |  | 10回合 | 18米 / 60英尺 | [感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") | - |
 | [隐形术](Invisibility_(spell).md "Invisibility (spell)") | 2 |  |  | 10回合 | 1.5米 / 5英尺 | - | - |
 | [敲击术](Knock.md "Knock") | 2 |  |  | - | 18米 / 60英尺 | - | - |
-| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
+| [次级复原术](Lesser_Restoration.md "次级复原术") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
 | [魔法武器](Magic_Weapon.md "Magic Weapon") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [马友夫强酸箭](Melf's_Acid_Arrow.md "Melf's Acid Arrow") | 2 |  |  | 1回合 | 18米 / 60英尺 | [攻击掷骰](Attack_roll.md "Attack Roll") | 4d4⁠[强酸](Acid.md "Acid") / 2d4⁠[强酸](Acid.md "Acid") |
 | [镜像术](Mirror_Image.md "Mirror Image") | 2 |  |  | 10回合 | 自身 | - | - |

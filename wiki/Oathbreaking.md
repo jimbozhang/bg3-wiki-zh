@@ -283,7 +283,7 @@ _[守墓人](Withers.md "守墓人")不会重置拥有弃誓者副职的圣武�
 新2环法术
 
 - [支援术](Aid.md "支援术")
-- [印记斩](Branding_Smite.md "印记斩") * [恢复](Lesser_Restoration.md "恢复")
+- [印记斩](Branding_Smite.md "印记斩") * [次级复原术](Lesser_Restoration.md "恢复")
 - [魔法武器](Magic_Weapon.md "魔法武器") * [防护毒素](Protection_from_Poison.md "防护毒素")
 
 #### 誓言法术（始终预备）
@@ -292,7 +292,7 @@ _[守墓人](Withers.md "守墓人")不会重置拥有弃誓者副职的圣武�
 | --- | --- | --- | --- | --- |
 | [防护善恶](Protection_from_Evil_and_Good.md "防护善恶") [庇护术](Sanctuary.md "庇护术")* | [动物交谈](Speak_with_Animals.md "动物交谈") * [诱捕攻击（远程）](Ensnaring_Strike_(Ranged).md "诱捕攻击（远程）") * | [命令术](Command.md "命令术") [强令对决](Compelled_Duel.md "强令对决") | [降咒](Bane_(spell).md "降咒（法术）") * [猎人印记](Hunter's_Mark.md "猎人印记") * | [炼狱叱喝](Hellish_Rebuke.md "炼狱叱喝")* [致伤术](Inflict_Wounds.md "致伤术")* |
 
-- [恢复](Lesser_Restoration.md "恢复")
+- [次级复原术](Lesser_Restoration.md "恢复")
 - [沉默术](Silence.md "沉默术") \*
 
 |
@@ -336,7 +336,7 @@ _[守墓人](Withers.md "守墓人")不会重置拥有弃誓者副职的圣武�
 
 | [奉献之誓](Oath_of_Devotion.md "奉献之誓") | [古贤之誓](Oath_of_the_Ancients.md "古贤之誓") | [王冠之誓](Oath_of_the_Crown.md "王冠之誓") | [复仇之誓](Oath_of_Vengeance.md "复仇之誓") | [弃誓者](Oathbreaker.md "弃誓者") |
 | --- | --- | --- | --- | --- |
-| [恢复](Lesser_Restoration.md "恢复") [沉默术](Silence.md "沉默术") * | [迷踪步](Misty_Step.md "迷踪步")* [月华之光](Moonbeam.md "月华之光") * | [守护之链](Warding_Bond.md "守护之链")* [灵体武器](Spiritual_Weapon.md "灵体武器")* | [人类定身术](Hold_Person.md "人类定身术") * [迷踪步](Misty_Step.md "迷踪步")* | [疯狂](Crown_of_Madness.md "疯狂") * [黑暗术](Darkness.md "黑暗术") * |
+| [次级复原术](Lesser_Restoration.md "恢复") [沉默术](Silence.md "沉默术") * | [迷踪步](Misty_Step.md "迷踪步")* [月华之光](Moonbeam.md "月华之光") * | [守护之链](Warding_Bond.md "守护之链")* [灵体武器](Spiritual_Weapon.md "灵体武器")* | [人类定身术](Hold_Person.md "人类定身术") * [迷踪步](Misty_Step.md "迷踪步")* | [疯狂](Crown_of_Madness.md "疯狂") * [黑暗术](Darkness.md "黑暗术") * |
 
 ### 等级 8
 

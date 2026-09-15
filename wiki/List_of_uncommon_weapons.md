@@ -44,10 +44,10 @@
 | [重弩 +1](Heavy_Crossbow_+1.md "重弩 +1") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 85 |  |
 | [地狱骑士团长弓](Hellrider_Longbow.md "地狱骑士团长弓") | +1 | 1d8 + 1 | 穿刺 | 1.1 kg / 2.2 lb | 770 | [加强感知](Heightened_Awareness.md "加强感知")获得+3到[先攻](Initiative.md "先攻")掷骰和[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")的[优势](Advantage.md "优势")。[邪魔火焰](Fiendish_Fire.md "邪魔火焰")每回合一次，被此武器击中的生物可能遭受[妖火](Faerie_Fire_(Condition).md "妖火（状态）")。 |
 | [跳跳](Hoppy.md "跳跳") | +1 | 1d8 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 100 | [再生打击](Revitalising_Strike.md "再生打击") 猛击敌人，使其受伤并治疗自己的伤势。 ( 重充能：[短休](Short_rest.md "短休")。) |
-| [猎人匕首](Hunter's_Dagger.md "猎人匕首") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [地动山摇](Rupturing.md "地动山摇")命中时，目标在3回合内[撕裂](Ruptured_(Condition).md "撕裂（状态）")。 |
+| [猎人匕首](Hunter's_Dagger.md "猎人匕首") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [地动山摇](Rupturing.md "地动山摇")命中时，目标在3回合内[裂地](Ruptured_(Condition).md "裂地（状态）")。 |
 | [狩猎短弓](Hunting_Shortbow.md "狩猎短弓") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [猎魔](Feller_of_Monsters.md "猎魔")你对[怪兽](Monstrosity.md "怪兽")类敌人拥有[优势](Advantage.md "优势")。[猎人印记](Hunter's_Mark.md "猎人印记") 施放为1环法术 ( 重充能：[长休](Long_Rest.md "长休")。) |
 | [地狱硬头锤 (不常见)](Infernal_Mace_(Uncommon).md "地狱硬头锤 (不常见)") | +1 | 1d6 + 1 / 3 | 钝击 / 毒素 | 1.8 kg / 3.6 lb | 65 | [地狱武器](Infernal_Weapon.md "地狱武器")命中时，此武器造成额外3[中毒](Poison.md "中毒")伤害，并可能使目标[中毒](Poisoned_(Condition).md "中毒（状态）")。 |
-| [顽固战锤](Intransigent_Warhammer.md "顽固战锤") |  | 1d8 | 钝击 | 2.7 kg / 5.4 lb | 100 | [斥力爆](Impulse_Blast.md "斥力爆")在击杀目标或造成[重击](Critical_Hit.md "重击")后，击倒附近的生物使其[倒地](Prone_(Condition).md "倒地（状态）")。 |
+| [顽固战锤](Intransigent_Warhammer.md "顽固战锤") |  | 1d8 | 钝击 | 2.7 kg / 5.4 lb | 100 | [斥力爆](Impulse_Blast.md "斥力爆")在击杀目标或造成[重击](Critical_Hit.md "重击")后，击倒附近的生物使其[倒伏](Prone_(Condition).md "倒伏（状态）")。 |
 | [硬木短棒](Ironwood_Club.md "硬木短棒") | +1 | 1d4 + 1 | 钝击 | 0.9 kg / 1.8 lb | 65 | 当[橡棍术](Shillelagh.md "橡棍术")施放于此武器时，获得[硬木和谐](Ironwood_Harmony_(Condition).md "硬木和谐（状态）") (+1d4 钝击伤害)。 |
 | [锯齿矛](Jagged_Spear.md "锯齿矛") |  | 1d6 | 穿刺 | 1.35 kg / 2.7 lb | 330 | [拷虐之刃](Torturous_Edges.md "拷虐之刃")受折磨的生物可能在体质[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")。 |
 | [标枪 +1](Javelin_+1.md "标枪 +1") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 10 |  |
@@ -63,7 +63,7 @@
 | [硬头锤 +1](Mace_+1.md "硬头锤 +1") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 40 |  |
 | [魔法长矛](Magical_Pike.md "魔法长矛") | +1 | 1d10 + 1 | 穿刺 | 8.1 kg / 16.2 lb | 40 |  |
 | [巨锤 +1](Maul_+1.md "巨锤 +1") | +1 | 2d6 + 1 | 钝击 | 4.5 kg / 9 lb | 40 |  |
-| [马友夫初始法杖](Melf's_First_Staff.md "马友夫初始法杖") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 100 | [奥术增强](Arcane_Enchantment_(+1).md "奥术增强 (+1)")你获得+1到[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。[马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭") 施放为2环法术 ( 重充能：[长休](Long_Rest.md "长休")。) |
+| [马友夫初始法杖](Melf's_First_Staff.md "马友夫初始法杖") | +1 | 1d6 + 1 | 钝击 | 1.8 kg / 3.6 lb | 100 | [奥术增强](Arcane_Enchantment_(+1).md "奥术增强 (+1)")你获得+1到[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。[马友夫强酸箭](Melf's_Acid_Arrow.md "马友夫强酸箭") 施放为2环法术 ( 重充能：[长休](Long_Rest.md "长休")。) |
 | [军团魔长戟](Merregon_Halberd.md "军团魔长戟") | +1 | 1d10 + 1 | 挥砍 | 2.7 kg / 5.4 lb | 85 |  |
 | [钉头锤 +1](Morningstar_+1.md "钉头锤 +1") | +1 | 1d8 + 1 | 穿刺 | 1.8 kg / 3.6 lb | 65 |  |
 | [凶残切割](Murderous_Cut.md "凶残切割") | +1 | 1d4 + 1 | 穿刺 | 0.45 kg / 0.9 lb | 65 | [弱肉强食](Prey_Upon_the_Weak.md "弱肉强食")此武器对生命值低于或等于50%的目标造成额外1d4[穿刺](Piercing.md "穿刺")伤害。 |
@@ -88,9 +88,9 @@
 | [第一滴血短剑](Shortsword_of_First_Blood.md "第一滴血短剑") |  | 1d6 | 穿刺 | 0.9 kg / 1.8 lb | 65 | [锉金败玉](Break_the_Unbroken.md "锉金败玉")对生命值仍为满值的目标造成额外1d8[穿刺](Piercing.md "穿刺")伤害。 |
 | [铁匠的愤怒](Skybreaker.md "铁匠的愤怒") | +1 | 1d4 + 1 | 钝击 | 0.9 kg / 1.8 lb | 65 | [炽焰斩](Searing_Smite.md "炽焰斩") ( + ) 施放为1环法术 ( 重充能：[长休](Long_Rest.md "长休")。) |
 | [短矛 +1](Spear_+1.md "短矛 +1") | +1 | 1d6 + 1 | 穿刺 | 1.35 kg / 2.7 lb | 40 |  |
-| [迅捷回击](Speedy_Reply.md "迅捷回击") |  | 1d6 | 挥砍 | 1.35 kg / 2.7 lb | 65 | [灵巧打击](Nimble_Attack.md "灵巧打击")当使用者用此武器击中敌人时，获得2回合的[动量](Momentum_(Condition).md "动量（状态）")。 |
+| [迅捷回击](Speedy_Reply.md "迅捷回击") |  | 1d6 | 挥砍 | 1.35 kg / 2.7 lb | 65 | [灵巧打击](Nimble_Attack.md "灵巧打击")当使用者用此武器击中敌人时，获得2回合的[亢奋](Momentum_(Condition).md "亢奋（状态）")。 |
 | [盗法者](Spellthief.md "盗法者") |  | 1d8 | 穿刺 | 1.1 kg / 2.2 lb | 100 | [奥术激荡](Arcane_Vehemence.md "奥术激荡")每[短休](Short_rest.md "短休")一次，当你用盗法者造成[重击](Critical_Hit.md "重击")时，恢复1个1环[法术位](Spell_Slot.md "法术位")。 |
-| [呢喃法师之杖](Staff_of_a_Mumbling_Wizard.md "呢喃法师之杖") |  | 1d6 | 钝击 | 1.8 kg / 3.6 lb | 10 | [火球术术？](Firebolt_q_.md "火球术术？") 随意施放戏法，但有1/20几率引发[火球术](Fireball.md "火球术")爆炸。 |
+| [呢喃法师之杖](Staff_of_a_Mumbling_Wizard.md "呢喃法师之杖") |  | 1d6 | 钝击 | 1.8 kg / 3.6 lb | 10 | [火焰箭？](Firebolt_q_.md "火焰箭？") 随意施放戏法，但有1/20几率引发[火球术](Fireball.md "火球术")爆炸。 |
 | [奥术祝福法杖](Staff_of_Arcane_Blessing.md "奥术祝福法杖") |  | 1d6 | 钝击 | 1.8 kg / 3.6 lb | 100 | [密斯特拉的祝福](Mystra's_Blessing.md "密斯特拉的祝福")你[祝福术](Bless.md "祝福术")的生物也会获得[密斯特拉的祝福](Mystra's_Blessing_(Staff_of_Arcane_Blessing)_(Condition).md "密斯特拉的祝福（奥术祝福法杖）（状态）")，获得额外1d4到法术攻击掷骰。[[见：错误](Mystra's_Blessing#Bugs.md#Bugs "密斯特拉的祝福")] [祝福术](Bless.md "祝福术") 施放为1环法术 ( 重充能：[长休](Long_Rest.md "长休")。) |
 | [鬼婆的法杖](Staff_of_Crones.md "鬼婆的法杖") |  | 1d6 | 钝击 | 1.8 kg / 3.6 lb | 430 | [疾病射线](Ray_of_Sickness.md "疾病射线") 施放为1环法术 ( 重充能：[短休](Short_rest.md "短休")。) |
 | [钢铸剑](Steelforged_Sword.md "钢铸剑") | +1 | 1d6 + 1 | 穿刺 | 0.9 kg / 1.8 lb | 60 |  |

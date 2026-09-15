@@ -20,7 +20,7 @@
 穿戴此物品者获得：
 
 [邪恶真菌](Malefic_Funghi.md "邪恶真菌")
-穿戴者获得+1的[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值，并且在造成[黯蚀](Necrotic.md "黯蚀")伤害时，额外造成1点[黯蚀](Necrotic.md "黯蚀")伤害。
+穿戴者获得+1的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")加值，并且在造成[黯蚀](Necrotic.md "黯蚀")伤害时，额外造成1点[黯蚀](Necrotic.md "黯蚀")伤害。
 
 [孢子袋](Spore_Sacks.md "孢子袋")
 当被[共生实体](Symbiotic_Entity_(Condition).md "共生实体（状态）")灌注时，你可以散布[噼啪砰孢子](Bibberbang_Spores.md "噼啪砰孢子")、[鬼头蘑菇孢子](Timmask_Spores_(class_action).md "鬼头蘑菇孢子（职业动作）")和[加速孢子](Haste_Spores.md "加速孢子")。

@@ -361,11 +361,11 @@ ______________________________________________________________________
 - [舞光匕首](Gleamdance_Dagger.md "舞光匕首") - 由[法尔林](Farlin.md "法尔林")掉落
 - [火焰敏锐之帽](Hat_of_Fire_Acuity.md "火焰敏锐之帽") - 由[古怪公牛](Strange_Ox.md "古怪公牛")掉落
 - [霍洛的法杖](Hollow's_Staff.md "霍洛的法杖") - 由[卢克修斯](Lucretious.md "卢克修斯")掉落
-- [夺心魔大脑](Mind_Flayer_Brain.md "夺心魔大脑") - 由[夺心魔（磨坊）](Mind_flayer_(windmill)掉落.md)
+- [夺心魔大脑](Mind_Flayer_Brain.md "夺心魔大脑") - 由[夺心魔（磨坊）](Mind_flayer_(windmill).md)掉落
 - [夺心魔寄生虫标本](Mind_Flayer_Parasite_Specimen.md "夺心魔寄生虫标本") - x3
 - [元素强化项链](Necklace_of_Elemental_Augmentation.md "元素强化项链")
 - [闪烁之戒](Ring_of_Blink.md "闪烁之戒") - 由[塔拉](Tara.md "塔拉")奖励
-- [真实之戒](Ring_of_Truthfulness.md "真实之戒") - 由[夺心魔（磨坊）](Mind_flayer_(windmill)掉落.md)
+- [真实之戒](Ring_of_Truthfulness.md "真实之戒") - 由[夺心魔（磨坊）](Mind_flayer_(windmill).md)掉落
 - [符文火药炸弹](Runepowder_Bomb.md "符文火药炸弹") - 由[乌尔布伦](Wulbren.md "乌尔布伦")给予
 - [符文火药桶](Runepowder_Barrel.md "符文火药桶") - x2
 - [感知护符（非常稀有）](Sentient_Amulet_(Very_Rare).md "感知护符（非常稀有）")<sup>[\[9\]](#cite_note-9)</sup>

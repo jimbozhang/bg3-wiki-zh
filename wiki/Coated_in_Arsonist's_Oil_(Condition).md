@@ -105,7 +105,7 @@
 |
 
 - 严重削弱被此武器击中的任何施法者的力量。
-- 目标在法术[攻击掷骰](Attack_roll.md "攻击掷骰")和[法术豁免DC](Spell_save_DC.md "法术豁免DC")上获得-3惩罚，并且在维持[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")，持续2回合。
+- 目标在法术[攻击掷骰](Attack_roll.md "攻击掷骰")和[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")上获得-3惩罚，并且在维持[专注](Concentration.md "专注")的[豁免检定](Saving_throw.md "豁免检定")上获得[劣势](Disadvantage.md "劣势")，持续2回合。
 
 [翼龙毒素涂抹](Coated_in_Wyvern_Toxin_(Condition).md "翼龙毒素涂抹 (状态)")
 |

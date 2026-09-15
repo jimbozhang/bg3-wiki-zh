@@ -13,7 +13,7 @@
 
 ### 属性
 
-**班恩黑手**是[班恩](Bane_(God)的教徒.md)，也是[恩维尔·戈塔什大人](Lord_Enver_Gortash.md "恩维尔·戈塔什大人")麾下最高级的军官。
+**班恩黑手**是[班恩](Bane_(God).md)的教徒，也是[恩维尔·戈塔什大人](Lord_Enver_Gortash.md "恩维尔·戈塔什大人")麾下最高级的军官。
 
 | “ |
 
@@ -53,7 +53,7 @@
 
 使敌人在你的压迫性存在范围内进行[攻击](Attack.md "攻击")和[豁免检定](Saving_throws.md "豁免检定")时处于[劣势](Disadvantage.md "劣势")。
 
-无法被[恐慌](Frightened_(Condition)的生物免疫此灵光.md)。
+无法被[恐慌](Frightened_(Condition).md)的生物免疫此灵光。
 
 范围：自身
 冷却：每场战斗

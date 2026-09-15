@@ -39,7 +39,7 @@
 
 **[扭动灵魂](Writhing_Souls_(Condition).md "扭动灵魂（状态）")**
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 当处于灵魂飞升区域内时，此非邪魔每驱散会因灵魂被撕裂而承受6d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 

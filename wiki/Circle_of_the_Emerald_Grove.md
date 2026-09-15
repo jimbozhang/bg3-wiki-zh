@@ -41,7 +41,7 @@
 
 由此可知，翠绿林地之环收容了来自[艾尔图瑞尔](Elturel.md "艾尔图瑞尔")的[提夫林难民](Tiefling_Refugees.md "提夫林难民")，将他们安置在[空谷](The_Hollow.md "空谷")。与当地德鲁伊商人[艾隆](Arron.md "Arron")、由[叶罗娜](Jeorna.md "Jeorna")带领的德鲁伊守卫以及[赛夫洛](Zevlor.md "Zevlor")等提夫林人的进一步互动显示，教团成员与难民之间存在敌意。在[内殿](Inner_Sanctum.md "Inner Sanctum")，大德鲁伊[卡哈](Kagha.md "Kagha")正在主持一场关于[阿拉贝尔](Arabella.md "Arabella")试图偷窃其神圣[西凡那斯神像](Idol_of_Silvanus.md "西凡那斯神像")的审判。
 
-无论审判结果如何，卡哈都会告诉冒险者，提夫林难民的存在使教团陷入危险。卡哈要求冒险者通过⁠[击败地精](Defeat_the_Goblins.md "Defeat the Goblins")来让难民离开，否则教团将消灭提夫林人，并启动[荆棘仪式](Rite_of_Thorns_(ritual)以永久封闭林地与外界的联系.md)。虽然大多数德鲁伊支持卡哈的决定，或出于绝望而同意她的做法，但另一些人如[埃皮库西斯](Apikusis.md "Apikusis")和[拉斯](Rath.md "Rath")则希望阻止林地被封闭，或不同意她的愿景。拉斯向冒险者透露，卡哈只是代理大德鲁伊，而大德鲁伊[哈尔辛](Halsin.md "Halsin")已随冒险者们向西前往[地精营地](Goblin_Camp.md "Goblin_Camp")。拉斯会请求冒险者⁠[解救首席德鲁伊](Save_the_First_Druid.md "Save the First Druid")，而哈尔辛的学徒[内蒂](Nettie.md "Nettie")在被请求帮助移除[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "Mind Flayer Tadpole")时也会提出同样的请求。
+无论审判结果如何，卡哈都会告诉冒险者，提夫林难民的存在使教团陷入危险。卡哈要求冒险者通过⁠[击败地精](Defeat_the_Goblins.md "Defeat the Goblins")来让难民离开，否则教团将消灭提夫林人，并启动[荆棘仪式](Rite_of_Thorns_(ritual).md)以永久封闭林地与外界的联系。虽然大多数德鲁伊支持卡哈的决定，或出于绝望而同意她的做法，但另一些人如[埃皮库西斯](Apikusis.md "Apikusis")和[拉斯](Rath.md "Rath")则希望阻止林地被封闭，或不同意她的愿景。拉斯向冒险者透露，卡哈只是代理大德鲁伊，而大德鲁伊[哈尔辛](Halsin.md "Halsin")已随冒险者们向西前往[地精营地](Goblin_Camp.md "Goblin_Camp")。拉斯会请求冒险者⁠[解救首席德鲁伊](Save_the_First_Druid.md "Save the First Druid")，而哈尔辛的学徒[内蒂](Nettie.md "Nettie")在被请求帮助移除[夺心魔蝌蚪](Mind_Flayer_Tadpole.md "Mind Flayer Tadpole")时也会提出同样的请求。
 
 此时，冒险者可以说服赛夫洛攻击翠绿林地之环，夺取林地控制权，为难民争取时间。或者，如果冒险者试图从[圣池](Sacred_Pool.md "Sacred Pool")⁠[偷走神像](Steal_the_Sacred_Idol.md "Steal the Sacred Idol")，德鲁伊们可能会自行攻击提夫林人和冒险者。
 

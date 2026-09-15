@@ -54,7 +54,7 @@
 火焰地表也可通过以下方式创建：
 
 - 爆炸[油桶](Oil_Barrel.md "Oil Barrel")、[烟粉桶](Smokepowder_Barrel.md "Smokepowder Barrel")和/或[火酒桶](Firewine_Barrel.md "Firewine Barrel")。
-- 点燃[油](Oil.md "Oil")、[烟粉](Smokepowder_(surface).md)、[油脂](Grease_(surface).md)、[不稳血液](Unstable_Blood_(surface)和/.md)或[酒](Alcohol_(surface).md)。
+- 点燃[油](Oil.md "Oil")、[烟粉](Smokepowder_(surface).md)、[油脂](Grease_(surface).md)、[不稳血液](Unstable_Blood_(surface).md)和/或[酒](Alcohol_(surface).md)。
 
 火焰燃尽后，会留下[灰烬](Ash.md "Ash")地表。
 

@@ -1,6 +1,6 @@
 # 探索废墟
 
-**探索废墟**是[博德之门3](Baldur's Gate_3.md "博德之门3")[第一幕](Act_One.md "第一幕")中的一个[任务](Quest.md "任务")。可以通过接近[蔓生废墟](Overgrown_Ruins.md "蔓生废墟")或阅读[散落的日记](Disintegrating_Journal.md "散落的日记")来触发。
+**探索废墟**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第一幕](Act_One.md "第一幕")中的一个[任务](Quest.md "任务")。可以通过接近[蔓生废墟](Overgrown_Ruins.md "蔓生废墟")或阅读[散落的日记](Disintegrating_Journal.md "散落的日记")来触发。
 
 ## 目录
 

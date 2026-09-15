@@ -21,7 +21,7 @@
 
 **[冷冻射线](Ray_of_Frost_(Condition).md "冷冻射线 (状态)")**
 
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
 - [移动速度](Movement_speed.md "移动速度") 缩小 3 m (10 ft)。
 

@@ -51,7 +51,7 @@
 | ↓ |  |  |  |  |
 | [地精营地](Goblin_Camp.md "地精营地") |  |  |  |  |
 
-从山隘 X: -146 Y: 569 处向西的道路通往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")，并会提示一条警告信息，要求在前进前处理好所有未竟事宜。前往那里会自动解决一些任务，特别是[解救难民](Save_the_Refugees.md "解救难民")和[洗劫翠绿林地](Raid_the_Emerald_Grove.md "洗劫翠绿林地")；这也会导致[荆棘仪式](Rite_of_Thorns_(ritual)完成.md)。
+从山隘 X: -146 Y: 569 处向西的道路通往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")，并会提示一条警告信息，要求在前进前处理好所有未竟事宜。前往那里会自动解决一些任务，特别是[解救难民](Save_the_Refugees.md "解救难民")和[洗劫翠绿林地](Raid_the_Emerald_Grove.md "洗劫翠绿林地")；这也会导致[荆棘仪式](Rite_of_Thorns_(ritual).md)完成。
 
 ## 互动
 

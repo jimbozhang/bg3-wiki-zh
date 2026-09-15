@@ -1,6 +1,6 @@
 # 爬行者粘液
 
-爬行者粘液是一种[消耗品](Consumables.md "消耗品")（[涂层](Coatings.md "涂层")）。它可以涂抹在武器上，使其获得特殊效果，持续十[驱散](Turn.md "驱散")，或作为[手雷](Grenades.md "手雷")[投掷](Throw.md "投掷")，在区域内造成其效果。
+爬行者粘液是一种[消耗品](Consumables.md "消耗品")（[涂层](Coatings.md "涂层")）。它可以涂抹在武器上，使其获得特殊效果，持续十[驱散](Turned_(Condition).md "驱散")，或作为[手雷](Grenades.md "手雷")[投掷](Throw.md "投掷")，在区域内造成其效果。
 
 这种粘稠的膜状毒药的基底是从[食腐虫](https://forgottenrealms.fandom.com/wiki/carrion_crawler)的甲壳上刮下来的。
 

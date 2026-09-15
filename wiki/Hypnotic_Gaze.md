@@ -15,7 +15,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 近战：1.5米（5英尺）
 充能：[长休](Long_Rest.md "长休")
 
@@ -29,7 +29,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 无法移动或采取动作、附赠动作或反应。
 - 施法者在对话中进行[属性检定](Ability_Check.md "属性检定")时具有[优势](Advantage.md "优势")。

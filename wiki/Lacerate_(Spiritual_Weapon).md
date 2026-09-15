@@ -2,7 +2,7 @@
 
 本文介绍的是灵体武器使用的攻击版本。关于普通武器动作，请参见[割裂](Lacerate.md "割裂")。
 
-**割裂**是[灵体武器](Spiritual_Weapon.md "灵体武器")召唤的[长戟](Spiritual_Weapon_(halberd).md)、[巨剑](Spiritual_Weapon_(greatsword).md)和[巨斧](Spiritual_Weapon_(greataxe)可用的武器动作.md)。
+**割裂**是[灵体武器](Spiritual_Weapon.md "灵体武器")召唤的[长戟](Spiritual_Weapon_(halberd).md)、[巨剑](Spiritual_Weapon_(greatsword).md)和[巨斧](Spiritual_Weapon_(greataxe).md)可用的武器动作。
 
 ## 描述
 

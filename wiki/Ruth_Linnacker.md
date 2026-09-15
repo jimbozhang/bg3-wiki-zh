@@ -49,7 +49,7 @@
 
 仪式结束后，林纳克女士留在王座附近，聆听其他几位宾客与戈塔什和[乌尔德·雷文加德](Ulder_Ravengard.md "Ulder Ravengard")讨论[钢铁卫士](Steel_Watcher.md "Steel Watcher")，但并未过多参与谈话。如果与她交谈，她会称赞戈塔什是“人民的合适人选”，并表示在他担任大公期间，市民们将安然无恙。
 
-如果选择[与戈塔什对峙](Confront_Gortash.md "Confront Gortash")，队伍可以在礼堂内发现林纳克女士与其他所有受邀宾客及其随从一同被屠杀。
+如果选择与戈塔什对峙，队伍可以在礼堂内发现林纳克女士与其他所有受邀宾客及其随从一同被屠杀。
 
 根据[忠诚之黑手](Black_Hand_of_Loyalty.md "Black Hand of Loyalty")的研究，露丝·林纳克女士是那些可能通过贿赂、勒索或直接威胁而轻易加入邪教的贵族之一。<sup>[\[1\]](#cite_note-1)</sup>
 

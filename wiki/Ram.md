@@ -17,7 +17,7 @@
 2d6[火焰](Fire.md "火焰")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子检定")) (豁免成功时：目标仍受一半伤害。)
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子检定")) (豁免成功时：目标仍受一半伤害。)
 近战：1.5米（5英尺）
 
 ## 升环施法
@@ -30,7 +30,7 @@
 
 ## 错误
 
-- 此攻击总是使用施法者的感知来确定法术豁免DC，而无视召唤者实际的施法关键属性。
+- 此攻击总是使用施法者的感知来确定法术豁免难度等级，而无视召唤者实际的施法关键属性。
 
 ---
 *Source: [Ram](https://bg3.wiki/wiki/Ram)*

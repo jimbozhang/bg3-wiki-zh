@@ -59,7 +59,7 @@
 
 ## 关于
 
-僵尸可以在第二幕和第三幕的各种地点找到。在第二幕期间，可以在[治疗中心停尸房](House_of_Healing_Morgue.md "治疗中心停尸房")和[古代密室](Ancient_Lair.md "古代密室")遇到它们。在第三幕期间，可以在[墓园](Graveyard_(Lower_City)从地面复活它们.md)。
+僵尸可以在第二幕和第三幕的各种地点找到。在第二幕期间，可以在[治疗中心停尸房](House_of_Healing_Morgue.md "治疗中心停尸房")和[古代密室](Ancient_Lair.md "古代密室")遇到它们。在第三幕期间，可以在[墓园](Graveyard_(Lower_City).md)从地面复活它们。
 
 ### 操纵死尸
 

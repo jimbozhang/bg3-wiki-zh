@@ -5,14 +5,14 @@
 Absolute Power Corrupts | 以恐怖统治：控制[主脑](Netherbrain.md "主脑")并让世界屈服于你的意志。 | 是 | [动作如潮](Guide_colon_Action_Surge_(achievement).md) | 在一回合内执行五次攻击。你的敌人将不知道是什么击中了他们（字面意思）。 |  |
 All's Well That Ends Well | 完成游戏（附带拉瑞安工作室的衷心感谢）。 | 是 | Bedrolls and Breakfast | 在单次游戏流程中进行四次完整的[长休](Long_Rest.md "长休")——冒险是项累人的工作。 |  |
 Bookworm | 在单次游戏流程中阅读100本不同的书籍。冒险不仅仅是大胆的任务，你知道的。 |  | Bottoms Up | 仅使用酒精进行长休——一项历史悠久的矮人传统。 |  |
-Busker | 在单次游戏流程中通过[演奏甜美动人的音乐](Perform_(disambiguation)赚取一百金币.md)。 |  | Ceremorphosis | 做出终极牺牲：成为夺心魔以击败主脑。 | 是 |
+Busker | 在单次游戏流程中通过[演奏甜美动人的音乐](Perform_(disambiguation).md)赚取一百金币。 |  | Ceremorphosis | 做出终极牺牲：成为夺心魔以击败主脑。 | 是 |
 Crash Landing | 在[飞龙岩之道](Wyrmway.md "飞龙岩之道")中，等待巨龙飞行至半途，然后将其击落天空——砰！ |  | Critical Hit | 在[硬核](Tactician.md "硬核")模式下完成游戏。 |  |
 Descent From Avernus | 控制鹦鹉螺并逃离地狱。 |  | Devil's in the Details | 在鹦鹉螺上击败指挥官[扎尔克](Zhalk.md "扎尔克")。 |  |
 Dig for Victory | 在单次游戏流程中挖出五个埋藏的宝箱——宝藏！ |  | Embrace Your Urge | 成为巴尔的终极武器——成为他的杀戮者。 | 是 |
 Escapologist | 被捕后越狱——你不是挺大胆的吗？ |  | Expand Your Mind | 消耗一个寄生虫并解锁新能力——它会一路扭动下去吗？ | 是 |
 [Fancy Footwork](Guide_colon_Fancy_Footwork_(achievement).md) | 在飞龙岩要塞击败戈塔什，不触发任何陷阱。 |  | Fetch Quest | 和[挠挠](Scratch.md "挠挠")玩接球游戏——界域里最棒的男孩。 |  |
 First Blood | 在[奥林](Orin.md "奥林")的邪教徒进行仪式吟唱时杀死她。 | 是 | Fists of Fury | 用[徒手打击](Unarmed_Strike.md "徒手打击")杀死一个角色。<sup>[\[1\]](#cite_note-1)</sup> |  |
-Foehammer | 在[荣誉](Honour.md "荣誉")模式下完成游戏。 | 是 (GOG) | Forged in Blood and Fire | 在[精金熔炉](Adamantine_Forge_(location)中制作一件物品.md)。 | 是 |
+Foehammer | 在[荣誉](Honour.md "荣誉")模式下完成游戏。 | 是 (GOG) | Forged in Blood and Fire | 在[精金熔炉](Adamantine_Forge_(location).md)中制作一件物品。 | 是 |
 Hero of the Forgotten Realms | 拯救世界：杀死主脑并摧毁至上寄生虫。 | 是 | Homebrewer | 在单次游戏流程中创造三种独特的[炼金术](Alchemy.md "炼金术")——干杯！ |  |
 Hot Date | 与[卡菈克](Karlach.md "卡菈克")约会——这可是在玩火。 | 是 | Interfectorem Draconis | 杀死[与主脑对峙](Confront_the_Elder_Brain.md "与主脑对峙")。 | 是 |
 Jack-of-all-Trades | 在单次游戏流程中兼职所有职业，且不通过守墓人更改你的角色。<sup>[\[2\]](#cite_note-2)</sup> |  | Just a Nibble | 让[阿斯代伦](Astarion.md "阿斯代伦")咬你一口——哎哟。 | 是 |
@@ -21,7 +21,7 @@ Loophole | 打破[威尔](Wyll.md "威尔")与[米佐拉](Mizora.md "米佐拉")
 Murder in Baldur's Gate | 让博德之门的街道血流成河——成为巴尔的邪神刺客。 | 是 | [指南：天下没有免费的午餐](Guide_colon_No_Free_Lunches.md "指南：天下没有免费的午餐") | 在[米尔寇的使徒](Apostle_of_Myrkul.md "米尔寇的使徒")消耗任何死灵侍僧之前击败它。 | 是 |
 No Penny Required | 成功使用[侦测思想](Detect_Thoughts.md "侦测思想")窥探某人的想法。 |  | [无创手术](Non-Invasive_Procedure.md "无创手术") | 在战斗中在外科医生对你进行手术前杀死他。 |  |
 Outsourcing | 招募一个[雇佣兵](Hireling.md "雇佣兵")。你可以与他们交朋友，也可以把他们当炮灰——我们不会评判。 |  | Penny Pincher | 在[格灵哥斯·索姆](Gerringothe_Thorm.md "格灵哥斯·索姆")不使用金币对付你的情况下击败她——出色的预算管理。 |  |
-[害虫防治](Pest_Control.md "害虫防治") | 在蜘蛛女皇的卵孵化前杀死她——她们为什么有这么多条腿？ | 是 | [Punch Drunk](Punch_Dunk.md "醉拳") | 在单次游戏流程中，当一名队伍角色醉酒时击败二十个对手——放倒他们。 |  |
+[害虫防治](Pest_Control.md "害虫防治") | 在蜘蛛女皇的卵孵化前杀死她——她们为什么有这么多条腿？ | 是 | Punch Drunk | 在单次游戏流程中，当一名队伍角色醉酒时击败二十个对手——放倒他们。 |  |
 Repairing the Weave | 稳定[盖尔](Gale.md "盖尔")的耐瑟瑞尔法球。 | 是 | Roleplayer | 在单次游戏流程中完成十个背景目标——你与你的角色融为一体。 |  |
 [变体](Scroll_of_Summon_Quasit.md "变体") | 找到并召唤夸塞魔“铲子”。或者她的名字是……“叉子”？也许是“篮子”？ | 是 | [指南:她无法被囚禁！](Guide_colon_She_Cannot_Be_Caged!.md "指南:她无法被囚禁！") | 在单次游戏流程中从翠绿林地、地精营地和月出之塔救出萨扎。 | 是 |
 Shove Off | 用坠落伤害杀死一个生物。 |  | Sins of the Father | 宣称你的血之王座：为巴尔控制主脑并摧毁世界。 | 是 |

@@ -1,6 +1,6 @@
-# 次级恢复
+# 次级复原术
 
-**次级恢复**是一个[法术](Spells.md "法术")。它允许施法者治疗一个相邻的生物。
+**次级复原术**是一个[法术](Spells.md "法术")。它允许施法者治疗一个相邻的生物。
 
 ## 描述
 
@@ -31,11 +31,11 @@
 ## 备注
 
 - 尽管游戏内描述未提及，此法术也能治疗[贫血](Bloodless_(Condition).md "贫血 (状态)")。
-- 次级恢复的咒语是 **Vincerē et Viverē**，拉丁语意为“征服与生存”。
+- 次级复原术的咒语是 **Vincerē et Viverē**，拉丁语意为“征服与生存”。
 
 ## 外部链接
 
-- ⁠[次级恢复](https://forgottenrealms.fandom.com/wiki/Lesser_restoration) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[次级复原术](https://forgottenrealms.fandom.com/wiki/Lesser_restoration) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [Lesser Restoration](https://bg3.wiki/wiki/Lesser_Restoration)*

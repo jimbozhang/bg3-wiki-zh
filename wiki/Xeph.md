@@ -97,7 +97,7 @@
 
 ### 第一幕
 
-赛孚是试图在[圣池](Sacred_Pool.md "Sacred Pool")入口处打断[荆棘仪式](Rite_of_Thorns_(ritual)的提夫林暴民之一.md)。
+赛孚是试图在[圣池](Sacred_Pool.md "Sacred Pool")入口处打断[荆棘仪式](Rite_of_Thorns_(ritual).md)的提夫林暴民之一。
 
 ### 第二幕
 

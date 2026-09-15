@@ -76,7 +76,7 @@
 
 无论玩家角色是谁，塔拉都会出现在[利文顿](Rivington.md "利文顿")的[慈爱神殿](Open_Hand_Temple.md "慈爱神殿")屋顶上。她参与了任务[寻找丢失的信件](Find_the_Missing_Letters.md "寻找丢失的信件")，并且当盖尔在队伍中时会有独特的对话。无论盖尔是否在队伍中，都有可能在这里获得[闪烁之戒](Ring_of_Blink.md "闪烁之戒")。
 
-这次相遇之后，可以在[下城区](Lower_City.md "下城区")的[魔鬼的小费](Devil's_Fee.md "魔鬼的小费")屋顶上找到塔拉，她曾在那里出售[敏锐施法者之帽](Hat_of_the_Sharp_Caster.md "敏锐施法者之帽")。为了将塔拉推进到她的第三个地点，队伍必须从[巫术杂物店](Sorcerous Sundries.md "巫术杂物店")入口遮阳篷顶部获得敏锐施法者之帽（通过[心灵遥控](Telekinesis.md "心灵遥控")或[轰雷箭](Arrow_of_Roaring_Thunder.md "轰雷箭")），将其反扒窃到她身上，从她那里买回来，然后进行一次长休。
+这次相遇之后，可以在[下城区](Lower_City.md "下城区")的[魔鬼的小费](Devil's_Fee.md "魔鬼的小费")屋顶上找到塔拉，她曾在那里出售[敏锐施法者之帽](Hat_of_the_Sharp_Caster.md "敏锐施法者之帽")。为了将塔拉推进到她的第三个地点，队伍必须从[巫术杂物店](Sorcerous_Sundries.md "巫术杂物店")入口遮阳篷顶部获得敏锐施法者之帽（通过[心灵遥控](Telekinesis.md "心灵遥控")或[轰雷箭](Arrow_of_Roaring_Thunder.md "轰雷箭")），将其反扒窃到她身上，从她那里买回来，然后进行一次长休。
 
 第三次相遇发生在[海伯瑞之家](Highberry's_Home.md "海伯瑞之家")的屋顶上，塔拉在那里出售[飞索鞋](Slinging_Shoes.md "飞索鞋")。
 

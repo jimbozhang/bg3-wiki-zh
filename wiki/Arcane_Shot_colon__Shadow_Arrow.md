@@ -20,7 +20,7 @@
 
 详情
 远程武器[攻击掷骰](Attack_roll.md "攻击掷骰")
-[感知](Wisdom.md "感知")[豁免](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知")[豁免](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：普通武器射程
 
 ## 状态：目盲
@@ -29,7 +29,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "感知")[豁免](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知")[豁免](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响生物在[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 - 受影响生物的攻击和法术射程减少至3米（10英尺）。

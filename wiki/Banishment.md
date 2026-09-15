@@ -25,7 +25,7 @@
 
 持续时间：2回合
 
-[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 从此位面被放逐。
 - 无法被选为目标。

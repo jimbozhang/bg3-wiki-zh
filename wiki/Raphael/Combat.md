@@ -627,7 +627,7 @@ UUID
 
 - [**进化邪魔**](../Ascended_Fiend_(Condition).md "进化邪魔 (状态)")
 
-[灵魂过度充能](../Soul_Overcharge_(Condition)不会阻止他使用灵魂施法.md)。
+[灵魂过度充能](../Soul_Overcharge_(Condition).md)不会阻止他使用灵魂施法。
 
 ## 特性
 
@@ -669,7 +669,7 @@ UUID
 
 - [**进化邪魔**](../Ascended_Fiend_(Condition).md "进化邪魔 (状态)")
 
-[灵魂过度充能](../Soul_Overcharge_(Condition)不会阻止他使用灵魂施法.md)。
+[灵魂过度充能](../Soul_Overcharge_(Condition).md)不会阻止他使用灵魂施法。
 
 ## 特性
 
@@ -711,7 +711,7 @@ UUID
 
 - [**进化邪魔**](../Ascended_Fiend_(Condition).md "进化邪魔 (状态)")
 
-[灵魂过度充能](../Soul_Overcharge_(Condition)不会阻止他使用灵魂施法.md)。
+[灵魂过度充能](../Soul_Overcharge_(Condition).md)不会阻止他使用灵魂施法。
 
 ## 特性
 
@@ -753,7 +753,7 @@ UUID
 
 - [**进化邪魔**](../Ascended_Fiend_(Condition).md "进化邪魔 (状态)")
 
-[灵魂过度充能](../Soul_Overcharge_(Condition)不会阻止他使用灵魂施法.md)。
+[灵魂过度充能](../Soul_Overcharge_(Condition).md)不会阻止他使用灵魂施法。
 
 ## 特性
 

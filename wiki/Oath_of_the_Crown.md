@@ -163,7 +163,7 @@ _此副职获得其基础职业[圣武士](Paladin.md "圣武士")的所有特�
 
 [利文顿](Rivington.md "利文顿")
 
-- 向[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")地下室的[新生夺心魔](Newborn_Mind_Flayer.md "新生夺心魔")提供尸体喂食
+- 向[遗弃磨坊](Abandoned_Windmill.md "遗弃磨坊")地下室的[新生夺心魔](Abandoned_Windmill.md "新生夺心魔")提供尸体喂食
 - 作为[邪念](The_Dark_Urge.md "邪念")，向[古怪公牛](Strange_Ox.md "古怪公牛")揭示玩家角色的堕落
 - 同意帮助[古怪公牛](Strange_Ox.md "古怪公牛")，然后不带它进入城市
 

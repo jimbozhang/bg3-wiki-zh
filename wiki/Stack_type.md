@@ -117,7 +117,7 @@
 以下是移除或预防某些状态的一些方法。有关每种状态类型的完整治疗和预防列表，请参阅其文章。
 
 [治疗](Heal.md "治疗")
-[恢复](Lesser_Restoration.md "恢复")
+[次级复原术](Lesser_Restoration.md "恢复")
 [康复药水](Remedial_Potion.md "康复药水")
 [(更多)](Blinded_(Condition_Type).md#Removal).md#Removal> "目盲（状态类型）")
 |
@@ -186,7 +186,7 @@
 
 [治疗](Heal.md "治疗")
 [圣疗](Lay_on_Hands.md "圣疗")
-[恢复](Lesser_Restoration.md "恢复")
+[次级复原术](Lesser_Restoration.md "恢复")
 [(更多)](Diseased_(Condition_Type).md#Removal).md#Removal> "患病（状态类型）")
 |
 
@@ -214,7 +214,7 @@
 | [麻痹](https://bg3.wiki/w/index.php?title=Paralysed_(status_group)&action=edit&redlink=1) "麻痹（状态组）（页面不存在）") | [麻痹](Paralysed_(Condition).md "麻痹（状态）") |
 
 [慰藉箭](Arrow_of_Salving.md "慰藉箭")
-[恢复](Lesser_Restoration.md "恢复")
+[次级复原术](Lesser_Restoration.md "恢复")
 [(更多)](https://bg3.wiki/w/index.php?title=Paralysed_(Condition_Type)&action=edit&redlink=1) "麻痹（状态类型）（页面不存在）")
 |
 
@@ -232,7 +232,7 @@
 
 [抗毒剂](Antidote.md "抗毒剂")
 [圣疗](Lay_on_Hands.md "圣疗")
-[恢复](Lesser_Restoration.md "恢复")
+[次级复原术](Lesser_Restoration.md "恢复")
 [(更多)](Poisoned_(Condition_Type).md#Removal).md#Removal> "中毒（状态类型）")
 |
 

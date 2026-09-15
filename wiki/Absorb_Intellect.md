@@ -25,7 +25,7 @@
 \+ 5d8⁠[治疗](Healing.md "治疗")（4回合后）
 
 详情
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：9米（30英尺）
 充能：[短休](Short_rest.md "短休")
 持续时间：5回合
@@ -36,7 +36,7 @@
 
 持续时间：5回合
 
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - [智力](Intelligence.md "智力")正被降低1点。
 

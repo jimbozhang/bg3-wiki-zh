@@ -53,7 +53,7 @@
 
 此生物已死亡。
 
-**夏格林**，在游戏中名为**苍白尸体**，是在[第一幕](Act_One.md "第一幕")中于[幽暗地域](Underdark.md "幽暗地域")寻找[精金熔炉](Adamantine_Forge_(location)的三名卓尔探险者之一.md)。
+**夏格林**，在游戏中名为**苍白尸体**，是在[第一幕](Act_One.md "第一幕")中于[幽暗地域](Underdark.md "幽暗地域")寻找[精金熔炉](Adamantine_Forge_(location).md)的三名卓尔探险者之一。
 
 > “
 >

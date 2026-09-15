@@ -26,7 +26,7 @@
 
 ### 战利品
 
-- [钥匙（德林戈）](钥匙（德林戈）.md "钥匙（德林戈）")
+- [钥匙（德林戈）](Humanoid.md "钥匙（德林戈）")
 
 ---
 *Source: [Dringo](https://bg3.wiki/wiki/Dringo)*

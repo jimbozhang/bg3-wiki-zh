@@ -1,6 +1,6 @@
 # 为溺死鬼复仇
 
-**为溺死鬼复仇**是[博德之门3](Baldur's Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中的一个[任务](Quest.md "任务")。可以通过在[下城区](Lower_City.md "下城区")与[阿兰德拉·格雷](Allandra_Grey.md "阿兰德拉·格雷")交谈来开始。
+**为溺死鬼复仇**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三幕](Act_Three.md "第三幕")中的一个[任务](Quest.md "任务")。可以通过在[下城区](Lower_City.md "下城区")与[阿兰德拉·格雷](Allandra_Grey.md "阿兰德拉·格雷")交谈来开始。
 
 > “
 >

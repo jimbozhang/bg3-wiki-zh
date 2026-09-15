@@ -13,7 +13,7 @@
 | 移动速度 | 9 米 (30 英尺) |
 | 经验值 | 40 |
 
-**阿尔卡**是[幽暗地域](Underdark.md "幽暗地域")中一名[石化](Petrified_(Condition)的卓尔战士.md)，出现在[第一幕](Act_One.md "第一幕")。
+**阿尔卡**是[幽暗地域](Underdark.md "幽暗地域")中一名[石化](Petrified_(Condition).md)的卓尔战士，出现在[第一幕](Act_One.md "第一幕")。
 
 > “
 >

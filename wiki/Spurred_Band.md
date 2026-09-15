@@ -27,7 +27,7 @@
 持续时间：1 回合
 
 - 受紧迫感驱使。[移动速度](Movement_speed.md "Movement Speed")根据此效果的剩余持续时间每回合增加1.5米（5英尺）。
-- 当处于[束缚](Restrained_(Condition).md "Restrained (Condition)")、[失能](Incapacitated_(status_group).md)、[倒伏](Prone_(status_group)或被减速时移除.md)。
+- 当处于[束缚](Restrained_(Condition).md "Restrained (Condition)")、[失能](Incapacitated_(status_group).md)、[倒伏](Prone_(status_group).md)或被减速时移除。
 - **亢奋**的最大持续时间：5 回合。
 
 ## 获取地点

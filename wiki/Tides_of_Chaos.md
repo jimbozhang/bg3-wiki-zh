@@ -2,9 +2,9 @@
 
 本文介绍的是在掷骰后触发混沌之潮的反应。关于在掷骰前使用的可切换被动功能，请参见 [混沌之潮（被动特性）](Tides_of_Chaos_(passive_feature)..md)
 
-**混沌之潮**是[狂野魔法](Wild_Magic_(sorcerer_subclass)术士.md)的[反应](Reaction_(Combat).md)，用于重掷失败的攻击掷骰、豁免检定或技能检定，前提是该次掷骰未使用[优势](Advantage.md "优势")。此特性触发后，下一个施放的法术触发[狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法（被动特性）")的概率将大幅提升（50%几率，而非正常的5%）。
+**混沌之潮**是[狂野魔法](Wild_Magic_(sorcerer_subclass).md)术士的[反应](Reaction_(Combat).md)，用于重掷失败的攻击掷骰、豁免检定或技能检定，前提是该次掷骰未使用[优势](Advantage.md "优势")。此特性触发后，下一个施放的法术触发[狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法（被动特性）")的概率将大幅提升（50%几率，而非正常的5%）。
 
-或者，此特性也可通过对应的[可切换被动](Tides_of_Chaos_(passive_feature)在掷骰前使用.md)。
+或者，此特性也可通过对应的[可切换被动](Tides_of_Chaos_(passive_feature).md)在掷骰前使用。
 
 ## 描述
 
@@ -34,7 +34,7 @@
 
 - 狂野魔法术士获得1点混沌之潮充能，每次[短休](Short_rest.md "短休")或[长休](Long_Rest.md "长休")后充能恢复。
 - 通常，每次施放环法术时都会掷一个D20。如果结果为20，则触发爆发。混沌之潮将[骰子掷骰](DC.md "骰子掷骰")降低至11（即50%几率）。
-- 尽管它是作为[反应](Reaction_(Combat)触发的.md)，但它不消耗[反应](Actions.md#Reactions "动作")资源。
+- 尽管它是作为[反应](Reaction_(Combat).md)触发的，但它不消耗[反应](Actions.md#Reactions "动作")资源。
 - [妖精荒野火花戒](Ring_of_Feywild_Sparks.md "妖精荒野火花戒")使狂野魔法爆发几率变为100%。
 
 ## 错误

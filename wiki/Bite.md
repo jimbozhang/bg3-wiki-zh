@@ -2,7 +2,7 @@
 
 这是一个消歧义页面，指向名称模糊的文章。如果文章中的链接将您[啃咬](Special_colon_WhatLinksHere/Bite.md "啃咬")，请考虑编辑该链接以指向正确的页面。
 
-**啃咬**是各种[生物](Creature.md "Creature")使用的[近战攻击](Melee Attack.md "Melee Attack")，基于[啃咬（基础）](Bite_(Base).md "Bite (Base)")：
+**啃咬**是各种[生物](Creature.md "Creature")使用的[近战攻击](Melee_Attack.md "Melee Attack")，基于[啃咬（基础）](Bite_(Base).md "Bite (Base)")：
 
 - [啃咬（分支龙）](Bite_(Alioramus).md "Bite (Alioramus)")
 - [啃咬（獾）](Bite_(Badger).md "Bite (Badger)")

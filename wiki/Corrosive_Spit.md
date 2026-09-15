@@ -19,7 +19,7 @@
 \+ 1d10⁠[强酸](Acid.md "强酸")（每回合）
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：18米（60英尺）
 
 ## 更高等级
@@ -38,7 +38,7 @@
 
 持续时间：5回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 每回合受到1d10⁠⁠[强酸](Acid.md "强酸")伤害。
 - 受影响实体的[护甲等级](Armour_Class.md "护甲等级")已降低1点。唾液将持续侵蚀其防御，进一步降低其护甲等级，除非用水冲洗掉。
@@ -49,7 +49,7 @@
 
 持续时间：5回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响实体的[护甲等级](Armour_Class.md "护甲等级")已降低5点。唾液可用水清除。
 

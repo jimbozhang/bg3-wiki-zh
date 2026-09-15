@@ -25,7 +25,7 @@
 
 持续时间：10驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 对诅咒来源进行的 [攻击掷骰](Attack_roll.md "Attack Roll") 具有 [劣势](Disadvantage.md "Disadvantage")。
 

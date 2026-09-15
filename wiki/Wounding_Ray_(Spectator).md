@@ -16,8 +16,8 @@
 
 详情：
 射程：18米（60英尺）
-充能：每[驱散](Turn.md "驱散")
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷定")）（豁免成功时：目标仍承受一半伤害。）
+充能：每[驱散](Turned_(Condition).md "驱散")
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷定")）（豁免成功时：目标仍承受一半伤害。）
 
 ## 学习方式
 

@@ -96,7 +96,7 @@ Stats
 
 ### 奥林的背叛
 
-邪念与 ⁠[灾祸术](Bane_(God)</sup>.md) 的选民[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")联手，共同策划了一个计划：窃取[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")——一件拥有巨大力量的古老神秘物品，并用它来奴役一个[主脑](Elder_Brain.md "Elder Brain")，以创造一支无魂军队来毁灭世界。<sup>[\[11\]](#cite_note-11] 在招募了[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")</sup>——⁠[米尔寇](Myrkul.md "Myrkul")的选民之后，奥林加入了三人的突袭行动，将王冠安置在[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方的主脑上。
+邪念与 ⁠灾祸术 的选民[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")联手，共同策划了一个计划：窃取[卡尔萨斯王冠](Crown_of_Karsus.md "Crown of Karsus")——一件拥有巨大力量的古老神秘物品，并用它来奴役一个[主脑](Elder_Brain.md "Elder Brain")，以创造一支无魂军队来毁灭世界。<sup>[\[11\]](#cite_note-11] 在招募了[凯瑟里克·索姆](Ketheric_Thorm.md "Ketheric Thorm")</sup>——⁠[米尔寇](Myrkul.md "Myrkul")的选民之后，奥林加入了三人的突袭行动，将王冠安置在[月出之塔](Moonrise_Towers.md "Moonrise Towers")下方的主脑上。
 
 正是在这段时间，奥林看到了她的机会并发动了攻击，将匕首刺入邪念的头颅，并在其体内植入了[灵吸怪](Illithid.md "Illithid")蝌蚪。<sup>[\[12\]](#cite_note-12)</sup><sup>[\[13\]](#cite_note-13] 随着她的前对手在蝌蚪吞噬其大脑时奄奄一息，奥林取代了邪念的位置，成为巴尔的选民和共谋者的第三名成员。[[14]](#cite_note-14] 然而，奥林在她的角色中证明是缺乏纪律的，因为她的嗜血欲望无法控制，她迅速被另外两人所厌恶，他们认为她不过是他们计划中一个必要的麻烦。[[15]](#cite_note-15] 在背叛和游戏事件之间的某个时候，凯瑟里克和奥林诱骗[明萨拉](Minthara.md "Minthara")</sup>进入一个陷阱，奥林在那里杀害了她的盟友并俘虏了她。然后她用蝌蚪将明萨拉转化为[真魂者](True_Soul.md "True Soul")。
 
@@ -158,7 +158,7 @@ Stats
 
 主文章：[奥林/战斗](Orin/Combat.md "Orin/Combat")
 
-奥林与[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起，是游戏第三幕的主要反派之一。在面对游戏的最终威胁[主脑](The_Netherbrain.md "The Netherbrain")之前，必须击败她。
+奥林与[恩维尔·戈塔什](Enver_Gortash.md "Enver Gortash")一起，是游戏第三幕的主要反派之一。在面对游戏的最终威胁[耐色脑](The_Netherbrain.md "The Netherbrain")之前，必须击败她。
 
 ### 战利品
 

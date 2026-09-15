@@ -109,7 +109,7 @@ _黑暗卫士_ 装备是一套以 [弃誓者](../Oathbreaker.md "弃誓者") [�
 - [精神剧痛饰环](../Circlet_of_Mental_Anguish.md "精神剧痛饰环"): 当敌人因戏法或法术而进行智力、感知或魅力豁免失败时，治疗1d4[生命值](../Healing.md "治疗")。
 - [双子手套](../Gemini_Gloves.md "双子手套"): 每短休一次，可对额外一个生物目标施放戏法。
 - [黄金雏龙法杖](../Gold_Wyrmling_Staff.md "黄金雏龙法杖"): 提供 [火焰箭](../Fire_Bolt.md "火焰箭") 的访问权限。
-- [黯狱手套](../Helldusk_Gloves.md "黯狱手套"): 每短休一次，可作为戏法施放 [火焰射线](../Rays_of_Fire_(Cantrip).md "火焰射线 (戏法)")。获得+1法术攻击掷骰和法术豁免DC加成。
+- [黯狱手套](../Helldusk_Gloves.md "黯狱手套"): 每短休一次，可作为戏法施放 [火焰射线](../Rays_of_Fire_(Cantrip).md "火焰射线 (戏法)")。获得+1法术攻击掷骰和法术豁免难度等级加成。
 - [地狱火巨斧](../Hellfire_Greataxe.md "地狱火巨斧"): 每短休一次，可作为戏法施放 [地狱火撕裂](../Hellflame_Cleave.md "地狱火撕裂")。
 - [辉耀法杖](../Incandescent_Staff.md "辉耀法杖"): 提供 [火焰箭](../Fire_Bolt.md "火焰箭") 的访问权限。提供+1法术攻击加成。
 - [奉献皎月长袍](../Moon_Devotion_Robe.md "奉献皎月长袍"): 提供 [燃火术](../Produce_Flame.md "燃火术") 的访问权限。
@@ -243,7 +243,7 @@ _暗夜法官_ 装备是一套以 [莎尔](../Shar.md "莎尔") 的 [暗夜法�
 - [不羁库席戈之衣](../Armour_of_Uninhibited_Kushigo.md "不羁库席戈之衣"): 当 [坚强防御](../Patient_Defence_(Condition).md "坚强防御 (状态)") 激活时，可使用反应对未命中的攻击者进行徒手打击。
 - [不羁库席戈之靴](../Boots_of_Uninhibited_Kushigo.md "不羁库席戈之靴"): 徒手攻击造成额外伤害，数值等于你的 [感知](../Wisdom.md "感知") 调整值。
 - [不羁库席戈的手套](../Gloves_of_Uninhibited_Kushigo.md "不羁库席戈的手套"): 用 [投掷](../Throw.md "投掷") 攻击和 [即兴近战武器](../Improvised_Melee_Weapon.md "即兴近战武器") 进行的攻击造成额外 **1d4** 伤害。
-- [不羁库席戈之帽](../Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽"): 进行徒手攻击后，直到回合结束前，法术豁免DC获得+1加成。
+- [不羁库席戈之帽](../Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽"): 进行徒手攻击后，直到回合结束前，法术豁免难度等级获得+1加成。
 
 ## 低生命值套装
 
@@ -265,7 +265,7 @@ _暗夜法官_ 装备是一套以 [莎尔](../Shar.md "莎尔") 的 [暗夜法�
 - [仪式斧](../Ritual_Axe.md "仪式斧"): 命中时有机会施加 [胁迫](../Bane_(Condition).md "胁迫 (状态)")。如果生命值高于或等于25%，对自己造成1d6[穿刺](../Piercing.md "穿刺")伤害。
 - [仪式匕首](../Ritual_Dagger.md "仪式匕首"): 每回合一次，可使用 [血祭](../Blood_Sacrifice.md "血祭")。
 - [断裂之刃](../Rupturing_Blade.md "断裂之刃"): 每短休一次，可使用 [灼热血液](../Searing_Blood.md "灼热血液") 武器动作。
-- [尖刺环带](../Spurred_Band.md "尖刺环带"): 当回合开始时生命值低于或等于50%时，获得1层 [动量](../Momentum_(Condition).md "动量 (状态)")。
+- [尖刺环带](../Spurred_Band.md "尖刺环带"): 当回合开始时生命值低于或等于50%时，获得1层 [动量](../Momentum_(Condition).md "亢奋 (状态)")。
 - [橡树之父的拥抱](../The_Oak_Father's_Embrace.md "橡树之父的拥抱"): 击中佩戴者的野兽造成额外1d6[光耀](../Radiant.md "光耀")伤害。
 - [水中火花](../The_Watersparkers.md "水中火花"): 站在水中会将其转化为 [带电的水](../Electrified_Water.md "带电的水")，这会伤害佩戴者。
 - [真爱之拥](../True_Love's_Embrace.md "真爱之拥"): 对佩戴 [真爱之抚](../True_Love's_Caress.md "真爱之抚") 的盟友施放 [守护之链](../Warding_Bond.md "守护之链")。
@@ -322,7 +322,7 @@ _暗夜法官_ 装备是一套以 [莎尔](../Shar.md "莎尔") 的 [暗夜法�
 
 主条目：[魔网套装](../Weave_Set.md "魔网套装")
 
-_魔网_ 套装通过 _奥术增强_ 提升佩戴者的法术相关掷骰：获得 [法术豁免DC](../Saving_throws.md#Save_DCs "豁免检定") 和法术攻击掷骰加成。曾由法师坦瑟和伊迪丝·克勒克穿戴。
+_魔网_ 套装通过 _奥术增强_ 提升佩戴者的法术相关掷骰：获得 [法术豁免难度等级](../Saving_throws.md#Save_DCs "豁免检定") 和法术攻击掷骰加成。曾由法师坦瑟和伊迪丝·克勒克穿戴。
 
 - [魔网斗篷](../Cloak_of_the_Weave.md "魔网斗篷")
 - [魔网兜帽](../Hood_of_the_Weave.md "魔网兜帽")

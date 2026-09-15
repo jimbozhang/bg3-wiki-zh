@@ -17,7 +17,7 @@
 2d6⁠[心灵](Psychic.md "心灵")（每次失手攻击）
 
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：18米（60英尺）
 范围效果：6米（20英尺）半径
 目标：半径内的所有敌人
@@ -29,7 +29,7 @@
 
 持续时间：3驱散
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 生物在[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")
 - 每次攻击掷骰失手时受到2d6⁠⁠[心灵](Psychic.md "心灵")伤害

@@ -18,7 +18,7 @@
 
 ## 获取地点
 
-- 在[远古龙之路](Wyrmway.md "远古龙之路")的[正义之间](Chamber_of_Justice.md "正义之间")中，作为解决[正义试炼](Wyrmway.md#Passing_the_Trials "远古龙之路")谜题的一部分。
+- 在[远古龙之路](Wyrmway.md "远古龙之路")的正义之间中，作为解决[正义试炼](Wyrmway.md#Passing_the_Trials "远古龙之路")谜题的一部分。
 
 ## 备注
 

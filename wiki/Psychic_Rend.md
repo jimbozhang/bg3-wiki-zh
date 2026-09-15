@@ -15,7 +15,7 @@
 2d8 + [施法调整值](Spells.md#Spellcasting_ability "法术")⁠[心灵](Psychic.md "心灵")
 
 详情
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：法术无效）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：法术无效）
 射程：18米（60英尺）
 
 ## 状态：心灵撕裂

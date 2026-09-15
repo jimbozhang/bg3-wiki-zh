@@ -260,7 +260,7 @@
 - [慈爱神殿地窖](Open_Hand_Temple_Cellar.md "慈爱神殿地窖")
 - [神殿下方洞穴区域](Under_Temple_Cave_Area.md "神殿下方洞穴区域")
 
-[强制征用的谷仓](Requisitioned_Basement.md "强制征用的谷仓")
+[强制征用的谷仓](Requisitioned_Barn.md "强制征用的谷仓")
 
 一个大型谷仓，目前用作难民征用物资的储存处。
 

@@ -16,7 +16,7 @@
 
 - UID `S_GOB_Storeroom_Key` UUID `16cb6f4c-306a-4d4a-9cbf-d8dd522fb327` ## 用法
 
-- 打开[破碎圣所](Shattered Sanctum.md "破碎圣所")中[罗阿·月光](Roah_Moonglow.md "罗阿·月光")身后的门。
+- 打开[破碎圣所](Shattered_Sanctum.md "破碎圣所")中[罗阿·月光](Roah_Moonglow.md "罗阿·月光")身后的门。
 
 ---
 *Source: [Temple Trader's Key](https://bg3.wiki/wiki/Temple_Trader's_Key)*

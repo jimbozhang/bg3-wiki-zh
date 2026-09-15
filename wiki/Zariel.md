@@ -1,6 +1,6 @@
 # 扎瑞尔
 
-**扎瑞尔**是一位堕落天使，也是[九狱](Avernus.md "九狱")的第一层[阿弗纳斯](Avernus.md "阿弗纳斯")的魔鬼领主。<sup>[\[1\]](#cite_note-1)</sup> 拥有她血脉的[提夫林](Tiefling.md "提夫林")，即[扎瑞尔的提夫林](Zariel_Tiefling.md "扎瑞尔的提夫林")，被赋予了战斗力量，并能[引导](channel.md "引导")灼热的火焰。当她还是一位[天界生物](Celestial.md "天界生物")时，她被委以监视[血战](https://forgottenrealms.fandom.com/wiki/Blood_War)的任务。她主动采取行动，领导了一场对阿弗纳斯的入侵，但以失败告终。她被击败并被[阿斯摩蒂尔斯](Asmodeus.md "阿斯摩蒂尔斯")腐化，成为了一位魔鬼领主。<sup>[\[2\]](#cite_note-2)</sup> 她因杀死了一群[伊诺古](Yeenoghu.md "伊诺古")的[豺狼人](Gnoll.md "豺狼人")而闻名。<sup>[\[3\]](#cite_note-3)</sup> [卡菈克](Karlach.md "卡菈克")曾是扎瑞尔麾下一名受器重的[士兵](Soldier.md "士兵")。
+**扎瑞尔**是一位堕落天使，也是[九狱](Avernus.md "九狱")的第一层[阿弗纳斯](Avernus.md "阿弗纳斯")的魔鬼领主。<sup>[\[1\]](#cite_note-1)</sup> 拥有她血脉的[提夫林](Tiefling.md "提夫林")，即[扎瑞尔的提夫林](Zariel_Tiefling.md "扎瑞尔的提夫林")，被赋予了战斗力量，并能引导灼热的火焰。当她还是一位[天界生物](Celestial.md "天界生物")时，她被委以监视[血战](https://forgottenrealms.fandom.com/wiki/Blood_War)的任务。她主动采取行动，领导了一场对阿弗纳斯的入侵，但以失败告终。她被击败并被[阿斯摩蒂尔斯](Asmodeus.md "阿斯摩蒂尔斯")腐化，成为了一位魔鬼领主。<sup>[\[2\]](#cite_note-2)</sup> 她因杀死了一群[伊诺古](Yeenoghu.md "伊诺古")的[豺狼人](Gnoll.md "豺狼人")而闻名。<sup>[\[3\]](#cite_note-3)</sup> [卡菈克](Karlach.md "卡菈克")曾是扎瑞尔麾下一名受器重的[士兵](Soldier.md "士兵")。
 
 ## 相关角色
 

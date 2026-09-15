@@ -16,7 +16,7 @@
 
 - UID `UNI_HeroesFeast` UUID `3d8889c6-936b-4009-955c-d1f3aef46df5` ## 备注
 
-- 该容器持续 10 [驱散](Turn.md "Turn")，包含 46-58 [营地补给](Camp_supplies.md "营地补给") 和一瓶 [水](Water.md "Water")。
+- 该容器持续 10 [驱散](Turned_(Condition).md "Turn")，包含 46-58 [营地补给](Camp_supplies.md "营地补给") 和一瓶 [水](Water.md "Water")。
 
   - 如果未在容器过期前取走，物品将掉落在地板上。
 

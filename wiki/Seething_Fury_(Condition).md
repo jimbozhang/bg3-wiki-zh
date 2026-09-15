@@ -4,19 +4,19 @@
 
 - 狂暴在豺狼人体内酝酿。一旦它屈服于怒火，它将能够在每个驱散进行多次攻击。
 
-- 这将进化为 [溃烂狂怒](溃烂狂怒_(状态).md "溃烂狂怒 (状态)")，然后是 [怒气冲天](怒气冲天_(状态).md "怒气冲天 (状态)")，这将允许豺狼人每个驱散攻击三次。
+- 这将进化为 [溃烂狂怒](Festering_Frenzy_(Condition).md "溃烂狂怒 (状态)")，然后是 [怒气冲天](Frenzied_Fury_(Condition).md "怒气冲天 (状态)")，这将允许豺狼人每个驱散攻击三次。
 
 ## 属性
 
-[堆叠ID](Conditions.md "堆叠ID"): `GNOLL_BREWING_RAGE` [状态组](Status_groups.md "状态组"): [SG_狂暴](SG_狂暴.md "SG 狂暴")
+[堆叠ID](Conditions.md "堆叠ID"): `GNOLL_BREWING_RAGE` [状态组](Status_groups.md "状态组"): [SG_狂暴](SG_Rage.md "SG 狂暴")
 
 [持续时间结束](Status_properties.md#持续时间 "状态"): 驱散结束
 
 ## 状态: 溃烂狂怒
 
-**[溃烂狂怒](溃烂狂怒_(状态).md "溃烂狂怒 (状态)")**
+**[溃烂狂怒](Festering_Frenzy_(Condition).md "溃烂狂怒 (状态)")**
 
-- 此豺狼人将在其下一个驱散开始时变为 [狂乱](怒气冲天_(状态).md "怒气冲天 (状态)")。
+- 此豺狼人将在其下一个驱散开始时变为 [狂乱](Frenzied_Fury_(Condition).md "怒气冲天 (状态)")。
 
 ## 怒火中烧的来源
 
@@ -30,7 +30,7 @@ _维基数据库中未定义_
 
 - 狂暴在豺狼人体内酝酿。一旦它屈服于怒火，它将能够在每个驱散进行多次攻击。
 
-- 这将进化为 [溃烂狂怒](溃烂狂怒_(状态).md "溃烂狂怒 (状态)")，然后是 [怒气冲天](怒气冲天_(状态).md "怒气冲天 (状态)")，这将允许豺狼人每个驱散攻击三次。
+- 这将进化为 [溃烂狂怒](Festering_Frenzy_(Condition).md "溃烂狂怒 (状态)")，然后是 [怒气冲天](Frenzied_Fury_(Condition).md "怒气冲天 (状态)")，这将允许豺狼人每个驱散攻击三次。
 
 ---
 *Source: [Seething Fury (Condition)](https://bg3.wiki/wiki/Seething_Fury_(Condition)*

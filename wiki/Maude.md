@@ -26,7 +26,7 @@
 
 ### 第三幕
 
-莫德的店铺设在[下城区](Lower_City.md "Lower City")的[墓园](Graveyard_(Lower_City)的最西端.md)。莫德只卖花。
+莫德的店铺设在[下城区](Lower_City.md "Lower City")的[墓园](Graveyard_(Lower_City).md)的最西端。莫德只卖花。
 
 ## 商店
 

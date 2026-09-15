@@ -2,7 +2,7 @@
 
 不要与[不变形态](Immutable_Form.md "不变形态")混淆
 
-**不灭存在**使使用者免疫[变形](Polymorphed_(status_group)状态组中的效果.md)，此外，使用者无法被从此位面移除。
+**不灭存在**使使用者免疫[变形](Polymorphed_(status_group).md)状态组中的效果，此外，使用者无法被从此位面移除。
 
 ## 描述
 
@@ -16,7 +16,7 @@
 
 ## 备注
 
-- 阻止[变形](Polymorphed_(status_group)状态组中的任何状态以.md)及[流放](Banished_(Condition).md "流放 (状态)")
+- 阻止[变形](Polymorphed_(status_group).md)状态组中的任何状态以及[流放](Banished_(Condition).md "流放 (状态)")
 
 ---
 *Source: [Immutable Existence](https://bg3.wiki/wiki/Immutable_Existence)*

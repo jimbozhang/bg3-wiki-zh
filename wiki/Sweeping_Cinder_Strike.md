@@ -15,7 +15,7 @@
 3d6⁠[火焰](Fire.md "火焰")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")) (豁免成功时：目标仍承受一半伤害。)
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")) (豁免成功时：目标仍承受一半伤害。)
 范围：5米 (17英尺) 锥形
 
 ## 更高等级

@@ -24,7 +24,7 @@
 
 ## 变形的来源
 
-- [形态塑造：翼猫](Formsculpt_colon__Tressym.md "Formsculpt: Tressym")
+- [形塑：翼猫](Formsculpt_colon__Tressym.md "Formsculpt: Tressym")
 
 ## 拥有变形状态的生物
 

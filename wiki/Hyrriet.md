@@ -58,7 +58,7 @@
 
 海瑞特可在[费洛杰尔烟花铺](Felogyr's_Fireworks.md "Felogyr's Fireworks")的二楼找到。她守卫着位于该建筑二楼的化学实验室，该实验室在烟花店的外表下秘密生产炸药，由[灾祸之拳沃尔古·德拉克](Volgu_Drak.md "Volgu Drak")和[黑手套乌瓦](Uva.md "Uva")陪同。
 
-由于费洛杰尔烟花铺的二楼被视为禁区，除了参与炸药生产的人员外，其他人均不受欢迎，因此海瑞特无需隐藏她在⁠[灾祸术](Bane_(God).md) ranks behind the term _"feloguard"_ , unlike those Felogyr's employees who reside on the ground and first floors of the establishment.
+由于费洛杰尔烟花铺的二楼被视为禁区，除了参与炸药生产的人员外，其他人均不受欢迎，因此海瑞特无需隐藏她在⁠[班恩](Bane_(God).md) ranks behind the term _"feloguard"_ , unlike those Felogyr's employees who reside on the ground and first floors of the establishment.
 
 由于⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "Investigate the Suspicious Toys")任务无法以和平方式最终解决，海瑞特与其他实验室工作人员和守卫在看到任何小队成员进入禁区时，或与她交谈时，会立即变得敌对。此外，一旦她注意到任何骚动，她会立即加入战斗，与其他灾祸术追随者站在一边。
 

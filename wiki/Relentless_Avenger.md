@@ -4,7 +4,7 @@
 
 ## 描述
 
-如果你通过[借机攻击](Opportunity_Attack.md "借机攻击")命中敌人，你的[移动速度](Movement_speed.md "移动速度")将在下一个[驱散](Turn.md "驱散")增加4.5米（15英尺）。
+如果你通过[借机攻击](Opportunity_Attack.md "借机攻击")命中敌人，你的[移动速度](Movement_speed.md "移动速度")将在下一个[驱散](Turned_(Condition).md "驱散")增加4.5米（15英尺）。
 
 ## 状态：坚韧复仇
 

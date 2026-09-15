@@ -36,7 +36,7 @@
 - [额外攻击](Extra_Attack.md "额外攻击")
 - [战术铁律](Tactical_Discipline.md "战术铁律")
 
-**残忍的铁血执政官马利克**是[班恩](Bane_(God)的教徒.md)，位于[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")主楼层 X: -295 Y: -150 处。
+**残忍的铁血执政官马利克**是[班恩](Bane_(God).md)的教徒，位于[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")主楼层 X: -295 Y: -150 处。
 
 ## 目录
 

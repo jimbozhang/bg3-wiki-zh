@@ -1,6 +1,6 @@
 # 狂野魔法：传送 (激活) (术士)
 
-**狂野魔法：传送** 是一种特殊的[职业动作](Class_action.md "职业动作")，由[狂野魔法效果](Wild_Magic_table_(Sorcerer)随机授予.md)。
+**狂野魔法：传送** 是一种特殊的[职业动作](Class_action.md "职业动作")，由[狂野魔法效果](Wild_Magic_table_(Sorcerer).md)随机授予。
 
 ## 描述
 

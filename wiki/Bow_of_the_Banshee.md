@@ -1,6 +1,6 @@
 # 女妖之弓
 
-女妖之弓是一把稀有的+1[短弓](Shortbows.md "短弓")，可以在命中时[恐慌](Frightened_(Condition)目标.md)，并对武器伤害和对**恐慌**生物的[攻击掷骰](Dice_rolls.md#Attack_rolls "Dice rolls")提供加成。
+女妖之弓是一把稀有的+1[短弓](Shortbows.md "短弓")，可以在命中时[恐慌](Frightened_(Condition).md)目标，并对武器伤害和对**恐慌**生物的[攻击掷骰](Dice_rolls.md#Attack_rolls "Dice rolls")提供加成。
 
 一张精灵面孔的影像从这把精美弯曲的弓上无声地尖叫着——当弓弦在释放时啪地向前弹出，发出恐怖气息的哀嚎时，这个影像变得更加令人不安。
 
@@ -67,7 +67,7 @@ _关于恐怖气息：_
 
 _关于恐怖气息：_
 
-- 战斗日志错误地引用了持有者的[法术豁免DC](Spell_save_DC.md "法术豁免DC")；它仍然使用固定的DC 12。
+- 战斗日志错误地引用了持有者的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")；它仍然使用固定的DC 12。
 - 此能力不受提供对[恐慌](Frightened_(Condition).md "恐慌（状态）")豁免检定优势或劣势的效果影响，例如[反魅惑](Countercharm.md "反魅惑")或[不诚者之盾](Shield_of_the_Undevout.md "不诚者之盾")。
 
 ---

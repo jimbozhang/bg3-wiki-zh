@@ -6,7 +6,7 @@
 
 德鲁伊法术是[预备法术](Prepared_spells.md "Prepared_spells")，因此所有德鲁伊都能使用这些法术（最高至其德鲁伊等级），并在任何时候准备有限数量的法术。
 
-德鲁伊法术将使用施法者的[感知](Wisdom.md "Wisdom")调整值进行[法术豁免DC](Spell_save_DC.md "Spell_save_DC")和[法术攻击](Spell_Attack.md "Spell_Attack")掷骰。
+德鲁伊法术将使用施法者的[感知](Wisdom.md "Wisdom")调整值进行[法术豁免难度等级](Spell_save_DC.md "Spell_save_DC")和[法术攻击](Spell_Attack.md "Spell_Attack")掷骰。
 
 ## 德鲁伊法术列表
 
@@ -40,7 +40,7 @@
 | [造风术](Gust_of_Wind.md "Gust of Wind") | 2 |  |  | 1 回合 | 自身 / 12米 / 40英尺 | [力量](Strength.md "Strength") [豁免](Saving_throws.md "Saving throws") | - |
 | [灼热金属](Heat_Metal.md "Heat Metal") | 2 |  |  | - | 18 米 / 60 英尺 | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 2d8⁠[火焰](Fire.md "Fire") |
 | [人类定身术](Hold_Person.md "Hold Person") | 2 |  |  | 10 回合 | 18 米 / 60 英尺 | [感知](Wisdom.md "Wisdom") [豁免](Saving_throws.md "Saving throws") | - |
-| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5 米 / 5 英尺 | - | - |
+| [次级复原术](Lesser_Restoration.md "次级复原术") | 2 |  |  | - | 1.5 米 / 5 英尺 | - | - |
 | [月华之光](Moonbeam.md "Moonbeam") | 2 |  |  | - | 18 米 / 60 英尺 / 1米 / 3英尺 (半径) | [体质](Constitution.md "Constitution") [豁免](Saving_throws.md "Saving throws") | 2d10⁠[光耀](Radiant.md "Radiant") |
 | [行动无踪](Pass_Without_Trace.md "Pass Without Trace") | 2 |  |  | 长休 | 自身 / 9米 / 30英尺 (半径) | - | - |
 | [防护毒素](Protection_from_Poison.md "Protection from Poison") | 2 |  |  | 长休 | 1.5 米 / 5 英尺 | - | - |

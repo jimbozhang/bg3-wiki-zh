@@ -1,6 +1,6 @@
 # 巴萨扎尔没有消息
 
-**巴萨扎尔没有消息**表示[Balsazar](Balsazar.md "Balsazar")失踪了。
+**巴萨扎尔没有消息**表示[Balsazar](Balthazar.md "Balsazar")失踪了。
 
 这本书散发着诱人的纸张和墨水气味。
 

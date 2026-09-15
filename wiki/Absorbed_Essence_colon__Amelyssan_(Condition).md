@@ -23,7 +23,7 @@ _维基数据库中未定义_
 [吸血鬼之触](Vampiric_Touch_(Condition).md "吸血鬼之触 (状态)")
 |
 
-- 每[驱散](Turn.md "驱散")，使用一个[动作](Action.md "动作")，可以不消耗[法术位](Spells.md#Spell_Slots "法术")重新施放[吸血鬼之触](Vampiric_Touch.md "吸血鬼之触")。
+- 每[驱散](Turned_(Condition).md "驱散")，使用一个[动作](Action.md "动作")，可以不消耗[法术位](Spells.md#Spell_Slots "法术")重新施放[吸血鬼之触](Vampiric_Touch.md "吸血鬼之触")。
 
 ---
 *Source: [Absorbed Essence: Amelyssan (Condition)](https://bg3.wiki/wiki/Absorbed_Essence:_Amelyssan_(Condition)*

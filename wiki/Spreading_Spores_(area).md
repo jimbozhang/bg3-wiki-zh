@@ -16,7 +16,7 @@
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免 DC](Dice_rolls.md#Spell_save_DC "骰子检定"))
 
-- 受影响实体正在吸入干燥、令人窒息的孢子，每 [驱散](Turn.md "驱散") 造成 2d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
+- 受影响实体正在吸入干燥、令人窒息的孢子，每 [驱散](Necrotic.md "驱散") 造成 2d8⁠⁠[黯蚀](Necrotic.md "黯蚀") 伤害。
 
 ## 创建方式
 

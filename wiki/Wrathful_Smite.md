@@ -20,7 +20,7 @@
 
 详情
 [攻击掷骰](Attack_roll.md "Attack Roll")
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")) (豁免成功：目标承受全额伤害但不会恐慌)
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")) (豁免成功：目标承受全额伤害但不会恐慌)
 范围：正常武器范围
 [专注](Concentration.md "Concentration")
 
@@ -34,7 +34,7 @@
 
 持续时间：2 驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 受影响的生物无法移动。恐慌的生物在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "Attack Roll")上具有[劣势](Disadvantage.md "Disadvantage")。
 

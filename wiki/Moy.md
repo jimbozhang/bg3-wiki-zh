@@ -39,7 +39,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [日照敏感](Sunlight_Sensitivity.md "日照敏感")
 
-**摩伊**是[幽暗地域](Underdark.md "幽暗地域")中一名[石化](Petrified_(Condition)的卓尔游侠.md)，出现在[第一幕](Act_One.md "第一幕")。
+**摩伊**是[幽暗地域](Underdark.md "幽暗地域")中一名[石化](Petrified_(Condition).md)的卓尔游侠，出现在[第一幕](Act_One.md "第一幕")。
 
 > “
 >

@@ -28,7 +28,7 @@
 
 \[摘自约瑟法·埃尔金正在进行的著作《⁠[元文本：反弹](https://forgottenrealms.fandom.com/wiki/Metatext:_Rebound)》，她是一位因异端努力重建元文本——其神祇关于失落与隐秘知识的编年史——而被[德内尔](https://forgottenrealms.fandom.com/wiki/Deneir)教会逐出的学者。\]
 
-但或许比他们垄断大陆最大私人军队更伟大的，是现代散塔林会向世界呈现的净化形象。大多数人视其为一个高效——即使不择手段——的雇佣兵组织，很少有人会猜到黑网的黑暗起源：它曾是一个献身于黑暗之神[灾祸术](Bane_(God).md), once bent towards bringing all peoples to heel beneath his creed of tyranny and domination. 的邪教，致力于将所有民族置于其暴政与统治的信条之下。
+但或许比他们垄断大陆最大私人军队更伟大的，是现代散塔林会向世界呈现的净化形象。大多数人视其为一个高效——即使不择手段——的雇佣兵组织，很少有人会猜到黑网的黑暗起源：它曾是一个献身于黑暗之神[班恩](Bane_(God).md), once bent towards bringing all peoples to heel beneath his creed of tyranny and domination. 的邪教，致力于将所有民族置于其暴政与统治的信条之下。
 
 当面对这一事实时，他们队伍中的许多人嗤之以鼻，援引夸大其词的阴谋论，并向我保证，如今散塔林会所崇拜的唯一神祇是利润与权力这对孪生神祇。
 

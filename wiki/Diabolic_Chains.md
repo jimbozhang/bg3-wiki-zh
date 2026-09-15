@@ -19,7 +19,7 @@
 \+ 6d6⁠[火焰](Fire.md "Fire")（需通过[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throw.md "Saving Throw")减半）
 
 详情
-[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throws.md "Saving throws")（法术豁免DC）
+[敏捷](Dexterity.md "Dexterity")[豁免检定](Saving_throws.md "Saving throws")（法术豁免难度等级）
 范围：18米（60英尺）
 击退：5米（17英尺）（力量豁免检定失败时）
 创造区域：地狱火
@@ -52,7 +52,7 @@
 
 ## 备注
 
-- 击退效果有独立的[法术豁免DC](Dice_rolls.md#Save_DCs "Dice rolls")[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving Throw")以避免，即使初始敏捷豁免检定成功。
+- 击退效果有独立的[法术豁免难度等级](Dice_rolls.md#Save_DCs "Dice rolls")[力量](Strength.md "Strength")[豁免检定](Saving_throw.md "Saving Throw")以避免，即使初始敏捷豁免检定成功。
 - [反射闪避](Evasion.md "Evasion")不会减少此法术的伤害，尽管它使用敏捷豁免检定。
 - 消耗两个[灵魂冲锋](Soul_Charges_(Condition).md "Soul Charges (Condition)")。
 

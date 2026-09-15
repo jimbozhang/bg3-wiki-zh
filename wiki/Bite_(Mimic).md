@@ -18,7 +18,7 @@
 
 详情
 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子"))
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子"))
 近战：1.5 米 (5 英尺)
 
 ## 状态：武器被窃

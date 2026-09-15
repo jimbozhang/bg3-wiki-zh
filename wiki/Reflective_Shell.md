@@ -353,7 +353,7 @@
 
 - [无情猛扑](Relentless_Lunge.md "无情猛扑")
 
-- [罗兰的火球术术](Rolan's_Fireball.md "罗兰的火球术术")
+- [罗兰的火球术](Rolan's_Fireball.md "罗兰的火球术")
 
 - [罗兰的魔法飞弹](Rolan's_Magic_Missile.md "罗兰的魔法飞弹")
 

@@ -16,7 +16,7 @@
 
 - UID `DLC_DD_Painting_Portrait_Lohse` UUID `06af536d-8faf-49e5-99f9-606be7d6993c` ## 获取地点
 
-- 在[翠绿林地](Emerald_Grove.md "翠绿林地")的[德鲁伊内殿](Druids' Chambers.md "德鲁伊内殿")，坐标 X: -431 Y: -9
+- 在[翠绿林地](Emerald_Grove.md "翠绿林地")的[德鲁伊内殿](Druids'_Chambers.md "德鲁伊内殿")，坐标 X: -431 Y: -9
 
 ## 备注
 

@@ -20,7 +20,7 @@
 
 - 在[月出之塔](Moonrise_Towers.md "月出之塔")的[凯瑟里克的房间](Moonrise_Towers.md#Ketheric's_room "月出之塔")中，坐标 X: -180 Y: -178
 
-- 在[远古龙之路](The_Wyrmway.md "远古龙之路")的试炼中，位于[洞察之间](Chamber_of_Insight.md "洞察之间")
+- 在[远古龙之路](The_Wyrmway.md "远古龙之路")的试炼中，位于[洞察之间](The_Wyrmway.md "洞察之间")
 
 ## 文本
 

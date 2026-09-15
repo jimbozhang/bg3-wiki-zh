@@ -30,7 +30,7 @@
 
 **[电爪](Shocking_Grasp_(Condition).md "电爪 (状态)")**
 
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
 - 无法进行[反应](Reactions.md "反应")。
 

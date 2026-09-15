@@ -1,6 +1,6 @@
 # 闪耀手套
 
-**闪耀手套**是一对[稀有](稀有.md "稀有")的[手套](Gloves.md "手套")，能提升穿戴者的[攻击掷骰](Attack_roll.md "攻击掷骰")和[巧手](Sleight_of_Hand.md "巧手")检定。
+**闪耀手套**是一对[稀有](Category_colon_Rare_Items.md "稀有")的[手套](Gloves.md "手套")，能提升穿戴者的[攻击掷骰](Attack_roll.md "攻击掷骰")和[巧手](Sleight_of_Hand.md "巧手")检定。
 
 对于处理机械装置、锁具，或是需要干掉的混蛋来说，这双闪耀手套再合适不过了。
 

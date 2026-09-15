@@ -8,7 +8,7 @@
 
 一旦触发，血色通风口会喷出一滩[不稳血液](Unstable_Blood_(surface).md)>，覆盖其周围大部分地表。这可能是解除陷阱失败的结果，也可能是踩到桥上其他[大理石板](Marble_Plate.md "Marble Plate")的结果。此后，如果小队成员小心行走，除了鞋底沾满血液外，不会受到任何伤害。
 
-然而，由此产生的血泊地表具有同名[不稳血液](Unstable_Blood.md "不稳血液")的所有属性（与在[下城区](Lower_City.md "Lower City")处理血商人[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")后可能获得的特性相同）。当与火焰源接触时，无论是什么火焰，血泊地表都会[爆炸](Explode.md "Explode")并持续[燃烧](Burning.md "Burning")三[驱散](Turn.md "Turn")。
+然而，由此产生的血泊地表具有同名[不稳血液](Unstable_Blood.md "不稳血液")的所有属性（与在[下城区](Lower_City.md "Lower City")处理血商人[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")后可能获得的特性相同）。当与火焰源接触时，无论是什么火焰，血泊地表都会爆炸并持续[燃烧](Burning.md "Burning")三[驱散](Turned_(Condition).md "Turn")。
 
 这种效果很容易达到，因为隐藏血色通风口的大桥由几个已经燃烧的火盆和几根蜡烛照亮。
 

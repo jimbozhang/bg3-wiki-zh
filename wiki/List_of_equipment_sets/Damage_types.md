@@ -27,7 +27,7 @@
 它包含以下部件：
 
 - [元素折磨护符](../Amulet_of_Elemental_Torment.md "元素折磨护符")：当穿戴者站在特定地表上并施放造成伤害的法术时，目标也会遭受该地表的效果。
-- [元素亢奋之靴](../Boots_of_Elemental_Momentum.md "元素亢奋之靴")：当穿戴者使用法术或戏法造成元素伤害时，获得[动量](../Momentum_(Condition).md "动量（状态）")。
+- [元素亢奋之靴](../Boots_of_Elemental_Momentum.md "元素亢奋之靴")：当穿戴者使用法术或戏法造成元素伤害时，获得[动量](../Momentum_(Condition).md "亢奋（状态）")。
 - [元素吸收披风](../Cloak_of_Elemental_Absorption.md "元素吸收披风")：允许穿戴者吸收少量魔法伤害，并将其添加到下一次武器攻击中。
 - [魔网斗篷](../Cloak_of_the_Weave.md "魔网斗篷")：允许穿戴者吸收少量魔法伤害，并将其添加到下一次武器攻击中。
 - [造物回音](../Creation's_Echo.md "造物回音")：在造成相关元素伤害后，对该元素获得抗性。
@@ -60,7 +60,7 @@
 - [寒冰裂片](../Cold_Snap.md "寒冰裂片")：命中时造成1d4[寒冷](../Cold.md "寒冷")伤害。当生物攻击未命中你时，施加[冻僵](../Chilled_(Condition).md)。
 - [寒冰边缘帽](../Coldbrim_Hat.md "寒冰边缘帽")：施加任何状态时可施加[冷冻（状态）](../Encrusted_with_Frost_(Condition).md)。
 - [冰霜王子](../Frost_Prince.md "冰霜王子")：可施放[冰刃](../Ice_Knife.md "冰刃")法术。
-- [白霜之靴](../Hoarfrost_Boots.md "白霜之靴")：在穿越[冰面](../Ice_Surface.md "冰面")时不会陷入[倒地（状态）](../Prone_(Condition).md)。
+- [白霜之靴](../Hoarfrost_Boots.md "白霜之靴")：在穿越[冰面](../Ice_Surface.md "冰面")时不会陷入[倒伏（状态）](../Prone_(Condition).md)。
 - [噬冰长袍](../Icebite_Robe.md "噬冰长袍")：对寒冷伤害[抗性](../Damage_types.md#Resistance "伤害类型")，并可施放[艾嘉西斯之铠](../Armour_of_Agathys.md "艾嘉西斯之铠")。
 - [悼霜](../Mourning_Frost.md "悼霜")：当穿戴者造成寒冷伤害时，额外造成1点寒冷伤害，并可对目标施加[冻僵](../Chilled_(Condition).md)。
 - [雪尘修道院手套](../Snow-Dusted_Monastery_Gloves.md "雪尘修道院手套")：徒手攻击造成1d4[寒冷](../Cold.md "寒冷")伤害，可施放[冰刃](../Ice_Knife.md "冰刃")法术。
@@ -90,7 +90,7 @@
 - [黄金雏龙法杖](../Gold_Wyrmling_Staff.md "黄金雏龙法杖")：额外造成1d4[火焰](../Fire.md "火焰")伤害。获得[火焰箭](../Fire_Bolt.md "火焰箭")戏法。
 - [火焰敏锐之帽](../Hat_of_Fire_Acuity.md "火焰敏锐之帽")：每次造成火焰伤害时获得2层[奥术敏锐](../Arcane_Acuity_(Condition).md "奥术敏锐（状态）")。
 - [地狱火手弩](../Hellfire_Hand_Crossbow.md "地狱火手弩")：在[潜行](../Hiding_(Condition).md "潜行（状态）")或[隐形](../Invisible_(Condition).md "隐形（状态）")时攻击可能施加[燃烧](../Burning_(Condition).md "燃烧（状态）")。每次短休后可作为3环法术施放一次[灼热射线](../Scorching_Ray.md "灼热射线")。
-- [辉耀法杖](../Incandescent_Staff.md "辉耀法杖")：获得[火焰箭](../Fire_Bolt.md "火焰箭")戏法。每次长休后可施放一次[火球术术](../Fireball.md "火球术术")。远程[法术攻击](../Spell_Attack.md "法术攻击")+1。同时获得火焰伤害抗性。
+- [辉耀法杖](../Incandescent_Staff.md "辉耀法杖")：获得[火焰箭](../Fire_Bolt.md "火焰箭")戏法。每次长休后可施放一次[火球术](../Fireball.md "火球术")。远程[法术攻击](../Spell_Attack.md "法术攻击")+1。同时获得火焰伤害抗性。
 - [地狱法袍](../Infernal_Robe.md "地狱法袍")：可作为4环法术施放[火焰护盾（温暖）](../Fire_Shield_(Warm).md "火焰护盾（温暖）")。同时获得火焰伤害抗性。
 - [科温的焚化工具](../Kurwin's_Cauteriser.md "科温的焚化工具")：额外造成1d4[火焰](../Fire.md "火焰")伤害。命中时，目标开始[燃烧](../Burning_(Condition).md "燃烧（状态）")，除非其通过体质[豁免检定](../Saving_throw.md "豁免检定")。
 - [黑曜石花边长袍](../Obsidian_Laced_Robe.md "黑曜石花边长袍")：在对敌人法术的豁免检定成功时，对其造成1d4 + [熟练项加值](../Proficiency_Bonus.md "熟练项加值")火焰伤害。同时获得火焰伤害抗性。
@@ -124,7 +124,7 @@
 - [追猎者手套](../Stalker_Gloves.md "追猎者手套")：[偷袭](../Sneak_Attack.md "偷袭")额外造成1d4[力场](../Force.md "力场")伤害。
 - [斯怀尔斯的滑板](../Swires'_Sledboard.md "斯怀尔斯的滑板")：回合开始时获得**1**回合[导力](../Force_Conduit_(Condition).md "导力（状态）")。
 - [剥皮者](../The_Skinburster.md "剥皮者")：造成近战伤害时获得**2**回合[导力](../Force_Conduit_(Condition).md "导力（状态）")。
-- [维康妮亚的行走堡垒](../Viconia's_Walking_Fortress.md "维康妮亚的行走堡垒")：近战攻击命中时造成2d4[力场](../Force.md "力场")伤害，并可能使敌人[倒地](../Prone_(Condition).md "倒地（状态）")。
+- [维康妮亚的行走堡垒](../Viconia's_Walking_Fortress.md "维康妮亚的行走堡垒")：近战攻击命中时造成2d4[力场](../Force.md "力场")伤害，并可能使敌人[倒伏](../Prone_(Condition).md "倒伏（状态）")。
 - [乌尔布伦的锤子](../Wulbren's_Hammer.md "乌尔布伦的锤子")：对构装体和物体额外造成2d4[力场](../Force.md "力场")伤害。
 
 ## 闪电套装
@@ -147,7 +147,7 @@
 亡灵套装是一套帮助使用者造成或抵抗[亡灵](../Necrotic.md "亡灵")伤害的装备。与[暗夜法官套装](../Dark_Justiciar_Set.md "暗夜法官套装")、[黯狱套装](../Helldusk_set.md "黯狱套装")和[黑卫士套装](../Blackguard_Set.md "黑卫士套装")中的物品协同作用，这些物品在此不重复列出。该套装包含以下部件：
 
 - [伏击者](../Ambusher.md "伏击者")：对尚未行动的目标造成1d6[亡灵](../Necrotic.md "亡灵")伤害。
-- [孢子守护者护甲](../Armour_of_the_Sporekeeper.md "孢子守护者护甲")：提高[亡灵](../Necrotic.md "亡灵")[法术豁免DC](../Saving_throw.md#The_Difficulty_Class_of_saving_throws "豁免检定")和伤害1点。
+- [孢子守护者护甲](../Armour_of_the_Sporekeeper.md "孢子守护者护甲")：提高[亡灵](../Necrotic.md "亡灵")[法术豁免难度等级](../Saving_throw.md#The_Difficulty_Class_of_saving_throws "豁免检定")和伤害1点。
 - [手动吸血器（+1）](../Artificial_Leech_(+1).md "手动吸血器（+1）")：每次短休后可使用一次[放血](../Bloodletting.md "放血")。有错误。
 - [刺客之触](../Assassin's_Touch.md "刺客之触")：对[击倒](../Knocked_Out_(Condition).md "击倒（状态）")或[睡眠](../Sleeping_(Condition).md "睡眠（状态）")的生物额外造成1d4[亡灵](../Necrotic.md "亡灵")伤害。
 - [骨锯（+1）](../Bonesaw_(+1).md "骨锯（+1）")：每次短休后可使用一次[断筋](../Incise_Ligaments.md "断筋")。有错误。
@@ -171,7 +171,7 @@
 - [偷生之剑](../Sword_of_Life_Stealing.md "偷生之剑")：重击时额外造成10[亡灵](../Necrotic.md "亡灵")伤害，并获得10[临时生命值](../Temporary_Hit_Points.md "临时生命值")。
 - [观察者眼魔的眼柄](../The_Spectator_Eyes.md "观察者眼魔的眼柄")：每次长休后可作为3环法术施放一次[致伤射线](../Wounding_Ray.md "致伤射线")。
 - [驱散火炬](../Torch_of_Revocation.md "驱散火炬")：额外造成1d4[亡灵](../Necrotic.md "亡灵")伤害。
-- [环钻（+1）](../Trepan_(+1).md "环钻（+1）")：每次短休后可使用一次[环钻术](../Trephination.md "环钻术")。有错误。
+- [手术圆锯（+1）](../Trepan_(+1).md "手术圆锯（+1）")：每次短休后可使用一次[劈颅](../Trephination.md "劈颅")。有错误。
 - [悲恸](../Woe.md "悲恸")：每次长休后可作为4环法术施放一次[枯萎术](../Blight.md "枯萎术")。
 
 ## 毒素套装
@@ -236,7 +236,7 @@
 - [正义之锤](../Hammer_of_the_Just.md "正义之锤")：命中时造成1d4[光耀](../Radiant.md "光耀")伤害。
 - [圣枪头盔](../Holy_Lance_Helm.md "圣枪头盔")：当敌人未命中时，有机会造成1d4[光耀](../Radiant.md "光耀")伤害。
 - [圣武士披风](../Mantle_of_the_Holy_Warrior.md "圣武士披风")：每次长休后可施放一次[十字军披风](../Crusader's_Mantle.md "十字军披风")。
-- [奉献皎月长袍](../Moon_Devotion_Robe.md "奉献皎月长袍")：当穿戴者拥有[法师护甲](../Mage_Armour_(Condition).md "法师护甲（状态）")时，每次成功的[豁免检定](../Saving_throw.md "豁免检定")会使豁免检定的来源受到1-4[光耀](../Radiant.md "光耀")伤害。
+- [奉献皎月长袍](../Moon_Devotion_Robe.md "奉献皎月长袍")：当穿戴者拥有[魔法护甲](../Mage_Armour_(Condition).md "魔法护甲（状态）")时，每次成功的[豁免检定](../Saving_throw.md "豁免检定")会使豁免检定的来源受到1-4[光耀](../Radiant.md "光耀")伤害。
 - [月光](../Moonlight_Glaive.md "月光")：命中时造成1d4[光耀](../Radiant.md "光耀")伤害。散发光芒。
 - [培罗的阳光之刃](../Pelorsun_Blade.md "培罗的阳光之刃")：命中时造成1d4[光耀](../Radiant.md "光耀")伤害。
 - [拳击天使](../Seraphic_Pugilist_Gloves.md "拳击天使")：命中时造成1d4[光耀](../Radiant.md "光耀")伤害。每次长休后可作为4环法术施放一次[曳光弹](../Guiding_Bolt.md "曳光弹")。

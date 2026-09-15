@@ -6,7 +6,7 @@
 
 暴露敌人的弱点。他们将对[钝击](Bludgeoning.md "Bludgeoning")、[挥砍](Slashing.md "Slashing")或[穿刺](Piercing.md "Piercing")伤害变得[易伤](Vulnerable.md "Vulnerable")。
 
-此效果持续3[驱散](Turn.md "Turn")，或直到目标受到伤害。
+此效果持续3[驱散](Turned_(Condition).md "Turn")，或直到目标受到伤害。
 
 ## 属性
 

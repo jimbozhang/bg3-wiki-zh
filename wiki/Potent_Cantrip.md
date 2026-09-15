@@ -16,7 +16,7 @@
 
 使用的生物：
 
-- [迟钝的斯昆彻](Blunt_Skuncher.md "迟钝的斯昆彻")、[G'nuril](G'nuril.md "G'nuril")、[聪明的哨兵](Intelligent_Sentinel.md "聪明的哨兵")、[Jhe'rezath](Jhe'rezath.md "Jhe'rezath")、[库尔'阿什克](Kur'ashk.md "库尔'阿什克")、[林安](Lin'a'an.md "林安")、[洛若坎](Lorroakan.md "洛若坎")、[库斯](Qu'th.md "库斯")、[罗兰](Rolan.md "罗兰")、[瓦拉尔希斯](Vraalsith.md "瓦拉尔希斯")
+- [迟钝的斯昆彻](Blunt_Skuncher.md "迟钝的斯昆彻")、[格努里尔](G'nuril.md "G'nuril")、[聪明的哨兵](Intelligent_Sentinel.md "聪明的哨兵")、[吉'瑞萨斯](Jhe'rezath.md "Jhe'rezath")、[库尔'阿什克](Kur'ashk.md "库尔'阿什克")、[林安](Lin'a'an.md "林安")、[洛若坎](Lorroakan.md "洛若坎")、[库斯](Qu'th.md "库斯")、[罗兰](Rolan.md "罗兰")、[瓦拉尔希斯](Vraalsith.md "瓦拉尔希斯")
 
 ## 备注
 

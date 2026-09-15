@@ -2,7 +2,7 @@
 
 **衰弱**
 
-- 仅造成使用[力量](Strength.md "力量")的武器攻击的一半伤害。在每个[驱散](Turn.md "驱散")结束时，受影响的生物可以进行一次[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
+- 仅造成使用[力量](Strength.md "力量")的武器攻击的一半伤害。在每个[驱散](Turned_(Condition).md "驱散")结束时，受影响的生物可以进行一次[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 
 ## 属性
 
@@ -21,7 +21,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 仅造成使用[力量](Strength.md "力量")的武器攻击的一半伤害。在每个[驱散](Turn.md "驱散")结束时，受影响的生物可以进行一次[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
+- 仅造成使用[力量](Strength.md "力量")的武器攻击的一半伤害。在每个[驱散](Turned_(Condition).md "驱散")结束时，受影响的生物可以进行一次[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")以结束此状态。
 
 ---
 *Source: [Feeble (Condition)](https://bg3.wiki/wiki/Feeble_(Condition)*

@@ -64,7 +64,7 @@
 
 ### 第三幕
 
-克拉斯与其他几名焰拳成员（[拳手贝拉](Bella_(Wyrm's_Rock_Fortress).md "贝拉（飞龙岩要塞）")、[拳手迪亚洛](Diallo.md "迪亚洛")、[拳手掘地者](Earthdigger.md "掘地者")、[拳手蕨谷](Fernhollow.md "蕨谷")、[拳手凯伯罗斯](Kyberos.md "凯伯罗斯")和[拳手快针](Quickstitch.md "快针")）一同在[飞龙岩要塞](Wyrm's_Rock_Fortress.md#Second_floor "飞龙岩要塞")的[礼堂](AudienceHall.md "礼堂")站岗，守卫着[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")被任命为[博德之门](Baldur's_Gate.md "博德之门")大公爵的仪式。他守卫着通往X: 16 Y: 227处外阳台的门。
+克拉斯与其他几名焰拳成员（[拳手贝拉](Bella_(Wyrm's_Rock_Fortress).md "贝拉（飞龙岩要塞）")、[拳手迪亚洛](Diallo.md "迪亚洛")、[拳手掘地者](Earthdigger.md "掘地者")、[拳手蕨谷](Fernhollow.md "蕨谷")、[拳手凯伯罗斯](Kyberos.md "凯伯罗斯")和[拳手快针](Quickstitch.md "快针")）一同在[飞龙岩要塞](Wyrm's_Rock_Fortress.md#Second_floor "飞龙岩要塞")的礼堂站岗，守卫着[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")被任命为[博德之门](Baldur's_Gate.md "博德之门")大公爵的仪式。他守卫着通往X: 16 Y: 227处外阳台的门。
 
 如果与克拉斯对话，他会要求玩家角色保持安静，因为他不想错过仪式。他还表达了对戈塔什的绝对忠诚。
 

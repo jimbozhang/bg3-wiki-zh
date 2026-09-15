@@ -18,7 +18,7 @@
 | ↓ |  |  |  |  |
 | [精金熔炉（地点）](Adamantine_Forge_(location).md "精金熔炉（地点）") |  |  |  |  |
 
-**被弃避难所**（也被称为**古代熔炉**）是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第一幕](Act_One.md "第一幕")中[复仇之炉](Grymforge.md "复仇之炉")内的一个[地点](Location.md "地点")。它位于[复仇之炉](Grymforge.md "复仇之炉")的南侧并与之相邻，是[精金熔炉](Adamantine_Forge_(location)的所在地.md)，并作为连接前两者之间的陆地，俯瞰着[古老神殿](Ancient_Temple.md "古老神殿")。
+**被弃避难所**（也被称为**古代熔炉**）是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第一幕](Act_One.md "第一幕")中[复仇之炉](Grymforge.md "复仇之炉")内的一个[地点](Location.md "地点")。它位于[复仇之炉](Grymforge.md "复仇之炉")的南侧并与之相邻，是[精金熔炉](Adamantine_Forge_(location).md)的所在地，并作为连接前两者之间的陆地，俯瞰着[古老神殿](Ancient_Temple.md "古老神殿")。
 
 ## 目录
 
@@ -42,7 +42,7 @@
 
 向东望去，朝向[秘银矿石](Mithral_Ore.md "秘银矿石")矿脉，靠近[精金熔炉](Adamantine_Forge_(location).md)
 
-被弃避难所的地形由崩塌的建筑与洞穴和熔岩流交织而成，通常需要跳跃或类似方式才能穿行。在此区域，玩家可以发现两条秘银矿脉，从中可以开采[秘银矿石](Mithral_Ore.md "秘银矿石")。这可以在相邻的[精金熔炉](Adamantine_Forge_(location)地点使用.md)。
+被弃避难所的地形由崩塌的建筑与洞穴和熔岩流交织而成，通常需要跳跃或类似方式才能穿行。在此区域，玩家可以发现两条秘银矿脉，从中可以开采[秘银矿石](Mithral_Ore.md "秘银矿石")。这可以在相邻的[精金熔炉](Adamantine_Forge_(location).md)地点使用。
 
 ### 区域地点
 

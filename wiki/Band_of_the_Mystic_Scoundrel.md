@@ -15,7 +15,7 @@
 佩戴此物品的角色获得：
 
 [幻术加速](Illusion_Quickening.md "幻术加速")
-在用武器攻击命中一个生物后，你可以以[附赠动作](Actions.md#Resources "动作")施放[幻术学派](Illusion.md "Illusion")或[惑控学派](Enchantment_(school)法术.md)。
+在用武器攻击命中一个生物后，你可以以[附赠动作](Actions.md#Resources "动作")施放[幻术学派](Illusion.md "Illusion")或[惑控学派](Enchantment_(school).md)法术。
 
 ## 获取地点
 
@@ -30,7 +30,7 @@
 _关于幻术加速：_
 
 - 拥有“快速咒语”状态的角色无法再以动作施放幻术或惑控学派法术，只能以附赠动作施放。
-- 快速咒语在回合开始时失去持续时间，因此[借机攻击](Opportunity Attack.md "Opportunity Attack")不会让角色在下一回合获得此状态。
+- 快速咒语在回合开始时失去持续时间，因此[借机攻击](Opportunity_Attack.md "Opportunity Attack")不会让角色在下一回合获得此状态。
 
 ## 错误
 

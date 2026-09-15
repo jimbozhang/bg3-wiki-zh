@@ -18,7 +18,7 @@
 穿戴者获得对[法术攻击掷骰](Spell_Attack_Roll.md "Spell Attack Roll")的 +1 加值。
 
 [寸短寸险](Daredevil_Proximity.md "Daredevil Proximity")
-当你与敌对生物相邻时，你的远程[法术攻击](Spell_Attack.md "Spell Attack")将作为[近战法术攻击](Melee_Spell_Attack.md "Melee Spell Attack")进行。此效果可被切换关闭。
+当你与敌对生物相邻时，你的远程[法术攻击](Spell_Attack.md "Spell Attack")将作为[近战法术攻击](Spell_Attack.md "Melee Spell Attack")进行。此效果可被切换关闭。
 
 ## 获取地点
 

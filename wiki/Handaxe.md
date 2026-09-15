@@ -2,7 +2,7 @@
 
 关于装备类型，请参见[手斧](Handaxes.md "Handaxes")。
 
-**手斧**是[手斧](Handaxes.md "Handaxes")武器家族中一种普通的、非魔法的变体。它是一种单手挥舞的[武器](Weapons.md "武器")。它是一种[轻型](Light_(weapon_property)武器.md)，任何人都无需特殊训练即可双持。其设计非常适合作为投射物[投掷攻击](Thrown.md "投掷攻击")向敌人。
+**手斧**是[手斧](Handaxes.md "Handaxes")武器家族中一种普通的、非魔法的变体。它是一种单手挥舞的[武器](Weapons.md "武器")。它是一种[轻型](Light_(weapon_property).md)武器，任何人都无需特殊训练即可双持。其设计非常适合作为投射物[投掷攻击](Thrown.md "投掷攻击")向敌人。
 
 一把直截了当的小斧头，因砍伐木材——或骨头——而略微变钝。
 

@@ -3,7 +3,7 @@
 **秘术师卡里翁的束缚诅咒**
 
 - 受影响实体已被秘术师卡里翁诅咒。它处于[中毒](Poisoned_(Condition).md "中毒 (状态)")、[目盲](Blinded_(Condition).md "目盲 (状态)")、[束缚](Restrained_(Condition).md "束缚 (状态)")状态，并受到⁠[黯蚀](Necrotic.md "黯蚀")伤害。
-- 每回合在[法术豁免DC](Dice_rolls.md#Save_DCs "掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")失败时，受到6d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
+- 每回合在[法术豁免难度等级](Dice_rolls.md#Save_DCs "掷骰") [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")失败时，受到6d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 
 [被诅咒](Cursed_(status_group).md)
 

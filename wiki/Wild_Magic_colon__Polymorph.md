@@ -1,6 +1,6 @@
 # 狂野魔法：变形术
 
-**狂野魔法：变形术**是[狂野魔法术士](Wild_Magic_Sorcerer.md "狂野魔法术士")的[自由动作](Free_Action.md "自由动作")，当被[狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法（被动特性）")掷骰触发时随机使用；它会将术士变形为绵羊，类似于[变形术](Polymorph.md "变形术")法术。
+**狂野魔法：变形术**是[狂野魔法术士](Wild_Magic_Sorcerer.md "狂野魔法术士")的自由动作，当被[狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法（被动特性）")掷骰触发时随机使用；它会将术士变形为绵羊，类似于[变形术](Polymorph.md "变形术")法术。
 
 ## 描述
 

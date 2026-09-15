@@ -1,6 +1,6 @@
 # 精准攻击
 
-**精准攻击**是[战斗大师](Battle_Master.md "战斗大师")可用的一种[策略](Manoeuvre.md "策略")，可作为[自由动作](Free_Action.md "自由动作")使用。它使战斗大师的下一次武器[攻击掷骰](Attack_Roll.md "攻击掷骰")获得等于[卓越骰子](Superiority_Die.md "卓越骰子")掷骰结果的加值。
+**精准攻击**是[战斗大师](Battle_Master.md "战斗大师")可用的一种[策略](Manoeuvre.md "策略")，可作为自由动作使用。它使战斗大师的下一次武器[攻击掷骰](Attack_Roll.md "攻击掷骰")获得等于[卓越骰子](Superiority_Die.md "卓越骰子")掷骰结果的加值。
 
 ## 描述
 

@@ -18,7 +18,7 @@
 
 - UID `S_CRE_RecordOfComplaints` UUID `6403e765-b660-4f80-a6cb-bc038179001c` ## 获取地点
 
-- 位于[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")上层靠近[小法妖巢](Gremishka_Nest.md "小法妖巢")的书架上，坐标 X: 46 Y: 39
+- 位于[瑰晨修道院](Rosymorn_Monastery.md "瑰晨修道院")上层靠近[小法妖巢](Rosymorn_Monastery.md "小法妖巢")的书架上，坐标 X: 46 Y: 39
 
 ## 文本
 

@@ -92,12 +92,12 @@
 | [缩小](Reduce.md "缩小") | 持续时间：10 驱散 |  |  |  |
 | [巨化](Enlarged_(Condition).md "巨化 (状态)") | +1 | [巨化](Enlarge.md "巨化") | 持续时间：10 驱散 |  |
 | [灰矮人](Duergar.md "灰矮人")的[巨化](Enlarge.md "巨化") |  |  |  |  |
-| [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "大男孩的磨牙玩具") ([谁是大个子？](Whossa_Large_Fellow_q_.md "谁是大个子？")) |  |  |  |  |
+| [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "大男孩的磨牙玩具") ([谁是大家伙？](Whossa_Large_Fellow_q_.md "谁是大家伙？")) |  |  |  |  |
 | [巨人狂暴](Giant's_Rage_(Condition).md "巨人狂暴 (状态)") | [巨人野蛮人](Giant_Barbarian.md "巨人野蛮人")的[巨人狂暴](Giant's_Rage.md "巨人狂暴") |  |  |  |
 | [巨人形态](Giant_Form_(Condition).md "巨人形态 (状态)") | [博德安的巨人杀手](Balduran's_Giantslayer.md "博德安的巨人杀手") ([巨人形态](Giant_Form.md "巨人形态")) |  |  |  |
 | ALCH_ELIXIR | [巨像灵药](Elixir_of_The_Colossus_(Condition).md "巨像灵药 (状态)") | +1 | [巨像灵药](Elixir_of_the_Colossus.md "巨像灵药") | 持续时间：直至[长休](Long_Rest.md "长休") |
 
-  - 例如，一个[灰矮人](Duergar.md "灰矮人")受到[巨化](Enlarged_(Condition).md "巨化 (状态)")影响时体型为大型，使用[谁是大个子？](Whossa_Large_Fellow_q_.md "谁是大个子？")会先取消巨化，然后重新应用。
+  - 例如，一个[灰矮人](Duergar.md "灰矮人")受到[巨化](Enlarged_(Condition).md "巨化 (状态)")影响时体型为大型，使用[谁是大家伙？](Whossa_Large_Fellow_q_.md "谁是大家伙？")会先取消巨化，然后重新应用。
 - 对处于[缩小](Reduced_(Condition).md "缩小 (状态)")状态的角色使用[巨化](Enlarge.md "巨化")会先取消后一状态（无论初始来源如何），然后应用巨化，可能使其总体体型改变 2 个类别。
   - 尽管是独立的状态并具有额外效果，[巨人形态](Giant_Form_(Condition).md "巨人形态 (状态)")占用与巨化和缩小相同的“槽位”。
 - 具有*不同*堆叠 ID 的状态*可以*叠加，根据需要改变角色的体型。

@@ -3,7 +3,7 @@
 **涂抹法师灾祸油**
 
 - 严重削弱任何被此武器击中的施法者的力量。
-- 目标在2回合内，法术[攻击掷骰](Attack_roll.md "Attack Roll")和[法术豁免DC](Spell_save_DC.md "Spell Save DC")承受-3减值，并且在维持[专注](Concentration.md "Concentration")的[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
+- 目标在2回合内，法术[攻击掷骰](Attack_roll.md "Attack Roll")和[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")承受-3减值，并且在维持[专注](Concentration.md "Concentration")的[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。
 
 ## 属性
 
@@ -15,7 +15,7 @@
 
 持续时间：2回合
 
-- 受影响实体在法术[攻击掷骰](Attack_rolls.md "Attack Rolls")和[法术豁免DC](Saving_throw.md "Saving Throw")上承受-3减值。
+- 受影响实体在法术[攻击掷骰](Attack_rolls.md "Attack Rolls")和[法术豁免难度等级](Saving_throw.md "Saving Throw")上承受-3减值。
 - 在[专注](Concentration.md "Concentration")豁免检定上具有[劣势](Disadvantage.md "Disadvantage")。
 
 ## 涂抹法师灾祸油的来源
@@ -92,7 +92,7 @@
 | [涂抹紫虫毒素](Coated_in_Purple_Worm_Toxin_(Condition).md "涂抹紫虫毒素 (状态)") | 目标在其下一回合结束时承受1d10[中毒](Poison.md "Poison")伤害，除非他们通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 19的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。 |
 | [涂抹蛇毒毒素](Coated_in_Serpent_Venom_Toxin_(Condition).md "涂抹蛇毒毒素 (状态)") | 目标在其下一回合结束时承受1d6[中毒](Poison.md "Poison")伤害，除非他们通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 13的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。 |
 | [涂抹毒素](Coated_in_Toxin_(Condition).md "涂抹毒素 (状态)") | 目标在其下一回合结束时承受1d4[中毒](Poison.md "Poison")伤害，除非他们通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 11的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。 |
-| 涂抹法师灾祸油 | 严重削弱任何被此武器击中的施法者的力量。目标在2回合内，法术[攻击掷骰](Attack_roll.md "Attack Roll")和[法术豁免DC](Spell_save_DC.md "Spell Save DC")承受-3减值，并且在维持[专注](Concentration.md "Concentration")的[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。 |
+| 涂抹法师灾祸油 | 严重削弱任何被此武器击中的施法者的力量。目标在2回合内，法术[攻击掷骰](Attack_roll.md "Attack Roll")和[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")承受-3减值，并且在维持[专注](Concentration.md "Concentration")的[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。 |
 | [涂抹翼龙毒素](Coated_in_Wyvern_Toxin_(Condition).md "涂抹翼龙毒素 (状态)") | 目标在其下一回合结束时承受1d8[中毒](Poison.md "Poison")伤害，除非他们通过[DC](Dice_rolls#Save_DCs.md#Save_DCs "Dice rolls") 15的[体质](Constitution.md "Constitution")[豁免检定](Saving_throw.md "Saving Throw")。 |
 | [蘸取毒药](Dipped_in_Poison_(Condition).md "蘸取毒药 (状态)") | 武器造成额外1d4[中毒](Poison.md "Poison")伤害。 |
 

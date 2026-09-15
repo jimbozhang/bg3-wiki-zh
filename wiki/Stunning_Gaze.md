@@ -13,7 +13,7 @@
 消耗
 [附赠动作](Actions.md#Resources "动作")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 射程：18米（60英尺）
 目标：1个未在近期受震慑凝视影响的生物
 充能：每回合
@@ -26,7 +26,7 @@
 
 持续时间：1回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响的生物无法移动或使用[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")。
 - 受影响的生物自动在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")豁免检定中失败。

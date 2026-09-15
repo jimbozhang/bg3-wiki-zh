@@ -4,7 +4,7 @@
 
 **蛛丝墓穴**
 
-- 该生物被 [感染](Infested_(Condition).md "感染 (状态)") 的蛛丝包裹，无法移动或执行动作。除非蛛丝被 [强酸](Acid.md "强酸") 或 [火焰](Fire.md "火焰") 伤害移除，否则它将 [爆炸](Explode.md "爆炸")，对被包裹的生物造成 8d10 [中毒](Poison.md "中毒") 伤害。
+- 该生物被 [感染](Infested_(Condition).md "感染 (状态)") 的蛛丝包裹，无法移动或执行动作。除非蛛丝被 [强酸](Acid.md "强酸") 或 [火焰](Fire.md "火焰") 伤害移除，否则它将 爆炸，对被包裹的生物造成 8d10 [中毒](Poison.md "中毒") 伤害。
 
 [失能](Incapacitated_(status_group).md)
 
@@ -26,7 +26,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- 该生物被 [感染](Infested_(Condition).md "感染 (状态)") 的蛛丝包裹，无法移动或执行动作。除非蛛丝被 [强酸](Acid.md "强酸") 或 [火焰](Fire.md "火焰") 伤害移除，否则它将 [爆炸](Explode.md "爆炸")，对被包裹的生物造成 8d10 [中毒](Poison.md "中毒") 伤害。
+- 该生物被 [感染](Infested_(Condition).md "感染 (状态)") 的蛛丝包裹，无法移动或执行动作。除非蛛丝被 [强酸](Acid.md "强酸") 或 [火焰](Fire.md "火焰") 伤害移除，否则它将 爆炸，对被包裹的生物造成 8d10 [中毒](Poison.md "中毒") 伤害。
 
 ---
 *Source: [Gossamer Tomb (Condition)](https://bg3.wiki/wiki/Gossamer_Tomb_(Condition)*

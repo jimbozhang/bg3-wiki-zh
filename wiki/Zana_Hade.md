@@ -35,7 +35,7 @@
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 - [战术铁律](Tactical_Discipline.md "Tactical Discipline")
 
-**班恩之拳扎娜·海德**是[班恩](Bane_(God)的一个人类教徒.md)，可以在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")找到，位于[铁执政官下颚尤斯](Yoonce.md "Yoonce")旁边。
+**班恩之拳扎娜·海德**是[班恩](Bane_(God).md)的一个人类教徒，可以在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")找到，位于[铁执政官下颚尤斯](Yoonce.md "Yoonce")旁边。
 
 ## 目录
 

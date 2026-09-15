@@ -2,7 +2,7 @@
 
 **吞噬智力**
 
-- [智力](Intelligence.md "Intelligence") 每[驱散](Turn.md "Turn")降低 1。
+- [智力](Intelligence.md "Intelligence") 每[驱散](Intelligence.md "Turn")降低 1。
 
 ## 属性
 
@@ -25,7 +25,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠 ID 的状态
 
-- [智力](Intelligence.md "Intelligence") 每[驱散](Turn.md "Turn")降低 1。
+- [智力](Intelligence.md "Intelligence") 每[驱散](Intelligence.md "Turn")降低 1。
 
 ---
 *Source: [Devoured Intellect (Condition)](https://bg3.wiki/wiki/Devoured_Intellect_(Condition)*

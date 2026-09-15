@@ -29,7 +29,7 @@ _维基数据库中未定义_
 - [自由行动药水](Elixir_of_Guileful_Movement_(Condition).md "Elixir of Guileful Movement (Condition)")：[移动速度](Movement_speed.md "Movement Speed")不会被[劣势地形](Difficult_Terrain.md "Difficult Terrain")、法术或魔法效果降低。不会被[麻痹](Paralysed_(Condition).md "Paralysed (Condition)")或[束缚](Restrained_(Condition).md "Restrained (Condition)")。饮用时会替换其他灵药的效果。
 - [英勇灵药](Elixir_of_Heroism_(Condition).md "Elixir of Heroism (Condition)")：受影响实体获得**1d4**加值至[攻击掷骰](Attack_roll.md "Attack Roll")和[豁免检定](Saving_throw.md "Saving Throw")，直至下一次长休。
 - [山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength_(Condition).md "Elixir of Hill Giant Strength (Condition)")：[力量](Strength.md "Strength")提升至21。
-- [卓越专注灵药](Elixir_of_Peerless_Focus_(Condition).md "Elixir of Peerless Focus (Condition)")：受影响实体维持法术的能力提升。在对抗[魅惑](Charmed_(status_group)和维.md)持[专注](Concentration.md "Concentration")的[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。不会被[沉睡](Sleeping_(Condition).md "Sleeping (Condition)")。
+- [卓越专注灵药](Elixir_of_Peerless_Focus_(Condition).md "Elixir of Peerless Focus (Condition)")：受影响实体维持法术的能力提升。在对抗[魅惑](Charmed_(status_group).md)和维持[专注](Concentration.md "Concentration")的[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。不会被[沉睡](Sleeping_(Condition).md "Sleeping (Condition)")。
   - [巨像灵药](Elixir_of_The_Colossus_(Condition).md "Elixir of The Colossus (Condition)")：[体型](Creature_size.md "Creature Size")增大。武器造成额外**1d4**伤害，且受影响实体在[力量](Strength.md "Strength")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上具有[优势](Advantage.md "Advantage")。[负重](Carrying_capacity.md "Carrying Capacity")也提升25%。
 
 | 状态 | 效果 |

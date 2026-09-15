@@ -28,7 +28,7 @@
 [岁月知识：智力](Knowledge_of_the_Ages_colon__Intelligence_(Condition).md "岁月知识：智力 (状态)")
 |
 
-- 拥有 [奥秘](Arcana.md "奥秘")、[历史的](History.md "历史的")、[调查](Investigation.md "调查")、[自然](Nature.md "自然") 和 [宗教](Religion.md "宗教") 的 [熟练项](Proficiency.md "熟练项")。
+- 拥有 [奥秘](Arcana.md "奥秘")、[历史](History.md "历史")、[调查](Investigation.md "调查")、[自然](Nature.md "自然") 和 [宗教](Religion.md "宗教") 的 [熟练项](Proficiency.md "熟练项")。
 
 [岁月知识：力量](Knowledge_of_the_Ages_colon__Strength_(Condition).md "岁月知识：力量 (状态)")
 |

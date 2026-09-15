@@ -13,10 +13,10 @@
 - 价格：3 金币
 - UID `CONS_FOOD_Fruit_HAG_PoisonApple` UUID `1617582e-5c09-460a-8ae7-7be77803955d` ## 状态：胃部不适
 
-**[胃部不适](胃部不适_(状态).md "胃部不适 (状态)")**
+**[胃部不适](Upset_Stomach_(Condition).md "胃部不适 (状态)")**
 
 - 那个苹果有点不对劲。
-- 持续时间结束时，进行一次 [掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。失败将施加状态[发烧](发烧_(状态).md "发烧 (状态)")。
+- 持续时间结束时，进行一次 [掷骰](Dice_rolls.md#Save_DCs "骰子掷骰") 15 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。失败将施加状态[发烧](Feverish_(Condition).md "发烧 (状态)")。
 
 ## 获取地点
 

@@ -6,7 +6,7 @@
 
 不死生物杀戮弩是一把稀有的+2[重弩](Heavy_Crossbows.md "Heavy Crossbows")，对[不死生物](Undead.md "Undead")目标的[攻击掷骰](Attack_rolls.md "Attack Rolls")和[伤害掷骰](Damage_rolls.md "Damage Rolls")提供加成。
 
-当那个男孩七岁时，他在一次公开焚烧中被一只[吸血鬼衍体](Vampire_Spawn.md "Vampire Spawn")吓坏了。被火焰吞噬后，那生物并未萎缩。它像被挤压的[吸血术](Leech.md "Leech")一样膨胀爆裂。脑浆溅在男孩的鞋子上，灰粉色、糊状。
+当那个男孩七岁时，他在一次公开焚烧中被一只[吸血鬼衍体](Vampire_Spawn.md "Vampire Spawn")吓坏了。被火焰吞噬后，那生物并未萎缩。它像被挤压的吸血术一样膨胀爆裂。脑浆溅在男孩的鞋子上，灰粉色、糊状。
 
 他永远不会忘记。
 

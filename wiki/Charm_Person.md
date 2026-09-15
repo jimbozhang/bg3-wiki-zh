@@ -17,7 +17,7 @@
 消耗
 [动作](Actions.md#Resources "Actions") + [1级法术位](Spells.md#Spell_slots "Spells")
 详情
-[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 范围：18米（60英尺）
 
 ## 升环施法

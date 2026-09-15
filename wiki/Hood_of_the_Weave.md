@@ -1,6 +1,6 @@
 # 魔网兜帽
 
-魔网兜帽是一件非常稀有的[头盔](Helmets.md "头盔")，能提升穿戴者的法术豁免DC和攻击掷骰2点。
+魔网兜帽是一件非常稀有的[头盔](Helmets.md "头盔")，能提升穿戴者的法术豁免难度等级和攻击掷骰2点。
 
 这件物品曾由[提恩瑟](https://forgottenrealms.fandom.com/wiki/Tenser)在加入八杰集时佩戴。
 
@@ -18,7 +18,7 @@
 穿戴此物品获得：
 
 [奥术增强](Arcane_Enchantment_(+2).md)
-你获得+2加值至[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
+你获得+2加值至[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
 
 ## 获取地点
 

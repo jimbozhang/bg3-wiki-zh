@@ -15,7 +15,7 @@
 10d6⁠[心灵](Psychic.md "心灵")
 
 详情
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功时：目标仍承受一半伤害。）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功时：目标仍承受一半伤害。）
 范围：30米（100英尺）
 范围效果：12米（40英尺）半径
 
@@ -25,7 +25,7 @@
 
 持续时间：1驱散
 
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响实体被耐色脑的心灵粉碎之力[减速](Slowed_(Condition).md "减速（状态）")。
 

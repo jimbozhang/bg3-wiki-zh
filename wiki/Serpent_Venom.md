@@ -15,7 +15,7 @@
 
 **[蛇牙毒素](Serpent_Fang_Toxin_(Condition).md "Serpent Fang Toxin (Condition)")**
 
-持续时间：1[驱散](Turn.md "Turn")
+持续时间：1[驱散](Turned_(Condition).md "Turn")
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[骰子掷骰](DC.md "骰子掷骰") 13）
 

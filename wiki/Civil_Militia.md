@@ -1,6 +1,6 @@
 # 民兵
 
-**民兵**是一项被动特性，授予对[短矛](Shortspears.md "Shortspears")、[长矛](Pikes.md "Pikes")、[长戟](Halberds.md "Halberds")和[长柄刀](Glaives.md "Glaives")的[熟练项](Proficiency.md "Proficiency")，以及对轻甲和盾牌的熟练项。
+**民兵**是一项被动特性，授予对[短矛](Proficiency.md "Shortspears")、[长矛](Pikes.md "Pikes")、[长戟](Halberds.md "Halberds")和[长柄刀](Glaives.md "Glaives")的[熟练项](Proficiency.md "Proficiency")，以及对轻甲和盾牌的熟练项。
 
 ## 描述
 

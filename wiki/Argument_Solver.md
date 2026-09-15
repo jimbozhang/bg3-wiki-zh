@@ -48,7 +48,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 _关于毒雾：_
 
-- 毒雾创造的[毒云](Poison_Cloud.md "毒云")内的目标，其豁免检定将对抗你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")，而非你的[武器动作DC](Weapon_action_DC.md "武器动作DC")。
+- 毒雾创造的[毒云](Poison_Cloud.md "毒云")内的目标，其豁免检定将对抗你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")，而非你的[武器动作DC](Weapon_action_DC.md "武器动作DC")。
 
 ## 图库
 

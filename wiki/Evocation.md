@@ -118,7 +118,7 @@
 | [暗冬之霜](Frost_of_Dark_Winter.md "暗冬之霜") | 4 |  |  | 长休 | 自身 | - | - |
 | [克雷斯卡的恩惠](Kereska's_Favour.md "克雷斯卡的恩惠") | 4 |  |  | - | 自身 | - | - |
 | [火焰射线](Rays_of_Fire_(Mol).md "火焰射线 (摩尔)") | 4 |  |  | - | 18 m / 60 ft | [攻击掷骰](Attack_roll.md "攻击掷骰") | 3d6⁠[火焰](Fire.md "火焰") / 3d6⁠[火焰](Fire.md "火焰") / 3d6⁠[火焰](Fire.md "火焰") / 3d6⁠[火焰](Fire.md "火焰") |
-| [罗兰的火球术术](Rolan's_Fireball.md "罗兰的火球术术") | 4 |  |  | 10 驱散 | 18 m / 60ft / 4m / 13ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 7d6⁠[火焰](Fire.md "火焰") |
+| [罗兰的火球术](Rolan's_Fireball.md "罗兰的火球术") | 4 |  |  | 10 驱散 | 18 m / 60ft / 4m / 13ft (半径) | [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") | 7d6⁠[火焰](Fire.md "火焰") |
 | [极致灾难](Sizzling_Cataclysm.md "极致灾难") | 4 |  |  | 长休 | 自身 | - | - |
 | [惊惧斩](Staggering_Smite.md "惊惧斩") | 4 |  |  | 1 驱散 | 武器范围 | [攻击掷骰](Attack_roll.md "攻击掷骰") [感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") | 普通武器伤害 / 4d6⁠[心灵](Psychic.md "心灵") |
 | [战略教程：战争艺术](Curriculum_of_Strategy_colon__Artistry_of_War.md "战略教程：战争艺术") | 5 |  |  | - | 18 m / 60ft | - | 2d6 + 6⁠[力场](Force.md "力场") / 2d6 + 6⁠[力场](Force.md "力场") / 2d6 + 6⁠[力场](Force.md "力场") / 2d6 + 6⁠[力场](Force.md "力场") |

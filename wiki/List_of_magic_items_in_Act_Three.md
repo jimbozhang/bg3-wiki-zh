@@ -54,7 +54,7 @@ X: -1511 Y: -1522
 [诡术师之戒](Band_of_the_Mystic_Scoundrel.md "诡术师之戒")
 |
 
-- 用武器攻击命中生物后，你可以将[幻术学派](Illusion.md "幻术学派")或[惑控](Enchantment_(school)法术作.md)为[附赠动作](Actions.md#Resources "动作")施放。
+- 用武器攻击命中生物后，你可以将[幻术学派](Illusion.md "幻术学派")或[惑控](Enchantment_(school).md)法术作为[附赠动作](Actions.md#Resources "动作")施放。
 
 | 在背包中 | [丛林](Jungle.md "丛林") |
 X: -1566 Y: -1522
@@ -74,9 +74,9 @@ X: -1566 Y: -1522
 | 反雨斗篷 | [潮湿](Wet_(Condition).md "潮湿（状态）") | 由[阿卡比](Akabi.md "阿卡比")在[幸运之轮](Circus_of_the_Last_Days#Layout.md#Layout "终末马戏团")未中大奖后作为安慰奖给予 | [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") X: -68 Y: -73 |
 | 不幸窃贼手套 | [巧手](Sleight_of_Hand.md "巧手") +2 每偷窃一件物品，穿戴者物品栏中增加一块[木炭](Charcoal.md "木炭")。偷窃20次后，下次偷窃将增加一桶[煤桶](Coal_Bucket.md "煤桶")，使玩家获得持续1回合的[燃烧](Burning_(Condition).md "燃烧（状态）")状态。 | 由[阿卡比](Akabi.md "阿卡比")在[幸运之轮](Circus_of_the_Last_Days#Layout.md#Layout "终末马戏团")未中大奖后作为安慰奖给予 | [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") X: -68 Y: -73 |
 | 空洞法杖 | 生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。[哈达之臂](Arms_of_Hadar.md "哈达之臂") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[卢克修斯](Lucretious.md "卢克修斯")携带 | [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") X: -82 Y: -33 |
-| 法威手套 | 施放需要[攻击检定](Attack_roll.md "攻击检定")的法术时，你可以承受-5的检定减值，以造成额外1d8伤害。 | 完成[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")任务后由[卢克修斯](Lucretious.md "卢克修斯")奖励 | [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") X: -82 Y: -33 |
+| 法威手套 | 施放需要[攻击掷骰](Attack_roll.md "攻击掷骰")的法术时，你可以承受-5的检定减值，以造成额外1d8伤害。 | 完成[寻找小丑德里波斯](Find_Dribbles_the_Clown.md "寻找小丑德里波斯")任务后由[卢克修斯](Lucretious.md "卢克修斯")奖励 | [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") X: -82 Y: -33 |
 | 尖顶帽 | 你的[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")获得等于你[智力](Intelligence.md "智力")调整值的加成。 | 在[卢克修斯](Lucretious.md "卢克修斯")身后的箱子中 | [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") X: -85 Y: -24 |
-| 黑暗移位手套 | 投掷时[攻击检定](Attack_roll.md "攻击检定")+1，若目标[敏捷](Dexterity.md "敏捷")[豁免](Saving_throw.md "豁免")失败，可与其交换位置。[巧手](Sleight_of_Hand.md "巧手") +1 | 由[波珀](Popper.md "波珀")出售 | [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") X: -90 Y: -56 |
+| 黑暗移位手套 | 投掷时[攻击掷骰](Attack_roll.md "攻击掷骰")+1，若目标[敏捷](Dexterity.md "敏捷")[豁免](Saving_throw.md "豁免")失败，可与其交换位置。[巧手](Sleight_of_Hand.md "巧手") +1 | 由[波珀](Popper.md "波珀")出售 | [终末马戏团](Circus_of_the_Last_Days.md "终末马戏团") X: -90 Y: -56 |
 | 亡灵克星 | 此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外1d6⁠⁠[挥砍](Slashing.md "挥砍")伤害。[亵渎灾祸](Profane_Scourge.md "亵渎灾祸") 以征服之怒打击，将你的[熟练项加值](Proficiency_Bonus.md "熟练项加值")加入伤害掷骰。若命中[邪魔](Fiend.md "邪魔")或[不死生物](Undead.md "不死生物")生物，造成额外2d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害，并可能使其[衰弱](Bane_(Condition).md "衰弱（状态）")。（充能：[短休](Short_rest.md "短休")。） | 由[乌玛](Ulma.md "乌玛")携带 | [古尔营地](Gur_Camp.md "古尔营地") X: 100 Y: -17 |
 | 闪烁之戒 | [闪现](Blink.md "闪现") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[塔拉](Tara.md "塔拉")在寺庙屋顶奖励 | [慈爱神殿](Open_Hand_Temple.md "慈爱神殿") X: -45 Y: -5 |
 | 猫头鹰项圈 | [心灵遥控](Telekinesis.md "心灵遥控") 施放为5环法术（充能：[长休](Long_Rest.md "长休")。） | 由[塔拉](Tara.md "塔拉")在屋顶佩戴 | [慈爱神殿](Open_Hand_Temple.md "慈爱神殿") X: -87 Y: -7 |
@@ -102,10 +102,10 @@ X: -1566 Y: -1522
 | 骨刺护甲 | 每当你[狂暴](Rage.md "狂暴")时，获得15点[临时生命值](Temporary_Hit_Points.md "临时生命值")。所有受到的伤害减少2点。当穿戴者被近战攻击命中时，攻击者承受[体质](Constitution.md "体质")⁠⁠[穿刺](Piercing.md "穿刺")伤害。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
 | 精灵链甲 | 佩戴此护甲时，你被视为[重甲的](Proficient.md "重甲的")。穿戴者[先攻](Initiative.md "先攻")掷骰+2，[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
 | 潜行者手套 | [先攻](Initiative.md "先攻")掷骰+1。你的[偷袭](Sneak_Attack.md "偷袭")造成额外1d4⁠⁠[力场](Force.md "力场")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
-| 斯怀尔斯的滑板 | 盾牌在战斗开始时使穿戴者获得[力场导体](Force_Conduit_(Condition).md "力场导体（状态）")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
+| 斯怀尔斯的滑板 | 盾牌在战斗开始时使穿戴者获得[力场导体](Force_Conduit_(Condition).md "力场导体（状态）")。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒伏](Prone_(Condition).md "倒伏（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。 | 由[埃克维凯普](Exxvikyap.md "埃克维凯普")在第三章期间于[利文顿](Rivington.md "利文顿")出售 | [利文顿杂货铺](Rivington_General.md "利文顿杂货铺") X: 7 Y: -35 |
 | 舞光匕首 | 此物品在⁠6米/20英尺半径内散发光芒。仅副手使用 当此匕首在副手使用时，使用者[护甲等级](Armour_Class.md "护甲等级")+1。 | 由[法尔林](Farlin.md "法尔林")在[利文顿](Rivington.md "利文顿")西海滩携带 | [西海滩](Western_Beach.md "西海滩") X: -210 Y: 99 |
 | 碎尸者 | [全垒打](Grand_Slam.md "全垒打") 将武器猛砸地面，造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外[雷鸣](Thunder.md "雷鸣")伤害，雷鸣冲击附近敌人并可能将其击退。（充能：[短休](Short_rest.md "短休")。） | 由[卡利欧斯](Cairos.md "卡利欧斯")在[利文顿](Rivington.md "利文顿")西海滩携带 | [西海滩](Western_Beach.md "西海滩") X: -222 Y: 93 |
-| 骨刺靴 | 若你未穿着[护甲](Armour.md "护甲")或持握[盾牌](Shields.md "盾牌")，则[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")+1。[跳跃](Jump.md "跳跃")距离增加1.5米（5英尺）。[凶蛮跳跃](Brutal_Leap.md "凶蛮跳跃") ( + ) 跃向目标并可能将其击倒[倒地](Prone_(Condition).md "倒地（状态）")。（充能：每回合。） | 在木箱中，坐标X: -1340 Y: -857，位于[利文顿](Rivington.md "利文顿")[南翼检查点](South_Span_Checkpoint.md "南翼检查点")西行小径尽头的隐蔽通道内 | [西海滩](Western_Beach.md "西海滩") X: -233 Y: 84 |
+| 骨刺靴 | 若你未穿着[护甲](Armour.md "护甲")或持握[盾牌](Shields.md "盾牌")，则[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")+1。[跳跃](Jump.md "跳跃")距离增加1.5米（5英尺）。[凶蛮跳跃](Brutal_Leap.md "凶蛮跳跃") ( + ) 跃向目标并可能将其击倒[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：每回合。） | 在木箱中，坐标X: -1340 Y: -857，位于[利文顿](Rivington.md "利文顿")[南翼检查点](South_Span_Checkpoint.md "南翼检查点")西行小径尽头的隐蔽通道内 | [西海滩](Western_Beach.md "西海滩") X: -233 Y: 84 |
 
 ## 飞龙岩关隘
 
@@ -219,7 +219,7 @@ X: -97 Y: 107
 成长为可怕体型。你的武器造成额外1d6伤害，你获得27点[临时生命值](Temporary_Hit_Points.md "临时生命值")，且力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）
 
 [推翻大个](Topple_the_Big_Folk.md "推翻大个")
-造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外伤害。命中时，大型、超大型或巨型生物承受额外2d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害，且必须通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒地](Prone_(Condition).md "倒地（状态）")。（充能：[短休](Short_rest.md "短休")。）
+造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外伤害。命中时，大型、超大型或巨型生物承受额外2d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害，且必须通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。）
 | 在[安苏](Ansur.md "安苏")尸体上 | [巨龙密室](The_Dragon's_Sanctum.md "巨龙密室") |
 X: 633 Y: -989
 [博德安之盔](Helm_of_Balduran.md "博德安之盔")
@@ -234,7 +234,7 @@ X: 633 Y: -989
 X: 636 Y: -964
 | 物品名称 | 物品效果 | 获取地点 | 位置 |
 | --- | --- | --- | --- |
-| 博德安的巨人杀手 | 命中时，双倍来自你[力量](Strength.md "力量")[调整值](Ability_scores#Ability_score_modifiers.md#Ability_score_modifiers "属性调整值")的伤害。此武器使你对大型、超大型或巨型生物的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。[巨人形态](Giant_Form.md "巨人形态") 成长为可怕体型。你的武器造成额外1d6伤害，你获得27点[临时生命值](Temporary_Hit_Points.md "临时生命值")，且力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）[推翻大个](Topple_the_Big_Folk.md "推翻大个") 造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外伤害。命中时，大型、超大型或巨型生物承受额外2d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害，且必须通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒地](Prone_(Condition).md "倒地（状态）")。（充能：[短休](Short_rest.md "短休")。） | 在[安苏](Ansur.md "安苏")尸体上 | [巨龙密室](The_Dragon's_Sanctum.md "巨龙密室") X: 633 Y: -989 |
+| 博德安的巨人杀手 | 命中时，双倍来自你[力量](Strength.md "力量")[调整值](Ability_scores#Ability_score_modifiers.md#Ability_score_modifiers "属性调整值")的伤害。此武器使你对大型、超大型或巨型生物的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。[巨人形态](Giant_Form.md "巨人形态") 成长为可怕体型。你的武器造成额外1d6伤害，你获得27点[临时生命值](Temporary_Hit_Points.md "临时生命值")，且力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。（充能：[短休](Short_rest.md "短休")。）[推翻大个](Topple_the_Big_Folk.md "推翻大个") 造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外伤害。命中时，大型、超大型或巨型生物承受额外2d6⁠⁠[挥砍](Slashing.md "挥砍")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害，且必须通过[力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定")，否则将[倒伏](Prone_(Condition).md "倒伏（状态）")。（充能：[短休](Short_rest.md "短休")。） | 在[安苏](Ansur.md "安苏")尸体上 | [巨龙密室](The_Dragon's_Sanctum.md "巨龙密室") X: 633 Y: -989 |
 | 博德安之盔 | 头盔在每回合开始时为你恢复2⁠⁠[治疗](Healing.md "治疗")。[护甲等级](Armour_Class.md "护甲等级")和[豁免检定](Saving_throw.md "豁免检定")+1。你不会被[震慑](Stunned_(Condition).md "震慑（状态）")。攻击者无法对穿戴者造成[重击](Critical_Hit.md "重击")。 | 在[安苏](Ansur.md "安苏")旁边的石坛上 | [巨龙密室](The_Dragon's_Sanctum.md "巨龙密室") X: 636 Y: -964 |
 | 标枪 +1 |  | 由[迦纳斯勋爵的保镖](Lord_Jannath's_Bodyguard.md "迦纳斯勋爵的保镖")携带（5把） | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") |
 | 雷文伽德公爵的长剑 | 当你杀死一个敌人时，9米/30英尺范围内的盟友获得[临时生命值](Temporary_Hit_Points.md "临时生命值")，数值等于你的[[见：错误](Stirring_Execution#Bugs.md#Bugs "激励击杀")]魅力[属性调整值](Ability_Modifier.md "属性调整值")（至少1点）。[魅力](Charisma.md "魅力") +2 [指挥官奇袭](Commander's_Strike.md "指挥官奇袭") ( + ) 命令一名盟友攻击敌人。该盟友将在其下一回合使用反应进行一次[武器攻击](Commander's_Strike_(Attack).md "指挥官奇袭（攻击）")。（充能：[短休](Short_rest.md "短休")。） | 由[乌尔德·雷文伽德公爵](Ulder_Ravengard.md "乌尔德·雷文伽德公爵")在觐见厅携带 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") |
@@ -244,7 +244,7 @@ X: 636 Y: -964
 | 地狱火长戟 | 命中时，此武器造成额外3⁠⁠[中毒](Poison.md "中毒")伤害，并可能[中毒](Poisoned_(Condition).md "中毒（状态）")目标。 | 由[铁执政官米安](Mian.md "铁执政官米安")携带 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") X: -13 Y: 202 |
 | 组装劲弩 | [炫目射线](Dazzling_Ray.md "炫目射线") 释放一道强光，[致盲](Blinded_(Condition).md "致盲（状态）")路径上的所有生物。（充能：[短休](Short_rest.md "短休")。）[照亮射击](Illuminating_Shot.md "照亮射击") 发射一道闪光箭矢，使目标承受1回合的[辐射光环](Radiating_Orb_(Condition).md "辐射光环（状态）")。 | 由[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")携带 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") X: -26 Y: 211 |
 | 权威服饰 | 你不会被[恐慌](Frightened_(Condition).md "恐慌（状态）")或受其他情绪改变状态影响。你在[威吓](Intimidation.md "威吓")和[洞悉](Insight.md "洞悉")检定上具有[优势](Advantage.md "优势")。[护甲等级](Armour_Class.md "护甲等级") +1 | 由[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")佩戴 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") X: -26 Y: 211 |
-| 暴君铁手套 | 你的徒手攻击造成额外1d4⁠⁠[力场](Force.md "力场")伤害。你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1。[命令术](Command.md "命令术") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")佩戴 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") X: -26 Y: 211 |
+| 暴君铁手套 | 你的徒手攻击造成额外1d4⁠⁠[力场](Force.md "力场")伤害。你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1。[命令术](Command.md "命令术") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 由[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")佩戴 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") X: -26 Y: 211 |
 | 残暴马靴 | 你的[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")+1。 | 由[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")佩戴 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") X: -26 Y: 211 |
 | 火焰搪瓷护甲 | [先攻](Initiative.md "先攻")掷骰+2。你对⁠[火焰](Fire.md "火焰")伤害具有[抗性](Resistance.md "抗性")，且[豁免检定](Saving_throw.md "豁免检定")+2。[火焰护盾：温暖](Fire_Shield_colon__Warm.md "火焰护盾：温暖") 施放为4环法术（充能：[长休](Long_Rest.md "长休")。） | 在飞龙岩传送点西南军械库角落的重箱中（铁门后） | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") X: -28 Y: 184 |
 | 黑色之手侍从手套 | 你的徒手攻击造成额外1d4⁠⁠[力场](Force.md "力场")伤害。[恐惧](Fear.md "恐惧") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） | 在顶层豪华宝箱中 | [飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞") X: -32 Y: 198 |
@@ -271,11 +271,11 @@ X: 636 Y: -964
 | 敏锐施法者之帽 | 当你的[法术攻击](Spell_Attack.md "法术攻击")伤害骰掷出1或2时，该骰重掷一次。 | 由[塔拉](Tara.md "塔拉")在[魔鬼的小费](Devil's_Fee.md "魔鬼的小费")屋顶出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -29 Y: 6 |
 | 识魂面具 | [攻击掷骰](Attack_roll.md "攻击掷骰")、[先攻](Initiative.md "先攻")掷骰和[察觉技能](Perception.md "察觉技能")检定+2。[侦测思想](Detect_Thoughts.md "侦测思想") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 在[赫尔希克](Helsik.md "赫尔希克")房间楼上的上锁[镀金箱子](Gilded_Chest.md "镀金箱子")中（DC 20[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -33 Y: 20 |
 | 地狱髯须长戟 |  | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
-| 凯蒂夫法杖 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。[凯蒂夫的修复术](Caitiff's_Restoration.md "凯蒂夫的修复术") 补充1个已消耗的邪术师[法术位](Spell_Slot.md "法术位")。（充能：[长休](Long_Rest.md "长休")。） | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
-| 魔网斗篷 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。[吸收元素](Absorb_Elements.md "吸收元素") 每[短休](Short_rest.md "短休")一次吸收元素伤害。下次针对你的元素攻击承受一半伤害，且下次攻击造成额外1d6该元素类型伤害。（充能：[短休](Short_rest.md "短休")。） | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
+| 凯蒂夫法杖 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。[凯蒂夫的修复术](Caitiff's_Restoration.md "凯蒂夫的修复术") 补充1个已消耗的邪术师[法术位](Spell_Slot.md "法术位")。（充能：[长休](Long_Rest.md "长休")。） | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
+| 魔网斗篷 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。[吸收元素](Absorb_Elements.md "吸收元素") 每[短休](Short_rest.md "短休")一次吸收元素伤害。下次针对你的元素攻击承受一半伤害，且下次攻击造成额外1d6该元素类型伤害。（充能：[短休](Short_rest.md "短休")。） | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
 | 双子手套 | 针对敌人和盟友的[戏法](Cantrip.md "戏法")可额外瞄准一个生物。可选择同一目标两次。每短休可用一次。 | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
-| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[动量](Momentum_(Condition).md "动量（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 在[赫尔希克](Helsik.md "赫尔希克")一楼的桌子上（部分游戏流程中） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
-| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[动量](Momentum_(Condition).md "动量（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 由[赫尔希克](Helsik.md "赫尔希克")出售（未在所有游戏流程中验证） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
+| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[亢奋](Momentum_(Condition).md "亢奋（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 在[赫尔希克](Helsik.md "赫尔希克")一楼的桌子上（部分游戏流程中） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
+| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[亢奋](Momentum_(Condition).md "亢奋（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 由[赫尔希克](Helsik.md "赫尔希克")出售（未在所有游戏流程中验证） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
 | 变形者之帽 | 你的[荒野形态](Wild_Shape.md "荒野形态")充能增加1。此额外充能在[长休](Long_Rest.md "长休")后恢复。[自然](Nature.md "自然") +1 | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
 | 法术搜寻手套 | 当你进行[法术攻击掷骰](Spell_Attack_Roll.md "法术攻击掷骰")时，可消耗1点[术法点](Sorcery_Point.md "术法点")以获得[优势](Advantage.md "优势")。每环法术位消耗1点超魔点。[戏法](Cantrip.md "戏法")消耗1点超魔点。 | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
 | 撞击法杖 | 每回合一次，打击可能将敌人击退2米/7英尺并[震慑](Stunned_(Condition).md "震慑（状态）")他们。对龙类或超大型生物无效。 | 在地下室豪华宝箱中 | [戈尔布雷斯之家](Elerrathin's_Home.md "戈尔布雷斯之家") X: -1572 Y: 976 |
@@ -291,7 +291,7 @@ X: 636 Y: -964
 | 多余的杰作鳞甲 | 将你的敏捷[属性调整值](Ability_Modifier.md "属性调整值")全额加入[护甲等级](Armour_Class.md "护甲等级")。此外，此护甲不会对潜行[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。对⁠[火焰](Fire.md "火焰")伤害具有[抗性](Resistance.md "抗性") | 由[戴摩](Dammon.md "戴摩")出售 | [九层锻炉](Forge_of_the_Nine.md "九层锻炉") X: 392 Y: 766 |
 | 多余的杰作铁手套 | [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 [攻击掷骰](Attacks#Attack_rolls.md#Attack_rolls "攻击") +1 | 在地下室镀金宝箱中 | [九层锻炉](Forge_of_the_Nine.md "九层锻炉") X: 393 Y: 763 |
 | 多余的杰作护胫 | [运动](Athletics.md "运动") +1 | 在地下室镀金宝箱中 | [九层锻炉](Forge_of_the_Nine.md "九层锻炉") X: 393 Y: 763 |
-| 埃布德的可靠盾牌 | [盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。[防箭术](Protection_from_Missiles.md "防箭术") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 由[加尔布雷斯](Golbraith_Stredivas.md "加尔布雷斯·斯特雷迪瓦斯")在其家一楼给予 | [加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖") X: -148 Y: -60 |
+| 埃布德的可靠盾牌 | [盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒伏](Prone_(Condition).md "倒伏（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。[防箭术](Protection_from_Missiles.md "防箭术") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 由[加尔布雷斯](Golbraith_Stredivas.md "加尔布雷斯·斯特雷迪瓦斯")在其家一楼给予 | [加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖") X: -148 Y: -60 |
 | 武士刀 |  | 放在[加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖")地下室的桌子上 | [加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖") X: -2343 Y: 811 |
 | 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在石棺中 | [胡内陵墓](Hhune_Mausoleum.md "胡内陵墓") |
 | 投掷鞋 | 投掷后返回所有者。命中时造成额外2d4⁠⁠[心灵](Psychic.md "心灵")伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1 | 由[塔拉](Tara.md "塔拉")在屋顶出售 | [海伯瑞之家](Highberry's_Home.md "海伯瑞之家") X: -1 Y: -39 |
@@ -310,23 +310,23 @@ X: 636 Y: -964
 | 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[费金](Incontinentia_Figgin.md "费金")旁边的地上，其躺在地下室后的洞穴中 | [拉韦尔尼卡之家](Lavernica's_Home.md "拉韦尔尼卡之家") X: 794 Y: 979 |
 | 决斗者的特权 | 当副手空置时，你掷出19时即造成[重击](Critical_Hit.md "重击")。此外，你每回合获得一次额外[反应](Actions#Reactions.md#Reactions "动作")。近战武器命中时，使用[反应](Actions#Reactions.md#Reactions "动作")造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外⁠[黯蚀](Necrotic.md "黯蚀")伤害。[决斗挑战](Challenge_to_Duel.md "决斗挑战") 挑战敌人只攻击你，使目标承受[流血](Bleeding_(Condition).md "流血（状态）")。[决斗者的热枕](Dueller's_Enthusiasm.md "决斗者的热枕") 当你未双持且副手空置时，可用决斗者进行一次额外近战攻击。（充能：每回合。） | 完成[解救万娜](Save_Vanra.md "解救万娜")任务后由[萝拉·贝尔高兹](Lora_Bergauz.md "萝拉·贝尔高兹")奖励 | [罗拉之家](Lora's_House.md "罗拉之家") X: -65 Y: -89 |
 | 驭风护符 | [攀云步](Ride_the_Winds.md "攀云步") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） [造风术](Gust_of_Wind.md "造风术") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 完成任务[解救万娜](Save_Vanra.md "解救万娜")期间拯救其女儿后由[萝拉·贝尔高兹](Lora_Bergauz.md "萝拉·贝尔高兹")奖励 | [罗拉之家](Lora's_House.md "罗拉之家") X: -65 Y: -89 |
-| 奥术强化之靴 | 每当[疾走](Dash.md "疾走")时，穿戴者获得持续2回合的[奥术充能](Arcane_Charge_(Condition).md "奥术充能（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
+| 奥术强化之靴 | 每当[疾走](Dash.md "疾走")时，穿戴者获得持续2回合的[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 狩猎饰环 | 对被[猎人印记](Hunter's_Mark_Quarry_(Condition).md "猎人印记猎物（状态）")、[真实打击](True_Strike_(Condition).md "真实打击（状态）")、[妖火](Faerie_Fire_(Condition).md "妖火（状态）")或[引导箭](Guiding_Bolt_(Condition).md "引导箭（状态）")标记的生物，你的[攻击掷骰](Attack_roll.md "攻击掷骰")获得+1d4加成。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在[第二章](Act_Two.md "第二章")从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 雷暴之子之帽 | 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[法术灵光](Arcane_Acuity_(Condition).md "法术灵光（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 自由动作戒指 | 你忽略[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")效果，且不会被[麻痹](Paralysed_(Condition).md "麻痹（状态）")或[束缚](Restrained_(Condition).md "束缚（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 风险之戒 | 你的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在[第二章](Act_Two.md "第二章")从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
-| 精准专注长袍 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
+| 精准专注长袍 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 雷束披风 | 当拥有[回响](Reverberation_(Condition).md "回响（状态）")的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免](Saving_throw.md "豁免")，否则将[晕眩](Dazed_(Condition).md "晕眩（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在[第二章](Act_Two.md "第二章")从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 妖精外观护符 | 你的[智力](Intelligence.md "智力")、[感知](Wisdom.md "感知")和[魅力](Charisma.md "魅力")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 完成[为鬼婆幸存者复仇](Avenge_the_Hag_Survivors.md "为鬼婆幸存者复仇")任务后由[梅丽娜](Mayrina.md "梅丽娜")奖励 | [老加洛之家](Old_Garlow's_Place.md "老加洛之家") X: -55 Y: -147 |
 | 死灵珍爱法杖 | 生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。当使用者用法术杀死敌对生物时，其贪婪地吸收能量并获得[生命精华](Life_Essence_(Condition).md "生命精华（状态）")，直至下一次长休。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")携带 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
 | 驱散火炬 |  | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")作为任务[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")的潜在奖励给予，或在其身后上锁宝箱中 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
-| 孢子守护者护甲 | 穿戴者[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1，且造成⁠[黯蚀](Necrotic.md "黯蚀")伤害时，额外造成1⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。当灌注[共生实体](Symbiotic_Entity_(Condition).md "共生实体（状态）")时，你可传播[噼啪砰孢子](Bibberbang_Spores.md "噼啪砰孢子")、[恐魔孢子](Timmask_Spores_(class_action).md "恐魔孢子（职业动作）")和[加速孢子](Haste_Spores.md "加速孢子")。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
+| 孢子守护者护甲 | 穿戴者[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1，且造成⁠[黯蚀](Necrotic.md "黯蚀")伤害时，额外造成1⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。当灌注[共生实体](Symbiotic_Entity_(Condition).md "共生实体（状态）")时，你可传播[噼啪砰孢子](Bibberbang_Spores.md "噼啪砰孢子")、[恐魔孢子](Timmask_Spores_(class_action).md "恐魔孢子（职业动作）")和[加速孢子](Haste_Spores.md "加速孢子")。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
 | 地穴领主之戒 | [唤起死灵](Create_Undead.md "唤起死灵") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 完成任务[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")后奖励（若[斯郎博](Thrumbo.md "斯郎博")存活） | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
-| 魔网兜帽 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+2。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
+| 魔网兜帽 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+2。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
 | 清晨面纱 | [不死生物](Undead.md "不死生物")对抗你的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")，且你对抗其动作和法术的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[驱散不死生物](Turn_Undead.md "驱散不死生物") 祈祷**驱逐**所有你能看到的亡灵。（充能：[长休](Long_Rest.md "长休")。） | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
 | 冷霜之帽 | 每回合一次，对目标施加的任何状态，同时附加2回合的[冷冻](Encrusted_with_Frost_(Condition).md "冷冻（状态）")。_\[[见：错误](Coldbrim_Chill.md#Bugs "冷霜寒意")\]_ | 在[岩浆元素](Lava_Elemental.md "岩浆元素")旁边的桌子上 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") |
 | 竖琴手长棍 | [灵体武器](Spiritual_Weapon.md "灵体武器") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
-| 山崩护甲 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1。当你在[植物生长](Plant_Growth_(Condition).md "植物生长（状态）")或[藤蔓](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓（状态）")上开始回合时，恢复1d4⁠⁠[治疗](Healing.md "治疗")。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[植物滋长](Plant_Growth.md "植物滋长") 施放为3环法术（充能：[短休](Short_rest.md "短休")。） | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
+| 山崩护甲 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1。当你在[植物生长](Plant_Growth_(Condition).md "植物生长（状态）")或[藤蔓](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓（状态）")上开始回合时，恢复1d4⁠⁠[治疗](Healing.md "治疗")。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[植物滋长](Plant_Growth.md "植物滋长") 施放为3环法术（充能：[短休](Short_rest.md "短休")。） | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
 | 天命之冠 | [魅力](Charisma.md "魅力") +2（最高至22） | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
 | 快速施法手套 | 消耗[动作](Actions.md#Resources "动作")的[戏法](Cantrip.md "戏法")改为消耗[附赠动作](Actions.md#Resources "动作")。此效果每[短休](Short_rest.md "短休")可用一次。 | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
 | 黄金雏龙法杖 | [火焰箭](Fire_Bolt.md "火焰箭") 可随意施放为戏法。 | 在一楼熔岩和水元素后方彩绘玻璃窗下的基座上 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -2 Y: -66 |
@@ -345,8 +345,8 @@ X: 636 Y: -964
 | 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[海姆](Helm_(God).md "海姆（神）")祭坛上 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 117 Y: -20 |
 | 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[海姆](Helm_(God).md "海姆（神）")祭坛上 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 117 Y: -20 |
 | 正义之锤 | 此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外1d6⁠⁠[钝击](Bludgeoning.md "钝击")伤害。[侦测思想](Detect_Thoughts.md "侦测思想") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） | 在地下室献给提尔的箱子中 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
-| 虔诚护符 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+2。你获得一次额外的[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")。使用后，在[长休](Long_Rest.md "长休")后恢复_\[[见：错误](Godswill.md#Bugs "神意")\]_。 | 在地下室主献祭箱中 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
-| 屏蔽护盾 | [盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。[护盾术](Shield_(spell).md "护盾术") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 可在地下室献给海姆的箱子中找到，通过礼拜堂角落的密门进入 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
+| 虔诚护符 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+2。你获得一次额外的[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")。使用后，在[长休](Long_Rest.md "长休")后恢复_\[[见：错误](Godswill.md#Bugs "神意")\]_。 | 在地下室主献祭箱中 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
+| 屏蔽护盾 | [盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒伏](Prone_(Condition).md "倒伏（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。[护盾术](Shield_(spell).md "护盾术") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 可在地下室献给海姆的箱子中找到，通过礼拜堂角落的密门进入 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
 | 海浪之母的镰刀 | 此武器对[潮湿](Wet_(Condition).md "潮湿（状态）")生物具有[优势](Advantage.md "优势")。 | 由[阿兰德拉·格雷](Allandra_Grey.md "阿兰德拉·格雷")携带 | [水女王之家](Water_Queen's_House.md "水女王之家") X: -229 Y: -261 |
 | 海浪之母的披风 | 战斗期间，每回合一次，斗篷使穿戴者获得[水层防护](Water_Layer_Protection_(Condition).md "水层防护（状态）")_\[[见：错误](Damp_Aegis.md#Bugs "潮湿护盾")\]_，直至穿戴者受到伤害。 | 在[阿兰德拉·格雷](Allandra_Grey.md "阿兰德拉·格雷")楼上桌子后的豪华宝箱中 | [水女王之家](Water_Queen's_House.md "水女王之家") X: -248 Y: -249 |
 
@@ -363,11 +363,11 @@ X: 636 Y: -964
 | 敏锐施法者之帽 | 当你的[法术攻击](Spell_Attack.md "法术攻击")伤害骰掷出1或2时，该骰重掷一次。 | 由[塔拉](Tara.md "塔拉")在[魔鬼的小费](Devil's_Fee.md "魔鬼的小费")屋顶出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -29 Y: 6 |
 | 识魂面具 | [攻击掷骰](Attack_roll.md "攻击掷骰")、[先攻](Initiative.md "先攻")掷骰和[察觉技能](Perception.md "察觉技能")检定+2。[侦测思想](Detect_Thoughts.md "侦测思想") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 在[赫尔希克](Helsik.md "赫尔希克")房间楼上的上锁[镀金箱子](Gilded_Chest.md "镀金箱子")中（DC 20[巧手](Sleight_of_Hand.md "巧手")[属性检定](Ability_Check.md "属性检定")） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -33 Y: 20 |
 | 地狱髯须长戟 |  | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
-| 凯蒂夫法杖 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。[凯蒂夫的修复术](Caitiff's_Restoration.md "凯蒂夫的修复术") 补充1个已消耗的邪术师[法术位](Spell_Slot.md "法术位")。（充能：[长休](Long_Rest.md "长休")。） | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
-| 魔网斗篷 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。[吸收元素](Absorb_Elements.md "吸收元素") 每[短休](Short_rest.md "短休")一次吸收元素伤害。下次针对你的元素攻击承受一半伤害，且下次攻击造成额外1d6该元素类型伤害。（充能：[短休](Short_rest.md "短休")。） | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
+| 凯蒂夫法杖 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。[凯蒂夫的修复术](Caitiff's_Restoration.md "凯蒂夫的修复术") 补充1个已消耗的邪术师[法术位](Spell_Slot.md "法术位")。（充能：[长休](Long_Rest.md "长休")。） | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
+| 魔网斗篷 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。[吸收元素](Absorb_Elements.md "吸收元素") 每[短休](Short_rest.md "短休")一次吸收元素伤害。下次针对你的元素攻击承受一半伤害，且下次攻击造成额外1d6该元素类型伤害。（充能：[短休](Short_rest.md "短休")。） | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
 | 双子手套 | 针对敌人和盟友的[戏法](Cantrip.md "戏法")可额外瞄准一个生物。可选择同一目标两次。每短休可用一次。 | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
-| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[动量](Momentum_(Condition).md "动量（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 在[赫尔希克](Helsik.md "赫尔希克")一楼的桌子上（部分游戏流程中） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
-| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[动量](Momentum_(Condition).md "动量（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 由[赫尔希克](Helsik.md "赫尔希克")出售（未在所有游戏流程中验证） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
+| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[亢奋](Momentum_(Condition).md "亢奋（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 在[赫尔希克](Helsik.md "赫尔希克")一楼的桌子上（部分游戏流程中） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
+| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[亢奋](Momentum_(Condition).md "亢奋（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 由[赫尔希克](Helsik.md "赫尔希克")出售（未在所有游戏流程中验证） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
 | 变形者之帽 | 你的[荒野形态](Wild_Shape.md "荒野形态")充能增加1。此额外充能在[长休](Long_Rest.md "长休")后恢复。[自然](Nature.md "自然") +1 | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
 | 法术搜寻手套 | 当你进行[法术攻击掷骰](Spell_Attack_Roll.md "法术攻击掷骰")时，可消耗1点[术法点](Sorcery_Point.md "术法点")以获得[优势](Advantage.md "优势")。每环法术位消耗1点超魔点。[戏法](Cantrip.md "戏法")消耗1点超魔点。 | 由[赫尔希克](Helsik.md "赫尔希克")在其特殊库存解锁后出售 | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") X: -38 Y: 17 |
 | 撞击法杖 | 每回合一次，打击可能将敌人击退2米/7英尺并[震慑](Stunned_(Condition).md "震慑（状态）")他们。对龙类或超大型生物无效。 | 在地下室豪华宝箱中 | [戈尔布雷斯之家](Elerrathin's_Home.md "戈尔布雷斯之家") X: -1572 Y: 976 |
@@ -383,7 +383,7 @@ X: 636 Y: -964
 | 多余的杰作鳞甲 | 将你的敏捷[属性调整值](Ability_Modifier.md "属性调整值")全额加入[护甲等级](Armour_Class.md "护甲等级")。此外，此护甲不会对潜行[属性检定](Ability_Check.md "属性检定")施加[劣势](Disadvantage.md "劣势")。对⁠[火焰](Fire.md "火焰")伤害具有[抗性](Resistance.md "抗性") | 由[戴摩](Dammon.md "戴摩")出售 | [九层锻炉](Forge_of_the_Nine.md "九层锻炉") X: 392 Y: 766 |
 | 多余的杰作铁手套 | [力量](Strength.md "力量")[豁免检定](Saving_throw.md "豁免检定") +1 [攻击掷骰](Attacks#Attack_rolls.md#Attack_rolls "攻击") +1 | 在地下室镀金宝箱中 | [九层锻炉](Forge_of_the_Nine.md "九层锻炉") X: 393 Y: 763 |
 | 多余的杰作护胫 | [运动](Athletics.md "运动") +1 | 在地下室镀金宝箱中 | [九层锻炉](Forge_of_the_Nine.md "九层锻炉") X: 393 Y: 763 |
-| 埃布德的可靠盾牌 | [盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。[防箭术](Protection_from_Missiles.md "防箭术") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 由[加尔布雷斯](Golbraith_Stredivas.md "加尔布雷斯·斯特雷迪瓦斯")在其家一楼给予 | [加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖") X: -148 Y: -60 |
+| 埃布德的可靠盾牌 | [盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒伏](Prone_(Condition).md "倒伏（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。[防箭术](Protection_from_Missiles.md "防箭术") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 由[加尔布雷斯](Golbraith_Stredivas.md "加尔布雷斯·斯特雷迪瓦斯")在其家一楼给予 | [加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖") X: -148 Y: -60 |
 | 武士刀 |  | 放在[加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖")地下室的桌子上 | [加尔布雷斯地窖](Golbraith's_Cellar.md "加尔布雷斯地窖") X: -2343 Y: 811 |
 | 盾牌 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在石棺中 | [胡内陵墓](Hhune_Mausoleum.md "胡内陵墓") |
 | 投掷鞋 | 投掷后返回所有者。命中时造成额外2d4⁠⁠[心灵](Psychic.md "心灵")伤害。[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定") +1 | 由[塔拉](Tara.md "塔拉")在屋顶出售 | [海伯瑞之家](Highberry's_Home.md "海伯瑞之家") X: -1 Y: -39 |
@@ -402,23 +402,23 @@ X: 636 Y: -964
 | 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[费金](Incontinentia_Figgin.md "费金")旁边的地上，其躺在地下室后的洞穴中 | [拉韦尔尼卡之家](Lavernica's_Home.md "拉韦尔尼卡之家") X: 794 Y: 979 |
 | 决斗者的特权 | 当副手空置时，你掷出19时即造成[重击](Critical_Hit.md "重击")。此外，你每回合获得一次额外[反应](Actions#Reactions.md#Reactions "动作")。近战武器命中时，使用[反应](Actions#Reactions.md#Reactions "动作")造成等于你[熟练项加值](Proficiency_Bonus.md "熟练项加值")的额外⁠[黯蚀](Necrotic.md "黯蚀")伤害。[决斗挑战](Challenge_to_Duel.md "决斗挑战") 挑战敌人只攻击你，使目标承受[流血](Bleeding_(Condition).md "流血（状态）")。[决斗者的热枕](Dueller's_Enthusiasm.md "决斗者的热枕") 当你未双持且副手空置时，可用决斗者进行一次额外近战攻击。（充能：每回合。） | 完成[解救万娜](Save_Vanra.md "解救万娜")任务后由[萝拉·贝尔高兹](Lora_Bergauz.md "萝拉·贝尔高兹")奖励 | [罗拉之家](Lora's_House.md "罗拉之家") X: -65 Y: -89 |
 | 驭风护符 | [攀云步](Ride_the_Winds.md "攀云步") 施放为3环法术（充能：[长休](Long_Rest.md "长休")。） [造风术](Gust_of_Wind.md "造风术") 施放为2环法术（充能：[短休](Short_rest.md "短休")。） | 完成任务[解救万娜](Save_Vanra.md "解救万娜")期间拯救其女儿后由[萝拉·贝尔高兹](Lora_Bergauz.md "萝拉·贝尔高兹")奖励 | [罗拉之家](Lora's_House.md "罗拉之家") X: -65 Y: -89 |
-| 奥术强化之靴 | 每当[疾走](Dash.md "疾走")时，穿戴者获得持续2回合的[奥术充能](Arcane_Charge_(Condition).md "奥术充能（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
+| 奥术强化之靴 | 每当[疾走](Dash.md "疾走")时，穿戴者获得持续2回合的[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 狩猎饰环 | 对被[猎人印记](Hunter's_Mark_Quarry_(Condition).md "猎人印记猎物（状态）")、[真实打击](True_Strike_(Condition).md "真实打击（状态）")、[妖火](Faerie_Fire_(Condition).md "妖火（状态）")或[引导箭](Guiding_Bolt_(Condition).md "引导箭（状态）")标记的生物，你的[攻击掷骰](Attack_roll.md "攻击掷骰")获得+1d4加成。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在[第二章](Act_Two.md "第二章")从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 雷暴之子之帽 | 每当穿戴者造成⁠[雷鸣](Thunder.md "雷鸣")伤害时，获得[法术灵光](Arcane_Acuity_(Condition).md "法术灵光（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 自由动作戒指 | 你忽略[劣势地形](Difficult_Terrain_(Condition).md "劣势地形（状态）")效果，且不会被[麻痹](Paralysed_(Condition).md "麻痹（状态）")或[束缚](Restrained_(Condition).md "束缚（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 风险之戒 | 你的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，但[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在[第二章](Act_Two.md "第二章")从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
-| 精准专注长袍 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
+| 精准专注长袍 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 雷束披风 | 当拥有[回响](Reverberation_(Condition).md "回响（状态）")的生物对穿戴者造成伤害时，该生物需通过[体质](Constitution.md "体质")[豁免](Saving_throw.md "豁免")，否则将[晕眩](Dazed_(Condition).md "晕眩（状态）")。 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在[第二章](Act_Two.md "第二章")从她处获得） | [下城区](Lower_City.md "下城区") X: -92 Y: -78 |
 | 妖精外观护符 | 你的[智力](Intelligence.md "智力")、[感知](Wisdom.md "感知")和[魅力](Charisma.md "魅力")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 完成[为鬼婆幸存者复仇](Avenge_the_Hag_Survivors.md "为鬼婆幸存者复仇")任务后由[梅丽娜](Mayrina.md "梅丽娜")奖励 | [老加洛之家](Old_Garlow's_Place.md "老加洛之家") X: -55 Y: -147 |
 | 死灵珍爱法杖 | 生物对抗你的[死灵学派](Necromancy.md "死灵学派")时，[豁免检定](Saving_throw.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。当使用者用法术杀死敌对生物时，其贪婪地吸收能量并获得[生命精华](Life_Essence_(Condition).md "生命精华（状态）")，直至下一次长休。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")携带 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
 | 驱散火炬 |  | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")作为任务[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")的潜在奖励给予，或在其身后上锁宝箱中 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
-| 孢子守护者护甲 | 穿戴者[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1，且造成⁠[黯蚀](Necrotic.md "黯蚀")伤害时，额外造成1⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。当灌注[共生实体](Symbiotic_Entity_(Condition).md "共生实体（状态）")时，你可传播[噼啪砰孢子](Bibberbang_Spores.md "噼啪砰孢子")、[恐魔孢子](Timmask_Spores_(class_action).md "恐魔孢子（职业动作）")和[加速孢子](Haste_Spores.md "加速孢子")。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
+| 孢子守护者护甲 | 穿戴者[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1，且造成⁠[黯蚀](Necrotic.md "黯蚀")伤害时，额外造成1⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。当灌注[共生实体](Symbiotic_Entity_(Condition).md "共生实体（状态）")时，你可传播[噼啪砰孢子](Bibberbang_Spores.md "噼啪砰孢子")、[恐魔孢子](Timmask_Spores_(class_action).md "恐魔孢子（职业动作）")和[加速孢子](Haste_Spores.md "加速孢子")。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
 | 地穴领主之戒 | [唤起死灵](Create_Undead.md "唤起死灵") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 完成任务[找到秘术师卡里翁的仆人](Find_Mystic_Carrion's_Servant.md "找到秘术师卡里翁的仆人")后奖励（若[斯郎博](Thrumbo.md "斯郎博")存活） | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
-| 魔网兜帽 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+2。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
+| 魔网兜帽 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+2。 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
 | 清晨面纱 | [不死生物](Undead.md "不死生物")对抗你的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")，且你对抗其动作和法术的[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[驱散不死生物](Turn_Undead.md "驱散不死生物") 祈祷**驱逐**所有你能看到的亡灵。（充能：[长休](Long_Rest.md "长休")。） | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") X: 14 Y: -160 |
 | 冷霜之帽 | 每回合一次，对目标施加的任何状态，同时附加2回合的[冷冻](Encrusted_with_Frost_(Condition).md "冷冻（状态）")。_\[[见：错误](Coldbrim_Chill.md#Bugs "冷霜寒意")\]_ | 在[岩浆元素](Lava_Elemental.md "岩浆元素")旁边的桌子上 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") |
 | 竖琴手长棍 | [灵体武器](Spiritual_Weapon.md "灵体武器") 施放为6环法术（充能：[长休](Long_Rest.md "长休")。） | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
-| 山崩护甲 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1。当你在[植物生长](Plant_Growth_(Condition).md "植物生长（状态）")或[藤蔓](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓（状态）")上开始回合时，恢复1d4⁠⁠[治疗](Healing.md "治疗")。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[植物滋长](Plant_Growth.md "植物滋长") 施放为3环法术（充能：[短休](Short_rest.md "短休")。） | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
+| 山崩护甲 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1。当你在[植物生长](Plant_Growth_(Condition).md "植物生长（状态）")或[藤蔓](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓（状态）")上开始回合时，恢复1d4⁠⁠[治疗](Healing.md "治疗")。[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。[植物滋长](Plant_Growth.md "植物滋长") 施放为3环法术（充能：[短休](Short_rest.md "短休")。） | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
 | 天命之冠 | [魅力](Charisma.md "魅力") +2（最高至22） | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
 | 快速施法手套 | 消耗[动作](Actions.md#Resources "动作")的[戏法](Cantrip.md "戏法")改为消耗[附赠动作](Actions.md#Resources "动作")。此效果每[短休](Short_rest.md "短休")可用一次。 | 由[洛若坎的投影](Lorroakan's_Projection.md "洛若坎的投影")或[罗兰](Rolan.md "罗兰")在一楼出售 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -14 Y: -72 |
 | 黄金雏龙法杖 | [火焰箭](Fire_Bolt.md "火焰箭") 可随意施放为戏法。 | 在一楼熔岩和水元素后方彩绘玻璃窗下的基座上 | [巫术杂物店](Sorcerous_Sundries.md "巫术杂物店") X: -2 Y: -66 |
@@ -437,8 +437,8 @@ X: 636 Y: -964
 | 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[海姆](Helm_(God).md "海姆（神）")祭坛上 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 117 Y: -20 |
 | 铁条盾 +1 | 除[护甲等级](Armour_Class.md "护甲等级")附魔外无特殊属性。 | 在[海姆](Helm_(God).md "海姆（神）")祭坛上 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 117 Y: -20 |
 | 正义之锤 | 此武器对[邪魔](Fiend.md "邪魔")和[不死生物](Undead.md "不死生物")造成额外1d6⁠⁠[钝击](Bludgeoning.md "钝击")伤害。[侦测思想](Detect_Thoughts.md "侦测思想") 施放为2环法术（充能：[长休](Long_Rest.md "长休")。） | 在地下室献给提尔的箱子中 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
-| 虔诚护符 | 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+2。你获得一次额外的[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")。使用后，在[长休](Long_Rest.md "长休")后恢复_\[[见：错误](Godswill.md#Bugs "神意")\]_。 | 在地下室主献祭箱中 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
-| 屏蔽护盾 | [盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。[护盾术](Shield_(spell).md "护盾术") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 可在地下室献给海姆的箱子中找到，通过礼拜堂角落的密门进入 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
+| 虔诚护符 | 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+2。你获得一次额外的[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")。使用后，在[长休](Long_Rest.md "长休")后恢复_\[[见：错误](Godswill.md#Bugs "神意")\]_。 | 在地下室主献祭箱中 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
+| 屏蔽护盾 | [盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒伏](Prone_(Condition).md "倒伏（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。[护盾术](Shield_(spell).md "护盾术") 施放为1环法术（充能：[长休](Long_Rest.md "长休")。） | 可在地下室献给海姆的箱子中找到，通过礼拜堂角落的密门进入 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") X: 796 Y: 1159 |
 | 海浪之母的镰刀 | 此武器对[潮湿](Wet_(Condition).md "潮湿（状态）")生物具有[优势](Advantage.md "优势")。 | 由[阿兰德拉·格雷](Allandra_Grey.md "阿兰德拉·格雷")携带 | [水女王之家](Water_Queen's_House.md "水女王之家") X: -229 Y: -261 |
 | 海浪之母的披风 | 战斗期间，每回合一次，斗篷使穿戴者获得[水层防护](Water_Layer_Protection_(Condition).md "水层防护（状态）")_\[[见：错误](Damp_Aegis.md#Bugs "潮湿护盾")\]_，直至穿戴者受到伤害。 | 在[阿兰德拉·格雷](Allandra_Grey.md "阿兰德拉·格雷")楼上桌子后的豪华宝箱中 | [水女王之家](Water_Queen's_House.md "水女王之家") X: -248 Y: -249 |
 
@@ -470,7 +470,7 @@ X: -38 Y: 17
 [卑鄙法杖](Caitiff_Staff.md "卑鄙法杖")
 |
 
-- 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。
+- 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。
 
 [凯蒂夫的修复术](Caitiff's_Restoration.md "凯蒂夫的修复术")
 补充1个已消耗的邪术师[法术位](Spell_Slot.md "法术位")。（充能：[长休](Long_Rest.md "长休")。）
@@ -479,7 +479,7 @@ X: -38 Y: 17
 [魔网斗篷](Cloak_of_the_Weave.md "魔网斗篷")
 |
 
-- 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。
+- 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+1。
 
 [吸收元素](Absorb_Elements.md "吸收元素")
 每[短休](Short_rest.md "短休")一次吸收元素伤害。下次针对你的元素攻击承受一半伤害，且下次攻击造成额外1d6该元素类型伤害。（充能：[短休](Short_rest.md "短休")。）
@@ -495,7 +495,7 @@ X: -38 Y: 17
 [侍奉者之礼帽](Gibus_of_the_Worshipful_Servant.md "侍奉者之礼帽")
 |
 
-- 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[动量](Momentum_(Condition).md "动量（状态）")。
+- 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[亢奋](Momentum_(Condition).md "亢奋（状态）")。
 - 你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 | 在[赫尔希克](Helsik.md "赫尔希克")一楼的桌子上（部分游戏流程中） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") |
@@ -503,7 +503,7 @@ X: -38 Y: 17
 [侍奉者之礼帽](Gibus_of_the_Worshipful_Servant.md "侍奉者之礼帽")
 |
 
-- 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[动量](Momentum_(Condition).md "动量（状态）")。
+- 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[亢奋](Momentum_(Condition).md "亢奋（状态）")。
 - 你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。
 
 | 由[赫尔希克](Helsik.md "赫尔希克")出售（未在所有游戏流程中验证） | [魔鬼的小费](Devil's_Fee.md "魔鬼的小费") |
@@ -640,7 +640,7 @@ X: 393 Y: 763
 |
 
 [盾牌猛击](Shield_Blow.md "盾牌猛击")
-当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。
+当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒伏](Prone_(Condition).md "倒伏（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。
 
 [防箭术](Protection_from_Missiles.md "防箭术")
 施放为2环法术（充能：[短休](Short_rest.md "短休")。）
@@ -784,7 +784,7 @@ X: -65 Y: -89
 [奥术强化之靴](Boots_of_Arcane_Bolstering.md "奥术强化之靴")
 |
 
-- 每当[疾走](Dash.md "疾走")时，穿戴者获得持续2回合的[奥术充能](Arcane_Charge_(Condition).md "奥术充能（状态）")。
+- 每当[疾走](Dash.md "疾走")时，穿戴者获得持续2回合的[奥术蓄能](Arcane_Charge_(Condition).md "奥术蓄能（状态）")。
 
 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") |
 X: -92 Y: -78
@@ -819,7 +819,7 @@ X: -92 Y: -78
 [精准专注长袍](Robe_of_Exquisite_Focus.md "精准专注长袍")
 |
 
-- 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1。
+- 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1。
 
 | 由阿拉吉·奥布洛德拉在[腥红跳棋](Crimson_Draughts.md "腥红跳棋")出售（若未在第二章从她处获得） | [下城区](Lower_City.md "下城区") |
 X: -92 Y: -78
@@ -850,7 +850,7 @@ X: 14 Y: -160
 [孢子守护者护甲](Armour_of_the_Sporekeeper.md "孢子守护者护甲")
 |
 
-- 穿戴者[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1，且造成⁠[黯蚀](Necrotic.md "黯蚀")伤害时，额外造成1⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
+- 穿戴者[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1，且造成⁠[黯蚀](Necrotic.md "黯蚀")伤害时，额外造成1⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。
 - 当灌注[共生实体](Symbiotic_Entity_(Condition).md "共生实体（状态）")时，你可传播[噼啪砰孢子](Bibberbang_Spores.md "噼啪砰孢子")、[恐魔孢子](Timmask_Spores_(class_action).md "恐魔孢子（职业动作）")和[加速孢子](Haste_Spores.md "加速孢子")。
 
 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") |
@@ -865,7 +865,7 @@ X: 14 Y: -160
 [魔网兜帽](Hood_of_the_Weave.md "魔网兜帽")
 |
 
-- 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+2。
+- 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰+2。
 
 | 由[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")出售 | [菲尔格雷弗宅邸](Philgrave's_Mansion.md "菲尔格雷弗宅邸") |
 X: 14 Y: -160
@@ -895,7 +895,7 @@ X: -14 Y: -72
 [山崩护甲](Armour_of_Landfall.md "山崩护甲")
 |
 
-- 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+1。
+- 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+1。
 
 - 当你在[植物生长](Plant_Growth_(Condition).md "植物生长（状态）")或[藤蔓](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓（状态）")上开始回合时，恢复1d4⁠⁠[治疗](Healing.md "治疗")。
 
@@ -1066,7 +1066,7 @@ X: 796 Y: 1159
 [虔诚护符](Amulet_of_the_Devout.md "虔诚护符")
 |
 
-- 你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")+2。
+- 你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")+2。
 - 你获得一次额外的[引导神力充能](Channel_Divinity_Charge.md "引导神力充能")。使用后，在[长休](Long_Rest.md "长休")后恢复_\[[见：错误](Godswill.md#Bugs "神意")\]_。
 
 | 在地下室主献祭箱中 | [风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂") |
@@ -1075,7 +1075,7 @@ X: 796 Y: 1159
 |
 
 [盾牌猛击](Shield_Blow.md "盾牌猛击")
-当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。
+当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒伏](Prone_(Condition).md "倒伏（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。
 
 [护盾术](Shield_(spell).md "护盾术")
 施放为1环法术（充能：[长休](Long_Rest.md "长休")。）
@@ -1103,7 +1103,7 @@ X: -248 Y: -249
 | 物品名称 | 物品效果 | 获取地点 | 位置 |
 | --- | --- | --- | --- |
 | 反抗尖杖 |  | 在墓室中央的棺材上 | [古代密室](Ancient_Lair.md "古代密室") X: -1393 Y: 56 |
-| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[动量](Momentum_(Condition).md "动量（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 在[塞莱瑞塔斯·菲尔](Sceleritas_Fel.md "塞莱瑞塔斯·菲尔")身上（若邪念在击败[奥林](Orin.md "奥林")后拒绝[巴尔](Bhaal.md "巴尔")的礼物） | [巴尔神殿](Bhaal_Temple.md "巴尔神殿") X: 56 Y: 1006 |
+| 侍奉者之礼帽 | 战斗开始时，穿戴者获得等于其[魅力](Charisma.md "魅力")调整值的[亢奋](Momentum_(Condition).md "亢奋（状态）")。你的[专注](Concentration.md "专注")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 在[塞莱瑞塔斯·菲尔](Sceleritas_Fel.md "塞莱瑞塔斯·菲尔")身上（若邪念在击败[奥林](Orin.md "奥林")后拒绝[巴尔](Bhaal.md "巴尔")的礼物） | [巴尔神殿](Bhaal_Temple.md "巴尔神殿") X: 56 Y: 1006 |
 | 猩红恶作剧 | 此武器对生命值低于50%的目标造成额外1d4⁠⁠[穿刺](Piercing.md "穿刺")伤害。主手使用 当你以[优势](Advantage.md "优势")攻击时，目标承受额外7⁠⁠[穿刺](Piercing.md "穿刺")[伤害来源](Damage_rider_as_source.md "伤害来源")伤害。副手使用 当你用副手武器攻击时，可将你的[属性调整值](Ability_score_modifier.md "属性调整值")加入攻击伤害。 | 由[奥林](Orin.md "奥林")在任务[拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")期间携带 | [巴尔神殿](Bhaal_Temple.md "巴尔神殿") X: 61 Y: 1004 |
 | 嗜血 | 攻击时造成[重击](Critical_Hit.md "重击")所需的掷骰值减少1。此效果可叠加。主手使用 被此武器命中的生物承受⁠[穿刺](Piercing.md "穿刺")伤害[易伤](Vulnerability.md "易伤")。副手使用 当敌人近战攻击未命中你时，你可反击并获得[真实打击](True_Strike_(Condition).md "真实打击（状态）")。[克敌机先](True_Strike.md "克敌机先") 施放为戏法（充能：[短休](Short_rest.md "短休")。）[绑定武器](Bound_Weapon_(Condition).md "绑定武器（状态）") [护甲等级](Armour_Class.md "护甲等级") +1（仅副手使用） | 由[奥林](Orin.md "奥林")在任务[拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")期间携带 | [巴尔神殿](Bhaal_Temple.md "巴尔神殿") X: 61 Y: 1004 |
 | 残缺甲壳 | 变形或伪装时，攻击和伤害掷骰+1。你的[欺瞒](Deception.md "欺瞒")[属性检定](Ability_Check.md "属性检定")和[游说](Persuasion.md "游说")[属性检定](Ability_Check.md "属性检定")具有[优势](Advantage.md "优势")。[护甲等级](Armour_Class.md "护甲等级") +1 | 由[奥林](Orin.md "奥林")在任务[拿到奥林的耐色石](Get_Orin's_Netherstone.md "拿到奥林的耐色石")期间佩戴 | [巴尔神殿](Bhaal_Temple.md "巴尔神殿") X: 61 Y: 1004 |
@@ -1132,7 +1132,7 @@ X: -248 Y: -249
 | 黑暗卫士的护胫 | 你获得[行动如潮](Longstrider_(Condition).md "行动如潮（状态）")。[运动](Athletics.md "运动") +1 | 由死亡骑士[潜伏者](That_Which_Lurks.md "潜伏者")佩戴 | [谋杀裁判所](Murder_Tribunal.md "谋杀裁判所") X: -1292 Y: 505 |
 | 黑色守卫之剑 | 当你用[至圣斩](Divine_Smite.md "至圣斩")灌注命中时，目标必须通过[体质](Constitution.md "体质")[豁免](Saving_throw.md "豁免")，否则将[晕眩](Dazed_(Condition).md "晕眩（状态）")。 | 由死亡骑士[守卫者](That_Which_Guards.md "守卫者")携带 | [谋杀裁判所](Murder_Tribunal.md "谋杀裁判所") X: -1293 Y: 503 |
 | 黑暗卫士板甲 | 所有受到的伤害减少1点。[感知](Wisdom.md "Wisdom")[豁免检定](Saving_throw.md "豁免检定")具有[优势](Advantage.md "优势")。 | 由死亡骑士[守卫者](That_Which_Guards.md "守卫者")佩戴 | [谋杀裁判所](Murder_Tribunal.md "谋杀裁判所") X: -1293 Y: 503 |
-| 不诚者之盾 | 你的敌人对抗你施加[恐惧](Frightened_(Condition).md "恐惧（状态）")的法术或动作的[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。你获得1个1环法术位。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒地](Prone_(Condition).md "倒地（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。 | 由死亡骑士[守卫者](That_Which_Guards.md "守卫者")携带 | [谋杀裁判所](Murder_Tribunal.md "谋杀裁判所") X: -1293 Y: 503 |
+| 不诚者之盾 | 你的敌人对抗你施加[恐惧](Frightened_(Condition).md "恐惧（状态）")的法术或动作的[豁免检定](Saving_throws.md "豁免检定")具有[劣势](Disadvantage.md "劣势")。你获得1个1环法术位。[盾牌猛击](Shield_Blow.md "盾牌猛击") 当敌人用近战攻击命中你时，你可以使用反应将其击倒[倒伏](Prone_(Condition).md "倒伏（状态）")，除非其通过[力量](Strength.md "力量")[豁免](Saving_throw.md "豁免")。 | 由死亡骑士[守卫者](That_Which_Guards.md "守卫者")携带 | [谋杀裁判所](Murder_Tribunal.md "谋杀裁判所") X: -1293 Y: 503 |
 
 ## 高厅
 

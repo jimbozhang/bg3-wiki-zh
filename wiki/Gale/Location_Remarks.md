@@ -492,7 +492,7 @@
 - _(从板凳上起来)：_ “嗯。所以我一站起来，力量就没了。我猜这叫久坐魔法。”
 - _(摧毁板凳并拿走[腿棒](../Club_of_Hill_Giant_Strength.md "Club of Hill Giant Strength"))：_ “看啊。一把非常规武器，但可能很有效。”
 
-**收集关于[精金熔炉](../Adamantine_Forge_(location)的传说.md)：**
+**收集关于[精金熔炉](../Adamantine_Forge_(location).md)的传说：**
 
 - _(首次得知精金熔炉)：_ “这里提到了精金熔炉。这确实是罕见而珍贵的发现。”
 - _(掠夺[弗莱姆交配仪式](../Flumph_Mating_Rituals.md "Flumph Mating Rituals")，来自[夏格林](../Xargrim.md "Xargrim")，[奥术](../Arcana.md "Arcana")检定)：_

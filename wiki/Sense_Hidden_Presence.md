@@ -21,7 +21,7 @@
 持续时间：直至[长休](Long_Rest.md "长休")
 
 - 搜索3米（10英尺）范围内的[隐形](Invisible.md "隐形")生物。
-- 生物必须进行[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则将变为[已揭示](Revealed_(Condition).md "已揭示（状态）")。使用受影响实体的[法术豁免DC](Spell_save_DC.md "法术豁免DC")。
+- 生物必须进行[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，否则将变为[已揭示](Revealed_(Condition).md "已揭示（状态）")。使用受影响实体的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")。
 
 ## 如何学习
 

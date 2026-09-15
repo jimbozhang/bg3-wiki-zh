@@ -143,7 +143,7 @@
 ## 另见
 
 - [装备套装列表](List_of_equipment_sets.md "装备套装列表")
-- [影响法术豁免DC的来源列表](List_of_sources_that_affect_Spell_Save_DC.md "影响法术豁免DC的来源列表")
+- [影响法术豁免难度等级的来源列表](List_of_sources_that_affect_Spell_Save_DC.md "影响法术豁免难度等级的来源列表")
 
 ---
 *Source: [Equipment](https://bg3.wiki/wiki/Equipment)*

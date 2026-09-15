@@ -116,7 +116,7 @@
 | [赏金猎人](Bounty_Hunter.md "赏金猎人") | 获得[调查](Investigation.md "调查")的[熟练项](Proficiency.md "熟练项")。你用[诱捕打击](Ensnaring_Strike.md "诱捕打击")（远程或近战）击中的生物在[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。 | [调查](Investigation.md "调查")熟练项 |
 | [面纱守护者](Keeper_of_the_Veil.md "面纱守护者") | 你专精于狩猎来自其他位面的生物。你获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")，并可以为对抗异怪、天界生物、元素生物、精类、邪魔和不死生物提供防护。 | [奥秘](Arcana.md "奥秘")熟练项 获得一个免费法术（充能：[长休](Long_Rest.md "长休")）：[防护善恶](Protection_from_Evil_and_Good.md "防护善恶") |
 | [法师破坏者](Mage_Breaker.md "法师破坏者") | 你有与施法者战斗的历史。获得[奥秘](Arcana.md "奥秘")的[熟练项](Proficiency.md "熟练项")和[克敌机先](True_Strike.md "克敌机先")，这使你在对生物的[攻击掷骰](Attack_rolls.md "攻击掷骰")上具有[优势](Advantage.md "优势")。[感知](Wisdom.md "感知")是你施放此法术的施法关键属性。 | [奥秘](Arcana.md "奥秘")熟练项 获得一个免费戏法：[克敌机先](True_Strike.md "克敌机先") |
-| [游侠骑士](Ranger_Knight.md "游侠骑士") | 你宣誓效忠某个王冠或国家，并寻求将其敌人彻底摧毁。获得[历史的](History.md "历史的")的[熟练项](Proficiency.md "熟练项")和[重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲")的[熟练项](Proficiency.md "熟练项")。 | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲")熟练项 [历史的](History.md "历史的")熟练项 |
+| [游侠骑士](Ranger_Knight.md "游侠骑士") | 你宣誓效忠某个王冠或国家，并寻求将其敌人彻底摧毁。获得[历史](History.md "历史")的[熟练项](Proficiency.md "熟练项")和[重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲")的[熟练项](Proficiency.md "熟练项")。 | [重甲](Armour#List_of_heavy_armour.md#List_of_heavy_armour "护甲")熟练项 [历史](History.md "历史")熟练项 |
 | [崇圣潜行者](Sanctified_Stalker.md "崇圣潜行者") | 你宣誓追猎神圣或德鲁伊教团的敌人。获得[宗教](Religion.md "宗教")的[熟练项](Proficiency.md "熟练项")和[圣火术](Sacred_Flame.md "圣火术")[戏法](Spells#Cantrips.md#Cantrips "法术")，该戏法造成 1d8⁠⁠[光耀](Radiant.md "光耀")伤害。[感知](Wisdom.md "感知")是你施放此戏法的施法关键属性。 | [宗教](Religion.md "宗教")熟练项 获得一个免费戏法：[圣火术](Sacred_Flame.md "圣火术") |
 
 | 原型 | 描述 | 获得 |
@@ -235,7 +235,7 @@
 可用的新 2 级法术
 
 - [树肤术](Barkskin.md "树肤术") * [黑暗视觉](Darkvision_(spell).md "黑暗视觉 (法术)")
-- [恢复](Lesser_Restoration.md "恢复")
+- [次级复原术](Lesser_Restoration.md "恢复")
 - [行动无踪](Pass_Without_Trace.md "行动无踪") * [防护毒素](Protection_from_Poison.md "防护毒素")
 - [沉默术](Silence.md "沉默术") * [荆棘丛生](Spike_Growth.md "荆棘丛生") #### 副职特性
 

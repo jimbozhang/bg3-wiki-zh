@@ -124,7 +124,7 @@
 - ⁠[猫把你的舌头藏起来了？](Outlander.md#Cat's_Got_Your_Tongue? "化外之民")（[化外之民](Outlander.md "化外之民")背景）
 - ⁠[通讯中断](Noble.md#Interrupted_Communications "贵族")（[贵族](Noble.md "贵族")背景）
 
-如果检定失败，她会变得激怒，并向小队喷出一个火球术术，摧毁信件。
+如果检定失败，她会变得激怒，并向小队喷出一个火球术，摧毁信件。
 
 ### 阅读信件
 

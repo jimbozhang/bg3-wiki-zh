@@ -2,7 +2,7 @@
 
 莱埃泽尔根据一块[吉斯洋基雕刻圆盘](Orpheus,_Prince_of_the_Comet,_Part_One_colon__Betrayal.md "Orpheus, Prince of the Comet, Part One: Betrayal")讲述了彗星王子的历史。
 
-**发现俄耳甫斯王子的历史**是[博德之门3](Baldur's Gate_3.md "Baldur's Gate 3")中[第一幕](Act_One.md "Act One")的一个[任务](Quest.md "Quest")，每当检查相关故事道具时就会添加。
+**发现俄耳甫斯王子的历史**是[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")中[第一幕](Act_One.md "Act One")的一个[任务](Quest.md "Quest")，每当检查相关故事道具时就会添加。
 
 ## 目录
 
@@ -62,7 +62,7 @@ _目标和日志条目可能因故事决策和结果而有所不同。_
 - _命令圆盘揭示其秘密。_
 - _将此圆盘与养育间的圆盘进行比较。_ _（如果已获得第二块圆盘）_
 - [调查] _在文字中寻找规律。_（DC 20）
-- [吉斯洋基人] [历史的] _回忆你的语言课程，尝试将符号排列成连贯的顺序。_（DC 12）
+- [吉斯洋基人] [历史] _回忆你的语言课程，尝试将符号排列成连贯的顺序。_（DC 12）
 
 如果通过调查或历史检定，队伍会翻译圆盘。如果[莱埃泽尔](Lae'zel.md "Lae'zel")在场，她会自行翻译圆盘而无需任何检定，并向队伍宣读。
 

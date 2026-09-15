@@ -21,7 +21,7 @@
 
 持续时间：2回合
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子检定"))
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子检定"))
 
 - [移动速度](Movement_speed.md "移动速度")减半
 - [护甲等级](Armour_Class.md "护甲等级")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")降低2点
@@ -56,7 +56,7 @@
 
 ## 备注
 
-- 野猪伙伴的[法术豁免DC](Spell_save_DC.md "法术豁免DC")基于[力量](Strength.md "力量")，因此默认DC为14。可以通过喂食[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")或[战斗法师之力灵药](Elixir_of_Battlemage's_Power.md "战斗法师之力灵药")来提高DC。
+- 野猪伙伴的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")基于[力量](Strength.md "力量")，因此默认DC为14。可以通过喂食[山丘巨人力量灵药](Elixir_of_Hill_Giant_Strength.md "山丘巨人力量灵药")或[战斗法师之力灵药](Elixir_of_Battlemage's_Power.md "战斗法师之力灵药")来提高DC。
 
 ## 错误
 

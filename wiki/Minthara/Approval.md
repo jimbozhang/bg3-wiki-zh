@@ -45,7 +45,7 @@ _在[医务室](../Crèche_Y'llek.md#Infirmary_and_Dormitory "伊雷珂养育间
 
 - 如果莱埃泽尔正在使用_[扎伊什克](../Zaith'isk.md "扎伊什克")_，在第一阶段说服她该设备会杀死而非治愈她 (+1)\_\_
 
-_**注释：** 为此，需成功通过被动DC 14 [察觉](../Perception.md "察觉") [检定](../Ability_Check.md "属性检定")，然后成功通过DC 30 [智慧](../Wisdom.md "智慧") [检定](../Ability_Check.md "属性检定")、DC 30 [说服](../Persuasion.md "说服") [检定](../Ability_Check.md "属性检定")或DC 30 [历史](../History.md "历史") [检定](../Ability_Check.md "属性检定")（后者仅限[吉斯洋基人](../Githyanki.md "吉斯洋基人")）_
+_**注释：** 为此，需成功通过被动DC 14 [察觉](../Perception.md "察觉") [检定](../Ability_Check.md "属性检定")，然后成功通过DC 30 [感知](../Wisdom.md "感知") [检定](../Ability_Check.md "属性检定")、DC 30 [说服](../Persuasion.md "说服") [检定](../Ability_Check.md "属性检定")或DC 30 [历史](../History.md "历史") [检定](../Ability_Check.md "属性检定")（后者仅限[吉斯洋基人](../Githyanki.md "吉斯洋基人")）_
 
 _在[教室](../Crèche_Y'llek.md#Classroom "伊雷珂养育间")：_
 
@@ -252,7 +252,7 @@ _在[月出之塔监狱](../Moonrise_Towers_Prison.md "月出之塔监狱")：_
 _月出之塔内的其他地方：_
 
   - 切断或加强[林塞拉](../Linsella.md "林塞拉")和[巴纳巴斯](../Barnabus.md "巴纳巴斯")之间的联系 (+1) _（任选其一）_
-- 在月出之塔码头，对[侍僧马尔斯](../Marls.md "侍僧马尔斯")使用夺心魔[智慧](../Wisdom.md "智慧")检定，然后告诉他把虫子洗掉 (+1)
+- 在月出之塔码头，对[侍僧马尔斯](../Marls.md "侍僧马尔斯")使用夺心魔[感知](../Wisdom.md "感知")检定，然后告诉他把虫子洗掉 (+1)
 
 _月出之塔的最终战斗：_
 

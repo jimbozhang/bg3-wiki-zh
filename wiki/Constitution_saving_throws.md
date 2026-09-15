@@ -33,7 +33,7 @@
 | [荒野形态：枭熊](Wild_Shape_colon__Owlbear.md "荒野形态：枭熊") [激怒](Enrage.md "激怒") | 6 | 17 | 你周围 18 m (60 ft) 内的受影响实体变为 [恐惧](Fearful_(Condition).md "恐惧 (状态)")。 |  |  |
 | [荒野形态：双脊龙](Wild_Shape_colon__Dilophosaurus.md "荒野形态：双脊龙") [腐蚀唾液](Corrosive_Spit.md "腐蚀唾液") | 10 | 法术豁免 DC | 目标的 [护甲等级](Armour_Class.md "护甲等级") 每回合降低 1，最多降低 5，并且每回合受到 1d10 [强酸](Acid.md "强酸") 伤害。水会清除唾液及其效果。 |  |  |
 | [月亮结社](Circle_of_the_Moon.md "月亮结社") | [荒野形态：风元素执政官](Wild_Shape_colon__Air_Myrmidon.md "荒野形态：风元素执政官") [电气猛击](Electrified_Flail.md "电气猛击") | 10 | 13 | 受影响实体变为 [震慑](Stunned_(Condition).md "震慑 (状态)")。 |  |
-| [荒野形态：土元素执政官](Wild_Shape_colon__Earth_Myrmidon.md "荒野形态：土元素执政官") [雷地拳](Grounded_Thunder_Strike.md "雷地拳") | 10 | 13 | 受影响实体变为 [倒地](Prone_(Condition).md "倒地 (状态)")。 |  |  |
+| [荒野形态：土元素执政官](Wild_Shape_colon__Earth_Myrmidon.md "荒野形态：土元素执政官") [雷地拳](Grounded_Thunder_Strike.md "雷地拳") | 10 | 13 | 受影响实体变为 [倒伏](Prone_(Condition).md "倒伏 (状态)")。 |  |  |
 | [荒野形态：火元素执政官](Wild_Shape_colon__Fire_Myrmidon.md "荒野形态：火元素执政官") [炽热打击](Scorching_Strike.md "炽热打击") | 10 | 13 | 受影响实体开始 [燃烧](Burning_(Condition).md "燃烧 (状态)")。 |  |  |
 | [荒野形态：水元素执政官](Wild_Shape_colon__Water_Myrmidon.md "荒野形态：水元素执政官") [寒冬打击](Hiemal_Strike.md "寒冬打击") | 10 | 13 | 受影响实体变为 [冻伤](Chilled_(Condition).md "冻伤 (状态)")。 |  |  |
 | [孢子结社](Circle_of_the_Spores.md "孢子结社") | [环形孢子](Halo_of_Spores.md "环形孢子") | 2 | 法术豁免 DC | 受影响实体受到 1d4 [黯蚀](Necrotic.md "黯蚀") 伤害。在 6 级时增加到 1d6 [黯蚀](Necrotic.md "黯蚀")，在 10 级时增加到 1d8 [黯蚀](Necrotic.md "黯蚀")。 |  |
@@ -66,7 +66,7 @@
 | [死云术](Cloudkill.md "死云术") | [法术](Spells.md "法术") | 受影响实体受到 5d8 [毒素](Poison.md "毒素") 伤害。对抗该法术的豁免检定可使伤害减半。 |
 | [寒冰锥](Cone_of_Cold.md "寒冰锥") | [法术](Spells.md "法术") | 受影响实体受到 8d8 [寒冷](Cold.md "寒冷") 伤害。对抗该法术的豁免检定可使伤害减半。 |
 | [疫病术](Contagion.md "疫病术") | [法术](Spells.md "法术") | 如果受影响实体在法术结束前三次 [豁免检定](Saving_throw.md "豁免检定") 失败，它将感染施法者选择的 [疾病](Contagion_Poisoned_(Condition).md "疫病中毒 (状态)")。 |
-| [湮灭波](Destructive_Wave.md "湮灭波") | [法术](Spells.md "法术") | 受影响实体受到 5d6 [雷鸣](Thunder.md "雷鸣") + 5d6 [光耀](Radiant.md "光耀") / 5d6 [黯蚀](Necrotic.md "黯蚀") 伤害并变为 [倒地](Prone_(Condition).md "倒地 (状态)")。对抗该法术的豁免检定可使伤害减半并抵消 [倒地](Prone_(Condition).md "倒地 (状态)")。 |
+| [湮灭波](Destructive_Wave.md "湮灭波") | [法术](Spells.md "法术") | 受影响实体受到 5d6 [雷鸣](Thunder.md "雷鸣") + 5d6 [光耀](Radiant.md "光耀") / 5d6 [黯蚀](Necrotic.md "黯蚀") 伤害并变为 [倒伏](Prone_(Condition).md "倒伏 (状态)")。对抗该法术的豁免检定可使伤害减半并抵消 [倒伏](Prone_(Condition).md "倒伏 (状态)")。 |
 | [废黜](Dethrone.md "废黜") | [法术](Spells.md "法术") | 受影响实体受到 10d6 + 20 [黯蚀](Necrotic.md "黯蚀") 伤害。对抗该法术的豁免检定可使伤害减半。废黜的固定 [骰子掷骰](DC.md "骰子掷骰") 为 18。 |
 | [虫群瘟疫](Insect_Plague.md "虫群瘟疫") | [法术](Spells.md "法术") | 受影响实体受到 4d10 [穿刺](Piercing.md "穿刺") 伤害。对抗该法术的豁免检定可使伤害减半。 |
 | [死亡法阵](Circle_of_Death.md "死亡法阵") | [法术](Spells.md "法术") | 受影响实体受到 8d6 [黯蚀](Necrotic.md "黯蚀") 伤害。对抗该法术的豁免检定可使伤害减半。 |

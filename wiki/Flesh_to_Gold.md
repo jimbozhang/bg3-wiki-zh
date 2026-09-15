@@ -29,7 +29,7 @@
 
 持续时间：永久
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 受影响的生物化为黄金。它无法移动或执行动作、附赠动作或反应。
 

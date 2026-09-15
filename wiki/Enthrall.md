@@ -24,7 +24,7 @@
 
 持续时间：10驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 
 - 周边视野减少。将持续注视施法者。
 

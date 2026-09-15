@@ -17,7 +17,7 @@
 8d12⁠[挥砍](Slashing.md "挥砍")（每携带500金币）
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（豁免成功时：目标仍承受一半伤害。）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（豁免成功时：目标仍承受一半伤害。）
 范围：8米（27英尺）
 范围效果：4米（13英尺）半径
 充能：每驱散

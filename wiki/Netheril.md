@@ -85,7 +85,7 @@
 ### 角色
 
 - [盖尔](Gale.md "盖尔") 胸中有一个耐色瑞尔毁灭法球；他可以使用[耐色瑞尔毁灭法球爆炸](Netherese_Orb_Blast.md "耐色瑞尔毁灭法球爆炸")来提前结束游戏
-- [主脑](The_Netherbrain.md "主脑")
+- [耐色脑](The_Netherbrain.md "主脑")
 
 ## 外部链接
 

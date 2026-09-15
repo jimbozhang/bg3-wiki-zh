@@ -19,7 +19,7 @@
 
 ## 获取地点
 
-- [卡姆的服装店](Carm's_Garms.md "Carm's Garms") X: 23 Y: 131：在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")与[纳贝尔](Naaber.md "Naaber")多次对话直至所有[对话](Dialogue.md "Dialogue")选项[力竭](Exhausted.md "Exhausted")后，作为奖励获得
+- [卡姆的服装店](Carm's_Garms.md "Carm's Garms") X: 23 Y: 131：在[飞龙关](Wyrm's_Crossing.md "Wyrm's Crossing")与[纳贝尔](Naaber.md "Naaber")多次对话直至所有[对话](Dialogue.md "Dialogue")选项[力竭](Lethargic_(Condition).md "Exhausted")后，作为奖励获得
 
 ## 备注
 

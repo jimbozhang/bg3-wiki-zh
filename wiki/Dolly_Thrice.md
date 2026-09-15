@@ -13,7 +13,7 @@
 | 先攻 | 0 |
 | 移动速度 | 9 米 (30 英尺) |
 
-**多利多利多利** 或 **多利三重** 是一只被困在[月亮提灯](Moonlantern.md "Moonlantern")中的[妖精](Pixie.md "Pixie")，这盏提灯由在[幽影诅咒之地](Shadow_Cursed_Lands.md "Shadow-Cursed Lands")旅行的[卡'尼斯](Kar'niss.md "Kar'niss")——一只蛛化精灵——携带。
+**多利多利多利** 或 **多利三重** 是一只被困在[月亮提灯](Moonlantern.md "Moonlantern")中的[妖精](Pixie.md "Pixie")，这盏提灯由在[幽影诅咒之地](Shadow-Cursed_Lands.md "Shadow-Cursed Lands")旅行的[卡'尼斯](Kar'niss.md "Kar'niss")——一只蛛化精灵——携带。
 
 > “
 >
@@ -109,7 +109,7 @@
 ## 注释
 
 - 如果拾取月亮提灯后未自动检查，装备它允许队伍成员使用动作[检查月亮提灯](Inspect_Moonlantern.md "检查月亮提灯")与多利交谈。如果该动作不在快速动作栏中，可以在法术书菜单的“通用”下找到。
-- 如果队伍在幕间移动（例如从[幽影诅咒之地](Shadow_Cursed_Lands.md "幽影诅咒之地")（[第二幕](Act_Two.md "第二幕"））返回[荒野](Wilderness.md "荒野")（[第一幕](Act_One.md "第一幕"））），多利的妖精祝福会消失。因此，如果祝福在第三幕期间施加，则无法移除，因为队伍无法离开第三幕。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
+- 如果队伍在幕间移动（例如从[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")（[第二幕](Act_Two.md "第二幕"））返回[荒野](Wilderness.md "荒野")（[第一幕](Act_One.md "第一幕"））），多利的妖精祝福会消失。因此，如果祝福在第三幕期间施加，则无法移除，因为队伍无法离开第三幕。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:Verification")]
 - 多利是少数能够打破“第四面墙”并承认自己是电子游戏一部分的角色之一。使用[金银丝妖精荒野铃铛](Filigreed_Feywild_Bell.md "金银丝妖精荒野铃铛")时，说话的队伍成员可以选择告诉她“魔法咒语”是“我们生活在一个由疯子操控的魔法戏剧表演中”。多利回答说他们不应该知道这一点，并将他们变形为猪两回合作为惩罚。
 
 ---

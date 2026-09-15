@@ -25,7 +25,7 @@
 
 持续时间：10回合
 
-[体质](Constitution.md "CON") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "CON") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 受影响实体在 [攻击掷骰](Attack_roll.md "Attack Roll") 和 [属性检定](Ability_Check.md "属性检定") 上承受 [劣势](Disadvantage.md "Disadvantage")
 

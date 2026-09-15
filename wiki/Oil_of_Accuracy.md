@@ -1,6 +1,6 @@
 # 精准油
 
-精准油是一种[消耗品](Consumables.md "Consumables")（[涂层](Coatings.md "Coatings")）。它可以涂抹在武器上，使其获得特殊效果，持续十个[驱散](Turn.md "Turn")。
+精准油是一种[消耗品](Consumables.md "Consumables")（[涂层](Coatings.md "Coatings")）。它可以涂抹在武器上，使其获得特殊效果，持续十个[驱散](Turned_(Condition).md "Turn")。
 
 这种[滑溜的油](https://forgottenrealms.fandom.com/wiki/Oil_of_accuracy)能让你的武器滑过敌人防御中最微小的缝隙。
 

@@ -16,7 +16,7 @@
 
 - UID `EPI_Camp_Minthara_Drow` UUID `9c035563-05ee-47e1-a3e0-e0420a07f534` ## 获取地点
 
-- 仅在[结局](Epilogue.md "结局")中，如果玩家未与[明萨拉](Minthara.md "明萨拉")恋爱并同意夺取[博德之门](Baldur's Gate.md "博德之门")，则可供[明萨拉](Minthara.md "明萨拉")使用。
+- 仅在[结局](Epilogue.md "结局")中，如果玩家未与[明萨拉](Minthara.md "明萨拉")恋爱并同意夺取[博德之门](Baldur's_Gate.md "博德之门")，则可供[明萨拉](Minthara.md "明萨拉")使用。
 
 ## 图库
 

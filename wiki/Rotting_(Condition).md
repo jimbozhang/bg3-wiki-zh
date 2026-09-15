@@ -20,7 +20,7 @@
 
 **[肉肉腐烂](Flesh_Rot_(Condition).md "肉肉腐烂 (状态)")**
 
-持续时间：25 [驱散](Turn.md "驱散")
+持续时间：25 [驱散](Turned_(Condition).md "驱散")
 
 [体质](Constitution.md "体质") [豁免](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 
@@ -31,7 +31,7 @@
 
 ## 备注
 
-- 可通过任何治愈[患病](Diseased.md "患病")的效果提前结束，例如[次级恢复](Lesser_Restoration.md "次级恢复")、[圣疗](Lay_on_Hands.md "圣疗")或[活力药水](Potion_of_Vitality.md "活力药水")。
+- 可通过任何治愈[患病](Diseased.md "患病")的效果提前结束，例如[次级复原术](Lesser_Restoration.md "次级复原术")、[圣疗](Lay_on_Hands.md "圣疗")或[活力药水](Potion_of_Vitality.md "活力药水")。
 
 ## 腐烂的来源
 

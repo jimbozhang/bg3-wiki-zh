@@ -23,7 +23,7 @@
 
 ## 备注
 
-- 队伍必须与他多次对话，直到所有对话选项都[力竭](Exhausted.md "Exhausted")。
+- 队伍必须与他多次对话，直到所有对话选项都[力竭](Lethargic_(Condition).md "Exhausted")。
 - 该护符也可以从纳贝尔身上偷窃获得。
 - 如果首先从纳贝尔身上偷窃此护符，他会奖励队伍[微光戒指](Seemingly_Gleaming_Ring.md "Seemingly_Gleaming_Ring")。
 

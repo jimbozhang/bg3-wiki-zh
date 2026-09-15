@@ -174,7 +174,7 @@
 [解救难民](Save_the_Refugees.md "解救难民")
 **触发：** 任务开始。
 **长度：** 进入[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或幽影诅咒之地。
-- 如果队伍在未完成[调查卡哈](Investigate_Kagha.md "调查卡哈")的情况下离开，[荆棘仪式](Rite_of_Thorns_(ritual)将完成.md)，阻止所有外人进入[翠绿林地](Emerald_Grove.md "翠绿林地")。
+- 如果队伍在未完成[调查卡哈](Investigate_Kagha.md "调查卡哈")的情况下离开，[荆棘仪式](Rite_of_Thorns_(ritual).md)将完成，阻止所有外人进入[翠绿林地](Emerald_Grove.md "翠绿林地")。
 - 如果队伍在完成[调查卡哈](Investigate_Kagha.md "调查卡哈")但*未*完成[击败地精](Defeat_the_Goblins.md "击败地精")的情况下离开，林地仍可进入，但提夫林会消失。日志条目为：“我们离开时没有帮助提夫林。他们很可能死在路上。”
 - 如果队伍在完成[击败地精](Defeat_the_Goblins.md "击败地精")但未进行长休以触发当晚庆祝活动的情况下进入[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，也会产生相同效果。
 **备注：** 荆棘仪式的完成*不*与长休挂钩。

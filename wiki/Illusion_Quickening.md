@@ -10,7 +10,7 @@
 
 **[加速咒语](Quickening_Incantation_(Condition).md "加速咒语 (状态)")**
 
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
 - 你可以以附赠动作施放 [幻术学派](Illusion.md "幻术学派") 和 [惑控学派](Enchantment_(school).md) 法术。
 

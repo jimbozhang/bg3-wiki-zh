@@ -25,7 +25,7 @@
 以3环法术施放（充能：[短休](Short_rest.md "短休")。）
 
 [高阶施法](High_Spellcasting_(+1).md)
-你的[法术豁免DC](Spell_save_DC.md "法术豁免DC")获得+1加值。
+你的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")获得+1加值。
 
 [绿床再生](Green_Bed_Regeneration.md "绿床再生")
 当你的回合开始于[植物滋长](Plant_Growth_(Condition).md "植物滋长（状态）")或[藤蔓](Difficult_Terrain_colon__Vines_(Condition).md "劣势地形：藤蔓（状态）")上时，恢复1d4⁠⁠[治疗](Healing.md "治疗")[生命值](Hit_Points.md "生命值")。

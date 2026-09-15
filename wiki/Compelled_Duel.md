@@ -11,7 +11,7 @@
 消耗
 [附赠动作](Actions.md#Resources "Actions") + [一级法术位](Spells.md#Spell_slots "Spells")
 详情
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 射程：9米（30英尺）
 [专注](Concentration.md "Concentration")
 

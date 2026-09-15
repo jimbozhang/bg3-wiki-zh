@@ -4,7 +4,7 @@
 
 - 在泰拉祖的狂热影响下，你移动速度加快，但移动后会变得力竭。
 - 受影响实体获得额外的 [动作](Actions.md#Resources "动作")、9 米（30 英尺）移动速度、+2 [护甲等级](Armour_Class.md "护甲等级")，以及 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 的 [优势](Advantage.md "优势")。
-- 当状态结束时，受影响实体变为 [力竭](Lethargic_(Condition).md "力竭 (状态)") 并完全 [失能](Incapacitated.md "失能") 1 [驱散](Turn.md "驱散")。
+- 当状态结束时，受影响实体变为 [力竭](Lethargic_(Condition).md "力竭 (状态)") 并完全 [失能](Lethargic_(Condition).md "失能") 1 [驱散](Lethargic_(Condition).md "驱散")。
 
 ## 属性
 
@@ -16,7 +16,7 @@
 
 **[力竭](Lethargic_(Condition).md "力竭 (状态)")**
 
-- 在 [加速术](Haste.md "加速术") 后果中被 [力竭](Exhausted.md "力竭") 吞噬。
+- 在 [加速术](Haste.md "加速术") 后果中被 [力竭](Haste.md "力竭") 吞噬。
 - 无法 [移动](Movement_speed.md "移动速度") 或采取 [动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作") 或 [反应](Actions.md#Reactions "动作")。
 
 ## 注释
@@ -35,7 +35,7 @@ _维基数据库中未定义_
 
 - 在泰拉祖的狂热影响下，你移动速度加快，但移动后会变得力竭。
 - 受影响实体获得额外的 [动作](Actions.md#Resources "动作")、9 米（30 英尺）移动速度、+2 [护甲等级](Armour_Class.md "护甲等级")，以及 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throw.md "豁免检定") 的 [优势](Advantage.md "优势")。
-- 当状态结束时，受影响实体变为 [力竭](Lethargic_(Condition).md "力竭 (状态)") 并完全 [失能](Incapacitated.md "失能") 1 [驱散](Turn.md "驱散")。
+- 当状态结束时，受影响实体变为 [力竭](Lethargic_(Condition).md "力竭 (状态)") 并完全 [失能](Lethargic_(Condition).md "失能") 1 [驱散](Lethargic_(Condition).md "驱散")。
 
 ---
 *Source: [The Terazul Jitters (Condition)](https://bg3.wiki/wiki/The_Terazul_Jitters_(Condition)*

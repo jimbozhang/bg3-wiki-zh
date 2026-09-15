@@ -2,7 +2,7 @@
 
 **灵魂捕捉恩泽** 是由 [灵魂捕捉手套](Gloves_of_Soul_Catching.md "灵魂捕捉手套") 在徒手打击命中后授予的免费反应。它为穿戴者提供 +5 的加值，用于一次未命中的 [攻击掷骰](Attack_roll.md "攻击掷骰")，有可能将其转变为命中。
 
-此反应与 [灵魂陷阱：治疗](Soul_Snare_colon__Heal.md "灵魂陷阱：治疗") 和 [灵魂捕捉威能](Soul_Catching_Prowess.md "灵魂捕捉威能") 互斥。在单个 [驱散](Turn.md "驱散") 内，这三个 [灵魂捕捉](Soul_Catching.md "灵魂捕捉") 特性中只能使用一个。
+此反应与 [灵魂陷阱：治疗](Soul_Snare_colon__Heal.md "灵魂陷阱：治疗") 和 [灵魂捕捉威能](Soul_Catching_Prowess.md "灵魂捕捉威能") 互斥。在单个 [驱散](Turned_(Condition).md "驱散") 内，这三个 [灵魂捕捉](Soul_Catching.md "灵魂捕捉") 特性中只能使用一个。
 
 ## 描述
 

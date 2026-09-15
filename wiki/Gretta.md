@@ -79,7 +79,7 @@
 
 #### 解决绑架问题
 
-当[马库斯](Marcus_Falgor.md "马库斯·法尔戈")在[解决绑架问题](Resolve_the_Abduction.md "解决绑架问题")期间袭击旅店并试图绑架[伊索贝尔](Isobel.md "伊索贝尔")时，格蕾塔在队伍反应之前被[飞天恐魔](Winged_Horror.md "飞天恐魔")[失能](Incapacitated.md "失能")，并在战斗剩余时间内处于[刺穿](Impaled_(Condition).md "刺穿 (状态)")状态。如果伊索贝尔未被拯救，格蕾塔和终焉光芒旅店的所有人都会变成[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")，[贾希拉](Jaheira.md "贾希拉")除外。
+当[马库斯](Marcus_Falgor.md "马库斯·法尔戈")在[解决绑架问题](Resolve_the_Abduction.md "解决绑架问题")期间袭击旅店并试图绑架[伊索贝尔](Isobel.md "伊索贝尔")时，格蕾塔在队伍反应之前被[飞天恐魔](Winged_Horror.md "飞天恐魔")失能，并在战斗剩余时间内处于[刺穿](Impaled_(Condition).md "刺穿 (状态)")状态。如果伊索贝尔未被拯救，格蕾塔和终焉光芒旅店的所有人都会变成[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md "幽影诅咒不死生物 (状态)")，[贾希拉](Jaheira.md "贾希拉")除外。
 
 #### 进攻月出之塔
 

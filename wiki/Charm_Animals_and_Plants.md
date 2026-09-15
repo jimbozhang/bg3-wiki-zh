@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [引导神力充能](Channel_Divinity_Charge.md "引导神力充能")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：自身
 范围效果：9米（30英尺）半径
 目标：范围内所有[野兽](Beast.md "野兽")和[植物](Plant.md "植物")

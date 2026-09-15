@@ -15,7 +15,7 @@
 7d8 + 30⁠[黯蚀](Necrotic.md "Necrotic")
 
 详情
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）（若豁免成功：目标仍承受一半伤害。）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）（若豁免成功：目标仍承受一半伤害。）
 射程：30米（100英尺）
 充能：每回合
 

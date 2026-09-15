@@ -34,11 +34,11 @@
 
 ## 状态：炽焰斩
 
-**[炽焰斩](炽焰斩_（状态）.md "炽焰斩（状态）")**
+**[炽焰斩](Searing_Smite.md "炽焰斩（状态）")**
 
 持续时间：10回合
 
-[体](CON.md "体质") [豁免检定](Saving_throw.md "豁免检定")（[法术豁免DC](Contest.md#法术豁免DC "掷骰")）
+[体](CON.md "体质") [豁免检定](Saving_throw.md "豁免检定")（[法术豁免难度等级](Contest.md#法术豁免难度等级 "掷骰")）
 
 - 每回合受到1d6⁠⁠[火焰](Fire.md "火焰")伤害。
 - 如果目标成功通过[体质](CON.md "体质")[豁免检定](Saving_throw.md "豁免检定")，则状态结束。
@@ -54,7 +54,7 @@
 ## 备注
 
 - 此攻击未命中不会使其进入冷却，也不会消耗[附赠动作](Action.md#资源 "附赠动作")。
-- [炽焰斩](炽焰斩_（状态）.md "炽焰斩（状态）")的初始施加没有豁免检定。相反，目标在每回合开始时进行豁免检定以移除状态。
+- [炽焰斩](Searing_Smite.md "炽焰斩（状态）")的初始施加没有豁免检定。相反，目标在每回合开始时进行豁免检定以移除状态。
 
 ---
 *Source: [Legacy of Avernus: Searing Smite](https://bg3.wiki/wiki/Legacy_of_Avernus:_Searing_Smite)*

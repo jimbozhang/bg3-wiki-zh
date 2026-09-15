@@ -1,6 +1,6 @@
 # 精金矿渣
 
-一种**精金矿渣**是常见的[杂物](Miscellaneous.md#Clutter "杂物")物品。不要与[秘银矿石](Mithral_Ore.md "秘银矿石")混淆，后者用于[精金熔炉](Adamantine_Forge_(location)来制造武器和护甲.md)。
+一种**精金矿渣**是常见的[杂物](Miscellaneous.md#Clutter "杂物")物品。不要与[秘银矿石](Mithral_Ore.md "秘银矿石")混淆，后者用于[精金熔炉](Adamantine_Forge_(location).md)来制造武器和护甲。
 
 一种古老金属——精金的残余物，曾用于制造传奇武器和护甲。它太小且已损坏，无法用于任何用途。
 

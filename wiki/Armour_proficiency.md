@@ -176,9 +176,9 @@
 
 ### 背景技能熟练项
 
-[贵族](Noble.md "Noble") | [历史的](History.md "History") | [游说](Persuasion.md "Persuasion")
+[贵族](Noble.md "Noble") | [历史](History.md "History") | [游说](Persuasion.md "Persuasion")
 [化外之民](Outlander.md "Outlander") | [运动](Athletics.md "Athletics") | [求生](Survival.md "Survival")
-[智者](Sage.md "Sage") | [奥秘](Arcana.md "Arcana") | [历史的](History.md "History")
+[智者](Sage.md "Sage") | [奥秘](Arcana.md "Arcana") | [历史](History.md "History")
 [士兵](Soldier.md "Soldier") | [运动](Athletics.md "Athletics") | [威吓](Intimidation.md "Intimidation")
 [流浪儿](Urchin.md "Urchin") | [巧手](Sleight_of_Hand.md "Sleight of Hand") | [隐匿](Stealth.md "Stealth")
 
@@ -189,7 +189,7 @@
 - [吉斯洋基人](Githyanki.md "Githyanki")可以通过使用[星界知识](Astral_Knowledge.md "Astral Knowledge")暂时获得与所选属性对应的所有技能的熟练项。
 - [半兽人](Half-Orc.md "Half-Orc")熟练于[威吓](Intimidation.md "Intimidation")。
 - [人类](Human.md "Human")可以选择一项免费的技能熟练项。
-- [岩侏儒](Rock_Gnome.md "Rock Gnome")在[历史的](History.md "History")上获得双倍熟练项加值。
+- [岩侏儒](Rock_Gnome.md "Rock Gnome")在[历史](History.md "History")上获得双倍熟练项加值。
 - [木精灵](Elf.md#Wood_Elves "Elf")和[木半精灵](Half-Elf.md#Wood_Half-Elves "Half-Elf")熟练于[隐匿](Stealth.md "Stealth")。
 
 ### 职业技能熟练项
@@ -220,7 +220,7 @@
 | [赏金猎人](Bounty_Hunter.md "Bounty Hunter") | [调查](Investigation.md "Investigation") |
 | [面纱守护者](Keeper_of_the_Veil.md "Keeper of the Veil") | [奥秘](Arcana.md "Arcana") |
 | [法师破坏者](Mage_Breaker.md "Mage Breaker") |  |
-| [游侠骑士](Ranger_Knight.md "Ranger Knight") | [历史的](History.md "History") |
+| [游侠骑士](Ranger_Knight.md "Ranger Knight") | [历史](History.md "History") |
 | [崇圣潜行者](Sanctified_Stalker.md "Sanctified Stalker") | [宗教](Religion.md "Religion") |
 
 此外，选择**城市追踪者**作为其偏爱环境的[游侠](Ranger.md "Ranger")会获得[巧手](Sleight_of_Hand.md "Sleight of Hand")熟练项。
@@ -246,8 +246,8 @@
 
 _不要求_在相应技能上预先拥有熟练项的专精来源包括：
 
-- 所有[岩侏儒](Gnome.md#Rock_gnome "Gnome")在[历史的](History.md "History")上拥有专精。
-- [知识领域](Knowledge_Domain.md "Knowledge Domain")牧师在1级时选择[奥秘](Arcana.md "Arcana")、[历史的](History.md "History")、[自然](Nature.md "Nature")和[宗教](Religion.md "Religion")中任意两项的专精。
+- 所有[岩侏儒](Gnome.md#Rock_gnome "Gnome")在[历史](History.md "History")上拥有专精。
+- [知识领域](Knowledge_Domain.md "Knowledge Domain")牧师在1级时选择[奥秘](Arcana.md "Arcana")、[历史](History.md "History")、[自然](Nature.md "Nature")和[宗教](Religion.md "Religion")中任意两项的专精。
 - [演员](Actor.md "Actor")专长授予[欺瞒](Deception.md "Deception")和[表演](Performance.md "Performance")专精。
 - [灵吸怪专精](Illithid_Expertise.md "Illithid Expertise")授予[游说](Persuasion.md "Persuasion")、[欺瞒](Deception.md "Deception")和[威吓](Intimidation.md "Intimidation")专精。
 

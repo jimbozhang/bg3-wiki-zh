@@ -1,31 +1,31 @@
-# 灾祸术 (神祇)
+# 班恩
 
 | | |
 | --- | --- |
 | 配音 | - [David Rintoul](https://www.imdb.com/name/nm0727778/) |
 | 种族 | [神祇](Deity.md "神祇") |
 
-**灾祸术**，又名黑暗之主，是暴政、仇恨与纷争之[神](God.md "神")，也是[三神](Dead_Three.md "三神")的成员。他与秩序和[战争领域](War_Domain.md "战争领域")领域相关联。灾祸术不能作为玩家角色[牧师](Cleric.md "牧师")的神祇。
+**班恩**，又名黑暗之主，是暴政、仇恨与纷争之[神](God.md "神")，也是[三神](Dead_Three.md "三神")的成员。他与秩序和[战争领域](War_Domain.md "战争领域")领域相关联。班恩不能作为玩家角色[牧师](Cleric.md "牧师")的神祇。
 
 > “
 >
-> 我是灾祸术，黑暗之主。我是终极暴君。我是恐惧，我是仇恨。
+> 我是班恩，黑暗之主。我是终极暴君。我是恐惧，我是仇恨。
 >
 > „
 
-— 灾祸术
+— 班恩
 
 ## 揭示
 
 ### 第二章
 
-[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")被揭示为灾祸术的选民。在[月出之塔](Moonrise_Towers.md "月出之塔")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，戈塔什与[奥林](Orin.md "奥林")和[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")同行。人们发现三神——灾祸术、⁠[巴尔](Bhaal.md "巴尔")和⁠[米尔寇](Myrkul.md "米尔寇")——再次结盟，让他们的选民创建至上真神教团。戈塔什使用他的[戈塔什的耐色石](Gortash's_Netherstone.md "戈塔什的耐色石")——灾祸术的法令，向[耐色脑](Netherbrain.md "耐色脑")下令，让至上真神的军队向[博德之门](Baldur's_Gate.md "博德之门")进军。
+[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")被揭示为班恩的选民。在[月出之塔](Moonrise_Towers.md "月出之塔")下方的[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中，戈塔什与[奥林](Orin.md "奥林")和[凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")同行。人们发现三神——班恩、⁠[巴尔](Bhaal.md "巴尔")和⁠[米尔寇](Myrkul.md "米尔寇")——再次结盟，让他们的选民创建至上真神教团。戈塔什使用他的[戈塔什的耐色石](Gortash's_Netherstone.md "戈塔什的耐色石")——班恩的法令，向[耐色脑](Netherbrain.md "耐色脑")下令，让至上真神的军队向[博德之门](Baldur's_Gate.md "博德之门")进军。
 
 ### 第三章
 
-如果与恩维尔·戈塔什战斗，他可以向灾祸术祈求援助。如果被召唤，灾祸术会将戈塔什转化为[暴政化身](Avatar_of_Tyranny_(Condition).md "暴政化身 (状态)")。如果对恩维尔·戈塔什使用[死者交谈](Speak_with_Dead.md "死者交谈")，灾祸术会代他回应——声称戈塔什的灵魂因辜负他而正在他手中受苦。
+如果与恩维尔·戈塔什战斗，他可以向班恩祈求援助。如果被召唤，班恩会将戈塔什转化为[暴政化身](Avatar_of_Tyranny_(Condition).md "暴政化身 (状态)")。如果对恩维尔·戈塔什使用[死者交谈](Speak_with_Dead.md "死者交谈")，班恩会代他回应——声称戈塔什的灵魂因辜负他而正在他手中受苦。
 
-## 灾祸术教团
+## 班恩教团
 
 教团等级从高到低：
 
@@ -108,12 +108,12 @@
 
 ## 注释
 
-- 在[抢先体验](Early_Access.md "抢先体验")中，灾祸术曾可作为[牧师](Cleric.md "牧师")的神祇，但在游戏正式版中该选项被[移除](Cut_and_Unimplemented_Content.md#Cleric_deities "已移除和未实现内容")。
-  - 许多灾祸术牧师的对话选项仍存在于游戏文件中，可通过模组访问。
+- 在[抢先体验](Early_Access.md "抢先体验")中，班恩曾可作为[牧师](Cleric.md "牧师")的神祇，但在游戏正式版中该选项被[移除](Cut_and_Unimplemented_Content.md#Cleric_deities "已移除和未实现内容")。
+  - 许多班恩牧师的对话选项仍存在于游戏文件中，可通过模组访问。
 
 ## 外部链接
 
-- ⁠[灾祸术](https://forgottenrealms.fandom.com/wiki/Bane) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
+- ⁠[班恩](https://forgottenrealms.fandom.com/wiki/Bane) 在 [被遗忘的国度维基](https://forgottenrealms.fandom.com/wiki/Main_Page)
 
 ---
 *Source: [Bane (God)](https://bg3.wiki/wiki/Bane_(God)*

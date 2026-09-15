@@ -1,6 +1,6 @@
 # 训斥
 
-**训斥**是[钢铁卫士](Steel_Watcher_(creature)在被缴械时使用的徒手近战攻击.md)。
+**训斥**是[钢铁卫士](Steel_Watcher_(creature).md)在被缴械时使用的徒手近战攻击。
 
 ## 描述
 

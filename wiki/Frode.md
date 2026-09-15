@@ -35,7 +35,7 @@
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 - [战术铁律](Tactical_Discipline.md "Tactical Discipline")
 
-**班恩之拳弗洛德**是[班恩](Bane_(God)的人类教徒.md)，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")中找到，位于[班恩之拳古德伦](Gudrun.md "Gudrun")旁边。
+**班恩之拳弗洛德**是[班恩](Bane_(God).md)的人类教徒，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")中找到，位于[班恩之拳古德伦](Gudrun.md "Gudrun")旁边。
 
 ## 目录
 

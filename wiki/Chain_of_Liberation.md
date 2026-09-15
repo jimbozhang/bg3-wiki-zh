@@ -2,7 +2,7 @@
 
 本文介绍的内容**[无法通过正常游戏方式](Category_colon_Inaccessible.md "Category:Inaccessible")**获取。但仍可通过第三方工具访问。
 
-解放锁链是一件[中甲](Armour.md#Medium_Armour "Armour")，属于[稀有度](Rarity.md "Rarity")为[不常见](Uncommon.md "Uncommon")的护甲。它允许穿戴者牺牲其[亢奋状态](Momentum_(Condition).md "Momentum (Condition)")来[急冲](Rush.md "Rush")向前，并躲避[借机攻击](Attack_of_Opportunity.md "Attack of Opportunity")。
+解放锁链是一件[中甲](Armour.md#Medium_Armour "Armour")，属于稀有度为不常见的护甲。它允许穿戴者牺牲其[亢奋状态](Momentum_(Condition).md "Momentum (Condition)")来[急冲](Rush.md "Rush")向前，并躲避[借机攻击](Attack_of_Opportunity.md "Attack of Opportunity")。
 
 相连的戒指噼啪作响，蕴含着能量，只待释放。
 

@@ -1,6 +1,6 @@
 # 恢复站
 
-本文介绍的是《博德之门3》中的静态物品。关于法术，请参见[次级恢复](Lesser_Restoration.md "次级恢复")和[高等复原术](Greater_Restoration.md "高等复原术")。
+本文介绍的是《博德之门3》中的静态物品。关于法术，请参见[次级复原术](Lesser_Restoration.md "次级复原术")和[高等复原术](Greater_Restoration.md "高等复原术")。
 
 一个恢复装置
 

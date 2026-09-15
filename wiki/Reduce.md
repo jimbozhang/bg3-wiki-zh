@@ -29,7 +29,7 @@
 
 持续时间：10驱散
 
-[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - [体型](Creature_size.md "Creature Size")减小。
 - 武器攻击造成的伤害**减少1d4**。在[力量](Strength.md "Strength") [属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "Saving Throw")上具有[劣势](Disadvantage.md "Disadvantage")。

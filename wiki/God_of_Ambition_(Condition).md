@@ -19,7 +19,7 @@
 [神圣欢宴](Divine_Revelry.md "神圣欢宴")
 从深水城之口召唤一桶影暗麦酒，并对所有附近生物施放[奥图迷舞](Otto's_Irresistible_Dance_(Condition).md "奥图迷舞 (状态)")。
 
-[塑形翼猫](Formsculpt_colon__Tressym.md "塑形：翼猫")
+[形塑：翼猫](Formsculpt_colon__Tressym.md "塑形：翼猫")
 将一个生物的形态重塑为盖尔心爱宠物的模样。
 
 [毁灭真言](Power_Word_colon__Ruin.md "毁灭真言")

@@ -21,7 +21,7 @@
 
 以下法术/动作可以移除此状态组中的所有状态：
 
-- [次级恢复](Lesser_Restoration.md "次级恢复")
+- [次级复原术](Lesser_Restoration.md "次级复原术")
 - [解缚打击](Unshackling_Strike.md "Unshackling Strike")
 
 ## 免疫

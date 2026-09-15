@@ -79,7 +79,7 @@
 
 如果利卡在地精袭击中幸存下来，她会与所有人分享如何在前往[博德之门](Baldur's_Gate.md "博德之门")的旅途中保持安全的指示。
 
-如果队伍在解决[卡哈](Kagha.md "卡哈")的[荆棘仪式](Rite_of_Thorns_(ritual)之前前.md)往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林难民会被驱逐出翠绿林地，利卡的尸体会在通往[染疫村落](Blighted_Village.md "染疫村落")的桥梁附近的难民堆中被找到。
+如果队伍在解决[卡哈](Kagha.md "卡哈")的[荆棘仪式](Rite_of_Thorns_(ritual).md)之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林难民会被驱逐出翠绿林地，利卡的尸体会在通往[染疫村落](Blighted_Village.md "染疫村落")的桥梁附近的难民堆中被找到。
 
 #### 找到多尼
 

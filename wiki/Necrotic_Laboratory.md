@@ -13,7 +13,7 @@
 
 进入该区域后，将与大量不死生物展开战斗，包括：一名[死亡牧者](Death_Shepherd.md "死亡牧者")（6级）、四只[飞天恐魔](Winged_Horror.md "飞天恐魔")（3级）、四只[大僵尸](Greater_Zombie.md "大僵尸")（7级）和六只[僵尸](Zombie.md "僵尸")（3级）。战斗期间，死亡牧者会施放[恶徒无休](No_Rest_for_the_Wicked.md "恶徒无休")，每轮召唤两名[再造决斗者](Reconstituted_Duellist.md "再造决斗者")、一名[再造神射手](Reconstituted_Marksman.md "再造神射手")和一名[再造奥术师](Reconstituted_Arcanist.md "再造奥术师")。
 
-黯蚀实验室中央有一个巨大的六芒星阵，每个顶点都有一个[亵渎子宫](Profane_Womb.md "亵渎子宫")。如果队伍帮助[巴萨扎尔](Balthazar.md "巴萨扎尔")在[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")找到[暗夜之歌](Aylin.md "暗夜之歌")并允许死灵法师带走她，所有队伍成员将在[堕影冥界](Shadowfell.md "堕影冥界")陷入昏迷，并在这些容器中醒来。它们会赋予[亵渎子宫束缚](Profane_Womb-Bound_(Condition).md "亵渎子宫束缚（状态）")状态，该状态会[沉默](Silenced_(Condition)受害者并将其固定在原地.md)。
+黯蚀实验室中央有一个巨大的六芒星阵，每个顶点都有一个[亵渎子宫](Profane_Womb.md "亵渎子宫")。如果队伍帮助[巴萨扎尔](Balthazar.md "巴萨扎尔")在[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")找到[暗夜之歌](Aylin.md "暗夜之歌")并允许死灵法师带走她，所有队伍成员将在[堕影冥界](Shadowfell.md "堕影冥界")陷入昏迷，并在这些容器中醒来。它们会赋予[亵渎子宫束缚](Profane_Womb-Bound_(Condition).md "亵渎子宫束缚（状态）")状态，该状态会[沉默](Silenced_(Condition).md)受害者并将其固定在原地。
 
 ## 大脑谜题
 

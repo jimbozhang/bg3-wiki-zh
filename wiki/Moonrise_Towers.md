@@ -91,7 +91,7 @@ _如果[哈尔辛](Halsin.md "哈尔辛")或[明萨拉](Minthara.md "明萨拉")
 - ⁠[有缺口的盔甲](Soldier.md#Notched_Armour "Soldier")（[士兵](Soldier.md "士兵")背景）
 - ⁠[非常规认可](Folk_Hero.md#Uncommon_Recognition "Folk Hero")（[平民英雄](Folk_Hero.md "平民英雄")背景）
 
-**罗阿·月光**，一位半身人商人，可以在大厅西侧更深处找到。与兰·塔夫不同，她热情地（带点讽刺地）问候玩家角色。与她的对话可能会有所不同，取决于队伍是否在[地精营地](Goblin_Camp.md "地精营地")见过她，以及他们是否知道罗阿属于[散塔林会](Zhentarim.md "散塔林会")。如果队伍不知道后者，任何角色在与罗阿交谈时通过DC 10[历史的](History.md "历史的")[属性检定](Ability_Check.md "属性检定")都可能发现这一点。无论选择什么对话，罗阿都会将话题转向与她交易。
+**罗阿·月光**，一位半身人商人，可以在大厅西侧更深处找到。与兰·塔夫不同，她热情地（带点讽刺地）问候玩家角色。与她的对话可能会有所不同，取决于队伍是否在[地精营地](Goblin_Camp.md "地精营地")见过她，以及他们是否知道罗阿属于[散塔林会](Zhentarim.md "散塔林会")。如果队伍不知道后者，任何角色在与罗阿交谈时通过DC 10[历史](History.md "历史")[属性检定](Ability_Check.md "属性检定")都可能发现这一点。无论选择什么对话，罗阿都会将话题转向与她交易。
 
 罗阿在月出之塔的库存与她在[地精营地](Goblin_Camp.md "地精营地")时可能拥有的不同。这次，除了之前的物品外，她还有几件独特物品可供交易，如[从未射失](Ne'er_Misser.md "从未射失")、[龙息](Drakethroat_Glaive.md "龙息")和[恶之雷鸣戒指](Ring_of_Spiteful_Thunder.md "恶之雷鸣戒指")。[游荡者](Rogue.md "游荡者")角色可以通过特殊手势向她要求折扣。
 
@@ -123,7 +123,7 @@ _如果[哈尔辛](Halsin.md "哈尔辛")或[明萨拉](Minthara.md "明萨拉")
 
 - ⁠[死亡之舞](Entertainer.md#Danse_Macabre "Entertainer")（[艺人](Entertainer.md "艺人")背景）
 - ⁠[野性回归](Urchin.md#Gone_Feral "Urchin")（[流浪儿](Urchin.md "流浪儿")背景）
-- ⁠[无拘无束](Folk_Hero.md#No_Strings_to_Hold_Them_Back "Folk Hero")（[平民英雄](Folk Hero.md "平民英雄")背景）
+- ⁠[无拘无束](Folk_Hero.md#No_Strings_to_Hold_Them_Back "Folk Hero")（[平民英雄](Folk_Hero.md "平民英雄")背景）
 - ⁠[花衣魔笛手](Charlatan.md#Pied_Piper "Charlatan")（[骗子](Charlatan.md "骗子")背景）——与其他不同，此激励点仅因_影响_连接而获得，无论结果如何
 - ⁠[谁放出了豺狼人](Haunted_One.md#Who_Let_the_Gnolls_Out "Haunted One")（[邪念缠身](Haunted_One.md "邪念缠身")背景）
 

@@ -6,7 +6,7 @@
 
 ## 属性
 
-- [炼金术材料](炼金术材料.md "炼金术材料")
+- [炼金术材料](Alchemical_Ingredients.md "炼金术材料")
 
 - 单次使用
 
@@ -30,7 +30,7 @@
 
   - 由以下角色出售：
 
-  - [德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")在[幽暗地域](Underdark.md "幽暗地域")的[蕈人菌落](蕈人菌落.md "蕈人菌落")（从等级9开始）\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
+  - [德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")在[幽暗地域](Underdark.md "幽暗地域")的[蕈人菌落](Myconid_Colony.md "蕈人菌落")（从等级9开始）\[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
   - [波珀](Popper.md "波珀")在[终末马戏团](Circus_of_the_Last_Days.md "终末马戏团")
 
@@ -40,7 +40,7 @@
 
 ## 备注
 
-- 酿酒师炼金师藏匿处的确切位置（X: -246 Y: -8）在[研究笔记（残月）](研究笔记（残月）.md "研究笔记（残月）")中透露。它被埋在一个房子下方、三个堆叠的桶后面的一片土堆下。这大约位于[治疗中心](House_of_Healing_Morgue.md "治疗中心")和通往[博德之门通道](Road_to_Baldur's_Gate.md "博德之门通道")的地标之间的一半位置。
+- 酿酒师炼金师藏匿处的确切位置（X: -246 Y: -8）在[研究笔记（残月）](Research_Notes_(Waning_Moon).md "研究笔记（残月）")中透露。它被埋在一个房子下方、三个堆叠的桶后面的一片土堆下。这大约位于[治疗中心](House_of_Healing_Morgue.md "治疗中心")和通往[博德之门通道](Road_to_Baldur's_Gate.md "博德之门通道")的地标之间的一半位置。
 
 ---
 *来源：[死尸玫瑰](https://bg3.wiki/wiki/Corpse_Rose)*

@@ -22,7 +22,7 @@
 
 ## 获取地点
 
-- [废弃战场](Ruined_Battlefield.md "废弃战场") X: -60 Y: -114：在[雷斯文征税所](Reithwin_Tollhouse.md "雷斯文征税所")对面码头的一个上锁的[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")中，位于半毁的[木桥](Wooden_Bridge.md "木桥")旁边。该箱子可用[钥匙（雷斯文征税所）](Key_(Reithwin_Tollhouse).md "钥匙（雷斯文征税所）")打开。
+- [废弃战场](Ruined_Battlefield.md "废弃战场") X: -60 Y: -114：在[雷斯文征税所](Reithwin_Tollhouse.md "雷斯文征税所")对面码头的一个上锁的[旅行者的箱子](Traveller's_Chest.md "旅行者的箱子")中，位于半毁的木桥旁边。该箱子可用[钥匙（雷斯文征税所）](Key_(Reithwin_Tollhouse).md "钥匙（雷斯文征税所）")打开。
 
 ## 外部链接
 

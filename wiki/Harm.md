@@ -28,7 +28,7 @@
 
 持续时间：直至[长休](Long_Rest.md "Long rest")
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 受影响实体的最大[生命值](Hit_Points.md "Hit Points")已被重伤术造成的伤害降低
 - 此状态是一种**疾病**

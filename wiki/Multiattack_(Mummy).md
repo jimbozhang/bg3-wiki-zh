@@ -2,7 +2,7 @@
 
 本文介绍木乃伊使用的多重攻击动作。其他用法，请参见 [多重攻击 (消歧义)](Multiattack_(disambiguation).md)
 
-**多重攻击**是[木乃伊](Mummy_(Race)可用的动作.md)，允许它们对处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态的目标造成两次伤害。
+**多重攻击**是[木乃伊](Mummy_(Race).md)可用的动作，允许它们对处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态的目标造成两次伤害。
 
 ## 描述
 
@@ -45,7 +45,7 @@
 ## 备注
 
 - 每次命中都有独立的豁免检定来施加[木乃伊腐毒](Mummy_Rot_(Condition).md "木乃伊腐毒 (状态)")。
-- 此攻击的目标必须受到[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态本身的影响，而非[恐慌状态组](Frightened_(status_group)中的类似效果.md)。
+- 此攻击的目标必须受到[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态本身的影响，而非[恐慌状态组](Frightened_(status_group).md)中的类似效果。
 
 ---
 *Source: [Multiattack (Mummy)](https://bg3.wiki/wiki/Multiattack_(Mummy)*

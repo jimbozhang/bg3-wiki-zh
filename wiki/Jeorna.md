@@ -64,7 +64,7 @@
 
 ### 第一幕
 
-叶罗娜的任务是守卫[荆棘仪式](Rite_of_Thorns_(ritual)免受干扰.md)。该仪式将封闭林地，阻止外人进入，迫使[提夫林难民](Tiefling_Refugees.md "提夫林难民")进入[荒野](Wilderness.md "荒野")自生自灭。
+叶罗娜的任务是守卫[荆棘仪式](Rite_of_Thorns_(ritual).md)免受干扰。该仪式将封闭林地，阻止外人进入，迫使[提夫林难民](Tiefling_Refugees.md "提夫林难民")进入[荒野](Wilderness.md "荒野")自生自灭。
 
 如果[卡哈](Kagha.md "卡哈")被说服对抗暗影德鲁伊，叶罗娜会坐在[内殿](Inner_Sanctum.md "内殿")入口外。
 

@@ -110,7 +110,7 @@
 
 战斗期间所有[属性检定](Ability_Check.md "Ability check")和[豁免检定](Saving_throws.md "Saving throws")具有[优势](Advantage.md "Advantage")。
 
-**班恩之拳阿米纳**是一名[灰矮人](Duergar.md "Duergar")[灾祸之神班恩](Bane_(God)的邪教徒.md)，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")的[班恩之拳波兰杜勒斯](Polandulus.md "Polandulus")旁边找到。
+**班恩之拳阿米纳**是一名[灰矮人](Duergar.md "Duergar")[灾祸之神班恩](Bane_(God).md)的邪教徒，可在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "Steel Watch Foundry")的[班恩之拳波兰杜勒斯](Polandulus.md "Polandulus")旁边找到。
 
 > “
 >

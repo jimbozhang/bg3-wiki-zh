@@ -6,7 +6,7 @@
 
 牧师法术是[预备法术](Prepared_spells.md "预备法术")，因此所有牧师都可以使用这些法术（取决于其牧师等级），并在任何时候准备有限数量的法术。
 
-牧师法术使用施法者的[感知](Wisdom.md "感知")调整值进行[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
+牧师法术使用施法者的[感知](Wisdom.md "感知")调整值进行[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰。
 
 ## 牧师法术列表
 
@@ -37,7 +37,7 @@
 | [安定心神](Calm_Emotions.md "安定心神") | 2 |  |  | 10回合 | 18米 / 60英尺 / 6米 / 20英尺 (半径) | - | - |
 | [强化属性](Enhance_Ability.md "强化属性") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
 | [人类定身术](Hold_Person.md "人类定身术") | 2 |  |  | 10回合 | 18米 / 60英尺 | [感知](Wisdom.md "感知") [豁免](Saving_throws.md "豁免检定") | - |
-| [次级恢复](Lesser_Restoration.md "次级恢复") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
+| [次级复原术](Lesser_Restoration.md "次级复原术") | 2 |  |  | - | 1.5米 / 5英尺 | - | - |
 | [治疗祷言](Prayer_of_Healing.md "治疗祷言") | 2 |  |  | - | 自身 / 9米 / 30英尺 (半径) | - | 2d8 + [施法调整值](Spells#Spellcasting_ability.md#Spellcasting_ability "法术")⁠[治疗](Healing.md "治疗") |
 | [防护毒素](Protection_from_Poison.md "防护毒素") | 2 |  |  | 长休 | 1.5米 / 5英尺 | - | - |
 | [沉默术](Silence.md "沉默术") | 2 |  |  | - | 18米 / 60英尺 | - | - |

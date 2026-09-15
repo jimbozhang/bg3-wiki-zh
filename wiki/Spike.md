@@ -1,8 +1,8 @@
-# Spike
+# 斯派克
 
 | | |
 | --- | --- |
-| 身份 | Male |
+| 身份 | 男性 |
 | 配音 | - [Adam Rhys Dee](https://www.imdb.com/name/nm1570264/) |
 | 体型 | [小型](Small.md "小型") |
 | 类型 | [类人生物](Humanoid.md "类人生物") |

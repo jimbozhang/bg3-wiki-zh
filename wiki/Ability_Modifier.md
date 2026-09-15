@@ -112,7 +112,7 @@
 | [魅力](Charisma.md "魅力") | [欺瞒](Deception.md "欺瞒") [威吓](Intimidation.md "威吓") [表演](Performance.md "表演") [游说](Persuasion.md "游说") |
 | [体质](Constitution.md "体质") | 无 |
 | [敏捷](Dexterity.md "敏捷") | [体操](Acrobatics.md "体操") [巧手](Sleight_of_Hand.md "巧手") [隐匿](Stealth.md "隐匿") |
-| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史的](History.md "历史的") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
+| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史](History.md "历史") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
 | [力量](Strength.md "力量") | [运动](Athletics.md "运动") |
 | [感知](Wisdom.md "感知") | [驯兽](Animal_Handling.md "驯兽") [洞悉](Insight.md "洞悉") [医药](Medicine.md "医药") [察觉技能](Perception.md "察觉技能") [求生](Survival.md "求生") |
 
@@ -137,7 +137,7 @@
 |
 
 - [奥秘](Arcana.md "奥秘")
-- [历史的](History.md "历史的")
+- [历史](History.md "历史")
 - [调查](Investigation.md "调查")
 - [自然](Nature.md "自然")
 - [宗教](Religion.md "宗教")
@@ -173,8 +173,8 @@
 
 不要求事先具备相应技能熟练项的专精来源包括：
 
-- [岩侏儒](Gnome.md#Rock_gnome "侏儒") 在 [历史的](History.md "历史的") 上的专精
-- [知识领域](Knowledge_Domain.md "知识领域") [牧师](Cleric.md "牧师") 在 1 级时从以下技能中选择两项获得专精：[奥秘](Arcana.md "奥秘")、[历史的](History.md "历史的")、[自然](Nature.md "自然") 或 [宗教](Religion.md "宗教")
+- [岩侏儒](Gnome.md#Rock_gnome "侏儒") 在 [历史](History.md "历史") 上的专精
+- [知识领域](Knowledge_Domain.md "知识领域") [牧师](Cleric.md "牧师") 在 1 级时从以下技能中选择两项获得专精：[奥秘](Arcana.md "奥秘")、[历史](History.md "历史")、[自然](Nature.md "自然") 或 [宗教](Religion.md "宗教")
 - 来自 [演员](Actor.md "演员") 专长的 [欺瞒](Deception.md "欺瞒") 和 [表演](Performance.md "表演") 专精
 - 来自 [灵吸怪专精](Illithid_Expertise.md "灵吸怪专精") 特性的 [欺瞒](Deception.md "欺瞒")、[威吓](Intimidation.md "威吓") 和 [游说](Persuasion.md "游说") 专精
 
@@ -183,7 +183,7 @@
 自动掷骰
 一些属性检定是自动进行的。例如，当生物接近陷阱时，会掷 [察觉技能](Perception.md "察觉技能") 检定以确定他们是否注意到它。察觉技能是感知技能，因此生物会将其感知调整值以及（如果熟练察觉技能）其熟练项加值添加到属性检定中。
 对话期间
-属性检定在对话中也很常见，一些回应需要属性检定来决定结果。例如，使用魅力技能如 [游说](Persuasion.md "游说")、[欺瞒](Deception.md "欺瞒") 或 [威吓](Intimidation.md "威吓") 来影响他人，或使用智力技能如 [奥秘](Arcana.md "奥秘")、[历史的](History.md "历史的") 或 [宗教](Religion.md "宗教") 来确定或回忆事实。在这些检定之前，屏幕底部会出现一个标有“添加加值”的按钮，<sup>[\[2\]](#cite_note-3)</sup> 允许玩家角色和其他队伍成员自由使用可用的法术和消耗品来为检定提供加值。在与物体互动时进行属性检定时（例如解除陷阱或开锁）这也是可能的。
+属性检定在对话中也很常见，一些回应需要属性检定来决定结果。例如，使用魅力技能如 [游说](Persuasion.md "游说")、[欺瞒](Deception.md "欺瞒") 或 [威吓](Intimidation.md "威吓") 来影响他人，或使用智力技能如 [奥秘](Arcana.md "奥秘")、[历史](History.md "历史") 或 [宗教](Religion.md "宗教") 来确定或回忆事实。在这些检定之前，屏幕底部会出现一个标有“添加加值”的按钮，<sup>[\[2\]](#cite_note-3)</sup> 允许玩家角色和其他队伍成员自由使用可用的法术和消耗品来为检定提供加值。在与物体互动时进行属性检定时（例如解除陷阱或开锁）这也是可能的。
 对抗
 对抗是一种情况，其中两个生物都进行掷骰，掷骰结果更好的一方获胜。也可以说一个生物进行掷骰以确定另一个生物掷骰的 [难度等级](Difficulty_Class.md "难度等级")。例如，在 [躲藏](Hide.md "躲藏") 时攻击，此时目标掷察觉技能检定，攻击者掷隐匿检定来进行对抗。
 这可能还涉及 [被动检定](Passive_check.md "被动检定") 而非主动掷骰。例如，一个隐藏的玩家角色在非盟友生物的视线内，必须进行隐匿检定，与该生物的被动察觉技能分数进行对抗。另一个例子是尝试 [推击](Shove.md "推击") 或 [投掷](Throw.md "投掷") 一个生物，此时进行尝试的生物掷 [运动](Athletics.md "运动") 检定，与另一个生物的被动运动或 [体操](Acrobatics.md "体操") 分数（取较高者）进行对抗。
@@ -316,7 +316,7 @@
 | [魅力](Charisma.md "魅力") | [欺瞒](Deception.md "欺瞒") [威吓](Intimidation.md "威吓") [表演](Performance.md "表演") [游说](Persuasion.md "游说") |
 | [体质](Constitution.md "体质") | 无 |
 | [敏捷](Dexterity.md "敏捷") | [体操](Acrobatics.md "体操") [巧手](Sleight_of_Hand.md "巧手") [隐匿](Stealth.md "隐匿") |
-| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史的](History.md "历史的") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
+| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史](History.md "历史") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
 | [力量](Strength.md "力量") | [运动](Athletics.md "运动") |
 | [感知](Wisdom.md "感知") | [驯兽](Animal_Handling.md "驯兽") [洞悉](Insight.md "洞悉") [医药](Medicine.md "医药") [察觉技能](Perception.md "察觉技能") [求生](Survival.md "求生") |
 投掷

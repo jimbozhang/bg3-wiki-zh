@@ -1,6 +1,6 @@
 # 盗法者
 
-盗法者是一把[长弓](Longbows.md "长弓")，属于[罕见](Rarity.md "罕见")品质。当持有者造成[重击](Critical_Hit.md "重击")时，可以恢复一个1级[法术位](Spell_Slot.md "法术位")，每[短休](Short_rest.md "短休")一次。
+盗法者是一把[长弓](Longbows.md "长弓")，属于罕见品质。当持有者造成[重击](Critical_Hit.md "重击")时，可以恢复一个1级[法术位](Spell_Slot.md "法术位")，每[短休](Short_rest.md "短休")一次。
 
 一股魔法的战栗从这把弓流入你的手中——如同一个[承诺](Promise.md "承诺")。
 

@@ -15,7 +15,7 @@
 1d4⁠[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 范围：6米（20英尺）
 
 ## 高等级效果

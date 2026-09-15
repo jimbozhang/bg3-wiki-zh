@@ -1,6 +1,6 @@
-# Whossa Large Fellow?
+# 谁是大家伙？
 
-**Whossa Large Fellow?** 是一个 [法术](Spells.md "法术")。它由 [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "Bigboy's Chew Toy") 提供，允许使用者以类似 [巨化](Enlarge.md "Enlarge") 的方式使自己变大。
+**谁是大家伙？** 是一个 [法术](Spells.md "法术")。它由 [大男孩的磨牙玩具](Bigboy's_Chew_Toy.md "Bigboy's Chew Toy") 提供，允许使用者以类似 [巨化](Enlarge.md "Enlarge") 的方式使自己变大。
 
 ## 描述
 

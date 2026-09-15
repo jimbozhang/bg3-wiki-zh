@@ -19,7 +19,7 @@
 ## 灼热金属的来源
 
 - [灼热金属](Heat_Metal.md "Heat Metal")
-- [罗兰的火球术术](Rolan's_Fireball.md "Rolan's Fireball")
+- [罗兰的火球术](Rolan's_Fireball.md "Rolan's Fireball")
 
 ## 拥有灼热金属状态的生物
 

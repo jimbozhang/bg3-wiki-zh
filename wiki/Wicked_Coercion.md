@@ -4,7 +4,7 @@
 
 ## 描述
 
-侵入敌人的思想并强迫他们加入你的阵营。他们还会立即受到2d4⁠⁠[心灵](Psychic.md "Psychic")伤害，并且每[驱散](Turn.md "Turn")受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。
+侵入敌人的思想并强迫他们加入你的阵营。他们还会立即受到2d4⁠⁠[心灵](Psychic.md "Psychic")伤害，并且每[驱散](Turned_(Condition).md "Turn")受到1d6⁠⁠[心灵](Psychic.md "Psychic")伤害。
 
 ## 属性
 

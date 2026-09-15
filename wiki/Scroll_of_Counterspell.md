@@ -26,7 +26,7 @@
 
 ## 备注
 
-尽管是卷轴，此物品在使用后不会被[吞噬](consumed.md "吞噬")，因此允许角色无限次进行法术反制。
+尽管是卷轴，此物品在使用后不会被吞噬，因此允许角色无限次进行法术反制。
 
 ---
 *Source: [Scroll of Counterspell](https://bg3.wiki/wiki/Scroll_of_Counterspell)*

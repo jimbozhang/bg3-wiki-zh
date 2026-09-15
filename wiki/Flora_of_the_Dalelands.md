@@ -15,7 +15,7 @@
 
 ## 获取地点
 
-- 在补丁 #1 之前，可以在[翠绿林地](Emerald_Grove.md "Emerald Grove")的[德鲁伊内殿](Druids' Chambers.md "Druids' Chambers")的桌子上找到一本。当⁠[获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "Get Help from Healer Nettie")在补丁 #1 中重做时，被[解毒剂篇](On_Antidotes.md "On Antidotes")取代。
+- 在补丁 #1 之前，可以在[翠绿林地](Emerald_Grove.md "Emerald Grove")的[德鲁伊内殿](Druids'_Chambers.md "Druids' Chambers")的桌子上找到一本。当⁠[获得医师内蒂的帮助](Get_Help_from_Healer_Nettie.md "Get Help from Healer Nettie")在补丁 #1 中重做时，被[解毒剂篇](On_Antidotes.md "On Antidotes")取代。
 
 ## 文本
 

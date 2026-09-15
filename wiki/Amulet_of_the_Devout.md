@@ -1,6 +1,6 @@
 # 虔诚护符
 
-虔诚护符是一件非常稀有的[护符](Amulets.md "护符")。它为穿戴者提供+2的[法术豁免DC](Saving_throw.md#The_Difficulty_Class_of_Saving_Throws "豁免检定")加值，如果穿戴者拥有该能力，则额外提供一次[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")。
+虔诚护符是一件非常稀有的[护符](Amulets.md "护符")。它为穿戴者提供+2的[法术豁免难度等级](Saving_throw.md#The_Difficulty_Class_of_Saving_Throws "豁免检定")加值，如果穿戴者拥有该能力，则额外提供一次[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")。
 
 奥托是强大奥术组织“八人会”的成员，他对护符情有独钟。以至于在他到达之前，护符就已经宣告了他的到来。
 
@@ -15,7 +15,7 @@
 穿戴此物品获得：
 
 [高阶施法](High_Spellcasting_(+2).md)
-你获得+2的[法术豁免DC](Spell_save_DC.md "法术豁免DC")加值。
+你获得+2的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")加值。
 
 [神之意志](Godswill.md "神之意志")
 你获得一次额外的[引导神力冲锋](Channel_Divinity_Charge.md "引导神力冲锋")。使用后，通过进行一次[长休](Long_Rest.md "长休")即可恢复 _\[[参见：错误](Godswill.md#Bugs "神之意志")\]_。

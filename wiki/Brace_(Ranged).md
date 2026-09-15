@@ -15,13 +15,13 @@
 详情
 充能：[短休](Short_rest.md "短休")
 必须对武器 [熟练](Proficiency.md#Weapon_proficiency "熟练项")
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
 ## 状态：备战
 
 **[备战](Braced_(Condition).md "备战（状态）")**
 
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
 - 在伤害掷骰时，掷两次并使用较高的结果。
 

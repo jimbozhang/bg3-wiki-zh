@@ -27,7 +27,7 @@
 
 持续时间：5回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 生物在5回合内变成一只拥有3点 [生命值](Hit_Points.md "Hit Points") 的无害绵羊。
 - 如果绵羊的生命值降至 0，生物将恢复其原始形态及其原始生命值。

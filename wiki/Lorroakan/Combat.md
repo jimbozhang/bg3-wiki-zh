@@ -100,7 +100,7 @@
 
 - [**奥术增强**](../Arcane_Enchantment_(+1).md "奥术增强 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
 
 - [**元素叱喝**](../Elemental_Retort_(passive_feature).md "元素叱喝 (被动特性)")
 
@@ -186,7 +186,7 @@
 
 - [**奥术增强**](../Arcane_Enchantment_(+1).md "奥术增强 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
 
 - [**元素叱喝**](../Elemental_Retort_(passive_feature).md "元素叱喝 (被动特性)")
 
@@ -272,7 +272,7 @@
 
 - [**奥术增强**](../Arcane_Enchantment_(+1).md "奥术增强 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
 
 - [**元素导师：强酸**](../Elemental_Adept_colon__Acid.md "元素导师：强酸")
 
@@ -394,7 +394,7 @@ UUID
 
 射程：18 米 (60 英尺)
 
-[火球术术](../Fireball.md "火球术术") (+ )
+[火球术](../Fireball.md "火球术") (+ )
 
 伤害：8~48
 

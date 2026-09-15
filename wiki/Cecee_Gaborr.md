@@ -13,7 +13,7 @@
 | 先攻 | 0 |
 | 移动速度 | 9 米 (30 英尺) |
 
-**赛西·贾博**是[下城区](Lower_City.md "Lower City")[第三幕](Act_Three.md "Act Three")中[堆区](Heapside.md "Heapside")的一位[人类](Human.md "Human")摊贩。
+**赛西·贾博**是[下城区](Lower_City.md "Lower City")[第三幕](Act_Three.md "Act Three")中堆区的一位[人类](Human.md "Human")摊贩。
 
 > “
 >

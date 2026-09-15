@@ -1,10 +1,10 @@
 # 波尔的祝福 (状态)
 
-关于可永久获得的等效加成，请参阅 [波尔的赐福](波尔的赐福_(状态).md "波尔的赐福 (状态)")。
+关于可永久获得的等效加成，请参阅 [波尔的赐福](BOOOAL's_Benediction_(Condition).md "波尔的赐福 (状态)")。
 
 **波尔的祝福**
 
-- 持有者对[流血](流血_(状态)>.md) creatures)的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，只要存在崇拜[波尔](BOOOAL.md "波尔")的[鱼人](Kuo-toa.md "鱼人")。
+- 持有者对[流血](Bleeding_(Condition).md) creatures)的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")，只要存在崇拜[波尔](BOOOAL.md "波尔")的[鱼人](Kuo-toa.md "鱼人")。
 
 ## 备注
 

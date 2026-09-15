@@ -15,7 +15,7 @@
 1d4 + [魅力调整值](Charisma.md#Charisma_modifier_chart "魅力")⁠[黯蚀](Necrotic.md "黯蚀")（每回合）
 
 详情
-[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：3米（10英尺）
 持续时间：3回合
 
@@ -25,7 +25,7 @@
 
 持续时间：3回合
 
-[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[魅力](Charisma.md "魅力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响实体每回合受到1d4 + [魅力调整值](Ability_score_modifier.md "属性值调整值")⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害，并且对其的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 - 每回合开始时，受影响实体进行[魅力](Charisma.md "魅力")[豁免检定](Saving_throw.md "豁免检定")以移除此效果。

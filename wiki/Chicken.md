@@ -15,11 +15,11 @@
 - 在[地精营地](Goblin_Camp.md "地精营地")可找到[凌乱的鸡](Dishevelled_Chicken.md "凌乱的鸡")
 - 在[利文顿](Rivington.md "利文顿")以东可找到几只死鸡
 - 三只小鸡站在[阿尔弗的宅邸](Arfur's_Mansion.md "阿尔弗的宅邸")入口附近，但一旦靠近就会跑开
-- 在[下城区](Lower_City.md "下城区")的[石化蜥蜴之门](Basilisk_Gate.md "石化蜥蜴之门")附近可找到几只被关在笼子里的鸡
+- 在[下城区](Lower_City.md "下城区")的石化蜥蜴之门附近可找到几只被关在笼子里的鸡
 
 ## 相关文献
 
-- [偷来的鸡](Stolen_Chicken.md "偷来的鸡")
+- [偷来的鸡](Stolen_Chickens.md "偷来的鸡")
 
 ## 图库
 

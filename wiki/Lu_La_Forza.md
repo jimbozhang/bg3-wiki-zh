@@ -17,7 +17,7 @@
 
 ## 出场
 
-卢拉·福尔扎的尸体可以在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂") - 控制中心找到。她主要负责处理[钢铁卫士](Steel_Watcher_(creature)创造过程中涉及的任何化学问题.md)。
+卢拉·福尔扎的尸体可以在[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂") - 控制中心找到。她主要负责处理[钢铁卫士](Steel_Watcher_(creature).md)创造过程中涉及的任何化学问题。
 
 ## 重要战利品
 

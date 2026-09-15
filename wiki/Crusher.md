@@ -33,7 +33,7 @@
 
 - [**原始狂怒**](Crude_Frenzy.md "Crude Frenzy")
 
-此地精在进行主手攻击后可以进行一次额外的免费攻击，但第二次攻击的[攻击检定](Attack_roll.md "Attack Roll")具有[劣势](Disadvantage.md "Disadvantage")。
+此地精在进行主手攻击后可以进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "Attack Roll")具有[劣势](Disadvantage.md "Disadvantage")。
 
 - [**黑暗视觉**](Darkvision.md "Darkvision")
 
@@ -47,7 +47,7 @@
 
 - [**原始狂怒**](Crude_Frenzy.md "Crude Frenzy")
 
-此地精在进行主手攻击后可以进行一次额外的免费攻击，但第二次攻击的[攻击检定](Attack_roll.md "Attack Roll")具有[劣势](Disadvantage.md "Disadvantage")。
+此地精在进行主手攻击后可以进行一次额外的免费攻击，但第二次攻击的[攻击掷骰](Attack_roll.md "Attack Roll")具有[劣势](Disadvantage.md "Disadvantage")。
 
 - [**黑暗视觉**](Darkvision.md "Darkvision")
 

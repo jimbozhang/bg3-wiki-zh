@@ -24,7 +24,7 @@
 
 ## 备注
 
-- 卡扎多尔只能以[倒地](Downed_(Condition)或死亡.md)的[阿斯代伦](Astarion.md "Astarion")为目标施放此法术。
+- 卡扎多尔只能以[倒地](Downed_(Condition).md)或死亡的[阿斯代伦](Astarion.md "Astarion")为目标施放此法术。
 
 ## 错误
 

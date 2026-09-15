@@ -120,7 +120,7 @@
 | [魅力](Charisma.md "Charisma") | [欺瞒](Deception.md "Deception") [威吓](Intimidation.md "Intimidation") [表演](Performance.md "Performance") [游说](Persuasion.md "Persuasion") |
 | [体质](Constitution.md "Constitution") | 无 |
 | [敏捷](Dexterity.md "Dexterity") | [体操](Acrobatics.md "Acrobatics") [巧手](Sleight_of_Hand.md "Sleight of Hand") [隐匿](Stealth.md "Stealth") |
-| [智力](Intelligence.md "Intelligence") | [奥秘](Arcana.md "Arcana") [历史的](History.md "History") [调查](Investigation.md "Investigation") [自然](Nature.md "Nature") [宗教](Religion.md "Religion") |
+| [智力](Intelligence.md "Intelligence") | [奥秘](Arcana.md "Arcana") [历史](History.md "History") [调查](Investigation.md "Investigation") [自然](Nature.md "Nature") [宗教](Religion.md "Religion") |
 | [力量](Strength.md "Strength") | [运动](Athletics.md "Athletics") |
 | [感知](Wisdom.md "Wisdom") | [驯兽](Animal_Handling.md "Animal Handling") [洞悉](Insight.md "Insight") [医药](Medicine.md "Medicine") [察觉技能](Perception.md "Perception") [求生](Survival.md "Survival") |
 
@@ -145,7 +145,7 @@
 |
 
 - [奥秘](Arcana.md "Arcana")
-- [历史的](History.md "History")
+- [历史](History.md "History")
 - [调查](Investigation.md "Investigation")
 - [自然](Nature.md "Nature")
 - [宗教](Religion.md "Religion")
@@ -181,8 +181,8 @@
 
 不要求相应技能先前熟练的专精来源包括：
 
-- [岩侏儒](Gnome.md#Rock_gnome "Gnome")在[历史的](History.md "History")上的专精
-- [知识领域](Knowledge_Domain.md "Knowledge Domain")[牧师](Cleric.md "Cleric")在 1 级时选择以下两项技能的专精：[奥秘](Arcana.md "Arcana")、[历史的](History.md "History")、[自然](Nature.md "Nature")或[宗教](Religion.md "Religion")
+- [岩侏儒](Gnome.md#Rock_gnome "Gnome")在[历史](History.md "History")上的专精
+- [知识领域](Knowledge_Domain.md "Knowledge Domain")[牧师](Cleric.md "Cleric")在 1 级时选择以下两项技能的专精：[奥秘](Arcana.md "Arcana")、[历史](History.md "History")、[自然](Nature.md "Nature")或[宗教](Religion.md "Religion")
 - 来自[演员](Actor.md "Actor")专长的[欺瞒](Deception.md "Deception")和[表演](Performance.md "Performance")专精
 - 来自[灵吸怪专精](Illithid_Expertise.md "Illithid Expertise")特性的[欺瞒](Deception.md "Deception")、[威吓](Intimidation.md "Intimidation")和[游说](Persuasion.md "Persuasion")专精
 
@@ -191,7 +191,7 @@
 **自动掷骰**
 某些属性检定是自动进行的。例如，当生物接近陷阱时，会掷[察觉技能](Perception.md "Perception")检定以确定他们是否注意到它。察觉技能是感知技能，因此生物会将其感知调整值以及（如果熟练察觉技能）其熟练项加值加到属性检定中。
 **在对话中**
-属性检定在对话中也很常见，一些回应需要属性检定来决定结果。例如使用魅力技能如[游说](Persuasion.md "Persuasion")、[欺瞒](Deception.md "Deception")或[威吓](Intimidation.md "Intimidation")来影响他人，或使用智力技能如[奥秘](Arcana.md "Arcana")、[历史的](History.md "History")或[宗教](Religion.md "Religion")来确定或回忆事实。在这些检定之前，屏幕底部会出现一个标有“添加奖励”的按钮，<sup>[\[4\]](#cite_note-4)</sup> 允许玩家角色和其他队伍成员自由使用可用的法术和消耗品来授予检定奖励。在与物体互动时进行属性检定时（例如解除陷阱或开锁）也可以这样做。
+属性检定在对话中也很常见，一些回应需要属性检定来决定结果。例如使用魅力技能如[游说](Persuasion.md "Persuasion")、[欺瞒](Deception.md "Deception")或[威吓](Intimidation.md "Intimidation")来影响他人，或使用智力技能如[奥秘](Arcana.md "Arcana")、[历史](History.md "History")或[宗教](Religion.md "Religion")来确定或回忆事实。在这些检定之前，屏幕底部会出现一个标有“添加奖励”的按钮，<sup>[\[4\]](#cite_note-4)</sup> 允许玩家角色和其他队伍成员自由使用可用的法术和消耗品来授予检定奖励。在与物体互动时进行属性检定时（例如解除陷阱或开锁）也可以这样做。
 **对抗**
 对抗是一种情况，其中两个生物都进行掷骰，掷骰结果更好的一方获胜。也可以说一个生物进行掷骰以确定另一个生物掷骰的[难度等级](Difficulty_Class.md "Difficulty Class")。例如，在[躲藏](Hide.md "躲藏")时攻击，此时目标掷察觉技能检定，攻击者掷隐匿技能检定与之对抗。
 这可能还涉及[被动检定](Passive_check.md "Passive check")而不是主动掷骰。例如，一个隐藏的玩家角色在非盟友生物的视线内，必须进行隐匿技能检定，与该生物的被动察觉技能分数对抗。另一个例子是尝试[推击](Shove.md "推击")或[投掷](Throw.md "Throw")一个生物，此时尝试的生物掷[运动](Athletics.md "Athletics")检定，与该生物的被动运动或[体操](Acrobatics.md "Acrobatics")分数（取较高者）对抗。
@@ -362,7 +362,7 @@
 | [魅力](Charisma.md "Charisma") | [欺瞒](Deception.md "Deception") [威吓](Intimidation.md "Intimidation") [表演](Performance.md "Performance") [游说](Persuasion.md "Persuasion") |
 | [体质](Constitution.md "Constitution") | 无 |
 | [敏捷](Dexterity.md "Dexterity") | [体操](Acrobatics.md "Acrobatics") [巧手](Sleight_of_Hand.md "Sleight of Hand") [隐匿](Stealth.md "Stealth") |
-| [智力](Intelligence.md "Intelligence") | [奥秘](Arcana.md "Arcana") [历史的](History.md "History") [调查](Investigation.md "Investigation") [自然](Nature.md "Nature") [宗教](Religion.md "Religion") |
+| [智力](Intelligence.md "Intelligence") | [奥秘](Arcana.md "Arcana") [历史](History.md "History") [调查](Investigation.md "Investigation") [自然](Nature.md "Nature") [宗教](Religion.md "Religion") |
 | [力量](Strength.md "Strength") | [运动](Athletics.md "Athletics") |
 | [感知](Wisdom.md "Wisdom") | [驯兽](Animal_Handling.md "Animal Handling") [洞悉](Insight.md "Insight") [医药](Medicine.md "Medicine") [察觉技能](Perception.md "Perception") [求生](Survival.md "Survival") |
 

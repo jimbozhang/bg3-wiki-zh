@@ -1,6 +1,6 @@
 # 闪亮的碎颅锤
 
-闪亮的碎颅锤是一把不常见的+1 [轻锤](Light_Hammers.md "轻锤")，能在使用者周围散发[光](Light_(Condition)的半径.md)。
+闪亮的碎颅锤是一把不常见的+1 [轻锤](Light_Hammers.md "轻锤")，能在使用者周围散发[光](Light_(Condition).md)的半径。
 
 要了解善的工具如何被用于邪恶目的，只需看看堕落的圣武士、灾祸术的冠军——希露亚·暗望（Scyllua Darkhope）。
 

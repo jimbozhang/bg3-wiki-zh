@@ -20,7 +20,7 @@
 
 ## 用法
 
-- 被小队成员或[俄耳甫斯](Orpheus.md "俄耳甫斯")[吞噬](consumed.md "吞噬")，以成为[完整的灵吸怪](Full-illithid.md "完整的灵吸怪")。
+- 被小队成员或[俄耳甫斯](Orpheus.md "俄耳甫斯")吞噬，以成为[完整的灵吸怪](Full-illithid.md "完整的灵吸怪")。
 
 ---
 *Source: [Supreme Tadpole](https://bg3.wiki/wiki/Supreme_Tadpole)*

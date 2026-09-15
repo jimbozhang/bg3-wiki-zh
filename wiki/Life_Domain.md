@@ -37,7 +37,7 @@ _此副职获得其基础职业[牧师](Cleric.md "牧师")的所有特性，以
 你获得来自领域的法术。它们是[总是准备好的](Spells.md#Known_Spells "法术")。
 
 - [支援术](Aid.md "支援术")
-- [恢复](Lesser_Restoration.md "恢复")
+- [次级复原术](Lesser_Restoration.md "恢复")
 
 ### 等级 5
 

@@ -4,13 +4,13 @@
 
 ## 描述
 
-当一个[豺狼人](Gnoll.md "豺狼人")通过[近战](melee.md "近战")[击倒](Downed_(Condition).md "倒地 (状态)")一个生物时，该豺狼人可以使用一个[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半，并进行一次啃咬攻击。
+当一个[豺狼人](Gnoll.md "豺狼人")通过[近战](List_of_melee_weapons.md "近战")[击倒](Downed_(Condition).md "倒地 (状态)")一个生物时，该豺狼人可以使用一个[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半，并进行一次啃咬攻击。
 
 ## 状态：横冲直撞
 
 **[横冲直撞](Rampage_(Condition).md "横冲直撞 (状态)")**
 
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
 - 当豺狼人在其驱散内通过近战攻击击倒一个生物时，它会恢复1个附赠动作和一半的[移动速度](Movement_speed.md "移动速度")。
 
@@ -22,7 +22,7 @@
 
 ## 简要预览
 
-当通过[近战](melee.md "近战")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
+当通过[近战](List_of_melee_weapons.md "近战")[击倒](Downed_(Condition).md) 一个生物时，可以使用[附赠动作](Bonus_action.md "附赠动作")移动至多其[移动速度](Movement_speed.md "移动速度")的一半并[啃咬](Bite_(Gnoll).md)。
 
 ---
 *Source: [Rampage](https://bg3.wiki/wiki/Rampage)*

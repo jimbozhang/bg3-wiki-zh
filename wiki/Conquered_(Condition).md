@@ -2,7 +2,7 @@
 
 **征服**
 
-- 如果处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态，受影响实体在施法者3米（10英尺）范围内开始其[驱散](Turn.md "驱散")时，会受到5点[心灵](Psychic.md "心灵")[伤害](Damage.md "伤害")。
+- 如果处于[恐慌](Frightened_(Condition).md "恐慌 (状态)")状态，受影响实体在施法者3米（10英尺）范围内开始其[驱散](Turned_(Condition).md "驱散")时，会受到5点[心灵](Psychic.md "心灵")[伤害](Damage.md "伤害")。
 
 ## 备注
 

@@ -30,7 +30,7 @@
 
 持续时间：10 驱散
 
-[力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[力量](Strength.md "Strength") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 无法移动。
 - 对该生物的[攻击掷骰](Attack_roll.md "Attack Roll")具有[优势](Advantage.md "Advantage")，而该生物的攻击掷骰和[敏捷](Dexterity.md "Dexterity") [豁免检定](Saving_throw.md "Saving Throw")掷骰具有[劣势](Disadvantage.md "Disadvantage")。

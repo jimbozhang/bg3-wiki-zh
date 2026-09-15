@@ -2,7 +2,7 @@
 
 **智力**是一个[属性值](Ability_Score.md "属性值")，也是[法师](Wizard.md "法师")的主属性。
 
-智力影响你的[奥秘](Arcana.md "奥秘")、[历史的](History.md "历史的")、[调查](Investigation.md "调查")、[自然](Nature.md "自然")和[宗教](Religion.md "宗教")技能。它还通过提高法术攻击掷骰命中敌人的几率，以及提高具有[豁免检定](Saving_throw.md "豁免检定")的法术的[难度等级](Difficulty_Class.md "难度等级")，来改善法师、[战士](Fighter.md "战士")（对[奥法骑士](Eldritch_Knight.md "奥法骑士")有用）和[游荡者](Rogues.md "游荡者")（对[诡术师](Arcane_Trickster.md "诡术师")有用）的施法效果。此外，它还增加了法师预备法术的最大数量。
+智力影响你的[奥秘](Arcana.md "奥秘")、[历史](History.md "历史")、[调查](Investigation.md "调查")、[自然](Nature.md "自然")和[宗教](Religion.md "宗教")技能。它还通过提高法术攻击掷骰命中敌人的几率，以及提高具有[豁免检定](Saving_throw.md "豁免检定")的法术的[难度等级](Difficulty_Class.md "难度等级")，来改善法师、[战士](Fighter.md "战士")（对[奥法骑士](Eldritch_Knight.md "奥法骑士")有用）和[游荡者](Rogues.md "游荡者")（对[诡术师](Arcane_Trickster.md "诡术师")有用）的施法效果。此外，它还增加了法师预备法术的最大数量。
 
 > “
 >

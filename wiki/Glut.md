@@ -85,7 +85,7 @@
 
 在阳光下时，在[属性检定](Ability_Check.md "属性检定")、[攻击掷骰](Attack_rolls.md "攻击掷骰")和[豁免检定](Saving_throws.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 
-**蕈人王格拉特**是[蕈人](Myconid.md "蕈人")和[附属追随者](Attached_Follower.md "附属追随者")。它是[灰矮人](Duergar.md "灰矮人")对其[蕈人圆环](Myconid_Circle.md "蕈人圆环")发动袭击后的唯一幸存者，现在在[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")——幽暗地域的一个蕈人聚居地——避难。
+**蕈人王格拉特**是[蕈人](Myconid.md "蕈人")和[附属追随者](Attached_Follower.md "附属追随者")。它是[灰矮人](Duergar.md "灰矮人")对其[蕈人圆环](Resistances.md "蕈人圆环")发动袭击后的唯一幸存者，现在在[黑檀湖洞穴](Ebonlake_Grotto.md "黑檀湖洞穴")——幽暗地域的一个蕈人聚居地——避难。
 
 > “
 >

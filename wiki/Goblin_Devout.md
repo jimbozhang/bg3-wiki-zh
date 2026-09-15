@@ -104,7 +104,7 @@
 
 - [哭泣](Cry.md "哭泣")
 - [梅兹卡](Mezzka.md "梅兹卡")
-- [Mrak](Mrak.md "Mrak")
+- [姆拉克](Mrak.md "Mrak")
 - [穆祖尔](Muzul.md "穆祖尔")
 - [黄蜂](Wasp.md "黄蜂")
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-每当您[燃烧](Burning_(Condition).md "燃烧 (状态)")敌人时，您获得2[驱散](Turn.md "驱散")的[灼热](Heat_(Condition).md "灼热 (状态)")。
+每当您[燃烧](Burning_(Condition).md "燃烧 (状态)")敌人时，您获得2[驱散](Turned_(Condition).md "驱散")的[灼热](Heat_(Condition).md "灼热 (状态)")。
 
 ## 状态：灼热
 

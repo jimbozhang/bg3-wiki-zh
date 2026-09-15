@@ -29,7 +29,7 @@
 
 持续时间：10回合
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 受影响实体无法[移动](Movement_speed.md "移动速度")或进行[动作](Action.md "动作")、[附赠动作](Bonus_action.md "附赠动作")或[反应](Reaction.md "反应")。
 - 对该实体的攻击自动成功其[攻击掷骰](Attack_roll.md "攻击掷骰")。

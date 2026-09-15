@@ -16,7 +16,7 @@
 
 详情
 近战徒手[攻击掷骰](Attack_roll.md "攻击掷骰")
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5米（5英尺）
 
 ## 状态：醉酒

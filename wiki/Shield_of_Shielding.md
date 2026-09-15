@@ -1,6 +1,6 @@
 # 屏蔽护盾
 
-屏蔽护盾是一个稀有[盾牌](Shields.md "Shields")，允许穿戴者施放[护盾术](Shield_(spell)并使.md)用[盾牌猛击](Shield_Bash.md "盾牌猛击")。
+屏蔽护盾是一个稀有[盾牌](Shields.md "Shields")，允许穿戴者施放[护盾术](Shield_(spell).md)并使用[盾牌猛击](Shield_Bash.md "盾牌猛击")。
 
 其命名风格源自极度缺乏想象力的吉米，这位地理学家兼室内装潢师曾命名过“瀑布”和“壁炉”。
 

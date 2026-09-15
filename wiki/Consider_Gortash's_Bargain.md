@@ -1,6 +1,6 @@
 # 考虑戈塔什的提议
 
-**考虑戈塔什的提议**是[博德之门3](Baldur's Gate_3.md "博德之门3")中[第三幕](Act_Three.md "第三幕")[任务](Quest.md "任务")[拿到戈塔什的耐色石](Get_Gortash's_Netherstone.md "拿到戈塔什的耐色石")的一个子任务。可以通过在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")上层的观众厅与[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")对话来启动。
+**考虑戈塔什的提议**是[博德之门3](Baldur's_Gate_3.md "博德之门3")中[第三幕](Act_Three.md "第三幕")[任务](Quest.md "任务")[拿到戈塔什的耐色石](Get_Gortash's_Netherstone.md "拿到戈塔什的耐色石")的一个子任务。可以通过在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")上层的观众厅与[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")对话来启动。
 
 ## 目录
 

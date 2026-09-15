@@ -1,6 +1,6 @@
 # 狂野魔法：雾
 
-**狂野魔法：雾**是[狂野魔法术士](Wild_Magic_(sorcerer_subclass)的自由动作.md)，当由[狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法（被动特性）")掷骰触发时随机使用；它允许他们自发地在自身周围创造一团[雾](Fog.md "雾")，该雾会[目盲](Blinded_(Condition)其中的每个生物.md)。
+**狂野魔法：雾**是[狂野魔法术士](Wild_Magic_(sorcerer_subclass).md)的自由动作，当由[狂野魔法](Wild_Magic_(passive_feature).md "狂野魔法（被动特性）")掷骰触发时随机使用；它允许他们自发地在自身周围创造一团[雾](Fog.md "雾")，该雾会[目盲](Blinded_(Condition).md)其中的每个生物。
 
 ## 描述
 

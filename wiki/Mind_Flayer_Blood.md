@@ -14,7 +14,7 @@
 
 ## 交互
 
-- 当暴露于寒冷伤害时，会冻结成 [冰](Ice_(surface).md "冰（地表）")。持续时间：2 [驱散](Turn.md "驱散") 后，融化成 [水](Water_(surface).md "水（地表）")。
+- 当暴露于寒冷伤害时，会冻结成 [冰](Ice_(surface).md "冰（地表）")。持续时间：2 [驱散](Turned_(Condition).md "驱散") 后，融化成 [水](Water_(surface).md "水（地表）")。
 
 ## 备注
 

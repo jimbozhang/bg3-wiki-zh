@@ -103,7 +103,7 @@
 
 卡尔丹尼守卫着翠绿林地的大门。如果队伍成员与她互动，她会评论说她本希望他们是[哈尔辛](Halsin.md "哈尔辛")。
 
-如果队伍在解决[卡哈](Kagha.md "卡哈")的仪式[荆棘仪式](Rite_of_Thorns_(ritual)之前前.md)往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林们将被驱逐出翠绿林地，卡尔丹尼的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥梁附近的难民堆中找到。
+如果队伍在解决[卡哈](Kagha.md "卡哈")的仪式[荆棘仪式](Rite_of_Thorns_(ritual).md)之前前往[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")或[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")，提夫林们将被驱逐出翠绿林地，卡尔丹尼的尸体可以在通往[染疫村落](Blighted_Village.md "染疫村落")的桥梁附近的难民堆中找到。
 
 ### 第二幕
 

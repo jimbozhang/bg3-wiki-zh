@@ -29,7 +29,7 @@
 
 ## 简要预览
 
-可以[魅惑](Charmed_(Condition)攻击的敌人.md)，阻止其在下个回合前进行进一步攻击。
+可以[魅惑](Charmed_(Condition).md)攻击的敌人，阻止其在下个回合前进行进一步攻击。
 
 ---
 *Source: [Charm](https://bg3.wiki/wiki/Charm)*

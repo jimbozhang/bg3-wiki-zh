@@ -15,7 +15,7 @@
 3d8 + 4⁠[穿刺](Piercing.md "穿刺")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功时：目标仍承受全额伤害。)
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功时：目标仍承受全额伤害。)
 范围：9米（30英尺）锥形
 
 ## 状态：流血
@@ -24,7 +24,7 @@
 
 持续时间：2回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 生物每回合开始时受到2⁠⁠[挥砍](Slashing.md "挥砍")[伤害机制](Damage_rider_as_source.md "伤害机制")伤害，并且在[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 通过治疗移除。
@@ -35,7 +35,7 @@
 
 持续时间：2回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 在[属性检定](Ability_Check.md "属性检定")和[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 - 必须逃离恐惧来源，且无法采取任何额外动作。
@@ -51,7 +51,7 @@
 
 ## 错误
 
-- 杀戮者动作的[法术豁免DC](Spell_save_DC.md "法术豁免DC")使用你首次获得一级时的最后职业的[施法关键属性](Spells.md#Spellcasting_ability "施法关键属性")，但使用杀戮者的属性值。由于杀戮者的精神属性值较低，这导致DC非常低。具体而言，战士、游荡者、法师、牧师、德鲁伊、武僧和游侠在杀戮者形态下，智力或感知的施法调整值为+0，而野蛮人、吟游诗人、圣武士、术士和邪术师在杀戮者形态下，魅力的施法调整值为-1。
+- 杀戮者动作的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")使用你首次获得一级时的最后职业的[施法关键属性](Spells.md#Spellcasting_ability "施法关键属性")，但使用杀戮者的属性值。由于杀戮者的精神属性值较低，这导致DC非常低。具体而言，战士、游荡者、法师、牧师、德鲁伊、武僧和游侠在杀戮者形态下，智力或感知的施法调整值为+0，而野蛮人、吟游诗人、圣武士、术士和邪术师在杀戮者形态下，魅力的施法调整值为-1。
 
 ---
 *Source: [Piercing Growl](https://bg3.wiki/wiki/Piercing_Growl)*

@@ -15,7 +15,7 @@
 3d10 + [施法调整值](Spells.md#Spellcasting_ability "施法调整值")⁠[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功时：目标仍承受一半伤害。)
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功时：目标仍承受一半伤害。)
 范围效果：50米（167英尺）半径
 拉动：9米（30英尺）
 

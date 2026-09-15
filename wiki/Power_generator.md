@@ -123,7 +123,7 @@
 
 该层只能通过恢复的电梯或飞行进入。到达该层时，会触发与[伯纳德](Bernard.md "Bernard")的对话，他正与一群[活化护甲](Animated_Armour.md "Animated Armour")一起在电梯旁守卫。
 
-伯纳德只用诗歌说话，散落在奥法高塔各处的诗句作为他的各种指令短语。在第一次见面时，如果队伍阅读了[通向黑暗之路](The_Roads_to_Darkness.md "The_Roads_to_Darkness")，他们可以用_“或是友人，将我从孤独的守夜中拯救？”_回应，这可以防止伯纳德变得敌对并攻击。在所有职业中，只有[吟游诗人](Bard.md "Bard")可以在此处进行被动 DC 18 [历史的](History.md "History") [属性检定](Ability_Check.md "属性检定")，如果成功，他们会记住正确的诗句来继续诗节。成功安抚伯纳德会为队伍提供 50 点经验值，并为任何具有[艺人](Entertainer.md "Entertainer")背景的队伍成员赢得[创作者之心](Entertainer.md#Heart_of_the_Creator "Entertainer")激励事件。
+伯纳德只用诗歌说话，散落在奥法高塔各处的诗句作为他的各种指令短语。在第一次见面时，如果队伍阅读了[通向黑暗之路](The_Roads_to_Darkness.md "The_Roads_to_Darkness")，他们可以用_“或是友人，将我从孤独的守夜中拯救？”_回应，这可以防止伯纳德变得敌对并攻击。在所有职业中，只有[吟游诗人](Bard.md "Bard")可以在此处进行被动 DC 18 [历史](History.md "History") [属性检定](Ability_Check.md "属性检定")，如果成功，他们会记住正确的诗句来继续诗节。成功安抚伯纳德会为队伍提供 50 点经验值，并为任何具有[艺人](Entertainer.md "Entertainer")背景的队伍成员赢得[创作者之心](Entertainer.md#Heart_of_the_Creator "Entertainer")激励事件。
 
 之后，根据他们阅读的内容，队伍可以使用几个对话选项/指令与伯纳德互动（参见[#伯纳德的指令](#bernard's-commands)）。
 

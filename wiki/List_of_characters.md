@@ -28,7 +28,7 @@
 - [影心](Shadowheart.md)
 - [威尔](Wyll.md)
 - [邪念](The_Dark_Urge.md)
-- [origin](The_Dark_Urge_(origin).md)
+- [邪念 (出身)](The_Dark_Urge_(origin).md)
 - [哈尔辛](Halsin.md)
 - [贾希拉](Jaheira.md)
 - [明斯克](Minsc.md)
@@ -46,7 +46,7 @@
 - [影心](Shadowheart.md)
 - [威尔](Wyll.md)
 - [邪念](The_Dark_Urge.md)
-- [origin](The_Dark_Urge_(origin).md)
+- [邪念 (出身)](The_Dark_Urge_(origin).md)
 
 **非起源**
 
@@ -70,7 +70,7 @@
 - [影心](Shadowheart.md)
 - [威尔](Wyll.md)
 - [邪念](The_Dark_Urge.md)
-- [origin](The_Dark_Urge_(origin).md)
+- [邪念 (出身)](The_Dark_Urge_(origin).md)
 
 **非起源**
 
@@ -797,14 +797,14 @@
 - [基尔兹](Kirz.md)
 - [克拉加](Klagga.md)
 - [克罗拉](Krolla.md)
-- [Mirg](Mirg.md)
-- [Mrak](Mrak.md)
+- [米尔格](Mirg.md)
+- [姆拉克](Mrak.md)
 - [穆祖尔](Muzul.md)
 - [纳斯](Nass.md)
 - [尼姆](Neem.md)
 - [尼克-努克](Nik-Nuk.md)
 - [诺兹克](Nozk.md)
-- [Nrog](Nrog.md)
+- [诺罗格](Nrog.md)
 - [奥拉克](Olak.md)
 - [皮多](Piddle.md)
 - [普拉格](Plagg.md)
@@ -821,12 +821,12 @@
 - [谢克特](Shekt.md)
 - [斯拉克](Sluck.md)
 - [斯纳德](Snurd.md)
-- [Spike](Spike.md)
+- [斯派克](Spike.md)
 - [斯格鲁特](Skrut.md)
-- [Sul](Sul_(goblin).md)
+- [苏尔（地精）](Sul_(goblin).md)
 - [塔克](Tak.md)
 - [微型](Tiny_(Goblin).md)
-- [Tizg](Tizg.md)
+- [蒂兹格](Tizg.md)
 - [托扎德](Tozad.md)
 - [特林扎斯](Trinzas.md)
 - [图德](Tud.md)
@@ -910,14 +910,14 @@
 - [基尔兹](Kirz.md)
 - [克拉加](Klagga.md)
 - [克罗拉](Krolla.md)
-- [Mirg](Mirg.md)
-- [Mrak](Mrak.md)
+- [米尔格](Mirg.md)
+- [姆拉克](Mrak.md)
 - [穆祖尔](Muzul.md)
 - [纳斯](Nass.md)
 - [尼姆](Neem.md)
 - [尼克-努克](Nik-Nuk.md)
 - [诺兹克](Nozk.md)
-- [Nrog](Nrog.md)
+- [诺罗格](Nrog.md)
 - [奥拉克](Olak.md)
 - [皮多](Piddle.md)
 - [普拉格](Plagg.md)
@@ -934,12 +934,12 @@
 - [谢克特](Shekt.md)
 - [斯拉克](Sluck.md)
 - [斯纳德](Snurd.md)
-- [Spike](Spike.md)
+- [斯派克](Spike.md)
 - [斯格鲁特](Skrut.md)
-- [Sul](Sul_(goblin).md)
+- [苏尔（地精）](Sul_(goblin).md)
 - [塔克](Tak.md)
 - [微型](Tiny_(Goblin).md)
-- [Tizg](Tizg.md)
+- [蒂兹格](Tizg.md)
 - [托扎德](Tozad.md)
 - [特林扎斯](Trinzas.md)
 - [图德](Tud.md)
@@ -1040,14 +1040,14 @@
 - [基尔兹](Kirz.md)
 - [克拉加](Klagga.md)
 - [克罗拉](Krolla.md)
-- [Mirg](Mirg.md)
-- [Mrak](Mrak.md)
+- [米尔格](Mirg.md)
+- [姆拉克](Mrak.md)
 - [穆祖尔](Muzul.md)
 - [纳斯](Nass.md)
 - [尼姆](Neem.md)
 - [尼克-努克](Nik-Nuk.md)
 - [诺兹克](Nozk.md)
-- [Nrog](Nrog.md)
+- [诺罗格](Nrog.md)
 - [奥拉克](Olak.md)
 - [皮多](Piddle.md)
 - [普拉格](Plagg.md)
@@ -1064,12 +1064,12 @@
 - [谢克特](Shekt.md)
 - [斯拉克](Sluck.md)
 - [斯纳德](Snurd.md)
-- [Spike](Spike.md)
+- [斯派克](Spike.md)
 - [斯格鲁特](Skrut.md)
-- [Sul](Sul_(goblin).md)
+- [苏尔（地精）](Sul_(goblin).md)
 - [塔克](Tak.md)
 - [微型](Tiny_(Goblin).md)
-- [Tizg](Tizg.md)
+- [蒂兹格](Tizg.md)
 - [托扎德](Tozad.md)
 - [特林扎斯](Trinzas.md)
 - [图德](Tud.md)
@@ -1172,7 +1172,7 @@
 - [华林](Warryn.md)
 - [艾莉](Ellie.md)
 - [弗朗西斯](Francis.md)
-- [Marcus](Marcus_(dead_fisher).md)
+- [马库斯（死去的渔夫）](Marcus_(dead_fisher).md)
 - [达梅斯](Damays.md)
 - [奈美莎](Nymessa.md)
 - [营地随从](Camp_Followers.md)
@@ -1203,7 +1203,7 @@
 
 - [艾莉](Ellie.md)
 - [弗朗西斯](Francis.md)
-- [Marcus](Marcus_(dead_fisher).md)
+- [马库斯（死去的渔夫）](Marcus_(dead_fisher).md)
 
 **Tiefling Refugees**
 
@@ -1243,7 +1243,7 @@
 
 - [艾莉](Ellie.md)
 - [弗朗西斯](Francis.md)
-- [Marcus](Marcus_(dead_fisher).md)
+- [马库斯（死去的渔夫）](Marcus_(dead_fisher).md)
 
 **Tiefling Refugees**
 
@@ -1427,7 +1427,7 @@
 - [伙伴](Companions.md)
 - [卡菈克](Karlach.md)
 - [焰拳](Flaming_Fist.md)
-- [Aelis](Aelis_(Fist_Recruit).md)
+- [艾丽丝（焰拳新兵）](Aelis_(Fist_Recruit).md)
 - [布莱恩](Bryanne.md)
 - [戴恩](Dain.md)
 - [迪恩](Dion.md)
@@ -1437,7 +1437,7 @@
 - [伊藤](Ito.md)
 - [玛瑞拉](Marilla.md)
 - [帕维尔](Pavel.md)
-- [Rowan](Rowan_(Mountain_Pass).md)
+- [罗恩 (山隘)](Rowan_(Mountain_Pass).md)
 - [特里斯坦](Tristan.md)
 - [韦克斯福德](Wexford.md)
 - [叶娃](Yeva.md)
@@ -1472,9 +1472,9 @@
 - [本里恩](Benryn.md)
 - [艾丽卡](Ellyka.md)
 - [克鲁格](Krug.md)
-- [Marten](Marten_(toll_collector).md)
+- [马滕 (死去的收费员)](Marten_(toll_collector).md)
 - [奥斯卡·费拉斯](Oskar_Fevras.md)
-- [Sszaryn](Sszaryn.md)
+- [萨扎林](Sszaryn.md)
 - [万斯 (死去的收费员)](Vance.md)
 - [尤尔](Yul.md)
 - [臃肿的鬣狗](Bloated_Hyena.md)
@@ -1494,7 +1494,7 @@
 
 **Flaming Fists**
 
-- [Aelis](Aelis_(Fist_Recruit).md)
+- [艾丽丝（焰拳新兵）](Aelis_(Fist_Recruit).md)
 - [布莱恩](Bryanne.md)
 - [戴恩](Dain.md)
 - [迪恩](Dion.md)
@@ -1504,7 +1504,7 @@
 - [伊藤](Ito.md)
 - [玛瑞拉](Marilla.md)
 - [帕维尔](Pavel.md)
-- [Rowan](Rowan_(Mountain_Pass).md)
+- [罗恩 (山隘)](Rowan_(Mountain_Pass).md)
 - [特里斯坦](Tristan.md)
 - [韦克斯福德](Wexford.md)
 - [叶娃](Yeva.md)
@@ -1549,9 +1549,9 @@
 - [本里恩](Benryn.md)
 - [艾丽卡](Ellyka.md)
 - [克鲁格](Krug.md)
-- [Marten](Marten_(toll_collector).md)
+- [马滕 (死去的收费员)](Marten_(toll_collector).md)
 - [奥斯卡·费拉斯](Oskar_Fevras.md)
-- [Sszaryn](Sszaryn.md)
+- [萨扎林](Sszaryn.md)
 - [万斯 (死去的收费员)](Vance.md)
 - [尤尔](Yul.md)
 
@@ -1574,7 +1574,7 @@
 
 **Flaming Fists**
 
-- [Aelis](Aelis_(Fist_Recruit).md)
+- [艾丽丝（焰拳新兵）](Aelis_(Fist_Recruit).md)
 - [布莱恩](Bryanne.md)
 - [戴恩](Dain.md)
 - [迪恩](Dion.md)
@@ -1584,7 +1584,7 @@
 - [伊藤](Ito.md)
 - [玛瑞拉](Marilla.md)
 - [帕维尔](Pavel.md)
-- [Rowan](Rowan_(Mountain_Pass).md)
+- [罗恩 (山隘)](Rowan_(Mountain_Pass).md)
 - [特里斯坦](Tristan.md)
 - [韦克斯福德](Wexford.md)
 - [叶娃](Yeva.md)
@@ -1629,9 +1629,9 @@
 - [本里恩](Benryn.md)
 - [艾丽卡](Ellyka.md)
 - [克鲁格](Krug.md)
-- [Marten](Marten_(toll_collector).md)
+- [马滕 (死去的收费员)](Marten_(toll_collector).md)
 - [奥斯卡·费拉斯](Oskar_Fevras.md)
-- [Sszaryn](Sszaryn.md)
+- [萨扎林](Sszaryn.md)
 - [万斯 (死去的收费员)](Vance.md)
 - [尤尔](Yul.md)
 
@@ -1696,7 +1696,7 @@
 - [达塔尔](Dalthar.md)
 - [德拉尔](Drar.md)
 - [杜诺尔](Dunnol.md)
-- [Elenna Thrinn](Elenna_Thrinn.md)
+- [艾伦娜·斯林](Elenna_Thrinn.md)
 - [弗马拉](Fonmara.md)
 - [格雷蒙](Greymon.md)
 - [格鲁姆](Grumm.md)
@@ -1763,7 +1763,7 @@
 - [达塔尔](Dalthar.md)
 - [德拉尔](Drar.md)
 - [杜诺尔](Dunnol.md)
-- [Elenna Thrinn](Elenna_Thrinn.md)
+- [艾伦娜·斯林](Elenna_Thrinn.md)
 - [弗马拉](Fonmara.md)
 - [格雷蒙](Greymon.md)
 - [格鲁姆](Grumm.md)
@@ -1839,7 +1839,7 @@
 - [达塔尔](Dalthar.md)
 - [德拉尔](Drar.md)
 - [杜诺尔](Dunnol.md)
-- [Elenna Thrinn](Elenna_Thrinn.md)
+- [艾伦娜·斯林](Elenna_Thrinn.md)
 - [弗马拉](Fonmara.md)
 - [格雷蒙](Greymon.md)
 - [格鲁姆](Grumm.md)
@@ -1925,10 +1925,10 @@
 - [菲尔罗](Filro.md)
 - [黑檀湖洞穴](Ebonlake_Grotto.md)
 - [死去的蕈人新芽](Dead_Myconid_Sprout.md)
-- [Duergar Spore Servant (guard caster)](Duergar_Spore_Servant_(guard_caster).md)
-- [Duergar Spore Servant (guard melee)](Duergar_Spore_Servant_(guard_melee).md)
-- [Duergar Spore Servant (patrol melee)](Duergar_Spore_Servant_(patrol_melee).md)
-- [Duergar Spore Servant (ranged)](Duergar_Spore_Servant_(ranged).md)
+- [灰矮人孢子仆从（守卫施法者）](Duergar_Spore_Servant_(guard_caster).md)
+- [灰矮人孢子仆从（近战守卫）](Duergar_Spore_Servant_(guard_melee).md)
+- [灰矮人孢子仆从（巡逻近战）](Duergar_Spore_Servant_(patrol_melee).md)
+- [灰矮人孢子仆从（远程）](Duergar_Spore_Servant_(ranged).md)
 - [恐爪怪孢子奴仆](Hook_Horror_Spore_Servant.md)
 - [苔藓蕈人](Mossy_Myconid.md)
 - [恶臭蕈人](Noxious_Myconid.md)
@@ -1938,7 +1938,7 @@
 - [夏格林](Xargrim.md)
 - [溃烂洞穴](Festering_Cove.md)
 - [波尔](BOOOAL.md)
-- [Kuo-toa](Kuo-toa_(creature).md)
+- [寇涛鱼人 (生物)](Kuo-toa_(creature).md)
 - [猎人鱼人](Kuo-toa_Hunter.md)
 - [普德利普](Pooldripp.md)
 - [卓尔](Drow.md)
@@ -1989,10 +1989,10 @@
 **黑檀湖洞穴**
 
 - [死去的蕈人新芽](Dead_Myconid_Sprout.md)
-- [Duergar Spore Servant (guard caster)](Duergar_Spore_Servant_(guard_caster).md)
-- [Duergar Spore Servant (guard melee)](Duergar_Spore_Servant_(guard_melee).md)
-- [Duergar Spore Servant (patrol melee)](Duergar_Spore_Servant_(patrol_melee).md)
-- [Duergar Spore Servant (ranged)](Duergar_Spore_Servant_(ranged).md)
+- [灰矮人孢子仆从（守卫施法者）](Duergar_Spore_Servant_(guard_caster).md)
+- [灰矮人孢子仆从（近战守卫）](Duergar_Spore_Servant_(guard_melee).md)
+- [灰矮人孢子仆从（巡逻近战）](Duergar_Spore_Servant_(patrol_melee).md)
+- [灰矮人孢子仆从（远程）](Duergar_Spore_Servant_(ranged).md)
 - [恐爪怪孢子奴仆](Hook_Horror_Spore_Servant.md)
 - [苔藓蕈人](Mossy_Myconid.md)
 - [恶臭蕈人](Noxious_Myconid.md)
@@ -2004,7 +2004,7 @@
 **Festering Cove**
 
 - [波尔](BOOOAL.md)
-- [Kuo-toa](Kuo-toa_(creature).md)
+- [寇涛鱼人 (生物)](Kuo-toa_(creature).md)
 - [猎人鱼人](Kuo-toa_Hunter.md)
 - [普德利普](Pooldripp.md)
 
@@ -2064,10 +2064,10 @@
 **黑檀湖洞穴**
 
 - [死去的蕈人新芽](Dead_Myconid_Sprout.md)
-- [Duergar Spore Servant (guard caster)](Duergar_Spore_Servant_(guard_caster).md)
-- [Duergar Spore Servant (guard melee)](Duergar_Spore_Servant_(guard_melee).md)
-- [Duergar Spore Servant (patrol melee)](Duergar_Spore_Servant_(patrol_melee).md)
-- [Duergar Spore Servant (ranged)](Duergar_Spore_Servant_(ranged).md)
+- [灰矮人孢子仆从（守卫施法者）](Duergar_Spore_Servant_(guard_caster).md)
+- [灰矮人孢子仆从（近战守卫）](Duergar_Spore_Servant_(guard_melee).md)
+- [灰矮人孢子仆从（巡逻近战）](Duergar_Spore_Servant_(patrol_melee).md)
+- [灰矮人孢子仆从（远程）](Duergar_Spore_Servant_(ranged).md)
 - [恐爪怪孢子奴仆](Hook_Horror_Spore_Servant.md)
 - [苔藓蕈人](Mossy_Myconid.md)
 - [恶臭蕈人](Noxious_Myconid.md)
@@ -2079,7 +2079,7 @@
 **Festering Cove**
 
 - [波尔](BOOOAL.md)
-- [Kuo-toa](Kuo-toa_(creature).md)
+- [寇涛鱼人 (生物)](Kuo-toa_(creature).md)
 - [猎人鱼人](Kuo-toa_Hunter.md)
 - [普德利普](Pooldripp.md)
 
@@ -2140,8 +2140,8 @@
 **角色**
 
 - [炽念者](Ardent.md)
-- [G'nuril](G'nuril.md)
-- [Jhe'rezath](Jhe'rezath.md)
+- [格努里尔](G'nuril.md)
+- [吉'瑞萨斯](Jhe'rezath.md)
 - [库尔'阿什克](Kur'ashk.md)
 - [林安](Lin'a'an.md)
 - [库斯](Qu'th.md)
@@ -2150,21 +2150,21 @@
 - [法'拉格](Far'aag.md)
 - [乌姆拉克](Umr'a'ac.md)
 - [伊尔鲁](Yy'rul.md)
-- [Warriors](Warrior_(githyanki).md)
+- [吉斯洋基战士](Warrior_(githyanki).md)
 - [布雷拉尔雷斯](Brelal'reth.md)
 - [丘古斯](Ch'guth.md)
 - [伊瑟杜尔](Ith'dul.md)
-- [Qen](Qen.md)
-- [Vu'un](Vu'un.md)
-- [Xon'ar'as](Xon'ar'as.md)
+- [克恩](Qen.md)
+- [武恩](Vu'un.md)
+- [克萨纳拉斯](Xon'ar'as.md)
 - [伊尔克](Yr'rk.md)
 - [掠夺者](Raider.md)
 - [阿达斯](Add'ath.md)
 - [阿胡拉格](Ahu'u'rag.md)
 - [奇拉格](Chy'raagh.md)
-- [G'r'ath](G'r'ath.md)
+- [格拉'特](G'r'ath.md)
 - [赫拉格](Helag.md)
-- [Jy'ir](Jy'ir.md)
+- [吉尔](Jy'ir.md)
 - [基尔拉阿斯](Kyrr'a'ath.md)
 - [拉古尔](Ra'gur.md)
 - [乌恩](Un'n.md)
@@ -2181,7 +2181,7 @@
 - [瓦尔](Varrl.md)
 - [维斯基尔](Vis'kiir.md)
 - [扎拉阿斯](Zar'a'ath.md)
-- [Children](Githyanki_(Faction).md)
+- [吉斯洋基人（阵营）](Githyanki_(Faction).md)
 - [加纳'安](Gha'an.md)
 - [杰鲁斯](Jheruth.md)
 - [凯'达斯](Kyr'das.md)
@@ -2204,12 +2204,12 @@
 - [乌尔'乌特](Ur'uth.md)
 - [维拉基斯](Vlaakith.md)
 - [瓦尔'戈兹](W'wargaz.md)
-- [Xavier](Xavier.md)
+- [泽维尔](Xavier.md)
 
 **Ardents**
 
-- [G'nuril](G'nuril.md)
-- [Jhe'rezath](Jhe'rezath.md)
+- [格努里尔](G'nuril.md)
+- [吉'瑞萨斯](Jhe'rezath.md)
 - [库尔'阿什克](Kur'ashk.md)
 - [林安](Lin'a'an.md)
 - [库斯](Qu'th.md)
@@ -2226,9 +2226,9 @@
 - [布雷拉尔雷斯](Brelal'reth.md)
 - [丘古斯](Ch'guth.md)
 - [伊瑟杜尔](Ith'dul.md)
-- [Qen](Qen.md)
-- [Vu'un](Vu'un.md)
-- [Xon'ar'as](Xon'ar'as.md)
+- [克恩](Qen.md)
+- [武恩](Vu'un.md)
+- [克萨纳拉斯](Xon'ar'as.md)
 - [伊尔克](Yr'rk.md)
 
 **Raiders**
@@ -2236,9 +2236,9 @@
 - [阿达斯](Add'ath.md)
 - [阿胡拉格](Ahu'u'rag.md)
 - [奇拉格](Chy'raagh.md)
-- [G'r'ath](G'r'ath.md)
+- [格拉'特](G'r'ath.md)
 - [赫拉格](Helag.md)
-- [Jy'ir](Jy'ir.md)
+- [吉尔](Jy'ir.md)
 - [基尔拉阿斯](Kyrr'a'ath.md)
 - [拉古尔](Ra'gur.md)
 - [乌恩](Un'n.md)
@@ -2287,12 +2287,12 @@
 - [乌尔'乌特](Ur'uth.md)
 - [维拉基斯](Vlaakith.md)
 - [瓦尔'戈兹](W'wargaz.md)
-- [Xavier](Xavier.md)
+- [泽维尔](Xavier.md)
 
 **Ardents**
 
-- [G'nuril](G'nuril.md)
-- [Jhe'rezath](Jhe'rezath.md)
+- [格努里尔](G'nuril.md)
+- [吉'瑞萨斯](Jhe'rezath.md)
 - [库尔'阿什克](Kur'ashk.md)
 - [林安](Lin'a'an.md)
 - [库斯](Qu'th.md)
@@ -2309,9 +2309,9 @@
 - [布雷拉尔雷斯](Brelal'reth.md)
 - [丘古斯](Ch'guth.md)
 - [伊瑟杜尔](Ith'dul.md)
-- [Qen](Qen.md)
-- [Vu'un](Vu'un.md)
-- [Xon'ar'as](Xon'ar'as.md)
+- [克恩](Qen.md)
+- [武恩](Vu'un.md)
+- [克萨纳拉斯](Xon'ar'as.md)
 - [伊尔克](Yr'rk.md)
 
 **Raiders**
@@ -2319,9 +2319,9 @@
 - [阿达斯](Add'ath.md)
 - [阿胡拉格](Ahu'u'rag.md)
 - [奇拉格](Chy'raagh.md)
-- [G'r'ath](G'r'ath.md)
+- [格拉'特](G'r'ath.md)
 - [赫拉格](Helag.md)
-- [Jy'ir](Jy'ir.md)
+- [吉尔](Jy'ir.md)
 - [基尔拉阿斯](Kyrr'a'ath.md)
 - [拉古尔](Ra'gur.md)
 - [乌恩](Un'n.md)
@@ -2370,7 +2370,7 @@
 - [乌尔'乌特](Ur'uth.md)
 - [维拉基斯](Vlaakith.md)
 - [瓦尔'戈兹](W'wargaz.md)
-- [Xavier](Xavier.md)
+- [泽维尔](Xavier.md)
 
 **Locations**
 
@@ -2399,7 +2399,7 @@
 - [巴萨扎尔](Balthazar.md)
 - [肉肉](Flesh.md)
 - [莱辛多尔](Lyrthindor.md)
-- [Nessa](Nessa.md)
+- [内萨](Nessa.md)
 - [尤格](Yurgir.md)
 
 **Locations**
@@ -2434,7 +2434,7 @@
 - [腥红奥林](Orin.md)
 - [再造奥术师](Reconstituted_Arcanist.md)
 - [皮肤松弛的脑袋](Slack-Skinned_Head.md)
-- [主脑](The_Netherbrain.md)
+- [耐色脑](The_Netherbrain.md)
 - [乌尔德·雷文伽德](Ulder_Ravengard.md)
 - [我们](Us.md)
 - [叶娃](Yeva.md)
@@ -2499,7 +2499,7 @@
 - [法里莫恩](Farimorn.md)
 - [伊昂](Iong.md)
 - [纳莉拉](Nalira.md)
-- [Sul](Sul_(pilgrim).md)
+- [苏尔（朝圣者）](Sul_(pilgrim).md)
 - [泰玛](Taima.md)
 - [至上真神质问者](Absolute_Questioner.md)
 - [贾辛](Jasin.md)
@@ -2512,7 +2512,7 @@
 - [伊欧加](Iogar.md)
 - [克伦](Klen.md)
 - [克里兹特](Krizt.md)
-- [Malik](Malik_(zealot).md)
+- [马利克（狂热信徒）](Malik_(zealot).md)
 - [穆尼什](Munish.md)
 - [纳迪](Nadi.md)
 - [尼拉姆](Niram.md)
@@ -2587,7 +2587,7 @@
 - [法里莫恩](Farimorn.md)
 - [伊昂](Iong.md)
 - [纳莉拉](Nalira.md)
-- [Sul](Sul_(pilgrim).md)
+- [苏尔（朝圣者）](Sul_(pilgrim).md)
 - [泰玛](Taima.md)
 - [至上真神质问者](Absolute_Questioner.md)
 - [贾辛](Jasin.md)
@@ -2600,7 +2600,7 @@
 - [伊欧加](Iogar.md)
 - [克伦](Klen.md)
 - [克里兹特](Krizt.md)
-- [Malik](Malik_(zealot).md)
+- [马利克（狂热信徒）](Malik_(zealot).md)
 - [穆尼什](Munish.md)
 - [纳迪](Nadi.md)
 - [尼拉姆](Niram.md)
@@ -2665,7 +2665,7 @@
 - [法里莫恩](Farimorn.md)
 - [伊昂](Iong.md)
 - [纳莉拉](Nalira.md)
-- [Sul](Sul_(pilgrim).md)
+- [苏尔（朝圣者）](Sul_(pilgrim).md)
 - [泰玛](Taima.md)
 
 **Questioners**
@@ -2682,7 +2682,7 @@
 - [伊欧加](Iogar.md)
 - [克伦](Klen.md)
 - [克里兹特](Krizt.md)
-- [Malik](Malik_(zealot).md)
+- [马利克（狂热信徒）](Malik_(zealot).md)
 - [穆尼什](Munish.md)
 - [纳迪](Nadi.md)
 - [尼拉姆](Niram.md)
@@ -2771,7 +2771,7 @@
 - [法里莫恩](Farimorn.md)
 - [伊昂](Iong.md)
 - [纳莉拉](Nalira.md)
-- [Sul](Sul_(pilgrim).md)
+- [苏尔（朝圣者）](Sul_(pilgrim).md)
 - [泰玛](Taima.md)
 - [至上真神质问者](Absolute_Questioner.md)
 - [贾辛](Jasin.md)
@@ -2784,7 +2784,7 @@
 - [伊欧加](Iogar.md)
 - [克伦](Klen.md)
 - [克里兹特](Krizt.md)
-- [Malik](Malik_(zealot).md)
+- [马利克（狂热信徒）](Malik_(zealot).md)
 - [穆尼什](Munish.md)
 - [纳迪](Nadi.md)
 - [尼拉姆](Niram.md)
@@ -2849,7 +2849,7 @@
 - [法里莫恩](Farimorn.md)
 - [伊昂](Iong.md)
 - [纳莉拉](Nalira.md)
-- [Sul](Sul_(pilgrim).md)
+- [苏尔（朝圣者）](Sul_(pilgrim).md)
 - [泰玛](Taima.md)
 
 **Questioners**
@@ -2866,7 +2866,7 @@
 - [伊欧加](Iogar.md)
 - [克伦](Klen.md)
 - [克里兹特](Krizt.md)
-- [Malik](Malik_(zealot).md)
+- [马利克（狂热信徒）](Malik_(zealot).md)
 - [穆尼什](Munish.md)
 - [纳迪](Nadi.md)
 - [尼拉姆](Niram.md)
@@ -2934,7 +2934,7 @@
 - [法里莫恩](Farimorn.md)
 - [伊昂](Iong.md)
 - [纳莉拉](Nalira.md)
-- [Sul](Sul_(pilgrim).md)
+- [苏尔（朝圣者）](Sul_(pilgrim).md)
 - [泰玛](Taima.md)
 
 **Questioners**
@@ -2951,7 +2951,7 @@
 - [伊欧加](Iogar.md)
 - [克伦](Klen.md)
 - [克里兹特](Krizt.md)
-- [Malik](Malik_(zealot).md)
+- [马利克（狂热信徒）](Malik_(zealot).md)
 - [穆尼什](Munish.md)
 - [纳迪](Nadi.md)
 - [尼拉姆](Niram.md)
@@ -3069,14 +3069,14 @@
 - [瘟疫吟游诗人](Blighted_Troubador.md)
 - [西索博得·索姆](Thisobald_Thorm.md)
 - [阿拉贝尔](Arabella.md)
-- [Cursed Kuo-Toa (melee)](Cursed_Kuo-Toa_(melee).md)
-- [Cursed Kuo-Toa (ranged)](Cursed_Kuo-Toa_(ranged).md)
+- [被诅咒的寇涛鱼人 (近战)](Cursed_Kuo-Toa_(melee).md)
+- [被诅咒的寇涛鱼人 (远程)](Cursed_Kuo-Toa_(ranged).md)
 - [被诅咒的寇涛鱼人首领](Cursed_Kuo-Toa_Chief.md)
 - [柯里拉](Korrilla.md)
 - [拉斐尔](Raphael.md)
 - [影子](Shadow.md)
 
-**Githyanki Ambush**
+**吉斯洋基人伏击**
 
 - [布拉迪伊斯](Bradi'ith.md)
 - [马萨尔](Ma'athal.md)
@@ -3134,14 +3134,14 @@
 **Other**
 
 - [阿拉贝尔](Arabella.md)
-- [Cursed Kuo-Toa (melee)](Cursed_Kuo-Toa_(melee).md)
-- [Cursed Kuo-Toa (ranged)](Cursed_Kuo-Toa_(ranged).md)
+- [被诅咒的寇涛鱼人 (近战)](Cursed_Kuo-Toa_(melee).md)
+- [被诅咒的寇涛鱼人 (远程)](Cursed_Kuo-Toa_(ranged).md)
 - [被诅咒的寇涛鱼人首领](Cursed_Kuo-Toa_Chief.md)
 - [柯里拉](Korrilla.md)
 - [拉斐尔](Raphael.md)
 - [影子](Shadow.md)
 
-**Githyanki Ambush**
+**吉斯洋基人伏击**
 
 - [布拉迪伊斯](Bradi'ith.md)
 - [马萨尔](Ma'athal.md)
@@ -3199,8 +3199,8 @@
 **Other**
 
 - [阿拉贝尔](Arabella.md)
-- [Cursed Kuo-Toa (melee)](Cursed_Kuo-Toa_(melee).md)
-- [Cursed Kuo-Toa (ranged)](Cursed_Kuo-Toa_(ranged).md)
+- [被诅咒的寇涛鱼人 (近战)](Cursed_Kuo-Toa_(melee).md)
+- [被诅咒的寇涛鱼人 (远程)](Cursed_Kuo-Toa_(ranged).md)
 - [被诅咒的寇涛鱼人首领](Cursed_Kuo-Toa_Chief.md)
 - [柯里拉](Korrilla.md)
 - [拉斐尔](Raphael.md)
@@ -3468,7 +3468,7 @@
 - [普尔](Poole.md)
 - [里希特](Richter.md)
 - [岩种](Rockbreed.md)
-- [Rowan](Rowan_(Requisitioned_Barn).md)
+- [罗文 (强制征用的谷仓)](Rowan_(Requisitioned_Barn).md)
 - [西琳娜](Silena.md)
 - [塔拉吉](Taraji.md)
 - [瓦罗内](Varone.md)
@@ -3583,7 +3583,7 @@
 
 **Other**
 
-- [Mind flayer (windmill)](Mind_flayer_(windmill).md)
+- [夺心魔（磨坊）](Mind_flayer_(windmill).md)
 - [柯里拉](Korrilla.md)
 - [腥红奥林](Orin.md)
 - [奎纳拉](Quinara.md)
@@ -3822,7 +3822,7 @@
 - [塔姆](Tamara.md)
 - [苍白汤姆博特](Tomboldt_the_Pallid.md)
 - [乌瓦](Uva.md)
-- [Volgu Drak](Volgu_Drak.md)
+- [沃尔古·德拉克](Volgu_Drak.md)
 - [威洛](Willow.md)
 
 **墓园**
@@ -3978,7 +3978,7 @@
 - [托恩斯·石心](Tongs_Stoneheart.md)
 - [二指里歇尔](Two-Toes_Rischer.md)
 - [万娜·贝尔高兹](Vanra_Bergauz.md)
-- [Verryn](Verryn.md)
+- [维林](Verryn.md)
 - [文·多尔贡](Vin_Dorgo.md)
 - [泽娜](Zena.md)
 
@@ -4213,7 +4213,7 @@
 - [盖恩梅尔](Ghainemeir.md)
 - [哈基姆](Hakeem.md)
 - [伊伦亚](Irenya.md)
-- [Jara](Jara.md)
+- [贾拉](Jara.md)
 - [基拉](Kira.md)
 - [柯里拉](Korrilla.md)
 - [莱拉](Laila.md)
@@ -4297,7 +4297,7 @@
 - [盖恩梅尔](Ghainemeir.md)
 - [哈基姆](Hakeem.md)
 - [伊伦亚](Irenya.md)
-- [Jara](Jara.md)
+- [贾拉](Jara.md)
 - [基拉](Kira.md)
 - [柯里拉](Korrilla.md)
 - [莱拉](Laila.md)
@@ -4386,7 +4386,7 @@
 - [盖恩梅尔](Ghainemeir.md)
 - [哈基姆](Hakeem.md)
 - [伊伦亚](Irenya.md)
-- [Jara](Jara.md)
+- [贾拉](Jara.md)
 - [基拉](Kira.md)
 - [柯里拉](Korrilla.md)
 - [莱拉](Laila.md)
@@ -4440,9 +4440,9 @@
 
 **角色**
 
-- [Banites](Bane_(God).md)
+- [班恩](Bane_(God).md)
 - [艾莎](Aischa.md)
-- [Garmin](Garmin.md)
+- [加明](Garmin.md)
 - [格雷沃德](Greyward.md)
 - [伊格努尔](Ignur.md)
 - [雅克斯博克](Jaxbock.md)
@@ -4456,7 +4456,7 @@
 - [乌洛瓦](Ulova.md)
 - [焰拳](Flaming_Fist.md)
 - [巴克希](Bakshi.md)
-- [Bella](Bella_(Wyrm's_Rock_Fortress).md)
+- [贝拉（飞龙岩要塞）](Bella_(Wyrm's_Rock_Fortress).md)
 - [布里瓦·明月](Breva_Brightmoon.md)
 - [布罗科](Broko.md)
 - [卡拉韦](Callaway.md)
@@ -4534,7 +4534,7 @@
 **Banites**
 
 - [艾莎](Aischa.md)
-- [Garmin](Garmin.md)
+- [加明](Garmin.md)
 - [格雷沃德](Greyward.md)
 - [伊格努尔](Ignur.md)
 - [雅克斯博克](Jaxbock.md)
@@ -4550,7 +4550,7 @@
 **Flaming Fists**
 
 - [巴克希](Bakshi.md)
-- [Bella](Bella_(Wyrm's_Rock_Fortress).md)
+- [贝拉（飞龙岩要塞）](Bella_(Wyrm's_Rock_Fortress).md)
 - [布里瓦·明月](Breva_Brightmoon.md)
 - [布罗科](Broko.md)
 - [卡拉韦](Callaway.md)
@@ -4642,7 +4642,7 @@
 **Banites**
 
 - [艾莎](Aischa.md)
-- [Garmin](Garmin.md)
+- [加明](Garmin.md)
 - [格雷沃德](Greyward.md)
 - [伊格努尔](Ignur.md)
 - [雅克斯博克](Jaxbock.md)
@@ -4658,7 +4658,7 @@
 **Flaming Fists**
 
 - [巴克希](Bakshi.md)
-- [Bella](Bella_(Wyrm's_Rock_Fortress).md)
+- [贝拉（飞龙岩要塞）](Bella_(Wyrm's_Rock_Fortress).md)
 - [布里瓦·明月](Breva_Brightmoon.md)
 - [布罗科](Broko.md)
 - [卡拉韦](Callaway.md)
@@ -4819,7 +4819,7 @@
 - [帮助凯斯拉克百夫长沃斯](Help_Kith'rak_Voss.md)
 - [解救希望](Save_Hope.md)
 - [吉斯洋基战士](The_Githyanki_Warrior.md)
-- [The Githyanki Warrior (Origin)](The_Githyanki_Warrior_(Origin).md)
+- [吉斯洋基战士 (出身)](The_Githyanki_Warrior_(Origin).md)
 
 ---
 *Source: [List of characters](https://bg3.wiki/wiki/List_of_characters)*

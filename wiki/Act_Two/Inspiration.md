@@ -306,7 +306,7 @@ _这些激励点可在整个第二幕中获得。_
 
 ⁠[合适的工具](../Criminal.md#Right_Tool_for_the_Job "罪犯"): 获得护士工具的全部4种变体。[罪犯](../Criminal.md "罪犯")背景。[维'瑞尔·文基](../Ver'yll_Wenkiir.md "维'瑞尔·文基")
 
-注射器、骨锯、手动吸血器和环钻的罕见变体都必须搜刮到。
+注射器、骨锯、手动吸血器和手术圆锯的罕见变体都必须搜刮到。
 ⁠[命运之弦](../Entertainer.md#Strings_of_Fate "艺人"): 将鲁特琴带给阿尔特。[艺人](../Entertainer.md "艺人")背景。[布里娜·明歌](../Brinna_Brightsong.md "布里娜·明歌")
 ⁠[互惠互利](../Noble.md#Favour_for_a_Favour "贵族"): 为顾问弗洛瑞克和焰拳唤醒阿尔特。[贵族](../Noble.md "贵族")背景。[明萨拉](../Minthara.md "明萨拉") [克尔兹](../Kerz.md "克尔兹")
 ⁠[唤醒沉睡者](../Sage.md#Waking_the_Sleeper "学者"): 将阿尔特从昏睡中唤醒。[学者](../Sage.md "学者")背景。[盖尔](../Gale.md "盖尔") [福泽朗普爵士](../Sir_Fuzzalump.md "福泽朗普爵士")
@@ -350,8 +350,8 @@ _这些激励点可在整个第二幕中获得。_
 ⁠[缺乏节制是关键](../Haunted_One.md#Lack_of_Moderation_is_Key "邪念缠身"): 用他自己的酿酒杀死酿酒师。[邪念缠身](../Haunted_One.md "邪念缠身")背景。[邪念](../Dark_Urge.md "邪念")
 
 玩家角色最多可以喝三次，这会杀死西索博得，假装喝一次，然后喝下并抵抗效果。
-⁠[业余笔记](../Criminal.md#Notes_of_an_Amateur "罪犯"): 酿造一些[腹鸣佳酿](../Brewed-Up_Bellyglummer.md "腹鸣佳酿")。[罪犯](../Criminal.md "罪犯")背景。[维'瑞尔·文基](../Ver'yll_Wenkiir.md "维'瑞尔·文基")
-⁠[特制冰砷...酿酒？](../Guild_Artisan.md#Special_Iced_Arsenic..._Brew? "公会工匠"): 酿造一些[腹鸣佳酿](../Brewed-Up_Bellyglummer.md "腹鸣佳酿")。[公会工匠](../Guild_Artisan.md "公会工匠")背景。[杰斯林](../Jacelyn.md "杰斯林")
+⁠[业余笔记](../Criminal.md#Notes_of_an_Amateur "罪犯"): 酿造一些[腹鸣佳酿](../Brewed-Up_Bellyglummer_(Condition).md "腹鸣佳酿")。[罪犯](../Criminal.md "罪犯")背景。[维'瑞尔·文基](../Ver'yll_Wenkiir.md "维'瑞尔·文基")
+⁠[特制冰砷...酿酒？](../Guild_Artisan.md#Special_Iced_Arsenic..._Brew? "公会工匠"): 酿造一些[腹鸣佳酿](../Brewed-Up_Bellyglummer_(Condition).md "腹鸣佳酿")。[公会工匠](../Guild_Artisan.md "公会工匠")背景。[杰斯林](../Jacelyn.md "杰斯林")
 
 ### 雷斯文征税所
 

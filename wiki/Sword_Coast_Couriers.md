@@ -58,7 +58,7 @@
 
 在丹左·阿克赖特后方的橱柜上（X: 15 Y: 12）放着[给雷文伽德公爵的紧急报告](Urgent_Report_for_Duke_Ravengard.md "给雷文伽德公爵的紧急报告")。与邮局中的大多数其他文件一样，它带有红色轮廓，但偷走它可能很有用，因为这是[想办法进入飞龙关](Find_a_way_into_Wyrm's_Rock_fortress.md "想办法进入飞龙关")，从而通过[飞龙关](Wyrm's_Crossing.md "飞龙关")的守卫进入[飞龙关](Wyrm's_Rock_Fortress.md "飞龙关")的方法之一。
 
-丹左办公室里的[通讯簿](Address_Book.md "通讯簿")可以提示一些在利文顿、飞龙关和[下城区](Lower_City.md "下城区")后续流程中会遇到的显要角色，<sup>[\[1\]](#cite_note-1)</sup>而[驿舍派送投诉](Post_House_Delivery_Complaints.md "驿舍派送投诉")的账簿则揭示了[铁烧瓶](Iron_Flake.md "铁烧瓶")（第一幕中发现的故事道具）的最终收件人是谁。
+丹左办公室里的[通讯簿](Address_Book.md "通讯簿")可以提示一些在利文顿、飞龙关和[下城区](Lower_City.md "下城区")后续流程中会遇到的显要角色，<sup>[\[1\]](#cite_note-1)</sup>而[驿舍派送投诉](Post_House_Delivery_Complaints.md "驿舍派送投诉")的账簿则揭示了[铁烧瓶](Iron_Flask.md "铁烧瓶")（第一幕中发现的故事道具）的最终收件人是谁。
 
 ### 信使犬犬舍
 

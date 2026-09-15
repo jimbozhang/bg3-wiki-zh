@@ -18,7 +18,7 @@
 
 - UID `S_CAMP_ZevlorsAppeal_OrinsLetter` UUID `49b3601e-c939-4628-ad90-b2af9e3c0ef1` ## 获取地点
 
-- 如果[赛夫洛](Zevlor.md "赛夫洛")未从[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中被救出，此便条将在[第三章](第三章.md "第三章")期间在[营地](Campsite.md "营地")的[长休](Long_rest.md "长休")时收到。
+- 如果[赛夫洛](Zevlor.md "赛夫洛")未从[夺心魔殖民地](Mind_Flayer_Colony.md "夺心魔殖民地")中被救出，此便条将在[第三章](Act_Three.md "第三章")期间在[营地](Campsite.md "营地")的[长休](Long_rest.md "长休")时收到。
 
 ## 文本
 

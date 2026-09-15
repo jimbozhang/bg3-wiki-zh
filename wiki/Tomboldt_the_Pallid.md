@@ -54,7 +54,7 @@
 
 汤姆博特的桌上有几份文件：[生产日志：炸药](Ledger_of_Production_colon__Explosives.md "生产日志：炸药")和[生产日志：激发器](Ledger_of_Production_colon__Motivators.md "生产日志：激发器")。此外，汤姆博特的口袋里有一张名为[就职报告](Installation_Report.md "就职报告")的便条。这些文件共同提到了[激发器](Motivator.md "激发器")和[钢铁王座](Iron_Throne.md "钢铁王座")，指引队伍前往⁠[解救贡德信徒](Save_the_Gondians.md "解救贡德信徒")任务。
 
-由于⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")任务无法以和平方式最终解决，苍白汤姆博特一注意到任何骚动就会加入战斗，与其他⁠[灾祸](Bane_(God)的追随者一起.md)，并与费洛杰尔烟花铺的其他员工一同攻击队伍。
+由于⁠[调查可疑的玩具](Investigate_the_Suspicious_Toys.md "调查可疑的玩具")任务无法以和平方式最终解决，苍白汤姆博特一注意到任何骚动就会加入战斗，与其他⁠[班恩](Bane_(God).md)的追随者一起，并与费洛杰尔烟花铺的其他员工一同攻击队伍。
 
 ## 语录
 

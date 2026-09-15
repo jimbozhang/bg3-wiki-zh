@@ -3,7 +3,7 @@
 **伊诺胡之馈赠**
 
 - 渴望杀戮。
-- 如果受影响实体在其回合结束前未对敌人造成[伤害](Damage.md "伤害")，则可能陷入[疯狂](Madness_(Condition).md "疯狂 (状态)")状态2[驱散](Turn.md "驱散")。
+- 如果受影响实体在其回合结束前未对敌人造成[伤害](Damage.md "伤害")，则可能陷入[疯狂](Madness_(Condition).md "疯狂 (状态)")状态2[驱散](Madness_(Condition).md "驱散")。
 
 ## 属性
 
@@ -30,7 +30,7 @@ _维基数据库中未定义_
 ## 具有相同堆叠ID的状态
 
 - 渴望杀戮。
-- 如果受影响实体在其回合结束前未对敌人造成[伤害](Damage.md "伤害")，则可能陷入[疯狂](Madness_(Condition).md "疯狂 (状态)")状态2[驱散](Turn.md "驱散")。
+- 如果受影响实体在其回合结束前未对敌人造成[伤害](Damage.md "伤害")，则可能陷入[疯狂](Madness_(Condition).md "疯狂 (状态)")状态2[驱散](Madness_(Condition).md "驱散")。
 
 ---
 *Source: [Yeenoghu's Gift (Condition)](https://bg3.wiki/wiki/Yeenoghu's_Gift_(Condition)*

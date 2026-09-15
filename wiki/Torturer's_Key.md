@@ -16,7 +16,7 @@
 
 - UID `S_GOB_HappyTorturers_Chains_Key` UUID `536107bd-277b-42bb-8eaf-2b787123615c` ## 获取地点
 
-- 由[尖刺](Spike.md "Spike")携带于[地精营地](Goblin_Camp.md "Goblin Camp")
+- 由[斯派克](Spike.md "Spike")携带于[地精营地](Goblin_Camp.md "Goblin Camp")
 
 ## 用途
 

@@ -13,7 +13,7 @@
 消耗
 [附赠动作](Actions.md#Resources "动作") + 6米（20英尺）[移动速度](Resources.md#Movement_speed "资源")
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子检定")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子检定")）
 范围：21米（70英尺）
 充能：每回合
 

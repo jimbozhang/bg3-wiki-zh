@@ -78,7 +78,7 @@
 
 选择导致挠挠攻击然后杀死它的对话选项，对于[复仇之誓](Oath_of_Vengeance.md "复仇之誓")圣武士来说是[破誓行为](Paladin.md#Oaths_and_Oathbreaking "圣武士")。
 
-挠挠搬到小队营地后，可以搜刮格穆维克的尸体，获得他携带的一捆信件。<sup>[\[2\]](#cite_note-2)</sup> 其中一封是[强硬的信](Tough_Letter.md "强硬的信")，其中包含关于藏在标记为“M.Kurwin”的坟墓中的贵重物品的信息。该坟墓可以在[第三幕](Act_Three.md "第三幕")的[下城区墓园](Graveyard_(Lower_City)找到.md)。
+挠挠搬到小队营地后，可以搜刮格穆维克的尸体，获得他携带的一捆信件。<sup>[\[2\]](#cite_note-2)</sup> 其中一封是[强硬的信](Tough_Letter.md "强硬的信")，其中包含关于藏在标记为“M.Kurwin”的坟墓中的贵重物品的信息。该坟墓可以在[第三幕](Act_Three.md "第三幕")的[下城区墓园](Graveyard_(Lower_City).md)找到。
 
 就在遇见挠挠地点的北面，小队可以跳过几块巨石穿过河流，到达悬崖上方沿[晋升之路](Risen_Road.md "晋升之路")的对岸。
 

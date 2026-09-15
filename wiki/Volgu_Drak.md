@@ -1,4 +1,4 @@
-# Volgu Drak
+# 沃尔古·德拉克
 
 | | |
 | --- | --- |
@@ -7,7 +7,7 @@
 | 类型 | [类人生物](Humanoid.md "Humanoid") |
 | 种族 | [人类](Human.md "Human") |
 | 职业 | [牧师](Cleric.md "Cleric") |
-| 神祇 | [灾祸术](Bane_(God).md) |
+| 神祇 | [班恩](Bane_(God).md) |
 
 | | 平衡 | 探索者 | 硬核 |
 | --- | --- | --- | --- |
@@ -37,7 +37,7 @@
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 - [战术铁律](Tactical_Discipline.md "Tactical Discipline")
 
-**灾祸之拳沃尔古·德拉克**是[人类](Human.md "Human")追随者，⁠[灾祸术](Bane_(God)位.md)于[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")的[费洛杰尔烟花铺](Felogyr's_Fireworks.md "Felogyr's Fireworks")二楼的悬崖边。
+**灾祸之拳沃尔古·德拉克**是[人类](Human.md "Human")追随者，⁠[班恩](Bane_(God).md)位于[博德之门](Baldur's_Gate.md "Baldur's Gate")[下城区](Lower_City.md "Lower City")的[费洛杰尔烟花铺](Felogyr's_Fireworks.md "Felogyr's Fireworks")二楼的悬崖边。
 
 > “
 >
@@ -60,7 +60,7 @@
 
 沃尔古·德拉克可以在[费洛杰尔烟花铺](Felogyr's_Fireworks.md "Felogyr's Fireworks")的二楼找到。
 
-费洛杰尔烟花铺的二楼被视为限制区域，因此他和其他实验室工作人员和守卫，如[灾祸之拳海瑞特](Hyrriet.md "Hyrriet")和[林博恩·斯巴格伍德](Limeburn_Sphagwood.md "Limeburn Sphagwood")，一旦看到任何队伍成员在那里，或者与他对话，就会立即变得敌对。此外，一旦他注意到任何骚动，他就会加入战斗，站在⁠[灾祸术](Bane_(God)的其他追随者一边.md)。
+费洛杰尔烟花铺的二楼被视为限制区域，因此他和其他实验室工作人员和守卫，如[灾祸之拳海瑞特](Hyrriet.md "Hyrriet")和[林博恩·斯巴格伍德](Limeburn_Sphagwood.md "Limeburn Sphagwood")，一旦看到任何队伍成员在那里，或者与他对话，就会立即变得敌对。此外，一旦他注意到任何骚动，他就会加入战斗，站在⁠[班恩](Bane_(God).md)的其他追随者一边。
 
 ## 战斗
 

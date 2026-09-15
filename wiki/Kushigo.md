@@ -7,10 +7,10 @@
 | 不羁库席戈之衣 | [护甲](Armour.md "Armour") ([服装](Clothing.md "Clothing")) | [库席戈还击](Kushigo_Counter.md "Kushigo Counter") 当[坚强防御](Patient_Defence_(Condition).md "Patient Defence (Condition)")激活时：穿戴者可以使用其反应对任何未命中的攻击者进行徒手打击。 |
 | 不羁库席戈之靴 | [鞋类](Footwear.md "Footwear") ([非护甲](Footwear#Non-Armour.md#Non-Armour "Footwear")) | [老练毒辣](Experienced_And_Deadly.md "Experienced And Deadly")穿戴者使用徒手打击时，造成等于其[感知](Wisdom.md "Wisdom")调整值的额外伤害。 |
 | 不羁库席戈的手套 | [手套](Gloves.md "Gloves") ([非护甲](Handwear#Non-Armour.md#Non-Armour "Handwear")) | [库席戈之力](Kushigo's_Might.md "Kushigo's Might")穿戴者使用[投掷](Throw.md "Throw")攻击和[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")进行攻击时，造成额外1d4点伤害。 |
-| 不羁库席戈之帽 | [帽子](Headgear.md "Headgear") ([非护甲](Headwear#Non-Armour.md#Non-Armour "Headwear")) | [暴露弱点](Lay_Bare_Their_Weakness.md "Lay Bare Their Weakness")在徒手攻击造成伤害后，穿戴者获得其[法术豁免DC](Spell_save_DC.md "Spell Save DC")的+1加值，直到其回合结束。
+| 不羁库席戈之帽 | [帽子](Headgear.md "Headgear") ([非护甲](Headwear#Non-Armour.md#Non-Armour "Headwear")) | [暴露弱点](Lay_Bare_Their_Weakness.md "Lay Bare Their Weakness")在徒手攻击造成伤害后，穿戴者获得其[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")的+1加值，直到其回合结束。
 
 [暴露弱点](Lay_Bare_Their_Weakness.md "Lay Bare Their Weakness")
-在徒手攻击造成伤害后，穿戴者获得其[法术豁免DC](Spell_save_DC.md "Spell Save DC")的+1加值，直到其回合结束。
+在徒手攻击造成伤害后，穿戴者获得其[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")的+1加值，直到其回合结束。
 
 ## 人物
 
@@ -26,7 +26,7 @@
 | / [不羁库席戈之衣](Armour_of_Uninhibited_Kushigo.md "不羁库席戈之衣")不羁库席戈之衣 | [护甲](Armour.md "Armour") ([服装](Clothing.md "Clothing")) | [库席戈还击](Kushigo_Counter.md "Kushigo Counter") 当[坚强防御](Patient_Defence_(Condition).md "Patient Defence (Condition)")激活时：穿戴者可以使用其反应对任何未命中的攻击者进行徒手打击。 |
 | / [不羁库席戈之靴](Boots_of_Uninhibited_Kushigo.md "不羁库席戈之靴")不羁库席戈之靴 | [鞋类](Footwear.md "Footwear") ([非护甲](Footwear#Non-Armour.md#Non-Armour "Footwear")) | [老练毒辣](Experienced_And_Deadly.md "Experienced And Deadly")穿戴者使用徒手打击时，造成等于其[感知](Wisdom.md "Wisdom")调整值的额外伤害。 |
 | / [不羁库席戈的手套](Gloves_of_Uninhibited_Kushigo.md "不羁库席戈的手套")不羁库席戈的手套 | [手套](Gloves.md "Gloves") ([非护甲](Handwear#Non-Armour.md#Non-Armour "Handwear")) | [库席戈之力](Kushigo's_Might.md "Kushigo's Might")穿戴者使用[投掷](Throw.md "Throw")攻击和[即兴近战武器](Improvised_Melee_Weapon.md "Improvised Melee Weapon")进行攻击时，造成额外1d4点伤害。 |
-| / [不羁库席戈之帽](Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽")不羁库席戈之帽 | [帽子](Headgear.md "Headgear") ([非护甲](Headwear#Non-Armour.md#Non-Armour "Headwear")) | [暴露弱点](Lay_Bare_Their_Weakness.md "Lay Bare Their Weakness")在徒手攻击造成伤害后，穿戴者获得其[法术豁免DC](Spell_save_DC.md "Spell Save DC")的+1加值，直到其回合结束。 |
+| / [不羁库席戈之帽](Hat_of_Uninhibited_Kushigo.md "不羁库席戈之帽")不羁库席戈之帽 | [帽子](Headgear.md "Headgear") ([非护甲](Headwear#Non-Armour.md#Non-Armour "Headwear")) | [暴露弱点](Lay_Bare_Their_Weakness.md "Lay Bare Their Weakness")在徒手攻击造成伤害后，穿戴者获得其[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")的+1加值，直到其回合结束。 |
 
 ## 画廊
 

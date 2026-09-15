@@ -53,7 +53,7 @@
 
 ## 参与
 
-散塔林精灵可通过[召集盟友](召集盟友_(职业动作).md "召集盟友 (职业动作)")的变体[黑色焰拳执法者](Black_Fist_Enforcers.md "黑色焰拳执法者")与[散塔林魅魔](Zhentmodeus.md "散塔林魅魔")和[散塔林半精灵](Zhent_Half-Elven.md "散塔林半精灵")一同被召唤，前提是队伍完成了[协助地下势力](Aid_the_Underduke.md "协助地下势力")并站在[散塔林会](Zentharim.md "散塔林会")一边。她仅在[鱼饵阿诺](Fishbait_Arno.md "鱼饵阿诺")、[斯力克·伊娜塔拉](Slick_Inatra.md "斯力克·伊娜塔拉")、[掘墓人卡森](Gravedigger_Karcen.md "掘墓人卡森")和[菲斯](Feeze.md "菲斯")在耐色脑战斗前死亡时才会出现。
+散塔林精灵可通过[召集盟友](Gather_Your_Allies.md "召集盟友 (职业动作)")的变体[黑色焰拳执法者](Black_Fist_Enforcers.md "黑色焰拳执法者")与[散塔林魅魔](Zhentmodeus.md "散塔林魅魔")和[散塔林半精灵](Zhent_Half-Elven.md "散塔林半精灵")一同被召唤，前提是队伍完成了[协助地下势力](Aid_the_Underduke.md "协助地下势力")并站在[散塔林会](Zentharim.md "散塔林会")一边。她仅在[鱼饵阿诺](Fishbait_Arno.md "鱼饵阿诺")、[斯力克·伊娜塔拉](Slick_Inatra.md "斯力克·伊娜塔拉")、[掘墓人卡森](Gravedigger_Karcen.md "掘墓人卡森")和[菲斯](Phase.md "菲斯")在耐色脑战斗前死亡时才会出现。
 
 ## 战斗
 
@@ -91,7 +91,7 @@
 
 1d6 + 3⁠[穿刺](Piercing.md "穿刺")
 
-造成常规伤害并可能施加[开放伤口](开放伤口_(状态).md "开放伤口 (状态)")，该状态会使攻击造成额外伤害。
+造成常规伤害并可能施加[开放伤口](Gaping_Wounds_(Condition).md "开放伤口 (状态)")，该状态会使攻击造成额外伤害。
 
 [不死生物](Undead.md "不死生物")和[构装生物](Constructs.md "构装生物")无法获得开放伤口状态。
 

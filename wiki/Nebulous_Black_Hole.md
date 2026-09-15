@@ -17,7 +17,7 @@
 3d10 + 4[力场](Force.md "力场")
 
 详情
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：18米（60英尺）
 范围效果：9米（30英尺）半径
 目标：范围内的所有敌人
@@ -28,7 +28,7 @@
 
 持续时间：1驱散
 
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - [移动速度](Movement_speed.md "移动速度")减半
 - [护甲等级](Armour_Class.md "护甲等级")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")降低2点

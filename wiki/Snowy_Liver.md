@@ -4,7 +4,7 @@
 
 ## 描述
 
-当处于 [醉酒](Drunk_(Condition).md "醉酒 (状态)") 状态时，你在进行 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 时具有 [优势](Advantage.md "优势")，并在你的 [驱散](Turn.md "驱散") 开始时获得等于你 [体质](Constitution.md "体质") [调整值](Modifier.md "调整值") 的 [临时生命值](Temporary_Hit_Points.md "临时生命值")。
+当处于 [醉酒](Drunk_(Condition).md "醉酒 (状态)") 状态时，你在进行 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定") 时具有 [优势](Advantage.md "优势")，并在你的 [驱散](Turned_(Condition).md "驱散") 开始时获得等于你 [体质](Constitution.md "体质") [调整值](Modifier.md "调整值") 的 [临时生命值](Temporary_Hit_Points.md "临时生命值")。
 
 ## 如何习得
 

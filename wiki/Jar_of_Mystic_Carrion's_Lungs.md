@@ -18,7 +18,7 @@
 ## 备注
 
 - 即使[秘术师卡里翁](Mystic_Carrion.md "秘术师卡里翁")的其余部分被击败，罐子仍会持续闪烁[黯蚀](Necrotic.md "黯蚀")能量。
-- 当被摧毁时，罐子会[爆炸](Explode.md "爆炸")，并对 4 米 / 13 英尺半径范围内的目标造成 8d6[火焰](Fire.md "火焰")伤害（需通过[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，[难度等级](Difficulty_Class.md "难度等级") 10，以减半伤害）。
+- 当被摧毁时，罐子会爆炸，并对 4 米 / 13 英尺半径范围内的目标造成 8d6[火焰](Fire.md "火焰")伤害（需通过[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")，[难度等级](Difficulty_Class.md "难度等级") 10，以减半伤害）。
 - 如果被直接攻击且攻击者未能摧毁罐子，攻击者将受到 5[黯蚀](Necrotic.md "黯蚀")伤害。
 - 另请参阅：
   - [秘术师卡里翁的脑罐](Jar_of_Mystic_Carrion's_Brain.md "秘术师卡里翁的脑罐")

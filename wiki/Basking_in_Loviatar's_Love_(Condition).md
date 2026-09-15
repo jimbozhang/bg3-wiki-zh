@@ -2,7 +2,7 @@
 
 **沐浴于劳薇塔之爱**
 
-- 你沉醉于痛苦所赋予的清晰。在3[驱散](Turn.md "Turn")内，你的[攻击掷骰](Attack_roll.md "攻击掷骰")和感知[豁免检定](Saving_throw.md "豁免检定")获得+2加值。
+- 你沉醉于痛苦所赋予的清晰。在3[驱散](Turned_(Condition).md "Turn")内，你的[攻击掷骰](Attack_roll.md "攻击掷骰")和感知[豁免检定](Saving_throw.md "豁免检定")获得+2加值。
 
 ## 属性
 
@@ -16,7 +16,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 你沉醉于痛苦所赋予的清晰。在3[驱散](Turn.md "Turn")内，你的[攻击掷骰](Attack_roll.md "攻击掷骰")和感知[豁免检定](Saving_throw.md "豁免检定")获得+2加值。
+- 你沉醉于痛苦所赋予的清晰。在3[驱散](Turned_(Condition).md "Turn")内，你的[攻击掷骰](Attack_roll.md "攻击掷骰")和感知[豁免检定](Saving_throw.md "豁免检定")获得+2加值。
 
 ---
 *Source: [Basking in Loviatar's Love (Condition)](https://bg3.wiki/wiki/Basking_in_Loviatar's_Love_(Condition)*

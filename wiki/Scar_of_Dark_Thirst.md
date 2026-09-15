@@ -10,7 +10,7 @@
 
 **[流血](Bleeding_(Condition).md "Bleeding (Condition)")**
 
-持续时间：2[驱散](Turn.md "Turn")
+持续时间：2[驱散](Turned_(Condition).md "Turn")
 
 [体质](Constitution.md "Constitution") [豁免检定](Saving_throws.md "Saving throws") ([骰子掷骰](DC.md "骰子掷骰") 14)
 

@@ -46,7 +46,7 @@
 
 另见：
 
-- [明智生活之道第四课：城市与如何在其中生存](明智生活之道第四课：城市与如何在其中生存.md "明智生活之道第四课：城市与如何在其中生存")
+- [明智生活之道第四课：城市与如何在其中生存](Lessons_for_Sensible_Living_IV_colon__Cities_and_How_to_Survive_Them.md "明智生活之道第四课：城市与如何在其中生存")
 
 ---
 *Source: [Lessons for Sensible Living XII: Zariel's Fall](https://bg3.wiki/wiki/Lessons_for_Sensible_Living_XII:_Zariel's_Fall)*

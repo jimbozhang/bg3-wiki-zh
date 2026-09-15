@@ -24,7 +24,7 @@
 
 - 职业等级 1：[战士](Fighter.md "战士")
 
-生物使用：[布雷拉尔雷斯](Brelal'reth.md "布雷拉尔雷斯")、[丘古斯](Ch'guth.md "丘古斯")、[多里尔](Dor'il.md "多里尔")、[伊瑟杜尔](Ith'dul.md "伊瑟杜尔")、[库纳鲁斯](Khunaruth.md "库纳鲁斯")、[马阿里克](Ma'aryk.md "马阿里克")、[尼玛 (Ni'ima)](Ni'ima.md "尼玛 (Ni'ima)")、[Qen](Qen.md "Qen")、[Vu'un](Vu'un.md "Vu'un")、[Warrior (githyanki)](Warrior_(githyanki).md), [Xon'ar'as](Xon'ar'as.md "Xon'ar'as")，以及 [伊尔克](Yr'rk.md "伊尔克")
+生物使用：[布雷拉尔雷斯](Brelal'reth.md "布雷拉尔雷斯")、[丘古斯](Ch'guth.md "丘古斯")、[多里尔](Dor'il.md "多里尔")、[伊瑟杜尔](Ith'dul.md "伊瑟杜尔")、[库纳鲁斯](Khunaruth.md "库纳鲁斯")、[马阿里克](Ma'aryk.md "马阿里克")、[尼玛 (Ni'ima)](Ni'ima.md "尼玛 (Ni'ima)")、[克恩](Qen.md "Qen")、[武恩](Vu'un.md "Vu'un")、[Warrior (githyanki)](Warrior_(githyanki).md), [克萨纳拉斯](Xon'ar'as.md "Xon'ar'as")，以及 [伊尔克](Yr'rk.md "伊尔克")
 
 ---
 *Source: [Second Wind](https://bg3.wiki/wiki/Second_Wind)*

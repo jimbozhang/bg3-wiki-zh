@@ -5,7 +5,7 @@
 **不屈风暴**
 
 - 下次此生物生命值将被降至 0 时，它将保持清醒，生命值剩余 1 点。
-- 此外，它将开始 [蓄积能量](Hoarding_Energy_(Condition).md "蓄积能量 (状态)")，获得 100 [临时生命值](Temporary_Hit_Points.md "临时生命值")，持续 1 [驱散](Turn.md "驱散")，并移除所有 [失能状态](Incapacitated_(Condition_Type)..md)
+- 此外，它将开始 [蓄积能量](Hoarding_Energy_(Condition).md "蓄积能量 (状态)")，获得 100 [临时生命值](Temporary_Hit_Points.md "临时生命值")，持续 1 [驱散](Turned_(Condition).md "驱散")，并移除所有 [失能状态](Incapacitated_(Condition_Type)..md)
 
 ## 属性
 
@@ -19,7 +19,7 @@
 
 持续时间：1 驱散
 
-- 此生物在自我复活后，开始 [蓄积能量](Hoarding_Energy_(Condition).md "蓄积能量 (状态)")，获得 100 [临时生命值](Temporary_Hit_Points.md "临时生命值")，持续 1 [驱散](Turn.md "驱散")，并移除所有 [失能状态](Incapacitated_(status_group)..md)
+- 此生物在自我复活后，开始 [蓄积能量](Hoarding_Energy_(Condition).md "蓄积能量 (状态)")，获得 100 [临时生命值](Temporary_Hit_Points.md "临时生命值")，持续 1 [驱散](Turned_(Condition).md "驱散")，并移除所有 [失能状态](Incapacitated_(status_group).md)
 
 ## 不屈风暴来源
 

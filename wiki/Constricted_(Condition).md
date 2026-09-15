@@ -56,7 +56,7 @@
 |
 
 - 由织法本身编织而成的藤蔓——一种最不正统的惑控学派法术。
-- 使受影响实体[失能](Incapacitate.md "Incapacitate")。当实体被攻击时驱散。
+- 使受影响实体失能。当实体被攻击时驱散。
 
 ---
 *Source: [Constricted (Condition)](https://bg3.wiki/wiki/Constricted_(Condition)*

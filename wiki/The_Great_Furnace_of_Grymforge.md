@@ -44,7 +44,7 @@
 
 ## 注释
 
-- 有三件物品包含关于[精金熔炉](Adamantine_Forge_(location)的线索.md)，并推进相应的[任务](Adamantine_Forge_(quest).md)。在所有这三件物品上通过属性检定，会授予具有[智者](Sage.md "智者")背景的队伍成员[“若我不可得……”](Sage.md#If_I_Can't_Have_It... "智者")激励点。另外两件物品是：
+- 有三件物品包含关于[精金熔炉](Adamantine_Forge_(location).md)的线索，并推进相应的[任务](Adamantine_Forge_(quest).md)。在所有这三件物品上通过属性检定，会授予具有[智者](Sage.md "智者")背景的队伍成员[“若我不可得……”](Sage.md#If_I_Can't_Have_It... "智者")激励点。另外两件物品是：
   - [记忆水晶](Memory_Shard.md "记忆水晶")
   - [潦草的字条](Scribbled_Notes.md "潦草的字条")
 

@@ -52,7 +52,7 @@
 ## 状态
 
 - [奥术敏锐](Arcane_Acuity_(Condition).md "Arcane Acuity (Condition)")，使法术攻击和豁免DC获得+1加值的状态
-- [奥术充能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")，在受威胁时获得+2伤害的状态
+- [奥术蓄能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")，在受威胁时获得+2伤害的状态
 - [奥术饥渴](Arcane_Hunger_(Condition).md "Arcane Hunger (Condition)")，如果[盖尔](Gale.md "Gale")不吸收魔法物品则授予的特殊状态
 - [奥术协同](Arcane_Synergy_(Condition).md "Arcane Synergy (Condition)")，根据法术攻击调整值授予额外武器伤害的状态
 

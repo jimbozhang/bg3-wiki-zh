@@ -24,7 +24,7 @@
 
 持续时间：1 驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 敌人使你将武器掉落在地，类似于 [缴械](Disarmed_(Condition).md "缴械 (状态)")。
 

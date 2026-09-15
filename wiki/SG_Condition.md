@@ -237,7 +237,7 @@
 [冰冻](Frozen_(Condition).md "冰冻 (状态)")
 |
 
-- 受影响的实体被完全包裹在冰中，并且[失能](Incapacitated.md "失能")。如果受到钝击、雷鸣或力场伤害，冰会碎裂，结束此状态。
+- 受影响的实体被完全包裹在冰中，并且[失能](Frozen_(Condition).md "失能")。如果受到钝击、雷鸣或力场伤害，冰会碎裂，结束此状态。
 - 获得对 ⁠[钝击](Bludgeoning.md "钝击")、 ⁠[雷鸣](Thunder.md "雷鸣")和 ⁠[力场](Force.md "力场")伤害的[易伤](Vulnerability.md "易伤")。
 - 获得对 ⁠[火焰](Fire.md "火焰")伤害的[抗性](Resistance.md "抗性")。
 - 免疫[燃烧](Burning_(Condition).md "燃烧 (状态)")和[冷冻](Encrusted_with_Frost_(Condition).md "冷冻 (状态)")。
@@ -245,7 +245,7 @@
 [绞杀](Garrotted_(Condition).md "绞杀 (状态)")
 |
 
-- 受影响的实体正被绞索勒住。它[沉默](Silenced_(Condition)并且每回合受到.md) 3d6⁠⁠[钝击](Bludgeoning.md "钝击")伤害。
+- 受影响的实体正被绞索勒住。它[沉默](Silenced_(Condition).md)并且每回合受到 3d6⁠⁠[钝击](Bludgeoning.md "钝击")伤害。
 - 该实体和绞杀者在状态结束前都无法移动。
 - 如果该实体和绞杀者被强行移动超过 5 米（17 英尺）的距离，此状态结束。
 
@@ -262,7 +262,7 @@
 [擒抱](Grappled_(Condition).md "擒抱 (状态)")
 |
 
-- 受影响的实体[失能](Incapacitated_(status_group)并且在被擒抱时无法受到伤害.md)。[协助](Help.md "协助")它以使其自由！
+- 受影响的实体[失能](Incapacitated_(status_group).md)并且在被擒抱时无法受到伤害。[协助](Help.md "协助")它以使其自由！
 
 \_(状态)[擒抱](Grappled_(Tentacle)_(Condition).md "擒抱 (触手) (状态)")
 |
@@ -369,7 +369,7 @@
 [故障](Malfunctioning_(Condition).md "故障 (状态)")
 |
 
-- [钢铁卫士](Steel_Watcher_(creature)处.md)于[震慑](Stunned_(Condition).md "震慑 (状态)")状态。
+- [钢铁卫士](Steel_Watcher_(creature).md)处于[震慑](Stunned_(Condition).md "震慑 (状态)")状态。
 
 [玛门的掌控](Mammon's_Hold_(Condition).md "玛门的掌控 (状态)")
 |
@@ -430,12 +430,12 @@
 [异界瘴气](Otherworldly_Miasma_(Condition).md "异界瘴气 (状态)")
 |
 
-- 被[异界气体](Strange_Gas_(area)削弱.md)。对 ⁠[钝击](Bludgeoning.md "钝击")、 ⁠[穿刺](Piercing.md "穿刺")和 ⁠[挥砍](Slashing.md "挥砍")伤害[易伤](Vulnerable.md "易伤")。
+- 被[异界气体](Strange_Gas_(area).md)削弱。对 ⁠[钝击](Bludgeoning.md "钝击")、 ⁠[穿刺](Piercing.md "穿刺")和 ⁠[挥砍](Slashing.md "挥砍")伤害[易伤](Vulnerable.md "易伤")。
 
 \_(状态)[异界瘴气](Otherworldly_Miasma_(Githyanki)_(Condition).md "异界瘴气 (吉斯洋基人) (状态)")
 |
 
-- [异界气体](Strange_Gas_(area)使这.md)个[吉斯洋基人](Githyanki.md "吉斯洋基人")的皮肤硬化。它对 ⁠[钝击](Bludgeoning.md "钝击")、 ⁠[穿刺](Piercing.md "穿刺")和 ⁠[挥砍](Slashing.md "挥砍")伤害[抗性](Resistant.md "抗性")。
+- [异界气体](Strange_Gas_(area).md)使这个[吉斯洋基人](Githyanki.md "吉斯洋基人")的皮肤硬化。它对 ⁠[钝击](Bludgeoning.md "钝击")、 ⁠[穿刺](Piercing.md "穿刺")和 ⁠[挥砍](Slashing.md "挥砍")伤害[抗性](Resistant.md "抗性")。
 
 [平息](Pacified_(Condition).md "平息 (状态)")
 |

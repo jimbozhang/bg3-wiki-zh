@@ -333,7 +333,7 @@
 - [强化属性](Enhance_Ability.md "强化属性")
 - **魅惑人类** (Enthrall)
 - **灼热金属** (Heat Metal)
-- [次级恢复](Lesser_Restoration.md "次级恢复")
+- [次级复原术](Lesser_Restoration.md "次级复原术")
 - **月华之光** (Moonbeam)
 - [行动无踪](Pass_Without_Trace.md "行动无踪")
 - [魅影之力](Phantasmal_Force.md "魅影之力")

@@ -39,7 +39,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-莱昂内尔被埋葬在[下城区](Lower_City.md "下城区")[墓园](Graveyard_(Lower_City)的一个红木棺材中.md)。棺材需要从X: -13 Y: 25处的[土堆](Dirt_Mound.md "土堆")中挖出。棺材内有他的尸体、60枚金币和一本[积灰日记](Grave-dusty_Diary.md "积灰日记")。根据日记，他知道自己即将死去，并寻找了一个合适的安息之地。他一直很欣赏[墓地看守人格蕾西·赛尔](Gracie_Scyre.md "墓地看守人格蕾西·赛尔")在墓园的守夜。他的墓碑上写着 _L 布伦顿。挚爱。_
+莱昂内尔被埋葬在[下城区](Lower_City.md "下城区")[墓园](Graveyard_(Lower_City).md)的一个红木棺材中。棺材需要从X: -13 Y: 25处的[土堆](Dirt_Mound.md "土堆")中挖出。棺材内有他的尸体、60枚金币和一本[积灰日记](Grave-dusty_Diary.md "积灰日记")。根据日记，他知道自己即将死去，并寻找了一个合适的安息之地。他一直很欣赏[墓地看守人格蕾西·赛尔](Gracie_Scyre.md "墓地看守人格蕾西·赛尔")在墓园的守夜。他的墓碑上写着 _L 布伦顿。挚爱。_
 
 ---
 *Source: [Lionel (Graveyard)](https://bg3.wiki/wiki/Lionel_(Graveyard)*

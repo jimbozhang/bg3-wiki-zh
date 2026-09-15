@@ -1,4 +1,4 @@
-# Trepan (+1)
+# 手术圆锯 (+1)
 
 [手术圆锯](Trepan.md "手术圆锯") 是一把不常见的 +1 [短剑](Shortswords.md "Shortswords")，它为非玩家角色提供武器动作 [劈颅](Trephination.md "Trephination")。
 

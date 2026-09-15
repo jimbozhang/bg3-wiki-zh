@@ -52,7 +52,7 @@
 哈弗·威洛比的召唤物品——神秘蛋，出现在利文顿 [营地](Campsite.md "营地") 需要满足三个条件。
 
 1. 位于 [精灵之歌酒馆](Elfsong_Tavern.md "精灵之歌酒馆") 的 [哈弗·威洛比](Harvard_Willoughby.md "哈弗·威洛比")（人类喜剧演员）必须死亡。
-1. 队伍必须在 [下城区](Lower_City.md "下城区") 的 [下城主墙](Lower_City_Central_Wall.md "下城主墙") 顶部的钟楼敲响钟声，位于 [扎尔宅邸](Szarr_Palace.md "扎尔宅邸") 入口外。
+1. 队伍必须在 [下城区](Lower_City.md "下城区") 的 下城主墙 顶部的钟楼敲响钟声，位于 [扎尔宅邸](Szarr_Palace.md "扎尔宅邸") 入口外。
 1. 队伍必须在 [利文顿](Rivington.md "利文顿") 的 [慈爱神殿](Open_Hand_Temple.md "慈爱神殿") 顶部的钟楼敲响钟声。
 
 这些条件可以按任意顺序满足，只要 [哈弗·威洛比](Harvard_Willoughby.md "哈弗·威洛比")（人类喜剧演员）在第二次敲钟前死亡。一旦正确满足这些条件，神秘蛋将出现在利文顿 [营地](Campsite.md "营地") 的鸟巢中，坐标 X: 405 Y: -747。

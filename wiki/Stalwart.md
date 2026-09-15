@@ -36,7 +36,7 @@
 - [借机攻击](Opportunity_Attack.md "借机攻击")
 - [战术铁律](Tactical_Discipline.md "战术铁律")
 
-**铁血执政官坚毅**是[班恩](Bane_(God)的教徒.md)，也是[恩弗·戈塔什](Enver_Gortash.md "恩弗·戈塔什")在[第三幕](Act_Three.md "第三幕")期间的保镖之一。
+**铁血执政官坚毅**是[班恩](Bane_(God).md)的教徒，也是[恩弗·戈塔什](Enver_Gortash.md "恩弗·戈塔什")在[第三幕](Act_Three.md "第三幕")期间的保镖之一。
 
 > “
 >

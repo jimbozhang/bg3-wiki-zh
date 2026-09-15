@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子投掷"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子投掷"))
 范围：6米（20英尺）
 
 ## 状态：被控制
@@ -22,7 +22,7 @@
 
 持续时间：直至[长休](Long_Rest.md "长休")
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子投掷"))
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子投掷"))
 
 - 此[不死生物](Undead.md "不死生物")受[圣武士](Paladin.md "圣武士")控制。它将跟随圣武士并攻击其敌人。
 

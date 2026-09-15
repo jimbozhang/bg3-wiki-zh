@@ -4,7 +4,7 @@
 
 ## 描述
 
-获得[奥秘](Arcana.md "奥秘")、[历史的](History.md "历史的")、[调查](Investigation.md "调查")、[自然](Nature.md "自然")和[宗教](Religion.md "宗教")的[熟练项](Proficiency.md "熟练项")。
+获得[奥秘](Arcana.md "奥秘")、[历史](History.md "历史")、[调查](Investigation.md "调查")、[自然](Nature.md "自然")和[宗教](Religion.md "宗教")的[熟练项](Proficiency.md "熟练项")。
 
 ## 属性
 

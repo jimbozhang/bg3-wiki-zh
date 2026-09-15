@@ -1,6 +1,6 @@
 # 塔利斯的败者名单
 
-一本记录了[阿努克](Anouk.md "阿努克")、[弗罗德](Frode.md "弗罗德")、[尤恩斯](Yoonce.md "尤恩斯")和[古德伦](Gudrun.md "古德伦")之间赌注的书。他们是位于[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")的[灾祸术](Bane_(God)的邪教徒.md)。
+一本记录了[阿努克](Anouk.md "阿努克")、[弗罗德](Frode.md "弗罗德")、[尤恩斯](Yoonce.md "尤恩斯")和[古德伦](Gudrun.md "古德伦")之间赌注的书。他们是位于[钢铁卫士铸造厂](Steel_Watch_Foundry.md "钢铁卫士铸造厂")的[班恩](Bane_(God).md)的邪教徒。
 
 这本书散发着诱人的纸张和墨水气味。
 

@@ -22,7 +22,7 @@
 
 ## 获取地点
 
-- [隐秘河湾](Secluded_Cove.md "Secluded Cove") X: 326 Y: 495：在鸟妖遭遇战南侧的[鸟妖巢穴](Harpy_Nest.md "Harpy Nest")中
+- [隐秘河湾](Secluded_Cove.md "Secluded Cove") X: 326 Y: 495：在鸟妖遭遇战南侧的[鸟妖巢穴](Secluded_Cove.md "Harpy Nest")中
 
 ## 外部链接
 

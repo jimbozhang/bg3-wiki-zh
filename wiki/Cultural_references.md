@@ -107,7 +107,7 @@
 - [公会工匠](Guild_Artisan.md "公会工匠")背景目标[兰坦纳奇迹](Guild_Artisan.md#Lantanna_Marvel "公会工匠")指的是被遗忘的国度传说中的[兰坦](https://forgottenrealms.fandom.com/wiki/Lantan)岛民。根据传说，兰坦人以其先进技术而闻名，包括精密的武器和发条装置。作为岛民，他们必须发展航海业并四处贸易。目标是通过使用[潜水器](Submersible.md "潜水器")到达[钢铁王座](Iron_Throne.md "钢铁王座")来完成的。
 - [士兵](Soldier.md "士兵")背景目标[鲁道夫·范·里希顿越过我的尸体](Soldier.md#Rudolph_Van_Richtover_My_Dead_Body "士兵")是一个常见说法和最著名的怪物猎人名字的组合，来自鸦阁恐怖战役设定的鲁道夫·范·里希顿博士<sup>[\[3\]](#cite_note-3)</sup>。他的个性又基于布拉姆·斯托克的《德古拉》中的亚伯拉罕·范·海辛教授。目标是通过击败[卡扎多尔·扎尔](Cazador_Szarr.md "卡扎多尔·扎尔")来完成，如果他成功成为吸血鬼至尊。
 - 当试图说服[烈焰艾琳](Elin.md "烈焰艾琳")让他们进入[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")时，[邪术师](Warlock.md "邪术师")角色有一条独特的[威吓](Intimidation.md "威吓")台词：他们可以威胁要把她的名字写进[邪恶之书](https://forgottenrealms.fandom.com/wiki/Book_of_Vile_Darkness)，除非她允许他们通过。然而，检定DC为30，如果失败，艾琳会回应说“把你的书塞到某个邪恶黑暗的地方去”。这本书是一件神器，最初由[维克那](https://forgottenrealms.fandom.com/wiki/Vecna)创造。它在费伦的副本是由[班恩](Bane_(God).md)>等人撰写的。这个名字也用于第3版和第4版龙与地下城的规则书，以及《龙与地下城》直发视频电影系列的第三部电影。
-- [呢喃法师之杖](Staff_of_a_Mumbling_Wizard.md "呢喃法师之杖")及其关联的戏法[火球术术？](Firebolt_q_.md "火球术术？")可能指的是[龙枪设定](https://en.wikipedia.org/wiki/Dragonlance)中的[费兹班](https://en.wikipedia.org/wiki/List_of_Dragonlance_characters%23Fizban)；“法师”费兹班经常显得困惑，无法记住法术的咒语，这常常阻止他在关键时刻施展火球术术。
+- [呢喃法师之杖](Staff_of_a_Mumbling_Wizard.md "呢喃法师之杖")及其关联的戏法[火焰箭？](Firebolt_q_.md "火焰箭？")可能指的是[龙枪设定](https://en.wikipedia.org/wiki/Dragonlance)中的[费兹班](https://en.wikipedia.org/wiki/List_of_Dragonlance_characters%23Fizban)；“法师”费兹班经常显得困惑，无法记住法术的咒语，这常常阻止他在关键时刻施展火球术。
 
 ### 上古卷轴系列
 
@@ -250,7 +250,7 @@
 
 ### 埃德加·爱伦·坡
 
-- 通过[获得魔宠](Find Familiar.md "获得魔宠")召唤的渡鸦总是命名为“渡鸦”，这是唯一一个获得名字的标准魔宠。同名的渡鸦也由[渡鸦手套](Raven_Gloves.md "渡鸦手套")召唤。这显然是对埃德加·爱伦·坡的诗《渡鸦》的引用，其中包含反复出现的诗句“渡鸦说：‘永不复焉。’”
+- 通过[获得魔宠](Find_Familiar.md "获得魔宠")召唤的渡鸦总是命名为“渡鸦”，这是唯一一个获得名字的标准魔宠。同名的渡鸦也由[渡鸦手套](Raven_Gloves.md "渡鸦手套")召唤。这显然是对埃德加·爱伦·坡的诗《渡鸦》的引用，其中包含反复出现的诗句“渡鸦说：‘永不复焉。’”
 
 ### 威廉·莎士比亚
 

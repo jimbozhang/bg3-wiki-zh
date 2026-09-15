@@ -32,7 +32,7 @@
   - 间接击杀，例如攻击易燃桶导致其燃烧并烧死附近敌人。[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")]
   - 在战斗外用弓箭狙击击杀对手。
   - 穿戴者施放[匕首之云](Cloud_of_Daggers.md "匕首之云")导致生物死亡。
-- 作为[反应](Reaction_(Combat)..md))[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")]的[偷袭](Sneak_Attack.md "偷袭")。
+- 作为[反应](Reaction_(Combat).md))[[_验证_](bg3wiki_colon_Verification.md "bg3wiki:验证")]的[偷袭](Sneak_Attack.md "偷袭")。
 - 如果“追踪”武器（如[回旋长矛](Returning_Pike.md "回旋长矛")）对敌人造成致命一击，则武器的返回动画会导致隐形状态提前结束。
 - 如果扮演[邪念](Dark_Urge.md "邪念")，且在完成长休前，[阿尔菲拉](Alfira.md "阿尔菲拉")或[奎尔](Quil.md "奎尔")在营地被他人（如[阿斯代伦](Astarion.md "阿斯代伦")）击杀，则次日早晨的对话选项会视作玩家角色击杀了他们，且Sceleritas仍会在下一次长休时与他们见面，但不会奖励披风。
 

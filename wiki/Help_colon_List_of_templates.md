@@ -156,7 +156,7 @@ BG3Wiki 上使用的**模板列表**。
 - {{[属性检定](Template_colon_Ability_check.md "模板:属性检定")}}: 以链接形式显示指定的属性检定，带有指定的难度等级和 20面骰 图标。
 - {{[优势](Template_colon_Advantage.md "模板:优势")}}: 格式化文本以显示带有图标的“优势”链接
 - {{[攻击掷骰](Template_colon_Attack_roll.md "模板:攻击掷骰")}}: 格式化文本以显示文本“攻击掷骰”，带有图标。
-- {{[20面骰](Template_colon_20面骰.md "模板:20面骰")}}: 显示一个 20面骰 骰子。
+- {{20面骰}}: 显示一个 20面骰 骰子。
 - {{[骰子图标](Template_colon_DieIcon.md "模板:骰子图标")}}: 添加一个骰子图标。
 - {{[劣势](Template_colon_Disadvantage.md "模板:劣势")}}: 格式化文本以显示带有图标的“劣势”链接。
 - {{[豁免检定](Template_colon_Saving_Throw.md "模板:豁免检定")}}: 显示指定的豁免检定，可选指定的难度等级。

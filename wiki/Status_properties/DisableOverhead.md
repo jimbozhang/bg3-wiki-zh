@@ -196,7 +196,7 @@
 - 无法执行任何 [动作](../Actions.md "动作") 或 [反应](../Reactions.md "反应")。
 - 自动失败任何 [豁免检定](../Saving_throws.md "豁免检定")。
 - 对目标的所有攻击具有 [优势](../Advantage.md "优势")，且在 3 米（10 英尺）范围内 [重击](../Critical_Hit.md "重击")。
-- 免疫 [倒地](../Prone_(status_group).md)
+- 免疫 [倒伏](../Prone_(status_group).md)
 
 [永恒光耀](../Ever_Radiant_(Condition).md "永恒光耀（状态）")
 |
@@ -280,7 +280,7 @@
 [田园灵光](../Idyllic_Aura_(Condition).md "田园灵光（状态）")
 |
 
-- 授予范围内生物 [西凡那斯的祝福](../Silvanus'_Blessing.md "西凡那斯的祝福")。
+- 授予范围内生物 [西凡那斯的祝福](../Silvanus'_Blessing_(Condition).md "西凡那斯的祝福")。
 
 [必然决心](../Inevitable_Resolve_(Condition).md "必然决心（状态）")
 |
@@ -415,7 +415,7 @@
 
 - 此魔法投影无法被瞄准或攻击。
 
-[倒地](../Prone_(Condition).md "倒地（状态）")
+[倒伏](../Prone_(Condition).md "倒伏（状态）")
 |
 
 - 受影响生物无法移动或执行 [动作](../Actions.md#Resources "动作")、[附赠动作](../Actions.md#Resources "动作") 或 [反应](../Actions.md#Reactions "反应")，且在 [力量](../Strength.md "力量") 和 [敏捷](../Dexterity.md "敏捷") [豁免检定](../Saving_throw.md "豁免检定") 上具有 [劣势](../Disadvantage.md "劣势")。

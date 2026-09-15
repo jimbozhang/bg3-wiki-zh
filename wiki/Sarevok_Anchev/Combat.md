@@ -90,7 +90,7 @@
 
 不会被[受惊](../Surprised.md "受惊")。
 
-- [**永久武装**](../Permanent_Armed.md "永久武装")
+- [**永久武装**](../Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -154,7 +154,7 @@
 
 不会被[受惊](../Surprised.md "受惊")。
 
-- [**永久武装**](../Permanent_Armed.md "永久武装")
+- [**永久武装**](../Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -224,7 +224,7 @@
 
 不会被[受惊](../Surprised.md "受惊")。
 
-- [**永久武装**](../Permanent_Armed.md "永久武装")
+- [**永久武装**](../Permanently_Armed.md "永久武装")
 
 无法被缴械。
 
@@ -298,7 +298,7 @@
 
 不会被[受惊](../Surprised.md "受惊")。
 
-- [**永久武装**](../Permanent_Armed.md "永久武装")
+- [**永久武装**](../Permanently_Armed.md "永久武装")
 
 无法被缴械。
 

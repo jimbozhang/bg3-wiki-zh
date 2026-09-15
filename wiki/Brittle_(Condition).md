@@ -3,7 +3,7 @@
 **易碎**
 
 - 受影响实体在燃烧时被迅速冷却，使其对[雷鸣](Thunder.md "雷鸣")和[钝击](Bludgeoning.md "钝击")伤害[易伤](Vulnerable.md "易伤")。
-- 在其[驱散](Turn.md "驱散")开始时受到2d6⁠⁠[寒冷](Cold.md "寒冷")伤害。
+- 在其[驱散](Cold.md "驱散")开始时受到2d6⁠⁠[寒冷](Cold.md "寒冷")伤害。
 
 ## 属性
 
@@ -24,7 +24,7 @@
 ## 具有相同堆叠ID的状态
 
 - 受影响实体在燃烧时被迅速冷却，使其对[雷鸣](Thunder.md "雷鸣")和[钝击](Bludgeoning.md "钝击")伤害[易伤](Vulnerable.md "易伤")。
-- 在其[驱散](Turn.md "驱散")开始时受到2d6⁠⁠[寒冷](Cold.md "寒冷")伤害。
+- 在其[驱散](Cold.md "驱散")开始时受到2d6⁠⁠[寒冷](Cold.md "寒冷")伤害。
 
 ---
 *Source: [Brittle (Condition)](https://bg3.wiki/wiki/Brittle_(Condition)*

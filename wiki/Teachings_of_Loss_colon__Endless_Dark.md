@@ -18,7 +18,7 @@
 
 - UID `S_SHA_SilentLibrary_SharranBook_001` UUID `7293bf18-3083-4003-b917-8d438a7fea87` ## 获取地点
 
-- 在[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")的[巴萨扎尔](Balthazar.md "巴萨扎尔")附近的[保险库大门](Vault_Door.md "保险库大门")后方的左侧箱子中，坐标 X: -823 Y: -755
+- 在[莎尔铁手神殿](Gauntlet_of_Shar.md "莎尔铁手神殿")的[巴萨扎尔](Balthazar.md "巴萨扎尔")附近的保险库大门后方的左侧箱子中，坐标 X: -823 Y: -755
 
 ## 文本
 

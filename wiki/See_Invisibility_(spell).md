@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [2级法术位](Spells.md#Spell_slots "法术")
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：自身
 作用区域：9米（30英尺）半径
 
@@ -34,7 +34,7 @@
 
 **[已揭示](Revealed_(Condition).md "已揭示（状态）")**
 
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 受影响实体因[识破隐形](See_Invisibility_(Condition).md "识破隐形（状态）")的效果而失去了其[隐形](Invisible_(Condition).md "隐形（状态）")状态。
 

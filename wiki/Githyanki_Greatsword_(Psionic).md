@@ -43,7 +43,7 @@ _如果你拥有[熟练项](Proficiency.md "熟练项")，装备在**主手**以
 
 ## 获取地点
 
-- [山隘](Mountain_Pass.md "山隘") X: -144 Y: 565：由 [吉斯洋基巡逻队](Githyanki_Patrol.md "吉斯洋基巡逻队") 首领 [萨斯十夫长巴瑞萨](Sarth_Baretha.md "萨斯十夫长巴瑞萨") 携带
+- [山隘](Mountain_Pass.md "山隘") X: -144 Y: 565：由 吉斯洋基巡逻队 首领 [萨斯十夫长巴瑞萨](Sarth_Baretha.md "萨斯十夫长巴瑞萨") 携带
 
 ## 注释
 

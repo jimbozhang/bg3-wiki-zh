@@ -18,7 +18,7 @@
 
 ## 简要预览
 
-濒死时，在火球术术中爆炸，然后重生为受拉斐尔誓缚的邪魔生物。
+濒死时，在火球术中爆炸，然后重生为受拉斐尔誓缚的邪魔生物。
 
 ---
 *Source: [Forever Indebted (passive feature)](https://bg3.wiki/wiki/Forever_Indebted_(passive_feature)*

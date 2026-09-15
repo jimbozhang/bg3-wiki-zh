@@ -25,7 +25,7 @@
 \+ 1d6⁠[治疗](Healing.md "治疗")（每个刀锋咏唱治疗冲锋）
 
 详情
-[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：敌人仍承受一半伤害。）
+[智力](Intelligence.md "智力") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：敌人仍承受一半伤害。）
 范围：9 米（30 英尺）
 范围效果：3 米（10 英尺）半径
 

@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [1级法术位](Spells.md#Spell_slots "法术")
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：18米（60英尺）
 范围效果：6米（20英尺）半径
 [专注](Concentration.md "专注")

@@ -1,8 +1,8 @@
 # Vlaakith's Will
 
-**维拉基斯的意志**是[莱埃泽尔](Lae'zel.md "莱埃泽尔")个人任务[吉斯洋基战士](The_Githyanki_Warrior_(Origin)的子任务.md)。如果在[第三幕](Act_Three.md "第三幕")中，玩家角色在[维拉基斯](Vlaakith.md "维拉基斯")访问营地时接受了她的提议，该任务就会触发。
+**维拉基斯的意志**是[莱埃泽尔](Lae'zel.md "莱埃泽尔")个人任务[吉斯洋基战士](The_Githyanki_Warrior_(Origin).md)的子任务。如果在[第三幕](Act_Three.md "第三幕")中，玩家角色在[维拉基斯](Vlaakith.md "维拉基斯")访问营地时接受了她的提议，该任务就会触发。
 
-该任务是莱埃泽尔另一个子任务[彗星王子](The_Prince_of_the_Comet_(Quest)的替代路径.md)，在该路径中，维拉基斯的提议会被拒绝。
+该任务是莱埃泽尔另一个子任务[彗星王子](The_Prince_of_the_Comet_(Quest).md)的替代路径，在该路径中，维拉基斯的提议会被拒绝。
 
 ## 目录
 

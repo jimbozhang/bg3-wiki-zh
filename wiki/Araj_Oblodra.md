@@ -24,7 +24,7 @@
 
 ### 家乡
 
-[博德之门](Baldur_Gate.md "博德之门"),
+[博德之门](Baldur's_Gate.md "博德之门"),
 ⁠[门卓贝兰札](https://forgottenrealms.fandom.com/wiki/Menzoberranzan) in ⁠[北幽暗地域](https://forgottenrealms.fandom.com/wiki/Northdark)
 
 ## 属性
@@ -49,13 +49,13 @@
 
 [游荡者](Rogue.md "游荡者")
 
-- 均衡
+- 平衡
 
-- 探险家
+- 探索者
 
 - 战术家
 
-## 均衡难度属性
+## 平衡难度属性
 
 ### 等级
 
@@ -132,13 +132,13 @@
 
 - [**阳光敏感**](Sunlight_Sensitivity.md "阳光敏感")
 
-在阳光下时，攻击检定和感知检定具有劣势。
+在阳光下时，攻击掷骰和感知检定具有劣势。
 
 - [**险恶闪避**](Uncanny_Dodge.md "险恶闪避")
 
 可以使用[反应](Reaction.md "反应")将受到的伤害减半。
 
-## 探险家难度属性
+## 探索者难度属性
 
 ### 等级
 
@@ -196,7 +196,7 @@
 
 - [**阳光敏感**](Sunlight_Sensitivity.md "阳光敏感")
 
-在阳光下时，攻击检定和感知检定具有劣势。
+在阳光下时，攻击掷骰和感知检定具有劣势。
 
 - [**险恶闪避**](Uncanny_Dodge.md "险恶闪避")
 
@@ -260,7 +260,7 @@
 
 - [**阳光敏感**](Sunlight_Sensitivity.md "阳光敏感")
 
-在阳光下时，攻击检定和感知检定具有劣势。
+在阳光下时，攻击掷骰和感知检定具有劣势。
 
 - [**险恶闪避**](Uncanny_Dodge.md "险恶闪避")
 

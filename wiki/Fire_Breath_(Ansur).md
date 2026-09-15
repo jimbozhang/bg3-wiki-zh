@@ -17,7 +17,7 @@
 14d6⁠[火焰](Fire.md "火焰")
 
 详情
-[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子投掷")) (豁免成功：目标仍承受一半伤害。)
+[敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子投掷")) (豁免成功：目标仍承受一半伤害。)
 范围：30 米 (100 英尺)
 范围效果：6 米 (20 英尺) 半径
 充能：每回合

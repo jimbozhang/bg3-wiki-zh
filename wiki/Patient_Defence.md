@@ -12,13 +12,13 @@
 [附赠动作](Actions.md#Resources "动作") + [气点](Ki_Point.md "气点")
 详情
 范围：自身
-持续时间：1[驱散](Turn.md "驱散")
+持续时间：1[驱散](Turned_(Condition).md "驱散")
 
 ## 状态：坚强防御
 
 **[坚强防御](Patient_Defence_(Condition).md "坚强防御 (状态)")**
 
-持续时间：1[驱散](Turn.md "驱散")
+持续时间：1[驱散](Turned_(Condition).md "驱散")
 
 - 针对受影响实体的[攻击掷骰](Attack_rolls.md "攻击掷骰")具有[劣势](Disadvantage.md "劣势")。
 - 该实体在[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。

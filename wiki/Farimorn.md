@@ -105,7 +105,7 @@
 
 ## 错误
 
-- 如果在击败[月出之塔](Moonrise_Towers.md "月出之塔")的[至上真神教](Cult_of_the_Absolute.md "至上真神教")成员后、进入屋顶前前往营地，队伍可能会发现塔利正在对抗法里莫恩和其他至上真神的朝圣者[伊昂](Iong.md "伊昂")、[娜莉拉](Nalira.md "娜莉拉")、[苏尔](Sul_(pilgrim)以.md)及[泰玛](Taima.md "泰玛")。这并不需要在营地进行[长休](Long_Rest.md "长休")；[由多位Steam用户报告](https://steamcommunity.com/app/1086940/discussions/0/3819669231701481446/)。
+- 如果在击败[月出之塔](Moonrise_Towers.md "月出之塔")的[至上真神教](Cult_of_the_Absolute.md "至上真神教")成员后、进入屋顶前前往营地，队伍可能会发现塔利正在对抗法里莫恩和其他至上真神的朝圣者[伊昂](Iong.md "伊昂")、[娜莉拉](Nalira.md "娜莉拉")、[苏尔](Sul_(pilgrim).md)以及[泰玛](Taima.md "泰玛")。这并不需要在营地进行[长休](Long_Rest.md "长休")；[由多位Steam用户报告](https://steamcommunity.com/app/1086940/discussions/0/3819669231701481446/)。
 
 ---
 *Source: [Farimorn](https://bg3.wiki/wiki/Farimorn)*

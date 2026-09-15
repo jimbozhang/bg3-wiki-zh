@@ -4,7 +4,7 @@
 
 ## 其他
 
-- [醉拳宗师](Way_of_the_Drunken_Master.md "醉拳宗师")的[俏皮小酌](Cheeky_Tipple.md "俏皮小酌")特性会将本组中的任何状态替换为一个_不_在本组中的状态，即\_(状态)[醉酒](Drunk_(Drunken_Master)_(Condition).md "醉酒 (醉拳宗师) (状态)")，持续5[驱散](Turn.md "驱散")。
+- [醉拳宗师](Way_of_the_Drunken_Master.md "醉拳宗师")的[俏皮小酌](Cheeky_Tipple.md "俏皮小酌")特性会将本组中的任何状态替换为一个_不_在本组中的状态，即\_(状态)[醉酒](Drunk_(Drunken_Master)_(Condition).md "醉酒 (醉拳宗师) (状态)")，持续5[驱散](Turned_(Condition).md "驱散")。
 
 ## SG_Drunk 中的状态列表
 
@@ -13,7 +13,7 @@
 [酩酊大醉](Blacked_Out_(Condition).md "酩酊大醉 (状态)")
 |
 
-- 蒂索博尔德过度饮用了自己的酿造物。他的[护甲等级](Armour_Class.md "护甲等级")有-5的惩罚，并且对挥砍、穿刺、钝击和[雷鸣伤害](Thunder_Damage.md "雷鸣伤害")[易伤](Vulnerable.md "易伤")。
+- 蒂索博尔德过度饮用了自己的酿造物。他的[护甲等级](Armour_Class.md "护甲等级")有-5的惩罚，并且对挥砍、穿刺、钝击和雷鸣伤害[易伤](Vulnerable.md "易伤")。
 
 [醉酒](Drunk_(Condition).md "醉酒 (状态)")
 |

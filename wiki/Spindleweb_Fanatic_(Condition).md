@@ -2,7 +2,7 @@
 
 **纺锤蛛狂热者**
 
-- 受影响实体造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic") 伤害，只要[光环](Spindleweb_Fanaticism_(Condition)的来源未处.md)于[失能](Incapacitated_(Condition).md "失能 (状态)")状态。
+- 受影响实体造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic") 伤害，只要[光环](Spindleweb_Fanaticism_(Condition).md)的来源未处于[失能](Incapacitated_(Condition).md "失能 (状态)")状态。
 
 ## 属性
 
@@ -29,7 +29,7 @@ _Wiki 数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 受影响实体造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic") 伤害，只要[光环](Spindleweb_Fanaticism_(Condition)的来源未处.md)于[失能](Incapacitated_(Condition).md "失能 (状态)")状态。
+- 受影响实体造成额外 1d6⁠⁠[心灵](Psychic.md "Psychic") 伤害，只要[光环](Spindleweb_Fanaticism_(Condition).md)的来源未处于[失能](Incapacitated_(Condition).md "失能 (状态)")状态。
 
 ---
 *Source: [Spindleweb Fanatic (Condition)](https://bg3.wiki/wiki/Spindleweb_Fanatic_(Condition)*

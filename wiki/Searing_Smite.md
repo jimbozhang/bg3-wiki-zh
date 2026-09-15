@@ -35,7 +35,7 @@
 
 持续时间：10回合
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 每回合受到1d6⁠⁠[火焰](Fire.md "Fire")伤害。
 - 如果目标成功通过[体质](Constitution.md "体质")[豁免检定](Saving_throw.md "豁免检定")，则状态结束。

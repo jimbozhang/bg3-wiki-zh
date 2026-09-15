@@ -25,7 +25,7 @@
 - [吉姆雷](G'imre.md "吉姆雷")
 - [吉迪'](Jyd'i'.md "吉迪'")
 - [K'i'lar](K'i'lar.md "K'i'lar")
-- [里'瑞克](Lir'i'c.md "里'瑞克")
+- [高级教士里'瑞克](Lir'i'c.md "高级教士里'瑞克")
 - [M'i'hayk](M'i'hayk.md "M'i'hayk")
 - [米尔里克 (Mir'ic)](Mir'ic.md "米尔里克 (Mir'ic)")
 - [莎莉](Sh'ari.md "莎莉")

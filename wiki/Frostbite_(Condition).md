@@ -2,7 +2,7 @@
 
 | 状态 | 效果 |
 | --- | --- |
-| 霜噬 | 当受到 ⁠[寒冷](Cold.md "寒冷") 伤害时，每剩余一个霜噬的 ⁠[驱散](Turn.md "驱散")，额外受到 1⁠⁠[寒冷](Cold.md "寒冷") 伤害。 |
+| 霜噬 | 当受到 ⁠[寒冷](Cold.md "寒冷") 伤害时，每剩余一个霜噬的 ⁠[驱散](Turned_(Condition).md "驱散")，额外受到 1⁠⁠[寒冷](Cold.md "寒冷") 伤害。 |
 
 对于一个名称相似但未使用的状态，请参见 [霜冻](Frostbitten_(Condition).md "霜冻 (状态)")。
 
@@ -20,7 +20,7 @@ _维基数据库中未定义_
 
 ## 具有相同堆叠ID的状态
 
-- 当受到 ⁠[寒冷](Cold.md "寒冷") 伤害时，每剩余一个霜噬的 ⁠[驱散](Turn.md "驱散")，额外受到 1⁠⁠[寒冷](Cold.md "寒冷") 伤害。
+- 当受到 ⁠[寒冷](Cold.md "寒冷") 伤害时，每剩余一个霜噬的 ⁠[驱散](Turned_(Condition).md "驱散")，额外受到 1⁠⁠[寒冷](Cold.md "寒冷") 伤害。
 
 ---
 *Source: [Frostbite (Condition)](https://bg3.wiki/wiki/Frostbite_(Condition)*

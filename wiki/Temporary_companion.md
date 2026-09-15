@@ -115,7 +115,7 @@
 - [格鲁特](Glut.md "格鲁特")<sup>[\[7\]](#cite_note-7)</sup>
   [蕈人](Myconid.md "蕈人")
   至尊
-  （[蕈人王](Myconid_Monarch.md "蕈人王")）
+  （蕈人王）
 
 - [萨扎](Sazza.md "萨扎")<sup>[\[8\]](#cite_note-8)</sup>
   [地精](Goblin.md "地精")

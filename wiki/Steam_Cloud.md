@@ -20,7 +20,7 @@
 
 ## 交互
 
-- 在受到闪电伤害后，持续 2 [驱散](Turn.md "Turn") 后转变为 [电蒸汽](Electrified_Steam.md "Electrified Steam")。
+- 在受到闪电伤害后，持续 2 [驱散](Electrified_Steam.md "Turn") 后转变为 [电蒸汽](Electrified_Steam.md "Electrified Steam")。
 
 ## 备注
 

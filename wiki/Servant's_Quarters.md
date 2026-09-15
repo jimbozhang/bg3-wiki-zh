@@ -125,7 +125,7 @@
 
 - X: -470 Y: -37 _狂野_。需要 DC 10 的[宗教](Religion.md "宗教")[属性检定](Ability_Check.md "属性检定")
 - X: -470 Y: -36 _泉源_。需要 DC 10 的[调查](Investigation.md "调查")[属性检定](Ability_Check.md "属性检定")
-- X: -446 Y: -34 _联合_。需要 DC 5 的[历史的](History.md "历史的")[属性检定](Ability_Check.md "属性检定")
+- X: -446 Y: -34 _联合_。需要 DC 5 的[历史](History.md "历史")[属性检定](Ability_Check.md "属性检定")
 - X: -450 Y: -28 _陨落_。需要 DC 10 的[宗教](Religion.md "宗教")[属性检定](Ability_Check.md "属性检定")
 
 - .png_以爪与牙，自根至刺，

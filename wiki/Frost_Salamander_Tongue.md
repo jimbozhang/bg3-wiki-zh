@@ -16,7 +16,7 @@
 
 - UID `ALCH_Ingredient_Loot_FrostSalamander` UUID `25940d8a-110b-4f0e-82df-af8c6b15fb34` ## 获取地点
 
-- 酿酒师炼金师的藏匿处——具体位置可在[残月酒厂](The_Waning_Moon.md "残月酒厂")的[研究笔记](Research_Notes_(Waning_Moon)中找到.md)；它被埋在[治疗中心](House_of_Healing.md "治疗中心")和通往[博德之门](Baldur's Gate.md "博德之门")的[博德之门通道](Road_to_Baldur's_Gate.md "博德之门通道")入口之间南侧房屋下方的一片区域的[土堆](Dirt_Mound.md "土堆")下。
+- 酿酒师炼金师的藏匿处——具体位置可在[残月酒厂](The_Waning_Moon.md "残月酒厂")的[研究笔记](Research_Notes_(Waning_Moon).md)中找到；它被埋在[治疗中心](House_of_Healing.md "治疗中心")和通往[博德之门](Baldur's_Gate.md "博德之门")的[博德之门通道](Road_to_Baldur's_Gate.md "博德之门通道")入口之间南侧房屋下方的一片区域的[土堆](Dirt_Mound.md "土堆")下。
 
 - 另一条舌头可在[风暴海岸礼拜堂](Stormshore_Tabernacle.md "风暴海岸礼拜堂")地下室的“献给密斯特拉的供品”箱中找到。
 

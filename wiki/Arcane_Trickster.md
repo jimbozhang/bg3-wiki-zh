@@ -1,6 +1,6 @@
 # 诡术师
 
-**诡术师**是[游荡者](Rogue.md "游荡者")的一个[副职](Rogue.md#Level_3 "游荡者")。这些游荡者能够进行[法术](Spells.md "法术")（来自[法师法术列表](List_of_Wizard_spells.md "法师法术列表")），并在战斗中使用法术攻击敌人或支援盟友。诡术师使用[智力](Intelligence.md "智力")作为其[施法调整值](Spellcasting Modifier.md "施法调整值")。
+**诡术师**是[游荡者](Rogue.md "游荡者")的一个[副职](Rogue.md#Level_3 "游荡者")。这些游荡者能够进行[法术](Spells.md "法术")（来自[法师法术列表](List_of_Wizard_spells.md "法师法术列表")），并在战斗中使用法术攻击敌人或支援盟友。诡术师使用[智力](Intelligence.md "智力")作为其[施法调整值](Spellcasting_Modifier.md "施法调整值")。
 
 > “
 >
@@ -38,7 +38,7 @@
 
 - [法师之手](Mage_Hand.md "法师之手")
 
-[施法关键属性](Spellcasting Ability.md "施法关键属性")
+[施法关键属性](Spellcasting_Ability.md "施法关键属性")
 [智力](Intelligence.md "智力")
 
 解锁的等级 1 [法术位](Spell_Slot.md "法术位")：2

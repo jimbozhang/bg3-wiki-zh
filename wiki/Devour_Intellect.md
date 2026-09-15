@@ -47,7 +47,7 @@
 
 ## 备注
 
-- 当普通噬脑怪使用时，DC固定为12。对于[我们](Us.md "我们")，它使用[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")，通常为11，但如果Us处于[脑叶切除](Lobotomised_(Condition).md "脑叶切除（状态）")状态，则降至9。
+- 当普通噬脑怪使用时，DC固定为12。对于[我们](Us.md "我们")，它使用[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")，通常为11，但如果Us处于[脑叶切除](Lobotomised_(Condition).md "脑叶切除（状态）")状态，则降至9。
 - [被吞噬智力](Devoured_Intellect_(Condition).md "被吞噬智力（状态）")的后续应用持续时间和效果会叠加，但智力不会低于2点。
 - 此能力曾在[抢先体验](Early_Access.md "抢先体验")中可供[异化变身](Aberrant_Shape.md "异化变身")[德鲁伊](Druid.md "德鲁伊")使用。
   - 在抢先体验中，它会使高于4的智力降低11点，不造成伤害，且不会引发被吞噬智力状态。

@@ -92,7 +92,7 @@
 
 - [**奥术增强**](../Arcane_Enchantment_(+1).md "奥术增强 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
 
 - [**高级黑暗视觉**](../Darkvision.md "高级黑暗视觉")
 
@@ -112,7 +112,7 @@
 
 - [**妖精血统**](../Fey_Ancestry.md "妖精血统")
 
-对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Advantage.md "优势")；免疫魔法[沉睡](../Sleeping_(Condition)效果.md)。
+对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Advantage.md "优势")；免疫魔法[沉睡](../Sleeping_(Condition).md)效果。
 
 - [**不变形态**](../Immutable_Form.md "不变形态")
 
@@ -136,7 +136,7 @@
 
 - [**盾牌猛击**](../Shield_Bash.md "盾牌猛击")
 
-被近战攻击命中时，可使用[反应](../Reaction_(Resource)将攻击者击倒.md)至[倒地](../Prone_(Condition).md)，除非其通过[敏捷](../DEX.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
+被近战攻击命中时，可使用[反应](../Reaction_(Resource).md)将攻击者击倒至[倒伏](../Prone_(Condition).md)，除非其通过[敏捷](../DEX.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
 
 ## 探索者难度属性
 
@@ -196,7 +196,7 @@
 
 - [**奥术增强**](../Arcane_Enchantment_(+1).md "奥术增强 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
 
 - [**高级黑暗视觉**](../Darkvision.md "高级黑暗视觉")
 
@@ -216,7 +216,7 @@
 
 - [**妖精血统**](../Fey_Ancestry.md "妖精血统")
 
-对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Advantage.md "优势")；免疫魔法[沉睡](../Sleeping_(Condition)效果.md)。
+对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Advantage.md "优势")；免疫魔法[沉睡](../Sleeping_(Condition).md)效果。
 
 - [**不变形态**](../Immutable_Form.md "不变形态")
 
@@ -240,7 +240,7 @@
 
 - [**盾牌猛击**](../Shield_Bash.md "盾牌猛击")
 
-被近战攻击命中时，可使用[反应](../Reaction_(Resource)将攻击者击倒.md)至[倒地](../Prone_(Condition).md)，除非其通过[敏捷](../DEX.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
+被近战攻击命中时，可使用[反应](../Reaction_(Resource).md)将攻击者击倒至[倒伏](../Prone_(Condition).md)，除非其通过[敏捷](../DEX.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
 
 ## 硬核难度属性
 
@@ -300,7 +300,7 @@
 
 - [**奥术增强**](../Arcane_Enchantment_(+1).md "奥术增强 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
 
 - [**高级黑暗视觉**](../Darkvision.md "高级黑暗视觉")
 
@@ -320,7 +320,7 @@
 
 - [**妖精血统**](../Fey_Ancestry.md "妖精血统")
 
-对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Advantage.md "优势")；免疫魔法[沉睡](../Sleeping_(Condition)效果.md)。
+对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Advantage.md "优势")；免疫魔法[沉睡](../Sleeping_(Condition).md)效果。
 
 - [**不变形态**](../Immutable_Form.md "不变形态")
 
@@ -344,7 +344,7 @@
 
 - [**盾牌猛击**](../Shield_Bash.md "盾牌猛击")
 
-被近战攻击命中时，可使用[反应](../Reaction_(Resource)将攻击者击倒.md)至[倒地](../Prone_(Condition).md)，除非其通过[敏捷](../DEX.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
+被近战攻击命中时，可使用[反应](../Reaction_(Resource).md)将攻击者击倒至[倒伏](../Prone_(Condition).md)，除非其通过[敏捷](../DEX.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
 
 ## 荣誉难度属性
 
@@ -412,7 +412,7 @@
 
 - [**奥术增强**](../Arcane_Enchantment_(+1).md "奥术增强 (+1)")
 
-[法术豁免DC](../Spell_save_DC.md "法术豁免DC")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
+[法术豁免难度等级](../Spell_save_DC.md "法术豁免难度等级")和[法术攻击](../Spell_Attack.md "法术攻击")掷骰+1。
 
 - [**高级黑暗视觉**](../Darkvision.md "高级黑暗视觉")
 
@@ -432,7 +432,7 @@
 
 - [**妖精血统**](../Fey_Ancestry.md "妖精血统")
 
-对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Advantage.md "优势")；免疫魔法[沉睡](../Sleeping_(Condition)效果.md)。
+对抗[魅惑](../Charmed_(Condition).md)的[豁免检定](../Saving_throw.md "豁免检定")具有[优势](../Advantage.md "优势")；免疫魔法[沉睡](../Sleeping_(Condition).md)效果。
 
 - [**不变形态**](../Immutable_Form.md "不变形态")
 
@@ -460,7 +460,7 @@
 
 - [**盾牌猛击**](../Shield_Bash.md "盾牌猛击")
 
-被近战攻击命中时，可使用[反应](../Reaction_(Resource)将攻击者击倒.md)至[倒地](../Prone_(Condition).md)，除非其通过[敏捷](../DEX.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
+被近战攻击命中时，可使用[反应](../Reaction_(Resource).md)将攻击者击倒至[倒伏](../Prone_(Condition).md)，除非其通过[敏捷](../DEX.md "敏捷")[豁免检定](../Saving_throw.md "豁免检定")。
 
 ## 技术
 
@@ -549,7 +549,7 @@ UUID
 
 1d4 + 5⁠[钝击](../Bludgeoning.md "钝击")
 
-在攻击中施加额外力量，可能将敌人击倒至[倒地](../Prone_(Condition).md "倒地 (状态)")。
+在攻击中施加额外力量，可能将敌人击倒至[倒伏](../Prone_(Condition).md "倒伏 (状态)")。
 
 [力量](../Strength.md "力量") [豁免](../Saving_throws.md "豁免检定")
 范围: 正常武器范围
@@ -737,13 +737,13 @@ _凯瑟里克缺乏对[流血](../Bleeding_(Condition).md "流血 (状态)")、[
 
 ### 第一阶段 (月出之塔塔顶)
 
-最佳行动方案是尽快通过任何可用手段击倒凯瑟里克。他的高护甲等级使得难以命中他，除非施加能赋予攻击优势的状态，如[倒地](../Prone_(Condition).md "倒地 (状态)")、[目盲](../Blinded_(Condition).md "目盲 (状态)")、[妖火](../Faerie_Fire_(Condition).md "妖火 (状态)")或[麻痹](../Paralysed_(Condition).md "麻痹 (状态)")。如果[缴械](../Disarmed_(Condition).md "缴械 (状态)")他，他也会变得不那么具有威胁性，之后他无法再使用他的[至圣斩](../Divine_Smite.md "至圣斩")。
+最佳行动方案是尽快通过任何可用手段击倒凯瑟里克。他的高护甲等级使得难以命中他，除非施加能赋予攻击优势的状态，如[倒伏](../Prone_(Condition).md "倒伏 (状态)")、[目盲](../Blinded_(Condition).md "目盲 (状态)")、[妖火](../Faerie_Fire_(Condition).md "妖火 (状态)")或[麻痹](../Paralysed_(Condition).md "麻痹 (状态)")。如果[缴械](../Disarmed_(Condition).md "缴械 (状态)")他，他也会变得不那么具有威胁性，之后他无法再使用他的[至圣斩](../Divine_Smite.md "至圣斩")。
 
 队伍也可以服用[光耀抗性灵药](../Elixir_of_Radiant_Resistance.md "光耀抗性灵药")来减少他[至圣斩](../Divine_Smite.md "至圣斩")的高伤害。
 
 如果队伍成员拥有高护甲等级或黯蚀抗性，可以安全地忽略死灵侍僧，因为它们只会施放[幽冥之触](../Reach_from_Beyond.md "幽冥之触")，这是一个低伤害法术。然而，凯瑟里克和萨斯德拉都可以召唤更多死灵侍僧，因此使用范围攻击消灭它们有助于避免被围攻。
 
-萨斯德拉本人在战斗开始时可能构成更直接的威胁，因为她可以施放[火球术术](../Fireball.md "火球术术")，而队伍成员默认会聚集在一起开始战斗。[沉默术](../Silence.md "沉默术")或[黑暗术](../Darkness.md "黑暗术")可以中和她，并让队伍有机会根据需要集结。她还能够施放[冻僵](../Bone_Chill.md "冻僵")，阻止治疗一整回合。
+萨斯德拉本人在战斗开始时可能构成更直接的威胁，因为她可以施放[火球术](../Fireball.md "火球术")，而队伍成员默认会聚集在一起开始战斗。[沉默术](../Silence.md "沉默术")或[黑暗术](../Darkness.md "黑暗术")可以中和她，并让队伍有机会根据需要集结。她还能够施放[冻僵](../Bone_Chill.md "冻僵")，阻止治疗一整回合。
 
 或者，可以在战斗前杀死萨斯德拉、扈从、卡'尼斯和所有八个死灵侍僧：
 

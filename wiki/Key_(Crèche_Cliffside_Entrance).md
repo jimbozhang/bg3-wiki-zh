@@ -20,7 +20,7 @@
 
 - 位于[瑰晨修道院小径](Rosymorn_Monastery_Trail.md "瑰晨修道院小径")上的[冠蓝鸦的巢穴](Rosymorn_Monastery_Trail.md#Blue_Jay's_nest "瑰晨修道院小径")，以及[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")主入口附近东侧牢房上方的桌子上
 
-- 由[战士 Qen](Qen.md "战士 Qen")携带
+- 由[战士克恩](Qen.md "战士 Qen")携带
 
 ## 用途
 

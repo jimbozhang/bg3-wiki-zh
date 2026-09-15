@@ -85,7 +85,7 @@
 
 十二只**被诅咒的寇涛鱼人**和两只[被诅咒的寇涛鱼人首领](Cursed_Kuo-Toa_Chief.md "被诅咒的寇涛鱼人首领")在[雷斯文小镇](Reithwin_Town.md "雷斯文小镇")远北海岸的水边伏击。可以通过通过 DC 30 的[察觉技能](Perception.md "察觉技能")[属性检定](Ability_Check.md "属性检定")，或使用[识破隐形](See_Invisibility_(Condition).md "识破隐形 (状态)")发现它们。
 
-它们持续受到[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition)的影响.md)，使其沦为昔日荣光的阴影，并且[濡湿](Drenched_(Condition).md "濡湿 (状态)")，使每次攻击都能让对手全身[濡湿](Wet.md "濡湿")。
+它们持续受到[幽影诅咒不死生物](Shadow-Cursed_Undead_(Condition).md)的影响，使其沦为昔日荣光的阴影，并且[濡湿](Drenched_(Condition).md "濡湿 (状态)")，使每次攻击都能让对手全身[濡湿](Wet.md "濡湿")。
 
 ## 战斗
 

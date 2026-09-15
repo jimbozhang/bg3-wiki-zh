@@ -28,7 +28,7 @@
 
 持续时间：10驱散
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls"))
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls"))
 
 - 受影响实体将跟随并为束缚它的人战斗。
 - 每次受到伤害时，它可能通过一次成功的[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throw.md "豁免检定")来打破施法者的控制。

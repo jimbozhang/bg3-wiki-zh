@@ -51,7 +51,7 @@
 
 ## 战斗
 
-在战斗的第一回合，他们会尝试冲向敌人并使用[永恒债务](Forever_Indebted.md "永恒债务")，造成火球术术式的伤害并在此过程中杀死自己。之后，他们会永久转变为[复仇野猪](Vengeful_Boar.md "复仇野猪")、[复仇小魔鬼](Vengeful_Imp.md "复仇小魔鬼")或[复仇军团魔](Vengeful_Merregon.md "复仇军团魔")。
+在战斗的第一回合，他们会尝试冲向敌人并使用[永恒债务](Forever_Indebted.md "永恒债务")，造成火球术式的伤害并在此过程中杀死自己。之后，他们会永久转变为[复仇野猪](Vengeful_Boar.md "复仇野猪")、[复仇小魔鬼](Vengeful_Imp.md "复仇小魔鬼")或[复仇军团魔](Vengeful_Merregon.md "复仇军团魔")。
 
 ### 攻击与能力
 

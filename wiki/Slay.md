@@ -43,7 +43,7 @@
 
 持续时间：直到[长休](Long_Rest.md "长休")
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰"))
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰"))
 
 - 受影响的实体在自身恶臭的皮肤缸中腐烂，在[魅力](Charisma.md "魅力")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，并且对所有伤害具有[易伤](Damage_types.md#Vulnerability "伤害类型")。
 
@@ -57,7 +57,7 @@
 
 ## 错误
 
-- 杀戮者动作的[法术豁免DC](Spell_save_DC.md "法术豁免DC")使用你首次就职的*第一个*等级职业的[施法关键属性](Spells.md#Spellcasting_ability "法术")，但使用杀戮者的属性值。由于杀戮者的精神属性值很低，这导致DC非常低。特别是，战士、游荡者、法师、牧师、德鲁伊、武僧和游侠在杀戮者形态下，从智力或感知获得的施法调整值为+0，而野蛮人、吟游诗人、圣武士、术士和邪术师在杀戮者形态下，从魅力获得的施法调整值为-1。
+- 杀戮者动作的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")使用你首次就职的*第一个*等级职业的[施法关键属性](Spells.md#Spellcasting_ability "法术")，但使用杀戮者的属性值。由于杀戮者的精神属性值很低，这导致DC非常低。特别是，战士、游荡者、法师、牧师、德鲁伊、武僧和游侠在杀戮者形态下，从智力或感知获得的施法调整值为+0，而野蛮人、吟游诗人、圣武士、术士和邪术师在杀戮者形态下，从魅力获得的施法调整值为-1。
 
 ---
 *Source: [Slay](https://bg3.wiki/wiki/Slay)*

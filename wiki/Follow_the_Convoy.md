@@ -1,6 +1,6 @@
 # 跟随护卫队
 
-**跟随护卫队**是[博德之门3](Baldur's Gate_3.md "博德之门3")[第二幕](Act_Two.md "第二幕")中[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")的子[任务](Quest.md "Quest")。可以通过与从[山隘](Mountain_Pass.md "山隘")地面进入[幽影诅咒之地](Shadowlands.md "幽影诅咒之地")入口附近的[地精斗士](Goblin_Brawler.md "地精斗士")对话来启动。或者，如果在[突袭林地](Raid_the_Grove.md "突袭林地")期间支持了[明萨拉](Minthara.md "明萨拉")，则从[复仇之炉](Grymforge.md "复仇之炉")进入幽影诅咒之地时会自动启动。
+**跟随护卫队**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第二幕](Act_Two.md "第二幕")中[潜入月出之塔](Infiltrate_Moonrise_Towers.md "潜入月出之塔")的子[任务](Quest.md "Quest")。可以通过与从[山隘](Mountain_Pass.md "山隘")地面进入[幽影诅咒之地](Shadowlands.md "幽影诅咒之地")入口附近的[地精斗士](Goblin_Brawler.md "地精斗士")对话来启动。或者，如果在[突袭林地](Raid_the_Grove.md "突袭林地")期间支持了[明萨拉](Minthara.md "明萨拉")，则从[复仇之炉](Grymforge.md "复仇之炉")进入幽影诅咒之地时会自动启动。
 
 ## 目录
 

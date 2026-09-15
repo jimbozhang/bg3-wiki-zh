@@ -18,7 +18,7 @@
 
 - 在[幽暗地域](Underdark.md "幽暗地域")的[蕈人殖民地](Myconid_Colony.md "蕈人殖民地")由[德里丝·骨篷](Derryth_Bonecloak.md "德里丝·骨篷")和[布尔格](Blurg.md "布尔格")出售
 
-- [蔓生地道](Overgrown_Tunnel.md "蔓生地道")，鬼婆的巢穴；在蘑菇圈附近可以找到许多，蘑菇圈会将使用者[传送](Teleport.md "传送")到[幽暗地域](Underdark.md "幽暗地域")
+- [蔓生地道](Overgrown_Tunnel.md "蔓生地道")，鬼婆的巢穴；在蘑菇圈附近可以找到许多，蘑菇圈会将使用者传送到[幽暗地域](Underdark.md "幽暗地域")
 
 ---
 *Source: [Sylvan Stone](https://bg3.wiki/wiki/Sylvan_Stone)*

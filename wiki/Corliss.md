@@ -42,7 +42,7 @@
 
 - [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
 
-在[攻击检定](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出 1 时，重骰一次并使用新结果。
+在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出 1 时，重骰一次并使用新结果。
 
 - [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
 
@@ -60,7 +60,7 @@
 
 - [**半身人幸运**](Halfling_Luck.md "Halfling Luck")
 
-在[攻击检定](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出 1 时，重骰一次并使用新结果。
+在[攻击掷骰](Attack_roll.md "Attack roll")、[属性检定](Ability_Check.md "Ability check")或[豁免检定](Saving_throw.md "Saving throw")中掷出 1 时，重骰一次并使用新结果。
 
 - [**借机攻击**](Opportunity_Attack.md "Opportunity Attack")
 
@@ -88,7 +88,7 @@
 
 ### 第一幕
 
-当队伍首次接近修道院大门（坐标 X: 73 Y: 40）时，会播放过场动画。[掠夺者阿达斯](Add'ath.md "阿达斯")和[战士伊苏尔](伊苏尔.md "伊苏尔")正将一群[半身人](Lightfoot_Halfling.md "半身人")教徒（[博罗克](Burrock.md "博罗克")、科利斯和[马琳](Mahrin.md "马琳")）带到[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")接受队长审问。科利斯试图逃跑并被射中后背。如果允许掠夺者继续前进，修道院大门会在他们身后被魔法锁上。选择攻击他们则会保持大门敞开。<sup>[\[1\]](#cite_note-1)</sup> 还有其他几条进入内部的路线，包括通过火酒储藏室和格雷米斯卡巢穴。
+当队伍首次接近修道院大门（坐标 X: 73 Y: 40）时，会播放过场动画。[掠夺者阿达斯](Add'ath.md "阿达斯")和战士伊苏尔正将一群[半身人](Lightfoot_Halfling.md "半身人")教徒（[博罗克](Burrock.md "博罗克")、科利斯和[马琳](Mahrin.md "马琳")）带到[伊雷珂养育间](Crèche_Y'llek.md "伊雷珂养育间")接受队长审问。科利斯试图逃跑并被射中后背。如果允许掠夺者继续前进，修道院大门会在他们身后被魔法锁上。选择攻击他们则会保持大门敞开。<sup>[\[1\]](#cite_note-1)</sup> 还有其他几条进入内部的路线，包括通过火酒储藏室和格雷米斯卡巢穴。
 
 如果从大门上方的城垛通过坐标 X: 33 Y: 29 处的路障进入修道院，则不会播放过场动画，教徒们会四散逃跑。移动到城垛会触发掠夺者攻击教徒，但队伍可以在坐标 X: 67 Y: 44（大门上方房间内）进入战斗，跳下并阻止掠夺者攻击教徒。
 

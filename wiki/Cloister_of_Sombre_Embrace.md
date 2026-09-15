@@ -60,7 +60,7 @@
 
 通过暴露的通道向下后，队伍首先到达的似乎是哀伤之邸的地窖。它由一个装饰着莎尔符号的小前厅和两个中等大小的上锁房间组成，分别称为_渗透训练_和_审讯训练_。两扇门都需要 DC 15 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。
 
-_渗透训练_区充满了各种人体模型和架子上的伪装。[影心](Shadowheart.md "影心")如果在场，可以通过被动 DC 20 [历史的](History.md "历史的") [属性检定](Ability_Check.md "属性检定")揭示每件服装的真实用途。桌子上有一份[字条](Report_on_Activities_of_Enver_Gortash.md "恩弗·戈塔什活动报告")，提示了如何进入[希望之邸](House_of_Hope.md "希望之邸")（从而更新任何关于它的活动任务），以及一本揭示影心最初任务——取回[神秘遗物](Mysterious_Artefact.md "神秘遗物")的书籍。角落里有两个为练习撬锁技能准备的箱子；都需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。吉斯洋基风格的箱子里装有随机的小型战利品，而灵吸怪风格的箱子里则装有金币和[炼金术](Alchemy.md "炼金术")材料。房间周围有一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")和两套[盗贼工具](Thieves'_Tools.md "盗贼工具")。
+_渗透训练_区充满了各种人体模型和架子上的伪装。[影心](Shadowheart.md "影心")如果在场，可以通过被动 DC 20 [历史](History.md "历史") [属性检定](Ability_Check.md "属性检定")揭示每件服装的真实用途。桌子上有一份[字条](Report_on_Activities_of_Enver_Gortash.md "恩弗·戈塔什活动报告")，提示了如何进入[希望之邸](House_of_Hope.md "希望之邸")（从而更新任何关于它的活动任务），以及一本揭示影心最初任务——取回[神秘遗物](Mysterious_Artefact.md "神秘遗物")的书籍。角落里有两个为练习撬锁技能准备的箱子；都需要 DC 20 [巧手](Sleight_of_Hand.md "巧手") [属性检定](Ability_Check.md "属性检定")来撬锁。吉斯洋基风格的箱子里装有随机的小型战利品，而灵吸怪风格的箱子里则装有金币和[炼金术](Alchemy.md "炼金术")材料。房间周围有一个[解除陷阱工具包](Trap_Disarm_Toolkit.md "解除陷阱工具包")和两套[盗贼工具](Thieves'_Tools.md "盗贼工具")。
 
 _审讯训练_室是一个刑讯室。除了几块[火焰琥珀](Fire_Amber.md "火焰琥珀")外，没有值得注意的战利品。
 

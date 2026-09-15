@@ -29,7 +29,7 @@
 - 获得[野蛮人](Barbarian.md "Barbarian")所选副职的[狂暴](Rage.md "Rage")变体的所有常规加成和抗性，此外：
   - 武器攻击造成额外1d4⁠⁠[物理伤害](Physical.md "Physical")（伤害类型继承自装备武器）
   - 每回合承受1d4⁠⁠[心灵](Psychic.md "心灵")
-- 狂暴不会结束，直到野蛮人使用**结束狂暴**附赠动作或变为[失能](Incapacitated.md "Incapacitated")状态。
+- 狂暴不会结束，直到野蛮人使用**结束狂暴**附赠动作或变为[失能](Endless_Rage_(Condition).md "Incapacitated")状态。
 
 ## 备注
 

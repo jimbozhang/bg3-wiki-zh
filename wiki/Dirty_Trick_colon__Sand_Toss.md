@@ -18,7 +18,7 @@
 
 详情
 近战武器[攻击掷骰](Attack_roll.md "攻击掷骰")
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 近战：1.5 米（5 英尺）
 
 ## 状态：目盲
@@ -27,7 +27,7 @@
 
 持续时间：2 驱散
 
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响生物在[攻击掷骰](Attack_roll.md "攻击掷骰")上具有[劣势](Disadvantage.md "劣势")。
 - 受影响生物的攻击和法术范围减少至 3 米（10 英尺）。
@@ -49,7 +49,7 @@
 
 ## 备注
 
-- 此动作的[法术豁免DC](Spell_save_DC.md "法术豁免DC")使用[敏捷](Dexterity.md "敏捷")计算。尽管使用物理属性值，但它不使用[武器动作DC](Weapon_action_DC.md "武器动作DC")，因此仍受益于[任何提升法术豁免DC的效果](List_of_sources_that_affect_Spell_Save_DC.md "影响法术豁免DC的来源列表")。
+- 此动作的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")使用[敏捷](Dexterity.md "敏捷")计算。尽管使用物理属性值，但它不使用[武器动作DC](Weapon_action_DC.md "武器动作DC")，因此仍受益于[任何提升法术豁免难度等级的效果](List_of_sources_that_affect_Spell_Save_DC.md "影响法术豁免难度等级的来源列表")。
 - 与[肮脏伎俩：手腕轻弹](Dirty_Trick_colon__Flick_o'_the_Wrist.md "肮脏伎俩：手腕轻弹")不同，扬沙不需要[灵巧](Finesse.md "灵巧")武器。
   - 此动作的攻击掷骰使用与主手武器相同的属性调整值，例如灵巧武器使用敏捷，徒手或标准武器使用力量，邪术师魔契武器使用魅力。
 - 尽管不造成武器伤害，此动作仍会触发许多近战命中被动（例如[猎人匕首](Hunter's_Dagger.md "猎人匕首")或[自然陷阱](Nature's_Snare.md "自然陷阱")），但不会触发武器功能（例如[轻语匕首](Sussur_Dagger.md "轻语匕首")的沉默掷骰或[至上真神之视](Vision_of_the_Absolute.md "至上真神之视")的目盲掷骰）。

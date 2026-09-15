@@ -30,7 +30,7 @@
 
 持续时间：3驱散
 
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）
 
 - 受影响实体已被秘术师卡里翁诅咒。其中毒。
 - 其必须在回合结束时成功通过体质[豁免检定](Saving_throw.md "Saving Throw")，否则将陷入[秘术师卡里翁的目盲诅咒](Mystic_Carrion's_Blinding_Curse_(Condition).md "秘术师卡里翁的目盲诅咒 (状态)")并受到2d10⁠⁠[黯蚀](Necrotic.md "黯蚀")伤害。

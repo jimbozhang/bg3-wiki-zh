@@ -6,11 +6,11 @@
 
 ## 描述
 
-当使用者使用近程法术或近程[戏法](Cantrip.md "Cantrip")造成伤害时，获得[奥术充能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")。
+当使用者使用近程法术或近程[戏法](Cantrip.md "Cantrip")造成伤害时，获得[奥术蓄能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")。
 
-## 状态：奥术充能
+## 状态：奥术蓄能
 
-**[奥术充能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")**
+**[奥术蓄能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")**
 
 持续时间：2 驱散
 

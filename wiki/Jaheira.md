@@ -202,7 +202,7 @@
 | --- | --- | --- |
 | 2 | 2 | 3 |
 
-虽然她在第一幕期间没有出现，但队伍可以偶然发现关于她的线索。在[复仇之炉](Grymforge.md "复仇之炉")，可以在[穆马斯](Murmath.md "穆马斯")附近的X: -632 Y: 388处的一个笼子里找到一个名叫[贾姆](Jhaam.md "贾姆")的死去的[卓尔](Drow.md "卓尔")。可以对她使用[死者交谈](Speak_with_Dead.md "死者交谈")，揭示她是贾希拉派来调查复仇之炉中[救出真魂者尼讷](Free_True_Soul_Nere.md "救出真魂者尼讷")的传言，以及他们寻找[潜在武器](Adamantine_Forge_(location)的尝试.md)。如果尚未遇到贾希拉，同伴们会评论是否认识她的名字。只有[卡菈克](Karlach.md "卡菈克")确切知道她是谁，而[阿斯代伦](Astarion.md "阿斯代伦")和[威尔](Wyll.md "威尔")听说过她，[莱埃泽尔](Lae'zel.md "莱埃泽尔")、[影心](Shadowheart.md "影心")和[盖尔](Gale.md "盖尔")则毫无头绪。<sup>[\[9\]](#cite_note-9)</sup>
+虽然她在第一幕期间没有出现，但队伍可以偶然发现关于她的线索。在[复仇之炉](Grymforge.md "复仇之炉")，可以在[穆马斯](Murmath.md "穆马斯")附近的X: -632 Y: 388处的一个笼子里找到一个名叫[贾姆](Jhaam.md "贾姆")的死去的[卓尔](Drow.md "卓尔")。可以对她使用[死者交谈](Speak_with_Dead.md "死者交谈")，揭示她是贾希拉派来调查复仇之炉中[救出真魂者尼讷](Free_True_Soul_Nere.md "救出真魂者尼讷")的传言，以及他们寻找[潜在武器](Adamantine_Forge_(location).md)的尝试。如果尚未遇到贾希拉，同伴们会评论是否认识她的名字。只有[卡菈克](Karlach.md "卡菈克")确切知道她是谁，而[阿斯代伦](Astarion.md "阿斯代伦")和[威尔](Wyll.md "威尔")听说过她，[莱埃泽尔](Lae'zel.md "莱埃泽尔")、[影心](Shadowheart.md "影心")和[盖尔](Gale.md "盖尔")则毫无头绪。<sup>[\[9\]](#cite_note-9)</sup>
 
 ### 第二幕
 
@@ -403,7 +403,7 @@ _“我们战斗，我们死亡，当我们的时刻到来时，我们只希望�
 
 - [炼金术小袋](Alchemy_Pouch.md "炼金术小袋")
 - [营地补给袋](Camp_Supply_Sack.md "营地补给袋")
-- [贾希拉的靴子](Jaheira's_Boots.md "贾希拉的靴子")
+- 贾希拉的靴子
 - [皮甲](Leather_Armour.md "皮甲")
 - [皮手套](Leather_Gloves.md "皮手套")
 - [贾希拉的体面服装](Jaheira's_Respectable_Clothes.md "贾希拉的体面服装")
@@ -450,7 +450,7 @@ _“我们战斗，我们死亡，当我们的时刻到来时，我们只希望�
     - 如果队伍进入一个冲突自动针对他们开始的区域（例如[古代密室](Ancient_Lair.md "古代密室")或[清账屋高安保金库](The_Counting_House.md#The_Counting_House_-_High_Security_Vaults "清账屋")），她会保持脱离战斗，除非她攻击。
       - 如果贾希拉独自进入一个通常因脚本事件而开始战斗的区域，战斗不会为她开始，除非她被脚本指定为目标，例如在[谋杀裁判所](Impress_the_Murder_Tribunal.md#Murder_Tribunal "谋杀裁判所")的[沙洛佛克·安基夫](Sarevok_Anchev.md "沙洛佛克·安基夫")。这种排除的一些例子：
         - [多洛](Dolor.md "多洛")在[科拉·海伯瑞](Cora_Highberry.md "科拉·海伯瑞")的品酒会上被揭穿后
-        - 在[灰色港口码头](Grey_Hairbour_Docks.md "灰色港口码头")企图私刑处死[瓦罗](Volo.md "瓦罗")
+        - 在[灰色港口码头](Grey_Harbour_Docks.md "灰色港口码头")企图私刑处死[瓦罗](Volo.md "瓦罗")
         - [奥林](Orin.md "奥林")在[底城废墟](Undercity_Ruins.md "底城废墟")的巴尔祭坛上
     - 在贾希拉避免冲突的情况下，潜在的战斗人员可能会采取战斗姿态（如果尚未交战），而她可以自由地在这些区域漫游，与物体互动并施放非战斗法术，同时避免脚本化的战斗。
   - 这个错误有缺点。其中包括：如果她在战斗外杀死一个对手（即使活跃队伍的其他成员正在与相同的目标战斗），这会被视为犯罪——例如——由[焰拳](Flaming_Fist.md "焰拳")和[卫士](The_Watch_(faction)处理。

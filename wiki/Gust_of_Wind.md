@@ -13,7 +13,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [2级法术位](Spells.md#Spell_slots "法术位")
 详情
-[力量](Strength.md "力量")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：目标不会被推回或陷入失衡。）
+[力量](Strength.md "力量")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：目标不会被推回或陷入失衡。）
 范围：自身
 作用区域：12米（40英尺）线形
 推力：5米（17英尺）
@@ -28,7 +28,7 @@
 
 持续时间：1回合
 
-[力量](Strength.md "力量")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[力量](Strength.md "力量")[豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响实体在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[属性检定](Ability_Check.md "属性检定")上具有[劣势](Disadvantage.md "劣势")，且针对该实体的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。
 - 通过承受伤害或被[协助](Help.md "协助")移除。

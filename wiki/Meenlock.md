@@ -85,7 +85,7 @@
 
 [恐惧光环](Fear_Aura_(Condition).md "恐惧光环 (状态)")可以通过[安定心神](Calm_Emotions.md "安定心神")、[行动自如](Freedom_of_Movement.md "行动自如")和[防护善恶](Protection_from_Evil_and_Good.md "防护善恶")来预防或抵消。
 
-[麻痹](Paralysed_(Condition).md "麻痹 (状态)")状态可以通过[慰藉箭](Arrow_of_Salving.md "慰藉箭")、[恢复](Lesser_Restoration.md "恢复")和[康复药水](Remedial_Potion.md "康复药水")来治愈。
+[麻痹](Paralysed_(Condition).md "麻痹 (状态)")状态可以通过[慰藉箭](Arrow_of_Salving.md "慰藉箭")、[次级复原术](Lesser_Restoration.md "恢复")和[康复药水](Remedial_Potion.md "康复药水")来治愈。
 
 ## 画廊
 

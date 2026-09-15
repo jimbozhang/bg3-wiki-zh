@@ -168,7 +168,7 @@
 |
 
 - 由织法本身制成的藤蔓——一种最不正统的惑控学派法术。
-- 使受影响实体 [失能](Incapacitate.md "失能")。当实体被攻击时驱散。
+- 使受影响实体 失能。当实体被攻击时驱散。
 
 ---
 *Source: [Restrained (status group)](https://bg3.wiki/wiki/Restrained_(status_group)*

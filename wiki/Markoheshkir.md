@@ -31,7 +31,7 @@ UID `MAG_TheChromatic_Staff` UUID `7e39ad11-f8c3-421a-940c-05348c420c7d` Stats `
 用源自龙神克雷斯卡的元素能量灌注自身。（充能：[短休](Short_rest.md "短休")。）
 
 [奥术增强](Arcane_Enchantment_(+1).md)
-你获得对[法术豁免DC](Spell_save_DC.md "法术豁免DC")和[法术攻击](Spell_Attack.md "法术攻击")掷骰的 +1 奖励。
+你获得对[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")和[法术攻击](Spell_Attack.md "法术攻击")掷骰的 +1 奖励。
 
 [奥术蓄能](Arcane_Battery.md "奥术蓄能")
 用此法杖的力量减轻施法的奥术负担。你施放的下一个法术不消耗[法术位](Spell_Slot.md "法术位")。

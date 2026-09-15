@@ -15,7 +15,7 @@
 2d6 + [力量调整值](Strength.md#Strength_modifier_chart "力量")⁠[钝击](Bludgeoning.md "钝击")
 
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：[跳跃](Jump.md "跳跃")范围
 范围效果：5米（17英尺）半径
 充能：每回合
@@ -30,7 +30,7 @@
 
 持续时间：2回合
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响的生物无法移动或进行[动作](Actions.md#Resources "动作")、[附赠动作](Actions.md#Resources "动作")或[反应](Actions.md#Reactions "动作")，且在[力量](Strength.md "力量")和[敏捷](Dexterity.md "敏捷")[豁免检定](Saving_throw.md "豁免检定")上具有[劣势](Disadvantage.md "劣势")。
 - 在3米（10英尺）范围内对倒伏生物的攻击具有[优势](Advantage.md "优势")。
@@ -48,7 +48,7 @@
 
 ## 错误
 
-- 杀戮者动作的[法术豁免DC](Spell_save_DC.md "法术豁免DC")使用你首次就职的*第一个*职业的[施法关键属性](Spells.md#Spellcasting_ability "法术")，但使用杀戮者的属性值。这导致由于杀戮者较低的精神属性值而产生非常低的DC。特别是，战士、游荡者、法师、牧师、德鲁伊、武僧和游侠在杀戮者形态下，来自智力或感知的[施法调整值](Spells.md#Spellcasting_modifier "施法调整值")为+0，而野蛮人、吟游诗人、圣武士、术士和邪术师在杀戮者形态下，来自魅力的施法调整值为-1。
+- 杀戮者动作的[法术豁免难度等级](Spell_save_DC.md "法术豁免难度等级")使用你首次就职的*第一个*职业的[施法关键属性](Spells.md#Spellcasting_ability "法术")，但使用杀戮者的属性值。这导致由于杀戮者较低的精神属性值而产生非常低的DC。特别是，战士、游荡者、法师、牧师、德鲁伊、武僧和游侠在杀戮者形态下，来自智力或感知的[施法调整值](Spells.md#Spellcasting_modifier "施法调整值")为+0，而野蛮人、吟游诗人、圣武士、术士和邪术师在杀戮者形态下，来自魅力的施法调整值为-1。
 
 - `AreaRadius`被错误地设置为18米（60英尺），导致范围效果半径看起来比实际大得多。
 

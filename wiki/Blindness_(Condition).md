@@ -5,9 +5,9 @@
 **失明术**
 
 - 受影响的生物在 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。
-- 受影响生物的 [远程](ranged.md "远程") [攻击](attack.md "攻击") 和 [法术](Spell.md "法术") 范围为 3 米（10 英尺）。
+- 受影响生物的 [远程](List_of_ranged_weapons.md "远程") [攻击](attack.md "攻击") 和 [法术](Spell.md "法术") 范围为 3 米（10 英尺）。
 - 对受影响生物的 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
-- 在每个 [驱散](Turn.md "驱散") 结束时，受影响的生物进行一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。如果成功，则移除该状态。
+- 在每个 [驱散](Turned_(Condition).md "驱散") 结束时，受影响的生物进行一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。如果成功，则移除该状态。
 
 [目盲](Blinded_(status_group).md)
 
@@ -34,9 +34,9 @@ _维基数据库中未定义_
 ## 具有相同堆叠 ID 的状态
 
 - 受影响的生物在 [攻击掷骰](Attack_roll.md "攻击掷骰") 上具有 [劣势](Disadvantage.md "劣势")。
-- 受影响生物的 [远程](ranged.md "远程") [攻击](attack.md "攻击") 和 [法术](Spell.md "法术") 范围为 3 米（10 英尺）。
+- 受影响生物的 [远程](List_of_ranged_weapons.md "远程") [攻击](attack.md "攻击") 和 [法术](Spell.md "法术") 范围为 3 米（10 英尺）。
 - 对受影响生物的 [攻击掷骰](Attack_roll.md "攻击掷骰") 具有 [优势](Advantage.md "优势")。
-- 在每个 [驱散](Turn.md "驱散") 结束时，受影响的生物进行一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。如果成功，则移除该状态。
+- 在每个 [驱散](Turned_(Condition).md "驱散") 结束时，受影响的生物进行一次 [体质](Constitution.md "体质") [豁免检定](Saving_throw.md "豁免检定")。如果成功，则移除该状态。
 
 ---
 *Source: [Blindness (Condition)](https://bg3.wiki/wiki/Blindness_(Condition)*

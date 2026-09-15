@@ -11,7 +11,7 @@
 消耗
 [附赠动作](Actions.md#Resources "动作") + [引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")
 详情
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：9米（30英尺）半径
 
 ## 状态：冠军勇士挑战
@@ -20,7 +20,7 @@
 
 持续时间：10驱散
 
-[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[感知](Wisdom.md "感知") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 受影响实体被迫攻击挑战它的圣武士。他们对圣武士以外的任何目标可能进行的攻击都将带有[劣势](Disadvantage.md "劣势")。
 - 如果实体与圣武士的距离超过9米（30英尺），状态结束。

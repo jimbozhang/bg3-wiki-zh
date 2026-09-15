@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作")
 详情
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 范围效果：9米（30英尺）半径
 
 ## 状态：被挑衅
@@ -20,7 +20,7 @@
 
 持续时间：2回合
 
-[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
+[感知](Wisdom.md "Wisdom") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）
 
 - 必须攻击挑衅的生物，如果可能。
 - 对除施法者外的目标进行[攻击掷骰](Attack_Roll.md "攻击掷骰")时具有[劣势](Disadvantage.md "劣势")。

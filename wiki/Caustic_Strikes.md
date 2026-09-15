@@ -10,7 +10,7 @@
 
 **[麻痹](Paralysed_(Condition).md "麻痹 (状态)")**
 
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
 [体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[骰子掷骰](DC.md "骰子掷骰") 15）
 

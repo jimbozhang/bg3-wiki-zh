@@ -54,7 +54,7 @@ English
 ### 工具
 
 - [特殊页面](../Special_colon_SpecialPages.md "所有特殊页面列表 [q]")
-- [可打印版本](javascript:print();>.md) "此页面的可打印版本 [p]")
+- [可打印版本](../Special_colon_SpecialPages.md) "此页面的可打印版本 [p]")
 
 ### 广告
 

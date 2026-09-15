@@ -4,11 +4,11 @@
 
 ## 描述
 
-[魅惑](魅惑_(状态).md "魅惑 (状态)")或[恐吓](恐慌_(状态).md "恐慌 (状态)")一个生物，可获得对[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")的**1d4**加值。
+[魅惑](Charmed_(Condition).md "魅惑 (状态)")或[恐吓](Frightened_(Condition).md "恐慌 (状态)")一个生物，可获得对[攻击掷骰](Attack_roll.md "攻击掷骰")和[豁免检定](Saving_throw.md "豁免检定")的**1d4**加值。
 
 ## 状态：幽暗地域之主的祝福
 
-**[幽暗地域之主的祝福](幽暗地域之主的祝福_(状态).md "幽暗地域之主的祝福 (状态)")**
+**[幽暗地域之主的祝福](Lieges_of_the_Underdark_Blessing_(Condition).md "幽暗地域之主的祝福 (状态)")**
 
 持续时间：3驱散
 
@@ -22,7 +22,7 @@
 
 ## 备注
 
-- **灵吸怪狂喜**提供了一种[祝福术](祝福术_(状态).md "祝福术 (状态)")的变体，但与其不叠加。
+- **灵吸怪狂喜**提供了一种[祝福术](Bless_(Condition).md "祝福术 (状态)")的变体，但与其不叠加。
 
 ---
 *Source: [Illithid Euphoria](https://bg3.wiki/wiki/Illithid_Euphoria)*

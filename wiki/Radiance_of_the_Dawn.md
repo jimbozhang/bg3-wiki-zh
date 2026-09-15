@@ -19,7 +19,7 @@
 \+ 角色等级⁠[光耀](Radiant.md "光耀")
 
 详情
-[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（豁免成功时：目标仍承受一半伤害。）
+[体质](Constitution.md "体质") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "骰子掷骰")）（豁免成功时：目标仍承受一半伤害。）
 范围：9米（30英尺）半径
 
 ## 学习方式

@@ -16,7 +16,7 @@
 | 警觉 | [警觉](Alert.md "警觉") |
 | 你的[先攻](Initiative.md "先攻")检定获得+5加值，并且不会被[受惊](Surprised_(Condition).md "受惊（状态）")。 |  |
 | 运动员 | [运动员：起立](Athlete_colon__Standing_Up.md "运动员：起立") |
-| 你的[力量](Strength.md "力量")或[敏捷](Dexterity.md "敏捷")属性值提高1点，最高不超过20点。当你处于[倒地](Prone_(Condition).md "倒地（状态）")状态时，起立所消耗的移动速度显著减少。你的[跳跃](Jump.md "跳跃")距离也会增加50%。 |  |
+| 你的[力量](Strength.md "力量")或[敏捷](Dexterity.md "敏捷")属性值提高1点，最高不超过20点。当你处于[倒伏](Prone_(Condition).md "倒伏（状态）")状态时，起立所消耗的移动速度显著减少。你的[跳跃](Jump.md "跳跃")距离也会增加50%。 |  |
 | 冲锋 | [冲锋：武器攻击](Charger_colon__Weapon_Attack.md "冲锋：武器攻击") |
 | 向前冲锋，用武器猛击路径上的第一个敌人，且不会引发[借机攻击](Opportunity_Attack.md "借机攻击")。 |  |
 | [冲锋：推击](Charger_colon__Shove.md "冲锋：推击") |  |

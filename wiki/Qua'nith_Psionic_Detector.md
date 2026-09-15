@@ -1,6 +1,6 @@
 # 灵能探测器
 
-灵能探测器是一个与[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")任务相关的[故事道具](Story_Item.md "故事道具")杂物物品。它会警告持有者[吉斯洋基人](Githyanki.md "吉斯洋基人")的[伏击](Ambush.md "伏击")。
+灵能探测器是一个与[吉斯洋基战士](The_Githyanki_Warrior.md "吉斯洋基战士")任务相关的[故事道具](Story_Item.md "故事道具")杂物物品。它会警告持有者[吉斯洋基人](Githyanki.md "吉斯洋基人")的[伏击](Ambushed_(Condition).md "伏击")。
 
 几乎难以察觉的魔法从这件奇特的装置中流淌而出。它正在搜索、寻找、聆听...
 

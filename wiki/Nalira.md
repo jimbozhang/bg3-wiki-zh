@@ -139,7 +139,7 @@
 
 ## 错误
 
-- 如果在击败[月出之塔](Moonrise_Towers.md "Moonrise Towers")的[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")成员后前往营地，然后进入屋顶，队伍可能会发现塔莉正在与[法里莫恩](Farimorn.md "Farimorn")和其他至上真神教朝圣者[永](Iong.md "Iong")、纳莉拉、[苏尔](Sul_(pilgrim)以.md)及[泰玛](Taima.md "Taima")战斗。无需在营地长休即可发生此情况；[多位Steam用户报告](https://steamcommunity.com/app/1086940/discussions/0/3819669231701481446/)。
+- 如果在击败[月出之塔](Moonrise_Towers.md "Moonrise Towers")的[至上真神教](Cult_of_the_Absolute.md "Cult of the Absolute")成员后前往营地，然后进入屋顶，队伍可能会发现塔莉正在与[法里莫恩](Farimorn.md "Farimorn")和其他至上真神教朝圣者[永](Iong.md "Iong")、纳莉拉、[苏尔](Sul_(pilgrim).md)以及[泰玛](Taima.md "Taima")战斗。无需在营地长休即可发生此情况；[多位Steam用户报告](https://steamcommunity.com/app/1086940/discussions/0/3819669231701481446/)。
 
 ---
 *Source: [Nalira](https://bg3.wiki/wiki/Nalira)*

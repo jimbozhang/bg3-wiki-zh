@@ -20,7 +20,7 @@
 
 ## 获取地点
 
-- [星界](Astral_Plane.md "Astral Plane") X: -163 Y: -1158：由[高级教士里'瑞克](Lir'i'c.md "Lir'i'c")携带，进入[第三章](Act_Three.md "Act Three")时
+- [星界](Astral_Plane.md "Astral Plane") X: -163 Y: -1158：由[高级教士里'瑞克](Lir'i'c.md "高级教士里'瑞克")携带，进入[第三章](Act_Three.md "Act Three")时
 
 ## 图库
 

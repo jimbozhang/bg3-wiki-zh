@@ -88,7 +88,7 @@
 
 ## 注释
 
-- 洛山达与[贡德](Gond.md "贡德")、⁠[泰摩拉](Tymora.md "泰摩拉")、⁠[提尔](Tyr.md "提尔")、⁠[托姆](https://forgottenrealms.fandom.com/wiki/Torm)、⁠[伊尔梅特](Ilmater.md "伊尔梅特")、⁠[苏妮](https://forgottenrealms.fandom.com/wiki/Sune)、⁠[塞伦涅](Sel%C3%BBne.md "塞伦涅")、⁠[欧格玛](Oghma.md "欧格玛")、⁠[凯兰沃](Kelemvor.md "凯兰沃")和⁠[梅莉凯](Mielikki.md "梅莉凯")结盟，并与⁠[塔洛斯](Talos.md "塔洛斯")、⁠[莎尔](Shar.md "莎尔")和⁠[海姆](Helm_(God)为敌.md)。
+- 洛山达与[贡德](Gond.md "贡德")、⁠[泰摩拉](Tymora.md "泰摩拉")、⁠[提尔](Tyr.md "提尔")、⁠[托姆](https://forgottenrealms.fandom.com/wiki/Torm)、⁠[伊尔梅特](Ilmater.md "伊尔梅特")、⁠[苏妮](https://forgottenrealms.fandom.com/wiki/Sune)、⁠[塞伦涅](Sel%C3%BBne.md "塞伦涅")、⁠[欧格玛](Oghma.md "欧格玛")、⁠[凯兰沃](Kelemvor.md "凯兰沃")和⁠[梅莉凯](Mielikki.md "梅莉凯")结盟，并与⁠[塔洛斯](Talos.md "塔洛斯")、⁠[莎尔](Shar.md "莎尔")和⁠[海姆](Helm_(God).md)为敌。
 
 ## 外部链接
 

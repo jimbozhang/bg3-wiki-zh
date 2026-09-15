@@ -112,7 +112,7 @@
 | [魅力](Charisma.md "魅力") | [欺瞒](Deception.md "欺瞒") [威吓](Intimidation.md "威吓") [表演](Performance.md "表演") [游说](Persuasion.md "游说") |
 | [体质](Constitution.md "体质") | 无 |
 | [敏捷](Dexterity.md "敏捷") | [体操](Acrobatics.md "体操") [巧手](Sleight_of_Hand.md "巧手") [隐匿](Stealth.md "隐匿") |
-| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史的](History.md "历史的") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
+| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史](History.md "历史") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
 | [力量](Strength.md "力量") | [运动](Athletics.md "运动") |
 | [感知](Wisdom.md "感知") | [驯兽](Animal_Handling.md "驯兽") [洞悉](Insight.md "洞悉") [医药](Medicine.md "医药") [察觉技能](Perception.md "察觉技能") [求生](Survival.md "求生") |
 
@@ -137,7 +137,7 @@
 |
 
 - [奥秘](Arcana.md "奥秘")
-- [历史的](History.md "历史的")
+- [历史](History.md "历史")
 - [调查](Investigation.md "调查")
 - [自然](Nature.md "自然")
 - [宗教](Religion.md "宗教")
@@ -173,8 +173,8 @@
 
 不需要事先拥有相应技能熟练项的专精来源包括：
 
-- [岩侏儒](Gnome.md#Rock_gnome "侏儒")的[历史的](History.md "历史的")专精
-- [知识领域](Knowledge_Domain.md "知识领域")[牧师](Cleric.md "牧师")在1级时从以下技能中选择两项获得专精：[奥秘](Arcana.md "奥秘")、[历史的](History.md "历史的")、[自然](Nature.md "自然")或[宗教](Religion.md "宗教")
+- [岩侏儒](Gnome.md#Rock_gnome "侏儒")的[历史](History.md "历史")专精
+- [知识领域](Knowledge_Domain.md "知识领域")[牧师](Cleric.md "牧师")在1级时从以下技能中选择两项获得专精：[奥秘](Arcana.md "奥秘")、[历史](History.md "历史")、[自然](Nature.md "自然")或[宗教](Religion.md "宗教")
 - [演员](Actor.md "演员")专长授予的[欺瞒](Deception.md "欺瞒")和[表演](Performance.md "表演")专精
 - [灵吸怪专精](Illithid_Expertise.md "灵吸怪专精")特性授予的[欺瞒](Deception.md "欺瞒")、[威吓](Intimidation.md "威吓")和[游说](Persuasion.md "游说")专精
 
@@ -183,7 +183,7 @@
 自动掷骰
 部分属性检定是自动进行的。例如，当一个生物接近陷阱时，会自动掷一次[察觉技能](Perception.md "察觉技能")检定来判断其是否注意到了陷阱。察觉是感知技能，因此该生物会加上其感知调整值，如果对察觉拥有熟练项，还会加上熟练项加值。
 对话中
-属性检定在对话中也很常见，某些回应选项需要通过属性检定来决定结果。例如，使用魅力技能如[游说](Persuasion.md "游说")、[欺瞒](Deception.md "欺瞒")或[威吓](Intimidation.md "威吓")来影响他人，或使用智力技能如[奥秘](Arcana.md "奥秘")、[历史的](History.md "历史的")或[宗教](Religion.md "宗教")来辨认或回忆事实。在这些检定之前，屏幕底部会出现一个标有"添加加值"的按钮，<sup>[\[2\]](#cite_note-3)</sup>允许玩家角色和其他队伍成员自由使用可用的法术和消耗品来为检定增加加值。在与物体互动时进行属性检定（如解除陷阱或撬锁）时也同样适用。
+属性检定在对话中也很常见，某些回应选项需要通过属性检定来决定结果。例如，使用魅力技能如[游说](Persuasion.md "游说")、[欺瞒](Deception.md "欺瞒")或[威吓](Intimidation.md "威吓")来影响他人，或使用智力技能如[奥秘](Arcana.md "奥秘")、[历史](History.md "历史")或[宗教](Religion.md "宗教")来辨认或回忆事实。在这些检定之前，屏幕底部会出现一个标有"添加加值"的按钮，<sup>[\[2\]](#cite_note-3)</sup>允许玩家角色和其他队伍成员自由使用可用的法术和消耗品来为检定增加加值。在与物体互动时进行属性检定（如解除陷阱或撬锁）时也同样适用。
 对抗
 对抗是指两个生物各掷一次骰，结果较高者获胜的情况。也可以说一个生物的掷骰结果决定了另一个生物掷骰的[难度等级](Difficulty_Class.md "难度等级")。例如，在[躲藏](Hide.md "躲藏")状态下进行攻击时，目标掷察觉检定，攻击者掷隐匿检定进行对抗。
 这也可能涉及[被动检定](Passive_check.md "被动检定")来代替主动掷骰。例如，处于非友方生物视线内的隐藏玩家角色必须进行隐匿检定，与对方生物的被动察觉值对抗。另一个例子是尝试[推击](Shove.md "推击")或[投掷](Throw.md "投掷")一个生物，此时进行尝试的生物掷一次[运动](Athletics.md "运动")检定，与对方生物的被动运动或[体操](Acrobatics.md "体操")值（取较高者）对抗。
@@ -316,7 +316,7 @@
 | [魅力](Charisma.md "魅力") | [欺瞒](Deception.md "欺瞒") [威吓](Intimidation.md "威吓") [表演](Performance.md "表演") [游说](Persuasion.md "游说") |
 | [体质](Constitution.md "体质") | 无 |
 | [敏捷](Dexterity.md "敏捷") | [体操](Acrobatics.md "体操") [巧手](Sleight_of_Hand.md "巧手") [隐匿](Stealth.md "隐匿") |
-| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史的](History.md "历史的") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
+| [智力](Intelligence.md "智力") | [奥秘](Arcana.md "奥秘") [历史](History.md "历史") [调查](Investigation.md "调查") [自然](Nature.md "自然") [宗教](Religion.md "宗教") |
 | [力量](Strength.md "力量") | [运动](Athletics.md "运动") |
 | [感知](Wisdom.md "感知") | [驯兽](Animal_Handling.md "驯兽") [洞悉](Insight.md "洞悉") [医药](Medicine.md "医药") [察觉技能](Perception.md "察觉技能") [求生](Survival.md "求生") |
 投掷
@@ -331,7 +331,7 @@
 
 #### 力量豁免
 
-力量豁免很少见，主要在试图抵抗被[击倒](Prone_(condition)时被要求.md)。
+力量豁免很少见，主要在试图抵抗被[击倒](Prone_(condition).md)时被要求。
 
 ### 敏捷
 
@@ -521,7 +521,7 @@
 | [邪术师](Warlock.md "邪术师") |  |  |  |  | ✓ | ✓ |
 | [法师](Wizard.md "法师") |  |  |  | ✓ |  | ✓ |
 
-魅力豁免很少见，通常仅出现在施加[放逐](Banished_(Condition)状态的效果上.md)，或作为术士、邪术师或吟游诗人在对话中遇到的感知或智力豁免的职业替代选项，例如阅读[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术")。
+魅力豁免很少见，通常仅出现在施加[放逐](Banished_(Condition).md)状态的效果上，或作为术士、邪术师或吟游诗人在对话中遇到的感知或智力豁免的职业替代选项，例如阅读[塞尔死灵法术](Necromancy_of_Thay.md "塞尔死灵法术")。
 
 ## 提升或降低属性值
 
@@ -572,7 +572,7 @@
 ## 参考资料
 
 1. [↑](#cite_ref-2) 这些掷骰通常被社区称为"技能检定"，尽管游戏内并不如此称呼。
-1. [↑](#cite_ref-3) 某些剧情事件不允许以此方式添加加值，例如抵抗[邪念](The_Dark_Urge_(Origin)的检定.md)。
+1. [↑](#cite_ref-3) 某些剧情事件不允许以此方式添加加值，例如抵抗[邪念](The_Dark_Urge_(Origin).md)的检定。
 
 ---
 *Source: [Abilities](https://bg3.wiki/wiki/Abilities)*

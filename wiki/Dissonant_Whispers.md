@@ -15,7 +15,7 @@
 3d6[心灵](Psychic.md "Psychic")
 
 详情
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功：目标仍承受一半伤害。）
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "Saving throws")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "Dice rolls")）（豁免成功：目标仍承受一半伤害。）
 范围：18米（60英尺）
 
 ## 升环施法

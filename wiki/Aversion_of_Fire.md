@@ -4,7 +4,7 @@
 
 ## 描述
 
-如果此实体受到火焰伤害，它将在其下一[驱散](Turn.md "驱散")结束前获得[劣势](Disadvantage.md "劣势")，用于[攻击掷骰](Attack_rolls.md "攻击掷骰")和[检定](Ability_checks.md "检定")。
+如果此实体受到火焰伤害，它将在其下一[驱散](Turned_(Condition).md "驱散")结束前获得[劣势](Disadvantage.md "劣势")，用于[攻击掷骰](Attack_rolls.md "攻击掷骰")和[检定](Ability_checks.md "检定")。
 
 ## 状态：厌火
 

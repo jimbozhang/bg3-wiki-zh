@@ -15,7 +15,7 @@
 
 [动作](Actions.md#Resources "动作")
 
-- 投掷此蒸汽状药剂以使附近敌人[昏沉](Befuddle.md "昏沉")
+- 投掷此蒸汽状药剂以使附近敌人[昏沉](Befuddled_(Condition).md "昏沉")
   - 范围：18 米（60 英尺）
   - 创建区域：鬼头蘑菇孢子
 

@@ -55,7 +55,7 @@
 
 与吉尔德罗·角铁的互动很大程度上取决于奥林是否取代了他。
 
-- 如果吉尔德罗·角铁是真实的，他并不健谈且相当粗鲁，让小队去和埃克维凯普交易。他唯一愿意讨论的实质性问题是[铁手侏儒氏族](Ironhand_Gnome_clan.md "铁手侏儒氏族")的地底侏儒，他故意在地窖中庇护他们。如果小队已经知道此事，吉尔德罗可以解释他收容侏儒的原因。
+- 如果吉尔德罗·角铁是真实的，他并不健谈且相当粗鲁，让小队去和埃克维凯普交易。他唯一愿意讨论的实质性问题是[铁手侏儒氏族](Clan_Ironhand.md "铁手侏儒氏族")的地底侏儒，他故意在地窖中庇护他们。如果小队已经知道此事，吉尔德罗可以解释他收容侏儒的原因。
 - 如果吉尔德罗被奥林取代，她会要求玩家角色描述他们最喜欢的武器以及他们偏好的杀戮方式。具有[公会工匠](Guild_Artisan.md "公会工匠")背景的角色如果选择了正确的答案顺序，可以获得[梦想远大](Guild_Artisan.md#Dream_Big "公会工匠")激励点。<sup>[\[2\]](#cite_note-2)</sup> 奥林威胁小队并消失后，他们必须处理真正的吉尔德罗，使用各种属性检定来说服他他们不是袭击他的责任人。
 
 如果被说服，吉尔德罗仍会在最近一次长休后消失，并在血泊中留下一条[血腥信息](Bloody_Message.md "血腥信息")。
@@ -64,7 +64,7 @@
 
 通往侏儒洞穴的入口被堵住
 
-这个大地窖已成为被驱逐出城的[铁手侏儒](Ironhand_Gnome_clan.md "铁手侏儒氏族")的行动基地，由[乌尔布伦·邦格力](Wulbren.md "乌尔布伦·邦格力")领导。只有[铁手侏儒氏族](Ironhand_Gnome_clan.md "铁手侏儒氏族")的地底侏儒在[第一幕](Act_1.md "第一幕")和[第二幕](Act_2.md "第二幕")的事件中幸存下来，才能探索地窖。如果他们在[复仇之炉](Grimforge.md "复仇之炉")被杀或在[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")中死亡，地窖将无法进入。
+这个大地窖已成为被驱逐出城的[铁手侏儒](Clan_Ironhand.md "铁手侏儒氏族")的行动基地，由[乌尔布伦·邦格力](Wulbren.md "乌尔布伦·邦格力")领导。只有铁手侏儒氏族的地底侏儒在[第一幕](Act_1.md "第一幕")和[第二幕](Act_2.md "第二幕")的事件中幸存下来，才能探索地窖。如果他们在[复仇之炉](Grimforge.md "复仇之炉")被杀或在[月出之塔监狱](Moonrise_Towers_Prison.md "月出之塔监狱")中死亡，地窖将无法进入。
 
 有两个可能的入口点，但最初只能使用一个：位于 X: 30 Y: 29 的洞口。地窖内有一个铁梯，通向 X: -2 Y: -63 的舱口（在拉动地窖内的杠杆之前，它从内部被堵住）。
 
@@ -72,7 +72,7 @@
 
 进入后，小队会受到[猎犬努纳斯](Hogi_Nuners.md "猎犬努纳斯")的迎接，他派他们去和“老板”（即乌尔布伦）谈谈。大多数在之前幕中可能遇到并幸存下来的侏儒都可以在这里遇到：[图拉](Thulla.md "图拉")、[拉里达](Laridda.md "拉里达")、[菲尔罗敏](Philomeen.md "菲尔罗敏")和[巴克斯·鲁特](Barcus_Wroot.md "巴克斯·鲁特")。
 
-乌尔布伦·邦格力在地窖最里面的房间。他告诉小队他对[熔炉侏儒](熔炉侏儒.md "熔炉侏儒")的仇恨，并指责他们创造了[钢铁卫士](Steel_watch.md "钢铁卫士")。他提议摧毁[钢铁卫士铸造厂](Steelwatch_Foundry.md "钢铁卫士铸造厂")，这开启了[为铁手侏儒复仇](Avenge_the_Ironhands.md "为铁手侏儒复仇")和[关闭钢铁卫士](Disable_the_Steel_Watch.md "关闭钢铁卫士")任务。如果小队同意，乌尔布伦会提供[符文火药炸弹](Runepowder_Bomb.md "符文火药炸弹")。然而，如果巴克斯·鲁特幸存到此时，他也会在这里插话，试图劝阻乌尔布伦。如果之后与他交谈，巴克斯建议小队在诉诸极端手段之前也听听熔炉侏儒的意见。
+乌尔布伦·邦格力在地窖最里面的房间。他告诉小队他对[熔炉侏儒](Gondians.md "熔炉侏儒")的仇恨，并指责他们创造了[钢铁卫士](Steel_watch.md "钢铁卫士")。他提议摧毁[钢铁卫士铸造厂](Steelwatch_Foundry.md "钢铁卫士铸造厂")，这开启了[为铁手侏儒复仇](Avenge_the_Ironhands.md "为铁手侏儒复仇")和[关闭钢铁卫士](Disable_the_Steel_Watch.md "关闭钢铁卫士")任务。如果小队同意，乌尔布伦会提供[符文火药炸弹](Runepowder_Bomb.md "符文火药炸弹")。然而，如果巴克斯·鲁特幸存到此时，他也会在这里插话，试图劝阻乌尔布伦。如果之后与他交谈，巴克斯建议小队在诉诸极端手段之前也听听熔炉侏儒的意见。
 
 地窖内乌尔布伦的“办公室”
 
@@ -119,7 +119,7 @@
 - [邦普纳格尔](Bumpnagel.md "邦普纳格尔") - 商人
 - [杜尔博斯·弗林特](Dulbers_Frint.md "杜尔博斯·弗林特")
 - [福菲·福弗斯](Fuffi_Fuffers.md "福菲·福弗斯")<sup>[\[4\]](#cite_note-backup-4)</sup>
-- [吉普金斯·贾里德](Gippkins_Jarred.md "吉普金斯·贾里德")<sup>[\[4\]](#cite_note-backup-4)</sup>
+- [吉普金斯·贾里德](Fuffi_Fuffers.md "吉普金斯·贾里德")<sup>[\[4\]](#cite_note-backup-4)</sup>
 - [猎犬努纳斯](Hogi_Nuners.md "猎犬努纳斯")
 - [尼克尔斯](Nickels.md "尼克尔斯")
 - [菲尔罗敏](Philomeen.md "菲尔罗敏")（可选）
@@ -158,7 +158,7 @@
 - [伏击](Ambusher.md "伏击")
 - [骨刺装束](Bonespike_Garb.md "骨刺装束")
 - [精灵锁甲](Elven_Chain.md "精灵锁甲")
-- [追猎者](Tracker.md "追猎者")
+- [追猎者](Elven_Chain.md "追猎者")
 - [斯怀尔斯的滑板](Swires'_Sledboard.md "斯怀尔斯的滑板")
 - [蹁跹清风](The_Dancing_Breeze.md "蹁跹清风")
 
@@ -169,9 +169,9 @@
 - [利文顿综合商店传单](Flyer_advertising_The_Rivington_General.md "利文顿综合商店传单")
 - [吉尔德罗的大师认证](Gyldro's_Meister_Certificate.md "吉尔德罗的大师认证")
 - [深入妖精荒野](Into_the_Feywild.md "深入妖精荒野")
-- [铁手侏儒：我们的不满](Ironhand_Gnomes_colon__Our_Discontents.md "铁手侏儒：我们的不满")
+- [铁手侏儒：我们的不满](Into_the_Feywild.md "铁手侏儒：我们的不满")
 - [吉尔德罗·角铁的日志](Journal_of_Gyldro_Angleiron.md "吉尔德罗·角铁的日志")
-- [提升你的生活](Improve_Your_Life.md "提升你的生活")
+- [提升你的生活](Journal_of_Gyldro_Angleiron.md "提升你的生活")
 - [来自“圆满之心”的信](Letter_from_'The_Fulfilled_Heart'.md "来自“圆满之心”的信")
 - [符文火药与现代侏儒](Runepowder_and_the_Modern_Gnome.md "符文火药与现代侏儒")
 - [鲁特的笔记](Writings_of_a_Wroot.md "鲁特的笔记")

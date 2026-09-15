@@ -1,6 +1,6 @@
 # 永久增益
 
-**永久增益**是特殊的[状态](Conditions.md "Conditions")、角色强化或其他能力。除极少数例外，这些增益在[长休](Long_Rest.md "Long rest")后仍会保留。部分增益在[死亡](Dead_(Condition)后仍会保留.md)，但并非全部。
+**永久增益**是特殊的[状态](Conditions.md "Conditions")、角色强化或其他能力。除极少数例外，这些增益在[长休](Long_Rest.md "Long rest")后仍会保留。部分增益在[死亡](Dead_(Condition).md)后仍会保留，但并非全部。
 
 在_[博德之门3](Baldur's_Gate_3.md "Baldur's Gate 3")_中，有许多不同的永久角色强化或增益可以获得。详情及获取方式见下文。
 
@@ -96,7 +96,7 @@
 
 ### 波尔的祝福
 
-[波尔的祝福](BOOOAL's_Benediction_(Condition).md "BOOOAL's Benediction (Condition)") - 对处于[流血](Bleeding_(Condition)状态的目标进.md)行[攻击掷骰](Attack_rolls.md "Attack rolls")时具有优势。
+[波尔的祝福](BOOOAL's_Benediction_(Condition).md "BOOOAL's Benediction (Condition)") - 对处于[流血](Bleeding_(Condition).md)状态的目标进行[攻击掷骰](Attack_rolls.md "Attack rolls")时具有优势。
 
 #### 解锁方式
 
@@ -180,7 +180,7 @@
 
 ### 瓦罗的人造眼
 
-[瓦罗的人造眼](Volo's_Ersatz_Eye.md "Volo's Ersatz Eye") - 获得永久的[识破隐形](See_Invisibility_(Condition)效果.md)。此状态会永久改变受术者右眼的外观，使其最接近“蓝色3”，无法使用[魔法镜](Magic_Mirror.md "Magic Mirror")逆转，且与付出代价互斥。
+[瓦罗的人造眼](Volo's_Ersatz_Eye.md "Volo's Ersatz Eye") - 获得永久的[识破隐形](See_Invisibility_(Condition).md)效果。此状态会永久改变受术者右眼的外观，使其最接近“蓝色3”，无法使用[魔法镜](Magic_Mirror.md "Magic Mirror")逆转，且与付出代价互斥。
 
 #### 解锁方式
 

@@ -4,7 +4,7 @@
 
 ## 描述
 
-让一名盟友进入保护性昏迷状态。他们变得对所有[伤害](Damage_types.md "伤害类型")具有[抗性](Resistant.md "抗性")，除了[心灵](Psychic.md "心灵")伤害。[疾病](Diseased_(status_group).md)和[中毒](Poisoned_(status_group)不再有任何效果.md)。
+让一名盟友进入保护性昏迷状态。他们变得对所有[伤害](Damage_types.md "伤害类型")具有[抗性](Resistant.md "抗性")，除了[心灵](Psychic.md "心灵")伤害。[疾病](Diseased_(status_group).md)和[中毒](Poisoned_(status_group).md)不再有任何效果。
 
 当被[协助](Help.md "协助")时移除。
 

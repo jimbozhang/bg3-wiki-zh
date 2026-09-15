@@ -1,6 +1,6 @@
 # 卡尔萨斯王冠
 
-**卡尔萨斯王冠**由来自费伦帝国[耐色瑞尔](Netheril.md "耐色瑞尔")的大法师卡尔萨斯创造。它是一件非常强大的物品，据说任何挥舞它的人都能获得神一般的力量。它是一个无敌的实体，出现在[主脑顶部](Confront_the_Elder_Brain.md#Atop_the_Netherbrain "与主脑对峙")的[第三章](Act_Three.md "第三章")中。用[卡尔萨斯强迫术](Karsus'_Compulsion.md "卡尔萨斯强迫术")瞄准它是击败[主脑](The_Netherbrain.md "主脑")的最终战斗的倒数第二个目标。
+**卡尔萨斯王冠**由来自费伦帝国[耐色瑞尔](Netheril.md "耐色瑞尔")的大法师卡尔萨斯创造。它是一件非常强大的物品，据说任何挥舞它的人都能获得神一般的力量。它是一个无敌的实体，出现在[主脑顶部](Confront_the_Elder_Brain.md#Atop_the_Netherbrain "与主脑对峙")的[第三章](Act_Three.md "第三章")中。用[卡尔萨斯强迫术](Karsus'_Compulsion.md "卡尔萨斯强迫术")瞄准它是击败[耐色脑](The_Netherbrain.md "主脑")的最终战斗的倒数第二个目标。
 
 ## 历史
 
@@ -32,7 +32,7 @@
 - [凯瑟里克·索姆](Ketheric_Thorm.md "凯瑟里克·索姆")
 - [恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")
 - [腥红奥林](Orin.md "腥红奥林")
-- [主脑](The_Netherbrain.md "主脑")
+- [耐色脑](The_Netherbrain.md "主脑")
 
 ## 相关物品
 

@@ -28,7 +28,7 @@
 
 艾尔坦的激烈领导力和对正义坚定不移的承诺，将⁠[焰拳](https://forgottenrealms.fandom.com/wiki/Flaming_Fist)塑造成对抗[博德之门](Baldur's_Gate.md "博德之门")犯罪底层的强大力量。艾尔坦以其战略智慧和创新战术而闻名，将焰拳塑造成如今高效且令人畏惧的组织。
 
-\[下方出现了一幅描绘公爵艾尔坦的凌乱图像，显然是为了掩盖下方书写的文字。你可以辨认出几个词：'铁'、['萨里佛克'](萨里佛克.md "萨里佛克")、⁠['危机'](https://forgottenrealms.fandom.com/wiki/Iron_Crisis)等。\]
+\[下方出现了一幅描绘公爵艾尔坦的凌乱图像，显然是为了掩盖下方书写的文字。你可以辨认出几个词：'铁'、['萨里佛克'](Sarevok.md "萨里佛克")、⁠['危机'](https://forgottenrealms.fandom.com/wiki/Iron_Crisis)等。\]
 
 公爵艾尔坦的精神在我们所有焰拳士兵中永存。我确信你会发现这项任务既具有职业挑战性，又具有个人回报性。
 

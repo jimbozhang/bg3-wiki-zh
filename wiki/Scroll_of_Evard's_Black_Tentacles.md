@@ -18,7 +18,7 @@
 - 范围：18 米 (60 英尺)
 - 范围效果：6 米 (20 英尺) 半径
 - 创建区域：艾伐黑触手，施加[劣势地形](Difficult_Terrain_(Condition).md)
-- 持续时间：10 [驱散](Turn.md "Turn")
+- 持续时间：10 [驱散](Difficult_Terrain_(Condition).md "Turn")
 
 ## 获取地点
 

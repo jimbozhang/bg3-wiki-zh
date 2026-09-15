@@ -15,7 +15,7 @@
 2d6[黯蚀](Necrotic.md "黯蚀")
 
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：目标仍受到一半伤害，但能够使用[反应](Actions.md#Reactions "动作")。）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）（豁免成功：目标仍受到一半伤害，但能够使用[反应](Actions.md#Reactions "动作")。）
 范围：自身
 区域：3米（10英尺）半径
 

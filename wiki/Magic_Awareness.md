@@ -20,7 +20,7 @@
 
 **[魔法感知](Magic_Awareness_(Condition).md "魔法感知（状态）")**
 
-持续时间：1[驱散](Turn.md "驱散")
+持续时间：1[驱散](Turned_(Condition).md "驱散")
 
 - 野蛮人及3米（10英尺）范围内的所有生物在[豁免检定](Saving_throw.md "豁免检定")上获得1d4加值。
 

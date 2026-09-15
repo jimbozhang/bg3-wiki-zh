@@ -33,7 +33,7 @@
 
 持续时间：直至[长休](Long_Rest.md "长休")
 
-- 一阵狂乱的愤怒折磨着受影响实体的肉体。其[多重攻击](Multiattack_(Flesh)每次造成额.md)外1d8⁠⁠[钝击](Bludgeoning.md "钝击")伤害，并使目标[倒伏](Prone_(Condition).md "倒伏（状态）")
+- 一阵狂乱的愤怒折磨着受影响实体的肉体。其[多重攻击](Multiattack_(Flesh).md)每次造成额外1d8⁠⁠[钝击](Bludgeoning.md "钝击")伤害，并使目标[倒伏](Prone_(Condition).md "倒伏（状态）")
 - 它还获得对挥砍、穿刺和钝击伤害的[抗性](Resistance.md "抗性")，并在力量[属性检定](Ability_Check.md "属性检定")和[豁免检定](Saving_throw.md "豁免检定")上具有[优势](Advantage.md "优势")。
 - 如果受影响实体恢复其全部生命值，此狂怒状态结束。
 
@@ -51,7 +51,7 @@
 
 ## 备注
 
-- 肉肉在[目盲](Blinded_(Condition).md "目盲（状态）")或受任何其他[状态组](Blinded_(status_group)中的状态影响时无法使用此反应.md)。
+- 肉肉在[目盲](Blinded_(Condition).md "目盲（状态）")或受任何其他[状态组](Blinded_(status_group).md)中的状态影响时无法使用此反应。
 - 肉肉在[失心狂怒](Berserk_(Condition).md "失心狂怒（状态）")时会攻击其盟友。
 - 此效果可被[安定心神](Calm_Emotions.md "安定心神")驱散。
 

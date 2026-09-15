@@ -19,7 +19,7 @@
 \+ 2d8⁠[光耀](Radiant.md "光耀")
 
 详情
-[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功：法术被抵消)
+[感知](Wisdom.md "WIS") [豁免检定](Saving_throws.md "豁免检定") ([法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")) (豁免成功：法术被抵消)
 射程：26米（87英尺）
 
 ## 状态：恶毒嘲笑

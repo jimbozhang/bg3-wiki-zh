@@ -11,7 +11,7 @@
 
 ## 获取地点
 
-- 钉在通往[废弃战场](Ruined_Battlefield.md#Mansion_across_the_Last_Light "废弃战场")中[小型宅邸](Ruined_Battlefield.md#Mansion_across_the_Last_Light "废弃战场")的小径上的公告板，位于[幽影诅咒之地](Shadow_Cursed_Lands.md "幽影诅咒之地")的[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")对面，坐标 X: 8 Y: 149
+- 钉在通往[废弃战场](Ruined_Battlefield.md#Mansion_across_the_Last_Light "废弃战场")中[小型宅邸](Ruined_Battlefield.md#Mansion_across_the_Last_Light "废弃战场")的小径上的公告板，位于[幽影诅咒之地](Shadow-Cursed_Lands.md "幽影诅咒之地")的[终焉光芒旅店](Last_Light_Inn.md "终焉光芒旅店")对面，坐标 X: 8 Y: 149
 
 ## 文本
 

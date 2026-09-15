@@ -11,7 +11,7 @@
 
 ## 相关剧情
 
-队伍可以操作[精金熔炉](Adamantine_Forge_(quest).md) 并对抗他的杰作[复仇侍卫](Grym.md "Grym")。此外，队伍还可以找到关于他以及他撰写的与[精金熔炉](Adamantine_Forge_(location)相关的文献.md)。
+队伍可以操作[精金熔炉](Adamantine_Forge_(quest).md) 并对抗他的杰作[复仇侍卫](Grym.md "Grym")。此外，队伍还可以找到关于他以及他撰写的与[精金熔炉](Adamantine_Forge_(location).md)相关的文献。
 
 ## 相关文献
 

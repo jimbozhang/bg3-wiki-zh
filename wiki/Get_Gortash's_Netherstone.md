@@ -1,6 +1,6 @@
 # 拿到戈塔什的耐色石
 
-**拿到戈塔什的耐色石**是[博德之门3](Baldur's Gate_3.md "博德之门3")[第三章](Act_Three.md "第三章")中的一个[任务](Quest.md "任务")。可以通过在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")上方的礼堂与[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")对话来触发。
+**拿到戈塔什的耐色石**是[博德之门3](Baldur's_Gate_3.md "博德之门3")[第三章](Act_Three.md "第三章")中的一个[任务](Quest.md "任务")。可以通过在[飞龙岩要塞](Wyrm's_Rock_Fortress.md "飞龙岩要塞")上方的礼堂与[恩维尔·戈塔什](Enver_Gortash.md "恩维尔·戈塔什")对话来触发。
 
 > “
 >

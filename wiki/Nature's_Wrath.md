@@ -11,7 +11,7 @@
 消耗
 [动作](Actions.md#Resources "动作") + [引导誓言充能](Channel_Oath_Charge.md "引导誓言充能")
 详情
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：3米（10英尺）
 
 ## 状态：自然之怒
@@ -20,7 +20,7 @@
 
 持续时间：10驱散
 
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 
 - 无法移动。
 - 对受影响生物的[攻击掷骰](Attack_roll.md "攻击掷骰")具有[优势](Advantage.md "优势")。

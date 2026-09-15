@@ -16,7 +16,7 @@
 
 **[网缚](Enwebbed_(Condition).md "网缚 (状态)")**
 
-持续时间：1 [驱散](Turn.md "驱散")
+持续时间：1 [驱散](Turned_(Condition).md "驱散")
 
 [敏捷](Dexterity.md "敏捷") [豁免检定](Saving_throws.md "豁免检定") ([骰子掷骰](DC.md "骰子掷骰") 12)
 

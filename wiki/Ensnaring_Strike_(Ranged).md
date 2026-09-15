@@ -24,7 +24,7 @@
 
 详情
 远程武器 [攻击掷骰](Attack_roll.md "攻击掷骰")
-[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免DC](Dice_rolls.md#Spell_save_DC "掷骰")）
+[力量](Strength.md "力量") [豁免检定](Saving_throws.md "豁免检定")（[法术豁免难度等级](Dice_rolls.md#Spell_save_DC "掷骰")）
 范围：18米（60英尺）
 [专注](Concentration.md "专注")
 

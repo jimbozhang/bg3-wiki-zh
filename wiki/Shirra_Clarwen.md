@@ -30,7 +30,7 @@
 
 - [借机攻击](Opportunity_Attack.md "Opportunity Attack")
 
-**希拉·克拉文修女**是[武僧灵体](Monk_Manifestation.md "Monk's Manifestation")的孙女，也是[伊尔梅特](Ilmater.md "Ilmater")的追随者，曾居住在[利文顿](Rivington.md "Rivington")的[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")。
+**希拉·克拉文修女**是[武僧灵体](Zombie.md "Monk's Manifestation")的孙女，也是[伊尔梅特](Ilmater.md "Ilmater")的追随者，曾居住在[利文顿](Rivington.md "Rivington")的[慈爱神殿](Open_Hand_Temple.md "Open Hand Temple")。
 
 ## 目录
 

@@ -35,7 +35,7 @@
 
 这些更改更接近[桌面游戏使用的规则](D&D_5e_rule_changes.md#Action_Economy "D&D 5e rule changes")。
 
-此外，荣誉模式中的[心灵庇护](Mind_Sanctuary.md "Mind Sanctuary")仅[加速](Hastened_(Condition)其内的角色.md)，而不是允许他们互换使用动作和附赠动作。
+此外，荣誉模式中的[心灵庇护](Mind_Sanctuary.md "Mind Sanctuary")仅[加速](Hastened_(Condition).md)其内的角色，而不是允许他们互换使用动作和附赠动作。
 
 ### 伤害机制简化
 
@@ -98,14 +98,14 @@
 - [狂想曲](Rhapsody.md "Rhapsody")的猩红叠加层数现在仅通过杀死敌人获得。以前，你可以通过摧毁无生命物体（如板条箱）轻松达到最大层数。
 - [奥术协同王冠](Diadem_of_Arcane_Synergy.md "Diadem of Arcane Synergy")现在仅当你对敌人施加效果时才给予[奥术协同](Arcane_Synergy_(Condition).md "Arcane Synergy (Condition)")（[受威胁](Threatened_(Condition).md "Threatened (Condition)")不计数）。以前，它会在你对任何事物施加任何效果时激活。
 - 潜在的新物品。这些物品列在与[阿拉吉·欧布罗扎](Araj_Oblodra.md "Araj Oblodra")相关的宝藏表中，但尚不清楚它们是否可以通过正常方式在游戏中获得。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
-- 积聚法杖（[长棍](Quarterstaves.md "Quarterstaves")）：用近距离法术（范围⁠6米（20英尺）或更小的法术）造成伤害时获得[奥术充能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")。
+- 积聚法杖（[长棍](Quarterstaves.md "Quarterstaves")）：用近距离法术（范围⁠6米（20英尺）或更小的法术）造成伤害时获得[奥术蓄能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")。
   - 吸脑斗篷（[披风](Cloaks.md "Cloaks")）：每当你成功通过法术的[豁免检定](Saving_throw.md "Saving Throw")时，对施法者施加2层[精神疲劳](Mental_Fatigue_(Condition).md "Mental Fatigue (Condition)")。
   - [奥术吸收匕首](Arcane_Absorption_Dagger.md "Arcane Absorption Dagger")
   - [闪亮的碎颅锤](Shining_Staver-of-Skulls.md "Shining Staver-of-Skulls")现在具有永久的光亮术戏法效果，范围7.5米。\[bg3wiki:验证](bg3wiki_colon_Verification.md "bg3wiki:验证")\]
 
 ### 效果更改
 
-- [奥术充能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")已大幅重做。
+- [奥术蓄能](Arcane_Charge_(Condition).md "Arcane Charge (Condition)")已大幅重做。
   - 以前它提供等于你的[熟练项加值](Proficiency_Bonus.md "Proficiency bonus")的额外伤害，用于对抗[受威胁](Threatened_(Condition).md "Threatened (Condition)")目标的*所有*伤害。激活时还会施加50%[移动速度](Movement_speed.md "Movement speed")惩罚。
   - 现在，它为法术对抗受威胁目标提供2点额外伤害。没有移动速度惩罚。
   - [静待良机](Bided_Time.md "Bided Time")现在仅在被敌人近战攻击击中时激活。以前，它可以被盟友攻击触发（例如，如果你使用[法师之手](Mage_Hand.md "Mage Hand")攻击自己）。
@@ -126,7 +126,7 @@
 
 - [召唤魔像铃铛](Summon_Golem_Bell.md "Summon Golem Bell")现在需要一个动作来使用，并且不再算作“疾走”以激活[奥术强化之靴](Boots_of_Arcane_Bolstering.md "Boots of Arcane Bolstering")等物品。以前，它是激活疾走物品的完全免费方式。
 - [永恒玻璃酒瓶（有时是强酸）](Eternal_Carafe_of_Wine_(Or_Sometimes_Acid).md "Eternal Carafe of Wine (Or Sometimes Acid)")现在使用需要[附赠动作](Resources.md#Common_resources "Resources")。以前，它是[酒精](Alcohol_(Condition).md "Alcohol (Condition)")（或有时[强酸](Acid_(Condition).md "Acid (Condition)")）的完全免费来源。
-- [岁月知识](Knowledge_of_the_Ages.md "岁月知识")现在给予[驯兽](Animal_Handling.md "Animal Handling")、[洞悉](Insight.md "Insight")、[察觉技能](Perception.md "Perception")、[医药](Medicine.md "Medicine")和[求生](Survival.md "Survival")的熟练项。它以前给予[驯兽](Animal_Handling.md "Animal Handling")、[历史的](History.md "History")、[调查](Investigation.md "Investigation")、[自然](Nature.md "Nature")和[宗教](Religion.md "Religion")的熟练项。
+- [岁月知识](Knowledge_of_the_Ages.md "岁月知识")现在给予[驯兽](Animal_Handling.md "Animal Handling")、[洞悉](Insight.md "Insight")、[察觉技能](Perception.md "Perception")、[医药](Medicine.md "Medicine")和[求生](Survival.md "Survival")的熟练项。它以前给予[驯兽](Animal_Handling.md "Animal Handling")、[历史](History.md "History")、[调查](Investigation.md "Investigation")、[自然](Nature.md "Nature")和[宗教](Religion.md "Religion")的熟练项。
 
 ---
 *Source: [Guide:Undocumented Patch 5 updates](https://bg3.wiki/wiki/Guide:Undocumented_Patch_5_updates)*

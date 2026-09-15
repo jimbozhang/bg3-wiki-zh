@@ -1,6 +1,6 @@
 # 灵魂收割
 
-**灵魂收割**是[拉斐尔](Raphael.md "拉斐尔")独有的被动技能，当他[击倒](Downed_(Condition)一名生物时.md)，会提高他的致命性。
+**灵魂收割**是[拉斐尔](Raphael.md "拉斐尔")独有的被动技能，当他[击倒](Downed_(Condition).md)一名生物时，会提高他的致命性。
 
 ## 描述
 
@@ -24,7 +24,7 @@
 
 ## 简要预览
 
-当将敌人的[生命值](HP.md "HP")降至0时，[断裂](Severed_Soul_(Condition)其灵魂.md)。
+当将敌人的[生命值](HP.md "HP")降至0时，[断裂](Severed_Soul_(Condition).md)其灵魂。
 
 ---
 *Source: [Soul Reaper](https://bg3.wiki/wiki/Soul_Reaper)*

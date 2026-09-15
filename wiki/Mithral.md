@@ -1,6 +1,6 @@
 # 秘银矿石
 
-**秘银矿石**被列为“普通”[消耗品](Consumables.md "消耗品")物品，但在任何游戏流程中只存在两个。它用于制造精金护甲或武器，所有这些物品都具有[手酸臂软](Reeling_(Condition).md) effect。说明和配方可在书籍[了不起的复仇之炉](The_Great_Furnace_of_Grymforge.md "了不起的复仇之炉")中找到。制造过程在[精金熔炉](Adamantine_Forge_(location)完成.md)。
+**秘银矿石**被列为“普通”[消耗品](Consumables.md "消耗品")物品，但在任何游戏流程中只存在两个。它用于制造精金护甲或武器，所有这些物品都具有[手酸臂软](Reeling_(Condition).md) effect。说明和配方可在书籍[了不起的复仇之炉](The_Great_Furnace_of_Grymforge.md "了不起的复仇之炉")中找到。制造过程在[精金熔炉](Adamantine_Forge_(location).md)完成。
 
 粗糙、未经加工且原始——这块秘银矿石已准备好投入熔炉。
 

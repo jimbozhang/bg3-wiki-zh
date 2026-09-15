@@ -50,17 +50,17 @@
 
 ### 法术
 
-角色可以通过提高[法术豁免DC](Spell_save_DC.md "Spell Save DC")，或在有限程度上降低沃斯的豁免检定，来克服其强大的加值。
+角色可以通过提高[法术豁免难度等级](Spell_save_DC.md "Spell Save DC")，或在有限程度上降低沃斯的豁免检定，来克服其强大的加值。
 
-一名角色可在第一幕内通过以下物品最大化法术豁免DC：
+一名角色可在第一幕内通过以下物品最大化法术豁免难度等级：
 
 - [马友夫初始法杖](Melf's_First_Staff.md "Melf's First Staff")
 - [守护火花壁垒](The_Protecty_Sparkswall.md "The Protecty Sparkswall")
 - [遮蔽施法饰环](The_Shadespell_Circlet.md "The Shadespell Circlet")
 
-假设一名5级角色施法关键属性为18，装备这些物品后，法术豁免DC为18。通过[属性值提升](ASI.md "ASI")和[埃赛尔婶婶的头发](Auntie_Ethel's_Hair.md "Auntie Ethel's Hair")将属性值提升至20，可进一步将法术豁免DC提高至19。
+假设一名5级角色施法关键属性为18，装备这些物品后，法术豁免难度等级为18。通过[属性值提升](ASI.md "ASI")和[埃赛尔婶婶的头发](Auntie_Ethel's_Hair.md "Auntie Ethel's Hair")将属性值提升至20，可进一步将法术豁免难度等级提高至19。
 
-为完全最大化DC，可努力升至6级，此后[战斗法师之力灵药](Elixir_of_Battlemage's_Power.md "Elixir of Battlemage's Power")会在特定[商人](Trader.md "Trader")库存中出现。饮用此药水将使法术豁免DC固定为最高值22。但除非特别说明，以下方法假设玩家将在5级时遭遇巡逻队，以节省刷级时间。
+为完全最大化DC，可努力升至6级，此后[战斗法师之力灵药](Elixir_of_Battlemage's_Power.md "Elixir of Battlemage's Power")会在特定[商人](Trader.md "Trader")库存中出现。饮用此药水将使法术豁免难度等级固定为最高值22。但除非特别说明，以下方法假设玩家将在5级时遭遇巡逻队，以节省刷级时间。
 
 #### 命令术：掉落
 
@@ -86,7 +86,7 @@
 
 5级[驯兽师](Beastmaster.md "Beastmaster")可召唤[大熊座](Ursa_Major.md "Ursa Major")同伴，其掌握[沾蜜利爪](Honeyed_Paws.md "Honeyed Paws")能力。此能力在攻击掷骰命中时将自动解除武装，且尽管需要近战范围，但召唤生物可在不触发过场动画的情况下进入亲密距离。与其他选项不同，此方法无需豁免检定，沃斯的护甲等级成为唯一防御层。凭借熊的原始属性，完全无增益时已有**45%**成功率。
 
-相比提升玩家自身的法术豁免DC，有更多且更强力的方法提升熊的攻击掷骰。为真正物超所值，玩家可：
+相比提升玩家自身的法术豁免难度等级，有更多且更强力的方法提升熊的攻击掷骰。为真正物超所值，玩家可：
 
 - 使熊隐形以获得[优势](Advantage.md "Advantage")
 - 对熊使用[祝福术](Bless.md "Bless")获得+1d4

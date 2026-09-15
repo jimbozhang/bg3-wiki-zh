@@ -22,7 +22,7 @@
 
 ## 文本
 
-\[近期收据，费用已付，用于一幅完整的[灾祸术](Bane_(God).md),)神祇肖像画，附有戈塔什工整笔迹的旁注：“如今他已双重不朽”。\]
+\[近期收据，费用已付，用于一幅完整的[班恩](Bane_(God).md),)神祇肖像画，附有戈塔什工整笔迹的旁注：“如今他已双重不朽”。\]
 
 ---
 *Source: [Receipt for Painting](https://bg3.wiki/wiki/Receipt_for_Painting)*
