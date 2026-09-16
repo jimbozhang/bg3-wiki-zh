@@ -14,7 +14,7 @@
 ## A
 
 Abigail
-[关于贡德与进步](On_the_Subject_of_Gond_and_Progress.md "关于贡德与进步")
+[论贡德与进步](On_the_Subject_of_Gond_and_Progress.md "论贡德与进步"))
 
 Aggamid
 [皱巴巴的信](Crumpled_Letter.md "皱巴巴的信")
@@ -32,7 +32,7 @@ Allice Bormul
 [波缪男爵的遗嘱](Baron_Bormul's_Will.md "波缪男爵的遗嘱")
 
 Aly
-[阿莉的遗愿](Aly's_Last_Wishes.md "阿莉的遗愿")
+[艾莉的遗愿](Aly's_Last_Wishes.md "艾莉的遗愿"))
 
 Amanda
 [手写字条](Handwritten_Note.md "手写字条")
@@ -76,7 +76,7 @@ Arabella
 [阿拉贝尔的来信（营地）](Letter_from_Arabella_(Camp).md "阿拉贝尔的来信（营地）")
 
 Araj Oblodra
-[阿raj的来信](Letter_from_Araj.md "阿raj的来信")
+[阿拉吉的信](Letter_from_Araj.md "阿拉吉的信"))
 
 Archdruid Aelis
 [写给卡哈的信](Letter_to_Kagha.md "写给卡哈的信")
@@ -95,27 +95,27 @@ Arnell Hallowleaf
 [阿内尔·圣叶的来信](Letter_from_Arnell_Hallowleaf.md "阿内尔·圣叶的来信")
 
 Art Cullagh
-[阿特的来信](Letter_from_Art.md "阿特的来信")
+[阿尔特的信](Letter_from_Art.md "阿尔特的信"))
 
 Auntie Ethel
 [鬼婆监视笔记](Hag_Spy's_Note.md "鬼婆监视笔记")
 [鬼婆间谍的笔记（梅丽娜已死）](Hag_Spy's_Note_(Mayrina_dead).md "鬼婆间谍的笔记（梅丽娜已死）")
 [我能救你的孩子](I_Can_Save_Your_Child.md "我能救你的孩子")
-[艾瑟尔姑妈的来信](Letter_from_Auntie_Ethel.md "艾瑟尔姑妈的来信")
+[埃赛尔婶婶的信](Letter_from_Auntie_Ethel.md "埃赛尔婶婶的信"))
 [埃赛尔的信](Letter_from_Ethel.md "埃赛尔的信")
 [充满爱意的字条](Loving_Note.md "充满爱意的字条")
 [赎金笔记](Ransom_Note.md "赎金笔记")
 [你值得感受美丽](You_Deserve_To_Feel_Beautiful.md "你值得感受美丽")
 
 Avery Koltz
-[直接向拳手科尔茨投诉](Direct_Complaint_to_Fist_Koltz.md "直接向拳手科尔茨投诉")
+[向拳手科尔茨直接投诉](Direct_Complaint_to_Fist_Koltz.md "向拳手科尔茨直接投诉"))
 
 Avery Sonshal
 [噼里啪啦：烟火的乐趣](Boom,_Bang,_Blast_colon__The_joy_of_fireworks.md "噼里啪啦：烟火的乐趣")
 [潦草的便条（下城区）](Scribbled_Note_(Lower_City).md "潦草的便条（下城区）")
 
 Aylin
-[艾琳女士的来信](Letter_from_Dame_Aylin.md "艾琳女士的来信")
+[艾琳女士的信](Letter_from_Dame_Aylin.md "艾琳女士的信"))
 
 ## B
 
@@ -137,16 +137,16 @@ Balthazar
 [神殿地图](Temple_Map.md "神殿地图")
 
 Barcus Wroot
-[巴库斯的来信](Letter_from_Barcus.md "巴库斯的来信")
+[巴克斯的信](Letter_from_Barcus.md "巴克斯的信"))
 
 Barnie Pins
-[倾听我的祈祷。求你了？](Hear_My_Prayer._Please_q_.md "倾听我的祈祷。求你了？")
+[听听我的祈祷。好吗？](Hear_My_Prayer._Please_q_.md "听听我的祈祷。好吗？"))
 
 Beldina Boneknuckles
 [凯兰沃的怜悯](Kelemvor's_Mercy.md "凯兰沃的怜悯")
 
 Bilvoy Reede
-[关于恩维尔·戈塔什活动的报告](Report_on_Activities_of_Enver_Gortash.md "关于恩维尔·戈塔什活动的报告")
+[恩弗·戈塔什活动报告](Report_on_Activities_of_Enver_Gortash.md "恩弗·戈塔什活动报告"))
 
 Black Hand of Loyalty
 [盾牌骑士的报告](Knights_of_the_Shield_Report.md "盾牌骑士的报告")
@@ -169,22 +169,22 @@ Brem
 [基础毒素配方](Toxin_Recipe.md "基础毒素配方")
 
 Brevek Faenor
-[致费伦的善良虔诚者](To_the_Good_Godly_Folk_of_Faer%C3%BBn.md "致费伦的善良虔诚者")
+[致费伦的善良虔诚之民](To_the_Good_Godly_Folk_of_Faer%C3%BBn.md "致费伦的善良虔诚之民"))
 
 Brian
 [矮人诗歌](Dwarf's_Poem.md "矮人诗歌")
 
 Bugs Stillwater
-[穷途末路](End_of_My_Rope.md "穷途末路")
+[我已无路可走](End_of_My_Rope.md "我已无路可走"))
 [夜班报告](Night_Shift_Report.md "夜班报告")
 
 ## C
 
 Caïros
-[凯罗斯的警告](Ca%C3%AFros'_Warning.md "凯罗斯的警告")
+[卡洛斯的警告](Ca%C3%AFros'_Warning.md "卡洛斯的警告"))
 
 Callira
-[我会让你进去](I'll_Get_You_In.md "我会让你进去")
+[我会带你进去](I'll_Get_You_In.md "我会带你进去"))
 
 Carrotts
 [大批递送](Big_Delivery.md "大批递送")
@@ -222,7 +222,7 @@ Church of Shar
 [月之少女的最终献祭](The_Final_Sacrifice_of_the_Moon_Daughter.md "月之少女的最终献祭")
 
 Churg Elvek
-[致沃洛坦普·盖达姆](For_the_Attention_of_Volothamp_Geddarm.md "致沃洛坦普·盖达姆")
+[致瓦罗坦普·盖达姆的信函](For_the_Attention_of_Volothamp_Geddarm.md "致瓦罗坦普·盖达姆的信函"))
 [致马莱克·斯通斯](To_Malek_Stones.md "致马莱克·斯通斯")
 
 Circus of the Last Days
@@ -258,7 +258,7 @@ Custen Meen
 ## D
 
 Dammon
-[达蒙的来信](Letter_from_Dammon.md "达蒙的来信")
+[戴摩的信](Letter_from_Dammon.md "戴摩的信"))
 
 Damon Briska
 [关于本地的奇怪骑手](Regarding_Strange_Riders_in_These_Parts.md "关于本地的奇怪骑手")
@@ -284,7 +284,7 @@ Dengo Tootlehood
 [想去流浪？](Got_the_Itch_to_Wander_q_.md "想去流浪？")
 
 Derque Rillyn
-[我亲爱的诺塔尔夫人](My_Dear_Madame_Nortale.md "我亲爱的诺塔尔夫人")
+[亲爱的诺泰尔夫人](My_Dear_Madame_Nortale.md "亲爱的诺泰尔夫人"))
 
 Derryth Bonecloak
 [格鲁姆波给德里丝的信](To_Glumbor_from_Derryth.md "格鲁姆波给德里丝的信")
@@ -293,7 +293,7 @@ Dersu's Vintage Tipple
 [收据](Receipt.md "收据")
 
 Devella Fountainhead
-[黛薇拉的来信](Letter_from_Devella.md "黛薇拉的来信")
+[德维拉的信](Letter_from_Devella.md "德维拉的信"))
 [斯特梅谋杀案笔记](Notes_on_Stelmane's_Murder.md "斯特梅谋杀案笔记")
 [关于失踪的画家](Regards_Missing_Painters.md "关于失踪的画家")
 [紧急 —— 巴尔信徒复生](URGENT_-_Bhaalist_Resurgence.md "紧急 —— 巴尔信徒复生")
@@ -355,8 +355,8 @@ Enver Gortash
 [感谢信](My_Gratitude.md "感谢信")
 [后续行动](Next_Steps.md "后续行动")
 [来自负责人戈塔什的字条](Note_from_Director_Gortash.md "来自负责人戈塔什的字条")
-[来自戈塔什的字条](Note_from_Gortash.md "来自戈塔什的字条")
-[来自戈塔什的字条](Note_from_Gortash.md "来自戈塔什的字条")
+[来自戈塔什的字条（塑境秘潭）](Note_from_Gortash.md "来自戈塔什的字条（塑境秘潭）"))
+[来自戈塔什的字条（塑境秘潭）](Note_from_Gortash.md "来自戈塔什的字条（塑境秘潭）"))
 [给黑手套里夫斯的命令](Orders_to_Black_Gauntlet_Rives.md "给黑手套里夫斯的命令")
 [政治影响计划](Political_Influence_Plan.md "政治影响计划")
 [画作收据](Receipt_for_Painting.md "画作收据")
@@ -419,14 +419,14 @@ Fireliia Jannath's mother
 [来自母亲的信](Letter_from_Mother.md "来自母亲的信")
 
 Flaming Fist
-[悬赏清单 - 本轮十日](Bounty_List_-_Current_Tenday.md "悬赏清单 - 本轮十日")
+[赏金列表 - 本轮十日](Bounty_List_-_Current_Tenday.md "赏金列表 - 本轮十日"))
 [目击者证言](Eyewitness_Account.md "目击者证言")
-[H表，拒绝准入](Form_H,_Refusal_of_Admittance.md "H表，拒绝准入")
+[表格 H，拒绝入场](Form_H,_Refusal_of_Admittance.md "表格 H，拒绝入场"))
 [公开调查](Open_Investigation.md "公开调查")
 [招募海报](Recruitment_Poster.md "招募海报")
 [转所请求](Transfer_Request.md "转所请求")
 [上城区准入指令](Upper_City_Access_Orders.md "上城区准入指令")
-[紧急 - 报告失踪案激增](Urgent_-_Rapid_Increase_in_Reported_Disappearances.md "紧急 - 报告失踪案激增")
+[紧急 - 报告失踪案件激增](Urgent_-_Rapid_Increase_in_Reported_Disappearances.md "紧急 - 报告失踪案件激增"))
 [悬赏海报](Wanted_Poster.md "悬赏海报")
 
 Flora
@@ -437,32 +437,32 @@ Florenta
 
 Florrick
 [顾问弗洛瑞克来信](Letter_from_Counsellor_Florrick.md "顾问弗洛瑞克来信")
-[弗洛瑞克的来信](Letter_from_Florrick.md "弗洛瑞克的来信")
+[弗洛瑞克的信](Letter_from_Florrick.md "弗洛瑞克的信"))
 
 Flytebon
-[双人入场券 - 绿洲剧院](Admit_Two_-_Oasis_Theatre.md "双人入场券 - 绿洲剧院")
+[入场券两张 - 绿洲剧院](Admit_Two_-_Oasis_Theatre.md "入场券两张 - 绿洲剧院"))
 
 Fortuno Dibbs
-[关于汤与饥饿](On_the_Matter_of_Soups_and_Starvation.md "关于汤与饥饿")
+[关于汤与饥饿的问题](On_the_Matter_of_Soups_and_Starvation.md "关于汤与饥饿的问题"))
 
 Francesca
-[弗朗西斯卡的来信](Letter_from_Francesca.md "弗朗西斯卡的来信")
+[弗兰切斯卡的信](Letter_from_Francesca.md "弗兰切斯卡的信"))
 
 Fruward the Nail
-[钉子：状态报告](Nail_colon__Status_Report.md "钉子：状态报告")
+[钉刺：状态报告](Nail_colon__Status_Report.md "钉刺：状态报告"))
 
 ## G
 
 Gale
 [一个法师的告别](A_Wizard's_Farewell.md "一个法师的告别")
-[即兴信](Improvised_Letter.md "即兴信")
+[临时信件](Improvised_Letter.md "临时信件"))
 [卷轴](Scroll.md "卷轴")
 
 Gallaher Brym
 [给哈佛·吉斯特大人的信](To_Lord_Haverford_Gist.md "给哈佛·吉斯特大人的信")
 
 Geraldus
-[竖琴印章信](Harp-stamped_Letter.md "竖琴印章信")
+[竖琴印记信件](Harp-stamped_Letter.md "竖琴印记信件"))
 
 Gerard Densim
 [寻求信用证](Seeking_Letter_of_Credit.md "寻求信用证")
@@ -484,7 +484,7 @@ Grand Duke Eltan
 [焰拳的命令状](Flaming_Fist_Writ_of_Command.md "焰拳的命令状")
 
 Grenna Dooboble-Pamperling
-[老加洛处的擅自占地者](Squatters_at_Old_Garlow's_Place.md "老加洛处的擅自占地者")
+[老加洛之家的擅自占用者](Squatters_at_Old_Garlow's_Place.md "老加洛之家的擅自占用者"))
 
 Grimlark
 [黑暗诗句1](Grimlark_Verse_1.md "黑暗诗句1")
@@ -516,7 +516,7 @@ Gyldro Angleiron's mother
 ## H
 
 Haarlep
-[哈莱普的来信](Letter_from_Haarlep.md "哈莱普的来信")
+[哈勒普的信](Letter_from_Haarlep.md "哈勒普的信"))
 
 Hadley
 [斥候的笔记](Scout's_Note.md "斥候的笔记")
@@ -528,7 +528,7 @@ Hahns Rives
 Halsin
 [德鲁伊的笔记](Druid_Note.md "德鲁伊的笔记")
 [匆忙写下的字条](Hastily_Written_Note.md "匆忙写下的字条")
-[哈尔辛的来信](Letter_from_Halsin.md "哈尔辛的来信")
+[哈尔辛的信](Letter_from_Halsin.md "哈尔辛的信"))
 [关于卓尔寄生虫的笔记](Notes_on_Drow_Parasite.md "关于卓尔寄生虫的笔记")
 [潦草的字条](Scribbled_Note.md "潦草的字条")
 
@@ -570,10 +570,10 @@ Hoops
 [礼品记录](Gift_Note.md "礼品记录")
 
 Hoots Hooligan
-[待结账：调查员瓦莱里娅](Pending_Tab_colon__Investigator_Valeria.md "待结账：调查员瓦莱里娅")
+[待结账单：调查员瓦莱里亚](Pending_Tab_colon__Investigator_Valeria.md "待结账单：调查员瓦莱里亚"))
 
 Hope
-[霍普的来信](Letter_from_Hope.md "霍普的来信")
+[希望的信](Letter_from_Hope.md "希望的信"))
 
 Hydrangea Wubb
 [帮我注册](Sign_Me_Up.md "帮我注册")
@@ -593,14 +593,14 @@ Infernal Mason
 [皱巴巴的字条](Wrinkled_Note.md "皱巴巴的字条")
 
 Interviewer of Kingsley Harp
-[愉快的交易：惊人真相](A_Pleasurable_Deal_colon__The_Shocking_Truth.md "愉快的交易：惊人真相")
+[《一场愉悦的交易》：令人震惊的真相](A_Pleasurable_Deal_colon__The_Shocking_Truth.md "《一场愉悦的交易》：令人震惊的真相"))
 
 Ironfinger
 [铁指来信](Letter_from_Ironfinger.md "铁指来信")
 
 Isobel
 [褶皱的字条](Crumpled_Note.md "褶皱的字条")
-[伊索贝尔的来信](Letter_from_Isobel.md "伊索贝尔的来信")
+[伊索贝尔的信](Letter_from_Isobel.md "伊索贝尔的信"))
 [来自伊索贝尔的字条](Note_from_Isobel.md "来自伊索贝尔的字条")
 
 ## J
@@ -623,15 +623,15 @@ Jatlo
 [请求加入鬼婆幸存者](Request_to_Join_the_Hag_Survivors.md "请求加入鬼婆幸存者")
 
 Julio Facemaker
-[胡里奥·法斯梅克的最后遗嘱](The_Last_Will_and_Testament_of_Julio_Facemaker.md "胡里奥·法斯梅克的最后遗嘱")
+[胡里奥·费斯梅克的最后遗嘱](The_Last_Will_and_Testament_of_Julio_Facemaker.md "胡里奥·费斯梅克的最后遗嘱"))
 
 ## K
 
 K.C.
-[进一步咨询请求](Request_for_further_Consultation.md "进一步咨询请求")
+[请求进一步咨询](Request_for_further_Consultation.md "请求进一步咨询"))
 
 Kagha
-[卡迦的来信](Letter_from_Kagha.md "卡迦的来信")
+[卡哈的信](Letter_from_Kagha.md "卡哈的信"))
 
 Karsus
 [魔术师，小心了](Magus,_Be_Warned.md "魔术师，小心了")
@@ -645,7 +645,7 @@ Ketheric Thorm
 [来自月出之塔的信函](Missive_From_Moonrise.md "来自月出之塔的信函")
 [旧信](Old_Letter.md "旧信")
 [华丽信封](Ornate_Letter.md "华丽信封")
-[搁置树林议题](Taking_the_Groves_Off_the_Table.md "搁置树林议题")
+[移除林地计划](Taking_the_Groves_Off_the_Table.md "移除林地计划"))
 [骄傲的代价](The_Price_of_Pride.md "骄傲的代价")
 [未寄出的信（凯瑟里克·索姆）](Unsent_Letter_(Ketheric_Thorm).md "未寄出的信（凯瑟里克·索姆）")
 
@@ -738,11 +738,11 @@ Lurianna Sauvage
 ## M
 
 M.
-[“M”的来信](Letter_from_'M'.md "“M”的来信")
+[M的来信](Letter_from_'M'.md "M的来信"))
 [给埃赛尔的信](Letter_to_Ethel.md "给埃赛尔的信")
 
 Madeline Whitburn
-[我要严重投诉！](I_Have_a_Serious_Complaint!.md "我要严重投诉！")
+[我有一个严肃的投诉！](I_Have_a_Serious_Complaint!.md "我有一个严肃的投诉！"))
 
 Maestro Hartstrum
 [“圆满之心”的来信](Letter_from_'The_Fulfilled_Heart'.md "“圆满之心”的来信）
@@ -812,14 +812,14 @@ Mistress Seamlock
 [有香味的信](Scented_Letter.md "有香味的信")
 
 Mizora
-[米佐拉的来信](Letter_from_Mizora.md "米佐拉的来信")
+[来自米佐拉的信](Letter_from_Mizora.md "来自米佐拉的信"))
 
 Mol
 [摩尔的来信](Letter_from_Mol.md "摩尔的来信")
 [来自摩尔的字条](Note_from_Mol.md "来自摩尔的字条")
 
 Mommers
-[致普罗沃斯学院的莉莉·查兹曼](To_Lily_Chazman,_Provoss_Academy.md "致普罗沃斯学院的莉莉·查兹曼")
+[致莉莉·查兹曼，普罗沃斯学院](To_Lily_Chazman,_Provoss_Academy.md "致莉莉·查兹曼，普罗沃斯学院"))
 
 Morgan
 [来自摩根的信](Letter_from_Morgan.md "来自摩根的信")
@@ -827,7 +827,7 @@ Morgan
 Mystic Carrion
 [收购记录](Acquisitions_Record.md "收购记录")
 [染血警告信](Blood-Stained_Warning.md "染血警告信")
-[给奥斯卡·费弗拉斯的信](Letter_to_Oskar_Fevras.md "给奥斯卡·费弗拉斯的信")
+[给奥斯卡·费拉斯的信](Letter_to_Oskar_Fevras.md "给奥斯卡·费拉斯的信"))
 [羊皮纸（迦纳斯宅邸）](Parchment_(Jannath's_Estate).md "羊皮纸（迦纳斯宅邸）")
 [羊皮纸（下城区）](Parchment_(Lower_City).md "羊皮纸（下城区）")
 [秘术师卡里翁的恐吓](Threat_from_Mystic_Carrion.md "秘术师卡里翁的恐吓")
@@ -835,29 +835,29 @@ Mystic Carrion
 ## N
 
 Naaber
-[纳贝尔的来信](Letter_from_Naaber.md "纳贝尔的来信")
+[纳贝尔的信](Letter_from_Naaber.md "纳贝尔的信"))
 
 Nansi Gretta
-[致博德之门书友会，致歉](To_Baldur's_Gate_Book_Club,_with_apologies.md "致博德之门书友会，致歉")
+[前往博德之门书友会，致歉](To_Baldur's_Gate_Book_Club,_with_apologies.md "前往博德之门书友会，致歉"))
 
 Nashkellan
-[给雷文伽德公爵的紧急报告](Urgent_Report_for_Duke_Ravengard.md "给雷文伽德公爵的紧急报告")
+[雷文伽德公爵紧急报告](Urgent_Report_for_Duke_Ravengard.md "雷文伽德公爵紧急报告"))
 
 Nestor
 [内斯特的警告](Nestor's_Warning.md "内斯特的警告")
 
 Nightmist
-[激动人心的消息！](Exciting_News!.md "激动人心的消息！")
+[好消息！](Exciting_News!.md "好消息！"))
 
 Nine-Fingers Keene
 [死或生](Dead_or_Alive.md "死或生")
-[九指的来信](Letter_from_Nine-Fingers.md "九指的来信")
+[九指的信](Letter_from_Nine-Fingers.md "九指的信"))
 [错过的付款](Missed_Payment.md "错过的付款")
-[我们的提议仍然有效](Our_Offer_Remains_Open.md "我们的提议仍然有效")
+[我们的提议依然有效](Our_Offer_Remains_Open.md "我们的提议依然有效"))
 [装运订单](Shipment_Orders.md "装运订单")
 
 Nocturne
-[诺克特恩的来信](Letter_from_Nocturne.md "诺克特恩的来信")
+[来自夜曲的信](Letter_from_Nocturne.md "来自夜曲的信"))
 
 Norya Baker
 [未来（给维尔米娜）](A_Future_(To_Vilmina).md "未来（给维尔米娜）")
@@ -872,7 +872,7 @@ Of Thine Will
 [马上回来](Return_at_Once.md "马上回来")
 
 Old Garlow
-[致新住户的问候](A_Greeting_to_this_Home's_New_Occupants.md "致新住户的问候")
+[致此家新住户的问候](A_Greeting_to_this_Home's_New_Occupants.md "致此家新住户的问候"))
 
 Oliver Tefoco
 [恭喜（以及惊喜！）](Congratulations_(And_a_Surprise!).md "恭喜（以及惊喜！）")
@@ -885,7 +885,7 @@ Omotola
 [这是你的新戒指](Your_New_Ring.md "这是你的新戒指")
 
 Ontur
-[准备 - 就绪！](Preperations_-_prepared!.md "准备 - 就绪！")
+[准备就绪 - 准备就绪！](Preperations_-_prepared!.md "准备就绪 - 准备就绪！"))
 
 Orin
 [安混排乱](A_Plan_for_Chaos.md "安混排乱")
@@ -895,10 +895,10 @@ Orin
 [巴萨扎尔，第五人](Balthazar,_the_Fifth.md "巴萨扎尔，第五人")
 [染血的便条（下城区）](Bloodied_Note_(Lower_City).md "染血的便条（下城区）")
 [血腥信息](Bloody_Message.md "血腥信息")
-[血书皱巴巴的便条](Crumpled_Note_Scrawled_in_Blood.md "血书皱巴巴的便条")
+[血书褶皱的字条](Crumpled_Note_Scrawled_in_Blood.md "血书褶皱的字条"))
 [伊菈赛菈，第一人](Illasera,_the_First.md "伊菈赛菈，第一人")
 [谋杀指令](Kill_Order.md "谋杀指令")
-[干掉戈塔什！干得漂亮！](Kudos_on_the_Murder_of_Gortash!.md "干掉戈塔什！干得漂亮！")
+[暗杀戈塔什的嘉奖令！](Kudos_on_the_Murder_of_Gortash!.md "暗杀戈塔什的嘉奖令！"))
 [干掉戈塔什！干得漂亮！（无裁判所）](Kudos_on_the_Murder_of_Gortash!_(no_tribunal).md "干掉戈塔什！干得漂亮！（无裁判所）")
 [奥林的信](Letter_from_Orin.md "奥林的信")
 [带粘性红点的信](Letter_with_Sticky_Red_Blots.md "带粘性红点的信")
@@ -911,8 +911,8 @@ Orvil
 [亲爱的奎尔](Dear_Quil.md "亲爱的奎尔")
 
 Oskar Fevras
-[仅供奥斯卡·费弗拉斯慧眼一阅](For_The_Discerning_Eyes_of_Oskar_Fevras_ONLY.md "仅供奥斯卡·费弗拉斯慧眼一阅")
-[仅供迦纳斯夫人慧眼一阅](For_the_Eyes_Of_Lady_Jannath_ONLY.md "仅供迦纳斯夫人慧眼一阅")
+[仅供奥斯卡·费拉斯的慧眼一阅](For_The_Discerning_Eyes_of_Oskar_Fevras_ONLY.md "仅供奥斯卡·费拉斯的慧眼一阅"))
+[仅限迦纳斯夫人之眼](For_the_Eyes_Of_Lady_Jannath_ONLY.md "仅限迦纳斯夫人之眼"))
 [未寄出的信（奥斯卡·费弗拉斯）](Unsent_Letter_(Oskar_Fevras).md "未寄出的信（奥斯卡·费弗拉斯）")
 
 ## P
@@ -921,8 +921,8 @@ Pagis Rhee, High Harper of Cloakwood Chapter
 [给里翁的信](Letter_to_Rion.md "给里翁的信")
 
 Pammella Nortale
-[致惠特本大人的信（草稿）](Draft_Letter_to_Lord_Whitburn.md "致惠特本大人的信（草稿）")
-[诺塔尔旅店 - 房规](Nortale's_Hostel_-_House_Rules.md "诺塔尔旅店 - 房规")
+[致惠特本勋爵的信函草稿](Draft_Letter_to_Lord_Whitburn.md "致惠特本勋爵的信函草稿"))
+[诺泰尔旅社 - 家规](Nortale's_Hostel_-_House_Rules.md "诺泰尔旅社 - 家规"))
 
 Papa Fins
 [藏宝图](Map_to_Buried_Treasure.md "藏宝图")
@@ -960,15 +960,15 @@ Racha
 Rakath Glitterbeard
 [办事员的信](Clerk's_Letter.md "办事员的信")
 [清账屋账目 - 47号](Counting_House_Accounts_-_Number_47.md "清账屋账目 - 47号")
-[来自首席银行家拉卡斯·格利特比尔德的办公桌](From_the_Desk_of_Rakath_Glitterbeard,_Head_Banker.md "来自首席银行家拉卡斯·格利特比尔德的办公桌")
-[箱子接收说明](Instructions_for_Receipt_of_Chest.md "箱子接收说明")
+[拉凯斯·耀须，首席银行家的办公桌](From_the_Desk_of_Rakath_Glitterbeard,_Head_Banker.md "拉凯斯·耀须，首席银行家的办公桌"))
+[箱子收据说明](Instructions_for_Receipt_of_Chest.md "箱子收据说明"))
 [致欧坎·蟾息](To_Orkan_Toadbreath.md "致欧坎·蟾息")
 
 Ramazith
 [伊尔明斯特通道](The_Path_to_Elminster.md "伊尔明斯特通道")
 
 Raphael
-[契约：莫尔](Contract_colon__Mol.md "契约：莫尔")
+[契约：摩尔](Contract_colon__Mol.md "契约：摩尔"))
 [债务整合](Debt_Consolidation.md "债务整合")
 [给沃斯的信](Letter_to_Voss.md "给沃斯的信")
 [债务人名单](List_of_Debtors.md "债务人名单")
@@ -985,10 +985,10 @@ Redhammer
 [潦草废纸](Scribbled_Scrap.md "潦草废纸")
 
 Regis
-[最后警告](Final_Warning.md "最后警告")
+[最后警告 (磨坊)](Final_Warning.md "最后警告 (磨坊)"))
 
 Rhea
-[信](Letter.md "信")
+[信件](Letter.md "信件"))
 
 Rilsa Rael
 [来自头目瑞莎的字条](Note_from_Kingpin_Rilsa.md "来自头目瑞莎的字条")
@@ -997,7 +997,7 @@ Rion
 [未发出的信息](Unsent_Sending.md "未发出的信息")
 
 Roah Moonglow
-[留意鲁甘](Keep_an_Eye_on_Rugan.md "留意鲁甘")
+[监视鲁根](Keep_an_Eye_on_Rugan.md "监视鲁根"))
 [观察笔记](Observation_Notes.md "观察笔记")
 
 ## S
@@ -1006,25 +1006,25 @@ S.
 [强硬的信](Tough_Letter.md "强硬的信")
 
 Sabine, Freddie, and the kids x
-[感谢晚餐](Thank_You_for_Dinner.md "感谢晚餐")
+[感谢您的晚餐](Thank_You_for_Dinner.md "感谢您的晚餐"))
 
 Sarevok Anchev
-[萨弗沃克书中的一页](A_page_from_Sarevok's_book.md "萨弗沃克书中的一页")
+[沙洛佛克之书的一页](A_page_from_Sarevok's_book.md "沙洛佛克之书的一页"))
 [表面工作](Keeping_Up_Appearances.md "表面工作")
-[萨弗沃克的来信](Letter_from_Sarevok.md "萨弗沃克的来信")
+[沙洛佛克的信](Letter_from_Sarevok.md "沙洛佛克的信"))
 
 Sarin
 [染色的日志碎片](Stained_Journal_Fragment.md "染色的日志碎片")
 [撕下的日志碎片](Torn_Journal_Fragment.md "撕下的日志碎片")
 
 Sazza
-[萨扎的羊皮纸](Parchment_from_Sazza.md "萨扎的羊皮纸")
+[萨扎的羊皮卷](Parchment_from_Sazza.md "萨扎的羊皮卷"))
 
 Sceleritas Fel
-[巴尔管家清单 – 早晨](Bhaal_Butler's_Checklist_%E2%80%93_Morning.md "巴尔管家清单 – 早晨")
+[巴尔管家的待办事项清单 – 早晨](Bhaal_Butler's_Checklist_%E2%80%93_Morning.md "巴尔管家的待办事项清单 – 早晨"))
 
 Sebastian
-[塞巴斯蒂安的来信](Letter_from_Sebastian.md "塞巴斯蒂安的来信")
+[塞巴斯蒂安的信](Letter_from_Sebastian.md "塞巴斯蒂安的信"))
 
 Sevrin Bask
 [拒绝信](Rejection_Letter.md "拒绝信")
@@ -1051,10 +1051,10 @@ Sneggers
 [走私者笔记](Smuggler's_Note.md "走私者笔记")
 
 Society of Brilliance
-[光耀会的邀请](An_Opportunity_from_the_Society_of_Brilliance.md "光耀会的邀请")
+[光耀会的邀约](An_Opportunity_from_the_Society_of_Brilliance.md "光耀会的邀约"))
 [警示说明](Cautionary_Note.md "警示说明")
 [关于博德之门的未来](Concerning_the_Future_of_Baldur's_Gate.md "关于博德之门的未来")
-[代表光耀会公开招募冒险者](Open_Call_for_Adventurers_on_Behalf_of_the_Society.md "代表光耀会公开招募冒险者")
+[代表光耀会招募冒险者的公开信](Open_Call_for_Adventurers_on_Behalf_of_the_Society.md "代表光耀会招募冒险者的公开信"))
 
 Son of Sir Gorran Penghyst
 [家书](A_Letter_For_Home.md "家书")
@@ -1078,7 +1078,7 @@ Sylai
 [塞莱来信](Letter_from_Sylai.md "塞莱来信")
 
 Sylvira Savikas
-[如我上一封信所述](As_Per_My_Last_Letter.md "如我上一封信所述")
+[如我上封信所言](As_Per_My_Last_Letter.md "如我上封信所言"))
 
 ## T
 
@@ -1097,14 +1097,14 @@ The Anti-Lunar League
 [月之少女的罪行](Crimes_of_the_Moonmaiden.md "月之少女的罪行")
 
 The Apothecary
-[“药剂师”的来信](Letter_from_'The_Apothecary'.md "“药剂师”的来信")
+[来自“药剂师”的信](Letter_from_'The_Apothecary'.md "来自“药剂师”的信"))
 
 The Cowled Wizards of Amn
 [信函](Correspondence.md "信函")
 
 The Emperor
 [亲爱的安苏](Dear_Ansur.md "亲爱的安苏")
-[来自尊上主的公函](Missive_from_the_Emperor.md "来自尊上主的公函")
+[君主的信函](Missive_from_the_Emperor.md "君主的信函"))
 
 The Good Wife Sutton
 [请愿书](A_Plea.md "请愿书")
@@ -1123,7 +1123,7 @@ The Guild of Blacksmiths
 [吉尔德罗的大师认证](Gyldro's_Meister_Certificate.md "吉尔德罗的大师认证")
 
 The Guild of Great Genius
-[公会官方信函](Official_Guild_Letter.md "公会官方信函")
+[官方公会信函](Official_Guild_Letter.md "官方公会信函"))
 
 The Warden
 [月出之塔囚犯记录](Moonrise_Towers_Prisoner_Log.md "月出之塔囚犯记录")
@@ -1138,7 +1138,7 @@ Therezzyn
 [给养育官寇库的通知](Notice_to_Varsh_Ko'kuu.md "给养育官寇库的通知")
 
 Three-Piece
-[嘿 德兹](Hey_Dez.md "嘿 德兹")
+[嘿，德兹](Hey_Dez.md "嘿，德兹"))
 
 Thrumbo
 [斯郎博的字条](Thrumbo's_Note.md "斯郎博的字条")
@@ -1165,8 +1165,8 @@ Uktar
 
 Ulder Ravengard
 [弗洛瑞克的处分通告](Florrick's_Demotion_Notice.md "弗洛瑞克的处分通告")
-[雷文伽德的来信](Letter_from_Ravengard.md "雷文伽德的来信")
-[乌尔德·雷文伽德的来信](Letter_from_Ulder_Ravengard.md "乌尔德·雷文伽德的来信")
+[雷文伽德的信](Letter_from_Ravengard.md "雷文伽德的信"))
+[来自乌尔德·雷文伽德的信](Letter_from_Ulder_Ravengard.md "来自乌尔德·雷文伽德的信"))
 [来自雷文伽德公爵的命令](Orders_from_Duke_Ravengard.md "来自雷文伽德公爵的命令")
 [特殊指令](SPECIAL_ORDER.md "特殊指令")
 
@@ -1175,16 +1175,16 @@ Ulova
 
 unknown
 [“见面”]('Let's_meet'.md "“见面”")
-[“失踪”启事]('Missing'_Poster.md "“失踪”启事")
-[“最后机会”]('One_last_chance'.md "“最后机会”")
-[“静默”]('To_silence'.md "“静默”")
+['失踪' 海报]('Missing'_Poster.md "'失踪' 海报"))
+['最后的机会']('One_last_chance'.md "'最后的机会'"))
+['静音']('To_silence'.md "'静音'"))
 [真诚坦白](A_Heartfelt_Confession.md "真诚坦白")
-[为每位博德工作者提供家园！](A_Home_for_Every_Working_Baldurian!.md "为每位博德工作者提供家园！")
+[为每一位工作的博德人安家！](A_Home_for_Every_Working_Baldurian!.md "为每一位工作的博德人安家！"))
 [自由请愿书](A_Plea_for_Freedom.md "自由请愿书")
 [保护请愿书](A_Plea_for_Protection.md "保护请愿书")
 [向诸神请愿](A_Plea_to_the_Gods.md "向诸神请愿")
-[富饶之地](A_Rich_and_Fertile_Land.md "富饶之地")
-[一只羊被充满创意的热情宰杀。](A_sheep_butchered_with_creative_zeal..md "一只羊被充满创意的热情宰杀。")
+[一片富饶丰沃的土地](A_Rich_and_Fertile_Land.md "一片富饶丰沃的土地"))
+[一只充满创意热情的绵羊被屠宰。](A_sheep_butchered_with_creative_zeal..md "一只充满创意热情的绵羊被屠宰。"))
 [《剑湾的警告》](A_Warning_to_the_Sword_Coast.md "《剑湾的警告》")
 [至上真神指令：新教徒](Absolute_Orders_colon__Newborn.md "至上真神指令：新教徒")
 [一个保证](An_Assurance.md "一个保证")
@@ -1193,13 +1193,13 @@ unknown
 [匿名信（迦纳斯夫人宅邸）](Anonymous_letter_(Lady_Jannath's_Estate).md "匿名信（迦纳斯夫人宅邸）")
 [匿名信（剑湾快递）](Anonymous_letter_(Sword_Coast_Couriers).md "匿名信（剑湾快递）")
 [安苏精锐的征募海报](Ansur's_Finest_Recruitment_Poster.md "安苏精锐的征募海报")
-[有备用的吗？](Anything_Spare_q_.md "有备用的吗？")
+[有什么多余的东西吗？](Anything_Spare_q_.md "有什么多余的东西吗？"))
 [使徒日记](Apostle_Diary.md "使徒日记")
 [保释报告](Bail_Report.md "保释报告")
-[博德之口 1492年 第83期](Baldur's_Mouth_1492_DR_Issue_83.md "博德之口 1492年 第83期")
+[博德之口 1492 DR 第83期](Baldur's_Mouth_1492_DR_Issue_83.md "博德之口 1492 DR 第83期"))
 [博德安建立了一座城市](Balduran_Founds_a_City.md "博德安建立了一座城市")
-[当心外国人！](Be_Wary_of_Foreigners!.md "当心外国人！")
-[展望保护的未来：钢铁卫士！](Behold_Protection's_Future_colon__The_Steel_Watch!.md "展望保护的未来：钢铁卫士！")
+[提防外国人！](Be_Wary_of_Foreigners!.md "提防外国人！"))
+[见证守护的未来：钢铁卫士！](Behold_Protection's_Future_colon__The_Steel_Watch!.md "见证守护的未来：钢铁卫士！"))
 [黑弥撒卷轴](Black_Mass_Scroll.md "黑弥撒卷轴")
 [勒索信](Blackmail_Letter.md "勒索信")
 [铁匠笔记](Blacksmith's_Note.md "铁匠笔记")
@@ -1227,24 +1227,24 @@ unknown
 [清账屋保险库条例](Counting_House_Vault_Rules.md "清账屋保险库条例")
 [褶皱的书页](Creased_Page.md "褶皱的书页")
 [达拉莱恩·尼克莱](Daralyne_Nikley.md "达拉莱恩·尼克莱")
-[黎明大师斯托克霍德，工艺大师](Dawnmaster_Stockhold,_Master_of_his_Craft.md "黎明大师斯托克霍德，工艺大师")
+[黎明大师斯托克霍德，技艺大师](Dawnmaster_Stockhold,_Master_of_his_Craft.md "黎明大师斯托克霍德，技艺大师"))
 [致尊敬的祭司夫人](Dear_Missus_Priest.md "致尊敬的祭司夫人")
 [最亲爱的法利亚](Dearest_Fireliia.md "最亲爱的法利亚")
 [万神殿献礼](Dedications_to_the_Pantheon.md "万神殿献礼")
 [详情账簿](Detailed_Ledger.md "详情账簿")
 [详情报告](Detailed_Report.md "详情报告")
 [日记](Diary.md "日记")
-[烛堡晚餐？](Dinner_at_Candlekeep_q_.md "烛堡晚餐？")
-[邪魔刺客的挽歌](Dirge_of_the_Unholy_Assassin.md "邪魔刺客的挽歌")
+[晚宴在烛堡？](Dinner_at_Candlekeep_q_.md "晚宴在烛堡？"))
+[刺客的安魂曲](Dirge_of_the_Unholy_Assassin.md "刺客的安魂曲"))
 [不要失败](Do_Not_Fail.md "不要失败")
-[别惹灯神](Don't_Mess_With_Djinnies.md "别惹灯神")
+[别惹气巨灵](Don't_Mess_With_Djinnies.md "别惹气巨灵"))
 [宿舍花名册](Dormitory_Roster.md "宿舍花名册")
 [一切必须做到完美](Everything_Must_Be_Perfect.md "一切必须做到完美")
 [邪恶邪恶邪恶](Evil_evil_evil.md "邪恶邪恶邪恶")
 [处刑公告](Execution_Notice.md "处刑公告")
 [褪色的反转卷轴](Faded_Scroll_of_Reversal.md "褪色的反转卷轴")
 [关于魔鬼信徒的文件](File_Under_Diabolist.md "关于魔鬼信徒的文件")
-[最后警告](Final_Warning.md "最后警告")
+[最后警告 (磨坊)](Final_Warning.md "最后警告 (磨坊)"))
 [优美的报告](Fine_Reports.md "优美的报告")
 [初稿 —— 角色](First_Draft_-_Characters.md "初稿 —— 角色")
 [初稿 —— 剧情](First_Draft_-_Story.md "初稿 —— 剧情")
@@ -1260,32 +1260,32 @@ unknown
 [救命！](HELP!.md "救命！")
 [《家用祈祷手册》](Household_Prayer.md "《家用祈祷手册》")
 [就职报告](Installation_Report.md "就职报告")
-[以免你忘记](Just_So_You_Don't_Forget.md "以免你忘记")
-[生产账簿：动力装置](Ledger_of_Production_colon__Motivators.md "生产账簿：动力装置")
+[别让你忘了](Just_So_You_Don't_Forget.md "别让你忘了"))
+[生产日志：激发器](Ledger_of_Production_colon__Motivators.md "生产日志：激发器"))
 [税收信件](Letter_about_Taxes.md "税收信件")
 [感谢信](Letter_of_Thanks.md "感谢信")
-[致“桑萨尔先生”](Letter_to_'Mister_Sonsal'.md "致“桑萨尔先生”")
-[再来点吃的！](More_food_please!.md "再来点吃的！")
-[音乐与歌词：‘吟游诗人之舞’](Music_and_Lyrics_colon__'Bard_Dance'.md "音乐与歌词：‘吟游诗人之舞’")
-[音乐与歌词：‘旧日之战’](Music_and_Lyrics_colon__'Old_Time_Battles'.md "音乐与歌词：‘旧日之战’")
-[音乐与歌词：‘力量’](Music_and_Lyrics_colon__'The_Power'.md "音乐与歌词：‘力量’")
-[没人会出版我的！](No_one_will_publish_me!.md "没人会出版我的！")
+[致“索萨尔先生”的信](Letter_to_'Mister_Sonsal'.md "致“索萨尔先生”的信"))
+[多来点吃的！](More_food_please!.md "多来点吃的！"))
+[音乐与歌词：'吟游诗人之舞'](Music_and_Lyrics_colon__'Bard_Dance'.md "音乐与歌词：'吟游诗人之舞'"))
+[音乐与歌词：《旧日战歌》](Music_and_Lyrics_colon__'Old_Time_Battles'.md "音乐与歌词：《旧日战歌》"))
+[音乐与歌词：《力量》](Music_and_Lyrics_colon__'The_Power'.md "音乐与歌词：《力量》"))
+[没人愿意出版我的作品！](No_one_will_publish_me!.md "没人愿意出版我的作品！"))
 [巴萨扎尔没有消息](No_Word_from_Balthazar.md "巴萨扎尔没有消息")
 [无教派和平祷文](Non-Demoninational_Prayer_of_Peace.md "无教派和平祷文")
-[致凯罗斯的便条](Note_to_Ca%C3%AFros.md "致凯罗斯的便条")
+[给卡洛斯的便条](Note_to_Ca%C3%AFros.md "给卡洛斯的便条"))
 [通知（骨cloak）](Notice_(Bonecloak).md "通知（骨cloak）")
 [慈爱神殿蓝图](Open_Hand_Temple_Plans.md "慈爱神殿蓝图")
 [羊皮纸（下城区下水道）](Parchment_(Lower_City_Sewers).md "羊皮纸（下城区下水道）")
 [收集品鸽子在售](Pigeon_Available_for_Collection.md "收集品鸽子在售")
 [请阅读！](PLEASE_READ!.md "请阅读！")
 [私人货物](Private_Shipment.md "私人货物")
-[永恒之体仪式](Rite_of_the_Timeless_Body.md "永恒之体仪式")
+[永恒之躯仪式](Rite_of_the_Timeless_Body.md "永恒之躯仪式"))
 [荆棘仪式（卷轴）](Rite_of_Thorns_(scroll).md "荆棘仪式（卷轴）")
-[安全可靠：我们的金库指南](Safe_and_Sound_colon__a_Guide_to_our_Vaults.md "安全可靠：我们的金库指南")
+[安全无虞：我们的保险库指南](Safe_and_Sound_colon__a_Guide_to_our_Vaults.md "安全无虞：我们的保险库指南"))
 [潦草的字条](Scribbled_Note.md "潦草的字条")
 [轮班记录](Shift_Log.md "轮班记录")
 [货物遗失通知单](Shipment_Loss_Notice.md "货物遗失通知单")
-[货运通知](Shipment_Notice.md "货运通知")
+[货物通知单](Shipment_Notice.md "货物通知单"))
 [员工博彩池](Staff_Betting_Pool.md "员工博彩池
 
 ---
